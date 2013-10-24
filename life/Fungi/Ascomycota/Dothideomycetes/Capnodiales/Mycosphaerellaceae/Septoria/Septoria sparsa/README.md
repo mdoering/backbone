@@ -1,5 +1,4 @@
-Septoria sparsa Fuckel SPECIES
-=======
+# Septoria sparsa Fuckel SPECIES
 
 #### Status
 ACCEPTED

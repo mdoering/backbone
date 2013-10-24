@@ -1,5 +1,4 @@
-Dentalina boueana d'Orbigny SPECIES
-=======
+# Dentalina boueana d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

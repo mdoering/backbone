@@ -1,5 +1,4 @@
-Entoloma rhombisporum var. rhombisporum (Kühner & Boursier) E. Horak, 1976 VARIETY
-=======
+# Entoloma rhombisporum (Kühner & Boursier) Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 28: 228 (1976)
+null
 
 #### Original name
-Entoloma rhombisporum var. rhombisporum (Kühner & Boursier) E. Horak, 1976
+null
 
 ### Remarks
 null

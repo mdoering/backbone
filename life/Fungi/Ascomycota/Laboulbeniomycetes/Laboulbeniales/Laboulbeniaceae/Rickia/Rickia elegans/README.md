@@ -1,5 +1,4 @@
-Rickia elegans Thaxt. SPECIES
-=======
+# Rickia elegans Thaxt. SPECIES
 
 #### Status
 ACCEPTED

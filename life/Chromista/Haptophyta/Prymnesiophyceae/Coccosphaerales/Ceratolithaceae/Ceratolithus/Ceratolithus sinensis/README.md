@@ -1,5 +1,4 @@
-Ceratolithus sinensis Chongyou Wang SPECIES
-=======
+# Ceratolithus sinensis Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

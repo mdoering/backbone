@@ -1,5 +1,4 @@
-Edigania M.V. Stepanova, 1980 GENUS
-=======
+# Edigania M.V. Stepanova, 1980 GENUS
 
 #### Status
 ACCEPTED

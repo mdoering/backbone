@@ -1,5 +1,4 @@
-Puccinia californica Dietel SPECIES
-=======
+# Puccinia californica Dietel SPECIES
 
 #### Status
 ACCEPTED

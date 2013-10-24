@@ -1,5 +1,4 @@
-Cordyceps kusanagiensis Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps kusanagiensis Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphophialis concinna R.F. Castañeda, W.B. Kendr. & Guarro, 1998 SPECIES
-=======
+# Amphophialis concinna R.F. Castañeda, W.B. Kendr. & Guarro, 1998 SPECIES
 
 #### Status
 ACCEPTED

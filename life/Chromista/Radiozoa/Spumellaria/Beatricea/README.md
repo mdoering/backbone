@@ -1,5 +1,4 @@
-Beatricea Whalen & Carter, 1998 GENUS
-=======
+# Beatricea Whalen & Carter, 1998 GENUS
 
 #### Status
 ACCEPTED

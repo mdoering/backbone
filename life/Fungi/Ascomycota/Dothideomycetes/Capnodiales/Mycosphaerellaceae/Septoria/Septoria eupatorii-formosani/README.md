@@ -1,5 +1,4 @@
-Septoria eupatorii-formosani Sawada SPECIES
-=======
+# Septoria eupatorii-formosani Sawada SPECIES
 
 #### Status
 ACCEPTED

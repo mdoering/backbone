@@ -1,5 +1,4 @@
-Streptococcus shiloi Eldar et al., 1995 SPECIES
-=======
+# Streptococcus shiloi Eldar et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

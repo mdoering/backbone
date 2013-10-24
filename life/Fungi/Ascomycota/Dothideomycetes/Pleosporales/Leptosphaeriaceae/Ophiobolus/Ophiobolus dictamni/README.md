@@ -1,5 +1,4 @@
-Ophiobolus dictamni (Fuckel) Sacc. SPECIES
-=======
+# Ophiobolus dictamni (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

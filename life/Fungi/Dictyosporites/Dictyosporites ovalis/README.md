@@ -1,5 +1,4 @@
-Dictyosporites ovalis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Dictyosporites ovalis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

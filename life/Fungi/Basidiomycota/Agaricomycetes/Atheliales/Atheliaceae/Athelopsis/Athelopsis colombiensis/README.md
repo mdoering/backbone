@@ -1,5 +1,4 @@
-Athelopsis colombiensis Hjortstam & Ryvarden, 2001 SPECIES
-=======
+# Athelopsis colombiensis Hjortstam & Ryvarden, 2001 SPECIES
 
 #### Status
 ACCEPTED

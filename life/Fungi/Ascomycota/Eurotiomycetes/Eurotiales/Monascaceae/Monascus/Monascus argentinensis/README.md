@@ -1,5 +1,4 @@
-Monascus argentinensis Stchigel & Guarro, 2004 SPECIES
-=======
+# Monascus argentinensis Stchigel & Guarro, 2004 SPECIES
 
 #### Status
 ACCEPTED

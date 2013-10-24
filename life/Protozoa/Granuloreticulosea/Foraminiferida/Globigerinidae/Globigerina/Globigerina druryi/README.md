@@ -1,5 +1,4 @@
-Globigerina druryi Akers SPECIES
-=======
+# Globigerina druryi Akers SPECIES
 
 #### Status
 ACCEPTED

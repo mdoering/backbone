@@ -1,5 +1,4 @@
-Hysterographium fuegianum Speg. SPECIES
-=======
+# Hysterographium fuegianum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia meizomorpha Nyl. SPECIES
-=======
+# Arthonia meizomorpha Nyl. SPECIES
 
 #### Status
 ACCEPTED

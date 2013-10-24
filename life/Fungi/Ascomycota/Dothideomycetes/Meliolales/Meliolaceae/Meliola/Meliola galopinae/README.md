@@ -1,5 +1,4 @@
-Meliola galopinae Hansf. SPECIES
-=======
+# Meliola galopinae Hansf. SPECIES
 
 #### Status
 ACCEPTED

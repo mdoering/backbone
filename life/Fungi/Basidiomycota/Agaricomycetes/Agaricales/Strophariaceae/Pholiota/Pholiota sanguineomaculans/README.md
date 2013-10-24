@@ -1,5 +1,4 @@
-Pholiota sanguineomaculans Höhn. SPECIES
-=======
+# Pholiota sanguineomaculans Höhn. SPECIES
 
 #### Status
 ACCEPTED

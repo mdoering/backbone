@@ -1,5 +1,4 @@
-Acanthocystis aculeata Hert. Less. SPECIES
-=======
+# Acanthocystis aculeata Hert. Less. SPECIES
 
 #### Status
 ACCEPTED

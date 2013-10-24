@@ -1,5 +1,4 @@
-Pseudozonosphaera tenera Cao Renguan et al., 1980 SPECIES
-=======
+# Pseudozonosphaera tenera Cao Renguan et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

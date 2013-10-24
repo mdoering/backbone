@@ -1,5 +1,4 @@
-Platygrapha rotula SPECIES
-=======
+# Platygrapha rotula SPECIES
 
 #### Status
 ACCEPTED

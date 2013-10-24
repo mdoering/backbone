@@ -1,5 +1,4 @@
-Pyrenophora lanuginosa (Sacc.) Sacc. SPECIES
-=======
+# Pyrenophora lanuginosa (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

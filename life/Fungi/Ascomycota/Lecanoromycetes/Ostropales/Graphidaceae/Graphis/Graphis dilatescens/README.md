@@ -1,5 +1,4 @@
-Graphis dilatescens Vain. SPECIES
-=======
+# Graphis dilatescens Vain. SPECIES
 
 #### Status
 ACCEPTED

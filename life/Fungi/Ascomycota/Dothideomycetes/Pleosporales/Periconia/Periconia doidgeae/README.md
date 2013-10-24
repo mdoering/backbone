@@ -1,5 +1,4 @@
-Periconia doidgeae Hansf. SPECIES
-=======
+# Periconia doidgeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

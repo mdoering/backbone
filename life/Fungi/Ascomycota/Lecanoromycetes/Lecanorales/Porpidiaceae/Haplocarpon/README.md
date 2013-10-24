@@ -1,5 +1,4 @@
-Haplocarpon GENUS
-=======
+# Haplocarpon GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella capreae Velen. SPECIES
-=======
+# Lachnella capreae Velen. SPECIES
 
 #### Status
 ACCEPTED

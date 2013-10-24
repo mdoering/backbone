@@ -1,5 +1,4 @@
-Vaginicola pontica Mereschkowski, 1881 SPECIES
-=======
+# Vaginicola pontica Mereschkowski, 1881 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria tatrensis Alstrup SPECIES
-=======
+# Nectria tatrensis Alstrup SPECIES
 
 #### Status
 ACCEPTED

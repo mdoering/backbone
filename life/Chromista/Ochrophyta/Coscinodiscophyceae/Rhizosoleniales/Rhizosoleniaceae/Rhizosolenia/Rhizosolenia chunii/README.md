@@ -1,5 +1,4 @@
-Rhizosolenia chunii Karsten, 1905 SPECIES
-=======
+# Rhizosolenia chunii Karsten, 1905 SPECIES
 
 #### Status
 ACCEPTED

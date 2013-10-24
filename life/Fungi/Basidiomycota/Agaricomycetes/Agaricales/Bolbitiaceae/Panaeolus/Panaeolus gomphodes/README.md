@@ -1,5 +1,4 @@
-Panaeolus gomphodes (Fr.) Sacc. SPECIES
-=======
+# Panaeolus gomphodes (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectopyramis Haeckel, 1881 GENUS
-=======
+# Plectopyramis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

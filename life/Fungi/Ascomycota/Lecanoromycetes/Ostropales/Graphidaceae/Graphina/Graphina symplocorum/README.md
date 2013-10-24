@@ -1,5 +1,4 @@
-Graphina symplocorum Zahlbr. SPECIES
-=======
+# Graphina symplocorum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

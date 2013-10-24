@@ -1,5 +1,4 @@
-Legeriomycetaceae Pouzar FAMILY
-=======
+# Legeriomycetaceae Pouzar FAMILY
 
 #### Status
 ACCEPTED

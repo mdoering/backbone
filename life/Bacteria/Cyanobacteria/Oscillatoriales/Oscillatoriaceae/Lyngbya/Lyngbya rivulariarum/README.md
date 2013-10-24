@@ -1,5 +1,4 @@
-Lyngbya rivulariarum SPECIES
-=======
+# Lyngbya rivulariarum SPECIES
 
 #### Status
 ACCEPTED

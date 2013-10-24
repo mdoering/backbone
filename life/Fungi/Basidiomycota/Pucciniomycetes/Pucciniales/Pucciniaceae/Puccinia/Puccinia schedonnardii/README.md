@@ -1,17 +1,16 @@
-Puccinia muhlenbergiae Arthur & Holw., 1902 SPECIES
-=======
+# Puccinia schedonnardii Kellerm. & Swingle, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Mycol. 4(9): 95 (1888)
 
 #### Original name
-Puccinia muhlenbergiae Arthur & Holw., 1902
+Puccinia schedonnardii Kellerm. & Swingle, 1888
 
 ### Remarks
 null

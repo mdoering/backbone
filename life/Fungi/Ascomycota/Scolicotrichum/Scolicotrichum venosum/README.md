@@ -1,5 +1,4 @@
-Scolicotrichum venosum Bonord. SPECIES
-=======
+# Scolicotrichum venosum Bonord. SPECIES
 
 #### Status
 ACCEPTED

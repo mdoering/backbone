@@ -1,5 +1,4 @@
-Capsulospora K.D. Hyde GENUS
-=======
+# Capsulospora K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

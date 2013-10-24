@@ -1,5 +1,4 @@
-Naevia stellariae (Rostr.) Lind SPECIES
-=======
+# Naevia stellariae (Rostr.) Lind SPECIES
 
 #### Status
 ACCEPTED

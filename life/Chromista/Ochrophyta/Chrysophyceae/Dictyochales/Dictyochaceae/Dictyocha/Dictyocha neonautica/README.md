@@ -1,5 +1,4 @@
-Dictyocha neonautica var. cocosensis D. Bukry VARIETY
-=======
+# Dictyocha neonautica D. Bukry SPECIES
 
 #### Status
 ACCEPTED

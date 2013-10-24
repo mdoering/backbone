@@ -1,5 +1,4 @@
-Tremella subochracea Peck SPECIES
-=======
+# Tremella subochracea Peck SPECIES
 
 #### Status
 ACCEPTED

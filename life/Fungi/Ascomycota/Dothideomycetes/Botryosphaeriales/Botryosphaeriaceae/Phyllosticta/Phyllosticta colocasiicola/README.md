@@ -1,5 +1,4 @@
-Phyllosticta colocasiicola Höhn., 1907 SPECIES
-=======
+# Phyllosticta colocasiicola Höhn., 1907 SPECIES
 
 #### Status
 ACCEPTED

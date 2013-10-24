@@ -1,5 +1,4 @@
-Verticillium cercosporae Petr. & Cif. SPECIES
-=======
+# Verticillium cercosporae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

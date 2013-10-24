@@ -1,5 +1,4 @@
-Uredo musicola J.M. Yen SPECIES
-=======
+# Uredo musicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

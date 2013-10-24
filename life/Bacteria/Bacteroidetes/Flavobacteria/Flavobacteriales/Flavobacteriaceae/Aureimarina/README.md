@@ -1,5 +1,4 @@
-Aureimarina Yang & Cho, 2006 GENUS
-=======
+# Aureimarina Yang & Cho, 2006 GENUS
 
 #### Status
 ACCEPTED

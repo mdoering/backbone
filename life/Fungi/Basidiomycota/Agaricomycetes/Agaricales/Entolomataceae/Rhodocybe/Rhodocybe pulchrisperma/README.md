@@ -1,5 +1,4 @@
-Rhodocybe pulchrisperma T.J. Baroni & Halling SPECIES
-=======
+# Rhodocybe pulchrisperma T.J. Baroni & Halling SPECIES
 
 #### Status
 ACCEPTED

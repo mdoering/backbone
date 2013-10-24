@@ -1,8 +1,7 @@
-Ploesconia balteata Dujardin, 1841 SPECIES
-=======
+# Euplotes balteatus (Dujardin, 1841) Kahl, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

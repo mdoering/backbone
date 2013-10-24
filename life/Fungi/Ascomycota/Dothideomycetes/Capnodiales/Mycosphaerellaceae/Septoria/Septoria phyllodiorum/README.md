@@ -1,17 +1,16 @@
-Septoria epiphyllodea Cooke, 1892 SPECIES
-=======
+# Septoria phyllodiorum Sacc., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Austral. fungi 356 (1892)
+Hedwigia 29: 156 (1890)
 
 #### Original name
-Septoria epiphyllodea Cooke, 1892
+Septoria phyllodiorum Sacc., 1890
 
 ### Remarks
 null

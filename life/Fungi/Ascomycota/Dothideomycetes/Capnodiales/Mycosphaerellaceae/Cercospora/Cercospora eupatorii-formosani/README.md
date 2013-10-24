@@ -1,5 +1,4 @@
-Cercospora eupatorii-formosani Sawada SPECIES
-=======
+# Cercospora eupatorii-formosani Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diversispora C. Walker & Schüssler GENUS
-=======
+# Diversispora C. Walker & Schüssler GENUS
 
 #### Status
 ACCEPTED

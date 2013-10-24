@@ -1,5 +1,4 @@
-Metopus jankowski Dragesco, 1968 SPECIES
-=======
+# Metopus jankowski Dragesco, 1968 SPECIES
 
 #### Status
 ACCEPTED

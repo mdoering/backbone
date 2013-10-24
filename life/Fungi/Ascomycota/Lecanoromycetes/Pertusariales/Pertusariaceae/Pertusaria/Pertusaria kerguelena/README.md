@@ -1,5 +1,4 @@
-Pertusaria kerguelena Zahlbr. SPECIES
-=======
+# Pertusaria kerguelena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

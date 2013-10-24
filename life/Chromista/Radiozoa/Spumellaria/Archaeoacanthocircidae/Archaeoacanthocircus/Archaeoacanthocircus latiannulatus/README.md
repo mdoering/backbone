@@ -1,5 +1,4 @@
-Archaeoacanthocircus latiannulatus SPECIES
-=======
+# Archaeoacanthocircus latiannulatus SPECIES
 
 #### Status
 ACCEPTED

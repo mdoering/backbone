@@ -1,5 +1,4 @@
-Lachnum confertum Spooner SPECIES
-=======
+# Lachnum confertum Spooner SPECIES
 
 #### Status
 ACCEPTED

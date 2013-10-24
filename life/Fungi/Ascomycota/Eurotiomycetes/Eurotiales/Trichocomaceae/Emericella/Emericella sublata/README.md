@@ -1,5 +1,4 @@
-Emericella sublata Y. Horie, 1979 SPECIES
-=======
+# Emericella sublata Y. Horie, 1979 SPECIES
 
 #### Status
 ACCEPTED

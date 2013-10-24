@@ -1,5 +1,4 @@
-Pleospora ovoidea Niessl SPECIES
-=======
+# Pleospora ovoidea Niessl SPECIES
 
 #### Status
 ACCEPTED

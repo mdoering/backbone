@@ -1,5 +1,4 @@
-Riboscyphidia Yankovskij, 1980 GENUS
-=======
+# Riboscyphidia Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

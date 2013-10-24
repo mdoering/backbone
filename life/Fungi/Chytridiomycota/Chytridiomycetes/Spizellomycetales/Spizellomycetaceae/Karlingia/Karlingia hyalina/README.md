@@ -1,5 +1,4 @@
-Karlingia hyalina SPECIES
-=======
+# Karlingia hyalina SPECIES
 
 #### Status
 ACCEPTED

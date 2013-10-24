@@ -1,5 +1,4 @@
-Asteridiella caseariae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella caseariae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

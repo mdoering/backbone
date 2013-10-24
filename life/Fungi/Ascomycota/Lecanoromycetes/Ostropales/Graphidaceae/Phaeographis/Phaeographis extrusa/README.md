@@ -1,5 +1,4 @@
-Phaeographis extrusa (Stirt.) Zahlbr. SPECIES
-=======
+# Phaeographis extrusa (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

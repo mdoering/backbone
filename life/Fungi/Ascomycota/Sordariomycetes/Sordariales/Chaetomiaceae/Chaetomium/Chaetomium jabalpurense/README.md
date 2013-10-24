@@ -1,5 +1,4 @@
-Chaetomium jabalpurense J.P. Tewari, P.D. Agrawal & Lodha, 1977 SPECIES
-=======
+# Chaetomium jabalpurense J.P. Tewari, P.D. Agrawal & Lodha, 1977 SPECIES
 
 #### Status
 ACCEPTED

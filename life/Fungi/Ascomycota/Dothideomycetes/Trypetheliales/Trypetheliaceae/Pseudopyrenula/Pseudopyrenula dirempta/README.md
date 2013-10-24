@@ -1,5 +1,4 @@
-Pseudopyrenula dirempta (Nyl.) Müll. Arg. SPECIES
-=======
+# Pseudopyrenula dirempta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

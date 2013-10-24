@@ -1,5 +1,4 @@
-Lecidea ochraceoalba H. Magn. SPECIES
-=======
+# Lecidea ochraceoalba H. Magn. SPECIES
 
 #### Status
 ACCEPTED

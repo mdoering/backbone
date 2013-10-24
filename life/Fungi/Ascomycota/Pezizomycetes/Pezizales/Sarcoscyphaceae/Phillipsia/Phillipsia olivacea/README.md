@@ -1,5 +1,4 @@
-Phillipsia olivacea var. olivacea VARIETY
-=======
+# Phillipsia olivacea anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phillipsia olivacea var. olivacea
+Phillipsia olivacea anon.
 
 ### Remarks
 null

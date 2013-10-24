@@ -1,5 +1,4 @@
-Hydnum tenuiculum Durieu & Lév. SPECIES
-=======
+# Hydnum tenuiculum Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

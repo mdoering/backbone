@@ -1,5 +1,4 @@
-Septoria aesculicola (Fr.) Sacc. SPECIES
-=======
+# Septoria aesculicola (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

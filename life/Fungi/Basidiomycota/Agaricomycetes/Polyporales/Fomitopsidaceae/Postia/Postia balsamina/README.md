@@ -1,5 +1,4 @@
-Postia balsamina Niemelä & Y.C. Dai SPECIES
-=======
+# Postia balsamina Niemelä & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

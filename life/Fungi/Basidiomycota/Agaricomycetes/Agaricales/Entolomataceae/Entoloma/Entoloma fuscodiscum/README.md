@@ -1,5 +1,4 @@
-Entoloma fuscodiscum Hesler SPECIES
-=======
+# Entoloma fuscodiscum Hesler SPECIES
 
 #### Status
 ACCEPTED

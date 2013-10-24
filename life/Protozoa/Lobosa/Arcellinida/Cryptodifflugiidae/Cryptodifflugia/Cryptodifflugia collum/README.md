@@ -1,8 +1,7 @@
-Difflugiella collum Chardez, 1971 SPECIES
-=======
+# Cryptodifflugia collum (Chardez, 1971) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

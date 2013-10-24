@@ -1,5 +1,4 @@
-Rimularia actinostoma Coppins & Fryday SPECIES
-=======
+# Rimularia actinostoma Coppins & Fryday SPECIES
 
 #### Status
 ACCEPTED

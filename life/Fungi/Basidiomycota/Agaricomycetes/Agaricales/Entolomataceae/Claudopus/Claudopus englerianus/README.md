@@ -1,5 +1,4 @@
-Claudopus englerianus Henn. SPECIES
-=======
+# Claudopus englerianus Henn. SPECIES
 
 #### Status
 ACCEPTED

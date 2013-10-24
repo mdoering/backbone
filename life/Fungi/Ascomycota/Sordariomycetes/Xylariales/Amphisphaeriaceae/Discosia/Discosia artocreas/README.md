@@ -1,17 +1,16 @@
-Sphaeria artocreas var. artocreas VARIETY
-=======
+# Discosia artocreas (Tode) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 423 (1849)
 
 #### Original name
-null
+Sphaeria artocreas Tode, 1791
 
 ### Remarks
 null

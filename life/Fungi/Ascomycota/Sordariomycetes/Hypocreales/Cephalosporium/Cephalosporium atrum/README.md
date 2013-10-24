@@ -1,5 +1,4 @@
-Cephalosporium atrum (Corda) Pidopl. SPECIES
-=======
+# Cephalosporium atrum (Corda) Pidopl. SPECIES
 
 #### Status
 ACCEPTED

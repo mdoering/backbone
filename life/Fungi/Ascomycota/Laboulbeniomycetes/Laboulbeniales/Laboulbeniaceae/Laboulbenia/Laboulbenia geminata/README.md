@@ -1,5 +1,4 @@
-Laboulbenia geminata Buchli SPECIES
-=======
+# Laboulbenia geminata Buchli SPECIES
 
 #### Status
 ACCEPTED

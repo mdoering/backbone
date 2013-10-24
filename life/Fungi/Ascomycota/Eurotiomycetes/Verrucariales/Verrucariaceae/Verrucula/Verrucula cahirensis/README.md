@@ -1,5 +1,4 @@
-Verrucula cahirensis (J. Steiner) J. Steiner SPECIES
-=======
+# Verrucula cahirensis (J. Steiner) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

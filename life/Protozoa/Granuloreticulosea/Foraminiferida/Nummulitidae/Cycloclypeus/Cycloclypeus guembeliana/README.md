@@ -1,5 +1,4 @@
-Cycloclypeus guembeliana Brady, 1881 SPECIES
-=======
+# Cycloclypeus guembeliana Brady, 1881 SPECIES
 
 #### Status
 ACCEPTED

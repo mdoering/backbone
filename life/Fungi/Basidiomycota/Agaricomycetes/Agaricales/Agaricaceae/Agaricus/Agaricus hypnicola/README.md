@@ -1,5 +1,4 @@
-Agaricus hypnicola Pers. SPECIES
-=======
+# Agaricus hypnicola Pers. SPECIES
 
 #### Status
 ACCEPTED

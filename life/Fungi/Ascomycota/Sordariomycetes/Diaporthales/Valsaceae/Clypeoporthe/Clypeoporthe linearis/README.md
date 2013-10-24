@@ -1,5 +1,4 @@
-Clypeoporthe linearis (Nees) Lar.N. Vassiljeva SPECIES
-=======
+# Clypeoporthe linearis (Nees) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

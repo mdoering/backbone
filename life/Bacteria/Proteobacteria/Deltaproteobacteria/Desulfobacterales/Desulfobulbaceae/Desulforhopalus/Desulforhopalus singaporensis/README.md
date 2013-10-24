@@ -1,5 +1,4 @@
-Desulforhopalus singaporensis Lie et al., 2000 SPECIES
-=======
+# Desulforhopalus singaporensis Lie et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

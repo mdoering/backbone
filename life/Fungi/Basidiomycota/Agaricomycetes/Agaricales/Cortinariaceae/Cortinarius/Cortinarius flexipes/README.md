@@ -1,17 +1,16 @@
-Cortinarius paleaceus var. paleaceus VARIETY
-=======
+# Cortinarius flexipes (Pers.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 302 (1838)
+Epicr. syst. mycol. (Upsaliae) 300 (1838)
 
 #### Original name
-Cortinarius paleaceus var. paleaceus
+Agaricus flexipes Pers., 1801
 
 ### Remarks
 null

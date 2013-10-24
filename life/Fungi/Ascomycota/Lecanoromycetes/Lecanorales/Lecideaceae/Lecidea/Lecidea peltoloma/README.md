@@ -1,5 +1,4 @@
-Lecidea peltoloma Müll. Arg. SPECIES
-=======
+# Lecidea peltoloma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

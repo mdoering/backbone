@@ -1,17 +1,16 @@
-Thyrospora gossypicola Nisik. SPECIES
-=======
+# Thyrospora gossypiicola Nisik. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Nisikado & Oshima, Nogaku-kenkyu 36: [392] (1944)
 
 #### Original name
-Thyrospora gossypicola Nisik.
+Thyrospora gossypiicola Nisik.
 
 ### Remarks
 null

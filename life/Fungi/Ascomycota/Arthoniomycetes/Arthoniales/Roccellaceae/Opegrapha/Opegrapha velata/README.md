@@ -1,5 +1,4 @@
-Opegrapha velata (Müll. Arg.) Vain. SPECIES
-=======
+# Opegrapha velata (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

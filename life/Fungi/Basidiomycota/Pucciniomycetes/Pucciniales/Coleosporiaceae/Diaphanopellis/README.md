@@ -1,5 +1,4 @@
-Diaphanopellis P.E. Crane GENUS
-=======
+# Diaphanopellis P.E. Crane GENUS
 
 #### Status
 ACCEPTED

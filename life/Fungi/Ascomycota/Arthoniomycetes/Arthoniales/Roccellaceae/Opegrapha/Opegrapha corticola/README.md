@@ -1,5 +1,4 @@
-Opegrapha corticola Coppins & P. James SPECIES
-=======
+# Opegrapha corticola Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

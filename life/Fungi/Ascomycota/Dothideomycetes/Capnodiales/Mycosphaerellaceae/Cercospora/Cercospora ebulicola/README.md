@@ -1,5 +1,4 @@
-Cercospora ebulicola W. Yamam. SPECIES
-=======
+# Cercospora ebulicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

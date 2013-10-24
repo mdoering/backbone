@@ -1,5 +1,4 @@
-Fistulinella major Guzmán, 1974 SPECIES
-=======
+# Fistulinella major Guzmán, 1974 SPECIES
 
 #### Status
 ACCEPTED

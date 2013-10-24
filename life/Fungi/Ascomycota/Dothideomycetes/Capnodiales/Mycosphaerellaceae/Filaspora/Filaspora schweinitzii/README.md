@@ -1,5 +1,4 @@
-Filaspora schweinitzii (Sacc.) Kuntze SPECIES
-=======
+# Filaspora schweinitzii (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

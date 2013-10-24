@@ -1,5 +1,4 @@
-Melanospora marchicum Lindau SPECIES
-=======
+# Melanospora marchicum Lindau SPECIES
 
 #### Status
 ACCEPTED

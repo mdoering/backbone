@@ -1,14 +1,13 @@
-Tricholosporum superbum Watling, 1998 SPECIES
-=======
+# Asproinocybe superba (Watling) Guzmán, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boll. Gruppo Micol. 'G. Bresadola' (Trento) 40(2-3): 486 (1998)
+in Guzmán, Ramírez-Guillén, Contu, Rodríguez & Guzmán-Dávalos, Docums Mycol. 33(no. 131): 25 (2004)
 
 #### Original name
 Tricholosporum superbum Watling, 1998

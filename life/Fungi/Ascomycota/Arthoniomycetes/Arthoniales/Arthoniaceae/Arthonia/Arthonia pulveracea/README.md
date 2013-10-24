@@ -1,5 +1,4 @@
-Arthonia pulveracea Müll. Arg. SPECIES
-=======
+# Arthonia pulveracea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

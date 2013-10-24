@@ -1,5 +1,4 @@
-Mycena tintinnabulum (Fr.) Quél. SPECIES
-=======
+# Mycena tintinnabulum (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

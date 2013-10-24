@@ -1,5 +1,4 @@
-Ustilago schismi Bubák SPECIES
-=======
+# Ustilago schismi Bubák SPECIES
 
 #### Status
 ACCEPTED

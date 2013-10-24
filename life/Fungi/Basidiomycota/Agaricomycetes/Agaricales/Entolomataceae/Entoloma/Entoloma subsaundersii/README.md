@@ -1,5 +1,4 @@
-Entoloma subsaundersii Largent SPECIES
-=======
+# Entoloma subsaundersii Largent SPECIES
 
 #### Status
 ACCEPTED

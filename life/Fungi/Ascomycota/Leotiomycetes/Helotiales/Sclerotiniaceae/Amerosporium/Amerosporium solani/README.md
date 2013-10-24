@@ -1,5 +1,4 @@
-Amerosporium solani Torrend SPECIES
-=======
+# Amerosporium solani Torrend SPECIES
 
 #### Status
 ACCEPTED

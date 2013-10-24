@@ -1,5 +1,4 @@
-Torula bulbigera Bonord. SPECIES
-=======
+# Torula bulbigera Bonord. SPECIES
 
 #### Status
 ACCEPTED

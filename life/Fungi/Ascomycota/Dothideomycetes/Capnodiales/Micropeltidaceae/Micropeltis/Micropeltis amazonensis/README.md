@@ -1,5 +1,4 @@
-Micropeltis amazonensis Bat. & Peres SPECIES
-=======
+# Micropeltis amazonensis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

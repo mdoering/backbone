@@ -1,5 +1,4 @@
-Rhiptosocherma A.R. Loeblich Jr. & H. Tappan, 1978 GENUS
-=======
+# Rhiptosocherma A.R. Loeblich Jr. & H. Tappan, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploschistes interpediens (Nyl.) Zahlbr. SPECIES
-=======
+# Diploschistes interpediens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

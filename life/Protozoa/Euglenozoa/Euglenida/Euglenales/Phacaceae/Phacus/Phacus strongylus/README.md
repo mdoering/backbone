@@ -1,5 +1,4 @@
-Phacus strongylus Pochmann SPECIES
-=======
+# Phacus strongylus Pochmann SPECIES
 
 #### Status
 ACCEPTED

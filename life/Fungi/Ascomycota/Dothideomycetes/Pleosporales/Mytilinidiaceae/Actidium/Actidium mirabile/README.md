@@ -1,17 +1,16 @@
-Actidium mirabilis Svanidze SPECIES
-=======
+# Actidium mirabile Svanidze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Soobshcheniya Akademii Nauk Gruzinskoi SSR 116(2): 385 (1984)
 
 #### Original name
-Actidium mirabilis Svanidze
+Actidium mirabile Svanidze
 
 ### Remarks
 null

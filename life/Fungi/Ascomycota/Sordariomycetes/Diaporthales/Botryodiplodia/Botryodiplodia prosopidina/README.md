@@ -1,5 +1,4 @@
-Botryodiplodia prosopidina S. Ahmad SPECIES
-=======
+# Botryodiplodia prosopidina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatopeltis royenae Doidge SPECIES
-=======
+# Stigmatopeltis royenae Doidge SPECIES
 
 #### Status
 ACCEPTED

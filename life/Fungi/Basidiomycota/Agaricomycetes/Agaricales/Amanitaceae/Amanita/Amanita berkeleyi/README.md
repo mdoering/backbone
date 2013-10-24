@@ -1,5 +1,4 @@
-Amanita berkeleyi (Hook. f.) Bas SPECIES
-=======
+# Amanita berkeleyi (Hook. f.) Bas SPECIES
 
 #### Status
 ACCEPTED

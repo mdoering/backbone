@@ -1,5 +1,4 @@
-Lyophyllum ochraceobrunneum Métrod ex Consiglio & Contu SPECIES
-=======
+# Lyophyllum ochraceobrunneum Métrod ex Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

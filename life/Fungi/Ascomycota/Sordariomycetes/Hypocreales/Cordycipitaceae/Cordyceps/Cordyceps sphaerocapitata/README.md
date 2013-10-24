@@ -1,5 +1,4 @@
-Cordyceps sphaerocapitata Kobayasi SPECIES
-=======
+# Cordyceps sphaerocapitata Kobayasi SPECIES
 
 #### Status
 ACCEPTED

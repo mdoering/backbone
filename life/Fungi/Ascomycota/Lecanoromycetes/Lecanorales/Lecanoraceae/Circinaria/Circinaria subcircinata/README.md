@@ -1,17 +1,16 @@
-Circinaria subcircinata var. subcircinata VARIETY
-=======
+# Circinaria subcircinata SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Circinaria subcircinata var. subcircinata
+null
 
 ### Remarks
 null

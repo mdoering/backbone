@@ -1,5 +1,4 @@
-Phyllachora simplex Starbäck, 1905 SPECIES
-=======
+# Phyllachora simplex Starbäck, 1905 SPECIES
 
 #### Status
 ACCEPTED

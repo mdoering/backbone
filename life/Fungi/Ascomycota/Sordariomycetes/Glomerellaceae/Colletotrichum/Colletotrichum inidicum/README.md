@@ -1,5 +1,4 @@
-Colletotrichum inidicum Dastur SPECIES
-=======
+# Colletotrichum inidicum Dastur SPECIES
 
 #### Status
 ACCEPTED

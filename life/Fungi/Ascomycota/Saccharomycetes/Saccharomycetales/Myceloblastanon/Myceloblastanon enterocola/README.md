@@ -1,5 +1,4 @@
-Myceloblastanon enterocola (Macfie) M. Ota SPECIES
-=======
+# Myceloblastanon enterocola (Macfie) M. Ota SPECIES
 
 #### Status
 ACCEPTED

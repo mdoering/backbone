@@ -1,5 +1,4 @@
-Phoma minutella Sacc. & Penz., 1882 SPECIES
-=======
+# Phoma minutella Sacc. & Penz., 1882 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola acaciicola Hansf. SPECIES
-=======
+# Meliola acaciicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

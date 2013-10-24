@@ -1,5 +1,4 @@
-Dimelaena viridis SPECIES
-=======
+# Dimelaena viridis SPECIES
 
 #### Status
 ACCEPTED

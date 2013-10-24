@@ -1,5 +1,4 @@
-Cercosporina calpurniae (Petch) Sacc. SPECIES
-=======
+# Cercosporina calpurniae (Petch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

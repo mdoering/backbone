@@ -1,5 +1,4 @@
-Micropsalliota cystidiosa Natarajan & Manjula SPECIES
-=======
+# Micropsalliota cystidiosa Natarajan & Manjula SPECIES
 
 #### Status
 ACCEPTED

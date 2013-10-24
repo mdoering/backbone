@@ -1,5 +1,4 @@
-Ustilago compacta G.W. Fisch. SPECIES
-=======
+# Ustilago compacta G.W. Fisch. SPECIES
 
 #### Status
 ACCEPTED

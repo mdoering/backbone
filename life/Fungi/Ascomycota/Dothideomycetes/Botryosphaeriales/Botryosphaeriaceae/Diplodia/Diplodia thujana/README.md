@@ -1,5 +1,4 @@
-Diplodia thujana var. thujana VARIETY
-=======
+# Diplodia thujana Peck & Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. N. Y. St. Mus. nat. Hist. 30: 52 (1878)
 
 #### Original name
-Diplodia thujana var. thujana
+Diplodia thujana Peck & Cooke
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria composita Zahlbr. SPECIES
-=======
+# Pertusaria composita Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

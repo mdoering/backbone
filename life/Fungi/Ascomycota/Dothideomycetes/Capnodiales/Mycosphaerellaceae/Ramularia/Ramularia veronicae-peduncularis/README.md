@@ -1,5 +1,4 @@
-Ramularia veronicae-peduncularis Lobik SPECIES
-=======
+# Ramularia veronicae-peduncularis Lobik SPECIES
 
 #### Status
 ACCEPTED

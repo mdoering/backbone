@@ -1,14 +1,13 @@
-Sphaeria anisometra Cooke & Harkn., 1881 SPECIES
-=======
+# Metasphaeria anisometra (Cooke & Harkn.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 9(no. 51): 86 (1881)
+Syll. fung. (Abellini) 2: 163 (1883)
 
 #### Original name
 Sphaeria anisometra Cooke & Harkn., 1881

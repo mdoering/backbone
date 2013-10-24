@@ -1,5 +1,4 @@
-Galerina subbullulifera Singer SPECIES
-=======
+# Galerina subbullulifera Singer SPECIES
 
 #### Status
 ACCEPTED

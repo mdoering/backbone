@@ -1,5 +1,4 @@
-Mamiania hystrix De Not. SPECIES
-=======
+# Mamiania hystrix De Not. SPECIES
 
 #### Status
 ACCEPTED

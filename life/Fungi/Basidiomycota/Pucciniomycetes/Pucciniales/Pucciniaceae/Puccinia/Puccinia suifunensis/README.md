@@ -1,5 +1,4 @@
-Puccinia suifunensis Tranzschel SPECIES
-=======
+# Puccinia suifunensis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

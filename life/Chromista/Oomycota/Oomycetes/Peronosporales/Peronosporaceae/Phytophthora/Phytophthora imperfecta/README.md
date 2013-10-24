@@ -1,5 +1,4 @@
-Phytophthora imperfecta Sarej. SPECIES
-=======
+# Phytophthora imperfecta Sarej. SPECIES
 
 #### Status
 ACCEPTED

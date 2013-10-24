@@ -1,5 +1,4 @@
-Caeomurus gemmatus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Caeomurus gemmatus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

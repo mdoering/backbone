@@ -1,5 +1,4 @@
-Poria membranacea Scop. SPECIES
-=======
+# Poria membranacea Scop. SPECIES
 
 #### Status
 ACCEPTED

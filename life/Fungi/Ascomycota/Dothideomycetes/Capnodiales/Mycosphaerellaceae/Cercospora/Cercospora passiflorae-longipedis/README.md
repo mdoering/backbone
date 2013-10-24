@@ -1,5 +1,4 @@
-Cercospora passiflorae-longipedis J.M. Yen SPECIES
-=======
+# Cercospora passiflorae-longipedis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

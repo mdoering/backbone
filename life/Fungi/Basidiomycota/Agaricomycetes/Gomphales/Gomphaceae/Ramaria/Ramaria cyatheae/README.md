@@ -1,5 +1,4 @@
-Ramaria cyatheae (Henn.) Corner SPECIES
-=======
+# Ramaria cyatheae (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

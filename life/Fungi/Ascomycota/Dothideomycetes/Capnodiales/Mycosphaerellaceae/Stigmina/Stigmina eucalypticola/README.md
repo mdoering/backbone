@@ -1,5 +1,4 @@
-Stigmina eucalypticola B. Sutton & Pascoe SPECIES
-=======
+# Stigmina eucalypticola B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

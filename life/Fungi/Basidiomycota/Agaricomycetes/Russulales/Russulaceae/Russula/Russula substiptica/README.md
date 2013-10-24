@@ -1,5 +1,4 @@
-Russula substiptica Pers. SPECIES
-=======
+# Russula substiptica Pers. SPECIES
 
 #### Status
 ACCEPTED

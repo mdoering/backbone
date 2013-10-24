@@ -1,5 +1,4 @@
-Bacidina contecta S. Ekman & T. Sprib. SPECIES
-=======
+# Bacidina contecta S. Ekman & T. Sprib. SPECIES
 
 #### Status
 ACCEPTED

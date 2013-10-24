@@ -1,17 +1,16 @@
-Saccobolus kervernii f. kervernii FORM
-=======
+# Saccobolus glaber (Pers.) Lambotte, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 74 (1907)
+Flora myc. Belg. , Suppl. 1 1: 284 (1887)
 
 #### Original name
-Saccobolus kervernii f. kervernii
+Ascobolus glaber Pers., 1794
 
 ### Remarks
 null

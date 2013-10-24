@@ -1,5 +1,4 @@
-Pseudopetrakia magna B. Sutton & Alcorn SPECIES
-=======
+# Pseudopetrakia magna B. Sutton & Alcorn SPECIES
 
 #### Status
 ACCEPTED

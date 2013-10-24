@@ -1,17 +1,16 @@
-Cercospora priunosivora V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Cercospora pruinosivora V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. bot. 2(2-3): 188 (1991)
 
 #### Original name
-Cercospora priunosivora V.G. Rao & B.R.D. Yadav
+Cercospora pruinosivora V.G. Rao & B.R.D. Yadav
 
 ### Remarks
 null

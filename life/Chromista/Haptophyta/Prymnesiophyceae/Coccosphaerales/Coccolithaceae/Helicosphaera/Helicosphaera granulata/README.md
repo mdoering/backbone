@@ -1,5 +1,4 @@
-Helicosphaera granulata Bukry & Percival, 1971 SPECIES
-=======
+# Helicosphaera granulata Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

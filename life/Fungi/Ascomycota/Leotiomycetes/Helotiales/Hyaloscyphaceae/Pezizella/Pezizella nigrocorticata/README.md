@@ -1,5 +1,4 @@
-Pezizella nigrocorticata Graddon, 1977 SPECIES
-=======
+# Pezizella nigrocorticata Graddon, 1977 SPECIES
 
 #### Status
 ACCEPTED

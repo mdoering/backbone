@@ -1,5 +1,4 @@
-Rhizomorpha sphaerocrystalligera Speg. SPECIES
-=======
+# Rhizomorpha sphaerocrystalligera Speg. SPECIES
 
 #### Status
 ACCEPTED

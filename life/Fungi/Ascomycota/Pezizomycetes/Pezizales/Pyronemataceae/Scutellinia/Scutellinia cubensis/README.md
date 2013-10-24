@@ -1,5 +1,4 @@
-Scutellinia cubensis (Berk. & M.A. Curtis) Gamundí SPECIES
-=======
+# Scutellinia cubensis (Berk. & M.A. Curtis) Gamundí SPECIES
 
 #### Status
 ACCEPTED

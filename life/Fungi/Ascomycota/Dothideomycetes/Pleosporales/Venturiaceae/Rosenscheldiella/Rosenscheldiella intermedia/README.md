@@ -1,5 +1,4 @@
-Rosenscheldiella intermedia Sivan. & L.N. Nair SPECIES
-=======
+# Rosenscheldiella intermedia Sivan. & L.N. Nair SPECIES
 
 #### Status
 ACCEPTED

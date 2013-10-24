@@ -1,5 +1,4 @@
-Synechococcus intermedius Gardner SPECIES
-=======
+# Synechococcus intermedius Gardner SPECIES
 
 #### Status
 ACCEPTED

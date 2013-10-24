@@ -1,5 +1,4 @@
-Streptomyces luteogriseus Schmitz et al., 1964 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces luteogriseus Schmitz et al., 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

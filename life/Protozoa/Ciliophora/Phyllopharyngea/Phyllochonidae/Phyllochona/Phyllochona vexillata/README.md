@@ -1,5 +1,4 @@
-Phyllochona vexillata Jankowski, 1972 SPECIES
-=======
+# Phyllochona vexillata Jankowski, 1972 SPECIES
 
 #### Status
 ACCEPTED

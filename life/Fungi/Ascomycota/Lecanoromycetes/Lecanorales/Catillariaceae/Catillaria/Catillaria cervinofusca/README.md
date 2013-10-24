@@ -1,5 +1,4 @@
-Catillaria cervinofusca (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria cervinofusca (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

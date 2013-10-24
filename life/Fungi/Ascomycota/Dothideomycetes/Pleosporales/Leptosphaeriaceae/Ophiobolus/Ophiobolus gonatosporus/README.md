@@ -1,5 +1,4 @@
-Ophiobolus gonatosporus Feltgen SPECIES
-=======
+# Ophiobolus gonatosporus Feltgen SPECIES
 
 #### Status
 ACCEPTED

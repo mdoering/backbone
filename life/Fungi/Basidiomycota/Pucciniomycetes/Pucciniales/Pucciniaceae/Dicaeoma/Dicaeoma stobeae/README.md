@@ -1,5 +1,4 @@
-Dicaeoma stobeae (MacOwan) Kuntze SPECIES
-=======
+# Dicaeoma stobeae (MacOwan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

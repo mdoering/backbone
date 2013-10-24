@@ -1,5 +1,4 @@
-Lenticulina torrida SPECIES
-=======
+# Lenticulina torrida SPECIES
 
 #### Status
 ACCEPTED

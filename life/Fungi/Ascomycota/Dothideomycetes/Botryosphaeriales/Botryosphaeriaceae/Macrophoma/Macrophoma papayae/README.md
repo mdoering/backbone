@@ -1,5 +1,4 @@
-Macrophoma papayae Teng SPECIES
-=======
+# Macrophoma papayae Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Celyphus D.J. Batten, 1973 GENUS
-=======
+# Celyphus D.J. Batten, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irene nectandrae Hansf. SPECIES
-=======
+# Irene nectandrae Hansf. SPECIES
 
 #### Status
 ACCEPTED

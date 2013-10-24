@@ -1,5 +1,4 @@
-Septoria sovietkinae Golovin SPECIES
-=======
+# Septoria sovietkinae Golovin SPECIES
 
 #### Status
 ACCEPTED

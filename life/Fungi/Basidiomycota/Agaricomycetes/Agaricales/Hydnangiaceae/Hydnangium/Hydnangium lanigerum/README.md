@@ -1,5 +1,4 @@
-Hydnangium lanigerum (R. Hesse) Zeller & C.W. Dodge SPECIES
-=======
+# Hydnangium lanigerum (R. Hesse) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

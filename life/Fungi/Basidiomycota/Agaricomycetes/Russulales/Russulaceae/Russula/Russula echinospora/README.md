@@ -1,5 +1,4 @@
-Russula echinospora R. Heim SPECIES
-=======
+# Russula echinospora R. Heim SPECIES
 
 #### Status
 ACCEPTED

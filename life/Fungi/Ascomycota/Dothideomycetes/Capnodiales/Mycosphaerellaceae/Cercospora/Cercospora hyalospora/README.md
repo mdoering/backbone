@@ -1,5 +1,4 @@
-Cercospora hyalospora A.S. Mull. & Chupp, 1935 SPECIES
-=======
+# Cercospora hyalospora A.S. Mull. & Chupp, 1935 SPECIES
 
 #### Status
 ACCEPTED

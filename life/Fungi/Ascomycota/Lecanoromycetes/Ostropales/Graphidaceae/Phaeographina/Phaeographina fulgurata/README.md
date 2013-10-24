@@ -1,5 +1,4 @@
-Phaeographina fulgurata (Fée) Müll. Arg. SPECIES
-=======
+# Phaeographina fulgurata (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

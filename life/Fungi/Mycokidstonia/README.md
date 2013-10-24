@@ -1,5 +1,4 @@
-Mycokidstonia D. Pons & Locq. GENUS
-=======
+# Mycokidstonia D. Pons & Locq. GENUS
 
 #### Status
 ACCEPTED

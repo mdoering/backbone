@@ -1,5 +1,4 @@
-Corticium septentrionale Burt SPECIES
-=======
+# Corticium septentrionale Burt SPECIES
 
 #### Status
 ACCEPTED

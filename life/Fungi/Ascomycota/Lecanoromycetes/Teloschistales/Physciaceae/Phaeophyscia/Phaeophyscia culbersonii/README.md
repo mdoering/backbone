@@ -1,5 +1,4 @@
-Phaeophyscia culbersonii Essl. SPECIES
-=======
+# Phaeophyscia culbersonii Essl. SPECIES
 
 #### Status
 ACCEPTED

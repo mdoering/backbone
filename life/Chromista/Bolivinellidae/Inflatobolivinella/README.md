@@ -1,5 +1,4 @@
-Inflatobolivinella Hayward, 1990 GENUS
-=======
+# Inflatobolivinella Hayward, 1990 GENUS
 
 #### Status
 ACCEPTED

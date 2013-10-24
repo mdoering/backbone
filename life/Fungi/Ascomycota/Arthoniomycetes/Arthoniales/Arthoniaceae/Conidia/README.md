@@ -1,5 +1,4 @@
-Conidia GENUS
-=======
+# Conidia GENUS
 
 #### Status
 ACCEPTED

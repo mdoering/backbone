@@ -1,5 +1,4 @@
-Pleistophora periplanetae SPECIES
-=======
+# Pleistophora periplanetae SPECIES
 
 #### Status
 ACCEPTED

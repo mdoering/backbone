@@ -1,5 +1,4 @@
-Aecidium acalyphicola Doidge SPECIES
-=======
+# Aecidium acalyphicola Doidge SPECIES
 
 #### Status
 ACCEPTED

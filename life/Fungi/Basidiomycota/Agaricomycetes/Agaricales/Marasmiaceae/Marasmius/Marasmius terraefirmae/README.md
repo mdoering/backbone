@@ -1,5 +1,4 @@
-Marasmius terraefirmae Singer SPECIES
-=======
+# Marasmius terraefirmae Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius chrysoblepharis Singer SPECIES
-=======
+# Marasmius chrysoblepharis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hohenbuehelia singeri Albertó & Fazio SPECIES
-=======
+# Hohenbuehelia singeri Albertó & Fazio SPECIES
 
 #### Status
 ACCEPTED

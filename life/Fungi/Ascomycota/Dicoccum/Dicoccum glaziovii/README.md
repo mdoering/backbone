@@ -1,5 +1,4 @@
-Dicoccum glaziovii Allesch. SPECIES
-=======
+# Dicoccum glaziovii Allesch. SPECIES
 
 #### Status
 ACCEPTED

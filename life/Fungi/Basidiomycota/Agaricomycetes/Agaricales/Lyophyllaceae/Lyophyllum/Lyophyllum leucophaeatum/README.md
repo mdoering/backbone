@@ -1,14 +1,13 @@
-Agaricus leucophaeatus P. Karst., 1868 SPECIES
-=======
+# Lyophyllum leucophaeatum (P. Karst.) P. Karst., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. Sällsk. Fauna et Fl. Fenn. Förh. 2: 336 (1868)
+Meddn Soc. Fauna Flora fenn. 6: 3 (1881)
 
 #### Original name
 Agaricus leucophaeatus P. Karst., 1868

@@ -1,5 +1,4 @@
-Cortinarius croceocristallinus Rob. Henry SPECIES
-=======
+# Cortinarius croceocristallinus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora stromatis Clem. & E.S. Clem. SPECIES
-=======
+# Cercospora stromatis Clem. & E.S. Clem. SPECIES
 
 #### Status
 ACCEPTED

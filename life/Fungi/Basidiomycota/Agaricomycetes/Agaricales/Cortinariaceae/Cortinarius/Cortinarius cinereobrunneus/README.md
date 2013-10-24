@@ -1,5 +1,4 @@
-Cortinarius cinereobrunneus M.M. Moser SPECIES
-=======
+# Cortinarius cinereobrunneus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

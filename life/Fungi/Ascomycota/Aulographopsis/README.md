@@ -1,5 +1,4 @@
-Aulographopsis Petr. GENUS
-=======
+# Aulographopsis Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyponectria magnoliae (Schwein.) M.E. Barr SPECIES
-=======
+# Hyponectria magnoliae (Schwein.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

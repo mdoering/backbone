@@ -1,5 +1,4 @@
-Coralloides amethystina Battarra SPECIES
-=======
+# Coralloides amethystina Battarra SPECIES
 
 #### Status
 ACCEPTED

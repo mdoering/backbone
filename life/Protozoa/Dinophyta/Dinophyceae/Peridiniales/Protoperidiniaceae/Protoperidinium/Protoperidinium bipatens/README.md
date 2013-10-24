@@ -1,5 +1,4 @@
-Protoperidinium bipatens Balech, 1973 SPECIES
-=======
+# Protoperidinium bipatens Balech, 1973 SPECIES
 
 #### Status
 ACCEPTED

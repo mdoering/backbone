@@ -1,5 +1,4 @@
-Polystictus hirsutellus Lloyd SPECIES
-=======
+# Polystictus hirsutellus Lloyd SPECIES
 
 #### Status
 ACCEPTED

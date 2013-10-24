@@ -1,5 +1,4 @@
-Endocarpon arsenii B. de Lesd. SPECIES
-=======
+# Endocarpon arsenii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

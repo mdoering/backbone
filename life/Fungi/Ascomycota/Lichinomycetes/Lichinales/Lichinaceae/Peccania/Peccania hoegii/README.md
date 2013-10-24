@@ -1,5 +1,4 @@
-Peccania hoegii D. D. Awasthi SPECIES
-=======
+# Peccania hoegii D. D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula adulterina f. adulterina FORM
-=======
+# Russula adulterina Secr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 360 (1838)
 
 #### Original name
-Russula adulterina f. adulterina
+Russula adulterina Secr.
 
 ### Remarks
 null

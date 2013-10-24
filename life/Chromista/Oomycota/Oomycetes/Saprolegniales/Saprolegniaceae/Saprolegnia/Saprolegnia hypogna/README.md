@@ -1,5 +1,4 @@
-Saprolegnia hypogna Pringsh. SPECIES
-=======
+# Saprolegnia hypogna Pringsh. SPECIES
 
 #### Status
 ACCEPTED

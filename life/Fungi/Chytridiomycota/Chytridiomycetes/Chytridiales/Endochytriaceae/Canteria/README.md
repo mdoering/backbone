@@ -1,5 +1,4 @@
-Canteria Karling GENUS
-=======
+# Canteria Karling GENUS
 
 #### Status
 ACCEPTED

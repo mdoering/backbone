@@ -1,5 +1,4 @@
-Cercostigmina triumfettae (M.B. Ellis) U. Braun SPECIES
-=======
+# Cercostigmina triumfettae (M.B. Ellis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

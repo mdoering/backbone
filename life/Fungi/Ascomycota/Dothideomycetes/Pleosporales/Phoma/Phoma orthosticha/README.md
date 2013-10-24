@@ -1,5 +1,4 @@
-Phoma orthosticha Ellis & Everh. SPECIES
-=======
+# Phoma orthosticha Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

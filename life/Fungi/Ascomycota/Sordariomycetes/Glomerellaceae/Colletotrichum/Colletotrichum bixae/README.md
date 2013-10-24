@@ -1,5 +1,4 @@
-Colletotrichum bixae Sawada SPECIES
-=======
+# Colletotrichum bixae Sawada SPECIES
 
 #### Status
 ACCEPTED

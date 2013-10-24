@@ -1,5 +1,4 @@
-Mucor paradoxus Berk. & M.A. Curtis SPECIES
-=======
+# Mucor paradoxus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

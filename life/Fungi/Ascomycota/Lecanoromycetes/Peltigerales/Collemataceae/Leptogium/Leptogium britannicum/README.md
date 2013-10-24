@@ -1,5 +1,4 @@
-Leptogium britannicum P. M. Jørg. & P. James SPECIES
-=======
+# Leptogium britannicum P. M. Jørg. & P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizostilbella Wolk GENUS
-=======
+# Rhizostilbella Wolk GENUS
 
 #### Status
 ACCEPTED

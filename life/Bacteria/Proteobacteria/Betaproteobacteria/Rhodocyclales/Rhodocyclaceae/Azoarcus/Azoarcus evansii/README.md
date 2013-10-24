@@ -1,5 +1,4 @@
-Azoarcus evansii Anders et al., 1995 SPECIES
-=======
+# Azoarcus evansii Anders et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

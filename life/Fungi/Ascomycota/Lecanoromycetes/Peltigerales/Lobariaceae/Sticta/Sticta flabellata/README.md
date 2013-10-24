@@ -1,5 +1,4 @@
-Sticta flabellata Mont. SPECIES
-=======
+# Sticta flabellata Mont. SPECIES
 
 #### Status
 ACCEPTED

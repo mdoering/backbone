@@ -1,8 +1,7 @@
-Rhizosolenia temperei var. acuminata H.Peragallo, 1892 VARIETY
-=======
+# Rhizosolenia acuminata (H. Peragallo) H. Peragallo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Leptothyrium pulchrum Dearn. SPECIES
-=======
+# Leptothyrium pulchrum Dearn. SPECIES
 
 #### Status
 ACCEPTED

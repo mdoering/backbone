@@ -1,5 +1,4 @@
-Tetracheilomastix Stiles & Hassall, 1925 GENUS
-=======
+# Tetracheilomastix Stiles & Hassall, 1925 GENUS
 
 #### Status
 ACCEPTED

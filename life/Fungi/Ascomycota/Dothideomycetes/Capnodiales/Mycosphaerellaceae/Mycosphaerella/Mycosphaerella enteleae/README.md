@@ -1,14 +1,13 @@
-Venturia enteleae Dingley, 1965 SPECIES
-=======
+# Mycosphaerella enteleae (Dingley) Sivan., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl agric. Res. 8: 907 (1965)
+Biblthca Mycol. 59: 115 (1977)
 
 #### Original name
 Venturia enteleae Dingley, 1965

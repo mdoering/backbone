@@ -1,5 +1,4 @@
-Vermiculariopsiella falcata Nawawi, Kuthub. & B. Sutton SPECIES
-=======
+# Vermiculariopsiella falcata Nawawi, Kuthub. & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

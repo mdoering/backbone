@@ -1,5 +1,4 @@
-Sphaerospora porphyra (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Sphaerospora porphyra (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

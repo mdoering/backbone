@@ -1,5 +1,4 @@
-Phoma usteriana Speg. SPECIES
-=======
+# Phoma usteriana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sepultaria semitosta (Berk. & M.A. Curtis) Morgan SPECIES
-=======
+# Sepultaria semitosta (Berk. & M.A. Curtis) Morgan SPECIES
 
 #### Status
 ACCEPTED

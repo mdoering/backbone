@@ -1,5 +1,4 @@
-Agaricus philliphilus Weinm. SPECIES
-=======
+# Agaricus philliphilus Weinm. SPECIES
 
 #### Status
 ACCEPTED

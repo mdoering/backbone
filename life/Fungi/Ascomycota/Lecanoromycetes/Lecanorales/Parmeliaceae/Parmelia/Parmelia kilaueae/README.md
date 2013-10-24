@@ -1,5 +1,4 @@
-Parmelia kilaueae f. kilaueae FORM
-=======
+# Parmelia kilaueae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia kilaueae f. kilaueae
+Parmelia kilaueae Zahlbr.
 
 ### Remarks
 null

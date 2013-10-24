@@ -1,5 +1,4 @@
-Lichen mesentericus J.F. Gmel. SPECIES
-=======
+# Lichen mesentericus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

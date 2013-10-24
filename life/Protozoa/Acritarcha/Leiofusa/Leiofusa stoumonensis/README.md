@@ -1,5 +1,4 @@
-Leiofusa stoumonensis Vanguestaine, 1973 SPECIES
-=======
+# Leiofusa stoumonensis Vanguestaine, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora cadabae (Thirum. & Govindu) U. Braun SPECIES
-=======
+# Pseudocercospora cadabae (Thirum. & Govindu) U. Braun SPECIES
 
 #### Status
 ACCEPTED

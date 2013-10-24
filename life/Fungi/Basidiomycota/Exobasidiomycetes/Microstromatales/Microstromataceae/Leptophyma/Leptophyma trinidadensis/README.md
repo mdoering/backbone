@@ -1,5 +1,4 @@
-Leptophyma trinidadensis (F. Stevens) Arx SPECIES
-=======
+# Leptophyma trinidadensis (F. Stevens) Arx SPECIES
 
 #### Status
 ACCEPTED

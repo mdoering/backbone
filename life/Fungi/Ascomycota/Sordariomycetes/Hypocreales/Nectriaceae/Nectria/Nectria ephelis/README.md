@@ -1,5 +1,4 @@
-Nectria ephelis Rehm SPECIES
-=======
+# Nectria ephelis Rehm SPECIES
 
 #### Status
 ACCEPTED

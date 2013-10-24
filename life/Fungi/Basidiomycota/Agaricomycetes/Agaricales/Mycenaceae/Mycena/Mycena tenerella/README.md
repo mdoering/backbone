@@ -1,5 +1,4 @@
-Mycena tenerella Métrod SPECIES
-=======
+# Mycena tenerella Métrod SPECIES
 
 #### Status
 ACCEPTED

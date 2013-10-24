@@ -1,17 +1,16 @@
-Botrytis pelargonii Røed, 1949 SPECIES
-=======
+# Botryotinia pelargonii Røed, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Blyttia 7: 77 (1949)
 
 #### Original name
-Botrytis pelargonii Røed, 1949
+Botryotinia pelargonii Røed, 1949
 
 ### Remarks
 null

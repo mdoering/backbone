@@ -1,5 +1,4 @@
-Induoglobus latipenniscus Loeblich & Wicander, 1976 SPECIES
-=======
+# Induoglobus latipenniscus Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

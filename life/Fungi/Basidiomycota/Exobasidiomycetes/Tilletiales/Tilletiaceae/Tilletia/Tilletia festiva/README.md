@@ -1,5 +1,4 @@
-Tilletia festiva Petr. & Syd. SPECIES
-=======
+# Tilletia festiva Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

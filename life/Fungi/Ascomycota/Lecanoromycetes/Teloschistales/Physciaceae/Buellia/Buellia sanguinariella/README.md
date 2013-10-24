@@ -1,5 +1,4 @@
-Buellia sanguinariella var. sanguinariella VARIETY
-=======
+# Buellia sanguinariella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia sanguinariella var. sanguinariella
+Lecidea sanguinariella Nyl.
 
 ### Remarks
 null

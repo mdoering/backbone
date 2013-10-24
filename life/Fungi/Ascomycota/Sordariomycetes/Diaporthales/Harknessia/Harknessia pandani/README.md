@@ -1,5 +1,4 @@
-Harknessia pandani Sawada SPECIES
-=======
+# Harknessia pandani Sawada SPECIES
 
 #### Status
 ACCEPTED

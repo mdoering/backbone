@@ -1,5 +1,4 @@
-Longispora Matsumoto et al., 2003 GENUS
-=======
+# Longispora Matsumoto et al., 2003 GENUS
 
 #### Status
 ACCEPTED

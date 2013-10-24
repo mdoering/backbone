@@ -1,5 +1,4 @@
-Marasmius flosculus Quél. SPECIES
-=======
+# Marasmius flosculus Quél. SPECIES
 
 #### Status
 ACCEPTED

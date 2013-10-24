@@ -1,5 +1,4 @@
-Lecidea morula SPECIES
-=======
+# Lecidea morula SPECIES
 
 #### Status
 ACCEPTED

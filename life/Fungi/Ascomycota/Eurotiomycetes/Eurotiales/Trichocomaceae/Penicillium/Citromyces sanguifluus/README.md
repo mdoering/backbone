@@ -1,5 +1,4 @@
-Citromyces sanguifluus Sopp SPECIES
-=======
+# Citromyces sanguifluus Sopp SPECIES
 
 #### Status
 ACCEPTED

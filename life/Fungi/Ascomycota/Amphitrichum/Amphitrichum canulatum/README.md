@@ -1,5 +1,4 @@
-Amphitrichum canulatum (Preuss) Kuntze SPECIES
-=======
+# Amphitrichum canulatum (Preuss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

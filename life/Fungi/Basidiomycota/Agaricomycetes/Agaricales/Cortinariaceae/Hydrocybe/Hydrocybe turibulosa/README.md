@@ -1,5 +1,4 @@
-Hydrocybe turibulosa Jul. Schäff. & E. Horak SPECIES
-=======
+# Hydrocybe turibulosa Jul. Schäff. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

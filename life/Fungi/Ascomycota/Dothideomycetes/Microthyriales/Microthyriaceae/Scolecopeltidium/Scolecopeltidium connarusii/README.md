@@ -1,5 +1,4 @@
-Scolecopeltidium connarusii Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium connarusii Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

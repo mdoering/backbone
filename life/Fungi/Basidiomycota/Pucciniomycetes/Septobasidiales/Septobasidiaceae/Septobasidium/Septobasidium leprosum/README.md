@@ -1,5 +1,4 @@
-Septobasidium leprosum Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium leprosum Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

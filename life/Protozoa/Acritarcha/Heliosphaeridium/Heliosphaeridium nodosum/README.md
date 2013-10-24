@@ -1,5 +1,4 @@
-Heliosphaeridium nodosum Moczydlowska, 1998 SPECIES
-=======
+# Heliosphaeridium nodosum Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

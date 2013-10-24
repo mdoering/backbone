@@ -1,5 +1,4 @@
-Sphaerella ficus Traverso & Spessa SPECIES
-=======
+# Sphaerella ficus Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

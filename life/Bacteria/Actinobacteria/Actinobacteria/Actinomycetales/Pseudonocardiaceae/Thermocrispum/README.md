@@ -1,5 +1,4 @@
-Thermocrispum Korn-Wendisch et al., 1995 GENUS
-=======
+# Thermocrispum Korn-Wendisch et al., 1995 GENUS
 
 #### Status
 ACCEPTED

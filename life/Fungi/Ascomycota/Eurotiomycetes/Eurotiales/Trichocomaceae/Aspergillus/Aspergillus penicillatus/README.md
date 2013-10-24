@@ -1,5 +1,4 @@
-Aspergillus penicillatus Grev. SPECIES
-=======
+# Aspergillus penicillatus Grev. SPECIES
 
 #### Status
 ACCEPTED

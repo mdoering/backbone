@@ -1,5 +1,4 @@
-Massariothea Syd. GENUS
-=======
+# Massariothea Syd. GENUS
 
 #### Status
 ACCEPTED

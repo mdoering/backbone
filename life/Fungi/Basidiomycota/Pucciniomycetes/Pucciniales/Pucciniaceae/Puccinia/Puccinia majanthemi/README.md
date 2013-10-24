@@ -1,5 +1,4 @@
-Puccinia majanthemi Dietel SPECIES
-=======
+# Puccinia majanthemi Dietel SPECIES
 
 #### Status
 ACCEPTED

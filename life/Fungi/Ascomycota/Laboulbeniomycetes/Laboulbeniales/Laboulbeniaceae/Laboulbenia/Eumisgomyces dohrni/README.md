@@ -1,5 +1,4 @@
-Eumisgomyces dohrni Speg. SPECIES
-=======
+# Eumisgomyces dohrni Speg. SPECIES
 
 #### Status
 ACCEPTED

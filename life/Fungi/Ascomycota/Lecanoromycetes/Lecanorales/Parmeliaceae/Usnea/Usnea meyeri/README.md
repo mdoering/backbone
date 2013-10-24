@@ -1,5 +1,4 @@
-Usnea meyeri var. meyeri VARIETY
-=======
+# Usnea meyeri (Stein) Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea meyeri var. meyeri
+null
 
 ### Remarks
 null

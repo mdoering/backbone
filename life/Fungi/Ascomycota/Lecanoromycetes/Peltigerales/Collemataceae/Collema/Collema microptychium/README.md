@@ -1,5 +1,4 @@
-Collema microptychium Tuck. SPECIES
-=======
+# Collema microptychium Tuck. SPECIES
 
 #### Status
 ACCEPTED

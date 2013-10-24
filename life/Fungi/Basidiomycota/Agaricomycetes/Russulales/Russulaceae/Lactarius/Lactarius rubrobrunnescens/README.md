@@ -1,5 +1,4 @@
-Lactarius rubrobrunnescens Verbeken, E. Horak & Desjardin SPECIES
-=======
+# Lactarius rubrobrunnescens Verbeken, E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora longicollis (L.M. Ames) J.H. Mirza & Cain, 1970 SPECIES
-=======
+# Podospora longicollis (L.M. Ames) J.H. Mirza & Cain, 1970 SPECIES
 
 #### Status
 ACCEPTED

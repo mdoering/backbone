@@ -1,5 +1,4 @@
-Nothoclavulina Singer GENUS
-=======
+# Nothoclavulina Singer GENUS
 
 #### Status
 ACCEPTED

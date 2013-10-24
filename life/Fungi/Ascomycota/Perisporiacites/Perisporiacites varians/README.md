@@ -1,5 +1,4 @@
-Perisporiacites varians Sahni & H.S. Rao SPECIES
-=======
+# Perisporiacites varians Sahni & H.S. Rao SPECIES
 
 #### Status
 ACCEPTED

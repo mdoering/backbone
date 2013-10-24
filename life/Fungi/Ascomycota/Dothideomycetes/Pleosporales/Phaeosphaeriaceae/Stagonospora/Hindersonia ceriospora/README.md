@@ -1,5 +1,4 @@
-Hindersonia ceriospora (Duby) J. Schröt. SPECIES
-=======
+# Hindersonia ceriospora (Duby) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

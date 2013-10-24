@@ -1,5 +1,4 @@
-Polyporus weinzettlii Velen. SPECIES
-=======
+# Polyporus weinzettlii Velen. SPECIES
 
 #### Status
 ACCEPTED

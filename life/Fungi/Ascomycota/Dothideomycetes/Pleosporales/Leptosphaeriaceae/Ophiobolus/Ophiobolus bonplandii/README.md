@@ -1,5 +1,4 @@
-Ophiobolus bonplandii (Chardón & Toro) Petr. SPECIES
-=======
+# Ophiobolus bonplandii (Chardón & Toro) Petr. SPECIES
 
 #### Status
 ACCEPTED

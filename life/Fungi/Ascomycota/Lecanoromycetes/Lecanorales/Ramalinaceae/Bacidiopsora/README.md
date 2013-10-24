@@ -1,5 +1,4 @@
-Bacidiopsora Kalb GENUS
-=======
+# Bacidiopsora Kalb GENUS
 
 #### Status
 ACCEPTED

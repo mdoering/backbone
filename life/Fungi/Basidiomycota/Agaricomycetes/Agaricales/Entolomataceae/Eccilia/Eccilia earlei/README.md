@@ -1,5 +1,4 @@
-Eccilia earlei Murrill SPECIES
-=======
+# Eccilia earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

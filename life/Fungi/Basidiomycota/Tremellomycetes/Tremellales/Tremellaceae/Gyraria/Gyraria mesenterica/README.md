@@ -1,5 +1,4 @@
-Gyraria mesenterica Gray SPECIES
-=======
+# Gyraria mesenterica Gray SPECIES
 
 #### Status
 ACCEPTED

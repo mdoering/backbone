@@ -1,5 +1,4 @@
-Rinodina americana B. de Lesd. SPECIES
-=======
+# Rinodina americana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

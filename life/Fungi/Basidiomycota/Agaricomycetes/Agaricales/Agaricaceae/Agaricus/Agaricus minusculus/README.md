@@ -1,5 +1,4 @@
-Agaricus minusculus Speg. SPECIES
-=======
+# Agaricus minusculus Speg. SPECIES
 
 #### Status
 ACCEPTED

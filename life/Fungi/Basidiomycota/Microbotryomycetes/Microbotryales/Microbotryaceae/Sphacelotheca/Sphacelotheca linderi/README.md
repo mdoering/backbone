@@ -1,17 +1,16 @@
-Sphacelotheca linderii Zundel SPECIES
-=======
+# Sphacelotheca linderi Zundel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 36(4): 405 (1944)
 
 #### Original name
-Sphacelotheca linderii Zundel
+Sphacelotheca linderi Zundel
 
 ### Remarks
 null

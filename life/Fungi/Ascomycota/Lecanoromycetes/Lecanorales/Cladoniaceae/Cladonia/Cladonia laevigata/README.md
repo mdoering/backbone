@@ -1,5 +1,4 @@
-Cladonia laevigata (Vain.) Gyeln. SPECIES
-=======
+# Cladonia laevigata (Vain.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus praenitens (Beck) Kuntze SPECIES
-=======
+# Fungus praenitens (Beck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

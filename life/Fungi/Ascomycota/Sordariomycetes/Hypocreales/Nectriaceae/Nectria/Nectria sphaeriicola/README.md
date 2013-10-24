@@ -1,5 +1,4 @@
-Nectria sphaeriicola Speg. SPECIES
-=======
+# Nectria sphaeriicola Speg. SPECIES
 
 #### Status
 ACCEPTED

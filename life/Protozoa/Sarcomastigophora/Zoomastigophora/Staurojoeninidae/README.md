@@ -1,5 +1,4 @@
-Staurojoeninidae FAMILY
-=======
+# Staurojoeninidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe plumosa Kalchbr. SPECIES
-=======
+# Inocybe plumosa Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

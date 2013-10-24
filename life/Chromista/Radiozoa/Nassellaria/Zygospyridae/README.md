@@ -1,5 +1,4 @@
-Zygospyridae FAMILY
-=======
+# Zygospyridae FAMILY
 
 #### Status
 ACCEPTED

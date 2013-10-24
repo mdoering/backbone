@@ -1,5 +1,4 @@
-Archaeosphaerodiniopsis Rampi, 1943 GENUS
-=======
+# Archaeosphaerodiniopsis Rampi, 1943 GENUS
 
 #### Status
 ACCEPTED

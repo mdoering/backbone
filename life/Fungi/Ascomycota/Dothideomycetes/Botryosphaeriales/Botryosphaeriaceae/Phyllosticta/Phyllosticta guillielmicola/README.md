@@ -1,5 +1,4 @@
-Phyllosticta guillielmicola Bat. & Silva {?} SPECIES
-=======
+# Phyllosticta guillielmicola Bat. & Silva {?} SPECIES
 
 #### Status
 ACCEPTED

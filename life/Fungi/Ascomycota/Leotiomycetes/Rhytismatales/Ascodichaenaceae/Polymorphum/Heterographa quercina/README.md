@@ -1,5 +1,4 @@
-Heterographa quercina De Not. SPECIES
-=======
+# Heterographa quercina De Not. SPECIES
 
 #### Status
 ACCEPTED

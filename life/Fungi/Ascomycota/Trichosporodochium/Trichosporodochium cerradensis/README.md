@@ -1,5 +1,4 @@
-Trichosporodochium cerradensis Dorn.-Silva & Dianese, 2004 SPECIES
-=======
+# Trichosporodochium cerradensis Dorn.-Silva & Dianese, 2004 SPECIES
 
 #### Status
 ACCEPTED

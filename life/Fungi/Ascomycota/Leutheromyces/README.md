@@ -1,5 +1,4 @@
-Leutheromyces GENUS
-=======
+# Leutheromyces GENUS
 
 #### Status
 ACCEPTED

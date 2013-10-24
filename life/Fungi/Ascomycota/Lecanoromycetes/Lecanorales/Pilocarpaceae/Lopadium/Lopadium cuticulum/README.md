@@ -1,5 +1,4 @@
-Lopadium cuticulum (Fée) Zahlbr. SPECIES
-=======
+# Lopadium cuticulum (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

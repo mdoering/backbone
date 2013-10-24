@@ -1,5 +1,4 @@
-Stereum cinereum Lév. SPECIES
-=======
+# Stereum cinereum Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius gracilescens (Fr.) Kühner SPECIES
-=======
+# Cortinarius gracilescens (Fr.) Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta araucariicola Trotter SPECIES
-=======
+# Phyllosticta araucariicola Trotter SPECIES
 
 #### Status
 ACCEPTED

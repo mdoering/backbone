@@ -1,5 +1,4 @@
-Arthonia ramosii (Räsänen) R. Sant. SPECIES
-=======
+# Arthonia ramosii (Räsänen) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

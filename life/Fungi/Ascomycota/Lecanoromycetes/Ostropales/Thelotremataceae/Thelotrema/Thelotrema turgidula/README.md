@@ -1,5 +1,4 @@
-Thelotrema turgidula Vain. SPECIES
-=======
+# Thelotrema turgidula Vain. SPECIES
 
 #### Status
 ACCEPTED

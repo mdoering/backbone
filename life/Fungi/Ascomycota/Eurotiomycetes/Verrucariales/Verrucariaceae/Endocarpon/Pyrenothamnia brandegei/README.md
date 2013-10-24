@@ -1,5 +1,4 @@
-Pyrenothamnia brandegei (Tuck.) Zahlbr. SPECIES
-=======
+# Pyrenothamnia brandegei (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

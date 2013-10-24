@@ -1,5 +1,4 @@
-Graphina palmeri Zahlbr. SPECIES
-=======
+# Graphina palmeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

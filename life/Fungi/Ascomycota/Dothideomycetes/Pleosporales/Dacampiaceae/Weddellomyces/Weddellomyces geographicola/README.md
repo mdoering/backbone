@@ -1,5 +1,4 @@
-Weddellomyces geographicola (Arnold) Alstrup & D. Hawksw. SPECIES
-=======
+# Weddellomyces geographicola (Arnold) Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

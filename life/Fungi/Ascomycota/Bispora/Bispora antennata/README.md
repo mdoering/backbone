@@ -1,17 +1,16 @@
-Bispora monilioides var. monilioides VARIETY
-=======
+# Bispora antennata (Pers.) E.W. Mason, 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 9 (1837)
+in Hughes, Can. J. Bot. 31(5): 582 (1953)
 
 #### Original name
-Bispora monilioides var. monilioides
+Monilia antennata Pers.
 
 ### Remarks
 null

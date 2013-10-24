@@ -1,5 +1,4 @@
-Strongyleuma gneissicum SPECIES
-=======
+# Strongyleuma gneissicum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia petrinensis J.C. David SPECIES
-=======
+# Ocellularia petrinensis J.C. David SPECIES
 
 #### Status
 ACCEPTED

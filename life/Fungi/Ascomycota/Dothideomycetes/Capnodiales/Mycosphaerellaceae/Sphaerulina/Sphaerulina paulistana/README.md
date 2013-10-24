@@ -1,5 +1,4 @@
-Sphaerulina paulistana Speg. SPECIES
-=======
+# Sphaerulina paulistana Speg. SPECIES
 
 #### Status
 ACCEPTED

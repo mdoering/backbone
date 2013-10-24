@@ -1,5 +1,4 @@
-Anthostomella arthrophylli Koord. SPECIES
-=======
+# Anthostomella arthrophylli Koord. SPECIES
 
 #### Status
 ACCEPTED

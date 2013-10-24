@@ -1,5 +1,4 @@
-Helotium chromoflavum Rick SPECIES
-=======
+# Helotium chromoflavum Rick SPECIES
 
 #### Status
 ACCEPTED

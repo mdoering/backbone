@@ -1,5 +1,4 @@
-Verrucaria nidulifera Servít SPECIES
-=======
+# Verrucaria nidulifera Servít SPECIES
 
 #### Status
 ACCEPTED

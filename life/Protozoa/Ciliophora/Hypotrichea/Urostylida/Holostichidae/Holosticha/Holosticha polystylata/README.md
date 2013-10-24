@@ -1,5 +1,4 @@
-Holosticha polystylata Borror & Wicklow, 1983 SPECIES
-=======
+# Holosticha polystylata Borror & Wicklow, 1983 SPECIES
 
 #### Status
 ACCEPTED

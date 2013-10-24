@@ -1,5 +1,4 @@
-Ectotrichophyton farinulentus (Sabour.) Castell. & Chalm. SPECIES
-=======
+# Ectotrichophyton farinulentus (Sabour.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

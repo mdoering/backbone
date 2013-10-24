@@ -1,5 +1,4 @@
-Epistylis vittata Stokes, 1889 SPECIES
-=======
+# Epistylis vittata Stokes, 1889 SPECIES
 
 #### Status
 ACCEPTED

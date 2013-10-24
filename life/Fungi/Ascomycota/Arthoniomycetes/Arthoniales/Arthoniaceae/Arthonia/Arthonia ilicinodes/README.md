@@ -1,5 +1,4 @@
-Arthonia ilicinodes J. Steiner SPECIES
-=======
+# Arthonia ilicinodes J. Steiner SPECIES
 
 #### Status
 ACCEPTED

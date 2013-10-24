@@ -1,8 +1,7 @@
-Rhabdolithus pannonicus Báldi-Beke, 1960 SPECIES
-=======
+# Rhabdolithus pannonica Báldi-Beke, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

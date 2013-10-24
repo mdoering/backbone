@@ -1,5 +1,4 @@
-Laboulbenia indica A. Pathak & Mukerji SPECIES
-=======
+# Laboulbenia indica A. Pathak & Mukerji SPECIES
 
 #### Status
 ACCEPTED

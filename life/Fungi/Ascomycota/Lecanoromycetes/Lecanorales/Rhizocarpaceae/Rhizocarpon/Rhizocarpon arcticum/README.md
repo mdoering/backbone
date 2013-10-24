@@ -1,5 +1,4 @@
-Rhizocarpon arcticum Räsänen SPECIES
-=======
+# Rhizocarpon arcticum Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis diversa (Nyl.) Müll. Arg. SPECIES
-=======
+# Phaeographis diversa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora theobromicola Gonz. Frag. & Cif. SPECIES
-=======
+# Physalospora theobromicola Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

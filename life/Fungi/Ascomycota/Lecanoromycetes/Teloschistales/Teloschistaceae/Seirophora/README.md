@@ -1,5 +1,4 @@
-Seirophora Poelt GENUS
-=======
+# Seirophora Poelt GENUS
 
 #### Status
 ACCEPTED

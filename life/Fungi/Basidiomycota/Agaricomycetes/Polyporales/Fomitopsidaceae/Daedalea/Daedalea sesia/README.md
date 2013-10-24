@@ -1,5 +1,4 @@
-Daedalea sesia (Scop.) Pers. SPECIES
-=======
+# Daedalea sesia (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

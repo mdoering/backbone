@@ -1,5 +1,4 @@
-Rosellinia ovalis Ellis SPECIES
-=======
+# Rosellinia ovalis Ellis SPECIES
 
 #### Status
 ACCEPTED

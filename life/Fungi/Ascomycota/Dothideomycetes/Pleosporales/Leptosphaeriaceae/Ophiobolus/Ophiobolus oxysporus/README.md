@@ -1,5 +1,4 @@
-Ophiobolus oxysporus (Feltgen) Sacc. & D. Sacc. SPECIES
-=======
+# Ophiobolus oxysporus (Feltgen) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia subpruinosa (Murrill) Dennis SPECIES
-=======
+# Collybia subpruinosa (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

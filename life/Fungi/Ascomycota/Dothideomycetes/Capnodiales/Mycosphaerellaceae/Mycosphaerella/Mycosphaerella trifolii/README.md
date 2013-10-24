@@ -1,17 +1,16 @@
-Sphaerella trifolii var. trifolii VARIETY
-=======
+# Mycosphaerella trifolii (P. Karst.) Jacz., 1916 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 23: 174 (1873)
+null
 
 #### Original name
-Sphaerella trifolii var. trifolii
+Sphaerella trifolii P. Karst., 1873
 
 ### Remarks
 null

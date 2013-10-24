@@ -1,5 +1,4 @@
-Racodium vulgare Fr. SPECIES
-=======
+# Racodium vulgare Fr. SPECIES
 
 #### Status
 ACCEPTED

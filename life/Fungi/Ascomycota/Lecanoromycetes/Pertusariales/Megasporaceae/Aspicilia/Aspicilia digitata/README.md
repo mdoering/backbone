@@ -1,5 +1,4 @@
-Aspicilia digitata Sohrabi & Litterski SPECIES
-=======
+# Aspicilia digitata Sohrabi & Litterski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena nodosocystis Métrod SPECIES
-=======
+# Mycena nodosocystis Métrod SPECIES
 
 #### Status
 ACCEPTED

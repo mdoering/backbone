@@ -1,5 +1,4 @@
-Acineta symbiotica Daday, 1910 SPECIES
-=======
+# Acineta symbiotica Daday, 1910 SPECIES
 
 #### Status
 ACCEPTED

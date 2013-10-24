@@ -1,5 +1,4 @@
-Neoclitocybe acromelalga (Singer) Singer SPECIES
-=======
+# Neoclitocybe acromelalga (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

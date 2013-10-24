@@ -1,5 +1,4 @@
-Nannizziopsis Currah GENUS
-=======
+# Nannizziopsis Currah GENUS
 
 #### Status
 ACCEPTED

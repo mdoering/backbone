@@ -1,5 +1,4 @@
-Chalara spiralis Nag Raj & W.B. Kendr., 1975 SPECIES
-=======
+# Chalara spiralis Nag Raj & W.B. Kendr., 1975 SPECIES
 
 #### Status
 ACCEPTED

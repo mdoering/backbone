@@ -1,5 +1,4 @@
-Taphrophila cornu-capreoli Scheuer, 1988 SPECIES
-=======
+# Taphrophila cornu-capreoli Scheuer, 1988 SPECIES
 
 #### Status
 ACCEPTED

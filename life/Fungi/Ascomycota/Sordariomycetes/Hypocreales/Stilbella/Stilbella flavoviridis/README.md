@@ -1,5 +1,4 @@
-Stilbella flavoviridis (Fuckel) Höhn. SPECIES
-=======
+# Stilbella flavoviridis (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

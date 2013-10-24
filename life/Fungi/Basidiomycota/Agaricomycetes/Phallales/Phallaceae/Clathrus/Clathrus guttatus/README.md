@@ -1,5 +1,4 @@
-Clathrus guttatus Fr. SPECIES
-=======
+# Clathrus guttatus Fr. SPECIES
 
 #### Status
 ACCEPTED

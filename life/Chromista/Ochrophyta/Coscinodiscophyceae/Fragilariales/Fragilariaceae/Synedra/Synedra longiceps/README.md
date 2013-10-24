@@ -1,5 +1,4 @@
-Synedra longiceps Ehrenberg SPECIES
-=======
+# Synedra longiceps Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia macranda SPECIES
-=======
+# Rickia macranda SPECIES
 
 #### Status
 ACCEPTED

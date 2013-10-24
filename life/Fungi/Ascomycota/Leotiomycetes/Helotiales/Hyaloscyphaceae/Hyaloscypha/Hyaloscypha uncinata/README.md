@@ -1,5 +1,4 @@
-Hyaloscypha uncinata Arendh. & R. Sharma SPECIES
-=======
+# Hyaloscypha uncinata Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

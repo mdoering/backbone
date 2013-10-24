@@ -1,8 +1,7 @@
-Pseudobütschlia bovis (Jirovec, 1933) Jirovec, 1933 SPECIES
-=======
+# Pseudobuetschlia bovis (Jirovec, 1933) Jirovec, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Pholiota septembris Singer SPECIES
-=======
+# Pholiota septembris Singer SPECIES
 
 #### Status
 ACCEPTED

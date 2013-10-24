@@ -1,5 +1,4 @@
-Microdochium fusarioides D.C. Harris, 1985 SPECIES
-=======
+# Microdochium fusarioides D.C. Harris, 1985 SPECIES
 
 #### Status
 ACCEPTED

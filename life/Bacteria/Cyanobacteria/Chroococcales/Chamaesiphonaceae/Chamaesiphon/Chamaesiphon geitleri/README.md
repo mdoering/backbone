@@ -1,5 +1,4 @@
-Chamaesiphon geitleri Luther SPECIES
-=======
+# Chamaesiphon geitleri Luther SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagena laevis SPECIES
-=======
+# Lagena laevis SPECIES
 
 #### Status
 ACCEPTED

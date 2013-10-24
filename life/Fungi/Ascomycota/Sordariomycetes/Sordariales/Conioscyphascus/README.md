@@ -1,5 +1,4 @@
-Conioscyphascus Réblová & Seifert GENUS
-=======
+# Conioscyphascus Réblová & Seifert GENUS
 
 #### Status
 ACCEPTED

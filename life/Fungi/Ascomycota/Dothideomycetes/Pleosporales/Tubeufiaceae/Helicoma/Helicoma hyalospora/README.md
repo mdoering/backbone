@@ -1,5 +1,4 @@
-Helicoma hyalospora (P.Rag. Rao & D. Rao) G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
-=======
+# Helicoma hyalospora (P.Rag. Rao & D. Rao) G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

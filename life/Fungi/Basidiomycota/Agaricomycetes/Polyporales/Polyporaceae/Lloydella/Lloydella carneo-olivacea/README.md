@@ -1,5 +1,4 @@
-Lloydella carneo-olivacea Rick SPECIES
-=======
+# Lloydella carneo-olivacea Rick SPECIES
 
 #### Status
 ACCEPTED

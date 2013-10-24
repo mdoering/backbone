@@ -1,5 +1,4 @@
-Verrucaria grimselana (A. Massal.) Hepp SPECIES
-=======
+# Verrucaria grimselana (A. Massal.) Hepp SPECIES
 
 #### Status
 ACCEPTED

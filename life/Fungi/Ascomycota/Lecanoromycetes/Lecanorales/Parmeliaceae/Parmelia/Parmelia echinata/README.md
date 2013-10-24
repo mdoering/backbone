@@ -1,5 +1,4 @@
-Parmelia echinata Taylor SPECIES
-=======
+# Parmelia echinata Taylor SPECIES
 
 #### Status
 ACCEPTED

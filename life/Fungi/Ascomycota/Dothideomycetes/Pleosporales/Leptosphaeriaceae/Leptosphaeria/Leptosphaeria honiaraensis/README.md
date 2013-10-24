@@ -1,5 +1,4 @@
-Leptosphaeria honiaraensis Matsush. SPECIES
-=======
+# Leptosphaeria honiaraensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thoracosphaera spinosa Keupp, 1979 SPECIES
-=======
+# Thoracosphaera spinosa Keupp, 1979 SPECIES
 
 #### Status
 ACCEPTED

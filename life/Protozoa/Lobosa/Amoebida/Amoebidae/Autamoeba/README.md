@@ -1,5 +1,4 @@
-Autamoeba Haeckel GENUS
-=======
+# Autamoeba Haeckel GENUS
 
 #### Status
 ACCEPTED

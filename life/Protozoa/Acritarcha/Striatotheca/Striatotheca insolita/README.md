@@ -1,5 +1,4 @@
-Striatotheca insolita Burmann, 1970 SPECIES
-=======
+# Striatotheca insolita Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Peziza pallescens Pers. SPECIES
-=======
+# Bisporella pallescens (Pers.) S.E. Carp. & Korf, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Lipsiae) 1: 35 (1796)
+Mycotaxon 1(1): 58 (1974)
 
 #### Original name
 Peziza pallescens Pers.

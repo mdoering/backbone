@@ -1,5 +1,4 @@
-Dinophysis planiceps (Schiller) Balech SPECIES
-=======
+# Dinophysis planiceps (Schiller) Balech SPECIES
 
 #### Status
 ACCEPTED

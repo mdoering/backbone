@@ -1,5 +1,4 @@
-Microsphaeropsis clidemiae B. Sutton SPECIES
-=======
+# Microsphaeropsis clidemiae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

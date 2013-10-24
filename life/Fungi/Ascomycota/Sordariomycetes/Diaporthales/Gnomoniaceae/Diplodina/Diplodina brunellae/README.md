@@ -1,5 +1,4 @@
-Diplodina brunellae Hollós SPECIES
-=======
+# Diplodina brunellae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calyptra capnoides (Ellis) Theiss. & Syd. SPECIES
-=======
+# Calyptra capnoides (Ellis) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria durionis Syd. SPECIES
-=======
+# Placosphaeria durionis Syd. SPECIES
 
 #### Status
 ACCEPTED

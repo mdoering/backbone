@@ -1,5 +1,4 @@
-Phillipsia carnicolor Le Gal SPECIES
-=======
+# Phillipsia carnicolor Le Gal SPECIES
 
 #### Status
 ACCEPTED

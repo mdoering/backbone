@@ -1,5 +1,4 @@
-Singera GENUS
-=======
+# Singera GENUS
 
 #### Status
 ACCEPTED

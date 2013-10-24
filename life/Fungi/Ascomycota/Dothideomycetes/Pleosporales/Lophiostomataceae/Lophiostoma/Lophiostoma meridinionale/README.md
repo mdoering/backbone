@@ -1,5 +1,4 @@
-Lophiostoma meridinionale Ellis SPECIES
-=======
+# Lophiostoma meridinionale Ellis SPECIES
 
 #### Status
 ACCEPTED

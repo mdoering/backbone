@@ -1,5 +1,4 @@
-Coccomycetella richardsonii (Leight.) Sherwood SPECIES
-=======
+# Coccomycetella richardsonii (Leight.) Sherwood SPECIES
 
 #### Status
 ACCEPTED

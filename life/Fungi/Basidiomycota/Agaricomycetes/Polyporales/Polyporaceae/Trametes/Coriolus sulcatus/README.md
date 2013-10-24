@@ -1,5 +1,4 @@
-Coriolus sulcatus (P. Karst.) P. Karst. SPECIES
-=======
+# Coriolus sulcatus (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

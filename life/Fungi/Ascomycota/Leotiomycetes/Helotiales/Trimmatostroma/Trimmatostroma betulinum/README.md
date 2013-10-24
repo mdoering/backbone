@@ -1,14 +1,13 @@
-Coniothecium betulinum Corda, 1837 SPECIES
-=======
+# Trimmatostroma betulinum (Corda) S. Hughes, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 2 (1837)
+Can. J. Bot. 31: 628 (1953)
 
 #### Original name
 Coniothecium betulinum Corda, 1837

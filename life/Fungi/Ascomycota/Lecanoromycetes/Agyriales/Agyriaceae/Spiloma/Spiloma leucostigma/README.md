@@ -1,5 +1,4 @@
-Spiloma leucostigma (Ach.) Ach. SPECIES
-=======
+# Spiloma leucostigma (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

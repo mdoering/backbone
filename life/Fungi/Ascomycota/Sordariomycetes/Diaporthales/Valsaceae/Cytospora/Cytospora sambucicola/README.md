@@ -1,5 +1,4 @@
-Cytospora sambucicola Tehon & G.L. Stout SPECIES
-=======
+# Cytospora sambucicola Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

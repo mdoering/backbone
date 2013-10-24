@@ -1,5 +1,4 @@
-Plicatura Peck, 1872 GENUS
-=======
+# Plicatura Peck, 1872 GENUS
 
 #### Status
 ACCEPTED

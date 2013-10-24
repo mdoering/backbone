@@ -1,5 +1,4 @@
-Lecanora margaritae Hue SPECIES
-=======
+# Lecanora margaritae Hue SPECIES
 
 #### Status
 ACCEPTED

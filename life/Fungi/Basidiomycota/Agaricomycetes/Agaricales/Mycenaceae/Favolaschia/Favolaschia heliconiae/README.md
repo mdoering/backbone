@@ -1,5 +1,4 @@
-Favolaschia heliconiae Singer, 1974 SPECIES
-=======
+# Favolaschia heliconiae Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

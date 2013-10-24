@@ -1,5 +1,4 @@
-Calycellina carolinensis Nag Raj & W.B. Kendr., 1975 SPECIES
-=======
+# Calycellina carolinensis Nag Raj & W.B. Kendr., 1975 SPECIES
 
 #### Status
 ACCEPTED

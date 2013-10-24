@@ -1,5 +1,4 @@
-Torula pulviniformis Syd. & P. Syd. SPECIES
-=======
+# Torula pulviniformis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

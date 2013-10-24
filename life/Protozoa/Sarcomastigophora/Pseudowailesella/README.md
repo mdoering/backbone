@@ -1,5 +1,4 @@
-Pseudowailesella Sudzuki, 1979 GENUS
-=======
+# Pseudowailesella Sudzuki, 1979 GENUS
 
 #### Status
 ACCEPTED

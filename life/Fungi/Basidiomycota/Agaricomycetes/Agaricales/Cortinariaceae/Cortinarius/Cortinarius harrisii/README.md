@@ -1,5 +1,4 @@
-Cortinarius harrisii Grgur. SPECIES
-=======
+# Cortinarius harrisii Grgur. SPECIES
 
 #### Status
 ACCEPTED

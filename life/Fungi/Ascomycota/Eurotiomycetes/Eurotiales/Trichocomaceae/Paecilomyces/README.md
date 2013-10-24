@@ -1,5 +1,4 @@
-Paecilomyces Bainier GENUS
-=======
+# Paecilomyces Bainier GENUS
 
 #### Status
 ACCEPTED

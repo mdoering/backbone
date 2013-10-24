@@ -1,5 +1,4 @@
-Schismatomma deightonii C.W. Dodge SPECIES
-=======
+# Schismatomma deightonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

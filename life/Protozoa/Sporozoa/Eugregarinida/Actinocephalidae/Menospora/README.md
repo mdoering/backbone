@@ -1,5 +1,4 @@
-Menospora Léger, 1892 GENUS
-=======
+# Menospora Léger, 1892 GENUS
 
 #### Status
 ACCEPTED

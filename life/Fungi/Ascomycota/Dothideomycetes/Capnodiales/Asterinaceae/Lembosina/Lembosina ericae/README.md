@@ -1,5 +1,4 @@
-Lembosina ericae B. Erikss. SPECIES
-=======
+# Lembosina ericae B. Erikss. SPECIES
 
 #### Status
 ACCEPTED

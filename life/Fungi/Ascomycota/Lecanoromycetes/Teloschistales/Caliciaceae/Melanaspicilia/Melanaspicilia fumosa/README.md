@@ -1,5 +1,4 @@
-Melanaspicilia fumosa Vain. SPECIES
-=======
+# Melanaspicilia fumosa Vain. SPECIES
 
 #### Status
 ACCEPTED

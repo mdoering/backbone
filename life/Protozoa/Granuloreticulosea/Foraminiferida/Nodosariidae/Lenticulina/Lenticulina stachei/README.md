@@ -1,5 +1,4 @@
-Lenticulina stachei Huang SPECIES
-=======
+# Lenticulina stachei Huang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascocalyx tenuisporus J.W. Groves SPECIES
-=======
+# Ascocalyx tenuisporus J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

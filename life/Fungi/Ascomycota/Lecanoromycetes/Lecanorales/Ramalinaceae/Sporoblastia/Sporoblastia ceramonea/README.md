@@ -1,5 +1,4 @@
-Sporoblastia ceramonea (A. Massal.) Trevis. SPECIES
-=======
+# Sporoblastia ceramonea (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chitonomyces africanus Thaxt. SPECIES
-=======
+# Chitonomyces africanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

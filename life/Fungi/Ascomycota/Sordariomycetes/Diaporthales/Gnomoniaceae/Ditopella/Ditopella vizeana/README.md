@@ -1,14 +1,13 @@
-Pampolysporium vizeanum (Sacc. & Speg.) M. Monod, 1983 SPECIES
-=======
+# Ditopella vizeana Sacc. & Speg., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 9: 210 (1983)
+Michelia 2(no. 7): 248 (1881)
 
 #### Original name
 Ditopella vizeana Sacc. & Speg., 1881

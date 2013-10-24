@@ -1,5 +1,4 @@
-Polymarasmius sarmentosus (Berk.) Murrill SPECIES
-=======
+# Polymarasmius sarmentosus (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

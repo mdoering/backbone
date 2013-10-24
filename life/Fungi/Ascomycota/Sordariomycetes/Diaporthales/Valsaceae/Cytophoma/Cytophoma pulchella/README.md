@@ -1,5 +1,4 @@
-Cytophoma pulchella (Sacc.) Gutner SPECIES
-=======
+# Cytophoma pulchella (Sacc.) Gutner SPECIES
 
 #### Status
 ACCEPTED

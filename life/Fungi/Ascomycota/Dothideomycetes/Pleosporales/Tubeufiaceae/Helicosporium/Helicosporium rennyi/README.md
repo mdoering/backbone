@@ -1,5 +1,4 @@
-Helicosporium rennyi anon. SPECIES
-=======
+# Helicosporium rennyi anon. SPECIES
 
 #### Status
 ACCEPTED

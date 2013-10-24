@@ -1,5 +1,4 @@
-Panus pycnoticus (Klotzsch) Fr. SPECIES
-=======
+# Panus pycnoticus (Klotzsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

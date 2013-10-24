@@ -1,5 +1,4 @@
-Hymenochaete barbata Massee, 1890 SPECIES
-=======
+# Hymenochaete barbata Massee, 1890 SPECIES
 
 #### Status
 ACCEPTED

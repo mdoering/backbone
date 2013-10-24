@@ -1,5 +1,4 @@
-Harpezomyces cremeus Malloch & Cain SPECIES
-=======
+# Harpezomyces cremeus Malloch & Cain SPECIES
 
 #### Status
 ACCEPTED

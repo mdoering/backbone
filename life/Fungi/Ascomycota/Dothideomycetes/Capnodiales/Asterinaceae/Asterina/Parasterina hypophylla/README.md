@@ -1,5 +1,4 @@
-Parasterina hypophylla (Schwein.) Theiss. SPECIES
-=======
+# Parasterina hypophylla (Schwein.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella crossophylla (Nyl.) G. Merr. & Burnham {?} SPECIES
-=======
+# Parmeliella crossophylla (Nyl.) G. Merr. & Burnham {?} SPECIES
 
 #### Status
 ACCEPTED

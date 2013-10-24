@@ -1,5 +1,4 @@
-Tricharia subplana Kalb & Vezda SPECIES
-=======
+# Tricharia subplana Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

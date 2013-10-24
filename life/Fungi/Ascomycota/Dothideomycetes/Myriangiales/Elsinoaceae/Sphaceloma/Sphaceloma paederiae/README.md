@@ -1,5 +1,4 @@
-Sphaceloma paederiae Kuros. {?} & Katsuki SPECIES
-=======
+# Sphaceloma paederiae Kuros. {?} & Katsuki SPECIES
 
 #### Status
 ACCEPTED

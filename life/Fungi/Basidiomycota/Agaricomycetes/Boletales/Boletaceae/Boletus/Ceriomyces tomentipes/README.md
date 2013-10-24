@@ -1,5 +1,4 @@
-Ceriomyces tomentipes (Earle) Murrill SPECIES
-=======
+# Ceriomyces tomentipes (Earle) Murrill SPECIES
 
 #### Status
 ACCEPTED

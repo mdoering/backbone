@@ -1,5 +1,4 @@
-Lactarius borzianus (Cavara) Verbeken & Nuytinck, 2004 SPECIES
-=======
+# Lactarius borzianus (Cavara) Verbeken & Nuytinck, 2004 SPECIES
 
 #### Status
 ACCEPTED

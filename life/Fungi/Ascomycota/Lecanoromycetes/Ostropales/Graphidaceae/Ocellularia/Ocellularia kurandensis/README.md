@@ -1,5 +1,4 @@
-Ocellularia kurandensis Mangold SPECIES
-=======
+# Ocellularia kurandensis Mangold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tholodiscus Kozlova in Petrushevskaya & Kozlova, 1972 GENUS
-=======
+# Tholodiscus Kozlova in Petrushevskaya & Kozlova, 1972 GENUS
 
 #### Status
 ACCEPTED

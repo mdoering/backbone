@@ -1,5 +1,4 @@
-Aulacoseira robusta G. K. Khursevich SPECIES
-=======
+# Aulacoseira robusta G. K. Khursevich SPECIES
 
 #### Status
 ACCEPTED

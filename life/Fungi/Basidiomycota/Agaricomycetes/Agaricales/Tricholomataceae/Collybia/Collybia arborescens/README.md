@@ -1,5 +1,4 @@
-Collybia arborescens Henn. SPECIES
-=======
+# Collybia arborescens Henn. SPECIES
 
 #### Status
 ACCEPTED

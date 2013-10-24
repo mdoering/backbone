@@ -1,5 +1,4 @@
-Lecidea finkei Zahlbr. SPECIES
-=======
+# Lecidea finkei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

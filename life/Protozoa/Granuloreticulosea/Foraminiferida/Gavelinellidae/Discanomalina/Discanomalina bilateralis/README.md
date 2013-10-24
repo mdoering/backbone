@@ -1,8 +1,7 @@
-Paromalina bilateralis Loeblich & Tappan, 1957 SPECIES
-=======
+# Discanomalina bilateralis (Loeblich & Tappan, 1957) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

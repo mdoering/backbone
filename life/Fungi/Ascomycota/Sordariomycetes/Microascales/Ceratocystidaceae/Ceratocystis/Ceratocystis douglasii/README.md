@@ -1,5 +1,4 @@
-Ceratocystis douglasii (R.W. Davidson) M.J. Wingf. & T.C. Harr. SPECIES
-=======
+# Ceratocystis douglasii (R.W. Davidson) M.J. Wingf. & T.C. Harr. SPECIES
 
 #### Status
 ACCEPTED

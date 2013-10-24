@@ -1,5 +1,4 @@
-Tintinnopsis glans Meunier, ? SPECIES
-=======
+# Tintinnopsis glans Meunier, ? SPECIES
 
 #### Status
 ACCEPTED

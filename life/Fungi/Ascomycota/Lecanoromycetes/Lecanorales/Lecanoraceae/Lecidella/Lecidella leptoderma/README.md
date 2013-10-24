@@ -1,5 +1,4 @@
-Lecidella leptoderma (Duby) Clauzade & Cl. Roux SPECIES
-=======
+# Lecidella leptoderma (Duby) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

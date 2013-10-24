@@ -1,5 +1,4 @@
-Pseudostephanodiscus J.Sieminska, 1988 GENUS
-=======
+# Pseudostephanodiscus J.Sieminska, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lycoperdodes marmoratum (Berk.) Kuntze, 1891 SPECIES
-=======
+# Pisolithus marmoratus (Berk.) E. Fisch., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: (1891)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1**: 338 (1900)
 
 #### Original name
 Polysaccum marmoratum Berk., 1872

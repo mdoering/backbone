@@ -1,5 +1,4 @@
-Discorbia globospiralis Sellier de Civrieux, 1977 SPECIES
-=======
+# Discorbia globospiralis Sellier de Civrieux, 1977 SPECIES
 
 #### Status
 ACCEPTED

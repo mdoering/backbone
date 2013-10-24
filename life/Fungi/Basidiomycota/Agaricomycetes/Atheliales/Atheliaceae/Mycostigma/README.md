@@ -1,5 +1,4 @@
-Mycostigma Jülich GENUS
-=======
+# Mycostigma Jülich GENUS
 
 #### Status
 ACCEPTED

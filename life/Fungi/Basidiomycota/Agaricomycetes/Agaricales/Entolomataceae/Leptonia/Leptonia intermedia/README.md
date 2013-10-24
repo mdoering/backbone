@@ -1,5 +1,4 @@
-Leptonia intermedia F.H. Møller SPECIES
-=======
+# Leptonia intermedia F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Papulosporonites enormis (V.S. Ediger) Kalgutkar & Janson. SPECIES
-=======
+# Papulosporonites enormis (V.S. Ediger) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

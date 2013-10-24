@@ -1,5 +1,4 @@
-Chilodonella tripartita SPECIES
-=======
+# Chilodonella tripartita SPECIES
 
 #### Status
 ACCEPTED

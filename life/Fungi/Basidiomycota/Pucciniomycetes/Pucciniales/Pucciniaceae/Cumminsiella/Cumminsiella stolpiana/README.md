@@ -1,8 +1,7 @@
-Uredo stolpiana Magnus, 1892 SPECIES
-=======
+# Cumminsiella stolpiana (Dietel & Neger) J.W. Baxter, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Uredo stolpiana Magnus, 1892
+Puccinia stolpiana (Magnus) Dietel & Neger, 1899
 
 ### Remarks
 null

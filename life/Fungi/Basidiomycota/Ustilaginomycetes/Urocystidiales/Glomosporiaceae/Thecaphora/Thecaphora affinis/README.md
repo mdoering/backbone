@@ -1,5 +1,4 @@
-Thecaphora affinis A. Schneid. SPECIES
-=======
+# Thecaphora affinis A. Schneid. SPECIES
 
 #### Status
 ACCEPTED

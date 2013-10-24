@@ -1,5 +1,4 @@
-Streptomyces durhamensis Gordon and Lapa, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces durhamensis Gordon and Lapa, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

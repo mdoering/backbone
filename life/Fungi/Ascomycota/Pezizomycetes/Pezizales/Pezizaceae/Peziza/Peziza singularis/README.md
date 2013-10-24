@@ -1,5 +1,4 @@
-Peziza singularis Peck SPECIES
-=======
+# Peziza singularis Peck SPECIES
 
 #### Status
 ACCEPTED

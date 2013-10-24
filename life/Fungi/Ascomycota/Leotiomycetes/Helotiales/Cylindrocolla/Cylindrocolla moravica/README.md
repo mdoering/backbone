@@ -1,5 +1,4 @@
-Cylindrocolla moravica Petr. SPECIES
-=======
+# Cylindrocolla moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

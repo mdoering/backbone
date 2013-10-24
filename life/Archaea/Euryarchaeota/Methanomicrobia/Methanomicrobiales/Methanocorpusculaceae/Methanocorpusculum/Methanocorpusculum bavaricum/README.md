@@ -1,5 +1,4 @@
-Methanocorpusculum bavaricum Zellner et al., 1989 SPECIES
-=======
+# Methanocorpusculum bavaricum Zellner et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

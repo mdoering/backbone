@@ -1,17 +1,16 @@
-Cladosporium cyttariicolum Speg. SPECIES
-=======
+# Cladosporium cyttariicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Physis, Rev. Soc. Arg. Cienc. Nat. 7: 20 [no. 20] (1923)
 
 #### Original name
-Cladosporium cyttariicolum Speg.
+Cladosporium cyttariicola Speg.
 
 ### Remarks
 null

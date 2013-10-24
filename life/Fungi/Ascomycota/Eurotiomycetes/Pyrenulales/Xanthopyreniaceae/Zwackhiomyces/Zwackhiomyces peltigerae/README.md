@@ -1,5 +1,4 @@
-Zwackhiomyces peltigerae Miadl. & Alstrup SPECIES
-=======
+# Zwackhiomyces peltigerae Miadl. & Alstrup SPECIES
 
 #### Status
 ACCEPTED

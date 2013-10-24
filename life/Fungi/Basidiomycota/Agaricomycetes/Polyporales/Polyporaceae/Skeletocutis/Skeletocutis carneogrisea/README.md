@@ -1,5 +1,4 @@
-Skeletocutis carneogrisea A. David, 1982 SPECIES
-=======
+# Skeletocutis carneogrisea A. David, 1982 SPECIES
 
 #### Status
 ACCEPTED

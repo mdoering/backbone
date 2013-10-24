@@ -1,5 +1,4 @@
-Excipula galii Moug. SPECIES
-=======
+# Excipula galii Moug. SPECIES
 
 #### Status
 ACCEPTED

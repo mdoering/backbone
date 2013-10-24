@@ -1,5 +1,4 @@
-Sphaerulina pleuropogonis Rostr. SPECIES
-=======
+# Sphaerulina pleuropogonis Rostr. SPECIES
 
 #### Status
 ACCEPTED

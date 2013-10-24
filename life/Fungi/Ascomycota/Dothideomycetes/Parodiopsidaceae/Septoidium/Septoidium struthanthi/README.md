@@ -1,5 +1,4 @@
-Septoidium struthanthi G. Arnaud SPECIES
-=======
+# Septoidium struthanthi G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

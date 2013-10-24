@@ -1,5 +1,4 @@
-Lecidea thomensis Nyl. SPECIES
-=======
+# Lecidea thomensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

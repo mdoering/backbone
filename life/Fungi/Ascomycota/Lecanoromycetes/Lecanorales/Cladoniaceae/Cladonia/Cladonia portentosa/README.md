@@ -1,17 +1,16 @@
-Cladonia impexa f. impexa FORM
-=======
+# Cladonia portentosa (Dufour) Coem. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. France 3: 232 (1907)
+null
 
 #### Original name
-Cladonia impexa f. impexa
+Cenomyce portentosa Dufour
 
 ### Remarks
 null

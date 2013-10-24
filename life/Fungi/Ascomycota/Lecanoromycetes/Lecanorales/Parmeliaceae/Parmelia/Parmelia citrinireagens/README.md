@@ -1,5 +1,4 @@
-Parmelia citrinireagens var. angustior Gyeln. VARIETY
-=======
+# Parmelia citrinireagens Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia citrinireagens var. angustior Gyeln.
+Parmelia citrinireagens Gyeln.
 
 ### Remarks
 null

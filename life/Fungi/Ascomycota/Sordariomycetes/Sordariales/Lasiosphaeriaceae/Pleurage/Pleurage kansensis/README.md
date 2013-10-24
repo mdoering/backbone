@@ -1,5 +1,4 @@
-Pleurage kansensis Griffiths SPECIES
-=======
+# Pleurage kansensis Griffiths SPECIES
 
 #### Status
 ACCEPTED

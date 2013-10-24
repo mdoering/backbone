@@ -1,5 +1,4 @@
-Fasciatispora sabalicola K.D. Hyde SPECIES
-=======
+# Fasciatispora sabalicola K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

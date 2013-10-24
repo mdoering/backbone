@@ -1,5 +1,4 @@
-Peltaster hedyotis Syd. & P. Syd. SPECIES
-=======
+# Peltaster hedyotis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methylarcula Doronina et al., 2000 GENUS
-=======
+# Methylarcula Doronina et al., 2000 GENUS
 
 #### Status
 ACCEPTED

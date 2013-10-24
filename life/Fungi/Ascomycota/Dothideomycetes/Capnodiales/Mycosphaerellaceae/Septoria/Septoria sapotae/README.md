@@ -1,5 +1,4 @@
-Septoria sapotae Bat. SPECIES
-=======
+# Septoria sapotae Bat. SPECIES
 
 #### Status
 ACCEPTED

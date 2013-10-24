@@ -1,5 +1,4 @@
-Simocybe nitellinoides E. Horak SPECIES
-=======
+# Simocybe nitellinoides E. Horak SPECIES
 
 #### Status
 ACCEPTED

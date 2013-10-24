@@ -1,5 +1,4 @@
-Gymnopilus fulvellus (Peck) Murrill SPECIES
-=======
+# Gymnopilus fulvellus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

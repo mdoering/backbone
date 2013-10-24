@@ -1,5 +1,4 @@
-Anaeroplasmataceae FAMILY
-=======
+# Anaeroplasmataceae FAMILY
 
 #### Status
 ACCEPTED

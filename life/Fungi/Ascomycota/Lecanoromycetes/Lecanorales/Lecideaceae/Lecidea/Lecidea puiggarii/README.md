@@ -1,5 +1,4 @@
-Lecidea puiggarii Müll. Arg. SPECIES
-=======
+# Lecidea puiggarii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

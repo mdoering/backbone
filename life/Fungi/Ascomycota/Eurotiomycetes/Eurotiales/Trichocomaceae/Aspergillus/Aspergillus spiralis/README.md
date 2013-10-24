@@ -1,5 +1,4 @@
-Aspergillus spiralis Grove SPECIES
-=======
+# Aspergillus spiralis Grove SPECIES
 
 #### Status
 ACCEPTED

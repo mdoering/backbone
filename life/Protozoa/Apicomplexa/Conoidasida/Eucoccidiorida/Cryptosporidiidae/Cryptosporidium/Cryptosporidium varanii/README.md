@@ -1,8 +1,7 @@
-Cryptosporidium saurophilum Koudela & Modrý, 1998 SPECIES
-=======
+# Cryptosporidium varanii Pavlásek, Lávicková, Horák, Král & Král, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

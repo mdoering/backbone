@@ -1,5 +1,4 @@
-Tetraplecta Haeckel, 1881 GENUS
-=======
+# Tetraplecta Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

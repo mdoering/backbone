@@ -1,5 +1,4 @@
-Aecidium cephalariae Petr. & Syd. SPECIES
-=======
+# Aecidium cephalariae Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

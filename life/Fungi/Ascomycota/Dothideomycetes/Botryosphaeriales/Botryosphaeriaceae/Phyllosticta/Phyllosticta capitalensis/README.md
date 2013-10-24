@@ -1,17 +1,16 @@
-Phyllostictina pyriformis E.K. Cash & A.M.J. Watson, 1955 SPECIES
-=======
+# Phyllosticta capitalensis Henn., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 47(5): 737 (1955)
+Hedwigia 48: 13 (1908)
 
 #### Original name
-Phyllostictina pyriformis E.K. Cash & A.M.J. Watson, 1955
+Phyllosticta capitalensis Henn., 1908
 
 ### Remarks
 null

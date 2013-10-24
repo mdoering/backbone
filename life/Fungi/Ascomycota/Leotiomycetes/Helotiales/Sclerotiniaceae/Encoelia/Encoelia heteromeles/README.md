@@ -1,5 +1,4 @@
-Encoelia heteromeles (Mont.) Nannf. SPECIES
-=======
+# Encoelia heteromeles (Mont.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

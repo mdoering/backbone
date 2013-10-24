@@ -1,5 +1,4 @@
-Cercospora pulviniformis J. Kranz SPECIES
-=======
+# Cercospora pulviniformis J. Kranz SPECIES
 
 #### Status
 ACCEPTED

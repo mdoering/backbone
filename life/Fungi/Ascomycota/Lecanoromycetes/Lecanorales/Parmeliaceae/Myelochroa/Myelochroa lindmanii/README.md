@@ -1,17 +1,16 @@
-Parmelina lindmanii (Lynge) Hale SPECIES
-=======
+# Myelochroa lindmanii (Lynge) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 241 (1987)
 
 #### Original name
-null
+Parmelia lindmanii Lynge
 
 ### Remarks
 null

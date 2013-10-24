@@ -1,5 +1,4 @@
-Crepidotus macedonicus Pilát SPECIES
-=======
+# Crepidotus macedonicus Pilát SPECIES
 
 #### Status
 ACCEPTED

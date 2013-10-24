@@ -1,5 +1,4 @@
-Galera martiana (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Galera martiana (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

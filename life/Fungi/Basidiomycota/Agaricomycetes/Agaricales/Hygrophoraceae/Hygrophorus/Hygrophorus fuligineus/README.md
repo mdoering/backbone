@@ -1,14 +1,13 @@
-Limacium fuligineum (Frost) Singer, 1943 SPECIES
-=======
+# Hygrophorus fuligineus Frost, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 41: 6 (1943)
+Rep. (Ann. ) N. Y. St. Mus. nat. Hist. 35: 134 (1884)
 
 #### Original name
 Hygrophorus fuligineus Frost, 1884

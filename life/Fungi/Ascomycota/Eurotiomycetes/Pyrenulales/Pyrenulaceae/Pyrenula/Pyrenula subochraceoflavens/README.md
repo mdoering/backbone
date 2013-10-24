@@ -1,5 +1,4 @@
-Pyrenula subochraceoflavens Upreti SPECIES
-=======
+# Pyrenula subochraceoflavens Upreti SPECIES
 
 #### Status
 ACCEPTED

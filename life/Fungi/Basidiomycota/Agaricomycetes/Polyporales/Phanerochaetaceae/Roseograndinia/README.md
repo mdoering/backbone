@@ -1,5 +1,4 @@
-Roseograndinia Hjortstam & Ryvarden GENUS
-=======
+# Roseograndinia Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

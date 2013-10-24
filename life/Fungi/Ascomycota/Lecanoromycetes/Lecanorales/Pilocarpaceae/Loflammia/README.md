@@ -1,5 +1,4 @@
-Loflammia Vezda GENUS
-=======
+# Loflammia Vezda GENUS
 
 #### Status
 ACCEPTED

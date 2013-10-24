@@ -1,5 +1,4 @@
-Merulius lyndonvillae Fairm. SPECIES
-=======
+# Merulius lyndonvillae Fairm. SPECIES
 
 #### Status
 ACCEPTED

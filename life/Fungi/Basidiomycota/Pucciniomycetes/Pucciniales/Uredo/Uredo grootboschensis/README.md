@@ -1,5 +1,4 @@
-Uredo grootboschensis Gjaerum SPECIES
-=======
+# Uredo grootboschensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

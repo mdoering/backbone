@@ -1,5 +1,4 @@
-Clavaria tenuissima Lév. SPECIES
-=======
+# Clavaria tenuissima Lév. SPECIES
 
 #### Status
 ACCEPTED

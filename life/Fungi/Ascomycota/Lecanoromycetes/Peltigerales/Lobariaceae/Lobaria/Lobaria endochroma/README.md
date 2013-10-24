@@ -1,5 +1,4 @@
-Lobaria endochroma Sipman SPECIES
-=======
+# Lobaria endochroma Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protrudomyces Letcher GENUS
-=======
+# Protrudomyces Letcher GENUS
 
 #### Status
 ACCEPTED

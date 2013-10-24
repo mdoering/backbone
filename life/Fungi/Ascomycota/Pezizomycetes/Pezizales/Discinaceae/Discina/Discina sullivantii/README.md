@@ -1,5 +1,4 @@
-Discina sullivantii Mont. SPECIES
-=======
+# Discina sullivantii Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha approximata Chevall. SPECIES
-=======
+# Opegrapha approximata Chevall. SPECIES
 
 #### Status
 ACCEPTED

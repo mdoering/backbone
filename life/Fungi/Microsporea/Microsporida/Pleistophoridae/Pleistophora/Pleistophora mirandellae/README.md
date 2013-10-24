@@ -1,5 +1,4 @@
-Pleistophora mirandellae Vaney & Conte SPECIES
-=======
+# Pleistophora mirandellae Vaney & Conte SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora fuliginosa Wallr. SPECIES
-=======
+# Oospora fuliginosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

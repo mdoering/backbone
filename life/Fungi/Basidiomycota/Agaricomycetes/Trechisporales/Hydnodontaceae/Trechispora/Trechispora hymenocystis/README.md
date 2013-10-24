@@ -1,14 +1,13 @@
-Poria hymenocystis (Berk. & Broome) Cooke, 1886 SPECIES
-=======
+# Trechispora hymenocystis (Berk. & Broome) K.H. Larss., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 72): 112 (1886)
+Mycol. Res. 98(10): 1167 (1994)
 
 #### Original name
 Polyporus hymenocystis Berk. & Broome, 1879

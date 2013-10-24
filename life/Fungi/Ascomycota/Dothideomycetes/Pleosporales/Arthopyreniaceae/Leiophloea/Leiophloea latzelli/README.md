@@ -1,5 +1,4 @@
-Leiophloea latzelli SPECIES
-=======
+# Leiophloea latzelli SPECIES
 
 #### Status
 ACCEPTED

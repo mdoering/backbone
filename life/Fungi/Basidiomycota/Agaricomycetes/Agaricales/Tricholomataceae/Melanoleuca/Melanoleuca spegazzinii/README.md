@@ -1,5 +1,4 @@
-Melanoleuca spegazzinii (Sacc. & D. Sacc.) Singer SPECIES
-=======
+# Melanoleuca spegazzinii (Sacc. & D. Sacc.) Singer SPECIES
 
 #### Status
 ACCEPTED

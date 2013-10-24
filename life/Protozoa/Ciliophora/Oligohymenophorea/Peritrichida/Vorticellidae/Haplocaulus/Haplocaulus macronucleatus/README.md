@@ -1,5 +1,4 @@
-Haplocaulus macronucleatus (Nenninger, 1948) Stiller, 1971 SPECIES
-=======
+# Haplocaulus macronucleatus (Nenninger, 1948) Stiller, 1971 SPECIES
 
 #### Status
 ACCEPTED

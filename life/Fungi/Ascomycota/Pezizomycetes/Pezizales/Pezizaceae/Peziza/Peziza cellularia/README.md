@@ -1,5 +1,4 @@
-Peziza cellularia Sowerby SPECIES
-=======
+# Peziza cellularia Sowerby SPECIES
 
 #### Status
 ACCEPTED

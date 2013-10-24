@@ -1,5 +1,4 @@
-Mycovellosiella latispora (Petr.) Deighton SPECIES
-=======
+# Mycovellosiella latispora (Petr.) Deighton SPECIES
 
 #### Status
 ACCEPTED

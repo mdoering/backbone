@@ -1,5 +1,4 @@
-Spiloma violaceum Chevall. SPECIES
-=======
+# Spiloma violaceum Chevall. SPECIES
 
 #### Status
 ACCEPTED

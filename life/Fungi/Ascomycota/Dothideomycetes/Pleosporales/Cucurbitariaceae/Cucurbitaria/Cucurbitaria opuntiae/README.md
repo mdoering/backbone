@@ -1,5 +1,4 @@
-Cucurbitaria opuntiae (Rolland) Kuntze SPECIES
-=======
+# Cucurbitaria opuntiae (Rolland) Kuntze SPECIES
 
 #### Status
 ACCEPTED

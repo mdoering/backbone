@@ -1,5 +1,4 @@
-Pertusaria allomicrostoma Jariangpr. SPECIES
-=======
+# Pertusaria allomicrostoma Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

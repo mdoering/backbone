@@ -1,5 +1,4 @@
-Bicosoeca mignotii Moestrup, Thomsen & Hibberd in Vørs, 1992 SPECIES
-=======
+# Bicosoeca mignotii Moestrup, Thomsen & Hibberd in Vørs, 1992 SPECIES
 
 #### Status
 ACCEPTED

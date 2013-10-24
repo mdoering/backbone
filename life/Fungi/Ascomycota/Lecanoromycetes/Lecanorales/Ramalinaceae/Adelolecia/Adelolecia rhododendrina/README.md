@@ -1,5 +1,4 @@
-Adelolecia rhododendrina (Nyl.) Printzen SPECIES
-=======
+# Adelolecia rhododendrina (Nyl.) Printzen SPECIES
 
 #### Status
 ACCEPTED

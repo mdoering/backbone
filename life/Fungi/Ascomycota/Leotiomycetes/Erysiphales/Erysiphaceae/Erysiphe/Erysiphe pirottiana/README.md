@@ -1,5 +1,4 @@
-Erysiphe pirottiana (Bacc.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe pirottiana (Bacc.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

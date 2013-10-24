@@ -1,8 +1,7 @@
-Myelophycus intestinalis f. tenuis Setchell & N.L.Gardner FORM
-=======
+# Melanosiphon intestinalis (Saunders) M.J. Wynne SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

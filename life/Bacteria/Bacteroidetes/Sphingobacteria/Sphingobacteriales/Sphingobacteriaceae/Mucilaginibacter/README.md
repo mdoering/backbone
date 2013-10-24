@@ -1,5 +1,4 @@
-Mucilaginibacter Pankratov et al., 2007 GENUS
-=======
+# Mucilaginibacter Pankratov et al., 2007 GENUS
 
 #### Status
 ACCEPTED

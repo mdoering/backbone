@@ -1,5 +1,4 @@
-Entyloma moniliferum A.G. Eliasson SPECIES
-=======
+# Entyloma moniliferum A.G. Eliasson SPECIES
 
 #### Status
 ACCEPTED

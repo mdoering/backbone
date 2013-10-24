@@ -1,5 +1,4 @@
-Pterula crassispora P. Roberts, 1999 SPECIES
-=======
+# Pterula crassispora P. Roberts, 1999 SPECIES
 
 #### Status
 ACCEPTED

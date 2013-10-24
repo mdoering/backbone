@@ -1,17 +1,16 @@
-Rehmia caeruleoalba Kremp. SPECIES
-=======
+# Rhizocarpon caeruleoalbum (Kremp.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 331 (1926)
 
 #### Original name
-null
+Rehmia coeruleoalba Kremp.
 
 ### Remarks
 null

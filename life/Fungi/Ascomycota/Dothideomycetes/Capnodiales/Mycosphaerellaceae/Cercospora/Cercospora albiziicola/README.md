@@ -1,17 +1,16 @@
-Cercospora albizzicola Narayan, Kharwar & R.K. Singh SPECIES
-=======
+# Cercospora albiziicola Narayan, Kharwar & R.K. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 28 & 29: 60 (2001)
 
 #### Original name
-Cercospora albizzicola Narayan, Kharwar & R.K. Singh
+Cercospora albiziicola Narayan, Kharwar & R.K. Singh
 
 ### Remarks
 null

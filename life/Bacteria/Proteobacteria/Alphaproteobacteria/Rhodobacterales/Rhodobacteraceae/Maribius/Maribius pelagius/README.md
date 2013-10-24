@@ -1,5 +1,4 @@
-Maribius pelagius Choi, Cho, Lanoil, Giovannoni & Cho, 2007 SPECIES
-=======
+# Maribius pelagius Choi, Cho, Lanoil, Giovannoni & Cho, 2007 SPECIES
 
 #### Status
 ACCEPTED

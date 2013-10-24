@@ -1,5 +1,4 @@
-Acrocordia bukowinensis Makar. SPECIES
-=======
+# Acrocordia bukowinensis Makar. SPECIES
 
 #### Status
 ACCEPTED

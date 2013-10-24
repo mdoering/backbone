@@ -1,5 +1,4 @@
-Clypeolella craterispermi Hansf. SPECIES
-=======
+# Clypeolella craterispermi Hansf. SPECIES
 
 #### Status
 ACCEPTED

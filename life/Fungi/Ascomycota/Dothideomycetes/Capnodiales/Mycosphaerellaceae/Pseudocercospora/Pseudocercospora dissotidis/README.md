@@ -1,5 +1,4 @@
-Pseudocercospora dissotidis (Chupp & Doidge) Crous & U. Braun SPECIES
-=======
+# Pseudocercospora dissotidis (Chupp & Doidge) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Coryneum paspali Ellis & Everh., 1891 SPECIES
-=======
+# Massariothea paspali (Ellis & Everh.) B. Sutton, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 29(3-4): 785 (1978)
 
 #### Original name
 Coryneum paspali Ellis & Everh., 1891

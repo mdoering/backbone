@@ -1,5 +1,4 @@
-Asterina sodalis Syd. SPECIES
-=======
+# Asterina sodalis Syd. SPECIES
 
 #### Status
 ACCEPTED

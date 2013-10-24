@@ -1,5 +1,4 @@
-Orientalis Amaro, 1966 GENUS
-=======
+# Orientalis Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

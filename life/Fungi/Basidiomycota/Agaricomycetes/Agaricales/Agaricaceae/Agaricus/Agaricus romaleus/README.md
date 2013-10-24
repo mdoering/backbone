@@ -1,5 +1,4 @@
-Agaricus romaleus Letell. SPECIES
-=======
+# Agaricus romaleus Letell. SPECIES
 
 #### Status
 ACCEPTED

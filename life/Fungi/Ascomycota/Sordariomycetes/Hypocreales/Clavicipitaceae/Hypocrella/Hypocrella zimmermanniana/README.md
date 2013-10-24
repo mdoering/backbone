@@ -1,5 +1,4 @@
-Hypocrella zimmermanniana Henn. SPECIES
-=======
+# Hypocrella zimmermanniana Henn. SPECIES
 
 #### Status
 ACCEPTED

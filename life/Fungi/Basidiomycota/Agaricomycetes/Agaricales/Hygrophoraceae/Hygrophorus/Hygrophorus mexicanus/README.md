@@ -1,5 +1,4 @@
-Hygrophorus mexicanus (Singer) Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus mexicanus (Singer) Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus lucipetus Berk. & Broome SPECIES
-=======
+# Agaricus lucipetus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

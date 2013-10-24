@@ -1,5 +1,4 @@
-Parmelia cornicularia Spreng. SPECIES
-=======
+# Parmelia cornicularia Spreng. SPECIES
 
 #### Status
 ACCEPTED

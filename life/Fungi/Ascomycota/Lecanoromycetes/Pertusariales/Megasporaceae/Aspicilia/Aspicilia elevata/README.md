@@ -1,5 +1,4 @@
-Aspicilia elevata (Lynge) J.W. Thomson SPECIES
-=======
+# Aspicilia elevata (Lynge) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

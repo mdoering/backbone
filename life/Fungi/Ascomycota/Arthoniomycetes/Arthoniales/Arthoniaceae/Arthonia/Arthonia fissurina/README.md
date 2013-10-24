@@ -1,5 +1,4 @@
-Arthonia fissurina Nyl. SPECIES
-=======
+# Arthonia fissurina Nyl. SPECIES
 
 #### Status
 ACCEPTED

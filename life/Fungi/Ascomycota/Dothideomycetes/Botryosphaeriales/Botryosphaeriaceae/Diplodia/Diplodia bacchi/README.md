@@ -1,5 +1,4 @@
-Diplodia bacchi Pass. & Thüm. SPECIES
-=======
+# Diplodia bacchi Pass. & Thüm. SPECIES
 
 #### Status
 ACCEPTED

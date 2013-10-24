@@ -1,14 +1,13 @@
-Botryosphaeria viticola A.J.L. Phillips & J. Luque, 2006 SPECIES
-=======
+# Spencermartinsia viticola (A.J.L. Phillips & J. Luque) A.J.L. Phillips, A. Alves & Crous, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Luque, Martos & Phillips, Mycologia 97(5): 1118 (2006)
+in Phillips, Alves, Pennycook, Johnston, Ramaley, Akulov & Crous, Persoonia 21: 51 (2008)
 
 #### Original name
 Botryosphaeria viticola A.J.L. Phillips & J. Luque, 2006

@@ -1,5 +1,4 @@
-Mycosphaerella skimmiae E. Müll. & S. Ahmad SPECIES
-=======
+# Mycosphaerella skimmiae E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

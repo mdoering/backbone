@@ -1,5 +1,4 @@
-Rhizidium laeve Karling SPECIES
-=======
+# Rhizidium laeve Karling SPECIES
 
 #### Status
 ACCEPTED

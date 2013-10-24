@@ -1,5 +1,4 @@
-Janetia bonarii (M.B. Ellis) S. Hughes SPECIES
-=======
+# Janetia bonarii (M.B. Ellis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

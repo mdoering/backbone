@@ -1,5 +1,4 @@
-Omphalina lundellii (Pilát) Bresinsky SPECIES
-=======
+# Omphalina lundellii (Pilát) Bresinsky SPECIES
 
 #### Status
 ACCEPTED

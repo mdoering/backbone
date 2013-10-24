@@ -1,5 +1,4 @@
-Hymenogaster rubroniveus Raithelh. SPECIES
-=======
+# Hymenogaster rubroniveus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

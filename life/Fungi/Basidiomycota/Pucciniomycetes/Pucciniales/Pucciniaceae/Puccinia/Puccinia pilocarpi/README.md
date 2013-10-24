@@ -1,5 +1,4 @@
-Puccinia pilocarpi var. pilocarpi VARIETY
-=======
+# Puccinia pilocarpi Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia pilocarpi var. pilocarpi
+Puccinia pilocarpi Cooke
 
 ### Remarks
 null

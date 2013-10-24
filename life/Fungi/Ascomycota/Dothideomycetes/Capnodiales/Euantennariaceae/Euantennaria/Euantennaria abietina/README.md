@@ -1,5 +1,4 @@
-Euantennaria abietina O.E. Erikss. SPECIES
-=======
+# Euantennaria abietina O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

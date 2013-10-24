@@ -1,5 +1,4 @@
-Diplodia congesta Lév. SPECIES
-=======
+# Diplodia congesta Lév. SPECIES
 
 #### Status
 ACCEPTED

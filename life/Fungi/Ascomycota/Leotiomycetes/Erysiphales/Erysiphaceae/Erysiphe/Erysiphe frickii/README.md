@@ -1,5 +1,4 @@
-Erysiphe frickii Neger SPECIES
-=======
+# Erysiphe frickii Neger SPECIES
 
 #### Status
 ACCEPTED

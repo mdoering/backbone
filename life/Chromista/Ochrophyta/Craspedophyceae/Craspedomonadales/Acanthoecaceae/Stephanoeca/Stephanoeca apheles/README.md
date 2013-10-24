@@ -1,5 +1,4 @@
-Stephanoeca apheles Thomsen, Buck & Chavez SPECIES
-=======
+# Stephanoeca apheles Thomsen, Buck & Chavez SPECIES
 
 #### Status
 ACCEPTED

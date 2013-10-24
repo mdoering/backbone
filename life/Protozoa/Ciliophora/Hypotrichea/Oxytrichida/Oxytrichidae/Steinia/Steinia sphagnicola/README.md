@@ -1,8 +1,7 @@
-Cyrtohymena sphagnicola (Foissner, 1989) Aescht, 1994 SPECIES
-=======
+# Steinia sphagnicola Foissner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

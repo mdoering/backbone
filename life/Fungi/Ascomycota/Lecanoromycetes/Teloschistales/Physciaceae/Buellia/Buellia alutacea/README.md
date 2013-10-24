@@ -1,5 +1,4 @@
-Buellia alutacea Zahlbr. SPECIES
-=======
+# Buellia alutacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

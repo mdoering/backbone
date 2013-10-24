@@ -1,5 +1,4 @@
-Strombomonas conica V. Conforti & G.-J. Joo SPECIES
-=======
+# Strombomonas conica V. Conforti & G.-J. Joo SPECIES
 
 #### Status
 ACCEPTED

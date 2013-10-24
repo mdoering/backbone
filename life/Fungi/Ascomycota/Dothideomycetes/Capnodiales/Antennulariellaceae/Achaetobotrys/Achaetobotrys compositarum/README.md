@@ -1,5 +1,4 @@
-Achaetobotrys compositarum Bat. & Cif. SPECIES
-=======
+# Achaetobotrys compositarum Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella shiraiana (I. Miyake) Sawada SPECIES
-=======
+# Mycosphaerella shiraiana (I. Miyake) Sawada SPECIES
 
 #### Status
 ACCEPTED

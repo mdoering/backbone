@@ -1,5 +1,4 @@
-Leptothyrium angelicae P. Karst. SPECIES
-=======
+# Leptothyrium angelicae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

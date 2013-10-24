@@ -1,5 +1,4 @@
-Serpentomonas B.V. Skvortzov, 1958 GENUS
-=======
+# Serpentomonas B.V. Skvortzov, 1958 GENUS
 
 #### Status
 ACCEPTED

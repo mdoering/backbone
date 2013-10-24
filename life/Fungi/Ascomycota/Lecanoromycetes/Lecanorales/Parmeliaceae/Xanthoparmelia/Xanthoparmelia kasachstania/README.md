@@ -1,5 +1,4 @@
-Xanthoparmelia kasachstania Hale SPECIES
-=======
+# Xanthoparmelia kasachstania Hale SPECIES
 
 #### Status
 ACCEPTED

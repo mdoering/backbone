@@ -1,5 +1,4 @@
-Meliola polygonicola Hosag. SPECIES
-=======
+# Meliola polygonicola Hosag. SPECIES
 
 #### Status
 ACCEPTED

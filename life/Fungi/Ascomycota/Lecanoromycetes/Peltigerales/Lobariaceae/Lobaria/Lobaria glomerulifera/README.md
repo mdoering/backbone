@@ -1,5 +1,4 @@
-Lobaria glomerulifera Hoffm. SPECIES
-=======
+# Lobaria glomerulifera Hoffm. SPECIES
 
 #### Status
 ACCEPTED

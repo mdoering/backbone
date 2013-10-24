@@ -1,5 +1,4 @@
-Scyphidia fastigens Dumas, 1930 SPECIES
-=======
+# Scyphidia fastigens Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

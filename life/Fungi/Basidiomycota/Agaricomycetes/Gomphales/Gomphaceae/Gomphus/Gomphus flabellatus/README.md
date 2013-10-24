@@ -1,5 +1,4 @@
-Gomphus flabellatus (Berk.) Corner SPECIES
-=======
+# Gomphus flabellatus (Berk.) Corner SPECIES
 
 #### Status
 ACCEPTED

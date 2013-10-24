@@ -1,5 +1,4 @@
-Psathyrella schweinfurthii Roum. & Quél. SPECIES
-=======
+# Psathyrella schweinfurthii Roum. & Quél. SPECIES
 
 #### Status
 ACCEPTED

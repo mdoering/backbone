@@ -1,5 +1,4 @@
-Lecidea austerula Nyl. SPECIES
-=======
+# Lecidea austerula Nyl. SPECIES
 
 #### Status
 ACCEPTED

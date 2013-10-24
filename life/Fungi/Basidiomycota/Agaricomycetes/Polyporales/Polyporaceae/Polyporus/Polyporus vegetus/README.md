@@ -1,5 +1,4 @@
-Polyporus vegetus Fr. SPECIES
-=======
+# Polyporus vegetus Fr. SPECIES
 
 #### Status
 ACCEPTED

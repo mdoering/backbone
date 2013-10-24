@@ -1,5 +1,4 @@
-Glomus heterosporum G.S. Sm. & N.C. Schenck, 1985 SPECIES
-=======
+# Glomus heterosporum G.S. Sm. & N.C. Schenck, 1985 SPECIES
 
 #### Status
 ACCEPTED

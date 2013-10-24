@@ -1,5 +1,4 @@
-Phyllosticta schini Thüm. SPECIES
-=======
+# Phyllosticta schini Thüm. SPECIES
 
 #### Status
 ACCEPTED

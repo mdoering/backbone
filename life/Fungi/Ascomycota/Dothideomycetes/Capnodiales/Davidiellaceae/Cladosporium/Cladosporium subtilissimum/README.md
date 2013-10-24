@@ -1,5 +1,4 @@
-Cladosporium subtilissimum K. Schub., Dugan, Crous & U. Braun SPECIES
-=======
+# Cladosporium subtilissimum K. Schub., Dugan, Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

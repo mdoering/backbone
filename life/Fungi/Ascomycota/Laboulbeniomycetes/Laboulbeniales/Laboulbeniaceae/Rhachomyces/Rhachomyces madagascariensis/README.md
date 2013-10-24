@@ -1,17 +1,16 @@
-Rhachomyces madagascarensis Thaxt. SPECIES
-=======
+# Rhachomyces madagascariensis Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. Amer. Acad. Arts 16: 280 (1931)
 
 #### Original name
-Rhachomyces madagascarensis Thaxt.
+Rhachomyces madagascariensis Thaxt.
 
 ### Remarks
 null

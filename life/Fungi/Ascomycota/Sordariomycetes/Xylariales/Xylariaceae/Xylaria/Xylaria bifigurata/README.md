@@ -1,5 +1,4 @@
-Xylaria bifigurata Lloyd SPECIES
-=======
+# Xylaria bifigurata Lloyd SPECIES
 
 #### Status
 ACCEPTED

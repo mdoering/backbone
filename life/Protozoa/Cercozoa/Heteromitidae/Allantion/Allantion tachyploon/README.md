@@ -1,5 +1,4 @@
-Allantion tachyploon Sandon, 1924 SPECIES
-=======
+# Allantion tachyploon Sandon, 1924 SPECIES
 
 #### Status
 ACCEPTED

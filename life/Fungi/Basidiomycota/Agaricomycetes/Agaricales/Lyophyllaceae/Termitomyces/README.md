@@ -1,17 +1,16 @@
-Rajapa Singer GENUS
-=======
+# Termitomyces R. Heim GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 8: 142 (1945)
+Arch. Mus. Hist. Nat. Paris, ser. 6 18: 147 (1942)
 
 #### Original name
-Rajapa Singer
+Termitomyces R. Heim
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phakopsora setariae Cummins SPECIES
-=======
+# Phakopsora setariae Cummins SPECIES
 
 #### Status
 ACCEPTED

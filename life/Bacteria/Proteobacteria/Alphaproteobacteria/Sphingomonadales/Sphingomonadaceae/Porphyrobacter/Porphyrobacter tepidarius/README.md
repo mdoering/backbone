@@ -1,5 +1,4 @@
-Porphyrobacter tepidarius Hanada et al., 1997 SPECIES
-=======
+# Porphyrobacter tepidarius Hanada et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metacylis pithos Skryabin & Al-Yamani, 2006 SPECIES
-=======
+# Metacylis pithos Skryabin & Al-Yamani, 2006 SPECIES
 
 #### Status
 ACCEPTED

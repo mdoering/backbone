@@ -1,5 +1,4 @@
-Leptosphaeria mertensiae (Ellis) Sacc. SPECIES
-=======
+# Leptosphaeria mertensiae (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

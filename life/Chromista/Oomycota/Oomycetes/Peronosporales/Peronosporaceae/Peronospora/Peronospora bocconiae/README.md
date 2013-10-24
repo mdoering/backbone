@@ -1,5 +1,4 @@
-Peronospora bocconiae Syd. SPECIES
-=======
+# Peronospora bocconiae Syd. SPECIES
 
 #### Status
 ACCEPTED

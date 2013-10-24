@@ -1,5 +1,4 @@
-Septoria polyadelpha Syd. SPECIES
-=======
+# Septoria polyadelpha Syd. SPECIES
 
 #### Status
 ACCEPTED

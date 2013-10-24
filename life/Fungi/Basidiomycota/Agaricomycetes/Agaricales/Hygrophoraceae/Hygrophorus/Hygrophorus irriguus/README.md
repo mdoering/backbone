@@ -1,5 +1,4 @@
-Hygrophorus irriguus Gillet SPECIES
-=======
+# Hygrophorus irriguus Gillet SPECIES
 
 #### Status
 ACCEPTED

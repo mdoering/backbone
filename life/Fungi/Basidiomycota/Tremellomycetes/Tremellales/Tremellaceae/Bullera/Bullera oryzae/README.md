@@ -1,5 +1,4 @@
-Bullera oryzae Nakase & M. Suzuki SPECIES
-=======
+# Bullera oryzae Nakase & M. Suzuki SPECIES
 
 #### Status
 ACCEPTED

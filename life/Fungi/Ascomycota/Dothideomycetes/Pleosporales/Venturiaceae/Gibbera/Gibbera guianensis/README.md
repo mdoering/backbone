@@ -1,5 +1,4 @@
-Gibbera guianensis (Stev.) Arx SPECIES
-=======
+# Gibbera guianensis (Stev.) Arx SPECIES
 
 #### Status
 ACCEPTED

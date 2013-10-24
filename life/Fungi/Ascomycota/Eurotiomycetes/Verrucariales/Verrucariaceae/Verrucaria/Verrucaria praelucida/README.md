@@ -1,5 +1,4 @@
-Verrucaria praelucida Mont. SPECIES
-=======
+# Verrucaria praelucida Mont. SPECIES
 
 #### Status
 ACCEPTED

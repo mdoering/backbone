@@ -1,5 +1,4 @@
-Phoma wistariae Thüm. SPECIES
-=======
+# Phoma wistariae Thüm. SPECIES
 
 #### Status
 ACCEPTED

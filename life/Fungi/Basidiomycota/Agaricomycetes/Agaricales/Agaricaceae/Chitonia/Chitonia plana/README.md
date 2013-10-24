@@ -1,5 +1,4 @@
-Chitonia plana Clem. SPECIES
-=======
+# Chitonia plana Clem. SPECIES
 
 #### Status
 ACCEPTED

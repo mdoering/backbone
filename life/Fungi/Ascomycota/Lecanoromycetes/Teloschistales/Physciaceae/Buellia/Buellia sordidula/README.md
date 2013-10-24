@@ -1,5 +1,4 @@
-Buellia sordidula Jatta SPECIES
-=======
+# Buellia sordidula Jatta SPECIES
 
 #### Status
 ACCEPTED

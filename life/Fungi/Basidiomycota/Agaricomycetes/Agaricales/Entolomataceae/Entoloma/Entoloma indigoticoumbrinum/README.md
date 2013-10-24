@@ -1,5 +1,4 @@
-Entoloma indigoticoumbrinum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma indigoticoumbrinum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

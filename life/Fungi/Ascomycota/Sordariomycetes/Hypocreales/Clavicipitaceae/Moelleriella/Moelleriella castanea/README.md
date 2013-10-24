@@ -1,5 +1,4 @@
-Moelleriella castanea (Petch) P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella castanea (Petch) P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

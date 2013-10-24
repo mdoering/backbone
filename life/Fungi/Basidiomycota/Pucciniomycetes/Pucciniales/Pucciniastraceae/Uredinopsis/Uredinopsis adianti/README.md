@@ -1,5 +1,4 @@
-Uredinopsis adianti Kom. SPECIES
-=======
+# Uredinopsis adianti Kom. SPECIES
 
 #### Status
 ACCEPTED

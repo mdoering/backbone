@@ -1,5 +1,4 @@
-Scindalma hildebrandii (Henn.) Kuntze SPECIES
-=======
+# Scindalma hildebrandii (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

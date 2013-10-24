@@ -1,5 +1,4 @@
-Arthromyces claviformis T.J. Baroni & Lodge, 2007 SPECIES
-=======
+# Arthromyces claviformis T.J. Baroni & Lodge, 2007 SPECIES
 
 #### Status
 ACCEPTED

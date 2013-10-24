@@ -1,5 +1,4 @@
-Tetrapyrgos E. Horak GENUS
-=======
+# Tetrapyrgos E. Horak GENUS
 
 #### Status
 ACCEPTED

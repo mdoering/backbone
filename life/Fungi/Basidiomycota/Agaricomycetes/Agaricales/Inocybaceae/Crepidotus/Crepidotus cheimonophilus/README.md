@@ -1,14 +1,13 @@
-Crepidotus chimonophilus (Berk. & Broome) Sacc. SPECIES
-=======
+# Crepidotus cheimonophilus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 882 (1887)
 
 #### Original name
 Agaricus cheimonophilus Berk. & Broome

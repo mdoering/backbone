@@ -1,5 +1,4 @@
-Russula pilatii Zvára SPECIES
-=======
+# Russula pilatii Zvára SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amazonia flacourtiae Hosag., Siddappa & Udaiyan SPECIES
-=======
+# Amazonia flacourtiae Hosag., Siddappa & Udaiyan SPECIES
 
 #### Status
 ACCEPTED

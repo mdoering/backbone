@@ -1,5 +1,4 @@
-Platyamoeba Page, 1969 GENUS
-=======
+# Platyamoeba Page, 1969 GENUS
 
 #### Status
 ACCEPTED

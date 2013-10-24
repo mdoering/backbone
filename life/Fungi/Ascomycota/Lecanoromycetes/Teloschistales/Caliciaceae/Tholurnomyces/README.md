@@ -1,5 +1,4 @@
-Tholurnomyces GENUS
-=======
+# Tholurnomyces GENUS
 
 #### Status
 ACCEPTED

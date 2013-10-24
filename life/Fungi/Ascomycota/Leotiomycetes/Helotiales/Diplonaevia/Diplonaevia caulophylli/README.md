@@ -1,5 +1,4 @@
-Diplonaevia caulophylli (Ellis & Everh.) B. Hein SPECIES
-=======
+# Diplonaevia caulophylli (Ellis & Everh.) B. Hein SPECIES
 
 #### Status
 ACCEPTED

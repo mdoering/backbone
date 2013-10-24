@@ -1,5 +1,4 @@
-Polyporellus acicularia var. acicularia VARIETY
-=======
+# Polyporellus acicularia Pilát SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyporellus acicularia var. acicularia
+Polyporellus acicularia Pilát
 
 ### Remarks
 null

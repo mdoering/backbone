@@ -1,5 +1,4 @@
-Chiastozygus trabalis SPECIES
-=======
+# Chiastozygus trabalis SPECIES
 
 #### Status
 ACCEPTED

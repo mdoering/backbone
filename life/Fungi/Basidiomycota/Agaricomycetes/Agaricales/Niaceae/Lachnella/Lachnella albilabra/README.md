@@ -1,5 +1,4 @@
-Lachnella albilabra Ellis & Everh. SPECIES
-=======
+# Lachnella albilabra Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

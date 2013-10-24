@@ -1,5 +1,4 @@
-Septoria vulpariae Hollós SPECIES
-=======
+# Septoria vulpariae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria bunkinae Teterevn. SPECIES
-=======
+# Septoria bunkinae Teterevn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius interlectus E. Horak SPECIES
-=======
+# Cortinarius interlectus E. Horak SPECIES
 
 #### Status
 ACCEPTED

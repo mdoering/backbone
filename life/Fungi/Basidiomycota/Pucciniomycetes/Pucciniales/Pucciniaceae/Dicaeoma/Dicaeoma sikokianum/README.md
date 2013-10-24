@@ -1,5 +1,4 @@
-Dicaeoma sikokianum (Dietel) Syd. SPECIES
-=======
+# Dicaeoma sikokianum (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

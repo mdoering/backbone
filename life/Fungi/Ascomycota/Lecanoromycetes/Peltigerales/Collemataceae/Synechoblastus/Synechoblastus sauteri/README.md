@@ -1,5 +1,4 @@
-Synechoblastus sauteri Körb. SPECIES
-=======
+# Synechoblastus sauteri Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nevskia Famintzin, 1892 GENUS
-=======
+# Nevskia Famintzin, 1892 GENUS
 
 #### Status
 ACCEPTED

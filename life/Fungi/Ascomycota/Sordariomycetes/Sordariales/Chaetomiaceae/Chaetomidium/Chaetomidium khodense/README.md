@@ -1,5 +1,4 @@
-Chaetomidium khodense Cano, Guarro & El Shafie SPECIES
-=======
+# Chaetomidium khodense Cano, Guarro & El Shafie SPECIES
 
 #### Status
 ACCEPTED

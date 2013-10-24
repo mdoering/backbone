@@ -1,5 +1,4 @@
-Xanthomonas fragariae Kennedy and King, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Xanthomonas fragariae Kennedy and King, 1962 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

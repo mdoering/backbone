@@ -1,5 +1,4 @@
-Argopsis cymosoides I.M. Lamb SPECIES
-=======
+# Argopsis cymosoides I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methamonas GENUS
-=======
+# Methamonas GENUS
 
 #### Status
 ACCEPTED

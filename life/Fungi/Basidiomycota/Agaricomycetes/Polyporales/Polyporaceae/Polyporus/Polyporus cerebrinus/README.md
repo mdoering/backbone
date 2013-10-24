@@ -1,5 +1,4 @@
-Polyporus cerebrinus Berk. & Broome SPECIES
-=======
+# Polyporus cerebrinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

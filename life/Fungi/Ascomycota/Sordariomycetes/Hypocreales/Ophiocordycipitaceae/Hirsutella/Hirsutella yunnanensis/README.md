@@ -1,5 +1,4 @@
-Hirsutella yunnanensis SPECIES
-=======
+# Hirsutella yunnanensis SPECIES
 
 #### Status
 ACCEPTED

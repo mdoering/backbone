@@ -1,5 +1,4 @@
-Psilocybe azurescens Stamets & Gartz SPECIES
-=======
+# Psilocybe azurescens Stamets & Gartz SPECIES
 
 #### Status
 ACCEPTED

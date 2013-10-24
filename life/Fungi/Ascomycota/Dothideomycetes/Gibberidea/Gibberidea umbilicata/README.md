@@ -1,5 +1,4 @@
-Gibberidea umbilicata (Ellis) Kuntze SPECIES
-=======
+# Gibberidea umbilicata (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

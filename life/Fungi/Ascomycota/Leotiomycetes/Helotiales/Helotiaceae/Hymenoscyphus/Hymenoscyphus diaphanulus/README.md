@@ -1,5 +1,4 @@
-Hymenoscyphus diaphanulus (Cooke) Kuntze SPECIES
-=======
+# Hymenoscyphus diaphanulus (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trechispora donkii (Parmasto) Liberta SPECIES
-=======
+# Trechispora donkii (Parmasto) Liberta SPECIES
 
 #### Status
 ACCEPTED

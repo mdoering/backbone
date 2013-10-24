@@ -1,5 +1,4 @@
-Asterina filamentosa Pat. SPECIES
-=======
+# Asterina filamentosa Pat. SPECIES
 
 #### Status
 ACCEPTED

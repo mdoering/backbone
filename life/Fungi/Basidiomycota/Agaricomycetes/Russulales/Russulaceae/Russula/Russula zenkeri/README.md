@@ -1,5 +1,4 @@
-Russula zenkeri (Henn.) Singer SPECIES
-=======
+# Russula zenkeri (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

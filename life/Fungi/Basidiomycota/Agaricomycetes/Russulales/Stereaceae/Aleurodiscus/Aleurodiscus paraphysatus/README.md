@@ -1,5 +1,4 @@
-Aleurodiscus paraphysatus (Burt) D.P. Rogers & H.S. Jacks. SPECIES
-=======
+# Aleurodiscus paraphysatus (Burt) D.P. Rogers & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

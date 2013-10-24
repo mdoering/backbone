@@ -1,5 +1,4 @@
-Korunomyces Hodges & F.A. Ferreira GENUS
-=======
+# Korunomyces Hodges & F.A. Ferreira GENUS
 
 #### Status
 ACCEPTED

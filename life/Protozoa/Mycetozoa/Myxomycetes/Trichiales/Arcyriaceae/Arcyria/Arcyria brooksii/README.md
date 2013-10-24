@@ -1,17 +1,16 @@
-Arcyria brooksea T.N. Lakh. & Mukerji SPECIES
-=======
+# Arcyria brooksii T.N. Lakh. & K.G. Mukerji, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kavaka 7: 59 (1980)
 
 #### Original name
-Arcyria brooksea T.N. Lakh. & Mukerji
+Arcyria brooksii T.N. Lakh. & K.G. Mukerji, 1980
 
 ### Remarks
 null

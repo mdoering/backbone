@@ -1,5 +1,4 @@
-Euglena fronsundulata L. P. Johnson SPECIES
-=======
+# Euglena fronsundulata L. P. Johnson SPECIES
 
 #### Status
 ACCEPTED

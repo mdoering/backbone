@@ -1,5 +1,4 @@
-Torrendiella quintocentenaria R. Galán & J.T. Palmer, 1993 SPECIES
-=======
+# Torrendiella quintocentenaria R. Galán & J.T. Palmer, 1993 SPECIES
 
 #### Status
 ACCEPTED

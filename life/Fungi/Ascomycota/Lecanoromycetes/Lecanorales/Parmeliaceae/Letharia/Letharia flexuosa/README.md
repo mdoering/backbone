@@ -1,5 +1,4 @@
-Letharia flexuosa (Nyl.) Paulson SPECIES
-=======
+# Letharia flexuosa (Nyl.) Paulson SPECIES
 
 #### Status
 ACCEPTED

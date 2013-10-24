@@ -1,5 +1,4 @@
-Peziza corrugata Brond. SPECIES
-=======
+# Peziza corrugata Brond. SPECIES
 
 #### Status
 ACCEPTED

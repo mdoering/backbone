@@ -1,5 +1,4 @@
-Mycostevensonia funtumiae (Hansf.) Bat. & Cif. SPECIES
-=======
+# Mycostevensonia funtumiae (Hansf.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

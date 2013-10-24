@@ -1,5 +1,4 @@
-Entyloma argentinense (Speg.) Cif. SPECIES
-=======
+# Entyloma argentinense (Speg.) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula betulina Burl. SPECIES
-=======
+# Russula betulina Burl. SPECIES
 
 #### Status
 ACCEPTED

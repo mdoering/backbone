@@ -1,5 +1,4 @@
-Bacteroides helcogenes Benno et al., 1983 SPECIES
-=======
+# Bacteroides helcogenes Benno et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

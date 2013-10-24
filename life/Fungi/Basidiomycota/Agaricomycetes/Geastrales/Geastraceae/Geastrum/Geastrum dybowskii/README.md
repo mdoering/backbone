@@ -1,8 +1,7 @@
-Geaster dybowskii Pat. SPECIES
-=======
+# Geastrum dybowskii Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster dybowskii Pat.
+Geastrum dybowskii Pat.
 
 ### Remarks
 null

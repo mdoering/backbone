@@ -1,5 +1,4 @@
-Trichosperma pulchella Speg. SPECIES
-=======
+# Trichosperma pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

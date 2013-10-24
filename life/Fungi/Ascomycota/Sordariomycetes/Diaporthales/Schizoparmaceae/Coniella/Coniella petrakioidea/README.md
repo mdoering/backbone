@@ -1,5 +1,4 @@
-Coniella petrakioidea Nag Raj SPECIES
-=======
+# Coniella petrakioidea Nag Raj SPECIES
 
 #### Status
 ACCEPTED

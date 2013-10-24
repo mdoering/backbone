@@ -1,5 +1,4 @@
-Anaerosporobacter Jeong et al., 2007 GENUS
-=======
+# Anaerosporobacter Jeong et al., 2007 GENUS
 
 #### Status
 ACCEPTED

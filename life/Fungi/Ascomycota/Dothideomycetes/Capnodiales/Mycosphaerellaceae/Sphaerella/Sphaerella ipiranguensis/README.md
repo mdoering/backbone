@@ -1,5 +1,4 @@
-Sphaerella ipiranguensis Speg. SPECIES
-=======
+# Sphaerella ipiranguensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella barnadesiae Petr., 1950 SPECIES
-=======
+# Mycosphaerella barnadesiae Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

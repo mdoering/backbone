@@ -1,5 +1,4 @@
-Didymophyes von Stein, 1848 GENUS
-=======
+# Didymophyes von Stein, 1848 GENUS
 
 #### Status
 ACCEPTED

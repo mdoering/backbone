@@ -1,5 +1,4 @@
-Lecidea patagonica I.M. Lamb SPECIES
-=======
+# Lecidea patagonica I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

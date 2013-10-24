@@ -1,5 +1,4 @@
-Ascochyta glycyrrhizae Vasyag. SPECIES
-=======
+# Ascochyta glycyrrhizae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

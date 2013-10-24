@@ -1,5 +1,4 @@
-Psathyrella galerinoides A.H. Sm. SPECIES
-=======
+# Psathyrella galerinoides A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula cremeo-ochracea McNabb, 1973 SPECIES
-=======
+# Russula cremeo-ochracea McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

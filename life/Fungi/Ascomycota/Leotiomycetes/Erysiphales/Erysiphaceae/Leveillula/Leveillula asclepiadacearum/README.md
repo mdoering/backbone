@@ -1,5 +1,4 @@
-Leveillula asclepiadacearum f. asclepiadacearum FORM
-=======
+# Leveillula asclepiadacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula asclepiadacearum f. asclepiadacearum
+Leveillula asclepiadacearum Golovin
 
 ### Remarks
 null

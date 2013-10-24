@@ -1,5 +1,4 @@
-Diplodina cassubica (Sacc.) Sacc. SPECIES
-=======
+# Diplodina cassubica (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

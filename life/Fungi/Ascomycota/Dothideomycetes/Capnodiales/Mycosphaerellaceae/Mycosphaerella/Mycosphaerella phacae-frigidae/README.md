@@ -1,5 +1,4 @@
-Mycosphaerella phacae-frigidae E. Müll. & Wehm., 1954 SPECIES
-=======
+# Mycosphaerella phacae-frigidae E. Müll. & Wehm., 1954 SPECIES
 
 #### Status
 ACCEPTED

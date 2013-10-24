@@ -1,5 +1,4 @@
-Diplodina degeniana Moesz SPECIES
-=======
+# Diplodina degeniana Moesz SPECIES
 
 #### Status
 ACCEPTED

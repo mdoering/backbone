@@ -1,17 +1,16 @@
-Omphalia stuckerti Speg. SPECIES
-=======
+# Omphalia stuckertii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 3 8(1): 49 (1902)
 
 #### Original name
-Omphalia stuckerti Speg.
+Omphalia stuckertii Speg.
 
 ### Remarks
 null

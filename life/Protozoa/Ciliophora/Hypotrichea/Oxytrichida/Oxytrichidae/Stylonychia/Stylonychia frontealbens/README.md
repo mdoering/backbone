@@ -1,5 +1,4 @@
-Stylonychia frontealbens Dumas, 1937 SPECIES
-=======
+# Stylonychia frontealbens Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria caricae T.Y. Zhang, W.Q. Chen & X.F. Lin SPECIES
-=======
+# Alternaria caricae T.Y. Zhang, W.Q. Chen & X.F. Lin SPECIES
 
 #### Status
 ACCEPTED

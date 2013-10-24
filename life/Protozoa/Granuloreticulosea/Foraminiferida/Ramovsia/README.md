@@ -1,5 +1,4 @@
-Ramovsia Kochansky-Devide, 1973 GENUS
-=======
+# Ramovsia Kochansky-Devide, 1973 GENUS
 
 #### Status
 ACCEPTED

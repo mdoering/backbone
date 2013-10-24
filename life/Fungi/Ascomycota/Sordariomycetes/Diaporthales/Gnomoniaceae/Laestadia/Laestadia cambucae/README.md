@@ -1,5 +1,4 @@
-Laestadia cambucae Rangel SPECIES
-=======
+# Laestadia cambucae Rangel SPECIES
 
 #### Status
 ACCEPTED

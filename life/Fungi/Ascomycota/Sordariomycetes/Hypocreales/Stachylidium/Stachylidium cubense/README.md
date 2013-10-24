@@ -1,5 +1,4 @@
-Stachylidium cubense J. Mena & Mercado SPECIES
-=======
+# Stachylidium cubense J. Mena & Mercado SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Encoelia helvola (Jungh.) Overeem SPECIES
-=======
+# Encoelia helvola (Jungh.) Overeem SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lemmermanniella B.V. Skvortzov, 1968 GENUS
-=======
+# Skvortzoviella Bourrelly, 1970 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Les algues d'eau douce: initiation a la Systematique. Tome 3: les algues bleues et rouges, les Eugleniens, Peridiniens et Cryptomonadines. 2nd revised edition. Societe Nouvelle des Editions Boubee, Paris: 33.
 
 #### Original name
-null
+Lemmermanniella B.V. Skvortzov, 1968
 
 ### Remarks
 null

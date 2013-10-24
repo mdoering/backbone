@@ -1,5 +1,4 @@
-Volutella fusariispora Dominik SPECIES
-=======
+# Volutella fusariispora Dominik SPECIES
 
 #### Status
 ACCEPTED

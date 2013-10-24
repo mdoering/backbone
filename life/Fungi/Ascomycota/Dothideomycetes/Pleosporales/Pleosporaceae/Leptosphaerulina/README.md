@@ -1,5 +1,4 @@
-Leptosphaerulina McAlpine GENUS
-=======
+# Leptosphaerulina McAlpine GENUS
 
 #### Status
 ACCEPTED

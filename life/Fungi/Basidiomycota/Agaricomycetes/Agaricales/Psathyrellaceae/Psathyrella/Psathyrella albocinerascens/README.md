@@ -1,5 +1,4 @@
-Psathyrella albocinerascens A.H. Sm. SPECIES
-=======
+# Psathyrella albocinerascens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

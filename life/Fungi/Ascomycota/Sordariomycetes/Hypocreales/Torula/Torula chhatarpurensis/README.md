@@ -1,5 +1,4 @@
-Torula chhatarpurensis S.S. Singh SPECIES
-=======
+# Torula chhatarpurensis S.S. Singh SPECIES
 
 #### Status
 ACCEPTED

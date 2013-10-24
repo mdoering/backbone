@@ -1,5 +1,4 @@
-Clavulina antipodum Stache SPECIES
-=======
+# Clavulina antipodum Stache SPECIES
 
 #### Status
 ACCEPTED

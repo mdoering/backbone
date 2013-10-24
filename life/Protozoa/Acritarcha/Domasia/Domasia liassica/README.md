@@ -1,5 +1,4 @@
-Domasia liassica Wall, 1965 SPECIES
-=======
+# Domasia liassica Wall, 1965 SPECIES
 
 #### Status
 ACCEPTED

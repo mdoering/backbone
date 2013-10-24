@@ -1,14 +1,13 @@
-Scleroderma bovonei Mattir., 1922 SPECIES
-=======
+# Corditubera bovonei (Matt.) Demoulin & Dring, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. Bot. Nat. Belg. 45(3-4): 347 (1975)
 
 #### Original name
 Scleroderma bovonei Mattir., 1922

@@ -1,5 +1,4 @@
-Cercospora melaleuca Ellis & Everh. SPECIES
-=======
+# Cercospora melaleuca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

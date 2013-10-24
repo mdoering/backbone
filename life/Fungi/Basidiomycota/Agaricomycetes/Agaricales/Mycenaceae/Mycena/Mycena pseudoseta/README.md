@@ -1,5 +1,4 @@
-Mycena pseudoseta Desjardin, Boonprat. & Hywel-Jones SPECIES
-=======
+# Mycena pseudoseta Desjardin, Boonprat. & Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

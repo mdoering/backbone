@@ -1,5 +1,4 @@
-Taeniolella chrysothricis Diederich SPECIES
-=======
+# Taeniolella chrysothricis Diederich SPECIES
 
 #### Status
 ACCEPTED

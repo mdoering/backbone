@@ -1,5 +1,4 @@
-Allomorphina pacifica Cushman & Todd, 1949 SPECIES
-=======
+# Allomorphina pacifica Cushman & Todd, 1949 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endococcus sendtneri (Arnold) Hafellner SPECIES
-=======
+# Endococcus sendtneri (Arnold) Hafellner SPECIES
 
 #### Status
 ACCEPTED

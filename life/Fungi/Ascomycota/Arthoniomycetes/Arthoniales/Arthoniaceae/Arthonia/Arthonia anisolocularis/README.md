@@ -1,5 +1,4 @@
-Arthonia anisolocularis L. Xavier & Taltasse SPECIES
-=======
+# Arthonia anisolocularis L. Xavier & Taltasse SPECIES
 
 #### Status
 ACCEPTED

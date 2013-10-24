@@ -1,5 +1,4 @@
-Pseudovalsa kickxii (Westend.) Sacc. SPECIES
-=======
+# Pseudovalsa kickxii (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

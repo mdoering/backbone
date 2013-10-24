@@ -1,5 +1,4 @@
-Sphaeria campsotricha Mont. SPECIES
-=======
+# Sphaeria campsotricha Mont. SPECIES
 
 #### Status
 ACCEPTED

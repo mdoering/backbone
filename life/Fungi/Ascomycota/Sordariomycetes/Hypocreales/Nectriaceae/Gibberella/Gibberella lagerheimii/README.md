@@ -1,5 +1,4 @@
-Gibberella lagerheimii Rehm SPECIES
-=======
+# Gibberella lagerheimii Rehm SPECIES
 
 #### Status
 ACCEPTED

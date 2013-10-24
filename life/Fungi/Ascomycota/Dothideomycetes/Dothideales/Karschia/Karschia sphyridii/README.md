@@ -1,5 +1,4 @@
-Karschia sphyridii Stein SPECIES
-=======
+# Karschia sphyridii Stein SPECIES
 
 #### Status
 ACCEPTED

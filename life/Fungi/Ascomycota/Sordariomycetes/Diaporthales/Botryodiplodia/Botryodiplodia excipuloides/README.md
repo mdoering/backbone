@@ -1,5 +1,4 @@
-Botryodiplodia excipuloides (Sacc. & Syd.) Syd. SPECIES
-=======
+# Botryodiplodia excipuloides (Sacc. & Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

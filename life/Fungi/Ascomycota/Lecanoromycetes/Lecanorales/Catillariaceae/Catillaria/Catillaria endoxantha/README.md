@@ -1,5 +1,4 @@
-Catillaria endoxantha (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria endoxantha (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

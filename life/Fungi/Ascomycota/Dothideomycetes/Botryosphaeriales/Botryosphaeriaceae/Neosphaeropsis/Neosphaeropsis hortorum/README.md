@@ -1,5 +1,4 @@
-Neosphaeropsis hortorum (Petr.) Petr. SPECIES
-=======
+# Neosphaeropsis hortorum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

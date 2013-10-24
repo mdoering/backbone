@@ -1,5 +1,4 @@
-Gnomonia rhois Richon SPECIES
-=======
+# Gnomonia rhois Richon SPECIES
 
 #### Status
 ACCEPTED

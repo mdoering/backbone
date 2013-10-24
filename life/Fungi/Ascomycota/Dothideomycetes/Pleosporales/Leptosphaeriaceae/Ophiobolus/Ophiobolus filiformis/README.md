@@ -1,5 +1,4 @@
-Ophiobolus filiformis (Wehm.) Shoemaker SPECIES
-=======
+# Ophiobolus filiformis (Wehm.) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

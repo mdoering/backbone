@@ -1,5 +1,4 @@
-Cylindrosporium crataeginum Erdogdu & Hüseyin SPECIES
-=======
+# Cylindrosporium crataeginum Erdogdu & Hüseyin SPECIES
 
 #### Status
 ACCEPTED

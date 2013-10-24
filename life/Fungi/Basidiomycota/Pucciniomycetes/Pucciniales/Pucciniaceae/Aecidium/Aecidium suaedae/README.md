@@ -1,5 +1,4 @@
-Aecidium suaedae Thüm. SPECIES
-=======
+# Aecidium suaedae Thüm. SPECIES
 
 #### Status
 ACCEPTED

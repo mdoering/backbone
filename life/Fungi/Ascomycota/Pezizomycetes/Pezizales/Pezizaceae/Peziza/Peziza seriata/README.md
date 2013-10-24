@@ -1,5 +1,4 @@
-Peziza seriata Pers. SPECIES
-=======
+# Peziza seriata Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hohenbuehelia pachyhyphata Corner SPECIES
-=======
+# Hohenbuehelia pachyhyphata Corner SPECIES
 
 #### Status
 ACCEPTED

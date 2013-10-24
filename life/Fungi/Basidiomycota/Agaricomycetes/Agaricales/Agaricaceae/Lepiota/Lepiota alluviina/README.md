@@ -1,5 +1,4 @@
-Lepiota alluviina (Peck) Morgan SPECIES
-=======
+# Lepiota alluviina (Peck) Morgan SPECIES
 
 #### Status
 ACCEPTED

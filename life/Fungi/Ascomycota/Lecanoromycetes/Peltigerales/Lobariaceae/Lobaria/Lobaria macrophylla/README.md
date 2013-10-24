@@ -1,5 +1,4 @@
-Lobaria macrophylla (Bory) Trevis. SPECIES
-=======
+# Lobaria macrophylla (Bory) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Longitricha Gajewskaja, 1933 GENUS
-=======
+# Longitricha Gajewskaja, 1933 GENUS
 
 #### Status
 ACCEPTED

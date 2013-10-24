@@ -1,5 +1,4 @@
-Coprinus bakeri Copel. SPECIES
-=======
+# Coprinus bakeri Copel. SPECIES
 
 #### Status
 ACCEPTED

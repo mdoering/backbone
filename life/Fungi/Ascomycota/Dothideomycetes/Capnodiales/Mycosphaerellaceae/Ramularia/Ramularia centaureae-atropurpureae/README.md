@@ -1,5 +1,4 @@
-Ramularia centaureae-atropurpureae Bubák SPECIES
-=======
+# Ramularia centaureae-atropurpureae Bubák SPECIES
 
 #### Status
 ACCEPTED

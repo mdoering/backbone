@@ -1,5 +1,4 @@
-Dicaeoma chrysopogonis (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma chrysopogonis (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

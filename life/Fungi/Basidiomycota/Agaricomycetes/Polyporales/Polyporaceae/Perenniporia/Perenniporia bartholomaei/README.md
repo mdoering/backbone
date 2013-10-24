@@ -1,5 +1,4 @@
-Perenniporia bartholomaei (Peck) Gibertoni & Bernicchia SPECIES
-=======
+# Perenniporia bartholomaei (Peck) Gibertoni & Bernicchia SPECIES
 
 #### Status
 ACCEPTED

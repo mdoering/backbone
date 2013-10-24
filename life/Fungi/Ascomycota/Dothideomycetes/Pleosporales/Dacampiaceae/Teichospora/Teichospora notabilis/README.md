@@ -1,5 +1,4 @@
-Teichospora notabilis Petr. SPECIES
-=======
+# Teichospora notabilis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormosina pilutata Rhumbler, 1905 SPECIES
-=======
+# Hormosina pilutata Rhumbler, 1905 SPECIES
 
 #### Status
 ACCEPTED

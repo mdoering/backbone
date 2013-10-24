@@ -1,5 +1,4 @@
-Ophiobolus peduncularis Feltgen SPECIES
-=======
+# Ophiobolus peduncularis Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalotus lutescens Raithelh. SPECIES
-=======
+# Omphalotus lutescens Raithelh. SPECIES
 
 #### Status
 ACCEPTED

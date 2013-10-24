@@ -1,5 +1,4 @@
-Patellaria nigrocincta Müll. Arg. SPECIES
-=======
+# Patellaria nigrocincta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

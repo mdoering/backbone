@@ -1,5 +1,4 @@
-Puccinia plagiopus Mont. SPECIES
-=======
+# Puccinia plagiopus Mont. SPECIES
 
 #### Status
 ACCEPTED

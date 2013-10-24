@@ -1,5 +1,4 @@
-Histioneis variabilis Schiller SPECIES
-=======
+# Histioneis variabilis Schiller SPECIES
 
 #### Status
 ACCEPTED

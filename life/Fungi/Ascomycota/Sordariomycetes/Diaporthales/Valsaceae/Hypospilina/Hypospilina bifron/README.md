@@ -1,5 +1,4 @@
-Hypospilina bifron (DC. Fr.) Trav. SPECIES
-=======
+# Hypospilina bifron (DC. Fr.) Trav. SPECIES
 
 #### Status
 ACCEPTED

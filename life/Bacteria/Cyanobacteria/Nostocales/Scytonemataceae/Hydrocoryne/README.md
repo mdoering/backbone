@@ -1,14 +1,13 @@
-Hilsea Kirchner, 1879 GENUS
-=======
+# Hydrocoryne H. Schwabe ex Bornet & Flahault, 1887 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kryptogamenfl. Schlesiens 2: 239.
+Ann. Sci. Nat. Bot. , ser. 7, 5: 128.
 
 #### Original name
 null

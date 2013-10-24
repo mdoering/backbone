@@ -1,5 +1,4 @@
-Dasyscyphus hamatus var. hamatus (Sacc.) Feltgen VARIETY
-=======
+# Dasyscyphus hamatus (Sacc.) Feltgen SPECIES
 
 #### Status
 ACCEPTED

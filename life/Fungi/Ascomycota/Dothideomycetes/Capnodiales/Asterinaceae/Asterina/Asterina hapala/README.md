@@ -1,5 +1,4 @@
-Asterina hapala Syd. SPECIES
-=======
+# Asterina hapala Syd. SPECIES
 
 #### Status
 ACCEPTED

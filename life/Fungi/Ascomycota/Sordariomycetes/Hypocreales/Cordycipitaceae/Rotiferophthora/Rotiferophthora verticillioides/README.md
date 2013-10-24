@@ -1,5 +1,4 @@
-Rotiferophthora verticillioides Glockling SPECIES
-=======
+# Rotiferophthora verticillioides Glockling SPECIES
 
 #### Status
 ACCEPTED

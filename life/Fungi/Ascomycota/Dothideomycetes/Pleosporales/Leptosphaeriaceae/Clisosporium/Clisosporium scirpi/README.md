@@ -1,5 +1,4 @@
-Clisosporium scirpi (Trail) Kuntze SPECIES
-=======
+# Clisosporium scirpi (Trail) Kuntze SPECIES
 
 #### Status
 ACCEPTED

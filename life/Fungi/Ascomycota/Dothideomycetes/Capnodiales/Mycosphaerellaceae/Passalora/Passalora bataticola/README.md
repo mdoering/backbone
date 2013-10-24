@@ -1,17 +1,16 @@
-Cercospora batatae Zimm. SPECIES
-=======
+# Passalora bataticola (Cif. & Bruner) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 77 (2003)
 
 #### Original name
-Cercospora batatae Zimm.
+Cercospora bataticola Cif. & Bruner, 1931
 
 ### Remarks
 null

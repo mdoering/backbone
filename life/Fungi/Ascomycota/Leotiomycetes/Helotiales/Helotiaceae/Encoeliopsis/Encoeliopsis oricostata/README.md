@@ -1,5 +1,4 @@
-Encoeliopsis oricostata (Cash) J.W. Groves SPECIES
-=======
+# Encoeliopsis oricostata (Cash) J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

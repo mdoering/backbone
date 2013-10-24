@@ -1,5 +1,4 @@
-Rinodina milliaria f. milliaria FORM
-=======
+# Rinodina milliaria Tuck. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Amer. Acad. Arts & Sci. 12: 175 (1877)
 
 #### Original name
-Rinodina milliaria f. milliaria
+Rinodina milliaria Tuck.
 
 ### Remarks
 null

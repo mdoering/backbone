@@ -1,5 +1,4 @@
-Phyllachora balakrishnanii Hosag., Manian & Vasuki, 1989 SPECIES
-=======
+# Phyllachora balakrishnanii Hosag., Manian & Vasuki, 1989 SPECIES
 
 #### Status
 ACCEPTED

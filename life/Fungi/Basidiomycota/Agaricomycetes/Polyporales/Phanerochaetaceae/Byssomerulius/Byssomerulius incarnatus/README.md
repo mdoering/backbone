@@ -1,5 +1,4 @@
-Byssomerulius incarnatus (Schwein.) Gilb. SPECIES
-=======
+# Byssomerulius incarnatus (Schwein.) Gilb. SPECIES
 
 #### Status
 ACCEPTED

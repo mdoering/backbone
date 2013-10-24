@@ -1,5 +1,4 @@
-Galerina macrocystis A.E. Wood SPECIES
-=======
+# Galerina macrocystis A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

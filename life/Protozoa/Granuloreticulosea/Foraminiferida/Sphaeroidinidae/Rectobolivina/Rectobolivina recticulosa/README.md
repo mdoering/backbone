@@ -1,5 +1,4 @@
-Rectobolivina recticulosa SPECIES
-=======
+# Rectobolivina recticulosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria clavulata Pass. SPECIES
-=======
+# Metasphaeria clavulata Pass. SPECIES
 
 #### Status
 ACCEPTED

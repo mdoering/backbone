@@ -1,5 +1,4 @@
-Clitopilus orcelloides Pat. & Demange SPECIES
-=======
+# Clitopilus orcelloides Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

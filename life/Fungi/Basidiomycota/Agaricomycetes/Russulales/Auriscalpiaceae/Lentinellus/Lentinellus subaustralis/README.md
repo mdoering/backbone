@@ -1,5 +1,4 @@
-Lentinellus subaustralis R.H. Petersen SPECIES
-=======
+# Lentinellus subaustralis R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

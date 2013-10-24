@@ -1,5 +1,4 @@
-Opegrapha bacidiae R. Sant. SPECIES
-=======
+# Opegrapha bacidiae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

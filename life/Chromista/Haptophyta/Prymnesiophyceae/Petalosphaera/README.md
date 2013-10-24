@@ -1,5 +1,4 @@
-Petalosphaera Lohmann, 1913 GENUS
-=======
+# Petalosphaera Lohmann, 1913 GENUS
 
 #### Status
 ACCEPTED

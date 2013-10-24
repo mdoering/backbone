@@ -1,5 +1,4 @@
-Cortinarius auratior Rob. Henry SPECIES
-=======
+# Cortinarius auratior Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

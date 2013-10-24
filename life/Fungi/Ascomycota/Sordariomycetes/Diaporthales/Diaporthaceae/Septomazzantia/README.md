@@ -1,5 +1,4 @@
-Septomazzantia GENUS
-=======
+# Septomazzantia GENUS
 
 #### Status
 ACCEPTED

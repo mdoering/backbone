@@ -1,14 +1,13 @@
-Trichothyrium notatum (Bat. & H. Maia) Arx, 1962 SPECIES
-=======
+# Trichothyriomyces notatus Bat. & H. Maia, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 557 (1962)
+in Batista, Maia, Silva & Vital, Anais Soc. Biol. Pernambuco 13(2): 104 (1955)
 
 #### Original name
 Trichothyriomyces notatus Bat. & H. Maia, 1955

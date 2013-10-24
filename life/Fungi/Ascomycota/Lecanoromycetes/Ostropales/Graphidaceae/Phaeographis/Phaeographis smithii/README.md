@@ -1,14 +1,13 @@
-Graphis dendritica var. smithii Leight. VARIETY
-=======
+# Phaeographis smithii (Leight.) B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. -Fl. Great Brit. 367 (1871)
+Recherch. Lich. Dunkerque 218 (1910)
 
 #### Original name
 Graphis dendritica var. smithii Leight.

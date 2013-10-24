@@ -1,5 +1,4 @@
-Eusyringium Haeckel, 1881 GENUS
-=======
+# Eusyringium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

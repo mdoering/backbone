@@ -1,14 +1,13 @@
-Torula hyalinula Sacc., 1878 SPECIES
-=======
+# Acremonium hyalinulum (Sacc.) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 265 (1878)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 104 (1971)
 
 #### Original name
 Torula hyalinula Sacc., 1878

@@ -1,5 +1,4 @@
-Clitocybe serotina Velen. SPECIES
-=======
+# Clitocybe serotina Velen. SPECIES
 
 #### Status
 ACCEPTED

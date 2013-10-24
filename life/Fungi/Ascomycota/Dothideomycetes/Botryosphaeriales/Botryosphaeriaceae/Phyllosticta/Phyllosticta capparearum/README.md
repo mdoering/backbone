@@ -1,17 +1,16 @@
-Phyllosticta capparidearum Speg. SPECIES
-=======
+# Phyllosticta capparearum Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 3 13: 331 (1910)
 
 #### Original name
-Phyllosticta capparidearum Speg.
+Phyllosticta capparearum Speg.
 
 ### Remarks
 null

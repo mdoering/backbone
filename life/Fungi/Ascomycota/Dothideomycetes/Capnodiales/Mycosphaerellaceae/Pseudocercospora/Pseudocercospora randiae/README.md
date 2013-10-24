@@ -1,5 +1,4 @@
-Pseudocercospora randiae (Thirum. & Govindu) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora randiae (Thirum. & Govindu) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

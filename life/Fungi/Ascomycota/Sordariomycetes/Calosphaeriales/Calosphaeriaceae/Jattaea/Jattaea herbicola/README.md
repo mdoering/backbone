@@ -1,5 +1,4 @@
-Jattaea herbicola (Ellis & Everh.) Berl. SPECIES
-=======
+# Jattaea herbicola (Ellis & Everh.) Berl. SPECIES
 
 #### Status
 ACCEPTED

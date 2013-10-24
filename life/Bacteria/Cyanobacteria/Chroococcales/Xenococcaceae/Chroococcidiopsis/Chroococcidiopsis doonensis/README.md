@@ -1,5 +1,4 @@
-Chroococcidiopsis doonensis R.B. Singh SPECIES
-=======
+# Chroococcidiopsis doonensis R.B. Singh SPECIES
 
 #### Status
 ACCEPTED

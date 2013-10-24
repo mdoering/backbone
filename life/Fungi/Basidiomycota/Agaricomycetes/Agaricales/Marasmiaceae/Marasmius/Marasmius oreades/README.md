@@ -1,17 +1,16 @@
-Agaricus oreades var. albidus (Bolton) Schultz VARIETY
-=======
+# Marasmius oreades (Bolton) Fr., 1836 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anteckn. Sver. Ätl. Svamp. 52 (1836)
 
 #### Original name
-null
+Agaricus oreades Bolton, 1792
 
 ### Remarks
 null

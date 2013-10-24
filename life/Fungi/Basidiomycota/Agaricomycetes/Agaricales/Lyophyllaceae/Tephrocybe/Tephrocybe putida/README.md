@@ -1,14 +1,13 @@
-Tricholoma putidum (Fr.) P. Karst., 1879 SPECIES
-=======
+# Tephrocybe putida (Fr.) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rysslands, Finlands och den Skandinaviska Halföns. Hattsvampar 32: 56 (1879)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 116 (1967)
 
 #### Original name
 Agaricus putidus Weinm., 1836

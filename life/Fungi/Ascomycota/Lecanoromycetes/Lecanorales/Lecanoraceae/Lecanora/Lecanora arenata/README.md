@@ -1,5 +1,4 @@
-Lecanora arenata Nyl. SPECIES
-=======
+# Lecanora arenata Nyl. SPECIES
 
 #### Status
 ACCEPTED

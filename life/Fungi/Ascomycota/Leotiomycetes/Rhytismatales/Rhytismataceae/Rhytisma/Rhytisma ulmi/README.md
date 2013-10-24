@@ -1,5 +1,4 @@
-Rhytisma ulmi Engelhard SPECIES
-=======
+# Rhytisma ulmi Engelhard SPECIES
 
 #### Status
 ACCEPTED

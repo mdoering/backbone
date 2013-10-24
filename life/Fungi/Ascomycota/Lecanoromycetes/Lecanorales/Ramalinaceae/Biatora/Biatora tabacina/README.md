@@ -1,5 +1,4 @@
-Biatora tabacina (Ramond) Fr. SPECIES
-=======
+# Biatora tabacina (Ramond) Fr. SPECIES
 
 #### Status
 ACCEPTED

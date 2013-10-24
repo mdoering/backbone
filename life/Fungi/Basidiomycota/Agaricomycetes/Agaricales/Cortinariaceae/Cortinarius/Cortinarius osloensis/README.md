@@ -1,5 +1,4 @@
-Cortinarius osloensis Brandrud, T.S. Jeppesen & Frøslev SPECIES
-=======
+# Cortinarius osloensis Brandrud, T.S. Jeppesen & Frøslev SPECIES
 
 #### Status
 ACCEPTED

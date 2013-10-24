@@ -1,5 +1,4 @@
-Bagcheea albomaculans (Fukui) I. Hino & Katum. SPECIES
-=======
+# Bagcheea albomaculans (Fukui) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

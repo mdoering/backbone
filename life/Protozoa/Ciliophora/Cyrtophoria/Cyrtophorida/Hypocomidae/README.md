@@ -1,5 +1,4 @@
-Hypocomidae Bütschli, 1889 FAMILY
-=======
+# Hypocomidae Bütschli, 1889 FAMILY
 
 #### Status
 ACCEPTED

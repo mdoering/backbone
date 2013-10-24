@@ -1,5 +1,4 @@
-Bauerago Vánky GENUS
-=======
+# Bauerago Vánky GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptobelonium helminthicola (A. Bloxam) Höhn. SPECIES
-=======
+# Leptobelonium helminthicola (A. Bloxam) Höhn. SPECIES
 
 #### Status
 ACCEPTED

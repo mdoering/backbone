@@ -1,5 +1,4 @@
-Sphaerella deutziae (Syd.) Kirschst. SPECIES
-=======
+# Sphaerella deutziae (Syd.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

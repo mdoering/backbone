@@ -1,5 +1,4 @@
-Phyllachora pichinchae Petr., 1948 SPECIES
-=======
+# Phyllachora pichinchae Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

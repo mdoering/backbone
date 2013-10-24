@@ -1,5 +1,4 @@
-Phakopsora calothea Syd. SPECIES
-=======
+# Phakopsora calothea Syd. SPECIES
 
 #### Status
 ACCEPTED

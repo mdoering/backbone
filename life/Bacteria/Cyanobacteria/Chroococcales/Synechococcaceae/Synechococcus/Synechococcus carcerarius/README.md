@@ -1,5 +1,4 @@
-Synechococcus carcerarius Norris SPECIES
-=======
+# Synechococcus carcerarius Norris SPECIES
 
 #### Status
 ACCEPTED

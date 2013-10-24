@@ -1,5 +1,4 @@
-Pannaria lasiella Stirt. SPECIES
-=======
+# Pannaria lasiella Stirt. SPECIES
 
 #### Status
 ACCEPTED

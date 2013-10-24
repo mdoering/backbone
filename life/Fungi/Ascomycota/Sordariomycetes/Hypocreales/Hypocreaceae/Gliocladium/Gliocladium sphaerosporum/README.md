@@ -1,5 +1,4 @@
-Gliocladium sphaerosporum Matsush. SPECIES
-=======
+# Gliocladium sphaerosporum Matsush. SPECIES
 
 #### Status
 ACCEPTED

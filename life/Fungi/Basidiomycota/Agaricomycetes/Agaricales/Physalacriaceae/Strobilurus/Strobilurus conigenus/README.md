@@ -1,5 +1,4 @@
-Strobilurus conigenus (Pers.) Gulden SPECIES
-=======
+# Strobilurus conigenus (Pers.) Gulden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discomyces minutissimus (Burchardt) Verdun SPECIES
-=======
+# Discomyces minutissimus (Burchardt) Verdun SPECIES
 
 #### Status
 ACCEPTED

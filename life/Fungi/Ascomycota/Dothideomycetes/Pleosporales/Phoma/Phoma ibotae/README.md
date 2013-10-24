@@ -1,5 +1,4 @@
-Phoma ibotae Kirschst. SPECIES
-=======
+# Phoma ibotae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

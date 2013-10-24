@@ -1,5 +1,4 @@
-Phoma diatrypea (Cooke & Ellis) Sacc. SPECIES
-=======
+# Phoma diatrypea (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

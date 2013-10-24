@@ -1,5 +1,4 @@
-Arthothelium fusconigrum (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthothelium fusconigrum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

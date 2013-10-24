@@ -1,5 +1,4 @@
-Trichosporon caseorum Lopandic, Sugita, Middelhoven, Herzberg & Prillinger SPECIES
-=======
+# Trichosporon caseorum Lopandic, Sugita, Middelhoven, Herzberg & Prillinger SPECIES
 
 #### Status
 ACCEPTED

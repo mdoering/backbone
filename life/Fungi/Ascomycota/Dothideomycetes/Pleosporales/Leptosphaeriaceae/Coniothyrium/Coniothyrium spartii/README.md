@@ -1,5 +1,4 @@
-Coniothyrium spartii Gucevic SPECIES
-=======
+# Coniothyrium spartii Gucevic SPECIES
 
 #### Status
 ACCEPTED

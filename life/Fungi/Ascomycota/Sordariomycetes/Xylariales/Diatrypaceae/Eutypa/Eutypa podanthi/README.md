@@ -1,5 +1,4 @@
-Eutypa podanthi Speg. SPECIES
-=======
+# Eutypa podanthi Speg. SPECIES
 
 #### Status
 ACCEPTED

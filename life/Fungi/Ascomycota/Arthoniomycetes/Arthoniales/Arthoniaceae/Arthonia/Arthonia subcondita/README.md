@@ -1,5 +1,4 @@
-Arthonia subcondita Stirt. SPECIES
-=======
+# Arthonia subcondita Stirt. SPECIES
 
 #### Status
 ACCEPTED

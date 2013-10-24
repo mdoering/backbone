@@ -1,5 +1,4 @@
-Marasmius insipidus Gilliam SPECIES
-=======
+# Marasmius insipidus Gilliam SPECIES
 
 #### Status
 ACCEPTED

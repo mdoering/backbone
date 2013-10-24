@@ -1,5 +1,4 @@
-Entopeltis tetrorchidii Hansf., 1946 SPECIES
-=======
+# Entopeltis tetrorchidii Hansf., 1946 SPECIES
 
 #### Status
 ACCEPTED

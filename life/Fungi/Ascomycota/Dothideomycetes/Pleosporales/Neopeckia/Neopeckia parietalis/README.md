@@ -1,5 +1,4 @@
-Neopeckia parietalis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Neopeckia parietalis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

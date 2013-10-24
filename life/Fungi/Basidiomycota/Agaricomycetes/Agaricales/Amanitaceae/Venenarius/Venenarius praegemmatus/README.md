@@ -1,5 +1,4 @@
-Venenarius praegemmatus Murrill SPECIES
-=======
+# Venenarius praegemmatus Murrill SPECIES
 
 #### Status
 ACCEPTED

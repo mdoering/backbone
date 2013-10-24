@@ -1,14 +1,13 @@
-Uredo pallida Dietel & Holw., 1897 SPECIES
-=======
+# Uredendo pallidus (Dietel & Holw.) Buriticá & J.F. Hennen, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 24: 37 (1897)
+Revta Acad. colomb. cienc. exact. fís. nat. 19(no. 72): 50 (1994)
 
 #### Original name
 Uredo pallida Dietel & Holw., 1897

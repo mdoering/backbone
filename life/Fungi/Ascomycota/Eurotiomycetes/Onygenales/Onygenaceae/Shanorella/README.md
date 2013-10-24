@@ -1,5 +1,4 @@
-Shanorella R.K. Benj. GENUS
-=======
+# Shanorella R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

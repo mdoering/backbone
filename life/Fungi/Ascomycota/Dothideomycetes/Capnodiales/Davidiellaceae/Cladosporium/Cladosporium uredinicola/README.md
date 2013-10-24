@@ -1,5 +1,4 @@
-Cladosporium uredinicola Speg., 1912 SPECIES
-=======
+# Cladosporium uredinicola Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

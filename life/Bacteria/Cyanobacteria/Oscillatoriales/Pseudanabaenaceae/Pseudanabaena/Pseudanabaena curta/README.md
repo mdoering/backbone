@@ -1,5 +1,4 @@
-Pseudanabaena curta (Hollerbach) G. Cronberg & J. Komárek SPECIES
-=======
+# Pseudanabaena curta (Hollerbach) G. Cronberg & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

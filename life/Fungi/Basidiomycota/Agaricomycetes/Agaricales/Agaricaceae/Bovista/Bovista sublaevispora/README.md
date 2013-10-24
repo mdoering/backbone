@@ -1,5 +1,4 @@
-Bovista sublaevispora V.L. Suárez & J.E. Wright SPECIES
-=======
+# Bovista sublaevispora V.L. Suárez & J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

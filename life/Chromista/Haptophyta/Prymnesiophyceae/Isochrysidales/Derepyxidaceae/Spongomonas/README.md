@@ -1,5 +1,4 @@
-Spongomonas Stein, 1878 GENUS
-=======
+# Spongomonas Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

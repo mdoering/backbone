@@ -1,5 +1,4 @@
-Lactarius kauffmanii var. kauffmanii VARIETY
-=======
+# Lactarius kauffmanii Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 North American Species of Lactarius (Ann Arbor) 351 (1979)
 
 #### Original name
-Lactarius kauffmanii var. kauffmanii
+Lactarius kauffmanii Hesler & A.H. Sm.
 
 ### Remarks
 null

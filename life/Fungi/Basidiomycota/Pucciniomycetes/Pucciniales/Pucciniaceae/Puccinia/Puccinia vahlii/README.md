@@ -1,5 +1,4 @@
-Puccinia vahlii Speg. SPECIES
-=======
+# Puccinia vahlii Speg. SPECIES
 
 #### Status
 ACCEPTED

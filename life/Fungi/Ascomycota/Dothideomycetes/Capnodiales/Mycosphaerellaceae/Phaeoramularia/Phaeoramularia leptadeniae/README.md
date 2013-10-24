@@ -1,5 +1,4 @@
-Phaeoramularia leptadeniae (Chidd.) Deighton SPECIES
-=======
+# Phaeoramularia leptadeniae (Chidd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

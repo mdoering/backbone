@@ -1,5 +1,4 @@
-Pseudolingulina clarionensis McCulloch, 1977 SPECIES
-=======
+# Pseudolingulina clarionensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

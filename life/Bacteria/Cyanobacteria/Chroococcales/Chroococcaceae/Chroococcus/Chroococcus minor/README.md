@@ -1,8 +1,7 @@
-Pleurococcus minor (Kützing) Rabenhorst SPECIES
-=======
+# Chroococcus minor (Kützing) Nägeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

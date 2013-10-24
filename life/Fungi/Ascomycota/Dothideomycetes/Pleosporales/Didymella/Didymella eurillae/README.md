@@ -1,5 +1,4 @@
-Didymella eurillae Pass. SPECIES
-=======
+# Didymella eurillae Pass. SPECIES
 
 #### Status
 ACCEPTED

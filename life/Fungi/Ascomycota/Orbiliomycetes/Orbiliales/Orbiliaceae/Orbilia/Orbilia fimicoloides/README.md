@@ -1,5 +1,4 @@
-Orbilia fimicoloides J. Webster & Spooner, 1998 SPECIES
-=======
+# Orbilia fimicoloides J. Webster & Spooner, 1998 SPECIES
 
 #### Status
 ACCEPTED

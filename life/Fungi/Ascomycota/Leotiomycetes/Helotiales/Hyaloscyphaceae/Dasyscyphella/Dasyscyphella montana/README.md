@@ -1,5 +1,4 @@
-Dasyscyphella montana Raitv. SPECIES
-=======
+# Dasyscyphella montana Raitv. SPECIES
 
 #### Status
 ACCEPTED

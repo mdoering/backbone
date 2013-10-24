@@ -1,5 +1,4 @@
-Creonectria purpurea Seaver SPECIES
-=======
+# Creonectria purpurea Seaver SPECIES
 
 #### Status
 ACCEPTED

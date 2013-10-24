@@ -1,5 +1,4 @@
-Anoplophrya attenuata Puytorac, 1951 SPECIES
-=======
+# Anoplophrya attenuata Puytorac, 1951 SPECIES
 
 #### Status
 ACCEPTED

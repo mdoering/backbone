@@ -1,5 +1,4 @@
-Amphoroblastia viridescens (Zschacke) Servít SPECIES
-=======
+# Amphoroblastia viridescens (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

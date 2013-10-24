@@ -1,5 +1,4 @@
-Uromyces trigonellae-occultae Henn. SPECIES
-=======
+# Uromyces trigonellae-occultae Henn. SPECIES
 
 #### Status
 ACCEPTED

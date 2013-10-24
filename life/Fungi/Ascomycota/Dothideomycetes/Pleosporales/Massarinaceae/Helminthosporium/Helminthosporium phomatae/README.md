@@ -1,17 +1,16 @@
-Helmisporium phomatae Dearn. & House SPECIES
-=======
+# Helminthosporium phomatae Dearn. & House SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. N. Y. St. Mus. 266: 96 (1925)
 
 #### Original name
-Helmisporium phomatae Dearn. & House
+Helminthosporium phomatae Dearn. & House
 
 ### Remarks
 null

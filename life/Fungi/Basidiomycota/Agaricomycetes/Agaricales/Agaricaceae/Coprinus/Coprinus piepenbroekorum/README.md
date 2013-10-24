@@ -1,17 +1,16 @@
-Coprinus piepenbroekii Uljé & Bas SPECIES
-=======
+# Coprinus piepenbroekorum Uljé & Bas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 15(3): 365 (1993)
 
 #### Original name
-Coprinus piepenbroekii Uljé & Bas
+Coprinus piepenbroekorum Uljé & Bas
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Paxillus piperatus Heinem. & Rammeloo SPECIES
-=======
+# Paxillus piperatus Heinem. & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

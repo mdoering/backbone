@@ -1,5 +1,4 @@
-Laurera verrucoaggregata Makhija & Patw. SPECIES
-=======
+# Laurera verrucoaggregata Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

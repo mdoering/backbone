@@ -1,5 +1,4 @@
-Entoloma termitophilum E. Horak SPECIES
-=======
+# Entoloma termitophilum E. Horak SPECIES
 
 #### Status
 ACCEPTED

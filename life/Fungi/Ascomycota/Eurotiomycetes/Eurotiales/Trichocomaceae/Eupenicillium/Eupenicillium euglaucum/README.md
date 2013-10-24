@@ -1,5 +1,4 @@
-Eupenicillium euglaucum (J.F.H. Beyma) Stolk & Samson SPECIES
-=======
+# Eupenicillium euglaucum (J.F.H. Beyma) Stolk & Samson SPECIES
 
 #### Status
 ACCEPTED

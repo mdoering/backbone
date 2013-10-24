@@ -1,17 +1,16 @@
-Debaryomyces disporus (Beij.) Stell.-Dekk., 1931 SPECIES
-=======
+# Saturnispora dispora (Stell.-Dekk.) Z.W. Liu & Kurtzman, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 60(1): 28 (1991)
 
 #### Original name
-Saccharomyces disporus Beij., 1908
+Debaryomyces disporus (Beij.) Stell.-Dekk., 1931
 
 ### Remarks
 null

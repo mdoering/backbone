@@ -1,5 +1,4 @@
-Buellia submuriformis Aptroot & Diederich SPECIES
-=======
+# Buellia submuriformis Aptroot & Diederich SPECIES
 
 #### Status
 ACCEPTED

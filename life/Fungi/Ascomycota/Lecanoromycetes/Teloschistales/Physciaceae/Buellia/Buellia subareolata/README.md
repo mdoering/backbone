@@ -1,5 +1,4 @@
-Buellia subareolata Müll. Arg. SPECIES
-=======
+# Buellia subareolata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina chloroticula P.M. McCarthy, 1995 SPECIES
-=======
+# Porina chloroticula P.M. McCarthy, 1995 SPECIES
 
 #### Status
 DOUBTFUL

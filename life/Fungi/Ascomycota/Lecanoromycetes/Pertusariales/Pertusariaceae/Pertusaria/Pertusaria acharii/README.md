@@ -1,5 +1,4 @@
-Pertusaria acharii (Fée) Nyl. SPECIES
-=======
+# Pertusaria acharii (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

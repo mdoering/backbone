@@ -1,17 +1,16 @@
-Coniothyrium anomale I. Miyake SPECIES
-=======
+# Coniothyrium anomalum I. Miyake SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 23: (132) (1909)
 
 #### Original name
-Coniothyrium anomale I. Miyake
+Coniothyrium anomalum I. Miyake
 
 ### Remarks
 null

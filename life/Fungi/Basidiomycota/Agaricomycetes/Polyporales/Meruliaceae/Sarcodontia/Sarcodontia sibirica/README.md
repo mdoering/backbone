@@ -1,5 +1,4 @@
-Sarcodontia sibirica (Pilát) Nikol. SPECIES
-=======
+# Sarcodontia sibirica (Pilát) Nikol. SPECIES
 
 #### Status
 ACCEPTED

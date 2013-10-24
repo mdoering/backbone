@@ -1,5 +1,4 @@
-Leiosphaeridia vindhyana Salujha, Rehman & Rawat, 1971 SPECIES
-=======
+# Leiosphaeridia vindhyana Salujha, Rehman & Rawat, 1971 SPECIES
 
 #### Status
 ACCEPTED

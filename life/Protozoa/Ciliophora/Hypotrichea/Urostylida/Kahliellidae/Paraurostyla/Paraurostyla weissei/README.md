@@ -1,8 +1,7 @@
-Urostyla paragrandis Wang, 1930 SPECIES
-=======
+# Paraurostyla weissei (Stein, 1859) Borror, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

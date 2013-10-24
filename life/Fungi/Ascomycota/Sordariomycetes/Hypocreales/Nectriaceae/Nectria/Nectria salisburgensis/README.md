@@ -1,5 +1,4 @@
-Nectria salisburgensis Döbbeler & Poelt SPECIES
-=======
+# Nectria salisburgensis Döbbeler & Poelt SPECIES
 
 #### Status
 ACCEPTED

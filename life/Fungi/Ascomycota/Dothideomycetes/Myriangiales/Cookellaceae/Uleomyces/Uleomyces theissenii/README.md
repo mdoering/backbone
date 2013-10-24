@@ -1,5 +1,4 @@
-Uleomyces theissenii (Rick) G. Arnaud SPECIES
-=======
+# Uleomyces theissenii (Rick) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

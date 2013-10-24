@@ -1,5 +1,4 @@
-Pseudocercospora securinegae (Togashi & Katsuki) Deighton SPECIES
-=======
+# Pseudocercospora securinegae (Togashi & Katsuki) Deighton SPECIES
 
 #### Status
 ACCEPTED

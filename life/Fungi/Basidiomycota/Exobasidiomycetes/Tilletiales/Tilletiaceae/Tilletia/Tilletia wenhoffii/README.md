@@ -1,5 +1,4 @@
-Tilletia wenhoffii A.A. Fisch. Waldh. SPECIES
-=======
+# Tilletia wenhoffii A.A. Fisch. Waldh. SPECIES
 
 #### Status
 ACCEPTED

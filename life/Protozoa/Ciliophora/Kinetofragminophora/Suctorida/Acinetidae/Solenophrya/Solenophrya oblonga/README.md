@@ -1,5 +1,4 @@
-Solenophrya oblonga Stokes, 1890 SPECIES
-=======
+# Solenophrya oblonga Stokes, 1890 SPECIES
 
 #### Status
 ACCEPTED

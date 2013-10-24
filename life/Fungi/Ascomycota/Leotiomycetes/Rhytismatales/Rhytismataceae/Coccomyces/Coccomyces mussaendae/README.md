@@ -1,5 +1,4 @@
-Coccomyces mussaendae Sawada SPECIES
-=======
+# Coccomyces mussaendae Sawada SPECIES
 
 #### Status
 ACCEPTED

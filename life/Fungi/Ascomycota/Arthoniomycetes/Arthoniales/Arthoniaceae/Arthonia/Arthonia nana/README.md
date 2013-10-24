@@ -1,5 +1,4 @@
-Arthonia nana Stizenb. SPECIES
-=======
+# Arthonia nana Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus hypni Batsch SPECIES
-=======
+# Agaricus hypni Batsch SPECIES
 
 #### Status
 ACCEPTED

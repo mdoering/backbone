@@ -1,5 +1,4 @@
-Microthelia ambigua Zahlbr. SPECIES
-=======
+# Microthelia ambigua Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

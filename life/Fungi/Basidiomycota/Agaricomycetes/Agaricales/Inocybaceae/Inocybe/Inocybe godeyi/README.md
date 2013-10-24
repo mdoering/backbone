@@ -1,17 +1,16 @@
-Inocybe boltonii subsp. giacomi (J. Favre) O.K. Mill. SUBSPECIES
-=======
+# Inocybe godeyi Gillet, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arctic Alpine Mycology (New York), II 294 (1987)
+Les Hyménomycètes ou description de tous les champignons (fungi) qui croissent en France (Alençon) 517 (1874)
 
 #### Original name
-Inocybe giacomi O.K. Mill.
+Inocybe godeyi Gillet, 1874
 
 ### Remarks
 null

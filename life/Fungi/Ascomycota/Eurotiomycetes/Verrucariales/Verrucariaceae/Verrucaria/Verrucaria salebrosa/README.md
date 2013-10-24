@@ -1,5 +1,4 @@
-Verrucaria salebrosa Fée SPECIES
-=======
+# Verrucaria salebrosa Fée SPECIES
 
 #### Status
 ACCEPTED

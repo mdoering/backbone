@@ -1,5 +1,4 @@
-Aquamarina speciosa Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1996 SPECIES
-=======
+# Aquamarina speciosa Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1996 SPECIES
 
 #### Status
 ACCEPTED

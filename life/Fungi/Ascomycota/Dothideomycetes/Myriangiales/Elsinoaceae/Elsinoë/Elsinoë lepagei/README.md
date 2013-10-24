@@ -1,5 +1,4 @@
-Elsinoë lepagei Bitanc. & Jenkins, 1941 SPECIES
-=======
+# Elsinoë lepagei Bitanc. & Jenkins, 1941 SPECIES
 
 #### Status
 ACCEPTED

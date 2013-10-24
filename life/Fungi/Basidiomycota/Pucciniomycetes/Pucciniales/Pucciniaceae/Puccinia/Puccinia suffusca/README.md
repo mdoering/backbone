@@ -1,5 +1,4 @@
-Puccinia suffusca Holw. SPECIES
-=======
+# Puccinia suffusca Holw. SPECIES
 
 #### Status
 ACCEPTED

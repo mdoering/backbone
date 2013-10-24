@@ -1,5 +1,4 @@
-Xylaria lignosa Ferd. & Winge SPECIES
-=======
+# Xylaria lignosa Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

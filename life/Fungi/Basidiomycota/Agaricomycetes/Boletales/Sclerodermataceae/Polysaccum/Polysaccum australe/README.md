@@ -1,5 +1,4 @@
-Polysaccum australe Lév. SPECIES
-=======
+# Polysaccum australe Lév. SPECIES
 
 #### Status
 ACCEPTED

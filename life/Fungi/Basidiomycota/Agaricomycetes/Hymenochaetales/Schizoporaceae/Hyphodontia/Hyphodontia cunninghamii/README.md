@@ -1,14 +1,13 @@
-Odontia capitata G. Cunn., 1959 SPECIES
-=======
+# Hyphodontia cunninghamii Gresl. & Rajchenb., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 86(1-2): 74 (1959)
+Mycologia 92(6): 1157 (2000)
 
 #### Original name
 Odontia capitata G. Cunn., 1959

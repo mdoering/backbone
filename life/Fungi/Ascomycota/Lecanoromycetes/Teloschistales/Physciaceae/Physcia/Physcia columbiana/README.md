@@ -1,5 +1,4 @@
-Physcia columbiana B. de Lesd. SPECIES
-=======
+# Physcia columbiana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

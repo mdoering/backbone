@@ -1,5 +1,4 @@
-Phoma stenotaphri Speg. SPECIES
-=======
+# Phoma stenotaphri Speg. SPECIES
 
 #### Status
 ACCEPTED

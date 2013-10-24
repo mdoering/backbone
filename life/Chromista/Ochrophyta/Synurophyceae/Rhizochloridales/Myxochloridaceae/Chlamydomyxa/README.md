@@ -1,5 +1,4 @@
-Chlamydomyxa W.Archer, 1875 GENUS
-=======
+# Chlamydomyxa W.Archer, 1875 GENUS
 
 #### Status
 ACCEPTED

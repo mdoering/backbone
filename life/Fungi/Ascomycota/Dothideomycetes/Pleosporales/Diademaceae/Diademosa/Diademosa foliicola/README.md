@@ -1,5 +1,4 @@
-Diademosa foliicola M.E. Barr & Rogerson SPECIES
-=======
+# Diademosa foliicola M.E. Barr & Rogerson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dioxys tricornuta Thompson SPECIES
-=======
+# Dioxys tricornuta Thompson SPECIES
 
 #### Status
 ACCEPTED

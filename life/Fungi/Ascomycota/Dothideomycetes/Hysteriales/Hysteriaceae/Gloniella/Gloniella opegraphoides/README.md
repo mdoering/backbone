@@ -1,5 +1,4 @@
-Gloniella opegraphoides Rehm SPECIES
-=======
+# Gloniella opegraphoides Rehm SPECIES
 
 #### Status
 ACCEPTED

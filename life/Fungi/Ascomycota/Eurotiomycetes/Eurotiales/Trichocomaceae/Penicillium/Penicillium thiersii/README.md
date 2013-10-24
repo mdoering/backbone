@@ -1,5 +1,4 @@
-Penicillium thiersii S.W. Peterson, E.M. Bayer & Wicklow SPECIES
-=======
+# Penicillium thiersii S.W. Peterson, E.M. Bayer & Wicklow SPECIES
 
 #### Status
 ACCEPTED

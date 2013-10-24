@@ -1,5 +1,4 @@
-Irene melastomacearum (Speg.) Toro SPECIES
-=======
+# Irene melastomacearum (Speg.) Toro SPECIES
 
 #### Status
 ACCEPTED

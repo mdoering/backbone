@@ -1,5 +1,4 @@
-Trypanosoma laternae Lebailly, 1904 SPECIES
-=======
+# Trypanosoma laternae Lebailly, 1904 SPECIES
 
 #### Status
 ACCEPTED

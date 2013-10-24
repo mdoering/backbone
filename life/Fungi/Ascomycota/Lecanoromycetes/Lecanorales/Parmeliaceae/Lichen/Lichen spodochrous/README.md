@@ -1,5 +1,4 @@
-Lichen spodochrous Ehrh. ex Hoffm. SPECIES
-=======
+# Lichen spodochrous Ehrh. ex Hoffm. SPECIES
 
 #### Status
 ACCEPTED

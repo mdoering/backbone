@@ -1,5 +1,4 @@
-Teichospora dura Fuckel SPECIES
-=======
+# Teichospora dura Fuckel SPECIES
 
 #### Status
 ACCEPTED

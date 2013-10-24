@@ -1,5 +1,4 @@
-Sphaerella heloniaefolia (Cooke & Ellis) Cooke SPECIES
-=======
+# Sphaerella heloniaefolia (Cooke & Ellis) Cooke SPECIES
 
 #### Status
 ACCEPTED

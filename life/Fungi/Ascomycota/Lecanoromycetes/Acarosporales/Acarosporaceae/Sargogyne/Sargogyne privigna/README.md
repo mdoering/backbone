@@ -1,5 +1,4 @@
-Sargogyne privigna (Ach.) A. Massal. SPECIES
-=======
+# Sargogyne privigna (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

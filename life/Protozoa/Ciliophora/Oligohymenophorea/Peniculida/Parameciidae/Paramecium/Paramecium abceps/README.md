@@ -1,5 +1,4 @@
-Paramecium abceps SPECIES
-=======
+# Paramecium abceps SPECIES
 
 #### Status
 ACCEPTED

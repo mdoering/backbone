@@ -1,5 +1,4 @@
-Mycetosporidium talpa L. Léger & E. Hesse SPECIES
-=======
+# Mycetosporidium talpa L. Léger & E. Hesse SPECIES
 
 #### Status
 ACCEPTED

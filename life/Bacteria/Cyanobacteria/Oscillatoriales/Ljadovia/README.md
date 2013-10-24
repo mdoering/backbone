@@ -1,5 +1,4 @@
-Ljadovia E.A. Assejeva in E.A. Assejeva & V.A. Velikanov, 1983 GENUS
-=======
+# Ljadovia E.A. Assejeva in E.A. Assejeva & V.A. Velikanov, 1983 GENUS
 
 #### Status
 ACCEPTED

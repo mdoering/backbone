@@ -1,5 +1,4 @@
-Schizothyrella borealis Ellis & Sacc. SPECIES
-=======
+# Schizothyrella borealis Ellis & Sacc. SPECIES
 
 #### Status
 ACCEPTED

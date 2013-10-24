@@ -1,5 +1,4 @@
-Hygrocybe tatrensis Nespiak SPECIES
-=======
+# Hygrocybe tatrensis Nespiak SPECIES
 
 #### Status
 ACCEPTED

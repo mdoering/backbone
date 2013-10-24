@@ -1,5 +1,4 @@
-Asterina flacourtiae Petr., 1931 SPECIES
-=======
+# Asterina flacourtiae Petr., 1931 SPECIES
 
 #### Status
 ACCEPTED

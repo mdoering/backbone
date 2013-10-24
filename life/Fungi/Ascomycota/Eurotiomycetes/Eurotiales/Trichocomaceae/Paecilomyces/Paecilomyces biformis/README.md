@@ -1,5 +1,4 @@
-Paecilomyces biformis Z.Q. Liang, H.L. Chu & Y.F. Han SPECIES
-=======
+# Paecilomyces biformis Z.Q. Liang, H.L. Chu & Y.F. Han SPECIES
 
 #### Status
 ACCEPTED

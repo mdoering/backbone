@@ -1,5 +1,4 @@
-Pentatrichomonoides Kirby, 1931 GENUS
-=======
+# Pentatrichomonoides Kirby, 1931 GENUS
 
 #### Status
 ACCEPTED

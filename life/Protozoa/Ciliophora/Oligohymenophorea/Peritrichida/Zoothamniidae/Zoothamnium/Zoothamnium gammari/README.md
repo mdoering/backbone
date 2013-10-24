@@ -1,5 +1,4 @@
-Zoothamnium gammari Korfsmeier, 1943 SPECIES
-=======
+# Zoothamnium gammari Korfsmeier, 1943 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizomastix Alexeieff, 1911 GENUS
-=======
+# Rhizomastix Alexeieff, 1911 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria platani Tavel SPECIES
-=======
+# Cucurbitaria platani Tavel SPECIES
 
 #### Status
 ACCEPTED

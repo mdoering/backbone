@@ -1,5 +1,4 @@
-Albatrellus jiangfenglingensis G.Y. Zheng SPECIES
-=======
+# Albatrellus jiangfenglingensis G.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

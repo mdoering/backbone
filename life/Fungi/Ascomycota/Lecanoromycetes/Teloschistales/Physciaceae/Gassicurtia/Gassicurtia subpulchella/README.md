@@ -1,14 +1,13 @@
-Gassicurtia subpulcella (Vain.) Marbach SPECIES
-=======
+# Gassicurtia subpulchella (Vain.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 244 (2000)
 
 #### Original name
 Buellia subpulchella Vain.

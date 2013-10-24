@@ -1,5 +1,4 @@
-Stegonsporiopsis Van Warmelo & B. Sutton GENUS
-=======
+# Stegonsporiopsis Van Warmelo & B. Sutton GENUS
 
 #### Status
 ACCEPTED

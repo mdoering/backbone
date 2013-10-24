@@ -1,5 +1,4 @@
-Pyrenium terrestre Tode SPECIES
-=======
+# Pyrenium terrestre Tode SPECIES
 
 #### Status
 ACCEPTED

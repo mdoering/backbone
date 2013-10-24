@@ -1,5 +1,4 @@
-Conotrema freyi Vezda & Poelt SPECIES
-=======
+# Conotrema freyi Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

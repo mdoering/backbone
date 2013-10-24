@@ -1,5 +1,4 @@
-Xylaria delicatula Starbäck SPECIES
-=======
+# Xylaria delicatula Starbäck SPECIES
 
 #### Status
 ACCEPTED

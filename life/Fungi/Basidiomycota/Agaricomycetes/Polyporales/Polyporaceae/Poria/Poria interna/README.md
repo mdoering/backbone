@@ -1,5 +1,4 @@
-Poria interna (Schwein.) Sacc. SPECIES
-=======
+# Poria interna (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

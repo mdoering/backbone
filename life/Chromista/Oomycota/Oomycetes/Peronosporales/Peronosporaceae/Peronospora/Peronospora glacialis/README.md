@@ -1,5 +1,4 @@
-Peronospora glacialis (A. Blytt) Gäum. SPECIES
-=======
+# Peronospora glacialis (A. Blytt) Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria violacea (Fr.) Cooke SPECIES
-=======
+# Poria violacea (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

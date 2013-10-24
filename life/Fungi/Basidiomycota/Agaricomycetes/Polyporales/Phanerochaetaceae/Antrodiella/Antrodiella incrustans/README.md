@@ -1,17 +1,16 @@
-Poria incrustans var. incrustans VARIETY
-=======
+# Antrodiella incrustans (Berk. & M.A. Curtis) Ryvarden, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 72): 114 (1886)
+Mycotaxon 20(2): 344 (1984)
 
 #### Original name
-Poria incrustans var. incrustans
+Polyporus incrustans Berk. & M.A. Curtis, 1872
 
 ### Remarks
 null

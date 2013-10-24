@@ -1,5 +1,4 @@
-Edaphonobiotus Schönborn, Foissner & Meisterfeld, 1984 GENUS
-=======
+# Edaphonobiotus Schönborn, Foissner & Meisterfeld, 1984 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyporus herbergii Rostk., 1848 SPECIES
-=======
+# Phaeolus schweinitzii (Fr.) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 86 (1900)
 
 #### Original name
-null
+Polyporus schweinitzii Fr., 1821
 
 ### Remarks
 null

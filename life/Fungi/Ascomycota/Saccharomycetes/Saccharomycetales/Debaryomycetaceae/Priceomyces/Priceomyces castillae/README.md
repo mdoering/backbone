@@ -1,5 +1,4 @@
-Priceomyces castillae (Santa María & C. García) M. Suzuki & Kurtzman, 2009 SPECIES
-=======
+# Priceomyces castillae (Santa María & C. García) M. Suzuki & Kurtzman, 2009 SPECIES
 
 #### Status
 ACCEPTED

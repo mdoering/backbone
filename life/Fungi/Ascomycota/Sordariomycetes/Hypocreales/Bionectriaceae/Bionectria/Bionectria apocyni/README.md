@@ -1,14 +1,13 @@
-Nectria apocyni Peck, 1873 SPECIES
-=======
+# Bionectria apocyni (Peck) Schroers & Samuels, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Buffalo Soc. nat. Sci. 1: 71 (1873)
+Z. Mykol. 63(2): 153 (1997)
 
 #### Original name
 Nectria apocyni Peck, 1873

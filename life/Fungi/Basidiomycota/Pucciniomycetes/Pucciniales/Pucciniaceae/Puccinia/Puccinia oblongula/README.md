@@ -1,5 +1,4 @@
-Puccinia oblongula H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia oblongula H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

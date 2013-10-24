@@ -1,5 +1,4 @@
-Dactylaria argentina (Aramb. & Mengasc.) Cabello & Cazau SPECIES
-=======
+# Dactylaria argentina (Aramb. & Mengasc.) Cabello & Cazau SPECIES
 
 #### Status
 ACCEPTED

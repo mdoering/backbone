@@ -1,5 +1,4 @@
-Rhabdospora mycophaga Ziling SPECIES
-=======
+# Rhabdospora mycophaga Ziling SPECIES
 
 #### Status
 ACCEPTED

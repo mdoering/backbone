@@ -1,5 +1,4 @@
-Phellinus ossatus M. Fisch. SPECIES
-=======
+# Phellinus ossatus M. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria vitalbae Sacc. SPECIES
-=======
+# Septoria vitalbae Sacc. SPECIES
 
 #### Status
 ACCEPTED

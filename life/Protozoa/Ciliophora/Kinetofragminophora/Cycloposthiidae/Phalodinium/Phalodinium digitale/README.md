@@ -1,5 +1,4 @@
-Phalodinium digitale W. Van Hoven, F.M.C. Gilchrist & V.L. Hamilton-Attwell SPECIES
-=======
+# Phalodinium digitale W. Van Hoven, F.M.C. Gilchrist & V.L. Hamilton-Attwell SPECIES
 
 #### Status
 ACCEPTED

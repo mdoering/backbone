@@ -1,5 +1,4 @@
-Hebelomatis perpallidurn SPECIES
-=======
+# Hebelomatis perpallidurn SPECIES
 
 #### Status
 ACCEPTED

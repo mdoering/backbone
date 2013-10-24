@@ -1,5 +1,4 @@
-Dyadosporites ellipsus Hammen SPECIES
-=======
+# Dyadosporites ellipsus Hammen SPECIES
 
 #### Status
 ACCEPTED

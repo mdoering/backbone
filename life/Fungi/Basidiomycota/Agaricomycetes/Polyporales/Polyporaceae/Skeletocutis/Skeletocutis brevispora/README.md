@@ -1,5 +1,4 @@
-Skeletocutis brevispora Niemelä SPECIES
-=======
+# Skeletocutis brevispora Niemelä SPECIES
 
 #### Status
 ACCEPTED

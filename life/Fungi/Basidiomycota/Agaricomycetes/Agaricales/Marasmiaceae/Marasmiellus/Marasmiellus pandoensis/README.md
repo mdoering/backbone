@@ -1,5 +1,4 @@
-Marasmiellus pandoensis Singer SPECIES
-=======
+# Marasmiellus pandoensis Singer SPECIES
 
 #### Status
 ACCEPTED

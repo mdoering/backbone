@@ -1,5 +1,4 @@
-Pocosphaeria balcanica Höhn. SPECIES
-=======
+# Pocosphaeria balcanica Höhn. SPECIES
 
 #### Status
 ACCEPTED

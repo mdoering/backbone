@@ -1,5 +1,4 @@
-Ellipsoidion ovoideum Pascher SPECIES
-=======
+# Ellipsoidion ovoideum Pascher SPECIES
 
 #### Status
 ACCEPTED

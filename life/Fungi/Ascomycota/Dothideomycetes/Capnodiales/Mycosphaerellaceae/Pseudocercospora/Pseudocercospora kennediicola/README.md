@@ -1,5 +1,4 @@
-Pseudocercospora kennediicola Beilharz, Pascoe & Parbery SPECIES
-=======
+# Pseudocercospora kennediicola Beilharz, Pascoe & Parbery SPECIES
 
 #### Status
 ACCEPTED

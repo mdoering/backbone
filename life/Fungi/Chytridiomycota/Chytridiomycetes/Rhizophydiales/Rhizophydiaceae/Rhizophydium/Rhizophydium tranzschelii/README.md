@@ -1,5 +1,4 @@
-Rhizophydium tranzschelii Jacz. SPECIES
-=======
+# Rhizophydium tranzschelii Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirosporium rhamnigenum U. Braun SPECIES
-=======
+# Sirosporium rhamnigenum U. Braun SPECIES
 
 #### Status
 ACCEPTED

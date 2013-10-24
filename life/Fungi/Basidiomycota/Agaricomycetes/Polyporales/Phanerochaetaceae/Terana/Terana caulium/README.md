@@ -1,5 +1,4 @@
-Terana caulium (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana caulium (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

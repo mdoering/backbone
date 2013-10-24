@@ -1,5 +1,4 @@
-Heterosphaeria Greville, 1824 GENUS
-=======
+# Heterosphaeria Greville, 1824 GENUS
 
 #### Status
 ACCEPTED

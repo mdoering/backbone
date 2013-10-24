@@ -1,5 +1,4 @@
-Spizellomyces acuminatum (Barr) Barr SPECIES
-=======
+# Spizellomyces acuminatum (Barr) Barr SPECIES
 
 #### Status
 ACCEPTED

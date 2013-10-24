@@ -1,5 +1,4 @@
-Ceramothyrium Bat. & H. Maia GENUS
-=======
+# Ceramothyrium Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

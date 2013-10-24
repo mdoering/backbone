@@ -1,5 +1,4 @@
-Phyllosticta lathyricola Bubák & Krieg. SPECIES
-=======
+# Phyllosticta lathyricola Bubák & Krieg. SPECIES
 
 #### Status
 ACCEPTED

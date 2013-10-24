@@ -1,5 +1,4 @@
-Hendersonia callicarpae Gucevic SPECIES
-=======
+# Hendersonia callicarpae Gucevic SPECIES
 
 #### Status
 ACCEPTED

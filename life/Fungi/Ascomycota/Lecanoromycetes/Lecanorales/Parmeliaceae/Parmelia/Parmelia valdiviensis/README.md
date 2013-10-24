@@ -1,5 +1,4 @@
-Parmelia valdiviensis Räsänen SPECIES
-=======
+# Parmelia valdiviensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

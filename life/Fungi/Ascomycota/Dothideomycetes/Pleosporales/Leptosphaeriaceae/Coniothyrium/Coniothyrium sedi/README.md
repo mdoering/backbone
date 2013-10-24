@@ -1,5 +1,4 @@
-Coniothyrium sedi Hollós SPECIES
-=======
+# Coniothyrium sedi Hollós SPECIES
 
 #### Status
 ACCEPTED

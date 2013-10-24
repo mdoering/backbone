@@ -1,5 +1,4 @@
-Pleosphaerulina suchumica Siemaszko SPECIES
-=======
+# Pleosphaerulina suchumica Siemaszko SPECIES
 
 #### Status
 ACCEPTED

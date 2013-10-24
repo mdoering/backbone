@@ -1,5 +1,4 @@
-Rhytisma ilicis-pedunculosae Y. Suto, 2009 SPECIES
-=======
+# Rhytisma ilicis-pedunculosae Y. Suto, 2009 SPECIES
 
 #### Status
 ACCEPTED

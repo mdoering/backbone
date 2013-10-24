@@ -1,5 +1,4 @@
-Pholiota pseudoblattaria Speg. SPECIES
-=======
+# Pholiota pseudoblattaria Speg. SPECIES
 
 #### Status
 ACCEPTED

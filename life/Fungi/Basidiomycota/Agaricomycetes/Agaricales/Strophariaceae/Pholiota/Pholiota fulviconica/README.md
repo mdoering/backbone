@@ -1,5 +1,4 @@
-Pholiota fulviconica (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota fulviconica (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

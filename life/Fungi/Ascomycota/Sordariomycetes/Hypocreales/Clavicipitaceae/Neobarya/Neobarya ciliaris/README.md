@@ -1,5 +1,4 @@
-Neobarya ciliaris Etayo, 2002 SPECIES
-=======
+# Neobarya ciliaris Etayo, 2002 SPECIES
 
 #### Status
 ACCEPTED

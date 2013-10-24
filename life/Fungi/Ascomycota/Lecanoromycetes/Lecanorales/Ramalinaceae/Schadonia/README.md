@@ -1,5 +1,4 @@
-Schadonia Körb. GENUS
-=======
+# Schadonia Körb. GENUS
 
 #### Status
 ACCEPTED

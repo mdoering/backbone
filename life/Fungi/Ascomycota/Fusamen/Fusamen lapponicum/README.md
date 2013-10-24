@@ -1,5 +1,4 @@
-Fusamen lapponicum (Lind) Arx SPECIES
-=======
+# Fusamen lapponicum (Lind) Arx SPECIES
 
 #### Status
 ACCEPTED

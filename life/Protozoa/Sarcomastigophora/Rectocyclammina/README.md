@@ -1,5 +1,4 @@
-Rectocyclammina Hottinger, 1967 GENUS
-=======
+# Rectocyclammina Hottinger, 1967 GENUS
 
 #### Status
 ACCEPTED

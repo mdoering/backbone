@@ -1,5 +1,4 @@
-Agaricus flavicans Pers. SPECIES
-=======
+# Agaricus flavicans Pers. SPECIES
 
 #### Status
 ACCEPTED

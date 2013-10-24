@@ -1,5 +1,4 @@
-Coreomyces fastigiatus Thaxt. SPECIES
-=======
+# Coreomyces fastigiatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

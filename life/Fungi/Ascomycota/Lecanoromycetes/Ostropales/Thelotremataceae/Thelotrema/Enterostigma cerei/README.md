@@ -1,5 +1,4 @@
-Enterostigma cerei Schiman-Czeika SPECIES
-=======
+# Enterostigma cerei Schiman-Czeika SPECIES
 
 #### Status
 ACCEPTED

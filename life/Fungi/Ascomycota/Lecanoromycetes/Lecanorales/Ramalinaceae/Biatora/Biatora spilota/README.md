@@ -1,5 +1,4 @@
-Biatora spilota (Fr.) Hepp SPECIES
-=======
+# Biatora spilota (Fr.) Hepp SPECIES
 
 #### Status
 ACCEPTED

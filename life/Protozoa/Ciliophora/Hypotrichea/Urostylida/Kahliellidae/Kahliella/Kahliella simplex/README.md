@@ -1,8 +1,7 @@
-Kahlia simplex Horváth, 1934 SPECIES
-=======
+# Kahliella simplex (Horváth, 1934) Corliss, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

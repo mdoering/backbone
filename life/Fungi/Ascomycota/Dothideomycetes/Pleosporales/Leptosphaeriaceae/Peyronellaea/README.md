@@ -1,5 +1,4 @@
-Peyronellaea Goid., 1952 GENUS
-=======
+# Peyronellaea Goid., 1952 GENUS
 
 #### Status
 ACCEPTED

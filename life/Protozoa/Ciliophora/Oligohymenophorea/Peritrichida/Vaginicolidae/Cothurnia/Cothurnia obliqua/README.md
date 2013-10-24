@@ -1,5 +1,4 @@
-Cothurnia obliqua SPECIES
-=======
+# Cothurnia obliqua SPECIES
 
 #### Status
 ACCEPTED

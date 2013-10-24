@@ -1,5 +1,4 @@
-Microstaurus M.Black, 1971 GENUS
-=======
+# Microstaurus M.Black, 1971 GENUS
 
 #### Status
 ACCEPTED

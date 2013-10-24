@@ -1,5 +1,4 @@
-Cortinarius myxoduracinus E. Horak SPECIES
-=======
+# Cortinarius myxoduracinus E. Horak SPECIES
 
 #### Status
 ACCEPTED

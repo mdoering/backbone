@@ -1,14 +1,13 @@
-Clathrospora patriniae Nann., 1929 SPECIES
-=======
+# Platysporoides patriniae (Nann.) Shoemaker & C.E. Babc., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti R. Accad. Fisiocrit. Siena, Sér. 10 4(1-2): 87-96 (1929)
+Can. J. Bot. 70(8): 1653 (1992)
 
 #### Original name
 Clathrospora patriniae Nann., 1929

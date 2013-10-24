@@ -1,17 +1,16 @@
-Armillaria albolanaripes f. albolanaripes G.F. Atk. FORM
-=======
+# Floccularia albolanaripes (G.F. Atk.) Redhead, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 6(1): 54 (1908)
+Can. J. Bot. 65(8): 1556 (1987)
 
 #### Original name
-Armillaria albolanaripes f. albolanaripes G.F. Atk.
+Armillaria albolanaripes G.F. Atk., 1908
 
 ### Remarks
 null

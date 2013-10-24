@@ -1,5 +1,4 @@
-Thermococcus barossii Duffaud et al., 2005 SPECIES
-=======
+# Thermococcus barossii Duffaud et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

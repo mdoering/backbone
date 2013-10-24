@@ -1,5 +1,4 @@
-Marssonina stenospora (Ellis & Kellerm.) Magnus SPECIES
-=======
+# Marssonina stenospora (Ellis & Kellerm.) Magnus SPECIES
 
 #### Status
 ACCEPTED

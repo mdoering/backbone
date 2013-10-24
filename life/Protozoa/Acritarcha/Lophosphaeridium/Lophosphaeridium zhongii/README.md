@@ -1,5 +1,4 @@
-Lophosphaeridium zhongii Fensome et al., 1990 SPECIES
-=======
+# Lophosphaeridium zhongii Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

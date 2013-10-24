@@ -1,5 +1,4 @@
-Sclerotinia cerasi Woronin SPECIES
-=======
+# Sclerotinia cerasi Woronin SPECIES
 
 #### Status
 ACCEPTED

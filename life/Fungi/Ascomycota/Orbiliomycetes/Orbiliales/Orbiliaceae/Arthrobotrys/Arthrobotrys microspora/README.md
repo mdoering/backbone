@@ -1,5 +1,4 @@
-Arthrobotrys microspora (Soprunov) Mekht. SPECIES
-=======
+# Arthrobotrys microspora (Soprunov) Mekht. SPECIES
 
 #### Status
 ACCEPTED

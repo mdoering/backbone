@@ -1,5 +1,4 @@
-Chaetoceros ceratosporum var. brachysetus Rines & Hargraves VARIETY
-=======
+# Chaetoceros ceratosporum Ostenfeld SPECIES
 
 #### Status
 ACCEPTED

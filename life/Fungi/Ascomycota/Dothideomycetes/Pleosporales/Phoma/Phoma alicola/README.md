@@ -1,5 +1,4 @@
-Phoma alicola Speg. SPECIES
-=======
+# Phoma alicola Speg. SPECIES
 
 #### Status
 ACCEPTED

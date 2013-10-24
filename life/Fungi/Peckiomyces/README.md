@@ -1,5 +1,4 @@
-Peckiomyces Sacc. & Trotter GENUS
-=======
+# Peckiomyces Sacc. & Trotter GENUS
 
 #### Status
 ACCEPTED

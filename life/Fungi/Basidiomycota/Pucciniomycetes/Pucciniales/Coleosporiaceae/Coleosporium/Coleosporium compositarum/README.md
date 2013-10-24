@@ -1,5 +1,4 @@
-Coleosporium compositarum Lév. SPECIES
-=======
+# Coleosporium compositarum Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces tegillum Berk. & M.A. Curtis SPECIES
-=======
+# Hypomyces tegillum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

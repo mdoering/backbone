@@ -1,5 +1,4 @@
-Phyllachora tirolensis Petr., 1947 SPECIES
-=======
+# Phyllachora tirolensis Petr., 1947 SPECIES
 
 #### Status
 DOUBTFUL

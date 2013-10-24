@@ -1,5 +1,4 @@
-Sphaeria pirei Westend. SPECIES
-=======
+# Sphaeria pirei Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fellhanera viridis Lücking SPECIES
-=======
+# Fellhanera viridis Lücking SPECIES
 
 #### Status
 ACCEPTED

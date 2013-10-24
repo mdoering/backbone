@@ -1,5 +1,4 @@
-Lecidea ghisleri (Hepp) Stizenb. SPECIES
-=======
+# Lecidea ghisleri (Hepp) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

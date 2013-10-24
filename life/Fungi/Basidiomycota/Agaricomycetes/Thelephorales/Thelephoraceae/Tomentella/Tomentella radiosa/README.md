@@ -1,17 +1,16 @@
-Tomentella pannosa var. pannosa VARIETY
-=======
+# Tomentella radiosa (P. Karst.) Rick, 1934 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 40(2): 150 (1924)
+Brotéria, sér. 3 2: 79 (1934)
 
 #### Original name
-Tomentella pannosa var. pannosa
+Hypochnus fuscus var. radiosus P. Karst., 1882
 
 ### Remarks
 null

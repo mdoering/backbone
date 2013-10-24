@@ -1,5 +1,4 @@
-Bulgaria geralensis Henn. SPECIES
-=======
+# Bulgaria geralensis Henn. SPECIES
 
 #### Status
 ACCEPTED

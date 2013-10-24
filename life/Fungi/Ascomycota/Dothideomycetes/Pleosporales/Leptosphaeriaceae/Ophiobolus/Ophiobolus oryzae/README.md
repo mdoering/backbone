@@ -1,5 +1,4 @@
-Ophiobolus oryzae I. Miyake SPECIES
-=======
+# Ophiobolus oryzae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

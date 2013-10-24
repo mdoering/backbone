@@ -1,5 +1,4 @@
-Phlyctidium padi Wallr. SPECIES
-=======
+# Phlyctidium padi Wallr. SPECIES
 
 #### Status
 ACCEPTED

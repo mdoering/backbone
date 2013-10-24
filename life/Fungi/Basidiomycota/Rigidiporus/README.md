@@ -1,5 +1,4 @@
-Rigidiporus GENUS
-=======
+# Rigidiporus GENUS
 
 #### Status
 ACCEPTED

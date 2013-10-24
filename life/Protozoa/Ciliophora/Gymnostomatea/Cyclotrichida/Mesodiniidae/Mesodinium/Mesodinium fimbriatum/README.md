@@ -1,5 +1,4 @@
-Mesodinium fimbriatum Stokes, 1887 SPECIES
-=======
+# Mesodinium fimbriatum Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

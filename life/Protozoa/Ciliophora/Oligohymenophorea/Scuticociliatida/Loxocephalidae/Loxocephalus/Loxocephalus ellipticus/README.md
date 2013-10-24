@@ -1,5 +1,4 @@
-Loxocephalus ellipticus Kahl, 1931 SPECIES
-=======
+# Loxocephalus ellipticus Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

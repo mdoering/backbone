@@ -1,5 +1,4 @@
-Barringtonella bulmanii Black, 1973 SPECIES
-=======
+# Barringtonella bulmanii Black, 1973 SPECIES
 
 #### Status
 DOUBTFUL

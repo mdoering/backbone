@@ -1,5 +1,4 @@
-Rectobolivina dimorpha SPECIES
-=======
+# Rectobolivina dimorpha SPECIES
 
 #### Status
 ACCEPTED

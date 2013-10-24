@@ -1,5 +1,4 @@
-Camarosporium syringae Oudem. SPECIES
-=======
+# Camarosporium syringae Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssiplaca feeana A. Massal. SPECIES
-=======
+# Byssiplaca feeana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

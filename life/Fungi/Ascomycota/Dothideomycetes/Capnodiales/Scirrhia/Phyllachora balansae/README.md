@@ -1,5 +1,4 @@
-Phyllachora balansae Speg., 1885 SPECIES
-=======
+# Phyllachora balansae Speg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

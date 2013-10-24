@@ -1,5 +1,4 @@
-Corynelia nipponensis Fitzp., 1920 SPECIES
-=======
+# Corynelia nipponensis Fitzp., 1920 SPECIES
 
 #### Status
 ACCEPTED

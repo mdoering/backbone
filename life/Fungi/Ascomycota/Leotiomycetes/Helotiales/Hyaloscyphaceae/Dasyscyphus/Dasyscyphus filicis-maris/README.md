@@ -1,8 +1,7 @@
-Dasyscypha filicis-maris (Saut.) Sacc. SPECIES
-=======
+# Dasyscyphus filicis-maris (Saut.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Truncatisphaeridium clevelandense Riding & Duxbury, 1993 SPECIES
-=======
+# Truncatisphaeridium clevelandense Riding & Duxbury, 1993 SPECIES
 
 #### Status
 ACCEPTED

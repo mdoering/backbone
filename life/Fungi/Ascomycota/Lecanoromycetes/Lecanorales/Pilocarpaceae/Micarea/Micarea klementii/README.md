@@ -1,5 +1,4 @@
-Micarea klementii Coppins SPECIES
-=======
+# Micarea klementii Coppins SPECIES
 
 #### Status
 ACCEPTED

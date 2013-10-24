@@ -1,5 +1,4 @@
-Campanellula De Castro, 1965 GENUS
-=======
+# Campanellula De Castro, 1965 GENUS
 
 #### Status
 ACCEPTED

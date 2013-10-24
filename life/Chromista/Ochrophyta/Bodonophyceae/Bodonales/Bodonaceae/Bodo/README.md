@@ -1,5 +1,4 @@
-Bodo Ehrenberg, 1830 GENUS
-=======
+# Bodo Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

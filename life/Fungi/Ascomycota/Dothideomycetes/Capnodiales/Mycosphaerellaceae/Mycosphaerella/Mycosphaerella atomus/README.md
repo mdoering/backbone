@@ -1,14 +1,13 @@
-Sphaerella atomus (Desm.) Cooke, 1875 SPECIES
-=======
+# Mycosphaerella atomus (Desm.) Johanson ex Oudem., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 3(no. 28): 169 (1875)
+Révision des Champignons tant supérieurs qu'inférieurs trouvés jusqu'à ce jour dans la Pays-Bas, Tom. II: Phycomycètes, Pyrenomycètes 2: 209 (1897)
 
 #### Original name
 Sphaeria atomus Desm., 1841

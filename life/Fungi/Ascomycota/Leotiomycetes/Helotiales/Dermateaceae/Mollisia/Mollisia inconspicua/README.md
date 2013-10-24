@@ -1,5 +1,4 @@
-Mollisia inconspicua Rehm SPECIES
-=======
+# Mollisia inconspicua Rehm SPECIES
 
 #### Status
 ACCEPTED

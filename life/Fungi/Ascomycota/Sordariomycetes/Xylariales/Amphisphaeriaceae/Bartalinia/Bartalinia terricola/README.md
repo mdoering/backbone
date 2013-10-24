@@ -1,5 +1,4 @@
-Bartalinia terricola Luke & S.U. Devi, 1979 SPECIES
-=======
+# Bartalinia terricola Luke & S.U. Devi, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Verrucaria gisleri (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora gisleriana Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 57: 185 (1874)
 
 #### Original name
 Lecanora gisleriana Müll. Arg.

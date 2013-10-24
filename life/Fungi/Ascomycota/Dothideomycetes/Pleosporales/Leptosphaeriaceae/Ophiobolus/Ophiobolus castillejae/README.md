@@ -1,5 +1,4 @@
-Ophiobolus castillejae Tracy & Earle SPECIES
-=======
+# Ophiobolus castillejae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

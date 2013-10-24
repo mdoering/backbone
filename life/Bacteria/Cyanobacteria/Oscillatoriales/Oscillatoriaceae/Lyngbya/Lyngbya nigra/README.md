@@ -1,5 +1,4 @@
-Lyngbya nigra C. Agardh SPECIES
-=======
+# Lyngbya nigra C. Agardh SPECIES
 
 #### Status
 ACCEPTED

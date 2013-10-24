@@ -1,5 +1,4 @@
-Lecidea nidulans Stirt. SPECIES
-=======
+# Lecidea nidulans Stirt. SPECIES
 
 #### Status
 ACCEPTED

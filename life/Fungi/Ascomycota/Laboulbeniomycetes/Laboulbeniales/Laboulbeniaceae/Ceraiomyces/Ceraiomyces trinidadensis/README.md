@@ -1,5 +1,4 @@
-Ceraiomyces trinidadensis Thaxt. SPECIES
-=======
+# Ceraiomyces trinidadensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

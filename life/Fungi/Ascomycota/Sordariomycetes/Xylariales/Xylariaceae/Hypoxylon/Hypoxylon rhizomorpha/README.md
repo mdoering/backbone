@@ -1,5 +1,4 @@
-Hypoxylon rhizomorpha Mont. SPECIES
-=======
+# Hypoxylon rhizomorpha Mont. SPECIES
 
 #### Status
 ACCEPTED

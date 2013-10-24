@@ -1,5 +1,4 @@
-Plectopsora GENUS
-=======
+# Plectopsora GENUS
 
 #### Status
 ACCEPTED

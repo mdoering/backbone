@@ -1,5 +1,4 @@
-Pleuropus washingtoniensis (Braendle) Murrill SPECIES
-=======
+# Pleuropus washingtoniensis (Braendle) Murrill SPECIES
 
 #### Status
 ACCEPTED

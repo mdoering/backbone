@@ -1,5 +1,4 @@
-Sticta laevis (Nyl.) Vain. SPECIES
-=======
+# Sticta laevis (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

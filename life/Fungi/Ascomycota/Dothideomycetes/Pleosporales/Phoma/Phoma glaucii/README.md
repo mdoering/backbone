@@ -1,5 +1,4 @@
-Phoma glaucii Brunaud SPECIES
-=======
+# Phoma glaucii Brunaud SPECIES
 
 #### Status
 ACCEPTED

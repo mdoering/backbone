@@ -1,5 +1,4 @@
-Peziza longipes Cooke & Peck SPECIES
-=======
+# Peziza longipes Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

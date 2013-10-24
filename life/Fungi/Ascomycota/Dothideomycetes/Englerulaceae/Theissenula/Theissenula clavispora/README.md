@@ -1,5 +1,4 @@
-Theissenula clavispora Syd. & P. Syd. SPECIES
-=======
+# Theissenula clavispora Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

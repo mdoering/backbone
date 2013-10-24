@@ -1,8 +1,7 @@
-Polyblastia garovaglii (Mont.) A. Massal. SPECIES
-=======
+# Polyblastia garovaglioi (Mont.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

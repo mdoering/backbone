@@ -1,5 +1,4 @@
-Spongobrachiopyle Kozur & Mostler, 1978 GENUS
-=======
+# Spongobrachiopyle Kozur & Mostler, 1978 GENUS
 
 #### Status
 ACCEPTED

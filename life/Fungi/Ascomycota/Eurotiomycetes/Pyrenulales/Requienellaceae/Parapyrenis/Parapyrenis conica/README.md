@@ -1,5 +1,4 @@
-Parapyrenis conica Aptroot SPECIES
-=======
+# Parapyrenis conica Aptroot SPECIES
 
 #### Status
 ACCEPTED

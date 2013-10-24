@@ -1,5 +1,4 @@
-Leptoporus nauseosus Pat. SPECIES
-=======
+# Leptoporus nauseosus Pat. SPECIES
 
 #### Status
 ACCEPTED

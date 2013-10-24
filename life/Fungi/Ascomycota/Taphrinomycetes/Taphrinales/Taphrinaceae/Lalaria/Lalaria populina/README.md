@@ -1,5 +1,4 @@
-Lalaria populina R.T. Moore, 1990 SPECIES
-=======
+# Lalaria populina R.T. Moore, 1990 SPECIES
 
 #### Status
 ACCEPTED

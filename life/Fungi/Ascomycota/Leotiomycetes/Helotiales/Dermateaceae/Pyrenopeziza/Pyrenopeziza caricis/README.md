@@ -1,5 +1,4 @@
-Pyrenopeziza caricis Rehm SPECIES
-=======
+# Pyrenopeziza caricis Rehm SPECIES
 
 #### Status
 ACCEPTED

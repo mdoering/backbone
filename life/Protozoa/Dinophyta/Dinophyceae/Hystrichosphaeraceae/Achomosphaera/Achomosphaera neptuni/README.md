@@ -1,5 +1,4 @@
-Achomosphaera neptuni (Eisenack, 1958) Davey & Williams, 1966 SPECIES
-=======
+# Achomosphaera neptuni (Eisenack, 1958) Davey & Williams, 1966 SPECIES
 
 #### Status
 ACCEPTED

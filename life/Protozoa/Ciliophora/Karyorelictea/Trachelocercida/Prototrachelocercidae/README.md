@@ -1,5 +1,4 @@
-Prototrachelocercidae FAMILY
-=======
+# Prototrachelocercidae FAMILY
 
 #### Status
 ACCEPTED

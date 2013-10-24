@@ -1,5 +1,4 @@
-Fragilaria sopotensis Witkowski & Lange-Bertalot SPECIES
-=======
+# Fragilaria sopotensis Witkowski & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

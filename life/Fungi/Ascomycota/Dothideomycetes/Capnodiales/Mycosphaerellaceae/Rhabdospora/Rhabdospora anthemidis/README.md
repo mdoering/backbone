@@ -1,5 +1,4 @@
-Rhabdospora anthemidis Sandu & Mítítíuc SPECIES
-=======
+# Rhabdospora anthemidis Sandu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

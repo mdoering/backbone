@@ -1,5 +1,4 @@
-Menidochium R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Menidochium R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

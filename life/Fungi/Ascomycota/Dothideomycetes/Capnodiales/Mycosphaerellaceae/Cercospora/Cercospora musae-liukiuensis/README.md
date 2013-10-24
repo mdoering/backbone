@@ -1,5 +1,4 @@
-Cercospora musae-liukiuensis Sawada SPECIES
-=======
+# Cercospora musae-liukiuensis Sawada SPECIES
 
 #### Status
 ACCEPTED

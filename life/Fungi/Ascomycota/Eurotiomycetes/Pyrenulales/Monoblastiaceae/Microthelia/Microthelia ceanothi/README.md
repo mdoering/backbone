@@ -1,5 +1,4 @@
-Microthelia ceanothi (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Microthelia ceanothi (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus strictipes (Peck) Murrill SPECIES
-=======
+# Gymnopus strictipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

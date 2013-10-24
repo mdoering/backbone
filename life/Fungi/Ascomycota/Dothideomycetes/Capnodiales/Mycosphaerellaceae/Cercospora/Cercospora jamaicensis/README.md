@@ -1,5 +1,4 @@
-Cercospora jamaicensis Chupp SPECIES
-=======
+# Cercospora jamaicensis Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus leporinus Velen. SPECIES
-=======
+# Ascobolus leporinus Velen. SPECIES
 
 #### Status
 ACCEPTED

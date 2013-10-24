@@ -1,5 +1,4 @@
-Meliola subacuminata W. Yamam. SPECIES
-=======
+# Meliola subacuminata W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

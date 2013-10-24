@@ -1,5 +1,4 @@
-Pezizella isabellinorufa Penz. & Sacc. SPECIES
-=======
+# Pezizella isabellinorufa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

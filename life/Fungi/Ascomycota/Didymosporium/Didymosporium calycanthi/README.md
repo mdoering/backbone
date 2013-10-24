@@ -1,5 +1,4 @@
-Didymosporium calycanthi Schwein. SPECIES
-=======
+# Didymosporium calycanthi Schwein. SPECIES
 
 #### Status
 ACCEPTED

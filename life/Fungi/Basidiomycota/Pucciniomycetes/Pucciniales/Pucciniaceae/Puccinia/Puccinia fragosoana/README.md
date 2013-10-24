@@ -1,5 +1,4 @@
-Puccinia fragosoana Beltrán, 1921 SPECIES
-=======
+# Puccinia fragosoana Beltrán, 1921 SPECIES
 
 #### Status
 ACCEPTED

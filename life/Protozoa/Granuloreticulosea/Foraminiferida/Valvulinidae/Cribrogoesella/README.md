@@ -1,11 +1,10 @@
-Cribrogoësella Cushman, 1935 GENUS
-=======
+# Cribrogoesella Cushman, 1935 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Smithson. Misc. Coll. , 91, 1.

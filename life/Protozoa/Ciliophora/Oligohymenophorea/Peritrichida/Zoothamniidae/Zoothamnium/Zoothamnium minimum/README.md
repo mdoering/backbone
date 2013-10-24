@@ -1,5 +1,4 @@
-Zoothamnium minimum subsp. minimum SUBSPECIES
-=======
+# Zoothamnium minimum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polystictus azureus f. azureus FORM
-=======
+# Trametes azurea (Fr.) G. Cunn., 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 93 (1851)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 165 (1965)
 
 #### Original name
-Polystictus azureus f. azureus
+Polystictus azureus Fr., 1851
 
 ### Remarks
 null

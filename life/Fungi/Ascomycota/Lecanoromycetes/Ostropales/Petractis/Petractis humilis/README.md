@@ -1,5 +1,4 @@
-Petractis humilis (J. Lahm) Lettau SPECIES
-=======
+# Petractis humilis (J. Lahm) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flectobacillus lacus Hwang & Cho, 2006 SPECIES
-=======
+# Flectobacillus lacus Hwang & Cho, 2006 SPECIES
 
 #### Status
 ACCEPTED

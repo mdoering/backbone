@@ -1,5 +1,4 @@
-Abrothallus tulasnei M.S. Cole & D. Hawksw. SPECIES
-=======
+# Abrothallus tulasnei M.S. Cole & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

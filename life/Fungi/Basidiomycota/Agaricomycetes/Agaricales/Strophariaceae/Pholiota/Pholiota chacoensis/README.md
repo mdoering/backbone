@@ -1,5 +1,4 @@
-Pholiota chacoensis Speg. SPECIES
-=======
+# Pholiota chacoensis Speg. SPECIES
 
 #### Status
 ACCEPTED

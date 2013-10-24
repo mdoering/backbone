@@ -1,5 +1,4 @@
-Schizophoma pini Kleb. SPECIES
-=======
+# Schizophoma pini Kleb. SPECIES
 
 #### Status
 ACCEPTED

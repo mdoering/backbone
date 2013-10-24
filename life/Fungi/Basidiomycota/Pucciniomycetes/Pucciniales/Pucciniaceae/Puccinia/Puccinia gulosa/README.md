@@ -1,5 +1,4 @@
-Puccinia gulosa H.S. Jacks. & Arthur SPECIES
-=======
+# Puccinia gulosa H.S. Jacks. & Arthur SPECIES
 
 #### Status
 ACCEPTED

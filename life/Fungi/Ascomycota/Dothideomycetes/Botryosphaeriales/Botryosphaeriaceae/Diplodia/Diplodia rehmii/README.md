@@ -1,5 +1,4 @@
-Diplodia rehmii Bäumler SPECIES
-=======
+# Diplodia rehmii Bäumler SPECIES
 
 #### Status
 ACCEPTED

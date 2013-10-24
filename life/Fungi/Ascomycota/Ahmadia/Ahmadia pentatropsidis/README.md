@@ -1,5 +1,4 @@
-Ahmadia pentatropsidis Syd. SPECIES
-=======
+# Ahmadia pentatropsidis Syd. SPECIES
 
 #### Status
 ACCEPTED

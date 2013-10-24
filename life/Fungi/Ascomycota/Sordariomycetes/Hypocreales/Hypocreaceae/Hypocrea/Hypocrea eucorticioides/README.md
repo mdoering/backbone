@@ -1,5 +1,4 @@
-Hypocrea eucorticioides Overton, 2006 SPECIES
-=======
+# Hypocrea eucorticioides Overton, 2006 SPECIES
 
 #### Status
 ACCEPTED

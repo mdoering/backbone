@@ -1,5 +1,4 @@
-Diplodina atra (Potebnia) Sacc. & Traverso SPECIES
-=======
+# Diplodina atra (Potebnia) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

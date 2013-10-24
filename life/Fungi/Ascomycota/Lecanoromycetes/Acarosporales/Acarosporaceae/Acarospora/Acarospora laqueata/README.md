@@ -1,5 +1,4 @@
-Acarospora laqueata Stizenb. SPECIES
-=======
+# Acarospora laqueata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

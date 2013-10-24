@@ -1,5 +1,4 @@
-Usnea cerebrina Vain. SPECIES
-=======
+# Usnea cerebrina Vain. SPECIES
 
 #### Status
 ACCEPTED

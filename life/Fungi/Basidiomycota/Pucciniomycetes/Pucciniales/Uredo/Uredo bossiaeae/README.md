@@ -1,5 +1,4 @@
-Uredo bossiaeae McAlpine SPECIES
-=======
+# Uredo bossiaeae McAlpine SPECIES
 
 #### Status
 ACCEPTED

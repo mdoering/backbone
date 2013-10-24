@@ -1,5 +1,4 @@
-Veligaster singaporensis Guzmán & Tapia SPECIES
-=======
+# Veligaster singaporensis Guzmán & Tapia SPECIES
 
 #### Status
 ACCEPTED

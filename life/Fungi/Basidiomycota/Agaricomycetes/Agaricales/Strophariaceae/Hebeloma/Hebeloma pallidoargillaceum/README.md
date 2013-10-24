@@ -1,5 +1,4 @@
-Hebeloma pallidoargillaceum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma pallidoargillaceum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

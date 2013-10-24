@@ -1,5 +1,4 @@
-Phyllachora kyllingae Chardón, 1932 SPECIES
-=======
+# Phyllachora kyllingae Chardón, 1932 SPECIES
 
 #### Status
 ACCEPTED

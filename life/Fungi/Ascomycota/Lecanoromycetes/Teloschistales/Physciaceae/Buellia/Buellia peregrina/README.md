@@ -1,5 +1,4 @@
-Buellia peregrina Bungartz & V. Wirth SPECIES
-=======
+# Buellia peregrina Bungartz & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

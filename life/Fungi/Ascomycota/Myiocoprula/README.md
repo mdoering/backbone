@@ -1,5 +1,4 @@
-Myiocoprula Petr. GENUS
-=======
+# Myiocoprula Petr. GENUS
 
 #### Status
 ACCEPTED

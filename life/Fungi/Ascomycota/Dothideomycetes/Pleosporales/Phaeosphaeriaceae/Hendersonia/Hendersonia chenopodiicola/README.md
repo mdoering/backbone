@@ -1,5 +1,4 @@
-Hendersonia chenopodiicola Speg. SPECIES
-=======
+# Hendersonia chenopodiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

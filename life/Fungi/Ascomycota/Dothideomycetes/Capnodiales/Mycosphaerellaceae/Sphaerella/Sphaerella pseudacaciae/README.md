@@ -1,5 +1,4 @@
-Sphaerella pseudacaciae Auersw. SPECIES
-=======
+# Sphaerella pseudacaciae Auersw. SPECIES
 
 #### Status
 ACCEPTED

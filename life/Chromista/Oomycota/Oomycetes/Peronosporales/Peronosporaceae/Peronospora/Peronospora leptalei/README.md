@@ -1,5 +1,4 @@
-Peronospora leptalei Kolosch. SPECIES
-=======
+# Peronospora leptalei Kolosch. SPECIES
 
 #### Status
 ACCEPTED

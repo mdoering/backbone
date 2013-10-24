@@ -1,5 +1,4 @@
-Irenopsis rollandiae Hansf. SPECIES
-=======
+# Irenopsis rollandiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

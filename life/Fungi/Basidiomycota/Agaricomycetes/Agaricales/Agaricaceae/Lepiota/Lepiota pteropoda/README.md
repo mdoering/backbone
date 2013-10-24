@@ -1,5 +1,4 @@
-Lepiota pteropoda Kalchbr. & MacOwan SPECIES
-=======
+# Lepiota pteropoda Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

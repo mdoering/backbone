@@ -1,5 +1,4 @@
-Boletopsis larigna (Britzelm.) Singer SPECIES
-=======
+# Boletopsis larigna (Britzelm.) Singer SPECIES
 
 #### Status
 ACCEPTED

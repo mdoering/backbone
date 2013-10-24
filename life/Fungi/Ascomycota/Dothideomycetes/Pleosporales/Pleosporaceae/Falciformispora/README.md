@@ -1,5 +1,4 @@
-Falciformispora K.D. Hyde GENUS
-=======
+# Falciformispora K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

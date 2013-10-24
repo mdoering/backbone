@@ -1,5 +1,4 @@
-Merisma implexum Lév. SPECIES
-=======
+# Merisma implexum Lév. SPECIES
 
 #### Status
 ACCEPTED

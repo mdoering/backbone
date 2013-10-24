@@ -1,5 +1,4 @@
-Arthopyreniella cinerescens (A. Massal.) J. Steiner SPECIES
-=======
+# Arthopyreniella cinerescens (A. Massal.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

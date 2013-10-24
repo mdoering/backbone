@@ -1,5 +1,4 @@
-Agaricus undulosus Fr. SPECIES
-=======
+# Agaricus undulosus Fr. SPECIES
 
 #### Status
 ACCEPTED

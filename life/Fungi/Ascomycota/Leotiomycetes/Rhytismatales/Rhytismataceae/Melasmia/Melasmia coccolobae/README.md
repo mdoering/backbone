@@ -1,5 +1,4 @@
-Melasmia coccolobae F. Stevens SPECIES
-=======
+# Melasmia coccolobae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea thallocheiloides Vain. SPECIES
-=======
+# Lecidea thallocheiloides Vain. SPECIES
 
 #### Status
 ACCEPTED

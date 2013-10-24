@@ -1,17 +1,16 @@
-Venenarius gemmatus var. gemmatus VARIETY
-=======
+# Amanita gemmata (Fr.) Bertill., 1866 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 11: 102 (1948)
+Essai Crypt. Exot. (Paris) 3: 496 (1866)
 
 #### Original name
-Venenarius gemmatus var. gemmatus
+Agaricus gemmatus Fr., 1838
 
 ### Remarks
 null

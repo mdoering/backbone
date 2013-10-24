@@ -1,5 +1,4 @@
-Aigialus formosum ined. SPECIES
-=======
+# Aigialus formosum ined. SPECIES
 
 #### Status
 ACCEPTED

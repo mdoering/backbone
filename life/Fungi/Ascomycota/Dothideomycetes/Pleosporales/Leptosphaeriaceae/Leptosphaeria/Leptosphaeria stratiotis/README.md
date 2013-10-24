@@ -1,5 +1,4 @@
-Leptosphaeria stratiotis Oudem., 1902 SPECIES
-=======
+# Leptosphaeria stratiotis Oudem., 1902 SPECIES
 
 #### Status
 ACCEPTED

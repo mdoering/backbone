@@ -1,5 +1,4 @@
-Aecidium aspiliae Gjaerum SPECIES
-=======
+# Aecidium aspiliae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

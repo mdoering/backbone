@@ -1,5 +1,4 @@
-Arthopyrenia antillarum Vain. SPECIES
-=======
+# Arthopyrenia antillarum Vain. SPECIES
 
 #### Status
 ACCEPTED

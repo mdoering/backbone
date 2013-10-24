@@ -1,5 +1,4 @@
-Otidea domingensis (Berk.) Sacc. SPECIES
-=======
+# Otidea domingensis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

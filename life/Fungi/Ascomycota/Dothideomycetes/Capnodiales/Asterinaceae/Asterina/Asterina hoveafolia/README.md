@@ -1,5 +1,4 @@
-Asterina hoveafolia Cooke & Massee SPECIES
-=======
+# Asterina hoveafolia Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

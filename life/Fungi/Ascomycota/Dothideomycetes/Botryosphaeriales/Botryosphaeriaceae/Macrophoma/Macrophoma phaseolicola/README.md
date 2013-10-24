@@ -1,5 +1,4 @@
-Macrophoma phaseolicola L.A. Kantsch. SPECIES
-=======
+# Macrophoma phaseolicola L.A. Kantsch. SPECIES
 
 #### Status
 ACCEPTED

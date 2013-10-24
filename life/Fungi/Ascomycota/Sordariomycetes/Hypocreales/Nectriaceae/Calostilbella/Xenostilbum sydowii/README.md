@@ -1,5 +1,4 @@
-Xenostilbum sydowii Petr. SPECIES
-=======
+# Xenostilbum sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

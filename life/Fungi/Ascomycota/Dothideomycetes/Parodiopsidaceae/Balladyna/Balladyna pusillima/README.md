@@ -1,5 +1,4 @@
-Balladyna pusillima (Syd.) Arx SPECIES
-=======
+# Balladyna pusillima (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

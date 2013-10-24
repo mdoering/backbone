@@ -1,5 +1,4 @@
-Stereocaulon montagneanum I.M. Lamb SPECIES
-=======
+# Stereocaulon montagneanum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

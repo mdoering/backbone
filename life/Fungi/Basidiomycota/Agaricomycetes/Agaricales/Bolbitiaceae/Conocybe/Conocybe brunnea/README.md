@@ -1,17 +1,16 @@
-Galera brunnea (Kühner) J.E. Lange, 1938 SPECIES
-=======
+# Conocybe brunnea J.E. Lange & Kühner ex Watling, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 9(no. 6): 39 (1938)
+Persoonia 6(3): 319 (1971)
 
 #### Original name
-Galerina intermedia var. brunnea Kühner, 1935
+Conocybe brunnea J.E. Lange & Kühner ex Watling, 1971
 
 ### Remarks
 null

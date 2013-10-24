@@ -1,5 +1,4 @@
-Sporidesmium artocarpi Subram. SPECIES
-=======
+# Sporidesmium artocarpi Subram. SPECIES
 
 #### Status
 ACCEPTED

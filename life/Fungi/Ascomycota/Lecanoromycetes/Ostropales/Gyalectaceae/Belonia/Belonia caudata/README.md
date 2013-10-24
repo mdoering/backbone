@@ -1,5 +1,4 @@
-Belonia caudata (Vezda & Vivant) P.M. Jørg. & Vezda SPECIES
-=======
+# Belonia caudata (Vezda & Vivant) P.M. Jørg. & Vezda SPECIES
 
 #### Status
 ACCEPTED

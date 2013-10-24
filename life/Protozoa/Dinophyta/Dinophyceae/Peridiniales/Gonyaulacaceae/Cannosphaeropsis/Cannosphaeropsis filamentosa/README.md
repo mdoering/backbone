@@ -1,5 +1,4 @@
-Cannosphaeropsis filamentosa Cookson & Eisenack SPECIES
-=======
+# Cannosphaeropsis filamentosa Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriopsis queletii (P. Karst.) Samuels SPECIES
-=======
+# Nectriopsis queletii (P. Karst.) Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillariella solidipes (Peck) T.J. Baroni SPECIES
-=======
+# Armillariella solidipes (Peck) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

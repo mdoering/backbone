@@ -1,5 +1,4 @@
-Bactridium helminthosporum C. Massal. SPECIES
-=======
+# Bactridium helminthosporum C. Massal. SPECIES
 
 #### Status
 ACCEPTED

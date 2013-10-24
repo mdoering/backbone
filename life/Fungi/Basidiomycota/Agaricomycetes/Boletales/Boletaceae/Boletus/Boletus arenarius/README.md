@@ -1,5 +1,4 @@
-Boletus arenarius Fr. SPECIES
-=======
+# Boletus arenarius Fr. SPECIES
 
 #### Status
 ACCEPTED

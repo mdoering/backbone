@@ -1,5 +1,4 @@
-Bisporella maireana (Rehm) R. Galán SPECIES
-=======
+# Bisporella maireana (Rehm) R. Galán SPECIES
 
 #### Status
 ACCEPTED

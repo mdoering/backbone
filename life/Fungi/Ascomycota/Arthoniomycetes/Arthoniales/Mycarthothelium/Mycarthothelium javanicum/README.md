@@ -1,5 +1,4 @@
-Mycarthothelium javanicum Räsänen SPECIES
-=======
+# Mycarthothelium javanicum Räsänen SPECIES
 
 #### Status
 ACCEPTED

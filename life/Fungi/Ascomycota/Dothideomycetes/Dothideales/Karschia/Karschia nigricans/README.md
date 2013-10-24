@@ -1,5 +1,4 @@
-Karschia nigricans Rehm SPECIES
-=======
+# Karschia nigricans Rehm SPECIES
 
 #### Status
 ACCEPTED

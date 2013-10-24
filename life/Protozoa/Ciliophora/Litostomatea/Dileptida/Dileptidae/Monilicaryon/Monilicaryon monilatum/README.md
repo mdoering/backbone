@@ -1,8 +1,7 @@
-Monilicaryon monilatus (Stokes, 1886) Jankowski, 1967 SPECIES
-=======
+# Monilicaryon monilatum (Stokes, 1886) Jankowski, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

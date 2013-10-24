@@ -1,5 +1,4 @@
-Chitonomyces grenadae Thaxt. SPECIES
-=======
+# Chitonomyces grenadae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

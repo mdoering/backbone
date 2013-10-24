@@ -1,5 +1,4 @@
-Gyrophora semitensis (Tuck.) Schol. SPECIES
-=======
+# Gyrophora semitensis (Tuck.) Schol. SPECIES
 
 #### Status
 ACCEPTED

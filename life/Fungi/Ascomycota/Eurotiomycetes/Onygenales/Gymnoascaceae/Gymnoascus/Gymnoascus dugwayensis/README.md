@@ -1,5 +1,4 @@
-Gymnoascus dugwayensis G.F. Orr & Kuehn SPECIES
-=======
+# Gymnoascus dugwayensis G.F. Orr & Kuehn SPECIES
 
 #### Status
 ACCEPTED

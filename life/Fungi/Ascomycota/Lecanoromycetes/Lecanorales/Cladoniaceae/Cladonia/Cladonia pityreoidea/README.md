@@ -1,5 +1,4 @@
-Cladonia pityreoidea Kremp. SPECIES
-=======
+# Cladonia pityreoidea Kremp. SPECIES
 
 #### Status
 ACCEPTED

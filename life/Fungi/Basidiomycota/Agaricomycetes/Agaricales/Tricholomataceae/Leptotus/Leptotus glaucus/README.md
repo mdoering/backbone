@@ -1,5 +1,4 @@
-Leptotus glaucus (Batsch) Maire SPECIES
-=======
+# Leptotus glaucus (Batsch) Maire SPECIES
 
 #### Status
 ACCEPTED

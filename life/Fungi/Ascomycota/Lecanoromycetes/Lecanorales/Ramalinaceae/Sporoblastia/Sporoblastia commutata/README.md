@@ -1,5 +1,4 @@
-Sporoblastia commutata (Ach.) Trevis. SPECIES
-=======
+# Sporoblastia commutata (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

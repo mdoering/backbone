@@ -1,5 +1,4 @@
-Grandinia lateritia Berk. & Broome SPECIES
-=======
+# Grandinia lateritia Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

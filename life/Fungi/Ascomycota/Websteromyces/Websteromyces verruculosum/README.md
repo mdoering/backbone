@@ -1,5 +1,4 @@
-Websteromyces verruculosum W.A. Baker & Partr., 2000 SPECIES
-=======
+# Websteromyces verruculosum W.A. Baker & Partr., 2000 SPECIES
 
 #### Status
 ACCEPTED

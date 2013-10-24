@@ -1,5 +1,4 @@
-Micromonospora endolithica Hirsch et al., 2004 SPECIES
-=======
+# Micromonospora endolithica Hirsch et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

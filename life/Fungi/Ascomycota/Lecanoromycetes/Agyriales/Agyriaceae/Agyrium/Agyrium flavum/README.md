@@ -1,5 +1,4 @@
-Agyrium flavum Fr. SPECIES
-=======
+# Agyrium flavum Fr. SPECIES
 
 #### Status
 ACCEPTED

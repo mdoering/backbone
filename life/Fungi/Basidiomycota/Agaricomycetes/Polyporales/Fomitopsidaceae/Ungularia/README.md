@@ -1,5 +1,4 @@
-Ungularia GENUS
-=======
+# Ungularia GENUS
 
 #### Status
 ACCEPTED

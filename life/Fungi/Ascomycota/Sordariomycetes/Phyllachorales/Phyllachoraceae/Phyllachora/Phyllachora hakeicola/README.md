@@ -1,5 +1,4 @@
-Phyllachora hakeicola cuttacuttae C.A. Pearce & K.D. Hyde, 2001 INFRASPECIFIC_NAME
-=======
+# Phyllachora hakeicola SPECIES
 
 #### Status
 ACCEPTED

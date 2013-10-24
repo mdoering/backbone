@@ -1,5 +1,4 @@
-Clavomphalia yunnanensis E. Horak, 1987 SPECIES
-=======
+# Clavomphalia yunnanensis E. Horak, 1987 SPECIES
 
 #### Status
 ACCEPTED

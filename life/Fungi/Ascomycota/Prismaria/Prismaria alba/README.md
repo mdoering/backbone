@@ -1,5 +1,4 @@
-Prismaria alba Preuss, 1851 SPECIES
-=======
+# Prismaria alba Preuss, 1851 SPECIES
 
 #### Status
 ACCEPTED

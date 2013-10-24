@@ -1,5 +1,4 @@
-Coenogonium stenosporum (Malme) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium stenosporum (Malme) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

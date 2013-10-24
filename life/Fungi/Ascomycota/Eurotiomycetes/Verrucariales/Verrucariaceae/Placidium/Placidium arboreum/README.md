@@ -1,5 +1,4 @@
-Placidium arboreum (Schwein. ex E. Michener) Lendemer SPECIES
-=======
+# Placidium arboreum (Schwein. ex E. Michener) Lendemer SPECIES
 
 #### Status
 ACCEPTED

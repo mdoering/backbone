@@ -1,5 +1,4 @@
-Leptogium sulcatum M. Lindstr. SPECIES
-=======
+# Leptogium sulcatum M. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

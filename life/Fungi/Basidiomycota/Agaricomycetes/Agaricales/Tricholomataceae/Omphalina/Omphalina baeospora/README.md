@@ -1,5 +1,4 @@
-Omphalina baeospora Singer SPECIES
-=======
+# Omphalina baeospora Singer SPECIES
 
 #### Status
 ACCEPTED

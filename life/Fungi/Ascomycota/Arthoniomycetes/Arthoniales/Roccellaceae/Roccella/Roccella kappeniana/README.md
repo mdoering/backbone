@@ -1,5 +1,4 @@
-Roccella kappeniana Follmann & B. Werner SPECIES
-=======
+# Roccella kappeniana Follmann & B. Werner SPECIES
 
 #### Status
 ACCEPTED

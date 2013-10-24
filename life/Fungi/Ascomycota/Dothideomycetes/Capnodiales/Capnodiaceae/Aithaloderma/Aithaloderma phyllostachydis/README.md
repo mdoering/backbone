@@ -1,5 +1,4 @@
-Aithaloderma phyllostachydis Hara SPECIES
-=======
+# Aithaloderma phyllostachydis Hara SPECIES
 
 #### Status
 ACCEPTED

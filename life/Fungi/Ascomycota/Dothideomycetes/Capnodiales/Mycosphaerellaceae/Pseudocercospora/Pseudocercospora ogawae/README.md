@@ -1,5 +1,4 @@
-Pseudocercospora ogawae (Katsuki & Ts. Kobay.) Deighton SPECIES
-=======
+# Pseudocercospora ogawae (Katsuki & Ts. Kobay.) Deighton SPECIES
 
 #### Status
 ACCEPTED

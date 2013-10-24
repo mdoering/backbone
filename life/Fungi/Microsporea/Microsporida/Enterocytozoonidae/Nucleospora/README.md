@@ -1,5 +1,4 @@
-Nucleospora R.P. Hedrick, J.M. Groff & D.V. Baxa GENUS
-=======
+# Nucleospora R.P. Hedrick, J.M. Groff & D.V. Baxa GENUS
 
 #### Status
 ACCEPTED

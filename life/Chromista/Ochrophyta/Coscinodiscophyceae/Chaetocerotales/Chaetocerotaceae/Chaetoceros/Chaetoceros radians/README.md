@@ -1,5 +1,4 @@
-Chaetoceros radians Schutt SPECIES
-=======
+# Chaetoceros radians Schutt SPECIES
 
 #### Status
 ACCEPTED

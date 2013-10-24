@@ -1,5 +1,4 @@
-Codonellopsis nipponica SPECIES
-=======
+# Codonellopsis nipponica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterographium quercinum Sibilia SPECIES
-=======
+# Hysterographium quercinum Sibilia SPECIES
 
 #### Status
 ACCEPTED

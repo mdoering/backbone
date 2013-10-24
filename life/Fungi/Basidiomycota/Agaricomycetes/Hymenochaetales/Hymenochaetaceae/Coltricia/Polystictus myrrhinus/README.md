@@ -1,5 +1,4 @@
-Polystictus myrrhinus (J.J. Kickx) Fr. SPECIES
-=======
+# Polystictus myrrhinus (J.J. Kickx) Fr. SPECIES
 
 #### Status
 ACCEPTED

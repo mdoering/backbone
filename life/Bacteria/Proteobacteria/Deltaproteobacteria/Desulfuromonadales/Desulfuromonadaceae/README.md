@@ -1,5 +1,4 @@
-Desulfuromonadaceae FAMILY
-=======
+# Desulfuromonadaceae FAMILY
 
 #### Status
 ACCEPTED

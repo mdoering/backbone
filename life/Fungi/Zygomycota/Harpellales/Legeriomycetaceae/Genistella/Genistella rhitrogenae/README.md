@@ -1,5 +1,4 @@
-Genistella rhitrogenae Tuzet & Manier SPECIES
-=======
+# Genistella rhitrogenae Tuzet & Manier SPECIES
 
 #### Status
 ACCEPTED

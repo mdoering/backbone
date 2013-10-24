@@ -1,5 +1,4 @@
-Erysibe senecionis Wallr. SPECIES
-=======
+# Erysibe senecionis Wallr. SPECIES
 
 #### Status
 ACCEPTED

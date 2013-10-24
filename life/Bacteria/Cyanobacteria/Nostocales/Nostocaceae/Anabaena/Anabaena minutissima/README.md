@@ -1,5 +1,4 @@
-Anabaena minutissima Lemmermann SPECIES
-=======
+# Anabaena minutissima Lemmermann SPECIES
 
 #### Status
 ACCEPTED

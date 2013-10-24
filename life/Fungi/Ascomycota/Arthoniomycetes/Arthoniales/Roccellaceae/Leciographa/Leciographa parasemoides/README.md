@@ -1,14 +1,13 @@
-Dactylospora parasemoides (Rehm) Remler SPECIES
-=======
+# Leciographa parasemoides Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Biblthca Mycol. 68: 266 (1980)
+Discom. 373 (1890)
 
 #### Original name
 Leciographa parasemoides Rehm

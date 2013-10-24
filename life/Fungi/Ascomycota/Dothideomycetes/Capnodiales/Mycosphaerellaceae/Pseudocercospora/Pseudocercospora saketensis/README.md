@@ -1,5 +1,4 @@
-Pseudocercospora saketensis P. Mukerjee & B.B. Singh SPECIES
-=======
+# Pseudocercospora saketensis P. Mukerjee & B.B. Singh SPECIES
 
 #### Status
 ACCEPTED

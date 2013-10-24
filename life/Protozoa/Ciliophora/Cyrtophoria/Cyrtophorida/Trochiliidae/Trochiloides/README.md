@@ -1,5 +1,4 @@
-Trochiloides GENUS
-=======
+# Trochiloides GENUS
 
 #### Status
 ACCEPTED

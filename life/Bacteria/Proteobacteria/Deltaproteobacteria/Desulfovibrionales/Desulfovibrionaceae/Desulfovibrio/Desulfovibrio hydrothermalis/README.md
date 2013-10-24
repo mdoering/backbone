@@ -1,5 +1,4 @@
-Desulfovibrio hydrothermalis Alazard et al., 2003 SPECIES
-=======
+# Desulfovibrio hydrothermalis Alazard et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archipera Haeckel, 1881 GENUS
-=======
+# Archipera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

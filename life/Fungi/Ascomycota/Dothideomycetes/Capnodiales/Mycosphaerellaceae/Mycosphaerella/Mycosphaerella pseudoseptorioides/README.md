@@ -1,5 +1,4 @@
-Mycosphaerella pseudoseptorioides Tomilin, 1979 SPECIES
-=======
+# Mycosphaerella pseudoseptorioides Tomilin, 1979 SPECIES
 
 #### Status
 ACCEPTED

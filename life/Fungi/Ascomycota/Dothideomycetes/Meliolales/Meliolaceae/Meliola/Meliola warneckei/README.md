@@ -1,5 +1,4 @@
-Meliola warneckei Hansf. SPECIES
-=======
+# Meliola warneckei Hansf. SPECIES
 
 #### Status
 ACCEPTED

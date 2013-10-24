@@ -1,5 +1,4 @@
-Kylindria GENUS
-=======
+# Kylindria GENUS
 
 #### Status
 ACCEPTED

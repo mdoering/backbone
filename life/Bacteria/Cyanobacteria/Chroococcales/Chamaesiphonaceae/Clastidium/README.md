@@ -1,5 +1,4 @@
-Clastidium O. Kirchner, 1880 GENUS
-=======
+# Clastidium O. Kirchner, 1880 GENUS
 
 #### Status
 ACCEPTED

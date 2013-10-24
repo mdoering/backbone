@@ -1,5 +1,4 @@
-Hygrocybe pseudoadonis S.A. Cantrell & Lodge SPECIES
-=======
+# Hygrocybe pseudoadonis S.A. Cantrell & Lodge SPECIES
 
 #### Status
 ACCEPTED

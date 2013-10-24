@@ -1,5 +1,4 @@
-Cycladophora cosma Lombari & Lazarus, 1988 SPECIES
-=======
+# Cycladophora cosma Lombari & Lazarus, 1988 SPECIES
 
 #### Status
 ACCEPTED

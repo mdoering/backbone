@@ -1,5 +1,4 @@
-Muyocopron manihoticola Chevaug. SPECIES
-=======
+# Muyocopron manihoticola Chevaug. SPECIES
 
 #### Status
 ACCEPTED

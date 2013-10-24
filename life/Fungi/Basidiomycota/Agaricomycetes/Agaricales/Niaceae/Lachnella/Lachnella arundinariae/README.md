@@ -1,5 +1,4 @@
-Lachnella arundinariae (E.K. Cash) Seaver SPECIES
-=======
+# Lachnella arundinariae (E.K. Cash) Seaver SPECIES
 
 #### Status
 ACCEPTED

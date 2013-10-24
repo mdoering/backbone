@@ -1,5 +1,4 @@
-Dimerina jacquiniae Garman SPECIES
-=======
+# Dimerina jacquiniae Garman SPECIES
 
 #### Status
 ACCEPTED

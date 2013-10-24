@@ -1,5 +1,4 @@
-Fungus piriformis Scop. SPECIES
-=======
+# Fungus piriformis Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomatospora acrostichi K.D. Hyde, 1988 SPECIES
-=======
+# Phomatospora acrostichi K.D. Hyde, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus silenus Berk. & Broome SPECIES
-=======
+# Agaricus silenus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

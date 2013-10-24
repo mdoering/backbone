@@ -1,5 +1,4 @@
-Thalassiosira jouseae F. Akiba SPECIES
-=======
+# Thalassiosira jouseae F. Akiba SPECIES
 
 #### Status
 ACCEPTED

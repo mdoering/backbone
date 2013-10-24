@@ -1,5 +1,4 @@
-Hygrophorus gliocyclus Fr. SPECIES
-=======
+# Hygrophorus gliocyclus Fr. SPECIES
 
 #### Status
 ACCEPTED

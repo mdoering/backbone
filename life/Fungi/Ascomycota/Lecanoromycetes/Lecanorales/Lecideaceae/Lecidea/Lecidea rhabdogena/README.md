@@ -1,5 +1,4 @@
-Lecidea rhabdogena (Norman) Th. Fr. SPECIES
-=======
+# Lecidea rhabdogena (Norman) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

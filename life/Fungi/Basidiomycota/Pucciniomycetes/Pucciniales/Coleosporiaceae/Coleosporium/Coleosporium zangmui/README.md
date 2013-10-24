@@ -1,5 +1,4 @@
-Coleosporium zangmui Y.Z. Wang & S.X. Wei SPECIES
-=======
+# Coleosporium zangmui Y.Z. Wang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

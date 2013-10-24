@@ -1,5 +1,4 @@
-Lecanora semiglobosa Lynge SPECIES
-=======
+# Lecanora semiglobosa Lynge SPECIES
 
 #### Status
 ACCEPTED

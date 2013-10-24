@@ -1,5 +1,4 @@
-Spiniferites dentatus (H. Gocht) R. J. Davey SPECIES
-=======
+# Spiniferites dentatus (H. Gocht) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium heveanum Sacc. SPECIES
-=======
+# Hysterium heveanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

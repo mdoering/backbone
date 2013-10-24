@@ -1,5 +1,4 @@
-Exidia maracensis Lowy SPECIES
-=======
+# Exidia maracensis Lowy SPECIES
 
 #### Status
 ACCEPTED

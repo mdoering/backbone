@@ -1,5 +1,4 @@
-Fleischeria javanica Penz. & Sacc. SPECIES
-=======
+# Fleischeria javanica Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

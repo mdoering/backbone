@@ -1,5 +1,4 @@
-Cibicidoides corpulentus (Phleger & Parker, 1952) SPECIES
-=======
+# Cibicidoides corpulentus (Phleger & Parker, 1952) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus papillaris J. Schröt. SPECIES
-=======
+# Dasyscyphus papillaris J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

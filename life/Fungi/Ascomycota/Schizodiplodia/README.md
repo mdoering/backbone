@@ -1,5 +1,4 @@
-Schizodiplodia GENUS
-=======
+# Schizodiplodia GENUS
 
 #### Status
 ACCEPTED

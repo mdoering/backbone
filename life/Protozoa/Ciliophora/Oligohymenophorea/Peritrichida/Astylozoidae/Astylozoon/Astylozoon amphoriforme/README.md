@@ -1,5 +1,4 @@
-Astylozoon amphoriforme SPECIES
-=======
+# Astylozoon amphoriforme SPECIES
 
 #### Status
 ACCEPTED

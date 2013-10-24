@@ -1,5 +1,4 @@
-Helotium cyparissias Velen. SPECIES
-=======
+# Helotium cyparissias Velen. SPECIES
 
 #### Status
 ACCEPTED

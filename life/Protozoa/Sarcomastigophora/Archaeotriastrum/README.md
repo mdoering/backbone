@@ -1,5 +1,4 @@
-Archaeotriastrum de Wever, 1981 GENUS
-=======
+# Archaeotriastrum de Wever, 1981 GENUS
 
 #### Status
 ACCEPTED

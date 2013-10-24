@@ -1,5 +1,4 @@
-Coprinus alnicola Copel. SPECIES
-=======
+# Coprinus alnicola Copel. SPECIES
 
 #### Status
 ACCEPTED

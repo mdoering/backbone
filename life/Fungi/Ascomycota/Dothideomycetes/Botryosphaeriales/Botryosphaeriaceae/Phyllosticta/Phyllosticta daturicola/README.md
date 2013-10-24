@@ -1,5 +1,4 @@
-Phyllosticta daturicola Cejp SPECIES
-=======
+# Phyllosticta daturicola Cejp SPECIES
 
 #### Status
 ACCEPTED

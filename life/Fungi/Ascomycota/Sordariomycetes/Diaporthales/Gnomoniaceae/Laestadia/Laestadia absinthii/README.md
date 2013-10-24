@@ -1,5 +1,4 @@
-Laestadia absinthii Pass. SPECIES
-=======
+# Laestadia absinthii Pass. SPECIES
 
 #### Status
 ACCEPTED

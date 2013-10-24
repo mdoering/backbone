@@ -1,5 +1,4 @@
-Vanderwaltozyma tropicalis Nakase, Jindam., Tanaka, Ninomiya, Limtong, Kawasaki & C. F. Lee, 2010 SPECIES
-=======
+# Vanderwaltozyma tropicalis Nakase, Jindam., Tanaka, Ninomiya, Limtong, Kawasaki & C. F. Lee, 2010 SPECIES
 
 #### Status
 ACCEPTED

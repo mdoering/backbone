@@ -1,8 +1,7 @@
-Bacillus salexigens Garabito et al., 1997 SPECIES
-=======
+# Virgibacillus salexigens (Garabito et al., 1997) Heyrman et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

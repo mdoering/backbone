@@ -1,5 +1,4 @@
-Bacillus isabeliae Albuquerque, Tiago, Taborda, Nobre, Verissimo & Costa, 2008 SPECIES
-=======
+# Bacillus isabeliae Albuquerque, Tiago, Taborda, Nobre, Verissimo & Costa, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phlyctochytrium spectabile Uebelm., 1956 SPECIES
-=======
+# Gaertneriomyces spectabile S.F. Chen & C.Y. Chien, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Mikrobiol. 25: 315 (1956)
+in Chen, Hsu & Chien, Bot. Bull. Acad. sin. , Taipei 41(1): 73 (2000)
 
 #### Original name
-Phlyctochytrium spectabile Uebelm., 1956
+Gaertneriomyces spectabile S.F. Chen & C.Y. Chien, 2000
 
 ### Remarks
 null

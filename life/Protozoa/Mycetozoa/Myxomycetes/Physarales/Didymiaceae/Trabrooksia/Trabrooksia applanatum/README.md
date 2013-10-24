@@ -1,5 +1,4 @@
-Trabrooksia applanatum Keller SPECIES
-=======
+# Trabrooksia applanatum Keller SPECIES
 
 #### Status
 ACCEPTED

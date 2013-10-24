@@ -1,5 +1,4 @@
-Cortinarius subodoratus Bidaud SPECIES
-=======
+# Cortinarius subodoratus Bidaud SPECIES
 
 #### Status
 ACCEPTED

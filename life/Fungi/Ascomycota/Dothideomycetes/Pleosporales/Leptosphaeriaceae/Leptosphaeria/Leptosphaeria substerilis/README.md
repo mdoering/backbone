@@ -1,5 +1,4 @@
-Leptosphaeria substerilis Peck SPECIES
-=======
+# Leptosphaeria substerilis Peck SPECIES
 
 #### Status
 ACCEPTED

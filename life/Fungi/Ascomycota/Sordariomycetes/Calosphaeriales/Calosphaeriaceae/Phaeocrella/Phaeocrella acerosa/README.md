@@ -1,5 +1,4 @@
-Phaeocrella acerosa Réblová, L. Mostert, W. Gams & Crous, 2004 SPECIES
-=======
+# Phaeocrella acerosa Réblová, L. Mostert, W. Gams & Crous, 2004 SPECIES
 
 #### Status
 ACCEPTED

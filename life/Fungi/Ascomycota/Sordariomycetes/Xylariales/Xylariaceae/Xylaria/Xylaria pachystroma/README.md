@@ -1,5 +1,4 @@
-Xylaria pachystroma Sacc. SPECIES
-=======
+# Xylaria pachystroma Sacc. SPECIES
 
 #### Status
 ACCEPTED

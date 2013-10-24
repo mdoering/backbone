@@ -1,5 +1,4 @@
-Rhizocarpon glaucescens (Th. Fr.) Zahlbr. SPECIES
-=======
+# Rhizocarpon glaucescens (Th. Fr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

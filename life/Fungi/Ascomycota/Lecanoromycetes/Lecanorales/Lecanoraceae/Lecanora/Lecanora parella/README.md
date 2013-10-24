@@ -1,5 +1,4 @@
-Lecanora parella f. parella FORM
-=======
+# Lecanora parella SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora parella f. parella
+null
 
 ### Remarks
 null

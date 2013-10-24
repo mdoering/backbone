@@ -1,5 +1,4 @@
-Amphoridium pseudominutum (Servít) Servít SPECIES
-=======
+# Amphoridium pseudominutum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

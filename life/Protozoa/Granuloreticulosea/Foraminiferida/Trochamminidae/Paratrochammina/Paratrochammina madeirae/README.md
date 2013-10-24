@@ -1,5 +1,4 @@
-Paratrochammina madeirae Bronnimann, 1979 SPECIES
-=======
+# Paratrochammina madeirae Bronnimann, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia rhamnincola Petr. SPECIES
-=======
+# Microdiplodia rhamnincola Petr. SPECIES
 
 #### Status
 ACCEPTED

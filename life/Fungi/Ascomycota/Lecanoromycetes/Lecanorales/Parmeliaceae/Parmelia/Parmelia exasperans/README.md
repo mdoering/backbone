@@ -1,5 +1,4 @@
-Parmelia exasperans (Nyl.) Gyeln. SPECIES
-=======
+# Parmelia exasperans (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete opaca Burt, 1918 SPECIES
-=======
+# Hymenochaete opaca Burt, 1918 SPECIES
 
 #### Status
 ACCEPTED

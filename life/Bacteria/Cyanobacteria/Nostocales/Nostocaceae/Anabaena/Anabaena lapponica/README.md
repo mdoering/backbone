@@ -1,5 +1,4 @@
-Anabaena lapponica Borge SPECIES
-=======
+# Anabaena lapponica Borge SPECIES
 
 #### Status
 ACCEPTED

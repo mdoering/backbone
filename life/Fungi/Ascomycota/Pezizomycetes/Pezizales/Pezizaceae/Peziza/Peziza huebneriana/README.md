@@ -1,5 +1,4 @@
-Peziza huebneriana Rabenh. SPECIES
-=======
+# Peziza huebneriana Rabenh. SPECIES
 
 #### Status
 ACCEPTED

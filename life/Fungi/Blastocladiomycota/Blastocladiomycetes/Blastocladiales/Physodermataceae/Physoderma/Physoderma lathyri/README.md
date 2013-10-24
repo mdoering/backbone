@@ -1,14 +1,13 @@
-Urophlyctis lathyri Palm, 1911 SPECIES
-=======
+# Physoderma lathyri (Palm) Karling, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 5: 351 (1911)
+Lloydia 13(1): 57 (1950)
 
 #### Original name
 Urophlyctis lathyri Palm, 1911

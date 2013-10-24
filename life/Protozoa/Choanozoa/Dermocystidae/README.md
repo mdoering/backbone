@@ -1,5 +1,4 @@
-Dermocystidae FAMILY
-=======
+# Dermocystidae FAMILY
 
 #### Status
 ACCEPTED

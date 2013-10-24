@@ -1,5 +1,4 @@
-Mycena picea Velen. SPECIES
-=======
+# Mycena picea Velen. SPECIES
 
 #### Status
 ACCEPTED

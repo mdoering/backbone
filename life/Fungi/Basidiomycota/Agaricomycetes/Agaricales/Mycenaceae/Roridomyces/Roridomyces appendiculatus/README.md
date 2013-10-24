@@ -1,5 +1,4 @@
-Roridomyces appendiculatus Rexer, 1994 SPECIES
-=======
+# Roridomyces appendiculatus Rexer, 1994 SPECIES
 
 #### Status
 ACCEPTED

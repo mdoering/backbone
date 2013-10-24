@@ -1,5 +1,4 @@
-Dimerosporium punctiforme Henn. SPECIES
-=======
+# Dimerosporium punctiforme Henn. SPECIES
 
 #### Status
 ACCEPTED

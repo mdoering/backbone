@@ -1,5 +1,4 @@
-Balansina stellata G. Arnaud SPECIES
-=======
+# Balansina stellata G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

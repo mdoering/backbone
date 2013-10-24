@@ -1,5 +1,4 @@
-Hydnum coriaceomembranaceum Schwein. SPECIES
-=======
+# Hydnum coriaceomembranaceum Schwein. SPECIES
 
 #### Status
 ACCEPTED

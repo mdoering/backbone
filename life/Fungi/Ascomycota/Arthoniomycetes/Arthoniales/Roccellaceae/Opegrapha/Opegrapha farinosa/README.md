@@ -1,5 +1,4 @@
-Opegrapha farinosa Hepp SPECIES
-=======
+# Opegrapha farinosa Hepp SPECIES
 
 #### Status
 ACCEPTED

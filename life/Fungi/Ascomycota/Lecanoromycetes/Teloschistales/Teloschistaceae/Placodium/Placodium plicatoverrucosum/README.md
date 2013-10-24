@@ -1,5 +1,4 @@
-Placodium plicatoverrucosum Räsänen SPECIES
-=======
+# Placodium plicatoverrucosum Räsänen SPECIES
 
 #### Status
 ACCEPTED

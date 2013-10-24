@@ -1,5 +1,4 @@
-Arthrobacter russicus Li et al., 2004 SPECIES
-=======
+# Arthrobacter russicus Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

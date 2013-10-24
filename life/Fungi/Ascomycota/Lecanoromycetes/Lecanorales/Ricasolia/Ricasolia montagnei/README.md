@@ -1,5 +1,4 @@
-Ricasolia montagnei (C. Bab.) Nyl. SPECIES
-=======
+# Ricasolia montagnei (C. Bab.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

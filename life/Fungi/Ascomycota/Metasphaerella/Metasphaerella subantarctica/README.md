@@ -1,5 +1,4 @@
-Metasphaerella subantarctica Speg. SPECIES
-=======
+# Metasphaerella subantarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

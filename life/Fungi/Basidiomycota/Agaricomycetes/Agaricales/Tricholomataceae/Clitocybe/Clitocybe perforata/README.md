@@ -1,5 +1,4 @@
-Clitocybe perforata Corner SPECIES
-=======
+# Clitocybe perforata Corner SPECIES
 
 #### Status
 ACCEPTED

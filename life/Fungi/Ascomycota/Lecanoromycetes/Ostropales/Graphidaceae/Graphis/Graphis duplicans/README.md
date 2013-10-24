@@ -1,5 +1,4 @@
-Graphis duplicans (Müll. Arg.) Stizenb. SPECIES
-=======
+# Graphis duplicans (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

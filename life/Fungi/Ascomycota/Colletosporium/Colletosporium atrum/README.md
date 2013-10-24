@@ -1,5 +1,4 @@
-Colletosporium atrum Link SPECIES
-=======
+# Colletosporium atrum Link SPECIES
 
 #### Status
 ACCEPTED

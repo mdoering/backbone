@@ -1,5 +1,4 @@
-Peridinium murray Kofoid SPECIES
-=======
+# Peridinium murray Kofoid SPECIES
 
 #### Status
 ACCEPTED

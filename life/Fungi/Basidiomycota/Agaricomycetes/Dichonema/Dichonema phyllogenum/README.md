@@ -1,5 +1,4 @@
-Dichonema phyllogenum SPECIES
-=======
+# Dichonema phyllogenum SPECIES
 
 #### Status
 ACCEPTED

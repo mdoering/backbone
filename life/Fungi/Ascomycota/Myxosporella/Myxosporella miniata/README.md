@@ -1,17 +1,16 @@
-Myxosporella mineata Sacc. SPECIES
-=======
+# Myxosporella miniata Sacc., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 7): 381 (1881)
 
 #### Original name
-Myxosporella mineata Sacc.
+Myxosporella miniata Sacc., 1881
 
 ### Remarks
 null

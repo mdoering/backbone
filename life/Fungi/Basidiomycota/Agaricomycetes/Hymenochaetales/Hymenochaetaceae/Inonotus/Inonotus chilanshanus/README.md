@@ -1,5 +1,4 @@
-Inonotus chilanshanus T.T. Chang & W.N. Chou, 2000 SPECIES
-=======
+# Inonotus chilanshanus T.T. Chang & W.N. Chou, 2000 SPECIES
 
 #### Status
 ACCEPTED

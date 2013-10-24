@@ -1,17 +1,16 @@
-Inocybe oehrensi Garrido & E. Horak SPECIES
-=======
+# Inocybe oehrensii Garrido & E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Garrido, Biblthca Mycol. 120: 175 (1988)
 
 #### Original name
-Inocybe oehrensi Garrido & E. Horak
+Inocybe oehrensii Garrido & E. Horak
 
 ### Remarks
 null

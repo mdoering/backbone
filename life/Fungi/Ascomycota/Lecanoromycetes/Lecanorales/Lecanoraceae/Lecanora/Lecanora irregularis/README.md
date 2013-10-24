@@ -1,5 +1,4 @@
-Lecanora irregularis Schwein. SPECIES
-=======
+# Lecanora irregularis Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrgidiomyces GENUS
-=======
+# Pyrgidiomyces GENUS
 
 #### Status
 ACCEPTED

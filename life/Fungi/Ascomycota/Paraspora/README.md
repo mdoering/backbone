@@ -1,5 +1,4 @@
-Paraspora Grove, 1884 GENUS
-=======
+# Paraspora Grove, 1884 GENUS
 
 #### Status
 ACCEPTED

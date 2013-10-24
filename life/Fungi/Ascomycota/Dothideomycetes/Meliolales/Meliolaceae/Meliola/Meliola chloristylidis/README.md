@@ -1,5 +1,4 @@
-Meliola chloristylidis Doidge SPECIES
-=======
+# Meliola chloristylidis Doidge SPECIES
 
 #### Status
 ACCEPTED

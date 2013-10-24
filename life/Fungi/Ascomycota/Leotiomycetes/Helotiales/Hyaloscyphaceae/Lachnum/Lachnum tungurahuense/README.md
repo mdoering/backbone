@@ -1,5 +1,4 @@
-Lachnum tungurahuense Petr. SPECIES
-=======
+# Lachnum tungurahuense Petr. SPECIES
 
 #### Status
 ACCEPTED

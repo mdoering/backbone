@@ -1,5 +1,4 @@
-Micrhystridium granospinosum Wheeler & Sarjeant, 1990 SPECIES
-=======
+# Micrhystridium granospinosum Wheeler & Sarjeant, 1990 SPECIES
 
 #### Status
 ACCEPTED

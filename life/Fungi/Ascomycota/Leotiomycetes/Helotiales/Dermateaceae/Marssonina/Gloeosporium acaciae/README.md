@@ -1,5 +1,4 @@
-Gloeosporium acaciae McAlpine SPECIES
-=======
+# Gloeosporium acaciae McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon ochraceisporus A.H. Sm. SPECIES
-=======
+# Rhizopogon ochraceisporus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

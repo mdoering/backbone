@@ -1,5 +1,4 @@
-Septoria silbyi Pass. SPECIES
-=======
+# Septoria silbyi Pass. SPECIES
 
 #### Status
 ACCEPTED

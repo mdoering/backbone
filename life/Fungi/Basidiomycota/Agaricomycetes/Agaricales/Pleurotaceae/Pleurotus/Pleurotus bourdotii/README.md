@@ -1,5 +1,4 @@
-Pleurotus bourdotii (Quél.) Sacc. & Traverso SPECIES
-=======
+# Pleurotus bourdotii (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobotrys javanica (Rifai & R.C. Cooke) Jarow., 1970 SPECIES
-=======
+# Arthrobotrys javanica (Rifai & R.C. Cooke) Jarow., 1970 SPECIES
 
 #### Status
 ACCEPTED

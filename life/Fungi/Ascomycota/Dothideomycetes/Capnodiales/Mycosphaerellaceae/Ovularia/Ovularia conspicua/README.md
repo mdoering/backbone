@@ -1,5 +1,4 @@
-Ovularia conspicua var. conspicua VARIETY
-=======
+# Ovularia conspicua Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ovularia conspicua var. conspicua
+Ovularia conspicua Fautrey & Lambotte
 
 ### Remarks
 null

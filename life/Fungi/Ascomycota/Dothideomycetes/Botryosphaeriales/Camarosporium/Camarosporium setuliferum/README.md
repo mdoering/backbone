@@ -1,5 +1,4 @@
-Camarosporium setuliferum (Speg.) Petr. & Syd. SPECIES
-=======
+# Camarosporium setuliferum (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

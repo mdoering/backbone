@@ -1,17 +1,16 @@
-Nectria quisquilaris Cooke SPECIES
-=======
+# Nectria quisquiliaris Cooke, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 8(no. 46): 65 (1879)
 
 #### Original name
-Nectria quisquilaris Cooke
+Nectria quisquiliaris Cooke, 1879
 
 ### Remarks
 null

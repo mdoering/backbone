@@ -1,5 +1,4 @@
-Aphanocapsa smaragdina (Hauck) Hansgirg SPECIES
-=======
+# Aphanocapsa smaragdina (Hauck) Hansgirg SPECIES
 
 #### Status
 ACCEPTED

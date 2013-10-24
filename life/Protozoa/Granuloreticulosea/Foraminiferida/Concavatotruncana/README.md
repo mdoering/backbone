@@ -1,5 +1,4 @@
-Concavatotruncana Korchagin, 1982 GENUS
-=======
+# Concavatotruncana Korchagin, 1982 GENUS
 
 #### Status
 ACCEPTED

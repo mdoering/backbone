@@ -1,5 +1,4 @@
-Inactis hawaiiensis (Lemmermann) De Toni SPECIES
-=======
+# Inactis hawaiiensis (Lemmermann) De Toni SPECIES
 
 #### Status
 ACCEPTED

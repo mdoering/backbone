@@ -1,17 +1,16 @@
-Hygrophorus discoideus var. discoideus VARIETY
-=======
+# Hygrophorus discoxanthus Rea, 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 323 (1838)
+Trans. Br. mycol. Soc. 3(1): 45 (1908)
 
 #### Original name
-Hygrophorus discoideus var. discoideus
+Hygrophorus discoxanthus Rea, 1908
 
 ### Remarks
 null

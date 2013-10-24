@@ -1,5 +1,4 @@
-Graphis serograpta Nyl. SPECIES
-=======
+# Graphis serograpta Nyl. SPECIES
 
 #### Status
 ACCEPTED

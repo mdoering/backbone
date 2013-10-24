@@ -1,5 +1,4 @@
-Asterothyrites spinulatus (Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Asterothyrites spinulatus (Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

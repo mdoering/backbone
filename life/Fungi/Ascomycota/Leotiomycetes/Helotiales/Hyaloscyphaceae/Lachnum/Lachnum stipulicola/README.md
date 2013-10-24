@@ -1,5 +1,4 @@
-Lachnum stipulicola J.H. Haines SPECIES
-=======
+# Lachnum stipulicola J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca subincolor (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca subincolor (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

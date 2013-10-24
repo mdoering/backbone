@@ -1,5 +1,4 @@
-Laestadia paronychiae (Cooke) Sacc. SPECIES
-=======
+# Laestadia paronychiae (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

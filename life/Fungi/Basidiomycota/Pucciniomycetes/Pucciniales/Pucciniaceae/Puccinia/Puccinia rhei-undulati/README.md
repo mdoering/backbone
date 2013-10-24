@@ -1,5 +1,4 @@
-Puccinia rhei-undulati Hirats. f., 1935 SPECIES
-=======
+# Puccinia rhei-undulati Hirats. f., 1935 SPECIES
 
 #### Status
 ACCEPTED

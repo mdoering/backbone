@@ -1,5 +1,4 @@
-Niptera dehnii Sacc. SPECIES
-=======
+# Niptera dehnii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kushneria marisflavi Yoon, Kang, Lee, Kho, Kang & Park, 2001 SPECIES
-=======
+# Kushneria marisflavi Yoon, Kang, Lee, Kho, Kang & Park, 2001 SPECIES
 
 #### Status
 ACCEPTED

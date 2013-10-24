@@ -1,5 +1,4 @@
-Boletus albofarinaceus W.F. Chiu SPECIES
-=======
+# Boletus albofarinaceus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helostroma Pat. GENUS
-=======
+# Microstroma Niessl, 1861 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. mycol. Fr. 18: 52 (1902)
+null
 
 #### Original name
-Helostroma Pat.
+null
 
 ### Remarks
 null

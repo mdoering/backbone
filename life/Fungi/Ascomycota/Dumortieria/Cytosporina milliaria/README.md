@@ -1,5 +1,4 @@
-Cytosporina milliaria Sacc. SPECIES
-=======
+# Cytosporina milliaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

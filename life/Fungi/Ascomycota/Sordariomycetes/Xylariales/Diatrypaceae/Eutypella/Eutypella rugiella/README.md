@@ -1,5 +1,4 @@
-Eutypella rugiella (Cooke & Ellis) Sacc. SPECIES
-=======
+# Eutypella rugiella (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

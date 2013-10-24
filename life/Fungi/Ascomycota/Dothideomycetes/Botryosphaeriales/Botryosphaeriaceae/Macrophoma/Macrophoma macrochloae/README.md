@@ -1,5 +1,4 @@
-Macrophoma macrochloae Trab. SPECIES
-=======
+# Macrophoma macrochloae Trab. SPECIES
 
 #### Status
 ACCEPTED

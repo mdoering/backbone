@@ -1,5 +1,4 @@
-Fusidium moehringiae Thüm. SPECIES
-=======
+# Fusidium moehringiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

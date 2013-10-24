@@ -1,5 +1,4 @@
-Parmelia pannosa (Sw.) Sw. SPECIES
-=======
+# Parmelia pannosa (Sw.) Sw. SPECIES
 
 #### Status
 ACCEPTED

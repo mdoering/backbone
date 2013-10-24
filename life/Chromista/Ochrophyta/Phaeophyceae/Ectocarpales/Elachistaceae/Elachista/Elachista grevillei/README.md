@@ -1,5 +1,4 @@
-Elachista grevillei SPECIES
-=======
+# Elachista grevillei SPECIES
 
 #### Status
 ACCEPTED

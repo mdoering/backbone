@@ -1,5 +1,4 @@
-Podosporium spegazzinii Sacc. SPECIES
-=======
+# Podosporium spegazzinii Sacc. SPECIES
 
 #### Status
 ACCEPTED

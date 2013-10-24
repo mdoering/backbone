@@ -1,5 +1,4 @@
-Hymenoscyphus elaeinus (Sacc.) Kuntze SPECIES
-=======
+# Hymenoscyphus elaeinus (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

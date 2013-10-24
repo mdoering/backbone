@@ -1,5 +1,4 @@
-Praestylosphaera Empson-Morin, 1981 GENUS
-=======
+# Praestylosphaera Empson-Morin, 1981 GENUS
 
 #### Status
 ACCEPTED

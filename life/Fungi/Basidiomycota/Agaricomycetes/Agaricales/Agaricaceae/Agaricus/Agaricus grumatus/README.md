@@ -1,5 +1,4 @@
-Agaricus grumatus Scop. SPECIES
-=======
+# Agaricus grumatus Scop. SPECIES
 
 #### Status
 ACCEPTED

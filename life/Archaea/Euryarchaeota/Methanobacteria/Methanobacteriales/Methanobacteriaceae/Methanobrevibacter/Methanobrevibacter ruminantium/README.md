@@ -1,8 +1,7 @@
-Methanobacterium ruminantium Smith and Hungate, 1958 (Approved Lists, 1980) SPECIES
-=======
+# Methanobrevibacter ruminantium (Smith & Hungate, 1958) Balch & Wolfe, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

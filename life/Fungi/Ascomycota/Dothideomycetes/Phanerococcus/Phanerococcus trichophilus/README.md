@@ -1,5 +1,4 @@
-Phanerococcus trichophilus Syd. SPECIES
-=======
+# Phanerococcus trichophilus Syd. SPECIES
 
 #### Status
 ACCEPTED

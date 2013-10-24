@@ -1,5 +1,4 @@
-Spathidiopsis Fabre-Domergue, 1889 GENUS
-=======
+# Spathidiopsis Fabre-Domergue, 1889 GENUS
 
 #### Status
 ACCEPTED

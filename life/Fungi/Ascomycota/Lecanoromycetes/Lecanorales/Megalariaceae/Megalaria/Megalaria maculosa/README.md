@@ -1,5 +1,4 @@
-Megalaria maculosa (Stirt.) D.J. Galloway SPECIES
-=======
+# Megalaria maculosa (Stirt.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

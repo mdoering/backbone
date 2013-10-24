@@ -1,5 +1,4 @@
-Fusidium behenis Thüm. SPECIES
-=======
+# Fusidium behenis Thüm. SPECIES
 
 #### Status
 ACCEPTED

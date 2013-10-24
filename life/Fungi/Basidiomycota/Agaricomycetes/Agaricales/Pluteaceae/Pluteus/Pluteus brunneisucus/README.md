@@ -1,5 +1,4 @@
-Pluteus brunneisucus Pegler SPECIES
-=======
+# Pluteus brunneisucus Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macroplodia juniperi (Peck) Kuntze SPECIES
-=======
+# Macroplodia juniperi (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

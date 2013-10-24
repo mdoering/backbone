@@ -1,5 +1,4 @@
-Balladyna deightonii Hansf. SPECIES
-=======
+# Balladyna deightonii Hansf. SPECIES
 
 #### Status
 ACCEPTED

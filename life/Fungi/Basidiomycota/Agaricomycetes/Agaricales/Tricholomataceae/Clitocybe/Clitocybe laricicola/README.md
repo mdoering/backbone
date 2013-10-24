@@ -1,5 +1,4 @@
-Clitocybe laricicola Singer SPECIES
-=======
+# Clitocybe laricicola Singer SPECIES
 
 #### Status
 ACCEPTED

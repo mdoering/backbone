@@ -1,5 +1,4 @@
-Diaporthe tecomae Sacc. & P. Syd. SPECIES
-=======
+# Diaporthe tecomae Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

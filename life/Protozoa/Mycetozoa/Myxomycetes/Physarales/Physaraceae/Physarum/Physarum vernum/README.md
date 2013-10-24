@@ -1,17 +1,16 @@
-Physarum vernum f. parvisporum H. Singer, G. Moreno & Illana FORM
-=======
+# Physarum vernum Sommerf., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. Z. Pilzk. 13: 88 (2004)
+in Fries, Syst. mycol. (Lundae) 3(1): 146 (1829)
 
 #### Original name
-Physarum vernum f. parvisporum H. Singer, G. Moreno & Illana
+Physarum vernum Sommerf., 1829
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Matsushimomyces verrucophorus R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Matsushimomyces verrucophorus R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

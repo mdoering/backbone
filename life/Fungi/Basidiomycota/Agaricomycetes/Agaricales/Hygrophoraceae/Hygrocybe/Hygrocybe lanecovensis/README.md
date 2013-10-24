@@ -1,5 +1,4 @@
-Hygrocybe lanecovensis A.M. Young SPECIES
-=======
+# Hygrocybe lanecovensis A.M. Young SPECIES
 
 #### Status
 ACCEPTED

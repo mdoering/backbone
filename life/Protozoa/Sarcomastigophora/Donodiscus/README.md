@@ -1,5 +1,4 @@
-Donodiscus Vdovenko, 1988 GENUS
-=======
+# Donodiscus Vdovenko, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Verrucaria kelpii (Körb.) Sandst. SPECIES
-=======
+# Pyrenocollema halodytes (Nyl.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Egan, Bryologist 90(2): 164 (1987)
 
 #### Original name
-Arthopyrenia kelpii Körb.
+Verrucaria halodytes Nyl.
 
 ### Remarks
 null

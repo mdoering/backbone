@@ -1,5 +1,4 @@
-Psathyrella hoseneyae A.H. Sm. SPECIES
-=======
+# Psathyrella hoseneyae A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

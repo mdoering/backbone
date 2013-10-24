@@ -1,5 +1,4 @@
-Thelephora concolor Jungh. SPECIES
-=======
+# Thelephora concolor Jungh. SPECIES
 
 #### Status
 ACCEPTED

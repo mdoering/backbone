@@ -1,8 +1,7 @@
-Ascochyta anonaceae Henn. SPECIES
-=======
+# Ascochyta annonaceae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta anonaceae Henn.
+Ascochyta annonaceae Henn.
 
 ### Remarks
 null

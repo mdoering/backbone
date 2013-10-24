@@ -1,17 +1,16 @@
-Urnula Wiesner, 1931 GENUS
-=======
+# Ammopemphix Loeblich, 1952 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-Dtsch. Südpolar Exped. 1901-1903, 20, 82.
+J. Wash. Acad. Sci. , 42, 82.
 
 #### Original name
-null
+Urnula Wiesner, 1931
 
 ### Remarks
 null

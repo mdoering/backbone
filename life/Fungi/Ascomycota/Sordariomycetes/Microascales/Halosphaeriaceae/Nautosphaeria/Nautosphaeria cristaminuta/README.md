@@ -1,5 +1,4 @@
-Nautosphaeria cristaminuta E.B.G. Jones, 1964 SPECIES
-=======
+# Nautosphaeria cristaminuta E.B.G. Jones, 1964 SPECIES
 
 #### Status
 ACCEPTED

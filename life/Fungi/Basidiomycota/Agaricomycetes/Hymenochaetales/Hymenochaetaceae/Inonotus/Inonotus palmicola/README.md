@@ -1,5 +1,4 @@
-Inonotus palmicola Ryvarden, 1999 SPECIES
-=======
+# Inonotus palmicola Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

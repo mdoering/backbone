@@ -1,5 +1,4 @@
-Apostrasseria balsamicola (A. Funk) DiCosmo, Nag Raj & W.B. Kendr. SPECIES
-=======
+# Apostrasseria balsamicola (A. Funk) DiCosmo, Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

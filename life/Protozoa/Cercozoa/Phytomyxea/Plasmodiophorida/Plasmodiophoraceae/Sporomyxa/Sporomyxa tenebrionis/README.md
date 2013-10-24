@@ -1,5 +1,4 @@
-Sporomyxa tenebrionis Rietschel, 1935 SPECIES
-=======
+# Sporomyxa tenebrionis Rietschel, 1935 SPECIES
 
 #### Status
 ACCEPTED

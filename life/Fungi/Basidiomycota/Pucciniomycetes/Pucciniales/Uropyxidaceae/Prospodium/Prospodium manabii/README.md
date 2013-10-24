@@ -1,5 +1,4 @@
-Prospodium manabii Berndt, 1998 SPECIES
-=======
+# Prospodium manabii Berndt, 1998 SPECIES
 
 #### Status
 ACCEPTED

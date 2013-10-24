@@ -1,5 +1,4 @@
-Liulaobeisphaera Q. Yang et al., 1980 GENUS
-=======
+# Liulaobeisphaera Q. Yang et al., 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lambottiella GENUS
-=======
+# Lambottiella GENUS
 
 #### Status
 ACCEPTED

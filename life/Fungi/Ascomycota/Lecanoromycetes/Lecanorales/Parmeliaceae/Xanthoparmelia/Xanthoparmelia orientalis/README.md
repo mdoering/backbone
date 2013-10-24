@@ -1,5 +1,4 @@
-Xanthoparmelia orientalis Kurok. SPECIES
-=======
+# Xanthoparmelia orientalis Kurok. SPECIES
 
 #### Status
 ACCEPTED

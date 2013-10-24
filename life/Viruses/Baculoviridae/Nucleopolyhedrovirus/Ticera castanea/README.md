@@ -1,5 +1,4 @@
-Ticera castanea Npv SPECIES
-=======
+# Ticera castanea Npv SPECIES
 
 #### Status
 ACCEPTED

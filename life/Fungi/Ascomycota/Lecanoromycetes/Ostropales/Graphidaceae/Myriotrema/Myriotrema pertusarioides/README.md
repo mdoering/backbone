@@ -1,14 +1,13 @@
-Leptotrema pertusarioides Nagarkar, Sethy & Patw. SPECIES
-=======
+# Myriotrema pertusarioides (Nagarkar, Sethy & Patw.) D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 27: 74 (1986)
+Biblthca Lichenol. 40: 3 (1991)
 
 #### Original name
 Leptotrema pertusarioides Nagarkar, Sethy & Patw.

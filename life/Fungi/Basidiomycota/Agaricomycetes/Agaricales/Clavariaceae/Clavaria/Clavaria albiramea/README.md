@@ -1,5 +1,4 @@
-Clavaria albiramea Corner SPECIES
-=======
+# Clavaria albiramea Corner SPECIES
 
 #### Status
 ACCEPTED

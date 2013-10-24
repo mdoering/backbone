@@ -1,5 +1,4 @@
-Picouina Andersen, 1984 GENUS
-=======
+# Picouina Andersen, 1984 GENUS
 
 #### Status
 ACCEPTED

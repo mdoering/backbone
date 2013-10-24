@@ -1,14 +1,13 @@
-Agaricus belliae Johnst., 1841 SPECIES
-=======
+# Mycena belliae (Johnst.) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 1 6: 356 (1841)
+Trans. Br. mycol. Soc. 43: 178 (1960)
 
 #### Original name
 Agaricus belliae Johnst., 1841

@@ -1,5 +1,4 @@
-Hypocrea albocornea Yoshim. Doi SPECIES
-=======
+# Hypocrea albocornea Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria subinterstes Nyl. SPECIES
-=======
+# Verrucaria subinterstes Nyl. SPECIES
 
 #### Status
 ACCEPTED

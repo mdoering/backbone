@@ -1,14 +1,13 @@
-Hypodermopsis aceris (Henn. & Lindau) Kuntze, 1898 SPECIES
-=======
+# Hypoderma aceris Henn. & Lindau, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 487 (1898)
+Hedwigia 33: 223 (1893)
 
 #### Original name
 Hypoderma aceris Henn. & Lindau, 1893

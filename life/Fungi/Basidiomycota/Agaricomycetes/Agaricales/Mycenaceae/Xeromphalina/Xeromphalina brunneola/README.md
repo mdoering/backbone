@@ -1,5 +1,4 @@
-Xeromphalina brunneola O.K. Mill., 1968 SPECIES
-=======
+# Xeromphalina brunneola O.K. Mill., 1968 SPECIES
 
 #### Status
 ACCEPTED

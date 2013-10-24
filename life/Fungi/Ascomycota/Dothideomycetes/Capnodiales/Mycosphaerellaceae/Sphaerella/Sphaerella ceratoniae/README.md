@@ -1,5 +1,4 @@
-Sphaerella ceratoniae Pass. SPECIES
-=======
+# Sphaerella ceratoniae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramaecium fusus SPECIES
-=======
+# Paramaecium fusus SPECIES
 
 #### Status
 ACCEPTED

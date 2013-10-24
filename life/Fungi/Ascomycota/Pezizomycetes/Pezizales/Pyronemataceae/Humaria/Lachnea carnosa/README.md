@@ -1,5 +1,4 @@
-Lachnea carnosa Quél. SPECIES
-=======
+# Lachnea carnosa Quél. SPECIES
 
 #### Status
 ACCEPTED

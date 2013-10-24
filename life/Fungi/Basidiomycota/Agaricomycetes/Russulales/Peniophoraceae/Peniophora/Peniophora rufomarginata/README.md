@@ -1,14 +1,13 @@
-Peniophora corticalis subsp. rufomarginata (Pers.) Bourdot & Galzin SUBSPECIES
-=======
+# Peniophora rufomarginata (Pers.) Bourdot & Galzin, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28(4): 408 (1913)
+Bull. Soc. mycol. Fr. 28(4): 408 (1912)
 
 #### Original name
 Thelephora rufomarginata Pers., 1822

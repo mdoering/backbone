@@ -1,5 +1,4 @@
-Zignoëlla salicicola var. nigrificans Feltgen VARIETY
-=======
+# Zignoëlla salicicola Fabre SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Zignoëlla salicicola var. nigrificans Feltgen
+Zignoëlla salicicola Fabre
 
 ### Remarks
 null

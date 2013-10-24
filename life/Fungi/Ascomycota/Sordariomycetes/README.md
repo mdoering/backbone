@@ -1,5 +1,4 @@
-Sordariomycetes O.E. Erikss. & Winka CLASS
-=======
+# Sordariomycetes O.E. Erikss. & Winka CLASS
 
 #### Status
 ACCEPTED

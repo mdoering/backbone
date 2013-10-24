@@ -1,5 +1,4 @@
-Solenia rhoina W.B. Cooke SPECIES
-=======
+# Solenia rhoina W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

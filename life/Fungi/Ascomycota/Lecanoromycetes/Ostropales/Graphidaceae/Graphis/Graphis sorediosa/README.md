@@ -1,5 +1,4 @@
-Graphis sorediosa Nagarkar & Patw. SPECIES
-=======
+# Graphis sorediosa Nagarkar & Patw. SPECIES
 
 #### Status
 ACCEPTED

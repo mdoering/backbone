@@ -1,5 +1,4 @@
-Arcyria adnata (Batsch) Rostaf. SPECIES
-=======
+# Arcyria adnata (Batsch) Rostaf. SPECIES
 
 #### Status
 ACCEPTED

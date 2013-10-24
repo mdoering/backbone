@@ -1,17 +1,16 @@
-Alternaria eleuthrines T.Y. Zhang SPECIES
-=======
+# Alternaria eleutherines T.Y. Zhang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 72: 447 (1999)
 
 #### Original name
-Alternaria eleuthrines T.Y. Zhang
+Alternaria eleutherines T.Y. Zhang
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Micropsammella minima Chardez & Thomas, 1980 SPECIES
-=======
+# Micropsammella minima Chardez & Thomas, 1980 SPECIES
 
 #### Status
 ACCEPTED

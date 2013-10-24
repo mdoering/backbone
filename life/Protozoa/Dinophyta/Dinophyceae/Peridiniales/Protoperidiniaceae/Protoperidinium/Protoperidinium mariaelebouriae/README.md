@@ -1,5 +1,4 @@
-Protoperidinium mariaelebouriae (Paulsen) Balech SPECIES
-=======
+# Protoperidinium mariaelebouriae (Paulsen) Balech SPECIES
 
 #### Status
 ACCEPTED

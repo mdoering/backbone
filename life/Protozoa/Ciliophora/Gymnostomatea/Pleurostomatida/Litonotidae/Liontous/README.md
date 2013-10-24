@@ -1,5 +1,4 @@
-Liontous GENUS
-=======
+# Liontous GENUS
 
 #### Status
 ACCEPTED

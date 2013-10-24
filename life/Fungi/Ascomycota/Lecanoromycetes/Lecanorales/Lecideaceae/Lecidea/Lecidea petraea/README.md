@@ -1,5 +1,4 @@
-Lecidea petraea SPECIES
-=======
+# Lecidea petraea SPECIES
 
 #### Status
 ACCEPTED

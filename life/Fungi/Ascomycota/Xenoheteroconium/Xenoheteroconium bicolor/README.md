@@ -1,5 +1,4 @@
-Xenoheteroconium bicolor Bhat, W.B. Kendr. & Nag Raj, 1993 SPECIES
-=======
+# Xenoheteroconium bicolor Bhat, W.B. Kendr. & Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella quercina (Jacz.) Lindau SPECIES
-=======
+# Mycosphaerella quercina (Jacz.) Lindau SPECIES
 
 #### Status
 ACCEPTED

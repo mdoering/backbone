@@ -1,5 +1,4 @@
-Glomus nigrum Hu SPECIES
-=======
+# Glomus nigrum Hu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudofistulina sinensis G.Y. Zheng & Z.S. Bi, 1986 SPECIES
-=======
+# Pseudofistulina sinensis G.Y. Zheng & Z.S. Bi, 1986 SPECIES
 
 #### Status
 ACCEPTED

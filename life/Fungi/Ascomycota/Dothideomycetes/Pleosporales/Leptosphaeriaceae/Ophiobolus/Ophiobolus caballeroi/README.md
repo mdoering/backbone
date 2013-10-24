@@ -1,5 +1,4 @@
-Ophiobolus caballeroi Gonz. Frag. SPECIES
-=======
+# Ophiobolus caballeroi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

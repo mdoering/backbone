@@ -1,5 +1,4 @@
-Ramularia tenuis Davis SPECIES
-=======
+# Ramularia tenuis Davis SPECIES
 
 #### Status
 ACCEPTED

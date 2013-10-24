@@ -1,14 +1,13 @@
-Stagonospora bohemica (Kabát & Bubák) Tobisch, 1934 SPECIES
-=======
+# Ascochyta bohemica Kabát & Bubák, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. bot. Z. 83: 142 (1934)
+null
 
 #### Original name
 Ascochyta bohemica Kabát & Bubák, 1905

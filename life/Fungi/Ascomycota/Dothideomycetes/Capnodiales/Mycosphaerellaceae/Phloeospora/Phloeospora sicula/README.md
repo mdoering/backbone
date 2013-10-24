@@ -1,5 +1,4 @@
-Phloeospora sicula (Briosi & Cavara) Sacc. & D. Sacc. SPECIES
-=======
+# Phloeospora sicula (Briosi & Cavara) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

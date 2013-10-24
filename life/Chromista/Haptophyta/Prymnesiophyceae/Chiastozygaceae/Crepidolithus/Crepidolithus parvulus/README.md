@@ -1,5 +1,4 @@
-Crepidolithus parvulus SPECIES
-=======
+# Crepidolithus parvulus SPECIES
 
 #### Status
 ACCEPTED

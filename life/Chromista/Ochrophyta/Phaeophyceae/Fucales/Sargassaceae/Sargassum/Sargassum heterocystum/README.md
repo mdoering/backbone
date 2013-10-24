@@ -1,5 +1,4 @@
-Sargassum heterocystum var. timoriense Grunow VARIETY
-=======
+# Sargassum heterocystum Montagne SPECIES
 
 #### Status
 ACCEPTED

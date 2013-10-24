@@ -1,5 +1,4 @@
-Ochrolechia duplicata (Fée) A. Massal. SPECIES
-=======
+# Ochrolechia duplicata (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

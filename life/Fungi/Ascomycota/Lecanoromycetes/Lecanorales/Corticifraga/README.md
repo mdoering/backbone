@@ -1,5 +1,4 @@
-Corticifraga D. Hawksw. & R. Sant. GENUS
-=======
+# Corticifraga D. Hawksw. & R. Sant. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius goossensiae Beeli SPECIES
-=======
+# Marasmius goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

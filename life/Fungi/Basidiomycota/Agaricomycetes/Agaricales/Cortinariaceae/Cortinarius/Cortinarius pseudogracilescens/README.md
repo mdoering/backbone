@@ -1,5 +1,4 @@
-Cortinarius pseudogracilescens Rob. Henry & Ramm SPECIES
-=======
+# Cortinarius pseudogracilescens Rob. Henry & Ramm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium malmoense Schroder and Juhlin, 1977 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium malmoense Schroder and Juhlin, 1977 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

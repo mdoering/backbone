@@ -1,5 +1,4 @@
-Cercospora cydoniae Rangel SPECIES
-=======
+# Cercospora cydoniae Rangel SPECIES
 
 #### Status
 ACCEPTED

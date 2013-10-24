@@ -1,5 +1,4 @@
-Zignoëlla eutypoides Sacc., 1881 SPECIES
-=======
+# Zignoëlla eutypoides Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED

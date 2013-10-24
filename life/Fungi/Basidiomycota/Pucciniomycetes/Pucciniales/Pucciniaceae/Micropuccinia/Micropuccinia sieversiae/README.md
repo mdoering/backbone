@@ -1,5 +1,4 @@
-Micropuccinia sieversiae (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia sieversiae (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

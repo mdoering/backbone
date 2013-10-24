@@ -1,8 +1,7 @@
-Marginopora hemprichi Ehrenberg SPECIES
-=======
+# Coscinospira hemprichii Ehrenberg, 1839 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

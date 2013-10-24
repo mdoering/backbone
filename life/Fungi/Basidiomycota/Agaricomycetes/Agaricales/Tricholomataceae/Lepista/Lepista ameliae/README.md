@@ -1,5 +1,4 @@
-Lepista ameliae (Arcang.) Singer & Clémençon SPECIES
-=======
+# Lepista ameliae (Arcang.) Singer & Clémençon SPECIES
 
 #### Status
 ACCEPTED

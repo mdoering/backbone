@@ -1,14 +1,13 @@
-Unguicularia pygmaea (Mouton) Svrcek, 1985 SPECIES
-=======
+# Hyalopeziza pygmaea (Mouton) Huhtinen, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 39(4): 217 (1985)
+Mycotaxon 29: 279 (1987)
 
 #### Original name
 Trichopeziza pygmaea Mouton, 1897

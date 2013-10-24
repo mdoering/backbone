@@ -1,5 +1,4 @@
-Agyriopsis bethelii (Ellis & Everh.) Sacc. & P. Syd. SPECIES
-=======
+# Agyriopsis bethelii (Ellis & Everh.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptolechia caudata Kalb SPECIES
-=======
+# Cryptolechia caudata Kalb SPECIES
 
 #### Status
 ACCEPTED

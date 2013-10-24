@@ -1,5 +1,4 @@
-Hebeloma pyrophilum G. Moreno & M.M. Moser SPECIES
-=======
+# Hebeloma pyrophilum G. Moreno & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

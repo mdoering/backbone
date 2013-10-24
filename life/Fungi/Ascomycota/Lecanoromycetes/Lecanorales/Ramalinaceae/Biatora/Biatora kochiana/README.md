@@ -1,11 +1,10 @@
-Biatora kochiana f. kochiana FORM
-=======
+# Biatora kochiana SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

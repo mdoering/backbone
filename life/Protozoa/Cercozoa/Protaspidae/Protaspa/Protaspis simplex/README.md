@@ -1,5 +1,4 @@
-Protaspis simplex Vørs, 1992 SPECIES
-=======
+# Protaspis simplex Vørs, 1992 SPECIES
 
 #### Status
 DOUBTFUL

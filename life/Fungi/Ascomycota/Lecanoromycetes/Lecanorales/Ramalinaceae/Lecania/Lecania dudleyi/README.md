@@ -1,5 +1,4 @@
-Lecania dudleyi Herre SPECIES
-=======
+# Lecania dudleyi Herre SPECIES
 
 #### Status
 ACCEPTED

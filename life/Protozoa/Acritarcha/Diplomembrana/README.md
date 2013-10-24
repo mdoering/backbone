@@ -1,5 +1,4 @@
-Diplomembrana Yan Yuzhong, 1985 GENUS
-=======
+# Diplomembrana Yan Yuzhong, 1985 GENUS
 
 #### Status
 ACCEPTED

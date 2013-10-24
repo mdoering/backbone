@@ -1,5 +1,4 @@
-Coniocephalum luteum Brond. SPECIES
-=======
+# Coniocephalum luteum Brond. SPECIES
 
 #### Status
 ACCEPTED

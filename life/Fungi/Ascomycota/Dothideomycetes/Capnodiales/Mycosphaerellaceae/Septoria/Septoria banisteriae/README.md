@@ -1,5 +1,4 @@
-Septoria banisteriae Tassi SPECIES
-=======
+# Septoria banisteriae Tassi SPECIES
 
 #### Status
 ACCEPTED

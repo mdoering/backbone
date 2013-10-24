@@ -1,5 +1,4 @@
-Patellaria prostii Duby SPECIES
-=======
+# Patellaria prostii Duby SPECIES
 
 #### Status
 ACCEPTED

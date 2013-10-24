@@ -1,5 +1,4 @@
-Trematomyces lichenopsis (A. Massal.) Schrantz SPECIES
-=======
+# Trematomyces lichenopsis (A. Massal.) Schrantz SPECIES
 
 #### Status
 ACCEPTED

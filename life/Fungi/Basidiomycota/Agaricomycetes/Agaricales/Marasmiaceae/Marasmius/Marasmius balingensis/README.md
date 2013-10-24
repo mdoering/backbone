@@ -1,5 +1,4 @@
-Marasmius balingensis Corner SPECIES
-=======
+# Marasmius balingensis Corner SPECIES
 
 #### Status
 ACCEPTED

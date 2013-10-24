@@ -1,5 +1,4 @@
-Stictina faveolata SPECIES
-=======
+# Stictina faveolata SPECIES
 
 #### Status
 ACCEPTED

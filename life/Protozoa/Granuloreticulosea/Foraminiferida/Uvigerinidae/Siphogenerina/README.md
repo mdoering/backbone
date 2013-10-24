@@ -1,5 +1,4 @@
-Siphogenerina Schlumberger, 1882 GENUS
-=======
+# Siphogenerina Schlumberger, 1882 GENUS
 
 #### Status
 ACCEPTED

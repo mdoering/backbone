@@ -1,5 +1,4 @@
-Amphoroblastia alpina (Metzler ex Zschacke) Servít SPECIES
-=======
+# Amphoroblastia alpina (Metzler ex Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

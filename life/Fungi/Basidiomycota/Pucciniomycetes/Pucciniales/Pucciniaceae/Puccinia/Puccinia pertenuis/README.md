@@ -1,5 +1,4 @@
-Puccinia pertenuis S. Ito SPECIES
-=======
+# Puccinia pertenuis S. Ito SPECIES
 
 #### Status
 ACCEPTED

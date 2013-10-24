@@ -1,5 +1,4 @@
-Cordyceps gentilis (Ces.) Sacc. SPECIES
-=======
+# Cordyceps gentilis (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

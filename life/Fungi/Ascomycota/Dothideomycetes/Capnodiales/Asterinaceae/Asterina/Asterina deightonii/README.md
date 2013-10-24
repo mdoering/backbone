@@ -1,5 +1,4 @@
-Asterina deightonii Syd. SPECIES
-=======
+# Asterina deightonii Syd. SPECIES
 
 #### Status
 ACCEPTED

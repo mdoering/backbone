@@ -1,14 +1,13 @@
-Amauroderma coffeatum (Berk.) Murrill, 1905 SPECIES
-=======
+# Humphreya coffeata (Berk.) Steyaert, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 32(7): 367 (1905)
+Persoonia 7(1): 102 (1972)
 
 #### Original name
 Polyporus coffeatus Berk., 1839

@@ -1,5 +1,4 @@
-Trichia lenticularis Hoffm. SPECIES
-=======
+# Trichia lenticularis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

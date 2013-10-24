@@ -1,5 +1,4 @@
-Stemphylium sphaerospermum (Preuss) Sacc. SPECIES
-=======
+# Stemphylium sphaerospermum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

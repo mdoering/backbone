@@ -1,5 +1,4 @@
-Macrodiplodia macropus (Pers.) Fuckel SPECIES
-=======
+# Macrodiplodia macropus (Pers.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetostroma isabellinum Corda SPECIES
-=======
+# Chaetostroma isabellinum Corda SPECIES
 
 #### Status
 ACCEPTED

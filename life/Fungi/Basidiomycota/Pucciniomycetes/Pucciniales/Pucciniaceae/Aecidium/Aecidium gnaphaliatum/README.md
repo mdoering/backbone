@@ -1,5 +1,4 @@
-Aecidium gnaphaliatum f. gnaphaliatum FORM
-=======
+# Aecidium gnaphaliatum Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium gnaphaliatum f. gnaphaliatum
+Aecidium gnaphaliatum Schwein.
 
 ### Remarks
 null

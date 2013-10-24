@@ -1,5 +1,4 @@
-Rocellinastrum Kantvilas GENUS
-=======
+# Rocellinastrum Kantvilas GENUS
 
 #### Status
 ACCEPTED

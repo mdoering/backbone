@@ -1,5 +1,4 @@
-Entomospora antarctica Sacc. ex Jacz. SPECIES
-=======
+# Entomospora antarctica Sacc. ex Jacz. SPECIES
 
 #### Status
 ACCEPTED

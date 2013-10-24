@@ -1,5 +1,4 @@
-Epicorticium GENUS
-=======
+# Epicorticium GENUS
 
 #### Status
 ACCEPTED

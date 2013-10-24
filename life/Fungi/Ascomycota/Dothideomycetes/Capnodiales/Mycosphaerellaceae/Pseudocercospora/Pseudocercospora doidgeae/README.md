@@ -1,17 +1,16 @@
-Pseudocercospora doidgei Crous & U. Braun SPECIES
-=======
+# Pseudocercospora doidgeae Crous & U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 57: 265 (1996)
 
 #### Original name
-Pseudocercospora doidgei Crous & U. Braun
+Pseudocercospora doidgeae Crous & U. Braun
 
 ### Remarks
 null

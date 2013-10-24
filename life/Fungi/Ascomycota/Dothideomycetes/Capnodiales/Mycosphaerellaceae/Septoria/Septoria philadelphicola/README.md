@@ -1,5 +1,4 @@
-Septoria philadelphicola Andrian. SPECIES
-=======
+# Septoria philadelphicola Andrian. SPECIES
 
 #### Status
 ACCEPTED

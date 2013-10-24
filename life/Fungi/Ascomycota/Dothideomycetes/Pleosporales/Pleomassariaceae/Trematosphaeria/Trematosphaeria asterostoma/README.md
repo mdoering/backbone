@@ -1,5 +1,4 @@
-Trematosphaeria asterostoma (Teng) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Trematosphaeria asterostoma (Teng) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

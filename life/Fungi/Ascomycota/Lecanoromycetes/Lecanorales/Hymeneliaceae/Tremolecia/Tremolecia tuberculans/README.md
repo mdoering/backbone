@@ -1,5 +1,4 @@
-Tremolecia tuberculans (Zahlbr.) Hertel SPECIES
-=======
+# Tremolecia tuberculans (Zahlbr.) Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Strigula elegans var. antillarum (Fée) R. Sant. VARIETY
-=======
+# Strigula antillarum (Fée) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Thorold, J. Ecol. 40(1): 128 (1952)
+Bot. Jb. 6: 379 (1885)
 
 #### Original name
 Melanophthalmum antillarum Fée

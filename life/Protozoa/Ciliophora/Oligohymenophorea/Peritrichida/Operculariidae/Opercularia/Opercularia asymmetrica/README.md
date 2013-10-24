@@ -1,5 +1,4 @@
-Opercularia asymmetrica (Biczok, 1956) Aescht & Foissner, 1992 SPECIES
-=======
+# Opercularia asymmetrica (Biczok, 1956) Aescht & Foissner, 1992 SPECIES
 
 #### Status
 ACCEPTED

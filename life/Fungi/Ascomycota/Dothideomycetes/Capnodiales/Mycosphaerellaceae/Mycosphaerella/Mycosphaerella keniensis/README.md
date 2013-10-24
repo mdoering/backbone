@@ -1,5 +1,4 @@
-Mycosphaerella keniensis Crous & T.A. Cout., 1998 SPECIES
-=======
+# Mycosphaerella keniensis Crous & T.A. Cout., 1998 SPECIES
 
 #### Status
 ACCEPTED

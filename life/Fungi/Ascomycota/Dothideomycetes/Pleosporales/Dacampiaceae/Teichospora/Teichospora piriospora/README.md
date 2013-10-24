@@ -1,5 +1,4 @@
-Teichospora piriospora Ellis & Everh. SPECIES
-=======
+# Teichospora piriospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

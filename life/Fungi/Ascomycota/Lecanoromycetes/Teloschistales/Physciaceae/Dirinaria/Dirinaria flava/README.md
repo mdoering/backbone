@@ -1,14 +1,13 @@
-Physcia flava Müll. Arg. SPECIES
-=======
+# Dirinaria flava (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 181 (1971)
 
 #### Original name
 Physcia flava Müll. Arg.

@@ -1,5 +1,4 @@
-Septoria carpholobi Hansf. SPECIES
-=======
+# Septoria carpholobi Hansf. SPECIES
 
 #### Status
 ACCEPTED

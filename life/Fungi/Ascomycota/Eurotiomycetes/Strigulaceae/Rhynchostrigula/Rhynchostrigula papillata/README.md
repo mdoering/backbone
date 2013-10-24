@@ -1,17 +1,16 @@
-Rhynchnostrigula papillata Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Rhynchostrigula papillata Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atas Inst. Micol. Univ. Pernambuco 3: 269 (1966)
 
 #### Original name
-Rhynchnostrigula papillata Bat., J.L. Bezerra & Cavalc.
+Rhynchostrigula papillata Bat., J.L. Bezerra & Cavalc.
 
 ### Remarks
 null

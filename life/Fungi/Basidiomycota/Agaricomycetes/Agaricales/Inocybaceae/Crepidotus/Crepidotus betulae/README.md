@@ -1,5 +1,4 @@
-Crepidotus betulae Murrill SPECIES
-=======
+# Crepidotus betulae Murrill SPECIES
 
 #### Status
 ACCEPTED

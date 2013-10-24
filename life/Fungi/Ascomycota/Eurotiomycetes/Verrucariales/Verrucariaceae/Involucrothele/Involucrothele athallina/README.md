@@ -1,5 +1,4 @@
-Involucrothele athallina (Servít) Servít SPECIES
-=======
+# Involucrothele athallina (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

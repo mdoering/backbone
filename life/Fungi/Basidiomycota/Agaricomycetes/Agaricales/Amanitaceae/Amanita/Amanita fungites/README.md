@@ -1,5 +1,4 @@
-Amanita fungites Batsch SPECIES
-=======
+# Amanita fungites Batsch SPECIES
 
 #### Status
 ACCEPTED

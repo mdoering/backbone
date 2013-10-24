@@ -1,5 +1,4 @@
-Septoria serebrianikowii Sacc. SPECIES
-=======
+# Septoria serebrianikowii Sacc. SPECIES
 
 #### Status
 ACCEPTED

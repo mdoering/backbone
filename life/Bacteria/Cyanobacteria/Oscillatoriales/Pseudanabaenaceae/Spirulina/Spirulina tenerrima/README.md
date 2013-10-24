@@ -1,5 +1,4 @@
-Spirulina tenerrima Kützing, 1843 SPECIES
-=======
+# Spirulina tenerrima Kützing, 1843 SPECIES
 
 #### Status
 ACCEPTED

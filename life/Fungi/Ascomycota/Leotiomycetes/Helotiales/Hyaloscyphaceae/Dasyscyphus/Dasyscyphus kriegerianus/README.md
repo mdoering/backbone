@@ -1,5 +1,4 @@
-Dasyscyphus kriegerianus (Kirschst.) Korf SPECIES
-=======
+# Dasyscyphus kriegerianus (Kirschst.) Korf SPECIES
 
 #### Status
 ACCEPTED

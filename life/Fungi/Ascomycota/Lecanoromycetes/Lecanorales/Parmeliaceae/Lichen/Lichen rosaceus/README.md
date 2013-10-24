@@ -1,5 +1,4 @@
-Lichen rosaceus O.F. Müll. SPECIES
-=======
+# Lichen rosaceus O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

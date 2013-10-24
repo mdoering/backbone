@@ -1,5 +1,4 @@
-Ustilago ignota Vánky SPECIES
-=======
+# Ustilago ignota Vánky SPECIES
 
 #### Status
 ACCEPTED

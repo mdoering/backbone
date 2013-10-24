@@ -1,5 +1,4 @@
-Globigerina triloculinoides Plummer SPECIES
-=======
+# Globigerina triloculinoides Plummer SPECIES
 
 #### Status
 ACCEPTED

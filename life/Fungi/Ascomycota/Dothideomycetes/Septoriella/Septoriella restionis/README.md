@@ -1,5 +1,4 @@
-Septoriella restionis S.J. Lee & Crous SPECIES
-=======
+# Septoriella restionis S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

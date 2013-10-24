@@ -1,5 +1,4 @@
-Diplodia bambusina Died. SPECIES
-=======
+# Diplodia bambusina Died. SPECIES
 
 #### Status
 ACCEPTED

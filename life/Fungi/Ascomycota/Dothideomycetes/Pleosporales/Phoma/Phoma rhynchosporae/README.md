@@ -1,5 +1,4 @@
-Phoma rhynchosporae Pat. SPECIES
-=======
+# Phoma rhynchosporae Pat. SPECIES
 
 #### Status
 ACCEPTED

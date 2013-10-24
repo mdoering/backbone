@@ -1,5 +1,4 @@
-Sporocybe cellaris Peck SPECIES
-=======
+# Sporocybe cellaris Peck SPECIES
 
 #### Status
 ACCEPTED

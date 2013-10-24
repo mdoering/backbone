@@ -1,5 +1,4 @@
-Urocystis cortusae (Liro) Schwarzman SPECIES
-=======
+# Urocystis cortusae (Liro) Schwarzman SPECIES
 
 #### Status
 ACCEPTED

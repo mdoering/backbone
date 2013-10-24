@@ -1,5 +1,4 @@
-Methylophilus methylotrophus Jenkins et al., 1987 SPECIES
-=======
+# Methylophilus methylotrophus Jenkins et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

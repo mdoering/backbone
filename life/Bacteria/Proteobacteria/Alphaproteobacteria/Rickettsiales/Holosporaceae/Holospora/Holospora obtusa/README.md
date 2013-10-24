@@ -1,5 +1,4 @@
-Holospora obtusa (ex Hafkine, 1890) Preer & Preer, 1982 SPECIES
-=======
+# Holospora obtusa (ex Hafkine, 1890) Preer & Preer, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago anthephorae Syd. & P. Syd. SPECIES
-=======
+# Ustilago anthephorae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

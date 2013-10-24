@@ -1,5 +1,4 @@
-Cordyceps doassansii Pat. SPECIES
-=======
+# Cordyceps doassansii Pat. SPECIES
 
 #### Status
 ACCEPTED

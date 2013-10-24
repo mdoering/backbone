@@ -1,5 +1,4 @@
-Clostridium subterminale (Hall and Whitehead, 1927) Spray, 1948 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium subterminale (Hall and Whitehead, 1927) Spray, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

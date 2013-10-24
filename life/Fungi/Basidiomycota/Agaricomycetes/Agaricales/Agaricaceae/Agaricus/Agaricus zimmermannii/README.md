@@ -1,8 +1,7 @@
-Agaricus zimmermanni Eichelb. SPECIES
-=======
+# Agaricus zimmermannii Eichelb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus zimmermanni Eichelb.
+Agaricus zimmermannii Eichelb.
 
 ### Remarks
 null

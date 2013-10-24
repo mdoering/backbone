@@ -1,5 +1,4 @@
-Cortinarius sulcatipes Rob. Henry SPECIES
-=======
+# Cortinarius sulcatipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

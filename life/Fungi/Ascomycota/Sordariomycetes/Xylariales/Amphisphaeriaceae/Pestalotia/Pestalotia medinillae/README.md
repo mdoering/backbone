@@ -1,5 +1,4 @@
-Pestalotia medinillae Rangel SPECIES
-=======
+# Pestalotia medinillae Rangel SPECIES
 
 #### Status
 ACCEPTED

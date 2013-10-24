@@ -1,5 +1,4 @@
-Calocera cuneata Lloyd SPECIES
-=======
+# Calocera cuneata Lloyd SPECIES
 
 #### Status
 ACCEPTED

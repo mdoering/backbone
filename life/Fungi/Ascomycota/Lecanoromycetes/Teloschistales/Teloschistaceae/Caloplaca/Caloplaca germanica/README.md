@@ -1,5 +1,4 @@
-Caloplaca germanica H. Magn. SPECIES
-=======
+# Caloplaca germanica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

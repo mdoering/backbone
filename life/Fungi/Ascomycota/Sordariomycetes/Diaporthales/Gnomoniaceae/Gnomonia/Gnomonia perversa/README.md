@@ -1,5 +1,4 @@
-Gnomonia perversa Rehm SPECIES
-=======
+# Gnomonia perversa Rehm SPECIES
 
 #### Status
 ACCEPTED

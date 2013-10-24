@@ -1,5 +1,4 @@
-Fragilaria polygonata Cleve-Euler SPECIES
-=======
+# Fragilaria polygonata Cleve-Euler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endoconia Raf. GENUS
-=======
+# Endoconia Raf. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Campylobacterales ORDER
-=======
+# Campylobacterales ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma gentianae (DC.) Schltdl. SPECIES
-=======
+# Caeoma gentianae (DC.) Schltdl. SPECIES
 
 #### Status
 ACCEPTED

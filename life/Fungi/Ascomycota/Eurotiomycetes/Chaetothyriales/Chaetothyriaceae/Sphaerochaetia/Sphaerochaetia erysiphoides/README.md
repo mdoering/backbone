@@ -1,5 +1,4 @@
-Sphaerochaetia erysiphoides (Speg.) Bat. & Cif. SPECIES
-=======
+# Sphaerochaetia erysiphoides (Speg.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

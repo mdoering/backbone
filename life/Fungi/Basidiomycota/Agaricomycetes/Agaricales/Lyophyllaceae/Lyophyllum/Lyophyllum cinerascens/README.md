@@ -1,5 +1,4 @@
-Lyophyllum cinerascens (Bull.) Singer SPECIES
-=======
+# Lyophyllum cinerascens (Bull.) Singer SPECIES
 
 #### Status
 ACCEPTED

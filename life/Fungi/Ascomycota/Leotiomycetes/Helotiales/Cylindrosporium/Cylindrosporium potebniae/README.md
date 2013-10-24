@@ -1,5 +1,4 @@
-Cylindrosporium potebniae Vassiljevsky SPECIES
-=======
+# Cylindrosporium potebniae Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

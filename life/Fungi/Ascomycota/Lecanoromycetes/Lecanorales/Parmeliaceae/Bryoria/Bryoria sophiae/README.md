@@ -1,5 +1,4 @@
-Bryoria sophiae (Motyka) Bystrek SPECIES
-=======
+# Bryoria sophiae (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

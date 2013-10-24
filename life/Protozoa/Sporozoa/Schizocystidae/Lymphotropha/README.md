@@ -1,5 +1,4 @@
-Lymphotropha Ashford, 1965 GENUS
-=======
+# Lymphotropha Ashford, 1965 GENUS
 
 #### Status
 ACCEPTED

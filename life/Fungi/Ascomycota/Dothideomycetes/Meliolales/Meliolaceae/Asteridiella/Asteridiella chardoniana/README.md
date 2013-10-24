@@ -1,5 +1,4 @@
-Asteridiella chardoniana var. chardoniana Hansf. VARIETY
-=======
+# Asteridiella chardoniana Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia (1957)
+Sydowia 10(1-6): 52 (1957)
 
 #### Original name
-Asteridiella chardoniana var. chardoniana Hansf.
+Asteridiella chardoniana Hansf.
 
 ### Remarks
 null

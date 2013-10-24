@@ -1,17 +1,16 @@
-Volvopolyporus Lloyd ex Sacc. & Trotter GENUS
-=======
+# Coltricia Gray, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 21: 282 (1912)
+null
 
 #### Original name
-Volvopolyporus Lloyd ex Sacc. & Trotter
+null
 
 ### Remarks
 null

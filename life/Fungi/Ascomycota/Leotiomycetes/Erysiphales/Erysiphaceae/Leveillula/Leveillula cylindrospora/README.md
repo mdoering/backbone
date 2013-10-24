@@ -1,5 +1,4 @@
-Leveillula cylindrospora U. Braun SPECIES
-=======
+# Leveillula cylindrospora U. Braun SPECIES
 
 #### Status
 ACCEPTED

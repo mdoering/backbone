@@ -1,14 +1,13 @@
-Dothiorella tulasnei Sacc., 1884 SPECIES
-=======
+# Dothiorina tulasnei (Sacc.) Höhn., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 239 (1884)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 (1911)
 
 #### Original name
 Dothiorella tulasnei Sacc., 1884

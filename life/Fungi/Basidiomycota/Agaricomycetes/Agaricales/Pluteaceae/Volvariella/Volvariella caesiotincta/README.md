@@ -1,5 +1,4 @@
-Volvariella caesiotincta P.D. Orton, 1974 SPECIES
-=======
+# Volvariella caesiotincta P.D. Orton, 1974 SPECIES
 
 #### Status
 ACCEPTED

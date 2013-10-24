@@ -1,5 +1,4 @@
-Lentomitella tomentosa Réblová & J. Fourn. SPECIES
-=======
+# Lentomitella tomentosa Réblová & J. Fourn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachybasidium Gäum. GENUS
-=======
+# Brachybasidium Gäum. GENUS
 
 #### Status
 ACCEPTED

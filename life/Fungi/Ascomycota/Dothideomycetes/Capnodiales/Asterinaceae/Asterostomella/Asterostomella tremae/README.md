@@ -1,5 +1,4 @@
-Asterostomella tremae Speg. SPECIES
-=======
+# Asterostomella tremae Speg. SPECIES
 
 #### Status
 ACCEPTED

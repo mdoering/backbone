@@ -1,5 +1,4 @@
-Dictyolus juranus Quél. & Pat. SPECIES
-=======
+# Dictyolus juranus Quél. & Pat. SPECIES
 
 #### Status
 ACCEPTED

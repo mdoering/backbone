@@ -1,5 +1,4 @@
-Ceuthospora brachypodii Gonz. Frag. & Sardiña SPECIES
-=======
+# Ceuthospora brachypodii Gonz. Frag. & Sardiña SPECIES
 
 #### Status
 ACCEPTED

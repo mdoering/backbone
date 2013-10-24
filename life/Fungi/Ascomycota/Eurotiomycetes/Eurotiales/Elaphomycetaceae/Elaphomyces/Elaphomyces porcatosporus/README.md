@@ -1,5 +1,4 @@
-Elaphomyces porcatosporus B.C. Zhang SPECIES
-=======
+# Elaphomyces porcatosporus B.C. Zhang SPECIES
 
 #### Status
 ACCEPTED

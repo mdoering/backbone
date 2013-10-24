@@ -1,5 +1,4 @@
-Calicium subhyperellum Nádv. SPECIES
-=======
+# Calicium subhyperellum Nádv. SPECIES
 
 #### Status
 ACCEPTED

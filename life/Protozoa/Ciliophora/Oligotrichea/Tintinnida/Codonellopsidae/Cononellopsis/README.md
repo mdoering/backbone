@@ -1,5 +1,4 @@
-Cononellopsis GENUS
-=======
+# Cononellopsis GENUS
 
 #### Status
 ACCEPTED

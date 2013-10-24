@@ -1,5 +1,4 @@
-Diplodia magnoliicola Brunaud SPECIES
-=======
+# Diplodia magnoliicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

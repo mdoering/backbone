@@ -1,5 +1,4 @@
-Rickia circopis Thaxt. SPECIES
-=======
+# Rickia circopis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

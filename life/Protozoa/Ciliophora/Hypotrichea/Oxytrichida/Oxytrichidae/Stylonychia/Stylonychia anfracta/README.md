@@ -1,5 +1,4 @@
-Stylonychia anfracta Dumas SPECIES
-=======
+# Stylonychia anfracta Dumas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia disserpens (Zahlbr.) Räsänen SPECIES
-=======
+# Aspicilia disserpens (Zahlbr.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

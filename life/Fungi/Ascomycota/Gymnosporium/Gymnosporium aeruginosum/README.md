@@ -1,5 +1,4 @@
-Gymnosporium aeruginosum Corda SPECIES
-=======
+# Gymnosporium aeruginosum Corda SPECIES
 
 #### Status
 ACCEPTED

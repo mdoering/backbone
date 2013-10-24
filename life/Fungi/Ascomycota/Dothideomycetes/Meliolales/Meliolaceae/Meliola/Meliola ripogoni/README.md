@@ -1,5 +1,4 @@
-Meliola ripogoni Hansf., 1953 SPECIES
-=======
+# Meliola ripogoni Hansf., 1953 SPECIES
 
 #### Status
 ACCEPTED

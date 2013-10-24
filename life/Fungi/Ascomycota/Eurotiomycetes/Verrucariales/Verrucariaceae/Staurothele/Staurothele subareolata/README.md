@@ -1,5 +1,4 @@
-Staurothele subareolata (Nyl.) Zahlbr. SPECIES
-=======
+# Staurothele subareolata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

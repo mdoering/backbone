@@ -1,5 +1,4 @@
-Lecidea rhododendrina Nyl. SPECIES
-=======
+# Lecidea rhododendrina Nyl. SPECIES
 
 #### Status
 ACCEPTED

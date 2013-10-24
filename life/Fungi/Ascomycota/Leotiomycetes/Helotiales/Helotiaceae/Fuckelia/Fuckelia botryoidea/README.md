@@ -1,5 +1,4 @@
-Fuckelia botryoidea Horne SPECIES
-=======
+# Fuckelia botryoidea Horne SPECIES
 
 #### Status
 ACCEPTED

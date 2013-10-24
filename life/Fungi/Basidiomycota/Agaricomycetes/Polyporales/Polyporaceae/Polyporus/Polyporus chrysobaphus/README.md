@@ -1,5 +1,4 @@
-Polyporus chrysobaphus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus chrysobaphus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

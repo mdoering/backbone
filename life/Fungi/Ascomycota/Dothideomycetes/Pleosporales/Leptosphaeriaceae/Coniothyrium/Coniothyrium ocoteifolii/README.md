@@ -1,5 +1,4 @@
-Coniothyrium ocoteifolii Bat. & Peres SPECIES
-=======
+# Coniothyrium ocoteifolii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

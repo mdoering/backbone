@@ -1,5 +1,4 @@
-Entropezites patricii Poinar & R. Buckley SPECIES
-=======
+# Entropezites patricii Poinar & R. Buckley SPECIES
 
 #### Status
 ACCEPTED

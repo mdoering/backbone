@@ -1,5 +1,4 @@
-Galerina humicola A.H. Sm. SPECIES
-=======
+# Galerina humicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

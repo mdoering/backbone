@@ -1,5 +1,4 @@
-Rhabdospora leptospora (C. Massal.) Sacc. SPECIES
-=======
+# Rhabdospora leptospora (C. Massal.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

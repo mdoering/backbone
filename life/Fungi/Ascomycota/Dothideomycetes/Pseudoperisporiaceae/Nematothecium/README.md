@@ -1,5 +1,4 @@
-Nematothecium Syd. & P. Syd. GENUS
-=======
+# Nematothecium Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

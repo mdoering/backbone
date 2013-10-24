@@ -1,5 +1,4 @@
-Lecidea modica Nyl. SPECIES
-=======
+# Lecidea modica Nyl. SPECIES
 
 #### Status
 ACCEPTED

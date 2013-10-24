@@ -1,5 +1,4 @@
-Spadicoides arengae W.H. Ho, Yanna & K.D. Hyde SPECIES
-=======
+# Spadicoides arengae W.H. Ho, Yanna & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

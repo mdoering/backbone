@@ -1,8 +1,7 @@
-Haemogregarina callionymi Brumpt & Lebailly, 1904 SPECIES
-=======
+# Haemogregarina quadrigemina Brumpt & Lebailly, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

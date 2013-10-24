@@ -1,5 +1,4 @@
-Sporidesmium trichophilum Syd. SPECIES
-=======
+# Sporidesmium trichophilum Syd. SPECIES
 
 #### Status
 ACCEPTED

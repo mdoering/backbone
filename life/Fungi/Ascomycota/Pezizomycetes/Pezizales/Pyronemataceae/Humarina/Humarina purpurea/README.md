@@ -1,5 +1,4 @@
-Humarina purpurea Seaver SPECIES
-=======
+# Humarina purpurea Seaver SPECIES
 
 #### Status
 ACCEPTED

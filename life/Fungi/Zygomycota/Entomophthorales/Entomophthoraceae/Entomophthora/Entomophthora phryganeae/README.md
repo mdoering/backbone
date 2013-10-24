@@ -1,5 +1,4 @@
-Entomophthora phryganeae Sorokin SPECIES
-=======
+# Entomophthora phryganeae Sorokin SPECIES
 
 #### Status
 ACCEPTED

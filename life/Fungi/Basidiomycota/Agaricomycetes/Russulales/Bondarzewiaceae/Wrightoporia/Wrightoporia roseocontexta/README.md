@@ -1,5 +1,4 @@
-Wrightoporia roseocontexta Ryvarden & Iturr., 2003 SPECIES
-=======
+# Wrightoporia roseocontexta Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

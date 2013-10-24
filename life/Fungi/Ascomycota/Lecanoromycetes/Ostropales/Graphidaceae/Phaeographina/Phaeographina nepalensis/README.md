@@ -1,5 +1,4 @@
-Phaeographina nepalensis D.D. Awasthi & Kr.P. Singh SPECIES
-=======
+# Phaeographina nepalensis D.D. Awasthi & Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

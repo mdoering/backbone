@@ -1,5 +1,4 @@
-Heterostomum E.M. Fries GENUS
-=======
+# Heterostomum E.M. Fries GENUS
 
 #### Status
 ACCEPTED

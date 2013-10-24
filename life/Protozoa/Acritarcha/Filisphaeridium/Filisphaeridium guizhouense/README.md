@@ -1,5 +1,4 @@
-Filisphaeridium guizhouense (Fensome et al., 1990) Sarjeant & Stancliffe SPECIES
-=======
+# Filisphaeridium guizhouense (Fensome et al., 1990) Sarjeant & Stancliffe SPECIES
 
 #### Status
 ACCEPTED

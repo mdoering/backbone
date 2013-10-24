@@ -1,8 +1,7 @@
-Licea guarantica Speg. SPECIES
-=======
+# Licea guaranitica Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Licea guarantica Speg.
+Licea guaranitica Speg.
 
 ### Remarks
 null

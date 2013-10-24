@@ -1,5 +1,4 @@
-Copemetopus chesapeakensis Small & Lynn, 1985 SPECIES
-=======
+# Copemetopus chesapeakensis Small & Lynn, 1985 SPECIES
 
 #### Status
 ACCEPTED

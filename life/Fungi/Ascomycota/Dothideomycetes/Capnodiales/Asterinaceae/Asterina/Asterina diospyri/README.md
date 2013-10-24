@@ -1,5 +1,4 @@
-Asterina diospyri Hosag. & C.K. Pradeep SPECIES
-=======
+# Asterina diospyri Hosag. & C.K. Pradeep SPECIES
 
 #### Status
 ACCEPTED

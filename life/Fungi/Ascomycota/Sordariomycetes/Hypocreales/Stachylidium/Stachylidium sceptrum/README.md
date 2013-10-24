@@ -1,5 +1,4 @@
-Stachylidium sceptrum Fr. SPECIES
-=======
+# Stachylidium sceptrum Fr. SPECIES
 
 #### Status
 ACCEPTED

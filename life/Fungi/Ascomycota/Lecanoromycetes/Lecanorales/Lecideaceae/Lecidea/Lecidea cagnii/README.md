@@ -1,5 +1,4 @@
-Lecidea cagnii Jatta SPECIES
-=======
+# Lecidea cagnii Jatta SPECIES
 
 #### Status
 ACCEPTED

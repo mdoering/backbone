@@ -1,5 +1,4 @@
-Xanthoria papillifera (Vain.) Poelt SPECIES
-=======
+# Xanthoria papillifera (Vain.) Poelt SPECIES
 
 #### Status
 ACCEPTED

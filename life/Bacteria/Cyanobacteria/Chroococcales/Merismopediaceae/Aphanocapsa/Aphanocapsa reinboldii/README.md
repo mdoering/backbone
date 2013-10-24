@@ -1,5 +1,4 @@
-Aphanocapsa reinboldii (Richter) Komárek & Anagnostidis SPECIES
-=======
+# Aphanocapsa reinboldii (Richter) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

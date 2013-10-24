@@ -1,5 +1,4 @@
-Polyporus cerinus Pers. SPECIES
-=======
+# Polyporus cerinus Pers. SPECIES
 
 #### Status
 ACCEPTED

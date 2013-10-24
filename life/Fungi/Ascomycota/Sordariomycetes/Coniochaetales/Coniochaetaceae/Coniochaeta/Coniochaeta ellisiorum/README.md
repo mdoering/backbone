@@ -1,5 +1,4 @@
-Coniochaeta ellisiorum P.F. Cannon SPECIES
-=======
+# Coniochaeta ellisiorum P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

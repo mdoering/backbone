@@ -1,5 +1,4 @@
-Ammobaculites pseudominimus Zheng & Fu, 2001 SPECIES
-=======
+# Ammobaculites pseudominimus Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella cyathus (Nees) Sacc. SPECIES
-=======
+# Pezizella cyathus (Nees) Sacc. SPECIES
 
 #### Status
 ACCEPTED

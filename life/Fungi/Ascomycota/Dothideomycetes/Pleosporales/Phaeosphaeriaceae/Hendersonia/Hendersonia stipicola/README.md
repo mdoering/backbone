@@ -1,5 +1,4 @@
-Hendersonia stipicola Speg. SPECIES
-=======
+# Hendersonia stipicola Speg. SPECIES
 
 #### Status
 ACCEPTED

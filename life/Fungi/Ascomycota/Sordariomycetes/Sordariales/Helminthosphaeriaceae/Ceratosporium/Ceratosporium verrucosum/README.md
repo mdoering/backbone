@@ -1,5 +1,4 @@
-Ceratosporium verrucosum R. Kirschner & Chee J. Chen SPECIES
-=======
+# Ceratosporium verrucosum R. Kirschner & Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

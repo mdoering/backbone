@@ -1,5 +1,4 @@
-Teratosphaeria ovata (H.J. Swart) Crous & Summerell, 2009 SPECIES
-=======
+# Teratosphaeria ovata (H.J. Swart) Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

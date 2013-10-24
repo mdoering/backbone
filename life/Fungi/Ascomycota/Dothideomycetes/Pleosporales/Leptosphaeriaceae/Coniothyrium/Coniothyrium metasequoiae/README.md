@@ -1,5 +1,4 @@
-Coniothyrium metasequoiae Gucevic SPECIES
-=======
+# Coniothyrium metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

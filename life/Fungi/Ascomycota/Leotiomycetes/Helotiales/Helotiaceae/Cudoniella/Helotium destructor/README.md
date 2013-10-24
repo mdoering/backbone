@@ -1,5 +1,4 @@
-Helotium destructor Peck ex W.L. White SPECIES
-=======
+# Helotium destructor Peck ex W.L. White SPECIES
 
 #### Status
 ACCEPTED

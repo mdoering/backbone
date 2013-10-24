@@ -1,5 +1,4 @@
-Mycena perpusilla Velen. SPECIES
-=======
+# Mycena perpusilla Velen. SPECIES
 
 #### Status
 ACCEPTED

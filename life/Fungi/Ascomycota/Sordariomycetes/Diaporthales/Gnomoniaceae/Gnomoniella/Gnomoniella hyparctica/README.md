@@ -1,5 +1,4 @@
-Gnomoniella hyparctica (Lind) M.E. Barr SPECIES
-=======
+# Gnomoniella hyparctica (Lind) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

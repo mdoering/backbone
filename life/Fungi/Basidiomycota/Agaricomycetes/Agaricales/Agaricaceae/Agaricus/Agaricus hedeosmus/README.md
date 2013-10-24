@@ -1,5 +1,4 @@
-Agaricus hedeosmus Pers. SPECIES
-=======
+# Agaricus hedeosmus Pers. SPECIES
 
 #### Status
 ACCEPTED

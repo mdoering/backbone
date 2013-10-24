@@ -1,5 +1,4 @@
-Elsinoë baphiae Bitanc. & Jenkins SPECIES
-=======
+# Elsinoë baphiae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

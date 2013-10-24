@@ -1,5 +1,4 @@
-Peziza armeniaca Pers. SPECIES
-=======
+# Peziza armeniaca Pers. SPECIES
 
 #### Status
 ACCEPTED

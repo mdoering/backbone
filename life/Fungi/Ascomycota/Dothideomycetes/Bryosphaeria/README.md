@@ -1,5 +1,4 @@
-Bryosphaeria Döbbeler GENUS
-=======
+# Bryosphaeria Döbbeler GENUS
 
 #### Status
 ACCEPTED

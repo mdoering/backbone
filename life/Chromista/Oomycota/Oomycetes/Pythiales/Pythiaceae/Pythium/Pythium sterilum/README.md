@@ -1,5 +1,4 @@
-Pythium sterilum Belbahri & Lefort SPECIES
-=======
+# Pythium sterilum Belbahri & Lefort SPECIES
 
 #### Status
 ACCEPTED

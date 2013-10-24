@@ -1,5 +1,4 @@
-Tilletia setariae-viridis Vánky, 2001 SPECIES
-=======
+# Tilletia setariae-viridis Vánky, 2001 SPECIES
 
 #### Status
 ACCEPTED

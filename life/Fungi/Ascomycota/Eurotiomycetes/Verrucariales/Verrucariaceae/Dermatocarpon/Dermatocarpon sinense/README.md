@@ -1,5 +1,4 @@
-Dermatocarpon sinense Räsänen SPECIES
-=======
+# Dermatocarpon sinense Räsänen SPECIES
 
 #### Status
 ACCEPTED

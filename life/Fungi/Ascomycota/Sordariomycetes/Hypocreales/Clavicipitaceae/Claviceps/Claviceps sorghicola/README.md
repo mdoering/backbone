@@ -1,5 +1,4 @@
-Claviceps sorghicola Tsukib., Shiman. & T. Uematsu, 1999 SPECIES
-=======
+# Claviceps sorghicola Tsukib., Shiman. & T. Uematsu, 1999 SPECIES
 
 #### Status
 ACCEPTED

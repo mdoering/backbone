@@ -1,5 +1,4 @@
-Omphalia crocea Henn. SPECIES
-=======
+# Omphalia crocea Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gnomonia rhenana Auersw., 1869 SPECIES
-=======
+# Ceratosphaeria rhenana (Auersw.) Berl. & Voglino, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Myc. Europ. Pyren. 23 (1869)
+Syll. fung. (Abellini), Addit. 164 (1886)
 
 #### Original name
 Gnomonia rhenana Auersw., 1869

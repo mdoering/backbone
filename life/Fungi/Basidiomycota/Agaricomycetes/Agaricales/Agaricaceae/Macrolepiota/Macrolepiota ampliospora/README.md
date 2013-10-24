@@ -1,5 +1,4 @@
-Macrolepiota ampliospora Sosin SPECIES
-=======
+# Macrolepiota ampliospora Sosin SPECIES
 
 #### Status
 ACCEPTED

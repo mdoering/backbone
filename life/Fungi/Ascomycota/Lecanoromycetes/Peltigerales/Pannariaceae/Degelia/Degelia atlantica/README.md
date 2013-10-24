@@ -1,17 +1,16 @@
-Pannaria plumbea f. myriocarpa FORM
-=======
+# Degelia atlantica (Degel.) P.M. Jørg. & P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Jahns, Biblthca Lichenol. 38: 264 (1990)
 
 #### Original name
-Pannaria plumbea f. myriocarpa
+Parmeliella atlantica Degel.
 
 ### Remarks
 null

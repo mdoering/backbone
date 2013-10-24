@@ -1,5 +1,4 @@
-Lepiota subvolvata var. subvolvata VARIETY
-=======
+# Lepiota subvolvata Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Acta Phytotax. Barcinon. 8: 41 (1971)
 
 #### Original name
-Lepiota subvolvata var. subvolvata
+Lepiota subvolvata Malençon & Bertault
 
 ### Remarks
 null

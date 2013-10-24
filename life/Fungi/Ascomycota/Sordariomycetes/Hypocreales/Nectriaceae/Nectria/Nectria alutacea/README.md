@@ -1,5 +1,4 @@
-Nectria alutacea Berk. & Cooke SPECIES
-=======
+# Nectria alutacea Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

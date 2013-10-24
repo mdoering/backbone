@@ -1,5 +1,4 @@
-Involucrothele sorediata Servít SPECIES
-=======
+# Involucrothele sorediata Servít SPECIES
 
 #### Status
 ACCEPTED

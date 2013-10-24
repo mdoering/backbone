@@ -1,5 +1,4 @@
-Uredo rhaphidophorae Sacc. SPECIES
-=======
+# Uredo rhaphidophorae Sacc. SPECIES
 
 #### Status
 ACCEPTED

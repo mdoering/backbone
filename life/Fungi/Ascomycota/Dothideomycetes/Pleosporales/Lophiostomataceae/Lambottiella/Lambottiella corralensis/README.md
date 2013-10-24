@@ -1,5 +1,4 @@
-Lambottiella corralensis Speg. SPECIES
-=======
+# Lambottiella corralensis Speg. SPECIES
 
 #### Status
 ACCEPTED

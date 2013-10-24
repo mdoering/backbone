@@ -1,5 +1,4 @@
-Pestalotia osyridis Thüm. SPECIES
-=======
+# Pestalotia osyridis Thüm. SPECIES
 
 #### Status
 ACCEPTED

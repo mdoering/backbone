@@ -1,5 +1,4 @@
-Lasioloma spinosum Hafellner & Vezda SPECIES
-=======
+# Lasioloma spinosum Hafellner & Vezda SPECIES
 
 #### Status
 ACCEPTED

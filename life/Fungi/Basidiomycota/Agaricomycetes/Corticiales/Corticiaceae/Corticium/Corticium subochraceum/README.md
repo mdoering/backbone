@@ -1,5 +1,4 @@
-Corticium subochraceum Bres. SPECIES
-=======
+# Corticium subochraceum Bres. SPECIES
 
 #### Status
 ACCEPTED

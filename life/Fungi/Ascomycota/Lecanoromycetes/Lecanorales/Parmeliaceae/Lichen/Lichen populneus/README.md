@@ -1,5 +1,4 @@
-Lichen populneus Ach. SPECIES
-=======
+# Lichen populneus Ach. SPECIES
 
 #### Status
 ACCEPTED

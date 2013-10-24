@@ -1,5 +1,4 @@
-Ochridanus Georgevitch, 1941 GENUS
-=======
+# Ochridanus Georgevitch, 1941 GENUS
 
 #### Status
 ACCEPTED

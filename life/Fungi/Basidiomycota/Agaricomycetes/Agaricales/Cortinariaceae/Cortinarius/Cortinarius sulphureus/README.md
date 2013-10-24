@@ -1,17 +1,16 @@
-Phlegmacium sulphureum (Kauffman) M.M. Moser SPECIES
-=======
+# Cortinarius sulphureus Lindgr., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Agaric. Danic. 3: 18 (1938)
 
 #### Original name
-null
+Cortinarius fulmineus var. sulphureus Kauffman
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coleospora Cribb GENUS
-=======
+# Coleospora Cribb GENUS
 
 #### Status
 ACCEPTED

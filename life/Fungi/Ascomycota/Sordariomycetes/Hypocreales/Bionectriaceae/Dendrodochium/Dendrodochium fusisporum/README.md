@@ -1,5 +1,4 @@
-Dendrodochium fusisporum Sacc. & Roum. SPECIES
-=======
+# Dendrodochium fusisporum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

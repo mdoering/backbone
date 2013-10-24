@@ -1,5 +1,4 @@
-Ramalina sulcatula Nyl. SPECIES
-=======
+# Ramalina sulcatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

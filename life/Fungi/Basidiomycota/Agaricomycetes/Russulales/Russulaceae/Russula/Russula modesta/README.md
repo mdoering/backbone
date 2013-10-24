@@ -1,5 +1,4 @@
-Russula modesta Peck SPECIES
-=======
+# Russula modesta Peck SPECIES
 
 #### Status
 ACCEPTED

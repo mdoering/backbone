@@ -1,5 +1,4 @@
-Teloschistes hollermayeri Räsänen SPECIES
-=======
+# Teloschistes hollermayeri Räsänen SPECIES
 
 #### Status
 ACCEPTED

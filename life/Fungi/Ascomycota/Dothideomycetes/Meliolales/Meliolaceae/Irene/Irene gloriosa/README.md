@@ -1,5 +1,4 @@
-Irene gloriosa (Doidge) Doidge SPECIES
-=======
+# Irene gloriosa (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

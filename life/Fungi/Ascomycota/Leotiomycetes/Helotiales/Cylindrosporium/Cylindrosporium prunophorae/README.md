@@ -1,5 +1,4 @@
-Cylindrosporium prunophorae B.B. Higgins SPECIES
-=======
+# Cylindrosporium prunophorae B.B. Higgins SPECIES
 
 #### Status
 ACCEPTED

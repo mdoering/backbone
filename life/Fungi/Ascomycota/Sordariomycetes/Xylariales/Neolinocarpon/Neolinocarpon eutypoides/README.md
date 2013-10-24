@@ -1,5 +1,4 @@
-Neolinocarpon eutypoides (Penz. & Sacc.) K.D. Hyde, Joanne E. Taylor & J. Fröhl. SPECIES
-=======
+# Neolinocarpon eutypoides (Penz. & Sacc.) K.D. Hyde, Joanne E. Taylor & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

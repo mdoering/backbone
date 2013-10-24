@@ -1,5 +1,4 @@
-Desulfosarcina ovata Kuever et al., 2006 SPECIES
-=======
+# Desulfosarcina ovata Kuever et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

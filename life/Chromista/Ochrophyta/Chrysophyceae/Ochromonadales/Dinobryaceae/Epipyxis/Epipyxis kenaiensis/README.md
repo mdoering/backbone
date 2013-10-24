@@ -1,5 +1,4 @@
-Epipyxis kenaiensis Hilliard & Asmund SPECIES
-=======
+# Epipyxis kenaiensis Hilliard & Asmund SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prominangularia Jiabo, 1978 GENUS
-=======
+# Prominangularia Jiabo, 1978 GENUS
 
 #### Status
 ACCEPTED

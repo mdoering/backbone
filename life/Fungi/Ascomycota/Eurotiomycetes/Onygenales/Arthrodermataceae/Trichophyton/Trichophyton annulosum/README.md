@@ -1,5 +1,4 @@
-Trichophyton annulosum (Cazalbou) Nann. SPECIES
-=======
+# Trichophyton annulosum (Cazalbou) Nann. SPECIES
 
 #### Status
 ACCEPTED

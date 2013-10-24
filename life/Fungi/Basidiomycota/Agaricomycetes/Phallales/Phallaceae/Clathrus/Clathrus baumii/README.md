@@ -1,5 +1,4 @@
-Clathrus baumii Henn. SPECIES
-=======
+# Clathrus baumii Henn. SPECIES
 
 #### Status
 ACCEPTED

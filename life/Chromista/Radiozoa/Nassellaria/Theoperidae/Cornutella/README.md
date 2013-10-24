@@ -1,5 +1,4 @@
-Cornutella Ehrenberg, 1839 GENUS
-=======
+# Cornutella Ehrenberg, 1839 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibbera patagonica Rehm SPECIES
-=======
+# Gibbera patagonica Rehm SPECIES
 
 #### Status
 ACCEPTED

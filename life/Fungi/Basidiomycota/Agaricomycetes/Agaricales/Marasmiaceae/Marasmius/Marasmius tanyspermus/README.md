@@ -1,5 +1,4 @@
-Marasmius tanyspermus Singer SPECIES
-=======
+# Marasmius tanyspermus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichertina Palmieri, 1994 GENUS
-=======
+# Teichertina Palmieri, 1994 GENUS
 
 #### Status
 ACCEPTED

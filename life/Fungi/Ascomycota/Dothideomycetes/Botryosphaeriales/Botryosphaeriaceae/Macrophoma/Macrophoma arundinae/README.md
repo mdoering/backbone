@@ -1,5 +1,4 @@
-Macrophoma arundinae Gäum. SPECIES
-=======
+# Macrophoma arundinae Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectania lilliputiana Le Gal SPECIES
-=======
+# Plectania lilliputiana Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria achyranthis-asperae Canonaco SPECIES
-=======
+# Septoria achyranthis-asperae Canonaco SPECIES
 
 #### Status
 ACCEPTED

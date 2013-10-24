@@ -1,5 +1,4 @@
-Arthopyrenia bohemica E.K. Novák SPECIES
-=======
+# Arthopyrenia bohemica E.K. Novák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria limaeformis Schwein. SPECIES
-=======
+# Sphaeria limaeformis Schwein. SPECIES
 
 #### Status
 ACCEPTED

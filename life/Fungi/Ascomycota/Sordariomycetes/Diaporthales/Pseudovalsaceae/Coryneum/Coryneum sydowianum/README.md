@@ -1,5 +1,4 @@
-Coryneum sydowianum Allesch. SPECIES
-=======
+# Coryneum sydowianum Allesch. SPECIES
 
 #### Status
 ACCEPTED

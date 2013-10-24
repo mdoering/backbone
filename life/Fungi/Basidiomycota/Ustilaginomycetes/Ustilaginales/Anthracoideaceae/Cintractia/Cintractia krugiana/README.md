@@ -1,5 +1,4 @@
-Cintractia krugiana var. krugiana VARIETY
-=======
+# Cintractia krugiana Magnus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cintractia krugiana var. krugiana
+Cintractia krugiana Magnus
 
 ### Remarks
 null

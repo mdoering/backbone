@@ -1,5 +1,4 @@
-Roccellina cerebriformis f. sorediata Tehler FORM
-=======
+# Roccellina cerebriformis (Mont.) Tehler SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Op. bot. 70: 53 (1983)
+Op. bot. 70: 51 (1983)
 
 #### Original name
-Roccellina cerebriformis f. sorediata Tehler
+Chiodecton cerebriforme Mont.
 
 ### Remarks
 null

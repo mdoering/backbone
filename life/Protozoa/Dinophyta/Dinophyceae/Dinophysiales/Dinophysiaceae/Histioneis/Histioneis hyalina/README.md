@@ -1,5 +1,4 @@
-Histioneis hyalina Kofoid & Michener SPECIES
-=======
+# Histioneis hyalina Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

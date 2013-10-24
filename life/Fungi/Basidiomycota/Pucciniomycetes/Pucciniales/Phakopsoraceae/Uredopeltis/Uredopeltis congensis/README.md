@@ -1,5 +1,4 @@
-Uredopeltis congensis Henn., 1908 SPECIES
-=======
+# Uredopeltis congensis Henn., 1908 SPECIES
 
 #### Status
 ACCEPTED

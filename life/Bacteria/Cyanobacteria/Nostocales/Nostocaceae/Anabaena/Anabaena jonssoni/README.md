@@ -1,5 +1,4 @@
-Anabaena jonssoni J.B. Petersen SPECIES
-=======
+# Anabaena jonssoni J.B. Petersen SPECIES
 
 #### Status
 ACCEPTED

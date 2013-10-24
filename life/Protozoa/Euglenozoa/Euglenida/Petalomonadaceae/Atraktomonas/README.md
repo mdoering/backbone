@@ -1,5 +1,4 @@
-Atraktomonas Christen, 1962 GENUS
-=======
+# Atraktomonas Christen, 1962 GENUS
 
 #### Status
 ACCEPTED

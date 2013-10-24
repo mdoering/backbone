@@ -1,5 +1,4 @@
-Mycoblastus glabrescens (Nyl.) Zahlbr. SPECIES
-=======
+# Mycoblastus glabrescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

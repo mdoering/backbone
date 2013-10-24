@@ -1,5 +1,4 @@
-Lachnocladium subarticulatum Henn., 1900 SPECIES
-=======
+# Lachnocladium subarticulatum Henn., 1900 SPECIES
 
 #### Status
 ACCEPTED

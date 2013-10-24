@@ -1,5 +1,4 @@
-Bolosphaera cyanomela Syd. SPECIES
-=======
+# Bolosphaera cyanomela Syd. SPECIES
 
 #### Status
 ACCEPTED

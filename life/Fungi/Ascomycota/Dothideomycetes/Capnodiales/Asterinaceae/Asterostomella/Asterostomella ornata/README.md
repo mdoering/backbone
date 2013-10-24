@@ -1,5 +1,4 @@
-Asterostomella ornata Cif. SPECIES
-=======
+# Asterostomella ornata Cif. SPECIES
 
 #### Status
 ACCEPTED

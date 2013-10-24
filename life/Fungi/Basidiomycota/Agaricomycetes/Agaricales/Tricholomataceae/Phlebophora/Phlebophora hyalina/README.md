@@ -1,5 +1,4 @@
-Phlebophora hyalina Petch SPECIES
-=======
+# Phlebophora hyalina Petch SPECIES
 
 #### Status
 ACCEPTED

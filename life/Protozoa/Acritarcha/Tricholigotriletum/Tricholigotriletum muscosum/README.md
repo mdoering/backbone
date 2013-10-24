@@ -1,5 +1,4 @@
-Tricholigotriletum muscosum Timofeev, 1959 SPECIES
-=======
+# Tricholigotriletum muscosum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma albatum Hesler SPECIES
-=======
+# Entoloma albatum Hesler SPECIES
 
 #### Status
 ACCEPTED

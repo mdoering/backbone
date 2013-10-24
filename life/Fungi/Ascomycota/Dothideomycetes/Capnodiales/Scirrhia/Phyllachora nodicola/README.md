@@ -1,5 +1,4 @@
-Phyllachora nodicola (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora nodicola (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

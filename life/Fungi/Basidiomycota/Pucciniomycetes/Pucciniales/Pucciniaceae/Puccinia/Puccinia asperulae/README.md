@@ -1,5 +1,4 @@
-Puccinia asperulae Fuckel SPECIES
-=======
+# Puccinia asperulae Fuckel SPECIES
 
 #### Status
 ACCEPTED

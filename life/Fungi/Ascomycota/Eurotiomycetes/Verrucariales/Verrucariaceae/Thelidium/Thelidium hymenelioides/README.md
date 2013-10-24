@@ -1,5 +1,4 @@
-Thelidium hymenelioides Körb. SPECIES
-=======
+# Thelidium hymenelioides Körb. SPECIES
 
 #### Status
 ACCEPTED

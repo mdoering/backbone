@@ -1,5 +1,4 @@
-Marasmiellus filopes (Peck) Redhead SPECIES
-=======
+# Marasmiellus filopes (Peck) Redhead SPECIES
 
 #### Status
 ACCEPTED

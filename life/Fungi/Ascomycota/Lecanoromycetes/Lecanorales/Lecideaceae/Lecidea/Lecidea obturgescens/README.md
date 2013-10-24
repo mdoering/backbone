@@ -1,5 +1,4 @@
-Lecidea obturgescens Kremp. SPECIES
-=======
+# Lecidea obturgescens Kremp. SPECIES
 
 #### Status
 ACCEPTED

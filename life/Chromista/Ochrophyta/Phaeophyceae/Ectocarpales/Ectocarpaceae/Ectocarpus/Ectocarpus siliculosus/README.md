@@ -1,14 +1,13 @@
-Ectocarpus confervoides var. longipes Harvey VARIETY
-=======
+# Ectocarpus siliculosus (Dillwyn) Lyngbye SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lyngbye, H. C. (1819). Tentamen hydrophytologiae danicae. : Copenhagen, Denemarken. xxxii, 248 pp.
 
 #### Original name
 null

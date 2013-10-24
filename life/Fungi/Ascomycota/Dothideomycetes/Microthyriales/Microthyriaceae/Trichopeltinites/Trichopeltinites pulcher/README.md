@@ -1,5 +1,4 @@
-Trichopeltinites pulcher Cookson SPECIES
-=======
+# Trichopeltinites pulcher Cookson SPECIES
 
 #### Status
 ACCEPTED

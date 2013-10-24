@@ -1,5 +1,4 @@
-Laccaria chibinensis Mikhailovskii {?} SPECIES
-=======
+# Laccaria chibinensis Mikhailovskii {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton substellatum Vain. SPECIES
-=======
+# Chiodecton substellatum Vain. SPECIES
 
 #### Status
 ACCEPTED

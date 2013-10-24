@@ -1,5 +1,4 @@
-Physcia corallophora SPECIES
-=======
+# Physcia corallophora SPECIES
 
 #### Status
 ACCEPTED

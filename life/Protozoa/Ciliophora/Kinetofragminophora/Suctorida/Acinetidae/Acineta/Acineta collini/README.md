@@ -1,5 +1,4 @@
-Acineta collini Kahl, 1934 SPECIES
-=======
+# Acineta collini Kahl, 1934 SPECIES
 
 #### Status
 ACCEPTED

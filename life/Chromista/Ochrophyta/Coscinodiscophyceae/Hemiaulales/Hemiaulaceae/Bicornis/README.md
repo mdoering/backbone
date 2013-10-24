@@ -1,5 +1,4 @@
-Bicornis J.Fenner, 1947 GENUS
-=======
+# Bicornis J.Fenner, 1947 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Biatora lightfootii f. commutata (Ach.) Zopf FORM
-=======
+# Fuscidea lightfootii (Sm.) Coppins & P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 10(2): 201 (1978)
 
 #### Original name
-Lecanora commutata Ach.
+Lichen lightfootii Sm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria byssacea Weigel SPECIES
-=======
+# Sphaeria byssacea Weigel SPECIES
 
 #### Status
 ACCEPTED

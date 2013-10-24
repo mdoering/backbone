@@ -1,5 +1,4 @@
-Buellia glomerulosa Malme SPECIES
-=======
+# Buellia glomerulosa Malme SPECIES
 
 #### Status
 ACCEPTED

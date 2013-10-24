@@ -1,5 +1,4 @@
-Septoria alopecuri-agrestis Frandsen SPECIES
-=======
+# Septoria alopecuri-agrestis Frandsen SPECIES
 
 #### Status
 ACCEPTED

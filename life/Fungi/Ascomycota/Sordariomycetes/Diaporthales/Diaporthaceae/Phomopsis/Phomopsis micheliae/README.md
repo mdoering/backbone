@@ -1,5 +1,4 @@
-Phomopsis micheliae Sankaran, Florence & J.K. Sharma SPECIES
-=======
+# Phomopsis micheliae Sankaran, Florence & J.K. Sharma SPECIES
 
 #### Status
 ACCEPTED

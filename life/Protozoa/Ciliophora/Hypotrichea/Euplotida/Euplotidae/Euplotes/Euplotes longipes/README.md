@@ -1,5 +1,4 @@
-Euplotes longipes Claparède & Lachmann, 1858 SPECIES
-=======
+# Euplotes longipes Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

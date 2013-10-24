@@ -1,5 +1,4 @@
-Gasparrinia arctica N.S. Golubk. & Savicz SPECIES
-=======
+# Gasparrinia arctica N.S. Golubk. & Savicz SPECIES
 
 #### Status
 ACCEPTED

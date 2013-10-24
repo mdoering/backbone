@@ -1,5 +1,4 @@
-Puccinia bakshii A.B. De SPECIES
-=======
+# Puccinia bakshii A.B. De SPECIES
 
 #### Status
 ACCEPTED

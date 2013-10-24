@@ -1,5 +1,4 @@
-Peziza juncina Rehm SPECIES
-=======
+# Peziza juncina Rehm SPECIES
 
 #### Status
 ACCEPTED

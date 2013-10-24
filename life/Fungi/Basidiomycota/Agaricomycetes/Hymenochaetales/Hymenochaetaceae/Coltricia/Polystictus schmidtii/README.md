@@ -1,5 +1,4 @@
-Polystictus schmidtii (Rostr.) Sacc. & D. Sacc. SPECIES
-=======
+# Polystictus schmidtii (Rostr.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

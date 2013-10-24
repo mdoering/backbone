@@ -1,5 +1,4 @@
-Condylostoma kasymovi SPECIES
-=======
+# Condylostoma kasymovi SPECIES
 
 #### Status
 ACCEPTED

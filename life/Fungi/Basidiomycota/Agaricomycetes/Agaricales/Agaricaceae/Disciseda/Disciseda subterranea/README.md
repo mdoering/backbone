@@ -1,5 +1,4 @@
-Disciseda subterranea (Peck) Coker & Couch SPECIES
-=======
+# Disciseda subterranea (Peck) Coker & Couch SPECIES
 
 #### Status
 ACCEPTED

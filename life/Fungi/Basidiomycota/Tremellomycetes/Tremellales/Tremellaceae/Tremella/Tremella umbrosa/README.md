@@ -1,5 +1,4 @@
-Tremella umbrosa Opiz SPECIES
-=======
+# Tremella umbrosa Opiz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella vitensis Unamuno SPECIES
-=======
+# Sphaerella vitensis Unamuno SPECIES
 
 #### Status
 ACCEPTED

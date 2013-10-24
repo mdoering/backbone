@@ -1,5 +1,4 @@
-Trichoseptoria golovinii Negru SPECIES
-=======
+# Trichoseptoria golovinii Negru SPECIES
 
 #### Status
 ACCEPTED

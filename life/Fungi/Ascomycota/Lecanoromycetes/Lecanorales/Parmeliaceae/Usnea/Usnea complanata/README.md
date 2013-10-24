@@ -1,5 +1,4 @@
-Usnea complanata (Müll. Arg.) Motyka SPECIES
-=======
+# Usnea complanata (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

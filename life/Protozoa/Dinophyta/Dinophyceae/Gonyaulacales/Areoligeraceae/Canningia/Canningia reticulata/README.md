@@ -1,5 +1,4 @@
-Canningia reticulata Cookson & Eisenack SPECIES
-=======
+# Canningia reticulata Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

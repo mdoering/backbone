@@ -1,5 +1,4 @@
-Phoma arunci Allesch. SPECIES
-=======
+# Phoma arunci Allesch. SPECIES
 
 #### Status
 ACCEPTED

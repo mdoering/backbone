@@ -1,5 +1,4 @@
-Dactylosporium GENUS
-=======
+# Dactylosporium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula occulta Ellis & Barthol. SPECIES
-=======
+# Torula occulta Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

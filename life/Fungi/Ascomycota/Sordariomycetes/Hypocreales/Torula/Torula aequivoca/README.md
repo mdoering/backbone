@@ -1,5 +1,4 @@
-Torula aequivoca Corda SPECIES
-=======
+# Torula aequivoca Corda SPECIES
 
 #### Status
 ACCEPTED

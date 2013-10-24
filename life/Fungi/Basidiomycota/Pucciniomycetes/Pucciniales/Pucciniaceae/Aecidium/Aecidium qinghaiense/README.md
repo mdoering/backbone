@@ -1,5 +1,4 @@
-Aecidium qinghaiense J.Y. Zhuang SPECIES
-=======
+# Aecidium qinghaiense J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

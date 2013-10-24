@@ -1,5 +1,4 @@
-Cladosporium oligocarpum Corda SPECIES
-=======
+# Cladosporium oligocarpum Corda SPECIES
 
 #### Status
 ACCEPTED

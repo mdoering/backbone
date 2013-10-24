@@ -1,5 +1,4 @@
-Phallus tenuissimus T.H. Li, W.Q. Deng & B. Liu SPECIES
-=======
+# Phallus tenuissimus T.H. Li, W.Q. Deng & B. Liu SPECIES
 
 #### Status
 ACCEPTED

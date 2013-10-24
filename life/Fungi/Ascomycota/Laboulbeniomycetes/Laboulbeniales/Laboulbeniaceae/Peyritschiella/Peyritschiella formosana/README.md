@@ -1,5 +1,4 @@
-Peyritschiella formosana K. Sugiy. SPECIES
-=======
+# Peyritschiella formosana K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

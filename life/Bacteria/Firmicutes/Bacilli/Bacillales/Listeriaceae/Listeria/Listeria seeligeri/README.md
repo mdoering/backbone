@@ -1,5 +1,4 @@
-Listeria seeligeri Rocourt & Grimont, 1983 SPECIES
-=======
+# Listeria seeligeri Rocourt & Grimont, 1983 SPECIES
 
 #### Status
 ACCEPTED

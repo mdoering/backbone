@@ -1,5 +1,4 @@
-Gonytrichum luteoviride Torrend SPECIES
-=======
+# Gonytrichum luteoviride Torrend SPECIES
 
 #### Status
 ACCEPTED

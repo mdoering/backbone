@@ -1,5 +1,4 @@
-Monodinium armatum (Penard, 1922) Foissner, Berger & Schaumburg, 1999 SPECIES
-=======
+# Monodinium armatum (Penard, 1922) Foissner, Berger & Schaumburg, 1999 SPECIES
 
 #### Status
 ACCEPTED

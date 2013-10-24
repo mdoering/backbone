@@ -1,17 +1,16 @@
-Uredo lotononidis Doidge SPECIES
-=======
+# Uredo lotononi Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 2(1a): 196 (1927)
 
 #### Original name
-Uredo lotononidis Doidge
+Uredo lotononi Doidge
 
 ### Remarks
 null

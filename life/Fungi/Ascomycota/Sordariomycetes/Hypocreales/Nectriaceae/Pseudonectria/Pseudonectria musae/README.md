@@ -1,5 +1,4 @@
-Pseudonectria musae Hochapfel SPECIES
-=======
+# Pseudonectria musae Hochapfel SPECIES
 
 #### Status
 ACCEPTED

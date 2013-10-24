@@ -1,5 +1,4 @@
-Sphaerella muscicola Racov. SPECIES
-=======
+# Sphaerella muscicola Racov. SPECIES
 
 #### Status
 ACCEPTED

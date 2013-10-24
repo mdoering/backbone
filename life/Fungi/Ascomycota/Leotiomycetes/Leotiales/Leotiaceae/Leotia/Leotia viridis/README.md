@@ -1,5 +1,4 @@
-Leotia viridis Fuckel SPECIES
-=======
+# Leotia viridis Fuckel SPECIES
 
 #### Status
 ACCEPTED

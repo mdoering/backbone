@@ -1,5 +1,4 @@
-Phacidiella eucalypti Crous SPECIES
-=======
+# Phacidiella eucalypti Crous SPECIES
 
 #### Status
 ACCEPTED

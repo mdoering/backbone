@@ -1,14 +1,13 @@
-Pseudocercospora ixoriana (J.M. Yen & Lim) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora ixorana (J.M. Yen & Lim) U. Braun & Crous SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 230 (2003)
 
 #### Original name
 Cercospora ixorana J.M. Yen & Lim

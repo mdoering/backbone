@@ -1,5 +1,4 @@
-Fusisporium foeni Link, 1809 SPECIES
-=======
+# Fusisporium foeni Link, 1809 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia triniae Gäum. SPECIES
-=======
+# Puccinia triniae Gäum. SPECIES
 
 #### Status
 ACCEPTED

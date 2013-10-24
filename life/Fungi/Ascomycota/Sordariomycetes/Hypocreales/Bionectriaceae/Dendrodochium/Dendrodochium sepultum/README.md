@@ -1,5 +1,4 @@
-Dendrodochium sepultum Ellis & Everh. SPECIES
-=======
+# Dendrodochium sepultum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

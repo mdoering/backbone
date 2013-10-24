@@ -1,5 +1,4 @@
-Rosellinia sublimbata (Durieu & Mont.) Pass. SPECIES
-=======
+# Rosellinia sublimbata (Durieu & Mont.) Pass. SPECIES
 
 #### Status
 ACCEPTED

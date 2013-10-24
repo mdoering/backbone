@@ -1,5 +1,4 @@
-Rinodina contribuens SPECIES
-=======
+# Rinodina contribuens SPECIES
 
 #### Status
 ACCEPTED

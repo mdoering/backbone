@@ -1,5 +1,4 @@
-Rhabdospora continua (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rhabdospora continua (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

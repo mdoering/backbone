@@ -1,5 +1,4 @@
-Irenita Wynn Jones, 1984 GENUS
-=======
+# Irenita Wynn Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

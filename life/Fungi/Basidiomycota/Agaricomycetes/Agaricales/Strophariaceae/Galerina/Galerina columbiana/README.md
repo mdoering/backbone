@@ -1,5 +1,4 @@
-Galerina columbiana Singer SPECIES
-=======
+# Galerina columbiana Singer SPECIES
 
 #### Status
 ACCEPTED

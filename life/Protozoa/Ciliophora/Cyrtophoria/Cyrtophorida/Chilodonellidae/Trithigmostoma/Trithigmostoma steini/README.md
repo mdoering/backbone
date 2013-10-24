@@ -1,8 +1,7 @@
-Chilodonella bengalensis (Ghosh, 1921) Kahl SPECIES
-=======
+# Trithigmostoma steini (Blochmann, 1895) Foissner, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

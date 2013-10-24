@@ -1,5 +1,4 @@
-Dermatella mirabilis Syd., 1925 SPECIES
-=======
+# Dermatella mirabilis Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

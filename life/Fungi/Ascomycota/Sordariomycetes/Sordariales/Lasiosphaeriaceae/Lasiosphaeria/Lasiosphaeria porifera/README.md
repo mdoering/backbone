@@ -1,5 +1,4 @@
-Lasiosphaeria porifera Réblová SPECIES
-=======
+# Lasiosphaeria porifera Réblová SPECIES
 
 #### Status
 ACCEPTED

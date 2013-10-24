@@ -1,5 +1,4 @@
-Verrucaria insculptella Servít SPECIES
-=======
+# Verrucaria insculptella Servít SPECIES
 
 #### Status
 ACCEPTED

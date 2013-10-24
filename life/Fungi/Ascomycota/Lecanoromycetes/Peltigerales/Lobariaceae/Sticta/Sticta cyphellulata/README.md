@@ -1,5 +1,4 @@
-Sticta cyphellulata (Müll. Arg.) Hue SPECIES
-=======
+# Sticta cyphellulata (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

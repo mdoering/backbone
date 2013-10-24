@@ -1,5 +1,4 @@
-Pannaria pityrella Stirt. SPECIES
-=======
+# Pannaria pityrella Stirt. SPECIES
 
 #### Status
 ACCEPTED

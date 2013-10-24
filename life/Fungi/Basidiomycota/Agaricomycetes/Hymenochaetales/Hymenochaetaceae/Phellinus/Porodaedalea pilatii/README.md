@@ -1,5 +1,4 @@
-Porodaedalea pilatii (Cerný) Fiasson & Niemelä SPECIES
-=======
+# Porodaedalea pilatii (Cerný) Fiasson & Niemelä SPECIES
 
 #### Status
 ACCEPTED

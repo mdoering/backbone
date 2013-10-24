@@ -1,5 +1,4 @@
-Cerotelium bauhiniae Thirum. & Yadav SPECIES
-=======
+# Cerotelium bauhiniae Thirum. & Yadav SPECIES
 
 #### Status
 ACCEPTED

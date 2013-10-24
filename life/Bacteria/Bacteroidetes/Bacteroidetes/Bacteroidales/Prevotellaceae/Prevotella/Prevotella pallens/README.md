@@ -1,5 +1,4 @@
-Prevotella pallens Könönen et al., 1998 SPECIES
-=======
+# Prevotella pallens Könönen et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

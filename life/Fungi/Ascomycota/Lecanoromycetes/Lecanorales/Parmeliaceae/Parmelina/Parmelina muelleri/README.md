@@ -1,5 +1,4 @@
-Parmelina muelleri (Vain.) Hale SPECIES
-=======
+# Parmelina muelleri (Vain.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Taphrina minor Sadeb., 1890 SPECIES
-=======
+# Taphrina wiesneri (Ráthay) Mix, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Krit. Unters. Taphr. 24 (1890)
+Trans. Kansas Acad. Sci. 57(1): 64 (1954)
 
 #### Original name
-Taphrina minor Sadeb., 1890
+Exoascus wiesneri Ráthay, 1880
 
 ### Remarks
 null

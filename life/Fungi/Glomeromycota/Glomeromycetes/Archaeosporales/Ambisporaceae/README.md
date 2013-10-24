@@ -1,5 +1,4 @@
-Ambisporaceae C. Walker, Vestberg & A. Schüssler FAMILY
-=======
+# Ambisporaceae C. Walker, Vestberg & A. Schüssler FAMILY
 
 #### Status
 ACCEPTED

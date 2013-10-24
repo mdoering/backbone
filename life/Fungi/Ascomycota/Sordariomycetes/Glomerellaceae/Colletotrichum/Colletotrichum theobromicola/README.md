@@ -1,5 +1,4 @@
-Colletotrichum theobromicola Delacr. SPECIES
-=======
+# Colletotrichum theobromicola Delacr. SPECIES
 
 #### Status
 ACCEPTED

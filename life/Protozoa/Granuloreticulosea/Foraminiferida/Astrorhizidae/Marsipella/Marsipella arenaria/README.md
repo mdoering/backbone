@@ -1,5 +1,4 @@
-Marsipella arenaria Christiansen, 1958 SPECIES
-=======
+# Marsipella arenaria Christiansen, 1958 SPECIES
 
 #### Status
 ACCEPTED

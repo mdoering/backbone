@@ -1,5 +1,4 @@
-Ramularia jordanovii Vanev & Bakalova SPECIES
-=======
+# Ramularia jordanovii Vanev & Bakalova SPECIES
 
 #### Status
 ACCEPTED

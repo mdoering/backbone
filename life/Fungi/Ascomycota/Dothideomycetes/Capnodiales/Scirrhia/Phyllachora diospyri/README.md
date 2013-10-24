@@ -1,5 +1,4 @@
-Phyllachora diospyri Ullasa, 1969 SPECIES
-=======
+# Phyllachora diospyri Ullasa, 1969 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Tintinnus conicus Dixon & Jolly, 1898 SPECIES
-=======
+# Tintinnus conicus Dixon & Jolly, 1898 SPECIES
 
 #### Status
 ACCEPTED

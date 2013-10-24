@@ -1,5 +1,4 @@
-Mycena pullata var. minor Bres. VARIETY
-=======
+# Mycena pullata (Berk. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Fl. ital. crypt. 1(14): 266 (1915)
+Syll. fung. (Abellini) 5: 277 (1887)
 
 #### Original name
-Mycena pullata var. minor Bres.
+Agaricus pullatus Bolton
 
 ### Remarks
 null

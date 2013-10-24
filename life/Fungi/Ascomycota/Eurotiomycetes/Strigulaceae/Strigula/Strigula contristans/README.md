@@ -1,5 +1,4 @@
-Strigula contristans Zahlbr. SPECIES
-=======
+# Strigula contristans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

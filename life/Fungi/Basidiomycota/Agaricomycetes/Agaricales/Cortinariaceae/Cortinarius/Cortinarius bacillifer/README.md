@@ -1,5 +1,4 @@
-Cortinarius bacillifer E.H.L. Krause SPECIES
-=======
+# Cortinarius bacillifer E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

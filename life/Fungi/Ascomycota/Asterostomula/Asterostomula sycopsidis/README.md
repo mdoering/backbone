@@ -1,5 +1,4 @@
-Asterostomula sycopsidis Petr. SPECIES
-=======
+# Asterostomula sycopsidis Petr. SPECIES
 
 #### Status
 ACCEPTED

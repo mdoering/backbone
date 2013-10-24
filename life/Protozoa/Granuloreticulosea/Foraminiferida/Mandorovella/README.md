@@ -1,5 +1,4 @@
-Mandorovella de Klasz, le Calvez & Refat, 1969 GENUS
-=======
+# Mandorovella de Klasz, le Calvez & Refat, 1969 GENUS
 
 #### Status
 ACCEPTED

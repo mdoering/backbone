@@ -1,5 +1,4 @@
-Terana hypopyrrhina (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana hypopyrrhina (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

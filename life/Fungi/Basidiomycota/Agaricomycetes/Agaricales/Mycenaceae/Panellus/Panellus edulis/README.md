@@ -1,5 +1,4 @@
-Panellus edulis Y.C. Dai, Niemelä & G.F. Qin SPECIES
-=======
+# Panellus edulis Y.C. Dai, Niemelä & G.F. Qin SPECIES
 
 #### Status
 ACCEPTED

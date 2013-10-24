@@ -1,5 +1,4 @@
-Centrospora gracilis Matsush. SPECIES
-=======
+# Centrospora gracilis Matsush. SPECIES
 
 #### Status
 ACCEPTED

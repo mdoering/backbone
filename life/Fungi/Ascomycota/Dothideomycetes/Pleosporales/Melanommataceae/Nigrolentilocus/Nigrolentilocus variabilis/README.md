@@ -1,14 +1,13 @@
-Pseudospiropes variabilis S. Hughes, 1989 SPECIES
-=======
+# Nigrolentilocus variabilis (S. Hughes) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 27(3): 455 (1989)
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 15 (2001)
 
 #### Original name
 Pseudospiropes variabilis S. Hughes, 1989

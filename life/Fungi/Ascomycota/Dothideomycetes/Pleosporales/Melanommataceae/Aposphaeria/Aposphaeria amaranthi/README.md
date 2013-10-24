@@ -1,17 +1,16 @@
-Aposphaeria amaranti Ellis & Barthol. SPECIES
-=======
+# Aposphaeria amaranthi Ellis & Barthol. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Erythea 4: 4 (1896)
 
 #### Original name
-Aposphaeria amaranti Ellis & Barthol.
+Aposphaeria amaranthi Ellis & Barthol.
 
 ### Remarks
 null

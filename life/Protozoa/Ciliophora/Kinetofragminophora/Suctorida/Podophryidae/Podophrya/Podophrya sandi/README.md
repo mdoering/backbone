@@ -1,5 +1,4 @@
-Podophrya sandi SPECIES
-=======
+# Podophrya sandi SPECIES
 
 #### Status
 ACCEPTED

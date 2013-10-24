@@ -1,5 +1,4 @@
-Helicotrichum albocarneum P. Crouan & H. Crouan SPECIES
-=======
+# Helicotrichum albocarneum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

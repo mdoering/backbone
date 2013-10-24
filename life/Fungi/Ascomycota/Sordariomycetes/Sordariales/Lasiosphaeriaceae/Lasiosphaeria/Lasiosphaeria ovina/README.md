@@ -1,17 +1,16 @@
-Lasiosordariella ovina var. ovina VARIETY
-=======
+# Lasiosphaeria ovina (Pers.) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comm. Soc. crittog. Ital. 1(4): 229 (1863)
 
 #### Original name
-null
+Sphaeria ovina Pers., 1801
 
 ### Remarks
 null

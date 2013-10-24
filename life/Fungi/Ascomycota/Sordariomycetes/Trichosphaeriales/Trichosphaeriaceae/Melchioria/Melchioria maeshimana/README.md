@@ -1,5 +1,4 @@
-Melchioria maeshimana (I. Hino & Katum.) I. Hino & Katum. SPECIES
-=======
+# Melchioria maeshimana (I. Hino & Katum.) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

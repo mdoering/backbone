@@ -1,5 +1,4 @@
-Polyporus inzengae Ces. & De Not. SPECIES
-=======
+# Polyporus inzengae Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

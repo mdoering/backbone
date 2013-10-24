@@ -1,5 +1,4 @@
-Aspergillus sterigmatophorus Sacc. SPECIES
-=======
+# Aspergillus sterigmatophorus Sacc. SPECIES
 
 #### Status
 ACCEPTED

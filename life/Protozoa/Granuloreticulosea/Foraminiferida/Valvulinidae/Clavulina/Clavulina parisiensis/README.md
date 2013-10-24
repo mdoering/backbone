@@ -1,5 +1,4 @@
-Clavulina parisiensis d'Orbigny SPECIES
-=======
+# Clavulina parisiensis d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

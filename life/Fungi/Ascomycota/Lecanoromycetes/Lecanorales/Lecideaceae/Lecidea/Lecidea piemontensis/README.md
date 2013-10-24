@@ -1,5 +1,4 @@
-Lecidea piemontensis B. de Lesd. SPECIES
-=======
+# Lecidea piemontensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

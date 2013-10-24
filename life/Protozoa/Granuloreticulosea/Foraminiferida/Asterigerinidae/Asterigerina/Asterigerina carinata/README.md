@@ -1,5 +1,4 @@
-Asterigerina carinata SPECIES
-=======
+# Asterigerina carinata SPECIES
 
 #### Status
 ACCEPTED

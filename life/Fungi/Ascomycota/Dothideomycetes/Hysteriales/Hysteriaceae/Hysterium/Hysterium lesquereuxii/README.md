@@ -1,5 +1,4 @@
-Hysterium lesquereuxii Duby SPECIES
-=======
+# Hysterium lesquereuxii Duby SPECIES
 
 #### Status
 ACCEPTED

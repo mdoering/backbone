@@ -1,5 +1,4 @@
-Staurolithites elongatus SPECIES
-=======
+# Staurolithites elongatus SPECIES
 
 #### Status
 ACCEPTED

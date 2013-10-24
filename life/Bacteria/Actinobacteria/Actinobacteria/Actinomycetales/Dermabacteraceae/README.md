@@ -1,5 +1,4 @@
-Dermabacteraceae FAMILY
-=======
+# Dermabacteraceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota subpapillata A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subpapillata A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

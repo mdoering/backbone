@@ -1,17 +1,16 @@
-Montagnina Höhn. GENUS
-=======
+# Gibbera E.M. Fries, 1825 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 418 (1910)
+null
 
 #### Original name
-Montagnina Höhn.
+null
 
 ### Remarks
 null

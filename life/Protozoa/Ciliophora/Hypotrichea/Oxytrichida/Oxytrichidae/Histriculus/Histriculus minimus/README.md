@@ -1,8 +1,7 @@
-Parahistriculus minimus Groliere, 1975 SPECIES
-=======
+# Histriculus minimus (Groliere, 1975) Berger & Foissner, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Saccharomyces clava (Wedl {?} ) Sacc. & Traverso SPECIES
-=======
+# Saccharomyces clava (Wedl {?} ) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

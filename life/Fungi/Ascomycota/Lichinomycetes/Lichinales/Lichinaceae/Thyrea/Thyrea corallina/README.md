@@ -1,5 +1,4 @@
-Thyrea corallina (Hazsl.) Szatala SPECIES
-=======
+# Thyrea corallina (Hazsl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

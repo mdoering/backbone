@@ -1,5 +1,4 @@
-Cortinarius arduus Britzelm. SPECIES
-=======
+# Cortinarius arduus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

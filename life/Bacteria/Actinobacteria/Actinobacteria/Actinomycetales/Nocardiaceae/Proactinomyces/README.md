@@ -1,5 +1,4 @@
-Proactinomyces GENUS
-=======
+# Proactinomyces GENUS
 
 #### Status
 ACCEPTED

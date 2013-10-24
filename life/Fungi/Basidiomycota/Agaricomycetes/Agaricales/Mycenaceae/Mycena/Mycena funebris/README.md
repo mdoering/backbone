@@ -1,5 +1,4 @@
-Mycena funebris (Speg.) Sacc. SPECIES
-=======
+# Mycena funebris (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria latifunda E.G. Simmons SPECIES
-=======
+# Alternaria latifunda E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

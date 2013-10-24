@@ -1,5 +1,4 @@
-Lutimaribacter Yoon, Kang, Lee & Oh, 2009 GENUS
-=======
+# Lutimaribacter Yoon, Kang, Lee & Oh, 2009 GENUS
 
 #### Status
 ACCEPTED

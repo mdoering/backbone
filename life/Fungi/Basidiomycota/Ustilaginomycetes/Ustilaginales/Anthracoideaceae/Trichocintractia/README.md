@@ -1,5 +1,4 @@
-Trichocintractia M. Piepenbr. GENUS
-=======
+# Trichocintractia M. Piepenbr. GENUS
 
 #### Status
 ACCEPTED

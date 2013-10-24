@@ -1,5 +1,4 @@
-Camarosporium berberidis Richon SPECIES
-=======
+# Camarosporium berberidis Richon SPECIES
 
 #### Status
 ACCEPTED

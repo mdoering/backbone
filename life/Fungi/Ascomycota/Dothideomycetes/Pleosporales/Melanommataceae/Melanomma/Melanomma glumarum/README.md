@@ -1,5 +1,4 @@
-Melanomma glumarum f. glumarum FORM
-=======
+# Melanomma glumarum I. Miyake SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanomma glumarum f. glumarum
+Melanomma glumarum I. Miyake
 
 ### Remarks
 null

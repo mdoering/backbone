@@ -1,5 +1,4 @@
-Rhizomorpha corticalis Purton SPECIES
-=======
+# Rhizomorpha corticalis Purton SPECIES
 
 #### Status
 ACCEPTED

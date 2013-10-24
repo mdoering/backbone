@@ -1,5 +1,4 @@
-Mycena plectophylla var. plectophylla VARIETY
-=======
+# Mycena plectophylla (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 3: 39 (1970)
 
 #### Original name
-Mycena plectophylla var. plectophylla
+Marasmius plectophyllus Mont.
 
 ### Remarks
 null

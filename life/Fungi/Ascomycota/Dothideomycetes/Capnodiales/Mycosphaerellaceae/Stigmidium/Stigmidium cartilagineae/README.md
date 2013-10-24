@@ -1,5 +1,4 @@
-Stigmidium cartilagineae Calat. & Triebel, 2003 SPECIES
-=======
+# Stigmidium cartilagineae Calat. & Triebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

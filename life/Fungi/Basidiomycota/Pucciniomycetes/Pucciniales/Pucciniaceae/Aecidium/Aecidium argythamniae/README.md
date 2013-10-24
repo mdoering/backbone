@@ -1,17 +1,16 @@
-Aecidium argithamniae Arthur SPECIES
-=======
+# Aecidium argythamniae Arthur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 33: 33 (1906)
 
 #### Original name
-Aecidium argithamniae Arthur
+Aecidium argythamniae Arthur
 
 ### Remarks
 null

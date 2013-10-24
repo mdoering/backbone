@@ -1,5 +1,4 @@
-Agaricus strobilinus Pers. SPECIES
-=======
+# Agaricus strobilinus Pers. SPECIES
 
 #### Status
 ACCEPTED

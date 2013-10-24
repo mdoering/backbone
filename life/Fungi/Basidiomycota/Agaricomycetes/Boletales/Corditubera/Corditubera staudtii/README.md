@@ -1,5 +1,4 @@
-Corditubera staudtii Henn., 1897 SPECIES
-=======
+# Corditubera staudtii Henn., 1897 SPECIES
 
 #### Status
 ACCEPTED

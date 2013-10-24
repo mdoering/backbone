@@ -1,5 +1,4 @@
-Aecidium tataricum Rostr. SPECIES
-=======
+# Aecidium tataricum Rostr. SPECIES
 
 #### Status
 ACCEPTED

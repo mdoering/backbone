@@ -1,5 +1,4 @@
-Puccinia veratri Niessl SPECIES
-=======
+# Puccinia veratri Niessl SPECIES
 
 #### Status
 ACCEPTED

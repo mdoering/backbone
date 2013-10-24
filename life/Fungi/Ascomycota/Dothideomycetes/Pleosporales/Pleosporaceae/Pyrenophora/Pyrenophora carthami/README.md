@@ -1,5 +1,4 @@
-Pyrenophora carthami Politis SPECIES
-=======
+# Pyrenophora carthami Politis SPECIES
 
 #### Status
 ACCEPTED

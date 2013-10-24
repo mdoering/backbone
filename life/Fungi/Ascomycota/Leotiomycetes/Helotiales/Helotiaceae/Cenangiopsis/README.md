@@ -1,17 +1,16 @@
-Pyrenopezizopsis Höhn. GENUS
-=======
+# Cenangiopsis Rehm, 1912 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Ber. dt. bot. Ges. 35: 251 (1917)
+Ber. bayer. bot. Ges. 13: 189 (1912)
 
 #### Original name
-Pyrenopezizopsis Höhn.
+Cenangiopsis Rehm, 1912
 
 ### Remarks
 null

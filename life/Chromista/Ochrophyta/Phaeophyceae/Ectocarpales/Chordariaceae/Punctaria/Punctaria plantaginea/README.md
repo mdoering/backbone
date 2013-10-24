@@ -1,11 +1,10 @@
-Homoeostroma plantagineum J.Agardh, 1896 SPECIES
-=======
+# Punctaria plantaginea (Roth) Greville SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

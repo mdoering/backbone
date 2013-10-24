@@ -1,14 +1,13 @@
-Phorcys winteri (Plowr.) Höhn., 1920 SPECIES
-=======
+# Delitschia winteri (W. Phillips & Plowr.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 734 (1882)
 
 #### Original name
 Sphaeria winteri W. Phillips & Plowr., 1874

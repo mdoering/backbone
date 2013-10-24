@@ -1,5 +1,4 @@
-Usnea jamaicensis Ach. SPECIES
-=======
+# Usnea jamaicensis Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia pseudosipeana Gyeln. SPECIES
-=======
+# Cladonia pseudosipeana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

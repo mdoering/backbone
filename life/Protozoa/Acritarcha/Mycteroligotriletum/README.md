@@ -1,5 +1,4 @@
-Mycteroligotriletum GENUS
-=======
+# Mycteroligotriletum GENUS
 
 #### Status
 ACCEPTED

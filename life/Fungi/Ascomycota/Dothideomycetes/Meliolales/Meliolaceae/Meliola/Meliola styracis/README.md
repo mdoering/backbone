@@ -1,5 +1,4 @@
-Meliola styracis W. Yamam. SPECIES
-=======
+# Meliola styracis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

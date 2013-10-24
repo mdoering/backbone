@@ -1,5 +1,4 @@
-Opegrapha uniseptata Matzer SPECIES
-=======
+# Opegrapha uniseptata Matzer SPECIES
 
 #### Status
 ACCEPTED

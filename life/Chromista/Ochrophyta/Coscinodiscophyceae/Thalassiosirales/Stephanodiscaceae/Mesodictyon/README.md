@@ -1,5 +1,4 @@
-Mesodictyon Theriot & Bradbury, 1987 GENUS
-=======
+# Mesodictyon Theriot & Bradbury, 1987 GENUS
 
 #### Status
 ACCEPTED

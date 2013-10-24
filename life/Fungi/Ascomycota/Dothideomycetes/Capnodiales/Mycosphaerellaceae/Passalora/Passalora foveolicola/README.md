@@ -1,5 +1,4 @@
-Passalora foveolicola (Speg.) K. Schub. & U. Braun SPECIES
-=======
+# Passalora foveolicola (Speg.) K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

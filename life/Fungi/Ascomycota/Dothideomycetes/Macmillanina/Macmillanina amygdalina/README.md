@@ -1,5 +1,4 @@
-Macmillanina amygdalina (Sacc.) Kuntze SPECIES
-=======
+# Macmillanina amygdalina (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

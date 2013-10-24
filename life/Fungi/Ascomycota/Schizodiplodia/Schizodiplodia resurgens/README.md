@@ -1,5 +1,4 @@
-Schizodiplodia resurgens (Cooke & Harkn.) Zambett. SPECIES
-=======
+# Schizodiplodia resurgens (Cooke & Harkn.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

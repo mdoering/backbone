@@ -1,5 +1,4 @@
-Sphaerocarpus luteus Bull. SPECIES
-=======
+# Sphaerocarpus luteus Bull. SPECIES
 
 #### Status
 ACCEPTED

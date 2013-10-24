@@ -1,5 +1,4 @@
-Tintinnopsis strigosa Meunier, 1919 SPECIES
-=======
+# Tintinnopsis strigosa Meunier, 1919 SPECIES
 
 #### Status
 ACCEPTED

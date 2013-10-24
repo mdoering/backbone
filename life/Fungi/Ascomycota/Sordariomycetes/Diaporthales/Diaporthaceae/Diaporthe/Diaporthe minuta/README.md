@@ -1,17 +1,16 @@
-Diaporthe minutis M.K.M. Wong & K.D. Hyde SPECIES
-=======
+# Diaporthe minuta M.K.M. Wong & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 22(1): 24 (2001)
 
 #### Original name
-Diaporthe minutis M.K.M. Wong & K.D. Hyde
+Diaporthe minuta M.K.M. Wong & K.D. Hyde
 
 ### Remarks
 null

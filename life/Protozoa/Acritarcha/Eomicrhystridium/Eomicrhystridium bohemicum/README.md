@@ -1,5 +1,4 @@
-Eomicrhystridium bohemicum Konzalova, 1972 ex Eisenack et al., 1979 SPECIES
-=======
+# Eomicrhystridium bohemicum Konzalova, 1972 ex Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

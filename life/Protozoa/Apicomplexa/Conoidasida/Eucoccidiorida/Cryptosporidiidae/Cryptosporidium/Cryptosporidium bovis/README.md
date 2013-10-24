@@ -1,5 +1,4 @@
-Cryptosporidium bovis Barker & Carbonell, 1974 SPECIES
-=======
+# Cryptosporidium bovis Barker & Carbonell, 1974 SPECIES
 
 #### Status
 ACCEPTED

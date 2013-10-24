@@ -1,5 +1,4 @@
-Parmelia felkaensis Gyeln. SPECIES
-=======
+# Parmelia felkaensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

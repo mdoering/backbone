@@ -1,5 +1,4 @@
-Caloplaca leptopisma (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca leptopisma (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

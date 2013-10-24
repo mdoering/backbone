@@ -1,5 +1,4 @@
-Pyrenophora inclusa (Kunze) Fr. SPECIES
-=======
+# Pyrenophora inclusa (Kunze) Fr. SPECIES
 
 #### Status
 ACCEPTED

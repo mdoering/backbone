@@ -1,14 +1,13 @@
-Parmelia sieberiana Laurer SPECIES
-=======
+# Teloschistes sieberianus (Laurer) Hillmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Linnaea 2: 38 (1827)
+Hedwigia 69: 315 (1930)
 
 #### Original name
 Parmelia sieberiana Laurer

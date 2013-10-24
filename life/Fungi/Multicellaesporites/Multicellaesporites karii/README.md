@@ -1,5 +1,4 @@
-Multicellaesporites karii A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Multicellaesporites karii A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

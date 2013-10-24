@@ -1,5 +1,4 @@
-Lachnum firmum var. firmum VARIETY
-=======
+# Lachnum firmum Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Discom. Bohem. (Prague) 260 (1934)
 
 #### Original name
-Lachnum firmum var. firmum
+Lachnum firmum Velen.
 
 ### Remarks
 null

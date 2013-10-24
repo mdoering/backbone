@@ -1,5 +1,4 @@
-Marinomonas polaris Gupta et al., 2006 SPECIES
-=======
+# Marinomonas polaris Gupta et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia neoweberi Hale SPECIES
-=======
+# Xanthoparmelia neoweberi Hale SPECIES
 
 #### Status
 ACCEPTED

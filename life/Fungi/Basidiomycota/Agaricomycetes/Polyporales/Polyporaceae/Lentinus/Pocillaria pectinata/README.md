@@ -1,5 +1,4 @@
-Pocillaria pectinata (Schwein.) Kuntze SPECIES
-=======
+# Pocillaria pectinata (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

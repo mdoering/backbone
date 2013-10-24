@@ -1,5 +1,4 @@
-Dematium parasiticum Peck SPECIES
-=======
+# Dematium parasiticum Peck SPECIES
 
 #### Status
 ACCEPTED

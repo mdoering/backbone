@@ -1,5 +1,4 @@
-Sphaeria atropae Mont. SPECIES
-=======
+# Sphaeria atropae Mont. SPECIES
 
 #### Status
 ACCEPTED

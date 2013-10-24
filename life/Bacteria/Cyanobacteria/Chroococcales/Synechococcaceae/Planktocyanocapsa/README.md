@@ -1,5 +1,4 @@
-Planktocyanocapsa Hindák, 2002 GENUS
-=======
+# Planktocyanocapsa Hindák, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opeasterina aspidii (Henn.) Speg. SPECIES
-=======
+# Opeasterina aspidii (Henn.) Speg. SPECIES
 
 #### Status
 ACCEPTED

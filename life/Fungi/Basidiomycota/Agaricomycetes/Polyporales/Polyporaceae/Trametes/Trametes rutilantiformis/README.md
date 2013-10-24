@@ -1,5 +1,4 @@
-Trametes rutilantiformis Murrill SPECIES
-=======
+# Trametes rutilantiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

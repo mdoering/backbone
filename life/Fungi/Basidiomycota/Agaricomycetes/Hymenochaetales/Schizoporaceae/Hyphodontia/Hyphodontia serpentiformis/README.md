@@ -1,17 +1,16 @@
-Xylodon serpentiformis (Langer) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia serpentiformis Langer, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 33(3): 404 (1992)
 
 #### Original name
-null
+Hyphodontia serpentiformis Langer, 1992
 
 ### Remarks
 null

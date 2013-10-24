@@ -1,5 +1,4 @@
-Arthonia submiserula Vain. SPECIES
-=======
+# Arthonia submiserula Vain. SPECIES
 
 #### Status
 ACCEPTED

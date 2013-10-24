@@ -1,14 +1,13 @@
-Nummularia broomeiana (Berk. & M.A. Curtis) J.H. Mill. SPECIES
-=======
+# Nummularia broomeana (Berk. & M.A. Curtis) J.H. Mill. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 33(1): 77 (1941)
 
 #### Original name
 Hypoxylon broomeanum Berk. & M.A. Curtis

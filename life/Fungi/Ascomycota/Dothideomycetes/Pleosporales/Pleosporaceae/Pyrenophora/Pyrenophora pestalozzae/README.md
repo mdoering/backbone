@@ -1,5 +1,4 @@
-Pyrenophora pestalozzae Magnus SPECIES
-=======
+# Pyrenophora pestalozzae Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanitopsis annulatovaginata var. annulatovaginata VARIETY
-=======
+# Amanitopsis annulatovaginata (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Iconogr. Mycol. 27(Suppl. 1): 76 (1941)
 
 #### Original name
-Amanitopsis annulatovaginata var. annulatovaginata
+Amanita annulatovaginata Beeli
 
 ### Remarks
 null

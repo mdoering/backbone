@@ -1,5 +1,4 @@
-Corisphaera Kamptner, 1936 GENUS
-=======
+# Corisphaera Kamptner, 1936 GENUS
 
 #### Status
 ACCEPTED

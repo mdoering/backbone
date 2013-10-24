@@ -1,5 +1,4 @@
-Helotiella Sacc. GENUS
-=======
+# Helotiella Sacc. GENUS
 
 #### Status
 ACCEPTED

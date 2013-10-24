@@ -1,5 +1,4 @@
-Lecanora stygioplaca Nyl. SPECIES
-=======
+# Lecanora stygioplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

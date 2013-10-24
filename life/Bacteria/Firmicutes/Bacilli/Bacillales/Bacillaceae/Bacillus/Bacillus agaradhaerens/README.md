@@ -1,5 +1,4 @@
-Bacillus agaradhaerens Nielsen et al., 1995 SPECIES
-=======
+# Bacillus agaradhaerens Nielsen et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

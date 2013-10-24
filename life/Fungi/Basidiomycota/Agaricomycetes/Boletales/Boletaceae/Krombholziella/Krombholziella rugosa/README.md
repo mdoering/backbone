@@ -1,5 +1,4 @@
-Krombholziella rugosa (Fr. & Hök) Bon SPECIES
-=======
+# Krombholziella rugosa (Fr. & Hök) Bon SPECIES
 
 #### Status
 ACCEPTED

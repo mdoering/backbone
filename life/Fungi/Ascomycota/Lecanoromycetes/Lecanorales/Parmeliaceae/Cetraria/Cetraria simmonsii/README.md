@@ -1,5 +1,4 @@
-Cetraria simmonsii Krog SPECIES
-=======
+# Cetraria simmonsii Krog SPECIES
 
 #### Status
 ACCEPTED

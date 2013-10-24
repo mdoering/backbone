@@ -1,5 +1,4 @@
-Cercosporina daizu M. Miura SPECIES
-=======
+# Cercosporina daizu M. Miura SPECIES
 
 #### Status
 ACCEPTED

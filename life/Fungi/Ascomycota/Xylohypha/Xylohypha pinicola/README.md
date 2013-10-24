@@ -1,5 +1,4 @@
-Xylohypha pinicola D. Hawksw., 1975 SPECIES
-=======
+# Xylohypha pinicola D. Hawksw., 1975 SPECIES
 
 #### Status
 ACCEPTED

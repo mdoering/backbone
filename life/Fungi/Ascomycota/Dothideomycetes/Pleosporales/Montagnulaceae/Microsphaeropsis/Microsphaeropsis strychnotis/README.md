@@ -1,5 +1,4 @@
-Microsphaeropsis strychnotis S.M. Lin & P.K. Chi SPECIES
-=======
+# Microsphaeropsis strychnotis S.M. Lin & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

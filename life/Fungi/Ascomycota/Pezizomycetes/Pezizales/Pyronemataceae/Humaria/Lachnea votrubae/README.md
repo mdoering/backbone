@@ -1,5 +1,4 @@
-Lachnea votrubae Velen. SPECIES
-=======
+# Lachnea votrubae Velen. SPECIES
 
 #### Status
 ACCEPTED

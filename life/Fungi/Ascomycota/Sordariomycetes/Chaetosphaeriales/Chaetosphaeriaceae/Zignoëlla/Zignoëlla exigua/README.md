@@ -1,5 +1,4 @@
-Zignoëlla exigua (Cooke & Peck) Sacc. SPECIES
-=======
+# Zignoëlla exigua (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

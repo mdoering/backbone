@@ -1,5 +1,4 @@
-Triscelophorus Ingold GENUS
-=======
+# Triscelophorus Ingold GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merrilliopeltis parvula Syd. SPECIES
-=======
+# Merrilliopeltis parvula Syd. SPECIES
 
 #### Status
 ACCEPTED

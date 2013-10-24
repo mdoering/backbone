@@ -1,5 +1,4 @@
-Lecidea heppiana SPECIES
-=======
+# Lecidea heppiana SPECIES
 
 #### Status
 ACCEPTED

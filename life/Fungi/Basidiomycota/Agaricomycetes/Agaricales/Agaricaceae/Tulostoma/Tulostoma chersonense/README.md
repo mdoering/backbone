@@ -1,5 +1,4 @@
-Tulostoma chersonense Sosin SPECIES
-=======
+# Tulostoma chersonense Sosin SPECIES
 
 #### Status
 ACCEPTED

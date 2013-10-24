@@ -1,5 +1,4 @@
-Acarospora utahensis H. Magn. SPECIES
-=======
+# Acarospora utahensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

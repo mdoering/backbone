@@ -1,5 +1,4 @@
-Vermicularia uncinata Berk. & M.A. Curtis SPECIES
-=======
+# Vermicularia uncinata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

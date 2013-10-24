@@ -1,5 +1,4 @@
-Hebeloma latericolor Mont. SPECIES
-=======
+# Hebeloma latericolor Mont. SPECIES
 
 #### Status
 ACCEPTED

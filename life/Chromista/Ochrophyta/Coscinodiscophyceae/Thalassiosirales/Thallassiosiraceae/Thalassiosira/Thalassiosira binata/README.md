@@ -1,11 +1,10 @@
-Thalassiosira binata subsp. binata SUBSPECIES
-=======
+# Thalassiosira binata Fryxell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Integrated Taxonomic Information System
 
 #### Published in
 null

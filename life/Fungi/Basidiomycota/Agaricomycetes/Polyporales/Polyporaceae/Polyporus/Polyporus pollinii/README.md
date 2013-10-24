@@ -1,5 +1,4 @@
-Polyporus pollinii Heufl. SPECIES
-=======
+# Polyporus pollinii Heufl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Buellia micromera Vain. SPECIES
-=======
+# Baculifera micromera (Vain.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 134 (2000)
 
 #### Original name
 Buellia micromera Vain.

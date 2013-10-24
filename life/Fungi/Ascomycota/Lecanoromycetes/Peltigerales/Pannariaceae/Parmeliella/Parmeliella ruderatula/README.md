@@ -1,5 +1,4 @@
-Parmeliella ruderatula (Nyl.) Hasse SPECIES
-=======
+# Parmeliella ruderatula (Nyl.) Hasse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula himalayana Upreti SPECIES
-=======
+# Pyrenula himalayana Upreti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora megalopotamica Speg. SPECIES
-=======
+# Cercospora megalopotamica Speg. SPECIES
 
 #### Status
 ACCEPTED

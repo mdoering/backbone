@@ -1,5 +1,4 @@
-Nolanea hiemalis Henn. SPECIES
-=======
+# Nolanea hiemalis Henn. SPECIES
 
 #### Status
 ACCEPTED

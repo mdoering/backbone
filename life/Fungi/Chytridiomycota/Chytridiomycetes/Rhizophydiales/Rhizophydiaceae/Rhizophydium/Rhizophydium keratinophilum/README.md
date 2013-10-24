@@ -1,5 +1,4 @@
-Rhizophydium keratinophilum Karling, 1946 SPECIES
-=======
+# Rhizophydium keratinophilum Karling, 1946 SPECIES
 
 #### Status
 ACCEPTED

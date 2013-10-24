@@ -1,5 +1,4 @@
-Smittium tronadorium Lichtw., Ferrington & López-Lastra, 1999 SPECIES
-=======
+# Smittium tronadorium Lichtw., Ferrington & López-Lastra, 1999 SPECIES
 
 #### Status
 ACCEPTED

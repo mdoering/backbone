@@ -1,5 +1,4 @@
-Lichen groenlandicus Oeder SPECIES
-=======
+# Lichen groenlandicus Oeder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Basavamyces V.B. Hosag. GENUS
-=======
+# Basavamyces V.B. Hosag. GENUS
 
 #### Status
 ACCEPTED

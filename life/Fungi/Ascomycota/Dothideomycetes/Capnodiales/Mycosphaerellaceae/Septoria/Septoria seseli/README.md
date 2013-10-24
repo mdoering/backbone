@@ -1,5 +1,4 @@
-Septoria seseli Hollós SPECIES
-=======
+# Septoria seseli Hollós SPECIES
 
 #### Status
 ACCEPTED

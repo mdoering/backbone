@@ -1,5 +1,4 @@
-Arthrinium muelleri M.B. Ellis SPECIES
-=======
+# Arthrinium muelleri M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

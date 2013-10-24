@@ -1,5 +1,4 @@
-Lepiota oedipus Speg. SPECIES
-=======
+# Lepiota oedipus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tremella auricula-judae var. auricula-judae VARIETY
-=======
+# Tremella auricula-judae SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Herb. Fr. 9: tab. 427, fig. 2 (1789)
+null
 
 #### Original name
-Tremella auricula-judae var. auricula-judae
+null
 
 ### Remarks
 null

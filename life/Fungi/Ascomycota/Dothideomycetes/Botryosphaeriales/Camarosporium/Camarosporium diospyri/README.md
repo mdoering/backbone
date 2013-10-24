@@ -1,5 +1,4 @@
-Camarosporium diospyri Syd. & P. Syd. SPECIES
-=======
+# Camarosporium diospyri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

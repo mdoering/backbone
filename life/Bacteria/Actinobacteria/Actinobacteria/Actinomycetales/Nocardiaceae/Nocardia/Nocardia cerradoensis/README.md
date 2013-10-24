@@ -1,5 +1,4 @@
-Nocardia cerradoensis Albuquerque de Barros et al., 2003 SPECIES
-=======
+# Nocardia cerradoensis Albuquerque de Barros et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

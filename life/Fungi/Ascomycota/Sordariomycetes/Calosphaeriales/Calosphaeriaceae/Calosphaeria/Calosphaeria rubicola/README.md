@@ -1,5 +1,4 @@
-Calosphaeria rubicola Petr. SPECIES
-=======
+# Calosphaeria rubicola Petr. SPECIES
 
 #### Status
 ACCEPTED

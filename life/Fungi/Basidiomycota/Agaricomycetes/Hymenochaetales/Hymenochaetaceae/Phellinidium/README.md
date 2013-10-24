@@ -1,5 +1,4 @@
-Phellinidium (Kotl.) Fiasson & Niemelä GENUS
-=======
+# Phellinidium (Kotl.) Fiasson & Niemelä GENUS
 
 #### Status
 ACCEPTED

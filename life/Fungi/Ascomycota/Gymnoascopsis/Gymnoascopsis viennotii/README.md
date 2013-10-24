@@ -1,5 +1,4 @@
-Gymnoascopsis viennotii C. Moreau & M. Moreau SPECIES
-=======
+# Gymnoascopsis viennotii C. Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

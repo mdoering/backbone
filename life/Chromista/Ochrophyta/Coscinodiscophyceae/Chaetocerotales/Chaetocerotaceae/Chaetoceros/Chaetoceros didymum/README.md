@@ -1,5 +1,4 @@
-Chaetoceros didymum Ehrenberg SPECIES
-=======
+# Chaetoceros didymum Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

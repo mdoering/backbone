@@ -1,5 +1,4 @@
-Aspergillopsis tropicalis Speg. SPECIES
-=======
+# Aspergillopsis tropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

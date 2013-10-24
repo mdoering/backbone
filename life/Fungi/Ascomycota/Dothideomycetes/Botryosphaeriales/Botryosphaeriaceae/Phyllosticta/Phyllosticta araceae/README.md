@@ -1,5 +1,4 @@
-Phyllosticta araceae Cif. & Gonz. Frag. SPECIES
-=======
+# Phyllosticta araceae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

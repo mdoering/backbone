@@ -1,5 +1,4 @@
-Collolechia GENUS
-=======
+# Collolechia GENUS
 
 #### Status
 ACCEPTED

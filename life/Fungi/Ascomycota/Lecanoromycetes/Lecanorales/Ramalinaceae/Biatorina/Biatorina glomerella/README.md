@@ -1,5 +1,4 @@
-Biatorina glomerella Nyl. SPECIES
-=======
+# Biatorina glomerella Nyl. SPECIES
 
 #### Status
 ACCEPTED

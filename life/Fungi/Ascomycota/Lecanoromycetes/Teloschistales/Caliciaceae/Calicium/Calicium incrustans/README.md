@@ -1,5 +1,4 @@
-Calicium incrustans Körb. SPECIES
-=======
+# Calicium incrustans Körb. SPECIES
 
 #### Status
 ACCEPTED

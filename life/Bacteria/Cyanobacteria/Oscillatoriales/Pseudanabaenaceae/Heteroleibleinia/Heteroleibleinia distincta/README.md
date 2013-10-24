@@ -1,5 +1,4 @@
-Heteroleibleinia distincta (Schmidle) Anagnostidis & Komarek SPECIES
-=======
+# Heteroleibleinia distincta (Schmidle) Anagnostidis & Komarek SPECIES
 
 #### Status
 ACCEPTED

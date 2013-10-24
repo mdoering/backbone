@@ -1,5 +1,4 @@
-Bacteroides xylanolyticus Scholten-Koerselman et al., 1988 SPECIES
-=======
+# Bacteroides xylanolyticus Scholten-Koerselman et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

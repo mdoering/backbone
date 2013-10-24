@@ -1,5 +1,4 @@
-Dasyscyphus sulphurea Rick SPECIES
-=======
+# Dasyscyphus sulphurea Rick SPECIES
 
 #### Status
 ACCEPTED

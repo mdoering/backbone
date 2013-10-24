@@ -1,5 +1,4 @@
-Rickia uncinata Thaxt. SPECIES
-=======
+# Rickia uncinata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

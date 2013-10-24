@@ -1,5 +1,4 @@
-Phacus contortus Bourrelly SPECIES
-=======
+# Phacus contortus Bourrelly SPECIES
 
 #### Status
 ACCEPTED

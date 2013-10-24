@@ -1,8 +1,7 @@
-Oospora arthuri Sumst. SPECIES
-=======
+# Oospora arthurii Sumst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Oospora arthuri Sumst.
+Oospora arthurii Sumst.
 
 ### Remarks
 null

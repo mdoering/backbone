@@ -1,11 +1,10 @@
-Centrodinium elegans (Pavillard, 1916) F.J.R. Taylor, 1976 SPECIES
-=======
+# Oxytoxum elegans Pavillard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

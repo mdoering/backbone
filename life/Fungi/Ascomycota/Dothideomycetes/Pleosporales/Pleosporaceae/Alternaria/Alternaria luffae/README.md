@@ -1,5 +1,4 @@
-Alternaria luffae T.Y. Zhang SPECIES
-=======
+# Alternaria luffae T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

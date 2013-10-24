@@ -1,17 +1,16 @@
-Tricholoma carneolum (Fr.) P. Karst., 1871 SPECIES
-=======
+# Calocybe persicolor (Fr.) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 15: 48 (1962)
 
 #### Original name
-Agaricus carneolus Fr., 1874
+Agaricus persicolor Fr., 1874
 
 ### Remarks
 null

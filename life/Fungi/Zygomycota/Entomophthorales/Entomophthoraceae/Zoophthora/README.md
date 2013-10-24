@@ -1,5 +1,4 @@
-Zoophthora A. Batko GENUS
-=======
+# Zoophthora A. Batko GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acladium tenerum (Sumst.) SPECIES
-=======
+# Acladium tenerum (Sumst.) SPECIES
 
 #### Status
 ACCEPTED

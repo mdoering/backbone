@@ -1,5 +1,4 @@
-Tapesia caricina Velen. SPECIES
-=======
+# Tapesia caricina Velen. SPECIES
 
 #### Status
 ACCEPTED

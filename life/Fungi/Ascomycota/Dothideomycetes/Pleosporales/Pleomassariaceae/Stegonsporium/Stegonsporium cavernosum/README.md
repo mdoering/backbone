@@ -1,5 +1,4 @@
-Stegonsporium cavernosum Mont. SPECIES
-=======
+# Stegonsporium cavernosum Mont. SPECIES
 
 #### Status
 ACCEPTED

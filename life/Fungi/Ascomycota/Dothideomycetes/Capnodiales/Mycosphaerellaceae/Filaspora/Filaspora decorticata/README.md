@@ -1,5 +1,4 @@
-Filaspora decorticata (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Filaspora decorticata (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus vitreatus Britzelm. SPECIES
-=======
+# Agaricus vitreatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

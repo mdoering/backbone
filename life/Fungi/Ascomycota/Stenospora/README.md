@@ -1,5 +1,4 @@
-Stenospora Deighton GENUS
-=======
+# Stenospora Deighton GENUS
 
 #### Status
 ACCEPTED

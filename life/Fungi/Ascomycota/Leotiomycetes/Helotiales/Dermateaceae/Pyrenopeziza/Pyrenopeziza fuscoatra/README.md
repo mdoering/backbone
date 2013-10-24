@@ -1,5 +1,4 @@
-Pyrenopeziza fuscoatra Hazsl. SPECIES
-=======
+# Pyrenopeziza fuscoatra Hazsl. SPECIES
 
 #### Status
 ACCEPTED

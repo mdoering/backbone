@@ -1,5 +1,4 @@
-Parmelia byrsacea Spreng. SPECIES
-=======
+# Parmelia byrsacea Spreng. SPECIES
 
 #### Status
 ACCEPTED

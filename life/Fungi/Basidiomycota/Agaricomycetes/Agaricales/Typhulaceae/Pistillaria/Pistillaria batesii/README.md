@@ -1,5 +1,4 @@
-Pistillaria batesii Peck SPECIES
-=======
+# Pistillaria batesii Peck SPECIES
 
 #### Status
 ACCEPTED

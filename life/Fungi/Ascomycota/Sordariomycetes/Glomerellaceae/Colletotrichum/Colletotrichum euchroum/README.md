@@ -1,5 +1,4 @@
-Colletotrichum euchroum f. euchroum FORM
-=======
+# Colletotrichum euchroum Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Colletotrichum euchroum f. euchroum
+Colletotrichum euchroum Syd.
 
 ### Remarks
 null

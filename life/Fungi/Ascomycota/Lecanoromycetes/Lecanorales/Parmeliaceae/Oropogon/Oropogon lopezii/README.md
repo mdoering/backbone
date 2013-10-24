@@ -1,5 +1,4 @@
-Oropogon lopezii Essl. SPECIES
-=======
+# Oropogon lopezii Essl. SPECIES
 
 #### Status
 ACCEPTED

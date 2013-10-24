@@ -1,5 +1,4 @@
-Leiophloea clypeata Riedl SPECIES
-=======
+# Leiophloea clypeata Riedl SPECIES
 
 #### Status
 ACCEPTED

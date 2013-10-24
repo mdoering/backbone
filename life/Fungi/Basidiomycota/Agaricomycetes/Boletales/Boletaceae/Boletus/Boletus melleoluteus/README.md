@@ -1,5 +1,4 @@
-Boletus melleoluteus (Snell, E.A. Dick & Hesler) T.J. Baroni & Halling SPECIES
-=======
+# Boletus melleoluteus (Snell, E.A. Dick & Hesler) T.J. Baroni & Halling SPECIES
 
 #### Status
 ACCEPTED

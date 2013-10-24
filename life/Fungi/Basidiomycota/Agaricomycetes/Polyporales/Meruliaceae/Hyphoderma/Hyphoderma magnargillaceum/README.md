@@ -1,5 +1,4 @@
-Hyphoderma magnargillaceum Boidin & Gilles, 1991 SPECIES
-=======
+# Hyphoderma magnargillaceum Boidin & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

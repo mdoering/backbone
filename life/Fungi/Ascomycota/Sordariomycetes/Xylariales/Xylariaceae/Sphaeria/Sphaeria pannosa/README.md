@@ -1,5 +1,4 @@
-Sphaeria pannosa Schwein. SPECIES
-=======
+# Sphaeria pannosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

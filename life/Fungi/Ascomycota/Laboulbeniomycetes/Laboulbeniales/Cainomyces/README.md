@@ -1,5 +1,4 @@
-Cainomyces Thaxt. GENUS
-=======
+# Cainomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca rexfilsonii S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca rexfilsonii S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

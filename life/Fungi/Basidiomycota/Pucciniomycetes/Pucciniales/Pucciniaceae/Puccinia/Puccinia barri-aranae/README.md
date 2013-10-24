@@ -1,5 +1,4 @@
-Puccinia barri-aranae Dietel & Neger SPECIES
-=======
+# Puccinia barri-aranae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

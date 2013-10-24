@@ -1,8 +1,7 @@
-Placodium boranowii (Poelt) Oxner SPECIES
-=======
+# Placodium baranowii (Poelt) Oxner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

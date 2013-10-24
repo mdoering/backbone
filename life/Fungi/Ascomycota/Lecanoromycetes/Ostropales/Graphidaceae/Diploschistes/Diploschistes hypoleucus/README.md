@@ -1,5 +1,4 @@
-Diploschistes hypoleucus Zahlbr. SPECIES
-=======
+# Diploschistes hypoleucus Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

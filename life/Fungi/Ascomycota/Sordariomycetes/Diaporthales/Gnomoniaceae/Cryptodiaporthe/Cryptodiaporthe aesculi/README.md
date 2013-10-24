@@ -1,14 +1,13 @@
-Plagiostoma aesculi (Fuckel) Sogonov, 2008 SPECIES
-=======
+# Cryptodiaporthe aesculi (Fuckel) Petr., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 19(1/2): 119 (1921)
 
 #### Original name
 null

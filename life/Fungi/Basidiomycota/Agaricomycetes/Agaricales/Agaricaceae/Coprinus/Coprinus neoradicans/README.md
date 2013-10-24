@@ -1,5 +1,4 @@
-Coprinus neoradicans Locq. SPECIES
-=======
+# Coprinus neoradicans Locq. SPECIES
 
 #### Status
 ACCEPTED

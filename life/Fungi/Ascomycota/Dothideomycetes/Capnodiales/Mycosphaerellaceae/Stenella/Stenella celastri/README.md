@@ -1,17 +1,16 @@
-Stenella celastrae A.N. Rai & Kamal SPECIES
-=======
+# Stenella celastri A.N. Rai & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 43(2): 214 (1990)
 
 #### Original name
-Stenella celastrae A.N. Rai & Kamal
+Stenella celastri A.N. Rai & Kamal
 
 ### Remarks
 null

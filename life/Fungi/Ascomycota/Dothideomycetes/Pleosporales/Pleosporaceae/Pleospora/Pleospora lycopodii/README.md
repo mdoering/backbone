@@ -1,5 +1,4 @@
-Pleospora lycopodii Lind SPECIES
-=======
+# Pleospora lycopodii Lind SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza caerulea J. Schröt. SPECIES
-=======
+# Trichopeziza caerulea J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

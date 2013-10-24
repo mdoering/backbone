@@ -1,5 +1,4 @@
-Diatrype artocreas Cooke & Massee SPECIES
-=======
+# Diatrype artocreas Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

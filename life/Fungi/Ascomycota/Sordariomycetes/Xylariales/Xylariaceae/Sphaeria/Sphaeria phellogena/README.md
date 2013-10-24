@@ -1,5 +1,4 @@
-Sphaeria phellogena Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria phellogena Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

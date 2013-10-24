@@ -1,5 +1,4 @@
-Arachniotus candicus (Eidam) J. Schröt. SPECIES
-=======
+# Arachniotus candicus (Eidam) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

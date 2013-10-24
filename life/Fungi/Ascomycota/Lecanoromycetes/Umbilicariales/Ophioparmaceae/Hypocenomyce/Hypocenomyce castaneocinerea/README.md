@@ -1,5 +1,4 @@
-Hypocenomyce castaneocinerea (Räsänen) Timdal SPECIES
-=======
+# Hypocenomyce castaneocinerea (Räsänen) Timdal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ancistrocoma pelseneeri Chatton & Lwoff, 1926 SPECIES
-=======
+# Ancistrocoma pelseneeri Chatton & Lwoff, 1926 SPECIES
 
 #### Status
 ACCEPTED

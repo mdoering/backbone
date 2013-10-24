@@ -1,5 +1,4 @@
-Boletus rubeolarius var. rubeolarius VARIETY
-=======
+# Boletus rubeolarius Sowerby SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus rubeolarius var. rubeolarius
+Boletus rubeolarius Sowerby
 
 ### Remarks
 null

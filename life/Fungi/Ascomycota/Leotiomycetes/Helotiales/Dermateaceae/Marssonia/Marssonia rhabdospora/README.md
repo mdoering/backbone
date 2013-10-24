@@ -1,5 +1,4 @@
-Marssonia rhabdospora Ellis & Everh. SPECIES
-=======
+# Marssonia rhabdospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

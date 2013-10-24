@@ -1,5 +1,4 @@
-Rhizocarpon transiens Eitner SPECIES
-=======
+# Rhizocarpon transiens Eitner SPECIES
 
 #### Status
 ACCEPTED

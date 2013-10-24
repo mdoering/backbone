@@ -1,5 +1,4 @@
-Pseudocercosporella eucalyptorum Crous SPECIES
-=======
+# Pseudocercosporella eucalyptorum Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora arabidicola (Rostr.) SPECIES
-=======
+# Rhabdospora arabidicola (Rostr.) SPECIES
 
 #### Status
 ACCEPTED

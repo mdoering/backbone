@@ -1,5 +1,4 @@
-Graphis asahinae Patw. & C.R. Kulk. SPECIES
-=======
+# Graphis asahinae Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

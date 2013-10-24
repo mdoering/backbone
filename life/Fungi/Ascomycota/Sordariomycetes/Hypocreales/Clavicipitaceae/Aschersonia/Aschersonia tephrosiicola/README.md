@@ -1,5 +1,4 @@
-Aschersonia tephrosiicola Henn. SPECIES
-=======
+# Aschersonia tephrosiicola Henn. SPECIES
 
 #### Status
 ACCEPTED

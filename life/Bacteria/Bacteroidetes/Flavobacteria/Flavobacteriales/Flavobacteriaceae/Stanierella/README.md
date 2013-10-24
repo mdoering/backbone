@@ -1,5 +1,4 @@
-Stanierella Nedashkovskaya et al., 2005 GENUS
-=======
+# Stanierella Nedashkovskaya et al., 2005 GENUS
 
 #### Status
 ACCEPTED

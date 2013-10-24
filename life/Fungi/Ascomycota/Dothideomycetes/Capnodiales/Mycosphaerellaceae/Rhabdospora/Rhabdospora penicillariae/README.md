@@ -1,5 +1,4 @@
-Rhabdospora penicillariae Speg. SPECIES
-=======
+# Rhabdospora penicillariae Speg. SPECIES
 
 #### Status
 ACCEPTED

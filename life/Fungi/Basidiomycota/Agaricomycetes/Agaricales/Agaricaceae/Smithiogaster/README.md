@@ -1,5 +1,4 @@
-Smithiogaster J.E. Wright GENUS
-=======
+# Smithiogaster J.E. Wright GENUS
 
 #### Status
 ACCEPTED

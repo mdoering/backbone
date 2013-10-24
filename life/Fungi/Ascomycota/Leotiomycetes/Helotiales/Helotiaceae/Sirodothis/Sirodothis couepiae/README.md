@@ -1,5 +1,4 @@
-Sirodothis couepiae Bat. & Peres SPECIES
-=======
+# Sirodothis couepiae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

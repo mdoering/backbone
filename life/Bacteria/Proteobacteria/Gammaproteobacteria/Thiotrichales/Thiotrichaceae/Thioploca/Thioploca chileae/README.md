@@ -1,5 +1,4 @@
-Thioploca chileae Maier & Gallardo, 1984 SPECIES
-=======
+# Thioploca chileae Maier & Gallardo, 1984 SPECIES
 
 #### Status
 ACCEPTED

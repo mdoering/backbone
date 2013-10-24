@@ -1,5 +1,4 @@
-Scleroderma ohiense (Ellis & Morgan) De Toni SPECIES
-=======
+# Scleroderma ohiense (Ellis & Morgan) De Toni SPECIES
 
 #### Status
 ACCEPTED

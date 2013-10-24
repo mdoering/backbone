@@ -1,8 +1,7 @@
-Gregarina pterotracheae Stuart, 1871 SPECIES
-=======
+# Molluskocystis pterotracheae (Stuart, 1871) Levine, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

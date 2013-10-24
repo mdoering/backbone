@@ -1,5 +1,4 @@
-Asaia krungthepensis Yukphan et al., 2004 SPECIES
-=======
+# Asaia krungthepensis Yukphan et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

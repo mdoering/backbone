@@ -1,5 +1,4 @@
-Gloeocystidiellum vesiculosum (Burt) Boidin, Lanq. & Gilles SPECIES
-=======
+# Gloeocystidiellum vesiculosum (Burt) Boidin, Lanq. & Gilles SPECIES
 
 #### Status
 ACCEPTED

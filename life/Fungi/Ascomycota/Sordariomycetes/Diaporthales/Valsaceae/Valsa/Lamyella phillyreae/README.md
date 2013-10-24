@@ -1,5 +1,4 @@
-Lamyella phillyreae Urries SPECIES
-=======
+# Lamyella phillyreae Urries SPECIES
 
 #### Status
 ACCEPTED

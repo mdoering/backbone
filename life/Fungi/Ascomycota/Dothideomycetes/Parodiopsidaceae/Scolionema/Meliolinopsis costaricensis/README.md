@@ -1,5 +1,4 @@
-Meliolinopsis costaricensis (F. Stevens) Petr. SPECIES
-=======
+# Meliolinopsis costaricensis (F. Stevens) Petr. SPECIES
 
 #### Status
 ACCEPTED

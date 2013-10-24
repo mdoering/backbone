@@ -1,5 +1,4 @@
-Pertusaria zahlbruckneri H. Magn. SPECIES
-=======
+# Pertusaria zahlbruckneri H. Magn. SPECIES
 
 #### Status
 ACCEPTED

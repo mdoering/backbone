@@ -1,5 +1,4 @@
-Biatorella kulshanensis Herre SPECIES
-=======
+# Biatorella kulshanensis Herre SPECIES
 
 #### Status
 ACCEPTED

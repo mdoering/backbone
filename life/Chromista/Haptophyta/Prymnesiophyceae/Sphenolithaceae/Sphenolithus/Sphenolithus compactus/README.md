@@ -1,5 +1,4 @@
-Sphenolithus compactus Backman, 1980 SPECIES
-=======
+# Sphenolithus compactus Backman, 1980 SPECIES
 
 #### Status
 ACCEPTED

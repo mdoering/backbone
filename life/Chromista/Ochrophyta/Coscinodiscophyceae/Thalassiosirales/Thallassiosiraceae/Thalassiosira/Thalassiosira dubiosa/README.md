@@ -1,5 +1,4 @@
-Thalassiosira dubiosa H. J. Schrader SPECIES
-=======
+# Thalassiosira dubiosa H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

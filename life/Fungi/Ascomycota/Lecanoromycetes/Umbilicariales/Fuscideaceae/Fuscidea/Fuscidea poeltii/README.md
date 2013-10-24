@@ -1,5 +1,4 @@
-Fuscidea poeltii Fryday SPECIES
-=======
+# Fuscidea poeltii Fryday SPECIES
 
 #### Status
 ACCEPTED

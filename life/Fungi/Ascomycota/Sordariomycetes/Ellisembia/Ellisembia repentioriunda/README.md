@@ -1,5 +1,4 @@
-Ellisembia repentioriunda Goh & K.D. Hyde SPECIES
-=======
+# Ellisembia repentioriunda Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

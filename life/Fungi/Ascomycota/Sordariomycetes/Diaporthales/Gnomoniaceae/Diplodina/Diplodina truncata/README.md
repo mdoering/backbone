@@ -1,5 +1,4 @@
-Diplodina truncata (Lév.) Sacc. SPECIES
-=======
+# Diplodina truncata (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

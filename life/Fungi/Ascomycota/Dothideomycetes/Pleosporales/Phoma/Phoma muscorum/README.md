@@ -1,5 +1,4 @@
-Phoma muscorum Rostr. SPECIES
-=======
+# Phoma muscorum Rostr. SPECIES
 
 #### Status
 ACCEPTED

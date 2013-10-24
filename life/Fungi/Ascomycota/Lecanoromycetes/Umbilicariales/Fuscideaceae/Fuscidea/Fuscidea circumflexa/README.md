@@ -1,5 +1,4 @@
-Fuscidea circumflexa (Nyl.) V. Wirth & Vezda SPECIES
-=======
+# Fuscidea circumflexa (Nyl.) V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orthosomella E.U. Canning, Wigley & R.J. Barker GENUS
-=======
+# Orthosomella E.U. Canning, Wigley & R.J. Barker GENUS
 
 #### Status
 ACCEPTED

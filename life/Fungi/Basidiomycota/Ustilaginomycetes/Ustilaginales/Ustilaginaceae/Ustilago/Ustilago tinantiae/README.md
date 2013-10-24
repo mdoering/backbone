@@ -1,5 +1,4 @@
-Ustilago tinantiae J.C. Lindq. SPECIES
-=======
+# Ustilago tinantiae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

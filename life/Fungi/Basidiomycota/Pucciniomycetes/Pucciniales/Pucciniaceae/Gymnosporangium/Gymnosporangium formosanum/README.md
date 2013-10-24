@@ -1,5 +1,4 @@
-Gymnosporangium formosanum Hirats. f. & Hashioka, 1935 SPECIES
-=======
+# Gymnosporangium formosanum Hirats. f. & Hashioka, 1935 SPECIES
 
 #### Status
 ACCEPTED

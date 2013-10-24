@@ -1,5 +1,4 @@
-Phyllosticta sedgwickii da Costa {?} & Mundk. SPECIES
-=======
+# Phyllosticta sedgwickii da Costa {?} & Mundk. SPECIES
 
 #### Status
 ACCEPTED

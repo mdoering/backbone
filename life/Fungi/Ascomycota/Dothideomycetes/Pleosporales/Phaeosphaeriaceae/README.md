@@ -1,5 +1,4 @@
-Phaeosphaeriaceae M.E. Barr FAMILY
-=======
+# Phaeosphaeriaceae M.E. Barr FAMILY
 
 #### Status
 ACCEPTED

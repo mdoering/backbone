@@ -1,5 +1,4 @@
-Perisporiacites Félix GENUS
-=======
+# Perisporiacites Félix GENUS
 
 #### Status
 ACCEPTED

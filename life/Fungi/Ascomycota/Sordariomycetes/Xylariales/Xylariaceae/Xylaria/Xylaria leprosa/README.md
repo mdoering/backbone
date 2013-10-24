@@ -1,5 +1,4 @@
-Xylaria leprosa Speg. SPECIES
-=======
+# Xylaria leprosa Speg. SPECIES
 
 #### Status
 ACCEPTED

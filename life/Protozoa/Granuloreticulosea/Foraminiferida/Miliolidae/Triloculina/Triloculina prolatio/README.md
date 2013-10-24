@@ -1,5 +1,4 @@
-Triloculina prolatio Saidova, 1975 SPECIES
-=======
+# Triloculina prolatio Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria heloidea Penz. & Sacc. SPECIES
-=======
+# Xylaria heloidea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

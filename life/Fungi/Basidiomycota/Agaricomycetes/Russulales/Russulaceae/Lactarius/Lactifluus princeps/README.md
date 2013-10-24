@@ -1,5 +1,4 @@
-Lactifluus princeps (Berk.) Kuntze SPECIES
-=======
+# Lactifluus princeps (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeospora californica Ellis & Everh. SPECIES
-=======
+# Phloeospora californica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

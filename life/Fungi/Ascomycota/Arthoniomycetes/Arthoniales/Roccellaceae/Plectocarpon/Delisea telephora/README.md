@@ -1,5 +1,4 @@
-Delisea telephora SPECIES
-=======
+# Delisea telephora SPECIES
 
 #### Status
 ACCEPTED

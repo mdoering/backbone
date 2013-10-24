@@ -1,5 +1,4 @@
-Microthelia elata Harm. SPECIES
-=======
+# Microthelia elata Harm. SPECIES
 
 #### Status
 ACCEPTED

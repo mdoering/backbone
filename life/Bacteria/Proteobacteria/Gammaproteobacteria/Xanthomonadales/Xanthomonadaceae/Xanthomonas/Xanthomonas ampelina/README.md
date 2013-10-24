@@ -1,5 +1,4 @@
-Xanthomonas ampelina Panagopoulos, 1969 SPECIES
-=======
+# Xanthomonas ampelina Panagopoulos, 1969 SPECIES
 
 #### Status
 ACCEPTED

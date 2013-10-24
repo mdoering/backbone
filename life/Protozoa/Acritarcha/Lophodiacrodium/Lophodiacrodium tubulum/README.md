@@ -1,5 +1,4 @@
-Lophodiacrodium tubulum (Ouyang Shu et al., 1974) Fensome et al., 1990 SPECIES
-=======
+# Lophodiacrodium tubulum (Ouyang Shu et al., 1974) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

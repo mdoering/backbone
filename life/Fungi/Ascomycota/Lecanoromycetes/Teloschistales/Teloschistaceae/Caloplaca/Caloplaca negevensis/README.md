@@ -1,5 +1,4 @@
-Caloplaca negevensis Reichert & Galun SPECIES
-=======
+# Caloplaca negevensis Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Frontonia tanganyikae Dragesco & Dragesco-Kernéis, 1991 SPECIES
-=======
+# Frontonia tanganyikae Dragesco & Dragesco-Kernéis, 1991 SPECIES
 
 #### Status
 ACCEPTED

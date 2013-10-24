@@ -1,5 +1,4 @@
-Colletotrichum paucipilum Delacr. SPECIES
-=======
+# Colletotrichum paucipilum Delacr. SPECIES
 
 #### Status
 ACCEPTED

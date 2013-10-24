@@ -1,5 +1,4 @@
-Sordaria sparganiicola var. sparganiicola Plowr., 1882 VARIETY
-=======
+# Sordaria sparganiicola W. Phillips & Plowr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bucknall, Proc. Bristol Nat. Soc. , ser. 3 3(3): 268 (1882)
+null
 
 #### Original name
-Sordaria sparganiicola var. sparganiicola Plowr., 1882
+null
 
 ### Remarks
 null

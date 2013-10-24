@@ -1,5 +1,4 @@
-Stagonospora rhoina Briard & Har. SPECIES
-=======
+# Stagonospora rhoina Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

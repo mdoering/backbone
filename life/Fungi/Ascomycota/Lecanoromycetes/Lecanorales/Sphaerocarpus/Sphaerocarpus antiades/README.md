@@ -1,5 +1,4 @@
-Sphaerocarpus antiades Bull. SPECIES
-=======
+# Sphaerocarpus antiades Bull. SPECIES
 
 #### Status
 ACCEPTED

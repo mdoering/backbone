@@ -1,5 +1,4 @@
-Annulohypoxylon rogersii SPECIES
-=======
+# Annulohypoxylon rogersii SPECIES
 
 #### Status
 ACCEPTED

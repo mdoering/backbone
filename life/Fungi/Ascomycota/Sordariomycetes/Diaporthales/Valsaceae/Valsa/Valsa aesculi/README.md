@@ -1,5 +1,4 @@
-Valsa aesculi Oudem. SPECIES
-=======
+# Valsa aesculi Oudem. SPECIES
 
 #### Status
 ACCEPTED

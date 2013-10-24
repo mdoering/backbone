@@ -1,5 +1,4 @@
-Sphaeria oronoensis Ellis & Everh. SPECIES
-=======
+# Sphaeria oronoensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

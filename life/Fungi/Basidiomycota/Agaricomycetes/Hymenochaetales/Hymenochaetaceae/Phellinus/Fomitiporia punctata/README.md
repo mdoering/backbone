@@ -1,5 +1,4 @@
-Fomitiporia punctata (Fr.) Murrill SPECIES
-=======
+# Fomitiporia punctata (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

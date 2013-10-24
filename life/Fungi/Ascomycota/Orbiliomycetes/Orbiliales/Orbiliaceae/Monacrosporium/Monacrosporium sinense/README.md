@@ -1,5 +1,4 @@
-Monacrosporium sinense Xing Z. Liu & K.Q. Zhang SPECIES
-=======
+# Monacrosporium sinense Xing Z. Liu & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

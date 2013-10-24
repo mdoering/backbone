@@ -1,5 +1,4 @@
-Ramaria himalayensis R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria himalayensis R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

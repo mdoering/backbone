@@ -1,5 +1,4 @@
-Dothiorella quercina (Cooke & Ellis) Sacc. SPECIES
-=======
+# Dothiorella quercina (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

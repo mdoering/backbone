@@ -1,5 +1,4 @@
-Methylobacillus pratensis Doronina et al., 2004 SPECIES
-=======
+# Methylobacillus pratensis Doronina et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

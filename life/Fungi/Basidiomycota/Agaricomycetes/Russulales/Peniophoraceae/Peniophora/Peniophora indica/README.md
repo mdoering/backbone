@@ -1,5 +1,4 @@
-Peniophora indica K.S. Thind & S.S. Rattan SPECIES
-=======
+# Peniophora indica K.S. Thind & S.S. Rattan SPECIES
 
 #### Status
 ACCEPTED

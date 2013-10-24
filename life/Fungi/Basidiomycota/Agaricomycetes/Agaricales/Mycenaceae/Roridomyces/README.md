@@ -1,5 +1,4 @@
-Roridomyces Rexer GENUS
-=======
+# Roridomyces Rexer GENUS
 
 #### Status
 ACCEPTED

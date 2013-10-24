@@ -1,14 +1,13 @@
-Scleromitrula candolleana (Lév.) T. Schumach. & Holst-Jensen, 1997 SPECIES
-=======
+# Ciborinia candolleana (Lév.) Whetzel, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoscience 38(1): 65 (1997)
+Mycologia 37(6): 668 (1945)
 
 #### Original name
 null

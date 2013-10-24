@@ -1,5 +1,4 @@
-Spraguea lophii (Doflein) Weissenberg SPECIES
-=======
+# Spraguea lophii (Doflein) Weissenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola pedilanthi (Cif.) Cif. SPECIES
-=======
+# Meliola pedilanthi (Cif.) Cif. SPECIES
 
 #### Status
 ACCEPTED

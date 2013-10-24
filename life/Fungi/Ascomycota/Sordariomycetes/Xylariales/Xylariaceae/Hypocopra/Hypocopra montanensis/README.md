@@ -1,5 +1,4 @@
-Hypocopra montanensis (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Hypocopra montanensis (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

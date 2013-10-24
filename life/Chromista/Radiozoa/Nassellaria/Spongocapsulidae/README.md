@@ -1,5 +1,4 @@
-Spongocapsulidae Pessagno, 1977 FAMILY
-=======
+# Spongocapsulidae Pessagno, 1977 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Candida philogaea Van der Walt & Johannsen, 1975 SPECIES
-=======
+# Yamadazyma philogaea (Van der Walt & Johannsen) Billon-Grand, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 35(2): 202 (1989)
 
 #### Original name
-null
+Pichia philogaea Van der Walt & Johannsen, 1975
 
 ### Remarks
 null

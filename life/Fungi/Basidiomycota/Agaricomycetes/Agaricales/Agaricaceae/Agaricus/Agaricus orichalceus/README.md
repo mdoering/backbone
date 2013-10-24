@@ -1,5 +1,4 @@
-Agaricus orichalceus Batsch SPECIES
-=======
+# Agaricus orichalceus Batsch SPECIES
 
 #### Status
 ACCEPTED

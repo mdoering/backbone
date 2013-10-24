@@ -1,5 +1,4 @@
-Catillaria yünnana SPECIES
-=======
+# Catillaria yünnana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gaulobacter GENUS
-=======
+# Gaulobacter GENUS
 
 #### Status
 ACCEPTED

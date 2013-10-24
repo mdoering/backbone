@@ -1,5 +1,4 @@
-Tintinnus anulatus SPECIES
-=======
+# Tintinnus anulatus SPECIES
 
 #### Status
 ACCEPTED

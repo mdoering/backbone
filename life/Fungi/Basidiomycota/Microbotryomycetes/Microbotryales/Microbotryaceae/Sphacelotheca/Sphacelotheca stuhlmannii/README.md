@@ -1,14 +1,13 @@
-Sphacelotheca stuhlmanni (Henn.) Zundel SPECIES
-=======
+# Sphacelotheca stuhlmannii (Henn.) Zundel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 22(3): 136 (1930)
 
 #### Original name
 Ustilago stuhlmannii Henn.

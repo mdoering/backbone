@@ -1,5 +1,4 @@
-Julella sarcostemmatis K. Ramakr. SPECIES
-=======
+# Julella sarcostemmatis K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaleromyces andinus Speg. SPECIES
-=======
+# Sphaleromyces andinus Speg. SPECIES
 
 #### Status
 ACCEPTED

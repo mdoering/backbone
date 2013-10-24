@@ -1,5 +1,4 @@
-Catillaria praerosella (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria praerosella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

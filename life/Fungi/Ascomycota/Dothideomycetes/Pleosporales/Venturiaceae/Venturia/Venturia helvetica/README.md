@@ -1,5 +1,4 @@
-Venturia helvetica Nüesch, 1960 SPECIES
-=======
+# Venturia helvetica Nüesch, 1960 SPECIES
 
 #### Status
 ACCEPTED

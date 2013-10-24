@@ -1,5 +1,4 @@
-Phomopsis asclepiadea (Ellis & Everh.) Petr. SPECIES
-=======
+# Phomopsis asclepiadea (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium dispersellum P. Karst. SPECIES
-=======
+# Helotium dispersellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

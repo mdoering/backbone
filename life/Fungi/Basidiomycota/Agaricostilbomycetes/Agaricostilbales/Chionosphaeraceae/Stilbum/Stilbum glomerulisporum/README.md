@@ -1,5 +1,4 @@
-Stilbum glomerulisporum Ellis & Everh. SPECIES
-=======
+# Stilbum glomerulisporum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

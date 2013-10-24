@@ -1,5 +1,4 @@
-Pyrenula parvula Müll. Arg. SPECIES
-=======
+# Pyrenula parvula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

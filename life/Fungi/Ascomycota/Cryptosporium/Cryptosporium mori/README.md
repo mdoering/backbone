@@ -1,5 +1,4 @@
-Cryptosporium mori Fuckel SPECIES
-=======
+# Cryptosporium mori Fuckel SPECIES
 
 #### Status
 ACCEPTED

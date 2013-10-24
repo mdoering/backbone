@@ -1,5 +1,4 @@
-Takoum Takemura, 1986 GENUS
-=======
+# Takoum Takemura, 1986 GENUS
 
 #### Status
 ACCEPTED

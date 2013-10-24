@@ -1,5 +1,4 @@
-Usnea subflexilis Stirt. SPECIES
-=======
+# Usnea subflexilis Stirt. SPECIES
 
 #### Status
 ACCEPTED

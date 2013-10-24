@@ -1,5 +1,4 @@
-Aspicilia subrecedens Motyka SPECIES
-=======
+# Aspicilia subrecedens Motyka SPECIES
 
 #### Status
 ACCEPTED

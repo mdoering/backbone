@@ -1,5 +1,4 @@
-Lactarius subruginosus J. Blum SPECIES
-=======
+# Lactarius subruginosus J. Blum SPECIES
 
 #### Status
 ACCEPTED

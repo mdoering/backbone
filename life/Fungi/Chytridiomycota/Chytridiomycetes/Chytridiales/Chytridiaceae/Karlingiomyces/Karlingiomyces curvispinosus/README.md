@@ -1,14 +1,13 @@
-Karlingia curvispinosa Karling, 1949 SPECIES
-=======
+# Karlingiomyces curvispinosus (Karling) Sparrow, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 41(5): 511 (1949)
+Aquatic Phycomycetes (Ann Arbor), Edn 2 560 (1960)
 
 #### Original name
 Karlingia curvispinosa Karling, 1949

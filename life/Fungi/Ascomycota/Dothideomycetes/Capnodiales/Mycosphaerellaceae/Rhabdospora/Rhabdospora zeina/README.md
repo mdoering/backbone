@@ -1,5 +1,4 @@
-Rhabdospora zeina S. Ahmad SPECIES
-=======
+# Rhabdospora zeina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula timorensis Torrend SPECIES
-=======
+# Pterula timorensis Torrend SPECIES
 
 #### Status
 ACCEPTED

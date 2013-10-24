@@ -1,5 +1,4 @@
-Hypoxylon piptadeniae Henn. SPECIES
-=======
+# Hypoxylon piptadeniae Henn. SPECIES
 
 #### Status
 ACCEPTED

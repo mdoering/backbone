@@ -1,5 +1,4 @@
-Microclava bispora (Hansf.) Deighton SPECIES
-=======
+# Microclava bispora (Hansf.) Deighton SPECIES
 
 #### Status
 ACCEPTED

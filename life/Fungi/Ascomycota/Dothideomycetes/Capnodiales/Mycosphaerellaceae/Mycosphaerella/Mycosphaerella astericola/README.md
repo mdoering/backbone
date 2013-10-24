@@ -1,5 +1,4 @@
-Mycosphaerella astericola Hara SPECIES
-=======
+# Mycosphaerella astericola Hara SPECIES
 
 #### Status
 ACCEPTED

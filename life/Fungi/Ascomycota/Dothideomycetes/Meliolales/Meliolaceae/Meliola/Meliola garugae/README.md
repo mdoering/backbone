@@ -1,5 +1,4 @@
-Meliola garugae F. Stevens & Roldan ex Hansf. SPECIES
-=======
+# Meliola garugae F. Stevens & Roldan ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

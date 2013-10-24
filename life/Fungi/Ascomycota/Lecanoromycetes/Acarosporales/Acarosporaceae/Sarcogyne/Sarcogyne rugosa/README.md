@@ -1,5 +1,4 @@
-Sarcogyne rugosa Lynge SPECIES
-=======
+# Sarcogyne rugosa Lynge SPECIES
 
 #### Status
 ACCEPTED

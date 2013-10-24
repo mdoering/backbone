@@ -1,5 +1,4 @@
-Pseudocercospora vanieriae (Chupp & Linder) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora vanieriae (Chupp & Linder) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

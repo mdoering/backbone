@@ -1,5 +1,4 @@
-Didymobotryum verrucosum I. Hino & Katum. SPECIES
-=======
+# Didymobotryum verrucosum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

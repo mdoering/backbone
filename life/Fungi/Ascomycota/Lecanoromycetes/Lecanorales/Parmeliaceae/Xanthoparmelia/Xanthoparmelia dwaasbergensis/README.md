@@ -1,17 +1,16 @@
-Paraparmelia dwaasbergensis (Brusse) Elix SPECIES
-=======
+# Xanthoparmelia dwaasbergensis (Brusse) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 398 (2003)
 
 #### Original name
-null
+Parmelia dwaasbergensis Brusse
 
 ### Remarks
 null

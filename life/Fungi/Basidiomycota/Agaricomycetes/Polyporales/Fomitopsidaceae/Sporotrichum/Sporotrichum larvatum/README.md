@@ -1,5 +1,4 @@
-Sporotrichum larvatum Peck SPECIES
-=======
+# Sporotrichum larvatum Peck SPECIES
 
 #### Status
 ACCEPTED

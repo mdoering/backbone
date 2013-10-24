@@ -1,5 +1,4 @@
-Leptographium grandifoliae (R.W. Davidson) M.J. Wingf. SPECIES
-=======
+# Leptographium grandifoliae (R.W. Davidson) M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

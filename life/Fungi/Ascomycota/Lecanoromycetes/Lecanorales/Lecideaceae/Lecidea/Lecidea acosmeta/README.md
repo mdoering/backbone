@@ -1,5 +1,4 @@
-Lecidea acosmeta Lettau SPECIES
-=======
+# Lecidea acosmeta Lettau SPECIES
 
 #### Status
 ACCEPTED

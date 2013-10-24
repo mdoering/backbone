@@ -1,5 +1,4 @@
-Mycoleptodiscus atromaculans Bills & Polishook SPECIES
-=======
+# Mycoleptodiscus atromaculans Bills & Polishook SPECIES
 
 #### Status
 ACCEPTED

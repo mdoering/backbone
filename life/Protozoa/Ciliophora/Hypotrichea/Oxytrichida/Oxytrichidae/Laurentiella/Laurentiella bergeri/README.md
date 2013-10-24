@@ -1,5 +1,4 @@
-Laurentiella bergeri Dragesco, 2003 SPECIES
-=======
+# Laurentiella bergeri Dragesco, 2003 SPECIES
 
 #### Status
 ACCEPTED

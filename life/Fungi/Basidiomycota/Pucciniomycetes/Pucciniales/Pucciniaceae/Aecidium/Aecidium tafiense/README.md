@@ -1,5 +1,4 @@
-Aecidium tafiense J.C. Lindq. SPECIES
-=======
+# Aecidium tafiense J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

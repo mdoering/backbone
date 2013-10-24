@@ -1,5 +1,4 @@
-Psorotichia heterocarpa G. Merr. SPECIES
-=======
+# Psorotichia heterocarpa G. Merr. SPECIES
 
 #### Status
 ACCEPTED

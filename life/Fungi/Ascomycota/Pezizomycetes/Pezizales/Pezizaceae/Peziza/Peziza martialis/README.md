@@ -1,5 +1,4 @@
-Peziza martialis Massee SPECIES
-=======
+# Peziza martialis Massee SPECIES
 
 #### Status
 ACCEPTED

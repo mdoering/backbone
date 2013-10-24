@@ -1,5 +1,4 @@
-Phakopsora venezuelana Syd. SPECIES
-=======
+# Phakopsora venezuelana Syd. SPECIES
 
 #### Status
 ACCEPTED

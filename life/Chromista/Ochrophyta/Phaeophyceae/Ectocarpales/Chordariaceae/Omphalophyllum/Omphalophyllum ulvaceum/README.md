@@ -1,5 +1,4 @@
-Omphalophyllum ulvaceum Rosenvinge SPECIES
-=======
+# Omphalophyllum ulvaceum Rosenvinge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ditangium cerasi (Schumach.) Costantin & L.M. Dufour SPECIES
-=======
+# Ditangium cerasi (Schumach.) Costantin & L.M. Dufour SPECIES
 
 #### Status
 ACCEPTED

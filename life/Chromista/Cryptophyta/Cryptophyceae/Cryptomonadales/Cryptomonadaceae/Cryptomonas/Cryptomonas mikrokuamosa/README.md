@@ -1,5 +1,4 @@
-Cryptomonas mikrokuamosa R. E. Norris SPECIES
-=======
+# Cryptomonas mikrokuamosa R. E. Norris SPECIES
 
 #### Status
 ACCEPTED

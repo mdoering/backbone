@@ -1,5 +1,4 @@
-Aspicilia crusii Klem. SPECIES
-=======
+# Aspicilia crusii Klem. SPECIES
 
 #### Status
 ACCEPTED

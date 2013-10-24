@@ -1,5 +1,4 @@
-Meliola montis-fontium B. Huguenin SPECIES
-=======
+# Meliola montis-fontium B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

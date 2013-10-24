@@ -1,5 +1,4 @@
-Pertusaria taeniata Erichsen SPECIES
-=======
+# Pertusaria taeniata Erichsen SPECIES
 
 #### Status
 ACCEPTED

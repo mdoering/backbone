@@ -1,17 +1,16 @@
-Pyxine chrysanthoides f. chrysanthoides FORM
-=======
+# Pyxine subcinerea Stirt. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 6(7): 71 (1915)
+Trans. & Proc. New Zealand Inst. 30: 397 (1898)
 
 #### Original name
-Pyxine chrysanthoides f. chrysanthoides
+Pyxine subcinerea Stirt.
 
 ### Remarks
 null

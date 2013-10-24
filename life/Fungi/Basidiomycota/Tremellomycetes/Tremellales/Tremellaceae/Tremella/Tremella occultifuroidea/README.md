@@ -1,5 +1,4 @@
-Tremella occultifuroidea Chee J. Chen & Oberw. SPECIES
-=======
+# Tremella occultifuroidea Chee J. Chen & Oberw. SPECIES
 
 #### Status
 ACCEPTED

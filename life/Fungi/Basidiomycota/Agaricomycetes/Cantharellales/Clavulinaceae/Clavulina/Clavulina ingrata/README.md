@@ -1,5 +1,4 @@
-Clavulina ingrata Corner, 1950 SPECIES
-=======
+# Clavulina ingrata Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

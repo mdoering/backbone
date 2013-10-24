@@ -1,5 +1,4 @@
-Melanomma subsparsum Fuckel SPECIES
-=======
+# Melanomma subsparsum Fuckel SPECIES
 
 #### Status
 ACCEPTED

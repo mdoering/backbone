@@ -1,5 +1,4 @@
-Pseudomassaria mauritiae K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
-=======
+# Pseudomassaria mauritiae K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
 
 #### Status
 ACCEPTED

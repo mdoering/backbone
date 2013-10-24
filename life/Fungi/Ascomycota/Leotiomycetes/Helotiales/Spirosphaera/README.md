@@ -1,5 +1,4 @@
-Spirosphaera Van Beverwijk, 1953 GENUS
-=======
+# Spirosphaera Van Beverwijk, 1953 GENUS
 
 #### Status
 ACCEPTED

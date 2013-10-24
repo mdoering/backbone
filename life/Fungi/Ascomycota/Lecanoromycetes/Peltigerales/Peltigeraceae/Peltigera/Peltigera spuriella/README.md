@@ -1,5 +1,4 @@
-Peltigera spuriella Vain. SPECIES
-=======
+# Peltigera spuriella Vain. SPECIES
 
 #### Status
 ACCEPTED

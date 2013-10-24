@@ -1,8 +1,7 @@
-Saccammina hancocki (Cushman & McCulloch, 1958) SPECIES
-=======
+# Proteonina hancocki Cushman & McCulloch, 1948 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 World Register of Marine Species

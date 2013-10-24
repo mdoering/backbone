@@ -1,5 +1,4 @@
-Laboulbenia platystoma Thaxt. SPECIES
-=======
+# Laboulbenia platystoma Thaxt. SPECIES
 
 #### Status
 ACCEPTED

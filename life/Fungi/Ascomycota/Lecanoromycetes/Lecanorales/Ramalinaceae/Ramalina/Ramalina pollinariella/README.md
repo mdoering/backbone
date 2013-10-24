@@ -1,5 +1,4 @@
-Ramalina pollinariella (Nyl.) Nyl. SPECIES
-=======
+# Ramalina pollinariella (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

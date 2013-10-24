@@ -1,5 +1,4 @@
-Allarthonia catillaria (Vain.) Zahlbr. SPECIES
-=======
+# Allarthonia catillaria (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

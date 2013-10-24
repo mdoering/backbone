@@ -1,5 +1,4 @@
-Clypeolina notogrammes Sawada & W. Yamam. SPECIES
-=======
+# Clypeolina notogrammes Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

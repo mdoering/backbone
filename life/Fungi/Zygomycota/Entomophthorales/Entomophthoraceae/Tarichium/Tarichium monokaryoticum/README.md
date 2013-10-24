@@ -1,5 +1,4 @@
-Tarichium monokaryoticum Balazy, J. Wisn. & S. Kaczm. SPECIES
-=======
+# Tarichium monokaryoticum Balazy, J. Wisn. & S. Kaczm. SPECIES
 
 #### Status
 ACCEPTED

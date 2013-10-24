@@ -1,5 +1,4 @@
-Lophosphaera GENUS
-=======
+# Lophosphaera GENUS
 
 #### Status
 ACCEPTED

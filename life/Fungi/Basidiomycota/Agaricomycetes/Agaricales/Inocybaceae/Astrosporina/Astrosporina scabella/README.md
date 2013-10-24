@@ -1,5 +1,4 @@
-Astrosporina scabella (Fr.) J. Schröt. SPECIES
-=======
+# Astrosporina scabella (Fr.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

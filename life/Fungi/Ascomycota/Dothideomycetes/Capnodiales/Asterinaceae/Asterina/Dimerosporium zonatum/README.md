@@ -1,5 +1,4 @@
-Dimerosporium zonatum Seaver SPECIES
-=======
+# Dimerosporium zonatum Seaver SPECIES
 
 #### Status
 ACCEPTED

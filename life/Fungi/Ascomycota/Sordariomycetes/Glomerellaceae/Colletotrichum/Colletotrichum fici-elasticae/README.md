@@ -1,5 +1,4 @@
-Colletotrichum fici-elasticae Zimm. SPECIES
-=======
+# Colletotrichum fici-elasticae Zimm. SPECIES
 
 #### Status
 ACCEPTED

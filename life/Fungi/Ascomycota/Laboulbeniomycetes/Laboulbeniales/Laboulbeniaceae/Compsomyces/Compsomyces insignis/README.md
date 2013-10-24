@@ -1,14 +1,13 @@
-Moschomyces insignis Thaxt., 1894 SPECIES
-=======
+# Compsomyces insignis (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 29: 97 (1894)
+Mycol. Mem. 9: 175 (1985)
 
 #### Original name
 Moschomyces insignis Thaxt., 1894

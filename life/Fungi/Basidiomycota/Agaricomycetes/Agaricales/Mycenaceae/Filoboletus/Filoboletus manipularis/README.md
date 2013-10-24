@@ -1,5 +1,4 @@
-Filoboletus manipularis (Berk.) Singer SPECIES
-=======
+# Filoboletus manipularis (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

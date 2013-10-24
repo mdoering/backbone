@@ -1,5 +1,4 @@
-Mortierella claussenii Linnem., 1958 SPECIES
-=======
+# Mortierella claussenii Linnem., 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria wiesneri Zukal SPECIES
-=======
+# Sordaria wiesneri Zukal SPECIES
 
 #### Status
 ACCEPTED

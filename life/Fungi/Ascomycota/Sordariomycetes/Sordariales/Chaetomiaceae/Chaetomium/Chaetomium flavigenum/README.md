@@ -1,5 +1,4 @@
-Chaetomium flavigenum Van Warmelo, 1967 SPECIES
-=======
+# Chaetomium flavigenum Van Warmelo, 1967 SPECIES
 
 #### Status
 ACCEPTED

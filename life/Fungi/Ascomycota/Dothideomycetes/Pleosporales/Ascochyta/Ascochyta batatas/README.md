@@ -1,8 +1,7 @@
-Ascochyta batatae Khokhr. & Dyur. SPECIES
-=======
+# Ascochyta batatas Khokhr. & Dyur. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta batatae Khokhr. & Dyur.
+Ascochyta batatas Khokhr. & Dyur.
 
 ### Remarks
 null

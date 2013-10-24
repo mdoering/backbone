@@ -1,5 +1,4 @@
-Wrightoporia gillesii A. David & Rajchenb., 1987 SPECIES
-=======
+# Wrightoporia gillesii A. David & Rajchenb., 1987 SPECIES
 
 #### Status
 ACCEPTED

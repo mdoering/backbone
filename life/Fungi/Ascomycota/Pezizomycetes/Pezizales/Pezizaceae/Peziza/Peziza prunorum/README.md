@@ -1,5 +1,4 @@
-Peziza prunorum Fr. SPECIES
-=======
+# Peziza prunorum Fr. SPECIES
 
 #### Status
 ACCEPTED

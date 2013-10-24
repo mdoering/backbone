@@ -1,5 +1,4 @@
-Sympodiophora meliolae (F. Stevens) Deighton & Piroz. SPECIES
-=======
+# Sympodiophora meliolae (F. Stevens) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heimiodora Nicot GENUS
-=======
+# Heimiodora Nicot GENUS
 
 #### Status
 ACCEPTED

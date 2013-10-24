@@ -1,5 +1,4 @@
-Armatella balakrishnanii Hosag. SPECIES
-=======
+# Armatella balakrishnanii Hosag. SPECIES
 
 #### Status
 ACCEPTED

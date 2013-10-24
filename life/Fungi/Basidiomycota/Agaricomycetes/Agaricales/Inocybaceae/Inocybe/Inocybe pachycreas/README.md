@@ -1,5 +1,4 @@
-Inocybe pachycreas R. Heim & Romagn. SPECIES
-=======
+# Inocybe pachycreas R. Heim & Romagn. SPECIES
 
 #### Status
 ACCEPTED

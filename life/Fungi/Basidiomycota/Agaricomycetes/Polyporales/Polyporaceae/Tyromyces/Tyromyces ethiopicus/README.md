@@ -1,5 +1,4 @@
-Tyromyces ethiopicus Bitew & Ryvarden SPECIES
-=======
+# Tyromyces ethiopicus Bitew & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

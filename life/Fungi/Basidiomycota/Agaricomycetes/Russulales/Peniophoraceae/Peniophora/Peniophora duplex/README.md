@@ -1,14 +1,13 @@
-Peniophora pini subsp. duplex (Burt) Weresub & I.A.S. Gibson SUBSPECIES
-=======
+# Peniophora duplex Burt, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 38: 861 (1960)
+Ann. Mo. bot. Gdn 12: 298 (1926)
 
 #### Original name
 Peniophora duplex Burt, 1926

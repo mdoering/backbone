@@ -1,5 +1,4 @@
-Lichen saxicola Hoffm. SPECIES
-=======
+# Lichen saxicola Hoffm. SPECIES
 
 #### Status
 ACCEPTED

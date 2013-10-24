@@ -1,5 +1,4 @@
-Copelandia tropica Natarajan & Raman SPECIES
-=======
+# Copelandia tropica Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

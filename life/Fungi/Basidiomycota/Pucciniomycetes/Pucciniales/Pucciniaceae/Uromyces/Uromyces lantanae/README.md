@@ -1,5 +1,4 @@
-Uromyces lantanae Speg. SPECIES
-=======
+# Uromyces lantanae Speg. SPECIES
 
 #### Status
 ACCEPTED

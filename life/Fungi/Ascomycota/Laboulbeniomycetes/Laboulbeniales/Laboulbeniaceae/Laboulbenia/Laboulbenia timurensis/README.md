@@ -1,5 +1,4 @@
-Laboulbenia timurensis T. Majewski & K. Sugiy. SPECIES
-=======
+# Laboulbenia timurensis T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

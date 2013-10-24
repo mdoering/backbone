@@ -1,5 +1,4 @@
-Lamprocyclas junonis (Haeckel) Petrushevskaya & Kozlova, 1972 SPECIES
-=======
+# Lamprocyclas junonis (Haeckel) Petrushevskaya & Kozlova, 1972 SPECIES
 
 #### Status
 ACCEPTED

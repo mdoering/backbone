@@ -1,5 +1,4 @@
-Thecaphora occulta Desm. SPECIES
-=======
+# Thecaphora occulta Desm. SPECIES
 
 #### Status
 ACCEPTED

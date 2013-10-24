@@ -1,5 +1,4 @@
-Hypocrea geoglossum (Schwein.) SPECIES
-=======
+# Hypocrea geoglossum (Schwein.) SPECIES
 
 #### Status
 ACCEPTED

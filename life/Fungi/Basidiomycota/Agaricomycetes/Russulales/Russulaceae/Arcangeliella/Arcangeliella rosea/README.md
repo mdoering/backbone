@@ -1,5 +1,4 @@
-Arcangeliella rosea (Harkn.) Zeller & C.W. Dodge SPECIES
-=======
+# Arcangeliella rosea (Harkn.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

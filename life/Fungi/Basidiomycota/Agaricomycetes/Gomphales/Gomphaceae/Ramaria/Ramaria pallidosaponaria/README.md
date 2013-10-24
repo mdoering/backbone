@@ -1,5 +1,4 @@
-Ramaria pallidosaponaria R.H. Petersen, 1989 SPECIES
-=======
+# Ramaria pallidosaponaria R.H. Petersen, 1989 SPECIES
 
 #### Status
 ACCEPTED

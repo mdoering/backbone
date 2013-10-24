@@ -1,5 +1,4 @@
-Entyloma eschscholziae Harkn., 1884 SPECIES
-=======
+# Entyloma eschscholziae Harkn., 1884 SPECIES
 
 #### Status
 ACCEPTED

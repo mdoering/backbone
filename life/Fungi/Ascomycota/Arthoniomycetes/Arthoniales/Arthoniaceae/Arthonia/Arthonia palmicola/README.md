@@ -1,5 +1,4 @@
-Arthonia palmicola Ach. SPECIES
-=======
+# Arthonia palmicola Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta hybridae Mig. SPECIES
-=======
+# Phyllosticta hybridae Mig. SPECIES
 
 #### Status
 ACCEPTED

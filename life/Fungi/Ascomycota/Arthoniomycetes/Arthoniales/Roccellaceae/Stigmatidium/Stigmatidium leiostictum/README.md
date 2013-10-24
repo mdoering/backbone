@@ -1,5 +1,4 @@
-Stigmatidium leiostictum Nyl. SPECIES
-=======
+# Stigmatidium leiostictum Nyl. SPECIES
 
 #### Status
 ACCEPTED

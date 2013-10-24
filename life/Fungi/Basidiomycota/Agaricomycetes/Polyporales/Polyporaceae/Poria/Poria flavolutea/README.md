@@ -1,5 +1,4 @@
-Poria flavolutea Murrill SPECIES
-=======
+# Poria flavolutea Murrill SPECIES
 
 #### Status
 ACCEPTED

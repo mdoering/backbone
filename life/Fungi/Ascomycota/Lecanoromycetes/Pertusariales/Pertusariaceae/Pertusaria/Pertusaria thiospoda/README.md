@@ -1,17 +1,16 @@
-Pertusaria schizostomella Müll. Arg. SPECIES
-=======
+# Pertusaria thiospoda C. Knight SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 3: 637 (1895)
+Trans. Linn. Soc. London, Bot. 2: 47 (1882)
 
 #### Original name
-Pertusaria schizostomella Müll. Arg.
+Pertusaria thiospoda C. Knight
 
 ### Remarks
 null

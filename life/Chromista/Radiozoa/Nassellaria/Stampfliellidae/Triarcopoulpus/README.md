@@ -1,5 +1,4 @@
-Triarcopoulpus Kozur, Moix & Ozsvárt, 2007 GENUS
-=======
+# Triarcopoulpus Kozur, Moix & Ozsvárt, 2007 GENUS
 
 #### Status
 ACCEPTED

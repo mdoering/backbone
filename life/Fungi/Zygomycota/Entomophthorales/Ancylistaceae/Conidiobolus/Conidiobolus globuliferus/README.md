@@ -1,5 +1,4 @@
-Conidiobolus globuliferus Drechsler, 1957 SPECIES
-=======
+# Conidiobolus globuliferus Drechsler, 1957 SPECIES
 
 #### Status
 ACCEPTED

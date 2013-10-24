@@ -1,5 +1,4 @@
-Cordana triseptata Matsush. SPECIES
-=======
+# Cordana triseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

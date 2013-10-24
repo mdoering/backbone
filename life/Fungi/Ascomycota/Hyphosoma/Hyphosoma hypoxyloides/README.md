@@ -1,5 +1,4 @@
-Hyphosoma hypoxyloides Syd. SPECIES
-=======
+# Hyphosoma hypoxyloides Syd. SPECIES
 
 #### Status
 ACCEPTED

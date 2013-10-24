@@ -1,5 +1,4 @@
-Gymnosporium ananassae Zimm. SPECIES
-=======
+# Gymnosporium ananassae Zimm. SPECIES
 
 #### Status
 ACCEPTED

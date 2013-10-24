@@ -1,5 +1,4 @@
-Cytodiplospora acerum Oudem. SPECIES
-=======
+# Cytodiplospora acerum Oudem. SPECIES
 
 #### Status
 ACCEPTED

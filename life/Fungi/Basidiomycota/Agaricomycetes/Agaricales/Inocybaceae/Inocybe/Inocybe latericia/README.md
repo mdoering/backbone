@@ -1,5 +1,4 @@
-Inocybe latericia E. Horak, 1978 SPECIES
-=======
+# Inocybe latericia E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

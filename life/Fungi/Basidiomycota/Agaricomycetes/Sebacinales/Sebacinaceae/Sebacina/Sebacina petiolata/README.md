@@ -1,5 +1,4 @@
-Sebacina petiolata D.P. Rogers SPECIES
-=======
+# Sebacina petiolata D.P. Rogers SPECIES
 
 #### Status
 ACCEPTED

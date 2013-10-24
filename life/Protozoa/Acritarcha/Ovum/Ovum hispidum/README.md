@@ -1,5 +1,4 @@
-Ovum hispidum Eisenack, 1931 SPECIES
-=======
+# Ovum hispidum Eisenack, 1931 SPECIES
 
 #### Status
 ACCEPTED

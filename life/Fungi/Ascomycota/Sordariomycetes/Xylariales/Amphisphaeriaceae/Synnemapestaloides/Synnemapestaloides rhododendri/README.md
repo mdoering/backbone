@@ -1,5 +1,4 @@
-Synnemapestaloides rhododendri T. Handa & Y. Harada, 2004 SPECIES
-=======
+# Synnemapestaloides rhododendri T. Handa & Y. Harada, 2004 SPECIES
 
 #### Status
 ACCEPTED

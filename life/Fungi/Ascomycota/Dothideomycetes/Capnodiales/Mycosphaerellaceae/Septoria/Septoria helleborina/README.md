@@ -1,5 +1,4 @@
-Septoria helleborina Höhn. SPECIES
-=======
+# Septoria helleborina Höhn. SPECIES
 
 #### Status
 ACCEPTED

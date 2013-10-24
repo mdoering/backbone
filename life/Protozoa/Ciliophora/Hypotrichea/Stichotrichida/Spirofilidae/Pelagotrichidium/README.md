@@ -1,5 +1,4 @@
-Pelagotrichidium Yankovskij, 1978 GENUS
-=======
+# Pelagotrichidium Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

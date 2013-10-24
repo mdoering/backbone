@@ -1,5 +1,4 @@
-Naetrocymbe fumago (Wallr.) Dalla Torre & Sarnth. SPECIES
-=======
+# Naetrocymbe fumago (Wallr.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

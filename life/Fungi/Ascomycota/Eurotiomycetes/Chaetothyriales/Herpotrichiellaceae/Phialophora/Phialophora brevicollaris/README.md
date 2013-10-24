@@ -1,17 +1,16 @@
-Catenulifera brevicollaris (W. Gams) Bogale & Unter., 2010 SPECIES
-=======
+# Phialophora brevicollaris W. Gams, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gams & Holubová-Jechová, Stud. Mycol. 13: 71 (1976)
 
 #### Original name
-null
+Phialophora brevicollaris W. Gams, 1976
 
 ### Remarks
 null

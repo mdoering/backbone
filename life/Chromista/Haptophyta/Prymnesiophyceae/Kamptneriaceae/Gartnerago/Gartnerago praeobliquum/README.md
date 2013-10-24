@@ -1,5 +1,4 @@
-Gartnerago praeobliquum SPECIES
-=======
+# Gartnerago praeobliquum SPECIES
 
 #### Status
 ACCEPTED

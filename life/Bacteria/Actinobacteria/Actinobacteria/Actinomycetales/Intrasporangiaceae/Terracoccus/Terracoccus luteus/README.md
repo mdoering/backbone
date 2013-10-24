@@ -1,5 +1,4 @@
-Terracoccus luteus Prauser et al., 1997 SPECIES
-=======
+# Terracoccus luteus Prauser et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

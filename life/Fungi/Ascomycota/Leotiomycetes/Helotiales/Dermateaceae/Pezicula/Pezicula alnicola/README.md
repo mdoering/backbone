@@ -1,5 +1,4 @@
-Pezicula alnicola J.W. Groves, 1940 SPECIES
-=======
+# Pezicula alnicola J.W. Groves, 1940 SPECIES
 
 #### Status
 ACCEPTED

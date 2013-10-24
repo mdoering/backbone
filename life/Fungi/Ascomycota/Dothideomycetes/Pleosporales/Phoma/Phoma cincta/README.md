@@ -1,5 +1,4 @@
-Phoma cincta Berk. & M.A. Curtis SPECIES
-=======
+# Phoma cincta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

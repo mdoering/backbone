@@ -1,17 +1,16 @@
-Microglaena modesta f. modesta FORM
-=======
+# Thelenella modesta (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. natn. Sci. nat. math. Cherbourg 3: 193 (1855)
 
 #### Original name
-Microglaena modesta f. modesta
+Verrucaria modesta Nyl.
 
 ### Remarks
 null

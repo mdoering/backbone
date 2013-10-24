@@ -1,5 +1,4 @@
-Phyllosticta hydrocotyles A.L. Sm. SPECIES
-=======
+# Phyllosticta hydrocotyles A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

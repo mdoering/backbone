@@ -1,5 +1,4 @@
-Lecanora atropunctata Colmeiro SPECIES
-=======
+# Lecanora atropunctata Colmeiro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber oligosporum Vittad. SPECIES
-=======
+# Tuber oligosporum Vittad. SPECIES
 
 #### Status
 ACCEPTED

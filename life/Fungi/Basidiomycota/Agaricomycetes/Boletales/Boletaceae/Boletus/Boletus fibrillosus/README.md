@@ -1,5 +1,4 @@
-Boletus fibrillosus Thiers SPECIES
-=======
+# Boletus fibrillosus Thiers SPECIES
 
 #### Status
 ACCEPTED

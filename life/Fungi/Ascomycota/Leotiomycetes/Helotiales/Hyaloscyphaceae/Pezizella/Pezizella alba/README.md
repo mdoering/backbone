@@ -1,5 +1,4 @@
-Pezizella alba Velen. SPECIES
-=======
+# Pezizella alba Velen. SPECIES
 
 #### Status
 ACCEPTED

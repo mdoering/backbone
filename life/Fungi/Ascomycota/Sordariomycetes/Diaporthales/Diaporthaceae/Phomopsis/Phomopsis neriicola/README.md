@@ -1,5 +1,4 @@
-Phomopsis neriicola (Pat.) M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Phomopsis neriicola (Pat.) M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

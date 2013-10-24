@@ -1,5 +1,4 @@
-Chaetomium aurangabadense Tilak & D.L. Ram Reddy SPECIES
-=======
+# Chaetomium aurangabadense Tilak & D.L. Ram Reddy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia similis Rick SPECIES
-=======
+# Leptonia similis Rick SPECIES
 
 #### Status
 ACCEPTED

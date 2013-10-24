@@ -1,5 +1,4 @@
-Microdiplodia helichrysi (Pass.) Tassi SPECIES
-=======
+# Microdiplodia helichrysi (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

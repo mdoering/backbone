@@ -1,5 +1,4 @@
-Physcia persoredians Nyl. SPECIES
-=======
+# Physcia persoredians Nyl. SPECIES
 
 #### Status
 ACCEPTED

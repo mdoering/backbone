@@ -1,5 +1,4 @@
-Cereicium cereifolium (M.M. Moser) Locq. SPECIES
-=======
+# Cereicium cereifolium (M.M. Moser) Locq. SPECIES
 
 #### Status
 ACCEPTED

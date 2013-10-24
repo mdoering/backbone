@@ -1,5 +1,4 @@
-Andrusovia Dovgal, 2002 GENUS
-=======
+# Andrusovia Dovgal, 2002 GENUS
 
 #### Status
 ACCEPTED

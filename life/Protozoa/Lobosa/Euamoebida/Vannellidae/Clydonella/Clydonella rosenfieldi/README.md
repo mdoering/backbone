@@ -1,5 +1,4 @@
-Clydonella rosenfieldi Sawyer, 1975 SPECIES
-=======
+# Clydonella rosenfieldi Sawyer, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cosmospora metepisphaeria (Samuels) Rossman & Samuels SPECIES
-=======
+# Cosmospora metepisphaeria (Samuels) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

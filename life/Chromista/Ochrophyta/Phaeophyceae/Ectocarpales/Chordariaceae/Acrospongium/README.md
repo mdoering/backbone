@@ -1,5 +1,4 @@
-Acrospongium Schiffner, 1916 GENUS
-=======
+# Acrospongium Schiffner, 1916 GENUS
 
 #### Status
 ACCEPTED

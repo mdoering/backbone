@@ -1,5 +1,4 @@
-Pezizella pannorum (Brond.) Sacc. SPECIES
-=======
+# Pezizella pannorum (Brond.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

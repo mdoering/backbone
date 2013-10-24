@@ -1,5 +1,4 @@
-Polyporus minor-mylittae Cleland & Cheel SPECIES
-=======
+# Polyporus minor-mylittae Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

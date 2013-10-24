@@ -1,5 +1,4 @@
-Atractium pallidum Bonord. SPECIES
-=======
+# Atractium pallidum Bonord. SPECIES
 
 #### Status
 ACCEPTED

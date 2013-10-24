@@ -1,5 +1,4 @@
-Borrera laeta Gray SPECIES
-=======
+# Borrera laeta Gray SPECIES
 
 #### Status
 ACCEPTED

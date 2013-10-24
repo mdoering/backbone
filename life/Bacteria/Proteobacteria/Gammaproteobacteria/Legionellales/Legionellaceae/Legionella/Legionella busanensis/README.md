@@ -1,5 +1,4 @@
-Legionella busanensis Park et al., 2003 SPECIES
-=======
+# Legionella busanensis Park et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

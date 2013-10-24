@@ -1,5 +1,4 @@
-Isaria sphingum Schwein. SPECIES
-=======
+# Isaria sphingum Schwein. SPECIES
 
 #### Status
 ACCEPTED

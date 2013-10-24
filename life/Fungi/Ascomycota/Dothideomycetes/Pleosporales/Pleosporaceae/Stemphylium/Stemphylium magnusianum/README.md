@@ -1,5 +1,4 @@
-Stemphylium magnusianum Sacc. SPECIES
-=======
+# Stemphylium magnusianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

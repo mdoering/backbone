@@ -1,5 +1,4 @@
-Anabaena zierlingii SPECIES
-=======
+# Anabaena zierlingii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo detergibilis (Thüm.) Henn. SPECIES
-=======
+# Uredo detergibilis (Thüm.) Henn. SPECIES
 
 #### Status
 ACCEPTED

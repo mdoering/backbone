@@ -1,8 +1,7 @@
-Glonium mattirolianum Noelli {?} SPECIES
-=======
+# Glonium mattiroloanum Noelli {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Glonium mattirolianum Noelli {?}
+Glonium mattiroloanum Noelli {?}
 
 ### Remarks
 null

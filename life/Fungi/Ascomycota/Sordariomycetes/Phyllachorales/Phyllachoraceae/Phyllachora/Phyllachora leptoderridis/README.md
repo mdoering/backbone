@@ -1,5 +1,4 @@
-Phyllachora leptoderridis Deighton, 1952 SPECIES
-=======
+# Phyllachora leptoderridis Deighton, 1952 SPECIES
 
 #### Status
 ACCEPTED

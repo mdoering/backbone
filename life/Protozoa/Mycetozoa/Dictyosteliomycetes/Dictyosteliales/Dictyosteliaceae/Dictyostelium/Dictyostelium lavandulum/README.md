@@ -1,5 +1,4 @@
-Dictyostelium lavandulum Raper & Fennell, 1967 SPECIES
-=======
+# Dictyostelium lavandulum Raper & Fennell, 1967 SPECIES
 
 #### Status
 ACCEPTED

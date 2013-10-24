@@ -1,5 +1,4 @@
-Chitonomyces aurantiacus Thaxt. SPECIES
-=======
+# Chitonomyces aurantiacus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

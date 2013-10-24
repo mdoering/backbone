@@ -1,5 +1,4 @@
-Hannaea arcus var. arcus (Ehrenberg) Patrick VARIETY
-=======
+# Hannaea arcus (Ehrenberg) R.M. Patrick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium pentaclethrae Henn. SPECIES
-=======
+# Fusarium pentaclethrae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Starkeyomyces koorchalomoides Agnihothr. SPECIES
-=======
+# Starkeyomyces koorchalomoides Agnihothr. SPECIES
 
 #### Status
 ACCEPTED

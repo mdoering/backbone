@@ -1,5 +1,4 @@
-Lophodermium staleyi Minter, 1981 SPECIES
-=======
+# Lophodermium staleyi Minter, 1981 SPECIES
 
 #### Status
 ACCEPTED

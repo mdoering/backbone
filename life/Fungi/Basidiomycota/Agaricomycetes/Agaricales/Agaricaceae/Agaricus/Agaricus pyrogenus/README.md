@@ -1,5 +1,4 @@
-Agaricus pyrogenus F. Muell. SPECIES
-=======
+# Agaricus pyrogenus F. Muell. SPECIES
 
 #### Status
 ACCEPTED

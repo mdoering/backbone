@@ -1,5 +1,4 @@
-Baltisphaeridium pateum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium pateum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

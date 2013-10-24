@@ -1,5 +1,4 @@
-Clitocybe monochroa Lév. SPECIES
-=======
+# Clitocybe monochroa Lév. SPECIES
 
 #### Status
 ACCEPTED

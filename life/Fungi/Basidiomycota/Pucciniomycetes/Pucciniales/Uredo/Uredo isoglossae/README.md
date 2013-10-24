@@ -1,5 +1,4 @@
-Uredo isoglossae Gjaerum SPECIES
-=======
+# Uredo isoglossae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

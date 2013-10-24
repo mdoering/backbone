@@ -1,5 +1,4 @@
-Phyllachora megastroma Pat., 1914 SPECIES
-=======
+# Phyllachora megastroma Pat., 1914 SPECIES
 
 #### Status
 ACCEPTED

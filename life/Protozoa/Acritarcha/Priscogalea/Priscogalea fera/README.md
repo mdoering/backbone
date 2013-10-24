@@ -1,5 +1,4 @@
-Priscogalea fera (Martin, 1969) Martin, 1972 SPECIES
-=======
+# Priscogalea fera (Martin, 1969) Martin, 1972 SPECIES
 
 #### Status
 ACCEPTED

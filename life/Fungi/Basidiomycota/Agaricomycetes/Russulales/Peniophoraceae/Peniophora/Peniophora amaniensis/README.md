@@ -1,5 +1,4 @@
-Peniophora amaniensis Henn. SPECIES
-=======
+# Peniophora amaniensis Henn. SPECIES
 
 #### Status
 ACCEPTED

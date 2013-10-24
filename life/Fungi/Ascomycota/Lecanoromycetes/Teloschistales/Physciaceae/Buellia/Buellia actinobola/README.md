@@ -1,5 +1,4 @@
-Buellia actinobola SPECIES
-=======
+# Buellia actinobola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopyxis helvellula (Durieu & Mont.) Sacc. SPECIES
-=======
+# Geopyxis helvellula (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

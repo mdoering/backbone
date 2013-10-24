@@ -1,14 +1,13 @@
-Ovularia cochleariae (Cooke) Massee, 1893 SPECIES
-=======
+# Ramularia cochleariae Cooke, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Fungus Flora. Agarics and Boleti (London) 3: 322 (1893)
+Grevillea 11(no. 60): 155 (1883)
 
 #### Original name
 Ramularia cochleariae Cooke, 1883

@@ -1,5 +1,4 @@
-Agaricus limophilus Peck SPECIES
-=======
+# Agaricus limophilus Peck SPECIES
 
 #### Status
 ACCEPTED

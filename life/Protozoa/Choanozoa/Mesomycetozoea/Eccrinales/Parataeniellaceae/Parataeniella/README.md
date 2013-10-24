@@ -1,5 +1,4 @@
-Parataeniella R.A. Poiss. GENUS
-=======
+# Parataeniella R.A. Poiss. GENUS
 
 #### Status
 ACCEPTED

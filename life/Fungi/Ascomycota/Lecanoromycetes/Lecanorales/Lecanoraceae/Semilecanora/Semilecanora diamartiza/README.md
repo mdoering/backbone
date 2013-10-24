@@ -1,5 +1,4 @@
-Semilecanora diamartiza Motyka SPECIES
-=======
+# Semilecanora diamartiza Motyka SPECIES
 
 #### Status
 ACCEPTED

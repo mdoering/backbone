@@ -1,5 +1,4 @@
-Arthonia arthoniicola Diederich & Aptroot SPECIES
-=======
+# Arthonia arthoniicola Diederich & Aptroot SPECIES
 
 #### Status
 ACCEPTED

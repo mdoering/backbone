@@ -1,5 +1,4 @@
-Mollisia anonyma Rehm SPECIES
-=======
+# Mollisia anonyma Rehm SPECIES
 
 #### Status
 ACCEPTED

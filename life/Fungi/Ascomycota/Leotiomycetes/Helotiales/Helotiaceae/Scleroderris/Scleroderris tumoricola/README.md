@@ -1,5 +1,4 @@
-Scleroderris tumoricola Cash SPECIES
-=======
+# Scleroderris tumoricola Cash SPECIES
 
 #### Status
 ACCEPTED

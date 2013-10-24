@@ -1,5 +1,4 @@
-Puccinia oudemansii Tranzschel SPECIES
-=======
+# Puccinia oudemansii Tranzschel SPECIES
 
 #### Status
 ACCEPTED

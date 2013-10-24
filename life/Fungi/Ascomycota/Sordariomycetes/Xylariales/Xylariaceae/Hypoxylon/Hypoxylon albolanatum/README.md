@@ -1,5 +1,4 @@
-Hypoxylon albolanatum (Ellis & Everh.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon albolanatum (Ellis & Everh.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

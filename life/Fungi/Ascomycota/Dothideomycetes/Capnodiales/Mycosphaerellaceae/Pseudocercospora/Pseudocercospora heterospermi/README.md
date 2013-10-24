@@ -1,5 +1,4 @@
-Pseudocercospora heterospermi Budathoki & S.K. Singh SPECIES
-=======
+# Pseudocercospora heterospermi Budathoki & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

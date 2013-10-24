@@ -1,5 +1,4 @@
-Entyloma gaillardianum Vánky, 1982 SPECIES
-=======
+# Entyloma gaillardianum Vánky, 1982 SPECIES
 
 #### Status
 ACCEPTED

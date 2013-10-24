@@ -1,5 +1,4 @@
-Dicyma chartarum G. Winter SPECIES
-=======
+# Dicyma chartarum G. Winter SPECIES
 
 #### Status
 ACCEPTED

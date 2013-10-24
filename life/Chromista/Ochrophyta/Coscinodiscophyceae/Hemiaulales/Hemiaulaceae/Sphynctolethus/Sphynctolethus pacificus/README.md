@@ -1,5 +1,4 @@
-Sphynctolethus pacificus P. A. Sims SPECIES
-=======
+# Sphynctolethus pacificus P. A. Sims SPECIES
 
 #### Status
 ACCEPTED

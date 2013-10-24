@@ -1,5 +1,4 @@
-Pleospora tomentosa Wehm. SPECIES
-=======
+# Pleospora tomentosa Wehm. SPECIES
 
 #### Status
 ACCEPTED

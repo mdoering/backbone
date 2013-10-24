@@ -1,5 +1,4 @@
-Caloplaca limonia Nimis & Poelt SPECIES
-=======
+# Caloplaca limonia Nimis & Poelt SPECIES
 
 #### Status
 ACCEPTED

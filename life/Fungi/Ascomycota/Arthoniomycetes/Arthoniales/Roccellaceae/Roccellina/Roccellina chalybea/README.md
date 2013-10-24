@@ -1,5 +1,4 @@
-Roccellina chalybea Tehler SPECIES
-=======
+# Roccellina chalybea Tehler SPECIES
 
 #### Status
 ACCEPTED

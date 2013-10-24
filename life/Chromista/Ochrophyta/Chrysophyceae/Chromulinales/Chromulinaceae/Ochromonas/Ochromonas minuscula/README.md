@@ -1,5 +1,4 @@
-Ochromonas minuscula Conrad SPECIES
-=======
+# Ochromonas minuscula Conrad SPECIES
 
 #### Status
 ACCEPTED

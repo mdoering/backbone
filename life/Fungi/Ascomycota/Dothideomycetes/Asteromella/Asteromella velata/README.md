@@ -1,5 +1,4 @@
-Asteromella velata Petr. SPECIES
-=======
+# Asteromella velata Petr. SPECIES
 
 #### Status
 ACCEPTED

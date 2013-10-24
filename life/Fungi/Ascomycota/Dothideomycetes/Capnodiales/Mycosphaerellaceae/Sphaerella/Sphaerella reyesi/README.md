@@ -1,5 +1,4 @@
-Sphaerella reyesi (Syd.) Sacc. SPECIES
-=======
+# Sphaerella reyesi (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

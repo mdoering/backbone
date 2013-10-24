@@ -1,5 +1,4 @@
-Tylopilus beelii Heinem. & Gooss.-Font. SPECIES
-=======
+# Tylopilus beelii Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

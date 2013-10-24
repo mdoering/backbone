@@ -1,8 +1,7 @@
-Reticulofenestra reticulata (Gartner & Smith, 1967) Roth & Thierstein, 1972 SPECIES
-=======
+# Cribrocentrum reticulatum (Gartner & Smith, 1967) Perch-Nielsen, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

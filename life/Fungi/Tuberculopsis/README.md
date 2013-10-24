@@ -1,5 +1,4 @@
-Tuberculopsis Sacc. GENUS
-=======
+# Tuberculopsis Sacc. GENUS
 
 #### Status
 ACCEPTED

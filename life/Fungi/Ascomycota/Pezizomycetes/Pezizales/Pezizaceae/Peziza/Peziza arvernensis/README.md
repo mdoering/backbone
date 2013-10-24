@@ -1,17 +1,16 @@
-Aleuria silvestris Boud., 1907 SPECIES
-=======
+# Peziza arvernensis Boud., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. Mycol. (Paris) 2: pl. 261 (1907)
+Bull. Soc. bot. Fr. 26: 26 (1879)
 
 #### Original name
-Aleuria silvestris Boud., 1907
+Peziza arvernensis Boud., 1879
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fungus africanus (Fayod) Kuntze SPECIES
-=======
+# Fungus africanus (Fayod) Kuntze SPECIES
 
 #### Status
 ACCEPTED

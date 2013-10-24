@@ -1,5 +1,4 @@
-Oomyces javanicus Höhn. SPECIES
-=======
+# Oomyces javanicus Höhn. SPECIES
 
 #### Status
 ACCEPTED

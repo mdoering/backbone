@@ -1,5 +1,4 @@
-Phomopsis paspali Deshmukh, Kanitkar & G.S. Pendse SPECIES
-=======
+# Phomopsis paspali Deshmukh, Kanitkar & G.S. Pendse SPECIES
 
 #### Status
 ACCEPTED

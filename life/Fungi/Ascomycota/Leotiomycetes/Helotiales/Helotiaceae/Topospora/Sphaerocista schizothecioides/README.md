@@ -1,5 +1,4 @@
-Sphaerocista schizothecioides Preuss SPECIES
-=======
+# Sphaerocista schizothecioides Preuss SPECIES
 
 #### Status
 ACCEPTED

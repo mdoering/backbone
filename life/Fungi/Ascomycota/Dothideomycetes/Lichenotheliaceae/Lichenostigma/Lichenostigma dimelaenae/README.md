@@ -1,5 +1,4 @@
-Lichenostigma dimelaenae Calat. & Hafellner SPECIES
-=======
+# Lichenostigma dimelaenae Calat. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

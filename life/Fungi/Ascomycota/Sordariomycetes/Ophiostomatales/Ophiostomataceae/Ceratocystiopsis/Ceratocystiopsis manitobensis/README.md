@@ -1,5 +1,4 @@
-Ceratocystiopsis manitobensis (J. Reid & Georg Hausner) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
-=======
+# Ceratocystiopsis manitobensis (J. Reid & Georg Hausner) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopsora halei (Tuck.) Zahlbr. SPECIES
-=======
+# Phyllopsora halei (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

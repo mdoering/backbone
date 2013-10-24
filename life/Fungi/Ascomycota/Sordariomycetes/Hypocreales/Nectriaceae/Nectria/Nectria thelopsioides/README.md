@@ -1,5 +1,4 @@
-Nectria thelopsioides P. Crouan & H. Crouan SPECIES
-=======
+# Nectria thelopsioides P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

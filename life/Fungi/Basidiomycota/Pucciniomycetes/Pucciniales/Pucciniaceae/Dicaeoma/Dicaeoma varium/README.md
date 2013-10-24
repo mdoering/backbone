@@ -1,5 +1,4 @@
-Dicaeoma varium (Dietel) Arthur SPECIES
-=======
+# Dicaeoma varium (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

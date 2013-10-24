@@ -1,5 +1,4 @@
-Naemaspora pustulata Rebent. SPECIES
-=======
+# Naemaspora pustulata Rebent. SPECIES
 
 #### Status
 ACCEPTED

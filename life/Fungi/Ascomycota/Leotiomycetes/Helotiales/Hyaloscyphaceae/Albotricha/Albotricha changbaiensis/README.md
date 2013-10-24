@@ -1,5 +1,4 @@
-Albotricha changbaiensis W.Y. Zhuang & Z.H. Yu SPECIES
-=======
+# Albotricha changbaiensis W.Y. Zhuang & Z.H. Yu SPECIES
 
 #### Status
 ACCEPTED

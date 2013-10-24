@@ -1,5 +1,4 @@
-Sphaeridium flavovirens Fuckel SPECIES
-=======
+# Sphaeridium flavovirens Fuckel SPECIES
 
 #### Status
 ACCEPTED

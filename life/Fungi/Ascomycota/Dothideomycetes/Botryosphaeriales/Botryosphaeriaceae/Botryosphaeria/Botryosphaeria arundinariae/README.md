@@ -1,5 +1,4 @@
-Botryosphaeria arundinariae Earle SPECIES
-=======
+# Botryosphaeria arundinariae Earle SPECIES
 
 #### Status
 ACCEPTED

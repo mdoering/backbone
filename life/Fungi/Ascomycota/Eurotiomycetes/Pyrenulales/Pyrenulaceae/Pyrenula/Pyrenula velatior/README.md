@@ -1,5 +1,4 @@
-Pyrenula velatior Müll. Arg. SPECIES
-=======
+# Pyrenula velatior Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

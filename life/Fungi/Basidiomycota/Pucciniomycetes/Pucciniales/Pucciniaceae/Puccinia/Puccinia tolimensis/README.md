@@ -1,5 +1,4 @@
-Puccinia tolimensis Mayor SPECIES
-=======
+# Puccinia tolimensis Mayor SPECIES
 
 #### Status
 ACCEPTED

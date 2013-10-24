@@ -1,5 +1,4 @@
-Sclerophora Chevallier, 1826 GENUS
-=======
+# Sclerophora Chevallier, 1826 GENUS
 
 #### Status
 ACCEPTED

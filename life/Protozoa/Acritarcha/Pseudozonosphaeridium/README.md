@@ -1,5 +1,4 @@
-Pseudozonosphaeridium Andreeva, 1966 GENUS
-=======
+# Pseudozonosphaeridium Andreeva, 1966 GENUS
 
 #### Status
 ACCEPTED

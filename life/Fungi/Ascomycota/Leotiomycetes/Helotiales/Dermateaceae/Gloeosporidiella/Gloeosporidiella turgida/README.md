@@ -1,14 +1,13 @@
-Micropera turgida (Berk. & Broome) Höhn., 1924 SPECIES
-=======
+# Gloeosporidiella turgida (Berk. & Broome) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. Inst. tech. Hochsch. Wien 1: 64 (1925)
+The Coelomycetes (Kew) 539 (1980)
 
 #### Original name
 Cryptosporium turgidum Berk. & Broome, 1881

@@ -1,17 +1,16 @@
-Coprinus pyrranthes Romagn. SPECIES
-=======
+# Coprinellus pyrrhanthes (Romagn.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 234 (2001)
 
 #### Original name
-Coprinus pyrranthes Romagn.
+Coprinus pyrrhanthes Romagn., 1951
 
 ### Remarks
 null

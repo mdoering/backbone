@@ -1,5 +1,4 @@
-Uredo smilacis Schwein. SPECIES
-=======
+# Uredo smilacis Schwein. SPECIES
 
 #### Status
 ACCEPTED

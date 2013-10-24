@@ -1,5 +1,4 @@
-Rhynchosaccus Rhumbler, 1894 GENUS
-=======
+# Rhynchosaccus Rhumbler, 1894 GENUS
 
 #### Status
 ACCEPTED

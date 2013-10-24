@@ -1,5 +1,4 @@
-Didymochrysis paradoxa Pascher SPECIES
-=======
+# Didymochrysis paradoxa Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria phaeothelena Th. Fr. SPECIES
-=======
+# Verrucaria phaeothelena Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pistillaria capitata (Pat.) Sacc., 1888 SPECIES
-=======
+# Typhula capitata (Pat.) Berthier, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 759 (1888)
+Bull. mens. Soc. linn. Lyon 45: 106 (1976)
 
 #### Original name
 Sphaerula capitata Pat., 1883

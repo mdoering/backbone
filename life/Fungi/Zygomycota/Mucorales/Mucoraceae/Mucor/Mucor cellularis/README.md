@@ -1,5 +1,4 @@
-Mucor cellularis Schreb. SPECIES
-=======
+# Mucor cellularis Schreb. SPECIES
 
 #### Status
 ACCEPTED

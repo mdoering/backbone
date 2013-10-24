@@ -1,5 +1,4 @@
-Umbilicaria bigleri Frey SPECIES
-=======
+# Umbilicaria bigleri Frey SPECIES
 
 #### Status
 ACCEPTED

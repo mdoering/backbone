@@ -1,5 +1,4 @@
-Humaria tomentosa P. Karst. SPECIES
-=======
+# Humaria tomentosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus apalus Cooke SPECIES
-=======
+# Polystictus apalus Cooke SPECIES
 
 #### Status
 ACCEPTED

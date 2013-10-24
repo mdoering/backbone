@@ -1,5 +1,4 @@
-Pleospora rehmiana Staritz SPECIES
-=======
+# Pleospora rehmiana Staritz SPECIES
 
 #### Status
 ACCEPTED

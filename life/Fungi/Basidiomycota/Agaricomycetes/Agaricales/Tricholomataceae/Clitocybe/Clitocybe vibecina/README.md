@@ -1,17 +1,16 @@
-Clitocybe vibecina var. vibecina VARIETY
-=======
+# Clitocybe vibecina (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mém. Soc. Émul. Montbéliard, Sér. 2 5: 318 (1872)
 
 #### Original name
-Clitocybe vibecina var. vibecina
+Agaricus vibecinus Fr., 1818
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmelia roivainenii Räsänen SPECIES
-=======
+# Parmelia roivainenii Räsänen SPECIES
 
 #### Status
 ACCEPTED

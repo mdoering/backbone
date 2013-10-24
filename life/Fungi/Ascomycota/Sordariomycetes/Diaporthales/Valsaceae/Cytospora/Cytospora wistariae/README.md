@@ -1,5 +1,4 @@
-Cytospora wistariae Henn. SPECIES
-=======
+# Cytospora wistariae Henn. SPECIES
 
 #### Status
 ACCEPTED

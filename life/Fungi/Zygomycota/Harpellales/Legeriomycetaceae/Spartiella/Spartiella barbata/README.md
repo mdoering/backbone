@@ -1,5 +1,4 @@
-Spartiella barbata Tuzet & Manier ex Manier, 1968 SPECIES
-=======
+# Spartiella barbata Tuzet & Manier ex Manier, 1968 SPECIES
 
 #### Status
 ACCEPTED

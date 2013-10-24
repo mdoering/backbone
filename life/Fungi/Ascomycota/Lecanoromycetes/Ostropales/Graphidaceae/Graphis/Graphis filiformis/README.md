@@ -1,5 +1,4 @@
-Graphis filiformis Adaw. & Makhija SPECIES
-=======
+# Graphis filiformis Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

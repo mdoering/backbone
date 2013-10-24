@@ -1,5 +1,4 @@
-Gonatobotrys cephalotrichiformis Coem. SPECIES
-=======
+# Gonatobotrys cephalotrichiformis Coem. SPECIES
 
 #### Status
 ACCEPTED

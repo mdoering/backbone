@@ -1,5 +1,4 @@
-Lasmeniella eucalypti (Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Lasmeniella eucalypti (Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

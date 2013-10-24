@@ -1,5 +1,4 @@
-Acetofilamentum Dietrich et al., 1989 GENUS
-=======
+# Acetofilamentum Dietrich et al., 1989 GENUS
 
 #### Status
 ACCEPTED

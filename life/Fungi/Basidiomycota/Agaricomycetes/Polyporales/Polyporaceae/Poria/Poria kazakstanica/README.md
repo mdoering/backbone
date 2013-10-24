@@ -1,5 +1,4 @@
-Poria kazakstanica Pilát SPECIES
-=======
+# Poria kazakstanica Pilát SPECIES
 
 #### Status
 ACCEPTED

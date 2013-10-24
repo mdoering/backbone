@@ -1,5 +1,4 @@
-Thecaphora polymniae Vánky & Pardo-Card. SPECIES
-=======
+# Thecaphora polymniae Vánky & Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

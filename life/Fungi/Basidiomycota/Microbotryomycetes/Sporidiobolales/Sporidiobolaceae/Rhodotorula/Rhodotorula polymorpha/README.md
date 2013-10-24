@@ -1,5 +1,4 @@
-Rhodotorula polymorpha Giov. SPECIES
-=======
+# Rhodotorula polymorpha Giov. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma iputingaense Bat. & A.F. Vital SPECIES
-=======
+# Tricholoma iputingaense Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

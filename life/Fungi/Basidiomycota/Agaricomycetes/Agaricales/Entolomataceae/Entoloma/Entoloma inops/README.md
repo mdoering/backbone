@@ -1,5 +1,4 @@
-Entoloma inops E. Horak, 2008 SPECIES
-=======
+# Entoloma inops E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia himalayensis Balazuc SPECIES
-=======
+# Laboulbenia himalayensis Balazuc SPECIES
 
 #### Status
 ACCEPTED

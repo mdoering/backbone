@@ -1,5 +1,4 @@
-Cintractia americana Nannf. & B. Lindeb. SPECIES
-=======
+# Cintractia americana Nannf. & B. Lindeb. SPECIES
 
 #### Status
 ACCEPTED

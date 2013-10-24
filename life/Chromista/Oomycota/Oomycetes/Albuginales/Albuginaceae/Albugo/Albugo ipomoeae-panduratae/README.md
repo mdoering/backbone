@@ -1,14 +1,13 @@
-Cystopus ipomoeae-panduratae (Schwein.) J.A. Stev. & Swingle, 1889 SPECIES
-=======
+# Albugo ipomoeae-panduratae (Schwein.) Swingle, 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Kansas Acad. Sci. 11: 67 (1889)
+J. Mycol. 7(2): 112 (1892)
 
 #### Original name
 Aecidium ipomoeae-panduratae Schwein., 1822

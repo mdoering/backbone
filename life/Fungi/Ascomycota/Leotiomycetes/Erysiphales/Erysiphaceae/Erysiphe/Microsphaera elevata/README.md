@@ -1,5 +1,4 @@
-Microsphaera elevata Burrill SPECIES
-=======
+# Microsphaera elevata Burrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lindra marinera Meyers, 1969 SPECIES
-=======
+# Lindra thalassiae Orpurt, Meyers, Boral & Simms, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Lindra marinera Meyers, 1969
+Lindra thalassiae Orpurt, Meyers, Boral & Simms, 1964
 
 ### Remarks
 null

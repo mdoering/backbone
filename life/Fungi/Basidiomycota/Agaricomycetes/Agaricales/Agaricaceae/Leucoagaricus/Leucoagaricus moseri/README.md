@@ -1,5 +1,4 @@
-Leucoagaricus moseri (Wasser) Wasser SPECIES
-=======
+# Leucoagaricus moseri (Wasser) Wasser SPECIES
 
 #### Status
 ACCEPTED

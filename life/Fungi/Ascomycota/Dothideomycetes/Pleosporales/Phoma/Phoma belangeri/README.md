@@ -1,5 +1,4 @@
-Phoma belangeri Westend. SPECIES
-=======
+# Phoma belangeri Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia aomoriana Hue SPECIES
-=======
+# Aspicilia aomoriana Hue SPECIES
 
 #### Status
 ACCEPTED

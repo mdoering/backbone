@@ -1,5 +1,4 @@
-Lentinus brunneomaculatus Pat. SPECIES
-=======
+# Lentinus brunneomaculatus Pat. SPECIES
 
 #### Status
 ACCEPTED

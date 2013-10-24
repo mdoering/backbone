@@ -1,5 +1,4 @@
-Asterina menispermacearum Petr. SPECIES
-=======
+# Asterina menispermacearum Petr. SPECIES
 
 #### Status
 ACCEPTED

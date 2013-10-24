@@ -1,5 +1,4 @@
-Ceriporiopsis vinosa Ryvarden, 2004 SPECIES
-=======
+# Ceriporiopsis vinosa Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

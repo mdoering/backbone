@@ -1,5 +1,4 @@
-Lecothecium radiosum Anzi SPECIES
-=======
+# Lecothecium radiosum Anzi SPECIES
 
 #### Status
 ACCEPTED

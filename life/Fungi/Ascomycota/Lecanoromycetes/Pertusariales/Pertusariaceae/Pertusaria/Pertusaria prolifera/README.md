@@ -1,5 +1,4 @@
-Pertusaria prolifera C.W. Dodge SPECIES
-=======
+# Pertusaria prolifera C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

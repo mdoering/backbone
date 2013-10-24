@@ -1,14 +1,13 @@
-Hypoderma lethale Dearn., 1926 SPECIES
-=======
+# Ploioderma lethale (Dearn.) Darker, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 18(5): 241 (1926)
+Can. J. Bot. 45: 1424 (1967)
 
 #### Original name
 Hypoderma lethale Dearn., 1926

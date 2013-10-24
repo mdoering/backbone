@@ -1,5 +1,4 @@
-Aplosporella daemiae S. Ahmad SPECIES
-=======
+# Aplosporella daemiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

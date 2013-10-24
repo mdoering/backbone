@@ -1,5 +1,4 @@
-Hadrotrichum heteromelis Ellis & Everh. SPECIES
-=======
+# Hadrotrichum heteromelis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

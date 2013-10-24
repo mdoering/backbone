@@ -1,5 +1,4 @@
-Pertusaria desquamescens Mont. SPECIES
-=======
+# Pertusaria desquamescens Mont. SPECIES
 
 #### Status
 ACCEPTED

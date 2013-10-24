@@ -1,5 +1,4 @@
-Renispora Sigler & J.W. Carmichael, 1979 GENUS
-=======
+# Renispora Sigler & J.W. Carmichael, 1979 GENUS
 
 #### Status
 ACCEPTED

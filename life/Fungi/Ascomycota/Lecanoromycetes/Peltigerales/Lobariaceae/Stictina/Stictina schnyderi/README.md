@@ -1,5 +1,4 @@
-Stictina schnyderi Müll. Arg. SPECIES
-=======
+# Stictina schnyderi Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

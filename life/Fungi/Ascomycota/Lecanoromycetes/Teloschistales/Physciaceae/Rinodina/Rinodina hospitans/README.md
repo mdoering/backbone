@@ -1,5 +1,4 @@
-Rinodina hospitans H. Magn. SPECIES
-=======
+# Rinodina hospitans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

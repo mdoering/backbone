@@ -1,5 +1,4 @@
-Alectoria tuberculosa Taylor SPECIES
-=======
+# Alectoria tuberculosa Taylor SPECIES
 
 #### Status
 ACCEPTED

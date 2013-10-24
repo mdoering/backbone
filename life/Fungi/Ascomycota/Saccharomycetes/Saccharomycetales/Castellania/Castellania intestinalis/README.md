@@ -1,5 +1,4 @@
-Castellania intestinalis (Castell.) C.W. Dodge SPECIES
-=======
+# Castellania intestinalis (Castell.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

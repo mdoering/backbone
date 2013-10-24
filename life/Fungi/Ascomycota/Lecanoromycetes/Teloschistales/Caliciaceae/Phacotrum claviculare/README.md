@@ -1,5 +1,4 @@
-Phacotrum claviculare (Schaer.) Gray SPECIES
-=======
+# Phacotrum claviculare (Schaer.) Gray SPECIES
 
 #### Status
 ACCEPTED

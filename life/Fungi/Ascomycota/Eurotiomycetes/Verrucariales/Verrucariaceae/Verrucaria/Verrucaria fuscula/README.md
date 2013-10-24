@@ -1,17 +1,16 @@
-Dermatocarpon insulare (A. Massal.) Mig. SPECIES
-=======
+# Verrucaria fuscula Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Fl. Deutschl. , Abt. 2 12/2: 578 (1930)
+Bot. Notiser 161 (1853)
 
 #### Original name
-Placidium insulare A. Massal.
+Verrucaria fuscula Nyl.
 
 ### Remarks
 null

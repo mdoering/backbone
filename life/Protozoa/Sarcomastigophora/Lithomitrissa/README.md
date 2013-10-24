@@ -1,5 +1,4 @@
-Lithomitrissa Haeckel, 1887 GENUS
-=======
+# Lithomitrissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

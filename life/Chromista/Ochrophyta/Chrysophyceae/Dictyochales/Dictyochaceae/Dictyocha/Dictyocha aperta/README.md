@@ -1,5 +1,4 @@
-Dictyocha aperta Hanna SPECIES
-=======
+# Dictyocha aperta Hanna SPECIES
 
 #### Status
 ACCEPTED

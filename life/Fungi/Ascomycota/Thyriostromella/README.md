@@ -1,5 +1,4 @@
-Thyriostromella Bat. & C.A.A. Costa GENUS
-=======
+# Thyriostromella Bat. & C.A.A. Costa GENUS
 
 #### Status
 ACCEPTED

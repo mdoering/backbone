@@ -1,5 +1,4 @@
-Aureobasidium umbellulariae (Harv.) Herm.-Nijh. SPECIES
-=======
+# Aureobasidium umbellulariae (Harv.) Herm.-Nijh. SPECIES
 
 #### Status
 ACCEPTED

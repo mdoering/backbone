@@ -1,5 +1,4 @@
-Volgella Reitlinger in Reitlinger & Mel'nikova, 1977 GENUS
-=======
+# Volgella Reitlinger in Reitlinger & Mel'nikova, 1977 GENUS
 
 #### Status
 ACCEPTED

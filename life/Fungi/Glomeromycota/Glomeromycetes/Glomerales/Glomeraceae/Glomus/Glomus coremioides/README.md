@@ -1,5 +1,4 @@
-Glomus coremioides (Berk. & Broome) D. Redecker & J.B. Morton, 2000 SPECIES
-=======
+# Glomus coremioides (Berk. & Broome) D. Redecker & J.B. Morton, 2000 SPECIES
 
 #### Status
 ACCEPTED

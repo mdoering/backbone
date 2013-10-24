@@ -1,8 +1,7 @@
-Dasyscypha rubrifulvus Clem. SPECIES
-=======
+# Dasyscyphus rubrifulvus Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha rubrifulvus Clem.
+Dasyscyphus rubrifulvus Clem.
 
 ### Remarks
 null

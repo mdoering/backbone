@@ -1,5 +1,4 @@
-Leptosphaeria serbica J. Schröt. SPECIES
-=======
+# Leptosphaeria serbica J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

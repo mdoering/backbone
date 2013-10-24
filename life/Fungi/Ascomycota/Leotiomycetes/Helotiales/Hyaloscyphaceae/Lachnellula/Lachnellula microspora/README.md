@@ -1,5 +1,4 @@
-Lachnellula microspora Ellis & Everh. SPECIES
-=======
+# Lachnellula microspora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

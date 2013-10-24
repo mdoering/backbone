@@ -1,5 +1,4 @@
-Myriangium philippinense Syd. SPECIES
-=======
+# Myriangium philippinense Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orthozygus aureus (Stradner, 1962) Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Orthozygus aureus (Stradner, 1962) Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

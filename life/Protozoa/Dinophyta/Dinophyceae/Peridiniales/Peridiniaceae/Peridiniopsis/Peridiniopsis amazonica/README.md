@@ -1,5 +1,4 @@
-Peridiniopsis amazonica B. Meyer SPECIES
-=======
+# Peridiniopsis amazonica B. Meyer SPECIES
 
 #### Status
 ACCEPTED

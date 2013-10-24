@@ -1,17 +1,16 @@
-Stagonosporopsis andigena (Turkenst.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma andigena Turkenst., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Boerema, Gruyter & Noordeloos, Persoonia 16(1): 131 (1995)
 
 #### Original name
-null
+Phoma andina Turkenst., 1978
 
 ### Remarks
 null

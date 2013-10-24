@@ -1,5 +1,4 @@
-Crepidotus phaeophyllus (Berk.) Sacc. SPECIES
-=======
+# Crepidotus phaeophyllus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

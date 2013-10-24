@@ -1,5 +1,4 @@
-Dactylella coccinella Ying Yang & Xing Z. Liu SPECIES
-=======
+# Dactylella coccinella Ying Yang & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

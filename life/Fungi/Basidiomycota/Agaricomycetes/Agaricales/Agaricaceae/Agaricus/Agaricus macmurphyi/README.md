@@ -1,5 +1,4 @@
-Agaricus macmurphyi Murrill SPECIES
-=======
+# Agaricus macmurphyi Murrill SPECIES
 
 #### Status
 ACCEPTED

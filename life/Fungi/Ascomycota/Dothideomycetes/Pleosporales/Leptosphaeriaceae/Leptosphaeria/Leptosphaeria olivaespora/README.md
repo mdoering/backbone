@@ -1,5 +1,4 @@
-Leptosphaeria olivaespora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptosphaeria olivaespora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

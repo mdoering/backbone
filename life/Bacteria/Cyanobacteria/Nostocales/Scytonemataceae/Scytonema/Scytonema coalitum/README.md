@@ -1,5 +1,4 @@
-Scytonema coalitum SPECIES
-=======
+# Scytonema coalitum SPECIES
 
 #### Status
 ACCEPTED

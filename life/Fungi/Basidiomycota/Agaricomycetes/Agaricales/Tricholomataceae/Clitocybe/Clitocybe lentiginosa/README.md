@@ -1,5 +1,4 @@
-Clitocybe lentiginosa Fr. SPECIES
-=======
+# Clitocybe lentiginosa Fr. SPECIES
 
 #### Status
 ACCEPTED

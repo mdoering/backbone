@@ -1,5 +1,4 @@
-Phyllosticta phlomidis Bondartsev & Lebedeva SPECIES
-=======
+# Phyllosticta phlomidis Bondartsev & Lebedeva SPECIES
 
 #### Status
 ACCEPTED

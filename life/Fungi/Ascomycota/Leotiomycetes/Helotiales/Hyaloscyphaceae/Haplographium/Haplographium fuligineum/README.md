@@ -1,5 +1,4 @@
-Haplographium fuligineum J.F.H. Beyma SPECIES
-=======
+# Haplographium fuligineum J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

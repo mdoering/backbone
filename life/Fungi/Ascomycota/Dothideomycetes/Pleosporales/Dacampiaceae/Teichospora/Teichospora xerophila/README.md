@@ -1,5 +1,4 @@
-Teichospora xerophila Peck SPECIES
-=======
+# Teichospora xerophila Peck SPECIES
 
 #### Status
 ACCEPTED

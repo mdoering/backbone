@@ -1,5 +1,4 @@
-Trachysphaeridium pulchriforme Tian Chuanrong, 1983 SPECIES
-=======
+# Trachysphaeridium pulchriforme Tian Chuanrong, 1983 SPECIES
 
 #### Status
 ACCEPTED

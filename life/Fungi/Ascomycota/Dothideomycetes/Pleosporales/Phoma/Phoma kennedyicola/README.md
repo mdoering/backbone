@@ -1,5 +1,4 @@
-Phoma kennedyicola Henn. SPECIES
-=======
+# Phoma kennedyicola Henn. SPECIES
 
 #### Status
 ACCEPTED

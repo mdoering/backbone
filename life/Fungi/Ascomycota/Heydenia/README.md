@@ -1,17 +1,16 @@
-Rupinia Spegazzini & Roumeguère, 1879 GENUS
-=======
+# Heydenia Fresenius, 1852 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 1: 171 (1879)
+Beitr. Mykol. 47 (1852)
 
 #### Original name
-Rupinia Spegazzini & Roumeguère, 1879
+Heydenia Fresenius, 1852
 
 ### Remarks
 null

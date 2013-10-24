@@ -1,5 +1,4 @@
-Midotis regularis Cooke & W. Phillips SPECIES
-=======
+# Midotis regularis Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

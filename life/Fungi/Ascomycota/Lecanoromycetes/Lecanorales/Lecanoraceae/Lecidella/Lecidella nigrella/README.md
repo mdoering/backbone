@@ -1,5 +1,4 @@
-Lecidella nigrella Stizenb. SPECIES
-=======
+# Lecidella nigrella Stizenb. SPECIES
 
 #### Status
 ACCEPTED

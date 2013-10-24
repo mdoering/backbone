@@ -1,5 +1,4 @@
-Lecidea circumfuscescens Nyl. SPECIES
-=======
+# Lecidea circumfuscescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

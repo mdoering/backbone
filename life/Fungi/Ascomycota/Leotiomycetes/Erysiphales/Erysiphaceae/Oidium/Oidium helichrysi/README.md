@@ -1,5 +1,4 @@
-Oidium helichrysi Boesew., 1977 SPECIES
-=======
+# Oidium helichrysi Boesew., 1977 SPECIES
 
 #### Status
 ACCEPTED

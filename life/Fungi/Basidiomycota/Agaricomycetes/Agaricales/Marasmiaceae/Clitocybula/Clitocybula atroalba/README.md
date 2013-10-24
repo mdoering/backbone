@@ -1,14 +1,13 @@
-Clitocybula atri-alba (Murrill) Singer SPECIES
-=======
+# Clitocybula atroalba (Murrill) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 15(1-6): 53 (1962)
 
 #### Original name
 Clitocybe atroalba Murrill

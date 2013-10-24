@@ -1,5 +1,4 @@
-Cronartium wilsonianum Arthur & J.R. Johnst. SPECIES
-=======
+# Cronartium wilsonianum Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

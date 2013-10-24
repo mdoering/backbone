@@ -1,5 +1,4 @@
-Radulomyces tantalusensis Gilb. & Nakasone, 2003 SPECIES
-=======
+# Radulomyces tantalusensis Gilb. & Nakasone, 2003 SPECIES
 
 #### Status
 ACCEPTED

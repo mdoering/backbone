@@ -1,17 +1,16 @@
-Lecanora campestris var. campestris VARIETY
-=======
+# Lecanora campestris (Schaer.) Hue SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 35: 47 (1888)
+null
 
 #### Original name
-Lecanora campestris var. campestris
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyramidulina obliquatus (Batsch, 1791) SPECIES
-=======
+# Pyramidulina obliquatus (Batsch, 1791) SPECIES
 
 #### Status
 ACCEPTED

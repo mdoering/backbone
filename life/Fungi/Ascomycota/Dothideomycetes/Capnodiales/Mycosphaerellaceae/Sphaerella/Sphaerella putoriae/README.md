@@ -1,5 +1,4 @@
-Sphaerella putoriae Unamuno SPECIES
-=======
+# Sphaerella putoriae Unamuno SPECIES
 
 #### Status
 ACCEPTED

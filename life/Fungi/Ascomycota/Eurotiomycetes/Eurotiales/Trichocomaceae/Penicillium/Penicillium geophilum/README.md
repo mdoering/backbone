@@ -1,5 +1,4 @@
-Penicillium geophilum Oudem. SPECIES
-=======
+# Penicillium geophilum Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subpulchripes Reumaux SPECIES
-=======
+# Cortinarius subpulchripes Reumaux SPECIES
 
 #### Status
 ACCEPTED

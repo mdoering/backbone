@@ -1,5 +1,4 @@
-Stannomidae Haeckel, 1889 FAMILY
-=======
+# Stannomidae Haeckel, 1889 FAMILY
 
 #### Status
 ACCEPTED

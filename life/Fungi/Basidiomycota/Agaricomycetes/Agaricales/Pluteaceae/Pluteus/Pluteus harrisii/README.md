@@ -1,5 +1,4 @@
-Pluteus harrisii Murrill SPECIES
-=======
+# Pluteus harrisii Murrill SPECIES
 
 #### Status
 ACCEPTED

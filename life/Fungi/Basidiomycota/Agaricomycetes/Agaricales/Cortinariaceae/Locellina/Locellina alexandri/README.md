@@ -1,17 +1,16 @@
-Locellina alexandrii Gillet SPECIES
-=======
+# Locellina alexandri Gillet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Les Hyménomycètes ou description de tous les champignons (fungi) qui croissent en France (Alençon) 429 (1874)
 
 #### Original name
-Locellina alexandrii Gillet
+Locellina alexandri Gillet
 
 ### Remarks
 null

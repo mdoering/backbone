@@ -1,5 +1,4 @@
-Belonidium ruborum (Cooke & W. Phillips) Sacc. SPECIES
-=======
+# Belonidium ruborum (Cooke & W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

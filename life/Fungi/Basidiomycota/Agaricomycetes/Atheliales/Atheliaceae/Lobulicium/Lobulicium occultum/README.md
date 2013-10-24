@@ -1,5 +1,4 @@
-Lobulicium occultum K.H. Larss. & Hjortstam, 1982 SPECIES
-=======
+# Lobulicium occultum K.H. Larss. & Hjortstam, 1982 SPECIES
 
 #### Status
 ACCEPTED

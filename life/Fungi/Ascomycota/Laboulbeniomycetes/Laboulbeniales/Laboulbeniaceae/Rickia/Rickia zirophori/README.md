@@ -1,5 +1,4 @@
-Rickia zirophori Thaxt. SPECIES
-=======
+# Rickia zirophori Thaxt. SPECIES
 
 #### Status
 ACCEPTED

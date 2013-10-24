@@ -1,5 +1,4 @@
-Lentaria corticalis (Batsch) Corner SPECIES
-=======
+# Lentaria corticalis (Batsch) Corner SPECIES
 
 #### Status
 ACCEPTED

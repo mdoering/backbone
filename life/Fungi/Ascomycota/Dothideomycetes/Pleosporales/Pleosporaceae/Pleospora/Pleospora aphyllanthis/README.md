@@ -1,5 +1,4 @@
-Pleospora aphyllanthis Henn. SPECIES
-=======
+# Pleospora aphyllanthis Henn. SPECIES
 
 #### Status
 ACCEPTED

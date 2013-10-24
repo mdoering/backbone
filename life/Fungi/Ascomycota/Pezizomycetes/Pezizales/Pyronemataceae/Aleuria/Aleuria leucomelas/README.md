@@ -1,5 +1,4 @@
-Aleuria leucomelas Gillet SPECIES
-=======
+# Aleuria leucomelas Gillet SPECIES
 
 #### Status
 ACCEPTED

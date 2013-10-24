@@ -1,5 +1,4 @@
-Asterinothyrium singulatum Bat. & H. Maia, 1959 SPECIES
-=======
+# Asterinothyrium singulatum Bat. & H. Maia, 1959 SPECIES
 
 #### Status
 ACCEPTED

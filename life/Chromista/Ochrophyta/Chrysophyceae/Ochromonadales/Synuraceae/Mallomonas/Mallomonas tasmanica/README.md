@@ -1,8 +1,7 @@
-Mallomonopsis tasmanica R. L. Croome & P. A. Tyler SPECIES
-=======
+# Mallomonas tasmanica (Croome & P.A. Tyler) Asmund & Kristiansen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

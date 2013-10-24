@@ -1,5 +1,4 @@
-Hypoxylon crenulatum Berk. SPECIES
-=======
+# Hypoxylon crenulatum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exserohilum antillanum R.F. Castañeda, Guarro & Cano, 1995 SPECIES
-=======
+# Exserohilum antillanum R.F. Castañeda, Guarro & Cano, 1995 SPECIES
 
 #### Status
 ACCEPTED

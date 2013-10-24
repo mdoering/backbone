@@ -1,5 +1,4 @@
-Puccinia rhagadioli (Pass.) Syd. SPECIES
-=======
+# Puccinia rhagadioli (Pass.) Syd. SPECIES
 
 #### Status
 ACCEPTED

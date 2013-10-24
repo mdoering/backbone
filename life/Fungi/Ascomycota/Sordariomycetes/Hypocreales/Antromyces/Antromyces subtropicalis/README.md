@@ -1,5 +1,4 @@
-Antromyces subtropicalis Speg. SPECIES
-=======
+# Antromyces subtropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora greschikii Bres. SPECIES
-=======
+# Cytospora greschikii Bres. SPECIES
 
 #### Status
 ACCEPTED

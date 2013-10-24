@@ -1,5 +1,4 @@
-Chrysocelis muehlenbeckiae Lagerh. & Dietel, 1914 SPECIES
-=======
+# Chrysocelis muehlenbeckiae Lagerh. & Dietel, 1914 SPECIES
 
 #### Status
 ACCEPTED

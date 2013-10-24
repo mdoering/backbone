@@ -1,5 +1,4 @@
-Berengeria polyspora SPECIES
-=======
+# Berengeria polyspora SPECIES
 
 #### Status
 ACCEPTED

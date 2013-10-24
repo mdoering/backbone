@@ -1,5 +1,4 @@
-Phaeographina rufospora Patw. & C.R. Kulk. SPECIES
-=======
+# Phaeographina rufospora Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

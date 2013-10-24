@@ -1,5 +1,4 @@
-Sphaeroidina compacta Cushman & Todd, 1949 SPECIES
-=======
+# Sphaeroidina compacta Cushman & Todd, 1949 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe tigrina M.M. Moser SPECIES
-=======
+# Hydrocybe tigrina M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia trigonellae Vasyag. SPECIES
-=======
+# Hendersonia trigonellae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

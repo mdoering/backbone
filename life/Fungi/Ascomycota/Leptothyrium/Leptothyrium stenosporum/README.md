@@ -1,5 +1,4 @@
-Leptothyrium stenosporum Dearn. SPECIES
-=======
+# Leptothyrium stenosporum Dearn. SPECIES
 
 #### Status
 ACCEPTED

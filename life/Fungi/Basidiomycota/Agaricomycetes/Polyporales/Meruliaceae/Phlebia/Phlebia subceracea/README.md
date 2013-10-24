@@ -1,14 +1,13 @@
-Acia subceracea Wakef., 1930 SPECIES
-=======
+# Phlebia subceracea (Wakef.) Nakasone, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. S. Australia 54: 155 (1930)
+Cryptog. Mycol. 24(2): 135 (2003)
 
 #### Original name
 Acia subceracea Wakef., 1930

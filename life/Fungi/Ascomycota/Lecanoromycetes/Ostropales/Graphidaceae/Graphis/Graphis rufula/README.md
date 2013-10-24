@@ -1,5 +1,4 @@
-Graphis rufula Mont. SPECIES
-=======
+# Graphis rufula Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysteropsis larigna (Lambotte & Fautrey) Höhn. SPECIES
-=======
+# Hysteropsis larigna (Lambotte & Fautrey) Höhn. SPECIES
 
 #### Status
 ACCEPTED

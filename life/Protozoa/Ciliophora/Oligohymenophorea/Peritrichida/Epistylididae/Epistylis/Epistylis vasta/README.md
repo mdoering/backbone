@@ -1,5 +1,4 @@
-Epistylis vasta Sommer, 1951 SPECIES
-=======
+# Epistylis vasta Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

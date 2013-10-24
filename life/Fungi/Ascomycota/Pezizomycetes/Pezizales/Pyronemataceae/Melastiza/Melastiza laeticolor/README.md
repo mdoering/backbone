@@ -1,5 +1,4 @@
-Melastiza laeticolor (P. Karst.) T. Schumach. SPECIES
-=======
+# Melastiza laeticolor (P. Karst.) T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

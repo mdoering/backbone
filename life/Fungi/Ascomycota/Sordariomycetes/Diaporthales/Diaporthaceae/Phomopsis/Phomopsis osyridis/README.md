@@ -1,5 +1,4 @@
-Phomopsis osyridis Bubák SPECIES
-=======
+# Phomopsis osyridis Bubák SPECIES
 
 #### Status
 ACCEPTED

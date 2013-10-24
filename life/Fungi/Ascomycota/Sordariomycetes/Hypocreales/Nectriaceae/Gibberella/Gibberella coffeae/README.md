@@ -1,5 +1,4 @@
-Gibberella coffeae Saccas SPECIES
-=======
+# Gibberella coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

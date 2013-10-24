@@ -1,5 +1,4 @@
-Trochammina quadriloba SPECIES
-=======
+# Trochammina quadriloba SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina papularoides (M. Choisy & Werner) Zahlbr. SPECIES
-=======
+# Porina papularoides (M. Choisy & Werner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

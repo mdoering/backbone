@@ -1,17 +1,16 @@
-Ommatospora Bat. & Cavalc. GENUS
-=======
+# Microclava F. Stevens GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Riv. Patol. veg. , Pavia, sér. 3 4: 565 (1964)
+Trans. Ill. St. Acad. Sci. 10: 204 (1917)
 
 #### Original name
-Ommatospora Bat. & Cavalc.
+Microclava F. Stevens
 
 ### Remarks
 null

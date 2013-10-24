@@ -1,5 +1,4 @@
-Hendersonia pallidispora M.L. Farr SPECIES
-=======
+# Hendersonia pallidispora M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

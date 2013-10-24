@@ -1,5 +1,4 @@
-Helicobacter trogontum Mendes et al., 1996 SPECIES
-=======
+# Helicobacter trogontum Mendes et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

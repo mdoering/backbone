@@ -1,5 +1,4 @@
-Leprotolypa aculeata Le Hérissé, 1989 SPECIES
-=======
+# Leprotolypa aculeata Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

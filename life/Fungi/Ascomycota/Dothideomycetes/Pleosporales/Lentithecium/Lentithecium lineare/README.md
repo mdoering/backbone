@@ -1,5 +1,4 @@
-Lentithecium lineare (E. Müll. & Dennis) K.D. Hyde, J. Fourn. & Yin. Zhang, 2009 SPECIES
-=======
+# Lentithecium lineare (E. Müll. & Dennis) K.D. Hyde, J. Fourn. & Yin. Zhang, 2009 SPECIES
 
 #### Status
 ACCEPTED

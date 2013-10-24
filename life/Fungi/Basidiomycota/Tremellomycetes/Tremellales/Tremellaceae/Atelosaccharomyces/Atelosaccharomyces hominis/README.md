@@ -1,5 +1,4 @@
-Atelosaccharomyces hominis (Vuill.) Verdun SPECIES
-=======
+# Atelosaccharomyces hominis (Vuill.) Verdun SPECIES
 
 #### Status
 ACCEPTED

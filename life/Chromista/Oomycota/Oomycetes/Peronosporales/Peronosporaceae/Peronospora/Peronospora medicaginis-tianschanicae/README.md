@@ -1,5 +1,4 @@
-Peronospora medicaginis-tianschanicae Gapon. SPECIES
-=======
+# Peronospora medicaginis-tianschanicae Gapon. SPECIES
 
 #### Status
 ACCEPTED

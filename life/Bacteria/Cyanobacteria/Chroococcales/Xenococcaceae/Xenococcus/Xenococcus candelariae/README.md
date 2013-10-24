@@ -1,5 +1,4 @@
-Xenococcus candelariae R. Tavera & J. Komárek SPECIES
-=======
+# Xenococcus candelariae R. Tavera & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

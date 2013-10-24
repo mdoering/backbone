@@ -1,5 +1,4 @@
-Rinodina canariensis Matzer, H. Mayrhofer & P. Clerc SPECIES
-=======
+# Rinodina canariensis Matzer, H. Mayrhofer & P. Clerc SPECIES
 
 #### Status
 ACCEPTED

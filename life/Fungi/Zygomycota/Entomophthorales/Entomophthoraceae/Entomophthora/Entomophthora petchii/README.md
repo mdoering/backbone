@@ -1,5 +1,4 @@
-Entomophthora petchii anon. SPECIES
-=======
+# Entomophthora petchii anon. SPECIES
 
 #### Status
 ACCEPTED

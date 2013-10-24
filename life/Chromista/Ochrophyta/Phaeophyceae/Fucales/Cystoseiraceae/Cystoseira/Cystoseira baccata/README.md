@@ -1,8 +1,7 @@
-Fucus fibrosus Hudson SPECIES
-=======
+# Cystoseira baccata (S.G. Gmelin) P.C. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

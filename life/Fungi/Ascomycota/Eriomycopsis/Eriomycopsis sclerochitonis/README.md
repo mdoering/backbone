@@ -1,5 +1,4 @@
-Eriomycopsis sclerochitonis Hansf. SPECIES
-=======
+# Eriomycopsis sclerochitonis Hansf. SPECIES
 
 #### Status
 ACCEPTED

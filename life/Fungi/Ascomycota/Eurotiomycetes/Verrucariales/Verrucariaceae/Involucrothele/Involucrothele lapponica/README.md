@@ -1,5 +1,4 @@
-Involucrothele lapponica Servít SPECIES
-=======
+# Involucrothele lapponica Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Imbricaria terebrata (Hoffm.) Körb. SPECIES
-=======
+# Imbricaria terebrata (Hoffm.) Körb. SPECIES
 
 #### Status
 ACCEPTED

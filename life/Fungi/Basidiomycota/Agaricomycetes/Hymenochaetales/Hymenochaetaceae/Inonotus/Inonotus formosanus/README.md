@@ -1,5 +1,4 @@
-Inonotus formosanus T.T. Chang & W.N. Chou SPECIES
-=======
+# Inonotus formosanus T.T. Chang & W.N. Chou SPECIES
 
 #### Status
 ACCEPTED

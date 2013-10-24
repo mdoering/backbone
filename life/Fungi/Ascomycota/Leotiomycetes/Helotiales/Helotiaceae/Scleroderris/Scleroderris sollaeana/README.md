@@ -1,5 +1,4 @@
-Scleroderris sollaeana Sacc. & Cavara SPECIES
-=======
+# Scleroderris sollaeana Sacc. & Cavara SPECIES
 
 #### Status
 ACCEPTED

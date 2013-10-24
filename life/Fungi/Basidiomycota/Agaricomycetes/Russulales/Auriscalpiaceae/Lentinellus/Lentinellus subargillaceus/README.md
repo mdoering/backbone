@@ -1,5 +1,4 @@
-Lentinellus subargillaceus (Kauffman) R.H. Petersen SPECIES
-=======
+# Lentinellus subargillaceus (Kauffman) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

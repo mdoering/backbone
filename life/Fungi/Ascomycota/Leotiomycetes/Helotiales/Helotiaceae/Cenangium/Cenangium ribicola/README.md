@@ -1,5 +1,4 @@
-Cenangium ribicola Naumov & I.E. Brezhnev SPECIES
-=======
+# Cenangium ribicola Naumov & I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

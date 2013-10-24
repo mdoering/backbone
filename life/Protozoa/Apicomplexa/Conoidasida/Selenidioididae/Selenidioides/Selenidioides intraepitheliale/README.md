@@ -1,8 +1,7 @@
-Selenidium intraepitheliale Reichenow, 1932 SPECIES
-=======
+# Selenidioides intraepitheliale Reichenow, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

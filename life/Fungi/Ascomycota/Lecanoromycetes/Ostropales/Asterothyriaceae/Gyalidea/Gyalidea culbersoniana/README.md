@@ -1,5 +1,4 @@
-Gyalidea culbersoniana Vezda & Poelt SPECIES
-=======
+# Gyalidea culbersoniana Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

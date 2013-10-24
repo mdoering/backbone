@@ -1,5 +1,4 @@
-Aecidium geanthi Dietel & Neger SPECIES
-=======
+# Aecidium geanthi Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

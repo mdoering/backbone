@@ -1,5 +1,4 @@
-Segestria rubentior (Stirt.) R. C. Harris SPECIES
-=======
+# Segestria rubentior (Stirt.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

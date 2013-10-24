@@ -1,5 +1,4 @@
-Cheiromyces lignicola Wai H. Ho, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Cheiromyces lignicola Wai H. Ho, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

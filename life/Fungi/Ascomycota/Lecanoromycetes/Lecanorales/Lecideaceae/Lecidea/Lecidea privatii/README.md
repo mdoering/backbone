@@ -1,5 +1,4 @@
-Lecidea privatii Müll. Arg. SPECIES
-=======
+# Lecidea privatii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

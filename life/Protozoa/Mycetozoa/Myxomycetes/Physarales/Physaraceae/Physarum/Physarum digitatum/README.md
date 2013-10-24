@@ -1,8 +1,7 @@
-Physarum instratum T. Macbr., 1922 SPECIES
-=======
+# Physarum digitatum G. Lister & Farquharson, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Physarum digitatum G. Lister & Farquharson, 1916
 
 ### Remarks
 null

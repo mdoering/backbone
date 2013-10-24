@@ -1,5 +1,4 @@
-Pseudoparmelia scrobicularis (Kremp.) Hale SPECIES
-=======
+# Pseudoparmelia scrobicularis (Kremp.) Hale SPECIES
 
 #### Status
 ACCEPTED

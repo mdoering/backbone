@@ -1,5 +1,4 @@
-Thaxterogaster dombeyi Singer SPECIES
-=======
+# Thaxterogaster dombeyi Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus ostrea (Hoffm.) Sacc. & Traverso SPECIES
-=======
+# Polystictus ostrea (Hoffm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

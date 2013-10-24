@@ -1,5 +1,4 @@
-Rhabdospora epidermidis Fautrey SPECIES
-=======
+# Rhabdospora epidermidis Fautrey SPECIES
 
 #### Status
 ACCEPTED

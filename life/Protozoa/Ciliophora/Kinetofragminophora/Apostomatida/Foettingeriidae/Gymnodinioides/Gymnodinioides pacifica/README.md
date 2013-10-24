@@ -1,5 +1,4 @@
-Gymnodinioides pacifica Landers, Gomez-Gutierrez & Peterson, 2006 SPECIES
-=======
+# Gymnodinioides pacifica Landers, Gomez-Gutierrez & Peterson, 2006 SPECIES
 
 #### Status
 ACCEPTED

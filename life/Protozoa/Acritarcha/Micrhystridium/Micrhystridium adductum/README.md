@@ -1,5 +1,4 @@
-Micrhystridium adductum Wicander, 1974 SPECIES
-=======
+# Micrhystridium adductum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

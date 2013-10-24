@@ -1,5 +1,4 @@
-Micrhystridium spinoglobosum Staplin, 1961 SPECIES
-=======
+# Micrhystridium spinoglobosum Staplin, 1961 SPECIES
 
 #### Status
 ACCEPTED

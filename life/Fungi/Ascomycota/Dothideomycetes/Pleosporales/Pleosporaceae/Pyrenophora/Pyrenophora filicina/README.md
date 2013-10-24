@@ -1,5 +1,4 @@
-Pyrenophora filicina Lind SPECIES
-=======
+# Pyrenophora filicina Lind SPECIES
 
 #### Status
 ACCEPTED

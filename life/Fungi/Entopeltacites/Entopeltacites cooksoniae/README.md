@@ -1,5 +1,4 @@
-Entopeltacites cooksoniae Selkirk SPECIES
-=======
+# Entopeltacites cooksoniae Selkirk SPECIES
 
 #### Status
 ACCEPTED

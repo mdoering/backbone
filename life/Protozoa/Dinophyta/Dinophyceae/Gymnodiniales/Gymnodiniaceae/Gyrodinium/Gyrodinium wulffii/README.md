@@ -1,5 +1,4 @@
-Gyrodinium wulffii Schiller SPECIES
-=======
+# Gyrodinium wulffii Schiller SPECIES
 
 #### Status
 ACCEPTED

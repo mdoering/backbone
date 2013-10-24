@@ -1,5 +1,4 @@
-Rinodina californiensis Sheard SPECIES
-=======
+# Rinodina californiensis Sheard SPECIES
 
 #### Status
 ACCEPTED

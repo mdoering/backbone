@@ -1,5 +1,4 @@
-Atriofolliculina Hadzi, 1951 GENUS
-=======
+# Atriofolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

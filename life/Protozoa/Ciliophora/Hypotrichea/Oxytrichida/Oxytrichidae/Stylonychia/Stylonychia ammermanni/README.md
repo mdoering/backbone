@@ -1,5 +1,4 @@
-Stylonychia ammermanni Gupta, Kamra, Arora & Sapra, 2001 SPECIES
-=======
+# Stylonychia ammermanni Gupta, Kamra, Arora & Sapra, 2001 SPECIES
 
 #### Status
 ACCEPTED

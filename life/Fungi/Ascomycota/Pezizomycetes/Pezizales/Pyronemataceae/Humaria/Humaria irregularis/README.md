@@ -1,5 +1,4 @@
-Humaria irregularis (Clem.) K.S. Thind & Waraitch SPECIES
-=======
+# Humaria irregularis (Clem.) K.S. Thind & Waraitch SPECIES
 
 #### Status
 ACCEPTED

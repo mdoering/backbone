@@ -1,5 +1,4 @@
-Dialister micraerophilus Jumas-Bilak et al., 2005 SPECIES
-=======
+# Dialister micraerophilus Jumas-Bilak et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

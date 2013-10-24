@@ -1,5 +1,4 @@
-Mycosphaerella garciniae Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Mycosphaerella garciniae Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

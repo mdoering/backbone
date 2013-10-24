@@ -1,5 +1,4 @@
-Phyllacantha Kützing, 1843 GENUS
-=======
+# Phyllacantha Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

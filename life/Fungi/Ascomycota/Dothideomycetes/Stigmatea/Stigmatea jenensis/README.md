@@ -1,5 +1,4 @@
-Stigmatea jenensis f. jenensis FORM
-=======
+# Stigmatea jenensis Kunze SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stigmatea jenensis f. jenensis
+Stigmatea jenensis Kunze
 
 ### Remarks
 null

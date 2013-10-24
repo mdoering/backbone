@@ -1,5 +1,4 @@
-Aulophacus Haeckel, 1887 GENUS
-=======
+# Aulophacus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

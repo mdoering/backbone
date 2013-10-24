@@ -1,5 +1,4 @@
-Gloeothece subtilis Skuja SPECIES
-=======
+# Gloeothece subtilis Skuja SPECIES
 
 #### Status
 ACCEPTED

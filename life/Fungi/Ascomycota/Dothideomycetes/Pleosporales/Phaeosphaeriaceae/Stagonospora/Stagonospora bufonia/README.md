@@ -1,5 +1,4 @@
-Stagonospora bufonia Bres., 1896 SPECIES
-=======
+# Stagonospora bufonia Bres., 1896 SPECIES
 
 #### Status
 ACCEPTED

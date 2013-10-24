@@ -1,5 +1,4 @@
-Entoloma mephiticum (Murrill) Hesler SPECIES
-=======
+# Entoloma mephiticum (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

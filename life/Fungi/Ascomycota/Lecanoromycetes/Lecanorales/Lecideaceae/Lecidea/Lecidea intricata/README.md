@@ -1,5 +1,4 @@
-Lecidea intricata (Ach.) Borrer SPECIES
-=======
+# Lecidea intricata (Ach.) Borrer SPECIES
 
 #### Status
 ACCEPTED

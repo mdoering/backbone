@@ -1,5 +1,4 @@
-Verrucaria epimaura Brodo SPECIES
-=======
+# Verrucaria epimaura Brodo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lignydium albicans (Peck) Kuntze SPECIES
-=======
+# Lignydium albicans (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia subpolyphylloides Gyeln. SPECIES
-=======
+# Xanthoparmelia subpolyphylloides (Gyeln.) Kurok. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Jap. Bot. 66(3): 159 (1991)
 
 #### Original name
-null
+Parmelia subpolyphylloides Gyeln.
 
 ### Remarks
 null

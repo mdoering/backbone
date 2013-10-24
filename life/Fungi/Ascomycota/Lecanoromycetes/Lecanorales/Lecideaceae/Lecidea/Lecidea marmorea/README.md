@@ -1,5 +1,4 @@
-Lecidea marmorea (With.) Ach. SPECIES
-=======
+# Lecidea marmorea (With.) Ach. SPECIES
 
 #### Status
 ACCEPTED

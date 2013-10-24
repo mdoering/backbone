@@ -1,5 +1,4 @@
-Ustilago heterospora Henn. SPECIES
-=======
+# Ustilago heterospora Henn. SPECIES
 
 #### Status
 ACCEPTED

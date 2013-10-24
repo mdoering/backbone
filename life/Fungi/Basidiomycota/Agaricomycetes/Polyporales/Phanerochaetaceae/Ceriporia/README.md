@@ -1,17 +1,16 @@
-Ceraporus Bondartsev & Singer GENUS
-=======
+# Ceriporia Donk, 1933 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Ceraporus Bondartsev & Singer
+null
 
 ### Remarks
 null

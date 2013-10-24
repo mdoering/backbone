@@ -1,5 +1,4 @@
-Ceuthospora monocarpa Mont. SPECIES
-=======
+# Ceuthospora monocarpa Mont. SPECIES
 
 #### Status
 ACCEPTED

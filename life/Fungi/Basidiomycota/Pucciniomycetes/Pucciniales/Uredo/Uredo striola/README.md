@@ -1,5 +1,4 @@
-Uredo striola Schltdl. SPECIES
-=======
+# Uredo striola Schltdl. SPECIES
 
 #### Status
 ACCEPTED

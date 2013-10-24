@@ -1,8 +1,7 @@
-Sphaeria secretani Heer SPECIES
-=======
+# Sphaeria secretanii Heer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria secretani Heer
+Sphaeria secretanii Heer
 
 ### Remarks
 null

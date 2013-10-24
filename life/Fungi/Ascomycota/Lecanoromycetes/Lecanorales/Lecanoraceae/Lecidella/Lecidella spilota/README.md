@@ -1,5 +1,4 @@
-Lecidella spilota (Fr.) Körb. SPECIES
-=======
+# Lecidella spilota (Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

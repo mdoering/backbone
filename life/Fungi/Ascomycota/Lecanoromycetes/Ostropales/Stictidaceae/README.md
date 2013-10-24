@@ -1,5 +1,4 @@
-Stictidaceae Fr. FAMILY
-=======
+# Stictidaceae Fr. FAMILY
 
 #### Status
 ACCEPTED

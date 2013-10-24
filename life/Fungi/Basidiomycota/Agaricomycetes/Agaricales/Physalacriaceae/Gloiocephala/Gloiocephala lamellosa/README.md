@@ -1,5 +1,4 @@
-Gloiocephala lamellosa Singer SPECIES
-=======
+# Gloiocephala lamellosa Singer SPECIES
 
 #### Status
 ACCEPTED

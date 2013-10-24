@@ -1,5 +1,4 @@
-Ascochyta senensis Punith. SPECIES
-=======
+# Ascochyta senensis Punith. SPECIES
 
 #### Status
 ACCEPTED

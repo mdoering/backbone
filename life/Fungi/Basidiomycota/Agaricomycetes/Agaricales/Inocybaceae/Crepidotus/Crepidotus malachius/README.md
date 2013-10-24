@@ -1,5 +1,4 @@
-Crepidotus malachius Sacc. SPECIES
-=======
+# Crepidotus malachius Sacc. SPECIES
 
 #### Status
 ACCEPTED

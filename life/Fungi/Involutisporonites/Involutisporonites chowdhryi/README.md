@@ -1,5 +1,4 @@
-Involutisporonites chowdhryi (K.P. Jain & R.K. Kar) Kalgutkar & Janson. SPECIES
-=======
+# Involutisporonites chowdhryi (K.P. Jain & R.K. Kar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

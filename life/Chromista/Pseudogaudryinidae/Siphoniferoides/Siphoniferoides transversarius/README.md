@@ -1,8 +1,7 @@
-Textularia transversaria Brady, 1884 SPECIES
-=======
+# Siphoniferoides transversarius (Brady, 1884) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Cenangium fuckelii Sacc. SPECIES
-=======
+# Cenangium fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

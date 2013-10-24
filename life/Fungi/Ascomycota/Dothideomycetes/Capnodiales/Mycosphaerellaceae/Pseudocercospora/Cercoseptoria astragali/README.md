@@ -1,5 +1,4 @@
-Cercoseptoria astragali (Rostr.) Petr. SPECIES
-=======
+# Cercoseptoria astragali (Rostr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

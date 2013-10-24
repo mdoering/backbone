@@ -1,5 +1,4 @@
-Mycena insolita Maas Geest. & de Meijer SPECIES
-=======
+# Mycena insolita Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

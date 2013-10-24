@@ -1,5 +1,4 @@
-Arthoniaceae Rchb. FAMILY
-=======
+# Arthoniaceae Rchb. FAMILY
 
 #### Status
 ACCEPTED

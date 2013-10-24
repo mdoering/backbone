@@ -1,5 +1,4 @@
-Diploderma castoreum Lloyd SPECIES
-=======
+# Diploderma castoreum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrogenophaga defluvii Kämpfer et al., 2005 SPECIES
-=======
+# Hydrogenophaga defluvii Kämpfer et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

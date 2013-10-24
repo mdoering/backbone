@@ -1,5 +1,4 @@
-Ephelota gemmipara (Hertwig, 1875) SPECIES
-=======
+# Ephelota gemmipara (Hertwig, 1875) SPECIES
 
 #### Status
 ACCEPTED

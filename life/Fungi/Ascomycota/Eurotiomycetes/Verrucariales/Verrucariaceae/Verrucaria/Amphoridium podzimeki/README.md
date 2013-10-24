@@ -1,8 +1,7 @@
-Amphoridium podzimekki (Servít) Servít SPECIES
-=======
+# Amphoridium podzimeki (Servít) Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

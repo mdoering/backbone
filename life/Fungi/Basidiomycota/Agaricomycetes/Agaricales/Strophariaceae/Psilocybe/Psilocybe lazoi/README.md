@@ -1,5 +1,4 @@
-Psilocybe lazoi Singer SPECIES
-=======
+# Psilocybe lazoi Singer SPECIES
 
 #### Status
 ACCEPTED

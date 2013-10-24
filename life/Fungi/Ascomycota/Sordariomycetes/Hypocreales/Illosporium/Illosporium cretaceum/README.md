@@ -1,5 +1,4 @@
-Illosporium cretaceum Oudem. SPECIES
-=======
+# Illosporium cretaceum Oudem. SPECIES
 
 #### Status
 ACCEPTED

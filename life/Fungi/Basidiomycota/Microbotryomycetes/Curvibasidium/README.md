@@ -1,5 +1,4 @@
-Curvibasidium Samp. & Golubev GENUS
-=======
+# Curvibasidium Samp. & Golubev GENUS
 
 #### Status
 ACCEPTED

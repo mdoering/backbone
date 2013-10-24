@@ -1,5 +1,4 @@
-Cladochytrium flori Prunet SPECIES
-=======
+# Cladochytrium flori Prunet SPECIES
 
 #### Status
 ACCEPTED

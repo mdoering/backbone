@@ -1,5 +1,4 @@
-Bandyus Fordham, 1986 GENUS
-=======
+# Bandyus Fordham, 1986 GENUS
 
 #### Status
 ACCEPTED

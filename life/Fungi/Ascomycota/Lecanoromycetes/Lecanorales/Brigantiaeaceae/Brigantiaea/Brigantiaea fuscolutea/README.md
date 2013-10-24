@@ -1,14 +1,13 @@
-Heterothecium fuscoluteum (Dicks.) Tuck. SPECIES
-=======
+# Brigantiaea fuscolutea (Dicks.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Poelt & Vezda, Biblthca Lichenol. 16: 363 (1981)
 
 #### Original name
 Lichen fuscoluteus Dicks.

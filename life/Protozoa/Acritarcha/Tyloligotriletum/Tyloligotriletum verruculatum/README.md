@@ -1,5 +1,4 @@
-Tyloligotriletum verruculatum Timofeev in Rudavskaya & Timofeev, 1963 SPECIES
-=======
+# Tyloligotriletum verruculatum Timofeev in Rudavskaya & Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

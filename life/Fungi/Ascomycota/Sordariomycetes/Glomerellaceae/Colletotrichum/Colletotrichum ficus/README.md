@@ -1,5 +1,4 @@
-Colletotrichum ficus Koord. SPECIES
-=======
+# Colletotrichum ficus Koord. SPECIES
 
 #### Status
 ACCEPTED

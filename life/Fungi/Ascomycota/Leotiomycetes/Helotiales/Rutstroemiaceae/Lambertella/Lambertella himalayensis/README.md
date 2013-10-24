@@ -1,5 +1,4 @@
-Lambertella himalayensis V.P. Tewari & D.C. Pant, 1967 SPECIES
-=======
+# Lambertella himalayensis V.P. Tewari & D.C. Pant, 1967 SPECIES
 
 #### Status
 ACCEPTED

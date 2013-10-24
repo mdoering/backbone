@@ -1,17 +1,16 @@
-Collybia pillodi Quél. SPECIES
-=======
+# Collybia pillodii Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Compt. Rend. Assoc. Franç. Avancem. Sci. 18(2): 509 (1890)
 
 #### Original name
-Collybia pillodi Quél.
+Collybia pillodii Quél.
 
 ### Remarks
 null

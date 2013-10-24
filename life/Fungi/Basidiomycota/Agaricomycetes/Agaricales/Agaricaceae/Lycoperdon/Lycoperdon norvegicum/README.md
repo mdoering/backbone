@@ -1,5 +1,4 @@
-Lycoperdon norvegicum Demoulin SPECIES
-=======
+# Lycoperdon norvegicum Demoulin SPECIES
 
 #### Status
 ACCEPTED

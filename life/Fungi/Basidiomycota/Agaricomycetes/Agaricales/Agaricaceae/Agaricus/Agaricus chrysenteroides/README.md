@@ -1,5 +1,4 @@
-Agaricus chrysenteroides Peck SPECIES
-=======
+# Agaricus chrysenteroides Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria gemina Bérubé & Dessur., 1989 SPECIES
-=======
+# Armillaria gemina Bérubé & Dessur., 1989 SPECIES
 
 #### Status
 ACCEPTED

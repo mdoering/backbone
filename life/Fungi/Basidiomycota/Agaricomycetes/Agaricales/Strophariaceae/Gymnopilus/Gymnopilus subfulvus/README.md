@@ -1,5 +1,4 @@
-Gymnopilus subfulvus (Peck) Murrill SPECIES
-=======
+# Gymnopilus subfulvus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

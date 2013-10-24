@@ -1,17 +1,16 @@
-Choanephoroidea I. Miyake & S. Ito GENUS
-=======
+# Choanephora Curr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Tokyo Agric. Coll. 4: 31 (1935)
+J. Linn. Soc. , Bot. 13: 578 (1873)
 
 #### Original name
-Choanephoroidea I. Miyake & S. Ito
+Choanephora Curr.
 
 ### Remarks
 null

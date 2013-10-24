@@ -1,5 +1,4 @@
-Didymella coriariae Speg. SPECIES
-=======
+# Didymella coriariae Speg. SPECIES
 
 #### Status
 ACCEPTED

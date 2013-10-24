@@ -1,5 +1,4 @@
-Lichen Linnaeus, 1753 GENUS
-=======
+# Lichen Linnaeus, 1753 GENUS
 
 #### Status
 ACCEPTED

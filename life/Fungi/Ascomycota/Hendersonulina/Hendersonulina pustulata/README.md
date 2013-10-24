@@ -1,5 +1,4 @@
-Hendersonulina pustulata (Ellis & Everh.) Tassi SPECIES
-=======
+# Hendersonulina pustulata (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crinipellis squamifolia Murrill SPECIES
-=======
+# Crinipellis squamifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

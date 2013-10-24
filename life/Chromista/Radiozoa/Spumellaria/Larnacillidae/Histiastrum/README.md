@@ -1,5 +1,4 @@
-Histiastrum Ehrenberg, 1847 GENUS
-=======
+# Histiastrum Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

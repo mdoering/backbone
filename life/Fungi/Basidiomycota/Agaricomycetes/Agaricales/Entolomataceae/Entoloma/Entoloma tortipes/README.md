@@ -1,5 +1,4 @@
-Entoloma tortipes Murrill SPECIES
-=======
+# Entoloma tortipes Murrill SPECIES
 
 #### Status
 ACCEPTED

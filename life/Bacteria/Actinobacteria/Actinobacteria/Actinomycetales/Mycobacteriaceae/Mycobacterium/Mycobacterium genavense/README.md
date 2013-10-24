@@ -1,5 +1,4 @@
-Mycobacterium genavense Böttger et al., 1993 SPECIES
-=======
+# Mycobacterium genavense Böttger et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Helicomina deutziae T. Yokoy., 1959 SPECIES
-=======
+# Hyalohelicomina deutziae (T. Yokoy.) T. Yokoy., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Fac. agric. , Hokkaido Imp. Univ. Sapporo 51: 191 (1959)
+Trans. Mycol. Soc. Japan 15(2): 159 (1974)
 
 #### Original name
 Helicomina deutziae T. Yokoy., 1959

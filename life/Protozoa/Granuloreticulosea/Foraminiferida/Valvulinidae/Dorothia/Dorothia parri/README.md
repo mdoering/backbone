@@ -1,5 +1,4 @@
-Dorothia parri Cushman SPECIES
-=======
+# Dorothia parri Cushman SPECIES
 
 #### Status
 ACCEPTED

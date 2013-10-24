@@ -1,5 +1,4 @@
-Iamia majanohamensis Kurahashi, Fukunaga, Sakiyama, Harayama & Yokota, 2009 SPECIES
-=======
+# Iamia majanohamensis Kurahashi, Fukunaga, Sakiyama, Harayama & Yokota, 2009 SPECIES
 
 #### Status
 ACCEPTED

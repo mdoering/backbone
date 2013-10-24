@@ -1,5 +1,4 @@
-Ellipsodinium rugulosum Clarke & Verdier, 1967 SPECIES
-=======
+# Ellipsodinium rugulosum Clarke & Verdier, 1967 SPECIES
 
 #### Status
 ACCEPTED

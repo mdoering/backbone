@@ -1,5 +1,4 @@
-Parmularia lentigera Croz. SPECIES
-=======
+# Parmularia lentigera Croz. SPECIES
 
 #### Status
 ACCEPTED

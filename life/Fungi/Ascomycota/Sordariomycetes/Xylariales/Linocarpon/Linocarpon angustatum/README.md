@@ -1,5 +1,4 @@
-Linocarpon angustatum K.D. Hyde & Alias, 1999 SPECIES
-=======
+# Linocarpon angustatum K.D. Hyde & Alias, 1999 SPECIES
 
 #### Status
 ACCEPTED

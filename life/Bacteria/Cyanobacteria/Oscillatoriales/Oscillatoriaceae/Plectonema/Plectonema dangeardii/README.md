@@ -1,5 +1,4 @@
-Plectonema dangeardii Frémy SPECIES
-=======
+# Plectonema dangeardii Frémy SPECIES
 
 #### Status
 ACCEPTED

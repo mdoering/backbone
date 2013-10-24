@@ -1,5 +1,4 @@
-Calpionella cadischi SPECIES
-=======
+# Calpionella cadischi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyangium Link, 1809 GENUS
-=======
+# Polyangium Link, 1809 GENUS
 
 #### Status
 ACCEPTED

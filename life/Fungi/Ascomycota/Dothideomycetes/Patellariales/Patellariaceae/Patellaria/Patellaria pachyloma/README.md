@@ -1,5 +1,4 @@
-Patellaria pachyloma Müll. Arg. SPECIES
-=======
+# Patellaria pachyloma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

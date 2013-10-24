@@ -1,5 +1,4 @@
-Pilophorus fibula (Tuck.) Th. Fr. SPECIES
-=======
+# Pilophorus fibula (Tuck.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

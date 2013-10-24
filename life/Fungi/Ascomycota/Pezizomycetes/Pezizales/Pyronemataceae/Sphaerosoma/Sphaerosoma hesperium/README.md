@@ -1,5 +1,4 @@
-Sphaerosoma hesperium (Setch.) Seaver SPECIES
-=======
+# Sphaerosoma hesperium (Setch.) Seaver SPECIES
 
 #### Status
 ACCEPTED

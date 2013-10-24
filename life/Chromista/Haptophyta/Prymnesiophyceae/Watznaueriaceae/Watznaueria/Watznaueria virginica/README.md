@@ -1,5 +1,4 @@
-Watznaueria virginica D. Bukry SPECIES
-=======
+# Watznaueria virginica D. Bukry SPECIES
 
 #### Status
 ACCEPTED

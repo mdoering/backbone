@@ -1,5 +1,4 @@
-Lophosphaeridium clivosum N. Umnova, 1975 SPECIES
-=======
+# Lophosphaeridium clivosum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

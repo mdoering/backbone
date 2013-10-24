@@ -1,17 +1,16 @@
-Hypocrella salacensis (Racib.) Petch SPECIES
-=======
+# Hypocrella salaccensis (Racib.) Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sydow, Annls mycol. 11: 207 (1913)
 
 #### Original name
-Barya salacensis Racib.
+Barya salaccensis Racib.
 
 ### Remarks
 null

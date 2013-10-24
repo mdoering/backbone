@@ -1,5 +1,4 @@
-Ovularia globifera Ellis & Everh. SPECIES
-=======
+# Ovularia globifera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

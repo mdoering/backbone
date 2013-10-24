@@ -1,5 +1,4 @@
-Sphaeridium lacteum Ellis & Langl. SPECIES
-=======
+# Sphaeridium lacteum Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

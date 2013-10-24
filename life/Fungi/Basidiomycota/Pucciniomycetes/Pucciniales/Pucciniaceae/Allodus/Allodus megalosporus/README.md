@@ -1,5 +1,4 @@
-Allodus megalosporus Orton SPECIES
-=======
+# Allodus megalosporus Orton SPECIES
 
 #### Status
 ACCEPTED

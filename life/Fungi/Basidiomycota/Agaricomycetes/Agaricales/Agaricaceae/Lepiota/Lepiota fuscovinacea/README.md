@@ -1,5 +1,4 @@
-Lepiota fuscovinacea F.H. Møller & J.E. Lange, 1940 SPECIES
-=======
+# Lepiota fuscovinacea F.H. Møller & J.E. Lange, 1940 SPECIES
 
 #### Status
 ACCEPTED

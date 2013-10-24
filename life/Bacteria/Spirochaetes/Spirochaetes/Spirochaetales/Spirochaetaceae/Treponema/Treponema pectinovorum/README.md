@@ -1,5 +1,4 @@
-Treponema pectinovorum Smibert & Burmeister, 1983 SPECIES
-=======
+# Treponema pectinovorum Smibert & Burmeister, 1983 SPECIES
 
 #### Status
 ACCEPTED

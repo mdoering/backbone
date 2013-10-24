@@ -1,5 +1,4 @@
-Parmelia pulchella (Wulfen) Schaer. SPECIES
-=======
+# Parmelia pulchella (Wulfen) Schaer. SPECIES
 
 #### Status
 ACCEPTED

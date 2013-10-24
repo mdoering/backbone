@@ -1,5 +1,4 @@
-Dinophysis acuta Ehrenberg SPECIES
-=======
+# Dinophysis acuta Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

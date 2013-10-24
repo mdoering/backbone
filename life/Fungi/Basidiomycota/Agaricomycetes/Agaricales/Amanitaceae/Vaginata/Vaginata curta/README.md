@@ -1,5 +1,4 @@
-Vaginata curta (Cooke & Massee) Kuntze SPECIES
-=======
+# Vaginata curta (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

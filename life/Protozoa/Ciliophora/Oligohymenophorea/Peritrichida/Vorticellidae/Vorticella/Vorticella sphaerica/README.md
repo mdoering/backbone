@@ -1,5 +1,4 @@
-Vorticella sphaerica D'Udekem, 1864 SPECIES
-=======
+# Vorticella sphaerica D'Udekem, 1864 SPECIES
 
 #### Status
 ACCEPTED

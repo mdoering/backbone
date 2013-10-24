@@ -1,5 +1,4 @@
-Endocarpiscum laciniatum (Bagl. & Carestia) Jatta SPECIES
-=======
+# Endocarpiscum laciniatum (Bagl. & Carestia) Jatta SPECIES
 
 #### Status
 ACCEPTED

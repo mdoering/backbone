@@ -1,5 +1,4 @@
-Hypotrachyna ligulata M. D. E. Knox SPECIES
-=======
+# Hypotrachyna ligulata M. D. E. Knox SPECIES
 
 #### Status
 ACCEPTED

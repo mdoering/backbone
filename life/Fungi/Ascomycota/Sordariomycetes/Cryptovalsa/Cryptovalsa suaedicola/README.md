@@ -1,5 +1,4 @@
-Cryptovalsa suaedicola Spooner, 1981 SPECIES
-=======
+# Cryptovalsa suaedicola Spooner, 1981 SPECIES
 
 #### Status
 ACCEPTED

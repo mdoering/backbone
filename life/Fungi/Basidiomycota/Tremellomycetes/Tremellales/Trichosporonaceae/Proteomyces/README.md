@@ -1,5 +1,4 @@
-Proteomyces GENUS
-=======
+# Proteomyces GENUS
 
 #### Status
 ACCEPTED

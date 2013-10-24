@@ -1,5 +1,4 @@
-Lagenophrys inflata Swarczewsky, 1930 SPECIES
-=======
+# Lagenophrys inflata Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

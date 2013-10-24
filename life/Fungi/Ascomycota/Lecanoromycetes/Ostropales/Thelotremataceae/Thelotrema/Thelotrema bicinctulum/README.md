@@ -1,17 +1,16 @@
-Porina octolocularis (C. Knight) C. Knight SPECIES
-=======
+# Thelotrema bicinctulum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. R. Soc. Qd. 6: 188 (1889)
+null
 
 #### Original name
-Ascidium octoloculare C. Knight
+Thelotrema bicinctulum Nyl.
 
 ### Remarks
 null

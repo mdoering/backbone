@@ -1,5 +1,4 @@
-Amanita conicobulbosa Cleland SPECIES
-=======
+# Amanita conicobulbosa Cleland SPECIES
 
 #### Status
 ACCEPTED

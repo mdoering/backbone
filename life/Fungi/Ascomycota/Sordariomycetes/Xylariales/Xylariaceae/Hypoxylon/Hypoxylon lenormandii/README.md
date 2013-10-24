@@ -1,17 +1,16 @@
-Hypoxylon lenormandi Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon lenormandii Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 385 (1868)
 
 #### Original name
-Hypoxylon lenormandi Berk. & M.A. Curtis
+Hypoxylon lenormandii Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

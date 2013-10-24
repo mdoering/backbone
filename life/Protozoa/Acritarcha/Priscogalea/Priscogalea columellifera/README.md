@@ -1,5 +1,4 @@
-Priscogalea columellifera Deunff, 1961 SPECIES
-=======
+# Priscogalea columellifera Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora adenantheriae M.B. Ellis SPECIES
-=======
+# Corynespora adenantheriae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Martellia pila (Pat.) J.M. Vidal, 1991 SPECIES
-=======
+# Cystangium oregonense (Zeller) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 198 (2002)
 
 #### Original name
-null
+Hydnangium pila Pat., 1910
 
 ### Remarks
 null

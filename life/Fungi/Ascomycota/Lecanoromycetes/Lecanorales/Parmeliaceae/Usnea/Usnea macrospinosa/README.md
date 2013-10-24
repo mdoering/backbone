@@ -1,5 +1,4 @@
-Usnea macrospinosa Chao {?}, Hsa {?} & Sun {?} SPECIES
-=======
+# Usnea macrospinosa Chao {?}, Hsa {?} & Sun {?} SPECIES
 
 #### Status
 ACCEPTED

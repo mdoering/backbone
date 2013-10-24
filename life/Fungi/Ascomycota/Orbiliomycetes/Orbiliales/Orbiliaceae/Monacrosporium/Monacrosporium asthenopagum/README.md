@@ -1,14 +1,13 @@
-Dactylella asthenopaga Drechsler, 1937 SPECIES
-=======
+# Monacrosporium asthenopagum (Drechsler) A. Rubner, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 29(4): 498 (1937)
+Stud. Mycol. 39: 50 (1996)
 
 #### Original name
 Dactylella asthenopaga Drechsler, 1937

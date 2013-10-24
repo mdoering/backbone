@@ -1,5 +1,4 @@
-Zygacantharium Haeckel, 1887 GENUS
-=======
+# Zygacantharium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

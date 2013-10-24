@@ -1,5 +1,4 @@
-Puccinia thlaspidis Vuill. SPECIES
-=======
+# Puccinia thlaspidis Vuill. SPECIES
 
 #### Status
 ACCEPTED

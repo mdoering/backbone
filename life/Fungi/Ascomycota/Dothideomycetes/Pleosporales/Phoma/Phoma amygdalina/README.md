@@ -1,5 +1,4 @@
-Phoma amygdalina Sacc. & D. Sacc. SPECIES
-=======
+# Phoma amygdalina Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyttarocylis favata SPECIES
-=======
+# Cyttarocylis favata SPECIES
 
 #### Status
 ACCEPTED

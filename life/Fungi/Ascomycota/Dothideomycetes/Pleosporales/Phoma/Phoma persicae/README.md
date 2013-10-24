@@ -1,5 +1,4 @@
-Phoma persicae Sacc. SPECIES
-=======
+# Phoma persicae Sacc. SPECIES
 
 #### Status
 ACCEPTED

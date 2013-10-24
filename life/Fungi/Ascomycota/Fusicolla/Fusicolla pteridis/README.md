@@ -1,5 +1,4 @@
-Fusicolla pteridis P. Karst. SPECIES
-=======
+# Fusicolla pteridis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

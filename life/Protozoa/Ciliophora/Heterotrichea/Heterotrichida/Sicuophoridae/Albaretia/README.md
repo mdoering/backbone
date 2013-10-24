@@ -1,5 +1,4 @@
-Albaretia GENUS
-=======
+# Albaretia GENUS
 
 #### Status
 ACCEPTED

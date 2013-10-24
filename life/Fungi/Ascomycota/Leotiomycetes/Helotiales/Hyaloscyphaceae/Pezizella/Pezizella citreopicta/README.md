@@ -1,5 +1,4 @@
-Pezizella citreopicta Kirschst. SPECIES
-=======
+# Pezizella citreopicta Kirschst. SPECIES
 
 #### Status
 ACCEPTED

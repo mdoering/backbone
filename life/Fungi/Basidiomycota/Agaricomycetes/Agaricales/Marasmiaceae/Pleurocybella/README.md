@@ -1,5 +1,4 @@
-Pleurocybella Singer GENUS
-=======
+# Pleurocybella Singer GENUS
 
 #### Status
 ACCEPTED

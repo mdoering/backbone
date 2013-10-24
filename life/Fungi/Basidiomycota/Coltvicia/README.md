@@ -1,5 +1,4 @@
-Coltvicia GENUS
-=======
+# Coltvicia GENUS
 
 #### Status
 ACCEPTED

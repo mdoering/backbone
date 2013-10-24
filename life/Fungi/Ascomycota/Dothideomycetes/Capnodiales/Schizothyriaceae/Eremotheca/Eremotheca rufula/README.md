@@ -1,5 +1,4 @@
-Eremotheca rufula (Berk. & M.A. Curtis) Theiss. & Syd. SPECIES
-=======
+# Eremotheca rufula (Berk. & M.A. Curtis) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

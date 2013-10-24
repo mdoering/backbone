@@ -1,5 +1,4 @@
-Mallomonas mangofera f. reticulata G. Cronberg FORM
-=======
+# Mallomonas mangofera K. Harris & W.H. Bradley SPECIES
 
 #### Status
 ACCEPTED

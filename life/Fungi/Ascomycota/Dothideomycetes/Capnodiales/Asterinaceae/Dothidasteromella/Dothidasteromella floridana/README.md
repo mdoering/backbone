@@ -1,5 +1,4 @@
-Dothidasteromella floridana (Tracy & Earle) Inácio & P.F. Cannon SPECIES
-=======
+# Dothidasteromella floridana (Tracy & Earle) Inácio & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

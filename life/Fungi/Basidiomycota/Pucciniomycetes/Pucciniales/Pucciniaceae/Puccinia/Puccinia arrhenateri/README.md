@@ -1,5 +1,4 @@
-Puccinia arrhenateri (Kleb.) Erikss. SPECIES
-=======
+# Puccinia arrhenateri (Kleb.) Erikss. SPECIES
 
 #### Status
 ACCEPTED

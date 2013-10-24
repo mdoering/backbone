@@ -1,5 +1,4 @@
-Arecomyces calami K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Arecomyces calami K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

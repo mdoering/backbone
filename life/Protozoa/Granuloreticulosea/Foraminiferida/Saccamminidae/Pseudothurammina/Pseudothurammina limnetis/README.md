@@ -1,5 +1,4 @@
-Pseudothurammina limnetis (Scott & Medioli, 1980) SPECIES
-=======
+# Pseudothurammina limnetis (Scott & Medioli, 1980) SPECIES
 
 #### Status
 ACCEPTED

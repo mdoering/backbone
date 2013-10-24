@@ -1,17 +1,16 @@
-Camarosporium artemisicolum Golovin SPECIES
-=======
+# Camarosporium artemisiicola Golovin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Centr. Asian Univ. Stud. , N. S. 14(5): 44 (1950)
 
 #### Original name
-Camarosporium artemisicolum Golovin
+Camarosporium artemisiicola Golovin
 
 ### Remarks
 null

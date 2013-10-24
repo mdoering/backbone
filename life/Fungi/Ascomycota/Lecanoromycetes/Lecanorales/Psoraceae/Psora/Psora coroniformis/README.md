@@ -1,5 +1,4 @@
-Psora coroniformis (Kremp.) Müll. Arg. SPECIES
-=======
+# Psora coroniformis (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

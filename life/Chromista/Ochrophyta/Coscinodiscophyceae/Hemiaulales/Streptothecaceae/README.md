@@ -1,5 +1,4 @@
-Streptothecaceae Crawford FAMILY
-=======
+# Streptothecaceae Crawford FAMILY
 
 #### Status
 ACCEPTED

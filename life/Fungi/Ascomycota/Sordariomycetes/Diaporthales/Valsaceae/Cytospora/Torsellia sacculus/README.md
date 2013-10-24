@@ -1,5 +1,4 @@
-Torsellia sacculus (Schwein.) Fr. SPECIES
-=======
+# Torsellia sacculus (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoleuca ellisii Y.M. Ju, J.D. Rogers & H.M. Hsieh, 2004 SPECIES
-=======
+# Entoleuca ellisii Y.M. Ju, J.D. Rogers & H.M. Hsieh, 2004 SPECIES
 
 #### Status
 ACCEPTED

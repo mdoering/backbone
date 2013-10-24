@@ -1,5 +1,4 @@
-Umbilicaria luxurians SPECIES
-=======
+# Umbilicaria luxurians SPECIES
 
 #### Status
 ACCEPTED

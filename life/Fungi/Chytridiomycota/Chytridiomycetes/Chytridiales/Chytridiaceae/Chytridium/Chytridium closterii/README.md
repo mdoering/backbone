@@ -1,5 +1,4 @@
-Chytridium closterii S.N. Dasgupta & R. John SPECIES
-=======
+# Chytridium closterii S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

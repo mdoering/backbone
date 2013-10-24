@@ -1,5 +1,4 @@
-Russula steinbachii Cernoh. {?} & Singer SPECIES
-=======
+# Russula steinbachii Cernoh. {?} & Singer SPECIES
 
 #### Status
 ACCEPTED

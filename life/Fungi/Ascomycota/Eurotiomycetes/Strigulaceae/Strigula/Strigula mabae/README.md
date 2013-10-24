@@ -1,5 +1,4 @@
-Strigula mabae Zahlbr. SPECIES
-=======
+# Strigula mabae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

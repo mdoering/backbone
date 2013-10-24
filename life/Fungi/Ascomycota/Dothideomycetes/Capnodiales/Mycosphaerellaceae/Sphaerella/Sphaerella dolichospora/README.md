@@ -1,5 +1,4 @@
-Sphaerella dolichospora Sacc. & Fautrey SPECIES
-=======
+# Sphaerella dolichospora Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus byssinus Scop. SPECIES
-=======
+# Fungus byssinus Scop. SPECIES
 
 #### Status
 ACCEPTED

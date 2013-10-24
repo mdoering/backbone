@@ -1,5 +1,4 @@
-Leptospira alexanderi Brenner et al., 1999 SPECIES
-=======
+# Leptospira alexanderi Brenner et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

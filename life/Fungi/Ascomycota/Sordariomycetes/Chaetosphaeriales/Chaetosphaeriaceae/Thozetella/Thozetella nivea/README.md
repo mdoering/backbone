@@ -1,14 +1,13 @@
-Thozetia nivea Berk., 1881 SPECIES
-=======
+# Thozetella nivea (Berk.) Kuntze, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. (1881)
+Revis. gen. pl. (Leipzig) 2: 873 (1891)
 
 #### Original name
 Thozetia nivea Berk., 1881

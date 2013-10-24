@@ -1,5 +1,4 @@
-Pseudocercospora gei (Fuckel) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora gei (Fuckel) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

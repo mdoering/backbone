@@ -1,5 +1,4 @@
-Plectosphaera selenipediifolii Bat., Peres & J.L. Bezerra, 1967 SPECIES
-=======
+# Plectosphaera selenipediifolii Bat., Peres & J.L. Bezerra, 1967 SPECIES
 
 #### Status
 ACCEPTED

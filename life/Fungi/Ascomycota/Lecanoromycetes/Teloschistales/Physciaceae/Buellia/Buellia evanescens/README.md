@@ -1,5 +1,4 @@
-Buellia evanescens Darb. SPECIES
-=======
+# Buellia evanescens Darb. SPECIES
 
 #### Status
 ACCEPTED

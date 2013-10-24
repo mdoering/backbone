@@ -1,5 +1,4 @@
-Lecanora arenaria (Anzi) Nyl. SPECIES
-=======
+# Lecanora arenaria (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED

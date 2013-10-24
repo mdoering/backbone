@@ -1,5 +1,4 @@
-Lecanora austroamericana (Räsänen) Zahlbr. SPECIES
-=======
+# Lecanora austroamericana (Räsänen) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

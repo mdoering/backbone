@@ -1,14 +1,13 @@
-Chaenotheca savonica (Räsänen) Tibell SPECIES
-=======
+# Chaenothecopsis savonica (Räsänen) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 666 (1984)
 
 #### Original name
 Mycocalicium savonicum Räsänen

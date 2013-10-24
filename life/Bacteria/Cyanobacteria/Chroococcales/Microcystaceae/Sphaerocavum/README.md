@@ -1,5 +1,4 @@
-Sphaerocavum M.T. de P.Azevedo & C.L.Sant'Anna, 2003 GENUS
-=======
+# Sphaerocavum M.T. de P.Azevedo & C.L.Sant'Anna, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoparmelia adapta (Kremp.) Hale SPECIES
-=======
+# Pseudoparmelia adapta (Kremp.) Hale SPECIES
 
 #### Status
 ACCEPTED

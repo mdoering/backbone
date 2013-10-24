@@ -1,14 +1,13 @@
-Dioxeia de Folin, 1887 GENUS
-=======
+# Technitella Norman, 1878 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fonds de la Mer, 4, livr. 75, 132.
 
 #### Original name
 null

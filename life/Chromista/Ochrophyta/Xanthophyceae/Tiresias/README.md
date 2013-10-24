@@ -1,5 +1,4 @@
-Tiresias Bory de Saint-Vincent, 1833 GENUS
-=======
+# Tiresias Bory de Saint-Vincent, 1833 GENUS
 
 #### Status
 ACCEPTED

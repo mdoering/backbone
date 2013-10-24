@@ -1,5 +1,4 @@
-Cronartium aleanum Syd. & P. Syd. SPECIES
-=======
+# Cronartium aleanum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

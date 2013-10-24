@@ -1,5 +1,4 @@
-Panus berkeleyi Sacc. & Cub. SPECIES
-=======
+# Panus berkeleyi Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

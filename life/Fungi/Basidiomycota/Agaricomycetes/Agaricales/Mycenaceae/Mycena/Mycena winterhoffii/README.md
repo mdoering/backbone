@@ -1,5 +1,4 @@
-Mycena winterhoffii Maas Geest. SPECIES
-=======
+# Mycena winterhoffii Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

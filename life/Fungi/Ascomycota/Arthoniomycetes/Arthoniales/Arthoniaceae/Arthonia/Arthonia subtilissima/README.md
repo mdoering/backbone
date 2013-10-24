@@ -1,5 +1,4 @@
-Arthonia subtilissima Müll. Arg. SPECIES
-=======
+# Arthonia subtilissima Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

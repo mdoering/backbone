@@ -1,5 +1,4 @@
-Sporichthya M.P. Lechev., H. Lechev. & Holbert GENUS
-=======
+# Sporichthya M.P. Lechev., H. Lechev. & Holbert GENUS
 
 #### Status
 ACCEPTED

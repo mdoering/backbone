@@ -1,5 +1,4 @@
-Vesiculomyces epitheloides Boidin, Lanq. & Gilles, 1983 SPECIES
-=======
+# Vesiculomyces epitheloides Boidin, Lanq. & Gilles, 1983 SPECIES
 
 #### Status
 ACCEPTED

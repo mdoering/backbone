@@ -1,5 +1,4 @@
-Caloplaca macrocarpa (Anzi) Zahlbr. SPECIES
-=======
+# Caloplaca macrocarpa (Anzi) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

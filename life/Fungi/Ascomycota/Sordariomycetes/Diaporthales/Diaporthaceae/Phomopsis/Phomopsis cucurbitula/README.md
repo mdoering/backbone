@@ -1,5 +1,4 @@
-Phomopsis cucurbitula Sacc. SPECIES
-=======
+# Phomopsis cucurbitula Sacc. SPECIES
 
 #### Status
 ACCEPTED

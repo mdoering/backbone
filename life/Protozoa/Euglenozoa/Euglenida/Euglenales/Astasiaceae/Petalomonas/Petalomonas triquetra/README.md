@@ -1,5 +1,4 @@
-Petalomonas triquetra Skvortzov SPECIES
-=======
+# Petalomonas triquetra Skvortzov SPECIES
 
 #### Status
 ACCEPTED

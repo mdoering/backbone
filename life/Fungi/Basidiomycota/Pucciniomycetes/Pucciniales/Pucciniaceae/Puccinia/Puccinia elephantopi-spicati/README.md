@@ -1,17 +1,16 @@
-Puccinia elephantopodis-spicati Pat. SPECIES
-=======
+# Puccinia elephantopi-spicati Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 28(2): 140 (1912)
 
 #### Original name
-Puccinia elephantopodis-spicati Pat.
+Puccinia elephantopi-spicati Pat.
 
 ### Remarks
 null

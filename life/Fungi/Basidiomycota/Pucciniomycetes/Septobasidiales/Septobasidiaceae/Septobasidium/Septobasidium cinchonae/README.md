@@ -1,5 +1,4 @@
-Septobasidium cinchonae Racib. SPECIES
-=======
+# Septobasidium cinchonae Racib. SPECIES
 
 #### Status
 ACCEPTED

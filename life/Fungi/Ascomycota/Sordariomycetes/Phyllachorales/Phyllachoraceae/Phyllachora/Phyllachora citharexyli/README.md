@@ -1,17 +1,16 @@
-Puiggarina citharexyli (Rehm) Speg., 1919 SPECIES
-=======
+# Phyllachora citharexyli (Rehm) Höhn., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Denkschr. Kaiserl. Akad. Wiss. , Math. -Naturwiss. Kl. 83: 28 (1907)
 
 #### Original name
-null
+Physalospora citharexyli Rehm, 1898
 
 ### Remarks
 null

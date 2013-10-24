@@ -1,5 +1,4 @@
-Lophiostoma aquatica (J. Webster) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma aquatica (J. Webster) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

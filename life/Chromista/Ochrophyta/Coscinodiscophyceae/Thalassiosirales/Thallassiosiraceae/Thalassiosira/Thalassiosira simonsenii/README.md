@@ -1,5 +1,4 @@
-Thalassiosira simonsenii Hasle & G.Fryxell SPECIES
-=======
+# Thalassiosira simonsenii Hasle & G.Fryxell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glandulonodosaria ittai Loeblich & Tappan, 1953 SPECIES
-=======
+# Glandulonodosaria ittai Loeblich & Tappan, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizostoma ammophilum E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Schizostoma ammophilum E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

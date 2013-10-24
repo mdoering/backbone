@@ -1,5 +1,4 @@
-Asterina virescens Speg. SPECIES
-=======
+# Asterina virescens Speg. SPECIES
 
 #### Status
 ACCEPTED

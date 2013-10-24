@@ -1,5 +1,4 @@
-Schiffnerula hansfordii S. Hughes SPECIES
-=======
+# Schiffnerula hansfordii S. Hughes SPECIES
 
 #### Status
 ACCEPTED

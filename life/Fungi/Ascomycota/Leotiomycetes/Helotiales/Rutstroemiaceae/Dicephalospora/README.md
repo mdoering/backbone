@@ -1,5 +1,4 @@
-Dicephalospora Spooner GENUS
-=======
+# Dicephalospora Spooner GENUS
 
 #### Status
 ACCEPTED

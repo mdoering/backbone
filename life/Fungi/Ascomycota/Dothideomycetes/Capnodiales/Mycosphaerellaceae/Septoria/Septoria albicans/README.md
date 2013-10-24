@@ -1,5 +1,4 @@
-Septoria albicans Ellis & Everh. SPECIES
-=======
+# Septoria albicans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

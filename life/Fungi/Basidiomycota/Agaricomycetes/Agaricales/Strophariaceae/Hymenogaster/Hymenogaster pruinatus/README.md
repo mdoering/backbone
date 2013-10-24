@@ -1,5 +1,4 @@
-Hymenogaster pruinatus R. Hesse SPECIES
-=======
+# Hymenogaster pruinatus R. Hesse SPECIES
 
 #### Status
 ACCEPTED

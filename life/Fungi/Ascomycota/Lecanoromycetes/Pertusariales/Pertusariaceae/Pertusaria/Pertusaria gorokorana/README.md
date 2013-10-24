@@ -1,5 +1,4 @@
-Pertusaria gorokorana Elix & A.W. Archer SPECIES
-=======
+# Pertusaria gorokorana Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

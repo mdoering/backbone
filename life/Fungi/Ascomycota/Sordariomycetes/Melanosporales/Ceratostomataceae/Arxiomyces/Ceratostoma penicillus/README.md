@@ -1,5 +1,4 @@
-Ceratostoma penicillus (Quél.) Sacc. SPECIES
-=======
+# Ceratostoma penicillus (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

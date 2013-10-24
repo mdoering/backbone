@@ -1,5 +1,4 @@
-Cystosporogenes legeri (J.J. Lipa) R.G. Kleespies, C.R. Vossbrinck, M. Lange & J.A. Jehle SPECIES
-=======
+# Cystosporogenes legeri (J.J. Lipa) R.G. Kleespies, C.R. Vossbrinck, M. Lange & J.A. Jehle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma oleandrae Henn. SPECIES
-=======
+# Entyloma oleandrae Henn. SPECIES
 
 #### Status
 ACCEPTED

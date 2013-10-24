@@ -1,5 +1,4 @@
-Abrothallus maieri Werner SPECIES
-=======
+# Abrothallus maieri Werner SPECIES
 
 #### Status
 ACCEPTED

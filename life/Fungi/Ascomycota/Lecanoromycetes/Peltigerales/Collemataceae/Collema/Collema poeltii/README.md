@@ -1,5 +1,4 @@
-Collema poeltii Degel. SPECIES
-=======
+# Collema poeltii Degel. SPECIES
 
 #### Status
 ACCEPTED

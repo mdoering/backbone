@@ -1,5 +1,4 @@
-Embellisia novae-zelandiae E.G. Simmons & C.F. Hill, 1990 SPECIES
-=======
+# Embellisia novae-zelandiae E.G. Simmons & C.F. Hill, 1990 SPECIES
 
 #### Status
 ACCEPTED

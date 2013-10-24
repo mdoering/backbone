@@ -1,17 +1,16 @@
-Amanita grandispora (G.W. Beaton, Pegler & T.W.K. Young) Justo, 2010 SPECIES
-=======
+# Amarrendia grandispora (G.W. Beaton, Pegler & T.W.K. Young) Bougher & T. Lebel, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 15(4): 518 (2002)
 
 #### Original name
-null
+Alpova grandisporus G.W. Beaton, Pegler & T.W.K. Young, 1985
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Coprinus truncorum var. truncorum VARIETY
-=======
+# Coprinellus truncorum (Scop.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 235 (2001)
 
 #### Original name
-null
+Agaricus truncorum Scop., 1772
 
 ### Remarks
 null

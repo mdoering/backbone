@@ -1,5 +1,4 @@
-Hendersonia ulmi G.H. Otth, 1866 SPECIES
-=======
+# Hendersonia ulmi G.H. Otth, 1866 SPECIES
 
 #### Status
 ACCEPTED

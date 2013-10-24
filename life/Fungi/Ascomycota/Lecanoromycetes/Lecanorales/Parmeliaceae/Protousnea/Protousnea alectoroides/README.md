@@ -1,14 +1,13 @@
-Protousnea alectorioides (Motyka) Krog SPECIES
-=======
+# Protousnea alectoroides (Motyka) Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Norw. Jl Bot. 23: 99 (1976)
 
 #### Original name
 Usnea alectoroides Mont.

@@ -1,5 +1,4 @@
-Polyporus homalopilus Mont. SPECIES
-=======
+# Polyporus homalopilus Mont. SPECIES
 
 #### Status
 ACCEPTED

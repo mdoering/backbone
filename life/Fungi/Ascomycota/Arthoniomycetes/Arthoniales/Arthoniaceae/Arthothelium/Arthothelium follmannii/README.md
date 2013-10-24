@@ -1,5 +1,4 @@
-Arthothelium follmannii C.W. Dodge SPECIES
-=======
+# Arthothelium follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

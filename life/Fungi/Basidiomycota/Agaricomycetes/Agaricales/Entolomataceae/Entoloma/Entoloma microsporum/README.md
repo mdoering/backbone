@@ -1,5 +1,4 @@
-Entoloma microsporum Velen. SPECIES
-=======
+# Entoloma microsporum Velen. SPECIES
 
 #### Status
 ACCEPTED

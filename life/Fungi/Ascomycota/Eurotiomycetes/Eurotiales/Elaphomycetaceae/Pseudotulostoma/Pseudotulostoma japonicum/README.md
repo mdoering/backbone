@@ -1,14 +1,13 @@
-Pseudotulostoma japonica (Kawam. ex Otani) I. Asai, H. Sato & Nara SPECIES
-=======
+# Pseudotulostoma japonicum (Kawam. ex Otani) I. Asai, H. Sato & Nara, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fieldiana, Bot. 30(1): 1 (2004)
 
 #### Original name
 Battarrea japonica Kawam. ex Otani, 1960

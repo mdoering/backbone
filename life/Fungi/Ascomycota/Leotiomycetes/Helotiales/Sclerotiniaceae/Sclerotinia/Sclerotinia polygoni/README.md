@@ -1,5 +1,4 @@
-Sclerotinia polygoni Rehm SPECIES
-=======
+# Sclerotinia polygoni Rehm SPECIES
 
 #### Status
 ACCEPTED

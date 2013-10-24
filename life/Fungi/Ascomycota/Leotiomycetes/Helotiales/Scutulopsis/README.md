@@ -1,5 +1,4 @@
-Scutulopsis Velen. GENUS
-=======
+# Scutulopsis Velen. GENUS
 
 #### Status
 ACCEPTED

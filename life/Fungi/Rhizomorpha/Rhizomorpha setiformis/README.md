@@ -1,5 +1,4 @@
-Rhizomorpha setiformis Roth SPECIES
-=======
+# Rhizomorpha setiformis Roth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma tulipae Heufl. SPECIES
-=======
+# Caeoma tulipae Heufl. SPECIES
 
 #### Status
 ACCEPTED

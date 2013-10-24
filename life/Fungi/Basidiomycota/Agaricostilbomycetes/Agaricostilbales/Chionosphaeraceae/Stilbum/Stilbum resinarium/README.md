@@ -1,5 +1,4 @@
-Stilbum resinarium Peck SPECIES
-=======
+# Stilbum resinarium Peck SPECIES
 
 #### Status
 ACCEPTED

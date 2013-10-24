@@ -1,5 +1,4 @@
-Thermovibrio guaymasensis L'Haridon, Reysenbach, Tindall, Schonheit, Banta, Johnsen, Schumann, Gambacorta, Stackebrandt & Jeanthon, 2006 SPECIES
-=======
+# Thermovibrio guaymasensis L'Haridon, Reysenbach, Tindall, Schonheit, Banta, Johnsen, Schumann, Gambacorta, Stackebrandt & Jeanthon, 2006 SPECIES
 
 #### Status
 ACCEPTED

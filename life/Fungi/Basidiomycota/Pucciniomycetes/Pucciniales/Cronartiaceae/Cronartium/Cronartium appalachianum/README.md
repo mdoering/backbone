@@ -1,5 +1,4 @@
-Cronartium appalachianum Hepting SPECIES
-=======
+# Cronartium appalachianum Hepting SPECIES
 
 #### Status
 ACCEPTED

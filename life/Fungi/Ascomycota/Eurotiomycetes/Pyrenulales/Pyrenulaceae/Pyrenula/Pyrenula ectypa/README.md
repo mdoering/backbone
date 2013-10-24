@@ -1,5 +1,4 @@
-Pyrenula ectypa (Kremp.) Zahlbr. SPECIES
-=======
+# Pyrenula ectypa (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia tapperi Ahti & Krog SPECIES
-=======
+# Cladonia tapperi Ahti & Krog SPECIES
 
 #### Status
 ACCEPTED

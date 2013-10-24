@@ -1,11 +1,10 @@
-Streptococcus pseudogalactiae Plastridge & Hartsell, 1937 SPECIES
-=======
+# Streptococcus dysgalactiae (ex Diernhofer, 1932) Garvie et al., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

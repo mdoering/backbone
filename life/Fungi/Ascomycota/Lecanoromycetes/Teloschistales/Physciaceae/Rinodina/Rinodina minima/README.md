@@ -1,5 +1,4 @@
-Rinodina minima H. Mayrhofer SPECIES
-=======
+# Rinodina minima H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aphanomyces laevis var. laevis de Bary VARIETY
-=======
+# Aphanomyces laevis de Bary, 1860 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Jb. wiss. Bot. 2: 179 (1860)
 
 #### Original name
-Aphanomyces laevis var. laevis de Bary
+Aphanomyces laevis de Bary, 1860
 
 ### Remarks
 null

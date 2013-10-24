@@ -1,5 +1,4 @@
-Notothyrites airensis Cookson SPECIES
-=======
+# Notothyrites airensis Cookson SPECIES
 
 #### Status
 ACCEPTED

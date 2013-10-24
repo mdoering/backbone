@@ -1,14 +1,13 @@
-Physcia balaniana (Fr.) H. Olivier SPECIES
-=======
+# Placolecis balaniana (Fr.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta Period. Lav. Regia Accad. Sci. , Padova (1857)
 
 #### Original name
 Parmelia balaniana Fr.

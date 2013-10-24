@@ -1,5 +1,4 @@
-Leptoglossum fumosum Peck SPECIES
-=======
+# Leptoglossum fumosum Peck SPECIES
 
 #### Status
 ACCEPTED

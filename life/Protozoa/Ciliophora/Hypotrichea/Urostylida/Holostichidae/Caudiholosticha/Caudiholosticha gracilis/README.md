@@ -1,8 +1,7 @@
-Perisincirra gracilis Foissner, 1982 SPECIES
-=======
+# Caudiholosticha gracilis (Foissner, 1982) Berger, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

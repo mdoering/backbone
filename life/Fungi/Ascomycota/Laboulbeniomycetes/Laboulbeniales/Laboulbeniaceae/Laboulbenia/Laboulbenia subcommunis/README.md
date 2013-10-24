@@ -1,5 +1,4 @@
-Laboulbenia subcommunis Speg. SPECIES
-=======
+# Laboulbenia subcommunis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalaria cubana Tuck. SPECIES
-=======
+# Omphalaria cubana Tuck. SPECIES
 
 #### Status
 ACCEPTED

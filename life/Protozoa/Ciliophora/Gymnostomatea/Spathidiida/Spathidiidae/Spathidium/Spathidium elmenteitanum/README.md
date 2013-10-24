@@ -1,5 +1,4 @@
-Spathidium elmenteitanum SPECIES
-=======
+# Spathidium elmenteitanum SPECIES
 
 #### Status
 ACCEPTED

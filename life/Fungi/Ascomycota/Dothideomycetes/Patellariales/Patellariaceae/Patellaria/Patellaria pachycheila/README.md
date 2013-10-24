@@ -1,5 +1,4 @@
-Patellaria pachycheila (Tuck.) Müll. Arg. SPECIES
-=======
+# Patellaria pachycheila (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

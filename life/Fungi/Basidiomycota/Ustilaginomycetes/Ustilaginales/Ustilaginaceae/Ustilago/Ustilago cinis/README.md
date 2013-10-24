@@ -1,5 +1,4 @@
-Ustilago cinis Körn. SPECIES
-=======
+# Ustilago cinis Körn. SPECIES
 
 #### Status
 ACCEPTED

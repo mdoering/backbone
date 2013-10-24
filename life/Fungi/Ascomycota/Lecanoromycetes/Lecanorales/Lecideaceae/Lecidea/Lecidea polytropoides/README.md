@@ -1,5 +1,4 @@
-Lecidea polytropoides Zahlbr. SPECIES
-=======
+# Lecidea polytropoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

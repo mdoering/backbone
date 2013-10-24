@@ -1,5 +1,4 @@
-Thelocarpon luteovirens Kremp. SPECIES
-=======
+# Thelocarpon luteovirens Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Chiphragmalithus quadratus Bramlette & Sullivan, 1961 SPECIES
-=======
+# Nannotetrina quadrata (Bramlette & Sullivan, 1961) Bukry, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

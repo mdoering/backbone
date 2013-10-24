@@ -1,5 +1,4 @@
-Rinodina lepida (Nyl.) Müll. Arg. SPECIES
-=======
+# Rinodina lepida (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

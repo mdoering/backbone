@@ -1,5 +1,4 @@
-Exomyces P. Karst. GENUS
-=======
+# Exomyces P. Karst. GENUS
 
 #### Status
 ACCEPTED

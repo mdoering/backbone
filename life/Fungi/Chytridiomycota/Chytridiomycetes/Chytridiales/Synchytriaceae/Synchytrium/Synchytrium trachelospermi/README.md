@@ -1,5 +1,4 @@
-Synchytrium trachelospermi M.T. Cook SPECIES
-=======
+# Synchytrium trachelospermi M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

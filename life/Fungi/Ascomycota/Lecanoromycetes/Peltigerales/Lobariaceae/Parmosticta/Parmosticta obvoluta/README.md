@@ -1,5 +1,4 @@
-Parmosticta obvoluta (Ach.) Nyl. SPECIES
-=======
+# Parmosticta obvoluta (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

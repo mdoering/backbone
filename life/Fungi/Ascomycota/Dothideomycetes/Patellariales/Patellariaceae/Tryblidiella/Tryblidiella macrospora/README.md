@@ -1,5 +1,4 @@
-Tryblidiella macrospora Bonar & E.K. Cash SPECIES
-=======
+# Tryblidiella macrospora Bonar & E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

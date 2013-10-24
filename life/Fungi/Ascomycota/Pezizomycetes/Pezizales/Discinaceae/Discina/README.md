@@ -1,5 +1,4 @@
-Discina (E.M. Fries) E.M. Fries, 1849 GENUS
-=======
+# Discina (E.M. Fries) E.M. Fries, 1849 GENUS
 
 #### Status
 ACCEPTED

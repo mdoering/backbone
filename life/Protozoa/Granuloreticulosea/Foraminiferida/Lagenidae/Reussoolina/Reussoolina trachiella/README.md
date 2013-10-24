@@ -1,5 +1,4 @@
-Reussoolina trachiella Loeblich & Tappan, 1994 SPECIES
-=======
+# Reussoolina trachiella Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

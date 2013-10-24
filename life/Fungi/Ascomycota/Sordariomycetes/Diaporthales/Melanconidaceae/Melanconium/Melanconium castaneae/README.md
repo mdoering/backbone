@@ -1,17 +1,16 @@
-Melanconium castaneae var. castaneae VARIETY
-=======
+# Melanconium castaneae Salvi, 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 22: 1209 (1913)
 
 #### Original name
-Melanconium castaneae var. castaneae
+Melanconium castaneae Salvi, 1913
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helminthosporium euphorbiacearum Pat. SPECIES
-=======
+# Helminthosporium euphorbiacearum Pat. SPECIES
 
 #### Status
 ACCEPTED

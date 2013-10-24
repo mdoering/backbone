@@ -1,17 +1,16 @@
-Didymosphaeria sogaria Narendra & V.G. Rao SPECIES
-=======
+# Didymosphaeria sagarii Narendra & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 28(1-6): 355 1975 (1976)
 
 #### Original name
-Didymosphaeria sogaria Narendra & V.G. Rao
+Didymosphaeria sagarii Narendra & V.G. Rao
 
 ### Remarks
 null

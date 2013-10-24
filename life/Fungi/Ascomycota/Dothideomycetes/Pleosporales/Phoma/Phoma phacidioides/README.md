@@ -1,5 +1,4 @@
-Phoma phacidioides Sacc. SPECIES
-=======
+# Phoma phacidioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

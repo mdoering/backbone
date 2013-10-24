@@ -1,5 +1,4 @@
-Spadicoides americana C.J.K. Wang SPECIES
-=======
+# Spadicoides americana C.J.K. Wang SPECIES
 
 #### Status
 ACCEPTED

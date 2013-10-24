@@ -1,5 +1,4 @@
-Puccinia brigantiaca R. Heim SPECIES
-=======
+# Puccinia brigantiaca R. Heim SPECIES
 
 #### Status
 ACCEPTED

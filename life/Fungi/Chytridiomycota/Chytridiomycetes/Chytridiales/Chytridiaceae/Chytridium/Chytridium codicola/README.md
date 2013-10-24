@@ -1,5 +1,4 @@
-Chytridium codicola Zeller SPECIES
-=======
+# Chytridium codicola Zeller SPECIES
 
 #### Status
 ACCEPTED

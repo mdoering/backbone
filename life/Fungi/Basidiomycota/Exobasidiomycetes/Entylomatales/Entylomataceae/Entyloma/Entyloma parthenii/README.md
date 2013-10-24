@@ -1,5 +1,4 @@
-Entyloma parthenii Syd. SPECIES
-=======
+# Entyloma parthenii Syd. SPECIES
 
 #### Status
 ACCEPTED

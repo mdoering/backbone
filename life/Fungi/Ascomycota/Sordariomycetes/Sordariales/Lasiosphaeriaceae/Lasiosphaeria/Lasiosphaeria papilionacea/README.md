@@ -1,5 +1,4 @@
-Lasiosphaeria papilionacea (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lasiosphaeria papilionacea (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

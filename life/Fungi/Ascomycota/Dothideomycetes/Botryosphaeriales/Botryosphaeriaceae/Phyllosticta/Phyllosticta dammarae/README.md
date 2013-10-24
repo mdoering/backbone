@@ -1,5 +1,4 @@
-Phyllosticta dammarae Pollacci SPECIES
-=======
+# Phyllosticta dammarae Pollacci SPECIES
 
 #### Status
 ACCEPTED

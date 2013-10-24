@@ -1,5 +1,4 @@
-Calonectria volutella (Berk. & Broome) Sacc. SPECIES
-=======
+# Calonectria volutella (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

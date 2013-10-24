@@ -1,5 +1,4 @@
-Ramularia scrophulariae Fautrey & Roum., 1891 SPECIES
-=======
+# Ramularia scrophulariae Fautrey & Roum., 1891 SPECIES
 
 #### Status
 ACCEPTED

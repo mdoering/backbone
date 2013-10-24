@@ -1,5 +1,4 @@
-Naucoria typhicola Henn. SPECIES
-=======
+# Naucoria typhicola Henn. SPECIES
 
 #### Status
 ACCEPTED

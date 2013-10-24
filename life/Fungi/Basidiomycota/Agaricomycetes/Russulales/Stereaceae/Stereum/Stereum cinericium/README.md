@@ -1,5 +1,4 @@
-Stereum cinericium Lloyd SPECIES
-=======
+# Stereum cinericium Lloyd SPECIES
 
 #### Status
 ACCEPTED

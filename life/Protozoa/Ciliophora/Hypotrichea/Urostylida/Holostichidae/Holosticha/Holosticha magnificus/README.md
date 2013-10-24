@@ -1,5 +1,4 @@
-Holosticha magnificus Kahl, 1932 SPECIES
-=======
+# Holosticha magnificus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

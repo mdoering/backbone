@@ -1,5 +1,4 @@
-Septoria arnicae Fuckel SPECIES
-=======
+# Septoria arnicae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus galeiformis (Berk. & Broome) Kuntze SPECIES
-=======
+# Dendrosarcus galeiformis (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endogonopsis sacramentarium R. Heim, 1966 SPECIES
-=======
+# Endogonopsis sacramentarium R. Heim, 1966 SPECIES
 
 #### Status
 ACCEPTED

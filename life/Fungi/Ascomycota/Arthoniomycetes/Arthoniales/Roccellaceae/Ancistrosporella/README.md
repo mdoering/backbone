@@ -1,5 +1,4 @@
-Ancistrosporella G. Thor GENUS
-=======
+# Ancistrosporella G. Thor GENUS
 
 #### Status
 ACCEPTED

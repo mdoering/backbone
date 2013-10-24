@@ -1,5 +1,4 @@
-Cephalotrichum antarcticum (Speg.) Kuntze SPECIES
-=======
+# Cephalotrichum antarcticum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia ventricosa Müll. Arg. SPECIES
-=======
+# Buellia ventricosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

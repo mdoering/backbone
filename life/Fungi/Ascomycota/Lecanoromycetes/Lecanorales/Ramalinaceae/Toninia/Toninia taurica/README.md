@@ -1,5 +1,4 @@
-Toninia taurica (Szatala) Oksner SPECIES
-=======
+# Toninia taurica (Szatala) Oksner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum sublutescens A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum sublutescens A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

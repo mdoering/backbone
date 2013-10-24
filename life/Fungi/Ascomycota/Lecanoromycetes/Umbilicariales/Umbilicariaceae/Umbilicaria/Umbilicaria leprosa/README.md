@@ -1,5 +1,4 @@
-Umbilicaria leprosa (Zahlbr.) Frey SPECIES
-=======
+# Umbilicaria leprosa (Zahlbr.) Frey SPECIES
 
 #### Status
 ACCEPTED

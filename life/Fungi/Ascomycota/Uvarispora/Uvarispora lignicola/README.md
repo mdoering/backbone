@@ -1,5 +1,4 @@
-Uvarispora lignicola Goos & Piroz., 1975 SPECIES
-=======
+# Uvarispora lignicola Goos & Piroz., 1975 SPECIES
 
 #### Status
 ACCEPTED

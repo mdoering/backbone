@@ -1,5 +1,4 @@
-Normandia J.D. Hooker, 1872 GENUS
-=======
+# Normandia J.D. Hooker, 1872 GENUS
 
 #### Status
 ACCEPTED

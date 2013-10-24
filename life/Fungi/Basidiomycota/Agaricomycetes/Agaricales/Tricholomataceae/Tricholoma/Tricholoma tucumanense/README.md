@@ -1,5 +1,4 @@
-Tricholoma tucumanense Speg. SPECIES
-=======
+# Tricholoma tucumanense Speg. SPECIES
 
 #### Status
 ACCEPTED

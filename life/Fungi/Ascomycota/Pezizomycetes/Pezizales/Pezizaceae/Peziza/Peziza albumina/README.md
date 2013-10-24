@@ -1,5 +1,4 @@
-Peziza albumina Cooke & Peck SPECIES
-=======
+# Peziza albumina Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

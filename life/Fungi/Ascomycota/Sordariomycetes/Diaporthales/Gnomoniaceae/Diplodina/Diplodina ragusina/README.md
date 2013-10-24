@@ -1,5 +1,4 @@
-Diplodina ragusina Jaap SPECIES
-=======
+# Diplodina ragusina Jaap SPECIES
 
 #### Status
 ACCEPTED

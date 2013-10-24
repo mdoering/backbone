@@ -1,5 +1,4 @@
-Blastenia incrustans DC. SPECIES
-=======
+# Blastenia incrustans DC. SPECIES
 
 #### Status
 ACCEPTED

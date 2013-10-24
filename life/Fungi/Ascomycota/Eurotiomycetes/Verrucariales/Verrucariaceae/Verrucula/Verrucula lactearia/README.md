@@ -1,5 +1,4 @@
-Verrucula lactearia Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula lactearia Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

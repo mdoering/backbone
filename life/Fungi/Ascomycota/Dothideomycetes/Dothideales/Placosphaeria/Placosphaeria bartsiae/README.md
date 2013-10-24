@@ -1,5 +1,4 @@
-Placosphaeria bartsiae C. Massal. SPECIES
-=======
+# Placosphaeria bartsiae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

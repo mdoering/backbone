@@ -1,5 +1,4 @@
-Phaeographina torquescens (Nyl.) Redinger SPECIES
-=======
+# Phaeographina torquescens (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

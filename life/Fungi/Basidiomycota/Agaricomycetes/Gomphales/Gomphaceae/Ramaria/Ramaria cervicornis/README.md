@@ -1,5 +1,4 @@
-Ramaria cervicornis (A.L. Sm.) Corner SPECIES
-=======
+# Ramaria cervicornis (A.L. Sm.) Corner SPECIES
 
 #### Status
 ACCEPTED

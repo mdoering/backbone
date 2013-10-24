@@ -1,5 +1,4 @@
-Cirrenalia palmicola Matsush. SPECIES
-=======
+# Cirrenalia palmicola Matsush. SPECIES
 
 #### Status
 ACCEPTED

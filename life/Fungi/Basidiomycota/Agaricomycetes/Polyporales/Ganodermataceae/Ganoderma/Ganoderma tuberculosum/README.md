@@ -1,5 +1,4 @@
-Ganoderma tuberculosum Murrill SPECIES
-=======
+# Ganoderma tuberculosum Murrill SPECIES
 
 #### Status
 ACCEPTED

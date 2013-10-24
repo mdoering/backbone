@@ -1,5 +1,4 @@
-Fusarium pseudacaciae Rapaics SPECIES
-=======
+# Fusarium pseudacaciae Rapaics SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysosphaerella longispina Lauterborn SPECIES
-=======
+# Chrysosphaerella longispina Lauterborn SPECIES
 
 #### Status
 ACCEPTED

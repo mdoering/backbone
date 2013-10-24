@@ -1,5 +1,4 @@
-Baltisphaeridium stellatum Habib, 1970 SPECIES
-=======
+# Baltisphaeridium stellatum Habib, 1970 SPECIES
 
 #### Status
 ACCEPTED

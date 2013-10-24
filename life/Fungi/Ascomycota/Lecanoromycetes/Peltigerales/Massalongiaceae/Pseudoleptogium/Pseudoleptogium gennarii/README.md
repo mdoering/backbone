@@ -1,5 +1,4 @@
-Pseudoleptogium gennarii (Bagl.) Jatta SPECIES
-=======
+# Pseudoleptogium gennarii (Bagl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora brideliae Deighton SPECIES
-=======
+# Pseudocercospora brideliae Deighton SPECIES
 
 #### Status
 ACCEPTED

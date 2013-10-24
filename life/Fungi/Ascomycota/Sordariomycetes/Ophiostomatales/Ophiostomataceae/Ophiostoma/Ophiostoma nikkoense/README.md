@@ -1,5 +1,4 @@
-Ophiostoma nikkoense Yamaoka & Masuya SPECIES
-=======
+# Ophiostoma nikkoense Yamaoka & Masuya SPECIES
 
 #### Status
 ACCEPTED

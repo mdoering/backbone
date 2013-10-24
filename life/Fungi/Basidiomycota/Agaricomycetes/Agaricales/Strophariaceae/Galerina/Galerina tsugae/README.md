@@ -1,5 +1,4 @@
-Galerina tsugae A.H. Sm. & Singer SPECIES
-=======
+# Galerina tsugae A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

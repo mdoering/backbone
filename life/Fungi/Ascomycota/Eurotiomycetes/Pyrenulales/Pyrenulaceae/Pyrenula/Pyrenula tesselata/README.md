@@ -1,5 +1,4 @@
-Pyrenula tesselata (Turner) Ach. SPECIES
-=======
+# Pyrenula tesselata (Turner) Ach. SPECIES
 
 #### Status
 ACCEPTED

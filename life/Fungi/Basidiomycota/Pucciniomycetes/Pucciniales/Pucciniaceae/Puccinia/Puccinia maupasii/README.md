@@ -1,5 +1,4 @@
-Puccinia maupasii Maire SPECIES
-=======
+# Puccinia maupasii Maire SPECIES
 
 #### Status
 ACCEPTED

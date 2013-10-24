@@ -1,5 +1,4 @@
-Lachnella acanthonitschkeae (E.K. Cash & R.W. Davidson) Seaver SPECIES
-=======
+# Lachnella acanthonitschkeae (E.K. Cash & R.W. Davidson) Seaver SPECIES
 
 #### Status
 ACCEPTED

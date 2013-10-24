@@ -1,5 +1,4 @@
-Endopyrenium peltatum (Taylor) Müll. Arg. SPECIES
-=======
+# Endopyrenium peltatum (Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

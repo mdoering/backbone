@@ -1,5 +1,4 @@
-Collybia griseofusca Dufour & H. Poiss. SPECIES
-=======
+# Collybia griseofusca Dufour & H. Poiss. SPECIES
 
 #### Status
 ACCEPTED

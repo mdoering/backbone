@@ -1,5 +1,4 @@
-Mycosphaerella mori-albae Sawada SPECIES
-=======
+# Mycosphaerella mori-albae Sawada SPECIES
 
 #### Status
 ACCEPTED

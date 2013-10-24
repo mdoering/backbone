@@ -1,5 +1,4 @@
-Marasmius armeniacus Gilliam SPECIES
-=======
+# Marasmius armeniacus Gilliam SPECIES
 
 #### Status
 ACCEPTED

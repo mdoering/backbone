@@ -1,17 +1,16 @@
-Smittium ouslei M.C. Williams & Lichtw. SPECIES
-=======
+# Smittium ouselii M.C. Williams & Lichtw., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 76(2): 208 (1984)
 
 #### Original name
-Smittium ouslei M.C. Williams & Lichtw.
+Smittium ouselii M.C. Williams & Lichtw., 1984
 
 ### Remarks
 null

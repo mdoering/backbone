@@ -1,5 +1,4 @@
-Trachelomonas spirillifera Schkorbatov SPECIES
-=======
+# Trachelomonas spirillifera Schkorbatov SPECIES
 
 #### Status
 ACCEPTED

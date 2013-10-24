@@ -1,5 +1,4 @@
-Hirneola tenuis Lév. SPECIES
-=======
+# Hirneola tenuis Lév. SPECIES
 
 #### Status
 ACCEPTED

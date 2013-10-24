@@ -1,5 +1,4 @@
-Stictina ciliaris (Mont. & Bosch) Nyl. SPECIES
-=======
+# Stictina ciliaris (Mont. & Bosch) Nyl. SPECIES
 
 #### Status
 ACCEPTED

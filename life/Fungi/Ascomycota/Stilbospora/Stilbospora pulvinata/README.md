@@ -1,5 +1,4 @@
-Stilbospora pulvinata Schwein. SPECIES
-=======
+# Stilbospora pulvinata Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo amitostigmatis Hirats. f. & Hashioka SPECIES
-=======
+# Uredo amitostigmatis Hirats. f. & Hashioka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius albidus Peck SPECIES
-=======
+# Lactarius albidus Peck SPECIES
 
 #### Status
 ACCEPTED

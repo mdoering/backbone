@@ -1,5 +1,4 @@
-Agaricus amicus Fr. SPECIES
-=======
+# Agaricus amicus Fr. SPECIES
 
 #### Status
 ACCEPTED

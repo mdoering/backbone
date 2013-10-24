@@ -1,5 +1,4 @@
-Trichormus cycadearum (Reinke ex Tilden) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus cycadearum (Reinke ex Tilden) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

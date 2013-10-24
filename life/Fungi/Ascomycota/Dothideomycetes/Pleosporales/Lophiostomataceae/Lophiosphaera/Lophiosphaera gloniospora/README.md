@@ -1,5 +1,4 @@
-Lophiosphaera gloniospora Ellis & Everh. SPECIES
-=======
+# Lophiosphaera gloniospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

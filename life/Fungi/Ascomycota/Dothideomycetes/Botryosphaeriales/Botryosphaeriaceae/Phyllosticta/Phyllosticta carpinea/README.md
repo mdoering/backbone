@@ -1,5 +1,4 @@
-Phyllosticta carpinea Sacc. SPECIES
-=======
+# Phyllosticta carpinea Sacc. SPECIES
 
 #### Status
 ACCEPTED

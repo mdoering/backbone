@@ -1,5 +1,4 @@
-Verrucaria abdita Servít SPECIES
-=======
+# Verrucaria abdita Servít SPECIES
 
 #### Status
 ACCEPTED

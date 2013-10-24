@@ -1,11 +1,10 @@
-Diplopsaliaceae Matsuoka, 1988 FAMILY
-=======
+# Protoperidiniaceae J.P. Bujak & E.H. Davies FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

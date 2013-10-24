@@ -1,5 +1,4 @@
-Nectria granuligera Starbäck SPECIES
-=======
+# Nectria granuligera Starbäck SPECIES
 
 #### Status
 ACCEPTED

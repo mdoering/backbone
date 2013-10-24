@@ -1,5 +1,4 @@
-Graphina rhabdocarpa Müll. Arg. SPECIES
-=======
+# Graphina rhabdocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

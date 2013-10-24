@@ -1,5 +1,4 @@
-Phacus brachykentron Pochmann SPECIES
-=======
+# Phacus brachykentron Pochmann SPECIES
 
 #### Status
 ACCEPTED

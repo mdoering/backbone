@@ -1,5 +1,4 @@
-Sporidesmina GENUS
-=======
+# Sporidesmina GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Boletus edulis f. betulicola (Vassilkov) Vassilkov, 1966 FORM
-=======
+# Boletus betulicola (Vassilkov) Pilát & Dermek, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bekyi Grib 13 (1966)
+Hriboviti Huby [Boletaceous Fungi] (Bratislava) 96 (1974)
 
 #### Original name
 Boletus edulis f. betulicola (Vassilkov) Vassilkov, 1966

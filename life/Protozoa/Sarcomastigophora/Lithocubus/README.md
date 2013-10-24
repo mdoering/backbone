@@ -1,5 +1,4 @@
-Lithocubus Haeckel, 1881 GENUS
-=======
+# Lithocubus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

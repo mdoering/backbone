@@ -1,5 +1,4 @@
-Clavariadelphaceae FAMILY
-=======
+# Clavariadelphaceae FAMILY
 
 #### Status
 ACCEPTED

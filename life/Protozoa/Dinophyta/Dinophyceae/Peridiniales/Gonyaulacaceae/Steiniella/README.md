@@ -1,5 +1,4 @@
-Steiniella GENUS
-=======
+# Steiniella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colwellia psychrerythraea D'Aoust & Kushner, 1972 SPECIES
-=======
+# Colwellia psychrerythraea D'Aoust & Kushner, 1972 SPECIES
 
 #### Status
 ACCEPTED

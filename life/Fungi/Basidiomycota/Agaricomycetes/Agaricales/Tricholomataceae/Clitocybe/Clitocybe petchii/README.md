@@ -1,5 +1,4 @@
-Clitocybe petchii Pegler SPECIES
-=======
+# Clitocybe petchii Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triceratium duplicatum A. Schmidt SPECIES
-=======
+# Triceratium duplicatum A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

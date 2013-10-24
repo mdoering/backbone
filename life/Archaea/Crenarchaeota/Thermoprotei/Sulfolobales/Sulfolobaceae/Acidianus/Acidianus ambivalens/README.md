@@ -1,8 +1,7 @@
-Desulfurolobus ambivalens Zillig & Böck, 1987 SPECIES
-=======
+# Acidianus ambivalens (Zillig & Böck, 1987) Fuchs et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Malupa wagateae Y. Ono, Buriticá & J.F. Hennen SPECIES
-=======
+# Malupa wagateae Y. Ono, Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

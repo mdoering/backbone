@@ -1,5 +1,4 @@
-Anteholosticha arenicola Kahl, 1932 SPECIES
-=======
+# Anteholosticha arenicola Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe treneri Bres. SPECIES
-=======
+# Inocybe treneri Bres. SPECIES
 
 #### Status
 ACCEPTED

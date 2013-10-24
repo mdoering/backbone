@@ -1,5 +1,4 @@
-Crystallocystidium enteroflavum Rick SPECIES
-=======
+# Crystallocystidium enteroflavum Rick SPECIES
 
 #### Status
 ACCEPTED

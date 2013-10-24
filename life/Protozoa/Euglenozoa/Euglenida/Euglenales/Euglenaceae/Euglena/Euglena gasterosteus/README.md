@@ -1,5 +1,4 @@
-Euglena gasterosteus Skuja SPECIES
-=======
+# Euglena gasterosteus Skuja SPECIES
 
 #### Status
 ACCEPTED

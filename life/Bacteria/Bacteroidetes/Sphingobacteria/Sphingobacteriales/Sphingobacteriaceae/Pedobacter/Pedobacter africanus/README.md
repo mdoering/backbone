@@ -1,5 +1,4 @@
-Pedobacter africanus Steyn et al., 1998 SPECIES
-=======
+# Pedobacter africanus Steyn et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

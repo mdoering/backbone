@@ -1,17 +1,16 @@
-Lepiota molybdites var. molybdites VARIETY
-=======
+# Chlorophyllum molybdites (G. Mey.) Massee, 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 30 (1887)
+Bull. Misc. Inf. , Kew 136 (1898)
 
 #### Original name
-Lepiota molybdites var. molybdites
+Agaricus molybdites G. Mey., 1818
 
 ### Remarks
 null

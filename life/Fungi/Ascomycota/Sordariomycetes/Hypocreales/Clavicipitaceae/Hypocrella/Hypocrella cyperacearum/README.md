@@ -1,5 +1,4 @@
-Hypocrella cyperacearum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Hypocrella cyperacearum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

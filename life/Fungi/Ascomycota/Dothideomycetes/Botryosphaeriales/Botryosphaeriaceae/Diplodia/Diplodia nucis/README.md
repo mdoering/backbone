@@ -1,5 +1,4 @@
-Diplodia nucis Brunaud SPECIES
-=======
+# Diplodia nucis Brunaud SPECIES
 
 #### Status
 ACCEPTED

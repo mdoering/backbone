@@ -1,17 +1,16 @@
-Sphaeromphale henschelianum Körb. SPECIES
-=======
+# Polyblastia cruenta (Körb.) P. James & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 5: 110 (1971)
 
 #### Original name
-null
+Segestrella cruenta Körb.
 
 ### Remarks
 null

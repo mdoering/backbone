@@ -1,5 +1,4 @@
-Trichosporum staritzii Bres. SPECIES
-=======
+# Trichosporum staritzii Bres. SPECIES
 
 #### Status
 ACCEPTED

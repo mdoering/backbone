@@ -1,5 +1,4 @@
-Graphis stromatoides H. Magn. SPECIES
-=======
+# Graphis stromatoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

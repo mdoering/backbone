@@ -1,5 +1,4 @@
-Granulibacter Greenberg et al., 2006 GENUS
-=======
+# Granulibacter Greenberg et al., 2006 GENUS
 
 #### Status
 ACCEPTED

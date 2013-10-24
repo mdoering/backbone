@@ -1,5 +1,4 @@
-Sphaerella symphoricarpi Pass. SPECIES
-=======
+# Sphaerella symphoricarpi Pass. SPECIES
 
 #### Status
 ACCEPTED

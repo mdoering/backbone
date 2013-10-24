@@ -1,17 +1,16 @@
-Lepiotella irrorata f. irrorata FORM
-=======
+# Chamaemyces fracidus (Fr.) Donk, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 34(4/5): 338 (1936)
+Nova Hedwigia, Beih. 5: 48 (1962)
 
 #### Original name
-Lepiotella irrorata f. irrorata
+Agaricus fracidus Fr., 1838
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hydrocybe praepallens Peck SPECIES
-=======
+# Hydrocybe praepallens Peck SPECIES
 
 #### Status
 ACCEPTED

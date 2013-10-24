@@ -1,5 +1,4 @@
-Dothidella juniperi (Desm.) Höhn. SPECIES
-=======
+# Dothidella juniperi (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guepinia buccina Sacc. SPECIES
-=======
+# Guepinia buccina Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piriurella Cookson & Eisenack GENUS
-=======
+# Piriurella Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

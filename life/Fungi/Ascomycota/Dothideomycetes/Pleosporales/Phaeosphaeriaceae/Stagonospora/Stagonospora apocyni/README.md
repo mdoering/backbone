@@ -1,14 +1,13 @@
-Septogloeum apocyni Peck, 1883 SPECIES
-=======
+# Stagonospora apocyni (Peck) Davis, 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 34: 45 (1883)
+Trans. Wis. Acad. Sci. Arts Lett. 19: 699 (1919)
 
 #### Original name
 Septogloeum apocyni Peck, 1883

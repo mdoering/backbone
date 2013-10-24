@@ -1,5 +1,4 @@
-Hypochnus fuscatus (P. Karst.) Sacc. SPECIES
-=======
+# Hypochnus fuscatus (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

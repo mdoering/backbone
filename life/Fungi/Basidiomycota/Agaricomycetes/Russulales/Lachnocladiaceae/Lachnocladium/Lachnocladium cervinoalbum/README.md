@@ -1,5 +1,4 @@
-Lachnocladium cervinoalbum Henn. SPECIES
-=======
+# Lachnocladium cervinoalbum Henn. SPECIES
 
 #### Status
 ACCEPTED

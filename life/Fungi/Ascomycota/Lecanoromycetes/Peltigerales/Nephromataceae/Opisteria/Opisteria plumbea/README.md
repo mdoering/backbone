@@ -1,5 +1,4 @@
-Opisteria plumbea (Mont.) Vain. SPECIES
-=======
+# Opisteria plumbea (Mont.) Vain. SPECIES
 
 #### Status
 ACCEPTED

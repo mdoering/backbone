@@ -1,5 +1,4 @@
-Rhabdostyla parva SPECIES
-=======
+# Rhabdostyla parva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora afflata G. Winter SPECIES
-=======
+# Cercospora afflata G. Winter SPECIES
 
 #### Status
 ACCEPTED

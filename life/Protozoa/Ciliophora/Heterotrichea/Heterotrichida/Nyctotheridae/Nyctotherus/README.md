@@ -1,5 +1,4 @@
-Nyctotherus Leidy, 1849 GENUS
-=======
+# Nyctotherus Leidy, 1849 GENUS
 
 #### Status
 ACCEPTED

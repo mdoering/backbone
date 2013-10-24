@@ -1,5 +1,4 @@
-Cyanopyrenia H. Harada GENUS
-=======
+# Cyanopyrenia H. Harada GENUS
 
 #### Status
 ACCEPTED

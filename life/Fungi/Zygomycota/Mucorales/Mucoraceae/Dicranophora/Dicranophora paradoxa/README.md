@@ -1,5 +1,4 @@
-Dicranophora paradoxa (Berk. & M.A. Curtis) Naumov SPECIES
-=======
+# Dicranophora paradoxa (Berk. & M.A. Curtis) Naumov SPECIES
 
 #### Status
 ACCEPTED

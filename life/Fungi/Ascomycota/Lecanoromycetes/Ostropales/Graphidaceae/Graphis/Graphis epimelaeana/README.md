@@ -1,5 +1,4 @@
-Graphis epimelaeana Müll. Arg. SPECIES
-=======
+# Graphis epimelaeana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

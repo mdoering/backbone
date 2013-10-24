@@ -1,5 +1,4 @@
-Mycosphaerella pseudomarksii Cheew., K.D. Hyde & Crous, 2008 SPECIES
-=======
+# Mycosphaerella pseudomarksii Cheew., K.D. Hyde & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

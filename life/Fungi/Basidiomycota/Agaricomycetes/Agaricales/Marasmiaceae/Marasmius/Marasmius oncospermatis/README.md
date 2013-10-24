@@ -1,5 +1,4 @@
-Marasmius oncospermatis Corner SPECIES
-=======
+# Marasmius oncospermatis Corner SPECIES
 
 #### Status
 ACCEPTED

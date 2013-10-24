@@ -1,5 +1,4 @@
-Bordetella holmesii Weyant et al., 1995 SPECIES
-=======
+# Bordetella holmesii Weyant et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

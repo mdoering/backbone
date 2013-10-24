@@ -1,5 +1,4 @@
-Pleospora trevoicola Speg. SPECIES
-=======
+# Pleospora trevoicola Speg. SPECIES
 
 #### Status
 ACCEPTED

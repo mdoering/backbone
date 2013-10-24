@@ -1,5 +1,4 @@
-Lecidea meiocarpa var. meiocarpa Nyl. VARIETY
-=======
+# Lecidea meiocarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 59: 577 (1876)
 
 #### Original name
-Lecidea meiocarpa var. meiocarpa Nyl.
+Lecidea meiocarpa Nyl.
 
 ### Remarks
 null

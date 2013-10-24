@@ -1,5 +1,4 @@
-Pertusaria samuelsonii R. Sant. SPECIES
-=======
+# Pertusaria samuelsonii R. Sant. SPECIES
 
 #### Status
 ACCEPTED

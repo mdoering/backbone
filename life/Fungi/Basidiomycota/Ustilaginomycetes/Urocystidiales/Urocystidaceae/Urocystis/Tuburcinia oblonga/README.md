@@ -1,5 +1,4 @@
-Tuburcinia oblonga Massenot SPECIES
-=======
+# Tuburcinia oblonga Massenot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium spinulosum (Sparrow) Karling SPECIES
-=======
+# Rhizophydium spinulosum (Sparrow) Karling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma peckiana (Thüm.) Sacc. SPECIES
-=======
+# Phoma peckiana (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

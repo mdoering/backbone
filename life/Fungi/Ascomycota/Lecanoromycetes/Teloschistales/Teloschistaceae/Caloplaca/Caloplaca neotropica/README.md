@@ -1,5 +1,4 @@
-Caloplaca neotropica Wetmore SPECIES
-=======
+# Caloplaca neotropica Wetmore SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella embeliae A.N. Rai & Kamal SPECIES
-=======
+# Stenella embeliae A.N. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

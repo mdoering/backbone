@@ -1,5 +1,4 @@
-Septoria punicei Peck SPECIES
-=======
+# Septoria punicei Peck SPECIES
 
 #### Status
 ACCEPTED

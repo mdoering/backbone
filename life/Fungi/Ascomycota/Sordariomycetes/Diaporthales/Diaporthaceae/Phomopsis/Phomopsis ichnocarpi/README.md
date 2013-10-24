@@ -1,5 +1,4 @@
-Phomopsis ichnocarpi Yesodh. & J.K. Sharma SPECIES
-=======
+# Phomopsis ichnocarpi Yesodh. & J.K. Sharma SPECIES
 
 #### Status
 ACCEPTED

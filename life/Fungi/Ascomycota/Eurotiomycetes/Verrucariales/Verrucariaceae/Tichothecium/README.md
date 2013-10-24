@@ -1,5 +1,4 @@
-Tichothecium GENUS
-=======
+# Tichothecium GENUS
 
 #### Status
 ACCEPTED

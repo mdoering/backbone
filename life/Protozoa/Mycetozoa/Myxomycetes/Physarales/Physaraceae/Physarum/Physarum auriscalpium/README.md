@@ -1,14 +1,13 @@
-Physarum rubiginosum var. auriscalpium (Cooke) Sacc. VARIETY
-=======
+# Physarum auriscalpium Cooke, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 18: 210 (1906)
+Ann. Lyceum Nat. Hist. N. Y. 11: 384 (1877)
 
 #### Original name
 Physarum auriscalpium Cooke, 1877

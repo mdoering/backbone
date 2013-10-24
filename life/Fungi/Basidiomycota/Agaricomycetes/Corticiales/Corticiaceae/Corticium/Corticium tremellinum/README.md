@@ -1,5 +1,4 @@
-Corticium tremellinum Berk. SPECIES
-=======
+# Corticium tremellinum Berk. SPECIES
 
 #### Status
 ACCEPTED

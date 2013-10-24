@@ -1,5 +1,4 @@
-Haplaria nivea Lév. SPECIES
-=======
+# Haplaria nivea Lév. SPECIES
 
 #### Status
 ACCEPTED

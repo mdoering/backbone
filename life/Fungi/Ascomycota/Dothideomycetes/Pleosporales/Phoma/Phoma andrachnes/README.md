@@ -1,5 +1,4 @@
-Phoma andrachnes var. andrachnes VARIETY
-=======
+# Phoma andrachnes Lév. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma andrachnes var. andrachnes
+Phoma andrachnes Lév.
 
 ### Remarks
 null

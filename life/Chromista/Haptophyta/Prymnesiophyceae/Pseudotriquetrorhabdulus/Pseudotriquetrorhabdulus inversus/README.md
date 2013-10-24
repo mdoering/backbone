@@ -1,5 +1,4 @@
-Pseudotriquetrorhabdulus inversus (Bukry & Bramlette, 1969) Wise in Wise & Constans, 1976 SPECIES
-=======
+# Pseudotriquetrorhabdulus inversus (Bukry & Bramlette, 1969) Wise in Wise & Constans, 1976 SPECIES
 
 #### Status
 ACCEPTED

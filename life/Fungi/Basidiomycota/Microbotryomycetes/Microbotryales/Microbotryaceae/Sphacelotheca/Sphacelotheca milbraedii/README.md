@@ -1,5 +1,4 @@
-Sphacelotheca milbraedii (Syd. & P. Syd.) Zundel SPECIES
-=======
+# Sphacelotheca milbraedii (Syd. & P. Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uleomyces wellmanii Jenkins & Limber, 1952 SPECIES
-=======
+# Uleomyces wellmanii Jenkins & Limber, 1952 SPECIES
 
 #### Status
 ACCEPTED

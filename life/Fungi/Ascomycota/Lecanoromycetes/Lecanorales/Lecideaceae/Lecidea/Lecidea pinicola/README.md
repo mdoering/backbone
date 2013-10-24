@@ -1,5 +1,4 @@
-Lecidea pinicola (Ach.) Flörke SPECIES
-=======
+# Lecidea pinicola (Ach.) Flörke SPECIES
 
 #### Status
 ACCEPTED

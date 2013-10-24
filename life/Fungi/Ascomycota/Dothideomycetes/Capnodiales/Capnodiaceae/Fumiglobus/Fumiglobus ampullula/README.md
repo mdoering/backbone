@@ -1,14 +1,13 @@
-Asbolisia ampullula (Speg.) Speg., 1918 SPECIES
-=======
+# Fumiglobus ampullula (Speg.) D.R. Reynolds & G.S. Gilbert, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Physis, Rev. Soc. Arg. Cienc. Nat. 4: 293 (1918)
+Cryptog. Mycol. 27(3): 254 (2006)
 
 #### Original name
 Chaetophoma ampullula Speg., 1886

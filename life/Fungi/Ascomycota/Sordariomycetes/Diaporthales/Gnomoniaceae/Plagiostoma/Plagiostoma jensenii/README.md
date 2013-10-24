@@ -1,5 +1,4 @@
-Plagiostoma jensenii M.E. Barr SPECIES
-=======
+# Plagiostoma jensenii M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

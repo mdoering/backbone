@@ -1,5 +1,4 @@
-Placodium indicum Müll. Arg. SPECIES
-=======
+# Placodium indicum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

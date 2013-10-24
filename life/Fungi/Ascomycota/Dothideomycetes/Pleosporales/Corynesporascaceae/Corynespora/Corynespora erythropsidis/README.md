@@ -1,5 +1,4 @@
-Corynespora erythropsidis X.Mei Wang & X.G. Zhang SPECIES
-=======
+# Corynespora erythropsidis X.Mei Wang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

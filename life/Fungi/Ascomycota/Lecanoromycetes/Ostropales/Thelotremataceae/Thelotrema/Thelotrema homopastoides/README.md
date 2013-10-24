@@ -1,5 +1,4 @@
-Thelotrema homopastoides Vain. SPECIES
-=======
+# Thelotrema homopastoides Vain. SPECIES
 
 #### Status
 ACCEPTED

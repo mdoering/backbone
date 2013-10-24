@@ -1,5 +1,4 @@
-Caloplaca rinodinopsis Poelt & Hinter. SPECIES
-=======
+# Caloplaca rinodinopsis Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

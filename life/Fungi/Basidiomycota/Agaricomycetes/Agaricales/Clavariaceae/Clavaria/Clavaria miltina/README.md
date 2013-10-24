@@ -1,5 +1,4 @@
-Clavaria miltina Berk. SPECIES
-=======
+# Clavaria miltina Berk. SPECIES
 
 #### Status
 ACCEPTED

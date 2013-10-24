@@ -1,5 +1,4 @@
-Polyporus hiascens Lloyd SPECIES
-=======
+# Polyporus hiascens Lloyd SPECIES
 
 #### Status
 ACCEPTED

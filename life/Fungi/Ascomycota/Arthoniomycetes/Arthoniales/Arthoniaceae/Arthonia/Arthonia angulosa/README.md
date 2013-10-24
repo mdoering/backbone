@@ -1,5 +1,4 @@
-Arthonia angulosa Müll. Arg. SPECIES
-=======
+# Arthonia angulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

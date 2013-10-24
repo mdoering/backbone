@@ -1,5 +1,4 @@
-Fluviatispora boothii Fryar & K.D. Hyde, 2004 SPECIES
-=======
+# Fluviatispora boothii Fryar & K.D. Hyde, 2004 SPECIES
 
 #### Status
 ACCEPTED

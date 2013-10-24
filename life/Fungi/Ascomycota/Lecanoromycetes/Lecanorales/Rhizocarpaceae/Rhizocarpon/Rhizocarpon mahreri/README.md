@@ -1,5 +1,4 @@
-Rhizocarpon mahreri Hafellner SPECIES
-=======
+# Rhizocarpon mahreri Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonas stellata G. Cronberg SPECIES
-=======
+# Mallomonas stellata G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

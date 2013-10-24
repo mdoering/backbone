@@ -1,5 +1,4 @@
-Calosphaeria jungens Nitschke SPECIES
-=======
+# Calosphaeria jungens Nitschke SPECIES
 
 #### Status
 ACCEPTED

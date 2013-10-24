@@ -1,5 +1,4 @@
-Phoma lupulina Bres. SPECIES
-=======
+# Phoma lupulina Bres. SPECIES
 
 #### Status
 ACCEPTED

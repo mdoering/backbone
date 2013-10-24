@@ -1,5 +1,4 @@
-Laestadia dammarae (Berk. & Broome) Sacc. SPECIES
-=======
+# Laestadia dammarae (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

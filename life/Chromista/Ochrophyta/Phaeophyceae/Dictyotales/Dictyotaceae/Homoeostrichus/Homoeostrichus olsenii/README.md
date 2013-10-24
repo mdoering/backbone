@@ -1,5 +1,4 @@
-Homoeostrichus olsenii Womersley SPECIES
-=======
+# Homoeostrichus olsenii Womersley SPECIES
 
 #### Status
 ACCEPTED

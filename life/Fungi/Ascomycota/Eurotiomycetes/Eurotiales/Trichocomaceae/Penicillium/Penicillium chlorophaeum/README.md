@@ -1,5 +1,4 @@
-Penicillium chlorophaeum Biourge SPECIES
-=======
+# Penicillium chlorophaeum Biourge SPECIES
 
 #### Status
 ACCEPTED

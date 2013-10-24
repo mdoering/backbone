@@ -1,5 +1,4 @@
-Chorostate anceps Sacc. SPECIES
-=======
+# Chorostate anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

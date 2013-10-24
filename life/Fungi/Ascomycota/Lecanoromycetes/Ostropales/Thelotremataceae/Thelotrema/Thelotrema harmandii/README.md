@@ -1,14 +1,13 @@
-Conotrema harmandii (Pit.) Gilenstam SPECIES
-=======
+# Thelotrema harmandii Pit. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 58(Mém. 28): 57 (1911)
 
 #### Original name
 Thelotrema harmandii Pit.

@@ -1,5 +1,4 @@
-Hendersonia erigerontis Wehm. SPECIES
-=======
+# Hendersonia erigerontis Wehm. SPECIES
 
 #### Status
 ACCEPTED

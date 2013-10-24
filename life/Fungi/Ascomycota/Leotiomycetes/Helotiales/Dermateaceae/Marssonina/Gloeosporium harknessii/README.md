@@ -1,5 +1,4 @@
-Gloeosporium harknessii Sacc. & P. Syd. SPECIES
-=======
+# Gloeosporium harknessii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

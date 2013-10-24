@@ -1,5 +1,4 @@
-Lobarina luzonensis Räsänen SPECIES
-=======
+# Lobarina luzonensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

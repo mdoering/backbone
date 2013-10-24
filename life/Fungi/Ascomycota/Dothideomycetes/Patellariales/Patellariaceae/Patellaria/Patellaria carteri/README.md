@@ -1,5 +1,4 @@
-Patellaria carteri (Berk.) W. Phillips SPECIES
-=======
+# Patellaria carteri (Berk.) W. Phillips SPECIES
 
 #### Status
 ACCEPTED

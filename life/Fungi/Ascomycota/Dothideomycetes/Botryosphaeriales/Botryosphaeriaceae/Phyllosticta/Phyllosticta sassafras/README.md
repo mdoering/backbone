@@ -1,5 +1,4 @@
-Phyllosticta sassafras Cooke SPECIES
-=======
+# Phyllosticta sassafras Cooke SPECIES
 
 #### Status
 ACCEPTED

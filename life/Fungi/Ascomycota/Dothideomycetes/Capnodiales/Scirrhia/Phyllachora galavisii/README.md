@@ -1,5 +1,4 @@
-Phyllachora galavisii Chardón, 1934 SPECIES
-=======
+# Phyllachora galavisii Chardón, 1934 SPECIES
 
 #### Status
 DOUBTFUL

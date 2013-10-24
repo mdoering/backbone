@@ -1,5 +1,4 @@
-Xanthoparmelia fucina M. D. E. Knox SPECIES
-=======
+# Xanthoparmelia fucina M. D. E. Knox SPECIES
 
 #### Status
 ACCEPTED

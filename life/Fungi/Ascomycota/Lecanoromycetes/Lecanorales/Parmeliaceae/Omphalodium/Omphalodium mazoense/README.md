@@ -1,5 +1,4 @@
-Omphalodium mazoense C.W. Dodge SPECIES
-=======
+# Omphalodium mazoense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

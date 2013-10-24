@@ -1,5 +1,4 @@
-Microthyrium rubicola H.C. Greene SPECIES
-=======
+# Microthyrium rubicola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

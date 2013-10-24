@@ -1,5 +1,4 @@
-Bumilleria coronalis SPECIES
-=======
+# Bumilleria coronalis SPECIES
 
 #### Status
 ACCEPTED

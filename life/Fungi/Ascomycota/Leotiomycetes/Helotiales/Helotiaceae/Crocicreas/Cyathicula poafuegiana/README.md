@@ -1,5 +1,4 @@
-Cyathicula poafuegiana Gamundí SPECIES
-=======
+# Cyathicula poafuegiana Gamundí SPECIES
 
 #### Status
 ACCEPTED

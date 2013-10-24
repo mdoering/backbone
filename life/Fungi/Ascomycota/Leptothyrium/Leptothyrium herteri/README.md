@@ -1,5 +1,4 @@
-Leptothyrium herteri Speg. ex Herter SPECIES
-=======
+# Leptothyrium herteri Speg. ex Herter SPECIES
 
 #### Status
 ACCEPTED

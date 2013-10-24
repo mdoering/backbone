@@ -1,5 +1,4 @@
-Phyllachora ramicola R.K. Verma, N. Sharma & Soni, 2008 SPECIES
-=======
+# Phyllachora ramicola R.K. Verma, N. Sharma & Soni, 2008 SPECIES
 
 #### Status
 ACCEPTED

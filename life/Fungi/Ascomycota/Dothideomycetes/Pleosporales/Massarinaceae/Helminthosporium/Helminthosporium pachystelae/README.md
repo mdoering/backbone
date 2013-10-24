@@ -1,5 +1,4 @@
-Helminthosporium pachystelae Henn. SPECIES
-=======
+# Helminthosporium pachystelae Henn. SPECIES
 
 #### Status
 ACCEPTED

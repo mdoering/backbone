@@ -1,5 +1,4 @@
-Staurothele lecideoides B. de Lesd. SPECIES
-=======
+# Staurothele lecideoides B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

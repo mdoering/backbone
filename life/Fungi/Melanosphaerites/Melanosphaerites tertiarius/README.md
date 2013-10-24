@@ -1,5 +1,4 @@
-Melanosphaerites tertiarius Grüss SPECIES
-=======
+# Melanosphaerites tertiarius Grüss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta scutellariae Bond.-Mont. SPECIES
-=======
+# Ascochyta scutellariae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

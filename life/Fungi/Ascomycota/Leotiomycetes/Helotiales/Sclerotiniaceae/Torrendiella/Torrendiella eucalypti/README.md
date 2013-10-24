@@ -1,14 +1,13 @@
-Atractobolus eucalypti (Berk.) Kuntze, 1898 SPECIES
-=======
+# Torrendiella eucalypti (Berk.) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 445 (1898)
+Biblthca Mycol. 116: 322 (1987)
 
 #### Original name
 null

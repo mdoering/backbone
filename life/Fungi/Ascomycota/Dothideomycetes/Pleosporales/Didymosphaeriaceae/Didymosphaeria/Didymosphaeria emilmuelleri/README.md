@@ -1,5 +1,4 @@
-Didymosphaeria emilmuelleri A. Pande, 2008 SPECIES
-=======
+# Didymosphaeria emilmuelleri A. Pande, 2008 SPECIES
 
 #### Status
 ACCEPTED

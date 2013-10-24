@@ -1,5 +1,4 @@
-Mucor nanus Schipper & Samson, 1994 SPECIES
-=======
+# Mucor nanus Schipper & Samson, 1994 SPECIES
 
 #### Status
 ACCEPTED

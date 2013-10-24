@@ -1,5 +1,4 @@
-Dictyocha arbutusensis D. Bukry SPECIES
-=======
+# Dictyocha arbutusensis D. Bukry SPECIES
 
 #### Status
 ACCEPTED

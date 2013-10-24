@@ -1,5 +1,4 @@
-Lepiota fuscoroseola Speg. SPECIES
-=======
+# Lepiota fuscoroseola Speg. SPECIES
 
 #### Status
 ACCEPTED

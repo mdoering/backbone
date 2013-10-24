@@ -1,5 +1,4 @@
-Aureispira marina Hosoya, Arunpairojana, Suwannachart, Kanjana-Opas & Yokota, 2006 SPECIES
-=======
+# Aureispira marina Hosoya, Arunpairojana, Suwannachart, Kanjana-Opas & Yokota, 2006 SPECIES
 
 #### Status
 ACCEPTED

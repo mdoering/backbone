@@ -1,5 +1,4 @@
-Amycolatopsis rubida Huang et al., 2001 SPECIES
-=======
+# Amycolatopsis rubida Huang et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

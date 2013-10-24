@@ -1,5 +1,4 @@
-Puccinia sinaloana Cummins, M.P. Britton & J.W. Baxter SPECIES
-=======
+# Puccinia sinaloana Cummins, M.P. Britton & J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

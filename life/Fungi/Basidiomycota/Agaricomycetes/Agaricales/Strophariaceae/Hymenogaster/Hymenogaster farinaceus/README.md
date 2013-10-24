@@ -1,5 +1,4 @@
-Hymenogaster farinaceus A.H. Sm. SPECIES
-=======
+# Hymenogaster farinaceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

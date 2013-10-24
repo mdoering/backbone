@@ -1,5 +1,4 @@
-Stictyosiphon adriaticus Kützing SPECIES
-=======
+# Stictyosiphon adriaticus Kützing SPECIES
 
 #### Status
 ACCEPTED

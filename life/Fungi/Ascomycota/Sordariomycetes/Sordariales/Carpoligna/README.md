@@ -1,5 +1,4 @@
-Carpoligna F.A. Fernández & Huhndorf GENUS
-=======
+# Carpoligna F.A. Fernández & Huhndorf GENUS
 
 #### Status
 ACCEPTED

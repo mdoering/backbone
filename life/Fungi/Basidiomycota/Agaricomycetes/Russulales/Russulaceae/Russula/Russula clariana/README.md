@@ -1,5 +1,4 @@
-Russula clariana R. Heim SPECIES
-=======
+# Russula clariana R. Heim SPECIES
 
 #### Status
 ACCEPTED

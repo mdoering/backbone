@@ -1,5 +1,4 @@
-Lecidea compacta Nyl. SPECIES
-=======
+# Lecidea compacta Nyl. SPECIES
 
 #### Status
 ACCEPTED

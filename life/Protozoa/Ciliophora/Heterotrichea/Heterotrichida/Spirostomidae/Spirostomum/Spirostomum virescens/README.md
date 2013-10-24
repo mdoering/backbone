@@ -1,5 +1,4 @@
-Spirostomum virescens SPECIES
-=======
+# Spirostomum virescens SPECIES
 
 #### Status
 ACCEPTED

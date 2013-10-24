@@ -1,5 +1,4 @@
-Pannaria capensis J. Steiner SPECIES
-=======
+# Pannaria capensis J. Steiner SPECIES
 
 #### Status
 ACCEPTED

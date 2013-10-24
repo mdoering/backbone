@@ -1,5 +1,4 @@
-Heterodermia dendritica var. dendritica (Pers.) Poelt VARIETY
-=======
+# Heterodermia dendritica (Pers.) Poelt SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Hedwigia 9: 31 (1965)
 
 #### Original name
-Heterodermia dendritica var. dendritica (Pers.) Poelt
+Borrera dendritica Pers.
 
 ### Remarks
 null

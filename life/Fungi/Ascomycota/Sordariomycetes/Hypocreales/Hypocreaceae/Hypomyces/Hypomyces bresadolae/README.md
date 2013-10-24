@@ -1,5 +1,4 @@
-Hypomyces bresadolae Sacc. SPECIES
-=======
+# Hypomyces bresadolae Sacc. SPECIES
 
 #### Status
 ACCEPTED

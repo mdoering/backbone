@@ -1,5 +1,4 @@
-Rhabdospora petiolina (Penz. & Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora petiolina (Penz. & Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

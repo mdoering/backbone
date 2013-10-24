@@ -1,5 +1,4 @@
-Octospora splachnophila Benkert & Kristiansen SPECIES
-=======
+# Octospora splachnophila Benkert & Kristiansen SPECIES
 
 #### Status
 ACCEPTED

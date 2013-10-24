@@ -1,5 +1,4 @@
-Gloeosporium tremellinum Gäum. SPECIES
-=======
+# Gloeosporium tremellinum Gäum. SPECIES
 
 #### Status
 ACCEPTED

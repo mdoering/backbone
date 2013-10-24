@@ -1,11 +1,10 @@
-Dictyota dichotoma f. proliferans Ercegovic, 1957 FORM
-=======
+# Dictyota dichotoma (Hudson) J.V. Lamouroux SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

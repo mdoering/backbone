@@ -1,5 +1,4 @@
-Sargassum gemmiphorum Tseng & Lu SPECIES
-=======
+# Sargassum gemmiphorum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

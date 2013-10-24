@@ -1,5 +1,4 @@
-Didymoporisporonites indicus A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Didymoporisporonites indicus A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

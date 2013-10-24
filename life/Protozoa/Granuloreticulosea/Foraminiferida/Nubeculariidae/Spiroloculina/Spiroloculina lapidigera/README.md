@@ -1,5 +1,4 @@
-Spiroloculina lapidigera (Howchin, W & Parr, W J) SPECIES
-=======
+# Spiroloculina lapidigera (Howchin, W & Parr, W J) SPECIES
 
 #### Status
 ACCEPTED

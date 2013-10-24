@@ -1,5 +1,4 @@
-Macromastix Stokes, 1890 GENUS
-=======
+# Macromastix Stokes, 1890 GENUS
 
 #### Status
 ACCEPTED

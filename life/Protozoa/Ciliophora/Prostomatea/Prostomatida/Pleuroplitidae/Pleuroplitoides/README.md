@@ -1,5 +1,4 @@
-Pleuroplitoides Foissner, 1996 GENUS
-=======
+# Pleuroplitoides Foissner, 1996 GENUS
 
 #### Status
 ACCEPTED

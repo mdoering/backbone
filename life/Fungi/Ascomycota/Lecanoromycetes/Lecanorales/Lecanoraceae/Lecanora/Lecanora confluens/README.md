@@ -1,5 +1,4 @@
-Lecanora confluens (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora confluens (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

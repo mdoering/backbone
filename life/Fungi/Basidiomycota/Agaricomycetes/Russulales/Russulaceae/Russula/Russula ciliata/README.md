@@ -1,5 +1,4 @@
-Russula ciliata Buyck SPECIES
-=======
+# Russula ciliata Buyck SPECIES
 
 #### Status
 ACCEPTED

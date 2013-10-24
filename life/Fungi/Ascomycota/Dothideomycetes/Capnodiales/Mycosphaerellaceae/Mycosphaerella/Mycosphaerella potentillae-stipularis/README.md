@@ -1,5 +1,4 @@
-Mycosphaerella potentillae-stipularis Tomilin SPECIES
-=======
+# Mycosphaerella potentillae-stipularis Tomilin SPECIES
 
 #### Status
 ACCEPTED

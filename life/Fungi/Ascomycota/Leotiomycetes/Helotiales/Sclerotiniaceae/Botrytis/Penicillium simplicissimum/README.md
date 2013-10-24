@@ -1,8 +1,7 @@
-Penicillium echinulonalgrovense S. Abe, 1956 SPECIES
-=======
+# Penicillium simplicissimum (Oudem.) Thom, 1930 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

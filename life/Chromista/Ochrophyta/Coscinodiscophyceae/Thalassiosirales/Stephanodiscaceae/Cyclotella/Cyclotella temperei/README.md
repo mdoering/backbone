@@ -1,5 +1,4 @@
-Cyclotella temperei M.Perag. & Hérib. SPECIES
-=======
+# Cyclotella temperei M.Perag. & Hérib. SPECIES
 
 #### Status
 ACCEPTED

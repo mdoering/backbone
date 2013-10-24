@@ -1,5 +1,4 @@
-Asteromella trillii (Ellis & Everh.) Aa SPECIES
-=======
+# Asteromella trillii (Ellis & Everh.) Aa SPECIES
 
 #### Status
 ACCEPTED

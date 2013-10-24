@@ -1,5 +1,4 @@
-Prochernyshinella Reitlinger in Lipina & Reitlinger, 1996 GENUS
-=======
+# Prochernyshinella Reitlinger in Lipina & Reitlinger, 1996 GENUS
 
 #### Status
 ACCEPTED

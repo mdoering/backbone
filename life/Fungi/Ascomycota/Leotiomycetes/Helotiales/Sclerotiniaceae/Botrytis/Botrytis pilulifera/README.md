@@ -1,5 +1,4 @@
-Botrytis pilulifera Sacc. SPECIES
-=======
+# Botrytis pilulifera Sacc. SPECIES
 
 #### Status
 ACCEPTED

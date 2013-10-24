@@ -1,5 +1,4 @@
-Ocellularia lindigiana Müll. Arg. SPECIES
-=======
+# Ocellularia lindigiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

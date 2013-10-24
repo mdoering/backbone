@@ -1,17 +1,16 @@
-Ascochyta phyllachoroides f. melicae Fautrey, 1890 FORM
-=======
+# Didymella phleina Punith. & Årsvoll, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Roumeguère, Revue mycol. , Toulouse 12(no. 47): 123 (1890)
+in Punithalingam, Mycol. Pap. 142: 171 (1979)
 
 #### Original name
-Ascochyta phyllachoroides f. melicae Fautrey, 1890
+Didymella phleina Punith. & Årsvoll, 1979
 
 ### Remarks
 null

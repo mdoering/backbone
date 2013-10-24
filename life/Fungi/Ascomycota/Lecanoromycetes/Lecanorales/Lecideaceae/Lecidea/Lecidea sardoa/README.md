@@ -1,5 +1,4 @@
-Lecidea sardoa Bagl. SPECIES
-=======
+# Lecidea sardoa Bagl. SPECIES
 
 #### Status
 ACCEPTED

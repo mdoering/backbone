@@ -1,5 +1,4 @@
-Squamaria leutschoviensis Gyeln. SPECIES
-=======
+# Squamaria leutschoviensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

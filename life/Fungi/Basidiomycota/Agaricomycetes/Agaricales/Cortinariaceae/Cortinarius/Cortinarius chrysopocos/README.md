@@ -1,5 +1,4 @@
-Cortinarius chrysopocos Gasparini SPECIES
-=======
+# Cortinarius chrysopocos Gasparini SPECIES
 
 #### Status
 ACCEPTED

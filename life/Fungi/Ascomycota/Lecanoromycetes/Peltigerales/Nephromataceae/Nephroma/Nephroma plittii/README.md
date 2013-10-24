@@ -1,5 +1,4 @@
-Nephroma plittii Gyeln. SPECIES
-=======
+# Nephroma plittii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

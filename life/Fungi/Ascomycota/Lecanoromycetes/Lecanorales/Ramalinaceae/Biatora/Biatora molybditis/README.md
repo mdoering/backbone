@@ -1,5 +1,4 @@
-Biatora molybditis Tuck. SPECIES
-=======
+# Biatora molybditis Tuck. SPECIES
 
 #### Status
 ACCEPTED

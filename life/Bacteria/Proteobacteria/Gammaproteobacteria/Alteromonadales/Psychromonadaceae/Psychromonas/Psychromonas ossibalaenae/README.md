@@ -1,5 +1,4 @@
-Psychromonas ossibalaenae Miyazaki, Nogi, Fujiwara & Horikoshi, 2008 SPECIES
-=======
+# Psychromonas ossibalaenae Miyazaki, Nogi, Fujiwara & Horikoshi, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon monstruosum Arcang. SPECIES
-=======
+# Lycoperdon monstruosum Arcang. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria culmorum (Cooke & Harkn.) P. Joly SPECIES
-=======
+# Alternaria culmorum (Cooke & Harkn.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

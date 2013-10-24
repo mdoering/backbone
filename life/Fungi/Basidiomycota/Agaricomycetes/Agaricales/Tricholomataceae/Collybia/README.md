@@ -1,5 +1,4 @@
-Collybia (E.M. Fries) Staude, 1857 GENUS
-=======
+# Collybia (E.M. Fries) Staude, 1857 GENUS
 
 #### Status
 ACCEPTED

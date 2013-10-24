@@ -1,5 +1,4 @@
-Panellus parvulus Corner, 1986 SPECIES
-=======
+# Panellus parvulus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

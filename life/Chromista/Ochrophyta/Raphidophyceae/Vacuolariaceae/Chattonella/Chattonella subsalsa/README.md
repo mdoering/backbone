@@ -1,5 +1,4 @@
-Chattonella subsalsa B. Biecheler SPECIES
-=======
+# Chattonella subsalsa B. Biecheler SPECIES
 
 #### Status
 ACCEPTED

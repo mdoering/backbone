@@ -1,5 +1,4 @@
-Pseudocercospora avicularis (G. Winter) A.Z.M. Khan & Shamsi SPECIES
-=======
+# Pseudocercospora avicularis (G. Winter) A.Z.M. Khan & Shamsi SPECIES
 
 #### Status
 ACCEPTED

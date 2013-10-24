@@ -1,5 +1,4 @@
-Aspicilia marcii B. de Lesd. SPECIES
-=======
+# Aspicilia marcii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

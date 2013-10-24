@@ -1,5 +1,4 @@
-Bottaria paramera (Nyl.) Vain. SPECIES
-=======
+# Bottaria paramera (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

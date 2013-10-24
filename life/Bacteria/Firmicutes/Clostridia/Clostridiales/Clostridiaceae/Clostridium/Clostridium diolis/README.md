@@ -1,5 +1,4 @@
-Clostridium diolis Biebl & Spröer, 2003 SPECIES
-=======
+# Clostridium diolis Biebl & Spröer, 2003 SPECIES
 
 #### Status
 ACCEPTED

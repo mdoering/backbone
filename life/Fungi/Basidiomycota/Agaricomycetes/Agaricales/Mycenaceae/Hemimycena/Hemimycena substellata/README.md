@@ -1,5 +1,4 @@
-Hemimycena substellata (Kühner) Antonín & Noordel. SPECIES
-=======
+# Hemimycena substellata (Kühner) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

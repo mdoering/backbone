@@ -1,5 +1,4 @@
-Helicobacter anseris Fox et al., 2006 SPECIES
-=======
+# Helicobacter anseris Fox et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

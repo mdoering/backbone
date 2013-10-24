@@ -1,5 +1,4 @@
-Valsaria natalensis Doidge SPECIES
-=======
+# Valsaria natalensis Doidge SPECIES
 
 #### Status
 ACCEPTED

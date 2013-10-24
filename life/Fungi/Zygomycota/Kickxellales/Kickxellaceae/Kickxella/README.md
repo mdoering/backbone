@@ -1,5 +1,4 @@
-Kickxella Coem. GENUS
-=======
+# Kickxella Coem. GENUS
 
 #### Status
 ACCEPTED

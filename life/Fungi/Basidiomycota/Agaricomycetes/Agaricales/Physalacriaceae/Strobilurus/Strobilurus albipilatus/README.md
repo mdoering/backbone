@@ -1,5 +1,4 @@
-Strobilurus albipilatus (Peck) V.L. Wells & Kempton SPECIES
-=======
+# Strobilurus albipilatus (Peck) V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

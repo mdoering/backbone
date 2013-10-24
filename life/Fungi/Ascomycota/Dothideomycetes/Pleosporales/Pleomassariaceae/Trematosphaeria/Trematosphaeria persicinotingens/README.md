@@ -1,5 +1,4 @@
-Trematosphaeria persicinotingens Höhn. SPECIES
-=======
+# Trematosphaeria persicinotingens Höhn. SPECIES
 
 #### Status
 ACCEPTED

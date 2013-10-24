@@ -1,5 +1,4 @@
-Helicogloea incrustans Kobayasi SPECIES
-=======
+# Helicogloea incrustans Kobayasi SPECIES
 
 #### Status
 ACCEPTED

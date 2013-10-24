@@ -1,5 +1,4 @@
-Boletus loosii Heinem. SPECIES
-=======
+# Boletus loosii Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus malleus Berk. SPECIES
-=======
+# Agaricus malleus Berk. SPECIES
 
 #### Status
 ACCEPTED

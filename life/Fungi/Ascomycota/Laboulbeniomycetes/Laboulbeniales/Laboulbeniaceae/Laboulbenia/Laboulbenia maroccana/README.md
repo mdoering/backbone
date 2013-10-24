@@ -1,5 +1,4 @@
-Laboulbenia maroccana Speg. SPECIES
-=======
+# Laboulbenia maroccana Speg. SPECIES
 
 #### Status
 ACCEPTED

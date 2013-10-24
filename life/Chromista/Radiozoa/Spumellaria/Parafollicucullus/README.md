@@ -1,5 +1,4 @@
-Parafollicucullus GENUS
-=======
+# Parafollicucullus GENUS
 
 #### Status
 ACCEPTED

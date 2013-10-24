@@ -1,5 +1,4 @@
-Tintinnus regulatus SPECIES
-=======
+# Tintinnus regulatus SPECIES
 
 #### Status
 ACCEPTED

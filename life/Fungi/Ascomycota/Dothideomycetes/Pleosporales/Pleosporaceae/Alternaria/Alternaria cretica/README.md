@@ -1,5 +1,4 @@
-Alternaria cretica E.G. Simmons & Vakal. SPECIES
-=======
+# Alternaria cretica E.G. Simmons & Vakal. SPECIES
 
 #### Status
 ACCEPTED

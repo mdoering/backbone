@@ -1,5 +1,4 @@
-Graphina rudescens (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina rudescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

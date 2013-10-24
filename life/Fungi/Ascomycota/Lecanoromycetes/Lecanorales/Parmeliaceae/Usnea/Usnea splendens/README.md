@@ -1,5 +1,4 @@
-Usnea splendens Stirt. SPECIES
-=======
+# Usnea splendens Stirt. SPECIES
 
 #### Status
 ACCEPTED

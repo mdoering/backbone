@@ -1,5 +1,4 @@
-Tapesia legeriana (Gillet) Sacc. SPECIES
-=======
+# Tapesia legeriana (Gillet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

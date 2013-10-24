@@ -1,5 +1,4 @@
-Septoria philadelphi Ellis & Everh. SPECIES
-=======
+# Septoria philadelphi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

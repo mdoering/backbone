@@ -1,11 +1,10 @@
-Calyptrosphaera sphaeroidea var. minor Schiller, 1913 VARIETY
-=======
+# Calyptrosphaera sphaeroidea J. Schiller SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

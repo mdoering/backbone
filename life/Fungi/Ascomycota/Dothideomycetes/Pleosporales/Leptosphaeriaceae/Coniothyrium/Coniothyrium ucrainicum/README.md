@@ -1,5 +1,4 @@
-Coniothyrium ucrainicum (Petr.) Petr. SPECIES
-=======
+# Coniothyrium ucrainicum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

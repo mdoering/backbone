@@ -1,5 +1,4 @@
-Candida allociferrii Ueda-Nishim. & Mikata SPECIES
-=======
+# Candida allociferrii Ueda-Nishim. & Mikata SPECIES
 
 #### Status
 ACCEPTED

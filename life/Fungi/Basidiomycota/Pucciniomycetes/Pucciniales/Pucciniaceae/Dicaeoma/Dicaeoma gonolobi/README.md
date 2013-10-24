@@ -1,5 +1,4 @@
-Dicaeoma gonolobi (Berk. & Ravenel) Kuntze SPECIES
-=======
+# Dicaeoma gonolobi (Berk. & Ravenel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

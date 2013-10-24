@@ -1,5 +1,4 @@
-Psorotichia fuliginascens (Nyl.) Forssell SPECIES
-=======
+# Psorotichia fuliginascens (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

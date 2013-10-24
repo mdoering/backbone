@@ -1,5 +1,4 @@
-Mucor mutabilis Willd. SPECIES
-=======
+# Mucor mutabilis Willd. SPECIES
 
 #### Status
 ACCEPTED

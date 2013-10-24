@@ -1,5 +1,4 @@
-Depazea buddlejae Thüm. SPECIES
-=======
+# Depazea buddlejae Thüm. SPECIES
 
 #### Status
 ACCEPTED

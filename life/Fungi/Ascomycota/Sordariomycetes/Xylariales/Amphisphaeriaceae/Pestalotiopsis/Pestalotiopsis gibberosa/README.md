@@ -1,5 +1,4 @@
-Pestalotiopsis gibberosa (Sacc.) Y.X. Chen SPECIES
-=======
+# Pestalotiopsis gibberosa (Sacc.) Y.X. Chen SPECIES
 
 #### Status
 ACCEPTED

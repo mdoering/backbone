@@ -1,5 +1,4 @@
-Metasphaeria carectorum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Metasphaeria carectorum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

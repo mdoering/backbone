@@ -1,5 +1,4 @@
-Myxococcoides congoensis P. K. Maithy SPECIES
-=======
+# Myxococcoides congoensis P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

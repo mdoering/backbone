@@ -1,17 +1,16 @@
-Phellinus andina Plank & Ryvarden SPECIES
-=======
+# Phellinus andinus Plank & Ryvarden, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 16(1): 114 (1982)
 
 #### Original name
-Phellinus andina Plank & Ryvarden
+Phellinus andinus Plank & Ryvarden, 1982
 
 ### Remarks
 null

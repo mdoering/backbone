@@ -1,5 +1,4 @@
-Thermutis pannosa (Bernh.) Fr. SPECIES
-=======
+# Thermutis pannosa (Bernh.) Fr. SPECIES
 
 #### Status
 ACCEPTED

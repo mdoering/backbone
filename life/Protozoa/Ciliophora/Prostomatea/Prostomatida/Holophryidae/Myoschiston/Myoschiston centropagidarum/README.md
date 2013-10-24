@@ -1,5 +1,4 @@
-Myoschiston centropagidarum Precht, 1935 SPECIES
-=======
+# Myoschiston centropagidarum Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

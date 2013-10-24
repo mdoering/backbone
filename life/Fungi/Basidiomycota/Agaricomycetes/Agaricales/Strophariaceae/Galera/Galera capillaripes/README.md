@@ -1,5 +1,4 @@
-Galera capillaripes Peck SPECIES
-=======
+# Galera capillaripes Peck SPECIES
 
 #### Status
 ACCEPTED

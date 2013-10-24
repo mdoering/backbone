@@ -1,5 +1,4 @@
-Cladonia sobolescens Nyl. ex Vain. SPECIES
-=======
+# Cladonia sobolescens Nyl. ex Vain. SPECIES
 
 #### Status
 ACCEPTED

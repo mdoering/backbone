@@ -1,5 +1,4 @@
-Periconia philippinensis Sacc. SPECIES
-=======
+# Periconia philippinensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

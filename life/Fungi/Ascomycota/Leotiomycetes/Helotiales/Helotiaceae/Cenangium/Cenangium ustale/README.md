@@ -1,5 +1,4 @@
-Cenangium ustale (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Cenangium ustale (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

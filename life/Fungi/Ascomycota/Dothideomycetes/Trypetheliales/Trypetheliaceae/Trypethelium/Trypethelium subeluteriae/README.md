@@ -1,5 +1,4 @@
-Trypethelium subeluteriae Makhija & Patw. SPECIES
-=======
+# Trypethelium subeluteriae Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

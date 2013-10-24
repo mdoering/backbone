@@ -1,5 +1,4 @@
-Calyculus serrai SPECIES
-=======
+# Calyculus serrai SPECIES
 
 #### Status
 ACCEPTED

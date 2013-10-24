@@ -1,8 +1,7 @@
-Lecanora kümmerleana (Gyeln.) Zahlbr. SPECIES
-=======
+# Lecanora kuemmerleana (Gyeln.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

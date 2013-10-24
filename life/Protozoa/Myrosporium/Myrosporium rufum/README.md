@@ -1,5 +1,4 @@
-Myrosporium rufum Berk. & Broome SPECIES
-=======
+# Myrosporium rufum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

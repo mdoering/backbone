@@ -1,5 +1,4 @@
-Maronea colbindensis C.W. Dodge SPECIES
-=======
+# Maronea colbindensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe arenicola (P. Karst.) M. Lange & Sivertsen SPECIES
-=======
+# Rhodocybe arenicola (P. Karst.) M. Lange & Sivertsen SPECIES
 
 #### Status
 ACCEPTED

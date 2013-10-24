@@ -1,5 +1,4 @@
-Massaria pyxidata Riess SPECIES
-=======
+# Massaria pyxidata Riess SPECIES
 
 #### Status
 ACCEPTED

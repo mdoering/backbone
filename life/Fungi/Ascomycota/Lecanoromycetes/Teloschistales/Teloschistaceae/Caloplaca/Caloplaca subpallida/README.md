@@ -1,5 +1,4 @@
-Caloplaca subpallida H. Magn. SPECIES
-=======
+# Caloplaca subpallida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

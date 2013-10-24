@@ -1,5 +1,4 @@
-Calenia aggregata R. Sant. SPECIES
-=======
+# Calenia aggregata R. Sant. SPECIES
 
 #### Status
 ACCEPTED

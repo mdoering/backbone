@@ -1,5 +1,4 @@
-Lagenophrys ornata Swarczewsky, 1930 SPECIES
-=======
+# Lagenophrys ornata Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

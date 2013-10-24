@@ -1,5 +1,4 @@
-Clisosporium sublineatum (Sacc. & Malbr.) Kuntze SPECIES
-=======
+# Clisosporium sublineatum (Sacc. & Malbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

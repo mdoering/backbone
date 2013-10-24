@@ -1,5 +1,4 @@
-Entyloma zsakii Moesz SPECIES
-=======
+# Entyloma zsakii Moesz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Shearia formosa (Ellis & Everh.) Petr. SPECIES
-=======
+# Shearia formosa (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

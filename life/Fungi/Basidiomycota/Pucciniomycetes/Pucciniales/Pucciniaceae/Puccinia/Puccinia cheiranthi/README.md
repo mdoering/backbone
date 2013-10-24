@@ -1,5 +1,4 @@
-Puccinia cheiranthi Ellis & Everh. SPECIES
-=======
+# Puccinia cheiranthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

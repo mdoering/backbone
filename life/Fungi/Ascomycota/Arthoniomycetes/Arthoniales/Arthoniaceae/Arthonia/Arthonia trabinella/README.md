@@ -1,5 +1,4 @@
-Arthonia trabinella Th. Fr. SPECIES
-=======
+# Arthonia trabinella Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elsinoë aristolochiae Bitanc. & Jenkins SPECIES
-=======
+# Elsinoë aristolochiae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

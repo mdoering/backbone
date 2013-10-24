@@ -1,5 +1,4 @@
-Prorocentrum foraminosum M. A. Faust SPECIES
-=======
+# Prorocentrum foraminosum M. A. Faust SPECIES
 
 #### Status
 ACCEPTED

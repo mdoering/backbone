@@ -1,5 +1,4 @@
-Phyllachora entadae Racib., 1915 SPECIES
-=======
+# Phyllachora entadae Racib., 1915 SPECIES
 
 #### Status
 DOUBTFUL

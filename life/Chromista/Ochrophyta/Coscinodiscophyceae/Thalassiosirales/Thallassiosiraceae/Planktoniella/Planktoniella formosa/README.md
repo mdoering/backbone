@@ -1,5 +1,4 @@
-Planktoniella formosa (Schimper ex Karsten, 1907) Karsten, 1928 SPECIES
-=======
+# Planktoniella formosa (Schimper ex Karsten, 1907) Karsten, 1928 SPECIES
 
 #### Status
 ACCEPTED

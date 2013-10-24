@@ -1,14 +1,13 @@
-Cerviciferina Goddard & Jensen, 1907 GENUS
-=======
+# Seabrookia Brady, 1890 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. R. Micr. Soc. , 1890, 570.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Synechoblastus flaccidus SPECIES
-=======
+# Synechoblastus flaccidus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia dodartiae Nasyrov ex Vasyag. SPECIES
-=======
+# Guignardia dodartiae Nasyrov ex Vasyag. SPECIES
 
 #### Status
 ACCEPTED

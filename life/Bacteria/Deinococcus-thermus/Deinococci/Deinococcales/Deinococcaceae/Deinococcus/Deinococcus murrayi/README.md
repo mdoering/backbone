@@ -1,5 +1,4 @@
-Deinococcus murrayi Ferreira et al., 1997 SPECIES
-=======
+# Deinococcus murrayi Ferreira et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

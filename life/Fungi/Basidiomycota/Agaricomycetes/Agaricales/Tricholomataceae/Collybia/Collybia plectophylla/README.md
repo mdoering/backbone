@@ -1,5 +1,4 @@
-Collybia plectophylla (Mont.) Singer SPECIES
-=======
+# Collybia plectophylla (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

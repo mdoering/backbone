@@ -1,5 +1,4 @@
-Ciborinia hemisphaerica W.Y. Zhuang & Zheng Wang SPECIES
-=======
+# Ciborinia hemisphaerica W.Y. Zhuang & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium depressum Berk. & M.A. Curtis SPECIES
-=======
+# Hysterium depressum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melosira sol (Ehrenberg) Kützing, 1849 SPECIES
-=======
+# Melosira sol (Ehrenberg) Kützing, 1849 SPECIES
 
 #### Status
 ACCEPTED

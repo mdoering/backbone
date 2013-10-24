@@ -1,5 +1,4 @@
-Astylospora diminutiva Murrill SPECIES
-=======
+# Astylospora diminutiva Murrill SPECIES
 
 #### Status
 ACCEPTED

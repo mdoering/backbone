@@ -1,5 +1,4 @@
-Lunospora culmifida (Lind) Frandsen SPECIES
-=======
+# Lunospora culmifida (Lind) Frandsen SPECIES
 
 #### Status
 ACCEPTED

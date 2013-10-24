@@ -1,5 +1,4 @@
-Dimerella tavaresiana Vezda SPECIES
-=======
+# Dimerella tavaresiana Vezda SPECIES
 
 #### Status
 ACCEPTED

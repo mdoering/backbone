@@ -1,5 +1,4 @@
-Lentibacillus salicampi Yoon et al., 2002 SPECIES
-=======
+# Lentibacillus salicampi Yoon et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

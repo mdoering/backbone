@@ -1,5 +1,4 @@
-Neopaxillus Singer GENUS
-=======
+# Neopaxillus Singer GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria magna Starbäck SPECIES
-=======
+# Trematosphaeria magna Starbäck SPECIES
 
 #### Status
 ACCEPTED

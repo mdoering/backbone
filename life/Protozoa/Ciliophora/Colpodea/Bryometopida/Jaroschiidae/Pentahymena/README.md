@@ -1,5 +1,4 @@
-Pentahymena Foissner, 1994 GENUS
-=======
+# Pentahymena Foissner, 1994 GENUS
 
 #### Status
 ACCEPTED

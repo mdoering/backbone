@@ -1,5 +1,4 @@
-Polyporus bibulus Pers. SPECIES
-=======
+# Polyporus bibulus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembadion sinuosum Dumas SPECIES
-=======
+# Lembadion sinuosum Dumas SPECIES
 
 #### Status
 ACCEPTED

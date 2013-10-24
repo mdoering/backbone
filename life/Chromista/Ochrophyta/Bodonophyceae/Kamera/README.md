@@ -1,14 +1,13 @@
-Heteromastix Woodcock, 1916 GENUS
-=======
+# Kamera D.J.Patterson & M.Zölffel, 1991 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phil. Trans. Roy. Soc. , (B) 207, 380.
+Syst Assoc Spec Vol Ser 45: 448.
 
 #### Original name
 null

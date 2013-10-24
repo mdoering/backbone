@@ -1,5 +1,4 @@
-Verrucaria mutabilis Borrer ex Leight. SPECIES
-=======
+# Verrucaria mutabilis Borrer ex Leight. SPECIES
 
 #### Status
 ACCEPTED

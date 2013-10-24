@@ -1,5 +1,4 @@
-Sistotrema intermedium Hjortstam, 1983 SPECIES
-=======
+# Sistotrema intermedium Hjortstam, 1983 SPECIES
 
 #### Status
 ACCEPTED

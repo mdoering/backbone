@@ -1,5 +1,4 @@
-Cornicularia acanthella Ach. SPECIES
-=======
+# Cornicularia acanthella Ach. SPECIES
 
 #### Status
 ACCEPTED

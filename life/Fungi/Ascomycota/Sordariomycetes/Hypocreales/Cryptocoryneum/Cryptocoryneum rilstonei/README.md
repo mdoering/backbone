@@ -1,5 +1,4 @@
-Cryptocoryneum rilstonei M.B. Ellis, 1972 SPECIES
-=======
+# Cryptocoryneum rilstonei M.B. Ellis, 1972 SPECIES
 
 #### Status
 ACCEPTED

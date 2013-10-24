@@ -1,17 +1,16 @@
-Hypholoma agrocybeoides Raithelh. SPECIES
-=======
+# Hypholoma agrocyboides Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hong. Argentin. 1: 146 (1974)
 
 #### Original name
-Hypholoma agrocybeoides Raithelh.
+Hypholoma agrocyboides Raithelh.
 
 ### Remarks
 null

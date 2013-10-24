@@ -1,5 +1,4 @@
-Amphisphaeria populi Tracy & Earle SPECIES
-=======
+# Amphisphaeria populi Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

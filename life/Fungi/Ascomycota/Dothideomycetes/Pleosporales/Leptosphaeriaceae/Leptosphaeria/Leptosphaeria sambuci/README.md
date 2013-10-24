@@ -1,5 +1,4 @@
-Leptosphaeria sambuci Sacc. SPECIES
-=======
+# Leptosphaeria sambuci Sacc. SPECIES
 
 #### Status
 ACCEPTED

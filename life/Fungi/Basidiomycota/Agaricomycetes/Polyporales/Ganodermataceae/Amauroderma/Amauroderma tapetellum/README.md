@@ -1,5 +1,4 @@
-Amauroderma tapetellum Henao-M. SPECIES
-=======
+# Amauroderma tapetellum Henao-M. SPECIES
 
 #### Status
 ACCEPTED

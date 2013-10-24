@@ -1,5 +1,4 @@
-Psathyra atomata (Fr.) P. Kumm. SPECIES
-=======
+# Psathyra atomata (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

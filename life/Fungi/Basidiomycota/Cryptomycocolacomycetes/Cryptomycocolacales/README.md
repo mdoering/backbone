@@ -1,5 +1,4 @@
-Cryptomycocolacales Oberw. & R. Bauer ORDER
-=======
+# Cryptomycocolacales Oberw. & R. Bauer ORDER
 
 #### Status
 ACCEPTED

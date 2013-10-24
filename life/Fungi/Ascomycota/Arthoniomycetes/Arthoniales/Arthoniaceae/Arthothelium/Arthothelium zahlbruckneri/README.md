@@ -1,17 +1,16 @@
-Arthothelium zahlbrucknerii Makhija & Patw. SPECIES
-=======
+# Arthothelium zahlbruckneri Makhija & Patw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Hattori bot. Lab. 78: 220 (1995)
 
 #### Original name
-Arthothelium zahlbrucknerii Makhija & Patw.
+Arthothelium zahlbruckneri Makhija & Patw.
 
 ### Remarks
 null

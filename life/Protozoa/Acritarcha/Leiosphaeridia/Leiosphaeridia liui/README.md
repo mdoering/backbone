@@ -1,5 +1,4 @@
-Leiosphaeridia liui Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia liui Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

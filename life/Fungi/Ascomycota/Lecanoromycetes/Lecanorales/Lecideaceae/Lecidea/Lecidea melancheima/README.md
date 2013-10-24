@@ -1,5 +1,4 @@
-Lecidea melancheima Tuck. SPECIES
-=======
+# Lecidea melancheima Tuck. SPECIES
 
 #### Status
 ACCEPTED

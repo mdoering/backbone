@@ -1,5 +1,4 @@
-Cercospora lussoniensis Sacc. SPECIES
-=======
+# Cercospora lussoniensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

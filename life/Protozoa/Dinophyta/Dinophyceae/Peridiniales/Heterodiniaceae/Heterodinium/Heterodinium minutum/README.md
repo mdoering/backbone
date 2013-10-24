@@ -1,5 +1,4 @@
-Heterodinium minutum Kofoid & Michener SPECIES
-=======
+# Heterodinium minutum Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

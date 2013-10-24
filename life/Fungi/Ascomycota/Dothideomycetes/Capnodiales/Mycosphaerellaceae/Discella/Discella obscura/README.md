@@ -1,5 +1,4 @@
-Discella obscura Berk. & M.A. Curtis SPECIES
-=======
+# Discella obscura Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

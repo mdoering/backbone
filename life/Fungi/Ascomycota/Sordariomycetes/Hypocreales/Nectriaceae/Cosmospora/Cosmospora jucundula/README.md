@@ -1,5 +1,4 @@
-Cosmospora jucundula (Sacc. & Speg.) Rossman & Samuels SPECIES
-=======
+# Cosmospora jucundula (Sacc. & Speg.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

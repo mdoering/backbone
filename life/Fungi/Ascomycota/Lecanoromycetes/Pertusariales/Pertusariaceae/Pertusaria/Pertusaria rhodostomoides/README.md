@@ -1,5 +1,4 @@
-Pertusaria rhodostomoides Vain. SPECIES
-=======
+# Pertusaria rhodostomoides Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia cinereovirens Nyl. SPECIES
-=======
+# Parmelia cinereovirens Nyl. SPECIES
 
 #### Status
 ACCEPTED

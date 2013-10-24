@@ -1,14 +1,13 @@
-Epiplocyclis GENUS
-=======
+# Epiplocylis Jörgensen, 1925 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+IRMNG Homonym List
 
 #### Published in
-null
+Rep. Danish Exped. 1908-10, No. 8, 2, Biol. J. 3, 54.
 
 #### Original name
 null

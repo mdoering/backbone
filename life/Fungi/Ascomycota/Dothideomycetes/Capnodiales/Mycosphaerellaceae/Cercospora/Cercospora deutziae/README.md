@@ -1,5 +1,4 @@
-Cercospora deutziae Ellis & Everh., 1888 SPECIES
-=======
+# Cercospora deutziae Ellis & Everh., 1888 SPECIES
 
 #### Status
 ACCEPTED

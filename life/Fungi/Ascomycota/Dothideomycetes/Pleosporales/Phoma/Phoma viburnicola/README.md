@@ -1,14 +1,13 @@
-Diplodina viburnicola (Oudem.) Sacc. & P. Syd. SPECIES
-=======
+# Phoma viburnicola Oudem., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 938 (1902)
+Contrib. Flora Mycol. d. Pays-Bas 17: 247 (1901)
 
 #### Original name
 Phoma viburnicola Oudem., 1901

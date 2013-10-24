@@ -1,5 +1,4 @@
-Porina isidiata Kalb & Hafellner SPECIES
-=======
+# Porina isidiata Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED

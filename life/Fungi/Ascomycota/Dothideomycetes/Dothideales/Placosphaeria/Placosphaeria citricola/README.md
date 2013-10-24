@@ -1,5 +1,4 @@
-Placosphaeria citricola Berl. SPECIES
-=======
+# Placosphaeria citricola Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola othophorae var. othophorae VARIETY
-=======
+# Meliola othophorae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola othophorae var. othophorae
+Meliola othophorae H.S. Yates
 
 ### Remarks
 null

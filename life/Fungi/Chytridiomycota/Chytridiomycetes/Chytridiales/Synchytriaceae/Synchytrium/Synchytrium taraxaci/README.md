@@ -1,5 +1,4 @@
-Synchytrium taraxaci de Bary & Woronin, 1863 SPECIES
-=======
+# Synchytrium taraxaci de Bary & Woronin, 1863 SPECIES
 
 #### Status
 ACCEPTED

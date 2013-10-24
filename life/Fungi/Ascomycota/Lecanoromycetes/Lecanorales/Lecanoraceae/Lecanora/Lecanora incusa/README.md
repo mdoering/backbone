@@ -1,5 +1,4 @@
-Lecanora incusa (Flot.) Vain. SPECIES
-=======
+# Lecanora incusa (Flot.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Yarrowia Van der Walt & Arx, 1981 GENUS
-=======
+# Yarrowia Van der Walt & Arx, 1981 GENUS
 
 #### Status
 ACCEPTED

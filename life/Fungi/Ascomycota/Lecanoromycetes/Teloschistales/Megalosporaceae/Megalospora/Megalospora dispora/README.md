@@ -1,5 +1,4 @@
-Megalospora dispora C. Knight SPECIES
-=======
+# Megalospora dispora C. Knight SPECIES
 
 #### Status
 ACCEPTED

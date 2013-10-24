@@ -1,5 +1,4 @@
-Lacrimasporonites fusoides (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Lacrimasporonites fusoides (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

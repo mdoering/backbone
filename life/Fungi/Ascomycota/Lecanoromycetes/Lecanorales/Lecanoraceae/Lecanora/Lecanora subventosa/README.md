@@ -1,5 +1,4 @@
-Lecanora subventosa (Nyl.) Nyl. SPECIES
-=======
+# Lecanora subventosa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

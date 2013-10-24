@@ -1,5 +1,4 @@
-Placodium peltatum Räsänen SPECIES
-=======
+# Placodium peltatum Räsänen SPECIES
 
 #### Status
 ACCEPTED

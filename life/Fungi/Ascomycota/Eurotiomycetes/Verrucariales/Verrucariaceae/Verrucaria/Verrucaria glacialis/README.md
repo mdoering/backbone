@@ -1,5 +1,4 @@
-Verrucaria glacialis (Bagl. & Carestia) Stizenb. SPECIES
-=======
+# Verrucaria glacialis (Bagl. & Carestia) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

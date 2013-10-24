@@ -1,5 +1,4 @@
-Scindalma gibbosum (Blume & T. Nees) Kuntze SPECIES
-=======
+# Scindalma gibbosum (Blume & T. Nees) Kuntze SPECIES
 
 #### Status
 ACCEPTED

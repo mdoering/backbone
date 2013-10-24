@@ -1,14 +1,13 @@
-Helotium flammeum (Alb. & Schwein.) P. Karst., 1879 SPECIES
-=======
+# Perrotia flammea (Alb. & Schwein.) Boud., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 17: 24 (1901)
 
 #### Original name
 null

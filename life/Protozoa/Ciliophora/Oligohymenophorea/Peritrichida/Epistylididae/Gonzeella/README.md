@@ -1,5 +1,4 @@
-Gonzeella Kufferath, 1953 GENUS
-=======
+# Gonzeella Kufferath, 1953 GENUS
 
 #### Status
 ACCEPTED

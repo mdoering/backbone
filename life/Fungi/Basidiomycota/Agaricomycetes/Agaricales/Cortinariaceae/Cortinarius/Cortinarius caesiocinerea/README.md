@@ -1,5 +1,4 @@
-Cortinarius caesiocinerea SPECIES
-=======
+# Cortinarius caesiocinerea SPECIES
 
 #### Status
 ACCEPTED

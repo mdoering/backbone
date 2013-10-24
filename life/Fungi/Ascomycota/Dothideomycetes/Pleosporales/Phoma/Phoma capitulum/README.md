@@ -1,17 +1,16 @@
-Phoma ostiolata var. ostiolata V.H. Pawar, P.N. Mathur & Thirum., 1967 VARIETY
-=======
+# Phoma capitulum Panwar, P.N. Mathur & Thirum., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 50(2): 261 (1967)
 
 #### Original name
-null
+Phoma capitulum Panwar, P.N. Mathur & Thirum., 1967
 
 ### Remarks
 null

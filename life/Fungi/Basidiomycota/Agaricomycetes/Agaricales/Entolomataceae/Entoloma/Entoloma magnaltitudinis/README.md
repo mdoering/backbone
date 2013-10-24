@@ -1,5 +1,4 @@
-Entoloma magnaltitudinis Noordel. & Senn-Irlet SPECIES
-=======
+# Entoloma magnaltitudinis Noordel. & Senn-Irlet SPECIES
 
 #### Status
 ACCEPTED

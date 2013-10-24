@@ -1,5 +1,4 @@
-Sphaerella melanophora Speg. SPECIES
-=======
+# Sphaerella melanophora Speg. SPECIES
 
 #### Status
 ACCEPTED

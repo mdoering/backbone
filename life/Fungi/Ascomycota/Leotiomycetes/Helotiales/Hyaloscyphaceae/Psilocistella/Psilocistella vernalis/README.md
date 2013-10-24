@@ -1,5 +1,4 @@
-Psilocistella vernalis (Velen.) Svrcek SPECIES
-=======
+# Psilocistella vernalis (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

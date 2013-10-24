@@ -1,5 +1,4 @@
-Schizothrix fasciculata (Nägeli) Gomont SPECIES
-=======
+# Schizothrix fasciculata (Nägeli) Gomont SPECIES
 
 #### Status
 ACCEPTED

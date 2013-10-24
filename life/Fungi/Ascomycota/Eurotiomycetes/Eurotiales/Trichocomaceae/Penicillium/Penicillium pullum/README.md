@@ -1,5 +1,4 @@
-Penicillium pullum S.W. Peterson & Sigler, 2002 SPECIES
-=======
+# Penicillium pullum S.W. Peterson & Sigler, 2002 SPECIES
 
 #### Status
 ACCEPTED

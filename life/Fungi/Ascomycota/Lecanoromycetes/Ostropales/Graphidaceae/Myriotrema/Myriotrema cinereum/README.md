@@ -1,5 +1,4 @@
-Myriotrema cinereum (Müll. Arg.) Hale SPECIES
-=======
+# Myriotrema cinereum (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

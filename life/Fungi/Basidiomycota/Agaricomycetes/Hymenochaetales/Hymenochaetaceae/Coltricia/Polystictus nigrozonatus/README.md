@@ -1,5 +1,4 @@
-Polystictus nigrozonatus Saut. SPECIES
-=======
+# Polystictus nigrozonatus Saut. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella maderensis Petr. SPECIES
-=======
+# Anthostomella maderensis Petr. SPECIES
 
 #### Status
 ACCEPTED

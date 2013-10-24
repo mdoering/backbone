@@ -1,5 +1,4 @@
-Coltrica cinnamomea (Pers.) Murr. SPECIES
-=======
+# Coltrica cinnamomea (Pers.) Murr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina acronychiae Hosag. & Goos SPECIES
-=======
+# Asterina acronychiae Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudosphaerophorus kinabaluensis M. Satô SPECIES
-=======
+# Pseudosphaerophorus kinabaluensis M. Satô SPECIES
 
 #### Status
 ACCEPTED

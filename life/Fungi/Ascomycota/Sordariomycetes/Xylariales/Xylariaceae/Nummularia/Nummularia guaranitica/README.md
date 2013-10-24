@@ -1,5 +1,4 @@
-Nummularia guaranitica var. guaranitica VARIETY
-=======
+# Nummularia guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 18: 268 (1884)
 
 #### Original name
-Nummularia guaranitica var. guaranitica
+Nummularia guaranitica Speg.
 
 ### Remarks
 null

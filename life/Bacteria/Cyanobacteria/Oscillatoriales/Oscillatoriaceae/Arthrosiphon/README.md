@@ -1,5 +1,4 @@
-Arthrosiphon A.F. Weiss, 1984 GENUS
-=======
+# Arthrosiphon A.F. Weiss, 1984 GENUS
 
 #### Status
 ACCEPTED

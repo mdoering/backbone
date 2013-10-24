@@ -1,5 +1,4 @@
-Helminthosporium piperis Sawada & Katsuki SPECIES
-=======
+# Helminthosporium piperis Sawada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

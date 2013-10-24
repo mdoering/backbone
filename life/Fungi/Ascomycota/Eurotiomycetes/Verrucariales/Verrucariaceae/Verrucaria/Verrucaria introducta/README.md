@@ -1,5 +1,4 @@
-Verrucaria introducta Stirt. SPECIES
-=======
+# Verrucaria introducta Stirt. SPECIES
 
 #### Status
 ACCEPTED

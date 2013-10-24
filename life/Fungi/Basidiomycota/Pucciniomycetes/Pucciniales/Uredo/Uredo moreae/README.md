@@ -1,5 +1,4 @@
-Uredo moreae Kalchbr. SPECIES
-=======
+# Uredo moreae Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

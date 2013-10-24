@@ -1,5 +1,4 @@
-Sphaeria granatum Wallr. SPECIES
-=======
+# Sphaeria granatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

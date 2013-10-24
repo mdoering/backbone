@@ -1,17 +1,16 @@
-Erioderma leylandii subsp. leylandii SUBSPECIES
-=======
+# Erioderma leylandii (Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 71: 24 (1888)
 
 #### Original name
-Erioderma leylandii subsp. leylandii
+Sticta leylandii Taylor
 
 ### Remarks
 null

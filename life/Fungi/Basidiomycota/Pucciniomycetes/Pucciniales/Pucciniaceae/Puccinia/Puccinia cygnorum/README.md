@@ -1,5 +1,4 @@
-Puccinia cygnorum R.G. Shivas & J. Walker, 1994 SPECIES
-=======
+# Puccinia cygnorum R.G. Shivas & J. Walker, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterolibertia pogonophorae Bat. & H. Maia SPECIES
-=======
+# Asterolibertia pogonophorae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

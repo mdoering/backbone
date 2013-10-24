@@ -1,5 +1,4 @@
-Kondoaceae R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. FAMILY
-=======
+# Kondoaceae R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. FAMILY
 
 #### Status
 ACCEPTED

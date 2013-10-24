@@ -1,5 +1,4 @@
-Philaster hiatti Thompson, 1969 SPECIES
-=======
+# Philaster hiatti Thompson, 1969 SPECIES
 
 #### Status
 ACCEPTED

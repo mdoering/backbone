@@ -1,5 +1,4 @@
-Microdiplodia symphoricarpi Died. SPECIES
-=======
+# Microdiplodia symphoricarpi Died. SPECIES
 
 #### Status
 ACCEPTED

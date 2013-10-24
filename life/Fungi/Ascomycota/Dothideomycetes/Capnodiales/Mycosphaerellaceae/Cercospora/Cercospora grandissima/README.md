@@ -1,5 +1,4 @@
-Cercospora grandissima Rangel SPECIES
-=======
+# Cercospora grandissima Rangel SPECIES
 
 #### Status
 ACCEPTED

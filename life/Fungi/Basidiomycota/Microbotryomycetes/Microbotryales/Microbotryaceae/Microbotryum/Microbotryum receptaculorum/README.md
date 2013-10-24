@@ -1,5 +1,4 @@
-Microbotryum receptaculorum Lév. SPECIES
-=======
+# Microbotryum receptaculorum Lév. SPECIES
 
 #### Status
 ACCEPTED

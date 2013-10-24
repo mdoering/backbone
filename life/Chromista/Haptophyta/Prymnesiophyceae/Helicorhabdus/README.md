@@ -1,5 +1,4 @@
-Helicorhabdus B. Lambert, 1987 GENUS
-=======
+# Helicorhabdus B. Lambert, 1987 GENUS
 
 #### Status
 ACCEPTED

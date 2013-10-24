@@ -1,5 +1,4 @@
-Karschia epimyces Tobisch SPECIES
-=======
+# Karschia epimyces Tobisch SPECIES
 
 #### Status
 ACCEPTED

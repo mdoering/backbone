@@ -1,5 +1,4 @@
-Stemphylium quercinum Sacc. SPECIES
-=======
+# Stemphylium quercinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

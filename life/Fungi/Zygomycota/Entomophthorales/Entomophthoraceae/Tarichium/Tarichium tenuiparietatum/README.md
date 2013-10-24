@@ -1,5 +1,4 @@
-Tarichium tenuiparietatum Balazy & J. Wisn. SPECIES
-=======
+# Tarichium tenuiparietatum Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

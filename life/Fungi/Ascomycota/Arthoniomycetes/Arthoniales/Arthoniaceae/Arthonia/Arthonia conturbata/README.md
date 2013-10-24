@@ -1,5 +1,4 @@
-Arthonia conturbata Nyl. SPECIES
-=======
+# Arthonia conturbata Nyl. SPECIES
 
 #### Status
 ACCEPTED

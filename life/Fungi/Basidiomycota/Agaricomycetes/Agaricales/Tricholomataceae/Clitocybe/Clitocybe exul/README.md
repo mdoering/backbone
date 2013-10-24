@@ -1,5 +1,4 @@
-Clitocybe exul E.H.L. Krause SPECIES
-=======
+# Clitocybe exul E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

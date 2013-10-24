@@ -1,5 +1,4 @@
-Olpidium caudatum Reinsch SPECIES
-=======
+# Olpidium caudatum Reinsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bissulentactinia GENUS
-=======
+# Bissulentactinia GENUS
 
 #### Status
 ACCEPTED

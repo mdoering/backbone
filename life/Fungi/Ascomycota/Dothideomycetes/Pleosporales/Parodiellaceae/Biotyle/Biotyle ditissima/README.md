@@ -1,5 +1,4 @@
-Biotyle ditissima Syd. SPECIES
-=======
+# Biotyle ditissima Syd. SPECIES
 
 #### Status
 ACCEPTED

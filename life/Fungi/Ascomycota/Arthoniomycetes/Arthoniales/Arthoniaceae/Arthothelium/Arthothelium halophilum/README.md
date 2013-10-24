@@ -1,5 +1,4 @@
-Arthothelium halophilum Follmann SPECIES
-=======
+# Arthothelium halophilum Follmann SPECIES
 
 #### Status
 ACCEPTED

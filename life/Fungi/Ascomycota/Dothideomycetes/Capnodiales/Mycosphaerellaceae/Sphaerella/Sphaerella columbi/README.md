@@ -1,5 +1,4 @@
-Sphaerella columbi (Rehm) Sacc. & Trotter SPECIES
-=======
+# Sphaerella columbi (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

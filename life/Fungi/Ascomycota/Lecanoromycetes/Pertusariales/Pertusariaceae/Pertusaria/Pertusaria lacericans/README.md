@@ -1,5 +1,4 @@
-Pertusaria lacericans A. W. Archer SPECIES
-=======
+# Pertusaria lacericans A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciborinia jinggangensis W.Y. Zhuang & Zheng Wang SPECIES
-=======
+# Ciborinia jinggangensis W.Y. Zhuang & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

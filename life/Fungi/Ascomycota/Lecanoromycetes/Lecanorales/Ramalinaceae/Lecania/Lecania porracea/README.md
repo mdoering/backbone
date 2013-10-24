@@ -1,5 +1,4 @@
-Lecania porracea (Stizenb.) Flagey SPECIES
-=======
+# Lecania porracea (Stizenb.) Flagey SPECIES
 
 #### Status
 ACCEPTED

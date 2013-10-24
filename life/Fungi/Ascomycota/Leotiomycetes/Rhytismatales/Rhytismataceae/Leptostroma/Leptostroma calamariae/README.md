@@ -1,5 +1,4 @@
-Leptostroma calamariae Kunze SPECIES
-=======
+# Leptostroma calamariae Kunze SPECIES
 
 #### Status
 ACCEPTED

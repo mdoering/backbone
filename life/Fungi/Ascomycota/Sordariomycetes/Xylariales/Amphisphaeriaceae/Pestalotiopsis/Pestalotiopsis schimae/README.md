@@ -1,5 +1,4 @@
-Pestalotiopsis schimae Y.X. Chen & G. Wei SPECIES
-=======
+# Pestalotiopsis schimae Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

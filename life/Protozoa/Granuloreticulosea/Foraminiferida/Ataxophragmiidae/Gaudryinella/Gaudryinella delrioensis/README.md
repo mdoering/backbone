@@ -1,5 +1,4 @@
-Gaudryinella delrioensis Plummer SPECIES
-=======
+# Gaudryinella delrioensis Plummer SPECIES
 
 #### Status
 ACCEPTED

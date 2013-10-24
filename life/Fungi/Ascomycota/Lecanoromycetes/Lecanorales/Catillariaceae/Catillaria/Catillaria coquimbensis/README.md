@@ -1,5 +1,4 @@
-Catillaria coquimbensis Zahlbr. SPECIES
-=======
+# Catillaria coquimbensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

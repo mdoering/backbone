@@ -1,5 +1,4 @@
-Phyllosticta limnophila (Sacc.) Allesch. SPECIES
-=======
+# Phyllosticta limnophila (Sacc.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

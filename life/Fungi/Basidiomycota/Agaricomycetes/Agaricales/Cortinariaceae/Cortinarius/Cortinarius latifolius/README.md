@@ -1,5 +1,4 @@
-Cortinarius latifolius M.M. Moser SPECIES
-=======
+# Cortinarius latifolius M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

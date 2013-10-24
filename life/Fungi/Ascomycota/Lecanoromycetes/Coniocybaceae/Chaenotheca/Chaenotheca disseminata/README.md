@@ -1,5 +1,4 @@
-Chaenotheca disseminata var. disseminata VARIETY
-=======
+# Chaenotheca disseminata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chaenotheca disseminata var. disseminata
+null
 
 ### Remarks
 null

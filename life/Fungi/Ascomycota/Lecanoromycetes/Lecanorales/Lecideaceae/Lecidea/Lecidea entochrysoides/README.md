@@ -1,5 +1,4 @@
-Lecidea entochrysoides Hue SPECIES
-=======
+# Lecidea entochrysoides Hue SPECIES
 
 #### Status
 ACCEPTED

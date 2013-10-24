@@ -1,5 +1,4 @@
-Palaeomycites simpsonii (Kidst. & W.H. Lang) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites simpsonii (Kidst. & W.H. Lang) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

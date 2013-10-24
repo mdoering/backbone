@@ -1,5 +1,4 @@
-Russula hysgina Buyck & E. Horak SPECIES
-=======
+# Russula hysgina Buyck & E. Horak SPECIES
 
 #### Status
 ACCEPTED

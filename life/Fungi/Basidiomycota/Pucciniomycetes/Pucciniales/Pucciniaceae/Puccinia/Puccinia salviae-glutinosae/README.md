@@ -1,5 +1,4 @@
-Puccinia salviae-glutinosae Ces. SPECIES
-=======
+# Puccinia salviae-glutinosae Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Magnisphaera J. Campbell, J.L. Anderson & Shearer, 2003 GENUS
-=======
+# Magnisphaera J. Campbell, J.L. Anderson & Shearer, 2003 GENUS
 
 #### Status
 ACCEPTED

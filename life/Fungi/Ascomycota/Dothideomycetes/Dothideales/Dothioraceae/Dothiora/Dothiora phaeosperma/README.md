@@ -1,5 +1,4 @@
-Dothiora phaeosperma Froid., 1973 SPECIES
-=======
+# Dothiora phaeosperma Froid., 1973 SPECIES
 
 #### Status
 ACCEPTED

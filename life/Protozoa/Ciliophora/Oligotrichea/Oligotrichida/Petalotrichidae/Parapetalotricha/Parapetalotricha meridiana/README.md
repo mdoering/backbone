@@ -1,5 +1,4 @@
-Parapetalotricha meridiana Hada, 1970 SPECIES
-=======
+# Parapetalotricha meridiana Hada, 1970 SPECIES
 
 #### Status
 ACCEPTED

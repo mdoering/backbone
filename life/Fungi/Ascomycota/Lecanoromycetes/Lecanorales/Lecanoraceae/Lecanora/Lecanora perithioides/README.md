@@ -1,5 +1,4 @@
-Lecanora perithioides Nyl. SPECIES
-=======
+# Lecanora perithioides Nyl. SPECIES
 
 #### Status
 ACCEPTED

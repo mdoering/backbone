@@ -1,5 +1,4 @@
-Phoma phyllostictoides Desm. SPECIES
-=======
+# Phoma phyllostictoides Desm. SPECIES
 
 #### Status
 ACCEPTED

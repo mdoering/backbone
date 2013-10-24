@@ -1,5 +1,4 @@
-Boletus leucopus P. Karst. SPECIES
-=======
+# Boletus leucopus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

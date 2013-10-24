@@ -1,5 +1,4 @@
-Polyedryxium arcum Wicander & Loeblich, 1977 SPECIES
-=======
+# Polyedryxium arcum Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

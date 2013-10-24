@@ -1,5 +1,4 @@
-Ramalina testudinaria Nyl. SPECIES
-=======
+# Ramalina testudinaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

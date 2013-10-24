@@ -1,5 +1,4 @@
-Sagedia abietina Körb. SPECIES
-=======
+# Sagedia abietina Körb. SPECIES
 
 #### Status
 ACCEPTED

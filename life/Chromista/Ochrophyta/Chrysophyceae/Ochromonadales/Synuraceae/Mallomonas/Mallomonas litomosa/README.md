@@ -1,5 +1,4 @@
-Mallomonas litomosa Stokes SPECIES
-=======
+# Mallomonas litomosa Stokes SPECIES
 
 #### Status
 ACCEPTED

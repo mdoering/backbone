@@ -1,5 +1,4 @@
-Sorothelia confluens Körb. SPECIES
-=======
+# Sorothelia confluens Körb. SPECIES
 
 #### Status
 ACCEPTED

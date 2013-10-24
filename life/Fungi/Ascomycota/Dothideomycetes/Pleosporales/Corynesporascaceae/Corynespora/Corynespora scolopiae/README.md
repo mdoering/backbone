@@ -1,5 +1,4 @@
-Corynespora scolopiae Guang M. Zhang & X.G. Zhang SPECIES
-=======
+# Corynespora scolopiae Guang M. Zhang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

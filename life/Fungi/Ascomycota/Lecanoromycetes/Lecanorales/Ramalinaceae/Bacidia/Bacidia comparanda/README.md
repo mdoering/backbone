@@ -1,5 +1,4 @@
-Bacidia comparanda (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia comparanda (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

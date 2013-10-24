@@ -1,5 +1,4 @@
-Mycena agrestis Aronsen & Maas Geest. SPECIES
-=======
+# Mycena agrestis Aronsen & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

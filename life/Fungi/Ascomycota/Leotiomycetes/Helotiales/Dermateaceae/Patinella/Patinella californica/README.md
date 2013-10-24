@@ -1,5 +1,4 @@
-Patinella californica Rehm SPECIES
-=======
+# Patinella californica Rehm SPECIES
 
 #### Status
 ACCEPTED

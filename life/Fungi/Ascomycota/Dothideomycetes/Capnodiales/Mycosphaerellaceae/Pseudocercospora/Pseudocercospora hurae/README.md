@@ -1,5 +1,4 @@
-Pseudocercospora hurae (F. Stevens) Deighton SPECIES
-=======
+# Pseudocercospora hurae (F. Stevens) Deighton SPECIES
 
 #### Status
 ACCEPTED

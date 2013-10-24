@@ -1,5 +1,4 @@
-Trichophyton kaufmann-wolfii M. Ota SPECIES
-=======
+# Trichophyton kaufmann-wolfii M. Ota SPECIES
 
 #### Status
 ACCEPTED

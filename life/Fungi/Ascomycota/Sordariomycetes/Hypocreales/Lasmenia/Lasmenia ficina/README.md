@@ -1,5 +1,4 @@
-Lasmenia ficina Syd. SPECIES
-=======
+# Lasmenia ficina Syd. SPECIES
 
 #### Status
 ACCEPTED

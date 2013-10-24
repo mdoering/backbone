@@ -1,5 +1,4 @@
-Cortinarius bongardiodor Rob. Henry SPECIES
-=======
+# Cortinarius bongardiodor Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

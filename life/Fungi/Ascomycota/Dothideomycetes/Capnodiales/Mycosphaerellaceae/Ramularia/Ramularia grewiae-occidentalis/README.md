@@ -1,5 +1,4 @@
-Ramularia grewiae-occidentalis Crous & U. Braun SPECIES
-=======
+# Ramularia grewiae-occidentalis Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

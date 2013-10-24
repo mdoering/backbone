@@ -1,5 +1,4 @@
-Septoria actaeae Bunkina & Koval SPECIES
-=======
+# Septoria actaeae Bunkina & Koval SPECIES
 
 #### Status
 ACCEPTED

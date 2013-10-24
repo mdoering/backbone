@@ -1,5 +1,4 @@
-Buellia meghalayensis S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Buellia meghalayensis S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

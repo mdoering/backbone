@@ -1,5 +1,4 @@
-Pseudocercospora pipturicola U. Braun & McKenzie, 1999 SPECIES
-=======
+# Pseudocercospora pipturicola U. Braun & McKenzie, 1999 SPECIES
 
 #### Status
 ACCEPTED

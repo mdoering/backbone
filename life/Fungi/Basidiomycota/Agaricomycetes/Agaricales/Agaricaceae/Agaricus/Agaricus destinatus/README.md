@@ -1,5 +1,4 @@
-Agaricus destinatus Britzelm. SPECIES
-=======
+# Agaricus destinatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

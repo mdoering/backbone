@@ -1,5 +1,4 @@
-Russula illota Romagn., 1954 SPECIES
-=======
+# Russula illota Romagn., 1954 SPECIES
 
 #### Status
 ACCEPTED

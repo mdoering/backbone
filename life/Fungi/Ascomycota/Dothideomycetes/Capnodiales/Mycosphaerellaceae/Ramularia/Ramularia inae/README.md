@@ -1,5 +1,4 @@
-Ramularia inae Vanev & Negrean SPECIES
-=======
+# Ramularia inae Vanev & Negrean SPECIES
 
 #### Status
 ACCEPTED

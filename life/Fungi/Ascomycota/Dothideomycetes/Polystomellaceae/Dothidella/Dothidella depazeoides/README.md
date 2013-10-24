@@ -1,14 +1,13 @@
-Phyllachora depazeoides (Desm.) Nitschke, 1880 SPECIES
-=======
+# Dothidella depazeoides (Desm.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Mycol. Belg. (Verviers) 2: 398 (1880)
+Annls mycol. 13(3/4): 317 (1915)
 
 #### Original name
 Dothidea depazeoides Desm., 1838

@@ -1,5 +1,4 @@
-Mycomelanea ludmilae Velen., 1947 SPECIES
-=======
+# Mycomelanea ludmilae Velen., 1947 SPECIES
 
 #### Status
 ACCEPTED

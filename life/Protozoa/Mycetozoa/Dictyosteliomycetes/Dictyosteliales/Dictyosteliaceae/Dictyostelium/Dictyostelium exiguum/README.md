@@ -1,5 +1,4 @@
-Dictyostelium exiguum H. Hagiw., 1983 SPECIES
-=======
+# Dictyostelium exiguum H. Hagiw., 1983 SPECIES
 
 #### Status
 ACCEPTED

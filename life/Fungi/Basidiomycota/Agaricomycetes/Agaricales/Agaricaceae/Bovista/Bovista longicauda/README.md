@@ -1,5 +1,4 @@
-Bovista longicauda Mrkos SPECIES
-=======
+# Bovista longicauda Mrkos SPECIES
 
 #### Status
 ACCEPTED

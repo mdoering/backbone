@@ -1,5 +1,4 @@
-Protostegia autumnalis Sacc. SPECIES
-=======
+# Protostegia autumnalis Sacc. SPECIES
 
 #### Status
 ACCEPTED

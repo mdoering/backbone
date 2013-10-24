@@ -1,17 +1,16 @@
-Collema myriococcum (Ach.) Ach. SPECIES
-=======
+# Lempholemma polyanthes (Bernh.) Malme SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lich. univ. (1810)
+Lich. Suec. exs. no. 883 (1924)
 
 #### Original name
-Lichen myriococcus Ach.
+Lichen polyanthes Bernh.
 
 ### Remarks
 null

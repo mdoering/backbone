@@ -1,5 +1,4 @@
-Hebeloma odoratissimum (Britzelm.) Sacc. SPECIES
-=======
+# Hebeloma odoratissimum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

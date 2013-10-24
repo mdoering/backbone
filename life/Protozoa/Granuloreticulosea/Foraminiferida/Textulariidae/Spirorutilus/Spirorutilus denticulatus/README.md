@@ -1,5 +1,4 @@
-Spirorutilus denticulatus Hofker, 1978 SPECIES
-=======
+# Spirorutilus denticulatus Hofker, 1978 SPECIES
 
 #### Status
 ACCEPTED

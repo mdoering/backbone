@@ -1,5 +1,4 @@
-Umbillicaria lambii SPECIES
-=======
+# Umbillicaria lambii SPECIES
 
 #### Status
 DOUBTFUL

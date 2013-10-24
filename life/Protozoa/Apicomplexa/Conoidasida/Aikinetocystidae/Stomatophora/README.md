@@ -1,5 +1,4 @@
-Stomatophora Drzhevetskii, 1907 GENUS
-=======
+# Stomatophora Drzhevetskii, 1907 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bacillus thermodenitrificans (ex Klaushofer & Hollaus, 1970) Manachini et al., 2000 SPECIES
-=======
+# Geobacillus thermodenitrificans (Manachini et al., 2000) Nazina et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

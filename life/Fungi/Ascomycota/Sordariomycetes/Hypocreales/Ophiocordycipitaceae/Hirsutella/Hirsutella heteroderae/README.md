@@ -1,5 +1,4 @@
-Hirsutella heteroderae Sturhan & R. Schneid. SPECIES
-=======
+# Hirsutella heteroderae Sturhan & R. Schneid. SPECIES
 
 #### Status
 ACCEPTED

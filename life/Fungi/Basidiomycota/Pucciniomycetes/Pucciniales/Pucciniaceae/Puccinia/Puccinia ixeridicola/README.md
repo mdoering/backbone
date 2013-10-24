@@ -1,5 +1,4 @@
-Puccinia ixeridicola Cummins SPECIES
-=======
+# Puccinia ixeridicola Cummins SPECIES
 
 #### Status
 ACCEPTED

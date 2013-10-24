@@ -1,11 +1,10 @@
-Saccammina fusiformis (Williamson, 1858) SPECIES
-=======
+# Reophax fusiformis (Williamson, 1858) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Gymnodinium rubrocinctum Lebour SPECIES
-=======
+# Gymnodinium rubrocinctum Lebour SPECIES
 
 #### Status
 ACCEPTED

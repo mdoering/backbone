@@ -1,5 +1,4 @@
-Cortinarius dumetorum J. Favre SPECIES
-=======
+# Cortinarius dumetorum J. Favre SPECIES
 
 #### Status
 ACCEPTED

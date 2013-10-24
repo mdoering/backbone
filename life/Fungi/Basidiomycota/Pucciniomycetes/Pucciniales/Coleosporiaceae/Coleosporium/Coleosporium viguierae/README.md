@@ -1,5 +1,4 @@
-Coleosporium viguierae Dietel & Holw. SPECIES
-=======
+# Coleosporium viguierae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

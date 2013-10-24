@@ -1,5 +1,4 @@
-Cordyceps telfairii SPECIES
-=======
+# Cordyceps telfairii SPECIES
 
 #### Status
 ACCEPTED

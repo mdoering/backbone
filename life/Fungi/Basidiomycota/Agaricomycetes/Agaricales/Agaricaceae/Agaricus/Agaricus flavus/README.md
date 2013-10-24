@@ -1,5 +1,4 @@
-Agaricus flavus Leers SPECIES
-=======
+# Agaricus flavus Leers SPECIES
 
 #### Status
 ACCEPTED

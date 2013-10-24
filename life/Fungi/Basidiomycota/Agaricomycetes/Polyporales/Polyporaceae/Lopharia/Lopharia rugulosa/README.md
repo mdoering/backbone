@@ -1,5 +1,4 @@
-Lopharia rugulosa (Berk. & M.A. Curtis) Hjortstam SPECIES
-=======
+# Lopharia rugulosa (Berk. & M.A. Curtis) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

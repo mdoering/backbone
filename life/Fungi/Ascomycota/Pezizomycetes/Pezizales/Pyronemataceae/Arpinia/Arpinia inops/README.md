@@ -1,5 +1,4 @@
-Arpinia inops Berthet, 1974 SPECIES
-=======
+# Arpinia inops Berthet, 1974 SPECIES
 
 #### Status
 ACCEPTED

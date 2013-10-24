@@ -1,17 +1,16 @@
-Sarcinella cryptolepidae A. Pande SPECIES
-=======
+# Sarcinella cryptolepidis A. Pande SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Vidnyan Mandir, Patrika 13(1-2): 1 (1978)
 
 #### Original name
-Sarcinella cryptolepidae A. Pande
+Sarcinella cryptolepidis A. Pande
 
 ### Remarks
 null

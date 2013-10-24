@@ -1,5 +1,4 @@
-Selenosporella curvispora G. Arnaud ex MacGarvie, 1969 SPECIES
-=======
+# Selenosporella curvispora G. Arnaud ex MacGarvie, 1969 SPECIES
 
 #### Status
 ACCEPTED

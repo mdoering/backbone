@@ -1,5 +1,4 @@
-Filisphaeridium lehaerissaei Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium lehaerissaei Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

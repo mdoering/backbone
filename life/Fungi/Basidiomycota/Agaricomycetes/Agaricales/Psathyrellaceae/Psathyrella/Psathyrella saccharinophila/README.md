@@ -1,5 +1,4 @@
-Psathyrella saccharinophila (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella saccharinophila (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

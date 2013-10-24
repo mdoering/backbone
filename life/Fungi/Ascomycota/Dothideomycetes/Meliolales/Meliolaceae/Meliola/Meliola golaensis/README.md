@@ -1,5 +1,4 @@
-Meliola golaensis Deighton SPECIES
-=======
+# Meliola golaensis Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septaria viciae f. viciae FORM
-=======
+# Septaria viciae anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septaria viciae f. viciae
+Septaria viciae anon.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cordyceps oncoperae P.J. Wright SPECIES
-=======
+# Cordyceps oncoperae P.J. Wright SPECIES
 
 #### Status
 ACCEPTED

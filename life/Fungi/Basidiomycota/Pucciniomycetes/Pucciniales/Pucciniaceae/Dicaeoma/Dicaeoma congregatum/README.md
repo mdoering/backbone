@@ -1,5 +1,4 @@
-Dicaeoma congregatum (Ellis & Harkn.) Kuntze SPECIES
-=======
+# Dicaeoma congregatum (Ellis & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

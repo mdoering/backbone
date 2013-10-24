@@ -1,5 +1,4 @@
-Tylopilus subunicolor E.A. Dick & Snell SPECIES
-=======
+# Tylopilus subunicolor E.A. Dick & Snell SPECIES
 
 #### Status
 ACCEPTED

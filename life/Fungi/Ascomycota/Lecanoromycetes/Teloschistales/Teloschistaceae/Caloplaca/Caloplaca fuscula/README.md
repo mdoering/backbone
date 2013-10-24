@@ -1,5 +1,4 @@
-Caloplaca fuscula J. Steiner SPECIES
-=======
+# Caloplaca fuscula J. Steiner SPECIES
 
 #### Status
 ACCEPTED

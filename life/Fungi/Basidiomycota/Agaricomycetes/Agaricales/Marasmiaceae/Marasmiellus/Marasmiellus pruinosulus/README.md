@@ -1,5 +1,4 @@
-Marasmiellus pruinosulus (Murrill) Singer SPECIES
-=======
+# Marasmiellus pruinosulus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

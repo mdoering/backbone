@@ -1,5 +1,4 @@
-Pleurochloris inaequalis Pascher SPECIES
-=======
+# Pleurochloris inaequalis Pascher SPECIES
 
 #### Status
 ACCEPTED

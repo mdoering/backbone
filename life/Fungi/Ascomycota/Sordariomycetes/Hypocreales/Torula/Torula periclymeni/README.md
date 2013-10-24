@@ -1,5 +1,4 @@
-Torula periclymeni Oudem. SPECIES
-=======
+# Torula periclymeni Oudem. SPECIES
 
 #### Status
 ACCEPTED

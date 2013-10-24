@@ -1,5 +1,4 @@
-Rhizopogon butyraceus A.H. Sm. SPECIES
-=======
+# Rhizopogon butyraceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora flavocordia Castello & Nimis SPECIES
-=======
+# Acarospora flavocordia Castello & Nimis SPECIES
 
 #### Status
 ACCEPTED

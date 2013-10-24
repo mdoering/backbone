@@ -1,5 +1,4 @@
-Ceratocystis novae-zelandiae L.J. Hutchison & J. Reid SPECIES
-=======
+# Ceratocystis novae-zelandiae L.J. Hutchison & J. Reid SPECIES
 
 #### Status
 ACCEPTED

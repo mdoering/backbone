@@ -1,5 +1,4 @@
-Mycolangloisia echinata G. Arnaud SPECIES
-=======
+# Mycolangloisia echinata G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnosporangium effusum F. Kern, 1911 SPECIES
-=======
+# Gymnosporangium effusum F. Kern, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoconiella paraguayensis Bat., H. Maia & Peres, 1960 SPECIES
-=======
+# Leucoconiella paraguayensis Bat., H. Maia & Peres, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Homalogastra Kahl, 1926 GENUS
-=======
+# Homalogastra Kahl, 1926 GENUS
 
 #### Status
 ACCEPTED

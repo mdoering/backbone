@@ -1,17 +1,16 @@
-Phomopsis phaseoli f. sp FORM
-=======
+# Diaporthe phaseolorum (Cooke & Ellis) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 76(2): 289 (1984)
+null
 
 #### Original name
-Phomopsis phaseoli f. sp
+null
 
 ### Remarks
 null

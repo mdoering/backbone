@@ -1,5 +1,4 @@
-Mycena tenella (Schumach.) Quél. SPECIES
-=======
+# Mycena tenella (Schumach.) Quél. SPECIES
 
 #### Status
 ACCEPTED

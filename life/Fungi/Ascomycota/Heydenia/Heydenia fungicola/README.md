@@ -1,5 +1,4 @@
-Heydenia fungicola Peck SPECIES
-=======
+# Heydenia fungicola Peck SPECIES
 
 #### Status
 ACCEPTED

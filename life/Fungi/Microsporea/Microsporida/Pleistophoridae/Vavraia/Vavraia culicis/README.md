@@ -1,17 +1,16 @@
-Vavraia culicis subsp. culicis SUBSPECIES
-=======
+# Vavraia culicis (J. Weiser) J. Weiser SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Pleistophora culicis J. Weiser
 
 ### Remarks
 null

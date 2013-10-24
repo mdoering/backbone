@@ -1,5 +1,4 @@
-Marasmius violae (Murrill) Murrill SPECIES
-=======
+# Marasmius violae (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

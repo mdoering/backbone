@@ -1,5 +1,4 @@
-Comasphaeridium aremoricanum (Paris & Deunff, 1970) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium aremoricanum (Paris & Deunff, 1970) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

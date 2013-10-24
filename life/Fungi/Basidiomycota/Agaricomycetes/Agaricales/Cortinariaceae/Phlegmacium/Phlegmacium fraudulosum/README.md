@@ -1,5 +1,4 @@
-Phlegmacium fraudulosum var. fraudulosum VARIETY
-=======
+# Phlegmacium fraudulosum (Britzelm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Gams, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes) 2b: 181 (1953)
 
 #### Original name
-Phlegmacium fraudulosum var. fraudulosum
+Cortinarius fraudulosus Britzelm.
 
 ### Remarks
 null

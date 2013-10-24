@@ -1,5 +1,4 @@
-Marasmius stenophylloides Murrill SPECIES
-=======
+# Marasmius stenophylloides Murrill SPECIES
 
 #### Status
 ACCEPTED

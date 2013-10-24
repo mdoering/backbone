@@ -1,5 +1,4 @@
-Rhabdospora matthiolae f. matthiolae FORM
-=======
+# Rhabdospora matthiolae Malbr. & Brunaud SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora matthiolae f. matthiolae
+Rhabdospora matthiolae Malbr. & Brunaud
 
 ### Remarks
 null

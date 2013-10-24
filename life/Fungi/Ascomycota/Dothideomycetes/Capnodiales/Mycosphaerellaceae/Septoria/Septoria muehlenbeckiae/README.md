@@ -1,5 +1,4 @@
-Septoria muehlenbeckiae Tassi SPECIES
-=======
+# Septoria muehlenbeckiae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium mageritense Domenech et al., 1997 SPECIES
-=======
+# Mycobacterium mageritense Domenech et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

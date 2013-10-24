@@ -1,5 +1,4 @@
-Lophiostoma anisomerum Nitschke SPECIES
-=======
+# Lophiostoma anisomerum Nitschke SPECIES
 
 #### Status
 ACCEPTED

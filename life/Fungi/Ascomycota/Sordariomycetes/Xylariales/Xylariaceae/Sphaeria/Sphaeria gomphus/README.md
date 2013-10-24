@@ -1,5 +1,4 @@
-Sphaeria gomphus Fr. SPECIES
-=======
+# Sphaeria gomphus Fr. SPECIES
 
 #### Status
 ACCEPTED

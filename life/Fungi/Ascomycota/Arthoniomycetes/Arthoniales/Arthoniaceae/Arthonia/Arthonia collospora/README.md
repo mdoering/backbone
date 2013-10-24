@@ -1,5 +1,4 @@
-Arthonia collospora Vain. SPECIES
-=======
+# Arthonia collospora Vain. SPECIES
 
 #### Status
 ACCEPTED

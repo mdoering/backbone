@@ -1,5 +1,4 @@
-Amanita solitariiformis (Murrill) Murrill SPECIES
-=======
+# Amanita solitariiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

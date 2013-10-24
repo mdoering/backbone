@@ -1,5 +1,4 @@
-Cenangium dolosum Sacc. & Speg. SPECIES
-=======
+# Cenangium dolosum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

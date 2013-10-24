@@ -1,5 +1,4 @@
-Clavaria isabellina Bres. SPECIES
-=======
+# Clavaria isabellina Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hystrichosphaera ramosa var. reticulata R.J. Davey & G.L. Williams VARIETY
-=======
+# Hystrichosphaera ramosa (Ehrenberg, 1838) Deflandre, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium sylvaticum Oudem. SPECIES
-=======
+# Penicillium sylvaticum Oudem. SPECIES
 
 #### Status
 ACCEPTED

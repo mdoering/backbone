@@ -1,5 +1,4 @@
-Verrucaria carrissoi Samp. SPECIES
-=======
+# Verrucaria carrissoi Samp. SPECIES
 
 #### Status
 ACCEPTED

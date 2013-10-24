@@ -1,5 +1,4 @@
-Septoria oleandri Durieu & Mont. SPECIES
-=======
+# Septoria oleandri Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis distincta (Guba) K. Yokoy. SPECIES
-=======
+# Pestalotiopsis distincta (Guba) K. Yokoy. SPECIES
 
 #### Status
 ACCEPTED

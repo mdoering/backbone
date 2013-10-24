@@ -1,5 +1,4 @@
-Tricholoma pseudosordidum Singer SPECIES
-=======
+# Tricholoma pseudosordidum Singer SPECIES
 
 #### Status
 ACCEPTED

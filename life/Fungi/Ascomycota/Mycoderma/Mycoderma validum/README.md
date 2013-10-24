@@ -1,5 +1,4 @@
-Mycoderma validum H. Will SPECIES
-=======
+# Mycoderma validum H. Will SPECIES
 
 #### Status
 ACCEPTED

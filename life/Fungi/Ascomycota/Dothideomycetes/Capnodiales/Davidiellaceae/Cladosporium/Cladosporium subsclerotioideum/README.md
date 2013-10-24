@@ -1,5 +1,4 @@
-Cladosporium subsclerotioideum Bubák & Dearn. SPECIES
-=======
+# Cladosporium subsclerotioideum Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

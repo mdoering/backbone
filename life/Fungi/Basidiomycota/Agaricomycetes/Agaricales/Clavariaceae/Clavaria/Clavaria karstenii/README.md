@@ -1,5 +1,4 @@
-Clavaria karstenii Sacc. & P. Syd. SPECIES
-=======
+# Clavaria karstenii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

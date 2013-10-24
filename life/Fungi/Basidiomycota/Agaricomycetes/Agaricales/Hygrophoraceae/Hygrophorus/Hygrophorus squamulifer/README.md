@@ -1,5 +1,4 @@
-Hygrophorus squamulifer Boud. SPECIES
-=======
+# Hygrophorus squamulifer Boud. SPECIES
 
 #### Status
 ACCEPTED

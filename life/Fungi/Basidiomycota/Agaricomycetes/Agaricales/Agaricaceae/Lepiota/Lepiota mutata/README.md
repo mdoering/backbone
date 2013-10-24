@@ -1,5 +1,4 @@
-Lepiota mutata Peck SPECIES
-=======
+# Lepiota mutata Peck SPECIES
 
 #### Status
 ACCEPTED

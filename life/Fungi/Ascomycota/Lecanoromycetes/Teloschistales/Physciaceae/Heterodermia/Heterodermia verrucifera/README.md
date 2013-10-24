@@ -1,5 +1,4 @@
-Heterodermia verrucifera (Kurok.) W.A. Weber SPECIES
-=======
+# Heterodermia verrucifera (Kurok.) W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

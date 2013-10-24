@@ -1,5 +1,4 @@
-Heterodermia Trevis. GENUS
-=======
+# Heterodermia Trevis. GENUS
 
 #### Status
 ACCEPTED

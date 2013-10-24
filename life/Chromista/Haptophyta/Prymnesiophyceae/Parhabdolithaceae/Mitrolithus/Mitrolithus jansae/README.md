@@ -1,5 +1,4 @@
-Mitrolithus jansae SPECIES
-=======
+# Mitrolithus jansae SPECIES
 
 #### Status
 ACCEPTED

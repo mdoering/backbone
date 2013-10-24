@@ -1,5 +1,4 @@
-Fusicoccum cheiranthi Gonz. Frag. SPECIES
-=======
+# Fusicoccum cheiranthi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

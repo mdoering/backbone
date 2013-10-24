@@ -1,5 +1,4 @@
-Gossleriellaceae Round, 1990 FAMILY
-=======
+# Gossleriellaceae Round, 1990 FAMILY
 
 #### Status
 ACCEPTED

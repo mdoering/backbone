@@ -1,5 +1,4 @@
-Gorgoniceps delicatula (Fuckel) Höhn. SPECIES
-=======
+# Gorgoniceps delicatula (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

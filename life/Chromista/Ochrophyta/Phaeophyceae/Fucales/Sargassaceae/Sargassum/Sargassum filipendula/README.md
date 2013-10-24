@@ -1,5 +1,4 @@
-Sargassum filipendula var. pinnatum Grunow VARIETY
-=======
+# Sargassum filipendula C. Agardh SPECIES
 
 #### Status
 ACCEPTED

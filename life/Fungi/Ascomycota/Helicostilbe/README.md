@@ -1,5 +1,4 @@
-Helicostilbe von Höhnel, 1902 GENUS
-=======
+# Helicostilbe von Höhnel, 1902 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaecalyx clavatus (Setchell & Gardner) Komárek & Anagnostidis SPECIES
-=======
+# Chamaecalyx clavatus (Setchell & Gardner) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

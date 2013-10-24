@@ -1,5 +1,4 @@
-Hyphoderma acystidiatum Sheng H. Wu, 1997 SPECIES
-=======
+# Hyphoderma acystidiatum Sheng H. Wu, 1997 SPECIES
 
 #### Status
 ACCEPTED

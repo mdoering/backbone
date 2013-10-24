@@ -1,5 +1,4 @@
-Catillaria distorta Körb. SPECIES
-=======
+# Catillaria distorta Körb. SPECIES
 
 #### Status
 ACCEPTED

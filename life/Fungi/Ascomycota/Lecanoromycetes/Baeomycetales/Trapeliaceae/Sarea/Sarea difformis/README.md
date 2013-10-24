@@ -1,14 +1,13 @@
-Tromera difformis (Fr.) Arnold SPECIES
-=======
+# Sarea difformis (Fr.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Elench. fung. (Greifswald) 2: 14 (1828)
 
 #### Original name
 Peziza difformis P. Karst.

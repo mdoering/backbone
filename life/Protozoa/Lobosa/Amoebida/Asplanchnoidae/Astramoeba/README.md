@@ -1,5 +1,4 @@
-Astramoeba Vejdovsky, 1881 GENUS
-=======
+# Astramoeba Vejdovsky, 1881 GENUS
 
 #### Status
 ACCEPTED

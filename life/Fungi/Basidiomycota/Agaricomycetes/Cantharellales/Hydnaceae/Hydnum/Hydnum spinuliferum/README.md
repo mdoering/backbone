@@ -1,5 +1,4 @@
-Hydnum spinuliferum Lagarde SPECIES
-=======
+# Hydnum spinuliferum Lagarde SPECIES
 
 #### Status
 ACCEPTED

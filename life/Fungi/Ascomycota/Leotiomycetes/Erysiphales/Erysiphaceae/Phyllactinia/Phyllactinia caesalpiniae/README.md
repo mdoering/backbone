@@ -1,5 +1,4 @@
-Phyllactinia caesalpiniae Y.N. Yu SPECIES
-=======
+# Phyllactinia caesalpiniae Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

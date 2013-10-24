@@ -1,5 +1,4 @@
-Sphaeria rhinanthi Sommerf. SPECIES
-=======
+# Sphaeria rhinanthi Sommerf. SPECIES
 
 #### Status
 ACCEPTED

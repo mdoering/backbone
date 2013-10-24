@@ -1,5 +1,4 @@
-Acarospora mongolica H. Magn. SPECIES
-=======
+# Acarospora mongolica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

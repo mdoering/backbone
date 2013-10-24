@@ -1,5 +1,4 @@
-Pseudocyphellaria curvata (Ach.) Vain. SPECIES
-=======
+# Pseudocyphellaria curvata (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED

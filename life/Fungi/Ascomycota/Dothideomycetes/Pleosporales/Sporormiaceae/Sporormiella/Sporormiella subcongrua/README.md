@@ -1,5 +1,4 @@
-Sporormiella subcongrua (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Sporormiella subcongrua (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

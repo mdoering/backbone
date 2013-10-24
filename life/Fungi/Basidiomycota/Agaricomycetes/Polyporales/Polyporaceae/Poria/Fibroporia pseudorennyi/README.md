@@ -1,5 +1,4 @@
-Fibroporia pseudorennyi (Spirin) Spirin SPECIES
-=======
+# Fibroporia pseudorennyi (Spirin) Spirin SPECIES
 
 #### Status
 ACCEPTED

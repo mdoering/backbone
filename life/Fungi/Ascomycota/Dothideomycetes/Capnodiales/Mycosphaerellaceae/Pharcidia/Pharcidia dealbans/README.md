@@ -1,8 +1,7 @@
-Sphaerella dealbans Müll. Arg., 1872 SPECIES
-=======
+# Pharcidia dealbans (Müll. Arg.) Sacc. & D. Sacc., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaerella dealbans Müll. Arg., 1872
 
 ### Remarks
 null

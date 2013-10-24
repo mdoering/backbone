@@ -1,5 +1,4 @@
-Parmotrema fleigiae Canêz & Marcelli SPECIES
-=======
+# Parmotrema fleigiae Canêz & Marcelli SPECIES
 
 #### Status
 ACCEPTED

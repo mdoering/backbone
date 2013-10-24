@@ -1,5 +1,4 @@
-Septoria nannizzii A. Agostini SPECIES
-=======
+# Septoria nannizzii A. Agostini SPECIES
 
 #### Status
 ACCEPTED

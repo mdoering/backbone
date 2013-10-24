@@ -1,5 +1,4 @@
-Paenibacillus hodogayensis Takeda et al., 2005 SPECIES
-=======
+# Paenibacillus hodogayensis Takeda et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

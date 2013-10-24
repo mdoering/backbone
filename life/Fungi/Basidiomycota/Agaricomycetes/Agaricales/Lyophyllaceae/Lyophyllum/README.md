@@ -1,5 +1,4 @@
-Lyophyllum P. Karsten, 1881 GENUS
-=======
+# Lyophyllum P. Karsten, 1881 GENUS
 
 #### Status
 ACCEPTED

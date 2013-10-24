@@ -1,5 +1,4 @@
-Rinodina hawaiiensis H. Magn. SPECIES
-=======
+# Rinodina hawaiiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

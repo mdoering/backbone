@@ -1,5 +1,4 @@
-Russula omiensis Hongo SPECIES
-=======
+# Russula omiensis Hongo SPECIES
 
 #### Status
 ACCEPTED

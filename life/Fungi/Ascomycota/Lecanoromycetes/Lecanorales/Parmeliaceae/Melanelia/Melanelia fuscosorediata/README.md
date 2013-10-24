@@ -1,14 +1,13 @@
-Parmelia fuscosorediata Essl. SPECIES
-=======
+# Melanelia fuscosorediata (Essl.) Essl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Hattori bot. Lab. 42: 68 (1977)
+Mycotaxon 7(1): 47 (1978)
 
 #### Original name
 Parmelia fuscosorediata Essl.

@@ -1,5 +1,4 @@
-Macrophoma opuntiae-phaeacanthae Zerova SPECIES
-=======
+# Macrophoma opuntiae-phaeacanthae Zerova SPECIES
 
 #### Status
 ACCEPTED

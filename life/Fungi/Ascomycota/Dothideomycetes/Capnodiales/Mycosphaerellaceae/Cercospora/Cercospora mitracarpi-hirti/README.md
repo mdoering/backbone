@@ -1,5 +1,4 @@
-Cercospora mitracarpi-hirti O.L. Pereira & R.W. Barreto SPECIES
-=======
+# Cercospora mitracarpi-hirti O.L. Pereira & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

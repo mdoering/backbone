@@ -1,5 +1,4 @@
-Hemileia phalli P. Syd. & Syd. SPECIES
-=======
+# Hemileia phalli P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

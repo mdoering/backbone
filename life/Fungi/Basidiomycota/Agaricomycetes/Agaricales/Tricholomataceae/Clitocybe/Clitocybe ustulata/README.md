@@ -1,5 +1,4 @@
-Clitocybe ustulata Velen. SPECIES
-=======
+# Clitocybe ustulata Velen. SPECIES
 
 #### Status
 ACCEPTED

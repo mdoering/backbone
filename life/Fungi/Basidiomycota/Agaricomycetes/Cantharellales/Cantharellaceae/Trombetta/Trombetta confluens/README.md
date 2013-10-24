@@ -1,5 +1,4 @@
-Trombetta confluens (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Trombetta confluens (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

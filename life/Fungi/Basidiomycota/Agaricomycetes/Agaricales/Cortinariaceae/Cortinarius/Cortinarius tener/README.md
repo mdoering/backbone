@@ -1,5 +1,4 @@
-Cortinarius tener Carteret SPECIES
-=======
+# Cortinarius tener Carteret SPECIES
 
 #### Status
 ACCEPTED

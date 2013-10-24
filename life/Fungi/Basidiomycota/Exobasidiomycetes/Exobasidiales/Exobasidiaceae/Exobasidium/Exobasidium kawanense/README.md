@@ -1,5 +1,4 @@
-Exobasidium kawanense Ezuka SPECIES
-=======
+# Exobasidium kawanense Ezuka SPECIES
 
 #### Status
 ACCEPTED

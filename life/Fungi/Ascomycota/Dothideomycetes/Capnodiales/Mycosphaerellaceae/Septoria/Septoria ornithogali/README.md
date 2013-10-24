@@ -1,5 +1,4 @@
-Septoria ornithogali var. allii Maubl. VARIETY
-=======
+# Septoria ornithogali Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria ornithogali var. allii Maubl.
+Septoria ornithogali Pass.
 
 ### Remarks
 null

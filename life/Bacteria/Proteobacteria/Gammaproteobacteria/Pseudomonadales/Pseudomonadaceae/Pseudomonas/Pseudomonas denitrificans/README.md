@@ -1,5 +1,4 @@
-Pseudomonas denitrificans (Christensen, 1903) Bergey et al., 1923 SPECIES
-=======
+# Pseudomonas denitrificans (Christensen, 1903) Bergey et al., 1923 SPECIES
 
 #### Status
 ACCEPTED

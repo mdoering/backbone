@@ -1,5 +1,4 @@
-Quadrispora Bougher & Castellano GENUS
-=======
+# Quadrispora Bougher & Castellano GENUS
 
 #### Status
 ACCEPTED

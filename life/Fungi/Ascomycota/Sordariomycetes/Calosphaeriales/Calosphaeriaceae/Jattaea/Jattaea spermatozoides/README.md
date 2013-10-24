@@ -1,5 +1,4 @@
-Jattaea spermatozoides Berl. SPECIES
-=======
+# Jattaea spermatozoides Berl. SPECIES
 
 #### Status
 ACCEPTED

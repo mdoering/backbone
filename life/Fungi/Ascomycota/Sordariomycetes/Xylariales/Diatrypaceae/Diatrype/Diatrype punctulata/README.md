@@ -1,5 +1,4 @@
-Diatrype punctulata Berk. & Ravenel SPECIES
-=======
+# Diatrype punctulata Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

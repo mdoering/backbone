@@ -1,5 +1,4 @@
-Mycosphaerella leucophaea (Ellis & Kellerm.) Tomilin SPECIES
-=======
+# Mycosphaerella leucophaea (Ellis & Kellerm.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

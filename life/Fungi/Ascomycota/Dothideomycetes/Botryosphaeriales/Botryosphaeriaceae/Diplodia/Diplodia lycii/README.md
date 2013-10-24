@@ -1,5 +1,4 @@
-Diplodia lycii subsp. lycii SUBSPECIES
-=======
+# Diplodia lycii Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jb. nassau. Ver. Naturk. 23-24: 394 (1870)
 
 #### Original name
-Diplodia lycii subsp. lycii
+Diplodia lycii Fuckel
 
 ### Remarks
 null

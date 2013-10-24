@@ -1,5 +1,4 @@
-Leucobolites farinaceus (Britzelm.) Beck SPECIES
-=======
+# Leucobolites farinaceus (Britzelm.) Beck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatoma grande W. Smith SPECIES
-=======
+# Diatoma grande W. Smith SPECIES
 
 #### Status
 ACCEPTED

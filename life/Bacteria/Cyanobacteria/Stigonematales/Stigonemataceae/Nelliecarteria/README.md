@@ -1,5 +1,4 @@
-Nelliecarteria De Toni f., 1036 GENUS
-=======
+# Nelliecarteria De Toni f., 1036 GENUS
 
 #### Status
 ACCEPTED

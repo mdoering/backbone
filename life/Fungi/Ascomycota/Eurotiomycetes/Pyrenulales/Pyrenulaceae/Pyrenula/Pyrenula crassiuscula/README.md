@@ -1,5 +1,4 @@
-Pyrenula crassiuscula (Malme) Aptroot SPECIES
-=======
+# Pyrenula crassiuscula (Malme) Aptroot SPECIES
 
 #### Status
 ACCEPTED

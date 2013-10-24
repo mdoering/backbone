@@ -1,5 +1,4 @@
-Anthracoidea striata H.C. Zhang & L. Guo SPECIES
-=======
+# Anthracoidea striata H.C. Zhang & L. Guo SPECIES
 
 #### Status
 ACCEPTED

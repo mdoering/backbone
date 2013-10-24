@@ -1,5 +1,4 @@
-Puccinia coimbatorica Raghun. & K. Ramakr. ex Hosag. & Raghun. SPECIES
-=======
+# Puccinia coimbatorica Raghun. & K. Ramakr. ex Hosag. & Raghun. SPECIES
 
 #### Status
 ACCEPTED

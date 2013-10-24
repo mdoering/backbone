@@ -1,5 +1,4 @@
-Helotium piceae (Kauffman) Kanouse SPECIES
-=======
+# Helotium piceae (Kauffman) Kanouse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymium angularisporum J. Matsumoto, 1999 SPECIES
-=======
+# Didymium angularisporum J. Matsumoto, 1999 SPECIES
 
 #### Status
 ACCEPTED

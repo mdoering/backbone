@@ -1,5 +1,4 @@
-Shastrina Huddleston & Kalia, 1981 GENUS
-=======
+# Shastrina Huddleston & Kalia, 1981 GENUS
 
 #### Status
 ACCEPTED

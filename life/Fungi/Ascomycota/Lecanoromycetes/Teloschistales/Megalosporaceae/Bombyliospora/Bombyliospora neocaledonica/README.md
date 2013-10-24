@@ -1,5 +1,4 @@
-Bombyliospora neocaledonica Räsänen SPECIES
-=======
+# Bombyliospora neocaledonica Räsänen SPECIES
 
 #### Status
 ACCEPTED

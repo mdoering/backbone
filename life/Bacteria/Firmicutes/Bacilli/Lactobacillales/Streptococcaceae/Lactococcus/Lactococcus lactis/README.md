@@ -1,5 +1,4 @@
-Lactococcus lactis subsp. lactis SUBSPECIES
-=======
+# Lactococcus lactis (Lister, 1873) Schleifer et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

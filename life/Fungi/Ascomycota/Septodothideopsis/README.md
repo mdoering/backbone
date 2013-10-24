@@ -1,5 +1,4 @@
-Septodothideopsis Henn. GENUS
-=======
+# Septodothideopsis Henn. GENUS
 
 #### Status
 ACCEPTED

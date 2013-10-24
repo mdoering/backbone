@@ -1,5 +1,4 @@
-Verrucaria ferratensis Servít SPECIES
-=======
+# Verrucaria ferratensis Servít SPECIES
 
 #### Status
 ACCEPTED

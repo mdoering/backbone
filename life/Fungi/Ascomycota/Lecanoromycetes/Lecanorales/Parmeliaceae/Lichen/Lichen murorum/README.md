@@ -1,5 +1,4 @@
-Lichen murorum var. murorum VARIETY
-=======
+# Lichen murorum Neck. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen murorum var. murorum
+Lichen murorum Neck.
 
 ### Remarks
 null

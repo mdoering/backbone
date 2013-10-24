@@ -1,5 +1,4 @@
-Pyrenula moniliformis (C. Knight) Müll. Arg. SPECIES
-=======
+# Pyrenula moniliformis (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

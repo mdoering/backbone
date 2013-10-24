@@ -1,5 +1,4 @@
-Tricholoma rhinarium Berk. & M.A. Curtis SPECIES
-=======
+# Tricholoma rhinarium Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

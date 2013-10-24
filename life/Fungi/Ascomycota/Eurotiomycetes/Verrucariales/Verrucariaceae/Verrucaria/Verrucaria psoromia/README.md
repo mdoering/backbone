@@ -1,5 +1,4 @@
-Verrucaria psoromia Nyl. SPECIES
-=======
+# Verrucaria psoromia Nyl. SPECIES
 
 #### Status
 ACCEPTED

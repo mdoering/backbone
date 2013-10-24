@@ -1,5 +1,4 @@
-Gloeosporium leguminis Cooke & Harkn. SPECIES
-=======
+# Gloeosporium leguminis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

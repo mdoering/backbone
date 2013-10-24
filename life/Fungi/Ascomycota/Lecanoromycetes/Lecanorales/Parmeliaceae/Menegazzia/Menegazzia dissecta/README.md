@@ -1,5 +1,4 @@
-Menegazzia dissecta (Rass.) Hafellner SPECIES
-=======
+# Menegazzia dissecta (Rass.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

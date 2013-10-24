@@ -1,5 +1,4 @@
-Epistylis kolbi Nenninger, 1948 SPECIES
-=======
+# Epistylis kolbi Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

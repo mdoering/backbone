@@ -1,5 +1,4 @@
-Puccinia quadriporula Orth. {?} SPECIES
-=======
+# Puccinia quadriporula Orth. {?} SPECIES
 
 #### Status
 ACCEPTED

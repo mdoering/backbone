@@ -1,5 +1,4 @@
-Lobaria deplanata (Nyl.) Yoshim. SPECIES
-=======
+# Lobaria deplanata (Nyl.) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

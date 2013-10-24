@@ -1,5 +1,4 @@
-Roussoella saltuensis K.D. Hyde SPECIES
-=======
+# Roussoella saltuensis K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

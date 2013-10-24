@@ -1,5 +1,4 @@
-Omphalia pergracilis Speg. SPECIES
-=======
+# Omphalia pergracilis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplonaevia immersa B. Hein & Scheuer SPECIES
-=======
+# Diplonaevia immersa B. Hein & Scheuer SPECIES
 
 #### Status
 ACCEPTED

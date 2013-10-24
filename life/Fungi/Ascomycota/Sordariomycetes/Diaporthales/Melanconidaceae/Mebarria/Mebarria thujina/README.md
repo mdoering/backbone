@@ -1,14 +1,13 @@
-Cryptosporella thujina Nag Raj & DiCosmo, 1981 SPECIES
-=======
+# Mebarria thujina (Nag Raj & DiCosmo) J. Reid & C. Booth, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 80: 49 (1981)
+Can. J. Bot. 67(3): 898 (1989)
 
 #### Original name
 Cryptosporella thujina Nag Raj & DiCosmo, 1981

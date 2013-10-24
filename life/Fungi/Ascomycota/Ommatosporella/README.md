@@ -1,5 +1,4 @@
-Ommatosporella Bat., J.L. Bezerra & Poroca GENUS
-=======
+# Ommatosporella Bat., J.L. Bezerra & Poroca GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Operculina ammonoides (Gronovius, 1781) SPECIES
-=======
+# Operculina ammonoides (Gronovius, 1781) SPECIES
 
 #### Status
 ACCEPTED

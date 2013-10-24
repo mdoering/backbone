@@ -1,5 +1,4 @@
-Camarosporium quercus Sacc. & Roum., 1884 SPECIES
-=======
+# Camarosporium quercus Sacc. & Roum., 1884 SPECIES
 
 #### Status
 ACCEPTED

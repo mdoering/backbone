@@ -1,5 +1,4 @@
-Lasiosphaeria meningiensis Hansf. SPECIES
-=======
+# Lasiosphaeria meningiensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

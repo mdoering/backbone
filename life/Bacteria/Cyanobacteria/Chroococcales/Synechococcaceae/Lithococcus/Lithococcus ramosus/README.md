@@ -1,5 +1,4 @@
-Lithococcus ramosus Ercegovic, 1925 SPECIES
-=======
+# Lithococcus ramosus Ercegovic, 1925 SPECIES
 
 #### Status
 ACCEPTED

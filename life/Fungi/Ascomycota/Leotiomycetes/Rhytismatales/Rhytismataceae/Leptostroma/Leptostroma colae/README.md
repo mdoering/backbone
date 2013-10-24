@@ -1,5 +1,4 @@
-Leptostroma colae Cif. & Gonz. Frag. SPECIES
-=======
+# Leptostroma colae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

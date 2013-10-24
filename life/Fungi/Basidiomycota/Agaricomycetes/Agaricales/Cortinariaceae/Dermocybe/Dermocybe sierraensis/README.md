@@ -1,5 +1,4 @@
-Dermocybe sierraensis Ammirati SPECIES
-=======
+# Dermocybe sierraensis Ammirati SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sporisorium chrysopogonis-grylii (Thirum. & Pavgi) Vánky SPECIES
-=======
+# Sporisorium chrysopogonis-grylli (Thirum. & Pavgi) Vánky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity 18: 181 (2005)
 
 #### Original name
 Sphacelotheca chrysopogonis-grylli Thirum. & Pavgi

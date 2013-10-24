@@ -1,5 +1,4 @@
-Delicatula conidina Velen. SPECIES
-=======
+# Delicatula conidina Velen. SPECIES
 
 #### Status
 ACCEPTED

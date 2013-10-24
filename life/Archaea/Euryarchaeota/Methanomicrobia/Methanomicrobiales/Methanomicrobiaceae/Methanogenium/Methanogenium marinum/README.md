@@ -1,5 +1,4 @@
-Methanogenium marinum Chong et al., 2003 SPECIES
-=======
+# Methanogenium marinum Chong et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

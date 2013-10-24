@@ -1,5 +1,4 @@
-Uromyces holubii Doidge SPECIES
-=======
+# Uromyces holubii Doidge SPECIES
 
 #### Status
 ACCEPTED

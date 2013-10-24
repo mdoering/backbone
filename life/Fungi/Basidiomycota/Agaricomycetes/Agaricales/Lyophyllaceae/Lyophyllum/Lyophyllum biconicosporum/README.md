@@ -1,5 +1,4 @@
-Lyophyllum biconicosporum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum biconicosporum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

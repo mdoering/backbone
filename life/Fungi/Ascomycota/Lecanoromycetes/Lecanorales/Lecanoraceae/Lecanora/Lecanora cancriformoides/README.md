@@ -1,5 +1,4 @@
-Lecanora cancriformoides SPECIES
-=======
+# Lecanora cancriformoides SPECIES
 
 #### Status
 ACCEPTED

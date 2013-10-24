@@ -1,5 +1,4 @@
-Cercosporella centaureicola Berner, U. Braun & Eskand. SPECIES
-=======
+# Cercosporella centaureicola Berner, U. Braun & Eskand. SPECIES
 
 #### Status
 ACCEPTED

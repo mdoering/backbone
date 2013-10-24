@@ -1,5 +1,4 @@
-Ganoderma luteicinctum Corner, 1983 SPECIES
-=======
+# Ganoderma luteicinctum Corner, 1983 SPECIES
 
 #### Status
 ACCEPTED

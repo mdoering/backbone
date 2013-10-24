@@ -1,8 +1,7 @@
-Phyllachora calamagrostidis Sawada, 1952 SPECIES
-=======
+# Phyllachora ammophilae Orton, 1944 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

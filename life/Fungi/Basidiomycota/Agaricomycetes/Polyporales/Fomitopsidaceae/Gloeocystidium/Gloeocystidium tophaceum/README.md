@@ -1,5 +1,4 @@
-Gloeocystidium tophaceum Bourdot & Galzin SPECIES
-=======
+# Gloeocystidium tophaceum Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ovularia carneola Sacc., 1886 SPECIES
-=======
+# Ramularia carneola (Sacc.) Nannf., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lundell & Nannfeldt, Fungi Exsiccati Suecici 39-40: 23 (1950)
 
 #### Original name
 Ovularia carneola Sacc., 1886

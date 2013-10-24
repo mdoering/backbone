@@ -1,5 +1,4 @@
-Closterosporia felinea (Mewborn) Grigoraki SPECIES
-=======
+# Closterosporia felinea (Mewborn) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiasmolithus gigas (Bramlette & Sullivan, 1961) Radomski, 1968 SPECIES
-=======
+# Chiasmolithus gigas (Bramlette & Sullivan, 1961) Radomski, 1968 SPECIES
 
 #### Status
 ACCEPTED

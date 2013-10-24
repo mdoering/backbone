@@ -1,14 +1,13 @@
-Aleuria megalochondra Le Gal, 1937 SPECIES
-=======
+# Peziza megalochondra (Le Gal) Donadini, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 2: 158 (1937)
+Bull. Soc. linn. Provence 30: 66 (1978)
 
 #### Original name
 Aleuria megalochondra Le Gal, 1937

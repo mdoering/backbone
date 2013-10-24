@@ -1,5 +1,4 @@
-Sarcoleotia platypus (DC.) Maas Geest. SPECIES
-=======
+# Sarcoleotia platypus (DC.) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

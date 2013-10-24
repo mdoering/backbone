@@ -1,5 +1,4 @@
-Abrothallus exilis (Flörke) A. Massal. SPECIES
-=======
+# Abrothallus exilis (Flörke) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

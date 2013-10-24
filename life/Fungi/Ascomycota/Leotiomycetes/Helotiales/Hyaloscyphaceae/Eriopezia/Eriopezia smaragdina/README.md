@@ -1,5 +1,4 @@
-Eriopezia smaragdina Kirschst. SPECIES
-=======
+# Eriopezia smaragdina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

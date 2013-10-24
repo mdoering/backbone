@@ -1,5 +1,4 @@
-Pholiota rufopunctata Pat. & Gaillard SPECIES
-=======
+# Pholiota rufopunctata Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

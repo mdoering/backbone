@@ -1,5 +1,4 @@
-Biatora javanica (Schaer.) Mont & Bosch SPECIES
-=======
+# Biatora javanica (Schaer.) Mont & Bosch SPECIES
 
 #### Status
 ACCEPTED

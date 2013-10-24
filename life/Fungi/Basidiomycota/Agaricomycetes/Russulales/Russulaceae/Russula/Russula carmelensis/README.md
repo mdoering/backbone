@@ -1,5 +1,4 @@
-Russula carmelensis M.M. Moser, Binyam. & Aviz.-Hersh. SPECIES
-=======
+# Russula carmelensis M.M. Moser, Binyam. & Aviz.-Hersh. SPECIES
 
 #### Status
 ACCEPTED

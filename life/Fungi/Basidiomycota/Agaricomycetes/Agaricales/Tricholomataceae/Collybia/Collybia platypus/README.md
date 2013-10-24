@@ -1,5 +1,4 @@
-Collybia platypus Kühner SPECIES
-=======
+# Collybia platypus Kühner SPECIES
 
 #### Status
 ACCEPTED

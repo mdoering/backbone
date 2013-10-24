@@ -1,5 +1,4 @@
-Paratomenticola georgiana J.L. Crane & Schokn. SPECIES
-=======
+# Paratomenticola georgiana J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

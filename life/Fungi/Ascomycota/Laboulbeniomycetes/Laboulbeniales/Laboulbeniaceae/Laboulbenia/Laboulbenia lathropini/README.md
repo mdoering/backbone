@@ -1,5 +1,4 @@
-Laboulbenia lathropini var. lathropini VARIETY
-=======
+# Laboulbenia lathropini Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia lathropini var. lathropini
+Laboulbenia lathropini Thaxt.
 
 ### Remarks
 null

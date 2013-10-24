@@ -1,5 +1,4 @@
-Agaricus saccharifer Berk. & Broome SPECIES
-=======
+# Agaricus saccharifer Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

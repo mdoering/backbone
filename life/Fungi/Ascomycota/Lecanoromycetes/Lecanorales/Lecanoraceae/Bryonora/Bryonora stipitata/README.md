@@ -1,5 +1,4 @@
-Bryonora stipitata Poelt SPECIES
-=======
+# Bryonora stipitata Poelt SPECIES
 
 #### Status
 ACCEPTED

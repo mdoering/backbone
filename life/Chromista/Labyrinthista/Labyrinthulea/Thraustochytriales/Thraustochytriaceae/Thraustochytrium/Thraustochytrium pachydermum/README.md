@@ -1,5 +1,4 @@
-Thraustochytrium pachydermum Erh. Scholz, 1958 SPECIES
-=======
+# Thraustochytrium pachydermum Erh. Scholz, 1958 SPECIES
 
 #### Status
 ACCEPTED

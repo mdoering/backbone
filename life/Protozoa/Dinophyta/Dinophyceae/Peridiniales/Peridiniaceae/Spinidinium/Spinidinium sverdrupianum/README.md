@@ -1,5 +1,4 @@
-Spinidinium sverdrupianum (Manum, 1963) Lentin & Williams, 1973 SPECIES
-=======
+# Spinidinium sverdrupianum (Manum, 1963) Lentin & Williams, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium phyteumatis Wagner SPECIES
-=======
+# Coleosporium phyteumatis Wagner SPECIES
 
 #### Status
 ACCEPTED

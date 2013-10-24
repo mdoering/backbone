@@ -1,5 +1,4 @@
-Fusarium gerlachii T. Aoki, Starkey, L.R. Gale, Kistler & O'Donnell SPECIES
-=======
+# Fusarium gerlachii T. Aoki, Starkey, L.R. Gale, Kistler & O'Donnell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora leptaspis Fée SPECIES
-=======
+# Lecanora leptaspis Fée SPECIES
 
 #### Status
 ACCEPTED

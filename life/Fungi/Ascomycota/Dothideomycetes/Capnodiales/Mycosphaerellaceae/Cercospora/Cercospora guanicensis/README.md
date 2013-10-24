@@ -1,5 +1,4 @@
-Cercospora guanicensis E. Young SPECIES
-=======
+# Cercospora guanicensis E. Young SPECIES
 
 #### Status
 ACCEPTED

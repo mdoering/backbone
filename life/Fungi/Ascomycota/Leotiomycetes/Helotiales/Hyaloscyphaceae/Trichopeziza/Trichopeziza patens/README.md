@@ -1,5 +1,4 @@
-Trichopeziza patens Sacc. SPECIES
-=======
+# Trichopeziza patens Sacc. SPECIES
 
 #### Status
 ACCEPTED

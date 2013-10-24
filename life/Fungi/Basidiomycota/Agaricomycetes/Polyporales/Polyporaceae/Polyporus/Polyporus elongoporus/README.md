@@ -1,5 +1,4 @@
-Polyporus elongoporus Drechsler-Santos & Ryvarden SPECIES
-=======
+# Polyporus elongoporus Drechsler-Santos & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

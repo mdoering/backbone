@@ -1,5 +1,4 @@
-Karschia taveliana Rehm SPECIES
-=======
+# Karschia taveliana Rehm SPECIES
 
 #### Status
 ACCEPTED

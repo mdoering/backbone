@@ -1,5 +1,4 @@
-Russula frondosae J. Blum ex Reumaux SPECIES
-=======
+# Russula frondosae J. Blum ex Reumaux SPECIES
 
 #### Status
 ACCEPTED

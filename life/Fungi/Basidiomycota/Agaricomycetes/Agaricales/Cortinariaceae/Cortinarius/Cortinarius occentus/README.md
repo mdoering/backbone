@@ -1,5 +1,4 @@
-Cortinarius occentus E. Horak SPECIES
-=======
+# Cortinarius occentus E. Horak SPECIES
 
 #### Status
 ACCEPTED

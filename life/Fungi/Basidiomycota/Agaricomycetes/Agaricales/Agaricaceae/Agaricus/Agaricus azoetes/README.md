@@ -1,5 +1,4 @@
-Agaricus azoetes K.R. Peterson, Desjardin & Hemmes SPECIES
-=======
+# Agaricus azoetes K.R. Peterson, Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

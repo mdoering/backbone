@@ -1,5 +1,4 @@
-Pluteus stephanobasis Singer SPECIES
-=======
+# Pluteus stephanobasis Singer SPECIES
 
 #### Status
 ACCEPTED

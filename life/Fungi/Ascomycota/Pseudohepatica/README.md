@@ -1,5 +1,4 @@
-Pseudohepatica P.M. Jørg. GENUS
-=======
+# Pseudohepatica P.M. Jørg. GENUS
 
 #### Status
 ACCEPTED

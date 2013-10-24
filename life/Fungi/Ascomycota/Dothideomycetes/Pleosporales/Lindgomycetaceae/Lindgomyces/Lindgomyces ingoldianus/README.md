@@ -1,5 +1,4 @@
-Lindgomyces ingoldianus (Shearer & K.D. Hyde) K. Hirayama, Kaz. Tanaka & Shearer, 2010 SPECIES
-=======
+# Lindgomyces ingoldianus (Shearer & K.D. Hyde) K. Hirayama, Kaz. Tanaka & Shearer, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta dilatata (Nyl.) Vain. SPECIES
-=======
+# Sticta dilatata (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

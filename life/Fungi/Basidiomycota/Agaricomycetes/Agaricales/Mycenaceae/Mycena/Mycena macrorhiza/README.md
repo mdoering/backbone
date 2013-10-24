@@ -1,5 +1,4 @@
-Mycena macrorhiza Fr. SPECIES
-=======
+# Mycena macrorhiza Fr. SPECIES
 
 #### Status
 ACCEPTED

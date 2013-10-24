@@ -1,5 +1,4 @@
-Septobasidium rimulosum Petch & Couch SPECIES
-=======
+# Septobasidium rimulosum Petch & Couch SPECIES
 
 #### Status
 ACCEPTED

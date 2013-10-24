@@ -1,8 +1,7 @@
-Cytophaga marinoflava (ex Colwell et al., 1966) Reichenbach, 1989 SPECIES
-=======
+# Leeuwenhoekiella marinoflava (Reichenbach, 1989) Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

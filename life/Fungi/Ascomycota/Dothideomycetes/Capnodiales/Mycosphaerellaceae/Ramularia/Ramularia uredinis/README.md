@@ -1,5 +1,4 @@
-Ramularia uredinis (W. Voss) Sacc., 1886 SPECIES
-=======
+# Ramularia uredinis (W. Voss) Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

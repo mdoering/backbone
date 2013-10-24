@@ -1,5 +1,4 @@
-Phacidium schizoxylon Fr. SPECIES
-=======
+# Phacidium schizoxylon Fr. SPECIES
 
 #### Status
 ACCEPTED

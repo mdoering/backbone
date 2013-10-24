@@ -1,5 +1,4 @@
-Lichen botryosus (Ach.) Lam. SPECIES
-=======
+# Lichen botryosus (Ach.) Lam. SPECIES
 
 #### Status
 ACCEPTED

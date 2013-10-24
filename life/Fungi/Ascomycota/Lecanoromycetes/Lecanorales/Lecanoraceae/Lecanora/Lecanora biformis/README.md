@@ -1,5 +1,4 @@
-Lecanora biformis (Ramond) Clauzade & Cl. Roux SPECIES
-=======
+# Lecanora biformis (Ramond) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

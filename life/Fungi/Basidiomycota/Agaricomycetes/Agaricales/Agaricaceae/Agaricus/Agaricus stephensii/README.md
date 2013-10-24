@@ -1,5 +1,4 @@
-Agaricus stephensii Berk. SPECIES
-=======
+# Agaricus stephensii Berk. SPECIES
 
 #### Status
 ACCEPTED

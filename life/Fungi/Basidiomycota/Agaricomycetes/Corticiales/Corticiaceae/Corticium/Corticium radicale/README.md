@@ -1,5 +1,4 @@
-Corticium radicale Berk. SPECIES
-=======
+# Corticium radicale Berk. SPECIES
 
 #### Status
 ACCEPTED

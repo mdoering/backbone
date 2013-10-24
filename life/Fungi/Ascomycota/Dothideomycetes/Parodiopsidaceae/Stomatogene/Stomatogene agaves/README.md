@@ -1,14 +1,13 @@
-Asterina agaves Ellis & Everh., 1900 SPECIES
-=======
+# Stomatogene agaves (Ellis & Everh.) Theiss., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 27: 571 (1900)
+null
 
 #### Original name
 Asterina agaves Ellis & Everh., 1900

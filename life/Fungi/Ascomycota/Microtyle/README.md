@@ -1,5 +1,4 @@
-Microtyle Speg. GENUS
-=======
+# Microtyle Speg. GENUS
 
 #### Status
 ACCEPTED

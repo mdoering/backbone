@@ -1,5 +1,4 @@
-Diplodina cydoniae (Schulzer) Sacc. & Trotter SPECIES
-=======
+# Diplodina cydoniae (Schulzer) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

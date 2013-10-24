@@ -1,5 +1,4 @@
-Rotalia schroeteriara Jones & Parker SPECIES
-=======
+# Rotalia schroeteriara Jones & Parker SPECIES
 
 #### Status
 ACCEPTED

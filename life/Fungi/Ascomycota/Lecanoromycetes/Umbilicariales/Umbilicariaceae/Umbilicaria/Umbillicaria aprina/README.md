@@ -1,5 +1,4 @@
-Umbillicaria aprina SPECIES
-=======
+# Umbillicaria aprina SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Anthracoidea verrucosa (Savile) Nannf. SPECIES
-=======
+# Anthracoidea verrucosa (Savile) Nannf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus tamarinii Børgesen SPECIES
-=======
+# Ectocarpus tamarinii Børgesen SPECIES
 
 #### Status
 ACCEPTED

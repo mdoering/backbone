@@ -1,5 +1,4 @@
-Uromyces skottsbergii Jørst. SPECIES
-=======
+# Uromyces skottsbergii Jørst. SPECIES
 
 #### Status
 ACCEPTED

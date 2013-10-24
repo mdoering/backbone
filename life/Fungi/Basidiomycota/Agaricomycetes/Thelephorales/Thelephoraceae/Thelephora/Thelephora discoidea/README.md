@@ -1,5 +1,4 @@
-Thelephora discoidea var. discoidea VARIETY
-=======
+# Thelephora discoidea DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 1: 127 (1822)
 
 #### Original name
-Thelephora discoidea var. discoidea
+Thelephora discoidea DC.
 
 ### Remarks
 null

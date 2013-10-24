@@ -1,5 +1,4 @@
-Myxophacidium GENUS
-=======
+# Myxophacidium GENUS
 
 #### Status
 ACCEPTED

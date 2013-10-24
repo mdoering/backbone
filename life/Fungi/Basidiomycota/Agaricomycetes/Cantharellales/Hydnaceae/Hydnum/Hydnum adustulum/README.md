@@ -1,5 +1,4 @@
-Hydnum adustulum (Banker) Sacc. & Trotter SPECIES
-=======
+# Hydnum adustulum (Banker) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

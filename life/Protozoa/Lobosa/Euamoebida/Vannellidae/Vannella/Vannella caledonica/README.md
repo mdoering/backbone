@@ -1,5 +1,4 @@
-Vannella caledonica Page, 1979 SPECIES
-=======
+# Vannella caledonica Page, 1979 SPECIES
 
 #### Status
 ACCEPTED

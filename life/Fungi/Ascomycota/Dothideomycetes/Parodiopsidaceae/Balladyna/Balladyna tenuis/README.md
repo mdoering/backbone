@@ -1,5 +1,4 @@
-Balladyna tenuis Hansf. SPECIES
-=======
+# Balladyna tenuis Hansf. SPECIES
 
 #### Status
 ACCEPTED

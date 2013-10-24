@@ -1,5 +1,4 @@
-Sphaeria drabae Nyl. SPECIES
-=======
+# Sphaeria drabae Nyl. SPECIES
 
 #### Status
 ACCEPTED

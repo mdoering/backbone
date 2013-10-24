@@ -1,5 +1,4 @@
-Uncinula GENUS
-=======
+# Uncinula GENUS
 
 #### Status
 ACCEPTED

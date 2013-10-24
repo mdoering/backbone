@@ -1,5 +1,4 @@
-Cortinarius everniiformis Rob. Henry SPECIES
-=======
+# Cortinarius everniiformis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

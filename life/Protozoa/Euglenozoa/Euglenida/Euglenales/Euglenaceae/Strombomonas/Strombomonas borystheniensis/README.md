@@ -1,5 +1,4 @@
-Strombomonas borystheniensis (Roll) Popova SPECIES
-=======
+# Strombomonas borystheniensis (Roll) Popova SPECIES
 
 #### Status
 ACCEPTED

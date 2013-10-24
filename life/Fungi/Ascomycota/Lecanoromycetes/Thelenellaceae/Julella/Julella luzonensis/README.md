@@ -1,5 +1,4 @@
-Julella luzonensis Henn. SPECIES
-=======
+# Julella luzonensis Henn. SPECIES
 
 #### Status
 ACCEPTED

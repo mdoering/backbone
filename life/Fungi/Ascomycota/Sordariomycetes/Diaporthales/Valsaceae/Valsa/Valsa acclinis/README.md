@@ -1,5 +1,4 @@
-Valsa acclinis Schwein. SPECIES
-=======
+# Valsa acclinis Schwein. SPECIES
 
 #### Status
 ACCEPTED

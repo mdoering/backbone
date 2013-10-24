@@ -1,5 +1,4 @@
-Cortinarius inflatobulbus (Rob. Henry) Rob. Henry SPECIES
-=======
+# Cortinarius inflatobulbus (Rob. Henry) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niesslia palmicola K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl. SPECIES
-=======
+# Niesslia palmicola K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

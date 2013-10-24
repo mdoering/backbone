@@ -1,5 +1,4 @@
-Phlyctema ipomoeae Ellis & Everh. SPECIES
-=======
+# Phlyctema ipomoeae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

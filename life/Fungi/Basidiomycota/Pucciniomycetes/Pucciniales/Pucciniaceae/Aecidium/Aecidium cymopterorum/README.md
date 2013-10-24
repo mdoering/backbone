@@ -1,5 +1,4 @@
-Aecidium cymopterorum Cockerell SPECIES
-=======
+# Aecidium cymopterorum Cockerell SPECIES
 
 #### Status
 ACCEPTED

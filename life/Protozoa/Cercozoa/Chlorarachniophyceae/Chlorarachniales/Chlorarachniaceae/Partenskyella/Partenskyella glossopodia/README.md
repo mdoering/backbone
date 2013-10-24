@@ -1,5 +1,4 @@
-Partenskyella glossopodia S.Ota, D.Vaulot, F.L.Gall, A.Yabuki & K.Ishida in S. Ohta, D. Vaulot, F. Le Gall, A. Yabuki & K. Ishida, 2009 SPECIES
-=======
+# Partenskyella glossopodia S.Ota, D.Vaulot, F.L.Gall, A.Yabuki & K.Ishida in S. Ohta, D. Vaulot, F. Le Gall, A. Yabuki & K. Ishida, 2009 SPECIES
 
 #### Status
 ACCEPTED

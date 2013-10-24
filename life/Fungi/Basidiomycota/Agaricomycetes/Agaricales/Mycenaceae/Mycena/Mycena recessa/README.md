@@ -1,5 +1,4 @@
-Mycena recessa Maas Geest. & de Meijer SPECIES
-=======
+# Mycena recessa Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

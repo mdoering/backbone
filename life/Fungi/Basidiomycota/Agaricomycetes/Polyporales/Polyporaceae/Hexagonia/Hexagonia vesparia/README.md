@@ -1,17 +1,16 @@
-Polyporus vesparius var. vesparius Berk. VARIETY
-=======
+# Hexagonia vesparia (Berk.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 1 3: 323 (1839)
+Norw. Jl Bot. 19: 232 (1972)
 
 #### Original name
-Polyporus vesparius var. vesparius Berk.
+Polyporus vesparius Berk., 1839
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entyloma deliliae Vánky, Döbbeler & U. Braun, 1992 SPECIES
-=======
+# Entyloma deliliae Vánky, Döbbeler & U. Braun, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus chrysocyclus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus chrysocyclus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Praeyeharaia Kozur, 1996 GENUS
-=======
+# Praeyeharaia Kozur, 1996 GENUS
 
 #### Status
 ACCEPTED

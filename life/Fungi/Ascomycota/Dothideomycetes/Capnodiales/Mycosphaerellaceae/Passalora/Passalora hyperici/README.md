@@ -1,5 +1,4 @@
-Passalora hyperici (Tehon & E.Y. Daniels) U. Braun SPECIES
-=======
+# Passalora hyperici (Tehon & E.Y. Daniels) U. Braun SPECIES
 
 #### Status
 ACCEPTED

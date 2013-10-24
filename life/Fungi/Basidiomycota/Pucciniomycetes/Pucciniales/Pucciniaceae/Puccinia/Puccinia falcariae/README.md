@@ -1,17 +1,16 @@
-Aecidium falcariae var. sii-latifolii Fiedl. VARIETY
-=======
+# Puccinia falcariae (Pers.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 52 (1870)
 
 #### Original name
-Aecidium falcariae var. sii-latifolii Fiedl.
+Aecidium falcariae DC., 1815
 
 ### Remarks
 null

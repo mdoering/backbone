@@ -1,5 +1,4 @@
-Pseudocercosporella viticis (Ellis & Everh.) B.K. Gupta & Kamal SPECIES
-=======
+# Pseudocercosporella viticis (Ellis & Everh.) B.K. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

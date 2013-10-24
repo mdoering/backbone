@@ -1,5 +1,4 @@
-Placidiopsis crassa (Anzi) Clauzade & Cl. Roux SPECIES
-=======
+# Placidiopsis crassa (Anzi) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus paracollinoides Suzuki et al., 2004 SPECIES
-=======
+# Lactobacillus paracollinoides Suzuki et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

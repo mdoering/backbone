@@ -1,5 +1,4 @@
-Fuscopannaria convexa P.M. Jørg. SPECIES
-=======
+# Fuscopannaria convexa P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

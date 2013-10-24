@@ -1,5 +1,4 @@
-Graphina incerta Redinger SPECIES
-=======
+# Graphina incerta Redinger SPECIES
 
 #### Status
 ACCEPTED

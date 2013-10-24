@@ -1,5 +1,4 @@
-Corynites brevis Berk. & M.A. Curtis SPECIES
-=======
+# Corynites brevis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

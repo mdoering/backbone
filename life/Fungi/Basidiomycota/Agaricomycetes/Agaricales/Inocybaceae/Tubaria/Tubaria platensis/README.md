@@ -1,5 +1,4 @@
-Tubaria platensis Speg. SPECIES
-=======
+# Tubaria platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

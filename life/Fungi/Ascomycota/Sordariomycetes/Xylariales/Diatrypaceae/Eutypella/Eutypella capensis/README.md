@@ -1,5 +1,4 @@
-Eutypella capensis Rappaz SPECIES
-=======
+# Eutypella capensis Rappaz SPECIES
 
 #### Status
 ACCEPTED

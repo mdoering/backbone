@@ -1,5 +1,4 @@
-Laboulbenia oodiphila Huldén SPECIES
-=======
+# Laboulbenia oodiphila Huldén SPECIES
 
 #### Status
 ACCEPTED

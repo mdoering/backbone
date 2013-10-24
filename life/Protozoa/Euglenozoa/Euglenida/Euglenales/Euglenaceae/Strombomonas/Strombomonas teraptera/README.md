@@ -1,5 +1,4 @@
-Strombomonas teraptera Balech & Dastugue SPECIES
-=======
+# Strombomonas teraptera Balech & Dastugue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discina montana (Harmaja) Ginns SPECIES
-=======
+# Discina montana (Harmaja) Ginns SPECIES
 
 #### Status
 ACCEPTED

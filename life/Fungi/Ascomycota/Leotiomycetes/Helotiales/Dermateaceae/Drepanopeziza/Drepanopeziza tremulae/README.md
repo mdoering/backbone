@@ -1,5 +1,4 @@
-Drepanopeziza tremulae Rimpau, 1962 SPECIES
-=======
+# Drepanopeziza tremulae Rimpau, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia alismatis Fautrey, 1890 SPECIES
-=======
+# Ramularia alismatis Fautrey, 1890 SPECIES
 
 #### Status
 ACCEPTED

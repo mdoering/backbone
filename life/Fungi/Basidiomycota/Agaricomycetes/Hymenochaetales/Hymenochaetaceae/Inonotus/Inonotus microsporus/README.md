@@ -1,5 +1,4 @@
-Inonotus microsporus Ryvarden, 1999 SPECIES
-=======
+# Inonotus microsporus Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

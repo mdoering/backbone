@@ -1,5 +1,4 @@
-Coccularia Corda GENUS
-=======
+# Coccularia Corda GENUS
 
 #### Status
 ACCEPTED

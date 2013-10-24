@@ -1,5 +1,4 @@
-Cercospora scamba Syd. SPECIES
-=======
+# Cercospora scamba Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharata intermedia Crous & Joanne E. Taylor, 2009 SPECIES
-=======
+# Saccharata intermedia Crous & Joanne E. Taylor, 2009 SPECIES
 
 #### Status
 ACCEPTED

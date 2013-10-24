@@ -1,5 +1,4 @@
-Amazonia karii Hosag. & N.P. Balakr. SPECIES
-=======
+# Amazonia karii Hosag. & N.P. Balakr. SPECIES
 
 #### Status
 ACCEPTED

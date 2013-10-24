@@ -1,5 +1,4 @@
-Podorhabdus reinhardtii D. Bukry SPECIES
-=======
+# Podorhabdus reinhardtii D. Bukry SPECIES
 
 #### Status
 ACCEPTED

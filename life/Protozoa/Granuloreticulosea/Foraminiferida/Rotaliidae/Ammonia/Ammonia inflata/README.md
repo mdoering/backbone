@@ -1,5 +1,4 @@
-Ammonia inflata (Seguenza, 1862) SPECIES
-=======
+# Ammonia inflata (Seguenza, 1862) SPECIES
 
 #### Status
 ACCEPTED

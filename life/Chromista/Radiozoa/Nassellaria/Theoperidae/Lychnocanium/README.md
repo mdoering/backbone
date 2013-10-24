@@ -1,14 +1,13 @@
-Lychnocamum Macdonald, 1871 GENUS
-=======
+# Lychnocanium Ehrenberg, 1847 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ann. Mag. Nat. Hist. , (4) 8, 224.
+Ber. Verh. Preuss. Akad. Wiss. , 1846, Tab. p. 385.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Eupropolella arctostaphyli E. Müll. SPECIES
-=======
+# Eupropolella arctostaphyli E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphelium chlorelloides Anzi SPECIES
-=======
+# Cyphelium chlorelloides Anzi SPECIES
 
 #### Status
 ACCEPTED

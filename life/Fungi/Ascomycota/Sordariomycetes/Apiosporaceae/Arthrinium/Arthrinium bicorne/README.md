@@ -1,5 +1,4 @@
-Arthrinium bicorne Rostr. SPECIES
-=======
+# Arthrinium bicorne Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletinus tridentinus subsp. tridentinus SUBSPECIES
-=======
+# Boletinus tridentinus (Bres.) SPECIES
 
 #### Status
 ACCEPTED

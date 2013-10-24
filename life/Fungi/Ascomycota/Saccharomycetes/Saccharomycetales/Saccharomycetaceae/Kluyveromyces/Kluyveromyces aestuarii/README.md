@@ -1,17 +1,16 @@
-Dekkeromyces aestuarii (Fell) Kock.-Krat., 1982 SPECIES
-=======
+# Kluyveromyces aestuarii (Fell) Van der Walt, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 31: 347 (1965)
 
 #### Original name
-null
+Saccharomyces aestuarii Fell, 1961
 
 ### Remarks
 null

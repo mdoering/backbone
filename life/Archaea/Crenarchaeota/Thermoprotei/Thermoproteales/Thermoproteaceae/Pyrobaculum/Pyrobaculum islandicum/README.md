@@ -1,5 +1,4 @@
-Pyrobaculum islandicum Huber et al., 1988 SPECIES
-=======
+# Pyrobaculum islandicum Huber et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

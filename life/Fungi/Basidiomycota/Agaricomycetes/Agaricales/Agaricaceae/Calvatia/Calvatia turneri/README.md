@@ -1,5 +1,4 @@
-Calvatia turneri (Ellis & Everh.) Demoulin & M. Lange SPECIES
-=======
+# Calvatia turneri (Ellis & Everh.) Demoulin & M. Lange SPECIES
 
 #### Status
 ACCEPTED

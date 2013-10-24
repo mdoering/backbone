@@ -1,5 +1,4 @@
-Peziza chlorina Pers. SPECIES
-=======
+# Peziza chlorina Pers. SPECIES
 
 #### Status
 ACCEPTED

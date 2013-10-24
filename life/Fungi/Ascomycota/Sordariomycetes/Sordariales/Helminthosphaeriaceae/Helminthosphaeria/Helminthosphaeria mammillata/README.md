@@ -1,5 +1,4 @@
-Helminthosphaeria mammillata Réblová SPECIES
-=======
+# Helminthosphaeria mammillata Réblová SPECIES
 
 #### Status
 ACCEPTED

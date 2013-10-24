@@ -1,5 +1,4 @@
-Ramalina xalapensis V. Marcano & A. Morales SPECIES
-=======
+# Ramalina xalapensis V. Marcano & A. Morales SPECIES
 
 #### Status
 ACCEPTED

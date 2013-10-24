@@ -1,5 +1,4 @@
-Phragmopeltheca psidii Bat. & H. Maia SPECIES
-=======
+# Phragmopeltheca psidii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

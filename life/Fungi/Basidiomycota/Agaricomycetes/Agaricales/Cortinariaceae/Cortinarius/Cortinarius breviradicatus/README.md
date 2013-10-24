@@ -1,5 +1,4 @@
-Cortinarius breviradicatus Miyauchi & Fujimoto SPECIES
-=======
+# Cortinarius breviradicatus Miyauchi & Fujimoto SPECIES
 
 #### Status
 ACCEPTED

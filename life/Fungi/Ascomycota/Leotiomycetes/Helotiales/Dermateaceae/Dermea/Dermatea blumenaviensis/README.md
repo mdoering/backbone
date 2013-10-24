@@ -1,5 +1,4 @@
-Dermatea blumenaviensis Henn. SPECIES
-=======
+# Dermatea blumenaviensis Henn. SPECIES
 
 #### Status
 ACCEPTED

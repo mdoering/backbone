@@ -1,5 +1,4 @@
-Lankesterellidae FAMILY
-=======
+# Lankesterellidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium glottidii Ellis & G. Martin SPECIES
-=======
+# Gloeosporium glottidii Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

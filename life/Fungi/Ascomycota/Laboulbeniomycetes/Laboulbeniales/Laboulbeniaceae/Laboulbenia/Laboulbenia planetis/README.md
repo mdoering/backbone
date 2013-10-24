@@ -1,5 +1,4 @@
-Laboulbenia planetis Thaxt. SPECIES
-=======
+# Laboulbenia planetis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria tritici-cristati Lobik SPECIES
-=======
+# Septoria tritici-cristati Lobik SPECIES
 
 #### Status
 ACCEPTED

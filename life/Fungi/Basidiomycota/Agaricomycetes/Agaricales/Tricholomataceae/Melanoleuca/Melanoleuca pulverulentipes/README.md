@@ -1,5 +1,4 @@
-Melanoleuca pulverulentipes Murrill SPECIES
-=======
+# Melanoleuca pulverulentipes Murrill SPECIES
 
 #### Status
 ACCEPTED

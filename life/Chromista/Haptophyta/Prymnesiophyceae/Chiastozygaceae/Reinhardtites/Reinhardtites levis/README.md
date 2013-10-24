@@ -1,5 +1,4 @@
-Reinhardtites levis Prins & Sissingh in Sissingh, 1977 SPECIES
-=======
+# Reinhardtites levis Prins & Sissingh in Sissingh, 1977 SPECIES
 
 #### Status
 ACCEPTED

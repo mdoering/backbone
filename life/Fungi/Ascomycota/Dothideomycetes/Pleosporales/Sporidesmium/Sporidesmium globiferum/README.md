@@ -1,5 +1,4 @@
-Sporidesmium globiferum Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium globiferum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

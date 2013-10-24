@@ -1,5 +1,4 @@
-Palaeocolletotrichum S. Mitra & Manju Banerjee GENUS
-=======
+# Palaeocolletotrichum S. Mitra & Manju Banerjee GENUS
 
 #### Status
 ACCEPTED

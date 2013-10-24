@@ -1,5 +1,4 @@
-Tricornispora bambusae Bonar SPECIES
-=======
+# Tricornispora bambusae Bonar SPECIES
 
 #### Status
 ACCEPTED

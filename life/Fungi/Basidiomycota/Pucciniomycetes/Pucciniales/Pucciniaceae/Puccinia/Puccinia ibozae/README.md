@@ -1,5 +1,4 @@
-Puccinia ibozae Cummins SPECIES
-=======
+# Puccinia ibozae Cummins SPECIES
 
 #### Status
 ACCEPTED

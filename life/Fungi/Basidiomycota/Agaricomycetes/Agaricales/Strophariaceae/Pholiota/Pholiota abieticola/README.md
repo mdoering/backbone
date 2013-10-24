@@ -1,5 +1,4 @@
-Pholiota abieticola A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota abieticola A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

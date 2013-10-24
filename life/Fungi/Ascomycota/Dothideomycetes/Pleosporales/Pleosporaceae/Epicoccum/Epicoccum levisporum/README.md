@@ -1,5 +1,4 @@
-Epicoccum levisporum Pat. SPECIES
-=======
+# Epicoccum levisporum Pat. SPECIES
 
 #### Status
 ACCEPTED

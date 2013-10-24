@@ -1,5 +1,4 @@
-Pyrenopeziza huetteri Magnes & Hafellner SPECIES
-=======
+# Pyrenopeziza huetteri Magnes & Hafellner SPECIES
 
 #### Status
 ACCEPTED

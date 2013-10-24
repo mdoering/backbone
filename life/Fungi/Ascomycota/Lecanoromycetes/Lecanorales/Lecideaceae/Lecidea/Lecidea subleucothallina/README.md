@@ -1,5 +1,4 @@
-Lecidea subleucothallina Mas. Inoue SPECIES
-=======
+# Lecidea subleucothallina Mas. Inoue SPECIES
 
 #### Status
 ACCEPTED

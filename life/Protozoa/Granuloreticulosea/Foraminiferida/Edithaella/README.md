@@ -1,5 +1,4 @@
-Edithaella Fuchs, 1967 GENUS
-=======
+# Edithaella Fuchs, 1967 GENUS
 
 #### Status
 ACCEPTED

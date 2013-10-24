@@ -1,5 +1,4 @@
-Heyderia americana Sacc. & Ellis, 1882 SPECIES
-=======
+# Heyderia americana Sacc. & Ellis, 1882 SPECIES
 
 #### Status
 ACCEPTED

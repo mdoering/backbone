@@ -1,5 +1,4 @@
-Archippus packardianus GV SPECIES
-=======
+# Archippus packardianus GV SPECIES
 
 #### Status
 ACCEPTED

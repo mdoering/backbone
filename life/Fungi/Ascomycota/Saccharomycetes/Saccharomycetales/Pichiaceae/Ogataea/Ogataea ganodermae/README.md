@@ -1,5 +1,4 @@
-Ogataea ganodermae F.Y. Bai & Z.H. Ji, 2008 SPECIES
-=======
+# Ogataea ganodermae F.Y. Bai & Z.H. Ji, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psammophax consociata Rhumbler, 1931 SPECIES
-=======
+# Psammophax consociata Rhumbler, 1931 SPECIES
 
 #### Status
 ACCEPTED

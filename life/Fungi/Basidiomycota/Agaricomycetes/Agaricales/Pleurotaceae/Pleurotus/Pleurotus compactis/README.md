@@ -1,5 +1,4 @@
-Pleurotus compactis Herp. SPECIES
-=======
+# Pleurotus compactis Herp. SPECIES
 
 #### Status
 ACCEPTED

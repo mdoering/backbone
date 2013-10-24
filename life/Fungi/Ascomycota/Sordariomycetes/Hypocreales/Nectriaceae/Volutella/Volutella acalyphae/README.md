@@ -1,5 +1,4 @@
-Volutella acalyphae G.F. Atk. SPECIES
-=======
+# Volutella acalyphae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

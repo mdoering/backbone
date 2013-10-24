@@ -1,5 +1,4 @@
-Ochrosporellus GENUS
-=======
+# Ochrosporellus GENUS
 
 #### Status
 ACCEPTED

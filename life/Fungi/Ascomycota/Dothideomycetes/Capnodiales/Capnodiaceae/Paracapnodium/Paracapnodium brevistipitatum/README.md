@@ -1,5 +1,4 @@
-Paracapnodium brevistipitatum Bat., Cif. & H. Maia SPECIES
-=======
+# Paracapnodium brevistipitatum Bat., Cif. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

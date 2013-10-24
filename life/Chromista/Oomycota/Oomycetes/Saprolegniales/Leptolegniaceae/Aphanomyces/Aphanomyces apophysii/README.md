@@ -1,5 +1,4 @@
-Aphanomyces apophysii Lacy SPECIES
-=======
+# Aphanomyces apophysii Lacy SPECIES
 
 #### Status
 ACCEPTED

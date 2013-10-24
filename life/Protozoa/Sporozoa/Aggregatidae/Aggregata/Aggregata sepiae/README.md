@@ -1,5 +1,4 @@
-Aggregata sepiae (Lankester, 1863) SPECIES
-=======
+# Aggregata sepiae (Lankester, 1863) SPECIES
 
 #### Status
 ACCEPTED

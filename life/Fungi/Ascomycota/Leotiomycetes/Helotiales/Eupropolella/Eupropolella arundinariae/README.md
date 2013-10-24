@@ -1,14 +1,13 @@
-Sphaeropezia arundinariae E.K. Cash, 1940 SPECIES
-=======
+# Eupropolella arundinariae (E.K. Cash) Dennis, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Wash. Acad. Sci. 30: 300 (1940)
+Kew Bull. 30(2): 361 (1975)
 
 #### Original name
 Sphaeropezia arundinariae E.K. Cash, 1940

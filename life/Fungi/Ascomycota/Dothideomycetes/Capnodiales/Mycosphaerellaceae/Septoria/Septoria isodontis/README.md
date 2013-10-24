@@ -1,5 +1,4 @@
-Septoria isodontis Sawada SPECIES
-=======
+# Septoria isodontis Sawada SPECIES
 
 #### Status
 ACCEPTED

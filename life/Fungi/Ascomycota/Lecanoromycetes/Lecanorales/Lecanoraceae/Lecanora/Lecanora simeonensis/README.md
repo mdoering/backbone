@@ -1,5 +1,4 @@
-Lecanora simeonensis K. Knudsen & Lendemer SPECIES
-=======
+# Lecanora simeonensis K. Knudsen & Lendemer SPECIES
 
 #### Status
 ACCEPTED

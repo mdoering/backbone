@@ -1,17 +1,16 @@
-Psilocybe jacobsi Guzmán SPECIES
-=======
+# Psilocybe jacobsii Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 74: 133 (1983)
 
 #### Original name
-Psilocybe jacobsi Guzmán
+Psilocybe jacobsii Guzmán
 
 ### Remarks
 null

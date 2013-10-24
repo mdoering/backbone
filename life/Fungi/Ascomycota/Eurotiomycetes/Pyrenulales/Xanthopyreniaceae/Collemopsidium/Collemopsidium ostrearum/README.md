@@ -1,14 +1,13 @@
-Arthoniactis ostrearum (Vain.) Clem. & Shear SPECIES
-=======
+# Collemopsidium ostrearum (Vain.) F. Mohr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Mohr, Ekman & Heegaard, Mycol. Res. 108(5): 530 (2004)
 
 #### Original name
 null

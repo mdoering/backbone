@@ -1,5 +1,4 @@
-Crinipellis eggersii var. eggersii VARIETY
-=======
+# Crinipellis eggersii Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Crinipellis eggersii var. eggersii
+Crinipellis eggersii Pat.
 
 ### Remarks
 null

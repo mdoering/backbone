@@ -1,5 +1,4 @@
-Torrendiella andina P.R. Johnst. & Gamundí, 2000 SPECIES
-=======
+# Torrendiella andina P.R. Johnst. & Gamundí, 2000 SPECIES
 
 #### Status
 ACCEPTED

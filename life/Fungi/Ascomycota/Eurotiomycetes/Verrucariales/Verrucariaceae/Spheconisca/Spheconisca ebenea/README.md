@@ -1,5 +1,4 @@
-Spheconisca ebenea Norman SPECIES
-=======
+# Spheconisca ebenea Norman SPECIES
 
 #### Status
 ACCEPTED

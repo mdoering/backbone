@@ -1,5 +1,4 @@
-Cortinarius helodes M.M. Moser, Matheny & Daniele SPECIES
-=======
+# Cortinarius helodes M.M. Moser, Matheny & Daniele SPECIES
 
 #### Status
 ACCEPTED

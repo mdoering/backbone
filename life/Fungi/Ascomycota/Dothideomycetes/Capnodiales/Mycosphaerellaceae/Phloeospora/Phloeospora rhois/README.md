@@ -1,5 +1,4 @@
-Phloeospora rhois E. Castell. SPECIES
-=======
+# Phloeospora rhois E. Castell. SPECIES
 
 #### Status
 ACCEPTED

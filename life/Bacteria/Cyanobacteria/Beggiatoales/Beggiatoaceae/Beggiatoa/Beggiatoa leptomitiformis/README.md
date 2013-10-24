@@ -1,5 +1,4 @@
-Beggiatoa leptomitiformis Trevisan SPECIES
-=======
+# Beggiatoa leptomitiformis Trevisan SPECIES
 
 #### Status
 ACCEPTED

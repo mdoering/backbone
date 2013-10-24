@@ -1,5 +1,4 @@
-Rhizophydium vonmindenii Valkanov SPECIES
-=======
+# Rhizophydium vonmindenii Valkanov SPECIES
 
 #### Status
 ACCEPTED

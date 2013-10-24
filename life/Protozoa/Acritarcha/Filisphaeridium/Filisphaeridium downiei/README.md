@@ -1,5 +1,4 @@
-Filisphaeridium downiei Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium downiei Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

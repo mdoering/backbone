@@ -1,5 +1,4 @@
-Mycena flava Murrill SPECIES
-=======
+# Mycena flava Murrill SPECIES
 
 #### Status
 ACCEPTED

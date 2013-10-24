@@ -1,14 +1,13 @@
-Tuburcinia paridis (Unger) Vestergr., 1896 SPECIES
-=======
+# Urocystis paridis (Unger) Thüm., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Woronin, Abh. senckenb. naturforsch. Ges. 12: 573 (1882)
 
 #### Original name
 Protomyces paridis Unger, 1834

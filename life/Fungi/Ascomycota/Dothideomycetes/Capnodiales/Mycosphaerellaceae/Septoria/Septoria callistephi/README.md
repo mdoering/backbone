@@ -1,5 +1,4 @@
-Septoria callistephi Gloyer SPECIES
-=======
+# Septoria callistephi Gloyer SPECIES
 
 #### Status
 ACCEPTED

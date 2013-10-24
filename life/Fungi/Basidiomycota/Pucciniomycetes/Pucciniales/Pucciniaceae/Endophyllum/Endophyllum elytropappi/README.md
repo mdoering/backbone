@@ -1,5 +1,4 @@
-Endophyllum elytropappi (Henn.) A.R. Wood & Crous, 2005 SPECIES
-=======
+# Endophyllum elytropappi (Henn.) A.R. Wood & Crous, 2005 SPECIES
 
 #### Status
 ACCEPTED

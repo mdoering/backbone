@@ -1,5 +1,4 @@
-Cerotelium bignoniacearum W.T. Dale SPECIES
-=======
+# Cerotelium bignoniacearum W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

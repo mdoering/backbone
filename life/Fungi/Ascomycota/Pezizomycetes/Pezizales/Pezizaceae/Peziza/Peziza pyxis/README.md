@@ -1,5 +1,4 @@
-Peziza pyxis Batsch SPECIES
-=======
+# Peziza pyxis Batsch SPECIES
 
 #### Status
 ACCEPTED

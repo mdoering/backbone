@@ -1,5 +1,4 @@
-Phyllosticta cochlospermi Patw. & Sathe SPECIES
-=======
+# Phyllosticta cochlospermi Patw. & Sathe SPECIES
 
 #### Status
 ACCEPTED

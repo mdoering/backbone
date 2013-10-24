@@ -1,5 +1,4 @@
-Laguncula montrisouensis SPECIES
-=======
+# Laguncula montrisouensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta crypta Bissett SPECIES
-=======
+# Phyllosticta crypta Bissett SPECIES
 
 #### Status
 ACCEPTED

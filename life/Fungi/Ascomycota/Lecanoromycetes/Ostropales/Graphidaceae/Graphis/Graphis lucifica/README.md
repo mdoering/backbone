@@ -1,5 +1,4 @@
-Graphis lucifica R.C. Harris SPECIES
-=======
+# Graphis lucifica R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

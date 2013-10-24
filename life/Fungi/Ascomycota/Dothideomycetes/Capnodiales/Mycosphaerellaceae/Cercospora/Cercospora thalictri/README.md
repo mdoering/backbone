@@ -1,5 +1,4 @@
-Cercospora thalictri Thüm. SPECIES
-=======
+# Cercospora thalictri Thüm. SPECIES
 
 #### Status
 ACCEPTED

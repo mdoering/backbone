@@ -1,5 +1,4 @@
-Gyalectidium australe Lücking SPECIES
-=======
+# Gyalectidium australe Lücking SPECIES
 
 #### Status
 ACCEPTED

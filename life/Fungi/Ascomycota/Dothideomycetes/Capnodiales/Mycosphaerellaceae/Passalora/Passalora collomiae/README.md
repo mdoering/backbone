@@ -1,5 +1,4 @@
-Passalora collomiae (U. Braun & Rogerson) U. Braun & Crous SPECIES
-=======
+# Passalora collomiae (U. Braun & Rogerson) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

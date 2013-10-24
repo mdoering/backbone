@@ -1,5 +1,4 @@
-Polyporus oblectabilis Lloyd SPECIES
-=======
+# Polyporus oblectabilis Lloyd SPECIES
 
 #### Status
 ACCEPTED

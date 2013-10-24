@@ -1,5 +1,4 @@
-Phryganella Penard, 1902 GENUS
-=======
+# Phryganella Penard, 1902 GENUS
 
 #### Status
 ACCEPTED

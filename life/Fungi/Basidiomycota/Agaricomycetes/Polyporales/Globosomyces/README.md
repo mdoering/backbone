@@ -1,5 +1,4 @@
-Globosomyces Jülich GENUS
-=======
+# Globosomyces Jülich GENUS
 
 #### Status
 ACCEPTED

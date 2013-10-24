@@ -1,17 +1,16 @@
-Caudina Dzhanelidze & Kusina in Dzhanelidze, 1968 GENUS
-=======
+# Gorisella Dzhanelidze, 1980 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Dzhanelidze 1970, Foraminifera of the Lower Middle Miocene of Georgia. Inst. Paleobiol. , Akad. Nauk Gruzinsk. SSR, Tbilisi: 119.
+Paleontologicheskii Zh. 1980 (4): 123.
 
 #### Original name
-null
+Caudina Dzhanelidze & Kusina in Dzhanelidze, 1968
 
 ### Remarks
 null

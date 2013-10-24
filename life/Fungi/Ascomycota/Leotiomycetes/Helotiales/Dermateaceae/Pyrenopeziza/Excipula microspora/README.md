@@ -1,5 +1,4 @@
-Excipula microspora Cooke & Ellis SPECIES
-=======
+# Excipula microspora Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

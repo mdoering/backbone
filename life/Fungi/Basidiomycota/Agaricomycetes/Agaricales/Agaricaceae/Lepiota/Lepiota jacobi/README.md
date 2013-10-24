@@ -1,17 +1,16 @@
-Echinoderma jacobi (Vellinga & Knudsen) Gminder, 2003 SPECIES
-=======
+# Lepiota jacobi Vellinga & Knudsen, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Großpilze Baden-Württembergs (Stuttgart), <b>4</b>. Ständerpilze: Blätterpilze II 443 (2003)
+in Vellinga, Persoonia 14(4): 407 (1992)
 
 #### Original name
-Lepiota jacobi Vellinga & Knudsen, 1992
+Lepiota langei Locq., 1945
 
 ### Remarks
 null

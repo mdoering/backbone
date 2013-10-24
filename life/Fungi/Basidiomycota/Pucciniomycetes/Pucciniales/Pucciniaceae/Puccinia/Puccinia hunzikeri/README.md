@@ -1,5 +1,4 @@
-Puccinia hunzikeri J.C. Lindq. SPECIES
-=======
+# Puccinia hunzikeri J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

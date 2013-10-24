@@ -1,5 +1,4 @@
-Aspicilia rubiginosa (Kremp.) Hue SPECIES
-=======
+# Aspicilia rubiginosa (Kremp.) Hue SPECIES
 
 #### Status
 ACCEPTED

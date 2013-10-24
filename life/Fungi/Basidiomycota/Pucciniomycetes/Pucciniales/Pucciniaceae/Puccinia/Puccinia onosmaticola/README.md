@@ -1,5 +1,4 @@
-Puccinia onosmaticola Gjaerum & Bahç. SPECIES
-=======
+# Puccinia onosmaticola Gjaerum & Bahç. SPECIES
 
 #### Status
 ACCEPTED

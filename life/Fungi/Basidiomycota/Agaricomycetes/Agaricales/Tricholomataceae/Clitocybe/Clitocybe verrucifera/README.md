@@ -1,5 +1,4 @@
-Clitocybe verrucifera Velen. SPECIES
-=======
+# Clitocybe verrucifera Velen. SPECIES
 
 #### Status
 ACCEPTED

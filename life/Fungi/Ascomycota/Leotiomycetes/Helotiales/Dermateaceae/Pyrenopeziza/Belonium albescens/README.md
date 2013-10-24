@@ -1,5 +1,4 @@
-Belonium albescens (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Belonium albescens (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

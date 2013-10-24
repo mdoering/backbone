@@ -1,5 +1,4 @@
-Placus ovum Kahl, 1926 SPECIES
-=======
+# Placus ovum Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

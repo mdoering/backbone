@@ -1,5 +1,4 @@
-Plagiostoma mirabile (Peck) M.E. Barr SPECIES
-=======
+# Plagiostoma mirabile (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

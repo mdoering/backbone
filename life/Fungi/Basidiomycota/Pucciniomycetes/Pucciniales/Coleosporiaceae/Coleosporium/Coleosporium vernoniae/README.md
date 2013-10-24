@@ -1,5 +1,4 @@
-Coleosporium vernoniae Berk. & M.A. Curtis SPECIES
-=======
+# Coleosporium vernoniae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perenniporia albocinnamomea Corner, 1989 SPECIES
-=======
+# Perenniporia albocinnamomea Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

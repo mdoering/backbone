@@ -1,5 +1,4 @@
-Agaricus kuehnerianus Heinem. SPECIES
-=======
+# Agaricus kuehnerianus Heinem. SPECIES
 
 #### Status
 ACCEPTED

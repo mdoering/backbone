@@ -1,5 +1,4 @@
-Dinophysis longialata Gran & Braarud, 1935 SPECIES
-=======
+# Dinophysis longialata Gran & Braarud, 1935 SPECIES
 
 #### Status
 ACCEPTED

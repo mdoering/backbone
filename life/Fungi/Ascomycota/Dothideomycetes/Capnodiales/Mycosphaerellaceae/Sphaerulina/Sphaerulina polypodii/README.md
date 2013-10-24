@@ -1,5 +1,4 @@
-Sphaerulina polypodii Aggéry SPECIES
-=======
+# Sphaerulina polypodii Aggéry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrogenobacter Kawasumi et al., 1984 GENUS
-=======
+# Hydrogenobacter Kawasumi et al., 1984 GENUS
 
 #### Status
 ACCEPTED

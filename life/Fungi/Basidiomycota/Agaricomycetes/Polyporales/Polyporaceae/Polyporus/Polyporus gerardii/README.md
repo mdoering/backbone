@@ -1,14 +1,13 @@
-Polyporus gerardi (Berk. & M.A. Curtis) Rick SPECIES
-=======
+# Polyporus gerardii (Berk. & M.A. Curtis) Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Rambo (Ed. ), Iheringia, Sér. Bot. 7: 220 (1960)
 
 #### Original name
 Polystictus gerardii Berk. & M.A. Curtis

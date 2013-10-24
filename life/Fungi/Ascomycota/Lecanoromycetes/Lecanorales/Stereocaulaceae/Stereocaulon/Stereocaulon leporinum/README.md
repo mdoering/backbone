@@ -1,5 +1,4 @@
-Stereocaulon leporinum Th. Fr. SPECIES
-=======
+# Stereocaulon leporinum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

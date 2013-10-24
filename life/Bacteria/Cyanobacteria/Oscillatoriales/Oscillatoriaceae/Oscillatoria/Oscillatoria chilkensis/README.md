@@ -1,5 +1,4 @@
-Oscillatoria chilkensis Biswas SPECIES
-=======
+# Oscillatoria chilkensis Biswas SPECIES
 
 #### Status
 ACCEPTED

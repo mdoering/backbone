@@ -1,5 +1,4 @@
-Trematosphaeria ischnosiphonis Henn. SPECIES
-=======
+# Trematosphaeria ischnosiphonis Henn. SPECIES
 
 #### Status
 ACCEPTED

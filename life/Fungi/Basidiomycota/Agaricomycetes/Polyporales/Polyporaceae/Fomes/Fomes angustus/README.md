@@ -1,5 +1,4 @@
-Fomes angustus (Berk.) Sacc. SPECIES
-=======
+# Fomes angustus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

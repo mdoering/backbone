@@ -1,5 +1,4 @@
-Opegrapha tunetana B. de Lesd. SPECIES
-=======
+# Opegrapha tunetana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

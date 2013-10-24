@@ -1,5 +1,4 @@
-Griphosphaerioma Höhn. GENUS
-=======
+# Griphosphaerioma Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina gibbosa A. Massal. SPECIES
-=======
+# Porina gibbosa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

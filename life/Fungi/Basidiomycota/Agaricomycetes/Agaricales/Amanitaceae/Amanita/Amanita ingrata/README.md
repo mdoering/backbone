@@ -1,5 +1,4 @@
-Amanita ingrata Pegler SPECIES
-=======
+# Amanita ingrata Pegler SPECIES
 
 #### Status
 ACCEPTED

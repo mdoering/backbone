@@ -1,5 +1,4 @@
-Acaulospora entreriana M.S. Velazquez & Cabello SPECIES
-=======
+# Acaulospora entreriana M.S. Velazquez & Cabello SPECIES
 
 #### Status
 ACCEPTED

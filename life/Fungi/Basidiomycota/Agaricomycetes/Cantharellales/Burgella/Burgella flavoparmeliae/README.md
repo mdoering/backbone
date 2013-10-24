@@ -1,5 +1,4 @@
-Burgella flavoparmeliae Diederich & Lawrey, 2007 SPECIES
-=======
+# Burgella flavoparmeliae Diederich & Lawrey, 2007 SPECIES
 
 #### Status
 ACCEPTED

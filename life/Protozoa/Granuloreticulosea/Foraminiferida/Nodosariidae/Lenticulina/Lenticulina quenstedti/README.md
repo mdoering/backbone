@@ -1,5 +1,4 @@
-Lenticulina quenstedti (Gumbel) SPECIES
-=======
+# Lenticulina quenstedti (Gumbel) SPECIES
 
 #### Status
 ACCEPTED

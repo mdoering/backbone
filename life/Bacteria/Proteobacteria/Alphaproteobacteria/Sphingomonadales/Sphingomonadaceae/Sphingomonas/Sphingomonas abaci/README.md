@@ -1,5 +1,4 @@
-Sphingomonas abaci Busse et al., 2005 SPECIES
-=======
+# Sphingomonas abaci Busse et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

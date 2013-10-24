@@ -1,5 +1,4 @@
-Septoria crotalariae Viégas SPECIES
-=======
+# Septoria crotalariae Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venenivibrio Hetzer et al., 2008 GENUS
-=======
+# Venenivibrio Hetzer et al., 2008 GENUS
 
 #### Status
 ACCEPTED

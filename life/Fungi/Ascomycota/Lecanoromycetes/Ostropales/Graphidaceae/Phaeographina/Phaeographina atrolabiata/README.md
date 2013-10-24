@@ -1,5 +1,4 @@
-Phaeographina atrolabiata Redinger SPECIES
-=======
+# Phaeographina atrolabiata Redinger SPECIES
 
 #### Status
 ACCEPTED

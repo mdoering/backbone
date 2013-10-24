@@ -1,5 +1,4 @@
-Alternaria loofahae E.G. Simmons & Aragaki SPECIES
-=======
+# Alternaria loofahae E.G. Simmons & Aragaki SPECIES
 
 #### Status
 ACCEPTED

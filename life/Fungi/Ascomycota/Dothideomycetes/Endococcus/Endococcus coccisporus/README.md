@@ -1,5 +1,4 @@
-Endococcus coccisporus Norman SPECIES
-=======
+# Endococcus coccisporus Norman SPECIES
 
 #### Status
 ACCEPTED

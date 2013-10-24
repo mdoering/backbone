@@ -1,5 +1,4 @@
-Dialonectria fuckelii (Sacc.) Cooke SPECIES
-=======
+# Dialonectria fuckelii (Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

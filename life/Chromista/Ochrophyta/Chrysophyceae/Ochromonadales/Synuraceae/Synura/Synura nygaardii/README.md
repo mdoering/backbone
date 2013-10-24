@@ -1,5 +1,4 @@
-Synura nygaardii (J. B. Petersen & J. B. Hansen) J. Kristiansen SPECIES
-=======
+# Synura nygaardii (J. B. Petersen & J. B. Hansen) J. Kristiansen SPECIES
 
 #### Status
 ACCEPTED

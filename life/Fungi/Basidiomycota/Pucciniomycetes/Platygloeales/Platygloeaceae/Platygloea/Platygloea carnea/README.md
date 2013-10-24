@@ -1,5 +1,4 @@
-Platygloea carnea Pat. SPECIES
-=======
+# Platygloea carnea Pat. SPECIES
 
 #### Status
 ACCEPTED

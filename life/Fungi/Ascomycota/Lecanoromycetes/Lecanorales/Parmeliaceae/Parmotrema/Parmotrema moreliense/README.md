@@ -1,17 +1,16 @@
-Parmelia moreliensis B. de Lesd. SPECIES
-=======
+# Parmotrema moreliense (B. de Lesd.) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 84(3): 310 (1981)
 
 #### Original name
-null
+Parmelia moreliensis B. de Lesd.
 
 ### Remarks
 null

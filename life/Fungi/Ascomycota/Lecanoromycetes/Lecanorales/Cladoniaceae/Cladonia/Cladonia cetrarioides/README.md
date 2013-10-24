@@ -1,5 +1,4 @@
-Cladonia cetrarioides Schwein. SPECIES
-=======
+# Cladonia cetrarioides Schwein. SPECIES
 
 #### Status
 ACCEPTED

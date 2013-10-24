@@ -1,5 +1,4 @@
-Dicaeoma paradoxopodum (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma paradoxopodum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

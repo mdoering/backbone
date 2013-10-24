@@ -1,5 +1,4 @@
-Endopyrenium bohlinii (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Endopyrenium bohlinii (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

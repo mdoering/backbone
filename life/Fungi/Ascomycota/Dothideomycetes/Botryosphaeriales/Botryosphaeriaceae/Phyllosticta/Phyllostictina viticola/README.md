@@ -1,5 +1,4 @@
-Phyllostictina viticola (Berk. & M.A. Curtis) Petr. SPECIES
-=======
+# Phyllostictina viticola (Berk. & M.A. Curtis) Petr. SPECIES
 
 #### Status
 ACCEPTED

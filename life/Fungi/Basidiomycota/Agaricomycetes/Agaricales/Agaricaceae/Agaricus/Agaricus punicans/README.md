@@ -1,5 +1,4 @@
-Agaricus punicans Britzelm. SPECIES
-=======
+# Agaricus punicans Britzelm. SPECIES
 
 #### Status
 ACCEPTED

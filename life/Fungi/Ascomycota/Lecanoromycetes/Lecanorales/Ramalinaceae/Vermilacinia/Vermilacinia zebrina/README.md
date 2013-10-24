@@ -1,5 +1,4 @@
-Vermilacinia zebrina Spjut SPECIES
-=======
+# Vermilacinia zebrina Spjut SPECIES
 
 #### Status
 ACCEPTED

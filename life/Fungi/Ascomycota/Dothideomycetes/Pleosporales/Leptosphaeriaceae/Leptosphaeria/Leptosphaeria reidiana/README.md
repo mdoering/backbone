@@ -1,5 +1,4 @@
-Leptosphaeria reidiana Syd., 1924 SPECIES
-=======
+# Leptosphaeria reidiana Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

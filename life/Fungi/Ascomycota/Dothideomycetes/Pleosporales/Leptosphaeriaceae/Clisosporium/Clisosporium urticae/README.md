@@ -1,5 +1,4 @@
-Clisosporium urticae (Bonord.) Bonord. SPECIES
-=======
+# Clisosporium urticae (Bonord.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma cucubali-bacciferi Allesch. SPECIES
-=======
+# Phoma cucubali-bacciferi Allesch. SPECIES
 
 #### Status
 ACCEPTED

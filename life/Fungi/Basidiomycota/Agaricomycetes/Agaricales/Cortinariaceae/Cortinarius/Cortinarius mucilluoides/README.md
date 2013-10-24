@@ -1,5 +1,4 @@
-Cortinarius mucilluoides SPECIES
-=======
+# Cortinarius mucilluoides SPECIES
 
 #### Status
 ACCEPTED

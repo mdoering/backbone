@@ -1,5 +1,4 @@
-Bursaria vvorticella SPECIES
-=======
+# Bursaria vvorticella SPECIES
 
 #### Status
 ACCEPTED

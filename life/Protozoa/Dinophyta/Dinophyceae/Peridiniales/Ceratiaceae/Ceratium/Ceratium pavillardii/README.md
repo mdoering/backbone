@@ -1,5 +1,4 @@
-Ceratium pavillardii E.G. Jørgensen SPECIES
-=======
+# Ceratium pavillardii E.G. Jørgensen SPECIES
 
 #### Status
 ACCEPTED

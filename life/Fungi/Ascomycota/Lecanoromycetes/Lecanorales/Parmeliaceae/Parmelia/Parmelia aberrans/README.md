@@ -1,5 +1,4 @@
-Parmelia aberrans (Vain.) Abbayes SPECIES
-=======
+# Parmelia aberrans (Vain.) Abbayes SPECIES
 
 #### Status
 ACCEPTED

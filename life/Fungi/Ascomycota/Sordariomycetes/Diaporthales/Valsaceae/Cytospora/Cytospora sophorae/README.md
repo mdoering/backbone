@@ -1,5 +1,4 @@
-Cytospora sophorae Bres. SPECIES
-=======
+# Cytospora sophorae Bres. SPECIES
 
 #### Status
 ACCEPTED

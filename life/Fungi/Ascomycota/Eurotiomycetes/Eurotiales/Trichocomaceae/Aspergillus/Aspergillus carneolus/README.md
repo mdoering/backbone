@@ -1,5 +1,4 @@
-Aspergillus carneolus Sacc. SPECIES
-=======
+# Aspergillus carneolus Sacc. SPECIES
 
 #### Status
 ACCEPTED

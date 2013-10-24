@@ -1,5 +1,4 @@
-Zoothamnium foissneri Ji, Song, Al-Rasheid & Sun, 2005 SPECIES
-=======
+# Zoothamnium foissneri Ji, Song, Al-Rasheid & Sun, 2005 SPECIES
 
 #### Status
 ACCEPTED

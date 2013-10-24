@@ -1,5 +1,4 @@
-Entoloma testaceostrigosum Manim. & Noordel. SPECIES
-=======
+# Entoloma testaceostrigosum Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

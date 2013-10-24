@@ -1,5 +1,4 @@
-Cortinarius crustulinicolor (Bon & Gaugué) Bidaud, Moënne-Locc., Reumaux & Rob. Henry SPECIES
-=======
+# Cortinarius crustulinicolor (Bon & Gaugué) Bidaud, Moënne-Locc., Reumaux & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

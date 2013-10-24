@@ -1,5 +1,4 @@
-Escherichia pseudocoloides SPECIES
-=======
+# Escherichia pseudocoloides SPECIES
 
 #### Status
 ACCEPTED

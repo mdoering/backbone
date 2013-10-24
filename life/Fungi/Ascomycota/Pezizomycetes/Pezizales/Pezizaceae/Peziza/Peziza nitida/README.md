@@ -1,5 +1,4 @@
-Peziza nitida Saut. SPECIES
-=======
+# Peziza nitida Saut. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ambitropus Lipps, 1965 GENUS
-=======
+# Ambitropus Lipps, 1965 GENUS
 
 #### Status
 ACCEPTED

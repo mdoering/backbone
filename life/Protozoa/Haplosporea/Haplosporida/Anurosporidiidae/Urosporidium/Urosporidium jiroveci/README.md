@@ -1,5 +1,4 @@
-Urosporidium jiroveci Ormières, Sprague & Bertoli, 1973 SPECIES
-=======
+# Urosporidium jiroveci Ormières, Sprague & Bertoli, 1973 SPECIES
 
 #### Status
 ACCEPTED

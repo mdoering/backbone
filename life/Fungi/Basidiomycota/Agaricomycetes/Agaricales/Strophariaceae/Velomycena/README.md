@@ -1,5 +1,4 @@
-Velomycena GENUS
-=======
+# Velomycena GENUS
 
 #### Status
 ACCEPTED

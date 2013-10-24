@@ -1,5 +1,4 @@
-Zignoëlla dubyi (De Not.) Sacc. SPECIES
-=======
+# Zignoëlla dubyi (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

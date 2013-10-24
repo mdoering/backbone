@@ -1,5 +1,4 @@
-Parmeliella rosettiformis (Henssen) P. M. Jørg. SPECIES
-=======
+# Parmeliella rosettiformis (Henssen) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta strictula (Delise) Trevis. SPECIES
-=======
+# Sticta strictula (Delise) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium myopori G. Cunn., 1924 SPECIES
-=======
+# Aecidium myopori G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

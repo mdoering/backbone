@@ -1,5 +1,4 @@
-Dendrosarcus glandulosus (Bull.) Kuntze SPECIES
-=======
+# Dendrosarcus glandulosus (Bull.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

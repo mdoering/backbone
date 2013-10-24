@@ -1,5 +1,4 @@
-Anzia colpodes (Ach.) Stizenb. SPECIES
-=======
+# Anzia colpodes (Ach.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

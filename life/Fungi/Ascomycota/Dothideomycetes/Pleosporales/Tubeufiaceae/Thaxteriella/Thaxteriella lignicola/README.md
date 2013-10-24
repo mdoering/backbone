@@ -1,5 +1,4 @@
-Thaxteriella lignicola Teng SPECIES
-=======
+# Thaxteriella lignicola Teng SPECIES
 
 #### Status
 ACCEPTED

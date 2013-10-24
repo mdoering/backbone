@@ -1,5 +1,4 @@
-Porina vaga (Nyl.) Müll. Arg. SPECIES
-=======
+# Porina vaga (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

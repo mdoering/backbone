@@ -1,5 +1,4 @@
-Amanita granulata Zvára SPECIES
-=======
+# Amanita granulata Zvára SPECIES
 
 #### Status
 ACCEPTED

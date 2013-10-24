@@ -1,5 +1,4 @@
-Dictyochaeta Spegazzini, 1923 GENUS
-=======
+# Dictyochaeta Spegazzini, 1923 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilagopsis GENUS
-=======
+# Ustilagopsis GENUS
 
 #### Status
 ACCEPTED

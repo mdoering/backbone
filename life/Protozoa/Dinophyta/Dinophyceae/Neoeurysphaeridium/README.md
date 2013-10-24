@@ -1,5 +1,4 @@
-Neoeurysphaeridium Slimani, 1994 GENUS
-=======
+# Neoeurysphaeridium Slimani, 1994 GENUS
 
 #### Status
 ACCEPTED

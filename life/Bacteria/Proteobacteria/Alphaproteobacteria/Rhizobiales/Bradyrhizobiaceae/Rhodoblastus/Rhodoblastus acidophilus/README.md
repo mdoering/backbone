@@ -1,8 +1,7 @@
-Rhodopseudomonas acidophila Pfennig, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Rhodoblastus acidophilus (Pfennig, 1969) Imhoff, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

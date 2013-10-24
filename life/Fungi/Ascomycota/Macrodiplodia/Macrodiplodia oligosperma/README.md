@@ -1,5 +1,4 @@
-Macrodiplodia oligosperma (Speg.) Petr. & Syd. SPECIES
-=======
+# Macrodiplodia oligosperma (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

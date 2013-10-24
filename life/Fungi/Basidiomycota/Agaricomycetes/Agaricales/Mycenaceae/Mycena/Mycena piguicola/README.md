@@ -1,5 +1,4 @@
-Mycena piguicola Singer SPECIES
-=======
+# Mycena piguicola Singer SPECIES
 
 #### Status
 ACCEPTED

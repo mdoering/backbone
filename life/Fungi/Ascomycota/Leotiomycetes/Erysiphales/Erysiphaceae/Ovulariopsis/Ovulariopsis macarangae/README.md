@@ -1,5 +1,4 @@
-Ovulariopsis macarangae Sawada SPECIES
-=======
+# Ovulariopsis macarangae Sawada SPECIES
 
 #### Status
 ACCEPTED

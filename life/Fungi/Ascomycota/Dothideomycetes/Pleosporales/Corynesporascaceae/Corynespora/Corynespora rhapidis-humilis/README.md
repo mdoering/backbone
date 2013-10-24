@@ -1,17 +1,16 @@
-Corynespora rhapis-humilisi X.G. Zhang & M. Ji SPECIES
-=======
+# Corynespora rhapidis-humilis X.G. Zhang & M. Ji SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 92: 425 (2005)
 
 #### Original name
-Corynespora rhapis-humilisi X.G. Zhang & M. Ji
+Corynespora rhapidis-humilis X.G. Zhang & M. Ji
 
 ### Remarks
 null

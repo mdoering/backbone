@@ -1,5 +1,4 @@
-Bionectria wenpingii J. Luo & W.Y. Zhuang SPECIES
-=======
+# Bionectria wenpingii J. Luo & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

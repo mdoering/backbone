@@ -1,5 +1,4 @@
-Sporisorium hainanae (Zundel) L. Guo SPECIES
-=======
+# Sporisorium hainanae (Zundel) L. Guo SPECIES
 
 #### Status
 ACCEPTED

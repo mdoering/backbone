@@ -1,5 +1,4 @@
-Diporisporites cooksoniae (C.P. Varma & Rawat) Elsik SPECIES
-=======
+# Diporisporites cooksoniae (C.P. Varma & Rawat) Elsik SPECIES
 
 #### Status
 ACCEPTED

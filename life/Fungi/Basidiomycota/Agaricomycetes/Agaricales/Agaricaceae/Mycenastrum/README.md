@@ -1,5 +1,4 @@
-Mycenastrum Desvaux, 1842 GENUS
-=======
+# Mycenastrum Desvaux, 1842 GENUS
 
 #### Status
 ACCEPTED

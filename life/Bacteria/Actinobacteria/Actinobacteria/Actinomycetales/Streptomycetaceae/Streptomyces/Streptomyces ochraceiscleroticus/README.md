@@ -1,8 +1,7 @@
-Chainia ochracea Kuznetsov, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces ochraceiscleroticus Pridham, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

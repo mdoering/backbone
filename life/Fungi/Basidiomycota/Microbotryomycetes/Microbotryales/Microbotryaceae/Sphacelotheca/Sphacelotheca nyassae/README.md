@@ -1,5 +1,4 @@
-Sphacelotheca nyassae (Syd. & P. Syd.) Zundel SPECIES
-=======
+# Sphacelotheca nyassae (Syd. & P. Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

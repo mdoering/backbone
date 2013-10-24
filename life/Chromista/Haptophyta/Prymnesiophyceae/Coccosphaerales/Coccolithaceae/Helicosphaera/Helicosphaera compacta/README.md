@@ -1,5 +1,4 @@
-Helicosphaera compacta Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Helicosphaera compacta Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

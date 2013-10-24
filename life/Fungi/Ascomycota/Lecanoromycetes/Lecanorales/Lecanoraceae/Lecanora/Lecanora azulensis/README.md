@@ -1,5 +1,4 @@
-Lecanora azulensis B. de Lesd. SPECIES
-=======
+# Lecanora azulensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

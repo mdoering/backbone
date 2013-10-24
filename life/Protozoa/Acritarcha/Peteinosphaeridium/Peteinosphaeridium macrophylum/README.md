@@ -1,5 +1,4 @@
-Peteinosphaeridium macrophylum SPECIES
-=======
+# Peteinosphaeridium macrophylum SPECIES
 
 #### Status
 ACCEPTED

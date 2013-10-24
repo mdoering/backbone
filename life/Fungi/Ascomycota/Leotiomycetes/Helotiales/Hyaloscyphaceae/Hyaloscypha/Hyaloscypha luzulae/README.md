@@ -1,5 +1,4 @@
-Hyaloscypha luzulae Velen. SPECIES
-=======
+# Hyaloscypha luzulae Velen. SPECIES
 
 #### Status
 ACCEPTED

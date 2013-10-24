@@ -1,5 +1,4 @@
-Globigerinatella GENUS
-=======
+# Globigerinatella GENUS
 
 #### Status
 ACCEPTED

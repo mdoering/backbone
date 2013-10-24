@@ -1,5 +1,4 @@
-Beturiella Dumitrica, Kozur & Mostler, 1981 GENUS
-=======
+# Beturiella Dumitrica, Kozur & Mostler, 1981 GENUS
 
 #### Status
 ACCEPTED

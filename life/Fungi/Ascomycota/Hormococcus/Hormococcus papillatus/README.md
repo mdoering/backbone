@@ -1,5 +1,4 @@
-Hormococcus papillatus Preuss SPECIES
-=======
+# Hormococcus papillatus Preuss SPECIES
 
 #### Status
 ACCEPTED

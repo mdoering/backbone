@@ -1,5 +1,4 @@
-Inoderma latum (Berk.) P. Karst. SPECIES
-=======
+# Inoderma latum (Berk.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

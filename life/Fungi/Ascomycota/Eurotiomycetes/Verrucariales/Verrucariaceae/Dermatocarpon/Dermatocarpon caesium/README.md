@@ -1,5 +1,4 @@
-Dermatocarpon caesium Räsänen SPECIES
-=======
+# Dermatocarpon caesium Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps nanatakiensis Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps nanatakiensis Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

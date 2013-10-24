@@ -1,17 +1,16 @@
-Lacrimasporonites tenuous Z.C. Song & Liu Cao SPECIES
-=======
+# Lacrimasporonites tenuis Z.C. Song & Liu Cao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph, State Antarctic Committee (Beijing), China 3: 38 + pl. 1, fig. 4 (1994)
 
 #### Original name
-Lacrimasporonites tenuous Z.C. Song & Liu Cao
+Lacrimasporonites tenuis Z.C. Song & Liu Cao
 
 ### Remarks
 null

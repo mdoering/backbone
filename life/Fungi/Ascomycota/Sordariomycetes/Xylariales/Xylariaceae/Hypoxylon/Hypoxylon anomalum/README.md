@@ -1,5 +1,4 @@
-Hypoxylon anomalum J.D. Rogers, Y.M. Ju & Oses, 2005 SPECIES
-=======
+# Hypoxylon anomalum J.D. Rogers, Y.M. Ju & Oses, 2005 SPECIES
 
 #### Status
 ACCEPTED

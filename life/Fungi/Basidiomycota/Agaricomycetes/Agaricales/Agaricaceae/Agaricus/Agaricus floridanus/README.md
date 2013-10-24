@@ -1,5 +1,4 @@
-Agaricus floridanus Peck SPECIES
-=======
+# Agaricus floridanus Peck SPECIES
 
 #### Status
 ACCEPTED

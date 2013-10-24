@@ -1,5 +1,4 @@
-Cyclotella quadriiuncta (Schroeter) Hustedt SPECIES
-=======
+# Cyclotella quadriiuncta (Schroeter) Hustedt SPECIES
 
 #### Status
 ACCEPTED

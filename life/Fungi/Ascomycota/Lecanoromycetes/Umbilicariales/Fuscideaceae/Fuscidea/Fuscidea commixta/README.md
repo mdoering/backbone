@@ -1,5 +1,4 @@
-Fuscidea commixta (H. Magn.) V. Wirth & Vezda SPECIES
-=======
+# Fuscidea commixta (H. Magn.) V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED

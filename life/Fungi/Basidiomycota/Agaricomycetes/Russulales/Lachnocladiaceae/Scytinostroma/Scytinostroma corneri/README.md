@@ -1,5 +1,4 @@
-Scytinostroma corneri Boidin & Lanq., 1987 SPECIES
-=======
+# Scytinostroma corneri Boidin & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

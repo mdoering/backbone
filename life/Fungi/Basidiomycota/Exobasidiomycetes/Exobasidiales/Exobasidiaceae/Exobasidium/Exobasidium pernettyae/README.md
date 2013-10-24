@@ -1,5 +1,4 @@
-Exobasidium pernettyae L.D. Gómez & Kisim.-Hor., 1998 SPECIES
-=======
+# Exobasidium pernettyae L.D. Gómez & Kisim.-Hor., 1998 SPECIES
 
 #### Status
 ACCEPTED

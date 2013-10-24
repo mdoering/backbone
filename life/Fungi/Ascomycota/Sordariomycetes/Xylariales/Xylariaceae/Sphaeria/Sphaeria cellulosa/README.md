@@ -1,5 +1,4 @@
-Sphaeria cellulosa Wallr. SPECIES
-=======
+# Sphaeria cellulosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

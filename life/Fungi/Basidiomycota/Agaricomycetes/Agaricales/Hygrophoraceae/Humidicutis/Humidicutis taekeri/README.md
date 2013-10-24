@@ -1,5 +1,4 @@
-Humidicutis taekeri (A.M. Young) A.M. Young SPECIES
-=======
+# Humidicutis taekeri (A.M. Young) A.M. Young SPECIES
 
 #### Status
 ACCEPTED

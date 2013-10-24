@@ -1,5 +1,4 @@
-Sargassum laxifolium Tseng & Lu SPECIES
-=======
+# Sargassum laxifolium Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

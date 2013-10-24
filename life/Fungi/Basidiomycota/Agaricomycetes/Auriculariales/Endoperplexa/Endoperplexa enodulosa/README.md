@@ -1,17 +1,16 @@
-Sebacina enodulosa f. tetraspora Hauerslev FORM
-=======
+# Endoperplexa enodulosa (Hauerslev) P. Roberts, 1993 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 49: 231 (1993)
+Mycol. Res. 97(4): 473 (1993)
 
 #### Original name
-Sebacina enodulosa f. tetraspora Hauerslev
+Sebacina enodulosa Hauerslev, 1986
 
 ### Remarks
 null

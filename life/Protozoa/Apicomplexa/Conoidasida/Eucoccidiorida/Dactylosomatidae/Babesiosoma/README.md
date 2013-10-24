@@ -1,5 +1,4 @@
-Babesiosoma Jakowska & Nigrelli, 1956 GENUS
-=======
+# Babesiosoma Jakowska & Nigrelli, 1956 GENUS
 
 #### Status
 ACCEPTED

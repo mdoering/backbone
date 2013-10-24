@@ -1,17 +1,16 @@
-Helotium aciculare var. aciculare VARIETY
-=======
+# Cudoniella acicularis (Bull.) J. Schröt., 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(12): 21 (1893)
 
 #### Original name
-Helotium aciculare var. aciculare
+Helvella acicularis Bull., 1790
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora clibadii Petr., 1950 SPECIES
-=======
+# Phyllachora clibadii Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

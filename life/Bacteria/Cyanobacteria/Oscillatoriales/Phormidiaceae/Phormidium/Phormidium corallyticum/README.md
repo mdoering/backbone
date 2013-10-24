@@ -1,5 +1,4 @@
-Phormidium corallyticum Rützler & Santavy SPECIES
-=======
+# Phormidium corallyticum Rützler & Santavy SPECIES
 
 #### Status
 ACCEPTED

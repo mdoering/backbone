@@ -1,5 +1,4 @@
-Lecanora subelata Zahlbr. SPECIES
-=======
+# Lecanora subelata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

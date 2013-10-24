@@ -1,5 +1,4 @@
-Nummularia gigaspora Pat. SPECIES
-=======
+# Nummularia gigaspora Pat. SPECIES
 
 #### Status
 ACCEPTED

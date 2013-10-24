@@ -1,5 +1,4 @@
-Degelia subcincinnata (Nyl.) P. M. Jørg. SPECIES
-=======
+# Degelia subcincinnata (Nyl.) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

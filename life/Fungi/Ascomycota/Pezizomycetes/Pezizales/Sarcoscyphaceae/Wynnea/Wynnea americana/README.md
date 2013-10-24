@@ -1,5 +1,4 @@
-Wynnea americana Thaxt. SPECIES
-=======
+# Wynnea americana Thaxt. SPECIES
 
 #### Status
 ACCEPTED

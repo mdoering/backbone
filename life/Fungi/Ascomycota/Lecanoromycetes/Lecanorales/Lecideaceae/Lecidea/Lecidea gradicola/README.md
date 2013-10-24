@@ -1,5 +1,4 @@
-Lecidea gradicola Nádv. SPECIES
-=======
+# Lecidea gradicola Nádv. SPECIES
 
 #### Status
 ACCEPTED

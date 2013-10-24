@@ -1,5 +1,4 @@
-Hypogymnia hypotrypella (Asahina) Rass. SPECIES
-=======
+# Hypogymnia hypotrypella (Asahina) Rass. SPECIES
 
 #### Status
 ACCEPTED

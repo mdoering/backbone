@@ -1,5 +1,4 @@
-Mycoderma immite (Rixford & Gilchrist) Brumpt SPECIES
-=======
+# Mycoderma immite (Rixford & Gilchrist) Brumpt SPECIES
 
 #### Status
 ACCEPTED

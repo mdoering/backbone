@@ -1,5 +1,4 @@
-Camptoalatus Nazarov & Rudenko, 1981 GENUS
-=======
+# Camptoalatus Nazarov & Rudenko, 1981 GENUS
 
 #### Status
 ACCEPTED

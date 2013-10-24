@@ -1,5 +1,4 @@
-Mallomonas sabulosa Croome & P.A. Tyler SPECIES
-=======
+# Mallomonas sabulosa Croome & P.A. Tyler SPECIES
 
 #### Status
 ACCEPTED

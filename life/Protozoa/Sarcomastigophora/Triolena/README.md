@@ -1,5 +1,4 @@
-Triolena Haeckel, 1887 GENUS
-=======
+# Triolena Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

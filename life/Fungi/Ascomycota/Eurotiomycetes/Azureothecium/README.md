@@ -1,5 +1,4 @@
-Azureothecium Matsush. GENUS
-=======
+# Azureothecium Matsush. GENUS
 
 #### Status
 ACCEPTED

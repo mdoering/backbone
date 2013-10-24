@@ -1,5 +1,4 @@
-Helicobasidium hemispira M.S. Patil, Kund. & Nanaware, 2003 SPECIES
-=======
+# Helicobasidium hemispira M.S. Patil, Kund. & Nanaware, 2003 SPECIES
 
 #### Status
 ACCEPTED

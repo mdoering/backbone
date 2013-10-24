@@ -1,17 +1,16 @@
-Peronospora veedenskyi Golovin SPECIES
-=======
+# Peronospora vvedenskyi Golovin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Centr. Asian Univ. Stud. , N. S. 14(5): 5 (1950)
 
 #### Original name
-Peronospora veedenskyi Golovin
+Peronospora vvedenskyi Golovin
 
 ### Remarks
 null

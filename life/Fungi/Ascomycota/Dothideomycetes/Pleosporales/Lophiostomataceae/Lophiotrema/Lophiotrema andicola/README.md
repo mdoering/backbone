@@ -1,5 +1,4 @@
-Lophiotrema andicola Speg. SPECIES
-=======
+# Lophiotrema andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

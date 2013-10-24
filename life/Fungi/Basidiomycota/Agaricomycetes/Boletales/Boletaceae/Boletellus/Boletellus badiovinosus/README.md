@@ -1,5 +1,4 @@
-Boletellus badiovinosus E. Horak SPECIES
-=======
+# Boletellus badiovinosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

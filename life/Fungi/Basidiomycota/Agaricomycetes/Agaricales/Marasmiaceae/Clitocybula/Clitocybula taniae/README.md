@@ -1,5 +1,4 @@
-Clitocybula taniae Vila SPECIES
-=======
+# Clitocybula taniae Vila SPECIES
 
 #### Status
 ACCEPTED

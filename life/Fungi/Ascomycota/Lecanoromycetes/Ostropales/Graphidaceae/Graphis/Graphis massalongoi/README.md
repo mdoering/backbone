@@ -1,17 +1,16 @@
-Graphis massalongii Kremp. SPECIES
-=======
+# Graphis massalongoi Kremp. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 4 14: 174 (1860)
 
 #### Original name
-Graphis massalongii Kremp.
+Graphis massalongoi Kremp.
 
 ### Remarks
 null

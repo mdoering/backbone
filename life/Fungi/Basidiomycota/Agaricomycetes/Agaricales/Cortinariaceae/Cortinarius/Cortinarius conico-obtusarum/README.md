@@ -1,5 +1,4 @@
-Cortinarius conico-obtusarum A. Ortega & Chevassut SPECIES
-=======
+# Cortinarius conico-obtusarum A. Ortega & Chevassut SPECIES
 
 #### Status
 ACCEPTED

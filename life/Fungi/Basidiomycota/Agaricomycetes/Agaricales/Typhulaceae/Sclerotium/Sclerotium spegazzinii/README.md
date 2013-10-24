@@ -1,5 +1,4 @@
-Sclerotium spegazzinii Sacc. & P. Syd. SPECIES
-=======
+# Sclerotium spegazzinii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

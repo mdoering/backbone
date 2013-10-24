@@ -1,5 +1,4 @@
-Puccinia clarioneae Dietel & Neger SPECIES
-=======
+# Puccinia clarioneae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

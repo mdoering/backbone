@@ -1,5 +1,4 @@
-Clitocybe grumata (Scop.) Fr. SPECIES
-=======
+# Clitocybe grumata (Scop.) Fr. SPECIES
 
 #### Status
 ACCEPTED

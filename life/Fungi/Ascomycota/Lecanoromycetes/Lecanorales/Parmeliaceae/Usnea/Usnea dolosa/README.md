@@ -1,5 +1,4 @@
-Usnea dolosa Motyka SPECIES
-=======
+# Usnea dolosa Motyka SPECIES
 
 #### Status
 ACCEPTED

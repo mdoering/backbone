@@ -1,5 +1,4 @@
-Didymosphaeria saccharicola Speg. SPECIES
-=======
+# Didymosphaeria saccharicola Speg. SPECIES
 
 #### Status
 ACCEPTED

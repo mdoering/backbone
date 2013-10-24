@@ -1,5 +1,4 @@
-Kernia pachypleura Malloch & Cain, 1971 SPECIES
-=======
+# Kernia pachypleura Malloch & Cain, 1971 SPECIES
 
 #### Status
 ACCEPTED

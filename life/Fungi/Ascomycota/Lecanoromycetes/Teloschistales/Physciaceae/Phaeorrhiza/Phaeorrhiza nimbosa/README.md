@@ -1,17 +1,16 @@
-Rinodina nimbosa f. nimbosa FORM
-=======
+# Phaeorrhiza nimbosa (Fr.) H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Scand. (Uppsala) 1: 193 (1871)
+Nova Hedwigia 30: 785 (1979)
 
 #### Original name
-Rinodina nimbosa f. nimbosa
+Parmelia nimbosa Fr.
 
 ### Remarks
 null

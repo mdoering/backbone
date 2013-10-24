@@ -1,5 +1,4 @@
-Uredo lueheae Speg. SPECIES
-=======
+# Uredo lueheae Speg. SPECIES
 
 #### Status
 ACCEPTED

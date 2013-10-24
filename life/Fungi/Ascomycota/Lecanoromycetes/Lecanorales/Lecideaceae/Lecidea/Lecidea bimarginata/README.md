@@ -1,5 +1,4 @@
-Lecidea bimarginata Eschw. SPECIES
-=======
+# Lecidea bimarginata Eschw. SPECIES
 
 #### Status
 ACCEPTED

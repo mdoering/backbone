@@ -1,5 +1,4 @@
-Ellisomyces Benny & R.K. Benj. GENUS
-=======
+# Ellisomyces Benny & R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

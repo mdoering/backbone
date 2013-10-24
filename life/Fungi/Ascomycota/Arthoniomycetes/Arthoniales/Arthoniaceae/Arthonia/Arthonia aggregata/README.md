@@ -1,5 +1,4 @@
-Arthonia aggregata Alstrup, M.S. Christ. & Hafellner SPECIES
-=======
+# Arthonia aggregata Alstrup, M.S. Christ. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora disrupta McAlpine SPECIES
-=======
+# Pleospora disrupta McAlpine SPECIES
 
 #### Status
 ACCEPTED

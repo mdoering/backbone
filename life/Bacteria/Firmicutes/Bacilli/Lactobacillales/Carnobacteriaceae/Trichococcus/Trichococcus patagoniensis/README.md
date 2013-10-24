@@ -1,5 +1,4 @@
-Trichococcus patagoniensis Pikuta et al., 2006 SPECIES
-=======
+# Trichococcus patagoniensis Pikuta et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

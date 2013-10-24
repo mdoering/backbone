@@ -1,5 +1,4 @@
-Russula singeri R. Heim SPECIES
-=======
+# Russula singeri R. Heim SPECIES
 
 #### Status
 ACCEPTED

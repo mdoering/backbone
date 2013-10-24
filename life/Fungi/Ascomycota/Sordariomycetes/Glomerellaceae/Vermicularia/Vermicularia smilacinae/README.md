@@ -1,5 +1,4 @@
-Vermicularia smilacinae (Tehon & E.Y. Daniels) Vassiljevsky SPECIES
-=======
+# Vermicularia smilacinae (Tehon & E.Y. Daniels) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

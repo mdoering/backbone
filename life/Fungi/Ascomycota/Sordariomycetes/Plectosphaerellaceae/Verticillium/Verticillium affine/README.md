@@ -1,5 +1,4 @@
-Verticillium affine Corda SPECIES
-=======
+# Verticillium affine Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita malodora (Murrill) Murrill SPECIES
-=======
+# Amanita malodora (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

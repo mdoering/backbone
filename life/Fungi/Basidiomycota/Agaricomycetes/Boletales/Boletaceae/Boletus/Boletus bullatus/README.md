@@ -1,5 +1,4 @@
-Boletus bullatus Britzelm. SPECIES
-=======
+# Boletus bullatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

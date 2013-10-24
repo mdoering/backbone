@@ -1,5 +1,4 @@
-Bosniella Gusic, 1977 GENUS
-=======
+# Bosniella Gusic, 1977 GENUS
 
 #### Status
 ACCEPTED

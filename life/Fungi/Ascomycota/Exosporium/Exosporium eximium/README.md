@@ -1,5 +1,4 @@
-Exosporium eximium Sacc. SPECIES
-=======
+# Exosporium eximium Sacc. SPECIES
 
 #### Status
 ACCEPTED

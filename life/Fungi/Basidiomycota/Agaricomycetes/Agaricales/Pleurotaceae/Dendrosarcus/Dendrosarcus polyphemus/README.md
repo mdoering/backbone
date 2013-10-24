@@ -1,5 +1,4 @@
-Dendrosarcus polyphemus (Cooke & Massee) Kuntze SPECIES
-=======
+# Dendrosarcus polyphemus (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

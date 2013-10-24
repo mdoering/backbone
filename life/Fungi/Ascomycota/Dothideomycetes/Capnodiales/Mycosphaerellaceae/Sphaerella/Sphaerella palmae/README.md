@@ -1,5 +1,4 @@
-Sphaerella palmae (Miles) Sacc. SPECIES
-=======
+# Sphaerella palmae (Miles) Sacc. SPECIES
 
 #### Status
 ACCEPTED

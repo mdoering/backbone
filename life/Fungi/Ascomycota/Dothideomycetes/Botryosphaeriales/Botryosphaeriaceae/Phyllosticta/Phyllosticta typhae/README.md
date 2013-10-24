@@ -1,5 +1,4 @@
-Phyllosticta typhae (Pass.) Allesch. SPECIES
-=======
+# Phyllosticta typhae (Pass.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia guaranitica Speg. SPECIES
-=======
+# Tubercularia guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

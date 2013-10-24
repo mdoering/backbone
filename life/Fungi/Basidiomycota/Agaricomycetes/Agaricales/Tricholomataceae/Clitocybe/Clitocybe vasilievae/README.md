@@ -1,17 +1,16 @@
-Clitocybe vasiljevae Singer SPECIES
-=======
+# Clitocybe vasilievae Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mater. Otd. Sporov. Rast. 5(4-6): 84 (1941)
 
 #### Original name
-Clitocybe vasiljevae Singer
+Clitocybe vasilievae Singer
 
 ### Remarks
 null

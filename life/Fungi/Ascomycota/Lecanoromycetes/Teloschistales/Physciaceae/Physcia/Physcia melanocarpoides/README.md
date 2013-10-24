@@ -1,5 +1,4 @@
-Physcia melanocarpoides Vain. SPECIES
-=======
+# Physcia melanocarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

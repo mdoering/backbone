@@ -1,5 +1,4 @@
-Corynebacterium ciconiae Fernández-Garayzábal et al., 2004 SPECIES
-=======
+# Corynebacterium ciconiae Fernández-Garayzábal et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

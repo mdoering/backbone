@@ -1,5 +1,4 @@
-Rhizopogon brunneofibrillosus A.H. Sm. SPECIES
-=======
+# Rhizopogon brunneofibrillosus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

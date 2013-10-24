@@ -1,5 +1,4 @@
-Plagiodinium M.A.Faust & Balech, 1993 GENUS
-=======
+# Plagiodinium M.A.Faust & Balech, 1993 GENUS
 
 #### Status
 ACCEPTED

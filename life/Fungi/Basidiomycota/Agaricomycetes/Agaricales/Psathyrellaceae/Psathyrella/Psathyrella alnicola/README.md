@@ -1,5 +1,4 @@
-Psathyrella alnicola A.H. Sm. SPECIES
-=======
+# Psathyrella alnicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

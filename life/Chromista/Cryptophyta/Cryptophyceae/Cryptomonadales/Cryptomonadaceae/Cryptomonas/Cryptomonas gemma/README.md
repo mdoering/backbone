@@ -1,5 +1,4 @@
-Cryptomonas gemma Playfair SPECIES
-=======
+# Cryptomonas gemma Playfair SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora polytropella Jatta SPECIES
-=======
+# Lecanora polytropella Jatta SPECIES
 
 #### Status
 ACCEPTED

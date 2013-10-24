@@ -1,5 +1,4 @@
-Dendrogaster major Zeller & C.W. Dodge SPECIES
-=======
+# Dendrogaster major Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

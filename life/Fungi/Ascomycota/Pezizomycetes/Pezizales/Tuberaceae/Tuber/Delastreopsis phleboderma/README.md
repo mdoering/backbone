@@ -1,5 +1,4 @@
-Delastreopsis phleboderma Gilkey SPECIES
-=======
+# Delastreopsis phleboderma Gilkey SPECIES
 
 #### Status
 ACCEPTED

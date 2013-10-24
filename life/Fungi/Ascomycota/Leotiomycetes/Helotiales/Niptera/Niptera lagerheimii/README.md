@@ -1,5 +1,4 @@
-Niptera lagerheimii Pat. SPECIES
-=======
+# Niptera lagerheimii Pat. SPECIES
 
 #### Status
 ACCEPTED

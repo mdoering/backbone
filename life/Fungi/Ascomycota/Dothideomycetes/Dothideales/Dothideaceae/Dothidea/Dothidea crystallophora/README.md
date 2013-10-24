@@ -1,5 +1,4 @@
-Dothidea crystallophora Berk. & M.A. Curtis SPECIES
-=======
+# Dothidea crystallophora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

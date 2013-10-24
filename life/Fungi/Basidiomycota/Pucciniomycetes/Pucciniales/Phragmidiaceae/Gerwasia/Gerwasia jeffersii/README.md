@@ -1,14 +1,13 @@
-Mainsia jeffersii Jørst., 1960 SPECIES
-=======
+# Gerwasia jeffersii (Jørst.) Buriticá, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revta ICNE, Instit. Cienc. Nat. Ecol. 5(2): 185 (1994)
 
 #### Original name
 Mainsia jeffersii Jørst., 1960

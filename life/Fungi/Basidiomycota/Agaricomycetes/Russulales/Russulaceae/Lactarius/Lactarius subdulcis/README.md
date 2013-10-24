@@ -1,17 +1,16 @@
-Agaricus subdulcis var. subdulcis VARIETY
-=======
+# Lactarius subdulcis (Pers.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 433 (1801)
+Nat. Arr. Brit. Pl. (London) 1: 625 (1821)
 
 #### Original name
-Agaricus subdulcis var. subdulcis
+Agaricus subdulcis Pers., 1801
 
 ### Remarks
 null

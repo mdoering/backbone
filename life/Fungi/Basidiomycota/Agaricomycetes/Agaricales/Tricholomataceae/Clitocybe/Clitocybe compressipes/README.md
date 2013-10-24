@@ -1,5 +1,4 @@
-Clitocybe compressipes f. autumnale Kauffman FORM
-=======
+# Clitocybe compressipes Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 184 (1887)
 
 #### Original name
-Clitocybe compressipes f. autumnale Kauffman
+Clitocybe compressipes Murrill
 
 ### Remarks
 null

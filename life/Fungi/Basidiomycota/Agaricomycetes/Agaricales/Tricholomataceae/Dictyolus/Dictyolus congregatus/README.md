@@ -1,5 +1,4 @@
-Dictyolus congregatus Pat. SPECIES
-=======
+# Dictyolus congregatus Pat. SPECIES
 
 #### Status
 ACCEPTED

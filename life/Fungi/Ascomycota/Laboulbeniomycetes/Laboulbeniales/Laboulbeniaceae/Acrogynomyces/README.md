@@ -1,5 +1,4 @@
-Acrogynomyces Thaxt. GENUS
-=======
+# Acrogynomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia arechavaletae Speg. SPECIES
-=======
+# Omphalia arechavaletae Speg. SPECIES
 
 #### Status
 ACCEPTED

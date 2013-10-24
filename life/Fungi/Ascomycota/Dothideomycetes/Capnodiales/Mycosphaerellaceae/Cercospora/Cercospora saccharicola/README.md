@@ -1,5 +1,4 @@
-Cercospora saccharicola S.H. Sun SPECIES
-=======
+# Cercospora saccharicola S.H. Sun SPECIES
 
 #### Status
 ACCEPTED

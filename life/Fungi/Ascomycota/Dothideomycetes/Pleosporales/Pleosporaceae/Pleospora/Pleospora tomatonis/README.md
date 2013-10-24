@@ -1,5 +1,4 @@
-Pleospora tomatonis E.G. Simmons, 2001 SPECIES
-=======
+# Pleospora tomatonis E.G. Simmons, 2001 SPECIES
 
 #### Status
 ACCEPTED

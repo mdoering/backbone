@@ -1,5 +1,4 @@
-Mycorhizonium F.E. Weiss GENUS
-=======
+# Mycorhizonium F.E. Weiss GENUS
 
 #### Status
 ACCEPTED

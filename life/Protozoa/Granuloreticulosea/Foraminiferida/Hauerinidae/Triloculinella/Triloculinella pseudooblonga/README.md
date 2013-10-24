@@ -1,5 +1,4 @@
-Triloculinella pseudooblonga (Zheng, 1980) SPECIES
-=======
+# Triloculinella pseudooblonga (Zheng, 1980) SPECIES
 
 #### Status
 ACCEPTED

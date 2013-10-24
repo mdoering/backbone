@@ -1,5 +1,4 @@
-Parapeltella bauhiniae Bat. & H. Maia SPECIES
-=======
+# Parapeltella bauhiniae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placopsis auriculata Lumbsch & Kashiw. SPECIES
-=======
+# Placopsis auriculata Lumbsch & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

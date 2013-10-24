@@ -1,5 +1,4 @@
-Veronaea tectonae Kamal & P. Kumar SPECIES
-=======
+# Veronaea tectonae Kamal & P. Kumar SPECIES
 
 #### Status
 ACCEPTED

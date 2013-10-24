@@ -1,5 +1,4 @@
-Triplostromium N.N. Woronichin, 1908 GENUS
-=======
+# Triplostromium N.N. Woronichin, 1908 GENUS
 
 #### Status
 ACCEPTED

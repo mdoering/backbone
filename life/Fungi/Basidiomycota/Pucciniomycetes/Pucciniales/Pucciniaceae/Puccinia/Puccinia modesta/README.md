@@ -1,5 +1,4 @@
-Puccinia modesta Jørst. SPECIES
-=======
+# Puccinia modesta Jørst. SPECIES
 
 #### Status
 ACCEPTED

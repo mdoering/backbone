@@ -1,5 +1,4 @@
-Agaricus columbicolor Berk. & Broome SPECIES
-=======
+# Agaricus columbicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

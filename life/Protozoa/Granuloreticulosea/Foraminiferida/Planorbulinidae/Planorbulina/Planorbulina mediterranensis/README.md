@@ -1,5 +1,4 @@
-Planorbulina mediterranensis D'Orbigny SPECIES
-=======
+# Planorbulina mediterranensis D'Orbigny SPECIES
 
 #### Status
 ACCEPTED

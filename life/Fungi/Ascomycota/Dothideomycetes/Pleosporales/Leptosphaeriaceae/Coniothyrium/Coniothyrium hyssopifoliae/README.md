@@ -1,5 +1,4 @@
-Coniothyrium hyssopifoliae Oudem. SPECIES
-=======
+# Coniothyrium hyssopifoliae Oudem. SPECIES
 
 #### Status
 ACCEPTED

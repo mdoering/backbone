@@ -1,5 +1,4 @@
-Lycoperdon betulinum Humb. SPECIES
-=======
+# Lycoperdon betulinum Humb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella lecideola Zahlbr. SPECIES
-=======
+# Parmeliella lecideola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleospora clavatis Gucevic SPECIES
-=======
+# Pleospora clavata Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 7: 168 (1970)
 
 #### Original name
-Pleospora clavatis Gucevic
+Pleospora clavata Gucevic
 
 ### Remarks
 null

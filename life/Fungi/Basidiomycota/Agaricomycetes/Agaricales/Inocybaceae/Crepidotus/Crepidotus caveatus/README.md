@@ -1,5 +1,4 @@
-Crepidotus caveatus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Crepidotus caveatus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

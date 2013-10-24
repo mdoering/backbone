@@ -1,17 +1,16 @@
-Cymbella Pat. GENUS
-=======
+# Chromocyphella De Toni & Levi, 1888 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Doassans & Patouillard, Revue mycol. , Toulouse 8: 27 (1886)
+null
 
 #### Original name
-Cymbella Pat.
+null
 
 ### Remarks
 null

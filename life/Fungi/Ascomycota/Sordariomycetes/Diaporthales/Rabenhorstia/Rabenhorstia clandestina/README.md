@@ -1,5 +1,4 @@
-Rabenhorstia clandestina Fr. SPECIES
-=======
+# Rabenhorstia clandestina Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria arenaria (Klotzsch) Sacc. SPECIES
-=======
+# Poria arenaria (Klotzsch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

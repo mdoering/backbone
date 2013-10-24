@@ -1,5 +1,4 @@
-Fellhanera silhouettae Aptroot & Seaward SPECIES
-=======
+# Fellhanera silhouettae Aptroot & Seaward SPECIES
 
 #### Status
 ACCEPTED

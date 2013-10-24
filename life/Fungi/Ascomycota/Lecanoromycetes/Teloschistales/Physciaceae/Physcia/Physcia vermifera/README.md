@@ -1,5 +1,4 @@
-Physcia vermifera Aptroot & Sipman SPECIES
-=======
+# Physcia vermifera Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

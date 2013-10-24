@@ -1,5 +1,4 @@
-Amphiamblys ancorae Reichenow, 1932 SPECIES
-=======
+# Amphiamblys ancorae Reichenow, 1932 SPECIES
 
 #### Status
 ACCEPTED

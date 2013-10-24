@@ -1,5 +1,4 @@
-Mycoplasma haemosuis (Splitter, 1950) Neimark et al., 2002 SPECIES
-=======
+# Mycoplasma haemosuis (Splitter, 1950) Neimark et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

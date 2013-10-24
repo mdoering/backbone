@@ -1,5 +1,4 @@
-Coprinus pusillulus Svrcek SPECIES
-=======
+# Coprinus pusillulus Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichocapsa convexa SPECIES
-=======
+# Stichocapsa convexa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium stipitatum Vain. SPECIES
-=======
+# Leptogium stipitatum Vain. SPECIES
 
 #### Status
 ACCEPTED

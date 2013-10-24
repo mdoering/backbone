@@ -1,5 +1,4 @@
-Nectria flageoletiana Sacc. SPECIES
-=======
+# Nectria flageoletiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staphylococcus felis Igimi et al., 1989 SPECIES
-=======
+# Staphylococcus felis Igimi et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

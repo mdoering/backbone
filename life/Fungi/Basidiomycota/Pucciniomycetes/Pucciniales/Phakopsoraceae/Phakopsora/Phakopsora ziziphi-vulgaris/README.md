@@ -1,5 +1,4 @@
-Phakopsora ziziphi-vulgaris Dietel, 1910 SPECIES
-=======
+# Phakopsora ziziphi-vulgaris Dietel, 1910 SPECIES
 
 #### Status
 ACCEPTED

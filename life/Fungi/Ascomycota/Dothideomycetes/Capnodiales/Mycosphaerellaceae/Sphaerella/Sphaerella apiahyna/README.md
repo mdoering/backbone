@@ -1,5 +1,4 @@
-Sphaerella apiahyna Speg. SPECIES
-=======
+# Sphaerella apiahyna Speg. SPECIES
 
 #### Status
 ACCEPTED

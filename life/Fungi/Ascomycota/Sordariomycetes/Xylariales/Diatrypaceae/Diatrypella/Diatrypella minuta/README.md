@@ -1,5 +1,4 @@
-Diatrypella minuta Nitschke SPECIES
-=======
+# Diatrypella minuta Nitschke SPECIES
 
 #### Status
 ACCEPTED

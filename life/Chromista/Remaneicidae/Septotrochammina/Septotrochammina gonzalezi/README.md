@@ -1,5 +1,4 @@
-Septotrochammina gonzalezi (Seiglie, 1964) SPECIES
-=======
+# Septotrochammina gonzalezi (Seiglie, 1964) SPECIES
 
 #### Status
 ACCEPTED

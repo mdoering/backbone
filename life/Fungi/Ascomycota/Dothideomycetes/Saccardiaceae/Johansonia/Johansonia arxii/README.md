@@ -1,5 +1,4 @@
-Johansonia arxii S.K. Bose & E. Müll., 1964 SPECIES
-=======
+# Johansonia arxii S.K. Bose & E. Müll., 1964 SPECIES
 
 #### Status
 ACCEPTED

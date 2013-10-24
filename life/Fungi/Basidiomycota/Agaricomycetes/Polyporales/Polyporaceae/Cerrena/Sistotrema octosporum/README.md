@@ -1,8 +1,7 @@
-Sistotrema subpyriforme M.P. Christ., 1960 SPECIES
-=======
+# Sistotrema octosporum (J. Schröt. ex Höhn. & Litsch.) Hallenb., 1984 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Belgian Species List

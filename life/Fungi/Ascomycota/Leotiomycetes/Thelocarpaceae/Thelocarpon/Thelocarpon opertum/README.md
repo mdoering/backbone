@@ -1,5 +1,4 @@
-Thelocarpon opertum J. C. David & Coppins SPECIES
-=======
+# Thelocarpon opertum J. C. David & Coppins SPECIES
 
 #### Status
 ACCEPTED

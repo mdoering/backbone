@@ -1,5 +1,4 @@
-Phoma eustaga Penz. & Sacc. SPECIES
-=======
+# Phoma eustaga Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

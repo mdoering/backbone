@@ -1,5 +1,4 @@
-Pyrenochaeta berberidis Richon SPECIES
-=======
+# Pyrenochaeta berberidis Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola turraeae Hansf. SPECIES
-=======
+# Meliola turraeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

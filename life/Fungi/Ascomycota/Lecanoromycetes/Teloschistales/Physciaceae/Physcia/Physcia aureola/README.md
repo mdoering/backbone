@@ -1,5 +1,4 @@
-Physcia aureola (Ach.) Linds. SPECIES
-=======
+# Physcia aureola (Ach.) Linds. SPECIES
 
 #### Status
 ACCEPTED

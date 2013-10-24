@@ -1,5 +1,4 @@
-Nectriopsis cladoniicola M.S. Cole & D. Hawksw. SPECIES
-=======
+# Nectriopsis cladoniicola M.S. Cole & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdothyrium GENUS
-=======
+# Rhabdothyrium GENUS
 
 #### Status
 ACCEPTED

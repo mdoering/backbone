@@ -1,5 +1,4 @@
-Frontonia minuta Dragesco, 1970 SPECIES
-=======
+# Frontonia minuta Dragesco, 1970 SPECIES
 
 #### Status
 ACCEPTED

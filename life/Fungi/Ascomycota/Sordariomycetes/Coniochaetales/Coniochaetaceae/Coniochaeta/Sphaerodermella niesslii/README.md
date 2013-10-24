@@ -1,5 +1,4 @@
-Sphaerodermella niesslii (Auersw.) Höhn. SPECIES
-=======
+# Sphaerodermella niesslii (Auersw.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

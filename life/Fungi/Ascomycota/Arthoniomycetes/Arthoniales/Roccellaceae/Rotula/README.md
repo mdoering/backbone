@@ -1,5 +1,4 @@
-Rotula GENUS
-=======
+# Rotula GENUS
 
 #### Status
 ACCEPTED

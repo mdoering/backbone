@@ -1,5 +1,4 @@
-Calicium leucomelas Pers. SPECIES
-=======
+# Calicium leucomelas Pers. SPECIES
 
 #### Status
 ACCEPTED

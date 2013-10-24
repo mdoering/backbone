@@ -1,5 +1,4 @@
-Nosema algerae Vávra & Undeen SPECIES
-=======
+# Nosema algerae Vávra & Undeen SPECIES
 
 #### Status
 ACCEPTED

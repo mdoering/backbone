@@ -1,5 +1,4 @@
-Maupasellidae FAMILY
-=======
+# Maupasellidae FAMILY
 
 #### Status
 ACCEPTED

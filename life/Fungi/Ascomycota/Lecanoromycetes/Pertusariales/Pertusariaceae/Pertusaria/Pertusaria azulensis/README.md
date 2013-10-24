@@ -1,5 +1,4 @@
-Pertusaria azulensis B. de Lesd. SPECIES
-=======
+# Pertusaria azulensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

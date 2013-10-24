@@ -1,5 +1,4 @@
-Epithele ochracea Bres. SPECIES
-=======
+# Epithele ochracea Bres. SPECIES
 
 #### Status
 ACCEPTED

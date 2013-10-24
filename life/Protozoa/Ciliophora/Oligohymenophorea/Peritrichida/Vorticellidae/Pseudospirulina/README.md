@@ -1,5 +1,4 @@
-Pseudospirulina H. Pankow & E. Jahnke, 1964 GENUS
-=======
+# Pseudospirulina H. Pankow & E. Jahnke, 1964 GENUS
 
 #### Status
 ACCEPTED

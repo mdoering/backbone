@@ -1,5 +1,4 @@
-Gangliostilbe costaricensis Mercado, Gené & Guarro SPECIES
-=======
+# Gangliostilbe costaricensis Mercado, Gené & Guarro SPECIES
 
 #### Status
 ACCEPTED

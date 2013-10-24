@@ -1,5 +1,4 @@
-Discorbis pulvinata (Brady) SPECIES
-=======
+# Discorbis pulvinata (Brady) SPECIES
 
 #### Status
 ACCEPTED

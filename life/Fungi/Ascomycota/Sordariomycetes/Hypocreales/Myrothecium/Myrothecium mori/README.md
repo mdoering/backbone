@@ -1,5 +1,4 @@
-Myrothecium mori Sullia & Padma SPECIES
-=======
+# Myrothecium mori Sullia & Padma SPECIES
 
 #### Status
 ACCEPTED

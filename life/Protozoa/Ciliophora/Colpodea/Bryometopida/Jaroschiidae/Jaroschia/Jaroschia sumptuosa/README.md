@@ -1,5 +1,4 @@
-Jaroschia sumptuosa Foissner, 1993 SPECIES
-=======
+# Jaroschia sumptuosa Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

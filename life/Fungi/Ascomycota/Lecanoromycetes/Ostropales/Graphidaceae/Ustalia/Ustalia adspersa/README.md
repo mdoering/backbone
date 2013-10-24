@@ -1,5 +1,4 @@
-Ustalia adspersa Mont. SPECIES
-=======
+# Ustalia adspersa Mont. SPECIES
 
 #### Status
 ACCEPTED

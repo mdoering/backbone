@@ -1,5 +1,4 @@
-Agaricus hesperidius V. Brig. SPECIES
-=======
+# Agaricus hesperidius V. Brig. SPECIES
 
 #### Status
 ACCEPTED

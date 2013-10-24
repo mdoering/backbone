@@ -1,5 +1,4 @@
-Rhabdospora ipomoeae Traverso & Spessa SPECIES
-=======
+# Rhabdospora ipomoeae Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

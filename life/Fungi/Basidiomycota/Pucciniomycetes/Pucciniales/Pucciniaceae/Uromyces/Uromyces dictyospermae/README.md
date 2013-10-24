@@ -1,5 +1,4 @@
-Uromyces dictyospermae Ellis & Everh. ex Tranzschel SPECIES
-=======
+# Uromyces dictyospermae Ellis & Everh. ex Tranzschel SPECIES
 
 #### Status
 ACCEPTED

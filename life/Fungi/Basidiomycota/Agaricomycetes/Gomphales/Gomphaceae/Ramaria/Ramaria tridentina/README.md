@@ -1,14 +1,13 @@
-Clavaria tridentina (Schild) Cetto, 1983 SPECIES
-=======
+# Ramaria tridentina Schild, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-I Funghi dal Vero (Trento) 51 (1983)
+Schweiz. Z. Pilzk. 59(11): 174 (1981)
 
 #### Original name
 Ramaria tridentina Schild, 1981

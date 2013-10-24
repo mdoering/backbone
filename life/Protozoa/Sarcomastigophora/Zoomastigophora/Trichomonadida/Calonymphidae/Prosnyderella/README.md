@@ -1,5 +1,4 @@
-Prosnyderella Dolan & Kirby, 2002 GENUS
-=======
+# Prosnyderella Dolan & Kirby, 2002 GENUS
 
 #### Status
 ACCEPTED

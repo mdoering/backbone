@@ -1,5 +1,4 @@
-Endophragmiella latispora W.P. Wu SPECIES
-=======
+# Endophragmiella latispora W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

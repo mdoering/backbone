@@ -1,5 +1,4 @@
-Septoria macrosperma Speg. SPECIES
-=======
+# Septoria macrosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

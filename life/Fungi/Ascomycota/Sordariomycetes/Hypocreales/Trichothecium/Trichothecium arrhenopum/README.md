@@ -1,5 +1,4 @@
-Trichothecium arrhenopum Drechsler SPECIES
-=======
+# Trichothecium arrhenopum Drechsler SPECIES
 
 #### Status
 ACCEPTED

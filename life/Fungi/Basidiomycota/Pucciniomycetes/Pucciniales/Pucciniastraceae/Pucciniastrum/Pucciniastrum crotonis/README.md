@@ -1,5 +1,4 @@
-Pucciniastrum crotonis (Burrill) De Toni SPECIES
-=======
+# Pucciniastrum crotonis (Burrill) De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biddulphia aurita (Lyngbye) de Brébisson SPECIES
-=======
+# Biddulphia aurita (Lyngbye) de Brébisson SPECIES
 
 #### Status
 ACCEPTED

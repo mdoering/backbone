@@ -1,5 +1,4 @@
-Thelephora concentrica Alb. & Schwein. SPECIES
-=======
+# Thelephora concentrica Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

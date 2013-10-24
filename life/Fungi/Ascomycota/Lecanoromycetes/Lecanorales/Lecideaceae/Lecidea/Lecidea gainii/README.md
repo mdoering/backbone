@@ -1,5 +1,4 @@
-Lecidea gainii Hue SPECIES
-=======
+# Lecidea gainii Hue SPECIES
 
 #### Status
 ACCEPTED

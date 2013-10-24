@@ -1,5 +1,4 @@
-Skottsbergiella Petrak, 1927 GENUS
-=======
+# Skottsbergiella Petrak, 1927 GENUS
 
 #### Status
 ACCEPTED

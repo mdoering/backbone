@@ -1,5 +1,4 @@
-Lecanora owaniana (Hue) Zahlbr. SPECIES
-=======
+# Lecanora owaniana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora musaecola Sawada SPECIES
-=======
+# Cercospora musicola Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Nat. Hist. Soc. Formosa 32: 372 (1942)
 
 #### Original name
-Cercospora musaecola Sawada
+Cercospora musicola Sawada
 
 ### Remarks
 null

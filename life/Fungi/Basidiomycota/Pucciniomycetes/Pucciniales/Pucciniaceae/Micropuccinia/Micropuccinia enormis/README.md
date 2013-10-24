@@ -1,5 +1,4 @@
-Micropuccinia enormis (Fuckel) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia enormis (Fuckel) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

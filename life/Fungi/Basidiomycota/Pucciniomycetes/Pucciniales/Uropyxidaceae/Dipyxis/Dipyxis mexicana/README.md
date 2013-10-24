@@ -1,5 +1,4 @@
-Dipyxis mexicana Cummins & J.W. Baxter, 1967 SPECIES
-=======
+# Dipyxis mexicana Cummins & J.W. Baxter, 1967 SPECIES
 
 #### Status
 ACCEPTED

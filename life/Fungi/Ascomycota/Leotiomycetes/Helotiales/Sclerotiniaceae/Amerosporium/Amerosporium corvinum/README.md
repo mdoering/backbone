@@ -1,5 +1,4 @@
-Amerosporium corvinum (Pers.) Sacc. SPECIES
-=======
+# Amerosporium corvinum (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula tunicata Zahlbr. SPECIES
-=======
+# Pyrenula tunicata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

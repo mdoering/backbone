@@ -1,5 +1,4 @@
-Russula fuscescens Velen. SPECIES
-=======
+# Russula fuscescens Velen. SPECIES
 
 #### Status
 ACCEPTED

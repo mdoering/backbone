@@ -1,5 +1,4 @@
-Tchuja A.M. Stanevitch in V.V. Khomentovsky & V. Yu. Shenfil, 1986 GENUS
-=======
+# Tchuja A.M. Stanevitch in V.V. Khomentovsky & V. Yu. Shenfil, 1986 GENUS
 
 #### Status
 ACCEPTED

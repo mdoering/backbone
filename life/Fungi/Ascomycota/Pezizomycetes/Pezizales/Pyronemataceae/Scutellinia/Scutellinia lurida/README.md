@@ -1,5 +1,4 @@
-Scutellinia lurida (Henn. & E. Nyman) Le Gal SPECIES
-=======
+# Scutellinia lurida (Henn. & E. Nyman) Le Gal SPECIES
 
 #### Status
 ACCEPTED

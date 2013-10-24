@@ -1,5 +1,4 @@
-Styptosphaera spumacea Haeckel, 1887 SPECIES
-=======
+# Styptosphaera spumacea Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

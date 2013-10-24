@@ -1,5 +1,4 @@
-Cetraria denticulata Hue SPECIES
-=======
+# Cetraria denticulata Hue SPECIES
 
 #### Status
 ACCEPTED

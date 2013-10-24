@@ -1,5 +1,4 @@
-Bacidia campbelliae (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia campbelliae (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothyrium stomatophorum (Ellis & G.W. Martin) Theiss. SPECIES
-=======
+# Calothyrium stomatophorum (Ellis & G.W. Martin) Theiss. SPECIES
 
 #### Status
 ACCEPTED

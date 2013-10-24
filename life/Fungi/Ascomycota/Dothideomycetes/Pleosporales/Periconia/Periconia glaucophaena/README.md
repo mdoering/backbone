@@ -1,5 +1,4 @@
-Periconia glaucophaena Rabenh. SPECIES
-=======
+# Periconia glaucophaena Rabenh. SPECIES
 
 #### Status
 ACCEPTED

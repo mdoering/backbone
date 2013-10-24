@@ -1,5 +1,4 @@
-Leptostromella subrepens Speg. SPECIES
-=======
+# Leptostromella subrepens Speg. SPECIES
 
 #### Status
 ACCEPTED

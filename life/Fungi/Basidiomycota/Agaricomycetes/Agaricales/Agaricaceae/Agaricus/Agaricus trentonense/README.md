@@ -1,5 +1,4 @@
-Agaricus trentonense Peck SPECIES
-=======
+# Agaricus trentonense Peck SPECIES
 
 #### Status
 ACCEPTED

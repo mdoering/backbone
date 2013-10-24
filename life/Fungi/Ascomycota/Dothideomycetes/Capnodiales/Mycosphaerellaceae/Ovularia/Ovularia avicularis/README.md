@@ -1,5 +1,4 @@
-Ovularia avicularis Peck SPECIES
-=======
+# Ovularia avicularis Peck SPECIES
 
 #### Status
 ACCEPTED

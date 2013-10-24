@@ -1,5 +1,4 @@
-Phormidium africanum Lemmermann SPECIES
-=======
+# Phormidium africanum Lemmermann SPECIES
 
 #### Status
 ACCEPTED

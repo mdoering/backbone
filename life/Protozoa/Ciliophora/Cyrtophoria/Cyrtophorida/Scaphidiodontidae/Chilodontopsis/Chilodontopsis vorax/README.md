@@ -1,8 +1,7 @@
-Chilodonella vorax Stokes, 1887 SPECIES
-=======
+# Chilodontopsis vorax (Stokes, 1887) Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

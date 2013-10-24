@@ -1,5 +1,4 @@
-Morrisographium ulmicola (Ellis & Everh.) Illman & G.P. White, 1985 SPECIES
-=======
+# Morrisographium ulmicola (Ellis & Everh.) Illman & G.P. White, 1985 SPECIES
 
 #### Status
 ACCEPTED

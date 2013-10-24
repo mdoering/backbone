@@ -1,5 +1,4 @@
-Heterosporium lobeliae Speg. SPECIES
-=======
+# Heterosporium lobeliae Speg. SPECIES
 
 #### Status
 ACCEPTED

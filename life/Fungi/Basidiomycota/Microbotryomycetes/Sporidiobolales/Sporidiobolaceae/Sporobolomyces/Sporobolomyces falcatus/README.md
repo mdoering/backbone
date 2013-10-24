@@ -1,5 +1,4 @@
-Sporobolomyces falcatus Nakase, Itoh & M. Suzuki SPECIES
-=======
+# Sporobolomyces falcatus Nakase, Itoh & M. Suzuki SPECIES
 
 #### Status
 ACCEPTED

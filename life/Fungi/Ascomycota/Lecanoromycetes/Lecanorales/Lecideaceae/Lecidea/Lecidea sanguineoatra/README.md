@@ -1,5 +1,4 @@
-Lecidea sanguineoatra var. sanguineoatra VARIETY
-=======
+# Lecidea sanguineoatra (Wulfen) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Method. Lich. 50 (1803)
 
 #### Original name
-Lecidea sanguineoatra var. sanguineoatra
+Lichen sanguineoatra Wulfen
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Anisomeridium sphaerocarpum (Vain.) R.C. Harris SPECIES
-=======
+# Anisomeridium sphaerocarpum (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

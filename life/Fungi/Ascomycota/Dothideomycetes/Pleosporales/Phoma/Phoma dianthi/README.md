@@ -1,5 +1,4 @@
-Phoma dianthi Ellis & Everh. SPECIES
-=======
+# Phoma dianthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Muratodinium fimbriatum (Cookson & Eisenack, 1967) Drugg, 1970 SPECIES
-=======
+# Muratodinium fimbriatum (Cookson & Eisenack, 1967) Drugg, 1970 SPECIES
 
 #### Status
 ACCEPTED

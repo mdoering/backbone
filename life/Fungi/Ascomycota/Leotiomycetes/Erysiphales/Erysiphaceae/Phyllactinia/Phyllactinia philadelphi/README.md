@@ -1,5 +1,4 @@
-Phyllactinia philadelphi (Jacz.) Bunkina SPECIES
-=======
+# Phyllactinia philadelphi (Jacz.) Bunkina SPECIES
 
 #### Status
 ACCEPTED

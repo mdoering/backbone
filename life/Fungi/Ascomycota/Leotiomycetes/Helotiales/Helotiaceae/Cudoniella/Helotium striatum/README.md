@@ -1,5 +1,4 @@
-Helotium striatum Rodway SPECIES
-=======
+# Helotium striatum Rodway SPECIES
 
 #### Status
 ACCEPTED

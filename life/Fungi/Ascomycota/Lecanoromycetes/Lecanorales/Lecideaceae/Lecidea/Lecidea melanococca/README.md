@@ -1,5 +1,4 @@
-Lecidea melanococca Vain. SPECIES
-=======
+# Lecidea melanococca Vain. SPECIES
 
 #### Status
 ACCEPTED

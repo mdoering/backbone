@@ -1,5 +1,4 @@
-Xylaria setocephala H.S. Yates SPECIES
-=======
+# Xylaria setocephala H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

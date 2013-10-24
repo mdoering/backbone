@@ -1,5 +1,4 @@
-Rickia kamerunana Thaxt. SPECIES
-=======
+# Rickia kamerunana Thaxt. SPECIES
 
 #### Status
 ACCEPTED

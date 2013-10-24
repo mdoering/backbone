@@ -1,5 +1,4 @@
-Chroococcus smaragdinus Hauck SPECIES
-=======
+# Chroococcus smaragdinus Hauck SPECIES
 
 #### Status
 ACCEPTED

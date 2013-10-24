@@ -1,5 +1,4 @@
-Sporodictyon turicense G. Winter SPECIES
-=======
+# Sporodictyon turicense G. Winter SPECIES
 
 #### Status
 ACCEPTED

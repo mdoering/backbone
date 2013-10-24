@@ -1,5 +1,4 @@
-Dematium dimorphum P. Karst. SPECIES
-=======
+# Dematium dimorphum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

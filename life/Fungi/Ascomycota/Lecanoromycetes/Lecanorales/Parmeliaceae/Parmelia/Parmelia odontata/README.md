@@ -1,5 +1,4 @@
-Parmelia odontata var. odontata VARIETY
-=======
+# Parmelia odontata Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia odontata var. odontata
+Parmelia odontata Hue
 
 ### Remarks
 null

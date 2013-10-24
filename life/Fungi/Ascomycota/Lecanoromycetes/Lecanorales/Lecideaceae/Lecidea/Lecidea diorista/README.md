@@ -1,5 +1,4 @@
-Lecidea diorista Nyl. SPECIES
-=======
+# Lecidea diorista Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aegeritella maroccana Balazy, Espad. & J. Wisn. SPECIES
-=======
+# Aegeritella maroccana Balazy, Espad. & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

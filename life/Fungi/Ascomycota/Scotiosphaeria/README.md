@@ -1,5 +1,4 @@
-Scotiosphaeria Sivan. GENUS
-=======
+# Scotiosphaeria Sivan. GENUS
 
 #### Status
 ACCEPTED

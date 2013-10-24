@@ -1,5 +1,4 @@
-Acriora petala Wicander, 1974 SPECIES
-=======
+# Acriora petala Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

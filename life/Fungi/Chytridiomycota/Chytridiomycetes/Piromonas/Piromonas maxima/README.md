@@ -1,5 +1,4 @@
-Piromonas maxima E. Liebet. SPECIES
-=======
+# Piromonas maxima E. Liebet. SPECIES
 
 #### Status
 ACCEPTED

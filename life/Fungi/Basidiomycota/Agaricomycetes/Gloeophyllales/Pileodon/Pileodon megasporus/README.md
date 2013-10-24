@@ -1,17 +1,16 @@
-Pileodon megaspora P. Roberts & Hjortstam SPECIES
-=======
+# Pileodon megasporus P. Roberts & Hjortstam, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hjortstam, Roberts & Spooner, Kew Bull. 53(4): 817 (1998)
 
 #### Original name
-Pileodon megaspora P. Roberts & Hjortstam
+Pileodon megasporus P. Roberts & Hjortstam, 1998
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Halomicronema excentricum Abed, Garcia-Pichel & Hernández-Mariné, 2002 SPECIES
-=======
+# Halomicronema excentricum Abed, Garcia-Pichel & Hernández-Mariné, 2002 SPECIES
 
 #### Status
 ACCEPTED

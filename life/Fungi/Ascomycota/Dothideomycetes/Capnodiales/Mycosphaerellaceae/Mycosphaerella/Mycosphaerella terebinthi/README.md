@@ -1,5 +1,4 @@
-Mycosphaerella terebinthi (Pass.) Jacz. SPECIES
-=======
+# Mycosphaerella terebinthi (Pass.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

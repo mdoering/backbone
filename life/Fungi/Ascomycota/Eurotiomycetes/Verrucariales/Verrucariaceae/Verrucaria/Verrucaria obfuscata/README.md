@@ -1,5 +1,4 @@
-Verrucaria obfuscata Nyl. SPECIES
-=======
+# Verrucaria obfuscata Nyl. SPECIES
 
 #### Status
 ACCEPTED

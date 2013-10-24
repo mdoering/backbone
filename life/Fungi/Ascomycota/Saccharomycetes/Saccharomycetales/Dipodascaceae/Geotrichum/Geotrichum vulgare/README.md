@@ -1,5 +1,4 @@
-Geotrichum vulgare Wuczk., C.J. Bond & Prillinger SPECIES
-=======
+# Geotrichum vulgare Wuczk., C.J. Bond & Prillinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydropus omphaliniformis Singer SPECIES
-=======
+# Hydropus omphaliniformis Singer SPECIES
 
 #### Status
 ACCEPTED

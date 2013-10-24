@@ -1,5 +1,4 @@
-Pyrenula subindica Upreti SPECIES
-=======
+# Pyrenula subindica Upreti SPECIES
 
 #### Status
 ACCEPTED

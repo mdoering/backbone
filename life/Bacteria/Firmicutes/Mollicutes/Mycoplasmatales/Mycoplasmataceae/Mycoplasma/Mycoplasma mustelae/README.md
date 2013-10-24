@@ -1,5 +1,4 @@
-Mycoplasma mustelae Salih et al., 1983 SPECIES
-=======
+# Mycoplasma mustelae Salih et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

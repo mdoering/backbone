@@ -1,17 +1,16 @@
-Endomycopsis montevideensis L.A. Queiroz, 1973 SPECIES
-=======
+# Trichosporon montevideense (L.A. Queiroz) E. Guého & M.T. Sm., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 61(4): 301 (1992)
 
 #### Original name
-null
+Endomycopsis montevidensis L.A. Queiroz
 
 ### Remarks
 null

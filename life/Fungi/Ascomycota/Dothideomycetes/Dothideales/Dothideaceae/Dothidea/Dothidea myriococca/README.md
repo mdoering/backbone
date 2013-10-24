@@ -1,5 +1,4 @@
-Dothidea myriococca (Mont.) Sacc. SPECIES
-=======
+# Dothidea myriococca (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

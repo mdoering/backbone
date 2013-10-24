@@ -1,5 +1,4 @@
-Gloeosporium epicarpi Thüm. SPECIES
-=======
+# Gloeosporium epicarpi Thüm. SPECIES
 
 #### Status
 ACCEPTED

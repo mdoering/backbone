@@ -1,5 +1,4 @@
-Phialea paludina Quél. SPECIES
-=======
+# Phialea paludina Quél. SPECIES
 
 #### Status
 ACCEPTED

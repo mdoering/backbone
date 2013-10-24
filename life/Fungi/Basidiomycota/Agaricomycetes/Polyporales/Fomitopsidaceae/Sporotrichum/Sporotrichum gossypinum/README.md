@@ -1,5 +1,4 @@
-Sporotrichum gossypinum Speg. SPECIES
-=======
+# Sporotrichum gossypinum Speg. SPECIES
 
 #### Status
 ACCEPTED

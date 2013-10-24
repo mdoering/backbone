@@ -1,5 +1,4 @@
-Chrysosporium minutisporosum P. Vidal & Guarro SPECIES
-=======
+# Chrysosporium minutisporosum P. Vidal & Guarro SPECIES
 
 #### Status
 ACCEPTED

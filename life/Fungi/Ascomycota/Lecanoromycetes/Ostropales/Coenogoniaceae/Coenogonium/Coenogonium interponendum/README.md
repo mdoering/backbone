@@ -1,5 +1,4 @@
-Coenogonium interponendum Nyl. SPECIES
-=======
+# Coenogonium interponendum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorellidium astigmatum Schwarz SPECIES
-=======
+# Chlorellidium astigmatum Schwarz SPECIES
 
 #### Status
 ACCEPTED

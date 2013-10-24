@@ -1,5 +1,4 @@
-Infundibulicybe lapponica (Harmaja) Harmaja SPECIES
-=======
+# Infundibulicybe lapponica (Harmaja) Harmaja SPECIES
 
 #### Status
 ACCEPTED

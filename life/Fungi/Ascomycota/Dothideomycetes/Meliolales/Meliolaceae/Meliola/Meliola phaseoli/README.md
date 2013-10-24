@@ -1,5 +1,4 @@
-Meliola phaseoli Thite ex Hosag. SPECIES
-=======
+# Meliola phaseoli Thite ex Hosag. SPECIES
 
 #### Status
 ACCEPTED

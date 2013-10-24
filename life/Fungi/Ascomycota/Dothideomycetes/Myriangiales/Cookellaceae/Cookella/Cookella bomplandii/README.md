@@ -1,5 +1,4 @@
-Cookella bomplandii Speg. SPECIES
-=======
+# Cookella bomplandii Speg. SPECIES
 
 #### Status
 ACCEPTED

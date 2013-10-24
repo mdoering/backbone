@@ -1,5 +1,4 @@
-Parahydraeomyces neapolitanus Speg. SPECIES
-=======
+# Parahydraeomyces neapolitanus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Trichaptum agglutinatum var. agglutinatum Corner VARIETY
-=======
+# Trichaptum agglutinatum Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 86: 204 (1987)
 
 #### Original name
-Trichaptum agglutinatum var. agglutinatum Corner
+Trichaptum agglutinatum Corner, 1987
 
 ### Remarks
 null

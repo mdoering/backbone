@@ -1,5 +1,4 @@
-Coptolithus virgatus Black, 1973 SPECIES
-=======
+# Coptolithus virgatus Black, 1973 SPECIES
 
 #### Status
 DOUBTFUL

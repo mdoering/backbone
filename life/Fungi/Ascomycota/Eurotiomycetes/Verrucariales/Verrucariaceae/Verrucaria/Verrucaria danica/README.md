@@ -1,5 +1,4 @@
-Verrucaria danica Servít & M.S. Christ. SPECIES
-=======
+# Verrucaria danica Servít & M.S. Christ. SPECIES
 
 #### Status
 ACCEPTED

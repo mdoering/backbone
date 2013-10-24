@@ -1,5 +1,4 @@
-Stilbum typhinum Wallr. SPECIES
-=======
+# Stilbum typhinum Wallr. SPECIES
 
 #### Status
 ACCEPTED

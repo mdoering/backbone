@@ -1,5 +1,4 @@
-Obscurodiscus Raitv. GENUS
-=======
+# Obscurodiscus Raitv. GENUS
 
 #### Status
 ACCEPTED

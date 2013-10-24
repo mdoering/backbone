@@ -1,5 +1,4 @@
-Aplosporella vernoniae S. Ahmad SPECIES
-=======
+# Aplosporella vernoniae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

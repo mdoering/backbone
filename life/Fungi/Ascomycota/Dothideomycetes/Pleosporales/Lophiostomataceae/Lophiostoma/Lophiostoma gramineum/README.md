@@ -1,5 +1,4 @@
-Lophiostoma gramineum Sacc. SPECIES
-=======
+# Lophiostoma gramineum Sacc. SPECIES
 
 #### Status
 ACCEPTED

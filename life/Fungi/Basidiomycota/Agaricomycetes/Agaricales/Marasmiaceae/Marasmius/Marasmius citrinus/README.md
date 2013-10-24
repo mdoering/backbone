@@ -1,5 +1,4 @@
-Marasmius citrinus Henn. SPECIES
-=======
+# Marasmius citrinus Henn. SPECIES
 
 #### Status
 ACCEPTED

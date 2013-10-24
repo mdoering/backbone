@@ -1,5 +1,4 @@
-Hydrocybe californica Murrill SPECIES
-=======
+# Hydrocybe californica Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora longipes E.J. Butler, 1906 SPECIES
-=======
+# Cercospora longipes E.J. Butler, 1906 SPECIES
 
 #### Status
 ACCEPTED

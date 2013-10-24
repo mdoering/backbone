@@ -1,5 +1,4 @@
-Argentinomyces naviculisporus N.I. Peña & Aramb., 1997 SPECIES
-=======
+# Argentinomyces naviculisporus N.I. Peña & Aramb., 1997 SPECIES
 
 #### Status
 ACCEPTED

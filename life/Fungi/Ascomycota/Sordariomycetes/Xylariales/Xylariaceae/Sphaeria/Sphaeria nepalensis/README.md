@@ -1,5 +1,4 @@
-Sphaeria nepalensis Berk. SPECIES
-=======
+# Sphaeria nepalensis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Therminosporus GENUS
-=======
+# Therminosporus GENUS
 
 #### Status
 ACCEPTED

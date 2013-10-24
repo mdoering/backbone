@@ -1,5 +1,4 @@
-Baloghisphaera Kozur & Mostler, 1980 GENUS
-=======
+# Baloghisphaera Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

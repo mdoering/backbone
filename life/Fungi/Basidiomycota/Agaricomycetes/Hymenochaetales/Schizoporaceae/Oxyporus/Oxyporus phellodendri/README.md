@@ -1,5 +1,4 @@
-Oxyporus phellodendri Bondartsev & Lj.N. Vassiljeva, 1963 SPECIES
-=======
+# Oxyporus phellodendri Bondartsev & Lj.N. Vassiljeva, 1963 SPECIES
 
 #### Status
 ACCEPTED

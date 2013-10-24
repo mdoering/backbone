@@ -1,5 +1,4 @@
-Aecidium memecyli Thirum. SPECIES
-=======
+# Aecidium memecyli Thirum. SPECIES
 
 #### Status
 ACCEPTED

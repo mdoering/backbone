@@ -1,5 +1,4 @@
-Streptomyces hebeiensis Xu et al., 2004 SPECIES
-=======
+# Streptomyces hebeiensis Xu et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea geochroa var. geochroa VARIETY
-=======
+# Lecidea geochroa Gray SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: (1821)
 
 #### Original name
-Lecidea geochroa var. geochroa
+Lecidea geochroa Gray
 
 ### Remarks
 null

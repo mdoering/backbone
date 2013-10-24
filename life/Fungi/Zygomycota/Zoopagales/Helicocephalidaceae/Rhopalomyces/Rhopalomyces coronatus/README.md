@@ -1,17 +1,16 @@
-Rhopalomyces coronata Krzemien. & Badura SPECIES
-=======
+# Rhopalomyces coronatus Krzemien. & Badura SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Soc. Bot. Pol. 23: 733 (1954)
 
 #### Original name
-Rhopalomyces coronata Krzemien. & Badura
+Rhopalomyces coronatus Krzemien. & Badura
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Galerina diabolissima A.H. Sm. SPECIES
-=======
+# Galerina diabolissima A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

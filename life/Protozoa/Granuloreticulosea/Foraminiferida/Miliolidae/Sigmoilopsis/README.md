@@ -1,5 +1,4 @@
-Sigmoilopsis Finlay, 1947 GENUS
-=======
+# Sigmoilopsis Finlay, 1947 GENUS
 
 #### Status
 ACCEPTED

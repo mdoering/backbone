@@ -1,5 +1,4 @@
-Chloridella simplex Pascher SPECIES
-=======
+# Chloridella simplex Pascher SPECIES
 
 #### Status
 ACCEPTED

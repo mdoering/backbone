@@ -1,8 +1,7 @@
-Halochloa serratifolia (C. Agardh) Kützing SPECIES
-=======
+# Sargassum serratifolium (C. Agardh) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

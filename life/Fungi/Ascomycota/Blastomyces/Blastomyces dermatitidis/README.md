@@ -1,8 +1,7 @@
-Torulopsis dermatitidis (Gilchrist & W.R. Stokes) F.P. Almeida, 1933 SPECIES
-=======
+# Blastomyces dermatitidis Gilchrist & W.R. Stokes, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

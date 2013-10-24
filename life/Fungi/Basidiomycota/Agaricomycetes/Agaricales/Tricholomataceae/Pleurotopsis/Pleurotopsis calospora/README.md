@@ -1,5 +1,4 @@
-Pleurotopsis calospora (Pat.) Murrill SPECIES
-=======
+# Pleurotopsis calospora (Pat.) Murrill SPECIES
 
 #### Status
 ACCEPTED

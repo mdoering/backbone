@@ -1,5 +1,4 @@
-Bacidia pachycarpa (Delise ex Duby) Trevis. SPECIES
-=======
+# Bacidia pachycarpa (Delise ex Duby) Trevis. SPECIES
 
 #### Status
 ACCEPTED

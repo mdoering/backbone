@@ -1,5 +1,4 @@
-Verrucaria eurysperma Stizenb. SPECIES
-=======
+# Verrucaria eurysperma Stizenb. SPECIES
 
 #### Status
 ACCEPTED

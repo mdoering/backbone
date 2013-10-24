@@ -1,5 +1,4 @@
-Agaricus saccharatus With. SPECIES
-=======
+# Agaricus saccharatus With. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pycnopeltis Syd. & P. Syd. GENUS
-=======
+# Saccardinula Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(5): 365 (1916)
+Anal. Soc. cient. argent. 19(6): 257 (1885)
 
 #### Original name
-Pycnopeltis Syd. & P. Syd.
+Saccardinula Speg.
 
 ### Remarks
 null

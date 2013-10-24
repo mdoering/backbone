@@ -1,5 +1,4 @@
-Pseudolignincola siamensis Chatmala & E.B.G. Jones, 2006 SPECIES
-=======
+# Pseudolignincola siamensis Chatmala & E.B.G. Jones, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia asperior Ellis & Everh. SPECIES
-=======
+# Puccinia asperior Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

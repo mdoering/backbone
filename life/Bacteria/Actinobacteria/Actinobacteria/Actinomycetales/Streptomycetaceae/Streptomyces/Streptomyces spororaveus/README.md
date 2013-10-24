@@ -1,11 +1,10 @@
-Actinomyces spororaveus Krasil'nikov, 1970 SPECIES
-=======
+# Streptomyces spororaveus (ex Krasil'nikov, 1970) Preobrazhenskaya, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

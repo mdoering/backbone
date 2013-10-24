@@ -1,5 +1,4 @@
-Coleosporium clematidis Barclay, 1890 SPECIES
-=======
+# Coleosporium clematidis Barclay, 1890 SPECIES
 
 #### Status
 ACCEPTED

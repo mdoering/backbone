@@ -1,5 +1,4 @@
-Marasmius subroseus Cooke & Massee SPECIES
-=======
+# Marasmius subroseus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

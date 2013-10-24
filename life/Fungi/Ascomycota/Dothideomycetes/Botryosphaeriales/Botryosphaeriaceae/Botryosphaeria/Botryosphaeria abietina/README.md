@@ -1,14 +1,13 @@
-Cryptosporina abietina (Prill. & Delacr.) Theiss., 1915 SPECIES
-=======
+# Botryosphaeria abietina (Prill. & Delacr.) Maubl., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 66: 395 (1915)
+Bull. Soc. mycol. Fr. 23: 169 (1907)
 
 #### Original name
 Physalospora abietina Prill. & Delacr., 1890

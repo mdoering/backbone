@@ -1,5 +1,4 @@
-Ascotricha canariensis Stchigel, Dania García & Guarro SPECIES
-=======
+# Ascotricha canariensis Stchigel, Dania García & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaena contorta Bachmann, 1921 SPECIES
-=======
+# Anabaena contorta Bachmann, 1921 SPECIES
 
 #### Status
 ACCEPTED

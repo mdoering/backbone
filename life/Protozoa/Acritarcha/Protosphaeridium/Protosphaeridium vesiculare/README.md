@@ -1,5 +1,4 @@
-Protosphaeridium vesiculare Andreeva, 1973 SPECIES
-=======
+# Protosphaeridium vesiculare Andreeva, 1973 SPECIES
 
 #### Status
 ACCEPTED

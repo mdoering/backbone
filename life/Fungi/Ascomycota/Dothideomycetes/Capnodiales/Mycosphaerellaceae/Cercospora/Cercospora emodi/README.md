@@ -1,5 +1,4 @@
-Cercospora emodi Pandotra & K.S.M. Sastry SPECIES
-=======
+# Cercospora emodi Pandotra & K.S.M. Sastry SPECIES
 
 #### Status
 ACCEPTED

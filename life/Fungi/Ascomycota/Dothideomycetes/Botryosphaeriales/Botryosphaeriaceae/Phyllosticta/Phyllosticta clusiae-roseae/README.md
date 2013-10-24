@@ -1,5 +1,4 @@
-Phyllosticta clusiae-roseae Gonz. Frag. & Cif. SPECIES
-=======
+# Phyllosticta clusiae-roseae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

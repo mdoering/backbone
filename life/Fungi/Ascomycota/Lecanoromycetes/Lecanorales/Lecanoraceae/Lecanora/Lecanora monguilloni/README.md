@@ -1,5 +1,4 @@
-Lecanora monguilloni B. de Lesd. SPECIES
-=======
+# Lecanora monguilloni B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

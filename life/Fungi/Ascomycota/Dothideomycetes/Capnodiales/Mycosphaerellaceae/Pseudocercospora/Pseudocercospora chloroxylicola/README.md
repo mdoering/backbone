@@ -1,5 +1,4 @@
-Pseudocercospora chloroxylicola Hosag. & R.K. Verma SPECIES
-=======
+# Pseudocercospora chloroxylicola Hosag. & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

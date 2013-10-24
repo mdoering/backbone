@@ -1,5 +1,4 @@
-Stereocaulon symphycheilum I. M. Lamb SPECIES
-=======
+# Stereocaulon symphycheilum I. M. Lamb SPECIES
 
 #### Status
 ACCEPTED

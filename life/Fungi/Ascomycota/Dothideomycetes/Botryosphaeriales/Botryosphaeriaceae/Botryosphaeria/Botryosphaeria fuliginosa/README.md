@@ -1,5 +1,4 @@
-Botryosphaeria fuliginosa (Moug. & Nestl.) Ellis & Everh. SPECIES
-=======
+# Botryosphaeria fuliginosa (Moug. & Nestl.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

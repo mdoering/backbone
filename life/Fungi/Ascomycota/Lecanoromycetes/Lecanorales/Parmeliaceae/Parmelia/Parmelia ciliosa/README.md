@@ -1,5 +1,4 @@
-Parmelia ciliosa (Vain.) Gyeln. SPECIES
-=======
+# Parmelia ciliosa (Vain.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

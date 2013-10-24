@@ -1,5 +1,4 @@
-Tricharina mariae (Svrcek) Svrcek SPECIES
-=======
+# Tricharina mariae (Svrcek) Svrcek SPECIES
 
 #### Status
 ACCEPTED

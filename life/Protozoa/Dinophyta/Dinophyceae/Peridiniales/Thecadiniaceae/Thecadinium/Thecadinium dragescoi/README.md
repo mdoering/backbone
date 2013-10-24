@@ -1,5 +1,4 @@
-Thecadinium dragescoi Balech SPECIES
-=======
+# Thecadinium dragescoi Balech SPECIES
 
 #### Status
 ACCEPTED

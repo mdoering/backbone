@@ -1,5 +1,4 @@
-Chaetoceros skeleton Cleve SPECIES
-=======
+# Chaetoceros skeleton Cleve SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora bontocensis Syd., 1923 SPECIES
-=======
+# Phyllachora bontocensis Syd., 1923 SPECIES
 
 #### Status
 ACCEPTED

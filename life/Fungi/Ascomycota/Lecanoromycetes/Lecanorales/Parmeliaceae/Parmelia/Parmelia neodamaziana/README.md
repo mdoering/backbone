@@ -1,5 +1,4 @@
-Parmelia neodamaziana Elix & J. Johnst. SPECIES
-=======
+# Parmelia neodamaziana Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

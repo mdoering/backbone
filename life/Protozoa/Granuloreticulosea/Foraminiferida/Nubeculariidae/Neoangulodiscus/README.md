@@ -1,5 +1,4 @@
-Neoangulodiscus GENUS
-=======
+# Neoangulodiscus GENUS
 
 #### Status
 ACCEPTED

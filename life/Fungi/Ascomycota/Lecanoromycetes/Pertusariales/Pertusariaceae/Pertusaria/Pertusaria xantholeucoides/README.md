@@ -1,5 +1,4 @@
-Pertusaria xantholeucoides Müll. Arg. SPECIES
-=======
+# Pertusaria xantholeucoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

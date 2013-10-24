@@ -1,5 +1,4 @@
-Rhodocollybia sleumeri (Singer) Halling SPECIES
-=======
+# Rhodocollybia sleumeri (Singer) Halling SPECIES
 
 #### Status
 ACCEPTED

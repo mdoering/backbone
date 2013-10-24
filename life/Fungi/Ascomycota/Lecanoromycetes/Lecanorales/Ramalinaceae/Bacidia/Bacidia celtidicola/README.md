@@ -1,5 +1,4 @@
-Bacidia celtidicola SPECIES
-=======
+# Bacidia celtidicola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Symplassosphaeridium specusum Ouyang Shu et al., 1974 SPECIES
-=======
+# Symplassosphaeridium specusum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

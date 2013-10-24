@@ -1,5 +1,4 @@
-Ammopemphix quadrupla (Wiesner, 1931) SPECIES
-=======
+# Ammopemphix quadrupla (Wiesner, 1931) SPECIES
 
 #### Status
 ACCEPTED

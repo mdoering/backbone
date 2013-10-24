@@ -1,5 +1,4 @@
-Pestalozzina alpina Weinzierl {?} SPECIES
-=======
+# Pestalozzina alpina Weinzierl {?} SPECIES
 
 #### Status
 ACCEPTED

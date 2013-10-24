@@ -1,5 +1,4 @@
-Cercoseptoria tecomae-heterophyllae (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria tecomae-heterophyllae (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

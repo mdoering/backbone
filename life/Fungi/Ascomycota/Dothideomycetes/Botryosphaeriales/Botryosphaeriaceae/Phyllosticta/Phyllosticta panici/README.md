@@ -1,5 +1,4 @@
-Phyllosticta panici E. Young SPECIES
-=======
+# Phyllosticta panici E. Young SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia anthracina Anzi SPECIES
-=======
+# Buellia anthracina Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Exidiopsis alba Lloyd, 1913 SPECIES
-=======
+# Gloeotromera alba (Lloyd) Ervin, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4 (Letter 44) 9 (1913)
+Mycologia 48: 692 (1956)
 
 #### Original name
 Exidiopsis alba Lloyd, 1913

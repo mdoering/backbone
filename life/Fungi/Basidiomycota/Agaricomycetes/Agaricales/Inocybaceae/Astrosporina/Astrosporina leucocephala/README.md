@@ -1,5 +1,4 @@
-Astrosporina leucocephala (Boud.) Rea SPECIES
-=======
+# Astrosporina leucocephala (Boud.) Rea SPECIES
 
 #### Status
 ACCEPTED

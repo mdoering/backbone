@@ -1,14 +1,13 @@
-Sebacinella citrispora Hauerslev, 1976 SPECIES
-=======
+# Oliveonia citrispora (Hauerslev) P. Roberts, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 11(2): 96 (1976)
+Folia cryptog. Estonica 33: 129 (1998)
 
 #### Original name
 Sebacinella citrispora Hauerslev, 1976

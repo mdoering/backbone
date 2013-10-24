@@ -1,14 +1,13 @@
-Akaropeltis kielmeyerae Bat. & J.L. Bezerra, 1961 SPECIES
-=======
+# Akaropeltella kielmeyerae (Bat. & J.L. Bezerra) M.L. Farr, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publções Inst. Micol. Recife 313: 6 (1961)
+Mycologia 64(2): 253 (1972)
 
 #### Original name
 Akaropeltis kielmeyerae Bat. & J.L. Bezerra, 1961

@@ -1,5 +1,4 @@
-Cladonia humboldtii Abbayes SPECIES
-=======
+# Cladonia humboldtii Abbayes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiodothella lagerstroemiae Hosag. & N.C. Nair, 1986 SPECIES
-=======
+# Ophiodothella lagerstroemiae Hosag. & N.C. Nair, 1986 SPECIES
 
 #### Status
 ACCEPTED

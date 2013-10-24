@@ -1,5 +1,4 @@
-Lasiosphaeria acanthigera (Berk. & Broome) Sacc. SPECIES
-=======
+# Lasiosphaeria acanthigera (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

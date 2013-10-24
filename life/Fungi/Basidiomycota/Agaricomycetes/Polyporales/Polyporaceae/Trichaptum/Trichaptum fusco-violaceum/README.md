@@ -1,5 +1,4 @@
-Trichaptum fusco-violaceum (Ehrenb. Fr.) Ryvarden SPECIES
-=======
+# Trichaptum fusco-violaceum (Ehrenb. Fr.) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

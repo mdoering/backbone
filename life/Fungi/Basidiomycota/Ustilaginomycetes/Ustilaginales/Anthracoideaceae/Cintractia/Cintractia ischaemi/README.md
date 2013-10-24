@@ -1,5 +1,4 @@
-Cintractia ischaemi Syd. SPECIES
-=======
+# Cintractia ischaemi Syd. SPECIES
 
 #### Status
 ACCEPTED

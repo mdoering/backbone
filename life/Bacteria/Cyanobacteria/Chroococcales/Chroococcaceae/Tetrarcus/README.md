@@ -1,5 +1,4 @@
-Tetrarcus H.Skuja, 1934 GENUS
-=======
+# Tetrarcus H.Skuja, 1934 GENUS
 
 #### Status
 ACCEPTED

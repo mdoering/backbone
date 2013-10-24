@@ -1,14 +1,13 @@
-Erinella nivea var. pudibunda (Quél.) Quél., 1886 VARIETY
-=======
+# Lachnum pudibundum (Quél.) J. Schröt., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 304 (1886)
+null
 
 #### Original name
 Erinella pudibunda Quél., 1885

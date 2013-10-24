@@ -1,5 +1,4 @@
-Cystangium polychromum Trappe & Claridge, 2003 SPECIES
-=======
+# Cystangium polychromum Trappe & Claridge, 2003 SPECIES
 
 #### Status
 ACCEPTED

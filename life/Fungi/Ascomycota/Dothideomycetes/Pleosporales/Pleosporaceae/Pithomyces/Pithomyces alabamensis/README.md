@@ -1,14 +1,13 @@
-Stemphyliomma alabamensis Matsush., 1981 SPECIES
-=======
+# Pithomyces alabamensis (Matsush.) P.M. Kirk, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Matsush. Mycol. Mem. , no. 2 2: 16 (1981)
+Trans. Br. mycol. Soc. 80(3): 462 (1983)
 
 #### Original name
 Stemphyliomma alabamensis Matsush., 1981

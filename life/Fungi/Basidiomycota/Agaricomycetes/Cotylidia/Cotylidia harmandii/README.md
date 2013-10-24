@@ -1,14 +1,13 @@
-Stereum harmandii Lloyd, 1913 SPECIES
-=======
+# Cotylidia harmandii (Lloyd) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4: 22 (1913)
+Beih. Nova Hedwigia 18: 76 (1965)
 
 #### Original name
 Stereum harmandii Lloyd, 1913

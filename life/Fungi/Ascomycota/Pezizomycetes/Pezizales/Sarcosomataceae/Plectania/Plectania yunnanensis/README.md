@@ -1,5 +1,4 @@
-Plectania yunnanensis W.Y. Zhuang SPECIES
-=======
+# Plectania yunnanensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

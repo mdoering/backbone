@@ -1,5 +1,4 @@
-Cercospora oleae Unamuno SPECIES
-=======
+# Cercospora oleae Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatoma vitrea Kützing SPECIES
-=======
+# Diatoma vitrea Kützing SPECIES
 
 #### Status
 ACCEPTED

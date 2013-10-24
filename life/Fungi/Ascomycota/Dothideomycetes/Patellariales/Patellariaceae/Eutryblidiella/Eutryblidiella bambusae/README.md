@@ -1,5 +1,4 @@
-Eutryblidiella bambusae L.N. Nair & P.G. Reddy SPECIES
-=======
+# Eutryblidiella bambusae L.N. Nair & P.G. Reddy SPECIES
 
 #### Status
 ACCEPTED

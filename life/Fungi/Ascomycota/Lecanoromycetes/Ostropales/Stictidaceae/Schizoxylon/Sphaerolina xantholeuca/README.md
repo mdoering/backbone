@@ -1,5 +1,4 @@
-Sphaerolina xantholeuca Fuckel SPECIES
-=======
+# Sphaerolina xantholeuca Fuckel SPECIES
 
 #### Status
 ACCEPTED

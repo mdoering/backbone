@@ -1,5 +1,4 @@
-Barlaea musiva (Fr.) Sacc. SPECIES
-=======
+# Barlaea musiva (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

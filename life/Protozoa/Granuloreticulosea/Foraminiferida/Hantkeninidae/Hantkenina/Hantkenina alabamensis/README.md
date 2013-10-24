@@ -1,5 +1,4 @@
-Hantkenina alabamensis SPECIES
-=======
+# Hantkenina alabamensis SPECIES
 
 #### Status
 ACCEPTED

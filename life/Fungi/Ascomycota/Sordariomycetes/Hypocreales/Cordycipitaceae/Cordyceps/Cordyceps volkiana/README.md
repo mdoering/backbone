@@ -1,5 +1,4 @@
-Cordyceps volkiana Möller SPECIES
-=======
+# Cordyceps volkiana Möller SPECIES
 
 #### Status
 ACCEPTED

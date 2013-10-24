@@ -1,5 +1,4 @@
-Aecidium senecionis-durieui Gonz. Frag. SPECIES
-=======
+# Aecidium senecionis-durieui Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

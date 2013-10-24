@@ -1,17 +1,16 @@
-Tremella lloydii-candida Wojewoda SPECIES
-=======
+# Tremella lloydiae-candidae Wojewoda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mala Flora Grzybów (Warszawa), <b>2</b> Basidiomycetes (Podstawczaki) Tremellales (Trzesakowe) Auriculariales (Uszakowe) 152 (1981)
 
 #### Original name
-Tremella lloydii-candida Wojewoda
+Tremella candida
 
 ### Remarks
 null

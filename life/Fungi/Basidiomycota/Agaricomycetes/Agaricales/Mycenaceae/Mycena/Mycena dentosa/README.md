@@ -1,5 +1,4 @@
-Mycena dentosa Berk. SPECIES
-=======
+# Mycena dentosa Berk. SPECIES
 
 #### Status
 ACCEPTED

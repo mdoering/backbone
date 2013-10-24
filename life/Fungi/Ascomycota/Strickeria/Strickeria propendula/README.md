@@ -1,5 +1,4 @@
-Strickeria propendula (P. Karst.) Cooke SPECIES
-=======
+# Strickeria propendula (P. Karst.) Cooke SPECIES
 
 #### Status
 ACCEPTED

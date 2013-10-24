@@ -1,5 +1,4 @@
-Mycosphaerella aequatoriensis Petr. SPECIES
-=======
+# Mycosphaerella aequatoriensis Petr. SPECIES
 
 #### Status
 ACCEPTED

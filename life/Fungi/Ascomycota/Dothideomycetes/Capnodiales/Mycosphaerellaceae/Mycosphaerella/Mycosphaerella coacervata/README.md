@@ -1,5 +1,4 @@
-Mycosphaerella coacervata Syd., 1924 SPECIES
-=======
+# Mycosphaerella coacervata Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

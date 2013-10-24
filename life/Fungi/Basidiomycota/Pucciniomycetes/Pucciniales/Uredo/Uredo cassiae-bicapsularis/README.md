@@ -1,5 +1,4 @@
-Uredo cassiae-bicapsularis Petch SPECIES
-=======
+# Uredo cassiae-bicapsularis Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus sancti-xaverii Singer SPECIES
-=======
+# Pluteus sancti-xaverii Singer SPECIES
 
 #### Status
 ACCEPTED

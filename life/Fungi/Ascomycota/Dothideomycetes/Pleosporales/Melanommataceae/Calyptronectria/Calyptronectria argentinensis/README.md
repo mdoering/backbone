@@ -1,5 +1,4 @@
-Calyptronectria argentinensis Speg. SPECIES
-=======
+# Calyptronectria argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

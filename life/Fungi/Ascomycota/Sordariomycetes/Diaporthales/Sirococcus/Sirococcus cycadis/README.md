@@ -1,5 +1,4 @@
-Sirococcus cycadis Speg. SPECIES
-=======
+# Sirococcus cycadis Speg. SPECIES
 
 #### Status
 ACCEPTED

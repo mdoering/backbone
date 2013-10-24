@@ -1,5 +1,4 @@
-Meliola smilacis F. Stevens SPECIES
-=======
+# Meliola smilacis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

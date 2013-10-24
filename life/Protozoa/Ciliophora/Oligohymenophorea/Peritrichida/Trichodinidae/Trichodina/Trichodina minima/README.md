@@ -1,5 +1,4 @@
-Trichodina minima Shtein, 1979 SPECIES
-=======
+# Trichodina minima Shtein, 1979 SPECIES
 
 #### Status
 ACCEPTED

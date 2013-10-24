@@ -1,5 +1,4 @@
-Cryptosphaerella nitschkei (Auersw.) Sacc. SPECIES
-=======
+# Cryptosphaerella nitschkei (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

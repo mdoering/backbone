@@ -1,17 +1,16 @@
-Zasmidium pittospori (U. Braun) U. Braun, 2010 SPECIES
-=======
+# Stenella pittospori U. Braun, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Braun & Crous, Fungal Diversity 26(1): 68 (2007)
 
 #### Original name
-null
+Stenella pittospori U. Braun, 2007
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Idalina Munier-Chalmas & Schlumberger, 1884 GENUS
-=======
+# Idalina Munier-Chalmas & Schlumberger, 1884 GENUS
 
 #### Status
 ACCEPTED

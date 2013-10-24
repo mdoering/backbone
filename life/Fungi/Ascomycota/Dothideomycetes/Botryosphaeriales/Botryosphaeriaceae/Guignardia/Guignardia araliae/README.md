@@ -1,5 +1,4 @@
-Guignardia araliae Gutner SPECIES
-=======
+# Guignardia araliae Gutner SPECIES
 
 #### Status
 ACCEPTED

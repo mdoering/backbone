@@ -1,5 +1,4 @@
-Clitocybe catervata H.E. Bigelow SPECIES
-=======
+# Clitocybe catervata H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon nitens A.H. Sm. SPECIES
-=======
+# Rhizopogon nitens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma austrokoningii Samuels & Druzhin. SPECIES
-=======
+# Trichoderma austrokoningii Samuels & Druzhin. SPECIES
 
 #### Status
 ACCEPTED

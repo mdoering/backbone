@@ -1,5 +1,4 @@
-Asteromella garrettii (Syd. & P. Syd.) Aa SPECIES
-=======
+# Asteromella garrettii (Syd. & P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

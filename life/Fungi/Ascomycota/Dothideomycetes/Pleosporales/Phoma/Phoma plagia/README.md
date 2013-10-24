@@ -1,5 +1,4 @@
-Phoma plagia Cooke & Massee SPECIES
-=======
+# Phoma plagia Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

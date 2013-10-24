@@ -1,5 +1,4 @@
-Rhinothrix GENUS
-=======
+# Rhinothrix GENUS
 
 #### Status
 ACCEPTED

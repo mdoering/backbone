@@ -1,5 +1,4 @@
-Arthropyrenia GENUS
-=======
+# Arthropyrenia GENUS
 
 #### Status
 ACCEPTED

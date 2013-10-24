@@ -1,17 +1,16 @@
-Cercospora papaveri Nakata SPECIES
-=======
+# Cercospora papaveris A.S. Mull. & Chupp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph of Cercospora (1954)
 
 #### Original name
-Cercospora papaveri Nakata
+Cercospora papaveris A.S. Mull. & Chupp
 
 ### Remarks
 null

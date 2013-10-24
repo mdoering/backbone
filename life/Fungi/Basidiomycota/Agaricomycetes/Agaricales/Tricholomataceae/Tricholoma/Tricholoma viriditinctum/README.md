@@ -1,5 +1,4 @@
-Tricholoma viriditinctum Sacc. SPECIES
-=======
+# Tricholoma viriditinctum Sacc. SPECIES
 
 #### Status
 ACCEPTED

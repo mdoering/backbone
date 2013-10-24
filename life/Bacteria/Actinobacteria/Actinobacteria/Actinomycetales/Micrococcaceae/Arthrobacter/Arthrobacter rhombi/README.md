@@ -1,5 +1,4 @@
-Arthrobacter rhombi Osorio et al., 1999 SPECIES
-=======
+# Arthrobacter rhombi Osorio et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

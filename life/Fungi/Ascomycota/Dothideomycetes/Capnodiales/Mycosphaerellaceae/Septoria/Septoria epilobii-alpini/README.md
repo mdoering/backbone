@@ -1,5 +1,4 @@
-Septoria epilobii-alpini Jørst. SPECIES
-=======
+# Septoria epilobii-alpini Jørst. SPECIES
 
 #### Status
 ACCEPTED

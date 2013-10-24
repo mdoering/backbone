@@ -1,5 +1,4 @@
-Medusula punctum Mont. SPECIES
-=======
+# Medusula punctum Mont. SPECIES
 
 #### Status
 ACCEPTED

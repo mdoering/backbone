@@ -1,5 +1,4 @@
-Systylis Bresslau, 1919 GENUS
-=======
+# Systylis Bresslau, 1919 GENUS
 
 #### Status
 ACCEPTED

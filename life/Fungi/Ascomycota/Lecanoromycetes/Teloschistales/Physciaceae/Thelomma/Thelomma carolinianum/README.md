@@ -1,5 +1,4 @@
-Thelomma carolinianum (Tuck.) Tibell SPECIES
-=======
+# Thelomma carolinianum (Tuck.) Tibell SPECIES
 
 #### Status
 ACCEPTED

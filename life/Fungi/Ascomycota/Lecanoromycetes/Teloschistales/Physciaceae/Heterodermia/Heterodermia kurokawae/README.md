@@ -1,5 +1,4 @@
-Heterodermia kurokawae Trass SPECIES
-=======
+# Heterodermia kurokawae Trass SPECIES
 
 #### Status
 ACCEPTED

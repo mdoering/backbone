@@ -1,5 +1,4 @@
-Smittium basiramosum Siri, 2010 SPECIES
-=======
+# Smittium basiramosum Siri, 2010 SPECIES
 
 #### Status
 ACCEPTED

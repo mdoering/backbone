@@ -1,5 +1,4 @@
-Graphis saipanensis M. Nakan. & H. Harada SPECIES
-=======
+# Graphis saipanensis M. Nakan. & H. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema breviciliatum (Hale) Hale SPECIES
-=======
+# Parmotrema breviciliatum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

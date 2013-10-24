@@ -1,5 +1,4 @@
-Peronospora polygoni-convolvuli A. Gustavsson, 1959 SPECIES
-=======
+# Peronospora polygoni-convolvuli A. Gustavsson, 1959 SPECIES
 
 #### Status
 ACCEPTED

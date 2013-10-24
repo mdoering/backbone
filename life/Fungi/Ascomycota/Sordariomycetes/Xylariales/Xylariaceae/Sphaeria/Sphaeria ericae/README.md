@@ -1,5 +1,4 @@
-Sphaeria ericae Fr. SPECIES
-=======
+# Sphaeria ericae Fr. SPECIES
 
 #### Status
 ACCEPTED

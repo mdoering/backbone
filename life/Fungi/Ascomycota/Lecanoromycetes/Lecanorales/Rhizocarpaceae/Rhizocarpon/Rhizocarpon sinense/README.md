@@ -1,5 +1,4 @@
-Rhizocarpon sinense SPECIES
-=======
+# Rhizocarpon sinense SPECIES
 
 #### Status
 ACCEPTED

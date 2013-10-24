@@ -1,5 +1,4 @@
-Marasmius amaryllidis Torrend SPECIES
-=======
+# Marasmius amaryllidis Torrend SPECIES
 
 #### Status
 ACCEPTED

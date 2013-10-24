@@ -1,5 +1,4 @@
-Fromea staveia Elsik, 1977 SPECIES
-=======
+# Fromea staveia Elsik, 1977 SPECIES
 
 #### Status
 ACCEPTED

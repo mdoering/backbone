@@ -1,5 +1,4 @@
-Pythium reptans de Bary SPECIES
-=======
+# Pythium reptans de Bary SPECIES
 
 #### Status
 ACCEPTED

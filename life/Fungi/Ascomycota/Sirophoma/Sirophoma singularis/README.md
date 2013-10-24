@@ -1,5 +1,4 @@
-Sirophoma singularis Höhn., 1917 SPECIES
-=======
+# Sirophoma singularis Höhn., 1917 SPECIES
 
 #### Status
 ACCEPTED

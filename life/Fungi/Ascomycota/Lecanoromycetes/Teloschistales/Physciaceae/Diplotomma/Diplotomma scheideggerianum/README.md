@@ -1,5 +1,4 @@
-Diplotomma scheideggerianum (Bricaud & Cl. Roux) Nimis SPECIES
-=======
+# Diplotomma scheideggerianum (Bricaud & Cl. Roux) Nimis SPECIES
 
 #### Status
 ACCEPTED

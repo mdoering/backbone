@@ -1,5 +1,4 @@
-Ascochyta menyanthicola Melnik SPECIES
-=======
+# Ascochyta menyanthicola Melnik SPECIES
 
 #### Status
 ACCEPTED

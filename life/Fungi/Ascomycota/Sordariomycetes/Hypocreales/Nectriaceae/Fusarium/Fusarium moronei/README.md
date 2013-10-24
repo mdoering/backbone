@@ -1,5 +1,4 @@
-Fusarium moronei Curzi SPECIES
-=======
+# Fusarium moronei Curzi SPECIES
 
 #### Status
 ACCEPTED

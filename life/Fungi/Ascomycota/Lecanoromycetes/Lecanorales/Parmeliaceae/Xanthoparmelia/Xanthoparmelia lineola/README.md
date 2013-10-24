@@ -1,14 +1,13 @@
-Parmelia lineola E. C. Berry SPECIES
-=======
+# Xanthoparmelia lineola (E. C. Berry) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 28: 77 (1941)
+Phytologia 28: 488 (1974)
 
 #### Original name
 Parmelia lineola E. C. Berry

@@ -1,8 +1,7 @@
-Cicinnobolus rosacearum Dejeva SPECIES
-=======
+# Cicinobolus rosacearum Dejeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus rosacearum Dejeva
+Cicinobolus rosacearum Dejeva
 
 ### Remarks
 null

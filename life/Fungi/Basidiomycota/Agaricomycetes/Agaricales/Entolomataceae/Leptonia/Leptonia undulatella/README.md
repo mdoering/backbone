@@ -1,5 +1,4 @@
-Leptonia undulatella var. undulatella VARIETY
-=======
+# Leptonia undulatella Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptonia undulatella var. undulatella
+Leptonia undulatella Peck
 
 ### Remarks
 null

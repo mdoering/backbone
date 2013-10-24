@@ -1,5 +1,4 @@
-Neta quadriguttata (Matsush.) de Hoog, 1985 SPECIES
-=======
+# Neta quadriguttata (Matsush.) de Hoog, 1985 SPECIES
 
 #### Status
 ACCEPTED

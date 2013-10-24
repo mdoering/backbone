@@ -1,5 +1,4 @@
-Amphidinium corrugatum Larsen & D.J. Patterson SPECIES
-=======
+# Amphidinium corrugatum Larsen & D.J. Patterson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia faveolata Makhija & Patw. SPECIES
-=======
+# Cryptothecia faveolata Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

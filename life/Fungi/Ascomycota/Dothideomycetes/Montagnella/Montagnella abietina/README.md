@@ -1,5 +1,4 @@
-Montagnella abietina Ellis & Everh. SPECIES
-=======
+# Montagnella abietina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

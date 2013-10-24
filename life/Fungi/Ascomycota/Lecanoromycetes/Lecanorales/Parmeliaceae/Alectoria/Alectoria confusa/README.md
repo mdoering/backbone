@@ -1,5 +1,4 @@
-Alectoria confusa D.D. Awasthi SPECIES
-=======
+# Alectoria confusa D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

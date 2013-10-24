@@ -1,5 +1,4 @@
-Hendersonia eucalypti Cooke & Harkn. SPECIES
-=======
+# Hendersonia eucalypti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

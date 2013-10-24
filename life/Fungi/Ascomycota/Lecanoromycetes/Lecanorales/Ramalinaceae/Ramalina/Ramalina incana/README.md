@@ -1,5 +1,4 @@
-Ramalina incana Kashiw. SPECIES
-=======
+# Ramalina incana Kashiw. SPECIES
 
 #### Status
 ACCEPTED

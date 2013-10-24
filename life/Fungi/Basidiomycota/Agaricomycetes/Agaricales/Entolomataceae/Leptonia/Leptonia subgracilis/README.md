@@ -1,5 +1,4 @@
-Leptonia subgracilis Largent SPECIES
-=======
+# Leptonia subgracilis Largent SPECIES
 
 #### Status
 ACCEPTED

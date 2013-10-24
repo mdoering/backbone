@@ -1,5 +1,4 @@
-Uromyces paradoxus Syd. & P. Syd. SPECIES
-=======
+# Uromyces paradoxus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

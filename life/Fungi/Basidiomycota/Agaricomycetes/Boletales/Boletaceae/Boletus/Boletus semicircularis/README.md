@@ -1,5 +1,4 @@
-Boletus semicircularis With. SPECIES
-=======
+# Boletus semicircularis With. SPECIES
 
 #### Status
 ACCEPTED

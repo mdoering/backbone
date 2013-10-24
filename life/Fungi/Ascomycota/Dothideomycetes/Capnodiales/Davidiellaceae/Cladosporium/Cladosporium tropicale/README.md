@@ -1,5 +1,4 @@
-Cladosporium tropicale Sartory, R. Sartory & J. Mey. SPECIES
-=======
+# Cladosporium tropicale Sartory, R. Sartory & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

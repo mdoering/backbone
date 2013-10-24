@@ -1,17 +1,16 @@
-Sphaerella lithospermi (Ellis & Everh.) Sacc. & P. Syd., 1902 SPECIES
-=======
+# Didymella lithospermi (Ellis & Everh.) Tomilin, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Opredelitel' gribov roda Mycosphaerella Johans 285 (1979)
 
 #### Original name
-null
+Mycosphaerella lithospermi Ellis & Everh., 1900
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmelia sylvatica SPECIES
-=======
+# Parmelia sylvatica SPECIES
 
 #### Status
 ACCEPTED

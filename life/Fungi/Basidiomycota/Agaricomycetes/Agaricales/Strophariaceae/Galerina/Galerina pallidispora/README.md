@@ -1,5 +1,4 @@
-Galerina pallidispora A.H. Sm. SPECIES
-=======
+# Galerina pallidispora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

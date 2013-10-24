@@ -1,5 +1,4 @@
-Caloplaca refellens (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca refellens (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

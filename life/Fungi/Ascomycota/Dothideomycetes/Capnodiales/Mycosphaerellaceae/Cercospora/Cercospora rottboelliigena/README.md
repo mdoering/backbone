@@ -1,17 +1,16 @@
-Cercospora rottboelligina Y.L. Guo & Y. Jiang SPECIES
-=======
+# Cercospora rottboelliigena Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 19(4): 447 (2000)
 
 #### Original name
-Cercospora rottboelligina Y.L. Guo & Y. Jiang
+Cercospora rottboelliigena Y.L. Guo & Y. Jiang
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ceratopycnidium citricola Maubl. SPECIES
-=======
+# Ceratopycnidium citricola Maubl. SPECIES
 
 #### Status
 ACCEPTED

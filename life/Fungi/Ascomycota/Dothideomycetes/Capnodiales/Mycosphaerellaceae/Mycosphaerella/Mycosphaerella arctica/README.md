@@ -1,5 +1,4 @@
-Mycosphaerella arctica (Fuckel) Lavrov SPECIES
-=======
+# Mycosphaerella arctica (Fuckel) Lavrov SPECIES
 
 #### Status
 ACCEPTED

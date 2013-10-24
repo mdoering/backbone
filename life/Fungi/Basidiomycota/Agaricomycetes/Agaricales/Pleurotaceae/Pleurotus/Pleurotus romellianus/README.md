@@ -1,5 +1,4 @@
-Pleurotus romellianus Pilát SPECIES
-=======
+# Pleurotus romellianus Pilát SPECIES
 
 #### Status
 ACCEPTED

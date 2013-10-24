@@ -1,5 +1,4 @@
-Acremonium guillematii W. Gams, 1971 SPECIES
-=======
+# Acremonium guillematii W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

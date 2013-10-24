@@ -1,5 +1,4 @@
-Cladonia kanewskii Oxner SPECIES
-=======
+# Cladonia kanewskii Oxner SPECIES
 
 #### Status
 ACCEPTED

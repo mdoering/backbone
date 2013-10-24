@@ -1,5 +1,4 @@
-Penicillium smithii Quintan., 1982 SPECIES
-=======
+# Penicillium smithii Quintan., 1982 SPECIES
 
 #### Status
 DOUBTFUL

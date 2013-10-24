@@ -1,14 +1,13 @@
-Endocarpon grappae (Beltr.) Garov. SPECIES
-=======
+# Placidiopsis grappae Beltr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lich. Bassan. (1858)
 
 #### Original name
 Placidiopsis grappae Beltr.

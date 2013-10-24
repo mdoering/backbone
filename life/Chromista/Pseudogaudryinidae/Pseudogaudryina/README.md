@@ -1,5 +1,4 @@
-Pseudogaudryina Cushman, 1936 GENUS
-=======
+# Pseudogaudryina Cushman, 1936 GENUS
 
 #### Status
 ACCEPTED

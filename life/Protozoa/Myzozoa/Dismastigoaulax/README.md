@@ -1,5 +1,4 @@
-Dismastigoaulax GENUS
-=======
+# Dismastigoaulax GENUS
 
 #### Status
 ACCEPTED

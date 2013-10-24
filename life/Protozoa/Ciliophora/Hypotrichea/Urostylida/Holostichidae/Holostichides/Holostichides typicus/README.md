@@ -1,5 +1,4 @@
-Holostichides typicus (Song & Wilbert, 1988) Eigner, 1994 SPECIES
-=======
+# Holostichides typicus (Song & Wilbert, 1988) Eigner, 1994 SPECIES
 
 #### Status
 ACCEPTED

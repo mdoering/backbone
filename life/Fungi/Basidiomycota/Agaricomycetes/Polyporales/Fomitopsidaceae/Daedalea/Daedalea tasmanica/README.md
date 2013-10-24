@@ -1,5 +1,4 @@
-Daedalea tasmanica Sacc. SPECIES
-=======
+# Daedalea tasmanica Sacc. SPECIES
 
 #### Status
 ACCEPTED

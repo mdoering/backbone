@@ -1,5 +1,4 @@
-Cantharellus cascadensis Dunham, O'Dell & R. Molina, 2003 SPECIES
-=======
+# Cantharellus cascadensis Dunham, O'Dell & R. Molina, 2003 SPECIES
 
 #### Status
 ACCEPTED

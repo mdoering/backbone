@@ -1,5 +1,4 @@
-Psathyrella albipes (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella albipes (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

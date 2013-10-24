@@ -1,5 +1,4 @@
-Asterina sideroxyli Hansf. SPECIES
-=======
+# Asterina sideroxyli Hansf. SPECIES
 
 #### Status
 ACCEPTED

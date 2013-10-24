@@ -1,5 +1,4 @@
-Umbilicaria koidzumii Yasuda SPECIES
-=======
+# Umbilicaria koidzumii Yasuda SPECIES
 
 #### Status
 ACCEPTED

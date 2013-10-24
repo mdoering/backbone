@@ -1,5 +1,4 @@
-Eriomycopsis Speg. GENUS
-=======
+# Eriomycopsis Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiotrema australe Speg. SPECIES
-=======
+# Lophiotrema australe Speg. SPECIES
 
 #### Status
 ACCEPTED

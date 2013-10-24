@@ -1,5 +1,4 @@
-Peziza patellaria var. patellaria VARIETY
-=======
+# Peziza patellaria Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza patellaria var. patellaria
+Peziza patellaria Pers.
 
 ### Remarks
 null

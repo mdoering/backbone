@@ -1,5 +1,4 @@
-Phaeothecoidiella GENUS
-=======
+# Phaeothecoidiella GENUS
 
 #### Status
 ACCEPTED

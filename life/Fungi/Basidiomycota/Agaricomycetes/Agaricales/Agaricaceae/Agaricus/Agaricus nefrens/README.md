@@ -1,5 +1,4 @@
-Agaricus nefrens Fr. SPECIES
-=======
+# Agaricus nefrens Fr. SPECIES
 
 #### Status
 ACCEPTED

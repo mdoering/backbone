@@ -1,5 +1,4 @@
-Colletotrichum arthraxonis (S. Ahmad) S. Ahmad SPECIES
-=======
+# Colletotrichum arthraxonis (S. Ahmad) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

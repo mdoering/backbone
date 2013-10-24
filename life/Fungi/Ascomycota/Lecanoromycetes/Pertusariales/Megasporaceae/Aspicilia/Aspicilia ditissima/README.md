@@ -1,5 +1,4 @@
-Aspicilia ditissima SPECIES
-=======
+# Aspicilia ditissima SPECIES
 
 #### Status
 ACCEPTED

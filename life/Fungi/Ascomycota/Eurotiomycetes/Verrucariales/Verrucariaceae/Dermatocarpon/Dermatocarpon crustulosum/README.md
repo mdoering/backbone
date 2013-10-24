@@ -1,5 +1,4 @@
-Dermatocarpon crustulosum (Nyl.) Servít SPECIES
-=======
+# Dermatocarpon crustulosum (Nyl.) Servít SPECIES
 
 #### Status
 ACCEPTED

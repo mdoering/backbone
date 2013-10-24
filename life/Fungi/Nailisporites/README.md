@@ -1,5 +1,4 @@
-Nailisporites T.C. Huang GENUS
-=======
+# Nailisporites T.C. Huang GENUS
 
 #### Status
 ACCEPTED

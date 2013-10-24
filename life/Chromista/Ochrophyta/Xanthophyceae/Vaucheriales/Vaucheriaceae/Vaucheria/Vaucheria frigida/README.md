@@ -1,8 +1,7 @@
-Vaucheria mulleola subsp. calida T.A. Christensen SUBSPECIES
-=======
+# Vaucheria frigida (Roth) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

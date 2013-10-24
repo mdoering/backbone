@@ -1,5 +1,4 @@
-Mycosphaerella subgregaria Petr. SPECIES
-=======
+# Mycosphaerella subgregaria Petr. SPECIES
 
 #### Status
 ACCEPTED

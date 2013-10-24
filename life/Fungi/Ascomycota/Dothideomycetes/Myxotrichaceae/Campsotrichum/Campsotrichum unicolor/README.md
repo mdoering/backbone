@@ -1,5 +1,4 @@
-Campsotrichum unicolor Ehrenb. SPECIES
-=======
+# Campsotrichum unicolor Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

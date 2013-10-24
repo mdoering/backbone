@@ -1,5 +1,4 @@
-Thalassomyces californiensis Warcup & P.H.B. Talbot SPECIES
-=======
+# Thalassomyces californiensis Warcup & P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

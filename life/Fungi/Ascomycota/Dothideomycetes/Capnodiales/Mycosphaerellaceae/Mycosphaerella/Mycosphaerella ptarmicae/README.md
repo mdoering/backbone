@@ -1,5 +1,4 @@
-Mycosphaerella ptarmicae (P. Karst. & Starbäck) Petr. & Syd. SPECIES
-=======
+# Mycosphaerella ptarmicae (P. Karst. & Starbäck) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

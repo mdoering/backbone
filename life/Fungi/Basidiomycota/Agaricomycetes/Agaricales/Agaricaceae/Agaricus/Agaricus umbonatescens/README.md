@@ -1,5 +1,4 @@
-Agaricus umbonatescens Peck SPECIES
-=======
+# Agaricus umbonatescens Peck SPECIES
 
 #### Status
 ACCEPTED

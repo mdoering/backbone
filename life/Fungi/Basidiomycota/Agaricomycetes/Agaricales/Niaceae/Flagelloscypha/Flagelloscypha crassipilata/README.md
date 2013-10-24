@@ -1,5 +1,4 @@
-Flagelloscypha crassipilata Agerer, 2002 SPECIES
-=======
+# Flagelloscypha crassipilata Agerer, 2002 SPECIES
 
 #### Status
 ACCEPTED

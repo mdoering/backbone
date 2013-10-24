@@ -1,5 +1,4 @@
-Fomitiporia tenuis Decock, Bitew & G. Castillo SPECIES
-=======
+# Fomitiporia tenuis Decock, Bitew & G. Castillo SPECIES
 
 #### Status
 ACCEPTED

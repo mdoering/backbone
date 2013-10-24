@@ -1,5 +1,4 @@
-Diplodina leucothoës Died. SPECIES
-=======
+# Diplodina leucothoës Died. SPECIES
 
 #### Status
 ACCEPTED

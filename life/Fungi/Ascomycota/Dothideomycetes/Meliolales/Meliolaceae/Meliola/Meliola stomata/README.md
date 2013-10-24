@@ -1,5 +1,4 @@
-Meliola stomata Hara SPECIES
-=======
+# Meliola stomata Hara SPECIES
 
 #### Status
 ACCEPTED

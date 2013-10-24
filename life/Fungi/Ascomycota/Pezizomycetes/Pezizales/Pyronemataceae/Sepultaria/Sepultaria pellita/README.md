@@ -1,5 +1,4 @@
-Sepultaria pellita (Cooke & Peck) Seaver SPECIES
-=======
+# Sepultaria pellita (Cooke & Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe illicis DC. SPECIES
-=======
+# Erysiphe illicis DC. SPECIES
 
 #### Status
 ACCEPTED

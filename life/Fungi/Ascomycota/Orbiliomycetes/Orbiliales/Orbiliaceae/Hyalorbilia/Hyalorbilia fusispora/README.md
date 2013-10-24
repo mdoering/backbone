@@ -1,17 +1,16 @@
-Orbilia fusispora var. fusispora Velen. VARIETY
-=======
+# Hyalorbilia fusispora (Velen.) Baral & G. Marson, 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Micologia 2000 (Trento) 44 (2000)
 
 #### Original name
-Orbilia fusispora var. fusispora Velen.
+Orbilia fusispora Velen., 1934
 
 ### Remarks
 null

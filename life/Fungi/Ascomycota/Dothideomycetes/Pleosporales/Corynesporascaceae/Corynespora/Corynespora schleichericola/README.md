@@ -1,5 +1,4 @@
-Corynespora schleichericola Arch. Singh, S.K. Singh & Kamal SPECIES
-=======
+# Corynespora schleichericola Arch. Singh, S.K. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

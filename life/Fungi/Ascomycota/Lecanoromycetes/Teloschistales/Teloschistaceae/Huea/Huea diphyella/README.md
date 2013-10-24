@@ -1,5 +1,4 @@
-Huea diphyella (Nyl.) C.W. Dodge SPECIES
-=======
+# Huea diphyella (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

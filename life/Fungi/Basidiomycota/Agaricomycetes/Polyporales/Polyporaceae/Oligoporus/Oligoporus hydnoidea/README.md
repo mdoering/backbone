@@ -1,5 +1,4 @@
-Oligoporus hydnoidea G. Gaarder & Ryvarden SPECIES
-=======
+# Oligoporus hydnoidea G. Gaarder & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

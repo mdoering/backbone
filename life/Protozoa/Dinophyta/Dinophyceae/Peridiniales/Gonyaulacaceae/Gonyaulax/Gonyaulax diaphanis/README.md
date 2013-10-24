@@ -1,5 +1,4 @@
-Gonyaulax diaphanis Cookson & Eisenack SPECIES
-=======
+# Gonyaulax diaphanis Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

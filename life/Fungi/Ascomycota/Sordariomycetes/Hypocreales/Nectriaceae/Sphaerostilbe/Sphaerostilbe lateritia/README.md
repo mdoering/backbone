@@ -1,5 +1,4 @@
-Sphaerostilbe lateritia Berk. & M.A. Curtis SPECIES
-=======
+# Sphaerostilbe lateritia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

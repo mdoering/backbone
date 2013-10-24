@@ -1,5 +1,4 @@
-Platygloea tiliae (Bref.) Sacc. SPECIES
-=======
+# Platygloea tiliae (Bref.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea polyporina Nyl. SPECIES
-=======
+# Lecidea polyporina Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hystrichosphaeropsis obscura Habib, 1972 SPECIES
-=======
+# Hystrichosphaeropsis obscura Habib, 1972 SPECIES
 
 #### Status
 ACCEPTED

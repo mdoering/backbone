@@ -1,5 +1,4 @@
-Chroostipes Pascher, 1914 GENUS
-=======
+# Chroostipes Pascher, 1914 GENUS
 
 #### Status
 ACCEPTED

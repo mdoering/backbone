@@ -1,5 +1,4 @@
-Acarospora cervinoides H. Magn. SPECIES
-=======
+# Acarospora cervinoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

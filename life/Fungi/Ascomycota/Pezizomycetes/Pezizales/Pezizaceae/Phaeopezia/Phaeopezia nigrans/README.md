@@ -1,5 +1,4 @@
-Phaeopezia nigrans (Morgan) Morgan SPECIES
-=======
+# Phaeopezia nigrans (Morgan) Morgan SPECIES
 
 #### Status
 ACCEPTED

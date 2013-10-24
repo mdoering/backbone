@@ -1,5 +1,4 @@
-Diplochorina Gutner GENUS
-=======
+# Diplochorina Gutner GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosporium insipidum Bat. & J.A. Lima SPECIES
-=======
+# Podosporium insipidum Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

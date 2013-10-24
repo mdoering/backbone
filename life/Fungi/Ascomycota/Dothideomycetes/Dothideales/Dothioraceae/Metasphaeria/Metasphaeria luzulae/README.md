@@ -1,5 +1,4 @@
-Metasphaeria luzulae (G. Winter) Berl. SPECIES
-=======
+# Metasphaeria luzulae (G. Winter) Berl. SPECIES
 
 #### Status
 ACCEPTED

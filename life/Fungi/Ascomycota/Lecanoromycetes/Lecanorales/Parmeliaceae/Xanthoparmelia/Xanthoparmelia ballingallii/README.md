@@ -1,5 +1,4 @@
-Xanthoparmelia ballingallii (Elix & J. Johnst.) Elix SPECIES
-=======
+# Xanthoparmelia ballingallii (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
 ACCEPTED

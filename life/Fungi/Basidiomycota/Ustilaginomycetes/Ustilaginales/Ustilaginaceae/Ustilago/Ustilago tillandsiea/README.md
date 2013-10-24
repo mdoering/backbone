@@ -1,5 +1,4 @@
-Ustilago tillandsiea Pat. SPECIES
-=======
+# Ustilago tillandsiea Pat. SPECIES
 
 #### Status
 ACCEPTED

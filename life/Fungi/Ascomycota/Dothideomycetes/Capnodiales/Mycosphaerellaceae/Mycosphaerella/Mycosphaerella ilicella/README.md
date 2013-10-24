@@ -1,5 +1,4 @@
-Mycosphaerella ilicella (Cooke) Feltgen SPECIES
-=======
+# Mycosphaerella ilicella (Cooke) Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma praeluteum Corner & E. Horak SPECIES
-=======
+# Entoloma praeluteum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

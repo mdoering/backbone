@@ -1,5 +1,4 @@
-Collema anomalum Nyl. SPECIES
-=======
+# Collema anomalum Nyl. SPECIES
 
 #### Status
 ACCEPTED

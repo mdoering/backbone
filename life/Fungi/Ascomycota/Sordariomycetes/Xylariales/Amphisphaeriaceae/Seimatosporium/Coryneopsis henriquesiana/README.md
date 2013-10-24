@@ -1,5 +1,4 @@
-Coryneopsis henriquesiana (Sacc. & Roum.) Grove, 1937 SPECIES
-=======
+# Coryneopsis henriquesiana (Sacc. & Roum.) Grove, 1937 SPECIES
 
 #### Status
 ACCEPTED

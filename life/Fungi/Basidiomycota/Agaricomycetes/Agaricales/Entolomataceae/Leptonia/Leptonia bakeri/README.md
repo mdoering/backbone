@@ -1,5 +1,4 @@
-Leptonia bakeri (Dennis) Dennis SPECIES
-=======
+# Leptonia bakeri (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

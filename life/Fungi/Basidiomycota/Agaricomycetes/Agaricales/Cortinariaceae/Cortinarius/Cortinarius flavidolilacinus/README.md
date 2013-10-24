@@ -1,5 +1,4 @@
-Cortinarius flavidolilacinus Bidaud SPECIES
-=======
+# Cortinarius flavidolilacinus Bidaud SPECIES
 
 #### Status
 ACCEPTED

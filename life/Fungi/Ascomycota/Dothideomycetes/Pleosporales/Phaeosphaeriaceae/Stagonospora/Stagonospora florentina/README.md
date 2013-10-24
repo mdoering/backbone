@@ -1,5 +1,4 @@
-Stagonospora florentina E. Castell. & Germano SPECIES
-=======
+# Stagonospora florentina E. Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

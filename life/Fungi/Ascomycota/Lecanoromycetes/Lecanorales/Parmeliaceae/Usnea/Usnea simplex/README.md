@@ -1,5 +1,4 @@
-Usnea simplex Motyka SPECIES
-=======
+# Usnea simplex Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius albiceps Peck SPECIES
-=======
+# Marasmius albiceps Peck SPECIES
 
 #### Status
 ACCEPTED

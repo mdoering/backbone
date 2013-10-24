@@ -1,5 +1,4 @@
-Puccinia pachyploea P. Syd. & Syd. SPECIES
-=======
+# Puccinia pachyploea P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

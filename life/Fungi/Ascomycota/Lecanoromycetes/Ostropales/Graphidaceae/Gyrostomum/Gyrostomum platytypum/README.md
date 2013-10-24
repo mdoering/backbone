@@ -1,5 +1,4 @@
-Gyrostomum platytypum Vain. SPECIES
-=======
+# Gyrostomum platytypum Vain. SPECIES
 
 #### Status
 ACCEPTED

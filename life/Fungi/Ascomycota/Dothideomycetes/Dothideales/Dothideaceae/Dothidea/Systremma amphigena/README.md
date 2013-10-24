@@ -1,5 +1,4 @@
-Systremma amphigena (Rick) Theiss. & Syd. SPECIES
-=======
+# Systremma amphigena (Rick) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

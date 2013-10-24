@@ -1,5 +1,4 @@
-Legeriosimilis elegans Strongman, Juan Wang & S.Q. Xu, 2010 SPECIES
-=======
+# Legeriosimilis elegans Strongman, Juan Wang & S.Q. Xu, 2010 SPECIES
 
 #### Status
 ACCEPTED

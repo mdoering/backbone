@@ -1,8 +1,7 @@
-Streptoverticillium septatum Locci et al., 1969 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces septatus (Locci et al., 1969) Witt & Stackebrandt, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Coryne sulcipes Cooke SPECIES
-=======
+# Coryne sulcipes Cooke SPECIES
 
 #### Status
 ACCEPTED

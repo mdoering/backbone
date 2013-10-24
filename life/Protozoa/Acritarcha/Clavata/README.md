@@ -1,5 +1,4 @@
-Clavata A.M. Stanevitch in T.V. Jankauskas, 1989 GENUS
-=======
+# Clavata A.M. Stanevitch in T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

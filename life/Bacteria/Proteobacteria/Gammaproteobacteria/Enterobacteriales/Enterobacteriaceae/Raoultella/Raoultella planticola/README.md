@@ -1,8 +1,7 @@
-Klebsiella planticola Bagley et al., 1982 SPECIES
-=======
+# Raoultella planticola (Bagley et al., 1982) Drancourt et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Mucor hiemalis f. hiemalis FORM
-=======
+# Mucor hiemalis Wehmer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Annls mycol. 1(1/2): 39 (1903)
 
 #### Original name
-Mucor hiemalis f. hiemalis
+Mucor hiemalis Wehmer
 
 ### Remarks
 null

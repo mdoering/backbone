@@ -1,5 +1,4 @@
-Ramularia montenegrina Bubák SPECIES
-=======
+# Ramularia montenegrina Bubák SPECIES
 
 #### Status
 ACCEPTED

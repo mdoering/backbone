@@ -1,5 +1,4 @@
-Buellia boergesenii Imshaug SPECIES
-=======
+# Buellia boergesenii Imshaug SPECIES
 
 #### Status
 ACCEPTED

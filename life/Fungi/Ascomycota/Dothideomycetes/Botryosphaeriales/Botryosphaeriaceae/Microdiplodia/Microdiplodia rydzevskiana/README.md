@@ -1,5 +1,4 @@
-Microdiplodia rydzevskiana Gucevic SPECIES
-=======
+# Microdiplodia rydzevskiana Gucevic SPECIES
 
 #### Status
 ACCEPTED

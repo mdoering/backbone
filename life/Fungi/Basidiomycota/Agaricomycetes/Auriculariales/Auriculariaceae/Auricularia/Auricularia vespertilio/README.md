@@ -1,5 +1,4 @@
-Auricularia vespertilio Fr. SPECIES
-=======
+# Auricularia vespertilio Fr. SPECIES
 
 #### Status
 ACCEPTED

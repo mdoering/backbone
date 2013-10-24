@@ -1,5 +1,4 @@
-Clitopilus pertenuis Malençon SPECIES
-=======
+# Clitopilus pertenuis Malençon SPECIES
 
 #### Status
 ACCEPTED

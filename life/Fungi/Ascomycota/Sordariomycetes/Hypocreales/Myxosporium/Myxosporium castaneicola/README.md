@@ -1,17 +1,16 @@
-Myxosporium castanicola Overh. SPECIES
-=======
+# Myxosporium castaneicola Overh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 35(2): 252 (1943)
 
 #### Original name
-Myxosporium castanicola Overh.
+Myxosporium castaneicola Overh.
 
 ### Remarks
 null

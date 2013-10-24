@@ -1,5 +1,4 @@
-Entopeltacites osbornii (R.T. Lange) Selkirk SPECIES
-=======
+# Entopeltacites osbornii (R.T. Lange) Selkirk SPECIES
 
 #### Status
 ACCEPTED

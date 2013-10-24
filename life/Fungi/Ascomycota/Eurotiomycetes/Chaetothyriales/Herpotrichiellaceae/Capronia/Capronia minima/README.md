@@ -1,5 +1,4 @@
-Capronia minima (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Capronia minima (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerellothecium cladoniicola E.S. Hansen & Alstrup SPECIES
-=======
+# Sphaerellothecium cladoniicola E.S. Hansen & Alstrup SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizidium tetrasporum Sorokin SPECIES
-=======
+# Rhizidium tetrasporum Sorokin SPECIES
 
 #### Status
 ACCEPTED

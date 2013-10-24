@@ -1,5 +1,4 @@
-Lecanora stenholmii H. Magn. SPECIES
-=======
+# Lecanora stenholmii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

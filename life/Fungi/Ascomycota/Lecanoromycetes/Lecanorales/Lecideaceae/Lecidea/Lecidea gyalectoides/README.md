@@ -1,5 +1,4 @@
-Lecidea gyalectoides Vain. SPECIES
-=======
+# Lecidea gyalectoides Vain. SPECIES
 
 #### Status
 ACCEPTED

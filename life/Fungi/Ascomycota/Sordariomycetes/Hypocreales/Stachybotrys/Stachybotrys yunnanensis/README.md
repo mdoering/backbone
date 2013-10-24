@@ -1,5 +1,4 @@
-Stachybotrys yunnanensis H.Z. Kong SPECIES
-=======
+# Stachybotrys yunnanensis H.Z. Kong SPECIES
 
 #### Status
 ACCEPTED

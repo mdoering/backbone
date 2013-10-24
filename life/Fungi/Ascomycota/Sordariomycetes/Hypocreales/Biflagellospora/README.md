@@ -1,5 +1,4 @@
-Biflagellospora Matsush. GENUS
-=======
+# Biflagellospora Matsush. GENUS
 
 #### Status
 ACCEPTED

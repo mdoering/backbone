@@ -1,5 +1,4 @@
-Fusarium schribauxii Delacr. SPECIES
-=======
+# Fusarium schribauxii Delacr. SPECIES
 
 #### Status
 ACCEPTED

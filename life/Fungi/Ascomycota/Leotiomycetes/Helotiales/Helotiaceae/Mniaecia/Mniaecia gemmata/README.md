@@ -1,5 +1,4 @@
-Mniaecia gemmata Lorton SPECIES
-=======
+# Mniaecia gemmata Lorton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium jaapii Kleb. SPECIES
-=======
+# Peridermium jaapii Kleb. SPECIES
 
 #### Status
 ACCEPTED

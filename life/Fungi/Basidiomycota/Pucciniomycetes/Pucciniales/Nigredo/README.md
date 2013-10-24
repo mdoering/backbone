@@ -1,5 +1,4 @@
-Nigredo GENUS
-=======
+# Nigredo GENUS
 
 #### Status
 ACCEPTED

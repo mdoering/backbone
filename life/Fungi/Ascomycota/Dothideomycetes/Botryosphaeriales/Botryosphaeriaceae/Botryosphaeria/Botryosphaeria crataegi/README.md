@@ -1,5 +1,4 @@
-Botryosphaeria crataegi (Schwein.) Sacc. SPECIES
-=======
+# Botryosphaeria crataegi (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

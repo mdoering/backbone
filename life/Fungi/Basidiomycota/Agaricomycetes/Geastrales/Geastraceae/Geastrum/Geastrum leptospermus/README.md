@@ -1,17 +1,16 @@
-Geaster leptospermus G.F. Atk. & Coker SPECIES
-=======
+# Geastrum leptospermus G.F. Atk. & Coker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Gaz. 36: 306 (1903)
 
 #### Original name
-Geaster leptospermus G.F. Atk. & Coker
+Geastrum leptospermus G.F. Atk. & Coker
 
 ### Remarks
 null

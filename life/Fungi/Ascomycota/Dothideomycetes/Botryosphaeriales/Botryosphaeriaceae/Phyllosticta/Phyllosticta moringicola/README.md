@@ -1,5 +1,4 @@
-Phyllosticta moringicola da Costa {?} & Mundk. SPECIES
-=======
+# Phyllosticta moringicola da Costa {?} & Mundk. SPECIES
 
 #### Status
 ACCEPTED

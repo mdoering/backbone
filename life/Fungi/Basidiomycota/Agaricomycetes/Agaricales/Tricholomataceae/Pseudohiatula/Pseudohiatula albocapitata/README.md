@@ -1,5 +1,4 @@
-Pseudohiatula albocapitata (Petch) Singer SPECIES
-=======
+# Pseudohiatula albocapitata (Petch) Singer SPECIES
 
 #### Status
 ACCEPTED

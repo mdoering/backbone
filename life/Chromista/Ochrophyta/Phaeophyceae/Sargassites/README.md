@@ -1,5 +1,4 @@
-Sargassites (A.T. Brongniart) Sternberg, 1833 GENUS
-=======
+# Sargassites (A.T. Brongniart) Sternberg, 1833 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia canariensis (Elix & Schumm) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
-=======
+# Xanthoparmelia canariensis (Elix & Schumm) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoria oregana f. oregana FORM
-=======
+# Xanthoria oregana Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xanthoria oregana f. oregana
+Xanthoria oregana Gyeln.
 
 ### Remarks
 null

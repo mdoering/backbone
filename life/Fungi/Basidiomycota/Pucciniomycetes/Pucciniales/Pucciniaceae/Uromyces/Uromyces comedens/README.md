@@ -1,5 +1,4 @@
-Uromyces comedens P. Syd. & Syd. SPECIES
-=======
+# Uromyces comedens P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

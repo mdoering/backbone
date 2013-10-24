@@ -1,5 +1,4 @@
-Pucciniastrum miyabeanum Hirats. SPECIES
-=======
+# Pucciniastrum miyabeanum Hirats. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multiclavula fucatus (Stirt.) Zahlbr. SPECIES
-=======
+# Multiclavula fucatus (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

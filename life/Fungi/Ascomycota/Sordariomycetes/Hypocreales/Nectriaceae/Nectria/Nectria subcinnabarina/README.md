@@ -1,5 +1,4 @@
-Nectria subcinnabarina Henn. SPECIES
-=======
+# Nectria subcinnabarina Henn. SPECIES
 
 #### Status
 ACCEPTED

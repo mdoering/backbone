@@ -1,5 +1,4 @@
-Corticium lilaceum Rabenh. SPECIES
-=======
+# Corticium lilaceum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

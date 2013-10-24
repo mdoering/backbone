@@ -1,5 +1,4 @@
-Peridermium complanatum Barclay SPECIES
-=======
+# Peridermium complanatum Barclay SPECIES
 
 #### Status
 ACCEPTED

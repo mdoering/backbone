@@ -1,5 +1,4 @@
-Chitinophaga Sangkhobol & Skerman, 1981 GENUS
-=======
+# Chitinophaga Sangkhobol & Skerman, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium truncicola (Wallr.) Magnus SPECIES
-=======
+# Peridermium truncicola (Wallr.) Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygrapha stenogramma Nyl. SPECIES
-=======
+# Platygrapha stenogramma Nyl. SPECIES
 
 #### Status
 ACCEPTED

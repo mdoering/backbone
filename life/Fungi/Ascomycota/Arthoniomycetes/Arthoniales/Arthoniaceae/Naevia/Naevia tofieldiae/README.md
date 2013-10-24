@@ -1,5 +1,4 @@
-Naevia tofieldiae Rehm SPECIES
-=======
+# Naevia tofieldiae Rehm SPECIES
 
 #### Status
 ACCEPTED

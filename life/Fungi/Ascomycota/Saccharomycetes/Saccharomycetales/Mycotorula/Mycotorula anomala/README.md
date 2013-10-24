@@ -1,5 +1,4 @@
-Mycotorula anomala Saito & M. Ota SPECIES
-=======
+# Mycotorula anomala Saito & M. Ota SPECIES
 
 #### Status
 ACCEPTED

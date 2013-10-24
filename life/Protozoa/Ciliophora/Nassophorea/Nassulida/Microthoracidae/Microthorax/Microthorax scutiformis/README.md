@@ -1,5 +1,4 @@
-Microthorax scutiformis Penard, 1922 SPECIES
-=======
+# Microthorax scutiformis Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

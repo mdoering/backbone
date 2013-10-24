@@ -1,5 +1,4 @@
-Herpomyces nyctoborae Thaxt. SPECIES
-=======
+# Herpomyces nyctoborae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

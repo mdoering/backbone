@@ -1,5 +1,4 @@
-Shanoriella celastri (Doidge) Bat. & Cif. SPECIES
-=======
+# Shanoriella celastri (Doidge) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

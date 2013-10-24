@@ -1,5 +1,4 @@
-Meliola protiicola (Bat. & Gayão) Cif. SPECIES
-=======
+# Meliola protiicola (Bat. & Gayão) Cif. SPECIES
 
 #### Status
 ACCEPTED

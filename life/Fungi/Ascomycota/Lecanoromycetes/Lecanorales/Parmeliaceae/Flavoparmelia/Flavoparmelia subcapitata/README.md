@@ -1,17 +1,16 @@
-Parmelia subcapitata Nyl. ex Hasse SPECIES
-=======
+# Flavoparmelia subcapitata (Nyl. ex Hasse) Hale ex DePriest & B.W. Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 67: 202 (1998)
 
 #### Original name
-null
+Parmelia subcapitata Nyl. ex Hasse
 
 ### Remarks
 null

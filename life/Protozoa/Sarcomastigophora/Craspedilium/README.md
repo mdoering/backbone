@@ -1,5 +1,4 @@
-Craspedilium Haeckel, 1887 GENUS
-=======
+# Craspedilium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

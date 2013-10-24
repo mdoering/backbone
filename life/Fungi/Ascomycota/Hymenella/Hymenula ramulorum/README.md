@@ -1,5 +1,4 @@
-Hymenula ramulorum Pass. SPECIES
-=======
+# Hymenula ramulorum Pass. SPECIES
 
 #### Status
 ACCEPTED

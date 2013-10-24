@@ -1,5 +1,4 @@
-Aspicilia arvernica Hue SPECIES
-=======
+# Aspicilia arvernica Hue SPECIES
 
 #### Status
 ACCEPTED

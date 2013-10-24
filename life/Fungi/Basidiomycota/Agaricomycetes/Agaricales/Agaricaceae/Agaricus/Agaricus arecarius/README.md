@@ -1,5 +1,4 @@
-Agaricus arecarius Lour. SPECIES
-=======
+# Agaricus arecarius Lour. SPECIES
 
 #### Status
 ACCEPTED

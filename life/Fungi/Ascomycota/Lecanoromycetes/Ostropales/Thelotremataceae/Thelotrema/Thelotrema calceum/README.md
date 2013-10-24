@@ -1,5 +1,4 @@
-Thelotrema calceum (Mont.) Vain. SPECIES
-=======
+# Thelotrema calceum (Mont.) Vain. SPECIES
 
 #### Status
 ACCEPTED

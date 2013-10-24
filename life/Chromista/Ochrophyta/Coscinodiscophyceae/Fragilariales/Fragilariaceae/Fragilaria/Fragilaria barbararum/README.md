@@ -1,5 +1,4 @@
-Fragilaria barbararum A. Witkowski, D. Metzeltin & H. Lange-Bertalot SPECIES
-=======
+# Fragilaria barbararum A. Witkowski, D. Metzeltin & H. Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

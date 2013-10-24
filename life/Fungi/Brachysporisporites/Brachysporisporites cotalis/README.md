@@ -1,5 +1,4 @@
-Brachysporisporites cotalis (Elsik & Janson.) G. Norris SPECIES
-=======
+# Brachysporisporites cotalis (Elsik & Janson.) G. Norris SPECIES
 
 #### Status
 ACCEPTED

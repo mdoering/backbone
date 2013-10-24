@@ -1,5 +1,4 @@
-Rhizomorpha simplex Rebent. SPECIES
-=======
+# Rhizomorpha simplex Rebent. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus rainierensis Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus rainierensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

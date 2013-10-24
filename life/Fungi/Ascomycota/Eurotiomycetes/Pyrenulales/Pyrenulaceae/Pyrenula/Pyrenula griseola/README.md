@@ -1,5 +1,4 @@
-Pyrenula griseola Vain. SPECIES
-=======
+# Pyrenula griseola Vain. SPECIES
 
 #### Status
 ACCEPTED

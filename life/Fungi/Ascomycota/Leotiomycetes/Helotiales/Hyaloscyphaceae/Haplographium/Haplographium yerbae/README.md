@@ -1,5 +1,4 @@
-Haplographium yerbae Speg. SPECIES
-=======
+# Haplographium yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

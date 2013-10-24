@@ -1,5 +1,4 @@
-Verrucaria arcuata Hoffm. SPECIES
-=======
+# Verrucaria arcuata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

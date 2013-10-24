@@ -1,5 +1,4 @@
-Macrosporium hibiscinum Thüm. SPECIES
-=======
+# Macrosporium hibiscinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

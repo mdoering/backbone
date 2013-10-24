@@ -1,5 +1,4 @@
-Phycocelis major (Foslie) De Toni SPECIES
-=======
+# Phycocelis major (Foslie) De Toni SPECIES
 
 #### Status
 ACCEPTED

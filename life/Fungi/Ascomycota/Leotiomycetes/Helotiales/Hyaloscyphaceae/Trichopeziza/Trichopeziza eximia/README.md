@@ -1,5 +1,4 @@
-Trichopeziza eximia Mont. & Sacc. SPECIES
-=======
+# Trichopeziza eximia Mont. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete indica Parmasto SPECIES
-=======
+# Hymenochaete indica Parmasto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia isabellina Vain. SPECIES
-=======
+# Cladonia isabellina Vain. SPECIES
 
 #### Status
 ACCEPTED

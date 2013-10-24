@@ -1,5 +1,4 @@
-Hymenoscyphus cadiella anon. SPECIES
-=======
+# Hymenoscyphus cadiella anon. SPECIES
 
 #### Status
 ACCEPTED

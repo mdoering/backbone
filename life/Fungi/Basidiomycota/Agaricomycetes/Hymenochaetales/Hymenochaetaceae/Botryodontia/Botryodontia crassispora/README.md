@@ -1,5 +1,4 @@
-Botryodontia crassispora P. Roberts SPECIES
-=======
+# Botryodontia crassispora P. Roberts SPECIES
 
 #### Status
 ACCEPTED

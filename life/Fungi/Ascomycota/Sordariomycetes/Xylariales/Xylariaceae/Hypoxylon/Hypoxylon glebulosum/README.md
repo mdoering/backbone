@@ -1,5 +1,4 @@
-Hypoxylon glebulosum Ces. SPECIES
-=======
+# Hypoxylon glebulosum Ces. SPECIES
 
 #### Status
 ACCEPTED

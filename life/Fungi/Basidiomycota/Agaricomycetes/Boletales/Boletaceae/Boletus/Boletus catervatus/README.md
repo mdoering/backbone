@@ -1,5 +1,4 @@
-Boletus catervatus Corner SPECIES
-=======
+# Boletus catervatus Corner SPECIES
 
 #### Status
 ACCEPTED

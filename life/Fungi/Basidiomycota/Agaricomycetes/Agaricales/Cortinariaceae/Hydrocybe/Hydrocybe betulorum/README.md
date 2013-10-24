@@ -1,5 +1,4 @@
-Hydrocybe betulorum M.M. Moser SPECIES
-=======
+# Hydrocybe betulorum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

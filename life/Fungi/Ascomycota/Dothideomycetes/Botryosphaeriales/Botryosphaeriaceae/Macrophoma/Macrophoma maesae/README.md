@@ -1,5 +1,4 @@
-Macrophoma maesae C.C. Chen SPECIES
-=======
+# Macrophoma maesae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

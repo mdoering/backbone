@@ -1,5 +1,4 @@
-Hyaloscypha oenotherae Velen. SPECIES
-=======
+# Hyaloscypha oenotherae Velen. SPECIES
 
 #### Status
 ACCEPTED

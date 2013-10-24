@@ -1,17 +1,16 @@
-Phaeographis exaltata (Mont. & Bosch) Müll. Arg. SPECIES
-=======
+# Leiorreuma exaltatum (Mont. & Bosch) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 65: 336 (1882)
+null
 
 #### Original name
-Lecanactis exaltata Mont. & Bosch
+null
 
 ### Remarks
 null

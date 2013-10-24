@@ -1,5 +1,4 @@
-Platysma braunsianum (Müll. Arg.) Hue SPECIES
-=======
+# Platysma braunsianum (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

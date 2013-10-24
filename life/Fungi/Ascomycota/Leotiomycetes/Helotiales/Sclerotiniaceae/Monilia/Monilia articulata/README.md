@@ -1,5 +1,4 @@
-Monilia articulata (Pers.) Nees SPECIES
-=======
+# Monilia articulata (Pers.) Nees SPECIES
 
 #### Status
 ACCEPTED

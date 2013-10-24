@@ -1,5 +1,4 @@
-Gyalolechia brouardii B. de Lesd. SPECIES
-=======
+# Gyalolechia brouardii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

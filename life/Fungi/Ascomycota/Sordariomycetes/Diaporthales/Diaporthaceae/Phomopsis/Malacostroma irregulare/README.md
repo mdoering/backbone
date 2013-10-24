@@ -1,5 +1,4 @@
-Malacostroma irregulare (Died.) Höhn. SPECIES
-=======
+# Malacostroma irregulare (Died.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

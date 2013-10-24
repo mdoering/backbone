@@ -1,5 +1,4 @@
-Dimeromyces sulcatus Thaxt. SPECIES
-=======
+# Dimeromyces sulcatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

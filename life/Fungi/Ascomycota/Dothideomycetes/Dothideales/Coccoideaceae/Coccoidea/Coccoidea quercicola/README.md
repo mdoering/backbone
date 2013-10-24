@@ -1,5 +1,4 @@
-Coccoidea quercicola Henn. & Shirai, 1900 SPECIES
-=======
+# Coccoidea quercicola Henn. & Shirai, 1900 SPECIES
 
 #### Status
 ACCEPTED

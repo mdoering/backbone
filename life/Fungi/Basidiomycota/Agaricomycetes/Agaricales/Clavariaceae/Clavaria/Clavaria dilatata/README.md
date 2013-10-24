@@ -1,5 +1,4 @@
-Clavaria dilatata Mont. SPECIES
-=======
+# Clavaria dilatata Mont. SPECIES
 
 #### Status
 ACCEPTED

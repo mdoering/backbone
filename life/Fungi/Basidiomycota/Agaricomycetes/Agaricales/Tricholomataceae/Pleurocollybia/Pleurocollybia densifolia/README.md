@@ -1,5 +1,4 @@
-Pleurocollybia densifolia (Murrill) Singer SPECIES
-=======
+# Pleurocollybia densifolia (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

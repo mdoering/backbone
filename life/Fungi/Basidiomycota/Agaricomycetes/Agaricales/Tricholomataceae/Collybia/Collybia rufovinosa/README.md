@@ -1,5 +1,4 @@
-Collybia rufovinosa (Bon & Gaugué) Bon & P. Roux SPECIES
-=======
+# Collybia rufovinosa (Bon & Gaugué) Bon & P. Roux SPECIES
 
 #### Status
 ACCEPTED

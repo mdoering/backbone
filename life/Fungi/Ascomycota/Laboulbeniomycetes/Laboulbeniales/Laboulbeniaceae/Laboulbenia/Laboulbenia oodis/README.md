@@ -1,5 +1,4 @@
-Laboulbenia oodis Speg. SPECIES
-=======
+# Laboulbenia oodis Speg. SPECIES
 
 #### Status
 ACCEPTED

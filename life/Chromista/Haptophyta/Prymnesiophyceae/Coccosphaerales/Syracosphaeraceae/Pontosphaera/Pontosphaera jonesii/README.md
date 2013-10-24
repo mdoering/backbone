@@ -1,5 +1,4 @@
-Pontosphaera jonesii (J.E. Boudreaux & W.W. Hay) F. Proto Decima SPECIES
-=======
+# Pontosphaera jonesii (J.E. Boudreaux & W.W. Hay) F. Proto Decima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora schnabliana (Allesch.) Petr. SPECIES
-=======
+# Passalora schnabliana (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis semiglyphis (Vain.) Redinger SPECIES
-=======
+# Phaeographis semiglyphis (Vain.) Redinger SPECIES
 
 #### Status
 ACCEPTED

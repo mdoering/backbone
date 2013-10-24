@@ -1,5 +1,4 @@
-Polyactis caerulescens Bonord. SPECIES
-=======
+# Polyactis caerulescens Bonord. SPECIES
 
 #### Status
 ACCEPTED

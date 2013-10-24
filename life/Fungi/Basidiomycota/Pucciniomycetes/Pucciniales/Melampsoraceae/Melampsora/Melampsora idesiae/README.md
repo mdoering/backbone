@@ -1,5 +1,4 @@
-Melampsora idesiae Miyabe SPECIES
-=======
+# Melampsora idesiae Miyabe SPECIES
 
 #### Status
 ACCEPTED

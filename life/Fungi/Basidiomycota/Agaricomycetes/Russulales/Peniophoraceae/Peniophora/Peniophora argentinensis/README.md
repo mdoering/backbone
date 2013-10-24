@@ -1,5 +1,4 @@
-Peniophora argentinensis Speg. SPECIES
-=======
+# Peniophora argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

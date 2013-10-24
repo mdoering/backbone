@@ -1,5 +1,4 @@
-Mycena bipindiensis Henn. SPECIES
-=======
+# Mycena bipindiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

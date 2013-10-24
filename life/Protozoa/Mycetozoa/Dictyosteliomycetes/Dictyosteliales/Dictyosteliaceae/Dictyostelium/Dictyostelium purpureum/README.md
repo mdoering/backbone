@@ -1,5 +1,4 @@
-Dictyostelium purpureum Olive, 1901 SPECIES
-=======
+# Dictyostelium purpureum Olive, 1901 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Episclerotium L.M. Kohn GENUS
-=======
+# Episclerotium L.M. Kohn GENUS
 
 #### Status
 ACCEPTED

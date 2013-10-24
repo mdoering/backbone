@@ -1,5 +1,4 @@
-Coprinopsis jamaicensis (Murrill) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis jamaicensis (Murrill) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

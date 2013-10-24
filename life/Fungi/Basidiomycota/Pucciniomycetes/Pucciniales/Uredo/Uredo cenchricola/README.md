@@ -1,5 +1,4 @@
-Uredo cenchricola Henn. SPECIES
-=======
+# Uredo cenchricola Henn. SPECIES
 
 #### Status
 ACCEPTED

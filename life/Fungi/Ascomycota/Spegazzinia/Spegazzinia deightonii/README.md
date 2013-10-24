@@ -1,5 +1,4 @@
-Spegazzinia deightonii (S. Hughes) Subram. SPECIES
-=======
+# Spegazzinia deightonii (S. Hughes) Subram. SPECIES
 
 #### Status
 ACCEPTED

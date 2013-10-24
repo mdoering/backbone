@@ -1,5 +1,4 @@
-Coniothyrium fagi Tehon SPECIES
-=======
+# Coniothyrium fagi Tehon SPECIES
 
 #### Status
 ACCEPTED

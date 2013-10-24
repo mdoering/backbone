@@ -1,5 +1,4 @@
-Porina granulifera Vain. SPECIES
-=======
+# Porina granulifera Vain. SPECIES
 
 #### Status
 ACCEPTED

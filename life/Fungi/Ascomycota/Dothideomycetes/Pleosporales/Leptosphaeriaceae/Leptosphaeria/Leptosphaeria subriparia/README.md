@@ -1,5 +1,4 @@
-Leptosphaeria subriparia Mouton SPECIES
-=======
+# Leptosphaeria subriparia Mouton SPECIES
 
 #### Status
 ACCEPTED

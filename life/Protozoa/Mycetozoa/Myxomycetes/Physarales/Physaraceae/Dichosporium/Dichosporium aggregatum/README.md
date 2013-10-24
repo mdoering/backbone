@@ -1,5 +1,4 @@
-Dichosporium aggregatum Nees SPECIES
-=======
+# Dichosporium aggregatum Nees SPECIES
 
 #### Status
 ACCEPTED

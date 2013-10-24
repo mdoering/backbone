@@ -1,5 +1,4 @@
-Vorticella molesta Stokes, 1889 SPECIES
-=======
+# Vorticella molesta Stokes, 1889 SPECIES
 
 #### Status
 ACCEPTED

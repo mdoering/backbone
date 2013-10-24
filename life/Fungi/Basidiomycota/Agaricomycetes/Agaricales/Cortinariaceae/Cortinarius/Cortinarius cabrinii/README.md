@@ -1,5 +1,4 @@
-Cortinarius cabrinii (Raithelh.) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius cabrinii (Raithelh.) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parathurammina Suleimanov, 1945 GENUS
-=======
+# Parathurammina Suleimanov, 1945 GENUS
 
 #### Status
 ACCEPTED

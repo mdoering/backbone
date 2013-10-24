@@ -1,5 +1,4 @@
-Acarospora caesiocinerea B. de Lesd. SPECIES
-=======
+# Acarospora caesiocinerea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

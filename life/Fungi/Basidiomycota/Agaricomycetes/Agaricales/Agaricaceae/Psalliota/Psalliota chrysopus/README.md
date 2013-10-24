@@ -1,5 +1,4 @@
-Psalliota chrysopus Beck SPECIES
-=======
+# Psalliota chrysopus Beck SPECIES
 
 #### Status
 ACCEPTED

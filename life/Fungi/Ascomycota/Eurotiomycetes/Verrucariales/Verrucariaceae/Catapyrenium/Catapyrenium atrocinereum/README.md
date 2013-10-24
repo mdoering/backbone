@@ -1,5 +1,4 @@
-Catapyrenium atrocinereum (H. Magn.) J.C. Wei SPECIES
-=======
+# Catapyrenium atrocinereum (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

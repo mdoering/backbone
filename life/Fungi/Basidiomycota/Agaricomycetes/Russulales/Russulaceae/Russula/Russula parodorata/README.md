@@ -1,5 +1,4 @@
-Russula parodorata Sarnari SPECIES
-=======
+# Russula parodorata Sarnari SPECIES
 
 #### Status
 ACCEPTED

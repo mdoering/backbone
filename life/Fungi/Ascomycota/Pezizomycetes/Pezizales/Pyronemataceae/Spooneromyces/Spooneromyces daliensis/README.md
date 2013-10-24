@@ -1,5 +1,4 @@
-Spooneromyces daliensis (W.Y. Zhuang) W.Y. Zhuang SPECIES
-=======
+# Spooneromyces daliensis (W.Y. Zhuang) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

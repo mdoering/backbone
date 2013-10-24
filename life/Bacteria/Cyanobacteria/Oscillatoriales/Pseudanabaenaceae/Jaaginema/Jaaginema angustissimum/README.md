@@ -1,8 +1,7 @@
-Oscillatoria angustissima W. West & G.S. West SPECIES
-=======
+# Jaaginema angustissimum (W. West & G.S. West) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

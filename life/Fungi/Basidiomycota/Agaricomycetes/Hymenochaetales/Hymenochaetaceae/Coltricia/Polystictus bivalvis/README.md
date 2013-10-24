@@ -1,5 +1,4 @@
-Polystictus bivalvis Pers. SPECIES
-=======
+# Polystictus bivalvis Pers. SPECIES
 
 #### Status
 ACCEPTED

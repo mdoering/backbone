@@ -1,5 +1,4 @@
-Prediscosphaera majungae Perch-Nielsen, 1973 SPECIES
-=======
+# Prediscosphaera majungae Perch-Nielsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

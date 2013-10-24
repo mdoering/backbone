@@ -1,5 +1,4 @@
-Merulius candicans Pers. SPECIES
-=======
+# Merulius candicans Pers. SPECIES
 
 #### Status
 ACCEPTED

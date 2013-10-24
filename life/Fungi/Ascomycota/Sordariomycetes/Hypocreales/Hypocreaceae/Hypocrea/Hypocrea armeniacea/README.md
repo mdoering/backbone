@@ -1,5 +1,4 @@
-Hypocrea armeniacea Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea armeniacea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

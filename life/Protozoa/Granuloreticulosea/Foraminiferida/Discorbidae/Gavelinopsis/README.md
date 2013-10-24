@@ -1,5 +1,4 @@
-Gavelinopsis Hofker, 1951 GENUS
-=======
+# Gavelinopsis Hofker, 1951 GENUS
 
 #### Status
 ACCEPTED

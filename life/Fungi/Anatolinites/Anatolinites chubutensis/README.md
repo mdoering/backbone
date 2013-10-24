@@ -1,5 +1,4 @@
-Anatolinites chubutensis Elsik, V.S. Ediger & Bati SPECIES
-=======
+# Anatolinites chubutensis Elsik, V.S. Ediger & Bati SPECIES
 
 #### Status
 ACCEPTED

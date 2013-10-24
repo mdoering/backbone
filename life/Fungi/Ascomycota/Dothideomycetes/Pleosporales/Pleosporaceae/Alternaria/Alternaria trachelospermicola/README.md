@@ -1,5 +1,4 @@
-Alternaria trachelospermicola (T.Y. Zhang, X.F. Lin & W.Q. Chen) E.G. Simmons SPECIES
-=======
+# Alternaria trachelospermicola (T.Y. Zhang, X.F. Lin & W.Q. Chen) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

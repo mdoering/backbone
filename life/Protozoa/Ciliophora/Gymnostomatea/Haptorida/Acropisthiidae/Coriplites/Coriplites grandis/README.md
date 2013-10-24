@@ -1,5 +1,4 @@
-Coriplites grandis Oertel, Wolf, Al-Rasheid & Foissner, 2008 SPECIES
-=======
+# Coriplites grandis Oertel, Wolf, Al-Rasheid & Foissner, 2008 SPECIES
 
 #### Status
 ACCEPTED

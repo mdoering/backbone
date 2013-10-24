@@ -1,5 +1,4 @@
-Fusamen oelandicum (Lind) Arx SPECIES
-=======
+# Fusamen oelandicum (Lind) Arx SPECIES
 
 #### Status
 ACCEPTED

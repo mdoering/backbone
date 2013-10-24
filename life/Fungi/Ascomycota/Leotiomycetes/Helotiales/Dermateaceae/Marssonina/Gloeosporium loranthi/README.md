@@ -1,5 +1,4 @@
-Gloeosporium loranthi Rao & M.A. Salam SPECIES
-=======
+# Gloeosporium loranthi Rao & M.A. Salam SPECIES
 
 #### Status
 ACCEPTED

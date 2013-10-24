@@ -1,5 +1,4 @@
-Anomalina reniformis SPECIES
-=======
+# Anomalina reniformis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus verrucosus Krieger SPECIES
-=======
+# Chroococcus verrucosus Krieger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus flexipes Massee SPECIES
-=======
+# Boletus flexipes Massee SPECIES
 
 #### Status
 ACCEPTED

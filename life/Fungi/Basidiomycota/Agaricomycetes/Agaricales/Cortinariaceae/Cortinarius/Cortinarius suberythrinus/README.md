@@ -1,5 +1,4 @@
-Cortinarius suberythrinus Moënne-Locc. SPECIES
-=======
+# Cortinarius suberythrinus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

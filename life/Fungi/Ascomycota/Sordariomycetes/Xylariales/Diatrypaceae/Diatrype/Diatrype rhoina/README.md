@@ -1,5 +1,4 @@
-Diatrype rhoina Cooke & Ellis SPECIES
-=======
+# Diatrype rhoina Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

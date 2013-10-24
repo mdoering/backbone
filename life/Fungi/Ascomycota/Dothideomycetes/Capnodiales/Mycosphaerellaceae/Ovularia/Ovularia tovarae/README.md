@@ -1,5 +1,4 @@
-Ovularia tovarae Sawada SPECIES
-=======
+# Ovularia tovarae Sawada SPECIES
 
 #### Status
 ACCEPTED

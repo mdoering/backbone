@@ -1,5 +1,4 @@
-Tuburcinia schizocaula (Ces.) Maire SPECIES
-=======
+# Tuburcinia schizocaula (Ces.) Maire SPECIES
 
 #### Status
 ACCEPTED

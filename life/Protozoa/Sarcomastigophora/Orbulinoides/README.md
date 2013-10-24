@@ -1,5 +1,4 @@
-Orbulinoides Saidova, 1970 GENUS
-=======
+# Orbulinoides Saidova, 1970 GENUS
 
 #### Status
 ACCEPTED

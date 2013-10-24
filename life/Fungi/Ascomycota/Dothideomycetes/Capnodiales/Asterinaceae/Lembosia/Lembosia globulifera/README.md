@@ -1,5 +1,4 @@
-Lembosia globulifera Pat. SPECIES
-=======
+# Lembosia globulifera Pat. SPECIES
 
 #### Status
 ACCEPTED

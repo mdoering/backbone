@@ -1,5 +1,4 @@
-Strigula calcarea Bricaud & Cl. Roux SPECIES
-=======
+# Strigula calcarea Bricaud & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

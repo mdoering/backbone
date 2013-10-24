@@ -1,5 +1,4 @@
-Algoriphagus aquimarinus Nedashkovskaya et al., 2004 SPECIES
-=======
+# Algoriphagus aquimarinus Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

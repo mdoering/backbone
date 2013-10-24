@@ -1,5 +1,4 @@
-Neurospora celata B.C. Turner & Fairfield SPECIES
-=======
+# Neurospora celata B.C. Turner & Fairfield SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma arengae Sacc. SPECIES
-=======
+# Macrophoma arengae Sacc. SPECIES
 
 #### Status
 ACCEPTED

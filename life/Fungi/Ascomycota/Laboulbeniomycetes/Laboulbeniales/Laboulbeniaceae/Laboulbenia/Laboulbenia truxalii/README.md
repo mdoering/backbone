@@ -1,5 +1,4 @@
-Laboulbenia truxalii R.K. Benj. SPECIES
-=======
+# Laboulbenia truxalii R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

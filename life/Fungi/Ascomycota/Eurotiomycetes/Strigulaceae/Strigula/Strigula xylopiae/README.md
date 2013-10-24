@@ -1,5 +1,4 @@
-Strigula xylopiae Bat. & Cavalc. SPECIES
-=======
+# Strigula xylopiae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

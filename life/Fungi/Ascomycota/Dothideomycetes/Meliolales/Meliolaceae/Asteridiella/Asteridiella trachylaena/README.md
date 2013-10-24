@@ -1,5 +1,4 @@
-Asteridiella trachylaena (Syd.) Hansf. SPECIES
-=======
+# Asteridiella trachylaena (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

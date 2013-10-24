@@ -1,5 +1,4 @@
-Melaspilea hyparctica K. Holm & L. Holm SPECIES
-=======
+# Melaspilea hyparctica K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

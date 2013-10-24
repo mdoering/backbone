@@ -1,5 +1,4 @@
-Elsinoë verbenae Bitanc. & Jenkins SPECIES
-=======
+# Elsinoë verbenae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

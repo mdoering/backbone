@@ -1,5 +1,4 @@
-Lecidea bussanensis Harm. SPECIES
-=======
+# Lecidea bussanensis Harm. SPECIES
 
 #### Status
 ACCEPTED

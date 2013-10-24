@@ -1,5 +1,4 @@
-Peziza equiseti Fr. SPECIES
-=======
+# Peziza equiseti Fr. SPECIES
 
 #### Status
 ACCEPTED

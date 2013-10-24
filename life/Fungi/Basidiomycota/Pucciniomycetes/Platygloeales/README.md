@@ -1,5 +1,4 @@
-Platygloeales ORDER
-=======
+# Platygloeales ORDER
 
 #### Status
 ACCEPTED

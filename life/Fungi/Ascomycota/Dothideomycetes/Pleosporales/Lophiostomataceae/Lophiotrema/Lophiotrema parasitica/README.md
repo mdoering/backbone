@@ -1,5 +1,4 @@
-Lophiotrema parasitica House SPECIES
-=======
+# Lophiotrema parasitica House SPECIES
 
 #### Status
 ACCEPTED

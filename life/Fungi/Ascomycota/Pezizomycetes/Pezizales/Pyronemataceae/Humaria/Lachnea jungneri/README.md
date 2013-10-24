@@ -1,5 +1,4 @@
-Lachnea jungneri Henn. SPECIES
-=======
+# Lachnea jungneri Henn. SPECIES
 
 #### Status
 ACCEPTED

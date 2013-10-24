@@ -1,5 +1,4 @@
-Podosordaria plumosa P.M.D. Martin SPECIES
-=======
+# Podosordaria plumosa P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

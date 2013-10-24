@@ -1,5 +1,4 @@
-Stachylidium olivaceum (Corda) Sacc. SPECIES
-=======
+# Stachylidium olivaceum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

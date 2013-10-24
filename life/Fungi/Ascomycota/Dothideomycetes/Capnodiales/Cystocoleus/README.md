@@ -1,17 +1,16 @@
-Chroolepus C. Agardh, 1824 GENUS
-=======
+# Cystocoleus Thwaites, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Saccardo's Syll. fung. IV: 109
+Ann. Mag. nat. Hist. , Ser. 2 3: 241 (1849)
 
 #### Original name
-Chroolepus C. Agardh, 1824
+Cystocoleus Thwaites, 1849
 
 ### Remarks
 null

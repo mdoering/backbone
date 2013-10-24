@@ -1,5 +1,4 @@
-Puccinia stipina f. sp FORM
-=======
+# Puccinia stipina Tranzschel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia stipina f. sp
+Puccinia stipina Tranzschel
 
 ### Remarks
 null

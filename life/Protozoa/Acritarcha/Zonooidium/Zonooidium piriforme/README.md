@@ -1,5 +1,4 @@
-Zonooidium piriforme Timofeev, 1957 SPECIES
-=======
+# Zonooidium piriforme Timofeev, 1957 SPECIES
 
 #### Status
 ACCEPTED

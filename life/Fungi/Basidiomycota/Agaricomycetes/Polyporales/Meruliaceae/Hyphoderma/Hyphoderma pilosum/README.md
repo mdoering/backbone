@@ -1,5 +1,4 @@
-Hyphoderma pilosum (Burt) Gilb. & Budington, 1970 SPECIES
-=======
+# Hyphoderma pilosum (Burt) Gilb. & Budington, 1970 SPECIES
 
 #### Status
 ACCEPTED

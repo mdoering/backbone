@@ -1,5 +1,4 @@
-Ramaria alba (Bull.) Quél. SPECIES
-=======
+# Ramaria alba (Bull.) Quél. SPECIES
 
 #### Status
 ACCEPTED

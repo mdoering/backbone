@@ -1,5 +1,4 @@
-Lecanora grimselana A. Massal. SPECIES
-=======
+# Lecanora grimselana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

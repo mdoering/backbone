@@ -1,17 +1,16 @@
-Trametes terreii Berk. & Broome SPECIES
-=======
+# Trametes terreyi Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 4 17: 136 (1876)
 
 #### Original name
-Trametes terreii Berk. & Broome
+Trametes terreyi Berk. & Broome
 
 ### Remarks
 null

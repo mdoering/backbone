@@ -1,5 +1,4 @@
-Lecanora estrellae B. de Lesd. SPECIES
-=======
+# Lecanora estrellae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

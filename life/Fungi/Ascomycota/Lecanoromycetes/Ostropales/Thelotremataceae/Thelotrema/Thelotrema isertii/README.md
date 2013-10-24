@@ -1,5 +1,4 @@
-Thelotrema isertii Vain. SPECIES
-=======
+# Thelotrema isertii Vain. SPECIES
 
 #### Status
 ACCEPTED

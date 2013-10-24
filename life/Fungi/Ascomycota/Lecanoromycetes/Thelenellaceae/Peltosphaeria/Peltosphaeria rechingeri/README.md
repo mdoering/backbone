@@ -1,5 +1,4 @@
-Peltosphaeria rechingeri Petr. SPECIES
-=======
+# Peltosphaeria rechingeri Petr. SPECIES
 
 #### Status
 ACCEPTED

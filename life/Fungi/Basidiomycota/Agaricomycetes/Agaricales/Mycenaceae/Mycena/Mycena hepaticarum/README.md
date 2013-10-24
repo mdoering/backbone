@@ -1,5 +1,4 @@
-Mycena hepaticarum Dennis SPECIES
-=======
+# Mycena hepaticarum Dennis SPECIES
 
 #### Status
 ACCEPTED

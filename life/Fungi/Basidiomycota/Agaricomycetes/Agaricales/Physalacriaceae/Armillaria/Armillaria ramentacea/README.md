@@ -1,5 +1,4 @@
-Armillaria ramentacea (Bull.) Gillet SPECIES
-=======
+# Armillaria ramentacea (Bull.) Gillet SPECIES
 
 #### Status
 ACCEPTED

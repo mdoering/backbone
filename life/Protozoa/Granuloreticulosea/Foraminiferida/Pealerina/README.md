@@ -1,17 +1,16 @@
-Ellisina Lalicker, 1950 GENUS
-=======
+# Pealerina Lalicker, 1951 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Paleont. Contr. Univ. Kansas, Art. 2, 18.
+J. Paleont. , 25, 237.
 
 #### Original name
-null
+Ellisina Lalicker, 1950
 
 ### Remarks
 null

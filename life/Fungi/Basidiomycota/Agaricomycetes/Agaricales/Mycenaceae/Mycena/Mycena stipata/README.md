@@ -1,17 +1,16 @@
-Mycena stipata var. stipata Maas Geest. & Schwöbel VARIETY
-=======
+# Mycena stipata Maas Geest. & Schwöbel, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beitr. Kenntn. Pilze Mitteleur. 3: 147 (1987)
 
 #### Original name
-Mycena stipata var. stipata Maas Geest. & Schwöbel
+Mycena stipata Maas Geest. & Schwöbel, 1987
 
 ### Remarks
 null

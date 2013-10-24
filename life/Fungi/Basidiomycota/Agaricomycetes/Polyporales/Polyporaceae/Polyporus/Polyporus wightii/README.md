@@ -1,5 +1,4 @@
-Polyporus wightii Klotzsch SPECIES
-=======
+# Polyporus wightii Klotzsch SPECIES
 
 #### Status
 ACCEPTED

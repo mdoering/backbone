@@ -1,5 +1,4 @@
-Cylindrosporium saccharinum Ellis & Everh. SPECIES
-=======
+# Cylindrosporium saccharinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

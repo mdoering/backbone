@@ -1,5 +1,4 @@
-Resupinatus pahangensis Corner SPECIES
-=======
+# Resupinatus pahangensis Corner SPECIES
 
 #### Status
 ACCEPTED

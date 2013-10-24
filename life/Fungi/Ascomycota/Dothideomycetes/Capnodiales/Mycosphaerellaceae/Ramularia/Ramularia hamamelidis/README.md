@@ -1,5 +1,4 @@
-Ramularia hamamelidis Peck SPECIES
-=======
+# Ramularia hamamelidis Peck SPECIES
 
 #### Status
 ACCEPTED

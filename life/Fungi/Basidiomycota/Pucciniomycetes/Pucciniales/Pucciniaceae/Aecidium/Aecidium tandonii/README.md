@@ -1,5 +1,4 @@
-Aecidium tandonii Mitter SPECIES
-=======
+# Aecidium tandonii Mitter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Chrysomma cinero-fusca (Weber) M. Choisy & Werner SPECIES
-=======
+# Chrysomma cinereofusca (Weber) M. Choisy & Werner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

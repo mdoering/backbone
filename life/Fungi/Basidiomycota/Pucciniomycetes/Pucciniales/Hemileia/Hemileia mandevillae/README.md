@@ -1,5 +1,4 @@
-Hemileia mandevillae Cummins SPECIES
-=======
+# Hemileia mandevillae Cummins SPECIES
 
 #### Status
 ACCEPTED

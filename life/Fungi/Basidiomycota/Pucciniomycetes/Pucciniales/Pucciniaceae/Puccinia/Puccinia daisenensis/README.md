@@ -1,5 +1,4 @@
-Puccinia daisenensis Hirats. f. SPECIES
-=======
+# Puccinia daisenensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

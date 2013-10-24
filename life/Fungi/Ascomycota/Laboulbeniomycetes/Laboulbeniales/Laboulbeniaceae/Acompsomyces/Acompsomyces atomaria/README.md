@@ -1,5 +1,4 @@
-Acompsomyces atomaria Thaxt. SPECIES
-=======
+# Acompsomyces atomaria Thaxt. SPECIES
 
 #### Status
 ACCEPTED

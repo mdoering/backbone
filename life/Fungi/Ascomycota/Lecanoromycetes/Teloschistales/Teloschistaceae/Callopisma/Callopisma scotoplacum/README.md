@@ -1,5 +1,4 @@
-Callopisma scotoplacum (Nyl.) J. Lahm SPECIES
-=======
+# Callopisma scotoplacum (Nyl.) J. Lahm SPECIES
 
 #### Status
 ACCEPTED

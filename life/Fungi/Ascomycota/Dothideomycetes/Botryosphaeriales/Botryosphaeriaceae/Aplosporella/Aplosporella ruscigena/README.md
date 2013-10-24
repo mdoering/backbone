@@ -1,5 +1,4 @@
-Aplosporella ruscigena Bubák SPECIES
-=======
+# Aplosporella ruscigena Bubák SPECIES
 
 #### Status
 ACCEPTED

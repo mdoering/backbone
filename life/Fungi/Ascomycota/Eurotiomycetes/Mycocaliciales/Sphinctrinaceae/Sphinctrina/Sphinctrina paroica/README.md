@@ -1,5 +1,4 @@
-Sphinctrina paroica (Ach.) Trevis. SPECIES
-=======
+# Sphinctrina paroica (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

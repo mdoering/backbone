@@ -1,5 +1,4 @@
-Puccinia sertata Preuss SPECIES
-=======
+# Puccinia sertata Preuss SPECIES
 
 #### Status
 ACCEPTED

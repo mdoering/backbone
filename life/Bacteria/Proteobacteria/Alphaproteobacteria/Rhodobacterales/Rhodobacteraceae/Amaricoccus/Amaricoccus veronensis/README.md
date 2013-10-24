@@ -1,5 +1,4 @@
-Amaricoccus veronensis Maszenan et al., 1997 SPECIES
-=======
+# Amaricoccus veronensis Maszenan et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

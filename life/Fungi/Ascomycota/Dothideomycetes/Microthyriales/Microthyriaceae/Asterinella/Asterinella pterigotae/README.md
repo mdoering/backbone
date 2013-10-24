@@ -1,5 +1,4 @@
-Asterinella pterigotae Hosag. & T.K. Abraham SPECIES
-=======
+# Asterinella pterigotae Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

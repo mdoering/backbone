@@ -1,5 +1,4 @@
-Boletus violascens Sacc. SPECIES
-=======
+# Boletus violascens Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Papulaspora immersa Hotson, 1912 SPECIES
-=======
+# Papulaspora immersa Hotson, 1912 SPECIES
 
 #### Status
 ACCEPTED

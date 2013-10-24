@@ -1,5 +1,4 @@
-Pseudocercospora denticulata Crous SPECIES
-=======
+# Pseudocercospora denticulata Crous SPECIES
 
 #### Status
 ACCEPTED

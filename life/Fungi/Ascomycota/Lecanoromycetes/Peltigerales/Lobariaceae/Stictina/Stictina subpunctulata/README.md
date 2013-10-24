@@ -1,5 +1,4 @@
-Stictina subpunctulata (Nyl.) Stizenb. SPECIES
-=======
+# Stictina subpunctulata (Nyl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

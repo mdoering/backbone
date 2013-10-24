@@ -1,5 +1,4 @@
-Pesotum pini (L.J. Hutchison & J. Reid) G. Okada & Seifert SPECIES
-=======
+# Pesotum pini (L.J. Hutchison & J. Reid) G. Okada & Seifert SPECIES
 
 #### Status
 ACCEPTED

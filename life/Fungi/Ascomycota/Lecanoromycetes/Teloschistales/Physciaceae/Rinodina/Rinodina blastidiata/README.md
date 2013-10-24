@@ -1,17 +1,16 @@
-Rinodina teichophiloides (Stizenb.) Zahlbr. SPECIES
-=======
+# Rinodina blastidiata Matzer & H. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 7: 557 (1931)
+Acta bot. fenn. 150: 110 (1994)
 
 #### Original name
-Lecanora teichophiloides Stizenb.
+Rinodina blastidiata Matzer & H. Mayrhofer
 
 ### Remarks
 null

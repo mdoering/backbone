@@ -1,5 +1,4 @@
-Rhytidenglerula cissi (Syd.) Arx SPECIES
-=======
+# Rhytidenglerula cissi (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

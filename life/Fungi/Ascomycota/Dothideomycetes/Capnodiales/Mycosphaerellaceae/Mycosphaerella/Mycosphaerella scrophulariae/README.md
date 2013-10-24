@@ -1,8 +1,7 @@
-Sphaerella scrophulariae (Sacc. & Briard) Mussat, 1900 SPECIES
-=======
+# Mycosphaerella scrophulariae (Sacc. & Briard) Tomilin, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Sphaerella nebulosa var. scrophulariae Sacc. & Briard, 1885
+null
 
 ### Remarks
 null

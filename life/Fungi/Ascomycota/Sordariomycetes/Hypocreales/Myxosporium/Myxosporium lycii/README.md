@@ -1,5 +1,4 @@
-Myxosporium lycii Allesch. SPECIES
-=======
+# Myxosporium lycii Allesch. SPECIES
 
 #### Status
 ACCEPTED

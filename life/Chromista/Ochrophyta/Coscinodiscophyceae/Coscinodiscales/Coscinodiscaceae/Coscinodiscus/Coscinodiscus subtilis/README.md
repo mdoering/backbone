@@ -1,5 +1,4 @@
-Coscinodiscus subtilis Ehrenberg SPECIES
-=======
+# Coscinodiscus subtilis Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

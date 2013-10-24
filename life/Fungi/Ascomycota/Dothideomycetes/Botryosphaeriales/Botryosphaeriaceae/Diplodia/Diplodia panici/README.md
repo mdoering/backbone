@@ -1,5 +1,4 @@
-Diplodia panici S. Ahmad SPECIES
-=======
+# Diplodia panici S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

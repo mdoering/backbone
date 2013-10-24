@@ -1,5 +1,4 @@
-Marasmius alienus Peck SPECIES
-=======
+# Marasmius alienus Peck SPECIES
 
 #### Status
 ACCEPTED

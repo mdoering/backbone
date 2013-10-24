@@ -1,5 +1,4 @@
-Coprinus psamathonophilus Speg. SPECIES
-=======
+# Coprinus psamathonophilus Speg. SPECIES
 
 #### Status
 ACCEPTED

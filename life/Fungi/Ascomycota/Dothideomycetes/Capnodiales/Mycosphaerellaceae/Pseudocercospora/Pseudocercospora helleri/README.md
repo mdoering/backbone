@@ -1,5 +1,4 @@
-Pseudocercospora helleri (Earle) Deighton SPECIES
-=======
+# Pseudocercospora helleri (Earle) Deighton SPECIES
 
 #### Status
 ACCEPTED

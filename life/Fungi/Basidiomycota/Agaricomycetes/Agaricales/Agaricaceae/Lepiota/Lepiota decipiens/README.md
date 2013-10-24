@@ -1,5 +1,4 @@
-Lepiota decipiens Schwalb SPECIES
-=======
+# Lepiota decipiens Schwalb SPECIES
 
 #### Status
 ACCEPTED

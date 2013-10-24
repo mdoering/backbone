@@ -1,5 +1,4 @@
-Kymadiscus haliotrephus (Kohlm. & E. Kohlm.) Kohlm. & E. Kohlm. SPECIES
-=======
+# Kymadiscus haliotrephus (Kohlm. & E. Kohlm.) Kohlm. & E. Kohlm. SPECIES
 
 #### Status
 ACCEPTED

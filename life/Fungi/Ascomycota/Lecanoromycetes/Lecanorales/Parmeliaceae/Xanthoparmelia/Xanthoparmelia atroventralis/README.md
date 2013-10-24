@@ -1,5 +1,4 @@
-Xanthoparmelia atroventralis (Hale) Hale SPECIES
-=======
+# Xanthoparmelia atroventralis (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

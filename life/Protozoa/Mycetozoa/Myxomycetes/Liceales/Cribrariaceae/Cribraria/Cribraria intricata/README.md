@@ -1,17 +1,16 @@
-Cribraria intricata var. intricata Schrad. VARIETY
-=======
+# Cribraria intricata Schrad., 1797 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nov. gen. pl. (Lipsiae) 7 (1797)
 
 #### Original name
-Cribraria intricata var. intricata Schrad.
+Cribraria intricata Schrad., 1797
 
 ### Remarks
 null

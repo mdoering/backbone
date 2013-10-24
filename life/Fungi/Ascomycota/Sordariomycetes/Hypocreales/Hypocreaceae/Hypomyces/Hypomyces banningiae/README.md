@@ -1,5 +1,4 @@
-Hypomyces banningiae Peck SPECIES
-=======
+# Hypomyces banningiae Peck SPECIES
 
 #### Status
 ACCEPTED

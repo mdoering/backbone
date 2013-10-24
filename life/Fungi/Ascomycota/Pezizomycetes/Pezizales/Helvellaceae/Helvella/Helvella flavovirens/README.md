@@ -1,5 +1,4 @@
-Helvella flavovirens Nees SPECIES
-=======
+# Helvella flavovirens Nees SPECIES
 
 #### Status
 ACCEPTED

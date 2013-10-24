@@ -1,5 +1,4 @@
-Capsellina Penard, 1909 GENUS
-=======
+# Capsellina Penard, 1909 GENUS
 
 #### Status
 ACCEPTED

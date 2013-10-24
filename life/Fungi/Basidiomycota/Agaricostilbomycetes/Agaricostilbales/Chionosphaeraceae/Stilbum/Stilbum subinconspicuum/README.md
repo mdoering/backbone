@@ -1,5 +1,4 @@
-Stilbum subinconspicuum (Corda) Bonord. SPECIES
-=======
+# Stilbum subinconspicuum (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

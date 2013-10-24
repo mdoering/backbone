@@ -1,5 +1,4 @@
-Sterbeeckia geaster Link SPECIES
-=======
+# Sterbeeckia geaster Link SPECIES
 
 #### Status
 ACCEPTED

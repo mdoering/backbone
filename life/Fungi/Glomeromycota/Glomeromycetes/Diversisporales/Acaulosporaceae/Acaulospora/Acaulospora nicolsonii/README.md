@@ -1,5 +1,4 @@
-Acaulospora nicolsonii C. Walker, L.E. Reed & F.E. Sanders, 1984 SPECIES
-=======
+# Acaulospora nicolsonii C. Walker, L.E. Reed & F.E. Sanders, 1984 SPECIES
 
 #### Status
 ACCEPTED

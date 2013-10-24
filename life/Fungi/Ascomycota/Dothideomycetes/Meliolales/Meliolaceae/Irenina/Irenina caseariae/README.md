@@ -1,5 +1,4 @@
-Irenina caseariae Hansf. SPECIES
-=======
+# Irenina caseariae Hansf. SPECIES
 
 #### Status
 ACCEPTED

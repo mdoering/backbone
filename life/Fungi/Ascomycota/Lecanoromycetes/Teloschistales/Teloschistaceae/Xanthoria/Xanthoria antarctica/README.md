@@ -1,5 +1,4 @@
-Xanthoria antarctica (Vain.) C.W. Dodge & G.E. Baker SPECIES
-=======
+# Xanthoria antarctica (Vain.) C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

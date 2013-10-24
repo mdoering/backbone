@@ -1,5 +1,4 @@
-Ptychogaster japonicus Lloyd SPECIES
-=======
+# Ptychogaster japonicus Lloyd SPECIES
 
 #### Status
 ACCEPTED

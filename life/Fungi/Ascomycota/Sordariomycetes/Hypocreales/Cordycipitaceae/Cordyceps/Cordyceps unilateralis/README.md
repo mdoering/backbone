@@ -1,5 +1,4 @@
-Cordyceps unilateralis (Tul.) Sacc. SPECIES
-=======
+# Cordyceps unilateralis (Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

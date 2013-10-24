@@ -1,5 +1,4 @@
-Diploderma GENUS
-=======
+# Diploderma GENUS
 
 #### Status
 ACCEPTED

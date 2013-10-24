@@ -1,5 +1,4 @@
-Puccinia scirpi-mucronati Sawada SPECIES
-=======
+# Puccinia scirpi-mucronati Sawada SPECIES
 
 #### Status
 ACCEPTED

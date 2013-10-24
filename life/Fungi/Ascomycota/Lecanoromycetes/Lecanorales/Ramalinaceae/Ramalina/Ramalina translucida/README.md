@@ -1,5 +1,4 @@
-Ramalina translucida Krog & Swinscow SPECIES
-=======
+# Ramalina translucida Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

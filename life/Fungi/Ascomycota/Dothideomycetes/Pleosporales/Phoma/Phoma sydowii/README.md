@@ -1,5 +1,4 @@
-Phoma sydowii Boerema, Kesteren & Loer., 1981 SPECIES
-=======
+# Phoma sydowii Boerema, Kesteren & Loer., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces tortilis Thaxt. SPECIES
-=======
+# Stigmatomyces tortilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

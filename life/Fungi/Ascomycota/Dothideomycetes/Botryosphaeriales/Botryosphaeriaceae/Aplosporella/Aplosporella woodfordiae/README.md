@@ -1,5 +1,4 @@
-Aplosporella woodfordiae Subhedar, A. Pande & V.G. Rao SPECIES
-=======
+# Aplosporella woodfordiae Subhedar, A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

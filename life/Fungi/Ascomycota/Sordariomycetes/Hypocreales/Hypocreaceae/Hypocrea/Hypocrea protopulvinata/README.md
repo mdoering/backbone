@@ -1,5 +1,4 @@
-Hypocrea protopulvinata Yoshim. Doi, 1972 SPECIES
-=======
+# Hypocrea protopulvinata Yoshim. Doi, 1972 SPECIES
 
 #### Status
 ACCEPTED

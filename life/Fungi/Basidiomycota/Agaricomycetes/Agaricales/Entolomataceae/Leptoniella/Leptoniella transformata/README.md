@@ -1,5 +1,4 @@
-Leptoniella transformata (Peck) Murrill SPECIES
-=======
+# Leptoniella transformata (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

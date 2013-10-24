@@ -1,8 +1,7 @@
-Quadrimorphina pescicula Saidova, 1975 SPECIES
-=======
+# Quadrimorphina laevigata (Phleger & Parker, 1951) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

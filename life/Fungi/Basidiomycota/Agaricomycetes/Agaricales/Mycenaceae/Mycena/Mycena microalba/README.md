@@ -1,5 +1,4 @@
-Mycena microalba Singer SPECIES
-=======
+# Mycena microalba Singer SPECIES
 
 #### Status
 ACCEPTED

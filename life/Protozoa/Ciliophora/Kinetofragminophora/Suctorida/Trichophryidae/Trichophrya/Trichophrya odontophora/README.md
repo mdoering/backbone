@@ -1,5 +1,4 @@
-Trichophrya odontophora SPECIES
-=======
+# Trichophrya odontophora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonia pruinosae Zaprom. SPECIES
-=======
+# Marssonia pruinosae Zaprom. SPECIES
 
 #### Status
 ACCEPTED

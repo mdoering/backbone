@@ -1,5 +1,4 @@
-Rhizomorpha terrestris Pers. SPECIES
-=======
+# Rhizomorpha terrestris Pers. SPECIES
 
 #### Status
 ACCEPTED

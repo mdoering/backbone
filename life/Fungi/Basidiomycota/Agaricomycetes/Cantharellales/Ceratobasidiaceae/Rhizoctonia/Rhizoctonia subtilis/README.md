@@ -1,5 +1,4 @@
-Rhizoctonia subtilis Burgeff SPECIES
-=======
+# Rhizoctonia subtilis Burgeff SPECIES
 
 #### Status
 ACCEPTED

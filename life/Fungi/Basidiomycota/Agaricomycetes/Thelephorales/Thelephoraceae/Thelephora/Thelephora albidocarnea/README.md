@@ -1,5 +1,4 @@
-Thelephora albidocarnea Schwein. SPECIES
-=======
+# Thelephora albidocarnea Schwein. SPECIES
 
 #### Status
 ACCEPTED

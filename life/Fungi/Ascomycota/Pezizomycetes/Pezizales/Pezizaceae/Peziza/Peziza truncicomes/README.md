@@ -1,5 +1,4 @@
-Peziza truncicomes W.R. Gerard SPECIES
-=======
+# Peziza truncicomes W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

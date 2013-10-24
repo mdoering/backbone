@@ -1,5 +1,4 @@
-Sphaeria chamaeropis Durieu & Mont. SPECIES
-=======
+# Sphaeria chamaeropis Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

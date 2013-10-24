@@ -1,5 +1,4 @@
-Involucrothele subpapularis (Zschacke) Servít SPECIES
-=======
+# Involucrothele subpapularis (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

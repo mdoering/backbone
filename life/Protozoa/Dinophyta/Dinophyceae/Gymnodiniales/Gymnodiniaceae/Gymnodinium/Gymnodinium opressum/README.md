@@ -1,5 +1,4 @@
-Gymnodinium opressum Conrad, 1926 SPECIES
-=======
+# Gymnodinium opressum Conrad, 1926 SPECIES
 
 #### Status
 ACCEPTED

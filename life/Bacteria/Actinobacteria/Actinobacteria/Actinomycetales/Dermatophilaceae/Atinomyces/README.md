@@ -1,5 +1,4 @@
-Atinomyces GENUS
-=======
+# Atinomyces GENUS
 
 #### Status
 ACCEPTED

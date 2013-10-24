@@ -1,5 +1,4 @@
-Pseudomonas hibiscicola Moniz, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas hibiscicola Moniz, 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

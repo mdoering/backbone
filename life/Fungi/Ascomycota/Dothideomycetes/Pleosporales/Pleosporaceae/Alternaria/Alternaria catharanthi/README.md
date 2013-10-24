@@ -1,5 +1,4 @@
-Alternaria catharanthi (T.Y. Zhang & X.F. Lin) E.G. Simmons SPECIES
-=======
+# Alternaria catharanthi (T.Y. Zhang & X.F. Lin) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

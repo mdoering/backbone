@@ -1,5 +1,4 @@
-Agaricus lasius Berk. & Broome SPECIES
-=======
+# Agaricus lasius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

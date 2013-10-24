@@ -1,5 +1,4 @@
-Lycoperdon sanguineum H. Ruppr. SPECIES
-=======
+# Lycoperdon sanguineum H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

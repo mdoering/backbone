@@ -1,5 +1,4 @@
-Musculomyces GENUS
-=======
+# Musculomyces GENUS
 
 #### Status
 ACCEPTED

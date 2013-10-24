@@ -1,5 +1,4 @@
-Desulfobacter Widdel, 1981 GENUS
-=======
+# Desulfobacter Widdel, 1981 GENUS
 
 #### Status
 ACCEPTED

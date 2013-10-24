@@ -1,5 +1,4 @@
-Gloeosporium aecidiicola Ranoj. SPECIES
-=======
+# Gloeosporium aecidiicola Ranoj. SPECIES
 
 #### Status
 ACCEPTED

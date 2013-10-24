@@ -1,5 +1,4 @@
-Uredo laricis Westend. SPECIES
-=======
+# Uredo laricis Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dasyscypha warburgianus Henn. SPECIES
-=======
+# Dasyscyphus warburgianus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 32: 226 (1893)
 
 #### Original name
-Dasyscypha warburgianus Henn.
+Dasyscyphus warburgianus Henn.
 
 ### Remarks
 null

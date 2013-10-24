@@ -1,5 +1,4 @@
-Septosporium Corda, 1831 GENUS
-=======
+# Septosporium Corda, 1831 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ovularia cousiniae Golovin SPECIES
-=======
+# Ovularia cousiniae Golovin SPECIES
 
 #### Status
 ACCEPTED

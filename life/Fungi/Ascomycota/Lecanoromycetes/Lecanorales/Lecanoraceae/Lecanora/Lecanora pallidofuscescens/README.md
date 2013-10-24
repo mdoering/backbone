@@ -1,5 +1,4 @@
-Lecanora pallidofuscescens Vain. SPECIES
-=======
+# Lecanora pallidofuscescens Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosphaeria nardincola Rehm SPECIES
-=======
+# Heterosphaeria nardincola Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo biporula Arthur SPECIES
-=======
+# Uredo biporula Arthur SPECIES
 
 #### Status
 ACCEPTED

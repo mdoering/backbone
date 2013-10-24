@@ -1,5 +1,4 @@
-Dicaeoma longisporum (McAlpine) Syd. SPECIES
-=======
+# Dicaeoma longisporum (McAlpine) Syd. SPECIES
 
 #### Status
 ACCEPTED

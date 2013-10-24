@@ -1,5 +1,4 @@
-Trichophyton plicatilis Sabour. SPECIES
-=======
+# Trichophyton plicatilis Sabour. SPECIES
 
 #### Status
 ACCEPTED

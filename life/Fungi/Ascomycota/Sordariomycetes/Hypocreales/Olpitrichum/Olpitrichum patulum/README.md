@@ -1,14 +1,13 @@
-Botrytis patula Sacc. & Berl., 1886 SPECIES
-=======
+# Olpitrichum patulum (Sacc. & Berl.) Hol.-Jech., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 125 (1886)
+Folia geobot. phytotax. bohemoslov. 9(4): 430 (1974)
 
 #### Original name
 Botrytis patula Sacc. & Berl., 1886

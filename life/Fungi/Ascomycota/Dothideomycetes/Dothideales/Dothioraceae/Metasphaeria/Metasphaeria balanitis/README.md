@@ -1,5 +1,4 @@
-Metasphaeria balanitis Tassi SPECIES
-=======
+# Metasphaeria balanitis Tassi SPECIES
 
 #### Status
 ACCEPTED

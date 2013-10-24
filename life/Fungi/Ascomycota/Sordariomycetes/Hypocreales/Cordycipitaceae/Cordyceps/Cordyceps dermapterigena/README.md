@@ -1,17 +1,16 @@
-Cordyceps dermapteoigena Z.Q. Liang, A.Y. Liu & M.H. Liu SPECIES
-=======
+# Cordyceps dermapterigena Z.Q. Liang, A.Y. Liu & M.H. Liu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Liang, Liu, Liu & Kang, Fungal Diversity 14: 96 (2003)
 
 #### Original name
-Cordyceps dermapteoigena Z.Q. Liang, A.Y. Liu & M.H. Liu
+Cordyceps dermapterigena Z.Q. Liang, A.Y. Liu & M.H. Liu
 
 ### Remarks
 null

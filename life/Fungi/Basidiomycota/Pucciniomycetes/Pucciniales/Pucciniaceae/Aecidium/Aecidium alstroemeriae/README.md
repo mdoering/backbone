@@ -1,5 +1,4 @@
-Aecidium alstroemeriae Dietel & Neger SPECIES
-=======
+# Aecidium alstroemeriae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

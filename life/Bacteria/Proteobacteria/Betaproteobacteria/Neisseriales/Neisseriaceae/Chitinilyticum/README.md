@@ -1,5 +1,4 @@
-Chitinilyticum Chang et al., 2007 GENUS
-=======
+# Chitinilyticum Chang et al., 2007 GENUS
 
 #### Status
 ACCEPTED

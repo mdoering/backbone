@@ -1,5 +1,4 @@
-Cercospora palmae-amazonensis Bat. & Cavalc. SPECIES
-=======
+# Cercospora palmae-amazonensis Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora sphaeriaeformia Cooke SPECIES
-=======
+# Cercospora sphaeriaeformia Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora acaciae-confusae (Sawada) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora acaciae-confusae (Sawada) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

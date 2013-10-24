@@ -1,5 +1,4 @@
-Russula vinosirosea Murrill SPECIES
-=======
+# Russula vinosirosea Murrill SPECIES
 
 #### Status
 ACCEPTED

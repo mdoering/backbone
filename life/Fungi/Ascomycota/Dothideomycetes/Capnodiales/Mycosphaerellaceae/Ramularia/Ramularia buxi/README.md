@@ -1,5 +1,4 @@
-Ramularia buxi Fuckel SPECIES
-=======
+# Ramularia buxi Fuckel SPECIES
 
 #### Status
 ACCEPTED

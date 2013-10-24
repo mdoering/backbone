@@ -1,5 +1,4 @@
-Haplographium caespitosum Demelius SPECIES
-=======
+# Haplographium caespitosum Demelius SPECIES
 
 #### Status
 ACCEPTED

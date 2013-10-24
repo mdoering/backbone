@@ -1,5 +1,4 @@
-Elsinoë mimosae Viégas SPECIES
-=======
+# Elsinoë mimosae Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Skeletonema denticulatum N. I. Strelnikova SPECIES
-=======
+# Skeletonema denticulatum N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

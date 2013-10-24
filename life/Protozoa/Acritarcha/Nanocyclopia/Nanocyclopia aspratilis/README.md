@@ -1,5 +1,4 @@
-Nanocyclopia aspratilis Loeblich & Wicander, 1976 SPECIES
-=======
+# Nanocyclopia aspratilis Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

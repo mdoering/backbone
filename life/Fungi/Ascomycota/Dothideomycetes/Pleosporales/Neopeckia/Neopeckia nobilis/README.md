@@ -1,5 +1,4 @@
-Neopeckia nobilis var. nobilis VARIETY
-=======
+# Neopeckia nobilis Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Neopeckia nobilis var. nobilis
+Neopeckia nobilis Rick
 
 ### Remarks
 null

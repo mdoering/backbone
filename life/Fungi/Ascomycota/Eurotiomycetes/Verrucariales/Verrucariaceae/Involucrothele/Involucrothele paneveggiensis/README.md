@@ -1,5 +1,4 @@
-Involucrothele paneveggiensis Servít SPECIES
-=======
+# Involucrothele paneveggiensis Servít SPECIES
 
 #### Status
 ACCEPTED

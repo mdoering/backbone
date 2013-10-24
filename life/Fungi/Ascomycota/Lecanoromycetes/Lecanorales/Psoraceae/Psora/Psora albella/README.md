@@ -1,5 +1,4 @@
-Psora albella (Pers.) Hampe SPECIES
-=======
+# Psora albella (Pers.) Hampe SPECIES
 
 #### Status
 ACCEPTED

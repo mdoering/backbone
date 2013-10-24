@@ -1,5 +1,4 @@
-Agaricus lugens Jungh. SPECIES
-=======
+# Agaricus lugens Jungh. SPECIES
 
 #### Status
 ACCEPTED

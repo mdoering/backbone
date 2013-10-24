@@ -1,5 +1,4 @@
-Macrosporium cirsii J. Lindau SPECIES
-=======
+# Macrosporium cirsii J. Lindau SPECIES
 
 #### Status
 ACCEPTED

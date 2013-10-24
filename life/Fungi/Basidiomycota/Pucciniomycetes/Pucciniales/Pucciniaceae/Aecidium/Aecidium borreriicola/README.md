@@ -1,5 +1,4 @@
-Aecidium borreriicola H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium borreriicola H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

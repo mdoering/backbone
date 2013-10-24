@@ -1,5 +1,4 @@
-Faurelina indica Arx, Mukerji & N. Singh SPECIES
-=======
+# Faurelina indica Arx, Mukerji & N. Singh SPECIES
 
 #### Status
 ACCEPTED

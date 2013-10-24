@@ -1,5 +1,4 @@
-Hyphoderma fuscum (Burt) Donk SPECIES
-=======
+# Hyphoderma fuscum (Burt) Donk SPECIES
 
 #### Status
 ACCEPTED

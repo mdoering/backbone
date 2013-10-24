@@ -1,5 +1,4 @@
-Mycena roridula Berk. & M.A. Curtis SPECIES
-=======
+# Mycena roridula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

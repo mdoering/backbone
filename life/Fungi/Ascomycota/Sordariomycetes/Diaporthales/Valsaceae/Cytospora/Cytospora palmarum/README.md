@@ -1,5 +1,4 @@
-Cytospora palmarum Cooke SPECIES
-=======
+# Cytospora palmarum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tiarosporella halmyra Kohlm. & Volkm.-Kohlm., 1996 SPECIES
-=======
+# Tiarosporella halmyra Kohlm. & Volkm.-Kohlm., 1996 SPECIES
 
 #### Status
 ACCEPTED

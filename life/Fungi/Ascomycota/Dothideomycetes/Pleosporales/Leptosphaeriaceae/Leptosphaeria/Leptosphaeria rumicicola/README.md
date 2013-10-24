@@ -1,5 +1,4 @@
-Leptosphaeria rumicicola S. Ahmad SPECIES
-=======
+# Leptosphaeria rumicicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

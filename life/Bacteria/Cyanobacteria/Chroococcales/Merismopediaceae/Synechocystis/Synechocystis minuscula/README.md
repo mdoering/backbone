@@ -1,5 +1,4 @@
-Synechocystis minuscula Voronichin SPECIES
-=======
+# Synechocystis minuscula Voronichin SPECIES
 
 #### Status
 ACCEPTED

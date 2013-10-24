@@ -1,17 +1,16 @@
-Cortinarius largus var. serotina Fr. VARIETY
-=======
+# Cortinarius largus Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 259 (1838)
 
 #### Original name
-Cortinarius largus var. serotina Fr.
+Cortinarius largus Fr., 1838
 
 ### Remarks
 null

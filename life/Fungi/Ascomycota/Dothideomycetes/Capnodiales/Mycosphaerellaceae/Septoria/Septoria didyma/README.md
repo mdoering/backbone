@@ -1,5 +1,4 @@
-Septoria didyma var. didyma VARIETY
-=======
+# Septoria didyma Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jb. nassau. Ver. Naturk. 23-24: 390 (1870)
 
 #### Original name
-Septoria didyma var. didyma
+Septoria didyma Fuckel
 
 ### Remarks
 null

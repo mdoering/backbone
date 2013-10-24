@@ -1,5 +1,4 @@
-Opegrapha vulvella Ach. SPECIES
-=======
+# Opegrapha vulvella Ach. SPECIES
 
 #### Status
 ACCEPTED

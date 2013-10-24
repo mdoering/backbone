@@ -1,5 +1,4 @@
-Punctelia novozelandica Elix & J. Johnst. SPECIES
-=======
+# Punctelia novozelandica Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

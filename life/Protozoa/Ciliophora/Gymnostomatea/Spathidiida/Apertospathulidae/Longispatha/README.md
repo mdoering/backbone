@@ -1,5 +1,4 @@
-Longispatha GENUS
-=======
+# Longispatha GENUS
 
 #### Status
 ACCEPTED

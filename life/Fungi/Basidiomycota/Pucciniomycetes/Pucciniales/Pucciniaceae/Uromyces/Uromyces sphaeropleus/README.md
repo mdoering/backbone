@@ -1,5 +1,4 @@
-Uromyces sphaeropleus Cooke SPECIES
-=======
+# Uromyces sphaeropleus Cooke SPECIES
 
 #### Status
 ACCEPTED

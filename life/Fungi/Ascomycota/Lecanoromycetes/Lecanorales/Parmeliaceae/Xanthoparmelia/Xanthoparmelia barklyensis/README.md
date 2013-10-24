@@ -1,5 +1,4 @@
-Xanthoparmelia barklyensis Hale SPECIES
-=======
+# Xanthoparmelia barklyensis Hale SPECIES
 
 #### Status
 ACCEPTED

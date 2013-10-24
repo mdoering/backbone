@@ -1,5 +1,4 @@
-Asterotrochammina GENUS
-=======
+# Asterotrochammina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenastrum trypethelioides Eschw. SPECIES
-=======
+# Pyrenastrum trypethelioides Eschw. SPECIES
 
 #### Status
 ACCEPTED

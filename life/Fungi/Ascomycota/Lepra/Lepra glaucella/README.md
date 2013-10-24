@@ -1,5 +1,4 @@
-Lepra glaucella (Flörke) Mérat SPECIES
-=======
+# Lepra glaucella (Flörke) Mérat SPECIES
 
 #### Status
 ACCEPTED

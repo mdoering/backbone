@@ -1,5 +1,4 @@
-Venturiocistella japonica Hosoya, Y. Harada & Y. Otani, 1999 SPECIES
-=======
+# Venturiocistella japonica Hosoya, Y. Harada & Y. Otani, 1999 SPECIES
 
 #### Status
 ACCEPTED

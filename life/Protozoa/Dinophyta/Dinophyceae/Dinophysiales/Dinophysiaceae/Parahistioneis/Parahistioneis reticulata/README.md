@@ -1,11 +1,10 @@
-Histioneis reticulata Kofoid, 1907 SPECIES
-=======
+# Parahistioneis reticulata (Kofoid) Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

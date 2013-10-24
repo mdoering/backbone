@@ -1,5 +1,4 @@
-Caloplaca fusca (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Caloplaca fusca (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

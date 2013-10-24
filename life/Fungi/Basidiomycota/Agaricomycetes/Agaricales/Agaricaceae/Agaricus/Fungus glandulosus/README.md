@@ -1,5 +1,4 @@
-Fungus glandulosus Scop. SPECIES
-=======
+# Fungus glandulosus Scop. SPECIES
 
 #### Status
 ACCEPTED

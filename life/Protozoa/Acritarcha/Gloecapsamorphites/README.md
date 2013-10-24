@@ -1,5 +1,4 @@
-Gloecapsamorphites Ou-yang, Yin & Li, 1974 GENUS
-=======
+# Gloecapsamorphites Ou-yang, Yin & Li, 1974 GENUS
 
 #### Status
 ACCEPTED

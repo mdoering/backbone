@@ -1,5 +1,4 @@
-Operculinoides willcoxi (Heilprin, 1883) SPECIES
-=======
+# Operculinoides willcoxi (Heilprin, 1883) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyramidina Brotzen, 1948 GENUS
-=======
+# Pyramidina Brotzen, 1948 GENUS
 
 #### Status
 ACCEPTED

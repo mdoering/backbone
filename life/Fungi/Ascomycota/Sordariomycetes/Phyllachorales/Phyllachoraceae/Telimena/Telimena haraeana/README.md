@@ -1,14 +1,13 @@
-Telimena arundinariae Hara, 1927 SPECIES
-=======
+# Telimena haraeana I. Hino & Katum., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zikken Zyomoku Byogai Hen 350 (1927)
+in Katumoto, Bulletin of the Faculty of Agriculture, Yamaguchi University 9: 915 (1958)
 
 #### Original name
 Telimena arundinariae Hara, 1927

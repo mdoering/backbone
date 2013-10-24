@@ -1,5 +1,4 @@
-Lanzia pruni-serotinae (Whetzel & W.L. White) M.P. Sharma & R.M. Sharma SPECIES
-=======
+# Lanzia pruni-serotinae (Whetzel & W.L. White) M.P. Sharma & R.M. Sharma SPECIES
 
 #### Status
 ACCEPTED

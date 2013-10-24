@@ -1,5 +1,4 @@
-Chaetolentomita GENUS
-=======
+# Chaetolentomita GENUS
 
 #### Status
 ACCEPTED

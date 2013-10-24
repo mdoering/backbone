@@ -1,5 +1,4 @@
-Trichopeziza roseoalba (Schwein.) Sacc. SPECIES
-=======
+# Trichopeziza roseoalba (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora lysimachiae Berl. & Roum. SPECIES
-=======
+# Rhabdospora lysimachiae Berl. & Roum. SPECIES
 
 #### Status
 ACCEPTED

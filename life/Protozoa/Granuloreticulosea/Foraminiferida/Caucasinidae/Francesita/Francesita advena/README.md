@@ -1,8 +1,7 @@
-Fursenkoina advena (Cushman, 1922) SPECIES
-=======
+# Francesita advena (Cushman, 1922) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

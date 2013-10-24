@@ -1,17 +1,16 @@
-Sarcosoma zelandica Lloyd SPECIES
-=======
+# Sarcosoma zelandicum Lloyd, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Lloyd Lib. Bot. 35: 26 (1936)
 
 #### Original name
-Sarcosoma zelandica Lloyd
+Sarcosoma zelandicum Lloyd, 1936
 
 ### Remarks
 null

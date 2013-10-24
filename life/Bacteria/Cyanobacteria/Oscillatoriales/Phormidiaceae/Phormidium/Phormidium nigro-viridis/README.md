@@ -1,8 +1,7 @@
-Oscillatoria nigro-viridis f. crassior Playfair FORM
-=======
+# Phormidium nigro-viridis (Thwaites ex Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

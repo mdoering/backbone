@@ -1,5 +1,4 @@
-Linochora costaricensis (Speg.) Höhn. SPECIES
-=======
+# Linochora costaricensis (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

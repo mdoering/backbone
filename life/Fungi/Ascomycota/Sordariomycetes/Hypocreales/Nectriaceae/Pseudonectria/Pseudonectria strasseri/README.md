@@ -1,5 +1,4 @@
-Pseudonectria strasseri (Rehm) Weese SPECIES
-=======
+# Pseudonectria strasseri (Rehm) Weese SPECIES
 
 #### Status
 ACCEPTED

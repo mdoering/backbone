@@ -1,5 +1,4 @@
-Rhabdomyces duboisii Leger SPECIES
-=======
+# Rhabdomyces duboisii Leger SPECIES
 
 #### Status
 ACCEPTED

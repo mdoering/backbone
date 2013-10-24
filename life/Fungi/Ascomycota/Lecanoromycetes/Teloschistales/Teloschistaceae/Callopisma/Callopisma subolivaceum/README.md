@@ -1,5 +1,4 @@
-Callopisma subolivaceum (Th. Fr.) Räsänen SPECIES
-=======
+# Callopisma subolivaceum (Th. Fr.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harposporium cycloides Drechsler SPECIES
-=======
+# Harposporium cycloides Drechsler SPECIES
 
 #### Status
 ACCEPTED

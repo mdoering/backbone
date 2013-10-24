@@ -1,17 +1,16 @@
-Polyporus agariceus var. agariceus VARIETY
-=======
+# Polyporus arcularius (Batsch) Fr., 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 1 10: 371 (1842)
+Syst. mycol. (Lundae) 1: 342 (1821)
 
 #### Original name
-Polyporus agariceus var. agariceus
+Polyporus arcularius (Batsch) Fr., 1821
 
 ### Remarks
 null

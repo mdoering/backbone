@@ -1,5 +1,4 @@
-Phomopsis oblita Sacc., 1910 SPECIES
-=======
+# Phomopsis oblita Sacc., 1910 SPECIES
 
 #### Status
 ACCEPTED

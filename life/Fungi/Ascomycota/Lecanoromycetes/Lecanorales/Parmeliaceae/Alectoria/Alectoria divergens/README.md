@@ -1,11 +1,10 @@
-Alectoria divergens var. divergens VARIETY
-=======
+# Alectoria divergens SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

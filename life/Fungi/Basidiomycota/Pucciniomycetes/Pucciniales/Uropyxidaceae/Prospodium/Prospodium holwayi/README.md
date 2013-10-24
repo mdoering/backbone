@@ -1,5 +1,4 @@
-Prospodium holwayi H.S. Jacks. SPECIES
-=======
+# Prospodium holwayi H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

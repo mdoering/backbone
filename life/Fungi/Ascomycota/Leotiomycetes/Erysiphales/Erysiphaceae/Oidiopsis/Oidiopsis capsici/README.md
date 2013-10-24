@@ -1,5 +1,4 @@
-Oidiopsis capsici Sawada SPECIES
-=======
+# Oidiopsis capsici Sawada SPECIES
 
 #### Status
 ACCEPTED

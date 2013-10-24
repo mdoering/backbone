@@ -1,5 +1,4 @@
-Psathyrella immaculata E. Horak & Griesser SPECIES
-=======
+# Psathyrella immaculata E. Horak & Griesser SPECIES
 
 #### Status
 ACCEPTED

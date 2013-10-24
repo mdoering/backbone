@@ -1,5 +1,4 @@
-Cyclammina Brady, 1879 GENUS
-=======
+# Cyclammina Brady, 1879 GENUS
 
 #### Status
 ACCEPTED

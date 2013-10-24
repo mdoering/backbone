@@ -1,5 +1,4 @@
-Passalora obesa (Ellis & Everh.) U. Braun SPECIES
-=======
+# Passalora obesa (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

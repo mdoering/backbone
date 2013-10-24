@@ -1,5 +1,4 @@
-Setella halophila E.E. Fisher SPECIES
-=======
+# Setella halophila E.E. Fisher SPECIES
 
 #### Status
 ACCEPTED

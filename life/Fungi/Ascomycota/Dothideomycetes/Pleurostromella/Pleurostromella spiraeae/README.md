@@ -1,5 +1,4 @@
-Pleurostromella spiraeae Petr. SPECIES
-=======
+# Pleurostromella spiraeae Petr. SPECIES
 
 #### Status
 ACCEPTED

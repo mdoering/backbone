@@ -1,5 +1,4 @@
-Hyphoradulum Pouzar GENUS
-=======
+# Hyphoradulum Pouzar GENUS
 
 #### Status
 ACCEPTED

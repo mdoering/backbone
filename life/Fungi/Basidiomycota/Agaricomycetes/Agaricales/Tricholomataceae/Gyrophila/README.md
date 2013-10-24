@@ -1,5 +1,4 @@
-Gyrophila GENUS
-=======
+# Gyrophila GENUS
 
 #### Status
 ACCEPTED

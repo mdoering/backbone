@@ -1,5 +1,4 @@
-Cortinarius albidofuscescens Herp. SPECIES
-=======
+# Cortinarius albidofuscescens Herp. SPECIES
 
 #### Status
 ACCEPTED

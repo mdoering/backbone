@@ -1,5 +1,4 @@
-Septobasidium pseudopedicellatum Burt SPECIES
-=======
+# Septobasidium pseudopedicellatum Burt SPECIES
 
 #### Status
 ACCEPTED

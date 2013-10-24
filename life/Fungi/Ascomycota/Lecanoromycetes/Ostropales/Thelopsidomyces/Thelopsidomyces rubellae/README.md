@@ -1,5 +1,4 @@
-Thelopsidomyces rubellae Cif. & Tomas. SPECIES
-=======
+# Thelopsidomyces rubellae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

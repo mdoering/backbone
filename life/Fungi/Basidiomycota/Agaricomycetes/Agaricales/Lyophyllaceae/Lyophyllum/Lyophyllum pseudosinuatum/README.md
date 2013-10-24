@@ -1,5 +1,4 @@
-Lyophyllum pseudosinuatum Consiglio, Contu & Saar SPECIES
-=======
+# Lyophyllum pseudosinuatum Consiglio, Contu & Saar SPECIES
 
 #### Status
 ACCEPTED

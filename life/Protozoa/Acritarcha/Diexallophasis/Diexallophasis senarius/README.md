@@ -1,5 +1,4 @@
-Diexallophasis senarius (Colbath, 1990) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Diexallophasis senarius (Colbath, 1990) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

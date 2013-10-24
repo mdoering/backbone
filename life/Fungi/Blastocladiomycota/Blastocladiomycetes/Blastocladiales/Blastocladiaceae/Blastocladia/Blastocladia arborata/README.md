@@ -1,5 +1,4 @@
-Blastocladia arborata S.N. Dasgupta & R. John SPECIES
-=======
+# Blastocladia arborata S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

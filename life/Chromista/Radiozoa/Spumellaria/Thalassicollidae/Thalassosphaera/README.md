@@ -1,5 +1,4 @@
-Thalassosphaera Haeckel, 1862 GENUS
-=======
+# Thalassosphaera Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

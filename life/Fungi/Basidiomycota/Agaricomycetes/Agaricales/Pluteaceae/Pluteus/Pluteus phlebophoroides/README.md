@@ -1,5 +1,4 @@
-Pluteus phlebophoroides Henn., 1896 SPECIES
-=======
+# Pluteus phlebophoroides Henn., 1896 SPECIES
 
 #### Status
 ACCEPTED

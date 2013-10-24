@@ -1,5 +1,4 @@
-Cereolus condensatus (Ach.) Boistel SPECIES
-=======
+# Cereolus condensatus (Ach.) Boistel SPECIES
 
 #### Status
 ACCEPTED

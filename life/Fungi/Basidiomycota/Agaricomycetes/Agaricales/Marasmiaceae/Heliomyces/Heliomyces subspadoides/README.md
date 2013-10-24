@@ -1,5 +1,4 @@
-Heliomyces subspadoides Murrill SPECIES
-=======
+# Heliomyces subspadoides Murrill SPECIES
 
 #### Status
 ACCEPTED

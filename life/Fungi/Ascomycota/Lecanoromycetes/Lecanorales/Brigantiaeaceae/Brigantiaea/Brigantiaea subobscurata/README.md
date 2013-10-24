@@ -1,5 +1,4 @@
-Brigantiaea subobscurata (Vain.) Aptroot SPECIES
-=======
+# Brigantiaea subobscurata (Vain.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

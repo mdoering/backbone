@@ -1,5 +1,4 @@
-Uredo gaillardiae Dietel & Holw. SPECIES
-=======
+# Uredo gaillardiae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

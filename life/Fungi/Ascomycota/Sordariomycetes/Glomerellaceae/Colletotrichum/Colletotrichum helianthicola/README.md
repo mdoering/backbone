@@ -1,8 +1,7 @@
-Colletotrichum helianthicolum Sousa da Câmara SPECIES
-=======
+# Colletotrichum helianthicola Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Colletotrichum helianthicolum Sousa da Câmara
+Colletotrichum helianthicola Sousa da Câmara
 
 ### Remarks
 null

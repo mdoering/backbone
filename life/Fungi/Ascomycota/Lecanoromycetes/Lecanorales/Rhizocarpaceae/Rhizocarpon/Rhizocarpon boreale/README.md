@@ -1,5 +1,4 @@
-Rhizocarpon boreale Arnold SPECIES
-=======
+# Rhizocarpon boreale Arnold SPECIES
 
 #### Status
 ACCEPTED

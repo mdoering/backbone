@@ -1,11 +1,10 @@
-Reophax scorpiurus var. testacea Wiesner, 1931 VARIETY
-=======
+# Reophax scorpiurus de Montfort, 1808 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Pactilia pini (Corda) Sacc. SPECIES
-=======
+# Pactilia pini (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

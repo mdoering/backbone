@@ -1,5 +1,4 @@
-Cibusoides elegans Saidova, 1975 SPECIES
-=======
+# Cibusoides elegans Saidova, 1975 SPECIES
 
 #### Status
 DOUBTFUL

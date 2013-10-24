@@ -1,5 +1,4 @@
-Coniothyrium helianthi Ellis & Barthol. SPECIES
-=======
+# Coniothyrium helianthi Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

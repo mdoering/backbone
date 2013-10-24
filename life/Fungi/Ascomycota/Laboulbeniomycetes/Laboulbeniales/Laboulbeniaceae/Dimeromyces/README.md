@@ -1,5 +1,4 @@
-Dimeromyces Thaxter, 1896 GENUS
-=======
+# Dimeromyces Thaxter, 1896 GENUS
 
 #### Status
 ACCEPTED

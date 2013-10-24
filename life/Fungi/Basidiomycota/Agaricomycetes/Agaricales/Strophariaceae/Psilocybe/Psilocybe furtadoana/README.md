@@ -1,5 +1,4 @@
-Psilocybe furtadoana Guzmán SPECIES
-=======
+# Psilocybe furtadoana Guzmán SPECIES
 
 #### Status
 ACCEPTED

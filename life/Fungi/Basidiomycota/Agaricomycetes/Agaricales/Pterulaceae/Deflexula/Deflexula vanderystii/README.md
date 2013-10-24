@@ -1,5 +1,4 @@
-Deflexula vanderystii (Henn.) Corner SPECIES
-=======
+# Deflexula vanderystii (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

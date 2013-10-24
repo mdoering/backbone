@@ -1,8 +1,7 @@
-Parhabdolithus asper Stradner, 1963 SPECIES
-=======
+# Rhagodiscus asper (Stradner, 1963) Reinhardt, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

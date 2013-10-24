@@ -1,5 +1,4 @@
-Puccinia pleurospermi Tranzschel & Woron. SPECIES
-=======
+# Puccinia pleurospermi Tranzschel & Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria thecicola Berk. SPECIES
-=======
+# Sphaeria thecicola Berk. SPECIES
 
 #### Status
 ACCEPTED

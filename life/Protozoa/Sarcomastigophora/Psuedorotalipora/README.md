@@ -1,5 +1,4 @@
-Psuedorotalipora Ion, 1982 GENUS
-=======
+# Psuedorotalipora Ion, 1982 GENUS
 
 #### Status
 ACCEPTED

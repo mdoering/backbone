@@ -1,5 +1,4 @@
-Polychlamydum gaditanum P. González SPECIES
-=======
+# Polychlamydum gaditanum P. González SPECIES
 
 #### Status
 ACCEPTED

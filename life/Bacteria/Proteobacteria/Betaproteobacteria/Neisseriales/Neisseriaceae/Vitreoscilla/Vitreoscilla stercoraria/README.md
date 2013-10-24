@@ -1,5 +1,4 @@
-Vitreoscilla stercoraria Pringsheim, 1951 (Approved Lists, 1980) SPECIES
-=======
+# Vitreoscilla stercoraria Pringsheim, 1951 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cumminsinia GENUS
-=======
+# Cumminsinia GENUS
 
 #### Status
 ACCEPTED

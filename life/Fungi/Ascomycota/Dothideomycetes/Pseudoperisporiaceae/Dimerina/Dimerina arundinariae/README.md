@@ -1,5 +1,4 @@
-Dimerina arundinariae I. Hino & Katum. SPECIES
-=======
+# Dimerina arundinariae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

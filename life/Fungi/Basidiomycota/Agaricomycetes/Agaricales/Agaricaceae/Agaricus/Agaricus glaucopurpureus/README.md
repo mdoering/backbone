@@ -1,5 +1,4 @@
-Agaricus glaucopurpureus Berk. & Broome SPECIES
-=======
+# Agaricus glaucopurpureus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

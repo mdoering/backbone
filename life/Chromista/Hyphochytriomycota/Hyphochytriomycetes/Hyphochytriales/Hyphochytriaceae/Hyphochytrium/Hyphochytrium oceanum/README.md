@@ -1,5 +1,4 @@
-Hyphochytrium oceanum Karling, 1968 SPECIES
-=======
+# Hyphochytrium oceanum Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

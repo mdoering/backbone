@@ -1,5 +1,4 @@
-Russula lewisii Buyck SPECIES
-=======
+# Russula lewisii Buyck SPECIES
 
 #### Status
 ACCEPTED

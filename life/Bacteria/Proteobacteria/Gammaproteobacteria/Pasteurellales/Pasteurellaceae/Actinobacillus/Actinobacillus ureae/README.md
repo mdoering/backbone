@@ -1,8 +1,7 @@
-Pasteurella ureae Jones, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Actinobacillus ureae (Jones, 1962) Mutters et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

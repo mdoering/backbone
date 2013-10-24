@@ -1,5 +1,4 @@
-Platysma lacunosum var. lacunosum VARIETY
-=======
+# Platysma lacunosum (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Platysma lacunosum var. lacunosum
+Cetraria lacunosa Ach.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Candida dehliana Mukerji & M. Khanna SPECIES
-=======
+# Candida delhiana Mukerji & M. Khanna SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mukerji, Gupta, Khanna & Rajeevalochana, Biblthca Mycol. 91: 292 (1983)
 
 #### Original name
-Candida dehliana Mukerji & M. Khanna
+Candida delhiana Mukerji & M. Khanna
 
 ### Remarks
 null

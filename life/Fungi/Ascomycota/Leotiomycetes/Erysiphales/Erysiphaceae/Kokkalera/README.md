@@ -1,5 +1,4 @@
-Kokkalera GENUS
-=======
+# Kokkalera GENUS
 
 #### Status
 ACCEPTED

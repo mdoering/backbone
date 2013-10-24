@@ -1,5 +1,4 @@
-Trametes cupreorosea Lloyd SPECIES
-=======
+# Trametes cupreorosea Lloyd SPECIES
 
 #### Status
 ACCEPTED

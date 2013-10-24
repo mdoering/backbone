@@ -1,5 +1,4 @@
-Pseudocercospora namae (Dearn. & House) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora namae (Dearn. & House) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerium labiatarum (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium labiatarum (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

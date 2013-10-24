@@ -1,5 +1,4 @@
-Verrucaria allantoidea H. Harada SPECIES
-=======
+# Verrucaria allantoidea H. Harada SPECIES
 
 #### Status
 ACCEPTED

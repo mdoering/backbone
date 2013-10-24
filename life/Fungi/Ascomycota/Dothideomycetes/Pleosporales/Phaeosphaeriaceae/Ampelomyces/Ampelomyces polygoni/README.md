@@ -1,5 +1,4 @@
-Ampelomyces polygoni (Potebnia) Rudakov SPECIES
-=======
+# Ampelomyces polygoni (Potebnia) Rudakov SPECIES
 
 #### Status
 ACCEPTED

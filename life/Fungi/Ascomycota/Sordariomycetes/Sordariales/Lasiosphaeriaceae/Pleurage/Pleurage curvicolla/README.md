@@ -1,5 +1,4 @@
-Pleurage curvicolla SPECIES
-=======
+# Pleurage curvicolla SPECIES
 
 #### Status
 ACCEPTED

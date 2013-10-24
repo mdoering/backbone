@@ -1,5 +1,4 @@
-Pertusaria bryophaga var. bryophaga VARIETY
-=======
+# Pertusaria bryophaga Erichsen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 36: 355 (1938)
 
 #### Original name
-Pertusaria bryophaga var. bryophaga
+Pertusaria bryophaga Erichsen
 
 ### Remarks
 null

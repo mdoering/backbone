@@ -1,5 +1,4 @@
-Arthonia homoeophana Nyl. SPECIES
-=======
+# Arthonia homoeophana Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vascellum texense A.H. Sm. SPECIES
-=======
+# Vascellum texense A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotiella discula (Ferd. & Winge) Sacc. & Trotter SPECIES
-=======
+# Helotiella discula (Ferd. & Winge) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

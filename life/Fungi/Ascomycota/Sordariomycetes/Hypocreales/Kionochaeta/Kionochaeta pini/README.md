@@ -1,5 +1,4 @@
-Kionochaeta pini Crous, M.J. Wingf. & W.B. Kendr. SPECIES
-=======
+# Kionochaeta pini Crous, M.J. Wingf. & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

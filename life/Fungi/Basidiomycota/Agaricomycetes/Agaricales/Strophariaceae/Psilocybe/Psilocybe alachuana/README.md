@@ -1,5 +1,4 @@
-Psilocybe alachuana Murrill SPECIES
-=======
+# Psilocybe alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropyrenula olivacea Vain. SPECIES
-=======
+# Micropyrenula olivacea Vain. SPECIES
 
 #### Status
 ACCEPTED

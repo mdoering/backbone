@@ -1,5 +1,4 @@
-Uredo kleiniae Mont. SPECIES
-=======
+# Uredo kleiniae Mont. SPECIES
 
 #### Status
 ACCEPTED

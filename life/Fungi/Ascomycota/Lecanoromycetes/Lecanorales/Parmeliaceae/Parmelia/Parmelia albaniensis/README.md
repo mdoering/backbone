@@ -1,5 +1,4 @@
-Parmelia albaniensis C.W. Dodge SPECIES
-=======
+# Parmelia albaniensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

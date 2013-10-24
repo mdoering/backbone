@@ -1,17 +1,16 @@
-Graphina repleta var. repleta VARIETY
-=======
+# Pallidogramme chrysenteron (Mont.) Staiger, Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lücking, Chaves, Sipman, Umaña & Aptroot, Fieldiana, Bot. 46(no. 1549): 9 (2008)
 
 #### Original name
-null
+Graphis chrysenteron Mont.
 
 ### Remarks
 null

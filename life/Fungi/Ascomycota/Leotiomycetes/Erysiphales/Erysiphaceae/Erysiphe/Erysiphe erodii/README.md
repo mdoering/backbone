@@ -1,5 +1,4 @@
-Erysiphe erodii Durieu & Mont. SPECIES
-=======
+# Erysiphe erodii Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

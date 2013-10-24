@@ -1,5 +1,4 @@
-Tintinnopsis fusus SPECIES
-=======
+# Tintinnopsis fusus SPECIES
 
 #### Status
 ACCEPTED

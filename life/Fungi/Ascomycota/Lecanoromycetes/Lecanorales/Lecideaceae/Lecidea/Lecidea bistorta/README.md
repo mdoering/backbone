@@ -1,5 +1,4 @@
-Lecidea bistorta SPECIES
-=======
+# Lecidea bistorta SPECIES
 
 #### Status
 ACCEPTED

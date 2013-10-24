@@ -1,5 +1,4 @@
-Ostropa oculata (Fr. & Mont.) Sacc. SPECIES
-=======
+# Ostropa oculata (Fr. & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella gallica P. Karst. & Har. SPECIES
-=======
+# Lachnella gallica P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

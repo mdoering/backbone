@@ -1,5 +1,4 @@
-Polyblastiopsis carrollii (Mudd) Zahlbr. SPECIES
-=======
+# Polyblastiopsis carrollii (Mudd) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago sladenii Pole-Evans SPECIES
-=======
+# Ustilago sladenii Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

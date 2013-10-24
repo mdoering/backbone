@@ -1,5 +1,4 @@
-Agaricus congestus Kalchbr. SPECIES
-=======
+# Agaricus congestus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

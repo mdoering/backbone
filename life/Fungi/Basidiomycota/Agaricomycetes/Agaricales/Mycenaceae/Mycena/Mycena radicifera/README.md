@@ -1,17 +1,16 @@
-Mycena radicifera var. radicifera VARIETY
-=======
+# Mycena radicifera J. Favre SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Mycena radicifera J. Favre
 
 ### Remarks
 null

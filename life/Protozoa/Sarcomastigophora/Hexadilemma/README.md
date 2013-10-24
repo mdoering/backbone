@@ -1,5 +1,4 @@
-Hexadilemma Haeckel, 1887 GENUS
-=======
+# Hexadilemma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

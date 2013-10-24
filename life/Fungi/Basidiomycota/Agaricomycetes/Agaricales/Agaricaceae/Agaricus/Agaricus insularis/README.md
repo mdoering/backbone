@@ -1,5 +1,4 @@
-Agaricus insularis Speg. SPECIES
-=======
+# Agaricus insularis Speg. SPECIES
 
 #### Status
 ACCEPTED

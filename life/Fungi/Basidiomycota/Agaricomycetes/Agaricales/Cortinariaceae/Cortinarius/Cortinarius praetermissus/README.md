@@ -1,5 +1,4 @@
-Cortinarius praetermissus Bergeron ex Reumaux SPECIES
-=======
+# Cortinarius praetermissus Bergeron ex Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus jalapensis Murrill SPECIES
-=======
+# Gymnopilus jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

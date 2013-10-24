@@ -1,5 +1,4 @@
-Clavaria falcatula Henn. SPECIES
-=======
+# Clavaria falcatula Henn. SPECIES
 
 #### Status
 ACCEPTED

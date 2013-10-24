@@ -1,5 +1,4 @@
-Cyathia poeppigii (Tul.) V.S. White SPECIES
-=======
+# Cyathia poeppigii (Tul.) V.S. White SPECIES
 
 #### Status
 ACCEPTED

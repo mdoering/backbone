@@ -1,5 +1,4 @@
-Tylopilus pakaraimensis T.W. Henkel SPECIES
-=======
+# Tylopilus pakaraimensis T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

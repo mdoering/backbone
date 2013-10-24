@@ -1,5 +1,4 @@
-Involucrothele pyrenophora f. pyrenophora FORM
-=======
+# Involucrothele pyrenophora SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Involucrothele pyrenophora f. pyrenophora
+null
 
 ### Remarks
 null

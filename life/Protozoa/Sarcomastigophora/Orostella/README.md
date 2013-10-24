@@ -1,5 +1,4 @@
-Orostella Butt, 1966 GENUS
-=======
+# Orostella Butt, 1966 GENUS
 
 #### Status
 ACCEPTED

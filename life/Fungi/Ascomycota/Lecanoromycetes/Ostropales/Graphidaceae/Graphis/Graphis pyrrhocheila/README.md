@@ -1,17 +1,16 @@
-Graphis pyrrocheila Vain. SPECIES
-=======
+# Graphis pyrrhocheila Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 46: 179 (1907)
 
 #### Original name
-Graphis pyrrocheila Vain.
+Graphis pyrrhocheila Vain.
 
 ### Remarks
 null

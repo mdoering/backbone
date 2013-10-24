@@ -1,5 +1,4 @@
-Inocybe weberi Murrill SPECIES
-=======
+# Inocybe weberi Murrill SPECIES
 
 #### Status
 ACCEPTED

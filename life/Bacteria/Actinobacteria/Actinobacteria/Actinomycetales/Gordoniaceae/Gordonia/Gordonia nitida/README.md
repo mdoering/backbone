@@ -1,5 +1,4 @@
-Gordonia nitida Yoon et al., 2000 SPECIES
-=======
+# Gordonia nitida Yoon et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

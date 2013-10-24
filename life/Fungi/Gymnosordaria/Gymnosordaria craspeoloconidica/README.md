@@ -1,5 +1,4 @@
-Gymnosordaria craspeoloconidica Bartoli & Maggi SPECIES
-=======
+# Gymnosordaria craspeoloconidica Bartoli & Maggi SPECIES
 
 #### Status
 ACCEPTED

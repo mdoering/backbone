@@ -1,5 +1,4 @@
-Ascospora graminis Lind SPECIES
-=======
+# Ascospora graminis Lind SPECIES
 
 #### Status
 ACCEPTED

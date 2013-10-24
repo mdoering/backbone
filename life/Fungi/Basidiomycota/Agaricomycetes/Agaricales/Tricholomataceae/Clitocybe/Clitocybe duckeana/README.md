@@ -1,5 +1,4 @@
-Clitocybe duckeana Singer SPECIES
-=======
+# Clitocybe duckeana Singer SPECIES
 
 #### Status
 ACCEPTED

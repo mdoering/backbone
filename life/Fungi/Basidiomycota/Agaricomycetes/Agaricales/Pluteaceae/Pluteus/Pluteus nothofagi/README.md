@@ -1,5 +1,4 @@
-Pluteus nothofagi E. Horak SPECIES
-=======
+# Pluteus nothofagi E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltella maquilingiana Syd. & P. Syd. SPECIES
-=======
+# Micropeltella maquilingiana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus capnoides Bres. SPECIES
-=======
+# Hypochnus capnoides Bres. SPECIES
 
 #### Status
 ACCEPTED

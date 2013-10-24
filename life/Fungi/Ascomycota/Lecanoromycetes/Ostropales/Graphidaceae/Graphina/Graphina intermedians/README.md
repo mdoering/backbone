@@ -1,5 +1,4 @@
-Graphina intermedians (Vain.) Zahlbr. SPECIES
-=======
+# Graphina intermedians (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetostroma cladosporioides Sacc. SPECIES
-=======
+# Chaetostroma cladosporioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

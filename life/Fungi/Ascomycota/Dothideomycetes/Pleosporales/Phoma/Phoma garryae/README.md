@@ -1,5 +1,4 @@
-Phoma garryae Brunaud SPECIES
-=======
+# Phoma garryae Brunaud SPECIES
 
 #### Status
 ACCEPTED

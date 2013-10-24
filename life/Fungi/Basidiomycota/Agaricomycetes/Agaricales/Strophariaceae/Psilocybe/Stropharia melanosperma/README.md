@@ -1,14 +1,13 @@
-Psilocybe melanosperma (Bull.) Noordel., 1995 SPECIES
-=======
+# Stropharia melanosperma (Bull.) Gillet, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(1): 129 (1995)
+Hyménomycètes (Alençon) 579 (1878)
 
 #### Original name
 Agaricus melanospermus Bull., 1792

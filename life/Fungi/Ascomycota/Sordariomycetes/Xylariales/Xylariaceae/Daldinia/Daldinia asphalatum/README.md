@@ -1,5 +1,4 @@
-Daldinia asphalatum (Link & Fr.) Sacc. SPECIES
-=======
+# Daldinia asphalatum (Link & Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

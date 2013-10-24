@@ -1,5 +1,4 @@
-Labrella xylostei Fautrey SPECIES
-=======
+# Labrella xylostei Fautrey SPECIES
 
 #### Status
 ACCEPTED

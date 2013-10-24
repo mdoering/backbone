@@ -1,14 +1,13 @@
-Asteroma phyteumae DC., 1815 SPECIES
-=======
+# Montagnellina stellaris (Pers.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 13(5/6): 616 (1915)
 
 #### Original name
 null

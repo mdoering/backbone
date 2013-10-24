@@ -1,5 +1,4 @@
-Calyptella cejpii (Pilát) W.B. Cooke SPECIES
-=======
+# Calyptella cejpii (Pilát) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

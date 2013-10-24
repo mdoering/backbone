@@ -1,5 +1,4 @@
-Amphimelissa setosa (Cleve) Bernstein, 1934 SPECIES
-=======
+# Amphimelissa setosa (Cleve) Bernstein, 1934 SPECIES
 
 #### Status
 ACCEPTED

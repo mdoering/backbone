@@ -1,5 +1,4 @@
-Pyrenula neglecta subsp. neglecta R.C. Harris SUBSPECIES
-=======
+# Pyrenula neglecta R.C. Harris SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michigan Bot. 12(1): 45 (1973)
 
 #### Original name
-Pyrenula neglecta subsp. neglecta R.C. Harris
+Pyrenula neglecta R.C. Harris
 
 ### Remarks
 null

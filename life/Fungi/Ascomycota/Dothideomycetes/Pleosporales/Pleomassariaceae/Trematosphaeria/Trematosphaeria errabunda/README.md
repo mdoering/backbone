@@ -1,5 +1,4 @@
-Trematosphaeria errabunda Fabre SPECIES
-=======
+# Trematosphaeria errabunda Fabre SPECIES
 
 #### Status
 ACCEPTED

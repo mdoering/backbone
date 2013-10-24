@@ -1,5 +1,4 @@
-Beloniella tuzsoniana Moesz SPECIES
-=======
+# Beloniella tuzsoniana Moesz SPECIES
 
 #### Status
 ACCEPTED

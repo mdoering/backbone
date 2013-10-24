@@ -1,5 +1,4 @@
-Humaria coronula Quél. SPECIES
-=======
+# Humaria coronula Quél. SPECIES
 
 #### Status
 ACCEPTED

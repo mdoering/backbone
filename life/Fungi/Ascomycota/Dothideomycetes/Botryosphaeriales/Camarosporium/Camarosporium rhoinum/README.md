@@ -1,5 +1,4 @@
-Camarosporium rhoinum (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Camarosporium rhoinum (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

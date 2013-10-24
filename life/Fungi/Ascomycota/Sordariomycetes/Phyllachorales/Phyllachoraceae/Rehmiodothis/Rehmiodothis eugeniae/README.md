@@ -1,5 +1,4 @@
-Rehmiodothis eugeniae Chardón, 1934 SPECIES
-=======
+# Rehmiodothis eugeniae Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

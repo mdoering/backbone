@@ -1,5 +1,4 @@
-Stictis fusca Ellis & Barthol. SPECIES
-=======
+# Stictis fusca Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

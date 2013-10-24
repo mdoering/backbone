@@ -1,5 +1,4 @@
-Staphylococcus sciuri subsp. sciuri SUBSPECIES
-=======
+# Staphylococcus sciuri Kloos et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

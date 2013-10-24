@@ -1,5 +1,4 @@
-Methylibium petroleiphilum Nakatsu et al., 2006 SPECIES
-=======
+# Methylibium petroleiphilum Nakatsu et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

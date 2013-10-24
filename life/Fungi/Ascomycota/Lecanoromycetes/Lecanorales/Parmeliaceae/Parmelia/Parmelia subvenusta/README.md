@@ -1,5 +1,4 @@
-Parmelia subvenusta SPECIES
-=======
+# Parmelia subvenusta SPECIES
 
 #### Status
 ACCEPTED

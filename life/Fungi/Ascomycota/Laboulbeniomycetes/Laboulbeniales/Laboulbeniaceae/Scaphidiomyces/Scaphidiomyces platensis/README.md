@@ -1,5 +1,4 @@
-Scaphidiomyces platensis Thaxt., 1931 SPECIES
-=======
+# Scaphidiomyces platensis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

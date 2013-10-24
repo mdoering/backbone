@@ -1,5 +1,4 @@
-Pseudocyphellaria allanii D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria allanii D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

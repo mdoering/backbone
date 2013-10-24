@@ -1,5 +1,4 @@
-Lactobacillus ceti Vela, Fernandez, Espinosa de los Monteros, Goyache, Herraez, Tames, Cruz, Dominguez & Fernandez-Garayzabal, 2008 SPECIES
-=======
+# Lactobacillus ceti Vela, Fernandez, Espinosa de los Monteros, Goyache, Herraez, Tames, Cruz, Dominguez & Fernandez-Garayzabal, 2008 SPECIES
 
 #### Status
 ACCEPTED

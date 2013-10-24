@@ -1,5 +1,4 @@
-Pholiota apiahyna Speg. SPECIES
-=======
+# Pholiota apiahyna Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnocytophaga gingivalis Leadbetter et al., 1982 SPECIES
-=======
+# Capnocytophaga gingivalis Leadbetter et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

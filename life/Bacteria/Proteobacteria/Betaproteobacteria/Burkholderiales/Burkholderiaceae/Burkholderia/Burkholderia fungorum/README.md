@@ -1,5 +1,4 @@
-Burkholderia fungorum Coenye et al., 2001 SPECIES
-=======
+# Burkholderia fungorum Coenye et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

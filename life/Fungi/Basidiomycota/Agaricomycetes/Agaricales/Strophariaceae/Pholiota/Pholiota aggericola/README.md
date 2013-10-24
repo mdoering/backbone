@@ -1,5 +1,4 @@
-Pholiota aggericola var. aggericola VARIETY
-=======
+# Pholiota aggericola Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pholiota aggericola var. aggericola
+Pholiota aggericola Peck
 
 ### Remarks
 null

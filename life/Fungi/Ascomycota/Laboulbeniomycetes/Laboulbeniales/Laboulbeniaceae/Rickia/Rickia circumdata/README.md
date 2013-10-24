@@ -1,5 +1,4 @@
-Rickia circumdata Thaxt. SPECIES
-=======
+# Rickia circumdata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

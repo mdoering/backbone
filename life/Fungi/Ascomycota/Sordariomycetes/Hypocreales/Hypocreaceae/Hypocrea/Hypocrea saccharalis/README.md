@@ -1,5 +1,4 @@
-Hypocrea saccharalis Racib. SPECIES
-=======
+# Hypocrea saccharalis Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phormidium calciphilum I. Umezaki SPECIES
-=======
+# Phormidium calciphilum I. Umezaki SPECIES
 
 #### Status
 ACCEPTED

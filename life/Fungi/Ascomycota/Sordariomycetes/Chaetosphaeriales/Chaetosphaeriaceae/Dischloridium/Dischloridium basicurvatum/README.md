@@ -1,5 +1,4 @@
-Dischloridium basicurvatum Matsush. SPECIES
-=======
+# Dischloridium basicurvatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

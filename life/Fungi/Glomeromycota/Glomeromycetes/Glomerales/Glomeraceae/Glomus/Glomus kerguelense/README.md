@@ -1,5 +1,4 @@
-Glomus kerguelense Dalpé & Strullu, 2002 SPECIES
-=======
+# Glomus kerguelense Dalpé & Strullu, 2002 SPECIES
 
 #### Status
 ACCEPTED

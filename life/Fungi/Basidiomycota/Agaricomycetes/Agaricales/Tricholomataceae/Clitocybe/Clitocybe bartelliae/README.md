@@ -1,5 +1,4 @@
-Clitocybe bartelliae H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe bartelliae H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

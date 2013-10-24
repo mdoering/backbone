@@ -1,5 +1,4 @@
-Striataella Aliyulla, 1977 GENUS
-=======
+# Striataella Aliyulla, 1977 GENUS
 
 #### Status
 ACCEPTED

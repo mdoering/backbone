@@ -1,5 +1,4 @@
-Cytospora photiniae Brunaud SPECIES
-=======
+# Cytospora photiniae Brunaud SPECIES
 
 #### Status
 ACCEPTED

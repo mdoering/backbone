@@ -1,5 +1,4 @@
-Mycosphaerella papyrifera (Pass.) Miles SPECIES
-=======
+# Mycosphaerella papyrifera (Pass.) Miles SPECIES
 
 #### Status
 ACCEPTED

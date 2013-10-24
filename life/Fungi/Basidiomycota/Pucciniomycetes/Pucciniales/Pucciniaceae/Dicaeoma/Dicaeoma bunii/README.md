@@ -1,5 +1,4 @@
-Dicaeoma bunii (DC.) Kuntze SPECIES
-=======
+# Dicaeoma bunii (DC.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

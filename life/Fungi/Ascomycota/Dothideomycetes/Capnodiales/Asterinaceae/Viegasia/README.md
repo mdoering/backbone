@@ -1,5 +1,4 @@
-Viegasia Bat. GENUS
-=======
+# Viegasia Bat. GENUS
 
 #### Status
 ACCEPTED

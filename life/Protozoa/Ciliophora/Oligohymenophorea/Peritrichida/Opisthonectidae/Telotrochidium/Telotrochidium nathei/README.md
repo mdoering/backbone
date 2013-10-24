@@ -1,5 +1,4 @@
-Telotrochidium nathei Gulati, 1926 SPECIES
-=======
+# Telotrochidium nathei Gulati, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massalongia Körber, 1855 GENUS
-=======
+# Massalongia Körber, 1855 GENUS
 
 #### Status
 ACCEPTED

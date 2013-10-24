@@ -1,5 +1,4 @@
-Arthopyrenia subpomacea (Zahlbr.) Riedl SPECIES
-=======
+# Arthopyrenia subpomacea (Zahlbr.) Riedl SPECIES
 
 #### Status
 ACCEPTED

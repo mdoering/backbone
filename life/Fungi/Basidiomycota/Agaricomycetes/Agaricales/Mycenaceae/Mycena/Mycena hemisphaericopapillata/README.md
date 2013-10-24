@@ -1,5 +1,4 @@
-Mycena hemisphaericopapillata Métrod SPECIES
-=======
+# Mycena hemisphaericopapillata Métrod SPECIES
 
 #### Status
 ACCEPTED

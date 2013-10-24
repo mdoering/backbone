@@ -1,5 +1,4 @@
-Phomopsis quercicola Moesz, 1921 SPECIES
-=======
+# Phomopsis quercicola Moesz, 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simocybe urosphaera Singer SPECIES
-=======
+# Simocybe urosphaera Singer SPECIES
 
 #### Status
 ACCEPTED

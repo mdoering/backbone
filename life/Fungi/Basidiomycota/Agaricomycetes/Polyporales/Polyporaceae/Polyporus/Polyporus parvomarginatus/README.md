@@ -1,5 +1,4 @@
-Polyporus parvomarginatus Speg. SPECIES
-=======
+# Polyporus parvomarginatus Speg. SPECIES
 
 #### Status
 ACCEPTED

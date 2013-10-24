@@ -1,5 +1,4 @@
-Pseudoarachniotus roseus Kuehn SPECIES
-=======
+# Pseudoarachniotus roseus Kuehn SPECIES
 
 #### Status
 ACCEPTED

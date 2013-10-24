@@ -1,5 +1,4 @@
-Exobasidium papuanum Otani SPECIES
-=======
+# Exobasidium papuanum Otani SPECIES
 
 #### Status
 ACCEPTED

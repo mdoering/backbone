@@ -1,5 +1,4 @@
-Uredo cyrtopodii Syd. & P. Syd. SPECIES
-=======
+# Uredo cyrtopodii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

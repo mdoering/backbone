@@ -1,5 +1,4 @@
-Descolea antarctica Singer, 1950 SPECIES
-=======
+# Descolea antarctica Singer, 1950 SPECIES
 
 #### Status
 ACCEPTED

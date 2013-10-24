@@ -1,5 +1,4 @@
-Cochliobolus tritici Dastur SPECIES
-=======
+# Cochliobolus tritici Dastur SPECIES
 
 #### Status
 ACCEPTED

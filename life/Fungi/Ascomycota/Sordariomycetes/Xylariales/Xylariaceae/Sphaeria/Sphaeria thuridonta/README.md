@@ -1,5 +1,4 @@
-Sphaeria thuridonta Cooke & Ellis SPECIES
-=======
+# Sphaeria thuridonta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

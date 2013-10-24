@@ -1,5 +1,4 @@
-Taeniolella beschiana Diederich, 1992 SPECIES
-=======
+# Taeniolella beschiana Diederich, 1992 SPECIES
 
 #### Status
 ACCEPTED

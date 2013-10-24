@@ -1,5 +1,4 @@
-Costertonia aggregata Kwon et al., 2006 SPECIES
-=======
+# Costertonia aggregata Kwon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

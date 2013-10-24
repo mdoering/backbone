@@ -1,5 +1,4 @@
-Trichopezizella vaasmae Raitv. SPECIES
-=======
+# Trichopezizella vaasmae Raitv. SPECIES
 
 #### Status
 ACCEPTED

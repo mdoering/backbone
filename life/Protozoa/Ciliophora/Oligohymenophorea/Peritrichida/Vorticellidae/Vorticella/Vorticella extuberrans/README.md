@@ -1,5 +1,4 @@
-Vorticella extuberrans Dumas, 1929 SPECIES
-=======
+# Vorticella extuberrans Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

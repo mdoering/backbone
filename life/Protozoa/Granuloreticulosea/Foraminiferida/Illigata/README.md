@@ -1,5 +1,4 @@
-Illigata Bykova, 1956 GENUS
-=======
+# Illigata Bykova, 1956 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria chnaumatica Wallr. SPECIES
-=======
+# Sphaeria chnaumatica Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa etherialis Ellis & Everh. SPECIES
-=======
+# Valsa etherialis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

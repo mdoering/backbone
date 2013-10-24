@@ -1,5 +1,4 @@
-Pseudocyphellaria crassa D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria crassa D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

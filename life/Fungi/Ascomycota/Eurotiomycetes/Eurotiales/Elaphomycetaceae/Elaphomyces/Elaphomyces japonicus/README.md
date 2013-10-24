@@ -1,5 +1,4 @@
-Elaphomyces japonicus Lloyd, 1916 SPECIES
-=======
+# Elaphomyces japonicus Lloyd, 1916 SPECIES
 
 #### Status
 ACCEPTED

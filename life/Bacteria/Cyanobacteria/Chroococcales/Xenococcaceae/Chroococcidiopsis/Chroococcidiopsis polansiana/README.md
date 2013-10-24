@@ -1,5 +1,4 @@
-Chroococcidiopsis polansiana Andersen SPECIES
-=======
+# Chroococcidiopsis polansiana Andersen SPECIES
 
 #### Status
 ACCEPTED

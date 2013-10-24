@@ -1,5 +1,4 @@
-Galatheammina microconcha Gooday & Tendal, 1988 SPECIES
-=======
+# Galatheammina microconcha Gooday & Tendal, 1988 SPECIES
 
 #### Status
 ACCEPTED

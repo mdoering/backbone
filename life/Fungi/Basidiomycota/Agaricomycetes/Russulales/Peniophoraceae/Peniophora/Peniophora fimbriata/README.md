@@ -1,5 +1,4 @@
-Peniophora fimbriata Ranoj. SPECIES
-=======
+# Peniophora fimbriata Ranoj. SPECIES
 
 #### Status
 ACCEPTED

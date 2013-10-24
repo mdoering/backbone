@@ -1,8 +1,7 @@
-Enterobacter agglomerans Ewing and Fife, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Pantoea agglomerans (Ewing & Fife, 1972) Gavini et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

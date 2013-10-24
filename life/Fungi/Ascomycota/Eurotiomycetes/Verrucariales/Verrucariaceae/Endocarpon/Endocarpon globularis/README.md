@@ -1,5 +1,4 @@
-Endocarpon globularis Sommerf. SPECIES
-=======
+# Endocarpon globularis Sommerf. SPECIES
 
 #### Status
 ACCEPTED

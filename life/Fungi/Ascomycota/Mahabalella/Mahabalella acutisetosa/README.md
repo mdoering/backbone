@@ -1,5 +1,4 @@
-Mahabalella acutisetosa B. Sutton & S.D. Patil, 1966 SPECIES
-=======
+# Mahabalella acutisetosa B. Sutton & S.D. Patil, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pontosphaera nana Kamptner SPECIES
-=======
+# Pontosphaera nana Kamptner SPECIES
 
 #### Status
 ACCEPTED

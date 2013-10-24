@@ -1,5 +1,4 @@
-Cosmospora meliopsicola (Henn.) Rossman & Samuels SPECIES
-=======
+# Cosmospora meliopsicola (Henn.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

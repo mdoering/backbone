@@ -1,5 +1,4 @@
-Pseudobaeospora albidula Bas, 2002 SPECIES
-=======
+# Pseudobaeospora albidula Bas, 2002 SPECIES
 
 #### Status
 ACCEPTED

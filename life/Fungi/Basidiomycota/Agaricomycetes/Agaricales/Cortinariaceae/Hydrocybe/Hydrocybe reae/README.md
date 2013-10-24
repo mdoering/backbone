@@ -1,5 +1,4 @@
-Hydrocybe reae anon. SPECIES
-=======
+# Hydrocybe reae anon. SPECIES
 
 #### Status
 ACCEPTED

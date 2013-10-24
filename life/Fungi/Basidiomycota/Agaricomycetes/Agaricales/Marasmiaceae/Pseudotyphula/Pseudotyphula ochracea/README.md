@@ -1,5 +1,4 @@
-Pseudotyphula ochracea Corner, 1953 SPECIES
-=======
+# Pseudotyphula ochracea Corner, 1953 SPECIES
 
 #### Status
 ACCEPTED

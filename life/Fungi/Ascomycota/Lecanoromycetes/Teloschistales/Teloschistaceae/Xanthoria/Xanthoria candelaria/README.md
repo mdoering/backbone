@@ -1,17 +1,16 @@
-Teloschistes candelarius var. candelarius VARIETY
-=======
+# Xanthoria candelaria (L.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. Heterolich. Eur. 3: 61 (1861)
 
 #### Original name
-Teloschistes candelarius var. candelarius
+Lichen candelarius L.
 
 ### Remarks
 null

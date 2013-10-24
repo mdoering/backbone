@@ -1,5 +1,4 @@
-Puccinia hieraciiphila Speg. SPECIES
-=======
+# Puccinia hieraciiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

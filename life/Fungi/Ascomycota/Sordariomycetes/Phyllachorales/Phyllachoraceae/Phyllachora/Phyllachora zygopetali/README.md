@@ -1,5 +1,4 @@
-Phyllachora zygopetali Rangel, 1926 SPECIES
-=======
+# Phyllachora zygopetali Rangel, 1926 SPECIES
 
 #### Status
 ACCEPTED

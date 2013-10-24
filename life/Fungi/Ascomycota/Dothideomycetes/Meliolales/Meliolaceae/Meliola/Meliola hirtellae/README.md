@@ -1,5 +1,4 @@
-Meliola hirtellae Mibey SPECIES
-=======
+# Meliola hirtellae Mibey SPECIES
 
 #### Status
 ACCEPTED

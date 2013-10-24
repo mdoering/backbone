@@ -1,5 +1,4 @@
-Coccocarpia adnata Arv. SPECIES
-=======
+# Coccocarpia adnata Arv. SPECIES
 
 #### Status
 ACCEPTED

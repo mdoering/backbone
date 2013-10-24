@@ -1,5 +1,4 @@
-Mycosphaerella paronychiae (Unamuno) M. Morelet SPECIES
-=======
+# Mycosphaerella paronychiae (Unamuno) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

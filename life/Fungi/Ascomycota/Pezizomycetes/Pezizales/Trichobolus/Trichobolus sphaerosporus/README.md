@@ -1,5 +1,4 @@
-Trichobolus sphaerosporus Kimbr., 1967 SPECIES
-=======
+# Trichobolus sphaerosporus Kimbr., 1967 SPECIES
 
 #### Status
 ACCEPTED

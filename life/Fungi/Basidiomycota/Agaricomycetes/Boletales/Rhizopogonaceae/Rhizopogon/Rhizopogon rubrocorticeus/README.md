@@ -1,5 +1,4 @@
-Rhizopogon rubrocorticeus Zeller & C.W. Dodge SPECIES
-=======
+# Rhizopogon rubrocorticeus Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

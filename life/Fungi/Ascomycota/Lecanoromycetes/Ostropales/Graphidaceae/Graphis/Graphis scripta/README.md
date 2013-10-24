@@ -1,5 +1,4 @@
-Graphis scripta var. scripta VARIETY
-=======
+# Graphis scripta (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 K. svenska Vetensk-Akad. Handl. 28: 145 (1809)
 
 #### Original name
-Graphis scripta var. scripta
+Lichen scriptus L.
 
 ### Remarks
 null

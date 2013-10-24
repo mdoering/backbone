@@ -1,5 +1,4 @@
-Fusidium obtusatum Link SPECIES
-=======
+# Fusidium obtusatum Link SPECIES
 
 #### Status
 ACCEPTED

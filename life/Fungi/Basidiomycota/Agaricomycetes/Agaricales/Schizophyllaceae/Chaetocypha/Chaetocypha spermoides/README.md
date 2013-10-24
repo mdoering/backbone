@@ -1,5 +1,4 @@
-Chaetocypha spermoides (Berk. & Broome) Kuntze SPECIES
-=======
+# Chaetocypha spermoides (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

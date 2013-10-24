@@ -1,5 +1,4 @@
-Arthonia galactina Chevall. SPECIES
-=======
+# Arthonia galactina Chevall. SPECIES
 
 #### Status
 ACCEPTED

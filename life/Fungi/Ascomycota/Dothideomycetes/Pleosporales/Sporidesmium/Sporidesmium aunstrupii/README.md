@@ -1,5 +1,4 @@
-Sporidesmium aunstrupii W.P. Wu SPECIES
-=======
+# Sporidesmium aunstrupii W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

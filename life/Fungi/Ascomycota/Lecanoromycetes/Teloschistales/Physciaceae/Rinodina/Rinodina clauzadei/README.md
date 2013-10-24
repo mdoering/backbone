@@ -1,5 +1,4 @@
-Rinodina clauzadei H. Mayrhofer & Cl. Roux SPECIES
-=======
+# Rinodina clauzadei H. Mayrhofer & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

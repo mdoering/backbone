@@ -1,5 +1,4 @@
-Phoma opuli Thüm. SPECIES
-=======
+# Phoma opuli Thüm. SPECIES
 
 #### Status
 ACCEPTED

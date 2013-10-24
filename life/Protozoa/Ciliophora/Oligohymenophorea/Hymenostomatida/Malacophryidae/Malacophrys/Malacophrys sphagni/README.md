@@ -1,5 +1,4 @@
-Malacophrys sphagni Penard, 1922 SPECIES
-=======
+# Malacophrys sphagni Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

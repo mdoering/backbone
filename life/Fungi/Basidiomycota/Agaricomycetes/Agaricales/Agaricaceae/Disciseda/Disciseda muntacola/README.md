@@ -1,5 +1,4 @@
-Disciseda muntacola Grgur., 1997 SPECIES
-=======
+# Disciseda muntacola Grgur., 1997 SPECIES
 
 #### Status
 ACCEPTED

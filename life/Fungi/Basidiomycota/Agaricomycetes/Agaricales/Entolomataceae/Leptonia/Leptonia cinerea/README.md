@@ -1,5 +1,4 @@
-Leptonia cinerea Velen. SPECIES
-=======
+# Leptonia cinerea Velen. SPECIES
 
 #### Status
 ACCEPTED

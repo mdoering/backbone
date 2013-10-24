@@ -1,5 +1,4 @@
-Cryptosporella beltsvillensis Petr. SPECIES
-=======
+# Cryptosporella beltsvillensis Petr. SPECIES
 
 #### Status
 ACCEPTED

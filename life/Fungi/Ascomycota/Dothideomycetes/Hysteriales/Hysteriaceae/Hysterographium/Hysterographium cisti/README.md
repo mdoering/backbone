@@ -1,5 +1,4 @@
-Hysterographium cisti Rehm SPECIES
-=======
+# Hysterographium cisti Rehm SPECIES
 
 #### Status
 ACCEPTED

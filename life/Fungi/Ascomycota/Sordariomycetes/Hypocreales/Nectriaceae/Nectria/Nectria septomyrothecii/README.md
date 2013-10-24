@@ -1,17 +1,16 @@
-Nectria septomyrotheciae Samuels SPECIES
-=======
+# Nectria septomyrothecii Samuels SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Brittonia 40(3): 326 (1988)
 
 #### Original name
-Nectria septomyrotheciae Samuels
+Nectria septomyrothecii Samuels
 
 ### Remarks
 null

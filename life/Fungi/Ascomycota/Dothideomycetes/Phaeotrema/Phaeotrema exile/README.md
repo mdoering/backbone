@@ -1,5 +1,4 @@
-Phaeotrema exile Hale SPECIES
-=======
+# Phaeotrema exile Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalopeziza arctica Raitv. SPECIES
-=======
+# Hyalopeziza arctica Raitv. SPECIES
 
 #### Status
 ACCEPTED

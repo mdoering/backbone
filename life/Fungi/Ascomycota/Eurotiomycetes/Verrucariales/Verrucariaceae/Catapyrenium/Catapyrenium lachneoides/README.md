@@ -1,5 +1,4 @@
-Catapyrenium lachneoides Breuss SPECIES
-=======
+# Catapyrenium lachneoides Breuss SPECIES
 
 #### Status
 ACCEPTED

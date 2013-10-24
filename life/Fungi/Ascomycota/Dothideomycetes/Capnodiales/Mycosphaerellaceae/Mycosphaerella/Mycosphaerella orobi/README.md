@@ -1,5 +1,4 @@
-Mycosphaerella orobi Karak. SPECIES
-=======
+# Mycosphaerella orobi Karak. SPECIES
 
 #### Status
 ACCEPTED

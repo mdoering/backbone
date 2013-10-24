@@ -1,17 +1,16 @@
-Agaricus flaccidus var. flaccidus VARIETY
-=======
+# Lenzites betulina (L.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 405 (1838)
 
 #### Original name
-Agaricus flaccidus var. flaccidus
+Agaricus betulinus L., 1753
 
 ### Remarks
 null

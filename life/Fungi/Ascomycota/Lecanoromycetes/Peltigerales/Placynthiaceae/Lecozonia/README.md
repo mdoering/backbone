@@ -1,5 +1,4 @@
-Lecozonia GENUS
-=======
+# Lecozonia GENUS
 
 #### Status
 ACCEPTED

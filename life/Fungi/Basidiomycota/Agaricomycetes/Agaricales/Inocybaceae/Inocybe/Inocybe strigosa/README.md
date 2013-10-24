@@ -1,5 +1,4 @@
-Inocybe strigosa (Peck) Peck SPECIES
-=======
+# Inocybe strigosa (Peck) Peck SPECIES
 
 #### Status
 ACCEPTED

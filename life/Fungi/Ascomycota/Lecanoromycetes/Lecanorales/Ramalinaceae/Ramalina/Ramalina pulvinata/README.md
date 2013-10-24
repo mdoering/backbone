@@ -1,5 +1,4 @@
-Ramalina pulvinata (Anzi) Nyl. SPECIES
-=======
+# Ramalina pulvinata (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED

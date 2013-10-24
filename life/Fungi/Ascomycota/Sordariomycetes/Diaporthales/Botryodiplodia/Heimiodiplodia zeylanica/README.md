@@ -1,5 +1,4 @@
-Heimiodiplodia zeylanica (Tassi) Zambett. SPECIES
-=======
+# Heimiodiplodia zeylanica (Tassi) Zambett. SPECIES
 
 #### Status
 ACCEPTED

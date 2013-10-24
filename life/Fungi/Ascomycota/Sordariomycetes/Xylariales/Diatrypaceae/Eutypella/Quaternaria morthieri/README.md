@@ -1,5 +1,4 @@
-Quaternaria morthieri Fuckel SPECIES
-=======
+# Quaternaria morthieri Fuckel SPECIES
 
 #### Status
 ACCEPTED

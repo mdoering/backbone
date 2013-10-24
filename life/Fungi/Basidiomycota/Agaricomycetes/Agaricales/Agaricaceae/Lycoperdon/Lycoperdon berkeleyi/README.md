@@ -1,5 +1,4 @@
-Lycoperdon berkeleyi De Toni SPECIES
-=======
+# Lycoperdon berkeleyi De Toni SPECIES
 
 #### Status
 ACCEPTED

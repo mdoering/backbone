@@ -1,5 +1,4 @@
-Pleurotus subocreatus Cooke SPECIES
-=======
+# Pleurotus subocreatus Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Restiosporium hypolaenae Vánky, 2006 SPECIES
-=======
+# Restiosporium hypolaenae Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

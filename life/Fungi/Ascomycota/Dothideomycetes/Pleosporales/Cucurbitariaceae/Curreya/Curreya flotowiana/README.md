@@ -1,5 +1,4 @@
-Curreya flotowiana (Arnold) Höhn. SPECIES
-=======
+# Curreya flotowiana (Arnold) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobatula vitijazi Saidova, 1975 SPECIES
-=======
+# Lobatula vitijazi Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

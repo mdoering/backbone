@@ -1,5 +1,4 @@
-Sphaerella oerteliana Sacc. SPECIES
-=======
+# Sphaerella oerteliana Sacc. SPECIES
 
 #### Status
 ACCEPTED

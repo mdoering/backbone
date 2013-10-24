@@ -1,5 +1,4 @@
-Peroneutypella aurantiicola (Speg.) Berl. SPECIES
-=======
+# Peroneutypella aurantiicola (Speg.) Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella justiciae Henn. SPECIES
-=======
+# Aplosporella justiciae Henn. SPECIES
 
 #### Status
 ACCEPTED

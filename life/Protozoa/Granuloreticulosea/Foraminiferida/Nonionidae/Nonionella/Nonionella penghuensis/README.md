@@ -1,5 +1,4 @@
-Nonionella penghuensis Huang SPECIES
-=======
+# Nonionella penghuensis Huang SPECIES
 
 #### Status
 ACCEPTED

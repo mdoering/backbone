@@ -1,17 +1,16 @@
-Didymium circumcissile K.D. Whitney & L.S. Olive SPECIES
-=======
+# Didymium circumscissile K.D. Whitney & L.S. Olive, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 75(4): 629 (1983)
 
 #### Original name
-Didymium circumcissile K.D. Whitney & L.S. Olive
+Didymium circumscissile K.D. Whitney & L.S. Olive, 1983
 
 ### Remarks
 null

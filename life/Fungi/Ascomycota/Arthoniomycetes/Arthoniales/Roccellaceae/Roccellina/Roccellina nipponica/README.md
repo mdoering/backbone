@@ -1,14 +1,13 @@
-Roccellina niponica (Nyl.) Tehler SPECIES
-=======
+# Roccellina nipponica (Nyl.) Tehler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Op. bot. 70: 70 (1983)
 
 #### Original name
 Dirina niponica Nyl.

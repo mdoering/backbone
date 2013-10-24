@@ -1,5 +1,4 @@
-Leotia aquatica Lib. SPECIES
-=======
+# Leotia aquatica Lib. SPECIES
 
 #### Status
 ACCEPTED

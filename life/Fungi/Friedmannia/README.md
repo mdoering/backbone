@@ -1,5 +1,4 @@
-Friedmannia GENUS
-=======
+# Friedmannia GENUS
 
 #### Status
 ACCEPTED

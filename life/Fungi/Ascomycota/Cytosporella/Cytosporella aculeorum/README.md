@@ -1,5 +1,4 @@
-Cytosporella aculeorum Pass. SPECIES
-=======
+# Cytosporella aculeorum Pass. SPECIES
 
 #### Status
 ACCEPTED

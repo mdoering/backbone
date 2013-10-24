@@ -1,5 +1,4 @@
-Ascochyta gei Vanev & Bakalova SPECIES
-=======
+# Ascochyta gei Vanev & Bakalova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia subchrysophylla (Murrill) Murrill SPECIES
-=======
+# Omphalia subchrysophylla (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

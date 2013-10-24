@@ -1,5 +1,4 @@
-Xanthoparmelia marcellii T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia marcellii T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

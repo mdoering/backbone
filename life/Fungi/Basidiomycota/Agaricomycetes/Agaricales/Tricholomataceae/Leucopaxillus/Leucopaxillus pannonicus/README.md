@@ -1,5 +1,4 @@
-Leucopaxillus pannonicus (Bohus) Consiglio & Contu SPECIES
-=======
+# Leucopaxillus pannonicus (Bohus) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

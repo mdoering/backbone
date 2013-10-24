@@ -1,5 +1,4 @@
-Schmitzomia GENUS
-=======
+# Schmitzomia GENUS
 
 #### Status
 ACCEPTED

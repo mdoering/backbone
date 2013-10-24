@@ -1,5 +1,4 @@
-Sargassum longicarpum Tseng & Lu, 2004 SPECIES
-=======
+# Sargassum longicarpum Tseng & Lu, 2004 SPECIES
 
 #### Status
 ACCEPTED

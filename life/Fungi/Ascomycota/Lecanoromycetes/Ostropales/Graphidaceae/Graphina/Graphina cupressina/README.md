@@ -1,5 +1,4 @@
-Graphina cupressina G. Merr. ex Zahlbr. & Redinger SPECIES
-=======
+# Graphina cupressina G. Merr. ex Zahlbr. & Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gongylodinium J.P.G. Fenton, R. Neves & K.M. Piel, 1980 GENUS
-=======
+# Gongylodinium J.P.G. Fenton, R. Neves & K.M. Piel, 1980 GENUS
 
 #### Status
 ACCEPTED

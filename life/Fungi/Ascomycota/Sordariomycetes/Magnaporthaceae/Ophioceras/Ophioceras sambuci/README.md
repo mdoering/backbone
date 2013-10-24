@@ -1,5 +1,4 @@
-Ophioceras sambuci Pass. SPECIES
-=======
+# Ophioceras sambuci Pass. SPECIES
 
 #### Status
 ACCEPTED

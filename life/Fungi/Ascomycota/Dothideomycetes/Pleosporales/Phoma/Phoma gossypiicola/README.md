@@ -1,5 +1,4 @@
-Phoma gossypiicola Gruyter SPECIES
-=======
+# Phoma gossypiicola Gruyter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histioneis helenae Murray & Whitting, 1899 SPECIES
-=======
+# Histioneis helenae Murray & Whitting, 1899 SPECIES
 
 #### Status
 ACCEPTED

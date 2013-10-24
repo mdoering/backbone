@@ -1,5 +1,4 @@
-Clitocybe iopepla Berk. & Broome SPECIES
-=======
+# Clitocybe iopepla Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

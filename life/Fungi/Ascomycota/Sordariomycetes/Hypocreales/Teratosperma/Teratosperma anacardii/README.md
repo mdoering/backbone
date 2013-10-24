@@ -1,5 +1,4 @@
-Teratosperma anacardii Hansf. SPECIES
-=======
+# Teratosperma anacardii Hansf. SPECIES
 
 #### Status
 ACCEPTED

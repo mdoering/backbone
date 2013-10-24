@@ -1,5 +1,4 @@
-Acetoanaerobium noterae Sleat et al., 1985 SPECIES
-=======
+# Acetoanaerobium noterae Sleat et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

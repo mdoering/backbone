@@ -1,5 +1,4 @@
-Lecidea himalaica Hertel SPECIES
-=======
+# Lecidea himalaica Hertel SPECIES
 
 #### Status
 ACCEPTED

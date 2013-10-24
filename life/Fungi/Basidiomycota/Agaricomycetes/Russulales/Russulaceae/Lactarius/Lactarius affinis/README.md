@@ -1,5 +1,4 @@
-Lactarius affinis var. affinis VARIETY
-=======
+# Lactarius affinis Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. Reg. St. N. Y. 23: 116 (1872)
 
 #### Original name
-Lactarius affinis var. affinis
+Lactarius affinis Peck
 
 ### Remarks
 null

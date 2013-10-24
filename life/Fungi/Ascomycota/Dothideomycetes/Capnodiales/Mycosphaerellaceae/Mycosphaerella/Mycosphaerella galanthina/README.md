@@ -1,5 +1,4 @@
-Mycosphaerella galanthina (Tassi) Tomilin SPECIES
-=======
+# Mycosphaerella galanthina (Tassi) Tomilin SPECIES
 
 #### Status
 ACCEPTED

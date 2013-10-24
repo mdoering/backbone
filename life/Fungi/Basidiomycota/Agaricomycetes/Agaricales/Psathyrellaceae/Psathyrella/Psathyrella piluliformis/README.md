@@ -1,17 +1,16 @@
-Psathyrella hydrophila var. hydrophila VARIETY
-=======
+# Psathyrella piluliformis (Bull.) P.D. Orton, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Sci. Nat. Maroc. 45: 113 (1937)
+Notes R. bot. Gdn Edinb. 29: 116 (1969)
 
 #### Original name
-Psathyrella hydrophila var. hydrophila
+Agaricus piluliformis Bull., 1783
 
 ### Remarks
 null

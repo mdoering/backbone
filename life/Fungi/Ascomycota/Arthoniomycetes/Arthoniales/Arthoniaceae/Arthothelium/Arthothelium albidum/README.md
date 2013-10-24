@@ -1,5 +1,4 @@
-Arthothelium albidum Müll. Arg. SPECIES
-=======
+# Arthothelium albidum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

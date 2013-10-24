@@ -1,5 +1,4 @@
-Rothia aeria Li et al., 2004 SPECIES
-=======
+# Rothia aeria Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

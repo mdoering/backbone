@@ -1,5 +1,4 @@
-Russula squalida Peck SPECIES
-=======
+# Russula squalida Peck SPECIES
 
 #### Status
 ACCEPTED

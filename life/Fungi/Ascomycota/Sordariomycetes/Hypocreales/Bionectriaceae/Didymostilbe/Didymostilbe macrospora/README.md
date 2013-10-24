@@ -1,5 +1,4 @@
-Didymostilbe macrospora (Penz. & Sacc.) Seifert SPECIES
-=======
+# Didymostilbe macrospora (Penz. & Sacc.) Seifert SPECIES
 
 #### Status
 ACCEPTED

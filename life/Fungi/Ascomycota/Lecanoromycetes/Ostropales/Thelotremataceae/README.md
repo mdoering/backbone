@@ -1,5 +1,4 @@
-Thelotremataceae Stizenb. FAMILY
-=======
+# Thelotremataceae Stizenb. FAMILY
 
 #### Status
 ACCEPTED

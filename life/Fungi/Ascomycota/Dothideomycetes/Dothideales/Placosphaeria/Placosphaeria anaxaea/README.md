@@ -1,5 +1,4 @@
-Placosphaeria anaxaea (Speg.) Ciccar. SPECIES
-=======
+# Placosphaeria anaxaea (Speg.) Ciccar. SPECIES
 
 #### Status
 ACCEPTED

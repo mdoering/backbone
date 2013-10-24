@@ -1,5 +1,4 @@
-Puccinia athamanthina P. Syd. & Syd. SPECIES
-=======
+# Puccinia athamanthina P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

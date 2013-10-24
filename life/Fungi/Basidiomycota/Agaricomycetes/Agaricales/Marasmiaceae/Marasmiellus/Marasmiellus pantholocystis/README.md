@@ -1,5 +1,4 @@
-Marasmiellus pantholocystis Singer SPECIES
-=======
+# Marasmiellus pantholocystis Singer SPECIES
 
 #### Status
 ACCEPTED

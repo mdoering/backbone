@@ -1,5 +1,4 @@
-Diorchidium bonplandi (Speg.) J.C. Lindq. SPECIES
-=======
+# Diorchidium bonplandi (Speg.) J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

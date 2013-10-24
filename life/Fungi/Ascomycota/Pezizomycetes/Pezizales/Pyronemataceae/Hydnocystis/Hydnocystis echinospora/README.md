@@ -1,5 +1,4 @@
-Hydnocystis echinospora Rodway SPECIES
-=======
+# Hydnocystis echinospora Rodway SPECIES
 
 #### Status
 ACCEPTED

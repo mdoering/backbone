@@ -1,5 +1,4 @@
-Sargassum amabile Yamada SPECIES
-=======
+# Sargassum amabile Yamada SPECIES
 
 #### Status
 ACCEPTED

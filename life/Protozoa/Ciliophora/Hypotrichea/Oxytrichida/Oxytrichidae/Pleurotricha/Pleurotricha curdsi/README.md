@@ -1,5 +1,4 @@
-Pleurotricha curdsi (Shi, Warren & Song, 2002) Gupta, Kamra, Arora & Sapra, 2003 SPECIES
-=======
+# Pleurotricha curdsi (Shi, Warren & Song, 2002) Gupta, Kamra, Arora & Sapra, 2003 SPECIES
 
 #### Status
 ACCEPTED

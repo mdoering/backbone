@@ -1,5 +1,4 @@
-Caloplaca pergracilis f. pergracilis FORM
-=======
+# Caloplaca pergracilis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Meddn Göteb. Bot. Trädgord 2: 20 (1925)
 
 #### Original name
-Caloplaca pergracilis f. pergracilis
+Caloplaca pergracilis Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entyloma tanaceti Syd. SPECIES
-=======
+# Entyloma tanaceti Syd. SPECIES
 
 #### Status
 ACCEPTED

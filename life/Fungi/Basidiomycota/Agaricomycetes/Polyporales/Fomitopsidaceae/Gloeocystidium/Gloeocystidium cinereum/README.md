@@ -1,5 +1,4 @@
-Gloeocystidium cinereum Rick SPECIES
-=======
+# Gloeocystidium cinereum Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca fulvella (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca fulvella (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

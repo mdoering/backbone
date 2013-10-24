@@ -1,5 +1,4 @@
-Pluteus inocybecystis A.N. Petrov SPECIES
-=======
+# Pluteus inocybecystis A.N. Petrov SPECIES
 
 #### Status
 ACCEPTED

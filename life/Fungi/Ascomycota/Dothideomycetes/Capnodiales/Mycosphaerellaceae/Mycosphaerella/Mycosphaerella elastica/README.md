@@ -1,5 +1,4 @@
-Mycosphaerella elastica Koord. SPECIES
-=======
+# Mycosphaerella elastica Koord. SPECIES
 
 #### Status
 ACCEPTED

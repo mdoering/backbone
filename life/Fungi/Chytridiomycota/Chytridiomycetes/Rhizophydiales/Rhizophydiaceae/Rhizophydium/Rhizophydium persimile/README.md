@@ -1,5 +1,4 @@
-Rhizophydium persimile Scherff. SPECIES
-=======
+# Rhizophydium persimile Scherff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia retrusa W. Phillips SPECIES
-=======
+# Mollisia retrusa W. Phillips SPECIES
 
 #### Status
 ACCEPTED

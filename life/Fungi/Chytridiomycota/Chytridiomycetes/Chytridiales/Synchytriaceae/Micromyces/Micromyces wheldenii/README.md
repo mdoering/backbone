@@ -1,5 +1,4 @@
-Micromyces wheldenii Linder SPECIES
-=======
+# Micromyces wheldenii Linder SPECIES
 
 #### Status
 ACCEPTED

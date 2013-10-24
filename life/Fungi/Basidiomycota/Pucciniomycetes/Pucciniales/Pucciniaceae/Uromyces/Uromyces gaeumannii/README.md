@@ -1,17 +1,16 @@
-Uromyces gaeumanni Mayor & Vienn.-Bourg. SPECIES
-=======
+# Uromyces gaeumannii Mayor & Vienn.-Bourg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue de Pathologe Végetale et d'Entom. Agric. de France 28: 33 (1949)
 
 #### Original name
-Uromyces gaeumanni Mayor & Vienn.-Bourg.
+Uromyces gaeumannii Mayor & Vienn.-Bourg.
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Bacillus gordonae Pichinoty et al., 1987 SPECIES
-=======
+# Paenibacillus gordonae (Pichinoty et al., 1987) Ash et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Periconia ramostipitata Patw. & S.H. Desai SPECIES
-=======
+# Periconia ramostipitata Patw. & S.H. Desai SPECIES
 
 #### Status
 ACCEPTED

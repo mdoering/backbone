@@ -1,5 +1,4 @@
-Platysma yunnanensis Nyl. SPECIES
-=======
+# Platysma yunnanensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

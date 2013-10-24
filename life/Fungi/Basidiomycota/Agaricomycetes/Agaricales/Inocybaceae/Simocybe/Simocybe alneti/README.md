@@ -1,5 +1,4 @@
-Simocybe alneti Singer SPECIES
-=======
+# Simocybe alneti Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria velana (A. Massal.) Zahlbr. SPECIES
-=======
+# Verrucaria velana (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

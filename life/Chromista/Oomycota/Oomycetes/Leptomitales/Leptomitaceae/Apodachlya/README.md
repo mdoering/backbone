@@ -1,5 +1,4 @@
-Apodachlya Pringsh. GENUS
-=======
+# Apodachlya Pringsh. GENUS
 
 #### Status
 ACCEPTED

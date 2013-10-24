@@ -1,5 +1,4 @@
-Sphaeria deerrata Cooke & Ellis SPECIES
-=======
+# Sphaeria deerrata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

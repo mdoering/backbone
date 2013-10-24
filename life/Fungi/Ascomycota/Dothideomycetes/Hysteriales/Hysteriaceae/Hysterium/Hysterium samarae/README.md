@@ -1,5 +1,4 @@
-Hysterium samarae Fr. SPECIES
-=======
+# Hysterium samarae Fr. SPECIES
 
 #### Status
 ACCEPTED

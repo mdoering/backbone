@@ -1,5 +1,4 @@
-Pseudohelotium ulmariae (Boud.) Sacc. & Trotter SPECIES
-=======
+# Pseudohelotium ulmariae (Boud.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

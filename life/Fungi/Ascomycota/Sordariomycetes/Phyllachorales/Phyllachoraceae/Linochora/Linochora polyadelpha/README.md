@@ -1,5 +1,4 @@
-Linochora polyadelpha Syd. SPECIES
-=======
+# Linochora polyadelpha Syd. SPECIES
 
 #### Status
 ACCEPTED

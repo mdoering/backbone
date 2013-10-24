@@ -1,5 +1,4 @@
-Parrellina Thalman, 1951 GENUS
-=======
+# Parrellina Thalman, 1951 GENUS
 
 #### Status
 ACCEPTED

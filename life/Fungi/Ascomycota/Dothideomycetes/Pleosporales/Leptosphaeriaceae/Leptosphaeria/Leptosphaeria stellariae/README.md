@@ -1,5 +1,4 @@
-Leptosphaeria stellariae Richon SPECIES
-=======
+# Leptosphaeria stellariae Richon SPECIES
 
 #### Status
 ACCEPTED

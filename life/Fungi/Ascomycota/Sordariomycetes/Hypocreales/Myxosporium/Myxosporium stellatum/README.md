@@ -1,5 +1,4 @@
-Myxosporium stellatum Dearn. SPECIES
-=======
+# Myxosporium stellatum Dearn. SPECIES
 
 #### Status
 ACCEPTED

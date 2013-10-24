@@ -1,14 +1,13 @@
-Saccothecium sepincola var. abbreviata (Cooke) Huhndorf VARIETY
-=======
+# Leptosphaeria abbreviata (Cooke) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 26 (1883)
 
 #### Original name
 Sphaeria abbreviata Cooke, 1871

@@ -1,5 +1,4 @@
-Stigmatomyces baerii P. Karst. SPECIES
-=======
+# Stigmatomyces baerii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

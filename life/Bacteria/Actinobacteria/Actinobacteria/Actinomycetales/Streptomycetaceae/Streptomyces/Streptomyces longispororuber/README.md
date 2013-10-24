@@ -1,5 +1,4 @@
-Streptomyces longispororuber Waksman, 1953 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces longispororuber Waksman, 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

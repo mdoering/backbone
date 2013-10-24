@@ -1,5 +1,4 @@
-Methanobacterium subterraneum Kotelnikova et al., 1998 SPECIES
-=======
+# Methanobacterium subterraneum Kotelnikova et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

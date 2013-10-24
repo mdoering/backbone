@@ -1,5 +1,4 @@
-Verrucaria lithina Taylor SPECIES
-=======
+# Verrucaria lithina Taylor SPECIES
 
 #### Status
 ACCEPTED

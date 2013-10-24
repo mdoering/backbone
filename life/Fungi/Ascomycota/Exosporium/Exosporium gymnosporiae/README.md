@@ -1,5 +1,4 @@
-Exosporium gymnosporiae Sacc. SPECIES
-=======
+# Exosporium gymnosporiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

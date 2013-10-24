@@ -1,5 +1,4 @@
-Heterosporium yuccae Bubák SPECIES
-=======
+# Heterosporium yuccae Bubák SPECIES
 
 #### Status
 ACCEPTED

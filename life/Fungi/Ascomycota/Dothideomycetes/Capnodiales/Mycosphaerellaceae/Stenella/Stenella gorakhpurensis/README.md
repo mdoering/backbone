@@ -1,5 +1,4 @@
-Stenella gorakhpurensis (Kamal & P. Kumar) de Hoog SPECIES
-=======
+# Stenella gorakhpurensis (Kamal & P. Kumar) de Hoog SPECIES
 
 #### Status
 ACCEPTED

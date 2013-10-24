@@ -1,5 +1,4 @@
-Entoloma albosericeum Hesler SPECIES
-=======
+# Entoloma albosericeum Hesler SPECIES
 
 #### Status
 ACCEPTED

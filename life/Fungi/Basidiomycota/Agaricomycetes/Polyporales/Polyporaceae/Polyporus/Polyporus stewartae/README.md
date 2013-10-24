@@ -1,5 +1,4 @@
-Polyporus stewartae Coker SPECIES
-=======
+# Polyporus stewartae Coker SPECIES
 
 #### Status
 ACCEPTED

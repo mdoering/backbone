@@ -1,5 +1,4 @@
-Lacrymaria clepsiniformis Penard, 1922 SPECIES
-=======
+# Lacrymaria clepsiniformis Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simocybe americana E. Horak & O.K. Mill. SPECIES
-=======
+# Simocybe americana E. Horak & O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

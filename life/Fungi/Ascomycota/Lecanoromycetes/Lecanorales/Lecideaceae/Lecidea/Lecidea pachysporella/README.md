@@ -1,5 +1,4 @@
-Lecidea pachysporella Müll. Arg. SPECIES
-=======
+# Lecidea pachysporella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

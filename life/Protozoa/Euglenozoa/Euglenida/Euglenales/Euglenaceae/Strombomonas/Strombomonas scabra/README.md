@@ -1,5 +1,4 @@
-Strombomonas scabra var. ovata (Playfair) G. Tell & V. Conforti VARIETY
-=======
+# Strombomonas scabra (Playfair) G. Tell & V. Conforti SPECIES
 
 #### Status
 ACCEPTED

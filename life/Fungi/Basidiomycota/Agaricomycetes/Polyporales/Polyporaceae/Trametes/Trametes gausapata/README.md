@@ -1,5 +1,4 @@
-Trametes gausapata Berk. & Ravenel ex Cooke SPECIES
-=======
+# Trametes gausapata Berk. & Ravenel ex Cooke SPECIES
 
 #### Status
 ACCEPTED

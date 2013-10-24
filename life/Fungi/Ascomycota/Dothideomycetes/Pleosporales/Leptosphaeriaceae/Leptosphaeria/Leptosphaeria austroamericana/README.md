@@ -1,5 +1,4 @@
-Leptosphaeria austroamericana Speg. SPECIES
-=======
+# Leptosphaeria austroamericana Speg. SPECIES
 
 #### Status
 ACCEPTED

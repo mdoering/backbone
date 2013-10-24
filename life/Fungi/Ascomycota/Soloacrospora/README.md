@@ -1,5 +1,4 @@
-Soloacrospora W.B. Kendr. & R.F. Castañeda GENUS
-=======
+# Soloacrospora W.B. Kendr. & R.F. Castañeda GENUS
 
 #### Status
 ACCEPTED

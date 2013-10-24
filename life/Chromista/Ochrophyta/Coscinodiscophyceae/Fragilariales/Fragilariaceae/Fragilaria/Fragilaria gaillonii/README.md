@@ -1,5 +1,4 @@
-Fragilaria gaillonii (Bory) Lange-Bertalot SPECIES
-=======
+# Fragilaria gaillonii (Bory) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plasmopara archangelicae Gapon. SPECIES
-=======
+# Plasmopara archangelicae Gapon. SPECIES
 
 #### Status
 ACCEPTED

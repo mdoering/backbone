@@ -1,5 +1,4 @@
-Aecidium lobbii Syd. SPECIES
-=======
+# Aecidium lobbii Syd. SPECIES
 
 #### Status
 ACCEPTED

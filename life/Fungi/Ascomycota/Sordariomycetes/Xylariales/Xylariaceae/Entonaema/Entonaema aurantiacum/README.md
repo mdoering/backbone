@@ -1,5 +1,4 @@
-Entonaema aurantiacum (Pat.) Lloyd SPECIES
-=======
+# Entonaema aurantiacum (Pat.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

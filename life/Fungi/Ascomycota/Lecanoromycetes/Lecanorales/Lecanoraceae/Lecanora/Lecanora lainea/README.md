@@ -1,5 +1,4 @@
-Lecanora lainea Ach. SPECIES
-=======
+# Lecanora lainea Ach. SPECIES
 
 #### Status
 ACCEPTED

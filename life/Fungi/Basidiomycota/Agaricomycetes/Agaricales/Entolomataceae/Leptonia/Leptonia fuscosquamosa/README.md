@@ -1,5 +1,4 @@
-Leptonia fuscosquamosa (Hesler) Largent SPECIES
-=======
+# Leptonia fuscosquamosa (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

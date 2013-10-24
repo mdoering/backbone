@@ -1,5 +1,4 @@
-Dothidasteroma dipteridis (Syd. & P. Syd.) Arx, 1962 SPECIES
-=======
+# Dothidasteroma dipteridis (Syd. & P. Syd.) Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED

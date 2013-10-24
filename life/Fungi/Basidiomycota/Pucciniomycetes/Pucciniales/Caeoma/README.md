@@ -1,17 +1,16 @@
-Hypodermium Link GENUS
-=======
+# Caeoma Link, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Magazin Ges. naturf. Freunde, Berlin 7: 26 (1816)
+null
 
 #### Original name
-Hypodermium Link
+null
 
 ### Remarks
 null

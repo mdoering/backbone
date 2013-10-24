@@ -1,5 +1,4 @@
-Sphaeria galbana Fr. SPECIES
-=======
+# Sphaeria galbana Fr. SPECIES
 
 #### Status
 ACCEPTED

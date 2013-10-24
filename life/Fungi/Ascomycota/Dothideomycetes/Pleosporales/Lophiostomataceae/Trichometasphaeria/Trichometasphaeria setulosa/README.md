@@ -1,8 +1,7 @@
-Heptameria setulosa (Sacc. & Roum.) Cooke, 1889 SPECIES
-=======
+# Trichometasphaeria setulosa (Sacc. & Roum.) Apinis & Chesters SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Leptosphaeria setulosa Sacc. & Roum.
 
 ### Remarks
 null

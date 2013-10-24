@@ -1,5 +1,4 @@
-Collybia alliacea (Murrill) Murrill SPECIES
-=======
+# Collybia alliacea (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conidiobolus carpentieri (Giard) Remaud. & S. Keller SPECIES
-=======
+# Conidiobolus carpentieri (Giard) Remaud. & S. Keller SPECIES
 
 #### Status
 ACCEPTED

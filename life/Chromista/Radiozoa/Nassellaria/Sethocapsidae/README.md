@@ -1,5 +1,4 @@
-Sethocapsidae Haeckel, 1881 FAMILY
-=======
+# Sethocapsidae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

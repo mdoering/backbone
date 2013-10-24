@@ -1,8 +1,7 @@
-Lecanora magnussoni Maheu & Werner SPECIES
-=======
+# Lecanora magnussonii Maheu & Werner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora magnussoni Maheu & Werner
+Lecanora magnussonii Maheu & Werner
 
 ### Remarks
 null

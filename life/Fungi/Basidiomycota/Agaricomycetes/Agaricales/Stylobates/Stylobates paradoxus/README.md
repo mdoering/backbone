@@ -1,5 +1,4 @@
-Stylobates paradoxus Fr., 1837 SPECIES
-=======
+# Stylobates paradoxus Fr., 1837 SPECIES
 
 #### Status
 ACCEPTED

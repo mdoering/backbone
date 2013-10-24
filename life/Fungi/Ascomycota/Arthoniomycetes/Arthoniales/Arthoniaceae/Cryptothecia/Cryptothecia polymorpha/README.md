@@ -1,5 +1,4 @@
-Cryptothecia polymorpha Makhija & Patw. SPECIES
-=======
+# Cryptothecia polymorpha Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

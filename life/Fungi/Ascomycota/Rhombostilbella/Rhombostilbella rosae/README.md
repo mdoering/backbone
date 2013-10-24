@@ -1,5 +1,4 @@
-Rhombostilbella rosae Zimm., 1902 SPECIES
-=======
+# Rhombostilbella rosae Zimm., 1902 SPECIES
 
 #### Status
 ACCEPTED

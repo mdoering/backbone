@@ -1,5 +1,4 @@
-Trichoderma surrotundum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma surrotundum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

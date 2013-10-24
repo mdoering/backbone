@@ -1,5 +1,4 @@
-Lachnella thujae Velen. SPECIES
-=======
+# Lachnella thujae Velen. SPECIES
 
 #### Status
 ACCEPTED

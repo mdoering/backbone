@@ -1,5 +1,4 @@
-Septoria cajadensis Speg. SPECIES
-=======
+# Septoria cajadensis Speg. SPECIES
 
 #### Status
 ACCEPTED

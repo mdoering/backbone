@@ -1,5 +1,4 @@
-Appendiculella pinicola (Dearn.) Piroz. & Shoemaker SPECIES
-=======
+# Appendiculella pinicola (Dearn.) Piroz. & Shoemaker SPECIES
 
 #### Status
 ACCEPTED

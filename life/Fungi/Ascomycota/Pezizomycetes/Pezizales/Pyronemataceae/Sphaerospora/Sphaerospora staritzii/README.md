@@ -1,5 +1,4 @@
-Sphaerospora staritzii Henn. SPECIES
-=======
+# Sphaerospora staritzii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placynthium griseum Hue SPECIES
-=======
+# Placynthium griseum Hue SPECIES
 
 #### Status
 ACCEPTED

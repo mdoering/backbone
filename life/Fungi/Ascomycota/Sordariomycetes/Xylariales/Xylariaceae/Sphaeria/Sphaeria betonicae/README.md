@@ -1,5 +1,4 @@
-Sphaeria betonicae Kirchn. SPECIES
-=======
+# Sphaeria betonicae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

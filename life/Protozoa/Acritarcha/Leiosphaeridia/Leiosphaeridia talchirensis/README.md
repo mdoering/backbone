@@ -1,5 +1,4 @@
-Leiosphaeridia talchirensis K. M. Lele & R. Karim SPECIES
-=======
+# Leiosphaeridia talchirensis K. M. Lele & R. Karim SPECIES
 
 #### Status
 ACCEPTED

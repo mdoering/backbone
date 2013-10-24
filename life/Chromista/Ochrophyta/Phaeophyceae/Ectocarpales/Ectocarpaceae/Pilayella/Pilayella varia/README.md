@@ -1,5 +1,4 @@
-Pilayella varia Kjellman SPECIES
-=======
+# Pilayella varia Kjellman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola phthirusae Hansf. SPECIES
-=======
+# Meliola phthirusae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalothecium candidum Bonord. SPECIES
-=======
+# Cephalothecium candidum Bonord. SPECIES
 
 #### Status
 ACCEPTED

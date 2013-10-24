@@ -1,5 +1,4 @@
-Puccinia tenuistipes Rostr. SPECIES
-=======
+# Puccinia tenuistipes Rostr. SPECIES
 
 #### Status
 ACCEPTED

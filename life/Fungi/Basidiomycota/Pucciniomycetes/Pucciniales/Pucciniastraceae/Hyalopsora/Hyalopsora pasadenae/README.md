@@ -1,5 +1,4 @@
-Hyalopsora pasadenae P. Syd. & Syd. SPECIES
-=======
+# Hyalopsora pasadenae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

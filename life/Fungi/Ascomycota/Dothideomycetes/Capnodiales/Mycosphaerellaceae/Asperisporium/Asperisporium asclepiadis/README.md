@@ -1,5 +1,4 @@
-Asperisporium asclepiadis (Ellis & Everh.) Deighton SPECIES
-=======
+# Asperisporium asclepiadis (Ellis & Everh.) Deighton SPECIES
 
 #### Status
 ACCEPTED

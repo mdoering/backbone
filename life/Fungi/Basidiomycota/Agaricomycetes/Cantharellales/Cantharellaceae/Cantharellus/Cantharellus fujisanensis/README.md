@@ -1,5 +1,4 @@
-Cantharellus fujisanensis S. Imai SPECIES
-=======
+# Cantharellus fujisanensis S. Imai SPECIES
 
 #### Status
 ACCEPTED

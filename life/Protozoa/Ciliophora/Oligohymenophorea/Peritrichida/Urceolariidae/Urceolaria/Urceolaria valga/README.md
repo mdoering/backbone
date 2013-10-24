@@ -1,5 +1,4 @@
-Urceolaria valga SPECIES
-=======
+# Urceolaria valga SPECIES
 
 #### Status
 ACCEPTED

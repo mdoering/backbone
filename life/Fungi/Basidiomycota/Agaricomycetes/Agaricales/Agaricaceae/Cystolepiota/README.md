@@ -1,5 +1,4 @@
-Cystolepiota Singer, 1952 GENUS
-=======
+# Cystolepiota Singer, 1952 GENUS
 
 #### Status
 ACCEPTED

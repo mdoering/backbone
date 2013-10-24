@@ -1,5 +1,4 @@
-Influenzabacillenahnliches GENUS
-=======
+# Influenzabacillenahnliches GENUS
 
 #### Status
 ACCEPTED

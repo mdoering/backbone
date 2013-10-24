@@ -1,5 +1,4 @@
-Tomenticola trematis Deighton, 1969 SPECIES
-=======
+# Tomenticola trematis Deighton, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Platygrapha dendroides Leight. SPECIES
-=======
+# Phaeographis dendroides (Leight.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London 27: 179 (1869)
+Flora, Jena 65(no. 21): 336 (1882)
 
 #### Original name
 Platygrapha dendroides Leight.

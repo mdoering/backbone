@@ -1,5 +1,4 @@
-Acarospora rufidulocinerea Hue SPECIES
-=======
+# Acarospora rufidulocinerea Hue SPECIES
 
 #### Status
 ACCEPTED

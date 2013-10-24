@@ -1,5 +1,4 @@
-Mycosphaerella nothofagi (Speg.) Spauld. SPECIES
-=======
+# Mycosphaerella nothofagi (Speg.) Spauld. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium tortum Foissner, 1980 SPECIES
-=======
+# Spathidium tortum Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

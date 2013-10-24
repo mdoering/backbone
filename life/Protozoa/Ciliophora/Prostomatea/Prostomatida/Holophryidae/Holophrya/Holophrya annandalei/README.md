@@ -1,5 +1,4 @@
-Holophrya annandalei Ghosh, 1919 SPECIES
-=======
+# Holophrya annandalei Ghosh, 1919 SPECIES
 
 #### Status
 ACCEPTED

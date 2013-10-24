@@ -1,5 +1,4 @@
-Ascobolus geophilus Seaver, 1916 SPECIES
-=======
+# Ascobolus geophilus Seaver, 1916 SPECIES
 
 #### Status
 ACCEPTED

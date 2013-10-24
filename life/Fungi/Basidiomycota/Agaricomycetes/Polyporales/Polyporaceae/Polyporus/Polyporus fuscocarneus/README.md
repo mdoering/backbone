@@ -1,5 +1,4 @@
-Polyporus fuscocarneus Pers. SPECIES
-=======
+# Polyporus fuscocarneus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps diceras Pers. SPECIES
-=======
+# Cordyceps diceras Pers. SPECIES
 
 #### Status
 ACCEPTED

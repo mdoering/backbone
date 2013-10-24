@@ -1,5 +1,4 @@
-Pezicula aesculea Kirschst. SPECIES
-=======
+# Pezicula aesculea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

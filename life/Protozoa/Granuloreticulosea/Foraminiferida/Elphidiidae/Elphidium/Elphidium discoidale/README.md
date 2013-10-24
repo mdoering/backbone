@@ -1,5 +1,4 @@
-Elphidium discoidale SPECIES
-=======
+# Elphidium discoidale SPECIES
 
 #### Status
 ACCEPTED

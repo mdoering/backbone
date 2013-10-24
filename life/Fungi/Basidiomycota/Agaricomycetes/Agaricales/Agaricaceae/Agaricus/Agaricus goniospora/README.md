@@ -1,5 +1,4 @@
-Agaricus goniospora Berk. & Broome SPECIES
-=======
+# Agaricus goniospora Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

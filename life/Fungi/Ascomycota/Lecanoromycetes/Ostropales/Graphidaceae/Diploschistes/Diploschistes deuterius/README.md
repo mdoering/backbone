@@ -1,5 +1,4 @@
-Diploschistes deuterius (Nyl.) Zahlbr. SPECIES
-=======
+# Diploschistes deuterius (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

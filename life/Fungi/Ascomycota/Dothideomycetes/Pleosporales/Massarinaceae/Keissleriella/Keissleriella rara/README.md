@@ -1,5 +1,4 @@
-Keissleriella rara Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1996 SPECIES
-=======
+# Keissleriella rara Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1996 SPECIES
 
 #### Status
 ACCEPTED

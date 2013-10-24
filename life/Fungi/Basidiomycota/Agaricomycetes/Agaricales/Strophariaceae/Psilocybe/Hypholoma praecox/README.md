@@ -1,5 +1,4 @@
-Hypholoma praecox Velen. SPECIES
-=======
+# Hypholoma praecox Velen. SPECIES
 
 #### Status
 ACCEPTED

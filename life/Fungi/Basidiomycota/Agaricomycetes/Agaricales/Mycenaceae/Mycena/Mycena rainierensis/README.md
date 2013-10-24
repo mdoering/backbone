@@ -1,5 +1,4 @@
-Mycena rainierensis A.H. Sm. SPECIES
-=======
+# Mycena rainierensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

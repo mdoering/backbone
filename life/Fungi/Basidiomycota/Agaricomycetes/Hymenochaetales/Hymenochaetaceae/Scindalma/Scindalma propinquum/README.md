@@ -1,5 +1,4 @@
-Scindalma propinquum (Speg.) Kuntze SPECIES
-=======
+# Scindalma propinquum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

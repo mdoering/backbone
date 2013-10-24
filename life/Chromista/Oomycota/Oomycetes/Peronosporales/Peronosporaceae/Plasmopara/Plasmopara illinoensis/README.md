@@ -1,5 +1,4 @@
-Plasmopara illinoensis (Farl.) Davis SPECIES
-=======
+# Plasmopara illinoensis (Farl.) Davis SPECIES
 
 #### Status
 ACCEPTED

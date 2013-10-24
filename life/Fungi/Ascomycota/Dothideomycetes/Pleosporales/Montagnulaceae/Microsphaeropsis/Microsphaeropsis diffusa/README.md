@@ -1,5 +1,4 @@
-Microsphaeropsis diffusa Bianchin. SPECIES
-=======
+# Microsphaeropsis diffusa Bianchin. SPECIES
 
 #### Status
 ACCEPTED

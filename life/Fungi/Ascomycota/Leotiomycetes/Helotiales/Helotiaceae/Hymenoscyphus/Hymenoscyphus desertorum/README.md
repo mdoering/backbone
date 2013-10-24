@@ -1,5 +1,4 @@
-Hymenoscyphus desertorum (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus desertorum (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

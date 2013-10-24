@@ -1,5 +1,4 @@
-Verrucula tarraconensis Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula tarraconensis Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

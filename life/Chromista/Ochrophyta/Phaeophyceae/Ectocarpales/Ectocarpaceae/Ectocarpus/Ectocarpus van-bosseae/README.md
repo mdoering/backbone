@@ -1,5 +1,4 @@
-Ectocarpus van-bosseae Setchell & N.L. Gardner SPECIES
-=======
+# Ectocarpus van-bosseae Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

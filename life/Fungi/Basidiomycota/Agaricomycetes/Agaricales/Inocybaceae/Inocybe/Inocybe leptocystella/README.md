@@ -1,5 +1,4 @@
-Inocybe leptocystella G.F. Atk. SPECIES
-=======
+# Inocybe leptocystella G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

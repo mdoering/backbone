@@ -1,5 +1,4 @@
-Asterina pellioniae Katum. SPECIES
-=======
+# Asterina pellioniae Katum. SPECIES
 
 #### Status
 ACCEPTED

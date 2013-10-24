@@ -1,5 +1,4 @@
-Cerelasma lamellosa Haeckel, 1889 SPECIES
-=======
+# Cerelasma lamellosa Haeckel, 1889 SPECIES
 
 #### Status
 ACCEPTED

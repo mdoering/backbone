@@ -1,8 +1,7 @@
-Spastostyla sertulatum (Kent, 1881) Entz, 1884 SPECIES
-=======
+# Haplocaulus sertulariarum (Entz, 1884) Banina, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

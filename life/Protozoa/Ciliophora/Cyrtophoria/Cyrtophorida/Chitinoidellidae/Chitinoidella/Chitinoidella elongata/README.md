@@ -1,5 +1,4 @@
-Chitinoidella elongata Pop, 1997 SPECIES
-=======
+# Chitinoidella elongata Pop, 1997 SPECIES
 
 #### Status
 ACCEPTED

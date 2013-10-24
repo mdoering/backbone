@@ -1,5 +1,4 @@
-Dermatocarpon glaucinodes Servít SPECIES
-=======
+# Dermatocarpon glaucinodes Servít SPECIES
 
 #### Status
 ACCEPTED

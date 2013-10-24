@@ -1,5 +1,4 @@
-Lecidea melanothrix Eschw. SPECIES
-=======
+# Lecidea melanothrix Eschw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Termitomyces striatus f. striatus FORM
-=======
+# Termitomyces striatus (Beeli) R. Heim, 1942 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mém. Acad. , Sci. , Paris 44: 72 (1942)
 
 #### Original name
-Termitomyces striatus f. striatus
+Schulzeria striata Beeli, 1938
 
 ### Remarks
 null

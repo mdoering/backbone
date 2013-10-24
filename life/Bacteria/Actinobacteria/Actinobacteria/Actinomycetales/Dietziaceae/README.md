@@ -1,5 +1,4 @@
-Dietziaceae FAMILY
-=======
+# Dietziaceae FAMILY
 
 #### Status
 ACCEPTED

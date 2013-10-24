@@ -1,5 +1,4 @@
-Helicobacter cynogastricus Van den Bulck et al., 2006 SPECIES
-=======
+# Helicobacter cynogastricus Van den Bulck et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

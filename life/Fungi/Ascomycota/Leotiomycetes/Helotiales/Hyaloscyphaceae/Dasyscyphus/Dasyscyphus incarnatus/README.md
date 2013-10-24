@@ -1,8 +1,7 @@
-Dasyscypha incarnatus Clem. SPECIES
-=======
+# Dasyscyphus incarnatus Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha incarnatus Clem.
+Dasyscyphus incarnatus Clem.
 
 ### Remarks
 null

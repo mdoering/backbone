@@ -1,5 +1,4 @@
-Ramularia aristolochiae U. Braun SPECIES
-=======
+# Ramularia aristolochiae U. Braun SPECIES
 
 #### Status
 ACCEPTED

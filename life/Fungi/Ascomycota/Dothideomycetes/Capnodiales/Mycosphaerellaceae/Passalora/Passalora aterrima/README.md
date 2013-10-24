@@ -1,5 +1,4 @@
-Passalora aterrima Bres. SPECIES
-=======
+# Passalora aterrima Bres. SPECIES
 
 #### Status
 ACCEPTED

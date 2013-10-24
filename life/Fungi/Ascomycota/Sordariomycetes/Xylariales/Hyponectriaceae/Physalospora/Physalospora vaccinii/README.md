@@ -1,14 +1,13 @@
-Acanthorhynchus vaccinii Shear, 1907 SPECIES
-=======
+# Physalospora vaccinii (Shear) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 34: 313 (1907)
+Beitr. Kryptfl. Schweiz 11(no. 1): 156 (1954)
 
 #### Original name
 Acanthorhynchus vaccinii Shear, 1907

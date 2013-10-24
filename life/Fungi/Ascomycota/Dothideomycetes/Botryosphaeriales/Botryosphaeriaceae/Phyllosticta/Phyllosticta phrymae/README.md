@@ -1,5 +1,4 @@
-Phyllosticta phrymae Bunkina & Koval SPECIES
-=======
+# Phyllosticta phrymae Bunkina & Koval SPECIES
 
 #### Status
 ACCEPTED

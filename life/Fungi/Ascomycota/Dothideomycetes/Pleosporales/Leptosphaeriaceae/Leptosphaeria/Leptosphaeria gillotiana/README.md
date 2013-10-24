@@ -1,5 +1,4 @@
-Leptosphaeria gillotiana Sacc. & Roum. SPECIES
-=======
+# Leptosphaeria gillotiana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

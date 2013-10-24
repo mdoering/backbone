@@ -1,5 +1,4 @@
-Ceramoclasteropsis coumae Bat. & Cavalc., 1962 SPECIES
-=======
+# Ceramoclasteropsis coumae Bat. & Cavalc., 1962 SPECIES
 
 #### Status
 ACCEPTED

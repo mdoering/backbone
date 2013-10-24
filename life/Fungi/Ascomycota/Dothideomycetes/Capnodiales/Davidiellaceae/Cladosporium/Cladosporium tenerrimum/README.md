@@ -1,5 +1,4 @@
-Cladosporium tenerrimum Link SPECIES
-=======
+# Cladosporium tenerrimum Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanothece stratus Komárek & Cronberg SPECIES
-=======
+# Aphanothece stratus Komárek & Cronberg SPECIES
 
 #### Status
 ACCEPTED

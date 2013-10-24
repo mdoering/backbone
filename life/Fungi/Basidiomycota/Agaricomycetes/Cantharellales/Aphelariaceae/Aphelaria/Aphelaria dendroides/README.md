@@ -1,17 +1,16 @@
-Clavaria ornithopoda Massee, 1901 SPECIES
-=======
+# Aphelaria dendroides (Jungh.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 54 (1901)
+Ann. Bot. Mem. 1: 182 (1950)
 
 #### Original name
-Clavaria ornithopoda Massee, 1901
+Clavaria dendroides Jungh., 1838
 
 ### Remarks
 null

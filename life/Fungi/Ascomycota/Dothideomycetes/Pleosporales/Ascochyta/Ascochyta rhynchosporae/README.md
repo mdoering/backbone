@@ -1,5 +1,4 @@
-Ascochyta rhynchosporae (Pat.) Berl. & Voglino SPECIES
-=======
+# Ascochyta rhynchosporae (Pat.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

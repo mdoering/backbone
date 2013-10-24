@@ -1,5 +1,4 @@
-Marasmius glabrescens Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius glabrescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

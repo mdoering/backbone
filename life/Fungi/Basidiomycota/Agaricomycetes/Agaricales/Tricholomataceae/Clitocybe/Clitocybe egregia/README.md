@@ -1,5 +1,4 @@
-Clitocybe egregia Massee SPECIES
-=======
+# Clitocybe egregia Massee SPECIES
 
 #### Status
 ACCEPTED

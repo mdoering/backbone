@@ -1,5 +1,4 @@
-Asellaria jatibonicua L.G. Valle & Cafaro, 2008 SPECIES
-=======
+# Asellaria jatibonicua L.G. Valle & Cafaro, 2008 SPECIES
 
 #### Status
 ACCEPTED

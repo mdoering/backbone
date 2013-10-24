@@ -1,5 +1,4 @@
-Acroconidiella trisepta J.J. Muchovej SPECIES
-=======
+# Acroconidiella trisepta J.J. Muchovej SPECIES
 
 #### Status
 ACCEPTED

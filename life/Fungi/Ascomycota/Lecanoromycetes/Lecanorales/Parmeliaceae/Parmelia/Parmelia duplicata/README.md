@@ -1,5 +1,4 @@
-Parmelia duplicata var. duplicata VARIETY
-=======
+# Parmelia duplicata (Sm.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia duplicata var. duplicata
+Lichen duplicatus Sm.
 
 ### Remarks
 null

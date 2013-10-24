@@ -1,5 +1,4 @@
-Lophophorina Penard, 1922 GENUS
-=======
+# Lophophorina Penard, 1922 GENUS
 
 #### Status
 ACCEPTED

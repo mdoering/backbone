@@ -1,5 +1,4 @@
-Phytophthora jatrophae Rosenbaum SPECIES
-=======
+# Phytophthora jatrophae Rosenbaum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia pseudostellata Asahina SPECIES
-=======
+# Cladonia pseudostellata Asahina SPECIES
 
 #### Status
 ACCEPTED

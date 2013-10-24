@@ -1,5 +1,4 @@
-Phragmothyrites grandis (Cookson) Selkirk SPECIES
-=======
+# Phragmothyrites grandis (Cookson) Selkirk SPECIES
 
 #### Status
 ACCEPTED

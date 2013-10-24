@@ -1,5 +1,4 @@
-Cortinarius xylocinnamomeus var. fusco-ornatus M.M. Moser VARIETY
-=======
+# Cortinarius xylocinnamomeus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Moser & Horak, Beih. Nova Hedwigia 52: 459 (1975)
+in Moser & Horak, Beih. Nova Hedwigia 52: 457 (1975)
 
 #### Original name
-Cortinarius xylocinnamomeus var. fusco-ornatus M.M. Moser
+Cortinarius xylocinnamomeus M.M. Moser
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Platypleura Thomsen in Thomsen & Boonruang, 1983 GENUS
-=======
+# Platypleura Thomsen in Thomsen & Boonruang, 1983 GENUS
 
 #### Status
 ACCEPTED

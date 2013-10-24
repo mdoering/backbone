@@ -1,5 +1,4 @@
-Pyrenula hoehneliana Zahlbr. SPECIES
-=======
+# Pyrenula hoehneliana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

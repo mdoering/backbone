@@ -1,5 +1,4 @@
-Phoma frankeniae Lobik SPECIES
-=======
+# Phoma frankeniae Lobik SPECIES
 
 #### Status
 ACCEPTED

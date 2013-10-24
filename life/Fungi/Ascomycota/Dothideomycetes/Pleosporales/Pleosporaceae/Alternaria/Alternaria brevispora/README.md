@@ -1,5 +1,4 @@
-Alternaria brevispora T.Y. Zhang SPECIES
-=======
+# Alternaria brevispora T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

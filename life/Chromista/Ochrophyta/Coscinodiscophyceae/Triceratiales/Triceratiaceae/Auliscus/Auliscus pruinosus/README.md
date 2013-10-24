@@ -1,5 +1,4 @@
-Auliscus pruinosus J.W. Bailey, 1854 SPECIES
-=======
+# Auliscus pruinosus J.W. Bailey, 1854 SPECIES
 
 #### Status
 ACCEPTED

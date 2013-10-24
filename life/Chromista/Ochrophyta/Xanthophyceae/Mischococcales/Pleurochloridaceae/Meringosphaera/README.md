@@ -1,5 +1,4 @@
-Meringosphaera Lohman, 1903 GENUS
-=======
+# Meringosphaera Lohman, 1903 GENUS
 
 #### Status
 ACCEPTED

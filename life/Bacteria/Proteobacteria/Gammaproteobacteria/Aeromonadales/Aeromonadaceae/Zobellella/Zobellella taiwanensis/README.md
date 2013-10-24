@@ -1,5 +1,4 @@
-Zobellella taiwanensis Lin & Shieh, 2006 SPECIES
-=======
+# Zobellella taiwanensis Lin & Shieh, 2006 SPECIES
 
 #### Status
 ACCEPTED

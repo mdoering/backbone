@@ -1,5 +1,4 @@
-Botryosphaeria piceae A. Funk, 1965 SPECIES
-=======
+# Botryosphaeria piceae A. Funk, 1965 SPECIES
 
 #### Status
 ACCEPTED

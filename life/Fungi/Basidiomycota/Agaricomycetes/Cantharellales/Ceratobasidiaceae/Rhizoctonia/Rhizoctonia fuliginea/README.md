@@ -1,5 +1,4 @@
-Rhizoctonia fuliginea Sappa & Mosca SPECIES
-=======
+# Rhizoctonia fuliginea Sappa & Mosca SPECIES
 
 #### Status
 ACCEPTED

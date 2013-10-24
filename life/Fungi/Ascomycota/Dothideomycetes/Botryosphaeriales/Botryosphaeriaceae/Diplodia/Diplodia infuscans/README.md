@@ -1,5 +1,4 @@
-Diplodia infuscans Ellis & Everh. SPECIES
-=======
+# Diplodia infuscans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

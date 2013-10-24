@@ -1,5 +1,4 @@
-Septoria plumeriae Sacc. & P. Syd. SPECIES
-=======
+# Septoria plumeriae Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

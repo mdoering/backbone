@@ -1,5 +1,4 @@
-Ramariopsis luteoochracea (Cavara) R.H. Petersen, 1966 SPECIES
-=======
+# Ramariopsis luteoochracea (Cavara) R.H. Petersen, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia phloeospora Sacc. & Traverso SPECIES
-=======
+# Diplodia phloeospora Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

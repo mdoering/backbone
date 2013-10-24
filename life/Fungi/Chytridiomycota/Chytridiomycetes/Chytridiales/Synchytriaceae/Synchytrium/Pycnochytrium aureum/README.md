@@ -1,5 +1,4 @@
-Pycnochytrium aureum (J. Schröt.) SPECIES
-=======
+# Pycnochytrium aureum (J. Schröt.) SPECIES
 
 #### Status
 ACCEPTED

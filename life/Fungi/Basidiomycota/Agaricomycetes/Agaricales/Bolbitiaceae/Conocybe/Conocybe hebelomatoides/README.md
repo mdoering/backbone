@@ -1,5 +1,4 @@
-Conocybe hebelomatoides Middelh. SPECIES
-=======
+# Conocybe hebelomatoides Middelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Microthyrium subulatum P.C. Gupta SPECIES
-=======
+# Microthyrium subulati P.C. Gupta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 54(1): 129 (1974)
 
 #### Original name
-Microthyrium subulatum P.C. Gupta
+Microthyrium subulati P.C. Gupta
 
 ### Remarks
 null

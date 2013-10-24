@@ -1,5 +1,4 @@
-Pleurophomella conspersa Höhn. SPECIES
-=======
+# Pleurophomella conspersa Höhn. SPECIES
 
 #### Status
 ACCEPTED

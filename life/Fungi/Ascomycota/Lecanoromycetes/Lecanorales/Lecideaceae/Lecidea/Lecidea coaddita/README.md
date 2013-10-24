@@ -1,5 +1,4 @@
-Lecidea coaddita Nyl. SPECIES
-=======
+# Lecidea coaddita Nyl. SPECIES
 
 #### Status
 ACCEPTED

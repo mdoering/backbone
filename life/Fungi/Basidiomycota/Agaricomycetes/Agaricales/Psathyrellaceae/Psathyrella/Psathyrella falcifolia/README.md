@@ -1,5 +1,4 @@
-Psathyrella falcifolia Mont. SPECIES
-=======
+# Psathyrella falcifolia Mont. SPECIES
 
 #### Status
 ACCEPTED

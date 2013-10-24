@@ -1,5 +1,4 @@
-Didymella brunii B. de Lesd. SPECIES
-=======
+# Didymella brunii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

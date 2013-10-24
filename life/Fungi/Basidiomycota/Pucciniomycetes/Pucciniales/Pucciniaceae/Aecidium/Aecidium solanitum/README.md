@@ -1,5 +1,4 @@
-Aecidium solanitum Schwein. SPECIES
-=======
+# Aecidium solanitum Schwein. SPECIES
 
 #### Status
 ACCEPTED

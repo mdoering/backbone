@@ -1,5 +1,4 @@
-Limacella subglischra (S. Imai) S. Ito SPECIES
-=======
+# Limacella subglischra (S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

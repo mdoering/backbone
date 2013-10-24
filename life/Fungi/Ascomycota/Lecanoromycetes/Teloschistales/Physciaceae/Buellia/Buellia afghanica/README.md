@@ -1,5 +1,4 @@
-Buellia afghanica M. Steiner & H. Mayrhofer SPECIES
-=======
+# Buellia afghanica M. Steiner & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

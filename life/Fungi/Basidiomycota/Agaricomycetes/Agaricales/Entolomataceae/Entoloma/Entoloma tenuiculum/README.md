@@ -1,5 +1,4 @@
-Entoloma tenuiculum Corner & E. Horak SPECIES
-=======
+# Entoloma tenuiculum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

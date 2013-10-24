@@ -1,5 +1,4 @@
-Valsa leptasca Peck & Clinton SPECIES
-=======
+# Valsa leptasca Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

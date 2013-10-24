@@ -1,5 +1,4 @@
-Mycosphaerella altera (Pass.) House SPECIES
-=======
+# Mycosphaerella altera (Pass.) House SPECIES
 
 #### Status
 ACCEPTED

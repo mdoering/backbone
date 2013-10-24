@@ -1,5 +1,4 @@
-Lecanora homalea H. Magn. SPECIES
-=======
+# Lecanora homalea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius comptulus M.M. Moser SPECIES
-=======
+# Cortinarius comptulus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

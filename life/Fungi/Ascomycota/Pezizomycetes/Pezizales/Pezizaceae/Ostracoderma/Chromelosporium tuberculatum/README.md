@@ -1,5 +1,4 @@
-Chromelosporium tuberculatum (Pers.) Hennebert, 1973 SPECIES
-=======
+# Chromelosporium tuberculatum (Pers.) Hennebert, 1973 SPECIES
 
 #### Status
 ACCEPTED

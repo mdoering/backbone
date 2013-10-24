@@ -1,8 +1,7 @@
-Cystoseira spinosa var. squarrosa (De Notaris) Giaccone VARIETY
-=======
+# Cystoseira squarrosa De Notaris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

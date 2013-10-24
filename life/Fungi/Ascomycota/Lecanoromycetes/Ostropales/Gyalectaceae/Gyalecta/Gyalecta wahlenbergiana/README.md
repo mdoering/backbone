@@ -1,5 +1,4 @@
-Gyalecta wahlenbergiana var. wahlenbergiana VARIETY
-=======
+# Gyalecta wahlenbergiana Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyalecta wahlenbergiana var. wahlenbergiana
+Gyalecta wahlenbergiana Ach.
 
 ### Remarks
 null

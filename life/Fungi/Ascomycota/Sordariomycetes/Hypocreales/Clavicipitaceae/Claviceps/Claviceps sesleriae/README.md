@@ -1,5 +1,4 @@
-Claviceps sesleriae Stäger {?} SPECIES
-=======
+# Claviceps sesleriae Stäger {?} SPECIES
 
 #### Status
 ACCEPTED

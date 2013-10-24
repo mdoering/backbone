@@ -1,5 +1,4 @@
-Psathyrella thomii A.H. Sm. SPECIES
-=======
+# Psathyrella thomii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dyospyris Haeckel, 1881 GENUS
-=======
+# Dyospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

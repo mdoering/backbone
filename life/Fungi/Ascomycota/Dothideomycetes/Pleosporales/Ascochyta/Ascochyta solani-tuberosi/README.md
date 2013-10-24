@@ -1,5 +1,4 @@
-Ascochyta solani-tuberosi Naumov SPECIES
-=======
+# Ascochyta solani-tuberosi Naumov SPECIES
 
 #### Status
 ACCEPTED

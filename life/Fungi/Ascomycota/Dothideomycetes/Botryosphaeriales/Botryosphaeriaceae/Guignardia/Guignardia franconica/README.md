@@ -1,5 +1,4 @@
-Guignardia franconica (Petr.) E. Müll. SPECIES
-=======
+# Guignardia franconica (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

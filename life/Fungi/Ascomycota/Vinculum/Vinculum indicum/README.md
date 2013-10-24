@@ -1,5 +1,4 @@
-Vinculum indicum R.Y. Roy, R.S. Dwivedi & P.K. Khanna SPECIES
-=======
+# Vinculum indicum R.Y. Roy, R.S. Dwivedi & P.K. Khanna SPECIES
 
 #### Status
 ACCEPTED

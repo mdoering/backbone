@@ -1,5 +1,4 @@
-Phacus ovum (Ehrenberg) Klebs SPECIES
-=======
+# Phacus ovum (Ehrenberg) Klebs SPECIES
 
 #### Status
 ACCEPTED

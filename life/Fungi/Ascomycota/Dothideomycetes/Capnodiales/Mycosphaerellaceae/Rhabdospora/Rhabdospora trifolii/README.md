@@ -1,5 +1,4 @@
-Rhabdospora trifolii (Ellis) Sacc. SPECIES
-=======
+# Rhabdospora trifolii (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

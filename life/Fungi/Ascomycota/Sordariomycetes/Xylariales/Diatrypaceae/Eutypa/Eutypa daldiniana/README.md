@@ -1,5 +1,4 @@
-Eutypa daldiniana (De Not.) L.C. Tiffany & J.C. Gilman SPECIES
-=======
+# Eutypa daldiniana (De Not.) L.C. Tiffany & J.C. Gilman SPECIES
 
 #### Status
 ACCEPTED

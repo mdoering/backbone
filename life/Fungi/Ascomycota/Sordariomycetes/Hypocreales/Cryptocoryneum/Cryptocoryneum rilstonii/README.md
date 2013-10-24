@@ -1,5 +1,4 @@
-Cryptocoryneum rilstonii M.B. Ellis SPECIES
-=======
+# Cryptocoryneum rilstonii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

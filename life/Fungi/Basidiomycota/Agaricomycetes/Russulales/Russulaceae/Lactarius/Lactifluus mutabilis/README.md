@@ -1,5 +1,4 @@
-Lactifluus mutabilis (Peck) Kuntze SPECIES
-=======
+# Lactifluus mutabilis (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

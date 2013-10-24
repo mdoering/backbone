@@ -1,5 +1,4 @@
-Mycosphaerella mediterranea (Sacc.) Maire & Werner SPECIES
-=======
+# Mycosphaerella mediterranea (Sacc.) Maire & Werner SPECIES
 
 #### Status
 ACCEPTED

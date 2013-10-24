@@ -1,17 +1,16 @@
-Hymenochaete pulcherrima Massee, 1890 SPECIES
-=======
+# Hymenochaete rigidula Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 27: 104 (1890)
+J. Linn. Soc. , Bot. 10(no. 46): 334 (1868)
 
 #### Original name
-Hymenochaete pulcherrima Massee, 1890
+Hymenochaete rigidula Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

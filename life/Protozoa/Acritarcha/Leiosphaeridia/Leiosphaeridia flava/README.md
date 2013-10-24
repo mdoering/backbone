@@ -1,5 +1,4 @@
-Leiosphaeridia flava (Andreeva, 1966) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia flava (Andreeva, 1966) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

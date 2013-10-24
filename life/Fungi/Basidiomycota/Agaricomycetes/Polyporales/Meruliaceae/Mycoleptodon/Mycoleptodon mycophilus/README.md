@@ -1,5 +1,4 @@
-Mycoleptodon mycophilus Pilát SPECIES
-=======
+# Mycoleptodon mycophilus Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenina hydrangeae W. Yamam. SPECIES
-=======
+# Irenina hydrangeae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

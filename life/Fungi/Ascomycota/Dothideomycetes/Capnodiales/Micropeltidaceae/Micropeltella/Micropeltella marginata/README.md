@@ -1,5 +1,4 @@
-Micropeltella marginata (Mont.) Bat. SPECIES
-=======
+# Micropeltella marginata (Mont.) Bat. SPECIES
 
 #### Status
 ACCEPTED

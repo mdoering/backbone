@@ -1,5 +1,4 @@
-Leptosphaerulina kochiae Kalymb. SPECIES
-=======
+# Leptosphaerulina kochiae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

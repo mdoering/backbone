@@ -1,5 +1,4 @@
-Clavaria citrina Quél. SPECIES
-=======
+# Clavaria citrina Quél. SPECIES
 
 #### Status
 ACCEPTED

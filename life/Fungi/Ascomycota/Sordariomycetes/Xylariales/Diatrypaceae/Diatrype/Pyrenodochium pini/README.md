@@ -1,5 +1,4 @@
-Pyrenodochium pini Link SPECIES
-=======
+# Pyrenodochium pini Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllactinia alangii Y.X. Yu & Y.Q. Lai SPECIES
-=======
+# Phyllactinia alangii Y.X. Yu & Y.Q. Lai SPECIES
 
 #### Status
 ACCEPTED

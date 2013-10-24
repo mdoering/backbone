@@ -1,5 +1,4 @@
-Boletus holophaeus Corner SPECIES
-=======
+# Boletus holophaeus Corner SPECIES
 
 #### Status
 ACCEPTED

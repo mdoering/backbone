@@ -1,5 +1,4 @@
-Peziza gramineum Berk. & Broome SPECIES
-=======
+# Peziza gramineum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

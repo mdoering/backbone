@@ -1,17 +1,16 @@
-Cercospora scandens var. longissima Gonz. Frag. VARIETY
-=======
+# Cercospora scandens Sacc. & G. Winter, 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Acad. Ci. Art. Barcelona 15(17): 462 (1920)
+Hedwigia 22: 14 (1883)
 
 #### Original name
-Cercospora scandens var. longissima Gonz. Frag.
+Cercospora scandens Sacc. & G. Winter, 1883
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypoxylon rectangulosporum Y.M. Ju, J.D. Rogers & Samuels, 1992 SPECIES
-=======
+# Hypoxylon rectangulosporum Y.M. Ju, J.D. Rogers & Samuels, 1992 SPECIES
 
 #### Status
 ACCEPTED

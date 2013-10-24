@@ -1,5 +1,4 @@
-Mesodinium siro Cohn, 1866 SPECIES
-=======
+# Mesodinium siro Cohn, 1866 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina diplocarpa var. diplocarpa VARIETY
-=======
+# Asterina diplocarpa Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 10(no. 56): 129 (1882)
 
 #### Original name
-Asterina diplocarpa var. diplocarpa
+Asterina diplocarpa Cooke
 
 ### Remarks
 null

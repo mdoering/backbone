@@ -1,5 +1,4 @@
-Cercospora gymnanthis Chupp SPECIES
-=======
+# Cercospora gymnanthis Chupp SPECIES
 
 #### Status
 ACCEPTED

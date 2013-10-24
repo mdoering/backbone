@@ -1,5 +1,4 @@
-Ganoderma hypoxanthum (Bres.) C.J. Humphrey SPECIES
-=======
+# Ganoderma hypoxanthum (Bres.) C.J. Humphrey SPECIES
 
 #### Status
 ACCEPTED

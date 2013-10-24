@@ -1,5 +1,4 @@
-Arthonia depressula J. Steiner SPECIES
-=======
+# Arthonia depressula J. Steiner SPECIES
 
 #### Status
 ACCEPTED

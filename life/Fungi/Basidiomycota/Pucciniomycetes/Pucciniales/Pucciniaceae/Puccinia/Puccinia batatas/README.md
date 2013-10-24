@@ -1,5 +1,4 @@
-Puccinia batatas P. Syd. & Syd., 1902 SPECIES
-=======
+# Puccinia batatas P. Syd. & Syd., 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella tiflisiensis Rehm SPECIES
-=======
+# Eutypella tiflisiensis Rehm SPECIES
 
 #### Status
 ACCEPTED

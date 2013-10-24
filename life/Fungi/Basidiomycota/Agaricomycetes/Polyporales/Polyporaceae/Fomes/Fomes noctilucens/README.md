@@ -1,5 +1,4 @@
-Fomes noctilucens Lagerh. SPECIES
-=======
+# Fomes noctilucens Lagerh. SPECIES
 
 #### Status
 ACCEPTED

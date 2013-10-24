@@ -1,5 +1,4 @@
-Cercospora physalidis-minimae Pavgi & U.P. Singh SPECIES
-=======
+# Cercospora physalidis-minimae Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

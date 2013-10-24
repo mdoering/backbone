@@ -1,5 +1,4 @@
-Hygrophorus translucens (Murrill) Murrill SPECIES
-=======
+# Hygrophorus translucens (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

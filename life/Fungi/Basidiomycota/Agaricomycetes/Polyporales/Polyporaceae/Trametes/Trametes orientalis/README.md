@@ -1,5 +1,4 @@
-Trametes orientalis (Yasuda) Imazeki SPECIES
-=======
+# Trametes orientalis (Yasuda) Imazeki SPECIES
 
 #### Status
 ACCEPTED

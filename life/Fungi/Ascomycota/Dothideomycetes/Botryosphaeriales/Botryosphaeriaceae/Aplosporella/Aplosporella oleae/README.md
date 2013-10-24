@@ -1,5 +1,4 @@
-Aplosporella oleae M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Aplosporella oleae M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

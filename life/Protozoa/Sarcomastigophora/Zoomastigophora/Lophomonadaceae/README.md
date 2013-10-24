@@ -1,5 +1,4 @@
-Lophomonadaceae FAMILY
-=======
+# Lophomonadaceae FAMILY
 
 #### Status
 ACCEPTED

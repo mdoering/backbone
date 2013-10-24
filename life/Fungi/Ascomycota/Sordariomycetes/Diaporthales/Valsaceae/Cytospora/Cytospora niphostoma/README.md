@@ -1,5 +1,4 @@
-Cytospora niphostoma Sacc. SPECIES
-=======
+# Cytospora niphostoma Sacc. SPECIES
 
 #### Status
 ACCEPTED

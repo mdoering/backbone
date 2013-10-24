@@ -1,5 +1,4 @@
-Diacheopsis vermicularis Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Diacheopsis vermicularis Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

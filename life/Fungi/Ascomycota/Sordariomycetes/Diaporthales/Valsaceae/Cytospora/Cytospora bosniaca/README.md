@@ -1,5 +1,4 @@
-Cytospora bosniaca Petr. SPECIES
-=======
+# Cytospora bosniaca Petr. SPECIES
 
 #### Status
 ACCEPTED

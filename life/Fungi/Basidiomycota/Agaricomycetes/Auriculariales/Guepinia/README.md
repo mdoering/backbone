@@ -1,17 +1,16 @@
-Gyrocephalus Brefeld, 1888 GENUS
-=======
+# Guepinia E.M. Fries, 1825 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. orb. veg. (Lundae) 1: 92 (1825)
 
 #### Original name
-Gyrocephalus Brefeld, 1888
+Guepinia E.M. Fries, 1825
 
 ### Remarks
 null

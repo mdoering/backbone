@@ -1,5 +1,4 @@
-Aecidites rhamni-tertiariae Engelhard SPECIES
-=======
+# Aecidites rhamni-tertiariae Engelhard SPECIES
 
 #### Status
 ACCEPTED

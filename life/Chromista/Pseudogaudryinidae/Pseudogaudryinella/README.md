@@ -1,5 +1,4 @@
-Pseudogaudryinella GENUS
-=======
+# Pseudogaudryinella GENUS
 
 #### Status
 ACCEPTED

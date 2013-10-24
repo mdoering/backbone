@@ -1,5 +1,4 @@
-Lactovum Matthies, Gossner, Acker, Schramm & Drake, 2005 GENUS
-=======
+# Lactovum Matthies, Gossner, Acker, Schramm & Drake, 2005 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithodesmioides polymorpha von Stosch SPECIES
-=======
+# Lithodesmioides polymorpha von Stosch SPECIES
 
 #### Status
 ACCEPTED

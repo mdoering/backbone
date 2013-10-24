@@ -1,5 +1,4 @@
-Hydnellum cyanopodium K.A. Harrison, 1964 SPECIES
-=======
+# Hydnellum cyanopodium K.A. Harrison, 1964 SPECIES
 
 #### Status
 DOUBTFUL

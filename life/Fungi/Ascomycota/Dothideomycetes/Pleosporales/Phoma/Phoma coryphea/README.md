@@ -1,5 +1,4 @@
-Phoma coryphea Sacc. SPECIES
-=======
+# Phoma coryphea Sacc. SPECIES
 
 #### Status
 ACCEPTED

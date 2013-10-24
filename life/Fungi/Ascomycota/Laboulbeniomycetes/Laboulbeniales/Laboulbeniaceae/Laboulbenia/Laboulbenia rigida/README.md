@@ -1,5 +1,4 @@
-Laboulbenia rigida Thaxt. SPECIES
-=======
+# Laboulbenia rigida Thaxt. SPECIES
 
 #### Status
 ACCEPTED

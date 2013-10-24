@@ -1,5 +1,4 @@
-Aecidium dracunculi Thüm. SPECIES
-=======
+# Aecidium dracunculi Thüm. SPECIES
 
 #### Status
 ACCEPTED

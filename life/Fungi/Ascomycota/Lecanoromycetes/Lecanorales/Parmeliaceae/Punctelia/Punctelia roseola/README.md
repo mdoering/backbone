@@ -1,5 +1,4 @@
-Punctelia roseola Jungbluth, Marcelli & Elix SPECIES
-=======
+# Punctelia roseola Jungbluth, Marcelli & Elix SPECIES
 
 #### Status
 ACCEPTED

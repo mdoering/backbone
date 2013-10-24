@@ -1,5 +1,4 @@
-Lecidea recondita Erichsen SPECIES
-=======
+# Lecidea recondita Erichsen SPECIES
 
 #### Status
 ACCEPTED

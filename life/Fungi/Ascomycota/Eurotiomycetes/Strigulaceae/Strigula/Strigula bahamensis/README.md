@@ -1,5 +1,4 @@
-Strigula bahamensis (Riddle) R.C. Harris SPECIES
-=======
+# Strigula bahamensis (Riddle) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

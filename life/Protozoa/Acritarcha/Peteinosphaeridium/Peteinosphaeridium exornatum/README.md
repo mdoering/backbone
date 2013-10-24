@@ -1,5 +1,4 @@
-Peteinosphaeridium exornatum Tongiorgi, Yin & Di Milia, 1995 SPECIES
-=======
+# Peteinosphaeridium exornatum Tongiorgi, Yin & Di Milia, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyosporium campaniforme Matsush. SPECIES
-=======
+# Dictyosporium campaniforme Matsush. SPECIES
 
 #### Status
 ACCEPTED

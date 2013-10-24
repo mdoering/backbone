@@ -1,5 +1,4 @@
-Amanita involuta Lam. SPECIES
-=======
+# Amanita involuta Lam. SPECIES
 
 #### Status
 ACCEPTED

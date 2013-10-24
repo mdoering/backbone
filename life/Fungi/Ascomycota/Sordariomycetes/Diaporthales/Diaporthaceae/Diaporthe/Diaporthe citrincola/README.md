@@ -1,5 +1,4 @@
-Diaporthe citrincola Rehm SPECIES
-=======
+# Diaporthe citrincola Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globulina punctata d'Orbigny, 1846 SPECIES
-=======
+# Globulina punctata d'Orbigny, 1846 SPECIES
 
 #### Status
 ACCEPTED

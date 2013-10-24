@@ -1,5 +1,4 @@
-Mycoarthris corallina Marvanová & P.J. Fisher, 2002 SPECIES
-=======
+# Mycoarthris corallina Marvanová & P.J. Fisher, 2002 SPECIES
 
 #### Status
 ACCEPTED

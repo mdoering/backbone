@@ -1,5 +1,4 @@
-Leuconostoc gelidum Shaw & Harding, 1989 SPECIES
-=======
+# Leuconostoc gelidum Shaw & Harding, 1989 SPECIES
 
 #### Status
 ACCEPTED

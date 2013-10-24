@@ -1,5 +1,4 @@
-Cercospora holmskioldiae Lall & H.S. Gill SPECIES
-=======
+# Cercospora holmskioldiae Lall & H.S. Gill SPECIES
 
 #### Status
 ACCEPTED

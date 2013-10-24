@@ -1,5 +1,4 @@
-Craterella nigrescens Pers. SPECIES
-=======
+# Craterella nigrescens Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crossopsora premnae-tomentosae T.S. Ramakr. & Soumini SPECIES
-=======
+# Crossopsora premnae-tomentosae T.S. Ramakr. & Soumini SPECIES
 
 #### Status
 ACCEPTED

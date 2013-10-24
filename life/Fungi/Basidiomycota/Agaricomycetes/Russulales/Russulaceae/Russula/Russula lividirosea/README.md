@@ -1,5 +1,4 @@
-Russula lividirosea var. lividirosea VARIETY
-=======
+# Russula lividirosea Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 67: 278 (1940)
 
 #### Original name
-Russula lividirosea var. lividirosea
+Russula lividirosea Murrill
 
 ### Remarks
 null

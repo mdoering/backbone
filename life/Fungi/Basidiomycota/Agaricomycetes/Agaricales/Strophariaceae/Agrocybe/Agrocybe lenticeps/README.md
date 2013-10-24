@@ -1,5 +1,4 @@
-Agrocybe lenticeps (Peck) Singer SPECIES
-=======
+# Agrocybe lenticeps (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

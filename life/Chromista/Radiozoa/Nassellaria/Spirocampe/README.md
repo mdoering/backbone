@@ -1,5 +1,4 @@
-Spirocampe Haeckel, 1881 GENUS
-=======
+# Spirocampe Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

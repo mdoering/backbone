@@ -1,5 +1,4 @@
-Lembosia polystichicola Katum. SPECIES
-=======
+# Lembosia polystichicola Katum. SPECIES
 
 #### Status
 ACCEPTED

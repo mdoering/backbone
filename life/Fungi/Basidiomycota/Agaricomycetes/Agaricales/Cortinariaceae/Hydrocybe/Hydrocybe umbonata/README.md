@@ -1,5 +1,4 @@
-Hydrocybe umbonata Velen. SPECIES
-=======
+# Hydrocybe umbonata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclococcolithinus GENUS
-=======
+# Cyclococcolithinus GENUS
 
 #### Status
 ACCEPTED

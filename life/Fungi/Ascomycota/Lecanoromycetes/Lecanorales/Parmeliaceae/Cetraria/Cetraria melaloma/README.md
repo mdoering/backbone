@@ -1,5 +1,4 @@
-Cetraria melaloma (Nyl.) Kremp. SPECIES
-=======
+# Cetraria melaloma (Nyl.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

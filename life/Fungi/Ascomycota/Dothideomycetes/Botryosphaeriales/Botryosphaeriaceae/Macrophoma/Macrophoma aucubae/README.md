@@ -1,5 +1,4 @@
-Macrophoma aucubae Gabotto SPECIES
-=======
+# Macrophoma aucubae Gabotto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nothodiscus Aubrey & Stradner in Stradner & Aubry, 2010 GENUS
-=======
+# Nothodiscus Aubrey & Stradner in Stradner & Aubry, 2010 GENUS
 
 #### Status
 ACCEPTED

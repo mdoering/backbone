@@ -1,5 +1,4 @@
-Verrucaria aspicilioides Vain. SPECIES
-=======
+# Verrucaria aspicilioides Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanospira Florenzano, Sili, Pelosi & Vincenzini, 1985 GENUS
-=======
+# Cyanospira Florenzano, Sili, Pelosi & Vincenzini, 1985 GENUS
 
 #### Status
 ACCEPTED

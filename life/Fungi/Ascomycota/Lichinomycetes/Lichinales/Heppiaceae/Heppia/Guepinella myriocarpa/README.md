@@ -1,5 +1,4 @@
-Guepinella myriocarpa Bagl. SPECIES
-=======
+# Guepinella myriocarpa Bagl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Granodiporites C.P. Varma & Rawat GENUS
-=======
+# Granodiporites C.P. Varma & Rawat GENUS
 
 #### Status
 ACCEPTED

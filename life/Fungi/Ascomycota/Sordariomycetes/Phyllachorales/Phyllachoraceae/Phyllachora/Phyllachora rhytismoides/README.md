@@ -1,17 +1,16 @@
-Mazzantia rhytismoides De Not. SPECIES
-=======
+# Phyllachora rhytismoides (Chevall.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Recl. Pir. itl. 490
+Syll. fung. (Abellini) 2: 608 (1883)
 
 #### Original name
-Mazzantia rhytismoides De Not.
+Dothidea rhytismoides (Corda) Berk. & Broome, 1875
 
 ### Remarks
 null

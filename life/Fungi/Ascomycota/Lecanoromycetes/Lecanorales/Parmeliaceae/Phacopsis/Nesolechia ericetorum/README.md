@@ -1,5 +1,4 @@
-Nesolechia ericetorum Flot. SPECIES
-=======
+# Nesolechia ericetorum Flot. SPECIES
 
 #### Status
 ACCEPTED

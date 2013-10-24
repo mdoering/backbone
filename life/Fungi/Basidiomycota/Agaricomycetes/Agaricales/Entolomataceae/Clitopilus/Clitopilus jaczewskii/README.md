@@ -1,5 +1,4 @@
-Clitopilus jaczewskii Lebedeva SPECIES
-=======
+# Clitopilus jaczewskii Lebedeva SPECIES
 
 #### Status
 ACCEPTED

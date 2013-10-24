@@ -1,5 +1,4 @@
-Opegrapha xylographiza Nyl. SPECIES
-=======
+# Opegrapha xylographiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium valensii Fensome et al., 1990 SPECIES
-=======
+# Micrhystridium valensii Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

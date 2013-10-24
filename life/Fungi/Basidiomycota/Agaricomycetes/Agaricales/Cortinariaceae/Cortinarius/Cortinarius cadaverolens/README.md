@@ -1,5 +1,4 @@
-Cortinarius cadaverolens Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius cadaverolens Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

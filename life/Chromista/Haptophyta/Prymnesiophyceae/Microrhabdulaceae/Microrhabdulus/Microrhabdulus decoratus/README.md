@@ -1,5 +1,4 @@
-Microrhabdulus decoratus Deflandre, 1959 SPECIES
-=======
+# Microrhabdulus decoratus Deflandre, 1959 SPECIES
 
 #### Status
 ACCEPTED

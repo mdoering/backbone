@@ -1,5 +1,4 @@
-Cyathus nigroalbus Lloyd SPECIES
-=======
+# Cyathus nigroalbus Lloyd SPECIES
 
 #### Status
 ACCEPTED

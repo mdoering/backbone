@@ -1,14 +1,13 @@
-Chitonia pequinii Boud., 1901 SPECIES
-=======
+# Agaricus pequinii (Boud.) Singer, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 17: 26 (1901)
+Botanicheskii Materialy 4(10-12): 14 (1938)
 
 #### Original name
 Chitonia pequinii Boud., 1901

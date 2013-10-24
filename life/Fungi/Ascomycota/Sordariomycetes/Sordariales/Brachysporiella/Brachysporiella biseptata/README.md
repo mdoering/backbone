@@ -1,5 +1,4 @@
-Brachysporiella biseptata W.A. Baker & Partr. SPECIES
-=======
+# Brachysporiella biseptata W.A. Baker & Partr. SPECIES
 
 #### Status
 ACCEPTED

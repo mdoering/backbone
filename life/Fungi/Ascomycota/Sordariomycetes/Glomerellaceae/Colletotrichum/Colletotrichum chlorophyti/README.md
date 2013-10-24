@@ -1,17 +1,16 @@
-Colletotrichum chlorophytumi S. Chandra & Tandon SPECIES
-=======
+# Colletotrichum chlorophyti S. Chandra & Tandon, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Curr. Sci. 34: 565 (1965)
 
 #### Original name
-Colletotrichum chlorophytumi S. Chandra & Tandon
+Colletotrichum chlorophyti S. Chandra & Tandon, 1965
 
 ### Remarks
 null

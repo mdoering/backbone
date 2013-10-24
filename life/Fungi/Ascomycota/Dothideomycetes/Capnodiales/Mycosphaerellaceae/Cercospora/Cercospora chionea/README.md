@@ -1,5 +1,4 @@
-Cercospora chionea Ellis & Everh. SPECIES
-=======
+# Cercospora chionea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

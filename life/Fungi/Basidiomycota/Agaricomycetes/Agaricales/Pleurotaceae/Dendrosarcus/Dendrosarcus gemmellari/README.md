@@ -1,5 +1,4 @@
-Dendrosarcus gemmellari (Inzenga) Kuntze SPECIES
-=======
+# Dendrosarcus gemmellari (Inzenga) Kuntze SPECIES
 
 #### Status
 ACCEPTED

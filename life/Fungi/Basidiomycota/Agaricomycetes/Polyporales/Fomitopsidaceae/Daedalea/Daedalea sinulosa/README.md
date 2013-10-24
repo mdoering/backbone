@@ -1,5 +1,4 @@
-Daedalea sinulosa Klotzsch SPECIES
-=======
+# Daedalea sinulosa Klotzsch SPECIES
 
 #### Status
 ACCEPTED

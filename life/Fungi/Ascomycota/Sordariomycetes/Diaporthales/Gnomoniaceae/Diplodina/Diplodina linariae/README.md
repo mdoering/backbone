@@ -1,5 +1,4 @@
-Diplodina linariae Gutner SPECIES
-=======
+# Diplodina linariae Gutner SPECIES
 
 #### Status
 ACCEPTED

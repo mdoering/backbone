@@ -1,5 +1,4 @@
-Cortinarius viridulifolius M.M. Moser SPECIES
-=======
+# Cortinarius viridulifolius M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

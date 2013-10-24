@@ -1,5 +1,4 @@
-Phyllactinia ampulliformis Havryl. SPECIES
-=======
+# Phyllactinia ampulliformis Havryl. SPECIES
 
 #### Status
 ACCEPTED

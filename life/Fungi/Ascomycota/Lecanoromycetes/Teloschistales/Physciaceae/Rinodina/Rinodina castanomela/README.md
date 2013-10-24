@@ -1,5 +1,4 @@
-Rinodina castanomela (Nyl.) Arnold SPECIES
-=======
+# Rinodina castanomela (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

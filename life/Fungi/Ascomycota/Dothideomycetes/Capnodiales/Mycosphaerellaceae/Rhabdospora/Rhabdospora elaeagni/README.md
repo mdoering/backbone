@@ -1,5 +1,4 @@
-Rhabdospora elaeagni I.E. Brezhnev SPECIES
-=======
+# Rhabdospora elaeagni I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

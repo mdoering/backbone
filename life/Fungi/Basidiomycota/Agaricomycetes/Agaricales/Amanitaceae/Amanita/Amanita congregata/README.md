@@ -1,5 +1,4 @@
-Amanita congregata Lam. SPECIES
-=======
+# Amanita congregata Lam. SPECIES
 
 #### Status
 ACCEPTED

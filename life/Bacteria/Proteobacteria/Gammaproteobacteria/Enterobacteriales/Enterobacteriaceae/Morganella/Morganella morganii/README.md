@@ -1,5 +1,4 @@
-Morganella morganii subsp. sibonii Jensen et al., 1992 SUBSPECIES
-=======
+# Morganella morganii (Winslow et al., 1919) Fulton, 1943 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barrmaelia Rappaz GENUS
-=======
+# Barrmaelia Rappaz GENUS
 
 #### Status
 ACCEPTED

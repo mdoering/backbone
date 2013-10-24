@@ -1,5 +1,4 @@
-Verrucaria dissipans Nyl. SPECIES
-=======
+# Verrucaria dissipans Nyl. SPECIES
 
 #### Status
 ACCEPTED

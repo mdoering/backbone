@@ -1,5 +1,4 @@
-Lecanora stillicidiorum (Vahl) Röhl. SPECIES
-=======
+# Lecanora stillicidiorum (Vahl) Röhl. SPECIES
 
 #### Status
 ACCEPTED

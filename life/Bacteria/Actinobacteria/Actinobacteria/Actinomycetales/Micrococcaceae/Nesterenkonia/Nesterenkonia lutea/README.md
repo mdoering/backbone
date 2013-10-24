@@ -1,5 +1,4 @@
-Nesterenkonia lutea Li et al., 2005 SPECIES
-=======
+# Nesterenkonia lutea Li et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina macowaniana Kalchbr. & Cooke SPECIES
-=======
+# Asterina macowaniana Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Genea thaxteri Gilkey SPECIES
-=======
+# Genea thaxteri Gilkey SPECIES
 
 #### Status
 ACCEPTED

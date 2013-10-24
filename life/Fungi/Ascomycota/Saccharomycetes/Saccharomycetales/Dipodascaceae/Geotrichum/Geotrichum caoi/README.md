@@ -1,5 +1,4 @@
-Geotrichum caoi (Jannin) Basgal SPECIES
-=======
+# Geotrichum caoi (Jannin) Basgal SPECIES
 
 #### Status
 ACCEPTED

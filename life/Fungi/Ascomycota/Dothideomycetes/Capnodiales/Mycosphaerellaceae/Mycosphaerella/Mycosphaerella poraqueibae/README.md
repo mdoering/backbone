@@ -1,5 +1,4 @@
-Mycosphaerella poraqueibae Bat. & Cavalc. SPECIES
-=======
+# Mycosphaerella poraqueibae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

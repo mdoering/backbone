@@ -1,5 +1,4 @@
-Thigmokeronopsis crassa (Claparède & Lachmann, 1858) Berger, 2006 SPECIES
-=======
+# Thigmokeronopsis crassa (Claparède & Lachmann, 1858) Berger, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia trullisata (Murrill) Murrill SPECIES
-=======
+# Collybia trullisata (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

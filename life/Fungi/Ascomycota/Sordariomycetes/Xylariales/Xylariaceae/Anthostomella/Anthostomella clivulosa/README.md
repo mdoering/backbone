@@ -1,5 +1,4 @@
-Anthostomella clivulosa (Mont.) Sacc. SPECIES
-=======
+# Anthostomella clivulosa (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

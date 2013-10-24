@@ -1,5 +1,4 @@
-Lecidea subimbricata Nyl. SPECIES
-=======
+# Lecidea subimbricata Nyl. SPECIES
 
 #### Status
 ACCEPTED

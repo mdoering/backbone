@@ -1,5 +1,4 @@
-Verrucaria antricola Wedd. SPECIES
-=======
+# Verrucaria antricola Wedd. SPECIES
 
 #### Status
 ACCEPTED

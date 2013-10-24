@@ -1,5 +1,4 @@
-Pterula adustipes (Speg.) Corner SPECIES
-=======
+# Pterula adustipes (Speg.) Corner SPECIES
 
 #### Status
 ACCEPTED

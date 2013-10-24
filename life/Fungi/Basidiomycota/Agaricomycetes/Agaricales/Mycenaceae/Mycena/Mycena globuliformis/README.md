@@ -1,5 +1,4 @@
-Mycena globuliformis Segedin, 1991 SPECIES
-=======
+# Mycena globuliformis Segedin, 1991 SPECIES
 
 #### Status
 ACCEPTED

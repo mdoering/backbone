@@ -1,5 +1,4 @@
-Hendersonia magnoliae var. magnoliae VARIETY
-=======
+# Hendersonia magnoliae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia magnoliae var. magnoliae
+Hendersonia magnoliae Sacc.
 
 ### Remarks
 null

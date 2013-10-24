@@ -1,5 +1,4 @@
-Depazites andromedae (Saporta) Mesch. SPECIES
-=======
+# Depazites andromedae (Saporta) Mesch. SPECIES
 
 #### Status
 ACCEPTED

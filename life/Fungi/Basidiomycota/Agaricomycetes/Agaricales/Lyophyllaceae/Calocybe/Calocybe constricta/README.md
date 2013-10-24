@@ -1,17 +1,16 @@
-Calocybe leucocephala var. leucocephala VARIETY
-=======
+# Calocybe constricta (Fr.) Kühner ex Singer, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 18(no. 69): 37 (1987)
+Sydowia 15: 47 (1962)
 
 #### Original name
-Calocybe leucocephala var. leucocephala
+Agaricus constrictus Fr., 1821
 
 ### Remarks
 null

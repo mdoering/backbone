@@ -1,5 +1,4 @@
-Passalora phaeopappi Petr. SPECIES
-=======
+# Passalora phaeopappi Petr. SPECIES
 
 #### Status
 ACCEPTED

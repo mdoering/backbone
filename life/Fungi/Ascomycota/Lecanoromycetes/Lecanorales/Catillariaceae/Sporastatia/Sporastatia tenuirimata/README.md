@@ -1,5 +1,4 @@
-Sporastatia tenuirimata Th. Fr. SPECIES
-=======
+# Sporastatia tenuirimata Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

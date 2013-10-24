@@ -1,5 +1,4 @@
-Coniothyrium convolutum W.T. Horne SPECIES
-=======
+# Coniothyrium convolutum W.T. Horne SPECIES
 
 #### Status
 ACCEPTED

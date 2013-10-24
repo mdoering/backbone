@@ -1,5 +1,4 @@
-Aureophycus aleuticus H.Kawai, T.Hanyuda, Lindeberg & S.C.Lindstrom, 2008 SPECIES
-=======
+# Aureophycus aleuticus H.Kawai, T.Hanyuda, Lindeberg & S.C.Lindstrom, 2008 SPECIES
 
 #### Status
 ACCEPTED

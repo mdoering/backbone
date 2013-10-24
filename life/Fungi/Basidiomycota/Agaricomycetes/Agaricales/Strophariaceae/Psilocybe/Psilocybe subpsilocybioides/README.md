@@ -1,5 +1,4 @@
-Psilocybe subpsilocybioides Guzmán, Lodge & S.A. Cantrell SPECIES
-=======
+# Psilocybe subpsilocybioides Guzmán, Lodge & S.A. Cantrell SPECIES
 
 #### Status
 ACCEPTED

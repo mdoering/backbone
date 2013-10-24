@@ -1,5 +1,4 @@
-Inocybe tarda var. tarda VARIETY
-=======
+# Inocybe tarda Kühner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Inocybe tarda var. tarda
+Inocybe tarda Kühner
 
 ### Remarks
 null

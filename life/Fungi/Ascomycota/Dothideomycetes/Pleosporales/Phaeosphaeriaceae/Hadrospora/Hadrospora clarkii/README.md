@@ -1,14 +1,13 @@
-Trematosphaeria clarkii Sivan. SPECIES
-=======
+# Hadrospora clarkii (Sivan.) Boise SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Br. mycol. Soc. 67(3): 469 (1976)
+Mem. N. Y. bot. Gdn 49: 310 (1989)
 
 #### Original name
 Trematosphaeria clarkii Sivan.

@@ -1,5 +1,4 @@
-Catillaria hypochlorella (Vain.) Vain. SPECIES
-=======
+# Catillaria hypochlorella (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

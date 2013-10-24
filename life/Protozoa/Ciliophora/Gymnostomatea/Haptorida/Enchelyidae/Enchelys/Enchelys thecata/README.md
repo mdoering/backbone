@@ -1,5 +1,4 @@
-Enchelys thecata Kahl, 1926 SPECIES
-=======
+# Enchelys thecata Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

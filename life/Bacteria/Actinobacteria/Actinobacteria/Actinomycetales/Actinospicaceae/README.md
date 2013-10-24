@@ -1,5 +1,4 @@
-Actinospicaceae (Cavaletti, Monciardini, Schumann, Rohde, Bamonte, Busti, Sosio, Donadio, 2006) emend. Zhi, Li & Stackebrandt, 2009 FAMILY
-=======
+# Actinospicaceae (Cavaletti, Monciardini, Schumann, Rohde, Bamonte, Busti, Sosio, Donadio, 2006) emend. Zhi, Li & Stackebrandt, 2009 FAMILY
 
 #### Status
 ACCEPTED

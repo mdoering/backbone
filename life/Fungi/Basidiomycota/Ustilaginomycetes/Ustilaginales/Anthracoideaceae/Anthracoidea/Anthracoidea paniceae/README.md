@@ -1,5 +1,4 @@
-Anthracoidea paniceae Kukkonen, 1963 SPECIES
-=======
+# Anthracoidea paniceae Kukkonen, 1963 SPECIES
 
 #### Status
 ACCEPTED

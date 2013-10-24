@@ -1,5 +1,4 @@
-Physalospora polypori L.A. Kantsch. SPECIES
-=======
+# Physalospora polypori L.A. Kantsch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius pistorius Jul. Schäff. SPECIES
-=======
+# Cortinarius pistorius Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

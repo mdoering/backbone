@@ -1,5 +1,4 @@
-Russula appalachiensis Singer SPECIES
-=======
+# Russula appalachiensis Singer SPECIES
 
 #### Status
 ACCEPTED

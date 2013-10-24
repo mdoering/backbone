@@ -1,5 +1,4 @@
-Acineta elaverina Dumas, 1930 SPECIES
-=======
+# Acineta elaverina Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pteroconium intermedium M.B. Ellis, 1976 SPECIES
-=======
+# Pteroconium intermedium M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

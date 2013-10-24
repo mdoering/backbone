@@ -1,5 +1,4 @@
-Cercospora chenopodiicola Bres. SPECIES
-=======
+# Cercospora chenopodiicola Bres. SPECIES
 
 #### Status
 ACCEPTED

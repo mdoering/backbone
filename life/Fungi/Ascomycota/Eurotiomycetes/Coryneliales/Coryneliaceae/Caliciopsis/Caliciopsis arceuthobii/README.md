@@ -1,5 +1,4 @@
-Caliciopsis arceuthobii (Peck) M.E. Barr SPECIES
-=======
+# Caliciopsis arceuthobii (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

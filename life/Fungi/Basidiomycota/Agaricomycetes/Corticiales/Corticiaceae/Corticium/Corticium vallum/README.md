@@ -1,5 +1,4 @@
-Corticium vallum G. Cunn. SPECIES
-=======
+# Corticium vallum G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

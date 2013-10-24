@@ -1,5 +1,4 @@
-Cordyceps cantharelloides Samson & H.C. Evans SPECIES
-=======
+# Cordyceps cantharelloides Samson & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calocera variiformis Lloyd SPECIES
-=======
+# Calocera variiformis Lloyd SPECIES
 
 #### Status
 ACCEPTED

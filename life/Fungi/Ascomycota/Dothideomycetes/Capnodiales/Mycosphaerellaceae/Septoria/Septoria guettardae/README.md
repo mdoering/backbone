@@ -1,5 +1,4 @@
-Septoria guettardae Garman SPECIES
-=======
+# Septoria guettardae Garman SPECIES
 
 #### Status
 ACCEPTED

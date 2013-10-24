@@ -1,5 +1,4 @@
-Lopezmyxa Skvortzov, 1972 GENUS
-=======
+# Lopezmyxa Skvortzov, 1972 GENUS
 
 #### Status
 ACCEPTED

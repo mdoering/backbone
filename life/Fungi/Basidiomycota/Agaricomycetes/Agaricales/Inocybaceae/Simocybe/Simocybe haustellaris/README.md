@@ -1,17 +1,16 @@
-Simocybe rubi f. bispora FORM
-=======
+# Simocybe haustellaris (Fr.) Watling, 1981 SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Watling & Gregory, Biblthca Mycol. 82: 39 (1981)
 
 #### Original name
-null
+Agaricus haustellaris Fr., 1818
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodia torreyae-californicae Sandu SPECIES
-=======
+# Diplodia torreyae-californicae Sandu SPECIES
 
 #### Status
 ACCEPTED

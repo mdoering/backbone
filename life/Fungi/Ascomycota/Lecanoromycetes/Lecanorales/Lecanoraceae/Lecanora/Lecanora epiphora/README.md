@@ -1,5 +1,4 @@
-Lecanora epiphora Taylor SPECIES
-=======
+# Lecanora epiphora Taylor SPECIES
 
 #### Status
 ACCEPTED

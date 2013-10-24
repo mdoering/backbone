@@ -1,5 +1,4 @@
-Arnium inaequilaterale N. Lundq. SPECIES
-=======
+# Arnium inaequilaterale N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

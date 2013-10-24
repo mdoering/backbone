@@ -1,5 +1,4 @@
-Resupinatus physaroides Malençon, 1975 SPECIES
-=======
+# Resupinatus physaroides Malençon, 1975 SPECIES
 
 #### Status
 ACCEPTED

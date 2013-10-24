@@ -1,5 +1,4 @@
-Phyllosticta copaiferae Verpl. SPECIES
-=======
+# Phyllosticta copaiferae Verpl. SPECIES
 
 #### Status
 ACCEPTED

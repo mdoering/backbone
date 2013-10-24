@@ -1,5 +1,4 @@
-Dictyota plantaginea Lamouroux ex Frauenfeld, 1855 SPECIES
-=======
+# Dictyota plantaginea Lamouroux ex Frauenfeld, 1855 SPECIES
 
 #### Status
 ACCEPTED

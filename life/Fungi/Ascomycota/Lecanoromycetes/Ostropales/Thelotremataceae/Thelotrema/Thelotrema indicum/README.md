@@ -1,5 +1,4 @@
-Thelotrema indicum Hale SPECIES
-=======
+# Thelotrema indicum Hale SPECIES
 
 #### Status
 ACCEPTED

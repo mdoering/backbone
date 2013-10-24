@@ -1,5 +1,4 @@
-Glomus viscosum T.H. Nicolson, 1995 SPECIES
-=======
+# Glomus viscosum T.H. Nicolson, 1995 SPECIES
 
 #### Status
 ACCEPTED

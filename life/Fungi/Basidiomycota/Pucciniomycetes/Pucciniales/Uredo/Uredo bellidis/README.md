@@ -1,5 +1,4 @@
-Uredo bellidis Durieu & Mont. SPECIES
-=======
+# Uredo bellidis Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Catolechia pyxinoides Müll. Arg. SPECIES
-=======
+# Pyxine microspora Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Philipp. J. Sci. , C, Bot. 8: 110 (1913)
 
 #### Original name
-Catolechia pyxinoides Müll. Arg.
+Pyxine microspora Vain.
 
 ### Remarks
 null

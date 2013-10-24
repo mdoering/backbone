@@ -1,5 +1,4 @@
-Lecanora mansourae Stizenb. SPECIES
-=======
+# Lecanora mansourae Stizenb. SPECIES
 
 #### Status
 ACCEPTED

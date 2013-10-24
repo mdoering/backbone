@@ -1,5 +1,4 @@
-Sphaerella infuscans Ellis & Everh. SPECIES
-=======
+# Sphaerella infuscans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

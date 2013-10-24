@@ -1,5 +1,4 @@
-Planifilum Hatayama, Shoun, Ueda & Nakamura, 2005 GENUS
-=======
+# Planifilum Hatayama, Shoun, Ueda & Nakamura, 2005 GENUS
 
 #### Status
 ACCEPTED

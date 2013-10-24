@@ -1,5 +1,4 @@
-Tetraktis aktinastroides Pascher SPECIES
-=======
+# Tetraktis aktinastroides Pascher SPECIES
 
 #### Status
 ACCEPTED

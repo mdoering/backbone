@@ -1,5 +1,4 @@
-Schiffnerula hendrickxii (Hansf.) S. Hughes SPECIES
-=======
+# Schiffnerula hendrickxii (Hansf.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

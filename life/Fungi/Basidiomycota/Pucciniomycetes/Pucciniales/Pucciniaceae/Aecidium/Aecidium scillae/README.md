@@ -1,5 +1,4 @@
-Aecidium scillae Fuckel SPECIES
-=======
+# Aecidium scillae Fuckel SPECIES
 
 #### Status
 ACCEPTED

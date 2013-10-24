@@ -1,5 +1,4 @@
-Psathyra sonderiana (Berk.) Sacc. SPECIES
-=======
+# Psathyra sonderiana (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

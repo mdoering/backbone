@@ -1,5 +1,4 @@
-Microthyriolum equatoriense Bat. SPECIES
-=======
+# Microthyriolum equatoriense Bat. SPECIES
 
 #### Status
 ACCEPTED

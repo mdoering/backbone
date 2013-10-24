@@ -1,5 +1,4 @@
-Phaeomarasmius parvuliformis (Murrill) Singer SPECIES
-=======
+# Phaeomarasmius parvuliformis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

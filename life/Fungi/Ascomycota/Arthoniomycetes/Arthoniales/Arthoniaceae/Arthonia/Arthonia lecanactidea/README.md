@@ -1,5 +1,4 @@
-Arthonia lecanactidea Zahlbr. SPECIES
-=======
+# Arthonia lecanactidea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

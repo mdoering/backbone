@@ -1,5 +1,4 @@
-Hansfordiopeltis Bat. & C.A.A. Costa GENUS
-=======
+# Hansfordiopeltis Bat. & C.A.A. Costa GENUS
 
 #### Status
 ACCEPTED

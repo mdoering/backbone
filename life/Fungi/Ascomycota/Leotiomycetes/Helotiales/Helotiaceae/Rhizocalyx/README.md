@@ -1,5 +1,4 @@
-Rhizocalyx Petr. GENUS
-=======
+# Rhizocalyx Petr. GENUS
 
 #### Status
 ACCEPTED

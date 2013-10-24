@@ -1,5 +1,4 @@
-Anthostoma pseudocubiculare Woron. SPECIES
-=======
+# Anthostoma pseudocubiculare Woron. SPECIES
 
 #### Status
 ACCEPTED

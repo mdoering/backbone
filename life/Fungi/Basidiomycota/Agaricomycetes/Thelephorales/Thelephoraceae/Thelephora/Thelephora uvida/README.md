@@ -1,5 +1,4 @@
-Thelephora uvida Fr. SPECIES
-=======
+# Thelephora uvida Fr. SPECIES
 
 #### Status
 ACCEPTED

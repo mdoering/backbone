@@ -1,5 +1,4 @@
-Alternaria nelumbii Enlows & F.V. Rand, 1921 SPECIES
-=======
+# Alternaria nelumbii Enlows & F.V. Rand, 1921 SPECIES
 
 #### Status
 ACCEPTED

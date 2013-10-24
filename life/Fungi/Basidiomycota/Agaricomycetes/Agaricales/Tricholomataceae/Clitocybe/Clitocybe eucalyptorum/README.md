@@ -1,14 +1,13 @@
-Leucopaxillus eucalyptorum (Cleland) Grgur., 1997 SPECIES
-=======
+# Clitocybe eucalyptorum Cleland, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Larger Fungi of South Australia (Adelaide) 363 (1997)
+Trans. & Proc. Roy. Soc. S. Australia 55: 154 (1931)
 
 #### Original name
 Clitocybe eucalyptorum Cleland, 1931

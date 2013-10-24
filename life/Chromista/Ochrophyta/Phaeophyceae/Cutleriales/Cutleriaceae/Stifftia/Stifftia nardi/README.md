@@ -1,5 +1,4 @@
-Stifftia nardi Zani SPECIES
-=======
+# Stifftia nardi Zani SPECIES
 
 #### Status
 ACCEPTED

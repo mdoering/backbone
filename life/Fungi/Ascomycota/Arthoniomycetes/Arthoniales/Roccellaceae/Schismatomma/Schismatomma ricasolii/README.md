@@ -1,5 +1,4 @@
-Schismatomma ricasolii (A. Massal.) Egea & Torrente SPECIES
-=======
+# Schismatomma ricasolii (A. Massal.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

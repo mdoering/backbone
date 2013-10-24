@@ -1,5 +1,4 @@
-Hypotrachyna nilgherrense (Nyl.) Hale SPECIES
-=======
+# Hypotrachyna nilgherrense (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

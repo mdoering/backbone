@@ -1,5 +1,4 @@
-Sporidesmium creticum B. Sutton SPECIES
-=======
+# Sporidesmium creticum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

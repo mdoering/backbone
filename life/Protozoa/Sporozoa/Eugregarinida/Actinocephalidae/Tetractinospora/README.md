@@ -1,5 +1,4 @@
-Tetractinospora Sarkar & Haldar, 1981 GENUS
-=======
+# Tetractinospora Sarkar & Haldar, 1981 GENUS
 
 #### Status
 ACCEPTED

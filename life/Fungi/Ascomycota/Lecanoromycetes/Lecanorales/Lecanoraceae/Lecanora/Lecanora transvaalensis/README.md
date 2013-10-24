@@ -1,5 +1,4 @@
-Lecanora transvaalensis Lumbsch SPECIES
-=======
+# Lecanora transvaalensis Lumbsch SPECIES
 
 #### Status
 ACCEPTED

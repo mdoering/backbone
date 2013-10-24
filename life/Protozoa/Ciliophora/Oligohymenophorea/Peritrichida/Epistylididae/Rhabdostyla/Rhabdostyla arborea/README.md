@@ -1,5 +1,4 @@
-Rhabdostyla arborea Greef, 1888 SPECIES
-=======
+# Rhabdostyla arborea Greef, 1888 SPECIES
 
 #### Status
 ACCEPTED

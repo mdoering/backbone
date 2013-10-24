@@ -1,5 +1,4 @@
-Entomophthora jaapiana Bubák SPECIES
-=======
+# Entomophthora jaapiana Bubák SPECIES
 
 #### Status
 ACCEPTED

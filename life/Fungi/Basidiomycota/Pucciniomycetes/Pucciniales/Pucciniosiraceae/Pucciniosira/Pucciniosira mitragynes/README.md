@@ -1,5 +1,4 @@
-Pucciniosira mitragynes (Dietel) Dietel ex P. Syd. & Syd. SPECIES
-=======
+# Pucciniosira mitragynes (Dietel) Dietel ex P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

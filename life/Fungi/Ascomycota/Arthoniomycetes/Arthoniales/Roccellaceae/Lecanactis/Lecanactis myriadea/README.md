@@ -1,5 +1,4 @@
-Lecanactis myriadea (Fée) Zahlbr. SPECIES
-=======
+# Lecanactis myriadea (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

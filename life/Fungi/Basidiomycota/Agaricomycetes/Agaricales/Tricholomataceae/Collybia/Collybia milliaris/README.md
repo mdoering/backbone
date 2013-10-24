@@ -1,5 +1,4 @@
-Collybia milliaris Velen. SPECIES
-=======
+# Collybia milliaris Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca mortariicola B. de Lesd. SPECIES
-=======
+# Caloplaca mortariicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

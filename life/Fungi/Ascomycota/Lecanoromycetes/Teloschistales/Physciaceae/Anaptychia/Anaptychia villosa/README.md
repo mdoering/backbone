@@ -1,5 +1,4 @@
-Anaptychia villosa (Ach.) Boistel SPECIES
-=======
+# Anaptychia villosa (Ach.) Boistel SPECIES
 
 #### Status
 ACCEPTED

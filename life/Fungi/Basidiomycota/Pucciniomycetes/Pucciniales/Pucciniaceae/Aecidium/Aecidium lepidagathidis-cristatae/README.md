@@ -1,5 +1,4 @@
-Aecidium lepidagathidis-cristatae P.B. Chavan SPECIES
-=======
+# Aecidium lepidagathidis-cristatae P.B. Chavan SPECIES
 
 #### Status
 ACCEPTED

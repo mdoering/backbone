@@ -1,5 +1,4 @@
-Stylocromium Haeckel, 1887 GENUS
-=======
+# Stylocromium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

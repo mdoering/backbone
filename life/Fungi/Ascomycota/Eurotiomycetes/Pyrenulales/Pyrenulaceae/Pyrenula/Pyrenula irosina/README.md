@@ -1,5 +1,4 @@
-Pyrenula irosina SPECIES
-=======
+# Pyrenula irosina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clorotheciaceae FAMILY
-=======
+# Clorotheciaceae FAMILY
 
 #### Status
 ACCEPTED

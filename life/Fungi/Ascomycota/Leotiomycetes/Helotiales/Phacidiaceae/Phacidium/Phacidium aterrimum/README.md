@@ -1,5 +1,4 @@
-Phacidium aterrimum (Fuckel) Sacc. SPECIES
-=======
+# Phacidium aterrimum (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

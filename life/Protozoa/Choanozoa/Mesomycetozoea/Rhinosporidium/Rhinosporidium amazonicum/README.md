@@ -1,5 +1,4 @@
-Rhinosporidium amazonicum Aben-Ather {?} SPECIES
-=======
+# Rhinosporidium amazonicum Aben-Ather {?} SPECIES
 
 #### Status
 ACCEPTED

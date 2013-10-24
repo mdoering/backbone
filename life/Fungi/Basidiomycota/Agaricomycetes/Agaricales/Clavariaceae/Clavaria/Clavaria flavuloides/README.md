@@ -1,5 +1,4 @@
-Clavaria flavuloides Burt SPECIES
-=======
+# Clavaria flavuloides Burt SPECIES
 
 #### Status
 ACCEPTED

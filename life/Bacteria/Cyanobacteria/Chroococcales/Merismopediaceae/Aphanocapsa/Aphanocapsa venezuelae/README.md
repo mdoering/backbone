@@ -1,5 +1,4 @@
-Aphanocapsa venezuelae Schiller SPECIES
-=======
+# Aphanocapsa venezuelae Schiller SPECIES
 
 #### Status
 ACCEPTED

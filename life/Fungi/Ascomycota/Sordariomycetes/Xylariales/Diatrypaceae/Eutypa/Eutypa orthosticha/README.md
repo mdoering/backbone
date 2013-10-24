@@ -1,5 +1,4 @@
-Eutypa orthosticha (Mont.) Rappaz SPECIES
-=======
+# Eutypa orthosticha (Mont.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

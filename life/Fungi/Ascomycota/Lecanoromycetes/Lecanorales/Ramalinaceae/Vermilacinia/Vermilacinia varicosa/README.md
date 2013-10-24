@@ -1,5 +1,4 @@
-Vermilacinia varicosa Spjut SPECIES
-=======
+# Vermilacinia varicosa Spjut SPECIES
 
 #### Status
 ACCEPTED

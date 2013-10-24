@@ -1,5 +1,4 @@
-Melanconiopsis olivacea (G.H. Otth) Petr. & Syd. SPECIES
-=======
+# Melanconiopsis olivacea (G.H. Otth) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

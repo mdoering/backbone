@@ -1,5 +1,4 @@
-Lachnea caespitosa Velen. SPECIES
-=======
+# Lachnea caespitosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglenales ORDER
-=======
+# Euglenales ORDER
 
 #### Status
 ACCEPTED

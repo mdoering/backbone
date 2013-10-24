@@ -1,5 +1,4 @@
-Coryne sarothamni Velen. SPECIES
-=======
+# Coryne sarothamni Velen. SPECIES
 
 #### Status
 ACCEPTED

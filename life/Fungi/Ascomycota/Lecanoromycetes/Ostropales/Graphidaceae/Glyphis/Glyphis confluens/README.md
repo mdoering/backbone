@@ -1,5 +1,4 @@
-Glyphis confluens SPECIES
-=======
+# Glyphis confluens SPECIES
 
 #### Status
 ACCEPTED

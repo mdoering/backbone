@@ -1,5 +1,4 @@
-Papenfussiella tristanensis Kylin SPECIES
-=======
+# Papenfussiella tristanensis Kylin SPECIES
 
 #### Status
 ACCEPTED

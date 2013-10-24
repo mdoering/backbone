@@ -1,5 +1,4 @@
-Russula hygrophytica Pegler SPECIES
-=======
+# Russula hygrophytica Pegler SPECIES
 
 #### Status
 ACCEPTED

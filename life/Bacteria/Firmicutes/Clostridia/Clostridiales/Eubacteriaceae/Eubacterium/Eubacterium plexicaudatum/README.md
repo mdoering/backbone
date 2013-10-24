@@ -1,5 +1,4 @@
-Eubacterium plexicaudatum Wilkins et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Eubacterium plexicaudatum Wilkins et al., 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

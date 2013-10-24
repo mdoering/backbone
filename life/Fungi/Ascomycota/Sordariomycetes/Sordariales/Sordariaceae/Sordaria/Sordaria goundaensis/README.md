@@ -1,17 +1,16 @@
-Sordaria goundaensis var. goundaensis Cailleux VARIETY
-=======
+# Sordaria goundaensis Cailleux, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. trimest. Soc. mycol. Fr. 87(4): 620 (1972)
 
 #### Original name
-Sordaria goundaensis var. goundaensis Cailleux
+Sordaria goundaensis Cailleux, 1972
 
 ### Remarks
 null

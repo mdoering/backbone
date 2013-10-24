@@ -1,5 +1,4 @@
-Microcoleus chtonoplastes (Mertens) Zanardini SPECIES
-=======
+# Microcoleus chtonoplastes (Mertens) Zanardini SPECIES
 
 #### Status
 ACCEPTED

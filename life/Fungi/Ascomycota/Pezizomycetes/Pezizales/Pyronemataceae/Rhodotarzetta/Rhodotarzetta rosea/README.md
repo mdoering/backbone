@@ -1,14 +1,13 @@
-Pustularia rosea Rea, 1924 SPECIES
-=======
+# Rhodotarzetta rosea (Rea) Dissing & Sivertsen, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 16(2): 456 (1983)
 
 #### Original name
 Pustularia rosea Rea, 1924

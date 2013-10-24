@@ -1,5 +1,4 @@
-Phomopsis fourcroyae Sacc. SPECIES
-=======
+# Phomopsis fourcroyae Sacc. SPECIES
 
 #### Status
 ACCEPTED

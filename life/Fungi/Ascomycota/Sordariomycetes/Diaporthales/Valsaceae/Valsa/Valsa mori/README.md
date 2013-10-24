@@ -1,5 +1,4 @@
-Valsa mori Sawada SPECIES
-=======
+# Valsa mori Sawada SPECIES
 
 #### Status
 ACCEPTED

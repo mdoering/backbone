@@ -1,5 +1,4 @@
-Phyllosticta wigandiae Thüm. SPECIES
-=======
+# Phyllosticta wigandiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

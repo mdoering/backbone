@@ -1,5 +1,4 @@
-Heterosestrum Clark & Campbell, 1945 GENUS
-=======
+# Heterosestrum Clark & Campbell, 1945 GENUS
 
 #### Status
 ACCEPTED

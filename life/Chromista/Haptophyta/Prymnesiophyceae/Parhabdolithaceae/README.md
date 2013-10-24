@@ -1,5 +1,4 @@
-Parhabdolithaceae Bown, 1987 FAMILY
-=======
+# Parhabdolithaceae Bown, 1987 FAMILY
 
 #### Status
 ACCEPTED

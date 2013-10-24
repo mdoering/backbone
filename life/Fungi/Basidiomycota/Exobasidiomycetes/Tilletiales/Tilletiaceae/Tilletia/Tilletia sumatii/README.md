@@ -1,14 +1,13 @@
-Neovossia sumatii S.D. Patil & Gandhe, 1977 SPECIES
-=======
+# Tilletia sumatii (S.D. Patil & Gandhe) Vánky, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Maharashtra Vidnyan Mandir, Patrika 12(2): 46 (1977)
+Mycotaxon 54: 234 (1995)
 
 #### Original name
 Neovossia sumatii S.D. Patil & Gandhe, 1977

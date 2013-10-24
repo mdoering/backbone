@@ -1,17 +1,16 @@
-Collema ruginosum Dufour ex Schaer. SPECIES
-=======
+# Leptogium brebissonii Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. helv. spicil. 11: 523 (1842)
+in Webb & Berthold, Hist. nat. Iles Canar. (Paris) 3(2): 130 (1840)
 
 #### Original name
-Collema ruginosum Dufour ex Schaer.
+Leptogium brebissonii Mont.
 
 ### Remarks
 null

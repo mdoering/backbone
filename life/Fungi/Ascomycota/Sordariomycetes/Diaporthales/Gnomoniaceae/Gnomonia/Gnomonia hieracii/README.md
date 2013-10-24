@@ -1,5 +1,4 @@
-Gnomonia hieracii Feltgen SPECIES
-=======
+# Gnomonia hieracii Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichobasis gaurina Peck SPECIES
-=======
+# Trichobasis gaurina Peck SPECIES
 
 #### Status
 ACCEPTED

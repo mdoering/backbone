@@ -1,5 +1,4 @@
-Lecanora banatica (Gyeln.) Zahlbr. SPECIES
-=======
+# Lecanora banatica (Gyeln.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

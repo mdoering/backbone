@@ -1,5 +1,4 @@
-Lagenosolenia auxillata McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia auxillata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

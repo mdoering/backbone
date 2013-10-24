@@ -1,5 +1,4 @@
-Asterostomella flacourtiarum Petr. SPECIES
-=======
+# Asterostomella flacourtiarum Petr. SPECIES
 
 #### Status
 ACCEPTED

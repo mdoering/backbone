@@ -1,5 +1,4 @@
-Leiosphaeridia umariensis Lele & Chandra, 1972 SPECIES
-=======
+# Leiosphaeridia umariensis Lele & Chandra, 1972 SPECIES
 
 #### Status
 ACCEPTED

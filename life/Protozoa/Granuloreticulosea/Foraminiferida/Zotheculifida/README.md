@@ -1,5 +1,4 @@
-Zotheculifida Loeblich & Tappan, 1957 GENUS
-=======
+# Zotheculifida Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

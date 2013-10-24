@@ -1,5 +1,4 @@
-Verrucaria fungiformis (Scop.) SPECIES
-=======
+# Verrucaria fungiformis (Scop.) SPECIES
 
 #### Status
 ACCEPTED

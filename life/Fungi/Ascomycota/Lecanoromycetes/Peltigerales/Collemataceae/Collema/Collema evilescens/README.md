@@ -1,5 +1,4 @@
-Collema evilescens Nyl. SPECIES
-=======
+# Collema evilescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

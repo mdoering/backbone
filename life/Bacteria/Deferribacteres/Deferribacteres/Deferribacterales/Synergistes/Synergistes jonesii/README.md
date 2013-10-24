@@ -1,5 +1,4 @@
-Synergistes jonesii Allison et al., 1993 SPECIES
-=======
+# Synergistes jonesii Allison et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

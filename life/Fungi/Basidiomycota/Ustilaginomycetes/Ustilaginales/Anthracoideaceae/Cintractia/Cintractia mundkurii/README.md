@@ -1,8 +1,7 @@
-Cintractia mundkuri Chowdhury {?} SPECIES
-=======
+# Cintractia mundkurii Chowdhury {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cintractia mundkuri Chowdhury {?}
+Cintractia mundkurii Chowdhury {?}
 
 ### Remarks
 null

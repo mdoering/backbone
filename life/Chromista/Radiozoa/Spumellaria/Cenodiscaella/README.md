@@ -1,5 +1,4 @@
-Cenodiscaella GENUS
-=======
+# Cenodiscaella GENUS
 
 #### Status
 ACCEPTED

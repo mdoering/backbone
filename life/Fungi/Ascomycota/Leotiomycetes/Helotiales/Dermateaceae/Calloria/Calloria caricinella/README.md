@@ -1,5 +1,4 @@
-Calloria caricinella (Peck) Seaver SPECIES
-=======
+# Calloria caricinella (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

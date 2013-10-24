@@ -1,5 +1,4 @@
-Lecanora flavicans (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora flavicans (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

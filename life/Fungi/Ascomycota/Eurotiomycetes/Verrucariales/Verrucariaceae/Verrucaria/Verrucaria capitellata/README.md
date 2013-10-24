@@ -1,5 +1,4 @@
-Verrucaria capitellata Hoffm. SPECIES
-=======
+# Verrucaria capitellata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

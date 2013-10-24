@@ -1,5 +1,4 @@
-Verrucaria bigorrensis Zschacke SPECIES
-=======
+# Verrucaria bigorrensis Zschacke SPECIES
 
 #### Status
 ACCEPTED

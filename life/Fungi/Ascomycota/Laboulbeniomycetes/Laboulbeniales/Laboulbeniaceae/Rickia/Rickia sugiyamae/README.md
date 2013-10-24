@@ -1,5 +1,4 @@
-Rickia sugiyamae I.I. Tav. SPECIES
-=======
+# Rickia sugiyamae I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Stereocaulon novo-arbuscula Asahina SPECIES
-=======
+# Stereocaulon novoarbuscula Asahina SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon novo-arbuscula Asahina
+Stereocaulon novoarbuscula Asahina
 
 ### Remarks
 null

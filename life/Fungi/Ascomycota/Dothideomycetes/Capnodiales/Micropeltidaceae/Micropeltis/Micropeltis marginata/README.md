@@ -1,5 +1,4 @@
-Micropeltis marginata Mont. SPECIES
-=======
+# Micropeltis marginata Mont. SPECIES
 
 #### Status
 ACCEPTED

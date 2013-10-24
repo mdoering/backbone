@@ -1,5 +1,4 @@
-Sphaerulina caricae Hara SPECIES
-=======
+# Sphaerulina caricae Hara SPECIES
 
 #### Status
 ACCEPTED

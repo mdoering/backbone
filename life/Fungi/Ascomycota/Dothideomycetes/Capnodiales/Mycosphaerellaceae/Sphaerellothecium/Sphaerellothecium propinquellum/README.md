@@ -1,14 +1,13 @@
-Sphaeria propinquella Nyl., 1858 SPECIES
-=======
+# Sphaerellothecium propinquellum (Nyl.) Cl. Roux & Triebel, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Nylander & Saelan, Not. Sällsk. Fauna et Fl. Fenn. Förh. 4: 112 (1858)
+Bull. Soc. linn. Provence 45: 530 (1994)
 
 #### Original name
 Sphaeria propinquella Nyl., 1858

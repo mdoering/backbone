@@ -1,5 +1,4 @@
-Stictis hypodermia Bres. SPECIES
-=======
+# Stictis hypodermia Bres. SPECIES
 
 #### Status
 ACCEPTED

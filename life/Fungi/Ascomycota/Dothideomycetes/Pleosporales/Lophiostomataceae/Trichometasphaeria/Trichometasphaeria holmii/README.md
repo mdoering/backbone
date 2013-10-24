@@ -1,5 +1,4 @@
-Trichometasphaeria holmii Luttr., 1963 SPECIES
-=======
+# Trichometasphaeria holmii Luttr., 1963 SPECIES
 
 #### Status
 ACCEPTED

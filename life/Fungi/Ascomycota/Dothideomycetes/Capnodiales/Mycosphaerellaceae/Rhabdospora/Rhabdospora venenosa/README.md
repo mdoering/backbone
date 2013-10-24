@@ -1,5 +1,4 @@
-Rhabdospora venenosa Speg. SPECIES
-=======
+# Rhabdospora venenosa Speg. SPECIES
 
 #### Status
 ACCEPTED

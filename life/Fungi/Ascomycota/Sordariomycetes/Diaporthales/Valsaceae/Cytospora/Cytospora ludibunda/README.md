@@ -1,5 +1,4 @@
-Cytospora ludibunda Sacc. SPECIES
-=======
+# Cytospora ludibunda Sacc. SPECIES
 
 #### Status
 ACCEPTED

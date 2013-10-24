@@ -1,5 +1,4 @@
-Edwardsiella tarda Ewing and McWhorter, 1965 (Approved Lists, 1980) SPECIES
-=======
+# Edwardsiella tarda Ewing and McWhorter, 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

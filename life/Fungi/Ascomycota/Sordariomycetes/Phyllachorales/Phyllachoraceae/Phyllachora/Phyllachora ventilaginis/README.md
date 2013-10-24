@@ -1,5 +1,4 @@
-Phyllachora ventilaginis T.S. Ramakr. & Sundaram, 1954 SPECIES
-=======
+# Phyllachora ventilaginis T.S. Ramakr. & Sundaram, 1954 SPECIES
 
 #### Status
 ACCEPTED

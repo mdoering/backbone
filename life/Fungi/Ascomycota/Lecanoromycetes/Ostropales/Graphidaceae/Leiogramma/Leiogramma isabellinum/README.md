@@ -1,5 +1,4 @@
-Leiogramma isabellinum Eschw. SPECIES
-=======
+# Leiogramma isabellinum Eschw. SPECIES
 
 #### Status
 ACCEPTED

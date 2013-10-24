@@ -1,5 +1,4 @@
-Aecidium maprouneae Henn. SPECIES
-=======
+# Aecidium maprouneae Henn. SPECIES
 
 #### Status
 ACCEPTED

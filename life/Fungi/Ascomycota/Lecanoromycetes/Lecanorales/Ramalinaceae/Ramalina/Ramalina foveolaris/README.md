@@ -1,5 +1,4 @@
-Ramalina foveolaris (Müll. Arg.) Vain. SPECIES
-=======
+# Ramalina foveolaris (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

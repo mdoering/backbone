@@ -1,5 +1,4 @@
-Diplodina persicae N.L. Horn & Hawth. SPECIES
-=======
+# Diplodina persicae N.L. Horn & Hawth. SPECIES
 
 #### Status
 ACCEPTED

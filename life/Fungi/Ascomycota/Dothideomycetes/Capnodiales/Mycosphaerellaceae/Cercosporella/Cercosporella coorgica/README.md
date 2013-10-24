@@ -1,5 +1,4 @@
-Cercosporella coorgica Muthappa SPECIES
-=======
+# Cercosporella coorgica Muthappa SPECIES
 
 #### Status
 ACCEPTED

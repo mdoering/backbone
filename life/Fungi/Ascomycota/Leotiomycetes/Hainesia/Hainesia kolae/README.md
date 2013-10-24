@@ -1,5 +1,4 @@
-Hainesia kolae Speg. SPECIES
-=======
+# Hainesia kolae Speg. SPECIES
 
 #### Status
 ACCEPTED

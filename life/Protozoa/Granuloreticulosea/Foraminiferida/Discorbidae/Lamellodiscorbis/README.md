@@ -1,5 +1,4 @@
-Lamellodiscorbis Bermudez, 1952 GENUS
-=======
+# Lamellodiscorbis Bermudez, 1952 GENUS
 
 #### Status
 ACCEPTED

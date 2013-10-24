@@ -1,5 +1,4 @@
-Haplopeltis GENUS
-=======
+# Haplopeltis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus senilis Fr. SPECIES
-=======
+# Agaricus senilis Fr. SPECIES
 
 #### Status
 ACCEPTED

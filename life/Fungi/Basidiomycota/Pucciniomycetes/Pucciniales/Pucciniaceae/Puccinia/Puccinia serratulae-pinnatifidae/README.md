@@ -1,5 +1,4 @@
-Puccinia serratulae-pinnatifidae Gonz. Frag. SPECIES
-=======
+# Puccinia serratulae-pinnatifidae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

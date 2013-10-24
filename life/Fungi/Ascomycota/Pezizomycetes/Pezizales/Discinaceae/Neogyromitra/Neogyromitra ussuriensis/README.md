@@ -1,5 +1,4 @@
-Neogyromitra ussuriensis (Lj.N. Vassiljeva) Raitv. SPECIES
-=======
+# Neogyromitra ussuriensis (Lj.N. Vassiljeva) Raitv. SPECIES
 
 #### Status
 ACCEPTED

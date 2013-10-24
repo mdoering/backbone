@@ -1,5 +1,4 @@
-Lecanactis ulcerata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanactis ulcerata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

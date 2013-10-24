@@ -1,5 +1,4 @@
-Neococcolithes nudus Perch-Nielsen, 1971 SPECIES
-=======
+# Neococcolithes nudus Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

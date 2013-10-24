@@ -1,5 +1,4 @@
-Fusidium inaequale Auersw. SPECIES
-=======
+# Fusidium inaequale Auersw. SPECIES
 
 #### Status
 ACCEPTED

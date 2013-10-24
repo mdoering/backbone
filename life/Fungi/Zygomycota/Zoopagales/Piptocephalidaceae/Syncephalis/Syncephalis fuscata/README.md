@@ -1,5 +1,4 @@
-Syncephalis fuscata Indoh, 1962 SPECIES
-=======
+# Syncephalis fuscata Indoh, 1962 SPECIES
 
 #### Status
 ACCEPTED

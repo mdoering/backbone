@@ -1,5 +1,4 @@
-Omphalodium mutabile (Taylor) Minks SPECIES
-=======
+# Omphalodium mutabile (Taylor) Minks SPECIES
 
 #### Status
 ACCEPTED

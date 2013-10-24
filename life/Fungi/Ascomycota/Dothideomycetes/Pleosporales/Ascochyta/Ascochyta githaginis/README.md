@@ -1,5 +1,4 @@
-Ascochyta githaginis Hollós SPECIES
-=======
+# Ascochyta githaginis Hollós SPECIES
 
 #### Status
 ACCEPTED

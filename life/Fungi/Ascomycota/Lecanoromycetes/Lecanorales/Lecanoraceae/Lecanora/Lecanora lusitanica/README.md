@@ -1,5 +1,4 @@
-Lecanora lusitanica SPECIES
-=======
+# Lecanora lusitanica SPECIES
 
 #### Status
 ACCEPTED

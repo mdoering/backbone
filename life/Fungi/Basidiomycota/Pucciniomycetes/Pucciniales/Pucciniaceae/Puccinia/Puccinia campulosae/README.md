@@ -1,5 +1,4 @@
-Puccinia campulosae Thüm. SPECIES
-=======
+# Puccinia campulosae Thüm. SPECIES
 
 #### Status
 ACCEPTED

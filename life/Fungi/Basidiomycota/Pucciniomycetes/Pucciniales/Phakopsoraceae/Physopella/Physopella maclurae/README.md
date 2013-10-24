@@ -1,5 +1,4 @@
-Physopella maclurae Arthur SPECIES
-=======
+# Physopella maclurae Arthur SPECIES
 
 #### Status
 ACCEPTED

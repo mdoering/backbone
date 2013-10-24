@@ -1,5 +1,4 @@
-Alternaria malvae Roum. & Letell., 1885 SPECIES
-=======
+# Alternaria malvae Roum. & Letell., 1885 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen retiger Bory SPECIES
-=======
+# Lichen retiger Bory SPECIES
 
 #### Status
 ACCEPTED

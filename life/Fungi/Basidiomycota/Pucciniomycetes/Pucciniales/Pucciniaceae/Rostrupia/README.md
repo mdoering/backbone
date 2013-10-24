@@ -1,5 +1,4 @@
-Rostrupia GENUS
-=======
+# Rostrupia GENUS
 
 #### Status
 ACCEPTED

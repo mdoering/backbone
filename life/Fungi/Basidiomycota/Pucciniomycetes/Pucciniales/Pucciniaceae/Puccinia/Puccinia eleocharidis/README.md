@@ -1,5 +1,4 @@
-Puccinia eleocharidis Arthur SPECIES
-=======
+# Puccinia eleocharidis Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xyloma cupulatum Fr. SPECIES
-=======
+# Xyloma cupulatum Fr. SPECIES
 
 #### Status
 ACCEPTED

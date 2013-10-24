@@ -1,5 +1,4 @@
-Diaporthe inornata Peck SPECIES
-=======
+# Diaporthe inornata Peck SPECIES
 
 #### Status
 ACCEPTED

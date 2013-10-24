@@ -1,5 +1,4 @@
-Sarcoscypha alpina Ellis & Everh. SPECIES
-=======
+# Sarcoscypha alpina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

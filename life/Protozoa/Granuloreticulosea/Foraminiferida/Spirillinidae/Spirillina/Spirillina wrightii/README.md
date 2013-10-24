@@ -1,5 +1,4 @@
-Spirillina wrightii Heron-Allen & Earland, 1930 SPECIES
-=======
+# Spirillina wrightii Heron-Allen & Earland, 1930 SPECIES
 
 #### Status
 ACCEPTED

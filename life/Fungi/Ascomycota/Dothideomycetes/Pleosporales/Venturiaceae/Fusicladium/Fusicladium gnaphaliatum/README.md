@@ -1,5 +1,4 @@
-Fusicladium gnaphaliatum Bonar SPECIES
-=======
+# Fusicladium gnaphaliatum Bonar SPECIES
 
 #### Status
 ACCEPTED

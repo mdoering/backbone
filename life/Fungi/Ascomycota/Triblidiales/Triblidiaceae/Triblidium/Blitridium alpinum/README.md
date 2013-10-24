@@ -1,5 +1,4 @@
-Blitridium alpinum (Hazsl.) Sacc. SPECIES
-=======
+# Blitridium alpinum (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium chisha Y. Nisik. & Hiura ex Y. Nisik. SPECIES
-=======
+# Stemphylium chisha Y. Nisik. & Hiura ex Y. Nisik. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe cokeri Hesler SPECIES
-=======
+# Clitocybe cokeri Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora malpighiae-glabrae U. Braun & Crous SPECIES
-=======
+# Passalora malpighiae-glabrae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

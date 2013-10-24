@@ -1,5 +1,4 @@
-Corethromyces circinellus Thaxt. SPECIES
-=======
+# Corethromyces circinellus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

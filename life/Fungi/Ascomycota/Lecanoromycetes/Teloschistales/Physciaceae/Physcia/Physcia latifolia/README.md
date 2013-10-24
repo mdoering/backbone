@@ -1,5 +1,4 @@
-Physcia latifolia M. Steiner & Poelt SPECIES
-=======
+# Physcia latifolia M. Steiner & Poelt SPECIES
 
 #### Status
 ACCEPTED

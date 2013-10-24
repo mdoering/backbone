@@ -1,5 +1,4 @@
-Chiodecton irregulare Zahlbr. SPECIES
-=======
+# Chiodecton irregulare Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

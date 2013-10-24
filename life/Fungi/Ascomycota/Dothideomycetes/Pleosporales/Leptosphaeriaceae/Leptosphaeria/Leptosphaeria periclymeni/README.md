@@ -1,17 +1,16 @@
-Leptosphaeria periclymeni var. tatarica Potebnia VARIETY
-=======
+# Leptosphaeria periclymeni Oudem., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 5(1): 14 (1907)
+null
 
 #### Original name
-Leptosphaeria periclymeni var. tatarica Potebnia
+Leptosphaeria periclymeni Oudem., 1888
 
 ### Remarks
 null

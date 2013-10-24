@@ -1,5 +1,4 @@
-Iodophanus magniverrucosus Aas SPECIES
-=======
+# Iodophanus magniverrucosus Aas SPECIES
 
 #### Status
 ACCEPTED

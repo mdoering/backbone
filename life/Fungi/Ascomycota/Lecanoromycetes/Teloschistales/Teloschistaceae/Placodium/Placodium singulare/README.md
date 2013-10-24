@@ -1,5 +1,4 @@
-Placodium singulare B. de Lesd. SPECIES
-=======
+# Placodium singulare B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria peruviana Cooke SPECIES
-=======
+# Sphaeria peruviana Cooke SPECIES
 
 #### Status
 ACCEPTED

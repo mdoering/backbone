@@ -1,5 +1,4 @@
-Astrothelium pseudocyphellatum R.C. Harris SPECIES
-=======
+# Astrothelium pseudocyphellatum R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

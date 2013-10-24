@@ -1,5 +1,4 @@
-Mycomater Fr. GENUS
-=======
+# Mycomater Fr. GENUS
 
 #### Status
 ACCEPTED

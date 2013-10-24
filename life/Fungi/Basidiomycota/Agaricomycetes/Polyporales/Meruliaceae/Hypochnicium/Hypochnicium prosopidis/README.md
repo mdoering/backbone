@@ -1,5 +1,4 @@
-Hypochnicium prosopidis Burds. SPECIES
-=======
+# Hypochnicium prosopidis Burds. SPECIES
 
 #### Status
 ACCEPTED

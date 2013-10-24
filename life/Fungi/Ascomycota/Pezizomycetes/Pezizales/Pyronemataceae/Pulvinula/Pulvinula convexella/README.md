@@ -1,17 +1,16 @@
-Barlaea constellatio var. constellatio VARIETY
-=======
+# Pulvinula convexella (P. Karst.) Pfister, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 111 (1889)
+Occ. Pap. Farlow Herb. Crypt. Bot. 9: 9 (1976)
 
 #### Original name
-Barlaea constellatio var. constellatio
+Peziza convexella P. Karst., 1869
 
 ### Remarks
 null

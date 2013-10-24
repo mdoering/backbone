@@ -1,5 +1,4 @@
-Cenangium glabrum (Wallr.) Rehm SPECIES
-=======
+# Cenangium glabrum (Wallr.) Rehm SPECIES
 
 #### Status
 ACCEPTED

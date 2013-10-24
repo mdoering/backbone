@@ -1,5 +1,4 @@
-Skeletonema styliferum SPECIES
-=======
+# Skeletonema styliferum SPECIES
 
 #### Status
 ACCEPTED

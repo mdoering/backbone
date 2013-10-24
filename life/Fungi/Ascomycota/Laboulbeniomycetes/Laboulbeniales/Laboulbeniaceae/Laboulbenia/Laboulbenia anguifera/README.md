@@ -1,5 +1,4 @@
-Laboulbenia anguifera Thaxt. SPECIES
-=======
+# Laboulbenia anguifera Thaxt. SPECIES
 
 #### Status
 ACCEPTED

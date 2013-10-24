@@ -1,5 +1,4 @@
-Cytospora querna Sacc. SPECIES
-=======
+# Cytospora querna Sacc. SPECIES
 
 #### Status
 ACCEPTED

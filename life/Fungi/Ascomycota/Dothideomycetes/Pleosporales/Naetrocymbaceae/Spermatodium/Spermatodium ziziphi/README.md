@@ -1,14 +1,13 @@
-Spermatodium zyziphi (A. Massal.) Trevis. SPECIES
-=======
+# Spermatodium ziziphi (A. Massal.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Conspectus Verruc. 12 (1860)
 
 #### Original name
 Sagedia ziziphi A. Massal.

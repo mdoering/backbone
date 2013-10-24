@@ -1,5 +1,4 @@
-Protoblastenia geitleri Zahlbr. SPECIES
-=======
+# Protoblastenia geitleri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

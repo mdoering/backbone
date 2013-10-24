@@ -1,5 +1,4 @@
-Rostronitschkia Fitzp. GENUS
-=======
+# Rostronitschkia Fitzp. GENUS
 
 #### Status
 ACCEPTED

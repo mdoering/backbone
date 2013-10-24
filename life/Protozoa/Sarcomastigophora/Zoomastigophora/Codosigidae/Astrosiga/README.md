@@ -1,5 +1,4 @@
-Astrosiga W.S.Kent GENUS
-=======
+# Astrosiga W.S.Kent GENUS
 
 #### Status
 ACCEPTED

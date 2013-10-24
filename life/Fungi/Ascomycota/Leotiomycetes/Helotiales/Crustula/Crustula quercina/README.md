@@ -1,5 +1,4 @@
-Crustula quercina Velen. SPECIES
-=======
+# Crustula quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

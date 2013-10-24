@@ -1,5 +1,4 @@
-Asterinella diospyrina Hansf. SPECIES
-=======
+# Asterinella diospyrina Hansf. SPECIES
 
 #### Status
 ACCEPTED

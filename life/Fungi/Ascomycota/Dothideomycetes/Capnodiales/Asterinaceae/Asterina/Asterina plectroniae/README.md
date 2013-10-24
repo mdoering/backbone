@@ -1,5 +1,4 @@
-Asterina plectroniae J.M. Mend. SPECIES
-=======
+# Asterina plectroniae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria capsularum Schwein. SPECIES
-=======
+# Sphaeria capsularum Schwein. SPECIES
 
 #### Status
 ACCEPTED

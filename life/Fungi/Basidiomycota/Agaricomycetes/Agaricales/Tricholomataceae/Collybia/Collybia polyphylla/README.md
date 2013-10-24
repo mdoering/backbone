@@ -1,5 +1,4 @@
-Collybia polyphylla (Peck) Singer ex Halling SPECIES
-=======
+# Collybia polyphylla (Peck) Singer ex Halling SPECIES
 
 #### Status
 ACCEPTED

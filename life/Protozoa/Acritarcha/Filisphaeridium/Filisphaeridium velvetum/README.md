@@ -1,5 +1,4 @@
-Filisphaeridium velvetum (Mocyzdlowska, 1988) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium velvetum (Mocyzdlowska, 1988) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

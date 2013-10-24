@@ -1,5 +1,4 @@
-Usnea propagulifera C.W. Dodge SPECIES
-=======
+# Usnea propagulifera C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

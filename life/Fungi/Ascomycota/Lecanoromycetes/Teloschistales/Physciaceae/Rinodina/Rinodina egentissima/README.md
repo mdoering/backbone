@@ -1,5 +1,4 @@
-Rinodina egentissima SPECIES
-=======
+# Rinodina egentissima SPECIES
 
 #### Status
 ACCEPTED

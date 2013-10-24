@@ -1,5 +1,4 @@
-Arthrogloea Pascher, 1949 GENUS
-=======
+# Arthrogloea Pascher, 1949 GENUS
 
 #### Status
 ACCEPTED

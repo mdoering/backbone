@@ -1,5 +1,4 @@
-Microsomyces telephani R.K. Benj., 1986 SPECIES
-=======
+# Microsomyces telephani R.K. Benj., 1986 SPECIES
 
 #### Status
 ACCEPTED

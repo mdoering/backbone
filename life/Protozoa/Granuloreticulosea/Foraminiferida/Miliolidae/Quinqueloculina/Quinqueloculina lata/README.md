@@ -1,5 +1,4 @@
-Quinqueloculina lata SPECIES
-=======
+# Quinqueloculina lata SPECIES
 
 #### Status
 ACCEPTED

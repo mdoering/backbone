@@ -1,5 +1,4 @@
-Puccinia johandiezii Maire SPECIES
-=======
+# Puccinia johandiezii Maire SPECIES
 
 #### Status
 ACCEPTED

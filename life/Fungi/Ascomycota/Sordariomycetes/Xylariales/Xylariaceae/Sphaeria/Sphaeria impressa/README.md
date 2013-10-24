@@ -1,5 +1,4 @@
-Sphaeria impressa Preuss SPECIES
-=======
+# Sphaeria impressa Preuss SPECIES
 
 #### Status
 ACCEPTED

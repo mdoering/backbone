@@ -1,5 +1,4 @@
-Baltisphaeridium Eisenack, 1958 GENUS
-=======
+# Baltisphaeridium Eisenack, 1958 GENUS
 
 #### Status
 ACCEPTED

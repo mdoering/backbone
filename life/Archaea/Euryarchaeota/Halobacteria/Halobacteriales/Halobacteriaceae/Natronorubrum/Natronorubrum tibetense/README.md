@@ -1,5 +1,4 @@
-Natronorubrum tibetense Xu et al., 1999 SPECIES
-=======
+# Natronorubrum tibetense Xu et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

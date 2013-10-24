@@ -1,5 +1,4 @@
-Polystictus baurii (Kalchbr.) Lloyd SPECIES
-=======
+# Polystictus baurii (Kalchbr.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

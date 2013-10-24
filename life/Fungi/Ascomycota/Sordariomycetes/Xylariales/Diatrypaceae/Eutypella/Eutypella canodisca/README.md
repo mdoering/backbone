@@ -1,5 +1,4 @@
-Eutypella canodisca Ellis & Holw. SPECIES
-=======
+# Eutypella canodisca Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phylloporus lariceti Singer, 1938 SPECIES
-=======
+# Psiloboletinus lariceti (Singer) Singer, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 3(4-5): 170 (1938)
+Farlowia 2: 250 (1945)
 
 #### Original name
 Phylloporus lariceti Singer, 1938

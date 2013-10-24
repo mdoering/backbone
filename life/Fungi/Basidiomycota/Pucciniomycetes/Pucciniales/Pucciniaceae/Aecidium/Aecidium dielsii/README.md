@@ -1,5 +1,4 @@
-Aecidium dielsii Henn. SPECIES
-=======
+# Aecidium dielsii Henn. SPECIES
 
 #### Status
 ACCEPTED

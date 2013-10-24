@@ -1,5 +1,4 @@
-Leptocoryneum foliorum (Fuckel) Petr. SPECIES
-=======
+# Leptocoryneum foliorum (Fuckel) Petr. SPECIES
 
 #### Status
 ACCEPTED

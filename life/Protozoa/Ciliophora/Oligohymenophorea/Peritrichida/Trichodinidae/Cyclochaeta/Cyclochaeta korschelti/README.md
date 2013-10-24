@@ -1,5 +1,4 @@
-Cyclochaeta korschelti Zick, 1928 SPECIES
-=======
+# Cyclochaeta korschelti Zick, 1928 SPECIES
 
 #### Status
 ACCEPTED

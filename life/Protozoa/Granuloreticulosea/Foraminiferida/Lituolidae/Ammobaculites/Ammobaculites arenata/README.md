@@ -1,5 +1,4 @@
-Ammobaculites arenata Cushman, 1933 SPECIES
-=======
+# Ammobaculites arenata Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

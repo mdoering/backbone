@@ -1,5 +1,4 @@
-Poria lacticolor Murrill SPECIES
-=======
+# Poria lacticolor Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria frandsenii Jørst. SPECIES
-=======
+# Septoria frandsenii Jørst. SPECIES
 
 #### Status
 ACCEPTED

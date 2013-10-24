@@ -1,5 +1,4 @@
-Uredo oplismeni Arthur & Cummins SPECIES
-=======
+# Uredo oplismeni Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

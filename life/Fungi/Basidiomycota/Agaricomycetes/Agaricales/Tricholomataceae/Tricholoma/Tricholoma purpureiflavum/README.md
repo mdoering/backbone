@@ -1,5 +1,4 @@
-Tricholoma purpureiflavum Corner SPECIES
-=======
+# Tricholoma purpureiflavum Corner SPECIES
 
 #### Status
 ACCEPTED

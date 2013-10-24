@@ -1,5 +1,4 @@
-Asteridiella saurauina Hansf. SPECIES
-=======
+# Asteridiella saurauina Hansf. SPECIES
 
 #### Status
 ACCEPTED

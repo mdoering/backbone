@@ -1,5 +1,4 @@
-Vorticella larva Müller, 1786 SPECIES
-=======
+# Vorticella larva Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

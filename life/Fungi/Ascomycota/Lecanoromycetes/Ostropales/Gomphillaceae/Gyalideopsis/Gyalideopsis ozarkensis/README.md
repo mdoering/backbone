@@ -1,5 +1,4 @@
-Gyalideopsis ozarkensis Lücking, W.R. Buck & R.C. Harris SPECIES
-=======
+# Gyalideopsis ozarkensis Lücking, W.R. Buck & R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

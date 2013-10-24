@@ -1,5 +1,4 @@
-Puccinia salviae-runcinatae Doidge SPECIES
-=======
+# Puccinia salviae-runcinatae Doidge SPECIES
 
 #### Status
 ACCEPTED

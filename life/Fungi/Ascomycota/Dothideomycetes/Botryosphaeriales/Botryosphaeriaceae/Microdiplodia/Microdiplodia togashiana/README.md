@@ -1,5 +1,4 @@
-Microdiplodia togashiana Syd. SPECIES
-=======
+# Microdiplodia togashiana Syd. SPECIES
 
 #### Status
 ACCEPTED

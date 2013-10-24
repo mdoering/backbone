@@ -1,5 +1,4 @@
-Phoma genistae-tinctoriae Petr. SPECIES
-=======
+# Phoma genistae-tinctoriae Petr. SPECIES
 
 #### Status
 ACCEPTED

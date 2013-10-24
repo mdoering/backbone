@@ -1,5 +1,4 @@
-Calicium sequoiae C. B. Williams & Tibell SPECIES
-=======
+# Calicium sequoiae C. B. Williams & Tibell SPECIES
 
 #### Status
 ACCEPTED

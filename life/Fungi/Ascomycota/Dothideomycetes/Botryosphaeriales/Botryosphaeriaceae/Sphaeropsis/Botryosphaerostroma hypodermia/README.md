@@ -1,5 +1,4 @@
-Botryosphaerostroma hypodermia (Fuckel) Petr. SPECIES
-=======
+# Botryosphaerostroma hypodermia (Fuckel) Petr. SPECIES
 
 #### Status
 ACCEPTED

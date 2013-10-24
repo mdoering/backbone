@@ -1,17 +1,16 @@
-Helmisporium curvulum Sacc. SPECIES
-=======
+# Helminthosporium curvulum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Accad. Sci. Ven. -Trent. -Istr. 10: 89 (1916)
 
 #### Original name
-Helmisporium curvulum Sacc.
+Helminthosporium curvulum Sacc.
 
 ### Remarks
 null

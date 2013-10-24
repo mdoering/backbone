@@ -1,5 +1,4 @@
-Albatrellus henanensis J.D. Zhao & X.Q. Zhang SPECIES
-=======
+# Albatrellus henanensis J.D. Zhao & X.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

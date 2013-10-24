@@ -1,5 +1,4 @@
-Cercospora hedychii Boedijn SPECIES
-=======
+# Cercospora hedychii Boedijn SPECIES
 
 #### Status
 ACCEPTED

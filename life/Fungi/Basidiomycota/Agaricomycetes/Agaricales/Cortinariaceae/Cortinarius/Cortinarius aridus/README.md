@@ -1,5 +1,4 @@
-Cortinarius aridus M.M. Moser SPECIES
-=======
+# Cortinarius aridus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

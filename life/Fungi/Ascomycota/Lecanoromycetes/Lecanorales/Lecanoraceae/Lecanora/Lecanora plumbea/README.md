@@ -1,5 +1,4 @@
-Lecanora plumbea (Garov.) Lettau SPECIES
-=======
+# Lecanora plumbea (Garov.) Lettau SPECIES
 
 #### Status
 ACCEPTED

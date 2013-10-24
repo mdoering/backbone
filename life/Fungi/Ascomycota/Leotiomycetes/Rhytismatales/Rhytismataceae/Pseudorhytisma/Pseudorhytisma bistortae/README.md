@@ -1,14 +1,13 @@
-Xyloma bistortae DC., 1815 SPECIES
-=======
+# Pseudorhytisma bistortae (DC.) Juel, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 153 (1815)
+Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 499 (1894)
 
 #### Original name
 Xyloma bistortae DC., 1815

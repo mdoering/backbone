@@ -1,5 +1,4 @@
-Gyraria ustulata (Bull.) Gray SPECIES
-=======
+# Gyraria ustulata (Bull.) Gray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon subaffixum (Schwein.) SPECIES
-=======
+# Hypoxylon subaffixum (Schwein.) SPECIES
 
 #### Status
 ACCEPTED

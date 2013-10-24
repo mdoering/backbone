@@ -1,5 +1,4 @@
-Dendrosarcus semicaptus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus semicaptus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

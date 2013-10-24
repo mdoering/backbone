@@ -1,5 +1,4 @@
-Pleurostromella ribis Petr. SPECIES
-=======
+# Pleurostromella ribis Petr. SPECIES
 
 #### Status
 ACCEPTED

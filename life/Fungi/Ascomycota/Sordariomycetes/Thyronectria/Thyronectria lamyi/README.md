@@ -1,14 +1,13 @@
-Nectria lamyi (Desm.) De Not., 1863 SPECIES
-=======
+# Thyronectria lamyi (Desm.) Seeler, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Arnold Arbor. 21: 446 (1940)
 
 #### Original name
 Sphaeria lamyi Desm., 1836

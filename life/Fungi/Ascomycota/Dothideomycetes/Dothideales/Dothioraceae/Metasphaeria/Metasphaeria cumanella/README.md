@@ -1,5 +1,4 @@
-Metasphaeria cumanella Sacc. & Berl. SPECIES
-=======
+# Metasphaeria cumanella Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

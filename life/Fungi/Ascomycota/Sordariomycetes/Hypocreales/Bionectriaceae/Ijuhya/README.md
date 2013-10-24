@@ -1,17 +1,16 @@
-Lepidonectria Speg. GENUS
-=======
+# Ijuhya Starbäck GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Fac. Agron. Vet. Univ. nac. La Plata, Ser. 2 6(1): 97 (1910)
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 1): 30 (1899)
 
 #### Original name
-Lepidonectria Speg.
+Ijuhya Starbäck
 
 ### Remarks
 null

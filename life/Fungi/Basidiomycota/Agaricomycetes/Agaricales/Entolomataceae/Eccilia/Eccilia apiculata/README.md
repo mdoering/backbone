@@ -1,5 +1,4 @@
-Eccilia apiculata Fr. SPECIES
-=======
+# Eccilia apiculata Fr. SPECIES
 
 #### Status
 ACCEPTED

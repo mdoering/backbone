@@ -1,5 +1,4 @@
-Thecotheus inaequilateralis Aas SPECIES
-=======
+# Thecotheus inaequilateralis Aas SPECIES
 
 #### Status
 ACCEPTED

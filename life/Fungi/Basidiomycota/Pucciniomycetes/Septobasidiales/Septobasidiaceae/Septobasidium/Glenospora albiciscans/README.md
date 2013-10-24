@@ -1,5 +1,4 @@
-Glenospora albiciscans (Nieuwenh.) M. Ota SPECIES
-=======
+# Glenospora albiciscans (Nieuwenh.) M. Ota SPECIES
 
 #### Status
 ACCEPTED

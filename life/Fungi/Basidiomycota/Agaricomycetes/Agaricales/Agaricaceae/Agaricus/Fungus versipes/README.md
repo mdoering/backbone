@@ -1,5 +1,4 @@
-Fungus versipes (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus versipes (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

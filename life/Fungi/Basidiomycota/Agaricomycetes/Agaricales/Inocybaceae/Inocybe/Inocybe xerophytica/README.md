@@ -1,5 +1,4 @@
-Inocybe xerophytica Pegler SPECIES
-=======
+# Inocybe xerophytica Pegler SPECIES
 
 #### Status
 ACCEPTED

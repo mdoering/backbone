@@ -1,5 +1,4 @@
-Helotium craginianum (Ellis & Everh.) Seaver SPECIES
-=======
+# Helotium craginianum (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

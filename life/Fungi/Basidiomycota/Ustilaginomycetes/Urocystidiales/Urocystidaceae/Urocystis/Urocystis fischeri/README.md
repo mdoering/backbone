@@ -1,17 +1,16 @@
-Urocystis fischeri var. littoralis Lagerh. VARIETY
-=======
+# Urocystis fischeri Körn., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 16: 34 (1879)
 
 #### Original name
-Urocystis fischeri var. littoralis Lagerh.
+Urocystis fischeri Körn., 1879
 
 ### Remarks
 null

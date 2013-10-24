@@ -1,5 +1,4 @@
-Usnea dasaea Stirt. SPECIES
-=======
+# Usnea dasaea Stirt. SPECIES
 
 #### Status
 ACCEPTED

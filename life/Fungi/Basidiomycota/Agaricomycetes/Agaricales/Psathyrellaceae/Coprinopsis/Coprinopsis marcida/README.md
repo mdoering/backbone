@@ -1,5 +1,4 @@
-Coprinopsis marcida (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis marcida (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosestrum Haeckel, 1881 GENUS
-=======
+# Astrosestrum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

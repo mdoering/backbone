@@ -1,5 +1,4 @@
-Scutularia bacilligera (P. Karst.) Sacc. SPECIES
-=======
+# Scutularia bacilligera (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

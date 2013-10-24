@@ -1,5 +1,4 @@
-Pseudodiplodia oreodoxae V.P. Sahni SPECIES
-=======
+# Pseudodiplodia oreodoxae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

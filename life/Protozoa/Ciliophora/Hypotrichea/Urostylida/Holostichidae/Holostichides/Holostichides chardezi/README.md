@@ -1,5 +1,4 @@
-Holostichides chardezi Foissner, 1987 SPECIES
-=======
+# Holostichides chardezi Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

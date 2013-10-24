@@ -1,5 +1,4 @@
-Acineta nitocrae SPECIES
-=======
+# Acineta nitocrae SPECIES
 
 #### Status
 ACCEPTED

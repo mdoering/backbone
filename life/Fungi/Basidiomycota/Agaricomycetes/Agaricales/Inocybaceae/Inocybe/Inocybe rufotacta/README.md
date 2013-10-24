@@ -1,5 +1,4 @@
-Inocybe rufotacta Schwöbel & Stangl SPECIES
-=======
+# Inocybe rufotacta Schwöbel & Stangl SPECIES
 
 #### Status
 ACCEPTED

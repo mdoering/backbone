@@ -1,14 +1,13 @@
-Lachnella craterella (Durieu & Lév.) Locq., 1952 SPECIES
-=======
+# Chaetocalathus craterellus (Durieu & Lév.) Singer, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 68: 166 (1952)
+Lilloa 8: 518 (1943)
 
 #### Original name
 Agaricus craterellus Durieu & Lév., 1863

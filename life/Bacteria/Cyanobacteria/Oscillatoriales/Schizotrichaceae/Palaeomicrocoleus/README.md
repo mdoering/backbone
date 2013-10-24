@@ -1,5 +1,4 @@
-Palaeomicrocoleus K.B. Korde in A.G. Vologdin & K.B. Korde, 1965 GENUS
-=======
+# Palaeomicrocoleus K.B. Korde in A.G. Vologdin & K.B. Korde, 1965 GENUS
 
 #### Status
 ACCEPTED

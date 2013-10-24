@@ -1,5 +1,4 @@
-Asteromella campanulae-latifoliae (Dobrozr.) Aa & Vanev SPECIES
-=======
+# Asteromella campanulae-latifoliae (Dobrozr.) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

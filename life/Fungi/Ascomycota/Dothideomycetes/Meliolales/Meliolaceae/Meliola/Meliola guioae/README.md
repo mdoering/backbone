@@ -1,5 +1,4 @@
-Meliola guioae (Hansf.) Hansf. SPECIES
-=======
+# Meliola guioae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

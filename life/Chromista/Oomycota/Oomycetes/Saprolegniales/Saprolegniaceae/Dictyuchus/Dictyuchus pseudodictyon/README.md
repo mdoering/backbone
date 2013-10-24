@@ -1,5 +1,4 @@
-Dictyuchus pseudodictyon Coker & Braxton SPECIES
-=======
+# Dictyuchus pseudodictyon Coker & Braxton SPECIES
 
 #### Status
 ACCEPTED

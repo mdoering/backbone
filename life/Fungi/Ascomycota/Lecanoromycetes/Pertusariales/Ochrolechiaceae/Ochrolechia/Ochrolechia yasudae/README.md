@@ -1,17 +1,16 @@
-Ochrolechia yasudae f. yasudae FORM
-=======
+# Ochrolechia yasudae Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mag. , Tokyo 32: 155 (1918)
 
 #### Original name
-Ochrolechia yasudae f. yasudae
+Ochrolechia yasudae Vain.
 
 ### Remarks
 null

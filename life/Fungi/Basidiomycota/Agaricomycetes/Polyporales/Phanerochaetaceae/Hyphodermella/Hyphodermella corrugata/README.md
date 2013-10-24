@@ -1,17 +1,16 @@
-Odontia junquillea var. junquillea VARIETY
-=======
+# Hyphodermella corrugata (Fr.) J. Erikss. & Ryvarden, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Clavis syn. Hymen. Europ. 206 (1878)
+Cortic. N. Eur. (Oslo) 4: 579 (1976)
 
 #### Original name
-Odontia junquillea var. junquillea
+Grandinia corrugata Fr., 1874
 
 ### Remarks
 null

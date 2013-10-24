@@ -1,5 +1,4 @@
-Ameliella grisea Fryday & Coppins SPECIES
-=======
+# Ameliella grisea Fryday & Coppins SPECIES
 
 #### Status
 ACCEPTED

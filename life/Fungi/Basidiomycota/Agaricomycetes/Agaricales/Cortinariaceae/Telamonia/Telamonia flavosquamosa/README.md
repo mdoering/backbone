@@ -1,5 +1,4 @@
-Telamonia flavosquamosa Velen. SPECIES
-=======
+# Telamonia flavosquamosa Velen. SPECIES
 
 #### Status
 ACCEPTED

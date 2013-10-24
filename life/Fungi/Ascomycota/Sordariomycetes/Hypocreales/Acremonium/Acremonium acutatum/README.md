@@ -1,5 +1,4 @@
-Acremonium acutatum W. Gams, 1975 SPECIES
-=======
+# Acremonium acutatum W. Gams, 1975 SPECIES
 
 #### Status
 ACCEPTED

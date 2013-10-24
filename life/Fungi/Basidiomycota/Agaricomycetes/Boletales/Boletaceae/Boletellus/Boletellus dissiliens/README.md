@@ -1,5 +1,4 @@
-Boletellus dissiliens (Corner) Pegler & T.W.K. Young SPECIES
-=======
+# Boletellus dissiliens (Corner) Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

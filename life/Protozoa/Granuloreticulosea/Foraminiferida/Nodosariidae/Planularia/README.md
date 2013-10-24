@@ -1,5 +1,4 @@
-Planularia Defrance, 1826 GENUS
-=======
+# Planularia Defrance, 1826 GENUS
 
 #### Status
 ACCEPTED

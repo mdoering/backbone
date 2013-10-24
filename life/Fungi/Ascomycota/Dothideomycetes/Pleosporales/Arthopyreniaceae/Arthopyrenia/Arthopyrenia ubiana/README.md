@@ -1,5 +1,4 @@
-Arthopyrenia ubiana Vain. SPECIES
-=======
+# Arthopyrenia ubiana Vain. SPECIES
 
 #### Status
 ACCEPTED

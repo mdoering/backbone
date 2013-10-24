@@ -1,5 +1,4 @@
-Polyblastia nidulans (Stenh.) Arnold SPECIES
-=======
+# Polyblastia nidulans (Stenh.) Arnold SPECIES
 
 #### Status
 ACCEPTED

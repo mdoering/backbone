@@ -1,5 +1,4 @@
-Pachyospora ocellata A. Massal. SPECIES
-=======
+# Pachyospora ocellata A. Massal. SPECIES
 
 #### Status
 ACCEPTED

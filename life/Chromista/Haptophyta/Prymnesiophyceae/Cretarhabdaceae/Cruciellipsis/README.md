@@ -1,14 +1,13 @@
-Miravetesina W. Grün in W. Grün & F. Allemann, 1975 GENUS
-=======
+# Cruciellipsis H.R. Thierstein, 1971 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Eclog. Geol. Helv. 68: 185.
+Eclog. Geol. Helv. 64: 477.
 
 #### Original name
 null

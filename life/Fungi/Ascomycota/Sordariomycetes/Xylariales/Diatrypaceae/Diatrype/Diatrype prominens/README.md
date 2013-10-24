@@ -1,5 +1,4 @@
-Diatrype prominens Howe SPECIES
-=======
+# Diatrype prominens Howe SPECIES
 
 #### Status
 ACCEPTED

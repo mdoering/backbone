@@ -1,17 +1,16 @@
-Aspergillus japonicus var. viridiflavus Iizuka VARIETY
-=======
+# Aspergillus japonicus Saito, 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. agric. Chem. Soc. Japan 27: 807 (1953)
+Bot. Mag. , Tokyo 20: 61 (1906)
 
 #### Original name
-Aspergillus japonicus var. viridiflavus Iizuka
+Aspergillus japonicus Saito, 1906
 
 ### Remarks
 null

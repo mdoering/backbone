@@ -1,5 +1,4 @@
-Inocybe longicystis Velen. SPECIES
-=======
+# Inocybe longicystis Velen. SPECIES
 
 #### Status
 ACCEPTED

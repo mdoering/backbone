@@ -1,5 +1,4 @@
-Lactarius olivinus Kytöv. SPECIES
-=======
+# Lactarius olivinus Kytöv. SPECIES
 
 #### Status
 ACCEPTED

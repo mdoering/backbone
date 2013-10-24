@@ -1,5 +1,4 @@
-Lobaria chinensis Yoshim. SPECIES
-=======
+# Lobaria chinensis Yoshim. SPECIES
 
 #### Status
 ACCEPTED

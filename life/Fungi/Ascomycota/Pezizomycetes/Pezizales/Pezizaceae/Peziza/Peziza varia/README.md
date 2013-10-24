@@ -1,17 +1,16 @@
-Aleuria varia (Hedw.) Boud., 1907 SPECIES
-=======
+# Peziza varia (Hedw.) Fr., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(1): 61 (1822)
 
 #### Original name
-Octospora varia Hedw., 1789
+Peziza varia (Hedw.) Fr., 1822
 
 ### Remarks
 null

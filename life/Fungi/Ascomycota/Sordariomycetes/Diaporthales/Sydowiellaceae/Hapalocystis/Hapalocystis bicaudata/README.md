@@ -1,17 +1,16 @@
-Pseudovalsa berkeleyi (Tul. & C. Tul.) Sacc., 1883 SPECIES
-=======
+# Hapalocystis bicaudata Fuckel, 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 137 (1883)
+Fungi rhenani exsic. (1863)
 
 #### Original name
-Melanconis berkeleyi Tul. & C. Tul., 1863
+Hapalocystis bicaudata Fuckel, 1863
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmelia endochroidea SPECIES
-=======
+# Parmelia endochroidea SPECIES
 
 #### Status
 ACCEPTED

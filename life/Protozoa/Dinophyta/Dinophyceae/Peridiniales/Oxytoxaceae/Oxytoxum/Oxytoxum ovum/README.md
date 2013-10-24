@@ -1,5 +1,4 @@
-Oxytoxum ovum Gaarder SPECIES
-=======
+# Oxytoxum ovum Gaarder SPECIES
 
 #### Status
 ACCEPTED

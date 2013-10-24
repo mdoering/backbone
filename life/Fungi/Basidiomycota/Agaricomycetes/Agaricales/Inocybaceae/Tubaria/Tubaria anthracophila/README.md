@@ -1,5 +1,4 @@
-Tubaria anthracophila P. Karst. SPECIES
-=======
+# Tubaria anthracophila P. Karst. SPECIES
 
 #### Status
 ACCEPTED

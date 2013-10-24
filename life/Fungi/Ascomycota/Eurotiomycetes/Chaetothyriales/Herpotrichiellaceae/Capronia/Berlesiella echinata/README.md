@@ -1,5 +1,4 @@
-Berlesiella echinata (Ellis & Everh.) Berl. SPECIES
-=======
+# Berlesiella echinata (Ellis & Everh.) Berl. SPECIES
 
 #### Status
 ACCEPTED

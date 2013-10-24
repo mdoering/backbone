@@ -1,5 +1,4 @@
-Fragilaria similis Krasske SPECIES
-=======
+# Fragilaria similis Krasske SPECIES
 
 #### Status
 ACCEPTED

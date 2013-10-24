@@ -1,5 +1,4 @@
-Mallomonas sexangularis K. H. Nicholls SPECIES
-=======
+# Mallomonas sexangularis K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

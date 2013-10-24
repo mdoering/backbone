@@ -1,5 +1,4 @@
-Uredinopsis daisenensis Hirats. f. SPECIES
-=======
+# Uredinopsis daisenensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

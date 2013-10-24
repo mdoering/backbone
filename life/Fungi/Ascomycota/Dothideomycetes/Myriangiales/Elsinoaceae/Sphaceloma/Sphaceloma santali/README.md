@@ -1,5 +1,4 @@
-Sphaceloma santali Thirum. SPECIES
-=======
+# Sphaceloma santali Thirum. SPECIES
 
 #### Status
 ACCEPTED

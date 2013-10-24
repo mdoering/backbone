@@ -1,5 +1,4 @@
-Xylaria trivialis Speg. SPECIES
-=======
+# Xylaria trivialis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella yuccae Thüm. SPECIES
-=======
+# Anthostomella yuccae Thüm. SPECIES
 
 #### Status
 ACCEPTED

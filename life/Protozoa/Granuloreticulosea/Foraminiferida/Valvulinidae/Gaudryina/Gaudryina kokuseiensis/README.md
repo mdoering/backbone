@@ -1,5 +1,4 @@
-Gaudryina kokuseiensis Ishizaki SPECIES
-=======
+# Gaudryina kokuseiensis Ishizaki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spumiosina cineraria Lopukhin, 1966 SPECIES
-=======
+# Spumiosina cineraria Lopukhin, 1966 SPECIES
 
 #### Status
 ACCEPTED

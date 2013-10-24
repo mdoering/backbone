@@ -1,5 +1,4 @@
-Ambonosphaera R.A. Fensome, 1979 GENUS
-=======
+# Ambonosphaera R.A. Fensome, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplopyrenula vulgaris Müll. Arg. SPECIES
-=======
+# Haplopyrenula vulgaris Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

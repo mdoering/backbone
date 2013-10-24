@@ -1,14 +1,13 @@
-Clavaria himantia (Schwein.) Bourdot & Galzin, 1928 SPECIES
-=======
+# Hydnocristella himantia (Schwein.) R.H. Petersen, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 122 (1928)
+Ceská Mykol. 25(3): 130 (1971)
 
 #### Original name
 Hydnum himantia Schwein., 1822

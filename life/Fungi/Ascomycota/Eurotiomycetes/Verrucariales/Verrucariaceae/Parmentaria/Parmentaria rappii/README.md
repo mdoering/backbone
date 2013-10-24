@@ -1,5 +1,4 @@
-Parmentaria rappii Zahlbr. SPECIES
-=======
+# Parmentaria rappii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

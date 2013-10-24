@@ -1,5 +1,4 @@
-Cercophora subambigua (Höhn.) Hanlin & Tortolero SPECIES
-=======
+# Cercophora subambigua (Höhn.) Hanlin & Tortolero SPECIES
 
 #### Status
 ACCEPTED

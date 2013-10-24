@@ -1,17 +1,16 @@
-Cortinarius paragaudis subsp. praestigiosus (Fr.) SUBSPECIES
-=======
+# Cortinarius paragaudis Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 295 (1838)
 
 #### Original name
-Cortinarius paragaudis var. praestigiosus Fr.
+Cortinarius paragaudis Fr., 1838
 
 ### Remarks
 null

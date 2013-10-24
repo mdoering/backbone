@@ -1,5 +1,4 @@
-Lecidea ilicis A. Massal. SPECIES
-=======
+# Lecidea ilicis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

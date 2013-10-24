@@ -1,5 +1,4 @@
-Chrysococcus tessellatus F.E. Fritsch SPECIES
-=======
+# Chrysococcus tessellatus F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

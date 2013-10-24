@@ -1,5 +1,4 @@
-Scindalma oleicola (Henn.) Kuntze SPECIES
-=======
+# Scindalma oleicola (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

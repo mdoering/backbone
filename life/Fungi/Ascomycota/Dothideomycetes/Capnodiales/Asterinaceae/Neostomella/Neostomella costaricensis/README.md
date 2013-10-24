@@ -1,5 +1,4 @@
-Neostomella costaricensis (Syd.) Arx SPECIES
-=======
+# Neostomella costaricensis (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

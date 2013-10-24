@@ -1,5 +1,4 @@
-Entyloma fimbriatum G.W. Fisch. SPECIES
-=======
+# Entyloma fimbriatum G.W. Fisch. SPECIES
 
 #### Status
 ACCEPTED

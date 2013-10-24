@@ -1,5 +1,4 @@
-Triodiscus Haeckel, 1887 GENUS
-=======
+# Triodiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

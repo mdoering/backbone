@@ -1,5 +1,4 @@
-Cortinarius cacaocolor A.H. Sm. SPECIES
-=======
+# Cortinarius cacaocolor A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

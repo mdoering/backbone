@@ -1,5 +1,4 @@
-Coleophoma prunicola J.X. Duan, W.P. Wu & Xin Z. Liu SPECIES
-=======
+# Coleophoma prunicola J.X. Duan, W.P. Wu & Xin Z. Liu SPECIES
 
 #### Status
 ACCEPTED

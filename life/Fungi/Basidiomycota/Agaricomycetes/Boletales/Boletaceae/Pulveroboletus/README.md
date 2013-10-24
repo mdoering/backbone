@@ -1,5 +1,4 @@
-Pulveroboletus Murrill, 1909 GENUS
-=======
+# Pulveroboletus Murrill, 1909 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora angulata Werner SPECIES
-=======
+# Lecanora angulata Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Poria gomezii (Rajchenb. & J.E. Wright) Ginns, 1984 SPECIES
-=======
+# Perenniporia gomezii Rajchenb. & J.E. Wright, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 21: 331 (1984)
+Mycotaxon 15: 306 (1982)
 
 #### Original name
 Perenniporia gomezii Rajchenb. & J.E. Wright, 1982

@@ -1,5 +1,4 @@
-Sporonema epiphyllum (Fr.) Shear SPECIES
-=======
+# Sporonema epiphyllum (Fr.) Shear SPECIES
 
 #### Status
 ACCEPTED

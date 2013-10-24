@@ -1,5 +1,4 @@
-Perissolagonella amsdenii Loeblich & Wicander, 1976 SPECIES
-=======
+# Perissolagonella amsdenii Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

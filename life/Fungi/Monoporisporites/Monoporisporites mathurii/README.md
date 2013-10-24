@@ -1,5 +1,4 @@
-Monoporisporites mathurii Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites mathurii Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

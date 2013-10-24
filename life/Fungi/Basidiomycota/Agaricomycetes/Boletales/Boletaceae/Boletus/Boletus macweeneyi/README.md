@@ -1,5 +1,4 @@
-Boletus macweeneyi W.G. Sm. SPECIES
-=======
+# Boletus macweeneyi W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cirrosporium S. Hughes GENUS
-=======
+# Cirrosporium S. Hughes GENUS
 
 #### Status
 ACCEPTED

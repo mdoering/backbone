@@ -1,11 +1,10 @@
-Frondicularia complanata subsp. complanata SUBSPECIES
-=======
+# Frondicularia complanata Defrance in de Blainville, 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

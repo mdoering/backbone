@@ -1,5 +1,4 @@
-Meliola sorindeiae Hansf. & Deighton SPECIES
-=======
+# Meliola sorindeiae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

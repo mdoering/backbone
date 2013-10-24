@@ -1,5 +1,4 @@
-Montemartinia myriadea Curzi SPECIES
-=======
+# Montemartinia myriadea Curzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reophax loeblichi Yassini & Jones, 1995 SPECIES
-=======
+# Reophax loeblichi Yassini & Jones, 1995 SPECIES
 
 #### Status
 ACCEPTED

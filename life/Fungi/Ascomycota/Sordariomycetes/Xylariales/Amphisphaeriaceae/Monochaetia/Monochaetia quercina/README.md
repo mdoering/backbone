@@ -1,5 +1,4 @@
-Monochaetia quercina Politis SPECIES
-=======
+# Monochaetia quercina Politis SPECIES
 
 #### Status
 ACCEPTED

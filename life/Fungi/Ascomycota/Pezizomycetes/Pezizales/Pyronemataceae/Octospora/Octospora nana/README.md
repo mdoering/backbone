@@ -1,5 +1,4 @@
-Octospora nana Hedw. SPECIES
-=======
+# Octospora nana Hedw. SPECIES
 
 #### Status
 ACCEPTED

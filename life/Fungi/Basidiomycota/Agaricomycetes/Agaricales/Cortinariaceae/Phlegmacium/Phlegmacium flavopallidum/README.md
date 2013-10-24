@@ -1,5 +1,4 @@
-Phlegmacium flavopallidum M.M. Moser SPECIES
-=======
+# Phlegmacium flavopallidum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

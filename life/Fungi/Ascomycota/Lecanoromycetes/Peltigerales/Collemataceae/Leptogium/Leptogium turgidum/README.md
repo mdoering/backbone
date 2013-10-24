@@ -1,14 +1,13 @@
-Enchylium turgidum (Ach.) Gray SPECIES
-=======
+# Leptogium turgidum (Ach.) Cromb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: (1821)
+Lich. -Fl. Great Brit. 28 (1871)
 
 #### Original name
 Collema turgidum

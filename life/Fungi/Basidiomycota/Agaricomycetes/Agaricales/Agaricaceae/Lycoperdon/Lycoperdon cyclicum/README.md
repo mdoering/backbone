@@ -1,5 +1,4 @@
-Lycoperdon cyclicum McAlpine SPECIES
-=======
+# Lycoperdon cyclicum McAlpine SPECIES
 
 #### Status
 ACCEPTED

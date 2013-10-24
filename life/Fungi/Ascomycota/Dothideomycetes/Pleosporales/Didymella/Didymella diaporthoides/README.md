@@ -1,5 +1,4 @@
-Didymella diaporthoides (Speg.) Sacc. SPECIES
-=======
+# Didymella diaporthoides (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

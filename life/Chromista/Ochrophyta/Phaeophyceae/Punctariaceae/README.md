@@ -1,5 +1,4 @@
-Punctariaceae FAMILY
-=======
+# Punctariaceae FAMILY
 
 #### Status
 ACCEPTED

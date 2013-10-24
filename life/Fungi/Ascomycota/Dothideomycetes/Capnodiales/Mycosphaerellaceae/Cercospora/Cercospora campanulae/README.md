@@ -1,5 +1,4 @@
-Cercospora campanulae Chupp SPECIES
-=======
+# Cercospora campanulae Chupp SPECIES
 
 #### Status
 ACCEPTED

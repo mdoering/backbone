@@ -1,5 +1,4 @@
-Sporotrichella rosea P. Karst. SPECIES
-=======
+# Sporotrichella rosea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

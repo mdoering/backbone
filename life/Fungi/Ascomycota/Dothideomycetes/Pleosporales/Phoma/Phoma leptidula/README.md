@@ -1,5 +1,4 @@
-Phoma leptidula Sacc. SPECIES
-=======
+# Phoma leptidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

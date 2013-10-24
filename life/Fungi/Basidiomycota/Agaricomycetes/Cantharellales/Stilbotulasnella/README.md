@@ -1,5 +1,4 @@
-Stilbotulasnella Oberw. & Bandoni GENUS
-=======
+# Stilbotulasnella Oberw. & Bandoni GENUS
 
 #### Status
 ACCEPTED

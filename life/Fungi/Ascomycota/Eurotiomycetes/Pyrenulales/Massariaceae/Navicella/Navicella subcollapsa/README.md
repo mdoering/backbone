@@ -1,5 +1,4 @@
-Navicella subcollapsa (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella subcollapsa (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

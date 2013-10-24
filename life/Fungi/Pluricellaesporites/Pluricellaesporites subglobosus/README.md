@@ -1,5 +1,4 @@
-Pluricellaesporites subglobosus Zhong Y. Zhang ex Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites subglobosus Zhong Y. Zhang ex Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

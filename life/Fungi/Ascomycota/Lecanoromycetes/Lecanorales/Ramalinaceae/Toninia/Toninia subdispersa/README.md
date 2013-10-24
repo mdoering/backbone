@@ -1,5 +1,4 @@
-Toninia subdispersa (Nyl. ex Hasse) K. Knudsen SPECIES
-=======
+# Toninia subdispersa (Nyl. ex Hasse) K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

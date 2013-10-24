@@ -1,5 +1,4 @@
-Peziza todeana Spr. {?} SPECIES
-=======
+# Peziza todeana Spr. {?} SPECIES
 
 #### Status
 ACCEPTED

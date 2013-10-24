@@ -1,5 +1,4 @@
-Chaetomium cochlioides Palliser SPECIES
-=======
+# Chaetomium cochlioides Palliser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Operculina gaimardi (d'Orbigny) SPECIES
-=======
+# Operculina gaimardi (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

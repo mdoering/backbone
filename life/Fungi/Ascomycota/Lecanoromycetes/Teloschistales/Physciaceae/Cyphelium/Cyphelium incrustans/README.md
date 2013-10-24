@@ -1,5 +1,4 @@
-Cyphelium incrustans Ach. SPECIES
-=======
+# Cyphelium incrustans Ach. SPECIES
 
 #### Status
 ACCEPTED

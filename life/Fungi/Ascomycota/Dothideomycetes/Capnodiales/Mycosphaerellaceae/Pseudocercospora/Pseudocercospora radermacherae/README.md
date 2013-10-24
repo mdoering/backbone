@@ -1,14 +1,13 @@
-Pseudocercospora rademacherae (Boedijn) U. Braun SPECIES
-=======
+# Pseudocercospora radermacherae (Boedijn) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 73(3-4): 427 (2001)
 
 #### Original name
 Cercospora radermacherae Boedijn

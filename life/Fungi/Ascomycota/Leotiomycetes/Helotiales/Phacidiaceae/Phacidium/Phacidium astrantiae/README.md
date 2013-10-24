@@ -1,5 +1,4 @@
-Phacidium astrantiae Ces. SPECIES
-=======
+# Phacidium astrantiae Ces. SPECIES
 
 #### Status
 ACCEPTED

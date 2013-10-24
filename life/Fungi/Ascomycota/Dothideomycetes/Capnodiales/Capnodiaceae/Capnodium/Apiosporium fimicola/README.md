@@ -1,5 +1,4 @@
-Apiosporium fimicola Speg. SPECIES
-=======
+# Apiosporium fimicola Speg. SPECIES
 
 #### Status
 ACCEPTED

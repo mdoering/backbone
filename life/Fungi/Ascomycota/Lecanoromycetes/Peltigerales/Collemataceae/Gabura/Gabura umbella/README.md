@@ -1,5 +1,4 @@
-Gabura umbella (Tuck.) Kuntze SPECIES
-=======
+# Gabura umbella (Tuck.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

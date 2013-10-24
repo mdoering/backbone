@@ -1,5 +1,4 @@
-Psilocybe insiliens (Britzelm.) Sacc. SPECIES
-=======
+# Psilocybe insiliens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

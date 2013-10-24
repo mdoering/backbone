@@ -1,5 +1,4 @@
-Boletus pallidoroseus Both SPECIES
-=======
+# Boletus pallidoroseus Both SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia dorstii Balazuc SPECIES
-=======
+# Laboulbenia dorstii Balazuc SPECIES
 
 #### Status
 ACCEPTED

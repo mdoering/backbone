@@ -1,17 +1,16 @@
-Stereofomes pruinatus var. pruinatus VARIETY
-=======
+# Peniophora pruinata (Berk. & M.A. Curtis) Burt, 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Egatea 15: 396 (1930)
+Ann. Mo. bot. Gdn 12: 340 (1926)
 
 #### Original name
-Stereofomes pruinatus var. pruinatus
+Stereum pruinatum Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

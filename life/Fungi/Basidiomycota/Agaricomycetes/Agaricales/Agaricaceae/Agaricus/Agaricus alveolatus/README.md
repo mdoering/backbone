@@ -1,5 +1,4 @@
-Agaricus alveolatus Kalchbr. SPECIES
-=======
+# Agaricus alveolatus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus holotephrus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus holotephrus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

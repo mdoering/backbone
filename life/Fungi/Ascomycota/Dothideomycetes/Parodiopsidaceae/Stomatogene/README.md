@@ -1,5 +1,4 @@
-Stomatogene Theiss. GENUS
-=======
+# Stomatogene Theiss. GENUS
 
 #### Status
 ACCEPTED

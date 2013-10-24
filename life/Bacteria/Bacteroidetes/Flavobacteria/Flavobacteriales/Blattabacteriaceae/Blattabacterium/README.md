@@ -1,5 +1,4 @@
-Blattabacterium Hollande & Favre, 1931 GENUS
-=======
+# Blattabacterium Hollande & Favre, 1931 GENUS
 
 #### Status
 ACCEPTED

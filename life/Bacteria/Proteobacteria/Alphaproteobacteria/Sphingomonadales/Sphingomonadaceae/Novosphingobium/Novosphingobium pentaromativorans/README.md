@@ -1,5 +1,4 @@
-Novosphingobium pentaromativorans Sohn et al., 2004 SPECIES
-=======
+# Novosphingobium pentaromativorans Sohn et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

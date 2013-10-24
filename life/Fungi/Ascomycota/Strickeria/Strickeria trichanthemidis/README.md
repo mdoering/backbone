@@ -1,5 +1,4 @@
-Strickeria trichanthemidis Byzova SPECIES
-=======
+# Strickeria trichanthemidis Byzova SPECIES
 
 #### Status
 ACCEPTED

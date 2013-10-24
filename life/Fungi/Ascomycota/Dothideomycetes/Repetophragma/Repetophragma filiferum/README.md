@@ -1,14 +1,13 @@
-Repetophragma filifera (Piroz.) R.F. Castañeda, Gusmão & Heredia SPECIES
-=======
+# Repetophragma filiferum (Piroz.) R.F. Castañeda, Gusmão & Heredia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Castañeda Ruíz, Gusmão, Heredia Abarca, & Saikawa, Mycotaxon 95: 269 (2006)
 
 #### Original name
 Sporidesmium filiferum Piroz.

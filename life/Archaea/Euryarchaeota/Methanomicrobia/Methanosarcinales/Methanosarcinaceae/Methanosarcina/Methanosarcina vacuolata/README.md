@@ -1,5 +1,4 @@
-Methanosarcina vacuolata Zhilina & Zavarzin, 1987 SPECIES
-=======
+# Methanosarcina vacuolata Zhilina & Zavarzin, 1987 SPECIES
 
 #### Status
 ACCEPTED

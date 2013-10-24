@@ -1,5 +1,4 @@
-Lecanora protervula Stirt. SPECIES
-=======
+# Lecanora protervula Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercosporella franserae (Ellis & Everh.) Sacc. SPECIES
-=======
+# Cercosporella fraserae (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 11: 606 (1895)
 
 #### Original name
 Cercospora fraserae Ellis & Everh.

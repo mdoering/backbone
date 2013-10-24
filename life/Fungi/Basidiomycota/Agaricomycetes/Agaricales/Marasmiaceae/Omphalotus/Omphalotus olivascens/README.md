@@ -1,5 +1,4 @@
-Omphalotus olivascens var. olivascens H.E. Bigelow, O.K. Mill. & Thiers, 1976 VARIETY
-=======
+# Omphalotus olivascens H.E. Bigelow, O.K. Mill. & Thiers, 1976 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 3(3): 363 (1976)
+null
 
 #### Original name
-Omphalotus olivascens var. olivascens H.E. Bigelow, O.K. Mill. & Thiers, 1976
+null
 
 ### Remarks
 null

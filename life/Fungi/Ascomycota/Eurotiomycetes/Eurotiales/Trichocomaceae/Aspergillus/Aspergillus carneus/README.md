@@ -1,17 +1,16 @@
-Aspergillus carneus var. carneus VARIETY
-=======
+# Aspergillus carneus Blochwitz, 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls mycol. 31(1): 81 (1933)
 
 #### Original name
-Aspergillus carneus var. carneus
+Aspergillus carneus Blochwitz, 1933
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora hadrobola Hazsl. SPECIES
-=======
+# Lecanora hadrobola Hazsl. SPECIES
 
 #### Status
 ACCEPTED

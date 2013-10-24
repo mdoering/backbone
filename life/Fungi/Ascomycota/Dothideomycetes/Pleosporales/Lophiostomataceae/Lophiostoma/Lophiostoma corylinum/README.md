@@ -1,5 +1,4 @@
-Lophiostoma corylinum Pass. SPECIES
-=======
+# Lophiostoma corylinum Pass. SPECIES
 
 #### Status
 ACCEPTED

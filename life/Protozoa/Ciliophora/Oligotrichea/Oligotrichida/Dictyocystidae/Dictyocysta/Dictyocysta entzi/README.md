@@ -1,5 +1,4 @@
-Dictyocysta entzi Jörgensen, 1924 SPECIES
-=======
+# Dictyocysta entzi Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

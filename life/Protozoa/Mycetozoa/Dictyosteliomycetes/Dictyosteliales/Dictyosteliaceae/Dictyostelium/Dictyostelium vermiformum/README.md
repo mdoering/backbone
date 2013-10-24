@@ -1,5 +1,4 @@
-Dictyostelium vermiformum Vadell & Cavender, 2007 SPECIES
-=======
+# Dictyostelium vermiformum Vadell & Cavender, 2007 SPECIES
 
 #### Status
 ACCEPTED

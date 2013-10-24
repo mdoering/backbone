@@ -1,5 +1,4 @@
-Puccinia artemisiae-sibiricae Jørst. SPECIES
-=======
+# Puccinia artemisiae-sibiricae Jørst. SPECIES
 
 #### Status
 ACCEPTED

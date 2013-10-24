@@ -1,5 +1,4 @@
-Valsa aractina (Fr.) Cooke SPECIES
-=======
+# Valsa aractina (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

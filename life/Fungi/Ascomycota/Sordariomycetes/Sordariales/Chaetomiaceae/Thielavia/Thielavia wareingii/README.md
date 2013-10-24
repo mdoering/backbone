@@ -1,5 +1,4 @@
-Thielavia wareingii Seth, 1974 SPECIES
-=======
+# Thielavia wareingii Seth, 1974 SPECIES
 
 #### Status
 ACCEPTED

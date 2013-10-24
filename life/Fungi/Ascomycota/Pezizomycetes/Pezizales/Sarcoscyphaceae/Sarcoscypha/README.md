@@ -1,17 +1,16 @@
-Scypharia Quél. GENUS
-=======
+# Sarcoscypha (E.M. Fries) Boudier, 1885 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Enchir. fung. (Paris) 281 (1886)
+null
 
 #### Original name
-Scypharia Quél.
+null
 
 ### Remarks
 null

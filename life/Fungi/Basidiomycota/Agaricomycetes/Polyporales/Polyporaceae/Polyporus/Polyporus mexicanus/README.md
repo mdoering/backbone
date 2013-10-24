@@ -1,5 +1,4 @@
-Polyporus mexicanus Pat. SPECIES
-=======
+# Polyporus mexicanus Pat. SPECIES
 
 #### Status
 ACCEPTED

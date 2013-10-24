@@ -1,5 +1,4 @@
-Pholiota aurantioflava A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota aurantioflava A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

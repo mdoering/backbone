@@ -1,5 +1,4 @@
-Chaetothyrium indistinctum A. Pande SPECIES
-=======
+# Chaetothyrium indistinctum A. Pande SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Puccinia aecidium-trientalis Tranzschel SPECIES
-=======
+# Puccinia aecidii-trientalis Tranzschel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia aecidium-trientalis Tranzschel
+Puccinia aecidii-trientalis Tranzschel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ustilago petrakii Cif. SPECIES
-=======
+# Ustilago petrakii Cif. SPECIES
 
 #### Status
 ACCEPTED

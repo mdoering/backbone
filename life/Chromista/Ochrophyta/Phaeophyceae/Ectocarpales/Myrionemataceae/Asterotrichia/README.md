@@ -1,5 +1,4 @@
-Asterotrichia Zanardini, 1843 GENUS
-=======
+# Asterotrichia Zanardini, 1843 GENUS
 
 #### Status
 ACCEPTED

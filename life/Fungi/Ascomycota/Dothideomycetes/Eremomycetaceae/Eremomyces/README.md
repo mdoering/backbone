@@ -1,5 +1,4 @@
-Eremomyces Malloch & Cain GENUS
-=======
+# Eremomyces Malloch & Cain GENUS
 
 #### Status
 ACCEPTED

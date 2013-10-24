@@ -1,5 +1,4 @@
-Acrotellum GENUS
-=======
+# Acrotellum GENUS
 
 #### Status
 ACCEPTED

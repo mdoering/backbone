@@ -1,14 +1,13 @@
-Karschia acarosporae H. Magn. SPECIES
-=======
+# Dactylospora acarosporae (H. Magn.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Svensk bot. Tidskr. 37: 285 (1943)
+Beih. Nova Hedwigia 62: 96 (1979)
 
 #### Original name
 Karschia acarosporae H. Magn.

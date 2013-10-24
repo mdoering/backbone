@@ -1,5 +1,4 @@
-Nolanea bruchii Speg. SPECIES
-=======
+# Nolanea bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

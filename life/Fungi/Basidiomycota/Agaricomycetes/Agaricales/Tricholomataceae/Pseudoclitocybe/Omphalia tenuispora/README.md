@@ -1,5 +1,4 @@
-Omphalia tenuispora Velen. SPECIES
-=======
+# Omphalia tenuispora Velen. SPECIES
 
 #### Status
 ACCEPTED

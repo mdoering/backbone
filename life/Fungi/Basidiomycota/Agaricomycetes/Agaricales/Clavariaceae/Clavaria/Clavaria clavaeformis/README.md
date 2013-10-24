@@ -1,5 +1,4 @@
-Clavaria clavaeformis Britzelm. SPECIES
-=======
+# Clavaria clavaeformis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

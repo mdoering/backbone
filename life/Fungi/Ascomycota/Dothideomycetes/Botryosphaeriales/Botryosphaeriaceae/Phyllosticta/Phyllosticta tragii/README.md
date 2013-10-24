@@ -1,5 +1,4 @@
-Phyllosticta tragii Bubák SPECIES
-=======
+# Phyllosticta tragii Bubák SPECIES
 
 #### Status
 ACCEPTED

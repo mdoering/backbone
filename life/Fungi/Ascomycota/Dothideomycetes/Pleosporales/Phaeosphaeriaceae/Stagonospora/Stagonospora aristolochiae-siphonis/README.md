@@ -1,5 +1,4 @@
-Stagonospora aristolochiae-siphonis Savul. & Sandu SPECIES
-=======
+# Stagonospora aristolochiae-siphonis Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Evernia altaica Flor. {?} SPECIES
-=======
+# Evernia altaica Flor. {?} SPECIES
 
 #### Status
 ACCEPTED

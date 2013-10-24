@@ -1,5 +1,4 @@
-Xanthoparmelia moctezumensis T. H. Nash SPECIES
-=======
+# Xanthoparmelia moctezumensis T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

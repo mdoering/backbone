@@ -1,5 +1,4 @@
-Helicosporiates Kalgutkar & Sigler GENUS
-=======
+# Helicosporiates Kalgutkar & Sigler GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia subrimulosa (Nyl.) Zahlbr. SPECIES
-=======
+# Toninia subrimulosa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

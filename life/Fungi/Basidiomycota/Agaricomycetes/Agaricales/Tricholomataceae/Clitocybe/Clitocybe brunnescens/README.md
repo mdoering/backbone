@@ -1,5 +1,4 @@
-Clitocybe brunnescens Murrill SPECIES
-=======
+# Clitocybe brunnescens Murrill SPECIES
 
 #### Status
 ACCEPTED

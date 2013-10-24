@@ -1,5 +1,4 @@
-Dimeriella elliotti (A.L. Sm.) Speg. SPECIES
-=======
+# Dimeriella elliotti (A.L. Sm.) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterostomella circinata Speg., 1889 SPECIES
-=======
+# Hysterostomella circinata Speg., 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria abietina Fairm. SPECIES
-=======
+# Amphisphaeria abietina Fairm. SPECIES
 
 #### Status
 ACCEPTED

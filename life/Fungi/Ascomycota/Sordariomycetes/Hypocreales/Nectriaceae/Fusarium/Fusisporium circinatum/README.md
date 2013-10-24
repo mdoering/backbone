@@ -1,5 +1,4 @@
-Fusisporium circinatum Wallr. SPECIES
-=======
+# Fusisporium circinatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wickerhamomyces Kurtzman, Robnett & Basehoar-Powers GENUS
-=======
+# Wickerhamomyces Kurtzman, Robnett & Basehoar-Powers GENUS
 
 #### Status
 ACCEPTED

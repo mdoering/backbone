@@ -1,5 +1,4 @@
-Lecanora constans Nyl. SPECIES
-=======
+# Lecanora constans Nyl. SPECIES
 
 #### Status
 ACCEPTED

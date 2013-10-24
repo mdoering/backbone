@@ -1,5 +1,4 @@
-Chloranima Strand, 1928 GENUS
-=======
+# Chloranima Strand, 1928 GENUS
 
 #### Status
 ACCEPTED

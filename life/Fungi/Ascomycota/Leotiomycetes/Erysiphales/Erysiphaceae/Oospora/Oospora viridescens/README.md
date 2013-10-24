@@ -1,5 +1,4 @@
-Oospora viridescens (Bonord.) Sacc. & Voglino SPECIES
-=======
+# Oospora viridescens (Bonord.) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenochora epimarmorata Nav.-Ros., 1998 SPECIES
-=======
+# Lichenochora epimarmorata Nav.-Ros., 1998 SPECIES
 
 #### Status
 ACCEPTED

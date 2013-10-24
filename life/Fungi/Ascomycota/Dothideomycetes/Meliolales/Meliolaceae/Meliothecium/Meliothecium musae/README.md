@@ -1,5 +1,4 @@
-Meliothecium musae (Kunze) Sacc. SPECIES
-=======
+# Meliothecium musae (Kunze) Sacc. SPECIES
 
 #### Status
 ACCEPTED

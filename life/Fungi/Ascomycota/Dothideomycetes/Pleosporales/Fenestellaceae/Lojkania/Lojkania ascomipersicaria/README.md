@@ -1,5 +1,4 @@
-Lojkania ascomipersicaria Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Lojkania ascomipersicaria Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

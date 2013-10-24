@@ -1,5 +1,4 @@
-Lecanora bulgarica Gyeln. SPECIES
-=======
+# Lecanora bulgarica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

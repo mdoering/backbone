@@ -1,5 +1,4 @@
-Starmera amethionina (Starmer, Phaff, M. Miranda & M.W. Mill.) Y. Yamada, Higashi, S. Ando & Mikata, 1997 SPECIES
-=======
+# Starmera amethionina (Starmer, Phaff, M. Miranda & M.W. Mill.) Y. Yamada, Higashi, S. Ando & Mikata, 1997 SPECIES
 
 #### Status
 ACCEPTED

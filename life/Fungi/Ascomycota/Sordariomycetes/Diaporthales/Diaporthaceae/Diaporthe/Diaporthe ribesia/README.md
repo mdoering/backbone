@@ -1,5 +1,4 @@
-Diaporthe ribesia Rehm SPECIES
-=======
+# Diaporthe ribesia Rehm SPECIES
 
 #### Status
 ACCEPTED

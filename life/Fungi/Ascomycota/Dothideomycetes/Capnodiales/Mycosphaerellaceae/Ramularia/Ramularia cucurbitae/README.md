@@ -1,5 +1,4 @@
-Ramularia cucurbitae (Sacc.) U. Braun SPECIES
-=======
+# Ramularia cucurbitae (Sacc.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

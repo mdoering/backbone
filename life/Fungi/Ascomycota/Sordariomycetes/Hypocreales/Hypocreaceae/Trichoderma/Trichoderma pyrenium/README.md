@@ -1,5 +1,4 @@
-Trichoderma pyrenium Schumach. SPECIES
-=======
+# Trichoderma pyrenium Schumach. SPECIES
 
 #### Status
 ACCEPTED

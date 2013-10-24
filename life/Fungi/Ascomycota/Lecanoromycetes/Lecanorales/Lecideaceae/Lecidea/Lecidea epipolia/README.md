@@ -1,5 +1,4 @@
-Lecidea epipolia Sommerf. SPECIES
-=======
+# Lecidea epipolia Sommerf. SPECIES
 
 #### Status
 ACCEPTED

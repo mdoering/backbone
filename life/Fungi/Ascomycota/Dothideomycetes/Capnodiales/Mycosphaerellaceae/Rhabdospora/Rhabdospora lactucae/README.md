@@ -1,5 +1,4 @@
-Rhabdospora lactucae Brunaud SPECIES
-=======
+# Rhabdospora lactucae Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma opuntiae-robustae Gervasi SPECIES
-=======
+# Macrophoma opuntiae-robustae Gervasi SPECIES
 
 #### Status
 ACCEPTED

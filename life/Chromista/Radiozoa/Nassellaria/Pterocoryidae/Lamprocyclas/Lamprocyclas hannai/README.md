@@ -1,8 +1,7 @@
-Lamprocyrtis hannai (Campbell & Clark, 1944) SPECIES
-=======
+# Lamprocyclas hannai (Campbell & Clark) Sanfilippo, Westberg-Smith & Ri SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

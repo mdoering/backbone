@@ -1,5 +1,4 @@
-Strombidiida Petz & Foissner, 1992 ORDER
-=======
+# Strombidiida Petz & Foissner, 1992 ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bispora verruculosa N.D. Sharma SPECIES
-=======
+# Bispora verruculosa N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

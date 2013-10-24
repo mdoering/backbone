@@ -1,14 +1,13 @@
-Hydronectria tethys var. glabra Kohlm., 1984 VARIETY
-=======
+# Kallichroma glabrum (Kohlm.) Kohlm. & Volkm.-Kohlm., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pubbl. Staz. Zool. Napoli, 1 5: 351 (1984)
+Mycol. Res. 97(6): 759 (1993)
 
 #### Original name
 Hydronectria tethys var. glabra Kohlm., 1984

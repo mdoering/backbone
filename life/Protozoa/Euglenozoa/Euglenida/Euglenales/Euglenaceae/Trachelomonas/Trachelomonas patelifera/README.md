@@ -1,5 +1,4 @@
-Trachelomonas patelifera Popova SPECIES
-=======
+# Trachelomonas patelifera Popova SPECIES
 
 #### Status
 ACCEPTED

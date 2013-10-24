@@ -1,5 +1,4 @@
-Sphaeronaema orobanches Hollós SPECIES
-=======
+# Sphaeronaema orobanches Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis producta Meunier, ? SPECIES
-=======
+# Tintinnopsis producta Meunier, ? SPECIES
 
 #### Status
 ACCEPTED

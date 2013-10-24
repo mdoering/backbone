@@ -1,14 +1,13 @@
-Mycomelaspilea leciographoides (Vouaux) Keissl. SPECIES
-=======
+# Melaspilea leciographoides Vouaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenhorst's Kryptogamen-Flora, Pilze - Die Flechtenparasiten 2(8): 219 (1930)
+Bull. Soc. mycol. Fr. 29: 472 (1913)
 
 #### Original name
 Melaspilea leciographoides Vouaux

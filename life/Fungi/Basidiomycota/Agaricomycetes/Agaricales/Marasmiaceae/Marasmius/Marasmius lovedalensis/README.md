@@ -1,5 +1,4 @@
-Marasmius lovedalensis Antonín & Verbeken SPECIES
-=======
+# Marasmius lovedalensis Antonín & Verbeken SPECIES
 
 #### Status
 ACCEPTED

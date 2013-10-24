@@ -1,5 +1,4 @@
-Aspicilia obscurascens (H. Magn.) Clauzade & Rondon SPECIES
-=======
+# Aspicilia obscurascens (H. Magn.) Clauzade & Rondon SPECIES
 
 #### Status
 ACCEPTED

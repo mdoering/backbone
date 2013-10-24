@@ -1,5 +1,4 @@
-Uredo costina Syd. & P. Syd. SPECIES
-=======
+# Uredo costina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

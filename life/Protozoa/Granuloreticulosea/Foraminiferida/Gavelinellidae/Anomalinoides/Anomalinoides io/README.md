@@ -1,5 +1,4 @@
-Anomalinoides io (Cushman, 1931) SPECIES
-=======
+# Anomalinoides io (Cushman, 1931) SPECIES
 
 #### Status
 ACCEPTED

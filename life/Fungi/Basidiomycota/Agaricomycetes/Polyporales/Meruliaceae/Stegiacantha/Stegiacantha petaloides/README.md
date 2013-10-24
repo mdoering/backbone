@@ -1,14 +1,13 @@
-Hydnum petaloides Lloyd, 1913 SPECIES
-=======
+# Stegiacantha petaloides (Lloyd) Maas Geest., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4 (Letter 48) 9 (1913)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 69: 317 (1966)
 
 #### Original name
 Hydnum petaloides Lloyd, 1913

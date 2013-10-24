@@ -1,5 +1,4 @@
-Clitocybe fragilis H.E. Bigelow SPECIES
-=======
+# Clitocybe fragilis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

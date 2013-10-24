@@ -1,5 +1,4 @@
-Sacidium depazeoides Cooke SPECIES
-=======
+# Sacidium depazeoides Cooke SPECIES
 
 #### Status
 ACCEPTED

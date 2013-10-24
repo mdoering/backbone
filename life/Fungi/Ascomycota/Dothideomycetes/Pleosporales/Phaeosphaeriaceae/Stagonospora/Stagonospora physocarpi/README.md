@@ -1,5 +1,4 @@
-Stagonospora physocarpi Ellis & Everh. SPECIES
-=======
+# Stagonospora physocarpi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

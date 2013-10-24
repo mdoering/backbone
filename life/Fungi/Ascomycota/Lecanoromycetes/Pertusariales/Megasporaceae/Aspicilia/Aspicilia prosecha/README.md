@@ -1,5 +1,4 @@
-Aspicilia prosecha (Ach.) Hue SPECIES
-=======
+# Aspicilia prosecha (Ach.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassomyces fasciatus (Fage) W.D. Kane SPECIES
-=======
+# Thalassomyces fasciatus (Fage) W.D. Kane SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterotrochammina delicatula SPECIES
-=======
+# Asterotrochammina delicatula SPECIES
 
 #### Status
 ACCEPTED

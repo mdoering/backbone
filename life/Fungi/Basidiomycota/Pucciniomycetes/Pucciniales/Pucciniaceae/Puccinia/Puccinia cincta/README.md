@@ -1,5 +1,4 @@
-Puccinia cincta Bonord. SPECIES
-=======
+# Puccinia cincta Bonord. SPECIES
 
 #### Status
 ACCEPTED

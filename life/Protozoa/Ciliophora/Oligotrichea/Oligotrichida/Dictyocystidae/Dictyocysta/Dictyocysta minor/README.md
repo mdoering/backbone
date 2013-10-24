@@ -1,5 +1,4 @@
-Dictyocysta minor Jörgensen, 1924 SPECIES
-=======
+# Dictyocysta minor Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

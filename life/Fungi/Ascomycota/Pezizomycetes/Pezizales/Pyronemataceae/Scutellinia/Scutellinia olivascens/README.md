@@ -1,17 +1,16 @@
-Peziza ampullacea Limm. SPECIES
-=======
+# Scutellinia olivascens (Cooke) Kuntze, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 869 (1891)
 
 #### Original name
-Peziza ampullacea Limm.
+Peziza olivascens Cooke, 1876
 
 ### Remarks
 null

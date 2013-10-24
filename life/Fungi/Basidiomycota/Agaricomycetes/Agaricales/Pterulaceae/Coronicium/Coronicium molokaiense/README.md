@@ -1,5 +1,4 @@
-Coronicium molokaiense Gilb. & Hemmes, 2004 SPECIES
-=======
+# Coronicium molokaiense Gilb. & Hemmes, 2004 SPECIES
 
 #### Status
 ACCEPTED

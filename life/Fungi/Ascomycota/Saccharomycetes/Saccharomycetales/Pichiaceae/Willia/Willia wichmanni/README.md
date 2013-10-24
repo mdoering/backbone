@@ -1,5 +1,4 @@
-Willia wichmanni Zikes SPECIES
-=======
+# Willia wichmanni Zikes SPECIES
 
 #### Status
 ACCEPTED

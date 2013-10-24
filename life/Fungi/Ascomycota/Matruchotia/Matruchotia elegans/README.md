@@ -1,5 +1,4 @@
-Matruchotia elegans Rick SPECIES
-=======
+# Matruchotia elegans Rick SPECIES
 
 #### Status
 ACCEPTED

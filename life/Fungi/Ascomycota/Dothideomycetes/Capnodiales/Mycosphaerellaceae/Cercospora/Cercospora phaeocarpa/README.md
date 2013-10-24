@@ -1,5 +1,4 @@
-Cercospora phaeocarpa Mitter SPECIES
-=======
+# Cercospora phaeocarpa Mitter SPECIES
 
 #### Status
 ACCEPTED

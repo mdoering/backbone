@@ -1,5 +1,4 @@
-Scopulodontia Hjortstam GENUS
-=======
+# Scopulodontia Hjortstam GENUS
 
 #### Status
 ACCEPTED

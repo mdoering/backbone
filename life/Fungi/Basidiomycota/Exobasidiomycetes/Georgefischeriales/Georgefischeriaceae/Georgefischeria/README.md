@@ -1,5 +1,4 @@
-Georgefischeria Thirum. & Naras. GENUS
-=======
+# Georgefischeria Thirum. & Naras. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria interstitialis (Cooke & Peck) M.E. Barr SPECIES
-=======
+# Cucurbitaria interstitialis (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

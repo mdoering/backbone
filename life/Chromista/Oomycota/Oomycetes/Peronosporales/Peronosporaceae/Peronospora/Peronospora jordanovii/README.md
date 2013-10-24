@@ -1,5 +1,4 @@
-Peronospora jordanovii Krousheva SPECIES
-=======
+# Peronospora jordanovii Krousheva SPECIES
 
 #### Status
 ACCEPTED

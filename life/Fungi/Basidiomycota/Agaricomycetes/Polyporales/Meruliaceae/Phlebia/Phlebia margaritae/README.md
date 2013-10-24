@@ -1,5 +1,4 @@
-Phlebia margaritae Duhem & H. Michel SPECIES
-=======
+# Phlebia margaritae Duhem & H. Michel SPECIES
 
 #### Status
 ACCEPTED

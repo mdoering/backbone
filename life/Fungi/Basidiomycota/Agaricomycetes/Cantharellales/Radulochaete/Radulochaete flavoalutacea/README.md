@@ -1,5 +1,4 @@
-Radulochaete flavoalutacea Rick SPECIES
-=======
+# Radulochaete flavoalutacea Rick SPECIES
 
 #### Status
 ACCEPTED

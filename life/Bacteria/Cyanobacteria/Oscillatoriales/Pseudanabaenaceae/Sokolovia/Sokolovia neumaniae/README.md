@@ -1,5 +1,4 @@
-Sokolovia neumaniae Elenkin SPECIES
-=======
+# Sokolovia neumaniae Elenkin SPECIES
 
 #### Status
 ACCEPTED

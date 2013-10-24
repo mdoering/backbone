@@ -1,5 +1,4 @@
-Vorticella putrida Müller, 1786 SPECIES
-=======
+# Vorticella putrida Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

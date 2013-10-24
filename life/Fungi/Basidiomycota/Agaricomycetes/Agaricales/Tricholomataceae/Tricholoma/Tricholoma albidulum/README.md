@@ -1,5 +1,4 @@
-Tricholoma albidulum N. Ayala, G. Moreno & Esteve-Rav. SPECIES
-=======
+# Tricholoma albidulum N. Ayala, G. Moreno & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

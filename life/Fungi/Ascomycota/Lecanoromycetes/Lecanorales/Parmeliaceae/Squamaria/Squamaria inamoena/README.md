@@ -1,5 +1,4 @@
-Squamaria inamoena (Th. Fr.) SPECIES
-=======
+# Squamaria inamoena (Th. Fr.) SPECIES
 
 #### Status
 ACCEPTED

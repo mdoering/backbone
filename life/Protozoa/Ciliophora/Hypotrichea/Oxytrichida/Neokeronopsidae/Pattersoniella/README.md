@@ -1,5 +1,4 @@
-Pattersoniella Foissner, 1987 GENUS
-=======
+# Pattersoniella Foissner, 1987 GENUS
 
 #### Status
 ACCEPTED

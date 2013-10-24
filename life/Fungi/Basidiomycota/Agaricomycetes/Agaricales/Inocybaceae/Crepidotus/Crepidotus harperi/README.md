@@ -1,5 +1,4 @@
-Crepidotus harperi var. harperi VARIETY
-=======
+# Crepidotus harperi Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 51: 586 (1960)
 
 #### Original name
-Crepidotus harperi var. harperi
+Crepidotus harperi Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hydnum sajanense (P. Karst.) Sacc. & D. Sacc. SPECIES
-=======
+# Hydnum sajanense (P. Karst.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium ostenfeldii Schiller SPECIES
-=======
+# Gymnodinium ostenfeldii Schiller SPECIES
 
 #### Status
 ACCEPTED

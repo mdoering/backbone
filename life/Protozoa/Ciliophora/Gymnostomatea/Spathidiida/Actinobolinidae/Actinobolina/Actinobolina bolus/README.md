@@ -1,5 +1,4 @@
-Actinobolina bolus Strand, 1928 SPECIES
-=======
+# Actinobolina bolus Strand, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerellothecium parmeliae Diederich & Etayo, 1998 SPECIES
-=======
+# Sphaerellothecium parmeliae Diederich & Etayo, 1998 SPECIES
 
 #### Status
 ACCEPTED

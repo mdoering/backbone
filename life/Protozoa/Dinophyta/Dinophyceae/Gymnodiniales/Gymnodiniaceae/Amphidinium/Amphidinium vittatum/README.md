@@ -1,5 +1,4 @@
-Amphidinium vittatum Conrad & Kufferath SPECIES
-=======
+# Amphidinium vittatum Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

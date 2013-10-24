@@ -1,5 +1,4 @@
-Phyllosticta aristoteliae Speg. SPECIES
-=======
+# Phyllosticta aristoteliae Speg. SPECIES
 
 #### Status
 ACCEPTED

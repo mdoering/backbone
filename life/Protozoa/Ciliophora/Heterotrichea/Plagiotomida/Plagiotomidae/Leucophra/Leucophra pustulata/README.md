@@ -1,5 +1,4 @@
-Leucophra pustulata Müller, 1786 SPECIES
-=======
+# Leucophra pustulata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

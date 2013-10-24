@@ -1,5 +1,4 @@
-Galera sordida Velen. SPECIES
-=======
+# Galera sordida Velen. SPECIES
 
 #### Status
 ACCEPTED

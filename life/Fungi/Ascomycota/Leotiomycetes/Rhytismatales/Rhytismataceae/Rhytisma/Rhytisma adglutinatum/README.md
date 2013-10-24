@@ -1,5 +1,4 @@
-Rhytisma adglutinatum Schwein. SPECIES
-=======
+# Rhytisma adglutinatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septofusidium bifusisporum Zuo Y. Liu, Z.Q. Liang & A.Y. Liu, 1996 SPECIES
-=======
+# Septofusidium bifusisporum Zuo Y. Liu, Z.Q. Liang & A.Y. Liu, 1996 SPECIES
 
 #### Status
 ACCEPTED

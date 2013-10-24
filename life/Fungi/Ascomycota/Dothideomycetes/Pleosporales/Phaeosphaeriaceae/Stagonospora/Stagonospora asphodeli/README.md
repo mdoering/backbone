@@ -1,5 +1,4 @@
-Stagonospora asphodeli var. asphodeli VARIETY
-=======
+# Stagonospora asphodeli (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stagonospora asphodeli var. asphodeli
+Septoria asphodeli Westend.
 
 ### Remarks
 null

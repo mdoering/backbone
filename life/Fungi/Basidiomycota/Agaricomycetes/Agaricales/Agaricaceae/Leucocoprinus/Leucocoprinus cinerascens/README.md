@@ -1,5 +1,4 @@
-Leucocoprinus cinerascens (Quél.) Locq. SPECIES
-=======
+# Leucocoprinus cinerascens (Quél.) Locq. SPECIES
 
 #### Status
 ACCEPTED

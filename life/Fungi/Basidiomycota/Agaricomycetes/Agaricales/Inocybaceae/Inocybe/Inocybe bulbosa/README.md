@@ -1,5 +1,4 @@
-Inocybe bulbosa Peck SPECIES
-=======
+# Inocybe bulbosa Peck SPECIES
 
 #### Status
 ACCEPTED

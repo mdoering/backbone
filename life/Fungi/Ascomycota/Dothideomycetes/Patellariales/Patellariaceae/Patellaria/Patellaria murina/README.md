@@ -1,5 +1,4 @@
-Patellaria murina (Ach.) Duby SPECIES
-=======
+# Patellaria murina (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

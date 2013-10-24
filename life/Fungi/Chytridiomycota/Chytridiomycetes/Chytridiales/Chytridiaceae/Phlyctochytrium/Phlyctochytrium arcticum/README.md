@@ -1,14 +1,13 @@
-Triparticalcar arcticum (D.J.S. Barr) D.J.S. Barr, 1980 SPECIES
-=======
+# Phlyctochytrium arcticum D.J.S. Barr, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 58(22): 2386 (1980)
+Can. J. Bot. 48(12): 2279 (1970)
 
 #### Original name
 Phlyctochytrium arcticum D.J.S. Barr, 1970

@@ -1,5 +1,4 @@
-Lajassiella aphodii Tuzet & Manier ex Manier, 1968 SPECIES
-=======
+# Lajassiella aphodii Tuzet & Manier ex Manier, 1968 SPECIES
 
 #### Status
 ACCEPTED

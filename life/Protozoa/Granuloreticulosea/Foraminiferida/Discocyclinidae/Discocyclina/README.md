@@ -1,5 +1,4 @@
-Discocyclina Gumbel, 1870 GENUS
-=======
+# Discocyclina Gumbel, 1870 GENUS
 
 #### Status
 ACCEPTED

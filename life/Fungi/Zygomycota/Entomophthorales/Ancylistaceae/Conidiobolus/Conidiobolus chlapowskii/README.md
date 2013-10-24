@@ -1,5 +1,4 @@
-Conidiobolus chlapowskii Balazy, J. Wisn. & S. Kaczm. SPECIES
-=======
+# Conidiobolus chlapowskii Balazy, J. Wisn. & S. Kaczm. SPECIES
 
 #### Status
 ACCEPTED

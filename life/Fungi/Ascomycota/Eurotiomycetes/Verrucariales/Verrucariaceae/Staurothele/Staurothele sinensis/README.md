@@ -1,5 +1,4 @@
-Staurothele sinensis f. sinensis FORM
-=======
+# Staurothele sinensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Staurothele sinensis f. sinensis
+Staurothele sinensis Zahlbr.
 
 ### Remarks
 null

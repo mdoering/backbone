@@ -1,5 +1,4 @@
-Lecanora subleptacinella Zahlbr. SPECIES
-=======
+# Lecanora subleptacinella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

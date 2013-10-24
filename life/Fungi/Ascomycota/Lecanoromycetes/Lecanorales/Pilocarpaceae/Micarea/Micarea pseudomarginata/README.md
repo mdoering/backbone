@@ -1,5 +1,4 @@
-Micarea pseudomarginata Coppins SPECIES
-=======
+# Micarea pseudomarginata Coppins SPECIES
 
 #### Status
 ACCEPTED

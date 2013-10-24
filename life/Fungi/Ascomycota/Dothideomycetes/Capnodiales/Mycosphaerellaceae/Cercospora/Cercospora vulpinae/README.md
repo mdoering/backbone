@@ -1,5 +1,4 @@
-Cercospora vulpinae Ellis & Kellerm. SPECIES
-=======
+# Cercospora vulpinae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

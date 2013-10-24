@@ -1,5 +1,4 @@
-Lecanora acervulata Raddi SPECIES
-=======
+# Lecanora acervulata Raddi SPECIES
 
 #### Status
 ACCEPTED

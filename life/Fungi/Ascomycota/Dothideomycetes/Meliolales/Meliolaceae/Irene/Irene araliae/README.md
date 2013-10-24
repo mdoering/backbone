@@ -1,5 +1,4 @@
-Irene araliae (Spreng.) F. Stevens SPECIES
-=======
+# Irene araliae (Spreng.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

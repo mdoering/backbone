@@ -1,5 +1,4 @@
-Stomatogene lycopodii M.L. Farr SPECIES
-=======
+# Stomatogene lycopodii M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

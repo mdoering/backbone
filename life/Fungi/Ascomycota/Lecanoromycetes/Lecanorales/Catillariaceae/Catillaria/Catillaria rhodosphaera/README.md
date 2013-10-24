@@ -1,5 +1,4 @@
-Catillaria rhodosphaera Th. Fr. SPECIES
-=======
+# Catillaria rhodosphaera Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

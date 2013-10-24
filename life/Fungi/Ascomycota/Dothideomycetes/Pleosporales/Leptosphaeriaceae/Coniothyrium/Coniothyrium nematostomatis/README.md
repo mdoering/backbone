@@ -1,5 +1,4 @@
-Coniothyrium nematostomatis Petr. SPECIES
-=======
+# Coniothyrium nematostomatis Petr. SPECIES
 
 #### Status
 ACCEPTED

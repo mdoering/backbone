@@ -1,5 +1,4 @@
-Cortinarius corrugatus var. corrugatus VARIETY
-=======
+# Cortinarius corrugatus Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius corrugatus var. corrugatus
+Cortinarius corrugatus Peck
 
 ### Remarks
 null

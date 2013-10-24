@@ -1,5 +1,4 @@
-Agaricus subantiquatus Batsch SPECIES
-=======
+# Agaricus subantiquatus Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxytricha fusiformis SPECIES
-=======
+# Oxytricha fusiformis SPECIES
 
 #### Status
 ACCEPTED

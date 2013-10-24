@@ -1,5 +1,4 @@
-Dicaeoma lupini Hoffm. SPECIES
-=======
+# Dicaeoma lupini Hoffm. SPECIES
 
 #### Status
 ACCEPTED

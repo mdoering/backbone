@@ -1,5 +1,4 @@
-Hypoxylon punctidiscum J.D. Rogers SPECIES
-=======
+# Hypoxylon punctidiscum J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

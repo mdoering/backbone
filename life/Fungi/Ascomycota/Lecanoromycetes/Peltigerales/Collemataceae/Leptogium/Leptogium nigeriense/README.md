@@ -1,5 +1,4 @@
-Leptogium nigeriense C.W. Dodge SPECIES
-=======
+# Leptogium nigeriense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium woodianum Doidge SPECIES
-=======
+# Aecidium woodianum Doidge SPECIES
 
 #### Status
 ACCEPTED

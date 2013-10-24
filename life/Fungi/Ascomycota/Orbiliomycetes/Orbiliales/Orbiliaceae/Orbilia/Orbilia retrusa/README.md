@@ -1,5 +1,4 @@
-Orbilia retrusa (W. Phillips & Plowr.) Sacc., 1889 SPECIES
-=======
+# Orbilia retrusa (W. Phillips & Plowr.) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

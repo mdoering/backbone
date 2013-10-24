@@ -1,5 +1,4 @@
-Erinella candida Penz. & Sacc. SPECIES
-=======
+# Erinella candida Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta sorbariae H.C. Greene SPECIES
-=======
+# Phyllosticta sorbariae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina dendroides (Nyl.) Nyl. SPECIES
-=======
+# Ramalina dendroides (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

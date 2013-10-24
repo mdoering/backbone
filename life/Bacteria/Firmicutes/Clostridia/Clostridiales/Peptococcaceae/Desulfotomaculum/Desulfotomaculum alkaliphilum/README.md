@@ -1,5 +1,4 @@
-Desulfotomaculum alkaliphilum Pikuta et al., 2000 SPECIES
-=======
+# Desulfotomaculum alkaliphilum Pikuta et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

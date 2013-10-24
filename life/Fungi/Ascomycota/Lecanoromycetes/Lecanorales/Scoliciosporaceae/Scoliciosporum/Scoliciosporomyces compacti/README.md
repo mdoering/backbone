@@ -1,5 +1,4 @@
-Scoliciosporomyces compacti Cif. & Tomas. SPECIES
-=======
+# Scoliciosporomyces compacti Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

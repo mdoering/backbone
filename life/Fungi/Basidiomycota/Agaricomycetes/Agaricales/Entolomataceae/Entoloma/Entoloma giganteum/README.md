@@ -1,5 +1,4 @@
-Entoloma giganteum Murrill SPECIES
-=======
+# Entoloma giganteum Murrill SPECIES
 
 #### Status
 ACCEPTED

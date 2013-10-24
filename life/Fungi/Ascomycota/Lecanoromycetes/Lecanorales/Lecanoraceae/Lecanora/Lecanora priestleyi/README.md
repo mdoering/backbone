@@ -1,5 +1,4 @@
-Lecanora priestleyi C.W. Dodge SPECIES
-=======
+# Lecanora priestleyi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

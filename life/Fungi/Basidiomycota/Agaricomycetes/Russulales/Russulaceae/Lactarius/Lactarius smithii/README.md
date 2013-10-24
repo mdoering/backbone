@@ -1,5 +1,4 @@
-Lactarius smithii Montoya & Bandala SPECIES
-=======
+# Lactarius smithii Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

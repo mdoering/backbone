@@ -1,17 +1,16 @@
-Exobasidium vaccinii f. vaccinii (Fuckel) Woronin FORM
-=======
+# Exobasidium vaccinii (Fuckel) Woronin, 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Ges. Z. Freib. B 4(4): 397 (1867)
 
 #### Original name
-Exobasidium vaccinii f. vaccinii (Fuckel) Woronin
+Fusidium vaccinii Fuckel, 1861
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bottaria GENUS
-=======
+# Bottaria GENUS
 
 #### Status
 ACCEPTED

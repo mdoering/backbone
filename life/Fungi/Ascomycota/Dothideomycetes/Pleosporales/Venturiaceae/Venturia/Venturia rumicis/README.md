@@ -1,17 +1,16 @@
-Sphaeria vagans rumicicola Fr. SUBSPECIES
-=======
+# Venturia rumicis (Desm.) G. Winter, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(2): 435 (1885)
 
 #### Original name
-null
+Sphaeria rumicis Desm., 1843
 
 ### Remarks
 null

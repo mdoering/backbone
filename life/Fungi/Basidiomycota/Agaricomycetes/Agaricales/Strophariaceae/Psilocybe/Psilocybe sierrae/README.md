@@ -1,5 +1,4 @@
-Psilocybe sierrae Singer SPECIES
-=======
+# Psilocybe sierrae Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium conyzae-auriculiferae Jørst. SPECIES
-=======
+# Aecidium conyzae-auriculiferae Jørst. SPECIES
 
 #### Status
 ACCEPTED

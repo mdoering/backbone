@@ -1,5 +1,4 @@
-Navicella turrita (Cooke & Peck) Kuntze SPECIES
-=======
+# Navicella turrita (Cooke & Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

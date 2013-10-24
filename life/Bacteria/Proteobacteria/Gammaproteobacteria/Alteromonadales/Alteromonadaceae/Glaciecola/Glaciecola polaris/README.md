@@ -1,5 +1,4 @@
-Glaciecola polaris Van Trappen et al., 2004 SPECIES
-=======
+# Glaciecola polaris Van Trappen et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

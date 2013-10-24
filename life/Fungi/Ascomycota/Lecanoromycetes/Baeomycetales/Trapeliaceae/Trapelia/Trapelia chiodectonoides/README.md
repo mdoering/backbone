@@ -1,5 +1,4 @@
-Trapelia chiodectonoides Brusse SPECIES
-=======
+# Trapelia chiodectonoides Brusse SPECIES
 
 #### Status
 ACCEPTED

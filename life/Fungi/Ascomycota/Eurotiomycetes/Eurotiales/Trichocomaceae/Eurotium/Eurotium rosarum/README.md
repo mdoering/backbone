@@ -1,5 +1,4 @@
-Eurotium rosarum Grev. SPECIES
-=======
+# Eurotium rosarum Grev. SPECIES
 
 #### Status
 ACCEPTED

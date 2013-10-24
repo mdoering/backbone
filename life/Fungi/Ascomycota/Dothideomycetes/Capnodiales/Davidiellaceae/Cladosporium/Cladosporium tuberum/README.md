@@ -1,5 +1,4 @@
-Cladosporium tuberum Cooke SPECIES
-=======
+# Cladosporium tuberum Cooke SPECIES
 
 #### Status
 ACCEPTED

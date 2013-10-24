@@ -1,17 +1,16 @@
-Russula schoeffeli Cern. & H. Raab SPECIES
-=======
+# Russula schoeffelii Cern. & H. Raab SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 9(1-6): 277 (1955)
 
 #### Original name
-Russula schoeffeli Cern. & H. Raab
+Russula schoeffelii Cern. & H. Raab
 
 ### Remarks
 null

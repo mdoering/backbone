@@ -1,5 +1,4 @@
-Hygrophorus roseus Murrill SPECIES
-=======
+# Hygrophorus roseus Murrill SPECIES
 
 #### Status
 ACCEPTED

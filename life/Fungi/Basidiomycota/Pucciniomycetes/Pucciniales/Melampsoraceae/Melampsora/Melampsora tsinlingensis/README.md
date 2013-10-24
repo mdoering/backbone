@@ -1,5 +1,4 @@
-Melampsora tsinlingensis Z.M. Cao & J.Y. Zhuang SPECIES
-=======
+# Melampsora tsinlingensis Z.M. Cao & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

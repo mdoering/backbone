@@ -1,5 +1,4 @@
-Devosia subaequoris Lee, 2007 SPECIES
-=======
+# Devosia subaequoris Lee, 2007 SPECIES
 
 #### Status
 ACCEPTED

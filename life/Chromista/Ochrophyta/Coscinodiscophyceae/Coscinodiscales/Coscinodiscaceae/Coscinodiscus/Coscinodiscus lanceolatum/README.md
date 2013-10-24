@@ -1,5 +1,4 @@
-Coscinodiscus lanceolatum Ehrenberg SPECIES
-=======
+# Coscinodiscus lanceolatum Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe hispanica Guzmán SPECIES
-=======
+# Psilocybe hispanica Guzmán SPECIES
 
 #### Status
 ACCEPTED

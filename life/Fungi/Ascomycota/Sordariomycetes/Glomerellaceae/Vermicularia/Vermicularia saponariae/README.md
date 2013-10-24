@@ -1,5 +1,4 @@
-Vermicularia saponariae Allesch. SPECIES
-=======
+# Vermicularia saponariae Allesch. SPECIES
 
 #### Status
 ACCEPTED

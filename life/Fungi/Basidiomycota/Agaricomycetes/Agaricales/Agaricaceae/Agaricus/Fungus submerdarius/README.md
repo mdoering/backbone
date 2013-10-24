@@ -1,5 +1,4 @@
-Fungus submerdarius (Britzelm.) Kuntze SPECIES
-=======
+# Fungus submerdarius (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

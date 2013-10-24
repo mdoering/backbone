@@ -1,5 +1,4 @@
-Ramaria samuelsii R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria samuelsii R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

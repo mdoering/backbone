@@ -1,5 +1,4 @@
-Parmelia atrocoerulea (Rabenh.) Schaer. SPECIES
-=======
+# Parmelia atrocoerulea (Rabenh.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

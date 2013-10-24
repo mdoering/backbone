@@ -1,5 +1,4 @@
-Pyrenula alni A. Massal. SPECIES
-=======
+# Pyrenula alni A. Massal. SPECIES
 
 #### Status
 ACCEPTED

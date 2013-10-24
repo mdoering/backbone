@@ -1,5 +1,4 @@
-Oidium acutatum Bonord. SPECIES
-=======
+# Oidium acutatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

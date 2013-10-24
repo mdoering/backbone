@@ -1,5 +1,4 @@
-Cortinarius stemmatus Fr. SPECIES
-=======
+# Cortinarius stemmatus Fr. SPECIES
 
 #### Status
 ACCEPTED

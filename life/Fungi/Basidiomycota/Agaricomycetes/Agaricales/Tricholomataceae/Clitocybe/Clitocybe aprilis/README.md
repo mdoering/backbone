@@ -1,5 +1,4 @@
-Clitocybe aprilis Singer SPECIES
-=======
+# Clitocybe aprilis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria hysterioides Ellis & Everh. SPECIES
-=======
+# Botryosphaeria hysterioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

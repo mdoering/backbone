@@ -1,5 +1,4 @@
-Bacidia gilvorufella (Nyl.) SPECIES
-=======
+# Bacidia gilvorufella (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

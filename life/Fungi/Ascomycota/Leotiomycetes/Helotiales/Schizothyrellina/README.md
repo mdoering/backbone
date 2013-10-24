@@ -1,5 +1,4 @@
-Schizothyrellina GENUS
-=======
+# Schizothyrellina GENUS
 
 #### Status
 ACCEPTED

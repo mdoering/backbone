@@ -1,5 +1,4 @@
-Paramicrothallites menonii K.P. Jain & R.C. Gupta SPECIES
-=======
+# Paramicrothallites menonii K.P. Jain & R.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

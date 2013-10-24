@@ -1,8 +1,7 @@
-Ophrydium eichhornii SPECIES
-=======
+# Ophrydium eichhorni Ehrenberg, 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Camarophyllus subniveus (S. Imai) S. Ito SPECIES
-=======
+# Camarophyllus subniveus (S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces brizae Gäum., E. Müll. & Terrier SPECIES
-=======
+# Uromyces brizae Gäum., E. Müll. & Terrier SPECIES
 
 #### Status
 ACCEPTED

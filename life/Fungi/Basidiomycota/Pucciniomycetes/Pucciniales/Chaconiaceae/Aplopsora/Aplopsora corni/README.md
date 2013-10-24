@@ -1,5 +1,4 @@
-Aplopsora corni Y. Ono & Y. Harada, 1994 SPECIES
-=======
+# Aplopsora corni Y. Ono & Y. Harada, 1994 SPECIES
 
 #### Status
 ACCEPTED

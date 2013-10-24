@@ -1,5 +1,4 @@
-Urceolaria malmeana (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria malmeana (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

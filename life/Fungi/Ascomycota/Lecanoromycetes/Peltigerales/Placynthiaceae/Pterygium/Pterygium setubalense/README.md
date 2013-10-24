@@ -1,5 +1,4 @@
-Pterygium setubalense Nyl. SPECIES
-=======
+# Pterygium setubalense Nyl. SPECIES
 
 #### Status
 ACCEPTED

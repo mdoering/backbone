@@ -1,5 +1,4 @@
-Helotium violascens Pat. SPECIES
-=======
+# Helotium violascens Pat. SPECIES
 
 #### Status
 ACCEPTED

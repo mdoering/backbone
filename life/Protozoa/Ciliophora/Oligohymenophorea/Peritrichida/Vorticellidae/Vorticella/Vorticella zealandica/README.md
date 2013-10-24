@@ -1,5 +1,4 @@
-Vorticella zealandica Kirk, 1887 SPECIES
-=======
+# Vorticella zealandica Kirk, 1887 SPECIES
 
 #### Status
 ACCEPTED

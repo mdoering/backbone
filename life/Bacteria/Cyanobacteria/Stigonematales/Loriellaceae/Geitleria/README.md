@@ -1,5 +1,4 @@
-Geitleria Friedmann, 1955 GENUS
-=======
+# Geitleria Friedmann, 1955 GENUS
 
 #### Status
 ACCEPTED

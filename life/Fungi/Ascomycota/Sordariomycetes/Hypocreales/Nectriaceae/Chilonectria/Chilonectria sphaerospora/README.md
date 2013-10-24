@@ -1,5 +1,4 @@
-Chilonectria sphaerospora (Ellis & Everh.) Sacc. SPECIES
-=======
+# Chilonectria sphaerospora (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

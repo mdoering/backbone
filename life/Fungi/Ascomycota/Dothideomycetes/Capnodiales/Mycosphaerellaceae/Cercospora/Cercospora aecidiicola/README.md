@@ -1,5 +1,4 @@
-Cercospora aecidiicola Rao & M.A. Salam SPECIES
-=======
+# Cercospora aecidiicola Rao & M.A. Salam SPECIES
 
 #### Status
 ACCEPTED

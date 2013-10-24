@@ -1,5 +1,4 @@
-Meliola kawakamii W. Yamam. SPECIES
-=======
+# Meliola kawakamii W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

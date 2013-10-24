@@ -1,5 +1,4 @@
-Nectriopsis epinectria (Teng) Samuels SPECIES
-=======
+# Nectriopsis epinectria (Teng) Samuels SPECIES
 
 #### Status
 ACCEPTED

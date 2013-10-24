@@ -1,5 +1,4 @@
-Synsphaeridium compactum Medvedeva in Medvedeva & Kuzovleva, 1971 SPECIES
-=======
+# Synsphaeridium compactum Medvedeva in Medvedeva & Kuzovleva, 1971 SPECIES
 
 #### Status
 ACCEPTED

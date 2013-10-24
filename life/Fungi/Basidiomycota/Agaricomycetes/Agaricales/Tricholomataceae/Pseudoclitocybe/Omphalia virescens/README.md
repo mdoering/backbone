@@ -1,5 +1,4 @@
-Omphalia virescens Rick SPECIES
-=======
+# Omphalia virescens Rick SPECIES
 
 #### Status
 ACCEPTED

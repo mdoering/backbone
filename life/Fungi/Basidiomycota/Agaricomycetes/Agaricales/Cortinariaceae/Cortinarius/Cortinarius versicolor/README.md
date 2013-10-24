@@ -1,5 +1,4 @@
-Cortinarius versicolor var. scandoides Rob. Henry VARIETY
-=======
+# Cortinarius versicolor A. Blytt SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 7(no. 25): 55 (1976)
 
 #### Original name
-Cortinarius versicolor var. scandoides Rob. Henry
+Cortinarius versicolor A. Blytt
 
 ### Remarks
 null

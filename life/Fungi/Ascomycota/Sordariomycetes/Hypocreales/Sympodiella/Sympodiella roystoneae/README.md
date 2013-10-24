@@ -1,5 +1,4 @@
-Sympodiella roystoneae Mercado & R.F. Castañeda, 1985 SPECIES
-=======
+# Sympodiella roystoneae Mercado & R.F. Castañeda, 1985 SPECIES
 
 #### Status
 ACCEPTED

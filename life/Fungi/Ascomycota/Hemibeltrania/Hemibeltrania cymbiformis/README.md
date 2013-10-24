@@ -1,5 +1,4 @@
-Hemibeltrania cymbiformis Zucconi SPECIES
-=======
+# Hemibeltrania cymbiformis Zucconi SPECIES
 
 #### Status
 ACCEPTED

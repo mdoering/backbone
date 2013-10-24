@@ -1,5 +1,4 @@
-Endopyrenium crustaceum B. de Lesd. SPECIES
-=======
+# Endopyrenium crustaceum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

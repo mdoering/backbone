@@ -1,5 +1,4 @@
-Sporidesmium longirostratum M.B. Ellis SPECIES
-=======
+# Sporidesmium longirostratum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

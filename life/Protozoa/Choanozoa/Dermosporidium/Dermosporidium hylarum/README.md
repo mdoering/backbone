@@ -1,5 +1,4 @@
-Dermosporidium hylarum Carini SPECIES
-=======
+# Dermosporidium hylarum Carini SPECIES
 
 #### Status
 ACCEPTED

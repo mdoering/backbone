@@ -1,5 +1,4 @@
-Urceolaria recondita Kremp. SPECIES
-=======
+# Urceolaria recondita Kremp. SPECIES
 
 #### Status
 ACCEPTED

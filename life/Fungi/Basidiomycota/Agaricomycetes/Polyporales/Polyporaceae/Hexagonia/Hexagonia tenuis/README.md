@@ -1,17 +1,16 @@
-Trametes tenuis var. tenuis VARIETY
-=======
+# Hexagonia tenuis (Hook.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 97: 170 (1989)
+Epicr. syst. mycol. (Upsaliae) 498 (1838)
 
 #### Original name
-Trametes tenuis var. tenuis
+Boletus tenuis Hook., 1822
 
 ### Remarks
 null

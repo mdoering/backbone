@@ -1,5 +1,4 @@
-Acarospora clauzadeana (Llimona) Casares & Hafellner SPECIES
-=======
+# Acarospora clauzadeana (Llimona) Casares & Hafellner SPECIES
 
 #### Status
 ACCEPTED

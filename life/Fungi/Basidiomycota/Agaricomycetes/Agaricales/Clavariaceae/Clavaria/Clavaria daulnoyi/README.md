@@ -1,5 +1,4 @@
-Clavaria daulnoyi Quél. SPECIES
-=======
+# Clavaria daulnoyi Quél. SPECIES
 
 #### Status
 ACCEPTED

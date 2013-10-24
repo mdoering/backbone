@@ -1,5 +1,4 @@
-Fellomyces lichenicola Prillinger, G. Kraep. & Lopandic SPECIES
-=======
+# Fellomyces lichenicola Prillinger, G. Kraep. & Lopandic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prospodium perodiosum Cummins SPECIES
-=======
+# Prospodium perodiosum Cummins SPECIES
 
 #### Status
 ACCEPTED

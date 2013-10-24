@@ -1,8 +1,7 @@
-Acanthoecopsis asymmetrica Thomsen, 1979 SPECIES
-=======
+# Acanthocorbis asymmetrica (Thomsen, 1979) Hara & Takahashi, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

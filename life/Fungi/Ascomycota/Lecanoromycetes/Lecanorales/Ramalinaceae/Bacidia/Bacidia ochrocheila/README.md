@@ -1,5 +1,4 @@
-Bacidia ochrocheila (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia ochrocheila (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

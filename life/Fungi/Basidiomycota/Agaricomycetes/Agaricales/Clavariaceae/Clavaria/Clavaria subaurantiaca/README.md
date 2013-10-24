@@ -1,5 +1,4 @@
-Clavaria subaurantiaca Henn. & E. Nyman SPECIES
-=======
+# Clavaria subaurantiaca Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

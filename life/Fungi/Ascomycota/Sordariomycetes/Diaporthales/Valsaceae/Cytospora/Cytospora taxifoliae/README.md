@@ -1,5 +1,4 @@
-Cytospora taxifoliae Cooke & Massee SPECIES
-=======
+# Cytospora taxifoliae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

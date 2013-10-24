@@ -1,5 +1,4 @@
-Pucciniasporonites Ramanujam & Ramachar GENUS
-=======
+# Pucciniasporonites Ramanujam & Ramachar GENUS
 
 #### Status
 ACCEPTED

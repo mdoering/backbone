@@ -1,14 +1,13 @@
-Sphaerella myrticola Speg., 1921 SPECIES
-=======
+# Davidiella myrticola (Speg.) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 25: 58 (1921)
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 137 (2006)
 
 #### Original name
 Sphaerella myrticola Speg., 1921

@@ -1,5 +1,4 @@
-Cortinellus formosus Murrill SPECIES
-=======
+# Cortinellus formosus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nowakowskiella atkinsii Sparrow, 1950 SPECIES
-=======
+# Nowakowskiella atkinsii Sparrow, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus kimchii Yoon et al., 2000 SPECIES
-=======
+# Lactobacillus kimchii Yoon et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

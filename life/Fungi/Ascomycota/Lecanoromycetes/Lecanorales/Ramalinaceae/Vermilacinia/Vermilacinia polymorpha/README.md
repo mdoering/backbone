@@ -1,5 +1,4 @@
-Vermilacinia polymorpha (Bowler, J.E. Marsh, T.H. Nash & Riefner) Spjut SPECIES
-=======
+# Vermilacinia polymorpha (Bowler, J.E. Marsh, T.H. Nash & Riefner) Spjut SPECIES
 
 #### Status
 ACCEPTED

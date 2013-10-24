@@ -1,5 +1,4 @@
-Fusidium olivacea Corda SPECIES
-=======
+# Fusidium olivacea Corda SPECIES
 
 #### Status
 ACCEPTED

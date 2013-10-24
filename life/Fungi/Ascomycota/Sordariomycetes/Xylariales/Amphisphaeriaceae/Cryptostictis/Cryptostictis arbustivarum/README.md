@@ -1,5 +1,4 @@
-Cryptostictis arbustivarum Sousa da Câmara SPECIES
-=======
+# Cryptostictis arbustivarum Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

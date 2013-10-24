@@ -1,5 +1,4 @@
-Pyrenopsis monilifera Vain. SPECIES
-=======
+# Pyrenopsis monilifera Vain. SPECIES
 
 #### Status
 ACCEPTED

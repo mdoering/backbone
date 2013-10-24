@@ -1,5 +1,4 @@
-Armillaria fulgens Sacc. SPECIES
-=======
+# Armillaria fulgens Sacc. SPECIES
 
 #### Status
 ACCEPTED

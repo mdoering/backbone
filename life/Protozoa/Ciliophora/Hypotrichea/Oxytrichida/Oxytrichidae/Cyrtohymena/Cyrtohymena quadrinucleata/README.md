@@ -1,8 +1,7 @@
-Steinia quadrinucleata Dragesco & Njiné, 1971 SPECIES
-=======
+# Cyrtohymena quadrinucleata (Dragesco & Njiné, 1971) Foissner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

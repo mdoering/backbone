@@ -1,5 +1,4 @@
-Polysphondylium equisetoides Cavender, J.C. Landolt, S.L. Stephenson, N.Cavender & Vadell, 2004 SPECIES
-=======
+# Polysphondylium equisetoides Cavender, J.C. Landolt, S.L. Stephenson, N.Cavender & Vadell, 2004 SPECIES
 
 #### Status
 ACCEPTED

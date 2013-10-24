@@ -1,14 +1,13 @@
-Helminthosporium ocellum Faris, 1928 SPECIES
-=======
+# Drechslera ocella (Faris) Subram. & B.L. Jain, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 18: 753, 757 (1928)
+Curr. Sci. 35: 354 (1966)
 
 #### Original name
 Helminthosporium ocellum Faris, 1928

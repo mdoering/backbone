@@ -1,5 +1,4 @@
-Uredo appendiculosa (Link) Berk. SPECIES
-=======
+# Uredo appendiculosa (Link) Berk. SPECIES
 
 #### Status
 ACCEPTED

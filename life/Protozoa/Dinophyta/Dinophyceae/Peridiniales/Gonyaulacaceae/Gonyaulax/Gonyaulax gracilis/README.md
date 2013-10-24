@@ -1,5 +1,4 @@
-Gonyaulax gracilis Schiller SPECIES
-=======
+# Gonyaulax gracilis Schiller SPECIES
 
 #### Status
 ACCEPTED

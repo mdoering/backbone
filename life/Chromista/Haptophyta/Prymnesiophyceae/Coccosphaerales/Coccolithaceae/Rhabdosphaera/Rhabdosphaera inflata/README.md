@@ -1,5 +1,4 @@
-Rhabdosphaera inflata Bramlette & Sullivan, 1961 SPECIES
-=======
+# Rhabdosphaera inflata Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

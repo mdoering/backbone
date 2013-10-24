@@ -1,5 +1,4 @@
-Palaeohystrichophora dispersa Cookson & Eisenack SPECIES
-=======
+# Palaeohystrichophora dispersa Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

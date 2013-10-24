@@ -1,5 +1,4 @@
-Cortinarius emodensis var. emodensis VARIETY
-=======
+# Cortinarius emodensis Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius emodensis var. emodensis
+Cortinarius emodensis Berk.
 
 ### Remarks
 null

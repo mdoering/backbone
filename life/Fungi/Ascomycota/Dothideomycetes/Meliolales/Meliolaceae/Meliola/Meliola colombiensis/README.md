@@ -1,5 +1,4 @@
-Meliola colombiensis Hansf. SPECIES
-=======
+# Meliola colombiensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Diplodina rostrupii Vestergr. SPECIES
-=======
+# Diplodinis rostrupi (Vestergr.) Clem., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. Fung. (Minneapolis) 364 (1931)
 
 #### Original name
 Diplodina rostrupii Vestergr.

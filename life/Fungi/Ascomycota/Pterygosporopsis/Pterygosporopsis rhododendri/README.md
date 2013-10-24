@@ -1,5 +1,4 @@
-Pterygosporopsis rhododendri P.M. Kirk, 1984 SPECIES
-=======
+# Pterygosporopsis rhododendri P.M. Kirk, 1984 SPECIES
 
 #### Status
 ACCEPTED

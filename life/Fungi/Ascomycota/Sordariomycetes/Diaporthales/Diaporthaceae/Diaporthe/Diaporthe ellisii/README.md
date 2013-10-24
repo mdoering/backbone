@@ -1,5 +1,4 @@
-Diaporthe ellisii Rehm SPECIES
-=======
+# Diaporthe ellisii Rehm SPECIES
 
 #### Status
 ACCEPTED

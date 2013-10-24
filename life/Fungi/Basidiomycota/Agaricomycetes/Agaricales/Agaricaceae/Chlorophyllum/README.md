@@ -1,5 +1,4 @@
-Chlorophyllum Massee, 1898 GENUS
-=======
+# Chlorophyllum Massee, 1898 GENUS
 
 #### Status
 ACCEPTED

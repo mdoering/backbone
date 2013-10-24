@@ -1,5 +1,4 @@
-Inocybe multispora Murrill SPECIES
-=======
+# Inocybe multispora Murrill SPECIES
 
 #### Status
 ACCEPTED

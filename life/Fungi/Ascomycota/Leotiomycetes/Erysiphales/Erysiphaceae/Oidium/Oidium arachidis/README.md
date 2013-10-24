@@ -1,5 +1,4 @@
-Oidium arachidis Chorin, 1961 SPECIES
-=======
+# Oidium arachidis Chorin, 1961 SPECIES
 
 #### Status
 ACCEPTED

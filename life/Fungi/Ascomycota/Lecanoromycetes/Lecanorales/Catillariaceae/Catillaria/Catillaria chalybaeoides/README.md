@@ -1,5 +1,4 @@
-Catillaria chalybaeoides Malme SPECIES
-=======
+# Catillaria chalybaeoides Malme SPECIES
 
 #### Status
 ACCEPTED

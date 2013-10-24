@@ -1,5 +1,4 @@
-Coelosphaeria corticata Ellis & Everh. SPECIES
-=======
+# Coelosphaeria corticata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

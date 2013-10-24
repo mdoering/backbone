@@ -1,5 +1,4 @@
-Dendrophoma aconiti Petr. SPECIES
-=======
+# Dendrophoma aconiti Petr. SPECIES
 
 #### Status
 ACCEPTED

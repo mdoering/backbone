@@ -1,5 +1,4 @@
-Psalliota lividonitida F.H. Møller SPECIES
-=======
+# Psalliota lividonitida F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

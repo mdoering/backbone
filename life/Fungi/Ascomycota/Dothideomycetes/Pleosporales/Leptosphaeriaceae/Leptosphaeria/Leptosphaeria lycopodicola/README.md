@@ -1,5 +1,4 @@
-Leptosphaeria lycopodicola var. lycopodicola VARIETY
-=======
+# Leptosphaeria lycopodicola Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 38: 105 (1885)
 
 #### Original name
-Leptosphaeria lycopodicola var. lycopodicola
+Leptosphaeria lycopodicola Peck
 
 ### Remarks
 null

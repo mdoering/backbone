@@ -1,14 +1,13 @@
-Sphaeropsis quercicola (Oudem.) Sacc., 1906 SPECIES
-=======
+# Pilidiella quercicola (Oudem.) Petr., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Repert. Spec. Nov. Regni Veg. Beih. 42(1): 462 (1927)
 
 #### Original name
 Sphaeropsis quercicola (Oudem.) Sacc., 1906

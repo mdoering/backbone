@@ -1,5 +1,4 @@
-Clitocybe luteicolor (Murrill) H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe luteicolor (Murrill) H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

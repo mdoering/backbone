@@ -1,5 +1,4 @@
-Creosphaeria pinea Petr. SPECIES
-=======
+# Creosphaeria pinea Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tongitheca GENUS
-=======
+# Tongitheca GENUS
 
 #### Status
 ACCEPTED

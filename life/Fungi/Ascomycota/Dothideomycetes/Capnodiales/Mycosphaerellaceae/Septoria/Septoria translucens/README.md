@@ -1,5 +1,4 @@
-Septoria translucens Tassi SPECIES
-=======
+# Septoria translucens Tassi SPECIES
 
 #### Status
 ACCEPTED

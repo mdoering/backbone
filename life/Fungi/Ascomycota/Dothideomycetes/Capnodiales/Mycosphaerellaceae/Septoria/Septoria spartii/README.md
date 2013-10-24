@@ -1,5 +1,4 @@
-Septoria spartii Roberge ex Desm. SPECIES
-=======
+# Septoria spartii Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

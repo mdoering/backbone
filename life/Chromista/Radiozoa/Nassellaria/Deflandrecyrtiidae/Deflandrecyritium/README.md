@@ -1,5 +1,4 @@
-Deflandrecyritium GENUS
-=======
+# Deflandrecyritium GENUS
 
 #### Status
 ACCEPTED

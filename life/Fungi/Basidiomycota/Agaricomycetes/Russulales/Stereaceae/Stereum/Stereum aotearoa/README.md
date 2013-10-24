@@ -1,5 +1,4 @@
-Stereum aotearoa G. Cunn., 1956 SPECIES
-=======
+# Stereum aotearoa G. Cunn., 1956 SPECIES
 
 #### Status
 ACCEPTED

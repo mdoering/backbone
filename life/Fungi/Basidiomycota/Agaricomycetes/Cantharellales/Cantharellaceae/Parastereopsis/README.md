@@ -1,5 +1,4 @@
-Parastereopsis Corner GENUS
-=======
+# Parastereopsis Corner GENUS
 
 #### Status
 ACCEPTED

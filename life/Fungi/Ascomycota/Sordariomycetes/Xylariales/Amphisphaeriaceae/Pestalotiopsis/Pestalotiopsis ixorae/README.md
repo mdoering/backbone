@@ -1,5 +1,4 @@
-Pestalotiopsis ixorae (Rangel) Bat. & Peres SPECIES
-=======
+# Pestalotiopsis ixorae (Rangel) Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

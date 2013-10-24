@@ -1,5 +1,4 @@
-Agaricodochium X.J. Liu GENUS
-=======
+# Agaricodochium X.J. Liu GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus xylophilus var. xylophilus VARIETY
-=======
+# Agaricus xylophilus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Hist. Champ. France (Paris) 642, tab. 530:2 (1812)
+Linnaea 10: 54 (1835)
 
 #### Original name
-Agaricus xylophilus var. xylophilus
+Agaricus xylophilus Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Myriokaryon lieberkuhni Jankowski, 1973 SPECIES
-=======
+# Myriokaryon lieberkuhni Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flamingomyces R. Bauer, M. Lutz, Piatek, Vánky & Oberw. GENUS
-=======
+# Flamingomyces R. Bauer, M. Lutz, Piatek, Vánky & Oberw. GENUS
 
 #### Status
 ACCEPTED

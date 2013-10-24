@@ -1,5 +1,4 @@
-Verrucaria binucleolata C. Knight SPECIES
-=======
+# Verrucaria binucleolata C. Knight SPECIES
 
 #### Status
 ACCEPTED

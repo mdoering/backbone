@@ -1,5 +1,4 @@
-Phaulomyces mediterraneus Santam. & W. Rossi, 1999 SPECIES
-=======
+# Phaulomyces mediterraneus Santam. & W. Rossi, 1999 SPECIES
 
 #### Status
 ACCEPTED

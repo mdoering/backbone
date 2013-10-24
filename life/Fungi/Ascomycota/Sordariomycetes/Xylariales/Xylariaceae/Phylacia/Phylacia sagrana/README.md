@@ -1,17 +1,16 @@
-Phylacia sagraeana Mont. SPECIES
-=======
+# Phylacia sagrana Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. gen. sp. crypt. (Paris) 259 (1856)
 
 #### Original name
-Phylacia sagraeana Mont.
+Phylacia sagrana Mont.
 
 ### Remarks
 null

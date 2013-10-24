@@ -1,5 +1,4 @@
-Diorchidium tracyi De Toni SPECIES
-=======
+# Diorchidium tracyi De Toni SPECIES
 
 #### Status
 ACCEPTED

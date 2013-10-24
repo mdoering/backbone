@@ -1,5 +1,4 @@
-Xylaria nutans Henn. SPECIES
-=======
+# Xylaria nutans Henn. SPECIES
 
 #### Status
 ACCEPTED

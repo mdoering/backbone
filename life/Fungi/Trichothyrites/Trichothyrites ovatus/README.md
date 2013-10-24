@@ -1,5 +1,4 @@
-Trichothyrites ovatus (Venkatach. & R.K. Kar) Kalgutkar & Janson. SPECIES
-=======
+# Trichothyrites ovatus (Venkatach. & R.K. Kar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

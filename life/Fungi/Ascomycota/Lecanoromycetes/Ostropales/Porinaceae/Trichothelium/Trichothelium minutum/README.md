@@ -1,17 +1,16 @@
-Trichothelium epiphyllum var. minutum Lücking VARIETY
-=======
+# Trichothelium minutum (Lücking) Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 66(3-4): 397 (1998)
 
 #### Original name
-null
+Trichothelium epiphyllum var. minutum Lücking
 
 ### Remarks
 null

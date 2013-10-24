@@ -1,5 +1,4 @@
-Sclerotium lauricola Schwein. SPECIES
-=======
+# Sclerotium lauricola Schwein. SPECIES
 
 #### Status
 ACCEPTED

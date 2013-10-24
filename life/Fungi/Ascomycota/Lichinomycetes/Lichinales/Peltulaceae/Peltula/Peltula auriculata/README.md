@@ -1,5 +1,4 @@
-Peltula auriculata Büdel, M. Schultz & Gröger SPECIES
-=======
+# Peltula auriculata Büdel, M. Schultz & Gröger SPECIES
 
 #### Status
 ACCEPTED

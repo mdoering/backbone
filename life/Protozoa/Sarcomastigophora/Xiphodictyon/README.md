@@ -1,5 +1,4 @@
-Xiphodictyon Haeckel, 1887 GENUS
-=======
+# Xiphodictyon Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

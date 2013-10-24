@@ -1,5 +1,4 @@
-Marasmius alliodoratissimus Garrido SPECIES
-=======
+# Marasmius alliodoratissimus Garrido SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia gallica var. gallica VARIETY
-=======
+# Cladonia gallica M. Choisy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia gallica var. gallica
+Cladonia gallica M. Choisy
 
 ### Remarks
 null

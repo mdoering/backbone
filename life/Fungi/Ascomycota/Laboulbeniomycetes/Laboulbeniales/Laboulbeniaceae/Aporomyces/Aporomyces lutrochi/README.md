@@ -1,5 +1,4 @@
-Aporomyces lutrochi R.K. Benj., 1989 SPECIES
-=======
+# Aporomyces lutrochi R.K. Benj., 1989 SPECIES
 
 #### Status
 ACCEPTED

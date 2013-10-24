@@ -1,17 +1,16 @@
-Ocellularia xantholeuca Müll. Arg. SPECIES
-=======
+# Ocellularia fumosa (Ach.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 29: 7 (1887)
 
 #### Original name
-null
+Thelotrema fumosum Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudocercospora carolinensis (Tharp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora carolinensis (Tharp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecoccoidea GENUS
-=======
+# Scolecoccoidea GENUS
 
 #### Status
 ACCEPTED

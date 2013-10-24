@@ -1,5 +1,4 @@
-Streptomyces puniceus Patelski, 1951 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces puniceus Patelski, 1951 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

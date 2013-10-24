@@ -1,5 +1,4 @@
-Sorosporium alsinearum Cif. SPECIES
-=======
+# Sorosporium alsinearum Cif. SPECIES
 
 #### Status
 ACCEPTED

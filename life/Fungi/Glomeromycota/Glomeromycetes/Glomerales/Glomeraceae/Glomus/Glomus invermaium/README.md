@@ -1,17 +1,16 @@
-Glomus invermaius I.R. Hall SPECIES
-=======
+# Glomus invermaium I.R. Hall, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 68(3): 345 (1977)
 
 #### Original name
-Glomus invermaius I.R. Hall
+Glomus invermaium I.R. Hall, 1977
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenula microspora (Nagarkar & Patw.) Upreti SPECIES
-=======
+# Pyrenula microspora (Nagarkar & Patw.) Upreti SPECIES
 
 #### Status
 ACCEPTED

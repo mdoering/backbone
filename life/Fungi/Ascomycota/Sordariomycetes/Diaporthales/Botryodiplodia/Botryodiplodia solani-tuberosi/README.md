@@ -1,5 +1,4 @@
-Botryodiplodia solani-tuberosi Thirum. & M.J. O'Brien SPECIES
-=======
+# Botryodiplodia solani-tuberosi Thirum. & M.J. O'Brien SPECIES
 
 #### Status
 ACCEPTED

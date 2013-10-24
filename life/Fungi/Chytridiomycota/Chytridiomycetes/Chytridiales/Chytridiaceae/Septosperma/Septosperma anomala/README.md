@@ -1,14 +1,13 @@
-Phlyctidium anomalum Couch, 1932 SPECIES
-=======
+# Septosperma anomala (Couch) Whiffen ex R.L. Seym., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 47: 256 (1932)
+Mycologia 63(1): 90 (1971)
 
 #### Original name
 Phlyctidium anomalum Couch, 1932

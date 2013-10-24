@@ -1,5 +1,4 @@
-Guignardia graminea Lobik SPECIES
-=======
+# Guignardia graminea Lobik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kansodinium Carty & Cox, 1986 GENUS
-=======
+# Kansodinium Carty & Cox, 1986 GENUS
 
 #### Status
 ACCEPTED

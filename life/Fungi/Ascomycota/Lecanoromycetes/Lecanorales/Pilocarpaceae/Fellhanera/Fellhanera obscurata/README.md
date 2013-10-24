@@ -1,5 +1,4 @@
-Fellhanera obscurata Herrera-Camp. & Lücking SPECIES
-=======
+# Fellhanera obscurata Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

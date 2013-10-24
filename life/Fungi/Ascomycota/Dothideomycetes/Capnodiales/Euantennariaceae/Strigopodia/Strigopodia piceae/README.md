@@ -1,5 +1,4 @@
-Strigopodia piceae Bat., 1957 SPECIES
-=======
+# Strigopodia piceae Bat., 1957 SPECIES
 
 #### Status
 ACCEPTED

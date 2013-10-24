@@ -1,5 +1,4 @@
-Oncosonderia Yankovskij, 1980 GENUS
-=======
+# Oncosonderia Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

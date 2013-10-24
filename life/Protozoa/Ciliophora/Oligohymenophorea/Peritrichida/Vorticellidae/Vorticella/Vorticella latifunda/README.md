@@ -1,5 +1,4 @@
-Vorticella latifunda Nenninger, 1948 SPECIES
-=======
+# Vorticella latifunda Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

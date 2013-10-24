@@ -1,5 +1,4 @@
-Neospiroloculina McCulloch, 1977 GENUS
-=======
+# Neospiroloculina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

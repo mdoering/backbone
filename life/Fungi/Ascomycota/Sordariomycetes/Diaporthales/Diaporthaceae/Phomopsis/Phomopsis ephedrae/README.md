@@ -1,5 +1,4 @@
-Phomopsis ephedrae Novoss. SPECIES
-=======
+# Phomopsis ephedrae Novoss. SPECIES
 
 #### Status
 ACCEPTED

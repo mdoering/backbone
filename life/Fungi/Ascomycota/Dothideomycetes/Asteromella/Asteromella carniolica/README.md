@@ -1,5 +1,4 @@
-Asteromella carniolica (W. Voss) Aa SPECIES
-=======
+# Asteromella carniolica (W. Voss) Aa SPECIES
 
 #### Status
 ACCEPTED

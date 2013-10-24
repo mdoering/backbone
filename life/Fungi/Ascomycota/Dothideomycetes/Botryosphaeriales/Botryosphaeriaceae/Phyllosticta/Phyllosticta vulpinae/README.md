@@ -1,5 +1,4 @@
-Phyllosticta vulpinae Allesch. SPECIES
-=======
+# Phyllosticta vulpinae Allesch. SPECIES
 
 #### Status
 ACCEPTED

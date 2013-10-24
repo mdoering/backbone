@@ -1,5 +1,4 @@
-Antarctomyces psychrotrophicus Stchigel & Guarro, 2001 SPECIES
-=======
+# Antarctomyces psychrotrophicus Stchigel & Guarro, 2001 SPECIES
 
 #### Status
 ACCEPTED

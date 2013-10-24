@@ -1,5 +1,4 @@
-Rotalites cidarollus Blainville, 1824 SPECIES
-=======
+# Rotalites cidarollus Blainville, 1824 SPECIES
 
 #### Status
 ACCEPTED

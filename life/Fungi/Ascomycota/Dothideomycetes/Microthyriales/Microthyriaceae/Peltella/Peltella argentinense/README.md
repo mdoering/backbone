@@ -1,5 +1,4 @@
-Peltella argentinense (Speg.) F. Stevens SPECIES
-=======
+# Peltella argentinense (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

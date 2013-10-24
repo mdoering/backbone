@@ -1,5 +1,4 @@
-Graphis subnivescens Nyl. SPECIES
-=======
+# Graphis subnivescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina africana Müll. Arg., 1880 SPECIES
-=======
+# Porina africana Müll. Arg., 1880 SPECIES
 
 #### Status
 DOUBTFUL

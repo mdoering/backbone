@@ -1,5 +1,4 @@
-Cetraria scholanderi var. scholanderi VARIETY
-=======
+# Cetraria scholanderi Llano SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria scholanderi var. scholanderi
+Cetraria scholanderi Llano
 
 ### Remarks
 null

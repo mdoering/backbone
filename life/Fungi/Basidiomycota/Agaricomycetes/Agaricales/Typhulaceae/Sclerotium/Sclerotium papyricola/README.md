@@ -1,5 +1,4 @@
-Sclerotium papyricola anon. SPECIES
-=======
+# Sclerotium papyricola anon. SPECIES
 
 #### Status
 ACCEPTED

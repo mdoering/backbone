@@ -1,5 +1,4 @@
-Gasparrinia deceptoria (Flagey) Szatala SPECIES
-=======
+# Gasparrinia deceptoria (Flagey) Szatala SPECIES
 
 #### Status
 ACCEPTED

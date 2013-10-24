@@ -1,5 +1,4 @@
-Stigmidium neofusceliae Calat. & Triebel SPECIES
-=======
+# Stigmidium neofusceliae Calat. & Triebel SPECIES
 
 #### Status
 ACCEPTED

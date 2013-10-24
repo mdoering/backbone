@@ -1,5 +1,4 @@
-Amanita furcata Lam. SPECIES
-=======
+# Amanita furcata Lam. SPECIES
 
 #### Status
 ACCEPTED

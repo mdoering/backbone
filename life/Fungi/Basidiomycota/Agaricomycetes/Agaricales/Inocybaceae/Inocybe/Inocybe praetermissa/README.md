@@ -1,5 +1,4 @@
-Inocybe praetermissa P. Karst. SPECIES
-=======
+# Inocybe praetermissa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytophthora oryzo-bladis J.S. Wang & J.Y. Lu ex H.H. Ho SPECIES
-=======
+# Phytophthora oryzo-bladis J.S. Wang & J.Y. Lu ex H.H. Ho SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halidrys murmanica A.S.Zinova SPECIES
-=======
+# Halidrys murmanica A.S.Zinova SPECIES
 
 #### Status
 ACCEPTED

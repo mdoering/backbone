@@ -1,14 +1,13 @@
-Diploschistella solorinellaeformis (Vezda) Lücking, Sérus. & Vezda SPECIES
-=======
+# Diploschistella solorinelliformis (Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 37(2): 163 (2005)
 
 #### Original name
 Gyalideopsis solorinelliformis Vezda

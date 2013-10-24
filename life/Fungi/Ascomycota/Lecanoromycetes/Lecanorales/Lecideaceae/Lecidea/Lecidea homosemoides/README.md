@@ -1,5 +1,4 @@
-Lecidea homosemoides Harm. SPECIES
-=======
+# Lecidea homosemoides Harm. SPECIES
 
 #### Status
 ACCEPTED

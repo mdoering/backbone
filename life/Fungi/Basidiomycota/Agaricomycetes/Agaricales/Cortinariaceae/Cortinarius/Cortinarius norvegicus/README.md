@@ -1,14 +1,13 @@
-Cortinarius croceus subsp. norvegicus (Høil.) Brandrud & H. Lindstr. SUBSPECIES
-=======
+# Cortinarius norvegicus Høil., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Brandrud & Melot, Nordic Jl Bot. 10(5): 536 (1990)
+Op. bot. 71: 85 (1984)
 
 #### Original name
 Cortinarius norvegicus Høil., 1984

@@ -1,5 +1,4 @@
-Baituganella Lipina, 1955 GENUS
-=======
+# Baituganella Lipina, 1955 GENUS
 
 #### Status
 ACCEPTED

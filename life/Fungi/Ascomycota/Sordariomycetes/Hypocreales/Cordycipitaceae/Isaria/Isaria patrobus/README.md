@@ -1,5 +1,4 @@
-Isaria patrobus Lloyd SPECIES
-=======
+# Isaria patrobus Lloyd SPECIES
 
 #### Status
 ACCEPTED

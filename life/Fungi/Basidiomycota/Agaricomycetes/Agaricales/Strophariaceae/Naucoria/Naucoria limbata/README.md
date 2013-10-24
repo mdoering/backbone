@@ -1,5 +1,4 @@
-Naucoria limbata subsp. limbata SUBSPECIES
-=======
+# Naucoria limbata (Bull.) Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Naucoria limbata subsp. limbata
+Agaricus limbata Bull.
 
 ### Remarks
 null

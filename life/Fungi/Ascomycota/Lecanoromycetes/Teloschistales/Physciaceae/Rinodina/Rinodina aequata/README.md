@@ -1,14 +1,13 @@
-Lecanora coniops var. aequata Ach. VARIETY
-=======
+# Rinodina aequata (Ach.) Flagey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lich. univ. (1810)
+in Battandier & Trabut, Fl. Algér. crypt. 3: 40 (1896)
 
 #### Original name
 Lecanora coniops var. aequata Ach.

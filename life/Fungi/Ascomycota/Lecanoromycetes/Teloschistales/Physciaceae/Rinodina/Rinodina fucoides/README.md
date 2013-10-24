@@ -1,5 +1,4 @@
-Rinodina fucoides Vain. SPECIES
-=======
+# Rinodina fucoides Vain. SPECIES
 
 #### Status
 ACCEPTED

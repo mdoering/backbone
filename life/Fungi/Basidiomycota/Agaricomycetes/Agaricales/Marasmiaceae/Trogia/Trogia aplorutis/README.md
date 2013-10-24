@@ -1,14 +1,13 @@
-Cantharellus aplorutis Mont., 1834 SPECIES
-=======
+# Trogia aplorutis (Mont.) Fr., 1836 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Voy. Indes Or. , Bot. 2: 149 (1834)
+Fl. Scan. 339 (1836)
 
 #### Original name
 Cantharellus aplorutis Mont., 1834

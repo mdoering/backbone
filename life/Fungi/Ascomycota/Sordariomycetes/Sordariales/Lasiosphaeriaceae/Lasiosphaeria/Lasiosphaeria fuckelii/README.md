@@ -1,5 +1,4 @@
-Lasiosphaeria fuckelii Sacc. SPECIES
-=======
+# Lasiosphaeria fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

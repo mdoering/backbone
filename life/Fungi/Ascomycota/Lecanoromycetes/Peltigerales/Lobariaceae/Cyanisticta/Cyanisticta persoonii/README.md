@@ -1,5 +1,4 @@
-Cyanisticta persoonii C.W. Dodge SPECIES
-=======
+# Cyanisticta persoonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

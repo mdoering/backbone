@@ -1,5 +1,4 @@
-Elmerina borneensis (Jülich) D.A. Reid SPECIES
-=======
+# Elmerina borneensis (Jülich) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

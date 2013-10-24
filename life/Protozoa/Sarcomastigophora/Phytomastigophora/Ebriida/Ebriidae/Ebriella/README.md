@@ -1,5 +1,4 @@
-Ebriella Deflandre, 1934 GENUS
-=======
+# Ebriella Deflandre, 1934 GENUS
 
 #### Status
 ACCEPTED

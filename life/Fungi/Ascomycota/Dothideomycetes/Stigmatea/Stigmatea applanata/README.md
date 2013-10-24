@@ -1,5 +1,4 @@
-Stigmatea applanata Feltgen SPECIES
-=======
+# Stigmatea applanata Feltgen SPECIES
 
 #### Status
 ACCEPTED

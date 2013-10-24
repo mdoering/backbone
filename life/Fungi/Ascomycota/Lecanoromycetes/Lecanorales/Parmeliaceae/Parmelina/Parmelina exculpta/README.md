@@ -1,5 +1,4 @@
-Parmelina exculpta (Berk.) Theiss. & Syd. SPECIES
-=======
+# Parmelina exculpta (Berk.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

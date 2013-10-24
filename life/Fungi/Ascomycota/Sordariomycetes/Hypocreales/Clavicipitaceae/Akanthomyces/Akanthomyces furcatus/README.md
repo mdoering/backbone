@@ -1,5 +1,4 @@
-Akanthomyces furcatus Thaxt. SPECIES
-=======
+# Akanthomyces furcatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosporina Höhn. GENUS
-=======
+# Discosporina Höhn. GENUS
 
 #### Status
 ACCEPTED

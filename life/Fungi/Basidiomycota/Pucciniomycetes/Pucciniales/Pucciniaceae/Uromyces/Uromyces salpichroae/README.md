@@ -1,5 +1,4 @@
-Uromyces salpichroae H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces salpichroae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

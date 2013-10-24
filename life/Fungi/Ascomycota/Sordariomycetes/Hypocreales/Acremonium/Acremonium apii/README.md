@@ -1,14 +1,13 @@
-Cephalosporium apii M.A. Sm. & Ramsey, 1951 SPECIES
-=======
+# Acremonium apii (M.A. Sm. & Ramsey) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 112: 399 (1951)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 136 (1971)
 
 #### Original name
 Cephalosporium apii M.A. Sm. & Ramsey, 1951

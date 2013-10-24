@@ -1,5 +1,4 @@
-Lecanora tilasii Kullh. SPECIES
-=======
+# Lecanora tilasii Kullh. SPECIES
 
 #### Status
 ACCEPTED

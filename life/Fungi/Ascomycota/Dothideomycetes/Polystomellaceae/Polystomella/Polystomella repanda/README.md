@@ -1,5 +1,4 @@
-Polystomella repanda Speg. SPECIES
-=======
+# Polystomella repanda Speg. SPECIES
 
 #### Status
 ACCEPTED

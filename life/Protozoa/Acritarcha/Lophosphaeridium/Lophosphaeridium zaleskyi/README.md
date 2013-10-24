@@ -1,5 +1,4 @@
-Lophosphaeridium zaleskyi (Naumova, 1950) N. Umnova, 1975 SPECIES
-=======
+# Lophosphaeridium zaleskyi (Naumova, 1950) N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

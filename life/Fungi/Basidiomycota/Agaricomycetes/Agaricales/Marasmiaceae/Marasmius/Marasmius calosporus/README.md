@@ -1,5 +1,4 @@
-Marasmius calosporus (Pat.) Sacc. & D. Sacc. SPECIES
-=======
+# Marasmius calosporus (Pat.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

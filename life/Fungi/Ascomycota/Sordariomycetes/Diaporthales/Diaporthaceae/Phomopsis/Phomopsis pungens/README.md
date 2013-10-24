@@ -1,17 +1,16 @@
-Phomopsis ribesia (Sacc.) Died., 1911 SPECIES
-=======
+# Phomopsis pungens (Sacc.) Grove, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 9(1): 29 (1911)
+British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 1: 212 (1935)
 
 #### Original name
-Phoma ribesia Sacc., 1884
+Phoma pungens Sacc., 1879
 
 ### Remarks
 null

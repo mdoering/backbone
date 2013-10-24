@@ -1,5 +1,4 @@
-Gyroporus praeanisatus Murrill SPECIES
-=======
+# Gyroporus praeanisatus Murrill SPECIES
 
 #### Status
 ACCEPTED

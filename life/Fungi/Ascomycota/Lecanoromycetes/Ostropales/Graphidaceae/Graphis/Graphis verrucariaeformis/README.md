@@ -1,5 +1,4 @@
-Graphis verrucariaeformis Fée SPECIES
-=======
+# Graphis verrucariaeformis Fée SPECIES
 
 #### Status
 ACCEPTED

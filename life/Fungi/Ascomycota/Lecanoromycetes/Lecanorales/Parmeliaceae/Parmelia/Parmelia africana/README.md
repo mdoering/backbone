@@ -1,5 +1,4 @@
-Parmelia africana var. africana VARIETY
-=======
+# Parmelia africana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia africana var. africana
+Parmelia africana Müll. Arg.
 
 ### Remarks
 null

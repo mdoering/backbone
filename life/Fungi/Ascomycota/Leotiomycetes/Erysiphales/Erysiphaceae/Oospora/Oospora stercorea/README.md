@@ -1,5 +1,4 @@
-Oospora stercorea G. Arnaud SPECIES
-=======
+# Oospora stercorea G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

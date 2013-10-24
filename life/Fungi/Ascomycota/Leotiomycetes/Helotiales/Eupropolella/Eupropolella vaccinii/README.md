@@ -1,14 +1,13 @@
-Tapesia melaleucoides var. vaccinii (Rehm) Rehm, 1891 VARIETY
-=======
+# Eupropolella vaccinii (Rehm) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(3): 578 (1891)
+Annls mycol. 15(5): 311 (1917)
 
 #### Original name
 Sphaeropezia vaccinii Rehm, 1888

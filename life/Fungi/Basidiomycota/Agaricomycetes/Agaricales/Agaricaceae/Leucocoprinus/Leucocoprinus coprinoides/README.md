@@ -1,5 +1,4 @@
-Leucocoprinus coprinoides (Beeli) Singer SPECIES
-=======
+# Leucocoprinus coprinoides (Beeli) Singer SPECIES
 
 #### Status
 ACCEPTED

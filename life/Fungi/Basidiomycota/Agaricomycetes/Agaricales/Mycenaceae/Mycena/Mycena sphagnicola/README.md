@@ -1,5 +1,4 @@
-Mycena sphagnicola Velen. SPECIES
-=======
+# Mycena sphagnicola Velen. SPECIES
 
 #### Status
 ACCEPTED

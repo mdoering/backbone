@@ -1,5 +1,4 @@
-Asteridium chusqueae Rehm SPECIES
-=======
+# Asteridium chusqueae Rehm SPECIES
 
 #### Status
 ACCEPTED

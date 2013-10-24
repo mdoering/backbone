@@ -1,5 +1,4 @@
-Fungus hepatiformis Scop. SPECIES
-=======
+# Fungus hepatiformis Scop. SPECIES
 
 #### Status
 ACCEPTED

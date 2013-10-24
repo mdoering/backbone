@@ -1,5 +1,4 @@
-Phyllosticta cycadis S. Ahmad SPECIES
-=======
+# Phyllosticta cycadis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

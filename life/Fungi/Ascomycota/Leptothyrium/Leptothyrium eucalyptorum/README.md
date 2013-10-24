@@ -1,5 +1,4 @@
-Leptothyrium eucalyptorum Cooke & Massee SPECIES
-=======
+# Leptothyrium eucalyptorum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia trachypogonicola Gjaerum SPECIES
-=======
+# Puccinia trachypogonicola Gjaerum SPECIES
 
 #### Status
 ACCEPTED

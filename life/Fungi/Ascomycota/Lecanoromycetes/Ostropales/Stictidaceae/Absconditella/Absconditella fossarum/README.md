@@ -1,5 +1,4 @@
-Absconditella fossarum Vezda & Piút SPECIES
-=======
+# Absconditella fossarum Vezda & Piút SPECIES
 
 #### Status
 ACCEPTED

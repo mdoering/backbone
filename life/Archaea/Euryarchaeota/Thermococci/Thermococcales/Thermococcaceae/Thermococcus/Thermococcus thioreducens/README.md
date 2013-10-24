@@ -1,5 +1,4 @@
-Thermococcus thioreducens Pikuta, Marsic, Itoh, Bej, Tang, Whitman, Ng, Garriott & Hoover, 2007 SPECIES
-=======
+# Thermococcus thioreducens Pikuta, Marsic, Itoh, Bej, Tang, Whitman, Ng, Garriott & Hoover, 2007 SPECIES
 
 #### Status
 ACCEPTED

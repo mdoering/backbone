@@ -1,5 +1,4 @@
-Agaricus ptychophyllus Corda SPECIES
-=======
+# Agaricus ptychophyllus Corda SPECIES
 
 #### Status
 ACCEPTED

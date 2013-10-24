@@ -1,5 +1,4 @@
-Hydrocybe pulcherrima Velen. SPECIES
-=======
+# Hydrocybe pulcherrima Velen. SPECIES
 
 #### Status
 ACCEPTED

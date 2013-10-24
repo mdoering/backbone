@@ -1,5 +1,4 @@
-Alaria dolichorhachis Kjellman SPECIES
-=======
+# Alaria dolichorhachis Kjellman SPECIES
 
 #### Status
 ACCEPTED

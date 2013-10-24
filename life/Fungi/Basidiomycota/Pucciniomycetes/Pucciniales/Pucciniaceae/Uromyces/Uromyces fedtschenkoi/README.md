@@ -1,5 +1,4 @@
-Uromyces fedtschenkoi Faizieva SPECIES
-=======
+# Uromyces fedtschenkoi Faizieva SPECIES
 
 #### Status
 ACCEPTED

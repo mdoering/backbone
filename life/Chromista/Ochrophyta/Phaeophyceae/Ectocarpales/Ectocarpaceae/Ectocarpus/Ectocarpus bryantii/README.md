@@ -1,5 +1,4 @@
-Ectocarpus bryantii Setchell & N.L. Gardner SPECIES
-=======
+# Ectocarpus bryantii Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agreia Evtushenko et al., 2001 GENUS
-=======
+# Agreia Evtushenko et al., 2001 GENUS
 
 #### Status
 ACCEPTED

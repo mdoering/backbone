@@ -1,5 +1,4 @@
-Phaeographis vestigioides Staiger SPECIES
-=======
+# Phaeographis vestigioides Staiger SPECIES
 
 #### Status
 ACCEPTED

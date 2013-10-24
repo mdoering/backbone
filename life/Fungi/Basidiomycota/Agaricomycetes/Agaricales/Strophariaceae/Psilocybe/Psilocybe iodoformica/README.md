@@ -1,5 +1,4 @@
-Psilocybe iodoformica Pat. SPECIES
-=======
+# Psilocybe iodoformica Pat. SPECIES
 
 #### Status
 ACCEPTED

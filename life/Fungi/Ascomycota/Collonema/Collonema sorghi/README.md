@@ -1,5 +1,4 @@
-Collonema sorghi Abramov SPECIES
-=======
+# Collonema sorghi Abramov SPECIES
 
 #### Status
 ACCEPTED

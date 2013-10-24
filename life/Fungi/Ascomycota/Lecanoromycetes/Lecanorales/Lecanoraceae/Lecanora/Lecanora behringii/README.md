@@ -1,5 +1,4 @@
-Lecanora behringii Nyl. SPECIES
-=======
+# Lecanora behringii Nyl. SPECIES
 
 #### Status
 ACCEPTED

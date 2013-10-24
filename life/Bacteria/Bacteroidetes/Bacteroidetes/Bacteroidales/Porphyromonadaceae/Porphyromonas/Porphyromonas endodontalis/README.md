@@ -1,8 +1,7 @@
-Bacteroides endodontalis van Steenbergen et al., 1984 SPECIES
-=======
+# Porphyromonas endodontalis (van Steenbergen et al., 1984) Shah & Collins, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

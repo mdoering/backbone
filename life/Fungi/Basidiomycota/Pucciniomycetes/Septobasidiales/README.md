@@ -1,5 +1,4 @@
-Septobasidiales Couch ORDER
-=======
+# Septobasidiales Couch ORDER
 
 #### Status
 ACCEPTED

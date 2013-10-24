@@ -1,5 +1,4 @@
-Phyllachora portoricensis (F. Stevens) Petr., 1931 SPECIES
-=======
+# Phyllachora portoricensis (F. Stevens) Petr., 1931 SPECIES
 
 #### Status
 ACCEPTED

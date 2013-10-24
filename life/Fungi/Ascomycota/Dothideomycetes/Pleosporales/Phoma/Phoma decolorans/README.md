@@ -1,5 +1,4 @@
-Phoma decolorans (Lév.) Sacc. SPECIES
-=======
+# Phoma decolorans (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

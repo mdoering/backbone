@@ -1,5 +1,4 @@
-Phyllosticta nandinae Tassi SPECIES
-=======
+# Phyllosticta nandinae Tassi SPECIES
 
 #### Status
 ACCEPTED

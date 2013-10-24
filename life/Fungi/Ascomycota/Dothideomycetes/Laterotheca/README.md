@@ -1,5 +1,4 @@
-Laterotheca GENUS
-=======
+# Laterotheca GENUS
 
 #### Status
 ACCEPTED

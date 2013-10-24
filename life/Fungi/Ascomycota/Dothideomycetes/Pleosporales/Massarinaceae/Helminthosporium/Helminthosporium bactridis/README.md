@@ -1,5 +1,4 @@
-Helminthosporium bactridis Henn. SPECIES
-=======
+# Helminthosporium bactridis Henn. SPECIES
 
 #### Status
 ACCEPTED

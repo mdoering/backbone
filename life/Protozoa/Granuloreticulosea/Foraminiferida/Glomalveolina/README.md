@@ -1,5 +1,4 @@
-Glomalveolina GENUS
-=======
+# Glomalveolina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panomninella P.N. Kolosov, 1966 GENUS
-=======
+# Panomninella P.N. Kolosov, 1966 GENUS
 
 #### Status
 ACCEPTED

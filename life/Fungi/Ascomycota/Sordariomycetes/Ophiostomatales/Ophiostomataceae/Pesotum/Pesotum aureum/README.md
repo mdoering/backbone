@@ -1,14 +1,13 @@
-Graphium aureum Hedgc., 1906 SPECIES
-=======
+# Pesotum aureum (Hedgc.) McNew & T.C. Harr., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Harrington, McNew, Steimel, Hofstra & Farrell, Mycologia 93(1): 119 (2001)
 
 #### Original name
 Graphium aureum Hedgc., 1906

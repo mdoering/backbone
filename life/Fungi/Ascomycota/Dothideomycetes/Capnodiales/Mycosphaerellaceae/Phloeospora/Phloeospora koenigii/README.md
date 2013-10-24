@@ -1,5 +1,4 @@
-Phloeospora koenigii (Thirum.) B. Sutton SPECIES
-=======
+# Phloeospora koenigii (Thirum.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

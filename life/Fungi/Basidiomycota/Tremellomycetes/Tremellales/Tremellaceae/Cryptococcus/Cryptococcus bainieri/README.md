@@ -1,5 +1,4 @@
-Cryptococcus bainieri Sartory SPECIES
-=======
+# Cryptococcus bainieri Sartory SPECIES
 
 #### Status
 ACCEPTED

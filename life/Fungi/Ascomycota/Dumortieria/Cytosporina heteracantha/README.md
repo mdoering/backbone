@@ -1,14 +1,13 @@
-Cytosporina heterocantha (Sacc.) Sacc. SPECIES
-=======
+# Cytosporina heteracantha (Sacc.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 603 (1884)
 
 #### Original name
 Cytospora heteracantha Sacc.

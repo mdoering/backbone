@@ -1,5 +1,4 @@
-Enterographa rufescens (Vain.) Redinger SPECIES
-=======
+# Enterographa rufescens (Vain.) Redinger SPECIES
 
 #### Status
 ACCEPTED

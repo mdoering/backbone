@@ -1,5 +1,4 @@
-Russula cystidiosa Murrill SPECIES
-=======
+# Russula cystidiosa Murrill SPECIES
 
 #### Status
 ACCEPTED

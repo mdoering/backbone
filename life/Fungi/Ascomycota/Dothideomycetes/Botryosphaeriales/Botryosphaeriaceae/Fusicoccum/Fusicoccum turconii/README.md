@@ -1,5 +1,4 @@
-Fusicoccum turconii (Trinchieri) Vanev SPECIES
-=======
+# Fusicoccum turconii (Trinchieri) Vanev SPECIES
 
 #### Status
 ACCEPTED

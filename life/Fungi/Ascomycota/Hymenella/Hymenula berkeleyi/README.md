@@ -1,5 +1,4 @@
-Hymenula berkeleyi Sacc. SPECIES
-=======
+# Hymenula berkeleyi Sacc. SPECIES
 
 #### Status
 ACCEPTED

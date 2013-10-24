@@ -1,5 +1,4 @@
-Heterochaete europaea Höhn. SPECIES
-=======
+# Heterochaete europaea Höhn. SPECIES
 
 #### Status
 ACCEPTED

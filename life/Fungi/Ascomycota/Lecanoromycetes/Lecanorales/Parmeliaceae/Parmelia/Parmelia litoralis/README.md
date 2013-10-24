@@ -1,5 +1,4 @@
-Parmelia litoralis C.W. Dodge SPECIES
-=======
+# Parmelia litoralis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

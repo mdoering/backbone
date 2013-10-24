@@ -1,5 +1,4 @@
-Aecidium onosmodii Arthur SPECIES
-=======
+# Aecidium onosmodii Arthur SPECIES
 
 #### Status
 ACCEPTED

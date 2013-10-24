@@ -1,5 +1,4 @@
-Polymorphina regina SPECIES
-=======
+# Polymorphina regina SPECIES
 
 #### Status
 ACCEPTED

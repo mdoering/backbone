@@ -1,5 +1,4 @@
-Aecidium rutae Har. SPECIES
-=======
+# Aecidium rutae Har. SPECIES
 
 #### Status
 ACCEPTED

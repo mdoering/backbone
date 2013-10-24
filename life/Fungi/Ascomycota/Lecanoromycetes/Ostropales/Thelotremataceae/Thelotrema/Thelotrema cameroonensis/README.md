@@ -1,5 +1,4 @@
-Thelotrema cameroonensis C.W. Dodge SPECIES
-=======
+# Thelotrema cameroonensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

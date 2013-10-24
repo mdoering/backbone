@@ -1,5 +1,4 @@
-Glugea gigantea Thélohan SPECIES
-=======
+# Glugea gigantea Thélohan SPECIES
 
 #### Status
 ACCEPTED

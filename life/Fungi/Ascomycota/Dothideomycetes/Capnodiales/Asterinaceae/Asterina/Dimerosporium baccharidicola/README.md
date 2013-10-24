@@ -1,5 +1,4 @@
-Dimerosporium baccharidicola Henn. SPECIES
-=======
+# Dimerosporium baccharidicola Henn. SPECIES
 
 #### Status
 ACCEPTED

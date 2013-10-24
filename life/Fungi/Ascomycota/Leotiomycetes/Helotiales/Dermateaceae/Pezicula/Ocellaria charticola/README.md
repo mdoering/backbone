@@ -1,5 +1,4 @@
-Ocellaria charticola Feltgen SPECIES
-=======
+# Ocellaria charticola Feltgen SPECIES
 
 #### Status
 ACCEPTED

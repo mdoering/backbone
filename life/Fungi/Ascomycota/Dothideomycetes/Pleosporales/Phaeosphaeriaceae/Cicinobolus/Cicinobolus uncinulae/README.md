@@ -1,8 +1,7 @@
-Cicinnobolus uncinulae Fautrey SPECIES
-=======
+# Cicinobolus uncinulae Fautrey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus uncinulae Fautrey
+Cicinobolus uncinulae Fautrey
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Cintractia liroi Lehtola, 1940 SPECIES
-=======
+# Anthracoidea liroi (Lehtola) Nannf. & B. Lindeb., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Suom. Maataloust. Seur. Julk 42: 46 (1940)
+Svensk bot. Tidskr. 59: 205 (1965)
 
 #### Original name
 Cintractia liroi Lehtola, 1940

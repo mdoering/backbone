@@ -1,5 +1,4 @@
-Dermatocarpon verruculosum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Dermatocarpon verruculosum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

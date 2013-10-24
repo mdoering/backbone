@@ -1,14 +1,13 @@
-Helotiopsis anonymus (Rehm) Höhn. SPECIES
-=======
+# Helotiopsis anonyma (Rehm) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Öst. bot. Z. 63: 301 (1913)
 
 #### Original name
 Pezizella anonyma Rehm

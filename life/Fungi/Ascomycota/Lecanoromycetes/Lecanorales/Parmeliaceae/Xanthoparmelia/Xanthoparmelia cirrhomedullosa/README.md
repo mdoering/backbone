@@ -1,5 +1,4 @@
-Xanthoparmelia cirrhomedullosa Hale SPECIES
-=======
+# Xanthoparmelia cirrhomedullosa Hale SPECIES
 
 #### Status
 ACCEPTED

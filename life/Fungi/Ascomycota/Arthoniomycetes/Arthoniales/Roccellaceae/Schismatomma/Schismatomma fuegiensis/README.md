@@ -1,5 +1,4 @@
-Schismatomma fuegiensis C.W. Dodge SPECIES
-=======
+# Schismatomma fuegiensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

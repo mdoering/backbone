@@ -1,5 +1,4 @@
-Sorosporium furcatum Syd. & P. Syd. SPECIES
-=======
+# Sorosporium furcatum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina tatooshiensis A.H. Sm. SPECIES
-=======
+# Galerina tatooshiensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

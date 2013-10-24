@@ -1,5 +1,4 @@
-Chaetomium atrosporum Skolko & J.W. Groves SPECIES
-=======
+# Chaetomium atrosporum Skolko & J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

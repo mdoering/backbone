@@ -1,5 +1,4 @@
-Limaites flagellatus de Quadros, 1986 SPECIES
-=======
+# Limaites flagellatus de Quadros, 1986 SPECIES
 
 #### Status
 ACCEPTED

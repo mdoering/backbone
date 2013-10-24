@@ -1,5 +1,4 @@
-Ascochyta lacustris Pass. SPECIES
-=======
+# Ascochyta lacustris Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella scrobiculata Velen. SPECIES
-=======
+# Helvella scrobiculata Velen. SPECIES
 
 #### Status
 ACCEPTED

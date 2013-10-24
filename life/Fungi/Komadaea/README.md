@@ -1,5 +1,4 @@
-Komadaea GENUS
-=======
+# Komadaea GENUS
 
 #### Status
 ACCEPTED

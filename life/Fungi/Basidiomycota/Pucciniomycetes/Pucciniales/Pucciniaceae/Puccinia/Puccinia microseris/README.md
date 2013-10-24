@@ -1,5 +1,4 @@
-Puccinia microseris McAlpine SPECIES
-=======
+# Puccinia microseris McAlpine SPECIES
 
 #### Status
 ACCEPTED

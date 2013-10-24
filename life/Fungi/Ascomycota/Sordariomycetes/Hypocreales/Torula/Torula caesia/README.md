@@ -1,5 +1,4 @@
-Torula caesia (Fuckel) Sacc. SPECIES
-=======
+# Torula caesia (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

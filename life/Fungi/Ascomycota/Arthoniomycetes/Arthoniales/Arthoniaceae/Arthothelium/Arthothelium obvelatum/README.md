@@ -1,5 +1,4 @@
-Arthothelium obvelatum Müll. Arg. SPECIES
-=======
+# Arthothelium obvelatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

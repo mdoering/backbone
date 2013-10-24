@@ -1,5 +1,4 @@
-Polyscytalum saccardianum Brizi SPECIES
-=======
+# Polyscytalum saccardianum Brizi SPECIES
 
 #### Status
 ACCEPTED

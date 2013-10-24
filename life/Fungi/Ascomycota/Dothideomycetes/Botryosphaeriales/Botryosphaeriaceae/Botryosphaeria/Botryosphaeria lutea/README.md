@@ -1,5 +1,4 @@
-Botryosphaeria lutea A.J.L. Phillips, 2002 SPECIES
-=======
+# Botryosphaeria lutea A.J.L. Phillips, 2002 SPECIES
 
 #### Status
 ACCEPTED

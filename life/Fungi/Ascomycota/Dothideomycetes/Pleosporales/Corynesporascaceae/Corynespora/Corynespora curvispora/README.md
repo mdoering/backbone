@@ -1,5 +1,4 @@
-Corynespora curvispora Stchigel, A.N. Mill. & J.L. Crane SPECIES
-=======
+# Corynespora curvispora Stchigel, A.N. Mill. & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

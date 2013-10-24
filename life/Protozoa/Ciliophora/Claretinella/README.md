@@ -1,5 +1,4 @@
-Claretinella Keij, 1974 GENUS
-=======
+# Claretinella Keij, 1974 GENUS
 
 #### Status
 ACCEPTED

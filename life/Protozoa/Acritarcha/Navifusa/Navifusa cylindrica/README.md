@@ -1,5 +1,4 @@
-Navifusa cylindrica (Brito & Santos, 1965) Eisenack et al., 1979 SPECIES
-=======
+# Navifusa cylindrica (Brito & Santos, 1965) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

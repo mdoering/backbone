@@ -1,5 +1,4 @@
-Anthostomella baptisiae (Cooke) Sacc. SPECIES
-=======
+# Anthostomella baptisiae (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

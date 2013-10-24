@@ -1,5 +1,4 @@
-Placopyrenium noxium Breuss SPECIES
-=======
+# Placopyrenium noxium Breuss SPECIES
 
 #### Status
 ACCEPTED

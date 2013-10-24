@@ -1,5 +1,4 @@
-Aecidium subsimulans Arthur & Mains SPECIES
-=======
+# Aecidium subsimulans Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

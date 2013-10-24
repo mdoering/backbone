@@ -1,5 +1,4 @@
-Eouvigerina eleyi Cushman SPECIES
-=======
+# Eouvigerina eleyi Cushman SPECIES
 
 #### Status
 ACCEPTED

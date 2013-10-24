@@ -1,14 +1,13 @@
-Cryptostictis falcata B. Sutton, 1963 SPECIES
-=======
+# Seimatosporium falcatum (B. Sutton) Shoemaker, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 88: 25 (1963)
+Can. J. Bot. 42: 416 (1964)
 
 #### Original name
 Cryptostictis falcata B. Sutton, 1963

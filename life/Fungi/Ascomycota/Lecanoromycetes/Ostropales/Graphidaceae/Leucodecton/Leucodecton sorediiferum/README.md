@@ -1,5 +1,4 @@
-Leucodecton sorediiferum Frisch SPECIES
-=======
+# Leucodecton sorediiferum Frisch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum coralloideum Batsch SPECIES
-=======
+# Hydnum coralloideum Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia nyasensis C.W. Dodge SPECIES
-=======
+# Parmelia nyasensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

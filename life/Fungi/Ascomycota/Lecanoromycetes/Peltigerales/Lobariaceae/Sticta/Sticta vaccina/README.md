@@ -1,5 +1,4 @@
-Sticta vaccina Mont. SPECIES
-=======
+# Sticta vaccina Mont. SPECIES
 
 #### Status
 ACCEPTED

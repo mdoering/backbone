@@ -1,5 +1,4 @@
-Phyllosticta garryaecola Pass. SPECIES
-=======
+# Phyllosticta garryaecola Pass. SPECIES
 
 #### Status
 ACCEPTED

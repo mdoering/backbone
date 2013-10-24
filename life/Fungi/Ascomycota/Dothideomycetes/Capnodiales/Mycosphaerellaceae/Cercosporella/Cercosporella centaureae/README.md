@@ -1,5 +1,4 @@
-Cercosporella centaureae Syd. SPECIES
-=======
+# Cercosporella centaureae Syd. SPECIES
 
 #### Status
 ACCEPTED

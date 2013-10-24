@@ -1,5 +1,4 @@
-Hygrocybe lugubris (Rick) Raithelh. SPECIES
-=======
+# Hygrocybe lugubris (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hiatulopsis Singer & Grinling GENUS
-=======
+# Hiatulopsis Singer & Grinling GENUS
 
 #### Status
 ACCEPTED

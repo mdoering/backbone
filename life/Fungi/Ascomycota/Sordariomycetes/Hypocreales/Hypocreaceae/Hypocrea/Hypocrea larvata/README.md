@@ -1,5 +1,4 @@
-Hypocrea larvata (Mont.) Sacc. SPECIES
-=======
+# Hypocrea larvata (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

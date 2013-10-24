@@ -1,5 +1,4 @@
-Polyporus afzelii Fr. SPECIES
-=======
+# Polyporus afzelii Fr. SPECIES
 
 #### Status
 ACCEPTED

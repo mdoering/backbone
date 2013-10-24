@@ -1,5 +1,4 @@
-Rhodoarrhenia Singer GENUS
-=======
+# Rhodoarrhenia Singer GENUS
 
 #### Status
 ACCEPTED

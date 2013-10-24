@@ -1,5 +1,4 @@
-Wilfordia Adams, 1965 GENUS
-=======
+# Wilfordia Adams, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria helianthicola G.N. Rao & K. Rajagop., 1977 SPECIES
-=======
+# Alternaria helianthicola G.N. Rao & K. Rajagop., 1977 SPECIES
 
 #### Status
 ACCEPTED

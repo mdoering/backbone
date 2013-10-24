@@ -1,5 +1,4 @@
-Pseudononion japonicum SPECIES
-=======
+# Pseudononion japonicum SPECIES
 
 #### Status
 ACCEPTED

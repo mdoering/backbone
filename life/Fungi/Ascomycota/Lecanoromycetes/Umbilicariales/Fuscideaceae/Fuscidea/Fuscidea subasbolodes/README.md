@@ -1,5 +1,4 @@
-Fuscidea subasbolodes Kantvilas SPECIES
-=======
+# Fuscidea subasbolodes Kantvilas SPECIES
 
 #### Status
 ACCEPTED

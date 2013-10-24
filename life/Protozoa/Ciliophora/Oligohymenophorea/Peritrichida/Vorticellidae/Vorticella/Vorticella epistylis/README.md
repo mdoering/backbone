@@ -1,5 +1,4 @@
-Vorticella epistylis SPECIES
-=======
+# Vorticella epistylis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hansfordia togoensis S. Hughes SPECIES
-=======
+# Hansfordia togoensis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

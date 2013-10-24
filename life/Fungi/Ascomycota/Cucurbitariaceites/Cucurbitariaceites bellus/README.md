@@ -1,5 +1,4 @@
-Cucurbitariaceites bellus R.K. Kar, R.Y. Singh & Sah SPECIES
-=======
+# Cucurbitariaceites bellus R.K. Kar, R.Y. Singh & Sah SPECIES
 
 #### Status
 ACCEPTED

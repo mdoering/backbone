@@ -1,17 +1,16 @@
-Cortinarius diasemospermus var. diasemospermus VARIETY
-=======
+# Cortinarius diasemospermus Lamoure, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trav. Sci. Parc. Natl. Vanoise 9: 99 (1978)
 
 #### Original name
-Cortinarius diasemospermus var. diasemospermus
+Cortinarius diasemospermus Lamoure, 1978
 
 ### Remarks
 null

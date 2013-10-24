@@ -1,5 +1,4 @@
-Micromonas Borrel, 1902 GENUS
-=======
+# Micromonas Borrel, 1902 GENUS
 
 #### Status
 ACCEPTED

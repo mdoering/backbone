@@ -1,5 +1,4 @@
-Desulfobacter postgatei Widdel, 1981 SPECIES
-=======
+# Desulfobacter postgatei Widdel, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriospora acuta A.L. Sm. SPECIES
-=======
+# Ceriospora acuta A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

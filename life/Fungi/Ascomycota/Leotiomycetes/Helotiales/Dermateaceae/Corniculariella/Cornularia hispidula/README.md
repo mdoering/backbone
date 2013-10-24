@@ -1,5 +1,4 @@
-Cornularia hispidula (Ellis) Sacc. SPECIES
-=======
+# Cornularia hispidula (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

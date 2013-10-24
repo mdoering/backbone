@@ -1,14 +1,13 @@
-Leptonia griseorubella (Lasch) P.D. Orton, 1960 SPECIES
-=======
+# Entoloma griseorubellum (Lasch) Kalamees & Urbonas, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43: 177 (1960)
+in Urbonas, Kalamees & Lukin, Conspectus florum agaricalium fungorum (Agaricales s. l. ) Lithuaniae, Latviae et Estoniae (materies 1778-1984 annorum) (Vilnius) 39 (1986)
 
 #### Original name
 Agaricus griseorubellus Lasch, 1829

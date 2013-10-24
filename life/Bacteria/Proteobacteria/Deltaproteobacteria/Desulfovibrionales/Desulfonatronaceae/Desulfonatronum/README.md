@@ -1,5 +1,4 @@
-Desulfonatronum Pikuta, Zhilina, Zavarzin, Kostrikina, Osipov & Rainey, 1998 GENUS
-=======
+# Desulfonatronum Pikuta, Zhilina, Zavarzin, Kostrikina, Osipov & Rainey, 1998 GENUS
 
 #### Status
 ACCEPTED

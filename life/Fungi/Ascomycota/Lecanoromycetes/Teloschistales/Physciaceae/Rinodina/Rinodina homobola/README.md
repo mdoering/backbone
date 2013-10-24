@@ -1,5 +1,4 @@
-Rinodina homobola (Nyl.) Malme SPECIES
-=======
+# Rinodina homobola (Nyl.) Malme SPECIES
 
 #### Status
 ACCEPTED

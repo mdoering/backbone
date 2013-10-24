@@ -1,5 +1,4 @@
-Mitrula pusilla (Nees) Fr. SPECIES
-=======
+# Mitrula pusilla (Nees) Fr. SPECIES
 
 #### Status
 ACCEPTED

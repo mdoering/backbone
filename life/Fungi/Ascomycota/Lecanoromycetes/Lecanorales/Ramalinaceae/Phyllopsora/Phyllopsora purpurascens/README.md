@@ -1,5 +1,4 @@
-Phyllopsora purpurascens (Vain.) Zahlbr. SPECIES
-=======
+# Phyllopsora purpurascens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

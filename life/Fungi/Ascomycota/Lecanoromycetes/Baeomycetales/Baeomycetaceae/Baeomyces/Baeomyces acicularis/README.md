@@ -1,5 +1,4 @@
-Baeomyces acicularis Ach. SPECIES
-=======
+# Baeomyces acicularis Ach. SPECIES
 
 #### Status
 ACCEPTED

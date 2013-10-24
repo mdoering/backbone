@@ -1,5 +1,4 @@
-Rickia parvula Thaxt. SPECIES
-=======
+# Rickia parvula Thaxt. SPECIES
 
 #### Status
 ACCEPTED

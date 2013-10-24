@@ -1,5 +1,4 @@
-Phaeotrema Müll. Arg. GENUS
-=======
+# Phaeotrema Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

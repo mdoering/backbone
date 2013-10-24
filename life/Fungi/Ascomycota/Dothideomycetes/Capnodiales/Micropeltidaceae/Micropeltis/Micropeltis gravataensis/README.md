@@ -1,5 +1,4 @@
-Micropeltis gravataensis Bat. & A.F. Vital SPECIES
-=======
+# Micropeltis gravataensis Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

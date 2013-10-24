@@ -1,5 +1,4 @@
-Coprinopsis pseudocortinata (Locq. ex Cacialli, Caroti & Doveri) Doveri, Granito & Lunghini SPECIES
-=======
+# Coprinopsis pseudocortinata (Locq. ex Cacialli, Caroti & Doveri) Doveri, Granito & Lunghini SPECIES
 
 #### Status
 ACCEPTED

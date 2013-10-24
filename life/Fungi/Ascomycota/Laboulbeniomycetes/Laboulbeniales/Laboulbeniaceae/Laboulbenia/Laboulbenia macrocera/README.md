@@ -1,5 +1,4 @@
-Laboulbenia macrocera Speg. SPECIES
-=======
+# Laboulbenia macrocera Speg. SPECIES
 
 #### Status
 ACCEPTED

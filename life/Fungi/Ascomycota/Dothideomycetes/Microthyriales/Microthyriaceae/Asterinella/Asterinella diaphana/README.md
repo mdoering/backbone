@@ -1,5 +1,4 @@
-Asterinella diaphana (Syd. & P. Syd.) Theiss. SPECIES
-=======
+# Asterinella diaphana (Syd. & P. Syd.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

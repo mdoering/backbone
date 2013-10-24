@@ -1,5 +1,4 @@
-Sporovibrio GENUS
-=======
+# Sporovibrio GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oceanimonas denitrificans Lai & Shao, 2005 SPECIES
-=======
+# Oceanimonas denitrificans Lai & Shao, 2005 SPECIES
 
 #### Status
 ACCEPTED

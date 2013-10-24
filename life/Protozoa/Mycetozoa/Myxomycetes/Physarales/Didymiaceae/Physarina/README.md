@@ -1,5 +1,4 @@
-Physarina Höhn. GENUS
-=======
+# Physarina Höhn. GENUS
 
 #### Status
 ACCEPTED

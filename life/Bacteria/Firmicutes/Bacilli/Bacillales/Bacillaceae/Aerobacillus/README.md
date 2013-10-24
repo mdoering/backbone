@@ -1,5 +1,4 @@
-Aerobacillus GENUS
-=======
+# Aerobacillus GENUS
 
 #### Status
 ACCEPTED

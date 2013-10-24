@@ -1,14 +1,13 @@
-Bacidia pruinosa P. James SPECIES
-=======
+# Scoliciosporum pruinosum (P. James) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 5(1-2): 117 (1971)
+Folia geobot. phytotax. 13: 414 (1978)
 
 #### Original name
 Bacidia pruinosa P. James

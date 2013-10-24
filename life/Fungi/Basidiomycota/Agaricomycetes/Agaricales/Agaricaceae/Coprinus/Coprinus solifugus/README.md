@@ -1,5 +1,4 @@
-Coprinus solifugus (L. Marchand) Fr. SPECIES
-=======
+# Coprinus solifugus (L. Marchand) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicia buccina Dearn. & House SPECIES
-=======
+# Helicia buccina Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

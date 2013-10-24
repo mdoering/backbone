@@ -1,5 +1,4 @@
-Diaporthe hickoriae Wehm., 1933 SPECIES
-=======
+# Diaporthe hickoriae Wehm., 1933 SPECIES
 
 #### Status
 ACCEPTED

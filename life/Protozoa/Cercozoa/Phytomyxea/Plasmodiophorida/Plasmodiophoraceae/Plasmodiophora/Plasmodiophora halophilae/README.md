@@ -1,5 +1,4 @@
-Plasmodiophora halophilae Ferd. & Winge SPECIES
-=======
+# Plasmodiophora halophilae Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

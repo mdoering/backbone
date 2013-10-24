@@ -1,5 +1,4 @@
-Pseudodiplodia oleaginea (Sacc.) E. Gallego & Pedreño SPECIES
-=======
+# Pseudodiplodia oleaginea (Sacc.) E. Gallego & Pedreño SPECIES
 
 #### Status
 ACCEPTED

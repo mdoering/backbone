@@ -1,5 +1,4 @@
-Renulina Lamarck, 1805 GENUS
-=======
+# Renulina Lamarck, 1805 GENUS
 
 #### Status
 ACCEPTED

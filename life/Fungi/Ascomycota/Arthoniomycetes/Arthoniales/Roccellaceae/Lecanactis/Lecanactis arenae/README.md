@@ -1,5 +1,4 @@
-Lecanactis arenae Flagey SPECIES
-=======
+# Lecanactis arenae Flagey SPECIES
 
 #### Status
 ACCEPTED

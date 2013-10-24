@@ -1,5 +1,4 @@
-Inocybe gbadjii De Kesel SPECIES
-=======
+# Inocybe gbadjii De Kesel SPECIES
 
 #### Status
 ACCEPTED

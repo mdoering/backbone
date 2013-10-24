@@ -1,5 +1,4 @@
-Pharcidia epipolytropon (Mudd) Jacz. SPECIES
-=======
+# Pharcidia epipolytropon (Mudd) Jacz. SPECIES
 
 #### Status
 ACCEPTED

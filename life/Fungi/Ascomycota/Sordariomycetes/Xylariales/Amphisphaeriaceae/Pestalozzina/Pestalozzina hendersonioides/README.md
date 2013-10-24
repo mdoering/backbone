@@ -1,5 +1,4 @@
-Pestalozzina hendersonioides (Fautrey & F. Lamb.) Died. SPECIES
-=======
+# Pestalozzina hendersonioides (Fautrey & F. Lamb.) Died. SPECIES
 
 #### Status
 ACCEPTED

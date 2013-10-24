@@ -1,5 +1,4 @@
-Streptomyces chibaensis Suzuki et al., 1958 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces chibaensis Suzuki et al., 1958 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius aureopigmentatus Ammirati, Halling & Garnica SPECIES
-=======
+# Cortinarius aureopigmentatus Ammirati, Halling & Garnica SPECIES
 
 #### Status
 ACCEPTED

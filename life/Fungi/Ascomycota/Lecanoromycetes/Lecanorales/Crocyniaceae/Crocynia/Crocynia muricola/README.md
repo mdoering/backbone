@@ -1,5 +1,4 @@
-Crocynia muricola Hue SPECIES
-=======
+# Crocynia muricola Hue SPECIES
 
 #### Status
 ACCEPTED

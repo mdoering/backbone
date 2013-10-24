@@ -1,5 +1,4 @@
-Hormosina normani Brady, 1881 SPECIES
-=======
+# Hormosina normani Brady, 1881 SPECIES
 
 #### Status
 ACCEPTED

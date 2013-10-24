@@ -1,5 +1,4 @@
-Ramaria pallidolilacina P. Zhang & Z.W. Ge SPECIES
-=======
+# Ramaria pallidolilacina P. Zhang & Z.W. Ge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heleococcum alatosporum Udagawa, Uchiy. & Kamiya, 1995 SPECIES
-=======
+# Heleococcum alatosporum Udagawa, Uchiy. & Kamiya, 1995 SPECIES
 
 #### Status
 ACCEPTED

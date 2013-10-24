@@ -1,5 +1,4 @@
-Asteridium lagerheimii Pat. SPECIES
-=======
+# Asteridium lagerheimii Pat. SPECIES
 
 #### Status
 ACCEPTED

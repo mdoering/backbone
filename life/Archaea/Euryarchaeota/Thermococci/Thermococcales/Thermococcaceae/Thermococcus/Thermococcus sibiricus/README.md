@@ -1,5 +1,4 @@
-Thermococcus sibiricus Miroshnichenko et al., 2001 SPECIES
-=======
+# Thermococcus sibiricus Miroshnichenko et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

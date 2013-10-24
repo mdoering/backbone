@@ -1,14 +1,13 @@
-Dothidea melianthi (Thüm.) Kalchbr. & Cooke, 1882 SPECIES
-=======
+# Phyllachora melianthi (Thüm.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 10(no. 56): 146 (1882)
+Syll. fung. (Abellini) 2: LXIX (1883)
 
 #### Original name
 null

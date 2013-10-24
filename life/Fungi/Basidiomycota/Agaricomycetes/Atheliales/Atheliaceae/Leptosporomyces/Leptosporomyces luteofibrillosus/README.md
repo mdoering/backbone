@@ -1,5 +1,4 @@
-Leptosporomyces luteofibrillosus Hjortstam & Ryvarden, 1985 SPECIES
-=======
+# Leptosporomyces luteofibrillosus Hjortstam & Ryvarden, 1985 SPECIES
 
 #### Status
 ACCEPTED

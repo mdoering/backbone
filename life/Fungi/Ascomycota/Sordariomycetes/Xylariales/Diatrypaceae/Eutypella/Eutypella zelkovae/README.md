@@ -1,8 +1,7 @@
-Eutypella zelkowae Henn. SPECIES
-=======
+# Eutypella zelkovae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eutypella zelkowae Henn.
+Eutypella zelkovae Henn.
 
 ### Remarks
 null

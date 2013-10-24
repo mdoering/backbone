@@ -1,5 +1,4 @@
-Lecanora flexuosa Stizenb. SPECIES
-=======
+# Lecanora flexuosa Stizenb. SPECIES
 
 #### Status
 ACCEPTED

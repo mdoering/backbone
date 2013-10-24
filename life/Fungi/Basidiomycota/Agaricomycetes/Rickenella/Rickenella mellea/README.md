@@ -1,14 +1,13 @@
-Gerronema melleum Singer & Clémençon, 1971 SPECIES
-=======
+# Rickenella mellea (Singer & Clem.) Lamoure, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. 49(9): 120 (1971)
+Beih. Sydowia 8: 251 (1979)
 
 #### Original name
 Gerronema melleum Singer & Clémençon, 1971

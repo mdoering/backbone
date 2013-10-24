@@ -1,5 +1,4 @@
-Zygosporium tonellianum Ferraris SPECIES
-=======
+# Zygosporium tonellianum Ferraris SPECIES
 
 #### Status
 ACCEPTED

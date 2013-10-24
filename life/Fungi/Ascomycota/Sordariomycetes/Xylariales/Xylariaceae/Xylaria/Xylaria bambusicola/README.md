@@ -1,5 +1,4 @@
-Xylaria bambusicola Y.M. Ju & J.D. Rogers SPECIES
-=======
+# Xylaria bambusicola Y.M. Ju & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

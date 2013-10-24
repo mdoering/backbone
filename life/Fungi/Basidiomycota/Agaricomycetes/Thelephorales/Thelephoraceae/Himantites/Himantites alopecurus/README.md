@@ -1,5 +1,4 @@
-Himantites alopecurus Debey & Ettingsh. SPECIES
-=======
+# Himantites alopecurus Debey & Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricellula inaequalis Beverw., 1954 SPECIES
-=======
+# Tricellula inaequalis Beverw., 1954 SPECIES
 
 #### Status
 ACCEPTED

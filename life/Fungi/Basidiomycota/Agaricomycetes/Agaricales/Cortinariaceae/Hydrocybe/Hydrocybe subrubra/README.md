@@ -1,5 +1,4 @@
-Hydrocybe subrubra Murrill SPECIES
-=======
+# Hydrocybe subrubra Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis piceae J.W. Groves, 1952 SPECIES
-=======
+# Tympanis piceae J.W. Groves, 1952 SPECIES
 
 #### Status
 ACCEPTED

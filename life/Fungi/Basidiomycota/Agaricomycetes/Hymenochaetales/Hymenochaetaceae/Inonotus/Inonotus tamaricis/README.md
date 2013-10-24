@@ -1,14 +1,13 @@
-Xanthochrous rheades subsp. tamaricis (Pat.) Bourdot & Galzin SUBSPECIES
-=======
+# Inonotus tamaricis (Pat.) Maire, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 202 (1925)
+Bulletin de la Société des Sciences naturelles du Maroc 14: 89 (1938)
 
 #### Original name
 Xanthochrous tamaricis Pat., 1904

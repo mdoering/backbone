@@ -1,8 +1,7 @@
-Syncyathella lusti (Matthes, 1955) Jankowski, 2007 SPECIES
-=======
+# Orbopercularia lusti Matthes, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

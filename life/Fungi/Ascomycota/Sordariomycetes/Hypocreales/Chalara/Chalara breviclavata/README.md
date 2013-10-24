@@ -1,5 +1,4 @@
-Chalara breviclavata Nag Raj & W.B. Kendr. SPECIES
-=======
+# Chalara breviclavata Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

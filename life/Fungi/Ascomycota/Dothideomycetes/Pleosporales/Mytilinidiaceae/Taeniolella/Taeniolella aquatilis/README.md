@@ -1,14 +1,13 @@
-Taeniolella aquatile (Woron.) Milko SPECIES
-=======
+# Taeniolella aquatilis (Woron.) Milko SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 22: 132 (1985)
 
 #### Original name
 Septonema aquatile Woron.

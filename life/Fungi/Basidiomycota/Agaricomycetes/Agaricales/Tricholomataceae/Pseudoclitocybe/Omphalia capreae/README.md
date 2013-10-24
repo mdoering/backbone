@@ -1,5 +1,4 @@
-Omphalia capreae Velen. SPECIES
-=======
+# Omphalia capreae Velen. SPECIES
 
 #### Status
 ACCEPTED

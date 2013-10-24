@@ -1,5 +1,4 @@
-Dinophrya Bütschli in Bronn, 1889 GENUS
-=======
+# Dinophrya Bütschli in Bronn, 1889 GENUS
 
 #### Status
 ACCEPTED

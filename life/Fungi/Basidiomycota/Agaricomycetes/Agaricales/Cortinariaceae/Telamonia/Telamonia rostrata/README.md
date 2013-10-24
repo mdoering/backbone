@@ -1,5 +1,4 @@
-Telamonia rostrata Velen. SPECIES
-=======
+# Telamonia rostrata Velen. SPECIES
 
 #### Status
 ACCEPTED

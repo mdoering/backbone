@@ -1,17 +1,16 @@
-Peziza tuba var. tuba VARIETY
-=======
+# Peziza tuba J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Systema Naturae, Edn 13 2: 1451 (1792)
 
 #### Original name
-null
+Peziza tuba J.F. Gmel.
 
 ### Remarks
 null

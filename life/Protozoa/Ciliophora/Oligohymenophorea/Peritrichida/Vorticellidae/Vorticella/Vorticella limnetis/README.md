@@ -1,5 +1,4 @@
-Vorticella limnetis Stokes, 1885 SPECIES
-=======
+# Vorticella limnetis Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

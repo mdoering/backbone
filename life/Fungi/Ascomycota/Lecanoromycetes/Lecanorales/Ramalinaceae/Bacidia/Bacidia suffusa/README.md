@@ -1,5 +1,4 @@
-Bacidia suffusa (Fr.) A. Schneid. SPECIES
-=======
+# Bacidia suffusa (Fr.) A. Schneid. SPECIES
 
 #### Status
 ACCEPTED

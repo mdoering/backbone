@@ -1,5 +1,4 @@
-Favolus boletiformis Beeli SPECIES
-=======
+# Favolus boletiformis Beeli SPECIES
 
 #### Status
 ACCEPTED

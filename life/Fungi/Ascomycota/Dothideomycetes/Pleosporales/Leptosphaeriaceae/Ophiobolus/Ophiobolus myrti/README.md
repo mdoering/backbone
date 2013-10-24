@@ -1,5 +1,4 @@
-Ophiobolus myrti Gucevic SPECIES
-=======
+# Ophiobolus myrti Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma furvum (Fr.) Gillet SPECIES
-=======
+# Tricholoma furvum (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

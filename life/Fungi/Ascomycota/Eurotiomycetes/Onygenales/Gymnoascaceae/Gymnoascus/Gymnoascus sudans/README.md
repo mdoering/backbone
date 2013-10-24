@@ -1,5 +1,4 @@
-Gymnoascus sudans Vailionis SPECIES
-=======
+# Gymnoascus sudans Vailionis SPECIES
 
 #### Status
 ACCEPTED

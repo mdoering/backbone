@@ -1,5 +1,4 @@
-Rikenella Collins, Shah & Mitsuoka, 1985 GENUS
-=======
+# Rikenella Collins, Shah & Mitsuoka, 1985 GENUS
 
 #### Status
 ACCEPTED

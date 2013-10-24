@@ -1,5 +1,4 @@
-Coniosporium pseudacaciae (Schwein.) Sacc. SPECIES
-=======
+# Coniosporium pseudacaciae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza kauffmanniana Tikhom. SPECIES
-=======
+# Peziza kauffmanniana Tikhom. SPECIES
 
 #### Status
 ACCEPTED

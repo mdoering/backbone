@@ -1,5 +1,4 @@
-Physcia hypoleuca var. hypoleuca VARIETY
-=======
+# Heterodermia hypoleuca (Mühl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Atti Soc. ital. Sci. nat. (Modena) 11: 615 (1868)
 
 #### Original name
-Physcia hypoleuca var. hypoleuca
+Parmelia hypoleuca Müll. Arg.
 
 ### Remarks
 null

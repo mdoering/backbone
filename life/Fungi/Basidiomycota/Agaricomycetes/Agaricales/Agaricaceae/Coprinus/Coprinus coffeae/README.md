@@ -1,5 +1,4 @@
-Coprinus coffeae Comes SPECIES
-=======
+# Coprinus coffeae Comes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula plumbea Malme SPECIES
-=======
+# Pyrenula plumbea Malme SPECIES
 
 #### Status
 ACCEPTED

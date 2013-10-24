@@ -1,5 +1,4 @@
-Mycosphaerella cirsii-arvensis Petr., 1925 SPECIES
-=======
+# Mycosphaerella cirsii-arvensis Petr., 1925 SPECIES
 
 #### Status
 ACCEPTED

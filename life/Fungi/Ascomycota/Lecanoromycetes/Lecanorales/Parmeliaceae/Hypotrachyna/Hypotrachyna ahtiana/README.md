@@ -1,5 +1,4 @@
-Hypotrachyna ahtiana Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna ahtiana Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

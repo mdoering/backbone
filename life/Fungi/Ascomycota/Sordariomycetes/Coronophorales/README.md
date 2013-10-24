@@ -1,5 +1,4 @@
-Coronophorales Nannf. ORDER
-=======
+# Coronophorales Nannf. ORDER
 
 #### Status
 ACCEPTED

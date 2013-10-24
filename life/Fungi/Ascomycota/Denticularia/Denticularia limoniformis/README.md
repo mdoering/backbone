@@ -1,5 +1,4 @@
-Denticularia limoniformis de Hoog SPECIES
-=======
+# Denticularia limoniformis de Hoog SPECIES
 
 #### Status
 ACCEPTED

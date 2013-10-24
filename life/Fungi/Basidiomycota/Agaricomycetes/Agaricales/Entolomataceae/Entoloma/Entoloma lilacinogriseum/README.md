@@ -1,5 +1,4 @@
-Entoloma lilacinogriseum (Raithelh.) Raithelh. SPECIES
-=======
+# Entoloma lilacinogriseum (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desmazieria pulchribarbara Rundel & Bowler SPECIES
-=======
+# Desmazieria pulchribarbara Rundel & Bowler SPECIES
 
 #### Status
 ACCEPTED

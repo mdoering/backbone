@@ -1,5 +1,4 @@
-Ustilago kusanoi Syd. & P. Syd. SPECIES
-=======
+# Ustilago kusanoi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

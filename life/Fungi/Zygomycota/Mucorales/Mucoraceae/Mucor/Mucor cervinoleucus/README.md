@@ -1,5 +1,4 @@
-Mucor cervinoleucus Berk. SPECIES
-=======
+# Mucor cervinoleucus Berk. SPECIES
 
 #### Status
 ACCEPTED

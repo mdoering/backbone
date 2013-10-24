@@ -1,5 +1,4 @@
-Semilecanora cinereonigra Motyka SPECIES
-=======
+# Semilecanora cinereonigra Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta araratiana Husseinova SPECIES
-=======
+# Phyllosticta araratiana Husseinova SPECIES
 
 #### Status
 ACCEPTED

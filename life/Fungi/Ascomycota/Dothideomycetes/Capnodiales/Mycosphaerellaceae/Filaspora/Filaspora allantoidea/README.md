@@ -1,14 +1,13 @@
-Filaspora allantodea (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Filaspora allantoidea (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 476 (1898)
 
 #### Original name
 Septoria allantoidea Berk. & M.A. Curtis

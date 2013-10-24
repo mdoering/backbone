@@ -1,5 +1,4 @@
-Calosphaeria recedens Niessl SPECIES
-=======
+# Calosphaeria recedens Niessl SPECIES
 
 #### Status
 ACCEPTED

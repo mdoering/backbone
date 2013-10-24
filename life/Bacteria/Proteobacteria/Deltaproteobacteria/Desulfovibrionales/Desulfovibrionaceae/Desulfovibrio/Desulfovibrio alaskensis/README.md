@@ -1,5 +1,4 @@
-Desulfovibrio alaskensis Feio et al., 2004 SPECIES
-=======
+# Desulfovibrio alaskensis Feio et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

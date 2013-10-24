@@ -1,14 +1,13 @@
-Dangeardia molesta (Canter) A. Batko, 1970 SPECIES
-=======
+# Entophlyctis molesta Canter, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Roy. Microscop. Soc. 84: 555 (1965)
 
 #### Original name
 Entophlyctis molesta Canter, 1965

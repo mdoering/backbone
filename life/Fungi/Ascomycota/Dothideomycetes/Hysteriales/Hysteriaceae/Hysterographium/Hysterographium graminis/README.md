@@ -1,5 +1,4 @@
-Hysterographium graminis Ellis & Everh. SPECIES
-=======
+# Hysterographium graminis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

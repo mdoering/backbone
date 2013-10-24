@@ -1,5 +1,4 @@
-Uredo dianellae Dietel, 1898 SPECIES
-=======
+# Uredo dianellae Dietel, 1898 SPECIES
 
 #### Status
 ACCEPTED

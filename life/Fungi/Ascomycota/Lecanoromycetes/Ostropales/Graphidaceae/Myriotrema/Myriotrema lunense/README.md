@@ -1,5 +1,4 @@
-Myriotrema lunense Nagarkar & Hale SPECIES
-=======
+# Myriotrema lunense Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

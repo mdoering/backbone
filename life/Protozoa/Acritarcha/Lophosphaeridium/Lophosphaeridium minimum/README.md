@@ -1,5 +1,4 @@
-Lophosphaeridium minimum Le Hérissé, 2000 SPECIES
-=======
+# Lophosphaeridium minimum Le Hérissé, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomatospora migrans Rehm SPECIES
-=======
+# Phomatospora migrans Rehm SPECIES
 
 #### Status
 ACCEPTED

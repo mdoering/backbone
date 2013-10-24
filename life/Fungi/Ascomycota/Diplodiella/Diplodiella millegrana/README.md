@@ -1,5 +1,4 @@
-Diplodiella millegrana (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Diplodiella millegrana (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

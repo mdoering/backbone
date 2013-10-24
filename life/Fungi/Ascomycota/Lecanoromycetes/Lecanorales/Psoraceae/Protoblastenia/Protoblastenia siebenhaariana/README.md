@@ -1,17 +1,16 @@
-Protoblastenia siebenhaariana subsp. siebenhaariana SUBSPECIES
-=======
+# Protoblastenia siebenhaariana (Körb.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 61: 48 (1911)
 
 #### Original name
-Protoblastenia siebenhaariana subsp. siebenhaariana
+Biatora siebenhaariana Körb.
 
 ### Remarks
 null

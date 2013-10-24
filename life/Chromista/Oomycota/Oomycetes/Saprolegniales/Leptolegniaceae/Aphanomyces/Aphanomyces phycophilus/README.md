@@ -1,5 +1,4 @@
-Aphanomyces phycophilus de Bary, 1860 SPECIES
-=======
+# Aphanomyces phycophilus de Bary, 1860 SPECIES
 
 #### Status
 ACCEPTED

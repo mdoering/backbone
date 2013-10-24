@@ -1,5 +1,4 @@
-Rhizoplaca johowii (Follmann & Redón) Follmann SPECIES
-=======
+# Rhizoplaca johowii (Follmann & Redón) Follmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria vagans Sacc. SPECIES
-=======
+# Cucurbitaria vagans Sacc. SPECIES
 
 #### Status
 ACCEPTED

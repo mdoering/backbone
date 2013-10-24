@@ -1,5 +1,4 @@
-Penicillium orbicula Corda SPECIES
-=======
+# Penicillium orbicula Corda SPECIES
 
 #### Status
 ACCEPTED

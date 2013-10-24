@@ -1,5 +1,4 @@
-Custingophora suidafrikana Morgan-Jones & R.C. Sinclair, 1980 SPECIES
-=======
+# Custingophora suidafrikana Morgan-Jones & R.C. Sinclair, 1980 SPECIES
 
 #### Status
 ACCEPTED

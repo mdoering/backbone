@@ -1,5 +1,4 @@
-Geothermobacterium GENUS
-=======
+# Geothermobacterium GENUS
 
 #### Status
 ACCEPTED

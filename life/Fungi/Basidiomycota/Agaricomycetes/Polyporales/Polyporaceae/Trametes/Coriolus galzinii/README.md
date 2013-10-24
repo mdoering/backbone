@@ -1,5 +1,4 @@
-Coriolus galzinii (Bres.) Bondartsev & Singer SPECIES
-=======
+# Coriolus galzinii (Bres.) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

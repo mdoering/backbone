@@ -1,5 +1,4 @@
-Asterorotalia trispinosa (Thalmann) SPECIES
-=======
+# Asterorotalia trispinosa (Thalmann) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora tremelloides Hedw. SPECIES
-=======
+# Octospora tremelloides Hedw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola euonymi F. Stevens ex Hansf. SPECIES
-=======
+# Meliola euonymi F. Stevens ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

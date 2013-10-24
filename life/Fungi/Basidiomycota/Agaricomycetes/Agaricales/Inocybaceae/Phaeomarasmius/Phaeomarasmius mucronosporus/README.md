@@ -1,5 +1,4 @@
-Phaeomarasmius mucronosporus Singer SPECIES
-=======
+# Phaeomarasmius mucronosporus Singer SPECIES
 
 #### Status
 ACCEPTED

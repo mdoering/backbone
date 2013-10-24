@@ -1,5 +1,4 @@
-Stagonospora octomera Alcalde SPECIES
-=======
+# Stagonospora octomera Alcalde SPECIES
 
 #### Status
 ACCEPTED

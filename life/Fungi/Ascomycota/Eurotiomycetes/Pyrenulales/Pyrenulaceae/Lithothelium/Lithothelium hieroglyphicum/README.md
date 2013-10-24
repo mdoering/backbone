@@ -1,5 +1,4 @@
-Lithothelium hieroglyphicum Aptroot SPECIES
-=======
+# Lithothelium hieroglyphicum Aptroot SPECIES
 
 #### Status
 ACCEPTED

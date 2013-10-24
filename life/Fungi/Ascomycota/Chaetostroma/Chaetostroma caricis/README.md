@@ -1,5 +1,4 @@
-Chaetostroma caricis (Fuckel) Sacc. SPECIES
-=======
+# Chaetostroma caricis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

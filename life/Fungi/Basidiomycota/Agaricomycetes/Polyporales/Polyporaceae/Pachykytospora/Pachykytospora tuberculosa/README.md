@@ -1,17 +1,16 @@
-Boletus tuberculosus DC., 1815 SPECIES
-=======
+# Pachykytospora tuberculosa (Fr.) Kotl. & Pouzar, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 40 (1815)
+Ceská Mykol. 17(1): 28 (1963)
 
 #### Original name
-Boletus tuberculosus DC., 1815
+Polyporus tuberculosus Fr., 1821
 
 ### Remarks
 null

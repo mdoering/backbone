@@ -1,5 +1,4 @@
-Bacidia multilocularis SPECIES
-=======
+# Bacidia multilocularis SPECIES
 
 #### Status
 ACCEPTED

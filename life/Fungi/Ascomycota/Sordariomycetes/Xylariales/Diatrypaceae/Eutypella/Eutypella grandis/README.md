@@ -1,14 +1,13 @@
-Valsa grandis Nitschke, 1870 SPECIES
-=======
+# Eutypella grandis (Nitschke) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 152 (1882)
 
 #### Original name
 Valsa grandis Nitschke, 1870

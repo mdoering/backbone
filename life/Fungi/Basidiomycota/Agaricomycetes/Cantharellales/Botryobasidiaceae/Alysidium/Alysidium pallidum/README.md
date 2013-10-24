@@ -1,5 +1,4 @@
-Alysidium pallidum (Berk. & Ravenel) Pound & Clem. SPECIES
-=======
+# Alysidium pallidum (Berk. & Ravenel) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

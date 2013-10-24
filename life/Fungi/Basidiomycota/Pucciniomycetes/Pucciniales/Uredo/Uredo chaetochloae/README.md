@@ -1,5 +1,4 @@
-Uredo chaetochloae Arthur SPECIES
-=======
+# Uredo chaetochloae Arthur SPECIES
 
 #### Status
 ACCEPTED

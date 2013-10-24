@@ -1,5 +1,4 @@
-Plagiocampa incisa Kahl, 1933 SPECIES
-=======
+# Plagiocampa incisa Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

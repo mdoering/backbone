@@ -1,5 +1,4 @@
-Amphispyris Haeckel, 1881 GENUS
-=======
+# Amphispyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

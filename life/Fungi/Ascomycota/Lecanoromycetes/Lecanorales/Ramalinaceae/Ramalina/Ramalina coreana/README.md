@@ -1,5 +1,4 @@
-Ramalina coreana Kashiw. & K.H. Moon SPECIES
-=======
+# Ramalina coreana Kashiw. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

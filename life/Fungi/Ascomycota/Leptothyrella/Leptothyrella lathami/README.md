@@ -1,5 +1,4 @@
-Leptothyrella lathami Dearn. SPECIES
-=======
+# Leptothyrella lathami Dearn. SPECIES
 
 #### Status
 ACCEPTED

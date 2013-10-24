@@ -1,14 +1,13 @@
-Fuscoporia tawhai G. Cunn., 1948 SPECIES
-=======
+# Phellinus tawhai (G. Cunn.) G. Cunn., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 73: 8 (1948)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 229 (1965)
 
 #### Original name
 Fuscoporia tawhai G. Cunn., 1948

@@ -1,5 +1,4 @@
-Limnomyces Lohammar GENUS
-=======
+# Limnomyces Lohammar GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria anodae E.G. Simmons SPECIES
-=======
+# Alternaria anodae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

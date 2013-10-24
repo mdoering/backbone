@@ -1,5 +1,4 @@
-Octospora gyalectoides Svrcek & Kubicka SPECIES
-=======
+# Octospora gyalectoides Svrcek & Kubicka SPECIES
 
 #### Status
 ACCEPTED

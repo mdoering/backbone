@@ -1,5 +1,4 @@
-Asteromella epitrema Cooke SPECIES
-=======
+# Asteromella epitrema Cooke SPECIES
 
 #### Status
 ACCEPTED

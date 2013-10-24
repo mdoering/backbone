@@ -1,5 +1,4 @@
-Opegrapha lutulenta Nyl. SPECIES
-=======
+# Opegrapha lutulenta Nyl. SPECIES
 
 #### Status
 ACCEPTED

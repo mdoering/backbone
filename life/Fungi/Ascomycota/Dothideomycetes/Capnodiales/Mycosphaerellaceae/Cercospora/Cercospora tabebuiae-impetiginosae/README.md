@@ -1,5 +1,4 @@
-Cercospora tabebuiae-impetiginosae Inácio & Dianese SPECIES
-=======
+# Cercospora tabebuiae-impetiginosae Inácio & Dianese SPECIES
 
 #### Status
 ACCEPTED

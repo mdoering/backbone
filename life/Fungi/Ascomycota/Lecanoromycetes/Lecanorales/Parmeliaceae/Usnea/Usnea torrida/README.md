@@ -1,5 +1,4 @@
-Usnea torrida Motyka SPECIES
-=======
+# Usnea torrida Motyka SPECIES
 
 #### Status
 ACCEPTED

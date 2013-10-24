@@ -1,5 +1,4 @@
-Aecidium modestum Arthur SPECIES
-=======
+# Aecidium modestum Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophospyris Haeckel, 1881 GENUS
-=======
+# Lophospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

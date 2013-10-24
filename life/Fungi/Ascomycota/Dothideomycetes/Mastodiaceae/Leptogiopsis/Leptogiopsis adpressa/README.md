@@ -1,5 +1,4 @@
-Leptogiopsis adpressa (Nyl.) Müll. Arg. SPECIES
-=======
+# Leptogiopsis adpressa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

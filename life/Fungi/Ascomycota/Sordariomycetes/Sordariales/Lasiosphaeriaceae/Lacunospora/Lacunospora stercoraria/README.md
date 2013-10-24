@@ -1,14 +1,13 @@
-Apiosordaria stercoraria (Cailleux) Arx, 1981 SPECIES
-=======
+# Lacunospora stercoraria Cailleux, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 160 (1981)
+Cahiers de La Maboké 6(2): 96 (1969)
 
 #### Original name
 Lacunospora stercoraria Cailleux, 1969

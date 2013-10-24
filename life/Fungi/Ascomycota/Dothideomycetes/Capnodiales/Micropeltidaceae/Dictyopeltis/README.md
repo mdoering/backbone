@@ -1,5 +1,4 @@
-Dictyopeltis Theiss. GENUS
-=======
+# Dictyopeltis Theiss. GENUS
 
 #### Status
 ACCEPTED

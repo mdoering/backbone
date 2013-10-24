@@ -1,5 +1,4 @@
-Mycena atrorostrata Velen. SPECIES
-=======
+# Mycena atrorostrata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Gloeocapsa deusta (Meneghini) Kützing SPECIES
-=======
+# Entophysalis deusta (Meneghini) F.E. Drouet & W.A. Daily SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

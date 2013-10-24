@@ -1,5 +1,4 @@
-Pachykytospora thindii Natarajan & Koland. SPECIES
-=======
+# Pachykytospora thindii Natarajan & Koland. SPECIES
 
 #### Status
 ACCEPTED

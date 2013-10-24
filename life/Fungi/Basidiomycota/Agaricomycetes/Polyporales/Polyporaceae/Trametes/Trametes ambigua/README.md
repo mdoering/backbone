@@ -1,5 +1,4 @@
-Trametes ambigua (Berk.) Fr. SPECIES
-=======
+# Trametes ambigua (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

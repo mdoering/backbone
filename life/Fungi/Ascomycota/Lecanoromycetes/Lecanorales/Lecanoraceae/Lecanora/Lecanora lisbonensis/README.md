@@ -1,5 +1,4 @@
-Lecanora lisbonensis Samp. SPECIES
-=======
+# Lecanora lisbonensis Samp. SPECIES
 
 #### Status
 ACCEPTED

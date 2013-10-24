@@ -1,11 +1,10 @@
-Coscinodiscus nodulolineatus Hendey, 1957 SPECIES
-=======
+# Thalassiosira nodulolineata (Hendey) Hasle & Fryxell, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

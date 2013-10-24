@@ -1,5 +1,4 @@
-Sciniatosporium erythrinae (M.B. Ellis) Morgan-Jones SPECIES
-=======
+# Sciniatosporium erythrinae (M.B. Ellis) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

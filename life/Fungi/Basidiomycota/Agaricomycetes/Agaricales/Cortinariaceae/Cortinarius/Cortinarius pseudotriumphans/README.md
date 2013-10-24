@@ -1,5 +1,4 @@
-Cortinarius pseudotriumphans M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius pseudotriumphans M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Postrugoglobigerina Salaj, 1986 GENUS
-=======
+# Postrugoglobigerina Salaj, 1986 GENUS
 
 #### Status
 ACCEPTED

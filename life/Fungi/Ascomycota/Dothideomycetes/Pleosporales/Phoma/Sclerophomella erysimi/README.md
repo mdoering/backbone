@@ -1,5 +1,4 @@
-Sclerophomella erysimi Petr. SPECIES
-=======
+# Sclerophomella erysimi Petr. SPECIES
 
 #### Status
 ACCEPTED

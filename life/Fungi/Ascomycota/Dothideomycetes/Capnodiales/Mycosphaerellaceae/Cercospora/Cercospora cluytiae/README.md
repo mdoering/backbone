@@ -1,5 +1,4 @@
-Cercospora cluytiae Kalchbr. & Cooke SPECIES
-=======
+# Cercospora cluytiae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

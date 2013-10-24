@@ -1,14 +1,13 @@
-Clisosporium botryosphaerodes (Sacc. & Briard) Kuntze SPECIES
-=======
+# Clisosporium botryosphaerioides (Sacc. & Briard) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 458 (1898)
 
 #### Original name
 Coniothyrium botryosphaerioides Sacc. & Briard

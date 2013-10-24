@@ -1,5 +1,4 @@
-Dendrodochium strictum D. Sacc. SPECIES
-=======
+# Dendrodochium strictum D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

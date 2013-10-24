@@ -1,5 +1,4 @@
-Diaxonella pseudorubra subsp. polystylata (Borror & Wicklow, 1983) Berger, 2006 SUBSPECIES
-=======
+# Diaxonella pseudorubra Kaltenbach SPECIES
 
 #### Status
 ACCEPTED

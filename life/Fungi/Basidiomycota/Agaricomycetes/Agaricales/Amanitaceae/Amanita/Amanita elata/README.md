@@ -1,5 +1,4 @@
-Amanita elata (Massee) Corner & Bas SPECIES
-=======
+# Amanita elata (Massee) Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

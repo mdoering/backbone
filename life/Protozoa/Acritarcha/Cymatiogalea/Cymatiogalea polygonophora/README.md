@@ -1,5 +1,4 @@
-Cymatiogalea polygonophora Górka, 1967 SPECIES
-=======
+# Cymatiogalea polygonophora Górka, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus polyporus (Bull.) E.H.L. Krause SPECIES
-=======
+# Agaricus polyporus (Bull.) E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hansfordiella lichenicola Bat. & H. Maia SPECIES
-=======
+# Hansfordiella lichenicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella hymenocallidis U. Braun & Crous SPECIES
-=======
+# Stenella hymenocallidis U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

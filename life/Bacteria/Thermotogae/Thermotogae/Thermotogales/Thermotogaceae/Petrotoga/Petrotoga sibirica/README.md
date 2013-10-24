@@ -1,5 +1,4 @@
-Petrotoga sibirica L'Haridon et al., 2002 SPECIES
-=======
+# Petrotoga sibirica L'Haridon et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

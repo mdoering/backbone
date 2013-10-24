@@ -1,5 +1,4 @@
-Uredo biocellata Arthur SPECIES
-=======
+# Uredo biocellata Arthur SPECIES
 
 #### Status
 ACCEPTED

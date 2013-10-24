@@ -1,5 +1,4 @@
-Sporormiella sorghophila (Peck) M.E. Barr SPECIES
-=======
+# Sporormiella sorghophila (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globoconusa Khalilov, 1956 GENUS
-=======
+# Globoconusa Khalilov, 1956 GENUS
 
 #### Status
 ACCEPTED

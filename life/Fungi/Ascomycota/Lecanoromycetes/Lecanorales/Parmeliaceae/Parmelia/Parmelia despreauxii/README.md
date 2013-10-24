@@ -1,5 +1,4 @@
-Parmelia despreauxii Delise SPECIES
-=======
+# Parmelia despreauxii Delise SPECIES
 
 #### Status
 ACCEPTED

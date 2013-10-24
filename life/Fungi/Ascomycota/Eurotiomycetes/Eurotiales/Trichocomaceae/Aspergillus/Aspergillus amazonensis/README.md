@@ -1,5 +1,4 @@
-Aspergillus amazonensis (Henn.) Samson & Seifert, 1986 SPECIES
-=======
+# Aspergillus amazonensis (Henn.) Samson & Seifert, 1986 SPECIES
 
 #### Status
 ACCEPTED

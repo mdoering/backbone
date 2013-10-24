@@ -1,5 +1,4 @@
-Endochytrium Sparrow, 1933 GENUS
-=======
+# Endochytrium Sparrow, 1933 GENUS
 
 #### Status
 ACCEPTED

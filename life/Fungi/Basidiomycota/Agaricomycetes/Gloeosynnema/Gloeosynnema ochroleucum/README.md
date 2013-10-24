@@ -1,14 +1,13 @@
-Stilbum ochroleucum Penz. & Sacc. SPECIES
-=======
+# Gloeosynnema ochroleucum (Penz. & Sacc.) Seifert & G. Okada, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 15: 250 (1901)
+Mycotaxon 32(1): 472 (1988)
 
 #### Original name
 Stilbum ochroleucum Penz. & Sacc.

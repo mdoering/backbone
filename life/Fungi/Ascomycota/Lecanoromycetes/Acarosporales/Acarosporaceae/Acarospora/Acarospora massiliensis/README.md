@@ -1,5 +1,4 @@
-Acarospora massiliensis (Harm.) H. Magn. SPECIES
-=======
+# Acarospora massiliensis (Harm.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

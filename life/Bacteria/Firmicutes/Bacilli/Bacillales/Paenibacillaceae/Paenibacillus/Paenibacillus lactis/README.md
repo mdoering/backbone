@@ -1,5 +1,4 @@
-Paenibacillus lactis Scheldeman et al., 2004 SPECIES
-=======
+# Paenibacillus lactis Scheldeman et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

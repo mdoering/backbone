@@ -1,5 +1,4 @@
-Uncinia spinosae Velen. SPECIES
-=======
+# Uncinia spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

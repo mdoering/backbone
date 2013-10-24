@@ -1,11 +1,10 @@
-Ampullaria lobata Couch, 1963 SPECIES
-=======
+# Actinoplanes lobatus (Couch, 1963) Stackebrandt & Kroppenstedt, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Punctaria crouanii (Thuret) Bornet SPECIES
-=======
+# Punctaria crouanii (Thuret) Bornet SPECIES
 
 #### Status
 ACCEPTED

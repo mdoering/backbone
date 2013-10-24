@@ -1,5 +1,4 @@
-Pestalotia flagellata Earle SPECIES
-=======
+# Pestalotia flagellata Earle SPECIES
 
 #### Status
 ACCEPTED

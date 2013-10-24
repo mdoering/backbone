@@ -1,5 +1,4 @@
-Stigmatomyces scatellae S.W.T. Batra SPECIES
-=======
+# Stigmatomyces scatellae S.W.T. Batra SPECIES
 
 #### Status
 ACCEPTED

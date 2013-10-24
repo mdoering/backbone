@@ -1,5 +1,4 @@
-Leptotrema irosinum (Vain.) Zahlbr. SPECIES
-=======
+# Leptotrema irosinum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

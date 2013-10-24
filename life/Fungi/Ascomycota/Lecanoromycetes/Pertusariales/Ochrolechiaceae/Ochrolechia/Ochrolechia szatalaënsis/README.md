@@ -1,17 +1,16 @@
-Ochrolechia pallescens var. pseudotartarea Vain. VARIETY
-=======
+# Ochrolechia szatalaënsis Verseghy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Résult. Voy. Belgica, Lich. 21 (1903)
+null
 
 #### Original name
-Ochrolechia pallescens var. pseudotartarea Vain.
+null
 
 ### Remarks
 null

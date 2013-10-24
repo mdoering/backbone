@@ -1,5 +1,4 @@
-Uredo maua D.E. Gardner & Flynn SPECIES
-=======
+# Uredo maua D.E. Gardner & Flynn SPECIES
 
 #### Status
 ACCEPTED

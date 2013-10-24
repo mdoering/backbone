@@ -1,5 +1,4 @@
-Lecanora subgangaliza Nyl. SPECIES
-=======
+# Lecanora subgangaliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

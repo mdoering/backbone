@@ -1,5 +1,4 @@
-Ectostroma pedicularis (DC.) Fr. SPECIES
-=======
+# Ectostroma pedicularis (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

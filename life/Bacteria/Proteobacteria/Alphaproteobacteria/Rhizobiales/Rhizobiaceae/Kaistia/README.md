@@ -1,5 +1,4 @@
-Kaistia Im et al., 2005 GENUS
-=======
+# Kaistia Im et al., 2005 GENUS
 
 #### Status
 ACCEPTED

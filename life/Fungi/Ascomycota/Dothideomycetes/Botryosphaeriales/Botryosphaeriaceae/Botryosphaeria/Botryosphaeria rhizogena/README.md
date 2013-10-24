@@ -1,5 +1,4 @@
-Botryosphaeria rhizogena (Berk.) Sacc. SPECIES
-=======
+# Botryosphaeria rhizogena (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

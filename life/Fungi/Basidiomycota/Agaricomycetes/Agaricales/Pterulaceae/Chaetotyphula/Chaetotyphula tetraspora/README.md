@@ -1,5 +1,4 @@
-Chaetotyphula tetraspora Corner, 1953 SPECIES
-=======
+# Chaetotyphula tetraspora Corner, 1953 SPECIES
 
 #### Status
 ACCEPTED

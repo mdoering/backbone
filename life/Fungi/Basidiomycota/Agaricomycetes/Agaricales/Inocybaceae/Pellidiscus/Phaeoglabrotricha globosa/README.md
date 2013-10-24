@@ -1,5 +1,4 @@
-Phaeoglabrotricha globosa W.B. Cooke SPECIES
-=======
+# Phaeoglabrotricha globosa W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

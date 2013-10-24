@@ -1,5 +1,4 @@
-Gymnodinium striatissimum E. M. Hulburt SPECIES
-=======
+# Gymnodinium striatissimum E. M. Hulburt SPECIES
 
 #### Status
 ACCEPTED

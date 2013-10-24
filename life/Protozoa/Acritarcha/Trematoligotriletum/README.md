@@ -1,5 +1,4 @@
-Trematoligotriletum Timofeev, 1959 GENUS
-=======
+# Trematoligotriletum Timofeev, 1959 GENUS
 
 #### Status
 ACCEPTED

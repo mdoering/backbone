@@ -1,5 +1,4 @@
-Lecanora albicans (Nyl.) Hertel & Rambold SPECIES
-=======
+# Lecanora albicans (Nyl.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella minima SPECIES
-=======
+# Vorticella minima SPECIES
 
 #### Status
 ACCEPTED

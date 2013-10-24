@@ -1,17 +1,16 @@
-Helotium citrinulum var. seaveri Rehm VARIETY
-=======
+# Rodwayella citrinula (P. Karst.) Spooner, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Dennis, Fungi of the Hebrides (Kew) 383 (1986)
 
 #### Original name
-Helotium citrinulum var. seaveri Rehm
+Helotium citrinulum P. Karst., 1870
 
 ### Remarks
 null

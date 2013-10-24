@@ -1,5 +1,4 @@
-Peltula tenebrata (Nyl.) Gyeln. SPECIES
-=======
+# Peltula tenebrata (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

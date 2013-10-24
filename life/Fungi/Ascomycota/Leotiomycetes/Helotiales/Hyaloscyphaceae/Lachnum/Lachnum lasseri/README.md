@@ -1,5 +1,4 @@
-Lachnum lasseri (Dennis) W.Y. Zhuang SPECIES
-=======
+# Lachnum lasseri (Dennis) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

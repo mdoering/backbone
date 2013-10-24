@@ -1,5 +1,4 @@
-Uredo uncinata F. Kern, Cif. & Thurst. SPECIES
-=======
+# Uredo uncinata F. Kern, Cif. & Thurst. SPECIES
 
 #### Status
 ACCEPTED

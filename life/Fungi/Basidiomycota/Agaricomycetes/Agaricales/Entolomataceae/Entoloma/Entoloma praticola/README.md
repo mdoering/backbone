@@ -1,5 +1,4 @@
-Entoloma praticola (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma praticola (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

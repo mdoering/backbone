@@ -1,5 +1,4 @@
-Schizothyrium coutareae (Bat. & I.H. Lima) Arx SPECIES
-=======
+# Schizothyrium coutareae (Bat. & I.H. Lima) Arx SPECIES
 
 #### Status
 ACCEPTED

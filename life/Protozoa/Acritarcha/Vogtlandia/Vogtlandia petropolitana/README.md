@@ -1,5 +1,4 @@
-Vogtlandia petropolitana (German in German & Timofeev, 1974) Volkova, 1990 SPECIES
-=======
+# Vogtlandia petropolitana (German in German & Timofeev, 1974) Volkova, 1990 SPECIES
 
 #### Status
 ACCEPTED

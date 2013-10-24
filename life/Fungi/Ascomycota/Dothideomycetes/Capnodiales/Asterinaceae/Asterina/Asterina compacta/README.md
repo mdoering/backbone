@@ -1,5 +1,4 @@
-Asterina compacta Lév. SPECIES
-=======
+# Asterina compacta Lév. SPECIES
 
 #### Status
 ACCEPTED

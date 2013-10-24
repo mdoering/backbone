@@ -1,5 +1,4 @@
-Torula sporodesmioides Ellis & Everh. SPECIES
-=======
+# Torula sporodesmioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

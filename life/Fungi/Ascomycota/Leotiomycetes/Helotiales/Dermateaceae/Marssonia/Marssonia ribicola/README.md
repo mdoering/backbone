@@ -1,5 +1,4 @@
-Marssonia ribicola Ellis & Everh. SPECIES
-=======
+# Marssonia ribicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia rimicola P. Karst. SPECIES
-=======
+# Mollisia rimicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

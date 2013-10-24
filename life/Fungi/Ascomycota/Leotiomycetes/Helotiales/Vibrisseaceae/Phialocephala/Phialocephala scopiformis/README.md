@@ -1,5 +1,4 @@
-Phialocephala scopiformis Kowalski & Kehr, 1995 SPECIES
-=======
+# Phialocephala scopiformis Kowalski & Kehr, 1995 SPECIES
 
 #### Status
 ACCEPTED

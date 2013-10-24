@@ -1,5 +1,4 @@
-Bahugada K.A. Reddy & V. Rao GENUS
-=======
+# Bahugada K.A. Reddy & V. Rao GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia jamaicensis Imshaug SPECIES
-=======
+# Buellia jamaicensis Imshaug SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedalea violacea Lév. SPECIES
-=======
+# Daedalea violacea Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta alnicola SPECIES
-=======
+# Gyalecta alnicola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysibe poterii Wallr. SPECIES
-=======
+# Erysibe poterii Wallr. SPECIES
 
 #### Status
 ACCEPTED

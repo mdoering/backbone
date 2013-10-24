@@ -1,5 +1,4 @@
-Hypoxylon caelatum (Fr.) Ces. SPECIES
-=======
+# Hypoxylon caelatum (Fr.) Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleiostomellina pernambucensis Bat., J.L. Bezerra & Cavalc., 1964 SPECIES
-=======
+# Pleiostomellina pernambucensis Bat., J.L. Bezerra & Cavalc., 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya vacuolifera Skuja SPECIES
-=======
+# Lyngbya vacuolifera Skuja SPECIES
 
 #### Status
 ACCEPTED

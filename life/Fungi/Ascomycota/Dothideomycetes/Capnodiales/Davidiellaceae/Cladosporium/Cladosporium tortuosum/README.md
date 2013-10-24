@@ -1,5 +1,4 @@
-Cladosporium tortuosum Fr. SPECIES
-=======
+# Cladosporium tortuosum Fr. SPECIES
 
 #### Status
 ACCEPTED

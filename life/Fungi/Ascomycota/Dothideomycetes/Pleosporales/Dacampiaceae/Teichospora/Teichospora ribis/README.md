@@ -1,5 +1,4 @@
-Teichospora ribis M.E. Barr SPECIES
-=======
+# Teichospora ribis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

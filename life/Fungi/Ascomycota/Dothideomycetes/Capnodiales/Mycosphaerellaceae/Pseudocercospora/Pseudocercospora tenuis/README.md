@@ -1,5 +1,4 @@
-Pseudocercospora tenuis (Peck) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora tenuis (Peck) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

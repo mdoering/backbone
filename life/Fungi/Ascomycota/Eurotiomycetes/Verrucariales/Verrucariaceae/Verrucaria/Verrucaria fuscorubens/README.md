@@ -1,5 +1,4 @@
-Verrucaria fuscorubens (B. de Lesd.) Zschacke SPECIES
-=======
+# Verrucaria fuscorubens (B. de Lesd.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

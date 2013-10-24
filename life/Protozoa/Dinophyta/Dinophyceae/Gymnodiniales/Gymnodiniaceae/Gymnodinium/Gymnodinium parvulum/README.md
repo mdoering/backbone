@@ -1,5 +1,4 @@
-Gymnodinium parvulum J. Larsen, 1994 SPECIES
-=======
+# Gymnodinium parvulum J. Larsen, 1994 SPECIES
 
 #### Status
 ACCEPTED

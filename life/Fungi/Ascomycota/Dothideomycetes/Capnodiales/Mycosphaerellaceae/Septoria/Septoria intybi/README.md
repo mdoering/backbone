@@ -1,5 +1,4 @@
-Septoria intybi Pass. SPECIES
-=======
+# Septoria intybi Pass. SPECIES
 
 #### Status
 ACCEPTED

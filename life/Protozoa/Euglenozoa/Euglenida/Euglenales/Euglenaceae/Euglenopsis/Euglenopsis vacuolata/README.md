@@ -1,5 +1,4 @@
-Euglenopsis vacuolata (Skuja) Popova SPECIES
-=======
+# Euglenopsis vacuolata (Skuja) Popova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces tingitanus Henn. SPECIES
-=======
+# Uromyces tingitanus Henn. SPECIES
 
 #### Status
 ACCEPTED

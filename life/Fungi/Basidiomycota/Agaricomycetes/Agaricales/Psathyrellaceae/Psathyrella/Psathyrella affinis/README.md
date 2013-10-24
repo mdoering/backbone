@@ -1,5 +1,4 @@
-Psathyrella affinis A.H. Sm. SPECIES
-=======
+# Psathyrella affinis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus pseudocarpini J. Blum SPECIES
-=======
+# Boletus pseudocarpini J. Blum SPECIES
 
 #### Status
 ACCEPTED

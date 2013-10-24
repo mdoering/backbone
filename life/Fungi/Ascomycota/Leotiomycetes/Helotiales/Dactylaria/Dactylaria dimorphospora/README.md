@@ -1,5 +1,4 @@
-Dactylaria dimorphospora Veenb.-Rijks, 1973 SPECIES
-=======
+# Dactylaria dimorphospora Veenb.-Rijks, 1973 SPECIES
 
 #### Status
 ACCEPTED

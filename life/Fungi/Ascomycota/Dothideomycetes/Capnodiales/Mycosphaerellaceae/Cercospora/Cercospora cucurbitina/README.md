@@ -1,5 +1,4 @@
-Cercospora cucurbitina Speg. SPECIES
-=======
+# Cercospora cucurbitina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerula distantifolia Murrill SPECIES
-=======
+# Galerula distantifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora viridis (Mont.) SPECIES
-=======
+# Lecanora viridis (Mont.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis nymphaeae (Maire) SPECIES
-=======
+# Pestalotiopsis nymphaeae (Maire) SPECIES
 
 #### Status
 ACCEPTED

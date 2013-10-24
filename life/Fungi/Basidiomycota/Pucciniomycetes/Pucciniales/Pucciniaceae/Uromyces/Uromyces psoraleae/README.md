@@ -1,5 +1,4 @@
-Uromyces psoraleae Peck SPECIES
-=======
+# Uromyces psoraleae Peck SPECIES
 
 #### Status
 ACCEPTED

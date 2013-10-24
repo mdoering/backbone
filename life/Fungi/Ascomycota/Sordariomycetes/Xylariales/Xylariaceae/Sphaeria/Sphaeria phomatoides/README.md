@@ -1,5 +1,4 @@
-Sphaeria phomatoides Mont. SPECIES
-=======
+# Sphaeria phomatoides Mont. SPECIES
 
 #### Status
 ACCEPTED

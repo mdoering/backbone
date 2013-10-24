@@ -1,17 +1,16 @@
-Zygowilliopsis californica var. dimennae (Wick.) E.S. Naumova, Gazdiev & G.I. Naumov, 2006 VARIETY
-=======
+# Barnettozyma californica (Lodder) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 8(6): 948 (2008)
 
 #### Original name
-null
+Zygohansenula californica Lodder, 1932
 
 ### Remarks
 null

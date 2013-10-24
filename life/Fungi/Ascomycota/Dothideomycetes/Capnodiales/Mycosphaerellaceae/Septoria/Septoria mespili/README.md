@@ -1,5 +1,4 @@
-Septoria mespili Sacc. SPECIES
-=======
+# Septoria mespili Sacc. SPECIES
 
 #### Status
 ACCEPTED

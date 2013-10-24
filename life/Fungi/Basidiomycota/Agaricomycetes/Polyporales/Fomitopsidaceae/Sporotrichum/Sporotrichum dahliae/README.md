@@ -1,5 +1,4 @@
-Sporotrichum dahliae Thüm. SPECIES
-=======
+# Sporotrichum dahliae Thüm. SPECIES
 
 #### Status
 ACCEPTED

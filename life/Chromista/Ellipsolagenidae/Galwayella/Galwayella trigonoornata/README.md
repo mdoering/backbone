@@ -1,5 +1,4 @@
-Galwayella trigonoornata (Brady, 1881) SPECIES
-=======
+# Galwayella trigonoornata (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

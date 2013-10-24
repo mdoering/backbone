@@ -1,5 +1,4 @@
-Cyclopeltella Petr. GENUS
-=======
+# Cyclopeltella Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aecidium nelsoni (Arthur) Farl. SPECIES
-=======
+# Gymnosporangium nelsonii Arthur, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 28: 665 (1901)
 
 #### Original name
 Gymnosporangium nelsonii Arthur, 1901

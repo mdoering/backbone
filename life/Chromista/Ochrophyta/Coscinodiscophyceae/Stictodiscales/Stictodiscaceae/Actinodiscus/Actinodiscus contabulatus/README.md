@@ -1,5 +1,4 @@
-Actinodiscus contabulatus (A. Schmidt) R. Ross & P.A. Sims SPECIES
-=======
+# Actinodiscus contabulatus (A. Schmidt) R. Ross & P.A. Sims SPECIES
 
 #### Status
 ACCEPTED

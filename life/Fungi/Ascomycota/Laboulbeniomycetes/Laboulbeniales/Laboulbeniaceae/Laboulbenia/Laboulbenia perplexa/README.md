@@ -1,5 +1,4 @@
-Laboulbenia perplexa Thaxt. SPECIES
-=======
+# Laboulbenia perplexa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

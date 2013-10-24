@@ -1,5 +1,4 @@
-Psathyrella stelzeri Raithelh. SPECIES
-=======
+# Psathyrella stelzeri Raithelh. SPECIES
 
 #### Status
 ACCEPTED

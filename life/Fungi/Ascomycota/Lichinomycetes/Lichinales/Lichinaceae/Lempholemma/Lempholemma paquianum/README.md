@@ -1,5 +1,4 @@
-Lempholemma paquianum (Harm.) Zahlbr. SPECIES
-=======
+# Lempholemma paquianum (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

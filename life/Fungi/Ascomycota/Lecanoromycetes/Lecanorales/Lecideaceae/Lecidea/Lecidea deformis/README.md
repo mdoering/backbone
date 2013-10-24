@@ -1,5 +1,4 @@
-Lecidea deformis Fée SPECIES
-=======
+# Lecidea deformis Fée SPECIES
 
 #### Status
 ACCEPTED

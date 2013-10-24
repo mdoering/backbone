@@ -1,5 +1,4 @@
-Confertopeltis Tehon GENUS
-=======
+# Confertopeltis Tehon GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza laetissima P. Karst. SPECIES
-=======
+# Peziza laetissima P. Karst. SPECIES
 
 #### Status
 ACCEPTED

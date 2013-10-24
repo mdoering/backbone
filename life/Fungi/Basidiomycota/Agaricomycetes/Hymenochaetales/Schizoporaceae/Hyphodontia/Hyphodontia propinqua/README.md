@@ -1,5 +1,4 @@
-Hyphodontia propinqua Hjortstam, 1983 SPECIES
-=======
+# Hyphodontia propinqua Hjortstam, 1983 SPECIES
 
 #### Status
 ACCEPTED

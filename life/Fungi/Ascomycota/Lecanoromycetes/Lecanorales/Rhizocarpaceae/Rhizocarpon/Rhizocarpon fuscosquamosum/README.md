@@ -1,5 +1,4 @@
-Rhizocarpon fuscosquamosum Räsänen SPECIES
-=======
+# Rhizocarpon fuscosquamosum Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Xyloma cicatrix Wallr., 1833 SPECIES
-=======
+# Cryptomyces maximus (Fr.) Rehm, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. crypt. Germ. (Nürnberg) 2: 412 (1833)
+Rabenh. Krypt. -Fl. (Leipzig) 1(3): 107 (1888)
 
 #### Original name
-Xyloma cicatrix Wallr., 1833
+Rhytisma maximum Fr., 1823
 
 ### Remarks
 null

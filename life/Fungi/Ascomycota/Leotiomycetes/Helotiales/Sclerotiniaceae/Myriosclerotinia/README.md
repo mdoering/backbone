@@ -1,5 +1,4 @@
-Myriosclerotinia N.F. Buchwald, 1947 GENUS
-=======
+# Myriosclerotinia N.F. Buchwald, 1947 GENUS
 
 #### Status
 ACCEPTED

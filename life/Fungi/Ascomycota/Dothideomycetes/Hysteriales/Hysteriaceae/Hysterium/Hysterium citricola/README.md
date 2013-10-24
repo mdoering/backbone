@@ -1,5 +1,4 @@
-Hysterium citricola Tilak & R. Rao SPECIES
-=======
+# Hysterium citricola Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

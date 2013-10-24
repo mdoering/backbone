@@ -1,17 +1,16 @@
-Kellermania yuccaegena Ellis & Everh. SPECIES
-=======
+# Kellermania yuccigena Ellis & Everh., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Mycol. 1(12): 154 (1885)
 
 #### Original name
-Kellermania yuccaegena Ellis & Everh.
+Kellermania yuccigena Ellis & Everh., 1885
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Decrouezina Boukhary, 1994 GENUS
-=======
+# Decrouezina Boukhary, 1994 GENUS
 
 #### Status
 ACCEPTED

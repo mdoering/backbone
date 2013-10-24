@@ -1,5 +1,4 @@
-Pseudoklossia pelseneeri (Léger, 1897) Léger & Doboscq, 1915 SPECIES
-=======
+# Pseudoklossia pelseneeri (Léger, 1897) Léger & Doboscq, 1915 SPECIES
 
 #### Status
 ACCEPTED

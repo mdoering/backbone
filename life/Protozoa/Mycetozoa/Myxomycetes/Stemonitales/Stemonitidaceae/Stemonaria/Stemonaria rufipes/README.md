@@ -1,5 +1,4 @@
-Stemonaria rufipes Nann.-Bremek. & Y. Yamam., 1984 SPECIES
-=======
+# Stemonaria rufipes Nann.-Bremek. & Y. Yamam., 1984 SPECIES
 
 #### Status
 ACCEPTED

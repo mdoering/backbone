@@ -1,5 +1,4 @@
-Phyllosticta cyanococci Dearn. & House SPECIES
-=======
+# Phyllosticta cyanococci Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

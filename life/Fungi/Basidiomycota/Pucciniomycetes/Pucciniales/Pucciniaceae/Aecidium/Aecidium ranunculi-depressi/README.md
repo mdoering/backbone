@@ -1,5 +1,4 @@
-Aecidium ranunculi-depressi G. Cunn., 1930 SPECIES
-=======
+# Aecidium ranunculi-depressi G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

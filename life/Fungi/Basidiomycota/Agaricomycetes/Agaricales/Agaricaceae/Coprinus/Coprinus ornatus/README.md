@@ -1,5 +1,4 @@
-Coprinus ornatus Copel. SPECIES
-=======
+# Coprinus ornatus Copel. SPECIES
 
 #### Status
 ACCEPTED

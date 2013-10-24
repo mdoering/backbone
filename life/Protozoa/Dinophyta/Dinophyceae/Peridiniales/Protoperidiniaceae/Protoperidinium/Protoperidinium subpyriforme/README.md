@@ -1,5 +1,4 @@
-Protoperidinium subpyriforme (Dangeard) Balech SPECIES
-=======
+# Protoperidinium subpyriforme (Dangeard) Balech SPECIES
 
 #### Status
 ACCEPTED

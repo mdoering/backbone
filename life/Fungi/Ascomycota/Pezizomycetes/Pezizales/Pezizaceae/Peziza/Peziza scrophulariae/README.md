@@ -1,5 +1,4 @@
-Peziza scrophulariae Lasch SPECIES
-=======
+# Peziza scrophulariae Lasch SPECIES
 
 #### Status
 ACCEPTED

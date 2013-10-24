@@ -1,5 +1,4 @@
-Clavaria solida Gray SPECIES
-=======
+# Clavaria solida Gray SPECIES
 
 #### Status
 ACCEPTED

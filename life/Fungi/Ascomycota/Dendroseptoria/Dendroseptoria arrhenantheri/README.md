@@ -1,17 +1,16 @@
-Dendroseptoria arrhanatheri Alcalde SPECIES
-=======
+# Dendroseptoria arrhenantheri Alcalde, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+An. Jard. bot. Madr. 7: 489 (1948)
 
 #### Original name
-Dendroseptoria arrhanatheri Alcalde
+Dendroseptoria arrhenantheri Alcalde, 1948
 
 ### Remarks
 null

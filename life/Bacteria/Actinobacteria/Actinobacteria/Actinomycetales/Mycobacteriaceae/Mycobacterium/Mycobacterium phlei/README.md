@@ -1,5 +1,4 @@
-Mycobacterium phlei Lehmann and Neumann, 1899 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium phlei Lehmann and Neumann, 1899 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

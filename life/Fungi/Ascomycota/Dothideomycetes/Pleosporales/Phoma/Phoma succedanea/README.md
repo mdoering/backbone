@@ -1,5 +1,4 @@
-Phoma succedanea Pass. SPECIES
-=======
+# Phoma succedanea Pass. SPECIES
 
 #### Status
 ACCEPTED

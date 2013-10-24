@@ -1,5 +1,4 @@
-Neocoleroa gallica (E. Müll.) M.E. Barr SPECIES
-=======
+# Neocoleroa gallica (E. Müll.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

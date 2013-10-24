@@ -1,17 +1,16 @@
-Neopatella Sacc. GENUS
-=======
+# Selenophoma Maire, 1907 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Sydow & Sydow, Annls mycol. 6(6): 530 (1908)
+null
 
 #### Original name
-Neopatella Sacc.
+null
 
 ### Remarks
 null

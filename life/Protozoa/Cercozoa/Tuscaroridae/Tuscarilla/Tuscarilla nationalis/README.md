@@ -1,5 +1,4 @@
-Tuscarilla nationalis Borgert SPECIES
-=======
+# Tuscarilla nationalis Borgert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bodo parvulus Griessmann SPECIES
-=======
+# Caecitellus parvulus (Griessmann) D.J. Patterson, K. Nygaard, G. Steinberg & Turley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

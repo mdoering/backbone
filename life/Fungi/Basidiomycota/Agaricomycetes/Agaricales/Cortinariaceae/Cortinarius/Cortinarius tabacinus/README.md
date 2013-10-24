@@ -1,5 +1,4 @@
-Cortinarius tabacinus P.D. Orton, 1984 SPECIES
-=======
+# Cortinarius tabacinus P.D. Orton, 1984 SPECIES
 
 #### Status
 ACCEPTED

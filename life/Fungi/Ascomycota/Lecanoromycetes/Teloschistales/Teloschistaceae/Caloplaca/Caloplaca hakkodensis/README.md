@@ -1,5 +1,4 @@
-Caloplaca hakkodensis (Räsänen) T. Okamoto SPECIES
-=======
+# Caloplaca hakkodensis (Räsänen) T. Okamoto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma incomptum Roberge ex Desm. SPECIES
-=======
+# Asteroma incomptum Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

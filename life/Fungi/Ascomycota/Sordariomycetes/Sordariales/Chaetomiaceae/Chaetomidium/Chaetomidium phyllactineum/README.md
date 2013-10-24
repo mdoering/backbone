@@ -1,5 +1,4 @@
-Chaetomidium phyllactineum Bainier SPECIES
-=======
+# Chaetomidium phyllactineum Bainier SPECIES
 
 #### Status
 ACCEPTED

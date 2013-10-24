@@ -1,5 +1,4 @@
-Laterostomella deKlasz & Rerat, 1962 GENUS
-=======
+# Laterostomella deKlasz & Rerat, 1962 GENUS
 
 #### Status
 ACCEPTED

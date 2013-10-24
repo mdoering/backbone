@@ -1,5 +1,4 @@
-Phoma magnifructa House SPECIES
-=======
+# Phoma magnifructa House SPECIES
 
 #### Status
 ACCEPTED

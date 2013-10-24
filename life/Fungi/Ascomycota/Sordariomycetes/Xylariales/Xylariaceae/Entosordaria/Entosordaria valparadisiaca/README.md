@@ -1,5 +1,4 @@
-Entosordaria valparadisiaca Speg. SPECIES
-=======
+# Entosordaria valparadisiaca Speg. SPECIES
 
 #### Status
 ACCEPTED

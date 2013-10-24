@@ -1,5 +1,4 @@
-Ustilago utahensis (Zundel) Vánky SPECIES
-=======
+# Ustilago utahensis (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

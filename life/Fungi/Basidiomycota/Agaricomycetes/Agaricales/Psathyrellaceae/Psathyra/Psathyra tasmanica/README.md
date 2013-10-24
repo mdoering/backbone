@@ -1,5 +1,4 @@
-Psathyra tasmanica Massee & Rodway SPECIES
-=======
+# Psathyra tasmanica Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

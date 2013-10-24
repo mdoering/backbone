@@ -1,5 +1,4 @@
-Ophryoglena caeca Stein SPECIES
-=======
+# Ophryoglena caeca Stein SPECIES
 
 #### Status
 ACCEPTED

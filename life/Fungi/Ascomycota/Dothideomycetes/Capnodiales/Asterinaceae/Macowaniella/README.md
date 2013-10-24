@@ -1,5 +1,4 @@
-Macowaniella Doidge GENUS
-=======
+# Macowaniella Doidge GENUS
 
 #### Status
 ACCEPTED

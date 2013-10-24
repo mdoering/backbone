@@ -1,5 +1,4 @@
-Diaporthe tuberculosa (Ellis) Sacc. SPECIES
-=======
+# Diaporthe tuberculosa (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

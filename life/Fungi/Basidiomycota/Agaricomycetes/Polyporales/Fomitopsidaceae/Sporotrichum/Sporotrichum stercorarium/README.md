@@ -1,5 +1,4 @@
-Sporotrichum stercorarium Ehrenb. SPECIES
-=======
+# Sporotrichum stercorarium Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

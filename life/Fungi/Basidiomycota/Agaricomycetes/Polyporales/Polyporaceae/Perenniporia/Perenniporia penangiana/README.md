@@ -1,5 +1,4 @@
-Perenniporia penangiana Corner, 1989 SPECIES
-=======
+# Perenniporia penangiana Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

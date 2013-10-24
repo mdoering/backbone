@@ -1,5 +1,4 @@
-Rhinotrichum niveum Cooke & Massee, 1887 SPECIES
-=======
+# Rhinotrichum niveum Cooke & Massee, 1887 SPECIES
 
 #### Status
 ACCEPTED

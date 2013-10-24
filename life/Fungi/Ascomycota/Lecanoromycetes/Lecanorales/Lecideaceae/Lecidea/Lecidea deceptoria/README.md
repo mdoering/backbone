@@ -1,5 +1,4 @@
-Lecidea deceptoria Nyl. SPECIES
-=======
+# Lecidea deceptoria Nyl. SPECIES
 
 #### Status
 ACCEPTED

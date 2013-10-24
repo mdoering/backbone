@@ -1,5 +1,4 @@
-Laboulbenia japonica Thaxt. SPECIES
-=======
+# Laboulbenia japonica Thaxt. SPECIES
 
 #### Status
 ACCEPTED

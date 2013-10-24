@@ -1,5 +1,4 @@
-Lecidella micropsis (A. Massal.) Körb. SPECIES
-=======
+# Lecidella micropsis (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED

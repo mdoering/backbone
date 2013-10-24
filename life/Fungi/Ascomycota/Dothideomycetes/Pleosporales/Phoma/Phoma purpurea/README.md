@@ -1,5 +1,4 @@
-Phoma purpurea Cooke & Massee SPECIES
-=======
+# Phoma purpurea Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

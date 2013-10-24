@@ -1,5 +1,4 @@
-Meliola urariae Hosag. SPECIES
-=======
+# Meliola urariae Hosag. SPECIES
 
 #### Status
 ACCEPTED

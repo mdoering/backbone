@@ -1,14 +1,13 @@
-Phoma piceana P. Karst. SPECIES
-=======
+# Sclerotiopsis piceana (P. Karst.) Died., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg (Leipzig) 9: 282 (1912)
 
 #### Original name
 Phoma piceana P. Karst.

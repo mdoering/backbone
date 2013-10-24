@@ -1,5 +1,4 @@
-Dothidea decolorans Fr., 1828 SPECIES
-=======
+# Dothidea decolorans Fr., 1828 SPECIES
 
 #### Status
 ACCEPTED

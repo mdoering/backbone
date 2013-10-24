@@ -1,8 +1,7 @@
-Adenocystis californica Ruprecht SPECIES
-=======
+# Coilodesme californica (Ruprecht) Kjellman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

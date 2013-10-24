@@ -1,14 +1,13 @@
-Topeliopsis rugosa Kantvilas & Vezda SPECIES
-=======
+# Melanotopelia rugosa (Kantvilas & Vezda) Lumbsch & Mangold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenologist 32(4): 351 (2000)
+Lichenologist 40: 44 (2008)
 
 #### Original name
 Topeliopsis rugosa Kantvilas & Vezda

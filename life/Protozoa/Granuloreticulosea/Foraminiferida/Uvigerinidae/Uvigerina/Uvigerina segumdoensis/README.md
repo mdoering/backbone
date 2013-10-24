@@ -1,5 +1,4 @@
-Uvigerina segumdoensis Cushman & Galliher SPECIES
-=======
+# Uvigerina segumdoensis Cushman & Galliher SPECIES
 
 #### Status
 ACCEPTED

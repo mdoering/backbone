@@ -1,5 +1,4 @@
-Lecidea baldensis Pollin. SPECIES
-=======
+# Lecidea baldensis Pollin. SPECIES
 
 #### Status
 ACCEPTED

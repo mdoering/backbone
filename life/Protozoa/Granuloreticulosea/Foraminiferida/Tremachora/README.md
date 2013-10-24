@@ -1,5 +1,4 @@
-Tremachora Lipps & Lipps, 1967 GENUS
-=======
+# Tremachora Lipps & Lipps, 1967 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia applanata Zahlbr. SPECIES
-=======
+# Heppia applanata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

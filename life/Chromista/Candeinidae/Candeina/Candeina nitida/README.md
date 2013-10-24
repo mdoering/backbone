@@ -1,5 +1,4 @@
-Candeina nitida var. triloba Cushman, 1921 VARIETY
-=======
+# Candeina nitida d’Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

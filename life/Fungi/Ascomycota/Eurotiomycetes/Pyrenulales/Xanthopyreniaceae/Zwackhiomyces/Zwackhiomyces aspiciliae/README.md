@@ -1,5 +1,4 @@
-Zwackhiomyces aspiciliae Halici & Candan SPECIES
-=======
+# Zwackhiomyces aspiciliae Halici & Candan SPECIES
 
 #### Status
 ACCEPTED

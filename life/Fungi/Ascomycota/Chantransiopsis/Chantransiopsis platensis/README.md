@@ -1,5 +1,4 @@
-Chantransiopsis platensis Speg. SPECIES
-=======
+# Chantransiopsis platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

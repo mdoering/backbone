@@ -1,5 +1,4 @@
-Rinodina parasitica H. Mayrhofer & Poelt SPECIES
-=======
+# Rinodina parasitica H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED

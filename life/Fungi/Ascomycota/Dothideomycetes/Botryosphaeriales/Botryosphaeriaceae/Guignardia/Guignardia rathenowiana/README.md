@@ -1,5 +1,4 @@
-Guignardia rathenowiana Kirschst. SPECIES
-=======
+# Guignardia rathenowiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

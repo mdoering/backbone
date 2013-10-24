@@ -1,5 +1,4 @@
-Hygrophorus californicus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Hygrophorus californicus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

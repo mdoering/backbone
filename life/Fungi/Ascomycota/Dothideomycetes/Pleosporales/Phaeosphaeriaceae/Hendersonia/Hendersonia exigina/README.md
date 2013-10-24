@@ -1,5 +1,4 @@
-Hendersonia exigina Cooke SPECIES
-=======
+# Hendersonia exigina Cooke SPECIES
 
 #### Status
 ACCEPTED

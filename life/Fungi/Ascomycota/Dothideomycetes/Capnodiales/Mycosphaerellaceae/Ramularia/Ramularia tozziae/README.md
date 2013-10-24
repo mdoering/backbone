@@ -1,5 +1,4 @@
-Ramularia tozziae J. Lindau SPECIES
-=======
+# Ramularia tozziae J. Lindau SPECIES
 
 #### Status
 ACCEPTED

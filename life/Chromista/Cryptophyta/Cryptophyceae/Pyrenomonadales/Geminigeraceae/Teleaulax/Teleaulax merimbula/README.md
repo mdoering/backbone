@@ -1,5 +1,4 @@
-Teleaulax merimbula D. R. A. Hill SPECIES
-=======
+# Teleaulax merimbula D. R. A. Hill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoscypha calycina SPECIES
-=======
+# Trichoscypha calycina SPECIES
 
 #### Status
 ACCEPTED

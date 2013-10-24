@@ -1,5 +1,4 @@
-Intranstylum asselicola SPECIES
-=======
+# Intranstylum asselicola SPECIES
 
 #### Status
 ACCEPTED

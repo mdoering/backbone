@@ -1,5 +1,4 @@
-Hastigerinopsis Saito & Thompson in Saito, Thompson & Breger, 1976 GENUS
-=======
+# Hastigerinopsis Saito & Thompson in Saito, Thompson & Breger, 1976 GENUS
 
 #### Status
 ACCEPTED

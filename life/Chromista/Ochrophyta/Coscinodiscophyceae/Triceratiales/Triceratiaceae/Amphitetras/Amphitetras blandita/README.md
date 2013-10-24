@@ -1,5 +1,4 @@
-Amphitetras blandita (Greville) De Toni SPECIES
-=======
+# Amphitetras blandita (Greville) De Toni SPECIES
 
 #### Status
 ACCEPTED

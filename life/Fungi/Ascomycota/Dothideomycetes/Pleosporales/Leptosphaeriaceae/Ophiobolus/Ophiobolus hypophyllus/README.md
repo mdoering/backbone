@@ -1,5 +1,4 @@
-Ophiobolus hypophyllus Rehm SPECIES
-=======
+# Ophiobolus hypophyllus Rehm SPECIES
 
 #### Status
 ACCEPTED

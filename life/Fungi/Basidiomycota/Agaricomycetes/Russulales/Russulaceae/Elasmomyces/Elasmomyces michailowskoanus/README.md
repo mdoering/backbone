@@ -1,8 +1,7 @@
-Elasmomyces michailowskjanus (Bucholtz) Sacc. & D. Sacc. SPECIES
-=======
+# Elasmomyces michailowskoanus (Bucholtz) Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

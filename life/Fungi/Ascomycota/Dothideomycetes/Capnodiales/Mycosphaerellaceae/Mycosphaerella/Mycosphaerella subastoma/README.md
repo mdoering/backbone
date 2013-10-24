@@ -1,5 +1,4 @@
-Mycosphaerella subastoma F. Stevens & Dalbey SPECIES
-=======
+# Mycosphaerella subastoma F. Stevens & Dalbey SPECIES
 
 #### Status
 ACCEPTED

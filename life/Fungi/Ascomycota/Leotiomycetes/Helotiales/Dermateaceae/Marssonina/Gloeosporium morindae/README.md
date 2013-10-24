@@ -1,5 +1,4 @@
-Gloeosporium morindae Thirum. SPECIES
-=======
+# Gloeosporium morindae Thirum. SPECIES
 
 #### Status
 ACCEPTED

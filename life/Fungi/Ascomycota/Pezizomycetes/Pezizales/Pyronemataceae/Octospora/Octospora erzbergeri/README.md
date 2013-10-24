@@ -1,5 +1,4 @@
-Octospora erzbergeri Benkert SPECIES
-=======
+# Octospora erzbergeri Benkert SPECIES
 
 #### Status
 ACCEPTED

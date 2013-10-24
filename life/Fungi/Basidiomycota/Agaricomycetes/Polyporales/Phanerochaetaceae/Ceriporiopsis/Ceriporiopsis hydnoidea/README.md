@@ -1,5 +1,4 @@
-Ceriporiopsis hydnoidea Ryvarden & Iturr., 2004 SPECIES
-=======
+# Ceriporiopsis hydnoidea Ryvarden & Iturr., 2004 SPECIES
 
 #### Status
 ACCEPTED

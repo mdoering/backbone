@@ -1,5 +1,4 @@
-Scopulariopsis musae Matsush. SPECIES
-=======
+# Scopulariopsis musae Matsush. SPECIES
 
 #### Status
 ACCEPTED

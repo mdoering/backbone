@@ -1,5 +1,4 @@
-Melampsora salicis-cupularis Y.C. Wang SPECIES
-=======
+# Melampsora salicis-cupularis Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

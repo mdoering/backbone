@@ -1,5 +1,4 @@
-Cyclomyces lamellatus Y.C. Dai & Niemelä SPECIES
-=======
+# Cyclomyces lamellatus Y.C. Dai & Niemelä SPECIES
 
 #### Status
 ACCEPTED

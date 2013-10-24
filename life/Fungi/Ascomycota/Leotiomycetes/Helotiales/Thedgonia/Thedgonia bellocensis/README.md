@@ -1,14 +1,13 @@
-Septocylindrium bellocense C. Massal. & Sacc., 1908 SPECIES
-=======
+# Thedgonia bellocensis (C. Massal. & Sacc.) U. Braun, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 6(6): 558 (1908)
+Nova Hedwigia 54(3-4): 471 (1992)
 
 #### Original name
 Septocylindrium bellocense C. Massal. & Sacc., 1908

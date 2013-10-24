@@ -1,5 +1,4 @@
-Cordyceps parvula Mains SPECIES
-=======
+# Cordyceps parvula Mains SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia acroptile P. Syd. & Syd. SPECIES
-=======
+# Puccinia acroptile P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

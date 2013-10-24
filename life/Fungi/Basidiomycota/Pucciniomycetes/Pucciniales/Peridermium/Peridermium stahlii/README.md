@@ -1,5 +1,4 @@
-Peridermium stahlii Kleb. SPECIES
-=======
+# Peridermium stahlii Kleb. SPECIES
 
 #### Status
 ACCEPTED

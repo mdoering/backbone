@@ -1,5 +1,4 @@
-Meliola prunicola Speg. SPECIES
-=======
+# Meliola prunicola Speg. SPECIES
 
 #### Status
 ACCEPTED

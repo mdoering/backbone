@@ -1,5 +1,4 @@
-Coniosporium palmicola Tracy & Earle SPECIES
-=======
+# Coniosporium palmicola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

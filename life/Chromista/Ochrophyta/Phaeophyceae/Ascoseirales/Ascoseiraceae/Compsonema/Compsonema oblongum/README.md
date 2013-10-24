@@ -1,5 +1,4 @@
-Compsonema oblongum Noda SPECIES
-=======
+# Compsonema oblongum Noda SPECIES
 
 #### Status
 ACCEPTED

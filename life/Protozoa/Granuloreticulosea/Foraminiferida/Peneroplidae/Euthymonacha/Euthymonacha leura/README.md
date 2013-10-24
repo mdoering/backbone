@@ -1,5 +1,4 @@
-Euthymonacha leura Loeblich & Tappan, 1994 SPECIES
-=======
+# Euthymonacha leura Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

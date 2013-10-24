@@ -1,5 +1,4 @@
-Irenina sanguinea (Ellis & Everh.) F. Stevens SPECIES
-=======
+# Irenina sanguinea (Ellis & Everh.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

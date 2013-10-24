@@ -1,17 +1,16 @@
-Fabreola Kuntze GENUS
-=======
+# Urosporella G.F. Atk. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 851 (1891)
+Bulletin of Cornell University, Science 3: 9 (1897)
 
 #### Original name
-Fabreola Kuntze
+Urosporella G.F. Atk.
 
 ### Remarks
 null

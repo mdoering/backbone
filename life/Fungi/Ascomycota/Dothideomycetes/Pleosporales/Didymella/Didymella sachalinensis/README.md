@@ -1,5 +1,4 @@
-Didymella sachalinensis Sacc. SPECIES
-=======
+# Didymella sachalinensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

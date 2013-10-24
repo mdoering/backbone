@@ -1,5 +1,4 @@
-Physisporinus carneopallens (Berk.) Murrill SPECIES
-=======
+# Physisporinus carneopallens (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

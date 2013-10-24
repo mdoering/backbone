@@ -1,5 +1,4 @@
-Agaricus receptibilis Britzelm. SPECIES
-=======
+# Agaricus receptibilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

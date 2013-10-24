@@ -1,5 +1,4 @@
-Gyalecta berggrenii Hellb. SPECIES
-=======
+# Gyalecta berggrenii Hellb. SPECIES
 
 #### Status
 ACCEPTED

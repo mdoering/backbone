@@ -1,5 +1,4 @@
-Cucurbitaria pakistanica Petr., 1954 SPECIES
-=======
+# Cucurbitaria pakistanica Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

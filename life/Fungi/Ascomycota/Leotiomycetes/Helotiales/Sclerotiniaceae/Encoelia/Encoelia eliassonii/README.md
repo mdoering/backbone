@@ -1,5 +1,4 @@
-Encoelia eliassonii Petr., 1957 SPECIES
-=======
+# Encoelia eliassonii Petr., 1957 SPECIES
 
 #### Status
 ACCEPTED

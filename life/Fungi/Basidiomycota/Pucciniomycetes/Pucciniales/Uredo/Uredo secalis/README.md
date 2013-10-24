@@ -1,5 +1,4 @@
-Uredo secalis Corda SPECIES
-=======
+# Uredo secalis Corda SPECIES
 
 #### Status
 ACCEPTED

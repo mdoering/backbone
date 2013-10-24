@@ -1,5 +1,4 @@
-Dichomyces eulyssi Thaxt. SPECIES
-=======
+# Dichomyces eulyssi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

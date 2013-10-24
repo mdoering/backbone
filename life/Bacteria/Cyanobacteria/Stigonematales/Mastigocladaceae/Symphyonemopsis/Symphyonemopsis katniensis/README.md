@@ -1,5 +1,4 @@
-Symphyonemopsis katniensis SPECIES
-=======
+# Symphyonemopsis katniensis SPECIES
 
 #### Status
 ACCEPTED

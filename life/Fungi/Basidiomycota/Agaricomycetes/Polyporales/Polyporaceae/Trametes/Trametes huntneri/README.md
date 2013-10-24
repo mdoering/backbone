@@ -1,5 +1,4 @@
-Trametes huntneri (Lloyd) Ryvarden SPECIES
-=======
+# Trametes huntneri (Lloyd) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

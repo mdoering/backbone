@@ -1,5 +1,4 @@
-Spiropes caaguazuense (Speg.) M.B. Ellis SPECIES
-=======
+# Spiropes caaguazuense (Speg.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

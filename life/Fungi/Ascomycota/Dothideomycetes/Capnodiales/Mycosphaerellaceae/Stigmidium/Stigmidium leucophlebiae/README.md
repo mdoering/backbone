@@ -1,5 +1,4 @@
-Stigmidium leucophlebiae Cl. Roux & Triebel, 1994 SPECIES
-=======
+# Stigmidium leucophlebiae Cl. Roux & Triebel, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myropyxis caricicola Ces. ex Rabenh., 1851 SPECIES
-=======
+# Myropyxis caricicola Ces. ex Rabenh., 1851 SPECIES
 
 #### Status
 ACCEPTED

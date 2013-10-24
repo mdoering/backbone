@@ -1,5 +1,4 @@
-Zoothamnium selli SPECIES
-=======
+# Zoothamnium selli SPECIES
 
 #### Status
 ACCEPTED

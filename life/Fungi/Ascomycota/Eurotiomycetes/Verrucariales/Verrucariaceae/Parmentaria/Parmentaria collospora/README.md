@@ -1,5 +1,4 @@
-Parmentaria collospora (Vain.) Makhija & Patw. SPECIES
-=======
+# Parmentaria collospora (Vain.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

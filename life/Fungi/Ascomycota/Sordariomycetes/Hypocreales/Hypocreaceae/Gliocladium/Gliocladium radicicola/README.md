@@ -1,5 +1,4 @@
-Gliocladium radicicola Pidopl. SPECIES
-=======
+# Gliocladium radicicola Pidopl. SPECIES
 
 #### Status
 ACCEPTED

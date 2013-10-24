@@ -1,5 +1,4 @@
-Gangliostilbe indica Subram. & Vittal, 1976 SPECIES
-=======
+# Gangliostilbe indica Subram. & Vittal, 1976 SPECIES
 
 #### Status
 ACCEPTED

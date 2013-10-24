@@ -1,5 +1,4 @@
-Lecania ferganae Oxner SPECIES
-=======
+# Lecania ferganae Oxner SPECIES
 
 #### Status
 ACCEPTED

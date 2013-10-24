@@ -1,5 +1,4 @@
-Cortinarius subferrugineus (Batsch) Fr. SPECIES
-=======
+# Cortinarius subferrugineus (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

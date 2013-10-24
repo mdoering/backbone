@@ -1,5 +1,4 @@
-Craterellus lateritius Berk. SPECIES
-=======
+# Craterellus lateritius Berk. SPECIES
 
 #### Status
 ACCEPTED

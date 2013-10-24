@@ -1,5 +1,4 @@
-Lecidea luteorufula Tuck. SPECIES
-=======
+# Lecidea luteorufula Tuck. SPECIES
 
 #### Status
 ACCEPTED

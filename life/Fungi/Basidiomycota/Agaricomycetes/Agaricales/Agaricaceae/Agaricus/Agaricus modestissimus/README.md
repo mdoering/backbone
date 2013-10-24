@@ -1,5 +1,4 @@
-Agaricus modestissimus Britzelm. SPECIES
-=======
+# Agaricus modestissimus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

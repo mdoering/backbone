@@ -1,5 +1,4 @@
-Aulographum pandani Cooke SPECIES
-=======
+# Aulographum pandani Cooke SPECIES
 
 #### Status
 ACCEPTED

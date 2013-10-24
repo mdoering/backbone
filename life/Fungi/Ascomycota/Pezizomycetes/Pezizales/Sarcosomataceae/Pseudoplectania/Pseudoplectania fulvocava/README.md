@@ -1,5 +1,4 @@
-Pseudoplectania fulvocava Allioni {?} & Schwein. SPECIES
-=======
+# Pseudoplectania fulvocava Allioni {?} & Schwein. SPECIES
 
 #### Status
 ACCEPTED

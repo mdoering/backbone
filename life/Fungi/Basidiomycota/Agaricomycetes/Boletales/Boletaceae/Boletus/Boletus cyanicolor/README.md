@@ -1,5 +1,4 @@
-Boletus cyanicolor L. Remy SPECIES
-=======
+# Boletus cyanicolor L. Remy SPECIES
 
 #### Status
 ACCEPTED

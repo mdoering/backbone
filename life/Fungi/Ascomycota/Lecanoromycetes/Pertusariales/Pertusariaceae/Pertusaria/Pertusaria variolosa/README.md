@@ -1,5 +1,4 @@
-Pertusaria variolosa (Kremp.) Vain. SPECIES
-=======
+# Pertusaria variolosa (Kremp.) Vain. SPECIES
 
 #### Status
 ACCEPTED

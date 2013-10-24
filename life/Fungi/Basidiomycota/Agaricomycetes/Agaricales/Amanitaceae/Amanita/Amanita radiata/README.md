@@ -1,5 +1,4 @@
-Amanita radiata D.T. Jenkins SPECIES
-=======
+# Amanita radiata D.T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

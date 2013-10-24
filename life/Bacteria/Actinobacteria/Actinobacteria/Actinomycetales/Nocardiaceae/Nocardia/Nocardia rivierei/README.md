@@ -1,5 +1,4 @@
-Nocardia rivierei Verdun SPECIES
-=======
+# Nocardia rivierei Verdun SPECIES
 
 #### Status
 ACCEPTED

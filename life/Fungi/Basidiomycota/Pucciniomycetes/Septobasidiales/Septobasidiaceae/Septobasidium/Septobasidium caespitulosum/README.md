@@ -1,5 +1,4 @@
-Septobasidium caespitulosum Bres. SPECIES
-=======
+# Septobasidium caespitulosum Bres. SPECIES
 
 #### Status
 ACCEPTED

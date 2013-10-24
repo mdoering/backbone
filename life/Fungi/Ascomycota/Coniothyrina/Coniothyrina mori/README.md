@@ -1,5 +1,4 @@
-Coniothyrina mori Y. Yendo & K. Takase SPECIES
-=======
+# Coniothyrina mori Y. Yendo & K. Takase SPECIES
 
 #### Status
 ACCEPTED

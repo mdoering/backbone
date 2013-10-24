@@ -1,5 +1,4 @@
-Ascochyta piperina Syd. SPECIES
-=======
+# Ascochyta piperina Syd. SPECIES
 
 #### Status
 ACCEPTED

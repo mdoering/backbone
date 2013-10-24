@@ -1,5 +1,4 @@
-Pleomeris piperi (Ricker) Syd. SPECIES
-=======
+# Pleomeris piperi (Ricker) Syd. SPECIES
 
 #### Status
 ACCEPTED

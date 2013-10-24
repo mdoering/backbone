@@ -1,5 +1,4 @@
-Rhizophydium piriforme (Fott) Karling SPECIES
-=======
+# Rhizophydium piriforme (Fott) Karling SPECIES
 
 #### Status
 ACCEPTED

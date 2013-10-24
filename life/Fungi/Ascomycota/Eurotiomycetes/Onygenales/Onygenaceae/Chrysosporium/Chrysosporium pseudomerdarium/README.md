@@ -1,5 +1,4 @@
-Chrysosporium pseudomerdarium Oorschot, 1980 SPECIES
-=======
+# Chrysosporium pseudomerdarium Oorschot, 1980 SPECIES
 
 #### Status
 ACCEPTED

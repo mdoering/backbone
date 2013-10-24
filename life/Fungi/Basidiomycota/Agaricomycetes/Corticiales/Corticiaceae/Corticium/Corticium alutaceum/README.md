@@ -1,17 +1,16 @@
-Corticium alutaceum var. alutaceum VARIETY
-=======
+# Corticium alutaceum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Corticium alutaceum var. alutaceum
+null
 
 ### Remarks
 null

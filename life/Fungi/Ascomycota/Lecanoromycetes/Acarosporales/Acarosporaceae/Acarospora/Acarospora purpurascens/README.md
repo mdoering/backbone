@@ -1,5 +1,4 @@
-Acarospora purpurascens (Nyl.) Arnold SPECIES
-=======
+# Acarospora purpurascens (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

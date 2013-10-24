@@ -1,5 +1,4 @@
-Bovista pallida Velen. SPECIES
-=======
+# Bovista pallida Velen. SPECIES
 
 #### Status
 ACCEPTED

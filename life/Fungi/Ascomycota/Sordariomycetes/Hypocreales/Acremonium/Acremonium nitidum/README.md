@@ -1,5 +1,4 @@
-Acremonium nitidum G. Martin SPECIES
-=======
+# Acremonium nitidum G. Martin SPECIES
 
 #### Status
 ACCEPTED

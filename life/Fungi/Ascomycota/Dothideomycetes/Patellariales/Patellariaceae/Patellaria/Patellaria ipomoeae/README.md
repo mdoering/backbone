@@ -1,5 +1,4 @@
-Patellaria ipomoeae R. Rao SPECIES
-=======
+# Patellaria ipomoeae R. Rao SPECIES
 
 #### Status
 ACCEPTED

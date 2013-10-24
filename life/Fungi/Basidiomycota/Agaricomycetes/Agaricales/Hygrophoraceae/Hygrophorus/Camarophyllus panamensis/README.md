@@ -1,5 +1,4 @@
-Camarophyllus panamensis Lodge & Ovrebo SPECIES
-=======
+# Camarophyllus panamensis Lodge & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesospora van-bosseae Børgesen SPECIES
-=======
+# Mesospora van-bosseae Børgesen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microporus expansus (Desm.) Kuntze, 1898 SPECIES
-=======
+# Donkioporia expansa (Desm.) Kotl. & Pouzar, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 496 (1898)
+Persoonia 7(2): 214 (1973)
 
 #### Original name
 Boletus expansus Desm., 1823

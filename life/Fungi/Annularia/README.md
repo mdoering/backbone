@@ -1,5 +1,4 @@
-Annularia Rafinesque, 1815 GENUS
-=======
+# Annularia Rafinesque, 1815 GENUS
 
 #### Status
 ACCEPTED

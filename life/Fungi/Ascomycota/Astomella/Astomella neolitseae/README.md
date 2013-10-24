@@ -1,5 +1,4 @@
-Astomella neolitseae Thirum., 1947 SPECIES
-=======
+# Astomella neolitseae Thirum., 1947 SPECIES
 
 #### Status
 ACCEPTED

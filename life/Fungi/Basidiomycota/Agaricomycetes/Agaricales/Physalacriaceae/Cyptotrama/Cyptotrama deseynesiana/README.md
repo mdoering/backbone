@@ -1,17 +1,16 @@
-Xerulina deseynesiana Pegler, 1966 SPECIES
-=======
+# Cyptotrama deseynesiana (Pegler) Redhead & Ginns, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 4(2): 120 (1966)
+Can. J. Bot. 58(6): 737 (1980)
 
 #### Original name
-Clitocybe verruculosa De Seynes, 1897
+Xerulina deseynesiana Pegler, 1966
 
 ### Remarks
 null

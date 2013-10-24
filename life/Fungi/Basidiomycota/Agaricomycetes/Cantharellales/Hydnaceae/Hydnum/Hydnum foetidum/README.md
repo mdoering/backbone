@@ -1,5 +1,4 @@
-Hydnum foetidum Velen. SPECIES
-=======
+# Hydnum foetidum Velen. SPECIES
 
 #### Status
 ACCEPTED

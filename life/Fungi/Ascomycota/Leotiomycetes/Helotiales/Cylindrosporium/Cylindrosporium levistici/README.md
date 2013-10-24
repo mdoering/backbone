@@ -1,5 +1,4 @@
-Cylindrosporium levistici J. Schröt. SPECIES
-=======
+# Cylindrosporium levistici J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

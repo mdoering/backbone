@@ -1,5 +1,4 @@
-Mycovellosiella myracrodruonis Inácio & Dianese SPECIES
-=======
+# Mycovellosiella myracrodruonis Inácio & Dianese SPECIES
 
 #### Status
 ACCEPTED

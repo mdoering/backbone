@@ -1,5 +1,4 @@
-Megalospora knightii Sipman SPECIES
-=======
+# Megalospora knightii Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catenella Batista & Peres, 1963 GENUS
-=======
+# Catenella Batista & Peres, 1963 GENUS
 
 #### Status
 ACCEPTED

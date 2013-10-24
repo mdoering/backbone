@@ -1,5 +1,4 @@
-Anisostomula quercus-ilicis (Trav. {?} ) Höhn. SPECIES
-=======
+# Anisostomula quercus-ilicis (Trav. {?} ) Höhn. SPECIES
 
 #### Status
 ACCEPTED

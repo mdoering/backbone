@@ -1,5 +1,4 @@
-Caloplaca tetraphora Zahlbr. SPECIES
-=======
+# Caloplaca tetraphora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

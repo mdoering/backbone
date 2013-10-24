@@ -1,5 +1,4 @@
-Schismatomma palidellum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma palidellum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

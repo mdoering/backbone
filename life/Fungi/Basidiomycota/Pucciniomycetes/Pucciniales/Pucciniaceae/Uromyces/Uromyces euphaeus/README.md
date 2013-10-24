@@ -1,5 +1,4 @@
-Uromyces euphaeus Syd. SPECIES
-=======
+# Uromyces euphaeus Syd. SPECIES
 
 #### Status
 ACCEPTED

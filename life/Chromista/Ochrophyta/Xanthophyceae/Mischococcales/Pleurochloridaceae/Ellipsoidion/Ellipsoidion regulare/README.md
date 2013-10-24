@@ -1,5 +1,4 @@
-Ellipsoidion regulare Pascher SPECIES
-=======
+# Ellipsoidion regulare Pascher SPECIES
 
 #### Status
 ACCEPTED

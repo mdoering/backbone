@@ -1,5 +1,4 @@
-Polyporus confundens Ces. SPECIES
-=======
+# Polyporus confundens Ces. SPECIES
 
 #### Status
 ACCEPTED

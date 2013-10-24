@@ -1,5 +1,4 @@
-Phalacroma operculatum Stein SPECIES
-=======
+# Phalacroma operculatum Stein SPECIES
 
 #### Status
 ACCEPTED

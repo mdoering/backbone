@@ -1,5 +1,4 @@
-Crinipellis brunneipurpurea Corner SPECIES
-=======
+# Crinipellis brunneipurpurea Corner SPECIES
 
 #### Status
 ACCEPTED

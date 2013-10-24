@@ -1,5 +1,4 @@
-Cercospora senecionis Ellis & Everh. SPECIES
-=======
+# Cercospora senecionis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

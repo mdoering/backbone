@@ -1,5 +1,4 @@
-Ophiobolus stipae Doidge SPECIES
-=======
+# Ophiobolus stipae Doidge SPECIES
 
 #### Status
 ACCEPTED

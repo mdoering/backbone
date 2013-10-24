@@ -1,5 +1,4 @@
-Ciboria kriegeriana (Rabenh.) Rehm SPECIES
-=======
+# Ciboria kriegeriana (Rabenh.) Rehm SPECIES
 
 #### Status
 ACCEPTED

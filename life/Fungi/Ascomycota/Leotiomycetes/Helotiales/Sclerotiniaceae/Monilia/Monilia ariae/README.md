@@ -1,5 +1,4 @@
-Monilia ariae L.R. Batra SPECIES
-=======
+# Monilia ariae L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

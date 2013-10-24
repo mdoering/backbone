@@ -1,5 +1,4 @@
-Coscinodiscus morsianus (Grunow) P.A. Sims SPECIES
-=======
+# Coscinodiscus morsianus (Grunow) P.A. Sims SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea andersiana Nádv. SPECIES
-=======
+# Usnea andersiana Nádv. SPECIES
 
 #### Status
 ACCEPTED

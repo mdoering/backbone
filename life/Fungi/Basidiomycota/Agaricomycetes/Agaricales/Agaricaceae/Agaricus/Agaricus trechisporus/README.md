@@ -1,5 +1,4 @@
-Agaricus trechisporus Berk. SPECIES
-=======
+# Agaricus trechisporus Berk. SPECIES
 
 #### Status
 ACCEPTED

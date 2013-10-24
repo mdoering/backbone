@@ -1,5 +1,4 @@
-Furia shandongensis W.M. Wang, W.H. Lu & Z.Z. Li, 1994 SPECIES
-=======
+# Furia shandongensis W.M. Wang, W.H. Lu & Z.Z. Li, 1994 SPECIES
 
 #### Status
 ACCEPTED

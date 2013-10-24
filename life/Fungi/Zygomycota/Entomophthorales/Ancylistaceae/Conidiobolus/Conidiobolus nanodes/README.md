@@ -1,5 +1,4 @@
-Conidiobolus nanodes Drechsler, 1955 SPECIES
-=======
+# Conidiobolus nanodes Drechsler, 1955 SPECIES
 
 #### Status
 ACCEPTED

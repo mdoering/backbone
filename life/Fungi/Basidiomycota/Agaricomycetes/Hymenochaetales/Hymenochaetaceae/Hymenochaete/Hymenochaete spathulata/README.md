@@ -1,5 +1,4 @@
-Hymenochaete spathulata J.C. Léger, 1981 SPECIES
-=======
+# Hymenochaete spathulata J.C. Léger, 1981 SPECIES
 
 #### Status
 ACCEPTED

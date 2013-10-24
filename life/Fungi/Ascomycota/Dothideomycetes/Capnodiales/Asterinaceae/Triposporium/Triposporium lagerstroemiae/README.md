@@ -1,5 +1,4 @@
-Triposporium lagerstroemiae Henn. SPECIES
-=======
+# Triposporium lagerstroemiae Henn. SPECIES
 
 #### Status
 ACCEPTED

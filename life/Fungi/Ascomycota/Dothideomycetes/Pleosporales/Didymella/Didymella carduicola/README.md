@@ -1,14 +1,13 @@
-Cercidospora carduicola (Cooke) Kuntze, 1898 SPECIES
-=======
+# Didymella carduicola (Cooke) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 453 (1898)
+Syll. fung. (Abellini) 1: 557 (1882)
 
 #### Original name
 Sphaeria carduicola Cooke, 1879

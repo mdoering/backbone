@@ -1,5 +1,4 @@
-Minchinia louisiana Sprague, 1973 SPECIES
-=======
+# Minchinia louisiana Sprague, 1973 SPECIES
 
 #### Status
 ACCEPTED

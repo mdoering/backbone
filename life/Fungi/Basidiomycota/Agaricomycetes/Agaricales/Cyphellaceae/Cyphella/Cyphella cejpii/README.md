@@ -1,17 +1,16 @@
-Cyphella ceypi Pilát SPECIES
-=======
+# Cyphella cejpii Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 22: 208 (1924)
 
 #### Original name
-Cyphella ceypi Pilát
+Cyphella cejpii Pilát
 
 ### Remarks
 null

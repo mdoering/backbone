@@ -1,5 +1,4 @@
-Polyporus albogriseus Britzelm. SPECIES
-=======
+# Polyporus albogriseus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

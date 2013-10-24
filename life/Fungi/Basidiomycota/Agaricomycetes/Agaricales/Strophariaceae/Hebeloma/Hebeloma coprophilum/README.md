@@ -1,5 +1,4 @@
-Hebeloma coprophilum Rick SPECIES
-=======
+# Hebeloma coprophilum Rick SPECIES
 
 #### Status
 ACCEPTED

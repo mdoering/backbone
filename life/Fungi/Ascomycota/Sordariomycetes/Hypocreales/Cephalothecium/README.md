@@ -1,5 +1,4 @@
-Cephalothecium Corda, 1838 GENUS
-=======
+# Cephalothecium Corda, 1838 GENUS
 
 #### Status
 ACCEPTED

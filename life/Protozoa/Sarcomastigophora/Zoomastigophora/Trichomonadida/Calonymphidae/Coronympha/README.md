@@ -1,5 +1,4 @@
-Coronympha Kirby GENUS
-=======
+# Coronympha Kirby GENUS
 
 #### Status
 ACCEPTED

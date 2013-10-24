@@ -1,5 +1,4 @@
-Agaricus ferrugineoflavidis J. Otto SPECIES
-=======
+# Agaricus ferrugineoflavidis J. Otto SPECIES
 
 #### Status
 ACCEPTED

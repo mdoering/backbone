@@ -1,5 +1,4 @@
-Ustilago cyanea Ces. SPECIES
-=======
+# Ustilago cyanea Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nigredo houstoniata (Schwein.) Arthur SPECIES
-=======
+# Nigredo houstoniata (Schwein.) Arthur SPECIES
 
 #### Status
 ACCEPTED

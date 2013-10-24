@@ -1,5 +1,4 @@
-Gonatophragmium deightonii M.S. Tripathi & V. Tripathi SPECIES
-=======
+# Gonatophragmium deightonii M.S. Tripathi & V. Tripathi SPECIES
 
 #### Status
 ACCEPTED

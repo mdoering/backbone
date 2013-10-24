@@ -1,5 +1,4 @@
-Didymosphaeria meretrix (Mont.) Sacc. SPECIES
-=======
+# Didymosphaeria meretrix (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

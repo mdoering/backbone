@@ -1,5 +1,4 @@
-Jarixa GENUS
-=======
+# Jarixa GENUS
 
 #### Status
 ACCEPTED

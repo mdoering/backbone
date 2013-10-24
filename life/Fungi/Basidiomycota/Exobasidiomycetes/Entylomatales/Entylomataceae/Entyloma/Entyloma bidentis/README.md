@@ -1,5 +1,4 @@
-Entyloma bidentis Henn. SPECIES
-=======
+# Entyloma bidentis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia fructicola Syd. SPECIES
-=======
+# Hendersonia fructicola Syd. SPECIES
 
 #### Status
 ACCEPTED

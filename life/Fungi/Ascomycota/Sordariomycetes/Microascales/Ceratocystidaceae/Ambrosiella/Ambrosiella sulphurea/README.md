@@ -1,5 +1,4 @@
-Ambrosiella sulphurea L.R. Batra SPECIES
-=======
+# Ambrosiella sulphurea L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

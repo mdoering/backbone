@@ -1,5 +1,4 @@
-Plochmopeltidella smilacina J.M. Mend. SPECIES
-=======
+# Plochmopeltidella smilacina J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

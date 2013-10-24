@@ -1,5 +1,4 @@
-Cymatosira elliptica Salah SPECIES
-=======
+# Cymatosira elliptica Salah SPECIES
 
 #### Status
 ACCEPTED

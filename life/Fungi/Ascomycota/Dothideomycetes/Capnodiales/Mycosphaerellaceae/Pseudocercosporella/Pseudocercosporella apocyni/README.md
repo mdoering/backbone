@@ -1,5 +1,4 @@
-Pseudocercosporella apocyni (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercosporella apocyni (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

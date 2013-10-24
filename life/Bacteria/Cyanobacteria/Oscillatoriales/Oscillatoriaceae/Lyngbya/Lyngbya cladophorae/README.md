@@ -1,5 +1,4 @@
-Lyngbya cladophorae Tilden SPECIES
-=======
+# Lyngbya cladophorae Tilden SPECIES
 
 #### Status
 ACCEPTED

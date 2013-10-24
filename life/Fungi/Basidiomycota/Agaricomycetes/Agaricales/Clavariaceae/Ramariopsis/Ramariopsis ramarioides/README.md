@@ -1,5 +1,4 @@
-Ramariopsis ramarioides R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis ramarioides R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

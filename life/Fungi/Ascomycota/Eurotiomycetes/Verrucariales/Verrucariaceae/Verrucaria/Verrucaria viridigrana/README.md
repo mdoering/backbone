@@ -1,5 +1,4 @@
-Verrucaria viridigrana Breuss SPECIES
-=======
+# Verrucaria viridigrana Breuss SPECIES
 
 #### Status
 ACCEPTED

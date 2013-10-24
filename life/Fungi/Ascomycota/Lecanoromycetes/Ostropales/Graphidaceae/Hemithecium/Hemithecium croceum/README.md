@@ -1,5 +1,4 @@
-Hemithecium croceum Makhija & Adaw. SPECIES
-=======
+# Hemithecium croceum Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

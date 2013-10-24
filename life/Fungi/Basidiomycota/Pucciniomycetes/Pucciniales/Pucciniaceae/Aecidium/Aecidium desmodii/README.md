@@ -1,5 +1,4 @@
-Aecidium desmodii Henn. SPECIES
-=======
+# Aecidium desmodii Henn. SPECIES
 
 #### Status
 ACCEPTED

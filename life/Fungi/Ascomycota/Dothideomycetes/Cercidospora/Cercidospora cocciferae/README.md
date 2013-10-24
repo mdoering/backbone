@@ -1,5 +1,4 @@
-Cercidospora cocciferae (Fabre) Kuntze SPECIES
-=======
+# Cercidospora cocciferae (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

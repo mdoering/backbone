@@ -1,5 +1,4 @@
-Vermicularia vitis (Istv.) Vassiljevsky SPECIES
-=======
+# Vermicularia vitis (Istv.) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dumoulinia madrenis Stein SPECIES
-=======
+# Dumoulinia madrensis (Kremp.) Stein SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Jber. schles. Ges. vaterl. Kultur 60: (1883)
 
 #### Original name
 Lecanora amplificans var. maderensis Kremp.

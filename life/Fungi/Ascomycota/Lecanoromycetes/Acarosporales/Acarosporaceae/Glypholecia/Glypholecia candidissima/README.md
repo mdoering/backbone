@@ -1,14 +1,13 @@
-Glypholecia scabra var. candidissima (Nyl.) H. Magn. VARIETY
-=======
+# Glypholecia candidissima Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 20: 317 (1853)
 
 #### Original name
 Glypholecia candidissima Nyl.

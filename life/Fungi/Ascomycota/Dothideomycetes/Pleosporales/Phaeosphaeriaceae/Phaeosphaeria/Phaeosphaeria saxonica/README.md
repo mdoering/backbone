@@ -1,5 +1,4 @@
-Phaeosphaeria saxonica (Höhn.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria saxonica (Höhn.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

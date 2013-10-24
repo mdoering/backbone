@@ -1,5 +1,4 @@
-Niopsora ecklonii A. Massal. SPECIES
-=======
+# Niopsora ecklonii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

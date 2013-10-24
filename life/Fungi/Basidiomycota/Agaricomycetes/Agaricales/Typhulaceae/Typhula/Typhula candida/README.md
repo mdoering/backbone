@@ -1,17 +1,16 @@
-Typhula candida var. candida Fr. VARIETY
-=======
+# Typhula candida Fr., 1861 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Öfvers. K. VetenskAkad. Forh. 2: 282 (1861)
 
 #### Original name
-Typhula candida var. candida Fr.
+Typhula candida Fr., 1861
 
 ### Remarks
 null

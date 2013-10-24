@@ -1,5 +1,4 @@
-Strongylothallus Bat. & Cif. GENUS
-=======
+# Strongylothallus Bat. & Cif. GENUS
 
 #### Status
 ACCEPTED

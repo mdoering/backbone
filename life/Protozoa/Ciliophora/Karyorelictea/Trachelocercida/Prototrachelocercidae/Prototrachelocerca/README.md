@@ -1,5 +1,4 @@
-Prototrachelocerca Foissner, 1996 GENUS
-=======
+# Prototrachelocerca Foissner, 1996 GENUS
 
 #### Status
 ACCEPTED

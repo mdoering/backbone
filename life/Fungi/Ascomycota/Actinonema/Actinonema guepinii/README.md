@@ -1,8 +1,7 @@
-Actinonema guepini (Mont.) Sacc. SPECIES
-=======
+# Actinonema guepinii (Mont.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

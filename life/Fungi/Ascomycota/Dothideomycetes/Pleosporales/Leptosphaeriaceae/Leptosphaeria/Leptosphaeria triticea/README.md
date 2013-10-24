@@ -1,5 +1,4 @@
-Leptosphaeria triticea T. Johnson SPECIES
-=======
+# Leptosphaeria triticea T. Johnson SPECIES
 
 #### Status
 ACCEPTED

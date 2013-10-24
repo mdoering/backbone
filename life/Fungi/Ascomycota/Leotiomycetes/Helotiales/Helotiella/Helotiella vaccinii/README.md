@@ -1,5 +1,4 @@
-Helotiella vaccinii (Rehm) Sacc. SPECIES
-=======
+# Helotiella vaccinii (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

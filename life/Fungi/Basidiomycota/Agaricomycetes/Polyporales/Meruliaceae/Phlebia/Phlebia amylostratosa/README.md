@@ -1,5 +1,4 @@
-Phlebia amylostratosa Svrcek SPECIES
-=======
+# Phlebia amylostratosa Svrcek SPECIES
 
 #### Status
 ACCEPTED

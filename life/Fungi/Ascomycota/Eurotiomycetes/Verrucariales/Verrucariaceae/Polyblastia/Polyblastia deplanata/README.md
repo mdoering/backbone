@@ -1,5 +1,4 @@
-Polyblastia deplanata Arnold SPECIES
-=======
+# Polyblastia deplanata Arnold SPECIES
 
 #### Status
 ACCEPTED

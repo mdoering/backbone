@@ -1,5 +1,4 @@
-Nectriella thujana Rehm SPECIES
-=======
+# Nectriella thujana Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia tecomicola Speg. SPECIES
-=======
+# Puccinia tecomicola Speg. SPECIES
 
 #### Status
 ACCEPTED

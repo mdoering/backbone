@@ -1,5 +1,4 @@
-Acetobacter indonesiensis Lisdiyanti et al., 2001 SPECIES
-=======
+# Acetobacter indonesiensis Lisdiyanti et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium butyri F. Patt. SPECIES
-=======
+# Stemphylium butyri F. Patt. SPECIES
 
 #### Status
 ACCEPTED

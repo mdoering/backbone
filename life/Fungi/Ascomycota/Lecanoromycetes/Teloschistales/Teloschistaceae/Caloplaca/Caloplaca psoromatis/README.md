@@ -1,5 +1,4 @@
-Caloplaca psoromatis Olech & Søchting SPECIES
-=======
+# Caloplaca psoromatis Olech & Søchting SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella lithocarpi A.H. Sm. SPECIES
-=======
+# Psathyrella lithocarpi A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

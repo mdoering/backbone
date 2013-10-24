@@ -1,5 +1,4 @@
-Arthonia erubescens Willey SPECIES
-=======
+# Arthonia erubescens Willey SPECIES
 
 #### Status
 ACCEPTED

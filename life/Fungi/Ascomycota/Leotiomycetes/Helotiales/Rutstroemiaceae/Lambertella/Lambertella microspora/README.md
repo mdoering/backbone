@@ -1,5 +1,4 @@
-Lambertella microspora (Seaver) Dumont SPECIES
-=======
+# Lambertella microspora (Seaver) Dumont SPECIES
 
 #### Status
 ACCEPTED

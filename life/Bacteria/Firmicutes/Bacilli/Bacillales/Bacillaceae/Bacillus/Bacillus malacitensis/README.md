@@ -1,5 +1,4 @@
-Bacillus malacitensis Ruiz-García et al., 2005 SPECIES
-=======
+# Bacillus malacitensis Ruiz-García et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

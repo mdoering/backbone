@@ -1,5 +1,4 @@
-Asterina solidaginis Cooke SPECIES
-=======
+# Asterina solidaginis Cooke SPECIES
 
 #### Status
 ACCEPTED

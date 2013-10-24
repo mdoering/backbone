@@ -1,14 +1,13 @@
-Polyporus leucoplacus Berk., 1855 SPECIES
-=======
+# Dichomitus leucoplacus (Berk.) Ryvarden, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botany of the Antarctic Voyage of H. M. Discovery Ships Erebus and Terror, in the years 1839-1843, I. 2: 180 (1855)
+Norw. Jl Bot. 24: 222 (1977)
 
 #### Original name
 Polyporus leucoplacus Berk., 1855

@@ -1,5 +1,4 @@
-Helotium episphaericum Peck SPECIES
-=======
+# Helotium episphaericum Peck SPECIES
 
 #### Status
 ACCEPTED

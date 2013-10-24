@@ -1,5 +1,4 @@
-Catillaria lividula (Müll. Arg.) SPECIES
-=======
+# Catillaria lividula (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

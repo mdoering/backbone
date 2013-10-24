@@ -1,5 +1,4 @@
-Tricharia elegans Sérus. SPECIES
-=======
+# Tricharia elegans Sérus. SPECIES
 
 #### Status
 ACCEPTED

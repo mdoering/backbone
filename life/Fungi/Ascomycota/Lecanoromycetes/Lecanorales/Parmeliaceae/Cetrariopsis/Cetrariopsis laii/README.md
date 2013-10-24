@@ -1,5 +1,4 @@
-Cetrariopsis laii A. Thell & Randlane SPECIES
-=======
+# Cetrariopsis laii A. Thell & Randlane SPECIES
 
 #### Status
 ACCEPTED

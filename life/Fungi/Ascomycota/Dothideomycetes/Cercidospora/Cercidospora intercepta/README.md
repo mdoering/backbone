@@ -1,5 +1,4 @@
-Cercidospora intercepta (Cooke & Kalchbr.) Kuntze SPECIES
-=======
+# Cercidospora intercepta (Cooke & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium plantaginis Yong Wang bis & X.G. Zhang SPECIES
-=======
+# Stemphylium plantaginis Yong Wang bis & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

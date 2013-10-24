@@ -1,5 +1,4 @@
-Melastiza asperrima (Ellis & Everh.) Seaver SPECIES
-=======
+# Melastiza asperrima (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

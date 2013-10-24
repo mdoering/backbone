@@ -1,5 +1,4 @@
-Lewinella antarctica Oh, Lee & Cho, 2009 SPECIES
-=======
+# Lewinella antarctica Oh, Lee & Cho, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula rosacea Van Hest SPECIES
-=======
+# Torula rosacea Van Hest SPECIES
 
 #### Status
 ACCEPTED

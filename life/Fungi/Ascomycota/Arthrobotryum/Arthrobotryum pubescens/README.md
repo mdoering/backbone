@@ -1,5 +1,4 @@
-Arthrobotryum pubescens (Cooke & Ellis) Pound & Clem. SPECIES
-=======
+# Arthrobotryum pubescens (Cooke & Ellis) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

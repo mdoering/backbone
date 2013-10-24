@@ -1,5 +1,4 @@
-Dimerosporium cordiicola Henn. SPECIES
-=======
+# Dimerosporium cordiicola Henn. SPECIES
 
 #### Status
 ACCEPTED

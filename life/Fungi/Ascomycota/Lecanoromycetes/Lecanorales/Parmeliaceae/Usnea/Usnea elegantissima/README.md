@@ -1,5 +1,4 @@
-Usnea elegantissima Motyka SPECIES
-=======
+# Usnea elegantissima Motyka SPECIES
 
 #### Status
 ACCEPTED

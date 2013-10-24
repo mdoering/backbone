@@ -1,5 +1,4 @@
-Caenomorpha steini Bütschli, 1879 SPECIES
-=======
+# Caenomorpha steini Bütschli, 1879 SPECIES
 
 #### Status
 ACCEPTED

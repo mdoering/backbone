@@ -1,5 +1,4 @@
-Pseudocercospora fici-religiosae (Chidd.) U. Braun, Bagyan. & Jagad. SPECIES
-=======
+# Pseudocercospora fici-religiosae (Chidd.) U. Braun, Bagyan. & Jagad. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium dolichi Syd. {?} SPECIES
-=======
+# Helminthosporium dolichi Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

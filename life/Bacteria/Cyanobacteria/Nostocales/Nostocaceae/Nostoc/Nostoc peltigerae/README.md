@@ -1,5 +1,4 @@
-Nostoc peltigerae Letellier SPECIES
-=======
+# Nostoc peltigerae Letellier SPECIES
 
 #### Status
 ACCEPTED

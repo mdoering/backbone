@@ -1,5 +1,4 @@
-Involutisporonites minutus Rouse & Mustard SPECIES
-=======
+# Involutisporonites minutus Rouse & Mustard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calostoma insigne (Berk.) Massee SPECIES
-=======
+# Calostoma insigne (Berk.) Massee SPECIES
 
 #### Status
 ACCEPTED

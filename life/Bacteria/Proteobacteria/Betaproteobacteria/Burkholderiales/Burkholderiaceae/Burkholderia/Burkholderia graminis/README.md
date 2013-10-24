@@ -1,5 +1,4 @@
-Burkholderia graminis Viallard et al., 1998 SPECIES
-=======
+# Burkholderia graminis Viallard et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

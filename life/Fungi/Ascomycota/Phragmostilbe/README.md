@@ -1,5 +1,4 @@
-Phragmostilbe GENUS
-=======
+# Phragmostilbe GENUS
 
 #### Status
 ACCEPTED

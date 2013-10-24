@@ -1,5 +1,4 @@
-Cladonia yunnana (Vain.) Abbayes SPECIES
-=======
+# Cladonia yunnana (Vain.) Abbayes SPECIES
 
 #### Status
 ACCEPTED

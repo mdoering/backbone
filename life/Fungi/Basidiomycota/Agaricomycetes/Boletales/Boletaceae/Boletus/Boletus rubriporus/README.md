@@ -1,5 +1,4 @@
-Boletus rubriporus Corner SPECIES
-=======
+# Boletus rubriporus Corner SPECIES
 
 #### Status
 ACCEPTED

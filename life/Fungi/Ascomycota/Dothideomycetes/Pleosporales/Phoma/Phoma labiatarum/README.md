@@ -1,5 +1,4 @@
-Phoma labiatarum Cooke SPECIES
-=======
+# Phoma labiatarum Cooke SPECIES
 
 #### Status
 ACCEPTED

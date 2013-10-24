@@ -1,5 +1,4 @@
-Geitlerinema acutissimum (H. Kufferath) Anagnostidis SPECIES
-=======
+# Geitlerinema acutissimum (H. Kufferath) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

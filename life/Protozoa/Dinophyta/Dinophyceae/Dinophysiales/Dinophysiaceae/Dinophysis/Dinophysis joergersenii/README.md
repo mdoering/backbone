@@ -1,5 +1,4 @@
-Dinophysis joergersenii Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Dinophysis joergersenii Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
 ACCEPTED

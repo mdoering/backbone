@@ -1,5 +1,4 @@
-Microbotryum chloranthae-verrucosum M. Lutz, Göker, Piatek, Kemler, Begerow & Oberw., 2005 SPECIES
-=======
+# Microbotryum chloranthae-verrucosum M. Lutz, Göker, Piatek, Kemler, Begerow & Oberw., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius caeruleoëburneus Gasparini SPECIES
-=======
+# Cortinarius caeruleoëburneus Gasparini SPECIES
 
 #### Status
 ACCEPTED

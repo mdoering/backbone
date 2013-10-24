@@ -1,5 +1,4 @@
-Pseudocercospora pulviniformis (J. Kranz) Deighton SPECIES
-=======
+# Pseudocercospora pulviniformis (J. Kranz) Deighton SPECIES
 
 #### Status
 ACCEPTED

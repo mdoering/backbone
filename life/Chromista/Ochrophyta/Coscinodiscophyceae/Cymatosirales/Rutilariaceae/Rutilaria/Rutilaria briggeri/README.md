@@ -1,5 +1,4 @@
-Rutilaria briggeri R. Ross SPECIES
-=======
+# Rutilaria briggeri R. Ross SPECIES
 
 #### Status
 ACCEPTED

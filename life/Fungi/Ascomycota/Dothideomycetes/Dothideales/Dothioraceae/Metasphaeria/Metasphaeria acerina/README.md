@@ -1,5 +1,4 @@
-Metasphaeria acerina Feltgen SPECIES
-=======
+# Metasphaeria acerina Feltgen SPECIES
 
 #### Status
 ACCEPTED

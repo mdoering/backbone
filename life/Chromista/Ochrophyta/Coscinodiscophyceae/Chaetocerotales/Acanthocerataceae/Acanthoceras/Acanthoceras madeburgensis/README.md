@@ -1,5 +1,4 @@
-Acanthoceras madeburgensis Hongimann SPECIES
-=======
+# Acanthoceras madeburgensis Hongimann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyridaria viticola (Ellis & Everh.) Wehm. SPECIES
-=======
+# Thyridaria viticola (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

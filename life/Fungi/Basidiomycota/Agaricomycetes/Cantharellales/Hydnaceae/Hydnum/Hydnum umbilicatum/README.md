@@ -1,14 +1,13 @@
-Dentinum umbilicatum (Peck) Pouzar, 1956 SPECIES
-=======
+# Hydnum umbilicatum Peck, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 10: 76 (1956)
+Ann. Rep. N. Y. St. Mus. nat. Hist. 54: 953 (1902)
 
 #### Original name
 Hydnum umbilicatum Peck, 1902

@@ -1,5 +1,4 @@
-Halobaculum gomorrense Oren et al., 1995 SPECIES
-=======
+# Halobaculum gomorrense Oren et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

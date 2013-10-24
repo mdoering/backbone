@@ -1,17 +1,16 @@
-Hydnum imbricatum var. imbricatum VARIETY
-=======
+# Hydnum repandum L., 1753 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sp. pl. 2: 1178 (1753)
 
 #### Original name
-null
+Hydnum repandum L., 1753
 
 ### Remarks
 null

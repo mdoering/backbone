@@ -1,5 +1,4 @@
-Balladynopsis ebbelsii Sivan., 1981 SPECIES
-=======
+# Balladynopsis ebbelsii Sivan., 1981 SPECIES
 
 #### Status
 ACCEPTED

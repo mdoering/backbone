@@ -1,5 +1,4 @@
-Pontosphaera bigelowi Gran & Braarud, 1935 SPECIES
-=======
+# Pontosphaera bigelowi Gran & Braarud, 1935 SPECIES
 
 #### Status
 ACCEPTED

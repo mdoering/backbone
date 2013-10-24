@@ -1,5 +1,4 @@
-Septoidium trinitense G. Arnaud SPECIES
-=======
+# Septoidium trinitense G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

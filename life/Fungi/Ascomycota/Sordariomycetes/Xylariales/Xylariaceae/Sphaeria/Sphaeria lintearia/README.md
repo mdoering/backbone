@@ -1,5 +1,4 @@
-Sphaeria lintearia Mont. SPECIES
-=======
+# Sphaeria lintearia Mont. SPECIES
 
 #### Status
 ACCEPTED

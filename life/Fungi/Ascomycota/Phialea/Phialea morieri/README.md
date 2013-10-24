@@ -1,5 +1,4 @@
-Phialea morieri Gillet SPECIES
-=======
+# Phialea morieri Gillet SPECIES
 
 #### Status
 ACCEPTED

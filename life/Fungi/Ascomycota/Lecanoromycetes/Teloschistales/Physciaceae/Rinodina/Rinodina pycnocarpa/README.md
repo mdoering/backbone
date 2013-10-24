@@ -1,5 +1,4 @@
-Rinodina pycnocarpa H. Magn. SPECIES
-=======
+# Rinodina pycnocarpa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

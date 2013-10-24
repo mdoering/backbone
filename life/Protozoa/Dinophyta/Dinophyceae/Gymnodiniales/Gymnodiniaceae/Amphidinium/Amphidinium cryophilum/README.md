@@ -1,5 +1,4 @@
-Amphidinium cryophilum G.J. Wedemayer, L.W. Wilcox & L.E. Graham SPECIES
-=======
+# Amphidinium cryophilum G.J. Wedemayer, L.W. Wilcox & L.E. Graham SPECIES
 
 #### Status
 ACCEPTED

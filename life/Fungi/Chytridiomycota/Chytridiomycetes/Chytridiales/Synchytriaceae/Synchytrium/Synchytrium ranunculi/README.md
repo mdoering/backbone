@@ -1,5 +1,4 @@
-Synchytrium ranunculi M.T. Cook SPECIES
-=======
+# Synchytrium ranunculi M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

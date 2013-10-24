@@ -1,5 +1,4 @@
-Calyptronectria Speg. GENUS
-=======
+# Calyptronectria Speg. GENUS
 
 #### Status
 ACCEPTED

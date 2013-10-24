@@ -1,5 +1,4 @@
-Jansia elegans Penz. SPECIES
-=======
+# Jansia elegans Penz. SPECIES
 
 #### Status
 ACCEPTED

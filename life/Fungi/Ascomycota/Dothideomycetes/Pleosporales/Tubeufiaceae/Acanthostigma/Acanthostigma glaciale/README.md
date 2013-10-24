@@ -1,5 +1,4 @@
-Acanthostigma glaciale Rehm SPECIES
-=======
+# Acanthostigma glaciale Rehm SPECIES
 
 #### Status
 ACCEPTED

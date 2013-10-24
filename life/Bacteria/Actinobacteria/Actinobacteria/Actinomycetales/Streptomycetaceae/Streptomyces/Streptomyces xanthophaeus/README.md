@@ -1,5 +1,4 @@
-Streptomyces xanthophaeus Lindenbein, 1952 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces xanthophaeus Lindenbein, 1952 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

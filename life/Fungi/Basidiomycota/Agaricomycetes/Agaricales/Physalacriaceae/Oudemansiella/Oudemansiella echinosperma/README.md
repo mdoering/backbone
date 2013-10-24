@@ -1,5 +1,4 @@
-Oudemansiella echinosperma Singer SPECIES
-=======
+# Oudemansiella echinosperma Singer SPECIES
 
 #### Status
 ACCEPTED

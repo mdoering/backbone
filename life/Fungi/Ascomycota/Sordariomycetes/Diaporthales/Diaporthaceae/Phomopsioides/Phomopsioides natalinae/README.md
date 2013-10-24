@@ -1,5 +1,4 @@
-Phomopsioides natalinae A.C. Santos SPECIES
-=======
+# Phomopsioides natalinae A.C. Santos SPECIES
 
 #### Status
 ACCEPTED

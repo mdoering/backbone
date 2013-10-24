@@ -1,14 +1,13 @@
-Lophiostoma albocarne (Ellis & Everh.) Aptroot & K.D. Hyde SPECIES
-=======
+# Massarina albocarnis (Ellis & Everh.) M.E. Barr, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 45: 210 (1992)
 
 #### Original name
 Diaporthe albocarnis Ellis & Everh., 1893

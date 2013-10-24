@@ -1,5 +1,4 @@
-Calodon multiplex (Fr.) P. Karst. SPECIES
-=======
+# Calodon multiplex (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

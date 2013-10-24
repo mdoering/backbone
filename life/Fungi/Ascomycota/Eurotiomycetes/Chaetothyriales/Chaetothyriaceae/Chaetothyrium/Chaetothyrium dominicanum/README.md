@@ -1,5 +1,4 @@
-Chaetothyrium dominicanum var. dominicanum VARIETY
-=======
+# Chaetothyrium dominicanum Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 10: 133 (1957)
 
 #### Original name
-Chaetothyrium dominicanum var. dominicanum
+Chaetothyrium dominicanum Cif.
 
 ### Remarks
 null

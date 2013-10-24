@@ -1,5 +1,4 @@
-Mollisia filipora Velen. SPECIES
-=======
+# Mollisia filipora Velen. SPECIES
 
 #### Status
 ACCEPTED

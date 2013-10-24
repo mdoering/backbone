@@ -1,5 +1,4 @@
-Polaromonas vacuolata Irgens et al., 1996 SPECIES
-=======
+# Polaromonas vacuolata Irgens et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

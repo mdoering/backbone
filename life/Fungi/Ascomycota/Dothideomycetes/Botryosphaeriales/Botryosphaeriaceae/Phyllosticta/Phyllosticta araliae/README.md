@@ -1,5 +1,4 @@
-Phyllosticta araliae Ellis & Everh. SPECIES
-=======
+# Phyllosticta araliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

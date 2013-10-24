@@ -1,5 +1,4 @@
-Conidiobolus mycophagus Sriniv. & Thirum., 1966 SPECIES
-=======
+# Conidiobolus mycophagus Sriniv. & Thirum., 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoridium myriocarpoides (Servít) Servít SPECIES
-=======
+# Amphoridium myriocarpoides (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius peumo Garrido SPECIES
-=======
+# Cortinarius peumo Garrido SPECIES
 
 #### Status
 ACCEPTED

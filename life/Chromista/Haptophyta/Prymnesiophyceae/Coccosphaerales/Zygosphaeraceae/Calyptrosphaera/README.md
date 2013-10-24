@@ -1,5 +1,4 @@
-Calyptrosphaera Lohmann, 1902 GENUS
-=======
+# Calyptrosphaera Lohmann, 1902 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius coriaceus (Preuss) Kuntze SPECIES
-=======
+# Merulius coriaceus (Preuss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

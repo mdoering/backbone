@@ -1,5 +1,4 @@
-Russula cristata Romagn. SPECIES
-=======
+# Russula cristata Romagn. SPECIES
 
 #### Status
 ACCEPTED

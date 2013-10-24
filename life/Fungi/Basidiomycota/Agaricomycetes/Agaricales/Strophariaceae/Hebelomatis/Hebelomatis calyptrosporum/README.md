@@ -1,5 +1,4 @@
-Hebelomatis calyptrosporum (Bruchet) Locq. SPECIES
-=======
+# Hebelomatis calyptrosporum (Bruchet) Locq. SPECIES
 
 #### Status
 ACCEPTED

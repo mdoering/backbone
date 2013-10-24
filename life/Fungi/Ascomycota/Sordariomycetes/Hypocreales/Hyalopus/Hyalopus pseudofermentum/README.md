@@ -1,5 +1,4 @@
-Hyalopus pseudofermentum (Cif.) M.A.J. Barbosa SPECIES
-=======
+# Hyalopus pseudofermentum (Cif.) M.A.J. Barbosa SPECIES
 
 #### Status
 ACCEPTED

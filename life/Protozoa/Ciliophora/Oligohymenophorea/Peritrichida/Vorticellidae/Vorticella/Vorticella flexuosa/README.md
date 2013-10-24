@@ -1,5 +1,4 @@
-Vorticella flexuosa Nenninger, 1948 SPECIES
-=======
+# Vorticella flexuosa Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

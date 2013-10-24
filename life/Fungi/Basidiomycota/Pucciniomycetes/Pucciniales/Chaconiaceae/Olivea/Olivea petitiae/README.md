@@ -1,5 +1,4 @@
-Olivea petitiae Arthur, 1917 SPECIES
-=======
+# Olivea petitiae Arthur, 1917 SPECIES
 
 #### Status
 ACCEPTED

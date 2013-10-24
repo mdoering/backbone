@@ -1,14 +1,13 @@
-Hygrocybe micacea (Berk. & Broome) P.D. Orton & Watling, 1969 SPECIES
-=======
+# Camarophyllopsis micacea (Berk. & Broome) Arnolds, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 91(4): 559 (1969)
+Persoonia 13(3): 386 (1987)
 
 #### Original name
 Hygrophorus micaceus Berk. & Broome, 1879

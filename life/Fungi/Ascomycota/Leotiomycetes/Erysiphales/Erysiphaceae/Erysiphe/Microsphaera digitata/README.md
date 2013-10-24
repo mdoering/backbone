@@ -1,5 +1,4 @@
-Microsphaera digitata A.J. Inman & U. Braun SPECIES
-=======
+# Microsphaera digitata A.J. Inman & U. Braun SPECIES
 
 #### Status
 ACCEPTED

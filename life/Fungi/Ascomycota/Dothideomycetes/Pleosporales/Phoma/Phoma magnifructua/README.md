@@ -1,5 +1,4 @@
-Phoma magnifructua Peck SPECIES
-=======
+# Phoma magnifructua Peck SPECIES
 
 #### Status
 ACCEPTED

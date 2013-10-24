@@ -1,14 +1,13 @@
-Asterisca medusula Spreng. SPECIES
-=======
+# Sarcographa medusula (Spreng.) Fée SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Acta Acad. Caes. Leop. -Carol. Nat. Cur. 18(suppl. ): 22 (1841)
 
 #### Original name
 Asterisca medusula Spreng.

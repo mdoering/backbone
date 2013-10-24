@@ -1,5 +1,4 @@
-Agaricus chlorinosmus Peck SPECIES
-=======
+# Agaricus chlorinosmus Peck SPECIES
 
 #### Status
 ACCEPTED

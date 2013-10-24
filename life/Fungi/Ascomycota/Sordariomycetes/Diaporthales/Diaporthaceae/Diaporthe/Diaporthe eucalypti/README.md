@@ -1,5 +1,4 @@
-Diaporthe eucalypti Harkn. SPECIES
-=======
+# Diaporthe eucalypti Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutintinnus procurrerens (Kofoid & Campbell, 1929) SPECIES
-=======
+# Eutintinnus procurrerens (Kofoid & Campbell, 1929) SPECIES
 
 #### Status
 ACCEPTED

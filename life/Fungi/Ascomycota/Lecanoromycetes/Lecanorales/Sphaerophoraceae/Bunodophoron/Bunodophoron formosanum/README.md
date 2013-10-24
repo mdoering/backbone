@@ -1,17 +1,16 @@
-Sphaerophorus compressus var. candidus Müll. Arg. VARIETY
-=======
+# Bunodophoron formosanum (Zahlbr.) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pl. Syst. Evol. 187(1-4): 233 (1993)
 
 #### Original name
-null
+Parmelia formosana Zahlbr.
 
 ### Remarks
 null

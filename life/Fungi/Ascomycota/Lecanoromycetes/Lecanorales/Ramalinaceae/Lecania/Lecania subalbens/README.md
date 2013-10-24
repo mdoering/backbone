@@ -1,5 +1,4 @@
-Lecania subalbens (Nyl.) Hazsl. SPECIES
-=======
+# Lecania subalbens (Nyl.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

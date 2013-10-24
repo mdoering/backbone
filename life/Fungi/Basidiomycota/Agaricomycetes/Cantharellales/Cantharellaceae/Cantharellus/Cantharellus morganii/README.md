@@ -1,5 +1,4 @@
-Cantharellus morganii Peck SPECIES
-=======
+# Cantharellus morganii Peck SPECIES
 
 #### Status
 ACCEPTED

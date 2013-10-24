@@ -1,5 +1,4 @@
-Amphisolenia Stein, 1883 GENUS
-=======
+# Amphisolenia Stein, 1883 GENUS
 
 #### Status
 ACCEPTED

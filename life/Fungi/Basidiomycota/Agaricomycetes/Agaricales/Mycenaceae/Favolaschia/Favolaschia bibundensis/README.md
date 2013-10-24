@@ -1,5 +1,4 @@
-Favolaschia bibundensis Henn. SPECIES
-=======
+# Favolaschia bibundensis Henn. SPECIES
 
 #### Status
 ACCEPTED

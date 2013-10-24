@@ -1,5 +1,4 @@
-Opegrapha cactacearum Riedl SPECIES
-=======
+# Opegrapha cactacearum Riedl SPECIES
 
 #### Status
 ACCEPTED

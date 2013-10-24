@@ -1,8 +1,7 @@
-Promicromonospora enterophila Jáger et al., 1983 SPECIES
-=======
+# Oerskovia enterophila (Jáger et al., 1983) Stackebrandt et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

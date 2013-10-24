@@ -1,5 +1,4 @@
-Pentophiastrum Haeckel, 1887 GENUS
-=======
+# Pentophiastrum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

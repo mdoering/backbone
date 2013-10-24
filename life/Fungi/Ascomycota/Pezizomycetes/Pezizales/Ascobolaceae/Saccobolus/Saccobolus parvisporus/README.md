@@ -1,5 +1,4 @@
-Saccobolus parvisporus Brumm. SPECIES
-=======
+# Saccobolus parvisporus Brumm. SPECIES
 
 #### Status
 ACCEPTED

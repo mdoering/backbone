@@ -1,17 +1,16 @@
-Mollisia copelandi Rehm SPECIES
-=======
+# Mollisia copelandii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 4(6): 545 (1907)
 
 #### Original name
-Mollisia copelandi Rehm
+Mollisia copelandii Rehm
 
 ### Remarks
 null

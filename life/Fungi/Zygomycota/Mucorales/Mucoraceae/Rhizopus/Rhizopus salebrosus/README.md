@@ -1,5 +1,4 @@
-Rhizopus salebrosus var. salebrosus VARIETY
-=======
+# Rhizopus salebrosus Yamazaki SPECIES
 
 #### Status
 ACCEPTED

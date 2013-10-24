@@ -1,5 +1,4 @@
-Ramularia cirsii-eriophori U. Braun SPECIES
-=======
+# Ramularia cirsii-eriophori U. Braun SPECIES
 
 #### Status
 ACCEPTED

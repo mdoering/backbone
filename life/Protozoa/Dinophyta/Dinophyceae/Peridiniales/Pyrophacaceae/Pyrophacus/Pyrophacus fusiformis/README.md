@@ -1,5 +1,4 @@
-Pyrophacus fusiformis (W. Thomson) Murray, 1885 SPECIES
-=======
+# Pyrophacus fusiformis (W. Thomson) Murray, 1885 SPECIES
 
 #### Status
 ACCEPTED

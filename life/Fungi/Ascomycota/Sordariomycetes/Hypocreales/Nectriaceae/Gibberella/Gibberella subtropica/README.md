@@ -1,5 +1,4 @@
-Gibberella subtropica (Rehm) Wollenw. SPECIES
-=======
+# Gibberella subtropica (Rehm) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

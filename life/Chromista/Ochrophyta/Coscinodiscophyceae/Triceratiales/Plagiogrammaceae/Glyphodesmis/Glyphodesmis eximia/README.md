@@ -1,5 +1,4 @@
-Glyphodesmis eximia Greville SPECIES
-=======
+# Glyphodesmis eximia Greville SPECIES
 
 #### Status
 ACCEPTED

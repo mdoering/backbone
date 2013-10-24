@@ -1,5 +1,4 @@
-Placopsis pycnotheca I.M. Lamb SPECIES
-=======
+# Placopsis pycnotheca I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

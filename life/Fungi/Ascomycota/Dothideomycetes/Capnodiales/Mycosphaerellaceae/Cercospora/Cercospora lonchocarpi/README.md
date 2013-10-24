@@ -1,5 +1,4 @@
-Cercospora lonchocarpi J.A. Stev. SPECIES
-=======
+# Cercospora lonchocarpi J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

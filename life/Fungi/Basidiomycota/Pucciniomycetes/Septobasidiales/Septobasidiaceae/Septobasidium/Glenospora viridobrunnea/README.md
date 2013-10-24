@@ -1,5 +1,4 @@
-Glenospora viridobrunnea Redaelli & Cif. SPECIES
-=======
+# Glenospora viridobrunnea Redaelli & Cif. SPECIES
 
 #### Status
 ACCEPTED

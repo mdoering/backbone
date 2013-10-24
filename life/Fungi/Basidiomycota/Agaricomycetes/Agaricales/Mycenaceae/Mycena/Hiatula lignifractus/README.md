@@ -1,8 +1,7 @@
-Hiatula lignifraga Mont. SPECIES
-=======
+# Hiatula lignifractus Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hiatula lignifraga Mont.
+Hiatula lignifractus Mont.
 
 ### Remarks
 null

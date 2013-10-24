@@ -1,8 +1,7 @@
-Macrophoma euphorbicola Gonz. Frag. SPECIES
-=======
+# Macrophoma euphorbiicola Gonz. Frag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrophoma euphorbicola Gonz. Frag.
+Macrophoma euphorbiicola Gonz. Frag.
 
 ### Remarks
 null

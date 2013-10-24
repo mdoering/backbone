@@ -1,5 +1,4 @@
-Pycnidiella alboviolacea Höhn. SPECIES
-=======
+# Pycnidiella alboviolacea Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleurisma metamericanum (Castell.) C.W. Dodge SPECIES
-=======
+# Aleurisma metamericanum (Castell.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

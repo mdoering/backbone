@@ -1,5 +1,4 @@
-Phacidiopsis Geyler, 1887 GENUS
-=======
+# Phacidiopsis Geyler, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaginicola crassa Dumas, 1929 SPECIES
-=======
+# Vaginicola crassa Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

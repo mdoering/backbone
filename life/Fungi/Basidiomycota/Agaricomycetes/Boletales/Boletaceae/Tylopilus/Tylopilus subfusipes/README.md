@@ -1,5 +1,4 @@
-Tylopilus subfusipes A.H. Sm. SPECIES
-=======
+# Tylopilus subfusipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

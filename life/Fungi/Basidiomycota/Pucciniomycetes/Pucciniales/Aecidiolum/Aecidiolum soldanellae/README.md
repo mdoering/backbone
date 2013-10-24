@@ -1,5 +1,4 @@
-Aecidiolum soldanellae Sacc. SPECIES
-=======
+# Aecidiolum soldanellae Sacc. SPECIES
 
 #### Status
 ACCEPTED

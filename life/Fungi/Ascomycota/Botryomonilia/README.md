@@ -1,5 +1,4 @@
-Botryomonilia Goos & Piroz. GENUS
-=======
+# Botryomonilia Goos & Piroz. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina usteri Maire SPECIES
-=======
+# Asterina usteri Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schwantzia McCulloch, 1977 GENUS
-=======
+# Schwantzia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

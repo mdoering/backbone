@@ -1,5 +1,4 @@
-Schismatomma carneum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Schismatomma carneum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

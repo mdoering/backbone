@@ -1,5 +1,4 @@
-Barathrisphaeridium paxillum Wicander & Loeblich, 1977 SPECIES
-=======
+# Barathrisphaeridium paxillum Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

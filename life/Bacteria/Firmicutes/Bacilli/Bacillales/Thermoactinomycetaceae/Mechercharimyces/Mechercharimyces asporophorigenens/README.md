@@ -1,5 +1,4 @@
-Mechercharimyces asporophorigenens Matsuo, Katsuta, Matsuda, Shizuri, Yokota & Kasai, 2006 SPECIES
-=======
+# Mechercharimyces asporophorigenens Matsuo, Katsuta, Matsuda, Shizuri, Yokota & Kasai, 2006 SPECIES
 
 #### Status
 ACCEPTED

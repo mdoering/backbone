@@ -1,5 +1,4 @@
-Flammula pholiotiformis Velen. SPECIES
-=======
+# Flammula pholiotiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

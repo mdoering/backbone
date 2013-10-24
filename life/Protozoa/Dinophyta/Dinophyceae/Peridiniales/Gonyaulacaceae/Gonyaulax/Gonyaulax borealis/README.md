@@ -1,5 +1,4 @@
-Gonyaulax borealis Nordli, 1951 SPECIES
-=======
+# Gonyaulax borealis Nordli, 1951 SPECIES
 
 #### Status
 ACCEPTED

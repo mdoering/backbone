@@ -1,5 +1,4 @@
-Gomphus bonarii f. bonarii FORM
-=======
+# Gomphus bonarii (Morse) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lloydia 8: 140 (1945)
 
 #### Original name
-Gomphus bonarii f. bonarii
+Cantharellus bonarii Morse
 
 ### Remarks
 null

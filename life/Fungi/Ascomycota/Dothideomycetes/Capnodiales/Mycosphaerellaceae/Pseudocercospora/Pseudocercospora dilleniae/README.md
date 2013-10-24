@@ -1,5 +1,4 @@
-Pseudocercospora dilleniae (Petch) Sarbajna SPECIES
-=======
+# Pseudocercospora dilleniae (Petch) Sarbajna SPECIES
 
 #### Status
 ACCEPTED

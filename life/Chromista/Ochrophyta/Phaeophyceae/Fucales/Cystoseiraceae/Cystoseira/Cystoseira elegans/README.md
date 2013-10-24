@@ -1,5 +1,4 @@
-Cystoseira elegans Sauvageau SPECIES
-=======
+# Cystoseira elegans Sauvageau SPECIES
 
 #### Status
 ACCEPTED

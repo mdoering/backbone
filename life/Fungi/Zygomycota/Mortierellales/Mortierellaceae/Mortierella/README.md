@@ -1,17 +1,16 @@
-Azygozygum Chesters GENUS
-=======
+# Mortierella Coem. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18: 213 (1933)
+Bull. Acad. R. Sci. Belg. , Cl. Sci. , sér. 2 15: 288, 536 (1863)
 
 #### Original name
-Azygozygum Chesters
+Mortierella Coem.
 
 ### Remarks
 null

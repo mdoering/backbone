@@ -1,5 +1,4 @@
-Naucoria (E.M. Fries) P. Kummer, 1871 GENUS
-=======
+# Naucoria (E.M. Fries) P. Kummer, 1871 GENUS
 
 #### Status
 ACCEPTED

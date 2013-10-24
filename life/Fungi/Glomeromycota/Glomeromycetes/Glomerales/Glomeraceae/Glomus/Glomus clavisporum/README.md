@@ -1,5 +1,4 @@
-Glomus clavisporum (Trappe) R.T. Almeida & N.C. Schenck, 1990 SPECIES
-=======
+# Glomus clavisporum (Trappe) R.T. Almeida & N.C. Schenck, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia tarkinensis Elix & Kantvilas SPECIES
-=======
+# Parmelia tarkinensis Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

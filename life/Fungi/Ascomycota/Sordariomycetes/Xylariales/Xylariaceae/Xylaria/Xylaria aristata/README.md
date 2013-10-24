@@ -1,5 +1,4 @@
-Xylaria aristata var. aristata VARIETY
-=======
+# Xylaria aristata Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. gen. sp. crypt. (Paris) no. 694 (1856)
 
 #### Original name
-Xylaria aristata var. aristata
+Xylaria aristata Mont.
 
 ### Remarks
 null

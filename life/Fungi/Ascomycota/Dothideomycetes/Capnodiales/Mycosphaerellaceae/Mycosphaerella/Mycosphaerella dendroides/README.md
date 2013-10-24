@@ -1,5 +1,4 @@
-Mycosphaerella dendroides (Cooke) Demaree & Cole SPECIES
-=======
+# Mycosphaerella dendroides (Cooke) Demaree & Cole SPECIES
 
 #### Status
 ACCEPTED

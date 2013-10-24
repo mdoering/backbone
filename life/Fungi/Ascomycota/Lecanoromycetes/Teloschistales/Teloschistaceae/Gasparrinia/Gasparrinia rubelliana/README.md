@@ -1,5 +1,4 @@
-Gasparrinia rubelliana (Ach.) Verseghy SPECIES
-=======
+# Gasparrinia rubelliana (Ach.) Verseghy SPECIES
 
 #### Status
 ACCEPTED

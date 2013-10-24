@@ -1,5 +1,4 @@
-Cryptomyces rubiae (Mont.) Sacc. SPECIES
-=======
+# Cryptomyces rubiae (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

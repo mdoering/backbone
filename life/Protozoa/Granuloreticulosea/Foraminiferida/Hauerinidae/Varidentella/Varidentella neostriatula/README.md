@@ -1,8 +1,7 @@
-Quinqueloculina neostriatula Thalmann, 1950 SPECIES
-=======
+# Varidentella neostriatula (Thalmann, 1950) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

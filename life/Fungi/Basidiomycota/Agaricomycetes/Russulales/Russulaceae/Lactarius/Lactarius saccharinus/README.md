@@ -1,5 +1,4 @@
-Lactarius saccharinus A.E. Johnson SPECIES
-=======
+# Lactarius saccharinus A.E. Johnson SPECIES
 
 #### Status
 ACCEPTED

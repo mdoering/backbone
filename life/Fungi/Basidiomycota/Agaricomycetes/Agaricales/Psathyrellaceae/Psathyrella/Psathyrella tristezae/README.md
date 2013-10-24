@@ -1,5 +1,4 @@
-Psathyrella tristezae Raithelh. SPECIES
-=======
+# Psathyrella tristezae Raithelh. SPECIES
 
 #### Status
 ACCEPTED

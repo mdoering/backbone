@@ -1,5 +1,4 @@
-Mycoblastus talcophilus SPECIES
-=======
+# Mycoblastus talcophilus SPECIES
 
 #### Status
 ACCEPTED

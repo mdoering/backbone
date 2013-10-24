@@ -1,5 +1,4 @@
-Heterodermia namaquana Brusse SPECIES
-=======
+# Heterodermia namaquana Brusse SPECIES
 
 #### Status
 ACCEPTED

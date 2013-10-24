@@ -1,14 +1,13 @@
-Entomophthora phytonomi Arthur, 1886 SPECIES
-=======
+# Zoophthora phytonomi (Arthur) A. Batko, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin Acad. Polonaise Sci. , Math. et Nat. , Sér. B 12: 404 (1964)
 
 #### Original name
 Entomophthora phytonomi Arthur, 1886

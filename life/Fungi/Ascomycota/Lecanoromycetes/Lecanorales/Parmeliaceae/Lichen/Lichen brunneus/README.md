@@ -1,5 +1,4 @@
-Lichen brunneus J.F. Gmel. SPECIES
-=======
+# Lichen brunneus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

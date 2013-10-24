@@ -1,5 +1,4 @@
-Hydnum sanguineum Beeli SPECIES
-=======
+# Hydnum sanguineum Beeli SPECIES
 
 #### Status
 ACCEPTED

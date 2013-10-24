@@ -1,5 +1,4 @@
-Pseudocercospora cynometrae Deighton SPECIES
-=======
+# Pseudocercospora cynometrae Deighton SPECIES
 
 #### Status
 ACCEPTED

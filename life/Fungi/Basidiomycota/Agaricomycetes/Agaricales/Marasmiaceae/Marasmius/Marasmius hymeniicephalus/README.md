@@ -1,5 +1,4 @@
-Marasmius hymeniicephalus (Speg.) Singer SPECIES
-=======
+# Marasmius hymeniicephalus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

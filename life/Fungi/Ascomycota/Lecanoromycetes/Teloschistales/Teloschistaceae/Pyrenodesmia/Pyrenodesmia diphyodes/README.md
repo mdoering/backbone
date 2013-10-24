@@ -1,5 +1,4 @@
-Pyrenodesmia diphyodes (Nyl.) M. Choisy SPECIES
-=======
+# Pyrenodesmia diphyodes (Nyl.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

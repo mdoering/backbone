@@ -1,5 +1,4 @@
-Ichthyolaria GENUS
-=======
+# Ichthyolaria GENUS
 
 #### Status
 ACCEPTED

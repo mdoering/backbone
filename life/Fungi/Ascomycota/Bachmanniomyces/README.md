@@ -1,5 +1,4 @@
-Bachmanniomyces D. Hawksw. GENUS
-=======
+# Bachmanniomyces D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

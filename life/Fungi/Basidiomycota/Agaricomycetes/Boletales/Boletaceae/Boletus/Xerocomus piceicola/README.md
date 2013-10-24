@@ -1,5 +1,4 @@
-Xerocomus piceicola M. Zang & M.S. Yuan SPECIES
-=======
+# Xerocomus piceicola M. Zang & M.S. Yuan SPECIES
 
 #### Status
 ACCEPTED

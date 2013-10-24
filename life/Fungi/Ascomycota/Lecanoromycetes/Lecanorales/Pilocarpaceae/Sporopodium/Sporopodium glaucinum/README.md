@@ -1,5 +1,4 @@
-Sporopodium glaucinum var. glaucinum VARIETY
-=======
+# Sporopodium glaucinum Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Acad. Sci. fenn. , Ser. A 15: 92 (1921)
 
 #### Original name
-Sporopodium glaucinum var. glaucinum
+Sporopodium glaucinum Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gymnosporium lateritium Berk. & Broome SPECIES
-=======
+# Gymnosporium lateritium Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

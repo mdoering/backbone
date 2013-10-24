@@ -1,5 +1,4 @@
-Bulimina rostrata Brady SPECIES
-=======
+# Bulimina rostrata Brady SPECIES
 
 #### Status
 ACCEPTED

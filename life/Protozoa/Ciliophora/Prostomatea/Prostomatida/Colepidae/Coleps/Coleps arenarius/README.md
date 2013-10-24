@@ -1,5 +1,4 @@
-Coleps arenarius Bock, 1952 SPECIES
-=======
+# Coleps arenarius Bock, 1952 SPECIES
 
 #### Status
 ACCEPTED

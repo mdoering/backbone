@@ -1,5 +1,4 @@
-Rhodophyllus perbrevisporus Singer SPECIES
-=======
+# Rhodophyllus perbrevisporus Singer SPECIES
 
 #### Status
 ACCEPTED

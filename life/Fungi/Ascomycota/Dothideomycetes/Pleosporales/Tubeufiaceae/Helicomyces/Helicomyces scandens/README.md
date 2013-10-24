@@ -1,5 +1,4 @@
-Helicomyces scandens Morgan, 1892 SPECIES
-=======
+# Helicomyces scandens Morgan, 1892 SPECIES
 
 #### Status
 ACCEPTED

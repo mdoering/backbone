@@ -1,5 +1,4 @@
-Cercospora cotini Katsuki & Ts. Kobay. SPECIES
-=======
+# Cercospora cotini Katsuki & Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

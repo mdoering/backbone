@@ -1,5 +1,4 @@
-Lepiota violaceovelutina Beeli SPECIES
-=======
+# Lepiota violaceovelutina Beeli SPECIES
 
 #### Status
 ACCEPTED

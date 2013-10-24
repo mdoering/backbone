@@ -1,5 +1,4 @@
-Exochosphaeridium reticulatum K. Matsuoka SPECIES
-=======
+# Exochosphaeridium reticulatum K. Matsuoka SPECIES
 
 #### Status
 ACCEPTED

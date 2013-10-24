@@ -1,5 +1,4 @@
-Bolivina hastata SPECIES
-=======
+# Bolivina hastata SPECIES
 
 #### Status
 ACCEPTED

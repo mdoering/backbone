@@ -1,5 +1,4 @@
-Septoria phylloptosica Cif. SPECIES
-=======
+# Septoria phylloptosica Cif. SPECIES
 
 #### Status
 ACCEPTED

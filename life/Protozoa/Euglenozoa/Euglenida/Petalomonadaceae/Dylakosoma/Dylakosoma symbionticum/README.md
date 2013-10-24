@@ -1,5 +1,4 @@
-Dylakosoma symbionticum var. valens Skuja VARIETY
-=======
+# Dylakosoma symbionticum (Tschermak-Woes) Skuja SPECIES
 
 #### Status
 ACCEPTED

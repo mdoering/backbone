@@ -1,17 +1,16 @@
-Aloysiella ruwensorensis Matt. & Sacc. SPECIES
-=======
+# Aloysiella ruwenzorensis Matt. & Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annali Bot. , Roma (1908)
 
 #### Original name
-Aloysiella ruwensorensis Matt. & Sacc.
+Aloysiella ruwenzorensis Matt. & Sacc.
 
 ### Remarks
 null

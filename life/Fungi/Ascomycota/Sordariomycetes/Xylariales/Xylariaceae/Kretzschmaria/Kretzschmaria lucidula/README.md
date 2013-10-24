@@ -1,14 +1,13 @@
-Hypoxylon lucidulum Mont., 1840 SPECIES
-=======
+# Kretzschmaria lucidula (Mont.) Dennis, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 13: 354 (1840)
+Kew Bull. , Addit. Ser. 3: 300 (1970)
 
 #### Original name
 Hypoxylon lucidulum Mont., 1840

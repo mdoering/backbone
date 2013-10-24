@@ -1,5 +1,4 @@
-Hemileia gardeniae-thunbergiae (Henn.) Maubl. & Roger SPECIES
-=======
+# Hemileia gardeniae-thunbergiae (Henn.) Maubl. & Roger SPECIES
 
 #### Status
 ACCEPTED

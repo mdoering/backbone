@@ -1,5 +1,4 @@
-Illosporium sanguineum Preuss SPECIES
-=======
+# Illosporium sanguineum Preuss SPECIES
 
 #### Status
 ACCEPTED

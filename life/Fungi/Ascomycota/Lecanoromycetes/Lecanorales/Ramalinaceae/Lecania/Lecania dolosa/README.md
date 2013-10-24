@@ -1,5 +1,4 @@
-Lecania dolosa (Duby) Jatta SPECIES
-=======
+# Lecania dolosa (Duby) Jatta SPECIES
 
 #### Status
 ACCEPTED

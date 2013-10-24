@@ -1,5 +1,4 @@
-Marasmius linderi Singer SPECIES
-=======
+# Marasmius linderi Singer SPECIES
 
 #### Status
 ACCEPTED

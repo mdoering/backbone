@@ -1,5 +1,4 @@
-Cultellothrix paucistriata Foissner & Xu, 2007 SPECIES
-=======
+# Cultellothrix paucistriata Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

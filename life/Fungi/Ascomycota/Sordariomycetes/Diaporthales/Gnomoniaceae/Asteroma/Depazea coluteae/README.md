@@ -1,5 +1,4 @@
-Depazea coluteae Fiedl. SPECIES
-=======
+# Depazea coluteae Fiedl. SPECIES
 
 #### Status
 ACCEPTED

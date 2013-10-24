@@ -1,5 +1,4 @@
-Cercosporella justiciae S. Ahmad SPECIES
-=======
+# Cercosporella justiciae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

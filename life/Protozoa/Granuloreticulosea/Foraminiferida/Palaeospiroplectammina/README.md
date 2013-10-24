@@ -1,5 +1,4 @@
-Palaeospiroplectammina Lipina, 1965 GENUS
-=======
+# Palaeospiroplectammina Lipina, 1965 GENUS
 
 #### Status
 ACCEPTED

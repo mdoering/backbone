@@ -1,5 +1,4 @@
-Mycosphaerella aloës Syd. SPECIES
-=======
+# Mycosphaerella aloës Syd. SPECIES
 
 #### Status
 ACCEPTED

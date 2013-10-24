@@ -1,5 +1,4 @@
-Cordyceps dimeropoda Syd. SPECIES
-=======
+# Cordyceps dimeropoda Syd. SPECIES
 
 #### Status
 ACCEPTED

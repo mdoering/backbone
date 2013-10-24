@@ -1,14 +1,13 @@
-Licea pusilla var. pygmaea Meyl. VARIETY
-=======
+# Licea pygmaea (Meyl.) Ing, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin Soc. Vaud. Sci. Nat. 58: 89 (1933)
+Trans. Br. mycol. Soc. 78(3): 443 (1982)
 
 #### Original name
 Licea pusilla var. pygmaea Meyl.

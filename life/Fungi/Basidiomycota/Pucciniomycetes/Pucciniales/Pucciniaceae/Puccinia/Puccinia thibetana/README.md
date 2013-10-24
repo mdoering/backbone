@@ -1,5 +1,4 @@
-Puccinia thibetana J.Y. Zhuang SPECIES
-=======
+# Puccinia thibetana J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

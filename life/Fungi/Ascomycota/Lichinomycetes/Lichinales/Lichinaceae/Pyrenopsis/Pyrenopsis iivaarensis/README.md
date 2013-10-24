@@ -1,5 +1,4 @@
-Pyrenopsis iivaarensis Vain. SPECIES
-=======
+# Pyrenopsis iivaarensis Vain. SPECIES
 
 #### Status
 ACCEPTED

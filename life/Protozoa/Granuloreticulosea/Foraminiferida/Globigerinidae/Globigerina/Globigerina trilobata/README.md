@@ -1,5 +1,4 @@
-Globigerina trilobata Reuss SPECIES
-=======
+# Globigerina trilobata Reuss SPECIES
 
 #### Status
 ACCEPTED

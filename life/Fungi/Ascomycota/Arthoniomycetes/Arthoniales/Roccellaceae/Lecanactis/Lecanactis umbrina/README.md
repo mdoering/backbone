@@ -1,5 +1,4 @@
-Lecanactis umbrina Coppins & P. James SPECIES
-=======
+# Lecanactis umbrina Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

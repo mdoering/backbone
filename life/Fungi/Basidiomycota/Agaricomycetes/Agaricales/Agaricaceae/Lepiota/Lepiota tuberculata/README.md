@@ -1,5 +1,4 @@
-Lepiota tuberculata (F. Brig.) Sacc. SPECIES
-=======
+# Lepiota tuberculata (F. Brig.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

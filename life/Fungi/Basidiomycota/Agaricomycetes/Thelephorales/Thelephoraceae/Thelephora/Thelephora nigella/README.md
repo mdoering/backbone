@@ -1,5 +1,4 @@
-Thelephora nigella Mont. SPECIES
-=======
+# Thelephora nigella Mont. SPECIES
 
 #### Status
 ACCEPTED

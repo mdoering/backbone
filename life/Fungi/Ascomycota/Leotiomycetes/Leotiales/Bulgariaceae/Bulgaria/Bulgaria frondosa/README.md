@@ -1,5 +1,4 @@
-Bulgaria frondosa Kobayasi SPECIES
-=======
+# Bulgaria frondosa Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phaeolimacium Henn. GENUS
-=======
+# Oudemansiella Spegazzini, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Warburg, Monsunia 1: 14 (1899)
+Anal. Soc. cient. argent. 12: 24 (1881)
 
 #### Original name
-Phaeolimacium Henn.
+Oudemansiella Spegazzini, 1881
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dicaeoma habenariae (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma habenariae (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

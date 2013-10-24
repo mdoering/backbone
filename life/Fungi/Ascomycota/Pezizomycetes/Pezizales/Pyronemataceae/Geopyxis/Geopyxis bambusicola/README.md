@@ -1,5 +1,4 @@
-Geopyxis bambusicola Henn. SPECIES
-=======
+# Geopyxis bambusicola Henn. SPECIES
 
 #### Status
 ACCEPTED

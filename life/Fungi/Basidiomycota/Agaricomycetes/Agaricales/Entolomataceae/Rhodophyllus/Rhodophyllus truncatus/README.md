@@ -1,5 +1,4 @@
-Rhodophyllus truncatus Romagn. SPECIES
-=======
+# Rhodophyllus truncatus Romagn. SPECIES
 
 #### Status
 ACCEPTED

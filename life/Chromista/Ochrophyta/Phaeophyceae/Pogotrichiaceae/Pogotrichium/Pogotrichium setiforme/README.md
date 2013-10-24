@@ -1,5 +1,4 @@
-Pogotrichium setiforme (Rosenvinge) P.M. Pedersen, 1978 SPECIES
-=======
+# Pogotrichium setiforme (Rosenvinge) P.M. Pedersen, 1978 SPECIES
 
 #### Status
 ACCEPTED

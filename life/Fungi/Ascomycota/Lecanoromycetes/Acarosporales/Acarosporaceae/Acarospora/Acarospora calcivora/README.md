@@ -1,5 +1,4 @@
-Acarospora calcivora SPECIES
-=======
+# Acarospora calcivora SPECIES
 
 #### Status
 ACCEPTED

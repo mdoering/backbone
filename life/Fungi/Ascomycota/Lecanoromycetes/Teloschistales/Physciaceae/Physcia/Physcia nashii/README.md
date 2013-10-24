@@ -1,5 +1,4 @@
-Physcia nashii Moberg SPECIES
-=======
+# Physcia nashii Moberg SPECIES
 
 #### Status
 ACCEPTED

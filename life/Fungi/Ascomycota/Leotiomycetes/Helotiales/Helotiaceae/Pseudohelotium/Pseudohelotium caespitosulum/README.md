@@ -1,5 +1,4 @@
-Pseudohelotium caespitosulum (Bres.) Sacc. SPECIES
-=======
+# Pseudohelotium caespitosulum (Bres.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

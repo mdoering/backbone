@@ -1,5 +1,4 @@
-Hapsidomyces venezuelensis J.C. Krug & Jeng, 1984 SPECIES
-=======
+# Hapsidomyces venezuelensis J.C. Krug & Jeng, 1984 SPECIES
 
 #### Status
 ACCEPTED

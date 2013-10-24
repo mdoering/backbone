@@ -1,5 +1,4 @@
-Arachnocorallium calvata Petrushevskaya, 1971 SPECIES
-=======
+# Arachnocorallium calvata Petrushevskaya, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monandromyces R.K. Benj. GENUS
-=======
+# Monandromyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

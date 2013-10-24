@@ -1,5 +1,4 @@
-Lepiota fulvastra Berk. & M.A. Curtis SPECIES
-=======
+# Lepiota fulvastra Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

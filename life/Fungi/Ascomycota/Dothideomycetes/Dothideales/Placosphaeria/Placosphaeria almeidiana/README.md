@@ -1,5 +1,4 @@
-Placosphaeria almeidiana Sousa da Câmara SPECIES
-=======
+# Placosphaeria almeidiana Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

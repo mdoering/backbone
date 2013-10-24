@@ -1,5 +1,4 @@
-Spilosticta syringae (Syd.) Petr. SPECIES
-=======
+# Spilosticta syringae (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

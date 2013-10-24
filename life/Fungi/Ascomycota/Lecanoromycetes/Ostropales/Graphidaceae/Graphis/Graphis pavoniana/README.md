@@ -1,5 +1,4 @@
-Graphis pavoniana Fée SPECIES
-=======
+# Graphis pavoniana Fée SPECIES
 
 #### Status
 ACCEPTED

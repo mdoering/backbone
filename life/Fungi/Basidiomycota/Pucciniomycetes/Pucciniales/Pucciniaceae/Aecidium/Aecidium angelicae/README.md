@@ -1,5 +1,4 @@
-Aecidium angelicae Rostr. SPECIES
-=======
+# Aecidium angelicae Rostr. SPECIES
 
 #### Status
 ACCEPTED

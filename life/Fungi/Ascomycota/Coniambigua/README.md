@@ -1,5 +1,4 @@
-Coniambigua Etayo & Diederich GENUS
-=======
+# Coniambigua Etayo & Diederich GENUS
 
 #### Status
 ACCEPTED

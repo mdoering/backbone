@@ -1,5 +1,4 @@
-Boletus jocosus Corner SPECIES
-=======
+# Boletus jocosus Corner SPECIES
 
 #### Status
 ACCEPTED

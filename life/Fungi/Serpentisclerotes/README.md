@@ -1,5 +1,4 @@
-Serpentisclerotes Bene GENUS
-=======
+# Serpentisclerotes Bene GENUS
 
 #### Status
 ACCEPTED

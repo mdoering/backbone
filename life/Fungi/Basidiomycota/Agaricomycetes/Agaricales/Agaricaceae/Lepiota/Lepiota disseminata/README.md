@@ -1,5 +1,4 @@
-Lepiota disseminata E. Horak SPECIES
-=======
+# Lepiota disseminata E. Horak SPECIES
 
 #### Status
 ACCEPTED

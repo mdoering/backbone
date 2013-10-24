@@ -1,5 +1,4 @@
-Clavaria leucoporphyria Singer SPECIES
-=======
+# Clavaria leucoporphyria Singer SPECIES
 
 #### Status
 ACCEPTED

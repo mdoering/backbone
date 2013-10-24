@@ -1,5 +1,4 @@
-Hendersonia pseudacaciae Ellis & Barthol. SPECIES
-=======
+# Hendersonia pseudacaciae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

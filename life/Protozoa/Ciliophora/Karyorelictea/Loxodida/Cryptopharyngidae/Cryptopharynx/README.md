@@ -1,5 +1,4 @@
-Cryptopharynx Kahl, 1928 GENUS
-=======
+# Cryptopharynx Kahl, 1928 GENUS
 
 #### Status
 ACCEPTED

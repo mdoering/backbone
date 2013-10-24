@@ -1,14 +1,13 @@
-Hendersonia lophiostoma Cooke & Ellis, 1878 SPECIES
-=======
+# Stagonospora lophiostoma (Cooke & Ellis) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea pl. 95, fig. 10 (1878)
+Syll. fung. (Abellini) 3: 449 (1884)
 
 #### Original name
 Hendersonia lophiostoma Cooke & Ellis, 1878

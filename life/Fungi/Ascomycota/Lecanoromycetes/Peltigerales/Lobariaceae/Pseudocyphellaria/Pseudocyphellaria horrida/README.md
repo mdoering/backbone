@@ -1,5 +1,4 @@
-Pseudocyphellaria horrida (Hue) I.M. Lamb SPECIES
-=======
+# Pseudocyphellaria horrida (Hue) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglena obtusa-claudata I. Kisselev SPECIES
-=======
+# Euglena obtusa-claudata I. Kisselev SPECIES
 
 #### Status
 ACCEPTED

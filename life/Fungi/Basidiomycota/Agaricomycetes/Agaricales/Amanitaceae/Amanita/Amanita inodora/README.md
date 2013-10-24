@@ -1,5 +1,4 @@
-Amanita inodora (Murrill) Bas SPECIES
-=======
+# Amanita inodora (Murrill) Bas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria bruneriana Seaver SPECIES
-=======
+# Xylaria bruneriana Seaver SPECIES
 
 #### Status
 ACCEPTED

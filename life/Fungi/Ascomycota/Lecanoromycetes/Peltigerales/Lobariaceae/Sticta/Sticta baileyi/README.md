@@ -1,5 +1,4 @@
-Sticta baileyi D. J. Galloway SPECIES
-=======
+# Sticta baileyi D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

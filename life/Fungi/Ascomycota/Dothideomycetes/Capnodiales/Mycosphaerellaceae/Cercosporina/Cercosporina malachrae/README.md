@@ -1,5 +1,4 @@
-Cercosporina malachrae (Heald & F.A. Wolf) Sacc. SPECIES
-=======
+# Cercosporina malachrae (Heald & F.A. Wolf) Sacc. SPECIES
 
 #### Status
 ACCEPTED

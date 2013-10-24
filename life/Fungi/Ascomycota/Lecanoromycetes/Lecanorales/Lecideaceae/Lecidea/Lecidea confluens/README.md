@@ -1,17 +1,16 @@
-Lecidea confluens var. confluens VARIETY
-=======
+# Lecidea confluens (Weber) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Method. Lich. 14 (1803)
 
 #### Original name
-Lecidea confluens var. confluens
+Blastenia confluens Müll. Arg.
 
 ### Remarks
 null

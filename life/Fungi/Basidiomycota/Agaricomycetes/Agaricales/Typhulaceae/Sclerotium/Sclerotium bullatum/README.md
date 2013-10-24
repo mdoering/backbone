@@ -1,5 +1,4 @@
-Sclerotium bullatum DC., 1815 SPECIES
-=======
+# Sclerotium bullatum DC., 1815 SPECIES
 
 #### Status
 ACCEPTED

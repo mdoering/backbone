@@ -1,5 +1,4 @@
-Parmelia djalonensis Abbayes SPECIES
-=======
+# Parmelia djalonensis Abbayes SPECIES
 
 #### Status
 ACCEPTED

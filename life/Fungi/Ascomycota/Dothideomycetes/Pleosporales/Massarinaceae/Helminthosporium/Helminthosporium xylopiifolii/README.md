@@ -1,17 +1,16 @@
-Helminthosporium xylopifolii Bat. SPECIES
-=======
+# Helminthosporium xylopiifolii Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atas Inst. Micol. Univ. Recife 1: 261 (1960)
 
 #### Original name
-Helminthosporium xylopifolii Bat.
+Helminthosporium xylopiifolii Bat.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Vannella Bovee, 1965 GENUS
-=======
+# Vannella Bovee, 1965 GENUS
 
 #### Status
 ACCEPTED

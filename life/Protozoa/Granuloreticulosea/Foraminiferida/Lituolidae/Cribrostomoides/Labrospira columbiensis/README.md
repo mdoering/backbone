@@ -1,5 +1,4 @@
-Haplophragmoides columbiensis var. evolutum Cushman & McCulloch, 1939 VARIETY
-=======
+# Labrospira columbiensis (Cushman, 1925) SPECIES
 
 #### Status
 DOUBTFUL

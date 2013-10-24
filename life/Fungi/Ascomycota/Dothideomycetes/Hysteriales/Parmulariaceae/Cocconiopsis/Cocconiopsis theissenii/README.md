@@ -1,14 +1,13 @@
-Cocconiopsis theisseni (Rick) G. Arnaud SPECIES
-=======
+# Cocconiopsis theissenii (Rick) G. Arnaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annals d'École National d'Agric. de Montpellier, N. S. 16: 113 (1918)
 
 #### Original name
 Scolecopeltis theissenii Rick

@@ -1,14 +1,13 @@
-Trechispora pallidoaurantiaca Gilb. & Budington, 1970 SPECIES
-=======
+# Tomentellopsis pallidoaurantiaca (Gilb. & Budington) K.H. Larss. ex Ginns & M.N.L. Lefebvre, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 62(4): 677 (1970)
+Mycol. Mem. 19: 166 (1993)
 
 #### Original name
 Trechispora pallidoaurantiaca Gilb. & Budington, 1970

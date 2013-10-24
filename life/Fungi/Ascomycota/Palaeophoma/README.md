@@ -1,5 +1,4 @@
-Palaeophoma Singhai GENUS
-=======
+# Palaeophoma Singhai GENUS
 
 #### Status
 ACCEPTED

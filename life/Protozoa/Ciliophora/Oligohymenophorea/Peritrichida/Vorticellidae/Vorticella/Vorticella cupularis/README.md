@@ -1,5 +1,4 @@
-Vorticella cupularis Dumas, 1929 SPECIES
-=======
+# Vorticella cupularis Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

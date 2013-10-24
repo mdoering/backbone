@@ -1,14 +1,13 @@
-Dictyochaeta menisporoides Hol.-Jech., 1984 SPECIES
-=======
+# Dictyochaetopsis menisporoides (Hol.-Jech.) Aramb. & Cabello, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Folia geobot. phytotax. 19(4): 430 (1984)
+Mycotaxon 38: 13 (1990)
 
 #### Original name
 Dictyochaeta menisporoides Hol.-Jech., 1984

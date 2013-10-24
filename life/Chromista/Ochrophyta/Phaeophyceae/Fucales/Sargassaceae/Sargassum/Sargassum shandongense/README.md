@@ -1,5 +1,4 @@
-Sargassum shandongense f. linearium Tseng, Zhang & Lu FORM
-=======
+# Sargassum shandongense Tseng, Zhang & Lu SPECIES
 
 #### Status
 ACCEPTED

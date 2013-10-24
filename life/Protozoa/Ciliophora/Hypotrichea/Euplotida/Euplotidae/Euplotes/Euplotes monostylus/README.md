@@ -1,5 +1,4 @@
-Euplotes monostylus Ehrenberg, 1838 SPECIES
-=======
+# Euplotes monostylus Ehrenberg, 1838 SPECIES
 
 #### Status
 ACCEPTED

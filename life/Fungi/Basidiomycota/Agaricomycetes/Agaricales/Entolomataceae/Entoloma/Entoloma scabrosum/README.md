@@ -1,14 +1,13 @@
-Agaricus scabrosus Fr., 1838 SPECIES
-=======
+# Entoloma scabrosum (Fr.) Noordel., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 154 (1838)
+Persoonia 12(4): 462 (1985)
 
 #### Original name
 Agaricus scabrosus Fr., 1838

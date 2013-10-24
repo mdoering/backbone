@@ -1,5 +1,4 @@
-Squamaria centrifuga Hoffm. SPECIES
-=======
+# Squamaria centrifuga Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lloydia coffeata Bres. SPECIES
-=======
+# Lloydia coffeata Bres. SPECIES
 
 #### Status
 ACCEPTED

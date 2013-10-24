@@ -1,5 +1,4 @@
-Asteroma cliviae Politis SPECIES
-=======
+# Asteroma cliviae Politis SPECIES
 
 #### Status
 ACCEPTED

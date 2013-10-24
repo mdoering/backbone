@@ -1,5 +1,4 @@
-Streptomyces koyangensis Lee et al., 2005 SPECIES
-=======
+# Streptomyces koyangensis Lee et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

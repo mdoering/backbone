@@ -1,5 +1,4 @@
-Verrucaria heppii (Nägeli) Garov. SPECIES
-=======
+# Verrucaria heppii (Nägeli) Garov. SPECIES
 
 #### Status
 ACCEPTED

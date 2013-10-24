@@ -1,5 +1,4 @@
-Cercophora muskokensis (Cain) N. Lundq. SPECIES
-=======
+# Cercophora muskokensis (Cain) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialocephala humicola S.C. Jong & E.E. Davis, 1973 SPECIES
-=======
+# Phialocephala humicola S.C. Jong & E.E. Davis, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynesporasca Sivan. GENUS
-=======
+# Corynesporasca Sivan. GENUS
 
 #### Status
 ACCEPTED

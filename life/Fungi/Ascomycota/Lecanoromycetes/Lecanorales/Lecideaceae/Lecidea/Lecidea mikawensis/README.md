@@ -1,5 +1,4 @@
-Lecidea mikawensis Asahina SPECIES
-=======
+# Lecidea mikawensis Asahina SPECIES
 
 #### Status
 ACCEPTED

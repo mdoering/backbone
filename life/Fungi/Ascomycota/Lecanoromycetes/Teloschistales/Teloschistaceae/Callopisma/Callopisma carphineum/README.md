@@ -1,5 +1,4 @@
-Callopisma carphineum (Fr.) Trevis. SPECIES
-=======
+# Callopisma carphineum (Fr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

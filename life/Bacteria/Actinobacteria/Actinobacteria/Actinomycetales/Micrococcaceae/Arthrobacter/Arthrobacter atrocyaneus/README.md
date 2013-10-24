@@ -1,5 +1,4 @@
-Arthrobacter atrocyaneus Kuhn and Starr, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Arthrobacter atrocyaneus Kuhn and Starr, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physcia ciliata f. ciliata FORM
-=======
+# Phaeophyscia ciliata (Hoffm.) Moberg SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 15: 168 (1921)
+Symb. bot. upsal. 22(no. 1): 30 (1977)
 
 #### Original name
-Physcia ciliata f. ciliata
+Lichen ciliatus Hoffm.
 
 ### Remarks
 null

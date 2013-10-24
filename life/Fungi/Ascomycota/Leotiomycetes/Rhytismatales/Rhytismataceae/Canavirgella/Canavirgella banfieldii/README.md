@@ -1,5 +1,4 @@
-Canavirgella banfieldii W. Merr., N.G. Wenner & Dreisbach, 1996 SPECIES
-=======
+# Canavirgella banfieldii W. Merr., N.G. Wenner & Dreisbach, 1996 SPECIES
 
 #### Status
 ACCEPTED

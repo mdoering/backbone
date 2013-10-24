@@ -1,5 +1,4 @@
-Gelineostroma H.J. Swart GENUS
-=======
+# Gelineostroma H.J. Swart GENUS
 
 #### Status
 ACCEPTED

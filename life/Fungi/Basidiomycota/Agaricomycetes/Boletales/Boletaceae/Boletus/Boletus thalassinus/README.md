@@ -1,5 +1,4 @@
-Boletus thalassinus (Pilát & Dermek) Hlavácek SPECIES
-=======
+# Boletus thalassinus (Pilát & Dermek) Hlavácek SPECIES
 
 #### Status
 ACCEPTED

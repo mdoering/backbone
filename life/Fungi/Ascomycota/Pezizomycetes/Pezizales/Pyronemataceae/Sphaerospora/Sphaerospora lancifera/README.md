@@ -1,5 +1,4 @@
-Sphaerospora lancifera (Hazsl.) Sacc. SPECIES
-=======
+# Sphaerospora lancifera (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

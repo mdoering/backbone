@@ -1,5 +1,4 @@
-Nodosaria albatrossi Cushman SPECIES
-=======
+# Nodosaria albatrossi Cushman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia anglica Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia anglica Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

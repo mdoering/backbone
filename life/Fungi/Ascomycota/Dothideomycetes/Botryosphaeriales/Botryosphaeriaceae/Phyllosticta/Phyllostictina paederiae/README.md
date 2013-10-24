@@ -1,5 +1,4 @@
-Phyllostictina paederiae Petr. SPECIES
-=======
+# Phyllostictina paederiae Petr. SPECIES
 
 #### Status
 ACCEPTED

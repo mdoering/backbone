@@ -1,8 +1,7 @@
-Chorda filum f. subtomentosa (Areschoug) Kjellman FORM
-=======
+# Chorda filum (Linnaeus) Stackhouse SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Septobasidium triviale Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium triviale Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

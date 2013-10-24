@@ -1,5 +1,4 @@
-Trichopeziza subochracea (Cooke & Peck) Sacc. SPECIES
-=======
+# Trichopeziza subochracea (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

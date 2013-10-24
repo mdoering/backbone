@@ -1,5 +1,4 @@
-Rinodina romeana SPECIES
-=======
+# Rinodina romeana SPECIES
 
 #### Status
 ACCEPTED

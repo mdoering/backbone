@@ -1,5 +1,4 @@
-Thalassiosira baldaufii P. Bodén SPECIES
-=======
+# Thalassiosira baldaufii P. Bodén SPECIES
 
 #### Status
 ACCEPTED

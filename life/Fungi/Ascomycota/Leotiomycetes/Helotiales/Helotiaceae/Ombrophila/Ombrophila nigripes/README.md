@@ -1,17 +1,16 @@
-Helotium nigripes var. cellare Alb. & Schwein. VARIETY
-=======
+# Ombrophila nigripes (Pers.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Helotium nigripes var. cellare Alb. & Schwein.
+null
 
 ### Remarks
 null

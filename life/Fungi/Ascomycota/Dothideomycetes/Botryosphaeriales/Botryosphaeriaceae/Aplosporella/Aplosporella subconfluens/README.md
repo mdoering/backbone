@@ -1,5 +1,4 @@
-Aplosporella subconfluens (Fairm.) Petr. & Syd. SPECIES
-=======
+# Aplosporella subconfluens (Fairm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

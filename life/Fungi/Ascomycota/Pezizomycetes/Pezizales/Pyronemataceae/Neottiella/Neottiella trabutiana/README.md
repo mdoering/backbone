@@ -1,5 +1,4 @@
-Neottiella trabutiana Pat. SPECIES
-=======
+# Neottiella trabutiana Pat. SPECIES
 
 #### Status
 ACCEPTED

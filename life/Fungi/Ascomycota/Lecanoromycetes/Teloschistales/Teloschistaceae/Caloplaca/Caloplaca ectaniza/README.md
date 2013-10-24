@@ -1,5 +1,4 @@
-Caloplaca ectaniza Mereschk. SPECIES
-=======
+# Caloplaca ectaniza Mereschk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deccanodia Singhai GENUS
-=======
+# Deccanodia Singhai GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aranidium obsoletum Jankauskas, 1975 SPECIES
-=======
+# Aranidium obsoletum Jankauskas, 1975 SPECIES
 
 #### Status
 ACCEPTED

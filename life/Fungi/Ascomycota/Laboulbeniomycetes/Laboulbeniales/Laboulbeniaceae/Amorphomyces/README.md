@@ -1,5 +1,4 @@
-Amorphomyces Thaxt. GENUS
-=======
+# Amorphomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

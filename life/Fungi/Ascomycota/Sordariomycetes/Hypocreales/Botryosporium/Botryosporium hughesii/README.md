@@ -1,5 +1,4 @@
-Botryosporium hughesii Vincent & W.H. Blackw. SPECIES
-=======
+# Botryosporium hughesii Vincent & W.H. Blackw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus luteoalbus (Schwein.) Sacc. SPECIES
-=======
+# Dasyscyphus luteoalbus (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

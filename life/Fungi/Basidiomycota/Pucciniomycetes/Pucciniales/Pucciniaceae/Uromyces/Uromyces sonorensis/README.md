@@ -1,5 +1,4 @@
-Uromyces sonorensis J.F. Hennen & Cummins SPECIES
-=======
+# Uromyces sonorensis J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

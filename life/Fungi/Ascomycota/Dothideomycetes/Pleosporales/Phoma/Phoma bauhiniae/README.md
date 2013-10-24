@@ -1,5 +1,4 @@
-Phoma bauhiniae Tassi SPECIES
-=======
+# Phoma bauhiniae Tassi SPECIES
 
 #### Status
 ACCEPTED

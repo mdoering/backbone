@@ -1,5 +1,4 @@
-Microthorax bidentatus Kahl, 1926 SPECIES
-=======
+# Microthorax bidentatus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

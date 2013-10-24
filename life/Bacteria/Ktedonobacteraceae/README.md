@@ -1,5 +1,4 @@
-Ktedonobacteraceae FAMILY
-=======
+# Ktedonobacteraceae FAMILY
 
 #### Status
 ACCEPTED

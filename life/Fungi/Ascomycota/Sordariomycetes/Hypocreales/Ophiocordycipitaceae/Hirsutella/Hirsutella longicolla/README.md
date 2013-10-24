@@ -1,5 +1,4 @@
-Hirsutella longicolla Strongman, E.S. Eveleigh & Royama SPECIES
-=======
+# Hirsutella longicolla Strongman, E.S. Eveleigh & Royama SPECIES
 
 #### Status
 ACCEPTED

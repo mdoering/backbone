@@ -1,5 +1,4 @@
-Chlorociboria awakinoana P.R. Johnst., 2005 SPECIES
-=======
+# Chlorociboria awakinoana P.R. Johnst., 2005 SPECIES
 
 #### Status
 ACCEPTED

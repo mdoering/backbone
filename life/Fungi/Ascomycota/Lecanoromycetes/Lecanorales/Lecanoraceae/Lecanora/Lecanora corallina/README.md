@@ -1,5 +1,4 @@
-Lecanora corallina Hue SPECIES
-=======
+# Lecanora corallina Hue SPECIES
 
 #### Status
 ACCEPTED

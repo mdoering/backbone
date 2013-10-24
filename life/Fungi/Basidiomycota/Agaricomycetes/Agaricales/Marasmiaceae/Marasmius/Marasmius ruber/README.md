@@ -1,5 +1,4 @@
-Marasmius ruber Singer SPECIES
-=======
+# Marasmius ruber Singer SPECIES
 
 #### Status
 ACCEPTED

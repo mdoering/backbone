@@ -1,5 +1,4 @@
-Lophiosphaera orientalis I. Hino & Katum. SPECIES
-=======
+# Lophiosphaera orientalis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

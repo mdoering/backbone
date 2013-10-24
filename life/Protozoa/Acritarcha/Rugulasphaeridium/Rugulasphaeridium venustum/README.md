@@ -1,5 +1,4 @@
-Rugulasphaeridium venustum Bharadwaj et al., 1971 SPECIES
-=======
+# Rugulasphaeridium venustum Bharadwaj et al., 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium escalloniae L.D. Gómez & Kisim.-Hor., 1998 SPECIES
-=======
+# Exobasidium escalloniae L.D. Gómez & Kisim.-Hor., 1998 SPECIES
 
 #### Status
 ACCEPTED

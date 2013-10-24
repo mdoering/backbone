@@ -1,14 +1,13 @@
-Dasyscypha orinocensis (Pat. & Gaillard) Dennis SPECIES
-=======
+# Dasyscyphus orinocensis (Pat. & Gaillard) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 9(2): 307 (1954)
 
 #### Original name
 Erinella orinocensis Pat. & Gaillard

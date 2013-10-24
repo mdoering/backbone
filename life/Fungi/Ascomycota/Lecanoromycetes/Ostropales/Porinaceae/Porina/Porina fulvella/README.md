@@ -1,14 +1,13 @@
-Phylloporina fulvella (Müll. Arg.) Szatala SPECIES
-=======
+# Porina fulvella Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls hist. -nat. Mus. natn. hung. 7: 22 (1956)
+Flora, Jena 66: 335 (1883)
 
 #### Original name
 Porina fulvella Müll. Arg.

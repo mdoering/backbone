@@ -1,5 +1,4 @@
-Udeniomyces pannonicus Niwata, Tornai-Leh., T. Deák & Nakase, 2002 SPECIES
-=======
+# Udeniomyces pannonicus Niwata, Tornai-Leh., T. Deák & Nakase, 2002 SPECIES
 
 #### Status
 ACCEPTED

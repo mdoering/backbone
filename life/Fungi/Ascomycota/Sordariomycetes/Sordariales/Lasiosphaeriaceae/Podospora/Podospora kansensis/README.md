@@ -1,5 +1,4 @@
-Podospora kansensis (Griffiths) Cain SPECIES
-=======
+# Podospora kansensis (Griffiths) Cain SPECIES
 
 #### Status
 ACCEPTED

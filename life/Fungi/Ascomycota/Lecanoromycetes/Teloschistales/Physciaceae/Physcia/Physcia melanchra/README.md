@@ -1,5 +1,4 @@
-Physcia melanchra Hue SPECIES
-=======
+# Physcia melanchra Hue SPECIES
 
 #### Status
 ACCEPTED

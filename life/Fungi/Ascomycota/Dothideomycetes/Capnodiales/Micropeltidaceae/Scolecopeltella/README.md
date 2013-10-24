@@ -1,5 +1,4 @@
-Scolecopeltella GENUS
-=======
+# Scolecopeltella GENUS
 
 #### Status
 ACCEPTED

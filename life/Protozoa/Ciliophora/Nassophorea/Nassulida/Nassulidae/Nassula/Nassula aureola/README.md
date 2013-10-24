@@ -1,5 +1,4 @@
-Nassula aureola SPECIES
-=======
+# Nassula aureola SPECIES
 
 #### Status
 ACCEPTED

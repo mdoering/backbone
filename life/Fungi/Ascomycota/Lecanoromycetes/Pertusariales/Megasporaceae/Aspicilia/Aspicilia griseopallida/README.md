@@ -1,5 +1,4 @@
-Aspicilia griseopallida (Vain.) Vitik., Ahti, Kuusinen, Lommi & T. Ulvinen SPECIES
-=======
+# Aspicilia griseopallida (Vain.) Vitik., Ahti, Kuusinen, Lommi & T. Ulvinen SPECIES
 
 #### Status
 ACCEPTED

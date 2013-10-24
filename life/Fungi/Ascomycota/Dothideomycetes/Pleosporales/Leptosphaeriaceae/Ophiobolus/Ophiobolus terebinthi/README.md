@@ -1,5 +1,4 @@
-Ophiobolus terebinthi (Fabre) Sacc. SPECIES
-=======
+# Ophiobolus terebinthi (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

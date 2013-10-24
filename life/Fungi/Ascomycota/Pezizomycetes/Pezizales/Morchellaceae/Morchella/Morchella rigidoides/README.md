@@ -1,5 +1,4 @@
-Morchella rigidoides R. Heim SPECIES
-=======
+# Morchella rigidoides R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus robustissmus Panizzi SPECIES
-=======
+# Agaricus robustissmus Panizzi SPECIES
 
 #### Status
 ACCEPTED

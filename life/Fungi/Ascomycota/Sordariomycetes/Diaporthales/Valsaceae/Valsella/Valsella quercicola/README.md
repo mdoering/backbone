@@ -1,5 +1,4 @@
-Valsella quercicola Allesch. SPECIES
-=======
+# Valsella quercicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

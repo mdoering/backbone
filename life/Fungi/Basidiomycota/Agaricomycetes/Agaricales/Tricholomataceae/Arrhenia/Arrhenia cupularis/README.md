@@ -1,5 +1,4 @@
-Arrhenia cupularis (Wahlenb.) Fr. SPECIES
-=======
+# Arrhenia cupularis (Wahlenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

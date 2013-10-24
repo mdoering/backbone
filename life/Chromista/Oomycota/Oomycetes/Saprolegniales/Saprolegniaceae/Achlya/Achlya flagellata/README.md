@@ -1,17 +1,16 @@
-Achlya flagellata var. yezoensis S. Ito & Nagai VARIETY
-=======
+# Achlya flagellata Coker, 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Saprolegniaceae with notes on other water molds 116 (1923)
 
 #### Original name
-Achlya flagellata var. yezoensis S. Ito & Nagai
+Achlya flagellata Coker, 1923
 
 ### Remarks
 null

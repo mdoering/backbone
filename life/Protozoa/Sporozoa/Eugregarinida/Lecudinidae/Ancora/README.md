@@ -1,17 +1,16 @@
-Anchorina Mingazzini, 1891 GENUS
-=======
+# Ancora Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+IRMNG Homonym List
 
 #### Published in
-Atti Accad. Lincei, Rend. , (4) 7 (2), 413.
+Tierreich, 5, 47.
 
 #### Original name
-null
+Anchorina Mingazzini, 1891
 
 ### Remarks
 null

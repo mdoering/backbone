@@ -1,5 +1,4 @@
-Roseospirillum Glaeser & Overmann, 2001 GENUS
-=======
+# Roseospirillum Glaeser & Overmann, 2001 GENUS
 
 #### Status
 ACCEPTED

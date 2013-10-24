@@ -1,5 +1,4 @@
-Cudoniella rutilans S. Imai & Minakata SPECIES
-=======
+# Cudoniella rutilans S. Imai & Minakata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Melanomma hendersoniae (Fuckel) Sacc., 1883 SPECIES
-=======
+# Leptosphaeria hendersoniae (Fuckel) L. Holm, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Cucurbitaria hendersoniae Fuckel, 1874
+null
 
 ### Remarks
 null

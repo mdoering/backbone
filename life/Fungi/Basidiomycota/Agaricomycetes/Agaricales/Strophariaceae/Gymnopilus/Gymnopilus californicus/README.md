@@ -1,5 +1,4 @@
-Gymnopilus californicus (Earle) Murrill SPECIES
-=======
+# Gymnopilus californicus (Earle) Murrill SPECIES
 
 #### Status
 ACCEPTED

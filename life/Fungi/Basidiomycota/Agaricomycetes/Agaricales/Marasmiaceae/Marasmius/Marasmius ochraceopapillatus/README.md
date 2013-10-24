@@ -1,5 +1,4 @@
-Marasmius ochraceopapillatus Henn. SPECIES
-=======
+# Marasmius ochraceopapillatus Henn. SPECIES
 
 #### Status
 ACCEPTED

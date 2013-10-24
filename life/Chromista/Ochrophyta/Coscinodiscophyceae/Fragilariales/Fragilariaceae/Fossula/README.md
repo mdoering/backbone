@@ -1,5 +1,4 @@
-Fossula G.R.Hasle, E.E.Syvertsen & C.H.von Quillfeldt, 1996 GENUS
-=======
+# Fossula G.R.Hasle, E.E.Syvertsen & C.H.von Quillfeldt, 1996 GENUS
 
 #### Status
 ACCEPTED

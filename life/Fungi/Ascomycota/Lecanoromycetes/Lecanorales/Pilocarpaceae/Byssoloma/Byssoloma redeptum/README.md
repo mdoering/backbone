@@ -1,5 +1,4 @@
-Byssoloma redeptum SPECIES
-=======
+# Byssoloma redeptum SPECIES
 
 #### Status
 ACCEPTED

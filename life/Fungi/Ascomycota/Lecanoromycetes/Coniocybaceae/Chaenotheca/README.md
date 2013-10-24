@@ -1,17 +1,16 @@
-Eucyphelis Clem. GENUS
-=======
+# Chaenotheca (Th. Fries) Th. Fries, 1860 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 71, 174 (1909)
+Lich. Arctoi 250 (1860)
 
 #### Original name
-Eucyphelis Clem.
+null
 
 ### Remarks
 null

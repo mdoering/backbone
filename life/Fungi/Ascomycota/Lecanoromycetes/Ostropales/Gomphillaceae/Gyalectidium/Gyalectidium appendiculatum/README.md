@@ -1,5 +1,4 @@
-Gyalectidium appendiculatum Lücking & Lendemer SPECIES
-=======
+# Gyalectidium appendiculatum Lücking & Lendemer SPECIES
 
 #### Status
 ACCEPTED

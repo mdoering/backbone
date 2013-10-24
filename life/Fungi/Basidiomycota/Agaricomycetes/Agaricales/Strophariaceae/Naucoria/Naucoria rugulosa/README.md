@@ -1,5 +1,4 @@
-Naucoria rugulosa Rick SPECIES
-=======
+# Naucoria rugulosa Rick SPECIES
 
 #### Status
 ACCEPTED

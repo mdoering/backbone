@@ -1,5 +1,4 @@
-Phyllohendersonia davisii (Ellis & Everh.) Tassi SPECIES
-=======
+# Phyllohendersonia davisii (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

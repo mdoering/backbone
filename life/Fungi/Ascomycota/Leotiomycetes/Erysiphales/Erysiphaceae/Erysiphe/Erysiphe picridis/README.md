@@ -1,5 +1,4 @@
-Erysiphe picridis Castagne SPECIES
-=======
+# Erysiphe picridis Castagne SPECIES
 
 #### Status
 ACCEPTED

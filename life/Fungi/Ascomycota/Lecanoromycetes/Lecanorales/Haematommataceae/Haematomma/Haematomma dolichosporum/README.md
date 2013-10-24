@@ -1,5 +1,4 @@
-Haematomma dolichosporum (B. de Lesd.) Kalb & Staiger SPECIES
-=======
+# Haematomma dolichosporum (B. de Lesd.) Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

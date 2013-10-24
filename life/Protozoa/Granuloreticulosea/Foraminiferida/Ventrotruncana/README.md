@@ -1,5 +1,4 @@
-Ventrotruncana Korchagin, 1993 GENUS
-=======
+# Ventrotruncana Korchagin, 1993 GENUS
 
 #### Status
 ACCEPTED

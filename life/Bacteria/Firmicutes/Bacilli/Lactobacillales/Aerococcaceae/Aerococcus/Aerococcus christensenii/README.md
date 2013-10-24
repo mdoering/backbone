@@ -1,5 +1,4 @@
-Aerococcus christensenii Collins et al., 1999 SPECIES
-=======
+# Aerococcus christensenii Collins et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

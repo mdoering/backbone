@@ -1,5 +1,4 @@
-Pertusaria megapotamica H. Magn. SPECIES
-=======
+# Pertusaria megapotamica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

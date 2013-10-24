@@ -1,5 +1,4 @@
-Conocybe mutabilis Watling SPECIES
-=======
+# Conocybe mutabilis Watling SPECIES
 
 #### Status
 ACCEPTED

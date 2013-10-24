@@ -1,5 +1,4 @@
-Microsphaera sambucicola Henn. SPECIES
-=======
+# Microsphaera sambucicola Henn. SPECIES
 
 #### Status
 ACCEPTED

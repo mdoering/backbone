@@ -1,5 +1,4 @@
-Baggina philippinensis (Cushman) SPECIES
-=======
+# Baggina philippinensis (Cushman) SPECIES
 
 #### Status
 ACCEPTED

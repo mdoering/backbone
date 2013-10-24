@@ -1,5 +1,4 @@
-Lachnum miniatum (Kanouse) M.P. Sharma SPECIES
-=======
+# Lachnum miniatum (Kanouse) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

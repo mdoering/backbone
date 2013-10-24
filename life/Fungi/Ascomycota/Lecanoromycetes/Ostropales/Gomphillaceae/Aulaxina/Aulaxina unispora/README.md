@@ -1,5 +1,4 @@
-Aulaxina unispora Sérus. SPECIES
-=======
+# Aulaxina unispora Sérus. SPECIES
 
 #### Status
 ACCEPTED

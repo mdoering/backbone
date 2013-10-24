@@ -1,5 +1,4 @@
-Calothrix goetzei Schmidle SPECIES
-=======
+# Calothrix goetzei Schmidle SPECIES
 
 #### Status
 ACCEPTED

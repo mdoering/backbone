@@ -1,5 +1,4 @@
-Mucor murinus Pers. SPECIES
-=======
+# Mucor murinus Pers. SPECIES
 
 #### Status
 ACCEPTED

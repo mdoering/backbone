@@ -1,5 +1,4 @@
-Scleroderma olivaceum (Cooke & Massee) Sacc. SPECIES
-=======
+# Scleroderma olivaceum (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

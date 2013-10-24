@@ -1,5 +1,4 @@
-Selenidium vivax Gunderson & Small, 1986 SPECIES
-=======
+# Selenidium vivax Gunderson & Small, 1986 SPECIES
 
 #### Status
 ACCEPTED

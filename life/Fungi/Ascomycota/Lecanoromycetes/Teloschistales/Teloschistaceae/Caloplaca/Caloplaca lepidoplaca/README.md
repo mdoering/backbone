@@ -1,5 +1,4 @@
-Caloplaca lepidoplaca (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca lepidoplaca (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

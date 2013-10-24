@@ -1,14 +1,13 @@
-Stereum strumosum Fr., 1851 SPECIES
-=======
+# Dendrothele strumosa (Fr.) P.A. Lemke, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 111 (1851)
+Persoonia 3(3): 367 (1965)
 
 #### Original name
 Stereum strumosum Fr., 1851

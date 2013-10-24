@@ -1,5 +1,4 @@
-Roseinatronobacter thiooxidans Sorokin et al., 2000 SPECIES
-=======
+# Roseinatronobacter thiooxidans Sorokin et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

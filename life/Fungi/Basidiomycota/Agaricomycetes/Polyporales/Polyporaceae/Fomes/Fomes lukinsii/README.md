@@ -1,5 +1,4 @@
-Fomes lukinsii N. Walters SPECIES
-=======
+# Fomes lukinsii N. Walters SPECIES
 
 #### Status
 ACCEPTED

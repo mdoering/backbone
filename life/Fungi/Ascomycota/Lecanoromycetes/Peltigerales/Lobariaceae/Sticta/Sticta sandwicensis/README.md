@@ -1,5 +1,4 @@
-Sticta sandwicensis SPECIES
-=======
+# Sticta sandwicensis SPECIES
 
 #### Status
 ACCEPTED

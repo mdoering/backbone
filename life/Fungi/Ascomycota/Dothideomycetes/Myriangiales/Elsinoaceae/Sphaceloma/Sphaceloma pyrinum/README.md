@@ -1,5 +1,4 @@
-Sphaceloma pyrinum (Peglion) Jenkins SPECIES
-=======
+# Sphaceloma pyrinum (Peglion) Jenkins SPECIES
 
 #### Status
 ACCEPTED

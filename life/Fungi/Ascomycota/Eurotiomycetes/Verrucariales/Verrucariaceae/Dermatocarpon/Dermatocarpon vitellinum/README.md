@@ -1,5 +1,4 @@
-Dermatocarpon vitellinum Spreng. SPECIES
-=======
+# Dermatocarpon vitellinum Spreng. SPECIES
 
 #### Status
 ACCEPTED

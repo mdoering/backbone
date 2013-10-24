@@ -1,5 +1,4 @@
-Arthonia scitula Kremp. SPECIES
-=======
+# Arthonia scitula Kremp. SPECIES
 
 #### Status
 ACCEPTED

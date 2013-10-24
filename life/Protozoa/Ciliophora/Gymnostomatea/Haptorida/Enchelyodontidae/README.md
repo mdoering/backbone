@@ -1,5 +1,4 @@
-Enchelyodontidae FAMILY
-=======
+# Enchelyodontidae FAMILY
 
 #### Status
 ACCEPTED

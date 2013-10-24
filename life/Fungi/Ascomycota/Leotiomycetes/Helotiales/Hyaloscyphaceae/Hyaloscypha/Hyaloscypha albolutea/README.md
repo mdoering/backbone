@@ -1,5 +1,4 @@
-Hyaloscypha albolutea (Pers.) Velen. SPECIES
-=======
+# Hyaloscypha albolutea (Pers.) Velen. SPECIES
 
 #### Status
 ACCEPTED

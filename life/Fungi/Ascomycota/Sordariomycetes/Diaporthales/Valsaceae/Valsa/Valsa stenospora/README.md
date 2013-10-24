@@ -1,5 +1,4 @@
-Valsa stenospora Tul. & C. Tul. SPECIES
-=======
+# Valsa stenospora Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

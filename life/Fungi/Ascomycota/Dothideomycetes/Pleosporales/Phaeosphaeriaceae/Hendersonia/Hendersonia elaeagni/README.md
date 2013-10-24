@@ -1,5 +1,4 @@
-Hendersonia elaeagni Gucevic SPECIES
-=======
+# Hendersonia elaeagni Gucevic SPECIES
 
 #### Status
 ACCEPTED

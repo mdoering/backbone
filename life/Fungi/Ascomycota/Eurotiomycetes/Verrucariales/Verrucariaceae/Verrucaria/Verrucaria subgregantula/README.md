@@ -1,5 +1,4 @@
-Verrucaria subgregantula (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria subgregantula (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

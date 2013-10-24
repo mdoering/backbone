@@ -1,5 +1,4 @@
-Meliola chelonanthi Hansf. SPECIES
-=======
+# Meliola chelonanthi Hansf. SPECIES
 
 #### Status
 ACCEPTED

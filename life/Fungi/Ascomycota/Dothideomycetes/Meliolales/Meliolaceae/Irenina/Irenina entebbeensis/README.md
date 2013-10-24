@@ -1,5 +1,4 @@
-Irenina entebbeensis Hansf. & F. Stevens SPECIES
-=======
+# Irenina entebbeensis Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED

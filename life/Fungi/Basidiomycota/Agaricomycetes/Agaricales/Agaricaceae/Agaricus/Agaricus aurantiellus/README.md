@@ -1,5 +1,4 @@
-Agaricus aurantiellus Speg. SPECIES
-=======
+# Agaricus aurantiellus Speg. SPECIES
 
 #### Status
 ACCEPTED

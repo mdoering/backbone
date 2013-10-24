@@ -1,5 +1,4 @@
-Phyllosticta cephalanthi Tharp SPECIES
-=======
+# Phyllosticta cephalanthi Tharp SPECIES
 
 #### Status
 ACCEPTED

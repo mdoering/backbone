@@ -1,5 +1,4 @@
-Meliola scott-elliotii Hansf. & Deighton SPECIES
-=======
+# Meliola scott-elliotii Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

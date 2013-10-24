@@ -1,5 +1,4 @@
-Macrosporium baccatum Ellis & Kellerm. SPECIES
-=======
+# Macrosporium baccatum Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

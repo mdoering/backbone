@@ -1,5 +1,4 @@
-Onslowia endophytica Searles SPECIES
-=======
+# Onslowia endophytica Searles SPECIES
 
 #### Status
 ACCEPTED

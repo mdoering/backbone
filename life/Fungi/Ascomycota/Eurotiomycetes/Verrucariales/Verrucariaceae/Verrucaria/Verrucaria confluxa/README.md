@@ -1,5 +1,4 @@
-Verrucaria confluxa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria confluxa (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

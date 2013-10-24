@@ -1,5 +1,4 @@
-Parasclerophoma quercus (Lambotte) Petr. SPECIES
-=======
+# Parasclerophoma quercus (Lambotte) Petr. SPECIES
 
 #### Status
 ACCEPTED

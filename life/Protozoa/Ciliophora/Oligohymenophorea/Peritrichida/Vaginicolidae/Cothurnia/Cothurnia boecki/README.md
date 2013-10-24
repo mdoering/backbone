@@ -1,5 +1,4 @@
-Cothurnia boecki Claparède & Lachmann, 1858 SPECIES
-=======
+# Cothurnia boecki Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

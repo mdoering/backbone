@@ -1,5 +1,4 @@
-Fragilaria mutabilis var. intercedens Grunow VARIETY
-=======
+# Fragilaria mutabilis (W. Smith) Grunow SPECIES
 
 #### Status
 ACCEPTED

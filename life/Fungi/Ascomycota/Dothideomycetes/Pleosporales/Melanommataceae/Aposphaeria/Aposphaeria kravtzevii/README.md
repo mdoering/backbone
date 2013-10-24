@@ -1,5 +1,4 @@
-Aposphaeria kravtzevii Schwarzman SPECIES
-=======
+# Aposphaeria kravtzevii Schwarzman SPECIES
 
 #### Status
 ACCEPTED

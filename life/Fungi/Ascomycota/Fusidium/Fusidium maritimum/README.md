@@ -1,5 +1,4 @@
-Fusidium maritimum G.K. Sutherl. SPECIES
-=======
+# Fusidium maritimum G.K. Sutherl. SPECIES
 
 #### Status
 ACCEPTED

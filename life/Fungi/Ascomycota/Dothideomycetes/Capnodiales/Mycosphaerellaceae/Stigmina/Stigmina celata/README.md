@@ -1,5 +1,4 @@
-Stigmina celata (Welw. & Curr.) M.B. Ellis SPECIES
-=======
+# Stigmina celata (Welw. & Curr.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

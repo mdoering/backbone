@@ -1,5 +1,4 @@
-Androsaceus ferrugineus (Berk.) Pat. SPECIES
-=======
+# Androsaceus ferrugineus (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porphyromonas somerae Summanen et al., 2006 SPECIES
-=======
+# Porphyromonas somerae Summanen et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

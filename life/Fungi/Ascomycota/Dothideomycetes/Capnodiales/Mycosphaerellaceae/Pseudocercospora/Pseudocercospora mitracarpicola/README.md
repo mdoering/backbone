@@ -1,5 +1,4 @@
-Pseudocercospora mitracarpicola (J.M. Yen & Gilles) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora mitracarpicola (J.M. Yen & Gilles) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

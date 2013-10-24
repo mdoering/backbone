@@ -1,5 +1,4 @@
-Phacopsis vulpina Tul. SPECIES
-=======
+# Phacopsis vulpina Tul. SPECIES
 
 #### Status
 ACCEPTED

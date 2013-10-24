@@ -1,5 +1,4 @@
-Midiella Pronina, 1988 GENUS
-=======
+# Midiella Pronina, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxostomellina Syd. GENUS
-=======
+# Myxostomellina Syd. GENUS
 
 #### Status
 ACCEPTED

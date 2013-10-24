@@ -1,5 +1,4 @@
-Agaricus tenax Fr. SPECIES
-=======
+# Agaricus tenax Fr. SPECIES
 
 #### Status
 ACCEPTED

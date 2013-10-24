@@ -1,5 +1,4 @@
-Pulvinosphaeridium ludlowense Mullins, 2001 SPECIES
-=======
+# Pulvinosphaeridium ludlowense Mullins, 2001 SPECIES
 
 #### Status
 ACCEPTED

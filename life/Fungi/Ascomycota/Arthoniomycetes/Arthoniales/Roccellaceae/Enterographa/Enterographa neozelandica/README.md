@@ -1,5 +1,4 @@
-Enterographa neozelandica var. neozelandica VARIETY
-=======
+# Enterographa neozelandica Redinger SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Enterographa neozelandica var. neozelandica
+Enterographa neozelandica Redinger
 
 ### Remarks
 null

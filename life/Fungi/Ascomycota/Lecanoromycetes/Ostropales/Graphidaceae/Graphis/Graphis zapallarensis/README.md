@@ -1,5 +1,4 @@
-Graphis zapallarensis C.W. Dodge SPECIES
-=======
+# Graphis zapallarensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

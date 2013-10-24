@@ -1,5 +1,4 @@
-Tontonia elegans SPECIES
-=======
+# Tontonia elegans SPECIES
 
 #### Status
 ACCEPTED

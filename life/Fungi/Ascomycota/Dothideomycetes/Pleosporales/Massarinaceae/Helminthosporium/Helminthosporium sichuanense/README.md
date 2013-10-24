@@ -1,5 +1,4 @@
-Helminthosporium sichuanense M. Zhang, T.Y. Zhang & W.P. Wu SPECIES
-=======
+# Helminthosporium sichuanense M. Zhang, T.Y. Zhang & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

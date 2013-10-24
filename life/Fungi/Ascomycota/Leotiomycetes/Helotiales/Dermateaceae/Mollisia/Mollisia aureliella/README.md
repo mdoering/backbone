@@ -1,5 +1,4 @@
-Mollisia aureliella P. Karst. SPECIES
-=======
+# Mollisia aureliella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

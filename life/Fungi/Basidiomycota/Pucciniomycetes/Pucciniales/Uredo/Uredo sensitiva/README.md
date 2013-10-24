@@ -1,5 +1,4 @@
-Uredo sensitiva Speg. SPECIES
-=======
+# Uredo sensitiva Speg. SPECIES
 
 #### Status
 ACCEPTED

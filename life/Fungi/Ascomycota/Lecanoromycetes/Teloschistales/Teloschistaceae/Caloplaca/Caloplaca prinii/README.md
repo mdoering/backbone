@@ -1,5 +1,4 @@
-Caloplaca prinii B. de Lesd. SPECIES
-=======
+# Caloplaca prinii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

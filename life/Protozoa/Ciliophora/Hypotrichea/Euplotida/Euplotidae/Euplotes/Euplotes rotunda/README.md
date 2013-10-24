@@ -1,5 +1,4 @@
-Euplotes rotunda Gelei, 1950 SPECIES
-=======
+# Euplotes rotunda Gelei, 1950 SPECIES
 
 #### Status
 ACCEPTED

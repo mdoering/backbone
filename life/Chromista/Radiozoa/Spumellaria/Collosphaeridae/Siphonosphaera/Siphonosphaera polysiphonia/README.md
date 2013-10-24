@@ -1,5 +1,4 @@
-Siphonosphaera polysiphonia Haeckel SPECIES
-=======
+# Siphonosphaera polysiphonia Haeckel SPECIES
 
 #### Status
 ACCEPTED

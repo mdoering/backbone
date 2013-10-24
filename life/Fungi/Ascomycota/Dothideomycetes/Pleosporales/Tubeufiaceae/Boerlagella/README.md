@@ -1,5 +1,4 @@
-Boerlagella GENUS
-=======
+# Boerlagella GENUS
 
 #### Status
 ACCEPTED

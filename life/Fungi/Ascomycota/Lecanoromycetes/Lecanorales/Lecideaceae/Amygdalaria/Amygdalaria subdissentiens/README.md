@@ -1,5 +1,4 @@
-Amygdalaria subdissentiens (Nyl.) Mas. Inoue & Brodo SPECIES
-=======
+# Amygdalaria subdissentiens (Nyl.) Mas. Inoue & Brodo SPECIES
 
 #### Status
 ACCEPTED

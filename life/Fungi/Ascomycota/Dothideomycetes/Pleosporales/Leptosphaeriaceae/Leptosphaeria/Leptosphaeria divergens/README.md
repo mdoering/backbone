@@ -1,5 +1,4 @@
-Leptosphaeria divergens Sacc. SPECIES
-=======
+# Leptosphaeria divergens Sacc. SPECIES
 
 #### Status
 ACCEPTED

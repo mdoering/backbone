@@ -1,5 +1,4 @@
-Eucantharomyces basilewskyi W. Rossi & Cesari SPECIES
-=======
+# Eucantharomyces basilewskyi W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

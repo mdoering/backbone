@@ -1,5 +1,4 @@
-Patella ricciophila Seaver SPECIES
-=======
+# Patella ricciophila Seaver SPECIES
 
 #### Status
 ACCEPTED

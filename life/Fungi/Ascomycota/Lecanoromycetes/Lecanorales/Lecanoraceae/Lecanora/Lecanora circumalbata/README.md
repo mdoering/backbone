@@ -1,5 +1,4 @@
-Lecanora circumalbata (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora circumalbata (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

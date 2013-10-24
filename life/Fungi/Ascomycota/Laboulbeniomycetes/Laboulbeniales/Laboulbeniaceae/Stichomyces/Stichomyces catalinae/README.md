@@ -1,5 +1,4 @@
-Stichomyces catalinae Thaxt. SPECIES
-=======
+# Stichomyces catalinae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

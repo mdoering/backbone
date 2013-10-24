@@ -1,5 +1,4 @@
-Gloeopeziza interlamellaris Döbbeler SPECIES
-=======
+# Gloeopeziza interlamellaris Döbbeler SPECIES
 
 #### Status
 ACCEPTED

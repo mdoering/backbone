@@ -1,5 +1,4 @@
-Calycina firma (Pers.) Gray SPECIES
-=======
+# Calycina firma (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

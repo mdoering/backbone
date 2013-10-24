@@ -1,5 +1,4 @@
-Pertusaria gedehana SPECIES
-=======
+# Pertusaria gedehana SPECIES
 
 #### Status
 ACCEPTED

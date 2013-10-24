@@ -1,5 +1,4 @@
-Rhizocarpon schedomyces Hafellner & Poelt SPECIES
-=======
+# Rhizocarpon schedomyces Hafellner & Poelt SPECIES
 
 #### Status
 ACCEPTED

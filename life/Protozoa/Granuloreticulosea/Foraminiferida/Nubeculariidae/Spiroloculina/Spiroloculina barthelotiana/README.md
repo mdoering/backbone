@@ -1,5 +1,4 @@
-Spiroloculina barthelotiana Wiesner, 1923 SPECIES
-=======
+# Spiroloculina barthelotiana Wiesner, 1923 SPECIES
 
 #### Status
 ACCEPTED

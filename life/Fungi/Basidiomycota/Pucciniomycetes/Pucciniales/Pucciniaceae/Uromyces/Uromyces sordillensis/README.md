@@ -1,5 +1,4 @@
-Uromyces sordillensis Speg. SPECIES
-=======
+# Uromyces sordillensis Speg. SPECIES
 
 #### Status
 ACCEPTED

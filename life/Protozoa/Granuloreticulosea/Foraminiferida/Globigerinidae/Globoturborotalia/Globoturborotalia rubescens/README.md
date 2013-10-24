@@ -1,5 +1,4 @@
-Globoturborotalia rubescens (Hofker, 1956) SPECIES
-=======
+# Globoturborotalia rubescens (Hofker, 1956) SPECIES
 
 #### Status
 ACCEPTED

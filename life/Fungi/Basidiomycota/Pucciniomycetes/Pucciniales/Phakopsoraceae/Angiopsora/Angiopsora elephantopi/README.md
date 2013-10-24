@@ -1,14 +1,13 @@
-Angiopsora elephantopodis (Hirats.) Mundk. & Thirum. SPECIES
-=======
+# Angiopsora elephantopi (Hirats.) Mundk. & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 40: 9 (1951)
 
 #### Original name
 Phakopsora elephantopi Hirats.

@@ -1,5 +1,4 @@
-Zwackhiomyces inconspicuus Grube & Hafellner SPECIES
-=======
+# Zwackhiomyces inconspicuus Grube & Hafellner SPECIES
 
 #### Status
 ACCEPTED

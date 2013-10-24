@@ -1,5 +1,4 @@
-Scirrhia osmundicola W. Obrist SPECIES
-=======
+# Scirrhia osmundicola W. Obrist SPECIES
 
 #### Status
 ACCEPTED

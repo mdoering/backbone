@@ -1,5 +1,4 @@
-Lamproderma minutum Rostaf. SPECIES
-=======
+# Lamproderma minutum Rostaf. SPECIES
 
 #### Status
 ACCEPTED

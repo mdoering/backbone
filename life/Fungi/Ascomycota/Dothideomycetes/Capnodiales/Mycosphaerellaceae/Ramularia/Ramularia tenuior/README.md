@@ -1,5 +1,4 @@
-Ramularia tenuior Fautrey & Brunaud SPECIES
-=======
+# Ramularia tenuior Fautrey & Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nellymyces megaceros A. Batko, 1972 SPECIES
-=======
+# Nellymyces megaceros A. Batko, 1972 SPECIES
 
 #### Status
 ACCEPTED

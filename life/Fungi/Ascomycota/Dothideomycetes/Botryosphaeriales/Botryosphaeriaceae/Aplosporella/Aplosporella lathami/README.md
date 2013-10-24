@@ -1,5 +1,4 @@
-Aplosporella lathami Dearn. SPECIES
-=======
+# Aplosporella lathami Dearn. SPECIES
 
 #### Status
 ACCEPTED

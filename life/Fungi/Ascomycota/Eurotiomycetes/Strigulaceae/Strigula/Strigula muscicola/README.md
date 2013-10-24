@@ -1,5 +1,4 @@
-Strigula muscicola F. Berger, Coppins, Cl. Roux & Sérus. SPECIES
-=======
+# Strigula muscicola F. Berger, Coppins, Cl. Roux & Sérus. SPECIES
 
 #### Status
 ACCEPTED

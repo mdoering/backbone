@@ -1,5 +1,4 @@
-Xyloma aquilinum Fr. SPECIES
-=======
+# Xyloma aquilinum Fr. SPECIES
 
 #### Status
 ACCEPTED

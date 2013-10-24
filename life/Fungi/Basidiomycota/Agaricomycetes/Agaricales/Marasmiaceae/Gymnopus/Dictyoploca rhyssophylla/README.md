@@ -1,5 +1,4 @@
-Dictyoploca rhyssophylla (Mont.) R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Dictyoploca rhyssophylla (Mont.) R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

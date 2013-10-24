@@ -1,5 +1,4 @@
-Lachnella labrosa W. Phillips & Harkn. SPECIES
-=======
+# Lachnella labrosa W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

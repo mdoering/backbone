@@ -1,5 +1,4 @@
-Puccinia leptoderma Dietel SPECIES
-=======
+# Puccinia leptoderma Dietel SPECIES
 
 #### Status
 ACCEPTED

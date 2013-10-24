@@ -1,5 +1,4 @@
-Cortinarius spurcus (Weinm.) Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius spurcus (Weinm.) Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

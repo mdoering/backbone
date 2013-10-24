@@ -1,5 +1,4 @@
-Basauxia Subram. GENUS
-=======
+# Basauxia Subram. GENUS
 
 #### Status
 ACCEPTED

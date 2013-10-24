@@ -1,5 +1,4 @@
-Manivitella pemmatoidea (Deflandre in Manivit, 1965) Thierstein, 1971 SPECIES
-=======
+# Manivitella pemmatoidea (Deflandre in Manivit, 1965) Thierstein, 1971 SPECIES
 
 #### Status
 ACCEPTED

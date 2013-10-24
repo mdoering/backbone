@@ -1,5 +1,4 @@
-Scurciatoforamen lageniformis Ujiie, 1997 SPECIES
-=======
+# Scurciatoforamen lageniformis Ujiie, 1997 SPECIES
 
 #### Status
 ACCEPTED

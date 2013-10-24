@@ -1,5 +1,4 @@
-Staurotholissa Haeckel, 1887 GENUS
-=======
+# Staurotholissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

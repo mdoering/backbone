@@ -1,5 +1,4 @@
-Puccinia hysterioides Corda SPECIES
-=======
+# Puccinia hysterioides Corda SPECIES
 
 #### Status
 ACCEPTED

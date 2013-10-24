@@ -1,17 +1,16 @@
-Arrhenia wallacei (P.D. Orton) P.A. Moreau & Courtec., 2008 SPECIES
-=======
+# Omphalina wallacei P.D. Orton, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 41(3): 606 (1984)
 
 #### Original name
-null
+Omphalina wallacei P.D. Orton, 1984
 
 ### Remarks
 null

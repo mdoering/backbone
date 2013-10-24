@@ -1,5 +1,4 @@
-Amblyospora indicola SPECIES
-=======
+# Amblyospora indicola SPECIES
 
 #### Status
 ACCEPTED

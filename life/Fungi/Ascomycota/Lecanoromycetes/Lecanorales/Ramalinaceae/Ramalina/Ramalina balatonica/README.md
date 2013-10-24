@@ -1,5 +1,4 @@
-Ramalina balatonica Gyeln. SPECIES
-=======
+# Ramalina balatonica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

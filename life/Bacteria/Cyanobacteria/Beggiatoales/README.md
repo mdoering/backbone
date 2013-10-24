@@ -1,5 +1,4 @@
-Beggiatoales ORDER
-=======
+# Beggiatoales ORDER
 
 #### Status
 ACCEPTED

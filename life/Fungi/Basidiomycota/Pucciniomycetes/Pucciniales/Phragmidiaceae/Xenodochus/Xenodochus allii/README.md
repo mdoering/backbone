@@ -1,5 +1,4 @@
-Xenodochus allii Harz SPECIES
-=======
+# Xenodochus allii Harz SPECIES
 
 #### Status
 ACCEPTED

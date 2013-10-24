@@ -1,5 +1,4 @@
-Endopyrenium GENUS
-=======
+# Endopyrenium GENUS
 
 #### Status
 ACCEPTED

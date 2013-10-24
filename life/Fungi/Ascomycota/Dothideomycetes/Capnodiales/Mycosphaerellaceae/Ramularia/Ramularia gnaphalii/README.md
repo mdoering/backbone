@@ -1,14 +1,13 @@
-Ovularia gnaphalii Syd. SPECIES
-=======
+# Ramularia gnaphalii (P. Syd.) Karak., 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Vassiljevsky & Karakulin, Fungi Imperfecti Parasitici (Hyphomycetes) 1(Hyphomycetes): 73 (1937)
 
 #### Original name
 Ovularia gnaphalii Syd.

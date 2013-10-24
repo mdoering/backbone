@@ -1,5 +1,4 @@
-Ophiobolus comatus (Ces. & De Not.) Sacc. SPECIES
-=======
+# Ophiobolus comatus (Ces. & De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

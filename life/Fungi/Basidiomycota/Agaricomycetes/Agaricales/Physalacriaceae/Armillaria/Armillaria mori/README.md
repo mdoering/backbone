@@ -1,5 +1,4 @@
-Armillaria mori (Paulet) Fr. SPECIES
-=======
+# Armillaria mori (Paulet) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Parmotrema subincana (Maheu & A. Gillet) M. Choisy SPECIES
-=======
+# Parmotrema subincanum (Maheu & A. Gillet) M. Choisy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

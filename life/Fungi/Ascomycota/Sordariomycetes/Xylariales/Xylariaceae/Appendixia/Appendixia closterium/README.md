@@ -1,14 +1,13 @@
-Sphaeria closterium Berk. & M.A. Curtis, 1875 SPECIES
-=======
+# Appendixia closterium (Berk. & M.A. Curtis) B.S. Lu & K.D. Hyde, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fung. no. 933 (1875)
+Fungal Diversity Res. Ser. (Hong Kong) 4: 225 (2000)
 
 #### Original name
 Sphaeria closterium Berk. & M.A. Curtis, 1875

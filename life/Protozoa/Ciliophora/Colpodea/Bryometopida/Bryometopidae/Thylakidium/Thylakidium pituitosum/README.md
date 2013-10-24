@@ -1,8 +1,7 @@
-Thylakidium pituitosus Foissner, 1980 SPECIES
-=======
+# Thylakidium pituitosum Foissner, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

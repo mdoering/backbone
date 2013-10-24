@@ -1,5 +1,4 @@
-Nectria viticola Berk. & M.A. Curtis SPECIES
-=======
+# Nectria viticola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

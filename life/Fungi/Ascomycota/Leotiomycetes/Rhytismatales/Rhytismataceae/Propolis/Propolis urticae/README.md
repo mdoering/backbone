@@ -1,5 +1,4 @@
-Propolis urticae (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Propolis urticae (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

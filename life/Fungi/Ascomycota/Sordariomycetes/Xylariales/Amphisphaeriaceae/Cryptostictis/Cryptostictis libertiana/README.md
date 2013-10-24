@@ -1,5 +1,4 @@
-Cryptostictis libertiana (Roum. & Sacc.) Guba SPECIES
-=======
+# Cryptostictis libertiana (Roum. & Sacc.) Guba SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ditopella De Notaris, 1863 GENUS
-=======
+# Ditopella De Notaris, 1863 GENUS
 
 #### Status
 ACCEPTED

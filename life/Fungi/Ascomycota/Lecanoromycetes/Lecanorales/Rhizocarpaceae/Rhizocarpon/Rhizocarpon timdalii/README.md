@@ -1,5 +1,4 @@
-Rhizocarpon timdalii Ihlen & Fryday SPECIES
-=======
+# Rhizocarpon timdalii Ihlen & Fryday SPECIES
 
 #### Status
 ACCEPTED

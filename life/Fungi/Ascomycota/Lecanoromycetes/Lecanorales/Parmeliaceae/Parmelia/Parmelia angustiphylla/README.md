@@ -1,5 +1,4 @@
-Parmelia angustiphylla f. angustiphylla FORM
-=======
+# Parmelia angustiphylla (Gyeln.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia angustiphylla f. angustiphylla
+Parmelia conspersa var. angustiphylla Gyeln.
 
 ### Remarks
 null

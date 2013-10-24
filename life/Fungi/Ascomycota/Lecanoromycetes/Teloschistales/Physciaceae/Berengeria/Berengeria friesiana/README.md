@@ -1,5 +1,4 @@
-Berengeria friesiana SPECIES
-=======
+# Berengeria friesiana SPECIES
 
 #### Status
 ACCEPTED

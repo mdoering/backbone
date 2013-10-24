@@ -1,5 +1,4 @@
-Meandrospiranella Salaj, 1969 GENUS
-=======
+# Meandrospiranella Salaj, 1969 GENUS
 
 #### Status
 ACCEPTED

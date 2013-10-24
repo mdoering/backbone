@@ -1,5 +1,4 @@
-Napicladium iridis Lobik SPECIES
-=======
+# Napicladium iridis Lobik SPECIES
 
 #### Status
 ACCEPTED

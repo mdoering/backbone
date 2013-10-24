@@ -1,5 +1,4 @@
-Lecanora rosacea (Hue) Zahlbr. SPECIES
-=======
+# Lecanora rosacea (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

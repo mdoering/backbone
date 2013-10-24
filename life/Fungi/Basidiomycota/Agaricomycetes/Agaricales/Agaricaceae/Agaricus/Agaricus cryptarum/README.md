@@ -1,5 +1,4 @@
-Agaricus cryptarum With. SPECIES
-=======
+# Agaricus cryptarum With. SPECIES
 
 #### Status
 ACCEPTED

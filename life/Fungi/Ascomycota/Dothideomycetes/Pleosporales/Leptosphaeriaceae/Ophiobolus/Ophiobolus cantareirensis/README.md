@@ -1,5 +1,4 @@
-Ophiobolus cantareirensis Henn. SPECIES
-=======
+# Ophiobolus cantareirensis Henn. SPECIES
 
 #### Status
 ACCEPTED

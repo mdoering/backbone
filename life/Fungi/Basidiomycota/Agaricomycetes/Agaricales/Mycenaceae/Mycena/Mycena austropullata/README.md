@@ -1,5 +1,4 @@
-Mycena austropullata Grgur., A.A. Holland & Fuhrer SPECIES
-=======
+# Mycena austropullata Grgur., A.A. Holland & Fuhrer SPECIES
 
 #### Status
 ACCEPTED

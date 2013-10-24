@@ -1,5 +1,4 @@
-Cortinarius brassicolens Melot SPECIES
-=======
+# Cortinarius brassicolens Melot SPECIES
 
 #### Status
 ACCEPTED

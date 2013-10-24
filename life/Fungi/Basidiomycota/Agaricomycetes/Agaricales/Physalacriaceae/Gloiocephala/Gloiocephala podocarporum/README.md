@@ -1,5 +1,4 @@
-Gloiocephala podocarporum Singer SPECIES
-=======
+# Gloiocephala podocarporum Singer SPECIES
 
 #### Status
 ACCEPTED

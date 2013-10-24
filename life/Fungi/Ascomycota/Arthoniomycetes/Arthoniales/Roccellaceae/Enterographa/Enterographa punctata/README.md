@@ -1,5 +1,4 @@
-Enterographa punctata Ertz & Diederich SPECIES
-=======
+# Enterographa punctata Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

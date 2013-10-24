@@ -1,5 +1,4 @@
-Strombidium siculum Montagnes & Taylor, 1994 SPECIES
-=======
+# Strombidium siculum Montagnes & Taylor, 1994 SPECIES
 
 #### Status
 ACCEPTED

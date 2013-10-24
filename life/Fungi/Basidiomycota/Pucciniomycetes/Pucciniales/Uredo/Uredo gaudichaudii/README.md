@@ -1,5 +1,4 @@
-Uredo gaudichaudii Syd. & P. Syd. SPECIES
-=======
+# Uredo gaudichaudii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

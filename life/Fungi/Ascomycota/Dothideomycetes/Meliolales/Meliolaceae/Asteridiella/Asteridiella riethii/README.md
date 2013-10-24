@@ -1,5 +1,4 @@
-Asteridiella riethii Schmied. SPECIES
-=======
+# Asteridiella riethii Schmied. SPECIES
 
 #### Status
 ACCEPTED

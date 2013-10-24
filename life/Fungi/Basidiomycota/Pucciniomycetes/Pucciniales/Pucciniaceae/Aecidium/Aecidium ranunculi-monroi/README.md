@@ -1,5 +1,4 @@
-Aecidium ranunculi-monroi G. Cunn., 1930 SPECIES
-=======
+# Aecidium ranunculi-monroi G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia zahlbruckneri (Lynge) Creveld SPECIES
-=======
+# Aspicilia zahlbruckneri (Lynge) Creveld SPECIES
 
 #### Status
 ACCEPTED

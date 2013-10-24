@@ -1,5 +1,4 @@
-Diplodia aristolochiae-siphoriis Vestergr. SPECIES
-=======
+# Diplodia aristolochiae-siphoriis Vestergr. SPECIES
 
 #### Status
 ACCEPTED

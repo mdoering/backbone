@@ -1,5 +1,4 @@
-Protosporangium L.S. Olive & Stoian. GENUS
-=======
+# Protosporangium L.S. Olive & Stoian. GENUS
 
 #### Status
 ACCEPTED

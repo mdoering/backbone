@@ -1,5 +1,4 @@
-Eustilbum resinae (Bres. & Sacc.) Magnus SPECIES
-=======
+# Eustilbum resinae (Bres. & Sacc.) Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Anthostomella abdita (Berk. & M.A. Curtis) Sacc., 1882 SPECIES
-=======
+# Physalospora abdita (Berk. & M.A. Curtis) N.E. Stevens, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Univ. Fla Agric. Exp. Stn Bull. 371: 81 (1942)
 
 #### Original name
 Sphaeria abdita Berk. & M.A. Curtis, 1868

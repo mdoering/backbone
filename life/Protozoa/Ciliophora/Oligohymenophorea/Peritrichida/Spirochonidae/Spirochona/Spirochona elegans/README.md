@@ -1,5 +1,4 @@
-Spirochona elegans Swarczewsky, 1928 SPECIES
-=======
+# Spirochona elegans Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

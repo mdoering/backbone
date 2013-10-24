@@ -1,5 +1,4 @@
-Angulogavelinella GENUS
-=======
+# Angulogavelinella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius robustus Peck SPECIES
-=======
+# Cortinarius robustus Peck SPECIES
 
 #### Status
 ACCEPTED

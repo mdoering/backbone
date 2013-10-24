@@ -1,5 +1,4 @@
-Ramalina holstii Krog & Swinscow SPECIES
-=======
+# Ramalina holstii Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

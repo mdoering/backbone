@@ -1,5 +1,4 @@
-Buellia rappii Imshaug ex R.C. Harris SPECIES
-=======
+# Buellia rappii Imshaug ex R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

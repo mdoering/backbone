@@ -1,5 +1,4 @@
-Seimatosporium sublunatum B. Sutton SPECIES
-=======
+# Seimatosporium sublunatum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

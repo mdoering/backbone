@@ -1,5 +1,4 @@
-Dicaeoma obtusum (J. Schröt.) Kuntze SPECIES
-=======
+# Dicaeoma obtusum (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

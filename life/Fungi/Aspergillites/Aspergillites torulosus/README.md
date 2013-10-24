@@ -1,5 +1,4 @@
-Aspergillites torulosus Trivedi & C.L. Verma SPECIES
-=======
+# Aspergillites torulosus Trivedi & C.L. Verma SPECIES
 
 #### Status
 ACCEPTED

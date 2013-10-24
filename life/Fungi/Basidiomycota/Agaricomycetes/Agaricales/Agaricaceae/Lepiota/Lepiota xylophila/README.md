@@ -1,5 +1,4 @@
-Lepiota xylophila Peck SPECIES
-=======
+# Lepiota xylophila Peck SPECIES
 
 #### Status
 ACCEPTED

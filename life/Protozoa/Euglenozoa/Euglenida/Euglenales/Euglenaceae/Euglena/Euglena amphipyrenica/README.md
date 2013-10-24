@@ -1,5 +1,4 @@
-Euglena amphipyrenica Chadefaud SPECIES
-=======
+# Euglena amphipyrenica Chadefaud SPECIES
 
 #### Status
 ACCEPTED

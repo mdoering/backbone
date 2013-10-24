@@ -1,5 +1,4 @@
-Costatosphaerina tenuissima Lopukhin, 1974 SPECIES
-=======
+# Costatosphaerina tenuissima Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

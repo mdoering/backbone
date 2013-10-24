@@ -1,5 +1,4 @@
-Streptomyces globisporus subsp. globisporus SUBSPECIES
-=======
+# Streptomyces globisporus SPECIES
 
 #### Status
 ACCEPTED

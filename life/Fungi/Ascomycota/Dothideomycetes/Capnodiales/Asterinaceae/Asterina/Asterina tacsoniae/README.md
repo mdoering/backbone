@@ -1,5 +1,4 @@
-Asterina tacsoniae var. tacsoniae VARIETY
-=======
+# Asterina tacsoniae Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterina tacsoniae var. tacsoniae
+Asterina tacsoniae Pat.
 
 ### Remarks
 null

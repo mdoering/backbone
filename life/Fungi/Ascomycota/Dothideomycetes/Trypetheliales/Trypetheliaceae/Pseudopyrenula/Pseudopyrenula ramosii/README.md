@@ -1,5 +1,4 @@
-Pseudopyrenula ramosii SPECIES
-=======
+# Pseudopyrenula ramosii SPECIES
 
 #### Status
 ACCEPTED

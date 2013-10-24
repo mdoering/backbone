@@ -1,5 +1,4 @@
-Pseudocercospora rubicola (Thüm.) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora rubicola (Thüm.) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

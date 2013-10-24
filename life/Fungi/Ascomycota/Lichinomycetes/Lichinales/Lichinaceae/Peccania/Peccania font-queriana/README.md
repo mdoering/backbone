@@ -1,5 +1,4 @@
-Peccania font-queriana P. P. Moreno & Egea SPECIES
-=======
+# Peccania font-queriana P. P. Moreno & Egea SPECIES
 
 #### Status
 ACCEPTED

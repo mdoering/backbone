@@ -1,5 +1,4 @@
-Monochaetia coryli (Rostr.) Sacc. SPECIES
-=======
+# Monochaetia coryli (Rostr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosporium cladosporium anon. SPECIES
-=======
+# Heterosporium cladosporium anon. SPECIES
 
 #### Status
 ACCEPTED

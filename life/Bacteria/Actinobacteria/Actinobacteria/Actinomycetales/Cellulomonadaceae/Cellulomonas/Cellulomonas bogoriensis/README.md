@@ -1,5 +1,4 @@
-Cellulomonas bogoriensis Jones et al., 2005 SPECIES
-=======
+# Cellulomonas bogoriensis Jones et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

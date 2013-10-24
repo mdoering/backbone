@@ -1,5 +1,4 @@
-Candida floris C.A. Rosa, F.C. Pagnocca, M.A. Lachance, C.C. Ruivo, A.O. Medeiros, M.R. Pimentel, J.C. Fontenelle, R.P. Martins SPECIES
-=======
+# Candida floris C.A. Rosa, F.C. Pagnocca, M.A. Lachance, C.C. Ruivo, A.O. Medeiros, M.R. Pimentel, J.C. Fontenelle, R.P. Martins SPECIES
 
 #### Status
 ACCEPTED

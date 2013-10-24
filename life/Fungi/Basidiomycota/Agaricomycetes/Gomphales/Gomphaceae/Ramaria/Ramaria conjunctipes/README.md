@@ -1,5 +1,4 @@
-Ramaria conjunctipes var. conjunctipes VARIETY
-=======
+# Ramaria conjunctipes (Coker) Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 567 (1950)
 
 #### Original name
-Ramaria conjunctipes var. conjunctipes
+Clavaria conjunctipes Coker
 
 ### Remarks
 null

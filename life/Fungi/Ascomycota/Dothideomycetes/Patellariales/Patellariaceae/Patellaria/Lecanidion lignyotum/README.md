@@ -1,5 +1,4 @@
-Lecanidion lignyotum Fuckel SPECIES
-=======
+# Lecanidion lignyotum Fuckel SPECIES
 
 #### Status
 ACCEPTED

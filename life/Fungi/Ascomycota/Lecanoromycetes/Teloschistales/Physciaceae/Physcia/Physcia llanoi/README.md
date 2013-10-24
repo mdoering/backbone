@@ -1,5 +1,4 @@
-Physcia llanoi C.W. Dodge SPECIES
-=======
+# Physcia llanoi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

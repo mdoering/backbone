@@ -1,5 +1,4 @@
-Ectocarpus fructuosus Setchell & N.L.Gardner, 1922 SPECIES
-=======
+# Ectocarpus fructuosus Setchell & N.L.Gardner, 1922 SPECIES
 
 #### Status
 ACCEPTED

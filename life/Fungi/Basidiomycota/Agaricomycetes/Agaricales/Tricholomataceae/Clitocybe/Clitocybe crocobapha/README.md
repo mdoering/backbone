@@ -1,5 +1,4 @@
-Clitocybe crocobapha Berk. & Broome SPECIES
-=======
+# Clitocybe crocobapha Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

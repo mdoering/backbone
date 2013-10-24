@@ -1,5 +1,4 @@
-Bovista oblongispora var. oblongispora VARIETY
-=======
+# Bovista oblongispora (Lloyd) Bottomley SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4(3): 580 (1948)
 
 #### Original name
-Bovista oblongispora var. oblongispora
+Bovistella oblongispora Lloyd
 
 ### Remarks
 null

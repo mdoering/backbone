@@ -1,14 +1,13 @@
-Chaetopsina ramifera Matsush., 1971 SPECIES
-=======
+# Kionochaeta ramifera (Matsush.) P.M. Kirk & B. Sutton, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Microfungi of the Solomon Islands and Papua-New Guinea (Osaka) 13 (1971)
+Trans. Br. mycol. Soc. 85(4): 715 (1986)
 
 #### Original name
 Chaetopsina ramifera Matsush., 1971

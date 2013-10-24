@@ -1,5 +1,4 @@
-Lecidea elevata Lynge ex Å.E. Dahl, Lynge & Schol. SPECIES
-=======
+# Lecidea elevata Lynge ex Å.E. Dahl, Lynge & Schol. SPECIES
 
 #### Status
 ACCEPTED

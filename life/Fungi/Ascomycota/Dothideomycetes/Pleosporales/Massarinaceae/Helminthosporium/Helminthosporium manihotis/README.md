@@ -1,5 +1,4 @@
-Helminthosporium manihotis Rangel SPECIES
-=======
+# Helminthosporium manihotis Rangel SPECIES
 
 #### Status
 ACCEPTED

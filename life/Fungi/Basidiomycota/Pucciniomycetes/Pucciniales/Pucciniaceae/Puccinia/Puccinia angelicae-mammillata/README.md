@@ -1,17 +1,16 @@
-Puccinia angelicae-mamillata Kleb. SPECIES
-=======
+# Puccinia angelicae-mammillata Kleb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Wirtswechselnde Rostpilze 321 (1904)
 
 #### Original name
-Puccinia angelicae-mamillata Kleb.
+Puccinia angelicae-mammillata Kleb.
 
 ### Remarks
 null

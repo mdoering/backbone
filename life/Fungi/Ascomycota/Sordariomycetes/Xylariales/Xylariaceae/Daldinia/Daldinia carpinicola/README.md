@@ -1,5 +1,4 @@
-Daldinia carpinicola Lar.N. Vassiljeva & M. Stadler, 2008 SPECIES
-=======
+# Daldinia carpinicola Lar.N. Vassiljeva & M. Stadler, 2008 SPECIES
 
 #### Status
 ACCEPTED

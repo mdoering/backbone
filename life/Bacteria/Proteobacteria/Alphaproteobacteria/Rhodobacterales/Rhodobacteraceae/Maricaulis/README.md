@@ -1,5 +1,4 @@
-Maricaulis Abraham et al., 1999 GENUS
-=======
+# Maricaulis Abraham et al., 1999 GENUS
 
 #### Status
 ACCEPTED

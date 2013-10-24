@@ -1,5 +1,4 @@
-Pucciniastrum nipponicum (Hirats. f.) Jørst. SPECIES
-=======
+# Pucciniastrum nipponicum (Hirats. f.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

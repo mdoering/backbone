@@ -1,5 +1,4 @@
-Septoria chlorogali (Cooke & Harkn.) R. Sprague SPECIES
-=======
+# Septoria chlorogali (Cooke & Harkn.) R. Sprague SPECIES
 
 #### Status
 ACCEPTED

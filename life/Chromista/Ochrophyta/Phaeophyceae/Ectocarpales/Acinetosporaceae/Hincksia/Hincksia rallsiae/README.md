@@ -1,8 +1,7 @@
-Feldmannia rallsiae (Vickers) G. Hamel SPECIES
-=======
+# Hincksia rallsiae (Vickers) P.C. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

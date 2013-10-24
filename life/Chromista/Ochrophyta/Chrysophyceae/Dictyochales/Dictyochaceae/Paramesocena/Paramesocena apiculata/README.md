@@ -1,5 +1,4 @@
-Paramesocena apiculata (Lemmermann) S. Locker & E. Martini SPECIES
-=======
+# Paramesocena apiculata (Lemmermann) S. Locker & E. Martini SPECIES
 
 #### Status
 ACCEPTED

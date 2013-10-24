@@ -1,5 +1,4 @@
-Aspergillus kitaii Traverso SPECIES
-=======
+# Aspergillus kitaii Traverso SPECIES
 
 #### Status
 ACCEPTED

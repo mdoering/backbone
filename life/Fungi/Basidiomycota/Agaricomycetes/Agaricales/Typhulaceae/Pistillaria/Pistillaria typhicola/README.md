@@ -1,5 +1,4 @@
-Pistillaria typhicola (Bourdot & Galzin) Corner SPECIES
-=======
+# Pistillaria typhicola (Bourdot & Galzin) Corner SPECIES
 
 #### Status
 ACCEPTED

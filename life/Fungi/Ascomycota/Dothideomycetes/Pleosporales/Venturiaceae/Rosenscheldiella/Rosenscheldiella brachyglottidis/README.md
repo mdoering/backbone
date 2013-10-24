@@ -1,5 +1,4 @@
-Rosenscheldiella brachyglottidis G.F. Laundon & Sivan., 1972 SPECIES
-=======
+# Rosenscheldiella brachyglottidis G.F. Laundon & Sivan., 1972 SPECIES
 
 #### Status
 ACCEPTED

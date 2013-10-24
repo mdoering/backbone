@@ -1,5 +1,4 @@
-Sphacelotheca de Bary, 1884 GENUS
-=======
+# Sphacelotheca de Bary, 1884 GENUS
 
 #### Status
 ACCEPTED

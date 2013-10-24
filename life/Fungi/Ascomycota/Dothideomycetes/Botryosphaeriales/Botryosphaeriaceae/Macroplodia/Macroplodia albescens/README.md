@@ -1,5 +1,4 @@
-Macroplodia albescens (Ellis & Everh.) Kuntze SPECIES
-=======
+# Macroplodia albescens (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

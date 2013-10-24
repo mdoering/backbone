@@ -1,5 +1,4 @@
-Amphoridium aljazevi Servít SPECIES
-=======
+# Amphoridium aljazevi Servít SPECIES
 
 #### Status
 ACCEPTED

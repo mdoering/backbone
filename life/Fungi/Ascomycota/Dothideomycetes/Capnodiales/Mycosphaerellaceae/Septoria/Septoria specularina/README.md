@@ -1,5 +1,4 @@
-Septoria specularina Berk. & M.A. Curtis SPECIES
-=======
+# Septoria specularina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachiosphaera tropicalis Nawawi, 1976 SPECIES
-=======
+# Brachiosphaera tropicalis Nawawi, 1976 SPECIES
 
 #### Status
 ACCEPTED

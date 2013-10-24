@@ -1,5 +1,4 @@
-Uredo peperomiae Henn. SPECIES
-=======
+# Uredo peperomiae Henn. SPECIES
 
 #### Status
 ACCEPTED

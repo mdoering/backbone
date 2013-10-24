@@ -1,5 +1,4 @@
-Exesisporites verrucatus P. Kumar SPECIES
-=======
+# Exesisporites verrucatus P. Kumar SPECIES
 
 #### Status
 ACCEPTED

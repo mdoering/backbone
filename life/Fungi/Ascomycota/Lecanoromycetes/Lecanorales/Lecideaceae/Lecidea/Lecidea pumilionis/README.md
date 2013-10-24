@@ -1,5 +1,4 @@
-Lecidea pumilionis Arnold SPECIES
-=======
+# Lecidea pumilionis Arnold SPECIES
 
 #### Status
 ACCEPTED

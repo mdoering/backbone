@@ -1,5 +1,4 @@
-Opegrapha arthonioidea (Nyl.) Nyl. SPECIES
-=======
+# Opegrapha arthonioidea (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

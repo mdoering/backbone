@@ -1,5 +1,4 @@
-Tuber gallicum Corda SPECIES
-=======
+# Tuber gallicum Corda SPECIES
 
 #### Status
 ACCEPTED

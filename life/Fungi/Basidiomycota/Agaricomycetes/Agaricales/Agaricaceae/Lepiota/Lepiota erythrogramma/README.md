@@ -1,5 +1,4 @@
-Lepiota erythrogramma (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota erythrogramma (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

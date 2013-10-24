@@ -1,5 +1,4 @@
-Lycoperdon violascens Cooke & Massee SPECIES
-=======
+# Lycoperdon violascens Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

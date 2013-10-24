@@ -1,5 +1,4 @@
-Meliola parathesiana Cif. SPECIES
-=======
+# Meliola parathesiana Cif. SPECIES
 
 #### Status
 ACCEPTED

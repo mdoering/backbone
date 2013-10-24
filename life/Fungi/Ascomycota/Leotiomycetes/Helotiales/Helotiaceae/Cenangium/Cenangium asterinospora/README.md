@@ -1,5 +1,4 @@
-Cenangium asterinospora Ellis & Everh. SPECIES
-=======
+# Cenangium asterinospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

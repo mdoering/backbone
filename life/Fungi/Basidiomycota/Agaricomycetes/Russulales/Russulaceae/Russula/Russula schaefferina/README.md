@@ -1,5 +1,4 @@
-Russula schaefferina Rawla & Sarwal SPECIES
-=======
+# Russula schaefferina Rawla & Sarwal SPECIES
 
 #### Status
 ACCEPTED

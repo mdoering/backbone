@@ -1,5 +1,4 @@
-Psammogramma Sato et al. GENUS
-=======
+# Psammogramma Sato et al. GENUS
 
 #### Status
 ACCEPTED

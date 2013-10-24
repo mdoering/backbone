@@ -1,5 +1,4 @@
-Puccinia metastelmatis Henn. SPECIES
-=======
+# Puccinia metastelmatis Henn. SPECIES
 
 #### Status
 ACCEPTED

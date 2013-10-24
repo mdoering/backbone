@@ -1,5 +1,4 @@
-Paraphysomonas corbidifera Pennick & Clarke SPECIES
-=======
+# Paraphysomonas corbidifera Pennick & Clarke SPECIES
 
 #### Status
 ACCEPTED

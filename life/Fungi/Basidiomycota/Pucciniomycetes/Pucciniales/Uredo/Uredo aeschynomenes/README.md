@@ -1,5 +1,4 @@
-Uredo aeschynomenes Arthur SPECIES
-=======
+# Uredo aeschynomenes Arthur SPECIES
 
 #### Status
 ACCEPTED

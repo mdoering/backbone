@@ -1,5 +1,4 @@
-Ericiolus frigidus H. A. Thomsen SPECIES
-=======
+# Ericiolus frigidus H. A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon nuoljae H. Magn. SPECIES
-=======
+# Dermatocarpon nuoljae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

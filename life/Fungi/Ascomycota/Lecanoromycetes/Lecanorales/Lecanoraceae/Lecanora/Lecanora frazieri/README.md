@@ -1,5 +1,4 @@
-Lecanora frazieri C.W. Dodge SPECIES
-=======
+# Lecanora frazieri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella pseudovespa Carnegie, 2007 SPECIES
-=======
+# Mycosphaerella pseudovespa Carnegie, 2007 SPECIES
 
 #### Status
 ACCEPTED

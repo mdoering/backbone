@@ -1,17 +1,16 @@
-Agaricus pinsitis Fr. SPECIES
-=======
+# Clitopilus pinsitus (Fr.) Joss., 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 53: 209 (1937)
 
 #### Original name
-Agaricus pinsitis Fr.
+Agaricus pinsitus Fr., 1821
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clitocybe nubila (Fr.) Sacc. SPECIES
-=======
+# Clitocybe nubila (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea subgranulosa (Rehm) Sacc. SPECIES
-=======
+# Phialea subgranulosa (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

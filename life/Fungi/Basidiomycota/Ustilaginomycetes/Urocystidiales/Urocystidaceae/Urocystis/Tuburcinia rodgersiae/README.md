@@ -1,5 +1,4 @@
-Tuburcinia rodgersiae Miyabe ex S. Ito SPECIES
-=======
+# Tuburcinia rodgersiae Miyabe ex S. Ito SPECIES
 
 #### Status
 ACCEPTED

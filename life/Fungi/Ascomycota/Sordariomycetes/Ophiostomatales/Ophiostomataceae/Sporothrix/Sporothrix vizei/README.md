@@ -1,5 +1,4 @@
-Sporothrix vizei (Berk. & Broome) de Hoog SPECIES
-=======
+# Sporothrix vizei (Berk. & Broome) de Hoog SPECIES
 
 #### Status
 ACCEPTED

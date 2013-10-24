@@ -1,5 +1,4 @@
-Coremiopsis spicarioides Kamyschko SPECIES
-=======
+# Coremiopsis spicarioides Kamyschko SPECIES
 
 #### Status
 ACCEPTED

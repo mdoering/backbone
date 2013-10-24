@@ -1,17 +1,16 @@
-Puccinia veronicae f. persistens Körn. FORM
-=======
+# Puccinia veronicae (Schumach.) G. Winter, 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(1): 166 (1881)
 
 #### Original name
-Puccinia veronicae f. persistens Körn.
+Uredo veronicae Schumach., 1803
 
 ### Remarks
 null

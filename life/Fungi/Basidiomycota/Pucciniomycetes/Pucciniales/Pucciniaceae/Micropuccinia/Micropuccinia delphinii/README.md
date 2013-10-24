@@ -1,5 +1,4 @@
-Micropuccinia delphinii (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia delphinii (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

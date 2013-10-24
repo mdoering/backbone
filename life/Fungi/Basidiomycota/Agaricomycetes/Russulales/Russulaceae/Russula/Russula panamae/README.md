@@ -1,5 +1,4 @@
-Russula panamae Buyck & Ovrebo SPECIES
-=======
+# Russula panamae Buyck & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

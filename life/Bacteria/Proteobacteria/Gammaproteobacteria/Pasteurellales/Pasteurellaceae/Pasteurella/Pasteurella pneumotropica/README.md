@@ -1,5 +1,4 @@
-Pasteurella pneumotropica Jawetz, 1950 (Approved Lists, 1980) SPECIES
-=======
+# Pasteurella pneumotropica Jawetz, 1950 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma hissarensis P.C. Gupta & Madaan SPECIES
-=======
+# Phoma hissarensis P.C. Gupta & Madaan SPECIES
 
 #### Status
 ACCEPTED

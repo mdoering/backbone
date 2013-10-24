@@ -1,5 +1,4 @@
-Dichomera neorhamni B. Sutton & Dyko SPECIES
-=======
+# Dichomera neorhamni B. Sutton & Dyko SPECIES
 
 #### Status
 ACCEPTED

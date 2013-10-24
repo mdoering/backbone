@@ -1,5 +1,4 @@
-Diatrype grewiae anon. SPECIES
-=======
+# Diatrype grewiae anon. SPECIES
 
 #### Status
 ACCEPTED

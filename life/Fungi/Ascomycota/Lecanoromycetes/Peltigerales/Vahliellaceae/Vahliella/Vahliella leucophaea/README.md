@@ -1,17 +1,16 @@
-Pannaria microphylla var. microphylla VARIETY
-=======
+# Vahliella leucophaea (Vahl) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ric. auton. lich. crost. (Verona) 112, fig. 221 (1852)
+Lichenologist 40(3): 224 (2008)
 
 #### Original name
-Pannaria microphylla var. microphylla
+Lichen leucophaeus Vahl
 
 ### Remarks
 null

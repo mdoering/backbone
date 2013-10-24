@@ -1,5 +1,4 @@
-Clavaria echinata Scop. SPECIES
-=======
+# Clavaria echinata Scop. SPECIES
 
 #### Status
 ACCEPTED

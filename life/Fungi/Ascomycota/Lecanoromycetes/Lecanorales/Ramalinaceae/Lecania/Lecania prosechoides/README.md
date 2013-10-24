@@ -1,5 +1,4 @@
-Lecania prosechoides f. prosechoides FORM
-=======
+# Lecania prosechoides SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecania prosechoides f. prosechoides
+null
 
 ### Remarks
 null

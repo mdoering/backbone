@@ -1,5 +1,4 @@
-Pholiota microcarpa Singer SPECIES
-=======
+# Pholiota microcarpa Singer SPECIES
 
 #### Status
 ACCEPTED

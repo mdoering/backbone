@@ -1,5 +1,4 @@
-Leptosphaeria russellii Shoemaker SPECIES
-=======
+# Leptosphaeria russellii Shoemaker SPECIES
 
 #### Status
 ACCEPTED

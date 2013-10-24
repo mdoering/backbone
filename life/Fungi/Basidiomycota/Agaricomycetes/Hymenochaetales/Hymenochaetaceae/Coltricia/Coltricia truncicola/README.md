@@ -1,5 +1,4 @@
-Coltricia truncicola Corner, 1991 SPECIES
-=======
+# Coltricia truncicola Corner, 1991 SPECIES
 
 #### Status
 ACCEPTED

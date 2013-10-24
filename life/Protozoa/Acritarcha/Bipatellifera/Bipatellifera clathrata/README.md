@@ -1,5 +1,4 @@
-Bipatellifera clathrata C. Singh, 1983 SPECIES
-=======
+# Bipatellifera clathrata C. Singh, 1983 SPECIES
 
 #### Status
 ACCEPTED

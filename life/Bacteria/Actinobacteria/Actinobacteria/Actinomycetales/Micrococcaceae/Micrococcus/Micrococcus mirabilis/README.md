@@ -1,5 +1,4 @@
-Micrococcus mirabilis SPECIES
-=======
+# Micrococcus mirabilis SPECIES
 
 #### Status
 ACCEPTED

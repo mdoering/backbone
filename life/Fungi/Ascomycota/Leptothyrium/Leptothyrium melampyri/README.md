@@ -1,5 +1,4 @@
-Leptothyrium melampyri Bäumler SPECIES
-=======
+# Leptothyrium melampyri Bäumler SPECIES
 
 #### Status
 ACCEPTED

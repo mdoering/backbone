@@ -1,5 +1,4 @@
-Xanthoparmelia granulata Hale SPECIES
-=======
+# Xanthoparmelia granulata Hale SPECIES
 
 #### Status
 ACCEPTED

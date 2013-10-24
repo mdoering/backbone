@@ -1,5 +1,4 @@
-Pseudocercospora lycopodis (Ellis & Everh.) Deighton SPECIES
-=======
+# Pseudocercospora lycopodis (Ellis & Everh.) Deighton SPECIES
 
 #### Status
 ACCEPTED

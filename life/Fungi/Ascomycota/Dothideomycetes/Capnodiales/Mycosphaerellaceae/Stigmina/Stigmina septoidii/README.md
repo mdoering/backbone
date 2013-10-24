@@ -1,5 +1,4 @@
-Stigmina septoidii Hansf. SPECIES
-=======
+# Stigmina septoidii Hansf. SPECIES
 
 #### Status
 ACCEPTED

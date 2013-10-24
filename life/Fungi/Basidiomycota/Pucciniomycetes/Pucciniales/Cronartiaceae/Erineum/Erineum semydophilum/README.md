@@ -1,5 +1,4 @@
-Erineum semydophilum (Schltdl.) Link SPECIES
-=======
+# Erineum semydophilum (Schltdl.) Link SPECIES
 
 #### Status
 ACCEPTED

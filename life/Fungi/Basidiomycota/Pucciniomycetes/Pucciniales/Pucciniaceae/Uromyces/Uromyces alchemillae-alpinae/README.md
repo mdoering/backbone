@@ -1,5 +1,4 @@
-Uromyces alchemillae-alpinae E. Fisch. SPECIES
-=======
+# Uromyces alchemillae-alpinae E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

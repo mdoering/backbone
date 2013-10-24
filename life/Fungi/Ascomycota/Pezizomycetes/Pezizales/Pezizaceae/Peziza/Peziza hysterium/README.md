@@ -1,5 +1,4 @@
-Peziza hysterium Pers. SPECIES
-=======
+# Peziza hysterium Pers. SPECIES
 
 #### Status
 ACCEPTED

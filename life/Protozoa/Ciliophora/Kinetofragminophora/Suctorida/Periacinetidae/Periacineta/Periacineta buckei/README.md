@@ -1,8 +1,7 @@
-Podophrya buckei Kent, 1881 SPECIES
-=======
+# Periacineta buckei (Kent, 1881) Collin, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

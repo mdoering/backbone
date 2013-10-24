@@ -1,5 +1,4 @@
-Coniochaeta arxii Udagawa & Takada, 1989 SPECIES
-=======
+# Coniochaeta arxii Udagawa & Takada, 1989 SPECIES
 
 #### Status
 ACCEPTED

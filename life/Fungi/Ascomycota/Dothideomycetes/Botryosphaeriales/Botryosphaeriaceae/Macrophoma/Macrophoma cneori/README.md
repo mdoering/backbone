@@ -1,5 +1,4 @@
-Macrophoma cneori Gonz. Frag. SPECIES
-=======
+# Macrophoma cneori Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

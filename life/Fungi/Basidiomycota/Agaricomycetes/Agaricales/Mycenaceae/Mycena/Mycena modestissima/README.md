@@ -1,5 +1,4 @@
-Mycena modestissima (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Mycena modestissima (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

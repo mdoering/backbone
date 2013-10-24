@@ -1,5 +1,4 @@
-Corticium helianthi subsp. helianthi Bourdot & Galzin SUBSPECIES
-=======
+# Corticium helianthi Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hyménomyc. de France (Sceaux) 207 (1928)
 
 #### Original name
-Corticium helianthi subsp. helianthi Bourdot & Galzin
+Corticium helianthi Bourdot & Galzin
 
 ### Remarks
 null

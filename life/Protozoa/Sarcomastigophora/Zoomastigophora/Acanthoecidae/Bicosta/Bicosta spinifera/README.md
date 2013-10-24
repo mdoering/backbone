@@ -1,8 +1,7 @@
-Salpingoeca spinifera Throndsen, 1970 SPECIES
-=======
+# Bicosta spinifera (Throndsen, 1970) Leadbeater, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

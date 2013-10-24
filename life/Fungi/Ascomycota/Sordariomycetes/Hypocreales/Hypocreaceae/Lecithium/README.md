@@ -1,5 +1,4 @@
-Lecithium P.A. Saccardo, 1895 GENUS
-=======
+# Lecithium P.A. Saccardo, 1895 GENUS
 
 #### Status
 ACCEPTED

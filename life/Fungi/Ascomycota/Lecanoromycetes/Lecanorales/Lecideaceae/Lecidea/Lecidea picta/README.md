@@ -1,5 +1,4 @@
-Lecidea picta Bock {?} ex Schade SPECIES
-=======
+# Lecidea picta Bock {?} ex Schade SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Usnea jelskii f. jelskii FORM
-=======
+# Usnea cornuta Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Gen. Usnea Monogr. 2(2): 595 (1938)
+Parerga lichenol. (Breslau) 2 (1859)
 
 #### Original name
-Usnea jelskii f. jelskii
+Usnea cornuta Körb.
 
 ### Remarks
 null

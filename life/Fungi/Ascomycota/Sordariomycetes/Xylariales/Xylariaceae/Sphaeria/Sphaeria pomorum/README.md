@@ -1,5 +1,4 @@
-Sphaeria pomorum Schwein. SPECIES
-=======
+# Sphaeria pomorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

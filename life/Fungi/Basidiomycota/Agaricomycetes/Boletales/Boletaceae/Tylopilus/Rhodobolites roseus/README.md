@@ -1,5 +1,4 @@
-Rhodobolites roseus (G. Winter) Beck SPECIES
-=======
+# Rhodobolites roseus (G. Winter) Beck SPECIES
 
 #### Status
 ACCEPTED

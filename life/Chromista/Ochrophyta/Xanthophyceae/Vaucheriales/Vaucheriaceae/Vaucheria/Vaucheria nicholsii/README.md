@@ -1,5 +1,4 @@
-Vaucheria nicholsii Brown, 1937 SPECIES
-=======
+# Vaucheria nicholsii Brown, 1937 SPECIES
 
 #### Status
 ACCEPTED

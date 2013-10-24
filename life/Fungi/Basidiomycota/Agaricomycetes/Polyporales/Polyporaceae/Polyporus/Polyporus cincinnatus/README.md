@@ -1,5 +1,4 @@
-Polyporus cincinnatus SPECIES
-=======
+# Polyporus cincinnatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polycoccum stictaria (Linds.) D.J. Galloway SPECIES
-=======
+# Polycoccum stictaria (Linds.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sphaerella cruris-galli Ellis & Kellerm. SPECIES
-=======
+# Sphaerella crus-galli Ellis & Kellerm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella cruris-galli Ellis & Kellerm.
+Sphaerella crus-galli Ellis & Kellerm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hemithecium consociatum Makhija & Dube SPECIES
-=======
+# Hemithecium consociatum Makhija & Dube SPECIES
 
 #### Status
 ACCEPTED

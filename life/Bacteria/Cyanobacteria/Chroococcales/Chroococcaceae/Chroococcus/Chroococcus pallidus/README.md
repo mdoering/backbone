@@ -1,5 +1,4 @@
-Chroococcus pallidus (Nägeli) Nägeli SPECIES
-=======
+# Chroococcus pallidus (Nägeli) Nägeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma cochlear (Nees) Merr. SPECIES
-=======
+# Ganoderma cochlear (Nees) Merr. SPECIES
 
 #### Status
 ACCEPTED

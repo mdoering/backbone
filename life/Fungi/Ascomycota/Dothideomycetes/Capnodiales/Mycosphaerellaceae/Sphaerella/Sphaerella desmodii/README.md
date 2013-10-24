@@ -1,5 +1,4 @@
-Sphaerella desmodii G. Winter SPECIES
-=======
+# Sphaerella desmodii G. Winter SPECIES
 
 #### Status
 ACCEPTED

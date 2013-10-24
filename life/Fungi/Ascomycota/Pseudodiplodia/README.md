@@ -1,5 +1,4 @@
-Pseudodiplodia (P. Karsten) Saccardo, 1884 GENUS
-=======
+# Pseudodiplodia (P. Karsten) Saccardo, 1884 GENUS
 
 #### Status
 ACCEPTED

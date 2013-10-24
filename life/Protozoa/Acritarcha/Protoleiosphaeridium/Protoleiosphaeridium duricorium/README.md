@@ -1,5 +1,4 @@
-Protoleiosphaeridium duricorium Andreeva, 1966 SPECIES
-=======
+# Protoleiosphaeridium duricorium Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

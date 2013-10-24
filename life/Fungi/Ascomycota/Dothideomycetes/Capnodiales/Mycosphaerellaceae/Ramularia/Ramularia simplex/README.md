@@ -1,14 +1,13 @@
-Ovularia simplex (Pass.) Sacc., 1892 SPECIES
-=======
+# Ramularia simplex Pass., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 10: 541 (1892)
+Erb. critt. Ital. , Ser. 2 24: no. 1181 (1882)
 
 #### Original name
 Ramularia simplex Pass., 1882

@@ -1,5 +1,4 @@
-Tremella coffeicola (Berk.) P. Roberts, 2004 SPECIES
-=======
+# Tremella coffeicola (Berk.) P. Roberts, 2004 SPECIES
 
 #### Status
 ACCEPTED

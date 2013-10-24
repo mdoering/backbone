@@ -1,5 +1,4 @@
-Mycosphaerella tithymali (Pass.) M. Bechet & Moldovan SPECIES
-=======
+# Mycosphaerella tithymali (Pass.) M. Bechet & Moldovan SPECIES
 
 #### Status
 ACCEPTED

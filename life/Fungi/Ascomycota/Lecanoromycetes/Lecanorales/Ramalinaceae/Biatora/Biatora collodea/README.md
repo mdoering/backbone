@@ -1,5 +1,4 @@
-Biatora collodea Th. Fr. SPECIES
-=======
+# Biatora collodea Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus murrayi Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus murrayi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

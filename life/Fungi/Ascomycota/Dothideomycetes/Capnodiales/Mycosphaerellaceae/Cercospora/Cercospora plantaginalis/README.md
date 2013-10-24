@@ -1,5 +1,4 @@
-Cercospora plantaginalis Tehon SPECIES
-=======
+# Cercospora plantaginalis Tehon SPECIES
 
 #### Status
 ACCEPTED

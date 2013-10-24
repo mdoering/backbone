@@ -1,5 +1,4 @@
-Pseudocercospora laburni (W.W. Ray) Deighton SPECIES
-=======
+# Pseudocercospora laburni (W.W. Ray) Deighton SPECIES
 
 #### Status
 ACCEPTED

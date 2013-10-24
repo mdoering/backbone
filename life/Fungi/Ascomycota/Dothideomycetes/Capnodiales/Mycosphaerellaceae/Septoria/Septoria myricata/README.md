@@ -1,5 +1,4 @@
-Septoria myricata Dearn. & House SPECIES
-=======
+# Septoria myricata Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

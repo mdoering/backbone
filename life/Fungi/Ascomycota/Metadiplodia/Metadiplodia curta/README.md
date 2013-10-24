@@ -1,5 +1,4 @@
-Metadiplodia curta (Sacc.) Zambett. SPECIES
-=======
+# Metadiplodia curta (Sacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

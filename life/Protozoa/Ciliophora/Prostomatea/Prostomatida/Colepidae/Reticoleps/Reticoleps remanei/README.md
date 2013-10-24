@@ -1,8 +1,7 @@
-Coleps remanei Kahl, 1933 SPECIES
-=======
+# Reticoleps remanei (Kahl, 1933) Foissner, Kusuoka & Shimano, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

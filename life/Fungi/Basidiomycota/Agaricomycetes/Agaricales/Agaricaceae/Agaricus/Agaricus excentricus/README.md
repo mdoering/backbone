@@ -1,5 +1,4 @@
-Agaricus excentricus Schumach. SPECIES
-=======
+# Agaricus excentricus Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fellhanera rubrolecanorina A. B. Peña & Colín SPECIES
-=======
+# Fellhanera rubrolecanorina A. B. Peña & Colín SPECIES
 
 #### Status
 ACCEPTED

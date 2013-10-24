@@ -1,5 +1,4 @@
-Jirovecia caudata (Léger & Hesse) J. Weiser SPECIES
-=======
+# Jirovecia caudata (Léger & Hesse) J. Weiser SPECIES
 
 #### Status
 ACCEPTED

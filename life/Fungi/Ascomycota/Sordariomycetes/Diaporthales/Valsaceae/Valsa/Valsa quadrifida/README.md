@@ -1,5 +1,4 @@
-Valsa quadrifida (Schwein.) Cooke SPECIES
-=======
+# Valsa quadrifida (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

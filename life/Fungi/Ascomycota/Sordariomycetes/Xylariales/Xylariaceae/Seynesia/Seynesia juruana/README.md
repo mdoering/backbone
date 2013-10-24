@@ -1,5 +1,4 @@
-Seynesia juruana Henn. SPECIES
-=======
+# Seynesia juruana Henn. SPECIES
 
 #### Status
 ACCEPTED

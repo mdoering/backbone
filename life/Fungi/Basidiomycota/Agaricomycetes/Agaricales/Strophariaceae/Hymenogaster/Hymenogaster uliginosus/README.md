@@ -1,5 +1,4 @@
-Hymenogaster uliginosus Soehner SPECIES
-=======
+# Hymenogaster uliginosus Soehner SPECIES
 
 #### Status
 ACCEPTED

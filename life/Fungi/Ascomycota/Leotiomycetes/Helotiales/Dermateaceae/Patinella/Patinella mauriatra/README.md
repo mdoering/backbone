@@ -1,5 +1,4 @@
-Patinella mauriatra (Cooke & Ellis) Sacc. SPECIES
-=======
+# Patinella mauriatra (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

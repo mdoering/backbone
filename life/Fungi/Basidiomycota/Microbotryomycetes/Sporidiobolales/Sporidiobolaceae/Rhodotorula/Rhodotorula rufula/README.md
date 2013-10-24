@@ -1,5 +1,4 @@
-Rhodotorula rufula (Saito) F.C. Harrison SPECIES
-=======
+# Rhodotorula rufula (Saito) F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

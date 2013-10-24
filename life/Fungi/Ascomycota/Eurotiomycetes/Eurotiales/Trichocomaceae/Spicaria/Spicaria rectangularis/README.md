@@ -1,5 +1,4 @@
-Spicaria rectangularis Petch SPECIES
-=======
+# Spicaria rectangularis Petch SPECIES
 
 #### Status
 ACCEPTED

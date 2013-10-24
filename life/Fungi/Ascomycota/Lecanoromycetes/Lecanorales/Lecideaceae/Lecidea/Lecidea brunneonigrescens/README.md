@@ -1,5 +1,4 @@
-Lecidea brunneonigrescens Werner SPECIES
-=======
+# Lecidea brunneonigrescens Werner SPECIES
 
 #### Status
 ACCEPTED

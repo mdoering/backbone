@@ -1,5 +1,4 @@
-Polyporus metallicus Lloyd SPECIES
-=======
+# Polyporus metallicus Lloyd SPECIES
 
 #### Status
 ACCEPTED

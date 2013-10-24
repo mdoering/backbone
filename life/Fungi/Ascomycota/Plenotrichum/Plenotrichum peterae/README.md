@@ -1,5 +1,4 @@
-Plenotrichum peterae Petr. SPECIES
-=======
+# Plenotrichum peterae Petr. SPECIES
 
 #### Status
 ACCEPTED

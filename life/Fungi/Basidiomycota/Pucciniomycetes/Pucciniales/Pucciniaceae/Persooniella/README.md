@@ -1,5 +1,4 @@
-Persooniella GENUS
-=======
+# Persooniella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora compacta (Cooke & Ellis) Sacc. & Voglino SPECIES
-=======
+# Oospora compacta (Cooke & Ellis) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

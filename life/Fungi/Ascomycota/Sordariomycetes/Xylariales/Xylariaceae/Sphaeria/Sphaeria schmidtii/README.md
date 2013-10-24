@@ -1,5 +1,4 @@
-Sphaeria schmidtii Auersw. SPECIES
-=======
+# Sphaeria schmidtii Auersw. SPECIES
 
 #### Status
 ACCEPTED

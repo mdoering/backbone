@@ -1,5 +1,4 @@
-Lepra saxatilis (L.) F.H. Wigg. SPECIES
-=======
+# Lepra saxatilis (L.) F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

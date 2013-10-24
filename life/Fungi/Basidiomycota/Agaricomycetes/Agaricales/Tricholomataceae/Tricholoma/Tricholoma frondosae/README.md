@@ -1,5 +1,4 @@
-Tricholoma frondosae Kalamees & Shchukin SPECIES
-=======
+# Tricholoma frondosae Kalamees & Shchukin SPECIES
 
 #### Status
 ACCEPTED

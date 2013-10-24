@@ -1,5 +1,4 @@
-Valvulineria arctica Green, 1960 SPECIES
-=======
+# Valvulineria arctica Green, 1960 SPECIES
 
 #### Status
 ACCEPTED

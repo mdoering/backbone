@@ -1,5 +1,4 @@
-Diplodia thesii Wehm. SPECIES
-=======
+# Diplodia thesii Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodosaria lamnulifera Thalmann, 1950 SPECIES
-=======
+# Nodosaria lamnulifera Thalmann, 1950 SPECIES
 
 #### Status
 ACCEPTED

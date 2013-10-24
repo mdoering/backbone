@@ -1,5 +1,4 @@
-Chorda minuta Kjellman SPECIES
-=======
+# Chorda minuta Kjellman SPECIES
 
 #### Status
 ACCEPTED

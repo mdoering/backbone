@@ -1,17 +1,16 @@
-Filobasidium foriforme L.S. Olive SPECIES
-=======
+# Filobasidium floriforme L.S. Olive, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 84: 261 (1968)
 
 #### Original name
-Filobasidium foriforme L.S. Olive
+Filobasidium floriforme L.S. Olive, 1968
 
 ### Remarks
 null

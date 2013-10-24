@@ -1,5 +1,4 @@
-Nosemoides vivieri (Vinckier, Devauchelle & Prensier) Vinckier SPECIES
-=======
+# Nosemoides vivieri (Vinckier, Devauchelle & Prensier) Vinckier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clonophoromyces Thaxt. GENUS
-=======
+# Clonophoromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

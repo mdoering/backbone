@@ -1,5 +1,4 @@
-Thrombium porocyphoides Lettau SPECIES
-=======
+# Thrombium porocyphoides Lettau SPECIES
 
 #### Status
 ACCEPTED

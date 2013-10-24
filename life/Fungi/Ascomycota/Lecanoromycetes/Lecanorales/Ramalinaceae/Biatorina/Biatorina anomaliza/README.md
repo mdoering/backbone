@@ -1,5 +1,4 @@
-Biatorina anomaliza SPECIES
-=======
+# Biatorina anomaliza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium africanum Karling SPECIES
-=======
+# Synchytrium africanum Karling SPECIES
 
 #### Status
 ACCEPTED

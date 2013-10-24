@@ -1,5 +1,4 @@
-Trogia subtomentosa Corner SPECIES
-=======
+# Trogia subtomentosa Corner SPECIES
 
 #### Status
 ACCEPTED

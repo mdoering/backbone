@@ -1,5 +1,4 @@
-Anzia afromontana R. Sant. SPECIES
-=======
+# Anzia afromontana R. Sant. SPECIES
 
 #### Status
 ACCEPTED

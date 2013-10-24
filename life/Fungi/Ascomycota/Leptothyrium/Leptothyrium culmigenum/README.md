@@ -1,5 +1,4 @@
-Leptothyrium culmigenum Sacc. & Brunaud SPECIES
-=======
+# Leptothyrium culmigenum Sacc. & Brunaud SPECIES
 
 #### Status
 ACCEPTED

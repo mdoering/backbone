@@ -1,5 +1,4 @@
-Lichen scabrosus SPECIES
-=======
+# Lichen scabrosus SPECIES
 
 #### Status
 ACCEPTED

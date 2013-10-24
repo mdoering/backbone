@@ -1,5 +1,4 @@
-Lachnocladium sarasinii Henn. SPECIES
-=======
+# Lachnocladium sarasinii Henn. SPECIES
 
 #### Status
 ACCEPTED

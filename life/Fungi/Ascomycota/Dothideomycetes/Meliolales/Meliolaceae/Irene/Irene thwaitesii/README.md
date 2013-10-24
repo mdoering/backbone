@@ -1,5 +1,4 @@
-Irene thwaitesii Berk. ex Hansf. SPECIES
-=======
+# Irene thwaitesii Berk. ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

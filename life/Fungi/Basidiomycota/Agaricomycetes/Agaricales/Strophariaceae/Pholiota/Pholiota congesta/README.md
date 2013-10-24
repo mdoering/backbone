@@ -1,5 +1,4 @@
-Pholiota congesta (Kalchbr.) Sacc. SPECIES
-=======
+# Pholiota congesta (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

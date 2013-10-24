@@ -1,5 +1,4 @@
-Urocystis johansonii (Lagerh.) Magnus SPECIES
-=======
+# Urocystis johansonii (Lagerh.) Magnus SPECIES
 
 #### Status
 ACCEPTED

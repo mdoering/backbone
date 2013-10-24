@@ -1,5 +1,4 @@
-Lalaria carnea R.T. Moore SPECIES
-=======
+# Lalaria carnea R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

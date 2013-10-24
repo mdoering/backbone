@@ -1,5 +1,4 @@
-Trichophrya columbiae Wailes, 1932 SPECIES
-=======
+# Trichophrya columbiae Wailes, 1932 SPECIES
 
 #### Status
 ACCEPTED

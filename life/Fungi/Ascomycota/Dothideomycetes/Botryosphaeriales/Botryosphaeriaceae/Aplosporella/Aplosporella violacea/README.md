@@ -1,5 +1,4 @@
-Aplosporella violacea Massee SPECIES
-=======
+# Aplosporella violacea Massee SPECIES
 
 #### Status
 ACCEPTED

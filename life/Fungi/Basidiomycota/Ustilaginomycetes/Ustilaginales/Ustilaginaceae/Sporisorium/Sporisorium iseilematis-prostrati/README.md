@@ -1,5 +1,4 @@
-Sporisorium iseilematis-prostrati Vánky SPECIES
-=======
+# Sporisorium iseilematis-prostrati Vánky SPECIES
 
 #### Status
 ACCEPTED

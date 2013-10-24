@@ -1,5 +1,4 @@
-Nocardiopsis aegyptia Sabry et al., 2004 SPECIES
-=======
+# Nocardiopsis aegyptia Sabry et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

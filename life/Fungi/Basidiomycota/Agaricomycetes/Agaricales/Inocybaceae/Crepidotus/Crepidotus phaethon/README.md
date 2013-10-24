@@ -1,5 +1,4 @@
-Crepidotus phaethon (Cooke & Massee) Sacc. SPECIES
-=======
+# Crepidotus phaethon (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

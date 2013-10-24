@@ -1,5 +1,4 @@
-Leptosphaeria nigromaculata (Rehm) E. Müll. SPECIES
-=======
+# Leptosphaeria nigromaculata (Rehm) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

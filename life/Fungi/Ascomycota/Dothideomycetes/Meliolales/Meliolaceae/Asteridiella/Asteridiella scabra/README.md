@@ -1,5 +1,4 @@
-Asteridiella scabra (Doidge) Hansf. SPECIES
-=======
+# Asteridiella scabra (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

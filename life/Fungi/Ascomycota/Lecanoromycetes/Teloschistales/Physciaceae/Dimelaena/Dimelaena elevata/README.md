@@ -1,5 +1,4 @@
-Dimelaena elevata Elix, Kalb & Wippel SPECIES
-=======
+# Dimelaena elevata Elix, Kalb & Wippel SPECIES
 
 #### Status
 ACCEPTED

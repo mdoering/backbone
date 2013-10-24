@@ -1,5 +1,4 @@
-Hydnum puberulum Beck SPECIES
-=======
+# Hydnum puberulum Beck SPECIES
 
 #### Status
 ACCEPTED

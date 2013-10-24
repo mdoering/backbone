@@ -1,5 +1,4 @@
-Siphula elixii Kantvilas, 1994 SPECIES
-=======
+# Siphula elixii Kantvilas, 1994 SPECIES
 
 #### Status
 DOUBTFUL

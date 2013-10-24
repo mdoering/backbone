@@ -1,5 +1,4 @@
-Lachnum groenlandicum Rostr. SPECIES
-=======
+# Lachnum groenlandicum Rostr. SPECIES
 
 #### Status
 ACCEPTED

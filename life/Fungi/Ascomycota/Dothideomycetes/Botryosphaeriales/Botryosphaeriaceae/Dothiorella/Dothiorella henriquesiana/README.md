@@ -1,5 +1,4 @@
-Dothiorella henriquesiana (F.P. Almeida & Sousa da Câmara) Petr. SPECIES
-=======
+# Dothiorella henriquesiana (F.P. Almeida & Sousa da Câmara) Petr. SPECIES
 
 #### Status
 ACCEPTED

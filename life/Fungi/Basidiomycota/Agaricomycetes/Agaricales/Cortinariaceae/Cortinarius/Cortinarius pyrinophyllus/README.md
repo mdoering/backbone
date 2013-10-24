@@ -1,5 +1,4 @@
-Cortinarius pyrinophyllus Rob. Henry SPECIES
-=======
+# Cortinarius pyrinophyllus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

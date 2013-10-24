@@ -1,5 +1,4 @@
-Puccinia antensis J.C. Lindq. SPECIES
-=======
+# Puccinia antensis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

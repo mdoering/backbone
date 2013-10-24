@@ -1,5 +1,4 @@
-Mycena simia Kühner SPECIES
-=======
+# Mycena simia Kühner SPECIES
 
 #### Status
 ACCEPTED

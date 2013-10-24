@@ -1,5 +1,4 @@
-Psilocybe overeemii E. Horak & Desjardin SPECIES
-=======
+# Psilocybe overeemii E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

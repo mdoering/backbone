@@ -1,5 +1,4 @@
-Astracanthidae Haeckel, 1887 FAMILY
-=======
+# Astracanthidae Haeckel, 1887 FAMILY
 
 #### Status
 ACCEPTED

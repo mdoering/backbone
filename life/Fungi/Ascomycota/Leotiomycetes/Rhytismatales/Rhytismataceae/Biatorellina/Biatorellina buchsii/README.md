@@ -1,5 +1,4 @@
-Biatorellina buchsii Henn. SPECIES
-=======
+# Biatorellina buchsii Henn. SPECIES
 
 #### Status
 ACCEPTED

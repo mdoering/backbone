@@ -1,5 +1,4 @@
-Corticium rubrocanum Thüm. SPECIES
-=======
+# Corticium rubrocanum Thüm. SPECIES
 
 #### Status
 ACCEPTED

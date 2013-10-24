@@ -1,5 +1,4 @@
-Oxystoma connatum Eschw. SPECIES
-=======
+# Oxystoma connatum Eschw. SPECIES
 
 #### Status
 ACCEPTED

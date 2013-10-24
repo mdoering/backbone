@@ -1,5 +1,4 @@
-Hygrocybe badioclavata A.M. Young SPECIES
-=======
+# Hygrocybe badioclavata A.M. Young SPECIES
 
 #### Status
 ACCEPTED

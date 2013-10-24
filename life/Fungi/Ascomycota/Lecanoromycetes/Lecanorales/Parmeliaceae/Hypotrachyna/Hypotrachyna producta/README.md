@@ -1,5 +1,4 @@
-Hypotrachyna producta Hale SPECIES
-=======
+# Hypotrachyna producta Hale SPECIES
 
 #### Status
 ACCEPTED

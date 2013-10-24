@@ -1,5 +1,4 @@
-Cyathus similis Cooke SPECIES
-=======
+# Cyathus similis Cooke SPECIES
 
 #### Status
 ACCEPTED

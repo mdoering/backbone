@@ -1,5 +1,4 @@
-Omphalia microscopica Wirtg. SPECIES
-=======
+# Omphalia microscopica Wirtg. SPECIES
 
 #### Status
 ACCEPTED

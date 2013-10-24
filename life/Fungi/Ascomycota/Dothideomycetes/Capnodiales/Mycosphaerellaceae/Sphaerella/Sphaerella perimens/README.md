@@ -1,5 +1,4 @@
-Sphaerella perimens Kirschst. SPECIES
-=======
+# Sphaerella perimens Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia carinogammari SPECIES
-=======
+# Cothurnia carinogammari SPECIES
 
 #### Status
 ACCEPTED

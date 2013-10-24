@@ -1,5 +1,4 @@
-Sabouraudites asteroides var. asteroides VARIETY
-=======
+# Sabouraudites asteroides (Sabour.) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls Parasit. hum. comp. 1: 327 (1923)
 
 #### Original name
-Sabouraudites asteroides var. asteroides
+Trichophyton asteroides Sabour.
 
 ### Remarks
 null

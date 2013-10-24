@@ -1,5 +1,4 @@
-Puccinia spiranthicola Cummins SPECIES
-=======
+# Puccinia spiranthicola Cummins SPECIES
 
 #### Status
 ACCEPTED

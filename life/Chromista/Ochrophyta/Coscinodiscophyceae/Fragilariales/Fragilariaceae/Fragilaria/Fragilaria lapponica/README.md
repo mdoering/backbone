@@ -1,5 +1,4 @@
-Fragilaria lapponica A. Grunow SPECIES
-=======
+# Fragilaria lapponica A. Grunow SPECIES
 
 #### Status
 ACCEPTED

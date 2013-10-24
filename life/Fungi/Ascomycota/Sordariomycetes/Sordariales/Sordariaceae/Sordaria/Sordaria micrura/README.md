@@ -1,5 +1,4 @@
-Sordaria micrura (Speg.) Sacc. SPECIES
-=======
+# Sordaria micrura (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

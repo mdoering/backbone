@@ -1,5 +1,4 @@
-Phyllopsora fendleri (Tuck. & Mont.) Müll. Arg. SPECIES
-=======
+# Phyllopsora fendleri (Tuck. & Mont.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

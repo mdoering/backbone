@@ -1,14 +1,13 @@
-Gomphosphaeria lacustris lacustris Chodat SUBSPECIES
-=======
+# Gomphosphaeria Kutzing, 1836 GENUS
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Algarum Aquae Dulcis German. 16: 3.
 
 #### Original name
 null

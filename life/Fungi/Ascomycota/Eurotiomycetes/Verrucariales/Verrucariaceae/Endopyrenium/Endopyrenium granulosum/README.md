@@ -1,5 +1,4 @@
-Endopyrenium granulosum B. de Lesd. SPECIES
-=======
+# Endopyrenium granulosum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

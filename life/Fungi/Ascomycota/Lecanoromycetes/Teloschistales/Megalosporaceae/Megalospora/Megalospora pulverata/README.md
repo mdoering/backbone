@@ -1,17 +1,16 @@
-Megalospora campylospora (Stirt.) Sipman SPECIES
-=======
+# Megalospora pulverata Kantvilas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 18: 114 (1983)
+Lichenologist 26(4): 355 (1994)
 
 #### Original name
-Lecidea campylospora Stirt.
+Megalospora pulverata Kantvilas
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola dieffenbachiae F. Stevens SPECIES
-=======
+# Meliola dieffenbachiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

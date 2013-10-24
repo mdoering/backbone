@@ -1,5 +1,4 @@
-Psilosphaeria australis (Speg.) Cooke SPECIES
-=======
+# Psilosphaeria australis (Speg.) Cooke SPECIES
 
 #### Status
 ACCEPTED

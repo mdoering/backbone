@@ -1,5 +1,4 @@
-Penicillium meyeri G. Sm. SPECIES
-=======
+# Penicillium meyeri G. Sm. SPECIES
 
 #### Status
 ACCEPTED

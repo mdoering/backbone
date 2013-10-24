@@ -1,5 +1,4 @@
-Russula granulata var. lepiotoides G.F. Atk. VARIETY
-=======
+# Russula granulata Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Russula granulata var. lepiotoides G.F. Atk.
+Russula granulata Peck
 
 ### Remarks
 null

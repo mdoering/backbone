@@ -1,14 +1,13 @@
-Heteromyces fibrillosus (Burt) L.S. Olive, 1957 SPECIES
-=======
+# Oliveonia fibrillosa (Burt) Donk, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 44(5): 433 (1957)
+Fungus, Wageningen 28: 20 (1958)
 
 #### Original name
 Sebacina fibrillosa Burt, 1926

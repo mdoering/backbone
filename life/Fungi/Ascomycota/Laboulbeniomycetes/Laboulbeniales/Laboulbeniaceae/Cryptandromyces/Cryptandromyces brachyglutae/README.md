@@ -1,5 +1,4 @@
-Cryptandromyces brachyglutae J. Siemaszko & Siemaszko SPECIES
-=======
+# Cryptandromyces brachyglutae J. Siemaszko & Siemaszko SPECIES
 
 #### Status
 ACCEPTED

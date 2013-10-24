@@ -1,5 +1,4 @@
-Micropeltidium mouririae Bat. & I.H. Lima SPECIES
-=======
+# Micropeltidium mouririae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

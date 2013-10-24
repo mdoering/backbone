@@ -1,5 +1,4 @@
-Limboria oleae (A. Massal.) Trevis. SPECIES
-=======
+# Limboria oleae (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

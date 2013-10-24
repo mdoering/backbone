@@ -1,14 +1,13 @@
-Dicaeoma flaccidum (Berk. & Broome) Kuntze, 1898 SPECIES
-=======
+# Puccinia flaccida Berk. & Broome, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 468 (1898)
+J. Linn. Soc. , Bot. 14(2): 91 (1875)
 
 #### Original name
 Puccinia flaccida Berk. & Broome, 1875

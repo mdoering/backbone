@@ -1,5 +1,4 @@
-Globotrochamminopsis Brönnimann & Zaninetti, 1984 GENUS
-=======
+# Globotrochamminopsis Brönnimann & Zaninetti, 1984 GENUS
 
 #### Status
 ACCEPTED

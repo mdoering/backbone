@@ -1,5 +1,4 @@
-Didymosphaeria sphaerophora Ellis & Everh. SPECIES
-=======
+# Didymosphaeria sphaerophora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella ipomoeae S. Ahmad SPECIES
-=======
+# Dothiorella ipomoeae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

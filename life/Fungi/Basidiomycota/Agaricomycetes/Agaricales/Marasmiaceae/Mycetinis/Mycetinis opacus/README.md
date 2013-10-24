@@ -1,5 +1,4 @@
-Mycetinis opacus (Berk. & M.A. Curtis) A.W. Wilson SPECIES
-=======
+# Mycetinis opacus (Berk. & M.A. Curtis) A.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

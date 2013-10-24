@@ -1,5 +1,4 @@
-Pseudohalonectria lignicola Minoura & T. Muroi, 1978 SPECIES
-=======
+# Pseudohalonectria lignicola Minoura & T. Muroi, 1978 SPECIES
 
 #### Status
 ACCEPTED

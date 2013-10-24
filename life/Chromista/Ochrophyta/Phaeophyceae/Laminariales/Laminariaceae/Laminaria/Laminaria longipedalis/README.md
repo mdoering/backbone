@@ -1,5 +1,4 @@
-Laminaria longipedalis var. diabolica (Miyabe) Miyabe VARIETY
-=======
+# Laminaria longipedalis Okamura SPECIES
 
 #### Status
 ACCEPTED

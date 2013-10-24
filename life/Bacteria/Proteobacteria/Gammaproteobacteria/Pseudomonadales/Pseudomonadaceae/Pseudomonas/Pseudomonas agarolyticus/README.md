@@ -1,5 +1,4 @@
-Pseudomonas agarolyticus Jawaid & Khatri, 2002 SPECIES
-=======
+# Pseudomonas agarolyticus Jawaid & Khatri, 2002 SPECIES
 
 #### Status
 ACCEPTED

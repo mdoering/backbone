@@ -1,5 +1,4 @@
-Trichodothis zernyi Petr. SPECIES
-=======
+# Trichodothis zernyi Petr. SPECIES
 
 #### Status
 ACCEPTED

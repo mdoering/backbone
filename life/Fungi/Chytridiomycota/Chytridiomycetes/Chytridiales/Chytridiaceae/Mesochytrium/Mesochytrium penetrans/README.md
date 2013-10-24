@@ -1,5 +1,4 @@
-Mesochytrium penetrans B.V. Gromov, Mamkaeva & Pljusch, 2000 SPECIES
-=======
+# Mesochytrium penetrans B.V. Gromov, Mamkaeva & Pljusch, 2000 SPECIES
 
 #### Status
 ACCEPTED

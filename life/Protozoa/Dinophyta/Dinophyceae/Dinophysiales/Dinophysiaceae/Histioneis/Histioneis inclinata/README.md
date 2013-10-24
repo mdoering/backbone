@@ -1,5 +1,4 @@
-Histioneis inclinata Kofoid & Michener SPECIES
-=======
+# Histioneis inclinata Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

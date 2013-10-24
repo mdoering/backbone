@@ -1,5 +1,4 @@
-Daedalea ligneotexta Van der Byl SPECIES
-=======
+# Daedalea ligneotexta Van der Byl SPECIES
 
 #### Status
 ACCEPTED

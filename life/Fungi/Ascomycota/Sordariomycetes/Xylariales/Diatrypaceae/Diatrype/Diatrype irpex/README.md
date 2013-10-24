@@ -1,5 +1,4 @@
-Diatrype irpex Berk. & Broome SPECIES
-=======
+# Diatrype irpex Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea caesiopallida Nyl. SPECIES
-=======
+# Lecidea caesiopallida Nyl. SPECIES
 
 #### Status
 ACCEPTED

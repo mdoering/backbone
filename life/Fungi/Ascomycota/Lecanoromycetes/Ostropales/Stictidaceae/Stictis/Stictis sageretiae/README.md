@@ -1,5 +1,4 @@
-Stictis sageretiae E.K. Cash SPECIES
-=======
+# Stictis sageretiae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

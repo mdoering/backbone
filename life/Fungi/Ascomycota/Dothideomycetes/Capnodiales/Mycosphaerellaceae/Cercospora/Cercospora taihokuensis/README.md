@@ -1,5 +1,4 @@
-Cercospora taihokuensis Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Cercospora taihokuensis Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

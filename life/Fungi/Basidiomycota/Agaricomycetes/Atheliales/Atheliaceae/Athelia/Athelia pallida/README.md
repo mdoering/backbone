@@ -1,5 +1,4 @@
-Athelia pallida Pers. SPECIES
-=======
+# Athelia pallida Pers. SPECIES
 
 #### Status
 ACCEPTED

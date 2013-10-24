@@ -1,14 +1,13 @@
-Gloeocystidiellum furfuraceum (Bres.) Donk, 1956 SPECIES
-=======
+# Boidinia furfuracea (Bres.) Stalpers & Hjortstam, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 26: 9 (1956)
+in Hjortstam & Stalpers, Mycotaxon 14(1): 77 (1982)
 
 #### Original name
 Hypochnus furfuraceus Bres., 1900

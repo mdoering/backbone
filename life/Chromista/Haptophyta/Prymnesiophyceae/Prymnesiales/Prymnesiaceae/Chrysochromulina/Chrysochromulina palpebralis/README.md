@@ -1,5 +1,4 @@
-Chrysochromulina palpebralis Seoane, Eikrem, Pienaar & Edvardsen, 2009 SPECIES
-=======
+# Chrysochromulina palpebralis Seoane, Eikrem, Pienaar & Edvardsen, 2009 SPECIES
 
 #### Status
 ACCEPTED

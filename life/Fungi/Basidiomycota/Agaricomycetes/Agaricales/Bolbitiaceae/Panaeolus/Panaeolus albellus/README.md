@@ -1,5 +1,4 @@
-Panaeolus albellus Massee SPECIES
-=======
+# Panaeolus albellus Massee SPECIES
 
 #### Status
 ACCEPTED

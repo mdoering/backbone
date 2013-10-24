@@ -1,5 +1,4 @@
-Cortinarius albescens A.H. Sm. SPECIES
-=======
+# Cortinarius albescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

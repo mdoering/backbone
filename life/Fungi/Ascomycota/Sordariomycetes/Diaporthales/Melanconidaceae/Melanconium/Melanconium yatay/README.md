@@ -1,5 +1,4 @@
-Melanconium yatay Speg. SPECIES
-=======
+# Melanconium yatay Speg. SPECIES
 
 #### Status
 ACCEPTED

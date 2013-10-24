@@ -1,5 +1,4 @@
-Peziza sphacelata Schumach. SPECIES
-=======
+# Peziza sphacelata Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccotrichum martii Link SPECIES
-=======
+# Coccotrichum martii Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licea erddigensis Ing, 1999 SPECIES
-=======
+# Licea erddigensis Ing, 1999 SPECIES
 
 #### Status
 ACCEPTED

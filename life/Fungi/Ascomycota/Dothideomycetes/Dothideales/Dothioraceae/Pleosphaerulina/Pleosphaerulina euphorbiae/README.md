@@ -1,5 +1,4 @@
-Pleosphaerulina euphorbiae Lebedeva SPECIES
-=======
+# Pleosphaerulina euphorbiae Lebedeva SPECIES
 
 #### Status
 ACCEPTED

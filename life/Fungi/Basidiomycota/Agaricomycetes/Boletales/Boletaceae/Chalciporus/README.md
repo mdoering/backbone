@@ -1,5 +1,4 @@
-Chalciporus Bataille, 1908 GENUS
-=======
+# Chalciporus Bataille, 1908 GENUS
 
 #### Status
 ACCEPTED

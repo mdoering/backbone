@@ -1,5 +1,4 @@
-Cystoderma pulveraceum (Peck) A.H. Sm. & Singer SPECIES
-=======
+# Cystoderma pulveraceum (Peck) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

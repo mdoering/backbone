@@ -1,5 +1,4 @@
-Micrhystridium lymense Wall, 1965 SPECIES
-=======
+# Micrhystridium lymense Wall, 1965 SPECIES
 
 #### Status
 ACCEPTED

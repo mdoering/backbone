@@ -1,5 +1,4 @@
-Septoria theobromicola Cif. & Gonz. Frag. SPECIES
-=======
+# Septoria theobromicola Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

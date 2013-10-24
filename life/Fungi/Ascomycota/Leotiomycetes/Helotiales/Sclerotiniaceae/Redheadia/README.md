@@ -1,5 +1,4 @@
-Redheadia Y. Suto & Suyama, 2005 GENUS
-=======
+# Redheadia Y. Suto & Suyama, 2005 GENUS
 
 #### Status
 ACCEPTED

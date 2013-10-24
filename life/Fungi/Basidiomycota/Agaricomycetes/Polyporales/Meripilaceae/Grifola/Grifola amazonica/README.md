@@ -1,5 +1,4 @@
-Grifola amazonica Ryvarden, 2004 SPECIES
-=======
+# Grifola amazonica Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

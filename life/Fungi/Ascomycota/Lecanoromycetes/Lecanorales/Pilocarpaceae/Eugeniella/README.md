@@ -1,5 +1,4 @@
-Eugeniella GENUS
-=======
+# Eugeniella GENUS
 
 #### Status
 ACCEPTED

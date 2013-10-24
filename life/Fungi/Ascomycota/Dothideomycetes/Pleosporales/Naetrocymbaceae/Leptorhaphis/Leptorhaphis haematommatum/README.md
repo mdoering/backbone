@@ -1,5 +1,4 @@
-Leptorhaphis haematommatum Hafellner & Kalb SPECIES
-=======
+# Leptorhaphis haematommatum Hafellner & Kalb SPECIES
 
 #### Status
 ACCEPTED

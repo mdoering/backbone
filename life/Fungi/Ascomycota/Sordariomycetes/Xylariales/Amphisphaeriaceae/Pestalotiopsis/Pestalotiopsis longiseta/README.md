@@ -1,5 +1,4 @@
-Pestalotiopsis longiseta (Speg.) K. Dai & Ts. Kobay. SPECIES
-=======
+# Pestalotiopsis longiseta (Speg.) K. Dai & Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

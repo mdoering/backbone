@@ -1,5 +1,4 @@
-Peridiscophrya Nozawa, 1938 GENUS
-=======
+# Peridiscophrya Nozawa, 1938 GENUS
 
 #### Status
 ACCEPTED

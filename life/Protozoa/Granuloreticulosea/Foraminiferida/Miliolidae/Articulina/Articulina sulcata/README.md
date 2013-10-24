@@ -1,5 +1,4 @@
-Articulina sulcata SPECIES
-=======
+# Articulina sulcata SPECIES
 
 #### Status
 ACCEPTED

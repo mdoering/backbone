@@ -1,17 +1,16 @@
-Arcyria magna f. rosea (Rex) Y. Yamam. FORM
-=======
+# Arcyria magna Rex, 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 180 (1998)
+Proc. Acad. nat. Sci. Philad. , 1893 45(3): 364 (1893)
 
 #### Original name
-Arcyria magna var. rosea Rex
+Arcyria magna Rex, 1893
 
 ### Remarks
 null

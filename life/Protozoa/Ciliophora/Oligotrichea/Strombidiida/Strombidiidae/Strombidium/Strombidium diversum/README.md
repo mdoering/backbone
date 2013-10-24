@@ -1,5 +1,4 @@
-Strombidium diversum Busch, ? SPECIES
-=======
+# Strombidium diversum Busch, ? SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprotus tetrasporus Häffner SPECIES
-=======
+# Coprotus tetrasporus Häffner SPECIES
 
 #### Status
 ACCEPTED

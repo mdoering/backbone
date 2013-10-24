@@ -1,5 +1,4 @@
-Heterocapsa quadridentata Stein, 1883 SPECIES
-=======
+# Heterocapsa quadridentata Stein, 1883 SPECIES
 
 #### Status
 ACCEPTED

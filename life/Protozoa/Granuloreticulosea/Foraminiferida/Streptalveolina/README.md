@@ -1,5 +1,4 @@
-Streptalveolina Fourcade, Tardy & Vila, 1975 GENUS
-=======
+# Streptalveolina Fourcade, Tardy & Vila, 1975 GENUS
 
 #### Status
 ACCEPTED

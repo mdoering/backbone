@@ -1,5 +1,4 @@
-Cothurnopsis imberbis SPECIES
-=======
+# Cothurnopsis imberbis SPECIES
 
 #### Status
 ACCEPTED

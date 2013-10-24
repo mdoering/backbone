@@ -1,5 +1,4 @@
-Sporidesmium pseudoseptatum M.B. Ellis SPECIES
-=======
+# Sporidesmium pseudoseptatum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudonectria bambusae (Berk. & Broome) Höhn. SPECIES
-=======
+# Pseudonectria bambusae (Berk. & Broome) Höhn. SPECIES
 
 #### Status
 ACCEPTED

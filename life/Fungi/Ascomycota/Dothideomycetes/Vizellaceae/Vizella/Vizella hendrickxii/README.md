@@ -1,5 +1,4 @@
-Vizella hendrickxii (Hansf.) S. Hughes SPECIES
-=======
+# Vizella hendrickxii (Hansf.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

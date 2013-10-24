@@ -1,14 +1,13 @@
-Phaeochaetia strigosa (L.R. Fraser) Bat. & Cif., 1962 SPECIES
-=======
+# Chaetothyrium strigosum L.R. Fraser, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 60: 288 (1935)
 
 #### Original name
 Chaetothyrium strigosum L.R. Fraser, 1935

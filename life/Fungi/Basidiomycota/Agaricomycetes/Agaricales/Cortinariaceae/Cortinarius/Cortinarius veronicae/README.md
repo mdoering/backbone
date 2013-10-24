@@ -1,17 +1,16 @@
-Cortinarius veronicae var. veronicae VARIETY
-=======
+# Cortinarius veronicae Soop, 1998 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Docums Mycol. 28(no. 112): 21 (1998)
 
 #### Original name
-null
+Cortinarius veronicae Soop, 1998
 
 ### Remarks
 null

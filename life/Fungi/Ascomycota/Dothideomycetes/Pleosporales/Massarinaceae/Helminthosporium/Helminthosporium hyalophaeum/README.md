@@ -1,17 +1,16 @@
-Helmisporium hyalophaeum Sacc. SPECIES
-=======
+# Helminthosporium hyalophaeum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Michelia 2(no. 8): 558 (1882)
 
 #### Original name
-Helmisporium hyalophaeum Sacc.
+Helminthosporium hyalophaeum Sacc.
 
 ### Remarks
 null

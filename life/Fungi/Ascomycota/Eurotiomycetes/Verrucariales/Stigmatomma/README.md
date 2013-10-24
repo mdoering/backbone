@@ -1,5 +1,4 @@
-Stigmatomma GENUS
-=======
+# Stigmatomma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora balansae f. balansae FORM
-=======
+# Cercospora balansae Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora balansae f. balansae
+Cercospora balansae Speg.
 
 ### Remarks
 null

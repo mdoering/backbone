@@ -1,5 +1,4 @@
-Toninia conglomerascens (Nyl.) Zahlbr. SPECIES
-=======
+# Toninia conglomerascens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

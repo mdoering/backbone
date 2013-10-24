@@ -1,17 +1,16 @@
-Dacryomyces pallidus Coker SPECIES
-=======
+# Dacrymyces pallidus Coker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 35: 171 (1920)
 
 #### Original name
-Dacryomyces pallidus Coker
+Dacrymyces pallidus Coker
 
 ### Remarks
 null

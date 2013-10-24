@@ -1,5 +1,4 @@
-Psoroglaena epiphylla Lücking SPECIES
-=======
+# Psoroglaena epiphylla Lücking SPECIES
 
 #### Status
 ACCEPTED

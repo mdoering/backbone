@@ -1,5 +1,4 @@
-Fragilaria acidoclinata L-B & Hofmann SPECIES
-=======
+# Fragilaria acidoclinata L-B & Hofmann SPECIES
 
 #### Status
 ACCEPTED

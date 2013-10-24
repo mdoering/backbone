@@ -1,14 +1,13 @@
-Clitocybe aggregata var. ovispora (J.E. Lange) J.E. Lange, 1935 VARIETY
-=======
+# Lepista ovispora (J.E. Lange) Gulden, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Agaric. Danic. 1: 87 (1935)
+Sydowia 36: 67 (1983)
 
 #### Original name
 Clitocybe aggregata f. ovispora J.E. Lange, 1930

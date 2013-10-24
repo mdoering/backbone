@@ -1,5 +1,4 @@
-Phomopsis sclareae Sarwar SPECIES
-=======
+# Phomopsis sclareae Sarwar SPECIES
 
 #### Status
 ACCEPTED

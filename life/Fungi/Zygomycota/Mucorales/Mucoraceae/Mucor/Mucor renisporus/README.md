@@ -1,5 +1,4 @@
-Mucor renisporus K. Jacobs & Botha, 2008 SPECIES
-=======
+# Mucor renisporus K. Jacobs & Botha, 2008 SPECIES
 
 #### Status
 ACCEPTED

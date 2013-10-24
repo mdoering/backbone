@@ -1,5 +1,4 @@
-Phyllosticta lysimachiae Allesch. SPECIES
-=======
+# Phyllosticta lysimachiae Allesch. SPECIES
 
 #### Status
 ACCEPTED

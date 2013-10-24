@@ -1,5 +1,4 @@
-Brevundimonas kwangchunensis Yoon et al., 2006 SPECIES
-=======
+# Brevundimonas kwangchunensis Yoon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

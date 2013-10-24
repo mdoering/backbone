@@ -1,14 +1,13 @@
-Hypoxylon radiciperdum (Massee) P.M.D. Martin, 1967 SPECIES
-=======
+# Rosellinia radiciperda Massee, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jl S. Afr. Bot. 42: 73 (1976)
+Bull. Misc. Inf. , Kew 1 (1898)
 
 #### Original name
 Rosellinia radiciperda Massee, 1898

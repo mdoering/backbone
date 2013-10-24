@@ -1,5 +1,4 @@
-Diaporthe spicata Ellis & Everh. SPECIES
-=======
+# Diaporthe spicata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

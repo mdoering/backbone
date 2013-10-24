@@ -1,5 +1,4 @@
-Psathyrella texensis A.H. Sm. SPECIES
-=======
+# Psathyrella texensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

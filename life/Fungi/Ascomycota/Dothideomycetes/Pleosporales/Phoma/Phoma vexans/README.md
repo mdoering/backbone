@@ -1,5 +1,4 @@
-Phoma vexans Höhn. SPECIES
-=======
+# Phoma vexans Höhn. SPECIES
 
 #### Status
 ACCEPTED

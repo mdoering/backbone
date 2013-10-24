@@ -1,5 +1,4 @@
-Beutenbergia cavernae Groth et al., 1999 SPECIES
-=======
+# Beutenbergia cavernae Groth et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

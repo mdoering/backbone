@@ -1,5 +1,4 @@
-Dicaeoma microspermum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma microspermum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

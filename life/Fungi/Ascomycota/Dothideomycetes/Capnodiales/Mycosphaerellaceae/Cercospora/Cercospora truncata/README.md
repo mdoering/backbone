@@ -1,5 +1,4 @@
-Cercospora truncata Ellis & Everh. SPECIES
-=======
+# Cercospora truncata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

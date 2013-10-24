@@ -1,5 +1,4 @@
-Lentodium squamulosum Morgan SPECIES
-=======
+# Lentodium squamulosum Morgan SPECIES
 
 #### Status
 ACCEPTED

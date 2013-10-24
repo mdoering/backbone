@@ -1,17 +1,16 @@
-Inocybe phaeoleuca var. phaeoleuca VARIETY
-=======
+# Inocybe splendens R. Heim SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. nat. Oyonnax 9: 5 (1955)
+null
 
 #### Original name
-Inocybe phaeoleuca var. phaeoleuca
+null
 
 ### Remarks
 null

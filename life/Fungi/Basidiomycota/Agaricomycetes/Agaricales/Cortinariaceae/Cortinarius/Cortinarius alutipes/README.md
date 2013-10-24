@@ -1,5 +1,4 @@
-Cortinarius alutipes (Lasch) Fr. SPECIES
-=======
+# Cortinarius alutipes (Lasch) Fr. SPECIES
 
 #### Status
 ACCEPTED

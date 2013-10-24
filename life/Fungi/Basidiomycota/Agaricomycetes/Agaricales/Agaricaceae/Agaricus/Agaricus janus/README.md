@@ -1,5 +1,4 @@
-Agaricus janus Berk. & Broome SPECIES
-=======
+# Agaricus janus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

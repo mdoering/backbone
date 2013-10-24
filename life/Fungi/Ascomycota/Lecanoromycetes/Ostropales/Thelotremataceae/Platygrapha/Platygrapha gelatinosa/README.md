@@ -1,5 +1,4 @@
-Platygrapha gelatinosa Stirt. SPECIES
-=======
+# Platygrapha gelatinosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

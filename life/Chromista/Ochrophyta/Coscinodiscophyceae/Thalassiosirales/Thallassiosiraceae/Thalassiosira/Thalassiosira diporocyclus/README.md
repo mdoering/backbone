@@ -1,5 +1,4 @@
-Thalassiosira diporocyclus Hasle SPECIES
-=======
+# Thalassiosira diporocyclus Hasle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploschistes tenuis Reichert & Galun SPECIES
-=======
+# Diploschistes tenuis Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

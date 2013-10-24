@@ -1,5 +1,4 @@
-Desulfitobacterium dehalogenans Utkin et al., 1994 SPECIES
-=======
+# Desulfitobacterium dehalogenans Utkin et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

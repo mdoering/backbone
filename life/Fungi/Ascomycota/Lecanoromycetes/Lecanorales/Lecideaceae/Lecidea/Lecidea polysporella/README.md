@@ -1,5 +1,4 @@
-Lecidea polysporella Nyl. SPECIES
-=======
+# Lecidea polysporella Nyl. SPECIES
 
 #### Status
 ACCEPTED

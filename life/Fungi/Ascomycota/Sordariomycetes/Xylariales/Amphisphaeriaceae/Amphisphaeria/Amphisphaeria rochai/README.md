@@ -1,5 +1,4 @@
-Amphisphaeria rochai Theiss. SPECIES
-=======
+# Amphisphaeria rochai Theiss. SPECIES
 
 #### Status
 ACCEPTED

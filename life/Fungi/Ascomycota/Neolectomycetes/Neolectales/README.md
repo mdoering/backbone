@@ -1,5 +1,4 @@
-Neolectales Landvik, O.E. Erikss., Gargas & P. Gust. ORDER
-=======
+# Neolectales Landvik, O.E. Erikss., Gargas & P. Gust. ORDER
 
 #### Status
 ACCEPTED

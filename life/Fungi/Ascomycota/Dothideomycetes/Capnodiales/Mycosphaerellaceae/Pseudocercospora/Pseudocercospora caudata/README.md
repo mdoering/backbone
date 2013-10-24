@@ -1,5 +1,4 @@
-Pseudocercospora caudata (J. Kranz) U. Braun SPECIES
-=======
+# Pseudocercospora caudata (J. Kranz) U. Braun SPECIES
 
 #### Status
 ACCEPTED

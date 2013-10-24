@@ -1,14 +1,13 @@
-Uredo restionum Nees, 1846 SPECIES
-=======
+# Restiosporium restionum (Nees) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lehmann, Pl. Preiss. Enum. 2: 59 (1846)
+Mycotaxon 74(2): 350 (2000)
 
 #### Original name
 Uredo restionum Nees, 1846

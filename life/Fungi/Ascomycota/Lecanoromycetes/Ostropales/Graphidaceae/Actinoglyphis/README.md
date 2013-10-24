@@ -1,5 +1,4 @@
-Actinoglyphis GENUS
-=======
+# Actinoglyphis GENUS
 
 #### Status
 ACCEPTED

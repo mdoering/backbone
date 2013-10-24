@@ -1,5 +1,4 @@
-Anabaena gelatinicola Ghose SPECIES
-=======
+# Anabaena gelatinicola Ghose SPECIES
 
 #### Status
 ACCEPTED

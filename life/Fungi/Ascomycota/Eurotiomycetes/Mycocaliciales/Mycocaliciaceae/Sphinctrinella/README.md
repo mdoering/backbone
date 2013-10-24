@@ -1,5 +1,4 @@
-Sphinctrinella GENUS
-=======
+# Sphinctrinella GENUS
 
 #### Status
 ACCEPTED

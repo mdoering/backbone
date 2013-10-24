@@ -1,5 +1,4 @@
-Lomachashaka africana Nag Raj, 1995 SPECIES
-=======
+# Lomachashaka africana Nag Raj, 1995 SPECIES
 
 #### Status
 ACCEPTED

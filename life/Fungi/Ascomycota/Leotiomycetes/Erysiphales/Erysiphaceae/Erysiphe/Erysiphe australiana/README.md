@@ -1,14 +1,13 @@
-Uncinula australiana McAlpine, 1899 SPECIES
-=======
+# Erysiphe australiana (McAlpine) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fitopatología 24: 302 (1899)
+Schlechtendalia 4: 17 (2000)
 
 #### Original name
 Uncinula australiana McAlpine, 1899

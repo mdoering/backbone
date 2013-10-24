@@ -1,5 +1,4 @@
-Pertusaria werthii Zahlbr. SPECIES
-=======
+# Pertusaria werthii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

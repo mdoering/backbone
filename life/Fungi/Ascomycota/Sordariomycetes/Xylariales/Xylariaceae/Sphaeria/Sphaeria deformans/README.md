@@ -1,5 +1,4 @@
-Sphaeria deformans Lagger SPECIES
-=======
+# Sphaeria deformans Lagger SPECIES
 
 #### Status
 ACCEPTED

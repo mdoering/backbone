@@ -1,5 +1,4 @@
-Sphaeria radula Schumach. SPECIES
-=======
+# Sphaeria radula Schumach. SPECIES
 
 #### Status
 ACCEPTED

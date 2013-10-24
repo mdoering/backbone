@@ -1,5 +1,4 @@
-Rhodophyllus lamellirugus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus lamellirugus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

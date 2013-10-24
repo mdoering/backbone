@@ -1,5 +1,4 @@
-Xylaria sessilis Ferd. & Winge SPECIES
-=======
+# Xylaria sessilis Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea glomerans Nyl. SPECIES
-=======
+# Lecidea glomerans Nyl. SPECIES
 
 #### Status
 ACCEPTED

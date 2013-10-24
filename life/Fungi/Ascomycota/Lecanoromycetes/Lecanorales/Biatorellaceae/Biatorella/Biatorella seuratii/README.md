@@ -1,5 +1,4 @@
-Biatorella seuratii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Biatorella seuratii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

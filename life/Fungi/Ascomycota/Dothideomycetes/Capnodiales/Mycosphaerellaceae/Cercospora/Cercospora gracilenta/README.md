@@ -1,5 +1,4 @@
-Cercospora gracilenta Syd. SPECIES
-=======
+# Cercospora gracilenta Syd. SPECIES
 
 #### Status
 ACCEPTED

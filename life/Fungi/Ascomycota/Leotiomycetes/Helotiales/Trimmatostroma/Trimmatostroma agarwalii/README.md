@@ -1,5 +1,4 @@
-Trimmatostroma agarwalii V.G. Rao & Varghese SPECIES
-=======
+# Trimmatostroma agarwalii V.G. Rao & Varghese SPECIES
 
 #### Status
 ACCEPTED

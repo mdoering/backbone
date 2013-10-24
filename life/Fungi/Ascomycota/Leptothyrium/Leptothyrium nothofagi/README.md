@@ -1,5 +1,4 @@
-Leptothyrium nothofagi Speg. SPECIES
-=======
+# Leptothyrium nothofagi Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota japonica Kawam. SPECIES
-=======
+# Lepiota japonica Kawam. SPECIES
 
 #### Status
 ACCEPTED

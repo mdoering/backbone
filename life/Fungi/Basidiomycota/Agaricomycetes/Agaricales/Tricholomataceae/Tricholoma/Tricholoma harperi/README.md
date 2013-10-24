@@ -1,5 +1,4 @@
-Tricholoma harperi Murrill SPECIES
-=======
+# Tricholoma harperi Murrill SPECIES
 
 #### Status
 ACCEPTED

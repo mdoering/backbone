@@ -1,5 +1,4 @@
-Stephanoeca constricta Ellis, 1930 SPECIES
-=======
+# Stephanoeca constricta Ellis, 1930 SPECIES
 
 #### Status
 ACCEPTED

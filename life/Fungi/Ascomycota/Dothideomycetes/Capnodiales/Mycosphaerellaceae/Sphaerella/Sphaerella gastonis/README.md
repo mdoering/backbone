@@ -1,5 +1,4 @@
-Sphaerella gastonis Sacc. SPECIES
-=======
+# Sphaerella gastonis Sacc. SPECIES
 
 #### Status
 ACCEPTED

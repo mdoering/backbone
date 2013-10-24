@@ -1,5 +1,4 @@
-Psathyrella payettensis A.H. Sm. SPECIES
-=======
+# Psathyrella payettensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

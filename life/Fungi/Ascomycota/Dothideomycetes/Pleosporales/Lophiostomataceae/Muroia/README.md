@@ -1,5 +1,4 @@
-Muroia I. Hino & Katum. GENUS
-=======
+# Muroia I. Hino & Katum. GENUS
 
 #### Status
 ACCEPTED

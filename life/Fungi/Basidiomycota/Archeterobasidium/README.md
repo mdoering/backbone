@@ -1,5 +1,4 @@
-Archeterobasidium Koeniguer & Locq. GENUS
-=======
+# Archeterobasidium Koeniguer & Locq. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reophax insectus Goes, 1896 SPECIES
-=======
+# Reophax insectus Goes, 1896 SPECIES
 
 #### Status
 ACCEPTED

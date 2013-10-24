@@ -1,5 +1,4 @@
-Rinodina atropallidula (Nyl.) Arnold SPECIES
-=======
+# Rinodina atropallidula (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

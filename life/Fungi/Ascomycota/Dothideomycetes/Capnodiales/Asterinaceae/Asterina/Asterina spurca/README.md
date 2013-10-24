@@ -1,5 +1,4 @@
-Asterina spurca Berk. & M.A. Curtis SPECIES
-=======
+# Asterina spurca Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

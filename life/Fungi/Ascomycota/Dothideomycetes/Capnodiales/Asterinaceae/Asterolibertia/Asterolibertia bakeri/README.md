@@ -1,5 +1,4 @@
-Asterolibertia bakeri (Syd. & P. Syd.) Hansf. SPECIES
-=======
+# Asterolibertia bakeri (Syd. & P. Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

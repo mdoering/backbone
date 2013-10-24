@@ -1,5 +1,4 @@
-Ulnaria ulna var. splendens (Kützing) M.Aboal, 2003 VARIETY
-=======
+# Ulnaria ulna (Nitzsch) P. Compère in Jahn, Kociolek, Witkowski & Compère, 2001 SPECIES
 
 #### Status
 ACCEPTED

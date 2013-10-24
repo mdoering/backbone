@@ -1,14 +1,13 @@
-Ascidium phaeotropum Kremp. SPECIES
-=======
+# Ocellularia phaeotropa (Kremp.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 7: 22 (1875)
+Cat. Lich. Univers. 2: 598 (1923)
 
 #### Original name
 Ascidium phaeotropum Kremp.

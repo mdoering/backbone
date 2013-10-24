@@ -1,5 +1,4 @@
-Sphaceloma lippiae R.C. Baines & Cummins, 1939 SPECIES
-=======
+# Sphaceloma lippiae R.C. Baines & Cummins, 1939 SPECIES
 
 #### Status
 ACCEPTED

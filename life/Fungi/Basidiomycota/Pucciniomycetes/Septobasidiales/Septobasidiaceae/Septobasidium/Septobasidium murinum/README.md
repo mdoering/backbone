@@ -1,5 +1,4 @@
-Septobasidium murinum (Berk. & Broome) Petch SPECIES
-=======
+# Septobasidium murinum (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

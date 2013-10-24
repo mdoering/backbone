@@ -1,5 +1,4 @@
-Scytonema spirulinoides Gardner SPECIES
-=======
+# Scytonema spirulinoides Gardner SPECIES
 
 #### Status
 ACCEPTED

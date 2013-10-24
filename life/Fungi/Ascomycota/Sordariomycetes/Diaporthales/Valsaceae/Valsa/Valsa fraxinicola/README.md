@@ -1,5 +1,4 @@
-Valsa fraxinicola Cooke & Peck SPECIES
-=======
+# Valsa fraxinicola Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

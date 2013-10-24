@@ -1,5 +1,4 @@
-Tolyposporium bogoriense Racib. SPECIES
-=======
+# Tolyposporium bogoriense Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenula riccia Sacc. SPECIES
-=======
+# Hymenula riccia Sacc. SPECIES
 
 #### Status
 ACCEPTED

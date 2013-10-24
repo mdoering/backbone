@@ -1,5 +1,4 @@
-Lecidella alboflava Körb. SPECIES
-=======
+# Lecidella alboflava Körb. SPECIES
 
 #### Status
 ACCEPTED

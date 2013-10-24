@@ -1,5 +1,4 @@
-Sporoschisma tracyi Earle SPECIES
-=======
+# Sporoschisma tracyi Earle SPECIES
 
 #### Status
 ACCEPTED

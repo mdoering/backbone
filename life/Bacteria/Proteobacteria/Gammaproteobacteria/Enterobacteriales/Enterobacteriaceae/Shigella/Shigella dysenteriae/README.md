@@ -1,11 +1,10 @@
-Eberthella dysenteriae (Shiga, 1898) Bergey et al., 1925 SPECIES
-=======
+# Shigella dysenteriae (Shiga, 1897, corrig.) Castellani and Chalmers, 1919 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

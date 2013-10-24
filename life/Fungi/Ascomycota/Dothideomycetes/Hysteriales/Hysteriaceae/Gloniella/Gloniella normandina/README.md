@@ -1,5 +1,4 @@
-Gloniella normandina Rehm SPECIES
-=======
+# Gloniella normandina Rehm SPECIES
 
 #### Status
 ACCEPTED

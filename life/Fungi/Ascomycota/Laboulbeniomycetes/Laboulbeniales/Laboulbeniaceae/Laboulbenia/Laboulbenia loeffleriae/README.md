@@ -1,17 +1,16 @@
-Laboulbenia löffleriae Balazuc SPECIES
-=======
+# Laboulbenia loeffleriae Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Int. J. Mycol. Lichenol. 1(1): 42 (1982)
 
 #### Original name
-Laboulbenia löffleriae Balazuc
+Laboulbenia loeffleriae Balazuc
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Wuestneia punctistoma (Ellis) J. Reid & C. Booth SPECIES
-=======
+# Wuestneia punctistoma (Ellis) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

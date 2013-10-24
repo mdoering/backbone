@@ -1,5 +1,4 @@
-Botrytis pulvinulus Ces. SPECIES
-=======
+# Botrytis pulvinulus Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia lychnidis-miquelianae Dietel SPECIES
-=======
+# Puccinia lychnidis-miquelianae Dietel SPECIES
 
 #### Status
 ACCEPTED

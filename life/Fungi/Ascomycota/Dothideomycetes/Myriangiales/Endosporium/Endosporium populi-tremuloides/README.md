@@ -1,5 +1,4 @@
-Endosporium populi-tremuloides Tsuneda, 2008 SPECIES
-=======
+# Endosporium populi-tremuloides Tsuneda, 2008 SPECIES
 
 #### Status
 ACCEPTED

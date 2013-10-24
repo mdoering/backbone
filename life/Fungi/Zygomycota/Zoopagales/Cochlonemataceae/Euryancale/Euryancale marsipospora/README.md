@@ -1,5 +1,4 @@
-Euryancale marsipospora Drechsler, 1961 SPECIES
-=======
+# Euryancale marsipospora Drechsler, 1961 SPECIES
 
 #### Status
 ACCEPTED

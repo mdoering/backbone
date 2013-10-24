@@ -1,5 +1,4 @@
-Asterina banisteriae Syd. SPECIES
-=======
+# Asterina banisteriae Syd. SPECIES
 
 #### Status
 ACCEPTED

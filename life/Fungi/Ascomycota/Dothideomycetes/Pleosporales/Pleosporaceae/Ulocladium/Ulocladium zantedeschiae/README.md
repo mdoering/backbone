@@ -1,5 +1,4 @@
-Ulocladium zantedeschiae X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Ulocladium zantedeschiae X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

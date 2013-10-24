@@ -1,5 +1,4 @@
-Puccinia sakamotoi Hirats. f. & Yoshin. SPECIES
-=======
+# Puccinia sakamotoi Hirats. f. & Yoshin. SPECIES
 
 #### Status
 ACCEPTED

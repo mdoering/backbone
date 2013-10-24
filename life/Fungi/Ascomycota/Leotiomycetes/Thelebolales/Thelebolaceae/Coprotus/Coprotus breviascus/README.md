@@ -1,5 +1,4 @@
-Coprotus breviascus (Velen.) Kimbr., Luck-Allen & Cain SPECIES
-=======
+# Coprotus breviascus (Velen.) Kimbr., Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

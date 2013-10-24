@@ -1,17 +1,16 @@
-Sulcaria sulcata subsp. sulcata SUBSPECIES
-=======
+# Sulcaria sulcata (Lév.) Bystrek SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Annls Univ. Mariae Curie-Sklodowska, Sect. C, Biol. 26(no. 21): 276 (1971)
 
 #### Original name
-null
+Cornicularia sulcata Lév.
 
 ### Remarks
 null

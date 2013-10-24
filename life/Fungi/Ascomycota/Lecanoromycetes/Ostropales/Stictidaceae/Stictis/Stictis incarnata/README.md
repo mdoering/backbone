@@ -1,5 +1,4 @@
-Stictis incarnata (Quél.) Sacc. SPECIES
-=======
+# Stictis incarnata (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

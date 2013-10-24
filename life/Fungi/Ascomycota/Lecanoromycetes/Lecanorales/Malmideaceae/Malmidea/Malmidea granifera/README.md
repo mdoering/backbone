@@ -1,17 +1,16 @@
-Lecidea granifera var. granifera VARIETY
-=======
+# Malmidea granifera (Ach.) Kalb, Rivas Plata & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hiern, Cat. Welwitsch Afric. Pl. 2(2): 424 (1901)
+null
 
 #### Original name
-Lecidea granifera var. granifera
+null
 
 ### Remarks
 null

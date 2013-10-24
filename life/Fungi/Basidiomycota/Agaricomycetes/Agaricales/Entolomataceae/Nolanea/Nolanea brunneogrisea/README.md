@@ -1,5 +1,4 @@
-Nolanea brunneogrisea Rick SPECIES
-=======
+# Nolanea brunneogrisea Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmocalosphaeria piskorzii Petr., 1923 SPECIES
-=======
+# Phragmocalosphaeria piskorzii Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

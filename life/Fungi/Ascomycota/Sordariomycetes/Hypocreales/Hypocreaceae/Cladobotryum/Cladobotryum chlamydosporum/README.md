@@ -1,5 +1,4 @@
-Cladobotryum chlamydosporum Misra {?} SPECIES
-=======
+# Cladobotryum chlamydosporum Misra {?} SPECIES
 
 #### Status
 ACCEPTED

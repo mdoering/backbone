@@ -1,5 +1,4 @@
-Botryodiplodia epidendri (Allesch.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia epidendri (Allesch.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

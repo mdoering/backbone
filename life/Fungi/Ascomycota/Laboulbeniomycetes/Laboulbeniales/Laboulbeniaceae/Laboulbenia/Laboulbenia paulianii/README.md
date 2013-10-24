@@ -1,17 +1,16 @@
-Laboulbenia pauliani Balazuc SPECIES
-=======
+# Laboulbenia paulianii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycologica, Warszawa 11(1): 54 (1975)
 
 #### Original name
-Laboulbenia pauliani Balazuc
+Laboulbenia paulianii Balazuc
 
 ### Remarks
 null

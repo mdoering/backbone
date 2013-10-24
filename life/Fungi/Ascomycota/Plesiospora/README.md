@@ -1,5 +1,4 @@
-Plesiospora Drechsler GENUS
-=======
+# Plesiospora Drechsler GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium sarothamni Fuckel, 1870 SPECIES
-=======
+# Cenangium sarothamni Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

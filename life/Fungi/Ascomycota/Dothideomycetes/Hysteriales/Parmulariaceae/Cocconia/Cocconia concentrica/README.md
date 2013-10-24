@@ -1,5 +1,4 @@
-Cocconia concentrica (Syd.) Syd., 1915 SPECIES
-=======
+# Cocconia concentrica (Syd.) Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

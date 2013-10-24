@@ -1,5 +1,4 @@
-Corrigotubella GENUS
-=======
+# Corrigotubella GENUS
 
 #### Status
 ACCEPTED

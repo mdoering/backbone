@@ -1,5 +1,4 @@
-Trichodina branchicola Tripathi, 1948 SPECIES
-=======
+# Trichodina branchicola Tripathi, 1948 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentomita crassicollis (De Not.) Sacc. SPECIES
-=======
+# Lentomita crassicollis (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

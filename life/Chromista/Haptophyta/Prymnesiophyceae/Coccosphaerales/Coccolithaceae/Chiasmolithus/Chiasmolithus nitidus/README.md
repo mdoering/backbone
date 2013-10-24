@@ -1,5 +1,4 @@
-Chiasmolithus nitidus K. Perch-Nielsen SPECIES
-=======
+# Chiasmolithus nitidus K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

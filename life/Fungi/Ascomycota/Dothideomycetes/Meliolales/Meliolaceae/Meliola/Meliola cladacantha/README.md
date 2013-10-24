@@ -1,5 +1,4 @@
-Meliola cladacantha Cif. SPECIES
-=======
+# Meliola cladacantha Cif. SPECIES
 
 #### Status
 ACCEPTED

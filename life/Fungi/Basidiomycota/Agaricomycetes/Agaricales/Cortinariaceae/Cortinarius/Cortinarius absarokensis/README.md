@@ -1,5 +1,4 @@
-Cortinarius absarokensis M.M. Moser & McKnight SPECIES
-=======
+# Cortinarius absarokensis M.M. Moser & McKnight SPECIES
 
 #### Status
 ACCEPTED

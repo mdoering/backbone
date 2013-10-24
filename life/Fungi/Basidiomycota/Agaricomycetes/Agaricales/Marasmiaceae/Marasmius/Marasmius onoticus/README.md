@@ -1,5 +1,4 @@
-Marasmius onoticus Singer SPECIES
-=======
+# Marasmius onoticus Singer SPECIES
 
 #### Status
 ACCEPTED

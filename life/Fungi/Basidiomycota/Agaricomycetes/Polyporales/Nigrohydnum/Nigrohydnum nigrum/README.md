@@ -1,5 +1,4 @@
-Nigrohydnum nigrum Ryvarden, 1987 SPECIES
-=======
+# Nigrohydnum nigrum Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria allantoidea Berk. SPECIES
-=======
+# Sphaeria allantoidea Berk. SPECIES
 
 #### Status
 ACCEPTED

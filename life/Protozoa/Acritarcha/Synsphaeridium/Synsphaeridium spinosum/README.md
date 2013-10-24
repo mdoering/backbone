@@ -1,5 +1,4 @@
-Synsphaeridium spinosum Moreau-Benoît, 1974 SPECIES
-=======
+# Synsphaeridium spinosum Moreau-Benoît, 1974 SPECIES
 
 #### Status
 ACCEPTED

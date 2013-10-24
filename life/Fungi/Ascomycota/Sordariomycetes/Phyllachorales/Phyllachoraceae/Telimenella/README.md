@@ -1,5 +1,4 @@
-Telimenella Petr. GENUS
-=======
+# Telimenella Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Panaeolus dunensis Bon & Courtec., 1983 SPECIES
-=======
+# Panaeolus cinctulus (Bolton) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bon, Docums Mycol. 13(no. 50): 28 (1983)
+Syll. fung. (Abellini) 5: 1124 (1887)
 
 #### Original name
-Panaeolus dunensis Bon & Courtec., 1983
+Agaricus cinctulus Bolton, 1792
 
 ### Remarks
 null

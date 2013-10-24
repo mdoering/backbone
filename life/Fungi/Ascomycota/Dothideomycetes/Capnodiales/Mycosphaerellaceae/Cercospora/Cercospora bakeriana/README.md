@@ -1,5 +1,4 @@
-Cercospora bakeriana Sacc. SPECIES
-=======
+# Cercospora bakeriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

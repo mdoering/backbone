@@ -1,5 +1,4 @@
-Hecatonema primarium (Setchell & N.L. Gardner) Loiseaux SPECIES
-=======
+# Hecatonema primarium (Setchell & N.L. Gardner) Loiseaux SPECIES
 
 #### Status
 ACCEPTED

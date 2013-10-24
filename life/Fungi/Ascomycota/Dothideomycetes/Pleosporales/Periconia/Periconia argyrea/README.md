@@ -1,5 +1,4 @@
-Periconia argyrea B. Schuch. SPECIES
-=======
+# Periconia argyrea B. Schuch. SPECIES
 
 #### Status
 ACCEPTED

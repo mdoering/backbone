@@ -1,5 +1,4 @@
-Cytosporella pinicola Ellis & Everh. SPECIES
-=======
+# Cytosporella pinicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

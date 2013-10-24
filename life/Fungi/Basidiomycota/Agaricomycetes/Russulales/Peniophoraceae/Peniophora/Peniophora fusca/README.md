@@ -1,5 +1,4 @@
-Peniophora fusca Burt SPECIES
-=======
+# Peniophora fusca Burt SPECIES
 
 #### Status
 ACCEPTED

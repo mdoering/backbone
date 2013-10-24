@@ -1,5 +1,4 @@
-Desulfurella Bonch-Osmolovskaya et al., 1993 GENUS
-=======
+# Desulfurella Bonch-Osmolovskaya et al., 1993 GENUS
 
 #### Status
 ACCEPTED

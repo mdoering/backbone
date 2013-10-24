@@ -1,5 +1,4 @@
-Valsa rutila Tul. & C. Tul. SPECIES
-=======
+# Valsa rutila Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

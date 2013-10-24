@@ -1,5 +1,4 @@
-Psathyra vacini Velen. SPECIES
-=======
+# Psathyra vacini Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alphitomorpha circumfusa Schltdl. SPECIES
-=======
+# Alphitomorpha circumfusa Schltdl. SPECIES
 
 #### Status
 ACCEPTED

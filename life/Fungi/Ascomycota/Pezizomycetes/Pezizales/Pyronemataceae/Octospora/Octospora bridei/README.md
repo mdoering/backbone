@@ -1,5 +1,4 @@
-Octospora bridei Caillet & Moyne SPECIES
-=======
+# Octospora bridei Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

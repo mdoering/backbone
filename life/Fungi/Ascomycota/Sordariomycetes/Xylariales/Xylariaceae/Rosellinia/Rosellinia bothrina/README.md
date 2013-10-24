@@ -1,5 +1,4 @@
-Rosellinia bothrina (Berk. & Broome) Sacc. SPECIES
-=======
+# Rosellinia bothrina (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

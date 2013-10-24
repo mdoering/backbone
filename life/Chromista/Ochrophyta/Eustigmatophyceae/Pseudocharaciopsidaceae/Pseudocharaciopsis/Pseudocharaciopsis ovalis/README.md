@@ -1,8 +1,7 @@
-Characiopsis ovalis (Chodat) Chodat ex Poulton SPECIES
-=======
+# Pseudocharaciopsis ovalis (Chodat) Hibberd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

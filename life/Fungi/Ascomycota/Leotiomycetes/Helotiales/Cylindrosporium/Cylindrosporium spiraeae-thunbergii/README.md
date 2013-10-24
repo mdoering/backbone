@@ -1,5 +1,4 @@
-Cylindrosporium spiraeae-thunbergii Miura ex Ts. Kobay. SPECIES
-=======
+# Cylindrosporium spiraeae-thunbergii Miura ex Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

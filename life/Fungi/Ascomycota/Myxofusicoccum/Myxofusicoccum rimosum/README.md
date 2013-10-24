@@ -1,5 +1,4 @@
-Myxofusicoccum rimosum (Fautrey) Petr. SPECIES
-=======
+# Myxofusicoccum rimosum (Fautrey) Petr. SPECIES
 
 #### Status
 ACCEPTED

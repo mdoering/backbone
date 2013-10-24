@@ -1,5 +1,4 @@
-Piptocephalidaceae FAMILY
-=======
+# Piptocephalidaceae FAMILY
 
 #### Status
 ACCEPTED

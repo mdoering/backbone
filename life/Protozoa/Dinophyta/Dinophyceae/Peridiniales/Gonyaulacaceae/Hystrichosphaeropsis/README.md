@@ -1,5 +1,4 @@
-Hystrichosphaeropsis G.Deflandre, 1935 GENUS
-=======
+# Hystrichosphaeropsis G.Deflandre, 1935 GENUS
 
 #### Status
 ACCEPTED

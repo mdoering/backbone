@@ -1,14 +1,13 @@
-Peniophora subalutacea subsp. lurida Bourdot & Galzin SUBSPECIES
-=======
+# Hyphoderma luridum (Bourdot & Galzin) J. Erikss. & Hjortstam, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 294 (1928)
+in Eriksson & Ryvarden, Cortic. N. Eur. (Oslo) 4: 677 (1976)
 
 #### Original name
 Peniophora subalutacea subsp. lurida Bourdot & Galzin

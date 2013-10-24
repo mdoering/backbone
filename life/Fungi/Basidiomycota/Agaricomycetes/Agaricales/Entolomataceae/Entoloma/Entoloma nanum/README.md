@@ -1,5 +1,4 @@
-Entoloma nanum (Massee) E. Horak SPECIES
-=======
+# Entoloma nanum (Massee) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Horakomyces Raithelh. GENUS
-=======
+# Melanomphalia M.P. Christ. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Metrodiana, Sonderheft 2: 17 (1983)
+Friesia 1: 288 (1936)
 
 #### Original name
-Horakomyces Raithelh.
+Melanomphalia M.P. Christ.
 
 ### Remarks
 null

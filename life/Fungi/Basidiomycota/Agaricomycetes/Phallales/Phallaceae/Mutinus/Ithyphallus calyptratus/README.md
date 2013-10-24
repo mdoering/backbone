@@ -1,5 +1,4 @@
-Ithyphallus calyptratus (Berk. & Broome) E. Fisch. SPECIES
-=======
+# Ithyphallus calyptratus (Berk. & Broome) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

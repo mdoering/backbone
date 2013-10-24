@@ -1,5 +1,4 @@
-Gloeosporium smilacis A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Gloeosporium smilacis A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

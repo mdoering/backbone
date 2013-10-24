@@ -1,5 +1,4 @@
-Calycina aurea (Bolton) Kuntze SPECIES
-=======
+# Calycina aurea (Bolton) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago leonina Speg. SPECIES
-=======
+# Ustilago leonina Speg. SPECIES
 
 #### Status
 ACCEPTED

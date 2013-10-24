@@ -1,5 +1,4 @@
-Mitremyces indicus Spreng. SPECIES
-=======
+# Mitremyces indicus Spreng. SPECIES
 
 #### Status
 ACCEPTED

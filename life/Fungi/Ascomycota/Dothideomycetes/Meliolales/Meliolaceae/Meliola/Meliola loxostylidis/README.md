@@ -1,5 +1,4 @@
-Meliola loxostylidis Doidge SPECIES
-=======
+# Meliola loxostylidis Doidge SPECIES
 
 #### Status
 ACCEPTED

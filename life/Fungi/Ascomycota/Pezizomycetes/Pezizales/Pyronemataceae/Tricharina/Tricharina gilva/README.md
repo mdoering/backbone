@@ -1,17 +1,16 @@
-Peziza lapidaria (Cooke) SPECIES
-=======
+# Tricharina gilva (Boud. ex Cooke) Eckblad, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nytt Mag. Bot. 15: 60 (1968)
 
 #### Original name
-null
+Peziza gilva Boud.
 
 ### Remarks
 null

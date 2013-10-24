@@ -1,5 +1,4 @@
-Thelopsis paucispora Breuss & M. Schultz SPECIES
-=======
+# Thelopsis paucispora Breuss & M. Schultz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomasellia opegraphella Th. Fr. SPECIES
-=======
+# Tomasellia opegraphella Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora melandryi Gäum., 1923 SPECIES
-=======
+# Peronospora melandryi Gäum., 1923 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiocarpella GENUS
-=======
+# Ophiocarpella GENUS
 
 #### Status
 ACCEPTED

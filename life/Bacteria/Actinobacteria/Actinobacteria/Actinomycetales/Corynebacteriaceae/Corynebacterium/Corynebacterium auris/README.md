@@ -1,5 +1,4 @@
-Corynebacterium auris Funke et al., 1995 SPECIES
-=======
+# Corynebacterium auris Funke et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe glabra (Murrill) Watling SPECIES
-=======
+# Conocybe glabra (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

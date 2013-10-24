@@ -1,17 +1,16 @@
-Xerocarpus suaveolens (Moug. ex Fr.) P. Karst., 1882 SPECIES
-=======
+# Scytinostroma galactinum (Fr.) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 37: 137 (1882)
+Fungus, Wageningen 26: 20 (1956)
 
 #### Original name
-Thelephora suaveolens Moug. ex Fr., 1828
+Thelephora galactina Fr., 1851
 
 ### Remarks
 null

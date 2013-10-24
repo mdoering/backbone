@@ -1,5 +1,4 @@
-Stereum fimbriatum Ellis SPECIES
-=======
+# Stereum fimbriatum Ellis SPECIES
 
 #### Status
 ACCEPTED

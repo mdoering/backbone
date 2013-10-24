@@ -1,5 +1,4 @@
-Anteholosticha warreni Song & Wilbert, 1997 SPECIES
-=======
+# Anteholosticha warreni Song & Wilbert, 1997 SPECIES
 
 #### Status
 ACCEPTED

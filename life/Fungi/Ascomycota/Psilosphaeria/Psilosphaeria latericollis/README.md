@@ -1,5 +1,4 @@
-Psilosphaeria latericollis (Fr.) Cooke SPECIES
-=======
+# Psilosphaeria latericollis (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

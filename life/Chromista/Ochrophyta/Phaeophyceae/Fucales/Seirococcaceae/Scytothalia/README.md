@@ -1,5 +1,4 @@
-Scytothalia Greville, 1830 GENUS
-=======
+# Scytothalia Greville, 1830 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria scirporum Schwein. SPECIES
-=======
+# Sphaeria scirporum Schwein. SPECIES
 
 #### Status
 ACCEPTED

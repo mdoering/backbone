@@ -1,5 +1,4 @@
-Amphisphaeria smaragdina (Ces.) Schrantz SPECIES
-=======
+# Amphisphaeria smaragdina (Ces.) Schrantz SPECIES
 
 #### Status
 ACCEPTED

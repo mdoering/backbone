@@ -1,5 +1,4 @@
-Polyporus rubromaculatus Britzelm. SPECIES
-=======
+# Polyporus rubromaculatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

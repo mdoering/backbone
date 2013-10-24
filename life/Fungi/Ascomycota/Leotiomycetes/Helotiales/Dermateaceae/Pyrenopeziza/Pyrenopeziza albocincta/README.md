@@ -1,5 +1,4 @@
-Pyrenopeziza albocincta Rehm SPECIES
-=======
+# Pyrenopeziza albocincta Rehm SPECIES
 
 #### Status
 ACCEPTED

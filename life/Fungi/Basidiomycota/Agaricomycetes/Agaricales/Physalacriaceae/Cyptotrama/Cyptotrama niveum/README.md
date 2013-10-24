@@ -1,5 +1,4 @@
-Cyptotrama niveum Singer, 1989 SPECIES
-=======
+# Cyptotrama niveum Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

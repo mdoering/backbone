@@ -1,5 +1,4 @@
-Graphium simplex K. Jacobs & M.J. Wingf. SPECIES
-=======
+# Graphium simplex K. Jacobs & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaerella eremophila Speg. SPECIES
-=======
+# Leptosphaerella eremophila Speg. SPECIES
 
 #### Status
 ACCEPTED

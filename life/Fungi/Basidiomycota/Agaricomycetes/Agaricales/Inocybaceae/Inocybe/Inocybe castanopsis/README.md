@@ -1,5 +1,4 @@
-Inocybe castanopsis Hruby SPECIES
-=======
+# Inocybe castanopsis Hruby SPECIES
 
 #### Status
 ACCEPTED

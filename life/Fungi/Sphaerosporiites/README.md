@@ -1,5 +1,4 @@
-Sphaerosporiites Babajan & Tasl. GENUS
-=======
+# Sphaerosporiites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

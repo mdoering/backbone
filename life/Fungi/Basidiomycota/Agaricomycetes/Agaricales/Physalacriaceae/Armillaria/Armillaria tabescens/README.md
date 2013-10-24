@@ -1,17 +1,16 @@
-Agaricus monadelphus Morgan, 1883 SPECIES
-=======
+# Armillaria tabescens (Scop.) Emel, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Cincinnati Soc. Nat. Hist. 6: 69 (1883)
+Le Genre Armillaria (Strasbourg) 50 (1921)
 
 #### Original name
-Agaricus monadelphus Morgan, 1883
+Agaricus tabescens Scop., 1772
 
 ### Remarks
 null

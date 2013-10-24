@@ -1,5 +1,4 @@
-Sphaerognomonia javensis Höhn. SPECIES
-=======
+# Sphaerognomonia javensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

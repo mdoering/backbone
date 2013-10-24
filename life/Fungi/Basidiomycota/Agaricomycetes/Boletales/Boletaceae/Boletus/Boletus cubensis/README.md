@@ -1,5 +1,4 @@
-Boletus cubensis Berk. & M.A. Curtis SPECIES
-=======
+# Boletus cubensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

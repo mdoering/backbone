@@ -1,5 +1,4 @@
-Asterina mascagniae Petr. SPECIES
-=======
+# Asterina mascagniae Petr. SPECIES
 
 #### Status
 ACCEPTED

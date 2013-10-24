@@ -1,5 +1,4 @@
-Hebeloma alabamense Murrill SPECIES
-=======
+# Hebeloma alabamense Murrill SPECIES
 
 #### Status
 ACCEPTED

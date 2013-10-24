@@ -1,5 +1,4 @@
-Dimerosporium oreophilum Speg. SPECIES
-=======
+# Dimerosporium oreophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

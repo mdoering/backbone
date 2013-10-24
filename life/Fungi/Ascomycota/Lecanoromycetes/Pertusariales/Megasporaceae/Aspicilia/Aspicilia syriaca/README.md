@@ -1,5 +1,4 @@
-Aspicilia syriaca (J. Steiner) Szatala SPECIES
-=======
+# Aspicilia syriaca (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

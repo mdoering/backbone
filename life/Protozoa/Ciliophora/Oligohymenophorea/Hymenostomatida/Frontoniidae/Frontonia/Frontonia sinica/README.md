@@ -1,5 +1,4 @@
-Frontonia sinica Lin, Song, Yi & Liu, 2009 SPECIES
-=======
+# Frontonia sinica Lin, Song, Yi & Liu, 2009 SPECIES
 
 #### Status
 ACCEPTED

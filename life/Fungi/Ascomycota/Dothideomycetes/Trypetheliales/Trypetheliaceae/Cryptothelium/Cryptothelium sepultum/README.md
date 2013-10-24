@@ -1,14 +1,13 @@
-Laurera sepulta (Mont.) O.E. Erikss. SPECIES
-=======
+# Cryptothelium sepultum (Mont.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Op. bot. 60: 50 (1981)
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 335 (1860)
 
 #### Original name
 Astrothelium sepultum Mont.

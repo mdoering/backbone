@@ -1,5 +1,4 @@
-Dimerosporium bauhinicola Henn. SPECIES
-=======
+# Dimerosporium bauhinicola Henn. SPECIES
 
 #### Status
 ACCEPTED

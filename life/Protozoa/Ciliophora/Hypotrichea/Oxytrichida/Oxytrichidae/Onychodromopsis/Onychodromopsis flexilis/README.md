@@ -1,8 +1,7 @@
-Allotricha antarctica Berger, 1999 SPECIES
-=======
+# Onychodromopsis flexilis Stokes, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

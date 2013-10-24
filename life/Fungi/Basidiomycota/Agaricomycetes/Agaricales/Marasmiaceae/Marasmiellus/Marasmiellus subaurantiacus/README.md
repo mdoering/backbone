@@ -1,5 +1,4 @@
-Marasmiellus subaurantiacus (Berk. & Broome) Pegler SPECIES
-=======
+# Marasmiellus subaurantiacus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

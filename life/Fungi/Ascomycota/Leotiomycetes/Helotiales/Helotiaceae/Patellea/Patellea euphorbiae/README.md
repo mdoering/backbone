@@ -1,5 +1,4 @@
-Patellea euphorbiae Berk. & Broome SPECIES
-=======
+# Patellea euphorbiae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

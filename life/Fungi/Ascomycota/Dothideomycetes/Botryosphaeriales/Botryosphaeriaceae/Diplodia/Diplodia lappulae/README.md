@@ -1,17 +1,16 @@
-Diplodia lappullae Kalymb. SPECIES
-=======
+# Diplodia lappulae Kalymb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trudy botanicheskogo Instituta im. V. L. Komarova AN SSSR, Series II 11: 268 (1956)
 
 #### Original name
-Diplodia lappullae Kalymb.
+Diplodia lappulae Kalymb.
 
 ### Remarks
 null

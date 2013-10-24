@@ -1,5 +1,4 @@
-Rhodophyllus latisporus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus latisporus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

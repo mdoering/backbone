@@ -1,5 +1,4 @@
-Lachnella crinella Ellis & Everh. SPECIES
-=======
+# Lachnella crinella Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

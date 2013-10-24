@@ -1,5 +1,4 @@
-Lopezoterenia Foissner, 1997 GENUS
-=======
+# Lopezoterenia Foissner, 1997 GENUS
 
 #### Status
 ACCEPTED

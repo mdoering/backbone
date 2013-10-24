@@ -1,5 +1,4 @@
-Astylospora epibates (Fr.) Murrill SPECIES
-=======
+# Astylospora epibates (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

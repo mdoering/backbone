@@ -1,5 +1,4 @@
-Asterina echinospora Höhn. SPECIES
-=======
+# Asterina echinospora Höhn. SPECIES
 
 #### Status
 ACCEPTED

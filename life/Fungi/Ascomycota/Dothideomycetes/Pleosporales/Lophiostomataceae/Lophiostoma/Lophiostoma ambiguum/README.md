@@ -1,5 +1,4 @@
-Lophiostoma ambiguum G.H. Otth SPECIES
-=======
+# Lophiostoma ambiguum G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

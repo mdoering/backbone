@@ -1,5 +1,4 @@
-Arctocetraria Kärnefelt & A. Thell GENUS
-=======
+# Arctocetraria Kärnefelt & A. Thell GENUS
 
 #### Status
 ACCEPTED

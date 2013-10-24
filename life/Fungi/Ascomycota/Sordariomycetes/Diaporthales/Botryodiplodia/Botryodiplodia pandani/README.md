@@ -1,5 +1,4 @@
-Botryodiplodia pandani (Lév.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia pandani (Lév.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

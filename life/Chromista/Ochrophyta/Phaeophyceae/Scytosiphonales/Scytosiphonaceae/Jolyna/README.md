@@ -1,5 +1,4 @@
-Jolyna S.M.P.B.Guimarães, 1986 GENUS
-=======
+# Jolyna S.M.P.B.Guimarães, 1986 GENUS
 
 #### Status
 ACCEPTED

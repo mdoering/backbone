@@ -1,5 +1,4 @@
-Gnomoniella brevirostris P. Karst. SPECIES
-=======
+# Gnomoniella brevirostris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

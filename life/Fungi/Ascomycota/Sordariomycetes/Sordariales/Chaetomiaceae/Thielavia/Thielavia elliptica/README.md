@@ -1,5 +1,4 @@
-Thielavia elliptica (Lodha) Lodha SPECIES
-=======
+# Thielavia elliptica (Lodha) Lodha SPECIES
 
 #### Status
 ACCEPTED

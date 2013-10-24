@@ -1,5 +1,4 @@
-Crepidotus truncatus var. macrocarpus Singer VARIETY
-=======
+# Crepidotus truncatus Petch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Nova Hedwigia, Beih. 44: 480 (1973)
+null
 
 #### Original name
-Crepidotus truncatus var. macrocarpus Singer
+Crepidotus truncatus Petch
 
 ### Remarks
 null

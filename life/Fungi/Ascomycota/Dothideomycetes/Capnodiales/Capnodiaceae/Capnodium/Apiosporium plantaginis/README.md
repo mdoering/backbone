@@ -1,5 +1,4 @@
-Apiosporium plantaginis Fuckel SPECIES
-=======
+# Apiosporium plantaginis Fuckel SPECIES
 
 #### Status
 ACCEPTED

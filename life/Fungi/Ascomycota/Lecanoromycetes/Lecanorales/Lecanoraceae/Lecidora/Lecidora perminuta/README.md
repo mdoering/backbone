@@ -1,5 +1,4 @@
-Lecidora perminuta Motyka SPECIES
-=======
+# Lecidora perminuta Motyka SPECIES
 
 #### Status
 ACCEPTED

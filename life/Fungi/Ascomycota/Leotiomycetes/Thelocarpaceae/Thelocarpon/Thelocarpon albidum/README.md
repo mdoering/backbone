@@ -1,5 +1,4 @@
-Thelocarpon albidum Nyl. SPECIES
-=======
+# Thelocarpon albidum Nyl. SPECIES
 
 #### Status
 ACCEPTED

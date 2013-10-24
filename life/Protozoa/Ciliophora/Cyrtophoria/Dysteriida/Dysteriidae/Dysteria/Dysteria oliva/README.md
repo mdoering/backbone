@@ -1,5 +1,4 @@
-Dysteria oliva (Entz, 1884) Kahl SPECIES
-=======
+# Dysteria oliva (Entz, 1884) Kahl SPECIES
 
 #### Status
 ACCEPTED

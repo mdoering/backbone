@@ -1,5 +1,4 @@
-Eutypella heveae H.S. Yates SPECIES
-=======
+# Eutypella heveae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

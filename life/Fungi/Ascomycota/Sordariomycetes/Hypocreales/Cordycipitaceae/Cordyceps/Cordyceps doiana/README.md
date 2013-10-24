@@ -1,5 +1,4 @@
-Cordyceps doiana Kobayasi SPECIES
-=======
+# Cordyceps doiana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

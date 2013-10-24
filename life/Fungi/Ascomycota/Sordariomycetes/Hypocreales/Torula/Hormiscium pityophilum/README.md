@@ -1,5 +1,4 @@
-Hormiscium pityophilum (Wallr.) Sacc. SPECIES
-=======
+# Hormiscium pityophilum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

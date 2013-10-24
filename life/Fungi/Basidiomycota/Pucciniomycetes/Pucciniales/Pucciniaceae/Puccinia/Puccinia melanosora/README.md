@@ -1,17 +1,16 @@
-Puccinia melanosora var. melanosora Speg. VARIETY
-=======
+# Puccinia melanosora Speg., 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fungi argentini pugillus 1: 170 (1880)
 
 #### Original name
-Puccinia melanosora var. melanosora Speg.
+Puccinia melanosora Speg., 1880
 
 ### Remarks
 null

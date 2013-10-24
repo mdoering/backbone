@@ -1,5 +1,4 @@
-Physalacria macrocystidiata Rammeloo SPECIES
-=======
+# Physalacria macrocystidiata Rammeloo SPECIES
 
 #### Status
 ACCEPTED

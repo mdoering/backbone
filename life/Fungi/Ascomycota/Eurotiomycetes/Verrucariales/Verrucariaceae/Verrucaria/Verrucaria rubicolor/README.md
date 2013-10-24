@@ -1,5 +1,4 @@
-Verrucaria rubicolor Stirt. SPECIES
-=======
+# Verrucaria rubicolor Stirt. SPECIES
 
 #### Status
 ACCEPTED

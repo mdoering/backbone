@@ -1,5 +1,4 @@
-Duplella Patterson & Richardson, 1987 GENUS
-=======
+# Duplella Patterson & Richardson, 1987 GENUS
 
 #### Status
 ACCEPTED

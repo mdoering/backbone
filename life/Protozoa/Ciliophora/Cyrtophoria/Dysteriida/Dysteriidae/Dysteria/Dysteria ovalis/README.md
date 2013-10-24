@@ -1,5 +1,4 @@
-Dysteria ovalis (Gourret & Roeser, 1886) Kahl, 1931 SPECIES
-=======
+# Dysteria ovalis (Gourret & Roeser, 1886) Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

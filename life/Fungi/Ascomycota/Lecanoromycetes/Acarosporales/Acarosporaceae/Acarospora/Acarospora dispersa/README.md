@@ -1,5 +1,4 @@
-Acarospora dispersa (Schrad.) Nyl. SPECIES
-=======
+# Acarospora dispersa (Schrad.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

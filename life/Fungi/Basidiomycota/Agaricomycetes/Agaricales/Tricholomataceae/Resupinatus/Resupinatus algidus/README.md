@@ -1,5 +1,4 @@
-Resupinatus algidus var. algidus (Fr.) M. Lange, 1955 VARIETY
-=======
+# Resupinatus algidus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Resupinatus algidus var. algidus (Fr.) M. Lange, 1955
+null
 
 ### Remarks
 null

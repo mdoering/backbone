@@ -1,5 +1,4 @@
-Amoeba biddulphiae SPECIES
-=======
+# Amoeba biddulphiae SPECIES
 
 #### Status
 ACCEPTED

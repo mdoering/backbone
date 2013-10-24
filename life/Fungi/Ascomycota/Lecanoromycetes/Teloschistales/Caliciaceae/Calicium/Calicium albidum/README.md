@@ -1,5 +1,4 @@
-Calicium albidum Schumach. SPECIES
-=======
+# Calicium albidum Schumach. SPECIES
 
 #### Status
 ACCEPTED

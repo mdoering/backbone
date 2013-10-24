@@ -1,5 +1,4 @@
-Usnea bayleyi var. bayleyi VARIETY
-=======
+# Usnea bayleyi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea bayleyi var. bayleyi
+Usnea bayleyi
 
 ### Remarks
 null

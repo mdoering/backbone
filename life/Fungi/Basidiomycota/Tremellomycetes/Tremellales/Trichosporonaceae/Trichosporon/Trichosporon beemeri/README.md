@@ -1,5 +1,4 @@
-Trichosporon beemeri Kuttin & Justus Müll. SPECIES
-=======
+# Trichosporon beemeri Kuttin & Justus Müll. SPECIES
 
 #### Status
 ACCEPTED

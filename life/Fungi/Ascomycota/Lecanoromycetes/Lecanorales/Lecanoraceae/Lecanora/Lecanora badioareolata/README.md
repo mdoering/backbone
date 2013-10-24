@@ -1,5 +1,4 @@
-Lecanora badioareolata Motyka SPECIES
-=======
+# Lecanora badioareolata Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Samara myrtillus Kurz SPECIES
-=======
+# Samara myrtillus Kurz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporium platani G.H. Otth SPECIES
-=======
+# Exosporium platani G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

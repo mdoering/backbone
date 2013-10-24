@@ -1,5 +1,4 @@
-Foveoletisporonites miocenicus Ramanujam & K.P. Rao SPECIES
-=======
+# Foveoletisporonites miocenicus Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

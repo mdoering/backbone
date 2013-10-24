@@ -1,5 +1,4 @@
-Dermatocarpon atlanticum Werner SPECIES
-=======
+# Dermatocarpon atlanticum Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dorocysta litotes Davey, 1970 SPECIES
-=======
+# Dorocysta litotes Davey, 1970 SPECIES
 
 #### Status
 ACCEPTED

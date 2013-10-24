@@ -1,5 +1,4 @@
-Spiroloculina norvegica Cushman & Todd SPECIES
-=======
+# Spiroloculina norvegica Cushman & Todd SPECIES
 
 #### Status
 ACCEPTED

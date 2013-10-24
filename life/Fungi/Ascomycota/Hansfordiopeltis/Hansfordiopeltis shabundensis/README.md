@@ -1,5 +1,4 @@
-Hansfordiopeltis shabundensis Bat. & C.A.A. Costa SPECIES
-=======
+# Hansfordiopeltis shabundensis Bat. & C.A.A. Costa SPECIES
 
 #### Status
 ACCEPTED

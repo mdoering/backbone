@@ -1,5 +1,4 @@
-Tuburcinia ornithoglossi Syd. SPECIES
-=======
+# Tuburcinia ornithoglossi Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothelium horridulum (Müll. Arg.) R. Sant. SPECIES
-=======
+# Trichothelium horridulum (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

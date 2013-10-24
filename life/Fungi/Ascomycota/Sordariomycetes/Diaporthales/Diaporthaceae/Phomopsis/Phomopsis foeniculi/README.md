@@ -1,5 +1,4 @@
-Phomopsis foeniculi Du Manoir & Vegh, 1981 SPECIES
-=======
+# Phomopsis foeniculi Du Manoir & Vegh, 1981 SPECIES
 
 #### Status
 ACCEPTED

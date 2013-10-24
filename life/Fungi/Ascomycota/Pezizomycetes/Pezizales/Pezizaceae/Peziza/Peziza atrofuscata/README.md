@@ -1,5 +1,4 @@
-Peziza atrofuscata Schwein. SPECIES
-=======
+# Peziza atrofuscata Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustulina microspora Traverso SPECIES
-=======
+# Ustulina microspora Traverso SPECIES
 
 #### Status
 ACCEPTED

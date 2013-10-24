@@ -1,5 +1,4 @@
-Leptosphaeria peltigerarum Arnold SPECIES
-=======
+# Leptosphaeria peltigerarum Arnold SPECIES
 
 #### Status
 ACCEPTED

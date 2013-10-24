@@ -1,5 +1,4 @@
-Physalospora wrightii (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Physalospora wrightii (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

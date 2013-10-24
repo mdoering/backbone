@@ -1,5 +1,4 @@
-Ammodiscus Reuss, 1862 GENUS
-=======
+# Ammodiscus Reuss, 1862 GENUS
 
 #### Status
 ACCEPTED

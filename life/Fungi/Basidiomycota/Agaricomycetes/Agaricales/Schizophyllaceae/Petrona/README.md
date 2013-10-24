@@ -1,5 +1,4 @@
-Petrona GENUS
-=======
+# Petrona GENUS
 
 #### Status
 ACCEPTED

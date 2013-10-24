@@ -1,14 +1,13 @@
-Leptoporus hapalus (Cooke) Pat. SPECIES
-=======
+# Leptoporus apalus (Cooke) Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 84 (1900)
 
 #### Original name
 Polystictus apalus Cooke

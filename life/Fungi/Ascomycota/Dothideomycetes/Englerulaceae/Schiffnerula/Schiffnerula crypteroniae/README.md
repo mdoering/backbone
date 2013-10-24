@@ -1,5 +1,4 @@
-Schiffnerula crypteroniae (Hansf.) S. Hughes SPECIES
-=======
+# Schiffnerula crypteroniae (Hansf.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

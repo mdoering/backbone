@@ -1,5 +1,4 @@
-Peziza scyphiformis Wallr. SPECIES
-=======
+# Peziza scyphiformis Wallr. SPECIES
 
 #### Status
 ACCEPTED

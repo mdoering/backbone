@@ -1,5 +1,4 @@
-Septoria samaricola Moesz SPECIES
-=======
+# Septoria samaricola Moesz SPECIES
 
 #### Status
 ACCEPTED

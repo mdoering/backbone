@@ -1,5 +1,4 @@
-Aleurodomyces Buchner GENUS
-=======
+# Aleurodomyces Buchner GENUS
 
 #### Status
 ACCEPTED

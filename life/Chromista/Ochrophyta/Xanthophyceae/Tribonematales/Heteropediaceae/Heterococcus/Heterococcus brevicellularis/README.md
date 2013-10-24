@@ -1,5 +1,4 @@
-Heterococcus brevicellularis Vischer SPECIES
-=======
+# Heterococcus brevicellularis Vischer SPECIES
 
 #### Status
 ACCEPTED

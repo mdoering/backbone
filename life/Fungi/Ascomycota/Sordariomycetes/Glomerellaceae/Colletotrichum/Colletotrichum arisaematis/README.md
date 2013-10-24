@@ -1,5 +1,4 @@
-Colletotrichum arisaematis H.C. Greene SPECIES
-=======
+# Colletotrichum arisaematis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

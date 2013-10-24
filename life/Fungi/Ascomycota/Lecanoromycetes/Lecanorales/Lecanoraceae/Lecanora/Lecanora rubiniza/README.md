@@ -1,5 +1,4 @@
-Lecanora rubiniza J. Steiner SPECIES
-=======
+# Lecanora rubiniza J. Steiner SPECIES
 
 #### Status
 ACCEPTED

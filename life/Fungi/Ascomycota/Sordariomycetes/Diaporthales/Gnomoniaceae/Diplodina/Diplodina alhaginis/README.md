@@ -1,5 +1,4 @@
-Diplodina alhaginis Lobik SPECIES
-=======
+# Diplodina alhaginis Lobik SPECIES
 
 #### Status
 ACCEPTED

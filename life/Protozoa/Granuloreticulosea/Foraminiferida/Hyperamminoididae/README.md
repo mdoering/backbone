@@ -1,5 +1,4 @@
-Hyperamminoididae Loeblich & Tappan, 1984 FAMILY
-=======
+# Hyperamminoididae Loeblich & Tappan, 1984 FAMILY
 
 #### Status
 ACCEPTED

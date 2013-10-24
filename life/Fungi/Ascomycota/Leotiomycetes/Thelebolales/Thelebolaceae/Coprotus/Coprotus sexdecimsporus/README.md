@@ -1,14 +1,13 @@
-Coprotus sexdecemsporus (P. Crouan & H. Crouan) Kimbr. & Korf SPECIES
-=======
+# Coprotus sexdecimsporus (P. Crouan & H. Crouan) Kimbr. & Korf, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 54: 22 (1967)
 
 #### Original name
 Ascobolus sexdecimsporus P. Crouan & H. Crouan, 1858

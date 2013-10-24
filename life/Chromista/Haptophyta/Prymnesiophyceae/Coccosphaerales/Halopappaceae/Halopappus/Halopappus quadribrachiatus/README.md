@@ -1,5 +1,4 @@
-Halopappus quadribrachiatus Schiller SPECIES
-=======
+# Halopappus quadribrachiatus Schiller SPECIES
 
 #### Status
 ACCEPTED

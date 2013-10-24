@@ -1,14 +1,13 @@
-Leptotrema simplex (Tuck.) Riddle SPECIES
-=======
+# Thelotrema simplex Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Britton & Millspaugh, The Bahama Flora (New York) 545 (1920)
+null
 
 #### Original name
 Thelotrema simplex Tuck.

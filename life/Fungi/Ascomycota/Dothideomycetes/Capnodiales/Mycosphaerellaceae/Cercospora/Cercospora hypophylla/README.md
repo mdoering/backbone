@@ -1,5 +1,4 @@
-Cercospora hypophylla Cavara SPECIES
-=======
+# Cercospora hypophylla Cavara SPECIES
 
 #### Status
 ACCEPTED

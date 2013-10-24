@@ -1,5 +1,4 @@
-Collematomyces nigrescentis E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Collematomyces nigrescentis E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

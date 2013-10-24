@@ -1,5 +1,4 @@
-Cryptococcus gastricus Reiersöl & di Menna, 1958 SPECIES
-=======
+# Cryptococcus gastricus Reiersöl & di Menna, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Napicladium fumago Speg. SPECIES
-=======
+# Napicladium fumago Speg. SPECIES
 
 #### Status
 ACCEPTED

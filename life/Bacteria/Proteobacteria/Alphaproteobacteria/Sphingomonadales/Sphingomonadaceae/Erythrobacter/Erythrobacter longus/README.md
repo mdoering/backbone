@@ -1,5 +1,4 @@
-Erythrobacter longus Shiba & Simidu, 1982 SPECIES
-=======
+# Erythrobacter longus Shiba & Simidu, 1982 SPECIES
 
 #### Status
 ACCEPTED

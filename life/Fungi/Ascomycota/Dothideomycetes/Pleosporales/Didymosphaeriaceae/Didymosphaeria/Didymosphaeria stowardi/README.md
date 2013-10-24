@@ -1,5 +1,4 @@
-Didymosphaeria stowardi Sacc. SPECIES
-=======
+# Didymosphaeria stowardi Sacc. SPECIES
 
 #### Status
 ACCEPTED

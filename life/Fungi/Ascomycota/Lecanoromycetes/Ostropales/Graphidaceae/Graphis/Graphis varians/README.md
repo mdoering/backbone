@@ -1,5 +1,4 @@
-Graphis varians (Müll. Arg.) Stizenb. SPECIES
-=======
+# Graphis varians (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

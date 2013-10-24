@@ -1,5 +1,4 @@
-Strickeria fendlerae Tracy & Earle SPECIES
-=======
+# Strickeria fendlerae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

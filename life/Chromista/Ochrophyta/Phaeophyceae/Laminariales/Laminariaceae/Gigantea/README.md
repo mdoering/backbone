@@ -1,5 +1,4 @@
-Gigantea Stackhouse, 1816 GENUS
-=======
+# Gigantea Stackhouse, 1816 GENUS
 
 #### Status
 ACCEPTED

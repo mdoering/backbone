@@ -1,5 +1,4 @@
-Micropera endoleuca Sacc. SPECIES
-=======
+# Micropera endoleuca Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pleospora thujae Grove, 1912 SPECIES
-=======
+# Dothiora thujae (Grove) M.E. Barr, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 50: 49 (1912)
+Contr. Univ. Mich. Herb. 9(8): 573 (1972)
 
 #### Original name
 Pleospora thujae Grove, 1912

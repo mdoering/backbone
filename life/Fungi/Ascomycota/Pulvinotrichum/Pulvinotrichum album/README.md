@@ -1,5 +1,4 @@
-Pulvinotrichum album Gamundí, Aramb. & Giaiotti, 1981 SPECIES
-=======
+# Pulvinotrichum album Gamundí, Aramb. & Giaiotti, 1981 SPECIES
 
 #### Status
 ACCEPTED

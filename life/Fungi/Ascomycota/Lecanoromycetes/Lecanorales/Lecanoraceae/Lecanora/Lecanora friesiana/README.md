@@ -1,5 +1,4 @@
-Lecanora friesiana SPECIES
-=======
+# Lecanora friesiana SPECIES
 
 #### Status
 ACCEPTED

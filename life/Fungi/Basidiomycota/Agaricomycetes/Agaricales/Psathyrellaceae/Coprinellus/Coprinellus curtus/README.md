@@ -1,17 +1,16 @@
-Coprinus curtus var. curtus VARIETY
-=======
+# Coprinellus curtus (Kalchbr.) Vilgalys, Hopple & Jacq. Johnson, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 9(no. 52): 133 (1881)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 233 (2001)
 
 #### Original name
-Coprinus curtus var. curtus
+Coprinus curtus Kalchbr., 1881
 
 ### Remarks
 null

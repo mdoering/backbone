@@ -1,5 +1,4 @@
-Epicoccum mezzettii Goid. SPECIES
-=======
+# Epicoccum mezzettii Goid. SPECIES
 
 #### Status
 ACCEPTED

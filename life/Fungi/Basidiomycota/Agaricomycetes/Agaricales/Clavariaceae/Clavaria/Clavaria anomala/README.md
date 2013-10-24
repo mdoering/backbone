@@ -1,5 +1,4 @@
-Clavaria anomala Fr. SPECIES
-=======
+# Clavaria anomala Fr. SPECIES
 
 #### Status
 ACCEPTED

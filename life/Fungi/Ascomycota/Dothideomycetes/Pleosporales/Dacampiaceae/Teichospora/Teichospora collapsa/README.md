@@ -1,5 +1,4 @@
-Teichospora collapsa K. Holm & L. Holm SPECIES
-=======
+# Teichospora collapsa K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

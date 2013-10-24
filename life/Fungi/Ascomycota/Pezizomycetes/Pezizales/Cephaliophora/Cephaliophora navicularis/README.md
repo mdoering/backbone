@@ -1,14 +1,13 @@
-Lecophagus navicularis (Tzean & G.L. Barron) M.W. Dick, 1990 SPECIES
-=======
+# Cephaliophora navicularis Tzean & G.L. Barron, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 94(3): 352 (1990)
+Can. J. Bot. 61(5): 1345 (1983)
 
 #### Original name
 Cephaliophora navicularis Tzean & G.L. Barron, 1983

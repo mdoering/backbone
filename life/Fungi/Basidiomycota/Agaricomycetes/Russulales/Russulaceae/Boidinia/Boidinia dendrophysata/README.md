@@ -1,5 +1,4 @@
-Boidinia dendrophysata Boidin & Gilles, 2000 SPECIES
-=======
+# Boidinia dendrophysata Boidin & Gilles, 2000 SPECIES
 
 #### Status
 ACCEPTED

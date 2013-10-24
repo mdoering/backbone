@@ -1,17 +1,16 @@
-Dasyscypha lundellii Le Gal SPECIES
-=======
+# Dasyscyphus lundellii Le Gal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 16(2): 112 (1962)
 
 #### Original name
-Dasyscypha lundellii Le Gal
+Dasyscyphus lundellii Le Gal
 
 ### Remarks
 null

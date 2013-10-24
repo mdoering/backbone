@@ -1,5 +1,4 @@
-Stenosemella perupusila Hada, 1970 SPECIES
-=======
+# Stenosemella perupusila Hada, 1970 SPECIES
 
 #### Status
 ACCEPTED

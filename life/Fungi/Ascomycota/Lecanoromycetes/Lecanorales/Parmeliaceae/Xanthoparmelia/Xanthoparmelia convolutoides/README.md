@@ -1,5 +1,4 @@
-Xanthoparmelia convolutoides Elix SPECIES
-=======
+# Xanthoparmelia convolutoides Elix SPECIES
 
 #### Status
 ACCEPTED

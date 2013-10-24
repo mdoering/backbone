@@ -1,5 +1,4 @@
-Normandina davidis Hue SPECIES
-=======
+# Normandina davidis Hue SPECIES
 
 #### Status
 ACCEPTED

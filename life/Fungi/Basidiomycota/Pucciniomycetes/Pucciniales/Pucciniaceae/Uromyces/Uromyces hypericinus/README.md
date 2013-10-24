@@ -1,5 +1,4 @@
-Uromyces hypericinus Speg. SPECIES
-=======
+# Uromyces hypericinus Speg. SPECIES
 
 #### Status
 ACCEPTED

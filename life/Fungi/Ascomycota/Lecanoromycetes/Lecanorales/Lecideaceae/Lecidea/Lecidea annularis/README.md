@@ -1,5 +1,4 @@
-Lecidea annularis (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Lecidea annularis (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

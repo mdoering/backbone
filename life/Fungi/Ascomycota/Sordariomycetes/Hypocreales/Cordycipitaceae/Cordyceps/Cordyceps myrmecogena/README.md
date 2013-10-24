@@ -1,5 +1,4 @@
-Cordyceps myrmecogena Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps myrmecogena Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

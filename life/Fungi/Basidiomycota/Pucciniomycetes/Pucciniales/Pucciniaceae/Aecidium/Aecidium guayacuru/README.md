@@ -1,5 +1,4 @@
-Aecidium guayacuru Speg. SPECIES
-=======
+# Aecidium guayacuru Speg. SPECIES
 
 #### Status
 ACCEPTED

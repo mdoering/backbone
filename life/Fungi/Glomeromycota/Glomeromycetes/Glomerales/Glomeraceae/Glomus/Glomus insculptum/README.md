@@ -1,5 +1,4 @@
-Glomus insculptum Blaszk. SPECIES
-=======
+# Glomus insculptum Blaszk. SPECIES
 
 #### Status
 ACCEPTED

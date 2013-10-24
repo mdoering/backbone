@@ -1,5 +1,4 @@
-Gyrodinium stratissimum SPECIES
-=======
+# Gyrodinium stratissimum SPECIES
 
 #### Status
 ACCEPTED

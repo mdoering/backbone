@@ -1,17 +1,16 @@
-Graphina deightoni C.W. Dodge SPECIES
-=======
+# Graphina deightonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 40: 324 (1953)
 
 #### Original name
-Graphina deightoni C.W. Dodge
+Graphina deightonii C.W. Dodge
 
 ### Remarks
 null

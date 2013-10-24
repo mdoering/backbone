@@ -1,5 +1,4 @@
-Dichomitus cylindrosporus Ryvarden SPECIES
-=======
+# Dichomitus cylindrosporus Ryvarden SPECIES
 
 #### Status
 ACCEPTED

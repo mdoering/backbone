@@ -1,5 +1,4 @@
-Diatrypella pretoriensis Doidge SPECIES
-=======
+# Diatrypella pretoriensis Doidge SPECIES
 
 #### Status
 ACCEPTED

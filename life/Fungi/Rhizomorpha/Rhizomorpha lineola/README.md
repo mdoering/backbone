@@ -1,5 +1,4 @@
-Rhizomorpha lineola Opiz SPECIES
-=======
+# Rhizomorpha lineola Opiz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium foveolati (Maire) Vánky SPECIES
-=======
+# Sporisorium foveolati (Maire) Vánky SPECIES
 
 #### Status
 ACCEPTED

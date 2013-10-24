@@ -1,5 +1,4 @@
-Lecidea marciensis J. Lowe SPECIES
-=======
+# Lecidea marciensis J. Lowe SPECIES
 
 #### Status
 ACCEPTED

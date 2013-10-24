@@ -1,5 +1,4 @@
-Gymnopaxillus E. Horak GENUS
-=======
+# Gymnopaxillus E. Horak GENUS
 
 #### Status
 ACCEPTED

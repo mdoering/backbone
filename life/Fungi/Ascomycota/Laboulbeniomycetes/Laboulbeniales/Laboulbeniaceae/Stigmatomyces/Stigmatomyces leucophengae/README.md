@@ -1,5 +1,4 @@
-Stigmatomyces leucophengae Thaxt. SPECIES
-=======
+# Stigmatomyces leucophengae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

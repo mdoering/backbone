@@ -1,5 +1,4 @@
-Septoria gomphrenae Sacc. & D. Sacc. SPECIES
-=======
+# Septoria gomphrenae Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

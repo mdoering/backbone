@@ -1,5 +1,4 @@
-Lepra sulphurea (Schltdl.) Ehrhardt SPECIES
-=======
+# Lepra sulphurea (Schltdl.) Ehrhardt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola memecylicola var. memecylicola VARIETY
-=======
+# Meliola memecylicola Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia (1957)
+Sydowia 10(1-6): 78 (1957)
 
 #### Original name
-Meliola memecylicola var. memecylicola
+Meliola memecylicola Hansf.
 
 ### Remarks
 null

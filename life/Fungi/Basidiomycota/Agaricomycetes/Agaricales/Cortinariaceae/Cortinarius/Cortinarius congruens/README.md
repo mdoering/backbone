@@ -1,5 +1,4 @@
-Cortinarius congruens Herp. SPECIES
-=======
+# Cortinarius congruens Herp. SPECIES
 
 #### Status
 ACCEPTED

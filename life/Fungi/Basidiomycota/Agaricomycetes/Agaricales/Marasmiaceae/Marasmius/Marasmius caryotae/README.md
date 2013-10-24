@@ -1,5 +1,4 @@
-Marasmius caryotae (Berk. & Broome) Petch SPECIES
-=======
+# Marasmius caryotae (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

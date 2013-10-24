@@ -1,5 +1,4 @@
-Puccinia ishikawai S. Ito SPECIES
-=======
+# Puccinia ishikawai S. Ito SPECIES
 
 #### Status
 ACCEPTED

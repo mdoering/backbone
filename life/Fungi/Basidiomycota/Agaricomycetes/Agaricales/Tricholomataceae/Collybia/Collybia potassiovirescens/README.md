@@ -1,5 +1,4 @@
-Collybia potassiovirescens Contu SPECIES
-=======
+# Collybia potassiovirescens Contu SPECIES
 
 #### Status
 ACCEPTED

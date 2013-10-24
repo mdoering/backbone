@@ -1,5 +1,4 @@
-Parkerella GENUS
-=======
+# Parkerella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seimatosporium davisiae (McAlpine) Shoemaker SPECIES
-=======
+# Seimatosporium davisiae (McAlpine) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

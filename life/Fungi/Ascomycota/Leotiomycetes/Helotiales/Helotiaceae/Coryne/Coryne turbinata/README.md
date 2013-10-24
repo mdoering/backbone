@@ -1,8 +1,7 @@
-Coryne sarcoides var. turbinata Sacc., 1889 VARIETY
-=======
+# Coryne turbinata (Sacc.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

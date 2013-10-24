@@ -1,5 +1,4 @@
-Cintractia externa (Griffiths) Clinton SPECIES
-=======
+# Cintractia externa (Griffiths) Clinton SPECIES
 
 #### Status
 ACCEPTED

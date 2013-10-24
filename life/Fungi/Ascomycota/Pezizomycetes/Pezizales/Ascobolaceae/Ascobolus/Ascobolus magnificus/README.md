@@ -1,5 +1,4 @@
-Ascobolus magnificus B.O. Dodge SPECIES
-=======
+# Ascobolus magnificus B.O. Dodge SPECIES
 
 #### Status
 ACCEPTED

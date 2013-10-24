@@ -1,5 +1,4 @@
-Typhula flavescens Saut. SPECIES
-=======
+# Typhula flavescens Saut. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisporina portoricensis (F. Stevens) Hansf. SPECIES
-=======
+# Perisporina portoricensis (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

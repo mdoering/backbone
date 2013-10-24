@@ -1,5 +1,4 @@
-Chaetoceros delicatulum C.E.H.Ostenfeld, 1901 SPECIES
-=======
+# Chaetoceros delicatulum C.E.H.Ostenfeld, 1901 SPECIES
 
 #### Status
 ACCEPTED

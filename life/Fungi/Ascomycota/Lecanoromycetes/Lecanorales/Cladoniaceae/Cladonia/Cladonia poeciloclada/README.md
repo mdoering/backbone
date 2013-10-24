@@ -1,5 +1,4 @@
-Cladonia poeciloclada f. poeciloclada FORM
-=======
+# Cladonia poeciloclada Abbayes SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia poeciloclada f. poeciloclada
+Cladonia poeciloclada Abbayes
 
 ### Remarks
 null

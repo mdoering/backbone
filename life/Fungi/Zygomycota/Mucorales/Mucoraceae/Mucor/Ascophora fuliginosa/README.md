@@ -1,5 +1,4 @@
-Ascophora fuliginosa Bonord. SPECIES
-=======
+# Ascophora fuliginosa Bonord. SPECIES
 
 #### Status
 ACCEPTED

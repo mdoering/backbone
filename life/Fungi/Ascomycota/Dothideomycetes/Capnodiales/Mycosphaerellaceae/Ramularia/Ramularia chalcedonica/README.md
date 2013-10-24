@@ -1,5 +1,4 @@
-Ramularia chalcedonica Allesch. SPECIES
-=======
+# Ramularia chalcedonica Allesch. SPECIES
 
 #### Status
 ACCEPTED

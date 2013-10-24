@@ -1,5 +1,4 @@
-Chorda Stackhouse, 1797 GENUS
-=======
+# Chorda Stackhouse, 1797 GENUS
 
 #### Status
 ACCEPTED

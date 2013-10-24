@@ -1,5 +1,4 @@
-Lecidea fluminensis Malme SPECIES
-=======
+# Lecidea fluminensis Malme SPECIES
 
 #### Status
 ACCEPTED

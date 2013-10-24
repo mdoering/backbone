@@ -1,5 +1,4 @@
-Lactarius longisporus Verbeken SPECIES
-=======
+# Lactarius longisporus Verbeken SPECIES
 
 #### Status
 ACCEPTED

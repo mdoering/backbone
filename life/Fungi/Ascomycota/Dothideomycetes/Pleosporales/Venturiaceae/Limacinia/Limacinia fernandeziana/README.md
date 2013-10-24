@@ -1,8 +1,7 @@
-Limacinia fernandesiana Neger SPECIES
-=======
+# Limacinia fernandeziana Neger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Limacinia fernandesiana Neger
+Limacinia fernandeziana Neger
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chitonomyces elegans Thaxt. SPECIES
-=======
+# Chitonomyces elegans Thaxt. SPECIES
 
 #### Status
 ACCEPTED

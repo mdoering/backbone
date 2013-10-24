@@ -1,5 +1,4 @@
-Boletus hybrida P. Micheli SPECIES
-=======
+# Boletus hybrida P. Micheli SPECIES
 
 #### Status
 ACCEPTED

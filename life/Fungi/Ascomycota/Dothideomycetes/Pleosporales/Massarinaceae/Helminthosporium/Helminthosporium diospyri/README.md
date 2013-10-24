@@ -1,5 +1,4 @@
-Helminthosporium diospyri Thüm. SPECIES
-=======
+# Helminthosporium diospyri Thüm. SPECIES
 
 #### Status
 ACCEPTED

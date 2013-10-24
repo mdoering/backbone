@@ -1,17 +1,16 @@
-Koleroga Donk GENUS
-=======
+# Ceratobasidium D.P. Rogers, 1935 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Fungus, Wageningen 28: 35 (1958)
+null
 
 #### Original name
-Koleroga Donk
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dentalina davidsonii Macgillivray, 1843 SPECIES
-=======
+# Dentalina davidsonii Macgillivray, 1843 SPECIES
 
 #### Status
 ACCEPTED

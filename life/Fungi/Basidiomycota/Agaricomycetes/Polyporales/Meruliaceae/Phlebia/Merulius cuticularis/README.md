@@ -1,5 +1,4 @@
-Merulius cuticularis Lév. SPECIES
-=======
+# Merulius cuticularis Lév. SPECIES
 
 #### Status
 ACCEPTED

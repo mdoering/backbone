@@ -1,5 +1,4 @@
-Ophthalmidium acutimargo SPECIES
-=======
+# Ophthalmidium acutimargo SPECIES
 
 #### Status
 ACCEPTED

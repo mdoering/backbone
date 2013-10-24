@@ -1,5 +1,4 @@
-Limacella taiwanensis Zhu L. Yang & W.N. Chou, 2002 SPECIES
-=======
+# Limacella taiwanensis Zhu L. Yang & W.N. Chou, 2002 SPECIES
 
 #### Status
 ACCEPTED

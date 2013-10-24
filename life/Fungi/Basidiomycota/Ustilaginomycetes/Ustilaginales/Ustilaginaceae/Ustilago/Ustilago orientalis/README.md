@@ -1,5 +1,4 @@
-Ustilago orientalis W.Y. Yen SPECIES
-=======
+# Ustilago orientalis W.Y. Yen SPECIES
 
 #### Status
 ACCEPTED

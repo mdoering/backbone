@@ -1,5 +1,4 @@
-Lasiosphaeria sphagni Delacr. SPECIES
-=======
+# Lasiosphaeria sphagni Delacr. SPECIES
 
 #### Status
 ACCEPTED

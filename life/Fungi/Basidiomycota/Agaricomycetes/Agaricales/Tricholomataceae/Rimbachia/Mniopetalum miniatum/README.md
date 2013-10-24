@@ -1,5 +1,4 @@
-Mniopetalum miniatum M. Zang, 1986 SPECIES
-=======
+# Mniopetalum miniatum M. Zang, 1986 SPECIES
 
 #### Status
 ACCEPTED

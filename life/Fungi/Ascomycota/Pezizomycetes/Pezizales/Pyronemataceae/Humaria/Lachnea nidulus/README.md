@@ -1,5 +1,4 @@
-Lachnea nidulus Gillet SPECIES
-=======
+# Lachnea nidulus Gillet SPECIES
 
 #### Status
 ACCEPTED

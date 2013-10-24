@@ -1,14 +1,13 @@
-Pseudallescheria africanum (Arx & G. Franz) McGinnis, A.A. Padhye & Ajello SPECIES
-=======
+# Petriellopsis africana (Arx & G. Franz) Gilgado, Cano, Guarro & Gené, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Int. J. Syst. Evol. Microbiol. 57: 2177 (2007)
 
 #### Original name
 Petriellidium africanum Arx & G. Franz, 1973

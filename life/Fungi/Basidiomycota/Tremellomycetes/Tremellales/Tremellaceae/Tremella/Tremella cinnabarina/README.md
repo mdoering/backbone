@@ -1,5 +1,4 @@
-Tremella cinnabarina Berk. ex Cooke SPECIES
-=======
+# Tremella cinnabarina Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

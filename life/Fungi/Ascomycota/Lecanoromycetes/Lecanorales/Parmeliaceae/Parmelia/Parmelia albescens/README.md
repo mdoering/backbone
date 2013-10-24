@@ -1,5 +1,4 @@
-Parmelia albescens (Hoffm.) Wallr. SPECIES
-=======
+# Parmelia albescens (Hoffm.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

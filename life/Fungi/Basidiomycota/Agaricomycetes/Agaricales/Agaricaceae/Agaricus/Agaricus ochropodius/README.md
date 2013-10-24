@@ -1,5 +1,4 @@
-Agaricus ochropodius Mont. SPECIES
-=======
+# Agaricus ochropodius Mont. SPECIES
 
 #### Status
 ACCEPTED

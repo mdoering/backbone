@@ -1,5 +1,4 @@
-Collybia scorzonerea (Batsch) Fr. SPECIES
-=======
+# Collybia scorzonerea (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

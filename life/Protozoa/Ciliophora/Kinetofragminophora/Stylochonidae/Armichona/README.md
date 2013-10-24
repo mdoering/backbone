@@ -1,5 +1,4 @@
-Armichona Jankowksi, 1973 GENUS
-=======
+# Armichona Jankowksi, 1973 GENUS
 
 #### Status
 ACCEPTED

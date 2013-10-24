@@ -1,5 +1,4 @@
-Hymenoscyphus litseae M.P. Sharma SPECIES
-=======
+# Hymenoscyphus litseae M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

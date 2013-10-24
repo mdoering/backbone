@@ -1,5 +1,4 @@
-Polyplastron Dogiel, 1927 GENUS
-=======
+# Polyplastron Dogiel, 1927 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia labiatarum Schltdl. SPECIES
-=======
+# Puccinia labiatarum Schltdl. SPECIES
 
 #### Status
 ACCEPTED

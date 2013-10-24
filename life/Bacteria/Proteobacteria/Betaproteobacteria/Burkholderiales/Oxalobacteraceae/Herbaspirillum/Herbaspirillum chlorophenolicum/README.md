@@ -1,5 +1,4 @@
-Herbaspirillum chlorophenolicum Im et al., 2004 SPECIES
-=======
+# Herbaspirillum chlorophenolicum Im et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

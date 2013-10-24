@@ -1,5 +1,4 @@
-Leptophyma GENUS
-=======
+# Leptophyma GENUS
 
 #### Status
 ACCEPTED

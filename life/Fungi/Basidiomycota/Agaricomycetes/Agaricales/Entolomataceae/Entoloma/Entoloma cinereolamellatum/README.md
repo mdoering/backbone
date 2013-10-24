@@ -1,5 +1,4 @@
-Entoloma cinereolamellatum Largent SPECIES
-=======
+# Entoloma cinereolamellatum Largent SPECIES
 
 #### Status
 ACCEPTED

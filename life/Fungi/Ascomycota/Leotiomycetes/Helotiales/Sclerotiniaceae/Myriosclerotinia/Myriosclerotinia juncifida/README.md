@@ -1,14 +1,13 @@
-Sclerotinia juncifida (Nyl.) J.T. Palmer, 1970 SPECIES
-=======
+# Myriosclerotinia juncifida (Nyl.) J.T. Palmer, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ir. Nat. J. 16(9): 263 (1970)
+Friesia 9: 199 (1969)
 
 #### Original name
 null

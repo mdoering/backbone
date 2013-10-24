@@ -1,17 +1,16 @@
-Penzigia poroniaeformis Petch SPECIES
-=======
+# Penzigia poroniiforme Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. R. bot. Gdns Peradeniya 8: 142 (1924)
 
 #### Original name
-Penzigia poroniaeformis Petch
+Penzigia poroniiforme Petch
 
 ### Remarks
 null

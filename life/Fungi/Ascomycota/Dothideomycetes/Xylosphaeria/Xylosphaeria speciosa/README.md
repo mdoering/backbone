@@ -1,5 +1,4 @@
-Xylosphaeria speciosa (Petr.) Petr. SPECIES
-=======
+# Xylosphaeria speciosa (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

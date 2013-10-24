@@ -1,5 +1,4 @@
-Puccinia angustata Peck SPECIES
-=======
+# Puccinia angustata Peck SPECIES
 
 #### Status
 ACCEPTED

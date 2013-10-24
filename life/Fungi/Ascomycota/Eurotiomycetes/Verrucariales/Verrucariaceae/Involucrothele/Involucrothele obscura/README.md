@@ -1,5 +1,4 @@
-Involucrothele obscura (Garov.) Servít SPECIES
-=======
+# Involucrothele obscura (Garov.) Servít SPECIES
 
 #### Status
 ACCEPTED

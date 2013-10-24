@@ -1,5 +1,4 @@
-Montonella GENUS
-=======
+# Montonella GENUS
 
 #### Status
 ACCEPTED

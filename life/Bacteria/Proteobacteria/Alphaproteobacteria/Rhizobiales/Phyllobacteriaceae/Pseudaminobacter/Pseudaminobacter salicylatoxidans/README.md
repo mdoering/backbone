@@ -1,5 +1,4 @@
-Pseudaminobacter salicylatoxidans Kämpfer et al., 1999 SPECIES
-=======
+# Pseudaminobacter salicylatoxidans Kämpfer et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

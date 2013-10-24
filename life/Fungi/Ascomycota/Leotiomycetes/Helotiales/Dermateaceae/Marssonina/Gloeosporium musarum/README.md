@@ -1,5 +1,4 @@
-Gloeosporium musarum var. musarum VARIETY
-=======
+# Gloeosporium musarum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 16(no. 77): 3 (1887)
 
 #### Original name
-Gloeosporium musarum var. musarum
+Gloeosporium musarum Cooke & Massee
 
 ### Remarks
 null

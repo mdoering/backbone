@@ -1,5 +1,4 @@
-Aecidium lagena Sorokin SPECIES
-=======
+# Aecidium lagena Sorokin SPECIES
 
 #### Status
 ACCEPTED

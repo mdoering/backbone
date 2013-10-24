@@ -1,5 +1,4 @@
-Agaricus volvatulus Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus volvatulus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

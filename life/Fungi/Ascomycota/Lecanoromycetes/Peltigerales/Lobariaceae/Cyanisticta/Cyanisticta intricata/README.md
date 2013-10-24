@@ -1,5 +1,4 @@
-Cyanisticta intricata SPECIES
-=======
+# Cyanisticta intricata SPECIES
 
 #### Status
 ACCEPTED

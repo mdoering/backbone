@@ -1,5 +1,4 @@
-Puccinia allii-japonici Dietel SPECIES
-=======
+# Puccinia allii-japonici Dietel SPECIES
 
 #### Status
 ACCEPTED

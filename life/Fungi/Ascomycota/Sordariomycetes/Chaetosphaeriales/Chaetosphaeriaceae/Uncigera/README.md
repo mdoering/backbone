@@ -1,5 +1,4 @@
-Uncigera Sacc. GENUS
-=======
+# Uncigera Sacc. GENUS
 
 #### Status
 ACCEPTED

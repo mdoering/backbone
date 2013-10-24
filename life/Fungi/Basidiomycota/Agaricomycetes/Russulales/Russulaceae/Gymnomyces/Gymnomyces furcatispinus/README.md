@@ -1,5 +1,4 @@
-Gymnomyces furcatispinus T. Lebel, 2003 SPECIES
-=======
+# Gymnomyces furcatispinus T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

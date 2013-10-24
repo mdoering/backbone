@@ -1,5 +1,4 @@
-Acarospora intercedens H. Magn. SPECIES
-=======
+# Acarospora intercedens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

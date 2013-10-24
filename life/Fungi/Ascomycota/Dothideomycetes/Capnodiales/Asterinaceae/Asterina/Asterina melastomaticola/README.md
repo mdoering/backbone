@@ -1,5 +1,4 @@
-Asterina melastomaticola Hansf. SPECIES
-=======
+# Asterina melastomaticola Hansf. SPECIES
 
 #### Status
 ACCEPTED

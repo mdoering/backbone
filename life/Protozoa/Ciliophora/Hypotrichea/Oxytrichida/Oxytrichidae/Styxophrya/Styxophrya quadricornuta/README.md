@@ -1,8 +1,7 @@
-Onychodromus quadricornatus Foissner, Schlegel & Prescott SPECIES
-=======
+# Styxophrya quadricornuta (Foissner, Schlegel & Prescott, 1987) Foissner, Moon van der Staay, Van, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

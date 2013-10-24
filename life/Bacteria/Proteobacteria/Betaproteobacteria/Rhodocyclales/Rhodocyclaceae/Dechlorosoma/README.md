@@ -1,5 +1,4 @@
-Dechlorosoma Achenbach et al., 2001 GENUS
-=======
+# Dechlorosoma Achenbach et al., 2001 GENUS
 
 #### Status
 ACCEPTED

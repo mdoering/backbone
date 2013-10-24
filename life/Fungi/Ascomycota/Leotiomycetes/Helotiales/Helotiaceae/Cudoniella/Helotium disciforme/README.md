@@ -1,5 +1,4 @@
-Helotium disciforme Fr. SPECIES
-=======
+# Helotium disciforme Fr. SPECIES
 
 #### Status
 ACCEPTED

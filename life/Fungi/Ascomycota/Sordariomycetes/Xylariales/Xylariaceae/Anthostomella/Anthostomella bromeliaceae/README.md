@@ -1,5 +1,4 @@
-Anthostomella bromeliaceae Rehm SPECIES
-=======
+# Anthostomella bromeliaceae Rehm SPECIES
 
 #### Status
 ACCEPTED

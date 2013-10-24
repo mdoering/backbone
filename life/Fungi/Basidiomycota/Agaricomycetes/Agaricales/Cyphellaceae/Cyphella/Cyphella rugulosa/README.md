@@ -1,5 +1,4 @@
-Cyphella rugulosa (Lév.) Sacc. SPECIES
-=======
+# Cyphella rugulosa (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

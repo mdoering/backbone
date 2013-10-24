@@ -1,5 +1,4 @@
-Geopetalum geophilum Murrill SPECIES
-=======
+# Geopetalum geophilum Murrill SPECIES
 
 #### Status
 ACCEPTED

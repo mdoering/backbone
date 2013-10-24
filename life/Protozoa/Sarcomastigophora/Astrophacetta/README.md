@@ -1,5 +1,4 @@
-Astrophacetta Haeckel, 1887 GENUS
-=======
+# Astrophacetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

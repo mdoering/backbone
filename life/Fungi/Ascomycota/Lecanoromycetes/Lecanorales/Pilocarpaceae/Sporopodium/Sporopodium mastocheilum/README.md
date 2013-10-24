@@ -1,5 +1,4 @@
-Sporopodium mastocheilum Vain. SPECIES
-=======
+# Sporopodium mastocheilum Vain. SPECIES
 
 #### Status
 ACCEPTED

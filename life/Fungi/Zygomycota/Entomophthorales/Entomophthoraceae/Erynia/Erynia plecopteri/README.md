@@ -1,14 +1,13 @@
-Zoophthora plecopteri (Descals & J. Webster) Balazy, 1993 SPECIES
-=======
+# Erynia plecopteri Descals & J. Webster, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Polska (Kraków), Grzyby (Mycota). Vol. <b>24</b>. Owadomorkowe, <i>Entomophthorales</i> 157 (1993)
+Trans. Br. mycol. Soc. 83: 669 (1984)
 
 #### Original name
 Erynia plecopteri Descals & J. Webster, 1984

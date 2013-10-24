@@ -1,5 +1,4 @@
-Polyporus lirutum Kalchbr. SPECIES
-=======
+# Polyporus lirutum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

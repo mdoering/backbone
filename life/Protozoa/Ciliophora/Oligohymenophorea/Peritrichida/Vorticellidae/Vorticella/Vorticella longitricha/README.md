@@ -1,5 +1,4 @@
-Vorticella longitricha Gajewskaja, 1933 SPECIES
-=======
+# Vorticella longitricha Gajewskaja, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma gentile (Arthur) Arthur SPECIES
-=======
+# Dicaeoma gentile (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

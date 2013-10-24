@@ -1,5 +1,4 @@
-Coprinus pseudoplicatus Copel. SPECIES
-=======
+# Coprinus pseudoplicatus Copel. SPECIES
 
 #### Status
 ACCEPTED

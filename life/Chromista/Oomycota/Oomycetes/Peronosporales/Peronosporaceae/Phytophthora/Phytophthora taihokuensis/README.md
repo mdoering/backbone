@@ -1,5 +1,4 @@
-Phytophthora taihokuensis Sawada SPECIES
-=======
+# Phytophthora taihokuensis Sawada SPECIES
 
 #### Status
 ACCEPTED

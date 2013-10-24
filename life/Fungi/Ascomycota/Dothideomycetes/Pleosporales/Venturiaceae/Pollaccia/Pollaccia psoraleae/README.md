@@ -1,5 +1,4 @@
-Pollaccia psoraleae (Ellis & Barthol.) Deighton SPECIES
-=======
+# Pollaccia psoraleae (Ellis & Barthol.) Deighton SPECIES
 
 #### Status
 ACCEPTED

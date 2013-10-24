@@ -1,5 +1,4 @@
-Gyroporus ammophilus (M.L. Castro & L. Freire) M.L. Castro & L. Freire SPECIES
-=======
+# Gyroporus ammophilus (M.L. Castro & L. Freire) M.L. Castro & L. Freire SPECIES
 
 #### Status
 ACCEPTED

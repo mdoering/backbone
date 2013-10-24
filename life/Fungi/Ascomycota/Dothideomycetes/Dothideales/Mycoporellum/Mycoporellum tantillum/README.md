@@ -1,5 +1,4 @@
-Mycoporellum tantillum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Mycoporellum tantillum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

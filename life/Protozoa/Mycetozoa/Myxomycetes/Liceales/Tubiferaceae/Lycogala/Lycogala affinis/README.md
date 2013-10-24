@@ -1,5 +1,4 @@
-Lycogala affinis Berk. & Broome SPECIES
-=======
+# Lycogala affinis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

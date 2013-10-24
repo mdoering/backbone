@@ -1,5 +1,4 @@
-Metanophrys durchoni de Puytorac, Grolière, Roque & Detcheva, 1974 SPECIES
-=======
+# Metanophrys durchoni de Puytorac, Grolière, Roque & Detcheva, 1974 SPECIES
 
 #### Status
 ACCEPTED

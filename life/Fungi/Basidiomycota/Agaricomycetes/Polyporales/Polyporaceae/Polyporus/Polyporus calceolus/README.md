@@ -1,5 +1,4 @@
-Polyporus calceolus (Bull.) Balb. SPECIES
-=======
+# Polyporus calceolus (Bull.) Balb. SPECIES
 
 #### Status
 ACCEPTED

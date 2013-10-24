@@ -1,17 +1,16 @@
-Inocybe furfurea var. furfurea VARIETY
-=======
+# Inocybe furfurea Kühner, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. nat. Oyonnax 9(Suppl. ): 4 (1955)
 
 #### Original name
-Inocybe furfurea var. furfurea
+Inocybe furfurea Kühner, 1955
 
 ### Remarks
 null

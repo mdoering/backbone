@@ -1,5 +1,4 @@
-Diaporthe moriokaensis Sawada SPECIES
-=======
+# Diaporthe moriokaensis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium australasiaticum Vánky & R.G. Shivas, 2001 SPECIES
-=======
+# Sporisorium australasiaticum Vánky & R.G. Shivas, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium djalmae Bat. & Peres SPECIES
-=======
+# Scolecopeltidium djalmae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

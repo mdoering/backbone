@@ -1,5 +1,4 @@
-Pistillaria bipindiensis (Henn.) Corner SPECIES
-=======
+# Pistillaria bipindiensis (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

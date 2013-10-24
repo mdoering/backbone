@@ -1,5 +1,4 @@
-Venenarius parvus Murrill SPECIES
-=======
+# Venenarius parvus Murrill SPECIES
 
 #### Status
 ACCEPTED

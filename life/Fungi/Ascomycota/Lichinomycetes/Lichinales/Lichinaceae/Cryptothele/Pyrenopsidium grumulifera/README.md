@@ -1,5 +1,4 @@
-Pyrenopsidium grumulifera Nyl. SPECIES
-=======
+# Pyrenopsidium grumulifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

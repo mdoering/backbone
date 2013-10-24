@@ -1,14 +1,13 @@
-Mosigia intercedens (H. Magn.) R. Sant. SPECIES
-=======
+# Rimularia intercedens (H. Magn.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichens of Sweden and Norway (Stockholm) 209 (1984)
+British Lichen Society Bulletin, Supplement 72: 75 (1993)
 
 #### Original name
 Lecanora intercedens H. Magn.

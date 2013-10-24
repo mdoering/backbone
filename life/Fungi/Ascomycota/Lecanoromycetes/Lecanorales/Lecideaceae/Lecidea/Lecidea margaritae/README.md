@@ -1,5 +1,4 @@
-Lecidea margaritae Hue SPECIES
-=======
+# Lecidea margaritae Hue SPECIES
 
 #### Status
 ACCEPTED

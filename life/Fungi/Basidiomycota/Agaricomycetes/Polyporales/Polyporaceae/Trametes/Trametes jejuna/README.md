@@ -1,5 +1,4 @@
-Trametes jejuna Corner SPECIES
-=======
+# Trametes jejuna Corner SPECIES
 
 #### Status
 ACCEPTED

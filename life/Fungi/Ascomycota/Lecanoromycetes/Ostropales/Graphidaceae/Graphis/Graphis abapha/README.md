@@ -1,5 +1,4 @@
-Graphis abapha Nyl. SPECIES
-=======
+# Graphis abapha Nyl. SPECIES
 
 #### Status
 ACCEPTED

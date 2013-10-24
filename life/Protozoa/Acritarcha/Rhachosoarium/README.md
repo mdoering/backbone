@@ -1,5 +1,4 @@
-Rhachosoarium H. Tappan & A.R. Loeblich Jr., 1972 GENUS
-=======
+# Rhachosoarium H. Tappan & A.R. Loeblich Jr., 1972 GENUS
 
 #### Status
 ACCEPTED

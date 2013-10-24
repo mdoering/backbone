@@ -1,14 +1,13 @@
-Squamaria rhodocarpa Nyl. SPECIES
-=======
+# Placopsis rhodocarpa (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 15: 376 (1861)
+Rev. Bryol. Lichénol. 32: 250 (1861)
 
 #### Original name
 Squamaria rhodocarpa Nyl.

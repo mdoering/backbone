@@ -1,14 +1,13 @@
-Leptosphaeria rustica P. Karst., 1873 SPECIES
-=======
+# Metasphaeria rustica (P. Karst.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 23: 105 (1873)
+Syll. fung. (Abellini) 2: 157 (1883)
 
 #### Original name
 Leptosphaeria rustica P. Karst., 1873

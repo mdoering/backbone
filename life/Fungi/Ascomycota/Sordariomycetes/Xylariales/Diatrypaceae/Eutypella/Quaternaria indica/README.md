@@ -1,5 +1,4 @@
-Quaternaria indica Srinivas. & Sathe SPECIES
-=======
+# Quaternaria indica Srinivas. & Sathe SPECIES
 
 #### Status
 ACCEPTED

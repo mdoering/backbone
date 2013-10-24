@@ -1,5 +1,4 @@
-Mycena rufopicta Berk. SPECIES
-=======
+# Mycena rufopicta Berk. SPECIES
 
 #### Status
 ACCEPTED

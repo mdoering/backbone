@@ -1,5 +1,4 @@
-Marasmius euosmus Singer SPECIES
-=======
+# Marasmius euosmus Singer SPECIES
 
 #### Status
 ACCEPTED

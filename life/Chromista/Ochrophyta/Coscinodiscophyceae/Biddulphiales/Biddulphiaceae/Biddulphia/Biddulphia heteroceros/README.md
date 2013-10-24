@@ -1,5 +1,4 @@
-Biddulphia heteroceros Grunow SPECIES
-=======
+# Biddulphia heteroceros Grunow SPECIES
 
 #### Status
 ACCEPTED

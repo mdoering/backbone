@@ -1,5 +1,4 @@
-Lepiota psalion Huijser & Vellinga SPECIES
-=======
+# Lepiota psalion Huijser & Vellinga SPECIES
 
 #### Status
 ACCEPTED

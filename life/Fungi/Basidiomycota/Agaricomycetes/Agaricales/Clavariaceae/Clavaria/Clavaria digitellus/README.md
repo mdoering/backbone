@@ -1,5 +1,4 @@
-Clavaria digitellus Schaeff. SPECIES
-=======
+# Clavaria digitellus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

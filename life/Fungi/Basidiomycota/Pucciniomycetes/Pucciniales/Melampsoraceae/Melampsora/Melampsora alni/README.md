@@ -1,5 +1,4 @@
-Melampsora alni Thüm. SPECIES
-=======
+# Melampsora alni Thüm. SPECIES
 
 #### Status
 ACCEPTED

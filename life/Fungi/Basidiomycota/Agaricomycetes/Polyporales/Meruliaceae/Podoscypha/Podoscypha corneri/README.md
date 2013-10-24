@@ -1,5 +1,4 @@
-Podoscypha corneri D.A. Reid, 1965 SPECIES
-=======
+# Podoscypha corneri D.A. Reid, 1965 SPECIES
 
 #### Status
 ACCEPTED

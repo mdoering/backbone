@@ -1,5 +1,4 @@
-Senzeillea F. Stockmans & Y. Willière, 1969 GENUS
-=======
+# Senzeillea F. Stockmans & Y. Willière, 1969 GENUS
 
 #### Status
 ACCEPTED

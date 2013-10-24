@@ -1,5 +1,4 @@
-Phaeopeltis sapotae Bat. SPECIES
-=======
+# Phaeopeltis sapotae Bat. SPECIES
 
 #### Status
 ACCEPTED

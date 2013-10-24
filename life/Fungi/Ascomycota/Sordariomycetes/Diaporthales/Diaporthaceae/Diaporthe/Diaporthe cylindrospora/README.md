@@ -1,5 +1,4 @@
-Diaporthe cylindrospora Peck SPECIES
-=======
+# Diaporthe cylindrospora Peck SPECIES
 
 #### Status
 ACCEPTED

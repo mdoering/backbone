@@ -1,17 +1,16 @@
-Atylospora prunuliformis Murrill SPECIES
-=======
+# Astylospora prunuliformis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 14(5): 266 (1922)
 
 #### Original name
-Atylospora prunuliformis Murrill
+Astylospora prunuliformis Murrill
 
 ### Remarks
 null

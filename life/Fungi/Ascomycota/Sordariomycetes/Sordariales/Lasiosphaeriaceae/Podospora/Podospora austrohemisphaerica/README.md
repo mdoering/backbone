@@ -1,5 +1,4 @@
-Podospora austrohemisphaerica N. Lundq., 1999 SPECIES
-=======
+# Podospora austrohemisphaerica N. Lundq., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora ramulicola Vize SPECIES
-=======
+# Ceuthospora ramulicola Vize SPECIES
 
 #### Status
 ACCEPTED

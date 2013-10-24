@@ -1,17 +1,16 @@
-Ionaspis cyanocarpa f. cyanocarpa FORM
-=======
+# Hymenelia cyanocarpa (Anzi) Lutzoni SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lutzoni & Brodo, Syst. Bot. 20(3): 250 (1995)
 
 #### Original name
-Ionaspis cyanocarpa f. cyanocarpa
+Aspicilia cyanocarpa Anzi
 
 ### Remarks
 null

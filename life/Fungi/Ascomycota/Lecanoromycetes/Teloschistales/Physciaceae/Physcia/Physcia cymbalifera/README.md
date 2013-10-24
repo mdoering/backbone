@@ -1,5 +1,4 @@
-Physcia cymbalifera (G. Mey.) Tuck. SPECIES
-=======
+# Physcia cymbalifera (G. Mey.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

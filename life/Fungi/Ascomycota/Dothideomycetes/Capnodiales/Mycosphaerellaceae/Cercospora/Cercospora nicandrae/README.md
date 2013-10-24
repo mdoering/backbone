@@ -1,5 +1,4 @@
-Cercospora nicandrae Chupp SPECIES
-=======
+# Cercospora nicandrae Chupp SPECIES
 
 #### Status
 ACCEPTED

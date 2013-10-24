@@ -1,5 +1,4 @@
-Lecanora gallifera Vain. SPECIES
-=======
+# Lecanora gallifera Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phoma oncostoma Thüm., 1877 SPECIES
-=======
+# Phomopsis oncostoma (Thüm.) Höhn., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotheca universalis no. 877 (1877)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 115: 681 (1906)
 
 #### Original name
 Phoma oncostoma Thüm., 1877

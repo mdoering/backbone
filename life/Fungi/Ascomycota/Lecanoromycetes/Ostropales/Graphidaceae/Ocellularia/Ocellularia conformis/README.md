@@ -1,5 +1,4 @@
-Ocellularia conformis (Fée) Hale SPECIES
-=======
+# Ocellularia conformis (Fée) Hale SPECIES
 
 #### Status
 ACCEPTED

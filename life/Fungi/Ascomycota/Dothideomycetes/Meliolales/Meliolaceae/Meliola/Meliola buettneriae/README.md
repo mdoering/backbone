@@ -1,5 +1,4 @@
-Meliola buettneriae J.A. Stev. SPECIES
-=======
+# Meliola buettneriae J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

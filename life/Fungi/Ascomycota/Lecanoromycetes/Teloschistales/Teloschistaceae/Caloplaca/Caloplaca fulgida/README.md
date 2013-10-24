@@ -1,5 +1,4 @@
-Caloplaca fulgida subsp. fulgida SUBSPECIES
-=======
+# Caloplaca fulgida (Nyl.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

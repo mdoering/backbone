@@ -1,5 +1,4 @@
-Armillaria dichupella (Berk.) Sacc. SPECIES
-=======
+# Armillaria dichupella (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

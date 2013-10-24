@@ -1,5 +1,4 @@
-Euglena vermiformis SPECIES
-=======
+# Euglena vermiformis SPECIES
 
 #### Status
 ACCEPTED

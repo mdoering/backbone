@@ -1,5 +1,4 @@
-Eimeria brevoortiana Hardcastle, 1944 SPECIES
-=======
+# Eimeria brevoortiana Hardcastle, 1944 SPECIES
 
 #### Status
 ACCEPTED

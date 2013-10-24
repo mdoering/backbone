@@ -1,5 +1,4 @@
-Camposporidium Nawawi & Kuthub. GENUS
-=======
+# Camposporidium Nawawi & Kuthub. GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercidospora pachyspora (E. Bommer, M. Rousseau & Sacc.) Kuntze, 1898 SPECIES
-=======
+# Didymella pachyspora E. Bommer, M. Rousseau & Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 454 (1898)
+in Saccardo, Syll. fung. (Abellini) 9: 670 (1891)
 
 #### Original name
 Didymella pachyspora E. Bommer, M. Rousseau & Sacc., 1891

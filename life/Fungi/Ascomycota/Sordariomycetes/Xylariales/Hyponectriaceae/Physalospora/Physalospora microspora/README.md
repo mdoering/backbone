@@ -1,5 +1,4 @@
-Physalospora microspora Feltgen SPECIES
-=======
+# Physalospora microspora Feltgen SPECIES
 
 #### Status
 ACCEPTED

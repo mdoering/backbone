@@ -1,5 +1,4 @@
-Quinqueloculina tricarinata SPECIES
-=======
+# Quinqueloculina tricarinata SPECIES
 
 #### Status
 ACCEPTED

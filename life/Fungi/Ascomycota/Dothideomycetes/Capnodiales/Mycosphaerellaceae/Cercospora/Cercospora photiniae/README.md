@@ -1,5 +1,4 @@
-Cercospora photiniae Fukui SPECIES
-=======
+# Cercospora photiniae Fukui SPECIES
 
 #### Status
 ACCEPTED

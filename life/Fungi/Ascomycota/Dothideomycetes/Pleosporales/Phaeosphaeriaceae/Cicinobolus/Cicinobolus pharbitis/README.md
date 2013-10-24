@@ -1,8 +1,7 @@
-Cicinnobolus pharbitis Unamuno SPECIES
-=======
+# Cicinobolus pharbitis Unamuno SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus pharbitis Unamuno
+Cicinobolus pharbitis Unamuno
 
 ### Remarks
 null

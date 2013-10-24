@@ -1,5 +1,4 @@
-Gloeoporus guerreroanus G. Coelho, R.M. Silveira & Rajchenb., 2007 SPECIES
-=======
+# Gloeoporus guerreroanus G. Coelho, R.M. Silveira & Rajchenb., 2007 SPECIES
 
 #### Status
 ACCEPTED

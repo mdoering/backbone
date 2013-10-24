@@ -1,5 +1,4 @@
-Lecanora lavae Darb. SPECIES
-=======
+# Lecanora lavae Darb. SPECIES
 
 #### Status
 ACCEPTED

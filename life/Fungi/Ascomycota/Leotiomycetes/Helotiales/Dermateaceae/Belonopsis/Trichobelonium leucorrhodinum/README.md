@@ -1,5 +1,4 @@
-Trichobelonium leucorrhodinum (Mont.) Seaver SPECIES
-=======
+# Trichobelonium leucorrhodinum (Mont.) Seaver SPECIES
 
 #### Status
 ACCEPTED

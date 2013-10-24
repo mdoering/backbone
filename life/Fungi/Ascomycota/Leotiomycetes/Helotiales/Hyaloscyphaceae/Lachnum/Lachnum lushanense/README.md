@@ -1,5 +1,4 @@
-Lachnum lushanense W.Y. Zhuang & Zheng Wang SPECIES
-=======
+# Lachnum lushanense W.Y. Zhuang & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

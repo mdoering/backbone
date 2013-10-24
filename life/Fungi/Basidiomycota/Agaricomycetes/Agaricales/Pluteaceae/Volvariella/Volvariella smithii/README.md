@@ -1,5 +1,4 @@
-Volvariella smithii Shaffer SPECIES
-=======
+# Volvariella smithii Shaffer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoplasma opalescens Rosendal, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma opalescens Rosendal, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

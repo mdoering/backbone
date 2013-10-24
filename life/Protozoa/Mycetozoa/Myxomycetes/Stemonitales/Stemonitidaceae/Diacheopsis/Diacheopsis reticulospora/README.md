@@ -1,5 +1,4 @@
-Diacheopsis reticulospora Mar.Mey. & Poulain, 1990 SPECIES
-=======
+# Diacheopsis reticulospora Mar.Mey. & Poulain, 1990 SPECIES
 
 #### Status
 ACCEPTED

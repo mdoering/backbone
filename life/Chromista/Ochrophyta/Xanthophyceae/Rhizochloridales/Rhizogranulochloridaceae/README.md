@@ -1,5 +1,4 @@
-Rhizogranulochloridaceae FAMILY
-=======
+# Rhizogranulochloridaceae FAMILY
 
 #### Status
 ACCEPTED

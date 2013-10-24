@@ -1,5 +1,4 @@
-Acantholigotriletum grumolosum Timofeev, 1959 SPECIES
-=======
+# Acantholigotriletum grumolosum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

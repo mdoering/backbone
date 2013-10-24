@@ -1,5 +1,4 @@
-Rhabdospora buddleiae Grove SPECIES
-=======
+# Rhabdospora buddleiae Grove SPECIES
 
 #### Status
 ACCEPTED

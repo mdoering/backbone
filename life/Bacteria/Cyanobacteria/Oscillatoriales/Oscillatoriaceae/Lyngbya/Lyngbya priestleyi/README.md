@@ -1,5 +1,4 @@
-Lyngbya priestleyi (F. E. Fritsch) P. A. C. Senna SPECIES
-=======
+# Lyngbya priestleyi (F. E. Fritsch) P. A. C. Senna SPECIES
 
 #### Status
 ACCEPTED

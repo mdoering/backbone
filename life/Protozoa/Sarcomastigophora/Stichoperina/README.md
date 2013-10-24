@@ -1,5 +1,4 @@
-Stichoperina Haeckel, 1887 GENUS
-=======
+# Stichoperina Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

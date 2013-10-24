@@ -1,5 +1,4 @@
-Stigmatomyces divaricatus Thaxt. SPECIES
-=======
+# Stigmatomyces divaricatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

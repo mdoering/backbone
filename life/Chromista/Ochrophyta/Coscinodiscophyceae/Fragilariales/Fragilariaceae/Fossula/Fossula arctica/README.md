@@ -1,5 +1,4 @@
-Fossula arctica G.R. Hasle, E.E. Syvertsen & C.H. von Quillfeldt SPECIES
-=======
+# Fossula arctica G.R. Hasle, E.E. Syvertsen & C.H. von Quillfeldt SPECIES
 
 #### Status
 ACCEPTED

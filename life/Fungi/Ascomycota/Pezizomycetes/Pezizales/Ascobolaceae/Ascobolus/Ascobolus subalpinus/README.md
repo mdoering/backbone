@@ -1,5 +1,4 @@
-Ascobolus subalpinus S.C. Kaushal & K.S. Thind SPECIES
-=======
+# Ascobolus subalpinus S.C. Kaushal & K.S. Thind SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena cyrnea Maas Geest. SPECIES
-=======
+# Mycena cyrnea Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

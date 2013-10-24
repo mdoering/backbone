@@ -1,5 +1,4 @@
-Ruthiella Schödel, 1983 GENUS
-=======
+# Ruthiella Schödel, 1983 GENUS
 
 #### Status
 ACCEPTED

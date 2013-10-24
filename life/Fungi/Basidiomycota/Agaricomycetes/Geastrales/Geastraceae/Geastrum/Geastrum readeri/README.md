@@ -1,8 +1,7 @@
-Geaster readeri Cooke & Massee SPECIES
-=======
+# Geastrum readeri Cooke & Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster readeri Cooke & Massee
+Geastrum readeri Cooke & Massee
 
 ### Remarks
 null

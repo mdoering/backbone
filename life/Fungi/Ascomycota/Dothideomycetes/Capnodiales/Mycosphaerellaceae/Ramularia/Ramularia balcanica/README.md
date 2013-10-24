@@ -1,5 +1,4 @@
-Ramularia balcanica Bubák & Ranoj. SPECIES
-=======
+# Ramularia balcanica Bubák & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

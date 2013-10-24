@@ -1,5 +1,4 @@
-Catillaria inopulina (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria inopulina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

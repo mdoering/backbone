@@ -1,5 +1,4 @@
-Dorothia caribaea SPECIES
-=======
+# Dorothia caribaea SPECIES
 
 #### Status
 ACCEPTED

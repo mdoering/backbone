@@ -1,5 +1,4 @@
-Naucoria lusitanica f. lusitanica FORM
-=======
+# Naucoria lusitanica Cout. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Naucoria lusitanica f. lusitanica
+Naucoria lusitanica Cout.
 
 ### Remarks
 null

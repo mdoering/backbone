@@ -1,5 +1,4 @@
-Metadiplodia libera f. libera FORM
-=======
+# Metadiplodia libera (Schulzer & Sacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 70(3): 296 (1955)
 
 #### Original name
-Metadiplodia libera f. libera
+Diplodia libera Schulzer & Sacc.
 
 ### Remarks
 null

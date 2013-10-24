@@ -1,5 +1,4 @@
-Uredo mussaendae (Syd.) Hirats. f. SPECIES
-=======
+# Uredo mussaendae (Syd.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Fusicladium robiniae Shear, 1902 SPECIES
-=======
+# Phaeoisariopsis robiniae (Shear) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 29: 452 (1902)
+in Ellis, More Dematiaceous Hyphomycetes (Kew) 234 (1976)
 
 #### Original name
 Fusicladium robiniae Shear, 1902

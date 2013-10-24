@@ -1,5 +1,4 @@
-Sporidesmium melastomatis (Pat.) U. Braun & Crous SPECIES
-=======
+# Sporidesmium melastomatis (Pat.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

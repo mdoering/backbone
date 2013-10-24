@@ -1,5 +1,4 @@
-Cladonia aspera Ahti & Kashiw. SPECIES
-=======
+# Cladonia aspera Ahti & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriogenospora aciculispora Vizioli SPECIES
-=======
+# Myriogenospora aciculispora Vizioli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea endoporphyra Vain. SPECIES
-=======
+# Lecidea endoporphyra Vain. SPECIES
 
 #### Status
 ACCEPTED

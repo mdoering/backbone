@@ -1,5 +1,4 @@
-Hydrocybe laevispora Velen. SPECIES
-=======
+# Hydrocybe laevispora Velen. SPECIES
 
 #### Status
 ACCEPTED

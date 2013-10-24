@@ -1,5 +1,4 @@
-Caloplaca dickoreana Poelt & Hinter. SPECIES
-=======
+# Caloplaca dickoreana Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

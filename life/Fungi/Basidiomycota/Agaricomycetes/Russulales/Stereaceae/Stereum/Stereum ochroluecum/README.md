@@ -1,5 +1,4 @@
-Stereum ochroluecum Fr. SPECIES
-=======
+# Stereum ochroluecum Fr. SPECIES
 
 #### Status
 ACCEPTED

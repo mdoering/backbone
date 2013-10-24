@@ -1,5 +1,4 @@
-Bulgaria arenaria (Pers.) Lév. SPECIES
-=======
+# Bulgaria arenaria (Pers.) Lév. SPECIES
 
 #### Status
 ACCEPTED

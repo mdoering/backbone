@@ -1,5 +1,4 @@
-Syncesia intercedens (Müll. Arg.) Tehler SPECIES
-=======
+# Syncesia intercedens (Müll. Arg.) Tehler SPECIES
 
 #### Status
 ACCEPTED

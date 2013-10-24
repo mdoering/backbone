@@ -1,8 +1,7 @@
-Sathrophilus antarcticus Thompson, 1972 SPECIES
-=======
+# Antameron antarcticum (Thompson, 1972) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

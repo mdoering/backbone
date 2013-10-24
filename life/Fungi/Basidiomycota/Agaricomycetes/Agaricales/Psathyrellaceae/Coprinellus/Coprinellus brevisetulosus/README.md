@@ -1,5 +1,4 @@
-Coprinellus brevisetulosus (Arnolds) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinellus brevisetulosus (Arnolds) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

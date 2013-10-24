@@ -1,5 +1,4 @@
-Trisulcosporium H.J. Huds. & B. Sutton GENUS
-=======
+# Trisulcosporium H.J. Huds. & B. Sutton GENUS
 
 #### Status
 ACCEPTED

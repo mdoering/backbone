@@ -1,5 +1,4 @@
-Acarospora cesatiana Jatta SPECIES
-=======
+# Acarospora cesatiana Jatta SPECIES
 
 #### Status
 ACCEPTED

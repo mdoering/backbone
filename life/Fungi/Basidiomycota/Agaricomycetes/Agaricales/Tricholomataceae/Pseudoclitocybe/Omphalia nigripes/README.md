@@ -1,5 +1,4 @@
-Omphalia nigripes Pat. SPECIES
-=======
+# Omphalia nigripes Pat. SPECIES
 
 #### Status
 ACCEPTED

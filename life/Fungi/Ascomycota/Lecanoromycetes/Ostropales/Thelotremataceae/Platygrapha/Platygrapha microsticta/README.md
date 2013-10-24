@@ -1,5 +1,4 @@
-Platygrapha microsticta C. Knight & Mitt. SPECIES
-=======
+# Platygrapha microsticta C. Knight & Mitt. SPECIES
 
 #### Status
 ACCEPTED

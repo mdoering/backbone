@@ -1,5 +1,4 @@
-Leucocoprinus subglobisporus Hongo SPECIES
-=======
+# Leucocoprinus subglobisporus Hongo SPECIES
 
 #### Status
 ACCEPTED

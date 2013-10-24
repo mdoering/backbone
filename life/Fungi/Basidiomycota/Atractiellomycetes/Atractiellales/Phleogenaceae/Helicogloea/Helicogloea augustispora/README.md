@@ -1,5 +1,4 @@
-Helicogloea augustispora L.S. Olive SPECIES
-=======
+# Helicogloea augustispora L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

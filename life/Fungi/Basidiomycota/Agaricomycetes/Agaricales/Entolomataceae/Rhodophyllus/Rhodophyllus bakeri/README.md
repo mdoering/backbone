@@ -1,5 +1,4 @@
-Rhodophyllus bakeri (Dennis) Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus bakeri (Dennis) Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

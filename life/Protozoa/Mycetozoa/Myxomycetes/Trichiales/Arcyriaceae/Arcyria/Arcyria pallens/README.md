@@ -1,5 +1,4 @@
-Arcyria pallens Wallr. SPECIES
-=======
+# Arcyria pallens Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdosphaera clavigera Murray & Blackman, 1898 SPECIES
-=======
+# Rhabdosphaera clavigera Murray & Blackman, 1898 SPECIES
 
 #### Status
 ACCEPTED

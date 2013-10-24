@@ -1,5 +1,4 @@
-Dorypeltarium Haeckel, 1887 GENUS
-=======
+# Dorypeltarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

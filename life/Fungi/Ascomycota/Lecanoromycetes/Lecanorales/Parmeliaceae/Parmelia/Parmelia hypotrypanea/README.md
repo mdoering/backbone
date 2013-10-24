@@ -1,5 +1,4 @@
-Parmelia hypotrypanea Nyl. SPECIES
-=======
+# Parmelia hypotrypanea Nyl. SPECIES
 
 #### Status
 ACCEPTED

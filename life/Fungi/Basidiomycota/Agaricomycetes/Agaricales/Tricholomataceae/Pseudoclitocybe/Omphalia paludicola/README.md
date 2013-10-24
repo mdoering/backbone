@@ -1,5 +1,4 @@
-Omphalia paludicola Cleland SPECIES
-=======
+# Omphalia paludicola Cleland SPECIES
 
 #### Status
 ACCEPTED

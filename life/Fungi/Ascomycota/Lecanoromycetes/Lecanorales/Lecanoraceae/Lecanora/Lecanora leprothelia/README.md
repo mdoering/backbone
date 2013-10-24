@@ -1,5 +1,4 @@
-Lecanora leprothelia Nyl. SPECIES
-=======
+# Lecanora leprothelia Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum asiaticum (Y. Otani) Raitv. SPECIES
-=======
+# Lachnum asiaticum (Y. Otani) Raitv. SPECIES
 
 #### Status
 ACCEPTED

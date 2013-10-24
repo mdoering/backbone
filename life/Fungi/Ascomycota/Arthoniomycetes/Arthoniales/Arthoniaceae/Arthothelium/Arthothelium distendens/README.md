@@ -1,5 +1,4 @@
-Arthothelium distendens (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthothelium distendens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

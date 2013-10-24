@@ -1,5 +1,4 @@
-Leptosphaeria sorbi Jacz. SPECIES
-=======
+# Leptosphaeria sorbi Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophragmiella resinae P.M. Kirk, 1981 SPECIES
-=======
+# Endophragmiella resinae P.M. Kirk, 1981 SPECIES
 
 #### Status
 ACCEPTED

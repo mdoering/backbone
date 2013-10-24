@@ -1,5 +1,4 @@
-Ophryoglena pectans SPECIES
-=======
+# Ophryoglena pectans SPECIES
 
 #### Status
 ACCEPTED

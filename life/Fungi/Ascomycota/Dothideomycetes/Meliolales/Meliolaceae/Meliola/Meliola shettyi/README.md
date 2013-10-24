@@ -1,5 +1,4 @@
-Meliola shettyi Hosag., C.M. Pillai & Raghu SPECIES
-=======
+# Meliola shettyi Hosag., C.M. Pillai & Raghu SPECIES
 
 #### Status
 ACCEPTED

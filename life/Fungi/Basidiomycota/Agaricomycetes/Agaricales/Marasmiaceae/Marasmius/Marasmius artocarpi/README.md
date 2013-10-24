@@ -1,5 +1,4 @@
-Marasmius artocarpi Corner SPECIES
-=======
+# Marasmius artocarpi Corner SPECIES
 
 #### Status
 ACCEPTED

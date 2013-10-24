@@ -1,5 +1,4 @@
-Gasparrinia gyalolechioides (Müll. Arg.) Szatala SPECIES
-=======
+# Gasparrinia gyalolechioides (Müll. Arg.) Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecaphora cerastii M. Lutz & Vánky SPECIES
-=======
+# Thecaphora cerastii M. Lutz & Vánky SPECIES
 
 #### Status
 ACCEPTED

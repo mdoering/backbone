@@ -1,5 +1,4 @@
-Hydrocybe muscosa Velen. SPECIES
-=======
+# Hydrocybe muscosa Velen. SPECIES
 
 #### Status
 ACCEPTED

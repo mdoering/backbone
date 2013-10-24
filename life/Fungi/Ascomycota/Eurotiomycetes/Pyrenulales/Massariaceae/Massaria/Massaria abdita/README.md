@@ -1,5 +1,4 @@
-Massaria abdita Kirschst. SPECIES
-=======
+# Massaria abdita Kirschst. SPECIES
 
 #### Status
 ACCEPTED

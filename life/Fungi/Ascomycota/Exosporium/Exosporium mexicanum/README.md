@@ -1,5 +1,4 @@
-Exosporium mexicanum (Ellis & Everh.) M.B. Ellis SPECIES
-=======
+# Exosporium mexicanum (Ellis & Everh.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

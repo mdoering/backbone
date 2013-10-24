@@ -1,17 +1,16 @@
-Umbilicaria torrefacta var. torrefacta VARIETY
-=======
+# Umbilicaria torrefacta (Lightf.) Schrad. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Spicil. Fl. Germ. 1: 104 (1794)
 
 #### Original name
-Umbilicaria torrefacta var. torrefacta
+Lichen torrefactus Lightf.
 
 ### Remarks
 null

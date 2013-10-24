@@ -1,5 +1,4 @@
-Asterothecium strigosum Wallr. SPECIES
-=======
+# Asterothecium strigosum Wallr. SPECIES
 
 #### Status
 ACCEPTED

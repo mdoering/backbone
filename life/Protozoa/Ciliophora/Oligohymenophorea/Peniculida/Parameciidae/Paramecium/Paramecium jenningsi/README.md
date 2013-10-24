@@ -1,5 +1,4 @@
-Paramecium jenningsi Diller & Earl, 1958 SPECIES
-=======
+# Paramecium jenningsi Diller & Earl, 1958 SPECIES
 
 #### Status
 ACCEPTED

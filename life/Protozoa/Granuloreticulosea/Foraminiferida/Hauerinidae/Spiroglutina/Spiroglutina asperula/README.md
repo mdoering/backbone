@@ -1,8 +1,7 @@
-Spiroloculina asperula Karrer, 1868 SPECIES
-=======
+# Spiroglutina asperula (Karrer, 1868) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

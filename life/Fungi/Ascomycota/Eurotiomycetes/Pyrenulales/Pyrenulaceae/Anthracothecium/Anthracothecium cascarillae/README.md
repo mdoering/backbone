@@ -1,5 +1,4 @@
-Anthracothecium cascarillae Müll. Arg. SPECIES
-=======
+# Anthracothecium cascarillae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

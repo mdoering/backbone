@@ -1,5 +1,4 @@
-Pertusaria hymenelioides J.C. David SPECIES
-=======
+# Pertusaria hymenelioides J.C. David SPECIES
 
 #### Status
 ACCEPTED

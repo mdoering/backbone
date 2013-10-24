@@ -1,5 +1,4 @@
-Torrubiella ellipsoidea Kobayasi & Shimizu SPECIES
-=======
+# Torrubiella ellipsoidea Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

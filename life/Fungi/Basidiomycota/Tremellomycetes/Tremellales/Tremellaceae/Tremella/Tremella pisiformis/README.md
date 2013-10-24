@@ -1,5 +1,4 @@
-Tremella pisiformis Scop. SPECIES
-=======
+# Tremella pisiformis Scop. SPECIES
 
 #### Status
 ACCEPTED

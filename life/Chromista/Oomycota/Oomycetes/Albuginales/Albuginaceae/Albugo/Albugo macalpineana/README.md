@@ -1,5 +1,4 @@
-Albugo macalpineana J. Walker & Priest SPECIES
-=======
+# Albugo macalpineana J. Walker & Priest SPECIES
 
 #### Status
 ACCEPTED

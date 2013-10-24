@@ -1,5 +1,4 @@
-Psathyrella praeatomata A.H. Sm. SPECIES
-=======
+# Psathyrella praeatomata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

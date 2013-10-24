@@ -1,5 +1,4 @@
-Petersonia dracophylli McKenzie, 2008 SPECIES
-=======
+# Petersonia dracophylli McKenzie, 2008 SPECIES
 
 #### Status
 ACCEPTED

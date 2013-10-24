@@ -1,5 +1,4 @@
-Lecanactis nashii Egea & Torrente SPECIES
-=======
+# Lecanactis nashii Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

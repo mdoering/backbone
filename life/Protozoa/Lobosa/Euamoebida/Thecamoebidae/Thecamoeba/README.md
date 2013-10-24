@@ -1,5 +1,4 @@
-Thecamoeba Fromentel, 1874 GENUS
-=======
+# Thecamoeba Fromentel, 1874 GENUS
 
 #### Status
 ACCEPTED

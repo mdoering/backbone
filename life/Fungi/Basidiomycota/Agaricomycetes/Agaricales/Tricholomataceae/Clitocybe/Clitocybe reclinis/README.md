@@ -1,5 +1,4 @@
-Clitocybe reclinis (Fr.) Raithelh. SPECIES
-=======
+# Clitocybe reclinis (Fr.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

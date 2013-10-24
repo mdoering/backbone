@@ -1,5 +1,4 @@
-Chrysosporium carmichaelii Oorschot, 1980 SPECIES
-=======
+# Chrysosporium carmichaelii Oorschot, 1980 SPECIES
 
 #### Status
 ACCEPTED

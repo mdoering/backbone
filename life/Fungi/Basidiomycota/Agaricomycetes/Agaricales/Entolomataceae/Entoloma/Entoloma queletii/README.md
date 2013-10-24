@@ -1,14 +1,13 @@
-Leptonia queletii Boud., 1877 SPECIES
-=======
+# Entoloma queletii (Boud.) Noordel., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Quélet, Bull. Soc. bot. Fr. 24: 307 (1877)
+Cryptog. Mycol. 4(1): 37 (1983)
 
 #### Original name
 Leptonia queletii Boud., 1877

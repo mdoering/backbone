@@ -1,5 +1,4 @@
-Atractogloea stillata Oberw. & Bandoni, 1982 SPECIES
-=======
+# Atractogloea stillata Oberw. & Bandoni, 1982 SPECIES
 
 #### Status
 ACCEPTED

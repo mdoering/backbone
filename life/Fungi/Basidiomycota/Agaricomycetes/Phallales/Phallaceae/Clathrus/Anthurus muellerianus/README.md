@@ -1,8 +1,7 @@
-Anthurus muellerianus f. aseroëformis E. Fisch., 1890 FORM
-=======
+# Anthurus muellerianus Kalchbr., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Anthurus muellerianus f. aseroëformis E. Fisch., 1890
+null
 
 ### Remarks
 null

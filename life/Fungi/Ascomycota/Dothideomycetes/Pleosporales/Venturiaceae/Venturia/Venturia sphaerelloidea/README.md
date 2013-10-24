@@ -1,5 +1,4 @@
-Venturia sphaerelloidea Höhn. SPECIES
-=======
+# Venturia sphaerelloidea Höhn. SPECIES
 
 #### Status
 ACCEPTED

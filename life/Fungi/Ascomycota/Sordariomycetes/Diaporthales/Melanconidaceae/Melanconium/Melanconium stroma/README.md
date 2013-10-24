@@ -1,5 +1,4 @@
-Melanconium stroma (Preuss) Sacc. SPECIES
-=======
+# Melanconium stroma (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

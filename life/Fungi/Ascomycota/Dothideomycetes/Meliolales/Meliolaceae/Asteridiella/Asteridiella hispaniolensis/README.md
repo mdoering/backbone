@@ -1,5 +1,4 @@
-Asteridiella hispaniolensis (Cif.) Hansf. SPECIES
-=======
+# Asteridiella hispaniolensis (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

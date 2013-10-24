@@ -1,5 +1,4 @@
-Phyllosticta astragalicola C. Massal. SPECIES
-=======
+# Phyllosticta astragalicola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

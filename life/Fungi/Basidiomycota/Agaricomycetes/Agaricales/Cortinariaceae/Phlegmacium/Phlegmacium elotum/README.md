@@ -1,5 +1,4 @@
-Phlegmacium elotum (Fr.) M.M. Moser SPECIES
-=======
+# Phlegmacium elotum (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

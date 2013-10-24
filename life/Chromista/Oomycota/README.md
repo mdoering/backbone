@@ -1,5 +1,4 @@
-Oomycota Arx PHYLUM
-=======
+# Oomycota Arx PHYLUM
 
 #### Status
 ACCEPTED

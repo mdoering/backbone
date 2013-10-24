@@ -1,5 +1,4 @@
-Cristelloporia trimitica Corner SPECIES
-=======
+# Cristelloporia trimitica Corner SPECIES
 
 #### Status
 ACCEPTED

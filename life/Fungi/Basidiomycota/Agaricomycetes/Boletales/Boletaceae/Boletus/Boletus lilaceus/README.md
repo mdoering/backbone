@@ -1,5 +1,4 @@
-Boletus lilaceus Rostk. SPECIES
-=======
+# Boletus lilaceus Rostk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Robillarda muehlenbergiae R. Sprague, 1951 SPECIES
-=======
+# Pseudorobillarda muehlenbergiae (R. Sprague) M. Morelet, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

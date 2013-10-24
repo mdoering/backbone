@@ -1,5 +1,4 @@
-Mufushanella GENUS
-=======
+# Mufushanella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lemonniera alabamensis R.C. Sinclair & Morgan-Jones SPECIES
-=======
+# Lemonniera alabamensis R.C. Sinclair & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

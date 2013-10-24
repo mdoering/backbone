@@ -1,5 +1,4 @@
-Trypethelium coccinatum Stizenb. SPECIES
-=======
+# Trypethelium coccinatum Stizenb. SPECIES
 
 #### Status
 ACCEPTED

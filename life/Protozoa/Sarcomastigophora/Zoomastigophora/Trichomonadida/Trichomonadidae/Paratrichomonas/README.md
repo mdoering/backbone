@@ -1,5 +1,4 @@
-Paratrichomonas Gabel GENUS
-=======
+# Paratrichomonas Gabel GENUS
 
 #### Status
 ACCEPTED

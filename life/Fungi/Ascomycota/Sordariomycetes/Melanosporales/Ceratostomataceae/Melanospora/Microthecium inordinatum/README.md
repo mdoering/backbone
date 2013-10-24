@@ -1,5 +1,4 @@
-Microthecium inordinatum Malloch & Cain SPECIES
-=======
+# Microthecium inordinatum Malloch & Cain SPECIES
 
 #### Status
 ACCEPTED

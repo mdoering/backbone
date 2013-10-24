@@ -1,5 +1,4 @@
-Gnomonia debaryana Auersw. SPECIES
-=======
+# Gnomonia debaryana Auersw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonopsis bangladeshica (E. Takahashi & T. Hayakawa) D. E. Wujek & P. Timpano SPECIES
-=======
+# Mallomonopsis bangladeshica (E. Takahashi & T. Hayakawa) D. E. Wujek & P. Timpano SPECIES
 
 #### Status
 ACCEPTED

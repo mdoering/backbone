@@ -1,8 +1,7 @@
-Stentor viridis Ghosh, 1921 SPECIES
-=======
+# Stentor roeselii Ehrenberg, 1835 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

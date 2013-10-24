@@ -1,5 +1,4 @@
-Atla palicei Savic & Tibell SPECIES
-=======
+# Atla palicei Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED

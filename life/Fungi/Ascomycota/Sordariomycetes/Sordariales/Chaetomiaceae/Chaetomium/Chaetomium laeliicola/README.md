@@ -1,5 +1,4 @@
-Chaetomium laeliicola Henn. SPECIES
-=======
+# Chaetomium laeliicola Henn. SPECIES
 
 #### Status
 ACCEPTED

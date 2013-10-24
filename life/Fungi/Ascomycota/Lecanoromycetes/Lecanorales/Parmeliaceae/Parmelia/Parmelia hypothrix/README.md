@@ -1,5 +1,4 @@
-Parmelia hypothrix (Nyl.) Linds. SPECIES
-=======
+# Parmelia hypothrix (Nyl.) Linds. SPECIES
 
 #### Status
 ACCEPTED

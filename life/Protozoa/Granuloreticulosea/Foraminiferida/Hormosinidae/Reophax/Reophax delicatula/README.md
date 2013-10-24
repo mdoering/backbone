@@ -1,5 +1,4 @@
-Reophax delicatula SPECIES
-=======
+# Reophax delicatula SPECIES
 
 #### Status
 ACCEPTED

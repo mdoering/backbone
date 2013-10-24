@@ -1,5 +1,4 @@
-Hymenagaricus taiwanensis Zhu L. Yang, Z.W. Ge & C.M. Chen SPECIES
-=======
+# Hymenagaricus taiwanensis Zhu L. Yang, Z.W. Ge & C.M. Chen SPECIES
 
 #### Status
 ACCEPTED

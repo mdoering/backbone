@@ -1,5 +1,4 @@
-Lecanora latibola Szatala SPECIES
-=======
+# Lecanora latibola Szatala SPECIES
 
 #### Status
 ACCEPTED

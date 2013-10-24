@@ -1,5 +1,4 @@
-Phyllodictyon intermedium (C.F. Chang & E.Z. Xia) G.T. Kraft & M.J. Wynne SPECIES
-=======
+# Phyllodictyon intermedium (C.F. Chang & E.Z. Xia) G.T. Kraft & M.J. Wynne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma sordescens Vesterh., 1989 SPECIES
-=======
+# Hebeloma sordescens Vesterh., 1989 SPECIES
 
 #### Status
 ACCEPTED

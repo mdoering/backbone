@@ -1,5 +1,4 @@
-Lenzites fockei Miq. SPECIES
-=======
+# Lenzites fockei Miq. SPECIES
 
 #### Status
 ACCEPTED

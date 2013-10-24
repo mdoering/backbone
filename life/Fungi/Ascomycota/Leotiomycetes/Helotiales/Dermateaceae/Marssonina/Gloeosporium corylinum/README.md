@@ -1,5 +1,4 @@
-Gloeosporium corylinum Rodigin SPECIES
-=======
+# Gloeosporium corylinum Rodigin SPECIES
 
 #### Status
 ACCEPTED

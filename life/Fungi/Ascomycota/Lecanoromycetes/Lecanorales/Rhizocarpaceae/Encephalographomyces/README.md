@@ -1,5 +1,4 @@
-Encephalographomyces GENUS
-=======
+# Encephalographomyces GENUS
 
 #### Status
 ACCEPTED

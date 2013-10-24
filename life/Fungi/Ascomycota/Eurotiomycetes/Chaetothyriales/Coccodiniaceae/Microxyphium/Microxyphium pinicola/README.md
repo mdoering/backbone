@@ -1,17 +1,16 @@
-Microxyphium pinicolum Bat., Nascim. & Cif. SPECIES
-=======
+# Microxyphium pinicola Bat., Nascim. & Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Batista & Ciferri, Quad. Lab. crittogam. , Pavia 31: 135 (1963)
 
 #### Original name
-Microxyphium pinicolum Bat., Nascim. & Cif.
+Microxyphium pinicola Bat., Nascim. & Cif.
 
 ### Remarks
 null

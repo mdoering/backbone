@@ -1,5 +1,4 @@
-Phillipsiella appendiculata S.K. Bose & E. Müll. SPECIES
-=======
+# Phillipsiella appendiculata S.K. Bose & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

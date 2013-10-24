@@ -1,5 +1,4 @@
-Berwaldia singularis J.I.R. Larsson SPECIES
-=======
+# Berwaldia singularis J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

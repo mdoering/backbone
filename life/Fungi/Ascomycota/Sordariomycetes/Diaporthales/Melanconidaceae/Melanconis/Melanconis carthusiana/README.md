@@ -1,5 +1,4 @@
-Melanconis carthusiana Tul. & C. Tul., 1856 SPECIES
-=======
+# Melanconis carthusiana Tul. & C. Tul., 1856 SPECIES
 
 #### Status
 ACCEPTED

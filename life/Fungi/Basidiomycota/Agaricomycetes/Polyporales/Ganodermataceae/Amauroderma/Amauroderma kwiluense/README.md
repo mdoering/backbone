@@ -1,14 +1,13 @@
-Polystictus kwiluensis Beeli, 1930 SPECIES
-=======
+# Amauroderma kwiluense (Beeli) Ryvarden, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin du Jardin Botanique de l'État, Bruxelles 8: 250 (1930)
+Bull. Jard. Bot. Nat. Belg. 44: 70 (1974)
 
 #### Original name
 Polystictus kwiluensis Beeli, 1930

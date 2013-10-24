@@ -1,5 +1,4 @@
-Chaetomium multispirale A. Carter, R.S. Khan & P.E. Powell, 1982 SPECIES
-=======
+# Chaetomium multispirale A. Carter, R.S. Khan & P.E. Powell, 1982 SPECIES
 
 #### Status
 ACCEPTED

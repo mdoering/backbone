@@ -1,5 +1,4 @@
-Brunneosphaerella protearum (Syd. & P. Syd.) Crous, 2009 SPECIES
-=======
+# Brunneosphaerella protearum (Syd. & P. Syd.) Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

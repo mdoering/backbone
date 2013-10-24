@@ -1,17 +1,16 @@
-Tomentella fusca var. fusca VARIETY
-=======
+# Tomentella sublilacina (Ellis & Holw.) Wakef., 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(2532): 419 (1888)
+Mycologia 52(6): 931 (1962)
 
 #### Original name
-Tomentella fusca var. fusca
+Zygodesmus sublilacinus Ellis & Holw., 1887
 
 ### Remarks
 null

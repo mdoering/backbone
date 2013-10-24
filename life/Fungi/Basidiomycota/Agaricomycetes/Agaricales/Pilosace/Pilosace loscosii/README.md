@@ -1,5 +1,4 @@
-Pilosace loscosii (Rabenh.) Kuntze SPECIES
-=======
+# Pilosace loscosii (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

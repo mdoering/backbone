@@ -1,5 +1,4 @@
-Phaeodimeriella cayaponiae (Garman) Seaver & Chardón SPECIES
-=======
+# Phaeodimeriella cayaponiae (Garman) Seaver & Chardón SPECIES
 
 #### Status
 ACCEPTED

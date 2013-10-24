@@ -1,17 +1,16 @@
-Helmisporium palmetto W.R. Gerard SPECIES
-=======
+# Spiropes palmetto (W.R. Gerard) M.B. Ellis, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 114: 16 (1968)
 
 #### Original name
-Helmisporium palmetto W.R. Gerard
+Helminthosporium palmetto W.R. Gerard, 1889
 
 ### Remarks
 null

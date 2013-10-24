@@ -1,5 +1,4 @@
-Glocophyllum GENUS
-=======
+# Glocophyllum GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia sclerotioides Durieu & Mont. SPECIES
-=======
+# Puccinia sclerotioides Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Frontonia elongata Burkovsky, 1970 SPECIES
-=======
+# Frontonia elongata Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

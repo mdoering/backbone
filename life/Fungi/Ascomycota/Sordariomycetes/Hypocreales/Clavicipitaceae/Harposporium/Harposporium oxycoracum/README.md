@@ -1,5 +1,4 @@
-Harposporium oxycoracum Drechsler SPECIES
-=======
+# Harposporium oxycoracum Drechsler SPECIES
 
 #### Status
 ACCEPTED

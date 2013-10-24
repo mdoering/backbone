@@ -1,5 +1,4 @@
-Geobacter pelophilus Straub & Buchholz-Cleven, 2001 SPECIES
-=======
+# Geobacter pelophilus Straub & Buchholz-Cleven, 2001 SPECIES
 
 #### Status
 ACCEPTED

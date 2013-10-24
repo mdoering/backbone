@@ -1,17 +1,16 @@
-Puccinia calimeris P. Syd. & Syd. SPECIES
-=======
+# Puccinia calimeridis P. Syd. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Uredin. (Lipsiae) 1(1): 32 (1902)
 
 #### Original name
-Puccinia calimeris P. Syd. & Syd.
+Puccinia calimeridis P. Syd. & Syd.
 
 ### Remarks
 null

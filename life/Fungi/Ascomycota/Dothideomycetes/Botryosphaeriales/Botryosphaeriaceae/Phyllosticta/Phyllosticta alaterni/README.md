@@ -1,5 +1,4 @@
-Phyllosticta alaterni Pass. SPECIES
-=======
+# Phyllosticta alaterni Pass. SPECIES
 
 #### Status
 ACCEPTED

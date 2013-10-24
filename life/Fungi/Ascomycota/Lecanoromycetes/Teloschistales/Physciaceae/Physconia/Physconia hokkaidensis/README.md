@@ -1,5 +1,4 @@
-Physconia hokkaidensis Kashiw. SPECIES
-=======
+# Physconia hokkaidensis Kashiw. SPECIES
 
 #### Status
 ACCEPTED

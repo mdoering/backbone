@@ -1,5 +1,4 @@
-Lactarius denigricans Verbeken & Karhula SPECIES
-=======
+# Lactarius denigricans Verbeken & Karhula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercoseptoria whalianensis (J.M. Yen & S.H. Sun) J.M. Yen SPECIES
-=======
+# Cercoseptoria whalianensis (J.M. Yen & S.H. Sun) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

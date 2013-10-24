@@ -1,17 +1,16 @@
-Macowanites candidus (Tul. & C. Tul.) J.M. Vidal, 2005 SPECIES
-=======
+# Sclerogaster candidus (Tul.) Zeller & C.W. Dodge, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 22: 370 (1935)
 
 #### Original name
-null
+Hydnangium candidum Tul. & C. Tul., 1843
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phacus pulcher Y.V. Roll SPECIES
-=======
+# Phacus pulcher Y.V. Roll SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claussenomyces jahnianus Kirschst., 1923 SPECIES
-=======
+# Claussenomyces jahnianus Kirschst., 1923 SPECIES
 
 #### Status
 ACCEPTED

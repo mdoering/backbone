@@ -1,5 +1,4 @@
-Collybia pseudopura Dennis SPECIES
-=======
+# Collybia pseudopura Dennis SPECIES
 
 #### Status
 ACCEPTED

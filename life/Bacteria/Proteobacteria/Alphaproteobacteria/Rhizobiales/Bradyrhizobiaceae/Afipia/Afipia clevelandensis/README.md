@@ -1,5 +1,4 @@
-Afipia clevelandensis Brenner et al., 1992 SPECIES
-=======
+# Afipia clevelandensis Brenner et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

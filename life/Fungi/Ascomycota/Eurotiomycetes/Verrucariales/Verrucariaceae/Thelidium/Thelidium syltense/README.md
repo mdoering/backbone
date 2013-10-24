@@ -1,5 +1,4 @@
-Thelidium syltense Erichsen SPECIES
-=======
+# Thelidium syltense Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina boleana Giralt & H. Mayrhofer SPECIES
-=======
+# Rinodina boleana Giralt & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

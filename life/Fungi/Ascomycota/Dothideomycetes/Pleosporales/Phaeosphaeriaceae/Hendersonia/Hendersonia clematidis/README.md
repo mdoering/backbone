@@ -1,5 +1,4 @@
-Hendersonia clematidis Hollós SPECIES
-=======
+# Hendersonia clematidis Hollós SPECIES
 
 #### Status
 ACCEPTED

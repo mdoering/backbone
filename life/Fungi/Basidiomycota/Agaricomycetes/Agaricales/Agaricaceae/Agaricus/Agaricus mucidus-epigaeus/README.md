@@ -1,5 +1,4 @@
-Agaricus mucidus-epigaeus Secr. SPECIES
-=======
+# Agaricus mucidus-epigaeus Secr. SPECIES
 
 #### Status
 ACCEPTED

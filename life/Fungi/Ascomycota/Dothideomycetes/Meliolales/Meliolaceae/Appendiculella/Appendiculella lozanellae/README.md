@@ -1,5 +1,4 @@
-Appendiculella lozanellae Rodr. Just. & M. Piepenbr. SPECIES
-=======
+# Appendiculella lozanellae Rodr. Just. & M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

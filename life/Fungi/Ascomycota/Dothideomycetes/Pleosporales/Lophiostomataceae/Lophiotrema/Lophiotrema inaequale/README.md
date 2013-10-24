@@ -1,5 +1,4 @@
-Lophiotrema inaequale Chenant. SPECIES
-=======
+# Lophiotrema inaequale Chenant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor urceolatus Dicks. SPECIES
-=======
+# Mucor urceolatus Dicks. SPECIES
 
 #### Status
 ACCEPTED

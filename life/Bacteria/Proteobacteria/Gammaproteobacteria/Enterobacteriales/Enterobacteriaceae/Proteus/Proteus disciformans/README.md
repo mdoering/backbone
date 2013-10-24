@@ -1,5 +1,4 @@
-Proteus disciformans SPECIES
-=======
+# Proteus disciformans SPECIES
 
 #### Status
 ACCEPTED

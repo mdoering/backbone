@@ -1,5 +1,4 @@
-Mycoporopsis deserticola (Fink ex J. Hedrick) Riedl SPECIES
-=======
+# Mycoporopsis deserticola (Fink ex J. Hedrick) Riedl SPECIES
 
 #### Status
 ACCEPTED

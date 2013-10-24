@@ -1,5 +1,4 @@
-Trichosphaeria subcalva Ellis & Everh. SPECIES
-=======
+# Trichosphaeria subcalva Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

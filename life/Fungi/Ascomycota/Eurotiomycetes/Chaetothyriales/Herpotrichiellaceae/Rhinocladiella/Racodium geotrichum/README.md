@@ -1,5 +1,4 @@
-Racodium geotrichum Wallr. SPECIES
-=======
+# Racodium geotrichum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corethromyces lepidus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Corethromyces lepidus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

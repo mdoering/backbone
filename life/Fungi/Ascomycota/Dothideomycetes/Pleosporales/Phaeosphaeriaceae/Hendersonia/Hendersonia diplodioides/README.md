@@ -1,5 +1,4 @@
-Hendersonia diplodioides var. diplodioides VARIETY
-=======
+# Hendersonia diplodioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 25: 510 (1898)
 
 #### Original name
-Hendersonia diplodioides var. diplodioides
+Hendersonia diplodioides Ellis & Everh.
 
 ### Remarks
 null

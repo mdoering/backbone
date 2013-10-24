@@ -1,5 +1,4 @@
-Clitocybe adustiterricola H.E. Bigelow SPECIES
-=======
+# Clitocybe adustiterricola H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

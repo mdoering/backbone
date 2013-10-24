@@ -1,5 +1,4 @@
-Placynthiopsis africana Zahlbr. SPECIES
-=======
+# Placynthiopsis africana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

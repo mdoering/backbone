@@ -1,17 +1,16 @@
-Helotium citrinum subsp. citrinum SUBSPECIES
-=======
+# Bisporella citrina (Batsch) Korf & S.E. Carp., 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 1(1): 58 (1974)
 
 #### Original name
-null
+Peziza citrina Penz. & Sacc.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Thalloidima australiense Müll. Arg. SPECIES
-=======
+# Toninia australiensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 70: 320 (1887)
+Cat. Lich. Univers. 4: 262 (1926)
 
 #### Original name
 Thalloidima australiense Müll. Arg.

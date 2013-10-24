@@ -1,5 +1,4 @@
-Lecidea melaphanoides Nyl. SPECIES
-=======
+# Lecidea melaphanoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

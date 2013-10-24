@@ -1,5 +1,4 @@
-Myxococcales ORDER
-=======
+# Myxococcales ORDER
 
 #### Status
 ACCEPTED

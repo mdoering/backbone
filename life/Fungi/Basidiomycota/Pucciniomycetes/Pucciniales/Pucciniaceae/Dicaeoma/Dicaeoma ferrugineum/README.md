@@ -1,5 +1,4 @@
-Dicaeoma ferrugineum (Lév.) Kuntze SPECIES
-=======
+# Dicaeoma ferrugineum (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ehrlichia chaffeensis Anderson et al., 1992 SPECIES
-=======
+# Ehrlichia chaffeensis Anderson et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

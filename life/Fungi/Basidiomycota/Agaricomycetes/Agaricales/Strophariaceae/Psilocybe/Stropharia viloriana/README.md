@@ -1,5 +1,4 @@
-Stropharia viloriana (Dennis) Singer SPECIES
-=======
+# Stropharia viloriana (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

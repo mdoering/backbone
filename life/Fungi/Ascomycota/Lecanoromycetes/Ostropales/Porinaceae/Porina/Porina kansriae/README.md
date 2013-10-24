@@ -1,5 +1,4 @@
-Porina kansriae P. M. McCarthy SPECIES
-=======
+# Porina kansriae P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

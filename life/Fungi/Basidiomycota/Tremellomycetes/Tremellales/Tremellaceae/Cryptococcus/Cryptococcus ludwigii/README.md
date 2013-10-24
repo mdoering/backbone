@@ -1,5 +1,4 @@
-Cryptococcus ludwigii H.W. Anderson SPECIES
-=======
+# Cryptococcus ludwigii H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

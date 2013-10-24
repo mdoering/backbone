@@ -1,5 +1,4 @@
-Corticium zurhausenii Bres. SPECIES
-=======
+# Corticium zurhausenii Bres. SPECIES
 
 #### Status
 ACCEPTED

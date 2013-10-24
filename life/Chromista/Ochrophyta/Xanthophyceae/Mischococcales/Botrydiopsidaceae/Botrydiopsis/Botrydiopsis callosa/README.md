@@ -1,5 +1,4 @@
-Botrydiopsis callosa H. Trenkwalder SPECIES
-=======
+# Botrydiopsis callosa H. Trenkwalder SPECIES
 
 #### Status
 ACCEPTED

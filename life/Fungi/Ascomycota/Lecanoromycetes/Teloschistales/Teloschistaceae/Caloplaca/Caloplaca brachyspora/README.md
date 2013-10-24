@@ -1,5 +1,4 @@
-Caloplaca brachyspora Mereschk. SPECIES
-=======
+# Caloplaca brachyspora Mereschk. SPECIES
 
 #### Status
 ACCEPTED

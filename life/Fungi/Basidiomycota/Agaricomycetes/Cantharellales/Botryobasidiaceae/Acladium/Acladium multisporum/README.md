@@ -1,5 +1,4 @@
-Acladium multisporum (Doguet) Bat. & Oliveira SPECIES
-=======
+# Acladium multisporum (Doguet) Bat. & Oliveira SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium vinugo Ballantine SPECIES
-=======
+# Gymnodinium vinugo Ballantine SPECIES
 
 #### Status
 ACCEPTED

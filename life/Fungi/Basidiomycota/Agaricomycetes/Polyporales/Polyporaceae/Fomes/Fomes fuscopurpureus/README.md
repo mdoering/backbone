@@ -1,5 +1,4 @@
-Fomes fuscopurpureus Cooke SPECIES
-=======
+# Fomes fuscopurpureus Cooke SPECIES
 
 #### Status
 ACCEPTED

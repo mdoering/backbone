@@ -1,5 +1,4 @@
-Phoma baldratii Bacc. SPECIES
-=======
+# Phoma baldratii Bacc. SPECIES
 
 #### Status
 ACCEPTED

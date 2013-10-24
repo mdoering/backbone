@@ -1,5 +1,4 @@
-Scindalma fuscopurpurea (Boud.) Kuntze SPECIES
-=======
+# Scindalma fuscopurpurea (Boud.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

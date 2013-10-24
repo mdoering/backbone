@@ -1,5 +1,4 @@
-Cylindrocephalum stellatum (Harz) Sacc. SPECIES
-=======
+# Cylindrocephalum stellatum (Harz) Sacc. SPECIES
 
 #### Status
 ACCEPTED

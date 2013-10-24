@@ -1,5 +1,4 @@
-Thysanophora verrucosa Mercado, Gené & Guarro, 1998 SPECIES
-=======
+# Thysanophora verrucosa Mercado, Gené & Guarro, 1998 SPECIES
 
 #### Status
 ACCEPTED

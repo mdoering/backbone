@@ -1,5 +1,4 @@
-Antonospora scoticae I. Fries, R.J. Paxton, J. Tengö, J.A. da Silva, S.B. Slemenda, N.J. Pieniazek SPECIES
-=======
+# Antonospora scoticae I. Fries, R.J. Paxton, J. Tengö, J.A. da Silva, S.B. Slemenda, N.J. Pieniazek SPECIES
 
 #### Status
 ACCEPTED

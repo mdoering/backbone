@@ -1,5 +1,4 @@
-Pyrenopeziza groenlandica (Rostr.) Nannf. SPECIES
-=======
+# Pyrenopeziza groenlandica (Rostr.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

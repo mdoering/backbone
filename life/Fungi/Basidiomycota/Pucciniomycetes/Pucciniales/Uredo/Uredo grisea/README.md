@@ -1,5 +1,4 @@
-Uredo grisea F. Strauss SPECIES
-=======
+# Uredo grisea F. Strauss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalloidima carbonacea Anzi SPECIES
-=======
+# Thalloidima carbonacea Anzi SPECIES
 
 #### Status
 ACCEPTED

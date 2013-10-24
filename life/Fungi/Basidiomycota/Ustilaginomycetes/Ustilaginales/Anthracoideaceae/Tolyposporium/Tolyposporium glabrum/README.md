@@ -1,5 +1,4 @@
-Tolyposporium glabrum (Clinton & Ricker) Cif. SPECIES
-=======
+# Tolyposporium glabrum (Clinton & Ricker) Cif. SPECIES
 
 #### Status
 ACCEPTED

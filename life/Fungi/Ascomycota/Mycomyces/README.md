@@ -1,5 +1,4 @@
-Mycomyces Wyss-Chod. GENUS
-=======
+# Mycomyces Wyss-Chod. GENUS
 
 #### Status
 ACCEPTED

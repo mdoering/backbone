@@ -1,5 +1,4 @@
-Hendersonia strigosi Gucevic SPECIES
-=======
+# Hendersonia strigosi Gucevic SPECIES
 
 #### Status
 ACCEPTED

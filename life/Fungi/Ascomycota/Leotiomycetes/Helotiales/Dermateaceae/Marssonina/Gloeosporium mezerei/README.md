@@ -1,5 +1,4 @@
-Gloeosporium mezerei Cooke SPECIES
-=======
+# Gloeosporium mezerei Cooke SPECIES
 
 #### Status
 ACCEPTED

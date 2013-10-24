@@ -1,5 +1,4 @@
-Metasphaeria lathonia (Sacc.) Sacc. SPECIES
-=======
+# Metasphaeria lathonia (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

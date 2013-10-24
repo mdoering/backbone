@@ -1,5 +1,4 @@
-Alectoria loxensis var. loxensis VARIETY
-=======
+# Alectoria loxensis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cornicularia loxensis Fée
+null
 
 ### Remarks
 null

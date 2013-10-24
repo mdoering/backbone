@@ -1,5 +1,4 @@
-Aspicilia parasitica B. de Lesd. SPECIES
-=======
+# Aspicilia parasitica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

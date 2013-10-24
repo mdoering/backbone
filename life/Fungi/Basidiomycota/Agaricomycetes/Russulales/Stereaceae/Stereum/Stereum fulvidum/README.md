@@ -1,5 +1,4 @@
-Stereum fulvidum G.H. Otth SPECIES
-=======
+# Stereum fulvidum G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

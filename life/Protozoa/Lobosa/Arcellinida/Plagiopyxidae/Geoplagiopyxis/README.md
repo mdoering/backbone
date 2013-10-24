@@ -1,5 +1,4 @@
-Geoplagiopyxis Chardez, 1961 GENUS
-=======
+# Geoplagiopyxis Chardez, 1961 GENUS
 
 #### Status
 ACCEPTED

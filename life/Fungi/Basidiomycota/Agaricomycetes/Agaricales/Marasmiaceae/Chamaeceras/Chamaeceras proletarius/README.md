@@ -1,5 +1,4 @@
-Chamaeceras proletarius (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras proletarius (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

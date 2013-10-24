@@ -1,5 +1,4 @@
-Dentalina granti (Plummer) SPECIES
-=======
+# Dentalina granti (Plummer) SPECIES
 
 #### Status
 ACCEPTED

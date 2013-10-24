@@ -1,5 +1,4 @@
-Graphina elongatoradians Fink SPECIES
-=======
+# Graphina elongatoradians Fink SPECIES
 
 #### Status
 ACCEPTED

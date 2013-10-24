@@ -1,5 +1,4 @@
-Ramalina petrina Bowler & Rundel SPECIES
-=======
+# Ramalina petrina Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

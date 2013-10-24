@@ -1,5 +1,4 @@
-Escovopsis J.J. Muchovej & Della Lucia GENUS
-=======
+# Escovopsis J.J. Muchovej & Della Lucia GENUS
 
 #### Status
 ACCEPTED

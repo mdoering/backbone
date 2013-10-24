@@ -1,5 +1,4 @@
-Boletus mitis Pers. SPECIES
-=======
+# Boletus mitis Pers. SPECIES
 
 #### Status
 ACCEPTED

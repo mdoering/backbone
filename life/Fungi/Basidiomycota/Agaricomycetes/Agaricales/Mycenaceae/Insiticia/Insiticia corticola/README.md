@@ -1,5 +1,4 @@
-Insiticia corticola (Fr.) Earle SPECIES
-=======
+# Insiticia corticola (Fr.) Earle SPECIES
 
 #### Status
 ACCEPTED

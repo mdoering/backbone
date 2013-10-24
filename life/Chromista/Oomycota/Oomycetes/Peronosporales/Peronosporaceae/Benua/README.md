@@ -1,5 +1,4 @@
-Benua Constant. GENUS
-=======
+# Benua Constant. GENUS
 
 #### Status
 ACCEPTED

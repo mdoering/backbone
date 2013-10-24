@@ -1,5 +1,4 @@
-Hystrichosphaeridium Deflandre GENUS
-=======
+# Hystrichosphaeridium Deflandre GENUS
 
 #### Status
 ACCEPTED

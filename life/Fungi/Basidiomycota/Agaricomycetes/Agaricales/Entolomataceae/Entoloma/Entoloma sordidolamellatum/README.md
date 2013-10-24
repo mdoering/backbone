@@ -1,5 +1,4 @@
-Entoloma sordidolamellatum Noordel. & Enderle SPECIES
-=======
+# Entoloma sordidolamellatum Noordel. & Enderle SPECIES
 
 #### Status
 ACCEPTED

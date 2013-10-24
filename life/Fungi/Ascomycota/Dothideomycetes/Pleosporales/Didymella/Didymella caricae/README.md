@@ -1,5 +1,4 @@
-Didymella caricae Tassi SPECIES
-=======
+# Didymella caricae Tassi SPECIES
 
 #### Status
 ACCEPTED

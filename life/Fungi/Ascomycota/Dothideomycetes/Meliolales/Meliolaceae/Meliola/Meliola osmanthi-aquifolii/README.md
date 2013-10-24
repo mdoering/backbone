@@ -1,5 +1,4 @@
-Meliola osmanthi-aquifolii Hara SPECIES
-=======
+# Meliola osmanthi-aquifolii Hara SPECIES
 
 #### Status
 ACCEPTED

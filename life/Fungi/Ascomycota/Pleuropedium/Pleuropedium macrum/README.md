@@ -1,5 +1,4 @@
-Pleuropedium macrum Marvanová & Bärl. SPECIES
-=======
+# Pleuropedium macrum Marvanová & Bärl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Extrawettsteinina minuta M.E. Barr, 1972 SPECIES
-=======
+# Kriegeriella minuta (M.E. Barr) Arx & E. Müll., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Univ. Mich. Herb. 9(8): 538 (1972)
+Stud. Mycol. 9: 88 (1975)
 
 #### Original name
 Extrawettsteinina minuta M.E. Barr, 1972

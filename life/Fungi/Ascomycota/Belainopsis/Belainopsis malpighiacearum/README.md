@@ -1,5 +1,4 @@
-Belainopsis malpighiacearum Bat. & H. Maia SPECIES
-=======
+# Belainopsis malpighiacearum Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

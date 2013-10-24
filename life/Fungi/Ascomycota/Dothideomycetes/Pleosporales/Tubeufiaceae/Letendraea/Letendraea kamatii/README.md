@@ -1,5 +1,4 @@
-Letendraea kamatii A. Pande SPECIES
-=======
+# Letendraea kamatii A. Pande SPECIES
 
 #### Status
 ACCEPTED

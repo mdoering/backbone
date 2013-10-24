@@ -1,5 +1,4 @@
-Cyclocybe pragensis Velen. SPECIES
-=======
+# Cyclocybe pragensis Velen. SPECIES
 
 #### Status
 ACCEPTED

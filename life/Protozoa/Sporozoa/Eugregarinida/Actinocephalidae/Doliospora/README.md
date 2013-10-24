@@ -1,5 +1,4 @@
-Doliospora Ormières & Baudoin, 1969 GENUS
-=======
+# Doliospora Ormières & Baudoin, 1969 GENUS
 
 #### Status
 ACCEPTED

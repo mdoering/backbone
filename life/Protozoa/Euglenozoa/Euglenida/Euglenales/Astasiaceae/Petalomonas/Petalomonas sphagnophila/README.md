@@ -1,5 +1,4 @@
-Petalomonas sphagnophila Christen SPECIES
-=======
+# Petalomonas sphagnophila Christen SPECIES
 
 #### Status
 ACCEPTED

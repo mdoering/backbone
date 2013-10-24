@@ -1,5 +1,4 @@
-Xerocomus lenticolor E.A. Dick & Snell SPECIES
-=======
+# Xerocomus lenticolor E.A. Dick & Snell SPECIES
 
 #### Status
 ACCEPTED

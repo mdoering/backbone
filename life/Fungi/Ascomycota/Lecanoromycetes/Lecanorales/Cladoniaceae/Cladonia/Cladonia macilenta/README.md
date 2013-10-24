@@ -1,5 +1,4 @@
-Cladonia macilenta subsp. macilenta SUBSPECIES
-=======
+# Cladonia macilenta Hoffm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Deutschl. Fl. (Erlangen), Zweiter Theil 126 (1796)
 
 #### Original name
-null
+Cladonia macilenta Hoffm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Merulius rabidus (Berk. & Broome) Kuntze SPECIES
-=======
+# Merulius rabidus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

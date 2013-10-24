@@ -1,5 +1,4 @@
-Aecidium hypoëstis-triflorae Gjaerum SPECIES
-=======
+# Aecidium hypoëstis-triflorae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

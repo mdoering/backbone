@@ -1,5 +1,4 @@
-Septoria asclepiadea Sacc. SPECIES
-=======
+# Septoria asclepiadea Sacc. SPECIES
 
 #### Status
 ACCEPTED

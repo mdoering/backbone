@@ -1,5 +1,4 @@
-Blitridium cucurbitaria (Cooke) Sacc. SPECIES
-=======
+# Blitridium cucurbitaria (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

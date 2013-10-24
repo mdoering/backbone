@@ -1,17 +1,16 @@
-Cienkowskia Weldon & Hickson in Lankester, 1909 GENUS
-=======
+# Cienkowskya Schaudinn, 1896 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-in Lankester, Treat. Zool. , 1 (1), 34.
+Tierreich-probe-Lief. ), 19 & note.
 
 #### Original name
-null
+Wagneria Cienkowski, 1882
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pareodinia wigginsii M. Smelror SPECIES
-=======
+# Pareodinia wigginsii M. Smelror SPECIES
 
 #### Status
 ACCEPTED

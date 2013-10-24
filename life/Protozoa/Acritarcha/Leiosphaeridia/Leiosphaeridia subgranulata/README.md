@@ -1,5 +1,4 @@
-Leiosphaeridia subgranulata Kiryanov, 1974 SPECIES
-=======
+# Leiosphaeridia subgranulata Kiryanov, 1974 SPECIES
 
 #### Status
 ACCEPTED

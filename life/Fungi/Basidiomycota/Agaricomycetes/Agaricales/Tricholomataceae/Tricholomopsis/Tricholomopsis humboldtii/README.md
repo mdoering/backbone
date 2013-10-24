@@ -1,5 +1,4 @@
-Tricholomopsis humboldtii Singer, Ovrebo & Halling SPECIES
-=======
+# Tricholomopsis humboldtii Singer, Ovrebo & Halling SPECIES
 
 #### Status
 ACCEPTED

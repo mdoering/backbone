@@ -1,5 +1,4 @@
-Archeplax dispar Locq. SPECIES
-=======
+# Archeplax dispar Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphidinium extensum Wulff, 1916 SPECIES
-=======
+# Amphidinium extensum Wulff, 1916 SPECIES
 
 #### Status
 ACCEPTED

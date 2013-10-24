@@ -1,5 +1,4 @@
-Parmelia araucariarum Zahlbr. SPECIES
-=======
+# Parmelia araucariarum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

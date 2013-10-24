@@ -1,5 +1,4 @@
-Psilocybe atlantis Guzmán, Hanlin & C. White SPECIES
-=======
+# Psilocybe atlantis Guzmán, Hanlin & C. White SPECIES
 
 #### Status
 ACCEPTED

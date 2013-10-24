@@ -1,17 +1,16 @@
-Pyroctonum Prunet GENUS
-=======
+# Cladochytrium Nowak. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 7(no. 75): 92 (1897)
+Beitr. Biol. Pfl. 2: 92 (1877)
 
 #### Original name
-Pyroctonum Prunet
+Cladochytrium Nowak.
 
 ### Remarks
 null

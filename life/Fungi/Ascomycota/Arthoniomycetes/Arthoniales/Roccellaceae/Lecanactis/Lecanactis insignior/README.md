@@ -1,5 +1,4 @@
-Lecanactis insignior var. fusca (Müll. Arg.) Zahlbr. VARIETY
-=======
+# Lecanactis insignior (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Lecidea insignior Nyl.
 
 ### Remarks
 null

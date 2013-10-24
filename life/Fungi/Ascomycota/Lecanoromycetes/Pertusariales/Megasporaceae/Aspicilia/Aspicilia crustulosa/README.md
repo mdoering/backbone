@@ -1,5 +1,4 @@
-Aspicilia crustulosa Motyka SPECIES
-=======
+# Aspicilia crustulosa Motyka SPECIES
 
 #### Status
 ACCEPTED

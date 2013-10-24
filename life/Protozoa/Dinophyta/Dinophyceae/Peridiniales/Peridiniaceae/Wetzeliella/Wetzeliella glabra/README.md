@@ -1,5 +1,4 @@
-Wetzeliella glabra Cookson SPECIES
-=======
+# Wetzeliella glabra Cookson SPECIES
 
 #### Status
 ACCEPTED

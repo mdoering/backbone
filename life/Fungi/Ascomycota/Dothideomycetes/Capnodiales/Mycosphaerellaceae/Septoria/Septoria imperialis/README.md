@@ -1,5 +1,4 @@
-Septoria imperialis Sacc. SPECIES
-=======
+# Septoria imperialis Sacc. SPECIES
 
 #### Status
 ACCEPTED

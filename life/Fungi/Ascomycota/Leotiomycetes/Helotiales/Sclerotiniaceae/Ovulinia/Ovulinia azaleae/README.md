@@ -1,14 +1,13 @@
-Sclerotinia azaleae (F.A. Weiss) Dennis, 1956 SPECIES
-=======
+# Ovulinia azaleae F.A. Weiss, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 62: 159 (1956)
+Phytopathology 30: 243 (1940)
 
 #### Original name
 Ovulinia azaleae F.A. Weiss, 1940

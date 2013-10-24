@@ -1,5 +1,4 @@
-Sarcanthia Raf. GENUS
-=======
+# Sarcanthia Raf. GENUS
 
 #### Status
 ACCEPTED

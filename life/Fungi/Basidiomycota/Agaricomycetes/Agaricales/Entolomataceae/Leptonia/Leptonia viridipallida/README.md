@@ -1,5 +1,4 @@
-Leptonia viridipallida (Hesler) Largent SPECIES
-=======
+# Leptonia viridipallida (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

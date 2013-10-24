@@ -1,5 +1,4 @@
-Pleurochrysis elongata (Droop) Jordan et al. SPECIES
-=======
+# Pleurochrysis elongata (Droop) Jordan et al. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelaria racemosa Greville SPECIES
-=======
+# Sphacelaria racemosa Greville SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis cycadis (Allesch.) Rib. Souza SPECIES
-=======
+# Pestalotiopsis cycadis (Allesch.) Rib. Souza SPECIES
 
 #### Status
 ACCEPTED

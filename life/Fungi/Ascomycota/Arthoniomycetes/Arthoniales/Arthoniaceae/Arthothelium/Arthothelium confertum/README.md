@@ -1,5 +1,4 @@
-Arthothelium confertum (A.L. Sm.) Makhija & Patw. SPECIES
-=======
+# Arthothelium confertum (A.L. Sm.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

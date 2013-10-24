@@ -1,5 +1,4 @@
-Pleomeris glumarum (J.C. Schmidt) Syd. SPECIES
-=======
+# Pleomeris glumarum (J.C. Schmidt) Syd. SPECIES
 
 #### Status
 ACCEPTED

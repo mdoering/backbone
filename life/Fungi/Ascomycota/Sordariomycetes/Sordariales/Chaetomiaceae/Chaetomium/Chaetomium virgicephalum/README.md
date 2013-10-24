@@ -1,17 +1,16 @@
-Chaetomium virgecephalum L.M. Ames SPECIES
-=======
+# Chaetomium virgicephalum L.M. Ames SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph of the Chaetomiaceae (U. S. Army Research and Development Service) 42 (1963)
 
 #### Original name
-Chaetomium virgecephalum L.M. Ames
+Chaetomium virgicephalum L.M. Ames
 
 ### Remarks
 null

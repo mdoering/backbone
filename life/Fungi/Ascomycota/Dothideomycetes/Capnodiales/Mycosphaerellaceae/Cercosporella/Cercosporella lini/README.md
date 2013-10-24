@@ -1,5 +1,4 @@
-Cercosporella lini Woron. SPECIES
-=======
+# Cercosporella lini Woron. SPECIES
 
 #### Status
 ACCEPTED

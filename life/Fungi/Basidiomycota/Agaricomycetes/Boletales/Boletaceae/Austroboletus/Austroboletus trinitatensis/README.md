@@ -1,5 +1,4 @@
-Austroboletus trinitatensis Wolfe SPECIES
-=======
+# Austroboletus trinitatensis Wolfe SPECIES
 
 #### Status
 ACCEPTED

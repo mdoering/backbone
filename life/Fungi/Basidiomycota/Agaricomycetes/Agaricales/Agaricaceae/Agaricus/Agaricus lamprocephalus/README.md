@@ -1,5 +1,4 @@
-Agaricus lamprocephalus Bull. SPECIES
-=======
+# Agaricus lamprocephalus Bull. SPECIES
 
 #### Status
 ACCEPTED

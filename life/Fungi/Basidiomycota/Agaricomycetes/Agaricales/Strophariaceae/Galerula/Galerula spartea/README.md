@@ -1,5 +1,4 @@
-Galerula spartea (Fr.) G.F. Atk. SPECIES
-=======
+# Galerula spartea (Fr.) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

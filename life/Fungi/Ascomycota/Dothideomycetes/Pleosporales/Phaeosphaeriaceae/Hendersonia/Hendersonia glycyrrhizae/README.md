@@ -1,5 +1,4 @@
-Hendersonia glycyrrhizae Nasyrov SPECIES
-=======
+# Hendersonia glycyrrhizae Nasyrov SPECIES
 
 #### Status
 ACCEPTED

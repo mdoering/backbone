@@ -1,5 +1,4 @@
-Calopadia schaeferi Vezda SPECIES
-=======
+# Calopadia schaeferi Vezda SPECIES
 
 #### Status
 ACCEPTED

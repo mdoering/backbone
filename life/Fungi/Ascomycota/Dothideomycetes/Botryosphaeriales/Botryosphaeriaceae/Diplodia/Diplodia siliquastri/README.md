@@ -1,5 +1,4 @@
-Diplodia siliquastri var. siliquastri VARIETY
-=======
+# Diplodia siliquastri Westend. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 2: 244 (1864)
 
 #### Original name
-Diplodia siliquastri var. siliquastri
+Diplodia siliquastri Westend.
 
 ### Remarks
 null

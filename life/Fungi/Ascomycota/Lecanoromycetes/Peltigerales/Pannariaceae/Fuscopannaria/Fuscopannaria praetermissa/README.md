@@ -1,14 +1,13 @@
-Trachyderma praetermissum (Nyl.) Trevis. SPECIES
-=======
+# Fuscopannaria praetermissa (Nyl.) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Hattori bot. Lab. 76: 205 (1994)
 
 #### Original name
 Pannaria praetermissa Nyl.

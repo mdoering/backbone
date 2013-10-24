@@ -1,5 +1,4 @@
-Exochosphaeridium R.J.Davey, 1966 GENUS
-=======
+# Exochosphaeridium R.J.Davey, 1966 GENUS
 
 #### Status
 ACCEPTED

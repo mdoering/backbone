@@ -1,5 +1,4 @@
-Inocybe inconcinna P. Karst. SPECIES
-=======
+# Inocybe inconcinna P. Karst. SPECIES
 
 #### Status
 ACCEPTED

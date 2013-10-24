@@ -1,5 +1,4 @@
-Hymenoscyphus subgranulosus (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus subgranulosus (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

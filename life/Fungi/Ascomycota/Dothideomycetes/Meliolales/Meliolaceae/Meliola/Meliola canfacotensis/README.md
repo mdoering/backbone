@@ -1,5 +1,4 @@
-Meliola canfacotensis Hansf. SPECIES
-=======
+# Meliola canfacotensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

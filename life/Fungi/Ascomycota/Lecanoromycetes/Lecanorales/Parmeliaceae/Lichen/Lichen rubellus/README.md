@@ -1,5 +1,4 @@
-Lichen rubellus (Pers.) Ach. SPECIES
-=======
+# Lichen rubellus (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

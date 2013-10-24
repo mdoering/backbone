@@ -1,5 +1,4 @@
-Rhizaspis granulata Skuja SPECIES
-=======
+# Rhizaspis granulata Skuja SPECIES
 
 #### Status
 ACCEPTED

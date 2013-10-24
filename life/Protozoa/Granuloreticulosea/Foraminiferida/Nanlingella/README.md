@@ -1,5 +1,4 @@
-Nanlingella Rui & Sheng, 1981 GENUS
-=======
+# Nanlingella Rui & Sheng, 1981 GENUS
 
 #### Status
 ACCEPTED

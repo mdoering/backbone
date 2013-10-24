@@ -1,5 +1,4 @@
-Arcella hemisphaerica Perty SPECIES
-=======
+# Arcella hemisphaerica Perty SPECIES
 
 #### Status
 ACCEPTED

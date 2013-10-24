@@ -1,5 +1,4 @@
-Stereocaulon exile Asahina SPECIES
-=======
+# Stereocaulon exile Asahina SPECIES
 
 #### Status
 ACCEPTED

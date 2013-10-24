@@ -1,5 +1,4 @@
-Imbatodinium micropodum (Eisenack & Cookson, 1960) Dörhöfer & Davies, 1980 SPECIES
-=======
+# Imbatodinium micropodum (Eisenack & Cookson, 1960) Dörhöfer & Davies, 1980 SPECIES
 
 #### Status
 ACCEPTED

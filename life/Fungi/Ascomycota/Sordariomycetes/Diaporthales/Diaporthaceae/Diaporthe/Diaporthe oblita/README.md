@@ -1,5 +1,4 @@
-Diaporthe oblita Sacc. & Speg. SPECIES
-=======
+# Diaporthe oblita Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

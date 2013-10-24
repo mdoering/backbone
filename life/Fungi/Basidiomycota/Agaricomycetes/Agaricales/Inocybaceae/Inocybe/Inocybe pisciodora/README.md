@@ -1,5 +1,4 @@
-Inocybe pisciodora Donadini & Riousset SPECIES
-=======
+# Inocybe pisciodora Donadini & Riousset SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiofusa fusiformis Eisenack, 1934 ex Eisenack, 1938 SPECIES
-=======
+# Leiofusa fusiformis Eisenack, 1934 ex Eisenack, 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia rubicunda (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Orbilia rubicunda (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

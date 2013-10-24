@@ -1,5 +1,4 @@
-Astasia cylindrica E. G. Pringsheim SPECIES
-=======
+# Astasia cylindrica E. G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

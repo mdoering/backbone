@@ -1,5 +1,4 @@
-Glandulina echinata Millett SPECIES
-=======
+# Glandulina echinata Millett SPECIES
 
 #### Status
 ACCEPTED

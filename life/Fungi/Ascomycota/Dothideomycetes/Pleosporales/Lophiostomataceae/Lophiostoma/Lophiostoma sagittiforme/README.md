@@ -1,5 +1,4 @@
-Lophiostoma sagittiforme Kaz. Tanaka & Hosoya, 2008 SPECIES
-=======
+# Lophiostoma sagittiforme Kaz. Tanaka & Hosoya, 2008 SPECIES
 
 #### Status
 ACCEPTED

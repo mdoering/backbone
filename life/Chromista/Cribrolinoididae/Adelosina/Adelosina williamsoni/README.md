@@ -1,5 +1,4 @@
-Adelosina williamsoni Wiesner, 1923 SPECIES
-=======
+# Adelosina williamsoni Wiesner, 1923 SPECIES
 
 #### Status
 ACCEPTED

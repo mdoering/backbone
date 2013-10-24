@@ -1,5 +1,4 @@
-Pestalotia smilacis (Schwein.) S. Hughes SPECIES
-=======
+# Pestalotia smilacis (Schwein.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

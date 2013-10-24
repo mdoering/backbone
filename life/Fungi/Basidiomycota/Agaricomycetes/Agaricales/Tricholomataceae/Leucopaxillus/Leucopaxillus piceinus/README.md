@@ -1,5 +1,4 @@
-Leucopaxillus piceinus (Peck) Pomerl. SPECIES
-=======
+# Leucopaxillus piceinus (Peck) Pomerl. SPECIES
 
 #### Status
 ACCEPTED

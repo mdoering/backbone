@@ -1,5 +1,4 @@
-Amphoridium veronense (A. Massal.) A. Massal. SPECIES
-=======
+# Amphoridium veronense (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

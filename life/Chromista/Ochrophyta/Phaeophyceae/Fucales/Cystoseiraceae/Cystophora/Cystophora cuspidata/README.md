@@ -1,5 +1,4 @@
-Cystophora cuspidata J. Agardh SPECIES
-=======
+# Cystophora cuspidata J. Agardh SPECIES
 
 #### Status
 ACCEPTED

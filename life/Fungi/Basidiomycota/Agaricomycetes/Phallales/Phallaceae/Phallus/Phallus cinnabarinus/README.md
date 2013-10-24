@@ -1,5 +1,4 @@
-Phallus cinnabarinus (W.S. Lee) Kreisel SPECIES
-=======
+# Phallus cinnabarinus (W.S. Lee) Kreisel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella tenera Peck SPECIES
-=======
+# Psathyrella tenera Peck SPECIES
 
 #### Status
 ACCEPTED

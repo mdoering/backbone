@@ -1,5 +1,4 @@
-Peziza danielii Jamoni SPECIES
-=======
+# Peziza danielii Jamoni SPECIES
 
 #### Status
 ACCEPTED

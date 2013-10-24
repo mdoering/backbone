@@ -1,5 +1,4 @@
-Ceratiomyxales G.W. Martin ex M.L. Farr & Alexop. ORDER
-=======
+# Ceratiomyxales G.W. Martin ex M.L. Farr & Alexop. ORDER
 
 #### Status
 ACCEPTED

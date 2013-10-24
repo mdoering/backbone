@@ -1,14 +1,13 @@
-Peziza peltigerae Fuckel SPECIES
-=======
+# Corticifraga peltigerae (Fuckel) D. Hawksw. & R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 38: 129 (1990)
 
 #### Original name
 Peziza peltigerae Fuckel

@@ -1,5 +1,4 @@
-Bacidia spodolaeina C. Knight SPECIES
-=======
+# Bacidia spodolaeina C. Knight SPECIES
 
 #### Status
 ACCEPTED

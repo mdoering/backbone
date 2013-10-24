@@ -1,5 +1,4 @@
-Amyloathelia aspera Hjortstam & Ryvarden, 1993 SPECIES
-=======
+# Amyloathelia aspera Hjortstam & Ryvarden, 1993 SPECIES
 
 #### Status
 ACCEPTED

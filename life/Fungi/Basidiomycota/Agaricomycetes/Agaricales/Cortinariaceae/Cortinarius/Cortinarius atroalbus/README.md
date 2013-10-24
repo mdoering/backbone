@@ -1,5 +1,4 @@
-Cortinarius atroalbus M.M. Moser SPECIES
-=======
+# Cortinarius atroalbus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

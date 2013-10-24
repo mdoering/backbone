@@ -1,14 +1,13 @@
-Calloria cornea (Berk. & Broome) W. Phillips, 1887 SPECIES
-=======
+# Micropeziza cornea (Berk. & Broome) Nannf., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 332 (1887)
+Bot. Notiser 129(3): 335 (1976)
 
 #### Original name
 Peziza cornea Berk. & Broome

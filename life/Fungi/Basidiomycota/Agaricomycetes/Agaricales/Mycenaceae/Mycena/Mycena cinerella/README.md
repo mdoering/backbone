@@ -1,17 +1,16 @@
-Omphalia grisea var. grisea VARIETY
-=======
+# Mycena cinerella (P. Karst.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 66 (1872)
+Bidr. Känn. Finl. Nat. Folk 32: 113 (1879)
 
 #### Original name
-Omphalia grisea var. grisea
+Agaricus cinerellus P. Karst., 1879
 
 ### Remarks
 null

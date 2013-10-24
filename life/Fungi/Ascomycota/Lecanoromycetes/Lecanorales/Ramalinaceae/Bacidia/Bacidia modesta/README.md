@@ -1,5 +1,4 @@
-Bacidia modesta Groenh. SPECIES
-=======
+# Bacidia modesta Groenh. SPECIES
 
 #### Status
 ACCEPTED

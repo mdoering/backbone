@@ -1,5 +1,4 @@
-Allantospora violacea Ambros. SPECIES
-=======
+# Allantospora violacea Ambros. SPECIES
 
 #### Status
 ACCEPTED

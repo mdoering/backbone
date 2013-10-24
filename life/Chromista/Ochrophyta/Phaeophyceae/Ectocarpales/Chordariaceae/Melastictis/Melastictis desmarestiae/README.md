@@ -1,5 +1,4 @@
-Melastictis desmarestiae Reinsch SPECIES
-=======
+# Melastictis desmarestiae Reinsch SPECIES
 
 #### Status
 ACCEPTED

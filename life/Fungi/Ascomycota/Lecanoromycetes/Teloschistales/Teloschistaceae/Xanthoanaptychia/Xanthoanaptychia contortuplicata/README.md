@@ -1,5 +1,4 @@
-Xanthoanaptychia contortuplicata (Ach.) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoanaptychia contortuplicata (Ach.) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

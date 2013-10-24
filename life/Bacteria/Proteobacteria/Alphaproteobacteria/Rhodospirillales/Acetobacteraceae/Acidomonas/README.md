@@ -1,5 +1,4 @@
-Acidomonas Urakami, Tamaoka, Suzuki & Komagata, 1989 GENUS
-=======
+# Acidomonas Urakami, Tamaoka, Suzuki & Komagata, 1989 GENUS
 
 #### Status
 ACCEPTED

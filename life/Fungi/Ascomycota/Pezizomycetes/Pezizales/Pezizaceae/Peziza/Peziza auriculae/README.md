@@ -1,5 +1,4 @@
-Peziza auriculae Garov. SPECIES
-=======
+# Peziza auriculae Garov. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon ellipticum Cooke & Massee SPECIES
-=======
+# Hypoxylon ellipticum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

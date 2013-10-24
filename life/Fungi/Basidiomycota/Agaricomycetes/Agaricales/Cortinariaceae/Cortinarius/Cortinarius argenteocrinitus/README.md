@@ -1,5 +1,4 @@
-Cortinarius argenteocrinitus Rob. Henry SPECIES
-=======
+# Cortinarius argenteocrinitus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

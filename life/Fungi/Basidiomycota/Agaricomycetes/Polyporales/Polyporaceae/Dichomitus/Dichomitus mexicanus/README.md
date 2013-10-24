@@ -1,14 +1,13 @@
-Megasporoporia mexicana Ryvarden, 1982 SPECIES
-=======
+# Dichomitus mexicanus (Ryvarden) Ryvarden, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Ryvarden, Wright & Rajchenberg, Mycotaxon 16(1): 178 (1982)
+Syn. Fung. (Oslo) 23: 42 (2007)
 
 #### Original name
 Megasporoporia mexicana Ryvarden, 1982

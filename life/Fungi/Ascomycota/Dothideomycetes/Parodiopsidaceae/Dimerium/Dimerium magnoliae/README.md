@@ -1,5 +1,4 @@
-Dimerium magnoliae (Tracy & Earle) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium magnoliae (Tracy & Earle) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

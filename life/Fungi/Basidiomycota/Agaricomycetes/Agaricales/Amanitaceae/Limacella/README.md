@@ -1,17 +1,16 @@
-Myxoderma Fayod ex Kühner, 1926 GENUS
-=======
+# Limacella Earle, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botaniste 17: 145 (1926)
+Bulletin of the New York Botanical Garden 5: 447 (1909)
 
 #### Original name
-Myxoderma Fayod ex Kühner, 1926
+Limacella Earle, 1909
 
 ### Remarks
 null

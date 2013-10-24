@@ -1,5 +1,4 @@
-Rhizomucor pakistanicus M. Qureshi & J.H. Mirza, 1979 SPECIES
-=======
+# Rhizomucor pakistanicus M. Qureshi & J.H. Mirza, 1979 SPECIES
 
 #### Status
 ACCEPTED

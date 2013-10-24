@@ -1,17 +1,16 @@
-Gyrophila sulphurea var. inamoena (Fr.) Quél., 1886 VARIETY
-=======
+# Tricholoma inamoenum (Fr.) Gillet, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomycètes (Alençon) 112 (1874)
 
 #### Original name
-null
+Agaricus inamoenus Fr., 1815
 
 ### Remarks
 null

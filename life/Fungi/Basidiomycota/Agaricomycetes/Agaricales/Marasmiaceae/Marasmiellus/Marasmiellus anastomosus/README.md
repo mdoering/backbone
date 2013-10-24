@@ -1,5 +1,4 @@
-Marasmiellus anastomosus (Lloyd) Redhead & Nagas. SPECIES
-=======
+# Marasmiellus anastomosus (Lloyd) Redhead & Nagas. SPECIES
 
 #### Status
 ACCEPTED

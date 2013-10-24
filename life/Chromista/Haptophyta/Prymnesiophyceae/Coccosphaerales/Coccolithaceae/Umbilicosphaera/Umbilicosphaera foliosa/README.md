@@ -1,5 +1,4 @@
-Umbilicosphaera foliosa (Kamptner ex Kleijne) Geisen, 2003 SPECIES
-=======
+# Umbilicosphaera foliosa (Kamptner ex Kleijne) Geisen, 2003 SPECIES
 
 #### Status
 ACCEPTED

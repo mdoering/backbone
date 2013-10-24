@@ -1,5 +1,4 @@
-Ascochyta buniadis Syd. SPECIES
-=======
+# Ascochyta buniadis Syd. SPECIES
 
 #### Status
 ACCEPTED

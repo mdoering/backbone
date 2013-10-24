@@ -1,5 +1,4 @@
-Discosia blumencronii Bubák SPECIES
-=======
+# Discosia blumencronii Bubák SPECIES
 
 #### Status
 ACCEPTED

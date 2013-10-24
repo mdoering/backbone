@@ -1,5 +1,4 @@
-Bifidobacteriales ORDER
-=======
+# Bifidobacteriales ORDER
 
 #### Status
 ACCEPTED

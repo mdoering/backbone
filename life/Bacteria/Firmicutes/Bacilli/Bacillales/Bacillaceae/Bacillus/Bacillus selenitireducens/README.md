@@ -1,5 +1,4 @@
-Bacillus selenitireducens Switzer Blum et al., 2001 SPECIES
-=======
+# Bacillus selenitireducens Switzer Blum et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

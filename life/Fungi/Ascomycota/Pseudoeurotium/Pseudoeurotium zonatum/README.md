@@ -1,5 +1,4 @@
-Pseudoeurotium zonatum Van Beyma, 1937 SPECIES
-=======
+# Pseudoeurotium zonatum Van Beyma, 1937 SPECIES
 
 #### Status
 ACCEPTED

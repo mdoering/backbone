@@ -1,5 +1,4 @@
-Capnodium australe Mont., 1849 SPECIES
-=======
+# Capnodium australe Mont., 1849 SPECIES
 
 #### Status
 ACCEPTED

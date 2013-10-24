@@ -1,8 +1,7 @@
-Uredo zizyphi-vulgaris Henn. SPECIES
-=======
+# Uredo ziziphi-vulgaris Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo zizyphi-vulgaris Henn.
+Uredo ziziphi-vulgaris Henn.
 
 ### Remarks
 null

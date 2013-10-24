@@ -1,5 +1,4 @@
-Thoracosphaera strobila Keupp, 1979 SPECIES
-=======
+# Thoracosphaera strobila Keupp, 1979 SPECIES
 
 #### Status
 ACCEPTED

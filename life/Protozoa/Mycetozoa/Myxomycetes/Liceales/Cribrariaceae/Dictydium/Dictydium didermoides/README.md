@@ -1,5 +1,4 @@
-Dictydium didermoides Fr. SPECIES
-=======
+# Dictydium didermoides Fr. SPECIES
 
 #### Status
 ACCEPTED

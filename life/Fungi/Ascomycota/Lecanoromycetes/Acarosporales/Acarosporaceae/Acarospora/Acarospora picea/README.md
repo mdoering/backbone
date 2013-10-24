@@ -1,5 +1,4 @@
-Acarospora picea H. Magn. SPECIES
-=======
+# Acarospora picea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena culmigena Maas Geest. SPECIES
-=======
+# Mycena culmigena Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

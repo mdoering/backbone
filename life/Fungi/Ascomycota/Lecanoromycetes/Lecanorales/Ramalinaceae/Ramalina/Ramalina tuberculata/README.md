@@ -1,5 +1,4 @@
-Ramalina tuberculata Taylor SPECIES
-=======
+# Ramalina tuberculata Taylor SPECIES
 
 #### Status
 ACCEPTED

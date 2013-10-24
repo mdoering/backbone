@@ -1,5 +1,4 @@
-Helicobacter hepaticus Fox et al., 1994 SPECIES
-=======
+# Helicobacter hepaticus Fox et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

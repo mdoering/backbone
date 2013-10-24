@@ -1,14 +1,13 @@
-Dehornia Porchet-Henneré, 1972 GENUS
-=======
+# Rhytidocystis Henneguy, 1907 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-Protistologica 8: 245.
+C. R. Ass. Franç. , 36 (1), 1907, 247.
 
 #### Original name
 null

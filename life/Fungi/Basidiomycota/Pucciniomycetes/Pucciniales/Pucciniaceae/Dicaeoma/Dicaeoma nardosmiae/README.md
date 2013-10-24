@@ -1,5 +1,4 @@
-Dicaeoma nardosmiae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma nardosmiae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

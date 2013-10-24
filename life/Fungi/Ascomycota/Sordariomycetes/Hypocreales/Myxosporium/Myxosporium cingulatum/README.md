@@ -1,5 +1,4 @@
-Myxosporium cingulatum Beck SPECIES
-=======
+# Myxosporium cingulatum Beck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe squamosodisca Peck SPECIES
-=======
+# Inocybe squamosodisca Peck SPECIES
 
 #### Status
 ACCEPTED

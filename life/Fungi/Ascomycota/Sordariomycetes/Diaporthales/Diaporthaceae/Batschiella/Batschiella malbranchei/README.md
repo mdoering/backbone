@@ -1,5 +1,4 @@
-Batschiella malbranchei f. malbranchei FORM
-=======
+# Batschiella malbranchei (P. Karst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Batschiella malbranchei f. malbranchei
+Physalospora malbranchei P. Karst.
 
 ### Remarks
 null

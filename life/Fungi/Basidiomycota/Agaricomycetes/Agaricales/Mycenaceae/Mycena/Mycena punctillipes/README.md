@@ -1,5 +1,4 @@
-Mycena punctillipes Maas Geest. & E. Horak SPECIES
-=======
+# Mycena punctillipes Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

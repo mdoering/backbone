@@ -1,5 +1,4 @@
-Peterozyma toletana (Socias, C. Ramírez & Peláez) Kurtzman & Robnett, 2010 SPECIES
-=======
+# Peterozyma toletana (Socias, C. Ramírez & Peláez) Kurtzman & Robnett, 2010 SPECIES
 
 #### Status
 ACCEPTED

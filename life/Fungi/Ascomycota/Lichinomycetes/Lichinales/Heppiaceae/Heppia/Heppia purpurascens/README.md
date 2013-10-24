@@ -1,5 +1,4 @@
-Heppia purpurascens (Nyl.) Nyl. SPECIES
-=======
+# Heppia purpurascens (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

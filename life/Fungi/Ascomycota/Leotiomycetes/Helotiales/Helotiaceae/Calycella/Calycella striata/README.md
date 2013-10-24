@@ -1,5 +1,4 @@
-Calycella striata (Rodway) Dennis SPECIES
-=======
+# Calycella striata (Rodway) Dennis SPECIES
 
 #### Status
 ACCEPTED

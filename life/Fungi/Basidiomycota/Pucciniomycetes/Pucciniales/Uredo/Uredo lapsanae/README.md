@@ -1,5 +1,4 @@
-Uredo lapsanae SPECIES
-=======
+# Uredo lapsanae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craticullithus P.R. Bown, 2010 GENUS
-=======
+# Craticullithus P.R. Bown, 2010 GENUS
 
 #### Status
 ACCEPTED

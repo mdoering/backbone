@@ -1,5 +1,4 @@
-Helotium perouni Velen. SPECIES
-=======
+# Helotium perouni Velen. SPECIES
 
 #### Status
 ACCEPTED

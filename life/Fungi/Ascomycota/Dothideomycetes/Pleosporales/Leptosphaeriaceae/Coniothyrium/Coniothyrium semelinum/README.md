@@ -1,5 +1,4 @@
-Coniothyrium semelinum Caball. SPECIES
-=======
+# Coniothyrium semelinum Caball. SPECIES
 
 #### Status
 ACCEPTED

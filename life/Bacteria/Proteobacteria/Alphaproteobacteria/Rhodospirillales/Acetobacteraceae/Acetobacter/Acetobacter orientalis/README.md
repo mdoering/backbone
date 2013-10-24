@@ -1,5 +1,4 @@
-Acetobacter orientalis Lisdiyanti et al., 2002 SPECIES
-=======
+# Acetobacter orientalis Lisdiyanti et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

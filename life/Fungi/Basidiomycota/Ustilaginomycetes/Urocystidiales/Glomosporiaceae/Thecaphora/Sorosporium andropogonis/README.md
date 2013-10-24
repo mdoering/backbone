@@ -1,5 +1,4 @@
-Sorosporium andropogonis (Patel & N.B. Kulk.) Thirum. & Neerg. SPECIES
-=======
+# Sorosporium andropogonis (Patel & N.B. Kulk.) Thirum. & Neerg. SPECIES
 
 #### Status
 ACCEPTED

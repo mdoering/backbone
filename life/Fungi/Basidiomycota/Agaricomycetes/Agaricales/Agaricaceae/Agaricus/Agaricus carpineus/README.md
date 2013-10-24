@@ -1,5 +1,4 @@
-Agaricus carpineus Schrad. SPECIES
-=======
+# Agaricus carpineus Schrad. SPECIES
 
 #### Status
 ACCEPTED

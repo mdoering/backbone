@@ -1,17 +1,16 @@
-Leucodecton biokense Frisch SPECIES
-=======
+# Leucodecton biokoense Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 92: 152 (2006)
 
 #### Original name
-Leucodecton biokense Frisch
+Leucodecton biokoense Frisch
 
 ### Remarks
 null

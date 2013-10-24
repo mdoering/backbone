@@ -1,5 +1,4 @@
-Phyllosticta buphthalmi Allesch. SPECIES
-=======
+# Phyllosticta buphthalmi Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aschersonia papillata Petch SPECIES
-=======
+# Aschersonia papillata Petch SPECIES
 
 #### Status
 ACCEPTED

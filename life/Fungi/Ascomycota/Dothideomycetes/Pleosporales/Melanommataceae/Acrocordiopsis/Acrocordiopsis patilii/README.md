@@ -1,5 +1,4 @@
-Acrocordiopsis patilii Borse & K.D. Hyde, 1989 SPECIES
-=======
+# Acrocordiopsis patilii Borse & K.D. Hyde, 1989 SPECIES
 
 #### Status
 ACCEPTED

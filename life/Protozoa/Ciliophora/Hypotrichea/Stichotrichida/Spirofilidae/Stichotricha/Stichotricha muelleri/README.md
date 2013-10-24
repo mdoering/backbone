@@ -1,5 +1,4 @@
-Stichotricha muelleri SPECIES
-=======
+# Stichotricha muelleri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella gorholtii H. Ruppr. SPECIES
-=======
+# Asteromella gorholtii H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

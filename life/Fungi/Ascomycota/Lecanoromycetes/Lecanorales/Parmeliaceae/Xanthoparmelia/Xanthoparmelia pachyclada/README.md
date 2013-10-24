@@ -1,5 +1,4 @@
-Xanthoparmelia pachyclada Hale SPECIES
-=======
+# Xanthoparmelia pachyclada Hale SPECIES
 
 #### Status
 ACCEPTED

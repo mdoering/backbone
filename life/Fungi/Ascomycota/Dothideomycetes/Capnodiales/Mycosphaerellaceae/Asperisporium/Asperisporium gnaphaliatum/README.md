@@ -1,5 +1,4 @@
-Asperisporium gnaphaliatum (Bonar) U. Braun SPECIES
-=======
+# Asperisporium gnaphaliatum (Bonar) U. Braun SPECIES
 
 #### Status
 ACCEPTED

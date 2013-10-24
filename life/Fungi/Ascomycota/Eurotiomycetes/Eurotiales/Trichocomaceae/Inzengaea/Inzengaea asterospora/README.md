@@ -1,5 +1,4 @@
-Inzengaea asterospora Borzí SPECIES
-=======
+# Inzengaea asterospora Borzí SPECIES
 
 #### Status
 ACCEPTED

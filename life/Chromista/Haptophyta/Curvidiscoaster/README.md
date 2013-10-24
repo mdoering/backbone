@@ -1,5 +1,4 @@
-Curvidiscoaster Prins GENUS
-=======
+# Curvidiscoaster Prins GENUS
 
 #### Status
 ACCEPTED

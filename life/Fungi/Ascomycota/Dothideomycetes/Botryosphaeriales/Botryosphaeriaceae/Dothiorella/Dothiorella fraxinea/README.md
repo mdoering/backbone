@@ -1,5 +1,4 @@
-Dothiorella fraxinea Sacc. & Roum., 1884 SPECIES
-=======
+# Dothiorella fraxinea Sacc. & Roum., 1884 SPECIES
 
 #### Status
 ACCEPTED

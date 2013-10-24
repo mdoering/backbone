@@ -1,17 +1,16 @@
-Cercospora hyptidisicola R.K. Srivast., N. Srivast. & A.K. Srivast. SPECIES
-=======
+# Cercospora hyptidicola Chupp & A.S. Mull. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boln Soc. Venez. Cienc. Nat. 8: 47 (1942)
 
 #### Original name
-Cercospora hyptidisicola R.K. Srivast., N. Srivast. & A.K. Srivast.
+Cercospora hyptidicola Chupp & A.S. Mull.
 
 ### Remarks
 null

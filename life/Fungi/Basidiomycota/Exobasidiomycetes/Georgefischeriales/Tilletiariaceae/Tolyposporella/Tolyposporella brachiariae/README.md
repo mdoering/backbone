@@ -1,5 +1,4 @@
-Tolyposporella brachiariae Mundk. & Thirum. SPECIES
-=======
+# Tolyposporella brachiariae Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

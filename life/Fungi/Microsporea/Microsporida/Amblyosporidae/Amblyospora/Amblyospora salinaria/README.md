@@ -1,5 +1,4 @@
-Amblyospora salinaria J.J. Becnel & T.G. Andreadis SPECIES
-=======
+# Amblyospora salinaria J.J. Becnel & T.G. Andreadis SPECIES
 
 #### Status
 ACCEPTED

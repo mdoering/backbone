@@ -1,5 +1,4 @@
-Synchytrium fragariae Zeller & L. Campb. SPECIES
-=======
+# Synchytrium fragariae Zeller & L. Campb. SPECIES
 
 #### Status
 ACCEPTED

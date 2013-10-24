@@ -1,17 +1,16 @@
-Leptosphaeria arnoldi Rehm SPECIES
-=======
+# Leptosphaeria arnoldii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Öst. bot. Z. 54(3): 84 (1904)
 
 #### Original name
-Leptosphaeria arnoldi Rehm
+Leptosphaeria arnoldii Rehm
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypoxylon kermesi Speg. SPECIES
-=======
+# Hypoxylon kermesi Speg. SPECIES
 
 #### Status
 ACCEPTED

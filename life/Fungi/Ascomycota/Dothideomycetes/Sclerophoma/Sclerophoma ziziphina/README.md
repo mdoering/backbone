@@ -1,8 +1,7 @@
-Sclerophoma zizyphina S. Ahmad SPECIES
-=======
+# Sclerophoma ziziphina S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sclerophoma zizyphina S. Ahmad
+Sclerophoma ziziphina S. Ahmad
 
 ### Remarks
 null

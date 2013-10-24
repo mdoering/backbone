@@ -1,14 +1,13 @@
-Asterostromella ochroleuca Bourdot & Galzin, 1911 SPECIES
-=======
+# Vararia ochroleuca (Bourdot & Galzin) Donk, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 27(2): 266 (1911)
+Trans. Roy. Soc. New Zealand 82: 981 (1930)
 
 #### Original name
 Asterostromella ochroleuca Bourdot & Galzin, 1911

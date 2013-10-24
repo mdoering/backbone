@@ -1,5 +1,4 @@
-Puccinia crepidis-integrae (Lindr.) Hirats. f. SPECIES
-=======
+# Puccinia crepidis-integrae (Lindr.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

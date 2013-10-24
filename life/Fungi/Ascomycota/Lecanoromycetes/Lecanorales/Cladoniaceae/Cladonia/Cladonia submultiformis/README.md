@@ -1,5 +1,4 @@
-Cladonia submultiformis f. foliolosa Asahina FORM
-=======
+# Cladonia submultiformis Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia submultiformis f. foliolosa Asahina
+Cladonia submultiformis Asahina
 
 ### Remarks
 null

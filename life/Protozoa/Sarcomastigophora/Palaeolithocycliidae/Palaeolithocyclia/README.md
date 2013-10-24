@@ -1,5 +1,4 @@
-Palaeolithocyclia Kozur & Mostler, 1972 GENUS
-=======
+# Palaeolithocyclia Kozur & Mostler, 1972 GENUS
 
 #### Status
 ACCEPTED

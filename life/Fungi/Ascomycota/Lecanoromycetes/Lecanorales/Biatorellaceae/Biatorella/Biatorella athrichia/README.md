@@ -1,5 +1,4 @@
-Biatorella athrichia Norman SPECIES
-=======
+# Biatorella athrichia Norman SPECIES
 
 #### Status
 ACCEPTED

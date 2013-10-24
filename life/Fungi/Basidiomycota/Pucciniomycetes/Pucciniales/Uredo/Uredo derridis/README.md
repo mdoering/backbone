@@ -1,5 +1,4 @@
-Uredo derridis Henn. SPECIES
-=======
+# Uredo derridis Henn. SPECIES
 
 #### Status
 ACCEPTED

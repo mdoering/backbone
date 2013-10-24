@@ -1,5 +1,4 @@
-Epicoccum yuccae Savul. SPECIES
-=======
+# Epicoccum yuccae Savul. SPECIES
 
 #### Status
 ACCEPTED

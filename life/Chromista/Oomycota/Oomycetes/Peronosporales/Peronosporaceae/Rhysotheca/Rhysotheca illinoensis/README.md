@@ -1,5 +1,4 @@
-Rhysotheca illinoensis (Farl.) G.W. Wilson SPECIES
-=======
+# Rhysotheca illinoensis (Farl.) G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

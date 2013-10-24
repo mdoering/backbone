@@ -1,5 +1,4 @@
-Stachybotrys parva R.S. Dwivedi & B.P. Singh SPECIES
-=======
+# Stachybotrys parva R.S. Dwivedi & B.P. Singh SPECIES
 
 #### Status
 ACCEPTED

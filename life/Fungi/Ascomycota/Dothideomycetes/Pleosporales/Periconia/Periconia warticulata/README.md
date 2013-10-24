@@ -1,5 +1,4 @@
-Periconia warticulata P.Rag. Rao & D. Rao SPECIES
-=======
+# Periconia warticulata P.Rag. Rao & D. Rao SPECIES
 
 #### Status
 ACCEPTED

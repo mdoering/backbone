@@ -1,5 +1,4 @@
-Pezizella tyrolensis Rehm SPECIES
-=======
+# Pezizella tyrolensis Rehm SPECIES
 
 #### Status
 ACCEPTED

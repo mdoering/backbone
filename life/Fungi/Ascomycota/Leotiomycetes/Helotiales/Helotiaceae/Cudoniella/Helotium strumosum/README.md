@@ -1,5 +1,4 @@
-Helotium strumosum Ellis & Everh. SPECIES
-=======
+# Helotium strumosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

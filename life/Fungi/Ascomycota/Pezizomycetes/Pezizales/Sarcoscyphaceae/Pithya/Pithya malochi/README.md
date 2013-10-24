@@ -1,5 +1,4 @@
-Pithya malochi Velen. SPECIES
-=======
+# Pithya malochi Velen. SPECIES
 
 #### Status
 ACCEPTED

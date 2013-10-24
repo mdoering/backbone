@@ -1,5 +1,4 @@
-Phoma kennedyae Tassi SPECIES
-=======
+# Phoma kennedyae Tassi SPECIES
 
 #### Status
 ACCEPTED

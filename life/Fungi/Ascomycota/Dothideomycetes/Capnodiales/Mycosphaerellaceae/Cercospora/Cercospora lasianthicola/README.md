@@ -1,5 +1,4 @@
-Cercospora lasianthicola C.C. Chen SPECIES
-=======
+# Cercospora lasianthicola C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

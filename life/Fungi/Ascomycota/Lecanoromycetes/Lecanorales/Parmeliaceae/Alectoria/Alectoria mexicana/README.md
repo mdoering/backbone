@@ -1,5 +1,4 @@
-Alectoria mexicana Brodo & D. Hawksw. SPECIES
-=======
+# Alectoria mexicana Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

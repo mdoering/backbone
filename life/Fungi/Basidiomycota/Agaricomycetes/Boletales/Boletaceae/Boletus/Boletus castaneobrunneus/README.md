@@ -1,5 +1,4 @@
-Boletus castaneobrunneus Z.S. Bi SPECIES
-=======
+# Boletus castaneobrunneus Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

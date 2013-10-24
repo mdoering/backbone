@@ -1,17 +1,16 @@
-Sphaerella clematidis Oudem., 1886 SPECIES
-=======
+# Mycosphaerella clematitidis (Oudem.) Johanson ex Oudem., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rév. Champ. Pays-Bas (Amsterdam) 2: 217 (1897)
 
 #### Original name
-null
+Sphaerella clematidis Oudem., 1886
 
 ### Remarks
 null

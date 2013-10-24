@@ -1,5 +1,4 @@
-Ophiostoma colliferum (Marm. & Butin) Georg Hausner, J. Reid & Klassen, 1993 SPECIES
-=======
+# Ophiostoma colliferum (Marm. & Butin) Georg Hausner, J. Reid & Klassen, 1993 SPECIES
 
 #### Status
 ACCEPTED

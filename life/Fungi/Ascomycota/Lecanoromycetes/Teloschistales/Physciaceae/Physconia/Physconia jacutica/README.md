@@ -1,5 +1,4 @@
-Physconia jacutica Urbanav., Ahti & Loht. SPECIES
-=======
+# Physconia jacutica Urbanav., Ahti & Loht. SPECIES
 
 #### Status
 ACCEPTED

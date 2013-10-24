@@ -1,5 +1,4 @@
-Anatexis elmeri Syd. SPECIES
-=======
+# Anatexis elmeri Syd. SPECIES
 
 #### Status
 ACCEPTED

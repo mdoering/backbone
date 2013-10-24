@@ -1,5 +1,4 @@
-Gymnodinium pavlae J. Popovsk`y SPECIES
-=======
+# Gymnodinium pavlae J. Popovsk`y SPECIES
 
 #### Status
 ACCEPTED

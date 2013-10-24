@@ -1,5 +1,4 @@
-Melanotheca cameroonensis C.W. Dodge SPECIES
-=======
+# Melanotheca cameroonensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

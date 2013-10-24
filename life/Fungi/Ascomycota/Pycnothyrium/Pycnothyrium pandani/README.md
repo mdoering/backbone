@@ -1,5 +1,4 @@
-Pycnothyrium pandani Syd. SPECIES
-=======
+# Pycnothyrium pandani Syd. SPECIES
 
 #### Status
 ACCEPTED

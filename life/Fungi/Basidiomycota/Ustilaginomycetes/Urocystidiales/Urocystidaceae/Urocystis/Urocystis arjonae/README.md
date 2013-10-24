@@ -1,5 +1,4 @@
-Urocystis arjonae Speg. SPECIES
-=======
+# Urocystis arjonae Speg. SPECIES
 
 #### Status
 ACCEPTED

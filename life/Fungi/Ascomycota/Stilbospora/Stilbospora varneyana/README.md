@@ -1,5 +1,4 @@
-Stilbospora varneyana Ellis SPECIES
-=======
+# Stilbospora varneyana Ellis SPECIES
 
 #### Status
 ACCEPTED

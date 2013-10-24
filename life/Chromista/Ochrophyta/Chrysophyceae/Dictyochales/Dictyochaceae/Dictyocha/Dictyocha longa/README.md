@@ -1,5 +1,4 @@
-Dictyocha longa var. paxilla D. Bukry VARIETY
-=======
+# Dictyocha longa D. Bukry SPECIES
 
 #### Status
 ACCEPTED

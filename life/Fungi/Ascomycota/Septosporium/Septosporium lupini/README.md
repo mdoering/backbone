@@ -1,5 +1,4 @@
-Septosporium lupini Thüm. SPECIES
-=======
+# Septosporium lupini Thüm. SPECIES
 
 #### Status
 ACCEPTED

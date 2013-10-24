@@ -1,5 +1,4 @@
-Lecanora cateileoides Vain. SPECIES
-=======
+# Lecanora cateileoides Vain. SPECIES
 
 #### Status
 ACCEPTED

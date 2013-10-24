@@ -1,5 +1,4 @@
-Jackelixia GENUS
-=======
+# Jackelixia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladina leiodea (H. Magn.) Ahti SPECIES
-=======
+# Cladina leiodea (H. Magn.) Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta divergens Sacc. SPECIES
-=======
+# Phyllosticta divergens Sacc. SPECIES
 
 #### Status
 ACCEPTED

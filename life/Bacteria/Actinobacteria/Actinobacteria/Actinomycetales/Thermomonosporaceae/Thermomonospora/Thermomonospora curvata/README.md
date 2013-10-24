@@ -1,5 +1,4 @@
-Thermomonospora curvata Henssen, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Thermomonospora curvata Henssen, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Campsotrichum tetracerae Allesch. SPECIES
-=======
+# Campsotrichum tetracerae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium podboroviscense Górka, 1969 SPECIES
-=======
+# Baltisphaeridium podboroviscense Górka, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solorinella Anzi GENUS
-=======
+# Solorinella Anzi GENUS
 
 #### Status
 ACCEPTED

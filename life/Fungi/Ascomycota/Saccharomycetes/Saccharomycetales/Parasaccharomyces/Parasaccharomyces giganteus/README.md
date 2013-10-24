@@ -1,5 +1,4 @@
-Parasaccharomyces giganteus Mello SPECIES
-=======
+# Parasaccharomyces giganteus Mello SPECIES
 
 #### Status
 ACCEPTED

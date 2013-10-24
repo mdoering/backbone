@@ -1,5 +1,4 @@
-Ustilago tragi-racemosi H. Zogg SPECIES
-=======
+# Ustilago tragi-racemosi H. Zogg SPECIES
 
 #### Status
 ACCEPTED

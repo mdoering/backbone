@@ -1,5 +1,4 @@
-Polytretophora macrospora Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Polytretophora macrospora Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

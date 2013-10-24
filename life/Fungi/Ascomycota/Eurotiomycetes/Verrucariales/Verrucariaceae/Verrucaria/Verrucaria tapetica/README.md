@@ -1,5 +1,4 @@
-Verrucaria tapetica Körb. SPECIES
-=======
+# Verrucaria tapetica Körb. SPECIES
 
 #### Status
 ACCEPTED

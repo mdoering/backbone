@@ -1,5 +1,4 @@
-Hymenopsis tenuis Petch SPECIES
-=======
+# Hymenopsis tenuis Petch SPECIES
 
 #### Status
 ACCEPTED

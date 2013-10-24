@@ -1,5 +1,4 @@
-Rhabdothyrella GENUS
-=======
+# Rhabdothyrella GENUS
 
 #### Status
 ACCEPTED

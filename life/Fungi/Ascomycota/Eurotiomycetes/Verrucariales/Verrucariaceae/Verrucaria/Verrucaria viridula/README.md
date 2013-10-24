@@ -1,17 +1,16 @@
-Verrucaria griseorubens var. griseorubens VARIETY
-=======
+# Verrucaria viridula (Schrad.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Verrucaria griseorubens var. griseorubens
+Endocarpon viridulum Schrad.
 
 ### Remarks
 null

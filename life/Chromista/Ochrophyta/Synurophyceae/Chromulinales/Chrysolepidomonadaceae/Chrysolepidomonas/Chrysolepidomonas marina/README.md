@@ -1,8 +1,7 @@
-Sphaleromantis marina Pienaar SPECIES
-=======
+# Chrysolepidomonas marina (Pienaar) M. C. Peters & R. A. Andersen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

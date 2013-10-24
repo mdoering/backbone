@@ -1,5 +1,4 @@
-Pannaria caesiocinerea (Vain.) P.M. Jørg. SPECIES
-=======
+# Pannaria caesiocinerea (Vain.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

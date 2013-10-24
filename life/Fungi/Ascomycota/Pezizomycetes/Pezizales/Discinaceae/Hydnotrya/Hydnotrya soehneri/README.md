@@ -1,5 +1,4 @@
-Hydnotrya soehneri Svrcek SPECIES
-=======
+# Hydnotrya soehneri Svrcek SPECIES
 
 #### Status
 ACCEPTED

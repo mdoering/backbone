@@ -1,5 +1,4 @@
-Ceriomyces sordidus (Frost) Murrill SPECIES
-=======
+# Ceriomyces sordidus (Frost) Murrill SPECIES
 
 #### Status
 ACCEPTED

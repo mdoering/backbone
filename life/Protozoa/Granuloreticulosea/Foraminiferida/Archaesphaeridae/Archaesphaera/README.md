@@ -1,5 +1,4 @@
-Archaesphaera Suleimanov, 1945 GENUS
-=======
+# Archaesphaera Suleimanov, 1945 GENUS
 
 #### Status
 ACCEPTED

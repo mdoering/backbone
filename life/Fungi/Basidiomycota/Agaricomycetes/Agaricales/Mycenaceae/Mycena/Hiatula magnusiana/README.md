@@ -1,5 +1,4 @@
-Hiatula magnusiana (Henn.) Singer SPECIES
-=======
+# Hiatula magnusiana (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

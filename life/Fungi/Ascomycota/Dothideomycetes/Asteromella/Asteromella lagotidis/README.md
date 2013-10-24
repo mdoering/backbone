@@ -1,5 +1,4 @@
-Asteromella lagotidis Murashk. SPECIES
-=======
+# Asteromella lagotidis Murashk. SPECIES
 
 #### Status
 ACCEPTED

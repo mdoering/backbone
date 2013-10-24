@@ -1,5 +1,4 @@
-Schizosaccharomycetales O.E. Erikss. ORDER
-=======
+# Schizosaccharomycetales O.E. Erikss. ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia rosellizans S. Ekman SPECIES
-=======
+# Bacidia rosellizans S. Ekman SPECIES
 
 #### Status
 ACCEPTED

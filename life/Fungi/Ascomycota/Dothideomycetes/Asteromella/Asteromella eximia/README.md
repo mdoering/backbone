@@ -1,5 +1,4 @@
-Asteromella eximia (Bubák) Aa & Vanev SPECIES
-=======
+# Asteromella eximia (Bubák) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

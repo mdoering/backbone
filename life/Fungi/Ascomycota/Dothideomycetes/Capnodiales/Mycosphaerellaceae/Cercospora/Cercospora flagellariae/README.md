@@ -1,5 +1,4 @@
-Cercospora flagellariae Sawada SPECIES
-=======
+# Cercospora flagellariae Sawada SPECIES
 
 #### Status
 ACCEPTED

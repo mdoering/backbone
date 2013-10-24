@@ -1,5 +1,4 @@
-Typhoderma Gray GENUS
-=======
+# Typhoderma Gray GENUS
 
 #### Status
 ACCEPTED

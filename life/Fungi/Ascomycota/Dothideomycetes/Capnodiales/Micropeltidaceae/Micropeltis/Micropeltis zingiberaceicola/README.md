@@ -1,5 +1,4 @@
-Micropeltis zingiberaceicola Henn. SPECIES
-=======
+# Micropeltis zingiberaceicola Henn. SPECIES
 
 #### Status
 ACCEPTED

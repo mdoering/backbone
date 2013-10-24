@@ -1,5 +1,4 @@
-Actinoptychus vulgaris Schumann SPECIES
-=======
+# Actinoptychus vulgaris Schumann SPECIES
 
 #### Status
 ACCEPTED

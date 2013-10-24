@@ -1,5 +1,4 @@
-Scolicotrichum cardui J. Schröt. SPECIES
-=======
+# Scolicotrichum cardui J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

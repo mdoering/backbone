@@ -1,5 +1,4 @@
-Macrosporium polytrichi Peck SPECIES
-=======
+# Macrosporium polytrichi Peck SPECIES
 
 #### Status
 ACCEPTED

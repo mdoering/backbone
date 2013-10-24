@@ -1,5 +1,4 @@
-Sphaeria diplasia Durieu & Mont. SPECIES
-=======
+# Sphaeria diplasia Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

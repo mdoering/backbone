@@ -1,5 +1,4 @@
-Phomopsis mauritiana G.Q. Yuan & J.G. Wei SPECIES
-=======
+# Phomopsis mauritiana G.Q. Yuan & J.G. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoplea sotolifoliorum A.W. Ramaley SPECIES
-=======
+# Chaetoplea sotolifoliorum A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

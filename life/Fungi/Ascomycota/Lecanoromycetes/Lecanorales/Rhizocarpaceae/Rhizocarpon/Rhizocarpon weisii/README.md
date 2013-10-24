@@ -1,5 +1,4 @@
-Rhizocarpon weisii Dalla Torre & Sarnth. SPECIES
-=======
+# Rhizocarpon weisii Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

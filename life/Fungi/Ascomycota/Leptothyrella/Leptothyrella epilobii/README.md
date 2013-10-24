@@ -1,5 +1,4 @@
-Leptothyrella epilobii Höhn. SPECIES
-=======
+# Leptothyrella epilobii Höhn. SPECIES
 
 #### Status
 ACCEPTED

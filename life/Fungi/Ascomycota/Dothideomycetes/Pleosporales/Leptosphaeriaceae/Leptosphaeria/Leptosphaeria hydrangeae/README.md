@@ -1,5 +1,4 @@
-Leptosphaeria hydrangeae Gucevic SPECIES
-=======
+# Leptosphaeria hydrangeae Gucevic SPECIES
 
 #### Status
 ACCEPTED

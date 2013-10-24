@@ -1,14 +1,13 @@
-Gorgoniceps jamaicensis Seaver, 1946 SPECIES
-=======
+# Strossmayeria jamaicensis (Seaver) Iturr. & Korf, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 38(5): 552 (1946)
+Mycotaxon 36(2): 432 (1990)
 
 #### Original name
 Gorgoniceps jamaicensis Seaver, 1946

@@ -1,5 +1,4 @@
-Tremellostereum Ryvarden GENUS
-=======
+# Tremellostereum Ryvarden GENUS
 
 #### Status
 ACCEPTED

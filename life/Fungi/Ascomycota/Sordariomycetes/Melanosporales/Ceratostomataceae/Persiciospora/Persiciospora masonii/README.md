@@ -1,17 +1,16 @@
-Ceratostoma masoni Kirschst. SPECIES
-=======
+# Persiciospora masonii (Kirschst.) P.F. Cannon & D. Hawksw., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 84(2): 135 (1982)
 
 #### Original name
-Ceratostoma masoni Kirschst.
+Ceratostoma masonii Kirschst., 1934
 
 ### Remarks
 null

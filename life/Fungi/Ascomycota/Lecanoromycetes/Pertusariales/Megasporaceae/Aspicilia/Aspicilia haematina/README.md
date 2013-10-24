@@ -1,5 +1,4 @@
-Aspicilia haematina Körb. SPECIES
-=======
+# Aspicilia haematina Körb. SPECIES
 
 #### Status
 ACCEPTED

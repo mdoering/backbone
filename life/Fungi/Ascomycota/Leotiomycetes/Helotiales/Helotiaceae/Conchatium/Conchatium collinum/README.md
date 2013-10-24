@@ -1,5 +1,4 @@
-Conchatium collinum Svrcek SPECIES
-=======
+# Conchatium collinum Svrcek SPECIES
 
 #### Status
 ACCEPTED

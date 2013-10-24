@@ -1,5 +1,4 @@
-Uromyces agrostidis (Gonz. Frag.) A.L. Guyot SPECIES
-=======
+# Uromyces agrostidis (Gonz. Frag.) A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

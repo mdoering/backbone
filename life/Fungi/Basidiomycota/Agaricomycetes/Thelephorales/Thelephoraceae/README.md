@@ -1,5 +1,4 @@
-Thelephoraceae FAMILY
-=======
+# Thelephoraceae FAMILY
 
 #### Status
 ACCEPTED

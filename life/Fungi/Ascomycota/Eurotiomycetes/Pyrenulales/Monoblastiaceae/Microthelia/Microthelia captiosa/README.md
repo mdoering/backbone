@@ -1,5 +1,4 @@
-Microthelia captiosa (Kremp.) Müll. Arg. SPECIES
-=======
+# Microthelia captiosa (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

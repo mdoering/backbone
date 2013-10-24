@@ -1,5 +1,4 @@
-Pontigulasia Rhumbler, 1895 GENUS
-=======
+# Pontigulasia Rhumbler, 1895 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentella castanea (Bourdot & Galzin) Donk SPECIES
-=======
+# Tomentella castanea (Bourdot & Galzin) Donk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichocladium englandense K.D. Hyde & Goh, 1999 SPECIES
-=======
+# Trichocladium englandense K.D. Hyde & Goh, 1999 SPECIES
 
 #### Status
 ACCEPTED

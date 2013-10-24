@@ -1,5 +1,4 @@
-Hygrophorus patagonicus Speg. ex E. Horak SPECIES
-=======
+# Hygrophorus patagonicus Speg. ex E. Horak SPECIES
 
 #### Status
 ACCEPTED

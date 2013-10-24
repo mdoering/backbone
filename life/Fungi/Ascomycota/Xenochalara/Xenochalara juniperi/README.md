@@ -1,5 +1,4 @@
-Xenochalara juniperi M.J. Wingf. & Crous, 2000 SPECIES
-=======
+# Xenochalara juniperi M.J. Wingf. & Crous, 2000 SPECIES
 
 #### Status
 ACCEPTED

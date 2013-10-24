@@ -1,5 +1,4 @@
-Didymella carphae Speg. SPECIES
-=======
+# Didymella carphae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eichleriella kmetii Bres. SPECIES
-=======
+# Eichleriella kmetii Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdoviridae FAMILY
-=======
+# Rhabdoviridae FAMILY
 
 #### Status
 ACCEPTED

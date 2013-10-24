@@ -1,5 +1,4 @@
-Yuea O.E. Erikss. GENUS
-=======
+# Yuea O.E. Erikss. GENUS
 
 #### Status
 ACCEPTED

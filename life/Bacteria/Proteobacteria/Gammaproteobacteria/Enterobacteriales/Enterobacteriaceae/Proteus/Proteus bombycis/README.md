@@ -1,5 +1,4 @@
-Proteus bombycis SPECIES
-=======
+# Proteus bombycis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum betulae Woron. SPECIES
-=======
+# Colletotrichum betulae Woron. SPECIES
 
 #### Status
 ACCEPTED

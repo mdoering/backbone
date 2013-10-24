@@ -1,5 +1,4 @@
-Phalansteriaceae FAMILY
-=======
+# Phalansteriaceae FAMILY
 
 #### Status
 ACCEPTED

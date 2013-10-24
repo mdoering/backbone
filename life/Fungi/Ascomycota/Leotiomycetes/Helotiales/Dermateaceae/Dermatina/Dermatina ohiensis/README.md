@@ -1,5 +1,4 @@
-Dermatina ohiensis (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatina ohiensis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

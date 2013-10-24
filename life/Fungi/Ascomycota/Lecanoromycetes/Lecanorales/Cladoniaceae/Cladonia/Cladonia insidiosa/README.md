@@ -1,5 +1,4 @@
-Cladonia insidiosa SPECIES
-=======
+# Cladonia insidiosa SPECIES
 
 #### Status
 ACCEPTED

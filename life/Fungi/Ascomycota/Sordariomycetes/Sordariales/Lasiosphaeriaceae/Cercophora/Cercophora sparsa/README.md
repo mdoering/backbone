@@ -1,5 +1,4 @@
-Cercophora sparsa (Sacc. & Fairm.) R. Hilber SPECIES
-=======
+# Cercophora sparsa (Sacc. & Fairm.) R. Hilber SPECIES
 
 #### Status
 ACCEPTED

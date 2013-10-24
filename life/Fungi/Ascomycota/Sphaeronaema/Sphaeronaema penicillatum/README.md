@@ -1,5 +1,4 @@
-Sphaeronaema penicillatum Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema penicillatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

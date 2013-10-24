@@ -1,5 +1,4 @@
-Penicillium brasilianum Bat., 1957 SPECIES
-=======
+# Penicillium brasilianum Bat., 1957 SPECIES
 
 #### Status
 ACCEPTED

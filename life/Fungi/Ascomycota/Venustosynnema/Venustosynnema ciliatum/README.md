@@ -1,14 +1,13 @@
-Venustosynnema ciliata (R.F. Castañeda, G.R.W. Arnold & A.G. Guerra) R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Venustosynnema ciliatum (R.F. Castañeda, G.R.W. Arnold & A.G. Guerra) R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Univ. Waterloo Biol. Ser. 32: 45 (1990)
 
 #### Original name
 Saccardaea ciliata R.F. Castañeda, G.R.W. Arnold & A.G. Guerra, 1984

@@ -1,5 +1,4 @@
-Sphinctrina baculospora Preuss SPECIES
-=======
+# Sphinctrina baculospora Preuss SPECIES
 
 #### Status
 ACCEPTED

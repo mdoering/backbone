@@ -1,5 +1,4 @@
-Bolivina subspinescens SPECIES
-=======
+# Bolivina subspinescens SPECIES
 
 #### Status
 ACCEPTED

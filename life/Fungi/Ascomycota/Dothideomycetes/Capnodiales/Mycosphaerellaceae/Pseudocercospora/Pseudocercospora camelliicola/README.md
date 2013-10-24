@@ -1,14 +1,13 @@
-Stigmina theae Deighton, 1983 SPECIES
-=======
+# Pseudocercospora camelliicola U. Braun & C.F. Hill, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 151: 4 (1983)
+Mycol. Progr. 1(1): 22 (2002)
 
 #### Original name
 Stigmina theae Deighton, 1983

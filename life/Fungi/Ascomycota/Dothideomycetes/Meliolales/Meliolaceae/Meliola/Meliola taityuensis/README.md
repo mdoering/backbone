@@ -1,5 +1,4 @@
-Meliola taityuensis W. Yamam. SPECIES
-=======
+# Meliola taityuensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

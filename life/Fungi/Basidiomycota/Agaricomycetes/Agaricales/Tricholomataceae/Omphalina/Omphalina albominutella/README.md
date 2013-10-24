@@ -1,5 +1,4 @@
-Omphalina albominutella E. Ludw. SPECIES
-=======
+# Omphalina albominutella E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

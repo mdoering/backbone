@@ -1,5 +1,4 @@
-Fungus cothurnatus (Fr.) Kuntze SPECIES
-=======
+# Fungus cothurnatus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

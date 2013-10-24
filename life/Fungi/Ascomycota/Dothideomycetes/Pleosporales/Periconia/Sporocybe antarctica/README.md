@@ -1,5 +1,4 @@
-Sporocybe antarctica Speg. SPECIES
-=======
+# Sporocybe antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

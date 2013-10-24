@@ -1,5 +1,4 @@
-Stomiopeltis parkinsoniae (Heald & F.A. Wolf) M.L. Farr SPECIES
-=======
+# Stomiopeltis parkinsoniae (Heald & F.A. Wolf) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

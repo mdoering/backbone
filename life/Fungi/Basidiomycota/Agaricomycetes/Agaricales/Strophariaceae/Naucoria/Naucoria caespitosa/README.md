@@ -1,5 +1,4 @@
-Naucoria caespitosa Velen. SPECIES
-=======
+# Naucoria caespitosa Velen. SPECIES
 
 #### Status
 ACCEPTED

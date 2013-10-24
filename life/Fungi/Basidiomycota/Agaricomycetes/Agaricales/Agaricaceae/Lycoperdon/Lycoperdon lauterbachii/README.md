@@ -1,14 +1,13 @@
-Lycoperdon lauterbackii (Henn.) Sacc. SPECIES
-=======
+# Lycoperdon lauterbachii (Henn.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 11: 166 (1895)
 
 #### Original name
 Globaria lauterbachii Henn.

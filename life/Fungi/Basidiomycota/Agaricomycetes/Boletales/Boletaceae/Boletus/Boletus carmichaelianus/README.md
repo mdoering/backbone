@@ -1,5 +1,4 @@
-Boletus carmichaelianus Grev. SPECIES
-=======
+# Boletus carmichaelianus Grev. SPECIES
 
 #### Status
 ACCEPTED

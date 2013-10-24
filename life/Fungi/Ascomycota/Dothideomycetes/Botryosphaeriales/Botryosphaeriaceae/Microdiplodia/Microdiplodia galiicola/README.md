@@ -1,5 +1,4 @@
-Microdiplodia galiicola Fairm. SPECIES
-=======
+# Microdiplodia galiicola Fairm. SPECIES
 
 #### Status
 ACCEPTED

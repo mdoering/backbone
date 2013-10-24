@@ -1,5 +1,4 @@
-Lewinella Sly, Taghavi & Fegan, 1998 GENUS
-=======
+# Lewinella Sly, Taghavi & Fegan, 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonimochaete lignicola G.L. Barron, 1985 SPECIES
-=======
+# Gonimochaete lignicola G.L. Barron, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum jussiaeae Earle SPECIES
-=======
+# Colletotrichum jussiaeae Earle SPECIES
 
 #### Status
 ACCEPTED

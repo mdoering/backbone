@@ -1,5 +1,4 @@
-Didymosphaeria coffeae Saccas SPECIES
-=======
+# Didymosphaeria coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tornabenia scorigena (Mont.) A. Massal. SPECIES
-=======
+# Seirophora scorigena (Mont.) Frödén SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Frödén & Lassen, Lichenologist 36(5): 297 (2004)
 
 #### Original name
 Evernia scorigena Mont.

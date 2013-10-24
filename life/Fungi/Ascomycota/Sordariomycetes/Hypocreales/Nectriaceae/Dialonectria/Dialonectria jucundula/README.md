@@ -1,5 +1,4 @@
-Dialonectria jucundula (Sacc. & Speg.) Cooke SPECIES
-=======
+# Dialonectria jucundula (Sacc. & Speg.) Cooke SPECIES
 
 #### Status
 ACCEPTED

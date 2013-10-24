@@ -1,5 +1,4 @@
-Leptogium fragrans (Taylor) Mudd SPECIES
-=======
+# Leptogium fragrans (Taylor) Mudd SPECIES
 
 #### Status
 ACCEPTED

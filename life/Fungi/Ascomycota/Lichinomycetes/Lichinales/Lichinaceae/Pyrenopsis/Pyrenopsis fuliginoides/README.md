@@ -1,5 +1,4 @@
-Pyrenopsis fuliginoides Rehm SPECIES
-=======
+# Pyrenopsis fuliginoides Rehm SPECIES
 
 #### Status
 ACCEPTED

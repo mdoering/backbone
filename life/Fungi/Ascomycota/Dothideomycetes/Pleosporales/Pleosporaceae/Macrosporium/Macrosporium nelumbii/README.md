@@ -1,5 +1,4 @@
-Macrosporium nelumbii Ellis & Everh. SPECIES
-=======
+# Macrosporium nelumbii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

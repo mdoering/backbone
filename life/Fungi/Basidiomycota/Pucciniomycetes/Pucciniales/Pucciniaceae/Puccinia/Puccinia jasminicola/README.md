@@ -1,5 +1,4 @@
-Puccinia jasminicola T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Puccinia jasminicola T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

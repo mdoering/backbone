@@ -1,5 +1,4 @@
-Tomasellia africana Zahlbr. SPECIES
-=======
+# Tomasellia africana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

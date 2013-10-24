@@ -1,5 +1,4 @@
-Ocellularia gyrostomoides Müll. Arg. SPECIES
-=======
+# Ocellularia gyrostomoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

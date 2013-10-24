@@ -1,5 +1,4 @@
-Palaeoscytonema intermingla J. Mandal & P. K. Maithy SPECIES
-=======
+# Palaeoscytonema intermingla J. Mandal & P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

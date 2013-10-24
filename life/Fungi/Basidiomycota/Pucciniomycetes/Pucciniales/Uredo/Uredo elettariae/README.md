@@ -1,5 +1,4 @@
-Uredo elettariae Thirum. SPECIES
-=======
+# Uredo elettariae Thirum. SPECIES
 
 #### Status
 ACCEPTED

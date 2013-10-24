@@ -1,5 +1,4 @@
-Gloeosporium senecionis-cordati Allesch. SPECIES
-=======
+# Gloeosporium senecionis-cordati Allesch. SPECIES
 
 #### Status
 ACCEPTED

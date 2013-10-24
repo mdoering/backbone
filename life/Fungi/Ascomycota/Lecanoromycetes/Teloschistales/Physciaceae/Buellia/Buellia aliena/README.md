@@ -1,5 +1,4 @@
-Buellia aliena (Nyl.) Herre SPECIES
-=======
+# Buellia aliena (Nyl.) Herre SPECIES
 
 #### Status
 ACCEPTED

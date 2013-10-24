@@ -1,5 +1,4 @@
-Scindalma polydactylum (Berk.) Kuntze SPECIES
-=======
+# Scindalma polydactylum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

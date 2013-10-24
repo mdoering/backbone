@@ -1,8 +1,7 @@
-Discophrya hydrochi sensu Matthes, 1954 SPECIES
-=======
+# Periacineta heraldica (Jankowski, 1981) Dovgal, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Cortinarius opimatus Britzelm. SPECIES
-=======
+# Cortinarius opimatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria castilloae Turconi & Maffei SPECIES
-=======
+# Nectria castilloae Turconi & Maffei SPECIES
 
 #### Status
 ACCEPTED

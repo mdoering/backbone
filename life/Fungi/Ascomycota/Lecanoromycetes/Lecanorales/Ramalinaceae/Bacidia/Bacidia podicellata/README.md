@@ -1,5 +1,4 @@
-Bacidia podicellata Hellb. SPECIES
-=======
+# Bacidia podicellata Hellb. SPECIES
 
 #### Status
 ACCEPTED

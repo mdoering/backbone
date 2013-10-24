@@ -1,5 +1,4 @@
-Laboulbenia ceylonensis Thaxt. SPECIES
-=======
+# Laboulbenia ceylonensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

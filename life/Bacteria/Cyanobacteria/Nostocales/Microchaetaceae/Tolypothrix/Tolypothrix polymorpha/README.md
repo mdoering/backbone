@@ -1,5 +1,4 @@
-Tolypothrix polymorpha Lemmermann SPECIES
-=======
+# Tolypothrix polymorpha Lemmermann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusariella sarniensis M.B. Ellis, 1976 SPECIES
-=======
+# Fusariella sarniensis M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

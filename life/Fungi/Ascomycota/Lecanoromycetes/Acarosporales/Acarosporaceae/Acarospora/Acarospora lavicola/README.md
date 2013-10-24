@@ -1,5 +1,4 @@
-Acarospora lavicola J. Steiner SPECIES
-=======
+# Acarospora lavicola J. Steiner SPECIES
 
 #### Status
 ACCEPTED

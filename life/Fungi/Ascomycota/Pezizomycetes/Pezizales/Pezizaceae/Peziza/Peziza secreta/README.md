@@ -1,5 +1,4 @@
-Peziza secreta W. Phillips SPECIES
-=======
+# Peziza secreta W. Phillips SPECIES
 
 #### Status
 ACCEPTED

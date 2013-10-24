@@ -1,5 +1,4 @@
-Phaeoramularia schisandrae Y.L. Guo SPECIES
-=======
+# Phaeoramularia schisandrae Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria starbaeckii Vestergr. SPECIES
-=======
+# Metasphaeria starbaeckii Vestergr. SPECIES
 
 #### Status
 ACCEPTED

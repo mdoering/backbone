@@ -1,5 +1,4 @@
-Helicogermslita Lodha & D. Hawksw. GENUS
-=======
+# Helicogermslita Lodha & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

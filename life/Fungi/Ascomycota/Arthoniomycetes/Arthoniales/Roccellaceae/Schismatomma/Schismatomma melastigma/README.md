@@ -1,5 +1,4 @@
-Schismatomma melastigma (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma melastigma (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

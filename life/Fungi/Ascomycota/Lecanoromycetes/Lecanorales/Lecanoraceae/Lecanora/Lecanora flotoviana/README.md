@@ -1,5 +1,4 @@
-Lecanora flotoviana f. flotoviana FORM
-=======
+# Lecanora flotoviana Spreng. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin 1: 221 (1820)
 
 #### Original name
-Lecanora flotoviana f. flotoviana
+Lecanora flotoviana Spreng.
 
 ### Remarks
 null

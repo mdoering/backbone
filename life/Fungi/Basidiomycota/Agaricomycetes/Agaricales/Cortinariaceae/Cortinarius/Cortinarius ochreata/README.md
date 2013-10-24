@@ -1,5 +1,4 @@
-Cortinarius ochreata var. sporabiens Chevassut & Rob. Henry VARIETY
-=======
+# Cortinarius ochreata Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Docums Mycol. 12(no. 47): 84 (1982)
+null
 
 #### Original name
-Cortinarius ochreata var. sporabiens Chevassut & Rob. Henry
+Cortinarius ochreata Velen.
 
 ### Remarks
 null

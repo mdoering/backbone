@@ -1,5 +1,4 @@
-Humicola queenslandica Matsush. SPECIES
-=======
+# Humicola queenslandica Matsush. SPECIES
 
 #### Status
 ACCEPTED

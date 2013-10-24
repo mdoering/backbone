@@ -1,5 +1,4 @@
-Tuber bisporum Gilkey SPECIES
-=======
+# Tuber bisporum Gilkey SPECIES
 
 #### Status
 ACCEPTED

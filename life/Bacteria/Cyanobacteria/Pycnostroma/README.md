@@ -1,5 +1,4 @@
-Pycnostroma G. Gürich, 1906 GENUS
-=======
+# Pycnostroma G. Gürich, 1906 GENUS
 
 #### Status
 ACCEPTED

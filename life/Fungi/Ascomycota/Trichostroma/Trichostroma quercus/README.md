@@ -1,5 +1,4 @@
-Trichostroma quercus Richon SPECIES
-=======
+# Trichostroma quercus Richon SPECIES
 
 #### Status
 ACCEPTED

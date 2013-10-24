@@ -1,5 +1,4 @@
-Phyllosticta perpusilla Sacc. SPECIES
-=======
+# Phyllosticta perpusilla Sacc. SPECIES
 
 #### Status
 ACCEPTED

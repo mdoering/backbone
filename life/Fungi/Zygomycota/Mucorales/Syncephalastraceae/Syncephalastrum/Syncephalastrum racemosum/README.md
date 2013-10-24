@@ -1,17 +1,16 @@
-Syncephalastrum verruculosum P.C. Misra, 1975 SPECIES
-=======
+# Syncephalastrum racemosum Cohn ex J. Schröt., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 3(1): 51 (1975)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(916): 217 (1886)
 
 #### Original name
-Syncephalastrum verruculosum P.C. Misra, 1975
+Syncephalastrum racemosum Cohn ex J. Schröt., 1886
 
 ### Remarks
 null

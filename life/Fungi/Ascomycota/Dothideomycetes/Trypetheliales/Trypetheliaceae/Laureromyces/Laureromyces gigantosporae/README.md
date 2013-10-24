@@ -1,5 +1,4 @@
-Laureromyces gigantosporae Cif. & Tomas. SPECIES
-=======
+# Laureromyces gigantosporae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

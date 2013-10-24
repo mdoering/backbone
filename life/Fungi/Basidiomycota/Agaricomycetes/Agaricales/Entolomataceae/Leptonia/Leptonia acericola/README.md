@@ -1,5 +1,4 @@
-Leptonia acericola Murrill SPECIES
-=======
+# Leptonia acericola Murrill SPECIES
 
 #### Status
 ACCEPTED

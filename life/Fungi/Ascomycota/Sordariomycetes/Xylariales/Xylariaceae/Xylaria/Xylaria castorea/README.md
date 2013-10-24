@@ -1,5 +1,4 @@
-Xylaria castorea Berk., 1855 SPECIES
-=======
+# Xylaria castorea Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

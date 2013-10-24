@@ -1,5 +1,4 @@
-Agaricus brunswickianus Speg. SPECIES
-=======
+# Agaricus brunswickianus Speg. SPECIES
 
 #### Status
 ACCEPTED

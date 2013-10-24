@@ -1,5 +1,4 @@
-Sphaerulina polygonorum Tomilin SPECIES
-=======
+# Sphaerulina polygonorum Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia sarocococcae S. Ahmad SPECIES
-=======
+# Diplodia sarocococcae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

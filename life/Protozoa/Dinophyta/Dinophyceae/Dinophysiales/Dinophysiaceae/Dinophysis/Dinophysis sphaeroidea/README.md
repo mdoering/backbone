@@ -1,5 +1,4 @@
-Dinophysis sphaeroidea (J. Schiller) Balech, 1967 SPECIES
-=======
+# Dinophysis sphaeroidea (J. Schiller) Balech, 1967 SPECIES
 
 #### Status
 ACCEPTED

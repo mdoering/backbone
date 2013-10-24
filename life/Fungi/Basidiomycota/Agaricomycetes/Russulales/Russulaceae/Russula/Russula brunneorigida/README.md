@@ -1,5 +1,4 @@
-Russula brunneorigida var. brunneorigida VARIETY
-=======
+# Russula brunneorigida Buyck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Jard. Bot. Nat. Belg. 58(3-4): 471 (1988)
 
 #### Original name
-Russula brunneorigida var. brunneorigida
+Russula brunneorigida Buyck
 
 ### Remarks
 null

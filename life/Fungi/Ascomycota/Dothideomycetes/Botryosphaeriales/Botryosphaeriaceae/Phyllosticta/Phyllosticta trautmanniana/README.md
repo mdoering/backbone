@@ -1,5 +1,4 @@
-Phyllosticta trautmanniana Moesz SPECIES
-=======
+# Phyllosticta trautmanniana Moesz SPECIES
 
 #### Status
 ACCEPTED

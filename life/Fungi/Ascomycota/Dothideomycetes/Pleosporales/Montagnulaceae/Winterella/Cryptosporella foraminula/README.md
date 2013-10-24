@@ -1,5 +1,4 @@
-Cryptosporella foraminula (Pers.) Sacc. SPECIES
-=======
+# Cryptosporella foraminula (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

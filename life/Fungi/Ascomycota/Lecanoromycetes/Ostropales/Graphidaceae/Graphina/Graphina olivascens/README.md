@@ -1,5 +1,4 @@
-Graphina olivascens f. olivascens FORM
-=======
+# Graphina olivascens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina olivascens f. olivascens
+Graphina olivascens Zahlbr.
 
 ### Remarks
 null

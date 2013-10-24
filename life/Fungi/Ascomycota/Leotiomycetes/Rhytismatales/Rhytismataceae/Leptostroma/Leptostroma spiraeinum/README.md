@@ -1,8 +1,7 @@
-Leptostroma herbarum var. spiraeinum Sacc. & Briard, 1888 VARIETY
-=======
+# Leptostroma spiraeinum (Sacc. & Briard) Vestergr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

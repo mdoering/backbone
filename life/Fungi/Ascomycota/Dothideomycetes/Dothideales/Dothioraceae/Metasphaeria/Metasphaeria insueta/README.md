@@ -1,5 +1,4 @@
-Metasphaeria insueta Petr. SPECIES
-=======
+# Metasphaeria insueta Petr. SPECIES
 
 #### Status
 ACCEPTED

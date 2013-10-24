@@ -1,14 +1,13 @@
-Koidzumiella Matubayashi, 1936 GENUS
-=======
+# Tyzzeria Allen, 1936 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Keiô Igaku, 16, 1719 [in Jap. ].
+Arch. Protistenk. , 87, 263.
 
 #### Original name
 null

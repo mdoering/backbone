@@ -1,5 +1,4 @@
-Puttemansia brachytricha Syd., 1925 SPECIES
-=======
+# Puttemansia brachytricha Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

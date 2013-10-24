@@ -1,5 +1,4 @@
-Physalospora nubilosa (Auersw.) Sacc. SPECIES
-=======
+# Physalospora nubilosa (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Turbinaria papenfussii W.R. Taylor SPECIES
-=======
+# Turbinaria papenfussii W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

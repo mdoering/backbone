@@ -1,5 +1,4 @@
-Didymella subgemina (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Didymella subgemina (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

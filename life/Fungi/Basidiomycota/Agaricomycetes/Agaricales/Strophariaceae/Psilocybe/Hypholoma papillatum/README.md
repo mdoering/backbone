@@ -1,5 +1,4 @@
-Hypholoma papillatum Pat. SPECIES
-=======
+# Hypholoma papillatum Pat. SPECIES
 
 #### Status
 ACCEPTED

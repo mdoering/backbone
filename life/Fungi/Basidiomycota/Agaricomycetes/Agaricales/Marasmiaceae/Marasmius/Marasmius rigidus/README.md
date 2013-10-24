@@ -1,5 +1,4 @@
-Marasmius rigidus Mont. SPECIES
-=======
+# Marasmius rigidus Mont. SPECIES
 
 #### Status
 ACCEPTED

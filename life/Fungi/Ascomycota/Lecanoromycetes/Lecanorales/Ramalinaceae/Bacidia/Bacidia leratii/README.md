@@ -1,14 +1,13 @@
-Bacidia le-ratii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Bacidia leratii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 117 (1926)
 
 #### Original name
 Lecidea leratii B. de Lesd.

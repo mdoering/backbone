@@ -1,5 +1,4 @@
-Puccinia sjuzevii Tranzschel & Erem. SPECIES
-=======
+# Puccinia sjuzevii Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

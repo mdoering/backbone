@@ -1,5 +1,4 @@
-Pholiota muricella (Fr.) Bon SPECIES
-=======
+# Pholiota muricella (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amyloporia lenis f. lenis FORM
-=======
+# Cinereomyces lenis (P. Karst.) Spirin, 2005 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trutovye griby Evropeiskoi chasti SSSR i Kavkaza (Moscow) 149 (1941)
+Karstenia 45(2): 106 (2005)
 
 #### Original name
-Amyloporia lenis f. lenis
+Physisporus lenis P. Karst., 1886
 
 ### Remarks
 null

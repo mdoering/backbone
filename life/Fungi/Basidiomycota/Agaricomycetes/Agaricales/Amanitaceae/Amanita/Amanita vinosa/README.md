@@ -1,5 +1,4 @@
-Amanita vinosa Lam. SPECIES
-=======
+# Amanita vinosa Lam. SPECIES
 
 #### Status
 ACCEPTED

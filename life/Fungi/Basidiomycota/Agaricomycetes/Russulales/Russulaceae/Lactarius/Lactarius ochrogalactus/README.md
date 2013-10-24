@@ -1,5 +1,4 @@
-Lactarius ochrogalactus Hashiya SPECIES
-=======
+# Lactarius ochrogalactus Hashiya SPECIES
 
 #### Status
 ACCEPTED

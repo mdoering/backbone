@@ -1,5 +1,4 @@
-Ocellularia efformata (Kremp.) Müll. Arg. SPECIES
-=======
+# Ocellularia efformata (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

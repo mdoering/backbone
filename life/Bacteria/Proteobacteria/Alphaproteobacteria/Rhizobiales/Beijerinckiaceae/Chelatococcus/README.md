@@ -1,5 +1,4 @@
-Chelatococcus Auling, Busse, Egli, El-Banna & Stackebrandt, 1993 GENUS
-=======
+# Chelatococcus Auling, Busse, Egli, El-Banna & Stackebrandt, 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium alpiniaecola Tassi SPECIES
-=======
+# Coniothyrium alpiniaecola Tassi SPECIES
 
 #### Status
 ACCEPTED

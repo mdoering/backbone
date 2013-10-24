@@ -1,5 +1,4 @@
-Mycovellosiella deightonii Katsuki & Y. Harada SPECIES
-=======
+# Mycovellosiella deightonii Katsuki & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

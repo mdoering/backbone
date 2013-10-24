@@ -1,5 +1,4 @@
-Calonectria olivacea Höhn. SPECIES
-=======
+# Calonectria olivacea Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia pringlei Peck SPECIES
-=======
+# Puccinia pringlei Peck SPECIES
 
 #### Status
 ACCEPTED

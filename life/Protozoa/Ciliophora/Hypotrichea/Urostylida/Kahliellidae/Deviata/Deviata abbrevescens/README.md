@@ -1,5 +1,4 @@
-Deviata abbrevescens Eigner, 1995 SPECIES
-=======
+# Deviata abbrevescens Eigner, 1995 SPECIES
 
 #### Status
 ACCEPTED

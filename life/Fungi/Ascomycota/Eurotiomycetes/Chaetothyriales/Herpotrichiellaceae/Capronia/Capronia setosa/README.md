@@ -1,5 +1,4 @@
-Capronia setosa (M.E. Barr) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
-=======
+# Capronia setosa (M.E. Barr) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
 
 #### Status
 ACCEPTED

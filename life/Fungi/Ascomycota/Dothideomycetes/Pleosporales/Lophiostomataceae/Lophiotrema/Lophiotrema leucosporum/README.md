@@ -1,5 +1,4 @@
-Lophiotrema leucosporum (Nitschke) Berl. & Voglino SPECIES
-=======
+# Lophiotrema leucosporum (Nitschke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

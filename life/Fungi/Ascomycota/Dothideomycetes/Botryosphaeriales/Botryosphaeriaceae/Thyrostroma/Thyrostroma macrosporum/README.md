@@ -1,5 +1,4 @@
-Thyrostroma macrosporum Petr. SPECIES
-=======
+# Thyrostroma macrosporum Petr. SPECIES
 
 #### Status
 ACCEPTED

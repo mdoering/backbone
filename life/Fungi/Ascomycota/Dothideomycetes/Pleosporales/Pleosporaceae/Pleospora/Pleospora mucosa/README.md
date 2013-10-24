@@ -1,5 +1,4 @@
-Pleospora mucosa Speg., 1881 SPECIES
-=======
+# Pleospora mucosa Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED

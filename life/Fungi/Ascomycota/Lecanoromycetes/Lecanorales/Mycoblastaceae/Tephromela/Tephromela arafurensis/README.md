@@ -1,5 +1,4 @@
-Tephromela arafurensis Rambold SPECIES
-=======
+# Tephromela arafurensis Rambold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia dispora SPECIES
-=======
+# Microthelia dispora SPECIES
 
 #### Status
 ACCEPTED

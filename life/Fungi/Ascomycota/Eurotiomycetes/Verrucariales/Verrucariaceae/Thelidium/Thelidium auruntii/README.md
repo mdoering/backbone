@@ -1,5 +1,4 @@
-Thelidium auruntii (A. Massal.) Kremp. SPECIES
-=======
+# Thelidium auruntii (A. Massal.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

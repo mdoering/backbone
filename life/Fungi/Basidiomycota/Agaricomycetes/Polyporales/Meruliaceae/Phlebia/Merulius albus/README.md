@@ -1,5 +1,4 @@
-Merulius albus Raddi SPECIES
-=======
+# Merulius albus Raddi SPECIES
 
 #### Status
 ACCEPTED

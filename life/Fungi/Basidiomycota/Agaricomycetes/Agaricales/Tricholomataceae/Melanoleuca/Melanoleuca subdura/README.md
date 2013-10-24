@@ -1,5 +1,4 @@
-Melanoleuca subdura (Banning & Peck) Murrill SPECIES
-=======
+# Melanoleuca subdura (Banning & Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

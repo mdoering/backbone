@@ -1,5 +1,4 @@
-Lecidea sinapisperma (Lam.) Steud. SPECIES
-=======
+# Lecidea sinapisperma (Lam.) Steud. SPECIES
 
 #### Status
 ACCEPTED

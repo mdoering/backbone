@@ -1,5 +1,4 @@
-Burkholderia tropica Reis et al., 2004 SPECIES
-=======
+# Burkholderia tropica Reis et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

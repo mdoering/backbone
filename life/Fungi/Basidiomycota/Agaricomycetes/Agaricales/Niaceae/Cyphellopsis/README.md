@@ -1,5 +1,4 @@
-Cyphellopsis Donk, 1931 GENUS
-=======
+# Cyphellopsis Donk, 1931 GENUS
 
 #### Status
 ACCEPTED

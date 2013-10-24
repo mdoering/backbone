@@ -1,5 +1,4 @@
-Cordyceps novoguineensis Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps novoguineensis Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

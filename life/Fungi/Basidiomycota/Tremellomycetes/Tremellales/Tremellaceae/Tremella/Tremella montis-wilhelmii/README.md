@@ -1,5 +1,4 @@
-Tremella montis-wilhelmii Diederich SPECIES
-=======
+# Tremella montis-wilhelmii Diederich SPECIES
 
 #### Status
 ACCEPTED

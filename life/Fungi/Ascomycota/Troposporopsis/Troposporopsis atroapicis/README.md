@@ -1,5 +1,4 @@
-Troposporopsis atroapicis Whitton, McKenzie & K.D. Hyde, 1999 SPECIES
-=======
+# Troposporopsis atroapicis Whitton, McKenzie & K.D. Hyde, 1999 SPECIES
 
 #### Status
 ACCEPTED

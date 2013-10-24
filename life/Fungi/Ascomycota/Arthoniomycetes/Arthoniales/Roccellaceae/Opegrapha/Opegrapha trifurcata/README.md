@@ -1,5 +1,4 @@
-Opegrapha trifurcata Hepp SPECIES
-=======
+# Opegrapha trifurcata Hepp SPECIES
 
 #### Status
 ACCEPTED

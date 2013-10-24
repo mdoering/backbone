@@ -1,5 +1,4 @@
-Trichodina domergui Wallengren, 1897 SPECIES
-=======
+# Trichodina domergui Wallengren, 1897 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella epipolytrope var. epipolytrope VARIETY
-=======
+# Didymella epipolytrope SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Didymella epipolytrope var. epipolytrope
+Didymella epipolytrope
 
 ### Remarks
 null

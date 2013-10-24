@@ -1,5 +1,4 @@
-Pseudopyrenula pustulata Vain. SPECIES
-=======
+# Pseudopyrenula pustulata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia olivacea Bagl. & Carestia SPECIES
-=======
+# Aspicilia olivacea Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

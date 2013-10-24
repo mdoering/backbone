@@ -1,5 +1,4 @@
-Phyllosticta coccolobae f. coccolobae FORM
-=======
+# Phyllosticta coccolobae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annual Report of the Missouri Botanical Garden, St. Louis 9: 118 (1898)
 
 #### Original name
-Phyllosticta coccolobae f. coccolobae
+Phyllosticta coccolobae Ellis & Everh.
 
 ### Remarks
 null

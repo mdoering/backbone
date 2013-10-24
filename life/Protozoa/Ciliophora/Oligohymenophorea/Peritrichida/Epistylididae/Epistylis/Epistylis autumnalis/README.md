@@ -1,5 +1,4 @@
-Epistylis autumnalis Stokes, 1889 SPECIES
-=======
+# Epistylis autumnalis Stokes, 1889 SPECIES
 
 #### Status
 ACCEPTED

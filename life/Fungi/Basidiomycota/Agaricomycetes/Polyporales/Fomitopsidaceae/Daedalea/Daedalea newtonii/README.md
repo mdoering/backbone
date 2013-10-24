@@ -1,8 +1,7 @@
-Daedalea newtoni Bres. & Roum. SPECIES
-=======
+# Daedalea newtonii Bres. & Roum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Daedalea newtoni Bres. & Roum.
+Daedalea newtonii Bres. & Roum.
 
 ### Remarks
 null

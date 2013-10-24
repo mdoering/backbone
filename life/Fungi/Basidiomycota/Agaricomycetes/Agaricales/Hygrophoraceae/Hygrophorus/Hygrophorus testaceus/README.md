@@ -1,5 +1,4 @@
-Hygrophorus testaceus Lj.N. Vassiljeva SPECIES
-=======
+# Hygrophorus testaceus Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

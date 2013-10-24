@@ -1,5 +1,4 @@
-Mycosphaerella gleicheniae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Mycosphaerella gleicheniae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

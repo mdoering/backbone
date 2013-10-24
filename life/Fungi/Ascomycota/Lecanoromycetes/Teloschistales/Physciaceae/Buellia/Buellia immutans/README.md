@@ -1,5 +1,4 @@
-Buellia immutans (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia immutans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

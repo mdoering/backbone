@@ -1,5 +1,4 @@
-Phillipsia lutea Denison, 1969 SPECIES
-=======
+# Phillipsia lutea Denison, 1969 SPECIES
 
 #### Status
 ACCEPTED

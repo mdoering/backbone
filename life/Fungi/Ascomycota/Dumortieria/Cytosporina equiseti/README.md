@@ -1,5 +1,4 @@
-Cytosporina equiseti Maire SPECIES
-=======
+# Cytosporina equiseti Maire SPECIES
 
 #### Status
 ACCEPTED

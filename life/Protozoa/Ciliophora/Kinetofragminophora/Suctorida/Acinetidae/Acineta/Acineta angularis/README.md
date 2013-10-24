@@ -1,5 +1,4 @@
-Acineta angularis SPECIES
-=======
+# Acineta angularis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenotila nivalis Lagerh., 1892 SPECIES
-=======
+# Selenotila nivalis Lagerh., 1892 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium mollipilium L.M. Ames, 1950 SPECIES
-=======
+# Chaetomium mollipilium L.M. Ames, 1950 SPECIES
 
 #### Status
 ACCEPTED

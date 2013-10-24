@@ -1,5 +1,4 @@
-Peyritschiella subinaequilatera Speg. SPECIES
-=======
+# Peyritschiella subinaequilatera Speg. SPECIES
 
 #### Status
 ACCEPTED

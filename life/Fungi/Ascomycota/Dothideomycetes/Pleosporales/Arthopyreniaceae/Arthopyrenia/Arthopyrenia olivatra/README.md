@@ -1,5 +1,4 @@
-Arthopyrenia olivatra Norman SPECIES
-=======
+# Arthopyrenia olivatra Norman SPECIES
 
 #### Status
 ACCEPTED

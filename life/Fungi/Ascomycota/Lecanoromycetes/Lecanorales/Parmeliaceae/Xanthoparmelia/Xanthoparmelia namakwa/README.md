@@ -1,5 +1,4 @@
-Xanthoparmelia namakwa Hale SPECIES
-=======
+# Xanthoparmelia namakwa Hale SPECIES
 
 #### Status
 ACCEPTED

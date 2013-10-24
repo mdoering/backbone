@@ -1,5 +1,4 @@
-Doratacantha Haeckel, 1881 GENUS
-=======
+# Doratacantha Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

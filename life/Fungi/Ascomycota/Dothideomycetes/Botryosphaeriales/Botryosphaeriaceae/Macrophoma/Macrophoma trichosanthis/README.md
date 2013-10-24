@@ -1,5 +1,4 @@
-Macrophoma trichosanthis Syd. & P. Syd. SPECIES
-=======
+# Macrophoma trichosanthis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

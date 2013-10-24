@@ -1,5 +1,4 @@
-Dermatea flavocinerea W. Phillips SPECIES
-=======
+# Dermatea flavocinerea W. Phillips SPECIES
 
 #### Status
 ACCEPTED

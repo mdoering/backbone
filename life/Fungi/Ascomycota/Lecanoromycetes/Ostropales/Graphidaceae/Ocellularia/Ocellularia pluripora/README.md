@@ -1,5 +1,4 @@
-Ocellularia pluripora Hale SPECIES
-=======
+# Ocellularia pluripora Hale SPECIES
 
 #### Status
 ACCEPTED

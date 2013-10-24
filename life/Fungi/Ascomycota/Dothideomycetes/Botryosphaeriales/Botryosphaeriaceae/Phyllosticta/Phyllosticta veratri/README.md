@@ -1,5 +1,4 @@
-Phyllosticta veratri Maire SPECIES
-=======
+# Phyllosticta veratri Maire SPECIES
 
 #### Status
 ACCEPTED

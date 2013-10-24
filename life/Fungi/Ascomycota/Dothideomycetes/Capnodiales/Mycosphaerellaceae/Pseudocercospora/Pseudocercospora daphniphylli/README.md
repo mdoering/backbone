@@ -1,5 +1,4 @@
-Pseudocercospora daphniphylli (Katsuki & Ts. Kobay.) Deighton SPECIES
-=======
+# Pseudocercospora daphniphylli (Katsuki & Ts. Kobay.) Deighton SPECIES
 
 #### Status
 ACCEPTED

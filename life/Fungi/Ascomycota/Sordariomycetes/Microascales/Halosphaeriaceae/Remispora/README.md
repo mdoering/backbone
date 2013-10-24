@@ -1,5 +1,4 @@
-Remispora Linder GENUS
-=======
+# Remispora Linder GENUS
 
 #### Status
 ACCEPTED

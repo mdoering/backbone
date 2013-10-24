@@ -1,14 +1,13 @@
-Biatora pyrophthalma Mont. SPECIES
-=======
+# Coenogonium pyrophthalmum (Mont.) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 20: 357 (1843)
+in Rivas Plata, Lücking, Aptroot, Sipman, Chaves, Umaña & Lizano, Fungal Diversity 23: 298 (2006)
 
 #### Original name
 Biatora pyrophthalma Mont.

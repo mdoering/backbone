@@ -1,8 +1,7 @@
-Frontonia pallida Czapik, 1979 SPECIES
-=======
+# Parafrontonia pallida Czapik, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

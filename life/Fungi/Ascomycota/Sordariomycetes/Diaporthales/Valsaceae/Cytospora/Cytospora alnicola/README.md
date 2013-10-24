@@ -1,5 +1,4 @@
-Cytospora alnicola Höhn. SPECIES
-=======
+# Cytospora alnicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

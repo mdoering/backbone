@@ -1,5 +1,4 @@
-Rhynchosphaeria chaetosporioides Rehm SPECIES
-=======
+# Rhynchosphaeria chaetosporioides Rehm SPECIES
 
 #### Status
 ACCEPTED

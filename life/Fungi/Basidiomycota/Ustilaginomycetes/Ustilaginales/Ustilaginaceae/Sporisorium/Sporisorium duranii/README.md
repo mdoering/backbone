@@ -1,14 +1,13 @@
-Lundquistia duranii (Vánky) Vánky, 2004 SPECIES
-=======
+# Sporisorium duranii (Vánky) Vánky & Cunningt., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungal Diversity 17: 165 (2004)
+Mycol. Balcanica 2(2): 96 (2005)
 
 #### Original name
 Ustilago duranii Vánky, 2004

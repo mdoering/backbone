@@ -1,5 +1,4 @@
-Malassezia japonica Sugita, M. Takash., M. Kodama, Tsuboi & A. Nishikawa, 2003 SPECIES
-=======
+# Malassezia japonica Sugita, M. Takash., M. Kodama, Tsuboi & A. Nishikawa, 2003 SPECIES
 
 #### Status
 ACCEPTED

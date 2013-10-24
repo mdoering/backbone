@@ -1,5 +1,4 @@
-Cercospora typhonii Munjal, Lall & Chona SPECIES
-=======
+# Cercospora typhonii Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

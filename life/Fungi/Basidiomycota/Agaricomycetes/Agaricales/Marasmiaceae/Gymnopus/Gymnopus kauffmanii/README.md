@@ -1,5 +1,4 @@
-Gymnopus kauffmanii (Halling) Halling SPECIES
-=======
+# Gymnopus kauffmanii (Halling) Halling SPECIES
 
 #### Status
 ACCEPTED

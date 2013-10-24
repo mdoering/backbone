@@ -1,17 +1,16 @@
-Penicillium eberhardti T. Yokoy. SPECIES
-=======
+# Penicillium eberhardtii T. Yokoy. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Kobayasi & Yokoyama, Bull. natn. Sci. Mus. , Tokyo, B 7(1): 20 (1981)
 
 #### Original name
-Penicillium eberhardti T. Yokoy.
+Penicillium eberhardtii T. Yokoy.
 
 ### Remarks
 null

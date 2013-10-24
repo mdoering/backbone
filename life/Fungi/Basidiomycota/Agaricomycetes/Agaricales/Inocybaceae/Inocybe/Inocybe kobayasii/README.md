@@ -1,5 +1,4 @@
-Inocybe kobayasii Hongo SPECIES
-=======
+# Inocybe kobayasii Hongo SPECIES
 
 #### Status
 ACCEPTED

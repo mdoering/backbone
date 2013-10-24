@@ -1,8 +1,7 @@
-Dasyscypha illotus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Dasyscyphus illotus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

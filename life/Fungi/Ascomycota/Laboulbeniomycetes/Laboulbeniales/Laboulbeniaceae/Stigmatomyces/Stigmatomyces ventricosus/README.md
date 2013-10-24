@@ -1,5 +1,4 @@
-Stigmatomyces ventricosus Thaxt. SPECIES
-=======
+# Stigmatomyces ventricosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hispidocalyptella E. Horak & Desjardin GENUS
-=======
+# Hispidocalyptella E. Horak & Desjardin GENUS
 
 #### Status
 ACCEPTED

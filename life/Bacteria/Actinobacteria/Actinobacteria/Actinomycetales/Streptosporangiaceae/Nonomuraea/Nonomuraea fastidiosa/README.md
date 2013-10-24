@@ -1,5 +1,4 @@
-Nonomuraea fastidiosa (Soina et al., 1975) Zhang et al., 1998 SPECIES
-=======
+# Nonomuraea fastidiosa (Soina et al., 1975) Zhang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

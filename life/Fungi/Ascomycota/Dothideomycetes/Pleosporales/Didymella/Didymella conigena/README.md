@@ -1,5 +1,4 @@
-Didymella conigena Höhn. SPECIES
-=======
+# Didymella conigena Höhn. SPECIES
 
 #### Status
 ACCEPTED

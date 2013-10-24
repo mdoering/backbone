@@ -1,5 +1,4 @@
-Macroplodia seriata (Peck) Kuntze SPECIES
-=======
+# Macroplodia seriata (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

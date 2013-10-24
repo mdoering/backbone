@@ -1,5 +1,4 @@
-Anthostomella longa B.S. Lu, Dalisay & K.D. Hyde, 2000 SPECIES
-=======
+# Anthostomella longa B.S. Lu, Dalisay & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

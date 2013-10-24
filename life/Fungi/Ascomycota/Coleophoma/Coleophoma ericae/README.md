@@ -1,5 +1,4 @@
-Coleophoma ericae Höhn. SPECIES
-=======
+# Coleophoma ericae Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterodinium cingulata (O. Wetzel, 1933) Below, 1981 SPECIES
-=======
+# Pterodinium cingulata (O. Wetzel, 1933) Below, 1981 SPECIES
 
 #### Status
 ACCEPTED

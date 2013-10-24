@@ -1,5 +1,4 @@
-Xanthochrous gilvicolor (Lloyd) Teng SPECIES
-=======
+# Xanthochrous gilvicolor (Lloyd) Teng SPECIES
 
 #### Status
 ACCEPTED

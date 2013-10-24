@@ -1,5 +1,4 @@
-Ramaria pumila Schild, 1992 SPECIES
-=======
+# Ramaria pumila Schild, 1992 SPECIES
 
 #### Status
 ACCEPTED

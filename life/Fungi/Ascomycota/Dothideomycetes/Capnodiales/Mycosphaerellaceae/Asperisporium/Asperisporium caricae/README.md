@@ -1,14 +1,13 @@
-Cercospora caricae Speg., 1886 SPECIES
-=======
+# Asperisporium caricae (Speg.) Maubl., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 22(4): 215-216 [no. 409, reprint pages 168-169] (1886)
+Lavoura 16: 207 (1913)
 
 #### Original name
 Cercospora caricae Speg., 1886

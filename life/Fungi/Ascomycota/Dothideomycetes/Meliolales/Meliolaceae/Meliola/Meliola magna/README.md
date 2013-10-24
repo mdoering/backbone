@@ -1,5 +1,4 @@
-Meliola magna F. Stevens SPECIES
-=======
+# Meliola magna F. Stevens SPECIES
 
 #### Status
 ACCEPTED

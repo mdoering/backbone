@@ -1,5 +1,4 @@
-Amanita pseudoverna (Murrill) Murrill SPECIES
-=======
+# Amanita pseudoverna (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

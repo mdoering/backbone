@@ -1,5 +1,4 @@
-Paramoebidium papillatum Lichtw. & M.C. Williams, 1992 SPECIES
-=======
+# Paramoebidium papillatum Lichtw. & M.C. Williams, 1992 SPECIES
 
 #### Status
 ACCEPTED

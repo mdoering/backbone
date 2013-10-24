@@ -1,5 +1,4 @@
-Polytrichiella GENUS
-=======
+# Polytrichiella GENUS
 
 #### Status
 ACCEPTED

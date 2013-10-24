@@ -1,5 +1,4 @@
-Septoria loefgreni F. Noack SPECIES
-=======
+# Septoria loefgreni F. Noack SPECIES
 
 #### Status
 ACCEPTED

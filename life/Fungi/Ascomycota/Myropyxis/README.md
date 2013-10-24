@@ -1,5 +1,4 @@
-Myropyxis Ces. ex Rabenh. GENUS
-=======
+# Myropyxis Ces. ex Rabenh. GENUS
 
 #### Status
 ACCEPTED

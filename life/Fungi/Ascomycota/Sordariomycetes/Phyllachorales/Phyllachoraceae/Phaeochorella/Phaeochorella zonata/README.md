@@ -1,5 +1,4 @@
-Phaeochorella zonata Petr., 1947 SPECIES
-=======
+# Phaeochorella zonata Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

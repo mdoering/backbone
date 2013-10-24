@@ -1,5 +1,4 @@
-Sphaerella mygindae G. Winter SPECIES
-=======
+# Sphaerella mygindae G. Winter SPECIES
 
 #### Status
 ACCEPTED

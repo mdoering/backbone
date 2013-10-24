@@ -1,5 +1,4 @@
-Macrosporium tabacinum Ellis & Everh. SPECIES
-=======
+# Macrosporium tabacinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria monticola R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Dactylaria monticola R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

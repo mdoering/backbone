@@ -1,5 +1,4 @@
-Chrysomyxa qilianensis Y.C. Wang, X.B. Wu & B. Li SPECIES
-=======
+# Chrysomyxa qilianensis Y.C. Wang, X.B. Wu & B. Li SPECIES
 
 #### Status
 ACCEPTED

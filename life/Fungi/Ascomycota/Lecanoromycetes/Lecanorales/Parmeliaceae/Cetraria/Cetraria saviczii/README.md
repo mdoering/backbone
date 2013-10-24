@@ -1,5 +1,4 @@
-Cetraria saviczii Oxner & Rass. SPECIES
-=======
+# Cetraria saviczii Oxner & Rass. SPECIES
 
 #### Status
 ACCEPTED

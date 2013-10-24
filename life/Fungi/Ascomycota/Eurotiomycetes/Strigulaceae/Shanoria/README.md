@@ -1,5 +1,4 @@
-Shanoria GENUS
-=======
+# Shanoria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus coniophorus Berk. SPECIES
-=======
+# Agaricus coniophorus Berk. SPECIES
 
 #### Status
 ACCEPTED

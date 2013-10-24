@@ -1,14 +1,13 @@
-Thelotrema megalophthalmum Müll. Arg. SPECIES
-=======
+# Chroodiscus megalophthalmus (Müll. Arg.) Vezda & Kantvilas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 65: 500 (1882)
+in Vezda, Lichenes Rariores Exsiccati (Brno), Fascicle <b>3</b> (nos 21-30) 2 (1992)
 
 #### Original name
 Thelotrema megalophthalmum Müll. Arg.

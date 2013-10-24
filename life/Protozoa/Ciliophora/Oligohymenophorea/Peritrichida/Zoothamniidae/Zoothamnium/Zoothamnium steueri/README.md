@@ -1,5 +1,4 @@
-Zoothamnium steueri Kahl, 1935 SPECIES
-=======
+# Zoothamnium steueri Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

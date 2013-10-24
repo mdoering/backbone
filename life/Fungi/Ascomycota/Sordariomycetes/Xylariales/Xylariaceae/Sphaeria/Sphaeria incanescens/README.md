@@ -1,5 +1,4 @@
-Sphaeria incanescens Schwein. SPECIES
-=======
+# Sphaeria incanescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

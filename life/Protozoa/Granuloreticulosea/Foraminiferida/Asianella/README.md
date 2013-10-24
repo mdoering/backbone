@@ -1,5 +1,4 @@
-Asianella Bugrova, 1990 GENUS
-=======
+# Asianella Bugrova, 1990 GENUS
 
 #### Status
 ACCEPTED

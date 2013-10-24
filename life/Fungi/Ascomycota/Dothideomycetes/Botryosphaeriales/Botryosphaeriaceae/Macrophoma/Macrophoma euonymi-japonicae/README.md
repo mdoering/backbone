@@ -1,5 +1,4 @@
-Macrophoma euonymi-japonicae Siemaszko SPECIES
-=======
+# Macrophoma euonymi-japonicae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

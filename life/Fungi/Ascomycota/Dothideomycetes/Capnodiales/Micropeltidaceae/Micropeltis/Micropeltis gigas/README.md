@@ -1,5 +1,4 @@
-Micropeltis gigas Bat. & H. Maia SPECIES
-=======
+# Micropeltis gigas Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

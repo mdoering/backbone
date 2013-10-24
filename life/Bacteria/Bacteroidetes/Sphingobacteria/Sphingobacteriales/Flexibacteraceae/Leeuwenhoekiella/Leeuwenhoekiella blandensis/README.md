@@ -1,5 +1,4 @@
-Leeuwenhoekiella blandensis Pinhassi et al., 2006 SPECIES
-=======
+# Leeuwenhoekiella blandensis Pinhassi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

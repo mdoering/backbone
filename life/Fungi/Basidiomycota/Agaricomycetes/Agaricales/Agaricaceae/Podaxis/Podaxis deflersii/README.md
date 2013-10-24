@@ -1,8 +1,7 @@
-Podaxon deflersii Pat. SPECIES
-=======
+# Podaxis deflersii Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon deflersii Pat.
+Podaxis deflersii Pat.
 
 ### Remarks
 null

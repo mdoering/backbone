@@ -1,5 +1,4 @@
-Rhizocarpon candidum C.W. Dodge SPECIES
-=======
+# Rhizocarpon candidum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

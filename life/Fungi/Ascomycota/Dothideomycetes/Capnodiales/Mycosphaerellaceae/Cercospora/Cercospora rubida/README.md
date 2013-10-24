@@ -1,5 +1,4 @@
-Cercospora rubida A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora rubida A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

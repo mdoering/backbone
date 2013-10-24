@@ -1,5 +1,4 @@
-Calycellina rivelinensis Dennis, 1971 SPECIES
-=======
+# Calycellina rivelinensis Dennis, 1971 SPECIES
 
 #### Status
 ACCEPTED

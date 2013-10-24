@@ -1,5 +1,4 @@
-Pyrenopsis negans Vain. SPECIES
-=======
+# Pyrenopsis negans Vain. SPECIES
 
 #### Status
 ACCEPTED

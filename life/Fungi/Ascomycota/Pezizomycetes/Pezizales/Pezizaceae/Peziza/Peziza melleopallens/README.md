@@ -1,5 +1,4 @@
-Peziza melleopallens P. Karst. SPECIES
-=======
+# Peziza melleopallens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

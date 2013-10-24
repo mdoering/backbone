@@ -1,5 +1,4 @@
-Clypeispora angustifoliorum A.W. Ramaley, 1991 SPECIES
-=======
+# Clypeispora angustifoliorum A.W. Ramaley, 1991 SPECIES
 
 #### Status
 ACCEPTED

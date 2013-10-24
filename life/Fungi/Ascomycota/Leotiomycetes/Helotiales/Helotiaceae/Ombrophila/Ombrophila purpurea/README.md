@@ -1,14 +1,13 @@
-Coryne purpurea Fuckel, 1870 SPECIES
-=======
+# Ombrophila purpurea (Fuckel) W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 284 (1870)
+Man. Brit. Discomyc. (London) 324 (1887)
 
 #### Original name
 Coryne purpurea Fuckel, 1870

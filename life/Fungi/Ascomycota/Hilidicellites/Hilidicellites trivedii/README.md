@@ -1,5 +1,4 @@
-Hilidicellites trivedii Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites trivedii Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

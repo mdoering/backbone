@@ -1,5 +1,4 @@
-Ophiostoma sejunctum M. Villarreal, Arenal, V. Rubio & De Troya SPECIES
-=======
+# Ophiostoma sejunctum M. Villarreal, Arenal, V. Rubio & De Troya SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subulispora biappendiculata Marvanová SPECIES
-=======
+# Subulispora biappendiculata Marvanová SPECIES
 
 #### Status
 ACCEPTED

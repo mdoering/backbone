@@ -1,5 +1,4 @@
-Asteridiella lophopetali Hosag. & Raghu SPECIES
-=======
+# Asteridiella lophopetali Hosag. & Raghu SPECIES
 
 #### Status
 ACCEPTED

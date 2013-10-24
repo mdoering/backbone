@@ -1,5 +1,4 @@
-Parasterina acanthopoda (Speg.) Bat. & H. Maia SPECIES
-=======
+# Parasterina acanthopoda (Speg.) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

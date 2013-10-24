@@ -1,5 +1,4 @@
-Peltigera fuegiensis (Tuck.) C.W. Dodge SPECIES
-=======
+# Peltigera fuegiensis (Tuck.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

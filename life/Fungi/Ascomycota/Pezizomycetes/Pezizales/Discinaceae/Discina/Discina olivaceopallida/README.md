@@ -1,5 +1,4 @@
-Discina olivaceopallida P. Karst. SPECIES
-=======
+# Discina olivaceopallida P. Karst. SPECIES
 
 #### Status
 ACCEPTED

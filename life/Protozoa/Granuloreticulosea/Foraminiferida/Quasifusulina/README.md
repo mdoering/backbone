@@ -1,5 +1,4 @@
-Quasifusulina Chen, 1934 GENUS
-=======
+# Quasifusulina Chen, 1934 GENUS
 
 #### Status
 ACCEPTED

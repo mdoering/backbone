@@ -1,5 +1,4 @@
-Phyllosticta spartinae Brunaud SPECIES
-=======
+# Phyllosticta spartinae Brunaud SPECIES
 
 #### Status
 ACCEPTED

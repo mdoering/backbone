@@ -1,5 +1,4 @@
-Merulius interruptus Bres. SPECIES
-=======
+# Merulius interruptus Bres. SPECIES
 
 #### Status
 ACCEPTED

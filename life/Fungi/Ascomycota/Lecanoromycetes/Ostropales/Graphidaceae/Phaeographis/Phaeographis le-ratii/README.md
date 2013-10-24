@@ -1,5 +1,4 @@
-Phaeographis le-ratii B. de Lesd. SPECIES
-=======
+# Phaeographis le-ratii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

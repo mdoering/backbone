@@ -1,5 +1,4 @@
-Lepiota polygloma Berk. & Broome SPECIES
-=======
+# Lepiota polygloma Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

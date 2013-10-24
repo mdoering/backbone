@@ -1,5 +1,4 @@
-Lyngbya lutea (C. Agardh) Areschoug SPECIES
-=======
+# Lyngbya lutea (C. Agardh) Areschoug SPECIES
 
 #### Status
 ACCEPTED

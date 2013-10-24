@@ -1,5 +1,4 @@
-Cryptosporella alnicola (Höhn.) L.C. Mejia & Castl. SPECIES
-=======
+# Cryptosporella alnicola (Höhn.) L.C. Mejia & Castl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria aurantiella Speg. SPECIES
-=======
+# Nectria aurantiella Speg. SPECIES
 
 #### Status
 ACCEPTED

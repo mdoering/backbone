@@ -1,5 +1,4 @@
-Anzia aterrima (Kremp. ex Anzi) Garov. SPECIES
-=======
+# Anzia aterrima (Kremp. ex Anzi) Garov. SPECIES
 
 #### Status
 ACCEPTED

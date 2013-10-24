@@ -1,5 +1,4 @@
-Byssolecania scotia Vain. SPECIES
-=======
+# Byssolecania scotia Vain. SPECIES
 
 #### Status
 ACCEPTED

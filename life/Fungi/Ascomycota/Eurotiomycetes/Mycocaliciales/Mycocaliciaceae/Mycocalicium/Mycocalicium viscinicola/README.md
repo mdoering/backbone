@@ -1,5 +1,4 @@
-Mycocalicium viscinicola A. Funk & Kuijt SPECIES
-=======
+# Mycocalicium viscinicola A. Funk & Kuijt SPECIES
 
 #### Status
 ACCEPTED

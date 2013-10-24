@@ -1,5 +1,4 @@
-Nectria confusa Höhn. SPECIES
-=======
+# Nectria confusa Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Alytosporium fuscum (Link) Link, 1824 SPECIES
-=======
+# Trichosporum fuscum (Link) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Willdenow, Willd. , Sp. pl. , Edn 4 6(1): 23 (1824)
+Michelia 2(no. 8): 640 (1882)
 
 #### Original name
 Sporotrichum fuscum Link, 1809

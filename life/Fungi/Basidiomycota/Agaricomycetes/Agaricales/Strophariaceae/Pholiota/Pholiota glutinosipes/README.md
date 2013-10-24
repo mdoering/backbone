@@ -1,5 +1,4 @@
-Pholiota glutinosipes Singer SPECIES
-=======
+# Pholiota glutinosipes Singer SPECIES
 
 #### Status
 ACCEPTED

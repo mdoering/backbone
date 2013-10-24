@@ -1,5 +1,4 @@
-Stigmina caespitulosa (Ellis & Everh.) Pound & Clem. SPECIES
-=======
+# Stigmina caespitulosa (Ellis & Everh.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

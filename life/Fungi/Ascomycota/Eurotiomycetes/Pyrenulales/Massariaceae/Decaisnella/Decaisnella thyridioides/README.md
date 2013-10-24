@@ -1,5 +1,4 @@
-Decaisnella thyridioides (Sacc. & Speg.) M.E. Barr SPECIES
-=======
+# Decaisnella thyridioides (Sacc. & Speg.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

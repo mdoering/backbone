@@ -1,5 +1,4 @@
-Pyrenophora kugitangi Kurbans. SPECIES
-=======
+# Pyrenophora kugitangi Kurbans. SPECIES
 
 #### Status
 ACCEPTED

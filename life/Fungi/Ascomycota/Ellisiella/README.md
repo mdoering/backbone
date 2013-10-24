@@ -1,5 +1,4 @@
-Ellisiella Batista, 1956 GENUS
-=======
+# Ellisiella Batista, 1956 GENUS
 
 #### Status
 ACCEPTED

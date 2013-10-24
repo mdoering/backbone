@@ -1,5 +1,4 @@
-Lecanora crocantha Nyl. SPECIES
-=======
+# Lecanora crocantha Nyl. SPECIES
 
 #### Status
 ACCEPTED

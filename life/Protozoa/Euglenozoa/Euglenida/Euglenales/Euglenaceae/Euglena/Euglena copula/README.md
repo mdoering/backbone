@@ -1,5 +1,4 @@
-Euglena copula Schiller SPECIES
-=======
+# Euglena copula Schiller SPECIES
 
 #### Status
 ACCEPTED

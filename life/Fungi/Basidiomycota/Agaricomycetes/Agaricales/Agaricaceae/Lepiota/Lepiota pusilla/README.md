@@ -1,5 +1,4 @@
-Lepiota pusilla Speg. SPECIES
-=======
+# Lepiota pusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

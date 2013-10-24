@@ -1,5 +1,4 @@
-Eutypa paraguaya Speg. SPECIES
-=======
+# Eutypa paraguaya Speg. SPECIES
 
 #### Status
 ACCEPTED

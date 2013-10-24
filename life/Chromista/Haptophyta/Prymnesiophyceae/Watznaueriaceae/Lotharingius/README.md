@@ -1,14 +1,13 @@
-Striatococcus Prins, 1969 GENUS
-=======
+# Lotharingius D. Noël, 1973 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Bull. Mus. Natn. Hist. Nat. Paris (Sci. Terre) No. 14: 114.
 
 #### Original name
 null

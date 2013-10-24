@@ -1,5 +1,4 @@
-Aecidium fluggeae Doidge SPECIES
-=======
+# Aecidium fluggeae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella aegopodii (Curr.) Petr. SPECIES
-=======
+# Asteromella aegopodii (Curr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

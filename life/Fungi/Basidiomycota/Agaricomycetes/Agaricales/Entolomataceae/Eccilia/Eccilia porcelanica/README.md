@@ -1,5 +1,4 @@
-Eccilia porcelanica Dennis SPECIES
-=======
+# Eccilia porcelanica Dennis SPECIES
 
 #### Status
 ACCEPTED

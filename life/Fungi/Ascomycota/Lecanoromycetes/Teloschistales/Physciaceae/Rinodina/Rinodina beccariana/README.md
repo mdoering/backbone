@@ -1,17 +1,16 @@
-Rinodina beccariana var. beccariana VARIETY
-=======
+# Rinodina beccariana Bagl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 3: 239 (1871)
 
 #### Original name
-Rinodina beccariana var. beccariana
+Rinodina beccariana Bagl.
 
 ### Remarks
 null

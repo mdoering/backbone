@@ -1,5 +1,4 @@
-Pleonectria coffeicola Zimm. SPECIES
-=======
+# Pleonectria coffeicola Zimm. SPECIES
 
 #### Status
 ACCEPTED

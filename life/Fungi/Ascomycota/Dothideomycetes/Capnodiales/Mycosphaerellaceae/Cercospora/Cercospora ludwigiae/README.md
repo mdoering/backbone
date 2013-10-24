@@ -1,5 +1,4 @@
-Cercospora ludwigiae var. ludwigiae VARIETY
-=======
+# Cercospora ludwigiae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 8(2): 58 (1892)
 
 #### Original name
-Cercospora ludwigiae var. ludwigiae
+Cercospora ludwigiae G.F. Atk.
 
 ### Remarks
 null

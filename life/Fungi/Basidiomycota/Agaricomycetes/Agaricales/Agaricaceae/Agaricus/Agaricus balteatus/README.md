@@ -1,5 +1,4 @@
-Agaricus balteatus Fr. SPECIES
-=======
+# Agaricus balteatus Fr. SPECIES
 
 #### Status
 ACCEPTED

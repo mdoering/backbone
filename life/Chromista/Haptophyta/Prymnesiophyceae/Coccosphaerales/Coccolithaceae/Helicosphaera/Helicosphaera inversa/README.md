@@ -1,5 +1,4 @@
-Helicosphaera inversa Gartner, 1980 SPECIES
-=======
+# Helicosphaera inversa Gartner, 1980 SPECIES
 
 #### Status
 ACCEPTED

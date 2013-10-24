@@ -1,5 +1,4 @@
-Lasiosphaeria calligoni Kravtzev SPECIES
-=======
+# Lasiosphaeria calligoni Kravtzev SPECIES
 
 #### Status
 ACCEPTED

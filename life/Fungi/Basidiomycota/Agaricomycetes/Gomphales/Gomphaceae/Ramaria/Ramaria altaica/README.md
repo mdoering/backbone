@@ -1,5 +1,4 @@
-Ramaria altaica Schwarzman & Philimonova, 1964 SPECIES
-=======
+# Ramaria altaica Schwarzman & Philimonova, 1964 SPECIES
 
 #### Status
 ACCEPTED

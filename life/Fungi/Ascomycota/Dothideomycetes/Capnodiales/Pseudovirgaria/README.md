@@ -1,5 +1,4 @@
-Pseudovirgaria H.D. Shin, U. Braun, Arzanlou & Crous GENUS
-=======
+# Pseudovirgaria H.D. Shin, U. Braun, Arzanlou & Crous GENUS
 
 #### Status
 ACCEPTED

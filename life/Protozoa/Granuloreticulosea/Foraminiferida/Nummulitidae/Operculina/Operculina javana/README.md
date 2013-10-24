@@ -1,5 +1,4 @@
-Operculina javana Verbeek SPECIES
-=======
+# Operculina javana Verbeek SPECIES
 
 #### Status
 ACCEPTED

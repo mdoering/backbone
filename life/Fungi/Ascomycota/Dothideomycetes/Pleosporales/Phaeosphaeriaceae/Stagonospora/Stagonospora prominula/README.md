@@ -1,5 +1,4 @@
-Stagonospora prominula (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Stagonospora prominula (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

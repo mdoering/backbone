@@ -1,5 +1,4 @@
-Galerula inculta (Peck) Murrill SPECIES
-=======
+# Galerula inculta (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

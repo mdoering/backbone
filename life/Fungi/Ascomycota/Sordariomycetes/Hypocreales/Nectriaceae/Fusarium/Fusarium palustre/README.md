@@ -1,5 +1,4 @@
-Fusarium palustre W.H. Elmer & R.E. Marra, 2011 SPECIES
-=======
+# Fusarium palustre W.H. Elmer & R.E. Marra, 2011 SPECIES
 
 #### Status
 ACCEPTED

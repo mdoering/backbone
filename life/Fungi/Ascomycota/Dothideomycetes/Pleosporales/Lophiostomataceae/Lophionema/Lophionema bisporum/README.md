@@ -1,5 +1,4 @@
-Lophionema bisporum Cif. SPECIES
-=======
+# Lophionema bisporum Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca rejecta (Th. Fr.) H. Olivier SPECIES
-=======
+# Caloplaca rejecta (Th. Fr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

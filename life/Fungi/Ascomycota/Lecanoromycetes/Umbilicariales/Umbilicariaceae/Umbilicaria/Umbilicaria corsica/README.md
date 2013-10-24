@@ -1,5 +1,4 @@
-Umbilicaria corsica Frey SPECIES
-=======
+# Umbilicaria corsica Frey SPECIES
 
 #### Status
 ACCEPTED

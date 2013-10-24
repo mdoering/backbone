@@ -1,5 +1,4 @@
-Tikhinella Bykova, 1952 GENUS
-=======
+# Tikhinella Bykova, 1952 GENUS
 
 #### Status
 ACCEPTED

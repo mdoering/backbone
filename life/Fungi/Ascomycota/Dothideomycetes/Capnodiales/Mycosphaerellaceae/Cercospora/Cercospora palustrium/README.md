@@ -1,5 +1,4 @@
-Cercospora palustrium Chupp SPECIES
-=======
+# Cercospora palustrium Chupp SPECIES
 
 #### Status
 ACCEPTED

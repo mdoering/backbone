@@ -1,5 +1,4 @@
-Enterobryus halophilus Cronin & T.W. Johnson, 1958 SPECIES
-=======
+# Enterobryus halophilus Cronin & T.W. Johnson, 1958 SPECIES
 
 #### Status
 ACCEPTED

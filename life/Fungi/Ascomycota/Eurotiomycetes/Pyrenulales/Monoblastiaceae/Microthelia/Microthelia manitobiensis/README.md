@@ -1,5 +1,4 @@
-Microthelia manitobiensis (Ellis & Everh.) Kunze SPECIES
-=======
+# Microthelia manitobiensis (Ellis & Everh.) Kunze SPECIES
 
 #### Status
 ACCEPTED

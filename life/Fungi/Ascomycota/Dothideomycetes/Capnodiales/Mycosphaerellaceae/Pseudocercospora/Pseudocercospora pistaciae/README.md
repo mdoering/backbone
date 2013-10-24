@@ -1,5 +1,4 @@
-Pseudocercospora pistaciae (Chupp) Crous & U. Braun SPECIES
-=======
+# Pseudocercospora pistaciae (Chupp) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

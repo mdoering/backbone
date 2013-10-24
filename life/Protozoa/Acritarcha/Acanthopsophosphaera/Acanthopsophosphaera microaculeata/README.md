@@ -1,5 +1,4 @@
-Acanthopsophosphaera microaculeata Chibrikova, 1972 SPECIES
-=======
+# Acanthopsophosphaera microaculeata Chibrikova, 1972 SPECIES
 
 #### Status
 ACCEPTED

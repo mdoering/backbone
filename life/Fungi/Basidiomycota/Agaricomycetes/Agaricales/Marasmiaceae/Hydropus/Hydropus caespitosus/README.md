@@ -1,5 +1,4 @@
-Hydropus caespitosus Singer SPECIES
-=======
+# Hydropus caespitosus Singer SPECIES
 
 #### Status
 ACCEPTED

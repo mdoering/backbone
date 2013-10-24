@@ -1,5 +1,4 @@
-Calloria austriaca Höhn. SPECIES
-=======
+# Calloria austriaca Höhn. SPECIES
 
 #### Status
 ACCEPTED

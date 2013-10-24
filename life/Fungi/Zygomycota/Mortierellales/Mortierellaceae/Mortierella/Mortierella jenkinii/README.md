@@ -1,17 +1,16 @@
-Mortierella bainieri var. jenkini A.L. Sm. VARIETY
-=======
+# Mortierella jenkinii (A.L. Sm.) Naumov, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Opred. Mukor. , Edn 2 97 (1935)
 
 #### Original name
-Mortierella bainieri var. jenkini A.L. Sm.
+Mortierella bainieri var. jenkinii A.L. Sm., 1898
 
 ### Remarks
 null

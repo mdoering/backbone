@@ -1,5 +1,4 @@
-Marasmius cinctus Berk. ex Cooke SPECIES
-=======
+# Marasmius cinctus Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

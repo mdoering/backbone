@@ -1,5 +1,4 @@
-Leucogaster anomalus (Peck) Zeller & C.W. Dodge SPECIES
-=======
+# Leucogaster anomalus (Peck) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

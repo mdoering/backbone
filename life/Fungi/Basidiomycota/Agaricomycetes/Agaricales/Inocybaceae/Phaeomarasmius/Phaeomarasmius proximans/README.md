@@ -1,5 +1,4 @@
-Phaeomarasmius proximans (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Phaeomarasmius proximans (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

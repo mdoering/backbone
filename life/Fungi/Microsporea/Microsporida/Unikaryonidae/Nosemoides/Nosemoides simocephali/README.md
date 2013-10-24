@@ -1,5 +1,4 @@
-Nosemoides simocephali SPECIES
-=======
+# Nosemoides simocephali SPECIES
 
 #### Status
 ACCEPTED

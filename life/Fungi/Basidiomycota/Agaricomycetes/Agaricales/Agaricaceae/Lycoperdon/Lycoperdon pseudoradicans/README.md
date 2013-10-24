@@ -1,5 +1,4 @@
-Lycoperdon pseudoradicans Lloyd SPECIES
-=======
+# Lycoperdon pseudoradicans Lloyd SPECIES
 
 #### Status
 ACCEPTED

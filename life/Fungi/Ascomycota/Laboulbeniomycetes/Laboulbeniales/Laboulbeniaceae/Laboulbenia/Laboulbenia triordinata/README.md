@@ -1,5 +1,4 @@
-Laboulbenia triordinata Thaxt. SPECIES
-=======
+# Laboulbenia triordinata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

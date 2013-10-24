@@ -1,5 +1,4 @@
-Fungus ocreatus (Holmsk.) Kuntze SPECIES
-=======
+# Fungus ocreatus (Holmsk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

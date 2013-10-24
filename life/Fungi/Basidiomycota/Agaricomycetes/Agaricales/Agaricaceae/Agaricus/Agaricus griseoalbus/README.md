@@ -1,5 +1,4 @@
-Agaricus griseoalbus J.F. Gmel. SPECIES
-=======
+# Agaricus griseoalbus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

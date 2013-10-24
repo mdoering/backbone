@@ -1,5 +1,4 @@
-Septoria codonorchidis Henn. SPECIES
-=======
+# Septoria codonorchidis Henn. SPECIES
 
 #### Status
 ACCEPTED

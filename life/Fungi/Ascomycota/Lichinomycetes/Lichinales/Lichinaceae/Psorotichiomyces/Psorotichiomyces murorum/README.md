@@ -1,5 +1,4 @@
-Psorotichiomyces murorum Cif. & Tomas. SPECIES
-=======
+# Psorotichiomyces murorum Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

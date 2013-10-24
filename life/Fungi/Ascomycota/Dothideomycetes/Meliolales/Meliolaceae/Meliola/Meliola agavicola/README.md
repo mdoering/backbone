@@ -1,5 +1,4 @@
-Meliola agavicola Mig. Rodr. & Camino SPECIES
-=======
+# Meliola agavicola Mig. Rodr. & Camino SPECIES
 
 #### Status
 ACCEPTED

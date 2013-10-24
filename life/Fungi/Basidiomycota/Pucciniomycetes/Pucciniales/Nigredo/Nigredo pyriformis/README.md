@@ -1,5 +1,4 @@
-Nigredo pyriformis (Cooke) Arthur SPECIES
-=======
+# Nigredo pyriformis (Cooke) Arthur SPECIES
 
 #### Status
 ACCEPTED

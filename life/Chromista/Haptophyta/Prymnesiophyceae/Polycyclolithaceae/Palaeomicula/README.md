@@ -1,5 +1,4 @@
-Palaeomicula O. Varol & M. Jakubowski, 1989 GENUS
-=======
+# Palaeomicula O. Varol & M. Jakubowski, 1989 GENUS
 
 #### Status
 ACCEPTED

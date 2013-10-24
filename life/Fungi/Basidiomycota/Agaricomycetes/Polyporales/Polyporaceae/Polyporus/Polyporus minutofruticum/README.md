@@ -1,5 +1,4 @@
-Polyporus minutofruticum Lloyd SPECIES
-=======
+# Polyporus minutofruticum Lloyd SPECIES
 
 #### Status
 ACCEPTED

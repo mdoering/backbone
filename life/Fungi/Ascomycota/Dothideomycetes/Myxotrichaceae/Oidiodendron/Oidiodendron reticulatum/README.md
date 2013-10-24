@@ -1,5 +1,4 @@
-Oidiodendron reticulatum M. Calduch, Stchigel, Gené & Guarro, 2004 SPECIES
-=======
+# Oidiodendron reticulatum M. Calduch, Stchigel, Gené & Guarro, 2004 SPECIES
 
 #### Status
 ACCEPTED

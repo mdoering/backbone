@@ -1,5 +1,4 @@
-Verrucarites geanthracis Göpp. SPECIES
-=======
+# Verrucarites geanthracis Göpp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricharia cretacea Vezda SPECIES
-=======
+# Tricharia cretacea Vezda SPECIES
 
 #### Status
 ACCEPTED

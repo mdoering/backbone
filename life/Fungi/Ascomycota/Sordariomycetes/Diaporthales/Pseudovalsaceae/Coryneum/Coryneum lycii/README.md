@@ -1,5 +1,4 @@
-Coryneum lycii Kalymb. SPECIES
-=======
+# Coryneum lycii Kalymb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria plectrospora Feltgen SPECIES
-=======
+# Leptosphaeria plectrospora Feltgen SPECIES
 
 #### Status
 ACCEPTED

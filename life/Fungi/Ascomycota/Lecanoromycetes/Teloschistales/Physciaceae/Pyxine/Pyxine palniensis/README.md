@@ -1,5 +1,4 @@
-Pyxine palniensis D.D. Awasthi SPECIES
-=======
+# Pyxine palniensis D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypoxylon deustum f. madagascariensis (Henn.) Hendr. FORM
-=======
+# Kretzschmaria zonata (Lév.) P.M.D. Martin, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jl S. Afr. Bot. 42: 75 (1976)
 
 #### Original name
-Ustulina vulgaris f. madagascariensis Henn., 1908
+Sphaeria zonata Lév., 1845
 
 ### Remarks
 null

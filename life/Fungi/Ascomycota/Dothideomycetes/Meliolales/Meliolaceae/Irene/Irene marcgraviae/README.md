@@ -1,5 +1,4 @@
-Irene marcgraviae (Tehon) F. Stevens & Tehon SPECIES
-=======
+# Irene marcgraviae (Tehon) F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

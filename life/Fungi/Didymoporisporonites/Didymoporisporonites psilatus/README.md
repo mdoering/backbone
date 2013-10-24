@@ -1,5 +1,4 @@
-Didymoporisporonites psilatus Sheffy & Dilcher SPECIES
-=======
+# Didymoporisporonites psilatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporina amomi (Berk. & Broome) Höhn. SPECIES
-=======
+# Dimerosporina amomi (Berk. & Broome) Höhn. SPECIES
 
 #### Status
 ACCEPTED

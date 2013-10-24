@@ -1,5 +1,4 @@
-Atractium ciliata Link SPECIES
-=======
+# Atractium ciliata Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia glebulosa (Fr.) Navás SPECIES
-=======
+# Toninia glebulosa (Fr.) Navás SPECIES
 
 #### Status
 ACCEPTED

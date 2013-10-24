@@ -1,5 +1,4 @@
-Xylosphaera papyrifera (Link) Dennis SPECIES
-=======
+# Xylosphaera papyrifera (Link) Dennis SPECIES
 
 #### Status
 ACCEPTED

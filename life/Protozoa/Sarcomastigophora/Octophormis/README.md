@@ -1,5 +1,4 @@
-Octophormis Haeckel, 1887 GENUS
-=======
+# Octophormis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

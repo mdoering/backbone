@@ -1,5 +1,4 @@
-Rhizidium endosporangiatum Karling SPECIES
-=======
+# Rhizidium endosporangiatum Karling SPECIES
 
 #### Status
 ACCEPTED

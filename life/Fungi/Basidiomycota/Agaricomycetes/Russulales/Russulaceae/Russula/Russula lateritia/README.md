@@ -1,5 +1,4 @@
-Russula lateritia Quél., 1885 SPECIES
-=======
+# Russula lateritia Quél., 1885 SPECIES
 
 #### Status
 ACCEPTED

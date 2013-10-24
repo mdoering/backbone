@@ -1,5 +1,4 @@
-Sporobolomyces clavatus F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Sporobolomyces clavatus F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

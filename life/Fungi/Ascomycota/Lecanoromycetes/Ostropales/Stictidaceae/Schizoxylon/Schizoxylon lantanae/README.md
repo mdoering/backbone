@@ -1,5 +1,4 @@
-Schizoxylon lantanae (Tilak & Nanir) Sherwood SPECIES
-=======
+# Schizoxylon lantanae (Tilak & Nanir) Sherwood SPECIES
 
 #### Status
 ACCEPTED

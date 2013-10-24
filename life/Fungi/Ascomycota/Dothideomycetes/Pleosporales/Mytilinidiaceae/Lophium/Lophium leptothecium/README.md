@@ -1,5 +1,4 @@
-Lophium leptothecium Tracy & Earle SPECIES
-=======
+# Lophium leptothecium Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

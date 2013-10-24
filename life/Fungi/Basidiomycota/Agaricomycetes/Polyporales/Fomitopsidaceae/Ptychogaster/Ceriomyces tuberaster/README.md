@@ -1,5 +1,4 @@
-Ceriomyces tuberaster Battarra SPECIES
-=======
+# Ceriomyces tuberaster Battarra SPECIES
 
 #### Status
 ACCEPTED

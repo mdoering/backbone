@@ -1,5 +1,4 @@
-Phoma ficophila var. ficophila VARIETY
-=======
+# Phoma ficophila Schulzer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Verh. zool. -bot. Ges. Wein 20: 655 (1870)
 
 #### Original name
-Phoma ficophila var. ficophila
+Phoma ficophila Schulzer
 
 ### Remarks
 null

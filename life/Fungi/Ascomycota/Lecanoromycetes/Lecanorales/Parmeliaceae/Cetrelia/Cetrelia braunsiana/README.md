@@ -1,8 +1,7 @@
-Parmelia braunsiana Müll. Arg. SPECIES
-=======
+# Cetrelia braunsiana (Müll. Arg.) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Parmelia braunsiana Müll. Arg.
 
 ### Remarks
 null

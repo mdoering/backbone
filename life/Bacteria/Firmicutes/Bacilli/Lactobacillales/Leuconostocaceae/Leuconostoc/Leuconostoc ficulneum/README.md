@@ -1,5 +1,4 @@
-Leuconostoc ficulneum Antunes et al., 2002 SPECIES
-=======
+# Leuconostoc ficulneum Antunes et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

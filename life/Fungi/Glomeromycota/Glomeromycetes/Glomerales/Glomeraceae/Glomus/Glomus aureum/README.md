@@ -1,5 +1,4 @@
-Glomus aureum Oehl & Sieverd. SPECIES
-=======
+# Glomus aureum Oehl & Sieverd. SPECIES
 
 #### Status
 ACCEPTED

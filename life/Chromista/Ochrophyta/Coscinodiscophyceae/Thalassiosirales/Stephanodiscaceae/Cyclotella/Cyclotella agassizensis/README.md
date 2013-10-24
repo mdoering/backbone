@@ -1,5 +1,4 @@
-Cyclotella agassizensis Halkansson & Kling SPECIES
-=======
+# Cyclotella agassizensis Halkansson & Kling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urobasidium rostratum Giesenh. SPECIES
-=======
+# Urobasidium rostratum Giesenh. SPECIES
 
 #### Status
 ACCEPTED

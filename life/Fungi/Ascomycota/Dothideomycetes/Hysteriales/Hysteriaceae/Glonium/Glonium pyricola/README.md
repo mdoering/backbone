@@ -1,5 +1,4 @@
-Glonium pyricola Frolov SPECIES
-=======
+# Glonium pyricola Frolov SPECIES
 
 #### Status
 ACCEPTED

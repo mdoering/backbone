@@ -1,5 +1,4 @@
-Boletus lactescens Jacobashch SPECIES
-=======
+# Boletus lactescens Jacobashch SPECIES
 
 #### Status
 ACCEPTED

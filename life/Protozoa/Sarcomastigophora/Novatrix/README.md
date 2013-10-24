@@ -1,5 +1,4 @@
-Novatrix Voloshina, 1965 GENUS
-=======
+# Novatrix Voloshina, 1965 GENUS
 
 #### Status
 ACCEPTED

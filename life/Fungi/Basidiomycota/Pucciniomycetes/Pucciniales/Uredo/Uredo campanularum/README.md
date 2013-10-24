@@ -1,5 +1,4 @@
-Uredo campanularum Cooke & Massee SPECIES
-=======
+# Uredo campanularum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

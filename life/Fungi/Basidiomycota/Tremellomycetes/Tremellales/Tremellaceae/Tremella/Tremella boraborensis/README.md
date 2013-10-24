@@ -1,5 +1,4 @@
-Tremella boraborensis L.S. Olive SPECIES
-=======
+# Tremella boraborensis L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

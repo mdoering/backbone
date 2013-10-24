@@ -1,17 +1,16 @@
-Uredo zillerii Bagyan. & Ramachar SPECIES
-=======
+# Uredo zilleri Bagyan. & Ramachar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 53(4): 216 (1984)
 
 #### Original name
-Uredo zillerii Bagyan. & Ramachar
+Uredo zilleri Bagyan. & Ramachar
 
 ### Remarks
 null

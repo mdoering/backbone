@@ -1,14 +1,13 @@
-Lactarius furcatus Coker, 1918 SPECIES
-=======
+# Multifurca furcata (Coker) Buyck & V. Hofstetter, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 34(1): 18 (1918)
+Fungal Diversity 28: 37 (2008)
 
 #### Original name
 Lactarius furcatus Coker, 1918

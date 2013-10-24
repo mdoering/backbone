@@ -1,5 +1,4 @@
-Rhytisma ilicis Sawada SPECIES
-=======
+# Rhytisma ilicis Sawada SPECIES
 
 #### Status
 ACCEPTED

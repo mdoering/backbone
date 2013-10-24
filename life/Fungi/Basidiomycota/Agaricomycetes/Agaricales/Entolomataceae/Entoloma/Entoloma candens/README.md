@@ -1,5 +1,4 @@
-Entoloma candens Hesler SPECIES
-=======
+# Entoloma candens Hesler SPECIES
 
 #### Status
 ACCEPTED

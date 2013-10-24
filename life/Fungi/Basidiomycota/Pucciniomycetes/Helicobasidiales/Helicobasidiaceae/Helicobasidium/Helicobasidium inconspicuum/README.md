@@ -1,5 +1,4 @@
-Helicobasidium inconspicuum Höhn. SPECIES
-=======
+# Helicobasidium inconspicuum Höhn. SPECIES
 
 #### Status
 ACCEPTED

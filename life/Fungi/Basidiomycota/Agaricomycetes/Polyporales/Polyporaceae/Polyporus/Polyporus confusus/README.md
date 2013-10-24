@@ -1,5 +1,4 @@
-Polyporus confusus Massee SPECIES
-=======
+# Polyporus confusus Massee SPECIES
 
 #### Status
 ACCEPTED

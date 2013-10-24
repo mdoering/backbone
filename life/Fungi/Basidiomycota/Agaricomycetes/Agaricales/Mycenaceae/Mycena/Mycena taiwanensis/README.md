@@ -1,5 +1,4 @@
-Mycena taiwanensis Rexer SPECIES
-=======
+# Mycena taiwanensis Rexer SPECIES
 
 #### Status
 ACCEPTED

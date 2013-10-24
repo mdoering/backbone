@@ -1,5 +1,4 @@
-Stictis obvelata (Delacr.) De Not. SPECIES
-=======
+# Stictis obvelata (Delacr.) De Not. SPECIES
 
 #### Status
 ACCEPTED

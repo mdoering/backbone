@@ -1,5 +1,4 @@
-Laeticorticium odontoides Ryvarden SPECIES
-=======
+# Laeticorticium odontoides Ryvarden SPECIES
 
 #### Status
 ACCEPTED

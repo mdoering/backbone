@@ -1,5 +1,4 @@
-Entoloma dragonosporum (Singer) E. Horak SPECIES
-=======
+# Entoloma dragonosporum (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

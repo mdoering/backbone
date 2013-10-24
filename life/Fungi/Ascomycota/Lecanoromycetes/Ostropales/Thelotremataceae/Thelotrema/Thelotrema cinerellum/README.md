@@ -1,5 +1,4 @@
-Thelotrema cinerellum Müll. Arg. SPECIES
-=======
+# Thelotrema cinerellum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

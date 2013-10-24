@@ -1,5 +1,4 @@
-Postia venata (Rajchenb. & J.E. Wright) Rajchenb., 1988 SPECIES
-=======
+# Postia venata (Rajchenb. & J.E. Wright) Rajchenb., 1988 SPECIES
 
 #### Status
 ACCEPTED

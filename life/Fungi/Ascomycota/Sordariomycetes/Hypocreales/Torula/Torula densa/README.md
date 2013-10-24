@@ -1,5 +1,4 @@
-Torula densa P. Karst. & Har. SPECIES
-=======
+# Torula densa P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

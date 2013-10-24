@@ -1,5 +1,4 @@
-Asteridiella lagunculariae (Earle) Hansf. SPECIES
-=======
+# Asteridiella lagunculariae (Earle) Hansf. SPECIES
 
 #### Status
 ACCEPTED

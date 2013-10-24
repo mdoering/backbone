@@ -1,5 +1,4 @@
-Helotium clavuligerum Speg. SPECIES
-=======
+# Helotium clavuligerum Speg. SPECIES
 
 #### Status
 ACCEPTED

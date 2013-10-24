@@ -1,5 +1,4 @@
-Dendrosarcus excavatus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus excavatus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

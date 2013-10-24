@@ -1,5 +1,4 @@
-Hyalodiscus elegans N. I. Strelnikova SPECIES
-=======
+# Hyalodiscus elegans N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

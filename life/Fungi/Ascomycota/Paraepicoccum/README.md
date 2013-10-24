@@ -1,5 +1,4 @@
-Paraepicoccum Matsush. GENUS
-=======
+# Paraepicoccum Matsush. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placynthium baumgartneri (Zahlbr.) Gyeln. SPECIES
-=======
+# Placynthium baumgartneri (Zahlbr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

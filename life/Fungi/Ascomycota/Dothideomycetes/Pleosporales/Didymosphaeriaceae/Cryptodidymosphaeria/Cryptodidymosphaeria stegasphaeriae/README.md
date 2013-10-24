@@ -1,5 +1,4 @@
-Cryptodidymosphaeria stegasphaeriae Petr. SPECIES
-=======
+# Cryptodidymosphaeria stegasphaeriae Petr. SPECIES
 
 #### Status
 ACCEPTED

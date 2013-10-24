@@ -1,5 +1,4 @@
-Alexandrium margalefii E. Balech SPECIES
-=======
+# Alexandrium margalefii E. Balech SPECIES
 
 #### Status
 ACCEPTED

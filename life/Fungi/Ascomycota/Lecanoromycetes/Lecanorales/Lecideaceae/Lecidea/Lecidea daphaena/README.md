@@ -1,5 +1,4 @@
-Lecidea daphaena var. daphaena VARIETY
-=======
+# Lecidea daphaena Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. (1810)
 
 #### Original name
-Lecidea daphaena var. daphaena
+Lecidea daphaena Ach.
 
 ### Remarks
 null

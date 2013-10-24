@@ -1,5 +1,4 @@
-Ascophora fungicola Corda SPECIES
-=======
+# Ascophora fungicola Corda SPECIES
 
 #### Status
 ACCEPTED

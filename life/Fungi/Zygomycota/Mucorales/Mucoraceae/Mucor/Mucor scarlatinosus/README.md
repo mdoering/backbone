@@ -1,5 +1,4 @@
-Mucor scarlatinosus Hallier SPECIES
-=======
+# Mucor scarlatinosus Hallier SPECIES
 
 #### Status
 ACCEPTED

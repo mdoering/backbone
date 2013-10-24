@@ -1,5 +1,4 @@
-Sphaeria amorphula Schwein. SPECIES
-=======
+# Sphaeria amorphula Schwein. SPECIES
 
 #### Status
 ACCEPTED

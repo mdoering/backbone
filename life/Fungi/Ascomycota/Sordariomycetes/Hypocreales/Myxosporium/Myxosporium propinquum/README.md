@@ -1,5 +1,4 @@
-Myxosporium propinquum Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Myxosporium propinquum Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

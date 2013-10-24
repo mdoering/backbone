@@ -1,8 +1,7 @@
-Pyrenochaeta capparidicola L.S. Chauhan & S.C. Verma SPECIES
-=======
+# Pyrenochaeta capparicola L.S. Chauhan & S.C. Verma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenochaeta capparidicola L.S. Chauhan & S.C. Verma
+Pyrenochaeta capparicola L.S. Chauhan & S.C. Verma
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acarospora macrocyclos Vain. SPECIES
-=======
+# Acarospora macrocyclos Vain. SPECIES
 
 #### Status
 ACCEPTED

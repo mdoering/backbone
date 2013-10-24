@@ -1,5 +1,4 @@
-Peridiospora reticulata C.G. Wu & Suh J. Lin, 1997 SPECIES
-=======
+# Peridiospora reticulata C.G. Wu & Suh J. Lin, 1997 SPECIES
 
 #### Status
 ACCEPTED

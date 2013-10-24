@@ -1,5 +1,4 @@
-Streptothrix mounceae Sumst. SPECIES
-=======
+# Streptothrix mounceae Sumst. SPECIES
 
 #### Status
 ACCEPTED

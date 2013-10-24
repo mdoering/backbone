@@ -1,5 +1,4 @@
-Cercophora appalachianensis O. Hilber & R. Hilber SPECIES
-=======
+# Cercophora appalachianensis O. Hilber & R. Hilber SPECIES
 
 #### Status
 ACCEPTED

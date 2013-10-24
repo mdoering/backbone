@@ -1,5 +1,4 @@
-Biatora appalachensis Printzen & Tønsberg SPECIES
-=======
+# Biatora appalachensis Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

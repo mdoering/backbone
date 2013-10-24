@@ -1,5 +1,4 @@
-Tichothecium sporastatiae Anzi SPECIES
-=======
+# Tichothecium sporastatiae Anzi SPECIES
 
 #### Status
 ACCEPTED

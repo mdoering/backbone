@@ -1,5 +1,4 @@
-Trichophyton denticulatum Sabour. SPECIES
-=======
+# Trichophyton denticulatum Sabour. SPECIES
 
 #### Status
 ACCEPTED

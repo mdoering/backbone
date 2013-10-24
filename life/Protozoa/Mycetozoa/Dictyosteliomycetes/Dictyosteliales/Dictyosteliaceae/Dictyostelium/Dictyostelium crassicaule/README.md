@@ -1,5 +1,4 @@
-Dictyostelium crassicaule H. Hagiw., 1984 SPECIES
-=======
+# Dictyostelium crassicaule H. Hagiw., 1984 SPECIES
 
 #### Status
 ACCEPTED

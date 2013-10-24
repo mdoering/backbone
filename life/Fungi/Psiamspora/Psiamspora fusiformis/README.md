@@ -1,5 +1,4 @@
-Psiamspora fusiformis Sal.-Cheb. & Locq. SPECIES
-=======
+# Psiamspora fusiformis Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

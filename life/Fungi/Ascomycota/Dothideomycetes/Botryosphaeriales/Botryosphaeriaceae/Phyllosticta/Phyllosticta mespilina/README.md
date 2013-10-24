@@ -1,5 +1,4 @@
-Phyllosticta mespilina Montemart. SPECIES
-=======
+# Phyllosticta mespilina Montemart. SPECIES
 
 #### Status
 ACCEPTED

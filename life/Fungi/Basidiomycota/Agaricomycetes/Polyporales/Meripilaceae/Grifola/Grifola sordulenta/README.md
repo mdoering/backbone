@@ -1,17 +1,16 @@
-Cautinia beneolens (Bres.) Maas Geest., 1967 SPECIES
-=======
+# Grifola sordulenta (Mont.) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 5(1): 1 (1967)
+Sydowia 15: 53 (1962)
 
 #### Original name
-Hydnum beneolens Bres., 1925
+Polyporus sordulentus Mont., 1850
 
 ### Remarks
 null

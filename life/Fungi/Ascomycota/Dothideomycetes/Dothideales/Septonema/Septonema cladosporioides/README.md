@@ -1,5 +1,4 @@
-Septonema cladosporioides Speg. SPECIES
-=======
+# Septonema cladosporioides Speg. SPECIES
 
 #### Status
 ACCEPTED

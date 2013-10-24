@@ -1,5 +1,4 @@
-Lactarius subumbonatus Lindgr., 1845 SPECIES
-=======
+# Lactarius subumbonatus Lindgr., 1845 SPECIES
 
 #### Status
 ACCEPTED

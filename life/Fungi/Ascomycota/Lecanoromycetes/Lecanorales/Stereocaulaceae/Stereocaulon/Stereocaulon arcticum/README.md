@@ -1,5 +1,4 @@
-Stereocaulon arcticum var. arcticum VARIETY
-=======
+# Stereocaulon arcticum Lynge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon arcticum var. arcticum
+Stereocaulon arcticum Lynge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ophiocytium elongatum major Prescott VARIETY
-=======
+# Ophiocytium elongatum West & West SPECIES
 
 #### Status
 ACCEPTED

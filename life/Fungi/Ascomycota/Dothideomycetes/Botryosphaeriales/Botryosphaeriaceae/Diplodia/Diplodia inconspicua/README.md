@@ -1,5 +1,4 @@
-Diplodia inconspicua f. inconspicua FORM
-=======
+# Diplodia inconspicua Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 13(no. 68): 96 (1885)
 
 #### Original name
-Diplodia inconspicua f. inconspicua
+Diplodia inconspicua Cooke
 
 ### Remarks
 null

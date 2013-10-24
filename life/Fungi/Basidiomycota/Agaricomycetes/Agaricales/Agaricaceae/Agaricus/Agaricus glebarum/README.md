@@ -1,5 +1,4 @@
-Agaricus glebarum Berk. SPECIES
-=======
+# Agaricus glebarum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tolyposporella rhytachnes Vienn.-Bourg. SPECIES
-=======
+# Tolyposporella rhytachnes Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

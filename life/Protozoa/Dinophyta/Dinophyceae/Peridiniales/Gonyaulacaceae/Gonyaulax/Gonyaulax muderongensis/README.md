@@ -1,5 +1,4 @@
-Gonyaulax muderongensis Cookson & Eisenack SPECIES
-=======
+# Gonyaulax muderongensis Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

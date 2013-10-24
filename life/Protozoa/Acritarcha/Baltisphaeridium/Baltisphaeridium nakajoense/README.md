@@ -1,5 +1,4 @@
-Baltisphaeridium nakajoense Takahashi & Matsuoka, 1981 SPECIES
-=======
+# Baltisphaeridium nakajoense Takahashi & Matsuoka, 1981 SPECIES
 
 #### Status
 ACCEPTED

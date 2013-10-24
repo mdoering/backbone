@@ -1,5 +1,4 @@
-Russula subaffinis Bidaud & P.-A. Moreau SPECIES
-=======
+# Russula subaffinis Bidaud & P.-A. Moreau SPECIES
 
 #### Status
 ACCEPTED

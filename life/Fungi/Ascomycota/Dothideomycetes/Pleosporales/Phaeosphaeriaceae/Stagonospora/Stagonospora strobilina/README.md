@@ -1,5 +1,4 @@
-Stagonospora strobilina (Curr.) Sacc. SPECIES
-=======
+# Stagonospora strobilina (Curr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

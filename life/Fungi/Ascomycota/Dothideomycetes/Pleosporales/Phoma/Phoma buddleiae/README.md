@@ -1,5 +1,4 @@
-Phoma buddleiae Brunaud SPECIES
-=======
+# Phoma buddleiae Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echinostelium arboreum H.W. Keller & T.E. Brooks, 1977 SPECIES
-=======
+# Echinostelium arboreum H.W. Keller & T.E. Brooks, 1977 SPECIES
 
 #### Status
 ACCEPTED

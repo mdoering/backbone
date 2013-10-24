@@ -1,5 +1,4 @@
-Dialonectria delicatula (Fr.) Cooke SPECIES
-=======
+# Dialonectria delicatula (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

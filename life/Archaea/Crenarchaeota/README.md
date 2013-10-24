@@ -1,5 +1,4 @@
-Crenarchaeota PHYLUM
-=======
+# Crenarchaeota PHYLUM
 
 #### Status
 ACCEPTED

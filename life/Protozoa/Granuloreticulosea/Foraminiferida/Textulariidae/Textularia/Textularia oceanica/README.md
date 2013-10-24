@@ -1,5 +1,4 @@
-Textularia oceanica Cushman, 1932 SPECIES
-=======
+# Textularia oceanica Cushman, 1932 SPECIES
 
 #### Status
 ACCEPTED

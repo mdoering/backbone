@@ -1,5 +1,4 @@
-Dictyota nigrescens Zanardini, 1878 SPECIES
-=======
+# Dictyota nigrescens Zanardini, 1878 SPECIES
 
 #### Status
 ACCEPTED

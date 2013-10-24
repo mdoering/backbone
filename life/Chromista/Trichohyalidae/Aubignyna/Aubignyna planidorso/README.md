@@ -1,5 +1,4 @@
-Aubignyna planidorso (Atkinson, 1989) SPECIES
-=======
+# Aubignyna planidorso (Atkinson, 1989) SPECIES
 
 #### Status
 ACCEPTED

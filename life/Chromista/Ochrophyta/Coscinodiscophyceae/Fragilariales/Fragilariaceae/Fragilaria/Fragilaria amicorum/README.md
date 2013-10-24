@@ -1,5 +1,4 @@
-Fragilaria amicorum Witkowski & Lange-Bertalot SPECIES
-=======
+# Fragilaria amicorum Witkowski & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

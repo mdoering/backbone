@@ -1,5 +1,4 @@
-Excingula GENUS
-=======
+# Excingula GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiostemma erysiphoides (Ellis & Everh.) M.L. Farr SPECIES
-=======
+# Lasiostemma erysiphoides (Ellis & Everh.) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

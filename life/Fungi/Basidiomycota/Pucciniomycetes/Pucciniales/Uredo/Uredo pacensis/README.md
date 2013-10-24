@@ -1,5 +1,4 @@
-Uredo pacensis J.C. Lindq. SPECIES
-=======
+# Uredo pacensis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

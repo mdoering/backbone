@@ -1,5 +1,4 @@
-Wysotzkia Lemmermann GENUS
-=======
+# Wysotzkia Lemmermann GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protomycopsis arnoldii Magnus SPECIES
-=======
+# Protomycopsis arnoldii Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irregularina GENUS
-=======
+# Irregularina GENUS
 
 #### Status
 ACCEPTED

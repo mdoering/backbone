@@ -1,5 +1,4 @@
-Psathyrella erinensis Dennis SPECIES
-=======
+# Psathyrella erinensis Dennis SPECIES
 
 #### Status
 ACCEPTED

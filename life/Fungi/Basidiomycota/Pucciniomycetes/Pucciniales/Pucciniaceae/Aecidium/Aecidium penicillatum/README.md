@@ -1,5 +1,4 @@
-Aecidium penicillatum Pers. SPECIES
-=======
+# Aecidium penicillatum Pers. SPECIES
 
 #### Status
 ACCEPTED

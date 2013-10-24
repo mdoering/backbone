@@ -1,5 +1,4 @@
-Rhizosolenia twistata M.C. Whiting & H. Schrader SPECIES
-=======
+# Rhizosolenia twistata M.C. Whiting & H. Schrader SPECIES
 
 #### Status
 ACCEPTED

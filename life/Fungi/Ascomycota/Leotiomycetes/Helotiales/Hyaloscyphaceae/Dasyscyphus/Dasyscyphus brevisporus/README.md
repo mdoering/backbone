@@ -1,5 +1,4 @@
-Dasyscyphus brevisporus (Y. Otani) J.H. Haines SPECIES
-=======
+# Dasyscyphus brevisporus (Y. Otani) J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

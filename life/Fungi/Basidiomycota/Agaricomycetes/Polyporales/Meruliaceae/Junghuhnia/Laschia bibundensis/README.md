@@ -1,5 +1,4 @@
-Laschia bibundensis (Henn.) Sacc. SPECIES
-=======
+# Laschia bibundensis (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia lata Wailes, 1928 SPECIES
-=======
+# Cothurnia lata Wailes, 1928 SPECIES
 
 #### Status
 ACCEPTED

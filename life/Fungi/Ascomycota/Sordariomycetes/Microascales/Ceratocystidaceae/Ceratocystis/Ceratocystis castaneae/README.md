@@ -1,5 +1,4 @@
-Ceratocystis castaneae (Vanine {?} & Solovjev) C. Moreau SPECIES
-=======
+# Ceratocystis castaneae (Vanine {?} & Solovjev) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

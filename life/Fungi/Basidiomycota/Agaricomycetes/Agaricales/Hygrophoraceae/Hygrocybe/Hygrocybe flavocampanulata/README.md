@@ -1,5 +1,4 @@
-Hygrocybe flavocampanulata S.A. Cantrell & Lodge SPECIES
-=======
+# Hygrocybe flavocampanulata S.A. Cantrell & Lodge SPECIES
 
 #### Status
 ACCEPTED

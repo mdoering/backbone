@@ -1,5 +1,4 @@
-Endomelanconium endophytica E.I. Rojas & Samuels, 2008 SPECIES
-=======
+# Endomelanconium endophytica E.I. Rojas & Samuels, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria lasiodiplodiae Samuels SPECIES
-=======
+# Nectria lasiodiplodiae Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora maritima (Tracy & Earle) U. Braun & Crous SPECIES
-=======
+# Passalora maritima (Tracy & Earle) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

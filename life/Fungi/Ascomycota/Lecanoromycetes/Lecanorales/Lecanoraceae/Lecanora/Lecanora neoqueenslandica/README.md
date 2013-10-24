@@ -1,5 +1,4 @@
-Lecanora neoqueenslandica Lumbsch SPECIES
-=======
+# Lecanora neoqueenslandica Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena incarnativelum Desjardin SPECIES
-=======
+# Mycena incarnativelum Desjardin SPECIES
 
 #### Status
 ACCEPTED

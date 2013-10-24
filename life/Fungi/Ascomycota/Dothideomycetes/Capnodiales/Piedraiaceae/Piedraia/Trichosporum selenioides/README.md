@@ -1,5 +1,4 @@
-Trichosporum selenioides Sacc. & Paol. SPECIES
-=======
+# Trichosporum selenioides Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

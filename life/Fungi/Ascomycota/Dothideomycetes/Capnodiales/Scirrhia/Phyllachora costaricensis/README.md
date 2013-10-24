@@ -1,5 +1,4 @@
-Phyllachora costaricensis E. Bommer & M. Rousseau, 1896 SPECIES
-=======
+# Phyllachora costaricensis E. Bommer & M. Rousseau, 1896 SPECIES
 
 #### Status
 ACCEPTED

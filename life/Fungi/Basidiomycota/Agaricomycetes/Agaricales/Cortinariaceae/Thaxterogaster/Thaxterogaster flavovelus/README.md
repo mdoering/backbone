@@ -1,5 +1,4 @@
-Thaxterogaster flavovelus Grgur. SPECIES
-=======
+# Thaxterogaster flavovelus Grgur. SPECIES
 
 #### Status
 ACCEPTED

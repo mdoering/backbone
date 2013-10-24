@@ -1,14 +1,13 @@
-Hypoxylon quercinum (R. Hartig) P.M.D. Martin, 1976 SPECIES
-=======
+# Rosellinia quercina R. Hartig, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jl S. Afr. Bot. 42: 73 (1976)
+Lehrb. Baumkrankh. 100 (1880)
 
 #### Original name
 Rosellinia quercina R. Hartig, 1880

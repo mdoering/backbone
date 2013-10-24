@@ -1,5 +1,4 @@
-Trichosphaeria pulviscula Feltgen SPECIES
-=======
+# Trichosphaeria pulviscula Feltgen SPECIES
 
 #### Status
 ACCEPTED

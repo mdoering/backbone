@@ -1,5 +1,4 @@
-Ustilago dactylidis Maire SPECIES
-=======
+# Ustilago dactylidis Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histioneis paulsenii Kofoid & Michener, 1907 SPECIES
-=======
+# Histioneis paulsenii Kofoid & Michener, 1907 SPECIES
 
 #### Status
 ACCEPTED

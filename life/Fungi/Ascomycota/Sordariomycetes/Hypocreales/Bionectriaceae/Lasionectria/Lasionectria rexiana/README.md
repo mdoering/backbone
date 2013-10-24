@@ -1,5 +1,4 @@
-Lasionectria rexiana (Ellis) Ellis & Everh. SPECIES
-=======
+# Lasionectria rexiana (Ellis) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

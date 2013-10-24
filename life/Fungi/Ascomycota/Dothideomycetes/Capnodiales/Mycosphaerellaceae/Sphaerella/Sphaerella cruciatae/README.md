@@ -1,5 +1,4 @@
-Sphaerella cruciatae F. Lamb. & Fautrey SPECIES
-=======
+# Sphaerella cruciatae F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula adelae Cern. SPECIES
-=======
+# Russula adelae Cern. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisporium wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Perisporium wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

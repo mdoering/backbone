@@ -1,5 +1,4 @@
-Caloplaca athroocarpa (Anzi) Jatta SPECIES
-=======
+# Caloplaca athroocarpa (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

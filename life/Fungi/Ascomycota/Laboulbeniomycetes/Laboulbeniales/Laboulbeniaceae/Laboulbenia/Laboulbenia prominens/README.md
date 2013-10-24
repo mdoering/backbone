@@ -1,5 +1,4 @@
-Laboulbenia prominens Thaxt. SPECIES
-=======
+# Laboulbenia prominens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

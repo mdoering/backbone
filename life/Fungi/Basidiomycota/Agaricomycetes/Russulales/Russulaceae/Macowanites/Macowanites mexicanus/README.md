@@ -1,5 +1,4 @@
-Macowanites mexicanus Guzmán SPECIES
-=======
+# Macowanites mexicanus Guzmán SPECIES
 
 #### Status
 ACCEPTED

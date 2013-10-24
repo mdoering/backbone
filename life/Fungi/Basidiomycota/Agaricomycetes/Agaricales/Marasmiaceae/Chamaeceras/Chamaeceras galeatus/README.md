@@ -1,5 +1,4 @@
-Chamaeceras galeatus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras galeatus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

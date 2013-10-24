@@ -1,5 +1,4 @@
-Anthracoidea douglasii Nannf. SPECIES
-=======
+# Anthracoidea douglasii Nannf. SPECIES
 
 #### Status
 ACCEPTED

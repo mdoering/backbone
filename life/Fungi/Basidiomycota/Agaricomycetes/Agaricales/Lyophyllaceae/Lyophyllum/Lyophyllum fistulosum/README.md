@@ -1,5 +1,4 @@
-Lyophyllum fistulosum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum fistulosum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

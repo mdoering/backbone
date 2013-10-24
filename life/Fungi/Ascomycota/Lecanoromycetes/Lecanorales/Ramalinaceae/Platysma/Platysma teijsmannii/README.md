@@ -1,8 +1,7 @@
-Platysma teysmanni (Mont. & Bosch) Nyl. SPECIES
-=======
+# Platysma teijsmannii (Mont. & Bosch) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

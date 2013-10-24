@@ -1,5 +1,4 @@
-Pertusaria sanguinulenta SPECIES
-=======
+# Pertusaria sanguinulenta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callopisma lamprocheilum (DC.) Trevis. SPECIES
-=======
+# Callopisma lamprocheilum (DC.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

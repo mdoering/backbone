@@ -1,5 +1,4 @@
-Cortinarius armillifer Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius armillifer Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

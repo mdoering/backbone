@@ -1,5 +1,4 @@
-Cytospora crataegicola Brunaud SPECIES
-=======
+# Cytospora crataegicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

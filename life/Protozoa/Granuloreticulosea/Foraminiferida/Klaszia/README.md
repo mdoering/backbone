@@ -1,5 +1,4 @@
-Klaszia Volat, 2001 GENUS
-=======
+# Klaszia Volat, 2001 GENUS
 
 #### Status
 ACCEPTED

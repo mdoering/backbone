@@ -1,5 +1,4 @@
-Phyllotus subplicatus var. subplicatus VARIETY
-=======
+# Phyllotus subplicatus P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Meddn Soc. Fauna Flora fenn. 9: 58 (1882)
 
 #### Original name
-Phyllotus subplicatus var. subplicatus
+Phyllotus subplicatus P. Karst.
 
 ### Remarks
 null

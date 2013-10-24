@@ -1,5 +1,4 @@
-Usnea misaminensis (Vain.) Motyka SPECIES
-=======
+# Usnea misaminensis (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

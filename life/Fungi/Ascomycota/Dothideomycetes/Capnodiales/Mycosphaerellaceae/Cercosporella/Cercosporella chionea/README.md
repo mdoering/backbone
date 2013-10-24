@@ -1,5 +1,4 @@
-Cercosporella chionea (Ellis & Kellerm.) Sacc. SPECIES
-=======
+# Cercosporella chionea (Ellis & Kellerm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

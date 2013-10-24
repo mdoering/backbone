@@ -1,5 +1,4 @@
-Lecanora trachyderma Kremp. SPECIES
-=======
+# Lecanora trachyderma Kremp. SPECIES
 
 #### Status
 ACCEPTED

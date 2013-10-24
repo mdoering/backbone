@@ -1,5 +1,4 @@
-Phoma maydis Ellis & Everh. SPECIES
-=======
+# Phoma maydis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

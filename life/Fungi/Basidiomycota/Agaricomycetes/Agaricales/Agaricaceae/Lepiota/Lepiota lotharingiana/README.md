@@ -1,5 +1,4 @@
-Lepiota lotharingiana Pegler SPECIES
-=======
+# Lepiota lotharingiana Pegler SPECIES
 
 #### Status
 ACCEPTED

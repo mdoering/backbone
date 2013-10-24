@@ -1,5 +1,4 @@
-Textularia alveata Todd, 1957 SPECIES
-=======
+# Textularia alveata Todd, 1957 SPECIES
 
 #### Status
 ACCEPTED

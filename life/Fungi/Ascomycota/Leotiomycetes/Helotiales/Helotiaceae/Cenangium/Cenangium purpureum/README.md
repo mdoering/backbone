@@ -1,5 +1,4 @@
-Cenangium purpureum (Hedw.) Sacc. SPECIES
-=======
+# Cenangium purpureum (Hedw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

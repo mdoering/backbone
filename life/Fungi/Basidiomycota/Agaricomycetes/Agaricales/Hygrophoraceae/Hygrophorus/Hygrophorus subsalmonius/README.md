@@ -1,5 +1,4 @@
-Hygrophorus subsalmonius A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus subsalmonius A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

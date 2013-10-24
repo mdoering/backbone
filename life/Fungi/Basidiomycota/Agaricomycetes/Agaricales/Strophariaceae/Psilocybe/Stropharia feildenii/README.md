@@ -1,17 +1,16 @@
-Stropharia feildeni (Berk.) Sacc. SPECIES
-=======
+# Stropharia feildenii (Berk.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 1023 (1887)
 
 #### Original name
-Agaricus feildeni Berk.
+Agaricus feildenii Berk.
 
 ### Remarks
 null

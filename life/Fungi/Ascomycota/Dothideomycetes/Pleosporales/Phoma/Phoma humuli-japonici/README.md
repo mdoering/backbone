@@ -1,5 +1,4 @@
-Phoma humuli-japonici Fautrey SPECIES
-=======
+# Phoma humuli-japonici Fautrey SPECIES
 
 #### Status
 ACCEPTED

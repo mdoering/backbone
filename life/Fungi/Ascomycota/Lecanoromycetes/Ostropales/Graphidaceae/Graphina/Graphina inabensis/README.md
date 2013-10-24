@@ -1,5 +1,4 @@
-Graphina inabensis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina inabensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

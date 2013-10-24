@@ -1,5 +1,4 @@
-Parmelia pseudoflavescens Zahlbr. SPECIES
-=======
+# Parmelia pseudoflavescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

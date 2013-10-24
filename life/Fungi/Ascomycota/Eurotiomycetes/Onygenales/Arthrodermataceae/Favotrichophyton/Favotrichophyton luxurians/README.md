@@ -1,5 +1,4 @@
-Favotrichophyton luxurians (Brault & A. Vig.) Neveu-Lem. SPECIES
-=======
+# Favotrichophyton luxurians (Brault & A. Vig.) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraprorodon Foissner, 1983 GENUS
-=======
+# Paraprorodon Foissner, 1983 GENUS
 
 #### Status
 ACCEPTED

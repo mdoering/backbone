@@ -1,5 +1,4 @@
-Ochrolechia verrucosa Kalb SPECIES
-=======
+# Ochrolechia verrucosa Kalb SPECIES
 
 #### Status
 ACCEPTED

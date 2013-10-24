@@ -1,5 +1,4 @@
-Polychidium cetrarioides Anzi SPECIES
-=======
+# Polychidium cetrarioides Anzi SPECIES
 
 #### Status
 ACCEPTED

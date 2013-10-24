@@ -1,5 +1,4 @@
-Myxacium collinitum var. collinitum VARIETY
-=======
+# Myxacium collinitum (Sowerby) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Führ. Pilzk. (Zwickau) (1871)
 
 #### Original name
-Myxacium collinitum var. collinitum
+Agaricus collinitus Pers., 1801
 
 ### Remarks
 null

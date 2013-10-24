@@ -1,5 +1,4 @@
-Cylindrogloeum quercuum (Miura) Y.L. Guo, G.Z. Lu & J.K. Bai SPECIES
-=======
+# Cylindrogloeum quercuum (Miura) Y.L. Guo, G.Z. Lu & J.K. Bai SPECIES
 
 #### Status
 ACCEPTED

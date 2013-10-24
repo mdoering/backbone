@@ -1,5 +1,4 @@
-Tuberculina solanicola Ellis SPECIES
-=======
+# Tuberculina solanicola Ellis SPECIES
 
 #### Status
 ACCEPTED

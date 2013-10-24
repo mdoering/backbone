@@ -1,5 +1,4 @@
-Leptothyrium sibiricum Thüm. SPECIES
-=======
+# Leptothyrium sibiricum Thüm. SPECIES
 
 #### Status
 ACCEPTED

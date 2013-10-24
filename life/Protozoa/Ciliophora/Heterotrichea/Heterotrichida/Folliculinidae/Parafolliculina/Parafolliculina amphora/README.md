@@ -1,5 +1,4 @@
-Parafolliculina amphora Dons, 1914 SPECIES
-=======
+# Parafolliculina amphora Dons, 1914 SPECIES
 
 #### Status
 ACCEPTED

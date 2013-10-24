@@ -1,5 +1,4 @@
-Turbodiscoaster Prins GENUS
-=======
+# Turbodiscoaster Prins GENUS
 
 #### Status
 ACCEPTED

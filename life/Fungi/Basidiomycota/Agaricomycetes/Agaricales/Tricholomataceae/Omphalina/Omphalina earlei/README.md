@@ -1,5 +1,4 @@
-Omphalina earlei Murrill SPECIES
-=======
+# Omphalina earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

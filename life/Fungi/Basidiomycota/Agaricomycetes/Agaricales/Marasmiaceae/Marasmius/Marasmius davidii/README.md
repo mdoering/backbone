@@ -1,5 +1,4 @@
-Marasmius davidii Antonín SPECIES
-=======
+# Marasmius davidii Antonín SPECIES
 
 #### Status
 ACCEPTED

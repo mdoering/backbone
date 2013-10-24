@@ -1,5 +1,4 @@
-Nolanea foldatsii Dennis SPECIES
-=======
+# Nolanea foldatsii Dennis SPECIES
 
 #### Status
 ACCEPTED

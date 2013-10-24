@@ -1,5 +1,4 @@
-Agaricus bukavuensis Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus bukavuensis Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

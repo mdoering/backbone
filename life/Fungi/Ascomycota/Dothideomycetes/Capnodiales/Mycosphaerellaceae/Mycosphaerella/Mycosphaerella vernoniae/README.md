@@ -1,5 +1,4 @@
-Mycosphaerella vernoniae (Petch) Cash SPECIES
-=======
+# Mycosphaerella vernoniae (Petch) Cash SPECIES
 
 #### Status
 ACCEPTED

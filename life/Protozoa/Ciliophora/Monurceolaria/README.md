@@ -1,5 +1,4 @@
-Monurceolaria Yankovskij, 1980 GENUS
-=======
+# Monurceolaria Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

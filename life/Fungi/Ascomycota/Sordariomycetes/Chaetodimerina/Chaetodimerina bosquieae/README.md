@@ -1,5 +1,4 @@
-Chaetodimerina bosquieae Hansf. SPECIES
-=======
+# Chaetodimerina bosquieae Hansf. SPECIES
 
 #### Status
 ACCEPTED

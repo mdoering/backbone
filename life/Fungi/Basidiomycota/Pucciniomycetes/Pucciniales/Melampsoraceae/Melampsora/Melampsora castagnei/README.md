@@ -1,5 +1,4 @@
-Melampsora castagnei Thüm. SPECIES
-=======
+# Melampsora castagnei Thüm. SPECIES
 
 #### Status
 ACCEPTED

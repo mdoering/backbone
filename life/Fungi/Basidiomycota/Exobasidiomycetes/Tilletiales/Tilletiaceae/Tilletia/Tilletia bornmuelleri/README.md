@@ -1,5 +1,4 @@
-Tilletia bornmuelleri Magnus SPECIES
-=======
+# Tilletia bornmuelleri Magnus SPECIES
 
 #### Status
 ACCEPTED

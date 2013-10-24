@@ -1,5 +1,4 @@
-Heteromastix H.J. Clark, 1865 GENUS
-=======
+# Heteromastix H.J. Clark, 1865 GENUS
 
 #### Status
 ACCEPTED

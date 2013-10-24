@@ -1,5 +1,4 @@
-Appendiculella speciosa (Doidge) Hansf. SPECIES
-=======
+# Appendiculella speciosa (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

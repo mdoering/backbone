@@ -1,5 +1,4 @@
-Erysibe flosculosorum Wallr. SPECIES
-=======
+# Erysibe flosculosorum Wallr. SPECIES
 
 #### Status
 ACCEPTED

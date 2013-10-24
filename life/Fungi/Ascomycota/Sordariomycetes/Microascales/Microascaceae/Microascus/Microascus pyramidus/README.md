@@ -1,5 +1,4 @@
-Microascus pyramidus G.L. Barron & J.C. Gilman, 1961 SPECIES
-=======
+# Microascus pyramidus G.L. Barron & J.C. Gilman, 1961 SPECIES
 
 #### Status
 ACCEPTED

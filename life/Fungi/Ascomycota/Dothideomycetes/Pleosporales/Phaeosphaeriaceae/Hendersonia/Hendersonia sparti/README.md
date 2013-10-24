@@ -1,5 +1,4 @@
-Hendersonia sparti Tassi SPECIES
-=======
+# Hendersonia sparti Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria erythrococcos Ehrenb. SPECIES
-=======
+# Sphaeria erythrococcos Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

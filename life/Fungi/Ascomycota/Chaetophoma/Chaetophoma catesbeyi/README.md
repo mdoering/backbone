@@ -1,5 +1,4 @@
-Chaetophoma catesbeyi Cooke SPECIES
-=======
+# Chaetophoma catesbeyi Cooke SPECIES
 
 #### Status
 ACCEPTED

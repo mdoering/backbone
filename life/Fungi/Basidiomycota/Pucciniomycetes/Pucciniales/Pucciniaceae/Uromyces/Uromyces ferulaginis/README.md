@@ -1,5 +1,4 @@
-Uromyces ferulaginis Lindr. SPECIES
-=======
+# Uromyces ferulaginis Lindr. SPECIES
 
 #### Status
 ACCEPTED

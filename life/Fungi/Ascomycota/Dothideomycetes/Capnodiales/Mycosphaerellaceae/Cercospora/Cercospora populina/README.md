@@ -1,5 +1,4 @@
-Cercospora populina Ellis & Everh. SPECIES
-=======
+# Cercospora populina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

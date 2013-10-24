@@ -1,5 +1,4 @@
-Cupriavidus necator Makkar & Casida, 1987 SPECIES
-=======
+# Cupriavidus necator Makkar & Casida, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parodiellina GENUS
-=======
+# Parodiellina GENUS
 
 #### Status
 ACCEPTED

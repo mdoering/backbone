@@ -1,5 +1,4 @@
-Ascobolus gollani Henn. SPECIES
-=======
+# Ascobolus gollani Henn. SPECIES
 
 #### Status
 ACCEPTED

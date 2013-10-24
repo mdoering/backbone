@@ -1,5 +1,4 @@
-Septoria veccariae-pyramidatae Savul. & Sandu SPECIES
-=======
+# Septoria veccariae-pyramidatae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

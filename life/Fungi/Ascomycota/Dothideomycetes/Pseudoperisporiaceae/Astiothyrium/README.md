@@ -1,5 +1,4 @@
-Astiothyrium GENUS
-=======
+# Astiothyrium GENUS
 
 #### Status
 ACCEPTED

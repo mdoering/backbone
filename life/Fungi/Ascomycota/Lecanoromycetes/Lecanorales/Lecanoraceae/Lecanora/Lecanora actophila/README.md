@@ -1,14 +1,13 @@
-Lecanorella actophila (Wedd.) Motyka SPECIES
-=======
+# Lecanora actophila Wedd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Porosty (Lichenes). <b>1</b> (Lublin), Rodzina <i>Lecanoraceae</i>. <i>Hymenelia</i>, <i>Aspicilia</i>, <i>Lecanorella</i>, <i>Protoplacodium</i>, <i>Manzonia</i> 334 (1995)
+Mém. Soc. natn. Sci. nat. math. Cherbourg 19: 268 (1875)
 
 #### Original name
 Lecanora actophila Wedd.

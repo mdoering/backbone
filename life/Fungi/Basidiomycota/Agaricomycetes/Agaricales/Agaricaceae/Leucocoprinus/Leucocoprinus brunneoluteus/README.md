@@ -1,5 +1,4 @@
-Leucocoprinus brunneoluteus Capelari & Gimenes SPECIES
-=======
+# Leucocoprinus brunneoluteus Capelari & Gimenes SPECIES
 
 #### Status
 ACCEPTED

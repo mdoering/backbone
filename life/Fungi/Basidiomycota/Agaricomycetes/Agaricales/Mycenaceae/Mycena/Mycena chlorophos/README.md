@@ -1,5 +1,4 @@
-Mycena chlorophos var. chlorophos VARIETY
-=======
+# Mycena chlorophos (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

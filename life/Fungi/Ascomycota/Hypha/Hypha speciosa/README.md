@@ -1,5 +1,4 @@
-Hypha speciosa (Humb.) Pers. SPECIES
-=======
+# Hypha speciosa (Humb.) Pers. SPECIES
 
 #### Status
 ACCEPTED

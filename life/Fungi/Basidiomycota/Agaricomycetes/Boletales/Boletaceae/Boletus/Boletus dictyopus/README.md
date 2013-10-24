@@ -1,5 +1,4 @@
-Boletus dictyopus Rostk. SPECIES
-=======
+# Boletus dictyopus Rostk. SPECIES
 
 #### Status
 ACCEPTED

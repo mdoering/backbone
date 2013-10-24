@@ -1,5 +1,4 @@
-Krimodiscus reticulatus Aristova, 1971 SPECIES
-=======
+# Krimodiscus reticulatus Aristova, 1971 SPECIES
 
 #### Status
 ACCEPTED

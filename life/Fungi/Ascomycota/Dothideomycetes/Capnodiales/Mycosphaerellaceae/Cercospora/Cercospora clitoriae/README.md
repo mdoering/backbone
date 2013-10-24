@@ -1,5 +1,4 @@
-Cercospora clitoriae G.F. Atk. SPECIES
-=======
+# Cercospora clitoriae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

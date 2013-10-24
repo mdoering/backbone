@@ -1,14 +1,13 @@
-Anthostoma pithodes (Berk. & Broome) Sacc., 1882 SPECIES
-=======
+# Biscogniauxia pithodes (Berk. & Broome) Whalley & Laessøe, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 298 (1882)
+in Whalley, Laessøe & Kile, Mycol. Res. 94(2): 239 (1990)
 
 #### Original name
 Diatrype pithodes Berk. & Broome, 1875

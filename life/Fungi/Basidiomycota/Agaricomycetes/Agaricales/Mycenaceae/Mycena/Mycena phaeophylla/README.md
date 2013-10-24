@@ -1,5 +1,4 @@
-Mycena phaeophylla Kühner SPECIES
-=======
+# Mycena phaeophylla Kühner SPECIES
 
 #### Status
 ACCEPTED

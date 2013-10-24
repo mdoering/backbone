@@ -1,5 +1,4 @@
-Sticta papyracea Delise SPECIES
-=======
+# Sticta papyracea Delise SPECIES
 
 #### Status
 ACCEPTED

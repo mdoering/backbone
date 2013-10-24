@@ -1,5 +1,4 @@
-Hyalangium minutum SPECIES
-=======
+# Hyalangium minutum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sporodesmium oryzaecolum Hara SPECIES
-=======
+# Sporidesmium oryzicola Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+A Monograph of Rice Diseases 115 (1959)
 
 #### Original name
-Sporodesmium oryzaecolum Hara
+Sporidesmium oryzicola Hara
 
 ### Remarks
 null

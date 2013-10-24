@@ -1,14 +1,13 @@
-Tricholoma tetragonosporum Maire, 1945 SPECIES
-=======
+# Tricholosporum tetragonosporum (Maire) Contu & Mua, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Riv. Micol. 43(3): 254 (2000)
 
 #### Original name
 Tricholoma tetragonosporum Maire, 1945

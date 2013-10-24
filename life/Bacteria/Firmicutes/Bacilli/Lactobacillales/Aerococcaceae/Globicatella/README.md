@@ -1,5 +1,4 @@
-Globicatella Collins, Aguirre, Facklam, Shallcross & Williams, 1995 GENUS
-=======
+# Globicatella Collins, Aguirre, Facklam, Shallcross & Williams, 1995 GENUS
 
 #### Status
 ACCEPTED

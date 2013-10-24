@@ -1,5 +1,4 @@
-Dicaeoma monardellae (Dudley & C.H. Thomps.) Arthur SPECIES
-=======
+# Dicaeoma monardellae (Dudley & C.H. Thomps.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista argillacea Pat. SPECIES
-=======
+# Bovista argillacea Pat. SPECIES
 
 #### Status
 ACCEPTED

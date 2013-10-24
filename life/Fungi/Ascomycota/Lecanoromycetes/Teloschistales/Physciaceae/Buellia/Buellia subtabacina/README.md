@@ -1,5 +1,4 @@
-Buellia subtabacina Malme SPECIES
-=======
+# Buellia subtabacina Malme SPECIES
 
 #### Status
 ACCEPTED

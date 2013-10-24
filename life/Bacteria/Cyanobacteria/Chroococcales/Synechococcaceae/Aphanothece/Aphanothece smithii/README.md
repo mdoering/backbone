@@ -1,5 +1,4 @@
-Aphanothece smithii J. Komárková-Legnerová & G. Cronberg SPECIES
-=======
+# Aphanothece smithii J. Komárková-Legnerová & G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

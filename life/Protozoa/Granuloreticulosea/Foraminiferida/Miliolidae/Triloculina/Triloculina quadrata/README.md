@@ -1,5 +1,4 @@
-Triloculina quadrata Collins, 1958 SPECIES
-=======
+# Triloculina quadrata Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

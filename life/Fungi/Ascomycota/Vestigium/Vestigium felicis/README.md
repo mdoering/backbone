@@ -1,5 +1,4 @@
-Vestigium felicis Piroz. & Shoemaker, 1972 SPECIES
-=======
+# Vestigium felicis Piroz. & Shoemaker, 1972 SPECIES
 
 #### Status
 ACCEPTED

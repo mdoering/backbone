@@ -1,5 +1,4 @@
-Lecidea microphylla SPECIES
-=======
+# Lecidea microphylla SPECIES
 
 #### Status
 ACCEPTED

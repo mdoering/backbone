@@ -1,5 +1,4 @@
-Gyrophoropsis caroliniana (Tuck.) Elenkin & Savicz SPECIES
-=======
+# Gyrophoropsis caroliniana (Tuck.) Elenkin & Savicz SPECIES
 
 #### Status
 ACCEPTED

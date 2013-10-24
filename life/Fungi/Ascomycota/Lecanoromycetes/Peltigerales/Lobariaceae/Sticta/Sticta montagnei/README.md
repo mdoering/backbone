@@ -1,5 +1,4 @@
-Sticta montagnei C. Bab. SPECIES
-=======
+# Sticta montagnei C. Bab. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Minutocellus scriptus Hasle, von Stosch & Syvertsen SPECIES
-=======
+# Minutocellus scriptus Hasle, von Stosch & Syvertsen SPECIES
 
 #### Status
 ACCEPTED

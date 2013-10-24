@@ -1,5 +1,4 @@
-Irene irregularis (F. Stevens) Toro SPECIES
-=======
+# Irene irregularis (F. Stevens) Toro SPECIES
 
 #### Status
 ACCEPTED

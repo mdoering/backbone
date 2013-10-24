@@ -1,5 +1,4 @@
-Tapellariopsis octomera Lücking SPECIES
-=======
+# Tapellariopsis octomera Lücking SPECIES
 
 #### Status
 ACCEPTED

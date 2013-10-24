@@ -1,5 +1,4 @@
-Rostraureum tropicale Gryzenh. & M.J. Wingf., 2005 SPECIES
-=======
+# Rostraureum tropicale Gryzenh. & M.J. Wingf., 2005 SPECIES
 
 #### Status
 ACCEPTED

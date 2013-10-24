@@ -1,5 +1,4 @@
-Verrucaria efflorescens Øvstedal SPECIES
-=======
+# Verrucaria efflorescens Øvstedal SPECIES
 
 #### Status
 ACCEPTED

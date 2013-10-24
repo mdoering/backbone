@@ -1,5 +1,4 @@
-Gyalectidium denticulatum Lücking SPECIES
-=======
+# Gyalectidium denticulatum Lücking SPECIES
 
 #### Status
 ACCEPTED

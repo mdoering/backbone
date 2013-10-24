@@ -1,5 +1,4 @@
-Aecidium baumianum Henn. SPECIES
-=======
+# Aecidium baumianum Henn. SPECIES
 
 #### Status
 ACCEPTED

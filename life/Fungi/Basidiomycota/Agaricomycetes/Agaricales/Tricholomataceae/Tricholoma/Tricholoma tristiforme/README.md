@@ -1,5 +1,4 @@
-Tricholoma tristiforme Kauffman SPECIES
-=======
+# Tricholoma tristiforme Kauffman SPECIES
 
 #### Status
 ACCEPTED

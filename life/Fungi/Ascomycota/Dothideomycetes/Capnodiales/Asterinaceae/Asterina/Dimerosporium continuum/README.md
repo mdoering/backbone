@@ -1,5 +1,4 @@
-Dimerosporium continuum (Syd.) G. Arnaud SPECIES
-=======
+# Dimerosporium continuum (Syd.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes lonicerinus Bondartsev SPECIES
-=======
+# Fomes lonicerinus Bondartsev SPECIES
 
 #### Status
 ACCEPTED

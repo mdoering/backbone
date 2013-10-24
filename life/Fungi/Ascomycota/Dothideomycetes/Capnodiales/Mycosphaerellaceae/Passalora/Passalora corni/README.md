@@ -1,5 +1,4 @@
-Passalora corni Y.L. Guo SPECIES
-=======
+# Passalora corni Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

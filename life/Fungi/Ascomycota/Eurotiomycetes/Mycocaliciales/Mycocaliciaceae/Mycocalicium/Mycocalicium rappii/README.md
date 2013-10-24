@@ -1,5 +1,4 @@
-Mycocalicium rappii Nádv. SPECIES
-=======
+# Mycocalicium rappii Nádv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laschia decurrens Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Laschia decurrens Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

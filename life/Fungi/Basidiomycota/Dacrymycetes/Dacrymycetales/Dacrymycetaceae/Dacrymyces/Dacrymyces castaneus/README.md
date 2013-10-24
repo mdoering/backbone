@@ -1,5 +1,4 @@
-Dacrymyces castaneus Rabenh. SPECIES
-=======
+# Dacrymyces castaneus Rabenh. SPECIES
 
 #### Status
 ACCEPTED

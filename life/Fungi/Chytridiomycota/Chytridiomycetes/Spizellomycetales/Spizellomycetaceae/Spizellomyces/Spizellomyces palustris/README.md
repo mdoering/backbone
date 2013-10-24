@@ -1,5 +1,4 @@
-Spizellomyces palustris A. Gaertn. ex D.J.S. Barr, 1984 SPECIES
-=======
+# Spizellomyces palustris A. Gaertn. ex D.J.S. Barr, 1984 SPECIES
 
 #### Status
 ACCEPTED

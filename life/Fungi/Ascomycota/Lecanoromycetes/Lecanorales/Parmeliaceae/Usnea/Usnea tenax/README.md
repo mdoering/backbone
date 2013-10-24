@@ -1,5 +1,4 @@
-Usnea tenax Motyka SPECIES
-=======
+# Usnea tenax Motyka SPECIES
 
 #### Status
 ACCEPTED

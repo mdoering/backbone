@@ -1,5 +1,4 @@
-Imbricaria proboscidea (Taylor) Jatta SPECIES
-=======
+# Imbricaria proboscidea (Taylor) Jatta SPECIES
 
 #### Status
 ACCEPTED

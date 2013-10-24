@@ -1,17 +1,16 @@
-Hebeloma mammilatum Velen. SPECIES
-=======
+# Hebeloma mammillatum Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae 118 (1939)
 
 #### Original name
-Hebeloma mammilatum Velen.
+Hebeloma mammillatum Velen.
 
 ### Remarks
 null

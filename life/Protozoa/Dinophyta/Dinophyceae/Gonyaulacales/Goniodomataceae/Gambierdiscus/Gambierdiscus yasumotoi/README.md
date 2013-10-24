@@ -1,5 +1,4 @@
-Gambierdiscus yasumotoi M. J. Holmes SPECIES
-=======
+# Gambierdiscus yasumotoi M. J. Holmes SPECIES
 
 #### Status
 ACCEPTED

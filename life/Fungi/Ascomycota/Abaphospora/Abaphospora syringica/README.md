@@ -1,5 +1,4 @@
-Abaphospora syringica (P. Karst.) Kirschst. SPECIES
-=======
+# Abaphospora syringica (P. Karst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

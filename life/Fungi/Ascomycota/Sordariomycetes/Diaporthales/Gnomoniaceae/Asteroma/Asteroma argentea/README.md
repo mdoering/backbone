@@ -1,5 +1,4 @@
-Asteroma argentea Krieg. & Bubák SPECIES
-=======
+# Asteroma argentea Krieg. & Bubák SPECIES
 
 #### Status
 ACCEPTED

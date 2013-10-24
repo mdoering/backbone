@@ -1,5 +1,4 @@
-Poria brunneoadhaerens (Cleland & Rodway) SPECIES
-=======
+# Poria brunneoadhaerens (Cleland & Rodway) SPECIES
 
 #### Status
 ACCEPTED

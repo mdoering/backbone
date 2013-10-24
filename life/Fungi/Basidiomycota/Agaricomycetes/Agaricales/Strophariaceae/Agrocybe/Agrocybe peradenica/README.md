@@ -1,5 +1,4 @@
-Agrocybe peradenica Pegler SPECIES
-=======
+# Agrocybe peradenica Pegler SPECIES
 
 #### Status
 ACCEPTED

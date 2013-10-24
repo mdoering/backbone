@@ -1,5 +1,4 @@
-Puccinia sinarundinariicola J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia sinarundinariicola J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

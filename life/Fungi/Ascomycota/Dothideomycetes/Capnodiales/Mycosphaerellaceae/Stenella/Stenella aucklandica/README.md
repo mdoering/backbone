@@ -1,5 +1,4 @@
-Stenella aucklandica U. Braun & C.F. Hill, 2003 SPECIES
-=======
+# Stenella aucklandica U. Braun & C.F. Hill, 2003 SPECIES
 
 #### Status
 ACCEPTED

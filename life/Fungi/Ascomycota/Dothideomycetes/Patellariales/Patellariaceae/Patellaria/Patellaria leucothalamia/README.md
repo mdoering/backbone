@@ -1,5 +1,4 @@
-Patellaria leucothalamia (Nyl.) SPECIES
-=======
+# Patellaria leucothalamia (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

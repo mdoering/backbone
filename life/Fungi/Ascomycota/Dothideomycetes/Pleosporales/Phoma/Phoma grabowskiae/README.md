@@ -1,5 +1,4 @@
-Phoma grabowskiae Tassi SPECIES
-=======
+# Phoma grabowskiae Tassi SPECIES
 
 #### Status
 ACCEPTED

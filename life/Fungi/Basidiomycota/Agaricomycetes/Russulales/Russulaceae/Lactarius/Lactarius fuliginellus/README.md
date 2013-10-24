@@ -1,5 +1,4 @@
-Lactarius fuliginellus A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius fuliginellus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

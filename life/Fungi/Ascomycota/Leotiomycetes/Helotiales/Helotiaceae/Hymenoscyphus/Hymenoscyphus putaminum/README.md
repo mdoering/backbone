@@ -1,5 +1,4 @@
-Hymenoscyphus putaminum (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus putaminum (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista antarctica Speg. SPECIES
-=======
+# Bovista antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

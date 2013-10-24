@@ -1,5 +1,4 @@
-Gyalidea carnea (Arnold) Lettau SPECIES
-=======
+# Gyalidea carnea (Arnold) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius favrei H. Jahn SPECIES
-=======
+# Lactarius favrei H. Jahn SPECIES
 
 #### Status
 ACCEPTED

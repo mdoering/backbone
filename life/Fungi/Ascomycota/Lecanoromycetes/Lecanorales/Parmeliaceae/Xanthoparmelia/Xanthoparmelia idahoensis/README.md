@@ -1,5 +1,4 @@
-Xanthoparmelia idahoensis Hale SPECIES
-=======
+# Xanthoparmelia idahoensis Hale SPECIES
 
 #### Status
 ACCEPTED

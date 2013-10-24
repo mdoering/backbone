@@ -1,5 +1,4 @@
-Striatotheca granulata Xu Wanhong, 1996 SPECIES
-=======
+# Striatotheca granulata Xu Wanhong, 1996 SPECIES
 
 #### Status
 ACCEPTED

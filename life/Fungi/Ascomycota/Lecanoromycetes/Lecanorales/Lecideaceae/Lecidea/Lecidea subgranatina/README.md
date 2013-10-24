@@ -1,5 +1,4 @@
-Lecidea subgranatina SPECIES
-=======
+# Lecidea subgranatina SPECIES
 
 #### Status
 ACCEPTED

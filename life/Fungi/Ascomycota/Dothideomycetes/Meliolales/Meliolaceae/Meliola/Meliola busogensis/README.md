@@ -1,5 +1,4 @@
-Meliola busogensis Hansf. SPECIES
-=======
+# Meliola busogensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

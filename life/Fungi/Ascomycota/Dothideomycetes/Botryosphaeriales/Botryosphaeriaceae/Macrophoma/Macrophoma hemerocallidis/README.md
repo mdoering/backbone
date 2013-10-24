@@ -1,5 +1,4 @@
-Macrophoma hemerocallidis S. Ahmad SPECIES
-=======
+# Macrophoma hemerocallidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

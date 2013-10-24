@@ -1,5 +1,4 @@
-Pseudoomphalina intermedia (Kauffman) Singer SPECIES
-=======
+# Pseudoomphalina intermedia (Kauffman) Singer SPECIES
 
 #### Status
 ACCEPTED

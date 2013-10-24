@@ -1,5 +1,4 @@
-Sagedia hungarica Hazsl. SPECIES
-=======
+# Sagedia hungarica Hazsl. SPECIES
 
 #### Status
 ACCEPTED

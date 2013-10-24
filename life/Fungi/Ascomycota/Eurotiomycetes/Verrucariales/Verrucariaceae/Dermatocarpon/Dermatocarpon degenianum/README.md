@@ -1,5 +1,4 @@
-Dermatocarpon degenianum Gyeln. SPECIES
-=======
+# Dermatocarpon degenianum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

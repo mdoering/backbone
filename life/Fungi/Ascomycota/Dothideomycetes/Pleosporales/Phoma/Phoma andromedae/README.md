@@ -1,5 +1,4 @@
-Phoma andromedae Schwein. SPECIES
-=======
+# Phoma andromedae Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria manihotis T.Y. Zhang SPECIES
-=======
+# Alternaria manihotis T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

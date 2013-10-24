@@ -1,5 +1,4 @@
-Corum Blome, 1984 GENUS
-=======
+# Corum Blome, 1984 GENUS
 
 #### Status
 ACCEPTED

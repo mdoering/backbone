@@ -1,5 +1,4 @@
-Poria croceus P. Karst. SPECIES
-=======
+# Poria croceus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

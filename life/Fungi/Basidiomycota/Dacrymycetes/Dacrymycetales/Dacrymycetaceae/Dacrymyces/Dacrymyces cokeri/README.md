@@ -1,5 +1,4 @@
-Dacrymyces cokeri McNabb SPECIES
-=======
+# Dacrymyces cokeri McNabb SPECIES
 
 #### Status
 ACCEPTED

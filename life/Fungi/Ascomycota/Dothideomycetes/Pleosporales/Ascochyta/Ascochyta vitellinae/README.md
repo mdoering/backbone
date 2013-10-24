@@ -1,5 +1,4 @@
-Ascochyta vitellinae Pass. SPECIES
-=======
+# Ascochyta vitellinae Pass. SPECIES
 
 #### Status
 ACCEPTED

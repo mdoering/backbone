@@ -1,5 +1,4 @@
-Irenopsis tibodensis SPECIES
-=======
+# Irenopsis tibodensis SPECIES
 
 #### Status
 ACCEPTED

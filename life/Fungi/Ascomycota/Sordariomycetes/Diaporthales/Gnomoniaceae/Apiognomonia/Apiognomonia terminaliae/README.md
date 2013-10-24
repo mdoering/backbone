@@ -1,5 +1,4 @@
-Apiognomonia terminaliae Katum. & Y. Harada SPECIES
-=======
+# Apiognomonia terminaliae Katum. & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catocarpus anzianus var. anzianus VARIETY
-=======
+# Catocarpus anzianus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Catocarpus anzianus var. anzianus
+Catocarpus anzianus Müll. Arg.
 
 ### Remarks
 null

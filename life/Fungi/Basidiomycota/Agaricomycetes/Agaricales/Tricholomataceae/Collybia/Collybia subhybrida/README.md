@@ -1,5 +1,4 @@
-Collybia subhybrida Singer SPECIES
-=======
+# Collybia subhybrida Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus ramosus Hallier SPECIES
-=======
+# Aspergillus ramosus Hallier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces pazsckeanus Henn. SPECIES
-=======
+# Uromyces pazsckeanus Henn. SPECIES
 
 #### Status
 ACCEPTED

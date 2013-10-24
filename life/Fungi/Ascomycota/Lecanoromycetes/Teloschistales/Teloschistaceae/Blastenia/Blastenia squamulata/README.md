@@ -1,5 +1,4 @@
-Blastenia squamulata (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia squamulata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyronema rosella Ehrenb. SPECIES
-=======
+# Pyronema rosella Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

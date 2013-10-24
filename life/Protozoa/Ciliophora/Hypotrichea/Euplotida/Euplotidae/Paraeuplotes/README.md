@@ -1,5 +1,4 @@
-Paraeuplotes GENUS
-=======
+# Paraeuplotes GENUS
 
 #### Status
 ACCEPTED

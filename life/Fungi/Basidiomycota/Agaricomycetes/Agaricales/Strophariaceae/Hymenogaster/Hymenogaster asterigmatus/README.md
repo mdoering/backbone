@@ -1,5 +1,4 @@
-Hymenogaster asterigmatus Soehner SPECIES
-=======
+# Hymenogaster asterigmatus Soehner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium rimosum Malençon SPECIES
-=======
+# Helotium rimosum Malençon SPECIES
 
 #### Status
 ACCEPTED

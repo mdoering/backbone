@@ -1,5 +1,4 @@
-Verrucaria crenulata Nyl. SPECIES
-=======
+# Verrucaria crenulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

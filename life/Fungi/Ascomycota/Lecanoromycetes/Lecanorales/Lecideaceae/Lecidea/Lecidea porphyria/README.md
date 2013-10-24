@@ -1,5 +1,4 @@
-Lecidea porphyria C. Knight SPECIES
-=======
+# Lecidea porphyria C. Knight SPECIES
 
 #### Status
 ACCEPTED

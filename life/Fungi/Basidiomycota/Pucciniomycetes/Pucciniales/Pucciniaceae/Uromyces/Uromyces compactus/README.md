@@ -1,5 +1,4 @@
-Uromyces compactus Peck SPECIES
-=======
+# Uromyces compactus Peck SPECIES
 
 #### Status
 ACCEPTED

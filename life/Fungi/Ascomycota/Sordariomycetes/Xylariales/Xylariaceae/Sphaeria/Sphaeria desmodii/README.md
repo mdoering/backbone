@@ -1,5 +1,4 @@
-Sphaeria desmodii Peck SPECIES
-=======
+# Sphaeria desmodii Peck SPECIES
 
 #### Status
 ACCEPTED

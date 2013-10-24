@@ -1,5 +1,4 @@
-Verrucaria pseudonigrescens Servít SPECIES
-=======
+# Verrucaria pseudonigrescens Servít SPECIES
 
 #### Status
 ACCEPTED

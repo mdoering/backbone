@@ -1,5 +1,4 @@
-Endogone acrogena Gerd., Trappe & Hosford SPECIES
-=======
+# Endogone acrogena Gerd., Trappe & Hosford SPECIES
 
 #### Status
 ACCEPTED

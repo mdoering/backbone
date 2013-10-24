@@ -1,5 +1,4 @@
-Sphaerella belladonnae Briard & Har. SPECIES
-=======
+# Sphaerella belladonnae Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

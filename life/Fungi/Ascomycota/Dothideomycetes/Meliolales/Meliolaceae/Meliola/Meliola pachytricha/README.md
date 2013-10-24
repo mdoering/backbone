@@ -1,5 +1,4 @@
-Meliola pachytricha (Link) Sacc. SPECIES
-=======
+# Meliola pachytricha (Link) Sacc. SPECIES
 
 #### Status
 ACCEPTED

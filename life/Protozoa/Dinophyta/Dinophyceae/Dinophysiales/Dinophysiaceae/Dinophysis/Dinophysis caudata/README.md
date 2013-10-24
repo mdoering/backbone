@@ -1,14 +1,13 @@
-Dinophysis caudata var. caudata VARIETY
-=======
+# Dinophysis caudata Saville-Kent SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Saville-Kent W. 1880/82. A manual of the infusoria. London, Bogue 1: 460-461.
 
 #### Original name
 null

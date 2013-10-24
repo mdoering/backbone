@@ -1,5 +1,4 @@
-Farnoldia Hertel GENUS
-=======
+# Farnoldia Hertel GENUS
 
 #### Status
 ACCEPTED

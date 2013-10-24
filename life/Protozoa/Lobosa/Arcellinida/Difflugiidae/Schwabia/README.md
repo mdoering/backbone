@@ -1,5 +1,4 @@
-Schwabia Jung, 1942 GENUS
-=======
+# Schwabia Jung, 1942 GENUS
 
 #### Status
 ACCEPTED

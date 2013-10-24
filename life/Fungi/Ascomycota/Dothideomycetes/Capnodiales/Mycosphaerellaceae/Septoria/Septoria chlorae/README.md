@@ -1,5 +1,4 @@
-Septoria chlorae Sacc. & Speg. SPECIES
-=======
+# Septoria chlorae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

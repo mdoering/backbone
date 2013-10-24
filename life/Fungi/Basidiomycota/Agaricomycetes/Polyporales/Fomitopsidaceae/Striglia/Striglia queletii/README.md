@@ -1,5 +1,4 @@
-Striglia queletii (Schulzer) Kuntze SPECIES
-=======
+# Striglia queletii (Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

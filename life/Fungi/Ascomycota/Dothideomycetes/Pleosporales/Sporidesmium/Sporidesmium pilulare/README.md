@@ -1,5 +1,4 @@
-Sporidesmium pilulare Sacc. SPECIES
-=======
+# Sporidesmium pilulare Sacc. SPECIES
 
 #### Status
 ACCEPTED

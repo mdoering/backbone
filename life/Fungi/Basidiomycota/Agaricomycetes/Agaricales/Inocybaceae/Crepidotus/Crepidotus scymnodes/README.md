@@ -1,5 +1,4 @@
-Crepidotus scymnodes Berk. & M.A. Curtis SPECIES
-=======
+# Crepidotus scymnodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

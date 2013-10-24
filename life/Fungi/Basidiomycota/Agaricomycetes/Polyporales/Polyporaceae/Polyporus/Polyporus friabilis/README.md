@@ -1,5 +1,4 @@
-Polyporus friabilis Bose SPECIES
-=======
+# Polyporus friabilis Bose SPECIES
 
 #### Status
 ACCEPTED

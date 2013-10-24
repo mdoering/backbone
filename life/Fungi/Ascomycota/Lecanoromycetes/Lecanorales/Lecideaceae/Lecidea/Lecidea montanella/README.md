@@ -1,5 +1,4 @@
-Lecidea montanella Vain. SPECIES
-=======
+# Lecidea montanella Vain. SPECIES
 
 #### Status
 ACCEPTED

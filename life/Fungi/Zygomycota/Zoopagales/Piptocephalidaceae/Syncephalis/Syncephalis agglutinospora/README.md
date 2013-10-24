@@ -1,5 +1,4 @@
-Syncephalis agglutinospora M.S. Patil & B.J. Patil SPECIES
-=======
+# Syncephalis agglutinospora M.S. Patil & B.J. Patil SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycothamnion fodinarum Kütz. SPECIES
-=======
+# Mycothamnion fodinarum Kütz. SPECIES
 
 #### Status
 ACCEPTED

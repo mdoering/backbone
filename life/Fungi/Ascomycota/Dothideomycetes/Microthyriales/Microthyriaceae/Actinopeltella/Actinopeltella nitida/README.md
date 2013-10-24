@@ -1,5 +1,4 @@
-Actinopeltella nitida Doidge SPECIES
-=======
+# Actinopeltella nitida Doidge SPECIES
 
 #### Status
 ACCEPTED

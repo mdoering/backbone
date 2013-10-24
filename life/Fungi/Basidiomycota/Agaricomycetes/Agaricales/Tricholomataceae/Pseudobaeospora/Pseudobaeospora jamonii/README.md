@@ -1,5 +1,4 @@
-Pseudobaeospora jamonii Bas, Lalli & Lonati SPECIES
-=======
+# Pseudobaeospora jamonii Bas, Lalli & Lonati SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Tracheloraphis hamatus Wright, 1982 SPECIES
-=======
+# Tracheloraphis hamata Wright, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

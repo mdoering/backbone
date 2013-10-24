@@ -1,5 +1,4 @@
-Pirea sinensis Li Jun, 1987 SPECIES
-=======
+# Pirea sinensis Li Jun, 1987 SPECIES
 
 #### Status
 ACCEPTED

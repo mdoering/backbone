@@ -1,5 +1,4 @@
-Spirotrachelostyla Gong, Song, Li, Shao & Chen, 2006 GENUS
-=======
+# Spirotrachelostyla Gong, Song, Li, Shao & Chen, 2006 GENUS
 
 #### Status
 ACCEPTED

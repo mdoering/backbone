@@ -1,5 +1,4 @@
-Asteromella galii Moesz & Lindtner SPECIES
-=======
+# Asteromella galii Moesz & Lindtner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterisca GENUS
-=======
+# Asterisca GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pharcidia martinatiana (Arnold) Sacc. & D. Sacc. SPECIES
-=======
+# Pharcidia martinatiana (Arnold) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

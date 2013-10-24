@@ -1,5 +1,4 @@
-Stylorhynchidae FAMILY
-=======
+# Stylorhynchidae FAMILY
 
 #### Status
 ACCEPTED

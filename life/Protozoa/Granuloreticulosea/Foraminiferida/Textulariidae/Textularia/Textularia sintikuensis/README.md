@@ -1,5 +1,4 @@
-Textularia sintikuensis Nakamura SPECIES
-=======
+# Textularia sintikuensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

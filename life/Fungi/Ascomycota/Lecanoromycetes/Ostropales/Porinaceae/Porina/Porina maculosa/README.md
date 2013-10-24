@@ -1,5 +1,4 @@
-Porina maculosa (Nyl.) Zahlbr. SPECIES
-=======
+# Porina maculosa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

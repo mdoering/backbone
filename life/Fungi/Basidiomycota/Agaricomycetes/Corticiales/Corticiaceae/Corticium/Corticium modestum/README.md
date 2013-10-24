@@ -1,5 +1,4 @@
-Corticium modestum Berk. & Broome SPECIES
-=======
+# Corticium modestum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

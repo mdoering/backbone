@@ -1,5 +1,4 @@
-Roussoella pustulans (Ellis & Everh.) Y.M. Ju, J.D. Rogers & Huhndorf SPECIES
-=======
+# Roussoella pustulans (Ellis & Everh.) Y.M. Ju, J.D. Rogers & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

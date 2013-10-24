@@ -1,5 +1,4 @@
-Poria subspadicea (Fr.) P. Karst. SPECIES
-=======
+# Poria subspadicea (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

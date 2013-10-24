@@ -1,5 +1,4 @@
-Lignydium atropurpureum (Peck) Kuntze SPECIES
-=======
+# Lignydium atropurpureum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

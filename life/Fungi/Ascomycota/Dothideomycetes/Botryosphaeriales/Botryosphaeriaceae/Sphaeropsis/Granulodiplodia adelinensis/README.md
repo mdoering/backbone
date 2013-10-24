@@ -1,5 +1,4 @@
-Granulodiplodia adelinensis (F. Stevens & Celino) Zambett. SPECIES
-=======
+# Granulodiplodia adelinensis (F. Stevens & Celino) Zambett. SPECIES
 
 #### Status
 ACCEPTED

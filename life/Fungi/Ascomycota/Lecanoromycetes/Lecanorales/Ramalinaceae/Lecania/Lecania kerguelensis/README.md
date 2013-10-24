@@ -1,5 +1,4 @@
-Lecania kerguelensis C.W. Dodge SPECIES
-=======
+# Lecania kerguelensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

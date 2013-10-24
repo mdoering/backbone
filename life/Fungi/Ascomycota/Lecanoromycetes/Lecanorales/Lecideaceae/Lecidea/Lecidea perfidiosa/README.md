@@ -1,5 +1,4 @@
-Lecidea perfidiosa Nyl. SPECIES
-=======
+# Lecidea perfidiosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

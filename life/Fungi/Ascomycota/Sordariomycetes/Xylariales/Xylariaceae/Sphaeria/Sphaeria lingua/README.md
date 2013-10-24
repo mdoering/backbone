@@ -1,5 +1,4 @@
-Sphaeria lingua Lév. SPECIES
-=======
+# Sphaeria lingua Lév. SPECIES
 
 #### Status
 ACCEPTED

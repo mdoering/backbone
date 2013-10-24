@@ -1,5 +1,4 @@
-Lycoperdon favosum Oudem. SPECIES
-=======
+# Lycoperdon favosum Oudem. SPECIES
 
 #### Status
 ACCEPTED

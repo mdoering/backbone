@@ -1,5 +1,4 @@
-Ogataea trehalophila (Phaff, M.W. Mill. & J.F.T. Spencer) Kurtzman & Robnett, 2010 SPECIES
-=======
+# Ogataea trehalophila (Phaff, M.W. Mill. & J.F.T. Spencer) Kurtzman & Robnett, 2010 SPECIES
 
 #### Status
 ACCEPTED

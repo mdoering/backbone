@@ -1,5 +1,4 @@
-Peziza oleosa Ellis SPECIES
-=======
+# Peziza oleosa Ellis SPECIES
 
 #### Status
 ACCEPTED

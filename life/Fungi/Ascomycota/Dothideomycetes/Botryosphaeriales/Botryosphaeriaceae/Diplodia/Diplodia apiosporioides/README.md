@@ -1,5 +1,4 @@
-Diplodia apiosporioides Tassi SPECIES
-=======
+# Diplodia apiosporioides Tassi SPECIES
 
 #### Status
 ACCEPTED

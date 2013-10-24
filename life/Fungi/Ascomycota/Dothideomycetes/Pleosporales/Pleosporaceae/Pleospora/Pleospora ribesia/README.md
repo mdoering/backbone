@@ -1,5 +1,4 @@
-Pleospora ribesia Feltgen SPECIES
-=======
+# Pleospora ribesia Feltgen SPECIES
 
 #### Status
 ACCEPTED

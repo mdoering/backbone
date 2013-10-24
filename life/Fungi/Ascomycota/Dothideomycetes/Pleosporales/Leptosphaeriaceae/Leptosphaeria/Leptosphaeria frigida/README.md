@@ -1,17 +1,16 @@
-Leptosphaeria frigidus Lar.N. Vassiljeva SPECIES
-=======
+# Leptosphaeria frigida Lar.N. Vassiljeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pirenomits. Lokuloaskomits. Severa Dal'nego Vostoka (Leningrad) 117 (1987)
 
 #### Original name
-Leptosphaeria frigidus Lar.N. Vassiljeva
+Leptosphaeria frigida Lar.N. Vassiljeva
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Desulfobulbaceae FAMILY
-=======
+# Desulfobulbaceae FAMILY
 
 #### Status
 ACCEPTED

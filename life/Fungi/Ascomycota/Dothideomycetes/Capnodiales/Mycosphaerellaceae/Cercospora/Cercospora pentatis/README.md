@@ -1,17 +1,16 @@
-Cercospora pentasii R.C. Rajak SPECIES
-=======
+# Cercospora pentatis R.C. Rajak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 10(2): 455 (1980)
 
 #### Original name
-Cercospora pentasii R.C. Rajak
+Cercospora pentatis R.C. Rajak
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Imbricaria subconspersa (Nyl.) Jatta SPECIES
-=======
+# Imbricaria subconspersa (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

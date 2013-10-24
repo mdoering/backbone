@@ -1,5 +1,4 @@
-Avalonella Wauthoz & Dorning, 2001 GENUS
-=======
+# Avalonella Wauthoz & Dorning, 2001 GENUS
 
 #### Status
 ACCEPTED

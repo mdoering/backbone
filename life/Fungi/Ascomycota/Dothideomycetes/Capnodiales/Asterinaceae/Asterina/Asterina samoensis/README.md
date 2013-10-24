@@ -1,5 +1,4 @@
-Asterina samoensis (Henn.) Theiss. SPECIES
-=======
+# Asterina samoensis (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

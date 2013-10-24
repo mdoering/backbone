@@ -1,5 +1,4 @@
-Puccinia pternopetali J.Y. Zhuang SPECIES
-=======
+# Puccinia pternopetali J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta andreana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Sticta andreana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

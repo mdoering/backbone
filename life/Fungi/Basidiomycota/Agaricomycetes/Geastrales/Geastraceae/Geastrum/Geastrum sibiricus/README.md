@@ -1,17 +1,16 @@
-Geaster sibiricus Pilát SPECIES
-=======
+# Geastrum sibiricus Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 51(3-4): 423 (1936)
 
 #### Original name
-Geaster sibiricus Pilát
+Geastrum sibiricus Pilát
 
 ### Remarks
 null

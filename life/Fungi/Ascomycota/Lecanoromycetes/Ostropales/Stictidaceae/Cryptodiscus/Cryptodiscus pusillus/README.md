@@ -1,5 +1,4 @@
-Cryptodiscus pusillus (Lib.) Rehm SPECIES
-=======
+# Cryptodiscus pusillus (Lib.) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus caelatus B.W. Horn, 1997 SPECIES
-=======
+# Aspergillus caelatus B.W. Horn, 1997 SPECIES
 
 #### Status
 ACCEPTED

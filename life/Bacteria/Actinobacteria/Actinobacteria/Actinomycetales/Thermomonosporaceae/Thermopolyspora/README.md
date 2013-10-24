@@ -1,5 +1,4 @@
-Thermopolyspora GENUS
-=======
+# Thermopolyspora GENUS
 
 #### Status
 ACCEPTED

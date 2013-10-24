@@ -1,5 +1,4 @@
-Haematomma inexpectatum Kalb SPECIES
-=======
+# Haematomma inexpectatum Kalb SPECIES
 
 #### Status
 ACCEPTED

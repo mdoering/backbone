@@ -1,5 +1,4 @@
-Psilocybe neocaledonica Guzmán & E. Horak SPECIES
-=======
+# Psilocybe neocaledonica Guzmán & E. Horak SPECIES
 
 #### Status
 ACCEPTED

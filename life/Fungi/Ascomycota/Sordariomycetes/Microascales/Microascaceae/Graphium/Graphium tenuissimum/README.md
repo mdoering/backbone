@@ -1,5 +1,4 @@
-Graphium tenuissimum Corda SPECIES
-=======
+# Graphium tenuissimum Corda SPECIES
 
 #### Status
 ACCEPTED

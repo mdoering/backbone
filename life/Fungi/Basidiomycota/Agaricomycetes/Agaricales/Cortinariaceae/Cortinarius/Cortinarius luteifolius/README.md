@@ -1,5 +1,4 @@
-Cortinarius luteifolius M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius luteifolius M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia chilensis Mont. SPECIES
-=======
+# Omphalia chilensis Mont. SPECIES
 
 #### Status
 ACCEPTED

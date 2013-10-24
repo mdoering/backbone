@@ -1,5 +1,4 @@
-Phaeocollybia hilaris (Fr.) Bon SPECIES
-=======
+# Phaeocollybia hilaris (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

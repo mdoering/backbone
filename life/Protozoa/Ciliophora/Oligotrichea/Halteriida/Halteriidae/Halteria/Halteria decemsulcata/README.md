@@ -1,5 +1,4 @@
-Halteria decemsulcata Szabó, 1934 SPECIES
-=======
+# Halteria decemsulcata Szabó, 1934 SPECIES
 
 #### Status
 ACCEPTED

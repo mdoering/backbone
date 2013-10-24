@@ -1,5 +1,4 @@
-Lepiota dubia Rick SPECIES
-=======
+# Lepiota dubia Rick SPECIES
 
 #### Status
 ACCEPTED

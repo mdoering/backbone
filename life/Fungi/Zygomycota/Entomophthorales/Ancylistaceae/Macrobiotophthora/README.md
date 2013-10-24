@@ -1,5 +1,4 @@
-Macrobiotophthora Reukauf GENUS
-=======
+# Macrobiotophthora Reukauf GENUS
 
 #### Status
 ACCEPTED

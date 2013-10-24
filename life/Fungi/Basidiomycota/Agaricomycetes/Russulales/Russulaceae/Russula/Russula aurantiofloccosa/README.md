@@ -1,5 +1,4 @@
-Russula aurantiofloccosa Buyck SPECIES
-=======
+# Russula aurantiofloccosa Buyck SPECIES
 
 #### Status
 ACCEPTED

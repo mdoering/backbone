@@ -1,5 +1,4 @@
-Encephalographa stizenbergeri Zahlbr. SPECIES
-=======
+# Encephalographa stizenbergeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

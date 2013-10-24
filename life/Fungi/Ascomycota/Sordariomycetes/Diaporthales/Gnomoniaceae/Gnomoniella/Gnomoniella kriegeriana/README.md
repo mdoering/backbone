@@ -1,5 +1,4 @@
-Gnomoniella kriegeriana Rehm SPECIES
-=======
+# Gnomoniella kriegeriana Rehm SPECIES
 
 #### Status
 ACCEPTED

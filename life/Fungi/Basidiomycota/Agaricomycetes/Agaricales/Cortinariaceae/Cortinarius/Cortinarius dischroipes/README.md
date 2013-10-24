@@ -1,5 +1,4 @@
-Cortinarius dischroipes Rob. Henry SPECIES
-=======
+# Cortinarius dischroipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

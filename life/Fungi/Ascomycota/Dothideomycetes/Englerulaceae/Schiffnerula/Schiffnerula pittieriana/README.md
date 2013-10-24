@@ -1,5 +1,4 @@
-Schiffnerula pittieriana Syd. SPECIES
-=======
+# Schiffnerula pittieriana Syd. SPECIES
 
 #### Status
 ACCEPTED

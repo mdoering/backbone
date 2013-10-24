@@ -1,5 +1,4 @@
-Buellia microbola (Fink) Sheard SPECIES
-=======
+# Buellia microbola (Fink) Sheard SPECIES
 
 #### Status
 ACCEPTED

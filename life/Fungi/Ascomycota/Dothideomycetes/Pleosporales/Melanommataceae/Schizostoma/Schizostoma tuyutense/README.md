@@ -1,5 +1,4 @@
-Schizostoma tuyutense Speg. SPECIES
-=======
+# Schizostoma tuyutense Speg. SPECIES
 
 #### Status
 ACCEPTED

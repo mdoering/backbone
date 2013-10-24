@@ -1,5 +1,4 @@
-Placosphaeria viburni Henn. SPECIES
-=======
+# Placosphaeria viburni Henn. SPECIES
 
 #### Status
 ACCEPTED

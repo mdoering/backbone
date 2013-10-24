@@ -1,5 +1,4 @@
-Parmelia submarmariza Asahina SPECIES
-=======
+# Parmelia submarmariza Asahina SPECIES
 
 #### Status
 ACCEPTED

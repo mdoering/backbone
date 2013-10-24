@@ -1,5 +1,4 @@
-Celtidia J.D. Janse GENUS
-=======
+# Celtidia J.D. Janse GENUS
 
 #### Status
 ACCEPTED

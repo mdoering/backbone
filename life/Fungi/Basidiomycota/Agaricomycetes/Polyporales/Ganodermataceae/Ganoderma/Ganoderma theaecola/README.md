@@ -1,5 +1,4 @@
-Ganoderma theaecola J.D. Zhao, 1984 SPECIES
-=======
+# Ganoderma theaecola J.D. Zhao, 1984 SPECIES
 
 #### Status
 ACCEPTED

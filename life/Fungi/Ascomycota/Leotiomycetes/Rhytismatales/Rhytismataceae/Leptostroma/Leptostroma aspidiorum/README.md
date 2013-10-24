@@ -1,5 +1,4 @@
-Leptostroma aspidiorum Schwein. SPECIES
-=======
+# Leptostroma aspidiorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

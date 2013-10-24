@@ -1,5 +1,4 @@
-Biatora chlorantha Tuck. SPECIES
-=======
+# Biatora chlorantha Tuck. SPECIES
 
 #### Status
 ACCEPTED

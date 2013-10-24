@@ -1,17 +1,16 @@
-Anisomeridium quadrococcum R.C. Harris SPECIES
-=======
+# Anisomeridium quadricoccum R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 129 (1995)
 
 #### Original name
-Anisomeridium quadrococcum R.C. Harris
+Anisomeridium quadricoccum R. C. Harris
 
 ### Remarks
 null

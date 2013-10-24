@@ -1,5 +1,4 @@
-Laboulbenia trivialis Speg. SPECIES
-=======
+# Laboulbenia trivialis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiora lepargyrea (Dearn. ex M.E. Barr) M.E. Barr SPECIES
-=======
+# Dothiora lepargyrea (Dearn. ex M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

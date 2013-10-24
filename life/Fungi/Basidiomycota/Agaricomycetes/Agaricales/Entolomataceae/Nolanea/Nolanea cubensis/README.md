@@ -1,5 +1,4 @@
-Nolanea cubensis Murrill SPECIES
-=======
+# Nolanea cubensis Murrill SPECIES
 
 #### Status
 ACCEPTED

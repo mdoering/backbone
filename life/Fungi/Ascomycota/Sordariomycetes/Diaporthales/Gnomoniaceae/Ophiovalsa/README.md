@@ -1,5 +1,4 @@
-Ophiovalsa Petrak, 1966 GENUS
-=======
+# Ophiovalsa Petrak, 1966 GENUS
 
 #### Status
 ACCEPTED

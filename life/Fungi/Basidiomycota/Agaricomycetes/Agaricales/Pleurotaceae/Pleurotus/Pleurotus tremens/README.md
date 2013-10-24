@@ -1,5 +1,4 @@
-Pleurotus tremens Quél. SPECIES
-=======
+# Pleurotus tremens Quél. SPECIES
 
 #### Status
 ACCEPTED

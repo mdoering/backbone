@@ -1,5 +1,4 @@
-Cryptodiscus phaneromycoides Rehm SPECIES
-=======
+# Cryptodiscus phaneromycoides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria zollingeri Groenh. SPECIES
-=======
+# Umbilicaria zollingeri Groenh. SPECIES
 
 #### Status
 ACCEPTED

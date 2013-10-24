@@ -1,5 +1,4 @@
-Amphisphaeria franconica Ade SPECIES
-=======
+# Amphisphaeria franconica Ade SPECIES
 
 #### Status
 ACCEPTED

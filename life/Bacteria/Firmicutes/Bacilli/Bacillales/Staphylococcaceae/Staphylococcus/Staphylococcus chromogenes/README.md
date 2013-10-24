@@ -1,8 +1,7 @@
-Staphylococcus hyicus subsp. chromogenes SUBSPECIES
-=======
+# Staphylococcus chromogenes (Devriese et al., 1978) Hájek et al., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Thalassiosira oliverana var. sparsa D.M. Harwood & T. Maruyama VARIETY
-=======
+# Thalassiosira oliverana (O'Meara) Sournia SPECIES
 
 #### Status
 ACCEPTED

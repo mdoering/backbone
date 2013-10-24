@@ -1,5 +1,4 @@
-Arthonia distincta Eckfeldt SPECIES
-=======
+# Arthonia distincta Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aletes U. Horst GENUS
-=======
+# Aletes U. Horst GENUS
 
 #### Status
 ACCEPTED

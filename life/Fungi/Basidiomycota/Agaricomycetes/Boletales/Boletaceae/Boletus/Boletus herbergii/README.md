@@ -1,5 +1,4 @@
-Boletus herbergii Rostk. SPECIES
-=======
+# Boletus herbergii Rostk. SPECIES
 
 #### Status
 ACCEPTED

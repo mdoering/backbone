@@ -1,5 +1,4 @@
-Leucoagaricus erioderma (Malençon) Bon SPECIES
-=======
+# Leucoagaricus erioderma (Malençon) Bon SPECIES
 
 #### Status
 ACCEPTED

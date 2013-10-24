@@ -1,5 +1,4 @@
-Clavaria bessonii Pat. SPECIES
-=======
+# Clavaria bessonii Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cochlosyndinium E.Chatton GENUS
-=======
+# Cochlosyndinium E.Chatton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium keteleeriae-evelynianae T.X. Zhou & Y.Hui Chen, 1994 SPECIES
-=======
+# Peridermium keteleeriae-evelynianae T.X. Zhou & Y.Hui Chen, 1994 SPECIES
 
 #### Status
 ACCEPTED

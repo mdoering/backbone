@@ -1,14 +1,13 @@
-Sphacelotheca dolichosora Ainsw., 1941 SPECIES
-=======
+# Sporisorium dolichosorum (Ainsw.) Vánky, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 94 (1941)
+Mycotaxon 73: 142 (1999)
 
 #### Original name
 Sphacelotheca dolichosora Ainsw., 1941

@@ -1,5 +1,4 @@
-Phyllachora microstegia Syd., 1924 SPECIES
-=======
+# Phyllachora microstegia Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

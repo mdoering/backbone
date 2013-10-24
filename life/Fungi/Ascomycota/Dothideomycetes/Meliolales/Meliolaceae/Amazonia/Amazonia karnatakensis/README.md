@@ -1,5 +1,4 @@
-Amazonia karnatakensis Hosag. & Manian SPECIES
-=======
+# Amazonia karnatakensis Hosag. & Manian SPECIES
 
 #### Status
 ACCEPTED

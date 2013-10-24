@@ -1,5 +1,4 @@
-Cordyceps sobolifera var. sobolifera VARIETY
-=======
+# Cordyceps sobolifera (Hill ex Watson) Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

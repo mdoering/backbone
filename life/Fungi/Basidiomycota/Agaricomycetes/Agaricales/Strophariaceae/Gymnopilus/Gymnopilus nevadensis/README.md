@@ -1,5 +1,4 @@
-Gymnopilus nevadensis Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Gymnopilus nevadensis Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

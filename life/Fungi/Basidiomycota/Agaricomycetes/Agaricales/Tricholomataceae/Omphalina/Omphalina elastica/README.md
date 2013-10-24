@@ -1,5 +1,4 @@
-Omphalina elastica subsp. elastica SUBSPECIES
-=======
+# Omphalina elastica (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Metrodiana, Sonderheft 2: 11 (1983)
 
 #### Original name
-Omphalina elastica subsp. elastica
+Gerronema elasticum Singer
 
 ### Remarks
 null

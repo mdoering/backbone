@@ -1,5 +1,4 @@
-Archicapsa Haeckel, 1881 GENUS
-=======
+# Archicapsa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

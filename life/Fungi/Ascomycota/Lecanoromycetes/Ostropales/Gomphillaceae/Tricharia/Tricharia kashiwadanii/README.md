@@ -1,5 +1,4 @@
-Tricharia kashiwadanii G. Thor, Lücking & Tat. Matsumoto SPECIES
-=======
+# Tricharia kashiwadanii G. Thor, Lücking & Tat. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

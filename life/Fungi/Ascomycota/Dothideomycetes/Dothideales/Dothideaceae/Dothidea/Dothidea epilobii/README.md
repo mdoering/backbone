@@ -1,5 +1,4 @@
-Dothidea epilobii Fr. SPECIES
-=======
+# Dothidea epilobii Fr. SPECIES
 
 #### Status
 ACCEPTED

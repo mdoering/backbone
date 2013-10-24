@@ -1,5 +1,4 @@
-Coccidiascus Chatton GENUS
-=======
+# Coccidiascus Chatton GENUS
 
 #### Status
 ACCEPTED

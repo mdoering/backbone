@@ -1,17 +1,16 @@
-Synchytrium balsamini S.D. Patil & Mahab. SPECIES
-=======
+# Synchytrium balsaminae S.D. Patil & Mahab. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Univ. Poona, Sci. Techn. 26: 70 (1964)
 
 #### Original name
-Synchytrium balsamini S.D. Patil & Mahab.
+Synchytrium balsaminae S.D. Patil & Mahab.
 
 ### Remarks
 null

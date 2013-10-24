@@ -1,5 +1,4 @@
-Bicosoecaceae Haeckel, 1894 FAMILY
-=======
+# Bicosoecaceae Haeckel, 1894 FAMILY
 
 #### Status
 ACCEPTED

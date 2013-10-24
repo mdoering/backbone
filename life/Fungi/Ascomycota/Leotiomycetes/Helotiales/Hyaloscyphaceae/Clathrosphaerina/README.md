@@ -1,5 +1,4 @@
-Clathrosphaerina Van Beverwijk, 1951 GENUS
-=======
+# Clathrosphaerina Van Beverwijk, 1951 GENUS
 
 #### Status
 ACCEPTED

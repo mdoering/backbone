@@ -1,5 +1,4 @@
-Aegyria compressa Gourret & Roeser, 1886 SPECIES
-=======
+# Aegyria compressa Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

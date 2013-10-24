@@ -1,5 +1,4 @@
-Bactridium parasiticum Petr. SPECIES
-=======
+# Bactridium parasiticum Petr. SPECIES
 
 #### Status
 ACCEPTED

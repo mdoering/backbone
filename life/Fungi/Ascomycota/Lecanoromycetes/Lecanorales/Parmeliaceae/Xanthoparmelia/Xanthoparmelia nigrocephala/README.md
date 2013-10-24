@@ -1,5 +1,4 @@
-Xanthoparmelia nigrocephala Kurok. SPECIES
-=======
+# Xanthoparmelia nigrocephala Kurok. SPECIES
 
 #### Status
 ACCEPTED

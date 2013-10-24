@@ -1,14 +1,13 @@
-Phaeotrema discissa (Nyl.) Patw. & C.R. Kulk. SPECIES
-=======
+# Phaeotrema discissum (Nyl.) Patw. & C.R. Kulk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Patwardhan & Makhija, Biovigyanam 7(1): 45 (1981)
 
 #### Original name
 Verrucaria discissa Nyl.

@@ -1,5 +1,4 @@
-Agaricus leucus J. Otto SPECIES
-=======
+# Agaricus leucus J. Otto SPECIES
 
 #### Status
 ACCEPTED

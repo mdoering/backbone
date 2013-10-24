@@ -1,8 +1,7 @@
-Diplura similans Hollenberg, 1969 SPECIES
-=======
+# Diplura simulans Hollenberg, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

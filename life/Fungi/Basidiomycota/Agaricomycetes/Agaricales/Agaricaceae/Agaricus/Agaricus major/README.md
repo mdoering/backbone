@@ -1,5 +1,4 @@
-Agaricus major Sowerby SPECIES
-=======
+# Agaricus major Sowerby SPECIES
 
 #### Status
 ACCEPTED

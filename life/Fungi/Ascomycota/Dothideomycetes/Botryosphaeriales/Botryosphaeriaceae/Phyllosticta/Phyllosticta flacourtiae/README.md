@@ -1,5 +1,4 @@
-Phyllosticta flacourtiae S.M. Singh SPECIES
-=======
+# Phyllosticta flacourtiae S.M. Singh SPECIES
 
 #### Status
 ACCEPTED

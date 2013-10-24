@@ -1,5 +1,4 @@
-Ochros Medioli, Scott, Collins & Wall, 1990 GENUS
-=======
+# Ochros Medioli, Scott, Collins & Wall, 1990 GENUS
 
 #### Status
 ACCEPTED

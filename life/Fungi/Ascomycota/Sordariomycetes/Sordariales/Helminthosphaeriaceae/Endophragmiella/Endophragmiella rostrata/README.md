@@ -1,5 +1,4 @@
-Endophragmiella rostrata P.M. Kirk, 1985 SPECIES
-=======
+# Endophragmiella rostrata P.M. Kirk, 1985 SPECIES
 
 #### Status
 ACCEPTED

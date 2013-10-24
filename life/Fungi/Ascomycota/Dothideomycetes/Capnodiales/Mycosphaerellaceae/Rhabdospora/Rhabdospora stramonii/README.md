@@ -1,5 +1,4 @@
-Rhabdospora stramonii Gonz. Frag. SPECIES
-=======
+# Rhabdospora stramonii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

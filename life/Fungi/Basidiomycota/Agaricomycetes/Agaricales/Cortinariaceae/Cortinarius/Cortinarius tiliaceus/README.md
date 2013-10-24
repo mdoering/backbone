@@ -1,5 +1,4 @@
-Cortinarius tiliaceus N. Arnold SPECIES
-=======
+# Cortinarius tiliaceus N. Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Photorhabdus luminescens subsp. luminescens SUBSPECIES
-=======
+# Photorhabdus luminescens (Thomas & Poinar, 1979) Boemare et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula subcrustosa L.D. Gómez & Singer SPECIES
-=======
+# Russula subcrustosa L.D. Gómez & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina ulei (Syd. & P. Syd.) B. Sutton SPECIES
-=======
+# Stigmina ulei (Syd. & P. Syd.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

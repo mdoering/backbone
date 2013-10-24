@@ -1,8 +1,7 @@
-Rhizopogon pumilionum (Ade) Bataille SPECIES
-=======
+# Rhizopogon pumilionus (Ade) Bataille SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

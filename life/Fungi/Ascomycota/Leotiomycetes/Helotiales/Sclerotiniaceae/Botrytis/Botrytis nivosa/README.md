@@ -1,5 +1,4 @@
-Botrytis nivosa Cooke SPECIES
-=======
+# Botrytis nivosa Cooke SPECIES
 
 #### Status
 ACCEPTED

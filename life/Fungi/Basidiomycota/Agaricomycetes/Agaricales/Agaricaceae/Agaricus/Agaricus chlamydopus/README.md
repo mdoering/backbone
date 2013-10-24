@@ -1,5 +1,4 @@
-Agaricus chlamydopus Peck SPECIES
-=======
+# Agaricus chlamydopus Peck SPECIES
 
 #### Status
 ACCEPTED

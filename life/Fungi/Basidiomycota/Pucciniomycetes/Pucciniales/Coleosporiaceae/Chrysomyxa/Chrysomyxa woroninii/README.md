@@ -1,5 +1,4 @@
-Chrysomyxa woroninii Tranzschel, 1903 SPECIES
-=======
+# Chrysomyxa woroninii Tranzschel, 1903 SPECIES
 
 #### Status
 ACCEPTED

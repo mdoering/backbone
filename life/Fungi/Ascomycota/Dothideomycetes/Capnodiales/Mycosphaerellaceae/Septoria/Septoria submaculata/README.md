@@ -1,5 +1,4 @@
-Septoria submaculata G. Winter SPECIES
-=======
+# Septoria submaculata G. Winter SPECIES
 
 #### Status
 ACCEPTED

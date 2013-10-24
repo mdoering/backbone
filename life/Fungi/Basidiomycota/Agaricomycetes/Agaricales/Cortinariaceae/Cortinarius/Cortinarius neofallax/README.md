@@ -1,5 +1,4 @@
-Cortinarius neofallax Carteret & Reumaux SPECIES
-=======
+# Cortinarius neofallax Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

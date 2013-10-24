@@ -1,5 +1,4 @@
-Chaetomium ampullare Chivers, 1912 SPECIES
-=======
+# Chaetomium ampullare Chivers, 1912 SPECIES
 
 #### Status
 ACCEPTED

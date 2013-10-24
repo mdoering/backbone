@@ -1,5 +1,4 @@
-Psathyrella larga (Kauffman) A.H. Sm. SPECIES
-=======
+# Psathyrella larga (Kauffman) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

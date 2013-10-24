@@ -1,5 +1,4 @@
-Phoma thuemenii Pass. SPECIES
-=======
+# Phoma thuemenii Pass. SPECIES
 
 #### Status
 ACCEPTED

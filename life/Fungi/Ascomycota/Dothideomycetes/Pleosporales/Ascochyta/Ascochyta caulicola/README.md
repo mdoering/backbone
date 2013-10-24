@@ -1,5 +1,4 @@
-Ascochyta caulicola Laubert SPECIES
-=======
+# Ascochyta caulicola Laubert SPECIES
 
 #### Status
 ACCEPTED

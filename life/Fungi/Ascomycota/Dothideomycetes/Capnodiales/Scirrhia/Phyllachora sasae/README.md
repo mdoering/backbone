@@ -1,5 +1,4 @@
-Phyllachora sasae I. Hino & Katum., 1961 SPECIES
-=======
+# Phyllachora sasae I. Hino & Katum., 1961 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Lactarius putidus Pegler SPECIES
-=======
+# Lactarius putidus Pegler SPECIES
 
 #### Status
 ACCEPTED

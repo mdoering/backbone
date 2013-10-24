@@ -1,5 +1,4 @@
-Gyrodinium melo Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium melo Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

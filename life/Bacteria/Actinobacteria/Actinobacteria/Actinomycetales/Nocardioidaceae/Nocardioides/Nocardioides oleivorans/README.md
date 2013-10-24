@@ -1,5 +1,4 @@
-Nocardioides oleivorans Schippers et al., 2005 SPECIES
-=======
+# Nocardioides oleivorans Schippers et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

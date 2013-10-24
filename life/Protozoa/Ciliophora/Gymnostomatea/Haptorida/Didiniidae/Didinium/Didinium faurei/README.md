@@ -1,5 +1,4 @@
-Didinium faurei Kahl, 1930 SPECIES
-=======
+# Didinium faurei Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

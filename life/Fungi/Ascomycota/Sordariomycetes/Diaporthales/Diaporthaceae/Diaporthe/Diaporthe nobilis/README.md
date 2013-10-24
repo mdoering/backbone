@@ -1,5 +1,4 @@
-Diaporthe nobilis Sacc. & Speg., 1878 SPECIES
-=======
+# Diaporthe nobilis Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

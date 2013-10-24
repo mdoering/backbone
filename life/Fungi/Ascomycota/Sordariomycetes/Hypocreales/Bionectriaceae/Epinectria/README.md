@@ -1,5 +1,4 @@
-Epinectria GENUS
-=======
+# Epinectria GENUS
 
 #### Status
 ACCEPTED

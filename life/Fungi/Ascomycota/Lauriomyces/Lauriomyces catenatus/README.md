@@ -1,14 +1,13 @@
-Lauriomyces catenata (Preuss) R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Lauriomyces catenatus (Preuss) R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Univ. Waterloo Biol. Ser. 32: 26 (1990)
 
 #### Original name
 null

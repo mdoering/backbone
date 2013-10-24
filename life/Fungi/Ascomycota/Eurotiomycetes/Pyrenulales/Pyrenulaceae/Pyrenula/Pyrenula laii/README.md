@@ -1,5 +1,4 @@
-Pyrenula laii Aptroot SPECIES
-=======
+# Pyrenula laii Aptroot SPECIES
 
 #### Status
 ACCEPTED

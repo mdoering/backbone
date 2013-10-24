@@ -1,5 +1,4 @@
-Thalloidima amphitropum (Nyl.) SPECIES
-=======
+# Thalloidima amphitropum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

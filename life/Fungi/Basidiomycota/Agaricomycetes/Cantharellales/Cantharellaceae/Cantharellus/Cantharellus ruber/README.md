@@ -1,5 +1,4 @@
-Cantharellus ruber Heinem. SPECIES
-=======
+# Cantharellus ruber Heinem. SPECIES
 
 #### Status
 ACCEPTED

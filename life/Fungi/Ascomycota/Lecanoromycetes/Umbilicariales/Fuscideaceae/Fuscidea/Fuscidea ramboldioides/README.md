@@ -1,5 +1,4 @@
-Fuscidea ramboldioides Kantvilas SPECIES
-=======
+# Fuscidea ramboldioides Kantvilas SPECIES
 
 #### Status
 ACCEPTED

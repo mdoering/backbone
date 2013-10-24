@@ -1,17 +1,16 @@
-Irpex fimbriaeformis Berk. & M.A. Curtis SPECIES
-=======
+# Hyphodontia fimbriiformis (Berk. & M.A. Curtis) Ginns & M.N.L. Lefebvre, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 19: 88 (1993)
 
 #### Original name
-Irpex fimbriaeformis Berk. & M.A. Curtis
+Irpex fimbriiformis Berk. & M.A. Curtis, 1873
 
 ### Remarks
 null

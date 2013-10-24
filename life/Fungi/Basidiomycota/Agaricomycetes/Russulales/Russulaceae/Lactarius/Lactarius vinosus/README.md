@@ -1,5 +1,4 @@
-Lactarius vinosus Quél. SPECIES
-=======
+# Lactarius vinosus Quél. SPECIES
 
 #### Status
 ACCEPTED

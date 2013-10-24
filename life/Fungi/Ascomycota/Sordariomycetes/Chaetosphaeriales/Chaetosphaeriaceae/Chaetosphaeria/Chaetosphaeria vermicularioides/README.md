@@ -1,17 +1,16 @@
-Chloridium chlamydosporis (J.F.H. Beyma) S. Hughes SPECIES
-=======
+# Chaetosphaeria vermicularioides (Sacc. & Roum.) W. Gams & Hol.-Jech., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 13: 15 (1976)
 
 #### Original name
-Bisporomyces chlamydosporus J.F.H. Beyma
+Eriosphaeria vermicularioides Sacc. & Roum., 1883
 
 ### Remarks
 null

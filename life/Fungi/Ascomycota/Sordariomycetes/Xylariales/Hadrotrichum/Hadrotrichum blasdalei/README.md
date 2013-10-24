@@ -1,5 +1,4 @@
-Hadrotrichum blasdalei Sacc. SPECIES
-=======
+# Hadrotrichum blasdalei Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xiphomyces sacchari Syd. & P. Syd., 1916 SPECIES
-=======
+# Xiphomyces sacchari Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 ACCEPTED

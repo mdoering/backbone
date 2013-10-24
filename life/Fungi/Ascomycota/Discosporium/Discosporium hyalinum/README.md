@@ -1,5 +1,4 @@
-Discosporium hyalinum (Ellis) Höhn., 1915 SPECIES
-=======
+# Discosporium hyalinum (Ellis) Höhn., 1915 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Chaetotrichum lupini (Cooke) Petr., 1952 SPECIES
-=======
+# Pseudocercospora lupini (Cooke) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 6(5-6): 405 (1952)
+Mycol. Pap. 140: 146 (1976)
 
 #### Original name
 Cercospora lupini Cooke, 1878

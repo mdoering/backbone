@@ -1,5 +1,4 @@
-Puccinia astrantiae-vivipari Semadeni SPECIES
-=======
+# Puccinia astrantiae-vivipari Semadeni SPECIES
 
 #### Status
 ACCEPTED

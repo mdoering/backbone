@@ -1,17 +1,16 @@
-Cladosterigma fusispora Pat. SPECIES
-=======
+# Cladosterigma fusisporum Pat., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 8: 138 (1892)
 
 #### Original name
-Cladosterigma fusispora Pat.
+Cladosterigma fusisporum Pat., 1892
 
 ### Remarks
 null

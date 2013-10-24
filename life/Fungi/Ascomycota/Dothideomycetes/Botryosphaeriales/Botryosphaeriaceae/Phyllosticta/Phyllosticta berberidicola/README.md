@@ -1,5 +1,4 @@
-Phyllosticta berberidicola Lobik SPECIES
-=======
+# Phyllosticta berberidicola Lobik SPECIES
 
 #### Status
 ACCEPTED

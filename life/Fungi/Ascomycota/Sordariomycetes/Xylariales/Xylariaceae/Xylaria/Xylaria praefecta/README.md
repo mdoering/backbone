@@ -1,5 +1,4 @@
-Xylaria praefecta Lloyd SPECIES
-=======
+# Xylaria praefecta Lloyd SPECIES
 
 #### Status
 ACCEPTED

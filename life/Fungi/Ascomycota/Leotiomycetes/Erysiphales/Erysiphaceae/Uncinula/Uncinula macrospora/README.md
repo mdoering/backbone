@@ -1,5 +1,4 @@
-Uncinula macrospora Peck SPECIES
-=======
+# Uncinula macrospora Peck SPECIES
 
 #### Status
 ACCEPTED

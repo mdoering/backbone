@@ -1,5 +1,4 @@
-Cortinarius cystidiophorus Reumaux SPECIES
-=======
+# Cortinarius cystidiophorus Reumaux SPECIES
 
 #### Status
 ACCEPTED

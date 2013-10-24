@@ -1,5 +1,4 @@
-Chaetomium rigidulum Bainier SPECIES
-=======
+# Chaetomium rigidulum Bainier SPECIES
 
 #### Status
 ACCEPTED

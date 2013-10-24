@@ -1,5 +1,4 @@
-Ctenosporium pectinatum R. Kirschner, 2006 SPECIES
-=======
+# Ctenosporium pectinatum R. Kirschner, 2006 SPECIES
 
 #### Status
 ACCEPTED

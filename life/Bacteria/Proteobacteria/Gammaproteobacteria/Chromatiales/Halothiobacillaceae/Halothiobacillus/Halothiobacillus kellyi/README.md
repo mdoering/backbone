@@ -1,5 +1,4 @@
-Halothiobacillus kellyi Sievert et al., 2000 SPECIES
-=======
+# Halothiobacillus kellyi Sievert et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

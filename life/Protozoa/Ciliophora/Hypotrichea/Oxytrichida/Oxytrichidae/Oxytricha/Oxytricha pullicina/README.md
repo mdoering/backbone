@@ -1,5 +1,4 @@
-Oxytricha pullicina SPECIES
-=======
+# Oxytricha pullicina SPECIES
 
 #### Status
 ACCEPTED

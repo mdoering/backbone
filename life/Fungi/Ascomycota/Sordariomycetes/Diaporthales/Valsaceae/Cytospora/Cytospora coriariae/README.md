@@ -1,5 +1,4 @@
-Cytospora coriariae Gonz. Frag. SPECIES
-=======
+# Cytospora coriariae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

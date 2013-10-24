@@ -1,5 +1,4 @@
-Peziza microstoma Wallr. SPECIES
-=======
+# Peziza microstoma Wallr. SPECIES
 
 #### Status
 ACCEPTED

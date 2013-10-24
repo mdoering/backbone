@@ -1,5 +1,4 @@
-Graphis inconspicua Fée SPECIES
-=======
+# Graphis inconspicua Fée SPECIES
 
 #### Status
 ACCEPTED

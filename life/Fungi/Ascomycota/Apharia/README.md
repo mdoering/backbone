@@ -1,5 +1,4 @@
-Apharia Bonorden, 1864 GENUS
-=======
+# Apharia Bonorden, 1864 GENUS
 
 #### Status
 ACCEPTED

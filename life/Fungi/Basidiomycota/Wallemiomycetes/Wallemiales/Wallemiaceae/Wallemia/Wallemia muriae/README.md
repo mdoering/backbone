@@ -1,5 +1,4 @@
-Wallemia muriae (J. Kickx f.) Zalar & de Hoog, 2005 SPECIES
-=======
+# Wallemia muriae (J. Kickx f.) Zalar & de Hoog, 2005 SPECIES
 
 #### Status
 ACCEPTED

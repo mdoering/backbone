@@ -1,5 +1,4 @@
-Meliola strophanthi Doidge SPECIES
-=======
+# Meliola strophanthi Doidge SPECIES
 
 #### Status
 ACCEPTED

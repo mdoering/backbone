@@ -1,5 +1,4 @@
-Haplozoon ariciae Dogiel SPECIES
-=======
+# Haplozoon ariciae Dogiel SPECIES
 
 #### Status
 ACCEPTED

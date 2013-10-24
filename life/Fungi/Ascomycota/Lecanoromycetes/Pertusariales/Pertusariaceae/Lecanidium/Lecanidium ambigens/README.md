@@ -1,5 +1,4 @@
-Lecanidium ambigens (Nyl.) C.W. Dodge SPECIES
-=======
+# Lecanidium ambigens (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

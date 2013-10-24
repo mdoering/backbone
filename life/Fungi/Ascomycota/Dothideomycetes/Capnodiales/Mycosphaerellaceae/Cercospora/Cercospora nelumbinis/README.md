@@ -1,17 +1,16 @@
-Cercospora nelumbii Tharp SPECIES
-=======
+# Cercospora nelumbinis Tharp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 9: 111 (1917)
 
 #### Original name
-Cercospora nelumbii Tharp
+Cercospora nelumbinis Tharp
 
 ### Remarks
 null

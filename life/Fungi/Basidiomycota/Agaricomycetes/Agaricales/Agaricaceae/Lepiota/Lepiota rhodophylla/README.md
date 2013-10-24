@@ -1,5 +1,4 @@
-Lepiota rhodophylla Vellinga SPECIES
-=======
+# Lepiota rhodophylla Vellinga SPECIES
 
 #### Status
 ACCEPTED

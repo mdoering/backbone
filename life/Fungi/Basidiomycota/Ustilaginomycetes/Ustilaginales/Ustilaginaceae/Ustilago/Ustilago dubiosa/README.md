@@ -1,5 +1,4 @@
-Ustilago dubiosa Speg. SPECIES
-=======
+# Ustilago dubiosa Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sphaerella schroeteriana Kirschst., 1938 SPECIES
-=======
+# Venturia comari (J. Schröt.) E. Müll. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Stigmatea comari J. Schröt., 1894
 
 ### Remarks
 null

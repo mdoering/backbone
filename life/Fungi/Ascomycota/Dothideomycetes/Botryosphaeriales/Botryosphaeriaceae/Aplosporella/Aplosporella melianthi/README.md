@@ -1,5 +1,4 @@
-Aplosporella melianthi Urries SPECIES
-=======
+# Aplosporella melianthi Urries SPECIES
 
 #### Status
 ACCEPTED

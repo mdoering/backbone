@@ -1,5 +1,4 @@
-Cintractia algeriensis Pat. SPECIES
-=======
+# Cintractia algeriensis Pat. SPECIES
 
 #### Status
 ACCEPTED

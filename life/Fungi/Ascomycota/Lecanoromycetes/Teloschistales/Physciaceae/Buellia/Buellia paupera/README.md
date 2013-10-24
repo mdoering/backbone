@@ -1,5 +1,4 @@
-Buellia paupera H. Magn. SPECIES
-=======
+# Buellia paupera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus mucosus Corner SPECIES
-=======
+# Boletus mucosus Corner SPECIES
 
 #### Status
 ACCEPTED

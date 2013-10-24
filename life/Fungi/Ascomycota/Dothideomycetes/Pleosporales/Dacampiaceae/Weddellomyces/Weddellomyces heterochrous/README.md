@@ -1,5 +1,4 @@
-Weddellomyces heterochrous Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Weddellomyces heterochrous Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

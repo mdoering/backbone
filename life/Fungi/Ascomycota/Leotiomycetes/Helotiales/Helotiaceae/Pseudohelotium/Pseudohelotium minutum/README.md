@@ -1,5 +1,4 @@
-Pseudohelotium minutum (Pass.) Sacc. SPECIES
-=======
+# Pseudohelotium minutum (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora samoënsis H. Magn. SPECIES
-=======
+# Acarospora samoënsis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

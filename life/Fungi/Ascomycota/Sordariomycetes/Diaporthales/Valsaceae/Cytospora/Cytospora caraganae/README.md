@@ -1,5 +1,4 @@
-Cytospora caraganae Tschern. SPECIES
-=======
+# Cytospora caraganae Tschern. SPECIES
 
 #### Status
 ACCEPTED

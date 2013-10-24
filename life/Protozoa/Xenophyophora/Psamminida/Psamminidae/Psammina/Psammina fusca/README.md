@@ -1,5 +1,4 @@
-Psammina fusca Gooday & Tendal, 1988 SPECIES
-=======
+# Psammina fusca Gooday & Tendal, 1988 SPECIES
 
 #### Status
 ACCEPTED

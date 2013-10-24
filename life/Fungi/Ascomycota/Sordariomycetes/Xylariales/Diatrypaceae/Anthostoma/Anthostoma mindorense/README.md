@@ -1,5 +1,4 @@
-Anthostoma mindorense (Rehm) E. Müll. & S. Ahmad SPECIES
-=======
+# Anthostoma mindorense (Rehm) E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

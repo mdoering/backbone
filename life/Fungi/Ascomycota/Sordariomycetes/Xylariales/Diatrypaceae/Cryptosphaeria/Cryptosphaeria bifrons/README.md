@@ -1,5 +1,4 @@
-Cryptosphaeria bifrons Grev. SPECIES
-=======
+# Cryptosphaeria bifrons Grev. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pileolaria indica Syd. SPECIES
-=======
+# Pileolaria indica Syd. SPECIES
 
 #### Status
 ACCEPTED

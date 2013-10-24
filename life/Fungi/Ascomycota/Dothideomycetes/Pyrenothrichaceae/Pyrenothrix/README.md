@@ -1,5 +1,4 @@
-Pyrenothrix Riddle GENUS
-=======
+# Pyrenothrix Riddle GENUS
 
 #### Status
 ACCEPTED

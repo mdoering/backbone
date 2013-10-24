@@ -1,5 +1,4 @@
-Usnea striata Zammuto SPECIES
-=======
+# Usnea striata Zammuto SPECIES
 
 #### Status
 ACCEPTED

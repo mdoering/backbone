@@ -1,5 +1,4 @@
-Aleurodiscus scutellatus Litsch. SPECIES
-=======
+# Aleurodiscus scutellatus Litsch. SPECIES
 
 #### Status
 ACCEPTED

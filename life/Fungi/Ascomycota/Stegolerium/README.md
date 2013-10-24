@@ -1,5 +1,4 @@
-Stegolerium Strobel, W.M. Hess & E. Ford GENUS
-=======
+# Stegolerium Strobel, W.M. Hess & E. Ford GENUS
 
 #### Status
 ACCEPTED

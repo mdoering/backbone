@@ -1,17 +1,16 @@
-Polystictus gollani Henn. SPECIES
-=======
+# Polystictus gollanii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 40: 327 (1901)
 
 #### Original name
-Polystictus gollani Henn.
+Polystictus gollanii Henn.
 
 ### Remarks
 null

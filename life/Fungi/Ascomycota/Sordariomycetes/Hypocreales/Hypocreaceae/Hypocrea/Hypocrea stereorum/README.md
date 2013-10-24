@@ -1,5 +1,4 @@
-Hypocrea stereorum (Schwein.) Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea stereorum (Schwein.) Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

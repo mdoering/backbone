@@ -1,5 +1,4 @@
-Scolicotrichum bulbigerum Fuckel SPECIES
-=======
+# Scolicotrichum bulbigerum Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria stellata Fryday SPECIES
-=======
+# Pertusaria stellata Fryday SPECIES
 
 #### Status
 ACCEPTED

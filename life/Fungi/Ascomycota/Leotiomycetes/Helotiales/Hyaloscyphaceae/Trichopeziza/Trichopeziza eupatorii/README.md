@@ -1,5 +1,4 @@
-Trichopeziza eupatorii (Schwein.) Sacc. SPECIES
-=======
+# Trichopeziza eupatorii (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

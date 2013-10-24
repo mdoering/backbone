@@ -1,5 +1,4 @@
-Rinodina flavosoralifera Tønsberg SPECIES
-=======
+# Rinodina flavosoralifera Tønsberg SPECIES
 
 #### Status
 ACCEPTED

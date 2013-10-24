@@ -1,5 +1,4 @@
-Lepiota booloola Grgur. SPECIES
-=======
+# Lepiota booloola Grgur. SPECIES
 
 #### Status
 ACCEPTED

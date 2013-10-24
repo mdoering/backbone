@@ -1,5 +1,4 @@
-Agaricus thompsonii Berk. & Broome SPECIES
-=======
+# Agaricus thompsonii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

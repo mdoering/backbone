@@ -1,5 +1,4 @@
-Ascobolus pusillus Boud. SPECIES
-=======
+# Ascobolus pusillus Boud. SPECIES
 
 #### Status
 ACCEPTED

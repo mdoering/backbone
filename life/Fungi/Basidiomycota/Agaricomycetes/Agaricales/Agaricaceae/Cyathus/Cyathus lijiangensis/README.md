@@ -1,5 +1,4 @@
-Cyathus lijiangensis T.X. Zhou & R.L. Zhao SPECIES
-=======
+# Cyathus lijiangensis T.X. Zhou & R.L. Zhao SPECIES
 
 #### Status
 ACCEPTED

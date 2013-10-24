@@ -1,17 +1,16 @@
-Phomopsis incarcerata Höhn., 1906 SPECIES
-=======
+# Diaporthe incarcerata (Berk. & Broome) Nitschke, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fragm. Mykol. 87: 33 (1906)
+Pyrenomycetes Germanici 2: 297 (1870)
 
 #### Original name
-Phomopsis incarcerata Höhn., 1906
+Diatrype incarcerata Berk. & Broome, 1859
 
 ### Remarks
 null

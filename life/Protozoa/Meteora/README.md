@@ -1,5 +1,4 @@
-Meteora Hausmann, Weitere, Wolf & Arndt, 2002 GENUS
-=======
+# Meteora Hausmann, Weitere, Wolf & Arndt, 2002 GENUS
 
 #### Status
 ACCEPTED

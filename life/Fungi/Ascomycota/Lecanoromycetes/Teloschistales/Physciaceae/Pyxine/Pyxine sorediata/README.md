@@ -1,17 +1,16 @@
-Pyxine sorediata var. sorediata (Ach.) Mont. VARIETY
-=======
+# Pyxine sorediata (Ach.) Mont. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Sagra, Hist. Phys. Cuba, Bot. Pl. Cell. 2: 188 (1842)
 
 #### Original name
-Pyxine sorediata var. sorediata (Ach.) Mont.
+Lecidea sorediata Ach.
 
 ### Remarks
 null

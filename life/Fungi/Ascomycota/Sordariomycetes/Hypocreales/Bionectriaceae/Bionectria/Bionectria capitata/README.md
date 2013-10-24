@@ -1,5 +1,4 @@
-Bionectria capitata Schroers & Samuels, 2001 SPECIES
-=======
+# Bionectria capitata Schroers & Samuels, 2001 SPECIES
 
 #### Status
 ACCEPTED

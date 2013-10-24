@@ -1,5 +1,4 @@
-Vermicularia straminis Cooke & Harkn. SPECIES
-=======
+# Vermicularia straminis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

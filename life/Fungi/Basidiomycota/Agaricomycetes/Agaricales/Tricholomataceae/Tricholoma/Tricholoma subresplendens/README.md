@@ -1,5 +1,4 @@
-Tricholoma subresplendens (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma subresplendens (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

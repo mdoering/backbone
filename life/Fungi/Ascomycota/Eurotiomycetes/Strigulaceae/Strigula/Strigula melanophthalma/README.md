@@ -1,5 +1,4 @@
-Strigula melanophthalma Mont. SPECIES
-=======
+# Strigula melanophthalma Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnocladium asterosetosum Henn. SPECIES
-=======
+# Lachnocladium asterosetosum Henn. SPECIES
 
 #### Status
 ACCEPTED

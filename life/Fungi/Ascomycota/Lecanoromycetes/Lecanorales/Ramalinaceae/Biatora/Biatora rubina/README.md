@@ -1,5 +1,4 @@
-Biatora rubina (Ach.) Bél. SPECIES
-=======
+# Biatora rubina (Ach.) Bél. SPECIES
 
 #### Status
 ACCEPTED

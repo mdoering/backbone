@@ -1,5 +1,4 @@
-Cercospora riofranciscana Bat., J.L. Bezerra & Peres SPECIES
-=======
+# Cercospora riofranciscana Bat., J.L. Bezerra & Peres SPECIES
 
 #### Status
 ACCEPTED

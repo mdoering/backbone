@@ -1,5 +1,4 @@
-Dicaeoma metanarthecii (Pat.) Kuntze SPECIES
-=======
+# Dicaeoma metanarthecii (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium bubi Osterw. SPECIES
-=======
+# Fusarium bubi Osterw. SPECIES
 
 #### Status
 ACCEPTED

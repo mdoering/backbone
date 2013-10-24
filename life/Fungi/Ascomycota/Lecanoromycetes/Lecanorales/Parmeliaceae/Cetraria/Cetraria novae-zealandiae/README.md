@@ -1,5 +1,4 @@
-Cetraria novae-zealandiae (C. Knight) Zahlbr. SPECIES
-=======
+# Cetraria novae-zealandiae (C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

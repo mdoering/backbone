@@ -1,5 +1,4 @@
-Graphis luzonensis Vain. SPECIES
-=======
+# Graphis luzonensis Vain. SPECIES
 
 #### Status
 ACCEPTED

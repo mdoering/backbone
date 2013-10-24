@@ -1,5 +1,4 @@
-Curtobacterium pusillum (Iizuka and Komagata, 1965) Yamada and Komagata, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Curtobacterium pusillum (Iizuka and Komagata, 1965) Yamada and Komagata, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

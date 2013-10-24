@@ -1,5 +1,4 @@
-Anthracothecium manipurense Müll. Arg. SPECIES
-=======
+# Anthracothecium manipurense Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

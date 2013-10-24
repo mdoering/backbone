@@ -1,5 +1,4 @@
-Parmelia subquercifolia f. subquercifolia FORM
-=======
+# Parmelia subquercifolia Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia subquercifolia f. subquercifolia
+Parmelia subquercifolia Hue
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phylloporus pseudopaxillus Heinem. & Rammeloo SPECIES
-=======
+# Phylloporus pseudopaxillus Heinem. & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

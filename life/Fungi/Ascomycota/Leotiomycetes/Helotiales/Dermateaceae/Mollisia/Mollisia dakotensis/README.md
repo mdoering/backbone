@@ -1,5 +1,4 @@
-Mollisia dakotensis (Rehm) Dennis SPECIES
-=======
+# Mollisia dakotensis (Rehm) Dennis SPECIES
 
 #### Status
 ACCEPTED

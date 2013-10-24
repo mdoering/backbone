@@ -1,8 +1,7 @@
-Meliola barbacenniae (Hansf.) Cif. SPECIES
-=======
+# Meliola barbaceniae (Hansf.) Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

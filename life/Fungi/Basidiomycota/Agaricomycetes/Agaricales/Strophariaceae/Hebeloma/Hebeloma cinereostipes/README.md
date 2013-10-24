@@ -1,5 +1,4 @@
-Hebeloma cinereostipes A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma cinereostipes A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

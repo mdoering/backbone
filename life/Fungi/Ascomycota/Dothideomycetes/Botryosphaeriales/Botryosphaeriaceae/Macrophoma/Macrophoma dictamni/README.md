@@ -1,5 +1,4 @@
-Macrophoma dictamni Lind. {?} SPECIES
-=======
+# Macrophoma dictamni Lind. {?} SPECIES
 
 #### Status
 ACCEPTED

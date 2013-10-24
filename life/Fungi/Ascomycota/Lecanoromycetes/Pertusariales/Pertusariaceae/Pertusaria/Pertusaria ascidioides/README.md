@@ -1,5 +1,4 @@
-Pertusaria ascidioides Vain. SPECIES
-=======
+# Pertusaria ascidioides Vain. SPECIES
 
 #### Status
 ACCEPTED

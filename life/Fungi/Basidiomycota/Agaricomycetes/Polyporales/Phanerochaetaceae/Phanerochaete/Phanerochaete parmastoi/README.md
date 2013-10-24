@@ -1,5 +1,4 @@
-Phanerochaete parmastoi Sheng H. Wu, 1990 SPECIES
-=======
+# Phanerochaete parmastoi Sheng H. Wu, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium fusicladium Sacc. SPECIES
-=======
+# Cladosporium fusicladium Sacc. SPECIES
 
 #### Status
 ACCEPTED

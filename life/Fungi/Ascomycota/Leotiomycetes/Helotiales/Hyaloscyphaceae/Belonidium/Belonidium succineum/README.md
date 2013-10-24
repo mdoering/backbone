@@ -1,5 +1,4 @@
-Belonidium succineum Rehm SPECIES
-=======
+# Belonidium succineum Rehm SPECIES
 
 #### Status
 ACCEPTED

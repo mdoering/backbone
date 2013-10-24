@@ -1,5 +1,4 @@
-Globorotalia pseudobulloides (Plummer) SPECIES
-=======
+# Globorotalia pseudobulloides (Plummer) SPECIES
 
 #### Status
 ACCEPTED

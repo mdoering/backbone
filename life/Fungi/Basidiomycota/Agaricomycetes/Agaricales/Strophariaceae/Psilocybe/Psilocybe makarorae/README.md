@@ -1,5 +1,4 @@
-Psilocybe makarorae P.R. Johnst. & P.K. Buchanan, 1995 SPECIES
-=======
+# Psilocybe makarorae P.R. Johnst. & P.K. Buchanan, 1995 SPECIES
 
 #### Status
 ACCEPTED

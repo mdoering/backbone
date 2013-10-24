@@ -1,5 +1,4 @@
-Clitocybe muscorum (Hoffm.) P. Kumm. SPECIES
-=======
+# Clitocybe muscorum (Hoffm.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

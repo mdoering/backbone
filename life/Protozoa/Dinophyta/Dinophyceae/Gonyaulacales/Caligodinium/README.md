@@ -1,5 +1,4 @@
-Caligodinium W.S.Drugg, 1970 GENUS
-=======
+# Caligodinium W.S.Drugg, 1970 GENUS
 
 #### Status
 ACCEPTED

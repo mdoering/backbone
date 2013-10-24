@@ -1,5 +1,4 @@
-Pertusaria subvelatula Vain. SPECIES
-=======
+# Pertusaria subvelatula Vain. SPECIES
 
 #### Status
 ACCEPTED

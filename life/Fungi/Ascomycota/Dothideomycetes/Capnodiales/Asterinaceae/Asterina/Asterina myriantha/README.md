@@ -1,5 +1,4 @@
-Asterina myriantha Syd. SPECIES
-=======
+# Asterina myriantha Syd. SPECIES
 
 #### Status
 ACCEPTED

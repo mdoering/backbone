@@ -1,5 +1,4 @@
-Candelariella sorediosa Poelt & Reddi SPECIES
-=======
+# Candelariella sorediosa Poelt & Reddi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria umbilicata Ellis SPECIES
-=======
+# Cucurbitaria umbilicata Ellis SPECIES
 
 #### Status
 ACCEPTED

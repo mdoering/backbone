@@ -1,5 +1,4 @@
-Ammobaculites bathyalis Zheng & Fu, 2001 SPECIES
-=======
+# Ammobaculites bathyalis Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

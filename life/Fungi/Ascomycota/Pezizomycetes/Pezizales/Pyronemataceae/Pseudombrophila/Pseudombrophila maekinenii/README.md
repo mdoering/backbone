@@ -1,5 +1,4 @@
-Pseudombrophila maekinenii Harmaja SPECIES
-=======
+# Pseudombrophila maekinenii Harmaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smittium hecatei L.G. Valle & Santam., 2004 SPECIES
-=======
+# Smittium hecatei L.G. Valle & Santam., 2004 SPECIES
 
 #### Status
 ACCEPTED

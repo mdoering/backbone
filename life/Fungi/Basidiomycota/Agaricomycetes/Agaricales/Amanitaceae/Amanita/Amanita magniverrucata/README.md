@@ -1,5 +1,4 @@
-Amanita magniverrucata Thiers & Ammirati SPECIES
-=======
+# Amanita magniverrucata Thiers & Ammirati SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmidium pseudopeltideae Cl. Roux & Triebel SPECIES
-=======
+# Stigmidium pseudopeltideae Cl. Roux & Triebel SPECIES
 
 #### Status
 ACCEPTED

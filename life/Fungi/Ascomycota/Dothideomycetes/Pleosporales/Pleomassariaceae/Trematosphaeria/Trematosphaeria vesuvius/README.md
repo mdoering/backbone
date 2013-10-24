@@ -1,5 +1,4 @@
-Trematosphaeria vesuvius (Berk. & Broome) Sacc. SPECIES
-=======
+# Trematosphaeria vesuvius (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

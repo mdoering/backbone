@@ -1,5 +1,4 @@
-Metasphaeria acuum (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Metasphaeria acuum (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

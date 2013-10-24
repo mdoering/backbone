@@ -1,5 +1,4 @@
-Aecidium pichinchense Syd. SPECIES
-=======
+# Aecidium pichinchense Syd. SPECIES
 
 #### Status
 ACCEPTED

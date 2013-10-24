@@ -1,5 +1,4 @@
-Filaspora ribiseda (Fautrey & Rolland) Kuntze SPECIES
-=======
+# Filaspora ribiseda (Fautrey & Rolland) Kuntze SPECIES
 
 #### Status
 ACCEPTED

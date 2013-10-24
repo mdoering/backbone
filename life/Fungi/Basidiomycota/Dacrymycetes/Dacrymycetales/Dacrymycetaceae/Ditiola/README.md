@@ -1,5 +1,4 @@
-Ditiola E.M. Fries, 1822 GENUS
-=======
+# Ditiola E.M. Fries, 1822 GENUS
 
 #### Status
 ACCEPTED

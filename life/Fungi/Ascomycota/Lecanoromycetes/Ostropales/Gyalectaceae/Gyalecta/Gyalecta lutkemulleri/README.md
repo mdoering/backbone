@@ -1,5 +1,4 @@
-Gyalecta lutkemulleri SPECIES
-=======
+# Gyalecta lutkemulleri SPECIES
 
 #### Status
 ACCEPTED

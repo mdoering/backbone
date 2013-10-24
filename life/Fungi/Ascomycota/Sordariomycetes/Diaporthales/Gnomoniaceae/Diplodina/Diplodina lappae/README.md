@@ -1,5 +1,4 @@
-Diplodina lappae Morochk. SPECIES
-=======
+# Diplodina lappae Morochk. SPECIES
 
 #### Status
 ACCEPTED

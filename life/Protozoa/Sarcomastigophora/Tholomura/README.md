@@ -1,5 +1,4 @@
-Tholomura Haeckel, 1887 GENUS
-=======
+# Tholomura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

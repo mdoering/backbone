@@ -1,5 +1,4 @@
-Naemaspora magna Grev. SPECIES
-=======
+# Naemaspora magna Grev. SPECIES
 
 #### Status
 ACCEPTED

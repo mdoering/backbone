@@ -1,5 +1,4 @@
-Mortierella subtilissima Oudem. SPECIES
-=======
+# Mortierella subtilissima Oudem. SPECIES
 
 #### Status
 ACCEPTED

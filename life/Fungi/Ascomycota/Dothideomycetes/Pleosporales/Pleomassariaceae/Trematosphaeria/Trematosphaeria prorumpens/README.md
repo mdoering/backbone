@@ -1,5 +1,4 @@
-Trematosphaeria prorumpens Rehm SPECIES
-=======
+# Trematosphaeria prorumpens Rehm SPECIES
 
 #### Status
 ACCEPTED

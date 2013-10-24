@@ -1,5 +1,4 @@
-Anomomorpha sordida Staiger SPECIES
-=======
+# Anomomorpha sordida Staiger SPECIES
 
 #### Status
 ACCEPTED

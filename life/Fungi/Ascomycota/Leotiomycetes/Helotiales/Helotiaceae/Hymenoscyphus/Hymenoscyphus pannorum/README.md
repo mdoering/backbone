@@ -1,5 +1,4 @@
-Hymenoscyphus pannorum (Brond.) Kuntze SPECIES
-=======
+# Hymenoscyphus pannorum (Brond.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

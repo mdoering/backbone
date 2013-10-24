@@ -1,5 +1,4 @@
-Agaricus hydrinus Fr. SPECIES
-=======
+# Agaricus hydrinus Fr. SPECIES
 
 #### Status
 ACCEPTED

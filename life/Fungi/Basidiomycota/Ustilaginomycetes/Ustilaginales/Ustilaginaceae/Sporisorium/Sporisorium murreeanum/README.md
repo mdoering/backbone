@@ -1,5 +1,4 @@
-Sporisorium murreeanum Kakish. & Y. Ono SPECIES
-=======
+# Sporisorium murreeanum Kakish. & Y. Ono SPECIES
 
 #### Status
 ACCEPTED

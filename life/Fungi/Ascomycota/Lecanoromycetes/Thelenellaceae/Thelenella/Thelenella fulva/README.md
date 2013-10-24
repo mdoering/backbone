@@ -1,5 +1,4 @@
-Thelenella fulva Vain. SPECIES
-=======
+# Thelenella fulva Vain. SPECIES
 
 #### Status
 ACCEPTED

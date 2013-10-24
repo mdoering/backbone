@@ -1,5 +1,4 @@
-Russula rubripurpurea Murrill SPECIES
-=======
+# Russula rubripurpurea Murrill SPECIES
 
 #### Status
 ACCEPTED

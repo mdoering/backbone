@@ -1,5 +1,4 @@
-Ocellularia obturata (Ach.) Spreng. SPECIES
-=======
+# Ocellularia obturata (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

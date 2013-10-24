@@ -1,5 +1,4 @@
-Quinqueloculina pseudobuchiana Luczkowska, 1974 SPECIES
-=======
+# Quinqueloculina pseudobuchiana Luczkowska, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella amoena (Syd.) Hansf. SPECIES
-=======
+# Asteridiella amoena (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

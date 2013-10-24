@@ -1,5 +1,4 @@
-Aecidium solaninum var. solaninum VARIETY
-=======
+# Aecidium solaninum Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 12: 79 (1881)
 
 #### Original name
-Aecidium solaninum var. solaninum
+Aecidium solaninum Speg.
 
 ### Remarks
 null

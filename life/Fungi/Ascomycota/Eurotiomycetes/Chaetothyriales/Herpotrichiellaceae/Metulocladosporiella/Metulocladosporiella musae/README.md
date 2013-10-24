@@ -1,14 +1,13 @@
-Periconiella sapientumicola Siboe, 1994 SPECIES
-=======
+# Metulocladosporiella musae (E.W. Mason) Crous, Schroers, J.Z. Groenew., U. Braun & K. Schub., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-African Journal of Mycology and Biotechnology 2(1): 4 (1994)
+Mycol. Res. 110(3): 269 (2006)
 
 #### Original name
 Cladosporium musae E.W. Mason, 1945

@@ -1,5 +1,4 @@
-Phoma cosmi Oudem. SPECIES
-=======
+# Phoma cosmi Oudem. SPECIES
 
 #### Status
 ACCEPTED

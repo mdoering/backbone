@@ -1,5 +1,4 @@
-Phialea sauciella (P. Karst.) Sacc. SPECIES
-=======
+# Phialea sauciella (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

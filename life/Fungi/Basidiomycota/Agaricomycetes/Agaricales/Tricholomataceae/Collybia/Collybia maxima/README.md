@@ -1,5 +1,4 @@
-Collybia maxima Velen. SPECIES
-=======
+# Collybia maxima Velen. SPECIES
 
 #### Status
 ACCEPTED

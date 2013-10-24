@@ -1,5 +1,4 @@
-Exidia cokeri L.S. Olive SPECIES
-=======
+# Exidia cokeri L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

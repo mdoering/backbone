@@ -1,5 +1,4 @@
-Elphidium schmitti Cushman & Wickenden, 1929 SPECIES
-=======
+# Elphidium schmitti Cushman & Wickenden, 1929 SPECIES
 
 #### Status
 ACCEPTED

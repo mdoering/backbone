@@ -1,5 +1,4 @@
-Nocardia veterana Gürtler et al., 2001 SPECIES
-=======
+# Nocardia veterana Gürtler et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

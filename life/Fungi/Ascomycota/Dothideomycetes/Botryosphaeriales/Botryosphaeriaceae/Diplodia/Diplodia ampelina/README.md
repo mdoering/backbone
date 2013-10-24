@@ -1,5 +1,4 @@
-Diplodia ampelina Cooke SPECIES
-=======
+# Diplodia ampelina Cooke SPECIES
 
 #### Status
 ACCEPTED

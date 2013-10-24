@@ -1,5 +1,4 @@
-Wentiomyces clavisetus (Doidge) Arx SPECIES
-=======
+# Wentiomyces clavisetus (Doidge) Arx SPECIES
 
 #### Status
 ACCEPTED

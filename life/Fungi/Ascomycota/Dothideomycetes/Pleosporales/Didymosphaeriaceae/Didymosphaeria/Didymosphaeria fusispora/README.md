@@ -1,5 +1,4 @@
-Didymosphaeria fusispora Penz. & Sacc. SPECIES
-=======
+# Didymosphaeria fusispora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

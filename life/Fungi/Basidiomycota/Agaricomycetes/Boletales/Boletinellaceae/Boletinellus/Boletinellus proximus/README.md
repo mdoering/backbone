@@ -1,5 +1,4 @@
-Boletinellus proximus (Singer) Murrill SPECIES
-=======
+# Boletinellus proximus (Singer) Murrill SPECIES
 
 #### Status
 ACCEPTED

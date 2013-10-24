@@ -1,5 +1,4 @@
-Sphaeria vicinula Nyl. SPECIES
-=======
+# Sphaeria vicinula Nyl. SPECIES
 
 #### Status
 ACCEPTED

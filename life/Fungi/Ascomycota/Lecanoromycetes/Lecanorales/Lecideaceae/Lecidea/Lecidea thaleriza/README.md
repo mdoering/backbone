@@ -1,5 +1,4 @@
-Lecidea thaleriza Stirt. SPECIES
-=======
+# Lecidea thaleriza Stirt. SPECIES
 
 #### Status
 ACCEPTED

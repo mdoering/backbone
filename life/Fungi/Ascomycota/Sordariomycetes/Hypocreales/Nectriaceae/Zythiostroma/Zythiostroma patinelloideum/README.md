@@ -1,5 +1,4 @@
-Zythiostroma patinelloideum Höhn. SPECIES
-=======
+# Zythiostroma patinelloideum Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fremyella diplosiphon (Bornet & Flahault) Drouet SPECIES
-=======
+# Fremyella diplosiphon (Bornet & Flahault) Drouet SPECIES
 
 #### Status
 ACCEPTED

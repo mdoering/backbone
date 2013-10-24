@@ -1,5 +1,4 @@
-Schmitzomia pachyspora Rehm SPECIES
-=======
+# Schmitzomia pachyspora Rehm SPECIES
 
 #### Status
 ACCEPTED

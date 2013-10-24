@@ -1,5 +1,4 @@
-Serpula hexagonoides (Burt) W.B. Cooke SPECIES
-=======
+# Serpula hexagonoides (Burt) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

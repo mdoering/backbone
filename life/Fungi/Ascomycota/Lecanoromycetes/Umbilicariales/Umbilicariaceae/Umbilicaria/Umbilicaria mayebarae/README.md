@@ -1,5 +1,4 @@
-Umbilicaria mayebarae M. Satô SPECIES
-=======
+# Umbilicaria mayebarae M. Satô SPECIES
 
 #### Status
 ACCEPTED

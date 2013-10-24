@@ -1,5 +1,4 @@
-Phylloedia punicea (Lib.) Sacc. SPECIES
-=======
+# Phylloedia punicea (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma amygdali-communis Politis SPECIES
-=======
+# Phoma amygdali-communis Politis SPECIES
 
 #### Status
 ACCEPTED

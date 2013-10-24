@@ -1,5 +1,4 @@
-Entoloma olivaceobrunneum Hesler SPECIES
-=======
+# Entoloma olivaceobrunneum Hesler SPECIES
 
 #### Status
 ACCEPTED

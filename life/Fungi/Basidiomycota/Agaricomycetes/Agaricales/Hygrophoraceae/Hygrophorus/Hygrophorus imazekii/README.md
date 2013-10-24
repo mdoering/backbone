@@ -1,5 +1,4 @@
-Hygrophorus imazekii Hongo SPECIES
-=======
+# Hygrophorus imazekii Hongo SPECIES
 
 #### Status
 ACCEPTED

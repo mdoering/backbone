@@ -1,5 +1,4 @@
-Jamesdicksonia tremuli Vánky, 2003 SPECIES
-=======
+# Jamesdicksonia tremuli Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

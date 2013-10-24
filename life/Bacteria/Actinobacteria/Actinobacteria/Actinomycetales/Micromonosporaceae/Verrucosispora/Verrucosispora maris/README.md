@@ -1,5 +1,4 @@
-Verrucosispora maris Fiedler, Bruntner, Riedlinger, Bull, Knutsen, Goodfellow, Jones, Maldonado, Pathom-aree, Beil, Schneider, Keller & Sussmuth, 2008 SPECIES
-=======
+# Verrucosispora maris Fiedler, Bruntner, Riedlinger, Bull, Knutsen, Goodfellow, Jones, Maldonado, Pathom-aree, Beil, Schneider, Keller & Sussmuth, 2008 SPECIES
 
 #### Status
 ACCEPTED

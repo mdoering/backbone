@@ -1,5 +1,4 @@
-Spiloma auratum SPECIES
-=======
+# Spiloma auratum SPECIES
 
 #### Status
 ACCEPTED

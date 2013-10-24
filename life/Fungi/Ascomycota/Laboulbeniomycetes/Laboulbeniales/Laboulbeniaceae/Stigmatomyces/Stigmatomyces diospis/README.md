@@ -1,5 +1,4 @@
-Stigmatomyces diospis Thaxt. SPECIES
-=======
+# Stigmatomyces diospis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

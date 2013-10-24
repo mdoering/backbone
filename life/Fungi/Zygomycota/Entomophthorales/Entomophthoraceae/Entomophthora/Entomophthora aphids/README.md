@@ -1,5 +1,4 @@
-Entomophthora aphids Hoffmann SPECIES
-=======
+# Entomophthora aphids Hoffmann SPECIES
 
 #### Status
 ACCEPTED

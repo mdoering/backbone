@@ -1,5 +1,4 @@
-Caloplaca perminima S.Y. Kondr. SPECIES
-=======
+# Caloplaca perminima S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

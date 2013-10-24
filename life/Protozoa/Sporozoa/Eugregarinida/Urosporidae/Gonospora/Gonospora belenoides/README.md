@@ -1,8 +1,7 @@
-Lobianchella belenoides Mingazzini, 1891 SPECIES
-=======
+# Gonospora belenoides (Mingazzini, 1891) Corbel, Desportes & Théodoridès, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

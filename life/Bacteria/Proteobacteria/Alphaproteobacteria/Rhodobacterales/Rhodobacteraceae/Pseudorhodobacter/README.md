@@ -1,5 +1,4 @@
-Pseudorhodobacter Uchino, Hamada & Yokota, 2003 GENUS
-=======
+# Pseudorhodobacter Uchino, Hamada & Yokota, 2003 GENUS
 
 #### Status
 ACCEPTED

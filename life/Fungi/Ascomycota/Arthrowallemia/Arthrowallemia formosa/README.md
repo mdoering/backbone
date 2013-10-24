@@ -1,5 +1,4 @@
-Arthrowallemia formosa R.F. Castañeda, Dania García & Guarro, 1998 SPECIES
-=======
+# Arthrowallemia formosa R.F. Castañeda, Dania García & Guarro, 1998 SPECIES
 
 #### Status
 ACCEPTED

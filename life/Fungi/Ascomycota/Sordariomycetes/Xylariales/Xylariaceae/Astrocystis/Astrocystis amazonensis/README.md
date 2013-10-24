@@ -1,5 +1,4 @@
-Astrocystis amazonensis Bat. & H. Maia SPECIES
-=======
+# Astrocystis amazonensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

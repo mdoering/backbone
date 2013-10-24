@@ -1,5 +1,4 @@
-Lizonia perkinsiae Henn. SPECIES
-=======
+# Lizonia perkinsiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphelophragmina Loeblich & Tappan, 1994 GENUS
-=======
+# Aphelophragmina Loeblich & Tappan, 1994 GENUS
 
 #### Status
 ACCEPTED

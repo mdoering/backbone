@@ -1,5 +1,4 @@
-Entyloma agoseridis Zundel SPECIES
-=======
+# Entyloma agoseridis Zundel SPECIES
 
 #### Status
 ACCEPTED

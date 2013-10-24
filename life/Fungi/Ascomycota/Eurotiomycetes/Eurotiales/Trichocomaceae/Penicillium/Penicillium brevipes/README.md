@@ -1,5 +1,4 @@
-Penicillium brevipes Corda SPECIES
-=======
+# Penicillium brevipes Corda SPECIES
 
 #### Status
 ACCEPTED

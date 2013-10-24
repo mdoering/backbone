@@ -1,5 +1,4 @@
-Orpinomyces bovis D.J.S. Barr, H. Kudo, Jakober & K.J. Cheng, 1989 SPECIES
-=======
+# Orpinomyces bovis D.J.S. Barr, H. Kudo, Jakober & K.J. Cheng, 1989 SPECIES
 
 #### Status
 ACCEPTED

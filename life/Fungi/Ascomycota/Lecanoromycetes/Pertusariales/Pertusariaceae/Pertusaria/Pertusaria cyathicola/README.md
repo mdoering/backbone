@@ -1,5 +1,4 @@
-Pertusaria cyathicola Elix SPECIES
-=======
+# Pertusaria cyathicola Elix SPECIES
 
 #### Status
 ACCEPTED

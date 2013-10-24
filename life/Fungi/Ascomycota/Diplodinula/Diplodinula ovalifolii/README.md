@@ -1,5 +1,4 @@
-Diplodinula ovalifolii (Brunaud) Tassi SPECIES
-=======
+# Diplodinula ovalifolii (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

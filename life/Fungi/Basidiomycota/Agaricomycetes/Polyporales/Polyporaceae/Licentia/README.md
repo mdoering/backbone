@@ -1,5 +1,4 @@
-Licentia GENUS
-=======
+# Licentia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis coluteae var. coluteae (Sacc. & Roum.) Died. VARIETY
-=======
+# Phomopsis coluteae (Sacc. & Roum.) Died. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 9(1): 22 (1911)
 
 #### Original name
-Phomopsis coluteae var. coluteae (Sacc. & Roum.) Died.
+Phoma coluteae Sacc. & Roum.
 
 ### Remarks
 null

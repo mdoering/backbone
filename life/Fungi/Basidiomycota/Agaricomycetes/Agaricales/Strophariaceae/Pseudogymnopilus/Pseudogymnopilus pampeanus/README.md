@@ -1,14 +1,13 @@
-Gymnopilus spectabilis subsp. pampeanus (Speg.) Singer SUBSPECIES
-=======
+# Pseudogymnopilus pampeanus (Speg.) Raithelh., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lilloa 23: 222 (1950)
+Metrodiana 9(2): 47 (1980)
 
 #### Original name
 Flammula pampeana Speg., 1898

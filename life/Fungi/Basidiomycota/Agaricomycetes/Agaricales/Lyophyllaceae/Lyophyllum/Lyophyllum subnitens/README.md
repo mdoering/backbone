@@ -1,5 +1,4 @@
-Lyophyllum subnitens (H.E. Bigelow) Harmaja SPECIES
-=======
+# Lyophyllum subnitens (H.E. Bigelow) Harmaja SPECIES
 
 #### Status
 ACCEPTED

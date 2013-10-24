@@ -1,5 +1,4 @@
-Spongodicranastrum Tan Zhiyuan & Tchang, 1976 GENUS
-=======
+# Spongodicranastrum Tan Zhiyuan & Tchang, 1976 GENUS
 
 #### Status
 ACCEPTED

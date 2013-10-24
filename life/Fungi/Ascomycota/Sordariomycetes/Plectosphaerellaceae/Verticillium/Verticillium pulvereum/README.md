@@ -1,5 +1,4 @@
-Verticillium pulvereum Peck & G.P. Clinton SPECIES
-=======
+# Verticillium pulvereum Peck & G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomus hyderabadensis Swarupa, Kunwar, G.S. Prasad & Manohar. SPECIES
-=======
+# Glomus hyderabadensis Swarupa, Kunwar, G.S. Prasad & Manohar. SPECIES
 
 #### Status
 ACCEPTED

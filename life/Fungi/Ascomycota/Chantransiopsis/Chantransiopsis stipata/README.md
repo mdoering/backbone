@@ -1,5 +1,4 @@
-Chantransiopsis stipata Thaxt. SPECIES
-=======
+# Chantransiopsis stipata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia triglavensis Servít SPECIES
-=======
+# Polyblastia triglavensis Servít SPECIES
 
 #### Status
 ACCEPTED

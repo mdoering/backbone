@@ -1,5 +1,4 @@
-Uromyces reichei Dietel SPECIES
-=======
+# Uromyces reichei Dietel SPECIES
 
 #### Status
 ACCEPTED

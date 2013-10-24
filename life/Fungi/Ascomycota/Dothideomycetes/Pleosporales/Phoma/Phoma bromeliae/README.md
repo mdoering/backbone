@@ -1,5 +1,4 @@
-Phoma bromeliae Traverso & Spessa SPECIES
-=======
+# Phoma bromeliae Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

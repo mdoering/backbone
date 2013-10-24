@@ -1,5 +1,4 @@
-Rhodocybe semiarboricola T.J. Baroni SPECIES
-=======
+# Rhodocybe semiarboricola T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

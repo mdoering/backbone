@@ -1,5 +1,4 @@
-Polystictus turbo Henn. SPECIES
-=======
+# Polystictus turbo Henn. SPECIES
 
 #### Status
 ACCEPTED

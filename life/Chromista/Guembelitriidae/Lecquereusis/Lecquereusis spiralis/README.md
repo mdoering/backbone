@@ -1,5 +1,4 @@
-Lecquereusis spiralis Dai SPECIES
-=======
+# Lecquereusis spiralis Dai SPECIES
 
 #### Status
 ACCEPTED

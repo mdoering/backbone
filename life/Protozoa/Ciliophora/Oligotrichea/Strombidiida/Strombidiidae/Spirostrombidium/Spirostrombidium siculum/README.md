@@ -1,5 +1,4 @@
-Spirostrombidium siculum (Montagnes & Taylor, 1994) Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Spirostrombidium siculum (Montagnes & Taylor, 1994) Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

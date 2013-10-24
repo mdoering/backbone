@@ -1,5 +1,4 @@
-Neosartorya udagawae Y. Horie, Miyaji & Nishim., 1995 SPECIES
-=======
+# Neosartorya udagawae Y. Horie, Miyaji & Nishim., 1995 SPECIES
 
 #### Status
 ACCEPTED

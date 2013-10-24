@@ -1,5 +1,4 @@
-Annellophora sydowii M.B. Ellis SPECIES
-=======
+# Annellophora sydowii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiophloea insulata (Fée) Trevis. SPECIES
-=======
+# Leiophloea insulata (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

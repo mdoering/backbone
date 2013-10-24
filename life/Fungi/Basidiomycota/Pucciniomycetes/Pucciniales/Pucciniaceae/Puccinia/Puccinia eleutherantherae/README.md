@@ -1,5 +1,4 @@
-Puccinia eleutherantherae Dietel SPECIES
-=======
+# Puccinia eleutherantherae Dietel SPECIES
 
 #### Status
 ACCEPTED

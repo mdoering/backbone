@@ -1,5 +1,4 @@
-Mycovellosiella ambrosiae (Olive) Deighton SPECIES
-=======
+# Mycovellosiella ambrosiae (Olive) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mitremyces heterogeneus (Bosc) Nees SPECIES
-=======
+# Mitremyces heterogeneus (Bosc) Nees SPECIES
 
 #### Status
 ACCEPTED

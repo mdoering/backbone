@@ -1,5 +1,4 @@
-Coniothyrium pyricola S. Ahmad SPECIES
-=======
+# Coniothyrium pyricola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

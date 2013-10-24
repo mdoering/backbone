@@ -1,5 +1,4 @@
-Naeviopsis carneola B. Hein & Nannf., 1992 SPECIES
-=======
+# Naeviopsis carneola B. Hein & Nannf., 1992 SPECIES
 
 #### Status
 ACCEPTED

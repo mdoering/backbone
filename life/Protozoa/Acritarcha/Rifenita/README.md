@@ -1,5 +1,4 @@
-Rifenita S.N. Naumova, 1968 GENUS
-=======
+# Rifenita S.N. Naumova, 1968 GENUS
 
 #### Status
 ACCEPTED

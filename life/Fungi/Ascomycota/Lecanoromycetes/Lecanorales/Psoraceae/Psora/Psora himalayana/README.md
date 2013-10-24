@@ -1,17 +1,16 @@
-Biatora himalayana C. Bab. SPECIES
-=======
+# Psora himalayana (C. Bab.) Timdal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 89(4): 262 (1987)
 
 #### Original name
-null
+Biatora himalayana C. Bab.
 
 ### Remarks
 null

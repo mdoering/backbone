@@ -1,5 +1,4 @@
-Nectria bogosarum Pass. SPECIES
-=======
+# Nectria bogosarum Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelenella antarctica (I.M. Lamb) O.E. Erikss. SPECIES
-=======
+# Thelenella antarctica (I.M. Lamb) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

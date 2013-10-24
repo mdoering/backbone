@@ -1,5 +1,4 @@
-Textularia ampla Saidova, 1975 SPECIES
-=======
+# Textularia ampla Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

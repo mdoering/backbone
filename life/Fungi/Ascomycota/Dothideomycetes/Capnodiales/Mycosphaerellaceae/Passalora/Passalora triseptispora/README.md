@@ -1,5 +1,4 @@
-Passalora triseptispora (J.M. Yen) U. Braun & Crous SPECIES
-=======
+# Passalora triseptispora (J.M. Yen) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

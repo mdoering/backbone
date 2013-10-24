@@ -1,5 +1,4 @@
-Hydnum decolorosum Britzelm. SPECIES
-=======
+# Hydnum decolorosum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

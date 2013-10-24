@@ -1,5 +1,4 @@
-Schaudinnula Awerinzew, 1907 GENUS
-=======
+# Schaudinnula Awerinzew, 1907 GENUS
 
 #### Status
 ACCEPTED

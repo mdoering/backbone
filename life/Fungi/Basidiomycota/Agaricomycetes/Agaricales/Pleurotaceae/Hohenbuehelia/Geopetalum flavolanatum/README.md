@@ -1,5 +1,4 @@
-Geopetalum flavolanatum (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Geopetalum flavolanatum (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sabouraudites flavescens (Horta) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites flavescens (Horta) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

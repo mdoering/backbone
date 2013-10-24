@@ -1,5 +1,4 @@
-Vaginicola pedunculata SPECIES
-=======
+# Vaginicola pedunculata SPECIES
 
 #### Status
 ACCEPTED

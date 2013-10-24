@@ -1,5 +1,4 @@
-Cryptocoryneum scopiforme E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Cryptocoryneum scopiforme E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena tenuicorticola Robich SPECIES
-=======
+# Mycena tenuicorticola Robich SPECIES
 
 #### Status
 ACCEPTED

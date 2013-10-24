@@ -1,5 +1,4 @@
-Lichen tuberculosus Hoffm. SPECIES
-=======
+# Lichen tuberculosus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

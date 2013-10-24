@@ -1,5 +1,4 @@
-Copelandia tropicalis (Ola'h) Singer & R.A. Weeks SPECIES
-=======
+# Copelandia tropicalis (Ola'h) Singer & R.A. Weeks SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe eismondii Blonski SPECIES
-=======
+# Clitocybe eismondii Blonski SPECIES
 
 #### Status
 ACCEPTED

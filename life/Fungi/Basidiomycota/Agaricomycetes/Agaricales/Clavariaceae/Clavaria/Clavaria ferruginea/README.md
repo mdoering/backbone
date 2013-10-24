@@ -1,5 +1,4 @@
-Clavaria ferruginea Sowerby SPECIES
-=======
+# Clavaria ferruginea Sowerby SPECIES
 
 #### Status
 ACCEPTED

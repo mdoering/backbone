@@ -1,5 +1,4 @@
-Ceratophyton duplicum Paskeviciene, 1980 SPECIES
-=======
+# Ceratophyton duplicum Paskeviciene, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia atra Berl. & Bres. SPECIES
-=======
+# Botryodiplodia atra Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

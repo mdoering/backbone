@@ -1,5 +1,4 @@
-Puccinia tomipara Trel. SPECIES
-=======
+# Puccinia tomipara Trel. SPECIES
 
 #### Status
 ACCEPTED

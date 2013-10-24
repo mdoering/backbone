@@ -1,5 +1,4 @@
-Acanthometra pellucida Müller, 1858 SPECIES
-=======
+# Acanthometra pellucida Müller, 1858 SPECIES
 
 #### Status
 ACCEPTED

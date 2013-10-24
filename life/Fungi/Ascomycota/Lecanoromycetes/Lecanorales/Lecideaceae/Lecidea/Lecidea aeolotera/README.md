@@ -1,5 +1,4 @@
-Lecidea aeolotera Vain. SPECIES
-=======
+# Lecidea aeolotera Vain. SPECIES
 
 #### Status
 ACCEPTED

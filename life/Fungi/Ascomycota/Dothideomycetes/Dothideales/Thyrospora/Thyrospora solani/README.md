@@ -1,5 +1,4 @@
-Thyrospora solani Sawada SPECIES
-=======
+# Thyrospora solani Sawada SPECIES
 
 #### Status
 ACCEPTED

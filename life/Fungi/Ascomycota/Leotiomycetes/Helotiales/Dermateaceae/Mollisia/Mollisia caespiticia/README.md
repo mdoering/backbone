@@ -1,14 +1,13 @@
-Pyrenopeziza caespiticia (P. Karst.) Gremmen, 1958 SPECIES
-=======
+# Mollisia caespiticia P. Karst., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 28: 41 (1958)
+Bidr. Känn. Finl. Nat. Folk 19: 188 (1871)
 
 #### Original name
 Mollisia caespiticia P. Karst., 1871

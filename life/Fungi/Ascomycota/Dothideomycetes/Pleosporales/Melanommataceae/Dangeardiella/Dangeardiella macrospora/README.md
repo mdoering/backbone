@@ -1,17 +1,16 @@
-Platystomum aspidii (Rostr.) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Dangeardiella macrospora (J. Schröt.) Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 891 (1905)
+in Saccardo, Syll. fung. (Abellini) 14(2): 683 (1899)
 
 #### Original name
-null
+Monographus macrosporus J. Schröt., 1897
 
 ### Remarks
 null

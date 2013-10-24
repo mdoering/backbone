@@ -1,5 +1,4 @@
-Lucibacterium Hendrie et al., 1970 (Approved Lists, 1980) GENUS
-=======
+# Lucibacterium Hendrie et al., 1970 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

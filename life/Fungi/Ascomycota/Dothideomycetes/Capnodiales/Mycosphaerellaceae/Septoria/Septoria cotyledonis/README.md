@@ -1,5 +1,4 @@
-Septoria cotyledonis Wakef. SPECIES
-=======
+# Septoria cotyledonis Wakef. SPECIES
 
 #### Status
 ACCEPTED

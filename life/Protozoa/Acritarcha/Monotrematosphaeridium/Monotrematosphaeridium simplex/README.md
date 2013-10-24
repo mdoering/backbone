@@ -1,5 +1,4 @@
-Monotrematosphaeridium simplex Wang & Chen in Wang & Chen, 1987 SPECIES
-=======
+# Monotrematosphaeridium simplex Wang & Chen in Wang & Chen, 1987 SPECIES
 
 #### Status
 ACCEPTED

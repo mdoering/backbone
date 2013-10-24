@@ -1,5 +1,4 @@
-Opegrapha populina (A. Massal.) M. Choisy SPECIES
-=======
+# Opegrapha populina (A. Massal.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

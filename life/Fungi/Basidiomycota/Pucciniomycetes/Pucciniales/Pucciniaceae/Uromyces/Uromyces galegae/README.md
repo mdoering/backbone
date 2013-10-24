@@ -1,14 +1,13 @@
-Uredo galegae Opiz, 1854 SPECIES
-=======
+# Uromyces galegae (Opiz) Sacc., 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lotos 4: 206 (1854)
+Riv. Accad. di Padova 24: 13 (1874)
 
 #### Original name
 Uredo galegae Opiz, 1854

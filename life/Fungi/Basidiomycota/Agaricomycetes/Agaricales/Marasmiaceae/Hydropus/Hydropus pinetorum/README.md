@@ -1,5 +1,4 @@
-Hydropus pinetorum Singer SPECIES
-=======
+# Hydropus pinetorum Singer SPECIES
 
 #### Status
 ACCEPTED

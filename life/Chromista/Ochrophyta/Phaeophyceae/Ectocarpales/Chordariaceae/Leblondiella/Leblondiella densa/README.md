@@ -1,8 +1,7 @@
-Myriotrichia densa Batters SPECIES
-=======
+# Leblondiella densa (Batters) G. Hamel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

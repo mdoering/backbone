@@ -1,5 +1,4 @@
-Schizothyrioma von Höhnel, 1917 GENUS
-=======
+# Schizothyrioma von Höhnel, 1917 GENUS
 
 #### Status
 ACCEPTED

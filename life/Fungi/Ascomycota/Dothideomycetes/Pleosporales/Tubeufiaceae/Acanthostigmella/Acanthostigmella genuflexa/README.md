@@ -1,5 +1,4 @@
-Acanthostigmella genuflexa Höhn., 1905 SPECIES
-=======
+# Acanthostigmella genuflexa Höhn., 1905 SPECIES
 
 #### Status
 ACCEPTED

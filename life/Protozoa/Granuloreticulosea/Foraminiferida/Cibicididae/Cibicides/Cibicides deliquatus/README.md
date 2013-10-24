@@ -1,5 +1,4 @@
-Cibicides deliquatus Finlay, 1940 SPECIES
-=======
+# Cibicides deliquatus Finlay, 1940 SPECIES
 
 #### Status
 ACCEPTED

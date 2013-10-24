@@ -1,5 +1,4 @@
-Protobagliettoa cazzae (Zahlbr.) Servít SPECIES
-=======
+# Protobagliettoa cazzae (Zahlbr.) Servít SPECIES
 
 #### Status
 ACCEPTED

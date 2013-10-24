@@ -1,5 +1,4 @@
-Aspicilia alpinodesertorum f. alpinodesertorum FORM
-=======
+# Aspicilia alpinodesertorum Elenkin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia alpinodesertorum f. alpinodesertorum
+Aspicilia alpinodesertorum Elenkin
 
 ### Remarks
 null

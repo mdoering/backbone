@@ -1,5 +1,4 @@
-Spirosphaera cupreorufescens Voglmayr SPECIES
-=======
+# Spirosphaera cupreorufescens Voglmayr SPECIES
 
 #### Status
 ACCEPTED

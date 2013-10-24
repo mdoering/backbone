@@ -1,5 +1,4 @@
-Amphitrichum strictum (Pers.) Kuntze SPECIES
-=======
+# Amphitrichum strictum (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea leucinata Ach. SPECIES
-=======
+# Lecidea leucinata Ach. SPECIES
 
 #### Status
 ACCEPTED

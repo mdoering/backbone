@@ -1,5 +1,4 @@
-Lecanicillium evansii Zare & W. Gams, 2001 SPECIES
-=======
+# Lecanicillium evansii Zare & W. Gams, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea furcifera Höhn. SPECIES
-=======
+# Lachnea furcifera Höhn. SPECIES
 
 #### Status
 ACCEPTED

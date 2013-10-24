@@ -1,5 +1,4 @@
-Morchella guatemalensis Guzmán, M.F. Torres & Logem. SPECIES
-=======
+# Morchella guatemalensis Guzmán, M.F. Torres & Logem. SPECIES
 
 #### Status
 ACCEPTED

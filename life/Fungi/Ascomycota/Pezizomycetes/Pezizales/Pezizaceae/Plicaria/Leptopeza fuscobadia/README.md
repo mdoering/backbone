@@ -1,5 +1,4 @@
-Leptopeza fuscobadia G.H. Otth SPECIES
-=======
+# Leptopeza fuscobadia G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

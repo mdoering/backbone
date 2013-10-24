@@ -1,5 +1,4 @@
-Tympanis stictica Berk. & M.A. Curtis SPECIES
-=======
+# Tympanis stictica Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

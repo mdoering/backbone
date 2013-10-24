@@ -1,5 +1,4 @@
-Planobispora rosea Thiemann, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Planobispora rosea Thiemann, 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

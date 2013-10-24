@@ -1,5 +1,4 @@
-Callopisma tetrasporum (Nyl.) Syd. SPECIES
-=======
+# Callopisma tetrasporum (Nyl.) Syd. SPECIES
 
 #### Status
 ACCEPTED

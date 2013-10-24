@@ -1,5 +1,4 @@
-Ophionectria everhartii Ellis & Galloway SPECIES
-=======
+# Ophionectria everhartii Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

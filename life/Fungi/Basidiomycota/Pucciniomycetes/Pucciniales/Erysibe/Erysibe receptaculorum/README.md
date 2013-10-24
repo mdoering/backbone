@@ -1,5 +1,4 @@
-Erysibe receptaculorum var. receptaculorum VARIETY
-=======
+# Erysibe receptaculorum Wallr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Erysibe receptaculorum var. receptaculorum
+Erysibe receptaculorum Wallr.
 
 ### Remarks
 null

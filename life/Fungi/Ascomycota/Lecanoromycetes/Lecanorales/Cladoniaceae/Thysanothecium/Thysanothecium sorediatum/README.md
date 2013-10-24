@@ -1,5 +1,4 @@
-Thysanothecium sorediatum Elix SPECIES
-=======
+# Thysanothecium sorediatum Elix SPECIES
 
 #### Status
 ACCEPTED

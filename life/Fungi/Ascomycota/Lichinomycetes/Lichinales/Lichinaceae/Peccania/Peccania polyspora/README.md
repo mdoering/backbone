@@ -1,5 +1,4 @@
-Peccania polyspora H. Magn. SPECIES
-=======
+# Peccania polyspora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

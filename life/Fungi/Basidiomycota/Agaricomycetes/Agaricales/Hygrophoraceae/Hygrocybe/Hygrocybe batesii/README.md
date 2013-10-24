@@ -1,5 +1,4 @@
-Hygrocybe batesii A.M. Young SPECIES
-=======
+# Hygrocybe batesii A.M. Young SPECIES
 
 #### Status
 ACCEPTED

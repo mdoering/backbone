@@ -1,5 +1,4 @@
-Pannaria myriocarpa (Delise) Tul. SPECIES
-=======
+# Pannaria myriocarpa (Delise) Tul. SPECIES
 
 #### Status
 ACCEPTED

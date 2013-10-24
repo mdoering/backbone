@@ -1,5 +1,4 @@
-Verrucaria pseudopapillaris Servít SPECIES
-=======
+# Verrucaria pseudopapillaris Servít SPECIES
 
 #### Status
 ACCEPTED

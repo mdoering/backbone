@@ -1,5 +1,4 @@
-Galera mexicana (Murrill) Sacc. & Trotter SPECIES
-=======
+# Galera mexicana (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

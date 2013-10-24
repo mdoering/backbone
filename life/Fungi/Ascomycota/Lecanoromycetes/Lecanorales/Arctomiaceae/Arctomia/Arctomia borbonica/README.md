@@ -1,5 +1,4 @@
-Arctomia borbonica Magain & Sérus. SPECIES
-=======
+# Arctomia borbonica Magain & Sérus. SPECIES
 
 #### Status
 ACCEPTED

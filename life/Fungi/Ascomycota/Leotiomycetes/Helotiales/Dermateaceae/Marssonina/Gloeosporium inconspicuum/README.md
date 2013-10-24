@@ -1,5 +1,4 @@
-Gloeosporium inconspicuum Sousa da Câmara SPECIES
-=======
+# Gloeosporium inconspicuum Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

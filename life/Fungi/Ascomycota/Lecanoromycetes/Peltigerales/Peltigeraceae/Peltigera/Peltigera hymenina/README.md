@@ -1,14 +1,13 @@
-Peltigera polydactylon var. hymenina (Ach.) Flot. VARIETY
-=======
+# Peltigera hymenina (Ach.) Delise ex Duby SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Jber. schles. Ges. vaterl. Kultur 28: 125 (1850)
+Aug. Pyrami de Candolle. Botanicon Gallicum, seu Synopsis Plantarum in Flora Gallica Descriptarum, Edn 2 2: 597 (1830)
 
 #### Original name
 Peltidea hymenina Ach.

@@ -1,5 +1,4 @@
-Textularia subhauerii Cushman SPECIES
-=======
+# Textularia subhauerii Cushman SPECIES
 
 #### Status
 ACCEPTED

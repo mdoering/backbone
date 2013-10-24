@@ -1,5 +1,4 @@
-Polyporus singularis Berk. SPECIES
-=======
+# Polyporus singularis Berk. SPECIES
 
 #### Status
 ACCEPTED

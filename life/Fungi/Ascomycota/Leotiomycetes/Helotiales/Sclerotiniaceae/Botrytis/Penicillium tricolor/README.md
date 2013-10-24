@@ -1,5 +1,4 @@
-Penicillium tricolor Frisvad, Seifert, Samson & John T. Mills, 1994 SPECIES
-=======
+# Penicillium tricolor Frisvad, Seifert, Samson & John T. Mills, 1994 SPECIES
 
 #### Status
 DOUBTFUL

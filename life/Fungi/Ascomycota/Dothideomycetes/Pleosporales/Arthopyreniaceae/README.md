@@ -1,5 +1,4 @@
-Arthopyreniaceae Walt. Watson FAMILY
-=======
+# Arthopyreniaceae Walt. Watson FAMILY
 
 #### Status
 ACCEPTED

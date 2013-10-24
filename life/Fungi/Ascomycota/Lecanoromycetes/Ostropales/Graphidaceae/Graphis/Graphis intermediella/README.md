@@ -1,5 +1,4 @@
-Graphis intermediella Stirt. SPECIES
-=======
+# Graphis intermediella Stirt. SPECIES
 
 #### Status
 ACCEPTED

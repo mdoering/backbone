@@ -1,5 +1,4 @@
-Lecidea subinsconspicua Elenk. SPECIES
-=======
+# Lecidea subinsconspicua Elenk. SPECIES
 
 #### Status
 ACCEPTED

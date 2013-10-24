@@ -1,5 +1,4 @@
-Phoma ribesiana Dominik SPECIES
-=======
+# Phoma ribesiana Dominik SPECIES
 
 #### Status
 ACCEPTED

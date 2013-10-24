@@ -1,5 +1,4 @@
-Boletus roseopurpureus Both, Bessette & Roody SPECIES
-=======
+# Boletus roseopurpureus Both, Bessette & Roody SPECIES
 
 #### Status
 ACCEPTED

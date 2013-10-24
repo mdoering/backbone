@@ -1,5 +1,4 @@
-Helianter Jankowski, 1969 GENUS
-=======
+# Helianter Jankowski, 1969 GENUS
 
 #### Status
 ACCEPTED

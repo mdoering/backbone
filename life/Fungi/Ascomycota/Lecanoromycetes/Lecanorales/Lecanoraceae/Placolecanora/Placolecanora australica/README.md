@@ -1,5 +1,4 @@
-Placolecanora australica Räsänen SPECIES
-=======
+# Placolecanora australica Räsänen SPECIES
 
 #### Status
 ACCEPTED

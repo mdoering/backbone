@@ -1,17 +1,16 @@
-Chiodecton brunnthaleri Zahlbr. SPECIES
-=======
+# Dichosporidium brunnthaleri (Zahlbr.) G. Thor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 103: 67 (1991)
 
 #### Original name
-null
+Chiodecton brunnthaleri Zahlbr.
 
 ### Remarks
 null

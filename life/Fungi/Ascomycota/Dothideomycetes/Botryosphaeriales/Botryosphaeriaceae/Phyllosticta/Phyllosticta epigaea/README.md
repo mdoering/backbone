@@ -1,17 +1,16 @@
-Phyllosticta epigaeae Peck SPECIES
-=======
+# Phyllosticta epigaea Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 38: 94 (1885)
 
 #### Original name
-Phyllosticta epigaeae Peck
+Phyllosticta epigaea Peck
 
 ### Remarks
 null

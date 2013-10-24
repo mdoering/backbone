@@ -1,5 +1,4 @@
-Spirochaeta biflexa SPECIES
-=======
+# Spirochaeta biflexa SPECIES
 
 #### Status
 ACCEPTED

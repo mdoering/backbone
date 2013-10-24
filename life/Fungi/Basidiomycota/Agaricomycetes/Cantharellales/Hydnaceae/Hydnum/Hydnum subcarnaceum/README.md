@@ -1,5 +1,4 @@
-Hydnum subcarnaceum Fr. SPECIES
-=======
+# Hydnum subcarnaceum Fr. SPECIES
 
 #### Status
 ACCEPTED

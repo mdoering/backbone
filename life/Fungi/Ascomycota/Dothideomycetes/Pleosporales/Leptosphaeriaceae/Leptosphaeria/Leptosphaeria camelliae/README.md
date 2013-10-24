@@ -1,5 +1,4 @@
-Leptosphaeria camelliae Cooke & Massee SPECIES
-=======
+# Leptosphaeria camelliae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

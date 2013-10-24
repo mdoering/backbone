@@ -1,5 +1,4 @@
-Periconia macrospinosa Lefebvre & Aar.G. Johnson, 1949 SPECIES
-=======
+# Periconia macrospinosa Lefebvre & Aar.G. Johnson, 1949 SPECIES
 
 #### Status
 ACCEPTED

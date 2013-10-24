@@ -1,5 +1,4 @@
-Marssonia carthami Fukui SPECIES
-=======
+# Marssonia carthami Fukui SPECIES
 
 #### Status
 ACCEPTED

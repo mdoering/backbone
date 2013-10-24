@@ -1,5 +1,4 @@
-Minimidochium microsporum Matsush. SPECIES
-=======
+# Minimidochium microsporum Matsush. SPECIES
 
 #### Status
 ACCEPTED

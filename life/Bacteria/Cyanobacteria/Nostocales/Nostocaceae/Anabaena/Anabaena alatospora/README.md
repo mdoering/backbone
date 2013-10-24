@@ -1,5 +1,4 @@
-Anabaena alatospora var. ona S.A. Guarrera & R.O. Echenique VARIETY
-=======
+# Anabaena alatospora SPECIES
 
 #### Status
 ACCEPTED

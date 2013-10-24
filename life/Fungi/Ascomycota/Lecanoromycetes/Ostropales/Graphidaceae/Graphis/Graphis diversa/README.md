@@ -1,5 +1,4 @@
-Graphis diversa Nyl. SPECIES
-=======
+# Graphis diversa Nyl. SPECIES
 
 #### Status
 ACCEPTED

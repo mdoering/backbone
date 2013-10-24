@@ -1,5 +1,4 @@
-Candida breva SPECIES
-=======
+# Candida breva SPECIES
 
 #### Status
 ACCEPTED

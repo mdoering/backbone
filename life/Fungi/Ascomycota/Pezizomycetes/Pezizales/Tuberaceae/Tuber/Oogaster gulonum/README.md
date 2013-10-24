@@ -1,5 +1,4 @@
-Oogaster gulonum Corda SPECIES
-=======
+# Oogaster gulonum Corda SPECIES
 
 #### Status
 ACCEPTED

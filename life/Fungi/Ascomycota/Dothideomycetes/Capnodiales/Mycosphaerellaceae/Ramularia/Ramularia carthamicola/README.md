@@ -1,5 +1,4 @@
-Ramularia carthamicola Darpoux SPECIES
-=======
+# Ramularia carthamicola Darpoux SPECIES
 
 #### Status
 ACCEPTED

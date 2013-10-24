@@ -1,5 +1,4 @@
-Peziza brunneovinosa Clem. SPECIES
-=======
+# Peziza brunneovinosa Clem. SPECIES
 
 #### Status
 ACCEPTED

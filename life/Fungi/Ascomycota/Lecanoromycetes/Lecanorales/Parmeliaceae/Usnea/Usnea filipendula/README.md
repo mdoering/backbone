@@ -1,17 +1,16 @@
-Usnea filipendula f. filipendula FORM
-=======
+# Usnea filipendula Stirt. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scott. Natural. 6: 104 (1881)
 
 #### Original name
-Usnea filipendula f. filipendula
+Usnea filipendula Stirt.
 
 ### Remarks
 null

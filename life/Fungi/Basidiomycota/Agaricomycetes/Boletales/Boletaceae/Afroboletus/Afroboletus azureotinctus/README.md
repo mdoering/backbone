@@ -1,5 +1,4 @@
-Afroboletus azureotinctus Watling, 1993 SPECIES
-=======
+# Afroboletus azureotinctus Watling, 1993 SPECIES
 
 #### Status
 ACCEPTED

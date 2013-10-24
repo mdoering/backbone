@@ -1,5 +1,4 @@
-Bacidia parvula Malme SPECIES
-=======
+# Bacidia parvula Malme SPECIES
 
 #### Status
 ACCEPTED

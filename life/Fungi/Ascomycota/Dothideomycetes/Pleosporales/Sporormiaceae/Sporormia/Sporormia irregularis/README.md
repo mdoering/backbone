@@ -1,5 +1,4 @@
-Sporormia irregularis I. Egeland SPECIES
-=======
+# Sporormia irregularis I. Egeland SPECIES
 
 #### Status
 ACCEPTED

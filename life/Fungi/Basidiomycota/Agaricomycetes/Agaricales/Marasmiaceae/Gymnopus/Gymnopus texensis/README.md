@@ -1,5 +1,4 @@
-Gymnopus texensis (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Gymnopus texensis (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

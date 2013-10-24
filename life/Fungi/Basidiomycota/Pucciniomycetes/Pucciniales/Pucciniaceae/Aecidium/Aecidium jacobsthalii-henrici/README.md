@@ -1,5 +1,4 @@
-Aecidium jacobsthalii-henrici Magnus SPECIES
-=======
+# Aecidium jacobsthalii-henrici Magnus SPECIES
 
 #### Status
 ACCEPTED

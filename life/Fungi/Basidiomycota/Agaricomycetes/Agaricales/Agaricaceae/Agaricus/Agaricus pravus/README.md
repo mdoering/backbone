@@ -1,5 +1,4 @@
-Agaricus pravus Lasch SPECIES
-=======
+# Agaricus pravus Lasch SPECIES
 
 #### Status
 ACCEPTED

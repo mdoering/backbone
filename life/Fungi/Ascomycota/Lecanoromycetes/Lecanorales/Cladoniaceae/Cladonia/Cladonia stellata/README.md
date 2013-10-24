@@ -1,5 +1,4 @@
-Cladonia stellata f. stellata (Flörke) Schaer. FORM
-=======
+# Cladonia stellata (Flörke) Schaer. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia stellata f. stellata (Flörke) Schaer.
+null
 
 ### Remarks
 null

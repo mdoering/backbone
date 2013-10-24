@@ -1,5 +1,4 @@
-Hanseniaspora opuntiae Cadez, Poot, Raspor & M.T. Sm., 2003 SPECIES
-=======
+# Hanseniaspora opuntiae Cadez, Poot, Raspor & M.T. Sm., 2003 SPECIES
 
 #### Status
 ACCEPTED

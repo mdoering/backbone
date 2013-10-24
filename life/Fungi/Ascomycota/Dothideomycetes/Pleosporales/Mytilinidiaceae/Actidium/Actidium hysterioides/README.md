@@ -1,17 +1,16 @@
-Hysterium globosum Pers., 1801 SPECIES
-=======
+# Actidium hysterioides Fr., 1818 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Observ. mycol. (Havniae) 2: 333 (1818)
 
 #### Original name
-null
+Actidium hysterioides Fr., 1818
 
 ### Remarks
 null

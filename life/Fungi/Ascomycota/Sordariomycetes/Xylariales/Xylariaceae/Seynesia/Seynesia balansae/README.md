@@ -1,5 +1,4 @@
-Seynesia balansae f. balansae FORM
-=======
+# Seynesia balansae Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Seynesia balansae f. balansae
+Seynesia balansae Speg.
 
 ### Remarks
 null

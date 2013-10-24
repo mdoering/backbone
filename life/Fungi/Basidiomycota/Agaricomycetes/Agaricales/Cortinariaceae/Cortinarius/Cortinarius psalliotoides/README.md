@@ -1,5 +1,4 @@
-Cortinarius psalliotoides Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius psalliotoides Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma caloplacae D. Hawksw. SPECIES
-=======
+# Phoma caloplacae D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

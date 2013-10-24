@@ -1,5 +1,4 @@
-Entyloma commelinae Vienn.-Bourg. SPECIES
-=======
+# Entyloma commelinae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

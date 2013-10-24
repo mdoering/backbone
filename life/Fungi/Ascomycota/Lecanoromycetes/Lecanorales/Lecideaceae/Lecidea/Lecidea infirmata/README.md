@@ -1,5 +1,4 @@
-Lecidea infirmata Arnold SPECIES
-=======
+# Lecidea infirmata Arnold SPECIES
 
 #### Status
 ACCEPTED

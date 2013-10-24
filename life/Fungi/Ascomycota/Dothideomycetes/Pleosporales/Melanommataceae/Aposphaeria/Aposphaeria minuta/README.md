@@ -1,5 +1,4 @@
-Aposphaeria minuta Berl. SPECIES
-=======
+# Aposphaeria minuta Berl. SPECIES
 
 #### Status
 ACCEPTED

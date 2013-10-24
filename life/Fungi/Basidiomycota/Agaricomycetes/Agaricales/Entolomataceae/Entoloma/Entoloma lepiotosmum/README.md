@@ -1,14 +1,13 @@
-Entoloma lepiotosmus (Romagn.) Noordel. SPECIES
-=======
+# Entoloma lepiotosmum (Romagn.) Noordel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 11(4): 470 (1982)
 
 #### Original name
 Rhodophyllus lepiotosmus Romagn.

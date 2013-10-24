@@ -1,5 +1,4 @@
-Stipiza Raf. GENUS
-=======
+# Stipiza Raf. GENUS
 
 #### Status
 ACCEPTED

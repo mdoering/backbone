@@ -1,5 +1,4 @@
-Gonyaulax elegans Rampi SPECIES
-=======
+# Gonyaulax elegans Rampi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphingobium olei Chiu-Chung Young, 2007 SPECIES
-=======
+# Sphingobium olei Chiu-Chung Young, 2007 SPECIES
 
 #### Status
 ACCEPTED

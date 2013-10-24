@@ -1,5 +1,4 @@
-Verrucaria taernaënsis (H. Magn.) R. Sant. SPECIES
-=======
+# Verrucaria taernaënsis (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

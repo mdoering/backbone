@@ -1,5 +1,4 @@
-Puccinia teucrii Biv. SPECIES
-=======
+# Puccinia teucrii Biv. SPECIES
 
 #### Status
 ACCEPTED

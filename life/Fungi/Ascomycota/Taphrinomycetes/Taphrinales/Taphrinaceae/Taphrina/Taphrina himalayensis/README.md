@@ -1,5 +1,4 @@
-Taphrina himalayensis Singh {?} & Nisha {?} ined. SPECIES
-=======
+# Taphrina himalayensis Singh {?} & Nisha {?} ined. SPECIES
 
 #### Status
 ACCEPTED

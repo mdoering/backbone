@@ -1,5 +1,4 @@
-Clitocybe fuscipes Peck SPECIES
-=======
+# Clitocybe fuscipes Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema mauritianum Harm. SPECIES
-=======
+# Collema mauritianum Harm. SPECIES
 
 #### Status
 ACCEPTED

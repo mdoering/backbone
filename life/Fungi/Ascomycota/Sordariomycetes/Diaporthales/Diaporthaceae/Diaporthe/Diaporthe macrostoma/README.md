@@ -1,5 +1,4 @@
-Diaporthe macrostoma Nitschke SPECIES
-=======
+# Diaporthe macrostoma Nitschke SPECIES
 
 #### Status
 ACCEPTED

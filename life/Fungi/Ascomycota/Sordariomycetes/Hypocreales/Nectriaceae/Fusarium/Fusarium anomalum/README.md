@@ -1,5 +1,4 @@
-Fusarium anomalum Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium anomalum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

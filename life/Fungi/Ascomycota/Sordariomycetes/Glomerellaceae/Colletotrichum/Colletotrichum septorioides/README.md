@@ -1,5 +1,4 @@
-Colletotrichum septorioides Sacc. SPECIES
-=======
+# Colletotrichum septorioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cymatiogalea parva Vecoli, 1996 SPECIES
-=======
+# Cymatiogalea parva Vecoli, 1996 SPECIES
 
 #### Status
 ACCEPTED

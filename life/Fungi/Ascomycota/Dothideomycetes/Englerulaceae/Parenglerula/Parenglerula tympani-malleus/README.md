@@ -1,5 +1,4 @@
-Parenglerula tympani-malleus (Deighton) Arx & E. Müll. SPECIES
-=======
+# Parenglerula tympani-malleus (Deighton) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

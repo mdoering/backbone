@@ -1,5 +1,4 @@
-Leptostroma smilacis Cooke SPECIES
-=======
+# Leptostroma smilacis Cooke SPECIES
 
 #### Status
 ACCEPTED

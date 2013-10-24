@@ -1,5 +1,4 @@
-Hymenoscyphus denticulatus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus denticulatus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

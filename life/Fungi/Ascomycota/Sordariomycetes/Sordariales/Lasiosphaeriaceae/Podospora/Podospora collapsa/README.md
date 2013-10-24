@@ -1,5 +1,4 @@
-Podospora collapsa (Griffiths) Cain, 1962 SPECIES
-=======
+# Podospora collapsa (Griffiths) Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

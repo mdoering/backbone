@@ -1,14 +1,13 @@
-Physopella stereospermi (Mundk.) Sathe, 1966 SPECIES
-=======
+# Mehtamyces stereospermi (Mundk.) Mundk. & Thirum., 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 19: 139 (1966)
+Mycologia 37(5): 621 (1945)
 
 #### Original name
 Phakopsora stereospermi Mundk., 1943

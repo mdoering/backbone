@@ -1,5 +1,4 @@
-Ceuthospora glandicola Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Ceuthospora glandicola Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

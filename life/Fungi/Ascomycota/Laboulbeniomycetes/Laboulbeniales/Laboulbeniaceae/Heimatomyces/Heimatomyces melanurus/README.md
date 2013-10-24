@@ -1,5 +1,4 @@
-Heimatomyces melanurus Thaxt. SPECIES
-=======
+# Heimatomyces melanurus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

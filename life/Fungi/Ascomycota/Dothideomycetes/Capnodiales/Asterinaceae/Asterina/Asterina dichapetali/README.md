@@ -1,5 +1,4 @@
-Asterina dichapetali Hansf. & Thirum. SPECIES
-=======
+# Asterina dichapetali Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

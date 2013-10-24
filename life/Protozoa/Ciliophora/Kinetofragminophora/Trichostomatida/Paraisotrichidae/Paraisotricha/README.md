@@ -1,5 +1,4 @@
-Paraisotricha Fiorentini, 1890 GENUS
-=======
+# Paraisotricha Fiorentini, 1890 GENUS
 
 #### Status
 ACCEPTED

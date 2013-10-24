@@ -1,5 +1,4 @@
-Allodus scaberistipes Arthur & Orton SPECIES
-=======
+# Allodus scaberistipes Arthur & Orton SPECIES
 
 #### Status
 ACCEPTED

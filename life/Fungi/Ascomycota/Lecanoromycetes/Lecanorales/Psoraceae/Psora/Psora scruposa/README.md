@@ -1,5 +1,4 @@
-Psora scruposa (Schreb.) Hampe SPECIES
-=======
+# Psora scruposa (Schreb.) Hampe SPECIES
 
 #### Status
 ACCEPTED

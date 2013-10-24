@@ -1,5 +1,4 @@
-Tilletia endophylla de Bary SPECIES
-=======
+# Tilletia endophylla de Bary SPECIES
 
 #### Status
 ACCEPTED

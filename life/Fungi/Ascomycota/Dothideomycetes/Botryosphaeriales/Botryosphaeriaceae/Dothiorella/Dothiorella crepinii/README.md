@@ -1,14 +1,13 @@
-Dothiorella crepini (Speg. & Roum.) Grove SPECIES
-=======
+# Dothiorella crepinii (Speg. & Roum.) Grove SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Misc. Inf. , Kew 188 (1919)
 
 #### Original name
 Phoma crepinii Speg. & Roum.

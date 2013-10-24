@@ -1,5 +1,4 @@
-Lecanora luteovernalis Brodo SPECIES
-=======
+# Lecanora luteovernalis Brodo SPECIES
 
 #### Status
 ACCEPTED

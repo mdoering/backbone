@@ -1,5 +1,4 @@
-Depazea acetosae Opiz SPECIES
-=======
+# Depazea acetosae Opiz SPECIES
 
 #### Status
 ACCEPTED

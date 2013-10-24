@@ -1,5 +1,4 @@
-Puccinia succisae Kunze & J.C. Schmidt SPECIES
-=======
+# Puccinia succisae Kunze & J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

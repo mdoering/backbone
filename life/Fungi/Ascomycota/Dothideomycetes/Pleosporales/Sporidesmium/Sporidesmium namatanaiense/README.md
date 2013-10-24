@@ -1,5 +1,4 @@
-Sporidesmium namatanaiense Matsush. SPECIES
-=======
+# Sporidesmium namatanaiense Matsush. SPECIES
 
 #### Status
 ACCEPTED

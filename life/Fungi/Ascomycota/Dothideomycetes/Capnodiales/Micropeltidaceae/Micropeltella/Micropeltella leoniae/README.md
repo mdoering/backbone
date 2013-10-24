@@ -1,5 +1,4 @@
-Micropeltella leoniae (Henn.) Bat. SPECIES
-=======
+# Micropeltella leoniae (Henn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

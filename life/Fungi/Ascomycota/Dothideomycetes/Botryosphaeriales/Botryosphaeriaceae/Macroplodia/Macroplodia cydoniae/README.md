@@ -1,5 +1,4 @@
-Macroplodia cydoniae (Cooke & Ellis) Kuntze SPECIES
-=======
+# Macroplodia cydoniae (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria turangae Nevod. & Kravtzev SPECIES
-=======
+# Septoria turangae Nevod. & Kravtzev SPECIES
 
 #### Status
 ACCEPTED

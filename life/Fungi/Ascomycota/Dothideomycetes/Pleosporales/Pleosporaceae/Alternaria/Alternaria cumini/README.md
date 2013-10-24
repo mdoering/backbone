@@ -1,5 +1,4 @@
-Alternaria cumini E.G. Simmons SPECIES
-=======
+# Alternaria cumini E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

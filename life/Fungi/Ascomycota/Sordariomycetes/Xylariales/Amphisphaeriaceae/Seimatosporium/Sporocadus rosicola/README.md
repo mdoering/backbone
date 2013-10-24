@@ -1,5 +1,4 @@
-Sporocadus rosicola Rabenh. SPECIES
-=======
+# Sporocadus rosicola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

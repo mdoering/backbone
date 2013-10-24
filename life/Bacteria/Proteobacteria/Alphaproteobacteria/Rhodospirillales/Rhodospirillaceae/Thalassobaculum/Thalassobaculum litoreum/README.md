@@ -1,5 +1,4 @@
-Thalassobaculum litoreum Zhang, Hwang & Cho, 2008 SPECIES
-=======
+# Thalassobaculum litoreum Zhang, Hwang & Cho, 2008 SPECIES
 
 #### Status
 ACCEPTED

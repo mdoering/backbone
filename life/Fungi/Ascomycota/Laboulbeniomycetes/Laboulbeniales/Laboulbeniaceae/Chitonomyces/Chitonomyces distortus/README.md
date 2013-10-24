@@ -1,5 +1,4 @@
-Chitonomyces distortus Thaxt. SPECIES
-=======
+# Chitonomyces distortus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

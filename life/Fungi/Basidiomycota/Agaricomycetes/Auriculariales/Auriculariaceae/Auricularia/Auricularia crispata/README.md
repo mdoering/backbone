@@ -1,5 +1,4 @@
-Auricularia crispata Schumach. SPECIES
-=======
+# Auricularia crispata Schumach. SPECIES
 
 #### Status
 ACCEPTED

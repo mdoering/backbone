@@ -1,5 +1,4 @@
-Porophilomyces U. Braun GENUS
-=======
+# Porophilomyces U. Braun GENUS
 
 #### Status
 ACCEPTED

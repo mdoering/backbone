@@ -1,5 +1,4 @@
-Dictyuchus pseudoachlyoides Beneke SPECIES
-=======
+# Dictyuchus pseudoachlyoides Beneke SPECIES
 
 #### Status
 ACCEPTED

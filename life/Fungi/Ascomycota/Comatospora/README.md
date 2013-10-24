@@ -1,5 +1,4 @@
-Comatospora Piroz. & Shoemaker GENUS
-=======
+# Comatospora Piroz. & Shoemaker GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elfvingia GENUS
-=======
+# Elfvingia GENUS
 
 #### Status
 ACCEPTED

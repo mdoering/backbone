@@ -1,5 +1,4 @@
-Monilia communis Castell. SPECIES
-=======
+# Monilia communis Castell. SPECIES
 
 #### Status
 ACCEPTED

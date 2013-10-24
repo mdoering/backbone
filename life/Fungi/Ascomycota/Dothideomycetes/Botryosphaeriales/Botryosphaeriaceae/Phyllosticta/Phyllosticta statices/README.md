@@ -1,5 +1,4 @@
-Phyllosticta statices Petr. SPECIES
-=======
+# Phyllosticta statices Petr. SPECIES
 
 #### Status
 ACCEPTED

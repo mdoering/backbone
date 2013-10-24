@@ -1,5 +1,4 @@
-Cortinarius roseovariatus Rob. Henry SPECIES
-=======
+# Cortinarius roseovariatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

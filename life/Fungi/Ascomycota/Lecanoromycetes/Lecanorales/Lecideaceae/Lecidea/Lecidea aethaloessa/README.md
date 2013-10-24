@@ -1,5 +1,4 @@
-Lecidea aethaloessa Stizenb. SPECIES
-=======
+# Lecidea aethaloessa Stizenb. SPECIES
 
 #### Status
 ACCEPTED

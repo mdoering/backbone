@@ -1,17 +1,16 @@
-Ramularia deusta var. deusta VARIETY
-=======
+# Ramularia deusta (Fuckel) Karak., 1937 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Vassiljevsky & Karakulin, Mycologia 42(3): 416 (1950)
+Fungi Imperfecti Parasitici 1: 116 (1937)
 
 #### Original name
-Ramularia deusta var. deusta
+Scolicotrichum deustum Fuckel, 1870
 
 ### Remarks
 null

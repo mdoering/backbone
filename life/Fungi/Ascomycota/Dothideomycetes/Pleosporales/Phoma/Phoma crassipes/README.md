@@ -1,5 +1,4 @@
-Phoma crassipes f. crassipes FORM
-=======
+# Phoma crassipes Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma crassipes f. crassipes
+Phoma crassipes Cooke
 
 ### Remarks
 null

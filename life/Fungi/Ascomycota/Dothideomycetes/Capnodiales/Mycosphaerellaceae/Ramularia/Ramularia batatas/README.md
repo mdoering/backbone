@@ -1,8 +1,7 @@
-Ramularia batatae Racib. SPECIES
-=======
+# Ramularia batatas Racib. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramularia batatae Racib.
+Ramularia batatas Racib.
 
 ### Remarks
 null

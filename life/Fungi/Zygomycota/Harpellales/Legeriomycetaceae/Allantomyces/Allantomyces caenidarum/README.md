@@ -1,5 +1,4 @@
-Allantomyces caenidarum M.C. Williams & Lichtw., 1993 SPECIES
-=======
+# Allantomyces caenidarum M.C. Williams & Lichtw., 1993 SPECIES
 
 #### Status
 ACCEPTED

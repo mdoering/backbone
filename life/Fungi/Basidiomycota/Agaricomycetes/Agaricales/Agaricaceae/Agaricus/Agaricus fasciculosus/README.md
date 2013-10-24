@@ -1,5 +1,4 @@
-Agaricus fasciculosus With. SPECIES
-=======
+# Agaricus fasciculosus With. SPECIES
 
 #### Status
 ACCEPTED

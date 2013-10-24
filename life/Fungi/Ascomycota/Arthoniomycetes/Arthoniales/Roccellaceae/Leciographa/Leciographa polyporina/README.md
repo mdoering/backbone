@@ -1,5 +1,4 @@
-Leciographa polyporina (Nyl.) Arnold SPECIES
-=======
+# Leciographa polyporina (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

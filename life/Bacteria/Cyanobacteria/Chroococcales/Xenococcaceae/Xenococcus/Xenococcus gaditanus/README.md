@@ -1,5 +1,4 @@
-Xenococcus gaditanus P. González SPECIES
-=======
+# Xenococcus gaditanus P. González SPECIES
 
 #### Status
 ACCEPTED

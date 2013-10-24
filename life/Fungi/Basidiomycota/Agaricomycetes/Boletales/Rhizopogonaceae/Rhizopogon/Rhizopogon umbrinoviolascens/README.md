@@ -1,5 +1,4 @@
-Rhizopogon umbrinoviolascens A.H. Sm. SPECIES
-=======
+# Rhizopogon umbrinoviolascens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

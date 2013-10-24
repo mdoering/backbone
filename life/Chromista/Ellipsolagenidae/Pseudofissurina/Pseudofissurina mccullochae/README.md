@@ -1,5 +1,4 @@
-Pseudofissurina mccullochae Jones, 1994 SPECIES
-=======
+# Pseudofissurina mccullochae Jones, 1994 SPECIES
 
 #### Status
 ACCEPTED

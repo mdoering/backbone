@@ -1,5 +1,4 @@
-Uredo aperta G. Winter SPECIES
-=======
+# Uredo aperta G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora raetica E. Müll. SPECIES
-=======
+# Pleospora raetica E. Müll. SPECIES
 
 #### Status
 ACCEPTED

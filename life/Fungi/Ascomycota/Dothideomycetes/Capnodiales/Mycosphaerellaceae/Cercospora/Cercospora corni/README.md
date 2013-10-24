@@ -1,5 +1,4 @@
-Cercospora corni Davis SPECIES
-=======
+# Cercospora corni Davis SPECIES
 
 #### Status
 ACCEPTED

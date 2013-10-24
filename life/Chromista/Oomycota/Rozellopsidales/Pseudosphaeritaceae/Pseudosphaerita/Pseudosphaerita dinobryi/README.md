@@ -1,14 +1,13 @@
-Pseudosphaerita dinobryonis (Canter) M.W. Dick SPECIES
-=======
+# Pseudosphaerita dinobryi (Canter) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Straminipilous Fungi (Dordrecht) 378 (2001)
 
 #### Original name
 Sphaerita dinobryi Canter, 1968

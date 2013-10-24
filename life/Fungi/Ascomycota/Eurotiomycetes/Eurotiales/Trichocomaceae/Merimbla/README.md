@@ -1,5 +1,4 @@
-Merimbla Pitt GENUS
-=======
+# Merimbla Pitt GENUS
 
 #### Status
 ACCEPTED

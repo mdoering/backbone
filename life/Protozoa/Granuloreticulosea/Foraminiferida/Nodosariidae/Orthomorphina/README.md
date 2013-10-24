@@ -1,5 +1,4 @@
-Orthomorphina Stainforth, 1952 GENUS
-=======
+# Orthomorphina Stainforth, 1952 GENUS
 
 #### Status
 ACCEPTED

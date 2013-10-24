@@ -1,5 +1,4 @@
-Menisporopsis anisospora R.F. Castañeda & Iturr. SPECIES
-=======
+# Menisporopsis anisospora R.F. Castañeda & Iturr. SPECIES
 
 #### Status
 ACCEPTED

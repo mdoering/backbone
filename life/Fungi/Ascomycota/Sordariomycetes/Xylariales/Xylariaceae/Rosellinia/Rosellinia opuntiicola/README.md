@@ -1,5 +1,4 @@
-Rosellinia opuntiicola Speg. SPECIES
-=======
+# Rosellinia opuntiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

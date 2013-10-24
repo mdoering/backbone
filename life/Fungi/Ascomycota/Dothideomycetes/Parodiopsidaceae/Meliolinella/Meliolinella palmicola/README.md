@@ -1,5 +1,4 @@
-Meliolinella palmicola (F. Stevens) Hansf. SPECIES
-=======
+# Meliolinella palmicola (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

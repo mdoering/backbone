@@ -1,5 +1,4 @@
-Septobasidium ramorum (Schwein.) Donk SPECIES
-=======
+# Septobasidium ramorum (Schwein.) Donk SPECIES
 
 #### Status
 ACCEPTED

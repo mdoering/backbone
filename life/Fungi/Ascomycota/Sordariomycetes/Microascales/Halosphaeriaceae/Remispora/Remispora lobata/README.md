@@ -1,5 +1,4 @@
-Remispora lobata Höhnk, 1955 SPECIES
-=======
+# Remispora lobata Höhnk, 1955 SPECIES
 
 #### Status
 ACCEPTED

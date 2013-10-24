@@ -1,5 +1,4 @@
-Mollisia luzulae Velen. SPECIES
-=======
+# Mollisia luzulae Velen. SPECIES
 
 #### Status
 ACCEPTED

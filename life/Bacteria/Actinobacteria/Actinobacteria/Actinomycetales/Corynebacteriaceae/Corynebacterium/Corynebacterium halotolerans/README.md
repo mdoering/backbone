@@ -1,5 +1,4 @@
-Corynebacterium halotolerans Chen et al., 2004 SPECIES
-=======
+# Corynebacterium halotolerans Chen et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

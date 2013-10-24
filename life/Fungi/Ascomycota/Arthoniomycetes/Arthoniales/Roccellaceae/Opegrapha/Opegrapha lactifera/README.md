@@ -1,5 +1,4 @@
-Opegrapha lactifera Zahlbr. SPECIES
-=======
+# Opegrapha lactifera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

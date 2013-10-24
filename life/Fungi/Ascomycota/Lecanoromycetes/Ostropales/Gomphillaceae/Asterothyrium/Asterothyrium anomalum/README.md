@@ -1,5 +1,4 @@
-Asterothyrium anomalum var. anomalum VARIETY
-=======
+# Asterothyrium anomalum Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Nova Hedwigia 55(1-2): 196 (1992)
 
 #### Original name
-Asterothyrium anomalum var. anomalum
+Asterothyrium anomalum Kalb & Vezda
 
 ### Remarks
 null

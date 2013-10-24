@@ -1,5 +1,4 @@
-Orbiliopsis callistea Syd., 1924 SPECIES
-=======
+# Orbiliopsis callistea Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

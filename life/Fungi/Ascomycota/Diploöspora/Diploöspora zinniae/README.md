@@ -1,5 +1,4 @@
-Diploöspora zinniae Matsush. SPECIES
-=======
+# Diploöspora zinniae Matsush. SPECIES
 
 #### Status
 ACCEPTED

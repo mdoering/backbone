@@ -1,5 +1,4 @@
-Cercospora genistianae Peck SPECIES
-=======
+# Cercospora genistianae Peck SPECIES
 
 #### Status
 ACCEPTED

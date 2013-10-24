@@ -1,5 +1,4 @@
-Coniothyrium trifolii Naumov SPECIES
-=======
+# Coniothyrium trifolii Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen chrsophthalmoides Spreng. SPECIES
-=======
+# Lichen chrsophthalmoides Spreng. SPECIES
 
 #### Status
 ACCEPTED

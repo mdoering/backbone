@@ -1,5 +1,4 @@
-Terana archeri (Berk.) Kuntze SPECIES
-=======
+# Terana archeri (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

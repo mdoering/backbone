@@ -1,5 +1,4 @@
-Parmotrema schindleri Hale SPECIES
-=======
+# Parmotrema schindleri Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria badiocinerea Räsänen SPECIES
-=======
+# Verrucaria badiocinerea Räsänen SPECIES
 
 #### Status
 ACCEPTED

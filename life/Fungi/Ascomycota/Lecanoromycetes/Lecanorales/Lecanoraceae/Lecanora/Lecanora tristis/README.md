@@ -1,5 +1,4 @@
-Lecanora tristis Mereschk. SPECIES
-=======
+# Lecanora tristis Mereschk. SPECIES
 
 #### Status
 ACCEPTED

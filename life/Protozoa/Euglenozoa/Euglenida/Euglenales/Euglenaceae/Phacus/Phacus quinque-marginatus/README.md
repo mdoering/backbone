@@ -1,5 +1,4 @@
-Phacus quinque-marginatus T.L. Jahn & Shawhan SPECIES
-=======
+# Phacus quinque-marginatus T.L. Jahn & Shawhan SPECIES
 
 #### Status
 ACCEPTED

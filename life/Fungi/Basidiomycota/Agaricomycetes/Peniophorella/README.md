@@ -1,5 +1,4 @@
-Peniophorella P. Karsten, 1889 GENUS
-=======
+# Peniophorella P. Karsten, 1889 GENUS
 
 #### Status
 ACCEPTED

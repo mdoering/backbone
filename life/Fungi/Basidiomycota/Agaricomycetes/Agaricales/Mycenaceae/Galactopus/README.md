@@ -1,5 +1,4 @@
-Galactopus GENUS
-=======
+# Galactopus GENUS
 
 #### Status
 ACCEPTED

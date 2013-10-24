@@ -1,5 +1,4 @@
-Cortinarius rigentium Bidaud & Carteret SPECIES
-=======
+# Cortinarius rigentium Bidaud & Carteret SPECIES
 
 #### Status
 ACCEPTED

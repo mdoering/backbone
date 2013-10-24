@@ -1,5 +1,4 @@
-Elphidium salmonense SPECIES
-=======
+# Elphidium salmonense SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula stagnorum Carteret & Reumaux SPECIES
-=======
+# Russula stagnorum Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula angustata Sérus. & Cl. Roux SPECIES
-=======
+# Strigula angustata Sérus. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

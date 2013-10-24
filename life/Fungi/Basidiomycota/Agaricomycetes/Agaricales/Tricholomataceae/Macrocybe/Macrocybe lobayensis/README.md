@@ -1,14 +1,13 @@
-Tricholoma lobayense R. Heim, 1970 SPECIES
-=======
+# Macrocybe lobayensis (R. Heim) Pegler & Lodge, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 34(4): 346 (1970)
+in Pegler, Lodge & Nakasone, Mycologia 90(3): 498 (1998)
 
 #### Original name
 Tricholoma lobayense R. Heim, 1970

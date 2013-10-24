@@ -1,5 +1,4 @@
-Lecanora brouardii SPECIES
-=======
+# Lecanora brouardii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torsellia philippinensis Petr. SPECIES
-=======
+# Torsellia philippinensis Petr. SPECIES
 
 #### Status
 ACCEPTED

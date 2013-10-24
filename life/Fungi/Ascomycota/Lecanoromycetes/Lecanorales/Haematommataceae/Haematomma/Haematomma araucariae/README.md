@@ -1,5 +1,4 @@
-Haematomma araucariae Follmann SPECIES
-=======
+# Haematomma araucariae Follmann SPECIES
 
 #### Status
 ACCEPTED

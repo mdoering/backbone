@@ -1,5 +1,4 @@
-Chaetosphaeria chaetosa Kohlm., 1963 SPECIES
-=======
+# Chaetosphaeria chaetosa Kohlm., 1963 SPECIES
 
 #### Status
 ACCEPTED

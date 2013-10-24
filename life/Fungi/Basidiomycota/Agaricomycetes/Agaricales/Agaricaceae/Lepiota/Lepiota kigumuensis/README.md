@@ -1,5 +1,4 @@
-Lepiota kigumuensis Pegler SPECIES
-=======
+# Lepiota kigumuensis Pegler SPECIES
 
 #### Status
 ACCEPTED

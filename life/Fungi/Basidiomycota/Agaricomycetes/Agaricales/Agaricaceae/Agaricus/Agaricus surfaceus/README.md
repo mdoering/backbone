@@ -1,5 +1,4 @@
-Agaricus surfaceus J.F. Gmel. SPECIES
-=======
+# Agaricus surfaceus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

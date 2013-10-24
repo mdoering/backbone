@@ -1,5 +1,4 @@
-Stilbum pilacriforme Richon SPECIES
-=======
+# Stilbum pilacriforme Richon SPECIES
 
 #### Status
 ACCEPTED

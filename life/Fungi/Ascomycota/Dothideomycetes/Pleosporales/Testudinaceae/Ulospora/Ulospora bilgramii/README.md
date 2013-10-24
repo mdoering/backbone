@@ -1,14 +1,13 @@
-Zopfia bilgramii D. Hawksw., C. Booth & Morgan-Jones, 1974 SPECIES
-=======
+# Ulospora bilgramii (D. Hawksw., C. Booth & Morgan-Jones) D. Hawksw., Malloch & Sivan., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 135: 10 (1974)
+Can. J. Bot. 57(2): 96 (1979)
 
 #### Original name
 Zopfia bilgramii D. Hawksw., C. Booth & Morgan-Jones, 1974

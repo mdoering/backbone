@@ -1,5 +1,4 @@
-Placopsis salazina I.M. Lamb SPECIES
-=======
+# Placopsis salazina I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

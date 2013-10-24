@@ -1,5 +1,4 @@
-Diporipollis Kalgutkar & Janson. GENUS
-=======
+# Diporipollis Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

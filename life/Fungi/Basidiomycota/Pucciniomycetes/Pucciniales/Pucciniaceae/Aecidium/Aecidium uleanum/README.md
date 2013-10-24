@@ -1,5 +1,4 @@
-Aecidium uleanum Pazschke SPECIES
-=======
+# Aecidium uleanum Pazschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeangellina Dennis GENUS
-=======
+# Phaeangellina Dennis GENUS
 
 #### Status
 ACCEPTED

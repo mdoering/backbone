@@ -1,5 +1,4 @@
-Merismopedia angularis Thompson SPECIES
-=======
+# Merismopedia angularis Thompson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccum macalpinei Sacc. SPECIES
-=======
+# Fusicoccum macalpinei Sacc. SPECIES
 
 #### Status
 ACCEPTED

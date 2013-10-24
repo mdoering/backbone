@@ -1,14 +1,13 @@
-Thelotrema muscigenum Stizenb. SPECIES
-=======
+# Topeliopsis muscigena (Stizenb.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 79: 322 (2001)
 
 #### Original name
 Thelotrema muscigenum Stizenb.

@@ -1,5 +1,4 @@
-Phlyctochytrium synchytrii Er. Köhler SPECIES
-=======
+# Phlyctochytrium synchytrii Er. Köhler SPECIES
 
 #### Status
 ACCEPTED

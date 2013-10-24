@@ -1,5 +1,4 @@
-Ophiognomonia caulicola Höhn. SPECIES
-=======
+# Ophiognomonia caulicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

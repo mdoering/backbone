@@ -1,14 +1,13 @@
-Dimerosporium abietis Dearn., 1926 SPECIES
-=======
+# Rasutoria abietis (Dearn.) M.E. Barr, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 18(5): 243 (1926)
+Mycotaxon 29: 502 (1987)
 
 #### Original name
 Dimerosporium abietis Dearn., 1926

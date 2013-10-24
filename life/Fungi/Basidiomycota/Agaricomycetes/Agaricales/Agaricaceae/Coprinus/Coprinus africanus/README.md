@@ -1,5 +1,4 @@
-Coprinus africanus Pegler SPECIES
-=======
+# Coprinus africanus Pegler SPECIES
 
 #### Status
 ACCEPTED

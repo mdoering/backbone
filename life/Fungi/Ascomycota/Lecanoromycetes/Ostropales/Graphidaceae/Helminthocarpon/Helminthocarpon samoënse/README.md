@@ -1,5 +1,4 @@
-Helminthocarpon samoënse Zahlbr. SPECIES
-=======
+# Helminthocarpon samoënse Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

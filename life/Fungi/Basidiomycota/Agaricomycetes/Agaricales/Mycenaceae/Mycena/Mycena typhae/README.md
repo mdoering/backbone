@@ -1,5 +1,4 @@
-Mycena typhae (Schweers) Kotlába SPECIES
-=======
+# Mycena typhae (Schweers) Kotlába SPECIES
 
 #### Status
 ACCEPTED

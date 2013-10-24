@@ -1,5 +1,4 @@
-Peronospora streptolomatis Golovin & Kalymb. SPECIES
-=======
+# Peronospora streptolomatis Golovin & Kalymb. SPECIES
 
 #### Status
 ACCEPTED

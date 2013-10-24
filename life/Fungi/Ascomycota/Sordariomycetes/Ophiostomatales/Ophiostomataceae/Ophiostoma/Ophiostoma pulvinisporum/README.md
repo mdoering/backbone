@@ -1,5 +1,4 @@
-Ophiostoma pulvinisporum X.D. Zhou & M.J. Wingf. SPECIES
-=======
+# Ophiostoma pulvinisporum X.D. Zhou & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

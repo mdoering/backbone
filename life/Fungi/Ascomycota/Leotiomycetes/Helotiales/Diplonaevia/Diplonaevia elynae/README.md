@@ -1,5 +1,4 @@
-Diplonaevia elynae (Défago) B. Hein SPECIES
-=======
+# Diplonaevia elynae (Défago) B. Hein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria plumbeoargillacea R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria plumbeoargillacea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

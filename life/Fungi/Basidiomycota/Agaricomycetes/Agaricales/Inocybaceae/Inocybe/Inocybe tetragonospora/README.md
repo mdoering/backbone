@@ -1,5 +1,4 @@
-Inocybe tetragonospora Kühner SPECIES
-=======
+# Inocybe tetragonospora Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta longipes (Müll. Arg.) Malme SPECIES
-=======
+# Sticta longipes (Müll. Arg.) Malme SPECIES
 
 #### Status
 ACCEPTED

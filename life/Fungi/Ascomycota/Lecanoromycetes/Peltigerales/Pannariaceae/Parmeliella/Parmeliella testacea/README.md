@@ -1,5 +1,4 @@
-Parmeliella testacea P. M. Jørg. SPECIES
-=======
+# Parmeliella testacea P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprobia stercoraria (Velen.) Svrcek SPECIES
-=======
+# Coprobia stercoraria (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

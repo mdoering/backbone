@@ -1,5 +1,4 @@
-Collema intestiniforme Rabenh. SPECIES
-=======
+# Collema intestiniforme Rabenh. SPECIES
 
 #### Status
 ACCEPTED

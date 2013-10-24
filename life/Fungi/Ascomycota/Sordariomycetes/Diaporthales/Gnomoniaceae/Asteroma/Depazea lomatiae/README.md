@@ -1,5 +1,4 @@
-Depazea lomatiae Engelhard SPECIES
-=======
+# Depazea lomatiae Engelhard SPECIES
 
 #### Status
 ACCEPTED

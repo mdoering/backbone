@@ -1,5 +1,4 @@
-Podospora minor Ellis & Everh. SPECIES
-=======
+# Podospora minor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

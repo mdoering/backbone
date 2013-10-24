@@ -1,5 +1,4 @@
-Entomophthora punctata Garb. SPECIES
-=======
+# Entomophthora punctata Garb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Chaetoconis polygoni (Ellis & Everh.) Clem., 1909 SPECIES
-=======
+# Ceriospora polygonacearum (Petr.) Piroz. & Morgan-Jones, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fung. (Minneapolis) 176 (1909)
+Trans. Br. mycol. Soc. 51(2): 189 (1968)
 
 #### Original name
-Pestalotia polygoni Ellis & Everh., 1894
+Amphorulopsis polygonacearum Petr., 1959
 
 ### Remarks
 null

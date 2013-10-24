@@ -1,5 +1,4 @@
-Ceriomyces bogoriensis Holterm. SPECIES
-=======
+# Ceriomyces bogoriensis Holterm. SPECIES
 
 #### Status
 ACCEPTED

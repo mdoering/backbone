@@ -1,5 +1,4 @@
-Puiggarina atroinquinans Speg., 1919 SPECIES
-=======
+# Puiggarina atroinquinans Speg., 1919 SPECIES
 
 #### Status
 ACCEPTED

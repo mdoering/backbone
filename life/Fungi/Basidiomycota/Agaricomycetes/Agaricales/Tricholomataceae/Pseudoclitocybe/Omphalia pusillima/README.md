@@ -1,5 +1,4 @@
-Omphalia pusillima Speg. SPECIES
-=======
+# Omphalia pusillima Speg. SPECIES
 
 #### Status
 ACCEPTED

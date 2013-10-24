@@ -1,5 +1,4 @@
-Sphaerella bellona Sacc. SPECIES
-=======
+# Sphaerella bellona Sacc. SPECIES
 
 #### Status
 ACCEPTED

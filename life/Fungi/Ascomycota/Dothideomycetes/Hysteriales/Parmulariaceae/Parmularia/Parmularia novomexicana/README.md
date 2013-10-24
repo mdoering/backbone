@@ -1,5 +1,4 @@
-Parmularia novomexicana B. de Lesd. SPECIES
-=======
+# Parmularia novomexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

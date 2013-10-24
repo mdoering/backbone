@@ -1,5 +1,4 @@
-Puccinia fuirenae-pubescentis Maire SPECIES
-=======
+# Puccinia fuirenae-pubescentis Maire SPECIES
 
 #### Status
 ACCEPTED

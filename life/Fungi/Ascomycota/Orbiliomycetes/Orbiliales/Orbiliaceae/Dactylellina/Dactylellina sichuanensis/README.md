@@ -1,5 +1,4 @@
-Dactylellina sichuanensis Yan Li, K.D. Hyde & K.Q. Zhang SPECIES
-=======
+# Dactylellina sichuanensis Yan Li, K.D. Hyde & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

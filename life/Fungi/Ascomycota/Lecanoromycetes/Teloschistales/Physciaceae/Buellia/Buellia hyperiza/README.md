@@ -1,5 +1,4 @@
-Buellia hyperiza (Stirt.) Zahlbr. SPECIES
-=======
+# Buellia hyperiza (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

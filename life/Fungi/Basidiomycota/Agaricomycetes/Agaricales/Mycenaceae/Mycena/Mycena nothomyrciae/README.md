@@ -1,5 +1,4 @@
-Mycena nothomyrciae Singer SPECIES
-=======
+# Mycena nothomyrciae Singer SPECIES
 
 #### Status
 ACCEPTED

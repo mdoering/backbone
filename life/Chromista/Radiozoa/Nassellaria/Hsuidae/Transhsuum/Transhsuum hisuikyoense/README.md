@@ -1,5 +1,4 @@
-Transhsuum hisuikyoense SPECIES
-=======
+# Transhsuum hisuikyoense SPECIES
 
 #### Status
 ACCEPTED

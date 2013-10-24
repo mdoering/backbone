@@ -1,5 +1,4 @@
-Scyphidia periscelis Dumas, 1930 SPECIES
-=======
+# Scyphidia periscelis Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

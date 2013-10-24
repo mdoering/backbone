@@ -1,5 +1,4 @@
-Trichoconis trichiliae (Hansf.) Deighton & Piroz. SPECIES
-=======
+# Trichoconis trichiliae (Hansf.) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

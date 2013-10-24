@@ -1,5 +1,4 @@
-Vulcanisphaera pseudofaveolatum (Fridriksone, 1971) Zang Wen-lon in Gravestock et al., 2001 SPECIES
-=======
+# Vulcanisphaera pseudofaveolatum (Fridriksone, 1971) Zang Wen-lon in Gravestock et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

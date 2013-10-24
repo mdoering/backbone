@@ -1,5 +1,4 @@
-Lachnum setaceum Velen. SPECIES
-=======
+# Lachnum setaceum Velen. SPECIES
 
 #### Status
 ACCEPTED

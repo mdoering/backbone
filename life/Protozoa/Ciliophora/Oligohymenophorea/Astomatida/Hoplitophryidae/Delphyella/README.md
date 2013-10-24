@@ -1,5 +1,4 @@
-Delphyella de Puytorac, 1969 GENUS
-=======
+# Delphyella de Puytorac, 1969 GENUS
 
 #### Status
 ACCEPTED

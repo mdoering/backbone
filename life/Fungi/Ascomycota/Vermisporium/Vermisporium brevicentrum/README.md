@@ -1,5 +1,4 @@
-Vermisporium brevicentrum H.J. Swart & M.A. Will., 1983 SPECIES
-=======
+# Vermisporium brevicentrum H.J. Swart & M.A. Will., 1983 SPECIES
 
 #### Status
 ACCEPTED

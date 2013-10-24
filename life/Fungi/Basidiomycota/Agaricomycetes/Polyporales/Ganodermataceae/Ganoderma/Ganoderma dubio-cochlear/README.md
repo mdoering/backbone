@@ -1,14 +1,13 @@
-Ganoderma dubiocochlear (Lloyd) Sacc. & Trotter SPECIES
-=======
+# Ganoderma dubio-cochlear (Lloyd) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 23: 401 (1925)
 
 #### Original name
 Polyporus dubio-cochlear Lloyd

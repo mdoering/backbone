@@ -1,5 +1,4 @@
-Stylostoma Milne, 1886 GENUS
-=======
+# Stylostoma Milne, 1886 GENUS
 
 #### Status
 ACCEPTED

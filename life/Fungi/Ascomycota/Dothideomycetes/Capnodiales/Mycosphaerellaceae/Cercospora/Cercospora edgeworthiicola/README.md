@@ -1,5 +1,4 @@
-Cercospora edgeworthiicola Li Xu Xu & Y.L. Guo SPECIES
-=======
+# Cercospora edgeworthiicola Li Xu Xu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

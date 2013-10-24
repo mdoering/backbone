@@ -1,5 +1,4 @@
-Lentzea Yassin et al., 1995 GENUS
-=======
+# Lentzea Yassin et al., 1995 GENUS
 
 #### Status
 ACCEPTED

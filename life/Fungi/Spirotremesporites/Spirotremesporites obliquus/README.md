@@ -1,5 +1,4 @@
-Spirotremesporites obliquus Elsik SPECIES
-=======
+# Spirotremesporites obliquus Elsik SPECIES
 
 #### Status
 ACCEPTED

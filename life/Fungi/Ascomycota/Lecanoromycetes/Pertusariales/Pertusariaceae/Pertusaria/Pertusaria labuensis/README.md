@@ -1,5 +1,4 @@
-Pertusaria labuensis A.W. Archer & Elix SPECIES
-=======
+# Pertusaria labuensis A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

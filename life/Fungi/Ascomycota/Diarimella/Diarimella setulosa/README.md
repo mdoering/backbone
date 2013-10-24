@@ -1,5 +1,4 @@
-Diarimella setulosa B. Sutton, 1980 SPECIES
-=======
+# Diarimella setulosa B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

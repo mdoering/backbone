@@ -1,5 +1,4 @@
-Halomonas koreensis Lim et al., 2004 SPECIES
-=======
+# Halomonas koreensis Lim et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

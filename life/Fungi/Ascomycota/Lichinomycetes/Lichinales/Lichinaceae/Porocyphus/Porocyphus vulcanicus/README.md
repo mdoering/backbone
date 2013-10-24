@@ -1,5 +1,4 @@
-Porocyphus vulcanicus SPECIES
-=======
+# Porocyphus vulcanicus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria discoidella (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria discoidella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

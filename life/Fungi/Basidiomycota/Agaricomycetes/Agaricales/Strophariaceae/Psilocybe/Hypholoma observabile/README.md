@@ -1,5 +1,4 @@
-Hypholoma observabile Herp. SPECIES
-=======
+# Hypholoma observabile Herp. SPECIES
 
 #### Status
 ACCEPTED

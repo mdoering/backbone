@@ -1,5 +1,4 @@
-Coprotus luteus Kimbr., 1972 SPECIES
-=======
+# Coprotus luteus Kimbr., 1972 SPECIES
 
 #### Status
 ACCEPTED

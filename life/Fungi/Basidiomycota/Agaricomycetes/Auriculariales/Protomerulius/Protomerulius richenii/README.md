@@ -1,5 +1,4 @@
-Protomerulius richenii Rick SPECIES
-=======
+# Protomerulius richenii Rick SPECIES
 
 #### Status
 ACCEPTED

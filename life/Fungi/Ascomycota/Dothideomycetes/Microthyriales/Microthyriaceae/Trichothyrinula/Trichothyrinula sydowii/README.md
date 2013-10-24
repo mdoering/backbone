@@ -1,5 +1,4 @@
-Trichothyrinula sydowii Petr., 1950 SPECIES
-=======
+# Trichothyrinula sydowii Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

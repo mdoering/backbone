@@ -1,5 +1,4 @@
-Lycoperdon solidum L. SPECIES
-=======
+# Lycoperdon solidum L. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia gigantispora f. gigantispora FORM
-=======
+# Hendersonia gigantispora Bubák SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia gigantispora f. gigantispora
+Hendersonia gigantispora Bubák
 
 ### Remarks
 null

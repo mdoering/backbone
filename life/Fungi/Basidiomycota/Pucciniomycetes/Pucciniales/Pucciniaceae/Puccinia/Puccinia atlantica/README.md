@@ -1,5 +1,4 @@
-Puccinia atlantica Maire SPECIES
-=======
+# Puccinia atlantica Maire SPECIES
 
 #### Status
 ACCEPTED

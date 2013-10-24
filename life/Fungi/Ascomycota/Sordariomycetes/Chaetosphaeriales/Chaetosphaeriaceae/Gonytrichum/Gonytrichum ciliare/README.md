@@ -1,5 +1,4 @@
-Gonytrichum ciliare Hoffm. SPECIES
-=======
+# Gonytrichum ciliare Hoffm. SPECIES
 
 #### Status
 ACCEPTED

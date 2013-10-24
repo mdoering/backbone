@@ -1,5 +1,4 @@
-Pacillina arctica SPECIES
-=======
+# Pacillina arctica SPECIES
 
 #### Status
 ACCEPTED

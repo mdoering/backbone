@@ -1,5 +1,4 @@
-Mycena vesicaria Velen. SPECIES
-=======
+# Mycena vesicaria Velen. SPECIES
 
 #### Status
 ACCEPTED

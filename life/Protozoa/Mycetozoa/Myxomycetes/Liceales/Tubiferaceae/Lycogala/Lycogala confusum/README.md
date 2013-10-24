@@ -1,17 +1,16 @@
-Lycogala miniatum tessellatum Lister, 1898 INFRASPECIFIC_NAME
-=======
+# Lycogala confusum Nann.-Bremek. ex Ing, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Ing, The Myxomycetes of Britain and Ireland (Slough), An Identification Handbook 93 (1999)
 
 #### Original name
-null
+Lycogala confusum Nann.-Bremek. ex Ing, 1999
 
 ### Remarks
 null

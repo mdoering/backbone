@@ -1,5 +1,4 @@
-Dendrophoma albomaculans (Schwein.) Starbäck SPECIES
-=======
+# Dendrophoma albomaculans (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

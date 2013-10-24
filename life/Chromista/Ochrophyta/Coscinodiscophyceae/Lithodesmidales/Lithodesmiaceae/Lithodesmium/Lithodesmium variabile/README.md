@@ -1,5 +1,4 @@
-Lithodesmium variabile Takano, 1979 SPECIES
-=======
+# Lithodesmium variabile Takano, 1979 SPECIES
 
 #### Status
 ACCEPTED

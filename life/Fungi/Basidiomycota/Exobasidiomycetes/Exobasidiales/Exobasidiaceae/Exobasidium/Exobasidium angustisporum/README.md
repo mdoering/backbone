@@ -1,5 +1,4 @@
-Exobasidium angustisporum Linder, 1947 SPECIES
-=======
+# Exobasidium angustisporum Linder, 1947 SPECIES
 
 #### Status
 ACCEPTED

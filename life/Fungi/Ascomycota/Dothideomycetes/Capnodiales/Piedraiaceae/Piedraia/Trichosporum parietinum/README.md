@@ -1,5 +1,4 @@
-Trichosporum parietinum (Link) Sacc. SPECIES
-=======
+# Trichosporum parietinum (Link) Sacc. SPECIES
 
 #### Status
 ACCEPTED

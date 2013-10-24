@@ -1,5 +1,4 @@
-Macroplodia lecythea (Schwein.) Kuntze SPECIES
-=======
+# Macroplodia lecythea (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

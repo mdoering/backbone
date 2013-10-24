@@ -1,5 +1,4 @@
-Septoria justiciae N. Naito SPECIES
-=======
+# Septoria justiciae N. Naito SPECIES
 
 #### Status
 ACCEPTED

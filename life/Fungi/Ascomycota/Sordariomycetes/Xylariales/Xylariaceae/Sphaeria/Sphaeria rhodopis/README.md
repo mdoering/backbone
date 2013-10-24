@@ -1,5 +1,4 @@
-Sphaeria rhodopis Fr. SPECIES
-=======
+# Sphaeria rhodopis Fr. SPECIES
 
 #### Status
 ACCEPTED

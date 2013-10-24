@@ -1,5 +1,4 @@
-Circinaria cupreogrisea (Th. Fr.) A. Nordin, Savic & Tibell SPECIES
-=======
+# Circinaria cupreogrisea (Th. Fr.) A. Nordin, Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED

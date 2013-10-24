@@ -1,5 +1,4 @@
-Spathaspora arborariae Cadete, Santos, Melo, Gomes, Mouro, Gonc alves, Stambuk, Lachance & Rosa, 2009 SPECIES
-=======
+# Spathaspora arborariae Cadete, Santos, Melo, Gomes, Mouro, Gonc alves, Stambuk, Lachance & Rosa, 2009 SPECIES
 
 #### Status
 ACCEPTED

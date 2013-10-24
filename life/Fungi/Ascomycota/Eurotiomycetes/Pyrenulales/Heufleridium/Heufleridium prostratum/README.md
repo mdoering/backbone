@@ -1,5 +1,4 @@
-Heufleridium prostratum (Stirt.) Müll. Arg. SPECIES
-=======
+# Heufleridium prostratum (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

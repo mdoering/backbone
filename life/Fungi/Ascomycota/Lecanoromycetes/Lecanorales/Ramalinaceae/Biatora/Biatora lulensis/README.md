@@ -1,5 +1,4 @@
-Biatora lulensis f. lulensis FORM
-=======
+# Biatora lulensis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora lulensis f. lulensis
+null
 
 ### Remarks
 null

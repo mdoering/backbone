@@ -1,5 +1,4 @@
-"Pseudonodosaria laevigata (D' Orbigny) " SPECIES
-=======
+# "Pseudonodosaria laevigata (D' Orbigny) " SPECIES
 
 #### Status
 ACCEPTED

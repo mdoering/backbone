@@ -1,5 +1,4 @@
-Buellia saximontana Egan SPECIES
-=======
+# Buellia saximontana Egan SPECIES
 
 #### Status
 ACCEPTED

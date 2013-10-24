@@ -1,5 +1,4 @@
-Entyloma saccardianum Scalia SPECIES
-=======
+# Entyloma saccardianum Scalia SPECIES
 
 #### Status
 ACCEPTED

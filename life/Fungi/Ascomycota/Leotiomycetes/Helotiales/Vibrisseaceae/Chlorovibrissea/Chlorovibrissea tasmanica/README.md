@@ -1,14 +1,13 @@
-Vibrissea tasmanica Rodway, 1925 SPECIES
-=======
+# Chlorovibrissea tasmanica (Rodway) L.M. Kohn, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 119 (1925)
+Mem. N. Y. bot. Gdn 49: 114 (1989)
 
 #### Original name
 Vibrissea tasmanica Rodway, 1925

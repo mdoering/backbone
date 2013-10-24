@@ -1,5 +1,4 @@
-Lecanactis heterocarpa Nyl. SPECIES
-=======
+# Lecanactis heterocarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

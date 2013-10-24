@@ -1,5 +1,4 @@
-Strickeria kochiae Lobik SPECIES
-=======
+# Strickeria kochiae Lobik SPECIES
 
 #### Status
 ACCEPTED

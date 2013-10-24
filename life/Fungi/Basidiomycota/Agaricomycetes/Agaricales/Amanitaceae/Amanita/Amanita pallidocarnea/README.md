@@ -1,5 +1,4 @@
-Amanita pallidocarnea (Höhn.) Boedijn SPECIES
-=======
+# Amanita pallidocarnea (Höhn.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

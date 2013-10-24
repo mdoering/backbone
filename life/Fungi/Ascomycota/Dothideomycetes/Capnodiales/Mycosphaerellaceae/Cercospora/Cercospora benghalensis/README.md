@@ -1,5 +1,4 @@
-Cercospora benghalensis Chidd. SPECIES
-=======
+# Cercospora benghalensis Chidd. SPECIES
 
 #### Status
 ACCEPTED

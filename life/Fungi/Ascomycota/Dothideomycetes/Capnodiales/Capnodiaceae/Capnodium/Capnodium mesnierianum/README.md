@@ -1,5 +1,4 @@
-Capnodium mesnierianum Thüm. SPECIES
-=======
+# Capnodium mesnierianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

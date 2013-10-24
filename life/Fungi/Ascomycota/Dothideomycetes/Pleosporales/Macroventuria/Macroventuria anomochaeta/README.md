@@ -1,5 +1,4 @@
-Macroventuria anomochaeta Aa, 1971 SPECIES
-=======
+# Macroventuria anomochaeta Aa, 1971 SPECIES
 
 #### Status
 ACCEPTED

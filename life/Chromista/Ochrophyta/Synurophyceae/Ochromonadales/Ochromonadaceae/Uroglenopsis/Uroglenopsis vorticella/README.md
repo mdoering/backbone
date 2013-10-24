@@ -1,5 +1,4 @@
-Uroglenopsis vorticella SPECIES
-=======
+# Uroglenopsis vorticella SPECIES
 
 #### Status
 ACCEPTED

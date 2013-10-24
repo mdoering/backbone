@@ -1,5 +1,4 @@
-Sargassum wenchangense Tseng & Lu SPECIES
-=======
+# Sargassum wenchangense Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

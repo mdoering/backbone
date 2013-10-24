@@ -1,5 +1,4 @@
-Phyllachora leopoldensis Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora leopoldensis Theiss. & Syd., 1915 SPECIES
 
 #### Status
 DOUBTFUL

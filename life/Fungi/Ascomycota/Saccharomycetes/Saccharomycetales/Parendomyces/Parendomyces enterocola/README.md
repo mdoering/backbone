@@ -1,5 +1,4 @@
-Parendomyces enterocola (Macfie) C.W. Dodge SPECIES
-=======
+# Parendomyces enterocola (Macfie) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

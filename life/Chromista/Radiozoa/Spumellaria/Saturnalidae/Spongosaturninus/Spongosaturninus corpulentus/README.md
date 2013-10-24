@@ -1,5 +1,4 @@
-Spongosaturninus corpulentus SPECIES
-=======
+# Spongosaturninus corpulentus SPECIES
 
 #### Status
 ACCEPTED

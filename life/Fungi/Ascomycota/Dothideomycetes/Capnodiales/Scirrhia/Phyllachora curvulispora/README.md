@@ -1,5 +1,4 @@
-Phyllachora curvulispora Henn., 1908 SPECIES
-=======
+# Phyllachora curvulispora Henn., 1908 SPECIES
 
 #### Status
 DOUBTFUL

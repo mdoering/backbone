@@ -1,5 +1,4 @@
-Agaricus proteus Kalchbr. SPECIES
-=======
+# Agaricus proteus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

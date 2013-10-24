@@ -1,5 +1,4 @@
-Polysaccum GENUS
-=======
+# Polysaccum GENUS
 
 #### Status
 ACCEPTED

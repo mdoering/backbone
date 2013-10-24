@@ -1,5 +1,4 @@
-Ruegeria scottomollicae Vandecandelaere, Nercessian, Segaert, Achouak, Faimali & Vandamme, 2008 SPECIES
-=======
+# Ruegeria scottomollicae Vandecandelaere, Nercessian, Segaert, Achouak, Faimali & Vandamme, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Liliasterites angularis Svabenicka & Stradner in Stradner & Steinmetz, 1984 SPECIES
-=======
+# Liliasterites angularis Svabenicka & Stradner in Stradner & Steinmetz, 1984 SPECIES
 
 #### Status
 ACCEPTED

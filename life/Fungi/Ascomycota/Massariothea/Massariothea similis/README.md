@@ -1,5 +1,4 @@
-Massariothea similis Alcorn, 1993 SPECIES
-=======
+# Massariothea similis Alcorn, 1993 SPECIES
 
 #### Status
 ACCEPTED

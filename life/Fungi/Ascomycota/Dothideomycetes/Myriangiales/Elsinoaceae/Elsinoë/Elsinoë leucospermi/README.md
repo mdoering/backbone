@@ -1,5 +1,4 @@
-Elsinoë leucospermi L. Swart & Crous, 2001 SPECIES
-=======
+# Elsinoë leucospermi L. Swart & Crous, 2001 SPECIES
 
 #### Status
 ACCEPTED

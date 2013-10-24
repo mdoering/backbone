@@ -1,5 +1,4 @@
-Verrucaria anceps Kremp. SPECIES
-=======
+# Verrucaria anceps Kremp. SPECIES
 
 #### Status
 ACCEPTED

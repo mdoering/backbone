@@ -1,5 +1,4 @@
-Agaricus martinicensis Pegler SPECIES
-=======
+# Agaricus martinicensis Pegler SPECIES
 
 #### Status
 ACCEPTED

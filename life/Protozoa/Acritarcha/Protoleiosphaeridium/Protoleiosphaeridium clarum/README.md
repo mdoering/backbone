@@ -1,5 +1,4 @@
-Protoleiosphaeridium clarum Andreeva, 1966 SPECIES
-=======
+# Protoleiosphaeridium clarum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

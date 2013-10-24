@@ -1,17 +1,16 @@
-Parmelia hildebrandtii var. nuda Müll. Arg. VARIETY
-=======
+# Parmotrema andinum (Müll. Arg.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(4): 334 (1974)
 
 #### Original name
-null
+Parmelia andina Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Myxosporium ficophilum Schulzer SPECIES
-=======
+# Myxosporium ficophilum Schulzer SPECIES
 
 #### Status
 ACCEPTED

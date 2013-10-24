@@ -1,5 +1,4 @@
-Mycena thujina A.H. Sm. SPECIES
-=======
+# Mycena thujina A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

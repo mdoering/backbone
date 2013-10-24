@@ -1,5 +1,4 @@
-Dendrophoma zeae Tehon SPECIES
-=======
+# Dendrophoma zeae Tehon SPECIES
 
 #### Status
 ACCEPTED

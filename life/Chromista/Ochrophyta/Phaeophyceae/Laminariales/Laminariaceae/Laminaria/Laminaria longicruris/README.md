@@ -1,5 +1,4 @@
-Laminaria longicruris Bachelot de la Pylaie SPECIES
-=======
+# Laminaria longicruris Bachelot de la Pylaie SPECIES
 
 #### Status
 ACCEPTED

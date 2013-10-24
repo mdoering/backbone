@@ -1,14 +1,13 @@
-Boletus ulmarius Sowerby, 1797 SPECIES
-=======
+# Rigidoporus ulmarius (Sowerby) Imazeki, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Col. fig. Engl. Fung. Mushr. 1: 39 (1797)
+Bull. Gov. Forest Exp. St. Tokyo 57: 119 (1952)
 
 #### Original name
 Boletus ulmarius Sowerby, 1797

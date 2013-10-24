@@ -1,5 +1,4 @@
-Clitocybe lutea Beeli SPECIES
-=======
+# Clitocybe lutea Beeli SPECIES
 
 #### Status
 ACCEPTED

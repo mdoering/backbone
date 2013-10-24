@@ -1,5 +1,4 @@
-Bacillus oleronius Kuhnigk et al., 1996 SPECIES
-=======
+# Bacillus oleronius Kuhnigk et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

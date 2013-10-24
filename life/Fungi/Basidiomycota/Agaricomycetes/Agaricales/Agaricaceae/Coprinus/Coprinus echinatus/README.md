@@ -1,5 +1,4 @@
-Coprinus echinatus Velen. SPECIES
-=======
+# Coprinus echinatus Velen. SPECIES
 
 #### Status
 ACCEPTED

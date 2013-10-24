@@ -1,5 +1,4 @@
-Teratosperma appendiculatum (S. Hughes) M.B. Ellis SPECIES
-=======
+# Teratosperma appendiculatum (S. Hughes) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

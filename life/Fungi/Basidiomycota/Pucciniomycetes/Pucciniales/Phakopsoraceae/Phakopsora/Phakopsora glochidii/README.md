@@ -1,5 +1,4 @@
-Phakopsora glochidii (Syd. & P. Syd.) Arthur SPECIES
-=======
+# Phakopsora glochidii (Syd. & P. Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

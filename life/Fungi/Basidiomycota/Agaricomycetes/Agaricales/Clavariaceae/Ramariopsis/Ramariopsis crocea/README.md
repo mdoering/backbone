@@ -1,17 +1,16 @@
-Ramariopsis crocea f. crocea FORM
-=======
+# Ramariopsis crocea (Pers.) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 638 (1950)
 
 #### Original name
-Ramariopsis crocea f. crocea
+Clavaria crocea Pers., 1797
 
 ### Remarks
 null

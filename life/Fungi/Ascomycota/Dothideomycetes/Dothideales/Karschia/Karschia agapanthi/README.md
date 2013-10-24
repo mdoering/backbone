@@ -1,5 +1,4 @@
-Karschia agapanthi Petr. SPECIES
-=======
+# Karschia agapanthi Petr. SPECIES
 
 #### Status
 ACCEPTED

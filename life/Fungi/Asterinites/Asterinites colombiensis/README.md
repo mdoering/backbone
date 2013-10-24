@@ -1,5 +1,4 @@
-Asterinites colombiensis Doub. & D. Pons ex Kalgutkar & Janson. SPECIES
-=======
+# Asterinites colombiensis Doub. & D. Pons ex Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

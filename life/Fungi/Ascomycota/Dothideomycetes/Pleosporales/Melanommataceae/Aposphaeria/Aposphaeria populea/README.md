@@ -1,5 +1,4 @@
-Aposphaeria populea A.L. Sm. & Ramsb., 1914 SPECIES
-=======
+# Aposphaeria populea A.L. Sm. & Ramsb., 1914 SPECIES
 
 #### Status
 ACCEPTED

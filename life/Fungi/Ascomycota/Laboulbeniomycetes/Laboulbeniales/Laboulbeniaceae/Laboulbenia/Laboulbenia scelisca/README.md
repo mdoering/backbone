@@ -1,5 +1,4 @@
-Laboulbenia scelisca Speg. SPECIES
-=======
+# Laboulbenia scelisca Speg. SPECIES
 
 #### Status
 ACCEPTED

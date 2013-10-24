@@ -1,5 +1,4 @@
-Lyngbya aqualimpidensis P. A. C. Senna & L. V. Ferreira SPECIES
-=======
+# Lyngbya aqualimpidensis P. A. C. Senna & L. V. Ferreira SPECIES
 
 #### Status
 ACCEPTED

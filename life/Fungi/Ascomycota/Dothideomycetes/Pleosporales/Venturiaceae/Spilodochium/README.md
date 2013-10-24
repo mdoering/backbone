@@ -1,5 +1,4 @@
-Spilodochium Syd. GENUS
-=======
+# Spilodochium Syd. GENUS
 
 #### Status
 ACCEPTED

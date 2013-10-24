@@ -1,5 +1,4 @@
-Caloplaca subdolosa (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca subdolosa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium lassenii Paden, 1971 SPECIES
-=======
+# Penicillium lassenii Paden, 1971 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Scutellospora dipurpurescens J.B. Morton & Koske SPECIES
-=======
+# Scutellospora dipurpurescens J.B. Morton & Koske SPECIES
 
 #### Status
 ACCEPTED

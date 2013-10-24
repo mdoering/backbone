@@ -1,5 +1,4 @@
-Puccinia lactucina P. Syd. & Syd. SPECIES
-=======
+# Puccinia lactucina P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

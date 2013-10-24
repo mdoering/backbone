@@ -1,8 +1,7 @@
-Pannaria isidiata Degel. SPECIES
-=======
+# Vestergrenopsis isidiata (Degel.) Å.E. Dahl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

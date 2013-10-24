@@ -1,5 +1,4 @@
-Elsinoe theae Bitanc. & Jenkins, 1941 SPECIES
-=======
+# Elsinoe theae Bitanc. & Jenkins, 1941 SPECIES
 
 #### Status
 ACCEPTED

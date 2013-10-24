@@ -1,17 +1,16 @@
-Coryneum depressum Kunze, 1817 SPECIES
-=======
+# Pseudovalsa umbonata (Tul. & C. Tul.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykologische Hefte (Leipzig) 1: 75 (1817)
+Syll. fung. (Abellini) 2: 135 (1883)
 
 #### Original name
-Coryneum depressum Kunze, 1817
+Melanconis umbonata Tul. & C. Tul., 1863
 
 ### Remarks
 null

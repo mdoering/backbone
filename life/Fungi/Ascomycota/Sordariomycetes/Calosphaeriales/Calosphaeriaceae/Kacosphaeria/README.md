@@ -1,17 +1,16 @@
-Cacosphaeria Speg. GENUS
-=======
+# Kacosphaeria Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boln Acad. nac. Cienc. Córdoba 11: 214 (1887)
 
 #### Original name
-Cacosphaeria Speg.
+Kacosphaeria Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aspicilia mesopolia (H. Magn.) SPECIES
-=======
+# Aspicilia mesopolia (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

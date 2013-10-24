@@ -1,5 +1,4 @@
-Ramalina kullensis Zopf SPECIES
-=======
+# Ramalina kullensis Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryandromyces I.I. Tav. & T. Majewski GENUS
-=======
+# Botryandromyces I.I. Tav. & T. Majewski GENUS
 
 #### Status
 ACCEPTED

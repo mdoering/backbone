@@ -1,5 +1,4 @@
-Agrocybe mullauna Grgur. SPECIES
-=======
+# Agrocybe mullauna Grgur. SPECIES
 
 #### Status
 ACCEPTED

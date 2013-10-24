@@ -1,5 +1,4 @@
-Uredo crusa J.F. Hennen & J.W. McCain SPECIES
-=======
+# Uredo crusa J.F. Hennen & J.W. McCain SPECIES
 
 #### Status
 ACCEPTED

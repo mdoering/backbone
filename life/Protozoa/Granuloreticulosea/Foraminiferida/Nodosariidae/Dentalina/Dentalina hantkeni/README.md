@@ -1,5 +1,4 @@
-Dentalina hantkeni Cushman, 1933 SPECIES
-=======
+# Dentalina hantkeni Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

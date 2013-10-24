@@ -1,5 +1,4 @@
-Cladosporium praecox (Niessl) U. Braun SPECIES
-=======
+# Cladosporium praecox (Niessl) U. Braun SPECIES
 
 #### Status
 ACCEPTED

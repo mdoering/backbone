@@ -1,5 +1,4 @@
-Parmelia implexa Stirt. SPECIES
-=======
+# Parmelia implexa Stirt. SPECIES
 
 #### Status
 ACCEPTED

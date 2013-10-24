@@ -1,5 +1,4 @@
-Phyllosticta kok-saghyz Cherem. SPECIES
-=======
+# Phyllosticta kok-saghyz Cherem. SPECIES
 
 #### Status
 ACCEPTED

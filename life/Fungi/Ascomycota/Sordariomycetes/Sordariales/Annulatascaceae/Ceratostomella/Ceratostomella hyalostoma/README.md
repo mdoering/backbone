@@ -1,5 +1,4 @@
-Ceratostomella hyalostoma (Munk) Unter. SPECIES
-=======
+# Ceratostomella hyalostoma (Munk) Unter. SPECIES
 
 #### Status
 ACCEPTED

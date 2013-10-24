@@ -1,5 +1,4 @@
-Dothiora laevigata (Schwein.) Fr. SPECIES
-=======
+# Dothiora laevigata (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

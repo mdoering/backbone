@@ -1,5 +1,4 @@
-Microthelia socialis Zahlbr. SPECIES
-=======
+# Microthelia socialis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

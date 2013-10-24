@@ -1,5 +1,4 @@
-Meliola ixorae var. ixorae VARIETY
-=======
+# Meliola ixorae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Philipp. J. Sci. , C, Bot. 12: 365 (1917)
 
 #### Original name
-Meliola ixorae var. ixorae
+Meliola ixorae H.S. Yates
 
 ### Remarks
 null

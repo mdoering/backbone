@@ -1,5 +1,4 @@
-Diaporthe marginalis Peck SPECIES
-=======
+# Diaporthe marginalis Peck SPECIES
 
 #### Status
 ACCEPTED

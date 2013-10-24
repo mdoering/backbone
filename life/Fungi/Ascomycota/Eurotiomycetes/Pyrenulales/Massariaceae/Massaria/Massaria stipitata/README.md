@@ -1,5 +1,4 @@
-Massaria stipitata Fuckel SPECIES
-=======
+# Massaria stipitata Fuckel SPECIES
 
 #### Status
 ACCEPTED

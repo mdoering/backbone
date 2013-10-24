@@ -1,5 +1,4 @@
-Corynespora gracilis Wulandari SPECIES
-=======
+# Corynespora gracilis Wulandari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria santessonii Swinscow & Krog SPECIES
-=======
+# Pannaria santessonii Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

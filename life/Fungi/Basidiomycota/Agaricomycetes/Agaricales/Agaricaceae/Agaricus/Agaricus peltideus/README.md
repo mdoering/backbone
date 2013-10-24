@@ -1,5 +1,4 @@
-Agaricus peltideus Pers. SPECIES
-=======
+# Agaricus peltideus Pers. SPECIES
 
 #### Status
 ACCEPTED

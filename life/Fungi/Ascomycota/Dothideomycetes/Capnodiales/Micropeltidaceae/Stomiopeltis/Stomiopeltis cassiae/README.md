@@ -1,5 +1,4 @@
-Stomiopeltis cassiae J.M. Mend. SPECIES
-=======
+# Stomiopeltis cassiae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Folliculina stylifera Wright, 185 SPECIES
-=======
+# Folliculina stylifera Wright, 185 SPECIES
 
 #### Status
 ACCEPTED

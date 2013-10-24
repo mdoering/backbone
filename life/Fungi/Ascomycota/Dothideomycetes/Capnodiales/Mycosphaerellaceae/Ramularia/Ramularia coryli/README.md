@@ -1,5 +1,4 @@
-Ramularia coryli Chevassut SPECIES
-=======
+# Ramularia coryli Chevassut SPECIES
 
 #### Status
 ACCEPTED

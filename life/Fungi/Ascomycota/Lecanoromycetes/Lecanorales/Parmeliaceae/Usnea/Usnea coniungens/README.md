@@ -1,5 +1,4 @@
-Usnea coniungens Motyka SPECIES
-=======
+# Usnea coniungens Motyka SPECIES
 
 #### Status
 ACCEPTED

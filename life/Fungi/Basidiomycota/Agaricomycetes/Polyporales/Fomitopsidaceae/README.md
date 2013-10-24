@@ -1,5 +1,4 @@
-Fomitopsidaceae Jülich FAMILY
-=======
+# Fomitopsidaceae Jülich FAMILY
 
 #### Status
 ACCEPTED

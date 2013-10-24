@@ -1,5 +1,4 @@
-Lachnella dicranopteridis (Seaver & Whetzel) Seaver SPECIES
-=======
+# Lachnella dicranopteridis (Seaver & Whetzel) Seaver SPECIES
 
 #### Status
 ACCEPTED

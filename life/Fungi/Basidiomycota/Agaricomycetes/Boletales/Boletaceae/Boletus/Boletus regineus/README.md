@@ -1,5 +1,4 @@
-Boletus regineus Arora & Simonini SPECIES
-=======
+# Boletus regineus Arora & Simonini SPECIES
 
 #### Status
 ACCEPTED

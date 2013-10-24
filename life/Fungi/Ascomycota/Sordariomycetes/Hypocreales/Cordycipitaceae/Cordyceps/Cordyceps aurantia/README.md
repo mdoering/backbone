@@ -1,5 +1,4 @@
-Cordyceps aurantia Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps aurantia Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

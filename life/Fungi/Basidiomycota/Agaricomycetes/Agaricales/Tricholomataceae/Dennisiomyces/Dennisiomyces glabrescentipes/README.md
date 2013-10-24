@@ -1,5 +1,4 @@
-Dennisiomyces glabrescentipes Singer, 1955 SPECIES
-=======
+# Dennisiomyces glabrescentipes Singer, 1955 SPECIES
 
 #### Status
 ACCEPTED

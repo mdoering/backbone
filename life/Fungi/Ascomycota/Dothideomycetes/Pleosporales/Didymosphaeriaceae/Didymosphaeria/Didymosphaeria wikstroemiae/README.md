@@ -1,5 +1,4 @@
-Didymosphaeria wikstroemiae Petr. SPECIES
-=======
+# Didymosphaeria wikstroemiae Petr. SPECIES
 
 #### Status
 ACCEPTED

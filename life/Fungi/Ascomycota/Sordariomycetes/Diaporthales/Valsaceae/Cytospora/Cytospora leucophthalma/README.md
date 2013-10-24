@@ -1,5 +1,4 @@
-Cytospora leucophthalma Berk. & M.A. Curtis SPECIES
-=======
+# Cytospora leucophthalma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

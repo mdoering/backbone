@@ -1,5 +1,4 @@
-Oospora carneola Sacc. SPECIES
-=======
+# Oospora carneola Sacc. SPECIES
 
 #### Status
 ACCEPTED

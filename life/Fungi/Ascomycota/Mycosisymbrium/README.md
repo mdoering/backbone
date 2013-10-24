@@ -1,5 +1,4 @@
-Mycosisymbrium GENUS
-=======
+# Mycosisymbrium GENUS
 
 #### Status
 ACCEPTED

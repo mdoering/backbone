@@ -1,5 +1,4 @@
-Isoachlya luxurians Bhargava & G.C. Srivast. SPECIES
-=======
+# Isoachlya luxurians Bhargava & G.C. Srivast. SPECIES
 
 #### Status
 ACCEPTED

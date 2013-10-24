@@ -1,5 +1,4 @@
-Lecidea thalloidemoides (Eitner) Zahlbr. SPECIES
-=======
+# Lecidea thalloidemoides (Eitner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

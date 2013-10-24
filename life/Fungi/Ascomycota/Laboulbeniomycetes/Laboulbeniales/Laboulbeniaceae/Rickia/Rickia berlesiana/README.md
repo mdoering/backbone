@@ -1,5 +1,4 @@
-Rickia berlesiana (Bacc.) Paoli SPECIES
-=======
+# Rickia berlesiana (Bacc.) Paoli SPECIES
 
 #### Status
 ACCEPTED

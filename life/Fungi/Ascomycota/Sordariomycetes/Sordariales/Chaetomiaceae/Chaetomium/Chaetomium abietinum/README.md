@@ -1,5 +1,4 @@
-Chaetomium abietinum Ellis & Everh. SPECIES
-=======
+# Chaetomium abietinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

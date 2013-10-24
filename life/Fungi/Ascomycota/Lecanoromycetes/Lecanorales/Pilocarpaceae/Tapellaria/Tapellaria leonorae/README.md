@@ -1,5 +1,4 @@
-Tapellaria leonorae M. Cáceres & Lücking SPECIES
-=======
+# Tapellaria leonorae M. Cáceres & Lücking SPECIES
 
 #### Status
 ACCEPTED

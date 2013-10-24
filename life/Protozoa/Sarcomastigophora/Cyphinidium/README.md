@@ -1,5 +1,4 @@
-Cyphinidium Haeckel, 1887 GENUS
-=======
+# Cyphinidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

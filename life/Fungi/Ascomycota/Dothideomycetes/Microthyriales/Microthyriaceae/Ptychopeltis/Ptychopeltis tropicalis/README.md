@@ -1,5 +1,4 @@
-Ptychopeltis tropicalis (Rehm) Bat. & F.B. Leal SPECIES
-=======
+# Ptychopeltis tropicalis (Rehm) Bat. & F.B. Leal SPECIES
 
 #### Status
 ACCEPTED

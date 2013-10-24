@@ -1,11 +1,10 @@
-Actinomyces flavogriseus Duché, 1934 SPECIES
-=======
+# Streptomyces flavogriseus (Duché, 1934) Waksman and Lechevalier, 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

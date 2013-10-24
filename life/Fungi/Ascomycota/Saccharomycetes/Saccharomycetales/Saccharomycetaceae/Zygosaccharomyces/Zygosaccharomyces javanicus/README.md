@@ -1,5 +1,4 @@
-Zygosaccharomyces javanicus Kruyff {?} SPECIES
-=======
+# Zygosaccharomyces javanicus Kruyff {?} SPECIES
 
 #### Status
 ACCEPTED

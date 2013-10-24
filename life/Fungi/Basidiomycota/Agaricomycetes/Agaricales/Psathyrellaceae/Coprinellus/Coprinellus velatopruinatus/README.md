@@ -1,14 +1,13 @@
-Coprinus velatopruinatus Bender, 1989 SPECIES
-=======
+# Coprinellus velatopruinatus (Bender) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kenntn. Pilze Mitteleur. 5: 80 (1989)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 235 (2001)
 
 #### Original name
 Coprinus velatopruinatus Bender, 1989

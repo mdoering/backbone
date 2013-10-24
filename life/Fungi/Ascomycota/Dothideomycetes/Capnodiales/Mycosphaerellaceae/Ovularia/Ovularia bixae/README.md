@@ -1,5 +1,4 @@
-Ovularia bixae Racib. SPECIES
-=======
+# Ovularia bixae Racib. SPECIES
 
 #### Status
 ACCEPTED

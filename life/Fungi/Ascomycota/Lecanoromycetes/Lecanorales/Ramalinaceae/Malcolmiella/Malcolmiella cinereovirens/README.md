@@ -1,5 +1,4 @@
-Malcolmiella cinereovirens var. cinereovirens VARIETY
-=======
+# Malcolmiella cinereovirens Vezda SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lichenes Rariores Exsiccati 27(nos 261-270): 3 (1997)
 
 #### Original name
-Malcolmiella cinereovirens var. cinereovirens
+Malcolmiella cinereovirens Vezda
 
 ### Remarks
 null

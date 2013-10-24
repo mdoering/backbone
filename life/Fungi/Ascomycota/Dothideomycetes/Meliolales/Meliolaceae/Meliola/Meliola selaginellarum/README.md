@@ -1,5 +1,4 @@
-Meliola selaginellarum Cif. SPECIES
-=======
+# Meliola selaginellarum Cif. SPECIES
 
 #### Status
 ACCEPTED

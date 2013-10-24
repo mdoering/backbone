@@ -1,5 +1,4 @@
-Marasmiellus idroboi Singer SPECIES
-=======
+# Marasmiellus idroboi Singer SPECIES
 
 #### Status
 ACCEPTED

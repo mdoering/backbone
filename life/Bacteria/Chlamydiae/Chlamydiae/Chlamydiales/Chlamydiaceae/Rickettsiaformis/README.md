@@ -1,5 +1,4 @@
-Rickettsiaformis GENUS
-=======
+# Rickettsiaformis GENUS
 
 #### Status
 ACCEPTED

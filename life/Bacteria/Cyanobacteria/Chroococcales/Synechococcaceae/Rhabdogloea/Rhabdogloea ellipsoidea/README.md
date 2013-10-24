@@ -1,8 +1,7 @@
-Aphanothece ellipsoidea (Schröder) Bourrelly SPECIES
-=======
+# Rhabdogloea ellipsoidea Schröder SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

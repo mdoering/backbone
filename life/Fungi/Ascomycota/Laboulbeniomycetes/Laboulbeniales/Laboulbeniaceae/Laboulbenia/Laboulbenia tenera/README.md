@@ -1,5 +1,4 @@
-Laboulbenia tenera T. Majewski SPECIES
-=======
+# Laboulbenia tenera T. Majewski SPECIES
 
 #### Status
 ACCEPTED

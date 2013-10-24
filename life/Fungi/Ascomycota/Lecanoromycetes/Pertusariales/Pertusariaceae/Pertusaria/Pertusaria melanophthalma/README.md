@@ -1,5 +1,4 @@
-Pertusaria melanophthalma Müll. Arg. SPECIES
-=======
+# Pertusaria melanophthalma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

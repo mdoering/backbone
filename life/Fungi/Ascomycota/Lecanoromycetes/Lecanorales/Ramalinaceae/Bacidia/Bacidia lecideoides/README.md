@@ -1,5 +1,4 @@
-Bacidia lecideoides (Hazsl. ex Körb.) Th. Fr. SPECIES
-=======
+# Bacidia lecideoides (Hazsl. ex Körb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

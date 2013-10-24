@@ -1,5 +1,4 @@
-Dermatella betulae (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Dermatella betulae (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

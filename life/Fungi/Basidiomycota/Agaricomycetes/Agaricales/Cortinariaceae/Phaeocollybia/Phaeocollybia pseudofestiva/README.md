@@ -1,5 +1,4 @@
-Phaeocollybia pseudofestiva A.H. Sm. SPECIES
-=======
+# Phaeocollybia pseudofestiva A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

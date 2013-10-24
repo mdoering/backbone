@@ -1,5 +1,4 @@
-Sarcodontia flava (Cejp) Nikol. SPECIES
-=======
+# Sarcodontia flava (Cejp) Nikol. SPECIES
 
 #### Status
 ACCEPTED

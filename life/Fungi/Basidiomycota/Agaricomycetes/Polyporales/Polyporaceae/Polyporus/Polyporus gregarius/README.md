@@ -1,5 +1,4 @@
-Polyporus gregarius Rick SPECIES
-=======
+# Polyporus gregarius Rick SPECIES
 
 #### Status
 ACCEPTED

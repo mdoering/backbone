@@ -1,5 +1,4 @@
-Lycoperdon lamellatum Lour. SPECIES
-=======
+# Lycoperdon lamellatum Lour. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta plumbaginis Sacc. SPECIES
-=======
+# Ascochyta plumbaginis Sacc. SPECIES
 
 #### Status
 ACCEPTED

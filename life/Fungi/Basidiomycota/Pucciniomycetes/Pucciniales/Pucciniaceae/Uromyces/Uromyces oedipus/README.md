@@ -1,5 +1,4 @@
-Uromyces oedipus Dietel SPECIES
-=======
+# Uromyces oedipus Dietel SPECIES
 
 #### Status
 ACCEPTED

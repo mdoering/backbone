@@ -1,5 +1,4 @@
-Rhodophyllus madidus (Fr.) Quél. SPECIES
-=======
+# Rhodophyllus madidus (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

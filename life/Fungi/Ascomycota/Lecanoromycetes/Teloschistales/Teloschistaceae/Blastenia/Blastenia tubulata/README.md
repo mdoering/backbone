@@ -1,5 +1,4 @@
-Blastenia tubulata SPECIES
-=======
+# Blastenia tubulata SPECIES
 
 #### Status
 ACCEPTED

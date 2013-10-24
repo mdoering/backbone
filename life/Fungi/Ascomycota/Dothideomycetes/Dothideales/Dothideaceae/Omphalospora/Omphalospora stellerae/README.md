@@ -1,5 +1,4 @@
-Omphalospora stellerae Murashk. SPECIES
-=======
+# Omphalospora stellerae Murashk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Codonmyces Calat. & Etayo GENUS
-=======
+# Codonmyces Calat. & Etayo GENUS
 
 #### Status
 ACCEPTED

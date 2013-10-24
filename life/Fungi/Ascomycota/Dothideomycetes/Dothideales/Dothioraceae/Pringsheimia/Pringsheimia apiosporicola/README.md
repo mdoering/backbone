@@ -1,5 +1,4 @@
-Pringsheimia apiosporicola A. Pande SPECIES
-=======
+# Pringsheimia apiosporicola A. Pande SPECIES
 
 #### Status
 ACCEPTED

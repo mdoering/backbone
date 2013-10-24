@@ -1,5 +1,4 @@
-Diplosclerophoma ceratoniae Sarej., 1936 SPECIES
-=======
+# Diplosclerophoma ceratoniae Sarej., 1936 SPECIES
 
 #### Status
 ACCEPTED

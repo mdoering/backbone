@@ -1,5 +1,4 @@
-Solenodonta rangiferina (Barclay) Syd. SPECIES
-=======
+# Solenodonta rangiferina (Barclay) Syd. SPECIES
 
 #### Status
 ACCEPTED

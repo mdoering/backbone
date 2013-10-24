@@ -1,5 +1,4 @@
-Amoeba rodiosa Dai SPECIES
-=======
+# Amoeba rodiosa Dai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostroma praeacutosporum Boidin, Lanq. & Gilles SPECIES
-=======
+# Asterostroma praeacutosporum Boidin, Lanq. & Gilles SPECIES
 
 #### Status
 ACCEPTED

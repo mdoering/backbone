@@ -1,5 +1,4 @@
-Uredo belamcandae Henn. SPECIES
-=======
+# Uredo belamcandae Henn. SPECIES
 
 #### Status
 ACCEPTED

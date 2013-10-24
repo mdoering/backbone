@@ -1,5 +1,4 @@
-Marasmius burkillii (Massee) Manjula SPECIES
-=======
+# Marasmius burkillii (Massee) Manjula SPECIES
 
 #### Status
 ACCEPTED

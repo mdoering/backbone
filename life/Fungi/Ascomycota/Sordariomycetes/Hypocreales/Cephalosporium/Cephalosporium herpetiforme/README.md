@@ -1,5 +1,4 @@
-Cephalosporium herpetiforme Lingelsh. SPECIES
-=======
+# Cephalosporium herpetiforme Lingelsh. SPECIES
 
 #### Status
 ACCEPTED

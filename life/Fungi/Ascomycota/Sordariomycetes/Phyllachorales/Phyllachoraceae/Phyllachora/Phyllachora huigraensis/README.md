@@ -1,5 +1,4 @@
-Phyllachora huigraensis Chardón, 1932 SPECIES
-=======
+# Phyllachora huigraensis Chardón, 1932 SPECIES
 
 #### Status
 ACCEPTED

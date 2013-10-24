@@ -1,5 +1,4 @@
-Polyporus kamphoveneri Fr. SPECIES
-=======
+# Polyporus kamphoveneri Fr. SPECIES
 
 #### Status
 ACCEPTED

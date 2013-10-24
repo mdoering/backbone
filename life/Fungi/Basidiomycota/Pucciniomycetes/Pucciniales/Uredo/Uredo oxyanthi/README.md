@@ -1,5 +1,4 @@
-Uredo oxyanthi (Cummins) Cummins SPECIES
-=======
+# Uredo oxyanthi (Cummins) Cummins SPECIES
 
 #### Status
 ACCEPTED

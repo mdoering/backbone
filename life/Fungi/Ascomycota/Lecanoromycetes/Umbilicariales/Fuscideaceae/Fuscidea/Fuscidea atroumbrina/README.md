@@ -1,17 +1,16 @@
-Fuscidea atriumbrina (H. Magn.) P. James, Poelt & V. Wirth SPECIES
-=======
+# Fuscidea atroumbrina (H. Magn.) Poelt, Vezda & V. Wirth SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wirth, Ber. dt. bot. Ges. 96(1): 107 (1983)
 
 #### Original name
-Lecidea atriumbrina H. Magn.
+Lecidea atroumbrina H. Magn.
 
 ### Remarks
 null

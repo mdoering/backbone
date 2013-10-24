@@ -1,5 +1,4 @@
-Pertusaria multiplicans Vain. SPECIES
-=======
+# Pertusaria multiplicans Vain. SPECIES
 
 #### Status
 ACCEPTED

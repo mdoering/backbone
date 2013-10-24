@@ -1,5 +1,4 @@
-Scriniodinium crystallinum SPECIES
-=======
+# Scriniodinium crystallinum SPECIES
 
 #### Status
 ACCEPTED

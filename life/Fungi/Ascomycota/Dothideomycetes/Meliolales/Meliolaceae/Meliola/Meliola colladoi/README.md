@@ -1,5 +1,4 @@
-Meliola colladoi Syd. SPECIES
-=======
+# Meliola colladoi Syd. SPECIES
 
 #### Status
 ACCEPTED

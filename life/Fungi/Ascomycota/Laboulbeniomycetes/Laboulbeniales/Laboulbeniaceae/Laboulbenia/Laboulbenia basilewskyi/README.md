@@ -1,5 +1,4 @@
-Laboulbenia basilewskyi Balazuc SPECIES
-=======
+# Laboulbenia basilewskyi Balazuc SPECIES
 
 #### Status
 ACCEPTED

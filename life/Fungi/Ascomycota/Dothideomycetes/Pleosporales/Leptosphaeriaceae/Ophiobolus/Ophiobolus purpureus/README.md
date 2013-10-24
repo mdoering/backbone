@@ -1,5 +1,4 @@
-Ophiobolus purpureus Ellis & Everh. SPECIES
-=======
+# Ophiobolus purpureus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

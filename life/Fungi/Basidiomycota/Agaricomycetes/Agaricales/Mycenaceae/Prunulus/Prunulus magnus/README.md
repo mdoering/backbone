@@ -1,5 +1,4 @@
-Prunulus magnus Murrill SPECIES
-=======
+# Prunulus magnus Murrill SPECIES
 
 #### Status
 ACCEPTED

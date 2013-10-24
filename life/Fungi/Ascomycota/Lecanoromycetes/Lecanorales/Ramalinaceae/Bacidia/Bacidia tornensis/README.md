@@ -1,5 +1,4 @@
-Bacidia tornensis H. Magn. SPECIES
-=======
+# Bacidia tornensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyoarthrinium africanum S. Hughes SPECIES
-=======
+# Dictyoarthrinium africanum S. Hughes SPECIES
 
 #### Status
 ACCEPTED

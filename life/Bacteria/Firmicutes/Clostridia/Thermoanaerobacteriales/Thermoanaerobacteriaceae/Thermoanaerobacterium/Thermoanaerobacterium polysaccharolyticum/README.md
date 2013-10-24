@@ -1,5 +1,4 @@
-Thermoanaerobacterium polysaccharolyticum Cann et al., 2001 SPECIES
-=======
+# Thermoanaerobacterium polysaccharolyticum Cann et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

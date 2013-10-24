@@ -1,5 +1,4 @@
-Microdiplodia oleaginea Sacc. SPECIES
-=======
+# Microdiplodia oleaginea Sacc. SPECIES
 
 #### Status
 ACCEPTED

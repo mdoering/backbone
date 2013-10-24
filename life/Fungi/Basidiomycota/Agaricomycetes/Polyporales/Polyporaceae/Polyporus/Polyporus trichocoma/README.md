@@ -1,5 +1,4 @@
-Polyporus trichocoma Fr. SPECIES
-=======
+# Polyporus trichocoma Fr. SPECIES
 
 #### Status
 ACCEPTED

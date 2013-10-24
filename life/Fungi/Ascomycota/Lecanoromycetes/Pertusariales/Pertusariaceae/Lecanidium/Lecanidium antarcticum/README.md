@@ -1,5 +1,4 @@
-Lecanidium antarcticum C.W. Dodge SPECIES
-=======
+# Lecanidium antarcticum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryopogon canus f. canus FORM
-=======
+# Bryopogon canus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon canus f. canus
+null
 
 ### Remarks
 null

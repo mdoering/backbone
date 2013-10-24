@@ -1,5 +1,4 @@
-Camarosporium fissum (Pers.) Starbäck SPECIES
-=======
+# Camarosporium fissum (Pers.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

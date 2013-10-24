@@ -1,5 +1,4 @@
-Myxosporium alboluteum Dearn. & Barthol. SPECIES
-=======
+# Myxosporium alboluteum Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita leccina Scop. SPECIES
-=======
+# Amanita leccina Scop. SPECIES
 
 #### Status
 ACCEPTED

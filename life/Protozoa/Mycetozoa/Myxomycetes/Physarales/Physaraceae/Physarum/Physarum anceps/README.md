@@ -1,5 +1,4 @@
-Physarum anceps Fuckel SPECIES
-=======
+# Physarum anceps Fuckel SPECIES
 
 #### Status
 ACCEPTED

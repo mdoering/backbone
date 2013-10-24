@@ -1,5 +1,4 @@
-Pertusaria subfallens Vain. SPECIES
-=======
+# Pertusaria subfallens Vain. SPECIES
 
 #### Status
 ACCEPTED

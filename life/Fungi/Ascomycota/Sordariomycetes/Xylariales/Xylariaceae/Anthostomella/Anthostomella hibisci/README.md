@@ -1,5 +1,4 @@
-Anthostomella hibisci K. Ramakr. SPECIES
-=======
+# Anthostomella hibisci K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

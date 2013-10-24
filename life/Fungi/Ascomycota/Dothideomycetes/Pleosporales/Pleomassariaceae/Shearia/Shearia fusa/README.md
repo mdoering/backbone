@@ -1,5 +1,4 @@
-Shearia fusa (Berk. & M.A. Curtis) M.E. Barr SPECIES
-=======
+# Shearia fusa (Berk. & M.A. Curtis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

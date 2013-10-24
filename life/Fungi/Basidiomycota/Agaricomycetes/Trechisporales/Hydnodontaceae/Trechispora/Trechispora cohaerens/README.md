@@ -1,17 +1,16 @@
-Corticium confine Bourdot & Galzin, 1911 SPECIES
-=======
+# Trechispora cohaerens (Schwein.) Jülich & Stalpers, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. K. ned. Akad. Wet. , 2 Sectie 74: 257 (1980)
 
 #### Original name
-null
+Sporotrichum cohaerens Schwein., 1832
 
 ### Remarks
 null

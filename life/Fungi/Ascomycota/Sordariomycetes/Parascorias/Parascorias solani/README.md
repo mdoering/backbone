@@ -1,5 +1,4 @@
-Parascorias solani Bat. & Cif. SPECIES
-=======
+# Parascorias solani Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

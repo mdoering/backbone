@@ -1,5 +1,4 @@
-Lecanora metabletica Bock {?} ex Schade SPECIES
-=======
+# Lecanora metabletica Bock {?} ex Schade SPECIES
 
 #### Status
 ACCEPTED

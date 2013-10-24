@@ -1,17 +1,16 @@
-Agaricus bivelus var. fulgens (Pers.) Fr. VARIETY
-=======
+# Cortinarius bivelus (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 216 (1821)
+Epicr. syst. mycol. (Upsaliae) 292 (1838)
 
 #### Original name
-Agaricus fulgens Alb. & Schwein.
+Agaricus bivelus Fr., 1818
 
 ### Remarks
 null

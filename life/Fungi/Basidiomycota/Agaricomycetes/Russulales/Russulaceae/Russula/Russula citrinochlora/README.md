@@ -1,5 +1,4 @@
-Russula citrinochlora Singer SPECIES
-=======
+# Russula citrinochlora Singer SPECIES
 
 #### Status
 ACCEPTED

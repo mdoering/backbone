@@ -1,5 +1,4 @@
-Bacidia lutescens Malme SPECIES
-=======
+# Bacidia lutescens Malme SPECIES
 
 #### Status
 ACCEPTED

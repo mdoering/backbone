@@ -1,5 +1,4 @@
-Lecidea turficola (Hellb.) Th. Fr. SPECIES
-=======
+# Lecidea turficola (Hellb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

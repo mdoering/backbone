@@ -1,8 +1,7 @@
-Geaster thwaitesii Berk. SPECIES
-=======
+# Geastrum thwaitesii Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster thwaitesii Berk.
+Geastrum thwaitesii Berk.
 
 ### Remarks
 null

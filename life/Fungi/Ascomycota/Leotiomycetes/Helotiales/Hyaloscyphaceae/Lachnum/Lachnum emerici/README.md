@@ -1,5 +1,4 @@
-Lachnum emerici (Berk. & W. Phillips) M.P. Sharma SPECIES
-=======
+# Lachnum emerici (Berk. & W. Phillips) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

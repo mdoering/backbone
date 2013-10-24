@@ -1,5 +1,4 @@
-Cerrena cystidiata Rajchenb. & De Meijer, 1990 SPECIES
-=======
+# Cerrena cystidiata Rajchenb. & De Meijer, 1990 SPECIES
 
 #### Status
 ACCEPTED

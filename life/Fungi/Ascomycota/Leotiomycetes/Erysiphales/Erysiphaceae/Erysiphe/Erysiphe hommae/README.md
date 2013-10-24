@@ -1,5 +1,4 @@
-Erysiphe hommae (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe hommae (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

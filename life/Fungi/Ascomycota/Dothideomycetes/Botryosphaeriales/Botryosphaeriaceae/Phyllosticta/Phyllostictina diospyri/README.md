@@ -1,5 +1,4 @@
-Phyllostictina diospyri (Ellis & Everh.) Arx SPECIES
-=======
+# Phyllostictina diospyri (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

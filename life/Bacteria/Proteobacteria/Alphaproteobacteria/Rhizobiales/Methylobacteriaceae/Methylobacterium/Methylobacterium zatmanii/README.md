@@ -1,5 +1,4 @@
-Methylobacterium zatmanii Green et al., 1988 SPECIES
-=======
+# Methylobacterium zatmanii Green et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

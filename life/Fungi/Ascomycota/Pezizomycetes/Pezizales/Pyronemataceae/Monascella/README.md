@@ -1,5 +1,4 @@
-Monascella Guarro & Arx GENUS
-=======
+# Monascella Guarro & Arx GENUS
 
 #### Status
 ACCEPTED

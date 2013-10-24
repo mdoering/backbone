@@ -1,5 +1,4 @@
-Chaetosphaeria hiugensis I. Hino SPECIES
-=======
+# Chaetosphaeria hiugensis I. Hino SPECIES
 
 #### Status
 ACCEPTED

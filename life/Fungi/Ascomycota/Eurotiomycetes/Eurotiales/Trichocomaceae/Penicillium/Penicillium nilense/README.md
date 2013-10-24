@@ -1,17 +1,16 @@
-Penicillium egyptiacum J.F.H. Beyma, 1933 SPECIES
-=======
+# Penicillium nilense Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 88: 137 (1933)
+The Genus Penicillium and its teleomorph states Eupenicillium and Talaromyces (London) 145 (1980)
 
 #### Original name
-Penicillium egyptiacum J.F.H. Beyma, 1933
+Penicillium nilense Pitt, 1980
 
 ### Remarks
 null

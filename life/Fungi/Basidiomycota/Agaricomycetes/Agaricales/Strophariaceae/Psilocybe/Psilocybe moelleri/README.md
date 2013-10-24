@@ -1,17 +1,16 @@
-Stropharia merdaria f. merdaria FORM
-=======
+# Psilocybe moelleri Guzmán, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 142 (1872)
+Mycotaxon 7(2): 245 (1978)
 
 #### Original name
-Stropharia merdaria f. merdaria
+Psilocybe moelleri Guzmán, 1978
 
 ### Remarks
 null

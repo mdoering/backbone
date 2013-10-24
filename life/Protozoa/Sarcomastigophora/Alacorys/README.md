@@ -1,5 +1,4 @@
-Alacorys Haeckel, 1887 GENUS
-=======
+# Alacorys Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

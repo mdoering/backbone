@@ -1,5 +1,4 @@
-Peziza hindsii Berk. SPECIES
-=======
+# Peziza hindsii Berk. SPECIES
 
 #### Status
 ACCEPTED

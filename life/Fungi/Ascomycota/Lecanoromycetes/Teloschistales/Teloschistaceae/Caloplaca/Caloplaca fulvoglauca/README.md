@@ -1,5 +1,4 @@
-Caloplaca fulvoglauca (Flagey) Mahue & A. Gillet SPECIES
-=======
+# Caloplaca fulvoglauca (Flagey) Mahue & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

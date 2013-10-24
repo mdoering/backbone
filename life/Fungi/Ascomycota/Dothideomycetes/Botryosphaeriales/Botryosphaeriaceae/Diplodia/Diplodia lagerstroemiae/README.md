@@ -1,5 +1,4 @@
-Diplodia lagerstroemiae Speg. SPECIES
-=======
+# Diplodia lagerstroemiae Speg. SPECIES
 
 #### Status
 ACCEPTED

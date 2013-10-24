@@ -1,5 +1,4 @@
-Physarum pseudodiderma Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Physarum pseudodiderma Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

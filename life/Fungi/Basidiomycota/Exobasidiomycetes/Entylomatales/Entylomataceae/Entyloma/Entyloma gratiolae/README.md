@@ -1,5 +1,4 @@
-Entyloma gratiolae (Davis) Cif. SPECIES
-=======
+# Entyloma gratiolae (Davis) Cif. SPECIES
 
 #### Status
 ACCEPTED

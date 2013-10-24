@@ -1,5 +1,4 @@
-Paulinella intermedia Vørs, 1993 SPECIES
-=======
+# Paulinella intermedia Vørs, 1993 SPECIES
 
 #### Status
 ACCEPTED

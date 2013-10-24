@@ -1,5 +1,4 @@
-Helvetoglobatruncana GENUS
-=======
+# Helvetoglobatruncana GENUS
 
 #### Status
 ACCEPTED

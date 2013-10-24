@@ -1,5 +1,4 @@
-Cordyceps crassispora M. Zang, D.R. Yang & C.D. Li SPECIES
-=======
+# Cordyceps crassispora M. Zang, D.R. Yang & C.D. Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum molle Link SPECIES
-=======
+# Sporotrichum molle Link SPECIES
 
 #### Status
 ACCEPTED

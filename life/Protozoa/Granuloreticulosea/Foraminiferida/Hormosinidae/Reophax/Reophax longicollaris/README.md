@@ -1,5 +1,4 @@
-Reophax longicollaris Zheng, 1988 SPECIES
-=======
+# Reophax longicollaris Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

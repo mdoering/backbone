@@ -1,5 +1,4 @@
-Actinomyces gypsoides Henrici & Gardner {?} SPECIES
-=======
+# Actinomyces gypsoides Henrici & Gardner {?} SPECIES
 
 #### Status
 ACCEPTED

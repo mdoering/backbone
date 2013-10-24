@@ -1,5 +1,4 @@
-Chloridium micans P. Karst. SPECIES
-=======
+# Chloridium micans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

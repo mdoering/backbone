@@ -1,5 +1,4 @@
-Peziza dubia Batsch SPECIES
-=======
+# Peziza dubia Batsch SPECIES
 
 #### Status
 ACCEPTED

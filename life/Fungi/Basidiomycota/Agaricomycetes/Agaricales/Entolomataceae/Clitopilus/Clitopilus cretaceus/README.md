@@ -1,5 +1,4 @@
-Clitopilus cretaceus Maire SPECIES
-=======
+# Clitopilus cretaceus Maire SPECIES
 
 #### Status
 ACCEPTED

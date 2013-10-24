@@ -1,5 +1,4 @@
-Mucor stercoreus (Tode) Link SPECIES
-=======
+# Mucor stercoreus (Tode) Link SPECIES
 
 #### Status
 ACCEPTED

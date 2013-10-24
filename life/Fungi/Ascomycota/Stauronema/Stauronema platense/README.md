@@ -1,5 +1,4 @@
-Stauronema platense (Speg.) Syd., P. Syd. & E.J. Butler, 1916 SPECIES
-=======
+# Stauronema platense (Speg.) Syd., P. Syd. & E.J. Butler, 1916 SPECIES
 
 #### Status
 ACCEPTED

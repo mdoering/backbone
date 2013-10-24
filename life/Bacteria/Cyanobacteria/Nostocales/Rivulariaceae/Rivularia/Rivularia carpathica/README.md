@@ -1,5 +1,4 @@
-Rivularia carpathica O. Dragastan SPECIES
-=======
+# Rivularia carpathica O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

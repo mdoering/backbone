@@ -1,5 +1,4 @@
-Synura curtispina (J.b. Petersen & J.B. Hansen) Asmund SPECIES
-=======
+# Synura curtispina (J.b. Petersen & J.B. Hansen) Asmund SPECIES
 
 #### Status
 ACCEPTED

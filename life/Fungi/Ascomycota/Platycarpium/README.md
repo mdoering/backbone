@@ -1,5 +1,4 @@
-Platycarpium GENUS
-=======
+# Platycarpium GENUS
 
 #### Status
 ACCEPTED

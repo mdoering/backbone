@@ -1,5 +1,4 @@
-Porina mastoidea (Ach.) Müll. Arg., 1885 SPECIES
-=======
+# Porina mastoidea (Ach.) Müll. Arg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

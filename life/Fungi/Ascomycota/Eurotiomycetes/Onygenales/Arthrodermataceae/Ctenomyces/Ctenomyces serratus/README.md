@@ -1,5 +1,4 @@
-Ctenomyces serratus Eidam, 1880 SPECIES
-=======
+# Ctenomyces serratus Eidam, 1880 SPECIES
 
 #### Status
 ACCEPTED

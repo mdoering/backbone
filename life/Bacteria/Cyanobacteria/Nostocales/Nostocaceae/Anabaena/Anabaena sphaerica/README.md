@@ -1,5 +1,4 @@
-Anabaena sphaerica f. major J.A. Rino FORM
-=======
+# Anabaena sphaerica Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

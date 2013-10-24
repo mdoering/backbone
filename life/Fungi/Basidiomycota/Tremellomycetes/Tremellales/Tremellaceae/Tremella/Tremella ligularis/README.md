@@ -1,5 +1,4 @@
-Tremella ligularis Bull. SPECIES
-=======
+# Tremella ligularis Bull. SPECIES
 
 #### Status
 ACCEPTED

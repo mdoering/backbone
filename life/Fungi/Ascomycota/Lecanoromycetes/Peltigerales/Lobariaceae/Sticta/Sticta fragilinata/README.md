@@ -1,5 +1,4 @@
-Sticta fragilinata T. McDonald SPECIES
-=======
+# Sticta fragilinata T. McDonald SPECIES
 
 #### Status
 ACCEPTED

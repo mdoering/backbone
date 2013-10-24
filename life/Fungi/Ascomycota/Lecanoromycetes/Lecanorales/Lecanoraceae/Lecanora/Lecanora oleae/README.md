@@ -1,5 +1,4 @@
-Lecanora oleae Reichert & Galun SPECIES
-=======
+# Lecanora oleae Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

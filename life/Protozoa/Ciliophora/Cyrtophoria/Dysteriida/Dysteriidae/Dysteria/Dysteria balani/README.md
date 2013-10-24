@@ -1,5 +1,4 @@
-Dysteria balani Jankowski, 1967 SPECIES
-=======
+# Dysteria balani Jankowski, 1967 SPECIES
 
 #### Status
 ACCEPTED

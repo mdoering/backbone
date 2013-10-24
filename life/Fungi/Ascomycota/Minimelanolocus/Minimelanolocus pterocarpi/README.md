@@ -1,5 +1,4 @@
-Minimelanolocus pterocarpi Jian Ma & X.G. Zhang SPECIES
-=======
+# Minimelanolocus pterocarpi Jian Ma & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

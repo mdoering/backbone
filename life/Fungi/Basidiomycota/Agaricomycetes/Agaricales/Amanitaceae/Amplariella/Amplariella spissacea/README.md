@@ -1,5 +1,4 @@
-Amplariella spissacea (S. Imai) E.-J. Gilbert SPECIES
-=======
+# Amplariella spissacea (S. Imai) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

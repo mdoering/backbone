@@ -1,17 +1,16 @@
-Stromatoscypha Donk GENUS
-=======
+# Porotheleum E.M. Fries, 1818 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Reinwardtia 1: 218 (1951)
+null
 
 #### Original name
-Stromatoscypha Donk
+null
 
 ### Remarks
 null

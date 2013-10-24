@@ -1,5 +1,4 @@
-Marasmius decurrens Mont. SPECIES
-=======
+# Marasmius decurrens Mont. SPECIES
 
 #### Status
 ACCEPTED

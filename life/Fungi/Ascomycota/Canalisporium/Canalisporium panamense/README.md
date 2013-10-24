@@ -1,5 +1,4 @@
-Canalisporium panamense A. Ferrer & Shearer SPECIES
-=======
+# Canalisporium panamense A. Ferrer & Shearer SPECIES
 
 #### Status
 ACCEPTED

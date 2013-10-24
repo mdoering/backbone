@@ -1,17 +1,16 @@
-Phomopsis denigrata (Desm.) Traverso SPECIES
-=======
+# Diaporthe desmazieri Niessl ex Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 656 (1882)
 
 #### Original name
-Phoma denigrata Desm., 1853
+Diaporthe desmazieri Niessl ex Sacc., 1882
 
 ### Remarks
 null

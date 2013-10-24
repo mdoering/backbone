@@ -1,5 +1,4 @@
-Schizothrix splendida Golubic SPECIES
-=======
+# Schizothrix splendida Golubic SPECIES
 
 #### Status
 ACCEPTED

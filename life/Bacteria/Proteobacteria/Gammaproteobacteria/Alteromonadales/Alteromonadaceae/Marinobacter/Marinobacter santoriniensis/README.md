@@ -1,5 +1,4 @@
-Marinobacter santoriniensis Handley, Hery & Lloyd, 2009 SPECIES
-=======
+# Marinobacter santoriniensis Handley, Hery & Lloyd, 2009 SPECIES
 
 #### Status
 ACCEPTED

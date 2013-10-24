@@ -1,8 +1,7 @@
-Coniothyrium charticolum Fuckel SPECIES
-=======
+# Coniothyrium charticola Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium charticolum Fuckel
+Coniothyrium charticola Fuckel
 
 ### Remarks
 null

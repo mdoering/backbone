@@ -1,5 +1,4 @@
-Shewanella algae Simidu, Kita-Tsukamoto, Yasumoto & Yotsu, 1990 SPECIES
-=======
+# Shewanella algae Simidu, Kita-Tsukamoto, Yasumoto & Yotsu, 1990 SPECIES
 
 #### Status
 ACCEPTED

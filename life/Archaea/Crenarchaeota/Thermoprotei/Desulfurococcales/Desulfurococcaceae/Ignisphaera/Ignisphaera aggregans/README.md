@@ -1,5 +1,4 @@
-Ignisphaera aggregans Niederberger et al., 2006 SPECIES
-=======
+# Ignisphaera aggregans Niederberger et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

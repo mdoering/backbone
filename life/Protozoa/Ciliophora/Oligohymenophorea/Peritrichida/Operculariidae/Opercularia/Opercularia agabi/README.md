@@ -1,5 +1,4 @@
-Opercularia agabi SPECIES
-=======
+# Opercularia agabi SPECIES
 
 #### Status
 ACCEPTED

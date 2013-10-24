@@ -1,5 +1,4 @@
-Hymenoscyphus saccicola Svrcek SPECIES
-=======
+# Hymenoscyphus saccicola Svrcek SPECIES
 
 #### Status
 ACCEPTED

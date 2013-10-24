@@ -1,5 +1,4 @@
-Lecidea laboriosa Müll. Arg. SPECIES
-=======
+# Lecidea laboriosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

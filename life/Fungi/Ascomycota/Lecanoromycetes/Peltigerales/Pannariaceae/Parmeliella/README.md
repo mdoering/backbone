@@ -1,5 +1,4 @@
-Parmeliella Müll. Arg. GENUS
-=======
+# Parmeliella Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

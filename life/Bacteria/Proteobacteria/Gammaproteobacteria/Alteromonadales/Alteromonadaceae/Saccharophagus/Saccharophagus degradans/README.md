@@ -1,5 +1,4 @@
-Saccharophagus degradans Ekborg et al., 2005 SPECIES
-=======
+# Saccharophagus degradans Ekborg et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

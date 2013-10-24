@@ -1,5 +1,4 @@
-Phaeotellus GENUS
-=======
+# Phaeotellus GENUS
 
 #### Status
 ACCEPTED

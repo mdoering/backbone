@@ -1,5 +1,4 @@
-Synedra bicurvata T.Bienert SPECIES
-=======
+# Synedra bicurvata T.Bienert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammulaster gypsophilus (Esteve-Rav., M. Villarreal, Heykoop & E. Horak) E. Horak SPECIES
-=======
+# Flammulaster gypsophilus (Esteve-Rav., M. Villarreal, Heykoop & E. Horak) E. Horak SPECIES
 
 #### Status
 ACCEPTED

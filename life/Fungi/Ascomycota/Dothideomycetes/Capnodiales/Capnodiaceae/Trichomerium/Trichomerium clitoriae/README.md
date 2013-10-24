@@ -1,5 +1,4 @@
-Trichomerium clitoriae Bat. & Cif. SPECIES
-=======
+# Trichomerium clitoriae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

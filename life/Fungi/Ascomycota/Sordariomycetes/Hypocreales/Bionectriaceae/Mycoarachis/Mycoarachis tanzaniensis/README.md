@@ -1,5 +1,4 @@
-Mycoarachis tanzaniensis R.S. Khan & Cain SPECIES
-=======
+# Mycoarachis tanzaniensis R.S. Khan & Cain SPECIES
 
 #### Status
 ACCEPTED

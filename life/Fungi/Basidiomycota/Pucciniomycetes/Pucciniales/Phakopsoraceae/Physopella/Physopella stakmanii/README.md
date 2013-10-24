@@ -1,5 +1,4 @@
-Physopella stakmanii Sathe SPECIES
-=======
+# Physopella stakmanii Sathe SPECIES
 
 #### Status
 ACCEPTED

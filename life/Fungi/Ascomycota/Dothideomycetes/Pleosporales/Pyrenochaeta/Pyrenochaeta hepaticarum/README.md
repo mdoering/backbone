@@ -1,5 +1,4 @@
-Pyrenochaeta hepaticarum Sacc. & Trotter SPECIES
-=======
+# Pyrenochaeta hepaticarum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

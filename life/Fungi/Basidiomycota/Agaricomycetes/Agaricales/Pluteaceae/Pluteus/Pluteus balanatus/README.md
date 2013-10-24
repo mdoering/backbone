@@ -1,5 +1,4 @@
-Pluteus balanatus Berk. & Broome SPECIES
-=======
+# Pluteus balanatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

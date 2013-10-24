@@ -1,5 +1,4 @@
-Tubercularia leveillei Berl. & Sacc. SPECIES
-=======
+# Tubercularia leveillei Berl. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

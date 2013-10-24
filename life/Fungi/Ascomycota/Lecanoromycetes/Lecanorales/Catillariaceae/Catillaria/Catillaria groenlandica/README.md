@@ -1,5 +1,4 @@
-Catillaria groenlandica Lynge SPECIES
-=======
+# Catillaria groenlandica Lynge SPECIES
 
 #### Status
 ACCEPTED

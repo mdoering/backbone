@@ -1,5 +1,4 @@
-Opegrapha paraxanthodes Nyl. SPECIES
-=======
+# Opegrapha paraxanthodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

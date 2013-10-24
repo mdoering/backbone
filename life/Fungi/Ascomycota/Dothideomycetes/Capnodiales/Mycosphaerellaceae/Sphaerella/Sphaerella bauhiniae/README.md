@@ -1,5 +1,4 @@
-Sphaerella bauhiniae (Starbäck) Sacc. & Traverso SPECIES
-=======
+# Sphaerella bauhiniae (Starbäck) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

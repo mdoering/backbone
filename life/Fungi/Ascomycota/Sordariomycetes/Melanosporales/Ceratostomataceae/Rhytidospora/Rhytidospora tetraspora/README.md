@@ -1,5 +1,4 @@
-Rhytidospora tetraspora Jeng & Cain, 1977 SPECIES
-=======
+# Rhytidospora tetraspora Jeng & Cain, 1977 SPECIES
 
 #### Status
 ACCEPTED

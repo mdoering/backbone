@@ -1,5 +1,4 @@
-Escherichia noctuarii SPECIES
-=======
+# Escherichia noctuarii SPECIES
 
 #### Status
 ACCEPTED

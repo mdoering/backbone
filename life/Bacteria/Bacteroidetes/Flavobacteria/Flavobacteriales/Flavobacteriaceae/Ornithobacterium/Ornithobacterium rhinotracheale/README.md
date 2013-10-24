@@ -1,5 +1,4 @@
-Ornithobacterium rhinotracheale Vandamme et al., 1994 SPECIES
-=======
+# Ornithobacterium rhinotracheale Vandamme et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrella nutans (Rick) Theiss. SPECIES
-=======
+# Hypocrella nutans (Rick) Theiss. SPECIES
 
 #### Status
 ACCEPTED

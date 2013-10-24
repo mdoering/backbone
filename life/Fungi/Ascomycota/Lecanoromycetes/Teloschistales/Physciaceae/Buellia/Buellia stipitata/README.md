@@ -1,5 +1,4 @@
-Buellia stipitata Riddle SPECIES
-=======
+# Buellia stipitata Riddle SPECIES
 
 #### Status
 ACCEPTED

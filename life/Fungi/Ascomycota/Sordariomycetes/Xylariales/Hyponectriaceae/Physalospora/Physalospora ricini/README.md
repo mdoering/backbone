@@ -1,5 +1,4 @@
-Physalospora ricini Rieuf SPECIES
-=======
+# Physalospora ricini Rieuf SPECIES
 
 #### Status
 ACCEPTED

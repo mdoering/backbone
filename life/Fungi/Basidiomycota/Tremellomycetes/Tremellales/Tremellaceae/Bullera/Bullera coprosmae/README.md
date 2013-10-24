@@ -1,14 +1,13 @@
-Hannaella coprosmaensis (Hamam. & Nakase) F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Bullera coprosmae Hamam. & Nakase, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 69(3): 281 (1996)
 
 #### Original name
 Bullera coprosmae Hamam. & Nakase, 1996

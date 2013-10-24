@@ -1,5 +1,4 @@
-Vitalia averrhoae Bat. SPECIES
-=======
+# Vitalia averrhoae Bat. SPECIES
 
 #### Status
 ACCEPTED

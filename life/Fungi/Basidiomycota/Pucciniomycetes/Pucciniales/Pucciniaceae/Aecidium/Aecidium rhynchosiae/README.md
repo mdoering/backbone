@@ -1,5 +1,4 @@
-Aecidium rhynchosiae Cooke SPECIES
-=======
+# Aecidium rhynchosiae Cooke SPECIES
 
 #### Status
 ACCEPTED

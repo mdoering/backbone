@@ -1,5 +1,4 @@
-Hendersonia occulta (Lib.) Fr. SPECIES
-=======
+# Hendersonia occulta (Lib.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusidium granulatum Fuckel SPECIES
-=======
+# Fusidium granulatum Fuckel SPECIES
 
 #### Status
 ACCEPTED

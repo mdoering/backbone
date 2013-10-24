@@ -1,5 +1,4 @@
-Laboulbenia pedicellata Thaxt., 1892 SPECIES
-=======
+# Laboulbenia pedicellata Thaxt., 1892 SPECIES
 
 #### Status
 ACCEPTED

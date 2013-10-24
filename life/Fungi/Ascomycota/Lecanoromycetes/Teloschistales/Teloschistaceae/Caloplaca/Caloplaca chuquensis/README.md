@@ -1,5 +1,4 @@
-Caloplaca chuquensis Zahlbr. ex Luetzelb. SPECIES
-=======
+# Caloplaca chuquensis Zahlbr. ex Luetzelb. SPECIES
 
 #### Status
 ACCEPTED

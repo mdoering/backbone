@@ -1,5 +1,4 @@
-Caloplaca brouardii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Caloplaca brouardii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

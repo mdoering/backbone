@@ -1,5 +1,4 @@
-Diplodina broussonetiae Hollós SPECIES
-=======
+# Diplodina broussonetiae Hollós SPECIES
 
 #### Status
 ACCEPTED

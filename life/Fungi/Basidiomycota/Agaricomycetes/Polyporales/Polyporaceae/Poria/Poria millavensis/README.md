@@ -1,5 +1,4 @@
-Poria millavensis (Bourdot & Galzin) Overh. SPECIES
-=======
+# Poria millavensis (Bourdot & Galzin) Overh. SPECIES
 
 #### Status
 ACCEPTED

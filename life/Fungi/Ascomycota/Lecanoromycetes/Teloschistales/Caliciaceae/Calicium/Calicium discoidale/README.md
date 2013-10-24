@@ -1,5 +1,4 @@
-Calicium discoidale Ach. SPECIES
-=======
+# Calicium discoidale Ach. SPECIES
 
 #### Status
 ACCEPTED

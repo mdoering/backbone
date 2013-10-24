@@ -1,5 +1,4 @@
-Cystolepiota pumanquensis Singer SPECIES
-=======
+# Cystolepiota pumanquensis Singer SPECIES
 
 #### Status
 ACCEPTED

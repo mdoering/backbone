@@ -1,5 +1,4 @@
-Calonectria cyathula Syd. SPECIES
-=======
+# Calonectria cyathula Syd. SPECIES
 
 #### Status
 ACCEPTED

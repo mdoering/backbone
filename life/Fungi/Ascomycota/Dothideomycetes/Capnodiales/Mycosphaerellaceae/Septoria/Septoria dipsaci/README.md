@@ -1,5 +1,4 @@
-Septoria dipsaci Westend. SPECIES
-=======
+# Septoria dipsaci Westend. SPECIES
 
 #### Status
 ACCEPTED

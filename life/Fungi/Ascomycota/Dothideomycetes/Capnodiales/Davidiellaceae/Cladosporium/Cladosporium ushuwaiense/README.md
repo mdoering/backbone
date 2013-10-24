@@ -1,5 +1,4 @@
-Cladosporium ushuwaiense Speg. SPECIES
-=======
+# Cladosporium ushuwaiense Speg. SPECIES
 
 #### Status
 ACCEPTED

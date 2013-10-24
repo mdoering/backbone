@@ -1,5 +1,4 @@
-Cercospora heylandiae M.S. Patil SPECIES
-=======
+# Cercospora heylandiae M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

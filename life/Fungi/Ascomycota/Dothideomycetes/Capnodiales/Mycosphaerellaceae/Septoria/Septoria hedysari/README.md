@@ -1,5 +1,4 @@
-Septoria hedysari Murashk. SPECIES
-=======
+# Septoria hedysari Murashk. SPECIES
 
 #### Status
 ACCEPTED

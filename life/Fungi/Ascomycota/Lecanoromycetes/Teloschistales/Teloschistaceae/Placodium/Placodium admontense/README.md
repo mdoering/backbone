@@ -1,5 +1,4 @@
-Placodium admontense (Zahlbr.) Motyka SPECIES
-=======
+# Placodium admontense (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

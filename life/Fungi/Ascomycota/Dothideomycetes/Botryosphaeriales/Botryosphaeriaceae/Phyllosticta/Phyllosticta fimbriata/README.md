@@ -1,5 +1,4 @@
-Phyllosticta fimbriata Ellis & Everh. SPECIES
-=======
+# Phyllosticta fimbriata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

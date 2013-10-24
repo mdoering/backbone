@@ -1,5 +1,4 @@
-Anisostomula rubescens (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Anisostomula rubescens (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

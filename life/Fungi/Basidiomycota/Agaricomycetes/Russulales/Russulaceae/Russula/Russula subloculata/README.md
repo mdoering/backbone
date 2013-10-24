@@ -1,5 +1,4 @@
-Russula subloculata Trappe, T. Lebel & Castellano SPECIES
-=======
+# Russula subloculata Trappe, T. Lebel & Castellano SPECIES
 
 #### Status
 ACCEPTED

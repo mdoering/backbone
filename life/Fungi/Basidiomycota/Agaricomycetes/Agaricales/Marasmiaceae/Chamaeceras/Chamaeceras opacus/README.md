@@ -1,5 +1,4 @@
-Chamaeceras opacus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras opacus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

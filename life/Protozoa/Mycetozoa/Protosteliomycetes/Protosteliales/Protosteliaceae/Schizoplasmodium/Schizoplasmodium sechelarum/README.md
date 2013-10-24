@@ -1,5 +1,4 @@
-Schizoplasmodium sechelarum L.S. Olive & Stoian. SPECIES
-=======
+# Schizoplasmodium sechelarum L.S. Olive & Stoian. SPECIES
 
 #### Status
 ACCEPTED

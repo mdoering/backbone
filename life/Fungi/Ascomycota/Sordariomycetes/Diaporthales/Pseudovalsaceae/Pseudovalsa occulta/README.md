@@ -1,5 +1,4 @@
-Pseudovalsa occulta var. occulta (Romell) Berl. VARIETY
-=======
+# Pseudovalsa occulta (Schwein.) Ellis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pseudovalsa occulta var. occulta (Romell) Berl.
+Sphaeria occulta (Fuckel)
 
 ### Remarks
 null

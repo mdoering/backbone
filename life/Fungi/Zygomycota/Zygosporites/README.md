@@ -1,5 +1,4 @@
-Zygosporites Will. GENUS
-=======
+# Zygosporites Will. GENUS
 
 #### Status
 ACCEPTED

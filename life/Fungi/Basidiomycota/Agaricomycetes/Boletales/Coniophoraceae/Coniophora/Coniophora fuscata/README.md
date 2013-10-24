@@ -1,5 +1,4 @@
-Coniophora fuscata subsp. fuscata SUBSPECIES
-=======
+# Coniophora fuscata Bres. & Torrend SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brotéria, sér. bot. 11: 78 (1913)
 
 #### Original name
-Coniophora fuscata subsp. fuscata
+Coniophora fuscata Bres. & Torrend
 
 ### Remarks
 null

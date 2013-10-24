@@ -1,5 +1,4 @@
-Adnatosphaeridium apiculatum (Cookson & Eisenack, 1960) Lentin & Williams SPECIES
-=======
+# Adnatosphaeridium apiculatum (Cookson & Eisenack, 1960) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

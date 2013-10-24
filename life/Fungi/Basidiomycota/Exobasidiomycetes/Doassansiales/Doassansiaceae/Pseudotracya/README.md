@@ -1,5 +1,4 @@
-Pseudotracya Vánky GENUS
-=======
+# Pseudotracya Vánky GENUS
 
 #### Status
 ACCEPTED

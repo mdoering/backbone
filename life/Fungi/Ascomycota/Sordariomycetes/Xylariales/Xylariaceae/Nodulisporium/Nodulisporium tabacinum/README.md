@@ -1,5 +1,4 @@
-Nodulisporium tabacinum (Sacc. & Roum.) S. Hughes SPECIES
-=======
+# Nodulisporium tabacinum (Sacc. & Roum.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

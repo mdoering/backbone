@@ -1,5 +1,4 @@
-Pestalotiopsis woodfordiae G.P. Agarwal & Hasija SPECIES
-=======
+# Pestalotiopsis woodfordiae G.P. Agarwal & Hasija SPECIES
 
 #### Status
 ACCEPTED

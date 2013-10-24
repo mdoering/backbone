@@ -1,5 +1,4 @@
-Septoria oligostegia Syd. SPECIES
-=======
+# Septoria oligostegia Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orphanomyces vankyi Savile, 1974 SPECIES
-=======
+# Orphanomyces vankyi Savile, 1974 SPECIES
 
 #### Status
 ACCEPTED

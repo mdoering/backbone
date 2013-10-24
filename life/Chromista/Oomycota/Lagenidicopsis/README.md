@@ -1,5 +1,4 @@
-Lagenidicopsis N.J. Artemczuk GENUS
-=======
+# Lagenidicopsis N.J. Artemczuk GENUS
 
 #### Status
 ACCEPTED

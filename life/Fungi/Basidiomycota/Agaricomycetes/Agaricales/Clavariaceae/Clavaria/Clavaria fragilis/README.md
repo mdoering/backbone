@@ -1,17 +1,16 @@
-Clavaria cylindrica var. cylindrica VARIETY
-=======
+# Clavaria fragilis Holmsk., 1790 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 656 (1821)
+Beata Ruris Otia FUNGIS DANICIS 1: 7 (1790)
 
 #### Original name
-Clavaria cylindrica var. cylindrica
+Clavaria fragilis Holmsk., 1790
 
 ### Remarks
 null

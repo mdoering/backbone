@@ -1,5 +1,4 @@
-Atractella Printz, 1921 GENUS
-=======
+# Atractella Printz, 1921 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria alpina (Bagl. & Carestia) Stizenb. SPECIES
-=======
+# Verrucaria alpina (Bagl. & Carestia) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

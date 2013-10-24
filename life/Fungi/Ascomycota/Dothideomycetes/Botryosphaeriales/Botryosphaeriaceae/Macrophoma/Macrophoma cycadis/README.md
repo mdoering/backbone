@@ -1,5 +1,4 @@
-Macrophoma cycadis Keissl. SPECIES
-=======
+# Macrophoma cycadis Keissl. SPECIES
 
 #### Status
 ACCEPTED

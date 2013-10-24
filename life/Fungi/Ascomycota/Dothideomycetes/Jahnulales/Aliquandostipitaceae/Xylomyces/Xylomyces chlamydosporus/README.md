@@ -1,17 +1,16 @@
-Xylomyces chlamydosporis Goos, R.D. Brooks & Lamore SPECIES
-=======
+# Xylomyces chlamydosporus Goos, R.D. Brooks & Lamore, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 69(2): 282 (1977)
 
 #### Original name
-Xylomyces chlamydosporis Goos, R.D. Brooks & Lamore
+Xylomyces chlamydosporus Goos, R.D. Brooks & Lamore, 1977
 
 ### Remarks
 null

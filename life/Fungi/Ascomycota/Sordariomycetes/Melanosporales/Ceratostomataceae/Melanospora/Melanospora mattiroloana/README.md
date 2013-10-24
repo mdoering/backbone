@@ -1,8 +1,7 @@
-Melanospora mattiroliana Mirande SPECIES
-=======
+# Melanospora mattiroloana Mirande SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanospora mattiroliana Mirande
+Melanospora mattiroloana Mirande
 
 ### Remarks
 null

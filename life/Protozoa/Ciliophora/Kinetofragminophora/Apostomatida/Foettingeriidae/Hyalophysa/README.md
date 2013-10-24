@@ -1,5 +1,4 @@
-Hyalophysa Bradbury, 1966 GENUS
-=======
+# Hyalophysa Bradbury, 1966 GENUS
 
 #### Status
 ACCEPTED

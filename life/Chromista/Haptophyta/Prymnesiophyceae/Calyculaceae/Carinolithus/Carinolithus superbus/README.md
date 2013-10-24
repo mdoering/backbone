@@ -1,5 +1,4 @@
-Carinolithus superbus (Deflandre in Deflandre & Fert, 1954) Prins in Grün et al., 1974 SPECIES
-=======
+# Carinolithus superbus (Deflandre in Deflandre & Fert, 1954) Prins in Grün et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

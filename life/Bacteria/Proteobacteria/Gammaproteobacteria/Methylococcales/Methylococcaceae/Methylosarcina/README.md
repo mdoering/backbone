@@ -1,5 +1,4 @@
-Methylosarcina Wise et al., 2001 GENUS
-=======
+# Methylosarcina Wise et al., 2001 GENUS
 
 #### Status
 ACCEPTED

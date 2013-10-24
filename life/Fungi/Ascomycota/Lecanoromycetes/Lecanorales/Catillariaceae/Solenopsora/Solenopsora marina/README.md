@@ -1,5 +1,4 @@
-Solenopsora marina (Zahlbr.) Zahlbr. SPECIES
-=======
+# Solenopsora marina (Zahlbr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

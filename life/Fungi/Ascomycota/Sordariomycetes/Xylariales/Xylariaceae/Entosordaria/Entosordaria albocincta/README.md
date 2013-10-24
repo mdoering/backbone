@@ -1,5 +1,4 @@
-Entosordaria albocincta (Ellis & Everh.) Höhn. SPECIES
-=======
+# Entosordaria albocincta (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

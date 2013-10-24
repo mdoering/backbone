@@ -1,5 +1,4 @@
-Sphaeria friabilis Pers. SPECIES
-=======
+# Sphaeria friabilis Pers. SPECIES
 
 #### Status
 ACCEPTED

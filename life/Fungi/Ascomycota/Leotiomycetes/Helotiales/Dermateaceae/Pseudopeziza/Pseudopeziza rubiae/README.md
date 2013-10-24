@@ -1,5 +1,4 @@
-Pseudopeziza rubiae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Pseudopeziza rubiae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

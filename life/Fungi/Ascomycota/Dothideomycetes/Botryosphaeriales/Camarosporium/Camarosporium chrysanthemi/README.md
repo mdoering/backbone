@@ -1,5 +1,4 @@
-Camarosporium chrysanthemi Hollós SPECIES
-=======
+# Camarosporium chrysanthemi Hollós SPECIES
 
 #### Status
 ACCEPTED

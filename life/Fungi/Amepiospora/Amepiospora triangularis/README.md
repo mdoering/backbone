@@ -1,5 +1,4 @@
-Amepiospora triangularis Sal.-Cheb. & Locq. SPECIES
-=======
+# Amepiospora triangularis Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

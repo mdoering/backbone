@@ -1,5 +1,4 @@
-Uromyces guerkeanus Henn. SPECIES
-=======
+# Uromyces guerkeanus Henn. SPECIES
 
 #### Status
 ACCEPTED

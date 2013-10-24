@@ -1,5 +1,4 @@
-Diaporthe exercitalis (Peck) Sacc. SPECIES
-=======
+# Diaporthe exercitalis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

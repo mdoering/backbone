@@ -1,5 +1,4 @@
-Anthostomella cocoes-capitatae Caball. SPECIES
-=======
+# Anthostomella cocoes-capitatae Caball. SPECIES
 
 #### Status
 ACCEPTED

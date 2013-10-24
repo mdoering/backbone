@@ -1,5 +1,4 @@
-Saccharomyces betulae Peck & Pat. SPECIES
-=======
+# Saccharomyces betulae Peck & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Haemogregarina irkalukpiki Laird, 1961 SPECIES
-=======
+# Desseria irkalukpiki (Laird, 1961) Siddall, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

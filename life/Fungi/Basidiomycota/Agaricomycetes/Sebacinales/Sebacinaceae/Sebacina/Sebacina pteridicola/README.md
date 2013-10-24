@@ -1,5 +1,4 @@
-Sebacina pteridicola McNabb, 1966 SPECIES
-=======
+# Sebacina pteridicola McNabb, 1966 SPECIES
 
 #### Status
 ACCEPTED

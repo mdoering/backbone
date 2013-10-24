@@ -1,14 +1,13 @@
-Stigmatidium subseriale (Nyl.) Nyl. SPECIES
-=======
+# Enterographa subserialis (Nyl.) Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 2 2: 97 (1868)
+Repert. Spec. Nov. Regni Veg. 43: 69 (1938)
 
 #### Original name
 Chiodecton subseriale Nyl.

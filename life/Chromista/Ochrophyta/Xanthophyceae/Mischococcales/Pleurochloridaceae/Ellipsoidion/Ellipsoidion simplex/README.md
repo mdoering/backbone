@@ -1,5 +1,4 @@
-Ellipsoidion simplex Pascher SPECIES
-=======
+# Ellipsoidion simplex Pascher SPECIES
 
 #### Status
 ACCEPTED

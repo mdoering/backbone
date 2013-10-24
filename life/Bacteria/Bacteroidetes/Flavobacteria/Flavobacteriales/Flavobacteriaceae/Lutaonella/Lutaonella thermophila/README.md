@@ -1,5 +1,4 @@
-Lutaonella thermophila Arun, Chen, Lai, Chou, Shen, Rekha & Young, 2009 SPECIES
-=======
+# Lutaonella thermophila Arun, Chen, Lai, Chou, Shen, Rekha & Young, 2009 SPECIES
 
 #### Status
 ACCEPTED

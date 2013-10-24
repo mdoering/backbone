@@ -1,5 +1,4 @@
-Paraparmelia olivetorica T.H. Nash & Elix SPECIES
-=======
+# Paraparmelia olivetorica T.H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

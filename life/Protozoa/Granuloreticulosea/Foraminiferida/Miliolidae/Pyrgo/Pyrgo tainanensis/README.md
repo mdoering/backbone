@@ -1,5 +1,4 @@
-Pyrgo tainanensis (Ishizaki) SPECIES
-=======
+# Pyrgo tainanensis (Ishizaki) SPECIES
 
 #### Status
 ACCEPTED

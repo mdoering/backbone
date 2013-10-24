@@ -1,5 +1,4 @@
-Skoteinospora GENUS
-=======
+# Skoteinospora GENUS
 
 #### Status
 ACCEPTED

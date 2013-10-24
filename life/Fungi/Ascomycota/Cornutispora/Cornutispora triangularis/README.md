@@ -1,5 +1,4 @@
-Cornutispora triangularis Diederich & Etayo, 1995 SPECIES
-=======
+# Cornutispora triangularis Diederich & Etayo, 1995 SPECIES
 
 #### Status
 ACCEPTED

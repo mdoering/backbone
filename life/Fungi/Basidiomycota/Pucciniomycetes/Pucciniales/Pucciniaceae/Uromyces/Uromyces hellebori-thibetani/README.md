@@ -1,5 +1,4 @@
-Uromyces hellebori-thibetani J.Y. Zhuang & S.X. Wei, 2003 SPECIES
-=======
+# Uromyces hellebori-thibetani J.Y. Zhuang & S.X. Wei, 2003 SPECIES
 
 #### Status
 ACCEPTED

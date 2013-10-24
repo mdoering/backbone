@@ -1,17 +1,16 @@
-Peziza fascicularis var. fascicularis VARIETY
-=======
+# Peziza fascicularis ß corylina Wahlenb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Consp. fung. (Leipzig) 315 (1805)
 
 #### Original name
-null
+Peziza fascicularis ß corylina Wahlenb.
 
 ### Remarks
 null

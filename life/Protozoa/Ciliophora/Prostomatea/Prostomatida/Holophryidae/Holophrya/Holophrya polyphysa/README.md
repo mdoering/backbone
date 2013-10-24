@@ -1,5 +1,4 @@
-Holophrya polyphysa Schmarda, 1854 SPECIES
-=======
+# Holophrya polyphysa Schmarda, 1854 SPECIES
 
 #### Status
 ACCEPTED

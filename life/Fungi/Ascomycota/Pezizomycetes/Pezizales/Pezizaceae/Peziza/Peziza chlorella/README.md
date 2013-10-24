@@ -1,5 +1,4 @@
-Peziza chlorella Saut. SPECIES
-=======
+# Peziza chlorella Saut. SPECIES
 
 #### Status
 ACCEPTED

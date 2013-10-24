@@ -1,5 +1,4 @@
-Polykyrtos Pascher, 1939 GENUS
-=======
+# Polykyrtos Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

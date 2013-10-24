@@ -1,5 +1,4 @@
-Lecidea conspirans Nyl. SPECIES
-=======
+# Lecidea conspirans Nyl. SPECIES
 
 #### Status
 ACCEPTED

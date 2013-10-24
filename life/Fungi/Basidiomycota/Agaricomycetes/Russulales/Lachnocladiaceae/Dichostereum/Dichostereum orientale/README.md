@@ -1,5 +1,4 @@
-Dichostereum orientale Boidin & Lanq., 1981 SPECIES
-=======
+# Dichostereum orientale Boidin & Lanq., 1981 SPECIES
 
 #### Status
 ACCEPTED

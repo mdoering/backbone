@@ -1,5 +1,4 @@
-Leptothyrium pamparum Speg. SPECIES
-=======
+# Leptothyrium pamparum Speg. SPECIES
 
 #### Status
 ACCEPTED

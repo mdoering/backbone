@@ -1,5 +1,4 @@
-Guggenheimella Wyss, Dewhirst, Paster, Thurnheer & Luginbühl, 2005 GENUS
-=======
+# Guggenheimella Wyss, Dewhirst, Paster, Thurnheer & Luginbühl, 2005 GENUS
 
 #### Status
 ACCEPTED

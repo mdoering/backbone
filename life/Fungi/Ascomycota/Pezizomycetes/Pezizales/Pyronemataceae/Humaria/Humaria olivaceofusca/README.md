@@ -1,5 +1,4 @@
-Humaria olivaceofusca Rehm SPECIES
-=======
+# Humaria olivaceofusca Rehm SPECIES
 
 #### Status
 ACCEPTED

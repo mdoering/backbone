@@ -1,5 +1,4 @@
-Dermatocarpon terrigenum (Zschacke) Lettau SPECIES
-=======
+# Dermatocarpon terrigenum (Zschacke) Lettau SPECIES
 
 #### Status
 ACCEPTED

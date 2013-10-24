@@ -1,5 +1,4 @@
-Lasmeniella ficina (Syd.) Syd. SPECIES
-=======
+# Lasmeniella ficina (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyophyllum piceum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum piceum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ragnhildiana levieri (Magnus) Vassiljevsky, 1937 SPECIES
-=======
+# Phaeoramularia levieri (Magnus) U. Braun, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Imperfecti Parasitici (Hyphomycetes) 373 (1937)
+in Braun & Mel'nik, Trudy Botanicheskogo Instituta im. V. L. Komarova 20: 68 (1997)
 
 #### Original name
 Fusicladium levieri Magnus, 1900

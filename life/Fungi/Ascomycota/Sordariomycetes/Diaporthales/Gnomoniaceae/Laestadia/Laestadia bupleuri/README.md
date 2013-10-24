@@ -1,5 +1,4 @@
-Laestadia bupleuri (Durieu & Mont.) Sacc. SPECIES
-=======
+# Laestadia bupleuri (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

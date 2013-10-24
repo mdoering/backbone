@@ -1,5 +1,4 @@
-Gloeopeziza ugandensis Hansf. SPECIES
-=======
+# Gloeopeziza ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

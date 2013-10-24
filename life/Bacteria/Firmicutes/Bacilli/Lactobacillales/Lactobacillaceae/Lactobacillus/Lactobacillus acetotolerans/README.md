@@ -1,5 +1,4 @@
-Lactobacillus acetotolerans Entani et al., 1986 SPECIES
-=======
+# Lactobacillus acetotolerans Entani et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

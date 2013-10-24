@@ -1,5 +1,4 @@
-Merulius ferrugineus Pers. SPECIES
-=======
+# Merulius ferrugineus Pers. SPECIES
 
 #### Status
 ACCEPTED

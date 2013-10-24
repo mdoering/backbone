@@ -1,5 +1,4 @@
-Caloplacopsis australis (Arnold) Szatala SPECIES
-=======
+# Caloplacopsis australis (Arnold) Szatala SPECIES
 
 #### Status
 ACCEPTED

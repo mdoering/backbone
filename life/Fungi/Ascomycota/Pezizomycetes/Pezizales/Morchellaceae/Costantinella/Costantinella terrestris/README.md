@@ -1,17 +1,16 @@
-Pachybasium tillettei (Desm.) Oudem., 1886 SPECIES
-=======
+# Costantinella terrestris (Link) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ned. kruidk. Archf, 2 sér. 4: 536 (1886)
+Can. J. Bot. 36: 758 (1958)
 
 #### Original name
-Botrytis tillettei Desm., 1838
+Stachylidium terrestre Link, 1809
 
 ### Remarks
 null

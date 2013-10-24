@@ -1,5 +1,4 @@
-Anthostomella colligata K.D. Hyde & B.S. Lu, 2000 SPECIES
-=======
+# Anthostomella colligata K.D. Hyde & B.S. Lu, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces poae-alpinae Rytz SPECIES
-=======
+# Uromyces poae-alpinae Rytz SPECIES
 
 #### Status
 ACCEPTED

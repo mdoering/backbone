@@ -1,5 +1,4 @@
-Lojkania platani (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Lojkania platani (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

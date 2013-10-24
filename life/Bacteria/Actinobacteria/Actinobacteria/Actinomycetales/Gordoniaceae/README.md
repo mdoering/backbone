@@ -1,5 +1,4 @@
-Gordoniaceae Rainey, Ward-Rainey & Stackebrandt, 1997 FAMILY
-=======
+# Gordoniaceae Rainey, Ward-Rainey & Stackebrandt, 1997 FAMILY
 
 #### Status
 ACCEPTED

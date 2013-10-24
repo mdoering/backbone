@@ -1,5 +1,4 @@
-Chrysidalis J. Schiller, 1929 GENUS
-=======
+# Chrysidalis J. Schiller, 1929 GENUS
 
 #### Status
 ACCEPTED

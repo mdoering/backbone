@@ -1,5 +1,4 @@
-Semilecanora tilasi (Kullh.) Motyka SPECIES
-=======
+# Semilecanora tilasi (Kullh.) Motyka SPECIES
 
 #### Status
 ACCEPTED

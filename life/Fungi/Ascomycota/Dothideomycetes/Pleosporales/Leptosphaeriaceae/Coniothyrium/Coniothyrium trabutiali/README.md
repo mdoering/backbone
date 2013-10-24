@@ -1,5 +1,4 @@
-Coniothyrium trabutiali SPECIES
-=======
+# Coniothyrium trabutiali SPECIES
 
 #### Status
 ACCEPTED

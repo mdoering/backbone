@@ -1,5 +1,4 @@
-Uvigerinammina Majzon, 1943 GENUS
-=======
+# Uvigerinammina Majzon, 1943 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium blumenaviense Allesch. SPECIES
-=======
+# Coniosporium blumenaviense Allesch. SPECIES
 
 #### Status
 ACCEPTED

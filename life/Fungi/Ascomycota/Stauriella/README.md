@@ -1,5 +1,4 @@
-Stauriella Sivichai & E.B.G. Jones GENUS
-=======
+# Stauriella Sivichai & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

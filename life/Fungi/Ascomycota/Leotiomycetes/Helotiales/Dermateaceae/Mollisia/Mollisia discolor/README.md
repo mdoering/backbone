@@ -1,17 +1,16 @@
-Mollisia discolor var. discolor VARIETY
-=======
+# Mollisia discolor (Mont.) W. Phillips, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Man. Brit. Discomyc. (London) 175 (1887)
 
 #### Original name
-Mollisia discolor var. discolor
+null
 
 ### Remarks
 null

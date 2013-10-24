@@ -1,14 +1,13 @@
-Discothecium squamarioides (Mudd) Keissl. SPECIES
-=======
+# Polycoccum squamarioides (Mudd) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig) 8: 403 (1930)
+Flora, Jena 57: 174 (1874)
 
 #### Original name
 Sphaeria squamarioides Mudd

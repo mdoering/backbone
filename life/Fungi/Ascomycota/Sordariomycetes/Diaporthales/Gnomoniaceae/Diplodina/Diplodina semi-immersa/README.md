@@ -1,5 +1,4 @@
-Diplodina semi-immersa P. Karst. & Har., 1890 SPECIES
-=======
+# Diplodina semi-immersa P. Karst. & Har., 1890 SPECIES
 
 #### Status
 ACCEPTED

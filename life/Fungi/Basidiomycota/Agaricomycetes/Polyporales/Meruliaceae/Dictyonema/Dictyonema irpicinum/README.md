@@ -1,17 +1,16 @@
-Rhipidonema irpicinum f. irpicinum FORM
-=======
+# Dictyonema irpicinum Mont., 1848 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 689 (1888)
+Annls Sci. Nat. , Bot. , sér. 3 10: 119 (1848)
 
 #### Original name
-Rhipidonema irpicinum f. irpicinum
+Dictyonema irpicinum Mont., 1848
 
 ### Remarks
 null

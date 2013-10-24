@@ -1,5 +1,4 @@
-Porina lucida R. Sant., 1952 SPECIES
-=======
+# Porina lucida R. Sant., 1952 SPECIES
 
 #### Status
 DOUBTFUL

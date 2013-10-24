@@ -1,5 +1,4 @@
-Pleospora alpestris Ellis & Everh. SPECIES
-=======
+# Pleospora alpestris Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

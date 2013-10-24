@@ -1,5 +1,4 @@
-Diplodina mahoniae Hollós SPECIES
-=======
+# Diplodina mahoniae Hollós SPECIES
 
 #### Status
 ACCEPTED

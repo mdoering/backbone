@@ -1,5 +1,4 @@
-Lactarius congolensis Beeli SPECIES
-=======
+# Lactarius congolensis Beeli SPECIES
 
 #### Status
 ACCEPTED

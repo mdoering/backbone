@@ -1,5 +1,4 @@
-Saprophilus putrinus Kahl, 1926 SPECIES
-=======
+# Saprophilus putrinus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

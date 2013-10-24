@@ -1,5 +1,4 @@
-Rhachomyces beronii W. Rossi SPECIES
-=======
+# Rhachomyces beronii W. Rossi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces polychromogenes Hagemann et al., 1964 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces polychromogenes Hagemann et al., 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

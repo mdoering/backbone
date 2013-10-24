@@ -1,8 +1,7 @@
-Boletus erythroteron Bezdek SPECIES
-=======
+# Boletus erythrentheron Bezdek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus erythroteron Bezdek
+Boletus erythrentheron Bezdek
 
 ### Remarks
 null

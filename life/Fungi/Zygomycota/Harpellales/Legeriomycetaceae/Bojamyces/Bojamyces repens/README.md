@@ -1,5 +1,4 @@
-Bojamyces repens Longcore, 1989 SPECIES
-=======
+# Bojamyces repens Longcore, 1989 SPECIES
 
 #### Status
 ACCEPTED

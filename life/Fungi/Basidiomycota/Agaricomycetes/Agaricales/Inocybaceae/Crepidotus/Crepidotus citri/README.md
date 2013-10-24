@@ -1,5 +1,4 @@
-Crepidotus citri Pat. SPECIES
-=======
+# Crepidotus citri Pat. SPECIES
 
 #### Status
 ACCEPTED

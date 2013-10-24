@@ -1,5 +1,4 @@
-Triceratium quinqueguttatum Grunow SPECIES
-=======
+# Triceratium quinqueguttatum Grunow SPECIES
 
 #### Status
 ACCEPTED

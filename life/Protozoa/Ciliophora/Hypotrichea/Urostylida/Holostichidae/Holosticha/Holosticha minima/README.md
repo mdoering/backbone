@@ -1,5 +1,4 @@
-Holosticha minima SPECIES
-=======
+# Holosticha minima SPECIES
 
 #### Status
 ACCEPTED

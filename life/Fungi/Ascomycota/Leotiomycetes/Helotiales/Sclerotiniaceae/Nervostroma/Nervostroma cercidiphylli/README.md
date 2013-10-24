@@ -1,5 +1,4 @@
-Nervostroma cercidiphylli Narumi & Y. Harada, 2006 SPECIES
-=======
+# Nervostroma cercidiphylli Narumi & Y. Harada, 2006 SPECIES
 
 #### Status
 ACCEPTED

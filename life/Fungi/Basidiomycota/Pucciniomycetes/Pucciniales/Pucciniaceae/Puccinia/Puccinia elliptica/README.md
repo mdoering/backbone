@@ -1,5 +1,4 @@
-Puccinia elliptica Lindr. SPECIES
-=======
+# Puccinia elliptica Lindr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physarum cremiluteum Y.F. Chen & C.H. Liu, 1998 SPECIES
-=======
+# Physarum cremiluteum Y.F. Chen & C.H. Liu, 1998 SPECIES
 
 #### Status
 ACCEPTED

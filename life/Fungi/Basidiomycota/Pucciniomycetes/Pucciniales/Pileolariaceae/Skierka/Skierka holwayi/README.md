@@ -1,5 +1,4 @@
-Skierka holwayi Arthur, 1918 SPECIES
-=======
+# Skierka holwayi Arthur, 1918 SPECIES
 
 #### Status
 ACCEPTED

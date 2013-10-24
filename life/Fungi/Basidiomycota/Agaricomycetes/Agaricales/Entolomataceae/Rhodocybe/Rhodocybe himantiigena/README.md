@@ -1,5 +1,4 @@
-Rhodocybe himantiigena (Speg.) Singer SPECIES
-=======
+# Rhodocybe himantiigena (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

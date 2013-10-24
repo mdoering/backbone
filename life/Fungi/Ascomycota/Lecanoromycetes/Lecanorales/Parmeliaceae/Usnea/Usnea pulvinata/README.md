@@ -1,5 +1,4 @@
-Usnea pulvinata Fr. SPECIES
-=======
+# Usnea pulvinata Fr. SPECIES
 
 #### Status
 ACCEPTED

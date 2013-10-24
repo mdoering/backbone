@@ -1,5 +1,4 @@
-Botrytis leucoxantha Schwein. SPECIES
-=======
+# Botrytis leucoxantha Schwein. SPECIES
 
 #### Status
 ACCEPTED

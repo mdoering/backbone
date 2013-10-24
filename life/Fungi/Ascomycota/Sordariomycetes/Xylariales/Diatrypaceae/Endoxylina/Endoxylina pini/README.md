@@ -1,5 +1,4 @@
-Endoxylina pini Sivan., 1977 SPECIES
-=======
+# Endoxylina pini Sivan., 1977 SPECIES
 
 #### Status
 ACCEPTED

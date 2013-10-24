@@ -1,5 +1,4 @@
-Ceratocorys allenii Osoria Tafall, 1942 SPECIES
-=======
+# Ceratocorys allenii Osoria Tafall, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hutchinsiae Dietel SPECIES
-=======
+# Puccinia hutchinsiae Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexagonia micropora Murrill SPECIES
-=======
+# Hexagonia micropora Murrill SPECIES
 
 #### Status
 ACCEPTED

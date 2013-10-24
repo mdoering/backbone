@@ -1,5 +1,4 @@
-Coryneliospora Fitzp. GENUS
-=======
+# Coryneliospora Fitzp. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyporus tigertianus (Murrill) Murrill, 1943 SPECIES
-=======
+# Tyromyces humeana (Murrill) J. Lowe, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 6: 228 (1943)
+Mycotaxon 2(1): 25 (1975)
 
 #### Original name
-Tyromyces tigertianus Murrill, 1943
+Trametes humeana Murrill, 1938
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lepiota pungens Berk. & Broome SPECIES
-=======
+# Lepiota pungens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

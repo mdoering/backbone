@@ -1,5 +1,4 @@
-Ascochyta ebuli Fuckel SPECIES
-=======
+# Ascochyta ebuli Fuckel SPECIES
 
 #### Status
 ACCEPTED

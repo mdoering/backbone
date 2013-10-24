@@ -1,5 +1,4 @@
-Cortinarius orichalceolens Rob. Henry SPECIES
-=======
+# Cortinarius orichalceolens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

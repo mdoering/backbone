@@ -1,5 +1,4 @@
-Amphoridium huxarense (Zschacke) Servít SPECIES
-=======
+# Amphoridium huxarense (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

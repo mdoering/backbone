@@ -1,5 +1,4 @@
-Halophilodinium gessneri (Schiller) A. R. Loeblich Jr. & A. R. Loeblich Iii SPECIES
-=======
+# Halophilodinium gessneri (Schiller) A. R. Loeblich Jr. & A. R. Loeblich Iii SPECIES
 
 #### Status
 ACCEPTED

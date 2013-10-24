@@ -1,5 +1,4 @@
-Vulvulina d’Orbigny, 1826 GENUS
-=======
+# Vulvulina d’Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

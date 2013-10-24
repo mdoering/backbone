@@ -1,5 +1,4 @@
-Guignardia oxyriae (Rostr.) P. Larsen SPECIES
-=======
+# Guignardia oxyriae (Rostr.) P. Larsen SPECIES
 
 #### Status
 ACCEPTED

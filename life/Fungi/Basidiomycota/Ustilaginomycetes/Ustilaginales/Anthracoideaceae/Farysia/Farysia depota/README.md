@@ -1,5 +1,4 @@
-Farysia depota Cif. SPECIES
-=======
+# Farysia depota Cif. SPECIES
 
 #### Status
 ACCEPTED

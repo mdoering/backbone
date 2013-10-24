@@ -1,5 +1,4 @@
-Merulius himantioides SPECIES
-=======
+# Merulius himantioides SPECIES
 
 #### Status
 ACCEPTED

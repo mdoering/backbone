@@ -1,5 +1,4 @@
-Microsporonites K.P. Jain GENUS
-=======
+# Microsporonites K.P. Jain GENUS
 
 #### Status
 ACCEPTED

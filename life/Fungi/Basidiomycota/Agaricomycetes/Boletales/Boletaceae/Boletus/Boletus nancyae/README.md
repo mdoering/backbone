@@ -1,5 +1,4 @@
-Boletus nancyae A.H. Sm. & Thiers SPECIES
-=======
+# Boletus nancyae A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

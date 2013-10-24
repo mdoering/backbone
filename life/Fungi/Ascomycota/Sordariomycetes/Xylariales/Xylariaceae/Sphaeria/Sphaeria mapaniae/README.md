@@ -1,5 +1,4 @@
-Sphaeria mapaniae Schwein. SPECIES
-=======
+# Sphaeria mapaniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

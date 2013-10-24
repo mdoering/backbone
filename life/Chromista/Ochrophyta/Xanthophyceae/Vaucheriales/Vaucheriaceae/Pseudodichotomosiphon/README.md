@@ -1,5 +1,4 @@
-Pseudodichotomosiphon Yamada, 1934 GENUS
-=======
+# Pseudodichotomosiphon Yamada, 1934 GENUS
 
 #### Status
 ACCEPTED

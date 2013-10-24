@@ -1,5 +1,4 @@
-Parmelia hypoleia var. hypoleia VARIETY
-=======
+# Parmelia hypoleia SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syn. meth. lich. 1: 393 (1860)
+null
 
 #### Original name
-Parmelia hypoleia var. hypoleia
+null
 
 ### Remarks
 null

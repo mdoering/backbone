@@ -1,5 +1,4 @@
-Parmelia rubescens (Th. Fr.) Vain. SPECIES
-=======
+# Parmelia rubescens (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

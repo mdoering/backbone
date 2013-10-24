@@ -1,5 +1,4 @@
-Micromarsupium Deflandre, 1934 GENUS
-=======
+# Micromarsupium Deflandre, 1934 GENUS
 
 #### Status
 ACCEPTED

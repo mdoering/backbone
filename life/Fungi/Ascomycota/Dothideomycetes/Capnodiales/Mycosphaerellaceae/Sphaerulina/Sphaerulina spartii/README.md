@@ -1,5 +1,4 @@
-Sphaerulina spartii Höhn. SPECIES
-=======
+# Sphaerulina spartii Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomella rhaphiostylidis Hansf. SPECIES
-=======
+# Asterostomella rhaphiostylidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrilia Lainson, 1981 GENUS
-=======
+# Cyrilia Lainson, 1981 GENUS
 
 #### Status
 ACCEPTED

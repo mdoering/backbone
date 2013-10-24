@@ -1,5 +1,4 @@
-Entyloma hypochaeridis Speg. SPECIES
-=======
+# Entyloma hypochaeridis Speg. SPECIES
 
 #### Status
 ACCEPTED

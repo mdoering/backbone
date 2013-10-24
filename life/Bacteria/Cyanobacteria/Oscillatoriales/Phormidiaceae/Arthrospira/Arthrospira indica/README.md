@@ -1,5 +1,4 @@
-Arthrospira indica T. V. Desikachari & N. Jeeji Bai SPECIES
-=======
+# Arthrospira indica T. V. Desikachari & N. Jeeji Bai SPECIES
 
 #### Status
 ACCEPTED

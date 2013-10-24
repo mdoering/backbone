@@ -1,5 +1,4 @@
-Compsosporiella deightonii Sankaran & B. Sutton SPECIES
-=======
+# Compsosporiella deightonii Sankaran & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

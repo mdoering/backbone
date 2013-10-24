@@ -1,5 +1,4 @@
-Erniella filiformis Foissner, 1987 SPECIES
-=======
+# Erniella filiformis Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

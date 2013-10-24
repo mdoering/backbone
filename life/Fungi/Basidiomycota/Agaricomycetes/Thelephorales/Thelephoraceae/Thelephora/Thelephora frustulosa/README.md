@@ -1,5 +1,4 @@
-Thelephora frustulosa Berk. & M.A. Curtis SPECIES
-=======
+# Thelephora frustulosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

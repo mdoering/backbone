@@ -1,5 +1,4 @@
-Acanthothecium mirabile Speg. SPECIES
-=======
+# Acanthothecium mirabile Speg. SPECIES
 
 #### Status
 ACCEPTED

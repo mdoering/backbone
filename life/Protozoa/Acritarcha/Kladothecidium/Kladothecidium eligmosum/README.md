@@ -1,5 +1,4 @@
-Kladothecidium eligmosum (Vavrdová, 1973) Vavrdová, 1986 SPECIES
-=======
+# Kladothecidium eligmosum (Vavrdová, 1973) Vavrdová, 1986 SPECIES
 
 #### Status
 ACCEPTED

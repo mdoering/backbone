@@ -1,5 +1,4 @@
-Mycovellosiella clausenae Tak. Kobay., Manohar. & Wahyuno SPECIES
-=======
+# Mycovellosiella clausenae Tak. Kobay., Manohar. & Wahyuno SPECIES
 
 #### Status
 ACCEPTED

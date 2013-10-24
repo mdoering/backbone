@@ -1,5 +1,4 @@
-Parafavella tenuis (Schulz & Wulff, 1929) SPECIES
-=======
+# Parafavella tenuis (Schulz & Wulff, 1929) SPECIES
 
 #### Status
 ACCEPTED

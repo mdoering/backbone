@@ -1,5 +1,4 @@
-Pholiota aschersoniana Henn. & Ruhland SPECIES
-=======
+# Pholiota aschersoniana Henn. & Ruhland SPECIES
 
 #### Status
 ACCEPTED

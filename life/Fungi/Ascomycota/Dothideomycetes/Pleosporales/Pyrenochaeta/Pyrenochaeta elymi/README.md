@@ -1,5 +1,4 @@
-Pyrenochaeta elymi R. Sprague SPECIES
-=======
+# Pyrenochaeta elymi R. Sprague SPECIES
 
 #### Status
 ACCEPTED

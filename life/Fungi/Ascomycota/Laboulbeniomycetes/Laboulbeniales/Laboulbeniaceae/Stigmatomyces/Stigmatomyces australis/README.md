@@ -1,5 +1,4 @@
-Stigmatomyces australis M.B. Hughes, A. Weir, Gillen & W. Rossi, 2004 SPECIES
-=======
+# Stigmatomyces australis M.B. Hughes, A. Weir, Gillen & W. Rossi, 2004 SPECIES
 
 #### Status
 ACCEPTED

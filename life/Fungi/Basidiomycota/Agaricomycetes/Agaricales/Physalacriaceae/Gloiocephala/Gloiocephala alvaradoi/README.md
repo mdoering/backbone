@@ -1,5 +1,4 @@
-Gloiocephala alvaradoi Singer SPECIES
-=======
+# Gloiocephala alvaradoi Singer SPECIES
 
 #### Status
 ACCEPTED

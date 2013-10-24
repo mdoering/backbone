@@ -1,5 +1,4 @@
-Bulbothrix cassa Jungbluth, Marcelli & Elix SPECIES
-=======
+# Bulbothrix cassa Jungbluth, Marcelli & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tolypothrix limbata Thuret SPECIES
-=======
+# Tolypothrix limbata Thuret SPECIES
 
 #### Status
 ACCEPTED

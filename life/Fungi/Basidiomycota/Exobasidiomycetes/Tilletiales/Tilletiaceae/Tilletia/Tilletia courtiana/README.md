@@ -1,5 +1,4 @@
-Tilletia courtiana Har. & Pat. SPECIES
-=======
+# Tilletia courtiana Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

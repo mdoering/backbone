@@ -1,14 +1,13 @@
-Aposphaeria glomerata (Corda) Sacc., 1884 SPECIES
-=======
+# Phoma glomerata (Corda) Wollenw. & Hochapfel, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 175 (1884)
+Z. ParasitKde 3(5): 592 (1936)
 
 #### Original name
 Coniothyrium glomeratum Corda, 1840

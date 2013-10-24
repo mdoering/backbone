@@ -1,5 +1,4 @@
-Ascophanus zamurensis (Pat. & Gaillard) Svrcek SPECIES
-=======
+# Ascophanus zamurensis (Pat. & Gaillard) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplotomma heppianum SPECIES
-=======
+# Diplotomma heppianum SPECIES
 
 #### Status
 ACCEPTED

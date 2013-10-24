@@ -1,5 +1,4 @@
-Thalassiosira sackettii G.A. Fryxell, 1977 SPECIES
-=======
+# Thalassiosira sackettii G.A. Fryxell, 1977 SPECIES
 
 #### Status
 ACCEPTED

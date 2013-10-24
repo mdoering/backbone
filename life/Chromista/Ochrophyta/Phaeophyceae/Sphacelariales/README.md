@@ -1,5 +1,4 @@
-Sphacelariales Migula, 1909 ORDER
-=======
+# Sphacelariales Migula, 1909 ORDER
 
 #### Status
 ACCEPTED

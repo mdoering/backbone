@@ -1,5 +1,4 @@
-Cryptostictis daviesiae (McAlpine) Subram. & K. Ramakr. SPECIES
-=======
+# Cryptostictis daviesiae (McAlpine) Subram. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

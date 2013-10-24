@@ -1,5 +1,4 @@
-Tuberculariella GENUS
-=======
+# Tuberculariella GENUS
 
 #### Status
 ACCEPTED

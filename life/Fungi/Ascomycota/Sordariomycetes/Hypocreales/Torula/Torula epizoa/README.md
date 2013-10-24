@@ -1,5 +1,4 @@
-Torula epizoa SPECIES
-=======
+# Torula epizoa SPECIES
 
 #### Status
 ACCEPTED

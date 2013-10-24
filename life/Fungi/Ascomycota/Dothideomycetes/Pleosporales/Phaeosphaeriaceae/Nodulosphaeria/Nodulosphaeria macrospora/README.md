@@ -1,5 +1,4 @@
-Nodulosphaeria macrospora Morthier SPECIES
-=======
+# Nodulosphaeria macrospora Morthier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophyllum centranthi-rubri Poir., 1902 SPECIES
-=======
+# Endophyllum centranthi-rubri Poir., 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastobotrys adeninivorans (Middelhoven, Hoogk.-Te Niet & Kreger-van Rij) Kurtzman & Robnett, 2007 SPECIES
-=======
+# Blastobotrys adeninivorans (Middelhoven, Hoogk.-Te Niet & Kreger-van Rij) Kurtzman & Robnett, 2007 SPECIES
 
 #### Status
 ACCEPTED

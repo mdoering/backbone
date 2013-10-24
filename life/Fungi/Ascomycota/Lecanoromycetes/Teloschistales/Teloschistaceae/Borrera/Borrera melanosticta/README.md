@@ -1,5 +1,4 @@
-Borrera melanosticta SPECIES
-=======
+# Borrera melanosticta SPECIES
 
 #### Status
 ACCEPTED

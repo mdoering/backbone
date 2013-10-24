@@ -1,5 +1,4 @@
-Inocybe claviceps (Fr.) P. Karst. SPECIES
-=======
+# Inocybe claviceps (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria filicina Müll. Arg. SPECIES
-=======
+# Patellaria filicina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

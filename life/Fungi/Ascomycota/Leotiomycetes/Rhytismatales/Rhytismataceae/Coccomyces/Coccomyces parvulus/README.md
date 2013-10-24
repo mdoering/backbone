@@ -1,5 +1,4 @@
-Coccomyces parvulus Sherwood, 1980 SPECIES
-=======
+# Coccomyces parvulus Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

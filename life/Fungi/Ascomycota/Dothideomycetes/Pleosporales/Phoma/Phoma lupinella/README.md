@@ -1,5 +1,4 @@
-Phoma lupinella Sacc., 1914 SPECIES
-=======
+# Phoma lupinella Sacc., 1914 SPECIES
 
 #### Status
 ACCEPTED

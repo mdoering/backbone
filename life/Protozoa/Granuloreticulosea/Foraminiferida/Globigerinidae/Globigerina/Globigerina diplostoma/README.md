@@ -1,5 +1,4 @@
-Globigerina diplostoma Reuss SPECIES
-=======
+# Globigerina diplostoma Reuss SPECIES
 
 #### Status
 ACCEPTED

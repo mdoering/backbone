@@ -1,5 +1,4 @@
-Trypethelium regnellii Malme SPECIES
-=======
+# Trypethelium regnellii Malme SPECIES
 
 #### Status
 ACCEPTED

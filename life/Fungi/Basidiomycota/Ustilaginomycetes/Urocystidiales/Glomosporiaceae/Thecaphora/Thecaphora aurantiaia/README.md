@@ -1,5 +1,4 @@
-Thecaphora aurantiaia SPECIES
-=======
+# Thecaphora aurantiaia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea duriuscula Motyka ex Linder SPECIES
-=======
+# Usnea duriuscula Motyka ex Linder SPECIES
 
 #### Status
 ACCEPTED

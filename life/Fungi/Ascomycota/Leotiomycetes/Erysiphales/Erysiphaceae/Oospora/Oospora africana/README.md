@@ -1,5 +1,4 @@
-Oospora africana J.F.H. Beyma SPECIES
-=======
+# Oospora africana J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

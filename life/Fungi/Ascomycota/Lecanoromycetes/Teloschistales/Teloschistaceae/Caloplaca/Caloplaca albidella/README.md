@@ -1,5 +1,4 @@
-Caloplaca albidella (Tuck.) Zahlbr. SPECIES
-=======
+# Caloplaca albidella (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

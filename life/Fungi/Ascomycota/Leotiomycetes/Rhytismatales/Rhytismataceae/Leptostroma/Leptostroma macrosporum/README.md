@@ -1,5 +1,4 @@
-Leptostroma macrosporum Teng SPECIES
-=======
+# Leptostroma macrosporum Teng SPECIES
 
 #### Status
 ACCEPTED

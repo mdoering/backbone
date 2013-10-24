@@ -1,5 +1,4 @@
-Amorphomyces stipitatus Thaxt., 1931 SPECIES
-=======
+# Amorphomyces stipitatus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

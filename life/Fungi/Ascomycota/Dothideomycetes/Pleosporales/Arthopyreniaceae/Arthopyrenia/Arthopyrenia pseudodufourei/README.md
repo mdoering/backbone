@@ -1,5 +1,4 @@
-Arthopyrenia pseudodufourei (Garov.) H. Olivier SPECIES
-=======
+# Arthopyrenia pseudodufourei (Garov.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

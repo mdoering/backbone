@@ -1,5 +1,4 @@
-Psilocybe cernua SPECIES
-=======
+# Psilocybe cernua SPECIES
 
 #### Status
 ACCEPTED

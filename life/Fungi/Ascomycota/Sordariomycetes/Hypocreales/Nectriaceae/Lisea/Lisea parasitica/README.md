@@ -1,5 +1,4 @@
-Lisea parasitica Rick SPECIES
-=======
+# Lisea parasitica Rick SPECIES
 
 #### Status
 ACCEPTED

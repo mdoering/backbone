@@ -1,5 +1,4 @@
-Canninginopsis denticulata Cookson & Eisenack, 1962 SPECIES
-=======
+# Canninginopsis denticulata Cookson & Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

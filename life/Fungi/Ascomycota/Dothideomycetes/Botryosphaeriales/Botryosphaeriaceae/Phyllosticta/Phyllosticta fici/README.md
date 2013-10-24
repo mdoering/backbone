@@ -1,5 +1,4 @@
-Phyllosticta fici Bres. SPECIES
-=======
+# Phyllosticta fici Bres. SPECIES
 
 #### Status
 ACCEPTED

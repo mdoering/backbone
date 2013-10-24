@@ -1,5 +1,4 @@
-Tuberculina flavogranulata Dearn. & Barthol. SPECIES
-=======
+# Tuberculina flavogranulata Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

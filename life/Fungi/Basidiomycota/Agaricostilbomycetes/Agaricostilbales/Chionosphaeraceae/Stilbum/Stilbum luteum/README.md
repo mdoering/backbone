@@ -1,5 +1,4 @@
-Stilbum luteum Alb. & Schwein. SPECIES
-=======
+# Stilbum luteum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

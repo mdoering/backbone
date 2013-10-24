@@ -1,5 +1,4 @@
-Camillea punctidisca (J.D. Rogers) Laessøe, J.D. Rogers & Whalley SPECIES
-=======
+# Camillea punctidisca (J.D. Rogers) Laessøe, J.D. Rogers & Whalley SPECIES
 
 #### Status
 ACCEPTED

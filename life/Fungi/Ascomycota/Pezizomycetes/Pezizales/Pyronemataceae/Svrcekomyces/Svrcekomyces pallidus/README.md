@@ -1,14 +1,13 @@
-Sowerbyella pallida (Spooner) J. Moravec, 1985 SPECIES
-=======
+# Svrcekomyces pallidus Spooner, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. helv. 1(6): 431 (1985)
+Trans. Br. mycol. Soc. 76(2): 298 (1981)
 
 #### Original name
 Svrcekomyces pallidus Spooner, 1981

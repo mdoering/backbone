@@ -1,5 +1,4 @@
-Biatorina vesicularis (Hoffm.) SPECIES
-=======
+# Biatorina vesicularis (Hoffm.) SPECIES
 
 #### Status
 ACCEPTED

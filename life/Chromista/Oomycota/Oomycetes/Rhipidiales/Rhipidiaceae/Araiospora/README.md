@@ -1,5 +1,4 @@
-Araiospora Thaxt. GENUS
-=======
+# Araiospora Thaxt. GENUS
 
 #### Status
 ACCEPTED

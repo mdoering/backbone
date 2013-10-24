@@ -1,5 +1,4 @@
-Sporidesmium longipedicellatum Reichert SPECIES
-=======
+# Sporidesmium longipedicellatum Reichert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium cantareirense Henn. SPECIES
-=======
+# Microthyrium cantareirense Henn. SPECIES
 
 #### Status
 ACCEPTED

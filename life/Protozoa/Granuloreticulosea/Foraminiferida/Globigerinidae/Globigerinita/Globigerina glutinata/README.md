@@ -1,5 +1,4 @@
-Globigerina glutinata SPECIES
-=======
+# Globigerina glutinata SPECIES
 
 #### Status
 DOUBTFUL

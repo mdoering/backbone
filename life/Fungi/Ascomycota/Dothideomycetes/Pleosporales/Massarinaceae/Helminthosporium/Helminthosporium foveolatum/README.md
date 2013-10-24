@@ -1,14 +1,13 @@
-Phaeotrichoconis foveolatum (Pat.) Aramb. & Cabello SPECIES
-=======
+# Helminthosporium foveolatum Pat., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Bot. , Paris 5: 321 (1891)
 
 #### Original name
 Helminthosporium foveolatum Pat., 1891

@@ -1,5 +1,4 @@
-Discosiospora ceanothi A.W. Ramaley SPECIES
-=======
+# Discosiospora ceanothi A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

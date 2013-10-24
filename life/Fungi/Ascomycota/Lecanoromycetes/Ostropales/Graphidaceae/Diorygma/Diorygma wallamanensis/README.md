@@ -1,5 +1,4 @@
-Diorygma wallamanensis A.W. Archer & Elix SPECIES
-=======
+# Diorygma wallamanensis A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

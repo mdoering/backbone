@@ -1,5 +1,4 @@
-Clostridium jejuense Jeong et al., 2004 SPECIES
-=======
+# Clostridium jejuense Jeong et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

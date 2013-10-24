@@ -1,5 +1,4 @@
-Hendersonula morbosa Sacc. SPECIES
-=======
+# Hendersonula morbosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

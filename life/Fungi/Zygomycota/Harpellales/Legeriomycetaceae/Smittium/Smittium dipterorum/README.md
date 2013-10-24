@@ -1,5 +1,4 @@
-Smittium dipterorum Lichtw., 1998 SPECIES
-=======
+# Smittium dipterorum Lichtw., 1998 SPECIES
 
 #### Status
 ACCEPTED

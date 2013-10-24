@@ -1,5 +1,4 @@
-Colletotrichum versicolor Sacc. SPECIES
-=======
+# Colletotrichum versicolor Sacc. SPECIES
 
 #### Status
 ACCEPTED

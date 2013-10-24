@@ -1,17 +1,16 @@
-Cystotelium Syd. GENUS
-=======
+# Ravenelia Berkeley, 1853 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19(1/2): 165 (1921)
+Gard. Chron. , 1853 132 (1853)
 
 #### Original name
-Cystotelium Syd.
+Ravenelia Berkeley, 1853
 
 ### Remarks
 null

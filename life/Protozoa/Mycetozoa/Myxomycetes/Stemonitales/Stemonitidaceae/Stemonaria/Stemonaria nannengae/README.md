@@ -1,5 +1,4 @@
-Stemonaria nannengae (T.N. Lakh. & K.G. Mukerji) Nann.-Bremek., R. Sharma & Y. Yamam., 1984 SPECIES
-=======
+# Stemonaria nannengae (T.N. Lakh. & K.G. Mukerji) Nann.-Bremek., R. Sharma & Y. Yamam., 1984 SPECIES
 
 #### Status
 ACCEPTED

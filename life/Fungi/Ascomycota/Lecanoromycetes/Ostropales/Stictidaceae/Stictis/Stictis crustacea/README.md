@@ -1,5 +1,4 @@
-Stictis crustacea (Schwein.) Berk. SPECIES
-=======
+# Stictis crustacea (Schwein.) Berk. SPECIES
 
 #### Status
 ACCEPTED

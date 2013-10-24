@@ -1,5 +1,4 @@
-Psorotichiella Werner GENUS
-=======
+# Psorotichiella Werner GENUS
 
 #### Status
 ACCEPTED

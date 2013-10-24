@@ -1,5 +1,4 @@
-Microthyriolum oligosporum Speg. SPECIES
-=======
+# Microthyriolum oligosporum Speg. SPECIES
 
 #### Status
 ACCEPTED

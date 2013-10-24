@@ -1,17 +1,16 @@
-Lecanactis impolita (Ehrh.) Fr. SPECIES
-=======
+# Arthonia pruinata (Pers.) Steud. ex A.L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Brit. Lich. 2: 214 (1911)
 
 #### Original name
-Lichen impolitus Ehrh.
+Lichen pruinatus Dicks.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius thiersii Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius thiersii Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

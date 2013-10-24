@@ -1,5 +1,4 @@
-Sporodictyon epigaeum (A. Massal.) Trevis. SPECIES
-=======
+# Sporodictyon epigaeum (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

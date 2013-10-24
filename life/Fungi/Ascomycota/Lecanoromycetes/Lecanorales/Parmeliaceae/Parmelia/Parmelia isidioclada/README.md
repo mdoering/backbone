@@ -1,5 +1,4 @@
-Parmelia isidioclada Vain. SPECIES
-=======
+# Parmelia isidioclada Vain. SPECIES
 
 #### Status
 ACCEPTED

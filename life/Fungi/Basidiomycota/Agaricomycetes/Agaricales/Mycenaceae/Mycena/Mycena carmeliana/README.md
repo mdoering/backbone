@@ -1,5 +1,4 @@
-Mycena carmeliana Grgur., 2003 SPECIES
-=======
+# Mycena carmeliana Grgur., 2003 SPECIES
 
 #### Status
 ACCEPTED

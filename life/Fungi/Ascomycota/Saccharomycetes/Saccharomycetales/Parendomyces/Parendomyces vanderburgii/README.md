@@ -1,5 +1,4 @@
-Parendomyces vanderburgii (Kohlbr.) C.W. Dodge SPECIES
-=======
+# Parendomyces vanderburgii (Kohlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

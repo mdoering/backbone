@@ -1,5 +1,4 @@
-Verrucaria fayettensis Servít SPECIES
-=======
+# Verrucaria fayettensis Servít SPECIES
 
 #### Status
 ACCEPTED

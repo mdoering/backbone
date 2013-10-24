@@ -1,5 +1,4 @@
-Phoma valentina Alcalde SPECIES
-=======
+# Phoma valentina Alcalde SPECIES
 
 #### Status
 ACCEPTED

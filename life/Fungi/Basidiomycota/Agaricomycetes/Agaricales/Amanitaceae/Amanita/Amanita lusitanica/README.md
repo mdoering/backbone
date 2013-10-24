@@ -1,5 +1,4 @@
-Amanita lusitanica Torrend SPECIES
-=======
+# Amanita lusitanica Torrend SPECIES
 
 #### Status
 ACCEPTED

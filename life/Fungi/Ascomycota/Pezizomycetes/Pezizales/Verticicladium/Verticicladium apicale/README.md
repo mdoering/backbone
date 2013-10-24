@@ -1,14 +1,13 @@
-Verticillium apicale Berk. & Broome, 1851 SPECIES
-=======
+# Verticicladium apicale (Berk. & Broome) Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 7: 101 (1851)
+Syll. fung. (Abellini) 4: 328 (1886)
 
 #### Original name
 Verticillium apicale Berk. & Broome, 1851

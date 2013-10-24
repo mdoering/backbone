@@ -1,5 +1,4 @@
-Hypophyllum scissum Paulet SPECIES
-=======
+# Hypophyllum scissum Paulet SPECIES
 
 #### Status
 ACCEPTED

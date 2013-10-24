@@ -1,14 +1,13 @@
-Graphium cavipes (Oudem.) Sacc. SPECIES
-=======
+# Coelographium cavipes (Oudem.) Gäum., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 619 (1886)
+Bull. Jard. Bot. Buitenz, 3 Sér. (1920)
 
 #### Original name
 null

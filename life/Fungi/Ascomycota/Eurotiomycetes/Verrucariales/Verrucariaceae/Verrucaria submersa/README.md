@@ -1,5 +1,4 @@
-Verrucaria submersa Schaer. SPECIES
-=======
+# Verrucaria submersa Schaer. SPECIES
 
 #### Status
 ACCEPTED

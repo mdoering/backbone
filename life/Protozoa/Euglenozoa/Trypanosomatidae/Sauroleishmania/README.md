@@ -1,5 +1,4 @@
-Sauroleishmania Ranque, 1973 GENUS
-=======
+# Sauroleishmania Ranque, 1973 GENUS
 
 #### Status
 ACCEPTED

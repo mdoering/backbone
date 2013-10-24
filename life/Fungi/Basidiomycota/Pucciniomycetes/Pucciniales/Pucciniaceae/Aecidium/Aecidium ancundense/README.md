@@ -1,5 +1,4 @@
-Aecidium ancundense Speg. SPECIES
-=======
+# Aecidium ancundense Speg. SPECIES
 
 #### Status
 ACCEPTED

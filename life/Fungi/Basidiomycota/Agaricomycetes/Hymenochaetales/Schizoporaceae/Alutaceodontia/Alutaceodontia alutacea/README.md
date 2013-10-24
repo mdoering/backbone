@@ -1,17 +1,16 @@
-Hyphodontia alutacea f. alutacea FORM
-=======
+# Alutaceodontia alutacea (Fr.) Hjortstam & Ryvarden, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 16(no. 1): 104 (1958)
+Syn. Fung. (Oslo) 15: 8 (2002)
 
 #### Original name
-Hyphodontia alutacea f. alutacea
+Hydnum alutaceum Fr., 1821
 
 ### Remarks
 null

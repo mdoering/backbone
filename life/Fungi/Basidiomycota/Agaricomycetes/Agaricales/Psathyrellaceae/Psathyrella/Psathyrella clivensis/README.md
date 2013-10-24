@@ -1,14 +1,13 @@
-Psilocybe clivensis (Berk. & Broome) Sacc., 1887 SPECIES
-=======
+# Psathyrella clivensis (Berk. & Broome) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. Fung. -Fl. 1: 378 (1887)
+Trans. Br. mycol. Soc. 43: 369 (1960)
 
 #### Original name
 Agaricus clivensis Berk. & Broome, 1861

@@ -1,5 +1,4 @@
-Chaetoceros pseudocrinitus Ostenfeld, 1901 SPECIES
-=======
+# Chaetoceros pseudocrinitus Ostenfeld, 1901 SPECIES
 
 #### Status
 ACCEPTED

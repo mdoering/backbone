@@ -1,5 +1,4 @@
-Peronospora debaryi E.S. Salmon & Ware, 1929 SPECIES
-=======
+# Peronospora debaryi E.S. Salmon & Ware, 1929 SPECIES
 
 #### Status
 ACCEPTED

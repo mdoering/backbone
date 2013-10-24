@@ -1,5 +1,4 @@
-Hebeloma atrosanguineum Massee & Rodway SPECIES
-=======
+# Hebeloma atrosanguineum Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

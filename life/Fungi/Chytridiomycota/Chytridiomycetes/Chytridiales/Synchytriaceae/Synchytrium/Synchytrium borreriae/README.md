@@ -1,5 +1,4 @@
-Synchytrium borreriae Lacy SPECIES
-=======
+# Synchytrium borreriae Lacy SPECIES
 
 #### Status
 ACCEPTED

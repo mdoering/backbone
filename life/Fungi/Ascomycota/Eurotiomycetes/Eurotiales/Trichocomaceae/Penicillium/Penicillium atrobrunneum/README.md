@@ -1,5 +1,4 @@
-Penicillium atrobrunneum Cooke SPECIES
-=======
+# Penicillium atrobrunneum Cooke SPECIES
 
 #### Status
 ACCEPTED

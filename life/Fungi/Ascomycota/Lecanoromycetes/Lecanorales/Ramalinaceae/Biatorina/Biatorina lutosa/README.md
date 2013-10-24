@@ -1,5 +1,4 @@
-Biatorina lutosa (A. Massal.) Jatta SPECIES
-=======
+# Biatorina lutosa (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

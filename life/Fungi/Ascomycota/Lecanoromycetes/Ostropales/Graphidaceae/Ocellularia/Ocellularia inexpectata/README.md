@@ -1,5 +1,4 @@
-Ocellularia inexpectata Nagarkar & Hale SPECIES
-=======
+# Ocellularia inexpectata Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

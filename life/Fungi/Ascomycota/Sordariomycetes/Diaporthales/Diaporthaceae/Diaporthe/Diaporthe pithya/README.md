@@ -1,5 +1,4 @@
-Diaporthe pithya Sacc., 1875 SPECIES
-=======
+# Diaporthe pithya Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED

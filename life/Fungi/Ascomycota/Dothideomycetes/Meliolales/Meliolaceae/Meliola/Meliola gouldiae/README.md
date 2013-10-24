@@ -1,5 +1,4 @@
-Meliola gouldiae Hansf. SPECIES
-=======
+# Meliola gouldiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clisosporium paradoxum (Brunaud) Kuntze SPECIES
-=======
+# Clisosporium paradoxum (Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

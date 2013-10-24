@@ -1,5 +1,4 @@
-Lycoperdon tuber L. SPECIES
-=======
+# Lycoperdon tuber L. SPECIES
 
 #### Status
 ACCEPTED

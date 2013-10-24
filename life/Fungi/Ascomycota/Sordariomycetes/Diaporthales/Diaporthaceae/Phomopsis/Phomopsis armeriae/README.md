@@ -1,5 +1,4 @@
-Phomopsis armeriae Grove SPECIES
-=======
+# Phomopsis armeriae Grove SPECIES
 
 #### Status
 ACCEPTED

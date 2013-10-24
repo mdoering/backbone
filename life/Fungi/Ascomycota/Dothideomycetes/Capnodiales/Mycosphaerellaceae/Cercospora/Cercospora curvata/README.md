@@ -1,5 +1,4 @@
-Cercospora curvata (Rabenh. & A. Braun) Wollenw. SPECIES
-=======
+# Cercospora curvata (Rabenh. & A. Braun) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

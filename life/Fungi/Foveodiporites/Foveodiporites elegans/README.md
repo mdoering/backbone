@@ -1,5 +1,4 @@
-Foveodiporites elegans (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Foveodiporites elegans (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

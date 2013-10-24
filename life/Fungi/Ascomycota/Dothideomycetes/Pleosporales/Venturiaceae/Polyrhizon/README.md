@@ -1,5 +1,4 @@
-Polyrhizon Theiss. & Syd. GENUS
-=======
+# Polyrhizon Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

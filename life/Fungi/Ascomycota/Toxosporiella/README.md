@@ -1,5 +1,4 @@
-Toxosporiella B. Sutton GENUS
-=======
+# Toxosporiella B. Sutton GENUS
 
 #### Status
 ACCEPTED

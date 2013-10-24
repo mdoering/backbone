@@ -1,17 +1,16 @@
-Lecanora continua C. Knight SPECIES
-=======
+# Lecanora margarodes (Körb.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Shirley, Proc. R. Soc. Qd. 6: 134 (1889)
+Flora, Jena 47: 266 (1864)
 
 #### Original name
-Lecanora continua C. Knight
+Zeora margarodes Körb.
 
 ### Remarks
 null

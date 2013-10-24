@@ -1,5 +1,4 @@
-Cladosporium ladinum E. Müll. SPECIES
-=======
+# Cladosporium ladinum E. Müll. SPECIES
 
 #### Status
 ACCEPTED

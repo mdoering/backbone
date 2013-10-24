@@ -1,5 +1,4 @@
-Aplosporella aguirrei Speg. SPECIES
-=======
+# Aplosporella aguirrei Speg. SPECIES
 
 #### Status
 ACCEPTED

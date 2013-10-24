@@ -1,5 +1,4 @@
-Pestalotia spectabilis Kleb. SPECIES
-=======
+# Pestalotia spectabilis Kleb. SPECIES
 
 #### Status
 ACCEPTED

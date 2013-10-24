@@ -1,5 +1,4 @@
-Lasionectria dothideicola Petch SPECIES
-=======
+# Lasionectria dothideicola Petch SPECIES
 
 #### Status
 ACCEPTED

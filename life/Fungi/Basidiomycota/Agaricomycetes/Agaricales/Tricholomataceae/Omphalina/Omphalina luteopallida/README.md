@@ -1,5 +1,4 @@
-Omphalina luteopallida Kuyper & Hauskn. SPECIES
-=======
+# Omphalina luteopallida Kuyper & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

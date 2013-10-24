@@ -1,5 +1,4 @@
-Protomassulina simplex Naumova, 1968 SPECIES
-=======
+# Protomassulina simplex Naumova, 1968 SPECIES
 
 #### Status
 ACCEPTED

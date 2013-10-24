@@ -1,5 +1,4 @@
-Crepidotus pouceensis Pilát SPECIES
-=======
+# Crepidotus pouceensis Pilát SPECIES
 
 #### Status
 ACCEPTED

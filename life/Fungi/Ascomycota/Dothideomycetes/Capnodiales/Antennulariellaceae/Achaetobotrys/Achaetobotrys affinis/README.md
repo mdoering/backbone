@@ -1,17 +1,16 @@
-Henningsomyces affinis L.R. Fraser, 1935 SPECIES
-=======
+# Achaetobotrys affinis (L.R. Fraser) Bat. & Cif., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Saccardoa 2: 49 (1963)
 
 #### Original name
-null
+Henningsomyces affine L.R. Fraser
 
 ### Remarks
 null

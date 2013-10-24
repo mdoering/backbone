@@ -1,5 +1,4 @@
-Xylosphaeria rechingeri (Petr.) Petr. SPECIES
-=======
+# Xylosphaeria rechingeri (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

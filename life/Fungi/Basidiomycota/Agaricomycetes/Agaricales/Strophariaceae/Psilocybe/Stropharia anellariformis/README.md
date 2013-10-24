@@ -1,5 +1,4 @@
-Stropharia anellariformis Murrill SPECIES
-=======
+# Stropharia anellariformis Murrill SPECIES
 
 #### Status
 ACCEPTED

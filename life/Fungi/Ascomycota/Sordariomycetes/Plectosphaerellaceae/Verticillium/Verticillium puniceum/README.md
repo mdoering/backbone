@@ -1,5 +1,4 @@
-Verticillium puniceum Cooke & Ellis SPECIES
-=======
+# Verticillium puniceum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

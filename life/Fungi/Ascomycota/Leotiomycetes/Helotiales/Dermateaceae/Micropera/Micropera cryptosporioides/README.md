@@ -1,5 +1,4 @@
-Micropera cryptosporioides (E. Bommer, M. Rousseau & Sacc.) Höhn. SPECIES
-=======
+# Micropera cryptosporioides (E. Bommer, M. Rousseau & Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

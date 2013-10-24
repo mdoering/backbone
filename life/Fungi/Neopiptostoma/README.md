@@ -1,5 +1,4 @@
-Neopiptostoma GENUS
-=======
+# Neopiptostoma GENUS
 
 #### Status
 ACCEPTED

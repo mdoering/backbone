@@ -1,14 +1,13 @@
-Asterina cordobensis Speg., 1880 SPECIES
-=======
+# Calyptra cordobensis (Speg.) Theiss. & Syd., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 10(1): 13 [no. 55] (1880)
+Annls mycol. 15(6): 478 (1918)
 
 #### Original name
 Asterina cordobensis Speg., 1880

@@ -1,5 +1,4 @@
-Uredo clerodendrina Vienn.-Bourg. SPECIES
-=======
+# Uredo clerodendrina Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

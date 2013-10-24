@@ -1,5 +1,4 @@
-Stylochromonas minuta Lackey SPECIES
-=======
+# Stylochromonas minuta Lackey SPECIES
 
 #### Status
 ACCEPTED

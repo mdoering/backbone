@@ -1,5 +1,4 @@
-Flavoparmelia virensica Elix, O. Blanco & A. Crespo SPECIES
-=======
+# Flavoparmelia virensica Elix, O. Blanco & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

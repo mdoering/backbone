@@ -1,5 +1,4 @@
-Thraustochytrium kerguelensis Bahnweg & Sparrow SPECIES
-=======
+# Thraustochytrium kerguelensis Bahnweg & Sparrow SPECIES
 
 #### Status
 ACCEPTED

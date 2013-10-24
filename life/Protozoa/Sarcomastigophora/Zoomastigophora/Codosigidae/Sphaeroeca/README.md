@@ -1,5 +1,4 @@
-Sphaeroeca Lauterborn, 1894 GENUS
-=======
+# Sphaeroeca Lauterborn, 1894 GENUS
 
 #### Status
 ACCEPTED

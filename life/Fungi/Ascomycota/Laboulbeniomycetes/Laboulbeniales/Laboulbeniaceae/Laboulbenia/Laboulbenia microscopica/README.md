@@ -1,5 +1,4 @@
-Laboulbenia microscopica Thaxt. SPECIES
-=======
+# Laboulbenia microscopica Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Reticulofenestra coenura (Reinhardt, 1966) Roth, 1970 SPECIES
-=======
+# Cribrocentrum coenurum (Reinhardt, 1966) Perch-Nielsen, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

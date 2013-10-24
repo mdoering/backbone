@@ -1,17 +1,16 @@
-Ascochyta fabae f. sp FORM
-=======
+# Didymella fabae G.J. Jellis & Punith., 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Pl. Path. 8(2): 159 (1986)
+Pl. Path. 40(1): 151 (1991)
 
 #### Original name
-Ascochyta fabae f. sp
+Didymella fabae G.J. Jellis & Punith., 1991
 
 ### Remarks
 null

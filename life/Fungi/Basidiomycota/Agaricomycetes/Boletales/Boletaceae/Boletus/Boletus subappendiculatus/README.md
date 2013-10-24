@@ -1,5 +1,4 @@
-Boletus subappendiculatus Dermek, Lazebn. & J. Veselský, 1979 SPECIES
-=======
+# Boletus subappendiculatus Dermek, Lazebn. & J. Veselský, 1979 SPECIES
 
 #### Status
 ACCEPTED

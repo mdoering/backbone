@@ -1,5 +1,4 @@
-Hemiophrya Kent, 1882 GENUS
-=======
+# Hemiophrya Kent, 1882 GENUS
 
 #### Status
 ACCEPTED

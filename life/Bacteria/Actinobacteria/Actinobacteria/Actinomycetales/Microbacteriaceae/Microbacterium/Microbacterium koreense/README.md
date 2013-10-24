@@ -1,5 +1,4 @@
-Microbacterium koreense Lee et al., 2006 SPECIES
-=======
+# Microbacterium koreense Lee et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

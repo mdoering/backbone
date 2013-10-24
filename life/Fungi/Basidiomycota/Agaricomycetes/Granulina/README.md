@@ -1,5 +1,4 @@
-Granulina Velenovský, 1947 GENUS
-=======
+# Granulina Velenovský, 1947 GENUS
 
 #### Status
 ACCEPTED

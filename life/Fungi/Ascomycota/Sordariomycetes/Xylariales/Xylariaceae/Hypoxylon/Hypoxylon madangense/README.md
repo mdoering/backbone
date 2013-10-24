@@ -1,5 +1,4 @@
-Hypoxylon madangense Van der Gucht, Y.M. Ju & J.D. Rogers, 1997 SPECIES
-=======
+# Hypoxylon madangense Van der Gucht, Y.M. Ju & J.D. Rogers, 1997 SPECIES
 
 #### Status
 ACCEPTED

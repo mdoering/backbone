@@ -1,5 +1,4 @@
-Megalospora flavoexcipulata Untari SPECIES
-=======
+# Megalospora flavoexcipulata Untari SPECIES
 
 #### Status
 ACCEPTED

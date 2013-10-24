@@ -1,5 +1,4 @@
-Sphaerulina aechmeae Speg. SPECIES
-=======
+# Sphaerulina aechmeae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptopharynx stenostoma (Gellert, 1942) Foissner, 1998 SPECIES
-=======
+# Leptopharynx stenostoma (Gellert, 1942) Foissner, 1998 SPECIES
 
 #### Status
 ACCEPTED

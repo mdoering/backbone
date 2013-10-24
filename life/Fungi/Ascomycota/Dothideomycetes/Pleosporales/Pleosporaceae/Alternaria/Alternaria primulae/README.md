@@ -1,5 +1,4 @@
-Alternaria primulae Sawada SPECIES
-=======
+# Alternaria primulae Sawada SPECIES
 
 #### Status
 ACCEPTED

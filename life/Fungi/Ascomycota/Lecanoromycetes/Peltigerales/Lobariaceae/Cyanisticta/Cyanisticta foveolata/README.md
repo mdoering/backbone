@@ -1,5 +1,4 @@
-Cyanisticta foveolata f. foveolata FORM
-=======
+# Cyanisticta foveolata (Delise) Räsänen SPECIES
 
 #### Status
 ACCEPTED

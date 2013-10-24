@@ -1,5 +1,4 @@
-Dimerosporium afflatum G. Winter SPECIES
-=======
+# Dimerosporium afflatum G. Winter SPECIES
 
 #### Status
 ACCEPTED

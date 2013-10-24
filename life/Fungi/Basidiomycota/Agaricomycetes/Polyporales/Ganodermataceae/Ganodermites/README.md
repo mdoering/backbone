@@ -1,5 +1,4 @@
-Ganodermites A. Fleischm., M. Krings, H. Mayr & Agerer GENUS
-=======
+# Ganodermites A. Fleischm., M. Krings, H. Mayr & Agerer GENUS
 
 #### Status
 ACCEPTED

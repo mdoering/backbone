@@ -1,5 +1,4 @@
-Cenomyce phyllophora Hook. f. & Taylor SPECIES
-=======
+# Cenomyce phyllophora Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

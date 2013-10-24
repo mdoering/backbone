@@ -1,14 +1,13 @@
-Scindalma carnosum (Pat.) Kuntze, 1898 SPECIES
-=======
+# Ganoderma carnosum Pat., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 518 (1898)
+Bull. Soc. mycol. Fr. 5(2,3): 66 (1889)
 
 #### Original name
 Ganoderma carnosum Pat., 1889

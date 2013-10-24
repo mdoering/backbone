@@ -1,5 +1,4 @@
-Samara subspinosa Buch.-Ham. SPECIES
-=======
+# Samara subspinosa Buch.-Ham. SPECIES
 
 #### Status
 ACCEPTED

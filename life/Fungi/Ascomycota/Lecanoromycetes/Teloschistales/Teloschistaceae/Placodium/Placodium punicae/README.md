@@ -1,5 +1,4 @@
-Placodium punicae Vain. SPECIES
-=======
+# Placodium punicae Vain. SPECIES
 
 #### Status
 ACCEPTED

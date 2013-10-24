@@ -1,5 +1,4 @@
-Didymobotryopsis nivea (Kobayasi) G.M. Muell. SPECIES
-=======
+# Didymobotryopsis nivea (Kobayasi) G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

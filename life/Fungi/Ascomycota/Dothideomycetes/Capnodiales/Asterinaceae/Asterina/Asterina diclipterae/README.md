@@ -1,5 +1,4 @@
-Asterina diclipterae W. Yamam. SPECIES
-=======
+# Asterina diclipterae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

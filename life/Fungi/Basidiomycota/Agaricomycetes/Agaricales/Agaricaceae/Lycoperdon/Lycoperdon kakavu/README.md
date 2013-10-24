@@ -1,5 +1,4 @@
-Lycoperdon kakavu (Zipp.) Lév. SPECIES
-=======
+# Lycoperdon kakavu (Zipp.) Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudosphaerella senecionis Hansf. SPECIES
-=======
+# Pseudosphaerella senecionis Hansf. SPECIES
 
 #### Status
 ACCEPTED

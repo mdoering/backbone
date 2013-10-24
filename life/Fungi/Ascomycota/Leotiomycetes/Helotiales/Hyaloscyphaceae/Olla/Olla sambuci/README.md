@@ -1,5 +1,4 @@
-Olla sambuci var. sambuci VARIETY
-=======
+# Olla sambuci Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 288 (1934)
 
 #### Original name
-Olla sambuci var. sambuci
+Olla sambuci Velen.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Camarosporium corni-maris Hüseyin SPECIES
-=======
+# Camarosporium corni-maris Hüseyin SPECIES
 
 #### Status
 ACCEPTED

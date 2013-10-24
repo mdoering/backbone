@@ -1,14 +1,13 @@
-Hypocopra macrotheca (P. Crouan & H. Crouan) Sacc., 1882 SPECIES
-=======
+# Arnium macrotheca (P. Crouan & H. Crouan) N. Lundq., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 50(2): 237 (1972)
 
 #### Original name
 Sphaeria macrotheca P. Crouan & H. Crouan, 1867

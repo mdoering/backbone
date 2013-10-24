@@ -1,5 +1,4 @@
-Phaeosclerotinia phaeospora (Hori) Korf SPECIES
-=======
+# Phaeosclerotinia phaeospora (Hori) Korf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe eucalypticola Old & Z.Q. Yuan SPECIES
-=======
+# Diaporthe eucalypticola Old & Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

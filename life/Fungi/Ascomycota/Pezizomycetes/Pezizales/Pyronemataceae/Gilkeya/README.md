@@ -1,5 +1,4 @@
-Gilkeya M.E. Sm., Trappe & Rizzo GENUS
-=======
+# Gilkeya M.E. Sm., Trappe & Rizzo GENUS
 
 #### Status
 ACCEPTED

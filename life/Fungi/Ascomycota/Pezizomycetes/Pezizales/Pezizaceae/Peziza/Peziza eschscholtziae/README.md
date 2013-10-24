@@ -1,5 +1,4 @@
-Peziza eschscholtziae W. Phillips & Harkn. SPECIES
-=======
+# Peziza eschscholtziae W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

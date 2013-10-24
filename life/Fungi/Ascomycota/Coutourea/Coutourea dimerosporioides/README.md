@@ -1,5 +1,4 @@
-Coutourea dimerosporioides Speg. SPECIES
-=======
+# Coutourea dimerosporioides Speg. SPECIES
 
 #### Status
 ACCEPTED

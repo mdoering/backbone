@@ -1,5 +1,4 @@
-Strigula tenuis Müll. Arg. SPECIES
-=======
+# Strigula tenuis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

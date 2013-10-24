@@ -1,5 +1,4 @@
-Macroptycha uniplicata Timofeev in Timofeev et al., 1976 SPECIES
-=======
+# Macroptycha uniplicata Timofeev in Timofeev et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

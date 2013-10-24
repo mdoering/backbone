@@ -1,5 +1,4 @@
-Phytophthora fagopyri S. Takim. SPECIES
-=======
+# Phytophthora fagopyri S. Takim. SPECIES
 
 #### Status
 ACCEPTED

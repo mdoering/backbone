@@ -1,5 +1,4 @@
-Zoothamnium prosperinae (Joseph, 1882) Bütschli, 1889 SPECIES
-=======
+# Zoothamnium prosperinae (Joseph, 1882) Bütschli, 1889 SPECIES
 
 #### Status
 ACCEPTED

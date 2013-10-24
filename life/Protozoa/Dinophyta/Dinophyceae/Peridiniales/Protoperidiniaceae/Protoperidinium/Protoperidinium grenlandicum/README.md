@@ -1,5 +1,4 @@
-Protoperidinium grenlandicum (Woloszynbska, 1916) Balech, 1974 SPECIES
-=======
+# Protoperidinium grenlandicum (Woloszynbska, 1916) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

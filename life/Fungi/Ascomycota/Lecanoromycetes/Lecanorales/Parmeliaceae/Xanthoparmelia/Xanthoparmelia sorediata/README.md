@@ -1,14 +1,13 @@
-Chondropsis sorediata Elix & P. Child SPECIES
-=======
+# Xanthoparmelia sorediata (Elix & P. Child) O. Blanco, A. Crespo, Elix & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brunonia 9: 113 (1986)
+in Blanco et al. , Taxon 53(4): 971 (2004)
 
 #### Original name
 Chondropsis sorediata Elix & P. Child

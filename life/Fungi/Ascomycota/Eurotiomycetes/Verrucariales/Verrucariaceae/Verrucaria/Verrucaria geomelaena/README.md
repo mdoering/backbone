@@ -1,5 +1,4 @@
-Verrucaria geomelaena Anzi SPECIES
-=======
+# Verrucaria geomelaena Anzi SPECIES
 
 #### Status
 ACCEPTED

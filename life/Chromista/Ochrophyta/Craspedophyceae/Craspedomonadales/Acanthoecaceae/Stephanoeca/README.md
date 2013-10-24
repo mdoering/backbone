@@ -1,14 +1,13 @@
-Pleurosiga GENUS
-=======
+# Stephanoeca W.Ellis, 1930 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Soc. Zool. Belgique, 60, 49.
 
 #### Original name
 null

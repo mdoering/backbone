@@ -1,5 +1,4 @@
-Hyphoderma lapponicum (Litsch.) Ryvarden, 1971 SPECIES
-=======
+# Hyphoderma lapponicum (Litsch.) Ryvarden, 1971 SPECIES
 
 #### Status
 ACCEPTED

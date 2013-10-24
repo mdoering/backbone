@@ -1,5 +1,4 @@
-Capsulospora bipolaris J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Capsulospora bipolaris J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

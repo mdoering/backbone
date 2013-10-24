@@ -1,5 +1,4 @@
-Ustilago nyassae Syd. & P. Syd. SPECIES
-=======
+# Ustilago nyassae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria leuckertiana (Zedda) L. Saag SPECIES
-=======
+# Lepraria leuckertiana (Zedda) L. Saag SPECIES
 
 #### Status
 ACCEPTED

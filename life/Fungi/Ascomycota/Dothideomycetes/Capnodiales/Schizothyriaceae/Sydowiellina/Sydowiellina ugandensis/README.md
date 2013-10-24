@@ -1,5 +1,4 @@
-Sydowiellina ugandensis (Hansf.) Bat. SPECIES
-=======
+# Sydowiellina ugandensis (Hansf.) Bat. SPECIES
 
 #### Status
 ACCEPTED

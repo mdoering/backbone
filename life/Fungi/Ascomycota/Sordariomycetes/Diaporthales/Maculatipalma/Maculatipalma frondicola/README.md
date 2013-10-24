@@ -1,17 +1,16 @@
-Maculatipalma fronsicola J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Maculatipalma frondicola J. Fröhl. & K.D. Hyde, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 99(6): 727 (1995)
 
 #### Original name
-Maculatipalma fronsicola J. Fröhl. & K.D. Hyde
+Maculatipalma frondicola J. Fröhl. & K.D. Hyde, 1995
 
 ### Remarks
 null

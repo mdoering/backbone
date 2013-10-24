@@ -1,5 +1,4 @@
-Agaricus patella Batsch SPECIES
-=======
+# Agaricus patella Batsch SPECIES
 
 #### Status
 ACCEPTED

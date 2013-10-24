@@ -1,5 +1,4 @@
-Zopfiella macrospora Guarro & Calvo, 1983 SPECIES
-=======
+# Zopfiella macrospora Guarro & Calvo, 1983 SPECIES
 
 #### Status
 ACCEPTED

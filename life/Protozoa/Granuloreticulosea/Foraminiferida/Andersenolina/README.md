@@ -1,5 +1,4 @@
-Andersenolina Neagu, 1994 GENUS
-=======
+# Andersenolina Neagu, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyocha perfecta D. Bukry SPECIES
-=======
+# Dictyocha perfecta D. Bukry SPECIES
 
 #### Status
 ACCEPTED

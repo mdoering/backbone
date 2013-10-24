@@ -1,5 +1,4 @@
-Azotobacter nigricans subsp. nigricans SUBSPECIES
-=======
+# Azotobacter nigricans SPECIES
 
 #### Status
 ACCEPTED

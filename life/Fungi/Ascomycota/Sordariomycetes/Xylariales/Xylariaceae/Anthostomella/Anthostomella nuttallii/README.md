@@ -1,5 +1,4 @@
-Anthostomella nuttallii S.M. Francis SPECIES
-=======
+# Anthostomella nuttallii S.M. Francis SPECIES
 
 #### Status
 ACCEPTED

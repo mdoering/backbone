@@ -1,5 +1,4 @@
-Lecidea polymorpha (Schrad.) SPECIES
-=======
+# Lecidea polymorpha (Schrad.) SPECIES
 
 #### Status
 ACCEPTED

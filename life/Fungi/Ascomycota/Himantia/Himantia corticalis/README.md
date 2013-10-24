@@ -1,5 +1,4 @@
-Himantia corticalis Viégas SPECIES
-=======
+# Himantia corticalis Viégas SPECIES
 
 #### Status
 ACCEPTED

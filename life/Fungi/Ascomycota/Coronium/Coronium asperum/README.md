@@ -1,5 +1,4 @@
-Coronium asperum Bonord. SPECIES
-=======
+# Coronium asperum Bonord. SPECIES
 
 #### Status
 ACCEPTED

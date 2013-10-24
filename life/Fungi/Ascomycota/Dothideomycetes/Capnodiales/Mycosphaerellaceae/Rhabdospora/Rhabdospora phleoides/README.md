@@ -1,5 +1,4 @@
-Rhabdospora phleoides Henn. SPECIES
-=======
+# Rhabdospora phleoides Henn. SPECIES
 
 #### Status
 ACCEPTED

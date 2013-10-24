@@ -1,5 +1,4 @@
-Vuilleminia obducens Hjortstam & Ryvarden, 1996 SPECIES
-=======
+# Vuilleminia obducens Hjortstam & Ryvarden, 1996 SPECIES
 
 #### Status
 ACCEPTED

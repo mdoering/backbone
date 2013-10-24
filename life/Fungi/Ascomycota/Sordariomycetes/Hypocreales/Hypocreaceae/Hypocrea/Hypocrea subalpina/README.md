@@ -1,5 +1,4 @@
-Hypocrea subalpina Petr., 1940 SPECIES
-=======
+# Hypocrea subalpina Petr., 1940 SPECIES
 
 #### Status
 ACCEPTED

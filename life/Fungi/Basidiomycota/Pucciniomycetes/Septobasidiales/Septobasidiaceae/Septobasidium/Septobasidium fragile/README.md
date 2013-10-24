@@ -1,5 +1,4 @@
-Septobasidium fragile Couch SPECIES
-=======
+# Septobasidium fragile Couch SPECIES
 
 #### Status
 ACCEPTED

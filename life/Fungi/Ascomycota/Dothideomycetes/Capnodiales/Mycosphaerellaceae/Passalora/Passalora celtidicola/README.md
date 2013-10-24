@@ -1,5 +1,4 @@
-Passalora celtidicola (Munt.-Cvetk.) U. Braun & Crous SPECIES
-=======
+# Passalora celtidicola (Munt.-Cvetk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

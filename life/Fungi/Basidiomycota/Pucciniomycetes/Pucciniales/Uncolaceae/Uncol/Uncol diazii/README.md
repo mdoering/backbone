@@ -1,5 +1,4 @@
-Uncol diazii Buriticá & P.A. Rodr., 2000 SPECIES
-=======
+# Uncol diazii Buriticá & P.A. Rodr., 2000 SPECIES
 
 #### Status
 ACCEPTED

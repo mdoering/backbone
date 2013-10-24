@@ -1,5 +1,4 @@
-Phyllachora capensis (Doidge) Doidge, 1942 SPECIES
-=======
+# Phyllachora capensis (Doidge) Doidge, 1942 SPECIES
 
 #### Status
 DOUBTFUL

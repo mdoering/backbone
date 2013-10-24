@@ -1,5 +1,4 @@
-Ramularia clerodendri Sawada SPECIES
-=======
+# Ramularia clerodendri Sawada SPECIES
 
 #### Status
 ACCEPTED

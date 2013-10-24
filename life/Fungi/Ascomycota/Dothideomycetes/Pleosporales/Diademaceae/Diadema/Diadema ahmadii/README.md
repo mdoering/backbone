@@ -1,5 +1,4 @@
-Diadema ahmadii Kaz. Tanaka & S.H. Iqbal, 2010 SPECIES
-=======
+# Diadema ahmadii Kaz. Tanaka & S.H. Iqbal, 2010 SPECIES
 
 #### Status
 ACCEPTED

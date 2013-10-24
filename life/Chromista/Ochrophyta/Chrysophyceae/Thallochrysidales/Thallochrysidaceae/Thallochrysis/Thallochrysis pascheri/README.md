@@ -1,5 +1,4 @@
-Thallochrysis pascheri W. Conrad SPECIES
-=======
+# Thallochrysis pascheri W. Conrad SPECIES
 
 #### Status
 ACCEPTED

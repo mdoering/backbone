@@ -1,5 +1,4 @@
-Simocybe P. Karsten, 1879 GENUS
-=======
+# Simocybe P. Karsten, 1879 GENUS
 
 #### Status
 ACCEPTED

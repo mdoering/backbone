@@ -1,5 +1,4 @@
-Colletotrichum phaseolorum S. Takim., 1934 SPECIES
-=======
+# Colletotrichum phaseolorum S. Takim., 1934 SPECIES
 
 #### Status
 ACCEPTED

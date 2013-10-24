@@ -1,5 +1,4 @@
-Sargassum araii Yoshida SPECIES
-=======
+# Sargassum araii Yoshida SPECIES
 
 #### Status
 ACCEPTED

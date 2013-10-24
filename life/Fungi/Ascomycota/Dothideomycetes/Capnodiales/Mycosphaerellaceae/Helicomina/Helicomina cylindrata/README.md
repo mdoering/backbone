@@ -1,5 +1,4 @@
-Helicomina cylindrata (Chupp & Linder) Chupp SPECIES
-=======
+# Helicomina cylindrata (Chupp & Linder) Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterospongus Dumitrica, 1982 GENUS
-=======
+# Pterospongus Dumitrica, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes laricis (F. Rubel) Murrill SPECIES
-=======
+# Fomes laricis (F. Rubel) Murrill SPECIES
 
 #### Status
 ACCEPTED

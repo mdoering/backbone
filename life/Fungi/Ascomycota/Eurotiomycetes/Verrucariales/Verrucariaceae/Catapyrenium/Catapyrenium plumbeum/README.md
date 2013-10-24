@@ -1,5 +1,4 @@
-Catapyrenium plumbeum (B. de Lesd.) J.W. Thomson SPECIES
-=======
+# Catapyrenium plumbeum (B. de Lesd.) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula acrolamellata McNabb, 1973 SPECIES
-=======
+# Russula acrolamellata McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

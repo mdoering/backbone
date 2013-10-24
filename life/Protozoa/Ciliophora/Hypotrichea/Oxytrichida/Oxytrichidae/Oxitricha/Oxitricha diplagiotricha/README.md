@@ -1,5 +1,4 @@
-Oxitricha diplagiotricha Bory, 1824 SPECIES
-=======
+# Oxitricha diplagiotricha Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

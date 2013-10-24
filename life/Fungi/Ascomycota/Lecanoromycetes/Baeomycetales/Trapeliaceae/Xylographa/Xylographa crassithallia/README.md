@@ -1,5 +1,4 @@
-Xylographa crassithallia B.D. Ryan & T.H. Nash SPECIES
-=======
+# Xylographa crassithallia B.D. Ryan & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

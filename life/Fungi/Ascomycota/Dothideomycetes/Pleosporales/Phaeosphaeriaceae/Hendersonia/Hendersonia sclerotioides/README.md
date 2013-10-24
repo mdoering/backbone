@@ -1,14 +1,13 @@
-Hendersonia sclerotiodes (Ellis & Everh.) Kuntze SPECIES
-=======
+# Hendersonia sclerotioides (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 483 (1898)
 
 #### Original name
 Stagonospora sclerotioides Ellis & Everh.

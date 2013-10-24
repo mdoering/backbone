@@ -1,14 +1,13 @@
-Phyllachora coccodes (Lév.) Ellis & Everh., 1892 SPECIES
-=======
+# Pseudothis coccodes (Lév.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Acad. nac. Cienc. Córdoba 11(4): 549 (1889)
+Annls mycol. 13(5/6): 565 (1915)
 
 #### Original name
 Sphaeria coccodes Lév., 1845

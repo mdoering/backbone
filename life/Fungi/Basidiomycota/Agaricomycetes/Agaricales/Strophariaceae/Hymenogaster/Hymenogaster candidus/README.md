@@ -1,5 +1,4 @@
-Hymenogaster candidus Harkn. SPECIES
-=======
+# Hymenogaster candidus Harkn. SPECIES
 
 #### Status
 ACCEPTED

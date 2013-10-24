@@ -1,5 +1,4 @@
-Russula compacta Frost SPECIES
-=======
+# Russula compacta Frost SPECIES
 
 #### Status
 ACCEPTED

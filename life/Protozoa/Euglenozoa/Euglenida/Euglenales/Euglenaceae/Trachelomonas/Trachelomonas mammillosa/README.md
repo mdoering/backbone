@@ -1,5 +1,4 @@
-Trachelomonas mammillosa var. mammillosa VARIETY
-=======
+# Trachelomonas mammillosa SPECIES
 
 #### Status
 ACCEPTED

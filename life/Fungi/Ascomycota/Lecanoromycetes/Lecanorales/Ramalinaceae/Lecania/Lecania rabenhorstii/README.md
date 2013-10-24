@@ -1,14 +1,13 @@
-Biatora rabenhorstii (Hepp) Rabenh. SPECIES
-=======
+# Lecania rabenhorstii (Hepp) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 67: 403 (1884)
 
 #### Original name
 null

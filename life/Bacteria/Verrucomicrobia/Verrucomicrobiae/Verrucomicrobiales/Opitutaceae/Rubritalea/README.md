@@ -1,5 +1,4 @@
-Rubritalea Scheuermayer, Gulder, Bringmann & Hentschel, 2006 GENUS
-=======
+# Rubritalea Scheuermayer, Gulder, Bringmann & Hentschel, 2006 GENUS
 
 #### Status
 ACCEPTED

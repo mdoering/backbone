@@ -1,5 +1,4 @@
-Cercospora grindeliae Ellis & Everh. SPECIES
-=======
+# Cercospora grindeliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius dubitabilis Britzelm. SPECIES
-=======
+# Cortinarius dubitabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

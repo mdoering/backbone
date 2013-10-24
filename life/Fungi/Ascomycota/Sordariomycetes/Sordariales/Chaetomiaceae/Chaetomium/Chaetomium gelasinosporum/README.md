@@ -1,5 +1,4 @@
-Chaetomium gelasinosporum Arx & E. Müll., 1967 SPECIES
-=======
+# Chaetomium gelasinosporum Arx & E. Müll., 1967 SPECIES
 
 #### Status
 ACCEPTED

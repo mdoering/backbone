@@ -1,5 +1,4 @@
-Polyporus gilloti Roum. SPECIES
-=======
+# Polyporus gilloti Roum. SPECIES
 
 #### Status
 ACCEPTED

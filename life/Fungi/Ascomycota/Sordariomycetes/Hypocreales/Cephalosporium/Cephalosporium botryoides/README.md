@@ -1,5 +1,4 @@
-Cephalosporium botryoides Bonord. SPECIES
-=======
+# Cephalosporium botryoides Bonord. SPECIES
 
 #### Status
 ACCEPTED

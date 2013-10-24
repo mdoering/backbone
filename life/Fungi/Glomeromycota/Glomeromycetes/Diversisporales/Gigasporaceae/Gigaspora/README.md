@@ -1,5 +1,4 @@
-Gigaspora Gerd. & Trappe GENUS
-=======
+# Gigaspora Gerd. & Trappe GENUS
 
 #### Status
 ACCEPTED

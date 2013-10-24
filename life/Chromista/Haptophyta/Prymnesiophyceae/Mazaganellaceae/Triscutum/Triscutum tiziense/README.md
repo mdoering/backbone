@@ -1,5 +1,4 @@
-Triscutum tiziense SPECIES
-=======
+# Triscutum tiziense SPECIES
 
 #### Status
 ACCEPTED

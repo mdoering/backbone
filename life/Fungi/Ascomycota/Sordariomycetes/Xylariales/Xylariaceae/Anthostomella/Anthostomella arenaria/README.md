@@ -1,5 +1,4 @@
-Anthostomella arenaria O.E. Erikss., 1967 SPECIES
-=======
+# Anthostomella arenaria O.E. Erikss., 1967 SPECIES
 
 #### Status
 ACCEPTED

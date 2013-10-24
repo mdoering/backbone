@@ -1,5 +1,4 @@
-Aurantiosporium marisci Vánky & C. Vánky, 1999 SPECIES
-=======
+# Aurantiosporium marisci Vánky & C. Vánky, 1999 SPECIES
 
 #### Status
 ACCEPTED

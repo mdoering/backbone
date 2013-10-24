@@ -1,5 +1,4 @@
-Marasmius coniatus var. coniatus VARIETY
-=======
+# Marasmius coniatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius coniatus var. coniatus
+Marasmius coniatus Berk. & Broome
 
 ### Remarks
 null

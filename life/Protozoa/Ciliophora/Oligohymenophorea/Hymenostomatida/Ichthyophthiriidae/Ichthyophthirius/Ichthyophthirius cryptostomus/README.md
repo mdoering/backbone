@@ -1,5 +1,4 @@
-Ichthyophthirius cryptostomus Zacharias, 1893 SPECIES
-=======
+# Ichthyophthirius cryptostomus Zacharias, 1893 SPECIES
 
 #### Status
 ACCEPTED

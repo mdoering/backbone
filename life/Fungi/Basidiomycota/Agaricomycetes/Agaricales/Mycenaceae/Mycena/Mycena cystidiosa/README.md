@@ -1,5 +1,4 @@
-Mycena cystidiosa G. Stev., 1971 SPECIES
-=======
+# Mycena cystidiosa G. Stev., 1971 SPECIES
 
 #### Status
 ACCEPTED

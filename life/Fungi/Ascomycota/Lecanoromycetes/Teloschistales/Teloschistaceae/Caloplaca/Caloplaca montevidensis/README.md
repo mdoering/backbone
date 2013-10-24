@@ -1,5 +1,4 @@
-Caloplaca montevidensis H. Magn. SPECIES
-=======
+# Caloplaca montevidensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hercospora nigrescens Bonord. SPECIES
-=======
+# Hercospora nigrescens Bonord. SPECIES
 
 #### Status
 ACCEPTED

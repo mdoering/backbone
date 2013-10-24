@@ -1,5 +1,4 @@
-Microthyriella mbdensis (Henn.) Theiss. SPECIES
-=======
+# Microthyriella mbdensis (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

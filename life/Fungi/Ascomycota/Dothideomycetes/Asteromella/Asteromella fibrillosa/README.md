@@ -1,5 +1,4 @@
-Asteromella fibrillosa var. fibrillosa VARIETY
-=======
+# Asteromella fibrillosa (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asteromella fibrillosa var. fibrillosa
+Perisporium fibrillosa Desm.
 
 ### Remarks
 null

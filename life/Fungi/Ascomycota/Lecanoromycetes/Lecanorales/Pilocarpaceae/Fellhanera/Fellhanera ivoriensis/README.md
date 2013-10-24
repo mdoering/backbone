@@ -1,5 +1,4 @@
-Fellhanera ivoriensis Lücking & R. Sant. SPECIES
-=======
+# Fellhanera ivoriensis Lücking & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

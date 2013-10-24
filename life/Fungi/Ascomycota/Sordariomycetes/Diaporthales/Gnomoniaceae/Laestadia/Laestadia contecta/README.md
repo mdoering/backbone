@@ -1,5 +1,4 @@
-Laestadia contecta (Desm.) Sacc. SPECIES
-=======
+# Laestadia contecta (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

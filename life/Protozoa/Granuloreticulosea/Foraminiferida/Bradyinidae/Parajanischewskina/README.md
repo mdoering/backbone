@@ -1,5 +1,4 @@
-Parajanischewskina Cozar & Somerville, 2006 GENUS
-=======
+# Parajanischewskina Cozar & Somerville, 2006 GENUS
 
 #### Status
 ACCEPTED

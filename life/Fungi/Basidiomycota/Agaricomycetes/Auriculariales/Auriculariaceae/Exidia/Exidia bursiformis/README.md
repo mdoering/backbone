@@ -1,5 +1,4 @@
-Exidia bursiformis Berk. SPECIES
-=======
+# Exidia bursiformis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium molle Bres. SPECIES
-=======
+# Corticium molle Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoctonia psycodis Thomas {?} SPECIES
-=======
+# Rhizoctonia psycodis Thomas {?} SPECIES
 
 #### Status
 ACCEPTED

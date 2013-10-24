@@ -1,5 +1,4 @@
-Ascophanus subcylindrosporus (J. Moravec) Svrcek SPECIES
-=======
+# Ascophanus subcylindrosporus (J. Moravec) Svrcek SPECIES
 
 #### Status
 ACCEPTED

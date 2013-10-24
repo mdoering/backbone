@@ -1,5 +1,4 @@
-Ramularia scopoliae W. Voss SPECIES
-=======
+# Ramularia scopoliae W. Voss SPECIES
 
 #### Status
 ACCEPTED

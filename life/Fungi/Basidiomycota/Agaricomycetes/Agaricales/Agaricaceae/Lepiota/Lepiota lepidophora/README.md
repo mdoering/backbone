@@ -1,5 +1,4 @@
-Lepiota lepidophora (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota lepidophora (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

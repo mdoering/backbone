@@ -1,17 +1,16 @@
-Agaricus fusus var. fusus VARIETY
-=======
+# Gymnopilus crociphyllus (Cooke & Massee) Pegler, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Halle), cont. sec. 13 (1789)
+Aust. J. Bot. 13: 329 (1965)
 
 #### Original name
-Agaricus fusus var. fusus
+Agaricus crociphyllus Cooke & Massee, 1887
 
 ### Remarks
 null

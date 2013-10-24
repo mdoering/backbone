@@ -1,5 +1,4 @@
-Penomyces telarius Giard SPECIES
-=======
+# Penomyces telarius Giard SPECIES
 
 #### Status
 ACCEPTED

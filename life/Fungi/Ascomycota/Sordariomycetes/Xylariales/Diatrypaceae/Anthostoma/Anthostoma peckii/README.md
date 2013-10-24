@@ -1,5 +1,4 @@
-Anthostoma peckii House SPECIES
-=======
+# Anthostoma peckii House SPECIES
 
 #### Status
 ACCEPTED

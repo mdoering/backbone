@@ -1,5 +1,4 @@
-Ramularia roseola Bubák & Vleugel SPECIES
-=======
+# Ramularia roseola Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

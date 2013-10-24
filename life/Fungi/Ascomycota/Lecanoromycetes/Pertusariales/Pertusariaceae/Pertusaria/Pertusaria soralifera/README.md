@@ -1,5 +1,4 @@
-Pertusaria soralifera (J. Steiner) Erichsen SPECIES
-=======
+# Pertusaria soralifera (J. Steiner) Erichsen SPECIES
 
 #### Status
 ACCEPTED

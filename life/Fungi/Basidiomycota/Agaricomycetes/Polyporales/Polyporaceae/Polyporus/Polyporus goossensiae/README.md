@@ -1,5 +1,4 @@
-Polyporus goossensiae Beeli SPECIES
-=======
+# Polyporus goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

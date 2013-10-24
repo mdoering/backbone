@@ -1,5 +1,4 @@
-Agaricus molybdocephalus Bull. SPECIES
-=======
+# Agaricus molybdocephalus Bull. SPECIES
 
 #### Status
 ACCEPTED

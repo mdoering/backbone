@@ -1,5 +1,4 @@
-Dicaeoma andropogonis-micranthi (Dietel) Syd. SPECIES
-=======
+# Dicaeoma andropogonis-micranthi (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

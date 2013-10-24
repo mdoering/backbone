@@ -1,5 +1,4 @@
-Agaricus strobiliformis V. Brig. SPECIES
-=======
+# Agaricus strobiliformis V. Brig. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina loeseneriellae Hosag. & Goos SPECIES
-=======
+# Asterina loeseneriellae Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita kwangsiensis Y.C. Wang SPECIES
-=======
+# Amanita kwangsiensis Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

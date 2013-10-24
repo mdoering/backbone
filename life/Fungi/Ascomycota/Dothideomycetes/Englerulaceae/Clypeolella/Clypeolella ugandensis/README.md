@@ -1,5 +1,4 @@
-Clypeolella ugandensis Hansf. SPECIES
-=======
+# Clypeolella ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

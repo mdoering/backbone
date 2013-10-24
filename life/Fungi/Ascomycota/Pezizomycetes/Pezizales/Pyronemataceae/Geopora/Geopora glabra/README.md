@@ -1,5 +1,4 @@
-Geopora glabra Gilkey SPECIES
-=======
+# Geopora glabra Gilkey SPECIES
 
 #### Status
 ACCEPTED

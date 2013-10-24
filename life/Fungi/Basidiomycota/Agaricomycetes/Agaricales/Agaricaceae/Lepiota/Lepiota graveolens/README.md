@@ -1,5 +1,4 @@
-Lepiota graveolens (Peck) Murrill SPECIES
-=======
+# Lepiota graveolens (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

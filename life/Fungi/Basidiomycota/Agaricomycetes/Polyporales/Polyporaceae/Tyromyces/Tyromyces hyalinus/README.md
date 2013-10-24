@@ -1,14 +1,13 @@
-Polyporus hyalinus Berk., 1860 SPECIES
-=======
+# Tyromyces hyalinus (Berk.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Antarctic Voy. , III, Fl. Tasmaniae 2: 255 (1860)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 605 (1980)
 
 #### Original name
 Polyporus hyalinus Berk., 1860

@@ -1,8 +1,7 @@
-Microdiplodia anonicola (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Microdiplodia annonicola (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Ramalina lusitanica H. Magn. SPECIES
-=======
+# Ramalina lusitanica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

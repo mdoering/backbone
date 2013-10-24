@@ -1,5 +1,4 @@
-Psalliota suaveolens Velen. SPECIES
-=======
+# Psalliota suaveolens Velen. SPECIES
 
 #### Status
 ACCEPTED

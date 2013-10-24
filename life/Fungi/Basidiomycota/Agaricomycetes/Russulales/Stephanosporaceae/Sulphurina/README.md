@@ -1,5 +1,4 @@
-Sulphurina GENUS
-=======
+# Sulphurina GENUS
 
 #### Status
 ACCEPTED

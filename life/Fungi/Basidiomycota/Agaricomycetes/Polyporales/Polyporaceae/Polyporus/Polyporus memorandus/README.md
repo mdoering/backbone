@@ -1,5 +1,4 @@
-Polyporus memorandus Speg. SPECIES
-=======
+# Polyporus memorandus Speg. SPECIES
 
 #### Status
 ACCEPTED

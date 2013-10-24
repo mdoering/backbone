@@ -1,5 +1,4 @@
-Pleospora subramanianii A. Pande SPECIES
-=======
+# Pleospora subramanianii A. Pande SPECIES
 
 #### Status
 ACCEPTED

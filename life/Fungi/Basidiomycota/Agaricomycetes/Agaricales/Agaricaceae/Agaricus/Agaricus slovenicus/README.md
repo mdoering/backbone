@@ -1,5 +1,4 @@
-Agaricus slovenicus Hlavácek SPECIES
-=======
+# Agaricus slovenicus Hlavácek SPECIES
 
 #### Status
 ACCEPTED

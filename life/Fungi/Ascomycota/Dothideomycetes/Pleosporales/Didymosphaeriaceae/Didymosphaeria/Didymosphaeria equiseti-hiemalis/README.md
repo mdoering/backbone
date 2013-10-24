@@ -1,5 +1,4 @@
-Didymosphaeria equiseti-hiemalis P. Larsen & Munk SPECIES
-=======
+# Didymosphaeria equiseti-hiemalis P. Larsen & Munk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stecchericium dimiticum Douanla-Meli SPECIES
-=======
+# Stecchericium dimiticum Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

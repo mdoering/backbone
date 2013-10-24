@@ -1,5 +1,4 @@
-Phakopsora crotalariae (Dietel) Arthur SPECIES
-=======
+# Phakopsora crotalariae (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

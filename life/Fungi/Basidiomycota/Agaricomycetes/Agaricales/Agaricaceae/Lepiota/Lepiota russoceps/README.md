@@ -1,5 +1,4 @@
-Lepiota russoceps Berk. & Broome SPECIES
-=======
+# Lepiota russoceps Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

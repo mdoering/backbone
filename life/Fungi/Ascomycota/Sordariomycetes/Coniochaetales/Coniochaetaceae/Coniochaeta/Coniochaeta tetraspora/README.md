@@ -1,5 +1,4 @@
-Coniochaeta tetraspora Cain, 1961 SPECIES
-=======
+# Coniochaeta tetraspora Cain, 1961 SPECIES
 
 #### Status
 ACCEPTED

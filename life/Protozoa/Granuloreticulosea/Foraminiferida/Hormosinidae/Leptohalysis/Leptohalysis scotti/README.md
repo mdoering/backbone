@@ -1,8 +1,7 @@
-Leptohalysis scottii (Chaster, 1892) SPECIES
-=======
+# Leptohalysis scotti (Chaster, 1892) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

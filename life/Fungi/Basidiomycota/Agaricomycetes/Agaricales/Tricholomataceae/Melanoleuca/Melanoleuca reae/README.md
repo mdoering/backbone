@@ -1,5 +1,4 @@
-Melanoleuca reae Singer SPECIES
-=======
+# Melanoleuca reae Singer SPECIES
 
 #### Status
 ACCEPTED

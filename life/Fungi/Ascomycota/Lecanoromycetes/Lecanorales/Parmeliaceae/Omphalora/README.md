@@ -1,5 +1,4 @@
-Omphalora T.H. Nash & Hafellner GENUS
-=======
+# Omphalora T.H. Nash & Hafellner GENUS
 
 #### Status
 ACCEPTED

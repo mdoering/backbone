@@ -1,5 +1,4 @@
-Clavaria aculeata Blonski SPECIES
-=======
+# Clavaria aculeata Blonski SPECIES
 
 #### Status
 ACCEPTED

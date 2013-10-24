@@ -1,5 +1,4 @@
-Pseudocercosporella granati (Rawla) Deighton SPECIES
-=======
+# Pseudocercosporella granati (Rawla) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium enydrae J.M. Yen & Gilles SPECIES
-=======
+# Aecidium enydrae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

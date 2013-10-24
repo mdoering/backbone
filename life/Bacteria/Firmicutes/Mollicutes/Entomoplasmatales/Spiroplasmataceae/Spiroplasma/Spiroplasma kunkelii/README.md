@@ -1,5 +1,4 @@
-Spiroplasma kunkelii Whitcomb et al., 1986 SPECIES
-=======
+# Spiroplasma kunkelii Whitcomb et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

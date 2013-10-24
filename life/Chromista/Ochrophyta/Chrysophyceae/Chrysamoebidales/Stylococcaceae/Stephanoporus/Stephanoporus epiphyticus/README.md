@@ -1,5 +1,4 @@
-Stephanoporus epiphyticus (Scherffel) Pascher SPECIES
-=======
+# Stephanoporus epiphyticus (Scherffel) Pascher SPECIES
 
 #### Status
 ACCEPTED

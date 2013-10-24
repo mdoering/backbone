@@ -1,5 +1,4 @@
-Pluteus carneobrunneolus E. Horak SPECIES
-=======
+# Pluteus carneobrunneolus E. Horak SPECIES
 
 #### Status
 ACCEPTED

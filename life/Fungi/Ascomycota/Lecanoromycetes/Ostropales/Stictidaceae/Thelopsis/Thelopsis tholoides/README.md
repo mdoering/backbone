@@ -1,5 +1,4 @@
-Thelopsis tholoides Lettau SPECIES
-=======
+# Thelopsis tholoides Lettau SPECIES
 
 #### Status
 ACCEPTED

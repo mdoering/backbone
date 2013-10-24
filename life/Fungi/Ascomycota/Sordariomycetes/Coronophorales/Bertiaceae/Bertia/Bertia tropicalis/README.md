@@ -1,5 +1,4 @@
-Bertia tropicalis Huhndorf, A.N. Mill. & F.A. Fern. SPECIES
-=======
+# Bertia tropicalis Huhndorf, A.N. Mill. & F.A. Fern. SPECIES
 
 #### Status
 ACCEPTED

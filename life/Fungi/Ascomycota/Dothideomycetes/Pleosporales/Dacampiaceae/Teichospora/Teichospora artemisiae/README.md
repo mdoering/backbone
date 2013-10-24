@@ -1,5 +1,4 @@
-Teichospora artemisiae Fabre SPECIES
-=======
+# Teichospora artemisiae Fabre SPECIES
 
 #### Status
 ACCEPTED

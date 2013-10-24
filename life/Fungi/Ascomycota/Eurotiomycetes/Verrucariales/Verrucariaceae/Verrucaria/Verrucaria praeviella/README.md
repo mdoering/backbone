@@ -1,5 +1,4 @@
-Verrucaria praeviella H. Harada SPECIES
-=======
+# Verrucaria praeviella H. Harada SPECIES
 
 #### Status
 ACCEPTED

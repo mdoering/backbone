@@ -1,5 +1,4 @@
-Cortinarius tarnensis Speg. SPECIES
-=======
+# Cortinarius tarnensis Speg. SPECIES
 
 #### Status
 ACCEPTED

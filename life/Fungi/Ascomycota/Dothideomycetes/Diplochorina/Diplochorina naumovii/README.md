@@ -1,17 +1,16 @@
-Diplochorina naumovi Gutner SPECIES
-=======
+# Diplochorina naumovii Gutner, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trudy Bot. Inst. Akad. Nauk SSSR, ser. 2, Sporov. Rast. 1: (1933)
 
 #### Original name
-Diplochorina naumovi Gutner
+Diplochorina naumovii Gutner, 1933
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psoroma rubromarginatum P. James & Js. Murray SPECIES
-=======
+# Psoroma rubromarginatum P. James & Js. Murray SPECIES
 
 #### Status
 ACCEPTED

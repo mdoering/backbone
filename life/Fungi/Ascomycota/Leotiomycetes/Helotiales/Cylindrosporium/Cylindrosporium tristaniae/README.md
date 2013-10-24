@@ -1,5 +1,4 @@
-Cylindrosporium tristaniae (Henn.) Died. SPECIES
-=======
+# Cylindrosporium tristaniae (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

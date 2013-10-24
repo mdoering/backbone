@@ -1,5 +1,4 @@
-Trichoderma compactum Z.F. Yu & K.Q. Zhang SPECIES
-=======
+# Trichoderma compactum Z.F. Yu & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

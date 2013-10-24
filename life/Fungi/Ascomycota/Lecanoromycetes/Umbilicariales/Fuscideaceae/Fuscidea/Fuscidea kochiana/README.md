@@ -1,17 +1,16 @@
-Microlecia kochiana var. kochiana VARIETY
-=======
+# Fuscidea kochiana (Hepp) V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Naturk. Forsch. Südwestdeutschl. 31: 92 (1972)
 
 #### Original name
-Microlecia kochiana var. kochiana
+Lecidea kochiana Hepp
 
 ### Remarks
 null

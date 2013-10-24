@@ -1,5 +1,4 @@
-Laestadia betulae (Auersw.) Sacc. & Traverso SPECIES
-=======
+# Laestadia betulae (Auersw.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

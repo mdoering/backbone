@@ -1,5 +1,4 @@
-Lecanora juglandina Schwein. SPECIES
-=======
+# Lecanora juglandina Schwein. SPECIES
 
 #### Status
 ACCEPTED

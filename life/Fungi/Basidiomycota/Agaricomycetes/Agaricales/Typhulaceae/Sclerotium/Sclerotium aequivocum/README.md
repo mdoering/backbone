@@ -1,5 +1,4 @@
-Sclerotium aequivocum (Desm.) Höhn. SPECIES
-=======
+# Sclerotium aequivocum (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

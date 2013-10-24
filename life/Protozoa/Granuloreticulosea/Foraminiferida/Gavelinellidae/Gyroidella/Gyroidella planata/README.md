@@ -1,5 +1,4 @@
-Gyroidella planata Saidova, 1975 SPECIES
-=======
+# Gyroidella planata Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema schraderi SPECIES
-=======
+# Collema schraderi SPECIES
 
 #### Status
 ACCEPTED

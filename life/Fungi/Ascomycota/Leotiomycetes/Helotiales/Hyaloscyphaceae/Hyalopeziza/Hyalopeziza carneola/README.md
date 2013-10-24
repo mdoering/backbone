@@ -1,5 +1,4 @@
-Hyalopeziza carneola Sacc. SPECIES
-=======
+# Hyalopeziza carneola Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tenacibaculum aiptasiae Wang, Chou, Chou, Chen & Chen, 2008 SPECIES
-=======
+# Tenacibaculum aiptasiae Wang, Chou, Chou, Chen & Chen, 2008 SPECIES
 
 #### Status
 ACCEPTED

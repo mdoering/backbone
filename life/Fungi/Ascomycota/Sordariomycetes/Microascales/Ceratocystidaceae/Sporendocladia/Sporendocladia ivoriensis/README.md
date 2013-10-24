@@ -1,14 +1,13 @@
-Phialocephala ivoriensis Zucconi & Onofri, 1984 SPECIES
-=======
+# Sporendocladia ivoriensis (Zucconi & Onofri) M.J. Wingf., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Onofri & Zucconi, Mycotaxon 20(1): 189 (1984)
+in Wingfield, Wyk & Wingfield, Trans. Br. mycol. Soc. 89(4): 517 (1987)
 
 #### Original name
 Phialocephala ivoriensis Zucconi & Onofri, 1984

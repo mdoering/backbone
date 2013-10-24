@@ -1,14 +1,13 @@
-Bacidia scutellifera Vezda SPECIES
-=======
+# Bacidina scutellifera (Vezda) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Folia geobot. phytotax. 10: 421 (1975)
+Folia geobot. phytotax. 25(4): 432 (1991)
 
 #### Original name
 Bacidia scutellifera Vezda

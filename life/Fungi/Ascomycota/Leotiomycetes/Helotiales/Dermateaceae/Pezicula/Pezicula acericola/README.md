@@ -1,5 +1,4 @@
-Pezicula acericola (Peck) Sacc., 1885 SPECIES
-=======
+# Pezicula acericola (Peck) Sacc., 1885 SPECIES
 
 #### Status
 ACCEPTED

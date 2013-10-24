@@ -1,5 +1,4 @@
-Rhodococcus corynebacterioides (Serrano et al., 1972) Yassin & Schaal, 2005 SPECIES
-=======
+# Rhodococcus corynebacterioides (Serrano et al., 1972) Yassin & Schaal, 2005 SPECIES
 
 #### Status
 ACCEPTED

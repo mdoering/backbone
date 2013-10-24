@@ -1,5 +1,4 @@
-Chitonomyces sinistricola Thaxt. SPECIES
-=======
+# Chitonomyces sinistricola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

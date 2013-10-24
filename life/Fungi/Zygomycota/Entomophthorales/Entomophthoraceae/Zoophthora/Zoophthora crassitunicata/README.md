@@ -1,14 +1,13 @@
-Erynia crassitunicata (S. Keller) Humber & Ben Ze'ev, 1981 SPECIES
-=======
+# Zoophthora crassitunicata S. Keller, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 13(3): 509 (1981)
+Sydowia 33: 170 (1980)
 
 #### Original name
 Zoophthora crassitunicata S. Keller, 1980

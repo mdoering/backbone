@@ -1,5 +1,4 @@
-Mucor araneosus (Schrank) K. Kunze SPECIES
-=======
+# Mucor araneosus (Schrank) K. Kunze SPECIES
 
 #### Status
 ACCEPTED

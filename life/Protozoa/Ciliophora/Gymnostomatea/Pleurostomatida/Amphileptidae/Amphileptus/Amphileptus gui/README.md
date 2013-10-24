@@ -1,5 +1,4 @@
-Amphileptus gui Lin, Song & Warren, 2005 SPECIES
-=======
+# Amphileptus gui Lin, Song & Warren, 2005 SPECIES
 
 #### Status
 ACCEPTED

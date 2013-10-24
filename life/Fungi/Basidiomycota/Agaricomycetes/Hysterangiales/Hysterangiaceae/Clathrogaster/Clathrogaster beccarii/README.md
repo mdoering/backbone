@@ -1,14 +1,13 @@
-Octaviania beccarii (Petri) J.W. Cribb, 1958 SPECIES
-=======
+# Clathrogaster beccarii Petri, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Dept. Bot. (formerly Biol. ) Univ. Qd. 3: 249 (1958)
+Malpighia 14: 126 (1900)
 
 #### Original name
 Clathrogaster beccarii Petri, 1900

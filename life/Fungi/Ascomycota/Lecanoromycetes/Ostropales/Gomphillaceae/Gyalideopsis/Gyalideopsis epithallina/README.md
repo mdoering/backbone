@@ -1,5 +1,4 @@
-Gyalideopsis epithallina Lücking SPECIES
-=======
+# Gyalideopsis epithallina Lücking SPECIES
 
 #### Status
 ACCEPTED

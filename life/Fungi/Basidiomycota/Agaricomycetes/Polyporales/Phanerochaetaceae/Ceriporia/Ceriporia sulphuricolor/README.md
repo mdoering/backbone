@@ -1,5 +1,4 @@
-Ceriporia sulphuricolor Bernicchia & Niemelä SPECIES
-=======
+# Ceriporia sulphuricolor Bernicchia & Niemelä SPECIES
 
 #### Status
 ACCEPTED

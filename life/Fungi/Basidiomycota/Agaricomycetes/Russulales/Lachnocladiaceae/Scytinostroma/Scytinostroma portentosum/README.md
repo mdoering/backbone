@@ -1,17 +1,16 @@
-Crystallocystidium portentosum var. portentosum VARIETY
-=======
+# Scytinostroma portentosum (Berk. & M.A. Curtis) Donk, 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria, sér. Ci. Nat. 9: 144 (1940)
+Fungus, Wageningen 26(1-4): 20 (1956)
 
 #### Original name
-Crystallocystidium portentosum var. portentosum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Galerula viscosa (Clem.) G.F. Atk. SPECIES
-=======
+# Galerula viscosa (Clem.) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita nehuta G.S. Ridl., 1991 SPECIES
-=======
+# Amanita nehuta G.S. Ridl., 1991 SPECIES
 
 #### Status
 ACCEPTED

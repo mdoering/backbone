@@ -1,5 +1,4 @@
-Pseudoomphalina flavoaurantia Contu, 2003 SPECIES
-=======
+# Pseudoomphalina flavoaurantia Contu, 2003 SPECIES
 
 #### Status
 ACCEPTED

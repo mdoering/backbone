@@ -1,5 +1,4 @@
-Schaafella Vishnevskaya in Basov & Vishnevskaya, 1991 GENUS
-=======
+# Schaafella Vishnevskaya in Basov & Vishnevskaya, 1991 GENUS
 
 #### Status
 ACCEPTED

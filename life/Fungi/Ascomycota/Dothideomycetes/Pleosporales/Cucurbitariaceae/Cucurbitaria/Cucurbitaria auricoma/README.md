@@ -1,5 +1,4 @@
-Cucurbitaria auricoma (Wallr.) Kuntze SPECIES
-=======
+# Cucurbitaria auricoma (Wallr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

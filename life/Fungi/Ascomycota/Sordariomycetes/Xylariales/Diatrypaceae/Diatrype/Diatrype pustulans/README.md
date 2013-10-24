@@ -1,5 +1,4 @@
-Diatrype pustulans Ellis & Everh. SPECIES
-=======
+# Diatrype pustulans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

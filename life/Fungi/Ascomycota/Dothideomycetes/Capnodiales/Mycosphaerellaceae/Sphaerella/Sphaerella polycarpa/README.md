@@ -1,5 +1,4 @@
-Sphaerella polycarpa Kirschst. SPECIES
-=======
+# Sphaerella polycarpa Kirschst. SPECIES
 
 #### Status
 ACCEPTED

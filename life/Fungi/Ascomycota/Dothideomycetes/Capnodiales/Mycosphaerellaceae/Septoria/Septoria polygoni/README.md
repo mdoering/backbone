@@ -1,5 +1,4 @@
-Septoria polygoni Sousa da Câmara SPECIES
-=======
+# Septoria polygoni Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

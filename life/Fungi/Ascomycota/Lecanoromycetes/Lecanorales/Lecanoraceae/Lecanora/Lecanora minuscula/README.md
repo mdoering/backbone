@@ -1,5 +1,4 @@
-Lecanora minuscula (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora minuscula (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

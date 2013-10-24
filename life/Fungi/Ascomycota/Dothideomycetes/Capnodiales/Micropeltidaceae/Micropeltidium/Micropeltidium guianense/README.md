@@ -1,5 +1,4 @@
-Micropeltidium guianense (F. Stevens & Manter) Bat. SPECIES
-=======
+# Micropeltidium guianense (F. Stevens & Manter) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena oxyspora Pat. SPECIES
-=======
+# Mycena oxyspora Pat. SPECIES
 
 #### Status
 ACCEPTED

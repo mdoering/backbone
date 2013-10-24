@@ -1,5 +1,4 @@
-Amphidinium curvatum Schiller SPECIES
-=======
+# Amphidinium curvatum Schiller SPECIES
 
 #### Status
 ACCEPTED

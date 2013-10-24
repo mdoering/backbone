@@ -1,5 +1,4 @@
-Lissacineta Yankovskii, 1978 GENUS
-=======
+# Lissacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

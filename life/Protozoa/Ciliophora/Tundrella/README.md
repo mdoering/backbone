@@ -1,5 +1,4 @@
-Tundrella Koshevoj, 1987 GENUS
-=======
+# Tundrella Koshevoj, 1987 GENUS
 
 #### Status
 ACCEPTED

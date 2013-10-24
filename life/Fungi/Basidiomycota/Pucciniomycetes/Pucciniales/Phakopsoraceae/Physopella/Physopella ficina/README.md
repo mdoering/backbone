@@ -1,5 +1,4 @@
-Physopella ficina Arthur SPECIES
-=======
+# Physopella ficina Arthur SPECIES
 
 #### Status
 ACCEPTED

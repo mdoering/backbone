@@ -1,14 +1,13 @@
-Physcia melanoclina C. Knight SPECIES
-=======
+# Dirinaria melanoclina (C. Knight) D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 2: 77 (1975)
 
 #### Original name
 Physcia melanoclina C. Knight

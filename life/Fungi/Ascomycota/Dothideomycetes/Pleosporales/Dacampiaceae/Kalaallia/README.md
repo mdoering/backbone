@@ -1,5 +1,4 @@
-Kalaallia Alstrup & D. Hawksw. GENUS
-=======
+# Kalaallia Alstrup & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

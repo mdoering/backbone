@@ -1,5 +1,4 @@
-Lachnea salicina Velen. SPECIES
-=======
+# Lachnea salicina Velen. SPECIES
 
 #### Status
 ACCEPTED

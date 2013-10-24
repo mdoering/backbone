@@ -1,5 +1,4 @@
-Polystictus cinerellus (Cooke) Cooke SPECIES
-=======
+# Polystictus cinerellus (Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

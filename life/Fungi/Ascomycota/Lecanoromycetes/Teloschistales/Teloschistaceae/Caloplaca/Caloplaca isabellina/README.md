@@ -1,5 +1,4 @@
-Caloplaca isabellina Poelt & Hinter. SPECIES
-=======
+# Caloplaca isabellina Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

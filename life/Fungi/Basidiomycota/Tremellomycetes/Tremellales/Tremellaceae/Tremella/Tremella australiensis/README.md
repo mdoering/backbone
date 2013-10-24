@@ -1,5 +1,4 @@
-Tremella australiensis Lloyd SPECIES
-=======
+# Tremella australiensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

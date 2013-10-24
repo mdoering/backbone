@@ -1,5 +1,4 @@
-Macrophoma rhoina Ellis & Everh. SPECIES
-=======
+# Macrophoma rhoina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

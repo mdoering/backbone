@@ -1,14 +1,13 @@
-Humarina cookeina (Seaver) Seaver SPECIES
-=======
+# Humarina cookeana (Seaver) Seaver SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+North American Cup-fungi (New York), (Operculates) 137 (1928)
 
 #### Original name
 Humaria cookeana Seaver

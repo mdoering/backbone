@@ -1,14 +1,13 @@
-Myzocytium glutinosporum G.L. Barron, 1976 SPECIES
-=======
+# Myzocytiopsis glutinospora (G.L. Barron) M.W. Dick, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Microbiol. 22(5): 755 (1976)
+Mycol. Res. 101(7): 880 (1997)
 
 #### Original name
 Myzocytium glutinosporum G.L. Barron, 1976

@@ -1,5 +1,4 @@
-Bovista arachnoides Speg. SPECIES
-=======
+# Bovista arachnoides Speg. SPECIES
 
 #### Status
 ACCEPTED

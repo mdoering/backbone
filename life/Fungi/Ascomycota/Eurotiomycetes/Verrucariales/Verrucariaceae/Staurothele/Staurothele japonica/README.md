@@ -1,5 +1,4 @@
-Staurothele japonica B. de Lesd. SPECIES
-=======
+# Staurothele japonica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

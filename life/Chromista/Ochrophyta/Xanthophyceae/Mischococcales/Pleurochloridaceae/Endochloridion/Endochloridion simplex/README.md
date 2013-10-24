@@ -1,5 +1,4 @@
-Endochloridion simplex Pascher SPECIES
-=======
+# Endochloridion simplex Pascher SPECIES
 
 #### Status
 ACCEPTED

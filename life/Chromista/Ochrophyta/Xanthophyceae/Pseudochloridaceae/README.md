@@ -1,5 +1,4 @@
-Pseudochloridaceae FAMILY
-=======
+# Pseudochloridaceae FAMILY
 
 #### Status
 ACCEPTED

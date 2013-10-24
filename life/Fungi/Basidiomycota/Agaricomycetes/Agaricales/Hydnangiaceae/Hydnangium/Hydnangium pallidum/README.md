@@ -1,5 +1,4 @@
-Hydnangium pallidum Lloyd SPECIES
-=======
+# Hydnangium pallidum Lloyd SPECIES
 
 #### Status
 ACCEPTED

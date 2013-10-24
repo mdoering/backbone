@@ -1,5 +1,4 @@
-Phoma parvula Brunaud SPECIES
-=======
+# Phoma parvula Brunaud SPECIES
 
 #### Status
 ACCEPTED

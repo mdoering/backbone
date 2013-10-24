@@ -1,5 +1,4 @@
-Pararotalia nipponica Asano, 1936 SPECIES
-=======
+# Pararotalia nipponica Asano, 1936 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platystomum bupleuri Urries SPECIES
-=======
+# Platystomum bupleuri Urries SPECIES
 
 #### Status
 ACCEPTED

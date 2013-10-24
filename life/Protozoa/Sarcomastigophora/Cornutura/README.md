@@ -1,5 +1,4 @@
-Cornutura Haeckel, 1881 GENUS
-=======
+# Cornutura Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

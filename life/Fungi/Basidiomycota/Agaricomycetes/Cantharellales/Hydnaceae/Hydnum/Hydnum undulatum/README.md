@@ -1,5 +1,4 @@
-Hydnum undulatum Valenti SPECIES
-=======
+# Hydnum undulatum Valenti SPECIES
 
 #### Status
 ACCEPTED

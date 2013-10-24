@@ -1,5 +1,4 @@
-Uberinterna Sashida & Tonishi, 1988 GENUS
-=======
+# Uberinterna Sashida & Tonishi, 1988 GENUS
 
 #### Status
 ACCEPTED

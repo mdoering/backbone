@@ -1,5 +1,4 @@
-Phaeosphaerella maculans (Fr.) Traverso SPECIES
-=======
+# Phaeosphaerella maculans (Fr.) Traverso SPECIES
 
 #### Status
 ACCEPTED

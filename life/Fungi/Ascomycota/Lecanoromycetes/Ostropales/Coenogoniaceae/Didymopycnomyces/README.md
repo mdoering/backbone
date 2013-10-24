@@ -1,5 +1,4 @@
-Didymopycnomyces GENUS
-=======
+# Didymopycnomyces GENUS
 
 #### Status
 ACCEPTED

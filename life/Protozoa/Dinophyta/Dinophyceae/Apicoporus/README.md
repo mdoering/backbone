@@ -1,5 +1,4 @@
-Apicoporus Sparmann, Leander & Hoppenrath, 2008 GENUS
-=======
+# Apicoporus Sparmann, Leander & Hoppenrath, 2008 GENUS
 
 #### Status
 ACCEPTED

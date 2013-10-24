@@ -1,5 +1,4 @@
-Pseudocyphellaria margaretae D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria margaretae D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

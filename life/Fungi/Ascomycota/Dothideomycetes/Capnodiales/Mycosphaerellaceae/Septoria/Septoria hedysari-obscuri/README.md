@@ -1,5 +1,4 @@
-Septoria hedysari-obscuri Murashk. SPECIES
-=======
+# Septoria hedysari-obscuri Murashk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeothecoidea minutispora Crous & Summerell, 2009 SPECIES
-=======
+# Phaeothecoidea minutispora Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

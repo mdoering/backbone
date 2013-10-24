@@ -1,17 +1,16 @@
-Agaricus carcharius var. carcharius VARIETY
-=======
+# Cystoderma carcharias (Pers.) Fayod, 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 7 9: 351 (1889)
 
 #### Original name
-null
+Agaricus carcharias Pers., 1797
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Diplodia hyalospora Cooke & Ellis SPECIES
-=======
+# Ascochyta hyalospora (Cooke & Ellis) Boerema, S.B. Mathur & Neerg., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Neth. Jl Pl. Path. 33: 156 (1977)
 
 #### Original name
 Diplodia hyalospora Cooke & Ellis

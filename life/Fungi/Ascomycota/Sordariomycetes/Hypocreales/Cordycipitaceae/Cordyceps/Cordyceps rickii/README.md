@@ -1,5 +1,4 @@
-Cordyceps rickii Lloyd SPECIES
-=======
+# Cordyceps rickii Lloyd SPECIES
 
 #### Status
 ACCEPTED

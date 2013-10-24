@@ -1,5 +1,4 @@
-Usnea rubescens var. rubescens VARIETY
-=======
+# Usnea rubescens Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Scott. Natural. 7: 76 (1883)
+null
 
 #### Original name
-Usnea rubescens var. rubescens
+null
 
 ### Remarks
 null

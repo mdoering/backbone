@@ -1,5 +1,4 @@
-Meliola epithemae F. Stevens & Roldan SPECIES
-=======
+# Meliola epithemae F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED

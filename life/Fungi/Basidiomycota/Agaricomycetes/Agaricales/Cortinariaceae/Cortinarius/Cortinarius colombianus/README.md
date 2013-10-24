@@ -1,5 +1,4 @@
-Cortinarius colombianus (Halling & Ovrebo) Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
-=======
+# Cortinarius colombianus (Halling & Ovrebo) Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

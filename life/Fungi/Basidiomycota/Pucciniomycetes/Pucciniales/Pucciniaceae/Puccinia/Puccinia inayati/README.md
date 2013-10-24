@@ -1,5 +1,4 @@
-Puccinia inayati Syd. SPECIES
-=======
+# Puccinia inayati Syd. SPECIES
 
 #### Status
 ACCEPTED

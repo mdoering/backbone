@@ -1,5 +1,4 @@
-Omphalia ephippium Berk. & M.A. Curtis SPECIES
-=======
+# Omphalia ephippium Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

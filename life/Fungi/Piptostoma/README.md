@@ -1,5 +1,4 @@
-Piptostoma Berk. & Broome GENUS
-=======
+# Piptostoma Berk. & Broome GENUS
 
 #### Status
 ACCEPTED

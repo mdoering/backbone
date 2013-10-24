@@ -1,5 +1,4 @@
-Coleosporiaceae Dietel FAMILY
-=======
+# Coleosporiaceae Dietel FAMILY
 
 #### Status
 ACCEPTED

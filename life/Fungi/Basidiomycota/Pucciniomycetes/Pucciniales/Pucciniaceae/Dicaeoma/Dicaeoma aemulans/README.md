@@ -1,5 +1,4 @@
-Dicaeoma aemulans (Syd. & P. Syd.) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma aemulans (Syd. & P. Syd.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

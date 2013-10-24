@@ -1,5 +1,4 @@
-Psilocybe pileocystidiata Guzmán & Ram.-Guill. SPECIES
-=======
+# Psilocybe pileocystidiata Guzmán & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

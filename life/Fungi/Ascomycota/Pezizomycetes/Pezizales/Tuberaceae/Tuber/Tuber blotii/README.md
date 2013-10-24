@@ -1,5 +1,4 @@
-Tuber blotii var. blotii VARIETY
-=======
+# Tuber blotii Eudes-Desl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mémoires de la Société Linnéenne de Normandie, 1824 47 (1824)
 
 #### Original name
-Tuber blotii var. blotii
+Tuber blotii Eudes-Desl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leveillula dipsacacearum f. scabiosae (Jacz.) Golovin FORM
-=======
+# Leveillula dipsacacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula taurica f. scabiosae Jacz.
+Leveillula dipsacacearum Golovin
 
 ### Remarks
 null

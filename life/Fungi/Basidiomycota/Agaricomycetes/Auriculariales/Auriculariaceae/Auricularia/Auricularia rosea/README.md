@@ -1,5 +1,4 @@
-Auricularia rosea Burt SPECIES
-=======
+# Auricularia rosea Burt SPECIES
 
 #### Status
 ACCEPTED

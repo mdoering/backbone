@@ -1,5 +1,4 @@
-Clitocybe ferrugineoalba Singer SPECIES
-=======
+# Clitocybe ferrugineoalba Singer SPECIES
 
 #### Status
 ACCEPTED

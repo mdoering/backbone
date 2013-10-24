@@ -1,5 +1,4 @@
-Stictis chilensis Speg. SPECIES
-=======
+# Stictis chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

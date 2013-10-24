@@ -1,5 +1,4 @@
-Merulius consimilis Lloyd SPECIES
-=======
+# Merulius consimilis Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola longipedicellata (F. Stevens) Cif. SPECIES
-=======
+# Meliola longipedicellata (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria pyrina Kunze SPECIES
-=======
+# Sphaeria pyrina Kunze SPECIES
 
 #### Status
 ACCEPTED

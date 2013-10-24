@@ -1,5 +1,4 @@
-Ascochyta senecionis Fuckel, 1870 SPECIES
-=======
+# Ascochyta senecionis Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma tomilinii Annal. SPECIES
-=======
+# Entyloma tomilinii Annal. SPECIES
 
 #### Status
 ACCEPTED

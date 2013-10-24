@@ -1,5 +1,4 @@
-Hypocopra consanguinea (Ces.) Sacc. SPECIES
-=======
+# Hypocopra consanguinea (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

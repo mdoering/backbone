@@ -1,5 +1,4 @@
-Streptotheca boudieri Vuill. SPECIES
-=======
+# Streptotheca boudieri Vuill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Acolium notarisii Tul. SPECIES
-=======
+# Cyphelium notarisii (Tul.) Blomb. & Forssell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enum. Pl. Scand. 95 (1880)
 
 #### Original name
 Acolium notarisii Tul.

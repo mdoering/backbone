@@ -1,5 +1,4 @@
-Phenylobacterium lituiforme Kanso & Patel, 2004 SPECIES
-=======
+# Phenylobacterium lituiforme Kanso & Patel, 2004 SPECIES
 
 #### Status
 ACCEPTED

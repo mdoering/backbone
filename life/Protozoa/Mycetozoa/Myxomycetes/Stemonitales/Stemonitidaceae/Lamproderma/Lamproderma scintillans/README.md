@@ -1,17 +1,16 @@
-Lamproderma arcyrioides var. irideum Cooke VARIETY
-=======
+# Lamproderma scintillans (Berk. & Broome) Morgan, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Mycol. Brit. 50 (1877)
+J. Cincinnati Soc. Nat. Hist. 16: 131 (1894)
 
 #### Original name
-Lamproderma arcyrioides var. irideum Cooke
+Stemonitis scintillans Berk. & Broome, 1876
 
 ### Remarks
 null

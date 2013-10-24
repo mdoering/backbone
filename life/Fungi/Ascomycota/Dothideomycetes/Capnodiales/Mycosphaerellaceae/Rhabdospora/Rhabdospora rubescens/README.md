@@ -1,5 +1,4 @@
-Rhabdospora rubescens P. Karst. SPECIES
-=======
+# Rhabdospora rubescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

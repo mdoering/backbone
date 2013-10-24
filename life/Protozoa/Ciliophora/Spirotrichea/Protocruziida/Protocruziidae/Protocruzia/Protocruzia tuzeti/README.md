@@ -1,5 +1,4 @@
-Protocruzia tuzeti Villeneuve-Brachon, 1940 SPECIES
-=======
+# Protocruzia tuzeti Villeneuve-Brachon, 1940 SPECIES
 
 #### Status
 ACCEPTED

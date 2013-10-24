@@ -1,5 +1,4 @@
-Gloeomucro R.H. Petersen GENUS
-=======
+# Gloeomucro R.H. Petersen GENUS
 
 #### Status
 ACCEPTED

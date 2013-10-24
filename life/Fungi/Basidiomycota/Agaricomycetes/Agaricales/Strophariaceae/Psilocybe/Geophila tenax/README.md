@@ -1,5 +1,4 @@
-Geophila tenax (Fr.) Kühner & Romagn. SPECIES
-=======
+# Geophila tenax (Fr.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

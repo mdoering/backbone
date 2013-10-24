@@ -1,5 +1,4 @@
-Ceriospora patouillardii Letendre ex Pat. SPECIES
-=======
+# Ceriospora patouillardii Letendre ex Pat. SPECIES
 
 #### Status
 ACCEPTED

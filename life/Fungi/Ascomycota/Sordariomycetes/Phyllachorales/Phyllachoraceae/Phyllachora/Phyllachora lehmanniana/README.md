@@ -1,5 +1,4 @@
-Phyllachora lehmanniana Henn., 1897 SPECIES
-=======
+# Phyllachora lehmanniana Henn., 1897 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caseobacterium GENUS
-=======
+# Caseobacterium GENUS
 
 #### Status
 ACCEPTED

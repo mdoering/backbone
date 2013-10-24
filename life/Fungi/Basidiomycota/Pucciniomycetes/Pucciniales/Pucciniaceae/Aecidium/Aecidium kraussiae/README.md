@@ -1,5 +1,4 @@
-Aecidium kraussiae Syd. & P. Syd. SPECIES
-=======
+# Aecidium kraussiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

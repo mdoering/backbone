@@ -1,5 +1,4 @@
-Nostoc ellipsoideum Gardner SPECIES
-=======
+# Nostoc ellipsoideum Gardner SPECIES
 
 #### Status
 ACCEPTED

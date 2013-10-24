@@ -1,5 +1,4 @@
-Aurantiosporium scleriae Vánky, 2002 SPECIES
-=======
+# Aurantiosporium scleriae Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

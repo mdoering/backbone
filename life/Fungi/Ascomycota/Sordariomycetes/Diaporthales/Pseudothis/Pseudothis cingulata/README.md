@@ -1,5 +1,4 @@
-Pseudothis cingulata Syd. SPECIES
-=======
+# Pseudothis cingulata Syd. SPECIES
 
 #### Status
 ACCEPTED

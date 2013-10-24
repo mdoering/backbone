@@ -1,5 +1,4 @@
-Vermicularia hesperidicola Oudem. SPECIES
-=======
+# Vermicularia hesperidicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capitotricha GENUS
-=======
+# Capitotricha GENUS
 
 #### Status
 ACCEPTED

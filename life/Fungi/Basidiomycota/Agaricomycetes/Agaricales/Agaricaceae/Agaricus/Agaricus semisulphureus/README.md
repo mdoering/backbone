@@ -1,5 +1,4 @@
-Agaricus semisulphureus J. Otto SPECIES
-=======
+# Agaricus semisulphureus J. Otto SPECIES
 
 #### Status
 ACCEPTED

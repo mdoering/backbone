@@ -1,5 +1,4 @@
-Sphaerella lobeliae Petch SPECIES
-=======
+# Sphaerella lobeliae Petch SPECIES
 
 #### Status
 ACCEPTED

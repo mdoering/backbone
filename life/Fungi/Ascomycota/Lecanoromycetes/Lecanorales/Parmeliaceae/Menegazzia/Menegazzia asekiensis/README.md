@@ -1,5 +1,4 @@
-Menegazzia asekiensis Elix SPECIES
-=======
+# Menegazzia asekiensis Elix SPECIES
 
 #### Status
 ACCEPTED

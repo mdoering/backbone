@@ -1,5 +1,4 @@
-Entoloma rhynchocystidiatum Noordel. & Liiv SPECIES
-=======
+# Entoloma rhynchocystidiatum Noordel. & Liiv SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta calthae Tranzschel SPECIES
-=======
+# Phyllosticta calthae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

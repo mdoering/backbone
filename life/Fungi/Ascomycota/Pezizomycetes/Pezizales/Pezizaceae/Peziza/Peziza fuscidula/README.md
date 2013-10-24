@@ -1,5 +1,4 @@
-Peziza fuscidula Cooke SPECIES
-=======
+# Peziza fuscidula Cooke SPECIES
 
 #### Status
 ACCEPTED

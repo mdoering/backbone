@@ -1,5 +1,4 @@
-Graphis puiggarii (Müll. Arg.) Lücking SPECIES
-=======
+# Graphis puiggarii (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peyronellaea pinodes (Berk. & A. Bloxam) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Mycosphaerella pinodes (Berk. & A. Bloxam) Vestergr., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 10(5): 581 (1912)
 
 #### Original name
-null
+Sphaeria pinodes Berk. & A. Bloxam, 1861
 
 ### Remarks
 null

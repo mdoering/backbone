@@ -1,5 +1,4 @@
-Didymella psoriella (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Didymella psoriella (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

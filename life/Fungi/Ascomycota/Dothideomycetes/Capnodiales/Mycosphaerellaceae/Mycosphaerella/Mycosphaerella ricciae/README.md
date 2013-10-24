@@ -1,5 +1,4 @@
-Mycosphaerella ricciae Pavgi & L. Singh SPECIES
-=======
+# Mycosphaerella ricciae Pavgi & L. Singh SPECIES
 
 #### Status
 ACCEPTED

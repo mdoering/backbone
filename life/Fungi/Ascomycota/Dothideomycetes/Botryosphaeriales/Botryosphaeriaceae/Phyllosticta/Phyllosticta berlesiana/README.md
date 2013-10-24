@@ -1,5 +1,4 @@
-Phyllosticta berlesiana Sacc. SPECIES
-=======
+# Phyllosticta berlesiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

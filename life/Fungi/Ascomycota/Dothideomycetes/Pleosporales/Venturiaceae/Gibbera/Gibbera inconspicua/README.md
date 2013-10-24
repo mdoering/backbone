@@ -1,5 +1,4 @@
-Gibbera inconspicua Petr. SPECIES
-=======
+# Gibbera inconspicua Petr. SPECIES
 
 #### Status
 ACCEPTED

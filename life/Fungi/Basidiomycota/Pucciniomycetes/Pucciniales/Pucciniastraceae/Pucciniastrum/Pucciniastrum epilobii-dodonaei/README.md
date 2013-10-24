@@ -1,5 +1,4 @@
-Pucciniastrum epilobii-dodonaei Dietel & Eichhorn SPECIES
-=======
+# Pucciniastrum epilobii-dodonaei Dietel & Eichhorn SPECIES
 
 #### Status
 ACCEPTED

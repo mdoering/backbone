@@ -1,5 +1,4 @@
-Leptosphaeria chrysanthemicola Khashn., Shearer & J.L. Crane SPECIES
-=======
+# Leptosphaeria chrysanthemicola Khashn., Shearer & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

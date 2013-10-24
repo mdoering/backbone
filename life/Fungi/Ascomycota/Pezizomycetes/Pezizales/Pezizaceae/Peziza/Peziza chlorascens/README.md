@@ -1,5 +1,4 @@
-Peziza chlorascens Schwein. SPECIES
-=======
+# Peziza chlorascens Schwein. SPECIES
 
 #### Status
 ACCEPTED

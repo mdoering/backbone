@@ -1,5 +1,4 @@
-Lepiota bichroma E. Horak SPECIES
-=======
+# Lepiota bichroma E. Horak SPECIES
 
 #### Status
 ACCEPTED

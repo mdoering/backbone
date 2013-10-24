@@ -1,5 +1,4 @@
-Gloeocapsa quaternata (Brébisson) Kützing SPECIES
-=======
+# Gloeocapsa quaternata (Brébisson) Kützing SPECIES
 
 #### Status
 ACCEPTED

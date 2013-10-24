@@ -1,8 +1,7 @@
-Gomphosphaeria litoralis Häyrén SPECIES
-=======
+# Snowella litoralis (Häyrén) Komárek & Hindák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

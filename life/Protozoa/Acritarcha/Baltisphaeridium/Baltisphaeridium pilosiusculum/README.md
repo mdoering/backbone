@@ -1,5 +1,4 @@
-Baltisphaeridium pilosiusculum Jankauskas in Volkova et al., 1979 SPECIES
-=======
+# Baltisphaeridium pilosiusculum Jankauskas in Volkova et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

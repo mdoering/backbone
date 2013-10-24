@@ -1,5 +1,4 @@
-Orbilia pilosa (Dennis) Baral SPECIES
-=======
+# Orbilia pilosa (Dennis) Baral SPECIES
 
 #### Status
 ACCEPTED

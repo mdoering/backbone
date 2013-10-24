@@ -1,5 +1,4 @@
-Rinodina granulans Vain. SPECIES
-=======
+# Rinodina granulans Vain. SPECIES
 
 #### Status
 ACCEPTED

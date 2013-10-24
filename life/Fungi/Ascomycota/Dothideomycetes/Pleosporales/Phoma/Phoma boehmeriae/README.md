@@ -1,5 +1,4 @@
-Phoma boehmeriae Henn. SPECIES
-=======
+# Phoma boehmeriae Henn. SPECIES
 
 #### Status
 ACCEPTED

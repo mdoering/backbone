@@ -1,5 +1,4 @@
-Vermiculariopsis circinotricha Torrend SPECIES
-=======
+# Vermiculariopsis circinotricha Torrend SPECIES
 
 #### Status
 ACCEPTED

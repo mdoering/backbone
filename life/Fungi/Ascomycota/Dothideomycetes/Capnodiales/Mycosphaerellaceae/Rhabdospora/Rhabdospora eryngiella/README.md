@@ -1,5 +1,4 @@
-Rhabdospora eryngiella Bubák & Wróbl. SPECIES
-=======
+# Rhabdospora eryngiella Bubák & Wróbl. SPECIES
 
 #### Status
 ACCEPTED

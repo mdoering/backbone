@@ -1,5 +1,4 @@
-Sporisorium trachypogonis-plumosi Vánky SPECIES
-=======
+# Sporisorium trachypogonis-plumosi Vánky SPECIES
 
 #### Status
 ACCEPTED

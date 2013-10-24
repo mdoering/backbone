@@ -1,5 +1,4 @@
-Heppia furva Hue SPECIES
-=======
+# Heppia furva Hue SPECIES
 
 #### Status
 ACCEPTED

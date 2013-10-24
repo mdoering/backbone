@@ -1,5 +1,4 @@
-Marasmius echinosphaerus Singer SPECIES
-=======
+# Marasmius echinosphaerus Singer SPECIES
 
 #### Status
 ACCEPTED

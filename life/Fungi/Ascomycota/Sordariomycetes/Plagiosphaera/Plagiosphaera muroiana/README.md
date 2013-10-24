@@ -1,5 +1,4 @@
-Plagiosphaera muroiana (I. Hino & Katum.) J. Walker SPECIES
-=======
+# Plagiosphaera muroiana (I. Hino & Katum.) J. Walker SPECIES
 
 #### Status
 ACCEPTED

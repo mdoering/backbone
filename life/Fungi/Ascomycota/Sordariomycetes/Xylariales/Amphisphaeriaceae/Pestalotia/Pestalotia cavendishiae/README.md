@@ -1,5 +1,4 @@
-Pestalotia cavendishiae Chardón & Toro SPECIES
-=======
+# Pestalotia cavendishiae Chardón & Toro SPECIES
 
 #### Status
 ACCEPTED

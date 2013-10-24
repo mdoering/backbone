@@ -1,5 +1,4 @@
-Crepidotus tubidulus anon. SPECIES
-=======
+# Crepidotus tubidulus anon. SPECIES
 
 #### Status
 ACCEPTED

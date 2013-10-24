@@ -1,5 +1,4 @@
-Trametes guyoniana Mont. SPECIES
-=======
+# Trametes guyoniana Mont. SPECIES
 
 #### Status
 ACCEPTED

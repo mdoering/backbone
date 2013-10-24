@@ -1,5 +1,4 @@
-Rhynchophoromyces denticulatus Thaxt., 1908 SPECIES
-=======
+# Rhynchophoromyces denticulatus Thaxt., 1908 SPECIES
 
 #### Status
 ACCEPTED

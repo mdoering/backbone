@@ -1,5 +1,4 @@
-Balantidium strelkovi Ky, 1971 SPECIES
-=======
+# Balantidium strelkovi Ky, 1971 SPECIES
 
 #### Status
 ACCEPTED

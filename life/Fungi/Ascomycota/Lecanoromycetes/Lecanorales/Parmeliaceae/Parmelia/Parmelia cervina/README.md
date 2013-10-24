@@ -1,5 +1,4 @@
-Parmelia cervina var. cervina VARIETY
-=======
+# Parmelia cervina SPECIES
 
 #### Status
 ACCEPTED

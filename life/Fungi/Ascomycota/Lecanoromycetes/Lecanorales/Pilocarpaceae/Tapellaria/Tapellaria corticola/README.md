@@ -1,5 +1,4 @@
-Tapellaria corticola Kalb & Vezda SPECIES
-=======
+# Tapellaria corticola Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

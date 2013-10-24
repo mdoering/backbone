@@ -1,5 +1,4 @@
-Pseudocercosporella litseae A.N. Rai, B. Rai & Kamal SPECIES
-=======
+# Pseudocercosporella litseae A.N. Rai, B. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

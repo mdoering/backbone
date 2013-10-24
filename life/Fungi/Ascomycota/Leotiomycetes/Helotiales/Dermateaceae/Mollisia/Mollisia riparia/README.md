@@ -1,5 +1,4 @@
-Mollisia riparia (Sacc.) Sacc. SPECIES
-=======
+# Mollisia riparia (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

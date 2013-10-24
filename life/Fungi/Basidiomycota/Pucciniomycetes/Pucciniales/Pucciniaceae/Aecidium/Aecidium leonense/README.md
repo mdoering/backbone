@@ -1,5 +1,4 @@
-Aecidium leonense Cummins SPECIES
-=======
+# Aecidium leonense Cummins SPECIES
 
 #### Status
 ACCEPTED

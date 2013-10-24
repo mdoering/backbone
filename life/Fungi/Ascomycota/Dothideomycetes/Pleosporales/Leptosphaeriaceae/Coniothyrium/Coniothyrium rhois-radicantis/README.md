@@ -1,5 +1,4 @@
-Coniothyrium rhois-radicantis (Sacc.) Biga, Cif. & Bestagno SPECIES
-=======
+# Coniothyrium rhois-radicantis (Sacc.) Biga, Cif. & Bestagno SPECIES
 
 #### Status
 ACCEPTED

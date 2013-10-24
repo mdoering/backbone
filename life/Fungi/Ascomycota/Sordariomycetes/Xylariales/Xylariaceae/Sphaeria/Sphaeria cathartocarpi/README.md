@@ -1,5 +1,4 @@
-Sphaeria cathartocarpi Lév. SPECIES
-=======
+# Sphaeria cathartocarpi Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria virgultorum Pers. SPECIES
-=======
+# Clavaria virgultorum Pers. SPECIES
 
 #### Status
 ACCEPTED

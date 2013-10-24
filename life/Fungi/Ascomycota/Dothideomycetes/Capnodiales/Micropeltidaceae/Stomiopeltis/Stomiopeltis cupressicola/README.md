@@ -1,5 +1,4 @@
-Stomiopeltis cupressicola J.P. Ellis, 1977 SPECIES
-=======
+# Stomiopeltis cupressicola J.P. Ellis, 1977 SPECIES
 
 #### Status
 ACCEPTED

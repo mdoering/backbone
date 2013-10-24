@@ -1,5 +1,4 @@
-Lentinus cylindrosporus Henn. SPECIES
-=======
+# Lentinus cylindrosporus Henn. SPECIES
 
 #### Status
 ACCEPTED

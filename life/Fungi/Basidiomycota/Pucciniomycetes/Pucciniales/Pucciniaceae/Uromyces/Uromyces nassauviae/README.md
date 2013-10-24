@@ -1,5 +1,4 @@
-Uromyces nassauviae J.C. Lindq. SPECIES
-=======
+# Uromyces nassauviae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

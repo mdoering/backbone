@@ -1,5 +1,4 @@
-Polyporus psilodermus Berk. & Mont. SPECIES
-=======
+# Polyporus psilodermus Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium decerptum Eiserhardt, 1989 SPECIES
-=======
+# Baltisphaeridium decerptum Eiserhardt, 1989 SPECIES
 
 #### Status
 ACCEPTED

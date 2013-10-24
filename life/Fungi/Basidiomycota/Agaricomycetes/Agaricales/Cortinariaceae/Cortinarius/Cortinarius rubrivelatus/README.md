@@ -1,5 +1,4 @@
-Cortinarius rubrivelatus Garnica SPECIES
-=======
+# Cortinarius rubrivelatus Garnica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenticulina reniformis (d'Orbigny) SPECIES
-=======
+# Lenticulina reniformis (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

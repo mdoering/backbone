@@ -1,5 +1,4 @@
-Polystictus ravenelii Berk. & Fr. SPECIES
-=======
+# Polystictus ravenelii Berk. & Fr. SPECIES
 
 #### Status
 ACCEPTED

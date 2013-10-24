@@ -1,5 +1,4 @@
-Flammula olivacea Pat. SPECIES
-=======
+# Flammula olivacea Pat. SPECIES
 
 #### Status
 ACCEPTED

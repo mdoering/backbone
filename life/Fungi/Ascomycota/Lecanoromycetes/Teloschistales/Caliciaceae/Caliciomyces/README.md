@@ -1,5 +1,4 @@
-Caliciomyces GENUS
-=======
+# Caliciomyces GENUS
 
 #### Status
 ACCEPTED

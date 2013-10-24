@@ -1,14 +1,13 @@
-Calycina albuminea (Cooke & Peck) Kuntze SPECIES
-=======
+# Calycina albuminum (Cooke & Peck) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(3): 448 (1898)
 
 #### Original name
 Helotium albuminum (Cooke & Peck) Sacc.

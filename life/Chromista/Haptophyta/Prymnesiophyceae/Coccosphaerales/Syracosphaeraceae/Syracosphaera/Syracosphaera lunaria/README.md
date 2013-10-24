@@ -1,5 +1,4 @@
-Syracosphaera lunaria H. Stradner & R. Fuchs SPECIES
-=======
+# Syracosphaera lunaria H. Stradner & R. Fuchs SPECIES
 
 #### Status
 ACCEPTED

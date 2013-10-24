@@ -1,5 +1,4 @@
-Terfezia goffartii Chatin SPECIES
-=======
+# Terfezia goffartii Chatin SPECIES
 
 #### Status
 ACCEPTED

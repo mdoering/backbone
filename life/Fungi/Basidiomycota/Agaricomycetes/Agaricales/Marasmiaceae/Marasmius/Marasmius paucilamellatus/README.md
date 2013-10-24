@@ -1,5 +1,4 @@
-Marasmius paucilamellatus Desjardin & E. Horak SPECIES
-=======
+# Marasmius paucilamellatus Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

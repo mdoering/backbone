@@ -1,5 +1,4 @@
-Botryosphaeria juglandis (Mont.) Sacc. SPECIES
-=======
+# Botryosphaeria juglandis (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

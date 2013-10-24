@@ -1,5 +1,4 @@
-Asterina wingfieldii Hosag., N.P. Balakr. & Goos SPECIES
-=======
+# Asterina wingfieldii Hosag., N.P. Balakr. & Goos SPECIES
 
 #### Status
 ACCEPTED

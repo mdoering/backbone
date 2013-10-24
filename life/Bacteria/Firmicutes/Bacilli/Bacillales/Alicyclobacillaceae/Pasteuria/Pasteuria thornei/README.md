@@ -1,5 +1,4 @@
-Pasteuria thornei Starr & Sayre, 1988 SPECIES
-=======
+# Pasteuria thornei Starr & Sayre, 1988 SPECIES
 
 #### Status
 ACCEPTED

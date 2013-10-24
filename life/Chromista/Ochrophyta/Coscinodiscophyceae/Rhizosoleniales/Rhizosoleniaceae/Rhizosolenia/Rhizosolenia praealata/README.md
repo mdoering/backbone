@@ -1,5 +1,4 @@
-Rhizosolenia praealata H.J. Schrader SPECIES
-=======
+# Rhizosolenia praealata H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

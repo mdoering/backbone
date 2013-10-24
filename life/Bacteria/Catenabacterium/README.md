@@ -1,5 +1,4 @@
-Catenabacterium GENUS
-=======
+# Catenabacterium GENUS
 
 #### Status
 ACCEPTED

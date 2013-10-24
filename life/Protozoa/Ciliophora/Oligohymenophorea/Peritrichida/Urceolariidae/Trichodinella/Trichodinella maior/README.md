@@ -1,5 +1,4 @@
-Trichodinella maior Reichenbach-Klinke SPECIES
-=======
+# Trichodinella maior Reichenbach-Klinke SPECIES
 
 #### Status
 ACCEPTED

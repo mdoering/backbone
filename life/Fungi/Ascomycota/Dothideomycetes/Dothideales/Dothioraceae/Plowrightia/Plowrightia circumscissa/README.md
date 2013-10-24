@@ -1,5 +1,4 @@
-Plowrightia circumscissa Tracy & Earle SPECIES
-=======
+# Plowrightia circumscissa Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

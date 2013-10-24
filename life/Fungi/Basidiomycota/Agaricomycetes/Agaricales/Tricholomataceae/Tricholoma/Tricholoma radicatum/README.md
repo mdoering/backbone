@@ -1,5 +1,4 @@
-Tricholoma radicatum Peck SPECIES
-=======
+# Tricholoma radicatum Peck SPECIES
 
 #### Status
 ACCEPTED

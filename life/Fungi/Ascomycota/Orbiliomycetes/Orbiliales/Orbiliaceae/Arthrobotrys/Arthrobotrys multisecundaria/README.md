@@ -1,5 +1,4 @@
-Arthrobotrys multisecundaria W.F. Hu & K.Q. Zhang SPECIES
-=======
+# Arthrobotrys multisecundaria W.F. Hu & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

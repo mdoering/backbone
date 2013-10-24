@@ -1,5 +1,4 @@
-Acineta craterellus SPECIES
-=======
+# Acineta craterellus SPECIES
 
 #### Status
 ACCEPTED

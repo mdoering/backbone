@@ -1,5 +1,4 @@
-Graphis multisepta SPECIES
-=======
+# Graphis multisepta SPECIES
 
 #### Status
 ACCEPTED

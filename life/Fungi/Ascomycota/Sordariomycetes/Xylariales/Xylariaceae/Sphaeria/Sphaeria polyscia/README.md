@@ -1,5 +1,4 @@
-Sphaeria polyscia Berk. & Broome SPECIES
-=======
+# Sphaeria polyscia Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

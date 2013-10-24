@@ -1,5 +1,4 @@
-Coniophora lichenoides Massee SPECIES
-=======
+# Coniophora lichenoides Massee SPECIES
 
 #### Status
 ACCEPTED

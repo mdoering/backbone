@@ -1,5 +1,4 @@
-Imbricaria constrictans (Nyl.) Jatta SPECIES
-=======
+# Imbricaria constrictans (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

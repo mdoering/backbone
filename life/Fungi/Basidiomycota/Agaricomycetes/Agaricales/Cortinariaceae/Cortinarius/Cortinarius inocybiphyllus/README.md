@@ -1,5 +1,4 @@
-Cortinarius inocybiphyllus M.M. Moser SPECIES
-=======
+# Cortinarius inocybiphyllus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

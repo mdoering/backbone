@@ -1,5 +1,4 @@
-Lecanora tomentella Motyka SPECIES
-=======
+# Lecanora tomentella Motyka SPECIES
 
 #### Status
 ACCEPTED

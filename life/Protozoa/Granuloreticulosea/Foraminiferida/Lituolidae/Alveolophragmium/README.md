@@ -1,14 +1,13 @@
-Alveophragmium GENUS
-=======
+# Alveolophragmium Stschedrina, 1936 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Zool. Anz. , 114, 314.
 
 #### Original name
 null

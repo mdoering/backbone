@@ -1,5 +1,4 @@
-Gyrodinium cochlea Lebour SPECIES
-=======
+# Gyrodinium cochlea Lebour SPECIES
 
 #### Status
 ACCEPTED

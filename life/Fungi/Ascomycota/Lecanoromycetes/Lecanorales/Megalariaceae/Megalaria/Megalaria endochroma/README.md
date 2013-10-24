@@ -1,5 +1,4 @@
-Megalaria endochroma (Fée) Fryday & Lendemer SPECIES
-=======
+# Megalaria endochroma (Fée) Fryday & Lendemer SPECIES
 
 #### Status
 ACCEPTED

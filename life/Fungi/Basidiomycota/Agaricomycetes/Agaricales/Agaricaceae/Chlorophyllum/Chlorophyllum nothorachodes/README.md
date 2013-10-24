@@ -1,5 +1,4 @@
-Chlorophyllum nothorachodes Vellinga & Lepp, 2003 SPECIES
-=======
+# Chlorophyllum nothorachodes Vellinga & Lepp, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hysterium gerardi Cooke SPECIES
-=======
+# Hysterium gerardii Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hysterium gerardi Cooke
+Hysterium gerardii Cooke
 
 ### Remarks
 null

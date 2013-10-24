@@ -1,5 +1,4 @@
-Verrucaria forissii Servít SPECIES
-=======
+# Verrucaria forissii Servít SPECIES
 
 #### Status
 ACCEPTED

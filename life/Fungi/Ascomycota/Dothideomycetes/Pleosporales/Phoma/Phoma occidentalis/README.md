@@ -1,5 +1,4 @@
-Phoma occidentalis Sacc. SPECIES
-=======
+# Phoma occidentalis Sacc. SPECIES
 
 #### Status
 ACCEPTED

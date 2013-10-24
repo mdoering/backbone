@@ -1,5 +1,4 @@
-Aedycia proxima (Berk. & Broome) Kuntze SPECIES
-=======
+# Aedycia proxima (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

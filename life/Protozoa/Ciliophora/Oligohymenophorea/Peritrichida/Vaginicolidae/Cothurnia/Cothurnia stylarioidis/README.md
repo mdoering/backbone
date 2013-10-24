@@ -1,5 +1,4 @@
-Cothurnia stylarioidis Precht, 1935 SPECIES
-=======
+# Cothurnia stylarioidis Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

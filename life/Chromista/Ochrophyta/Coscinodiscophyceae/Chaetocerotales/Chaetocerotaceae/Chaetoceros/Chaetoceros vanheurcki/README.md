@@ -1,5 +1,4 @@
-Chaetoceros vanheurcki Gran SPECIES
-=======
+# Chaetoceros vanheurcki Gran SPECIES
 
 #### Status
 ACCEPTED

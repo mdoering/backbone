@@ -1,5 +1,4 @@
-Psilocybe mutans McKnight SPECIES
-=======
+# Psilocybe mutans McKnight SPECIES
 
 #### Status
 ACCEPTED

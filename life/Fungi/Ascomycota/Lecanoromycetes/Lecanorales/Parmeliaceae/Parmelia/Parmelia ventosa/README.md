@@ -1,5 +1,4 @@
-Parmelia ventosa SPECIES
-=======
+# Parmelia ventosa SPECIES
 
 #### Status
 ACCEPTED

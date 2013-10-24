@@ -1,5 +1,4 @@
-Mikrosyphar sphacelariae Levring SPECIES
-=======
+# Mikrosyphar sphacelariae Levring SPECIES
 
 #### Status
 ACCEPTED

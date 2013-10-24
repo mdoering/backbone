@@ -1,5 +1,4 @@
-Zygopychia Klöcker, 1924 GENUS
-=======
+# Zygopychia Klöcker, 1924 GENUS
 
 #### Status
 ACCEPTED

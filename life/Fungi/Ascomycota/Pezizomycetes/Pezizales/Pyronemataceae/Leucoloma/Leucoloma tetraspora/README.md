@@ -1,5 +1,4 @@
-Leucoloma tetraspora Fuckel SPECIES
-=======
+# Leucoloma tetraspora Fuckel SPECIES
 
 #### Status
 ACCEPTED

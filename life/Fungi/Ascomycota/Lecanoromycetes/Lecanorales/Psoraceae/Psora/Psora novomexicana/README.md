@@ -1,5 +1,4 @@
-Psora novomexicana B. de Lesd. SPECIES
-=======
+# Psora novomexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

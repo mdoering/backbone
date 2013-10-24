@@ -1,5 +1,4 @@
-Pyrgo vespertilio SPECIES
-=======
+# Pyrgo vespertilio SPECIES
 
 #### Status
 ACCEPTED

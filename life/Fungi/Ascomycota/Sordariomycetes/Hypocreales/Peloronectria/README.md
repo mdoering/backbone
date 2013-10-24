@@ -1,5 +1,4 @@
-Peloronectria Möller GENUS
-=======
+# Peloronectria Möller GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uroleptus sphagni Stokes, 1886 SPECIES
-=======
+# Uroleptus sphagni Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

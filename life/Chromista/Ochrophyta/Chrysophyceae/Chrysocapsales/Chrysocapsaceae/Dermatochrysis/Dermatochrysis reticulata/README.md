@@ -1,8 +1,7 @@
-Tetrasporopsis reticulata K.I. Meyer SPECIES
-=======
+# Dermatochrysis reticulata (K.I. Meyer) T.J. Entwisle & R.A. Andersen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

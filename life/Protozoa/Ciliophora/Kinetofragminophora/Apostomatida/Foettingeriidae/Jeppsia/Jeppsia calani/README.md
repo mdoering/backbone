@@ -1,5 +1,4 @@
-Jeppsia calani (Jepps, 1937) Corliss, 1960 SPECIES
-=======
+# Jeppsia calani (Jepps, 1937) Corliss, 1960 SPECIES
 
 #### Status
 ACCEPTED

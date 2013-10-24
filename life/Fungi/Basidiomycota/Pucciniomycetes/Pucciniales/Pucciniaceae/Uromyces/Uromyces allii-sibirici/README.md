@@ -1,5 +1,4 @@
-Uromyces allii-sibirici Gjaerum, 1970 SPECIES
-=======
+# Uromyces allii-sibirici Gjaerum, 1970 SPECIES
 
 #### Status
 ACCEPTED

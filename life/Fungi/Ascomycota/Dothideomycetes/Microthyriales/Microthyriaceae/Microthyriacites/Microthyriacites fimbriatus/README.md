@@ -1,5 +1,4 @@
-Microthyriacites fimbriatus Cookson SPECIES
-=======
+# Microthyriacites fimbriatus Cookson SPECIES
 
 #### Status
 ACCEPTED

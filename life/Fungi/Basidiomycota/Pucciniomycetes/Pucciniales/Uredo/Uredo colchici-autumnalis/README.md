@@ -1,5 +1,4 @@
-Uredo colchici-autumnalis A.L. Guyot & Massenot SPECIES
-=======
+# Uredo colchici-autumnalis A.L. Guyot & Massenot SPECIES
 
 #### Status
 ACCEPTED

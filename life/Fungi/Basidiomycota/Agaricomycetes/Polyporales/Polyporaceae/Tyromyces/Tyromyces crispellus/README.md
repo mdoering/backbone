@@ -1,5 +1,4 @@
-Tyromyces crispellus (Peck) Murrill SPECIES
-=======
+# Tyromyces crispellus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

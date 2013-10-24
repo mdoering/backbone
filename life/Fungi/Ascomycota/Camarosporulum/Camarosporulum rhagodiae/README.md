@@ -1,5 +1,4 @@
-Camarosporulum rhagodiae (Tassi) Tassi SPECIES
-=======
+# Camarosporulum rhagodiae (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

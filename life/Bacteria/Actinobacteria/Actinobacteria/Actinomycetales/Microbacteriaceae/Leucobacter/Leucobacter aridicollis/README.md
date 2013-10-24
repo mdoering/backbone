@@ -1,5 +1,4 @@
-Leucobacter aridicollis Morais et al., 2005 SPECIES
-=======
+# Leucobacter aridicollis Morais et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

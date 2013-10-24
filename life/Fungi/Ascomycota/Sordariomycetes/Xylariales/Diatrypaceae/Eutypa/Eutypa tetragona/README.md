@@ -1,17 +1,16 @@
-Eutypa tetragona f. tetragona FORM
-=======
+# Eutypa tetragona (Duby) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 1: 166 (1882)
 
 #### Original name
-Eutypa tetragona f. tetragona
+Sphaeria tetragona Duby, 1830
 
 ### Remarks
 null

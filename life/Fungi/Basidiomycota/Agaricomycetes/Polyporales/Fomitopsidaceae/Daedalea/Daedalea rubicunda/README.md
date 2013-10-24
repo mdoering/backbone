@@ -1,5 +1,4 @@
-Daedalea rubicunda Klotzsch SPECIES
-=======
+# Daedalea rubicunda Klotzsch SPECIES
 
 #### Status
 ACCEPTED

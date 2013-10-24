@@ -1,5 +1,4 @@
-Cerotelium clemensiae Syd. SPECIES
-=======
+# Cerotelium clemensiae Syd. SPECIES
 
 #### Status
 ACCEPTED

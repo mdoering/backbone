@@ -1,17 +1,16 @@
-Trichidium Rafinesque, 1815 GENUS
-=======
+# Trichia Haller, 1768 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hist. stirp. Helv. 3: 114 (1768)
 
 #### Original name
-Trichidium Rafinesque, 1815
+Trichia Haller, 1768
 
 ### Remarks
 null

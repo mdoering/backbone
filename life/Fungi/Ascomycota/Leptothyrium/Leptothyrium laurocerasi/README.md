@@ -1,5 +1,4 @@
-Leptothyrium laurocerasi Siemaszko SPECIES
-=======
+# Leptothyrium laurocerasi Siemaszko SPECIES
 
 #### Status
 ACCEPTED

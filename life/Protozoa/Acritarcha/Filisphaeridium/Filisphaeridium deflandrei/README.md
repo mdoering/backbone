@@ -1,5 +1,4 @@
-Filisphaeridium deflandrei (Valensi, 1949) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium deflandrei (Valensi, 1949) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

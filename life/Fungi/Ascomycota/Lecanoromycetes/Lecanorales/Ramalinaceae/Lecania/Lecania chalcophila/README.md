@@ -1,5 +1,4 @@
-Lecania chalcophila B. D. Ryan & van den Boom SPECIES
-=======
+# Lecania chalcophila B. D. Ryan & van den Boom SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea olympiana Kanouse SPECIES
-=======
+# Phialea olympiana Kanouse SPECIES
 
 #### Status
 ACCEPTED

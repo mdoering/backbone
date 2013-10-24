@@ -1,5 +1,4 @@
-Septoria scopariae Westend. SPECIES
-=======
+# Septoria scopariae Westend. SPECIES
 
 #### Status
 ACCEPTED

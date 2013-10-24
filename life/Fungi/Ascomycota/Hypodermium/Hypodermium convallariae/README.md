@@ -1,5 +1,4 @@
-Hypodermium convallariae Link SPECIES
-=======
+# Hypodermium convallariae Link SPECIES
 
 #### Status
 ACCEPTED

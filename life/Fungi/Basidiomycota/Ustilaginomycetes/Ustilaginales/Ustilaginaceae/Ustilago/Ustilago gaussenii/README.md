@@ -1,17 +1,16 @@
-Ustilago gausseni Durrieu SPECIES
-=======
+# Ustilago gaussenii Durrieu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. Hist. nat. Toulouse 108(3-4): 435 (1973)
 
 #### Original name
-Ustilago gausseni Durrieu
+Ustilago gaussenii Durrieu
 
 ### Remarks
 null

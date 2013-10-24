@@ -1,5 +1,4 @@
-Acarospora asahinae H. Magn. SPECIES
-=======
+# Acarospora asahinae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

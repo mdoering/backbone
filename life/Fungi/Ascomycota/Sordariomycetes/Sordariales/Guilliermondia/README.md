@@ -1,5 +1,4 @@
-Guilliermondia Boudier, 1904 GENUS
-=======
+# Guilliermondia Boudier, 1904 GENUS
 
 #### Status
 ACCEPTED

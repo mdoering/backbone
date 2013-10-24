@@ -1,8 +1,7 @@
-Leibleinia subtilis Anagnostidis & Komárek SPECIES
-=======
+# Leibleinia holdenii (Forti) P.Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

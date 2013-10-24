@@ -1,5 +1,4 @@
-Nematostoma miconiae Syd. SPECIES
-=======
+# Nematostoma miconiae Syd. SPECIES
 
 #### Status
 ACCEPTED

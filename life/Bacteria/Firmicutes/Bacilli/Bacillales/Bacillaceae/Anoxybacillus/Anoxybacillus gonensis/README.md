@@ -1,5 +1,4 @@
-Anoxybacillus gonensis Belduz et al., 2003 SPECIES
-=======
+# Anoxybacillus gonensis Belduz et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

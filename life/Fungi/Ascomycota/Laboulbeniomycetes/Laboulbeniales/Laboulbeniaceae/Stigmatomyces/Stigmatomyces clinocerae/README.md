@@ -1,5 +1,4 @@
-Stigmatomyces clinocerae Thaxt. SPECIES
-=======
+# Stigmatomyces clinocerae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeriopsis carduorum Hollós SPECIES
-=======
+# Leptosphaeriopsis carduorum Hollós SPECIES
 
 #### Status
 ACCEPTED

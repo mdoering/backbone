@@ -1,5 +1,4 @@
-Anungitea longicatenata Matsush. SPECIES
-=======
+# Anungitea longicatenata Matsush. SPECIES
 
 #### Status
 ACCEPTED

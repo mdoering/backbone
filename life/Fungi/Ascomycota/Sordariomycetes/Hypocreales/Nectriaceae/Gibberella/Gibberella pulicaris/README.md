@@ -1,17 +1,16 @@
-Gibberella pulicaris var. ulmi C. Booth VARIETY
-=======
+# Gibberella pulicaris (Fr.) Sacc., 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 1): 43 (1877)
 
 #### Original name
-Gibberella pulicaris var. ulmi C. Booth
+Sphaeria pulicaris Kunze, 1823
 
 ### Remarks
 null

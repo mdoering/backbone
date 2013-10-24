@@ -1,5 +1,4 @@
-Valsa erinacea (Berk. & Ravenel) Cooke SPECIES
-=======
+# Valsa erinacea (Berk. & Ravenel) Cooke SPECIES
 
 #### Status
 ACCEPTED

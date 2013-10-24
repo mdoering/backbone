@@ -1,5 +1,4 @@
-Cordyceps multiaxialis M. Zang & Kinjo SPECIES
-=======
+# Cordyceps multiaxialis M. Zang & Kinjo SPECIES
 
 #### Status
 ACCEPTED

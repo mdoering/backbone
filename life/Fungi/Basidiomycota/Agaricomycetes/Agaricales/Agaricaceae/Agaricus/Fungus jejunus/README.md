@@ -1,5 +1,4 @@
-Fungus jejunus (Fr.) Kuntze SPECIES
-=======
+# Fungus jejunus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

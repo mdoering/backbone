@@ -1,5 +1,4 @@
-Glomerella roupalae Syd. SPECIES
-=======
+# Glomerella roupalae Syd. SPECIES
 
 #### Status
 ACCEPTED

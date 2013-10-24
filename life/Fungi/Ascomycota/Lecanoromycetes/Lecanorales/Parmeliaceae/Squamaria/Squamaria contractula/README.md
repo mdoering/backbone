@@ -1,5 +1,4 @@
-Squamaria contractula (Nyl.) Räsänen SPECIES
-=======
+# Squamaria contractula (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia lapponica Rytz SPECIES
-=======
+# Puccinia lapponica Rytz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius cyanus var. cyanus Gray VARIETY
-=======
+# Cortinarius cyanus Gray SPECIES
 
 #### Status
 ACCEPTED

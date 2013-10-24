@@ -1,5 +1,4 @@
-Lichen vulcani Bory SPECIES
-=======
+# Lichen vulcani Bory SPECIES
 
 #### Status
 ACCEPTED

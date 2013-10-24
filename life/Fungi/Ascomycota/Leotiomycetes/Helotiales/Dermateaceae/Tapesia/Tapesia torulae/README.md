@@ -1,5 +1,4 @@
-Tapesia torulae Fuckel SPECIES
-=======
+# Tapesia torulae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma matecola Speg. SPECIES
-=======
+# Phoma matecola Speg. SPECIES
 
 #### Status
 ACCEPTED

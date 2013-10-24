@@ -1,5 +1,4 @@
-Psathyrella subvolvata A.H. Sm. & Hesler SPECIES
-=======
+# Psathyrella subvolvata A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

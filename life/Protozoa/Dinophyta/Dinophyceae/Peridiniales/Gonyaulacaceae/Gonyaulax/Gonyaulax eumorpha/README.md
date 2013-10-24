@@ -1,5 +1,4 @@
-Gonyaulax eumorpha Cookson & Eisenack SPECIES
-=======
+# Gonyaulax eumorpha Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

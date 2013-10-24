@@ -1,5 +1,4 @@
-Valetoniella pauciornata Samuels & M.E. Barr, 1998 SPECIES
-=======
+# Valetoniella pauciornata Samuels & M.E. Barr, 1998 SPECIES
 
 #### Status
 ACCEPTED

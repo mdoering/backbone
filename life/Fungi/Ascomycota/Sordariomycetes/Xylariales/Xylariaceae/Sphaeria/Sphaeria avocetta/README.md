@@ -1,5 +1,4 @@
-Sphaeria avocetta Cooke & Ellis SPECIES
-=======
+# Sphaeria avocetta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

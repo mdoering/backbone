@@ -1,5 +1,4 @@
-Dendrosarcus aquifolii (Fr.) Kuntze SPECIES
-=======
+# Dendrosarcus aquifolii (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

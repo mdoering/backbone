@@ -1,5 +1,4 @@
-Loxophyllum vorax Stokes, 1886 SPECIES
-=======
+# Loxophyllum vorax Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

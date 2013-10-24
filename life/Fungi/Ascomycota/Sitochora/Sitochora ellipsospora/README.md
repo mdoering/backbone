@@ -1,5 +1,4 @@
-Sitochora ellipsospora H.B.P. Upadhyay, 1964 SPECIES
-=======
+# Sitochora ellipsospora H.B.P. Upadhyay, 1964 SPECIES
 
 #### Status
 ACCEPTED

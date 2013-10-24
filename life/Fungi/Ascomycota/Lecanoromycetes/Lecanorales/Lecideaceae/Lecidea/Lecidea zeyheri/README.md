@@ -1,5 +1,4 @@
-Lecidea zeyheri A. Massal. SPECIES
-=======
+# Lecidea zeyheri A. Massal. SPECIES
 
 #### Status
 ACCEPTED

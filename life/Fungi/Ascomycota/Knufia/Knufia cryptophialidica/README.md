@@ -1,5 +1,4 @@
-Knufia cryptophialidica L.J. Hutchison & Unter., 1996 SPECIES
-=======
+# Knufia cryptophialidica L.J. Hutchison & Unter., 1996 SPECIES
 
 #### Status
 ACCEPTED

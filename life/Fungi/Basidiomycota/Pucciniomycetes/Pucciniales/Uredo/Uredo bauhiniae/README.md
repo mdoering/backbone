@@ -1,5 +1,4 @@
-Uredo bauhiniae Henn. SPECIES
-=======
+# Uredo bauhiniae Henn. SPECIES
 
 #### Status
 ACCEPTED

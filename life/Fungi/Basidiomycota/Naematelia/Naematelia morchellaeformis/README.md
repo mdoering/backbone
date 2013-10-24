@@ -1,5 +1,4 @@
-Naematelia morchellaeformis Kalchbr. SPECIES
-=======
+# Naematelia morchellaeformis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria deceptiva Lloyd SPECIES
-=======
+# Xylaria deceptiva Lloyd SPECIES
 
 #### Status
 ACCEPTED

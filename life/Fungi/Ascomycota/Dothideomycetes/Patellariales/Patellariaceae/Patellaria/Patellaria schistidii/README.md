@@ -1,5 +1,4 @@
-Patellaria schistidii (Anzi) Müll. Arg. SPECIES
-=======
+# Patellaria schistidii (Anzi) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

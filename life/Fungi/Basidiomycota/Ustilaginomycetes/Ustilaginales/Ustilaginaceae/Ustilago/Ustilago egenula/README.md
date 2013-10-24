@@ -1,5 +1,4 @@
-Ustilago egenula Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Ustilago egenula Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

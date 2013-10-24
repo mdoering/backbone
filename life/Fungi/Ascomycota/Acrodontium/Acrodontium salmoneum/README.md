@@ -1,5 +1,4 @@
-Acrodontium salmoneum de Hoog, 1972 SPECIES
-=======
+# Acrodontium salmoneum de Hoog, 1972 SPECIES
 
 #### Status
 ACCEPTED

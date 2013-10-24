@@ -1,5 +1,4 @@
-Phoma ilicicola (Cooke & Ellis) Sacc. SPECIES
-=======
+# Phoma ilicicola (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Parmelia sirgi Clemente SPECIES
-=======
+# Parmelia sirgii Clemente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia sirgi Clemente
+Parmelia sirgii Clemente
 
 ### Remarks
 null

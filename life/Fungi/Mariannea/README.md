@@ -1,5 +1,4 @@
-Mariannea Arnaud ex R.A. Samson, 1974 GENUS
-=======
+# Mariannea Arnaud ex R.A. Samson, 1974 GENUS
 
 #### Status
 ACCEPTED

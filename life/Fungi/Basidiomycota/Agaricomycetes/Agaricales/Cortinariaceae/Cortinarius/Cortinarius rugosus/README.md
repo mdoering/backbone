@@ -1,5 +1,4 @@
-Cortinarius rugosus Z. Schaef. SPECIES
-=======
+# Cortinarius rugosus Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

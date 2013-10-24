@@ -1,5 +1,4 @@
-Caloplaca litoricola Brodo SPECIES
-=======
+# Caloplaca litoricola Brodo SPECIES
 
 #### Status
 ACCEPTED

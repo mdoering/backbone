@@ -1,5 +1,4 @@
-Tintinnus medius Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus medius Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

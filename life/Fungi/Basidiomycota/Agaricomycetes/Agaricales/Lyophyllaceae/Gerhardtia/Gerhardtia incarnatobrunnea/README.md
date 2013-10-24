@@ -1,5 +1,4 @@
-Gerhardtia incarnatobrunnea (Ew. Gerhardt) Bon SPECIES
-=======
+# Gerhardtia incarnatobrunnea (Ew. Gerhardt) Bon SPECIES
 
 #### Status
 ACCEPTED

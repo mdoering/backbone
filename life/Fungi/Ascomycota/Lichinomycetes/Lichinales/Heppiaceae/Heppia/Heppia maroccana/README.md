@@ -1,5 +1,4 @@
-Heppia maroccana SPECIES
-=======
+# Heppia maroccana SPECIES
 
 #### Status
 ACCEPTED

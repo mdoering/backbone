@@ -1,5 +1,4 @@
-Calosphaeria chilensis (Speg.) Petr. & Syd. SPECIES
-=======
+# Calosphaeria chilensis (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

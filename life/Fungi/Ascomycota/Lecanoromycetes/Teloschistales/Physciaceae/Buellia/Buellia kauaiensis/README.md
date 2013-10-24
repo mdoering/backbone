@@ -1,5 +1,4 @@
-Buellia kauaiensis H. Magn. SPECIES
-=======
+# Buellia kauaiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

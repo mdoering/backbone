@@ -1,5 +1,4 @@
-Cercospora yakushimensis Togashi & Katsuki SPECIES
-=======
+# Cercospora yakushimensis Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

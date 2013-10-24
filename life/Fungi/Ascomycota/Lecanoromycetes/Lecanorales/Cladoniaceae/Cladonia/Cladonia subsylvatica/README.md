@@ -1,5 +1,4 @@
-Cladonia subsylvatica Stirt. SPECIES
-=======
+# Cladonia subsylvatica Stirt. SPECIES
 
 #### Status
 ACCEPTED

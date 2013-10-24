@@ -1,5 +1,4 @@
-Sclerotium pseudoerysiphe Speg. SPECIES
-=======
+# Sclerotium pseudoerysiphe Speg. SPECIES
 
 #### Status
 ACCEPTED

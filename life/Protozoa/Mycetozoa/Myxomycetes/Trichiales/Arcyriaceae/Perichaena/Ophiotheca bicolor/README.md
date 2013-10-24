@@ -1,5 +1,4 @@
-Ophiotheca bicolor Berk. & Broome SPECIES
-=======
+# Ophiotheca bicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella polygoni-cuspidati Hara SPECIES
-=======
+# Mycosphaerella polygoni-cuspidati Hara SPECIES
 
 #### Status
 ACCEPTED

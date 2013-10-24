@@ -1,5 +1,4 @@
-Protoperidinium denticulatum (Gran & Braarud) Balech SPECIES
-=======
+# Protoperidinium denticulatum (Gran & Braarud) Balech SPECIES
 
 #### Status
 ACCEPTED

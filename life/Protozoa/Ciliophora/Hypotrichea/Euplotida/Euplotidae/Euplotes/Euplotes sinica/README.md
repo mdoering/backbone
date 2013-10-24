@@ -1,5 +1,4 @@
-Euplotes sinica Jiang, Zhang, Shao, Al-Rasheid, Warren & Song, 2009 SPECIES
-=======
+# Euplotes sinica Jiang, Zhang, Shao, Al-Rasheid, Warren & Song, 2009 SPECIES
 
 #### Status
 ACCEPTED

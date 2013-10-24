@@ -1,5 +1,4 @@
-Ammobaculites reophaciformis Cushman, 1910 SPECIES
-=======
+# Ammobaculites reophaciformis Cushman, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo amami-oshimaensis Morim. SPECIES
-=======
+# Uredo amami-oshimaensis Morim. SPECIES
 
 #### Status
 ACCEPTED

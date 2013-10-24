@@ -1,5 +1,4 @@
-Teichertodinium triassicum Pocock & Sarjeant, 1972 SPECIES
-=======
+# Teichertodinium triassicum Pocock & Sarjeant, 1972 SPECIES
 
 #### Status
 ACCEPTED

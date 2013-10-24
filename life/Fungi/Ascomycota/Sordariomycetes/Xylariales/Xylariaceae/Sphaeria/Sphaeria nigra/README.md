@@ -1,5 +1,4 @@
-Sphaeria nigra Sowerby SPECIES
-=======
+# Sphaeria nigra Sowerby SPECIES
 
 #### Status
 ACCEPTED

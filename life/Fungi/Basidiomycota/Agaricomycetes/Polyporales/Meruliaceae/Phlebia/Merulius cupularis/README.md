@@ -1,5 +1,4 @@
-Merulius cupularis Wahlenb. SPECIES
-=======
+# Merulius cupularis Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrocolla acicola Jaap SPECIES
-=======
+# Cylindrocolla acicola Jaap SPECIES
 
 #### Status
 ACCEPTED

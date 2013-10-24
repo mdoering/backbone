@@ -1,5 +1,4 @@
-Enchnosphaeria ochrostoma (Feltgen) Höhn. SPECIES
-=======
+# Enchnosphaeria ochrostoma (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

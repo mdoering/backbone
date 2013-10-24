@@ -1,5 +1,4 @@
-Appendiculella musyaensis (W. Yamam.) Hansf. SPECIES
-=======
+# Appendiculella musyaensis (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe hypericacearum anon. SPECIES
-=======
+# Erysiphe hypericacearum anon. SPECIES
 
 #### Status
 ACCEPTED

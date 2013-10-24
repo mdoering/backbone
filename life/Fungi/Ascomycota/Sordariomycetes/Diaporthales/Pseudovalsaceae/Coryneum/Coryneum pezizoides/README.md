@@ -1,5 +1,4 @@
-Coryneum pezizoides Ellis & Everh. SPECIES
-=======
+# Coryneum pezizoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

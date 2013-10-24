@@ -1,5 +1,4 @@
-Aporothielavia Malloch & Cain GENUS
-=======
+# Aporothielavia Malloch & Cain GENUS
 
 #### Status
 ACCEPTED

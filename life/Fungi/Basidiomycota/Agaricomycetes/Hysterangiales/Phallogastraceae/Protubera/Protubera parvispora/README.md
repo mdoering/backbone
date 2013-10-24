@@ -1,5 +1,4 @@
-Protubera parvispora Castellano & Beever, 1994 SPECIES
-=======
+# Protubera parvispora Castellano & Beever, 1994 SPECIES
 
 #### Status
 ACCEPTED

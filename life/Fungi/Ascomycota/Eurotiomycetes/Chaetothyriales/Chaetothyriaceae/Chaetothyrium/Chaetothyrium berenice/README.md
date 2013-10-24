@@ -1,14 +1,13 @@
-Sphaeria berenice Berk. & M.A. Curtis, 1876 SPECIES
-=======
+# Chaetothyrium berenice (Berk. & M.A. Curtis) M.E. Barr, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 31): 108 (1876)
+Mycotaxon 46: 68 (1993)
 
 #### Original name
 Sphaeria berenice Berk. & M.A. Curtis, 1876

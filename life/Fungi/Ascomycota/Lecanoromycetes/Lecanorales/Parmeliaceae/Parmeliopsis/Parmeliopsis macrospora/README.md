@@ -1,5 +1,4 @@
-Parmeliopsis macrospora (Elix & J. Johnst.) Elix SPECIES
-=======
+# Parmeliopsis macrospora (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
 ACCEPTED

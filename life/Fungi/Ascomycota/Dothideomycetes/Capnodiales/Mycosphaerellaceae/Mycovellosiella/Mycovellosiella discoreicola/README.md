@@ -1,5 +1,4 @@
-Mycovellosiella discoreicola SPECIES
-=======
+# Mycovellosiella discoreicola SPECIES
 
 #### Status
 ACCEPTED

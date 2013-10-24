@@ -1,5 +1,4 @@
-Glomus australe (Berk.) S.M. Berch, 1983 SPECIES
-=======
+# Glomus australe (Berk.) S.M. Berch, 1983 SPECIES
 
 #### Status
 ACCEPTED

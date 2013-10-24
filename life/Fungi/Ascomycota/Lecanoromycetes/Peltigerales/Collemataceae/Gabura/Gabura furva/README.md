@@ -1,5 +1,4 @@
-Gabura furva (Ach.) Kuntze SPECIES
-=======
+# Gabura furva (Ach.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

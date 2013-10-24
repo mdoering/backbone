@@ -1,5 +1,4 @@
-Sorosporium stellariae Liro SPECIES
-=======
+# Sorosporium stellariae Liro SPECIES
 
 #### Status
 ACCEPTED

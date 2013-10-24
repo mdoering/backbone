@@ -1,5 +1,4 @@
-Polyporus scalaris Berk. SPECIES
-=======
+# Polyporus scalaris Berk. SPECIES
 
 #### Status
 ACCEPTED

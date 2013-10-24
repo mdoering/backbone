@@ -1,5 +1,4 @@
-Mycena haushoferi Robich, Miersch & Karasch SPECIES
-=======
+# Mycena haushoferi Robich, Miersch & Karasch SPECIES
 
 #### Status
 ACCEPTED

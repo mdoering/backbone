@@ -1,17 +1,16 @@
-Sphaeria assecla Schwein. SPECIES
-=======
+# Sphaeria assecta Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Amer. Philos. Soc. 4(2): 216 (1832)
 
 #### Original name
-Sphaeria assecla Schwein.
+Sphaeria assecta Schwein.
 
 ### Remarks
 null

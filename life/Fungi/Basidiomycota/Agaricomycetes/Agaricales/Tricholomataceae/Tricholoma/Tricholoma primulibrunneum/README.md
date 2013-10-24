@@ -1,5 +1,4 @@
-Tricholoma primulibrunneum Corner SPECIES
-=======
+# Tricholoma primulibrunneum Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lanzia castanopsis Dumont, W.Y. Zhuang & Korf SPECIES
-=======
+# Lanzia castanopsidis Dumont, W.Y. Zhuang & Korf SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Zhuang & Wang, Mycotaxon 64: 451 (1997)
 
 #### Original name
-Lanzia castanopsis Dumont, W.Y. Zhuang & Korf
+Lanzia castanopsidis Dumont, W.Y. Zhuang & Korf
 
 ### Remarks
 null

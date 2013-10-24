@@ -1,5 +1,4 @@
-Acanthosphaera pinchuda Boltovskoy, 1980 SPECIES
-=======
+# Acanthosphaera pinchuda Boltovskoy, 1980 SPECIES
 
 #### Status
 ACCEPTED

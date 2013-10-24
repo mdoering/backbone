@@ -1,14 +1,13 @@
-Nakataea cylindrospora R.F. Castañeda, Saikawa & Hennebert, 1996 SPECIES
-=======
+# Rhexodenticula cylindrospora (R.F. Castañeda, Saikawa & Hennebert) W.A. Baker & Morgan-Jones, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 59: 457 (1996)
+in Baker, Partridge & Morgan-Jones, Mycotaxon 79: 363 (2001)
 
 #### Original name
 Nakataea cylindrospora R.F. Castañeda, Saikawa & Hennebert, 1996

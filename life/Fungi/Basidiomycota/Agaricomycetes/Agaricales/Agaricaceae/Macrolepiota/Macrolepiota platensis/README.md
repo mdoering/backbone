@@ -1,5 +1,4 @@
-Macrolepiota platensis (Speg.) Singer SPECIES
-=======
+# Macrolepiota platensis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

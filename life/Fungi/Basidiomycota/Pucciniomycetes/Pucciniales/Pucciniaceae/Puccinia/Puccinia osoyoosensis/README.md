@@ -1,5 +1,4 @@
-Puccinia osoyoosensis Savile SPECIES
-=======
+# Puccinia osoyoosensis Savile SPECIES
 
 #### Status
 ACCEPTED

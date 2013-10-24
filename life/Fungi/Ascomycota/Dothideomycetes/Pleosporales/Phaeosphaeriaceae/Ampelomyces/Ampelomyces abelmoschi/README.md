@@ -1,5 +1,4 @@
-Ampelomyces abelmoschi (Bubák) Rudakov SPECIES
-=======
+# Ampelomyces abelmoschi (Bubák) Rudakov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrioconium longisclerotiale N.F. Buchw. SPECIES
-=======
+# Myrioconium longisclerotiale N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

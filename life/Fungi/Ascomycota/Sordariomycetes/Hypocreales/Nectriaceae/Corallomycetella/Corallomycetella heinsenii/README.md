@@ -1,17 +1,16 @@
-Corallomycetella heinesii Henn. SPECIES
-=======
+# Corallomycetella heinsenii Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia, Beibl. 43: 245 (1904)
 
 #### Original name
-Corallomycetella heinesii Henn.
+Corallomycetella heinsenii Henn., 1904
 
 ### Remarks
 null

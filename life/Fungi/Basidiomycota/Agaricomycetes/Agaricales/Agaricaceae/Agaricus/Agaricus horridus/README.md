@@ -1,5 +1,4 @@
-Agaricus horridus Pers. SPECIES
-=======
+# Agaricus horridus Pers. SPECIES
 
 #### Status
 ACCEPTED

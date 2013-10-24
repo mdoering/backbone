@@ -1,5 +1,4 @@
-Uroglena articulata Korshikov SPECIES
-=======
+# Uroglena articulata Korshikov SPECIES
 
 #### Status
 ACCEPTED

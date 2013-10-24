@@ -1,5 +1,4 @@
-Clavulinaceae Donk FAMILY
-=======
+# Clavulinaceae Donk FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe marchica Rehm SPECIES
-=======
+# Diaporthe marchica Rehm SPECIES
 
 #### Status
 ACCEPTED

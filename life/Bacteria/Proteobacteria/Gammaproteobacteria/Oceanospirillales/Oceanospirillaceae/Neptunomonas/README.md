@@ -1,5 +1,4 @@
-Neptunomonas Hedlund et al., 1999 GENUS
-=======
+# Neptunomonas Hedlund et al., 1999 GENUS
 
 #### Status
 ACCEPTED

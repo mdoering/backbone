@@ -1,5 +1,4 @@
-Gyalideopsis helvetica van den Boom & Vezda SPECIES
-=======
+# Gyalideopsis helvetica van den Boom & Vezda SPECIES
 
 #### Status
 ACCEPTED

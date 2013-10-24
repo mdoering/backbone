@@ -1,5 +1,4 @@
-Penicillium aurantiobrunneum Dierckx SPECIES
-=======
+# Penicillium aurantiobrunneum Dierckx SPECIES
 
 #### Status
 ACCEPTED

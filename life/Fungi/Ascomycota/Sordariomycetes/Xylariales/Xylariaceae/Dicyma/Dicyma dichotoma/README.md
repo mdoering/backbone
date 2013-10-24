@@ -1,5 +1,4 @@
-Dicyma dichotoma (Höhn.) Sacc. & D. Sacc. SPECIES
-=======
+# Dicyma dichotoma (Höhn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

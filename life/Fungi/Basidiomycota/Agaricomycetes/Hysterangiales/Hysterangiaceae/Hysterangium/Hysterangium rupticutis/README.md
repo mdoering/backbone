@@ -1,5 +1,4 @@
-Hysterangium rupticutis Castellano & Beever, 1994 SPECIES
-=======
+# Hysterangium rupticutis Castellano & Beever, 1994 SPECIES
 
 #### Status
 ACCEPTED

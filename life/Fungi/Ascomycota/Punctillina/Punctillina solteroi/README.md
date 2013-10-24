@@ -1,5 +1,4 @@
-Punctillina solteroi Toro, 1934 SPECIES
-=======
+# Punctillina solteroi Toro, 1934 SPECIES
 
 #### Status
 ACCEPTED

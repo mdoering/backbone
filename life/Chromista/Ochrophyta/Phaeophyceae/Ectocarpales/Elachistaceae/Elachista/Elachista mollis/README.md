@@ -1,5 +1,4 @@
-Elachista mollis Takamatsu SPECIES
-=======
+# Elachista mollis Takamatsu SPECIES
 
 #### Status
 ACCEPTED

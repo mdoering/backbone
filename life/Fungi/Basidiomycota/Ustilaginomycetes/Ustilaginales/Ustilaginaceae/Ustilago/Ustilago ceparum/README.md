@@ -1,5 +1,4 @@
-Ustilago ceparum Glow. SPECIES
-=======
+# Ustilago ceparum Glow. SPECIES
 
 #### Status
 ACCEPTED

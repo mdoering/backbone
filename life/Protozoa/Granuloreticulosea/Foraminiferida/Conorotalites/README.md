@@ -1,5 +1,4 @@
-Conorotalites Kaever, 1959 GENUS
-=======
+# Conorotalites Kaever, 1959 GENUS
 
 #### Status
 ACCEPTED

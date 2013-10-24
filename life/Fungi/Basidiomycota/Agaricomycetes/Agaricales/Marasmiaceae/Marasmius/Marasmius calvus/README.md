@@ -1,5 +1,4 @@
-Marasmius calvus Berk. & Broome SPECIES
-=======
+# Marasmius calvus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

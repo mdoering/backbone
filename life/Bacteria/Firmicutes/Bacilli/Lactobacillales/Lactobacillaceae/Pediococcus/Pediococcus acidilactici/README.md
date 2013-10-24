@@ -1,11 +1,10 @@
-Pediococcus lindneri Henneberg, 1926 SPECIES
-=======
+# Pediococcus acidilactici Lindner, 1887 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

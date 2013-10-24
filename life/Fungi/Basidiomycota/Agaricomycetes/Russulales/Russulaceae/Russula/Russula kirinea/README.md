@@ -1,5 +1,4 @@
-Russula kirinea R. Heim SPECIES
-=======
+# Russula kirinea R. Heim SPECIES
 
 #### Status
 ACCEPTED

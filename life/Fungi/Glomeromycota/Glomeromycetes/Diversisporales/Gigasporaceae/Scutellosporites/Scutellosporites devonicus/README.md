@@ -1,5 +1,4 @@
-Scutellosporites devonicus Dotzler, M. Krings, T.N. Taylor & Agerer SPECIES
-=======
+# Scutellosporites devonicus Dotzler, M. Krings, T.N. Taylor & Agerer SPECIES
 
 #### Status
 ACCEPTED

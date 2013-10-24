@@ -1,5 +1,4 @@
-Schizothrix gracilis Golubic SPECIES
-=======
+# Schizothrix gracilis Golubic SPECIES
 
 #### Status
 ACCEPTED

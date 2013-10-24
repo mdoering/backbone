@@ -1,5 +1,4 @@
-Penicillium buchwaldii Frisvad SPECIES
-=======
+# Penicillium buchwaldii Frisvad SPECIES
 
 #### Status
 ACCEPTED

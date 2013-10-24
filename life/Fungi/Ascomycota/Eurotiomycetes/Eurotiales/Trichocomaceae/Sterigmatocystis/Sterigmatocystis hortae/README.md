@@ -1,17 +1,16 @@
-Sterigmatocystis hortai Langeron SPECIES
-=======
+# Sterigmatocystis hortae Langeron SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. Path. Exot. 15: 383 (1922)
 
 #### Original name
-Sterigmatocystis hortai Langeron
+Sterigmatocystis hortae Langeron
 
 ### Remarks
 null

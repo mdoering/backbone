@@ -1,14 +1,13 @@
-Microporus chrysites (Berk.) Kuntze, 1898 SPECIES
-=======
+# Phylloporia chrysites (Berk.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 495 (1898)
+Norw. Jl Bot. 19: 235 (1972)
 
 #### Original name
 Polyporus chrysites Berk., 1856

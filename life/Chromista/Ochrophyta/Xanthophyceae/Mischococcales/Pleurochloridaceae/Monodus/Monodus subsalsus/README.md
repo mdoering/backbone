@@ -1,5 +1,4 @@
-Monodus subsalsus SPECIES
-=======
+# Monodus subsalsus SPECIES
 
 #### Status
 ACCEPTED

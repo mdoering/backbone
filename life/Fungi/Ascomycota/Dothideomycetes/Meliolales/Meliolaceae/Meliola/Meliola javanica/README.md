@@ -1,5 +1,4 @@
-Meliola javanica Cif. SPECIES
-=======
+# Meliola javanica Cif. SPECIES
 
 #### Status
 ACCEPTED

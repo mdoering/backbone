@@ -1,5 +1,4 @@
-Lecidella granulata (H. Magn.) R.C. Harris SPECIES
-=======
+# Lecidella granulata (H. Magn.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

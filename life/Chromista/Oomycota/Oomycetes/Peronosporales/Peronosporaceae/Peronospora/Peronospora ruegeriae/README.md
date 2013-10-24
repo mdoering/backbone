@@ -1,5 +1,4 @@
-Peronospora ruegeriae Gäum. SPECIES
-=======
+# Peronospora ruegeriae Gäum. SPECIES
 
 #### Status
 ACCEPTED

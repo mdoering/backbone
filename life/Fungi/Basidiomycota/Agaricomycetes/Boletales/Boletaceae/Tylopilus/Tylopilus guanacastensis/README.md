@@ -1,5 +1,4 @@
-Tylopilus guanacastensis Singer SPECIES
-=======
+# Tylopilus guanacastensis Singer SPECIES
 
 #### Status
 ACCEPTED

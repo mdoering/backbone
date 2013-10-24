@@ -1,8 +1,7 @@
-Leptosphaeria zizanivora W.Y. Yen & C.C. Chi SPECIES
-=======
+# Leptosphaeria zizaniivora W.Y. Yen & C.C. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria zizanivora W.Y. Yen & C.C. Chi
+Leptosphaeria zizaniivora W.Y. Yen & C.C. Chi
 
 ### Remarks
 null

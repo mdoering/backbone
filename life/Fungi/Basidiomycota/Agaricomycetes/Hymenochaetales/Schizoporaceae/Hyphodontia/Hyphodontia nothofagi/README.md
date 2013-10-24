@@ -1,14 +1,13 @@
-Poria nothofagi G. Cunn., 1965 SPECIES
-=======
+# Hyphodontia nothofagi (G. Cunn.) Langer, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 261 (1965)
+Biblthca Mycol. 154: 162 (1994)
 
 #### Original name
 Poria nothofagi G. Cunn., 1965

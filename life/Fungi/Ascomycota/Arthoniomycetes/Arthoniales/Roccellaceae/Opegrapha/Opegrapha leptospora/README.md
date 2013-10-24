@@ -1,5 +1,4 @@
-Opegrapha leptospora Werner & M. Choisy SPECIES
-=======
+# Opegrapha leptospora Werner & M. Choisy SPECIES
 
 #### Status
 ACCEPTED

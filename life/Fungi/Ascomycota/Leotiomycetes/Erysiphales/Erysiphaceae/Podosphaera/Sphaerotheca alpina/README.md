@@ -1,5 +1,4 @@
-Sphaerotheca alpina f. alpina FORM
-=======
+# Sphaerotheca alpina S. Blumer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beitr. Kryptfl. Schweiz 7(no. 1): 116 (1933)
 
 #### Original name
-Sphaerotheca alpina f. alpina
+Sphaerotheca alpina S. Blumer
 
 ### Remarks
 null

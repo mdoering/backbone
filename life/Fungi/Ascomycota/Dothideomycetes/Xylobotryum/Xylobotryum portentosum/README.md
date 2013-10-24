@@ -1,17 +1,16 @@
-Xylaria portentosa (Mont.) Mont., 1856 SPECIES
-=======
+# Xylobotryum portentosum (Mont.) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 16: 185 (1900)
 
 #### Original name
-null
+Sphaeria portentosa Mont., 1838
 
 ### Remarks
 null

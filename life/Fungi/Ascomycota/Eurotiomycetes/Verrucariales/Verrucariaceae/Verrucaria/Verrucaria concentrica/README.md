@@ -1,5 +1,4 @@
-Verrucaria concentrica DC. SPECIES
-=======
+# Verrucaria concentrica DC. SPECIES
 
 #### Status
 ACCEPTED

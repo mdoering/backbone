@@ -1,11 +1,10 @@
-Hemiophrys fuscidens Kahl, 1926 SPECIES
-=======
+# Litonotus fusidens (Kahl, 1926) Foissner, Berger, Blatterer & Kohmann, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Anthracothecium keralense Patw. & Makhija SPECIES
-=======
+# Anthracothecium keralense Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

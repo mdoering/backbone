@@ -1,17 +1,16 @@
-Sphaeropsis subglobosa Cooke SPECIES
-=======
+# Neodeightonia subglobosa C. Booth, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 7(no. 43): 95 (1879)
+null
 
 #### Original name
-Sphaeropsis subglobosa Cooke
+null
 
 ### Remarks
 null

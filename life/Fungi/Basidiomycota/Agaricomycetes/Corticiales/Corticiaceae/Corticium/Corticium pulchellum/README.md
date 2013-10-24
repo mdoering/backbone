@@ -1,5 +1,4 @@
-Corticium pulchellum Speg. SPECIES
-=======
+# Corticium pulchellum Speg. SPECIES
 
 #### Status
 ACCEPTED

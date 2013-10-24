@@ -1,5 +1,4 @@
-Cytosporina siliquastri (Westend.) Sacc. SPECIES
-=======
+# Cytosporina siliquastri (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

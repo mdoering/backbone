@@ -1,5 +1,4 @@
-Hysteridium phragmitis P. Karst., 1905 SPECIES
-=======
+# Hysteridium phragmitis P. Karst., 1905 SPECIES
 
 #### Status
 ACCEPTED

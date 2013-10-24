@@ -1,5 +1,4 @@
-Odontia micheneri (Berk.) Rick SPECIES
-=======
+# Odontia micheneri (Berk.) Rick SPECIES
 
 #### Status
 ACCEPTED

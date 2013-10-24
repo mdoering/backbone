@@ -1,5 +1,4 @@
-Mycosphaerella stromatosa Joanne E. Taylor & Crous, 2000 SPECIES
-=======
+# Mycosphaerella stromatosa Joanne E. Taylor & Crous, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kocuria marina Kim et al., 2004 SPECIES
-=======
+# Kocuria marina Kim et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

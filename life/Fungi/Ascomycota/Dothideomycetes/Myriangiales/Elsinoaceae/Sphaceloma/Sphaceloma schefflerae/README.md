@@ -1,5 +1,4 @@
-Sphaceloma schefflerae C.C. Chen SPECIES
-=======
+# Sphaceloma schefflerae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

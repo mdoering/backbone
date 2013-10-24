@@ -1,5 +1,4 @@
-Chaetosphaeropsis GENUS
-=======
+# Chaetosphaeropsis GENUS
 
 #### Status
 ACCEPTED

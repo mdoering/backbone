@@ -1,5 +1,4 @@
-Siphotextularia attenuata Reuss SPECIES
-=======
+# Siphotextularia attenuata Reuss SPECIES
 
 #### Status
 ACCEPTED

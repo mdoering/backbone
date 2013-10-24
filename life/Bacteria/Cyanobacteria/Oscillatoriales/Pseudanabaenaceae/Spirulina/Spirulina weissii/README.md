@@ -1,5 +1,4 @@
-Spirulina weissii SPECIES
-=======
+# Spirulina weissii SPECIES
 
 #### Status
 ACCEPTED

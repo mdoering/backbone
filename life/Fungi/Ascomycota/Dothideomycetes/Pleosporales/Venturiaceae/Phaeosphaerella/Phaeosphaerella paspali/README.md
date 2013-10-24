@@ -1,5 +1,4 @@
-Phaeosphaerella paspali Tehon SPECIES
-=======
+# Phaeosphaerella paspali Tehon SPECIES
 
 #### Status
 ACCEPTED

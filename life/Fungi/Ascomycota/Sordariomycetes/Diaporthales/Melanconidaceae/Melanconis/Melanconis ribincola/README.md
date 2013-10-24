@@ -1,5 +1,4 @@
-Melanconis ribincola Rehm SPECIES
-=======
+# Melanconis ribincola Rehm SPECIES
 
 #### Status
 ACCEPTED

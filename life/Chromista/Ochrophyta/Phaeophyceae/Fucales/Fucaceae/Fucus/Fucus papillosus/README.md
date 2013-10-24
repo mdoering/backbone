@@ -1,5 +1,4 @@
-Fucus papillosus S.G. Gmelin SPECIES
-=======
+# Fucus papillosus S.G. Gmelin SPECIES
 
 #### Status
 ACCEPTED

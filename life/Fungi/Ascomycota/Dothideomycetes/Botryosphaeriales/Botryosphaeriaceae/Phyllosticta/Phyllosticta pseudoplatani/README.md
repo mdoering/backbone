@@ -1,5 +1,4 @@
-Phyllosticta pseudoplatani var. pseudoplatani VARIETY
-=======
+# Phyllosticta pseudoplatani Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 2): 136 (1878)
 
 #### Original name
-Phyllosticta pseudoplatani var. pseudoplatani
+Phyllosticta pseudoplatani Sacc.
 
 ### Remarks
 null

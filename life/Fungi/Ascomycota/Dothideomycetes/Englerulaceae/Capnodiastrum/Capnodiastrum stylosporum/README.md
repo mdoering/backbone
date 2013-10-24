@@ -1,5 +1,4 @@
-Capnodiastrum stylosporum (Cooke) Petr. SPECIES
-=======
+# Capnodiastrum stylosporum (Cooke) Petr. SPECIES
 
 #### Status
 ACCEPTED

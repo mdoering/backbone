@@ -1,5 +1,4 @@
-Amphithrix janthina Bornet & Flahault SPECIES
-=======
+# Amphithrix janthina Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phaeomassaria Speg. GENUS
-=======
+# Massaria De Notaris, 1844 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Anal. Soc. cient. argent. 9 (in tabula) (1880)
+G. bot. ital. 1(1): 333 (1844)
 
 #### Original name
-Phaeomassaria Speg.
+Massaria De Notaris, 1844
 
 ### Remarks
 null

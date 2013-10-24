@@ -1,5 +1,4 @@
-Septoria maclurae Brunaud SPECIES
-=======
+# Septoria maclurae Brunaud SPECIES
 
 #### Status
 ACCEPTED

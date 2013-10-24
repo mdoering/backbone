@@ -1,5 +1,4 @@
-Hexalaspitidae FAMILY
-=======
+# Hexalaspitidae FAMILY
 
 #### Status
 ACCEPTED

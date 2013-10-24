@@ -1,5 +1,4 @@
-Patellinoides depressa SPECIES
-=======
+# Patellinoides depressa SPECIES
 
 #### Status
 ACCEPTED

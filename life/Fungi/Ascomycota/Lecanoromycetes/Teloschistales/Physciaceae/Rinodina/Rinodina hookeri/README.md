@@ -1,5 +1,4 @@
-Rinodina hookeri SPECIES
-=======
+# Rinodina hookeri SPECIES
 
 #### Status
 ACCEPTED

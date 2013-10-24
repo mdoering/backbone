@@ -1,17 +1,16 @@
-Polystictus cinnabarinus subsp. cinnabarinus SUBSPECIES
-=======
+# Pycnoporus coccineus (Fr.) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 71): 82 (1886)
+Annls mycol. 39(1): 59 (1941)
 
 #### Original name
-Polystictus cinnabarinus subsp. cinnabarinus
+Polyporus coccineus Fr., 1851
 
 ### Remarks
 null

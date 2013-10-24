@@ -1,5 +1,4 @@
-Peridermium pseudobalsameum (Dietel & Holw.) Arthur & F. Kern SPECIES
-=======
+# Peridermium pseudobalsameum (Dietel & Holw.) Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

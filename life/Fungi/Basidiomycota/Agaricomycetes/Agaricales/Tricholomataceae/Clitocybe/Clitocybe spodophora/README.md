@@ -1,5 +1,4 @@
-Clitocybe spodophora Berk. & Broome SPECIES
-=======
+# Clitocybe spodophora Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

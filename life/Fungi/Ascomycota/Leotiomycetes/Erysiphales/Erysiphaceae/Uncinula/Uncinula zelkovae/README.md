@@ -1,8 +1,7 @@
-Uncinula zelkowae Henn. SPECIES
-=======
+# Uncinula zelkovae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uncinula zelkowae Henn.
+Uncinula zelkovae Henn.
 
 ### Remarks
 null

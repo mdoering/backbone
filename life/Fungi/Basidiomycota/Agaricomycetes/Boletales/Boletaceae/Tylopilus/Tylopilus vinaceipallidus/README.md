@@ -1,5 +1,4 @@
-Tylopilus vinaceipallidus (Corner) T.W. Henkel SPECIES
-=======
+# Tylopilus vinaceipallidus (Corner) T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

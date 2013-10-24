@@ -1,5 +1,4 @@
-Rickia depauperata Thaxt. SPECIES
-=======
+# Rickia depauperata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

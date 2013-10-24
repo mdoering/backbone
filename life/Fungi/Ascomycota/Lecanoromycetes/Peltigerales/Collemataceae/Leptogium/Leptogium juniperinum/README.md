@@ -1,5 +1,4 @@
-Leptogium juniperinum Tuck. SPECIES
-=======
+# Leptogium juniperinum Tuck. SPECIES
 
 #### Status
 ACCEPTED

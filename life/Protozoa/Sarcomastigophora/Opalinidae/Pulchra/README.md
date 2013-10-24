@@ -1,5 +1,4 @@
-Pulchra Amaro, 1966 GENUS
-=======
+# Pulchra Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

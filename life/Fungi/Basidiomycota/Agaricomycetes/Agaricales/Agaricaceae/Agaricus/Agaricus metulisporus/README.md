@@ -1,5 +1,4 @@
-Agaricus metulisporus Berk. & Broome SPECIES
-=======
+# Agaricus metulisporus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

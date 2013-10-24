@@ -1,5 +1,4 @@
-Coprinus dendrocystotus Bogart SPECIES
-=======
+# Coprinus dendrocystotus Bogart SPECIES
 
 #### Status
 ACCEPTED

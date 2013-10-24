@@ -1,5 +1,4 @@
-Humaria subturbinata Rehm SPECIES
-=======
+# Humaria subturbinata Rehm SPECIES
 
 #### Status
 ACCEPTED

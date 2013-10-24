@@ -1,5 +1,4 @@
-Biatora vestita Mont. SPECIES
-=======
+# Biatora vestita Mont. SPECIES
 
 #### Status
 ACCEPTED

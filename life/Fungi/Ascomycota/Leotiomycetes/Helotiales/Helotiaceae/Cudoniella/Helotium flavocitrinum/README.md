@@ -1,5 +1,4 @@
-Helotium flavocitrinum Bres. SPECIES
-=======
+# Helotium flavocitrinum Bres. SPECIES
 
 #### Status
 ACCEPTED

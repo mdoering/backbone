@@ -1,5 +1,4 @@
-Meliola sarcocephali (Hansf. & Deighton) Cif. SPECIES
-=======
+# Meliola sarcocephali (Hansf. & Deighton) Cif. SPECIES
 
 #### Status
 ACCEPTED

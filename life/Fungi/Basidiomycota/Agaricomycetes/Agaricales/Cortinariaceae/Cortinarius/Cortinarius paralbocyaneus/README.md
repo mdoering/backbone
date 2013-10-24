@@ -1,5 +1,4 @@
-Cortinarius paralbocyaneus Eyssart. SPECIES
-=======
+# Cortinarius paralbocyaneus Eyssart. SPECIES
 
 #### Status
 ACCEPTED

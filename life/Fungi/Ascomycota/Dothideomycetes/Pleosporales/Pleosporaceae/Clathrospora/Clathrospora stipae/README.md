@@ -1,5 +1,4 @@
-Clathrospora stipae Traverso SPECIES
-=======
+# Clathrospora stipae Traverso SPECIES
 
 #### Status
 ACCEPTED

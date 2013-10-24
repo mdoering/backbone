@@ -1,5 +1,4 @@
-Megalospora bartlettii Sipman SPECIES
-=======
+# Megalospora bartlettii Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora lusatica Feurich SPECIES
-=======
+# Rhabdospora lusatica Feurich SPECIES
 
 #### Status
 ACCEPTED

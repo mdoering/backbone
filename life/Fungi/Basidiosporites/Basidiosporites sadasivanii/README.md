@@ -1,5 +1,4 @@
-Basidiosporites sadasivanii A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Basidiosporites sadasivanii A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

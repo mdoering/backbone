@@ -1,5 +1,4 @@
-Entoloma griseoviridulum Courtec. SPECIES
-=======
+# Entoloma griseoviridulum Courtec. SPECIES
 
 #### Status
 ACCEPTED

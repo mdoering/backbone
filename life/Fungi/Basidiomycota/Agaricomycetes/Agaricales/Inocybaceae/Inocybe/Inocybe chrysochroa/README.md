@@ -1,5 +1,4 @@
-Inocybe chrysochroa Tak. Kobay. & Courtec. SPECIES
-=======
+# Inocybe chrysochroa Tak. Kobay. & Courtec. SPECIES
 
 #### Status
 ACCEPTED

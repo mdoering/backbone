@@ -1,5 +1,4 @@
-Truncatulina haidingeri McMahon SPECIES
-=======
+# Truncatulina haidingeri McMahon SPECIES
 
 #### Status
 DOUBTFUL

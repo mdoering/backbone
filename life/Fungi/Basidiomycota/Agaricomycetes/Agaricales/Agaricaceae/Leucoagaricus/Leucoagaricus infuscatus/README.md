@@ -1,5 +1,4 @@
-Leucoagaricus infuscatus E.C. Vellinga SPECIES
-=======
+# Leucoagaricus infuscatus E.C. Vellinga SPECIES
 
 #### Status
 ACCEPTED

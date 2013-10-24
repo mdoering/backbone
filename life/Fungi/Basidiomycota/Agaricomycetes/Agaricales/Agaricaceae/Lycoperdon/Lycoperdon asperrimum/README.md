@@ -1,14 +1,13 @@
-Vascellum asperrimum (Welw. & Curr.) Kreisel, 1993 SPECIES
-=======
+# Lycoperdon asperrimum Welw. & Curr., 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Blyttia 51(3-4): 126 (1993)
+Trans. Linn. Soc. London 26: 289 (1870)
 
 #### Original name
 Lycoperdon asperrimum Welw. & Curr., 1870

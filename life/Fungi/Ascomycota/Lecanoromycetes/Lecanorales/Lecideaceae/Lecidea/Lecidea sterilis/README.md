@@ -1,5 +1,4 @@
-Lecidea sterilis Zahlbr. SPECIES
-=======
+# Lecidea sterilis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

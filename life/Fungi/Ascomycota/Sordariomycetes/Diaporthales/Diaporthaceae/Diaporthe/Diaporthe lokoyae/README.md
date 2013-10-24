@@ -1,5 +1,4 @@
-Diaporthe lokoyae A. Funk SPECIES
-=======
+# Diaporthe lokoyae A. Funk SPECIES
 
 #### Status
 ACCEPTED

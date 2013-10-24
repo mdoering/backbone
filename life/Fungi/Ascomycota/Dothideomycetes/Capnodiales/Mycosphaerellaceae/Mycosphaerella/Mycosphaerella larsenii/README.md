@@ -1,5 +1,4 @@
-Mycosphaerella larsenii Munk SPECIES
-=======
+# Mycosphaerella larsenii Munk SPECIES
 
 #### Status
 ACCEPTED

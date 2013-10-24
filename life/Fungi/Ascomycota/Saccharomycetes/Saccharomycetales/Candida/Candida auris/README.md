@@ -1,5 +1,4 @@
-Candida auris Satoh & Makimura SPECIES
-=======
+# Candida auris Satoh & Makimura SPECIES
 
 #### Status
 ACCEPTED

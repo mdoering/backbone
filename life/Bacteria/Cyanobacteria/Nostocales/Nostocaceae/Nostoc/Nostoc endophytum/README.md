@@ -1,5 +1,4 @@
-Nostoc endophytum Bornet & Flahault SPECIES
-=======
+# Nostoc endophytum Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

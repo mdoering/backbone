@@ -1,5 +1,4 @@
-Thaxteriola moseri T. Majewski & J. Wisn. SPECIES
-=======
+# Thaxteriola moseri T. Majewski & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

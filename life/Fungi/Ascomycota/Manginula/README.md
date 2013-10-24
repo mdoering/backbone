@@ -1,5 +1,4 @@
-Manginula G. Arnaud GENUS
-=======
+# Manginula G. Arnaud GENUS
 
 #### Status
 ACCEPTED

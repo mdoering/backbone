@@ -1,5 +1,4 @@
-Pycnofusarium GENUS
-=======
+# Pycnofusarium GENUS
 
 #### Status
 ACCEPTED

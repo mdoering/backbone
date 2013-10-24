@@ -1,5 +1,4 @@
-Lecanora carbonacea C.W. Dodge & G.E. Baker SPECIES
-=======
+# Lecanora carbonacea C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

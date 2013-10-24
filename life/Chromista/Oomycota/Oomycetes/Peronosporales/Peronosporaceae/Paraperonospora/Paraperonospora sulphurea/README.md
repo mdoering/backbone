@@ -1,17 +1,16 @@
-Peronospora sulfurea f. sulfurea Gäum. FORM
-=======
+# Paraperonospora sulphurea (Gäum.) Constant., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 41: 95 (1989)
 
 #### Original name
-Peronospora sulfurea f. sulfurea Gäum.
+Peronospora sulphurea Gäum., 1923
 
 ### Remarks
 null

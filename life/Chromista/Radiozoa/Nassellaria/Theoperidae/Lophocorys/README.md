@@ -1,5 +1,4 @@
-Lophocorys Haeckel, 1881 GENUS
-=======
+# Lophocorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

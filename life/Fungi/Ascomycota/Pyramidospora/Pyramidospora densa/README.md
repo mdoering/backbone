@@ -1,5 +1,4 @@
-Pyramidospora densa Alas. SPECIES
-=======
+# Pyramidospora densa Alas. SPECIES
 
 #### Status
 ACCEPTED

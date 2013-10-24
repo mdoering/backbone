@@ -1,17 +1,16 @@
-Pertusaria wilsonii var. wilsonii A.W. Archer VARIETY
-=======
+# Pertusaria thwaitesii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 41(1): 250 (1991)
+Flora, Jena 67: 470 (1884)
 
 #### Original name
-Pertusaria wilsonii var. wilsonii A.W. Archer
+Pertusaria thwaitesii Müll. Arg.
 
 ### Remarks
 null

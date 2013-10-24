@@ -1,5 +1,4 @@
-Puccinia baccharidis-cassinoidis Henn. SPECIES
-=======
+# Puccinia baccharidis-cassinoidis Henn. SPECIES
 
 #### Status
 ACCEPTED

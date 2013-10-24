@@ -1,17 +1,16 @@
-Stereocaulon meyeri f. meyeri FORM
-=======
+# Stereocaulon meyeri Stein SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Jber. schles. Ges. vaterl. Kultur 66: 134 (1888)
 
 #### Original name
-null
+Stereocaulon meyeri Stein
 
 ### Remarks
 null

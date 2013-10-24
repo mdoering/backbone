@@ -1,5 +1,4 @@
-Trichopeziza winteriana Rehm SPECIES
-=======
+# Trichopeziza winteriana Rehm SPECIES
 
 #### Status
 ACCEPTED

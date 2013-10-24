@@ -1,14 +1,13 @@
-Passalora luheae (Chupp & Viégas) U. Braun & Crous SPECIES
-=======
+# Passalora lueheae (Chupp & Viégas) U. Braun & Crous SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 257 (2003)
 
 #### Original name
 Cercospora lueheae Chupp & Viégas

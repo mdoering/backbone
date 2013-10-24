@@ -1,5 +1,4 @@
-Letendraea bahiensis Speg. SPECIES
-=======
+# Letendraea bahiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

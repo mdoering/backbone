@@ -1,5 +1,4 @@
-Omphalina xylophila (Vassilkov) Bon SPECIES
-=======
+# Omphalina xylophila (Vassilkov) Bon SPECIES
 
 #### Status
 ACCEPTED

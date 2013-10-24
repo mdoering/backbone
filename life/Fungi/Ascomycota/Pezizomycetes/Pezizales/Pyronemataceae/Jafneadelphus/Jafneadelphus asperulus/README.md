@@ -1,5 +1,4 @@
-Jafneadelphus asperulus var. asperulus Rifai VARIETY
-=======
+# Jafneadelphus asperulus Rifai SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Jafneadelphus asperulus var. asperulus Rifai
+Jafneadelphus asperulus Rifai
 
 ### Remarks
 null

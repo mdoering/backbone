@@ -1,5 +1,4 @@
-Nectria madeirensis Henn. SPECIES
-=======
+# Nectria madeirensis Henn. SPECIES
 
 #### Status
 ACCEPTED

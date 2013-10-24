@@ -1,5 +1,4 @@
-Siphonosphaera Müller, 1858 GENUS
-=======
+# Siphonosphaera Müller, 1858 GENUS
 
 #### Status
 ACCEPTED

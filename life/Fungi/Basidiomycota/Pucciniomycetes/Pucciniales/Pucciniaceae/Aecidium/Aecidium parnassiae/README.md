@@ -1,5 +1,4 @@
-Aecidium parnassiae (Schltdl.) Gravis {?} SPECIES
-=======
+# Aecidium parnassiae (Schltdl.) Gravis {?} SPECIES
 
 #### Status
 ACCEPTED

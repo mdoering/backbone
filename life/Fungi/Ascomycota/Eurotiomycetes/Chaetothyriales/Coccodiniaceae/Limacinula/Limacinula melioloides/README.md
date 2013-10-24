@@ -1,5 +1,4 @@
-Limacinula melioloides (Pat.) Sacc. SPECIES
-=======
+# Limacinula melioloides (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

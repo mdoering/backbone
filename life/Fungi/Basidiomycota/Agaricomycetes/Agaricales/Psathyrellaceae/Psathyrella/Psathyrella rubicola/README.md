@@ -1,5 +1,4 @@
-Psathyrella rubicola A.H. Sm. SPECIES
-=======
+# Psathyrella rubicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

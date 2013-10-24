@@ -1,5 +1,4 @@
-Epichloe clarkii J.F. White, 1993 SPECIES
-=======
+# Epichloe clarkii J.F. White, 1993 SPECIES
 
 #### Status
 ACCEPTED

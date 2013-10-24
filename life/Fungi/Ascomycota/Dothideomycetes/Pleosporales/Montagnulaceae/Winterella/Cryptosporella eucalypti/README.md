@@ -1,5 +1,4 @@
-Cryptosporella eucalypti Crous SPECIES
-=======
+# Cryptosporella eucalypti Crous SPECIES
 
 #### Status
 ACCEPTED

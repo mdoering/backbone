@@ -1,5 +1,4 @@
-Cetreliopisis laeteflava (Zahlbr.) Randlane & Saag SPECIES
-=======
+# Cetreliopisis laeteflava (Zahlbr.) Randlane & Saag SPECIES
 
 #### Status
 ACCEPTED

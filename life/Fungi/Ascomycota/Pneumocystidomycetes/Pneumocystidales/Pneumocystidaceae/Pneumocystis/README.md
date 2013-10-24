@@ -1,5 +1,4 @@
-Pneumocystis P. Delanoë & Delanoë GENUS
-=======
+# Pneumocystis P. Delanoë & Delanoë GENUS
 
 #### Status
 ACCEPTED

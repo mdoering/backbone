@@ -1,5 +1,4 @@
-Graphis diaphoroides Müll. Arg. SPECIES
-=======
+# Graphis diaphoroides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

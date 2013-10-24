@@ -1,5 +1,4 @@
-Thyridium pallidum Ellis & Everh. SPECIES
-=======
+# Thyridium pallidum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

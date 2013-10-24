@@ -1,5 +1,4 @@
-Bombardia lutea (Ellis & Everh.) Wehm. SPECIES
-=======
+# Bombardia lutea (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

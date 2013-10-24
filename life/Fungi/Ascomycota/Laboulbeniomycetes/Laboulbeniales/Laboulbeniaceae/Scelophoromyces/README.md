@@ -1,17 +1,16 @@
-Skelophoromyces Thaxt. GENUS
-=======
+# Scelophoromyces Thaxt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Amer. Acad. Arts & Sci. 48: 210 (1912)
 
 #### Original name
-Skelophoromyces Thaxt.
+Scelophoromyces Thaxt.
 
 ### Remarks
 null

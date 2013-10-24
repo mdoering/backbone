@@ -1,8 +1,7 @@
-Phyllachora ischaemicola Chardón, 1939 SPECIES
-=======
+# Phyllachora luteomaculata (Schwein.) Orton, 1918 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

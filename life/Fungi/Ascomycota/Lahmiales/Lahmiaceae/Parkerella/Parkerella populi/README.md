@@ -1,5 +1,4 @@
-Parkerella populi A. Funk SPECIES
-=======
+# Parkerella populi A. Funk SPECIES
 
 #### Status
 ACCEPTED

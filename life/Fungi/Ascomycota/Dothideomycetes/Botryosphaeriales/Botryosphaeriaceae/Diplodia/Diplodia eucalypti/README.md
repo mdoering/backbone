@@ -1,5 +1,4 @@
-Diplodia eucalypti Cooke & Harkn. SPECIES
-=======
+# Diplodia eucalypti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

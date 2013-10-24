@@ -1,5 +1,4 @@
-Agaricus dennisii Heinem. SPECIES
-=======
+# Agaricus dennisii Heinem. SPECIES
 
 #### Status
 ACCEPTED

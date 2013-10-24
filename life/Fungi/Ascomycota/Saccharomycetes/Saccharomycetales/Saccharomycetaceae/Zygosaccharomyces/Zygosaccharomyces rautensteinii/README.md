@@ -1,5 +1,4 @@
-Zygosaccharomyces rautensteinii Kudryavtsev SPECIES
-=======
+# Zygosaccharomyces rautensteinii Kudryavtsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pelobacter venetianus Schink & Stieb, 1984 SPECIES
-=======
+# Pelobacter venetianus Schink & Stieb, 1984 SPECIES
 
 #### Status
 ACCEPTED

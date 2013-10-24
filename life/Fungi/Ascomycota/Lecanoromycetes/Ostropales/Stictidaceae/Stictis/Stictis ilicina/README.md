@@ -1,5 +1,4 @@
-Stictis ilicina Grelet & Croz. SPECIES
-=======
+# Stictis ilicina Grelet & Croz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora davatchii Esfand. SPECIES
-=======
+# Pleospora davatchii Esfand. SPECIES
 
 #### Status
 ACCEPTED

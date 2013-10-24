@@ -1,5 +1,4 @@
-Lambertella latispora (K.S. Thind & G.G. Saini) Spooner SPECIES
-=======
+# Lambertella latispora (K.S. Thind & G.G. Saini) Spooner SPECIES
 
 #### Status
 ACCEPTED

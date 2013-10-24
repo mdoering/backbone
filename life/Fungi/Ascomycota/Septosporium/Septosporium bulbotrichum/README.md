@@ -1,14 +1,13 @@
-Macrosporium bulbotrichum (Corda) Fr., 1849 SPECIES
-=======
+# Septosporium bulbotrichum Corda, 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 501 (1849)
+Icon. fung. (Prague) 1: 12 (1837)
 
 #### Original name
 Septosporium bulbotrichum Corda, 1837

@@ -1,5 +1,4 @@
-Jiangella gansuensis Song et al., 2005 SPECIES
-=======
+# Jiangella gansuensis Song et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora scabies Thaxt. SPECIES
-=======
+# Oospora scabies Thaxt. SPECIES
 
 #### Status
 ACCEPTED

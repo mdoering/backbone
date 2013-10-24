@@ -1,5 +1,4 @@
-Trapelia mayaguez (Zahlbr.) Hertel SPECIES
-=======
+# Trapelia mayaguez (Zahlbr.) Hertel SPECIES
 
 #### Status
 ACCEPTED

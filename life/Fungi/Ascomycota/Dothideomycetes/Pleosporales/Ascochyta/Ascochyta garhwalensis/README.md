@@ -1,5 +1,4 @@
-Ascochyta garhwalensis Dhyani & S.L. Srivast. SPECIES
-=======
+# Ascochyta garhwalensis Dhyani & S.L. Srivast. SPECIES
 
 #### Status
 ACCEPTED

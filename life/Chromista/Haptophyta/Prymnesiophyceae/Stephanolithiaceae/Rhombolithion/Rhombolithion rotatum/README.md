@@ -1,5 +1,4 @@
-Rhombolithion rotatum (Rood et al., 1971) Black, 1973 SPECIES
-=======
+# Rhombolithion rotatum (Rood et al., 1971) Black, 1973 SPECIES
 
 #### Status
 ACCEPTED

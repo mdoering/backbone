@@ -1,5 +1,4 @@
-Sphaeria sphaeriostoma Schwein. SPECIES
-=======
+# Sphaeria sphaeriostoma Schwein. SPECIES
 
 #### Status
 ACCEPTED

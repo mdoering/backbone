@@ -1,5 +1,4 @@
-Meliola cupaniae F. Stevens SPECIES
-=======
+# Meliola cupaniae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sistotremella Hjortstam, 1984 GENUS
-=======
+# Sistotremella Hjortstam, 1984 GENUS
 
 #### Status
 ACCEPTED

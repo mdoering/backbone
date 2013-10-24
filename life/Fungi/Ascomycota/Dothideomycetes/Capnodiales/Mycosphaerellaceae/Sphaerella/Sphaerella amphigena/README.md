@@ -1,5 +1,4 @@
-Sphaerella amphigena Auersw. SPECIES
-=======
+# Sphaerella amphigena Auersw. SPECIES
 
 #### Status
 ACCEPTED

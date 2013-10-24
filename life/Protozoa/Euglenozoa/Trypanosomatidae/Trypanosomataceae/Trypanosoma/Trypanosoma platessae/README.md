@@ -1,8 +1,7 @@
-Trypanosoma bothi Lebailly, 1905 SPECIES
-=======
+# Trypanosoma platessae Lebailly, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

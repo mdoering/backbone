@@ -1,5 +1,4 @@
-Synechoblastus ohioensis Fink SPECIES
-=======
+# Synechoblastus ohioensis Fink SPECIES
 
 #### Status
 ACCEPTED

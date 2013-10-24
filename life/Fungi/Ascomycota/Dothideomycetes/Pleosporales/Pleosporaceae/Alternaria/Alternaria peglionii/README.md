@@ -1,5 +1,4 @@
-Alternaria peglionii Curzi, 1926 SPECIES
-=======
+# Alternaria peglionii Curzi, 1926 SPECIES
 
 #### Status
 ACCEPTED

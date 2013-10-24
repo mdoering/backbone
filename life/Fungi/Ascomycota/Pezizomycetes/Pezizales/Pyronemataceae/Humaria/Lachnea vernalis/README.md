@@ -1,5 +1,4 @@
-Lachnea vernalis Velen. SPECIES
-=======
+# Lachnea vernalis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma pallideviolaceum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma pallideviolaceum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

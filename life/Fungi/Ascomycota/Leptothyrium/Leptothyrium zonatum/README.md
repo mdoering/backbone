@@ -1,5 +1,4 @@
-Leptothyrium zonatum Speg. SPECIES
-=======
+# Leptothyrium zonatum Speg. SPECIES
 
 #### Status
 ACCEPTED

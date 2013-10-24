@@ -1,5 +1,4 @@
-Pulmosphaeria Joanne E. Taylor, K.D. Hyde & E.B.G. Jones GENUS
-=======
+# Pulmosphaeria Joanne E. Taylor, K.D. Hyde & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

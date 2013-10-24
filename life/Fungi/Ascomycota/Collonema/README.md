@@ -1,5 +1,4 @@
-Collonema Grove GENUS
-=======
+# Collonema Grove GENUS
 
 #### Status
 ACCEPTED

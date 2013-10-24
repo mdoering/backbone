@@ -1,5 +1,4 @@
-Septoria amomi Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Septoria amomi Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

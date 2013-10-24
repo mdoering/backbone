@@ -1,5 +1,4 @@
-Anthostomella nypensis K.D. Hyde, Alias & B.S. Lu, 1999 SPECIES
-=======
+# Anthostomella nypensis K.D. Hyde, Alias & B.S. Lu, 1999 SPECIES
 
 #### Status
 ACCEPTED

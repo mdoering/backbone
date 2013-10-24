@@ -1,5 +1,4 @@
-Selenophoma petrakii Luc SPECIES
-=======
+# Selenophoma petrakii Luc SPECIES
 
 #### Status
 ACCEPTED

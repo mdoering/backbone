@@ -1,5 +1,4 @@
-Rhodotorula lactosa T. Haseg. SPECIES
-=======
+# Rhodotorula lactosa T. Haseg. SPECIES
 
 #### Status
 ACCEPTED

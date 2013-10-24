@@ -1,5 +1,4 @@
-Cortinarius kilpanius Grgur. SPECIES
-=======
+# Cortinarius kilpanius Grgur. SPECIES
 
 #### Status
 ACCEPTED

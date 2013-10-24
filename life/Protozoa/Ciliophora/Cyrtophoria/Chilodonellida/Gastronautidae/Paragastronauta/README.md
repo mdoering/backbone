@@ -1,5 +1,4 @@
-Paragastronauta Foissner, 2001 GENUS
-=======
+# Paragastronauta Foissner, 2001 GENUS
 
 #### Status
 ACCEPTED

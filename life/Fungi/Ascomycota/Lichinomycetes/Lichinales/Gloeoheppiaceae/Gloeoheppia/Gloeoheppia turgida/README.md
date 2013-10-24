@@ -1,14 +1,13 @@
-Endocarpon turgidum Ach. SPECIES
-=======
+# Gloeoheppia turgida (Ach.) Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. 305 (1810)
+Repert. Spec. Nov. Regni Veg. 38: 312 (1935)
 
 #### Original name
 Endocarpon turgidum Ach.

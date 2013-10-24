@@ -1,5 +1,4 @@
-Omphalaria tiruncula Nyl. SPECIES
-=======
+# Omphalaria tiruncula Nyl. SPECIES
 
 #### Status
 ACCEPTED

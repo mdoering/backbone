@@ -1,5 +1,4 @@
-Nectria lizonioidis Höhn. SPECIES
-=======
+# Nectria lizonioidis Höhn. SPECIES
 
 #### Status
 ACCEPTED

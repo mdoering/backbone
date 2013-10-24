@@ -1,5 +1,4 @@
-Scindalma contrarium (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Scindalma contrarium (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

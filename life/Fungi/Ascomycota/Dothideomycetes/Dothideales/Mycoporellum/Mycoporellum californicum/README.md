@@ -1,5 +1,4 @@
-Mycoporellum californicum Zahlbr. SPECIES
-=======
+# Mycoporellum californicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

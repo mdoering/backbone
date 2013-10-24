@@ -1,5 +1,4 @@
-Buellia cinereoviridula (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Buellia cinereoviridula (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

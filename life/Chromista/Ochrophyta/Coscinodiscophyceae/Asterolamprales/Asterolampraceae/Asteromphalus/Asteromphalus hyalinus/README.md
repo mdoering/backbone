@@ -1,5 +1,4 @@
-Asteromphalus hyalinus Karsten SPECIES
-=======
+# Asteromphalus hyalinus Karsten SPECIES
 
 #### Status
 ACCEPTED

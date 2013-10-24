@@ -1,5 +1,4 @@
-Tremella neofibulifera Kobayasi SPECIES
-=======
+# Tremella neofibulifera Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytoplea phyllostachydis (Ts. Kobay.) B. Sutton SPECIES
-=======
+# Cytoplea phyllostachydis (Ts. Kobay.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

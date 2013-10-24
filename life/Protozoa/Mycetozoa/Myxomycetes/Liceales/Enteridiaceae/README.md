@@ -1,5 +1,4 @@
-Enteridiaceae M.L. Farr FAMILY
-=======
+# Enteridiaceae M.L. Farr FAMILY
 
 #### Status
 ACCEPTED

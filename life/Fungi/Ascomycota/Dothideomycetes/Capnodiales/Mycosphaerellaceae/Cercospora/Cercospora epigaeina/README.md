@@ -1,5 +1,4 @@
-Cercospora epigaeina Davis SPECIES
-=======
+# Cercospora epigaeina Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocladon J.D.Hooker & Harvey, 1845 GENUS
-=======
+# Stereocladon J.D.Hooker & Harvey, 1845 GENUS
 
 #### Status
 ACCEPTED

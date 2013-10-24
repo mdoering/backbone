@@ -1,14 +1,13 @@
-Polyporus tepeitensis (Murrill) J. Lowe, 1952 SPECIES
-=======
+# Perenniporia tepeitensis (Murrill) Ryvarden, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Mich. Acad. Sci. 37: 51 (1952)
+Mycotaxon 23: 174 (1985)
 
 #### Original name
 Coriolus tepeitensis Murrill, 1912

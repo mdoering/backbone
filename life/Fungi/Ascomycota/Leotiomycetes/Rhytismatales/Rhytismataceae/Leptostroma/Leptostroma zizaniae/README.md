@@ -1,5 +1,4 @@
-Leptostroma zizaniae Schwein. SPECIES
-=======
+# Leptostroma zizaniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

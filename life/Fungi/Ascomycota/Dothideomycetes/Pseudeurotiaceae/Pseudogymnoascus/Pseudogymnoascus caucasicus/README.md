@@ -1,5 +1,4 @@
-Pseudogymnoascus caucasicus Cejp & Milko SPECIES
-=======
+# Pseudogymnoascus caucasicus Cejp & Milko SPECIES
 
 #### Status
 ACCEPTED

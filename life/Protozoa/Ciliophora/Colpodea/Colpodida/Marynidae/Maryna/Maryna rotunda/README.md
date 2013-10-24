@@ -1,5 +1,4 @@
-Maryna rotunda Dingfelder, 1962 SPECIES
-=======
+# Maryna rotunda Dingfelder, 1962 SPECIES
 
 #### Status
 ACCEPTED

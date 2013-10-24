@@ -1,5 +1,4 @@
-Enterobacter amnigenus Izard et al., 1981 SPECIES
-=======
+# Enterobacter amnigenus Izard et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

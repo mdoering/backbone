@@ -1,5 +1,4 @@
-Peronospora speculariae Gäum. SPECIES
-=======
+# Peronospora speculariae Gäum. SPECIES
 
 #### Status
 ACCEPTED

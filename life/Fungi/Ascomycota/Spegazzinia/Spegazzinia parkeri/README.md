@@ -1,5 +1,4 @@
-Spegazzinia parkeri Sivasith. SPECIES
-=======
+# Spegazzinia parkeri Sivasith. SPECIES
 
 #### Status
 ACCEPTED

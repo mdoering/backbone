@@ -1,5 +1,4 @@
-Punctelia ulophylla (Ach.) Herk & Aptroot SPECIES
-=======
+# Punctelia ulophylla (Ach.) Herk & Aptroot SPECIES
 
 #### Status
 ACCEPTED

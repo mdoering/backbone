@@ -1,5 +1,4 @@
-Platycola donsi Kahl, 1933 SPECIES
-=======
+# Platycola donsi Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

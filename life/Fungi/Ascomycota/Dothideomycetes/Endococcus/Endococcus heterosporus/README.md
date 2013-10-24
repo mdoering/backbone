@@ -1,5 +1,4 @@
-Endococcus heterosporus Norman SPECIES
-=======
+# Endococcus heterosporus Norman SPECIES
 
 #### Status
 ACCEPTED

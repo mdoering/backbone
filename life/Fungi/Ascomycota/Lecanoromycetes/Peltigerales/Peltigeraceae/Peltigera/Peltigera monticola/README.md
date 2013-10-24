@@ -1,5 +1,4 @@
-Peltigera monticola Vitik. SPECIES
-=======
+# Peltigera monticola Vitik. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptammina flavofusca Cedhagen, Gooday & Pawlowski, 2009 SPECIES
-=======
+# Leptammina flavofusca Cedhagen, Gooday & Pawlowski, 2009 SPECIES
 
 #### Status
 ACCEPTED

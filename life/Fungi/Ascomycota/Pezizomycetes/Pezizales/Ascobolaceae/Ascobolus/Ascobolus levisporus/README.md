@@ -1,5 +1,4 @@
-Ascobolus levisporus Speg. SPECIES
-=======
+# Ascobolus levisporus Speg. SPECIES
 
 #### Status
 ACCEPTED

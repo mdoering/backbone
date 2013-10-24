@@ -1,5 +1,4 @@
-Sphaerella hondai I. Miyake SPECIES
-=======
+# Sphaerella hondai I. Miyake SPECIES
 
 #### Status
 ACCEPTED

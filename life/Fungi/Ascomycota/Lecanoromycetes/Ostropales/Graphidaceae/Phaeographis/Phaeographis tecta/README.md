@@ -1,5 +1,4 @@
-Phaeographis tecta C.W. Dodge SPECIES
-=======
+# Phaeographis tecta C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

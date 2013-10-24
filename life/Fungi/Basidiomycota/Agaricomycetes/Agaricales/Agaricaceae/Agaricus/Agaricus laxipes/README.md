@@ -1,5 +1,4 @@
-Agaricus laxipes Fr. SPECIES
-=======
+# Agaricus laxipes Fr. SPECIES
 
 #### Status
 ACCEPTED

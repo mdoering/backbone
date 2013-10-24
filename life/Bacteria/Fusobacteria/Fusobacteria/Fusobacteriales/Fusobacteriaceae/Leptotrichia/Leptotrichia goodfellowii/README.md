@@ -1,5 +1,4 @@
-Leptotrichia goodfellowii Eribe et al., 2004 SPECIES
-=======
+# Leptotrichia goodfellowii Eribe et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

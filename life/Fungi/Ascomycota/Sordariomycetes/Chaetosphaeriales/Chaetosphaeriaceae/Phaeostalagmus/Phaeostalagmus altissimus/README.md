@@ -1,5 +1,4 @@
-Phaeostalagmus altissimus C.J.K. Wang & B. Sutton SPECIES
-=======
+# Phaeostalagmus altissimus C.J.K. Wang & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

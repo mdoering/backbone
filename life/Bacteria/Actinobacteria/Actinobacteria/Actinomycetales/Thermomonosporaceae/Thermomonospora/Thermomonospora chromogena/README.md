@@ -1,11 +1,10 @@
-Actinobifida chromogena Krasil'nikov & Agre, 1965 SPECIES
-=======
+# Thermomonospora chromogena (ex Krasil'nikov and Agre, 1965) McCarthy and Cross, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

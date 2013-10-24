@@ -1,5 +1,4 @@
-Trinacrium mycogenum Tassi SPECIES
-=======
+# Trinacrium mycogenum Tassi SPECIES
 
 #### Status
 ACCEPTED

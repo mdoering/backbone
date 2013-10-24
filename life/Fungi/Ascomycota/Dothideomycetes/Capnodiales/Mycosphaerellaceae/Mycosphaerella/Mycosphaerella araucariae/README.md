@@ -1,5 +1,4 @@
-Mycosphaerella araucariae (Rehm) Arx SPECIES
-=======
+# Mycosphaerella araucariae (Rehm) Arx SPECIES
 
 #### Status
 ACCEPTED

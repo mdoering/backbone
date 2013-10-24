@@ -1,5 +1,4 @@
-Helicobacter canadensis Fox et al., 2002 SPECIES
-=======
+# Helicobacter canadensis Fox et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

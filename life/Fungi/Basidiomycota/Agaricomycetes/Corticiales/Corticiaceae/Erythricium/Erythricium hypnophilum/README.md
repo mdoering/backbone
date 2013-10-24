@@ -1,14 +1,13 @@
-Corticium hypnophilum P. Karst., 1890 SPECIES
-=======
+# Erythricium hypnophilum (P. Karst.) J. Erikss. & Hjortstam, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 12: 126 (1890)
+Svensk bot. Tidskr. 64: 168 (1970)
 
 #### Original name
 Corticium hypnophilum P. Karst., 1890

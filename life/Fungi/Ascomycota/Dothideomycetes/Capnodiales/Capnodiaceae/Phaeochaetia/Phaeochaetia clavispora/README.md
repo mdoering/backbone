@@ -1,5 +1,4 @@
-Phaeochaetia clavispora (Speg.) Bat. & Cif. SPECIES
-=======
+# Phaeochaetia clavispora (Speg.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

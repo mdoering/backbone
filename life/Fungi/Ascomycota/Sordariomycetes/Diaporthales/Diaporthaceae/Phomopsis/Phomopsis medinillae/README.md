@@ -1,5 +1,4 @@
-Phomopsis medinillae Gutner SPECIES
-=======
+# Phomopsis medinillae Gutner SPECIES
 
 #### Status
 ACCEPTED

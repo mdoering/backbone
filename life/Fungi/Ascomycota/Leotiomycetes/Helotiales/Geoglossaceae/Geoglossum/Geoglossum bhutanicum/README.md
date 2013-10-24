@@ -1,5 +1,4 @@
-Geoglossum bhutanicum Prasher & R. Sharma SPECIES
-=======
+# Geoglossum bhutanicum Prasher & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

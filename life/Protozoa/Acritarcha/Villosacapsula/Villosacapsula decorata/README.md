@@ -1,5 +1,4 @@
-Villosacapsula decorata Uutela & Tynni, 1991 SPECIES
-=======
+# Villosacapsula decorata Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

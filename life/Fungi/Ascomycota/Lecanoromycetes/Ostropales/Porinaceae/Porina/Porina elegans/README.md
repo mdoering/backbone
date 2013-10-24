@@ -1,5 +1,4 @@
-Porina elegans Malme SPECIES
-=======
+# Porina elegans Malme SPECIES
 
 #### Status
 ACCEPTED

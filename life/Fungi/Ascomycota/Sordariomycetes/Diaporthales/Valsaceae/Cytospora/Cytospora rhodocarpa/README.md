@@ -1,5 +1,4 @@
-Cytospora rhodocarpa Sacc. SPECIES
-=======
+# Cytospora rhodocarpa Sacc. SPECIES
 
 #### Status
 ACCEPTED

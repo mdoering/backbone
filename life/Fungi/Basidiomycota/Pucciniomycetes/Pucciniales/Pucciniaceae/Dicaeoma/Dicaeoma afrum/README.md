@@ -1,5 +1,4 @@
-Dicaeoma afrum (G. Winter) Kuntze SPECIES
-=======
+# Dicaeoma afrum (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea chrysopoda Stein SPECIES
-=======
+# Usnea chrysopoda Stein SPECIES
 
 #### Status
 ACCEPTED

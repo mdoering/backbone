@@ -1,5 +1,4 @@
-Soldaniella Bronnimann, Whittaker & Parisi, 1987 GENUS
-=======
+# Soldaniella Bronnimann, Whittaker & Parisi, 1987 GENUS
 
 #### Status
 ACCEPTED

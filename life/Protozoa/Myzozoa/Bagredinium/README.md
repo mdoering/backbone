@@ -1,5 +1,4 @@
-Bagredinium K.P.Da, F.Zongo, G.Mascarell & A.Couté, 2004 GENUS
-=======
+# Bagredinium K.P.Da, F.Zongo, G.Mascarell & A.Couté, 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nikitinella Sosnina, 1983 GENUS
-=======
+# Nikitinella Sosnina, 1983 GENUS
 
 #### Status
 ACCEPTED

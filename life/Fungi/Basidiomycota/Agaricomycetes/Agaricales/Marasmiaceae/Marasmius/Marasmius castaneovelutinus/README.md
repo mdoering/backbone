@@ -1,5 +1,4 @@
-Marasmius castaneovelutinus Henn. SPECIES
-=======
+# Marasmius castaneovelutinus Henn. SPECIES
 
 #### Status
 ACCEPTED

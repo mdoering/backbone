@@ -1,14 +1,13 @@
-Hygrocybe persistens var. cuspidata (Peck) Arnolds, 1986 VARIETY
-=======
+# Hygrocybe cuspidata (Peck) Roody, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 13(2): 143 (1986)
+Mushrooms of West Virginia and the Central Appalachians 174 (2003)
 
 #### Original name
 Hygrophorus cuspidatus Peck, 1897

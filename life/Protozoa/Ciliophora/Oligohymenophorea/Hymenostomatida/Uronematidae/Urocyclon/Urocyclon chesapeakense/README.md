@@ -1,8 +1,7 @@
-Urocyclon chesapeakensis (Small & Lynn, 1985) Song & Wilbert, 2000 SPECIES
-=======
+# Urocyclon chesapeakense Small & Lynn, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

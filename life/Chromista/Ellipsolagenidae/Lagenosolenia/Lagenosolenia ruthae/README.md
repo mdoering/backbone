@@ -1,5 +1,4 @@
-Lagenosolenia ruthae McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia ruthae McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

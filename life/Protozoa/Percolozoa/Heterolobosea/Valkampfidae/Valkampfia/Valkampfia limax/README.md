@@ -1,5 +1,4 @@
-Valkampfia limax Dujardin SPECIES
-=======
+# Valkampfia limax Dujardin SPECIES
 
 #### Status
 ACCEPTED

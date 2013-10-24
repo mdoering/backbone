@@ -1,5 +1,4 @@
-Neobulgaria pura var. pura VARIETY
-=======
+# Neobulgaria pura (Pers.) Petr., 1921 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19(1/2): 45 (1921)
+null
 
 #### Original name
 null

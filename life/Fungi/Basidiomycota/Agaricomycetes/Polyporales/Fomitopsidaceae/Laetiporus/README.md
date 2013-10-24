@@ -1,14 +1,13 @@
-Polyporus (Pers.) Gray GENUS
-=======
+# Laetiporus Murrill, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 645 (1821)
+null
 
 #### Original name
 null

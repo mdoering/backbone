@@ -1,5 +1,4 @@
-Bagnisiopsis coptidis Tochinai & Yamagiwa, 1934 SPECIES
-=======
+# Bagnisiopsis coptidis Tochinai & Yamagiwa, 1934 SPECIES
 
 #### Status
 ACCEPTED

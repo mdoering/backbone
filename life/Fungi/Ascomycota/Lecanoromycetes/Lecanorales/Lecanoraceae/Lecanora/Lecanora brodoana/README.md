@@ -1,5 +1,4 @@
-Lecanora brodoana Lumbsch & T. H. Nash SPECIES
-=======
+# Lecanora brodoana Lumbsch & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Botryophoma (P. Karst.) Höhn. GENUS
-=======
+# Sclerodothiorella Died. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 125(1-2): 72 (1916)
+null
 
 #### Original name
-null
+Sclerodothiorella Died.
 
 ### Remarks
 null

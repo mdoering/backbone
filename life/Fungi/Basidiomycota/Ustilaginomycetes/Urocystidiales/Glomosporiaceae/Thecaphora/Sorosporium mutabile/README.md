@@ -1,5 +1,4 @@
-Sorosporium mutabile (Syd.) L. Ling SPECIES
-=======
+# Sorosporium mutabile (Syd.) L. Ling SPECIES
 
 #### Status
 ACCEPTED

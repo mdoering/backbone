@@ -1,5 +1,4 @@
-Protoglossum Massee GENUS
-=======
+# Protoglossum Massee GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria sarmenticia Sacc. SPECIES
-=======
+# Septoria sarmenticia Sacc. SPECIES
 
 #### Status
 ACCEPTED

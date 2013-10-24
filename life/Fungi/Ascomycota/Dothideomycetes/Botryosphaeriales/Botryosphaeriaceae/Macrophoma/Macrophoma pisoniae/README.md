@@ -1,5 +1,4 @@
-Macrophoma pisoniae C.C. Chen SPECIES
-=======
+# Macrophoma pisoniae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

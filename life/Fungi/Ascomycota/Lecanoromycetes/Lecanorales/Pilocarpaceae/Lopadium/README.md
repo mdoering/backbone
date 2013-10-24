@@ -1,17 +1,16 @@
-Lopadiomyces Cif. & Tomas. GENUS
-=======
+# Lopadium Körb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 64 (1953)
+Syst. lich. germ. (Breslau) 210 (1855)
 
 #### Original name
-Lopadiomyces Cif. & Tomas.
+Lopadium Körb.
 
 ### Remarks
 null

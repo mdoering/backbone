@@ -1,5 +1,4 @@
-Calyptrozyma arxii Boekhout & Spaay, 1995 SPECIES
-=======
+# Calyptrozyma arxii Boekhout & Spaay, 1995 SPECIES
 
 #### Status
 ACCEPTED

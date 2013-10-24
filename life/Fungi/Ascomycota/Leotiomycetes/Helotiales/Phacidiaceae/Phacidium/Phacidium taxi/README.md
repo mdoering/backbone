@@ -1,5 +1,4 @@
-Phacidium taxi Fr. SPECIES
-=======
+# Phacidium taxi Fr. SPECIES
 
 #### Status
 ACCEPTED

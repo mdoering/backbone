@@ -1,5 +1,4 @@
-Clavaria schroeteri Henn. SPECIES
-=======
+# Clavaria schroeteri Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenococcum Mougeot & E.M. Fries, 1825 GENUS
-=======
+# Cenococcum Mougeot & E.M. Fries, 1825 GENUS
 
 #### Status
 ACCEPTED

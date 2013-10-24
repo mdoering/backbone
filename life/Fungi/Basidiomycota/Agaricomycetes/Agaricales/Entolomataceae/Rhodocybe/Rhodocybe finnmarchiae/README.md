@@ -1,5 +1,4 @@
-Rhodocybe finnmarchiae Noordel. SPECIES
-=======
+# Rhodocybe finnmarchiae Noordel. SPECIES
 
 #### Status
 ACCEPTED

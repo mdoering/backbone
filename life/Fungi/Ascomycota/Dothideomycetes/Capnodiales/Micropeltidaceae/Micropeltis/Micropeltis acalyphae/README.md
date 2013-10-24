@@ -1,5 +1,4 @@
-Micropeltis acalyphae Syd. SPECIES
-=======
+# Micropeltis acalyphae Syd. SPECIES
 
 #### Status
 ACCEPTED

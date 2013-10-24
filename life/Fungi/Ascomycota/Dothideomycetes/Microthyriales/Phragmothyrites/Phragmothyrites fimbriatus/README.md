@@ -1,5 +1,4 @@
-Phragmothyrites fimbriatus (Cookson) Selkirk SPECIES
-=======
+# Phragmothyrites fimbriatus (Cookson) Selkirk SPECIES
 
 #### Status
 ACCEPTED

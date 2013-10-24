@@ -1,5 +1,4 @@
-Coccomyces phyllocladi P.R. Johnst., 1986 SPECIES
-=======
+# Coccomyces phyllocladi P.R. Johnst., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria zhukovskii Gucevic SPECIES
-=======
+# Didymosphaeria zhukovskii Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporochnus stylosus Harvey SPECIES
-=======
+# Sporochnus stylosus Harvey SPECIES
 
 #### Status
 ACCEPTED

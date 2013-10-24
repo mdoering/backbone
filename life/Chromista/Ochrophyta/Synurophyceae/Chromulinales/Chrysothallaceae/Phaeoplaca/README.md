@@ -1,5 +1,4 @@
-Phaeoplaca Chodat, 1926 GENUS
-=======
+# Phaeoplaca Chodat, 1926 GENUS
 
 #### Status
 ACCEPTED

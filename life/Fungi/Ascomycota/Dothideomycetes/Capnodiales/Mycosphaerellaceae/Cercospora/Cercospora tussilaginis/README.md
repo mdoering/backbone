@@ -1,5 +1,4 @@
-Cercospora tussilaginis Y.L. Guo & Y. Jiang SPECIES
-=======
+# Cercospora tussilaginis Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
 ACCEPTED

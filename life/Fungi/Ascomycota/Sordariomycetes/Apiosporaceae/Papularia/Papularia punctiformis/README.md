@@ -1,5 +1,4 @@
-Papularia punctiformis Sacc. SPECIES
-=======
+# Papularia punctiformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

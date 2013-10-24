@@ -1,5 +1,4 @@
-Sphaeria sinclairii Berk. SPECIES
-=======
+# Sphaeria sinclairii Berk. SPECIES
 
 #### Status
 ACCEPTED

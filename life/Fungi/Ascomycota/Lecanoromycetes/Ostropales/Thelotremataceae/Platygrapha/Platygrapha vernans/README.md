@@ -1,5 +1,4 @@
-Platygrapha vernans Tuck. SPECIES
-=======
+# Platygrapha vernans Tuck. SPECIES
 
 #### Status
 ACCEPTED

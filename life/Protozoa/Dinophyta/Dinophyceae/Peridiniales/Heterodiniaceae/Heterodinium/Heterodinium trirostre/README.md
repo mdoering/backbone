@@ -1,5 +1,4 @@
-Heterodinium trirostre (Murray & Whitting, 1899) Kofoid, 1906 SPECIES
-=======
+# Heterodinium trirostre (Murray & Whitting, 1899) Kofoid, 1906 SPECIES
 
 #### Status
 ACCEPTED

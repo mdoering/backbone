@@ -1,5 +1,4 @@
-Anthracothecium ochroxanthum Müll. Arg. SPECIES
-=======
+# Anthracothecium ochroxanthum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus pleurocystidiatus Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Gymnopilus pleurocystidiatus Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia austrolitoralis Follmann SPECIES
-=======
+# Arthonia austrolitoralis Follmann SPECIES
 
 #### Status
 ACCEPTED

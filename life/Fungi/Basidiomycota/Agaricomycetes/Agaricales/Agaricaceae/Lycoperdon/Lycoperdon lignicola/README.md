@@ -1,5 +1,4 @@
-Lycoperdon lignicola Massee SPECIES
-=======
+# Lycoperdon lignicola Massee SPECIES
 
 #### Status
 ACCEPTED

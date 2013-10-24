@@ -1,8 +1,7 @@
-Phoma ralfsii (Berk. & Broome) Sacc. SPECIES
-=======
+# Sphaeropsis ralfsii Berk. & Broome, 1850 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

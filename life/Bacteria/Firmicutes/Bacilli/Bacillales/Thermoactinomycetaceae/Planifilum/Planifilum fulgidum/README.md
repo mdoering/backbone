@@ -1,5 +1,4 @@
-Planifilum fulgidum Hatayama et al., 2005 SPECIES
-=======
+# Planifilum fulgidum Hatayama et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma circumscissum Lév. SPECIES
-=======
+# Rhytisma circumscissum Lév. SPECIES
 
 #### Status
 ACCEPTED

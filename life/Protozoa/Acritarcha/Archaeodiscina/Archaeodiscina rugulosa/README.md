@@ -1,5 +1,4 @@
-Archaeodiscina rugulosa N. Umnova in N. Umnova & Yakovlev, 1970 SPECIES
-=======
+# Archaeodiscina rugulosa N. Umnova in N. Umnova & Yakovlev, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe macrospora Wehm. SPECIES
-=======
+# Diaporthe macrospora Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton asteroides Sabour. SPECIES
-=======
+# Trichophyton asteroides Sabour. SPECIES
 
 #### Status
 ACCEPTED

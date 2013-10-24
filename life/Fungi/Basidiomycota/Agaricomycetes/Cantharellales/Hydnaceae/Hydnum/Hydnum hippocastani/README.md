@@ -1,5 +1,4 @@
-Hydnum hippocastani N. Terracc. SPECIES
-=======
+# Hydnum hippocastani N. Terracc. SPECIES
 
 #### Status
 ACCEPTED

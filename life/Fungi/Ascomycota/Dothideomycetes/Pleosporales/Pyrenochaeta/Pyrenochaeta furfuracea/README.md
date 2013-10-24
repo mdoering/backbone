@@ -1,5 +1,4 @@
-Pyrenochaeta furfuracea O. Rostr. SPECIES
-=======
+# Pyrenochaeta furfuracea O. Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora acalyphae Chardón, 1940 SPECIES
-=======
+# Phyllachora acalyphae Chardón, 1940 SPECIES
 
 #### Status
 DOUBTFUL

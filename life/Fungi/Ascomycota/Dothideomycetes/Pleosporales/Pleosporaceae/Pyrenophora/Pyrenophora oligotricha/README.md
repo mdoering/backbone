@@ -1,5 +1,4 @@
-Pyrenophora oligotricha (Niessl) Berl. & Voglino SPECIES
-=======
+# Pyrenophora oligotricha (Niessl) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

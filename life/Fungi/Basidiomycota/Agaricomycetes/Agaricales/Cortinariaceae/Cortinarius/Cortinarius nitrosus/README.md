@@ -1,5 +1,4 @@
-Cortinarius nitrosus Cooke SPECIES
-=======
+# Cortinarius nitrosus Cooke SPECIES
 
 #### Status
 ACCEPTED

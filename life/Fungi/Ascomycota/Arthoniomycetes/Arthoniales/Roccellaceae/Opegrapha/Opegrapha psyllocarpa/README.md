@@ -1,5 +1,4 @@
-Opegrapha psyllocarpa Leight. SPECIES
-=======
+# Opegrapha psyllocarpa Leight. SPECIES
 
 #### Status
 ACCEPTED

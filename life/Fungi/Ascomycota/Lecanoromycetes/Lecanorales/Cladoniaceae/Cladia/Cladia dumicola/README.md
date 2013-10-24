@@ -1,5 +1,4 @@
-Cladia dumicola Kantvilas & Elix SPECIES
-=======
+# Cladia dumicola Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cepedietta fibrillata Kay, 1942 SPECIES
-=======
+# Cepedietta fibrillata Kay, 1942 SPECIES
 
 #### Status
 ACCEPTED

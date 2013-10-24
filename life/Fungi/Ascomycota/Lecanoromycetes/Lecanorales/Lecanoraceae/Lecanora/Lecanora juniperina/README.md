@@ -1,5 +1,4 @@
-Lecanora juniperina Sliwa SPECIES
-=======
+# Lecanora juniperina Sliwa SPECIES
 
 #### Status
 ACCEPTED

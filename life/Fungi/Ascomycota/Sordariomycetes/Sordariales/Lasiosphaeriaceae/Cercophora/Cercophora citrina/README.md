@@ -1,5 +1,4 @@
-Cercophora citrina (Petch) N. Lundq. SPECIES
-=======
+# Cercophora citrina (Petch) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

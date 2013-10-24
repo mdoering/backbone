@@ -1,5 +1,4 @@
-Hymenula spermogoniopsis (Jul. Müll.) Wollenw. SPECIES
-=======
+# Hymenula spermogoniopsis (Jul. Müll.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

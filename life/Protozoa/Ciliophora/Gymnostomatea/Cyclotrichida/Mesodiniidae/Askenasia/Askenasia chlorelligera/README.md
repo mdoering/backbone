@@ -1,5 +1,4 @@
-Askenasia chlorelligera Krainer & Foissner, 1990 SPECIES
-=======
+# Askenasia chlorelligera Krainer & Foissner, 1990 SPECIES
 
 #### Status
 ACCEPTED

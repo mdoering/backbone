@@ -1,5 +1,4 @@
-Ascochyta oleae Scalia, 1900 SPECIES
-=======
+# Ascochyta oleae Scalia, 1900 SPECIES
 
 #### Status
 ACCEPTED

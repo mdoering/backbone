@@ -1,5 +1,4 @@
-Lentinus rubicundus (Mont.) Henn. SPECIES
-=======
+# Lentinus rubicundus (Mont.) Henn. SPECIES
 
 #### Status
 ACCEPTED

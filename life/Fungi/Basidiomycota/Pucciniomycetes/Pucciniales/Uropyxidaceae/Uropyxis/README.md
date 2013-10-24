@@ -1,17 +1,16 @@
-Calliospora Arthur GENUS
-=======
+# Uropyxis J. Schröt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 39: 390 (1905)
+Hedwigia 14: 165 (1875)
 
 #### Original name
-Calliospora Arthur
+Uropyxis J. Schröt.
 
 ### Remarks
 null

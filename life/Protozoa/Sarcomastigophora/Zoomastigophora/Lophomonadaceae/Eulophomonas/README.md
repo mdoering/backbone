@@ -1,5 +1,4 @@
-Eulophomonas G.B.Grassi, 1911 GENUS
-=======
+# Eulophomonas G.B.Grassi, 1911 GENUS
 
 #### Status
 ACCEPTED

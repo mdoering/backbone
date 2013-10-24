@@ -1,8 +1,7 @@
-Sargassum denticulatum Børgesen SPECIES
-=======
+# Sargassum dentifolium (Turner) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

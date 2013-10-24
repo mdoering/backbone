@@ -1,5 +1,4 @@
-Felixites playfordii Elsik SPECIES
-=======
+# Felixites playfordii Elsik SPECIES
 
 #### Status
 ACCEPTED

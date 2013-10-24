@@ -1,5 +1,4 @@
-Graphis sorediella (Müll. Arg.) Stizenb. SPECIES
-=======
+# Graphis sorediella (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

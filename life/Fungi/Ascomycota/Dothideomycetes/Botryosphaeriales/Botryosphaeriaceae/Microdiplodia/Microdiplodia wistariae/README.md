@@ -1,5 +1,4 @@
-Microdiplodia wistariae Grove SPECIES
-=======
+# Microdiplodia wistariae Grove SPECIES
 
 #### Status
 ACCEPTED

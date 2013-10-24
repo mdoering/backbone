@@ -1,5 +1,4 @@
-Glenospora didyma Cooke SPECIES
-=======
+# Glenospora didyma Cooke SPECIES
 
 #### Status
 ACCEPTED

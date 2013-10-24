@@ -1,5 +1,4 @@
-Fungoides minimum P. Micheli SPECIES
-=======
+# Fungoides minimum P. Micheli SPECIES
 
 #### Status
 ACCEPTED

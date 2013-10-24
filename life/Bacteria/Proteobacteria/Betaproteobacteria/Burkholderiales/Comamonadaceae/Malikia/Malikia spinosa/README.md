@@ -1,8 +1,7 @@
-Pseudomonas spinosa Leifson, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Malikia spinosa (Leifson, 1962) Spring et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

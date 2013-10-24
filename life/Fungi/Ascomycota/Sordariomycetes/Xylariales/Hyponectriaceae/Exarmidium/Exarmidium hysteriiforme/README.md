@@ -1,5 +1,4 @@
-Exarmidium hysteriiforme P. Karst., 1873 SPECIES
-=======
+# Exarmidium hysteriiforme P. Karst., 1873 SPECIES
 
 #### Status
 ACCEPTED

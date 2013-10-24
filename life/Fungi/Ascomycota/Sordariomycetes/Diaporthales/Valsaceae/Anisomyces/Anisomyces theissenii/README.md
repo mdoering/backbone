@@ -1,5 +1,4 @@
-Anisomyces theissenii (Syd. & P. Syd.) E. Müll. SPECIES
-=======
+# Anisomyces theissenii (Syd. & P. Syd.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

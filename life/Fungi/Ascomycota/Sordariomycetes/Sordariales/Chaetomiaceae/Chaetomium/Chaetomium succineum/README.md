@@ -1,5 +1,4 @@
-Chaetomium succineum L.M. Ames, 1950 SPECIES
-=======
+# Chaetomium succineum L.M. Ames, 1950 SPECIES
 
 #### Status
 ACCEPTED

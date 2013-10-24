@@ -1,5 +1,4 @@
-Spatoglossum lanceolatum E.Y.Dawson, 1954 SPECIES
-=======
+# Spatoglossum lanceolatum E.Y.Dawson, 1954 SPECIES
 
 #### Status
 ACCEPTED

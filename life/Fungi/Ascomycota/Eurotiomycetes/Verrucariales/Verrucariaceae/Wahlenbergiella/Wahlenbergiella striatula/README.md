@@ -1,17 +1,16 @@
-Verrucaria microspora f. microspora FORM
-=======
+# Wahlenbergiella striatula (Wahlenb.) Gueidan & Thüs SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Verrucaria microspora f. microspora
+null
 
 ### Remarks
 null

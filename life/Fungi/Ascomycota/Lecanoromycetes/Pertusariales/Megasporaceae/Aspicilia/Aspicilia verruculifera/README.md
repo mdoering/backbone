@@ -1,5 +1,4 @@
-Aspicilia verruculifera (Oxner) N.S. Golubk. SPECIES
-=======
+# Aspicilia verruculifera (Oxner) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

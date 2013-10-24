@@ -1,5 +1,4 @@
-Mycoderma histosporocellulare (Haberf.) Neveu-Lem. SPECIES
-=======
+# Mycoderma histosporocellulare (Haberf.) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

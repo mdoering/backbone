@@ -1,5 +1,4 @@
-Beauveriphora sporotricis Matsush., 1975 SPECIES
-=======
+# Beauveriphora sporotricis Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

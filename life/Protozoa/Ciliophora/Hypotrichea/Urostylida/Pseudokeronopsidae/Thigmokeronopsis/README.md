@@ -1,5 +1,4 @@
-Thigmokeronopsis Wicklow, 1981 GENUS
-=======
+# Thigmokeronopsis Wicklow, 1981 GENUS
 
 #### Status
 ACCEPTED

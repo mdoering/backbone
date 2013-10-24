@@ -1,5 +1,4 @@
-Cercospora rivinae Chupp & J.A. Stev. SPECIES
-=======
+# Cercospora rivinae Chupp & J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

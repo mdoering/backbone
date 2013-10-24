@@ -1,5 +1,4 @@
-Bacidia trichosporella Zahlbr. SPECIES
-=======
+# Bacidia trichosporella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

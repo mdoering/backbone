@@ -1,5 +1,4 @@
-Aecidium cinnamomi Racib. SPECIES
-=======
+# Aecidium cinnamomi Racib. SPECIES
 
 #### Status
 ACCEPTED

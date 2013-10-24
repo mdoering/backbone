@@ -1,5 +1,4 @@
-Pannonibacter phragmitetus Borsodi et al., 2003 SPECIES
-=======
+# Pannonibacter phragmitetus Borsodi et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

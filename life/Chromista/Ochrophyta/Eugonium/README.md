@@ -1,5 +1,4 @@
-Eugonium Cleve GENUS
-=======
+# Eugonium Cleve GENUS
 
 #### Status
 ACCEPTED

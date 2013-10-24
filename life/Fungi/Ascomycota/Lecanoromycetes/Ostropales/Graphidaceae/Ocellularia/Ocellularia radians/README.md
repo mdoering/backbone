@@ -1,5 +1,4 @@
-Ocellularia radians Müll. Arg. SPECIES
-=======
+# Ocellularia radians Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

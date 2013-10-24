@@ -1,5 +1,4 @@
-Paulia cubana (Tuck.) Henssen SPECIES
-=======
+# Paulia cubana (Tuck.) Henssen SPECIES
 
 #### Status
 ACCEPTED

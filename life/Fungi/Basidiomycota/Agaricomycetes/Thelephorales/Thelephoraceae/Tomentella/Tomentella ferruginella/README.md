@@ -1,17 +1,16 @@
-Tomentella ferruginea ferruginella Bourdot & Galzin, 1924 INFRASPECIFIC_NAME
-=======
+# Tomentella ferruginella (Bourdot & Galzin) Svrcek, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 12: 75 (1958)
 
 #### Original name
-null
+Tomentella ferruginea ferruginella Bourdot & Galzin, 1924
 
 ### Remarks
 null

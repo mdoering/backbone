@@ -1,5 +1,4 @@
-Trametes xanthopodoides Corner SPECIES
-=======
+# Trametes xanthopodoides Corner SPECIES
 
 #### Status
 ACCEPTED

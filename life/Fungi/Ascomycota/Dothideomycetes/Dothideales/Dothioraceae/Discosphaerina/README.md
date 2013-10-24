@@ -1,5 +1,4 @@
-Discosphaerina von Höhnel, 1917 GENUS
-=======
+# Discosphaerina von Höhnel, 1917 GENUS
 
 #### Status
 ACCEPTED

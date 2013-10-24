@@ -1,5 +1,4 @@
-Sclerotium populicola Heer SPECIES
-=======
+# Sclerotium populicola Heer SPECIES
 
 #### Status
 ACCEPTED

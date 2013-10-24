@@ -1,5 +1,4 @@
-Anabaenopsis circularis var. indica G.U. Nair VARIETY
-=======
+# Anabaenopsis circularis (G.S. West) Woloszynska & Miller SPECIES
 
 #### Status
 ACCEPTED

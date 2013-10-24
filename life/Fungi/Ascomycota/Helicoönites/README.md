@@ -1,5 +1,4 @@
-Helicoönites Kalgutkar & Sigler GENUS
-=======
+# Helicoönites Kalgutkar & Sigler GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Poetschia buellioides var. buellioides Körb. VARIETY
-=======
+# Poetschia buellioides Körb., 1861 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Parerga lichenol. (Breslau) (1861)
 
 #### Original name
-Poetschia buellioides var. buellioides Körb.
+Poetschia buellioides Körb., 1861
 
 ### Remarks
 null

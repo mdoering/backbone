@@ -1,11 +1,10 @@
-Methamonas methanica (Söhngen, 1906) Orla-Jensen, 1909 SPECIES
-=======
+# Methylomonas methanica (ex Söhngen, 1906) Whittenbury & Krieg, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

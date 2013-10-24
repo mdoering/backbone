@@ -1,5 +1,4 @@
-Biarritzina carpenteriaeformis (Halkyard, 1919) SPECIES
-=======
+# Biarritzina carpenteriaeformis (Halkyard, 1919) SPECIES
 
 #### Status
 ACCEPTED

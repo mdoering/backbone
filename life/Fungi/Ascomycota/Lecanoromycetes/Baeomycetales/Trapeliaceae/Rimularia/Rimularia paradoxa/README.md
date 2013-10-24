@@ -1,5 +1,4 @@
-Rimularia paradoxa Timdal & W.A. Weber SPECIES
-=======
+# Rimularia paradoxa Timdal & W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

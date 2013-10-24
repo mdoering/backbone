@@ -1,5 +1,4 @@
-Phomopsis pehenningsii N.D. Sharma SPECIES
-=======
+# Phomopsis pehenningsii N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

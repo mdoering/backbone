@@ -1,5 +1,4 @@
-Patella tuberculata Seaver SPECIES
-=======
+# Patella tuberculata Seaver SPECIES
 
 #### Status
 ACCEPTED

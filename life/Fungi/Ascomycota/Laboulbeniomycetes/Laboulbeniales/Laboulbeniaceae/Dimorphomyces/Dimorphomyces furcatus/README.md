@@ -1,5 +1,4 @@
-Dimorphomyces furcatus Thaxt. SPECIES
-=======
+# Dimorphomyces furcatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoepicoccum tectonae J.K. Sharma, C.N. Mohanan & Florence SPECIES
-=======
+# Pseudoepicoccum tectonae J.K. Sharma, C.N. Mohanan & Florence SPECIES
 
 #### Status
 ACCEPTED

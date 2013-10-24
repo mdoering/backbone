@@ -1,5 +1,4 @@
-Biscutum ellipticum (Gorka, 1957) Grün in Grün & Allemann, 1975 SPECIES
-=======
+# Biscutum ellipticum (Gorka, 1957) Grün in Grün & Allemann, 1975 SPECIES
 
 #### Status
 ACCEPTED

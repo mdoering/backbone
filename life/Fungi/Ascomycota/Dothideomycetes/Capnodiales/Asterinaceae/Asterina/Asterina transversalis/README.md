@@ -1,5 +1,4 @@
-Asterina transversalis Syd. SPECIES
-=======
+# Asterina transversalis Syd. SPECIES
 
 #### Status
 ACCEPTED

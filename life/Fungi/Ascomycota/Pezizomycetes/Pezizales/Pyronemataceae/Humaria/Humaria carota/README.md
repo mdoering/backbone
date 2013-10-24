@@ -1,5 +1,4 @@
-Humaria carota Boedijn & Overeem SPECIES
-=======
+# Humaria carota Boedijn & Overeem SPECIES
 
 #### Status
 ACCEPTED

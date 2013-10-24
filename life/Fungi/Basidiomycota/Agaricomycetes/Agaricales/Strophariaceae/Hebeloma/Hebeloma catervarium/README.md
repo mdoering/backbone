@@ -1,5 +1,4 @@
-Hebeloma catervarium Lév. SPECIES
-=======
+# Hebeloma catervarium Lév. SPECIES
 
 #### Status
 ACCEPTED

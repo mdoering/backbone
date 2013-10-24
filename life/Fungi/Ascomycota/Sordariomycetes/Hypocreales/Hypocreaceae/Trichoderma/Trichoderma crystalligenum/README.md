@@ -1,5 +1,4 @@
-Trichoderma crystalligenum Jaklitsch SPECIES
-=======
+# Trichoderma crystalligenum Jaklitsch SPECIES
 
 #### Status
 ACCEPTED

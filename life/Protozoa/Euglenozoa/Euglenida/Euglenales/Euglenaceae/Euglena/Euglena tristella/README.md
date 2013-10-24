@@ -1,5 +1,4 @@
-Euglena tristella Chu SPECIES
-=======
+# Euglena tristella Chu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dicaeoma soldanellae (DC.) Kuntze, 1898 SPECIES
-=======
+# Puccinia soldanellae (DC.) Fuckel, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 470 (1898)
+Jb. nassau. Ver. Naturk. 29-30: 14 (1875)
 
 #### Original name
 Uredo soldanellae DC., 1815

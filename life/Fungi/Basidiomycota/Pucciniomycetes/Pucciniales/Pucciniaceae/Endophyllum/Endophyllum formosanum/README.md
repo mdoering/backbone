@@ -1,5 +1,4 @@
-Endophyllum formosanum (Syd. & P. Syd.) Hirats. f. & S. Kaneko, 1980 SPECIES
-=======
+# Endophyllum formosanum (Syd. & P. Syd.) Hirats. f. & S. Kaneko, 1980 SPECIES
 
 #### Status
 ACCEPTED

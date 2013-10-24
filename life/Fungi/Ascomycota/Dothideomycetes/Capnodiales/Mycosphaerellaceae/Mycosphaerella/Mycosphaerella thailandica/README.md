@@ -1,5 +1,4 @@
-Mycosphaerella thailandica Crous, Himaman & M.J. Wingf., 2004 SPECIES
-=======
+# Mycosphaerella thailandica Crous, Himaman & M.J. Wingf., 2004 SPECIES
 
 #### Status
 ACCEPTED

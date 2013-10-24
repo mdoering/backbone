@@ -1,5 +1,4 @@
-Aecidium heliopsidis Mayor SPECIES
-=======
+# Aecidium heliopsidis Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ophionectria depilata (Fuckel) Höhn., 1914 SPECIES
-=======
+# Lasiosphaeria depilata Fuckel, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 123: 108 (1914)
+Jb. nassau. Ver. Naturk. 27-28: 27 (1873)
 
 #### Original name
-Lasiosphaeria depilata Fuckel, 1874
+Sphaeria depilata Fr.
 
 ### Remarks
 null

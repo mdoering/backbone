@@ -1,5 +1,4 @@
-Lactarius ilicis Sarnari SPECIES
-=======
+# Lactarius ilicis Sarnari SPECIES
 
 #### Status
 ACCEPTED

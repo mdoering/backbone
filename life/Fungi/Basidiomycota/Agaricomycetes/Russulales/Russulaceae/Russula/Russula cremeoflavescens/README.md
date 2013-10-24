@@ -1,5 +1,4 @@
-Russula cremeoflavescens Reumaux SPECIES
-=======
+# Russula cremeoflavescens Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Neurocarpus membranaceus (Stackhouse) Weber & Mohr, 0 SPECIES
-=======
+# Dictyopteris polypodioides (A.P. de Candolle) J.V. Lamouroux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

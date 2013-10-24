@@ -1,17 +1,16 @@
-Dicrandromyces Thaxt. GENUS
-=======
+# Tetrandromyces Thaxt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts, ser. 2 16: 72 (1931)
+Proc. Amer. Acad. Arts & Sci. 48: 168 (1912)
 
 #### Original name
-Dicrandromyces Thaxt.
+Tetrandromyces Thaxt.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Biatora jacobi Tuck. SPECIES
-=======
+# Biatora jacobi Tuck. SPECIES
 
 #### Status
 ACCEPTED

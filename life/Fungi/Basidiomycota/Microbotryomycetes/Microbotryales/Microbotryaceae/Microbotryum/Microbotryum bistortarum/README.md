@@ -1,17 +1,16 @@
-Ustilago bistortarum var. bistortarum VARIETY
-=======
+# Microbotryum bistortarum (DC.) Vánky, 1998 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 16: 38 (1877)
+Mycotaxon 67: 40 (1998)
 
 #### Original name
-Ustilago bistortarum var. bistortarum
+Uredo bistortarum DC., 1815
 
 ### Remarks
 null

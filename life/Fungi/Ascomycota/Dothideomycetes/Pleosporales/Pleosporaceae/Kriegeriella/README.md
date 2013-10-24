@@ -1,5 +1,4 @@
-Kriegeriella Höhn. GENUS
-=======
+# Kriegeriella Höhn. GENUS
 
 #### Status
 ACCEPTED

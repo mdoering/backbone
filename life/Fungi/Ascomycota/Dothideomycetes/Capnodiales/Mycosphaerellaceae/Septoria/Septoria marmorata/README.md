@@ -1,5 +1,4 @@
-Septoria marmorata Kabát & Bubák SPECIES
-=======
+# Septoria marmorata Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

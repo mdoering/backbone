@@ -1,5 +1,4 @@
-Fuscopannaria hirsuta P. M. Jørg. SPECIES
-=======
+# Fuscopannaria hirsuta P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

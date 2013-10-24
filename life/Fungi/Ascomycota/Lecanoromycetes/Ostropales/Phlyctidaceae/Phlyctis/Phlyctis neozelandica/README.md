@@ -1,8 +1,7 @@
-Phlyctis neo-zelandica Nyl. SPECIES
-=======
+# Phlyctis neozelandica Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phlyctis neo-zelandica Nyl.
+Phlyctis neozelandica Nyl.
 
 ### Remarks
 null

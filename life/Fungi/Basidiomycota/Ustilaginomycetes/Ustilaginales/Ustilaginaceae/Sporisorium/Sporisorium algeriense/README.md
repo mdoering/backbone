@@ -1,5 +1,4 @@
-Sporisorium algeriense (Pat.) Vánky SPECIES
-=======
+# Sporisorium algeriense (Pat.) Vánky SPECIES
 
 #### Status
 ACCEPTED

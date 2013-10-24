@@ -1,5 +1,4 @@
-Phoma aromatica Cooke SPECIES
-=======
+# Phoma aromatica Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megasporoporia quercina Y.C. Dai, 2004 SPECIES
-=======
+# Megasporoporia quercina Y.C. Dai, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetophoma tobirae Gucevic SPECIES
-=======
+# Chaetophoma tobirae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha excentrica Chevall. SPECIES
-=======
+# Opegrapha excentrica Chevall. SPECIES
 
 #### Status
 ACCEPTED

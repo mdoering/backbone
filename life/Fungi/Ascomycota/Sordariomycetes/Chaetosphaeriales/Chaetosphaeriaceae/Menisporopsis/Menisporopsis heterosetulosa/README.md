@@ -1,5 +1,4 @@
-Menisporopsis heterosetulosa Cano, R.F. Castañeda & Guarro SPECIES
-=======
+# Menisporopsis heterosetulosa Cano, R.F. Castañeda & Guarro SPECIES
 
 #### Status
 ACCEPTED

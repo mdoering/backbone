@@ -1,5 +1,4 @@
-Coniochaeta myricariae (Fuckel) Arx & E. Müll. SPECIES
-=======
+# Coniochaeta myricariae (Fuckel) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

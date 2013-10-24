@@ -1,5 +1,4 @@
-Umbilicaria vellerea (Nyl.) Minks SPECIES
-=======
+# Umbilicaria vellerea (Nyl.) Minks SPECIES
 
 #### Status
 ACCEPTED

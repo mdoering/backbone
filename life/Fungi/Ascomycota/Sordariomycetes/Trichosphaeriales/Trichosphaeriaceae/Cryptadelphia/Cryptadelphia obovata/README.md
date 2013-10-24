@@ -1,5 +1,4 @@
-Cryptadelphia obovata Réblová & Seifert, 2004 SPECIES
-=======
+# Cryptadelphia obovata Réblová & Seifert, 2004 SPECIES
 
 #### Status
 ACCEPTED

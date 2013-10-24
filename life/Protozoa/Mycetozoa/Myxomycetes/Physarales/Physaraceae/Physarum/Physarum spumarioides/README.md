@@ -1,5 +1,4 @@
-Physarum spumarioides var. spumarioides T.N. Lakh. & Mukerji VARIETY
-=======
+# Physarum spumarioides T.N. Lakh. & Mukerji SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physarum spumarioides var. spumarioides T.N. Lakh. & Mukerji
+Physarum spumarioides T.N. Lakh. & Mukerji
 
 ### Remarks
 null

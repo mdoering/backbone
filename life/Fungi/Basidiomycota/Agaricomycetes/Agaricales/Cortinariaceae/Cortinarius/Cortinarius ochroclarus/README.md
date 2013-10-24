@@ -1,5 +1,4 @@
-Cortinarius ochroclarus Rob. Henry ex Rob. Henry SPECIES
-=======
+# Cortinarius ochroclarus Rob. Henry ex Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

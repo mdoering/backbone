@@ -1,17 +1,16 @@
-Arthothelium karnatakensis Makhija & Patw. SPECIES
-=======
+# Arthothelium karnatakense Makhija & Patw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Hattori bot. Lab. 78: 212 (1995)
 
 #### Original name
-Arthothelium karnatakensis Makhija & Patw.
+Arthothelium karnatakense Makhija & Patw.
 
 ### Remarks
 null

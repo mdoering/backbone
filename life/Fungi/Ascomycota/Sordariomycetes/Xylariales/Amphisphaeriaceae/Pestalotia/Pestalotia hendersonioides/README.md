@@ -1,5 +1,4 @@
-Pestalotia hendersonioides Fautrey SPECIES
-=======
+# Pestalotia hendersonioides Fautrey SPECIES
 
 #### Status
 ACCEPTED

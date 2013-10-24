@@ -1,17 +1,16 @@
-Hypholoma flavorhiza Kalamees & Shchukin SPECIES
-=======
+# Hypholoma flavorhizum Kalamees & Shchukin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Urbonas, Kalamees & Lukin, Conspectus florum agaricalium fungorum (Agaricales s. l. ) Lithuaniae, Latviae et Estoniae (materies 1778-1984 annorum) (Vilnius) 60 (1986)
 
 #### Original name
-Hypholoma flavorhiza Kalamees & Shchukin
+Hypholoma flavorhizum Kalamees & Shchukin
 
 ### Remarks
 null

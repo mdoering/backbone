@@ -1,17 +1,16 @@
-Cortinarius caesiolatens var. caesiolatens VARIETY
-=======
+# Cortinarius caesiolatens Rob. Henry ex Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+in Bidaud, Carteret, Eyssartier, Moënne-Loccoz & Reumaux, Atlas des Cortinaires (Meyzieu) 14: 960 (2004)
 
 #### Original name
-null
+Cortinarius caesiolatens Rob. Henry ex Bidaud & Reumaux
 
 ### Remarks
 null

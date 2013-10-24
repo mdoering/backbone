@@ -1,5 +1,4 @@
-Dicaeoma striatulum (Peck) Kuntze SPECIES
-=======
+# Dicaeoma striatulum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizoxylon immersum Pass. SPECIES
-=======
+# Schizoxylon immersum Pass. SPECIES
 
 #### Status
 ACCEPTED

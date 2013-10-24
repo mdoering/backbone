@@ -1,5 +1,4 @@
-Anthostomella manawatua Whitton, K.D. Hyde & McKenzie, 2000 SPECIES
-=======
+# Anthostomella manawatua Whitton, K.D. Hyde & McKenzie, 2000 SPECIES
 
 #### Status
 ACCEPTED

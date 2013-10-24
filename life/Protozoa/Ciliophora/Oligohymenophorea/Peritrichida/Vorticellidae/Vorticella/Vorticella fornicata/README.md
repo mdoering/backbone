@@ -1,5 +1,4 @@
-Vorticella fornicata Dons, 1918 SPECIES
-=======
+# Vorticella fornicata Dons, 1918 SPECIES
 
 #### Status
 ACCEPTED

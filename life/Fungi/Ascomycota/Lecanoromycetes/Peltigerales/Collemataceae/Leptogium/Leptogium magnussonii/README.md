@@ -1,5 +1,4 @@
-Leptogium magnussonii Degel. & P. M. Jørg. SPECIES
-=======
+# Leptogium magnussonii Degel. & P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

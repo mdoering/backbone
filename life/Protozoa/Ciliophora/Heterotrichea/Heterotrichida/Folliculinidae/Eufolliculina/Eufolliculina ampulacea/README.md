@@ -1,5 +1,4 @@
-Eufolliculina ampulacea Hadzi, 1951 SPECIES
-=======
+# Eufolliculina ampulacea Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraphysomonas erinacea I. Stefanová & T. Kalina SPECIES
-=======
+# Paraphysomonas erinacea I. Stefanová & T. Kalina SPECIES
 
 #### Status
 ACCEPTED

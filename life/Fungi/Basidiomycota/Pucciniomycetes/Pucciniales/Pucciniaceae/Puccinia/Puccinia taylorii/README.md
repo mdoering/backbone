@@ -1,5 +1,4 @@
-Puccinia taylorii Balf.-Browne SPECIES
-=======
+# Puccinia taylorii Balf.-Browne SPECIES
 
 #### Status
 ACCEPTED

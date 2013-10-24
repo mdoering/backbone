@@ -1,5 +1,4 @@
-Desulfotignum balticum Kuever et al., 2001 SPECIES
-=======
+# Desulfotignum balticum Kuever et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

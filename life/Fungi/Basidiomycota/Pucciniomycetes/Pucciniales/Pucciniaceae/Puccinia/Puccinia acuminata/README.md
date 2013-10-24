@@ -1,5 +1,4 @@
-Puccinia acuminata Peck SPECIES
-=======
+# Puccinia acuminata Peck SPECIES
 
 #### Status
 ACCEPTED

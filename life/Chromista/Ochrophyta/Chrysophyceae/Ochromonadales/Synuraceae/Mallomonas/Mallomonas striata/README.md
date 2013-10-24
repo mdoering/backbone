@@ -1,5 +1,4 @@
-Mallomonas striata var. serrata K. Harris & W.H. Bradley VARIETY
-=======
+# Mallomonas striata Asmund SPECIES
 
 #### Status
 ACCEPTED

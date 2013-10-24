@@ -1,5 +1,4 @@
-Pyrenula transparens Zahlbr. SPECIES
-=======
+# Pyrenula transparens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

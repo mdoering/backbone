@@ -1,5 +1,4 @@
-Caeomurus symphyostemi (Speg.) Kuntze SPECIES
-=======
+# Caeomurus symphyostemi (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

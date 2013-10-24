@@ -1,5 +1,4 @@
-Hemiaulus longicornis Greville SPECIES
-=======
+# Hemiaulus longicornis Greville SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina antiqua F. Sacc. SPECIES
-=======
+# Diplodina antiqua F. Sacc. SPECIES
 
 #### Status
 ACCEPTED

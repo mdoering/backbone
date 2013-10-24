@@ -1,14 +1,13 @@
-Ascidium chonestomum Leight. SPECIES
-=======
+# Ocellularia chonestoma (Leight.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London 27: 171 (1869)
+Cat. Lich. Univers. 2: 586 (1923)
 
 #### Original name
 Ascidium chonestomum Leight.

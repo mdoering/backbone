@@ -1,5 +1,4 @@
-Arnaudiella andina Butin & Peredo SPECIES
-=======
+# Arnaudiella andina Butin & Peredo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea byssiseda Nyl. ex Hue SPECIES
-=======
+# Lecidea byssiseda Nyl. ex Hue SPECIES
 
 #### Status
 ACCEPTED

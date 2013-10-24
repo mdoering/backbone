@@ -1,5 +1,4 @@
-Anthostomella combreti Lar.N. Vassiljeva, 2006 SPECIES
-=======
+# Anthostomella combreti Lar.N. Vassiljeva, 2006 SPECIES
 
 #### Status
 ACCEPTED

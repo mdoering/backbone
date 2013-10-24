@@ -1,5 +1,4 @@
-Puccinia hordeicola J.C. Lindq. SPECIES
-=======
+# Puccinia hordeicola J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

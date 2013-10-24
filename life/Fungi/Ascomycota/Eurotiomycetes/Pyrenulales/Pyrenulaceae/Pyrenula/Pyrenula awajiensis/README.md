@@ -1,5 +1,4 @@
-Pyrenula awajiensis (Vain.) Kashiw. SPECIES
-=======
+# Pyrenula awajiensis (Vain.) Kashiw. SPECIES
 
 #### Status
 ACCEPTED

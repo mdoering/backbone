@@ -1,5 +1,4 @@
-Cortinarius subpurpurascens var. subpurpurascens VARIETY
-=======
+# Cortinarius subpurpurascens (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 265 (1838)
 
 #### Original name
-Cortinarius subpurpurascens var. subpurpurascens
+Agaricus subpurpurascens Batsch
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Spiniferomonas cornuta Balonov SPECIES
-=======
+# Spiniferomonas cornuta Balonov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes obockensis (Pat.) Sacc. SPECIES
-=======
+# Fomes obockensis (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

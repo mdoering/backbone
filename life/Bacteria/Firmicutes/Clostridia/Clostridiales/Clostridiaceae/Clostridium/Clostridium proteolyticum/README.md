@@ -1,5 +1,4 @@
-Clostridium proteolyticum Jain & Zeikus, 1988 SPECIES
-=======
+# Clostridium proteolyticum Jain & Zeikus, 1988 SPECIES
 
 #### Status
 ACCEPTED

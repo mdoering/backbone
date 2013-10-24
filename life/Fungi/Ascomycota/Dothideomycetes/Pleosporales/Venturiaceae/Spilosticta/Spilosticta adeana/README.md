@@ -1,5 +1,4 @@
-Spilosticta adeana Petr. SPECIES
-=======
+# Spilosticta adeana Petr. SPECIES
 
 #### Status
 ACCEPTED

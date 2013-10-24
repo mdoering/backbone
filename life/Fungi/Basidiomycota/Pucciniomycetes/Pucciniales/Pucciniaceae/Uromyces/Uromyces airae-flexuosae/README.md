@@ -1,17 +1,16 @@
-Uredo airae-flexuosae Liro, 1908 SPECIES
-=======
+# Uromyces airae-flexuosae Ferd. & Winge, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 65: 573 (1908)
+Bull. Soc. mycol. Fr. 36: 164 (1920)
 
 #### Original name
-Uredo airae-flexuosae Liro, 1908
+Uromyces airae-flexuosae Ferd. & Winge, 1920
 
 ### Remarks
 null

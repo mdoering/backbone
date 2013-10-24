@@ -1,5 +1,4 @@
-Panartoma Haeckel, 1887 GENUS
-=======
+# Panartoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

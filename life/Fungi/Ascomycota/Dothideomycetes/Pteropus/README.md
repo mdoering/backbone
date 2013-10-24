@@ -1,5 +1,4 @@
-Pteropus R.W. Ham, 2005 GENUS
-=======
+# Pteropus R.W. Ham, 2005 GENUS
 
 #### Status
 ACCEPTED

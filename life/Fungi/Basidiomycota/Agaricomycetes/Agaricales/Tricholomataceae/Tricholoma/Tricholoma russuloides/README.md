@@ -1,5 +1,4 @@
-Tricholoma russuloides Murrill SPECIES
-=======
+# Tricholoma russuloides Murrill SPECIES
 
 #### Status
 ACCEPTED

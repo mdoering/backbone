@@ -1,5 +1,4 @@
-Depazea fraxinicola M.A. Curtis & Peck SPECIES
-=======
+# Depazea fraxinicola M.A. Curtis & Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen limitatus Scop. SPECIES
-=======
+# Lichen limitatus Scop. SPECIES
 
 #### Status
 ACCEPTED

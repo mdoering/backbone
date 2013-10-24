@@ -1,5 +1,4 @@
-Boletus quercicola (Vassilkov) Singer SPECIES
-=======
+# Boletus quercicola (Vassilkov) Singer SPECIES
 
 #### Status
 ACCEPTED

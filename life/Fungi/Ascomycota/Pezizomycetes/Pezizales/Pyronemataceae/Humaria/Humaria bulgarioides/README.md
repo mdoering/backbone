@@ -1,5 +1,4 @@
-Humaria bulgarioides (Kalchbr.) Sacc. SPECIES
-=======
+# Humaria bulgarioides (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

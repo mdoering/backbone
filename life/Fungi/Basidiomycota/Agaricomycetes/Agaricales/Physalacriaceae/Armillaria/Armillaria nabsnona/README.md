@@ -1,5 +1,4 @@
-Armillaria nabsnona T.J. Volk & Burds. SPECIES
-=======
+# Armillaria nabsnona T.J. Volk & Burds. SPECIES
 
 #### Status
 ACCEPTED

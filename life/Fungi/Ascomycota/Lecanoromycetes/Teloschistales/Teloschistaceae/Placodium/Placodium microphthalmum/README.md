@@ -1,5 +1,4 @@
-Placodium microphthalmum Müll. Arg. SPECIES
-=======
+# Placodium microphthalmum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

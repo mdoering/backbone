@@ -1,5 +1,4 @@
-Phyllosticta guanicensis E. Young SPECIES
-=======
+# Phyllosticta guanicensis E. Young SPECIES
 
 #### Status
 ACCEPTED

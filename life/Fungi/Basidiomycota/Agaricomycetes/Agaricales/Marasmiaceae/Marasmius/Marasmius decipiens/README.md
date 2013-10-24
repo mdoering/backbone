@@ -1,5 +1,4 @@
-Marasmius decipiens Halling, Desjardin & Tish SPECIES
-=======
+# Marasmius decipiens Halling, Desjardin & Tish SPECIES
 
 #### Status
 ACCEPTED

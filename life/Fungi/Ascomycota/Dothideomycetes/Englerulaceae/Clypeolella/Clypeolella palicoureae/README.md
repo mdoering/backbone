@@ -1,5 +1,4 @@
-Clypeolella palicoureae M.L. Farr SPECIES
-=======
+# Clypeolella palicoureae M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

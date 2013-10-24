@@ -1,5 +1,4 @@
-Septoria lobeliae-syphiliticae Henn. SPECIES
-=======
+# Septoria lobeliae-syphiliticae Henn. SPECIES
 
 #### Status
 ACCEPTED

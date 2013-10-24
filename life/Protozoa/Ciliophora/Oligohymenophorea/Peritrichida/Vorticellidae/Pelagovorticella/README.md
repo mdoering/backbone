@@ -1,5 +1,4 @@
-Pelagovorticella GENUS
-=======
+# Pelagovorticella GENUS
 
 #### Status
 ACCEPTED

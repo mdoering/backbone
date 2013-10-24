@@ -1,5 +1,4 @@
-Echidnodella rugispora (Tracy & Earle) F. Stevens & R.W. Ryan SPECIES
-=======
+# Echidnodella rugispora (Tracy & Earle) F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

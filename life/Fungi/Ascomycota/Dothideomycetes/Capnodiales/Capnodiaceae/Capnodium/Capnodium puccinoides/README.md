@@ -1,5 +1,4 @@
-Capnodium puccinoides Ellis & Everh. SPECIES
-=======
+# Capnodium puccinoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

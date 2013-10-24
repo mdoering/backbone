@@ -1,5 +1,4 @@
-Conchophthirus steenstrupii (Stein, 1861) Raabe, 1934 SPECIES
-=======
+# Conchophthirus steenstrupii (Stein, 1861) Raabe, 1934 SPECIES
 
 #### Status
 ACCEPTED

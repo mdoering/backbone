@@ -1,5 +1,4 @@
-Parmotrema matudae (Kurok.) Hale ex DePriest & B. W. Hale SPECIES
-=======
+# Parmotrema matudae (Kurok.) Hale ex DePriest & B. W. Hale SPECIES
 
 #### Status
 ACCEPTED

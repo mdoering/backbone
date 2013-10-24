@@ -1,5 +1,4 @@
-Bacidina varia S. Ekman SPECIES
-=======
+# Bacidina varia S. Ekman SPECIES
 
 #### Status
 ACCEPTED

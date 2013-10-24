@@ -1,5 +1,4 @@
-Desulfoluna Ahn, Kerkhof & Haggblom, 2009 GENUS
-=======
+# Desulfoluna Ahn, Kerkhof & Haggblom, 2009 GENUS
 
 #### Status
 ACCEPTED

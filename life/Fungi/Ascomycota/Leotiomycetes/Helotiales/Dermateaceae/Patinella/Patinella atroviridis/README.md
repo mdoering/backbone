@@ -1,5 +1,4 @@
-Patinella atroviridis Rehm SPECIES
-=======
+# Patinella atroviridis Rehm SPECIES
 
 #### Status
 ACCEPTED

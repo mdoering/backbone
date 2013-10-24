@@ -1,5 +1,4 @@
-Gloeobotrys pyriformis Reisigl SPECIES
-=======
+# Gloeobotrys pyriformis Reisigl SPECIES
 
 #### Status
 ACCEPTED

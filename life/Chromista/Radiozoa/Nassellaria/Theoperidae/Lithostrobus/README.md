@@ -1,5 +1,4 @@
-Lithostrobus Bütschli, 1882 GENUS
-=======
+# Lithostrobus Bütschli, 1882 GENUS
 
 #### Status
 ACCEPTED

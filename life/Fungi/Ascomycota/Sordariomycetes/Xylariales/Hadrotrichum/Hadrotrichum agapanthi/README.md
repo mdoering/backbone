@@ -1,5 +1,4 @@
-Hadrotrichum agapanthi Speg. SPECIES
-=======
+# Hadrotrichum agapanthi Speg. SPECIES
 
 #### Status
 ACCEPTED

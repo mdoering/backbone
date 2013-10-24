@@ -1,5 +1,4 @@
-Lizoniella aetoxici (Speg.) Sacc. & Trotter SPECIES
-=======
+# Lizoniella aetoxici (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

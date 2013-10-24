@@ -1,5 +1,4 @@
-Psilosphaeria recessa (Cooke & Peck) Cooke SPECIES
-=======
+# Psilosphaeria recessa (Cooke & Peck) Cooke SPECIES
 
 #### Status
 ACCEPTED

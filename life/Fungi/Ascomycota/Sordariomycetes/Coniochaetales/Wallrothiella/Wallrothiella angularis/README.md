@@ -1,5 +1,4 @@
-Wallrothiella angularis (Fuckel) Kirschst. SPECIES
-=======
+# Wallrothiella angularis (Fuckel) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

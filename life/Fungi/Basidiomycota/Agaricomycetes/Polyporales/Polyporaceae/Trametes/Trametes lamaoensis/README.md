@@ -1,17 +1,16 @@
-Trametes lamaensis Murrill SPECIES
-=======
+# Trametes lamaoensis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 34: 474 (1907)
 
 #### Original name
-Trametes lamaensis Murrill
+Trametes lamaoensis Murrill
 
 ### Remarks
 null

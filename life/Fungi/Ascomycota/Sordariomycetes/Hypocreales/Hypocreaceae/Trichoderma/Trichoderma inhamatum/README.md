@@ -1,5 +1,4 @@
-Trichoderma inhamatum Veerkamp & W. Gams, 1983 SPECIES
-=======
+# Trichoderma inhamatum Veerkamp & W. Gams, 1983 SPECIES
 
 #### Status
 ACCEPTED

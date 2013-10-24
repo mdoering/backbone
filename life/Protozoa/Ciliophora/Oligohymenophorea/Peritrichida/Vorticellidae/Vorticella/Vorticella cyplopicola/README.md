@@ -1,5 +1,4 @@
-Vorticella cyplopicola SPECIES
-=======
+# Vorticella cyplopicola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma obscurum Hesler SPECIES
-=======
+# Entoloma obscurum Hesler SPECIES
 
 #### Status
 ACCEPTED

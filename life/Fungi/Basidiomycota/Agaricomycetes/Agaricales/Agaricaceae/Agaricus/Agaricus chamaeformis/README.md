@@ -1,5 +1,4 @@
-Agaricus chamaeformis Schleich. SPECIES
-=======
+# Agaricus chamaeformis Schleich. SPECIES
 
 #### Status
 ACCEPTED

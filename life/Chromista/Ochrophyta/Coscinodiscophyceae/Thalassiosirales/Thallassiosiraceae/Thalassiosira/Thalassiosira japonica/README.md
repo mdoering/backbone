@@ -1,5 +1,4 @@
-Thalassiosira japonica Kisselev SPECIES
-=======
+# Thalassiosira japonica Kisselev SPECIES
 
 #### Status
 ACCEPTED

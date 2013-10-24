@@ -1,5 +1,4 @@
-Lachnea terrestris Velen. SPECIES
-=======
+# Lachnea terrestris Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rhizocarpon lusitanicum var. ochrolechiae Poelt & Nimis VARIETY
-=======
+# Rhizocarpon ochrolechiae (Poelt & Nimis) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Nimis & Poelt, Stud. Geobot. 7(suppl. 1): 205 (1987)
+Herzogia 9(1-2): 86 (1992)
 
 #### Original name
 Rhizocarpon lusitanicum var. ochrolechiae Poelt & Nimis

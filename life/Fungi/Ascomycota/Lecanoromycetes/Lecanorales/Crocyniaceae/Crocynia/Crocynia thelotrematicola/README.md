@@ -1,5 +1,4 @@
-Crocynia thelotrematicola Hue SPECIES
-=======
+# Crocynia thelotrematicola Hue SPECIES
 
 #### Status
 ACCEPTED

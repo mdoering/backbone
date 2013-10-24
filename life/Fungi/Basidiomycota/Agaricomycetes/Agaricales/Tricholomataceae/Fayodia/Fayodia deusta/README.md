@@ -1,5 +1,4 @@
-Fayodia deusta Singer & Clémençon SPECIES
-=======
+# Fayodia deusta Singer & Clémençon SPECIES
 
 #### Status
 ACCEPTED

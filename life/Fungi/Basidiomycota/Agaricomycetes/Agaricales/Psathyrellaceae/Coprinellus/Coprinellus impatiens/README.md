@@ -1,17 +1,16 @@
-Coprinus impatiens var. impatiens VARIETY
-=======
+# Coprinellus impatiens (Fr.) J.E. Lange, 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. mycol. France (Paris) 42 (1888)
+Dansk bot. Ark. 9(no. 6): 93 (1938)
 
 #### Original name
-Coprinus impatiens var. impatiens
+Agaricus impatiens Fr., 1821
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Neptunomonas japonica Miyazaki, Nogi, Fujiwara, Kawato, Kubokawa & Horikoshi, 2008 SPECIES
-=======
+# Neptunomonas japonica Miyazaki, Nogi, Fujiwara, Kawato, Kubokawa & Horikoshi, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetocypha chromospora (Pat.) Kuntze SPECIES
-=======
+# Chaetocypha chromospora (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

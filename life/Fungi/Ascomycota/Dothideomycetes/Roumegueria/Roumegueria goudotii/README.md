@@ -1,14 +1,13 @@
-Phyllachora goudotii (Lév.) Cooke, 1885 SPECIES
-=======
+# Roumegueria goudotii (Lév.) Sacc. ex Clem. & Shear, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 70 (1885)
+Gen. fung. (Minneapolis) 295 (1931)
 
 #### Original name
 Dothidea goudotii Lév., 1845

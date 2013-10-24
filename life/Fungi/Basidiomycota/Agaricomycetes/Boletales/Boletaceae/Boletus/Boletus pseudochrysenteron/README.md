@@ -1,5 +1,4 @@
-Boletus pseudochrysenteron Corner SPECIES
-=======
+# Boletus pseudochrysenteron Corner SPECIES
 
 #### Status
 ACCEPTED

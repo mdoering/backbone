@@ -1,5 +1,4 @@
-Thermutis solida (Bornet) Rabenh. SPECIES
-=======
+# Thermutis solida (Bornet) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

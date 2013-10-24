@@ -1,5 +1,4 @@
-Phaeobacter inhibens Martens et al., 2006 SPECIES
-=======
+# Phaeobacter inhibens Martens et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

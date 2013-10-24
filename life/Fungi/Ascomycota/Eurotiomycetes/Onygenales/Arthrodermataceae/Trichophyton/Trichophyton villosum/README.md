@@ -1,5 +1,4 @@
-Trichophyton villosum Lebasque SPECIES
-=======
+# Trichophyton villosum Lebasque SPECIES
 
 #### Status
 ACCEPTED

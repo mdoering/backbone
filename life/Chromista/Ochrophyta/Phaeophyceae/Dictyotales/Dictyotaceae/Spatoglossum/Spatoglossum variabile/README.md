@@ -1,5 +1,4 @@
-Spatoglossum variabile Figari & De Notaris SPECIES
-=======
+# Spatoglossum variabile Figari & De Notaris SPECIES
 
 #### Status
 ACCEPTED

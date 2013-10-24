@@ -1,5 +1,4 @@
-Macrosporium nitens f. nitens FORM
-=======
+# Macrosporium nitens (Fresen.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 533 (1886)
 
 #### Original name
-Macrosporium nitens f. nitens
+Septosporium nitens Fresen.
 
 ### Remarks
 null

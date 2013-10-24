@@ -1,5 +1,4 @@
-Exosporium pallidum Ellis & Everh. SPECIES
-=======
+# Exosporium pallidum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

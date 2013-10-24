@@ -1,5 +1,4 @@
-Leptogium diaphanum var. diaphanum VARIETY
-=======
+# Leptogium diaphanum (Sw.) Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls Sci. Nat. , Bot. , sér. 3 10: 134 (1848)
 
 #### Original name
-Leptogium diaphanum var. diaphanum
+Lichen diaphanus Sw.
 
 ### Remarks
 null

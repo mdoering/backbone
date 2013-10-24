@@ -1,5 +1,4 @@
-Dictyopteris latiuscula (Okamura) Okamura SPECIES
-=======
+# Dictyopteris latiuscula (Okamura) Okamura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza albolutea Pers. SPECIES
-=======
+# Peziza albolutea Pers. SPECIES
 
 #### Status
 ACCEPTED

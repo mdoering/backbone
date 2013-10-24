@@ -1,5 +1,4 @@
-Pycnoderma villaresiae Syd. & P. Syd. SPECIES
-=======
+# Pycnoderma villaresiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

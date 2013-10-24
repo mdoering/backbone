@@ -1,5 +1,4 @@
-Diatractium ichnanthi (Speg.) P.F. Cannon SPECIES
-=======
+# Diatractium ichnanthi (Speg.) P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

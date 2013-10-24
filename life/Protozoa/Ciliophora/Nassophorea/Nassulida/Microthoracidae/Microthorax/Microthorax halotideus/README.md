@@ -1,5 +1,4 @@
-Microthorax halotideus Penard, 1922 SPECIES
-=======
+# Microthorax halotideus Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

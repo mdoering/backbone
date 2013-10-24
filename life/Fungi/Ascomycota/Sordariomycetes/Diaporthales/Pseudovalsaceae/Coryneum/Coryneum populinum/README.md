@@ -1,5 +1,4 @@
-Coryneum populinum Bres. SPECIES
-=======
+# Coryneum populinum Bres. SPECIES
 
 #### Status
 ACCEPTED

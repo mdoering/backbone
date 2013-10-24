@@ -1,5 +1,4 @@
-Chaetomium spiralotrichum Lodha, 1964 SPECIES
-=======
+# Chaetomium spiralotrichum Lodha, 1964 SPECIES
 
 #### Status
 ACCEPTED

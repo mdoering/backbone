@@ -1,5 +1,4 @@
-Psammophax Rhumbler, 1931 GENUS
-=======
+# Psammophax Rhumbler, 1931 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma canadense Bubák & Dearn. SPECIES
-=======
+# Asteroma canadense Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

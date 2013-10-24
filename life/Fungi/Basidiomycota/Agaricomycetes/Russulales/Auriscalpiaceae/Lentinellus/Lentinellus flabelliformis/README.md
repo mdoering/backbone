@@ -1,17 +1,16 @@
-Lentinus flabelliformis var. flabelliformis VARIETY
-=======
+# Lentinellus flabelliformis (Bolton) S. Ito, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. orb. veg. (Lundae) 1: 78 (1825)
+Mycol. Fl. Japan 2: 151 (1959)
 
 #### Original name
-Lentinus flabelliformis var. flabelliformis
+Agaricus flabelliformis Bolton, 1792
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Spathularia velutipes Cooke & Farl. SPECIES
-=======
+# Spathulariopsis velutipes (Cooke & Farl. ex Cooke) Maas Geest., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 75(3): 254 (1972)
 
 #### Original name
 Spathularia velutipes Cooke & Farl.

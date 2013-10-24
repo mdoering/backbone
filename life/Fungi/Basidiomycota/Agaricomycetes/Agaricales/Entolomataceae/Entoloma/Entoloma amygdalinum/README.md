@@ -1,5 +1,4 @@
-Entoloma amygdalinum Noordel. SPECIES
-=======
+# Entoloma amygdalinum Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pharcidia consociata anon. SPECIES
-=======
+# Pharcidia consociata anon. SPECIES
 
 #### Status
 ACCEPTED

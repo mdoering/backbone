@@ -1,5 +1,4 @@
-Lecideopsis cytisi (A. Massal.) Dalla Torre & Sarnth. SPECIES
-=======
+# Lecideopsis cytisi (A. Massal.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

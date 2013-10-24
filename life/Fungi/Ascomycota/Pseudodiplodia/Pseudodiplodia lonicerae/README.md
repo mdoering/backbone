@@ -1,5 +1,4 @@
-Pseudodiplodia lonicerae Höhn. SPECIES
-=======
+# Pseudodiplodia lonicerae Höhn. SPECIES
 
 #### Status
 ACCEPTED

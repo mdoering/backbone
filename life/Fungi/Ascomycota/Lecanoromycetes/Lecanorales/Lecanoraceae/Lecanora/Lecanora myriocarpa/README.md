@@ -1,5 +1,4 @@
-Lecanora myriocarpa Müll. Arg. SPECIES
-=======
+# Lecanora myriocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

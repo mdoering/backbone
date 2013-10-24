@@ -1,5 +1,4 @@
-Sphaerothecum Arkush, Mendoza, Adkison & Hedrick, 2003 GENUS
-=======
+# Sphaerothecum Arkush, Mendoza, Adkison & Hedrick, 2003 GENUS
 
 #### Status
 ACCEPTED

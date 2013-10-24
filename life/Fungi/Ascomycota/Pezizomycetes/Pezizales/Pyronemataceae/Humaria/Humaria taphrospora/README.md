@@ -1,5 +1,4 @@
-Humaria taphrospora Sacc. SPECIES
-=======
+# Humaria taphrospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

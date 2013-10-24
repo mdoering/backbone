@@ -1,5 +1,4 @@
-Smittium fecundum Lichtw. & M.C. Williams, 1999 SPECIES
-=======
+# Smittium fecundum Lichtw. & M.C. Williams, 1999 SPECIES
 
 #### Status
 ACCEPTED

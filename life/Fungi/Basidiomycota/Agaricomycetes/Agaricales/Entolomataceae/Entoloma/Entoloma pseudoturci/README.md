@@ -1,5 +1,4 @@
-Entoloma pseudoturci Noordel., 1984 SPECIES
-=======
+# Entoloma pseudoturci Noordel., 1984 SPECIES
 
 #### Status
 ACCEPTED

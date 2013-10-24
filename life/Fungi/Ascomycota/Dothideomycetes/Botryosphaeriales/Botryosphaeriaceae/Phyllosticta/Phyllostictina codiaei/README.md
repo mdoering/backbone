@@ -1,5 +1,4 @@
-Phyllostictina codiaei N.D. Sharma SPECIES
-=======
+# Phyllostictina codiaei N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

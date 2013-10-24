@@ -1,5 +1,4 @@
-Aecidium senecionis-macrophylli Savul. & O. Savul. SPECIES
-=======
+# Aecidium senecionis-macrophylli Savul. & O. Savul. SPECIES
 
 #### Status
 ACCEPTED

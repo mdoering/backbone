@@ -1,5 +1,4 @@
-Dictyochaeta septata (B. Sutton & Hodges) Aramb. & Cabello SPECIES
-=======
+# Dictyochaeta septata (B. Sutton & Hodges) Aramb. & Cabello SPECIES
 
 #### Status
 ACCEPTED

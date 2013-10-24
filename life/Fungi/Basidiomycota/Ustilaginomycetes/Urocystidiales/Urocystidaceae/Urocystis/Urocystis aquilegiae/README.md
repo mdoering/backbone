@@ -1,5 +1,4 @@
-Urocystis aquilegiae (Cif.) Schwarzman SPECIES
-=======
+# Urocystis aquilegiae (Cif.) Schwarzman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora leptandrae Davis SPECIES
-=======
+# Cercospora leptandrae Davis SPECIES
 
 #### Status
 ACCEPTED

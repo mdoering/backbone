@@ -1,5 +1,4 @@
-Coscinodiscus minutus Kützing SPECIES
-=======
+# Coscinodiscus minutus Kützing SPECIES
 
 #### Status
 ACCEPTED

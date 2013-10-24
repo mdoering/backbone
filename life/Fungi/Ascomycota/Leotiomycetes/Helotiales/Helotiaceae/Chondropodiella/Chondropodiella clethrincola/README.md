@@ -1,5 +1,4 @@
-Chondropodiella clethrincola (Ellis) Höhn., 1917 SPECIES
-=======
+# Chondropodiella clethrincola (Ellis) Höhn., 1917 SPECIES
 
 #### Status
 ACCEPTED

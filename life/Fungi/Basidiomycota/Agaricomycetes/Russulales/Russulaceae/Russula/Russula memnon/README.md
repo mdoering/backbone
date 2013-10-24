@@ -1,5 +1,4 @@
-Russula memnon Krombh. SPECIES
-=======
+# Russula memnon Krombh. SPECIES
 
 #### Status
 ACCEPTED

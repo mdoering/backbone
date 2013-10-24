@@ -1,5 +1,4 @@
-Phloeospora callistea Syd. SPECIES
-=======
+# Phloeospora callistea Syd. SPECIES
 
 #### Status
 ACCEPTED

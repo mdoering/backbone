@@ -1,5 +1,4 @@
-Clitocybe overholtsii Murrill SPECIES
-=======
+# Clitocybe overholtsii Murrill SPECIES
 
 #### Status
 ACCEPTED

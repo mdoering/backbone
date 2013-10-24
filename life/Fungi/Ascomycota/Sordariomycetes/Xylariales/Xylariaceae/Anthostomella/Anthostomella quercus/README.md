@@ -1,5 +1,4 @@
-Anthostomella quercus Pass. SPECIES
-=======
+# Anthostomella quercus Pass. SPECIES
 
 #### Status
 ACCEPTED

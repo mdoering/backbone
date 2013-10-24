@@ -1,5 +1,4 @@
-Mycenoporella griseipora Corner SPECIES
-=======
+# Mycenoporella griseipora Corner SPECIES
 
 #### Status
 ACCEPTED

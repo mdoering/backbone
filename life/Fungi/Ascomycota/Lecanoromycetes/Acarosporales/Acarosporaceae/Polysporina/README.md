@@ -1,5 +1,4 @@
-Polysporina Vezda GENUS
-=======
+# Polysporina Vezda GENUS
 
 #### Status
 ACCEPTED

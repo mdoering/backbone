@@ -1,14 +1,13 @@
-Aleurodiscus biapiculatus (G. Cunn.) Hjortstam & K.H. Larss., 1994 SPECIES
-=======
+# Dendrothele biapiculata (G. Cunn.) P.A. Lemke, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Windahlia 21: 3 (1994)
+Persoonia 3(3): 366 (1965)
 
 #### Original name
 Acanthophysium biapiculatum G. Cunn., 1963

@@ -1,5 +1,4 @@
-Puccinia porophylli Henn. SPECIES
-=======
+# Puccinia porophylli Henn. SPECIES
 
 #### Status
 ACCEPTED

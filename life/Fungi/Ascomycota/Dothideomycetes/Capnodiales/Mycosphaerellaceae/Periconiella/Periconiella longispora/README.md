@@ -1,5 +1,4 @@
-Periconiella longispora Dorn.-Silva & Dianese SPECIES
-=======
+# Periconiella longispora Dorn.-Silva & Dianese SPECIES
 
 #### Status
 ACCEPTED

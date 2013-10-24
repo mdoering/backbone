@@ -1,5 +1,4 @@
-Patellaria tuberculosa Ellis SPECIES
-=======
+# Patellaria tuberculosa Ellis SPECIES
 
 #### Status
 ACCEPTED

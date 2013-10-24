@@ -1,5 +1,4 @@
-Asterina malloticola Hosag., Kamar. & G. Rajkumar SPECIES
-=======
+# Asterina malloticola Hosag., Kamar. & G. Rajkumar SPECIES
 
 #### Status
 ACCEPTED

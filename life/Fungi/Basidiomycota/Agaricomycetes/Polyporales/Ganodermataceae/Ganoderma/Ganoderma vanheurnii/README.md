@@ -1,5 +1,4 @@
-Ganoderma vanheurnii Steyaert, 1972 SPECIES
-=======
+# Ganoderma vanheurnii Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

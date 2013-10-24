@@ -1,5 +1,4 @@
-Tricholoma versicolor Velen. SPECIES
-=======
+# Tricholoma versicolor Velen. SPECIES
 
 #### Status
 ACCEPTED

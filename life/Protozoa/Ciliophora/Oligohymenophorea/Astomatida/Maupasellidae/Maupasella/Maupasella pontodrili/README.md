@@ -1,5 +1,4 @@
-Maupasella pontodrili Puytorac, 1972 SPECIES
-=======
+# Maupasella pontodrili Puytorac, 1972 SPECIES
 
 #### Status
 ACCEPTED

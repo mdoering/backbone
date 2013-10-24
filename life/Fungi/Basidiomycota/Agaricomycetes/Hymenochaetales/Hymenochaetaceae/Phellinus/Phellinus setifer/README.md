@@ -1,5 +1,4 @@
-Phellinus setifer T. Hatt. SPECIES
-=======
+# Phellinus setifer T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

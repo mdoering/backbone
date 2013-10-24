@@ -1,5 +1,4 @@
-Epalxis GENUS
-=======
+# Epalxis GENUS
 
 #### Status
 ACCEPTED

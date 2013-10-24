@@ -1,5 +1,4 @@
-Verrucaria umbrinula f. umbrinula FORM
-=======
+# Verrucaria umbrinula Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria umbrinula f. umbrinula
+Verrucaria umbrinula Nyl.
 
 ### Remarks
 null

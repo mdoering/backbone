@@ -1,5 +1,4 @@
-Eurotium virens (Eichelb.) Sacc. SPECIES
-=======
+# Eurotium virens (Eichelb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

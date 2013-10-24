@@ -1,5 +1,4 @@
-Lopharia sharpiana A.L. Welden SPECIES
-=======
+# Lopharia sharpiana A.L. Welden SPECIES
 
 #### Status
 ACCEPTED

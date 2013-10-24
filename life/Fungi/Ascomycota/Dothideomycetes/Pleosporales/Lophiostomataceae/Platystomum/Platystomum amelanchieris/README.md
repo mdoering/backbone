@@ -1,5 +1,4 @@
-Platystomum amelanchieris Tracy & Earle SPECIES
-=======
+# Platystomum amelanchieris Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

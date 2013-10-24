@@ -1,5 +1,4 @@
-Bullera hubeiensis F.Y. Bai, Q.M. Wang & M. Takash. SPECIES
-=======
+# Bullera hubeiensis F.Y. Bai, Q.M. Wang & M. Takash. SPECIES
 
 #### Status
 ACCEPTED

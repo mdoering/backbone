@@ -1,5 +1,4 @@
-Sphaerulina marsileae Speg. SPECIES
-=======
+# Sphaerulina marsileae Speg. SPECIES
 
 #### Status
 ACCEPTED

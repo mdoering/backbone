@@ -1,5 +1,4 @@
-Paramecium subovatum Fromentel, 1876 SPECIES
-=======
+# Paramecium subovatum Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus bernardiiformis Bohus SPECIES
-=======
+# Agaricus bernardiiformis Bohus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pareodinia barentsensis M. Smelror SPECIES
-=======
+# Pareodinia barentsensis M. Smelror SPECIES
 
 #### Status
 ACCEPTED

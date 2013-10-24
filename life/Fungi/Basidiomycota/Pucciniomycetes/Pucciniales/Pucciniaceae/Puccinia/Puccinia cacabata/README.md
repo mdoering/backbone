@@ -1,5 +1,4 @@
-Puccinia cacabata Arthur & Holw., 1925 SPECIES
-=======
+# Puccinia cacabata Arthur & Holw., 1925 SPECIES
 
 #### Status
 ACCEPTED

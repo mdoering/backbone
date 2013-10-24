@@ -1,17 +1,16 @@
-Marasmius peglerii Courtec. SPECIES
-=======
+# Marasmius pegleri Courtec. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 14(nos 54-55): 89 (1984)
 
 #### Original name
-Marasmius peglerii Courtec.
+Marasmius purpureus Berk. & M.A. Curtis
 
 ### Remarks
 null

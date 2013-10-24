@@ -1,5 +1,4 @@
-Diatrype carissae Tend. SPECIES
-=======
+# Diatrype carissae Tend. SPECIES
 
 #### Status
 ACCEPTED

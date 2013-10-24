@@ -1,5 +1,4 @@
-Naucoria distantifolia (Murrill) Dennis SPECIES
-=======
+# Naucoria distantifolia (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

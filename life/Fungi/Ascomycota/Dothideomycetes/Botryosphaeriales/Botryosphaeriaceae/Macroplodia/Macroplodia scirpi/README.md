@@ -1,5 +1,4 @@
-Macroplodia scirpi (Boyer & Jacz.) Kuntze SPECIES
-=======
+# Macroplodia scirpi (Boyer & Jacz.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

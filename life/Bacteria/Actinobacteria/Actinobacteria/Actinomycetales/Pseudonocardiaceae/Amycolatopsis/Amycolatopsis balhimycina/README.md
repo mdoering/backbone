@@ -1,5 +1,4 @@
-Amycolatopsis balhimycina Wink et al., 2003 SPECIES
-=======
+# Amycolatopsis balhimycina Wink et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

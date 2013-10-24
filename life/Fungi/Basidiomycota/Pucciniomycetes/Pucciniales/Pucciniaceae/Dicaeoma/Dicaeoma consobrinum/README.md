@@ -1,5 +1,4 @@
-Dicaeoma consobrinum (Arthur & Holw.) Arthur SPECIES
-=======
+# Dicaeoma consobrinum (Arthur & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotella papillosa O'Meara SPECIES
-=======
+# Cyclotella papillosa O'Meara SPECIES
 
 #### Status
 ACCEPTED

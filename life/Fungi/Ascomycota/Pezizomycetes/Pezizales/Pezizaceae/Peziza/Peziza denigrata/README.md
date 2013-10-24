@@ -1,5 +1,4 @@
-Peziza denigrata Ellis SPECIES
-=======
+# Peziza denigrata Ellis SPECIES
 
 #### Status
 ACCEPTED

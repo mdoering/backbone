@@ -1,5 +1,4 @@
-Asterina turneracearum Cif. SPECIES
-=======
+# Asterina turneracearum Cif. SPECIES
 
 #### Status
 ACCEPTED

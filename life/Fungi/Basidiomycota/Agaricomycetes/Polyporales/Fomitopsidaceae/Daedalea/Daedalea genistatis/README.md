@@ -1,5 +1,4 @@
-Daedalea genistatis var. genistatis VARIETY
-=======
+# Daedalea genistatis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Daedalea genistatis var. genistatis
+Daedalea genistatis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Crateristoma Jankowski, 1967 GENUS
-=======
+# Crateristoma Jankowski, 1967 GENUS
 
 #### Status
 ACCEPTED

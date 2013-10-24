@@ -1,5 +1,4 @@
-Restiosporium anarthriae Vánky, 2006 SPECIES
-=======
+# Restiosporium anarthriae Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

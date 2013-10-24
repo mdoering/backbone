@@ -1,5 +1,4 @@
-Kernia cauquensis Calviello SPECIES
-=======
+# Kernia cauquensis Calviello SPECIES
 
 #### Status
 ACCEPTED

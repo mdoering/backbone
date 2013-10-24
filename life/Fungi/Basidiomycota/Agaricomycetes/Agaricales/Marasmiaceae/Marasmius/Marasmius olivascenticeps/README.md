@@ -1,5 +1,4 @@
-Marasmius olivascenticeps Singer SPECIES
-=======
+# Marasmius olivascenticeps Singer SPECIES
 
 #### Status
 ACCEPTED

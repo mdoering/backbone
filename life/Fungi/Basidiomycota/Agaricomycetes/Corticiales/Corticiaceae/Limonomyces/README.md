@@ -1,5 +1,4 @@
-Limonomyces Stalpers & Loerakker, 1982 GENUS
-=======
+# Limonomyces Stalpers & Loerakker, 1982 GENUS
 
 #### Status
 ACCEPTED

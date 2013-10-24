@@ -1,5 +1,4 @@
-Scolecopeltis longispora (Earle) Toro SPECIES
-=======
+# Scolecopeltis longispora (Earle) Toro SPECIES
 
 #### Status
 ACCEPTED

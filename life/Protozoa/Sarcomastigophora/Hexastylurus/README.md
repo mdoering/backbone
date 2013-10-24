@@ -1,5 +1,4 @@
-Hexastylurus Haeckel, 1887 GENUS
-=======
+# Hexastylurus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

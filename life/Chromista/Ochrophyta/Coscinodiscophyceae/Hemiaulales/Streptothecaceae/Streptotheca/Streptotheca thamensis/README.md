@@ -1,5 +1,4 @@
-Streptotheca thamensis SPECIES
-=======
+# Streptotheca thamensis SPECIES
 
 #### Status
 ACCEPTED

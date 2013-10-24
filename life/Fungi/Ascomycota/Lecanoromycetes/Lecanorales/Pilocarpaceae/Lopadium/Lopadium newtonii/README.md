@@ -1,5 +1,4 @@
-Lopadium newtonii Samp. SPECIES
-=======
+# Lopadium newtonii Samp. SPECIES
 
 #### Status
 ACCEPTED

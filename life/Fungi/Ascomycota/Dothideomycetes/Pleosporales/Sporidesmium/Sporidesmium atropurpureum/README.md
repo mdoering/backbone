@@ -1,5 +1,4 @@
-Sporidesmium atropurpureum Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium atropurpureum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

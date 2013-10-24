@@ -1,5 +1,4 @@
-Ustilago vestergreni Sacc. & P. Syd. SPECIES
-=======
+# Ustilago vestergreni Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

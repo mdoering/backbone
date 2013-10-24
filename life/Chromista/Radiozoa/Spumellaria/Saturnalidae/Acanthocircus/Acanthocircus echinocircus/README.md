@@ -1,5 +1,4 @@
-Acanthocircus echinocircus SPECIES
-=======
+# Acanthocircus echinocircus SPECIES
 
 #### Status
 ACCEPTED

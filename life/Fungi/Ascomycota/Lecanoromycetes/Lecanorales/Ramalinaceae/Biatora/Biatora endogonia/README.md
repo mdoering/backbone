@@ -1,5 +1,4 @@
-Biatora endogonia (Nyl.) Arnold SPECIES
-=======
+# Biatora endogonia (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

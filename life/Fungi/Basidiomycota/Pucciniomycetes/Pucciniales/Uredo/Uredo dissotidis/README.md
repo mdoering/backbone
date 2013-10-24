@@ -1,5 +1,4 @@
-Uredo dissotidis Cooke SPECIES
-=======
+# Uredo dissotidis Cooke SPECIES
 
 #### Status
 ACCEPTED

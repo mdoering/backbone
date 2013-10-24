@@ -1,5 +1,4 @@
-Tylopilus violatinctus T.J. Baroni & Both SPECIES
-=======
+# Tylopilus violatinctus T.J. Baroni & Both SPECIES
 
 #### Status
 ACCEPTED

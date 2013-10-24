@@ -1,5 +1,4 @@
-Hyaloderma puiggarii Speg. SPECIES
-=======
+# Hyaloderma puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

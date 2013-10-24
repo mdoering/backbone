@@ -1,5 +1,4 @@
-Bombyliospora gemella Anzi SPECIES
-=======
+# Bombyliospora gemella Anzi SPECIES
 
 #### Status
 ACCEPTED

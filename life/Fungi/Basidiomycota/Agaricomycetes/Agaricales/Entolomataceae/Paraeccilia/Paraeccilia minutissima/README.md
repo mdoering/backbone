@@ -1,5 +1,4 @@
-Paraeccilia minutissima Largent SPECIES
-=======
+# Paraeccilia minutissima Largent SPECIES
 
 #### Status
 ACCEPTED

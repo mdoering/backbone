@@ -1,5 +1,4 @@
-Cryptococcus huempii (C. Ramírez & A.E. González) Roeijmans, Eijk & Yarrow, 1989 SPECIES
-=======
+# Cryptococcus huempii (C. Ramírez & A.E. González) Roeijmans, Eijk & Yarrow, 1989 SPECIES
 
 #### Status
 ACCEPTED

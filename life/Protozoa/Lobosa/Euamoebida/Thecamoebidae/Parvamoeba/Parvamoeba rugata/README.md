@@ -1,5 +1,4 @@
-Parvamoeba rugata Rogerson, 1993 SPECIES
-=======
+# Parvamoeba rugata Rogerson, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium mitoense Cummins SPECIES
-=======
+# Aecidium mitoense Cummins SPECIES
 
 #### Status
 ACCEPTED

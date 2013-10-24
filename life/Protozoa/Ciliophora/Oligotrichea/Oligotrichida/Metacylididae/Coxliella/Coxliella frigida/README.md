@@ -1,5 +1,4 @@
-Coxliella frigida (Laackmann) Laackmann, 1910 SPECIES
-=======
+# Coxliella frigida (Laackmann) Laackmann, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Oceanites scuticella Kohlm. SPECIES
-=======
+# Oceanitis scuticella Kohlm., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 41(2): 194 (1977)
 
 #### Original name
-Oceanites scuticella Kohlm.
+Oceanitis scuticella Kohlm., 1977
 
 ### Remarks
 null

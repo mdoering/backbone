@@ -1,5 +1,4 @@
-Mesoplasma syrphidae Tully et al., 1994 SPECIES
-=======
+# Mesoplasma syrphidae Tully et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

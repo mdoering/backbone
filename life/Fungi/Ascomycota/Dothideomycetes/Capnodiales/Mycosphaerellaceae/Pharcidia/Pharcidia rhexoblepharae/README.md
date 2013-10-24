@@ -1,5 +1,4 @@
-Pharcidia rhexoblepharae (Vain.) Sacc. & D. Sacc. SPECIES
-=======
+# Pharcidia rhexoblepharae (Vain.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

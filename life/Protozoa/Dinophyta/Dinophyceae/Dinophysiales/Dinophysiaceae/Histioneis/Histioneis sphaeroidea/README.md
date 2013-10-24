@@ -1,5 +1,4 @@
-Histioneis sphaeroidea Rampi, 1947 SPECIES
-=======
+# Histioneis sphaeroidea Rampi, 1947 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodomonas maculata Butcher ex D. R. A. Hill & R. Wetherbee SPECIES
-=======
+# Rhodomonas maculata Butcher ex D. R. A. Hill & R. Wetherbee SPECIES
 
 #### Status
 ACCEPTED

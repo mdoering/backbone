@@ -1,5 +1,4 @@
-Anaptychia corallophora (Taylor) Lynge SPECIES
-=======
+# Anaptychia corallophora (Taylor) Lynge SPECIES
 
 #### Status
 ACCEPTED

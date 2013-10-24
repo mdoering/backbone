@@ -1,5 +1,4 @@
-Peziza carpoboloides P. Crouan & H. Crouan SPECIES
-=======
+# Peziza carpoboloides P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

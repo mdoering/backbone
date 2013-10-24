@@ -1,5 +1,4 @@
-Brevilegnia globosa Ziegler, 1958 SPECIES
-=======
+# Brevilegnia globosa Ziegler, 1958 SPECIES
 
 #### Status
 ACCEPTED

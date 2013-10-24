@@ -1,5 +1,4 @@
-Catillochroma Kalb GENUS
-=======
+# Catillochroma Kalb GENUS
 
 #### Status
 ACCEPTED

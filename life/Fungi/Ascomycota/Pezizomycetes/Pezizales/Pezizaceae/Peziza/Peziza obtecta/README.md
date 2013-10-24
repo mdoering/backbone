@@ -1,5 +1,4 @@
-Peziza obtecta Schwein. SPECIES
-=======
+# Peziza obtecta Schwein. SPECIES
 
 #### Status
 ACCEPTED

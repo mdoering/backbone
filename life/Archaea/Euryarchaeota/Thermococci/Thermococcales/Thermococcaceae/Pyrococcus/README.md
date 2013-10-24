@@ -1,5 +1,4 @@
-Pyrococcus Fiala & Stetter, 1986 GENUS
-=======
+# Pyrococcus Fiala & Stetter, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenoplea peltata Lloyd SPECIES
-=======
+# Solenoplea peltata Lloyd SPECIES
 
 #### Status
 ACCEPTED

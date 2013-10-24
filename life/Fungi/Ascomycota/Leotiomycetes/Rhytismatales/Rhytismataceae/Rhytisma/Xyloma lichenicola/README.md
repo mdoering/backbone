@@ -1,5 +1,4 @@
-Xyloma lichenicola Fr. SPECIES
-=======
+# Xyloma lichenicola Fr. SPECIES
 
 #### Status
 ACCEPTED

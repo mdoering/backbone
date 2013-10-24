@@ -1,5 +1,4 @@
-Sphaerella humuli Hazsl. SPECIES
-=======
+# Sphaerella humuli Hazsl. SPECIES
 
 #### Status
 ACCEPTED

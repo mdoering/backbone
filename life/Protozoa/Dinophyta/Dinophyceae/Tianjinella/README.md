@@ -1,5 +1,4 @@
-Tianjinella He & Sun, 1996 GENUS
-=======
+# Tianjinella He & Sun, 1996 GENUS
 
 #### Status
 ACCEPTED

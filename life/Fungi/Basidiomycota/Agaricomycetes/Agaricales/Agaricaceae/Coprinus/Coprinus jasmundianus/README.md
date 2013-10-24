@@ -1,5 +1,4 @@
-Coprinus jasmundianus Kalchbr. SPECIES
-=======
+# Coprinus jasmundianus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aphanomycapsis GENUS
-=======
+# Aphanomycopsis Scherff. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Protistenk. 52: 11 (1925)
 
 #### Original name
-null
+Aphanomycopsis Scherff.
 
 ### Remarks
 null

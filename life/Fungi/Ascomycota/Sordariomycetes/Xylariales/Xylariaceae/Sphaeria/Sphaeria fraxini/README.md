@@ -1,5 +1,4 @@
-Sphaeria fraxini Fr. SPECIES
-=======
+# Sphaeria fraxini Fr. SPECIES
 
 #### Status
 ACCEPTED

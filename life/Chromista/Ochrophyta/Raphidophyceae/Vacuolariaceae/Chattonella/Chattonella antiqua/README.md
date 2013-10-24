@@ -1,5 +1,4 @@
-Chattonella antiqua (Hada) Ono SPECIES
-=======
+# Chattonella antiqua (Hada) Ono SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccus K.E. Nagovitsin, 2000 GENUS
-=======
+# Fusicoccus K.E. Nagovitsin, 2000 GENUS
 
 #### Status
 ACCEPTED

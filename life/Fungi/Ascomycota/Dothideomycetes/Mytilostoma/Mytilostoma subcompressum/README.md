@@ -1,5 +1,4 @@
-Mytilostoma subcompressum P. Karst. SPECIES
-=======
+# Mytilostoma subcompressum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

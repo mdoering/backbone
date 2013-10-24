@@ -1,8 +1,7 @@
-Opegrapha rissoënsis Redinger SPECIES
-=======
+# Opegrapha rissoensis Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha rissoënsis Redinger
+Opegrapha rissoensis Redinger
 
 ### Remarks
 null

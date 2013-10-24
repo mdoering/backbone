@@ -1,5 +1,4 @@
-Trichosphaeria angularis Kirschst. SPECIES
-=======
+# Trichosphaeria angularis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

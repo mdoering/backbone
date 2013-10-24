@@ -1,5 +1,4 @@
-Subanomalina guadalupensis McCulloch, 1977 SPECIES
-=======
+# Subanomalina guadalupensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

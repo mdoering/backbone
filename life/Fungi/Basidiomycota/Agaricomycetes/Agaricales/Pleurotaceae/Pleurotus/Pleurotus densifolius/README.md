@@ -1,5 +1,4 @@
-Pleurotus densifolius Murrill SPECIES
-=======
+# Pleurotus densifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

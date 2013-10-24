@@ -1,5 +1,4 @@
-Synedra debilis Kützing SPECIES
-=======
+# Synedra debilis Kützing SPECIES
 
 #### Status
 ACCEPTED

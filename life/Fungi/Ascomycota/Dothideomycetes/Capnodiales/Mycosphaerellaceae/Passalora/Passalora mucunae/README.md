@@ -1,5 +1,4 @@
-Passalora mucunae (Syd. & P. Syd.) U. Braun & Mouch. SPECIES
-=======
+# Passalora mucunae (Syd. & P. Syd.) U. Braun & Mouch. SPECIES
 
 #### Status
 ACCEPTED

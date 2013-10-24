@@ -1,5 +1,4 @@
-Clithris platyplacum (Berk. & M.A. Curtis) Tehon SPECIES
-=======
+# Clithris platyplacum (Berk. & M.A. Curtis) Tehon SPECIES
 
 #### Status
 ACCEPTED

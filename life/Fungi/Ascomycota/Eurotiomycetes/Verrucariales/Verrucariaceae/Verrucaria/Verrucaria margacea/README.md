@@ -1,17 +1,16 @@
-Verrucaria leightonii var. leightonii VARIETY
-=======
+# Verrucaria margacea (Wahlenb.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. lapp. 465 (1812)
 
 #### Original name
-Verrucaria leightonii var. leightonii
+Thelotrema margaceum Wahlenb.
 
 ### Remarks
 null

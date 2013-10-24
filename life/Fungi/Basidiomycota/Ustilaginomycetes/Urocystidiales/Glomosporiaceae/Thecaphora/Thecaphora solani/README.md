@@ -1,5 +1,4 @@
-Thecaphora solani Barrus, 1944 SPECIES
-=======
+# Thecaphora solani Barrus, 1944 SPECIES
 
 #### Status
 ACCEPTED

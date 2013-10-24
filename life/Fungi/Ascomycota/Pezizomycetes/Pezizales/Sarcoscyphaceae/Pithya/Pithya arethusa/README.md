@@ -1,5 +1,4 @@
-Pithya arethusa Velen. SPECIES
-=======
+# Pithya arethusa Velen. SPECIES
 
 #### Status
 ACCEPTED

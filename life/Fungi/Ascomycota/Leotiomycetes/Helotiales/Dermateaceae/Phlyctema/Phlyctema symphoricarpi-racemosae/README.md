@@ -1,5 +1,4 @@
-Phlyctema symphoricarpi-racemosae Sacc. SPECIES
-=======
+# Phlyctema symphoricarpi-racemosae Sacc. SPECIES
 
 #### Status
 ACCEPTED

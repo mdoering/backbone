@@ -1,5 +1,4 @@
-Sphinctrina obscurata (Nyl.) Nádv. SPECIES
-=======
+# Sphinctrina obscurata (Nyl.) Nádv. SPECIES
 
 #### Status
 ACCEPTED

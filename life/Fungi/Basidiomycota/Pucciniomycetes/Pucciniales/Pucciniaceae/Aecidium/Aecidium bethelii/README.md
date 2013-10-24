@@ -1,5 +1,4 @@
-Aecidium bethelii Arthur SPECIES
-=======
+# Aecidium bethelii Arthur SPECIES
 
 #### Status
 ACCEPTED

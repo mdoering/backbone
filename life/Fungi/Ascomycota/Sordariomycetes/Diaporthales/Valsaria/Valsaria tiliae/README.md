@@ -1,5 +1,4 @@
-Valsaria tiliae De Not. SPECIES
-=======
+# Valsaria tiliae De Not. SPECIES
 
 #### Status
 ACCEPTED

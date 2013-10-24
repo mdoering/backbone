@@ -1,5 +1,4 @@
-Gyroporus variabilis Bougher & K. Syme SPECIES
-=======
+# Gyroporus variabilis Bougher & K. Syme SPECIES
 
 #### Status
 ACCEPTED

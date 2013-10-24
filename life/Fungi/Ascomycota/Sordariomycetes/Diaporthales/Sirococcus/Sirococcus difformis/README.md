@@ -1,5 +1,4 @@
-Sirococcus difformis P. Karst. SPECIES
-=======
+# Sirococcus difformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

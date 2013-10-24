@@ -1,5 +1,4 @@
-Photobacterium frigidiphilum Seo et al., 2005 SPECIES
-=======
+# Photobacterium frigidiphilum Seo et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

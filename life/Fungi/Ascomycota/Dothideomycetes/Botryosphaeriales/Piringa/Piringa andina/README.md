@@ -1,5 +1,4 @@
-Piringa andina Speg. SPECIES
-=======
+# Piringa andina Speg. SPECIES
 
 #### Status
 ACCEPTED

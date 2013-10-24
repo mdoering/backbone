@@ -1,5 +1,4 @@
-Opegrapha abbreviata Chevall. SPECIES
-=======
+# Opegrapha abbreviata Chevall. SPECIES
 
 #### Status
 ACCEPTED

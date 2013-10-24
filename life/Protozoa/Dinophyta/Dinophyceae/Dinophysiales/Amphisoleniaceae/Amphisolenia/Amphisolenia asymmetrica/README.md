@@ -1,5 +1,4 @@
-Amphisolenia asymmetrica Kofoid, 1907 SPECIES
-=======
+# Amphisolenia asymmetrica Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

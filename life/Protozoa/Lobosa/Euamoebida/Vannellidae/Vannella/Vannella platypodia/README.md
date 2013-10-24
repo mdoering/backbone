@@ -1,5 +1,4 @@
-Vannella platypodia Glaser, 1912 SPECIES
-=======
+# Vannella platypodia Glaser, 1912 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia tucumanensis H. Magn. SPECIES
-=======
+# Bacidia tucumanensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

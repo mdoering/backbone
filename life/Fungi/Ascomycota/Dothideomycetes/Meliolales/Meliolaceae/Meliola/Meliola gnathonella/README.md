@@ -1,5 +1,4 @@
-Meliola gnathonella F. Stevens & Tehon SPECIES
-=======
+# Meliola gnathonella F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

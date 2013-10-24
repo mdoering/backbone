@@ -1,5 +1,4 @@
-Platystomum alpinum Tracy & Earle SPECIES
-=======
+# Platystomum alpinum Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

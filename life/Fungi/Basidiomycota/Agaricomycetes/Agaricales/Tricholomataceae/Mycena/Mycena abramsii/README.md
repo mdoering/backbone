@@ -1,11 +1,10 @@
-Mycena praecox Velen., 1920 SPECIES
-=======
+# Mycena abramsii (Murrill) Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

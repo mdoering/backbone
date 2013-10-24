@@ -1,5 +1,4 @@
-Hastatella microradians Gelei, 1954 SPECIES
-=======
+# Hastatella microradians Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

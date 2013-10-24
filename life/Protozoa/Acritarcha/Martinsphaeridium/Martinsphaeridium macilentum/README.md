@@ -1,5 +1,4 @@
-Martinsphaeridium macilentum (Playford & Martin, 1984) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Martinsphaeridium macilentum (Playford & Martin, 1984) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

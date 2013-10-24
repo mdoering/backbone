@@ -1,5 +1,4 @@
-Protoparmelia psarophana SPECIES
-=======
+# Protoparmelia psarophana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus primulinus (Berk.) Pegler SPECIES
-=======
+# Gymnopilus primulinus (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

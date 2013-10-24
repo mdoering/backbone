@@ -1,5 +1,4 @@
-Ustilago tepperi F. Ludw. SPECIES
-=======
+# Ustilago tepperi F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

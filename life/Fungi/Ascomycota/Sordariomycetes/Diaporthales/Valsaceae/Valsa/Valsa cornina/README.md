@@ -1,5 +1,4 @@
-Valsa cornina Peck SPECIES
-=======
+# Valsa cornina Peck SPECIES
 
 #### Status
 ACCEPTED

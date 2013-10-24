@@ -1,5 +1,4 @@
-Lecidea crozalsiana Harm. SPECIES
-=======
+# Lecidea crozalsiana Harm. SPECIES
 
 #### Status
 ACCEPTED

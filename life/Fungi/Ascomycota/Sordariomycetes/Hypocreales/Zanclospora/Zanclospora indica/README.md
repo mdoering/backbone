@@ -1,5 +1,4 @@
-Zanclospora indica Subram. & Vittal, 1973 SPECIES
-=======
+# Zanclospora indica Subram. & Vittal, 1973 SPECIES
 
 #### Status
 ACCEPTED

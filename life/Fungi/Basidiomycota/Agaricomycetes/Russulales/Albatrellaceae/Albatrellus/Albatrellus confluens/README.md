@@ -1,14 +1,13 @@
-Polyporus confluens subsp. confluens SUBSPECIES
-=======
+# Albatrellus confluens (Alb. & Schwein.) Kotl. & Pouzar, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 355 (1821)
+Ceská Mykol. 11(3): 154 (1957)
 
 #### Original name
 Boletus confluens Alb. & Schwein., 1805

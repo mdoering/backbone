@@ -1,5 +1,4 @@
-Tubercularia ricini Cocc. SPECIES
-=======
+# Tubercularia ricini Cocc. SPECIES
 
 #### Status
 ACCEPTED

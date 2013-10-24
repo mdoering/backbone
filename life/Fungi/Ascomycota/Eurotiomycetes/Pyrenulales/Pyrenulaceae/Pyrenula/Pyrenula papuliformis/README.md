@@ -1,5 +1,4 @@
-Pyrenula papuliformis Eckfeldt SPECIES
-=======
+# Pyrenula papuliformis Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

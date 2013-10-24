@@ -1,5 +1,4 @@
-Puccinia salicum-prunorum Link SPECIES
-=======
+# Puccinia salicum-prunorum Link SPECIES
 
 #### Status
 ACCEPTED

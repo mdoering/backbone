@@ -1,5 +1,4 @@
-Deinococcus radiodurans (ex Raj et al., 1960) Brooks & Murray, 1981 SPECIES
-=======
+# Deinococcus radiodurans (ex Raj et al., 1960) Brooks & Murray, 1981 SPECIES
 
 #### Status
 ACCEPTED

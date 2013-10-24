@@ -1,5 +1,4 @@
-Hydnangium soderstromii Lagerh. SPECIES
-=======
+# Hydnangium soderstromii Lagerh. SPECIES
 
 #### Status
 ACCEPTED

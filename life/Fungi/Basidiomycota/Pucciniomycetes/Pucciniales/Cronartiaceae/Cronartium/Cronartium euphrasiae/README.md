@@ -1,5 +1,4 @@
-Cronartium euphrasiae Ranoj. SPECIES
-=======
+# Cronartium euphrasiae Ranoj. SPECIES
 
 #### Status
 ACCEPTED

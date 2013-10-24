@@ -1,5 +1,4 @@
-Nectria phycophila Tassi SPECIES
-=======
+# Nectria phycophila Tassi SPECIES
 
 #### Status
 ACCEPTED

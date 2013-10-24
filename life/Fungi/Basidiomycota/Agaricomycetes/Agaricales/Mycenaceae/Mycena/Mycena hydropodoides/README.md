@@ -1,5 +1,4 @@
-Mycena hydropodoides Singer SPECIES
-=======
+# Mycena hydropodoides Singer SPECIES
 
 #### Status
 ACCEPTED

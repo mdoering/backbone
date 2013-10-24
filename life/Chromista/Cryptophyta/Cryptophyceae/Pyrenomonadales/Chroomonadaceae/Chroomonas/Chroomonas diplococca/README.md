@@ -1,5 +1,4 @@
-Chroomonas diplococca Butcher, 1967 SPECIES
-=======
+# Chroomonas diplococca Butcher, 1967 SPECIES
 
 #### Status
 ACCEPTED

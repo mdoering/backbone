@@ -1,5 +1,4 @@
-Watznaueria fasciata F.H. Wind & P. Cepek SPECIES
-=======
+# Watznaueria fasciata F.H. Wind & P. Cepek SPECIES
 
 #### Status
 ACCEPTED

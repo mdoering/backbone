@@ -1,5 +1,4 @@
-Arthrospora subacclinis Flagey SPECIES
-=======
+# Arthrospora subacclinis Flagey SPECIES
 
 #### Status
 ACCEPTED

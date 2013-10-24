@@ -1,5 +1,4 @@
-Leptogium subheteromericum Zahlbr. SPECIES
-=======
+# Leptogium subheteromericum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

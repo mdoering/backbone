@@ -1,5 +1,4 @@
-Psathyrella laurentiana A.H. Sm. SPECIES
-=======
+# Psathyrella laurentiana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

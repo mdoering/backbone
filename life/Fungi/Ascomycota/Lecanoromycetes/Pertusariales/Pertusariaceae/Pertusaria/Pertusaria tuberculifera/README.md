@@ -1,5 +1,4 @@
-Pertusaria tuberculifera f. tuberculifera FORM
-=======
+# Pertusaria tuberculifera Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Soc. Sci. fenn. 7: 448 (1863)
 
 #### Original name
-Pertusaria tuberculifera f. tuberculifera
+Pertusaria tuberculifera Nyl.
 
 ### Remarks
 null

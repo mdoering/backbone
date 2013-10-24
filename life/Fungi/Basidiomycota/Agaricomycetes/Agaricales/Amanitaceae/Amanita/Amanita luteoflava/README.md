@@ -1,5 +1,4 @@
-Amanita luteoflava Beeli SPECIES
-=======
+# Amanita luteoflava Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astylozoon pyriforme Schewiakoff, 1893 SPECIES
-=======
+# Astylozoon pyriforme Schewiakoff, 1893 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isthmia obliquata (Sm.) Ag., 1832 SPECIES
-=======
+# Isthmia obliquata (Sm.) Ag., 1832 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella pistaciae (Cooke) Tomilin SPECIES
-=======
+# Mycosphaerella pistaciae (Cooke) Tomilin SPECIES
 
 #### Status
 ACCEPTED

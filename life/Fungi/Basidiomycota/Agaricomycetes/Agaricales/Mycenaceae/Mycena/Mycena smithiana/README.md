@@ -1,17 +1,16 @@
-Mycena debilis SPECIES
-=======
+# Mycena smithiana Kühner, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Encyclop. Mycol. 10: 252 (1938)
 
 #### Original name
-Mycena debilis
+Mycena smithiana Kühner, 1938
 
 ### Remarks
 null

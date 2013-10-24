@@ -1,5 +1,4 @@
-Puccinia callaquensis Neger SPECIES
-=======
+# Puccinia callaquensis Neger SPECIES
 
 #### Status
 ACCEPTED

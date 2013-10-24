@@ -1,5 +1,4 @@
-Phaeosphaerella williamsii Hansf. SPECIES
-=======
+# Phaeosphaerella williamsii Hansf. SPECIES
 
 #### Status
 ACCEPTED

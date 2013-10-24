@@ -1,5 +1,4 @@
-Hymenochaete livens Bres., 1915 SPECIES
-=======
+# Hymenochaete livens Bres., 1915 SPECIES
 
 #### Status
 ACCEPTED

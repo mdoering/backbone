@@ -1,5 +1,4 @@
-Spirillina tuberculolimbata SPECIES
-=======
+# Spirillina tuberculolimbata SPECIES
 
 #### Status
 ACCEPTED

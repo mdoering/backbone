@@ -1,5 +1,4 @@
-Corticium bullatum G. Cunn. SPECIES
-=======
+# Corticium bullatum G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

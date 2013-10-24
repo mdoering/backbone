@@ -1,5 +1,4 @@
-Helicogloea terminalis L.S. Olive SPECIES
-=======
+# Helicogloea terminalis L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

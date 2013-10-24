@@ -1,5 +1,4 @@
-Irenina lovoae Hansf. SPECIES
-=======
+# Irenina lovoae Hansf. SPECIES
 
 #### Status
 ACCEPTED

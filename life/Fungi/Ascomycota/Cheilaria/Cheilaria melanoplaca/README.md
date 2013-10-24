@@ -1,5 +1,4 @@
-Cheilaria melanoplaca Mont. SPECIES
-=======
+# Cheilaria melanoplaca Mont. SPECIES
 
 #### Status
 ACCEPTED

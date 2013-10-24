@@ -1,8 +1,7 @@
-Hemiaulus ornithocephalus Greville SPECIES
-=======
+# Briggera ornithocephala (Greville) R. Ross & P.A. Sims SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

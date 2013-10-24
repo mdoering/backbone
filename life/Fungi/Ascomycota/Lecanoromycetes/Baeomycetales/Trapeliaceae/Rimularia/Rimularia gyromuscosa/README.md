@@ -1,5 +1,4 @@
-Rimularia gyromuscosa Aptroot SPECIES
-=======
+# Rimularia gyromuscosa Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thaxterogaster nothofagi E. Horak SPECIES
-=======
+# Thaxterogaster nothofagi E. Horak SPECIES
 
 #### Status
 ACCEPTED

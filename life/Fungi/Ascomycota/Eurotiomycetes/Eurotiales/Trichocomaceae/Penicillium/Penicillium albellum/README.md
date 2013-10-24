@@ -1,5 +1,4 @@
-Penicillium albellum (Massee) Petch SPECIES
-=======
+# Penicillium albellum (Massee) Petch SPECIES
 
 #### Status
 ACCEPTED

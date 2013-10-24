@@ -1,5 +1,4 @@
-Phaeophyscia erythrocardia (Tuck.) Essl. SPECIES
-=======
+# Phaeophyscia erythrocardia (Tuck.) Essl. SPECIES
 
 #### Status
 ACCEPTED

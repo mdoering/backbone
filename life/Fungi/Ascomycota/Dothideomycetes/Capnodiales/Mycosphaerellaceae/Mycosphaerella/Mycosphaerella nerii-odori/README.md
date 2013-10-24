@@ -1,5 +1,4 @@
-Mycosphaerella nerii-odori A.K. Pande, 1975 SPECIES
-=======
+# Mycosphaerella nerii-odori A.K. Pande, 1975 SPECIES
 
 #### Status
 ACCEPTED

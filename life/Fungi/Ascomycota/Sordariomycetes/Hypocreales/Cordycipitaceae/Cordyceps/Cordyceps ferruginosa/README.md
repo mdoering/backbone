@@ -1,5 +1,4 @@
-Cordyceps ferruginosa Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps ferruginosa Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

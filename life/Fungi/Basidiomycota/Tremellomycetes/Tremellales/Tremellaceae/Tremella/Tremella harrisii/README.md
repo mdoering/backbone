@@ -1,5 +1,4 @@
-Tremella harrisii Diederich SPECIES
-=======
+# Tremella harrisii Diederich SPECIES
 
 #### Status
 ACCEPTED

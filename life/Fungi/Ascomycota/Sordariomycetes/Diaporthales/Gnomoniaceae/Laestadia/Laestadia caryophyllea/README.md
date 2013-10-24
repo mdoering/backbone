@@ -1,5 +1,4 @@
-Laestadia caryophyllea (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Laestadia caryophyllea (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

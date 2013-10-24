@@ -1,5 +1,4 @@
-Cortinarius sporovatus Rob. Henry SPECIES
-=======
+# Cortinarius sporovatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

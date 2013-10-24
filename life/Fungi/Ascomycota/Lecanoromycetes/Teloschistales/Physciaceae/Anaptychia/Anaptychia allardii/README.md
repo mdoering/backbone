@@ -1,5 +1,4 @@
-Anaptychia allardii Kurok. SPECIES
-=======
+# Anaptychia allardii Kurok. SPECIES
 
 #### Status
 ACCEPTED

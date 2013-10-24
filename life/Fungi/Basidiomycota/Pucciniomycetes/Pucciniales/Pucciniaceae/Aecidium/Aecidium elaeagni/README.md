@@ -1,5 +1,4 @@
-Aecidium elaeagni Dietel SPECIES
-=======
+# Aecidium elaeagni Dietel SPECIES
 
 #### Status
 ACCEPTED

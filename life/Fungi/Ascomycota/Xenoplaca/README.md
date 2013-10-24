@@ -1,5 +1,4 @@
-Xenoplaca Petr. GENUS
-=======
+# Xenoplaca Petr. GENUS
 
 #### Status
 ACCEPTED

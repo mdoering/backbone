@@ -1,5 +1,4 @@
-Ceriomyces zelleri Murrill SPECIES
-=======
+# Ceriomyces zelleri Murrill SPECIES
 
 #### Status
 ACCEPTED

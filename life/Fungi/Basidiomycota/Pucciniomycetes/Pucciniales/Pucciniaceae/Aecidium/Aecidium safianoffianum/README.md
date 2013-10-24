@@ -1,5 +1,4 @@
-Aecidium safianoffianum Thüm. SPECIES
-=======
+# Aecidium safianoffianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

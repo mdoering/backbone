@@ -1,5 +1,4 @@
-Puccinia dielsiana Henn. SPECIES
-=======
+# Puccinia dielsiana Henn. SPECIES
 
 #### Status
 ACCEPTED

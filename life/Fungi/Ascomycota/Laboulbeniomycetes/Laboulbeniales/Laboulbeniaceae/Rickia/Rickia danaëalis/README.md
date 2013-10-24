@@ -1,5 +1,4 @@
-Rickia danaëalis Thaxt. SPECIES
-=======
+# Rickia danaëalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

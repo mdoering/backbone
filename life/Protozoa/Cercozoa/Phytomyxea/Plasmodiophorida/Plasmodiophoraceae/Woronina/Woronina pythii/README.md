@@ -1,5 +1,4 @@
-Woronina pythii Goldie-Sm., 1956 SPECIES
-=======
+# Woronina pythii Goldie-Sm., 1956 SPECIES
 
 #### Status
 ACCEPTED

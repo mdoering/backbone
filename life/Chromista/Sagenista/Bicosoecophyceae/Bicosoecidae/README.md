@@ -1,5 +1,4 @@
-Bicosoecidae FAMILY
-=======
+# Bicosoecidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora antarctica Speg. SPECIES
-=======
+# Cytospora antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kahlerella Bensh, 1996 GENUS
-=======
+# Kahlerella Bensh, 1996 GENUS
 
 #### Status
 ACCEPTED

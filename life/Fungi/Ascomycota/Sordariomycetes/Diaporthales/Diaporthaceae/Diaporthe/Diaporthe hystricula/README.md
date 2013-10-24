@@ -1,5 +1,4 @@
-Diaporthe hystricula Sacc. & Speg. SPECIES
-=======
+# Diaporthe hystricula Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

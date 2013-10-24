@@ -1,5 +1,4 @@
-Valensiella punctata K. P. Jain SPECIES
-=======
+# Valensiella punctata K. P. Jain SPECIES
 
 #### Status
 ACCEPTED

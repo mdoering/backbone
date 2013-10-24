@@ -1,5 +1,4 @@
-Cyttariella Palm GENUS
-=======
+# Cyttariella Palm GENUS
 
 #### Status
 ACCEPTED

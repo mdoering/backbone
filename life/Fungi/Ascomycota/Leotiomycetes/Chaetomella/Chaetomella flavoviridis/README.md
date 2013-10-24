@@ -1,5 +1,4 @@
-Chaetomella flavoviridis Torrend SPECIES
-=======
+# Chaetomella flavoviridis Torrend SPECIES
 
 #### Status
 ACCEPTED

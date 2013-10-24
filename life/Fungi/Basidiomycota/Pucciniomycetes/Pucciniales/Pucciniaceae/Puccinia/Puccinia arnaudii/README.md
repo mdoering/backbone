@@ -1,5 +1,4 @@
-Puccinia arnaudii Har. & Dietel SPECIES
-=======
+# Puccinia arnaudii Har. & Dietel SPECIES
 
 #### Status
 ACCEPTED

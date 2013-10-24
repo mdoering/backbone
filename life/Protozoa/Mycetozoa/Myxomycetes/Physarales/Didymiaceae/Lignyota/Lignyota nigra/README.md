@@ -1,5 +1,4 @@
-Lignyota nigra Fr. SPECIES
-=======
+# Lignyota nigra Fr. SPECIES
 
 #### Status
 ACCEPTED

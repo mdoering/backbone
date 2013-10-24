@@ -1,5 +1,4 @@
-Alectoria norstictica Motyka SPECIES
-=======
+# Alectoria norstictica Motyka SPECIES
 
 #### Status
 ACCEPTED

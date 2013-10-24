@@ -1,5 +1,4 @@
-Caloplaca viperae (Zahlbr.) H. Olivier SPECIES
-=======
+# Caloplaca viperae (Zahlbr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

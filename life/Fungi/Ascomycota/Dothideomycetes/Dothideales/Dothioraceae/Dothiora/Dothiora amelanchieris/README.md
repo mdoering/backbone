@@ -1,5 +1,4 @@
-Dothiora amelanchieris M.E. Barr SPECIES
-=======
+# Dothiora amelanchieris M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

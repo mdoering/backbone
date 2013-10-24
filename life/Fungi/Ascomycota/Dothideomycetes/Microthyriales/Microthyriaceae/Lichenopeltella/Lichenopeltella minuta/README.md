@@ -1,5 +1,4 @@
-Lichenopeltella minuta R. Sant. SPECIES
-=======
+# Lichenopeltella minuta R. Sant. SPECIES
 
 #### Status
 ACCEPTED

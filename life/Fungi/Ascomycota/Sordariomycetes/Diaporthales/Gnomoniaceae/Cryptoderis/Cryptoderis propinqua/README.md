@@ -1,5 +1,4 @@
-Cryptoderis propinqua Bubák & Vleugel SPECIES
-=======
+# Cryptoderis propinqua Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

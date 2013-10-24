@@ -1,5 +1,4 @@
-Lecidea sphyridi var. epiconcolor (Bagl. & Carestia) Stizenb. VARIETY
-=======
+# Lecidea sphyridi (Stein) Stizenb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia sphyridi f. epiconcolor Bagl. & Carestia
+Karschia sphyridii Stein
 
 ### Remarks
 null

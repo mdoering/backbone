@@ -1,5 +1,4 @@
-Polysporina frigida Kantvilas & Seppelt SPECIES
-=======
+# Polysporina frigida Kantvilas & Seppelt SPECIES
 
 #### Status
 ACCEPTED

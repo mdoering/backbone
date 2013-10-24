@@ -1,5 +1,4 @@
-Paratalaromyces lenticularis Matsush., 2003 SPECIES
-=======
+# Paratalaromyces lenticularis Matsush., 2003 SPECIES
 
 #### Status
 ACCEPTED

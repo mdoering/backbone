@@ -1,17 +1,16 @@
-Cladonia verticillata f. verticillata FORM
-=======
+# Cladonia cervicornis (Ach.) Flot. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. helv. spicil. 1: 31 (1823)
+null
 
 #### Original name
-Cladonia verticillata f. verticillata
+null
 
 ### Remarks
 null

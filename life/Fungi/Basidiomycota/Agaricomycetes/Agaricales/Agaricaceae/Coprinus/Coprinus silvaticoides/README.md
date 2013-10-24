@@ -1,5 +1,4 @@
-Coprinus silvaticoides Bogart SPECIES
-=======
+# Coprinus silvaticoides Bogart SPECIES
 
 #### Status
 ACCEPTED

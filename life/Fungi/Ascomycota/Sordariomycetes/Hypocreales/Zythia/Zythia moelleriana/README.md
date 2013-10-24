@@ -1,8 +1,7 @@
-Zythia molleriana Sousa da Câmara SPECIES
-=======
+# Zythia moelleriana Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Zythia molleriana Sousa da Câmara
+Zythia moelleriana Sousa da Câmara
 
 ### Remarks
 null

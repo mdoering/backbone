@@ -1,14 +1,13 @@
-Sphaerodinium Woloszynska, 1915 GENUS
-=======
+# Glenodinium Ehrenberg, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Acad. Cracovie, 1915 (B), 279.
+Abh. Preuss. Akad. Wiss. , 1835 (1837), 174.
 
 #### Original name
 null

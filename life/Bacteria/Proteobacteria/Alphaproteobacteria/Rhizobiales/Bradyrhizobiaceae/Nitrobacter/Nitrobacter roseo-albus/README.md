@@ -1,5 +1,4 @@
-Nitrobacter roseo-albus SPECIES
-=======
+# Nitrobacter roseo-albus SPECIES
 
 #### Status
 ACCEPTED

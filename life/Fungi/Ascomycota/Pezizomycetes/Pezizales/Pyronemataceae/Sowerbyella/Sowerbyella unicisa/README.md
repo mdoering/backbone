@@ -1,17 +1,16 @@
-Peziza unicisa Peck, 1874 SPECIES
-=======
+# Sowerbyella unicisa (Peck) J. Moravec, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Czech Mycol. 47(4): 266 (1994)
 
 #### Original name
-null
+Peziza unicisa Peck
 
 ### Remarks
 null

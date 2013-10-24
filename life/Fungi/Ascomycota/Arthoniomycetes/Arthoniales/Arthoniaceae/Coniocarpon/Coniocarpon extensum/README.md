@@ -1,5 +1,4 @@
-Coniocarpon extensum Fée SPECIES
-=======
+# Coniocarpon extensum Fée SPECIES
 
 #### Status
 ACCEPTED

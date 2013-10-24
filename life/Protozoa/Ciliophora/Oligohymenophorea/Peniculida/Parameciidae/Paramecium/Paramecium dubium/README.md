@@ -1,5 +1,4 @@
-Paramecium dubium SPECIES
-=======
+# Paramecium dubium SPECIES
 
 #### Status
 ACCEPTED

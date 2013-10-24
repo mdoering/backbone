@@ -1,5 +1,4 @@
-Soloterminospora Matsush. GENUS
-=======
+# Soloterminospora Matsush. GENUS
 
 #### Status
 ACCEPTED

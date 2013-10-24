@@ -1,5 +1,4 @@
-Pleuropus earlei Murrill SPECIES
-=======
+# Pleuropus earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

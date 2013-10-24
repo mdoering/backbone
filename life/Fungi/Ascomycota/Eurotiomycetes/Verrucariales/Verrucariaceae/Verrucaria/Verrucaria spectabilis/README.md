@@ -1,5 +1,4 @@
-Verrucaria spectabilis (Hepp) Stizenb. SPECIES
-=======
+# Verrucaria spectabilis (Hepp) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

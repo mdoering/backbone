@@ -1,5 +1,4 @@
-Leccinum ochraceum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum ochraceum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

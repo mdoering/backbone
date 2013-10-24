@@ -1,5 +1,4 @@
-Phoma sanguisorbae Politis SPECIES
-=======
+# Phoma sanguisorbae Politis SPECIES
 
 #### Status
 ACCEPTED

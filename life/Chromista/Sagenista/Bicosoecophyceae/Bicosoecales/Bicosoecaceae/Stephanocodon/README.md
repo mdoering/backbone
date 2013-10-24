@@ -1,5 +1,4 @@
-Stephanocodon Pascher, 1942 GENUS
-=======
+# Stephanocodon Pascher, 1942 GENUS
 
 #### Status
 SYNONYM

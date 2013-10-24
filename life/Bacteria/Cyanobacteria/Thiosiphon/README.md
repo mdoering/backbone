@@ -1,5 +1,4 @@
-Thiosiphon Z. Klas, 1936 GENUS
-=======
+# Thiosiphon Z. Klas, 1936 GENUS
 
 #### Status
 ACCEPTED

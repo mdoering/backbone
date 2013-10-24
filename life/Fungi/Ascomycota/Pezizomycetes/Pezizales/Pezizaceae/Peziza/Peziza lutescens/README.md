@@ -1,5 +1,4 @@
-Peziza lutescens Alb. & Schwein. SPECIES
-=======
+# Peziza lutescens Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

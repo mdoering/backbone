@@ -1,5 +1,4 @@
-Dimerina mindoensis Syd. SPECIES
-=======
+# Dimerina mindoensis Syd. SPECIES
 
 #### Status
 ACCEPTED

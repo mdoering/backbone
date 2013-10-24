@@ -1,14 +1,13 @@
-Alternaria gomphrenae Togashi, 1926 SPECIES
-=======
+# Nimbya gomphrenae (Togashi) E.G. Simmons, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin Imper. Coll. Agric. & Forest. Morioka, Japan 9: 6 (1926)
+Sydowia 41: 324 (1989)
 
 #### Original name
 Alternaria gomphrenae Togashi, 1926

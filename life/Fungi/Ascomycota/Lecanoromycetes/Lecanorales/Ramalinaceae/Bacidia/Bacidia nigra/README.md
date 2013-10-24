@@ -1,5 +1,4 @@
-Bacidia nigra D.D. Awasthi & Kr.P. Singh SPECIES
-=======
+# Bacidia nigra D.D. Awasthi & Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

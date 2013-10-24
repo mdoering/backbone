@@ -1,5 +1,4 @@
-Halobacillus kuroshimensis Hua, Kanekiyo, Fujikura, Yasuda & Naganuma, 2007 SPECIES
-=======
+# Halobacillus kuroshimensis Hua, Kanekiyo, Fujikura, Yasuda & Naganuma, 2007 SPECIES
 
 #### Status
 ACCEPTED

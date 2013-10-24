@@ -1,5 +1,4 @@
-Periconiella ilicis P.M. Kirk, 1983 SPECIES
-=======
+# Periconiella ilicis P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

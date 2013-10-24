@@ -1,5 +1,4 @@
-Saccharomonospora Nonomura & Ohara, 1971 GENUS
-=======
+# Saccharomonospora Nonomura & Ohara, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cupressicola Bon & Grilli SPECIES
-=======
+# Agaricus cupressicola Bon & Grilli SPECIES
 
 #### Status
 ACCEPTED

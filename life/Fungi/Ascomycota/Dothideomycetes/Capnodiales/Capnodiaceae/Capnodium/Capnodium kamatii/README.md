@@ -1,17 +1,16 @@
-Capnodium ramatii D.K. Kulk. & U.K. Kulk. SPECIES
-=======
+# Capnodium kamatii D.K. Kulk. & U.K. Kulk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 46(9): 297 (1977)
 
 #### Original name
-Capnodium ramatii D.K. Kulk. & U.K. Kulk.
+Capnodium kamatii D.K. Kulk. & U.K. Kulk.
 
 ### Remarks
 null

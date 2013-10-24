@@ -1,5 +1,4 @@
-Patellaria corticola Starbäck SPECIES
-=======
+# Patellaria corticola Starbäck SPECIES
 
 #### Status
 ACCEPTED

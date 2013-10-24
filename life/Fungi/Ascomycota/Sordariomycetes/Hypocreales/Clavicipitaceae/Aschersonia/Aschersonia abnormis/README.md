@@ -1,5 +1,4 @@
-Aschersonia abnormis Henn. SPECIES
-=======
+# Aschersonia abnormis Henn. SPECIES
 
 #### Status
 ACCEPTED

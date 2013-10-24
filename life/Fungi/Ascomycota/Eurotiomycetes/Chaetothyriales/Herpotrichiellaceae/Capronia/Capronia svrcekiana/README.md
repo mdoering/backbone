@@ -1,5 +1,4 @@
-Capronia svrcekiana Réblová SPECIES
-=======
+# Capronia svrcekiana Réblová SPECIES
 
 #### Status
 ACCEPTED

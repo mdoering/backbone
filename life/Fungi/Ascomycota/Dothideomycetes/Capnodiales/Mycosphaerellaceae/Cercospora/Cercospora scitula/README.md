@@ -1,5 +1,4 @@
-Cercospora scitula Syd. SPECIES
-=======
+# Cercospora scitula Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeomarasmius subechinatus (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Phaeomarasmius subechinatus (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

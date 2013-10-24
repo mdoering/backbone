@@ -1,5 +1,4 @@
-Septoria sedi Westend., 1854 SPECIES
-=======
+# Septoria sedi Westend., 1854 SPECIES
 
 #### Status
 ACCEPTED

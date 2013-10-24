@@ -1,14 +1,13 @@
-Thyrammina Rhumbler, 1903 GENUS
-=======
+# Thurammina Brady, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Protistenk. , 3, 236.
+Quart. J. Micr. Soc. , (N. S. ) 19, 45.
 
 #### Original name
 null

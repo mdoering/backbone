@@ -1,17 +1,16 @@
-Cortinarius croceifolius f. croceifolius FORM
-=======
+# Cortinarius malicorius Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Y. St. Mus. 150: 26 (1910)
+Epicr. syst. mycol. (Upsaliae) 289 (1838)
 
 #### Original name
-Cortinarius croceifolius f. croceifolius
+Cortinarius malicorius Fr., 1838
 
 ### Remarks
 null

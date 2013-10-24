@@ -1,5 +1,4 @@
-Melanomma erraticulum (P. Karst.) Berl. & Voglino SPECIES
-=======
+# Melanomma erraticulum (P. Karst.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptostromella hysterioides var. graminicola (De Not.) Sacc. VARIETY
-=======
+# Leptostromella graminicola (De Not.) Grove, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 2: 193 (1937)
 
 #### Original name
-Leptostroma graminicola De Not.
+Leptostromella hysterioides var. graminicola (De Not.) Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena pseudostylobates Kobayasi SPECIES
-=======
+# Mycena pseudostylobates Kobayasi SPECIES
 
 #### Status
 ACCEPTED

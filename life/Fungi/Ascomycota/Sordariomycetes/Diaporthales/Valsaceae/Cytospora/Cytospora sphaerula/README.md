@@ -1,5 +1,4 @@
-Cytospora sphaerula Duby SPECIES
-=======
+# Cytospora sphaerula Duby SPECIES
 
 #### Status
 ACCEPTED

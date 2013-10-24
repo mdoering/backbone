@@ -1,5 +1,4 @@
-Babjeviella GENUS
-=======
+# Babjeviella GENUS
 
 #### Status
 ACCEPTED

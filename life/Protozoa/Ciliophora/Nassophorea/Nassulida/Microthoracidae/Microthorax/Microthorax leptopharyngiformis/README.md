@@ -1,5 +1,4 @@
-Microthorax leptopharyngiformis Foissner, 1985 SPECIES
-=======
+# Microthorax leptopharyngiformis Foissner, 1985 SPECIES
 
 #### Status
 ACCEPTED

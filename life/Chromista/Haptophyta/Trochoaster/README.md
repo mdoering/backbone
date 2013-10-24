@@ -1,5 +1,4 @@
-Trochoaster B.Klumpp GENUS
-=======
+# Trochoaster B.Klumpp GENUS
 
 #### Status
 ACCEPTED

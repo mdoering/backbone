@@ -1,5 +1,4 @@
-Lecidea nemoralis J. Lowe SPECIES
-=======
+# Lecidea nemoralis J. Lowe SPECIES
 
 #### Status
 ACCEPTED

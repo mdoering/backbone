@@ -1,5 +1,4 @@
-Parmelia sibirica Zahlbr. SPECIES
-=======
+# Parmelia sibirica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

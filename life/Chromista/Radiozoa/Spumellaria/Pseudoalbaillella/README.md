@@ -1,5 +1,4 @@
-Pseudoalbaillella GENUS
-=======
+# Pseudoalbaillella GENUS
 
 #### Status
 ACCEPTED

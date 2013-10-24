@@ -1,5 +1,4 @@
-Cercospora cycleae Chidd. SPECIES
-=======
+# Cercospora cycleae Chidd. SPECIES
 
 #### Status
 ACCEPTED

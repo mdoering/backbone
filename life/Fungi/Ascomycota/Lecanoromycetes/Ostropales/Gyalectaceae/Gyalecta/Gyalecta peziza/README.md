@@ -1,5 +1,4 @@
-Gyalecta peziza (Mont.) Anzi SPECIES
-=======
+# Gyalecta peziza (Mont.) Anzi SPECIES
 
 #### Status
 ACCEPTED

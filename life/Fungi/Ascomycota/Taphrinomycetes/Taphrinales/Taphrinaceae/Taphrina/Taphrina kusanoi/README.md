@@ -1,5 +1,4 @@
-Taphrina kusanoi Ikeno SPECIES
-=======
+# Taphrina kusanoi Ikeno SPECIES
 
 #### Status
 ACCEPTED

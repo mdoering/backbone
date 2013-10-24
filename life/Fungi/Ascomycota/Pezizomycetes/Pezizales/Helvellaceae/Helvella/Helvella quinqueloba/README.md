@@ -1,5 +1,4 @@
-Helvella quinqueloba Pers. SPECIES
-=======
+# Helvella quinqueloba Pers. SPECIES
 
 #### Status
 ACCEPTED

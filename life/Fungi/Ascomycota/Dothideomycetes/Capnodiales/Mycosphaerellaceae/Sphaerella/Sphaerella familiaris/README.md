@@ -1,5 +1,4 @@
-Sphaerella familiaris Auersw. SPECIES
-=======
+# Sphaerella familiaris Auersw. SPECIES
 
 #### Status
 ACCEPTED

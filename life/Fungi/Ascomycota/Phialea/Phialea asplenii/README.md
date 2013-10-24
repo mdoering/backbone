@@ -1,5 +1,4 @@
-Phialea asplenii (Racib.) Sacc. & P. Syd. SPECIES
-=======
+# Phialea asplenii (Racib.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

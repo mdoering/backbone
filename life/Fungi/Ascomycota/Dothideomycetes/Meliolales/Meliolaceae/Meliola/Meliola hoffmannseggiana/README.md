@@ -1,5 +1,4 @@
-Meliola hoffmannseggiana Hansf. SPECIES
-=======
+# Meliola hoffmannseggiana Hansf. SPECIES
 
 #### Status
 ACCEPTED

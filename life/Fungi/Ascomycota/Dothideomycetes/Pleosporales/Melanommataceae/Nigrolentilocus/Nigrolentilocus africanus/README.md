@@ -1,14 +1,13 @@
-Pseudospiropes africanus B. Sutton, 1993 SPECIES
-=======
+# Nigrolentilocus africanus (B. Sutton) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 167: 52 (1993)
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 15 (2001)
 
 #### Original name
 Pseudospiropes africanus B. Sutton, 1993

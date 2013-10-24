@@ -1,5 +1,4 @@
-Akanthomyces brevipes Thaxt. SPECIES
-=======
+# Akanthomyces brevipes Thaxt. SPECIES
 
 #### Status
 ACCEPTED

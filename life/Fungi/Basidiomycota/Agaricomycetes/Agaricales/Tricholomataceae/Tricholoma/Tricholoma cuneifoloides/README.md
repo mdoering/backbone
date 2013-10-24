@@ -1,5 +1,4 @@
-Tricholoma cuneifoloides Arde SPECIES
-=======
+# Tricholoma cuneifoloides Arde SPECIES
 
 #### Status
 ACCEPTED

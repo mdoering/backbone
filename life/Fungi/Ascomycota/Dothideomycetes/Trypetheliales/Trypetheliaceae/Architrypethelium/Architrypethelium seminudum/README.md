@@ -1,14 +1,13 @@
-Pyrenastrum seminudum Mont. SPECIES
-=======
+# Architrypethelium seminudum (Mont.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 44: 120 (1991)
 
 #### Original name
 Pyrenastrum seminudum Mont.

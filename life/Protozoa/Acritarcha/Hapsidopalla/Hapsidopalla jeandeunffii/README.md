@@ -1,5 +1,4 @@
-Hapsidopalla jeandeunffii Le Hérissé, 1989 SPECIES
-=======
+# Hapsidopalla jeandeunffii Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

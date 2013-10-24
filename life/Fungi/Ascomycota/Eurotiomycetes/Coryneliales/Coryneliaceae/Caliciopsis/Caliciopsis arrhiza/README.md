@@ -1,5 +1,4 @@
-Caliciopsis arrhiza (Pat. & Gaillard) Bat. & J.L. Bezerra SPECIES
-=======
+# Caliciopsis arrhiza (Pat. & Gaillard) Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

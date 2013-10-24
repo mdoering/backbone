@@ -1,17 +1,16 @@
-Amphischizonia Mont. GENUS
-=======
+# Cryptodictyon A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 250 (1860)
 
 #### Original name
-Amphischizonia Mont.
+Cryptodictyon A. Massal.
 
 ### Remarks
 null

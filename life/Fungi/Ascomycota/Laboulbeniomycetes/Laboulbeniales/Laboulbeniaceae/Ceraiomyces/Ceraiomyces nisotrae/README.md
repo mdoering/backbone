@@ -1,5 +1,4 @@
-Ceraiomyces nisotrae Thaxt. SPECIES
-=======
+# Ceraiomyces nisotrae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

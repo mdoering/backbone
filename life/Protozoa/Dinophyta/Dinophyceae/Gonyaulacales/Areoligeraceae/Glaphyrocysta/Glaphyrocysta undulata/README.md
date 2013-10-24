@@ -1,5 +1,4 @@
-Glaphyrocysta undulata (Eaton, 1976) Stover & Evitt, 1978 SPECIES
-=======
+# Glaphyrocysta undulata (Eaton, 1976) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

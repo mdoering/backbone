@@ -1,17 +1,16 @@
-Helmisporium dubium Berk. & M.A. Curtis SPECIES
-=======
+# Helminthosporium dubium Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fung. no. 637 (1875)
 
 #### Original name
-Helmisporium dubium Berk. & M.A. Curtis
+Helminthosporium dubium Berk. & M.A. Curtis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polypera crassipes Ficinus SPECIES
-=======
+# Polypera crassipes Ficinus SPECIES
 
 #### Status
 ACCEPTED

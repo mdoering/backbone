@@ -1,5 +1,4 @@
-Mycosphaerella petasitidis (Rabenh.) Feltgen SPECIES
-=======
+# Mycosphaerella petasitidis (Rabenh.) Feltgen SPECIES
 
 #### Status
 ACCEPTED

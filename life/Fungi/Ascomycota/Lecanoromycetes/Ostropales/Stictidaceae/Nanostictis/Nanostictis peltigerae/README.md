@@ -1,5 +1,4 @@
-Nanostictis peltigerae M.S. Christ. SPECIES
-=======
+# Nanostictis peltigerae M.S. Christ. SPECIES
 
 #### Status
 ACCEPTED

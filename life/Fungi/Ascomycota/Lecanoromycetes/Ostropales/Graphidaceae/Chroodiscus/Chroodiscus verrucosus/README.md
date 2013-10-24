@@ -1,5 +1,4 @@
-Chroodiscus verrucosus R. Sant., Lücking & Vezda SPECIES
-=======
+# Chroodiscus verrucosus R. Sant., Lücking & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rotaliammina plana Zheng & Fu, 2001 SPECIES
-=======
+# Rotaliammina plana Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

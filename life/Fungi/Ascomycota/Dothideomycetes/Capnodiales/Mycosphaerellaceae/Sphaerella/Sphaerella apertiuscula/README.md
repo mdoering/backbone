@@ -1,5 +1,4 @@
-Sphaerella apertiuscula (Schwein.) Cooke SPECIES
-=======
+# Sphaerella apertiuscula (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

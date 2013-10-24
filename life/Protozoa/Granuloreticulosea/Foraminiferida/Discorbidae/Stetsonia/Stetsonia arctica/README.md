@@ -1,5 +1,4 @@
-Stetsonia arctica Green, 1960 SPECIES
-=======
+# Stetsonia arctica Green, 1960 SPECIES
 
 #### Status
 ACCEPTED

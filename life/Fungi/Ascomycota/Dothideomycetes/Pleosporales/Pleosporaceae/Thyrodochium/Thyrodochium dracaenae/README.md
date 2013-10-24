@@ -1,5 +1,4 @@
-Thyrodochium dracaenae Werderm. SPECIES
-=======
+# Thyrodochium dracaenae Werderm. SPECIES
 
 #### Status
 ACCEPTED

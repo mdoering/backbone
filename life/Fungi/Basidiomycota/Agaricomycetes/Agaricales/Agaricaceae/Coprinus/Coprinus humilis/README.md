@@ -1,5 +1,4 @@
-Coprinus humilis Speg. SPECIES
-=======
+# Coprinus humilis Speg. SPECIES
 
 #### Status
 ACCEPTED

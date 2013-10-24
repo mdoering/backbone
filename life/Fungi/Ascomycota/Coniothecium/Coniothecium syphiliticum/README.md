@@ -1,5 +1,4 @@
-Coniothecium syphiliticum Hallier SPECIES
-=======
+# Coniothecium syphiliticum Hallier SPECIES
 
 #### Status
 ACCEPTED

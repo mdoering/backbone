@@ -1,5 +1,4 @@
-Ustanciosporium rhynchosporae Vánky, 1999 SPECIES
-=======
+# Ustanciosporium rhynchosporae Vánky, 1999 SPECIES
 
 #### Status
 ACCEPTED

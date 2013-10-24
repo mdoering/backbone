@@ -1,5 +1,4 @@
-Lloydella subglabra Rick SPECIES
-=======
+# Lloydella subglabra Rick SPECIES
 
 #### Status
 ACCEPTED

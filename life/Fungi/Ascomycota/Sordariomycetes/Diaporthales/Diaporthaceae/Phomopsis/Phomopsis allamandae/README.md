@@ -1,5 +1,4 @@
-Phomopsis allamandae Petr. SPECIES
-=======
+# Phomopsis allamandae Petr. SPECIES
 
 #### Status
 ACCEPTED

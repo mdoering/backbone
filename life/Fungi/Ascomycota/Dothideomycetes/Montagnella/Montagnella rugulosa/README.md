@@ -1,5 +1,4 @@
-Montagnella rugulosa Cooke SPECIES
-=======
+# Montagnella rugulosa Cooke SPECIES
 
 #### Status
 ACCEPTED

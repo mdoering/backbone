@@ -1,5 +1,4 @@
-Opegrapha lacteella Müll. Arg. SPECIES
-=======
+# Opegrapha lacteella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

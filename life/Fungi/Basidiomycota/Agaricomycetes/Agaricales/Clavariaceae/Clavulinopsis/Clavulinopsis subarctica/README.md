@@ -1,5 +1,4 @@
-Clavulinopsis subarctica (Pilát) Jülich, 1985 SPECIES
-=======
+# Clavulinopsis subarctica (Pilát) Jülich, 1985 SPECIES
 
 #### Status
 ACCEPTED

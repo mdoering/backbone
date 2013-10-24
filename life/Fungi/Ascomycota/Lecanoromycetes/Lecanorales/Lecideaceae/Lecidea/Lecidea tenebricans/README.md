@@ -1,5 +1,4 @@
-Lecidea tenebricans (Nyl.) Nyl. SPECIES
-=======
+# Lecidea tenebricans (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

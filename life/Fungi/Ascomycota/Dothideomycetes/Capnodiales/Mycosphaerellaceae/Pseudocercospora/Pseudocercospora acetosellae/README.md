@@ -1,5 +1,4 @@
-Pseudocercospora acetosellae (Ellis) U. Braun SPECIES
-=======
+# Pseudocercospora acetosellae (Ellis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

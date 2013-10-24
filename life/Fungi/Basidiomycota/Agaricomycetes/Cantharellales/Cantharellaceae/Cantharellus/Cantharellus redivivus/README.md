@@ -1,5 +1,4 @@
-Cantharellus redivivus Jungh. SPECIES
-=======
+# Cantharellus redivivus Jungh. SPECIES
 
 #### Status
 ACCEPTED

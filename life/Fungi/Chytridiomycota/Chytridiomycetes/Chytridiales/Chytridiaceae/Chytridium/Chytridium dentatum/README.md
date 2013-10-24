@@ -1,5 +1,4 @@
-Chytridium dentatum F. Rosen SPECIES
-=======
+# Chytridium dentatum F. Rosen SPECIES
 
 #### Status
 ACCEPTED

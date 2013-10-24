@@ -1,5 +1,4 @@
-Tympanis gyrosa Berk. & M.A. Curtis SPECIES
-=======
+# Tympanis gyrosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

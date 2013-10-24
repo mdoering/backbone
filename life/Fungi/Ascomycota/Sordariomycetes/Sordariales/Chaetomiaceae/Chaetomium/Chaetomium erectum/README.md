@@ -1,5 +1,4 @@
-Chaetomium erectum Skolko & J.W. Groves, 1948 SPECIES
-=======
+# Chaetomium erectum Skolko & J.W. Groves, 1948 SPECIES
 
 #### Status
 ACCEPTED

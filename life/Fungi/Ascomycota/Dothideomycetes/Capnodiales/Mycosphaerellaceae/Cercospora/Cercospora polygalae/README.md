@@ -1,5 +1,4 @@
-Cercospora polygalae Henn. SPECIES
-=======
+# Cercospora polygalae Henn. SPECIES
 
 #### Status
 ACCEPTED

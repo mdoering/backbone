@@ -1,5 +1,4 @@
-Oidium carthami Jacz. SPECIES
-=======
+# Oidium carthami Jacz. SPECIES
 
 #### Status
 ACCEPTED

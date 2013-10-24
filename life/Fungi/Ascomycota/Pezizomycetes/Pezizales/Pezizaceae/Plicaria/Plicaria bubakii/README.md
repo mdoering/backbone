@@ -1,17 +1,16 @@
-Plicaria bubaci Velen. SPECIES
-=======
+# Plicaria bubakii Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 345 (1934)
 
 #### Original name
-Plicaria bubaci Velen.
+Plicaria bubakii Velen.
 
 ### Remarks
 null

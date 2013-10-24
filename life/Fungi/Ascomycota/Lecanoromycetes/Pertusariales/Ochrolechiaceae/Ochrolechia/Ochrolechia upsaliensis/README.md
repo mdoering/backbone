@@ -1,17 +1,16 @@
-Ochrolechia upsaliensis f. upsaliensis FORM
-=======
+# Ochrolechia upsaliensis (L.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 31 (1852)
 
 #### Original name
-Ochrolechia upsaliensis f. upsaliensis
+Lichen upsaliensis L.
 
 ### Remarks
 null

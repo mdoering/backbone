@@ -1,5 +1,4 @@
-Porina fluminea P. M. McCarthy & P. N. Johnson SPECIES
-=======
+# Porina fluminea P. M. McCarthy & P. N. Johnson SPECIES
 
 #### Status
 ACCEPTED

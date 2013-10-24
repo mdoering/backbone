@@ -1,5 +1,4 @@
-Hydnangium compactum Harkn. SPECIES
-=======
+# Hydnangium compactum Harkn. SPECIES
 
 #### Status
 ACCEPTED

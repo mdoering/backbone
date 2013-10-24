@@ -1,5 +1,4 @@
-Citromyces affinis Bainier & Sartory SPECIES
-=======
+# Citromyces affinis Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

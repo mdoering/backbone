@@ -1,17 +1,16 @@
-Polyporus spumeus var. spumeus (Sowerby) Fr., 1821 VARIETY
-=======
+# Sarcodontia spumea (Sowerby) Spirin, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycena 1(1): 64-71 (2001)
 
 #### Original name
-null
+Boletus spumeus Sowerby, 1799
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lepiota truncatispora Murrill SPECIES
-=======
+# Lepiota truncatispora Murrill SPECIES
 
 #### Status
 ACCEPTED

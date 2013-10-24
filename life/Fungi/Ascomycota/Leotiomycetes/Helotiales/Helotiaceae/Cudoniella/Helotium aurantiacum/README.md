@@ -1,5 +1,4 @@
-Helotium aurantiacum Gillet SPECIES
-=======
+# Helotium aurantiacum Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma populi (H. Mart.) Schltdl. SPECIES
-=======
+# Caeoma populi (H. Mart.) Schltdl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kamatella Anahosur GENUS
-=======
+# Kamatella Anahosur GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamyella cydoniae Schulzer SPECIES
-=======
+# Lamyella cydoniae Schulzer SPECIES
 
 #### Status
 ACCEPTED

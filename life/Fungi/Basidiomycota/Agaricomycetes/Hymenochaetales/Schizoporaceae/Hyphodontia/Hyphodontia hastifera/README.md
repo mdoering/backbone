@@ -1,17 +1,16 @@
-Hyphodontia hastifer Hjortstam & Ryvarden SPECIES
-=======
+# Hyphodontia hastifera Hjortstam ex Langer, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 64: 234 (1997)
 
 #### Original name
-Hyphodontia hastifer Hjortstam & Ryvarden
+Hyphodontia hastifera Hjortstam ex Langer, 1994
 
 ### Remarks
 null

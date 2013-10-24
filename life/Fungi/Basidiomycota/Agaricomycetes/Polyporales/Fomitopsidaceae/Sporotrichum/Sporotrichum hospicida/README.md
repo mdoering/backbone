@@ -1,5 +1,4 @@
-Sporotrichum hospicida Schulzer & Sacc. SPECIES
-=======
+# Sporotrichum hospicida Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

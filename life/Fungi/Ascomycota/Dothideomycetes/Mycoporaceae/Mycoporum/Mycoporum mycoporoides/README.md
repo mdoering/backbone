@@ -1,5 +1,4 @@
-Mycoporum mycoporoides (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Mycoporum mycoporoides (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

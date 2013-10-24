@@ -1,14 +1,13 @@
-Puiggarina forsteroniae (Rehm) Speg., 1919 SPECIES
-=======
+# Phyllachora forsteroniae (Rehm) Petr., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 23: 486 (1919)
+Annls mycol. 32: 385 (1934)
 
 #### Original name
 Physalospora forsteroniae Rehm, 1901

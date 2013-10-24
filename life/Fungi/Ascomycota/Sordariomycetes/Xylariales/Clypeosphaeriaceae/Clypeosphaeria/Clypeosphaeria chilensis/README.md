@@ -1,5 +1,4 @@
-Clypeosphaeria chilensis Speg. SPECIES
-=======
+# Clypeosphaeria chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

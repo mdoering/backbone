@@ -1,5 +1,4 @@
-Hygrocybe elegans E. Horak, 1973 SPECIES
-=======
+# Hygrocybe elegans E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

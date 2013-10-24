@@ -1,5 +1,4 @@
-Rosellinia subacutum Schwein. SPECIES
-=======
+# Rosellinia subacutum Schwein. SPECIES
 
 #### Status
 ACCEPTED

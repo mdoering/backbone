@@ -1,5 +1,4 @@
-Pleospora trevoae Speg. SPECIES
-=======
+# Pleospora trevoae Speg. SPECIES
 
 #### Status
 ACCEPTED

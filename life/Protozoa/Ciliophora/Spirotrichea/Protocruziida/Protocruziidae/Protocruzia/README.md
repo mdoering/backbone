@@ -1,5 +1,4 @@
-Protocruzia Da Cunha, 1915 GENUS
-=======
+# Protocruzia Da Cunha, 1915 GENUS
 
 #### Status
 ACCEPTED

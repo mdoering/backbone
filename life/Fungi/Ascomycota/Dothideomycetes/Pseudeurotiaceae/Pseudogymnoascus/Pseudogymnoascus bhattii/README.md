@@ -1,5 +1,4 @@
-Pseudogymnoascus bhattii Samson, 1972 SPECIES
-=======
+# Pseudogymnoascus bhattii Samson, 1972 SPECIES
 
 #### Status
 ACCEPTED

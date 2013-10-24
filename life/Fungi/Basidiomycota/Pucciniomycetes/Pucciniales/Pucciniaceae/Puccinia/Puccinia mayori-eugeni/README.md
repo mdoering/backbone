@@ -1,5 +1,4 @@
-Puccinia mayori-eugeni Vienn.-Bourg. SPECIES
-=======
+# Puccinia mayori-eugeni Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

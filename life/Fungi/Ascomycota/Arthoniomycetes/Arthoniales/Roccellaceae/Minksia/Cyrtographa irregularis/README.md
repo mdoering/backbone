@@ -1,5 +1,4 @@
-Cyrtographa irregularis Müll. Arg. SPECIES
-=======
+# Cyrtographa irregularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

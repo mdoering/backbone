@@ -1,5 +1,4 @@
-Loxocephalus plagius (Stokes, 1885) ? SPECIES
-=======
+# Loxocephalus plagius (Stokes, 1885) ? SPECIES
 
 #### Status
 ACCEPTED

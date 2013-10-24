@@ -1,5 +1,4 @@
-Rotaliammina adaperta (Rhumbler, 1938) SPECIES
-=======
+# Rotaliammina adaperta (Rhumbler, 1938) SPECIES
 
 #### Status
 ACCEPTED

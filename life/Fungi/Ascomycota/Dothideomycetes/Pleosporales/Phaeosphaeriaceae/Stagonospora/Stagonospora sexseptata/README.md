@@ -1,5 +1,4 @@
-Stagonospora sexseptata (Trail) Tehon SPECIES
-=======
+# Stagonospora sexseptata (Trail) Tehon SPECIES
 
 #### Status
 ACCEPTED

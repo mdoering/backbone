@@ -1,5 +1,4 @@
-Usnea trachyna Motyka SPECIES
-=======
+# Usnea trachyna Motyka SPECIES
 
 #### Status
 ACCEPTED

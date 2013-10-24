@@ -1,5 +1,4 @@
-Rhaphidophora spina Speg. SPECIES
-=======
+# Rhaphidophora spina Speg. SPECIES
 
 #### Status
 ACCEPTED

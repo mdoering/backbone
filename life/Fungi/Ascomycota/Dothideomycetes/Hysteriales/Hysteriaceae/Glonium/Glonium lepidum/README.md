@@ -1,5 +1,4 @@
-Glonium lepidum Duby SPECIES
-=======
+# Glonium lepidum Duby SPECIES
 
 #### Status
 ACCEPTED

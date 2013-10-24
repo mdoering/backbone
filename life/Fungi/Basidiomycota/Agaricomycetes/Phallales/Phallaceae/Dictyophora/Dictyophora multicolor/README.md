@@ -1,5 +1,4 @@
-Dictyophora multicolor var. laeticolor D.A. Reid VARIETY
-=======
+# Dictyophora multicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Kew Bull. , Addit. Ser. 31(3): 658 (1977)
+Trans. Linn. Soc. London, Bot. , Ser. 2 2: 65 (1882)
 
 #### Original name
-Dictyophora multicolor var. laeticolor D.A. Reid
+Dictyophora multicolor Berk. & Broome
 
 ### Remarks
 null

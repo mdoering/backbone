@@ -1,5 +1,4 @@
-Puccinia fagopyri Barclay SPECIES
-=======
+# Puccinia fagopyri Barclay SPECIES
 
 #### Status
 ACCEPTED

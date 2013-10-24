@@ -1,5 +1,4 @@
-Microascus inopinatus Udagawa & Furuya SPECIES
-=======
+# Microascus inopinatus Udagawa & Furuya SPECIES
 
 #### Status
 ACCEPTED

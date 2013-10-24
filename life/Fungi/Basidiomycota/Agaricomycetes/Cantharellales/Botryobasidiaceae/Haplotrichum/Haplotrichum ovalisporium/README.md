@@ -1,5 +1,4 @@
-Haplotrichum ovalisporium (Linder) Hol.-Jech. SPECIES
-=======
+# Haplotrichum ovalisporium (Linder) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

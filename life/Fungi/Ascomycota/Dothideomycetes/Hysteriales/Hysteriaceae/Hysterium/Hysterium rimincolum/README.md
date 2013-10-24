@@ -1,5 +1,4 @@
-Hysterium rimincolum Schwein. SPECIES
-=======
+# Hysterium rimincolum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia vexabilis (Nyl.) H. Olivier SPECIES
-=======
+# Bacidia vexabilis (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

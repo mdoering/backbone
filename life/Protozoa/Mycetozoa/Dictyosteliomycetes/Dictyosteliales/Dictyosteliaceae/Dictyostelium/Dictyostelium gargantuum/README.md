@@ -1,5 +1,4 @@
-Dictyostelium gargantuum Vadell, Cavender, Romeralo & S.L. Stephenson, 2011 SPECIES
-=======
+# Dictyostelium gargantuum Vadell, Cavender, Romeralo & S.L. Stephenson, 2011 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleurodiscus jacksonii S. Ahmad, 1962 SPECIES
-=======
+# Aleurodiscus jacksonii S. Ahmad, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria superans Müll. Arg. SPECIES
-=======
+# Pertusaria superans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

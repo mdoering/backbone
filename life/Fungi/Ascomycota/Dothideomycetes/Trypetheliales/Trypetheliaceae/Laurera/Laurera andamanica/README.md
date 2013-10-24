@@ -1,5 +1,4 @@
-Laurera andamanica D.D. Awasthi SPECIES
-=======
+# Laurera andamanica D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

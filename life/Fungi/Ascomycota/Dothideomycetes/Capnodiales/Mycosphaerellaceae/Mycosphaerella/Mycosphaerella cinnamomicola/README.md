@@ -1,5 +1,4 @@
-Mycosphaerella cinnamomicola (Gonz. Frag. & Cif.) Cif. SPECIES
-=======
+# Mycosphaerella cinnamomicola (Gonz. Frag. & Cif.) Cif. SPECIES
 
 #### Status
 ACCEPTED

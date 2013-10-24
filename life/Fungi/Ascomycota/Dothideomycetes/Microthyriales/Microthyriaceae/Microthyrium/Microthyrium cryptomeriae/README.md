@@ -1,5 +1,4 @@
-Microthyrium cryptomeriae Sawada SPECIES
-=======
+# Microthyrium cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora dolichoides (N. Srivast., A.K. Srivast. & Kamal) U. Braun & Crous SPECIES
-=======
+# Passalora dolichoides (N. Srivast., A.K. Srivast. & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

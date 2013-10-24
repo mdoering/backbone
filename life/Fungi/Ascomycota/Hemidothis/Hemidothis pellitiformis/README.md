@@ -1,5 +1,4 @@
-Hemidothis pellitiformis Cif. SPECIES
-=======
+# Hemidothis pellitiformis Cif. SPECIES
 
 #### Status
 ACCEPTED

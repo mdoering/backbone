@@ -1,5 +1,4 @@
-Teloschistes velifer f. velifer FORM
-=======
+# Teloschistes velifer F. Wilson SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Victorian Nat. 6: 69 (1889)
 
 #### Original name
-Teloschistes velifer f. velifer
+Teloschistes velifer F. Wilson
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dictyotopsis Troll, 1931 GENUS
-=======
+# Dictyotopsis Troll, 1931 GENUS
 
 #### Status
 ACCEPTED

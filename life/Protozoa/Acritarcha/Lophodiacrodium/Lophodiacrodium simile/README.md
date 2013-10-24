@@ -1,5 +1,4 @@
-Lophodiacrodium simile Timofeev, 1959 SPECIES
-=======
+# Lophodiacrodium simile Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

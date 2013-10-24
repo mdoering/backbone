@@ -1,5 +1,4 @@
-Hypocrella aurea Syd. SPECIES
-=======
+# Hypocrella aurea Syd. SPECIES
 
 #### Status
 ACCEPTED

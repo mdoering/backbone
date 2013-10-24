@@ -1,5 +1,4 @@
-Pertusaria papillulata Nyl. SPECIES
-=======
+# Pertusaria papillulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

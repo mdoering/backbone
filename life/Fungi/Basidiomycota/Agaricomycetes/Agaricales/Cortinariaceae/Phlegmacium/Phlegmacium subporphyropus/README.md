@@ -1,5 +1,4 @@
-Phlegmacium subporphyropus (Pilát) M.M. Moser SPECIES
-=======
+# Phlegmacium subporphyropus (Pilát) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

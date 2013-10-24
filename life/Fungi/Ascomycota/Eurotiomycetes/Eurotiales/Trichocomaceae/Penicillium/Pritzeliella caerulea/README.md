@@ -1,17 +1,16 @@
-Pritzeliella coerulea Henn. SPECIES
-=======
+# Pritzeliella caerulea Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 42(Beibl. ): (1903)
 
 #### Original name
-Pritzeliella coerulea Henn.
+Pritzeliella caerulea Henn.
 
 ### Remarks
 null

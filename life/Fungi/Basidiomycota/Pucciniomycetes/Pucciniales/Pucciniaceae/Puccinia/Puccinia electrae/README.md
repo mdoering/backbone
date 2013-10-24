@@ -1,5 +1,4 @@
-Puccinia electrae var. electrae VARIETY
-=======
+# Puccinia electrae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Holway, Bot. Gaz. 31: 333 (1901)
 
 #### Original name
-Puccinia electrae var. electrae
+Puccinia electrae Dietel & Holw.
 
 ### Remarks
 null

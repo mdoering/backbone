@@ -1,5 +1,4 @@
-Tholothauma Haeckel, 1887 GENUS
-=======
+# Tholothauma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

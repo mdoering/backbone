@@ -1,5 +1,4 @@
-Plectronidium cultriforme Alcorn & B. Sutton SPECIES
-=======
+# Plectronidium cultriforme Alcorn & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

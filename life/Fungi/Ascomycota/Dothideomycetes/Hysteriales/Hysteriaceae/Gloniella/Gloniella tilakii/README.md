@@ -1,5 +1,4 @@
-Gloniella tilakii Nanir SPECIES
-=======
+# Gloniella tilakii Nanir SPECIES
 
 #### Status
 ACCEPTED

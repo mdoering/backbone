@@ -1,17 +1,16 @@
-Sphaerella pulchra G. Winter, 1872 SPECIES
-=======
+# Leptosphaerulina pulchra (G. Winter) M.E. Barr, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contrib. Inst. bot. Univ. Montréal 73: 7 (1959)
 
 #### Original name
-null
+Sphaerella pulchra G. Winter, 1872
 
 ### Remarks
 null

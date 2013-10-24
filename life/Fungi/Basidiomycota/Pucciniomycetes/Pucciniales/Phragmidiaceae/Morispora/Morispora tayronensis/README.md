@@ -1,5 +1,4 @@
-Morispora tayronensis Salazar-Yepes, Pardo-Card. & Buriticá SPECIES
-=======
+# Morispora tayronensis Salazar-Yepes, Pardo-Card. & Buriticá SPECIES
 
 #### Status
 ACCEPTED

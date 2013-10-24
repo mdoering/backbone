@@ -1,5 +1,4 @@
-Conoplea reniformia anon. SPECIES
-=======
+# Conoplea reniformia anon. SPECIES
 
 #### Status
 ACCEPTED

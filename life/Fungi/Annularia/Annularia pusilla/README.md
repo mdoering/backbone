@@ -1,5 +1,4 @@
-Annularia pusilla Pat. SPECIES
-=======
+# Annularia pusilla Pat. SPECIES
 
 #### Status
 ACCEPTED

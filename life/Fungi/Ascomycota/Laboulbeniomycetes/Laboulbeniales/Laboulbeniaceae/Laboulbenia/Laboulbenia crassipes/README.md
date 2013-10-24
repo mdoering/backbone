@@ -1,5 +1,4 @@
-Laboulbenia crassipes Speg. SPECIES
-=======
+# Laboulbenia crassipes Speg. SPECIES
 
 #### Status
 ACCEPTED

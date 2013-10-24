@@ -1,5 +1,4 @@
-Dimerium erysiphinum (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Dimerium erysiphinum (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

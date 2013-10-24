@@ -1,5 +1,4 @@
-Arthonia caesia H. Olivier SPECIES
-=======
+# Arthonia caesia H. Olivier SPECIES
 
 #### Status
 ACCEPTED

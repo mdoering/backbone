@@ -1,5 +1,4 @@
-Quinqueloculina stelligera Schlumberger, 1893 SPECIES
-=======
+# Quinqueloculina stelligera Schlumberger, 1893 SPECIES
 
 #### Status
 ACCEPTED

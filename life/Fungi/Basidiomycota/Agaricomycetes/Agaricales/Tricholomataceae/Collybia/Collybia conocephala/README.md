@@ -1,5 +1,4 @@
-Collybia conocephala P. Karst. SPECIES
-=======
+# Collybia conocephala P. Karst. SPECIES
 
 #### Status
 ACCEPTED

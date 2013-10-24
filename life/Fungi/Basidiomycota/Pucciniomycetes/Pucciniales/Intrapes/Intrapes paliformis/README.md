@@ -1,5 +1,4 @@
-Intrapes paliformis J.F. Hennen & Figueiredo, 1979 SPECIES
-=======
+# Intrapes paliformis J.F. Hennen & Figueiredo, 1979 SPECIES
 
 #### Status
 ACCEPTED

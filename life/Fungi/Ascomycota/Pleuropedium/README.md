@@ -1,5 +1,4 @@
-Pleuropedium Marvanová & S.H. Iqbal GENUS
-=======
+# Pleuropedium Marvanová & S.H. Iqbal GENUS
 
 #### Status
 ACCEPTED

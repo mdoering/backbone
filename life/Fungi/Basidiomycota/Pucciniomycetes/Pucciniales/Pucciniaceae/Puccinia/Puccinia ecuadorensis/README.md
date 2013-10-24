@@ -1,5 +1,4 @@
-Puccinia ecuadorensis Arthur SPECIES
-=======
+# Puccinia ecuadorensis Arthur SPECIES
 
 #### Status
 ACCEPTED

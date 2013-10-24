@@ -1,5 +1,4 @@
-Gomphus megasporus Corner SPECIES
-=======
+# Gomphus megasporus Corner SPECIES
 
 #### Status
 ACCEPTED

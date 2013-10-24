@@ -1,5 +1,4 @@
-Diaporthe cynaroidis Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Diaporthe cynaroidis Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

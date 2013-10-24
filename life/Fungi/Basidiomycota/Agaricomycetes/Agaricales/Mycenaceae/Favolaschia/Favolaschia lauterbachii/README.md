@@ -1,5 +1,4 @@
-Favolaschia lauterbachii (Henn.) Kuntze SPECIES
-=======
+# Favolaschia lauterbachii (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

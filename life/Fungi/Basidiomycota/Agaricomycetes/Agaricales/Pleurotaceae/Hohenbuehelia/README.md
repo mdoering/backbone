@@ -1,17 +1,16 @@
-Geopetalum Singer, 1951 GENUS
-=======
+# Hohenbuehelia Schulzer GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Schulzer, Kanitz & Knapp, Verh. zool. -bot. Ges. Wien 16(Abh. ): 45 (1866)
 
 #### Original name
-null
+Hohenbuehelia Schulzer
 
 ### Remarks
 null

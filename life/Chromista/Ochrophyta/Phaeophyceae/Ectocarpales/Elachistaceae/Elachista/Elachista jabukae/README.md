@@ -1,5 +1,4 @@
-Elachista jabukae Ercegovic SPECIES
-=======
+# Elachista jabukae Ercegovic SPECIES
 
 #### Status
 ACCEPTED

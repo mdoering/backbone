@@ -1,5 +1,4 @@
-Sticta colinii D. J. Galloway SPECIES
-=======
+# Sticta colinii D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

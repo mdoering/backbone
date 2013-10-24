@@ -1,11 +1,10 @@
-Myrionema balticum var. balticum VARIETY
-=======
+# Myrionema balticum (Reinke) Foslie SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Integrated Taxonomic Information System
 
 #### Published in
 null

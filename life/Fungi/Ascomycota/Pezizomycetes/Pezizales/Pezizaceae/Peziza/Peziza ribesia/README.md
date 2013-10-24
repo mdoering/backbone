@@ -1,11 +1,10 @@
-Peziza ribesia var. ribesia VARIETY
-=======
+# Peziza ribesia SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+NUB Generator [implicit canonical]
 
 #### Published in
 null

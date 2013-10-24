@@ -1,5 +1,4 @@
-Diplodia sphaerospora (Petr.) J.A. Stev. SPECIES
-=======
+# Diplodia sphaerospora (Petr.) J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

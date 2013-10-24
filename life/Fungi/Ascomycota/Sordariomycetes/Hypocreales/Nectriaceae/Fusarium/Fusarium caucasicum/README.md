@@ -1,5 +1,4 @@
-Fusarium caucasicum Letov, 1929 SPECIES
-=======
+# Fusarium caucasicum Letov, 1929 SPECIES
 
 #### Status
 ACCEPTED

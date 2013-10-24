@@ -1,5 +1,4 @@
-Aspicilia babiogorensis Motyka SPECIES
-=======
+# Aspicilia babiogorensis Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidella arechavaletae Speg. SPECIES
-=======
+# Dothidella arechavaletae Speg. SPECIES
 
 #### Status
 ACCEPTED

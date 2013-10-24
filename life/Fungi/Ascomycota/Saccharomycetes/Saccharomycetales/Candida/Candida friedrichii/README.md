@@ -1,5 +1,4 @@
-Candida friedrichii Uden & Windisch, 1968 SPECIES
-=======
+# Candida friedrichii Uden & Windisch, 1968 SPECIES
 
 #### Status
 ACCEPTED

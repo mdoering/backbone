@@ -1,5 +1,4 @@
-Graphis particeps Nyl. SPECIES
-=======
+# Graphis particeps Nyl. SPECIES
 
 #### Status
 ACCEPTED

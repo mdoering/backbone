@@ -1,5 +1,4 @@
-Cercospora agatidis É.E. Foëx SPECIES
-=======
+# Cercospora agatidis É.E. Foëx SPECIES
 
 #### Status
 ACCEPTED

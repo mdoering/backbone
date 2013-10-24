@@ -1,17 +1,16 @@
-Cytispora hendersonii Berk. & Broome SPECIES
-=======
+# Cytospora hendersonii Ehrenb., 1818 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 3 5: 379 (1860)
 
 #### Original name
-Cytispora hendersonii Berk. & Broome
+Cytospora hendersonii Ehrenb., 1818
 
 ### Remarks
 null

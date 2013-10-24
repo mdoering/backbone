@@ -1,5 +1,4 @@
-Lyophyllum semiustum Singer SPECIES
-=======
+# Lyophyllum semiustum Singer SPECIES
 
 #### Status
 ACCEPTED

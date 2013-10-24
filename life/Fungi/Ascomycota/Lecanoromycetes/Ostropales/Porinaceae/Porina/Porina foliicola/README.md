@@ -1,5 +1,4 @@
-Porina foliicola (Vezda) Lücking & Vezda SPECIES
-=======
+# Porina foliicola (Vezda) Lücking & Vezda SPECIES
 
 #### Status
 ACCEPTED

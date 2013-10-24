@@ -1,5 +1,4 @@
-Sclerotium selaginellae Peyl SPECIES
-=======
+# Sclerotium selaginellae Peyl SPECIES
 
 #### Status
 ACCEPTED

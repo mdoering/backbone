@@ -1,5 +1,4 @@
-Lophiosphaera camarae Dias SPECIES
-=======
+# Lophiosphaera camarae Dias SPECIES
 
 #### Status
 ACCEPTED

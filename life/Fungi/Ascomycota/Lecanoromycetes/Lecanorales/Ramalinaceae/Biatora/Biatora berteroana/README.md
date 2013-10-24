@@ -1,5 +1,4 @@
-Biatora berteroana Mont. SPECIES
-=======
+# Biatora berteroana Mont. SPECIES
 
 #### Status
 ACCEPTED

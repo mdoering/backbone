@@ -1,5 +1,4 @@
-Nyctotherus lumbrici SPECIES
-=======
+# Nyctotherus lumbrici SPECIES
 
 #### Status
 ACCEPTED

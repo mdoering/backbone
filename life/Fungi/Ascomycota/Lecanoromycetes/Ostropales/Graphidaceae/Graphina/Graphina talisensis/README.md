@@ -1,5 +1,4 @@
-Graphina talisensis A.W. Archer SPECIES
-=======
+# Graphina talisensis A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

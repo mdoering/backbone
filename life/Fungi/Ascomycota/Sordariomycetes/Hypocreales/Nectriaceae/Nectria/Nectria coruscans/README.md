@@ -1,5 +1,4 @@
-Nectria coruscans Fr. SPECIES
-=======
+# Nectria coruscans Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora montenegrina Bubák SPECIES
-=======
+# Cercospora montenegrina Bubák SPECIES
 
 #### Status
 ACCEPTED

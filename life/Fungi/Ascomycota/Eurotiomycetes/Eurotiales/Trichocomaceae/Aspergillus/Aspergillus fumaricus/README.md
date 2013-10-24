@@ -1,5 +1,4 @@
-Aspergillus fumaricus Wehm. SPECIES
-=======
+# Aspergillus fumaricus Wehm. SPECIES
 
 #### Status
 ACCEPTED

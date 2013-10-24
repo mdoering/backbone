@@ -1,5 +1,4 @@
-Morfea multiseptata (M.E. Barr) Bat. SPECIES
-=======
+# Morfea multiseptata (M.E. Barr) Bat. SPECIES
 
 #### Status
 ACCEPTED

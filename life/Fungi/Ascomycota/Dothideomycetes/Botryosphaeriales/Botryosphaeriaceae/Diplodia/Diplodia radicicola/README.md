@@ -1,5 +1,4 @@
-Diplodia radicicola Sacc. SPECIES
-=======
+# Diplodia radicicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

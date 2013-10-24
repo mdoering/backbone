@@ -1,5 +1,4 @@
-Pampolysporium koschkelovae (Frolov) M. Monod SPECIES
-=======
+# Pampolysporium koschkelovae (Frolov) M. Monod SPECIES
 
 #### Status
 ACCEPTED

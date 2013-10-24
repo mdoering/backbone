@@ -1,14 +1,13 @@
-Acia stipata (Fr.) P. Karst., 1879 SPECIES
-=======
+# Hyphodontia stipata (Fr.) Gilb., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 5: 42 (1879)
+Evol. high. Basidiom. 300 (1971)
 
 #### Original name
 Hydnum stipatum Fr., 1821

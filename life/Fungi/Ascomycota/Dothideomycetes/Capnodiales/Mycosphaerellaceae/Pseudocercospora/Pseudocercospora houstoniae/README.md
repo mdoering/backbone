@@ -1,5 +1,4 @@
-Pseudocercospora houstoniae (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora houstoniae (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

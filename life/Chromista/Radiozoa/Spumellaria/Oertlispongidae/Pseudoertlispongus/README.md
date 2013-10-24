@@ -1,5 +1,4 @@
-Pseudoertlispongus Lahm, 1984 GENUS
-=======
+# Pseudoertlispongus Lahm, 1984 GENUS
 
 #### Status
 ACCEPTED

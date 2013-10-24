@@ -1,5 +1,4 @@
-Lichen fucinus J.F. Gmel. SPECIES
-=======
+# Lichen fucinus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vibrio navarrensis Urdaci et al., 1991 SPECIES
-=======
+# Vibrio navarrensis Urdaci et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bursellopsis nana SPECIES
-=======
+# Bursellopsis nana SPECIES
 
 #### Status
 ACCEPTED

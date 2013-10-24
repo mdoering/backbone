@@ -1,5 +1,4 @@
-Zeloasperisporium hyphopodioides R.F. Castañeda, 1996 SPECIES
-=======
+# Zeloasperisporium hyphopodioides R.F. Castañeda, 1996 SPECIES
 
 #### Status
 ACCEPTED

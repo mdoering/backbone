@@ -1,5 +1,4 @@
-Pseudasterodon lutescens (Rick) Rick SPECIES
-=======
+# Pseudasterodon lutescens (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

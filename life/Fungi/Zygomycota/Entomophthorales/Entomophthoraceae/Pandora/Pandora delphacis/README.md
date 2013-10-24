@@ -1,17 +1,16 @@
-Entomophthora delphaxini Hori SPECIES
-=======
+# Pandora delphacis (Hori) Humber, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 34(2): 452 (1989)
 
 #### Original name
-Entomophthora delphaxini Hori
+Entomophthora delphacis Hori, 1906
 
 ### Remarks
 null

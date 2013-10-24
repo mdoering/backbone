@@ -1,5 +1,4 @@
-Sirobasidium albidum Lagerh. & Pat. SPECIES
-=======
+# Sirobasidium albidum Lagerh. & Pat. SPECIES
 
 #### Status
 ACCEPTED

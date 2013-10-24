@@ -1,5 +1,4 @@
-Marasmius delectans Morgan SPECIES
-=======
+# Marasmius delectans Morgan SPECIES
 
 #### Status
 ACCEPTED

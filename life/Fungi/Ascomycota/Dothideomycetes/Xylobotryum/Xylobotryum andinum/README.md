@@ -1,14 +1,13 @@
-Thamnomyces andinus (Pat.) Lloyd, 1920 SPECIES
-=======
+# Xylobotryum andinum Pat., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 6(62): 908 (1920)
+Bull. Herb. Boissier 3: 69 (1895)
 
 #### Original name
 Xylobotryum andinum Pat., 1895

@@ -1,5 +1,4 @@
-Cliostomum pallens (Kullh.) S. Ekman SPECIES
-=======
+# Cliostomum pallens (Kullh.) S. Ekman SPECIES
 
 #### Status
 ACCEPTED

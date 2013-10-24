@@ -1,5 +1,4 @@
-Biddulphia rigia (Schultze) Ostenfeld SPECIES
-=======
+# Biddulphia rigia (Schultze) Ostenfeld SPECIES
 
 #### Status
 ACCEPTED

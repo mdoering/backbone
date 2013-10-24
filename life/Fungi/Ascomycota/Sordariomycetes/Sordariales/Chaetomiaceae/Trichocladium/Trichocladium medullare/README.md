@@ -1,5 +1,4 @@
-Trichocladium medullare Kohlm. & Volkm.-Kohlm., 1995 SPECIES
-=======
+# Trichocladium medullare Kohlm. & Volkm.-Kohlm., 1995 SPECIES
 
 #### Status
 ACCEPTED

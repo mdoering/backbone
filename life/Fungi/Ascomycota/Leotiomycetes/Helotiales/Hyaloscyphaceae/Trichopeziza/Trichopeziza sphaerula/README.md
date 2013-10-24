@@ -1,5 +1,4 @@
-Trichopeziza sphaerula Sacc. SPECIES
-=======
+# Trichopeziza sphaerula Sacc. SPECIES
 
 #### Status
 ACCEPTED

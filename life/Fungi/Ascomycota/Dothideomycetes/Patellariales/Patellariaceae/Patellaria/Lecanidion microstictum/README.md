@@ -1,5 +1,4 @@
-Lecanidion microstictum (Durieu & Lév.) Sacc. SPECIES
-=======
+# Lecanidion microstictum (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

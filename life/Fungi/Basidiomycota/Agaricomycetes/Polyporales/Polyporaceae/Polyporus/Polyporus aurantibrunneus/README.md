@@ -1,5 +1,4 @@
-Polyporus aurantibrunneus Corner, 1984 SPECIES
-=======
+# Polyporus aurantibrunneus Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

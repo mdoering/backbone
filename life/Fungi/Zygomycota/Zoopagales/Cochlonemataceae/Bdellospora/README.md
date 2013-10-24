@@ -1,5 +1,4 @@
-Bdellospora Drechsler GENUS
-=======
+# Bdellospora Drechsler GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea arceutinoides Nyl. SPECIES
-=======
+# Lecidea arceutinoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Speiropsis Tubaki GENUS
-=======
+# Speiropsis Tubaki GENUS
 
 #### Status
 ACCEPTED

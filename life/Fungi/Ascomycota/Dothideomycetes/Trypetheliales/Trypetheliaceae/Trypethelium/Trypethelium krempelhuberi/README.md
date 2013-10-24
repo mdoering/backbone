@@ -1,5 +1,4 @@
-Trypethelium krempelhuberi Makhija & Patw. SPECIES
-=======
+# Trypethelium krempelhuberi Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

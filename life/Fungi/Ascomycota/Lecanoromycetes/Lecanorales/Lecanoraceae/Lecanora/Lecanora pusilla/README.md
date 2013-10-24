@@ -1,5 +1,4 @@
-Lecanora pusilla (Anzi) Stizenb. SPECIES
-=======
+# Lecanora pusilla (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

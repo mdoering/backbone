@@ -1,5 +1,4 @@
-Usnea submekista Asahina SPECIES
-=======
+# Usnea submekista Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia armeriae Gonz. Frag. SPECIES
-=======
+# Vermicularia armeriae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

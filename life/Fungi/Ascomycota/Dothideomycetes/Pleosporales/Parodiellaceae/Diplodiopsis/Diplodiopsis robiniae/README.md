@@ -1,5 +1,4 @@
-Diplodiopsis robiniae Dearn. & Barthol. SPECIES
-=======
+# Diplodiopsis robiniae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

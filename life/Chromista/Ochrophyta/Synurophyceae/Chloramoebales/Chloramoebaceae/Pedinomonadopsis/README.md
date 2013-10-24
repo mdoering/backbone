@@ -1,5 +1,4 @@
-Pedinomonadopsis Massyuk & Guk, 1983 GENUS
-=======
+# Pedinomonadopsis Massyuk & Guk, 1983 GENUS
 
 #### Status
 ACCEPTED

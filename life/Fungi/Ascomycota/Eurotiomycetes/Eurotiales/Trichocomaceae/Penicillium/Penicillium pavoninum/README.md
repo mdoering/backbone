@@ -1,5 +1,4 @@
-Penicillium pavoninum Svilv. SPECIES
-=======
+# Penicillium pavoninum Svilv. SPECIES
 
 #### Status
 ACCEPTED

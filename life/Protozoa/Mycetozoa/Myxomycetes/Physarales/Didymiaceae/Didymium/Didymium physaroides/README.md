@@ -1,5 +1,4 @@
-Didymium physaroides (Link) Link SPECIES
-=======
+# Didymium physaroides (Link) Link SPECIES
 
 #### Status
 ACCEPTED

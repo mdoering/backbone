@@ -1,5 +1,4 @@
-Badimia leioplacella (Müll. Arg.) Lücking SPECIES
-=======
+# Badimia leioplacella (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirochaeta lutrae SPECIES
-=======
+# Spirochaeta lutrae SPECIES
 
 #### Status
 ACCEPTED

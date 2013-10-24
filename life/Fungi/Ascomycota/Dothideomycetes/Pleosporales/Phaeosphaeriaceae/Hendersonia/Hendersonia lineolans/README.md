@@ -1,5 +1,4 @@
-Hendersonia lineolans (Schwein.) Starbäck SPECIES
-=======
+# Hendersonia lineolans (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

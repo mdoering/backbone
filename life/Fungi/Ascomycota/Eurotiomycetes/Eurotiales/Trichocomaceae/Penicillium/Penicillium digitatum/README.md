@@ -1,17 +1,16 @@
-Penicillium digitatum var. digitatum VARIETY
-=======
+# Penicillium digitatum (Pers.) Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fungi italica 17-28: tab. 894 (1881)
 
 #### Original name
-Penicillium digitatum var. digitatum
+null
 
 ### Remarks
 null

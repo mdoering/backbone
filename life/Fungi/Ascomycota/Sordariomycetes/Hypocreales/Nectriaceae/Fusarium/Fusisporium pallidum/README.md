@@ -1,5 +1,4 @@
-Fusisporium pallidum Niessl SPECIES
-=======
+# Fusisporium pallidum Niessl SPECIES
 
 #### Status
 ACCEPTED

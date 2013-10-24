@@ -1,5 +1,4 @@
-Arthothelium virgineum Müll. Arg. SPECIES
-=======
+# Arthothelium virgineum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

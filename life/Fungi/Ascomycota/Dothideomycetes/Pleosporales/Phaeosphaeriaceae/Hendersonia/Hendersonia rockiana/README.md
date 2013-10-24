@@ -1,5 +1,4 @@
-Hendersonia rockiana Petr. SPECIES
-=======
+# Hendersonia rockiana Petr. SPECIES
 
 #### Status
 ACCEPTED

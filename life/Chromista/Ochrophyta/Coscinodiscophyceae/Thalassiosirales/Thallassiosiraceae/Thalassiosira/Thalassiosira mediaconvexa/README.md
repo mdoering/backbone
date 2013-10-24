@@ -1,5 +1,4 @@
-Thalassiosira mediaconvexa H. J. Schrader SPECIES
-=======
+# Thalassiosira mediaconvexa H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

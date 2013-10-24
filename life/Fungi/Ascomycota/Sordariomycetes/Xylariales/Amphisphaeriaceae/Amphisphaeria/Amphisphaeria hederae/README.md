@@ -1,5 +1,4 @@
-Amphisphaeria hederae Fuckel SPECIES
-=======
+# Amphisphaeria hederae Fuckel SPECIES
 
 #### Status
 ACCEPTED

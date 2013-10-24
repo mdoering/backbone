@@ -1,5 +1,4 @@
-Phyllachora symplocicola Seshadri, 1966 SPECIES
-=======
+# Phyllachora symplocicola Seshadri, 1966 SPECIES
 
 #### Status
 DOUBTFUL

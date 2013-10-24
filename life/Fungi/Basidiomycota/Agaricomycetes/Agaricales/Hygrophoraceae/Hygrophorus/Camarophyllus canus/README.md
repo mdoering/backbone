@@ -1,14 +1,13 @@
-Hygrocybe cana (E. Horak) Boertm., 2002 SPECIES
-=======
+# Camarophyllus canus E. Horak, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 192: 19 (2002)
+Beih. Nova Hedwigia 43: 120 (1973)
 
 #### Original name
 Camarophyllus canus E. Horak, 1973

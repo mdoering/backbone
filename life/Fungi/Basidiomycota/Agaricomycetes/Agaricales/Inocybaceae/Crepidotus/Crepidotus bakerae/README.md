@@ -1,5 +1,4 @@
-Crepidotus bakerae Ueki & C.W. Sm. SPECIES
-=======
+# Crepidotus bakerae Ueki & C.W. Sm. SPECIES
 
 #### Status
 ACCEPTED

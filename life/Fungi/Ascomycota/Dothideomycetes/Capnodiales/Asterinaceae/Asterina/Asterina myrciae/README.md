@@ -1,5 +1,4 @@
-Asterina myrciae R.W. Ryan SPECIES
-=======
+# Asterina myrciae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

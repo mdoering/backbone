@@ -1,5 +1,4 @@
-Uromyces sarothamni A.L. Guyot & Massenot SPECIES
-=======
+# Uromyces sarothamni A.L. Guyot & Massenot SPECIES
 
 #### Status
 ACCEPTED

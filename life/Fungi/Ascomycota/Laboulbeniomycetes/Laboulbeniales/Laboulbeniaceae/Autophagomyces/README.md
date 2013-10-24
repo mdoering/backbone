@@ -1,5 +1,4 @@
-Autophagomyces Thaxt. GENUS
-=======
+# Autophagomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

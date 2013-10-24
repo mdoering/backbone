@@ -1,5 +1,4 @@
-Amandinea myriocarpa SPECIES
-=======
+# Amandinea myriocarpa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora litseigena U. Braun SPECIES
-=======
+# Pseudocercospora litseigena U. Braun SPECIES
 
 #### Status
 ACCEPTED

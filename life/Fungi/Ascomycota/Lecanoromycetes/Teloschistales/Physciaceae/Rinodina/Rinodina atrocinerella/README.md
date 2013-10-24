@@ -1,5 +1,4 @@
-Rinodina atrocinerella (Nyl.) Boistel SPECIES
-=======
+# Rinodina atrocinerella (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

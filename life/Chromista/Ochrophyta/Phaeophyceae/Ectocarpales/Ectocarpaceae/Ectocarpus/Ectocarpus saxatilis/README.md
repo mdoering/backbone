@@ -1,5 +1,4 @@
-Ectocarpus saxatilis Zanardini SPECIES
-=======
+# Ectocarpus saxatilis Zanardini SPECIES
 
 #### Status
 ACCEPTED

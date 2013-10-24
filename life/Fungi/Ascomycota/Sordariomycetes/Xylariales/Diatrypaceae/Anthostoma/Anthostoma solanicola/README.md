@@ -1,5 +1,4 @@
-Anthostoma solanicola Henn. SPECIES
-=======
+# Anthostoma solanicola Henn. SPECIES
 
 #### Status
 ACCEPTED

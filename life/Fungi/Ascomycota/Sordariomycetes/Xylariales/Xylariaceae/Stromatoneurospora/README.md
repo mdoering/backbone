@@ -1,5 +1,4 @@
-Stromatoneurospora S.C. Jong & E.E. Davis GENUS
-=======
+# Stromatoneurospora S.C. Jong & E.E. Davis GENUS
 
 #### Status
 ACCEPTED

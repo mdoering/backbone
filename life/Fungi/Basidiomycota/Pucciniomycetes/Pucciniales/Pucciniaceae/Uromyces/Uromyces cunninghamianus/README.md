@@ -1,5 +1,4 @@
-Uromyces cunninghamianus Barclay SPECIES
-=======
+# Uromyces cunninghamianus Barclay SPECIES
 
 #### Status
 ACCEPTED

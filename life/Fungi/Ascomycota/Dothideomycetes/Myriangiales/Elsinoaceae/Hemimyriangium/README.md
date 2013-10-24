@@ -1,5 +1,4 @@
-Hemimyriangium J. Reid & Piroz. GENUS
-=======
+# Hemimyriangium J. Reid & Piroz. GENUS
 
 #### Status
 ACCEPTED

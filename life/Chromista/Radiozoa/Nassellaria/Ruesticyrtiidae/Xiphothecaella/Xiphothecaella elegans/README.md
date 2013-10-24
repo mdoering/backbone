@@ -1,5 +1,4 @@
-Xiphothecaella elegans SPECIES
-=======
+# Xiphothecaella elegans SPECIES
 
 #### Status
 ACCEPTED

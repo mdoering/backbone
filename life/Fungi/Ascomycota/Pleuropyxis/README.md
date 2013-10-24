@@ -1,5 +1,4 @@
-Pleuropyxis Corda GENUS
-=======
+# Pleuropyxis Corda GENUS
 
 #### Status
 ACCEPTED

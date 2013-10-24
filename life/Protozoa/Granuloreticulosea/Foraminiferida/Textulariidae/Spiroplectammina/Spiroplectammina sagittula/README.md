@@ -1,8 +1,7 @@
-Textularia sagittula Defrance, 1824 SPECIES
-=======
+# Spiroplectammina sagittula (Defrance, 1824) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

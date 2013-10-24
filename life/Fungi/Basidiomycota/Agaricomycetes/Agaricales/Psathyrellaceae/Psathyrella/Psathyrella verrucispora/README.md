@@ -1,5 +1,4 @@
-Psathyrella verrucispora var. verrucispora VARIETY
-=======
+# Psathyrella verrucispora Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Gdns' Bull. , Singapore 45(2): 344 (1993)
 
 #### Original name
-Psathyrella verrucispora var. verrucispora
+Psathyrella verrucispora Corner
 
 ### Remarks
 null

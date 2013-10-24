@@ -1,5 +1,4 @@
-Collema byssaceum (Ach.) Röhl. SPECIES
-=======
+# Collema byssaceum (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

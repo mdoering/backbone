@@ -1,5 +1,4 @@
-Septoria lycopodina Lind SPECIES
-=======
+# Septoria lycopodina Lind SPECIES
 
 #### Status
 ACCEPTED

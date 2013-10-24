@@ -1,5 +1,4 @@
-Cortinarius argutipes Bidaud & Reumaux SPECIES
-=======
+# Cortinarius argutipes Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

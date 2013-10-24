@@ -1,5 +1,4 @@
-Pyrenochaeta pubescens Rostr. SPECIES
-=======
+# Pyrenochaeta pubescens Rostr. SPECIES
 
 #### Status
 ACCEPTED

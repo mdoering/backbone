@@ -1,5 +1,4 @@
-Micromonas GENUS
-=======
+# Micromonas GENUS
 
 #### Status
 ACCEPTED

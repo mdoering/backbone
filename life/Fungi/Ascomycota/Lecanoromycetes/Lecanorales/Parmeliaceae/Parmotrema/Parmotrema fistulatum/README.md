@@ -1,14 +1,13 @@
-Concamerella fistulata (Taylor) W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Parmotrema fistulatum (Taylor) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bryologist 84(3): 308 (1981)
+Mycologia 97(1): 157 (2005)
 
 #### Original name
 Parmelia fistulata Taylor

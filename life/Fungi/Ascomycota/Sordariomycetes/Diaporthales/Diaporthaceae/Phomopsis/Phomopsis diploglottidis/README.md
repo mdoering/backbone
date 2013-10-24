@@ -1,5 +1,4 @@
-Phomopsis diploglottidis Mutto {?} SPECIES
-=======
+# Phomopsis diploglottidis Mutto {?} SPECIES
 
 #### Status
 ACCEPTED

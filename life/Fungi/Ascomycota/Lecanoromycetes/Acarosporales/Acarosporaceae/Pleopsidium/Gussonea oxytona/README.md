@@ -1,5 +1,4 @@
-Gussonea oxytona (Ach.) SPECIES
-=======
+# Gussonea oxytona (Ach.) SPECIES
 
 #### Status
 ACCEPTED

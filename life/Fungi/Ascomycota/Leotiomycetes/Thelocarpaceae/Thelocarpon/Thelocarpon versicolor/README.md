@@ -1,5 +1,4 @@
-Thelocarpon versicolor Eitner SPECIES
-=======
+# Thelocarpon versicolor Eitner SPECIES
 
 #### Status
 ACCEPTED

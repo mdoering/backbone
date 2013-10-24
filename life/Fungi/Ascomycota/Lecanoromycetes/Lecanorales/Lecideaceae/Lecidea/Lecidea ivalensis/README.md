@@ -1,5 +1,4 @@
-Lecidea ivalensis Vain. SPECIES
-=======
+# Lecidea ivalensis Vain. SPECIES
 
 #### Status
 ACCEPTED

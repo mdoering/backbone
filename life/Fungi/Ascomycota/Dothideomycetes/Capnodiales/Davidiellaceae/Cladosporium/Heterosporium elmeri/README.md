@@ -1,5 +1,4 @@
-Heterosporium elmeri Syd. SPECIES
-=======
+# Heterosporium elmeri Syd. SPECIES
 
 #### Status
 ACCEPTED

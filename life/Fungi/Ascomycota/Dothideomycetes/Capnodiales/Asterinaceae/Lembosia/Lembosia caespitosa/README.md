@@ -1,5 +1,4 @@
-Lembosia caespitosa (Cooke) Sacc. SPECIES
-=======
+# Lembosia caespitosa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

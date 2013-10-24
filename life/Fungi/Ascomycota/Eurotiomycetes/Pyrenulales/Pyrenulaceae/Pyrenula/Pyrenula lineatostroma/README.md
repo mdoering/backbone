@@ -1,5 +1,4 @@
-Pyrenula lineatostroma Aptroot SPECIES
-=======
+# Pyrenula lineatostroma Aptroot SPECIES
 
 #### Status
 ACCEPTED

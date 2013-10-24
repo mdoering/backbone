@@ -1,17 +1,16 @@
-Cortinarius salicis-rosmarnifoliae Svrcek SPECIES
-=======
+# Cortinarius salicis-rosmarinifoliae Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Czech Mycol. 48(4): 304 (1996)
 
 #### Original name
-Cortinarius salicis-rosmarnifoliae Svrcek
+Cortinarius salicis-rosmarinifoliae Svrcek
 
 ### Remarks
 null

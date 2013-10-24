@@ -1,5 +1,4 @@
-Ericsonia occidentalis Black, 1964 SPECIES
-=======
+# Ericsonia occidentalis Black, 1964 SPECIES
 
 #### Status
 DOUBTFUL

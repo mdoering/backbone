@@ -1,17 +1,16 @@
-Mortierella polycephala var. angusta Linnem., 1941 VARIETY
-=======
+# Mortierella angusta Linnem., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mucor. -Gatt. Mortierella Coem. 29 (1941)
+Ber. naturw. -med. Ver. Innsbruck 53: 172 (1969)
 
 #### Original name
-Mortierella polycephala var. angusta Linnem., 1941
+Mortierella angusta Linnem., 1969
 
 ### Remarks
 null

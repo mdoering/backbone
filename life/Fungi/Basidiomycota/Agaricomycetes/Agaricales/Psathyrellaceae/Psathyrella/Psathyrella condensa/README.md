@@ -1,5 +1,4 @@
-Psathyrella condensa (Berk.) Manjula SPECIES
-=======
+# Psathyrella condensa (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

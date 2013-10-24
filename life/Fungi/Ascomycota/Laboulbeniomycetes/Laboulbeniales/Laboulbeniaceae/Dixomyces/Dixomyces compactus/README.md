@@ -1,5 +1,4 @@
-Dixomyces compactus (Thaxt.) Balazuc SPECIES
-=======
+# Dixomyces compactus (Thaxt.) Balazuc SPECIES
 
 #### Status
 ACCEPTED

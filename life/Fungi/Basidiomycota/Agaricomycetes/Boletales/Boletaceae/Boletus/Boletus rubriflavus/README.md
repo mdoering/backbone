@@ -1,5 +1,4 @@
-Boletus rubriflavus Corner SPECIES
-=======
+# Boletus rubriflavus Corner SPECIES
 
 #### Status
 ACCEPTED

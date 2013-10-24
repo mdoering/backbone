@@ -1,5 +1,4 @@
-Septoria ramonensis Syd. SPECIES
-=======
+# Septoria ramonensis Syd. SPECIES
 
 #### Status
 ACCEPTED

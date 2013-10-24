@@ -1,8 +1,7 @@
-Parmelia nigherrensis C.W. Dodge SPECIES
-=======
+# Parmelia nigeriensis C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia nigherrensis C.W. Dodge
+Parmelia nigeriensis C.W. Dodge
 
 ### Remarks
 null

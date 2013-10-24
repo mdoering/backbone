@@ -1,5 +1,4 @@
-Nectriopsis byssotecta (Rehm) Samuels SPECIES
-=======
+# Nectriopsis byssotecta (Rehm) Samuels SPECIES
 
 #### Status
 ACCEPTED

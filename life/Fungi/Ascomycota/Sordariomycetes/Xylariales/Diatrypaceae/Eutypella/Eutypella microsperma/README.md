@@ -1,5 +1,4 @@
-Eutypella microsperma P. Karst. & Malbr. SPECIES
-=======
+# Eutypella microsperma P. Karst. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

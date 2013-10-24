@@ -1,5 +1,4 @@
-Coniothyrium proteae-abyssinicae Bacc. SPECIES
-=======
+# Coniothyrium proteae-abyssinicae Bacc. SPECIES
 
 #### Status
 ACCEPTED

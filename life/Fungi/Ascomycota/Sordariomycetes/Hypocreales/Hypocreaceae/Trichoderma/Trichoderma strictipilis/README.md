@@ -1,5 +1,4 @@
-Trichoderma strictipilis Bissett SPECIES
-=======
+# Trichoderma strictipilis Bissett SPECIES
 
 #### Status
 ACCEPTED

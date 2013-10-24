@@ -1,5 +1,4 @@
-Bolivina nitida SPECIES
-=======
+# Bolivina nitida SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta microspila Pass. SPECIES
-=======
+# Phyllosticta microspila Pass. SPECIES
 
 #### Status
 ACCEPTED

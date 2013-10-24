@@ -1,5 +1,4 @@
-Mycovellosiella gentianae (Peck) U. Braun SPECIES
-=======
+# Mycovellosiella gentianae (Peck) U. Braun SPECIES
 
 #### Status
 ACCEPTED

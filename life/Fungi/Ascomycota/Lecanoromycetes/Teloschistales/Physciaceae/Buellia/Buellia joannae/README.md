@@ -1,5 +1,4 @@
-Buellia joannae (Hue) Darb. SPECIES
-=======
+# Buellia joannae (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

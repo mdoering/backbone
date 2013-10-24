@@ -1,17 +1,16 @@
-Helmisporium ficinum Sacc. SPECIES
-=======
+# Helminthosporium ficinum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Accad. Sci. Ven. -Trent. -Istr. 10: 90 (1917)
 
 #### Original name
-Helmisporium ficinum Sacc.
+Helminthosporium ficinum Sacc.
 
 ### Remarks
 null

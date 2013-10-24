@@ -1,5 +1,4 @@
-Leptosphaerulina guaranitica (Speg.) Wehm. SPECIES
-=======
+# Leptosphaerulina guaranitica (Speg.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

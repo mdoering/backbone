@@ -1,5 +1,4 @@
-Trypethelium oblitescens Stirt. SPECIES
-=======
+# Trypethelium oblitescens Stirt. SPECIES
 
 #### Status
 ACCEPTED

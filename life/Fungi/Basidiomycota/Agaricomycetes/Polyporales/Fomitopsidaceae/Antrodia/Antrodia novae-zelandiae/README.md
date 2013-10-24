@@ -1,17 +1,16 @@
-Antrodia novaezelandiae P.K. Buchanan & Ryvarden SPECIES
-=======
+# Antrodia novae-zelandiae P.K. Buchanan & Ryvarden, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 38(2): 251 (2000)
 
 #### Original name
-Antrodia novaezelandiae P.K. Buchanan & Ryvarden
+Antrodia novae-zelandiae P.K. Buchanan & Ryvarden, 2000
 
 ### Remarks
 null

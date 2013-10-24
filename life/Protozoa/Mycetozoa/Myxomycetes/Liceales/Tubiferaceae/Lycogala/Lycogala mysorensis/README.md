@@ -1,5 +1,4 @@
-Lycogala mysorensis (Agnihothr.) Agnihothr. SPECIES
-=======
+# Lycogala mysorensis (Agnihothr.) Agnihothr. SPECIES
 
 #### Status
 ACCEPTED

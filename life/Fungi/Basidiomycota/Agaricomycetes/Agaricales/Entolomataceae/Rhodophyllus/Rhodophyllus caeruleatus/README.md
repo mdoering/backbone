@@ -1,5 +1,4 @@
-Rhodophyllus caeruleatus Pat. SPECIES
-=======
+# Rhodophyllus caeruleatus Pat. SPECIES
 
 #### Status
 ACCEPTED

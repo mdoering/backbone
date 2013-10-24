@@ -1,5 +1,4 @@
-Erythrobacter luteolus Yoon et al., 2005 SPECIES
-=======
+# Erythrobacter luteolus Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

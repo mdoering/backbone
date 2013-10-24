@@ -1,5 +1,4 @@
-Synchytrium brassicae Pavgi & S.L. Singh SPECIES
-=======
+# Synchytrium brassicae Pavgi & S.L. Singh SPECIES
 
 #### Status
 ACCEPTED

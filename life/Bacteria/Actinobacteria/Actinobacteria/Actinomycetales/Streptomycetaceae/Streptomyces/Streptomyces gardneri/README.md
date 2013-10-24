@@ -1,11 +1,10 @@
-Proactinomyces gardneri Waksman in Waksman et al., 1942 SPECIES
-=======
+# Streptomyces gardneri (Waksman, 1942) Waksman, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

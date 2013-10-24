@@ -1,5 +1,4 @@
-Coleophoma gelsemii (Ellis & Everh.) Aa SPECIES
-=======
+# Coleophoma gelsemii (Ellis & Everh.) Aa SPECIES
 
 #### Status
 ACCEPTED

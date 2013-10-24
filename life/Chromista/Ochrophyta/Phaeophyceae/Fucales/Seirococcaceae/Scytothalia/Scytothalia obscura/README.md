@@ -1,5 +1,4 @@
-Scytothalia obscura Dickie SPECIES
-=======
+# Scytothalia obscura Dickie SPECIES
 
 #### Status
 ACCEPTED

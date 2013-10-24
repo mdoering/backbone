@@ -1,5 +1,4 @@
-Dermatea stegioides Speg. SPECIES
-=======
+# Dermatea stegioides Speg. SPECIES
 
 #### Status
 ACCEPTED

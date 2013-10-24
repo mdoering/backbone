@@ -1,5 +1,4 @@
-Senoniasphaera protrusa Clarke & Verdier, 1967 SPECIES
-=======
+# Senoniasphaera protrusa Clarke & Verdier, 1967 SPECIES
 
 #### Status
 ACCEPTED

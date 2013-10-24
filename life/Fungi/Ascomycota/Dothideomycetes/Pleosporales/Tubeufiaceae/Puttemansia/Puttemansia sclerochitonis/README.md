@@ -1,5 +1,4 @@
-Puttemansia sclerochitonis (Hansf.) Piroz. SPECIES
-=======
+# Puttemansia sclerochitonis (Hansf.) Piroz. SPECIES
 
 #### Status
 ACCEPTED

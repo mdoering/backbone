@@ -1,5 +1,4 @@
-Craterellus minimus Saut. SPECIES
-=======
+# Craterellus minimus Saut. SPECIES
 
 #### Status
 ACCEPTED

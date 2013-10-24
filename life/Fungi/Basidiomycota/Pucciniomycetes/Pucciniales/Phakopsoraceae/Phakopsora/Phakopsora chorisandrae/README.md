@@ -1,5 +1,4 @@
-Phakopsora chorisandrae T.S. Ramakr. & G.S. Reddy SPECIES
-=======
+# Phakopsora chorisandrae T.S. Ramakr. & G.S. Reddy SPECIES
 
 #### Status
 ACCEPTED

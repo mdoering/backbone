@@ -1,5 +1,4 @@
-Methylibium Nakatsu et al., 2006 GENUS
-=======
+# Methylibium Nakatsu et al., 2006 GENUS
 
 #### Status
 ACCEPTED

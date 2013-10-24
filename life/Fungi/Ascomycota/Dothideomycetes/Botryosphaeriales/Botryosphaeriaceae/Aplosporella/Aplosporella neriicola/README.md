@@ -1,5 +1,4 @@
-Aplosporella neriicola Kalani SPECIES
-=======
+# Aplosporella neriicola Kalani SPECIES
 
 #### Status
 ACCEPTED

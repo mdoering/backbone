@@ -1,14 +1,13 @@
-Hypodermella richeae Petr., 1954 SPECIES
-=======
+# Meloderma richeae (Petr.) Parbery & Minter, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 8(1-6): 207 (1954)
+in Minter & Hettige, N. Z. Jl Bot. 21(1): 43 (1983)
 
 #### Original name
 Hypodermella richeae Petr., 1954

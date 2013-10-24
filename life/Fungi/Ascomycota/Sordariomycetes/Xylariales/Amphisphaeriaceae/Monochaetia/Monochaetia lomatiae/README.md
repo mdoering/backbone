@@ -1,5 +1,4 @@
-Monochaetia lomatiae McAlpine SPECIES
-=======
+# Monochaetia lomatiae McAlpine SPECIES
 
 #### Status
 ACCEPTED

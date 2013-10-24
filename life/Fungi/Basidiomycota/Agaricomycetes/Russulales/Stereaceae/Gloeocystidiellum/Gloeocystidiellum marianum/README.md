@@ -1,17 +1,16 @@
-Gloeocystidiellum marianus Burds., Nakasone & G.W. Freeman SPECIES
-=======
+# Gloeocystidiellum marianum Burds., Nakasone & G.W. Freeman, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. Bot. 6(4): 422 (1981)
 
 #### Original name
-Gloeocystidiellum marianus Burds., Nakasone & G.W. Freeman
+Gloeocystidiellum marianum Burds., Nakasone & G.W. Freeman, 1981
 
 ### Remarks
 null

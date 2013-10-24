@@ -1,5 +1,4 @@
-Gloeosporium betularum Ellis & G. Martin SPECIES
-=======
+# Gloeosporium betularum Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

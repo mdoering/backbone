@@ -1,5 +1,4 @@
-Lactarius coccolobae O.K. Mill. & Lodge SPECIES
-=======
+# Lactarius coccolobae O.K. Mill. & Lodge SPECIES
 
 #### Status
 ACCEPTED

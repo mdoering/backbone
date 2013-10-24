@@ -1,5 +1,4 @@
-Zonaria aureomarginata J. A. Phillips & W. A. Nelson SPECIES
-=======
+# Zonaria aureomarginata J. A. Phillips & W. A. Nelson SPECIES
 
 #### Status
 ACCEPTED

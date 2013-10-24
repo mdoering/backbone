@@ -1,5 +1,4 @@
-Gymnodinium guttiforme J. Larsen SPECIES
-=======
+# Gymnodinium guttiforme J. Larsen SPECIES
 
 #### Status
 ACCEPTED

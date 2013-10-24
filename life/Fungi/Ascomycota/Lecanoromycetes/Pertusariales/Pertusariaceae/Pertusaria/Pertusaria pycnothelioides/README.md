@@ -1,5 +1,4 @@
-Pertusaria pycnothelioides Vain. SPECIES
-=======
+# Pertusaria pycnothelioides Vain. SPECIES
 
 #### Status
 ACCEPTED

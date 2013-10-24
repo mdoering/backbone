@@ -1,5 +1,4 @@
-Aspergillus noelting Hallier SPECIES
-=======
+# Aspergillus noelting Hallier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caseobacter polymorphus Crombach, 1978 SPECIES
-=======
+# Caseobacter polymorphus Crombach, 1978 SPECIES
 
 #### Status
 ACCEPTED

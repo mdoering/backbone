@@ -1,5 +1,4 @@
-Hydrocybe cremicolor Murrill SPECIES
-=======
+# Hydrocybe cremicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

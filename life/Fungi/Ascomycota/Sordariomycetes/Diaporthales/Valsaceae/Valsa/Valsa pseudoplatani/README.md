@@ -1,5 +1,4 @@
-Valsa pseudoplatani (Fr.) Nitschke SPECIES
-=======
+# Valsa pseudoplatani (Fr.) Nitschke SPECIES
 
 #### Status
 ACCEPTED

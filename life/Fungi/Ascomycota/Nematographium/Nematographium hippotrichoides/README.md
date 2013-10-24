@@ -1,14 +1,13 @@
-Graphium hippotrichoides (J. Lindau) Sacc. SPECIES
-=======
+# Nematographium hippotrichoides (Lind) Goid., 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annali Bot. , Roma 21(1): 46 (1935)
 
 #### Original name
 Clavularia hippotrichoides Lindau, 1909

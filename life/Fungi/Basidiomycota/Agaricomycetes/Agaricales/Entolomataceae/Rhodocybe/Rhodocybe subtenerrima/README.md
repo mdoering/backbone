@@ -1,5 +1,4 @@
-Rhodocybe subtenerrima (Murrill) Singer SPECIES
-=======
+# Rhodocybe subtenerrima (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

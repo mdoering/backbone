@@ -1,11 +1,10 @@
-Streptococcus zooepidemicus Frost & Englebrecht, 1936 SPECIES
-=======
+# Streptococcus equi Sand & Jensen, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

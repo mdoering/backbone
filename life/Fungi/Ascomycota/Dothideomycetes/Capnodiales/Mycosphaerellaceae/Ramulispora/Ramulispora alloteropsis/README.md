@@ -1,5 +1,4 @@
-Ramulispora alloteropsis Thirum. & Naras., 1950 SPECIES
-=======
+# Ramulispora alloteropsis Thirum. & Naras., 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapellaria malmei R. Sant. SPECIES
-=======
+# Tapellaria malmei R. Sant. SPECIES
 
 #### Status
 ACCEPTED

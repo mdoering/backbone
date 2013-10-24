@@ -1,5 +1,4 @@
-Polyporus formatus Britzelm. SPECIES
-=======
+# Polyporus formatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe veneta Sacc. & Speg. SPECIES
-=======
+# Diaporthe veneta Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

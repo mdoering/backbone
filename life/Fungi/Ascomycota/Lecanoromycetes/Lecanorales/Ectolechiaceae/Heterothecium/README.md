@@ -1,5 +1,4 @@
-Heterothecium GENUS
-=======
+# Heterothecium GENUS
 
 #### Status
 ACCEPTED

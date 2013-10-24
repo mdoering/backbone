@@ -1,5 +1,4 @@
-Dicaeoma epilobii-tetragoni (DC.) Arthur SPECIES
-=======
+# Dicaeoma epilobii-tetragoni (DC.) Arthur SPECIES
 
 #### Status
 ACCEPTED

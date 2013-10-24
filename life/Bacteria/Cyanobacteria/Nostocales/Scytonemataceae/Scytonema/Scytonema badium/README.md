@@ -1,5 +1,4 @@
-Scytonema badium Wolle SPECIES
-=======
+# Scytonema badium Wolle SPECIES
 
 #### Status
 ACCEPTED

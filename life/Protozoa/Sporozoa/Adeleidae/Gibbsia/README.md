@@ -1,5 +1,4 @@
-Gibbsia Levine, 1986 GENUS
-=======
+# Gibbsia Levine, 1986 GENUS
 
 #### Status
 ACCEPTED

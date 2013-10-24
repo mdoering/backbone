@@ -1,5 +1,4 @@
-Peziza melaleucoides Seaver SPECIES
-=======
+# Peziza melaleucoides Seaver SPECIES
 
 #### Status
 ACCEPTED

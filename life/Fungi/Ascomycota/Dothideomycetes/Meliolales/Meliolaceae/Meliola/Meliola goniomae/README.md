@@ -1,5 +1,4 @@
-Meliola goniomae (Doidge) Doidge SPECIES
-=======
+# Meliola goniomae (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

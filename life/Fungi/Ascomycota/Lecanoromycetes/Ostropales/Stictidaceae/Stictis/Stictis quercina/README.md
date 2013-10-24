@@ -1,5 +1,4 @@
-Stictis quercina Peck SPECIES
-=======
+# Stictis quercina Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora pallida Schrank SPECIES
-=======
+# Octospora pallida Schrank SPECIES
 
 #### Status
 ACCEPTED

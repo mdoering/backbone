@@ -1,5 +1,4 @@
-Psathyrella pseudolactea A.H. Sm. SPECIES
-=======
+# Psathyrella pseudolactea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

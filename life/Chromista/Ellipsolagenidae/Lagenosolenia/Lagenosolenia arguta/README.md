@@ -1,5 +1,4 @@
-Lagenosolenia arguta McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia arguta McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

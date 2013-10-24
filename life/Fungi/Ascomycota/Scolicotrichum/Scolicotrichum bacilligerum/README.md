@@ -1,5 +1,4 @@
-Scolicotrichum bacilligerum (Mont. & Fr.) J. Schröt. SPECIES
-=======
+# Scolicotrichum bacilligerum (Mont. & Fr.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

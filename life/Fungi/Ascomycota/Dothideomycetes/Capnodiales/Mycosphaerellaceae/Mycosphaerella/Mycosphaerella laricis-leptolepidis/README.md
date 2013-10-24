@@ -1,17 +1,16 @@
-Phoma yano-kubotae Kitaj. SPECIES
-=======
+# Mycosphaerella laricis-leptolepidis Kaz. Itô, K. Sato & M. Ota, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Govt Forest Exp. Stn Meguro 96: 84 (1957)
 
 #### Original name
-Phoma yano-kubotae Kitaj.
+Mycosphaerella laricis-leptolepidis Kaz. Itô, K. Sato & M. Ota, 1957
 
 ### Remarks
 null

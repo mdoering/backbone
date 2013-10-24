@@ -1,17 +1,16 @@
-Orbilia cardui var. cardui VARIETY
-=======
+# Orbilia rectispora (Boud.) Baral, 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Liu, Liu, Zhuang & Baral, Fungal Diversity 22: 117 (2006)
 
 #### Original name
-Orbilia cardui var. cardui
+Hyalinia rectispora Boud., 1907
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Guignardia garciniae I. Hino & Katum. SPECIES
-=======
+# Guignardia garciniae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

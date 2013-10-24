@@ -1,5 +1,4 @@
-Meliola acaciae-confusae Sawada SPECIES
-=======
+# Meliola acaciae-confusae Sawada SPECIES
 
 #### Status
 ACCEPTED

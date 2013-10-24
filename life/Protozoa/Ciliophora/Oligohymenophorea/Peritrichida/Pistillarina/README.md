@@ -1,5 +1,4 @@
-Pistillarina Dumas, 1929 GENUS
-=======
+# Pistillarina Dumas, 1929 GENUS
 
 #### Status
 ACCEPTED

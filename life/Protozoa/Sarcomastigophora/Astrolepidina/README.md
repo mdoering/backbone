@@ -1,5 +1,4 @@
-Astrolepidina Loeblich & Tappan, 1988 GENUS
-=======
+# Astrolepidina Loeblich & Tappan, 1988 GENUS
 
 #### Status
 ACCEPTED

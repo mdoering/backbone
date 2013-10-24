@@ -1,5 +1,4 @@
-Phyllosticta rhynchosiae Miles SPECIES
-=======
+# Phyllosticta rhynchosiae Miles SPECIES
 
 #### Status
 ACCEPTED

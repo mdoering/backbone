@@ -1,5 +1,4 @@
-Brevilegnia parvispora Höhnk SPECIES
-=======
+# Brevilegnia parvispora Höhnk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita coacta Bas SPECIES
-=======
+# Amanita coacta Bas SPECIES
 
 #### Status
 ACCEPTED

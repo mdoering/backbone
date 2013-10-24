@@ -1,5 +1,4 @@
-Storeatula major D. R. A. Hill SPECIES
-=======
+# Storeatula major D. R. A. Hill SPECIES
 
 #### Status
 ACCEPTED

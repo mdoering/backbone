@@ -1,5 +1,4 @@
-Miuraea persica (Sacc.) Hara SPECIES
-=======
+# Miuraea persica (Sacc.) Hara SPECIES
 
 #### Status
 ACCEPTED

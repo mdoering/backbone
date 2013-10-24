@@ -1,5 +1,4 @@
-Prunulus GENUS
-=======
+# Prunulus GENUS
 
 #### Status
 ACCEPTED

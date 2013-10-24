@@ -1,5 +1,4 @@
-Dicaeoma schlechteri (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma schlechteri (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma farisii Cif. SPECIES
-=======
+# Entyloma farisii Cif. SPECIES
 
 #### Status
 ACCEPTED

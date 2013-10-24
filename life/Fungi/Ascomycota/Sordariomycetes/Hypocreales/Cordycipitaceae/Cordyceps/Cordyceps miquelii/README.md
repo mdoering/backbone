@@ -1,5 +1,4 @@
-Cordyceps miquelii (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Cordyceps miquelii (Tul. & C. Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora catalparum Chupp SPECIES
-=======
+# Cercospora catalparum Chupp SPECIES
 
 #### Status
 ACCEPTED

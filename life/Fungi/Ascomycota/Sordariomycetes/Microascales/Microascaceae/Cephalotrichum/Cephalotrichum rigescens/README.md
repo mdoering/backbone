@@ -1,5 +1,4 @@
-Cephalotrichum rigescens Link SPECIES
-=======
+# Cephalotrichum rigescens Link SPECIES
 
 #### Status
 ACCEPTED

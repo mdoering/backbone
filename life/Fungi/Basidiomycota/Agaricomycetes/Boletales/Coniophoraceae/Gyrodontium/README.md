@@ -1,5 +1,4 @@
-Gyrodontium Pat. GENUS
-=======
+# Gyrodontium Pat. GENUS
 
 #### Status
 ACCEPTED

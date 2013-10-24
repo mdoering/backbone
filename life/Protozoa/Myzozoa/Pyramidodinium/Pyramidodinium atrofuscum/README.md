@@ -1,5 +1,4 @@
-Pyramidodinium atrofuscum Horiguchi & Sukigara, 2005 SPECIES
-=======
+# Pyramidodinium atrofuscum Horiguchi & Sukigara, 2005 SPECIES
 
 #### Status
 ACCEPTED

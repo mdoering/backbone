@@ -1,5 +1,4 @@
-Sphaerella hypostomatica (Höhn.) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaerella hypostomatica (Höhn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

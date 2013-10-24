@@ -1,17 +1,16 @@
-Tricellulortus Matsush. GENUS
-=======
+# Minimedusa Weresub & P.M. LeClair, 1971 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Matsush. Mycol. Mem. 8: 39 (1995)
+null
 
 #### Original name
-Tricellulortus Matsush.
+null
 
 ### Remarks
 null

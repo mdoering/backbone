@@ -1,5 +1,4 @@
-Cercospora singaporensis J.M. Yen SPECIES
-=======
+# Cercospora singaporensis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

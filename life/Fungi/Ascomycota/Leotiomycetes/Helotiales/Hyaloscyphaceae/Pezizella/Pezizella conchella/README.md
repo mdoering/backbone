@@ -1,5 +1,4 @@
-Pezizella conchella (Schwein.) Sacc. SPECIES
-=======
+# Pezizella conchella (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

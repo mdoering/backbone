@@ -1,5 +1,4 @@
-Villosacapsula steemansii Le Hérissé, 2002 SPECIES
-=======
+# Villosacapsula steemansii Le Hérissé, 2002 SPECIES
 
 #### Status
 ACCEPTED

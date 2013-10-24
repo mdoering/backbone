@@ -1,5 +1,4 @@
-Pyricularia penniseti Prasada & Goyal, 1970 SPECIES
-=======
+# Pyricularia penniseti Prasada & Goyal, 1970 SPECIES
 
 #### Status
 ACCEPTED

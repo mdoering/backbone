@@ -1,5 +1,4 @@
-Acanthostigma pygmaeum (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Acanthostigma pygmaeum (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella citrina Faurel & Schotter SPECIES
-=======
+# Volutella citrina Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

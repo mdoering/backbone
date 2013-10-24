@@ -1,17 +1,16 @@
-Belonopsis lacustris var. lacustris VARIETY
-=======
+# Niptera lacustris (Fr.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 359 (1849)
 
 #### Original name
-Belonopsis lacustris var. lacustris
+Peziza lacustris Fr.
 
 ### Remarks
 null

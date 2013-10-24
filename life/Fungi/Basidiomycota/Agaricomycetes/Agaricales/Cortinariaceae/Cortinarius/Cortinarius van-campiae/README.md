@@ -1,5 +1,4 @@
-Cortinarius van-campiae Consiglio SPECIES
-=======
+# Cortinarius van-campiae Consiglio SPECIES
 
 #### Status
 ACCEPTED

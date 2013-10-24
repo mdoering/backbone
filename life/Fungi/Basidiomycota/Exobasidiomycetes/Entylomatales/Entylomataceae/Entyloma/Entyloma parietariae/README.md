@@ -1,5 +1,4 @@
-Entyloma parietariae Rayss, 1952 SPECIES
-=======
+# Entyloma parietariae Rayss, 1952 SPECIES
 
 #### Status
 ACCEPTED

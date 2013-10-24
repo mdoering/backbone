@@ -1,5 +1,4 @@
-Colletotrichum ajugae Siemaszko SPECIES
-=======
+# Colletotrichum ajugae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

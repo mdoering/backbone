@@ -1,5 +1,4 @@
-Pleurocapsa gallaecica Miranda ex Valenzuela & Pérez-Cirera, 1982 SPECIES
-=======
+# Pleurocapsa gallaecica Miranda ex Valenzuela & Pérez-Cirera, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asanoina Finlay, 1939 GENUS
-=======
+# Asanoina Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

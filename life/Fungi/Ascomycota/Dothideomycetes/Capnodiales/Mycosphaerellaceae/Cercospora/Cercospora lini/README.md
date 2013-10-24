@@ -1,5 +1,4 @@
-Cercospora lini Ellis & Everh. SPECIES
-=======
+# Cercospora lini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

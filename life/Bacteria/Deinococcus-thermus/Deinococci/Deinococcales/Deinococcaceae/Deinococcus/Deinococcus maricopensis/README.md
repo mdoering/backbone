@@ -1,5 +1,4 @@
-Deinococcus maricopensis Rainey & da Costa, 2005 SPECIES
-=======
+# Deinococcus maricopensis Rainey & da Costa, 2005 SPECIES
 
 #### Status
 ACCEPTED

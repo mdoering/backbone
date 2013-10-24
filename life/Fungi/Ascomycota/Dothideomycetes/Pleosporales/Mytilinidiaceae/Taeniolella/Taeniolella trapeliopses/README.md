@@ -1,5 +1,4 @@
-Taeniolella trapeliopses Diederich SPECIES
-=======
+# Taeniolella trapeliopses Diederich SPECIES
 
 #### Status
 ACCEPTED

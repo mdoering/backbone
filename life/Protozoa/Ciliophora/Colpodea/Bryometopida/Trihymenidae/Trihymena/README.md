@@ -1,5 +1,4 @@
-Trihymena Foissner, 1988 GENUS
-=======
+# Trihymena Foissner, 1988 GENUS
 
 #### Status
 ACCEPTED

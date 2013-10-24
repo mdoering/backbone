@@ -1,5 +1,4 @@
-Xyloma ligustrinae Schwein. SPECIES
-=======
+# Xyloma ligustrinae Schwein. SPECIES
 
 #### Status
 ACCEPTED

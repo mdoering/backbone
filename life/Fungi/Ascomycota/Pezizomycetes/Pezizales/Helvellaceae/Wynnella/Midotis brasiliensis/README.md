@@ -1,5 +1,4 @@
-Midotis brasiliensis Rick SPECIES
-=======
+# Midotis brasiliensis Rick SPECIES
 
 #### Status
 ACCEPTED

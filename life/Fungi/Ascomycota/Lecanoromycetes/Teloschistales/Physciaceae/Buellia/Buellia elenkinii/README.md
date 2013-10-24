@@ -1,5 +1,4 @@
-Buellia elenkinii Tomin SPECIES
-=======
+# Buellia elenkinii Tomin SPECIES
 
 #### Status
 ACCEPTED

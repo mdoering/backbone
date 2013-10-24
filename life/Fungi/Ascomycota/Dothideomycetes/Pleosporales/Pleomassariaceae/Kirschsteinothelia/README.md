@@ -1,5 +1,4 @@
-Kirschsteinothelia GENUS
-=======
+# Kirschsteinothelia GENUS
 
 #### Status
 ACCEPTED

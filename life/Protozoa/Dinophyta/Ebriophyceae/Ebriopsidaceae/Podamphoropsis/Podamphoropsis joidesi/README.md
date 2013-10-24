@@ -1,5 +1,4 @@
-Podamphoropsis joidesi P. Dumitrica SPECIES
-=======
+# Podamphoropsis joidesi P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora lithospermi Chupp & H.C. Greene SPECIES
-=======
+# Cercospora lithospermi Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

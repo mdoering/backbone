@@ -1,5 +1,4 @@
-Agaricus discolor Peck SPECIES
-=======
+# Agaricus discolor Peck SPECIES
 
 #### Status
 ACCEPTED

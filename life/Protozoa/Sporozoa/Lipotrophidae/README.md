@@ -1,5 +1,4 @@
-Lipotrophidae FAMILY
-=======
+# Lipotrophidae FAMILY
 
 #### Status
 ACCEPTED

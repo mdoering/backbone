@@ -1,14 +1,13 @@
-Cercospora rhois E. Castell., 1942 SPECIES
-=======
+# Passalora rhois (E. Castell.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Special Publication College of Agriculture, National Taiwan University 8: 225 (1942)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 353 (2003)
 
 #### Original name
 Cercospora rhois E. Castell., 1942

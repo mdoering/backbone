@@ -1,5 +1,4 @@
-Myxococcus fulvus (Cohn, 1875) Jahn, 1911 (Approved Lists, 1980) SPECIES
-=======
+# Myxococcus fulvus (Cohn, 1875) Jahn, 1911 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

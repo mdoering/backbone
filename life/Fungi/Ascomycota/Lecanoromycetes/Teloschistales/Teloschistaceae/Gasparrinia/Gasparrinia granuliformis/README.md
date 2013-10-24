@@ -1,5 +1,4 @@
-Gasparrinia granuliformis (Vain.) C.W. Dodge SPECIES
-=======
+# Gasparrinia granuliformis (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

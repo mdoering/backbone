@@ -1,5 +1,4 @@
-Buellia haemosticta SPECIES
-=======
+# Buellia haemosticta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cupaniae Syd. SPECIES
-=======
+# Cercospora cupaniae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces evastigatus Cummins SPECIES
-=======
+# Uromyces evastigatus Cummins SPECIES
 
 #### Status
 ACCEPTED

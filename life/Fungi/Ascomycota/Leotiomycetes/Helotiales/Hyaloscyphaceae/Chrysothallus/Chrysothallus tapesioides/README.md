@@ -1,5 +1,4 @@
-Chrysothallus tapesioides Velen. SPECIES
-=======
+# Chrysothallus tapesioides Velen. SPECIES
 
 #### Status
 ACCEPTED

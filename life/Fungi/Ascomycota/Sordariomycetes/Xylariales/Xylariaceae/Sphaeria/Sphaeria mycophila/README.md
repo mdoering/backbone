@@ -1,5 +1,4 @@
-Sphaeria mycophila Fr. SPECIES
-=======
+# Sphaeria mycophila Fr. SPECIES
 
 #### Status
 ACCEPTED

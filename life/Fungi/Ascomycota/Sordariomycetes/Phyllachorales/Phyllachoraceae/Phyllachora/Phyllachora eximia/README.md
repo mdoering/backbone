@@ -1,17 +1,16 @@
-Phyllachora gracilis Speg., 1888 SPECIES
-=======
+# Phyllachora eximia Syd. & P. Syd., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 26: 38 (1888)
+Annls mycol. 2: 163 (1904)
 
 #### Original name
-Phyllachora gracilis Speg., 1888
+Phyllachora eximia Syd. & P. Syd., 1904
 
 ### Remarks
 null

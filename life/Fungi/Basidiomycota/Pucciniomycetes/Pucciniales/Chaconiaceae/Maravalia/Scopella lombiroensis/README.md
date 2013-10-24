@@ -1,5 +1,4 @@
-Scopella lombiroensis Bouriquet & Bassino SPECIES
-=======
+# Scopella lombiroensis Bouriquet & Bassino SPECIES
 
 #### Status
 ACCEPTED

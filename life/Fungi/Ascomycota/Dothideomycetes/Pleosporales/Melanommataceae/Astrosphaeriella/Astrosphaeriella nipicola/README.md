@@ -1,14 +1,13 @@
-Astrosphaeriella nipaecola (Cooke & Massee) K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Astrosphaeriella nipicola (Cooke & Massee) K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 50(1): 108 (1998)
 
 #### Original name
 Melanopsamma nipicola Cooke & Massee

@@ -1,5 +1,4 @@
-Nigredo uniporula (F. Kern) Arthur SPECIES
-=======
+# Nigredo uniporula (F. Kern) Arthur SPECIES
 
 #### Status
 ACCEPTED

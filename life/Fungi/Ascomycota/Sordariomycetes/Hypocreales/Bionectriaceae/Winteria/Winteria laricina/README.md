@@ -1,5 +1,4 @@
-Winteria laricina Höhn. SPECIES
-=======
+# Winteria laricina Höhn. SPECIES
 
 #### Status
 ACCEPTED

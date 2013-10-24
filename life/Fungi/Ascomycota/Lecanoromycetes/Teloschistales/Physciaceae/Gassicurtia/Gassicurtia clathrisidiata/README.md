@@ -1,5 +1,4 @@
-Gassicurtia clathrisidiata Aptroot SPECIES
-=======
+# Gassicurtia clathrisidiata Aptroot SPECIES
 
 #### Status
 ACCEPTED

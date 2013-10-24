@@ -1,5 +1,4 @@
-Collybia alpicola (Bon & Ballarà) Bon SPECIES
-=======
+# Collybia alpicola (Bon & Ballarà) Bon SPECIES
 
 #### Status
 ACCEPTED

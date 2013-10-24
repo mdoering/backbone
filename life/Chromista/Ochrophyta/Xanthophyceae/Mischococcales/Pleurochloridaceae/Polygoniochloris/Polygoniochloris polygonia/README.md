@@ -1,5 +1,4 @@
-Polygoniochloris polygonia (Pascher) Ettl SPECIES
-=======
+# Polygoniochloris polygonia (Pascher) Ettl SPECIES
 
 #### Status
 ACCEPTED

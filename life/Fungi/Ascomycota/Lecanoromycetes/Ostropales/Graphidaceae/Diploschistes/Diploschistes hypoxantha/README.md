@@ -1,5 +1,4 @@
-Diploschistes hypoxantha (Lettau) Fóriss SPECIES
-=======
+# Diploschistes hypoxantha (Lettau) Fóriss SPECIES
 
 #### Status
 ACCEPTED

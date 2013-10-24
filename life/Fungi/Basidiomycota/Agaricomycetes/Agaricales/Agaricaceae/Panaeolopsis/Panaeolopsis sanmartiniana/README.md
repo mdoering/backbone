@@ -1,5 +1,4 @@
-Panaeolopsis sanmartiniana Singer, 1969 SPECIES
-=======
+# Panaeolopsis sanmartiniana Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

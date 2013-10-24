@@ -1,5 +1,4 @@
-Phlegmacium nebulare (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium nebulare (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

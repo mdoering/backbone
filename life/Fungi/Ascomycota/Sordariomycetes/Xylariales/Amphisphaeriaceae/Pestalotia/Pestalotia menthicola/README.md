@@ -1,5 +1,4 @@
-Pestalotia menthicola Urries SPECIES
-=======
+# Pestalotia menthicola Urries SPECIES
 
 #### Status
 ACCEPTED

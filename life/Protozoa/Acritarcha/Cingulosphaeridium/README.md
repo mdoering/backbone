@@ -1,5 +1,4 @@
-Cingulosphaeridium A.S. Lopuchin in M.I. Neustadt, 1966 GENUS
-=======
+# Cingulosphaeridium A.S. Lopuchin in M.I. Neustadt, 1966 GENUS
 
 #### Status
 ACCEPTED

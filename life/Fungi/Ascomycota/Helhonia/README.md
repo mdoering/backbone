@@ -1,5 +1,4 @@
-Helhonia B. Sutton GENUS
-=======
+# Helhonia B. Sutton GENUS
 
 #### Status
 ACCEPTED

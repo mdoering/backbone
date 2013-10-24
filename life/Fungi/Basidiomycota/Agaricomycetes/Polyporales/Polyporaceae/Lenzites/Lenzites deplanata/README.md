@@ -1,5 +1,4 @@
-Lenzites deplanata Fr. SPECIES
-=======
+# Lenzites deplanata Fr. SPECIES
 
 #### Status
 ACCEPTED

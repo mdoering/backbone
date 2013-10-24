@@ -1,5 +1,4 @@
-Aulacoseira solida (Eulenstein) K. Krammer SPECIES
-=======
+# Aulacoseira solida (Eulenstein) K. Krammer SPECIES
 
 #### Status
 ACCEPTED

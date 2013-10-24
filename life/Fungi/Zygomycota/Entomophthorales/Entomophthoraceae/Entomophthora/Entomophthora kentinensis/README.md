@@ -1,5 +1,4 @@
-Entomophthora kentinensis Wu & Liu SPECIES
-=======
+# Entomophthora kentinensis Wu & Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilaginoidea reticulata (Speg.) Zundel SPECIES
-=======
+# Ustilaginoidea reticulata (Speg.) Zundel SPECIES
 
 #### Status
 ACCEPTED

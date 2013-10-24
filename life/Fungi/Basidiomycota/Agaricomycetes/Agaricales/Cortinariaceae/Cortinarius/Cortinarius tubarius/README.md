@@ -1,17 +1,16 @@
-Cortinarius tubarius var. tubarius VARIETY
-=======
+# Cortinarius tubarius Ammirati & A.H. Sm., 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michigan Bot. 11(1): 22 (1972)
 
 #### Original name
-Cortinarius tubarius var. tubarius
+Cortinarius tubarius Ammirati & A.H. Sm., 1972
 
 ### Remarks
 null

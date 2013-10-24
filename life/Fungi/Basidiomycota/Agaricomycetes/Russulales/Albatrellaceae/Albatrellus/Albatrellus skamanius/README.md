@@ -1,17 +1,16 @@
-Xeroceps skamania (Murrill) Audet, 2010 SPECIES
-=======
+# Albatrellus skamanius (Murrill) Pouzar, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 26: 199 (1972)
 
 #### Original name
-null
+Scutiger skamanius Murrill, 1946
 
 ### Remarks
 null

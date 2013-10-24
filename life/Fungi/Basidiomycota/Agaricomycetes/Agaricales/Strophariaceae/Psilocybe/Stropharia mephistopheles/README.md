@@ -1,5 +1,4 @@
-Stropharia mephistopheles (Cooke) Sacc. SPECIES
-=======
+# Stropharia mephistopheles (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina laurencia Giesenh. SPECIES
-=======
+# Taphrina laurencia Giesenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parastrongylidium pyriformis SPECIES
-=======
+# Parastrongylidium pyriformis SPECIES
 
 #### Status
 ACCEPTED

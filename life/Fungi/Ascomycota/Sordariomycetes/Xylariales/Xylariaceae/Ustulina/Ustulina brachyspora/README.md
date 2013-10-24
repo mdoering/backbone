@@ -1,5 +1,4 @@
-Ustulina brachyspora Speg. SPECIES
-=======
+# Ustulina brachyspora Speg. SPECIES
 
 #### Status
 ACCEPTED

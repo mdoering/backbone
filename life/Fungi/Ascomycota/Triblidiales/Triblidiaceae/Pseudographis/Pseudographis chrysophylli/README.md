@@ -1,5 +1,4 @@
-Pseudographis chrysophylli Doidge SPECIES
-=======
+# Pseudographis chrysophylli Doidge SPECIES
 
 #### Status
 ACCEPTED

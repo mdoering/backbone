@@ -1,5 +1,4 @@
-Arctosporidium Thor GENUS
-=======
+# Arctosporidium Thor GENUS
 
 #### Status
 ACCEPTED

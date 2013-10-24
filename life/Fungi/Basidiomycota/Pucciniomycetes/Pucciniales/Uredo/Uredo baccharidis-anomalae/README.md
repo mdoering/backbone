@@ -1,5 +1,4 @@
-Uredo baccharidis-anomalae Mayor SPECIES
-=======
+# Uredo baccharidis-anomalae Mayor SPECIES
 
 #### Status
 ACCEPTED

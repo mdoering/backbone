@@ -1,5 +1,4 @@
-Ripartites albidoincarnatus (Britzelm.) Konrad & Maubl. SPECIES
-=======
+# Ripartites albidoincarnatus (Britzelm.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

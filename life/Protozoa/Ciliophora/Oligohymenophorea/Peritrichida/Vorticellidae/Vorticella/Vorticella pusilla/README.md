@@ -1,5 +1,4 @@
-Vorticella pusilla Stokes, 1887 SPECIES
-=======
+# Vorticella pusilla Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seirophora californica (Sipman) Frödén SPECIES
-=======
+# Seirophora californica (Sipman) Frödén SPECIES
 
 #### Status
 ACCEPTED

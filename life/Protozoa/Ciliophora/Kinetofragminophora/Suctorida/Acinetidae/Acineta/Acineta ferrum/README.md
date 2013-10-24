@@ -1,5 +1,4 @@
-Acineta ferrum subsp. ferrum Ehrenberg, 1840 SUBSPECIES
-=======
+# Acineta ferrum Ehrenberg, 1840 SPECIES
 
 #### Status
 ACCEPTED

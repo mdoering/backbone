@@ -1,5 +1,4 @@
-Bacillina GENUS
-=======
+# Bacillina GENUS
 
 #### Status
 ACCEPTED

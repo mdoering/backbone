@@ -1,5 +1,4 @@
-Rhizophydium ellipsoidium (M. Ôkubo & Kobayasi) Karling SPECIES
-=======
+# Rhizophydium ellipsoidium (M. Ôkubo & Kobayasi) Karling SPECIES
 
 #### Status
 ACCEPTED

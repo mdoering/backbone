@@ -1,14 +1,13 @@
-Lingulodinium machaerophorum (Deflandre & Cookson) Wall, 1967 SPECIES
-=======
+# Lingulodinium polyedrum (Stein) J. D. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
-null
+Stein F. R. von 1883. Der Organismus der Infusionstiere. III Abth. Der Organismus der Arthrodelen Flagellaten. Einleitung und Erklarüng der Abbildungen. II Hälfte: 23-26.
 
 #### Original name
 null

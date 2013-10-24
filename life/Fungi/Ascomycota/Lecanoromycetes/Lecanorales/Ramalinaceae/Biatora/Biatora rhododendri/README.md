@@ -1,5 +1,4 @@
-Biatora rhododendri (Hepp) Arnold SPECIES
-=======
+# Biatora rhododendri (Hepp) Arnold SPECIES
 
 #### Status
 ACCEPTED

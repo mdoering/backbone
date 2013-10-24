@@ -1,5 +1,4 @@
-Lecanora endophaea Nyl. SPECIES
-=======
+# Lecanora endophaea Nyl. SPECIES
 
 #### Status
 ACCEPTED

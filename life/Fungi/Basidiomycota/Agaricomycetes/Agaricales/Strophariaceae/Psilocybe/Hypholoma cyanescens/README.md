@@ -1,5 +1,4 @@
-Hypholoma cyanescens Maire SPECIES
-=======
+# Hypholoma cyanescens Maire SPECIES
 
 #### Status
 ACCEPTED

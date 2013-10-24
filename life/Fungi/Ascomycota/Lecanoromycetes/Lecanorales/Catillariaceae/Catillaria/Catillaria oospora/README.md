@@ -1,5 +1,4 @@
-Catillaria oospora Vain. SPECIES
-=======
+# Catillaria oospora Vain. SPECIES
 
 #### Status
 ACCEPTED

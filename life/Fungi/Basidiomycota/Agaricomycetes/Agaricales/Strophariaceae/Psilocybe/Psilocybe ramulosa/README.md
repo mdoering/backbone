@@ -1,5 +1,4 @@
-Psilocybe ramulosa (Guzmán & Bononi) Guzmán SPECIES
-=======
+# Psilocybe ramulosa (Guzmán & Bononi) Guzmán SPECIES
 
 #### Status
 ACCEPTED

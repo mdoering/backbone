@@ -1,5 +1,4 @@
-Nectriopsis macroephichloe Samuels SPECIES
-=======
+# Nectriopsis macroephichloe Samuels SPECIES
 
 #### Status
 ACCEPTED

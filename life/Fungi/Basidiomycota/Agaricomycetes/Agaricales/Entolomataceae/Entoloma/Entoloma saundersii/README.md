@@ -1,17 +1,16 @@
-Agaricus majalis var. majalis VARIETY
-=======
+# Entoloma saundersii (Fr.) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 172 (1818)
+Syll. fung. (Abellini) 5: 689 (1887)
 
 #### Original name
-Agaricus majalis var. majalis
+Agaricus saundersii Fr., 1874
 
 ### Remarks
 null

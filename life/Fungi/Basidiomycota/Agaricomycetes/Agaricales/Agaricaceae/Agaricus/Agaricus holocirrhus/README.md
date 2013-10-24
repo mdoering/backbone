@@ -1,5 +1,4 @@
-Agaricus holocirrhus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus holocirrhus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

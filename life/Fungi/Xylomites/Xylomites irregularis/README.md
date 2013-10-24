@@ -1,5 +1,4 @@
-Xylomites irregularis Göpp. SPECIES
-=======
+# Xylomites irregularis Göpp. SPECIES
 
 #### Status
 ACCEPTED

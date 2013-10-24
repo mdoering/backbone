@@ -1,5 +1,4 @@
-Paramecium woodruffi Wenrich, 1928 SPECIES
-=======
+# Paramecium woodruffi Wenrich, 1928 SPECIES
 
 #### Status
 ACCEPTED

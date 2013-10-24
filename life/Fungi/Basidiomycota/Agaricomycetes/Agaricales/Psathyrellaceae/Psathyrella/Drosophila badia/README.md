@@ -1,5 +1,4 @@
-Drosophila badia Romagn. SPECIES
-=======
+# Drosophila badia Romagn. SPECIES
 
 #### Status
 ACCEPTED

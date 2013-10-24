@@ -1,5 +1,4 @@
-Synchytrium alysicarpi T.S. Ramakr. & Sundaram SPECIES
-=======
+# Synchytrium alysicarpi T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

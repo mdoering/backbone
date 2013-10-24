@@ -1,5 +1,4 @@
-Caloplaca almorensis (Räsänen) D.D. Awasthi SPECIES
-=======
+# Caloplaca almorensis (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

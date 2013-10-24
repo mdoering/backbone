@@ -1,5 +1,4 @@
-Erysiphe ceibae (Viégas) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe ceibae (Viégas) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

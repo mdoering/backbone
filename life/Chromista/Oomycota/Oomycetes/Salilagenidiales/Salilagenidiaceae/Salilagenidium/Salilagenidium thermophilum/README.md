@@ -1,14 +1,13 @@
-Lagenidium thermophilum K. Nakam., Miho Nakam., Hatai & Zafran, 1995 SPECIES
-=======
+# Salilagenidium thermophilum (K. Nakam., Miho Nakam., Hatai & Zafran) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoscience 36(4): 400 (1995)
+Straminipilous Fungi (Dordrecht) 315 (2001)
 
 #### Original name
 Lagenidium thermophilum K. Nakam., Miho Nakam., Hatai & Zafran, 1995

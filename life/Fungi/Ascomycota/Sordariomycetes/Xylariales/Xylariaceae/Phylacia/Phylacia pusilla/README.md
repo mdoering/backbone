@@ -1,5 +1,4 @@
-Phylacia pusilla Pat. SPECIES
-=======
+# Phylacia pusilla Pat. SPECIES
 
 #### Status
 ACCEPTED

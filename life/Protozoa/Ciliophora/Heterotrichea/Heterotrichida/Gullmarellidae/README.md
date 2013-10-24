@@ -1,5 +1,4 @@
-Gullmarellidae FAMILY
-=======
+# Gullmarellidae FAMILY
 
 #### Status
 ACCEPTED

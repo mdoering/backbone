@@ -1,5 +1,4 @@
-Coscinodiscus subtillis SPECIES
-=======
+# Coscinodiscus subtillis SPECIES
 
 #### Status
 ACCEPTED

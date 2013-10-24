@@ -1,5 +1,4 @@
-Semidelitschia nanostellata A.E. Bell & Mahoney SPECIES
-=======
+# Semidelitschia nanostellata A.E. Bell & Mahoney SPECIES
 
 #### Status
 ACCEPTED

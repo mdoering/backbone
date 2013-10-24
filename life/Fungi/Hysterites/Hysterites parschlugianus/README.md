@@ -1,5 +1,4 @@
-Hysterites parschlugianus (Ettingsh.) Mesch. SPECIES
-=======
+# Hysterites parschlugianus (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

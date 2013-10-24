@@ -1,5 +1,4 @@
-Coccidinium Chatton & Biecheler, 1934 GENUS
-=======
+# Coccidinium Chatton & Biecheler, 1934 GENUS
 
 #### Status
 ACCEPTED

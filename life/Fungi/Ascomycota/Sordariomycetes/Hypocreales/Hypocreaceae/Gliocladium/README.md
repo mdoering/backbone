@@ -1,17 +1,16 @@
-Corymbomyces Appel & Strunk GENUS
-=======
+# Gliocladium Corda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 11: 632 (1904)
+Icon. fung. (Prague) 4: 30 (1840)
 
 #### Original name
-Corymbomyces Appel & Strunk
+Gliocladium Corda
 
 ### Remarks
 null

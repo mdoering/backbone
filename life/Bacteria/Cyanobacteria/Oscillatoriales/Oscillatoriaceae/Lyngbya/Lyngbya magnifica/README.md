@@ -1,5 +1,4 @@
-Lyngbya magnifica Gardner SPECIES
-=======
+# Lyngbya magnifica Gardner SPECIES
 
 #### Status
 ACCEPTED

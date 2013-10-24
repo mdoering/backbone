@@ -1,5 +1,4 @@
-Favolaschia lateritia Henn., 1895 SPECIES
-=======
+# Favolaschia lateritia Henn., 1895 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora hyptidigena (Kamal, A.S. Moses & R. Chaudhary) U. Braun & Crous SPECIES
-=======
+# Passalora hyptidigena (Kamal, A.S. Moses & R. Chaudhary) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

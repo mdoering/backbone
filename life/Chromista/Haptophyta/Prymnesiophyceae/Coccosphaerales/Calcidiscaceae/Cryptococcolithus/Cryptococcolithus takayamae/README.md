@@ -1,5 +1,4 @@
-Cryptococcolithus takayamae S. Gartner SPECIES
-=======
+# Cryptococcolithus takayamae S. Gartner SPECIES
 
 #### Status
 ACCEPTED

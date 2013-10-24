@@ -1,5 +1,4 @@
-Verrucaria samosensis Servít SPECIES
-=======
+# Verrucaria samosensis Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ferrarisia pavettae (Hansf.) Arx, 1962 SPECIES
-=======
+# Ferrarisia pavettae (Hansf.) Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED

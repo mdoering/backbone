@@ -1,5 +1,4 @@
-Dermocybe thiersii (Ammirati & A.H. Sm.) Ammirati SPECIES
-=======
+# Dermocybe thiersii (Ammirati & A.H. Sm.) Ammirati SPECIES
 
 #### Status
 ACCEPTED

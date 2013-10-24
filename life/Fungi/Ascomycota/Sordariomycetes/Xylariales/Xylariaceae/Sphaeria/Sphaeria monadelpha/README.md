@@ -1,5 +1,4 @@
-Sphaeria monadelpha Fr. SPECIES
-=======
+# Sphaeria monadelpha Fr. SPECIES
 
 #### Status
 ACCEPTED

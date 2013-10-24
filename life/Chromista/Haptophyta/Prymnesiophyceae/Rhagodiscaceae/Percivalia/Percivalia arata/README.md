@@ -1,5 +1,4 @@
-Percivalia arata SPECIES
-=======
+# Percivalia arata SPECIES
 
 #### Status
 ACCEPTED

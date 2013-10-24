@@ -1,14 +1,13 @@
-Parmelia subverruculifera J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Melanohalea subverruculifera (J.C. Wei & Y.M. Jiang) O. Blanco, A. Crespo, Divakar, Essl., D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Acta phytotax. sin. 18(3): 387 (1980)
+Mycol. Res. 108(8): 883 (2004)
 
 #### Original name
 Parmelia subverruculifera J.C. Wei & Y.M. Jiang

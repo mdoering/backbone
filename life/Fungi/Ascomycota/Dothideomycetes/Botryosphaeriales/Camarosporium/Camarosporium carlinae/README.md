@@ -1,5 +1,4 @@
-Camarosporium carlinae Jørst. SPECIES
-=======
+# Camarosporium carlinae Jørst. SPECIES
 
 #### Status
 ACCEPTED

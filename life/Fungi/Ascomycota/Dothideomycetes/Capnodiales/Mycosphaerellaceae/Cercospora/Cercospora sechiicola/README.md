@@ -1,5 +1,4 @@
-Cercospora sechiicola S. Narayan, Kharwar, R.K. Singh & Bhartiya SPECIES
-=======
+# Cercospora sechiicola S. Narayan, Kharwar, R.K. Singh & Bhartiya SPECIES
 
 #### Status
 ACCEPTED

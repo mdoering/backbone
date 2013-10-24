@@ -1,5 +1,4 @@
-Lecanographa lynceoides (Müll. Arg.) Egea & Torrente SPECIES
-=======
+# Lecanographa lynceoides (Müll. Arg.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

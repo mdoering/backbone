@@ -1,5 +1,4 @@
-Peziza subiculata Schwein. SPECIES
-=======
+# Peziza subiculata Schwein. SPECIES
 
 #### Status
 ACCEPTED

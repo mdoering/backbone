@@ -1,17 +1,16 @@
-Eupenicillium crustaceum F. Ludw., 1892 SPECIES
-=======
+# Penicillium gladioli Machacek, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lehrbuch die Niederen Kryptogamen (Stuttgart) 263 (1892)
+null
 
 #### Original name
-Eupenicillium crustaceum F. Ludw., 1892
+Penicillium gladioli Machacek, 1928
 
 ### Remarks
 null

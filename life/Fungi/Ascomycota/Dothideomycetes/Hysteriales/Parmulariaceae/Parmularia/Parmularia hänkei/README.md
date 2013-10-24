@@ -1,5 +1,4 @@
-Parmularia hänkei (T. Nees) Rehm SPECIES
-=======
+# Parmularia hänkei (T. Nees) Rehm SPECIES
 
 #### Status
 ACCEPTED

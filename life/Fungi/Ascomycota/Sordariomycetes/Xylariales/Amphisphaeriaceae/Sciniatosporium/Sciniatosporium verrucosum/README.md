@@ -1,5 +1,4 @@
-Sciniatosporium verrucosum Morgan-Jones SPECIES
-=======
+# Sciniatosporium verrucosum Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypanoplasmoides Martin GENUS
-=======
+# Trypanoplasmoides Martin GENUS
 
 #### Status
 SYNONYM

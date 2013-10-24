@@ -1,5 +1,4 @@
-Uredo arundinellae-nepalensis Cummins SPECIES
-=======
+# Uredo arundinellae-nepalensis Cummins SPECIES
 
 #### Status
 ACCEPTED

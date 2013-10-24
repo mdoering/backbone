@@ -1,5 +1,4 @@
-Clisosporium papillatum Schulzer SPECIES
-=======
+# Clisosporium papillatum Schulzer SPECIES
 
 #### Status
 ACCEPTED

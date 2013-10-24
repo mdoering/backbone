@@ -1,5 +1,4 @@
-Ductifera atra var. atra VARIETY
-=======
+# Ductifera atra Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ductifera atra var. atra
+Ductifera atra Rick
 
 ### Remarks
 null

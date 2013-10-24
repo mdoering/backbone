@@ -1,5 +1,4 @@
-Paradiscina intermedia Benedix SPECIES
-=======
+# Paradiscina intermedia Benedix SPECIES
 
 #### Status
 ACCEPTED

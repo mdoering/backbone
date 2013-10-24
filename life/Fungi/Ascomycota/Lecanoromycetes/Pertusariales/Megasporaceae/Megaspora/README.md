@@ -1,5 +1,4 @@
-Megaspora (Clauzade & Cl. Roux) Hafellner & V. Wirth GENUS
-=======
+# Megaspora (Clauzade & Cl. Roux) Hafellner & V. Wirth GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocapnodium japonicum (Hara) W. Yamam. SPECIES
-=======
+# Hypocapnodium japonicum (Hara) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

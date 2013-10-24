@@ -1,5 +1,4 @@
-Inocybe albido-ochracea (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Inocybe albido-ochracea (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina puiggarii Müll. Arg. SPECIES
-=======
+# Ramalina puiggarii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vibrio hispanicus Gomez-Gil et al., 2004 SPECIES
-=======
+# Vibrio hispanicus Gomez-Gil et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

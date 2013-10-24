@@ -1,5 +1,4 @@
-Biatora conisalea (C. Knight) Nyl. SPECIES
-=======
+# Biatora conisalea (C. Knight) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterina disparata (Ach.) Gray SPECIES
-=======
+# Hysterina disparata (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

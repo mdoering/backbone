@@ -1,5 +1,4 @@
-Gymnodinioides kozloffi Landers, 2004 SPECIES
-=======
+# Gymnodinioides kozloffi Landers, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo tupare G. Cunn., 1924 SPECIES
-=======
+# Uredo tupare G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

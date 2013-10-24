@@ -1,5 +1,4 @@
-Boletus pseudorubinellus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus pseudorubinellus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

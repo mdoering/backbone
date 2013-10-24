@@ -1,5 +1,4 @@
-Mycena endoglobulosa Singer SPECIES
-=======
+# Mycena endoglobulosa Singer SPECIES
 
 #### Status
 ACCEPTED

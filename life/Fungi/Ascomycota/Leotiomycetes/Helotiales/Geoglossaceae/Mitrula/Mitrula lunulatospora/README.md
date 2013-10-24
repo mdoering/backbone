@@ -1,5 +1,4 @@
-Mitrula lunulatospora Redhead SPECIES
-=======
+# Mitrula lunulatospora Redhead SPECIES
 
 #### Status
 ACCEPTED

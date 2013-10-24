@@ -1,5 +1,4 @@
-Lichen atrostriatus Vill. SPECIES
-=======
+# Lichen atrostriatus Vill. SPECIES
 
 #### Status
 ACCEPTED

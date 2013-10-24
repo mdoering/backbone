@@ -1,5 +1,4 @@
-Cladonia prostrata A. Evans SPECIES
-=======
+# Cladonia prostrata A. Evans SPECIES
 
 #### Status
 ACCEPTED

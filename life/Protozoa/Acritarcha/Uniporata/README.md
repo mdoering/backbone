@@ -1,5 +1,4 @@
-Uniporata Naumova in Pykhova, 1969 GENUS
-=======
+# Uniporata Naumova in Pykhova, 1969 GENUS
 
 #### Status
 ACCEPTED

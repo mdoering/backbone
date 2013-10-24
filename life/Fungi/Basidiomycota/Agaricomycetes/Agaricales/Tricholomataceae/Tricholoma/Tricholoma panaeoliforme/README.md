@@ -1,5 +1,4 @@
-Tricholoma panaeoliforme (Murrill) Murrill SPECIES
-=======
+# Tricholoma panaeoliforme (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Copromyxa Zopf GENUS
-=======
+# Copromyxa Zopf GENUS
 
 #### Status
 ACCEPTED

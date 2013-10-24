@@ -1,5 +1,4 @@
-Platystomum aromaticum (Fabre) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum aromaticum (Fabre) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

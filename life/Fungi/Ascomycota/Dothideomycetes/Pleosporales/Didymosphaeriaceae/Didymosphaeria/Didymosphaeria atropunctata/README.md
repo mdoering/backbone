@@ -1,5 +1,4 @@
-Didymosphaeria atropunctata Tochinai & Yamagiwa SPECIES
-=======
+# Didymosphaeria atropunctata Tochinai & Yamagiwa SPECIES
 
 #### Status
 ACCEPTED

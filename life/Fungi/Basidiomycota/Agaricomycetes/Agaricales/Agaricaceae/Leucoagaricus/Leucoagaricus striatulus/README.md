@@ -1,5 +1,4 @@
-Leucoagaricus striatulus Heinem. SPECIES
-=======
+# Leucoagaricus striatulus Heinem. SPECIES
 
 #### Status
 ACCEPTED

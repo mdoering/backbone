@@ -1,5 +1,4 @@
-Kafiaddinia GENUS
-=======
+# Kafiaddinia GENUS
 
 #### Status
 ACCEPTED

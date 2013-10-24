@@ -1,5 +1,4 @@
-Amphoridium sylvaticum (Arnold) Servít SPECIES
-=======
+# Amphoridium sylvaticum (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED

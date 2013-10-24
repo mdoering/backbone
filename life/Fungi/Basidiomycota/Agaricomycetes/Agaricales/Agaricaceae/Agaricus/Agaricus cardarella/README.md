@@ -1,5 +1,4 @@
-Agaricus cardarella Fr. SPECIES
-=======
+# Agaricus cardarella Fr. SPECIES
 
 #### Status
 ACCEPTED

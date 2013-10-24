@@ -1,5 +1,4 @@
-Clitocybe pinophila Peck SPECIES
-=======
+# Clitocybe pinophila Peck SPECIES
 
 #### Status
 ACCEPTED

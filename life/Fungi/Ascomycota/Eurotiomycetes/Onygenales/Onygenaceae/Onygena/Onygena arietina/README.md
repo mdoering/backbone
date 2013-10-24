@@ -1,5 +1,4 @@
-Onygena arietina E. Fisch. SPECIES
-=======
+# Onygena arietina E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

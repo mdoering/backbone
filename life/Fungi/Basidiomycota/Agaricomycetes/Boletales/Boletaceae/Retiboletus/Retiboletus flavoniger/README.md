@@ -1,14 +1,13 @@
-Boletus flavoniger Halling, G.M. Muell. & L.D. Gómez, 1999 SPECIES
-=======
+# Retiboletus flavoniger (Halling, G.M. Muell. & L.D. Gómez) Manfr. Binder & Bresinsky, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Halling & Mueller, Mycologia 91(5): 893 (1999)
+Feddes Repert. 113(1-2): 37 (2002)
 
 #### Original name
 Boletus flavoniger Halling, G.M. Muell. & L.D. Gómez, 1999

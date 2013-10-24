@@ -1,5 +1,4 @@
-Rosellinia fuscomaculans Rehm SPECIES
-=======
+# Rosellinia fuscomaculans Rehm SPECIES
 
 #### Status
 ACCEPTED

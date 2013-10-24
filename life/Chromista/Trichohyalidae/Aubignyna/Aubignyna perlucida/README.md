@@ -1,5 +1,4 @@
-Aubignyna perlucida (Heron-Allen & Earland, 1913) SPECIES
-=======
+# Aubignyna perlucida (Heron-Allen & Earland, 1913) SPECIES
 
 #### Status
 ACCEPTED

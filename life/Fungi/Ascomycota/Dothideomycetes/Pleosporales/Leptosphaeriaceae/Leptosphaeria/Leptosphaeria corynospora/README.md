@@ -1,5 +1,4 @@
-Leptosphaeria corynospora Berl. & Bres. SPECIES
-=======
+# Leptosphaeria corynospora Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

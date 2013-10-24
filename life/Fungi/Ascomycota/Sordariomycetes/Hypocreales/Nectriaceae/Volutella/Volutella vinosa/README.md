@@ -1,5 +1,4 @@
-Volutella vinosa (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Volutella vinosa (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

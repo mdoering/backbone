@@ -1,5 +1,4 @@
-Lecanora sordidoflava Jatta SPECIES
-=======
+# Lecanora sordidoflava Jatta SPECIES
 
 #### Status
 ACCEPTED

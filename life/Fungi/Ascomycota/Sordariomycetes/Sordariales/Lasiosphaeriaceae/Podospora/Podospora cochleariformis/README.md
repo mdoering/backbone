@@ -1,5 +1,4 @@
-Podospora cochleariformis Cailleux, 1969 SPECIES
-=======
+# Podospora cochleariformis Cailleux, 1969 SPECIES
 
 #### Status
 ACCEPTED

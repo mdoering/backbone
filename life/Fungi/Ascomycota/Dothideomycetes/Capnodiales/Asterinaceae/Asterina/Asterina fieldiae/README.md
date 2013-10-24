@@ -1,5 +1,4 @@
-Asterina fieldiae Hansf. SPECIES
-=======
+# Asterina fieldiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

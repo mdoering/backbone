@@ -1,5 +1,4 @@
-Dacrymyces falcatus Brasf. SPECIES
-=======
+# Dacrymyces falcatus Brasf. SPECIES
 
 #### Status
 ACCEPTED

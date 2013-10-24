@@ -1,5 +1,4 @@
-Ochropsora airae (Fuck.) Syd. SPECIES
-=======
+# Ochropsora airae (Fuck.) Syd. SPECIES
 
 #### Status
 ACCEPTED

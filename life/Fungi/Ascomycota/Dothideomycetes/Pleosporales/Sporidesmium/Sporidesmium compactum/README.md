@@ -1,5 +1,4 @@
-Sporidesmium compactum Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium compactum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

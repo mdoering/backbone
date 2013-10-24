@@ -1,5 +1,4 @@
-Hippoperdon piriforme Lév. SPECIES
-=======
+# Hippoperdon piriforme Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus sonderi Berk. & F. Muell. SPECIES
-=======
+# Agaricus sonderi Berk. & F. Muell. SPECIES
 
 #### Status
 ACCEPTED

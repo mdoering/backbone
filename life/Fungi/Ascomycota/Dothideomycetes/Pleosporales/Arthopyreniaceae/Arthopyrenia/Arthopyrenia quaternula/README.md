@@ -1,5 +1,4 @@
-Arthopyrenia quaternula (Nyl.) Arnold SPECIES
-=======
+# Arthopyrenia quaternula (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

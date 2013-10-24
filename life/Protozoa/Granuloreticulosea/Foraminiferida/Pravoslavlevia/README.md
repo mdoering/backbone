@@ -1,5 +1,4 @@
-Pravoslavlevia Putrya, 1970 GENUS
-=======
+# Pravoslavlevia Putrya, 1970 GENUS
 
 #### Status
 ACCEPTED

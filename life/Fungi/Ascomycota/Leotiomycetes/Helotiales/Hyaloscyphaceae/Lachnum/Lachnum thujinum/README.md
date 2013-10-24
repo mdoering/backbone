@@ -1,5 +1,4 @@
-Lachnum thujinum Kauffman SPECIES
-=======
+# Lachnum thujinum Kauffman SPECIES
 
 #### Status
 ACCEPTED

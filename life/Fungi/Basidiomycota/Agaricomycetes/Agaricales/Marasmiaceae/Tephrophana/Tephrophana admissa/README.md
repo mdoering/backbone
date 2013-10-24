@@ -1,5 +1,4 @@
-Tephrophana admissa (Britzelm.) Métrod SPECIES
-=======
+# Tephrophana admissa (Britzelm.) Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia fibriseda Berk. SPECIES
-=======
+# Hendersonia fibriseda Berk. SPECIES
 
 #### Status
 ACCEPTED

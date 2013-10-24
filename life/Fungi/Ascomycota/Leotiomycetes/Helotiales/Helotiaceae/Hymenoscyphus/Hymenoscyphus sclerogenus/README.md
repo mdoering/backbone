@@ -1,5 +1,4 @@
-Hymenoscyphus sclerogenus (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Hymenoscyphus sclerogenus (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

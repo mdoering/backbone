@@ -1,5 +1,4 @@
-Paragastrostyla variabilis SPECIES
-=======
+# Paragastrostyla variabilis SPECIES
 
 #### Status
 ACCEPTED

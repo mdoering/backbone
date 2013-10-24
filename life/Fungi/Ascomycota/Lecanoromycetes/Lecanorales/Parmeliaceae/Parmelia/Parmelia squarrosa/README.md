@@ -1,5 +1,4 @@
-Parmelia squarrosa Hale SPECIES
-=======
+# Parmelia squarrosa Hale SPECIES
 
 #### Status
 ACCEPTED

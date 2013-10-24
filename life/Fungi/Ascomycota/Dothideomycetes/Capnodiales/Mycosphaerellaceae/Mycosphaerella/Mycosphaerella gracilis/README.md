@@ -1,5 +1,4 @@
-Mycosphaerella gracilis Crous & Alfenas, 1995 SPECIES
-=======
+# Mycosphaerella gracilis Crous & Alfenas, 1995 SPECIES
 
 #### Status
 ACCEPTED

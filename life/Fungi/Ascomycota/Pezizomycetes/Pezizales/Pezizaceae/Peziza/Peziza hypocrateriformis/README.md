@@ -1,5 +1,4 @@
-Peziza hypocrateriformis (Schaeff.) Wallr. SPECIES
-=======
+# Peziza hypocrateriformis (Schaeff.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

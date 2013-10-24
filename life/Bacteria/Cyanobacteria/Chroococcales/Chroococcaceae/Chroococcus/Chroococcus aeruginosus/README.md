@@ -1,5 +1,4 @@
-Chroococcus aeruginosus Gardner SPECIES
-=======
+# Chroococcus aeruginosus Gardner SPECIES
 
 #### Status
 ACCEPTED

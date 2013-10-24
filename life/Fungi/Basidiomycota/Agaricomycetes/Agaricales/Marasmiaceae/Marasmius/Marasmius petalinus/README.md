@@ -1,5 +1,4 @@
-Marasmius petalinus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius petalinus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

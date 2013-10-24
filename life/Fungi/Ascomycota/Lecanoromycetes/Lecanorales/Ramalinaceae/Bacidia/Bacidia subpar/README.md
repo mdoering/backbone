@@ -1,5 +1,4 @@
-Bacidia subpar (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia subpar (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum simiarum Cooke & Kalchbr. SPECIES
-=======
+# Stilbum simiarum Cooke & Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

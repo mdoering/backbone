@@ -1,5 +1,4 @@
-Bathelium sundaicum Müll. Arg. SPECIES
-=======
+# Bathelium sundaicum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia brunneogrisea Bres. SPECIES
-=======
+# Omphalia brunneogrisea Bres. SPECIES
 
 #### Status
 ACCEPTED

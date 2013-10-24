@@ -1,5 +1,4 @@
-Asteroma umbonatum Desm. SPECIES
-=======
+# Asteroma umbonatum Desm. SPECIES
 
 #### Status
 ACCEPTED

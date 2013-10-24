@@ -1,5 +1,4 @@
-Adustomyces Jülich GENUS
-=======
+# Adustomyces Jülich GENUS
 
 #### Status
 ACCEPTED

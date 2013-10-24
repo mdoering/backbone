@@ -1,5 +1,4 @@
-Didymosphaeria diaporthoides Speg. SPECIES
-=======
+# Didymosphaeria diaporthoides Speg. SPECIES
 
 #### Status
 ACCEPTED

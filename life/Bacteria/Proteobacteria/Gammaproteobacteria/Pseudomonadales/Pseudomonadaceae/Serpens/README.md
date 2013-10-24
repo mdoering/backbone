@@ -1,5 +1,4 @@
-Serpens GENUS
-=======
+# Serpens GENUS
 
 #### Status
 ACCEPTED

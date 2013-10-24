@@ -1,5 +1,4 @@
-Otthia xylostei Fuckel SPECIES
-=======
+# Otthia xylostei Fuckel SPECIES
 
 #### Status
 ACCEPTED

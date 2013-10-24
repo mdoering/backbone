@@ -1,5 +1,4 @@
-Microporus arcticus (Fr.) Kuntze SPECIES
-=======
+# Microporus arcticus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

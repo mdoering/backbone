@@ -1,5 +1,4 @@
-Psathyra mexicana Murrill SPECIES
-=======
+# Psathyra mexicana Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phyllachora sapindacearum F. Stevens, 1927 SPECIES
-=======
+# Phyllachora serjaniicola Chardón, 1921 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

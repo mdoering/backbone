@@ -1,5 +1,4 @@
-Phoma cylindrica Gucevic SPECIES
-=======
+# Phoma cylindrica Gucevic SPECIES
 
 #### Status
 ACCEPTED

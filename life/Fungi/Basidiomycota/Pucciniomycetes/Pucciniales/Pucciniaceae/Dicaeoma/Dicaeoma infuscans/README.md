@@ -1,5 +1,4 @@
-Dicaeoma infuscans (Arthur & Holw.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma infuscans (Arthur & Holw.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

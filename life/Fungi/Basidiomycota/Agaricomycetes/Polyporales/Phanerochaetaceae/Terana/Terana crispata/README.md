@@ -1,5 +1,4 @@
-Terana crispata (Speg.) Kuntze SPECIES
-=======
+# Terana crispata (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

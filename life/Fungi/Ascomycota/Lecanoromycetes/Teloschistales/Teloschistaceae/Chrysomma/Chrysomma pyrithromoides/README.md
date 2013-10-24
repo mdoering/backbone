@@ -1,5 +1,4 @@
-Chrysomma pyrithromoides (Nyl.) M. Choisy & Werner SPECIES
-=======
+# Chrysomma pyrithromoides (Nyl.) M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED

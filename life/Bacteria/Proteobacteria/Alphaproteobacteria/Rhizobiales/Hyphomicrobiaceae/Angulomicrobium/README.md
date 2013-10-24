@@ -1,5 +1,4 @@
-Angulomicrobium GENUS
-=======
+# Angulomicrobium GENUS
 
 #### Status
 ACCEPTED

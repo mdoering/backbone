@@ -1,5 +1,4 @@
-Cortinarius clavipes Rob. Henry SPECIES
-=======
+# Cortinarius clavipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

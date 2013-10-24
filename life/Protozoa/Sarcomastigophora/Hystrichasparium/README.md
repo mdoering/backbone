@@ -1,5 +1,4 @@
-Hystrichasparium Haeckel, 1887 GENUS
-=======
+# Hystrichasparium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

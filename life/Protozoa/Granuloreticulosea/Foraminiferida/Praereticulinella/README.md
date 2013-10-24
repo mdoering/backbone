@@ -1,5 +1,4 @@
-Praereticulinella Deloffre & Hamaoui, 1970 GENUS
-=======
+# Praereticulinella Deloffre & Hamaoui, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora polytaeniae Ellis & Everh. SPECIES
-=======
+# Cercospora polytaeniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

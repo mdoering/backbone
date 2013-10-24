@@ -1,5 +1,4 @@
-Nectria cingulata Starbäck SPECIES
-=======
+# Nectria cingulata Starbäck SPECIES
 
 #### Status
 ACCEPTED

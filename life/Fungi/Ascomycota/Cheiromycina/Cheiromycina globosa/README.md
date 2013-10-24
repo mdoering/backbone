@@ -1,5 +1,4 @@
-Cheiromycina globosa Aptroot & Schiefelb. SPECIES
-=======
+# Cheiromycina globosa Aptroot & Schiefelb. SPECIES
 
 #### Status
 ACCEPTED

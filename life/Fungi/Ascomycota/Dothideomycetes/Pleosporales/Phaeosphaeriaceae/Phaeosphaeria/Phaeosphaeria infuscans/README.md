@@ -1,5 +1,4 @@
-Phaeosphaeria infuscans (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Phaeosphaeria infuscans (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

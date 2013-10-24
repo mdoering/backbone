@@ -1,5 +1,4 @@
-Phaeographina glyphiza SPECIES
-=======
+# Phaeographina glyphiza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corollithion Stradner, 1961 GENUS
-=======
+# Corollithion Stradner, 1961 GENUS
 
 #### Status
 ACCEPTED

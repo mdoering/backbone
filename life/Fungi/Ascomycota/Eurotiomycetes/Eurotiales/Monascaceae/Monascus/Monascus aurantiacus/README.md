@@ -1,5 +1,4 @@
-Monascus aurantiacus Zhong Q. Li, 1982 SPECIES
-=======
+# Monascus aurantiacus Zhong Q. Li, 1982 SPECIES
 
 #### Status
 ACCEPTED

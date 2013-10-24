@@ -1,5 +1,4 @@
-Cercospora texensis Tharp SPECIES
-=======
+# Cercospora texensis Tharp SPECIES
 
 #### Status
 ACCEPTED

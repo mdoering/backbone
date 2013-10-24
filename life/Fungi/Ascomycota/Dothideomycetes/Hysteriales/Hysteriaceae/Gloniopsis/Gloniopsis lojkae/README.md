@@ -1,5 +1,4 @@
-Gloniopsis lojkae Rehm SPECIES
-=======
+# Gloniopsis lojkae Rehm SPECIES
 
 #### Status
 ACCEPTED

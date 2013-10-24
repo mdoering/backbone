@@ -1,5 +1,4 @@
-Ctenomyces Eidam, 1880 GENUS
-=======
+# Ctenomyces Eidam, 1880 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha roseus Rehm SPECIES
-=======
+# Dasyscyphus roseus Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha roseus Rehm
+Dasyscyphus roseus Rehm
 
 ### Remarks
 null

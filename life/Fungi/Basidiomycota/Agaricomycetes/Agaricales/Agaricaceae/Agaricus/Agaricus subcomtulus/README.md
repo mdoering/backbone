@@ -1,5 +1,4 @@
-Agaricus subcomtulus Murrill SPECIES
-=======
+# Agaricus subcomtulus Murrill SPECIES
 
 #### Status
 ACCEPTED

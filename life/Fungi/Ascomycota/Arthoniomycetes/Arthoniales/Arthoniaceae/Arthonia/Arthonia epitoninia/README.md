@@ -1,5 +1,4 @@
-Arthonia epitoninia Halici & Candan SPECIES
-=======
+# Arthonia epitoninia Halici & Candan SPECIES
 
 #### Status
 ACCEPTED

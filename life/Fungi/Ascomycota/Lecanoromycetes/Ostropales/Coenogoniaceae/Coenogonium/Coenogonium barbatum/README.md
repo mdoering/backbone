@@ -1,5 +1,4 @@
-Coenogonium barbatum Lücking, Aptroot & Umaña SPECIES
-=======
+# Coenogonium barbatum Lücking, Aptroot & Umaña SPECIES
 
 #### Status
 ACCEPTED

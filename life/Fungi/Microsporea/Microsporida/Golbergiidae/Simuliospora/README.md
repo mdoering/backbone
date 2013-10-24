@@ -1,5 +1,4 @@
-Simuliospora Khodzhaeva, S.V. Krylova & I.V. Issi GENUS
-=======
+# Simuliospora Khodzhaeva, S.V. Krylova & I.V. Issi GENUS
 
 #### Status
 ACCEPTED

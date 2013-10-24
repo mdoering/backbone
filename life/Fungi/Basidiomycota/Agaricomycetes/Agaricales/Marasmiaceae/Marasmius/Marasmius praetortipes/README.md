@@ -1,5 +1,4 @@
-Marasmius praetortipes Murrill SPECIES
-=======
+# Marasmius praetortipes Murrill SPECIES
 
 #### Status
 ACCEPTED

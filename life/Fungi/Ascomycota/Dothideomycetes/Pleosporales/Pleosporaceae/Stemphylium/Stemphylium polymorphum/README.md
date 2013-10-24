@@ -1,5 +1,4 @@
-Stemphylium polymorphum Bonord. SPECIES
-=======
+# Stemphylium polymorphum Bonord. SPECIES
 
 #### Status
 ACCEPTED

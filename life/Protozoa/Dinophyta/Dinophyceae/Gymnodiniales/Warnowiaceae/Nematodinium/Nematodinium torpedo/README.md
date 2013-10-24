@@ -1,5 +1,4 @@
-Nematodinium torpedo Kofoid & Swezy SPECIES
-=======
+# Nematodinium torpedo Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

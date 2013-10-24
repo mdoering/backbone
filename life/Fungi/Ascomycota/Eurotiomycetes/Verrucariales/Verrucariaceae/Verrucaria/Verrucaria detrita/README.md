@@ -1,5 +1,4 @@
-Verrucaria detrita Hoffm. SPECIES
-=======
+# Verrucaria detrita Hoffm. SPECIES
 
 #### Status
 ACCEPTED

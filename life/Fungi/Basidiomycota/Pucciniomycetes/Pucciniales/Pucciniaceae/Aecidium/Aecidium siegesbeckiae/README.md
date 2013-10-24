@@ -1,5 +1,4 @@
-Aecidium siegesbeckiae Syd. & P. Syd. SPECIES
-=======
+# Aecidium siegesbeckiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

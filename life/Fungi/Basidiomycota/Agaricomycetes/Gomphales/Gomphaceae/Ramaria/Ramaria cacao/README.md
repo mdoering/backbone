@@ -1,14 +1,13 @@
-Clavaria cacao Coker, 1923 SPECIES
-=======
+# Ramaria cacao (Coker) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Clavarias of the United States and Canada 151 (1923)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 564 (1950)
 
 #### Original name
 Clavaria cacao Coker, 1923

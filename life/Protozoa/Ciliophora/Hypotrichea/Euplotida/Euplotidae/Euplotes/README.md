@@ -1,5 +1,4 @@
-Euplotes O.F. Müller, 1786 GENUS
-=======
+# Euplotes O.F. Müller, 1786 GENUS
 
 #### Status
 ACCEPTED

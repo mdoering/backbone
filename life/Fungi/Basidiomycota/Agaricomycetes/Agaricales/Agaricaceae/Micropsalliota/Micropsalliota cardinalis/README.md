@@ -1,5 +1,4 @@
-Micropsalliota cardinalis Heinem. SPECIES
-=======
+# Micropsalliota cardinalis Heinem. SPECIES
 
 #### Status
 ACCEPTED

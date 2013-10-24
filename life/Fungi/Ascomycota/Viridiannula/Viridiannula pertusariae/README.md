@@ -1,5 +1,4 @@
-Viridiannula pertusariae Etayo, 2002 SPECIES
-=======
+# Viridiannula pertusariae Etayo, 2002 SPECIES
 
 #### Status
 ACCEPTED

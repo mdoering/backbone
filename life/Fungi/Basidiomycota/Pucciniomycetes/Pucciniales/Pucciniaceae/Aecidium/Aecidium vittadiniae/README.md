@@ -1,5 +1,4 @@
-Aecidium vittadiniae McAlpine SPECIES
-=======
+# Aecidium vittadiniae McAlpine SPECIES
 
 #### Status
 ACCEPTED

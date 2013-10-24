@@ -1,5 +1,4 @@
-Tricholoma crassifolium (Fr.) Sacc. SPECIES
-=======
+# Tricholoma crassifolium (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

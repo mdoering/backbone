@@ -1,5 +1,4 @@
-Pycnothelia (Ach.) Dufour GENUS
-=======
+# Pycnothelia (Ach.) Dufour GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria baccharicola Saporta SPECIES
-=======
+# Sphaeria baccharicola Saporta SPECIES
 
 #### Status
 ACCEPTED

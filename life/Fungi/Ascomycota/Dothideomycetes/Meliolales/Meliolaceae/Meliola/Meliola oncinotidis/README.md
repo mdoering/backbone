@@ -1,5 +1,4 @@
-Meliola oncinotidis Doidge SPECIES
-=======
+# Meliola oncinotidis Doidge SPECIES
 
 #### Status
 ACCEPTED

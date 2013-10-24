@@ -1,5 +1,4 @@
-Chlorobotrys gloeothece Pascher SPECIES
-=======
+# Chlorobotrys gloeothece Pascher SPECIES
 
 #### Status
 ACCEPTED

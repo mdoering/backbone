@@ -1,5 +1,4 @@
-Stereum japonicum Yasuda SPECIES
-=======
+# Stereum japonicum Yasuda SPECIES
 
 #### Status
 ACCEPTED

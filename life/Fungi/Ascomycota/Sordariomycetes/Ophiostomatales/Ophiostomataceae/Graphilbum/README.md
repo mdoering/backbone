@@ -1,5 +1,4 @@
-Graphilbum H.P. Upadhyay & W.B. Kendr. GENUS
-=======
+# Graphilbum H.P. Upadhyay & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

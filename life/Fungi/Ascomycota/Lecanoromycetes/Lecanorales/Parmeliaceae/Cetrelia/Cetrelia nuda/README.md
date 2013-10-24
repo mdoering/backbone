@@ -1,5 +1,4 @@
-Cetrelia nuda (Hue) W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Cetrelia nuda (Hue) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Jafneadelphus ferrugineus subsp. ferrugineus SUBSPECIES
-=======
+# Aleurina ferruginea (W. Phillips) W.Y. Zhuang & Korf, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 26: 372 (1986)
 
 #### Original name
-Jafneadelphus ferrugineus subsp. ferrugineus
+Rhizina ferruginea W. Phillips, 1888
 
 ### Remarks
 null

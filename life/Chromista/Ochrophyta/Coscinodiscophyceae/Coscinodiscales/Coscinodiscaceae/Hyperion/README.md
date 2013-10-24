@@ -1,5 +1,4 @@
-Hyperion A.M. Gombos, Jr., 1983 GENUS
-=======
+# Hyperion A.M. Gombos, Jr., 1983 GENUS
 
 #### Status
 ACCEPTED

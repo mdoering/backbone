@@ -1,5 +1,4 @@
-Cladonia cartilaginea Müll. Arg. SPECIES
-=======
+# Cladonia cartilaginea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

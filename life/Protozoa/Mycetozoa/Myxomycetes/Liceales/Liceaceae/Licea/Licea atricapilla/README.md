@@ -1,5 +1,4 @@
-Licea atricapilla Nann.-Bremek. & Y. Yamam., 1983 SPECIES
-=======
+# Licea atricapilla Nann.-Bremek. & Y. Yamam., 1983 SPECIES
 
 #### Status
 ACCEPTED

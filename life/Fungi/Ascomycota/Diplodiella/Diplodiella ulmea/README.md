@@ -1,5 +1,4 @@
-Diplodiella ulmea Pass. SPECIES
-=======
+# Diplodiella ulmea Pass. SPECIES
 
 #### Status
 ACCEPTED

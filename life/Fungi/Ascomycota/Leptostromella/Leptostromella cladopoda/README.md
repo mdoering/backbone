@@ -1,5 +1,4 @@
-Leptostromella cladopoda Sacc. SPECIES
-=======
+# Leptostromella cladopoda Sacc. SPECIES
 
 #### Status
 ACCEPTED

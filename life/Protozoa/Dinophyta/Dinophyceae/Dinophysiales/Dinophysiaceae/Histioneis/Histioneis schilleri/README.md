@@ -1,5 +1,4 @@
-Histioneis schilleri Bohm, 1933 SPECIES
-=======
+# Histioneis schilleri Bohm, 1933 SPECIES
 
 #### Status
 ACCEPTED

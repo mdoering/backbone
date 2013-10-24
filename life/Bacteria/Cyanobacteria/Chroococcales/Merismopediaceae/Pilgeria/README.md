@@ -1,5 +1,4 @@
-Pilgeria Schmidle, 1901 GENUS
-=======
+# Pilgeria Schmidle, 1901 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium bartholomaei Sacc. & P. Syd. SPECIES
-=======
+# Chaetomium bartholomaei Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

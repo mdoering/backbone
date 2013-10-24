@@ -1,8 +1,7 @@
-Lecanora tanaënsis Nyl. SPECIES
-=======
+# Lecanora tanaensis Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora tanaënsis Nyl.
+Lecanora tanaensis Nyl.
 
 ### Remarks
 null

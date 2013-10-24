@@ -1,14 +1,13 @@
-Bikoeca Stein, 1878 GENUS
-=======
+# Bicosoeca H.J.Clark, 1866 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Organ. Infusionsthiere, 3, Heft 1, Pl. 11.
+Proc. Boston Soc. Nat. Hist. , 11, 16.
 
 #### Original name
 null

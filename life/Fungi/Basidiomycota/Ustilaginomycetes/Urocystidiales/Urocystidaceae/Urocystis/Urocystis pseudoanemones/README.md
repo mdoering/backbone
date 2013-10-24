@@ -1,5 +1,4 @@
-Urocystis pseudoanemones Denchev, Kakish. & Y. Harada, 2000 SPECIES
-=======
+# Urocystis pseudoanemones Denchev, Kakish. & Y. Harada, 2000 SPECIES
 
 #### Status
 ACCEPTED

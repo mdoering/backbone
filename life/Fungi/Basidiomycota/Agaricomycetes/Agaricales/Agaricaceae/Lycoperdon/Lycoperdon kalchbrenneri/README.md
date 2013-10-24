@@ -1,5 +1,4 @@
-Lycoperdon kalchbrenneri De Toni SPECIES
-=======
+# Lycoperdon kalchbrenneri De Toni SPECIES
 
 #### Status
 ACCEPTED

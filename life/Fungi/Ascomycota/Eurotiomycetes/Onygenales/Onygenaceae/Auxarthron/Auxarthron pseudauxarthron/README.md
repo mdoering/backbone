@@ -1,5 +1,4 @@
-Auxarthron pseudauxarthron G.F. Orr & Kuehn SPECIES
-=======
+# Auxarthron pseudauxarthron G.F. Orr & Kuehn SPECIES
 
 #### Status
 ACCEPTED

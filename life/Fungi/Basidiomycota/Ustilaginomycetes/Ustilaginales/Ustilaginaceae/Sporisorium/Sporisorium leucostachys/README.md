@@ -1,5 +1,4 @@
-Sporisorium leucostachys (Henn.) M. Piepenbr. SPECIES
-=======
+# Sporisorium leucostachys (Henn.) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

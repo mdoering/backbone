@@ -1,5 +1,4 @@
-Aecidium ruborum SPECIES
-=======
+# Aecidium ruborum SPECIES
 
 #### Status
 ACCEPTED

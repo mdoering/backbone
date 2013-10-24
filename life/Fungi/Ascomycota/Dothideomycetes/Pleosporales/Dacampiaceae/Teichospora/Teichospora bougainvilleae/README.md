@@ -1,5 +1,4 @@
-Teichospora bougainvilleae P.G. Sathe & K.M. Mogarkar SPECIES
-=======
+# Teichospora bougainvilleae P.G. Sathe & K.M. Mogarkar SPECIES
 
 #### Status
 ACCEPTED

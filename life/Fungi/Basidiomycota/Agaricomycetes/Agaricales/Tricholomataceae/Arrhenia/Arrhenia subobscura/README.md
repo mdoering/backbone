@@ -1,5 +1,4 @@
-Arrhenia subobscura (Singer) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia subobscura (Singer) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

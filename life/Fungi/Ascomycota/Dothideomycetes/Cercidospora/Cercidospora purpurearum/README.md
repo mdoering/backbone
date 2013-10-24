@@ -1,5 +1,4 @@
-Cercidospora purpurearum (Auersw.) Kuntze SPECIES
-=======
+# Cercidospora purpurearum (Auersw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella ophiopogonis Sacc. SPECIES
-=======
+# Sphaerella ophiopogonis Sacc. SPECIES
 
 #### Status
 ACCEPTED

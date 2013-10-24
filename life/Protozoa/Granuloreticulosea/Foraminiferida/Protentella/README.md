@@ -1,5 +1,4 @@
-Protentella Lipps, 1964 GENUS
-=======
+# Protentella Lipps, 1964 GENUS
 
 #### Status
 ACCEPTED

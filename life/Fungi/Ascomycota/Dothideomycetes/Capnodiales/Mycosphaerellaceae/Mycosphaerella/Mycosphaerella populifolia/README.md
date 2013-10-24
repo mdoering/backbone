@@ -1,5 +1,4 @@
-Mycosphaerella populifolia (Cooke) House SPECIES
-=======
+# Mycosphaerella populifolia (Cooke) House SPECIES
 
 #### Status
 ACCEPTED

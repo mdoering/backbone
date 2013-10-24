@@ -1,5 +1,4 @@
-Pezizella caudata Velen. SPECIES
-=======
+# Pezizella caudata Velen. SPECIES
 
 #### Status
 ACCEPTED

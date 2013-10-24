@@ -1,5 +1,4 @@
-Pleurotus macilentus Massee SPECIES
-=======
+# Pleurotus macilentus Massee SPECIES
 
 #### Status
 ACCEPTED

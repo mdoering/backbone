@@ -1,5 +1,4 @@
-Sphacelotheca mutila Mundk. & Thirum. SPECIES
-=======
+# Sphacelotheca mutila Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

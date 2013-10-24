@@ -1,5 +1,4 @@
-Stephanodiscus oregonicus (Ehrenberg) Håk. SPECIES
-=======
+# Stephanodiscus oregonicus (Ehrenberg) Håk. SPECIES
 
 #### Status
 ACCEPTED

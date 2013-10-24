@@ -1,5 +1,4 @@
-Coscinodiscus jonesianus (Greville) Ostenfeld, 1915 SPECIES
-=======
+# Coscinodiscus jonesianus (Greville) Ostenfeld, 1915 SPECIES
 
 #### Status
 ACCEPTED

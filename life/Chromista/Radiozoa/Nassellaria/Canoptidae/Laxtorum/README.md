@@ -1,5 +1,4 @@
-Laxtorum Blome, 1984 GENUS
-=======
+# Laxtorum Blome, 1984 GENUS
 
 #### Status
 ACCEPTED

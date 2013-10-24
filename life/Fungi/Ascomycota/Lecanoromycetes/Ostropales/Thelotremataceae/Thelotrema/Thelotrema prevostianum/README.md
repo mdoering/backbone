@@ -1,5 +1,4 @@
-Thelotrema prevostianum Mont. SPECIES
-=======
+# Thelotrema prevostianum Mont. SPECIES
 
 #### Status
 ACCEPTED

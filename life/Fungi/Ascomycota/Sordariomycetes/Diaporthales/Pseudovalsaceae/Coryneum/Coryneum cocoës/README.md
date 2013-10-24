@@ -1,17 +1,16 @@
-Coryneum cocois Henn. SPECIES
-=======
+# Coryneum cocoës Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 34: 65 (1904)
 
 #### Original name
-Coryneum cocois Henn.
+Coryneum cocoës Henn.
 
 ### Remarks
 null

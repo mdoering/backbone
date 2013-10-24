@@ -1,5 +1,4 @@
-Psathyrella harrisonii A.H. Sm. SPECIES
-=======
+# Psathyrella harrisonii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

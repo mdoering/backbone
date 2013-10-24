@@ -1,5 +1,4 @@
-Micropeltis cupaniarum Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis cupaniarum Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

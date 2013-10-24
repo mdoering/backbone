@@ -1,5 +1,4 @@
-Amphoridium Servit, 1954 GENUS
-=======
+# Amphoridium Servit, 1954 GENUS
 
 #### Status
 ACCEPTED

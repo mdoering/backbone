@@ -1,5 +1,4 @@
-Endogonales Moreau ex R.K. Benj. ORDER
-=======
+# Endogonales Moreau ex R.K. Benj. ORDER
 
 #### Status
 ACCEPTED

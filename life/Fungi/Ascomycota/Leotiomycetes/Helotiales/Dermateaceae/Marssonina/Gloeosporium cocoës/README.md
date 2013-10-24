@@ -1,5 +1,4 @@
-Gloeosporium cocoës Allesch. SPECIES
-=======
+# Gloeosporium cocoës Allesch. SPECIES
 
 #### Status
 ACCEPTED

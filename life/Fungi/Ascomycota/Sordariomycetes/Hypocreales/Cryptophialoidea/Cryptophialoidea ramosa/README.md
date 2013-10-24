@@ -1,5 +1,4 @@
-Cryptophialoidea ramosa G. Delgado, J. Mena & Gené SPECIES
-=======
+# Cryptophialoidea ramosa G. Delgado, J. Mena & Gené SPECIES
 
 #### Status
 ACCEPTED

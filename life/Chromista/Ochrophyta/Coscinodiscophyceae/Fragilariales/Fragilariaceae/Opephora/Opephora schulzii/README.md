@@ -1,5 +1,4 @@
-Opephora schulzii (Brockmann) Simonsen SPECIES
-=======
+# Opephora schulzii (Brockmann) Simonsen SPECIES
 
 #### Status
 ACCEPTED

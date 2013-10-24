@@ -1,5 +1,4 @@
-Phaeangium pruni Teng SPECIES
-=======
+# Phaeangium pruni Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella eugeniae-fruticosae Jana, S.N. Ghosh & A.K. Das SPECIES
-=======
+# Asteridiella eugeniae-fruticosae Jana, S.N. Ghosh & A.K. Das SPECIES
 
 #### Status
 ACCEPTED

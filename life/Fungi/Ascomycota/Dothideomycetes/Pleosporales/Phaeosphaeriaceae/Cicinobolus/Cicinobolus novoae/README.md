@@ -1,8 +1,7 @@
-Cicinnobolus novoae Unamuno SPECIES
-=======
+# Cicinobolus novoae Unamuno SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus novoae Unamuno
+Cicinobolus novoae Unamuno
 
 ### Remarks
 null

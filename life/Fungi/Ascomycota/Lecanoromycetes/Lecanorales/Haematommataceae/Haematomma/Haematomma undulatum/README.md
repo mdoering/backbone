@@ -1,5 +1,4 @@
-Haematomma undulatum (Fée) A. Massal. SPECIES
-=======
+# Haematomma undulatum (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

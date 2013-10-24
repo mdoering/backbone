@@ -1,5 +1,4 @@
-Polyplosphaeria GENUS
-=======
+# Polyplosphaeria GENUS
 
 #### Status
 ACCEPTED

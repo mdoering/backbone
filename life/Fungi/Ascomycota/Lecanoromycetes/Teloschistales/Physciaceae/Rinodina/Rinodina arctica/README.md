@@ -1,5 +1,4 @@
-Rinodina arctica H. Magn. SPECIES
-=======
+# Rinodina arctica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

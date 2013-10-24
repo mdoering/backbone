@@ -1,5 +1,4 @@
-Caeomurus punctatostriatus (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Caeomurus punctatostriatus (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

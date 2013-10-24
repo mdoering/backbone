@@ -1,5 +1,4 @@
-Xerocomus linderi Singer SPECIES
-=======
+# Xerocomus linderi Singer SPECIES
 
 #### Status
 ACCEPTED

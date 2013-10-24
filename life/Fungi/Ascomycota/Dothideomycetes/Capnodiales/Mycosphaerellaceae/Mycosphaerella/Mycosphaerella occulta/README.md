@@ -1,5 +1,4 @@
-Mycosphaerella occulta Bubák SPECIES
-=======
+# Mycosphaerella occulta Bubák SPECIES
 
 #### Status
 ACCEPTED

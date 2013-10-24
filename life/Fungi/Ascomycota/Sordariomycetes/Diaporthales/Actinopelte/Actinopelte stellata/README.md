@@ -1,5 +1,4 @@
-Actinopelte stellata M.L. Farr SPECIES
-=======
+# Actinopelte stellata M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

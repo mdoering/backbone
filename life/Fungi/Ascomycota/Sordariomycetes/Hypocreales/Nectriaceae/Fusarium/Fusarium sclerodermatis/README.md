@@ -1,5 +1,4 @@
-Fusarium sclerodermatis Peck SPECIES
-=======
+# Fusarium sclerodermatis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroloculina hyalina SPECIES
-=======
+# Spiroloculina hyalina SPECIES
 
 #### Status
 ACCEPTED

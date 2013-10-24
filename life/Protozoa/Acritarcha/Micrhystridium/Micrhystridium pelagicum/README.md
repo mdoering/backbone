@@ -1,5 +1,4 @@
-Micrhystridium pelagicum Stockmans & Willière, 1962 SPECIES
-=======
+# Micrhystridium pelagicum Stockmans & Willière, 1962 SPECIES
 
 #### Status
 ACCEPTED

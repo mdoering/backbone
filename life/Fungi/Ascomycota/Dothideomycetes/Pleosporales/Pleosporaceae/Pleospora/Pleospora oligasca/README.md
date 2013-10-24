@@ -1,5 +1,4 @@
-Pleospora oligasca Bubák SPECIES
-=======
+# Pleospora oligasca Bubák SPECIES
 
 #### Status
 ACCEPTED

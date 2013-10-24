@@ -1,5 +1,4 @@
-Nocardia mexicana Rodríguez-Nava et al., 2006 SPECIES
-=======
+# Nocardia mexicana Rodríguez-Nava et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

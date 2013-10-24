@@ -1,8 +1,7 @@
-Nephroma saxicolum (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Nephroma saxicola (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

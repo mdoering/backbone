@@ -1,5 +1,4 @@
-Stictis lantanae Tilak & Nanir SPECIES
-=======
+# Stictis lantanae Tilak & Nanir SPECIES
 
 #### Status
 ACCEPTED

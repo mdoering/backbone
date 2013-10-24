@@ -1,5 +1,4 @@
-Prospodium bignoniacearum (Speg.) Cummins SPECIES
-=======
+# Prospodium bignoniacearum (Speg.) Cummins SPECIES
 
 #### Status
 ACCEPTED

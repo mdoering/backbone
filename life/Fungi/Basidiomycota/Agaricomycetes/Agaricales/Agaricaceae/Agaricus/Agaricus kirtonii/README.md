@@ -1,5 +1,4 @@
-Agaricus kirtonii Kalchbr. SPECIES
-=======
+# Agaricus kirtonii Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

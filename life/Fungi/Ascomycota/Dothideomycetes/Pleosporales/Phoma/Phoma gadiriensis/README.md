@@ -1,5 +1,4 @@
-Phoma gadiriensis Rieuf SPECIES
-=======
+# Phoma gadiriensis Rieuf SPECIES
 
 #### Status
 ACCEPTED

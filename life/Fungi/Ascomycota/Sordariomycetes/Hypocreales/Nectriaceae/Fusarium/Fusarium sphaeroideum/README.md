@@ -1,5 +1,4 @@
-Fusarium sphaeroideum Pass. SPECIES
-=======
+# Fusarium sphaeroideum Pass. SPECIES
 
 #### Status
 ACCEPTED

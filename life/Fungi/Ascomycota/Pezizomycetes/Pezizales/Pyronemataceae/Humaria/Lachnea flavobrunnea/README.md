@@ -1,5 +1,4 @@
-Lachnea flavobrunnea (Richon) Sacc. SPECIES
-=======
+# Lachnea flavobrunnea (Richon) Sacc. SPECIES
 
 #### Status
 ACCEPTED

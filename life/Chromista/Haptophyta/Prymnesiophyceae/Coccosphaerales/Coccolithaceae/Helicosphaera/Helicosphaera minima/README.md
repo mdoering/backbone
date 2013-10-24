@@ -1,5 +1,4 @@
-Helicosphaera minima Martini, 1974 SPECIES
-=======
+# Helicosphaera minima Martini, 1974 SPECIES
 
 #### Status
 ACCEPTED
