@@ -1,5 +1,4 @@
-Synechococcus salinarum Komárek SPECIES
-=======
+# Synechococcus salinarum Komárek SPECIES
 
 #### Status
 ACCEPTED

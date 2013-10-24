@@ -1,5 +1,4 @@
-Entoloma subfloridanum (Murrill) Hesler SPECIES
-=======
+# Entoloma subfloridanum (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

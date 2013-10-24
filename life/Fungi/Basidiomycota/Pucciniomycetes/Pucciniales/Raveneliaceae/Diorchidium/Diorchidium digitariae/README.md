@@ -1,5 +1,4 @@
-Diorchidium digitariae S. Ahmad SPECIES
-=======
+# Diorchidium digitariae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

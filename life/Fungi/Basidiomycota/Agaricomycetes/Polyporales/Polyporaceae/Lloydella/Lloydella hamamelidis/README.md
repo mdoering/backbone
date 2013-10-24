@@ -1,5 +1,4 @@
-Lloydella hamamelidis (Yasuda) S. Ito SPECIES
-=======
+# Lloydella hamamelidis (Yasuda) S. Ito SPECIES
 
 #### Status
 ACCEPTED

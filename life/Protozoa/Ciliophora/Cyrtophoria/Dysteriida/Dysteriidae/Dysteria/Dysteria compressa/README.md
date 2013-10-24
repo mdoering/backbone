@@ -1,5 +1,4 @@
-Dysteria compressa Gourret & Roeser, 1886 SPECIES
-=======
+# Dysteria compressa Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

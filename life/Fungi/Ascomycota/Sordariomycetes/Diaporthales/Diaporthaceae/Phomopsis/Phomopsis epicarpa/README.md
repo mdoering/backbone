@@ -1,5 +1,4 @@
-Phomopsis epicarpa Sacc. SPECIES
-=======
+# Phomopsis epicarpa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epithele malaiensis Boidin & Lanq., 1983 SPECIES
-=======
+# Epithele malaiensis Boidin & Lanq., 1983 SPECIES
 
 #### Status
 ACCEPTED

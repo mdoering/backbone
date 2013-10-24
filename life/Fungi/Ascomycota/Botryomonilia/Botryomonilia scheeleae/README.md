@@ -1,5 +1,4 @@
-Botryomonilia scheeleae Goos & Piroz., 1975 SPECIES
-=======
+# Botryomonilia scheeleae Goos & Piroz., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium falciforme (Penard, 1922) Kahl, 1930 SPECIES
-=======
+# Spathidium falciforme (Penard, 1922) Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

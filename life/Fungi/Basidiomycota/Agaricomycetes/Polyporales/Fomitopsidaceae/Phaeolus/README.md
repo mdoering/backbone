@@ -1,17 +1,16 @@
-Spongiosus Lloyd ex Torrend GENUS
-=======
+# Phaeolus (Patouillard) Patouillard, 1900 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Brotéria, sér. bot. 18: 121 (1920)
+null
 
 #### Original name
-Spongiosus Lloyd ex Torrend
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heliomyces decolorans Berk. & M.A. Curtis SPECIES
-=======
+# Heliomyces decolorans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

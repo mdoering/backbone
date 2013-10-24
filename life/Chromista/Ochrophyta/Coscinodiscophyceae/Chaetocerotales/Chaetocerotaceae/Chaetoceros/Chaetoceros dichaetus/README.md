@@ -1,5 +1,4 @@
-Chaetoceros dichaetus Ehrenberg, 1844 SPECIES
-=======
+# Chaetoceros dichaetus Ehrenberg, 1844 SPECIES
 
 #### Status
 ACCEPTED

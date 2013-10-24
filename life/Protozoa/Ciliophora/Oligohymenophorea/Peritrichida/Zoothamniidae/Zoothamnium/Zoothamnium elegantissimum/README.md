@@ -1,5 +1,4 @@
-Zoothamnium elegantissimum Dumas, 1929 SPECIES
-=======
+# Zoothamnium elegantissimum Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

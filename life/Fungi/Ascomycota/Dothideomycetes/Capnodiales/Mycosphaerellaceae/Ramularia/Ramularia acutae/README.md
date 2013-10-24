@@ -1,5 +1,4 @@
-Ramularia acutae P. Karst. SPECIES
-=======
+# Ramularia acutae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

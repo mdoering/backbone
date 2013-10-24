@@ -1,5 +1,4 @@
-Conocybe zeylanica var. zeylanica VARIETY
-=======
+# Conocybe zeylanica (Petch) Boedijn SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 5(3-6): 223 (1951)
 
 #### Original name
 Conocybe zeylanica var. zeylanica

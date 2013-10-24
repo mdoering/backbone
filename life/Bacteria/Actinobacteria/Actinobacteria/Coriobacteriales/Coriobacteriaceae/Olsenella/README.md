@@ -1,5 +1,4 @@
-Olsenella Dewhirst, Paster, Tzellas, Coleman, Downes, Spratt & Wade, 2001 GENUS
-=======
+# Olsenella Dewhirst, Paster, Tzellas, Coleman, Downes, Spratt & Wade, 2001 GENUS
 
 #### Status
 ACCEPTED

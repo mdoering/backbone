@@ -1,5 +1,4 @@
-Rhizocarpon tetramerum (Vain.) Vain. SPECIES
-=======
+# Rhizocarpon tetramerum (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

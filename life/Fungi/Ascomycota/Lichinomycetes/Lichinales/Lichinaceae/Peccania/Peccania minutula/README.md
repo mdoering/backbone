@@ -1,5 +1,4 @@
-Peccania minutula Tretiach & M. Schultz SPECIES
-=======
+# Peccania minutula Tretiach & M. Schultz SPECIES
 
 #### Status
 ACCEPTED

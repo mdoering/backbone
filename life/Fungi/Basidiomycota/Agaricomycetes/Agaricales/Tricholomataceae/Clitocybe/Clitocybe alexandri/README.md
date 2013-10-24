@@ -1,17 +1,16 @@
-Clitocybe alexandri var. alexandri VARIETY
-=======
+# Clitocybe alexandri (Gillet) Gillet, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Tabl. analyt. Hyménomyc. France (Alençon) 28 (1884)
 
 #### Original name
-null
+Paxillus alexandri Fr., 1873
 
 ### Remarks
 null

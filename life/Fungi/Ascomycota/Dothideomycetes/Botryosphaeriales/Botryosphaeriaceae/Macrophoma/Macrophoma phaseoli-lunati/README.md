@@ -1,5 +1,4 @@
-Macrophoma phaseoli-lunati Sawada SPECIES
-=======
+# Macrophoma phaseoli-lunati Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptochilium gracile SPECIES
-=======
+# Cryptochilium gracile SPECIES
 
 #### Status
 ACCEPTED

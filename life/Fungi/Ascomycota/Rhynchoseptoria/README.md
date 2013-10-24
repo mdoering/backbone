@@ -1,5 +1,4 @@
-Rhynchoseptoria Unamuno GENUS
-=======
+# Rhynchoseptoria Unamuno GENUS
 
 #### Status
 ACCEPTED

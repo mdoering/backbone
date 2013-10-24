@@ -1,5 +1,4 @@
-Phyllosticta petasitidis Ellis & Everh. SPECIES
-=======
+# Phyllosticta petasitidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

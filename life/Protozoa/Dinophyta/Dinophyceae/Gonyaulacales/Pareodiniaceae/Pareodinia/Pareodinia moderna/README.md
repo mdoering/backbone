@@ -1,5 +1,4 @@
-Pareodinia moderna Kufferath, 1950 SPECIES
-=======
+# Pareodinia moderna Kufferath, 1950 SPECIES
 
 #### Status
 ACCEPTED

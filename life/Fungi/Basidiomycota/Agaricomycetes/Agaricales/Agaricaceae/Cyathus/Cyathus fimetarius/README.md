@@ -1,5 +1,4 @@
-Cyathus fimetarius DC. SPECIES
-=======
+# Cyathus fimetarius DC. SPECIES
 
 #### Status
 ACCEPTED

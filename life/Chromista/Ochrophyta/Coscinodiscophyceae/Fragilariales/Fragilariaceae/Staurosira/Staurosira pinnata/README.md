@@ -1,5 +1,4 @@
-Staurosira pinnata var. trigona (Krasske) Lange-Bertalot in Krammer & Lange-Bertalot VARIETY
-=======
+# Staurosira pinnata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerochaetia dominicana (Cif.) Bat. & Cif. SPECIES
-=======
+# Sphaerochaetia dominicana (Cif.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina cabbalistica (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina cabbalistica (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

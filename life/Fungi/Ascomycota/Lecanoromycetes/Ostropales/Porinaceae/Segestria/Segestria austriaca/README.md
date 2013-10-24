@@ -1,5 +1,4 @@
-Segestria austriaca (Körb.) Zahlbr. SPECIES
-=======
+# Segestria austriaca (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Utraria echinata Quél. SPECIES
-=======
+# Utraria echinata Quél. SPECIES
 
 #### Status
 ACCEPTED

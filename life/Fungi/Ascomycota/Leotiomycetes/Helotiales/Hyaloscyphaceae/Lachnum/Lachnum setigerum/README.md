@@ -1,5 +1,4 @@
-Lachnum setigerum (W. Phillips) Rehm SPECIES
-=======
+# Lachnum setigerum (W. Phillips) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paludibacter propionicigenes Ueki et al., 2006 SPECIES
-=======
+# Paludibacter propionicigenes Ueki et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

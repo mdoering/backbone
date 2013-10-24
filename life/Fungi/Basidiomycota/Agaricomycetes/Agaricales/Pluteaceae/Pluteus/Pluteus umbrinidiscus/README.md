@@ -1,5 +1,4 @@
-Pluteus umbrinidiscus Murrill SPECIES
-=======
+# Pluteus umbrinidiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

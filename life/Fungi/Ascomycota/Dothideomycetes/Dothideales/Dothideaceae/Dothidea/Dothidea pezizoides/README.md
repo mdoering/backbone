@@ -1,5 +1,4 @@
-Dothidea pezizoides Kunze SPECIES
-=======
+# Dothidea pezizoides Kunze SPECIES
 
 #### Status
 ACCEPTED

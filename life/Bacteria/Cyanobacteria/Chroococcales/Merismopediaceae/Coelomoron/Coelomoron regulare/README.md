@@ -1,5 +1,4 @@
-Coelomoron regulare Buell SPECIES
-=======
+# Coelomoron regulare Buell SPECIES
 
 #### Status
 ACCEPTED

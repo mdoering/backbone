@@ -1,5 +1,4 @@
-Munkia strumosa (Cooke) Marchion. SPECIES
-=======
+# Munkia strumosa (Cooke) Marchion. SPECIES
 
 #### Status
 ACCEPTED

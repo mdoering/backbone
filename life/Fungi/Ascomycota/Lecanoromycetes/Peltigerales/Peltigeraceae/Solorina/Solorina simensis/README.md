@@ -1,5 +1,4 @@
-Solorina simensis Hochst. ex Flot. SPECIES
-=======
+# Solorina simensis Hochst. ex Flot. SPECIES
 
 #### Status
 ACCEPTED

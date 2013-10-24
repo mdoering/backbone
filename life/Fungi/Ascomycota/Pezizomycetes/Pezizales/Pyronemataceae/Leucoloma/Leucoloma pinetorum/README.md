@@ -1,5 +1,4 @@
-Leucoloma pinetorum Fuckel SPECIES
-=======
+# Leucoloma pinetorum Fuckel SPECIES
 
 #### Status
 ACCEPTED

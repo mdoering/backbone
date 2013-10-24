@@ -1,17 +1,16 @@
-Gilletia Torrend GENUS
-=======
+# Telligia Hendr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. État 4: 12 (1914)
+Syll. Fung. Congensium 8, 179 (1948)
 
 #### Original name
-Gilletia Torrend
+Telligia Hendr.
 
 ### Remarks
 null

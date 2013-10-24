@@ -1,5 +1,4 @@
-Leccinellum Bresinsky & Manfr. Binder GENUS
-=======
+# Leccinellum Bresinsky & Manfr. Binder GENUS
 
 #### Status
 ACCEPTED

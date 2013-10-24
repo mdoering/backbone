@@ -1,5 +1,4 @@
-Epigloea tortuosa Döbbeler SPECIES
-=======
+# Epigloea tortuosa Döbbeler SPECIES
 
 #### Status
 ACCEPTED

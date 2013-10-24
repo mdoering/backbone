@@ -1,5 +1,4 @@
-Psilocybe stereicola Cleland SPECIES
-=======
+# Psilocybe stereicola Cleland SPECIES
 
 #### Status
 ACCEPTED

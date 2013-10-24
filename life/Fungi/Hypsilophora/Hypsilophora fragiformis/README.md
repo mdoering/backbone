@@ -1,5 +1,4 @@
-Hypsilophora fragiformis Cooke SPECIES
-=======
+# Hypsilophora fragiformis Cooke SPECIES
 
 #### Status
 ACCEPTED

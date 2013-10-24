@@ -1,5 +1,4 @@
-Ectosticta mindoensis Petr. SPECIES
-=======
+# Ectosticta mindoensis Petr. SPECIES
 
 #### Status
 ACCEPTED

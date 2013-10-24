@@ -1,17 +1,16 @@
-Prathigada bauhini P.Rama Rao, P.Rag. Rao & Manohar. SPECIES
-=======
+# Prathigada bauhiniae P.Rama Rao, P.Rag. Rao & Manohar. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 26(2-3): 437 (1975)
 
 #### Original name
-Prathigada bauhini P.Rama Rao, P.Rag. Rao & Manohar.
+Prathigada bauhiniae P.Rama Rao, P.Rag. Rao & Manohar.
 
 ### Remarks
 null

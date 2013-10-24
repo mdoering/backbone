@@ -1,5 +1,4 @@
-Urocystis poae-palustris Vánky, 1976 SPECIES
-=======
+# Urocystis poae-palustris Vánky, 1976 SPECIES
 
 #### Status
 ACCEPTED

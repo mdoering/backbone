@@ -1,17 +1,16 @@
-Russula livescens var. livescens (Batsch) Bataille VARIETY
-=======
+# Russula insignis Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Compt. Rend. Assoc. Franç. Avancem. Sci. 16(2): 588 (1888)
 
 #### Original name
-Russula livescens var. livescens (Batsch) Bataille
+Russula insignis Quél., 1888
 
 ### Remarks
 null

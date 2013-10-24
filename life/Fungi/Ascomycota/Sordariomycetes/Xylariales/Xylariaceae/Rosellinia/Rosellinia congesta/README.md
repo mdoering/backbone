@@ -1,5 +1,4 @@
-Rosellinia congesta I. Hino & Katum. SPECIES
-=======
+# Rosellinia congesta I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

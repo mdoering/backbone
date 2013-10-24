@@ -1,5 +1,4 @@
-Mucor caninus Pers. SPECIES
-=======
+# Mucor caninus Pers. SPECIES
 
 #### Status
 ACCEPTED

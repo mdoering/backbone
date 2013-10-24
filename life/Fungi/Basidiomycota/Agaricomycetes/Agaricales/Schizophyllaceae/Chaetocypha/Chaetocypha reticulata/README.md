@@ -1,5 +1,4 @@
-Chaetocypha reticulata (Berk. & Broome) Kuntze SPECIES
-=======
+# Chaetocypha reticulata (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

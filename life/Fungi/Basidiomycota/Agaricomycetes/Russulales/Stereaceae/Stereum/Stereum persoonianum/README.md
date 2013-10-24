@@ -1,5 +1,4 @@
-Stereum persoonianum Britzelm. SPECIES
-=======
+# Stereum persoonianum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

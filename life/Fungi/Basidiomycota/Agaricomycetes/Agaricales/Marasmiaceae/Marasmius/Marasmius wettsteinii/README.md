@@ -1,5 +1,4 @@
-Marasmius wettsteinii Sacc. & P. Syd., 1899 SPECIES
-=======
+# Marasmius wettsteinii Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula tuberculata Murrill SPECIES
-=======
+# Russula tuberculata Murrill SPECIES
 
 #### Status
 ACCEPTED

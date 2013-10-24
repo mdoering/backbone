@@ -1,5 +1,4 @@
-Mycena insignis var. insignis VARIETY
-=======
+# Mycena insignis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Contr. Univ. Mich. Herb. 5: 25 (1941)
 
 #### Original name
-Mycena insignis var. insignis
+Mycena insignis A.H. Sm.
 
 ### Remarks
 null

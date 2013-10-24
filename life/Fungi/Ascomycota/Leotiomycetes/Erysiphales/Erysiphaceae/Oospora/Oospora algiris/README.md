@@ -1,5 +1,4 @@
-Oospora algiris (R. Blanch.) Sartory SPECIES
-=======
+# Oospora algiris (R. Blanch.) Sartory SPECIES
 
 #### Status
 ACCEPTED

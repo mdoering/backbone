@@ -1,17 +1,16 @@
-Caudophoma B.V. Patil & Thirum. GENUS
-=======
+# Phyllosticta Persoon, 1818 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 20: 36 (1968)
+null
 
 #### Original name
-Caudophoma B.V. Patil & Thirum.
+null
 
 ### Remarks
 null

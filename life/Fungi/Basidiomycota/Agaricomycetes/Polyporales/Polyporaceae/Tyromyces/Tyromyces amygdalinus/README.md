@@ -1,5 +1,4 @@
-Tyromyces amygdalinus (Berk. & Ravenel) Teng SPECIES
-=======
+# Tyromyces amygdalinus (Berk. & Ravenel) Teng SPECIES
 
 #### Status
 ACCEPTED

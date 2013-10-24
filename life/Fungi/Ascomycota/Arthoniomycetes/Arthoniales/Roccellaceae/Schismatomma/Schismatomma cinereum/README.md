@@ -1,5 +1,4 @@
-Schismatomma cinereum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Schismatomma cinereum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

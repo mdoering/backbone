@@ -1,5 +1,4 @@
-Lactarius sumstinei Peck SPECIES
-=======
+# Lactarius sumstinei Peck SPECIES
 
 #### Status
 ACCEPTED

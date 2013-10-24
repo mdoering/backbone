@@ -1,5 +1,4 @@
-Colpoda adaphoni SPECIES
-=======
+# Colpoda adaphoni SPECIES
 
 #### Status
 ACCEPTED

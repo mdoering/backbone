@@ -1,5 +1,4 @@
-Euglena acutissima var. parva Playfair VARIETY
-=======
+# Euglena acutissima Lemmermann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Distopyrenis fuliginosa Aptroot SPECIES
-=======
+# Distopyrenis fuliginosa Aptroot SPECIES
 
 #### Status
 ACCEPTED

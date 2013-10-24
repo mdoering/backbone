@@ -1,5 +1,4 @@
-Pestalotia clavata Cooke & Ellis SPECIES
-=======
+# Pestalotia clavata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

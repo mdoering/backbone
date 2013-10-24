@@ -1,5 +1,4 @@
-Haplaria citri Briosi & Farneti SPECIES
-=======
+# Haplaria citri Briosi & Farneti SPECIES
 
 #### Status
 ACCEPTED

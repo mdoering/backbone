@@ -1,5 +1,4 @@
-Ophioceras cecropiae E. Müll. SPECIES
-=======
+# Ophioceras cecropiae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

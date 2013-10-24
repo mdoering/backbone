@@ -1,5 +1,4 @@
-Pleosphaerulina salicis Kirschst. SPECIES
-=======
+# Pleosphaerulina salicis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

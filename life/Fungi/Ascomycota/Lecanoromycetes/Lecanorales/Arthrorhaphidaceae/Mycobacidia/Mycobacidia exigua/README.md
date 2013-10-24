@@ -1,5 +1,4 @@
-Mycobacidia exigua Velen. SPECIES
-=======
+# Mycobacidia exigua Velen. SPECIES
 
 #### Status
 ACCEPTED

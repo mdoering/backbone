@@ -1,5 +1,4 @@
-Stigmochora leucothoes (Cooke) Höhn. SPECIES
-=======
+# Stigmochora leucothoes (Cooke) Höhn. SPECIES
 
 #### Status
 ACCEPTED

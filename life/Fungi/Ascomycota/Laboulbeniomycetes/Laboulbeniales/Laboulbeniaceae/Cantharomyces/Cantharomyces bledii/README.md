@@ -1,17 +1,16 @@
-Cantharomyces blidii Thaxt. SPECIES
-=======
+# Cantharomyces bledii Thaxt., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Amer. Acad. Arts & Sci. 25: 9 (1890)
 
 #### Original name
-Cantharomyces blidii Thaxt.
+Cantharomyces bledii Thaxt., 1890
 
 ### Remarks
 null

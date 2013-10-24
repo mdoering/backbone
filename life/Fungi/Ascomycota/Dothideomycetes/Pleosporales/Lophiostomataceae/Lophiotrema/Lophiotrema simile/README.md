@@ -1,5 +1,4 @@
-Lophiotrema simile (Nitschke) Berl. & Voglino SPECIES
-=======
+# Lophiotrema simile (Nitschke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

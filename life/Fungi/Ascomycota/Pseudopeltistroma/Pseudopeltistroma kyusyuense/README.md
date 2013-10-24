@@ -1,5 +1,4 @@
-Pseudopeltistroma kyusyuense Katum., 1975 SPECIES
-=======
+# Pseudopeltistroma kyusyuense Katum., 1975 SPECIES
 
 #### Status
 ACCEPTED

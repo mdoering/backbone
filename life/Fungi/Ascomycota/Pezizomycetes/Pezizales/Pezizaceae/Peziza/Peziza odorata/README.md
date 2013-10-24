@@ -1,5 +1,4 @@
-Peziza odorata Peck SPECIES
-=======
+# Peziza odorata Peck SPECIES
 
 #### Status
 ACCEPTED

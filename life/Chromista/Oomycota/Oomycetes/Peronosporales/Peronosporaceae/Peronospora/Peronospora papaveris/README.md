@@ -1,5 +1,4 @@
-Peronospora papaveris Tul. SPECIES
-=======
+# Peronospora papaveris Tul. SPECIES
 
 #### Status
 ACCEPTED

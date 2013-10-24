@@ -1,5 +1,4 @@
-Pluteus violarius (Massee) Sacc. SPECIES
-=======
+# Pluteus violarius (Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

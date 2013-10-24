@@ -1,5 +1,4 @@
-Uredo elymi-capitis-medusae Gonz. Frag. SPECIES
-=======
+# Uredo elymi-capitis-medusae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

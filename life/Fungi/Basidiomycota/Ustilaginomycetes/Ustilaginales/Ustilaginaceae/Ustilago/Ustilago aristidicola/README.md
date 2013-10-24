@@ -1,5 +1,4 @@
-Ustilago aristidicola Henn. SPECIES
-=======
+# Ustilago aristidicola Henn. SPECIES
 
 #### Status
 ACCEPTED

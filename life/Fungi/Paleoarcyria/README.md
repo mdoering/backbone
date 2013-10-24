@@ -1,5 +1,4 @@
-Paleoarcyria M. Jacq.-Fél., C.N. Mill. & Locq. GENUS
-=======
+# Paleoarcyria M. Jacq.-Fél., C.N. Mill. & Locq. GENUS
 
 #### Status
 ACCEPTED

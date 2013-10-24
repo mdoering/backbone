@@ -1,14 +1,13 @@
-Monilia parapsilosis Ashford SPECIES
-=======
+# Candida parapsilosis (Ashford) Langeron & Talice, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Trop. Med. 8: 518 (1928)
+Annls Parasit. hum. comp. 10: 1 (1932)
 
 #### Original name
 Monilia parapsilosis Ashford

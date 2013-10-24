@@ -1,14 +1,13 @@
-Diderma cingulatum var. rimosum (Eliasson & Nann.-Bremek.) Nann.-Bremek. VARIETY
-=======
+# Diderma rimosum Eliasson & Nann.-Bremek., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Yamamoto & Nannenga-Bremekamp, Proc. K. Ned. Akad. Wet. 98(3): 321 (1995)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 86(2): 148 (1983)
 
 #### Original name
 Diderma rimosum Eliasson & Nann.-Bremek., 1983

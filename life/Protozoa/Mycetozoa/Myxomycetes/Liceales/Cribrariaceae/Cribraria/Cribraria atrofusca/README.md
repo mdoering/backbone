@@ -1,17 +1,16 @@
-Cribraria piriformis fuscopurpurea Meyl., 1913 INFRASPECIFIC_NAME
-=======
+# Cribraria atrofusca G.W. Martin & Lovejoy, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Martin, J. Wash. Acad. Sci. 22: 92 (1932)
 
 #### Original name
-null
+Cribraria atrofusca G.W. Martin & Lovejoy, 1932
 
 ### Remarks
 null

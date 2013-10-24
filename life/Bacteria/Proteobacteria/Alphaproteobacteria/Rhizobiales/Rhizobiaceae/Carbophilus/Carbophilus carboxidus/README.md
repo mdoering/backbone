@@ -1,11 +1,10 @@
-Achromobacter carboxydus Nozhevnikova & Zavarzin, 1974 SPECIES
-=======
+# Carbophilus carboxidus (ex Nozhevnikova & Zavarzin, 1974) Meyer et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

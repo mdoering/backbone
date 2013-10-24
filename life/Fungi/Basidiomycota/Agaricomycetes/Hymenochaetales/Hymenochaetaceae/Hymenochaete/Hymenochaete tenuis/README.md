@@ -1,17 +1,16 @@
-Hymenochaete multisetae Burt, 1918 SPECIES
-=======
+# Hymenochaete tenuis Peck, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 5: 357 (1918)
+Ann. Rep. N. Y. St. Mus. nat. Hist. 40: 57 (1887)
 
 #### Original name
-Hymenochaete multisetae Burt, 1918
+Hymenochaete tenuis Peck, 1887
 
 ### Remarks
 null

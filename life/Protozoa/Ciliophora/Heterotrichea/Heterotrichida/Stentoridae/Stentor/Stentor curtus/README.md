@@ -1,5 +1,4 @@
-Stentor curtus Dumas, 1930 SPECIES
-=======
+# Stentor curtus Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

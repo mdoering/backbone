@@ -1,5 +1,4 @@
-Lecidea laceratula Kremp. SPECIES
-=======
+# Lecidea laceratula Kremp. SPECIES
 
 #### Status
 ACCEPTED

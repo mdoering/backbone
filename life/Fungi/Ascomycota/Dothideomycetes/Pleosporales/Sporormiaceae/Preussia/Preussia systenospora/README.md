@@ -1,5 +1,4 @@
-Preussia systenospora (S.I. Ahmed & Cain) Soláns SPECIES
-=======
+# Preussia systenospora (S.I. Ahmed & Cain) Soláns SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Condylostoma rostratum Kahl, 1926 SPECIES
-=======
+# Condylostoma rostratum Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

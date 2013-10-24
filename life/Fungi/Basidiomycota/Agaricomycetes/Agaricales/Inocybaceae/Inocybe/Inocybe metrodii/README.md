@@ -1,5 +1,4 @@
-Inocybe metrodii Stangl & J. Veselský SPECIES
-=======
+# Inocybe metrodii Stangl & J. Veselský SPECIES
 
 #### Status
 ACCEPTED

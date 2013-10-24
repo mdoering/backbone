@@ -1,5 +1,4 @@
-Inocybe heterochrominea Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe heterochrominea Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

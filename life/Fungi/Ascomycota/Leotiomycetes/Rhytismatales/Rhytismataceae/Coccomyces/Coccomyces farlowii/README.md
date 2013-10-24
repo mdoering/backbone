@@ -1,5 +1,4 @@
-Coccomyces farlowii Sherwood, 1980 SPECIES
-=======
+# Coccomyces farlowii Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria gypsophilae var. gypsophilae VARIETY
-=======
+# Septoria gypsophilae Died. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Krypt. -Fl. Brandenburg (Leipzig) 9: 468 (1915)
 
 #### Original name
-Septoria gypsophilae var. gypsophilae
+Septoria gypsophilae Died.
 
 ### Remarks
 null

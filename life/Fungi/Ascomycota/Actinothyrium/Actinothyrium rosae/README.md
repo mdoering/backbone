@@ -1,5 +1,4 @@
-Actinothyrium rosae Edward et al. {?} SPECIES
-=======
+# Actinothyrium rosae Edward et al. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomella pongamiae K.V. Rao, K. Gopal & Manohar. SPECIES
-=======
+# Asterostomella pongamiae K.V. Rao, K. Gopal & Manohar. SPECIES
 
 #### Status
 ACCEPTED

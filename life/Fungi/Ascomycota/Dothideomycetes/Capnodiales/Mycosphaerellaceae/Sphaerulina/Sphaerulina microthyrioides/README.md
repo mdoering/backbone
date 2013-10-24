@@ -1,5 +1,4 @@
-Sphaerulina microthyrioides Rehm SPECIES
-=======
+# Sphaerulina microthyrioides Rehm SPECIES
 
 #### Status
 ACCEPTED

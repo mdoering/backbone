@@ -1,5 +1,4 @@
-Collybia ramosa (Bull.) Fr. SPECIES
-=======
+# Collybia ramosa (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

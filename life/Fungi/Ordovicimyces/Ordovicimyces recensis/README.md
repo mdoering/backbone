@@ -1,5 +1,4 @@
-Ordovicimyces recensis M.K. Elias SPECIES
-=======
+# Ordovicimyces recensis M.K. Elias SPECIES
 
 #### Status
 ACCEPTED

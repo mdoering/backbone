@@ -1,5 +1,4 @@
-Astasioides GENUS
-=======
+# Astasioides GENUS
 
 #### Status
 ACCEPTED

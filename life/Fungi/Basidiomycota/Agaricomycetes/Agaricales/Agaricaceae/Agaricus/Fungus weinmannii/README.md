@@ -1,5 +1,4 @@
-Fungus weinmannii (Fr.) Kuntze SPECIES
-=======
+# Fungus weinmannii (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

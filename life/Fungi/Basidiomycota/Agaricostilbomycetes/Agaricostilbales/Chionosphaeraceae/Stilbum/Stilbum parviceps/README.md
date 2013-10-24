@@ -1,5 +1,4 @@
-Stilbum parviceps Penz. & Sacc. SPECIES
-=======
+# Stilbum parviceps Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

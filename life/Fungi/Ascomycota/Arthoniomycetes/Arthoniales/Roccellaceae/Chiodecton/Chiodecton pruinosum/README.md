@@ -1,5 +1,4 @@
-Chiodecton pruinosum (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Chiodecton pruinosum (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

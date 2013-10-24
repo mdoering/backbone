@@ -1,5 +1,4 @@
-Uncinulites pezizaffinis (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Uncinulites pezizaffinis (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

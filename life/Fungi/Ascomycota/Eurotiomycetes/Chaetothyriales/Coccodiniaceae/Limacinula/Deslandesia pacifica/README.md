@@ -1,5 +1,4 @@
-Deslandesia pacifica Bat. & Nascim. SPECIES
-=======
+# Deslandesia pacifica Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

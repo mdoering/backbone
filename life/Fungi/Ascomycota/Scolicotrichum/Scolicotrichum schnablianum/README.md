@@ -1,5 +1,4 @@
-Scolicotrichum schnablianum (Allesch.) Petr. SPECIES
-=======
+# Scolicotrichum schnablianum (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

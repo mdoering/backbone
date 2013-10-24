@@ -1,5 +1,4 @@
-Acrostroma madhucae R.K. Verma, N. Sharma & Soni SPECIES
-=======
+# Acrostroma madhucae R.K. Verma, N. Sharma & Soni SPECIES
 
 #### Status
 ACCEPTED

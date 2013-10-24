@@ -1,5 +1,4 @@
-Phyllachora usteriana Speg., 1908 SPECIES
-=======
+# Phyllachora usteriana Speg., 1908 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Vaucheria longicaulis var. macounii Blum VARIETY
-=======
+# Vaucheria longicaulis Hoppaugh SPECIES
 
 #### Status
 ACCEPTED

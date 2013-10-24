@@ -1,5 +1,4 @@
-Aecidium solani-unguiculati Henn. SPECIES
-=======
+# Aecidium solani-unguiculati Henn. SPECIES
 
 #### Status
 ACCEPTED

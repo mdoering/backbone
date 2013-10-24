@@ -1,5 +1,4 @@
-Selenophoma serratulae (Allesch.) Petr. SPECIES
-=======
+# Selenophoma serratulae (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

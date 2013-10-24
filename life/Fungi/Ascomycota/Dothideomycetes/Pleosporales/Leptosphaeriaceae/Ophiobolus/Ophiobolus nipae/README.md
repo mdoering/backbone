@@ -1,5 +1,4 @@
-Ophiobolus nipae Henn. SPECIES
-=======
+# Ophiobolus nipae Henn. SPECIES
 
 #### Status
 ACCEPTED

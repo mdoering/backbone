@@ -1,5 +1,4 @@
-Phylloedium aurantiaca Bres. SPECIES
-=======
+# Phylloedium aurantiaca Bres. SPECIES
 
 #### Status
 ACCEPTED

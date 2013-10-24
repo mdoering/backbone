@@ -1,5 +1,4 @@
-Polyporus subpendulus (G.F. Atk.) Sacc. & Trotter SPECIES
-=======
+# Polyporus subpendulus (G.F. Atk.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

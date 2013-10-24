@@ -1,5 +1,4 @@
-Dilophia magnoliae Ellis & Everh. SPECIES
-=======
+# Dilophia magnoliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

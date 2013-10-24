@@ -1,5 +1,4 @@
-Caryocha latifenestrata (A. Bachmann) D. Bukry & S. Monechi SPECIES
-=======
+# Caryocha latifenestrata (A. Bachmann) D. Bukry & S. Monechi SPECIES
 
 #### Status
 ACCEPTED

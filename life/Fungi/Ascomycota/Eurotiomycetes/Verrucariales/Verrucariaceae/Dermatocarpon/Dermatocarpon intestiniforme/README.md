@@ -1,17 +1,16 @@
-Dermatocarpon polyphyllum f. polyphyllum FORM
-=======
+# Dermatocarpon intestiniforme (Körb.) Hasse SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 15: 46 (1912)
 
 #### Original name
-Dermatocarpon polyphyllum f. polyphyllum
+Endocarpon intestiniforme Körb.
 
 ### Remarks
 null

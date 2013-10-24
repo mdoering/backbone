@@ -1,5 +1,4 @@
-Macrophyllosticta pilocarpi (Sousa da Câmara) Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta pilocarpi (Sousa da Câmara) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

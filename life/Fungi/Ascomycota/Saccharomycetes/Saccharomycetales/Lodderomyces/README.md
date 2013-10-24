@@ -1,5 +1,4 @@
-Lodderomyces Van der Walt, 1966 GENUS
-=======
+# Lodderomyces Van der Walt, 1966 GENUS
 
 #### Status
 ACCEPTED

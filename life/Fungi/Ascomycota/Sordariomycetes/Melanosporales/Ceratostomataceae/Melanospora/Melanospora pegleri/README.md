@@ -1,5 +1,4 @@
-Melanospora pegleri D. Hawksw. & A. Henrici, 1999 SPECIES
-=======
+# Melanospora pegleri D. Hawksw. & A. Henrici, 1999 SPECIES
 
 #### Status
 ACCEPTED

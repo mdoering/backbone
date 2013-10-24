@@ -1,5 +1,4 @@
-Nolanea intersita (Britzelm.) Sacc. SPECIES
-=======
+# Nolanea intersita (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

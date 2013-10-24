@@ -1,5 +1,4 @@
-Panellus dumontii Singer SPECIES
-=======
+# Panellus dumontii Singer SPECIES
 
 #### Status
 ACCEPTED

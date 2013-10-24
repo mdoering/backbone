@@ -1,5 +1,4 @@
-Baltisphaeridium lueberi Timofeev, 1959 ex Rauscher, 1973 SPECIES
-=======
+# Baltisphaeridium lueberi Timofeev, 1959 ex Rauscher, 1973 SPECIES
 
 #### Status
 ACCEPTED

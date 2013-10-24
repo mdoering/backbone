@@ -1,5 +1,4 @@
-Desulfoluna butyratoxydans Suzuki, Ueki, Amaishi & Ueki, 2008 SPECIES
-=======
+# Desulfoluna butyratoxydans Suzuki, Ueki, Amaishi & Ueki, 2008 SPECIES
 
 #### Status
 ACCEPTED

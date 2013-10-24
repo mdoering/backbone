@@ -1,5 +1,4 @@
-Psilonia aterrima Cooke SPECIES
-=======
+# Psilonia aterrima Cooke SPECIES
 
 #### Status
 ACCEPTED

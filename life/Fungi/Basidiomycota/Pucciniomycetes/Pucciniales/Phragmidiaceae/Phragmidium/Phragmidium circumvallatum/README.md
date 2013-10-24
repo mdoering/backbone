@@ -1,5 +1,4 @@
-Phragmidium circumvallatum Magnus SPECIES
-=======
+# Phragmidium circumvallatum Magnus SPECIES
 
 #### Status
 ACCEPTED

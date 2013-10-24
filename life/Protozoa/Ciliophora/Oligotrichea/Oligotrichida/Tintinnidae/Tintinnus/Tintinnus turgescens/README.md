@@ -1,5 +1,4 @@
-Tintinnus turgescens Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus turgescens Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

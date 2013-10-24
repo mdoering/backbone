@@ -1,5 +1,4 @@
-Liberibacter GENUS
-=======
+# Liberibacter GENUS
 
 #### Status
 ACCEPTED

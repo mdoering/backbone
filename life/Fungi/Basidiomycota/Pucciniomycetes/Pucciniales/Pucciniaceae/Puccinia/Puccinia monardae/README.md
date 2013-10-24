@@ -1,5 +1,4 @@
-Puccinia monardae J.W. Baxter SPECIES
-=======
+# Puccinia monardae J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea tuberosa P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea tuberosa P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

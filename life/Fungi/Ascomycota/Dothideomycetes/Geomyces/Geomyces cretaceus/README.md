@@ -1,5 +1,4 @@
-Geomyces cretaceus Traaen SPECIES
-=======
+# Geomyces cretaceus Traaen SPECIES
 
 #### Status
 ACCEPTED

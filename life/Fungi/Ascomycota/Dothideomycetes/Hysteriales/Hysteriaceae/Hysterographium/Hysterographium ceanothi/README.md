@@ -1,5 +1,4 @@
-Hysterographium ceanothi (W. Phillips & Harkn.) Berl. & Voglino SPECIES
-=======
+# Hysterographium ceanothi (W. Phillips & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

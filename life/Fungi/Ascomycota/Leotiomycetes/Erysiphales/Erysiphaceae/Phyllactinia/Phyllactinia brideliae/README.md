@@ -1,5 +1,4 @@
-Phyllactinia brideliae Patil {?} SPECIES
-=======
+# Phyllactinia brideliae Patil {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytophthora tropicalis Aragaki & J.Y. Uchida, 2001 SPECIES
-=======
+# Phytophthora tropicalis Aragaki & J.Y. Uchida, 2001 SPECIES
 
 #### Status
 ACCEPTED

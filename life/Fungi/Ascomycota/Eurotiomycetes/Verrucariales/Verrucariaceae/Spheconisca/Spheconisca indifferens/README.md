@@ -1,5 +1,4 @@
-Spheconisca indifferens Norman SPECIES
-=======
+# Spheconisca indifferens Norman SPECIES
 
 #### Status
 ACCEPTED

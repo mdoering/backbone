@@ -1,5 +1,4 @@
-Leptothyrium punctiforme Berk. & M.A. Curtis SPECIES
-=======
+# Leptothyrium punctiforme Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoëlla cascarillae Rehm SPECIES
-=======
+# Zignoëlla cascarillae Rehm SPECIES
 
 #### Status
 ACCEPTED

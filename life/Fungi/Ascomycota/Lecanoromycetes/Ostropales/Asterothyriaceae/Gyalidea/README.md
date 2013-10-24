@@ -1,17 +1,16 @@
-Aglaothecium Groenh. GENUS
-=======
+# Gyalidea Lettau ex Vezda, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Persoonia 2(3): 349 (1962)
+null
 
 #### Original name
-Aglaothecium Groenh.
+null
 
 ### Remarks
 null

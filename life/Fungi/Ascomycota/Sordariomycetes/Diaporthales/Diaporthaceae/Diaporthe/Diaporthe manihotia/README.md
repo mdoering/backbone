@@ -1,5 +1,4 @@
-Diaporthe manihotia Punith. SPECIES
-=======
+# Diaporthe manihotia Punith. SPECIES
 
 #### Status
 ACCEPTED

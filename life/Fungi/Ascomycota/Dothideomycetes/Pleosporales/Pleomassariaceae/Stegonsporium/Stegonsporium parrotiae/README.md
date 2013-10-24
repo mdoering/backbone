@@ -1,5 +1,4 @@
-Stegonsporium parrotiae S. Ahmad SPECIES
-=======
+# Stegonsporium parrotiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

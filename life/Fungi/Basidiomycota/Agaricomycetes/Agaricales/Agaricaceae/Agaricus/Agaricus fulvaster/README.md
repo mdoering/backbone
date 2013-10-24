@@ -1,5 +1,4 @@
-Agaricus fulvaster Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus fulvaster Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

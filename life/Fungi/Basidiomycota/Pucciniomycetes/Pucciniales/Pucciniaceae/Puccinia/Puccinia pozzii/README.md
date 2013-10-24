@@ -1,5 +1,4 @@
-Puccinia pozzii Semadeni SPECIES
-=======
+# Puccinia pozzii Semadeni SPECIES
 
 #### Status
 ACCEPTED

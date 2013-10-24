@@ -1,5 +1,4 @@
-Anzia palochrocheila Vain. SPECIES
-=======
+# Anzia palochrocheila Vain. SPECIES
 
 #### Status
 ACCEPTED

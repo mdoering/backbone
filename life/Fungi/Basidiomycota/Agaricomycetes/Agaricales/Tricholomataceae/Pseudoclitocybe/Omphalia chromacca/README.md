@@ -1,5 +1,4 @@
-Omphalia chromacca SPECIES
-=======
+# Omphalia chromacca SPECIES
 
 #### Status
 ACCEPTED

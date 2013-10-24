@@ -1,5 +1,4 @@
-Phomopsis hyperici Grove, 1922 SPECIES
-=======
+# Phomopsis hyperici Grove, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliocladium nigrum Moreau SPECIES
-=======
+# Gliocladium nigrum Moreau SPECIES
 
 #### Status
 ACCEPTED

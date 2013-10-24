@@ -1,5 +1,4 @@
-Methylobacterium salsuginis Wang, Sahr, Xue & Sun, 2007 SPECIES
-=======
+# Methylobacterium salsuginis Wang, Sahr, Xue & Sun, 2007 SPECIES
 
 #### Status
 ACCEPTED

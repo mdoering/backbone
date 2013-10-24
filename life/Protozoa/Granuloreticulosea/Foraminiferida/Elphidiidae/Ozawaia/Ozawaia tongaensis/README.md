@@ -1,5 +1,4 @@
-Ozawaia tongaensis Cushman, 1931 SPECIES
-=======
+# Ozawaia tongaensis Cushman, 1931 SPECIES
 
 #### Status
 ACCEPTED

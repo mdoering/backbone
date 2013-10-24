@@ -1,5 +1,4 @@
-Acanthorus maranhensis Bat. & Cavalc., 1967 SPECIES
-=======
+# Acanthorus maranhensis Bat. & Cavalc., 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanomma cupulatum Ellis & Everh. SPECIES
-=======
+# Melanomma cupulatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilosace fagicola (Lasch) Kuntze SPECIES
-=======
+# Pilosace fagicola (Lasch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

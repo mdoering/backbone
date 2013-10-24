@@ -1,5 +1,4 @@
-Coniothyrium undulatum Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Coniothyrium undulatum Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

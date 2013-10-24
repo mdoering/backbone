@@ -1,5 +1,4 @@
-Dictyodothis macrocarpa A. Pande SPECIES
-=======
+# Dictyodothis macrocarpa A. Pande SPECIES
 
 #### Status
 ACCEPTED

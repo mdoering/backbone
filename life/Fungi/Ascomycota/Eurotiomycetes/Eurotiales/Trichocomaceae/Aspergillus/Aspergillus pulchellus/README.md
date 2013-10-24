@@ -1,5 +1,4 @@
-Aspergillus pulchellus (Speg.) Thom & Church SPECIES
-=======
+# Aspergillus pulchellus (Speg.) Thom & Church SPECIES
 
 #### Status
 ACCEPTED

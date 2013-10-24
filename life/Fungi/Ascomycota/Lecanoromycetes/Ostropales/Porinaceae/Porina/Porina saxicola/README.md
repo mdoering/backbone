@@ -1,5 +1,4 @@
-Porina saxicola (C. Knight) Müll. Arg. SPECIES
-=======
+# Porina saxicola (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

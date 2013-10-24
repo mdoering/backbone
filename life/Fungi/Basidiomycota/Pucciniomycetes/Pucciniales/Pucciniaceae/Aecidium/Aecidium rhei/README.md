@@ -1,5 +1,4 @@
-Aecidium rhei Sowerby SPECIES
-=======
+# Aecidium rhei Sowerby SPECIES
 
 #### Status
 ACCEPTED

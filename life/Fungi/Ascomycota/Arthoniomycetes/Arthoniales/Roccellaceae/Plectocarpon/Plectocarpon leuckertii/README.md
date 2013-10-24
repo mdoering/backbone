@@ -1,5 +1,4 @@
-Plectocarpon leuckertii (S.Y. Kondr. & D.J. Galloway) Ertz & Diederich SPECIES
-=======
+# Plectocarpon leuckertii (S.Y. Kondr. & D.J. Galloway) Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

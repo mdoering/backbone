@@ -1,5 +1,4 @@
-Pertusaria nagasakensis Nyl. SPECIES
-=======
+# Pertusaria nagasakensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

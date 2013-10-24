@@ -1,5 +1,4 @@
-Cheilymenia sclerotiorum T. Schumach. SPECIES
-=======
+# Cheilymenia sclerotiorum T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelodendronium Haeckel, 1887 GENUS
-=======
+# Coelodendronium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

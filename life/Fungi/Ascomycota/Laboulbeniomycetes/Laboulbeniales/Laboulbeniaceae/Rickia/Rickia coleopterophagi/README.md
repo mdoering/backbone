@@ -1,5 +1,4 @@
-Rickia coleopterophagi Paoli SPECIES
-=======
+# Rickia coleopterophagi Paoli SPECIES
 
 #### Status
 ACCEPTED

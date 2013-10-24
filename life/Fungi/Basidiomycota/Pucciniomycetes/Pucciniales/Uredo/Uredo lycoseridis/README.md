@@ -1,5 +1,4 @@
-Uredo lycoseridis var. lycoseridis VARIETY
-=======
+# Uredo lycoseridis F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 35(4): 443 (1943)
 
 #### Original name
-Uredo lycoseridis var. lycoseridis
+Uredo lycoseridis F. Kern & Thurst.
 
 ### Remarks
 null

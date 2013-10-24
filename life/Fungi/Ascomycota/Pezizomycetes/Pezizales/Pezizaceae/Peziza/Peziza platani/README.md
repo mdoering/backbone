@@ -1,5 +1,4 @@
-Peziza platani Pers. SPECIES
-=======
+# Peziza platani Pers. SPECIES
 
 #### Status
 ACCEPTED

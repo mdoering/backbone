@@ -1,5 +1,4 @@
-Phaeoramularia uttarkashiensis Kamal, B.K. Gupta & C. Gupta SPECIES
-=======
+# Phaeoramularia uttarkashiensis Kamal, B.K. Gupta & C. Gupta SPECIES
 
 #### Status
 ACCEPTED

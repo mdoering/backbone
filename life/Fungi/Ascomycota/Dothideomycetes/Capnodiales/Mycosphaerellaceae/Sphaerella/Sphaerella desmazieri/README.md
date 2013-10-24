@@ -1,5 +1,4 @@
-Sphaerella desmazieri (Mont.) Sacc. SPECIES
-=======
+# Sphaerella desmazieri (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leucoagaricus steppicolus Zerova ex Wasser SPECIES
-=======
+# Leucoagaricus steppicola Zerova ex Wasser SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. Sist. vjssh. niz. Rast. , 1975 192 (1976)
 
 #### Original name
-Leucoagaricus steppicolus Zerova ex Wasser
+Leucoagaricus steppicola Zerova ex Wasser
 
 ### Remarks
 null

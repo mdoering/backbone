@@ -1,5 +1,4 @@
-Thalassiosira exceptiuncula M. Shiono SPECIES
-=======
+# Thalassiosira exceptiuncula M. Shiono SPECIES
 
 #### Status
 ACCEPTED

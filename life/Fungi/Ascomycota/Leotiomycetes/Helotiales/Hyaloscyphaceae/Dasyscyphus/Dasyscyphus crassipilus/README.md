@@ -1,5 +1,4 @@
-Dasyscyphus crassipilus Graddon SPECIES
-=======
+# Dasyscyphus crassipilus Graddon SPECIES
 
 #### Status
 ACCEPTED

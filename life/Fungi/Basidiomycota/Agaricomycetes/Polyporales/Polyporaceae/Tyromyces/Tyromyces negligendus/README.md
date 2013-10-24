@@ -1,5 +1,4 @@
-Tyromyces negligendus Corner SPECIES
-=======
+# Tyromyces negligendus Corner SPECIES
 
 #### Status
 ACCEPTED

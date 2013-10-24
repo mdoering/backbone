@@ -1,5 +1,4 @@
-Neotyphodium Glenn, C.W. Bacon & Hanlin, 1996 GENUS
-=======
+# Neotyphodium Glenn, C.W. Bacon & Hanlin, 1996 GENUS
 
 #### Status
 ACCEPTED

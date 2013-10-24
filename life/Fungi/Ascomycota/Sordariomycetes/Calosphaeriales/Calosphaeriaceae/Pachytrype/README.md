@@ -1,5 +1,4 @@
-Pachytrype Berl. ex M.E. Barr, J.D. Rogers & Y.M. Ju GENUS
-=======
+# Pachytrype Berl. ex M.E. Barr, J.D. Rogers & Y.M. Ju GENUS
 
 #### Status
 ACCEPTED

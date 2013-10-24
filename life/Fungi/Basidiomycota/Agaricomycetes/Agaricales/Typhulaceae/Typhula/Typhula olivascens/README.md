@@ -1,5 +1,4 @@
-Typhula olivascens Berthier, 1974 SPECIES
-=======
+# Typhula olivascens Berthier, 1974 SPECIES
 
 #### Status
 ACCEPTED

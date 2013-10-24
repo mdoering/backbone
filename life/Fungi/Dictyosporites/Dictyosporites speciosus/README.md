@@ -1,5 +1,4 @@
-Dictyosporites speciosus Cookson & Dettmann SPECIES
-=======
+# Dictyosporites speciosus Cookson & Dettmann SPECIES
 
 #### Status
 ACCEPTED

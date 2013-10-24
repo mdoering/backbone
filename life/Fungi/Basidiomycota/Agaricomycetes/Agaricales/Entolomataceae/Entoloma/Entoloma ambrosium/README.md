@@ -1,5 +1,4 @@
-Entoloma ambrosium (Quél.) Noordel. SPECIES
-=======
+# Entoloma ambrosium (Quél.) Noordel. SPECIES
 
 #### Status
 ACCEPTED

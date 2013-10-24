@@ -1,5 +1,4 @@
-Gliocladium deliquescens Sopp, 1912 SPECIES
-=======
+# Gliocladium deliquescens Sopp, 1912 SPECIES
 
 #### Status
 ACCEPTED

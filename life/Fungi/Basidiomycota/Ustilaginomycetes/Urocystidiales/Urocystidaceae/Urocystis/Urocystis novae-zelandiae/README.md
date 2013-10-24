@@ -1,14 +1,13 @@
-Urocystis novae-zealandiae (G. Cunn.) Zundel SPECIES
-=======
+# Urocystis novae-zelandiae (G. Cunn.) G. Cunn., 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. & Proc. Roy. Soc. New Zealand 75(3): 344 (1945)
 
 #### Original name
 Tuburcinia novae-zelandiae G. Cunn., 1928

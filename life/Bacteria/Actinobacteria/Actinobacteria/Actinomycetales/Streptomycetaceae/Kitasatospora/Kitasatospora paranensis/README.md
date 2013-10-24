@@ -1,5 +1,4 @@
-Kitasatospora paranensis Groth et al., 2004 SPECIES
-=======
+# Kitasatospora paranensis Groth et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

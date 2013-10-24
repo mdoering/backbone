@@ -1,5 +1,4 @@
-Cryptothecia porifera Groenh. SPECIES
-=======
+# Cryptothecia porifera Groenh. SPECIES
 
 #### Status
 ACCEPTED

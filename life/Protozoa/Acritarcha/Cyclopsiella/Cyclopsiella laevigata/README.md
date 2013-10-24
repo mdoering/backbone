@@ -1,5 +1,4 @@
-Cyclopsiella laevigata (Châteauneuf, 1980) Head et al., 1989 SPECIES
-=======
+# Cyclopsiella laevigata (Châteauneuf, 1980) Head et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

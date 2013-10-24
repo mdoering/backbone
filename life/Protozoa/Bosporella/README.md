@@ -1,5 +1,4 @@
-Bosporella Hovasse GENUS
-=======
+# Bosporella Hovasse GENUS
 
 #### Status
 ACCEPTED

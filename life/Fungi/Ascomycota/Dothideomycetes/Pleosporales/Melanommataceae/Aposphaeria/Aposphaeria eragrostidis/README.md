@@ -1,5 +1,4 @@
-Aposphaeria eragrostidis Castell. & Ciccar. SPECIES
-=======
+# Aposphaeria eragrostidis Castell. & Ciccar. SPECIES
 
 #### Status
 ACCEPTED

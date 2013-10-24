@@ -1,5 +1,4 @@
-Phialea phaeoconia Fairm. SPECIES
-=======
+# Phialea phaeoconia Fairm. SPECIES
 
 #### Status
 ACCEPTED

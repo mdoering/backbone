@@ -1,5 +1,4 @@
-Spelaeopogon lucifugus Borzi SPECIES
-=======
+# Spelaeopogon lucifugus Borzi SPECIES
 
 #### Status
 ACCEPTED

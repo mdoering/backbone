@@ -1,5 +1,4 @@
-Cyclidiopsis acus Korchikow SPECIES
-=======
+# Cyclidiopsis acus Korchikow SPECIES
 
 #### Status
 ACCEPTED

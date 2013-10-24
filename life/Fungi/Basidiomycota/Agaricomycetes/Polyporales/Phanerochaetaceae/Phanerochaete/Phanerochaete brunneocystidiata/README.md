@@ -1,5 +1,4 @@
-Phanerochaete brunneocystidiata Sheng H. Wu SPECIES
-=======
+# Phanerochaete brunneocystidiata Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

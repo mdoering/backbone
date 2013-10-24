@@ -1,5 +1,4 @@
-Marasmius acerosus Y.S. Tan & Desjardin SPECIES
-=======
+# Marasmius acerosus Y.S. Tan & Desjardin SPECIES
 
 #### Status
 ACCEPTED

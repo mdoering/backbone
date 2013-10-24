@@ -1,5 +1,4 @@
-Boletus sartor Corner SPECIES
-=======
+# Boletus sartor Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis myrtilli Petr. SPECIES
-=======
+# Phomopsis myrtilli Petr. SPECIES
 
 #### Status
 ACCEPTED

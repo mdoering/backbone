@@ -1,5 +1,4 @@
-Diatrype himalayensis Dargan & Bhatia SPECIES
-=======
+# Diatrype himalayensis Dargan & Bhatia SPECIES
 
 #### Status
 ACCEPTED

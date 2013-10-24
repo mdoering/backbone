@@ -1,5 +1,4 @@
-Fungus indictivus (Britzelm.) Kuntze SPECIES
-=======
+# Fungus indictivus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

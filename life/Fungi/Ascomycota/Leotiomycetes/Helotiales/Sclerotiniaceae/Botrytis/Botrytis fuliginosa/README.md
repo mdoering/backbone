@@ -1,5 +1,4 @@
-Botrytis fuliginosa Cooke & Ellis SPECIES
-=======
+# Botrytis fuliginosa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

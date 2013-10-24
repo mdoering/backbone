@@ -1,5 +1,4 @@
-Sphaeria caricicola Fuckel SPECIES
-=======
+# Sphaeria caricicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

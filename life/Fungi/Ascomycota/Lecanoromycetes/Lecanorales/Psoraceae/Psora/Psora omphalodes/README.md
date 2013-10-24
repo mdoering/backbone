@@ -1,5 +1,4 @@
-Psora omphalodes (L.) Baumg. SPECIES
-=======
+# Psora omphalodes (L.) Baumg. SPECIES
 
 #### Status
 ACCEPTED

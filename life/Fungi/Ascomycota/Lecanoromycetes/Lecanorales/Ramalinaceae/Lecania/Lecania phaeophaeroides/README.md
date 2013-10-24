@@ -1,5 +1,4 @@
-Lecania phaeophaeroides SPECIES
-=======
+# Lecania phaeophaeroides SPECIES
 
 #### Status
 ACCEPTED

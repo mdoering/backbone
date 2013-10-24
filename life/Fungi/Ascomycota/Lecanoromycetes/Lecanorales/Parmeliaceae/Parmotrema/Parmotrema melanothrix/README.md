@@ -1,5 +1,4 @@
-Parmotrema melanothrix (Mont.) Hale SPECIES
-=======
+# Parmotrema melanothrix (Mont.) Hale SPECIES
 
 #### Status
 ACCEPTED

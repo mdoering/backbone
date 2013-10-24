@@ -1,5 +1,4 @@
-Mycena beardsleeana Singer SPECIES
-=======
+# Mycena beardsleeana Singer SPECIES
 
 #### Status
 ACCEPTED

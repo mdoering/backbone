@@ -1,5 +1,4 @@
-Boletus lilacinus Schwein. SPECIES
-=======
+# Boletus lilacinus Schwein. SPECIES
 
 #### Status
 ACCEPTED

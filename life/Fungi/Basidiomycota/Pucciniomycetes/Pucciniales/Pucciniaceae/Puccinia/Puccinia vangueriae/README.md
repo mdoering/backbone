@@ -1,5 +1,4 @@
-Puccinia vangueriae Doidge SPECIES
-=======
+# Puccinia vangueriae Doidge SPECIES
 
 #### Status
 ACCEPTED

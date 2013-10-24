@@ -1,5 +1,4 @@
-Phaeotrema apertum C.W. Dodge SPECIES
-=======
+# Phaeotrema apertum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycenoporella lutea Overeem SPECIES
-=======
+# Mycenoporella lutea Overeem SPECIES
 
 #### Status
 ACCEPTED

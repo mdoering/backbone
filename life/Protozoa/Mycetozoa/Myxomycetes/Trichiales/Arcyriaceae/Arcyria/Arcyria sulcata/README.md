@@ -1,5 +1,4 @@
-Arcyria sulcata Dörfelt & A.R. Schmidt, 2003 SPECIES
-=======
+# Arcyria sulcata Dörfelt & A.R. Schmidt, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula javanica Sacc. & P. Syd. SPECIES
-=======
+# Russula javanica Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygloea cissi Pat. SPECIES
-=======
+# Platygloea cissi Pat. SPECIES
 
 #### Status
 ACCEPTED

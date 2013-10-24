@@ -1,5 +1,4 @@
-Phyllosticta ginkgo Brunaud SPECIES
-=======
+# Phyllosticta ginkgo Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bütschlia lanceolata Fiorentini, 1890 SPECIES
-=======
+# Bütschlia lanceolata Fiorentini, 1890 SPECIES
 
 #### Status
 ACCEPTED

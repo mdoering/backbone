@@ -1,5 +1,4 @@
-Characonidia ingae Bat. & Cavalc., 1965 SPECIES
-=======
+# Characonidia ingae Bat. & Cavalc., 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora cerodes Nyl. SPECIES
-=======
+# Lecanora cerodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

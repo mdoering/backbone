@@ -1,17 +1,16 @@
-Alternaria porri f. sp FORM
-=======
+# Alternaria solani Sorauer, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Danish species of Alternaria & Stemphylium 260 (1945)
+Z. PflKrankh. PflPath. PflSchutz 6: 6 (1896)
 
 #### Original name
-Alternaria porri f. sp
+Alternaria solani Sorauer, 1896
 
 ### Remarks
 null

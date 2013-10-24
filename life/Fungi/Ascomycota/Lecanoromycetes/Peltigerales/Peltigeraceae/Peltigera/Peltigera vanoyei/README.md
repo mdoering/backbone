@@ -1,5 +1,4 @@
-Peltigera vanoyei P.A. Duvign. SPECIES
-=======
+# Peltigera vanoyei P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulveraria aeruginosa (F.H. Wigg.) Rabenh. SPECIES
-=======
+# Pulveraria aeruginosa (F.H. Wigg.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

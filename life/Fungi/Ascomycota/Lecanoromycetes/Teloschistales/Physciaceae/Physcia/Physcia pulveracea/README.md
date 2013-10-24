@@ -1,5 +1,4 @@
-Physcia pulveracea (Hoffm.) Vain. SPECIES
-=======
+# Physcia pulveracea (Hoffm.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panicium Haeckel, 1887 GENUS
-=======
+# Panicium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

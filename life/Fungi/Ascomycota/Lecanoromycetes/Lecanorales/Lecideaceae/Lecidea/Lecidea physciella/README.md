@@ -1,5 +1,4 @@
-Lecidea physciella Darb. SPECIES
-=======
+# Lecidea physciella Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sengoerina Altiner, 1999 GENUS
-=======
+# Sengoerina Altiner, 1999 GENUS
 
 #### Status
 ACCEPTED

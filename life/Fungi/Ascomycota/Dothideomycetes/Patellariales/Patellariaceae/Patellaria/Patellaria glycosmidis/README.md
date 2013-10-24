@@ -1,5 +1,4 @@
-Patellaria glycosmidis Tilak & Srinivas. SPECIES
-=======
+# Patellaria glycosmidis Tilak & Srinivas. SPECIES
 
 #### Status
 ACCEPTED

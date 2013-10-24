@@ -1,5 +1,4 @@
-Chilodontopsis planticauda SPECIES
-=======
+# Chilodontopsis planticauda SPECIES
 
 #### Status
 ACCEPTED

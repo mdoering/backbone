@@ -1,5 +1,4 @@
-Simblum clathroides var. clathroides VARIETY
-=======
+# Simblum clathroides E. Kawam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Simblum clathroides var. clathroides
+Simblum clathroides E. Kawam.
 
 ### Remarks
 null

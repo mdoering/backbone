@@ -1,5 +1,4 @@
-Asteridiella singalensis (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella singalensis (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia aquatica Riedl SPECIES
-=======
+# Arthonia aquatica Riedl SPECIES
 
 #### Status
 ACCEPTED

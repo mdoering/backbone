@@ -1,5 +1,4 @@
-Micropsalliota gracilis Heinem. SPECIES
-=======
+# Micropsalliota gracilis Heinem. SPECIES
 
 #### Status
 ACCEPTED

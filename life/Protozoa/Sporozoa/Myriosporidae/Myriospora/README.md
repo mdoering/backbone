@@ -1,5 +1,4 @@
-Myriospora Lermantoff, 1913 GENUS
-=======
+# Myriospora Lermantoff, 1913 GENUS
 
 #### Status
 ACCEPTED

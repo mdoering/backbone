@@ -1,14 +1,13 @@
-Lecidea kelica Stirt. SPECIES
-=======
+# Stirtoniella kelica (Stirt.) D. J. Galloway, Hafellner & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 37(3): 263 (2005)
 
 #### Original name
 Lecidea kelica Stirt.

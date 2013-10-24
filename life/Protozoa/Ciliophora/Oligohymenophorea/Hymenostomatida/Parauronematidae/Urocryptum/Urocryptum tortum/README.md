@@ -1,8 +1,7 @@
-Cryptochilum tortum Maupas, 1883 SPECIES
-=======
+# Urocryptum tortum (Maupas, 1883) Perez-Uz & Guinea, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

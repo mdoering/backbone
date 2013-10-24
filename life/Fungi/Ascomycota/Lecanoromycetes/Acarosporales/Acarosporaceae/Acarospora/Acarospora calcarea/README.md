@@ -1,5 +1,4 @@
-Acarospora calcarea K. Knudsen SPECIES
-=======
+# Acarospora calcarea K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

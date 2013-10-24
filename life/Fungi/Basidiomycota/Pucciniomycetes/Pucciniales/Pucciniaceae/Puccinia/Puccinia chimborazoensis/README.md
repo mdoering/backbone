@@ -1,5 +1,4 @@
-Puccinia chimborazoensis Jørst. SPECIES
-=======
+# Puccinia chimborazoensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

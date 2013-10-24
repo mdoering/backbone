@@ -1,5 +1,4 @@
-Scytothamnales A.F. Peters & M.N. Clayton, 1998 ORDER
-=======
+# Scytothamnales A.F. Peters & M.N. Clayton, 1998 ORDER
 
 #### Status
 ACCEPTED

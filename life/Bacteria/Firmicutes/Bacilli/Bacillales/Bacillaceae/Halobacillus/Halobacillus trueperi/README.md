@@ -1,5 +1,4 @@
-Halobacillus trueperi Spring et al., 1996 SPECIES
-=======
+# Halobacillus trueperi Spring et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

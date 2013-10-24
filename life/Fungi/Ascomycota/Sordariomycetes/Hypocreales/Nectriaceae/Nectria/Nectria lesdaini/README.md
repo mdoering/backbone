@@ -1,5 +1,4 @@
-Nectria lesdaini Vouaux SPECIES
-=======
+# Nectria lesdaini Vouaux SPECIES
 
 #### Status
 ACCEPTED

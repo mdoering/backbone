@@ -1,5 +1,4 @@
-Collema conchilobum (Flot.) Körb. SPECIES
-=======
+# Collema conchilobum (Flot.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetrasphaera B.V. Timofeev & T.N. Hermann in B.S. Sokolov, 1979 GENUS
-=======
+# Tetrasphaera B.V. Timofeev & T.N. Hermann in B.S. Sokolov, 1979 GENUS
 
 #### Status
 ACCEPTED

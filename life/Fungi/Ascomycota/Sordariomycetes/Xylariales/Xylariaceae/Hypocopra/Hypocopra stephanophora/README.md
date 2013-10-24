@@ -1,5 +1,4 @@
-Hypocopra stephanophora J.C. Krug & Cain, 1974 SPECIES
-=======
+# Hypocopra stephanophora J.C. Krug & Cain, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria melastegia (C. Knight) SPECIES
-=======
+# Patellaria melastegia (C. Knight) SPECIES
 
 #### Status
 ACCEPTED

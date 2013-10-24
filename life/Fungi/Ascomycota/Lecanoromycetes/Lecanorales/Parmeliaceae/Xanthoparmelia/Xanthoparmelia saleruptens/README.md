@@ -1,5 +1,4 @@
-Xanthoparmelia saleruptens Hale SPECIES
-=======
+# Xanthoparmelia saleruptens Hale SPECIES
 
 #### Status
 ACCEPTED

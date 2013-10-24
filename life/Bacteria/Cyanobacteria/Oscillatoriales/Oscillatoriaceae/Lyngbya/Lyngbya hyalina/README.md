@@ -1,5 +1,4 @@
-Lyngbya hyalina Harvey, 1858 SPECIES
-=======
+# Lyngbya hyalina Harvey, 1858 SPECIES
 
 #### Status
 ACCEPTED

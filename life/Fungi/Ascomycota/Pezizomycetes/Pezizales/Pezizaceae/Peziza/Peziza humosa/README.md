@@ -1,11 +1,10 @@
-Peziza humosa var. humosa VARIETY
-=======
+# Peziza humosa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null

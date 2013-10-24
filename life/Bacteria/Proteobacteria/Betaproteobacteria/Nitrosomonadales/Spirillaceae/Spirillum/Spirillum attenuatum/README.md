@@ -1,5 +1,4 @@
-Spirillum attenuatum SPECIES
-=======
+# Spirillum attenuatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriella crouanii Lowen SPECIES
-=======
+# Nectriella crouanii Lowen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetodiplodia cauligena P. Karst. SPECIES
-=======
+# Chaetodiplodia cauligena P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvatia owyheensis A.H. Sm. SPECIES
-=======
+# Calvatia owyheensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elphidiella Cushman, 1936 GENUS
-=======
+# Elphidiella Cushman, 1936 GENUS
 
 #### Status
 ACCEPTED

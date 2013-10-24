@@ -1,5 +1,4 @@
-Cylindrosporium polygalae J. Schröt. SPECIES
-=======
+# Cylindrosporium polygalae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

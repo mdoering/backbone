@@ -1,5 +1,4 @@
-Macrosporium oleandri Rabenh. SPECIES
-=======
+# Macrosporium oleandri Rabenh. SPECIES
 
 #### Status
 ACCEPTED

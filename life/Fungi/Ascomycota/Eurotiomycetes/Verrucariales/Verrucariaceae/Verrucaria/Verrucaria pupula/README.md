@@ -1,5 +1,4 @@
-Verrucaria pupula Fée SPECIES
-=======
+# Verrucaria pupula Fée SPECIES
 
 #### Status
 ACCEPTED

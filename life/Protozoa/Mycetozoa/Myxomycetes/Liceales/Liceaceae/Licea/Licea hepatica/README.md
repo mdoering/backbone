@@ -1,5 +1,4 @@
-Licea hepatica Kowalski, 1972 SPECIES
-=======
+# Licea hepatica Kowalski, 1972 SPECIES
 
 #### Status
 ACCEPTED

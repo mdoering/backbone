@@ -1,5 +1,4 @@
-Mucor tubulosus Retz. SPECIES
-=======
+# Mucor tubulosus Retz. SPECIES
 
 #### Status
 ACCEPTED

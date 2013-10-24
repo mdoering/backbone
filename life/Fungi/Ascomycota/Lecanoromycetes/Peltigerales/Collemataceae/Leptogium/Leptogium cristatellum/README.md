@@ -1,5 +1,4 @@
-Leptogium cristatellum (Tuck.) Herre SPECIES
-=======
+# Leptogium cristatellum (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

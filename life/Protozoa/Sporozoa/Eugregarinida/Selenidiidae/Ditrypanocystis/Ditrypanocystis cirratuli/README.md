@@ -1,5 +1,4 @@
-Ditrypanocystis cirratuli Burt, Denny & Thomasson, 1963 SPECIES
-=======
+# Ditrypanocystis cirratuli Burt, Denny & Thomasson, 1963 SPECIES
 
 #### Status
 ACCEPTED

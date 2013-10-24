@@ -1,5 +1,4 @@
-Microsphaeropsis amictus (Ellis & Everh.) Aa SPECIES
-=======
+# Microsphaeropsis amictus (Ellis & Everh.) Aa SPECIES
 
 #### Status
 ACCEPTED

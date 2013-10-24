@@ -1,14 +1,13 @@
-Petalosporus nodulosus G.R. Ghosh, G.F. Orr & Kuehn, 1963 SPECIES
-=======
+# Gymnascella nodulosa (G.R. Ghosh, G.F. Orr & Kuehn) Currah, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 21: 37 (1963)
+Mycotaxon 24: 88 (1985)
 
 #### Original name
 Petalosporus nodulosus G.R. Ghosh, G.F. Orr & Kuehn, 1963

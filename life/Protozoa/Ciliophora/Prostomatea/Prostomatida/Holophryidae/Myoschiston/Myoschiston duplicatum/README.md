@@ -1,5 +1,4 @@
-Myoschiston duplicatum (Precht, 1935) Jankowski, 1985 SPECIES
-=======
+# Myoschiston duplicatum (Precht, 1935) Jankowski, 1985 SPECIES
 
 #### Status
 ACCEPTED

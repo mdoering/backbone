@@ -1,5 +1,4 @@
-Gypsina Carter, 1877 GENUS
-=======
+# Gypsina Carter, 1877 GENUS
 
 #### Status
 ACCEPTED

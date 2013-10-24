@@ -1,5 +1,4 @@
-Asterina glycosmidigena Hosag. & Jac. Thomas, 2010 SPECIES
-=======
+# Asterina glycosmidigena Hosag. & Jac. Thomas, 2010 SPECIES
 
 #### Status
 ACCEPTED

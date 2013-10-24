@@ -1,5 +1,4 @@
-Asterina natalitia Doidge SPECIES
-=======
+# Asterina natalitia Doidge SPECIES
 
 #### Status
 ACCEPTED

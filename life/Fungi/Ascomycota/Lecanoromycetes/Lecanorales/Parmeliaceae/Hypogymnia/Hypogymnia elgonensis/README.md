@@ -1,5 +1,4 @@
-Hypogymnia elgonensis C.W. Dodge SPECIES
-=======
+# Hypogymnia elgonensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

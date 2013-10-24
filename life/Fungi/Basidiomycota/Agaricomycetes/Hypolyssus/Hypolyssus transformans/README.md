@@ -1,5 +1,4 @@
-Hypolyssus transformans (Peck) Kuntze SPECIES
-=======
+# Hypolyssus transformans (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

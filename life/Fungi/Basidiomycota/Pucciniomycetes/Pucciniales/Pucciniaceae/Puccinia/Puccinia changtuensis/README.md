@@ -1,5 +1,4 @@
-Puccinia changtuensis Y.C. Wang SPECIES
-=======
+# Puccinia changtuensis Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

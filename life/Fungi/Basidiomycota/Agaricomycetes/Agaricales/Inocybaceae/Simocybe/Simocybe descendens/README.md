@@ -1,5 +1,4 @@
-Simocybe descendens (Berk.) Manjula SPECIES
-=======
+# Simocybe descendens (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

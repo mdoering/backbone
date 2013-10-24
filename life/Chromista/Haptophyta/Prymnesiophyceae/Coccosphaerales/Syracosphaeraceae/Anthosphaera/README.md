@@ -1,5 +1,4 @@
-Anthosphaera Kamptner, 1936 GENUS
-=======
+# Anthosphaera Kamptner, 1936 GENUS
 
 #### Status
 ACCEPTED

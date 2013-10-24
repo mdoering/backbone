@@ -1,5 +1,4 @@
-Stentoropsis Dogiel & Bychowsky, 1934 GENUS
-=======
+# Stentoropsis Dogiel & Bychowsky, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium politum Servít SPECIES
-=======
+# Thelidium politum Servít SPECIES
 
 #### Status
 ACCEPTED

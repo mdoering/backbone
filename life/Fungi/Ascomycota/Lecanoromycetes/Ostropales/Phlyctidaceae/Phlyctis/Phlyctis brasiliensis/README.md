@@ -1,5 +1,4 @@
-Phlyctis brasiliensis Nyl. SPECIES
-=======
+# Phlyctis brasiliensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

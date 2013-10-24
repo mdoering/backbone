@@ -1,5 +1,4 @@
-Phoma galacis Cooke SPECIES
-=======
+# Phoma galacis Cooke SPECIES
 
 #### Status
 ACCEPTED

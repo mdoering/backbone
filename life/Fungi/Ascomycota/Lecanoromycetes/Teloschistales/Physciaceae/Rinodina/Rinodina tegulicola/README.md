@@ -1,5 +1,4 @@
-Rinodina tegulicola SPECIES
-=======
+# Rinodina tegulicola SPECIES
 
 #### Status
 ACCEPTED

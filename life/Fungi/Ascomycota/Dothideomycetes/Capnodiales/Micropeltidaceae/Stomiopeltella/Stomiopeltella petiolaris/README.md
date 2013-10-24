@@ -1,5 +1,4 @@
-Stomiopeltella petiolaris Doidge SPECIES
-=======
+# Stomiopeltella petiolaris Doidge SPECIES
 
 #### Status
 ACCEPTED

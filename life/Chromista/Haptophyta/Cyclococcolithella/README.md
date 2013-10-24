@@ -1,5 +1,4 @@
-Cyclococcolithella GENUS
-=======
+# Cyclococcolithella GENUS
 
 #### Status
 ACCEPTED

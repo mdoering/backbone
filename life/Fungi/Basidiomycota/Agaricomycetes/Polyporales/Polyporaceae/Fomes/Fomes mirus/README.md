@@ -1,5 +1,4 @@
-Fomes mirus (Kalchbr.) P. Karst. SPECIES
-=======
+# Fomes mirus (Kalchbr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

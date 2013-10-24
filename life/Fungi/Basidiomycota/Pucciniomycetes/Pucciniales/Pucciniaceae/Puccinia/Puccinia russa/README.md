@@ -1,5 +1,4 @@
-Puccinia russa var. russa Arthur & Cummins VARIETY
-=======
+# Puccinia russa Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 31(1): 44 (1933)
 
 #### Original name
-Puccinia russa var. russa Arthur & Cummins
+Puccinia russa Arthur & Cummins
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmelia subsulphurata Asahina SPECIES
-=======
+# Parmelia subsulphurata Asahina SPECIES
 
 #### Status
 ACCEPTED

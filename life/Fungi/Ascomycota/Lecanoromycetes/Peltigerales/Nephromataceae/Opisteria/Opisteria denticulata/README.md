@@ -1,5 +1,4 @@
-Opisteria denticulata Vain. SPECIES
-=======
+# Opisteria denticulata Vain. SPECIES
 
 #### Status
 ACCEPTED

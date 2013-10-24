@@ -1,5 +1,4 @@
-Graphis asterizans Nyl. SPECIES
-=======
+# Graphis asterizans Nyl. SPECIES
 
 #### Status
 ACCEPTED

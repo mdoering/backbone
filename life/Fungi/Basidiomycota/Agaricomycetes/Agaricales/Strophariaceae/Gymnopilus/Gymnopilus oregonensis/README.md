@@ -1,5 +1,4 @@
-Gymnopilus oregonensis Murrill SPECIES
-=======
+# Gymnopilus oregonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

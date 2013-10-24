@@ -1,5 +1,4 @@
-Achlya tuberculata Ziegler SPECIES
-=======
+# Achlya tuberculata Ziegler SPECIES
 
 #### Status
 ACCEPTED

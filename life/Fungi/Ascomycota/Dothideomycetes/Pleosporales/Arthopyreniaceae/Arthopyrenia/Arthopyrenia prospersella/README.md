@@ -1,5 +1,4 @@
-Arthopyrenia prospersella (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia prospersella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

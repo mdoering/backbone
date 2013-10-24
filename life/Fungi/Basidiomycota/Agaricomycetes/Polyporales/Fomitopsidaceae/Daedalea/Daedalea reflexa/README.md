@@ -1,5 +1,4 @@
-Daedalea reflexa Lloyd SPECIES
-=======
+# Daedalea reflexa Lloyd SPECIES
 
 #### Status
 ACCEPTED

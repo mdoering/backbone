@@ -1,5 +1,4 @@
-Endoblastoderma amycoides B. Fisch. & Brebeck SPECIES
-=======
+# Endoblastoderma amycoides B. Fisch. & Brebeck SPECIES
 
 #### Status
 ACCEPTED

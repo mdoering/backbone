@@ -1,5 +1,4 @@
-Dyadosporites urniformis Kalgutkar SPECIES
-=======
+# Dyadosporites urniformis Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

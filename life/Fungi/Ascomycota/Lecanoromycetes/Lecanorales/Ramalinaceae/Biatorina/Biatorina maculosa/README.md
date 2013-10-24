@@ -1,5 +1,4 @@
-Biatorina maculosa (Stirt.) Hellb. SPECIES
-=======
+# Biatorina maculosa (Stirt.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

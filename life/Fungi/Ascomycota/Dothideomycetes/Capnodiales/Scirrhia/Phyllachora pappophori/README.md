@@ -1,5 +1,4 @@
-Phyllachora pappophori Chardón, 1939 SPECIES
-=======
+# Phyllachora pappophori Chardón, 1939 SPECIES
 
 #### Status
 DOUBTFUL

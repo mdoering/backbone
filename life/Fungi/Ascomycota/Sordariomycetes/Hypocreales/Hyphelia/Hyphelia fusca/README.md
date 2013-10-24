@@ -1,5 +1,4 @@
-Hyphelia fusca Fr. SPECIES
-=======
+# Hyphelia fusca Fr. SPECIES
 
 #### Status
 ACCEPTED

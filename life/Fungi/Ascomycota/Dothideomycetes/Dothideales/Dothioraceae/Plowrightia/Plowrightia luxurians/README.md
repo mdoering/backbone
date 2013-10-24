@@ -1,5 +1,4 @@
-Plowrightia luxurians Rehm SPECIES
-=======
+# Plowrightia luxurians Rehm SPECIES
 
 #### Status
 ACCEPTED

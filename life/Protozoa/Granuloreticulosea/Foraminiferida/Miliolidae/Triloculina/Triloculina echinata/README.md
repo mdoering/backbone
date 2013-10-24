@@ -1,5 +1,4 @@
-Triloculina echinata SPECIES
-=======
+# Triloculina echinata SPECIES
 
 #### Status
 ACCEPTED

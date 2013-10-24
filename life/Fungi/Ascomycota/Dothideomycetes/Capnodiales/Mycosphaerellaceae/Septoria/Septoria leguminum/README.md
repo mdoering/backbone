@@ -1,5 +1,4 @@
-Septoria leguminum f. leguminum FORM
-=======
+# Septoria leguminum ß pisorum J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Exsicc. 1: no. 1366 (1834)
 
 #### Original name
-Septoria leguminum f. leguminum
+Septoria leguminum ß pisorum J. Kickx f.
 
 ### Remarks
 null

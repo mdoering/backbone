@@ -1,5 +1,4 @@
-Carchesium lachmannii SPECIES
-=======
+# Carchesium lachmannii SPECIES
 
 #### Status
 ACCEPTED

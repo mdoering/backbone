@@ -1,14 +1,13 @@
-Dictyopeltis consimilis Syd., 1938 SPECIES
-=======
+# Dictyopeltella consimilis (Syd.) Bat., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 37: 192 (1938)
+Publções Inst. Micol. Recife 56: 241 (1959)
 
 #### Original name
 Dictyopeltis consimilis Syd., 1938

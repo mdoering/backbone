@@ -1,5 +1,4 @@
-Halteromyces Shipton & Schipper GENUS
-=======
+# Halteromyces Shipton & Schipper GENUS
 
 #### Status
 ACCEPTED

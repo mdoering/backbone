@@ -1,5 +1,4 @@
-Cladosporium abietinum (Pers.) Link SPECIES
-=======
+# Cladosporium abietinum (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

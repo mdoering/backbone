@@ -1,5 +1,4 @@
-Apectodinium homomorphum (Deflandre & Cookson, 1955) Lentin & Williams, 1977 SPECIES
-=======
+# Apectodinium homomorphum (Deflandre & Cookson, 1955) Lentin & Williams, 1977 SPECIES
 
 #### Status
 ACCEPTED

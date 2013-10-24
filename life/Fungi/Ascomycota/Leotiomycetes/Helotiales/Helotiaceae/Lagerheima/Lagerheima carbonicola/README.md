@@ -1,5 +1,4 @@
-Lagerheima carbonicola Torrend SPECIES
-=======
+# Lagerheima carbonicola Torrend SPECIES
 
 #### Status
 ACCEPTED

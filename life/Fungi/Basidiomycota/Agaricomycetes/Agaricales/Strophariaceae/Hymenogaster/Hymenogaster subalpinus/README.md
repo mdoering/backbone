@@ -1,5 +1,4 @@
-Hymenogaster subalpinus A.H. Sm. SPECIES
-=======
+# Hymenogaster subalpinus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

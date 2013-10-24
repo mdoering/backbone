@@ -1,5 +1,4 @@
-Clitocybe leptosarca (Singer) Raithelh. SPECIES
-=======
+# Clitocybe leptosarca (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rigidoporus subterraneus Murrill SPECIES
-=======
+# Rigidoporus subterraneus Murrill SPECIES
 
 #### Status
 ACCEPTED

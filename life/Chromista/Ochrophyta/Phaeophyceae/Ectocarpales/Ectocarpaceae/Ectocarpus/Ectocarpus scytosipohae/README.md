@@ -1,5 +1,4 @@
-Ectocarpus scytosipohae Noda SPECIES
-=======
+# Ectocarpus scytosipohae Noda SPECIES
 
 #### Status
 ACCEPTED

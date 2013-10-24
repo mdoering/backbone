@@ -1,5 +1,4 @@
-Parathelium brodiei Stirt. SPECIES
-=======
+# Parathelium brodiei Stirt. SPECIES
 
 #### Status
 ACCEPTED

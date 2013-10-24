@@ -1,17 +1,16 @@
-Sclerospora northi W. Weston SPECIES
-=======
+# Sclerophthora northii (W. Weston) Thirum., C.G. Shaw & Naras., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Sclerospora northi W. Weston
+Sclerospora northii W. Weston, 1929
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Calicium clavellare Wahlenb. SPECIES
-=======
+# Calicium clavellare Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

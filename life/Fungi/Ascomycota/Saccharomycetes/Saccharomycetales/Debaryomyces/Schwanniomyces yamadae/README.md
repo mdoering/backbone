@@ -1,8 +1,7 @@
-Debaryomyces yamadae (Van der Walt & Johannsen) J.A. Barnett, R.W. Payne & Yarrow, 1990 SPECIES
-=======
+# Schwanniomyces yamadae (Van der Walt & Johannsen) M. Suzuki & Kurtzman, 2010 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

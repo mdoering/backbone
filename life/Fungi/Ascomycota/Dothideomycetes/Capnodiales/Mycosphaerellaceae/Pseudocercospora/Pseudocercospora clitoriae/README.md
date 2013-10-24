@@ -1,5 +1,4 @@
-Pseudocercospora clitoriae (G.F. Atk.) Deighton SPECIES
-=======
+# Pseudocercospora clitoriae (G.F. Atk.) Deighton SPECIES
 
 #### Status
 ACCEPTED

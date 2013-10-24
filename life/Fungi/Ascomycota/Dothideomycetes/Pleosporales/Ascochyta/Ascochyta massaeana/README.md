@@ -1,5 +1,4 @@
-Ascochyta massaeana Sacc. SPECIES
-=======
+# Ascochyta massaeana Sacc. SPECIES
 
 #### Status
 ACCEPTED

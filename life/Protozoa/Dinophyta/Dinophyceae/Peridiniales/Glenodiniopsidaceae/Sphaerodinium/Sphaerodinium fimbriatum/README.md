@@ -1,5 +1,4 @@
-Sphaerodinium fimbriatum Thompson SPECIES
-=======
+# Sphaerodinium fimbriatum Thompson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces scaberulus L. Guo & Y.C. Wang SPECIES
-=======
+# Uromyces scaberulus L. Guo & Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

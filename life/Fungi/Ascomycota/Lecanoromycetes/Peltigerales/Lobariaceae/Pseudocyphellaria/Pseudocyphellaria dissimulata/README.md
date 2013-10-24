@@ -1,5 +1,4 @@
-Pseudocyphellaria dissimulata SPECIES
-=======
+# Pseudocyphellaria dissimulata SPECIES
 
 #### Status
 ACCEPTED

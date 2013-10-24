@@ -1,5 +1,4 @@
-Hypomyces niveus Henn. SPECIES
-=======
+# Hypomyces niveus Henn. SPECIES
 
 #### Status
 ACCEPTED

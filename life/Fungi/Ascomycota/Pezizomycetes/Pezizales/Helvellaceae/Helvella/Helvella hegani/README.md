@@ -1,5 +1,4 @@
-Helvella hegani Copel. SPECIES
-=======
+# Helvella hegani Copel. SPECIES
 
 #### Status
 ACCEPTED

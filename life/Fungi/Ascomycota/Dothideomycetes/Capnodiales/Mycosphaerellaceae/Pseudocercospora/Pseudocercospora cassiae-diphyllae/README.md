@@ -1,5 +1,4 @@
-Pseudocercospora cassiae-diphyllae U. Braun SPECIES
-=======
+# Pseudocercospora cassiae-diphyllae U. Braun SPECIES
 
 #### Status
 ACCEPTED

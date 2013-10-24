@@ -1,5 +1,4 @@
-Irenina shropshiriana F. Stevens SPECIES
-=======
+# Irenina shropshiriana F. Stevens SPECIES
 
 #### Status
 ACCEPTED

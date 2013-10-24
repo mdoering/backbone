@@ -1,5 +1,4 @@
-Xylaria dichotoma (Mont.) Mont. SPECIES
-=======
+# Xylaria dichotoma (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

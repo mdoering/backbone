@@ -1,5 +1,4 @@
-Sphaeria elliptica Schwein. SPECIES
-=======
+# Sphaeria elliptica Schwein. SPECIES
 
 #### Status
 ACCEPTED

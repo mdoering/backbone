@@ -1,5 +1,4 @@
-Pseudopyrenula atroalba Vain. SPECIES
-=======
+# Pseudopyrenula atroalba Vain. SPECIES
 
 #### Status
 ACCEPTED

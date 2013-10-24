@@ -1,5 +1,4 @@
-Gordiospira arctica Cushman, 1933 SPECIES
-=======
+# Gordiospira arctica Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

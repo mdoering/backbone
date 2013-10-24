@@ -1,5 +1,4 @@
-Amauroderma subrenatum Murrill SPECIES
-=======
+# Amauroderma subrenatum Murrill SPECIES
 
 #### Status
 ACCEPTED

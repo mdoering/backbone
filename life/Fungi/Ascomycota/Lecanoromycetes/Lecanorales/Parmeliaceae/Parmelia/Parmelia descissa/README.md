@@ -1,5 +1,4 @@
-Parmelia descissa (Ach.) Ach. SPECIES
-=======
+# Parmelia descissa (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

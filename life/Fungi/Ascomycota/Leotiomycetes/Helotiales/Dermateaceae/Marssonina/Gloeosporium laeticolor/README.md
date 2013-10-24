@@ -1,5 +1,4 @@
-Gloeosporium laeticolor Berk. SPECIES
-=======
+# Gloeosporium laeticolor Berk. SPECIES
 
 #### Status
 ACCEPTED

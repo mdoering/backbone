@@ -1,5 +1,4 @@
-Bacidia ituriensis Vezda SPECIES
-=======
+# Bacidia ituriensis Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenzites repanda f. repanda FORM
-=======
+# Lenzites repanda (Mont.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 404 (1838)
 
 #### Original name
-Lenzites repanda f. repanda
+Daedalea repanda Mont.
 
 ### Remarks
 null

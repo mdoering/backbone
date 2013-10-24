@@ -1,5 +1,4 @@
-Agaricus webbii Despr. SPECIES
-=======
+# Agaricus webbii Despr. SPECIES
 
 #### Status
 ACCEPTED

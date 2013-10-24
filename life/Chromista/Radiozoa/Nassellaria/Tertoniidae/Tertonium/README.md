@@ -1,5 +1,4 @@
-Tertonium Dumitrica & Zügel, 2003 GENUS
-=======
+# Tertonium Dumitrica & Zügel, 2003 GENUS
 
 #### Status
 ACCEPTED

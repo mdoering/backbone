@@ -1,5 +1,4 @@
-Physcia albonigra (Schleich.) Dalla Torre & Sarnth. SPECIES
-=======
+# Physcia albonigra (Schleich.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

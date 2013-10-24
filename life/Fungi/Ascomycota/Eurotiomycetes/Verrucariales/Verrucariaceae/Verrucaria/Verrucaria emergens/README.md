@@ -1,5 +1,4 @@
-Verrucaria emergens J. Steiner SPECIES
-=======
+# Verrucaria emergens J. Steiner SPECIES
 
 #### Status
 ACCEPTED

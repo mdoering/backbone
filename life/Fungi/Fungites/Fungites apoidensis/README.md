@@ -1,5 +1,4 @@
-Fungites apoidensis Hallier SPECIES
-=======
+# Fungites apoidensis Hallier SPECIES
 
 #### Status
 ACCEPTED

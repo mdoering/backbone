@@ -1,5 +1,4 @@
-Micraspis Darker, 1963 GENUS
-=======
+# Micraspis Darker, 1963 GENUS
 
 #### Status
 ACCEPTED

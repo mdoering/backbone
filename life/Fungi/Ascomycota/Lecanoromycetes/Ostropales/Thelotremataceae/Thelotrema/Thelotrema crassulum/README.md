@@ -1,5 +1,4 @@
-Thelotrema crassulum Nyl. SPECIES
-=======
+# Thelotrema crassulum Nyl. SPECIES
 
 #### Status
 ACCEPTED

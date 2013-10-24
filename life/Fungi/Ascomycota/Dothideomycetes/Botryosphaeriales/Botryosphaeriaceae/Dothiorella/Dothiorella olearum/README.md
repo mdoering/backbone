@@ -1,5 +1,4 @@
-Dothiorella olearum Petr., 1954 SPECIES
-=======
+# Dothiorella olearum Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

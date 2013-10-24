@@ -1,5 +1,4 @@
-Zonaria harveyana (Pappe ex Kützing) Areschoug SPECIES
-=======
+# Zonaria harveyana (Pappe ex Kützing) Areschoug SPECIES
 
 #### Status
 ACCEPTED

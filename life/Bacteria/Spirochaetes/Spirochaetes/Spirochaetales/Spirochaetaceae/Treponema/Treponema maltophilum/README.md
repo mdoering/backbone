@@ -1,5 +1,4 @@
-Treponema maltophilum Wyss et al., 1996 SPECIES
-=======
+# Treponema maltophilum Wyss et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

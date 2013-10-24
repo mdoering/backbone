@@ -1,5 +1,4 @@
-Ovularia cynoglossi (Sacc.) Mussat SPECIES
-=======
+# Ovularia cynoglossi (Sacc.) Mussat SPECIES
 
 #### Status
 ACCEPTED

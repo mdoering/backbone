@@ -1,5 +1,4 @@
-Cylindrocarpon pauciseptatum Schroers & Crous SPECIES
-=======
+# Cylindrocarpon pauciseptatum Schroers & Crous SPECIES
 
 #### Status
 ACCEPTED

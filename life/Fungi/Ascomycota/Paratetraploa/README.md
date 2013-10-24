@@ -1,5 +1,4 @@
-Paratetraploa M.K.M. Wong & K.D. Hyde GENUS
-=======
+# Paratetraploa M.K.M. Wong & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

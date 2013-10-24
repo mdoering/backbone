@@ -1,5 +1,4 @@
-Rucinolithus hayi Stover, 1966 SPECIES
-=======
+# Rucinolithus hayi Stover, 1966 SPECIES
 
 #### Status
 ACCEPTED

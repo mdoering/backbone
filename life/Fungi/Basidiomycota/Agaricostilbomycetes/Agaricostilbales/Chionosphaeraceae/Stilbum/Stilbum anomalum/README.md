@@ -1,5 +1,4 @@
-Stilbum anomalum Berk., 1837 SPECIES
-=======
+# Stilbum anomalum Berk., 1837 SPECIES
 
 #### Status
 ACCEPTED

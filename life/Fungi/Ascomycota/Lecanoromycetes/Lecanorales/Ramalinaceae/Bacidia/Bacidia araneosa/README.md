@@ -1,5 +1,4 @@
-Bacidia araneosa SPECIES
-=======
+# Bacidia araneosa SPECIES
 
 #### Status
 ACCEPTED

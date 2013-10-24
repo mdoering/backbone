@@ -1,5 +1,4 @@
-Corticium geochroum Pat. SPECIES
-=======
+# Corticium geochroum Pat. SPECIES
 
 #### Status
 ACCEPTED

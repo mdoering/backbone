@@ -1,5 +1,4 @@
-Neobulgaria rupicola V.P. Tewari & Ram N. Singh SPECIES
-=======
+# Neobulgaria rupicola V.P. Tewari & Ram N. Singh SPECIES
 
 #### Status
 ACCEPTED

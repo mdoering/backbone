@@ -1,5 +1,4 @@
-Tandonella tiliae Y.L. Guo & X.J. Liu SPECIES
-=======
+# Tandonella tiliae Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

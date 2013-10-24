@@ -1,17 +1,16 @@
-Parmelia confoederata W. L. Culb. SPECIES
-=======
+# Bulbothrix confoederata (W. L. Culb.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 480 (1974)
 
 #### Original name
-null
+Parmelia confoederata W. L. Culb.
 
 ### Remarks
 null

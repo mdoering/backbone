@@ -1,5 +1,4 @@
-Coniothyrium vile P. Karst. & Har. SPECIES
-=======
+# Coniothyrium vile P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

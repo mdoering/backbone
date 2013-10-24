@@ -1,5 +1,4 @@
-Struvea okamurae Leliaert in Leliaert, Millar, Vlaeminck & Coppejans, 2007 SPECIES
-=======
+# Struvea okamurae Leliaert in Leliaert, Millar, Vlaeminck & Coppejans, 2007 SPECIES
 
 #### Status
 ACCEPTED

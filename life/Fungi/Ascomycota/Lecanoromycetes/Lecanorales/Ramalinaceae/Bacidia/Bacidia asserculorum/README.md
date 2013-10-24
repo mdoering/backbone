@@ -1,5 +1,4 @@
-Bacidia asserculorum Th. Fr. SPECIES
-=======
+# Bacidia asserculorum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

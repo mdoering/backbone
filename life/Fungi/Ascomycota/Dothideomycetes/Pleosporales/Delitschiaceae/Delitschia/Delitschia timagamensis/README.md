@@ -1,5 +1,4 @@
-Delitschia timagamensis Cain SPECIES
-=======
+# Delitschia timagamensis Cain SPECIES
 
 #### Status
 ACCEPTED

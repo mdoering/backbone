@@ -1,5 +1,4 @@
-Coprinus bubalinus Bogart SPECIES
-=======
+# Coprinus bubalinus Bogart SPECIES
 
 #### Status
 ACCEPTED

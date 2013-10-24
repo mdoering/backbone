@@ -1,17 +1,16 @@
-Phialophora calyciformis G. Sm., 1962 SPECIES
-=======
+# Podospora pleiospora (G. Winter) Niessl, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 22: 156 (1883)
 
 #### Original name
-null
+Sordaria pleiospora G. Winter, 1871
 
 ### Remarks
 null

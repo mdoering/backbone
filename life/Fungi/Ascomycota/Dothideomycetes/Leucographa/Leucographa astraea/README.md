@@ -1,5 +1,4 @@
-Leucographa astraea Nyl. SPECIES
-=======
+# Leucographa astraea Nyl. SPECIES
 
 #### Status
 ACCEPTED

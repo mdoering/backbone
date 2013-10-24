@@ -1,5 +1,4 @@
-Cercospora atractylidis C.K. Pai & P.K. Chi SPECIES
-=======
+# Cercospora atractylidis C.K. Pai & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

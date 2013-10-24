@@ -1,5 +1,4 @@
-Cryptosporidium muris Tyzzer, 1907 SPECIES
-=======
+# Cryptosporidium muris Tyzzer, 1907 SPECIES
 
 #### Status
 ACCEPTED

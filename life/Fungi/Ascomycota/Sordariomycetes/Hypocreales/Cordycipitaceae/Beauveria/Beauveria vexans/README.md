@@ -1,5 +1,4 @@
-Beauveria vexans (R.H. Pettit) Petch SPECIES
-=======
+# Beauveria vexans (R.H. Pettit) Petch SPECIES
 
 #### Status
 ACCEPTED

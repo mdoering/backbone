@@ -1,5 +1,4 @@
-Omphalia rhyssaspora Mont. SPECIES
-=======
+# Omphalia rhyssaspora Mont. SPECIES
 
 #### Status
 ACCEPTED

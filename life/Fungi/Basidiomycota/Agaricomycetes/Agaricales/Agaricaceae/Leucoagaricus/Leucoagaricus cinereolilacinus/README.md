@@ -1,5 +1,4 @@
-Leucoagaricus cinereolilacinus (Barbier) Bon & Boiffard SPECIES
-=======
+# Leucoagaricus cinereolilacinus (Barbier) Bon & Boiffard SPECIES
 
 #### Status
 ACCEPTED

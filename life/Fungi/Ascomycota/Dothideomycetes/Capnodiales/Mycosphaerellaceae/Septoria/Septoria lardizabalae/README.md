@@ -1,5 +1,4 @@
-Septoria lardizabalae Henn. SPECIES
-=======
+# Septoria lardizabalae Henn. SPECIES
 
 #### Status
 ACCEPTED

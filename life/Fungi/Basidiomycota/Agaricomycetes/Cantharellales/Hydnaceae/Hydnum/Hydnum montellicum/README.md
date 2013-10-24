@@ -1,5 +1,4 @@
-Hydnum montellicum Sacc. SPECIES
-=======
+# Hydnum montellicum Sacc. SPECIES
 
 #### Status
 ACCEPTED

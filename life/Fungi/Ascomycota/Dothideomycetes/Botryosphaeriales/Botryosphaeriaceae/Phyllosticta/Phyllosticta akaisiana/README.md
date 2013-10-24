@@ -1,5 +1,4 @@
-Phyllosticta akaisiana Hara SPECIES
-=======
+# Phyllosticta akaisiana Hara SPECIES
 
 #### Status
 ACCEPTED

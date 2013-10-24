@@ -1,5 +1,4 @@
-Halofolliculina annulata (Andrews, 1944) Hadzi, 1951 SPECIES
-=======
+# Halofolliculina annulata (Andrews, 1944) Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

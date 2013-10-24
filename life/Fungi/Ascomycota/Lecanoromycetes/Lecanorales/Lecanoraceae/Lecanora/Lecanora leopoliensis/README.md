@@ -1,5 +1,4 @@
-Lecanora leopoliensis Motyka SPECIES
-=======
+# Lecanora leopoliensis Motyka SPECIES
 
 #### Status
 ACCEPTED

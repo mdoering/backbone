@@ -1,5 +1,4 @@
-Herpotrichia myriangii Racib. SPECIES
-=======
+# Herpotrichia myriangii Racib. SPECIES
 
 #### Status
 ACCEPTED

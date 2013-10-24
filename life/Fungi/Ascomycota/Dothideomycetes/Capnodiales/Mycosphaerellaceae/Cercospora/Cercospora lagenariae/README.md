@@ -1,5 +1,4 @@
-Cercospora lagenariae M.A. Salam & P.N. Rao SPECIES
-=======
+# Cercospora lagenariae M.A. Salam & P.N. Rao SPECIES
 
 #### Status
 ACCEPTED

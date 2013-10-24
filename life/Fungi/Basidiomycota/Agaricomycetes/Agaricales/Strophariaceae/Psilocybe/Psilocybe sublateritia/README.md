@@ -1,5 +1,4 @@
-Psilocybe sublateritia (Fr.) SPECIES
-=======
+# Psilocybe sublateritia (Fr.) SPECIES
 
 #### Status
 ACCEPTED

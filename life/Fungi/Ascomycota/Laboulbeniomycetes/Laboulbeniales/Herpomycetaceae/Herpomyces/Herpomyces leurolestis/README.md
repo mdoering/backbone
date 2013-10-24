@@ -1,5 +1,4 @@
-Herpomyces leurolestis Thaxt. SPECIES
-=======
+# Herpomyces leurolestis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

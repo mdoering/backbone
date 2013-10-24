@@ -1,5 +1,4 @@
-Gyrodontium serpuloides (Henn.) D.A. Reid SPECIES
-=======
+# Gyrodontium serpuloides (Henn.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

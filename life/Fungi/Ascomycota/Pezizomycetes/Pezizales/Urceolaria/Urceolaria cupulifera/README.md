@@ -1,5 +1,4 @@
-Urceolaria cupulifera (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria cupulifera (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

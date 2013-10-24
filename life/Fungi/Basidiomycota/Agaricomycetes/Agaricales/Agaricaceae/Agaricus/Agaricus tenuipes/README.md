@@ -1,5 +1,4 @@
-Agaricus tenuipes Lév. SPECIES
-=======
+# Agaricus tenuipes Lév. SPECIES
 
 #### Status
 ACCEPTED

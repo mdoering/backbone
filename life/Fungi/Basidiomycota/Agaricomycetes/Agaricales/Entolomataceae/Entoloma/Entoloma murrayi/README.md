@@ -1,5 +1,4 @@
-Entoloma murrayi (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Entoloma murrayi (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria protearum Viljoen & Crous SPECIES
-=======
+# Septoria protearum Viljoen & Crous SPECIES
 
 #### Status
 ACCEPTED

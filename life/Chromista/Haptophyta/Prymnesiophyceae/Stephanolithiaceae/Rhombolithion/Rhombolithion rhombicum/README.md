@@ -1,8 +1,7 @@
-Rhombolithion speetonensis Rood & Barnard, 1972 SPECIES
-=======
+# Rhombolithion rhombicum (Stradner & Adamiker, 1966) Black, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

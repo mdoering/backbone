@@ -1,5 +1,4 @@
-Periconia psilonioides (Preuss) Sacc. SPECIES
-=======
+# Periconia psilonioides (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

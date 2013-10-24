@@ -1,5 +1,4 @@
-Metadiplodia ilicis f. ilicis (Fr.) Zambett. FORM
-=======
+# Metadiplodia ilicis (Fr.) Zambett. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 70(3): 291 (1955)
 
 #### Original name
-Metadiplodia ilicis f. ilicis (Fr.) Zambett.
+Sphaeria ilicis Schleich., 1879
 
 ### Remarks
 null

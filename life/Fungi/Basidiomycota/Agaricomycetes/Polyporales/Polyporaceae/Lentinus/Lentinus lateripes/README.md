@@ -1,5 +1,4 @@
-Lentinus lateripes Lloyd SPECIES
-=======
+# Lentinus lateripes Lloyd SPECIES
 
 #### Status
 ACCEPTED

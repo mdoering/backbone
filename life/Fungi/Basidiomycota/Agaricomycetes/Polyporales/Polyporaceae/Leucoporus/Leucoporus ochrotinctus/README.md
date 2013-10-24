@@ -1,5 +1,4 @@
-Leucoporus ochrotinctus (Berk.) Pat. SPECIES
-=======
+# Leucoporus ochrotinctus (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clitocybe semitalis semitalis (Fr.) Bres., 1881 INFRASPECIFIC_NAME
-=======
+# Lyophyllum semitale (Fr.) Kühner ex Kalamees, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Mykol. 60(1): 16 (1994)
 
 #### Original name
-null
+Agaricus semitalis Fr., 1821
 
 ### Remarks
 null

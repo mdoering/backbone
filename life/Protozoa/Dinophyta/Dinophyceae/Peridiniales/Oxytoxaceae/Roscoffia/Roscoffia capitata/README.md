@@ -1,5 +1,4 @@
-Roscoffia capitata Balech SPECIES
-=======
+# Roscoffia capitata Balech SPECIES
 
 #### Status
 ACCEPTED

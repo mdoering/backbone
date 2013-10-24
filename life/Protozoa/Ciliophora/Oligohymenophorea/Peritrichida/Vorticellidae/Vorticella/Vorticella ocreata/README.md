@@ -1,5 +1,4 @@
-Vorticella ocreata Müller, 1786 SPECIES
-=======
+# Vorticella ocreata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

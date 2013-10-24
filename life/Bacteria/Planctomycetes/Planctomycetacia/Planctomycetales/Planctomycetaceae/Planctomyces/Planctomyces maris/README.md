@@ -1,5 +1,4 @@
-Planctomyces maris (ex Bauld & Staley, 1976) Bauld & Staley, 1980 SPECIES
-=======
+# Planctomyces maris (ex Bauld & Staley, 1976) Bauld & Staley, 1980 SPECIES
 
 #### Status
 ACCEPTED

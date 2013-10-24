@@ -1,5 +1,4 @@
-Pseudocercospora mussaendae Katsuki SPECIES
-=======
+# Pseudocercospora mussaendae Katsuki SPECIES
 
 #### Status
 ACCEPTED

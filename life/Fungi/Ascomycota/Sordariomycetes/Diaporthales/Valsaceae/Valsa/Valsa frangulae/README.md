@@ -1,5 +1,4 @@
-Valsa frangulae Munk SPECIES
-=======
+# Valsa frangulae Munk SPECIES
 
 #### Status
 ACCEPTED

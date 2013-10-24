@@ -1,5 +1,4 @@
-Patinella hirneola (Berk. & Broome) Sacc. SPECIES
-=======
+# Patinella hirneola (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

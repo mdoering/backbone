@@ -1,5 +1,4 @@
-Acanthostigma imperspicuum Speg. SPECIES
-=======
+# Acanthostigma imperspicuum Speg. SPECIES
 
 #### Status
 ACCEPTED

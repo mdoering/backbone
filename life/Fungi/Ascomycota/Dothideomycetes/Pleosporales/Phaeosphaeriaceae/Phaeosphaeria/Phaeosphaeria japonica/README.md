@@ -1,5 +1,4 @@
-Phaeosphaeria japonica Naito, 1952 SPECIES
-=======
+# Phaeosphaeria japonica Naito, 1952 SPECIES
 
 #### Status
 ACCEPTED

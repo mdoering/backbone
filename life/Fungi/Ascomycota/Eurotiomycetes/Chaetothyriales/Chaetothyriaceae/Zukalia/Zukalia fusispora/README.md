@@ -1,5 +1,4 @@
-Zukalia fusispora Pat. SPECIES
-=======
+# Zukalia fusispora Pat. SPECIES
 
 #### Status
 ACCEPTED

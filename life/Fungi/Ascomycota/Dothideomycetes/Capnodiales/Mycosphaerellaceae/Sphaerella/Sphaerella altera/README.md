@@ -1,5 +1,4 @@
-Sphaerella altera Pass. SPECIES
-=======
+# Sphaerella altera Pass. SPECIES
 
 #### Status
 ACCEPTED

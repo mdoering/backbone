@@ -1,5 +1,4 @@
-Ophiognomonia cryptica D. Wilson & M.E. Barr SPECIES
-=======
+# Ophiognomonia cryptica D. Wilson & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

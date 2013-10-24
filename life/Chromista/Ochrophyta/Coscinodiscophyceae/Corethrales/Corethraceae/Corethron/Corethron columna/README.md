@@ -1,5 +1,4 @@
-Corethron columna Schutt SPECIES
-=======
+# Corethron columna Schutt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius olivellus Rob. Henry SPECIES
-=======
+# Cortinarius olivellus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

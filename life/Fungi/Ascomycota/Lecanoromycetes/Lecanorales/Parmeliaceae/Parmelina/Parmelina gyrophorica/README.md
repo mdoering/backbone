@@ -1,5 +1,4 @@
-Parmelina gyrophorica Elix, S. L. Wang & J. B. Chen SPECIES
-=======
+# Parmelina gyrophorica Elix, S. L. Wang & J. B. Chen SPECIES
 
 #### Status
 ACCEPTED

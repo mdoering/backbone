@@ -1,5 +1,4 @@
-Sclerospora iseilematis Thirum. & Naras. SPECIES
-=======
+# Sclerospora iseilematis Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

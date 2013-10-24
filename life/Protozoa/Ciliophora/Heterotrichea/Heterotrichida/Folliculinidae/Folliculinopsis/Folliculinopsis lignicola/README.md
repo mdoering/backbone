@@ -1,5 +1,4 @@
-Folliculinopsis lignicola (Fauré-Fremiet, 1936) Jankowski, 2007 SPECIES
-=======
+# Folliculinopsis lignicola (Fauré-Fremiet, 1936) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

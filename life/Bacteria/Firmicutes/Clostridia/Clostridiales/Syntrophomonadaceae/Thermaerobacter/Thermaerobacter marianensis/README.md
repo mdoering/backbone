@@ -1,5 +1,4 @@
-Thermaerobacter marianensis Takai et al., 1999 SPECIES
-=======
+# Thermaerobacter marianensis Takai et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

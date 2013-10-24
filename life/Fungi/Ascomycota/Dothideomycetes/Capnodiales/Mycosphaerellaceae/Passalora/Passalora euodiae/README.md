@@ -1,14 +1,13 @@
-Passalora evodiae (Syd. & P. Syd.) Goh & W.H. Hsieh SPECIES
-=======
+# Passalora euodiae (Syd. & P. Syd.) Goh & W.H. Hsieh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hsieh & Goh, Cercospora and Similar Fungi from Taiwan (Taipei) 292 (1990)
 
 #### Original name
 Cercospora euodiae Syd. & P. Syd.

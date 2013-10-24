@@ -1,5 +1,4 @@
-Trinacria anisimovae A. P. Jousé SPECIES
-=======
+# Trinacria anisimovae A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

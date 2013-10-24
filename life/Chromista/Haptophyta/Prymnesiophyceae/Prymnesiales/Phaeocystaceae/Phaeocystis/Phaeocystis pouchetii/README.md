@@ -1,5 +1,4 @@
-Phaeocystis pouchetii (Hariot) Lagerheim SPECIES
-=======
+# Phaeocystis pouchetii (Hariot) Lagerheim SPECIES
 
 #### Status
 ACCEPTED

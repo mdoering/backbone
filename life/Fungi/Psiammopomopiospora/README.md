@@ -1,5 +1,4 @@
-Psiammopomopiospora Locq. & Sal.-Cheb. GENUS
-=======
+# Psiammopomopiospora Locq. & Sal.-Cheb. GENUS
 
 #### Status
 ACCEPTED

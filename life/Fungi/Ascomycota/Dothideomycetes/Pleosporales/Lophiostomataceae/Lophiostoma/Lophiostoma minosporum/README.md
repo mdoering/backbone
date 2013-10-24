@@ -1,5 +1,4 @@
-Lophiostoma minosporum Z.Q. Yuan SPECIES
-=======
+# Lophiostoma minosporum Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

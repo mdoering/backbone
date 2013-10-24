@@ -1,5 +1,4 @@
-Ganoderma donkii Steyaert, 1972 SPECIES
-=======
+# Ganoderma donkii Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

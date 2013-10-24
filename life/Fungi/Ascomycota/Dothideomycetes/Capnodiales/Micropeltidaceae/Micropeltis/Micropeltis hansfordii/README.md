@@ -1,5 +1,4 @@
-Micropeltis hansfordii Bat. & A.F. Vital SPECIES
-=======
+# Micropeltis hansfordii Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

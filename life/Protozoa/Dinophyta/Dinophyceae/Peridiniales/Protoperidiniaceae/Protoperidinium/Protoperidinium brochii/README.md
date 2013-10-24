@@ -1,5 +1,4 @@
-Protoperidinium brochii (Kofoid & Swezy) Balech SPECIES
-=======
+# Protoperidinium brochii (Kofoid & Swezy) Balech SPECIES
 
 #### Status
 ACCEPTED

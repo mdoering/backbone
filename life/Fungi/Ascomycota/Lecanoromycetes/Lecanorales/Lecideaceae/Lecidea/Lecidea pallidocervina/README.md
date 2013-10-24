@@ -1,5 +1,4 @@
-Lecidea pallidocervina Kremp. SPECIES
-=======
+# Lecidea pallidocervina Kremp. SPECIES
 
 #### Status
 ACCEPTED

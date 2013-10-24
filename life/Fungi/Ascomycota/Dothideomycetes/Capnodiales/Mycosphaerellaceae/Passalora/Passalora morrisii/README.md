@@ -1,5 +1,4 @@
-Passalora morrisii Crous SPECIES
-=======
+# Passalora morrisii Crous SPECIES
 
 #### Status
 ACCEPTED

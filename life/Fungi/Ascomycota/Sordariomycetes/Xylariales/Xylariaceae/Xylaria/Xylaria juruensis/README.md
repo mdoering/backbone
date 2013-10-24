@@ -1,5 +1,4 @@
-Xylaria juruensis Henn. SPECIES
-=======
+# Xylaria juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

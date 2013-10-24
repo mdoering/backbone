@@ -1,5 +1,4 @@
-Gibbera sydowiana Petr. SPECIES
-=======
+# Gibbera sydowiana Petr. SPECIES
 
 #### Status
 ACCEPTED

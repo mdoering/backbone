@@ -1,5 +1,4 @@
-Chaetoceros vistule Apstein SPECIES
-=======
+# Chaetoceros vistule Apstein SPECIES
 
 #### Status
 ACCEPTED

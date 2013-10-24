@@ -1,5 +1,4 @@
-Chaconia thailandica Y. Ono, Kakish. & Lohsomb., 1988 SPECIES
-=======
+# Chaconia thailandica Y. Ono, Kakish. & Lohsomb., 1988 SPECIES
 
 #### Status
 ACCEPTED

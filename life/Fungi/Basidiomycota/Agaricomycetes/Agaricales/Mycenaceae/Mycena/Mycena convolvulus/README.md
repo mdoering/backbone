@@ -1,5 +1,4 @@
-Mycena convolvulus Mont. SPECIES
-=======
+# Mycena convolvulus Mont. SPECIES
 
 #### Status
 ACCEPTED

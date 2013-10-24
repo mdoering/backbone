@@ -1,5 +1,4 @@
-Thiomicrospira crunogena Jannasch et al., 1985 SPECIES
-=======
+# Thiomicrospira crunogena Jannasch et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

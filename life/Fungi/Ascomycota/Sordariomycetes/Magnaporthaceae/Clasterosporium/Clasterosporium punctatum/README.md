@@ -1,5 +1,4 @@
-Clasterosporium punctatum (Lév.) Sacc. SPECIES
-=======
+# Clasterosporium punctatum (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

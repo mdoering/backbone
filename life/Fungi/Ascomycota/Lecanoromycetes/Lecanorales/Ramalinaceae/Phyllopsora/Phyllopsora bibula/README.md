@@ -1,5 +1,4 @@
-Phyllopsora bibula (Taylor) Swinscow & Krog SPECIES
-=======
+# Phyllopsora bibula (Taylor) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

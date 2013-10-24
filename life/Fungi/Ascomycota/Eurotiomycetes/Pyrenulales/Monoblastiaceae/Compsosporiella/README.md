@@ -1,5 +1,4 @@
-Compsosporiella GENUS
-=======
+# Compsosporiella GENUS
 
 #### Status
 ACCEPTED

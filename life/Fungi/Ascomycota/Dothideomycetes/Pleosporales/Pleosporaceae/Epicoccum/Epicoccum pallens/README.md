@@ -1,5 +1,4 @@
-Epicoccum pallens Fr. SPECIES
-=======
+# Epicoccum pallens Fr. SPECIES
 
 #### Status
 ACCEPTED

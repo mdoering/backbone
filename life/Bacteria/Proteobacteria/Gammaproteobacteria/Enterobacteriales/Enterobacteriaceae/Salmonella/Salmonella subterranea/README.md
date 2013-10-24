@@ -1,5 +1,4 @@
-Salmonella subterranea Shelobolina et al., 2005 SPECIES
-=======
+# Salmonella subterranea Shelobolina et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

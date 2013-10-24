@@ -1,5 +1,4 @@
-Poria auranticarnescens Henn. SPECIES
-=======
+# Poria auranticarnescens Henn. SPECIES
 
 #### Status
 ACCEPTED

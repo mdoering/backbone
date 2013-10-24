@@ -1,14 +1,13 @@
-Lentinus papuanus Hongo, 1976 SPECIES
-=======
+# Neolentinus papuanus (Hongo) Redhead & Ginns, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Tottori Mycol. Inst. 14: 95 (1976)
+Trans. Mycol. Soc. Japan 26(3): 357 (1985)
 
 #### Original name
 Lentinus papuanus Hongo, 1976

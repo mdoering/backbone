@@ -1,5 +1,4 @@
-Tricholoma holoianthinum (Kalchbr.) P. Karst. SPECIES
-=======
+# Tricholoma holoianthinum (Kalchbr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

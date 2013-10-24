@@ -1,17 +1,16 @@
-Hydnum neoguineënse Henn. SPECIES
-=======
+# Hydnum neoguineense Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 18(Beibl. 44): 25 (1894)
 
 #### Original name
-Hydnum neoguineënse Henn.
+Hydnum neoguineense Henn.
 
 ### Remarks
 null

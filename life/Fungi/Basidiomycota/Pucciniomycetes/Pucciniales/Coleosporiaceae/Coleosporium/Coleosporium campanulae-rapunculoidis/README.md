@@ -1,5 +1,4 @@
-Coleosporium campanulae-rapunculoidis Kleb. SPECIES
-=======
+# Coleosporium campanulae-rapunculoidis Kleb. SPECIES
 
 #### Status
 ACCEPTED

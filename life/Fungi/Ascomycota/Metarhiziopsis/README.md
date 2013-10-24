@@ -1,5 +1,4 @@
-Metarhiziopsis D.W. Li, Cowles & Vossbrinck GENUS
-=======
+# Metarhiziopsis D.W. Li, Cowles & Vossbrinck GENUS
 
 #### Status
 ACCEPTED

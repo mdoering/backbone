@@ -1,5 +1,4 @@
-Epistylis balatonica subsp. major Nenninger, 1948 SUBSPECIES
-=======
+# Epistylis balatonica Nenninger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius gelatinosus Scop. SPECIES
-=======
+# Merulius gelatinosus Scop. SPECIES
 
 #### Status
 ACCEPTED

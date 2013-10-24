@@ -1,5 +1,4 @@
-Linotolypa arcuata Eisenack, 1962 SPECIES
-=======
+# Linotolypa arcuata Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramariopsis bicolor R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis bicolor R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

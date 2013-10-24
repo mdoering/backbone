@@ -1,5 +1,4 @@
-Puccinia launaeae Maire SPECIES
-=======
+# Puccinia launaeae Maire SPECIES
 
 #### Status
 ACCEPTED

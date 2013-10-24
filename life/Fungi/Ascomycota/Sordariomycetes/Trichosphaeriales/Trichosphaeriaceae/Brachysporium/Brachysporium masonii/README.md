@@ -1,5 +1,4 @@
-Brachysporium masonii S. Hughes, 1951 SPECIES
-=======
+# Brachysporium masonii S. Hughes, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia orientalis Thaxt. SPECIES
-=======
+# Laboulbenia orientalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

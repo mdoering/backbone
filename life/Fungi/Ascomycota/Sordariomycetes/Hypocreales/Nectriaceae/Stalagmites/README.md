@@ -1,5 +1,4 @@
-Stalagmites Theiss. & Syd. GENUS
-=======
+# Stalagmites Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

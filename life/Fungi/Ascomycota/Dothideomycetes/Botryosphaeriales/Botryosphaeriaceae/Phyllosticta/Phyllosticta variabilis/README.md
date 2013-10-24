@@ -1,5 +1,4 @@
-Phyllosticta variabilis Peck SPECIES
-=======
+# Phyllosticta variabilis Peck SPECIES
 
 #### Status
 ACCEPTED

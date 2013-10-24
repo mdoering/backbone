@@ -1,5 +1,4 @@
-Navicella cynopis (Fabre) Kuntze SPECIES
-=======
+# Navicella cynopis (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

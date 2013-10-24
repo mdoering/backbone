@@ -1,5 +1,4 @@
-Tremella tropica Chee J. Chen SPECIES
-=======
+# Tremella tropica Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

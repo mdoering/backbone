@@ -1,5 +1,4 @@
-Cyanobacteriaceae FAMILY
-=======
+# Cyanobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

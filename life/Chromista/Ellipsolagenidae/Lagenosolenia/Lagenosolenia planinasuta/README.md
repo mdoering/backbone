@@ -1,5 +1,4 @@
-Lagenosolenia planinasuta McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia planinasuta McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphosphaera procera Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera procera Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

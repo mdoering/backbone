@@ -1,5 +1,4 @@
-Gordymonas B. Skvortzov & Noda, 1968 GENUS
-=======
+# Gordymonas B. Skvortzov & Noda, 1968 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Smithiomyces lanososfarinosa (Rick) Raithelh. SPECIES
-=======
+# Smithiomyces lanosofarinosus (Rick) Raithelh., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Metrodiana 16(1-3): 24 (1988)
 
 #### Original name
 Lepiota lanosofarinosa Rick, 1939

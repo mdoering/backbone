@@ -1,5 +1,4 @@
-Heteromitus J.P.F.C.Montagne GENUS
-=======
+# Heteromitus J.P.F.C.Montagne GENUS
 
 #### Status
 ACCEPTED

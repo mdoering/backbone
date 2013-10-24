@@ -1,5 +1,4 @@
-Cyclotella florida Voight, 1942 SPECIES
-=======
+# Cyclotella florida Voight, 1942 SPECIES
 
 #### Status
 ACCEPTED

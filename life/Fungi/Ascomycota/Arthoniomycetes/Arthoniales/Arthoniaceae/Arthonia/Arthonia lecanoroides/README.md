@@ -1,5 +1,4 @@
-Arthonia lecanoroides Fée SPECIES
-=======
+# Arthonia lecanoroides Fée SPECIES
 
 #### Status
 ACCEPTED

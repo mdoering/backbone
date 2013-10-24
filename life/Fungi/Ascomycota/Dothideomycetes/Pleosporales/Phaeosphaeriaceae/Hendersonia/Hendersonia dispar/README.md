@@ -1,5 +1,4 @@
-Hendersonia dispar Mont. SPECIES
-=======
+# Hendersonia dispar Mont. SPECIES
 
 #### Status
 ACCEPTED

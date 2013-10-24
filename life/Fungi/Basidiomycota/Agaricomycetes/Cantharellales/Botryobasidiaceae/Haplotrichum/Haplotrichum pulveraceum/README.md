@@ -1,5 +1,4 @@
-Haplotrichum pulveraceum (Ellis) Partr. & Morgan-Jones SPECIES
-=======
+# Haplotrichum pulveraceum (Ellis) Partr. & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

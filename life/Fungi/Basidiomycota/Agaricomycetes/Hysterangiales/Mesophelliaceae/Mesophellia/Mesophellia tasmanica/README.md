@@ -1,5 +1,4 @@
-Mesophellia tasmanica Rob.J. Taylor SPECIES
-=======
+# Mesophellia tasmanica Rob.J. Taylor SPECIES
 
 #### Status
 ACCEPTED

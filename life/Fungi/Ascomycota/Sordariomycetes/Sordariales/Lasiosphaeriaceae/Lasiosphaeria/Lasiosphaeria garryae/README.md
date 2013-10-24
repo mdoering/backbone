@@ -1,5 +1,4 @@
-Lasiosphaeria garryae Höhn. SPECIES
-=======
+# Lasiosphaeria garryae Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea martianoffiana Niessl & Thüm. SPECIES
-=======
+# Dothidea martianoffiana Niessl & Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelenella vezdae (H. Mayrhofer & Poelt) Coppins & Fryday SPECIES
-=======
+# Thelenella vezdae (H. Mayrhofer & Poelt) Coppins & Fryday SPECIES
 
 #### Status
 ACCEPTED

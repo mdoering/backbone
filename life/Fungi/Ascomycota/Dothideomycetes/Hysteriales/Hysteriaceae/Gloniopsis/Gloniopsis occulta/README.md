@@ -1,5 +1,4 @@
-Gloniopsis occulta Kirschst. SPECIES
-=======
+# Gloniopsis occulta Kirschst. SPECIES
 
 #### Status
 ACCEPTED

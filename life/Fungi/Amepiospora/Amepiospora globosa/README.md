@@ -1,5 +1,4 @@
-Amepiospora globosa Sal.-Cheb. & Locq. SPECIES
-=======
+# Amepiospora globosa Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

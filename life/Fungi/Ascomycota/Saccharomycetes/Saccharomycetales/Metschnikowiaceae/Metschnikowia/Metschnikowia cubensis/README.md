@@ -1,5 +1,4 @@
-Metschnikowia cubensis Fidalgo-Jim., H.M. Daniel, Evrard, Decock & Lachance, 2008 SPECIES
-=======
+# Metschnikowia cubensis Fidalgo-Jim., H.M. Daniel, Evrard, Decock & Lachance, 2008 SPECIES
 
 #### Status
 ACCEPTED

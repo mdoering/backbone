@@ -1,5 +1,4 @@
-Collema novozelandicum Degel. SPECIES
-=======
+# Collema novozelandicum Degel. SPECIES
 
 #### Status
 ACCEPTED

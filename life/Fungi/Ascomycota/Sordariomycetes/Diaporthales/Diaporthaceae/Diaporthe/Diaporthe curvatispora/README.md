@@ -1,5 +1,4 @@
-Diaporthe curvatispora Wakef. SPECIES
-=======
+# Diaporthe curvatispora Wakef. SPECIES
 
 #### Status
 ACCEPTED

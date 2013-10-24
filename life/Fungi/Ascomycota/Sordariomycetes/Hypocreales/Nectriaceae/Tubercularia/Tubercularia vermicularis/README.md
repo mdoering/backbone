@@ -1,5 +1,4 @@
-Tubercularia vermicularis Lowater SPECIES
-=======
+# Tubercularia vermicularis Lowater SPECIES
 
 #### Status
 ACCEPTED

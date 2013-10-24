@@ -1,5 +1,4 @@
-Rhodophyllus bisporifer Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus bisporifer Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

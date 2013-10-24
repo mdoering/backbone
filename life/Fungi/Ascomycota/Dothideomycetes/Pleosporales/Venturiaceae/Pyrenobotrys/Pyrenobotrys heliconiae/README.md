@@ -1,5 +1,4 @@
-Pyrenobotrys heliconiae (Henn.) Theiss. & Syd. SPECIES
-=======
+# Pyrenobotrys heliconiae (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Florisphaeridium pequenisimum Rodriguez-Gonzalez, 1983 SPECIES
-=======
+# Florisphaeridium pequenisimum Rodriguez-Gonzalez, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amphorella Léger, 1892 GENUS
-=======
+# Amphoroides Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Tabl. Zool. , 3, 132.
+Tierreich, 5, 20.
 
 #### Original name
-null
+Amphorella Léger, 1892
 
 ### Remarks
 null

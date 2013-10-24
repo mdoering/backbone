@@ -1,5 +1,4 @@
-Verrucaria anoptella Stirt. SPECIES
-=======
+# Verrucaria anoptella Stirt. SPECIES
 
 #### Status
 ACCEPTED

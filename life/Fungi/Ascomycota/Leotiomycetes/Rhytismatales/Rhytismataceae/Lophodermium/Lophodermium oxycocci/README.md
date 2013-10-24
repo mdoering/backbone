@@ -1,14 +1,13 @@
-Hypoderma oxycocci (Fr.) Kuntze, 1898 SPECIES
-=======
+# Lophodermium oxycocci (Fr.) P. Karst., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 487 (1898)
+Mém. Soc. Phys. Hist. nat. Genève 16(1): 56 (1873)
 
 #### Original name
 Hysterium oxycoccos Fr., 1823

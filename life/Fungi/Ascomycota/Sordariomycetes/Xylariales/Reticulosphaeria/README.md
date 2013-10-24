@@ -1,5 +1,4 @@
-Reticulosphaeria Sivan. & Bahekar GENUS
-=======
+# Reticulosphaeria Sivan. & Bahekar GENUS
 
 #### Status
 ACCEPTED

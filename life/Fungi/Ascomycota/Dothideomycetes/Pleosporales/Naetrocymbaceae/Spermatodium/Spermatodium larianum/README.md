@@ -1,5 +1,4 @@
-Spermatodium larianum (A. Massal.) Trevis. SPECIES
-=======
+# Spermatodium larianum (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

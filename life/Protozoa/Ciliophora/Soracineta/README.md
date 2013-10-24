@@ -1,5 +1,4 @@
-Soracineta Yankovskii, 1978 GENUS
-=======
+# Soracineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kirramyces delegatensis (R.F. Park & Keane) Andjic SPECIES
-=======
+# Kirramyces delegatensis (R.F. Park & Keane) Andjic SPECIES
 
 #### Status
 ACCEPTED

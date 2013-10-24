@@ -1,5 +1,4 @@
-Anisomeridium subatomarium (C. Knight) R.C. Harris SPECIES
-=======
+# Anisomeridium subatomarium (C. Knight) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

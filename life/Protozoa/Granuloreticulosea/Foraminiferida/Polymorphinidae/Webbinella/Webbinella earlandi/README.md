@@ -1,5 +1,4 @@
-Webbinella earlandi Rhumbler, 1935 SPECIES
-=======
+# Webbinella earlandi Rhumbler, 1935 SPECIES
 
 #### Status
 ACCEPTED

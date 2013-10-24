@@ -1,5 +1,4 @@
-Septoria bituminosa Urries SPECIES
-=======
+# Septoria bituminosa Urries SPECIES
 
 #### Status
 ACCEPTED

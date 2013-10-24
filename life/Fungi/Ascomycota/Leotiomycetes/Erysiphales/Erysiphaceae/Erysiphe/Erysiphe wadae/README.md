@@ -1,5 +1,4 @@
-Erysiphe wadae S. Takam. & Y. Sato SPECIES
-=======
+# Erysiphe wadae S. Takam. & Y. Sato SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelomomyces cribrosus Couch & H.R. Dodge ex Couch SPECIES
-=======
+# Coelomomyces cribrosus Couch & H.R. Dodge ex Couch SPECIES
 
 #### Status
 ACCEPTED

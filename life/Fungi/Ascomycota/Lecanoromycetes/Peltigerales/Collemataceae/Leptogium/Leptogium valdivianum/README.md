@@ -1,5 +1,4 @@
-Leptogium valdivianum M. Lindstr. SPECIES
-=======
+# Leptogium valdivianum M. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

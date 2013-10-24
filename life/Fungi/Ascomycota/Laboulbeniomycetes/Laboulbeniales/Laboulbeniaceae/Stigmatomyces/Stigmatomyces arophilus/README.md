@@ -1,5 +1,4 @@
-Stigmatomyces arophilus SPECIES
-=======
+# Stigmatomyces arophilus SPECIES
 
 #### Status
 ACCEPTED

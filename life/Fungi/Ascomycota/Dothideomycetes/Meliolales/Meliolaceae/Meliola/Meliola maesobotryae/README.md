@@ -1,5 +1,4 @@
-Meliola maesobotryae Hansf. & Deighton SPECIES
-=======
+# Meliola maesobotryae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyporus flammans Berk., 1854 SPECIES
-=======
+# Inonotus flammans (Berk.) Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 6: 139 (1854)
+Syn. Fung. (Oslo) 21: 56 (2005)
 
 #### Original name
 Polyporus flammans Berk., 1854

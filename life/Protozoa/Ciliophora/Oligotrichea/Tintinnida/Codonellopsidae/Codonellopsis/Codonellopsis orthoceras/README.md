@@ -1,5 +1,4 @@
-Codonellopsis orthoceras (Haeckel, 1873) Jörgensen, 1924 SPECIES
-=======
+# Codonellopsis orthoceras (Haeckel, 1873) Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

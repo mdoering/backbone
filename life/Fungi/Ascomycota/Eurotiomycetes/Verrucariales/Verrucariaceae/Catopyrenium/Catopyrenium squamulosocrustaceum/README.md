@@ -1,5 +1,4 @@
-Catopyrenium squamulosocrustaceum Savast. SPECIES
-=======
+# Catopyrenium squamulosocrustaceum Savast. SPECIES
 
 #### Status
 ACCEPTED

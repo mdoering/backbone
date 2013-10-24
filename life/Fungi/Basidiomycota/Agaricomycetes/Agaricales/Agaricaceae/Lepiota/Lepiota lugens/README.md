@@ -1,5 +1,4 @@
-Lepiota lugens Rick SPECIES
-=======
+# Lepiota lugens Rick SPECIES
 
 #### Status
 ACCEPTED

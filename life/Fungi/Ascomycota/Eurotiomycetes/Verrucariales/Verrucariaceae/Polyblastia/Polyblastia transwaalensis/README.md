@@ -1,5 +1,4 @@
-Polyblastia transwaalensis Müll. Arg. SPECIES
-=======
+# Polyblastia transwaalensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

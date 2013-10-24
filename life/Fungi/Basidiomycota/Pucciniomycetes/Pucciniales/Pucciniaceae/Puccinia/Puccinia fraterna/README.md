@@ -1,5 +1,4 @@
-Puccinia fraterna H.S. Jacks. SPECIES
-=======
+# Puccinia fraterna H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tapesia messerschmidii (Weinm.) Sacc., 1889 SPECIES
-=======
+# Weinmannioscyphus messerschmidii (Weinm.) Svrcek, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 381 (1889)
+Ceská Mykol. 31(1): 13 (1977)
 
 #### Original name
 null

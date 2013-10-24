@@ -1,5 +1,4 @@
-Entylomella australe Cif. SPECIES
-=======
+# Entylomella australe Cif. SPECIES
 
 #### Status
 ACCEPTED

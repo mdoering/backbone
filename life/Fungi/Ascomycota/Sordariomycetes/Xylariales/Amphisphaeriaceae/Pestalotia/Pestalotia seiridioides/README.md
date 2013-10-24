@@ -1,5 +1,4 @@
-Pestalotia seiridioides Sacc. SPECIES
-=======
+# Pestalotia seiridioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

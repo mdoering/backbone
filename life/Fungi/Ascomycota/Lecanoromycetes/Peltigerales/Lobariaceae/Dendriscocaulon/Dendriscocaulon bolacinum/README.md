@@ -1,5 +1,4 @@
-Dendriscocaulon bolacinum var. bolacinum VARIETY
-=======
+# Dendriscocaulon bolacinum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dendriscocaulon bolacinum var. bolacinum
+null
 
 ### Remarks
 null

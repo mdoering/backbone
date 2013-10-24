@@ -1,5 +1,4 @@
-Abropelta B. Sutton GENUS
-=======
+# Abropelta B. Sutton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxophyllum laevigatum Sauerbrey SPECIES
-=======
+# Loxophyllum laevigatum Sauerbrey SPECIES
 
 #### Status
 ACCEPTED

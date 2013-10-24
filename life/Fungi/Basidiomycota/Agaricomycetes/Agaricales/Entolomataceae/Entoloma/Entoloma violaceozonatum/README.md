@@ -1,5 +1,4 @@
-Entoloma violaceozonatum Noordel. & Liiv SPECIES
-=======
+# Entoloma violaceozonatum Noordel. & Liiv SPECIES
 
 #### Status
 ACCEPTED

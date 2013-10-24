@@ -1,5 +1,4 @@
-Halobacteroidaceae Zhilina & Rainey, 1995 FAMILY
-=======
+# Halobacteroidaceae Zhilina & Rainey, 1995 FAMILY
 
 #### Status
 ACCEPTED

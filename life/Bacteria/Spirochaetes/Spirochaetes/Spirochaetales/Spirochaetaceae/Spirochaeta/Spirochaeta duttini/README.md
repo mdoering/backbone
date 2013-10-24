@@ -1,5 +1,4 @@
-Spirochaeta duttini SPECIES
-=======
+# Spirochaeta duttini SPECIES
 
 #### Status
 ACCEPTED

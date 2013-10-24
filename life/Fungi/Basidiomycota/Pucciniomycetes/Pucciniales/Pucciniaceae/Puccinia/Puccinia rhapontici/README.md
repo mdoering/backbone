@@ -1,5 +1,4 @@
-Puccinia rhapontici P. Syd. & Syd. SPECIES
-=======
+# Puccinia rhapontici P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia aesculi var. aesculi VARIETY
-=======
+# Diplodia aesculi Lév. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls Sci. Nat. , Bot. , sér. 3 5: 290 (1846)
 
 #### Original name
-Diplodia aesculi var. aesculi
+Diplodia aesculi Lév.
 
 ### Remarks
 null

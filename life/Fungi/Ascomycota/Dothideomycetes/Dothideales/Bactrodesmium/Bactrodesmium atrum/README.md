@@ -1,5 +1,4 @@
-Bactrodesmium atrum M.B. Ellis, 1959 SPECIES
-=======
+# Bactrodesmium atrum M.B. Ellis, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dysteria kahli Tucolesco, 1962 SPECIES
-=======
+# Spirodysteria kahli (Tucolesco, 1962) Gong, Choi, Roberts, Kim & Min, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

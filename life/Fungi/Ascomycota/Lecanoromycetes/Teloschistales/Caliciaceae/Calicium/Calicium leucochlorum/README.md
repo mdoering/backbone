@@ -1,5 +1,4 @@
-Calicium leucochlorum Tuck. SPECIES
-=======
+# Calicium leucochlorum Tuck. SPECIES
 
 #### Status
 ACCEPTED

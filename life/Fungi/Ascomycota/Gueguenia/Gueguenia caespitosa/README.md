@@ -1,5 +1,4 @@
-Gueguenia caespitosa Bainier SPECIES
-=======
+# Gueguenia caespitosa Bainier SPECIES
 
 #### Status
 ACCEPTED

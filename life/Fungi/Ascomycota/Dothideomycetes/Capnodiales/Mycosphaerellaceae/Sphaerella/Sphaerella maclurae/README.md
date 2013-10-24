@@ -1,5 +1,4 @@
-Sphaerella maclurae Ellis & Everh. SPECIES
-=======
+# Sphaerella maclurae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

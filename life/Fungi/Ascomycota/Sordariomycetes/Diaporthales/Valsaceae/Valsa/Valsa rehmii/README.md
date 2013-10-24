@@ -1,5 +1,4 @@
-Valsa rehmii G. Winter SPECIES
-=======
+# Valsa rehmii G. Winter SPECIES
 
 #### Status
 ACCEPTED

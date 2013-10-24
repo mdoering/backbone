@@ -1,5 +1,4 @@
-Scyphidia rhizopoda Lepsi, 1923 SPECIES
-=======
+# Scyphidia rhizopoda Lepsi, 1923 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea inundata f. inundata FORM
-=======
+# Lecidea inundata Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea inundata f. inundata
+Lecidea inundata Nyl.
 
 ### Remarks
 null

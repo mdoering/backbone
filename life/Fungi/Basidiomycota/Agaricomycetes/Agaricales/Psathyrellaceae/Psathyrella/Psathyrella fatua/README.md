@@ -1,17 +1,16 @@
-Psilocybe fatua (Fr.) Cout., 1934 SPECIES
-=======
+# Psathyrella fatua (Fr.) P. Kumm., 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Encyclop. Mycol. 14(1): 125 (1949)
 
 #### Original name
-Agaricus stipatus Pers.
+Agaricus fatuus (Fr.) Fr.
 
 ### Remarks
 null

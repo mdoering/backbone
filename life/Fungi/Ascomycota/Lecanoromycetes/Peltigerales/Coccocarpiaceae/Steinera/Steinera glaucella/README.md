@@ -1,8 +1,7 @@
-Pannaria glaucella Tuck. SPECIES
-=======
+# Steinera glaucella (Tuck.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

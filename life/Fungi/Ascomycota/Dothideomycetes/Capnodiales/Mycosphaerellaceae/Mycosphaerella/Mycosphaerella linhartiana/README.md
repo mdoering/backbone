@@ -1,5 +1,4 @@
-Mycosphaerella linhartiana (Niessl) Starbäck SPECIES
-=======
+# Mycosphaerella linhartiana (Niessl) Starbäck SPECIES
 
 #### Status
 ACCEPTED

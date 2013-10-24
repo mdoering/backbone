@@ -1,5 +1,4 @@
-Heliapsis Pascher, 1940 GENUS
-=======
+# Heliapsis Pascher, 1940 GENUS
 
 #### Status
 ACCEPTED

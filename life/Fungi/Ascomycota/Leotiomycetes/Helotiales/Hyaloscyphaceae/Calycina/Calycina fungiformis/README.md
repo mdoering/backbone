@@ -1,5 +1,4 @@
-Calycina fungiformis (Scop.) Kuntze SPECIES
-=======
+# Calycina fungiformis (Scop.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

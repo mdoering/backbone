@@ -1,5 +1,4 @@
-Hirschioporus anomalus (Lloyd) Teng SPECIES
-=======
+# Hirschioporus anomalus (Lloyd) Teng SPECIES
 
 #### Status
 ACCEPTED

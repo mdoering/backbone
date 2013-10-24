@@ -1,5 +1,4 @@
-Hypocrea tangensis Henn. SPECIES
-=======
+# Hypocrea tangensis Henn. SPECIES
 
 #### Status
 ACCEPTED

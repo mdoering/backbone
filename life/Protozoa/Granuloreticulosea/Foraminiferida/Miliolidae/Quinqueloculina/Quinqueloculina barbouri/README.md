@@ -1,5 +1,4 @@
-Quinqueloculina barbouri SPECIES
-=======
+# Quinqueloculina barbouri SPECIES
 
 #### Status
 ACCEPTED

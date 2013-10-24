@@ -1,5 +1,4 @@
-Cyanisticta horridula (H. Magn.) Szatala SPECIES
-=======
+# Cyanisticta horridula (H. Magn.) Szatala SPECIES
 
 #### Status
 ACCEPTED

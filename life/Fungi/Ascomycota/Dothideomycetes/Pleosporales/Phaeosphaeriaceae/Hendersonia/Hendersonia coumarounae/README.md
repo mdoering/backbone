@@ -1,5 +1,4 @@
-Hendersonia coumarounae Gonz. Frag. & Cif. SPECIES
-=======
+# Hendersonia coumarounae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

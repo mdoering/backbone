@@ -1,17 +1,16 @@
-Cercospora allamendae J.M. Yen SPECIES
-=======
+# Cercospora allamandae J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 30: 168 (1965)
 
 #### Original name
-Cercospora allamendae J.M. Yen
+Cercospora allamandae J.M. Yen
 
 ### Remarks
 null

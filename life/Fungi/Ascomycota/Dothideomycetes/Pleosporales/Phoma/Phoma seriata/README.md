@@ -1,5 +1,4 @@
-Phoma seriata (Pers.) Wollenw. & Hochapfel SPECIES
-=======
+# Phoma seriata (Pers.) Wollenw. & Hochapfel SPECIES
 
 #### Status
 ACCEPTED

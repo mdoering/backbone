@@ -1,5 +1,4 @@
-Agaricus aimatochelis Bull. SPECIES
-=======
+# Agaricus aimatochelis Bull. SPECIES
 
 #### Status
 ACCEPTED

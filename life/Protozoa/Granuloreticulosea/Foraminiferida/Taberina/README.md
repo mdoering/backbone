@@ -1,5 +1,4 @@
-Taberina Keijzer, 1945 GENUS
-=======
+# Taberina Keijzer, 1945 GENUS
 
 #### Status
 ACCEPTED

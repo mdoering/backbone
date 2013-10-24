@@ -1,5 +1,4 @@
-Cylindrosporium silvestris (Sacc.) J. Schröt. SPECIES
-=======
+# Cylindrosporium silvestris (Sacc.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

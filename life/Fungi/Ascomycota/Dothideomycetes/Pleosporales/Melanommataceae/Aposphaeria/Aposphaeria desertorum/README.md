@@ -1,5 +1,4 @@
-Aposphaeria desertorum Kravtzev SPECIES
-=======
+# Aposphaeria desertorum Kravtzev SPECIES
 
 #### Status
 ACCEPTED

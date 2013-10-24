@@ -1,5 +1,4 @@
-Endococcus pallidosporus Etayo, 2008 SPECIES
-=======
+# Endococcus pallidosporus Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

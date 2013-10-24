@@ -1,5 +1,4 @@
-Lecidea cremicolor SPECIES
-=======
+# Lecidea cremicolor SPECIES
 
 #### Status
 ACCEPTED

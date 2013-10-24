@@ -1,5 +1,4 @@
-Halovivax asiaticus Castillo et al., 2006 SPECIES
-=======
+# Halovivax asiaticus Castillo et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

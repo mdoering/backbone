@@ -1,5 +1,4 @@
-Mucor glaucescens Berl. & De Toni SPECIES
-=======
+# Mucor glaucescens Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

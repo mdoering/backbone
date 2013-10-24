@@ -1,5 +1,4 @@
-Cercospora ligustici Togashi SPECIES
-=======
+# Cercospora ligustici Togashi SPECIES
 
 #### Status
 ACCEPTED

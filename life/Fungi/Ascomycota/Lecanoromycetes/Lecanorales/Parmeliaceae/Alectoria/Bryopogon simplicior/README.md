@@ -1,5 +1,4 @@
-Bryopogon simplicior f. simplicior FORM
-=======
+# Bryopogon simplicior (Vain.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon simplicior f. simplicior
+null
 
 ### Remarks
 null

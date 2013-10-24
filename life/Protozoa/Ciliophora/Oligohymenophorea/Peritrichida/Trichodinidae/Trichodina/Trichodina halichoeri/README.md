@@ -1,5 +1,4 @@
-Trichodina halichoeri (Suzuki, 1950) Laird, 1961 SPECIES
-=======
+# Trichodina halichoeri (Suzuki, 1950) Laird, 1961 SPECIES
 
 #### Status
 ACCEPTED

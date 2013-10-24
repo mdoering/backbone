@@ -1,5 +1,4 @@
-Collybia incrustata O.K. Mill. SPECIES
-=======
+# Collybia incrustata O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

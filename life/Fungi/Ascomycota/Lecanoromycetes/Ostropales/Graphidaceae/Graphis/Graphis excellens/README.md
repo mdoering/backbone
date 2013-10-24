@@ -1,5 +1,4 @@
-Graphis excellens (Nyl.) Nyl. SPECIES
-=======
+# Graphis excellens (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

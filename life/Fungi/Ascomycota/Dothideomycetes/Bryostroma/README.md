@@ -1,5 +1,4 @@
-Bryostroma Döbbeler GENUS
-=======
+# Bryostroma Döbbeler GENUS
 
 #### Status
 ACCEPTED

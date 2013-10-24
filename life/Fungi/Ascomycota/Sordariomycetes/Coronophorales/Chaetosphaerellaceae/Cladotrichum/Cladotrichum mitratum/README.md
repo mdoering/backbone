@@ -1,5 +1,4 @@
-Cladotrichum mitratum Penz. & Sacc. SPECIES
-=======
+# Cladotrichum mitratum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

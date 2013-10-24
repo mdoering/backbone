@@ -1,5 +1,4 @@
-Anthostoma defossum (Durieu & Mont.) Sacc. SPECIES
-=======
+# Anthostoma defossum (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

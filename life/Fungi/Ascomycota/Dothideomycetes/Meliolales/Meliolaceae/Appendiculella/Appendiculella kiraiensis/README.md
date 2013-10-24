@@ -1,5 +1,4 @@
-Appendiculella kiraiensis (W. Yamam.) Hansf. SPECIES
-=======
+# Appendiculella kiraiensis (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

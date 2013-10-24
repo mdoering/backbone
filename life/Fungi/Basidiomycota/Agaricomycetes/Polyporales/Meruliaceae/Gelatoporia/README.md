@@ -1,5 +1,4 @@
-Gelatoporia Niemelä, 1985 GENUS
-=======
+# Gelatoporia Niemelä, 1985 GENUS
 
 #### Status
 ACCEPTED

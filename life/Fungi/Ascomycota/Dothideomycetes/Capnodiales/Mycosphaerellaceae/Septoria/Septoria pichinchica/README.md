@@ -1,5 +1,4 @@
-Septoria pichinchica Petr. SPECIES
-=======
+# Septoria pichinchica Petr. SPECIES
 
 #### Status
 ACCEPTED

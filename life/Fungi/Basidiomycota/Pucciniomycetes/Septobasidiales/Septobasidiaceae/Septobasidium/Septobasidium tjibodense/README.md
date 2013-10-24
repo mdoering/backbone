@@ -1,5 +1,4 @@
-Septobasidium tjibodense Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium tjibodense Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

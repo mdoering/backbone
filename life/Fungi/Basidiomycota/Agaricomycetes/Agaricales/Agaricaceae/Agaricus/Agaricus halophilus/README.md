@@ -1,5 +1,4 @@
-Agaricus halophilus Peck SPECIES
-=======
+# Agaricus halophilus Peck SPECIES
 
 #### Status
 ACCEPTED

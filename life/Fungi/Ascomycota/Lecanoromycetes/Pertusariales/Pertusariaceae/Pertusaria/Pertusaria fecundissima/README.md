@@ -1,5 +1,4 @@
-Pertusaria fecundissima SPECIES
-=======
+# Pertusaria fecundissima SPECIES
 
 #### Status
 ACCEPTED

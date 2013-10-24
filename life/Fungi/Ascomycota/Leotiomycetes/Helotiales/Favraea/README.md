@@ -1,5 +1,4 @@
-Favraea P.A. Saccardo, 1881 GENUS
-=======
+# Favraea P.A. Saccardo, 1881 GENUS
 
 #### Status
 ACCEPTED

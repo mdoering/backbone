@@ -1,5 +1,4 @@
-Puccinia subtropica J.C. Lindq. SPECIES
-=======
+# Puccinia subtropica J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora euelpis Stizenb. SPECIES
-=======
+# Lecanora euelpis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta garrettii Syd. & P. Syd. SPECIES
-=======
+# Phyllosticta garrettii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

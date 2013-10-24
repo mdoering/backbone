@@ -1,5 +1,4 @@
-Lecidea elaeochromoides (Nyl.) Flagey SPECIES
-=======
+# Lecidea elaeochromoides (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

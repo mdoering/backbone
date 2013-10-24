@@ -1,5 +1,4 @@
-Lecanora diversa Motyka SPECIES
-=======
+# Lecanora diversa Motyka SPECIES
 
 #### Status
 ACCEPTED

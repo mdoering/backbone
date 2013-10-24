@@ -1,5 +1,4 @@
-Fusarium diversisporum Sherb., 1915 SPECIES
-=======
+# Fusarium diversisporum Sherb., 1915 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavariana Nawawi GENUS
-=======
+# Clavariana Nawawi GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyroporus woodiae Murrill SPECIES
-=======
+# Gyroporus woodiae Murrill SPECIES
 
 #### Status
 ACCEPTED

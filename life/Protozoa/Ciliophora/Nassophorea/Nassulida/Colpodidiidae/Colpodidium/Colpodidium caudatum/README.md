@@ -1,5 +1,4 @@
-Colpodidium caudatum Wilbert, 1982 SPECIES
-=======
+# Colpodidium caudatum Wilbert, 1982 SPECIES
 
 #### Status
 ACCEPTED

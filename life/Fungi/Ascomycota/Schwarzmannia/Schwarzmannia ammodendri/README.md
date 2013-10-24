@@ -1,5 +1,4 @@
-Schwarzmannia ammodendri Kusnezowa SPECIES
-=======
+# Schwarzmannia ammodendri Kusnezowa SPECIES
 
 #### Status
 ACCEPTED

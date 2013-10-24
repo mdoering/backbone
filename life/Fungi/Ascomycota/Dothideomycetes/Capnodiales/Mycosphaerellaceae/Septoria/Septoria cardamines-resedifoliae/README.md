@@ -1,5 +1,4 @@
-Septoria cardamines-resedifoliae R. Heim SPECIES
-=======
+# Septoria cardamines-resedifoliae R. Heim SPECIES
 
 #### Status
 ACCEPTED

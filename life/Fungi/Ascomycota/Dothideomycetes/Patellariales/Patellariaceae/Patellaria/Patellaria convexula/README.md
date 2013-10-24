@@ -1,5 +1,4 @@
-Patellaria convexula Müll. Arg. SPECIES
-=======
+# Patellaria convexula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wanneria Below, 1987 GENUS
-=======
+# Wanneria Below, 1987 GENUS
 
 #### Status
 ACCEPTED

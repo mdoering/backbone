@@ -1,5 +1,4 @@
-Bacidia triseptatuloides (Harm.) Zahlbr. SPECIES
-=======
+# Bacidia triseptatuloides (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

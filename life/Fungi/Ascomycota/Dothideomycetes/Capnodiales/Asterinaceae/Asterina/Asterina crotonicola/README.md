@@ -1,5 +1,4 @@
-Asterina crotonicola Pat. SPECIES
-=======
+# Asterina crotonicola Pat. SPECIES
 
 #### Status
 ACCEPTED

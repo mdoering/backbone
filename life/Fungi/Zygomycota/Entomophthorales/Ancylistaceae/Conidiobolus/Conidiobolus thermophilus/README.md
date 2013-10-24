@@ -1,5 +1,4 @@
-Conidiobolus thermophilus Waing., S.K. Singh & M.C. Sriniv. SPECIES
-=======
+# Conidiobolus thermophilus Waing., S.K. Singh & M.C. Sriniv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius sytnikii M.M. Moser SPECIES
-=======
+# Cortinarius sytnikii M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

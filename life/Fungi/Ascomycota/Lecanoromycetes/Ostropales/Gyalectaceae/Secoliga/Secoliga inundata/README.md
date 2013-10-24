@@ -1,5 +1,4 @@
-Secoliga inundata (Nyl.) SPECIES
-=======
+# Secoliga inundata (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

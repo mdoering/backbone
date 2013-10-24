@@ -1,8 +1,7 @@
-Tillina praestans SPECIES
-=======
+# Colpoda praestans Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

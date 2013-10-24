@@ -1,5 +1,4 @@
-Cortinarius phenolicus M.M. Moser SPECIES
-=======
+# Cortinarius phenolicus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

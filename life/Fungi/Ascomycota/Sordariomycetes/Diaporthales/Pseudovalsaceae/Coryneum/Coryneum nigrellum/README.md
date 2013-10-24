@@ -1,5 +1,4 @@
-Coryneum nigrellum Lacroix SPECIES
-=======
+# Coryneum nigrellum Lacroix SPECIES
 
 #### Status
 ACCEPTED

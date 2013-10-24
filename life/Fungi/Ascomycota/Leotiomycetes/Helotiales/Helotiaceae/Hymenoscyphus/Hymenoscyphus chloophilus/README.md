@@ -1,5 +1,4 @@
-Hymenoscyphus chloophilus Spooner SPECIES
-=======
+# Hymenoscyphus chloophilus Spooner SPECIES
 
 #### Status
 ACCEPTED

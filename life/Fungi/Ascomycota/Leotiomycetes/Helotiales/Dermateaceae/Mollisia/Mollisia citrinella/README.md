@@ -1,5 +1,4 @@
-Mollisia citrinella Quél. SPECIES
-=======
+# Mollisia citrinella Quél. SPECIES
 
 #### Status
 ACCEPTED

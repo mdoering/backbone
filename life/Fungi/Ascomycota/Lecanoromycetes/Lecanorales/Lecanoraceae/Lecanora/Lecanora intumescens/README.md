@@ -1,17 +1,16 @@
-Lecanora intumescens f. intumescens (Rebent.) Rabenh. FORM
-=======
+# Lecanora intumescens (Rebent.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deutschl. Krypt. -Fl. (Leipzig) 2: 34 (1845)
 
 #### Original name
-Lecanora intumescens f. intumescens (Rebent.) Rabenh.
+Parmelia intumescens Rebent.
 
 ### Remarks
 null

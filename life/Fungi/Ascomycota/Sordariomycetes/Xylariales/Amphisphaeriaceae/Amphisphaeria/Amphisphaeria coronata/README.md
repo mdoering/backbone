@@ -1,5 +1,4 @@
-Amphisphaeria coronata Rehm SPECIES
-=======
+# Amphisphaeria coronata Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fusarium larvarum var. larvarum VARIETY
-=======
+# Cosmospora aurantiicola (Berk. & Broome) Rossman & Samuels, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 118 (1999)
 
 #### Original name
-null
+Nectria aurantiicola Berk. & Broome, 1875
 
 ### Remarks
 null

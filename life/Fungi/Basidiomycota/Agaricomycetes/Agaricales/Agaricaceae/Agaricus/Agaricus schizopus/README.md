@@ -1,5 +1,4 @@
-Agaricus schizopus Fr. SPECIES
-=======
+# Agaricus schizopus Fr. SPECIES
 
 #### Status
 ACCEPTED

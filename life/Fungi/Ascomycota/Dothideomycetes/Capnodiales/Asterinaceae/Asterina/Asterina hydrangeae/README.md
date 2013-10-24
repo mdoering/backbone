@@ -1,5 +1,4 @@
-Asterina hydrangeae B. Song & Ouyang SPECIES
-=======
+# Asterina hydrangeae B. Song & Ouyang SPECIES
 
 #### Status
 ACCEPTED

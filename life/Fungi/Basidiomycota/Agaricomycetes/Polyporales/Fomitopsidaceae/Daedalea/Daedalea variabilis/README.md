@@ -1,5 +1,4 @@
-Daedalea variabilis Holterm. SPECIES
-=======
+# Daedalea variabilis Holterm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatella cucurbitaria Cooke SPECIES
-=======
+# Dermatella cucurbitaria Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dictyochaeta guadalcanalensis (Matsush.) Kuthub. & Nawawi, 1991 SPECIES
-=======
+# Phialogeniculata guadalcanalensis Matsush., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 95(10): 1220 (1991)
+in Kabayasi et al. , Bull. natn. Sci. Mus. , Tokyo 14(3): 472 (1971)
 
 #### Original name
 Phialogeniculata guadalcanalensis Matsush., 1971

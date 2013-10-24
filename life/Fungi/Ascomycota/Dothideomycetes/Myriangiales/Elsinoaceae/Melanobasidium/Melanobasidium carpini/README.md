@@ -1,5 +1,4 @@
-Melanobasidium carpini Höhn. SPECIES
-=======
+# Melanobasidium carpini Höhn. SPECIES
 
 #### Status
 ACCEPTED

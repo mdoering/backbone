@@ -1,5 +1,4 @@
-Trematosphaeria caryospora Hazsl. SPECIES
-=======
+# Trematosphaeria caryospora Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza ebuli Ces. SPECIES
-=======
+# Peziza ebuli Ces. SPECIES
 
 #### Status
 ACCEPTED

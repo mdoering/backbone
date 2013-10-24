@@ -1,5 +1,4 @@
-Septammina bradyi Cushman, 1933 SPECIES
-=======
+# Septammina bradyi Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

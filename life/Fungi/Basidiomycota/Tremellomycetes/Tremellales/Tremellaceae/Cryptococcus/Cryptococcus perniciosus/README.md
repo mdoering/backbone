@@ -1,5 +1,4 @@
-Cryptococcus perniciosus Golubev, Gadanho, J.P. Samp. & N.W. Golubev SPECIES
-=======
+# Cryptococcus perniciosus Golubev, Gadanho, J.P. Samp. & N.W. Golubev SPECIES
 
 #### Status
 ACCEPTED

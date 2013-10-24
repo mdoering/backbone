@@ -1,5 +1,4 @@
-Cryptococcus nudans Pashev, V. Kostov & Abadj. SPECIES
-=======
+# Cryptococcus nudans Pashev, V. Kostov & Abadj. SPECIES
 
 #### Status
 ACCEPTED

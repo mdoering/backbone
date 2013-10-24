@@ -1,5 +1,4 @@
-Geopyxis scabra Rehm SPECIES
-=======
+# Geopyxis scabra Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiognomonia capillaris (Penz. & Sacc.) M. Monod SPECIES
-=======
+# Ophiognomonia capillaris (Penz. & Sacc.) M. Monod SPECIES
 
 #### Status
 ACCEPTED

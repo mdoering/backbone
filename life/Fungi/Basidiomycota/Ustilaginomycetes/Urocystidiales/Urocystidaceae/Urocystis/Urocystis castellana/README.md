@@ -1,5 +1,4 @@
-Urocystis castellana (Gonz. Frag.) Zundel SPECIES
-=======
+# Urocystis castellana (Gonz. Frag.) Zundel SPECIES
 
 #### Status
 ACCEPTED

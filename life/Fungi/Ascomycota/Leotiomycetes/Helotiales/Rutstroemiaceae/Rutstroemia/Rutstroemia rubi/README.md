@@ -1,5 +1,4 @@
-Rutstroemia rubi Velen., 1934 SPECIES
-=======
+# Rutstroemia rubi Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

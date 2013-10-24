@@ -1,5 +1,4 @@
-Clitocybe brownii (Berk. & Broome) Singer SPECIES
-=======
+# Clitocybe brownii (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

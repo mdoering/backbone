@@ -1,5 +1,4 @@
-Irpex pallidus Lloyd SPECIES
-=======
+# Irpex pallidus Lloyd SPECIES
 
 #### Status
 ACCEPTED

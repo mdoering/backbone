@@ -1,5 +1,4 @@
-Pezizella equisetina (Quél.) Kirschst. SPECIES
-=======
+# Pezizella equisetina (Quél.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

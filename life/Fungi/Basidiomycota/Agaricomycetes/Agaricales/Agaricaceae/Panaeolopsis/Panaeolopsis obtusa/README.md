@@ -1,5 +1,4 @@
-Panaeolopsis obtusa Contu, 1998 SPECIES
-=======
+# Panaeolopsis obtusa Contu, 1998 SPECIES
 
 #### Status
 ACCEPTED

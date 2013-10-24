@@ -1,5 +1,4 @@
-Lactarius moschatus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius moschatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

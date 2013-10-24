@@ -1,14 +1,13 @@
-Hyphodontia brevidens (Pat.) Ryvarden, 1983 SPECIES
-=======
+# Fibrodontia brevidens (Pat.) Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Occ. Pap. Farlow Herb. Crypt. Bot. 18: 9 (1983)
+Syn. Fung. (Oslo) 20: 54 (2005)
 
 #### Original name
 Irpex brevidens Pat., 1895

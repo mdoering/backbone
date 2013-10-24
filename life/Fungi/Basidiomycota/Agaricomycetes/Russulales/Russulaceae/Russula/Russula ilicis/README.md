@@ -1,5 +1,4 @@
-Russula ilicis Romagn., Chevassut & Privat SPECIES
-=======
+# Russula ilicis Romagn., Chevassut & Privat SPECIES
 
 #### Status
 ACCEPTED

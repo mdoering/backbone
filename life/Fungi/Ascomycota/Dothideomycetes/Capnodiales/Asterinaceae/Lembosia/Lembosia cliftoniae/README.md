@@ -1,5 +1,4 @@
-Lembosia cliftoniae Tracy & Earle SPECIES
-=======
+# Lembosia cliftoniae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

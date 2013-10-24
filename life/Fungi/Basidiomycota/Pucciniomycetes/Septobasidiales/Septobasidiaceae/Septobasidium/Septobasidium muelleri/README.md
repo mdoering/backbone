@@ -1,17 +1,16 @@
-Septobasidium mulleri Couch SPECIES
-=======
+# Septobasidium muelleri Couch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+The Genus Septobasidium (Chapel Hill) 171 (1938)
 
 #### Original name
-Septobasidium mulleri Couch
+Septobasidium muelleri Couch
 
 ### Remarks
 null

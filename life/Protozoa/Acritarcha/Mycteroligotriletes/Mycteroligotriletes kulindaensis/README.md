@@ -1,5 +1,4 @@
-Mycteroligotriletes kulindaensis Timofeev, 1960 SPECIES
-=======
+# Mycteroligotriletes kulindaensis Timofeev, 1960 SPECIES
 
 #### Status
 ACCEPTED

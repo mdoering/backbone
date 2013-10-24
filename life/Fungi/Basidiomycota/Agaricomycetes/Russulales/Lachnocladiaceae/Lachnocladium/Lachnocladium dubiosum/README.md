@@ -1,5 +1,4 @@
-Lachnocladium dubiosum Bres. SPECIES
-=======
+# Lachnocladium dubiosum Bres. SPECIES
 
 #### Status
 ACCEPTED

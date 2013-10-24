@@ -1,5 +1,4 @@
-Phomopsis longicolla Hobbs, 1985 SPECIES
-=======
+# Phomopsis longicolla Hobbs, 1985 SPECIES
 
 #### Status
 ACCEPTED

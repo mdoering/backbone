@@ -1,5 +1,4 @@
-Gonatophragmium kushinagarensis M.S. Tripathi & V. Tripathi SPECIES
-=======
+# Gonatophragmium kushinagarensis M.S. Tripathi & V. Tripathi SPECIES
 
 #### Status
 ACCEPTED

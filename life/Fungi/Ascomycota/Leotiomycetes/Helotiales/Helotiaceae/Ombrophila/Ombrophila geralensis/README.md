@@ -1,5 +1,4 @@
-Ombrophila geralensis Henn. SPECIES
-=======
+# Ombrophila geralensis Henn. SPECIES
 
 #### Status
 ACCEPTED

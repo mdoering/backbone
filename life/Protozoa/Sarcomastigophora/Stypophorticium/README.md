@@ -1,5 +1,4 @@
-Stypophorticium Haeckel, 1887 GENUS
-=======
+# Stypophorticium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

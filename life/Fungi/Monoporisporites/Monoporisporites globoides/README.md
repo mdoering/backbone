@@ -1,5 +1,4 @@
-Monoporisporites globoides (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites globoides (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

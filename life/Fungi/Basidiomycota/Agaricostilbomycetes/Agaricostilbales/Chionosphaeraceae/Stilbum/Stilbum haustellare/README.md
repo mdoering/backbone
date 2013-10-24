@@ -1,5 +1,4 @@
-Stilbum haustellare (Ach.) S. Hughes SPECIES
-=======
+# Stilbum haustellare (Ach.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

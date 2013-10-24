@@ -1,14 +1,13 @@
-Helotium fagineum (Pers.) Fr., 1849 SPECIES
-=======
+# Phaeohelotium fagineum (Pers.) Hengstm., 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 356 (1849)
+Mycotaxon 107: 273 (2009)
 
 #### Original name
 null

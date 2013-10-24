@@ -1,5 +1,4 @@
-Inocybe grata (Weinm.) Gillet SPECIES
-=======
+# Inocybe grata (Weinm.) Gillet SPECIES
 
 #### Status
 ACCEPTED

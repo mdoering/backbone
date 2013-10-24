@@ -1,5 +1,4 @@
-Escharisphaeridia circularis (Cookson & Eisenack) Davies SPECIES
-=======
+# Escharisphaeridia circularis (Cookson & Eisenack) Davies SPECIES
 
 #### Status
 ACCEPTED

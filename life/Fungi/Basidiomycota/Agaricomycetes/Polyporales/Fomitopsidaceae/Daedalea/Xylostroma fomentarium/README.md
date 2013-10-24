@@ -1,5 +1,4 @@
-Xylostroma fomentarium Speg. SPECIES
-=======
+# Xylostroma fomentarium Speg. SPECIES
 
 #### Status
 ACCEPTED

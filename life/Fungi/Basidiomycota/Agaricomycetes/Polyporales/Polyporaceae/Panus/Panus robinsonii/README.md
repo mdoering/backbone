@@ -1,5 +1,4 @@
-Panus robinsonii Berk. & Mont. SPECIES
-=======
+# Panus robinsonii Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

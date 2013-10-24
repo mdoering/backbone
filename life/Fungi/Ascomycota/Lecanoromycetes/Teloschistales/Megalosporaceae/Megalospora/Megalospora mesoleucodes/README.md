@@ -1,5 +1,4 @@
-Megalospora mesoleucodes (Nyl.) C.W. Dodge SPECIES
-=======
+# Megalospora mesoleucodes (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

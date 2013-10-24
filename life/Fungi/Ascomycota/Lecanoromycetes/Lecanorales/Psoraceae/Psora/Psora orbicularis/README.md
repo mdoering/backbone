@@ -1,5 +1,4 @@
-Psora orbicularis Baumg. SPECIES
-=======
+# Psora orbicularis Baumg. SPECIES
 
 #### Status
 ACCEPTED

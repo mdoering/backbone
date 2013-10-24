@@ -1,5 +1,4 @@
-Pionnotes capitata (Schwein.) Fr. SPECIES
-=======
+# Pionnotes capitata (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

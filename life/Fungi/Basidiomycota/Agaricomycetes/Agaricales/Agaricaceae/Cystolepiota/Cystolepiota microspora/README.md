@@ -1,5 +1,4 @@
-Cystolepiota microspora (Ellis) Singer & Clémençon SPECIES
-=======
+# Cystolepiota microspora (Ellis) Singer & Clémençon SPECIES
 
 #### Status
 ACCEPTED

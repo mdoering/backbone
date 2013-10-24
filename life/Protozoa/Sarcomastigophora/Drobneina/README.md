@@ -1,5 +1,4 @@
-Drobneina Loeblich & Tappan, 1985 GENUS
-=======
+# Drobneina Loeblich & Tappan, 1985 GENUS
 
 #### Status
 ACCEPTED

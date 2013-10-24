@@ -1,5 +1,4 @@
-Metasphaeria cavanillesiana Alcalde SPECIES
-=======
+# Metasphaeria cavanillesiana Alcalde SPECIES
 
 #### Status
 ACCEPTED

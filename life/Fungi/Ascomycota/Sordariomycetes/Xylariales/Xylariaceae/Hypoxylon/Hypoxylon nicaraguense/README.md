@@ -1,5 +1,4 @@
-Hypoxylon nicaraguense Ellis & Everh., 1893 SPECIES
-=======
+# Hypoxylon nicaraguense Ellis & Everh., 1893 SPECIES
 
 #### Status
 ACCEPTED

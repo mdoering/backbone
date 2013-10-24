@@ -1,5 +1,4 @@
-Pyrenula cordatula Zahlbr. SPECIES
-=======
+# Pyrenula cordatula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

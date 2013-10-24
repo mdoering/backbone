@@ -1,14 +1,13 @@
-Hydnum hololeucum Pat., 1924 SPECIES
-=======
+# Beenakia hololeuca (Pat.) Nakasone, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin du Muséum National d'Histoire Naturelle, Paris 30: 410 (1924)
+Cryptog. Mycol. 24(2): 137 (2003)
 
 #### Original name
 Hydnum hololeucum Pat., 1924

@@ -1,5 +1,4 @@
-Phyllohendersonia theicola (Cooke) Tassi SPECIES
-=======
+# Phyllohendersonia theicola (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

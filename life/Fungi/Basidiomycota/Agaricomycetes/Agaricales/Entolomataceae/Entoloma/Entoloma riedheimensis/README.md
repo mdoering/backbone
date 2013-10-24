@@ -1,5 +1,4 @@
-Entoloma riedheimensis Noordel. & Enderle SPECIES
-=======
+# Entoloma riedheimensis Noordel. & Enderle SPECIES
 
 #### Status
 ACCEPTED

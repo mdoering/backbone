@@ -1,17 +1,16 @@
-Ramaria flavobrunnescens var. flavobrunnescens VARIETY
-=======
+# Ramaria flavobrunnescens (G.F. Atk.) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 581 (1950)
 
 #### Original name
-Ramaria flavobrunnescens var. flavobrunnescens
+Clavaria flavobrunnescens G.F. Atk., 1909
 
 ### Remarks
 null

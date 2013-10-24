@@ -1,14 +1,13 @@
-Auerswaldia dalbergiae Henn., 1905 SPECIES
-=======
+# Phyllachora lactea (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engler's Bot. Jahrb. 38: 114 (1905)
+Annls mycol. 13(5/6): 497 (1915)
 
 #### Original name
 Auerswaldia dalbergiae Henn., 1905

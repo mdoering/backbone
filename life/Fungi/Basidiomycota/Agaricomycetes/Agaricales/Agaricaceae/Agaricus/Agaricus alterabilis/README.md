@@ -1,5 +1,4 @@
-Agaricus alterabilis J.F. Gmel. SPECIES
-=======
+# Agaricus alterabilis J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

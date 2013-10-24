@@ -1,5 +1,4 @@
-Thyronectria Sacc. GENUS
-=======
+# Thyronectria Sacc. GENUS
 
 #### Status
 ACCEPTED

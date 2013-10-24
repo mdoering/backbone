@@ -1,5 +1,4 @@
-Schizodiplodia australis (Pass.) Zambett. SPECIES
-=======
+# Schizodiplodia australis (Pass.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

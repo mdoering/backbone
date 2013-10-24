@@ -1,5 +1,4 @@
-Mycobacterium farcinogenes Chamoiseau, 1973 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium farcinogenes Chamoiseau, 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

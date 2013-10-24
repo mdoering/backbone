@@ -1,5 +1,4 @@
-Podoconis bicolor S. Hughes SPECIES
-=======
+# Podoconis bicolor S. Hughes SPECIES
 
 #### Status
 ACCEPTED

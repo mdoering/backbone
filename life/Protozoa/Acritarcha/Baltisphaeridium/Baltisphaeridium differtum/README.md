@@ -1,5 +1,4 @@
-Baltisphaeridium differtum (Sannemann, 1955) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium differtum (Sannemann, 1955) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

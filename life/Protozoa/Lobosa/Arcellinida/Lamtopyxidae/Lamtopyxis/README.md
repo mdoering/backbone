@@ -1,5 +1,4 @@
-Lamtopyxis Bonnet, 1974 GENUS
-=======
+# Lamtopyxis Bonnet, 1974 GENUS
 
 #### Status
 ACCEPTED

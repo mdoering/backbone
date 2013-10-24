@@ -1,5 +1,4 @@
-Stagonospora eriophori Rostr. SPECIES
-=======
+# Stagonospora eriophori Rostr. SPECIES
 
 #### Status
 ACCEPTED

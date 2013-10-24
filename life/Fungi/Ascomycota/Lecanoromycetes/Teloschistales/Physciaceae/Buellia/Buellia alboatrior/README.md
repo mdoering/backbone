@@ -1,17 +1,16 @@
-Lecidea alboatrior Nyl. SPECIES
-=======
+# Buellia alboatrior (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 441 (1931)
 
 #### Original name
-null
+Lecidea alboatrior Nyl.
 
 ### Remarks
 null

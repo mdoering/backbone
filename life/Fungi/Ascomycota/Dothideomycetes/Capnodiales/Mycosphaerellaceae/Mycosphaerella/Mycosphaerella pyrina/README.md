@@ -1,5 +1,4 @@
-Mycosphaerella pyrina (Ellis & Everh.) J.H. Mill. SPECIES
-=======
+# Mycosphaerella pyrina (Ellis & Everh.) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

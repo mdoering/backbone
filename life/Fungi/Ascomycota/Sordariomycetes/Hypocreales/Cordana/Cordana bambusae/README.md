@@ -1,5 +1,4 @@
-Cordana bambusae Bat. & Nascim. SPECIES
-=======
+# Cordana bambusae Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

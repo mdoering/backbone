@@ -1,5 +1,4 @@
-Sabouraudites lanatus Lebasque SPECIES
-=======
+# Sabouraudites lanatus Lebasque SPECIES
 
 #### Status
 ACCEPTED

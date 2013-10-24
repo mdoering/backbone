@@ -1,5 +1,4 @@
-Ocellularia hians (Stirt.) Müll. Arg. SPECIES
-=======
+# Ocellularia hians (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

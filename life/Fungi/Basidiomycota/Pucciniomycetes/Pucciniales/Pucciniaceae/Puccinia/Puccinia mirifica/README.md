@@ -1,5 +1,4 @@
-Puccinia mirifica Dietel & Holw. SPECIES
-=======
+# Puccinia mirifica Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

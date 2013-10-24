@@ -1,5 +1,4 @@
-Gyalidea fruticola M. Svenss. & G. Thor SPECIES
-=======
+# Gyalidea fruticola M. Svenss. & G. Thor SPECIES
 
 #### Status
 ACCEPTED

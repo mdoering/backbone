@@ -1,5 +1,4 @@
-Ascochyta liriodendri Woron. SPECIES
-=======
+# Ascochyta liriodendri Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiocordyceps jiangxiensis (Z.Q. Liang, A.Y. Liu & Yong C. Jiang) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps jiangxiensis (Z.Q. Liang, A.Y. Liu & Yong C. Jiang) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

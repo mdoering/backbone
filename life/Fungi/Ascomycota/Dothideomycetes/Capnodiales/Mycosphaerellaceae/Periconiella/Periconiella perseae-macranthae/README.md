@@ -1,5 +1,4 @@
-Periconiella perseae-macranthae Hosag. & U. Braun SPECIES
-=======
+# Periconiella perseae-macranthae Hosag. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

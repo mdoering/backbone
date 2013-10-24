@@ -1,5 +1,4 @@
-Septoria glomerata Jørst. SPECIES
-=======
+# Septoria glomerata Jørst. SPECIES
 
 #### Status
 ACCEPTED

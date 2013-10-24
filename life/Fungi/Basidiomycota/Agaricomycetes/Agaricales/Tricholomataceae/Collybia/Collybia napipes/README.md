@@ -1,5 +1,4 @@
-Collybia napipes Berk. SPECIES
-=======
+# Collybia napipes Berk. SPECIES
 
 #### Status
 ACCEPTED

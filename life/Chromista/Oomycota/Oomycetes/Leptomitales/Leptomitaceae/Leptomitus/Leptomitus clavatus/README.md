@@ -1,5 +1,4 @@
-Leptomitus clavatus C. Agardh SPECIES
-=======
+# Leptomitus clavatus C. Agardh SPECIES
 
 #### Status
 ACCEPTED

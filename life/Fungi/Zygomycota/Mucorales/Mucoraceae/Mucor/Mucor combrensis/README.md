@@ -1,5 +1,4 @@
-Mucor combrensis Renault {?} SPECIES
-=======
+# Mucor combrensis Renault {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora subduplex (Nyl.) Printzen, 1995 SPECIES
-=======
+# Biatora subduplex (Nyl.) Printzen, 1995 SPECIES
 
 #### Status
 DOUBTFUL

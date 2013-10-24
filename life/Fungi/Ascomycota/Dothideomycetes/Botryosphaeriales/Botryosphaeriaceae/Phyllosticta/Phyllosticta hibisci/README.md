@@ -1,5 +1,4 @@
-Phyllosticta hibisci Peck SPECIES
-=======
+# Phyllosticta hibisci Peck SPECIES
 
 #### Status
 ACCEPTED

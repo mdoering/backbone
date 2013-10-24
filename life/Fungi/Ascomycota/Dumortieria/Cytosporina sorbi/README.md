@@ -1,5 +1,4 @@
-Cytosporina sorbi Oudem. SPECIES
-=======
+# Cytosporina sorbi Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bagnisiella tessellata (Lév.) Berl. & Voglino SPECIES
-=======
+# Hormosphaeria tessellata Lév. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 4 20: 297 (1863)
 
 #### Original name
 Hormosphaeria tessellata Lév.

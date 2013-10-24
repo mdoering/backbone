@@ -1,5 +1,4 @@
-Papularia fagi Fr. SPECIES
-=======
+# Papularia fagi Fr. SPECIES
 
 #### Status
 ACCEPTED

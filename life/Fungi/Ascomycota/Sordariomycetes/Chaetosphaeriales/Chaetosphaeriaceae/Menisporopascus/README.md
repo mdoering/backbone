@@ -1,5 +1,4 @@
-Menisporopascus Matsush. GENUS
-=======
+# Menisporopascus Matsush. GENUS
 
 #### Status
 ACCEPTED

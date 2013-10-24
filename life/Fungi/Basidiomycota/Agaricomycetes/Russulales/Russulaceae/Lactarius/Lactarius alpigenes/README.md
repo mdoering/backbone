@@ -1,5 +1,4 @@
-Lactarius alpigenes Kühner SPECIES
-=======
+# Lactarius alpigenes Kühner SPECIES
 
 #### Status
 ACCEPTED

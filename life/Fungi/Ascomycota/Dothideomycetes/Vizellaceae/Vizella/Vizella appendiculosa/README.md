@@ -1,5 +1,4 @@
-Vizella appendiculosa (Mont. & Berk.) Theiss. SPECIES
-=======
+# Vizella appendiculosa (Mont. & Berk.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

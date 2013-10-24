@@ -1,5 +1,4 @@
-Opegrapha microcycla Tuck. SPECIES
-=======
+# Opegrapha microcycla Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe bulbosa (Peck) A.H. Sm. SPECIES
-=======
+# Psilocybe bulbosa (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

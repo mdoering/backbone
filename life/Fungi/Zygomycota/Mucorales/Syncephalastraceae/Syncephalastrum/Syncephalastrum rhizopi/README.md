@@ -1,5 +1,4 @@
-Syncephalastrum rhizopi Vuill. SPECIES
-=======
+# Syncephalastrum rhizopi Vuill. SPECIES
 
 #### Status
 ACCEPTED

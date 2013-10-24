@@ -1,5 +1,4 @@
-Thelidium austroatlanticum Orange SPECIES
-=======
+# Thelidium austroatlanticum Orange SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariella deflexa (Nyl.) Zahlbr. SPECIES
-=======
+# Candelariella deflexa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryoconis japonica Saito SPECIES
-=======
+# Botryoconis japonica Saito SPECIES
 
 #### Status
 ACCEPTED

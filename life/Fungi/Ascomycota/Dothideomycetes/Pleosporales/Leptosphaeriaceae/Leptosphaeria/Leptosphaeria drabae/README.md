@@ -1,5 +1,4 @@
-Leptosphaeria drabae (Nyl.) P. Karst. SPECIES
-=======
+# Leptosphaeria drabae (Nyl.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

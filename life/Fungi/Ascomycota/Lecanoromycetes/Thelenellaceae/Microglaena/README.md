@@ -1,5 +1,4 @@
-Microglaena GENUS
-=======
+# Microglaena GENUS
 
 #### Status
 ACCEPTED

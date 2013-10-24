@@ -1,5 +1,4 @@
-Coremium tuberculosum Gasp. SPECIES
-=======
+# Coremium tuberculosum Gasp. SPECIES
 
 #### Status
 ACCEPTED

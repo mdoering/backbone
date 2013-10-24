@@ -1,5 +1,4 @@
-Lachnum glutinosum Raitv. & R. Galán SPECIES
-=======
+# Lachnum glutinosum Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

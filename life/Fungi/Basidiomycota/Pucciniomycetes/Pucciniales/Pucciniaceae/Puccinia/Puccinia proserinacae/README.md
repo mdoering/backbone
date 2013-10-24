@@ -1,5 +1,4 @@
-Puccinia proserinacae Farl. SPECIES
-=======
+# Puccinia proserinacae Farl. SPECIES
 
 #### Status
 ACCEPTED

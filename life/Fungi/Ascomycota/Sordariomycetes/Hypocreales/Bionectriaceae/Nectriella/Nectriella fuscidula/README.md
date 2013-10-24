@@ -1,5 +1,4 @@
-Nectriella fuscidula (Rehm) Weese SPECIES
-=======
+# Nectriella fuscidula (Rehm) Weese SPECIES
 
 #### Status
 ACCEPTED

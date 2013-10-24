@@ -1,8 +1,7 @@
-Aspergillus primulinus Udagawa, Toyaz. & Tsub., 1993 SPECIES
-=======
+# Neosartorya primulina Udagawa, Toyaz. & Tsub., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycotaxon 47: 360 (1993)
 
 #### Original name
-Aspergillus primulinus Udagawa, Toyaz. & Tsub., 1993
+Neosartorya primulina Udagawa, Toyaz. & Tsub., 1993
 
 ### Remarks
 null

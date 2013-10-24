@@ -1,5 +1,4 @@
-Pertusaria albovelata SPECIES
-=======
+# Pertusaria albovelata SPECIES
 
 #### Status
 ACCEPTED

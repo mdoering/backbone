@@ -1,5 +1,4 @@
-Trichothelium longisetum P. M. McCarthy & Palice SPECIES
-=======
+# Trichothelium longisetum P. M. McCarthy & Palice SPECIES
 
 #### Status
 ACCEPTED

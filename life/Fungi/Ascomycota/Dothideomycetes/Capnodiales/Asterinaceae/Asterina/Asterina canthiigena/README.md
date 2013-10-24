@@ -1,5 +1,4 @@
-Asterina canthiigena Hosag., Archana & D.K. Agarwal, 2007 SPECIES
-=======
+# Asterina canthiigena Hosag., Archana & D.K. Agarwal, 2007 SPECIES
 
 #### Status
 ACCEPTED

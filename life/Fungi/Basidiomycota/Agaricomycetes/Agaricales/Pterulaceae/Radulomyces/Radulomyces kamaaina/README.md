@@ -1,17 +1,16 @@
-Radulomyces kama'aina Gilb. & Hemmes SPECIES
-=======
+# Radulomyces kamaaina Gilb. & Hemmes, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gilbertson, Desjardin, Rogers & Hemmes, Fungal Diversity 6: 60 (2001)
 
 #### Original name
-Radulomyces kama'aina Gilb. & Hemmes
+Radulomyces kamaaina Gilb. & Hemmes, 2001
 
 ### Remarks
 null

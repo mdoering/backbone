@@ -1,5 +1,4 @@
-Caloplaca crustaria (Stizenb.) H. Olivier SPECIES
-=======
+# Caloplaca crustaria (Stizenb.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

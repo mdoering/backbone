@@ -1,5 +1,4 @@
-Oidospora anomala Will. SPECIES
-=======
+# Oidospora anomala Will. SPECIES
 
 #### Status
 ACCEPTED

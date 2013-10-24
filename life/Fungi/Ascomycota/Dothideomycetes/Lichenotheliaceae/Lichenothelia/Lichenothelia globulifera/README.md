@@ -1,5 +1,4 @@
-Lichenothelia globulifera Henssen SPECIES
-=======
+# Lichenothelia globulifera Henssen SPECIES
 
 #### Status
 ACCEPTED

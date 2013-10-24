@@ -1,5 +1,4 @@
-Cystopus gomphrenae Speg. SPECIES
-=======
+# Cystopus gomphrenae Speg. SPECIES
 
 #### Status
 ACCEPTED

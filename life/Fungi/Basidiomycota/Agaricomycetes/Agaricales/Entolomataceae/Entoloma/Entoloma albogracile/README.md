@@ -1,5 +1,4 @@
-Entoloma albogracile E. Horak SPECIES
-=======
+# Entoloma albogracile E. Horak SPECIES
 
 #### Status
 ACCEPTED

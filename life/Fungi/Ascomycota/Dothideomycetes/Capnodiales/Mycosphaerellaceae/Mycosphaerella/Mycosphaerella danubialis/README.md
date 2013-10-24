@@ -1,5 +1,4 @@
-Mycosphaerella danubialis Savul. SPECIES
-=======
+# Mycosphaerella danubialis Savul. SPECIES
 
 #### Status
 ACCEPTED

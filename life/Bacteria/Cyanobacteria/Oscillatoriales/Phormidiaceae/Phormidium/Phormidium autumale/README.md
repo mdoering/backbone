@@ -1,5 +1,4 @@
-Phormidium autumale (C. Agardh) Gomont SPECIES
-=======
+# Phormidium autumale (C. Agardh) Gomont SPECIES
 
 #### Status
 ACCEPTED

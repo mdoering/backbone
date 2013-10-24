@@ -1,5 +1,4 @@
-Marasmius albimyceliosus Corner SPECIES
-=======
+# Marasmius albimyceliosus Corner SPECIES
 
 #### Status
 ACCEPTED

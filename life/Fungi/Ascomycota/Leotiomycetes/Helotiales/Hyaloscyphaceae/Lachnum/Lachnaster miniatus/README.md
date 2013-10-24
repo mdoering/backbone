@@ -1,5 +1,4 @@
-Lachnaster miniatus Kanouse SPECIES
-=======
+# Lachnaster miniatus Kanouse SPECIES
 
 #### Status
 ACCEPTED

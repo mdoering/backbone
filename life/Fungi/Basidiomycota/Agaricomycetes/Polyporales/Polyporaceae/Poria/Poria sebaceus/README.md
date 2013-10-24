@@ -1,5 +1,4 @@
-Poria sebaceus Secr. SPECIES
-=======
+# Poria sebaceus Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora coffeae Saccas SPECIES
-=======
+# Stagonospora coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyangium fumosum Krzemieniewska and Krzemieniewski, 1930 (Approved Lists, 1980) SPECIES
-=======
+# Polyangium fumosum Krzemieniewska and Krzemieniewski, 1930 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

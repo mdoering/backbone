@@ -1,5 +1,4 @@
-Oscillatoria antillarum Kützing SPECIES
-=======
+# Oscillatoria antillarum Kützing SPECIES
 
 #### Status
 ACCEPTED

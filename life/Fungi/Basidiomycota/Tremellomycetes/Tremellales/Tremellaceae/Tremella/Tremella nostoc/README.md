@@ -1,5 +1,4 @@
-Tremella nostoc L. SPECIES
-=======
+# Tremella nostoc L. SPECIES
 
 #### Status
 ACCEPTED

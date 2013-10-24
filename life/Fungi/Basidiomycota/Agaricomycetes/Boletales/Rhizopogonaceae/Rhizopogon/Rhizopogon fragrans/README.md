@@ -1,5 +1,4 @@
-Rhizopogon fragrans A.H. Sm. SPECIES
-=======
+# Rhizopogon fragrans A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

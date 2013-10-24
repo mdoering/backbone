@@ -1,5 +1,4 @@
-Graphiola congesta Berk. & Ravenel SPECIES
-=======
+# Graphiola congesta Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

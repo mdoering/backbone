@@ -1,5 +1,4 @@
-Lecanidium simplex (Vain.) C.W. Dodge SPECIES
-=======
+# Lecanidium simplex (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

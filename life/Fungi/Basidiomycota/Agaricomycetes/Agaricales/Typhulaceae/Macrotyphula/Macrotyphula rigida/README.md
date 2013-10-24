@@ -1,5 +1,4 @@
-Macrotyphula rigida Berthier SPECIES
-=======
+# Macrotyphula rigida Berthier SPECIES
 
 #### Status
 ACCEPTED

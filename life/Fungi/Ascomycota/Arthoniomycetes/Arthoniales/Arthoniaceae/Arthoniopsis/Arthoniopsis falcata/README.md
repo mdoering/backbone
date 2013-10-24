@@ -1,5 +1,4 @@
-Arthoniopsis falcata (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis falcata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

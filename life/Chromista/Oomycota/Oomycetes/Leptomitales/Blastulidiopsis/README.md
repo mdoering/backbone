@@ -1,5 +1,4 @@
-Blastulidiopsis GENUS
-=======
+# Blastulidiopsis GENUS
 
 #### Status
 ACCEPTED

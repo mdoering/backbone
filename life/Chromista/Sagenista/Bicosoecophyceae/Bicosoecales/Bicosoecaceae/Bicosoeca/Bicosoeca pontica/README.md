@@ -1,5 +1,4 @@
-Bicosoeca pontica Valkanov, 1970 SPECIES
-=======
+# Bicosoeca pontica Valkanov, 1970 SPECIES
 
 #### Status
 ACCEPTED

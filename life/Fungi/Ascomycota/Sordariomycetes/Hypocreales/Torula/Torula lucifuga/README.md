@@ -1,5 +1,4 @@
-Torula lucifuga Oudem., 1902 SPECIES
-=======
+# Torula lucifuga Oudem., 1902 SPECIES
 
 #### Status
 ACCEPTED

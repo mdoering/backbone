@@ -1,5 +1,4 @@
-Uromyces kigesianus Cummins SPECIES
-=======
+# Uromyces kigesianus Cummins SPECIES
 
 #### Status
 ACCEPTED

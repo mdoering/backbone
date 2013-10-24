@@ -1,5 +1,4 @@
-Botrytis croci Cooke & Massee SPECIES
-=======
+# Botrytis croci Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

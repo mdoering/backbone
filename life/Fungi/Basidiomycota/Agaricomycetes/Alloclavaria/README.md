@@ -1,5 +1,4 @@
-Alloclavaria Dentinger & D.J. McLaughlin GENUS
-=======
+# Alloclavaria Dentinger & D.J. McLaughlin GENUS
 
 #### Status
 ACCEPTED

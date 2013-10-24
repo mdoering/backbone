@@ -1,5 +1,4 @@
-Pringsheimia GENUS
-=======
+# Pringsheimia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria truncata var. truncata VARIETY
-=======
+# Isaria truncata Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. fung. (Göttingen) 2: 687 (1801)
 
 #### Original name
-Isaria truncata var. truncata
+Isaria truncata Pers.
 
 ### Remarks
 null

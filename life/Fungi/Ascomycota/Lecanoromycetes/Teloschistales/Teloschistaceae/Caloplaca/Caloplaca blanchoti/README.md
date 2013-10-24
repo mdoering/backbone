@@ -1,5 +1,4 @@
-Caloplaca blanchoti Werner SPECIES
-=======
+# Caloplaca blanchoti Werner SPECIES
 
 #### Status
 ACCEPTED

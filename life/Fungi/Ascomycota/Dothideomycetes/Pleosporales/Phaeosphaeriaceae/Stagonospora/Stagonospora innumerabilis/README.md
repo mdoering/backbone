@@ -1,5 +1,4 @@
-Stagonospora innumerabilis Fuckel SPECIES
-=======
+# Stagonospora innumerabilis Fuckel SPECIES
 
 #### Status
 ACCEPTED

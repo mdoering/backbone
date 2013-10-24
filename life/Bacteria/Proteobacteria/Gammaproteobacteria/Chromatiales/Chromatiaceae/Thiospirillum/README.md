@@ -1,5 +1,4 @@
-Thiospirillum GENUS
-=======
+# Thiospirillum GENUS
 
 #### Status
 ACCEPTED

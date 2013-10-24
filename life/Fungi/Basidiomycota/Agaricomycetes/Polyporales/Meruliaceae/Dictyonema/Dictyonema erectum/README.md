@@ -1,5 +1,4 @@
-Dictyonema erectum Berk. SPECIES
-=======
+# Dictyonema erectum Berk. SPECIES
 
 #### Status
 ACCEPTED

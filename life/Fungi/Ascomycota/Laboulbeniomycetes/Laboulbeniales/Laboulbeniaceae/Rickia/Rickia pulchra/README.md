@@ -1,5 +1,4 @@
-Rickia pulchra Thaxt. SPECIES
-=======
+# Rickia pulchra Thaxt. SPECIES
 
 #### Status
 ACCEPTED

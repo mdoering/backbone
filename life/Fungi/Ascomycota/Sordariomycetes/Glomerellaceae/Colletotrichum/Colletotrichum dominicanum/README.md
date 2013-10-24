@@ -1,5 +1,4 @@
-Colletotrichum dominicanum var. dominicanum VARIETY
-=======
+# Colletotrichum dominicanum Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Boln de la Real Soc. Españ. Hist. Nat. , Madrid 25: 365 (1925)
 
 #### Original name
-Colletotrichum dominicanum var. dominicanum
+Colletotrichum dominicanum Gonz. Frag. & Cif.
 
 ### Remarks
 null

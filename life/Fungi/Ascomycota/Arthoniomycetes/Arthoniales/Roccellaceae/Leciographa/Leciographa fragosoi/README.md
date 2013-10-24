@@ -1,5 +1,4 @@
-Leciographa fragosoi Samp. SPECIES
-=======
+# Leciographa fragosoi Samp. SPECIES
 
 #### Status
 ACCEPTED

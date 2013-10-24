@@ -1,5 +1,4 @@
-Fusicoccum aesculanum Sacc. SPECIES
-=======
+# Fusicoccum aesculanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

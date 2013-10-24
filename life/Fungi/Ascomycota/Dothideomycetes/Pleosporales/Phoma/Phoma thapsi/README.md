@@ -1,5 +1,4 @@
-Phoma thapsi Ellis & Everh. SPECIES
-=======
+# Phoma thapsi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

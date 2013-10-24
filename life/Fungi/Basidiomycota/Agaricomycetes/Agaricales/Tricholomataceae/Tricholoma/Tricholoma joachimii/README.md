@@ -1,5 +1,4 @@
-Tricholoma joachimii Bon & A. Riva SPECIES
-=======
+# Tricholoma joachimii Bon & A. Riva SPECIES
 
 #### Status
 ACCEPTED

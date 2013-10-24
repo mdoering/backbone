@@ -1,5 +1,4 @@
-Rhizophydium tetragenum Pongratz SPECIES
-=======
+# Rhizophydium tetragenum Pongratz SPECIES
 
 #### Status
 ACCEPTED

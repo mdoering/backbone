@@ -1,5 +1,4 @@
-Coniothecium opuntiae Henn. SPECIES
-=======
+# Coniothecium opuntiae Henn. SPECIES
 
 #### Status
 ACCEPTED

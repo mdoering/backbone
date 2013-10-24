@@ -1,5 +1,4 @@
-Rickia siddhartha Balazuc SPECIES
-=======
+# Rickia siddhartha Balazuc SPECIES
 
 #### Status
 ACCEPTED

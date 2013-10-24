@@ -1,5 +1,4 @@
-Meliola paucipes F. Stevens SPECIES
-=======
+# Meliola paucipes F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thysanophoron Stirt. GENUS
-=======
+# Sphaerophorus Persoon, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Bot. Soc. Edinb. 14: 359 (1883)
+Ann. Bot. (Usteri) 7: 23 (1794)
 
 #### Original name
-Thysanophoron Stirt.
+Sphaerophorus Persoon, 1794
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Odontia serrata Rick SPECIES
-=======
+# Odontia serrata Rick SPECIES
 
 #### Status
 ACCEPTED

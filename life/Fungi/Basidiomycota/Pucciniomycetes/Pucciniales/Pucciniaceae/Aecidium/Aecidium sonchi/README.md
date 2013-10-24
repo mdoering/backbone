@@ -1,5 +1,4 @@
-Aecidium sonchi Westend. SPECIES
-=======
+# Aecidium sonchi Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormodendrum farinaceum Bonord. SPECIES
-=======
+# Hormodendrum farinaceum Bonord. SPECIES
 
 #### Status
 ACCEPTED

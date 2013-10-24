@@ -1,5 +1,4 @@
-Asterella capnoides (Ellis) Sacc. SPECIES
-=======
+# Asterella capnoides (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

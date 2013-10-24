@@ -1,14 +1,13 @@
-Verrucaria pyrenastroides C. Knight SPECIES
-=======
+# Pyrenula pyrenastroides (C. Knight) D.J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Z. Jl Bot. 42(1): 117 (2004)
 
 #### Original name
 Verrucaria pyrenastroides C. Knight

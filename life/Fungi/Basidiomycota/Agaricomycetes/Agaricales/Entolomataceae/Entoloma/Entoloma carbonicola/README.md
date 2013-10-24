@@ -1,5 +1,4 @@
-Entoloma carbonicola Noordel. SPECIES
-=======
+# Entoloma carbonicola Noordel. SPECIES
 
 #### Status
 ACCEPTED

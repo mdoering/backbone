@@ -1,5 +1,4 @@
-Melampsora choseniae Azbukina & Koval SPECIES
-=======
+# Melampsora choseniae Azbukina & Koval SPECIES
 
 #### Status
 ACCEPTED

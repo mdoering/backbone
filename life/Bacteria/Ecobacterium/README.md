@@ -1,5 +1,4 @@
-Ecobacterium GENUS
-=======
+# Ecobacterium GENUS
 
 #### Status
 ACCEPTED

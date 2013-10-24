@@ -1,5 +1,4 @@
-Hystrichosphaera O.Wetzel, 1933 GENUS
-=======
+# Hystrichosphaera O.Wetzel, 1933 GENUS
 
 #### Status
 ACCEPTED

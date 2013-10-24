@@ -1,5 +1,4 @@
-Gymnodinium pyrenoidosum T. Horiguchi & M. Chihara SPECIES
-=======
+# Gymnodinium pyrenoidosum T. Horiguchi & M. Chihara SPECIES
 
 #### Status
 ACCEPTED

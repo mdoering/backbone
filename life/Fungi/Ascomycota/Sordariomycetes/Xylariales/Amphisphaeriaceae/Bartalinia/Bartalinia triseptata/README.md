@@ -1,5 +1,4 @@
-Bartalinia triseptata Matsush. SPECIES
-=======
+# Bartalinia triseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thuricola gracilis Sommer, 1951 SPECIES
-=======
+# Thuricola gracilis Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callimothallus funingensis Z.C. Song SPECIES
-=======
+# Callimothallus funingensis Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porothelium fimbriatum ined. SPECIES
-=======
+# Porothelium fimbriatum ined. SPECIES
 
 #### Status
 ACCEPTED

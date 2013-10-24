@@ -1,5 +1,4 @@
-Megalopsora macgregorii Vain. SPECIES
-=======
+# Megalopsora macgregorii Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merismatium scammoecum Lettau SPECIES
-=======
+# Merismatium scammoecum Lettau SPECIES
 
 #### Status
 ACCEPTED

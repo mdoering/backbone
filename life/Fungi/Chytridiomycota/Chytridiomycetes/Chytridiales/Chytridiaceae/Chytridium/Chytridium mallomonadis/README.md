@@ -1,5 +1,4 @@
-Chytridium mallomonadis Fott SPECIES
-=======
+# Chytridium mallomonadis Fott SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allogromia crystallifera Dahlgren, 1963 SPECIES
-=======
+# Allogromia crystallifera Dahlgren, 1963 SPECIES
 
 #### Status
 ACCEPTED

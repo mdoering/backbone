@@ -1,17 +1,16 @@
-Botryella Sydow & P. Sydow, 1916 GENUS
-=======
+# Sphaerellopsis Cooke, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(1/2): 95 (1916)
+Grevillea 12(no. 61): 23 (1883)
 
 #### Original name
-Botryella Sydow & P. Sydow, 1916
+Sphaerellopsis Cooke, 1883
 
 ### Remarks
 null

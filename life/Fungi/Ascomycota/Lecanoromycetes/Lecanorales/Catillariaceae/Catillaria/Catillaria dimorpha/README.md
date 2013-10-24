@@ -1,5 +1,4 @@
-Catillaria dimorpha A. Massal. SPECIES
-=======
+# Catillaria dimorpha A. Massal. SPECIES
 
 #### Status
 ACCEPTED

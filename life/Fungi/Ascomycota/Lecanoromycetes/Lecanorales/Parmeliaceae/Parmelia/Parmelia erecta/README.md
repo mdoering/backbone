@@ -1,5 +1,4 @@
-Parmelia erecta E.C. Berry SPECIES
-=======
+# Parmelia erecta E.C. Berry SPECIES
 
 #### Status
 ACCEPTED

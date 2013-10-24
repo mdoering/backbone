@@ -1,17 +1,16 @@
-Solorina saccata var. saccata VARIETY
-=======
+# Solorina saccata (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. Vetensk-Acad. Nya Handl. 228 (1808)
 
 #### Original name
-Solorina saccata var. saccata
+Lichen saccatus L.
 
 ### Remarks
 null

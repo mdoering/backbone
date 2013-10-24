@@ -1,5 +1,4 @@
-Lachnellula minuscula Raitv. SPECIES
-=======
+# Lachnellula minuscula Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermovibrio ruber Huber et al., 2002 SPECIES
-=======
+# Thermovibrio ruber Huber et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

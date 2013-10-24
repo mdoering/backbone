@@ -1,5 +1,4 @@
-Cercospora gonzalezii Unamuno SPECIES
-=======
+# Cercospora gonzalezii Unamuno SPECIES
 
 #### Status
 ACCEPTED

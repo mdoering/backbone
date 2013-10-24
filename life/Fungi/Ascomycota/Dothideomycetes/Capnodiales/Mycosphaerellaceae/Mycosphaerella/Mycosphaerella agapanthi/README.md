@@ -1,5 +1,4 @@
-Mycosphaerella agapanthi T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Mycosphaerella agapanthi T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

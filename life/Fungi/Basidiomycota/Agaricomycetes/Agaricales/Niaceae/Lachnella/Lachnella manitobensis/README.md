@@ -1,5 +1,4 @@
-Lachnella manitobensis W.B. Cooke SPECIES
-=======
+# Lachnella manitobensis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

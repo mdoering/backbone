@@ -1,5 +1,4 @@
-Ascochyta boraginis I.E. Brezhnev SPECIES
-=======
+# Ascochyta boraginis I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

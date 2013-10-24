@@ -1,5 +1,4 @@
-Thamnonoma ambitiosa (Darb.) Gyeln. SPECIES
-=======
+# Thamnonoma ambitiosa (Darb.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

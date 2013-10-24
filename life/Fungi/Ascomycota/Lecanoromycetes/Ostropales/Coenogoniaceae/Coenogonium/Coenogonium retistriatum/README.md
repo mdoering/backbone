@@ -1,5 +1,4 @@
-Coenogonium retistriatum Leight. SPECIES
-=======
+# Coenogonium retistriatum Leight. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoplasma hyopharyngis Erickson et al., 1986 SPECIES
-=======
+# Mycoplasma hyopharyngis Erickson et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

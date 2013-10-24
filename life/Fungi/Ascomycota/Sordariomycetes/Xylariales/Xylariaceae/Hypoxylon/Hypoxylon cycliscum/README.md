@@ -1,5 +1,4 @@
-Hypoxylon cycliscum Mont. SPECIES
-=======
+# Hypoxylon cycliscum Mont. SPECIES
 
 #### Status
 ACCEPTED

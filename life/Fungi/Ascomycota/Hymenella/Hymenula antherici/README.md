@@ -1,5 +1,4 @@
-Hymenula antherici Hollós SPECIES
-=======
+# Hymenula antherici Hollós SPECIES
 
 #### Status
 ACCEPTED

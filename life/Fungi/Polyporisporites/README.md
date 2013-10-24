@@ -1,5 +1,4 @@
-Polyporisporites Hammen GENUS
-=======
+# Polyporisporites Hammen GENUS
 
 #### Status
 ACCEPTED

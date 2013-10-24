@@ -1,5 +1,4 @@
-Gloeosporium phegopteridis A.B. Frank SPECIES
-=======
+# Gloeosporium phegopteridis A.B. Frank SPECIES
 
 #### Status
 ACCEPTED

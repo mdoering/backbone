@@ -1,5 +1,4 @@
-Ammonia sikokuensis (Ishizaki) SPECIES
-=======
+# Ammonia sikokuensis (Ishizaki) SPECIES
 
 #### Status
 ACCEPTED

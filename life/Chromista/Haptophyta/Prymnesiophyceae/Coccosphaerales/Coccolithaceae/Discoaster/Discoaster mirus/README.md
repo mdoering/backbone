@@ -1,5 +1,4 @@
-Discoaster mirus Deflandre in Deflandre & Fert, 1954 SPECIES
-=======
+# Discoaster mirus Deflandre in Deflandre & Fert, 1954 SPECIES
 
 #### Status
 ACCEPTED

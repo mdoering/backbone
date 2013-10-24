@@ -1,5 +1,4 @@
-Cortinarius pellucidus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius pellucidus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina minutissima (Singer) Raithelh. SPECIES
-=======
+# Omphalina minutissima (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

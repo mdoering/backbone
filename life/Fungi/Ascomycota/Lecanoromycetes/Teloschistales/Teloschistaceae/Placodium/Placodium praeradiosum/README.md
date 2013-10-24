@@ -1,5 +1,4 @@
-Placodium praeradiosum SPECIES
-=======
+# Placodium praeradiosum SPECIES
 
 #### Status
 ACCEPTED

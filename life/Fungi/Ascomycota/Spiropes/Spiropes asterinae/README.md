@@ -1,5 +1,4 @@
-Spiropes asterinae M.B. Ellis SPECIES
-=======
+# Spiropes asterinae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

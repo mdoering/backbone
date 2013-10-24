@@ -1,5 +1,4 @@
-Ophiocytium arbuscula (A. Braun) Rabenhorst SPECIES
-=======
+# Ophiocytium arbuscula (A. Braun) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

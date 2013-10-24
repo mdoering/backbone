@@ -1,5 +1,4 @@
-Strigula kaitokensis Sérus. & Polly SPECIES
-=======
+# Strigula kaitokensis Sérus. & Polly SPECIES
 
 #### Status
 ACCEPTED

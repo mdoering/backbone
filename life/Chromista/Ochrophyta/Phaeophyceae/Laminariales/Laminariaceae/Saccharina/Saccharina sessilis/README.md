@@ -1,5 +1,4 @@
-Saccharina sessilis (C.Agardh) Kuntze, 1891 SPECIES
-=======
+# Saccharina sessilis (C.Agardh) Kuntze, 1891 SPECIES
 
 #### Status
 ACCEPTED

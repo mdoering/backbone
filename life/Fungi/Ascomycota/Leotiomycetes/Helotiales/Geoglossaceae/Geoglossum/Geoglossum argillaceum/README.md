@@ -1,5 +1,4 @@
-Geoglossum argillaceum var. argillaceum VARIETY
-=======
+# Geoglossum argillaceum (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

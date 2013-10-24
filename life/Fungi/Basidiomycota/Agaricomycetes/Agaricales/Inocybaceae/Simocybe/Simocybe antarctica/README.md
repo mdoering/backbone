@@ -1,5 +1,4 @@
-Simocybe antarctica Pegler SPECIES
-=======
+# Simocybe antarctica Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia camelliaecola Brunaud SPECIES
-=======
+# Diplodia camelliaecola Brunaud SPECIES
 
 #### Status
 ACCEPTED

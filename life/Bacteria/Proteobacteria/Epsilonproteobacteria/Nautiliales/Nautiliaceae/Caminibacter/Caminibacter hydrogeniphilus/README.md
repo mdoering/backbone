@@ -1,5 +1,4 @@
-Caminibacter hydrogeniphilus Alain et al., 2002 SPECIES
-=======
+# Caminibacter hydrogeniphilus Alain et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

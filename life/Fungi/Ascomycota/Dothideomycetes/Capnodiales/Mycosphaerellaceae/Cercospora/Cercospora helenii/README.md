@@ -1,5 +1,4 @@
-Cercospora helenii Tharp SPECIES
-=======
+# Cercospora helenii Tharp SPECIES
 
 #### Status
 ACCEPTED

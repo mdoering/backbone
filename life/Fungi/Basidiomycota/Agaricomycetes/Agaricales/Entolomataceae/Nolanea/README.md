@@ -1,5 +1,4 @@
-Nolanea GENUS
-=======
+# Nolanea GENUS
 
 #### Status
 ACCEPTED

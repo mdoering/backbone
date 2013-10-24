@@ -1,5 +1,4 @@
-Difficilina paranemertis Rueckert, Chantangsi & Leander, 2010 SPECIES
-=======
+# Difficilina paranemertis Rueckert, Chantangsi & Leander, 2010 SPECIES
 
 #### Status
 ACCEPTED

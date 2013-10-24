@@ -1,5 +1,4 @@
-Taphrina armeniacae Georgescu & Badea SPECIES
-=======
+# Taphrina armeniacae Georgescu & Badea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria glycyrrhizae Sandu & Mítítíuc SPECIES
-=======
+# Metasphaeria glycyrrhizae Sandu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

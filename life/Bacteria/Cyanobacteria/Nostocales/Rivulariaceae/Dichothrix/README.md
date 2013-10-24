@@ -1,5 +1,4 @@
-Dichothrix G. Zanardini ex É. Bornet & C. Flahault, 1886 GENUS
-=======
+# Dichothrix G. Zanardini ex É. Bornet & C. Flahault, 1886 GENUS
 
 #### Status
 ACCEPTED

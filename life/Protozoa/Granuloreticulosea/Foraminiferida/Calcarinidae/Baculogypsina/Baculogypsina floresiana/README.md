@@ -1,8 +1,7 @@
-Tinoporus florescianus (Schlumberger, 1896) SPECIES
-=======
+# Baculogypsina floresiana Schlumberger, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

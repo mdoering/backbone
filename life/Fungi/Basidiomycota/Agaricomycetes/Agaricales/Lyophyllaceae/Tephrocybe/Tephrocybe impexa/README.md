@@ -1,14 +1,13 @@
-Lyophyllum impexum (P. Karst.) Singer, 1943 SPECIES
-=======
+# Tephrocybe impexa (P. Karst.) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 41(1/3): 105 (1943)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 115 (1967)
 
 #### Original name
 Collybia impexa P. Karst., 1879

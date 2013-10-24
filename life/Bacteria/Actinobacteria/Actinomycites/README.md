@@ -1,5 +1,4 @@
-Actinomycites D. Ellis GENUS
-=======
+# Actinomycites D. Ellis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo lentis Lagerh. SPECIES
-=======
+# Uredo lentis Lagerh. SPECIES
 
 #### Status
 ACCEPTED

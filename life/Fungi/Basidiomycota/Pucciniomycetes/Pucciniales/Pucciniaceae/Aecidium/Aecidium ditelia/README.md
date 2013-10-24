@@ -1,5 +1,4 @@
-Aecidium ditelia Buriticá SPECIES
-=======
+# Aecidium ditelia Buriticá SPECIES
 
 #### Status
 ACCEPTED

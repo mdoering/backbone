@@ -1,5 +1,4 @@
-Bolivina canimarensis SPECIES
-=======
+# Bolivina canimarensis SPECIES
 
 #### Status
 ACCEPTED

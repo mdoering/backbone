@@ -1,5 +1,4 @@
-Eupelte farriae (Piroz. & Shoemaker) Arx & E. Müll. SPECIES
-=======
+# Eupelte farriae (Piroz. & Shoemaker) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

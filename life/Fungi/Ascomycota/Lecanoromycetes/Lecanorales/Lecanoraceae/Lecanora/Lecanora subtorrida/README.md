@@ -1,5 +1,4 @@
-Lecanora subtorrida SPECIES
-=======
+# Lecanora subtorrida SPECIES
 
 #### Status
 ACCEPTED

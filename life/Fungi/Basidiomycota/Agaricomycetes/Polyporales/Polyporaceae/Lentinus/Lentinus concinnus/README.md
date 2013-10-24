@@ -1,5 +1,4 @@
-Lentinus concinnus Pat., 1892 SPECIES
-=======
+# Lentinus concinnus Pat., 1892 SPECIES
 
 #### Status
 ACCEPTED

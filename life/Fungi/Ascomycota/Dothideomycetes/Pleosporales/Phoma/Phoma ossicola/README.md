@@ -1,5 +1,4 @@
-Phoma ossicola Rostr. SPECIES
-=======
+# Phoma ossicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

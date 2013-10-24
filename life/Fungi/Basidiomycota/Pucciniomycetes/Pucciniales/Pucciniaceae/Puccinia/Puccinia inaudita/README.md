@@ -1,5 +1,4 @@
-Puccinia inaudita H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia inaudita H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

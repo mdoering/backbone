@@ -1,5 +1,4 @@
-Hymenella rubella anon. SPECIES
-=======
+# Hymenella rubella anon. SPECIES
 
 #### Status
 ACCEPTED

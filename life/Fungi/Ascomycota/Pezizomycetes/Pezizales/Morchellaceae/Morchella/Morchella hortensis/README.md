@@ -1,5 +1,4 @@
-Morchella hortensis Boud., 1897 SPECIES
-=======
+# Morchella hortensis Boud., 1897 SPECIES
 
 #### Status
 ACCEPTED

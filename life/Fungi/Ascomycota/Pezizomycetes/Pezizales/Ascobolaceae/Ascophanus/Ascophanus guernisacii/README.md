@@ -1,5 +1,4 @@
-Ascophanus guernisacii (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Ascophanus guernisacii (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

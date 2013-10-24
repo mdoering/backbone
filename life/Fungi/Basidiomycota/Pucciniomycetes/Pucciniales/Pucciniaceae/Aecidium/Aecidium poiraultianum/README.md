@@ -1,5 +1,4 @@
-Aecidium poiraultianum Trotter SPECIES
-=======
+# Aecidium poiraultianum Trotter SPECIES
 
 #### Status
 ACCEPTED

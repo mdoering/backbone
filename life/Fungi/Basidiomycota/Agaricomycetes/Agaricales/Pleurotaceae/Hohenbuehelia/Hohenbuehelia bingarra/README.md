@@ -1,5 +1,4 @@
-Hohenbuehelia bingarra Grgur. SPECIES
-=======
+# Hohenbuehelia bingarra Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus rufescentespadiceus J. Otto SPECIES
-=======
+# Agaricus rufescentespadiceus J. Otto SPECIES
 
 #### Status
 ACCEPTED

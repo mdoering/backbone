@@ -1,5 +1,4 @@
-Tricladiospora Nawawi & Kuthub. GENUS
-=======
+# Tricladiospora Nawawi & Kuthub. GENUS
 
 #### Status
 ACCEPTED

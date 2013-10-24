@@ -1,5 +1,4 @@
-Phlyctella abstersa Kremp. SPECIES
-=======
+# Phlyctella abstersa Kremp. SPECIES
 
 #### Status
 ACCEPTED

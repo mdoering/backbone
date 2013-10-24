@@ -1,5 +1,4 @@
-Nassula euglena SPECIES
-=======
+# Nassula euglena SPECIES
 
 #### Status
 ACCEPTED

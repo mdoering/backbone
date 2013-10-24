@@ -1,5 +1,4 @@
-Rhodocollybia spissa (A.W. Wilson, Desjardin & E. Horak) A.W. Wilson & Desjardin SPECIES
-=======
+# Rhodocollybia spissa (A.W. Wilson, Desjardin & E. Horak) A.W. Wilson & Desjardin SPECIES
 
 #### Status
 ACCEPTED

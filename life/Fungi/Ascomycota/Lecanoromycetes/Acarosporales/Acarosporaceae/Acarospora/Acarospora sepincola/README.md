@@ -1,8 +1,7 @@
-Acarospora saepincola H. Magn. SPECIES
-=======
+# Acarospora sepincola H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora saepincola H. Magn.
+Acarospora sepincola H. Magn.
 
 ### Remarks
 null

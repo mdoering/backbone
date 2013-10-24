@@ -1,5 +1,4 @@
-Hormiscium compactum Wallr. SPECIES
-=======
+# Hormiscium compactum Wallr. SPECIES
 
 #### Status
 ACCEPTED

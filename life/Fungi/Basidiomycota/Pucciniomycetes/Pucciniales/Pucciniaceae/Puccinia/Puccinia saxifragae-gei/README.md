@@ -1,5 +1,4 @@
-Puccinia saxifragae-gei Savile SPECIES
-=======
+# Puccinia saxifragae-gei Savile SPECIES
 
 #### Status
 ACCEPTED

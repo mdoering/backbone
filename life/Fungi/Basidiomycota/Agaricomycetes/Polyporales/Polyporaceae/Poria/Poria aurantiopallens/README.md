@@ -1,5 +1,4 @@
-Poria aurantiopallens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Poria aurantiopallens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

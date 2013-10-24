@@ -1,5 +1,4 @@
-Gallacea subalpina Trappe & Claridge, 2003 SPECIES
-=======
+# Gallacea subalpina Trappe & Claridge, 2003 SPECIES
 
 #### Status
 ACCEPTED

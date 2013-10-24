@@ -1,5 +1,4 @@
-Parmotrema A. Massalongo, 1860 GENUS
-=======
+# Parmotrema A. Massalongo, 1860 GENUS
 
 #### Status
 ACCEPTED

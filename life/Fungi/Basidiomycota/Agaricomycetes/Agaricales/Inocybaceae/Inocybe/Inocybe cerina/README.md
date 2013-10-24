@@ -1,5 +1,4 @@
-Inocybe cerina (Malençon) Bon SPECIES
-=======
+# Inocybe cerina (Malençon) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporomusa sphaeroides Möller et al., 1985 SPECIES
-=======
+# Sporomusa sphaeroides Möller et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

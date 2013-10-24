@@ -1,5 +1,4 @@
-Tintinnopsis sinensis SPECIES
-=======
+# Tintinnopsis sinensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyriella phoebes Syd. SPECIES
-=======
+# Microthyriella phoebes Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cryptocoryneum obovatum Oudem., 1900 SPECIES
-=======
+# Bactrodesmium obovatum (Oudem.) M.B. Ellis, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ned. kruidk. Archf 2: 313 (1900)
+Mycol. Pap. 87: 42 (1963)
 
 #### Original name
 Cryptocoryneum obovatum Oudem., 1900

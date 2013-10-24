@@ -1,17 +1,16 @@
-Umbilicaria arctica var. arctica VARIETY
-=======
+# Umbilicaria arctica (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Herb. Mus. Fenn. 84 (1859)
 
 #### Original name
-Umbilicaria arctica var. arctica
+Gyrophora arctica Ach.
 
 ### Remarks
 null

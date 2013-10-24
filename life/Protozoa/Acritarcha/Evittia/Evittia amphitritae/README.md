@@ -1,5 +1,4 @@
-Evittia amphitritae (Deunff, Lefort & Paris, 1971) Sarjeant & Vavrdová SPECIES
-=======
+# Evittia amphitritae (Deunff, Lefort & Paris, 1971) Sarjeant & Vavrdová SPECIES
 
 #### Status
 ACCEPTED

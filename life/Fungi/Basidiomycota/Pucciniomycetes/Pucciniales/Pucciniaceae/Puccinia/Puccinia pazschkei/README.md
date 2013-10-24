@@ -1,5 +1,4 @@
-Puccinia pazschkei var. pazschkei VARIETY
-=======
+# Puccinia pazschkei Dietel, 1891 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 30: 103 (1891)
+null
 
 #### Original name
-Puccinia pazschkei var. pazschkei
+null
 
 ### Remarks
 null

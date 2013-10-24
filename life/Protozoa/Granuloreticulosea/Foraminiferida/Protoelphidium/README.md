@@ -1,5 +1,4 @@
-Protoelphidium GENUS
-=======
+# Protoelphidium GENUS
 
 #### Status
 ACCEPTED

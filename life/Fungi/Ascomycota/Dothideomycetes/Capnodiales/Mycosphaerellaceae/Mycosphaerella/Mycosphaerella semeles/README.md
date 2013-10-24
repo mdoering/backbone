@@ -1,5 +1,4 @@
-Mycosphaerella semeles Urries SPECIES
-=======
+# Mycosphaerella semeles Urries SPECIES
 
 #### Status
 ACCEPTED

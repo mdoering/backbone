@@ -1,5 +1,4 @@
-Entoloma chinchonense (Murrill) Hesler SPECIES
-=======
+# Entoloma chinchonense (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

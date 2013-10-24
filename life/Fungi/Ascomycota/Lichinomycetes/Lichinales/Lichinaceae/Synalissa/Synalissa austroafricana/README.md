@@ -1,5 +1,4 @@
-Synalissa austroafricana Zahlbr. SPECIES
-=======
+# Synalissa austroafricana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

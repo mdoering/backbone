@@ -1,5 +1,4 @@
-Buellia polyporina (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia polyporina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

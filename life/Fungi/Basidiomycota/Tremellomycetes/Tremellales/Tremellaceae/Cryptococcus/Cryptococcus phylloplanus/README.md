@@ -1,5 +1,4 @@
-Cryptococcus phylloplanus R.G. Shivas & Rodr. Mir. SPECIES
-=======
+# Cryptococcus phylloplanus R.G. Shivas & Rodr. Mir. SPECIES
 
 #### Status
 ACCEPTED

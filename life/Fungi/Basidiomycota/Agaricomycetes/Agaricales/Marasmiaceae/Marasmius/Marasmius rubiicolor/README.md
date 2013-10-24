@@ -1,5 +1,4 @@
-Marasmius rubiicolor Corner SPECIES
-=======
+# Marasmius rubiicolor Corner SPECIES
 
 #### Status
 ACCEPTED

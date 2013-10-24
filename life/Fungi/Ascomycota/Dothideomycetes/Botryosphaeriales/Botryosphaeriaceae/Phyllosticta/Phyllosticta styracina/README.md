@@ -1,5 +1,4 @@
-Phyllosticta styracina Miura SPECIES
-=======
+# Phyllosticta styracina Miura SPECIES
 
 #### Status
 ACCEPTED

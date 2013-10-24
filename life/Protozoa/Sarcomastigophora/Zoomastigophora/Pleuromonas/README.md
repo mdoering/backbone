@@ -1,5 +1,4 @@
-Pleuromonas Fromentel, 1874 GENUS
-=======
+# Pleuromonas Fromentel, 1874 GENUS
 
 #### Status
 ACCEPTED

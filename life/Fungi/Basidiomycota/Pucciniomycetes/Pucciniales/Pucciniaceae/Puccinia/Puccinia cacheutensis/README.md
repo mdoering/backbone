@@ -1,5 +1,4 @@
-Puccinia cacheutensis Speg. SPECIES
-=======
+# Puccinia cacheutensis Speg. SPECIES
 
 #### Status
 ACCEPTED

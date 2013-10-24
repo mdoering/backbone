@@ -1,8 +1,7 @@
-Reichenbachia agariperforans Nedashkovskaya et al., 2003 SPECIES
-=======
+# Reichenbachiella agariperforans (Nedashkovskaya et al., 2003) Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

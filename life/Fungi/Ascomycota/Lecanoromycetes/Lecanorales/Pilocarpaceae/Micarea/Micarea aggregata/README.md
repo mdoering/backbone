@@ -1,5 +1,4 @@
-Micarea aggregata Hedl. SPECIES
-=======
+# Micarea aggregata Hedl. SPECIES
 
 #### Status
 ACCEPTED

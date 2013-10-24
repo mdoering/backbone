@@ -1,5 +1,4 @@
-Russula nigrescens (Krombh.) SPECIES
-=======
+# Russula nigrescens (Krombh.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus leonotis Kalchbr. SPECIES
-=======
+# Polyporus leonotis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

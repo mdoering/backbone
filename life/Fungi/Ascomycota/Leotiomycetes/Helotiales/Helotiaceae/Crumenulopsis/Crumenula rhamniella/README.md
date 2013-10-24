@@ -1,5 +1,4 @@
-Crumenula rhamniella P. Karst. SPECIES
-=======
+# Crumenula rhamniella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

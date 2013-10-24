@@ -1,5 +1,4 @@
-Anthostomella uniseriata J. Fröhl. & K.D. Hyde, 2000 SPECIES
-=======
+# Anthostomella uniseriata J. Fröhl. & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halorubrum alkaliphilum Feng et al., 2005 SPECIES
-=======
+# Halorubrum alkaliphilum Feng et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

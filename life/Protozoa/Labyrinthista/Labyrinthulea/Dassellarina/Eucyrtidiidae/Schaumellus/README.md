@@ -1,5 +1,4 @@
-Schaumellus Empson-Morin, 1981 GENUS
-=======
+# Schaumellus Empson-Morin, 1981 GENUS
 
 #### Status
 ACCEPTED

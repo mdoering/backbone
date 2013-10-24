@@ -1,5 +1,4 @@
-Coniothyrium syconophilum Schulzer & Sacc. SPECIES
-=======
+# Coniothyrium syconophilum Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizosaccharomyces asporus Beij. SPECIES
-=======
+# Schizosaccharomyces asporus Beij. SPECIES
 
 #### Status
 ACCEPTED

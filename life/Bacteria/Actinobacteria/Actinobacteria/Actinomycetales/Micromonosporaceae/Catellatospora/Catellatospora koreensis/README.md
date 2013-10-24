@@ -1,5 +1,4 @@
-Catellatospora koreensis Lee et al., 2000 SPECIES
-=======
+# Catellatospora koreensis Lee et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

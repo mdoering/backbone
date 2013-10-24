@@ -1,5 +1,4 @@
-Holwaya pusilla Rehm SPECIES
-=======
+# Holwaya pusilla Rehm SPECIES
 
 #### Status
 ACCEPTED

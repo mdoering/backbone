@@ -1,5 +1,4 @@
-Laboulbenia mochtheri T. Majewski & K. Sugiy. SPECIES
-=======
+# Laboulbenia mochtheri T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

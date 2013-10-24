@@ -1,5 +1,4 @@
-Didymella cadubrina Speg. SPECIES
-=======
+# Didymella cadubrina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria anceps (C. Knight) Müll. Arg. SPECIES
-=======
+# Patellaria anceps (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

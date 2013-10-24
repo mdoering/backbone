@@ -1,5 +1,4 @@
-Microsporum lanosum Sabour. SPECIES
-=======
+# Microsporum lanosum Sabour. SPECIES
 
 #### Status
 ACCEPTED

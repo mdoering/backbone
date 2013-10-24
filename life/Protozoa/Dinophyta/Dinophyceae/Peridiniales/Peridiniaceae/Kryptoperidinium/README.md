@@ -1,5 +1,4 @@
-Kryptoperidinium Lindemann, 1924 GENUS
-=======
+# Kryptoperidinium Lindemann, 1924 GENUS
 
 #### Status
 ACCEPTED

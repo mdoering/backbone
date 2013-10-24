@@ -1,5 +1,4 @@
-Aecidium napaeae Arthur & Holw. SPECIES
-=======
+# Aecidium napaeae Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

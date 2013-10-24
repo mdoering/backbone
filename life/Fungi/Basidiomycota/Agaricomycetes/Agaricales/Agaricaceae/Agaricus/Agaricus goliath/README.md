@@ -1,17 +1,16 @@
-Agaricus golias Speg. SPECIES
-=======
+# Agaricus goliath Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 12(1): 18 (1881)
 
 #### Original name
-Agaricus golias Speg.
+Agaricus goliath Speg.
 
 ### Remarks
 null

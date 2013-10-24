@@ -1,14 +1,13 @@
-Sphaerella idaeina Hazsl., 1893 SPECIES
-=======
+# Mycosphaerella idaeina (Hazsl.) Lindau, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Math. Természettud. Közl. Magg. Tudom. Akad. 25: 104 (1893)
+Hilfsbuch fur das Sammeln der Ascomyceten (Berlin) 102 (1903)
 
 #### Original name
 Sphaerella idaeina Hazsl., 1893

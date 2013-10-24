@@ -1,5 +1,4 @@
-Cercospora melongenae Welles, 1922 SPECIES
-=======
+# Cercospora melongenae Welles, 1922 SPECIES
 
 #### Status
 ACCEPTED

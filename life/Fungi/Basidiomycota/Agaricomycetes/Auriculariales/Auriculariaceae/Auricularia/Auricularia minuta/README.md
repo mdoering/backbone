@@ -1,5 +1,4 @@
-Auricularia minuta Berk. SPECIES
-=======
+# Auricularia minuta Berk. SPECIES
 
 #### Status
 ACCEPTED

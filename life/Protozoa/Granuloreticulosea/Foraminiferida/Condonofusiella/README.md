@@ -1,5 +1,4 @@
-Condonofusiella GENUS
-=======
+# Condonofusiella GENUS
 
 #### Status
 ACCEPTED

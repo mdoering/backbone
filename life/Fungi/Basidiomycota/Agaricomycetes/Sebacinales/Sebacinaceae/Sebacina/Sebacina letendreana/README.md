@@ -1,5 +1,4 @@
-Sebacina letendreana Pat. SPECIES
-=======
+# Sebacina letendreana Pat. SPECIES
 
 #### Status
 ACCEPTED

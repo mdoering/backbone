@@ -1,5 +1,4 @@
-Phytophthora rubra Mantri & K.B. Deshp. SPECIES
-=======
+# Phytophthora rubra Mantri & K.B. Deshp. SPECIES
 
 #### Status
 ACCEPTED

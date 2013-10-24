@@ -1,5 +1,4 @@
-Lecidea albopunctata Vain. SPECIES
-=======
+# Lecidea albopunctata Vain. SPECIES
 
 #### Status
 ACCEPTED

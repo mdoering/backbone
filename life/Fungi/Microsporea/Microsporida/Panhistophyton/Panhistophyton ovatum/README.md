@@ -1,5 +1,4 @@
-Panhistophyton ovatum Lebert SPECIES
-=======
+# Panhistophyton ovatum Lebert SPECIES
 
 #### Status
 ACCEPTED

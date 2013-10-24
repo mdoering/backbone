@@ -1,5 +1,4 @@
-Dictyocha lockeri f. pentagona (A. Bachmann) P. Prema & T. V. Desikachary FORM
-=======
+# Dictyocha lockeri T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

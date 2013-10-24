@@ -1,5 +1,4 @@
-Schizamminidae Norvang, 1961 FAMILY
-=======
+# Schizamminidae Norvang, 1961 FAMILY
 
 #### Status
 ACCEPTED

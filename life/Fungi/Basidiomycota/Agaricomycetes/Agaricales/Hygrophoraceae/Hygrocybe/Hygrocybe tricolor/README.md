@@ -1,5 +1,4 @@
-Hygrocybe tricolor (Berk. & Broome) Pegler SPECIES
-=======
+# Hygrocybe tricolor (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

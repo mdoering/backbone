@@ -1,5 +1,4 @@
-Phyllachora loudetiae Doidge, 1942 SPECIES
-=======
+# Phyllachora loudetiae Doidge, 1942 SPECIES
 
 #### Status
 DOUBTFUL

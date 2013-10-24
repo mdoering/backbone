@@ -1,5 +1,4 @@
-Fusicoccum cinctum Sacc. & Roum. SPECIES
-=======
+# Fusicoccum cinctum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea flammea (Anzi) Hue SPECIES
-=======
+# Lecidea flammea (Anzi) Hue SPECIES
 
 #### Status
 ACCEPTED

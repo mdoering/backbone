@@ -1,5 +1,4 @@
-Quinqueloculina cuvieriana SPECIES
-=======
+# Quinqueloculina cuvieriana SPECIES
 
 #### Status
 ACCEPTED

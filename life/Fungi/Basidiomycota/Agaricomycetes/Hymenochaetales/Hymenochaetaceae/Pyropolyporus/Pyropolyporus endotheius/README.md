@@ -1,5 +1,4 @@
-Pyropolyporus endotheius (Berk.) Murrill SPECIES
-=======
+# Pyropolyporus endotheius (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

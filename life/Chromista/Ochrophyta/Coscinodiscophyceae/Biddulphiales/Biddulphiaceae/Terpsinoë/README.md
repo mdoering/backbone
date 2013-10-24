@@ -1,5 +1,4 @@
-Terpsinoë Ehrenberg, 1843 GENUS
-=======
+# Terpsinoë Ehrenberg, 1843 GENUS
 
 #### Status
 ACCEPTED

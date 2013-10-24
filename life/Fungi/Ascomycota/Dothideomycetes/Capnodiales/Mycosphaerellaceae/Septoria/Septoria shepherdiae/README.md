@@ -1,5 +1,4 @@
-Septoria shepherdiae (Sacc.) Dearn. SPECIES
-=======
+# Septoria shepherdiae (Sacc.) Dearn. SPECIES
 
 #### Status
 ACCEPTED

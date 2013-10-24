@@ -1,5 +1,4 @@
-Cyclotella pumila Grunow SPECIES
-=======
+# Cyclotella pumila Grunow SPECIES
 
 #### Status
 ACCEPTED

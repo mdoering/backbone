@@ -1,5 +1,4 @@
-Wielandomyces Raithelh. GENUS
-=======
+# Wielandomyces Raithelh. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrella botryosa Syd. SPECIES
-=======
+# Hypocrella botryosa Syd. SPECIES
 
 #### Status
 ACCEPTED

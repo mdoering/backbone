@@ -1,14 +1,13 @@
-Alaskadinium S. Duxbury, 1977 GENUS
-=======
+# Nelchinopsis V.Wiggins GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Rev. Paleobot. Palynol. 14: 299.
 
 #### Original name
 null

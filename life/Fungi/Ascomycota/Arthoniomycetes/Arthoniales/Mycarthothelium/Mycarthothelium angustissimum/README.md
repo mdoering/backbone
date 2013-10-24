@@ -1,5 +1,4 @@
-Mycarthothelium angustissimum Vain. SPECIES
-=======
+# Mycarthothelium angustissimum Vain. SPECIES
 
 #### Status
 ACCEPTED

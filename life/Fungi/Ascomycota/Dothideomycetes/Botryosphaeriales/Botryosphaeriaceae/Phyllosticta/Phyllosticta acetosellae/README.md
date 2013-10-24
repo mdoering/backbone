@@ -1,5 +1,4 @@
-Phyllosticta acetosellae A.L. Sm. & Ramsb. SPECIES
-=======
+# Phyllosticta acetosellae A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

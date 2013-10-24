@@ -1,14 +1,13 @@
-Dermatea ariae (Pers.) Tul. & C. Tul., 1865 SPECIES
-=======
+# Dermea ariae (Pers.) Tul. & C. Tul. ex P. Karst., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoth. fenn. (Helsinki) 1: 224 (1871)
 
 #### Original name
 null

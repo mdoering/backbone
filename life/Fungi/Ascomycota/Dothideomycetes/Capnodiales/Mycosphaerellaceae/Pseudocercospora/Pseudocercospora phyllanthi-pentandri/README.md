@@ -1,5 +1,4 @@
-Pseudocercospora phyllanthi-pentandri (J.M. Yen & Gilles) J.M. Yen SPECIES
-=======
+# Pseudocercospora phyllanthi-pentandri (J.M. Yen & Gilles) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

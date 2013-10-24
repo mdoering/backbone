@@ -1,5 +1,4 @@
-Septoria oryzae var. oryzae VARIETY
-=======
+# Septoria oryzae Catt. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Contrib. allo studio dei Miceti del Riso 5 (1887)
 
 #### Original name
-Septoria oryzae var. oryzae
+Septoria oryzae Catt.
 
 ### Remarks
 null

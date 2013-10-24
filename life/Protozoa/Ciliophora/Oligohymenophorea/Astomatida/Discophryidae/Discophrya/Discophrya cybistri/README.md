@@ -1,5 +1,4 @@
-Discophrya cybistri Collin, 1912 SPECIES
-=======
+# Discophrya cybistri Collin, 1912 SPECIES
 
 #### Status
 ACCEPTED

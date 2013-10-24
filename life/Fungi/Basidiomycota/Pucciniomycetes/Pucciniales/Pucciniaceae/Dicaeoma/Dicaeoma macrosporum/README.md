@@ -1,5 +1,4 @@
-Dicaeoma macrosporum (Peck) Arthur & F. Kern SPECIES
-=======
+# Dicaeoma macrosporum (Peck) Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entylomaster typhonii Vánky & R.G. Shivas, 2006 SPECIES
-=======
+# Entylomaster typhonii Vánky & R.G. Shivas, 2006 SPECIES
 
 #### Status
 ACCEPTED

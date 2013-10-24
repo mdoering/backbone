@@ -1,5 +1,4 @@
-Coelosomidiidae Corliss, 1961 FAMILY
-=======
+# Coelosomidiidae Corliss, 1961 FAMILY
 
 #### Status
 ACCEPTED

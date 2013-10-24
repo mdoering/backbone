@@ -1,5 +1,4 @@
-Ceratostoma vitreum Fr. SPECIES
-=======
+# Ceratostoma vitreum Fr. SPECIES
 
 #### Status
 ACCEPTED

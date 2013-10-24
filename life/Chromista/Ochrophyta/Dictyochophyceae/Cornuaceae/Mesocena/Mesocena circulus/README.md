@@ -1,5 +1,4 @@
-Mesocena circulus var. apiculata Lemmermann VARIETY
-=======
+# Mesocena circulus SPECIES
 
 #### Status
 ACCEPTED

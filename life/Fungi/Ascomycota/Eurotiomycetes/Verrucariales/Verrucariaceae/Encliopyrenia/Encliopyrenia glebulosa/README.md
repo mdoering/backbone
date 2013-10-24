@@ -1,5 +1,4 @@
-Encliopyrenia glebulosa (Nyl.) Trevis. SPECIES
-=======
+# Encliopyrenia glebulosa (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

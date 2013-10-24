@@ -1,5 +1,4 @@
-Meliola manca Ellis & G. Martin SPECIES
-=======
+# Meliola manca Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma turbinipes (Kalchbr.) McAlpine SPECIES
-=======
+# Tricholoma turbinipes (Kalchbr.) McAlpine SPECIES
 
 #### Status
 ACCEPTED

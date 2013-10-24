@@ -1,5 +1,4 @@
-Colletotrichum sorauerianum (Allesch.) Hori SPECIES
-=======
+# Colletotrichum sorauerianum (Allesch.) Hori SPECIES
 
 #### Status
 ACCEPTED

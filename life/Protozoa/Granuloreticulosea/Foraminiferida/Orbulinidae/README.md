@@ -1,5 +1,4 @@
-Orbulinidae FAMILY
-=======
+# Orbulinidae FAMILY
 
 #### Status
 ACCEPTED

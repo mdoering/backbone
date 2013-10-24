@@ -1,5 +1,4 @@
-Hecatonema stewartensis V.J.Chapman SPECIES
-=======
+# Hecatonema stewartensis V.J.Chapman SPECIES
 
 #### Status
 ACCEPTED

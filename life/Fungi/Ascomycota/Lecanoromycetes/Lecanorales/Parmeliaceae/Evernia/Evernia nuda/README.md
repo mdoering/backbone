@@ -1,5 +1,4 @@
-Evernia nuda (Ach.) K.G.W. Lång SPECIES
-=======
+# Evernia nuda (Ach.) K.G.W. Lång SPECIES
 
 #### Status
 ACCEPTED

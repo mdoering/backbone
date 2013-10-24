@@ -1,5 +1,4 @@
-Mecsekia ariakense (Takahashi, 1971) Schrank, 2003 SPECIES
-=======
+# Mecsekia ariakense (Takahashi, 1971) Schrank, 2003 SPECIES
 
 #### Status
 ACCEPTED

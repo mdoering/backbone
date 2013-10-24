@@ -1,5 +1,4 @@
-Asterina stellata Speg. SPECIES
-=======
+# Asterina stellata Speg. SPECIES
 
 #### Status
 ACCEPTED

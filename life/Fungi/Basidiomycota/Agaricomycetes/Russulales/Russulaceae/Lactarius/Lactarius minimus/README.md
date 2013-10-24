@@ -1,5 +1,4 @@
-Lactarius minimus W.G. Sm. SPECIES
-=======
+# Lactarius minimus W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

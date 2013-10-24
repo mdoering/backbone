@@ -1,5 +1,4 @@
-Xyloma rubrum ß rubrum Pers. SPECIES
-=======
+# Xyloma rubrum ß rubrum Pers. SPECIES
 
 #### Status
 ACCEPTED

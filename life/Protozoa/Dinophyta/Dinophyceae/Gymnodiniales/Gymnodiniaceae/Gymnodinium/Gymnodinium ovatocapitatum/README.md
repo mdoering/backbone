@@ -1,5 +1,4 @@
-Gymnodinium ovatocapitatum Van Meel SPECIES
-=======
+# Gymnodinium ovatocapitatum Van Meel SPECIES
 
 #### Status
 ACCEPTED

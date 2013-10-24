@@ -1,5 +1,4 @@
-Paradentalina ballenaensis McCulloch, 1977 SPECIES
-=======
+# Paradentalina ballenaensis McCulloch, 1977 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Durella pyrina Henn. SPECIES
-=======
+# Durella pyrina Henn. SPECIES
 
 #### Status
 ACCEPTED

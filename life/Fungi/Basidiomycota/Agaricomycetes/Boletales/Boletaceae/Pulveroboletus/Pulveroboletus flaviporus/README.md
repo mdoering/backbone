@@ -1,5 +1,4 @@
-Pulveroboletus flaviporus (Earle) Singer SPECIES
-=======
+# Pulveroboletus flaviporus (Earle) Singer SPECIES
 
 #### Status
 ACCEPTED

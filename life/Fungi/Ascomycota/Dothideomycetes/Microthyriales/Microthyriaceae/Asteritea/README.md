@@ -1,5 +1,4 @@
-Asteritea Bat. & R. Garnier GENUS
-=======
+# Asteritea Bat. & R. Garnier GENUS
 
 #### Status
 ACCEPTED

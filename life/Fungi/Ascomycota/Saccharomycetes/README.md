@@ -1,5 +1,4 @@
-Saccharomycetes G. Winter CLASS
-=======
+# Saccharomycetes G. Winter CLASS
 
 #### Status
 ACCEPTED

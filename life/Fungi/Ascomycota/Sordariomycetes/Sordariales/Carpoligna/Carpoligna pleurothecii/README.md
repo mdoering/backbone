@@ -1,5 +1,4 @@
-Carpoligna pleurothecii F.A. Fernández & Huhndorf, 1999 SPECIES
-=======
+# Carpoligna pleurothecii F.A. Fernández & Huhndorf, 1999 SPECIES
 
 #### Status
 ACCEPTED

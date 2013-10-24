@@ -1,5 +1,4 @@
-Opegrapha mazosioides Sérus. SPECIES
-=======
+# Opegrapha mazosioides Sérus. SPECIES
 
 #### Status
 ACCEPTED

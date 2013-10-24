@@ -1,5 +1,4 @@
-Buellia abstracta H. Olivier SPECIES
-=======
+# Buellia abstracta H. Olivier SPECIES
 
 #### Status
 ACCEPTED

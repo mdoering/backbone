@@ -1,5 +1,4 @@
-Melampsora fagi Dietel & Neger SPECIES
-=======
+# Melampsora fagi Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

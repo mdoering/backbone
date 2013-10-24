@@ -1,5 +1,4 @@
-Asterina linderae Hansf. SPECIES
-=======
+# Asterina linderae Hansf. SPECIES
 
 #### Status
 ACCEPTED

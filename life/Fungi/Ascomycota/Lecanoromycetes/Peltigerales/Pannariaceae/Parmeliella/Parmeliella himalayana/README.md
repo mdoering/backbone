@@ -1,5 +1,4 @@
-Parmeliella himalayana Upreti & Divakar SPECIES
-=======
+# Parmeliella himalayana Upreti & Divakar SPECIES
 
 #### Status
 ACCEPTED

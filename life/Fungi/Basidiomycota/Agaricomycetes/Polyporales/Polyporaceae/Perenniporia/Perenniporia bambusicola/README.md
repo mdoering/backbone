@@ -1,5 +1,4 @@
-Perenniporia bambusicola Choeyklin, T. Hatt. & E.B.G. Jones SPECIES
-=======
+# Perenniporia bambusicola Choeyklin, T. Hatt. & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius compernis Fr. SPECIES
-=======
+# Cortinarius compernis Fr. SPECIES
 
 #### Status
 ACCEPTED

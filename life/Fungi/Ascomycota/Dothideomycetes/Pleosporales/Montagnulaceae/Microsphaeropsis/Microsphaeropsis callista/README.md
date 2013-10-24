@@ -1,17 +1,16 @@
-Readeriella callista (Syd.) Crous & Summerell, 2009 SPECIES
-=======
+# Microsphaeropsis callista (Syd.) B. Sutton, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 123: 35 (1971)
 
 #### Original name
-null
+Coniothyrium callistum Syd., 1937
 
 ### Remarks
 null

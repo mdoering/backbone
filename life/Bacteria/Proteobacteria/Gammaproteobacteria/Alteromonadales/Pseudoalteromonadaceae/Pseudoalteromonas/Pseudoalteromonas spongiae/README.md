@@ -1,5 +1,4 @@
-Pseudoalteromonas spongiae Lau et al., 2005 SPECIES
-=======
+# Pseudoalteromonas spongiae Lau et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

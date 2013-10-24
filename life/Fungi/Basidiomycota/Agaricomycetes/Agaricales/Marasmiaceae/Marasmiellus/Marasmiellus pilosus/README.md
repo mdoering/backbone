@@ -1,5 +1,4 @@
-Marasmiellus pilosus (Dennis) Singer SPECIES
-=======
+# Marasmiellus pilosus (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

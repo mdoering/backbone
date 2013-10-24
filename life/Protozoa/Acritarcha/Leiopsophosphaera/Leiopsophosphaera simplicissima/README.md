@@ -1,5 +1,4 @@
-Leiopsophosphaera simplicissima (Naumova, 1949) N. Umnova, 1975 SPECIES
-=======
+# Leiopsophosphaera simplicissima (Naumova, 1949) N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

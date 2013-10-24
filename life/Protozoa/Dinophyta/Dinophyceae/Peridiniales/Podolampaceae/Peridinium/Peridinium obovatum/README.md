@@ -1,5 +1,4 @@
-Peridinium obovatum Wood, 1954 SPECIES
-=======
+# Peridinium obovatum Wood, 1954 SPECIES
 
 #### Status
 ACCEPTED

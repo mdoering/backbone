@@ -1,5 +1,4 @@
-Melaspilea elutericola Fink SPECIES
-=======
+# Melaspilea elutericola Fink SPECIES
 
 #### Status
 ACCEPTED

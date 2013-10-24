@@ -1,5 +1,4 @@
-Galerina makereriensis Pegler SPECIES
-=======
+# Galerina makereriensis Pegler SPECIES
 
 #### Status
 ACCEPTED

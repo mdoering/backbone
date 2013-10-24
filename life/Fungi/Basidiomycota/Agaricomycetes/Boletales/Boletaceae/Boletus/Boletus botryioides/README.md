@@ -1,5 +1,4 @@
-Boletus botryioides Humb. SPECIES
-=======
+# Boletus botryioides Humb. SPECIES
 
 #### Status
 ACCEPTED

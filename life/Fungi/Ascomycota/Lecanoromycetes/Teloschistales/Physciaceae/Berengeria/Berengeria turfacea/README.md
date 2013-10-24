@@ -1,5 +1,4 @@
-Berengeria turfacea SPECIES
-=======
+# Berengeria turfacea SPECIES
 
 #### Status
 ACCEPTED

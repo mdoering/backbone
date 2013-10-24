@@ -1,5 +1,4 @@
-Nigredo clitoriae (Arthur) Arthur SPECIES
-=======
+# Nigredo clitoriae (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

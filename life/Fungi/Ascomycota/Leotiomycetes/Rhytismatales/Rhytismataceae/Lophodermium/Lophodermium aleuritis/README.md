@@ -1,14 +1,13 @@
-Lophodermina aleuritis (Rehm) Tehon, 1935 SPECIES
-=======
+# Lophodermium aleuritis Rehm, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 13(4): 86 (1935)
+Leafl. of Philipp. Bot. 6: 2232 (1914)
 
 #### Original name
 Lophodermium aleuritis Rehm, 1914

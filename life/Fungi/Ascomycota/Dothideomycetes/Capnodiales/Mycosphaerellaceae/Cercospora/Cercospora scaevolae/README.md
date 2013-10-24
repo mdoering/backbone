@@ -1,5 +1,4 @@
-Cercospora scaevolae (Racib.) U. Braun SPECIES
-=======
+# Cercospora scaevolae (Racib.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

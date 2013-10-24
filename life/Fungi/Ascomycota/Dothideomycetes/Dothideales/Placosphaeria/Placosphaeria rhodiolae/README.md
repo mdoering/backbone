@@ -1,5 +1,4 @@
-Placosphaeria rhodiolae Vasyag. SPECIES
-=======
+# Placosphaeria rhodiolae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

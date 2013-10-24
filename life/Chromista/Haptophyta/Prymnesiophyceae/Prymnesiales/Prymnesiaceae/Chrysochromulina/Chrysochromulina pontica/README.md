@@ -1,5 +1,4 @@
-Chrysochromulina pontica Rouchijajnen, 1966 SPECIES
-=======
+# Chrysochromulina pontica Rouchijajnen, 1966 SPECIES
 
 #### Status
 ACCEPTED

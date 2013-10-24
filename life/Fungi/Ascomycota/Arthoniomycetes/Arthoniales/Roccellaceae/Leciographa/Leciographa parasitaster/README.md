@@ -1,5 +1,4 @@
-Leciographa parasitaster (Nyl.) Arnold SPECIES
-=======
+# Leciographa parasitaster (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

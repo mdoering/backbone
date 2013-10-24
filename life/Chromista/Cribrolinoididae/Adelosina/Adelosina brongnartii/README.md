@@ -1,8 +1,7 @@
-Triloculina brongnartii d’Orbigny, 1826 SPECIES
-=======
+# Adelosina brongnartii (d'Orbigny, 1826) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

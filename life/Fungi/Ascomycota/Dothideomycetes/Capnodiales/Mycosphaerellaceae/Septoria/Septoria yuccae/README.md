@@ -1,5 +1,4 @@
-Septoria yuccae (Schwein.) Sacc. SPECIES
-=======
+# Septoria yuccae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

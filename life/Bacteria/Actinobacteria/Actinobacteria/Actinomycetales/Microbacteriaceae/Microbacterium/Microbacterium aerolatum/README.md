@@ -1,5 +1,4 @@
-Microbacterium aerolatum Zlamala et al., 2002 SPECIES
-=======
+# Microbacterium aerolatum Zlamala et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

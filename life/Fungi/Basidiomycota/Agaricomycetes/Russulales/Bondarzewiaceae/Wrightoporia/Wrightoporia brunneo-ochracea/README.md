@@ -1,5 +1,4 @@
-Wrightoporia brunneo-ochracea A. David & Rajchenb., 1985 SPECIES
-=======
+# Wrightoporia brunneo-ochracea A. David & Rajchenb., 1985 SPECIES
 
 #### Status
 ACCEPTED

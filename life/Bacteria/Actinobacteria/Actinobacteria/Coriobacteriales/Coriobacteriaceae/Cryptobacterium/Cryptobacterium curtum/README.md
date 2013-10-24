@@ -1,5 +1,4 @@
-Cryptobacterium curtum Nakazawa et al., 1999 SPECIES
-=======
+# Cryptobacterium curtum Nakazawa et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

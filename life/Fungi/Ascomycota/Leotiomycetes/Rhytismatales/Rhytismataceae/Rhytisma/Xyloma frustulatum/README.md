@@ -1,5 +1,4 @@
-Xyloma frustulatum Fr. SPECIES
-=======
+# Xyloma frustulatum Fr. SPECIES
 
 #### Status
 ACCEPTED

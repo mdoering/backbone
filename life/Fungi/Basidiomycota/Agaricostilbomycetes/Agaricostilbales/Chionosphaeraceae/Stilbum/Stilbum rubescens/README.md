@@ -1,5 +1,4 @@
-Stilbum rubescens Syd. SPECIES
-=======
+# Stilbum rubescens Syd. SPECIES
 
 #### Status
 ACCEPTED

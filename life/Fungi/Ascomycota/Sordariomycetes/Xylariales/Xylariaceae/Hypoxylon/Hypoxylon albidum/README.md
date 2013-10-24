@@ -1,5 +1,4 @@
-Hypoxylon albidum Romell SPECIES
-=======
+# Hypoxylon albidum Romell SPECIES
 
 #### Status
 ACCEPTED

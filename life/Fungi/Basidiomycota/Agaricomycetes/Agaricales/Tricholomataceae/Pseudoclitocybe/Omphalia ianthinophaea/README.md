@@ -1,5 +1,4 @@
-Omphalia ianthinophaea Mont. SPECIES
-=======
+# Omphalia ianthinophaea Mont. SPECIES
 
 #### Status
 ACCEPTED

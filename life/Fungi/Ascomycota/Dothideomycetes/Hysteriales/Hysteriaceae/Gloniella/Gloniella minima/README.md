@@ -1,5 +1,4 @@
-Gloniella minima (Sacc.) Sacc. SPECIES
-=======
+# Gloniella minima (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

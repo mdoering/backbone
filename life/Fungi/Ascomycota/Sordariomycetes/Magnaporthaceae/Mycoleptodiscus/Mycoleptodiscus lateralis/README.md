@@ -1,5 +1,4 @@
-Mycoleptodiscus lateralis Alcorn & B. Sutton, 1990 SPECIES
-=======
+# Mycoleptodiscus lateralis Alcorn & B. Sutton, 1990 SPECIES
 
 #### Status
 ACCEPTED

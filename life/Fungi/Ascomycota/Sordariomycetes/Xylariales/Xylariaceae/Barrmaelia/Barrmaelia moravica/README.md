@@ -1,14 +1,13 @@
-Eutypa moravica Petr., 1927 SPECIES
-=======
+# Barrmaelia moravica (Petr.) Rappaz, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 25(3/4): 224 (1927)
+Mycol. helv. 7(1): 134 (1995)
 
 #### Original name
 Eutypa moravica Petr., 1927

@@ -1,5 +1,4 @@
-Peziza fuliginea Pers. SPECIES
-=======
+# Peziza fuliginea Pers. SPECIES
 
 #### Status
 ACCEPTED

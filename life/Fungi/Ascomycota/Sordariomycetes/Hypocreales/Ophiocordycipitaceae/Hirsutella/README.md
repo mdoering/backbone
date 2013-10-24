@@ -1,17 +1,16 @@
-Mahevia Lagarde GENUS
-=======
+# Hirsutella Patouillard, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Archs Zool. exp. gén. 56: 292 (1917)
+Revue mycol. , Toulouse 14: 67 (1892)
 
 #### Original name
-Mahevia Lagarde
+Hirsutella Patouillard, 1892
 
 ### Remarks
 null

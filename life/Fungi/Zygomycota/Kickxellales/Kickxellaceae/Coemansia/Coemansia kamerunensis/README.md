@@ -1,5 +1,4 @@
-Coemansia kamerunensis Linder, 1943 SPECIES
-=======
+# Coemansia kamerunensis Linder, 1943 SPECIES
 
 #### Status
 ACCEPTED

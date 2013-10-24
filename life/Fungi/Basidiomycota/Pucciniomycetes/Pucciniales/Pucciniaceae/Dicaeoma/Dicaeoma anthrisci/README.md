@@ -1,5 +1,4 @@
-Dicaeoma anthrisci (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma anthrisci (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

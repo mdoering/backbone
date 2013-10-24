@@ -1,5 +1,4 @@
-Hormiscioideus filamentosus M. Blackw. & Kimbr., 1979 SPECIES
-=======
+# Hormiscioideus filamentosus M. Blackw. & Kimbr., 1979 SPECIES
 
 #### Status
 ACCEPTED

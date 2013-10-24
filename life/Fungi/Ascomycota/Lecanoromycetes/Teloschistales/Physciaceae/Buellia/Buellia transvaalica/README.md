@@ -1,5 +1,4 @@
-Buellia transvaalica (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia transvaalica (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

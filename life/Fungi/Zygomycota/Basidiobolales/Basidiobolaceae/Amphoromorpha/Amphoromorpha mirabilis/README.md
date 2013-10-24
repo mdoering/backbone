@@ -1,5 +1,4 @@
-Amphoromorpha mirabilis J. Siemaszko & Siemaszko SPECIES
-=======
+# Amphoromorpha mirabilis J. Siemaszko & Siemaszko SPECIES
 
 #### Status
 ACCEPTED

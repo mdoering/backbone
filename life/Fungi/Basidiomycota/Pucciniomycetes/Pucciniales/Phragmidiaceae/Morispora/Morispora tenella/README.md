@@ -1,14 +1,13 @@
-Gerwasia tenella (H.S. Jacks. & Holw.) Buriticá, 1994 SPECIES
-=======
+# Morispora tenella (H.S. Jacks. & Holw.) Salazar-Yepes, Pardo-Card. & Buriticá, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta ICNE, Instit. Cienc. Nat. Ecol. 5(2): 185 (1994)
+Caldasia 29(1): 114 (2007)
 
 #### Original name
 Mainsia tenella H.S. Jacks. & Holw., 1931

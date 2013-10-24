@@ -1,5 +1,4 @@
-Lecanora tschomolongmae Poelt SPECIES
-=======
+# Lecanora tschomolongmae Poelt SPECIES
 
 #### Status
 ACCEPTED

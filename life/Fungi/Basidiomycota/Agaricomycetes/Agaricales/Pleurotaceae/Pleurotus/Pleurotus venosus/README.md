@@ -1,5 +1,4 @@
-Pleurotus venosus Killerm. SPECIES
-=======
+# Pleurotus venosus Killerm. SPECIES
 
 #### Status
 ACCEPTED

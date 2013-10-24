@@ -1,5 +1,4 @@
-Trichosporum chordaceum Pass. SPECIES
-=======
+# Trichosporum chordaceum Pass. SPECIES
 
 #### Status
 ACCEPTED

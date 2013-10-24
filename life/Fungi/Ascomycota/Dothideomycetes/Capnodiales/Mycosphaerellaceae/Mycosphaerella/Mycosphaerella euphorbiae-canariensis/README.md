@@ -1,17 +1,16 @@
-Mycosphaerella ejvphorbiae-cannariensis Tomilin SPECIES
-=======
+# Mycosphaerella euphorbiae-canariensis Tomilin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 6: 120 (1970)
 
 #### Original name
-Mycosphaerella ejvphorbiae-cannariensis Tomilin
+Sphaerella canariensis Tassi
 
 ### Remarks
 null

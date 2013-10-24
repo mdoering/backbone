@@ -1,17 +1,16 @@
-Rhizopogon rubescens var. rubescens VARIETY
-=======
+# Rhizopogon ochraceorubens A.H. Sm., 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-G. bot. ital. 2(1): 58 (1844)
+Mem. N. Y. bot. Gdn 14(2): 93 (1966)
 
 #### Original name
-Rhizopogon rubescens var. rubescens
+Rhizopogon ochraceorubens A.H. Sm., 1966
 
 ### Remarks
 null

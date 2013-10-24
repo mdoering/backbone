@@ -1,5 +1,4 @@
-Phragmidium laceianum Barclay SPECIES
-=======
+# Phragmidium laceianum Barclay SPECIES
 
 #### Status
 ACCEPTED

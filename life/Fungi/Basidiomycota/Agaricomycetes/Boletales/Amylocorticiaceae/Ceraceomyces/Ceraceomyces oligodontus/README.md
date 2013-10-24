@@ -1,5 +1,4 @@
-Ceraceomyces oligodontus P. Roberts, 2000 SPECIES
-=======
+# Ceraceomyces oligodontus P. Roberts, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria aggregata Müll. Arg. SPECIES
-=======
+# Pertusaria aggregata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

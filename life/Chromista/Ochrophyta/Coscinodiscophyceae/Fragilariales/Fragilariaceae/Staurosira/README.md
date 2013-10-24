@@ -1,5 +1,4 @@
-Staurosira Ehrenberg, 1843 GENUS
-=======
+# Staurosira Ehrenberg, 1843 GENUS
 
 #### Status
 ACCEPTED

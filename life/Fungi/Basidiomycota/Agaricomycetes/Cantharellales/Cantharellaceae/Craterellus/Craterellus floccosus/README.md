@@ -1,5 +1,4 @@
-Craterellus floccosus Quél. SPECIES
-=======
+# Craterellus floccosus Quél. SPECIES
 
 #### Status
 ACCEPTED

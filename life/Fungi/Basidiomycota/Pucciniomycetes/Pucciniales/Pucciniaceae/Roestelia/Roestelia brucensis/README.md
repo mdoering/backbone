@@ -1,5 +1,4 @@
-Roestelia brucensis Parmelee, 1965 SPECIES
-=======
+# Roestelia brucensis Parmelee, 1965 SPECIES
 
 #### Status
 ACCEPTED

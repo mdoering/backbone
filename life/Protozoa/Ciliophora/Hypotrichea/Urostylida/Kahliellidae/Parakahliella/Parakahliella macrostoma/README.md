@@ -1,8 +1,7 @@
-Parurostyla macrostoma SPECIES
-=======
+# Parakahliella macrostoma (Foissner, 1982) Berger, Foissner & Adam, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

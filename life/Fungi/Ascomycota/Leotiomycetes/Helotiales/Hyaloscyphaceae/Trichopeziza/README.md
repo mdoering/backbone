@@ -1,5 +1,4 @@
-Trichopeziza Fuckel, 1870 GENUS
-=======
+# Trichopeziza Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

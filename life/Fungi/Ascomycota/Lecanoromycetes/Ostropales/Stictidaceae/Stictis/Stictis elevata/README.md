@@ -1,8 +1,7 @@
-Stictis luzulae var. junci P. Karst. VARIETY
-=======
+# Stictis elevata P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictis luzulae var. junci P. Karst.
+Stictis elevata P. Karst.
 
 ### Remarks
 null

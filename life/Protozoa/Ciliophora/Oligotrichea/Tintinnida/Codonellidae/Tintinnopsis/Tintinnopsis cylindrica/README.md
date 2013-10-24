@@ -1,5 +1,4 @@
-Tintinnopsis cylindrica Daday, 1887 SPECIES
-=======
+# Tintinnopsis cylindrica Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

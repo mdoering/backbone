@@ -1,5 +1,4 @@
-Sphaerothallia GENUS
-=======
+# Sphaerothallia GENUS
 
 #### Status
 ACCEPTED

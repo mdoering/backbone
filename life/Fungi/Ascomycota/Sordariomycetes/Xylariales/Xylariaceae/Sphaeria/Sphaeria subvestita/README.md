@@ -1,5 +1,4 @@
-Sphaeria subvestita Ellis & Everh. SPECIES
-=======
+# Sphaeria subvestita Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

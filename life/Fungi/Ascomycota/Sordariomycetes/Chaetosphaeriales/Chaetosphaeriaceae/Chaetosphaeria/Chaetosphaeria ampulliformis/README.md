@@ -1,5 +1,4 @@
-Chaetosphaeria ampulliformis Sivan. & H.S. Chang SPECIES
-=======
+# Chaetosphaeria ampulliformis Sivan. & H.S. Chang SPECIES
 
 #### Status
 ACCEPTED

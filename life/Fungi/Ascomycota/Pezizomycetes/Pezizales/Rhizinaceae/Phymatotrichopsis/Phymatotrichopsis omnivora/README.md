@@ -1,17 +1,16 @@
-Ozonium auriconum Link SPECIES
-=======
+# Phymatotrichopsis omnivora (Duggar) Hennebert, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 7(2): 199 (1973)
 
 #### Original name
-Ozonium auriconum Link
+Phymatotrichum omnivorum Duggar, 1916
 
 ### Remarks
 null

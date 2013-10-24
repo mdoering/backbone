@@ -1,5 +1,4 @@
-Panus pruni Velen. SPECIES
-=======
+# Panus pruni Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma cocoës Allesch. SPECIES
-=======
+# Phoma cocoës Allesch. SPECIES
 
 #### Status
 ACCEPTED

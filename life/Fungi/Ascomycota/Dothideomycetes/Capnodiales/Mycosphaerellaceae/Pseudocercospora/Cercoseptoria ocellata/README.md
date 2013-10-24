@@ -1,5 +1,4 @@
-Cercoseptoria ocellata Deighton SPECIES
-=======
+# Cercoseptoria ocellata Deighton SPECIES
 
 #### Status
 ACCEPTED

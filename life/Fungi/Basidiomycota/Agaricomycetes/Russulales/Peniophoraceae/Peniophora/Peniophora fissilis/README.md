@@ -1,5 +1,4 @@
-Peniophora fissilis Boidin, Lanq. & Gilles, 1991 SPECIES
-=======
+# Peniophora fissilis Boidin, Lanq. & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

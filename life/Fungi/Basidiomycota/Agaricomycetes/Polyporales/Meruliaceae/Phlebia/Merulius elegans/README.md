@@ -1,5 +1,4 @@
-Merulius elegans Pers. SPECIES
-=======
+# Merulius elegans Pers. SPECIES
 
 #### Status
 ACCEPTED

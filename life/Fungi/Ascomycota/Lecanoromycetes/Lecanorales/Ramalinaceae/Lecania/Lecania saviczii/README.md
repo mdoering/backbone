@@ -1,5 +1,4 @@
-Lecania saviczii Novruzov SPECIES
-=======
+# Lecania saviczii Novruzov SPECIES
 
 #### Status
 ACCEPTED

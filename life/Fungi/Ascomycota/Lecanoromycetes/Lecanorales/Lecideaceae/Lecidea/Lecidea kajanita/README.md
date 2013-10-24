@@ -1,5 +1,4 @@
-Lecidea kajanita Nyl. SPECIES
-=======
+# Lecidea kajanita Nyl. SPECIES
 
 #### Status
 ACCEPTED

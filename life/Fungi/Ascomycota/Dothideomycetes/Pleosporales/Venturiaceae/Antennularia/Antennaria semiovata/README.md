@@ -1,14 +1,13 @@
-Catenuloxyphium semiovatum (Berk. & Broome) S. Hughes, 1976 SPECIES
-=======
+# Antennaria semiovata Berk. & Broome, 1854 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 68(4): 754 (1976)
+Ann. Mag. nat. Hist. , Ser. 2 13: no. 784 (1854)
 
 #### Original name
 Antennaria semiovata Berk. & Broome, 1854

@@ -1,5 +1,4 @@
-Acetabula unicolor Boud. SPECIES
-=======
+# Acetabula unicolor Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascospora vanillae Rehm SPECIES
-=======
+# Ascospora vanillae Rehm SPECIES
 
 #### Status
 ACCEPTED

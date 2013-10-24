@@ -1,5 +1,4 @@
-Calosphaeria pleurostoma Chenant. SPECIES
-=======
+# Calosphaeria pleurostoma Chenant. SPECIES
 
 #### Status
 ACCEPTED

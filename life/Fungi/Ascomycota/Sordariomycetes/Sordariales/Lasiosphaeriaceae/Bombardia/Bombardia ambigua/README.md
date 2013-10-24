@@ -1,5 +1,4 @@
-Bombardia ambigua var. ambigua VARIETY
-=======
+# Bombardia ambigua G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bombardia ambigua var. ambigua
+Bombardia ambigua G. Winter
 
 ### Remarks
 null

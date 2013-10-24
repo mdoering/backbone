@@ -1,5 +1,4 @@
-Coronatomyces cubensis Dania García, Stchigel & Guarro, 2004 SPECIES
-=======
+# Coronatomyces cubensis Dania García, Stchigel & Guarro, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus fulmineus Fr. SPECIES
-=======
+# Agaricus fulmineus Fr. SPECIES
 
 #### Status
 ACCEPTED

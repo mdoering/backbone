@@ -1,5 +1,4 @@
-Mycosphaerella umbellulariae (Cooke & Harkn.) Lindau SPECIES
-=======
+# Mycosphaerella umbellulariae (Cooke & Harkn.) Lindau SPECIES
 
 #### Status
 ACCEPTED

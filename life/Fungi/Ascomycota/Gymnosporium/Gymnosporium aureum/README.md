@@ -1,5 +1,4 @@
-Gymnosporium aureum Corda SPECIES
-=======
+# Gymnosporium aureum Corda SPECIES
 
 #### Status
 ACCEPTED

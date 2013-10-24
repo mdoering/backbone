@@ -1,5 +1,4 @@
-Buellia effundens Zahlbr. SPECIES
-=======
+# Buellia effundens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

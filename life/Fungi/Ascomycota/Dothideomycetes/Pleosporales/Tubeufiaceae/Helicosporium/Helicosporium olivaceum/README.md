@@ -1,5 +1,4 @@
-Helicosporium olivaceum Peck SPECIES
-=======
+# Helicosporium olivaceum Peck SPECIES
 
 #### Status
 ACCEPTED

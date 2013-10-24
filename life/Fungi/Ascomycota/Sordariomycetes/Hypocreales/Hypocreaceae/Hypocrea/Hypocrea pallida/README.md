@@ -1,17 +1,16 @@
-Protocrea pallida (Ellis & Everh.) Jaklitsch, K. Põldmaa & Samuels, 2008 SPECIES
-=======
+# Hypocrea pallida Ellis & Everh., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Mycol. 2(6): 65 (1886)
 
 #### Original name
-null
+Hypocrea pallida Ellis & Everh., 1886
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Baltisphaeridium loeblichii Colbath, 1979 SPECIES
-=======
+# Baltisphaeridium loeblichii Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

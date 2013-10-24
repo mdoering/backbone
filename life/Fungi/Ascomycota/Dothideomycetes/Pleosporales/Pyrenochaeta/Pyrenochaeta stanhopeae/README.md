@@ -1,5 +1,4 @@
-Pyrenochaeta stanhopeae G. Winter SPECIES
-=======
+# Pyrenochaeta stanhopeae G. Winter SPECIES
 
 #### Status
 ACCEPTED

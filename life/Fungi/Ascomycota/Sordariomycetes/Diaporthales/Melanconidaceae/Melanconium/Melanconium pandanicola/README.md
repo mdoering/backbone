@@ -1,5 +1,4 @@
-Melanconium pandanicola Sawada SPECIES
-=======
+# Melanconium pandanicola Sawada SPECIES
 
 #### Status
 ACCEPTED

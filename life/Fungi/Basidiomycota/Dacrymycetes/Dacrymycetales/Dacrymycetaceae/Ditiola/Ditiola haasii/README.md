@@ -1,5 +1,4 @@
-Ditiola haasii Oberw. SPECIES
-=======
+# Ditiola haasii Oberw. SPECIES
 
 #### Status
 ACCEPTED

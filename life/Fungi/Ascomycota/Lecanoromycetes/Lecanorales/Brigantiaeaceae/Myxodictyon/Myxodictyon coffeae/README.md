@@ -1,5 +1,4 @@
-Myxodictyon coffeae Müll. Arg. SPECIES
-=======
+# Myxodictyon coffeae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

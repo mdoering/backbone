@@ -1,5 +1,4 @@
-Uredo helianthi Schwein. SPECIES
-=======
+# Uredo helianthi Schwein. SPECIES
 
 #### Status
 ACCEPTED

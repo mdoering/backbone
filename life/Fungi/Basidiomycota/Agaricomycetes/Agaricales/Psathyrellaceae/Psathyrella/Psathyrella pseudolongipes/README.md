@@ -1,5 +1,4 @@
-Psathyrella pseudolongipes A.H. Sm. SPECIES
-=======
+# Psathyrella pseudolongipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

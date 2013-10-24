@@ -1,5 +1,4 @@
-Leptosphaeria bacillifera (P. Karst.) Munk SPECIES
-=======
+# Leptosphaeria bacillifera (P. Karst.) Munk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomoniella kajiana (Hara) M. Monod SPECIES
-=======
+# Gnomoniella kajiana (Hara) M. Monod SPECIES
 
 #### Status
 ACCEPTED

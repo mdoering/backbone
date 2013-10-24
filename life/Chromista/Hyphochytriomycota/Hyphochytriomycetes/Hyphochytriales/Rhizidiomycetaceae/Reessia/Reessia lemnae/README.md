@@ -1,14 +1,13 @@
-Olpidium lemnae (C. Fisch) J. Schröt., 1886 SPECIES
-=======
+# Reessia lemnae (C. Fisch) Karling, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(18): 181 (1886)
+Am. J. Bot. 30: 642 (1943)
 
 #### Original name
 Chytridium lemnae C. Fisch, 1884

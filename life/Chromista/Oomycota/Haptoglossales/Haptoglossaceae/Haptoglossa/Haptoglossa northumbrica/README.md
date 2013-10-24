@@ -1,5 +1,4 @@
-Haptoglossa northumbrica Glockling & Beakes, 2001 SPECIES
-=======
+# Haptoglossa northumbrica Glockling & Beakes, 2001 SPECIES
 
 #### Status
 ACCEPTED

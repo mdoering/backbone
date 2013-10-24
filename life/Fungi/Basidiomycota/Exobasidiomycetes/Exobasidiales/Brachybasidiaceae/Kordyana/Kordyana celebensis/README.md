@@ -1,5 +1,4 @@
-Kordyana celebensis Gäum., 1922 SPECIES
-=======
+# Kordyana celebensis Gäum., 1922 SPECIES
 
 #### Status
 ACCEPTED

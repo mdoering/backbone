@@ -1,5 +1,4 @@
-Metaleiofusa arcuata Wall, 1965 SPECIES
-=======
+# Metaleiofusa arcuata Wall, 1965 SPECIES
 
 #### Status
 ACCEPTED

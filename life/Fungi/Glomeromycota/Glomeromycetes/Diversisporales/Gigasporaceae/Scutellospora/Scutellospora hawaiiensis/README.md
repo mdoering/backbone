@@ -1,17 +1,16 @@
-Dentiscutata hawaiiensis (Koske & Gemma) Sieverd., F.A. Souza & Oehl, 2008 SPECIES
-=======
+# Scutellospora hawaiiensis Koske & Gemma, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 87(5): 678 (1995)
 
 #### Original name
-null
+Scutellospora hawaiiensis Koske & Gemma, 1995
 
 ### Remarks
 null

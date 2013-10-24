@@ -1,5 +1,4 @@
-Mycosphaerella mikanifolia R.W. Barreto SPECIES
-=======
+# Mycosphaerella mikanifolia R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

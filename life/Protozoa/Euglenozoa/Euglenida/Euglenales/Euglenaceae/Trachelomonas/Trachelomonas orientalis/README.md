@@ -1,5 +1,4 @@
-Trachelomonas orientalis Skvortzov SPECIES
-=======
+# Trachelomonas orientalis Skvortzov SPECIES
 
 #### Status
 ACCEPTED

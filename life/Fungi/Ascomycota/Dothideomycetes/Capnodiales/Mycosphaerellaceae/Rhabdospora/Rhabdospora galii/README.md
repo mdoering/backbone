@@ -1,5 +1,4 @@
-Rhabdospora galii Died. SPECIES
-=======
+# Rhabdospora galii Died. SPECIES
 
 #### Status
 ACCEPTED

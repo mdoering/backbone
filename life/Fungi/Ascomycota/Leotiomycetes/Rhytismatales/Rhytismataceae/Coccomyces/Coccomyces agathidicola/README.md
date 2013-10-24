@@ -1,5 +1,4 @@
-Coccomyces agathidicola Spooner, 1990 SPECIES
-=======
+# Coccomyces agathidicola Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

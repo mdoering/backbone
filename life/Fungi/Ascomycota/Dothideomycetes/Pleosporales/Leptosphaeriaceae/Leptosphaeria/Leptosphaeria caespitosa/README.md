@@ -1,17 +1,16 @@
-Leptosphaeria caespitosa var. caespitosa VARIETY
-=======
+# Leptosphaeria caespitosa Niessl, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Leptosphaeria caespitosa var. caespitosa
+Leptosphaeria caespitosa Niessl, 1876
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora strelitziae (Cooke) Sacc., 1883 SPECIES
-=======
+# Phyllachora strelitziae (Cooke) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

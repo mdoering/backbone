@@ -1,5 +1,4 @@
-Flammula schweinfurthii Reichert SPECIES
-=======
+# Flammula schweinfurthii Reichert SPECIES
 
 #### Status
 ACCEPTED

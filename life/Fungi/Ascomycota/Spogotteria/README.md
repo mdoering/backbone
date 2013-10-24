@@ -1,5 +1,4 @@
-Spogotteria GENUS
-=======
+# Spogotteria GENUS
 
 #### Status
 ACCEPTED

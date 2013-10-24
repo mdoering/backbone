@@ -1,5 +1,4 @@
-Amphoridium millardetii (Servít) Servít SPECIES
-=======
+# Amphoridium millardetii (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

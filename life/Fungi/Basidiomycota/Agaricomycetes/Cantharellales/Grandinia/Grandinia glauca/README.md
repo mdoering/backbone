@@ -1,5 +1,4 @@
-Grandinia glauca Cooke SPECIES
-=======
+# Grandinia glauca Cooke SPECIES
 
 #### Status
 ACCEPTED

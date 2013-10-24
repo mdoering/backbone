@@ -1,5 +1,4 @@
-Harposporium thaumasium X. Li & K.Q. Zhang SPECIES
-=======
+# Harposporium thaumasium X. Li & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

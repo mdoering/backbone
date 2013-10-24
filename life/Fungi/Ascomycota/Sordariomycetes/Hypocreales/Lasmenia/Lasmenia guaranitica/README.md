@@ -1,5 +1,4 @@
-Lasmenia guaranitica Speg. SPECIES
-=======
+# Lasmenia guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

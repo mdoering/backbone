@@ -1,5 +1,4 @@
-Buellia saxosa Flagey SPECIES
-=======
+# Buellia saxosa Flagey SPECIES
 
 #### Status
 ACCEPTED

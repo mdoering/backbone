@@ -1,5 +1,4 @@
-Naucoria belluloides Kauffman SPECIES
-=======
+# Naucoria belluloides Kauffman SPECIES
 
 #### Status
 ACCEPTED

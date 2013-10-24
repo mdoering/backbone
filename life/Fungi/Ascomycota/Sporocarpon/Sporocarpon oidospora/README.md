@@ -1,5 +1,4 @@
-Sporocarpon oidospora McLean SPECIES
-=======
+# Sporocarpon oidospora McLean SPECIES
 
 #### Status
 ACCEPTED

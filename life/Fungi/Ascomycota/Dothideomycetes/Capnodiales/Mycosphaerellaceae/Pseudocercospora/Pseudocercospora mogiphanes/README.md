@@ -1,5 +1,4 @@
-Pseudocercospora mogiphanes (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora mogiphanes (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

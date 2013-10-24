@@ -1,5 +1,4 @@
-Arbusculidium perlongum Di Milia et al., 1989 SPECIES
-=======
+# Arbusculidium perlongum Di Milia et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

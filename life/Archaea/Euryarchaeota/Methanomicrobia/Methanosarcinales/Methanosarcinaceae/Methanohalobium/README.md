@@ -1,5 +1,4 @@
-Methanohalobium Zhilina & Zavarzin, 1988 GENUS
-=======
+# Methanohalobium Zhilina & Zavarzin, 1988 GENUS
 
 #### Status
 ACCEPTED

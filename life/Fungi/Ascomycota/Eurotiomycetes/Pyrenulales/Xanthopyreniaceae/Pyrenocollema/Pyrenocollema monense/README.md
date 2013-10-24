@@ -1,14 +1,13 @@
-Acrocordia monensis Wheldon SPECIES
-=======
+# Pyrenocollema monense (Wheldon) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lancast. Nat. 8: 196 (1915)
+Lichenologist 24(4): 368 (1992)
 
 #### Original name
 Acrocordia monensis Wheldon

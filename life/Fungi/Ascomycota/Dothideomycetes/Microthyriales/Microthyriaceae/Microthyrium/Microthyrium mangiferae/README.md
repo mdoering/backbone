@@ -1,5 +1,4 @@
-Microthyrium mangiferae E. Bommer & M. Rousseau SPECIES
-=======
+# Microthyrium mangiferae E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

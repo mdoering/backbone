@@ -1,5 +1,4 @@
-Triassistephanidium Dumitrica, 1978 GENUS
-=======
+# Triassistephanidium Dumitrica, 1978 GENUS
 
 #### Status
 ACCEPTED

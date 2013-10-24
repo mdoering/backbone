@@ -1,5 +1,4 @@
-Cercospora pegani X.J. Liu & Y.L. Guo SPECIES
-=======
+# Cercospora pegani X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

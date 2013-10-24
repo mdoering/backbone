@@ -1,5 +1,4 @@
-Stylonectriella herbarum (Strasser) Höhn. SPECIES
-=======
+# Stylonectriella herbarum (Strasser) Höhn. SPECIES
 
 #### Status
 ACCEPTED

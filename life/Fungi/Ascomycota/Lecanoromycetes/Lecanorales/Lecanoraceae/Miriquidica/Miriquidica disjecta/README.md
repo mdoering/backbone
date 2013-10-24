@@ -1,5 +1,4 @@
-Miriquidica disjecta (Nyl.) Hertel & Rambold SPECIES
-=======
+# Miriquidica disjecta (Nyl.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

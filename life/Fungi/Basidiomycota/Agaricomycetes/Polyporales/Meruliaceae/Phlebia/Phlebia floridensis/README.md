@@ -1,5 +1,4 @@
-Phlebia floridensis Nakasone & Burds., 1995 SPECIES
-=======
+# Phlebia floridensis Nakasone & Burds., 1995 SPECIES
 
 #### Status
 ACCEPTED

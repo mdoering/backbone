@@ -1,5 +1,4 @@
-Julella variiformis R. C. Harris SPECIES
-=======
+# Julella variiformis R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

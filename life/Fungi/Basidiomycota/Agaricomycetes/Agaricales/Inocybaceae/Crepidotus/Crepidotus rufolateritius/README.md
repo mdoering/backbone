@@ -1,5 +1,4 @@
-Crepidotus rufolateritius Bres. SPECIES
-=======
+# Crepidotus rufolateritius Bres. SPECIES
 
 #### Status
 ACCEPTED

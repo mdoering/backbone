@@ -1,5 +1,4 @@
-Cothurnia gigantea SPECIES
-=======
+# Cothurnia gigantea SPECIES
 
 #### Status
 ACCEPTED

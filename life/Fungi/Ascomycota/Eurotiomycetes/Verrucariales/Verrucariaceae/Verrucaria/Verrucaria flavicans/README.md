@@ -1,5 +1,4 @@
-Verrucaria flavicans (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria flavicans (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

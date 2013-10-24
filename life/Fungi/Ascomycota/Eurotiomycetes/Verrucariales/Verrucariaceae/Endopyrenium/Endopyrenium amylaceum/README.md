@@ -1,5 +1,4 @@
-Endopyrenium amylaceum (A. Massal.) Jatta SPECIES
-=======
+# Endopyrenium amylaceum (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

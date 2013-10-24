@@ -1,5 +1,4 @@
-Endocarpon rosettum Ajay Singh & Upreti SPECIES
-=======
+# Endocarpon rosettum Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

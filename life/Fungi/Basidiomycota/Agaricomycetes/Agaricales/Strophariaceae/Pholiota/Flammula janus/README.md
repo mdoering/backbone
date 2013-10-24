@@ -1,5 +1,4 @@
-Flammula janus Berk. & Broome SPECIES
-=======
+# Flammula janus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

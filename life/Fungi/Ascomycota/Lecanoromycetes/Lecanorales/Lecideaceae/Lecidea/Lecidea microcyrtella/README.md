@@ -1,5 +1,4 @@
-Lecidea microcyrtella (Anzi) Jatta SPECIES
-=======
+# Lecidea microcyrtella (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

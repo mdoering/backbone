@@ -1,5 +1,4 @@
-Auricularia carteri Berk. SPECIES
-=======
+# Auricularia carteri Berk. SPECIES
 
 #### Status
 ACCEPTED

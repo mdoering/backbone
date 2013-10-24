@@ -1,17 +1,16 @@
-Aphanomyces euteiches f. sp FORM
-=======
+# Aphanomyces euteiches Drechsler, 1925 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 72(3): 309 (1982)
+J. Agric. Res. , Washington 30: 311 (1925)
 
 #### Original name
-Aphanomyces euteiches f. sp
+Aphanomyces euteiches Drechsler, 1925
 
 ### Remarks
 null

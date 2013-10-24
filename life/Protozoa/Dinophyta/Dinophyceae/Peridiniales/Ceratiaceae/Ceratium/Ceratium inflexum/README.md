@@ -1,5 +1,4 @@
-Ceratium inflexum SPECIES
-=======
+# Ceratium inflexum SPECIES
 
 #### Status
 ACCEPTED

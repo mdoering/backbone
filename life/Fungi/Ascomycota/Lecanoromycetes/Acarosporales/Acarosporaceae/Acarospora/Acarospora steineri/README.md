@@ -1,5 +1,4 @@
-Acarospora steineri H. Magn. SPECIES
-=======
+# Acarospora steineri H. Magn. SPECIES
 
 #### Status
 ACCEPTED

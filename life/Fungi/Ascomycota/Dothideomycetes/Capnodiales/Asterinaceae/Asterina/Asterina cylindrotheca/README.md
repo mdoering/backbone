@@ -1,5 +1,4 @@
-Asterina cylindrotheca Speg. SPECIES
-=======
+# Asterina cylindrotheca Speg. SPECIES
 
 #### Status
 ACCEPTED

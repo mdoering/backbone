@@ -1,5 +1,4 @@
-Lasiosphaeria vilis P. Karst. & Har. SPECIES
-=======
+# Lasiosphaeria vilis P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

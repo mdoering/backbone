@@ -1,5 +1,4 @@
-Lobaria beckettii (Stirt.) Zahlbr. SPECIES
-=======
+# Lobaria beckettii (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

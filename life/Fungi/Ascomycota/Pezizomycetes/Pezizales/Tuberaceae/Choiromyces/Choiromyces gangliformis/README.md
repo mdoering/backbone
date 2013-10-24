@@ -1,5 +1,4 @@
-Choiromyces gangliformis Vittad. SPECIES
-=======
+# Choiromyces gangliformis Vittad. SPECIES
 
 #### Status
 ACCEPTED

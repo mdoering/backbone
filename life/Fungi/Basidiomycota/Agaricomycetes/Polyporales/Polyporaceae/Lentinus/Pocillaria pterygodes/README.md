@@ -1,5 +1,4 @@
-Pocillaria pterygodes (Fr.) Kuntze SPECIES
-=======
+# Pocillaria pterygodes (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

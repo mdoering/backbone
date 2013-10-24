@@ -1,5 +1,4 @@
-Phaeosphaeria exarata Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria exarata Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

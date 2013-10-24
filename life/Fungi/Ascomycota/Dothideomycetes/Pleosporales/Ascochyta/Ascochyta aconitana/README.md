@@ -1,17 +1,16 @@
-Ascochyta laconitiana Melnik SPECIES
-=======
+# Ascochyta aconitana Melnik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 8: 206 (1971)
 
 #### Original name
-Ascochyta laconitiana Melnik
+Ascochyta aconiti Sandu
 
 ### Remarks
 null

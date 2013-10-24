@@ -1,5 +1,4 @@
-Thyrostroma vleugelianum Bubák SPECIES
-=======
+# Thyrostroma vleugelianum Bubák SPECIES
 
 #### Status
 ACCEPTED

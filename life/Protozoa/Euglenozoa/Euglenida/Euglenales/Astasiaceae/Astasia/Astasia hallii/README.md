@@ -1,5 +1,4 @@
-Astasia hallii (Jahn & McKibben) Pringsheim SPECIES
-=======
+# Astasia hallii (Jahn & McKibben) Pringsheim SPECIES
 
 #### Status
 ACCEPTED

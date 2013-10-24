@@ -1,5 +1,4 @@
-Polycrater galapagensis Manton & Oates, 1980 SPECIES
-=======
+# Polycrater galapagensis Manton & Oates, 1980 SPECIES
 
 #### Status
 ACCEPTED

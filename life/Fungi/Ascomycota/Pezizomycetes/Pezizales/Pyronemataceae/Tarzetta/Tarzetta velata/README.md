@@ -1,5 +1,4 @@
-Tarzetta velata (Quél.) Svrcek SPECIES
-=======
+# Tarzetta velata (Quél.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

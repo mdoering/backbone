@@ -1,5 +1,4 @@
-Pseudostigmidium fumosum Etayo, 2008 SPECIES
-=======
+# Pseudostigmidium fumosum Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

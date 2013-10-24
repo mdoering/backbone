@@ -1,5 +1,4 @@
-Polyporus haematinus Berk. SPECIES
-=======
+# Polyporus haematinus Berk. SPECIES
 
 #### Status
 ACCEPTED

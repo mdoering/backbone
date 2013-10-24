@@ -1,5 +1,4 @@
-Sphacelotheca titovii Golovin SPECIES
-=======
+# Sphacelotheca titovii Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricharia planicarpa Lücking SPECIES
-=======
+# Tricharia planicarpa Lücking SPECIES
 
 #### Status
 ACCEPTED

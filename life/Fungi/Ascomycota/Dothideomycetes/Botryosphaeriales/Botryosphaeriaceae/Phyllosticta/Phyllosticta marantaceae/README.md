@@ -1,5 +1,4 @@
-Phyllosticta marantaceae Henn. SPECIES
-=======
+# Phyllosticta marantaceae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterobasidium chlorascens Massee SPECIES
-=======
+# Heterobasidium chlorascens Massee SPECIES
 
 #### Status
 ACCEPTED

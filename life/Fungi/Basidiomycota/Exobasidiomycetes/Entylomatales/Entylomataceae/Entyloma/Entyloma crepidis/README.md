@@ -1,5 +1,4 @@
-Entyloma crepidis SPECIES
-=======
+# Entyloma crepidis SPECIES
 
 #### Status
 ACCEPTED

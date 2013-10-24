@@ -1,5 +1,4 @@
-Helicoma nonospora W.B. Kendr. SPECIES
-=======
+# Helicoma nonospora W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

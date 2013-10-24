@@ -1,5 +1,4 @@
-Puccinia epiphylla (L.) Wettst. SPECIES
-=======
+# Puccinia epiphylla (L.) Wettst. SPECIES
 
 #### Status
 ACCEPTED

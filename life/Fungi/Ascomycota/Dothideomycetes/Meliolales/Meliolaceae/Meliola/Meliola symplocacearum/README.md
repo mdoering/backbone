@@ -1,5 +1,4 @@
-Meliola symplocacearum W. Yamam. SPECIES
-=======
+# Meliola symplocacearum W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

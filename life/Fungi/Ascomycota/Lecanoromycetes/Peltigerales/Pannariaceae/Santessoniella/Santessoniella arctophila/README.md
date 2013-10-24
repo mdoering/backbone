@@ -1,5 +1,4 @@
-Santessoniella arctophila var. arctophila VARIETY
-=======
+# Santessoniella arctophila (Th. Fr.) Henssen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Symb. bot. upsal. 32(no. 1): 80 (1997)
 
 #### Original name
-Santessoniella arctophila var. arctophila
+Pannaria arctophila Th. Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypotrachyna fletcheri Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna fletcheri Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

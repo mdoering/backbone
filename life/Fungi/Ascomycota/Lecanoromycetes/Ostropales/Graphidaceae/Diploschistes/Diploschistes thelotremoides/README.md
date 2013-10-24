@@ -1,5 +1,4 @@
-Diploschistes thelotremoides (Leight.) Zahlbr. SPECIES
-=======
+# Diploschistes thelotremoides (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

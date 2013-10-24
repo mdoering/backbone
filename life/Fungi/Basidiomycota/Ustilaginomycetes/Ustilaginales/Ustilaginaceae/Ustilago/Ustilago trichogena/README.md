@@ -1,5 +1,4 @@
-Ustilago trichogena Vánky SPECIES
-=======
+# Ustilago trichogena Vánky SPECIES
 
 #### Status
 ACCEPTED

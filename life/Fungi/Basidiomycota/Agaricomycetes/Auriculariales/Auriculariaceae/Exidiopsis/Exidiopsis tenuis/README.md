@@ -1,5 +1,4 @@
-Exidiopsis tenuis Hauerslev SPECIES
-=======
+# Exidiopsis tenuis Hauerslev SPECIES
 
 #### Status
 ACCEPTED

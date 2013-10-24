@@ -1,5 +1,4 @@
-Trogia laeta Corner SPECIES
-=======
+# Trogia laeta Corner SPECIES
 
 #### Status
 ACCEPTED

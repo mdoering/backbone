@@ -1,5 +1,4 @@
-Sterigmatocystis prasina Bainier SPECIES
-=======
+# Sterigmatocystis prasina Bainier SPECIES
 
 #### Status
 ACCEPTED

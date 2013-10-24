@@ -1,5 +1,4 @@
-Hydropus beniensis Singer SPECIES
-=======
+# Hydropus beniensis Singer SPECIES
 
 #### Status
 ACCEPTED

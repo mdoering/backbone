@@ -1,5 +1,4 @@
-Ascochyta tropaeoli (Sacc. & Speg.) Bond.-Mont. SPECIES
-=======
+# Ascochyta tropaeoli (Sacc. & Speg.) Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

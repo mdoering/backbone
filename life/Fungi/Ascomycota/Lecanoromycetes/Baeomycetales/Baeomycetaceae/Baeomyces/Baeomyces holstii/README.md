@@ -1,5 +1,4 @@
-Baeomyces holstii Müll. Arg. SPECIES
-=======
+# Baeomyces holstii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

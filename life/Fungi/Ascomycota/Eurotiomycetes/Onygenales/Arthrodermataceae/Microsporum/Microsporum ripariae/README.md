@@ -1,5 +1,4 @@
-Microsporum ripariae Hubálek & Rush-Munro, 1973 SPECIES
-=======
+# Microsporum ripariae Hubálek & Rush-Munro, 1973 SPECIES
 
 #### Status
 ACCEPTED

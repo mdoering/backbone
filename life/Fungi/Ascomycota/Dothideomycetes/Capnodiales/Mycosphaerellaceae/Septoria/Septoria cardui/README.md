@@ -1,5 +1,4 @@
-Septoria cardui Tassi SPECIES
-=======
+# Septoria cardui Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus reayi R. Heim SPECIES
-=======
+# Boletus reayi R. Heim SPECIES
 
 #### Status
 ACCEPTED

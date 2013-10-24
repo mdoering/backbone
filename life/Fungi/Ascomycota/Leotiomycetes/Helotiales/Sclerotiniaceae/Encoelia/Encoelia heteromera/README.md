@@ -1,5 +1,4 @@
-Encoelia heteromera (Mont.) Nannf. SPECIES
-=======
+# Encoelia heteromera (Mont.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

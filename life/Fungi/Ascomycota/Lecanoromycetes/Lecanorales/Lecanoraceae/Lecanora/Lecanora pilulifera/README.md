@@ -1,5 +1,4 @@
-Lecanora pilulifera Pers. SPECIES
-=======
+# Lecanora pilulifera Pers. SPECIES
 
 #### Status
 ACCEPTED

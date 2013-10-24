@@ -1,5 +1,4 @@
-Cryptosphaeria cumingii Speg. SPECIES
-=======
+# Cryptosphaeria cumingii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria aenea (Schaer.) SPECIES
-=======
+# Umbilicaria aenea (Schaer.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha hellespontica Vondrák & Kocourk. SPECIES
-=======
+# Opegrapha hellespontica Vondrák & Kocourk. SPECIES
 
 #### Status
 ACCEPTED

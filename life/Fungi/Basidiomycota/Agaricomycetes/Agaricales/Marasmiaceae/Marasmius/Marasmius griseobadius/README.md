@@ -1,5 +1,4 @@
-Marasmius griseobadius Pat. SPECIES
-=======
+# Marasmius griseobadius Pat. SPECIES
 
 #### Status
 ACCEPTED

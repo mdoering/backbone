@@ -1,5 +1,4 @@
-Saccharomyces globulosus Gilkey SPECIES
-=======
+# Saccharomyces globulosus Gilkey SPECIES
 
 #### Status
 ACCEPTED

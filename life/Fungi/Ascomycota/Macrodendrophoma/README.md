@@ -1,5 +1,4 @@
-Macrodendrophoma T. Johnson GENUS
-=======
+# Macrodendrophoma T. Johnson GENUS
 
 #### Status
 ACCEPTED

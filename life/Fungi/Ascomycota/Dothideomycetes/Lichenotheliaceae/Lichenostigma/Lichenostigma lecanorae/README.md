@@ -1,5 +1,4 @@
-Lichenostigma lecanorae Calat. & Nav.-Ros. SPECIES
-=======
+# Lichenostigma lecanorae Calat. & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

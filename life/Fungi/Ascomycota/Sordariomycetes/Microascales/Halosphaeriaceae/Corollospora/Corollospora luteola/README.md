@@ -1,5 +1,4 @@
-Corollospora luteola Nakagiri & Tubaki, 1982 SPECIES
-=======
+# Corollospora luteola Nakagiri & Tubaki, 1982 SPECIES
 
 #### Status
 ACCEPTED

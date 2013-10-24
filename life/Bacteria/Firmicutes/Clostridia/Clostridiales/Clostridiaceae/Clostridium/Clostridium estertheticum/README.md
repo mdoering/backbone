@@ -1,5 +1,4 @@
-Clostridium estertheticum subsp. estertheticum SUBSPECIES
-=======
+# Clostridium estertheticum Collins et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

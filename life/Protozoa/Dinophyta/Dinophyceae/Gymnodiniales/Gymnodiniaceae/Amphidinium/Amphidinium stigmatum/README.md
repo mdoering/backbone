@@ -1,5 +1,4 @@
-Amphidinium stigmatum Schiller SPECIES
-=======
+# Amphidinium stigmatum Schiller SPECIES
 
 #### Status
 ACCEPTED

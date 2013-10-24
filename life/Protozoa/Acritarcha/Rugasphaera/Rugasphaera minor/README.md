@@ -1,5 +1,4 @@
-Rugasphaera minor Jiabo, 1978 SPECIES
-=======
+# Rugasphaera minor Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

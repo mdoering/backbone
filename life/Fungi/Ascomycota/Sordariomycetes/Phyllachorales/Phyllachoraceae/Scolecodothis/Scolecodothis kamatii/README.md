@@ -1,8 +1,7 @@
-Ophiodothella kamatii var. macrospora (Seshadri) A. Pande, 2008 VARIETY
-=======
+# Scolecodothis kamatii Tilak, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

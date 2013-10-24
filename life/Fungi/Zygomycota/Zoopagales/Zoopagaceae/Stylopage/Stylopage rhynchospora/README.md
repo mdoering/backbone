@@ -1,5 +1,4 @@
-Stylopage rhynchospora Drechsler, 1939 SPECIES
-=======
+# Stylopage rhynchospora Drechsler, 1939 SPECIES
 
 #### Status
 ACCEPTED

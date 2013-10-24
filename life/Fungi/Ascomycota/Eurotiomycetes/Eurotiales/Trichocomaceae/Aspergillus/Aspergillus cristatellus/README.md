@@ -1,5 +1,4 @@
-Aspergillus cristatellus Kozak. SPECIES
-=======
+# Aspergillus cristatellus Kozak. SPECIES
 
 #### Status
 ACCEPTED

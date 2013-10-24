@@ -1,5 +1,4 @@
-Helotium fastidiosum Peck SPECIES
-=======
+# Helotium fastidiosum Peck SPECIES
 
 #### Status
 ACCEPTED

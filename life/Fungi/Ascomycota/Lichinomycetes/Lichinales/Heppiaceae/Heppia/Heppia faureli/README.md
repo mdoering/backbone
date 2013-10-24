@@ -1,5 +1,4 @@
-Heppia faureli Werner SPECIES
-=======
+# Heppia faureli Werner SPECIES
 
 #### Status
 ACCEPTED

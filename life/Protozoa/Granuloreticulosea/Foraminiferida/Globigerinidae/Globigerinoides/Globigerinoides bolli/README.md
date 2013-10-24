@@ -1,5 +1,4 @@
-Globigerinoides bolli Blow SPECIES
-=======
+# Globigerinoides bolli Blow SPECIES
 
 #### Status
 ACCEPTED

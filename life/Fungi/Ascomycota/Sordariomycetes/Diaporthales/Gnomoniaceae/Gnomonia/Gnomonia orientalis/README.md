@@ -1,5 +1,4 @@
-Gnomonia orientalis M. Monod SPECIES
-=======
+# Gnomonia orientalis M. Monod SPECIES
 
 #### Status
 ACCEPTED

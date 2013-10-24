@@ -1,5 +1,4 @@
-Hysterium drynariae Berk. & Broome SPECIES
-=======
+# Hysterium drynariae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

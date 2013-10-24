@@ -1,5 +1,4 @@
-Flectobacillus major (Gromov, 1963) Larkin et al., 1977 (Approved Lists, 1980) SPECIES
-=======
+# Flectobacillus major (Gromov, 1963) Larkin et al., 1977 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

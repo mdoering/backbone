@@ -1,5 +1,4 @@
-Cylindrospermum tropicum W. West & G.S. West SPECIES
-=======
+# Cylindrospermum tropicum W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

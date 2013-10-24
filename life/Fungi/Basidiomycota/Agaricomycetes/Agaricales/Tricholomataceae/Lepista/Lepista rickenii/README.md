@@ -1,14 +1,13 @@
-Tricholoma rickeni (Singer) Pilát SPECIES
-=======
+# Lepista rickenii Singer, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 2: 26 (1948)
 
 #### Original name
 Lepista rickenii Singer, 1948

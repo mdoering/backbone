@@ -1,5 +1,4 @@
-Pentophiastromma Haeckel, 1887 GENUS
-=======
+# Pentophiastromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

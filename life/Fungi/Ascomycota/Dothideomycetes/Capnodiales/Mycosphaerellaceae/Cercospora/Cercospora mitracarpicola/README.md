@@ -1,5 +1,4 @@
-Cercospora mitracarpicola J.M. Yen & Gilles SPECIES
-=======
+# Cercospora mitracarpicola J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoventuria nevadensis M.E. Barr & Rogerson SPECIES
-=======
+# Protoventuria nevadensis M.E. Barr & Rogerson SPECIES
 
 #### Status
 ACCEPTED

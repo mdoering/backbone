@@ -1,5 +1,4 @@
-Diplodina phellodendri Koval SPECIES
-=======
+# Diplodina phellodendri Koval SPECIES
 
 #### Status
 ACCEPTED

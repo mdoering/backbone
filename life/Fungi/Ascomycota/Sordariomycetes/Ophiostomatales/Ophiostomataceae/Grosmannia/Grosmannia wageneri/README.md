@@ -1,17 +1,16 @@
-Ophiostoma wageneri var. wageneri VARIETY
-=======
+# Grosmannia wageneri (Goheen & F.W. Cobb) Zipfel, Z.W. de Beer & M.J. Wingf., 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Zipfel, Beer, Jacobs, Wingfield & Wingfield, Stud. Mycol. 55: 92 (2006)
 
 #### Original name
-null
+Ceratocystis wageneri Goheen & F.W. Cobb, 1978
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Chilodonella convexa Kahl, 1931 SPECIES
-=======
+# Odontochlamys convexa (Kahl, 1931) Blatterer & Foissner, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

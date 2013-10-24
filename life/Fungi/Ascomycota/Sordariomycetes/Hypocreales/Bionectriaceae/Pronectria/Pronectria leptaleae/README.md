@@ -1,17 +1,16 @@
-Nectriella leptaleae (J. Steiner) R. Sant., 1984 SPECIES
-=======
+# Pronectria leptaleae (J. Steiner) Lowen, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 39: 462 (1990)
 
 #### Original name
-null
+Pharcidia leptaleae J. Steiner, 1900
 
 ### Remarks
 null

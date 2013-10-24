@@ -1,5 +1,4 @@
-Saccharomyces wuertzii Boutroux SPECIES
-=======
+# Saccharomyces wuertzii Boutroux SPECIES
 
 #### Status
 ACCEPTED

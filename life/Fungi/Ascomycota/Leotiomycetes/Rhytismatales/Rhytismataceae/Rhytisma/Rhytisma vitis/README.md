@@ -1,5 +1,4 @@
-Rhytisma vitis Schwein. SPECIES
-=======
+# Rhytisma vitis Schwein. SPECIES
 
 #### Status
 ACCEPTED

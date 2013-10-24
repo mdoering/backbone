@@ -1,5 +1,4 @@
-Cyphellopsis mellea (Burt) D.A. Reid SPECIES
-=======
+# Cyphellopsis mellea (Burt) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

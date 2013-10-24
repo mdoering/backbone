@@ -1,5 +1,4 @@
-Glyphis montoensis (A. W. Archer) Staiger SPECIES
-=======
+# Glyphis montoensis (A. W. Archer) Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tomentella livida f. livida Litsch. FORM
-=======
+# Tomentella ellisii (Sacc.) Jülich & Stalpers, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 26: 450 (1932)
+Verh. K. ned. Akad. Wet. , 2 Sectie 74: 236 (1980)
 
 #### Original name
-Tomentella livida f. livida Litsch.
+Zygodesmus ellisii Sacc., 1886
 
 ### Remarks
 null

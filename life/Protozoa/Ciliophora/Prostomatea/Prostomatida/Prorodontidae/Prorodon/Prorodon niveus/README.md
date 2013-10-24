@@ -1,8 +1,7 @@
-Pseudoprorodon niveaus Ehrenberg, 1833 SPECIES
-=======
+# Prorodon niveus Ehrenberg, 1834 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

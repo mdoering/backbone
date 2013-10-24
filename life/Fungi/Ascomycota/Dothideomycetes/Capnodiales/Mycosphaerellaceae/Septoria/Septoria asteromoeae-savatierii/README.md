@@ -1,5 +1,4 @@
-Septoria asteromoeae-savatierii Hiray. SPECIES
-=======
+# Septoria asteromoeae-savatierii Hiray. SPECIES
 
 #### Status
 ACCEPTED

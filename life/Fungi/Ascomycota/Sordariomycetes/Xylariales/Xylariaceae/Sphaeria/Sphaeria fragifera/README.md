@@ -1,5 +1,4 @@
-Sphaeria fragifera Tode SPECIES
-=======
+# Sphaeria fragifera Tode SPECIES
 
 #### Status
 ACCEPTED

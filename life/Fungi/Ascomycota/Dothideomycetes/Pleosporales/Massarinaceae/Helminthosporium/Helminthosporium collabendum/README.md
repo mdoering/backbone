@@ -1,17 +1,16 @@
-Helmisporium collabendum Cooke SPECIES
-=======
+# Helminthosporium collabendum Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 17(no. 83): 67 (1889)
 
 #### Original name
-Helmisporium collabendum Cooke
+Helminthosporium collabendum Cooke
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hysterium indicum Seshadri SPECIES
-=======
+# Hysterium indicum Seshadri SPECIES
 
 #### Status
 ACCEPTED

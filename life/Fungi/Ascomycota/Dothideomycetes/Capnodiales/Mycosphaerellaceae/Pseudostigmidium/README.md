@@ -1,5 +1,4 @@
-Pseudostigmidium Etayo GENUS
-=======
+# Pseudostigmidium Etayo GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonidiomyces Vain. GENUS
-=======
+# Gonidiomyces Vain. GENUS
 
 #### Status
 ACCEPTED

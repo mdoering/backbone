@@ -1,8 +1,7 @@
-Euglena crescentia Packard SPECIES
-=======
+# Cyclidiopsis crescentia (Packard) Huber-PeStalozzi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

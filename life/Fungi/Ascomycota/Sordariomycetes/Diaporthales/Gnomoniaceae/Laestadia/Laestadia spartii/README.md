@@ -1,5 +1,4 @@
-Laestadia spartii (Boyer & Jacz.) Sacc. SPECIES
-=======
+# Laestadia spartii (Boyer & Jacz.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

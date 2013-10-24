@@ -1,5 +1,4 @@
-Mallomonas globosa Schiller SPECIES
-=======
+# Mallomonas globosa Schiller SPECIES
 
 #### Status
 ACCEPTED

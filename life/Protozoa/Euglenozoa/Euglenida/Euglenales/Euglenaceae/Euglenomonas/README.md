@@ -1,5 +1,4 @@
-Euglenomonas Skvortzov & M.Noda, 1983 GENUS
-=======
+# Euglenomonas Skvortzov & M.Noda, 1983 GENUS
 
 #### Status
 ACCEPTED

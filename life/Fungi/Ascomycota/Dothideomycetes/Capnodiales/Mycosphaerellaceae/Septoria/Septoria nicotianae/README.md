@@ -1,5 +1,4 @@
-Septoria nicotianae Speg. SPECIES
-=======
+# Septoria nicotianae Speg. SPECIES
 
 #### Status
 ACCEPTED

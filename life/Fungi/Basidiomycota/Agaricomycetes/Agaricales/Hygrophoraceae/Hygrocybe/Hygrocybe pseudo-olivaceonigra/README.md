@@ -1,5 +1,4 @@
-Hygrocybe pseudo-olivaceonigra Picón SPECIES
-=======
+# Hygrocybe pseudo-olivaceonigra Picón SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria communis var. communis VARIETY
-=======
+# Pertusaria communis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 320 (1805)
+null
 
 #### Original name
-Pertusaria communis var. communis
+null
 
 ### Remarks
 null

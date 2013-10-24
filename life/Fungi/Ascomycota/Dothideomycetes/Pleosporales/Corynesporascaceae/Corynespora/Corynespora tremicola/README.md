@@ -1,17 +1,16 @@
-Corynespora trematicola N. Sharma, S. Chaudhary & Kamal SPECIES
-=======
+# Corynespora tremicola N. Sharma, S. Chaudhary & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 55(2): 178 (2002)
 
 #### Original name
-Corynespora trematicola N. Sharma, S. Chaudhary & Kamal
+Corynespora tremicola N. Sharma, S. Chaudhary & Kamal
 
 ### Remarks
 null

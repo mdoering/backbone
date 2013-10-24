@@ -1,5 +1,4 @@
-Bullaria pinaropappi (Syd. & P. Syd.) Arthur & Mains SPECIES
-=======
+# Bullaria pinaropappi (Syd. & P. Syd.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

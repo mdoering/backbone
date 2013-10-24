@@ -1,5 +1,4 @@
-Cortinarius crustulatus Herp. SPECIES
-=======
+# Cortinarius crustulatus Herp. SPECIES
 
 #### Status
 ACCEPTED

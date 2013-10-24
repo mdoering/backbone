@@ -1,5 +1,4 @@
-Anacanthoica cidaris (J. Schlauder) A. Kleijne SPECIES
-=======
+# Anacanthoica cidaris (J. Schlauder) A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum ixorae Griffon & Maubl. SPECIES
-=======
+# Colletotrichum ixorae Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

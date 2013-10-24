@@ -1,17 +1,16 @@
-Heptameria marina (Ellis & Everh.) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria marina Ellis & Everh., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Mycol. 1(3): 43 (1885)
 
 #### Original name
-null
+Leptosphaeria marina Ellis & Everh., 1885
 
 ### Remarks
 null

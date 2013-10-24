@@ -1,5 +1,4 @@
-Phyllosticta couraliae Bat. & I.H. Lima SPECIES
-=======
+# Phyllosticta couraliae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

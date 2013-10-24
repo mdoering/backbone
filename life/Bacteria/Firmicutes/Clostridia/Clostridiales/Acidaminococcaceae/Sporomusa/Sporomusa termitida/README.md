@@ -1,5 +1,4 @@
-Sporomusa termitida Breznak et al., 1990 SPECIES
-=======
+# Sporomusa termitida Breznak et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

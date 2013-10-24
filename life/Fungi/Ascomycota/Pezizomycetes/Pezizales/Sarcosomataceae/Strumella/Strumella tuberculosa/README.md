@@ -1,5 +1,4 @@
-Strumella tuberculosa (Sacc.) Sacc. SPECIES
-=======
+# Strumella tuberculosa (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

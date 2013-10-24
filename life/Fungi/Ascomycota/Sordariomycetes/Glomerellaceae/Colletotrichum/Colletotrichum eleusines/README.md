@@ -1,17 +1,16 @@
-Colletotrichum eleusinis Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum eleusines Pavgi & U.P. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 27: 85 (1965)
 
 #### Original name
-Colletotrichum eleusinis Pavgi & U.P. Singh
+Colletotrichum eleusines Pavgi & U.P. Singh
 
 ### Remarks
 null

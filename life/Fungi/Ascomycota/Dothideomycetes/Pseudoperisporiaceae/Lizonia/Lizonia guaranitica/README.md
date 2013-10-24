@@ -1,5 +1,4 @@
-Lizonia guaranitica Speg. SPECIES
-=======
+# Lizonia guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

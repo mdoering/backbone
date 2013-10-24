@@ -1,14 +1,13 @@
-Gibberidea dulcamarae (Kunze & J.C. Schmidt) Kuntze, 1898 SPECIES
-=======
+# Cucurbitaria dulcamarae (Kunze & J.C. Schmidt) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 481 (1898)
+Summa veg. Scand. (Stockholm), Section Post. 391 (1849)
 
 #### Original name
 Sphaeria dulcamarae Kunze & J.C. Schmidt, 1817

@@ -1,5 +1,4 @@
-Ruttnera chadefaudii SPECIES
-=======
+# Ruttnera chadefaudii SPECIES
 
 #### Status
 ACCEPTED

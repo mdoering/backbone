@@ -1,5 +1,4 @@
-Anixia berkeleyi Naumov SPECIES
-=======
+# Anixia berkeleyi Naumov SPECIES
 
 #### Status
 ACCEPTED

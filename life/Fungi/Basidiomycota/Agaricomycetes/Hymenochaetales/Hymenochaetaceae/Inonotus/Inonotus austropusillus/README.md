@@ -1,5 +1,4 @@
-Inonotus austropusillus Ryvarden, 2005 SPECIES
-=======
+# Inonotus austropusillus Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

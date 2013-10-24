@@ -1,5 +1,4 @@
-Cytospora lonicerae Grove, 1923 SPECIES
-=======
+# Cytospora lonicerae Grove, 1923 SPECIES
 
 #### Status
 ACCEPTED

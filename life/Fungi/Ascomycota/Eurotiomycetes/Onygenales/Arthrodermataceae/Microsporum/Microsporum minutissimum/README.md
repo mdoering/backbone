@@ -1,5 +1,4 @@
-Microsporum minutissimum Burchardt SPECIES
-=======
+# Microsporum minutissimum Burchardt SPECIES
 
 #### Status
 ACCEPTED

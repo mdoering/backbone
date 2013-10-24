@@ -1,5 +1,4 @@
-Paecilomyces brunneolus (N. Inagaki) Samson & Houbraken SPECIES
-=======
+# Paecilomyces brunneolus (N. Inagaki) Samson & Houbraken SPECIES
 
 #### Status
 ACCEPTED

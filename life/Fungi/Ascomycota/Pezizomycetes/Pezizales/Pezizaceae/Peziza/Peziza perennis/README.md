@@ -1,5 +1,4 @@
-Peziza perennis Pers. SPECIES
-=======
+# Peziza perennis Pers. SPECIES
 
 #### Status
 ACCEPTED

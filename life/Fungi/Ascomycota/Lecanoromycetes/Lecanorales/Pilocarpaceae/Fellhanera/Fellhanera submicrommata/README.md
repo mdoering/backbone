@@ -1,5 +1,4 @@
-Fellhanera submicrommata (Vezda) Lücking & Kalb SPECIES
-=======
+# Fellhanera submicrommata (Vezda) Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

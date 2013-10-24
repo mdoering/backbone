@@ -1,8 +1,7 @@
-Dasyscyphus moutoni (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Dasyscyphus moutonii (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

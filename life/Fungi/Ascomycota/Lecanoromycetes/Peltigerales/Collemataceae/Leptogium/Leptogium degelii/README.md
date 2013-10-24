@@ -1,5 +1,4 @@
-Leptogium degelii M. Lindstr. SPECIES
-=======
+# Leptogium degelii M. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

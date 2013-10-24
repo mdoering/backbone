@@ -1,5 +1,4 @@
-Dicellaesporites major P. Ke & Z.Y. Shi SPECIES
-=======
+# Dicellaesporites major P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

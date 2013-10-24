@@ -1,5 +1,4 @@
-Coronosphaera mediterranea (Lohmann, 1902) Gaarder, 1977 SPECIES
-=======
+# Coronosphaera mediterranea (Lohmann, 1902) Gaarder, 1977 SPECIES
 
 #### Status
 ACCEPTED

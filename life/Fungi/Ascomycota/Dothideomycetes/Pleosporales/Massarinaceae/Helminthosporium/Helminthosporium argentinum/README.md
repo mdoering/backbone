@@ -1,5 +1,4 @@
-Helminthosporium argentinum Speg. SPECIES
-=======
+# Helminthosporium argentinum Speg. SPECIES
 
 #### Status
 ACCEPTED

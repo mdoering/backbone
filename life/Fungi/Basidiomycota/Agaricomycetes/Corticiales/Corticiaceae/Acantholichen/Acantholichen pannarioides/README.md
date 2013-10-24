@@ -1,5 +1,4 @@
-Acantholichen pannarioides P.M. Jørg., 1998 SPECIES
-=======
+# Acantholichen pannarioides P.M. Jørg., 1998 SPECIES
 
 #### Status
 ACCEPTED

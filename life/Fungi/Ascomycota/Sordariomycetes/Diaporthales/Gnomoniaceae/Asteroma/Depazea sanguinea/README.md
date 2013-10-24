@@ -1,5 +1,4 @@
-Depazea sanguinea Desm. SPECIES
-=======
+# Depazea sanguinea Desm. SPECIES
 
 #### Status
 ACCEPTED

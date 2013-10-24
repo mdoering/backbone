@@ -1,5 +1,4 @@
-Sarcostroma plagiochaetum (Sacc.) Nag Raj SPECIES
-=======
+# Sarcostroma plagiochaetum (Sacc.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascosphaera xerophila Skou, 1988 SPECIES
-=======
+# Ascosphaera xerophila Skou, 1988 SPECIES
 
 #### Status
 ACCEPTED

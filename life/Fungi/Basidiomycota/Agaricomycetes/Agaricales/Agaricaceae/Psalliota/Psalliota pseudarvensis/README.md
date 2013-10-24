@@ -1,5 +1,4 @@
-Psalliota pseudarvensis Passecker SPECIES
-=======
+# Psalliota pseudarvensis Passecker SPECIES
 
 #### Status
 ACCEPTED

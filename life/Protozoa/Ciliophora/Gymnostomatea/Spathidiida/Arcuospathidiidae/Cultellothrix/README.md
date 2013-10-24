@@ -1,5 +1,4 @@
-Cultellothrix Foissner, 2003 GENUS
-=======
+# Cultellothrix Foissner, 2003 GENUS
 
 #### Status
 ACCEPTED

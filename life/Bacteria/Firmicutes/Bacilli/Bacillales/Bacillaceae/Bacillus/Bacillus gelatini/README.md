@@ -1,5 +1,4 @@
-Bacillus gelatini De Clerck et al., 2004 SPECIES
-=======
+# Bacillus gelatini De Clerck et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora eriobotryae-deflexae Sawada SPECIES
-=======
+# Cercospora eriobotryae-deflexae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe barrerae Cifuentes & Guzmán SPECIES
-=======
+# Psilocybe barrerae Cifuentes & Guzmán SPECIES
 
 #### Status
 ACCEPTED

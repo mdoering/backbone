@@ -1,5 +1,4 @@
-Cruciplacolithus flavius Roth, 1970 SPECIES
-=======
+# Cruciplacolithus flavius Roth, 1970 SPECIES
 
 #### Status
 ACCEPTED

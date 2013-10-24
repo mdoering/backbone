@@ -1,5 +1,4 @@
-Clypeosphaeria phillyreae Sousa da Câmara, 1946 SPECIES
-=======
+# Clypeosphaeria phillyreae Sousa da Câmara, 1946 SPECIES
 
 #### Status
 ACCEPTED

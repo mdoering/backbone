@@ -1,5 +1,4 @@
-Hysterium micrographum De Not. SPECIES
-=======
+# Hysterium micrographum De Not. SPECIES
 
 #### Status
 ACCEPTED

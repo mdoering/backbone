@@ -1,5 +1,4 @@
-Vermicularia insularis (Speg.) Petr. & Syd. SPECIES
-=======
+# Vermicularia insularis (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

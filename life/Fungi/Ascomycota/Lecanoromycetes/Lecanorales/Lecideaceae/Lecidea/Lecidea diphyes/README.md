@@ -1,5 +1,4 @@
-Lecidea diphyes (Nyl.) Branth SPECIES
-=======
+# Lecidea diphyes (Nyl.) Branth SPECIES
 
 #### Status
 ACCEPTED

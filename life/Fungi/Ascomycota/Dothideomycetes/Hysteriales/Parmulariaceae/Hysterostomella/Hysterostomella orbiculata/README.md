@@ -1,5 +1,4 @@
-Hysterostomella orbiculata (P. Syd. & Syd.) Arx, 1962 SPECIES
-=======
+# Hysterostomella orbiculata (P. Syd. & Syd.) Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED

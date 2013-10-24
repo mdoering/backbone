@@ -1,5 +1,4 @@
-Pseudomassaria minor (M.E. Barr) M.E. Barr SPECIES
-=======
+# Pseudomassaria minor (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

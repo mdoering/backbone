@@ -1,5 +1,4 @@
-Penicillium variicola Warcup SPECIES
-=======
+# Penicillium variicola Warcup SPECIES
 
 #### Status
 ACCEPTED

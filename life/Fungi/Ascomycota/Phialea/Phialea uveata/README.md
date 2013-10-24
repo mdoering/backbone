@@ -1,5 +1,4 @@
-Phialea uveata (Schumach.) Sacc. SPECIES
-=======
+# Phialea uveata (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

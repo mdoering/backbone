@@ -1,5 +1,4 @@
-Endocarpon minutum H. Harada SPECIES
-=======
+# Endocarpon minutum H. Harada SPECIES
 
 #### Status
 ACCEPTED

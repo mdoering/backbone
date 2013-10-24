@@ -1,5 +1,4 @@
-Macrophoma allospora (A.C. Santos & Sousa da Câmara) Rieuf SPECIES
-=======
+# Macrophoma allospora (A.C. Santos & Sousa da Câmara) Rieuf SPECIES
 
 #### Status
 ACCEPTED

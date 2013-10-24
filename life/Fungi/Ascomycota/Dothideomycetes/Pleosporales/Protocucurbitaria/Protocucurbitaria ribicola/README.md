@@ -1,5 +1,4 @@
-Protocucurbitaria ribicola Naumov, 1951 SPECIES
-=======
+# Protocucurbitaria ribicola Naumov, 1951 SPECIES
 
 #### Status
 ACCEPTED

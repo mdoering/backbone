@@ -1,5 +1,4 @@
-Lecidea atrocaesia (Nyl.) Nyl. SPECIES
-=======
+# Lecidea atrocaesia (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

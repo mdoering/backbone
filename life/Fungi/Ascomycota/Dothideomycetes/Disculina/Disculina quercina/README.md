@@ -1,5 +1,4 @@
-Disculina quercina anon. SPECIES
-=======
+# Disculina quercina anon. SPECIES
 
 #### Status
 ACCEPTED

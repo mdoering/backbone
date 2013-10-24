@@ -1,5 +1,4 @@
-Micropeltis brosimi Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis brosimi Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta quadriguttulata Kabát & Bubák, 1910 SPECIES
-=======
+# Ascochyta quadriguttulata Kabát & Bubák, 1910 SPECIES
 
 #### Status
 ACCEPTED

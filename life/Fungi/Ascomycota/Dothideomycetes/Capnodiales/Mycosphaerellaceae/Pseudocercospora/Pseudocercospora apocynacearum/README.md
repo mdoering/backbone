@@ -1,5 +1,4 @@
-Pseudocercospora apocynacearum B.K. Gupta & Kamal SPECIES
-=======
+# Pseudocercospora apocynacearum B.K. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

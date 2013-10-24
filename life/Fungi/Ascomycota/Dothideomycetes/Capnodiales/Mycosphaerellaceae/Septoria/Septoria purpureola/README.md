@@ -1,5 +1,4 @@
-Septoria purpureola Speg. SPECIES
-=======
+# Septoria purpureola Speg. SPECIES
 
 #### Status
 ACCEPTED

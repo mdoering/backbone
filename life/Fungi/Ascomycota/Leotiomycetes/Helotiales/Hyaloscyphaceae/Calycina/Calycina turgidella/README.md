@@ -1,14 +1,13 @@
-Helotium turgidellum P. Karst., 1871 SPECIES
-=======
+# Calycina turgidella (P. Karst.) Van Vooren, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 158 (1871)
+Bull. mens. Soc. linn. Lyon 74(spéc. ): 8 (2005)
 
 #### Original name
 Helotium turgidellum P. Karst., 1871

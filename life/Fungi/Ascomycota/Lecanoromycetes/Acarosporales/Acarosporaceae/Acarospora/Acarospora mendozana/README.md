@@ -1,5 +1,4 @@
-Acarospora mendozana H. Magn. SPECIES
-=======
+# Acarospora mendozana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

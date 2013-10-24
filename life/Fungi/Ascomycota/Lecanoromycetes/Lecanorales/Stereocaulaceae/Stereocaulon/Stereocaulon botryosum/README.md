@@ -1,17 +1,16 @@
-Stereocaulon botryosum subsp. botryosum SUBSPECIES
-=======
+# Stereocaulon botryosum Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+in de Candolle & Lamarck, Lich. univ. (1805)
 
 #### Original name
-null
+Stereocaulon botryosum Ach.
 
 ### Remarks
 null

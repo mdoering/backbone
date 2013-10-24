@@ -1,5 +1,4 @@
-Laboulbenia kenyensis W. Rossi & Santam. SPECIES
-=======
+# Laboulbenia kenyensis W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

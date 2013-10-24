@@ -1,5 +1,4 @@
-Wettsteinina junci Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina junci Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

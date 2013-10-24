@@ -1,5 +1,4 @@
-Flammula depressa Murrill SPECIES
-=======
+# Flammula depressa Murrill SPECIES
 
 #### Status
 ACCEPTED

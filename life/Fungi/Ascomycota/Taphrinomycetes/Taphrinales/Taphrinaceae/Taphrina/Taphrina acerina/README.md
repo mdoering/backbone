@@ -1,5 +1,4 @@
-Taphrina acerina (A.G. Eliasson) Giesenh. SPECIES
-=======
+# Taphrina acerina (A.G. Eliasson) Giesenh. SPECIES
 
 #### Status
 ACCEPTED

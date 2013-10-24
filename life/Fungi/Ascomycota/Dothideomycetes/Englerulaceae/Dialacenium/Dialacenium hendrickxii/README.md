@@ -1,5 +1,4 @@
-Dialacenium hendrickxii Hansf. SPECIES
-=======
+# Dialacenium hendrickxii Hansf. SPECIES
 
 #### Status
 ACCEPTED

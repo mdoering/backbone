@@ -1,5 +1,4 @@
-Buellia caesioatra J. Steiner SPECIES
-=======
+# Buellia caesioatra J. Steiner SPECIES
 
 #### Status
 ACCEPTED

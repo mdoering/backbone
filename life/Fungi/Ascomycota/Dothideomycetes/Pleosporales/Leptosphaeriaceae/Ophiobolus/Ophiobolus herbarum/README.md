@@ -1,5 +1,4 @@
-Ophiobolus herbarum (G.H. Otth) Sacc. SPECIES
-=======
+# Ophiobolus herbarum (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

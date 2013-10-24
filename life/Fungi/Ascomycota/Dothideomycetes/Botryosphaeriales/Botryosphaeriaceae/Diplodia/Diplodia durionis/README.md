@@ -1,5 +1,4 @@
-Diplodia durionis Sacc. & P. Syd. SPECIES
-=======
+# Diplodia durionis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

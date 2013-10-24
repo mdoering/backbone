@@ -1,5 +1,4 @@
-Poria hyperborea (Berk.) Cooke SPECIES
-=======
+# Poria hyperborea (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

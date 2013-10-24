@@ -1,5 +1,4 @@
-Puccinia poculiformis (Jacq.) Wettst. SPECIES
-=======
+# Puccinia poculiformis (Jacq.) Wettst. SPECIES
 
 #### Status
 ACCEPTED

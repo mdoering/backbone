@@ -1,17 +1,16 @@
-Peniophora sheari Burt SPECIES
-=======
+# Peniophora shearii Burt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 12: 268 (1926)
 
 #### Original name
-Peniophora sheari Burt
+Peniophora shearii Burt
 
 ### Remarks
 null

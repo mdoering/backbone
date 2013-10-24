@@ -1,14 +1,13 @@
-Seimatosporium berkmansii (Milbrath) B. Sutton SPECIES
-=======
+# Seimatosporium berckmansii (Milbrath) B. Sutton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 138: 64 (1975)
 
 #### Original name
 Coryneum berckmansii Milbrath

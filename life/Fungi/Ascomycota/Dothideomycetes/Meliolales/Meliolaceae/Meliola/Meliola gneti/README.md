@@ -1,5 +1,4 @@
-Meliola gneti Hansf. SPECIES
-=======
+# Meliola gneti Hansf. SPECIES
 
 #### Status
 ACCEPTED

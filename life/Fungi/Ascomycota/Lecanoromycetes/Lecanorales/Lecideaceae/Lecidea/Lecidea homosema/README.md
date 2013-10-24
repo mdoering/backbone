@@ -1,5 +1,4 @@
-Lecidea homosema Nyl. SPECIES
-=======
+# Lecidea homosema Nyl. SPECIES
 
 #### Status
 ACCEPTED

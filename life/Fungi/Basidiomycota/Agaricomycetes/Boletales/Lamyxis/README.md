@@ -1,5 +1,4 @@
-Lamyxis Raf. GENUS
-=======
+# Lamyxis Raf. GENUS
 
 #### Status
 ACCEPTED

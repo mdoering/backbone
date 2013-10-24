@@ -1,5 +1,4 @@
-Dictycoryne trimaculatum Tan & Tchang SPECIES
-=======
+# Dictycoryne trimaculatum Tan & Tchang SPECIES
 
 #### Status
 ACCEPTED

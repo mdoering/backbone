@@ -1,14 +1,13 @@
-Scenidium simile (Berk.) Kuntze, 1898 SPECIES
-=======
+# Hexagonia similis Berk., 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 516 (1898)
+J. Bot. , London 4 (1846)
 
 #### Original name
 Hexagonia similis Berk., 1846

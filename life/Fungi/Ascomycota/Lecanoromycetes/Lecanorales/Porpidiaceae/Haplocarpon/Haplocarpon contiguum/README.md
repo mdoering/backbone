@@ -1,5 +1,4 @@
-Haplocarpon contiguum f. contiguum FORM
-=======
+# Haplocarpon contiguum SPECIES
 
 #### Status
 ACCEPTED

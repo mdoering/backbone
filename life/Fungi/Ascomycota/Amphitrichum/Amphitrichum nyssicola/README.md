@@ -1,5 +1,4 @@
-Amphitrichum nyssicola (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Amphitrichum nyssicola (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

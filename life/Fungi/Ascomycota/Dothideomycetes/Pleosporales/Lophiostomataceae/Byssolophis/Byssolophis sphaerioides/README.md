@@ -1,17 +1,16 @@
-Hysterium sphaerioides var. ledi DC. VARIETY
-=======
+# Byssolophis sphaerioides (P. Karst.) E. Müll., 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 165 (1815)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 341 (1962)
 
 #### Original name
-Hysterium sphaerioides var. ledi DC.
+Hysterium sphaerioides P. Karst., 1872
 
 ### Remarks
 null

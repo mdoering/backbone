@@ -1,5 +1,4 @@
-Pyricularia oncosperma Yanna, W.H. Ho & K.D. Hyde SPECIES
-=======
+# Pyricularia oncosperma Yanna, W.H. Ho & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

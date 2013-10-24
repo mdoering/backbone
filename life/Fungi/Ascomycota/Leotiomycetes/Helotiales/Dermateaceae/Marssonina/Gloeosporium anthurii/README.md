@@ -1,5 +1,4 @@
-Gloeosporium anthurii Allesch. SPECIES
-=======
+# Gloeosporium anthurii Allesch. SPECIES
 
 #### Status
 ACCEPTED

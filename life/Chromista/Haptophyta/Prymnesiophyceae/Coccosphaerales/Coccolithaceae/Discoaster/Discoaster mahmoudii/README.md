@@ -1,5 +1,4 @@
-Discoaster mahmoudii Perch-Nielsen, 1981 SPECIES
-=======
+# Discoaster mahmoudii Perch-Nielsen, 1981 SPECIES
 
 #### Status
 ACCEPTED

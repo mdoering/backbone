@@ -1,5 +1,4 @@
-Aegerita carnea Pat. SPECIES
-=======
+# Aegerita carnea Pat. SPECIES
 
 #### Status
 ACCEPTED

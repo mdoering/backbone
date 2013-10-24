@@ -1,5 +1,4 @@
-Enterocytozoon salmonis Hedrick, Groff & Baxa, 1991 SPECIES
-=======
+# Enterocytozoon salmonis Hedrick, Groff & Baxa, 1991 SPECIES
 
 #### Status
 ACCEPTED

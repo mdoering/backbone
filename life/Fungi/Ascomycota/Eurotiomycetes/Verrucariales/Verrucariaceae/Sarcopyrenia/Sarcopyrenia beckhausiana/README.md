@@ -1,5 +1,4 @@
-Sarcopyrenia beckhausiana (J. Lahm) M.B. Aguirre, Nav.-Ros. & Hladún SPECIES
-=======
+# Sarcopyrenia beckhausiana (J. Lahm) M.B. Aguirre, Nav.-Ros. & Hladún SPECIES
 
 #### Status
 ACCEPTED

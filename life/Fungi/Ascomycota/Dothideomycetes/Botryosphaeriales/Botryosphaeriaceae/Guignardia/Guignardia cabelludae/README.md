@@ -1,5 +1,4 @@
-Guignardia cabelludae (Rangel) Sacc. SPECIES
-=======
+# Guignardia cabelludae (Rangel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

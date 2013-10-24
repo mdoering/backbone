@@ -1,5 +1,4 @@
-Notila Cleveland GENUS
-=======
+# Notila Cleveland GENUS
 
 #### Status
 ACCEPTED

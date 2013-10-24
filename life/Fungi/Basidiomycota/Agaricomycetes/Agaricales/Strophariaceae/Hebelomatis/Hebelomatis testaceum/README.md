@@ -1,5 +1,4 @@
-Hebelomatis testaceum (Fr.) Locq. SPECIES
-=======
+# Hebelomatis testaceum (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

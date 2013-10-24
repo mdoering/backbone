@@ -1,5 +1,4 @@
-Botryobasidium stigmatisporum Boidin & Gilles, 1988 SPECIES
-=======
+# Botryobasidium stigmatisporum Boidin & Gilles, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caricola J.Y. Zhuang SPECIES
-=======
+# Puccinia caricola J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calosphaeria crataegi Mouton SPECIES
-=======
+# Calosphaeria crataegi Mouton SPECIES
 
 #### Status
 ACCEPTED

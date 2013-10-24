@@ -1,5 +1,4 @@
-Limacinia alaskensis Sacc. & Scalia SPECIES
-=======
+# Limacinia alaskensis Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea peragrata Fée SPECIES
-=======
+# Lecidea peragrata Fée SPECIES
 
 #### Status
 ACCEPTED

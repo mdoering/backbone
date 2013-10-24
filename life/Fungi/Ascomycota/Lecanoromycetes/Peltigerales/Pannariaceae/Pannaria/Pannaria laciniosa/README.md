@@ -1,5 +1,4 @@
-Pannaria laciniosa Hue SPECIES
-=======
+# Pannaria laciniosa Hue SPECIES
 
 #### Status
 ACCEPTED

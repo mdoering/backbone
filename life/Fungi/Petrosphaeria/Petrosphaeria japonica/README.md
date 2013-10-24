@@ -1,5 +1,4 @@
-Petrosphaeria japonica Stopes & H. Fujii SPECIES
-=======
+# Petrosphaeria japonica Stopes & H. Fujii SPECIES
 
 #### Status
 ACCEPTED

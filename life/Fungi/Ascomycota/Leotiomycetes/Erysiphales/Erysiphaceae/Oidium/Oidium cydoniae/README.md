@@ -1,5 +1,4 @@
-Oidium cydoniae Pass. SPECIES
-=======
+# Oidium cydoniae Pass. SPECIES
 
 #### Status
 ACCEPTED

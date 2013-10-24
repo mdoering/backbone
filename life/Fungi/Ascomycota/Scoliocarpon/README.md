@@ -1,5 +1,4 @@
-Scoliocarpon Nyl. GENUS
-=======
+# Scoliocarpon Nyl. GENUS
 
 #### Status
 ACCEPTED

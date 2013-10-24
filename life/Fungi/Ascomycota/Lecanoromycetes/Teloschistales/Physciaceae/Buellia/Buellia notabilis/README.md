@@ -1,5 +1,4 @@
-Buellia notabilis Lynge SPECIES
-=======
+# Buellia notabilis Lynge SPECIES
 
 #### Status
 ACCEPTED

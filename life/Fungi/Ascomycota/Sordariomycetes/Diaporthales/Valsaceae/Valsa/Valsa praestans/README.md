@@ -1,5 +1,4 @@
-Valsa praestans Berk. & M.A. Curtis SPECIES
-=======
+# Valsa praestans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

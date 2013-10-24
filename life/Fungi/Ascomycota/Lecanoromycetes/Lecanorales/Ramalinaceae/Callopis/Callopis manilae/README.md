@@ -1,5 +1,4 @@
-Callopis manilae Gyeln. SPECIES
-=======
+# Callopis manilae Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza pellucens Ces. SPECIES
-=======
+# Peziza pellucens Ces. SPECIES
 
 #### Status
 ACCEPTED

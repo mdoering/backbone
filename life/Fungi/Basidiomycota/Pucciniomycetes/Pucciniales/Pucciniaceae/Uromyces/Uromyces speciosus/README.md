@@ -1,5 +1,4 @@
-Uromyces speciosus Holw. SPECIES
-=======
+# Uromyces speciosus Holw. SPECIES
 
 #### Status
 ACCEPTED

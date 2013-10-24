@@ -1,17 +1,16 @@
-Scleroderma verrucosum var. verrucosum VARIETY
-=======
+# Scleroderma verrucosum (Bull.) Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syn. meth. fung. (Göttingen) 1: 154 (1801)
 
 #### Original name
-Scleroderma verrucosum var. verrucosum
+Lycoperdon verrucosum Bull., 1791
 
 ### Remarks
 null

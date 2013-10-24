@@ -1,5 +1,4 @@
-Methanoculleus submarinus Mikucki et al., 2003 SPECIES
-=======
+# Methanoculleus submarinus Mikucki et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

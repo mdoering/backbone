@@ -1,5 +1,4 @@
-Calicium cinereum Pers. SPECIES
-=======
+# Calicium cinereum Pers. SPECIES
 
 #### Status
 ACCEPTED

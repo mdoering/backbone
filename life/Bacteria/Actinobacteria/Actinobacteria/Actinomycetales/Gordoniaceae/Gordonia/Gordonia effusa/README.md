@@ -1,5 +1,4 @@
-Gordonia effusa Kageyama et al., 2006 SPECIES
-=======
+# Gordonia effusa Kageyama et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

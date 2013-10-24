@@ -1,5 +1,4 @@
-Lecidea floridana (Tuck.) Hue SPECIES
-=======
+# Lecidea floridana (Tuck.) Hue SPECIES
 
 #### Status
 ACCEPTED

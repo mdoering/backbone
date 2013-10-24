@@ -1,5 +1,4 @@
-Botrytis fuscata Corda SPECIES
-=======
+# Botrytis fuscata Corda SPECIES
 
 #### Status
 ACCEPTED

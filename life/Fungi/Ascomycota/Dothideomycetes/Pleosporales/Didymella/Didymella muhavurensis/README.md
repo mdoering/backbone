@@ -1,5 +1,4 @@
-Didymella muhavurensis Hansf. SPECIES
-=======
+# Didymella muhavurensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

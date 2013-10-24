@@ -1,5 +1,4 @@
-Metastrongylidium distichum Xu & Lei, 2007 SPECIES
-=======
+# Metastrongylidium distichum Xu & Lei, 2007 SPECIES
 
 #### Status
 ACCEPTED

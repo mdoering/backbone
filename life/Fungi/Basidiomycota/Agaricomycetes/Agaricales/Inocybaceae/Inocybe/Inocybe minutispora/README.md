@@ -1,5 +1,4 @@
-Inocybe minutispora Murrill SPECIES
-=======
+# Inocybe minutispora Murrill SPECIES
 
 #### Status
 ACCEPTED

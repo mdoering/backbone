@@ -1,5 +1,4 @@
-Phoma atriplicis Lobik SPECIES
-=======
+# Phoma atriplicis Lobik SPECIES
 
 #### Status
 ACCEPTED

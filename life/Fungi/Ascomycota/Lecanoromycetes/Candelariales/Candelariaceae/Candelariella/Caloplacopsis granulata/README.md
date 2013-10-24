@@ -1,5 +1,4 @@
-Caloplacopsis granulata (Schaer.) Szatala SPECIES
-=======
+# Caloplacopsis granulata (Schaer.) Szatala SPECIES
 
 #### Status
 ACCEPTED

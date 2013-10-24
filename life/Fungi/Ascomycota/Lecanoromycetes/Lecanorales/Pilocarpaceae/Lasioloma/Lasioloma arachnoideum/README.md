@@ -1,14 +1,13 @@
-Phlyctis arachnoidea Kremp. SPECIES
-=======
+# Lasioloma arachnoideum (Kremp.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Foliic. Leg. Beccari 11 (1874)
+Symb. bot. upsal. 12(no. 1): 547 (1952)
 
 #### Original name
 Phlyctis arachnoidea Kremp.

@@ -1,5 +1,4 @@
-Feldmannia rhizoidea Hollenberg & I.A. Abbott SPECIES
-=======
+# Feldmannia rhizoidea Hollenberg & I.A. Abbott SPECIES
 
 #### Status
 ACCEPTED

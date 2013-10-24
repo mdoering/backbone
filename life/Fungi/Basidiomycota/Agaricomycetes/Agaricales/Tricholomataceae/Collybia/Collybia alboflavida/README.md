@@ -1,17 +1,16 @@
-Collybia alboflavida var. alboflavida VARIETY
-=======
+# Collybia alboflavida (Peck) Kauffman SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Pap. Mich. Acad. Sci. 1: 127 (1921)
 
 #### Original name
-null
+Agaricus alboflavidus Peck
 
 ### Remarks
 null

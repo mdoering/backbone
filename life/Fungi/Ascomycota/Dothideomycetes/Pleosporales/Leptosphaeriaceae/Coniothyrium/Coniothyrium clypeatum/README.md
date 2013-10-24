@@ -1,5 +1,4 @@
-Coniothyrium clypeatum (Cooke & Ellis) Kuntze SPECIES
-=======
+# Coniothyrium clypeatum (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

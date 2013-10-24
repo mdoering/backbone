@@ -1,5 +1,4 @@
-Cercosporella chalcanthi Annal. SPECIES
-=======
+# Cercosporella chalcanthi Annal. SPECIES
 
 #### Status
 ACCEPTED

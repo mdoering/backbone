@@ -1,5 +1,4 @@
-Hypogymnia bryophila McCune SPECIES
-=======
+# Hypogymnia bryophila McCune SPECIES
 
 #### Status
 ACCEPTED

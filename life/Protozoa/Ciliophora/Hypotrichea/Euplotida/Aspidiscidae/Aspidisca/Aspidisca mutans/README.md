@@ -1,5 +1,4 @@
-Aspidisca mutans Kahl, 1932 SPECIES
-=======
+# Aspidisca mutans Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

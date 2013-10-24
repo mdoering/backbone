@@ -1,5 +1,4 @@
-Methanococcus maripaludis Jones et al., 1984 SPECIES
-=======
+# Methanococcus maripaludis Jones et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

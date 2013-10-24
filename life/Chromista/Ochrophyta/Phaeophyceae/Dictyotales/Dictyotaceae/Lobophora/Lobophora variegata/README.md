@@ -1,8 +1,7 @@
-Lobophora nigrescens J. Agardh SPECIES
-=======
+# Lobophora variegata (Lamouroux) Womersley ex Oliveira SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

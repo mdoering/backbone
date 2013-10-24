@@ -1,5 +1,4 @@
-Caloplaca vitellinoides Verseghy SPECIES
-=======
+# Caloplaca vitellinoides Verseghy SPECIES
 
 #### Status
 ACCEPTED

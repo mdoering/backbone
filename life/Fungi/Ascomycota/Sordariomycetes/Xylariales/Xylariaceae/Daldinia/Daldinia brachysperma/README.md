@@ -1,5 +1,4 @@
-Daldinia brachysperma F. San Martín, Y.M. Ju & J.D. Rogers, 1997 SPECIES
-=======
+# Daldinia brachysperma F. San Martín, Y.M. Ju & J.D. Rogers, 1997 SPECIES
 
 #### Status
 ACCEPTED

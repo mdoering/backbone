@@ -1,17 +1,16 @@
-Absidia blakesleeana var. blakesleeana Lendn., 1924 VARIETY
-=======
+# Lichtheimia blakesleeana (Lendn.) Kerst. Hoffm., Walther & K. Voigt, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Genève, 2 sér. 15: 149 (1924)
+Mycol. Res. 113(3): 277 (2009)
 
 #### Original name
-Absidia blakesleeana var. blakesleeana Lendn., 1924
+Absidia blakesleeana Lendn., 1924
 
 ### Remarks
 null

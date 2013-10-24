@@ -1,5 +1,4 @@
-Hygrophorus suzukaensis Hongo SPECIES
-=======
+# Hygrophorus suzukaensis Hongo SPECIES
 
 #### Status
 ACCEPTED

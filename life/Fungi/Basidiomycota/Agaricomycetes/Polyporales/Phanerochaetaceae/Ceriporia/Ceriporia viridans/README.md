@@ -1,17 +1,16 @@
-Poria viridans f. viridans FORM
-=======
+# Ceriporia viridans (Berk. & Broome) Donk, 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meddn Bot. Mus. Herb. Rijhs Universit. Utrecht. 9: 171 (1933)
 
 #### Original name
-null
+Polyporus viridans Berk. & Broome, 1861
 
 ### Remarks
 null

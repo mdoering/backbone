@@ -1,5 +1,4 @@
-Uredo Pers. GENUS
-=======
+# Uredo Pers. GENUS
 
 #### Status
 ACCEPTED

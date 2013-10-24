@@ -1,5 +1,4 @@
-Vanakripa minutiellipsoidea Pinnoi, 2003 SPECIES
-=======
+# Vanakripa minutiellipsoidea Pinnoi, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon macrocenangium Ces. SPECIES
-=======
+# Hypoxylon macrocenangium Ces. SPECIES
 
 #### Status
 ACCEPTED

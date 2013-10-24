@@ -1,5 +1,4 @@
-Lachnum ludmilae Velen. SPECIES
-=======
+# Lachnum ludmilae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula uleana var. uleana VARIETY
-=======
+# Pterula uleana Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 36: 197 (1897)
 
 #### Original name
-Pterula uleana var. uleana
+Pterula uleana Henn.
 
 ### Remarks
 null

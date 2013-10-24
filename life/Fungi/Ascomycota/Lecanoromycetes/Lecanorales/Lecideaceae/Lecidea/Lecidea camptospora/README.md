@@ -1,5 +1,4 @@
-Lecidea camptospora Vain. SPECIES
-=======
+# Lecidea camptospora Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clarkeinda caparidensis Cout. SPECIES
-=======
+# Clarkeinda caparidensis Cout. SPECIES
 
 #### Status
 ACCEPTED

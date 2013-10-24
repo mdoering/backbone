@@ -1,5 +1,4 @@
-Arthopyrenia cinchonae (Ach.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia cinchonae (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

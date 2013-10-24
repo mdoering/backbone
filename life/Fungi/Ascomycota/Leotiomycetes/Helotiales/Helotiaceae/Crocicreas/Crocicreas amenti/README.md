@@ -1,14 +1,13 @@
-Pezizella amenti (Batsch) Dennis, 1956 SPECIES
-=======
+# Crocicreas amenti (Batsch) S.E. Carp., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 62: 55 (1956)
+Brittonia 32(2): 269 (1980)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Lanternithus minutus Stradner, 1962 SPECIES
-=======
+# Lanternithus minutus Stradner, 1962 SPECIES
 
 #### Status
 ACCEPTED

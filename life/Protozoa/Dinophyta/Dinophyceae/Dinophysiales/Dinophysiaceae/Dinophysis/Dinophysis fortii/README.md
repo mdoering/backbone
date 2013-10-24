@@ -1,14 +1,13 @@
-Dinophysis laevis (Bergh, 1881) Pouchet, 1883 SPECIES
-=======
+# Dinophysis fortii Pavillard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pavillard J. 1916. Recherches sur les Péridiniens du Golfe du Lion. <i>Trav. Inst. Bot. Univ. Montpellier </i>4: 9-70.
 
 #### Original name
 null

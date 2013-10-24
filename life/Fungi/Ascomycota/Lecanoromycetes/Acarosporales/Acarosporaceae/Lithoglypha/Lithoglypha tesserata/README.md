@@ -1,5 +1,4 @@
-Lithoglypha tesserata (DC.) Nyl. SPECIES
-=======
+# Lithoglypha tesserata (DC.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

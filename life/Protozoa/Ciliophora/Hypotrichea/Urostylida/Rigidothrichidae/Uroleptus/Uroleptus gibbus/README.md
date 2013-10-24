@@ -1,5 +1,4 @@
-Uroleptus gibbus C. L. SPECIES
-=======
+# Uroleptus gibbus C. L. SPECIES
 
 #### Status
 ACCEPTED

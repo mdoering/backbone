@@ -1,5 +1,4 @@
-Citromyces sormanii Carbone SPECIES
-=======
+# Citromyces sormanii Carbone SPECIES
 
 #### Status
 ACCEPTED

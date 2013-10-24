@@ -1,5 +1,4 @@
-Teichospora prosopidicola Speg. SPECIES
-=======
+# Teichospora prosopidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

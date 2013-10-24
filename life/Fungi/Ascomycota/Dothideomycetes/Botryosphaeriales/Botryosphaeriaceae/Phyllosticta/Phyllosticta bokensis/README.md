@@ -1,5 +1,4 @@
-Phyllosticta bokensis (Henn.) Aa SPECIES
-=======
+# Phyllosticta bokensis (Henn.) Aa SPECIES
 
 #### Status
 ACCEPTED

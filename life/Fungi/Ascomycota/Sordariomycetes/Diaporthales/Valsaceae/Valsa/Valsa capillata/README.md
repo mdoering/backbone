@@ -1,5 +1,4 @@
-Valsa capillata Ellis & Everh. SPECIES
-=======
+# Valsa capillata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

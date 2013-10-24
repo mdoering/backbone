@@ -1,5 +1,4 @@
-Sclerotium pulverulentum Speg. SPECIES
-=======
+# Sclerotium pulverulentum Speg. SPECIES
 
 #### Status
 ACCEPTED

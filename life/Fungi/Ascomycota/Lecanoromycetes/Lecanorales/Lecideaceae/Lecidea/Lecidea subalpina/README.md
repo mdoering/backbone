@@ -1,5 +1,4 @@
-Lecidea subalpina Zahlbr. SPECIES
-=======
+# Lecidea subalpina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

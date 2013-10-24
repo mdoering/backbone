@@ -1,5 +1,4 @@
-Tetramelaena triseptata (Vain.) C.W. Dodge SPECIES
-=======
+# Tetramelaena triseptata (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

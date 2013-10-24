@@ -1,5 +1,4 @@
-Stereocaulon supervestiens H. Magn. SPECIES
-=======
+# Stereocaulon supervestiens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

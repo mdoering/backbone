@@ -1,5 +1,4 @@
-Phyllosticta thermopsidis Thüm. SPECIES
-=======
+# Phyllosticta thermopsidis Thüm. SPECIES
 
 #### Status
 ACCEPTED

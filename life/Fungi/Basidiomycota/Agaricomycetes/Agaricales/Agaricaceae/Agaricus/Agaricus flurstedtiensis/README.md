@@ -1,5 +1,4 @@
-Agaricus flurstedtiensis Batsch SPECIES
-=======
+# Agaricus flurstedtiensis Batsch SPECIES
 
 #### Status
 ACCEPTED

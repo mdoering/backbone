@@ -1,17 +1,16 @@
-Verticillium sinuatophiale Matsush. SPECIES
-=======
+# Verticillium sinuatiphiale Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 8: 42 (1995)
 
 #### Original name
-Verticillium sinuatophiale Matsush.
+Verticillium sinuatiphiale Matsush.
 
 ### Remarks
 null

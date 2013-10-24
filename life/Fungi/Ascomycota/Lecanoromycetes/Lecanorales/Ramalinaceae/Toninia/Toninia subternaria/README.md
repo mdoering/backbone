@@ -1,5 +1,4 @@
-Toninia subternaria (Vain.) Zahlbr. SPECIES
-=======
+# Toninia subternaria (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

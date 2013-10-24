@@ -1,17 +1,16 @@
-Cercospora angulata SPECIES
-=======
+# Cercospora ribis Earle, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 25: 366 (1898)
 
 #### Original name
-Cercospora angulata
+Cercospora ribis Earle, 1898
 
 ### Remarks
 null

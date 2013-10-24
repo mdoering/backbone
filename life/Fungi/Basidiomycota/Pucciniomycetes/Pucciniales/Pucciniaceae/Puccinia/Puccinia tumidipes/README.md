@@ -1,5 +1,4 @@
-Puccinia tumidipes var. tumidipes VARIETY
-=======
+# Puccinia tumidipes Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Torrey bot. Club 12: 34 (1885)
 
 #### Original name
-Puccinia tumidipes var. tumidipes
+Puccinia tumidipes Peck
 
 ### Remarks
 null

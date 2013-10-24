@@ -1,5 +1,4 @@
-Endocarpon neopallidulum H. Harada SPECIES
-=======
+# Endocarpon neopallidulum H. Harada SPECIES
 
 #### Status
 ACCEPTED

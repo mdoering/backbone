@@ -1,5 +1,4 @@
-Microthyriolum calatheae Bat. SPECIES
-=======
+# Microthyriolum calatheae Bat. SPECIES
 
 #### Status
 ACCEPTED

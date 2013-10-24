@@ -1,5 +1,4 @@
-Lecania thallophila H. Magn. SPECIES
-=======
+# Lecania thallophila H. Magn. SPECIES
 
 #### Status
 ACCEPTED

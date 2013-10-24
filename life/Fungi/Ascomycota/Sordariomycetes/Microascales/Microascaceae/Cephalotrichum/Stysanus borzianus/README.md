@@ -1,5 +1,4 @@
-Stysanus borzianus Sacc. SPECIES
-=======
+# Stysanus borzianus Sacc. SPECIES
 
 #### Status
 ACCEPTED

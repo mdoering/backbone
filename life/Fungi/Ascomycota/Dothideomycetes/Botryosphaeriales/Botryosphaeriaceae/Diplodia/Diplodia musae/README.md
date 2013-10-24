@@ -1,5 +1,4 @@
-Diplodia musae Died. SPECIES
-=======
+# Diplodia musae Died. SPECIES
 
 #### Status
 ACCEPTED

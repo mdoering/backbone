@@ -1,5 +1,4 @@
-Heteropatella dianthi Buddin & Wakef. SPECIES
-=======
+# Heteropatella dianthi Buddin & Wakef. SPECIES
 
 #### Status
 ACCEPTED

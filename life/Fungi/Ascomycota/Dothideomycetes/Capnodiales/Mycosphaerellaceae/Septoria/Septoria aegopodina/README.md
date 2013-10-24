@@ -1,5 +1,4 @@
-Septoria aegopodina var. aegopodina VARIETY
-=======
+# Septoria aegopodina Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 2): 185 (1878)
 
 #### Original name
-Septoria aegopodina var. aegopodina
+Septoria aegopodina Sacc.
 
 ### Remarks
 null

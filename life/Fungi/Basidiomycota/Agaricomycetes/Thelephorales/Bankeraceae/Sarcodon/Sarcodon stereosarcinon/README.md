@@ -1,17 +1,16 @@
-Sarcodon brevipes Coker, 1959 SPECIES
-=======
+# Sarcodon stereosarcinon Wehm., 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 55: 375 (1959)
+Canadian Journal of Research, Section C 18: 102 (1940)
 
 #### Original name
-Sarcodon brevipes Coker, 1959
+Sarcodon stereosarcinon Wehm., 1940
 
 ### Remarks
 null

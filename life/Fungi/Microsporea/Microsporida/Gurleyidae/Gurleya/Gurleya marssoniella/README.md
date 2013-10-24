@@ -1,5 +1,4 @@
-Gurleya marssoniella Doflein SPECIES
-=======
+# Gurleya marssoniella Doflein SPECIES
 
 #### Status
 ACCEPTED

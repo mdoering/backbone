@@ -1,5 +1,4 @@
-Leptothyrium fuegianum Speg. SPECIES
-=======
+# Leptothyrium fuegianum Speg. SPECIES
 
 #### Status
 ACCEPTED

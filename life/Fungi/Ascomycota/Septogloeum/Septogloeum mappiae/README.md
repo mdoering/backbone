@@ -1,5 +1,4 @@
-Septogloeum mappiae Petch SPECIES
-=======
+# Septogloeum mappiae Petch SPECIES
 
 #### Status
 ACCEPTED

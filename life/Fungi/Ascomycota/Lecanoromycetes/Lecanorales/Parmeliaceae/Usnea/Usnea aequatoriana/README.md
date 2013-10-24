@@ -1,5 +1,4 @@
-Usnea aequatoriana Motyka SPECIES
-=======
+# Usnea aequatoriana Motyka SPECIES
 
 #### Status
 ACCEPTED

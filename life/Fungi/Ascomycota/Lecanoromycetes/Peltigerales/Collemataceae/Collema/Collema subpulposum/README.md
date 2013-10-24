@@ -1,5 +1,4 @@
-Collema subpulposum Nyl. SPECIES
-=======
+# Collema subpulposum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus pseudodomesticus Henn. SPECIES
-=======
+# Coprinus pseudodomesticus Henn. SPECIES
 
 #### Status
 ACCEPTED

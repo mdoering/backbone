@@ -1,5 +1,4 @@
-Drepanoconis divertigastra C. Ciccar., 1989 SPECIES
-=======
+# Drepanoconis divertigastra C. Ciccar., 1989 SPECIES
 
 #### Status
 ACCEPTED

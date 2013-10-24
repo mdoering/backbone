@@ -1,5 +1,4 @@
-Trachelocerca tenuicolis Quennerstedt, 1867 SPECIES
-=======
+# Trachelocerca tenuicolis Quennerstedt, 1867 SPECIES
 
 #### Status
 ACCEPTED

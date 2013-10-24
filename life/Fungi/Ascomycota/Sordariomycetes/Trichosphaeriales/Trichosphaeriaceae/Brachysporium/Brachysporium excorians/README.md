@@ -1,5 +1,4 @@
-Brachysporium excorians McAlpine SPECIES
-=======
+# Brachysporium excorians McAlpine SPECIES
 
 #### Status
 ACCEPTED

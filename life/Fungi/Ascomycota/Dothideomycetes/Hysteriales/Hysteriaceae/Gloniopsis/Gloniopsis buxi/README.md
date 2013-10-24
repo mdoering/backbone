@@ -1,5 +1,4 @@
-Gloniopsis buxi Petr. SPECIES
-=======
+# Gloniopsis buxi Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wailesella Deflandre, 1928 GENUS
-=======
+# Wailesella Deflandre, 1928 GENUS
 
 #### Status
 ACCEPTED

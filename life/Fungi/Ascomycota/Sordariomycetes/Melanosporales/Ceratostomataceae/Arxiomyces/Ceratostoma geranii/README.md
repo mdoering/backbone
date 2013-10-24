@@ -1,5 +1,4 @@
-Ceratostoma geranii Rieuf SPECIES
-=======
+# Ceratostoma geranii Rieuf SPECIES
 
 #### Status
 ACCEPTED

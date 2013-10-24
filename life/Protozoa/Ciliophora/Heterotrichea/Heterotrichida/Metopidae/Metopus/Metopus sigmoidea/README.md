@@ -1,5 +1,4 @@
-Metopus sigmoidea SPECIES
-=======
+# Metopus sigmoidea SPECIES
 
 #### Status
 ACCEPTED

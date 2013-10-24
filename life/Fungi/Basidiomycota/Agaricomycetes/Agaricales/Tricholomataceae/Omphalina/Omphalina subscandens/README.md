@@ -1,5 +1,4 @@
-Omphalina subscandens (Raithelh.) Raithelh. SPECIES
-=======
+# Omphalina subscandens (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

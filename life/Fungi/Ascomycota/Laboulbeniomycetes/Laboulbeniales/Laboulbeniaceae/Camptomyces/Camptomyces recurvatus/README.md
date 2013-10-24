@@ -1,5 +1,4 @@
-Camptomyces recurvatus Thaxt., 1926 SPECIES
-=======
+# Camptomyces recurvatus Thaxt., 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascospora mali Fuckel SPECIES
-=======
+# Ascospora mali Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium crepidis-montanae Syd. & P. Syd. SPECIES
-=======
+# Aecidium crepidis-montanae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

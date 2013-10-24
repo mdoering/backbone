@@ -1,5 +1,4 @@
-Diplotomma subdispersa (Mig.) Etayo & Breuss SPECIES
-=======
+# Diplotomma subdispersa (Mig.) Etayo & Breuss SPECIES
 
 #### Status
 ACCEPTED

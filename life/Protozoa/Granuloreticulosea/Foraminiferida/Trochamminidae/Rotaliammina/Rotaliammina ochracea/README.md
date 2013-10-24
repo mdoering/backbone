@@ -1,5 +1,4 @@
-Rotaliammina ochracea (Williamson, 1858) SPECIES
-=======
+# Rotaliammina ochracea (Williamson, 1858) SPECIES
 
 #### Status
 ACCEPTED

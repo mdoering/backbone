@@ -1,5 +1,4 @@
-Parmelia leucothrix Flot. SPECIES
-=======
+# Parmelia leucothrix Flot. SPECIES
 
 #### Status
 ACCEPTED

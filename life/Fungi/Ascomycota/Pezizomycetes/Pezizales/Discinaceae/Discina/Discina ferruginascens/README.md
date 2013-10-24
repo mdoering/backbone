@@ -1,5 +1,4 @@
-Discina ferruginascens (Boud.) Sacc. & Traverso SPECIES
-=======
+# Discina ferruginascens (Boud.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

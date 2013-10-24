@@ -1,5 +1,4 @@
-Porophora coriacea (Th. Fr.) SPECIES
-=======
+# Porophora coriacea (Th. Fr.) SPECIES
 
 #### Status
 ACCEPTED

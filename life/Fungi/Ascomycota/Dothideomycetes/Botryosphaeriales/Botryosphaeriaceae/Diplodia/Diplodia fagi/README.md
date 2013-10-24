@@ -1,5 +1,4 @@
-Diplodia fagi anon. SPECIES
-=======
+# Diplodia fagi anon. SPECIES
 
 #### Status
 ACCEPTED

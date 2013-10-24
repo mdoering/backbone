@@ -1,5 +1,4 @@
-Zoothamnium rudolphi SPECIES
-=======
+# Zoothamnium rudolphi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia minima Raitv. & Kutorga SPECIES
-=======
+# Mollisia minima Raitv. & Kutorga SPECIES
 
 #### Status
 ACCEPTED

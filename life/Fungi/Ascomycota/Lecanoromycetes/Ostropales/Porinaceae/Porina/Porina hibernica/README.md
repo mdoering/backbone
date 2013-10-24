@@ -1,5 +1,4 @@
-Porina hibernica P. James & Swinscow SPECIES
-=======
+# Porina hibernica P. James & Swinscow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia glomerulans (Poelt) Poelt SPECIES
-=======
+# Aspicilia glomerulans (Poelt) Poelt SPECIES
 
 #### Status
 ACCEPTED

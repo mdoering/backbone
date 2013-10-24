@@ -1,5 +1,4 @@
-Phomopsis filicina H.C. Greene SPECIES
-=======
+# Phomopsis filicina H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

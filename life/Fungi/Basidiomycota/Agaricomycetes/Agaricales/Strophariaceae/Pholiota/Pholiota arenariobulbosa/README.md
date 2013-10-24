@@ -1,5 +1,4 @@
-Pholiota arenariobulbosa (Cleland) Grgur. SPECIES
-=======
+# Pholiota arenariobulbosa (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

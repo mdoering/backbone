@@ -1,5 +1,4 @@
-Kuehneola dryadis Azbukina & Zenkova, 1966 SPECIES
-=======
+# Kuehneola dryadis Azbukina & Zenkova, 1966 SPECIES
 
 #### Status
 ACCEPTED

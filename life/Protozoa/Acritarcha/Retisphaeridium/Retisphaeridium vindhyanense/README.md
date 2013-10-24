@@ -1,5 +1,4 @@
-Retisphaeridium vindhyanense P. K. Maithy SPECIES
-=======
+# Retisphaeridium vindhyanense P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

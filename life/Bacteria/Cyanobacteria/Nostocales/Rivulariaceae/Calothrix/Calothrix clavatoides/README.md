@@ -1,5 +1,4 @@
-Calothrix clavatoides Ghose SPECIES
-=======
+# Calothrix clavatoides Ghose SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema acharianum G. Salisb. SPECIES
-=======
+# Thelotrema acharianum G. Salisb. SPECIES
 
 #### Status
 ACCEPTED

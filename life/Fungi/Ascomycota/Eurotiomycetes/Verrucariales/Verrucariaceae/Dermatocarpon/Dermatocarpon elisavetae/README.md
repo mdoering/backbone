@@ -1,5 +1,4 @@
-Dermatocarpon elisavetae Tomin SPECIES
-=======
+# Dermatocarpon elisavetae Tomin SPECIES
 
 #### Status
 ACCEPTED

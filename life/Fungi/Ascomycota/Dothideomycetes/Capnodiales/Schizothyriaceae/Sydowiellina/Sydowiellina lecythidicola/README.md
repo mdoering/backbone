@@ -1,5 +1,4 @@
-Sydowiellina lecythidicola Bat. & I.H. Lima SPECIES
-=======
+# Sydowiellina lecythidicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

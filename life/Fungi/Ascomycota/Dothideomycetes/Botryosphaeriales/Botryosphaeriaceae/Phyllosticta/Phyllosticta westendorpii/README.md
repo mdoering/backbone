@@ -1,5 +1,4 @@
-Phyllosticta westendorpii Thüm., 1880 SPECIES
-=======
+# Phyllosticta westendorpii Thüm., 1880 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporum insigne Massee & E.S. Salmon SPECIES
-=======
+# Trichosporum insigne Massee & E.S. Salmon SPECIES
 
 #### Status
 ACCEPTED

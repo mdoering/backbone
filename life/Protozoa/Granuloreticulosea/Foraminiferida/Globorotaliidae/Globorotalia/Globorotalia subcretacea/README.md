@@ -1,5 +1,4 @@
-Globorotalia subcretacea (Lomnicki) SPECIES
-=======
+# Globorotalia subcretacea (Lomnicki) SPECIES
 
 #### Status
 ACCEPTED

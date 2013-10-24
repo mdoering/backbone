@@ -1,5 +1,4 @@
-Neobarya peltigerae Lowen, Boqueras & Gómez-Bolea, 2007 SPECIES
-=======
+# Neobarya peltigerae Lowen, Boqueras & Gómez-Bolea, 2007 SPECIES
 
 #### Status
 ACCEPTED

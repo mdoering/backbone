@@ -1,5 +1,4 @@
-Biatora subcongrua (Nyl.) Hav. SPECIES
-=======
+# Biatora subcongrua (Nyl.) Hav. SPECIES
 
 #### Status
 ACCEPTED

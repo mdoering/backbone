@@ -1,5 +1,4 @@
-Phoma idaei Oudem., 1901 SPECIES
-=======
+# Phoma idaei Oudem., 1901 SPECIES
 
 #### Status
 ACCEPTED

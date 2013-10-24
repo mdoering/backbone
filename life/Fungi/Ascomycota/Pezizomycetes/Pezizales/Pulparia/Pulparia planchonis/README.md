@@ -1,5 +1,4 @@
-Pulparia planchonis var. planchonis VARIETY
-=======
+# Pulparia planchonis (Dunal ex Boud.) Korf, Pfister & J.K. Rogers SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Phytologia 21(4): 206 (1971)
 
 #### Original name
-Pulparia planchonis var. planchonis
+Plicaria planchonis Dunal ex Boud.
 
 ### Remarks
 null

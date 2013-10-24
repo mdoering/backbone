@@ -1,5 +1,4 @@
-Polymyces luxurians Battarra SPECIES
-=======
+# Polymyces luxurians Battarra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phoma lysimachiae Cooke, 1885 SPECIES
-=======
+# Phomopsis lysimachiae (Cooke) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

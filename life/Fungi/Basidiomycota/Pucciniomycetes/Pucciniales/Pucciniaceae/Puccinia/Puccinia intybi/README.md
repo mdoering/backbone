@@ -1,5 +1,4 @@
-Puccinia intybi (Juel) Syd. & P. Syd. SPECIES
-=======
+# Puccinia intybi (Juel) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

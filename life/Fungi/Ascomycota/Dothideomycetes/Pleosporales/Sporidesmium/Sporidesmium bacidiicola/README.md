@@ -1,5 +1,4 @@
-Sporidesmium bacidiicola Alstrup SPECIES
-=======
+# Sporidesmium bacidiicola Alstrup SPECIES
 
 #### Status
 ACCEPTED

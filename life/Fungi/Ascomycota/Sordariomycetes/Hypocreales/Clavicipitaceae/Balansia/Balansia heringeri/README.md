@@ -1,5 +1,4 @@
-Balansia heringeri Bat. & Peres SPECIES
-=======
+# Balansia heringeri Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

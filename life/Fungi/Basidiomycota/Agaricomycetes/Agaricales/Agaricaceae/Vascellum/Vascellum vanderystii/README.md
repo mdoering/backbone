@@ -1,5 +1,4 @@
-Vascellum vanderystii (Bres.) P. Ponce de León SPECIES
-=======
+# Vascellum vanderystii (Bres.) P. Ponce de León SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrgillus hawaiiensis Zahlbr. SPECIES
-=======
+# Pyrgillus hawaiiensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

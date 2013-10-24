@@ -1,5 +1,4 @@
-Yamatoum atlanticum SPECIES
-=======
+# Yamatoum atlanticum SPECIES
 
 #### Status
 ACCEPTED

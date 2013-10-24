@@ -1,5 +1,4 @@
-Illosporium tuberculosum Sacc. SPECIES
-=======
+# Illosporium tuberculosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

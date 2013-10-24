@@ -1,5 +1,4 @@
-Cephalosporium furcatum M. Moreau & Moreau SPECIES
-=======
+# Cephalosporium furcatum M. Moreau & Moreau SPECIES
 
 #### Status
 ACCEPTED

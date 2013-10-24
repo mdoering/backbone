@@ -1,5 +1,4 @@
-Biatora lignyota (Wahlenb.) Fr. SPECIES
-=======
+# Biatora lignyota (Wahlenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

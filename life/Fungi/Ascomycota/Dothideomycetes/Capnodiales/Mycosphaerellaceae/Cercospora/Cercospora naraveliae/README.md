@@ -1,5 +1,4 @@
-Cercospora naraveliae A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora naraveliae A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

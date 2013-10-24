@@ -1,5 +1,4 @@
-Melosira pfaffiana Reinsch SPECIES
-=======
+# Melosira pfaffiana Reinsch SPECIES
 
 #### Status
 ACCEPTED

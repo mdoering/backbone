@@ -1,5 +1,4 @@
-Agaricus solidus Lasch SPECIES
-=======
+# Agaricus solidus Lasch SPECIES
 
 #### Status
 ACCEPTED

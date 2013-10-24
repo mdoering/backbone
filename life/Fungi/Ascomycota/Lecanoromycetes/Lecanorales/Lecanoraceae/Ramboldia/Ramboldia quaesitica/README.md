@@ -1,5 +1,4 @@
-Ramboldia quaesitica Elix & Kalb SPECIES
-=======
+# Ramboldia quaesitica Elix & Kalb SPECIES
 
 #### Status
 ACCEPTED

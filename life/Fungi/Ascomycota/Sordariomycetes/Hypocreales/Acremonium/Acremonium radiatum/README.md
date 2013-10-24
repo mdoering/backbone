@@ -1,14 +1,13 @@
-Cephalosporium acremonium var. radiatum Sukapure & Thirum., 1966 VARIETY
-=======
+# Acremonium radiatum (Sukapure & Thirum.) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 19: 172 (1966)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 125 (1971)
 
 #### Original name
 Cephalosporium acremonium var. radiatum Sukapure & Thirum., 1966

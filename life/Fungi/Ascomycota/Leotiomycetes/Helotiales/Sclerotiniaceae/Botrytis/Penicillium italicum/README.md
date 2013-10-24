@@ -1,5 +1,4 @@
-Penicillium italicum Wehmer, 1894 SPECIES
-=======
+# Penicillium italicum Wehmer, 1894 SPECIES
 
 #### Status
 DOUBTFUL

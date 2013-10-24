@@ -1,5 +1,4 @@
-Polyphagus starrii Johns SPECIES
-=======
+# Polyphagus starrii Johns SPECIES
 
 #### Status
 ACCEPTED

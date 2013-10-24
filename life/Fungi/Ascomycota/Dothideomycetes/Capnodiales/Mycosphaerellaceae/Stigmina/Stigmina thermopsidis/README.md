@@ -1,5 +1,4 @@
-Stigmina thermopsidis Harkn. SPECIES
-=======
+# Stigmina thermopsidis Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus salicinus Rostr. SPECIES
-=======
+# Ophiobolus salicinus Rostr. SPECIES
 
 #### Status
 ACCEPTED

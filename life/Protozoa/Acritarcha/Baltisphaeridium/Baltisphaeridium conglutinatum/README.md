@@ -1,5 +1,4 @@
-Baltisphaeridium conglutinatum Yin Leiming, 1986 SPECIES
-=======
+# Baltisphaeridium conglutinatum Yin Leiming, 1986 SPECIES
 
 #### Status
 ACCEPTED

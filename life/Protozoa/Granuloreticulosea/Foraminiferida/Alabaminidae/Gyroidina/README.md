@@ -1,14 +1,13 @@
-Giroidina Guérin, 1844 GENUS
-=======
+# Gyroidina d'Orbigny, 1826 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. , 2 (Moll. ), pl. 2, fig. 81.
+Ann. Sci. Nat. , 7 (27), 278.
 
 #### Original name
 null

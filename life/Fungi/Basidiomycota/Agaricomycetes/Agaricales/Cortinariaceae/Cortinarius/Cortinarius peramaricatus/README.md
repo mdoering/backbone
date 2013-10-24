@@ -1,5 +1,4 @@
-Cortinarius peramaricatus (Rob. Henry) Reumaux SPECIES
-=======
+# Cortinarius peramaricatus (Rob. Henry) Reumaux SPECIES
 
 #### Status
 ACCEPTED

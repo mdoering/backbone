@@ -1,5 +1,4 @@
-Amazonotheca Bat. & H. Maia GENUS
-=======
+# Amazonotheca Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

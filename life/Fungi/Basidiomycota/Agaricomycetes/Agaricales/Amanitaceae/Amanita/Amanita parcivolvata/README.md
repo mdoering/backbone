@@ -1,5 +1,4 @@
-Amanita parcivolvata (Peck) J.E. Gilbert SPECIES
-=======
+# Amanita parcivolvata (Peck) J.E. Gilbert SPECIES
 
 #### Status
 ACCEPTED

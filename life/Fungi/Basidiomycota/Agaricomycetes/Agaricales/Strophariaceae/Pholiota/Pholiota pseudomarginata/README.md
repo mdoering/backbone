@@ -1,5 +1,4 @@
-Pholiota pseudomarginata Hruby SPECIES
-=======
+# Pholiota pseudomarginata Hruby SPECIES
 
 #### Status
 ACCEPTED

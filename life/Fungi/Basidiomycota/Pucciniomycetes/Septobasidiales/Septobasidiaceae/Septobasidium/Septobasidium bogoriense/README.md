@@ -1,5 +1,4 @@
-Septobasidium bogoriense Pat., 1899 SPECIES
-=======
+# Septobasidium bogoriense Pat., 1899 SPECIES
 
 #### Status
 ACCEPTED

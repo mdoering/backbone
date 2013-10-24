@@ -1,5 +1,4 @@
-Mycoplasma phocae SPECIES
-=======
+# Mycoplasma phocae SPECIES
 
 #### Status
 ACCEPTED

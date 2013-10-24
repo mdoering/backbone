@@ -1,5 +1,4 @@
-Sphaerella persica (Syd.) Sacc. & Trotter SPECIES
-=======
+# Sphaerella persica (Syd.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora polita (Fr.) Kuntze SPECIES
-=======
+# Filaspora polita (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

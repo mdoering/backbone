@@ -1,5 +1,4 @@
-Bovista pampeana Speg. SPECIES
-=======
+# Bovista pampeana Speg. SPECIES
 
 #### Status
 ACCEPTED

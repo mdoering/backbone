@@ -1,5 +1,4 @@
-Cladonia beaumontii (Tuck.) Fink SPECIES
-=======
+# Cladonia beaumontii (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

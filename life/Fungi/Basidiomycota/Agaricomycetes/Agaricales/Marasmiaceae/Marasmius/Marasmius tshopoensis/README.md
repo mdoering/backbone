@@ -1,5 +1,4 @@
-Marasmius tshopoensis Antonín SPECIES
-=======
+# Marasmius tshopoensis Antonín SPECIES
 
 #### Status
 ACCEPTED

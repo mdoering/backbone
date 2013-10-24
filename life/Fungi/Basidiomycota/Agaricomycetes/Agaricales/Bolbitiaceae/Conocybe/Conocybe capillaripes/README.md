@@ -1,5 +1,4 @@
-Conocybe capillaripes (Peck) Watling SPECIES
-=======
+# Conocybe capillaripes (Peck) Watling SPECIES
 
 #### Status
 ACCEPTED

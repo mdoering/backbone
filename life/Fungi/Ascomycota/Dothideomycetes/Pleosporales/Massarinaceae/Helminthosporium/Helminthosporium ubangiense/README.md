@@ -1,5 +1,4 @@
-Helminthosporium ubangiense Henn. SPECIES
-=======
+# Helminthosporium ubangiense Henn. SPECIES
 
 #### Status
 ACCEPTED

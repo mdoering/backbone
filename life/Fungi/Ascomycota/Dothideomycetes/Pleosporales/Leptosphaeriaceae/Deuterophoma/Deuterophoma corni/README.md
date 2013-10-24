@@ -1,5 +1,4 @@
-Deuterophoma corni Naumov & Czerepan. SPECIES
-=======
+# Deuterophoma corni Naumov & Czerepan. SPECIES
 
 #### Status
 ACCEPTED

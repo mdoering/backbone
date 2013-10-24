@@ -1,17 +1,16 @@
-Tomentella flavovirens subsp. viridiflava Bourdot & Galzin SUBSPECIES
-=======
+# Pseudotomentella flavovirens (Höhn. & Litsch.) Svrcek, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 40(2): 138 (1924)
+Ceská Mykol. 12: 68 (1958)
 
 #### Original name
-Tomentella flavovirens subsp. viridiflava Bourdot & Galzin
+Tomentella flavovirens Höhn. & Litsch., 1907
 
 ### Remarks
 null

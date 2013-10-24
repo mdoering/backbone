@@ -1,5 +1,4 @@
-Pseudomicrothorax crenula (Conn in Conn & Edmondson, 1918) Jankowski, 2007 SPECIES
-=======
+# Pseudomicrothorax crenula (Conn in Conn & Edmondson, 1918) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

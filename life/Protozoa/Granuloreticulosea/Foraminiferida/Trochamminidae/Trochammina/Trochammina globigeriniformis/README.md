@@ -1,5 +1,4 @@
-Trochammina globigeriniformis SPECIES
-=======
+# Trochammina globigeriniformis SPECIES
 
 #### Status
 ACCEPTED

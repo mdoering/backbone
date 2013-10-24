@@ -1,5 +1,4 @@
-Niptera dentata f. dentata FORM
-=======
+# Niptera dentata Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Niptera dentata f. dentata
+Niptera dentata Fuckel
 
 ### Remarks
 null

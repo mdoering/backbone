@@ -1,5 +1,4 @@
-Microphoma malvae N.F. Buchw. SPECIES
-=======
+# Microphoma malvae N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

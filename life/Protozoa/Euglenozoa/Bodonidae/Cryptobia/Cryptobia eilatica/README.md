@@ -1,5 +1,4 @@
-Cryptobia eilatica Diamant, 1990 SPECIES
-=======
+# Cryptobia eilatica Diamant, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia otagensis Zahlbr. SPECIES
-=======
+# Parmelia otagensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

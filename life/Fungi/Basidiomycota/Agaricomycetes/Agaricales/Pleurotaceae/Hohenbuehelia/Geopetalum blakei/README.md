@@ -1,5 +1,4 @@
-Geopetalum blakei (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Geopetalum blakei (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

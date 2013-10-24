@@ -1,5 +1,4 @@
-Parmelia assimilis Brusse SPECIES
-=======
+# Parmelia assimilis Brusse SPECIES
 
 #### Status
 ACCEPTED

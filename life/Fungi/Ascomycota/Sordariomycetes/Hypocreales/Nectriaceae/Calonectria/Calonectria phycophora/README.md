@@ -1,5 +1,4 @@
-Calonectria phycophora Döbbeler SPECIES
-=======
+# Calonectria phycophora Döbbeler SPECIES
 
 #### Status
 ACCEPTED

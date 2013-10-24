@@ -1,5 +1,4 @@
-Zygolithites GENUS
-=======
+# Zygolithites GENUS
 
 #### Status
 ACCEPTED

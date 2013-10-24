@@ -1,5 +1,4 @@
-Blastenia fuscoferruginea (Kremp.) Zahlbr. SPECIES
-=======
+# Blastenia fuscoferruginea (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

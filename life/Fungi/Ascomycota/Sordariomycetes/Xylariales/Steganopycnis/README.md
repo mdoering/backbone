@@ -1,5 +1,4 @@
-Steganopycnis GENUS
-=======
+# Steganopycnis GENUS
 
 #### Status
 ACCEPTED

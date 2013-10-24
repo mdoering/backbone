@@ -1,5 +1,4 @@
-Astasia margaritifera Schmarda SPECIES
-=======
+# Astasia margaritifera Schmarda SPECIES
 
 #### Status
 ACCEPTED

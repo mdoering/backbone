@@ -1,5 +1,4 @@
-Phoma alterosae Viégas SPECIES
-=======
+# Phoma alterosae Viégas SPECIES
 
 #### Status
 ACCEPTED

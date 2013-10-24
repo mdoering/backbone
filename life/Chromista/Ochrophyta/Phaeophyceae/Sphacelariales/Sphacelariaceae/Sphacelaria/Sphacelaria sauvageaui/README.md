@@ -1,5 +1,4 @@
-Sphacelaria sauvageaui Weber-van Bosse SPECIES
-=======
+# Sphacelaria sauvageaui Weber-van Bosse SPECIES
 
 #### Status
 ACCEPTED

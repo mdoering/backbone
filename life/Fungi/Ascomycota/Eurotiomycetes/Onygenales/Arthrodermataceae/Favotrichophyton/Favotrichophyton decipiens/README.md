@@ -1,5 +1,4 @@
-Favotrichophyton decipiens Boedijn & Verbunt SPECIES
-=======
+# Favotrichophyton decipiens Boedijn & Verbunt SPECIES
 
 #### Status
 ACCEPTED

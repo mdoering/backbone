@@ -1,5 +1,4 @@
-Pseudoprorodon pratensis SPECIES
-=======
+# Pseudoprorodon pratensis SPECIES
 
 #### Status
 ACCEPTED

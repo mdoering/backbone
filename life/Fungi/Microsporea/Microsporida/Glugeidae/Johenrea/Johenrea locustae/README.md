@@ -1,5 +1,4 @@
-Johenrea locustae C.E. Langeb, J.J. Becnel, E. Razafindratiana, J. Przybyszewski & H. Razafindrafara SPECIES
-=======
+# Johenrea locustae C.E. Langeb, J.J. Becnel, E. Razafindratiana, J. Przybyszewski & H. Razafindrafara SPECIES
 
 #### Status
 ACCEPTED

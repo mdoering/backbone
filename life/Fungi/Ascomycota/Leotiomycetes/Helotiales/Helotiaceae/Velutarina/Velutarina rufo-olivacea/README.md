@@ -1,14 +1,13 @@
-Lachnella fraxinicola (Berk. & Broome) W. Phillips, 1887 SPECIES
-=======
+# Velutarina rufo-olivacea (Alb. & Schwein.) Korf, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 275 (1887)
+Mycologia 45: 476 (1953)
 
 #### Original name
 null

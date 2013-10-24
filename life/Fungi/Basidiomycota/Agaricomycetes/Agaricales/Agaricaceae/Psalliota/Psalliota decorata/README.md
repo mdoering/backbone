@@ -1,5 +1,4 @@
-Psalliota decorata F.H. Møller SPECIES
-=======
+# Psalliota decorata F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

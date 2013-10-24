@@ -1,5 +1,4 @@
-Amandinea montana (H. Magn.) Marbach SPECIES
-=======
+# Amandinea montana (H. Magn.) Marbach SPECIES
 
 #### Status
 ACCEPTED

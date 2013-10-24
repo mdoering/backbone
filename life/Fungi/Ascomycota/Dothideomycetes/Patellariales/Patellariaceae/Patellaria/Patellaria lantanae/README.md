@@ -1,5 +1,4 @@
-Patellaria lantanae R. Rao SPECIES
-=======
+# Patellaria lantanae R. Rao SPECIES
 
 #### Status
 ACCEPTED

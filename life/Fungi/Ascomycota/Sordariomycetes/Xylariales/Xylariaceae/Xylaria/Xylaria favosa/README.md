@@ -1,5 +1,4 @@
-Xylaria favosa Berk. & M.A. Curtis SPECIES
-=======
+# Xylaria favosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

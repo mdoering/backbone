@@ -1,5 +1,4 @@
-Aecidium ailanthi J.Y. Zhuang SPECIES
-=======
+# Aecidium ailanthi J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

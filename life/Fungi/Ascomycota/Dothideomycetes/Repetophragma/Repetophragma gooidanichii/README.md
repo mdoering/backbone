@@ -1,5 +1,4 @@
-Repetophragma gooidanichii SPECIES
-=======
+# Repetophragma gooidanichii SPECIES
 
 #### Status
 ACCEPTED

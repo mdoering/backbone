@@ -1,5 +1,4 @@
-Hygrophoropsis purpurascens (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Hygrophoropsis purpurascens (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

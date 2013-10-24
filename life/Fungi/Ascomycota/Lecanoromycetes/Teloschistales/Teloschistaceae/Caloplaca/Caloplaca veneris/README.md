@@ -1,5 +1,4 @@
-Caloplaca veneris Cl. Roux & Nav.-Ros. SPECIES
-=======
+# Caloplaca veneris Cl. Roux & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

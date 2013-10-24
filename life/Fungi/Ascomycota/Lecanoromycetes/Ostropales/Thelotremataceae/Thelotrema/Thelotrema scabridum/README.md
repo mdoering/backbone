@@ -1,5 +1,4 @@
-Thelotrema scabridum Anzi SPECIES
-=======
+# Thelotrema scabridum Anzi SPECIES
 
 #### Status
 ACCEPTED

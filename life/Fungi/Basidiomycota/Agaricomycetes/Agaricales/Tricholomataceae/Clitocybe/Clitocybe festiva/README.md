@@ -1,5 +1,4 @@
-Clitocybe festiva J. Favre, 1955 SPECIES
-=======
+# Clitocybe festiva J. Favre, 1955 SPECIES
 
 #### Status
 ACCEPTED

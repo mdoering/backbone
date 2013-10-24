@@ -1,5 +1,4 @@
-Lecidea cyanosarca f. cyanosarca FORM
-=======
+# Lecidea cyanosarca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 3: 557 (1925)
 
 #### Original name
-Lecidea cyanosarca f. cyanosarca
+Lecidea cyanosarca Zahlbr.
 
 ### Remarks
 null

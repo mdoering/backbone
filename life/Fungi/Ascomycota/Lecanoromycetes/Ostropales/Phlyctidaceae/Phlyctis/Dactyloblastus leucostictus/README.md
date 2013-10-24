@@ -1,5 +1,4 @@
-Dactyloblastus leucostictus (Mont.) Trevis. SPECIES
-=======
+# Dactyloblastus leucostictus (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

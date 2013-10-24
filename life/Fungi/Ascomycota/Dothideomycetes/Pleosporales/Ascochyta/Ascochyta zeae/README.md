@@ -1,5 +1,4 @@
-Ascochyta zeae G.L. Stout SPECIES
-=======
+# Ascochyta zeae G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

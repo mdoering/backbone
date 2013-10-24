@@ -1,5 +1,4 @@
-Lecanographa azurea Follmann SPECIES
-=======
+# Lecanographa azurea Follmann SPECIES
 
 #### Status
 ACCEPTED

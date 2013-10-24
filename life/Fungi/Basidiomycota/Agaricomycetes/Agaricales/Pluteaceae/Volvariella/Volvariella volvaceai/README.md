@@ -1,5 +1,4 @@
-Volvariella volvaceai (Bull. Fr.) Sing., 1951 SPECIES
-=======
+# Volvariella volvaceai (Bull. Fr.) Sing., 1951 SPECIES
 
 #### Status
 ACCEPTED

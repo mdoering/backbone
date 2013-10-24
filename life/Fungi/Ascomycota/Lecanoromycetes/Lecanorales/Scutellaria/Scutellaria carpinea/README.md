@@ -1,5 +1,4 @@
-Scutellaria carpinea (L.) Baumg. SPECIES
-=======
+# Scutellaria carpinea (L.) Baumg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microchaete spiralis Ackley, 1919 SPECIES
-=======
+# Microchaete spiralis Ackley, 1919 SPECIES
 
 #### Status
 ACCEPTED

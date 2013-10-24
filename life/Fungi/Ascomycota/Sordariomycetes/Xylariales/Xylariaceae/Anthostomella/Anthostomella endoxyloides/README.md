@@ -1,5 +1,4 @@
-Anthostomella endoxyloides Fairm. SPECIES
-=======
+# Anthostomella endoxyloides Fairm. SPECIES
 
 #### Status
 ACCEPTED

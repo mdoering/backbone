@@ -1,5 +1,4 @@
-Diplodia asclepiadea subsp. asclepiadea SUBSPECIES
-=======
+# Diplodia asclepiadea Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Grevillea (1879)
 
 #### Original name
-Diplodia asclepiadea subsp. asclepiadea
+Diplodia asclepiadea Cooke & Ellis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptosphaeria pachycarpa Sacc. & Marchal SPECIES
-=======
+# Leptosphaeria pachycarpa Sacc. & Marchal SPECIES
 
 #### Status
 ACCEPTED

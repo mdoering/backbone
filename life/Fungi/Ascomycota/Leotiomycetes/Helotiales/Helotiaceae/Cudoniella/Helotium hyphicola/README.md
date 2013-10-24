@@ -1,5 +1,4 @@
-Helotium hyphicola Henn. SPECIES
-=======
+# Helotium hyphicola Henn. SPECIES
 
 #### Status
 ACCEPTED

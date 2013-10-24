@@ -1,5 +1,4 @@
-Spathaspora passalidarum N.H. Nguyen, S.O. Suh & M. Blackw., 2006 SPECIES
-=======
+# Spathaspora passalidarum N.H. Nguyen, S.O. Suh & M. Blackw., 2006 SPECIES
 
 #### Status
 ACCEPTED

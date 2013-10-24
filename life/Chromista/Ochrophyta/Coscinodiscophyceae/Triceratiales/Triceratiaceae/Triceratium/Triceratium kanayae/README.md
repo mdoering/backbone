@@ -1,5 +1,4 @@
-Triceratium kanayae var. quadriloba J. Fenner VARIETY
-=======
+# Triceratium kanayae SPECIES
 
 #### Status
 ACCEPTED

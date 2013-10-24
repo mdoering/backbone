@@ -1,5 +1,4 @@
-Calothrix adscendens Bornet & Flahault SPECIES
-=======
+# Calothrix adscendens Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

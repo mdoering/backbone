@@ -1,5 +1,4 @@
-Lembosia diplothemii Henn. SPECIES
-=======
+# Lembosia diplothemii Henn. SPECIES
 
 #### Status
 ACCEPTED

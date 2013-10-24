@@ -1,5 +1,4 @@
-Atractocolax pulvinatus R. Kirschner, R. Bauer & Oberw., 1999 SPECIES
-=======
+# Atractocolax pulvinatus R. Kirschner, R. Bauer & Oberw., 1999 SPECIES
 
 #### Status
 ACCEPTED

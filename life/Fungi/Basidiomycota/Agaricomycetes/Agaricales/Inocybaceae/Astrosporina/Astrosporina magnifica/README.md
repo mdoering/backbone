@@ -1,5 +1,4 @@
-Astrosporina magnifica E. Horak SPECIES
-=======
+# Astrosporina magnifica E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytosporella tiliae Bubák SPECIES
-=======
+# Cytosporella tiliae Bubák SPECIES
 
 #### Status
 ACCEPTED

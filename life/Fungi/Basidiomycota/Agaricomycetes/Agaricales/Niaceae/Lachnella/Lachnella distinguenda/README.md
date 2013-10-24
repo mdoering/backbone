@@ -1,5 +1,4 @@
-Lachnella distinguenda P. Karst. SPECIES
-=======
+# Lachnella distinguenda P. Karst. SPECIES
 
 #### Status
 ACCEPTED

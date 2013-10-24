@@ -1,5 +1,4 @@
-Ameson nelsoni (Sprague) Sprague SPECIES
-=======
+# Ameson nelsoni (Sprague) Sprague SPECIES
 
 #### Status
 ACCEPTED

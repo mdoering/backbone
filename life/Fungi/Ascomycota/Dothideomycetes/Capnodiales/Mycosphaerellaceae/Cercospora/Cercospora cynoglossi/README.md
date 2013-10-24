@@ -1,5 +1,4 @@
-Cercospora cynoglossi J.M. Hook SPECIES
-=======
+# Cercospora cynoglossi J.M. Hook SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia avenastri Lavrov SPECIES
-=======
+# Hendersonia avenastri Lavrov SPECIES
 
 #### Status
 ACCEPTED

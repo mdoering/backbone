@@ -1,5 +1,4 @@
-Dichothrix bornetiana M.A. Howe SPECIES
-=======
+# Dichothrix bornetiana M.A. Howe SPECIES
 
 #### Status
 ACCEPTED

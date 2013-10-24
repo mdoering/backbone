@@ -1,5 +1,4 @@
-Calcicalathina H.R. Thierstein, 1971 GENUS
-=======
+# Calcicalathina H.R. Thierstein, 1971 GENUS
 
 #### Status
 ACCEPTED

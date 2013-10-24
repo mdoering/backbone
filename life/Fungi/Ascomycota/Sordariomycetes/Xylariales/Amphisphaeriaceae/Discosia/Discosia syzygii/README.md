@@ -1,17 +1,16 @@
-Discosia syzygiae Mhaskar & V.G. Rao SPECIES
-=======
+# Discosia syzygii Mhaskar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 7(1): 18 (1976)
 
 #### Original name
-Discosia syzygiae Mhaskar & V.G. Rao
+Discosia syzygii Mhaskar & V.G. Rao
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lymphocystidium Weiser GENUS
-=======
+# Lymphocystidium Weiser GENUS
 
 #### Status
 ACCEPTED

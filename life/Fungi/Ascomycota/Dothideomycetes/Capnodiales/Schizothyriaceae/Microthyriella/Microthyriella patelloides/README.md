@@ -1,5 +1,4 @@
-Microthyriella patelloides (Ellis & G. Martin) Theiss. SPECIES
-=======
+# Microthyriella patelloides (Ellis & G. Martin) Theiss. SPECIES
 
 #### Status
 ACCEPTED

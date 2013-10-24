@@ -1,5 +1,4 @@
-Gymnosporangium vauqueliniae Long & Goodd., 1939 SPECIES
-=======
+# Gymnosporangium vauqueliniae Long & Goodd., 1939 SPECIES
 
 #### Status
 ACCEPTED

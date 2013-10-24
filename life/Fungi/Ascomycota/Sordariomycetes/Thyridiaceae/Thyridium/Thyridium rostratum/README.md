@@ -1,5 +1,4 @@
-Thyridium rostratum Fuckel SPECIES
-=======
+# Thyridium rostratum Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Chaetopsinectria chaetopsinae-catenulatae (Samuels) J. Luo & W.Y. Zhuang, 2010 SPECIES
-=======
+# Nectria chaetopsinae-catenulatae Samuels, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 22(1): 28 (1985)
 
 #### Original name
-null
+Nectria chaetopsinae-catenulatae Samuels, 1985
 
 ### Remarks
 null

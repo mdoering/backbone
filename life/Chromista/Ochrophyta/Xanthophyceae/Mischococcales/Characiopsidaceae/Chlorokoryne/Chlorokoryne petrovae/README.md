@@ -1,5 +1,4 @@
-Chlorokoryne petrovae Pascher SPECIES
-=======
+# Chlorokoryne petrovae Pascher SPECIES
 
 #### Status
 ACCEPTED

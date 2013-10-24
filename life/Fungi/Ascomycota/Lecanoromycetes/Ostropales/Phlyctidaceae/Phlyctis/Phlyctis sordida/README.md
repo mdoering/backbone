@@ -1,5 +1,4 @@
-Phlyctis sordida C. Knight SPECIES
-=======
+# Phlyctis sordida C. Knight SPECIES
 
 #### Status
 ACCEPTED

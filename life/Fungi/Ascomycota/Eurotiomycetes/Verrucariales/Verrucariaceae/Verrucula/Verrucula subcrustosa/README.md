@@ -1,5 +1,4 @@
-Verrucula subcrustosa (Nyl.) J. Steiner SPECIES
-=======
+# Verrucula subcrustosa (Nyl.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

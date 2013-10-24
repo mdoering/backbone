@@ -1,5 +1,4 @@
-Tylopilus cartagoensis Wolfe & Bougher SPECIES
-=======
+# Tylopilus cartagoensis Wolfe & Bougher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetrasporopsis pseudofenestrata J. W. G. Lund SPECIES
-=======
+# Tetrasporopsis pseudofenestrata J. W. G. Lund SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius cystidiophorus Dennis SPECIES
-=======
+# Marasmius cystidiophorus Dennis SPECIES
 
 #### Status
 ACCEPTED

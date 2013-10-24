@@ -1,5 +1,4 @@
-Insecticola peruamazonensis Matsush. SPECIES
-=======
+# Insecticola peruamazonensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

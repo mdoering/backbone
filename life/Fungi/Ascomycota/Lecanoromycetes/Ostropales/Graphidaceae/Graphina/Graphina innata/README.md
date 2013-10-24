@@ -1,5 +1,4 @@
-Graphina innata Redinger SPECIES
-=======
+# Graphina innata Redinger SPECIES
 
 #### Status
 ACCEPTED

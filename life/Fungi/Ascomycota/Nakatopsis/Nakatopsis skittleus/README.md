@@ -1,5 +1,4 @@
-Nakatopsis skittleus Whitton, McKenzie & K.D. Hyde, 2001 SPECIES
-=======
+# Nakatopsis skittleus Whitton, McKenzie & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

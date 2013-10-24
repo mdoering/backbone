@@ -1,5 +1,4 @@
-Lecidella aegaea Knoph & Sipman SPECIES
-=======
+# Lecidella aegaea Knoph & Sipman SPECIES
 
 #### Status
 ACCEPTED

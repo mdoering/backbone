@@ -1,5 +1,4 @@
-Asteridiella adinandricola H. Hu SPECIES
-=======
+# Asteridiella adinandricola H. Hu SPECIES
 
 #### Status
 ACCEPTED

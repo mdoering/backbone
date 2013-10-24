@@ -1,8 +1,7 @@
-Cytosporina alice-savulescui Stewart {?} & Negru SPECIES
-=======
+# Cytosporina alice-savulescuae Stewart {?} & Negru SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cytosporina alice-savulescui Stewart {?} & Negru
+Cytosporina alice-savulescuae Stewart {?} & Negru
 
 ### Remarks
 null

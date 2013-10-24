@@ -1,5 +1,4 @@
-Pestalotia epigaea Henn. SPECIES
-=======
+# Pestalotia epigaea Henn. SPECIES
 
 #### Status
 ACCEPTED

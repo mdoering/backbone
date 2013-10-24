@@ -1,5 +1,4 @@
-Lecanora savonensis B. de Lesd. SPECIES
-=======
+# Lecanora savonensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

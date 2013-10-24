@@ -1,5 +1,4 @@
-Typhulochaeta coriariae D.Z. Xie SPECIES
-=======
+# Typhulochaeta coriariae D.Z. Xie SPECIES
 
 #### Status
 ACCEPTED

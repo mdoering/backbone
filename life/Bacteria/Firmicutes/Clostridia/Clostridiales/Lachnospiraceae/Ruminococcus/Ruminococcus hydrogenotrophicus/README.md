@@ -1,5 +1,4 @@
-Ruminococcus hydrogenotrophicus Bernalier et al., 1997 SPECIES
-=======
+# Ruminococcus hydrogenotrophicus Bernalier et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

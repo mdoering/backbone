@@ -1,5 +1,4 @@
-Cassidelina spinescens (Cushman, 1911) SPECIES
-=======
+# Cassidelina spinescens (Cushman, 1911) SPECIES
 
 #### Status
 ACCEPTED

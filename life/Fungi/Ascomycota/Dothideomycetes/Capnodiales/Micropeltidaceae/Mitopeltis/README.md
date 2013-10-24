@@ -1,5 +1,4 @@
-Mitopeltis Speg. GENUS
-=======
+# Mitopeltis Speg. GENUS
 
 #### Status
 ACCEPTED

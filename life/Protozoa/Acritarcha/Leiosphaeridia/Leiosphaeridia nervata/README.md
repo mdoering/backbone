@@ -1,5 +1,4 @@
-Leiosphaeridia nervata (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
-=======
+# Leiosphaeridia nervata (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

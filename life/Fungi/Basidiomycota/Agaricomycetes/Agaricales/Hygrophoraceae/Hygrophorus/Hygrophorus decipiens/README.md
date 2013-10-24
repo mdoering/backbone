@@ -1,5 +1,4 @@
-Hygrophorus decipiens Peck SPECIES
-=======
+# Hygrophorus decipiens Peck SPECIES
 
 #### Status
 ACCEPTED

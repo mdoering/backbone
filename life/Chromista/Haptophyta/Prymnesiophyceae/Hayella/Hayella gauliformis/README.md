@@ -1,5 +1,4 @@
-Hayella gauliformis Troelsen & Quadros, 1971 SPECIES
-=======
+# Hayella gauliformis Troelsen & Quadros, 1971 SPECIES
 
 #### Status
 ACCEPTED

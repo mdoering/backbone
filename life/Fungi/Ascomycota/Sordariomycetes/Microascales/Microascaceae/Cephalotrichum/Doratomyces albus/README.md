@@ -1,5 +1,4 @@
-Doratomyces albus (Svilv.) Dominik SPECIES
-=======
+# Doratomyces albus (Svilv.) Dominik SPECIES
 
 #### Status
 ACCEPTED

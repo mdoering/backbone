@@ -1,5 +1,4 @@
-Lenticulina cultrata SPECIES
-=======
+# Lenticulina cultrata SPECIES
 
 #### Status
 ACCEPTED

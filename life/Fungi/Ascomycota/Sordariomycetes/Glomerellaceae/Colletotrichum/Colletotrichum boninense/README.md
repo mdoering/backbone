@@ -1,5 +1,4 @@
-Colletotrichum boninense Moriwaki, Toy. Sato & Tsukib., 2003 SPECIES
-=======
+# Colletotrichum boninense Moriwaki, Toy. Sato & Tsukib., 2003 SPECIES
 
 #### Status
 ACCEPTED

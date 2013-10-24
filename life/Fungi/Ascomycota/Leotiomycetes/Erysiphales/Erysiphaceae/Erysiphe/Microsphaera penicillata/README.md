@@ -1,17 +1,16 @@
-Microsphaera alni f. alni FORM
-=======
+# Microsphaera penicillata (Wallr.) Lév., 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 15: 155, 381 (1851)
 
 #### Original name
-null
+Alphitomorpha penicillata Wallr., 1819
 
 ### Remarks
 null

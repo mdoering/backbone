@@ -1,5 +1,4 @@
-Lobaria patagonica (Müll. Arg.) Kuntze SPECIES
-=======
+# Lobaria patagonica (Müll. Arg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

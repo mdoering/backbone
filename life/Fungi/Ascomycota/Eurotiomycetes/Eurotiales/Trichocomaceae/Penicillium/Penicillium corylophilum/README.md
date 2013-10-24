@@ -1,17 +1,16 @@
-Penicillium barcinonense C. Ramírez & A.T. Martínez SPECIES
-=======
+# Penicillium corylophilum Dierckx, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annals de la Soc. Scientifique Bruxelles 25: 6 (1901)
 
 #### Original name
-Penicillium barcinonense C. Ramírez & A.T. Martínez
+Penicillium corylophilum Dierckx, 1901
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora cinnamomi Hansf., 1958 SPECIES
-=======
+# Phyllachora cinnamomi Hansf., 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora lirella Syd. {?} SPECIES
-=======
+# Cytospora lirella Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

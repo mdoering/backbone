@@ -1,5 +1,4 @@
-Phoma sahariensis Faurel & Schotter SPECIES
-=======
+# Phoma sahariensis Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

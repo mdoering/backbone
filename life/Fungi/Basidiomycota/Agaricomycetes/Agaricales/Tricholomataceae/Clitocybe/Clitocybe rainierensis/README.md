@@ -1,5 +1,4 @@
-Clitocybe rainierensis H.E. Bigelow SPECIES
-=======
+# Clitocybe rainierensis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

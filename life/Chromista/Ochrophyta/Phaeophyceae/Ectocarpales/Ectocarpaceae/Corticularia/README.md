@@ -1,5 +1,4 @@
-Corticularia Kützing GENUS
-=======
+# Corticularia Kützing GENUS
 
 #### Status
 ACCEPTED

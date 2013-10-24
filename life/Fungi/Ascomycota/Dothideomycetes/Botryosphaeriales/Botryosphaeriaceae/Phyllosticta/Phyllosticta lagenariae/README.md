@@ -1,5 +1,4 @@
-Phyllosticta lagenariae var. lagenariae VARIETY
-=======
+# Phyllosticta lagenariae Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta lagenariae var. lagenariae
+Phyllosticta lagenariae Pass.
 
 ### Remarks
 null

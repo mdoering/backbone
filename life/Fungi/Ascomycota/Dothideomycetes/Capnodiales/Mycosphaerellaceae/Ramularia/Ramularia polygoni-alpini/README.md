@@ -1,5 +1,4 @@
-Ramularia polygoni-alpini (Maire) U. Braun SPECIES
-=======
+# Ramularia polygoni-alpini (Maire) U. Braun SPECIES
 
 #### Status
 ACCEPTED

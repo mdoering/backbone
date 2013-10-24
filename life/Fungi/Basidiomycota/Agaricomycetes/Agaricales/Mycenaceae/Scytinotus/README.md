@@ -1,5 +1,4 @@
-Scytinotus GENUS
-=======
+# Scytinotus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypophyllum spermaticum Paulet SPECIES
-=======
+# Hypophyllum spermaticum Paulet SPECIES
 
 #### Status
 ACCEPTED

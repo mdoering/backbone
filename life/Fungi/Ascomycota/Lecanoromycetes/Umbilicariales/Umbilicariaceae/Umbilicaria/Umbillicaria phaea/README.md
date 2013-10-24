@@ -1,5 +1,4 @@
-Umbillicaria phaea SPECIES
-=======
+# Umbillicaria phaea SPECIES
 
 #### Status
 DOUBTFUL

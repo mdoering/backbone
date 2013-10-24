@@ -1,5 +1,4 @@
-Choiromyces gibbosus (Dicks.) J. Schröt. SPECIES
-=======
+# Choiromyces gibbosus (Dicks.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

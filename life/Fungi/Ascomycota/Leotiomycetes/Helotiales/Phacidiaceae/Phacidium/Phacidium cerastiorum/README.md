@@ -1,5 +1,4 @@
-Phacidium cerastiorum Gillet SPECIES
-=======
+# Phacidium cerastiorum Gillet SPECIES
 
 #### Status
 ACCEPTED

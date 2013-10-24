@@ -1,17 +1,16 @@
-Lecanora novomexicana f. novomexicana FORM
-=======
+# Lecanora novomexicana H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecanora novomexicana f. novomexicana
+Lecanora novomexicana H. Magn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Paramecium ficarium Kahl, 1928 SPECIES
-=======
+# Paramecium ficarium Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

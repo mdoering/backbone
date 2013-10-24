@@ -1,5 +1,4 @@
-Palaeopyramidium Goodbody, 1986 GENUS
-=======
+# Palaeopyramidium Goodbody, 1986 GENUS
 
 #### Status
 ACCEPTED

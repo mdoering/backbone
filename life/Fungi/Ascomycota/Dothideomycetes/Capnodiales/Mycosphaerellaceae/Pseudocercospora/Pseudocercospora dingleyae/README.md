@@ -1,5 +1,4 @@
-Pseudocercospora dingleyae U. Braun & C.F. Hill, 2002 SPECIES
-=======
+# Pseudocercospora dingleyae U. Braun & C.F. Hill, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxophyllum verrucosum (Stokes, 1893) Kahl, 1935 SPECIES
-=======
+# Loxophyllum verrucosum (Stokes, 1893) Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

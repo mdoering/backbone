@@ -1,5 +1,4 @@
-Humaria plumbea (Fr.) Sacc. SPECIES
-=======
+# Humaria plumbea (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

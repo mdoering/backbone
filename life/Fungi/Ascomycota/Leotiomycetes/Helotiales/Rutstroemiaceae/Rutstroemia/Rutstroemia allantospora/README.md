@@ -1,5 +1,4 @@
-Rutstroemia allantospora R. Galán, Honrubia & J.T. Palmer SPECIES
-=======
+# Rutstroemia allantospora R. Galán, Honrubia & J.T. Palmer SPECIES
 
 #### Status
 ACCEPTED

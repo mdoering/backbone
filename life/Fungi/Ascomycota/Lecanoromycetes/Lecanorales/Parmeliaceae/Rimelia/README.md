@@ -1,5 +1,4 @@
-Rimelia Hale & A. Fletcher, 1990 GENUS
-=======
+# Rimelia Hale & A. Fletcher, 1990 GENUS
 
 #### Status
 ACCEPTED

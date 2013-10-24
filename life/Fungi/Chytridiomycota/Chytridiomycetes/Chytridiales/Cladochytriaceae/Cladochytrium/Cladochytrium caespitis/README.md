@@ -1,5 +1,4 @@
-Cladochytrium caespitis Griffon & Maubl., 1910 SPECIES
-=======
+# Cladochytrium caespitis Griffon & Maubl., 1910 SPECIES
 
 #### Status
 ACCEPTED

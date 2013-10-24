@@ -1,5 +1,4 @@
-Pleosphaerulina phaseoli Syd. SPECIES
-=======
+# Pleosphaerulina phaseoli Syd. SPECIES
 
 #### Status
 ACCEPTED

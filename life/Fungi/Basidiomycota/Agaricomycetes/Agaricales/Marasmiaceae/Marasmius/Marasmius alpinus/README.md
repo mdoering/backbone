@@ -1,5 +1,4 @@
-Marasmius alpinus Singer SPECIES
-=======
+# Marasmius alpinus Singer SPECIES
 
 #### Status
 ACCEPTED

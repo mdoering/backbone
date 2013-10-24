@@ -1,5 +1,4 @@
-Usnea variegata Stirt. SPECIES
-=======
+# Usnea variegata Stirt. SPECIES
 
 #### Status
 ACCEPTED

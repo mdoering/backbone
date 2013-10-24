@@ -1,5 +1,4 @@
-Lecidea bifrons Clemente SPECIES
-=======
+# Lecidea bifrons Clemente SPECIES
 
 #### Status
 ACCEPTED

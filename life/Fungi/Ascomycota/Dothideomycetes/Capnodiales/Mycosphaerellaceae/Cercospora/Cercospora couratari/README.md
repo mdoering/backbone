@@ -1,17 +1,16 @@
-Cercospora couratarii Chupp SPECIES
-=======
+# Cercospora couratari Chupp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph of Cercospora 277 (1954)
 
 #### Original name
-Cercospora couratarii Chupp
+Cercospora couratari Chupp
 
 ### Remarks
 null

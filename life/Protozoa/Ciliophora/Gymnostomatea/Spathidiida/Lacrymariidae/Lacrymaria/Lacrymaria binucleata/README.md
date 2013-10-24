@@ -1,5 +1,4 @@
-Lacrymaria binucleata Song & Wilbert, 1989 SPECIES
-=======
+# Lacrymaria binucleata Song & Wilbert, 1989 SPECIES
 
 #### Status
 ACCEPTED

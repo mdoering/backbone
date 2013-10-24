@@ -1,5 +1,4 @@
-Erysibe limbata Wallr. SPECIES
-=======
+# Erysibe limbata Wallr. SPECIES
 
 #### Status
 ACCEPTED

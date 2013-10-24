@@ -1,5 +1,4 @@
-Labyrinthosphaeridium restrictum Uutela & Tynni, 1991 SPECIES
-=======
+# Labyrinthosphaeridium restrictum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoceros seychellarus G.H.H.Karsten SPECIES
-=======
+# Chaetoceros seychellarus G.H.H.Karsten SPECIES
 
 #### Status
 ACCEPTED

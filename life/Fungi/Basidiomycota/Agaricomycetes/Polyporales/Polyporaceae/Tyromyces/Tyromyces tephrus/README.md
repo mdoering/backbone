@@ -1,14 +1,13 @@
-Poria tephra Pat., 1895 SPECIES
-=======
+# Tyromyces tephrus (Pat.) Ryvarden, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 11(4): 208 (1895)
+Occ. Pap. Farlow Herb. Crypt. Bot. 18: 35 (1983)
 
 #### Original name
 Poria tephra Pat., 1895

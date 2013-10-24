@@ -1,5 +1,4 @@
-Cryptosphaeria philippinensis Rehm SPECIES
-=======
+# Cryptosphaeria philippinensis Rehm SPECIES
 
 #### Status
 ACCEPTED

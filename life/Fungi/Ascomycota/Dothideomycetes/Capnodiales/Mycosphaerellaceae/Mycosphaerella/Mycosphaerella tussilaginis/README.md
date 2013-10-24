@@ -1,17 +1,16 @@
-Sphaerella tussilaginis f. tussilaginis FORM
-=======
+# Mycosphaerella tussilaginis (Rehm) Lindau, 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hilfsbuch fur das Sammeln der Ascomyceten (Berlin) 122 (1903)
 
 #### Original name
-Sphaerella tussilaginis f. tussilaginis
+Sphaerella tussilaginis Rehm, 1872
 
 ### Remarks
 null

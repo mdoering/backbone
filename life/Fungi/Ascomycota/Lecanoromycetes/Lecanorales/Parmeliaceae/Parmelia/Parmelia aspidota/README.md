@@ -1,5 +1,4 @@
-Parmelia aspidota var. aspidota VARIETY
-=======
+# Parmelia aspidota SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia olivacea (L.) Ach.
+null
 
 ### Remarks
 null

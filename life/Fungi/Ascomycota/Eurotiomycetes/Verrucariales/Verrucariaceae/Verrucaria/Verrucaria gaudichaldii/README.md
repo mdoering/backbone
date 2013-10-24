@@ -1,5 +1,4 @@
-Verrucaria gaudichaldii SPECIES
-=======
+# Verrucaria gaudichaldii SPECIES
 
 #### Status
 ACCEPTED

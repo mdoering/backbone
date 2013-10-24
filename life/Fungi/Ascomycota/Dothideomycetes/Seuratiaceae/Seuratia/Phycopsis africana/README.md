@@ -1,5 +1,4 @@
-Phycopsis africana Syd. SPECIES
-=======
+# Phycopsis africana Syd. SPECIES
 
 #### Status
 ACCEPTED

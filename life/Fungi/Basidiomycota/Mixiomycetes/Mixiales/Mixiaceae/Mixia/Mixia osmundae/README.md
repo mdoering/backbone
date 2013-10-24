@@ -1,14 +1,13 @@
-Taphrina osmundae Nishida, 1911 SPECIES
-=======
+# Mixia osmundae (Nishida) C.L. Kramer, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Miyabe Festschrift (Tokyo) 167 (1911)
+Mycologia 50(6): 924 (1959)
 
 #### Original name
 Taphrina osmundae Nishida, 1911

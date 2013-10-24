@@ -1,17 +1,16 @@
-Badhamia macrocarpa var. sessilis Rostaf. VARIETY
-=======
+# Badhamia macrocarpa (Ces.) Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sluzowce monogr. (Paryz) 143 (1875)
 
 #### Original name
-Badhamia macrocarpa var. sessilis Rostaf.
+Physarum macrocarpum Ces.
 
 ### Remarks
 null

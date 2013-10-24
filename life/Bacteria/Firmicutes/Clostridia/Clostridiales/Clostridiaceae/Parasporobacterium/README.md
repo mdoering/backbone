@@ -1,5 +1,4 @@
-Parasporobacterium Lomans et al., 2004 GENUS
-=======
+# Parasporobacterium Lomans et al., 2004 GENUS
 
 #### Status
 ACCEPTED

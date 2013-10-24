@@ -1,5 +1,4 @@
-Hesperomyces lasiochili Thaxt. SPECIES
-=======
+# Hesperomyces lasiochili Thaxt. SPECIES
 
 #### Status
 ACCEPTED

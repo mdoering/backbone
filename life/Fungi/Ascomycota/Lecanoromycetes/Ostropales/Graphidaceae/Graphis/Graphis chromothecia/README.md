@@ -1,5 +1,4 @@
-Graphis chromothecia R.C. Harris SPECIES
-=======
+# Graphis chromothecia R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

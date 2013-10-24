@@ -1,5 +1,4 @@
-Chaetosphaeria verruculospora Réblová & Seifert SPECIES
-=======
+# Chaetosphaeria verruculospora Réblová & Seifert SPECIES
 
 #### Status
 ACCEPTED

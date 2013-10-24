@@ -1,14 +1,13 @@
-Peniophora subalutacea subsp. media (Bourdot & Galzin) Bourdot & Galzin SUBSPECIES
-=======
+# Tubulicrinis medius (Bourdot & Galzin) Oberw., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 294 (1928)
+Z. Pilzk. 31(1-2): 26 (1966)
 
 #### Original name
 Peniophora glebulosa subsp. media Bourdot & Galzin

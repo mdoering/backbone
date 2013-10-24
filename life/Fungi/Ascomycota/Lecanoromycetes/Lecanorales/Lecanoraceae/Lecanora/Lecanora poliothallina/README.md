@@ -1,5 +1,4 @@
-Lecanora poliothallina Lindau SPECIES
-=======
+# Lecanora poliothallina Lindau SPECIES
 
 #### Status
 ACCEPTED

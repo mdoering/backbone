@@ -1,5 +1,4 @@
-Peziza hirneolus Fr. SPECIES
-=======
+# Peziza hirneolus Fr. SPECIES
 
 #### Status
 ACCEPTED

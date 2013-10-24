@@ -1,5 +1,4 @@
-Hydnum conigenum Peck SPECIES
-=======
+# Hydnum conigenum Peck SPECIES
 
 #### Status
 ACCEPTED

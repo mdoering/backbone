@@ -1,5 +1,4 @@
-Pileolaria klugkistiana (Dietel) Dietel, 1921 SPECIES
-=======
+# Pileolaria klugkistiana (Dietel) Dietel, 1921 SPECIES
 
 #### Status
 ACCEPTED

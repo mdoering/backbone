@@ -1,14 +1,13 @@
-Parmelia perlata var. perlata VARIETY
-=======
+# Parmotrema perlatum (Huds.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Method. Lich. 216 (1803)
+Bull. mens. Soc. linn. Lyon 21: 174 (1952)
 
 #### Original name
 Lichen perlatus Huds.

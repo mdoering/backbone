@@ -1,5 +1,4 @@
-Peziza eupatorii Schwein. SPECIES
-=======
+# Peziza eupatorii Schwein. SPECIES
 
 #### Status
 ACCEPTED

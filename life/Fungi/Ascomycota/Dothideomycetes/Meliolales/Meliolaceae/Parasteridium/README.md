@@ -1,5 +1,4 @@
-Parasteridium Speg. GENUS
-=======
+# Parasteridium Speg. GENUS
 
 #### Status
 ACCEPTED

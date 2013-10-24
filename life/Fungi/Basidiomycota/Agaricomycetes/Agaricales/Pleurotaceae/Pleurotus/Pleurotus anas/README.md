@@ -1,5 +1,4 @@
-Pleurotus anas Overeem SPECIES
-=======
+# Pleurotus anas Overeem SPECIES
 
 #### Status
 ACCEPTED

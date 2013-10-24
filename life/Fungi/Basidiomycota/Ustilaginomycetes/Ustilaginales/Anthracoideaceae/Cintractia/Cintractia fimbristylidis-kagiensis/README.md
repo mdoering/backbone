@@ -1,5 +1,4 @@
-Cintractia fimbristylidis-kagiensis var. fimbristylidis-kagiensis VARIETY
-=======
+# Cintractia fimbristylidis-kagiensis Sawada SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Report of the Department of Agriculture, Government Research Institute of Formosa 2: 79 (1922)
 
 #### Original name
-Cintractia fimbristylidis-kagiensis var. fimbristylidis-kagiensis
+Cintractia fimbristylidis-kagiensis Sawada
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Syspastospora cladoniae Etayo SPECIES
-=======
+# Syspastospora cladoniae Etayo SPECIES
 
 #### Status
 ACCEPTED

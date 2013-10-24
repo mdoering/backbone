@@ -1,5 +1,4 @@
-Pseudodevescovina Sutherland, 1933 GENUS
-=======
+# Pseudodevescovina Sutherland, 1933 GENUS
 
 #### Status
 ACCEPTED

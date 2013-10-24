@@ -1,5 +1,4 @@
-Ascochyta manihotis Henn. SPECIES
-=======
+# Ascochyta manihotis Henn. SPECIES
 
 #### Status
 ACCEPTED

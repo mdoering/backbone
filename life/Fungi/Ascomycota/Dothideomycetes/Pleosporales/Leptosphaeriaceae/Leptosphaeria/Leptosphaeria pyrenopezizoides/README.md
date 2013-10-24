@@ -1,5 +1,4 @@
-Leptosphaeria pyrenopezizoides Sacc. & Speg. SPECIES
-=======
+# Leptosphaeria pyrenopezizoides Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

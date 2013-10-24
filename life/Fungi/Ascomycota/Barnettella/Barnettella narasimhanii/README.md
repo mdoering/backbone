@@ -1,5 +1,4 @@
-Barnettella narasimhanii D. Rao & V.G. Rao SPECIES
-=======
+# Barnettella narasimhanii D. Rao & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

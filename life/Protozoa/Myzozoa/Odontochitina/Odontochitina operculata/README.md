@@ -1,5 +1,4 @@
-Odontochitina operculata SPECIES
-=======
+# Odontochitina operculata SPECIES
 
 #### Status
 ACCEPTED

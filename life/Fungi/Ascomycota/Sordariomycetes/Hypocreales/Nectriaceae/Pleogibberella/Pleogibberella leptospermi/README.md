@@ -1,5 +1,4 @@
-Pleogibberella leptospermi Hansf. SPECIES
-=======
+# Pleogibberella leptospermi Hansf. SPECIES
 
 #### Status
 ACCEPTED

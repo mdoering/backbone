@@ -1,5 +1,4 @@
-Chrysosporium kreiselii Dominik, 1965 SPECIES
-=======
+# Chrysosporium kreiselii Dominik, 1965 SPECIES
 
 #### Status
 ACCEPTED

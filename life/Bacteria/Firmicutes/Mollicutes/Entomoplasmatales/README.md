@@ -1,5 +1,4 @@
-Entomoplasmatales Tully, Bove, Laigret & Whitcomb, 1993 ORDER
-=======
+# Entomoplasmatales Tully, Bove, Laigret & Whitcomb, 1993 ORDER
 
 #### Status
 ACCEPTED

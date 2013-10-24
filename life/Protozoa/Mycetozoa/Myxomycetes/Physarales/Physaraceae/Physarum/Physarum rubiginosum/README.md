@@ -1,14 +1,13 @@
-Lignydium rubiginosum (Fr.) Kuntze, 1898 SPECIES
-=======
+# Physarum rubiginosum Fr., 1818 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 490 (1898)
+Symb. gasteromyc. (Lund) 21 (1817)
 
 #### Original name
 Physarum rubiginosum Fr., 1818

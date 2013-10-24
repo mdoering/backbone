@@ -1,14 +1,13 @@
-Cladosporium infuscans Thüm., 1879 SPECIES
-=======
+# Dendryphiella infuscans (Thüm.) M.B. Ellis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 1: 59 (1879)
+Dematiaceous Hyphomycetes (Kew) 500 (1971)
 
 #### Original name
 Cladosporium infuscans Thüm., 1879

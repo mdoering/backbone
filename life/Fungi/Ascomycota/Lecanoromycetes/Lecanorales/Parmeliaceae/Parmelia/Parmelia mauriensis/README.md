@@ -1,5 +1,4 @@
-Parmelia mauriensis Hue SPECIES
-=======
+# Parmelia mauriensis Hue SPECIES
 
 #### Status
 ACCEPTED

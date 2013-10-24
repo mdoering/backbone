@@ -1,5 +1,4 @@
-Protoperidinium bimucronatum (Schiller, 1937) Balech, 1974 SPECIES
-=======
+# Protoperidinium bimucronatum (Schiller, 1937) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

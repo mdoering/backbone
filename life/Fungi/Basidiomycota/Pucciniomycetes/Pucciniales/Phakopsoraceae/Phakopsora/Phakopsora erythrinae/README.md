@@ -1,5 +1,4 @@
-Phakopsora erythrinae Gäum. SPECIES
-=======
+# Phakopsora erythrinae Gäum. SPECIES
 
 #### Status
 ACCEPTED

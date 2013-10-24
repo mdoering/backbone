@@ -1,5 +1,4 @@
-Endodothella rickii Theiss. & Syd., 1917 SPECIES
-=======
+# Endodothella rickii Theiss. & Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

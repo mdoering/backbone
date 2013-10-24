@@ -1,5 +1,4 @@
-Uredo peziziformis (Berk. & M.A. Curtis) De Toni SPECIES
-=======
+# Uredo peziziformis (Berk. & M.A. Curtis) De Toni SPECIES
 
 #### Status
 ACCEPTED

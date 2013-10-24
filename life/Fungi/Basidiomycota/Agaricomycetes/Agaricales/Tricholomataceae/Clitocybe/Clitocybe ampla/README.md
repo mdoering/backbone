@@ -1,5 +1,4 @@
-Clitocybe ampla (Pers.) P. Kumm. SPECIES
-=======
+# Clitocybe ampla (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

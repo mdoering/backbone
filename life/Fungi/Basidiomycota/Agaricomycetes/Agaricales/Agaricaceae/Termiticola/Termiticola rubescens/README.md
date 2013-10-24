@@ -1,5 +1,4 @@
-Termiticola rubescens E. Horak, 1979 SPECIES
-=======
+# Termiticola rubescens E. Horak, 1979 SPECIES
 
 #### Status
 ACCEPTED

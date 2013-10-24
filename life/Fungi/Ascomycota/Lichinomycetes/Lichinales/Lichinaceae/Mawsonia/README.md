@@ -1,5 +1,4 @@
-Mawsonia C.W. Dodge, 1948 GENUS
-=======
+# Mawsonia C.W. Dodge, 1948 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaucheria sesscuplicaria SPECIES
-=======
+# Vaucheria sesscuplicaria SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coremium triostei H.C. Greene SPECIES
-=======
+# Coremium triostei H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

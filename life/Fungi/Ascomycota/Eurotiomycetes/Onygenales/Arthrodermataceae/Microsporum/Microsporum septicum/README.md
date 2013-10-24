@@ -1,5 +1,4 @@
-Microsporum septicum R. Klebs SPECIES
-=======
+# Microsporum septicum R. Klebs SPECIES
 
 #### Status
 ACCEPTED

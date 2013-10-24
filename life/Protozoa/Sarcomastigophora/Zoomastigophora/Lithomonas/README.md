@@ -1,5 +1,4 @@
-Lithomonas Lepsi, 1926 GENUS
-=======
+# Lithomonas Lepsi, 1926 GENUS
 
 #### Status
 ACCEPTED

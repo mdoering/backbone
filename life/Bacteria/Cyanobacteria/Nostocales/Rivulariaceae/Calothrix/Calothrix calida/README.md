@@ -1,5 +1,4 @@
-Calothrix calida P. Richter SPECIES
-=======
+# Calothrix calida P. Richter SPECIES
 
 #### Status
 ACCEPTED

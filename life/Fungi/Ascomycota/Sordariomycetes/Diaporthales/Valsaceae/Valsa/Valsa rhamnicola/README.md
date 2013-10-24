@@ -1,5 +1,4 @@
-Valsa rhamnicola Fabre SPECIES
-=======
+# Valsa rhamnicola Fabre SPECIES
 
 #### Status
 ACCEPTED

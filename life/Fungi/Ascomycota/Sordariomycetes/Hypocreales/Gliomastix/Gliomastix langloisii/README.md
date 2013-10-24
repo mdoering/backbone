@@ -1,5 +1,4 @@
-Gliomastix langloisii (Earle) M.B. Ellis SPECIES
-=======
+# Gliomastix langloisii (Earle) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

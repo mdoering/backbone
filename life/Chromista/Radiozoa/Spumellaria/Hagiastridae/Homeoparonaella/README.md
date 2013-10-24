@@ -1,5 +1,4 @@
-Homeoparonaella GENUS
-=======
+# Homeoparonaella GENUS
 
 #### Status
 ACCEPTED

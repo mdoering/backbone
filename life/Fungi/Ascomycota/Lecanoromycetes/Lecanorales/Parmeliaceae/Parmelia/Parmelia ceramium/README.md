@@ -1,5 +1,4 @@
-Parmelia ceramium Spreng. SPECIES
-=======
+# Parmelia ceramium Spreng. SPECIES
 
 #### Status
 ACCEPTED

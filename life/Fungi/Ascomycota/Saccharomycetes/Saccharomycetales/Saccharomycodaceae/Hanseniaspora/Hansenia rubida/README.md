@@ -1,5 +1,4 @@
-Hansenia rubida (Berk.) P. Karst. SPECIES
-=======
+# Hansenia rubida (Berk.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

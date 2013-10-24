@@ -1,11 +1,10 @@
-Bilimbia syncomista f. syncomista FORM
-=======
+# Bilimbia syncomista SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

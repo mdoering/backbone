@@ -1,5 +1,4 @@
-Cronartium orientale S. Kaneko, 2000 SPECIES
-=======
+# Cronartium orientale S. Kaneko, 2000 SPECIES
 
 #### Status
 ACCEPTED

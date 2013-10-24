@@ -1,14 +1,13 @@
-Parmelia proboscidea var. eciliata J.D. Zhao VARIETY
-=======
+# Parmotrema crinitoides C. J. Wei SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+An Enumeration of Lichens in China (Beijing) 177 (1991)
 
 #### Original name
 Parmelia proboscidea var. eciliata J.D. Zhao

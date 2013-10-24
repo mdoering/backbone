@@ -1,5 +1,4 @@
-Heufleria alpina Auersw. SPECIES
-=======
+# Heufleria alpina Auersw. SPECIES
 
 #### Status
 ACCEPTED

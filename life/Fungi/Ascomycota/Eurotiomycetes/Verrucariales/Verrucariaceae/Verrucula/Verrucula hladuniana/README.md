@@ -1,5 +1,4 @@
-Verrucula hladuniana (Nav.-Ros. & Cl. Roux) Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula hladuniana (Nav.-Ros. & Cl. Roux) Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

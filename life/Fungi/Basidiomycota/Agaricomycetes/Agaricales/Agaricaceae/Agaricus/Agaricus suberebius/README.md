@@ -1,5 +1,4 @@
-Agaricus suberebius Britzelm. SPECIES
-=======
+# Agaricus suberebius Britzelm. SPECIES
 
 #### Status
 ACCEPTED

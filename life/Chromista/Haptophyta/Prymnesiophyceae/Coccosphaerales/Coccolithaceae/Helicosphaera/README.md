@@ -1,5 +1,4 @@
-Helicosphaera Kamptner, 1954 GENUS
-=======
+# Helicosphaera Kamptner, 1954 GENUS
 
 #### Status
 ACCEPTED

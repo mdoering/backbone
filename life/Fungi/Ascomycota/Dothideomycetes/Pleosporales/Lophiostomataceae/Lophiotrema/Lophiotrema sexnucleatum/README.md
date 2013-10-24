@@ -1,5 +1,4 @@
-Lophiotrema sexnucleatum SPECIES
-=======
+# Lophiotrema sexnucleatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe castriformis (Preuss) Sacc. SPECIES
-=======
+# Diaporthe castriformis (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

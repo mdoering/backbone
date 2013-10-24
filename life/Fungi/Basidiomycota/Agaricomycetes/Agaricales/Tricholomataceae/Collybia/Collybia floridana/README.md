@@ -1,5 +1,4 @@
-Collybia floridana (Murrill) Murrill SPECIES
-=======
+# Collybia floridana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

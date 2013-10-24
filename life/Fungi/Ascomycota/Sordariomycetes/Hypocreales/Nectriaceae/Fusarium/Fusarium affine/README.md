@@ -1,5 +1,4 @@
-Fusarium affine Fautrey & Lambotte SPECIES
-=======
+# Fusarium affine Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

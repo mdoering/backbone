@@ -1,5 +1,4 @@
-Calosphaeria wahlenbergii Nitschke, 1867 SPECIES
-=======
+# Calosphaeria wahlenbergii Nitschke, 1867 SPECIES
 
 #### Status
 ACCEPTED

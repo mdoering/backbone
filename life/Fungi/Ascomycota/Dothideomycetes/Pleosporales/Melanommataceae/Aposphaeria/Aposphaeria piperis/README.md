@@ -1,5 +1,4 @@
-Aposphaeria piperis Tassi SPECIES
-=======
+# Aposphaeria piperis Tassi SPECIES
 
 #### Status
 ACCEPTED

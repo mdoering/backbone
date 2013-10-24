@@ -1,5 +1,4 @@
-Meliola stuhlmanniana Henn. SPECIES
-=======
+# Meliola stuhlmanniana Henn. SPECIES
 
 #### Status
 ACCEPTED

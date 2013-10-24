@@ -1,5 +1,4 @@
-Epistylis niagarae Kellicott, 1883 SPECIES
-=======
+# Epistylis niagarae Kellicott, 1883 SPECIES
 
 #### Status
 ACCEPTED

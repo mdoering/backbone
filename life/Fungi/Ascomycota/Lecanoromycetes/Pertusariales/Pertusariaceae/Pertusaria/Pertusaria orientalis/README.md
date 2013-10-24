@@ -1,5 +1,4 @@
-Pertusaria orientalis Jariangpr. SPECIES
-=======
+# Pertusaria orientalis Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

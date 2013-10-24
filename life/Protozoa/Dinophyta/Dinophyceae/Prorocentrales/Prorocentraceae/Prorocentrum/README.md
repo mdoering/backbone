@@ -1,14 +1,13 @@
-Exuviella Cienkowski, 1881 GENUS
-=======
+# Prorocentrum Ehrenberg, 1833 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vidensk. Medd. Naturh. Foren. , 1901, 131.
+Abh. Preuss. Akad. Wiss. , 1833 (1835), 307.
 
 #### Original name
 null

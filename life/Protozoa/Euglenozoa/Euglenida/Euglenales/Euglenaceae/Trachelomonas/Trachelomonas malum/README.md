@@ -1,5 +1,4 @@
-Trachelomonas malum Conrad SPECIES
-=======
+# Trachelomonas malum Conrad SPECIES
 
 #### Status
 ACCEPTED

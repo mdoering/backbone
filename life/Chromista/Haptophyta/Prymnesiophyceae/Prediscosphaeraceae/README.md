@@ -1,5 +1,4 @@
-Prediscosphaeraceae Rood, Hay & Barnard, 1971 FAMILY
-=======
+# Prediscosphaeraceae Rood, Hay & Barnard, 1971 FAMILY
 
 #### Status
 ACCEPTED

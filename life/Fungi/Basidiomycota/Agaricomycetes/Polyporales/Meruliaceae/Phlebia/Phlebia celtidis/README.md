@@ -1,5 +1,4 @@
-Phlebia celtidis W.B. Cooke, 1956 SPECIES
-=======
+# Phlebia celtidis W.B. Cooke, 1956 SPECIES
 
 #### Status
 ACCEPTED

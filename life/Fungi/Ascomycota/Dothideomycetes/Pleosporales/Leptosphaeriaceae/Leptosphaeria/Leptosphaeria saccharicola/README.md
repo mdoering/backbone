@@ -1,5 +1,4 @@
-Leptosphaeria saccharicola Henn. SPECIES
-=======
+# Leptosphaeria saccharicola Henn. SPECIES
 
 #### Status
 ACCEPTED

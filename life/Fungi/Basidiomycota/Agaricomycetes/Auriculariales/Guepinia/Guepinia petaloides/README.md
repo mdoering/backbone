@@ -1,5 +1,4 @@
-Guepinia petaloides Kalchbr. SPECIES
-=======
+# Guepinia petaloides Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

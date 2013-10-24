@@ -1,5 +1,4 @@
-Coniangium aletum (Willey) A. Massal. SPECIES
-=======
+# Coniangium aletum (Willey) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora renealmiae Rehm, 1897 SPECIES
-=======
+# Phyllachora renealmiae Rehm, 1897 SPECIES
 
 #### Status
 DOUBTFUL

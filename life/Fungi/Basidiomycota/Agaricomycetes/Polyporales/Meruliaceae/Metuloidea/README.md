@@ -1,5 +1,4 @@
-Metuloidea GENUS
-=======
+# Metuloidea GENUS
 
 #### Status
 ACCEPTED

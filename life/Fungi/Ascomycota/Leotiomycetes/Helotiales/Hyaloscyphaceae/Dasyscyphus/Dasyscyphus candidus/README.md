@@ -1,17 +1,16 @@
-Dasyscypha candida Rodway SPECIES
-=======
+# Dasyscyphus candidus Rodway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pap. Proc. R. Soc. Tasm. 110 (1925)
 
 #### Original name
-Dasyscypha candida Rodway
+Dasyscyphus candidus Rodway
 
 ### Remarks
 null

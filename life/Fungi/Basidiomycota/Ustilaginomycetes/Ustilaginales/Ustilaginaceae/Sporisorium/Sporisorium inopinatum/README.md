@@ -1,5 +1,4 @@
-Sporisorium inopinatum Vánky, 2002 SPECIES
-=======
+# Sporisorium inopinatum Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

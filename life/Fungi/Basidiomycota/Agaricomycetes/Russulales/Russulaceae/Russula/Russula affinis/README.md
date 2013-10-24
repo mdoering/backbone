@@ -1,5 +1,4 @@
-Russula affinis Burl. SPECIES
-=======
+# Russula affinis Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cirsii Ellis & Everh. SPECIES
-=======
+# Cercospora cirsii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

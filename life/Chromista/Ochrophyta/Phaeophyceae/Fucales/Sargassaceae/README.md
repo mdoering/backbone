@@ -1,5 +1,4 @@
-Sargassaceae Kützing, 1843 FAMILY
-=======
+# Sargassaceae Kützing, 1843 FAMILY
 
 #### Status
 ACCEPTED

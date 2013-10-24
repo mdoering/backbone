@@ -1,5 +1,4 @@
-Clathroconium Samson & H.C. Evans GENUS
-=======
+# Clathroconium Samson & H.C. Evans GENUS
 
 #### Status
 ACCEPTED

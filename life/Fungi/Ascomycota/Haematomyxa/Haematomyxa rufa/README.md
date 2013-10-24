@@ -1,5 +1,4 @@
-Haematomyxa rufa (Ellis & Everh.) Rehm SPECIES
-=======
+# Haematomyxa rufa (Ellis & Everh.) Rehm SPECIES
 
 #### Status
 ACCEPTED

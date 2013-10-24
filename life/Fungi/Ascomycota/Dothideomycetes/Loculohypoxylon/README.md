@@ -1,5 +1,4 @@
-Loculohypoxylon M.E. Barr GENUS
-=======
+# Loculohypoxylon M.E. Barr GENUS
 
 #### Status
 ACCEPTED

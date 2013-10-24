@@ -1,5 +1,4 @@
-Lecidea procellarum (A. Massal.) Stizenb. SPECIES
-=======
+# Lecidea procellarum (A. Massal.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

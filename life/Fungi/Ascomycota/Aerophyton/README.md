@@ -1,5 +1,4 @@
-Aerophyton Eschw. GENUS
-=======
+# Aerophyton Eschw. GENUS
 
 #### Status
 ACCEPTED

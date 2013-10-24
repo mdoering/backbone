@@ -1,5 +1,4 @@
-Uromyces isachnes Petch SPECIES
-=======
+# Uromyces isachnes Petch SPECIES
 
 #### Status
 ACCEPTED

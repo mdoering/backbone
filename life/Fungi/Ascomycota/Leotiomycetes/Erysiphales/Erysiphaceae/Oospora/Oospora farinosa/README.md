@@ -1,5 +1,4 @@
-Oospora farinosa (P. Mazé) Berkhout SPECIES
-=======
+# Oospora farinosa (P. Mazé) Berkhout SPECIES
 
 #### Status
 ACCEPTED

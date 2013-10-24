@@ -1,5 +1,4 @@
-Gyrophora rigida var. rigida VARIETY
-=======
+# Gyrophora rigida Du Rietz SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ark. Bot. 19(no. 12): 3 (1925)
 
 #### Original name
-Gyrophora rigida var. rigida
+Gyrophora rigida Du Rietz
 
 ### Remarks
 null

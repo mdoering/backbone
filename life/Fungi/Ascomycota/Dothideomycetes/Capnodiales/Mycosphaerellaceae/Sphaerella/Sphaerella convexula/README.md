@@ -1,5 +1,4 @@
-Sphaerella convexula f. convexula FORM
-=======
+# Sphaerella convexula (Schwein.) Thüm. SPECIES
 
 #### Status
 ACCEPTED

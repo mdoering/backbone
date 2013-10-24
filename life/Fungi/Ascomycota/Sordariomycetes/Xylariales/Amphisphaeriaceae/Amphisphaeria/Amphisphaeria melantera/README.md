@@ -1,5 +1,4 @@
-Amphisphaeria melantera Ellis & Everh. SPECIES
-=======
+# Amphisphaeria melantera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

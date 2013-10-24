@@ -1,5 +1,4 @@
-Thelotrema porinaceum Müll. Arg. SPECIES
-=======
+# Thelotrema porinaceum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

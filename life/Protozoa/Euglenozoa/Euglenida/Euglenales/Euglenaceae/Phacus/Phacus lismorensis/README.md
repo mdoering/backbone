@@ -1,5 +1,4 @@
-Phacus lismorensis Playfair SPECIES
-=======
+# Phacus lismorensis Playfair SPECIES
 
 #### Status
 ACCEPTED

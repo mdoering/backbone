@@ -1,17 +1,16 @@
-Stictina taylori C.W. Dodge SPECIES
-=======
+# Stictina taylorii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 19(3-4): 474. 1970 (1971)
 
 #### Original name
-Stictina taylori C.W. Dodge
+Stictina taylorii C.W. Dodge
 
 ### Remarks
 null

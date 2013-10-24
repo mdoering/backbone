@@ -1,5 +1,4 @@
-Pedinocyclus larvalis (Bukry & Bramlette, 1969) Loeblich & Tappan, 1973 SPECIES
-=======
+# Pedinocyclus larvalis (Bukry & Bramlette, 1969) Loeblich & Tappan, 1973 SPECIES
 
 #### Status
 ACCEPTED

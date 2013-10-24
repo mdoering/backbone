@@ -1,5 +1,4 @@
-Puccinia malatyensis Gjaerum & Bahç. SPECIES
-=======
+# Puccinia malatyensis Gjaerum & Bahç. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schulzeria pluteoides Rick SPECIES
-=======
+# Schulzeria pluteoides Rick SPECIES
 
 #### Status
 ACCEPTED

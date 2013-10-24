@@ -1,5 +1,4 @@
-Inocybe pusilla Bres. SPECIES
-=======
+# Inocybe pusilla Bres. SPECIES
 
 #### Status
 ACCEPTED

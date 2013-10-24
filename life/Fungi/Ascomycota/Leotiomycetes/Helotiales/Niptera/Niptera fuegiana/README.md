@@ -1,5 +1,4 @@
-Niptera fuegiana Speg. SPECIES
-=======
+# Niptera fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

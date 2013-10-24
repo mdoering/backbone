@@ -1,5 +1,4 @@
-Angulomicrobium amanitiforme Fritz et al., 2004 SPECIES
-=======
+# Angulomicrobium amanitiforme Fritz et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

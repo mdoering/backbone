@@ -1,5 +1,4 @@
-Cenangium melanophaeum Kunze ex Fr. SPECIES
-=======
+# Cenangium melanophaeum Kunze ex Fr. SPECIES
 
 #### Status
 ACCEPTED

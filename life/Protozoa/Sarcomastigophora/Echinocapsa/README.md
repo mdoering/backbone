@@ -1,5 +1,4 @@
-Echinocapsa Haeckel, 1881 GENUS
-=======
+# Echinocapsa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

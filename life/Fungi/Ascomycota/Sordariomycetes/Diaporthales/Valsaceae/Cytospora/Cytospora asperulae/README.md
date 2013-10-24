@@ -1,5 +1,4 @@
-Cytospora asperulae Delacr. SPECIES
-=======
+# Cytospora asperulae Delacr. SPECIES
 
 #### Status
 ACCEPTED

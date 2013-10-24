@@ -1,5 +1,4 @@
-Centrolonche Popofsky, 1912 GENUS
-=======
+# Centrolonche Popofsky, 1912 GENUS
 
 #### Status
 ACCEPTED

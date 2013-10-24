@@ -1,5 +1,4 @@
-Sclerographium Berk. GENUS
-=======
+# Sclerographium Berk. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota subdryophila Murrill SPECIES
-=======
+# Lepiota subdryophila Murrill SPECIES
 
 #### Status
 ACCEPTED

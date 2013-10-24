@@ -1,5 +1,4 @@
-Pyrenochaeta brachylasia Kirschst. SPECIES
-=======
+# Pyrenochaeta brachylasia Kirschst. SPECIES
 
 #### Status
 ACCEPTED

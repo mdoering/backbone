@@ -1,5 +1,4 @@
-Rinodina sheardii Tønsberg SPECIES
-=======
+# Rinodina sheardii Tønsberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chordaria gracilis Setchell & N.L. Gardner SPECIES
-=======
+# Chordaria gracilis Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

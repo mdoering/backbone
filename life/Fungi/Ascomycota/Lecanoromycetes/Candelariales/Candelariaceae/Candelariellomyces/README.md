@@ -1,5 +1,4 @@
-Candelariellomyces GENUS
-=======
+# Candelariellomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrypella barleriae Syd. SPECIES
-=======
+# Diatrypella barleriae Syd. SPECIES
 
 #### Status
 ACCEPTED

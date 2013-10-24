@@ -1,5 +1,4 @@
-Chitonomyces atricornis Thaxt. SPECIES
-=======
+# Chitonomyces atricornis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

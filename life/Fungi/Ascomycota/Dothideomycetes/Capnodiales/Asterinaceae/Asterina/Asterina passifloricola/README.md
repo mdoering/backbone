@@ -1,5 +1,4 @@
-Asterina passifloricola R.W. Ryan SPECIES
-=======
+# Asterina passifloricola R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sebacina reticulata Pat. SPECIES
-=======
+# Sebacina reticulata Pat. SPECIES
 
 #### Status
 ACCEPTED

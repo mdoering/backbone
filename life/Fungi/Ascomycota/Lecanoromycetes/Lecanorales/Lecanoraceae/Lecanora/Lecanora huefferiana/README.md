@@ -1,5 +1,4 @@
-Lecanora huefferiana SPECIES
-=======
+# Lecanora huefferiana SPECIES
 
 #### Status
 ACCEPTED

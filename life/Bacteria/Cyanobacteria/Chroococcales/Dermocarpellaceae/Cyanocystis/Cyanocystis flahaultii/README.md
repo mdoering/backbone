@@ -1,8 +1,7 @@
-Chamaecalyx flahaultii (Sauvageau) Komárek & Anagnostidis SPECIES
-=======
+# Cyanocystis flahaultii (Sauvageau) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

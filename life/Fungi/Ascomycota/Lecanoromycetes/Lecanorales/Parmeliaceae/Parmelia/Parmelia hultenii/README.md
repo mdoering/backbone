@@ -1,5 +1,4 @@
-Parmelia hultenii Degel. SPECIES
-=======
+# Parmelia hultenii Degel. SPECIES
 
 #### Status
 ACCEPTED

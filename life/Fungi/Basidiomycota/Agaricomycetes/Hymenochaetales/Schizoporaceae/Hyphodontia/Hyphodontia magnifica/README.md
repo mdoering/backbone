@@ -1,17 +1,16 @@
-Lagarobasidium magnificum (Gresl. & Rajchenb.) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia magnifica Gresl. & Rajchenb., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 92(6): 1160 (2000)
 
 #### Original name
-null
+Hyphodontia magnifica Gresl. & Rajchenb., 2000
 
 ### Remarks
 null

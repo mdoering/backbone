@@ -1,5 +1,4 @@
-Collybia velutina Clem. SPECIES
-=======
+# Collybia velutina Clem. SPECIES
 
 #### Status
 ACCEPTED

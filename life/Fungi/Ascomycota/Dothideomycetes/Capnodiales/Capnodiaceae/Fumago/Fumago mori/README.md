@@ -1,5 +1,4 @@
-Fumago mori Catt. SPECIES
-=======
+# Fumago mori Catt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alectoria nitidula f. nitidula FORM
-=======
+# Alectoria nitidula SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Alectoria nitidula f. nitidula
+null
 
 ### Remarks
 null

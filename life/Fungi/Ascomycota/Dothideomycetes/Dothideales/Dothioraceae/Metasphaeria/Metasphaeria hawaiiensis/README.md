@@ -1,5 +1,4 @@
-Metasphaeria hawaiiensis F. Stevens & P.A. Young SPECIES
-=======
+# Metasphaeria hawaiiensis F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

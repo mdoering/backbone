@@ -1,5 +1,4 @@
-Scaphidiomyces Thaxt. GENUS
-=======
+# Scaphidiomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

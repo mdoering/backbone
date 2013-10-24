@@ -1,5 +1,4 @@
-Sphaeria umbratilis Rebent. SPECIES
-=======
+# Sphaeria umbratilis Rebent. SPECIES
 
 #### Status
 ACCEPTED

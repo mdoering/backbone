@@ -1,5 +1,4 @@
-Buellia disjecta Zahlbr. SPECIES
-=======
+# Buellia disjecta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

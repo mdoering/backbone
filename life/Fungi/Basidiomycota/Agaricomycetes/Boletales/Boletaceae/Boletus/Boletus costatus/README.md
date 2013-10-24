@@ -1,5 +1,4 @@
-Boletus costatus Rostr. SPECIES
-=======
+# Boletus costatus Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracothecium welwitschii Upreti & Ajay Singh SPECIES
-=======
+# Anthracothecium welwitschii Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum briosii Turconi SPECIES
-=======
+# Colletotrichum briosii Turconi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Quercella Velen. GENUS
-=======
+# Phaeocollybia R. Heim, 1931 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ceské Houby 3: 495 (1921)
+null
 
 #### Original name
-Quercella Velen.
+null
 
 ### Remarks
 null

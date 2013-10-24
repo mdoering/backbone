@@ -1,17 +1,16 @@
-Candida silvicola var. silvicola Shifrine & Phaff VARIETY
-=======
+# Nakazawaea holstii (Wick.) Y. Yamada, K. Maeda & Mikata, 1994 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 48: 47 (1956)
+Biosc. , Biotechn. , Biochem. 58(7): 1256 (1994)
 
 #### Original name
-Candida silvicola var. silvicola Shifrine & Phaff
+Hansenula holstii Wick., 1961
 
 ### Remarks
 null

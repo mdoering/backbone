@@ -1,5 +1,4 @@
-Arecophila chamaeropis (Bertault & Malençon) K.D. Hyde SPECIES
-=======
+# Arecophila chamaeropis (Bertault & Malençon) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

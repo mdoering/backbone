@@ -1,5 +1,4 @@
-Anthostomella capensis Doidge SPECIES
-=======
+# Anthostomella capensis Doidge SPECIES
 
 #### Status
 ACCEPTED

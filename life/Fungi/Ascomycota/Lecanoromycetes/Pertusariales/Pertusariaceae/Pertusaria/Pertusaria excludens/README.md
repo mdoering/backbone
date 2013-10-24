@@ -1,17 +1,16 @@
-Pertusaria excludens var. teneriffensis (Vain.) Erichsen VARIETY
-=======
+# Pertusaria excludens Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 68: 296 (1885)
 
 #### Original name
-Pertusaria teneriffensis Vain.
+Pertusaria excludens Nyl.
 
 ### Remarks
 null

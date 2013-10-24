@@ -1,5 +1,4 @@
-Ramalina reptans Kashiw., C.W. Sm. & K.H. Moon SPECIES
-=======
+# Ramalina reptans Kashiw., C.W. Sm. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

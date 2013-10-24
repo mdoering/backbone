@@ -1,5 +1,4 @@
-Phacidium sphaeroideum Cooke & Ellis SPECIES
-=======
+# Phacidium sphaeroideum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

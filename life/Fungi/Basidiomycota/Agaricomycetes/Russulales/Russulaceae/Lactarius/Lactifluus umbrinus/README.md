@@ -1,5 +1,4 @@
-Lactifluus umbrinus (Pers.) Kuntze SPECIES
-=======
+# Lactifluus umbrinus (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hansfordiopeltis ocoteae Bat. & Peres SPECIES
-=======
+# Hansfordiopeltis ocoteae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

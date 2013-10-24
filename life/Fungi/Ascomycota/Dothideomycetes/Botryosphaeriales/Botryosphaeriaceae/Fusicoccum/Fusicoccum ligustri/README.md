@@ -1,5 +1,4 @@
-Fusicoccum ligustri Died. SPECIES
-=======
+# Fusicoccum ligustri Died. SPECIES
 
 #### Status
 ACCEPTED

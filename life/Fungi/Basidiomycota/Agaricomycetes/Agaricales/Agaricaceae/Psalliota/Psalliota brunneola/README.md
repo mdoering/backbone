@@ -1,5 +1,4 @@
-Psalliota brunneola J.E. Lange SPECIES
-=======
+# Psalliota brunneola J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

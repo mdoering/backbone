@@ -1,5 +1,4 @@
-Septobasidium crustaceum Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium crustaceum Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

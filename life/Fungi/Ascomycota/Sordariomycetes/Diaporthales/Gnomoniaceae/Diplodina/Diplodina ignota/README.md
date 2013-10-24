@@ -1,5 +1,4 @@
-Diplodina ignota Bat. SPECIES
-=======
+# Diplodina ignota Bat. SPECIES
 
 #### Status
 ACCEPTED

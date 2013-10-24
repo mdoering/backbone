@@ -1,5 +1,4 @@
-Selenophoma tritici X.J. Liu, Y.L. Guo & H.G. Liu SPECIES
-=======
+# Selenophoma tritici X.J. Liu, Y.L. Guo & H.G. Liu SPECIES
 
 #### Status
 ACCEPTED

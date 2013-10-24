@@ -1,5 +1,4 @@
-Macroplodia punctum (Cooke & Ellis) Kuntze SPECIES
-=======
+# Macroplodia punctum (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

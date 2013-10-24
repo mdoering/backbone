@@ -1,5 +1,4 @@
-Anthracothecium lugescens (Nyl.) Zahlbr. SPECIES
-=======
+# Anthracothecium lugescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Antrodiella citrinella Niemelä & Ryvarden, 1983 SPECIES
-=======
+# Flaviporus citrinellus (Niemelä & Ryvarden) Ginns, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 23(1): 26 (1983)
+Mycotaxon 21: 326 (1984)
 
 #### Original name
 Antrodiella citrinella Niemelä & Ryvarden, 1983

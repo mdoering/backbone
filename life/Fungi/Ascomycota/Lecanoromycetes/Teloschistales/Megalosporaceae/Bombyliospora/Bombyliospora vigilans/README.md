@@ -1,5 +1,4 @@
-Bombyliospora vigilans (Taylor) C.W. Dodge SPECIES
-=======
+# Bombyliospora vigilans (Taylor) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

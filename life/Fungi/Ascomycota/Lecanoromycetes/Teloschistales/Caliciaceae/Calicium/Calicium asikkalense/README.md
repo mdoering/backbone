@@ -1,5 +1,4 @@
-Calicium asikkalense Vain. SPECIES
-=======
+# Calicium asikkalense Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella subglacialis Rehm SPECIES
-=======
+# Pezizella subglacialis Rehm SPECIES
 
 #### Status
 ACCEPTED

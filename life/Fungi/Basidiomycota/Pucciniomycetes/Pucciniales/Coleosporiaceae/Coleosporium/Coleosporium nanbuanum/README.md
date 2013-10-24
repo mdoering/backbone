@@ -1,5 +1,4 @@
-Coleosporium nanbuanum Henn. SPECIES
-=======
+# Coleosporium nanbuanum Henn. SPECIES
 
 #### Status
 ACCEPTED

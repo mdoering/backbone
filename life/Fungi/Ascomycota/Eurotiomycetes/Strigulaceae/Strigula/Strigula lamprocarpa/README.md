@@ -1,5 +1,4 @@
-Strigula lamprocarpa Müll. Arg. SPECIES
-=======
+# Strigula lamprocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

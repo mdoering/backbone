@@ -1,5 +1,4 @@
-Crauatamyces Viégas GENUS
-=======
+# Crauatamyces Viégas GENUS
 
 #### Status
 ACCEPTED

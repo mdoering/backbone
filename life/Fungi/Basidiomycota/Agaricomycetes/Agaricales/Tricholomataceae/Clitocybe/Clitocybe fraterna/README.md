@@ -1,5 +1,4 @@
-Clitocybe fraterna Kauffman SPECIES
-=======
+# Clitocybe fraterna Kauffman SPECIES
 
 #### Status
 ACCEPTED

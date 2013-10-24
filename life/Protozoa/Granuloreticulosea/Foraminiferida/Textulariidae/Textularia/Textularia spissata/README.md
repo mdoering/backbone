@@ -1,5 +1,4 @@
-Textularia spissata Zheng & Fu, 2001 SPECIES
-=======
+# Textularia spissata Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

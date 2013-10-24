@@ -1,5 +1,4 @@
-Rinodina balanina (Wahlenb.) Vain. SPECIES
-=======
+# Rinodina balanina (Wahlenb.) Vain. SPECIES
 
 #### Status
 ACCEPTED

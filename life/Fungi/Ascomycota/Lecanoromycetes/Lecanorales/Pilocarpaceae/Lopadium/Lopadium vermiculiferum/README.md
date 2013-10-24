@@ -1,5 +1,4 @@
-Lopadium vermiculiferum (Vain.) Zahlbr. SPECIES
-=======
+# Lopadium vermiculiferum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

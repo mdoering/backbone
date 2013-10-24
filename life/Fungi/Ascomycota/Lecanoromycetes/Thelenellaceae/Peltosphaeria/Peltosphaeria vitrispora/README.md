@@ -1,5 +1,4 @@
-Peltosphaeria vitrispora f. vitrispora FORM
-=======
+# Peltosphaeria vitrispora SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltosphaeria vitrispora f. vitrispora
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cryptosordaria GENUS
-=======
+# Cryptosordaria GENUS
 
 #### Status
 ACCEPTED

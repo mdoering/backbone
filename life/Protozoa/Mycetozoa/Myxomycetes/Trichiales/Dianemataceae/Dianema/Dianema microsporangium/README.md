@@ -1,5 +1,4 @@
-Dianema microsporangium H.Z. Li & Yu Li, 1990 SPECIES
-=======
+# Dianema microsporangium H.Z. Li & Yu Li, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria rubiginella P.M. Jørg. SPECIES
-=======
+# Pannaria rubiginella P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

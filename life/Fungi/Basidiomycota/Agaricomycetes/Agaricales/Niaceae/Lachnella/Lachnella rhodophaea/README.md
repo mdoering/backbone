@@ -1,5 +1,4 @@
-Lachnella rhodophaea Sacc. SPECIES
-=======
+# Lachnella rhodophaea Sacc. SPECIES
 
 #### Status
 ACCEPTED

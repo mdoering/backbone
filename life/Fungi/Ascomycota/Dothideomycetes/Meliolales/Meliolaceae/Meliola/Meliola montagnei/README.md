@@ -1,5 +1,4 @@
-Meliola montagnei Pat. SPECIES
-=======
+# Meliola montagnei Pat. SPECIES
 
 #### Status
 ACCEPTED

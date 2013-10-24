@@ -1,5 +1,4 @@
-Pleospora lini-cathartici Unamuno SPECIES
-=======
+# Pleospora lini-cathartici Unamuno SPECIES
 
 #### Status
 ACCEPTED

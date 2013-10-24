@@ -1,5 +1,4 @@
-Usnea albomaculata Motyka SPECIES
-=======
+# Usnea albomaculata Motyka SPECIES
 
 #### Status
 ACCEPTED

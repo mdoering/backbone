@@ -1,5 +1,4 @@
-Elphidium decipiens (O.G.Costa, 1856) SPECIES
-=======
+# Elphidium decipiens (O.G.Costa, 1856) SPECIES
 
 #### Status
 ACCEPTED

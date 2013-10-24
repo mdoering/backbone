@@ -1,5 +1,4 @@
-Arthrobotryum cycadicola Thirum. SPECIES
-=======
+# Arthrobotryum cycadicola Thirum. SPECIES
 
 #### Status
 ACCEPTED

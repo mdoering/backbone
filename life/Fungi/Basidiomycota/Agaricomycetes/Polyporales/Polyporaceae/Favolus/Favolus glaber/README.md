@@ -1,5 +1,4 @@
-Favolus glaber P. Beauv. SPECIES
-=======
+# Favolus glaber P. Beauv. SPECIES
 
 #### Status
 ACCEPTED

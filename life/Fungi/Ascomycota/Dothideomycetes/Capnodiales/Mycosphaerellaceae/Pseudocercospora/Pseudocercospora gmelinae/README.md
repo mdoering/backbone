@@ -1,5 +1,4 @@
-Pseudocercospora gmelinae (J.M. Yen & Gilles) J.M. Yen SPECIES
-=======
+# Pseudocercospora gmelinae (J.M. Yen & Gilles) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

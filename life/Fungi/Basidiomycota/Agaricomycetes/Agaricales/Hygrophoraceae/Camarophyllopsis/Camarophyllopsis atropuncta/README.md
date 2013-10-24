@@ -1,14 +1,13 @@
-Omphalia atropuncta (Pers.) Sacc., 1887 SPECIES
-=======
+# Camarophyllopsis atropuncta (Pers.) Arnolds, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 25(2): 642 (1986)
 
 #### Original name
 Agaricus atropunctus Pers., 1801

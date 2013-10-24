@@ -1,5 +1,4 @@
-Sentusidinium neophytensum (N.S. Ioannides, G.N. Stavrinos & C. Downie) W.A.S. Sarjeant & L.E. Stover SPECIES
-=======
+# Sentusidinium neophytensum (N.S. Ioannides, G.N. Stavrinos & C. Downie) W.A.S. Sarjeant & L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

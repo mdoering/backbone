@@ -1,5 +1,4 @@
-Pseudospirillum Satomi, Kimura, Hamada, Harayama & Fujii, 2002 GENUS
-=======
+# Pseudospirillum Satomi, Kimura, Hamada, Harayama & Fujii, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycocandida rosea (Zenoni) C.W. Dodge SPECIES
-=======
+# Mycocandida rosea (Zenoni) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

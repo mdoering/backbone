@@ -1,8 +1,7 @@
-Nectria berolinensis (Sacc.) Cooke, 1884 SPECIES
-=======
+# Thyronectria berolinensis (Sacc.) Seaver, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

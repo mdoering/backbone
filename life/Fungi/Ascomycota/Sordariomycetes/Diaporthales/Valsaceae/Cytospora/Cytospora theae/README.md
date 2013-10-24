@@ -1,5 +1,4 @@
-Cytospora theae Petch SPECIES
-=======
+# Cytospora theae Petch SPECIES
 
 #### Status
 ACCEPTED

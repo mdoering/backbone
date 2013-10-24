@@ -1,5 +1,4 @@
-Buedingiisphaeridium guttiferum Uutela & Tynni, 1991 SPECIES
-=======
+# Buedingiisphaeridium guttiferum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

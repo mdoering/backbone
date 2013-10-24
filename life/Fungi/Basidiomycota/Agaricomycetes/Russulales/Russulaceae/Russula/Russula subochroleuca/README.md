@@ -1,5 +1,4 @@
-Russula subochroleuca Murrill SPECIES
-=======
+# Russula subochroleuca Murrill SPECIES
 
 #### Status
 ACCEPTED

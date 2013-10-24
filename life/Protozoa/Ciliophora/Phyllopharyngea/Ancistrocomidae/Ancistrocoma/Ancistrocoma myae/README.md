@@ -1,8 +1,7 @@
-Parachaenia myae Kofoid & Bush, 1936 SPECIES
-=======
+# Ancistrocoma myae (Kofoid & Bush, 1936) Chatton & Lwoff, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

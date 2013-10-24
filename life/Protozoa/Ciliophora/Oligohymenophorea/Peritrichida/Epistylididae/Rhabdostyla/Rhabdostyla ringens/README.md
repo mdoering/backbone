@@ -1,5 +1,4 @@
-Rhabdostyla ringens sensu Fromentel SPECIES
-=======
+# Rhabdostyla ringens sensu Fromentel SPECIES
 
 #### Status
 ACCEPTED

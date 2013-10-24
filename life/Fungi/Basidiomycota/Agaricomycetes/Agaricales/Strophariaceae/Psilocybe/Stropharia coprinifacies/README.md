@@ -1,5 +1,4 @@
-Stropharia coprinifacies Rolland SPECIES
-=======
+# Stropharia coprinifacies Rolland SPECIES
 
 #### Status
 ACCEPTED

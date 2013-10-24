@@ -1,5 +1,4 @@
-Oidium album Sumst. SPECIES
-=======
+# Oidium album Sumst. SPECIES
 
 #### Status
 ACCEPTED

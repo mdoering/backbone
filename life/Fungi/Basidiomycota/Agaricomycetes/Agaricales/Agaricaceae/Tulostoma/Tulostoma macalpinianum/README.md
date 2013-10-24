@@ -1,5 +1,4 @@
-Tulostoma macalpinianum Lloyd SPECIES
-=======
+# Tulostoma macalpinianum Lloyd SPECIES
 
 #### Status
 ACCEPTED

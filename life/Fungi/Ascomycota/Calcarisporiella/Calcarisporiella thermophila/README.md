@@ -1,17 +1,16 @@
-Calcarisporium thermophile H.C. Evans SPECIES
-=======
+# Calcarisporiella thermophila (H.C. Evans) de Hoog, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 7: 68 (1974)
 
 #### Original name
-Calcarisporium thermophile H.C. Evans
+Calcarisporium thermophilum H.C. Evans, 1971
 
 ### Remarks
 null

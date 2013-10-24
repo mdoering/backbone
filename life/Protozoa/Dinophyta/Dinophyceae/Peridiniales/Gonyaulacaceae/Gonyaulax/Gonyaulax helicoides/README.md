@@ -1,5 +1,4 @@
-Gonyaulax helicoides SPECIES
-=======
+# Gonyaulax helicoides SPECIES
 
 #### Status
 ACCEPTED

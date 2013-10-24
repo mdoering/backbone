@@ -1,5 +1,4 @@
-Leptostroma petiolorum Cooke & Ellis SPECIES
-=======
+# Leptostroma petiolorum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

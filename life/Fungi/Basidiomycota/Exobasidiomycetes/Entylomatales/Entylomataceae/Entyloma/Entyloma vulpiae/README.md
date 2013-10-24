@@ -1,5 +1,4 @@
-Entyloma vulpiae Massenot SPECIES
-=======
+# Entyloma vulpiae Massenot SPECIES
 
 #### Status
 ACCEPTED

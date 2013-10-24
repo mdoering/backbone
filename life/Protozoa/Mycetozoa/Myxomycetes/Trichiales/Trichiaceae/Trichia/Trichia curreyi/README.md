@@ -1,5 +1,4 @@
-Trichia curreyi P. Crouan & H. Crouan SPECIES
-=======
+# Trichia curreyi P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

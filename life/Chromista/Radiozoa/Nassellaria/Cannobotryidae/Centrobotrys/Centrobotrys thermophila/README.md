@@ -1,8 +1,7 @@
-Centrobotrys therrnophila SPECIES
-=======
+# Centrobotrys thermophila Petrushevskaya, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

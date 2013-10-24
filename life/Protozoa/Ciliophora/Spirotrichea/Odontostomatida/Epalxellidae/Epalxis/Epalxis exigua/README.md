@@ -1,5 +1,4 @@
-Epalxis exigua SPECIES
-=======
+# Epalxis exigua SPECIES
 
 #### Status
 ACCEPTED

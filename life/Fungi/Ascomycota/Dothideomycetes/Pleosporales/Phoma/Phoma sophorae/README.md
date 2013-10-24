@@ -1,17 +1,16 @@
-Phoma sophorae f. sophorae FORM
-=======
+# Phoma sophorae SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Phoma sophorae f. sophorae
+null
 
 ### Remarks
 null

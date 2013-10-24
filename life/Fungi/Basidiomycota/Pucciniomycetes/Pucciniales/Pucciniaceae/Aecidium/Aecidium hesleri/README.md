@@ -1,5 +1,4 @@
-Aecidium hesleri Arthur SPECIES
-=======
+# Aecidium hesleri Arthur SPECIES
 
 #### Status
 ACCEPTED

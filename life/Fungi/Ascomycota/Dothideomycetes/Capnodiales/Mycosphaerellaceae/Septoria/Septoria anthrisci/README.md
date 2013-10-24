@@ -1,5 +1,4 @@
-Septoria anthrisci Pass. & Brunaud SPECIES
-=======
+# Septoria anthrisci Pass. & Brunaud SPECIES
 
 #### Status
 ACCEPTED

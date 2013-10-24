@@ -1,14 +1,13 @@
-Graphis subtigrina Vain. SPECIES
-=======
+# Phaeographis subtigrina (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 46: 177 (1907)
+Cat. Lich. Univers. 2: 287 (1923)
 
 #### Original name
 Graphis subtigrina Vain.

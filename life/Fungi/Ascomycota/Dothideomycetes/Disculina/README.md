@@ -1,5 +1,4 @@
-Disculina von Höhnel, 1916 GENUS
-=======
+# Disculina von Höhnel, 1916 GENUS
 
 #### Status
 ACCEPTED

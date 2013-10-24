@@ -1,5 +1,4 @@
-Fungoides aureum P. Micheli SPECIES
-=======
+# Fungoides aureum P. Micheli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctidium bumilleriae Couch SPECIES
-=======
+# Phlyctidium bumilleriae Couch SPECIES
 
 #### Status
 ACCEPTED

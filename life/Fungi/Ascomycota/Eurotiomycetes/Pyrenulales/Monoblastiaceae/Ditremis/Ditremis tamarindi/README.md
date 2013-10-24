@@ -1,5 +1,4 @@
-Ditremis tamarindi (Fée) R.C. Harris SPECIES
-=======
+# Ditremis tamarindi (Fée) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

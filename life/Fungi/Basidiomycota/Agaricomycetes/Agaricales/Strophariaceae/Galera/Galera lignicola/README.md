@@ -1,5 +1,4 @@
-Galera lignicola (Murrill) Sacc. & Trotter SPECIES
-=======
+# Galera lignicola (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

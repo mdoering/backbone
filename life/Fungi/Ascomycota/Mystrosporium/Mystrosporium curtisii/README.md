@@ -1,5 +1,4 @@
-Mystrosporium curtisii Berk. & M.A. Curtis SPECIES
-=======
+# Mystrosporium curtisii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annularia teisserei De Seynes SPECIES
-=======
+# Annularia teisserei De Seynes SPECIES
 
 #### Status
 ACCEPTED

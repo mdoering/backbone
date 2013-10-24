@@ -1,5 +1,4 @@
-Lembosia lagerstroemiae Hosag. & T.K. Abraham SPECIES
-=======
+# Lembosia lagerstroemiae Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

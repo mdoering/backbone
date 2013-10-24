@@ -1,14 +1,13 @@
-Physalospora atractina Syd. & P. Syd., 1916 SPECIES
-=======
+# Plectosphaera atractina (Syd. & P. Syd.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(1/2): 79 (1916)
+Beitr. Kryptfl. Schweiz 11(no. 1): 210 (1954)
 
 #### Original name
 Physalospora atractina Syd. & P. Syd., 1916

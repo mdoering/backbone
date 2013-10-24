@@ -1,5 +1,4 @@
-Zymobacterium Wachsman & Barker, 1954 GENUS
-=======
+# Zymobacterium Wachsman & Barker, 1954 GENUS
 
 #### Status
 ACCEPTED

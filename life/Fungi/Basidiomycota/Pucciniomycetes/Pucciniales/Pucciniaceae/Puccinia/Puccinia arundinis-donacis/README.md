@@ -1,5 +1,4 @@
-Puccinia arundinis-donacis T. Hirats. SPECIES
-=======
+# Puccinia arundinis-donacis T. Hirats. SPECIES
 
 #### Status
 ACCEPTED

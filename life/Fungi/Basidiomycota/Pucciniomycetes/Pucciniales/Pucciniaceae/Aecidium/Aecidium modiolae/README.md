@@ -1,5 +1,4 @@
-Aecidium modiolae Thüm. SPECIES
-=======
+# Aecidium modiolae Thüm. SPECIES
 
 #### Status
 ACCEPTED

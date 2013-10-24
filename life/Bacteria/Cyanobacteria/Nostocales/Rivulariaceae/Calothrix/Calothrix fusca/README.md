@@ -1,5 +1,4 @@
-Calothrix fusca (Kützing) Bornet & Flahault SPECIES
-=======
+# Calothrix fusca (Kützing) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia impolitella Nyl. SPECIES
-=======
+# Arthonia impolitella Nyl. SPECIES
 
 #### Status
 ACCEPTED

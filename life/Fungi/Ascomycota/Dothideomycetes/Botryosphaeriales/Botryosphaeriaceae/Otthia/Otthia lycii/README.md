@@ -1,5 +1,4 @@
-Otthia lycii Zerova SPECIES
-=======
+# Otthia lycii Zerova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vandalosphaeridium varangeri Vidal, 1981 SPECIES
-=======
+# Vandalosphaeridium varangeri Vidal, 1981 SPECIES
 
 #### Status
 ACCEPTED

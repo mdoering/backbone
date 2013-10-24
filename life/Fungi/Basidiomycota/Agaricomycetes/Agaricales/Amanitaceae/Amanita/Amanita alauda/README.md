@@ -1,5 +1,4 @@
-Amanita alauda Corner & Bas SPECIES
-=======
+# Amanita alauda Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

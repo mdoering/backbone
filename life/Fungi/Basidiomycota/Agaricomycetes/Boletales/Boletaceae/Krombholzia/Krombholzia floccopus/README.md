@@ -1,5 +1,4 @@
-Krombholzia floccopus E.-J. Gilbert SPECIES
-=======
+# Krombholzia floccopus E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

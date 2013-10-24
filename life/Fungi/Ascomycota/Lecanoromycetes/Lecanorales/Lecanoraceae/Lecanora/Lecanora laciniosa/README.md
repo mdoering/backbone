@@ -1,5 +1,4 @@
-Lecanora laciniosa Nyl. SPECIES
-=======
+# Lecanora laciniosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

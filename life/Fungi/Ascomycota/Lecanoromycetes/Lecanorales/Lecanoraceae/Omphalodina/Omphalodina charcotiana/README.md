@@ -1,5 +1,4 @@
-Omphalodina charcotiana (Hue) C.W. Dodge SPECIES
-=======
+# Omphalodina charcotiana (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

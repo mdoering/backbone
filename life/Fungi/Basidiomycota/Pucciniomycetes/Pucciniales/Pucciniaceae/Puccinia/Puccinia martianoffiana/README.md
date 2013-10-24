@@ -1,5 +1,4 @@
-Puccinia martianoffiana Thüm. SPECIES
-=======
+# Puccinia martianoffiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

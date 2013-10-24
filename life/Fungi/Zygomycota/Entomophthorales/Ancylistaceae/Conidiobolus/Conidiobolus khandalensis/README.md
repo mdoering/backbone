@@ -1,5 +1,4 @@
-Conidiobolus khandalensis Sriniv. & Thirum., 1963 SPECIES
-=======
+# Conidiobolus khandalensis Sriniv. & Thirum., 1963 SPECIES
 
 #### Status
 ACCEPTED

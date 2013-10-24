@@ -1,5 +1,4 @@
-Agaricus livens J.F. Gmel. SPECIES
-=======
+# Agaricus livens J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

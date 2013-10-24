@@ -1,5 +1,4 @@
-Chlorostroma A.N. Mill., Lar.N. Vassiljeva & J.D. Rogers GENUS
-=======
+# Chlorostroma A.N. Mill., Lar.N. Vassiljeva & J.D. Rogers GENUS
 
 #### Status
 ACCEPTED

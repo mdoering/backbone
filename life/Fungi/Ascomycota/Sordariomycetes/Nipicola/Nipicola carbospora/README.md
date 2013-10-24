@@ -1,5 +1,4 @@
-Nipicola carbospora K.D. Hyde, 1992 SPECIES
-=======
+# Nipicola carbospora K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia macularis SPECIES
-=======
+# Microthelia macularis SPECIES
 
 #### Status
 ACCEPTED

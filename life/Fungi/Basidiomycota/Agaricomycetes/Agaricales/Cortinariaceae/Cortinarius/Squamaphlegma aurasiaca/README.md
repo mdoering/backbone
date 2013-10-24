@@ -1,5 +1,4 @@
-Squamaphlegma aurasiaca (Pat.) Locq. SPECIES
-=======
+# Squamaphlegma aurasiaca (Pat.) Locq. SPECIES
 
 #### Status
 ACCEPTED

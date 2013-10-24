@@ -1,5 +1,4 @@
-Balansia ambiens Möller SPECIES
-=======
+# Balansia ambiens Möller SPECIES
 
 #### Status
 ACCEPTED

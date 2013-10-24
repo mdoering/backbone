@@ -1,5 +1,4 @@
-Lobaria erosa (Eschw.) Trevis. SPECIES
-=======
+# Lobaria erosa (Eschw.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

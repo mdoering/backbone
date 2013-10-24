@@ -1,5 +1,4 @@
-Janacekia adipophila J.I.R. Larsson SPECIES
-=======
+# Janacekia adipophila J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

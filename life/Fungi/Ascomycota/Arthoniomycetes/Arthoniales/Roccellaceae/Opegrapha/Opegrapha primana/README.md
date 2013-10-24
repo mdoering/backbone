@@ -1,5 +1,4 @@
-Opegrapha primana Nyl. SPECIES
-=======
+# Opegrapha primana Nyl. SPECIES
 
 #### Status
 ACCEPTED

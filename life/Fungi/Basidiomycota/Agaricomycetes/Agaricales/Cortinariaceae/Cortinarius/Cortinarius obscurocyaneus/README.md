@@ -1,5 +1,4 @@
-Cortinarius obscurocyaneus Secr. ex J. Schröt. SPECIES
-=======
+# Cortinarius obscurocyaneus Secr. ex J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

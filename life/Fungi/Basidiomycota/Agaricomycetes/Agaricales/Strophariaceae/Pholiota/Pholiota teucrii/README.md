@@ -1,5 +1,4 @@
-Pholiota teucrii Bubák SPECIES
-=======
+# Pholiota teucrii Bubák SPECIES
 
 #### Status
 ACCEPTED

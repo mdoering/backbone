@@ -1,5 +1,4 @@
-Rosellinia somala Bacc. SPECIES
-=======
+# Rosellinia somala Bacc. SPECIES
 
 #### Status
 ACCEPTED

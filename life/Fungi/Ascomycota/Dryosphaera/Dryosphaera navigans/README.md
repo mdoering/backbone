@@ -1,17 +1,16 @@
-Dryosphaera tenuis Andrienko, 2001 SPECIES
-=======
+# Dryosphaera navigans Jørg. Koch & E.B.G. Jones, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 67(4): 1185 (1989)
 
 #### Original name
-null
+Dryosphaera navigans Jørg. Koch & E.B.G. Jones, 1989
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xylomites lignitum Ettingsh. SPECIES
-=======
+# Xylomites lignitum Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deightoniella alni Ondrej SPECIES
-=======
+# Deightoniella alni Ondrej SPECIES
 
 #### Status
 ACCEPTED

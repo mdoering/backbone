@@ -1,5 +1,4 @@
-Lentinus ledermannii Pilát SPECIES
-=======
+# Lentinus ledermannii Pilát SPECIES
 
 #### Status
 ACCEPTED

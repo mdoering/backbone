@@ -1,14 +1,13 @@
-Polyblastia schaereriana (A. Massal.) Müll. Arg. SPECIES
-=======
+# Sporodictyon schaererianum A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 35: 326 (1852)
 
 #### Original name
 Sporodictyon schaererianum A. Massal.

@@ -1,5 +1,4 @@
-Globigerina senni SPECIES
-=======
+# Globigerina senni SPECIES
 
 #### Status
 ACCEPTED

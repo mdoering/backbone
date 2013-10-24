@@ -1,5 +1,4 @@
-Dimeriella dubiosa (Speg.) Speg. SPECIES
-=======
+# Dimeriella dubiosa (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

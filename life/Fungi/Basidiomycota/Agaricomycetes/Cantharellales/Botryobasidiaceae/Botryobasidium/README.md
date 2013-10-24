@@ -1,17 +1,16 @@
-Cyanohypha Jülich GENUS
-=======
+# Botryobasidium Donk, 1931 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Persoonia 11(4): 421 (1982)
+null
 
 #### Original name
-Cyanohypha Jülich
+null
 
 ### Remarks
 null

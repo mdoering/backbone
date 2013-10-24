@@ -1,5 +1,4 @@
-Toxospora Voronin GENUS
-=======
+# Toxospora Voronin GENUS
 
 #### Status
 ACCEPTED

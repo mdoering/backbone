@@ -1,17 +1,16 @@
-Phyllosticta latifoliae Ellis & Everh. SPECIES
-=======
+# Phyllosticta latifolia Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1893 45: 454 (1893)
 
 #### Original name
-Phyllosticta latifoliae Ellis & Everh.
+Phyllosticta latifolia Ellis & Everh.
 
 ### Remarks
 null

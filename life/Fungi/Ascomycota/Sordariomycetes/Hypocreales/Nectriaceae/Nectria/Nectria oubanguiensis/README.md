@@ -1,5 +1,4 @@
-Nectria oubanguiensis Saccas SPECIES
-=======
+# Nectria oubanguiensis Saccas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes varians Van der Byl SPECIES
-=======
+# Trametes varians Van der Byl SPECIES
 
 #### Status
 ACCEPTED

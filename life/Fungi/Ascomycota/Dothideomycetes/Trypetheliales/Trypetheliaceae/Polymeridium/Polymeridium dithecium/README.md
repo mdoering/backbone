@@ -1,5 +1,4 @@
-Polymeridium dithecium R.C. Harris SPECIES
-=======
+# Polymeridium dithecium R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

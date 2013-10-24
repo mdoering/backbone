@@ -1,5 +1,4 @@
-Pleurotus macrosporus Mont. SPECIES
-=======
+# Pleurotus macrosporus Mont. SPECIES
 
 #### Status
 ACCEPTED

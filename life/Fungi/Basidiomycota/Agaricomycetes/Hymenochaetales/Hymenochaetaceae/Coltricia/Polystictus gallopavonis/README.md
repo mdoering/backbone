@@ -1,5 +1,4 @@
-Polystictus gallopavonis (Berk. & Broome) Cooke SPECIES
-=======
+# Polystictus gallopavonis (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

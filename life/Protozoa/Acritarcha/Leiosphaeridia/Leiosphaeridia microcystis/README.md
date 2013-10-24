@@ -1,5 +1,4 @@
-Leiosphaeridia microcystis Eisenack, 1938 ex Eisenack, 1958 SPECIES
-=======
+# Leiosphaeridia microcystis Eisenack, 1938 ex Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystopsora antidesmatis W.B. Cooke, 1952 SPECIES
-=======
+# Cystopsora antidesmatis W.B. Cooke, 1952 SPECIES
 
 #### Status
 ACCEPTED

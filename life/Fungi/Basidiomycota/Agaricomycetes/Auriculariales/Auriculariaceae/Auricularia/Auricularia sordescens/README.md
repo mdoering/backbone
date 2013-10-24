@@ -1,5 +1,4 @@
-Auricularia sordescens Ces., 1879 SPECIES
-=======
+# Auricularia sordescens Ces., 1879 SPECIES
 
 #### Status
 ACCEPTED

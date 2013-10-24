@@ -1,5 +1,4 @@
-Verrucaria albolinita Nyl. SPECIES
-=======
+# Verrucaria albolinita Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus subsulphureus (Peck) Murrill SPECIES
-=======
+# Gymnopus subsulphureus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

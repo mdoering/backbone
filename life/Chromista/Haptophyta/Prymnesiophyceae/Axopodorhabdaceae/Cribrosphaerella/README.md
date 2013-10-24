@@ -1,14 +1,13 @@
-Psyktosphaera J.J. Pospichal & S.W. Wise Jr., 1990 GENUS
-=======
+# Cribrosphaerella Deflandre, 1952 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc Ocean Drill Program Sci Results 113: 474.
+Traité Paléontol. 1: 111.
 
 #### Original name
 null

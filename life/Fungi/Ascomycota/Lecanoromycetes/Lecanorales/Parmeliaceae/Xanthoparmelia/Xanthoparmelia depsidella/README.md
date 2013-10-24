@@ -1,17 +1,16 @@
-Neofuscelia depsidella Elix SPECIES
-=======
+# Xanthoparmelia depsidella (Elix) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 53(4): 967 (2004)
 
 #### Original name
-null
+Neofuscelia depsidella Elix
 
 ### Remarks
 null

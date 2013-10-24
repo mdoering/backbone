@@ -1,5 +1,4 @@
-Flammula papuensis Cooke & Massee SPECIES
-=======
+# Flammula papuensis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

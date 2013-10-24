@@ -1,5 +1,4 @@
-Didymopyrostroma xylopiae Bat. & Cavalc. SPECIES
-=======
+# Didymopyrostroma xylopiae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

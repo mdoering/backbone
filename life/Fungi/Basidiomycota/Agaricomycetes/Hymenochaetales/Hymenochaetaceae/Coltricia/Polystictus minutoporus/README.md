@@ -1,5 +1,4 @@
-Polystictus minutoporus Lloyd SPECIES
-=======
+# Polystictus minutoporus Lloyd SPECIES
 
 #### Status
 ACCEPTED

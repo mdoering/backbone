@@ -1,8 +1,7 @@
-Nonionina scapha var. labradorica Dawson, 1860 VARIETY
-=======
+# Nonionellina labradorica (Dawson, 1860) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

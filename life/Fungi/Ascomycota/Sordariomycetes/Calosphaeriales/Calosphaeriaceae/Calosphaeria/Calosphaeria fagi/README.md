@@ -1,5 +1,4 @@
-Calosphaeria fagi Samuels & Cand. SPECIES
-=======
+# Calosphaeria fagi Samuels & Cand. SPECIES
 
 #### Status
 ACCEPTED

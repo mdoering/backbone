@@ -1,5 +1,4 @@
-Diporisporites ellipsoides (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Diporisporites ellipsoides (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

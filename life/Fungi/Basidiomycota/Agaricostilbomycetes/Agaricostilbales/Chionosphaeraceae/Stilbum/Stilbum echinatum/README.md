@@ -1,5 +1,4 @@
-Stilbum echinatum Ellis & Everh. SPECIES
-=======
+# Stilbum echinatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

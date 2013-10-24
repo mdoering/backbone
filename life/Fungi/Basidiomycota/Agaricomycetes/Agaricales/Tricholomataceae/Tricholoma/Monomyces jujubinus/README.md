@@ -1,5 +1,4 @@
-Monomyces jujubinus var. major Battarra VARIETY
-=======
+# Monomyces jujubinus anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monomyces jujubinus var. major Battarra
+Monomyces jujubinus anon.
 
 ### Remarks
 null

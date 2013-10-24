@@ -1,5 +1,4 @@
-Pleurotus campanulatus Peck SPECIES
-=======
+# Pleurotus campanulatus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maritalea Hwang, Cho, Yih & Cho, 2009 GENUS
-=======
+# Maritalea Hwang, Cho, Yih & Cho, 2009 GENUS
 
 #### Status
 ACCEPTED

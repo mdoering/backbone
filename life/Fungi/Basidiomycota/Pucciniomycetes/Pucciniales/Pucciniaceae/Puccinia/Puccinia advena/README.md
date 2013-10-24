@@ -1,5 +1,4 @@
-Puccinia advena Syd. SPECIES
-=======
+# Puccinia advena Syd. SPECIES
 
 #### Status
 ACCEPTED

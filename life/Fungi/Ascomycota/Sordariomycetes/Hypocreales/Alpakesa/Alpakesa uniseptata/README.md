@@ -1,14 +1,13 @@
-Kellermania uniseptata (Morgan-Jones, Nag Raj & W.B. Kendr.) Nag Raj, 1993 SPECIES
-=======
+# Alpakesa uniseptata Morgan-Jones, Nag Raj & W.B. Kendr., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 443 (1993)
+Can. J. Bot. 50: 879 (1972)
 
 #### Original name
 Alpakesa uniseptata Morgan-Jones, Nag Raj & W.B. Kendr., 1972

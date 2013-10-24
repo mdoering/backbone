@@ -1,5 +1,4 @@
-Phoma handelii (Bubák) Bubák SPECIES
-=======
+# Phoma handelii (Bubák) Bubák SPECIES
 
 #### Status
 ACCEPTED

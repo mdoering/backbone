@@ -1,14 +1,13 @@
-Monochaetia ceratoniae (Sousa da Câmara) B. Sutton, 1963 SPECIES
-=======
+# Monochaetinula ceratoniae (Sousa da Câmara) Nag Raj, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 88: 42 (1963)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 516 (1993)
 
 #### Original name
 Amphichaeta ceratoniae Sousa da Câmara, 1951

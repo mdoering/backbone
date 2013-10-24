@@ -1,5 +1,4 @@
-Trichosphaeria pachnostoma (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Trichosphaeria pachnostoma (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

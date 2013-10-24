@@ -1,5 +1,4 @@
-Trichothecium fusarioides F. Stevens SPECIES
-=======
+# Trichothecium fusarioides F. Stevens SPECIES
 
 #### Status
 ACCEPTED

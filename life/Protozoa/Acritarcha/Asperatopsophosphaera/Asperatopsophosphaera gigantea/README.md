@@ -1,5 +1,4 @@
-Asperatopsophosphaera gigantea Peng Changwen in Gao Zhenjia et al., 1980 SPECIES
-=======
+# Asperatopsophosphaera gigantea Peng Changwen in Gao Zhenjia et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lana reticulata Tendal & Hessler, 1977 SPECIES
-=======
+# Lana reticulata Tendal & Hessler, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia kansensis Ellis & Barthol., 1896 SPECIES
-=======
+# Puccinia kansensis Ellis & Barthol., 1896 SPECIES
 
 #### Status
 ACCEPTED

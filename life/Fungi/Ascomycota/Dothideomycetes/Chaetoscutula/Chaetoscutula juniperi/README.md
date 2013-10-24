@@ -1,5 +1,4 @@
-Chaetoscutula juniperi E. Müll., 1959 SPECIES
-=======
+# Chaetoscutula juniperi E. Müll., 1959 SPECIES
 
 #### Status
 ACCEPTED

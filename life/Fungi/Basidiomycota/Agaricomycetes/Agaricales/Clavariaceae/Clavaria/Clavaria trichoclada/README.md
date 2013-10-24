@@ -1,5 +1,4 @@
-Clavaria trichoclada Sacc. & Paol. SPECIES
-=======
+# Clavaria trichoclada Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

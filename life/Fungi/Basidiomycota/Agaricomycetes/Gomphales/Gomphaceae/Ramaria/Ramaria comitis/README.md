@@ -1,5 +1,4 @@
-Ramaria comitis Schild SPECIES
-=======
+# Ramaria comitis Schild SPECIES
 
 #### Status
 ACCEPTED

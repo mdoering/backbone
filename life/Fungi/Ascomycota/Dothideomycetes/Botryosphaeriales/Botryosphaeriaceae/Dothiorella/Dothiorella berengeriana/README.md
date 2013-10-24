@@ -1,5 +1,4 @@
-Dothiorella berengeriana f. sp FORM
-=======
+# Dothiorella berengeriana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 2: 190 (1880)
 
 #### Original name
-Dothiorella berengeriana f. sp
+Dothiorella berengeriana Sacc. & Roum.
 
 ### Remarks
 null

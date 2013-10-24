@@ -1,5 +1,4 @@
-Lecanora mixta (Eitner) Migula SPECIES
-=======
+# Lecanora mixta (Eitner) Migula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dematium sistotremoides Alb. & Schwein. SPECIES
-=======
+# Dematium sistotremoides Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

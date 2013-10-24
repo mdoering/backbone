@@ -1,5 +1,4 @@
-Phyllosticta rubra Peck SPECIES
-=======
+# Phyllosticta rubra Peck SPECIES
 
 #### Status
 ACCEPTED

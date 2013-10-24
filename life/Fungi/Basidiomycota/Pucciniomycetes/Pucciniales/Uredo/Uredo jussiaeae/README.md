@@ -1,5 +1,4 @@
-Uredo jussiaeae Jørst. SPECIES
-=======
+# Uredo jussiaeae Jørst. SPECIES
 
 #### Status
 ACCEPTED

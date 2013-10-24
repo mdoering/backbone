@@ -1,5 +1,4 @@
-Capnodium dematum (V.A.M. Mill. & Bonar) D.R. Reynolds SPECIES
-=======
+# Capnodium dematum (V.A.M. Mill. & Bonar) D.R. Reynolds SPECIES
 
 #### Status
 ACCEPTED

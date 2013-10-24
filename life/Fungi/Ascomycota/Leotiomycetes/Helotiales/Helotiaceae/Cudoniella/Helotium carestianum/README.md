@@ -1,5 +1,4 @@
-Helotium carestianum P. Karst. SPECIES
-=======
+# Helotium carestianum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

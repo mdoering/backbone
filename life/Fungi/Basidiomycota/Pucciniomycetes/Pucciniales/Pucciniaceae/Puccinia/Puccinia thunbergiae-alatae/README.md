@@ -1,5 +1,4 @@
-Puccinia thunbergiae-alatae Henn. SPECIES
-=======
+# Puccinia thunbergiae-alatae Henn. SPECIES
 
 #### Status
 ACCEPTED

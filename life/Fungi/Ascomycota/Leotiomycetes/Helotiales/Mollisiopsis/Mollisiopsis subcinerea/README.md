@@ -1,14 +1,13 @@
-Mollisia subcinerea (Rehm) Seaver, 1951 SPECIES
-=======
+# Mollisiopsis subcinerea Rehm, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Inoperculates) 207 (1951)
+Annls mycol. 6: (1908)
 
 #### Original name
 Mollisiopsis subcinerea Rehm, 1908

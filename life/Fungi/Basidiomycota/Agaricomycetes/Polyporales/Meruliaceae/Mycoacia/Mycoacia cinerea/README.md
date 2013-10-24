@@ -1,5 +1,4 @@
-Mycoacia cinerea anon. SPECIES
-=======
+# Mycoacia cinerea anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclopsiella vieta Drugg & Loeblich, 1967 SPECIES
-=======
+# Cyclopsiella vieta Drugg & Loeblich, 1967 SPECIES
 
 #### Status
 ACCEPTED

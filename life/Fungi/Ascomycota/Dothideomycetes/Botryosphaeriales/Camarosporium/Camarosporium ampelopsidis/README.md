@@ -1,5 +1,4 @@
-Camarosporium ampelopsidis Tassi SPECIES
-=======
+# Camarosporium ampelopsidis Tassi SPECIES
 
 #### Status
 ACCEPTED

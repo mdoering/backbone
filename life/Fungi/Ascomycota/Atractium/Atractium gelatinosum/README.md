@@ -1,5 +1,4 @@
-Atractium gelatinosum (Pers.) Sacc. SPECIES
-=======
+# Atractium gelatinosum (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

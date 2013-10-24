@@ -1,14 +1,13 @@
-Closterosporium strepsiceras (Ces.) Sacc. SPECIES
-=======
+# Clasterosporium strepsiceras (Ces.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Michelia 2(no. 7): 228 (1878)
 
 #### Original name
 Triposporium strepsiceras Ces.

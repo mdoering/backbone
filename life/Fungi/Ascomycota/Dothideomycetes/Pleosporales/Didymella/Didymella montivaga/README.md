@@ -1,5 +1,4 @@
-Didymella montivaga Bubák SPECIES
-=======
+# Didymella montivaga Bubák SPECIES
 
 #### Status
 ACCEPTED

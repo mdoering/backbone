@@ -1,5 +1,4 @@
-Mindeniella spinospora Kanouse, 1927 SPECIES
-=======
+# Mindeniella spinospora Kanouse, 1927 SPECIES
 
 #### Status
 ACCEPTED

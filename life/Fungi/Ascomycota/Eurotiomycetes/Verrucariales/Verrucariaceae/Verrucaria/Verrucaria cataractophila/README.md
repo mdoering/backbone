@@ -1,5 +1,4 @@
-Verrucaria cataractophila Servít SPECIES
-=======
+# Verrucaria cataractophila Servít SPECIES
 
 #### Status
 ACCEPTED

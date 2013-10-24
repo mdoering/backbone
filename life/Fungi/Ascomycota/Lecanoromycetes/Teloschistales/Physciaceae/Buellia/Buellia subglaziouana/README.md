@@ -1,5 +1,4 @@
-Buellia subglaziouana S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Buellia subglaziouana S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

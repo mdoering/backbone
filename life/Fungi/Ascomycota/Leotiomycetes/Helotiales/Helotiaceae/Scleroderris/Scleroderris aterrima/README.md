@@ -1,5 +1,4 @@
-Scleroderris aterrima (Hazsl.) Sacc. SPECIES
-=======
+# Scleroderris aterrima (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

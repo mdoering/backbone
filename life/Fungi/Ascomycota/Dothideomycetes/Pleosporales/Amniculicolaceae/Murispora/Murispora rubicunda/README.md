@@ -1,5 +1,4 @@
-Murispora rubicunda (Niessl) Yin. Zhang, J. Fourn. & K.D. Hyde, 2009 SPECIES
-=======
+# Murispora rubicunda (Niessl) Yin. Zhang, J. Fourn. & K.D. Hyde, 2009 SPECIES
 
 #### Status
 ACCEPTED

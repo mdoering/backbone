@@ -1,5 +1,4 @@
-Aecidium araliae Sawada SPECIES
-=======
+# Aecidium araliae Sawada SPECIES
 
 #### Status
 ACCEPTED

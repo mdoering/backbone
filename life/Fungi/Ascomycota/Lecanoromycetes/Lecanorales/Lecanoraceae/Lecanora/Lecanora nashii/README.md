@@ -1,5 +1,4 @@
-Lecanora nashii B. D. Ryan SPECIES
-=======
+# Lecanora nashii B. D. Ryan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis conigena (Lév.) G.C. Zhao & N. Li SPECIES
-=======
+# Pestalotiopsis conigena (Lév.) G.C. Zhao & N. Li SPECIES
 
 #### Status
 ACCEPTED

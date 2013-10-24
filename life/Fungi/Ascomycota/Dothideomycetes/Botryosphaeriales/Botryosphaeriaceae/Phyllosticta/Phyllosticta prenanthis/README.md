@@ -1,5 +1,4 @@
-Phyllosticta prenanthis Bunkina SPECIES
-=======
+# Phyllosticta prenanthis Bunkina SPECIES
 
 #### Status
 ACCEPTED

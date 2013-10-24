@@ -1,5 +1,4 @@
-Asteroma gallicola Desm. SPECIES
-=======
+# Asteroma gallicola Desm. SPECIES
 
 #### Status
 ACCEPTED

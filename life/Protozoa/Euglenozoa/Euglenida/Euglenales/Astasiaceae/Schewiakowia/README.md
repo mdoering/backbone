@@ -1,5 +1,4 @@
-Schewiakowia B.V. Skvortzov, 1958 GENUS
-=======
+# Schewiakowia B.V. Skvortzov, 1958 GENUS
 
 #### Status
 ACCEPTED

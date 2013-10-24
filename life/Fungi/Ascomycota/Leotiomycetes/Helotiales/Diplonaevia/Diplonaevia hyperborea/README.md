@@ -1,5 +1,4 @@
-Diplonaevia hyperborea Nannf. SPECIES
-=======
+# Diplonaevia hyperborea Nannf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naemaspora melanotrichum Castagne SPECIES
-=======
+# Naemaspora melanotrichum Castagne SPECIES
 
 #### Status
 ACCEPTED

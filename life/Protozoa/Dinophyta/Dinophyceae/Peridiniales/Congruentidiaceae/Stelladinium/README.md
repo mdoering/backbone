@@ -1,5 +1,4 @@
-Stelladinium M.R. Bradford, 1975 GENUS
-=======
+# Stelladinium M.R. Bradford, 1975 GENUS
 
 #### Status
 ACCEPTED

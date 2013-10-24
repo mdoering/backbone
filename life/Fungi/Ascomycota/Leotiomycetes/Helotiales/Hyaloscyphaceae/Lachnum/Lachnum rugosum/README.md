@@ -1,5 +1,4 @@
-Lachnum rugosum Starbäck SPECIES
-=======
+# Lachnum rugosum Starbäck SPECIES
 
 #### Status
 ACCEPTED

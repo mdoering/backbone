@@ -1,17 +1,16 @@
-Gloeosporium passifloricolum Sawada SPECIES
-=======
+# Gloeosporium passifloricola Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Report of the Department of Indutry, Government Research Institute, Formosa 85: 79 (1943)
 
 #### Original name
-Gloeosporium passifloricolum Sawada
+Gloeosporium passifloricola Sawada
 
 ### Remarks
 null

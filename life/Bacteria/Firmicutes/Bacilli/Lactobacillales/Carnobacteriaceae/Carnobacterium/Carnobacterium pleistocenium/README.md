@@ -1,5 +1,4 @@
-Carnobacterium pleistocenium Pikuta et al., 2005 SPECIES
-=======
+# Carnobacterium pleistocenium Pikuta et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

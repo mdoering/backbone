@@ -1,5 +1,4 @@
-Firmicutes PHYLUM
-=======
+# Firmicutes PHYLUM
 
 #### Status
 ACCEPTED

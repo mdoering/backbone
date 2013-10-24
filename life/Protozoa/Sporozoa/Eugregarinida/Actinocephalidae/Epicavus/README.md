@@ -1,5 +1,4 @@
-Epicavus Ormières & Daumal, 1970 GENUS
-=======
+# Epicavus Ormières & Daumal, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microtetraspora niveoalba Nonomura and Ohara, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Microtetraspora niveoalba Nonomura and Ohara, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

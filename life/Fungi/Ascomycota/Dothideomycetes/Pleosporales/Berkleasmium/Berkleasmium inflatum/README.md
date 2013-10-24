@@ -1,5 +1,4 @@
-Berkleasmium inflatum Hol.-Jech. SPECIES
-=======
+# Berkleasmium inflatum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

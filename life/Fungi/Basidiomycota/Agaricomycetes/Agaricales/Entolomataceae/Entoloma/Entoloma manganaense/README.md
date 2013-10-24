@@ -1,17 +1,16 @@
-Entoloma manganaensis G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma manganaense G.M. Gates & Noordel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 19(2): 161 (2007)
 
 #### Original name
-Entoloma manganaensis G.M. Gates & Noordel.
+Entoloma manganaense G.M. Gates & Noordel.
 
 ### Remarks
 null

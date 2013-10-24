@@ -1,5 +1,4 @@
-Didymosamarospora T.W. Johnson & H.S. Gold GENUS
-=======
+# Didymosamarospora T.W. Johnson & H.S. Gold GENUS
 
 #### Status
 ACCEPTED

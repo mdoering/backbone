@@ -1,5 +1,4 @@
-Nectria spartii Kirschst. SPECIES
-=======
+# Nectria spartii Kirschst. SPECIES
 
 #### Status
 ACCEPTED

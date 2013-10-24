@@ -1,17 +1,16 @@
-Polyschema obclaviformis R.F. Castañeda & Decock SPECIES
-=======
+# Polyschema obclaviforme R.F. Castañeda & Decock SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Castañeda Ruíz, Decock, Saikawa, Gené & Guarro, Cryptog. Mycol. 21(4): 216 (2000)
 
 #### Original name
-Polyschema obclaviformis R.F. Castañeda & Decock
+Polyschema obclaviforme R.F. Castañeda & Decock
 
 ### Remarks
 null

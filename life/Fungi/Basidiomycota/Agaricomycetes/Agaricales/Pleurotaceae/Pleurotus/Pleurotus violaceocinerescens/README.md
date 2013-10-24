@@ -1,5 +1,4 @@
-Pleurotus violaceocinerescens Henn. SPECIES
-=======
+# Pleurotus violaceocinerescens Henn. SPECIES
 
 #### Status
 ACCEPTED

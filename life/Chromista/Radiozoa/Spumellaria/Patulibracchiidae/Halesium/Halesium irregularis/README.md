@@ -1,5 +1,4 @@
-Halesium irregularis SPECIES
-=======
+# Halesium irregularis SPECIES
 
 #### Status
 ACCEPTED

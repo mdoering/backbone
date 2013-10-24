@@ -1,5 +1,4 @@
-Puccinia artemisiae-keiskeanae Miura SPECIES
-=======
+# Puccinia artemisiae-keiskeanae Miura SPECIES
 
 #### Status
 ACCEPTED

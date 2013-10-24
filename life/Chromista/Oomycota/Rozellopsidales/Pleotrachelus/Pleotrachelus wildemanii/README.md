@@ -1,8 +1,7 @@
-Pleotrachelus wildemani H.E. Petersen SPECIES
-=======
+# Pleotrachelus wildemanii H.E. Petersen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleotrachelus wildemani H.E. Petersen
+Pleotrachelus wildemanii H.E. Petersen
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Serpula incrassata (Berk. & M.A. Curtis) Donk, 1948 SPECIES
-=======
+# Meruliporia incrassata (Berk. & M.A. Curtis) Murrill, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Buitenz, 3 Sér. 17(4): 474 (1948)
+Mycologia 34(5): 596 (1942)
 
 #### Original name
 Merulius incrassatus Berk. & M.A. Curtis

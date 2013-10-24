@@ -1,5 +1,4 @@
-Galerina muscolignosa A.E. Wood SPECIES
-=======
+# Galerina muscolignosa A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

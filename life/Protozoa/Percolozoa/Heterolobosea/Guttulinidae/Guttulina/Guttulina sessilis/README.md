@@ -1,5 +1,4 @@
-Guttulina sessilis Tiegh. SPECIES
-=======
+# Guttulina sessilis Tiegh. SPECIES
 
 #### Status
 ACCEPTED

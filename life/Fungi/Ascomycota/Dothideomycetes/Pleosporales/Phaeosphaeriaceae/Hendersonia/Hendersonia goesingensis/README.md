@@ -1,5 +1,4 @@
-Hendersonia goesingensis Petr. SPECIES
-=======
+# Hendersonia goesingensis Petr. SPECIES
 
 #### Status
 ACCEPTED

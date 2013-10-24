@@ -1,5 +1,4 @@
-Anellaria sepuchralis (Berk.) Sing. SPECIES
-=======
+# Anellaria sepuchralis (Berk.) Sing. SPECIES
 
 #### Status
 DOUBTFUL

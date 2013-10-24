@@ -1,5 +1,4 @@
-Botryosphaeria tjampeana Racib. SPECIES
-=======
+# Botryosphaeria tjampeana Racib. SPECIES
 
 #### Status
 ACCEPTED

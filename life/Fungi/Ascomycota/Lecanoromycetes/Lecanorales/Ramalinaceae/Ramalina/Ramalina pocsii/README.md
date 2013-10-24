@@ -1,5 +1,4 @@
-Ramalina pocsii Krog & Swinscow SPECIES
-=======
+# Ramalina pocsii Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

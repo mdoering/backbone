@@ -1,5 +1,4 @@
-Entorrhiza seminarii J. Walker, 2007 SPECIES
-=======
+# Entorrhiza seminarii J. Walker, 2007 SPECIES
 
 #### Status
 ACCEPTED

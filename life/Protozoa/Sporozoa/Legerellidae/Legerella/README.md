@@ -1,5 +1,4 @@
-Legerella Mesnil, 1900 GENUS
-=======
+# Legerella Mesnil, 1900 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo arachidis Lagerh. SPECIES
-=======
+# Uredo arachidis Lagerh. SPECIES
 
 #### Status
 ACCEPTED

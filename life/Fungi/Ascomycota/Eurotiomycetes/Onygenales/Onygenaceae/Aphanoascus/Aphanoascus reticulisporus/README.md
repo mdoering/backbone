@@ -1,17 +1,16 @@
-Anixiopsis reticulispora var. reticulispora Routien VARIETY
-=======
+# Aphanoascus reticulisporus (Routien) Hubálek, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 59(3): 476 (1967)
+Acta Scient. nat. , Brno, Ser. 2 8(3): 28 (1974)
 
 #### Original name
-Anixiopsis reticulispora var. reticulispora Routien
+Anixiopsis reticulispora Routien, 1967
 
 ### Remarks
 null

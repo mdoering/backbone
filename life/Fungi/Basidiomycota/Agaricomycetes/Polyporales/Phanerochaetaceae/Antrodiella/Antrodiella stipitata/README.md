@@ -1,5 +1,4 @@
-Antrodiella stipitata H.S. Yuan & Y.C. Dai SPECIES
-=======
+# Antrodiella stipitata H.S. Yuan & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

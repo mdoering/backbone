@@ -1,5 +1,4 @@
-Clitopilus fuscogelatinosus Redhead & T.J. Baroni SPECIES
-=======
+# Clitopilus fuscogelatinosus Redhead & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

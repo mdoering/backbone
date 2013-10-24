@@ -1,5 +1,4 @@
-Psilocybe ecbola (Fr.) Singer SPECIES
-=======
+# Psilocybe ecbola (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

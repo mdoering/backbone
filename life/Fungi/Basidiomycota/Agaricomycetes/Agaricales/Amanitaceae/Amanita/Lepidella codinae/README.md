@@ -1,5 +1,4 @@
-Lepidella codinae Maire SPECIES
-=======
+# Lepidella codinae Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrospira Montagne, 1857 GENUS
-=======
+# Acrospira Montagne, 1857 GENUS
 
 #### Status
 ACCEPTED

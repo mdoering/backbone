@@ -1,5 +1,4 @@
-Stigmina robusta (Cooke & Ellis) B. Sutton SPECIES
-=======
+# Stigmina robusta (Cooke & Ellis) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomellina L.A. Kantsch. GENUS
-=======
+# Anthostomellina L.A. Kantsch. GENUS
 
 #### Status
 ACCEPTED

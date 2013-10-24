@@ -1,5 +1,4 @@
-Phialocephala vittalensis D'Souza, S.K. Singh & Bhat SPECIES
-=======
+# Phialocephala vittalensis D'Souza, S.K. Singh & Bhat SPECIES
 
 #### Status
 ACCEPTED

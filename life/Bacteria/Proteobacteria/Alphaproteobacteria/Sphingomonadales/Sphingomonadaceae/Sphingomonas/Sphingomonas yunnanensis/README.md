@@ -1,5 +1,4 @@
-Sphingomonas yunnanensis Zhang et al., 2005 SPECIES
-=======
+# Sphingomonas yunnanensis Zhang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sachybotrys GENUS
-=======
+# Sachybotrys GENUS
 
 #### Status
 ACCEPTED

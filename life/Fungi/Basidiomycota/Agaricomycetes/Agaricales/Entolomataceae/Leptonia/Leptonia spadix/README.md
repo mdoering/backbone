@@ -1,5 +1,4 @@
-Leptonia spadix (Hesler) Largent SPECIES
-=======
+# Leptonia spadix (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

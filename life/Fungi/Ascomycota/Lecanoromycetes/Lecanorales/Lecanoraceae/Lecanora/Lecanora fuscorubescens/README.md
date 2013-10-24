@@ -1,5 +1,4 @@
-Lecanora fuscorubescens Maheu & A. Gillet SPECIES
-=======
+# Lecanora fuscorubescens Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza elongata Schumach. SPECIES
-=======
+# Peziza elongata Schumach. SPECIES
 
 #### Status
 ACCEPTED

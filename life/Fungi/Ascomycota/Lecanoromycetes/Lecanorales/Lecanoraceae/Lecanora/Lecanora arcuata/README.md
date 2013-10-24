@@ -1,5 +1,4 @@
-Lecanora arcuata (Hoffm.) Röhl. SPECIES
-=======
+# Lecanora arcuata (Hoffm.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

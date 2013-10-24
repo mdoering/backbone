@@ -1,5 +1,4 @@
-Omphalia fusca Velen. SPECIES
-=======
+# Omphalia fusca Velen. SPECIES
 
 #### Status
 ACCEPTED

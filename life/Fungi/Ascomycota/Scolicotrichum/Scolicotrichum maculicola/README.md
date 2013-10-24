@@ -1,5 +1,4 @@
-Scolicotrichum maculicola Ellis & Kellerm. SPECIES
-=======
+# Scolicotrichum maculicola Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

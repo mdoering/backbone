@@ -1,5 +1,4 @@
-Bryoria mariensis Øvstedal, Common & Fryday SPECIES
-=======
+# Bryoria mariensis Øvstedal, Common & Fryday SPECIES
 
 #### Status
 ACCEPTED

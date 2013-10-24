@@ -1,17 +1,16 @@
-Sphaeria feejensis Berk. SPECIES
-=======
+# Sphaeria feejeensis Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Bot. , London 1: 456 (1842)
 
 #### Original name
-Sphaeria feejensis Berk.
+Sphaeria feejeensis Berk.
 
 ### Remarks
 null

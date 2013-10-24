@@ -1,5 +1,4 @@
-Rhabdospora melongenae Hanzawa SPECIES
-=======
+# Rhabdospora melongenae Hanzawa SPECIES
 
 #### Status
 ACCEPTED

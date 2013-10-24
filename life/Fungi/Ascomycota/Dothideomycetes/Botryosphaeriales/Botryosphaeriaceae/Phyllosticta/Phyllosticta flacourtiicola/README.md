@@ -1,5 +1,4 @@
-Phyllosticta flacourtiicola Vanev & Aa SPECIES
-=======
+# Phyllosticta flacourtiicola Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

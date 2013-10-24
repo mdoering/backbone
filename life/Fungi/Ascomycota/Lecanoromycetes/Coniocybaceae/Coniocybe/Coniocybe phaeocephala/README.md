@@ -1,5 +1,4 @@
-Coniocybe phaeocephala (Wallr.) Rabenh. SPECIES
-=======
+# Coniocybe phaeocephala (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

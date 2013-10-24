@@ -1,5 +1,4 @@
-Cornutispora ciliata Kalb, 1993 SPECIES
-=======
+# Cornutispora ciliata Kalb, 1993 SPECIES
 
 #### Status
 ACCEPTED

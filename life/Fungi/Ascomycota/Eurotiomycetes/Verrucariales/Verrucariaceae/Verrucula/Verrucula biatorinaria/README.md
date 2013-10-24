@@ -1,5 +1,4 @@
-Verrucula biatorinaria (Zehetl.) Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula biatorinaria (Zehetl.) Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

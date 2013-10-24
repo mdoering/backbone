@@ -1,5 +1,4 @@
-Mycosphaerella isatidis Kalymb. SPECIES
-=======
+# Mycosphaerella isatidis Kalymb. SPECIES
 
 #### Status
 ACCEPTED

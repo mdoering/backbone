@@ -1,5 +1,4 @@
-Sirococcus piceicola Castl., Farr & Stanosz SPECIES
-=======
+# Sirococcus piceicola Castl., Farr & Stanosz SPECIES
 
 #### Status
 ACCEPTED

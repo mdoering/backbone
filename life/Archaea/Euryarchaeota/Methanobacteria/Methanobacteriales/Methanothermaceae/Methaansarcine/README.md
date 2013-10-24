@@ -1,5 +1,4 @@
-Methaansarcine Söhngen, 1906 GENUS
-=======
+# Methaansarcine Söhngen, 1906 GENUS
 
 #### Status
 ACCEPTED

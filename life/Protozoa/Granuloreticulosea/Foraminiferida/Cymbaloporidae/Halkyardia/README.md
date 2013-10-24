@@ -1,5 +1,4 @@
-Halkyardia Heron-Allen & Earland, 1919 GENUS
-=======
+# Halkyardia Heron-Allen & Earland, 1919 GENUS
 
 #### Status
 ACCEPTED

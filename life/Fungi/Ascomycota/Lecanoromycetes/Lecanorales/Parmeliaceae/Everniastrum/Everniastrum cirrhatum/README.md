@@ -1,17 +1,16 @@
-Parmelia cirrhata var. cirrhata VARIETY
-=======
+# Everniastrum cirrhatum (Fr.) Hale ex Sipman SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 26: 237 (1986)
 
 #### Original name
-Parmelia cirrhata var. cirrhata
+Parmelia cirrhata Fr.
 
 ### Remarks
 null

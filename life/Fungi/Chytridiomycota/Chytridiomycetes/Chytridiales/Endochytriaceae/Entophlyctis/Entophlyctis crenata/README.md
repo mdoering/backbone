@@ -1,5 +1,4 @@
-Entophlyctis crenata Karling, 1968 SPECIES
-=======
+# Entophlyctis crenata Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

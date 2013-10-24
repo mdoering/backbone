@@ -1,5 +1,4 @@
-Placolecania fumulosa Zahlbr. SPECIES
-=======
+# Placolecania fumulosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucopaxillus garinii Bidaud SPECIES
-=======
+# Leucopaxillus garinii Bidaud SPECIES
 
 #### Status
 ACCEPTED

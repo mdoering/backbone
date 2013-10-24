@@ -1,5 +1,4 @@
-Micarea coppinsii Tønsberg SPECIES
-=======
+# Micarea coppinsii Tønsberg SPECIES
 
 #### Status
 ACCEPTED

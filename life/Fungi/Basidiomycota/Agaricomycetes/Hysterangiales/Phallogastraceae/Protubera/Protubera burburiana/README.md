@@ -1,17 +1,16 @@
-Hysterangium burburyanum Rodway SPECIES
-=======
+# Protubera burburiana (Rodway) Castellano & Trappe, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Hysterangium burburyanum Rodway
+Hysterangium burburianum Rodway, 1918
 
 ### Remarks
 null

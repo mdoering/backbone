@@ -1,5 +1,4 @@
-Helotium crystallinum Quél. SPECIES
-=======
+# Helotium crystallinum Quél. SPECIES
 
 #### Status
 ACCEPTED

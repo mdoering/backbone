@@ -1,5 +1,4 @@
-Stelliferidium brevipalmatum Albani, 1989 SPECIES
-=======
+# Stelliferidium brevipalmatum Albani, 1989 SPECIES
 
 #### Status
 ACCEPTED

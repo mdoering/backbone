@@ -1,5 +1,4 @@
-Buellia iberica Giralt SPECIES
-=======
+# Buellia iberica Giralt SPECIES
 
 #### Status
 ACCEPTED

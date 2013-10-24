@@ -1,5 +1,4 @@
-Cladosporium martianoffianum Thüm. SPECIES
-=======
+# Cladosporium martianoffianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

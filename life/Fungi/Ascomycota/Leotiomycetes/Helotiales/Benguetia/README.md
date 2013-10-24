@@ -1,5 +1,4 @@
-Benguetia Syd. & P. Syd. GENUS
-=======
+# Benguetia Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

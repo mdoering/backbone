@@ -1,5 +1,4 @@
-Puccinia incondita Arthur SPECIES
-=======
+# Puccinia incondita Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conidiobolus denaeosporus Drechsler, 1957 SPECIES
-=======
+# Conidiobolus denaeosporus Drechsler, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Atractobasidium corticioides G.W. Martin SPECIES
-=======
+# Atractobasidium corticioides G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

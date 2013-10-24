@@ -1,5 +1,4 @@
-Meliola aglaiae Syd. SPECIES
-=======
+# Meliola aglaiae Syd. SPECIES
 
 #### Status
 ACCEPTED

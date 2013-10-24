@@ -1,5 +1,4 @@
-Irenopsis cupaniae (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis cupaniae (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

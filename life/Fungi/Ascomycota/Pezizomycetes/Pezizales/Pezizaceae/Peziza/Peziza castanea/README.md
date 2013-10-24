@@ -1,5 +1,4 @@
-Peziza castanea Quél. SPECIES
-=======
+# Peziza castanea Quél. SPECIES
 
 #### Status
 ACCEPTED

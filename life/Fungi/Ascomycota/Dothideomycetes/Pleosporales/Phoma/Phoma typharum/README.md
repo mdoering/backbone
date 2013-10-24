@@ -1,5 +1,4 @@
-Phoma typharum Sacc., 1884 SPECIES
-=======
+# Phoma typharum Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

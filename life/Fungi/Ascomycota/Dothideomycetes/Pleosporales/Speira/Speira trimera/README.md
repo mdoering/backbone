@@ -1,5 +1,4 @@
-Speira trimera Speg. SPECIES
-=======
+# Speira trimera Speg. SPECIES
 
 #### Status
 ACCEPTED

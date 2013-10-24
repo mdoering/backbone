@@ -1,5 +1,4 @@
-Mecsekia triangula Schrank, 2003 SPECIES
-=======
+# Mecsekia triangula Schrank, 2003 SPECIES
 
 #### Status
 ACCEPTED

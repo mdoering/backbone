@@ -1,5 +1,4 @@
-Pseudodoassansia hydrocleydis Vánky, 2001 SPECIES
-=======
+# Pseudodoassansia hydrocleydis Vánky, 2001 SPECIES
 
 #### Status
 ACCEPTED

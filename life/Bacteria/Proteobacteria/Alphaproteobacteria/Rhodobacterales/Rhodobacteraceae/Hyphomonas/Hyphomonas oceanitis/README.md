@@ -1,5 +1,4 @@
-Hyphomonas oceanitis Weiner et al., 1985 SPECIES
-=======
+# Hyphomonas oceanitis Weiner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

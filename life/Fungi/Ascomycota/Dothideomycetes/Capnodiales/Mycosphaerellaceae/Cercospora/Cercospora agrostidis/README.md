@@ -1,5 +1,4 @@
-Cercospora agrostidis G.F. Atk. SPECIES
-=======
+# Cercospora agrostidis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

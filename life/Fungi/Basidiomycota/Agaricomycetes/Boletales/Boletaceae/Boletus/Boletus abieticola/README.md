@@ -1,5 +1,4 @@
-Boletus abieticola Thiers SPECIES
-=======
+# Boletus abieticola Thiers SPECIES
 
 #### Status
 ACCEPTED

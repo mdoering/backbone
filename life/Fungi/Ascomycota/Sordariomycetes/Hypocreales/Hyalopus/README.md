@@ -1,5 +1,4 @@
-Hyalopus GENUS
-=======
+# Hyalopus GENUS
 
 #### Status
 ACCEPTED

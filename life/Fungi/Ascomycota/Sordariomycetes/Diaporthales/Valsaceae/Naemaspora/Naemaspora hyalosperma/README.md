@@ -1,5 +1,4 @@
-Naemaspora hyalosperma Ach. ex Fr. SPECIES
-=======
+# Naemaspora hyalosperma Ach. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

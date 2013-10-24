@@ -1,5 +1,4 @@
-Mucor delicatulus Berk. SPECIES
-=======
+# Mucor delicatulus Berk. SPECIES
 
 #### Status
 ACCEPTED

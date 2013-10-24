@@ -1,5 +1,4 @@
-Puccinia capsicicola F. Kern & Thurst. SPECIES
-=======
+# Puccinia capsicicola F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

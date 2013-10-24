@@ -1,5 +1,4 @@
-Talitrochilodon Yankovskij, 1980 GENUS
-=======
+# Talitrochilodon Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum densiseptatum Raitv. & R. Galán SPECIES
-=======
+# Lachnum densiseptatum Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

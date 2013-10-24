@@ -1,5 +1,4 @@
-Austrogautieria macrospora E.L. Stewart & Trappe, 1985 SPECIES
-=======
+# Austrogautieria macrospora E.L. Stewart & Trappe, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma symphoricarpi (Harkn.) Kuntze SPECIES
-=======
+# Dicaeoma symphoricarpi (Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

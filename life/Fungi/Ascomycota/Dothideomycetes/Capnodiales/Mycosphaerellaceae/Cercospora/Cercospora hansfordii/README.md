@@ -1,5 +1,4 @@
-Cercospora hansfordii Chupp SPECIES
-=======
+# Cercospora hansfordii Chupp SPECIES
 
 #### Status
 ACCEPTED

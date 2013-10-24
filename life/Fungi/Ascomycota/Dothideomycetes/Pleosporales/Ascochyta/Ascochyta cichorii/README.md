@@ -1,5 +1,4 @@
-Ascochyta cichorii f. cichorii FORM
-=======
+# Ascochyta cichorii Died. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Krypt. -Fl. Brandenburg (Leipzig) 9: 379 (1912)
 
 #### Original name
-Ascochyta cichorii f. cichorii
+Ascochyta cichorii Died.
 
 ### Remarks
 null

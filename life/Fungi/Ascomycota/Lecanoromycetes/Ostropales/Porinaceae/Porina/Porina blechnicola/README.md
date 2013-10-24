@@ -1,5 +1,4 @@
-Porina blechnicola Lücking, P. M. McCarthy & Kantvilas SPECIES
-=======
+# Porina blechnicola Lücking, P. M. McCarthy & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

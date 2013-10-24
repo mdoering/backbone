@@ -1,5 +1,4 @@
-Phyllosticta frankiana Sacc. & P. Syd. SPECIES
-=======
+# Phyllosticta frankiana Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

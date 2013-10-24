@@ -1,5 +1,4 @@
-Copromyxella coralloides Raper, Worley & Kurzynski, 1978 SPECIES
-=======
+# Copromyxella coralloides Raper, Worley & Kurzynski, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis agallochae A.K. Pal bis & Purkay. SPECIES
-=======
+# Pestalotiopsis agallochae A.K. Pal bis & Purkay. SPECIES
 
 #### Status
 ACCEPTED

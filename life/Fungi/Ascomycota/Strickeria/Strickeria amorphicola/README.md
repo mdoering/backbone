@@ -1,5 +1,4 @@
-Strickeria amorphicola Koshk. & Frolov SPECIES
-=======
+# Strickeria amorphicola Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

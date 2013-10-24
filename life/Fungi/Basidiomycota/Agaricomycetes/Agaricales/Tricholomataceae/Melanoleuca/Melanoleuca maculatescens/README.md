@@ -1,5 +1,4 @@
-Melanoleuca maculatescens (Peck) Murrill SPECIES
-=======
+# Melanoleuca maculatescens (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

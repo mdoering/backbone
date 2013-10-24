@@ -1,5 +1,4 @@
-Nectriella farinosa Henn. SPECIES
-=======
+# Nectriella farinosa Henn. SPECIES
 
 #### Status
 ACCEPTED

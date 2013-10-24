@@ -1,5 +1,4 @@
-Delitschia Auerswald, 1866 GENUS
-=======
+# Delitschia Auerswald, 1866 GENUS
 
 #### Status
 ACCEPTED

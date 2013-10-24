@@ -1,5 +1,4 @@
-Diplococcium clarkii M.B. Ellis, 1976 SPECIES
-=======
+# Diplococcium clarkii M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

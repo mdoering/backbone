@@ -1,5 +1,4 @@
-Porina otagensis P. M. McCarthy SPECIES
-=======
+# Porina otagensis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

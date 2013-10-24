@@ -1,5 +1,4 @@
-Treubiomyces roseosporus (Höhn.) D.R. Reynolds SPECIES
-=======
+# Treubiomyces roseosporus (Höhn.) D.R. Reynolds SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeothecium indicum Tilak & S.B. Kale SPECIES
-=======
+# Clypeothecium indicum Tilak & S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydropisphaera fungicola Rossman, Farr & Newcombe SPECIES
-=======
+# Hydropisphaera fungicola Rossman, Farr & Newcombe SPECIES
 
 #### Status
 ACCEPTED

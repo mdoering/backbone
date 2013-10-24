@@ -1,5 +1,4 @@
-Melanconium ramulorum var. ramulorum VARIETY
-=======
+# Melanconium ramulorum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Icon. fung. (Prague) 1: 2 (1884)
+Icon. fung. 1: 2 (1884)
 
 #### Original name
-Melanconium ramulorum var. ramulorum
+Melanconium bicolor Nees, 1816
 
 ### Remarks
 null

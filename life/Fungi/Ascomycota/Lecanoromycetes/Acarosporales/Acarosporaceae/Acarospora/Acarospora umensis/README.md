@@ -1,5 +1,4 @@
-Acarospora umensis H. Magn. SPECIES
-=======
+# Acarospora umensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

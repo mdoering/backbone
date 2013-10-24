@@ -1,5 +1,4 @@
-Gyratylium atrum Preuss SPECIES
-=======
+# Gyratylium atrum Preuss SPECIES
 
 #### Status
 ACCEPTED

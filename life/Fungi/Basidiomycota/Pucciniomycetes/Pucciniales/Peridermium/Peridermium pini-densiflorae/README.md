@@ -1,5 +1,4 @@
-Peridermium pini-densiflorae Henn. SPECIES
-=======
+# Peridermium pini-densiflorae Henn. SPECIES
 
 #### Status
 ACCEPTED

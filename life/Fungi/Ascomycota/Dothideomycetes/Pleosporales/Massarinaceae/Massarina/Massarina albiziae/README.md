@@ -1,17 +1,16 @@
-Massarina albizziae S. Ahmad SPECIES
-=======
+# Massarina albiziae S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 17(2): 83 (1971)
 
 #### Original name
-Massarina albizziae S. Ahmad
+Massarina albiziae S. Ahmad
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heterococcus longicellularis Pitschmann SPECIES
-=======
+# Heterococcus longicellularis Pitschmann SPECIES
 
 #### Status
 ACCEPTED

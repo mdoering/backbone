@@ -1,5 +1,4 @@
-Phyllachora fici-hochstetteri (Bacc.) E. Castell. & Cif., 1937 SPECIES
-=======
+# Phyllachora fici-hochstetteri (Bacc.) E. Castell. & Cif., 1937 SPECIES
 
 #### Status
 DOUBTFUL

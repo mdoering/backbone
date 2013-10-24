@@ -1,5 +1,4 @@
-Parahistioneis karstenii (Kofoid & Michener) Kofoid & Skogsberg SPECIES
-=======
+# Parahistioneis karstenii (Kofoid & Michener) Kofoid & Skogsberg SPECIES
 
 #### Status
 ACCEPTED

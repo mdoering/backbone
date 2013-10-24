@@ -1,5 +1,4 @@
-Puccinia cingens E. Bommer & M. Rousseau SPECIES
-=======
+# Puccinia cingens E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

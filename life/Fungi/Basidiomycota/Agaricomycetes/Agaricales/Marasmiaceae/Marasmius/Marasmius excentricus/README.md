@@ -1,5 +1,4 @@
-Marasmius excentricus Henn. SPECIES
-=======
+# Marasmius excentricus Henn. SPECIES
 
 #### Status
 ACCEPTED

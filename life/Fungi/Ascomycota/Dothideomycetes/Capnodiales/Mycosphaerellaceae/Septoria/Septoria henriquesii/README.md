@@ -1,17 +1,16 @@
-Septoria henriquesii f. santonensis Brunaud FORM
-=======
+# Septoria henriquesii Thüm., 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Inst. Rev. Sci. Litt. , Coimbra 27: 375 [no. 393] (1880)
 
 #### Original name
-Septoria henriquesii f. santonensis Brunaud
+Septoria henriquesii Thüm., 1880
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea pteridophila Müll. Arg. SPECIES
-=======
+# Lecidea pteridophila Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

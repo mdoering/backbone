@@ -1,5 +1,4 @@
-Panus betulinus Peck SPECIES
-=======
+# Panus betulinus Peck SPECIES
 
 #### Status
 ACCEPTED

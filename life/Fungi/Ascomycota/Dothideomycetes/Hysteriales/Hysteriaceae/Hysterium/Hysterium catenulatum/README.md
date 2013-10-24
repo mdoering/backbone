@@ -1,5 +1,4 @@
-Hysterium catenulatum R. Ludw. SPECIES
-=======
+# Hysterium catenulatum R. Ludw. SPECIES
 
 #### Status
 ACCEPTED

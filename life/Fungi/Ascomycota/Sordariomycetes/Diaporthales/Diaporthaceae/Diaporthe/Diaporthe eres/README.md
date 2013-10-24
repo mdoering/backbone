@@ -1,17 +1,16 @@
-Diaporthe velata f. velata FORM
-=======
+# Diaporthe eres Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 2: 287 (1870)
+Pyrenomycetes Germanici 2: 245 (1870)
 
 #### Original name
-Diaporthe velata f. velata
+Diaporthe eres Nitschke, 1870
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pholiota canescens A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota canescens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

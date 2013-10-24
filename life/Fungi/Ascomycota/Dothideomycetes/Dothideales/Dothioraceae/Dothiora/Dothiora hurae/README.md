@@ -1,5 +1,4 @@
-Dothiora hurae Tassi SPECIES
-=======
+# Dothiora hurae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium exsertiformum Vánky SPECIES
-=======
+# Sporisorium exsertiformum Vánky SPECIES
 
 #### Status
 ACCEPTED

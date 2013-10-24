@@ -1,5 +1,4 @@
-Aecidium kabatianum Bubák SPECIES
-=======
+# Aecidium kabatianum Bubák SPECIES
 
 #### Status
 ACCEPTED

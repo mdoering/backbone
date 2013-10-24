@@ -1,5 +1,4 @@
-Puccinia ordinata H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia ordinata H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptostictis insidens (Zabriskie) Guba SPECIES
-=======
+# Cryptostictis insidens (Zabriskie) Guba SPECIES
 
 #### Status
 ACCEPTED

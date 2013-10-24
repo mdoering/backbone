@@ -1,5 +1,4 @@
-Phyllosticta ariopsidis Tassi SPECIES
-=======
+# Phyllosticta ariopsidis Tassi SPECIES
 
 #### Status
 ACCEPTED

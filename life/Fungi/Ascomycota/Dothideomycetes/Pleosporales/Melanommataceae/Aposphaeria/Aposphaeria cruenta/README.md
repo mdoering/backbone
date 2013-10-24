@@ -1,5 +1,4 @@
-Aposphaeria cruenta Vestergr. SPECIES
-=======
+# Aposphaeria cruenta Vestergr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe subminiata Murrill SPECIES
-=======
+# Hydrocybe subminiata Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Debaryomyces kloeckeri var. kloeckeri Guillierm. & Péju, 1920 VARIETY
-=======
+# Debaryomyces kloeckeri Guillierm. & Péju SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Debaryomyces kloeckeri var. kloeckeri Guillierm. & Péju, 1920
+Debaryomyces kloeckeri Guillierm. & Péju
 
 ### Remarks
 null

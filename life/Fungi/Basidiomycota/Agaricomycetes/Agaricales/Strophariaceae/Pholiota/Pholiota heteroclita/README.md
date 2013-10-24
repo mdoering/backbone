@@ -1,14 +1,13 @@
-Agaricus aurivellus var. heteroclitus (Fr.) Fr., 1821 VARIETY
-=======
+# Pholiota heteroclita (Fr.) Quél., 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 242 (1821)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 125 (1872)
 
 #### Original name
 Agaricus heteroclitus Fr., 1818

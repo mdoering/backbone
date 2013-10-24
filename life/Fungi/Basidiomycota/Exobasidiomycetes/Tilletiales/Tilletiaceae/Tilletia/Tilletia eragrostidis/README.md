@@ -1,5 +1,4 @@
-Tilletia eragrostidis G.P. Clinton & Ricker SPECIES
-=======
+# Tilletia eragrostidis G.P. Clinton & Ricker SPECIES
 
 #### Status
 ACCEPTED

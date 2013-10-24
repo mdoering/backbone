@@ -1,5 +1,4 @@
-Septoria batistae Matta SPECIES
-=======
+# Septoria batistae Matta SPECIES
 
 #### Status
 ACCEPTED

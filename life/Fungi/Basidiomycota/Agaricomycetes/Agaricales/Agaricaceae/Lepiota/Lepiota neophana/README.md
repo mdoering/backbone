@@ -1,5 +1,4 @@
-Lepiota neophana Morgan SPECIES
-=======
+# Lepiota neophana Morgan SPECIES
 
 #### Status
 ACCEPTED

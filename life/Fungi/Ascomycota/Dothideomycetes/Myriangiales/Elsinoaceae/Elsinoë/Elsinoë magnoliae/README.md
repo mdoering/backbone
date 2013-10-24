@@ -1,5 +1,4 @@
-Elsinoë magnoliae J.H. Mill. & Jenkins SPECIES
-=======
+# Elsinoë magnoliae J.H. Mill. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

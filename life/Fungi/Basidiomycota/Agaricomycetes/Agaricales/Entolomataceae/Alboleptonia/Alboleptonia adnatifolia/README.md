@@ -1,5 +1,4 @@
-Alboleptonia adnatifolia (Murrill) Largent & R.G. Benedict SPECIES
-=======
+# Alboleptonia adnatifolia (Murrill) Largent & R.G. Benedict SPECIES
 
 #### Status
 ACCEPTED

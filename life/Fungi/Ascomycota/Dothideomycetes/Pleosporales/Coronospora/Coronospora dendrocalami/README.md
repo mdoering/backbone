@@ -1,5 +1,4 @@
-Coronospora dendrocalami M.B. Ellis, 1971 SPECIES
-=======
+# Coronospora dendrocalami M.B. Ellis, 1971 SPECIES
 
 #### Status
 ACCEPTED

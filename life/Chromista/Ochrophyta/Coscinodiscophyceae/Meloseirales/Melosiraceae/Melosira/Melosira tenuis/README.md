@@ -1,5 +1,4 @@
-Melosira tenuis Kützing SPECIES
-=======
+# Melosira tenuis Kützing SPECIES
 
 #### Status
 ACCEPTED

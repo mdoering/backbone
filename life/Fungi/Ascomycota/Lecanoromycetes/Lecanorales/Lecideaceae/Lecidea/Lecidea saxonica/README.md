@@ -1,5 +1,4 @@
-Lecidea saxonica H. Magn. SPECIES
-=======
+# Lecidea saxonica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterophora Léger, 1892 GENUS
-=======
+# Asterophora Léger, 1892 GENUS
 
 #### Status
 ACCEPTED

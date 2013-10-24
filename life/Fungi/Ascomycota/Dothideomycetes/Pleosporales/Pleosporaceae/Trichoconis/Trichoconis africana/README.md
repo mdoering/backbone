@@ -1,5 +1,4 @@
-Trichoconis africana (Hansf.) Deighton & Piroz. SPECIES
-=======
+# Trichoconis africana (Hansf.) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia saprophila (B. de Lesd.) Scheid. SPECIES
-=======
+# Buellia saprophila (B. de Lesd.) Scheid. SPECIES
 
 #### Status
 ACCEPTED

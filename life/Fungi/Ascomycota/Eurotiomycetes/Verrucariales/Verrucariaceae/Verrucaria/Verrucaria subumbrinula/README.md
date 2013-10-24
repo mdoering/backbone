@@ -1,5 +1,4 @@
-Verrucaria subumbrinula Vain. SPECIES
-=======
+# Verrucaria subumbrinula Vain. SPECIES
 
 #### Status
 ACCEPTED

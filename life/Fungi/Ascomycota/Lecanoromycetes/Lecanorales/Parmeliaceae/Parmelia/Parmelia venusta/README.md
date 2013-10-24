@@ -1,5 +1,4 @@
-Parmelia venusta Ach. SPECIES
-=======
+# Parmelia venusta Ach. SPECIES
 
 #### Status
 ACCEPTED

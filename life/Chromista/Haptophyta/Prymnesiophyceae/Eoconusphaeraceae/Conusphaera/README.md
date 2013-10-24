@@ -1,8 +1,7 @@
-Cretaturbella rothii Thierstein, 1971 SPECIES
-=======
+# Conusphaera Trejo, 1969 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

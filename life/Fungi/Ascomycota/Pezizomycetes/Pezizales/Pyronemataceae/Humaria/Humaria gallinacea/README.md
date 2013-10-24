@@ -1,5 +1,4 @@
-Humaria gallinacea (Peck) Sacc. SPECIES
-=======
+# Humaria gallinacea (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

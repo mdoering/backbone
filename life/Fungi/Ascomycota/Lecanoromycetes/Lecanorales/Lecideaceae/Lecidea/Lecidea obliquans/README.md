@@ -1,5 +1,4 @@
-Lecidea obliquans (Nyl.) Hue SPECIES
-=======
+# Lecidea obliquans (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

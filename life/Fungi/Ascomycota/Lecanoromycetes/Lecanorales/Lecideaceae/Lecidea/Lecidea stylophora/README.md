@@ -1,5 +1,4 @@
-Lecidea stylophora Malme SPECIES
-=======
+# Lecidea stylophora Malme SPECIES
 
 #### Status
 ACCEPTED

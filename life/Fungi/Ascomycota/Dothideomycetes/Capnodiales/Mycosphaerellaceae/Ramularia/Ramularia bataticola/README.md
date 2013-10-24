@@ -1,5 +1,4 @@
-Ramularia bataticola Khokhr. & Dyur. SPECIES
-=======
+# Ramularia bataticola Khokhr. & Dyur. SPECIES
 
 #### Status
 ACCEPTED

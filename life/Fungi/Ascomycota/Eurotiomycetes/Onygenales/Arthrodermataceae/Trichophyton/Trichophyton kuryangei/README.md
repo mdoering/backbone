@@ -1,5 +1,4 @@
-Trichophyton kuryangei Vanbreus. & S.A. Rosenthal, 1961 SPECIES
-=======
+# Trichophyton kuryangei Vanbreus. & S.A. Rosenthal, 1961 SPECIES
 
 #### Status
 ACCEPTED

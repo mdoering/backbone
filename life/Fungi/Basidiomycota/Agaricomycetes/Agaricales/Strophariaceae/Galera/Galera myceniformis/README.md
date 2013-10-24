@@ -1,5 +1,4 @@
-Galera myceniformis Velen. SPECIES
-=======
+# Galera myceniformis Velen. SPECIES
 
 #### Status
 ACCEPTED

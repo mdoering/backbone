@@ -1,5 +1,4 @@
-Eoclavatorella GENUS
-=======
+# Eoclavatorella GENUS
 
 #### Status
 ACCEPTED

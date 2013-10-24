@@ -1,5 +1,4 @@
-Puccinia digitariae-vestitae Ramachar & Cummins SPECIES
-=======
+# Puccinia digitariae-vestitae Ramachar & Cummins SPECIES
 
 #### Status
 ACCEPTED

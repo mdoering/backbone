@@ -1,5 +1,4 @@
-Oxytoxum cristatum Kofoid SPECIES
-=======
+# Oxytoxum cristatum Kofoid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius tundrae Speg. SPECIES
-=======
+# Cortinarius tundrae Speg. SPECIES
 
 #### Status
 ACCEPTED

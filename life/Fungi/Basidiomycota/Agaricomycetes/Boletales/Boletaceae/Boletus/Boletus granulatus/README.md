@@ -1,17 +1,16 @@
-Boletus granulatus var. granulatus VARIETY
-=======
+# Boletus granulatus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Belgian Species List
 
 #### Published in
-Sp. pl. 2: 1177 (1753)
+null
 
 #### Original name
-Boletus granulatus var. granulatus
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Territricha Berger & Foissner, 1988 GENUS
-=======
+# Territricha Berger & Foissner, 1988 GENUS
 
 #### Status
 ACCEPTED

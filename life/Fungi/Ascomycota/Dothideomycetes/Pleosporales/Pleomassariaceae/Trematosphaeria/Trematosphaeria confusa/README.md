@@ -1,5 +1,4 @@
-Trematosphaeria confusa (Garov.) Boise & D. Hawksw. SPECIES
-=======
+# Trematosphaeria confusa (Garov.) Boise & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

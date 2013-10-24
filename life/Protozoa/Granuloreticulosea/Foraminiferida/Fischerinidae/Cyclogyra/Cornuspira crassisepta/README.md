@@ -1,5 +1,4 @@
-Cornuspira crassisepta Brady SPECIES
-=======
+# Cornuspira crassisepta Brady SPECIES
 
 #### Status
 DOUBTFUL

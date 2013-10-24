@@ -1,5 +1,4 @@
-Elatodiscophrya Yankovskii, 1978 GENUS
-=======
+# Elatodiscophrya Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

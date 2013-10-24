@@ -1,5 +1,4 @@
-Acaulopage macrospora Drechsler, 1935 SPECIES
-=======
+# Acaulopage macrospora Drechsler, 1935 SPECIES
 
 #### Status
 ACCEPTED

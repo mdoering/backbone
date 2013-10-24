@@ -1,5 +1,4 @@
-Graphis galactodes Nyl. SPECIES
-=======
+# Graphis galactodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratolithoides brevicorniculans SPECIES
-=======
+# Ceratolithoides brevicorniculans SPECIES
 
 #### Status
 ACCEPTED

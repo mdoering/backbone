@@ -1,5 +1,4 @@
-Aecidium incurvum Tracy & Earle SPECIES
-=======
+# Aecidium incurvum Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

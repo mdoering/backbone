@@ -1,5 +1,4 @@
-Gaubaea Petr. GENUS
-=======
+# Gaubaea Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon subpostumum (Nyl.) Arnold SPECIES
-=======
+# Rhizocarpon subpostumum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

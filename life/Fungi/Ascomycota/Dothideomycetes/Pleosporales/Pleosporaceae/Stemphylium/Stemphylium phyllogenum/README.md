@@ -1,5 +1,4 @@
-Stemphylium phyllogenum (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Stemphylium phyllogenum (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

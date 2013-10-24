@@ -1,5 +1,4 @@
-Ampulliferina B. Sutton GENUS
-=======
+# Ampulliferina B. Sutton GENUS
 
 #### Status
 ACCEPTED

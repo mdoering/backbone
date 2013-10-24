@@ -1,5 +1,4 @@
-Excipula ulmicola Schwein. SPECIES
-=======
+# Excipula ulmicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

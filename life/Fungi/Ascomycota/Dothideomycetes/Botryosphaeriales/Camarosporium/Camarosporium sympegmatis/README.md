@@ -1,17 +1,16 @@
-Camarosporium sympegmae Schwarzman SPECIES
-=======
+# Camarosporium sympegmatis Schwarzman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Byzova et al. , Flora Sporovykh Rastenii Kazakhstana [Cryptogamic Flora of Kazakhstan], 7, [Fungi Imperfecti, Melanconiales] (Alma-Ata) (Alma-Ata) 125 (1970)
 
 #### Original name
-Camarosporium sympegmae Schwarzman
+Camarosporium sympegmatis Schwarzman
 
 ### Remarks
 null

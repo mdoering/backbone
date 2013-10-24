@@ -1,5 +1,4 @@
-Otthiella schiffneri Höhn. SPECIES
-=======
+# Otthiella schiffneri Höhn. SPECIES
 
 #### Status
 ACCEPTED

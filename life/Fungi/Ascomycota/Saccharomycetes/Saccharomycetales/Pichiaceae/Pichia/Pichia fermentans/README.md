@@ -1,8 +1,7 @@
-Pichia fermentans f. fermentans Lodder, 1932 FORM
-=======
+# Pichia fermentans Lodder SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Zentbl. Bakt. ParasitKde, Abt. II 86: 242 (1932)
 
 #### Original name
-Pichia fermentans f. fermentans Lodder, 1932
+Pichia fermentans Lodder
 
 ### Remarks
 null

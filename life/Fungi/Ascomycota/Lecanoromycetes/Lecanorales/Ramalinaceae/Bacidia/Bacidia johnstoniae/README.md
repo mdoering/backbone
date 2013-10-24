@@ -1,5 +1,4 @@
-Bacidia johnstoniae Elix SPECIES
-=======
+# Bacidia johnstoniae Elix SPECIES
 
 #### Status
 ACCEPTED

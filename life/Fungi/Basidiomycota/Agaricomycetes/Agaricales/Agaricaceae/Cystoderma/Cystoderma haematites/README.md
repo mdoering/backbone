@@ -1,5 +1,4 @@
-Cystoderma haematites (Sacc.) Konrad & Maubl., 1924 SPECIES
-=======
+# Cystoderma haematites (Sacc.) Konrad & Maubl., 1924 SPECIES
 
 #### Status
 ACCEPTED

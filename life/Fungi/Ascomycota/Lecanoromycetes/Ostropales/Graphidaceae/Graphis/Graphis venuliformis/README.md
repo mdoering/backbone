@@ -1,5 +1,4 @@
-Graphis venuliformis Nyl. SPECIES
-=======
+# Graphis venuliformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

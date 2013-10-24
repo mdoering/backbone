@@ -1,5 +1,4 @@
-Pulveroboletus phaeocephalus (Pat. & C.F. Baker) Singer SPECIES
-=======
+# Pulveroboletus phaeocephalus (Pat. & C.F. Baker) Singer SPECIES
 
 #### Status
 ACCEPTED

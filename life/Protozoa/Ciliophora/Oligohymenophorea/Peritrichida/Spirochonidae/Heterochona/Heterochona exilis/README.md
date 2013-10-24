@@ -1,5 +1,4 @@
-Heterochona exilis Jankowski, 1973 SPECIES
-=======
+# Heterochona exilis Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

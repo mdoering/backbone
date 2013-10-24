@@ -1,5 +1,4 @@
-Anungitea rhabdospora P.M. Kirk, 1983 SPECIES
-=======
+# Anungitea rhabdospora P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

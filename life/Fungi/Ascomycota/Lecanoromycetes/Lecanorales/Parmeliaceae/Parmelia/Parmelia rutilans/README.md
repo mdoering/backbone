@@ -1,5 +1,4 @@
-Parmelia rutilans (Ach.) Ach. SPECIES
-=======
+# Parmelia rutilans (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

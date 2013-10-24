@@ -1,5 +1,4 @@
-Lembosia microtheca Theiss. SPECIES
-=======
+# Lembosia microtheca Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia viridimammata Pilát SPECIES
-=======
+# Omphalia viridimammata Pilát SPECIES
 
 #### Status
 ACCEPTED

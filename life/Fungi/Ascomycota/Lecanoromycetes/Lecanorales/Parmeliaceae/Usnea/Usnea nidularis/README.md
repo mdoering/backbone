@@ -1,5 +1,4 @@
-Usnea nidularis Asahina SPECIES
-=======
+# Usnea nidularis Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Orbilia marina Boyd, 1908 SPECIES
-=======
+# Laetinaevia marina (Boyd) Spooner, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 3: 16 (1908)
+in Kirk & Spooner, Kew Bull. 38(4): 568 (1984)
 
 #### Original name
 Orbilia marina Boyd, 1908

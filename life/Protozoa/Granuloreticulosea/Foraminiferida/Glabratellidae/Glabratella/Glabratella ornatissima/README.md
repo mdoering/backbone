@@ -1,5 +1,4 @@
-Glabratella ornatissima (Cushman) SPECIES
-=======
+# Glabratella ornatissima (Cushman) SPECIES
 
 #### Status
 ACCEPTED

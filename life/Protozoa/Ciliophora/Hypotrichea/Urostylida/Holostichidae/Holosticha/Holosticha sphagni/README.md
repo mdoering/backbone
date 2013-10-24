@@ -1,5 +1,4 @@
-Holosticha sphagni SPECIES
-=======
+# Holosticha sphagni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta hasijai G.P. Agarwal SPECIES
-=======
+# Phyllosticta hasijai G.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

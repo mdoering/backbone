@@ -1,17 +1,16 @@
-Hymenochaete caucasica Parmasto, 1986 SPECIES
-=======
+# Hymenochaete minuscula G. Cunn., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 20(5): 374 (1986)
+Trans. Roy. Soc. New Zealand 85(1): 48 (1957)
 
 #### Original name
-Hymenochaete caucasica Parmasto, 1986
+Hymenochaete minuscula G. Cunn., 1957
 
 ### Remarks
 null

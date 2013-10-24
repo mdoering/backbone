@@ -1,17 +1,16 @@
-Masoniella G. Sm. GENUS
-=======
+# Scopulariopsis Bainier GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 35(2): 237 (1952)
+Bull. Soc. mycol. Fr. 23: 98 (1907)
 
 #### Original name
-Masoniella G. Sm.
+Scopulariopsis Bainier
 
 ### Remarks
 null

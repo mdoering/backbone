@@ -1,5 +1,4 @@
-Agaricus lobatorepandus V. Brig. SPECIES
-=======
+# Agaricus lobatorepandus V. Brig. SPECIES
 
 #### Status
 ACCEPTED

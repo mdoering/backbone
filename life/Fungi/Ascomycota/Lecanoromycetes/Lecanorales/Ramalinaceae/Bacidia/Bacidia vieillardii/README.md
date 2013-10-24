@@ -1,5 +1,4 @@
-Bacidia vieillardii (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia vieillardii (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

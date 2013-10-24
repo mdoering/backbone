@@ -1,5 +1,4 @@
-Eutypa curvicolla (Peck) M.E. Barr SPECIES
-=======
+# Eutypa curvicolla (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

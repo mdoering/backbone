@@ -1,5 +1,4 @@
-Xylaria confusa Starbäck SPECIES
-=======
+# Xylaria confusa Starbäck SPECIES
 
 #### Status
 ACCEPTED

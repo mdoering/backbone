@@ -1,5 +1,4 @@
-Naviculopsis obtusarca var. acicula D. Bukry VARIETY
-=======
+# Naviculopsis obtusarca D. Bukry SPECIES
 
 #### Status
 ACCEPTED

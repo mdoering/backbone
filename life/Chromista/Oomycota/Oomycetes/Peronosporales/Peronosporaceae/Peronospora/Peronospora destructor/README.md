@@ -1,17 +1,16 @@
-Peronospora schleidenii Unger, 1847 SPECIES
-=======
+# Peronospora destructor (Berk.) Casp. ex Berk., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Berkeley, Outl. Brit. Fung. (London) 349 (1860)
 
 #### Original name
-null
+Botrytis destructor Berk., 1841
 
 ### Remarks
 null

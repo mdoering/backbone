@@ -1,5 +1,4 @@
-Agrocybe guruvayoorensis K.A. Thomas & Manim. SPECIES
-=======
+# Agrocybe guruvayoorensis K.A. Thomas & Manim. SPECIES
 
 #### Status
 ACCEPTED

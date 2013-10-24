@@ -1,14 +1,13 @@
-Sphaerosoma ostiolatum Tul. & C. Tul., 1851 SPECIES
-=======
+# Sphaerozone ostiolatum (Tul. & C. Tul.) Setch., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi hypog. 184 (1851)
+null
 
 #### Original name
 Sphaerosoma ostiolatum Tul. & C. Tul., 1851

@@ -1,5 +1,4 @@
-Hyaloscypha martialis Velen. SPECIES
-=======
+# Hyaloscypha martialis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elsinoë vaccinii D.E. Gardner & Hodges SPECIES
-=======
+# Elsinoë vaccinii D.E. Gardner & Hodges SPECIES
 
 #### Status
 ACCEPTED

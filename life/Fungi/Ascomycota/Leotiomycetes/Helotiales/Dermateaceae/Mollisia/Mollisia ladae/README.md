@@ -1,5 +1,4 @@
-Mollisia ladae (Velen.) Gminder SPECIES
-=======
+# Mollisia ladae (Velen.) Gminder SPECIES
 
 #### Status
 ACCEPTED

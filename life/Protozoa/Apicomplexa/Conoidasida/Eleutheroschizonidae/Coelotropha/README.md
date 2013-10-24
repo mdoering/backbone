@@ -1,5 +1,4 @@
-Coelotropha Henneré, 1963 GENUS
-=======
+# Coelotropha Henneré, 1963 GENUS
 
 #### Status
 ACCEPTED

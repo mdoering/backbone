@@ -1,5 +1,4 @@
-Biatora dispersa Eckfeldt SPECIES
-=======
+# Biatora dispersa Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

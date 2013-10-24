@@ -1,5 +1,4 @@
-Collybia grinbergsii E. Valenz. & G. Moreno SPECIES
-=======
+# Collybia grinbergsii E. Valenz. & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

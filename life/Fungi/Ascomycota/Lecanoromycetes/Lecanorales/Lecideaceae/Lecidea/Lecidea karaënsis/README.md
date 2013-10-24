@@ -1,5 +1,4 @@
-Lecidea karaënsis SPECIES
-=======
+# Lecidea karaënsis SPECIES
 
 #### Status
 ACCEPTED

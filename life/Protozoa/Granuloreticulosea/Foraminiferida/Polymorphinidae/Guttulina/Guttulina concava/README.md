@@ -1,5 +1,4 @@
-Guttulina concava (Williamson) SPECIES
-=======
+# Guttulina concava (Williamson) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota demangei Pat. SPECIES
-=======
+# Lepiota demangei Pat. SPECIES
 
 #### Status
 ACCEPTED

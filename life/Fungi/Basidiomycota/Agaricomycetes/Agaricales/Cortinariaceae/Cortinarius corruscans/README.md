@@ -1,5 +1,4 @@
-Cortinarius corruscans Fr. SPECIES
-=======
+# Cortinarius corruscans Fr. SPECIES
 
 #### Status
 ACCEPTED

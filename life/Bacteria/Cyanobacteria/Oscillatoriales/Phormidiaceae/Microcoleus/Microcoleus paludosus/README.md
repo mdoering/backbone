@@ -1,5 +1,4 @@
-Microcoleus paludosus (Kützing) Gomont SPECIES
-=======
+# Microcoleus paludosus (Kützing) Gomont SPECIES
 
 #### Status
 ACCEPTED

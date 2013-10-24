@@ -1,17 +1,16 @@
-Platygrapha kurzii (Kremp.) Nyl. SPECIES
-=======
+# Pulvinodecton kurzii (Kremp.) Henssen & G. Thor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nouv. Arch. Mus. Hist. Nat. , sér. 3 3: 175 (1891)
+Nordic Jl Bot. 18(1): 115 (1998)
 
 #### Original name
-Chiodecton kurzii Kremp.
+Pyrenodesmia kurzii Kremp.
 
 ### Remarks
 null

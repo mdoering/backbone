@@ -1,5 +1,4 @@
-Sacidium ulmi-gallae Kellerm. & Swingle SPECIES
-=======
+# Sacidium ulmi-gallae Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

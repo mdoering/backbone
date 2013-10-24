@@ -1,5 +1,4 @@
-Gyrothrix inops (Berl.) Piroz. SPECIES
-=======
+# Gyrothrix inops (Berl.) Piroz. SPECIES
 
 #### Status
 ACCEPTED

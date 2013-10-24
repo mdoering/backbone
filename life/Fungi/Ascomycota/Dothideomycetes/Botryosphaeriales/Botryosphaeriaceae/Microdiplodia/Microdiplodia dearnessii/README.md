@@ -1,5 +1,4 @@
-Microdiplodia dearnessii (Ellis & Everh.) Tassi SPECIES
-=======
+# Microdiplodia dearnessii (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

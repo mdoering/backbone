@@ -1,5 +1,4 @@
-Parduczia floridensis Lackey, 1957 SPECIES
-=======
+# Parduczia floridensis Lackey, 1957 SPECIES
 
 #### Status
 ACCEPTED

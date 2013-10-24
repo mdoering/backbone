@@ -1,17 +1,16 @@
-Sclerotium bataticola subsp. bataticola SUBSPECIES
-=======
+# Macrophomina phaseolina (Tassi) Goid., 1947 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 3(3): 164 (1913)
+Annali Sper. agr. , n. s. 1(3): 457 (1947)
 
 #### Original name
-Sclerotium bataticola subsp. bataticola
+Macrophoma phaseolina Tassi, 1901
 
 ### Remarks
 null

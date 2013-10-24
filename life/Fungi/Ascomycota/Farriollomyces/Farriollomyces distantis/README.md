@@ -1,5 +1,4 @@
-Farriollomyces distantis Cif. & Tomas. SPECIES
-=======
+# Farriollomyces distantis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

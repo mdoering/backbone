@@ -1,5 +1,4 @@
-Mycocalicium himalayense Räsänen SPECIES
-=======
+# Mycocalicium himalayense Räsänen SPECIES
 
 #### Status
 ACCEPTED

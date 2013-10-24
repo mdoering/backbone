@@ -1,5 +1,4 @@
-Laguncula dorotheae Black, 1971 SPECIES
-=======
+# Laguncula dorotheae Black, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon arboyense Servít SPECIES
-=======
+# Dermatocarpon arboyense Servít SPECIES
 
 #### Status
 ACCEPTED

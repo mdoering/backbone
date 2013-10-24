@@ -1,5 +1,4 @@
-Colletotrichum antarcticum Henn. SPECIES
-=======
+# Colletotrichum antarcticum Henn. SPECIES
 
 #### Status
 ACCEPTED

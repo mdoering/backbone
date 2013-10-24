@@ -1,5 +1,4 @@
-Dicaeoma sporoboli (Arthur) Kuntze SPECIES
-=======
+# Dicaeoma sporoboli (Arthur) Kuntze SPECIES
 
 #### Status
 ACCEPTED

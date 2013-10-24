@@ -1,5 +1,4 @@
-Triblidium rufulum SPECIES
-=======
+# Triblidium rufulum SPECIES
 
 #### Status
 ACCEPTED

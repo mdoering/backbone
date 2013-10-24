@@ -1,5 +1,4 @@
-Dialonectria heraclei (P. Crouan & H. Crouan) Cooke SPECIES
-=======
+# Dialonectria heraclei (P. Crouan & H. Crouan) Cooke SPECIES
 
 #### Status
 ACCEPTED

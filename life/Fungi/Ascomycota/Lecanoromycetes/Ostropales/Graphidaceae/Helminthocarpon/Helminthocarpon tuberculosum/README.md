@@ -1,5 +1,4 @@
-Helminthocarpon tuberculosum Vain. SPECIES
-=======
+# Helminthocarpon tuberculosum Vain. SPECIES
 
 #### Status
 ACCEPTED

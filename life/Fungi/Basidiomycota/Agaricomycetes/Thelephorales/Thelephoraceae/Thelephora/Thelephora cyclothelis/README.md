@@ -1,5 +1,4 @@
-Thelephora cyclothelis Pers. SPECIES
-=======
+# Thelephora cyclothelis Pers. SPECIES
 
 #### Status
 ACCEPTED

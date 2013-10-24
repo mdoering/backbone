@@ -1,5 +1,4 @@
-Blastobacter capsulatus Hirsch & Müller, 1986 SPECIES
-=======
+# Blastobacter capsulatus Hirsch & Müller, 1986 SPECIES
 
 #### Status
 ACCEPTED

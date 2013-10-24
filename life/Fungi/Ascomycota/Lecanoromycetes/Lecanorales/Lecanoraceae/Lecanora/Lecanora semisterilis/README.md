@@ -1,5 +1,4 @@
-Lecanora semisterilis H. Magn. SPECIES
-=======
+# Lecanora semisterilis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

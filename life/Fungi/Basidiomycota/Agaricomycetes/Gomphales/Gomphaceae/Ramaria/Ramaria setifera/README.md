@@ -1,5 +1,4 @@
-Ramaria setifera Velen. SPECIES
-=======
+# Ramaria setifera Velen. SPECIES
 
 #### Status
 ACCEPTED

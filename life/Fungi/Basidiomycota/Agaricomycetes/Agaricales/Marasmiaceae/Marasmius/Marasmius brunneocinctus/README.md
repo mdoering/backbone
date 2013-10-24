@@ -1,5 +1,4 @@
-Marasmius brunneocinctus Singer SPECIES
-=======
+# Marasmius brunneocinctus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Serenomyces palmae E. Müll., 1965 SPECIES
-=======
+# Serenomyces palmae E. Müll., 1965 SPECIES
 
 #### Status
 ACCEPTED

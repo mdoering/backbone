@@ -1,5 +1,4 @@
-Verrucaria lojkana Servít SPECIES
-=======
+# Verrucaria lojkana Servít SPECIES
 
 #### Status
 ACCEPTED

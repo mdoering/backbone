@@ -1,5 +1,4 @@
-Thysanophora asymmetrica Subram. & Sudha, 1987 SPECIES
-=======
+# Thysanophora asymmetrica Subram. & Sudha, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphorula L. Dodekova, 1969 GENUS
-=======
+# Amphorula L. Dodekova, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammulaster fulvoalbus (Berk. & Broome) Pegler SPECIES
-=======
+# Flammulaster fulvoalbus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

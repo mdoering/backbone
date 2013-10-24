@@ -1,5 +1,4 @@
-Aquificaceae Reysenbach, 2002 FAMILY
-=======
+# Aquificaceae Reysenbach, 2002 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinemasporium lippiae Tassi SPECIES
-=======
+# Dinemasporium lippiae Tassi SPECIES
 
 #### Status
 ACCEPTED

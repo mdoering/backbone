@@ -1,5 +1,4 @@
-Phyllosticta otites Brunaud SPECIES
-=======
+# Phyllosticta otites Brunaud SPECIES
 
 #### Status
 ACCEPTED

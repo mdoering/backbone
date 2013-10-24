@@ -1,5 +1,4 @@
-Amanita macrospora H.L. Stewart & Grund SPECIES
-=======
+# Amanita macrospora H.L. Stewart & Grund SPECIES
 
 #### Status
 ACCEPTED

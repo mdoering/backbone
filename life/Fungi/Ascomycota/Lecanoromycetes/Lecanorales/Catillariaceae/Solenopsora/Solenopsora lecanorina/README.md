@@ -1,5 +1,4 @@
-Solenopsora lecanorina (C. Knight) Zahlbr. SPECIES
-=======
+# Solenopsora lecanorina (C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronothigma Yankovskij, 1980 GENUS
-=======
+# Coronothigma Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

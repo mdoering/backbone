@@ -1,5 +1,4 @@
-Chaetomium intricatum A. Carter SPECIES
-=======
+# Chaetomium intricatum A. Carter SPECIES
 
 #### Status
 ACCEPTED

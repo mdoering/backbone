@@ -1,5 +1,4 @@
-Dermatophilus chelonae Masters et al., 1995 SPECIES
-=======
+# Dermatophilus chelonae Masters et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

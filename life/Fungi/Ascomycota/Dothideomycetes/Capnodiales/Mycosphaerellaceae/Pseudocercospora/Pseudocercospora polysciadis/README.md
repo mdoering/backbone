@@ -1,17 +1,16 @@
-Cercospora polysciatis S.H. Sun SPECIES
-=======
+# Pseudocercospora polysciadis (S.H. Sun) J.M. Yen, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 94(4): 383 (1979)
 
 #### Original name
-Cercospora polysciatis S.H. Sun
+Cercospora polysciadis S.H. Sun, 1955
 
 ### Remarks
 null

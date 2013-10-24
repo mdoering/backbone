@@ -1,5 +1,4 @@
-Cortinarius singerianus Peintner SPECIES
-=======
+# Cortinarius singerianus Peintner SPECIES
 
 #### Status
 ACCEPTED

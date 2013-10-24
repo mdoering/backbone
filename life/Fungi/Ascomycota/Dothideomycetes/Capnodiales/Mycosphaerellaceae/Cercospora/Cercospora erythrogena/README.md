@@ -1,5 +1,4 @@
-Cercospora erythrogena G.F. Atk. SPECIES
-=======
+# Cercospora erythrogena G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

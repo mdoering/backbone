@@ -1,14 +1,13 @@
-Lecidea rhypodiza Nyl. SPECIES
-=======
+# Halecania rhypodiza (Nyl.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 2 3: 271 (1869)
+Lichenologist 21(3): 224 (1989)
 
 #### Original name
 Lecidea rhypodiza Nyl.

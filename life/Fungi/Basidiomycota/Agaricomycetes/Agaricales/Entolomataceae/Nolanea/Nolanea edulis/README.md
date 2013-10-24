@@ -1,5 +1,4 @@
-Nolanea edulis var. edulis VARIETY
-=======
+# Nolanea edulis (Peck) Largent SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Brittonia 23(3): 239 (1971)
 
 #### Original name
-Nolanea edulis var. edulis
+Leptonia edulis Peck
 
 ### Remarks
 null

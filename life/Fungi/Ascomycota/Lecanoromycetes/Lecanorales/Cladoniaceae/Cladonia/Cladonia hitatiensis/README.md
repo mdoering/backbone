@@ -1,5 +1,4 @@
-Cladonia hitatiensis Asahina SPECIES
-=======
+# Cladonia hitatiensis Asahina SPECIES
 
 #### Status
 ACCEPTED

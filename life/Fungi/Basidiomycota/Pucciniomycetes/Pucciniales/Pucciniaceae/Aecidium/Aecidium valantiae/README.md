@@ -1,5 +1,4 @@
-Aecidium valantiae Westend. SPECIES
-=======
+# Aecidium valantiae Westend. SPECIES
 
 #### Status
 ACCEPTED

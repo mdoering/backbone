@@ -1,8 +1,7 @@
-Septoria patouillardi Sacc. & P. Syd. SPECIES
-=======
+# Septoria patouillardii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria patouillardi Sacc. & P. Syd.
+Septoria patouillardii Sacc. & P. Syd.
 
 ### Remarks
 null

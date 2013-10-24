@@ -1,5 +1,4 @@
-Aphanothece krumbeinii Campbell & Golubic SPECIES
-=======
+# Aphanothece krumbeinii Campbell & Golubic SPECIES
 
 #### Status
 ACCEPTED

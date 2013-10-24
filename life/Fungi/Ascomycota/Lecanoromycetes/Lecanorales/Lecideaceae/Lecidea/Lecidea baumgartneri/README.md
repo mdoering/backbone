@@ -1,5 +1,4 @@
-Lecidea baumgartneri Zahlbr. SPECIES
-=======
+# Lecidea baumgartneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

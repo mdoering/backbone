@@ -1,5 +1,4 @@
-Lepiota scaberula Vellinga SPECIES
-=======
+# Lepiota scaberula Vellinga SPECIES
 
 #### Status
 ACCEPTED

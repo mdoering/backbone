@@ -1,5 +1,4 @@
-Uromyces gaubae Petr. SPECIES
-=======
+# Uromyces gaubae Petr. SPECIES
 
 #### Status
 ACCEPTED

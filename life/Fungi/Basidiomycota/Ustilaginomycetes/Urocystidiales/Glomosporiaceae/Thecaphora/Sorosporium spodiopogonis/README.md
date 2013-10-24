@@ -1,5 +1,4 @@
-Sorosporium spodiopogonis M.S. Patil SPECIES
-=======
+# Sorosporium spodiopogonis M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

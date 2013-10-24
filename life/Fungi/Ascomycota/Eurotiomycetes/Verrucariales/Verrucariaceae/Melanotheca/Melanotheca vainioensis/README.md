@@ -1,5 +1,4 @@
-Melanotheca vainioensis Werner SPECIES
-=======
+# Melanotheca vainioensis Werner SPECIES
 
 #### Status
 ACCEPTED

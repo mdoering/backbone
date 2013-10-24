@@ -1,14 +1,13 @@
-Stigmina mangiferae (Koord.) M.B. Ellis, 1959 SPECIES
-=======
+# Cercospora mangiferae Koord., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 72: 49 (1959)
+Verh. K. Akad. Wet. , tweede sect. 13: 236 (1907)
 
 #### Original name
 Cercospora mangiferae Koord., 1907

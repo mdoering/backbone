@@ -1,5 +1,4 @@
-Cercospora chamaecristae Ellis & Kellerm. SPECIES
-=======
+# Cercospora chamaecristae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanidion atrofuscum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lecanidion atrofuscum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

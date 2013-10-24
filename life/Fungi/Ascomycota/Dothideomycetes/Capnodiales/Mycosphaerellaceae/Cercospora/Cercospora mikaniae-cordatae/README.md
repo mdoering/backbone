@@ -1,5 +1,4 @@
-Cercospora mikaniae-cordatae J.M. Yen SPECIES
-=======
+# Cercospora mikaniae-cordatae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

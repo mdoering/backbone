@@ -1,5 +1,4 @@
-Puccinia wangikarii Somani SPECIES
-=======
+# Puccinia wangikarii Somani SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium bornmuelleri Magnus SPECIES
-=======
+# Sorosporium bornmuelleri Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium zaleskii Svilv. SPECIES
-=======
+# Penicillium zaleskii Svilv. SPECIES
 
 #### Status
 ACCEPTED

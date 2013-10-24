@@ -1,5 +1,4 @@
-Lecanora cibinica Gyeln. SPECIES
-=======
+# Lecanora cibinica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

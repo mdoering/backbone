@@ -1,5 +1,4 @@
-Septoria astragalina Hollós SPECIES
-=======
+# Septoria astragalina Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria lutea (Brond.) Sacc. SPECIES
-=======
+# Isaria lutea (Brond.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

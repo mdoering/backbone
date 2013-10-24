@@ -1,5 +1,4 @@
-Paramecium schewiakoffi Fokin, Przybos, Chivilevc, §, 2004 SPECIES
-=======
+# Paramecium schewiakoffi Fokin, Przybos, Chivilevc, §, 2004 SPECIES
 
 #### Status
 ACCEPTED

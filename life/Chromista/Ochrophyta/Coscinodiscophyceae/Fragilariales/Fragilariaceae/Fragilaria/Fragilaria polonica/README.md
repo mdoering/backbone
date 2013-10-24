@@ -1,5 +1,4 @@
-Fragilaria polonica Witak & Lange-Bertalot SPECIES
-=======
+# Fragilaria polonica Witak & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

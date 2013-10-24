@@ -1,5 +1,4 @@
-Tripospermum variabile Matsush. SPECIES
-=======
+# Tripospermum variabile Matsush. SPECIES
 
 #### Status
 ACCEPTED

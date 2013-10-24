@@ -1,5 +1,4 @@
-Asteromella lafoensiae (Allesch.) Aa SPECIES
-=======
+# Asteromella lafoensiae (Allesch.) Aa SPECIES
 
 #### Status
 ACCEPTED

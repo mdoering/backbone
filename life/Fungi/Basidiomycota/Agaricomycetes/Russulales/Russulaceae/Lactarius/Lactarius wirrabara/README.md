@@ -1,5 +1,4 @@
-Lactarius wirrabara Grgur. SPECIES
-=======
+# Lactarius wirrabara Grgur. SPECIES
 
 #### Status
 ACCEPTED

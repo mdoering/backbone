@@ -1,5 +1,4 @@
-Lepiota aspericeps (Weinm.) Singer SPECIES
-=======
+# Lepiota aspericeps (Weinm.) Singer SPECIES
 
 #### Status
 ACCEPTED

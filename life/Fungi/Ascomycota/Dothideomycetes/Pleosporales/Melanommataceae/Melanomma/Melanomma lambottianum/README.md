@@ -1,5 +1,4 @@
-Melanomma lambottianum Sacc. SPECIES
-=======
+# Melanomma lambottianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

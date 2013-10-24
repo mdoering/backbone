@@ -1,5 +1,4 @@
-Haplographium atrofuscum (Preuss) Sacc. SPECIES
-=======
+# Haplographium atrofuscum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

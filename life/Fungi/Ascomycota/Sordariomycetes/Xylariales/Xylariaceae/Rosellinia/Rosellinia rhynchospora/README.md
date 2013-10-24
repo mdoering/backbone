@@ -1,5 +1,4 @@
-Rosellinia rhynchospora Harkn. SPECIES
-=======
+# Rosellinia rhynchospora Harkn. SPECIES
 
 #### Status
 ACCEPTED

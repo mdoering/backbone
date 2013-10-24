@@ -1,5 +1,4 @@
-Volutella uredinophila Syd. SPECIES
-=======
+# Volutella uredinophila Syd. SPECIES
 
 #### Status
 ACCEPTED

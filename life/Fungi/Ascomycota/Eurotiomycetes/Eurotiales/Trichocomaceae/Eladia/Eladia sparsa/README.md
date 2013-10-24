@@ -1,5 +1,4 @@
-Eladia sparsa G. Sm. SPECIES
-=======
+# Eladia sparsa G. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria recurva (Berk.) Rifai SPECIES
-=======
+# Plicaria recurva (Berk.) Rifai SPECIES
 
 #### Status
 ACCEPTED

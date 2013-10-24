@@ -1,5 +1,4 @@
-Erysiphe biocellaris Ehrenb. SPECIES
-=======
+# Erysiphe biocellaris Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

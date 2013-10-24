@@ -1,5 +1,4 @@
-Galorrheus theiogalus (Bull.) P. Kumm. SPECIES
-=======
+# Galorrheus theiogalus (Bull.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

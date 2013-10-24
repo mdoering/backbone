@@ -1,5 +1,4 @@
-Flabellospora acuminata Descals, 1982 SPECIES
-=======
+# Flabellospora acuminata Descals, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina impatientis Kabát & Bubák SPECIES
-=======
+# Diplodina impatientis Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

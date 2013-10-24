@@ -1,5 +1,4 @@
-Aquapoterium Raja & Shearer GENUS
-=======
+# Aquapoterium Raja & Shearer GENUS
 
 #### Status
 ACCEPTED

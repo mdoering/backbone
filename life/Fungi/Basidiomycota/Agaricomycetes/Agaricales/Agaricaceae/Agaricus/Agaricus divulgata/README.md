@@ -1,5 +1,4 @@
-Agaricus divulgata Britzelm. SPECIES
-=======
+# Agaricus divulgata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

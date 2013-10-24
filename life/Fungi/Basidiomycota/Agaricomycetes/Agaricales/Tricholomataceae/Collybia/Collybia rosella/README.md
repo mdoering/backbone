@@ -1,5 +1,4 @@
-Collybia rosella Velen. SPECIES
-=======
+# Collybia rosella Velen. SPECIES
 
 #### Status
 ACCEPTED

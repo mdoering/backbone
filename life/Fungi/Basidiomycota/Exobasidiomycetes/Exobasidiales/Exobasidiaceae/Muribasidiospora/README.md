@@ -1,5 +1,4 @@
-Muribasidiospora Kamat & Rajendren GENUS
-=======
+# Muribasidiospora Kamat & Rajendren GENUS
 
 #### Status
 ACCEPTED

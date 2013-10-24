@@ -1,5 +1,4 @@
-Puccinia cornigera Ellis & Everh. SPECIES
-=======
+# Puccinia cornigera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

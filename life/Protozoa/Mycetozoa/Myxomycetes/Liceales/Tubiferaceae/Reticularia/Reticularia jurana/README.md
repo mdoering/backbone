@@ -1,17 +1,16 @@
-Enteridium splendens var. juranum (Meyl.) Härk. VARIETY
-=======
+# Reticularia jurana Meyl., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 19: 5 (1979)
+null
 
 #### Original name
-Reticularia jurana Meyl., 1908
+null
 
 ### Remarks
 null

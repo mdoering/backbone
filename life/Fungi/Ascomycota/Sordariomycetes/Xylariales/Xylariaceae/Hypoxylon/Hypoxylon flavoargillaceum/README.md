@@ -1,5 +1,4 @@
-Hypoxylon flavoargillaceum J.H. Mill., 1934 SPECIES
-=======
+# Hypoxylon flavoargillaceum J.H. Mill., 1934 SPECIES
 
 #### Status
 ACCEPTED

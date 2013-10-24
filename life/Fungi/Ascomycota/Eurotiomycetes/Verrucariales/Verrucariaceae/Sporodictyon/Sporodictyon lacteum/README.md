@@ -1,5 +1,4 @@
-Sporodictyon lacteum (A. Massal.) Trevis. SPECIES
-=======
+# Sporodictyon lacteum (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

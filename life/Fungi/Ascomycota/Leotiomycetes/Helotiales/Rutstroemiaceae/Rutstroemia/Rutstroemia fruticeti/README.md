@@ -1,5 +1,4 @@
-Rutstroemia fruticeti Rehm, 1893 SPECIES
-=======
+# Rutstroemia fruticeti Rehm, 1893 SPECIES
 
 #### Status
 ACCEPTED

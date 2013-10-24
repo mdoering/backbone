@@ -1,5 +1,4 @@
-Erioderma glaucescens (Taylor) C.W. Dodge SPECIES
-=======
+# Erioderma glaucescens (Taylor) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

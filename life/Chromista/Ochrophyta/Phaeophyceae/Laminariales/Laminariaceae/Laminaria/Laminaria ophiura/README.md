@@ -1,5 +1,4 @@
-Laminaria ophiura Bory de Saint-Vincent SPECIES
-=======
+# Laminaria ophiura Bory de Saint-Vincent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloporus politus (Fr.) Quél. SPECIES
-=======
+# Caloporus politus (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

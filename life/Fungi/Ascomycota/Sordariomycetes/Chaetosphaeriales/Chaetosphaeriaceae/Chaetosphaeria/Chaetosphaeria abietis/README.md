@@ -1,17 +1,16 @@
-Zignoella abietis Höhn. SPECIES
-=======
+# Chaetosphaeria abietis (Höhn.) W. Gams & Hol.-Jech., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 13: 53 (1976)
 
 #### Original name
-null
+Zignoëlla abietis Höhn., 1909
 
 ### Remarks
 null

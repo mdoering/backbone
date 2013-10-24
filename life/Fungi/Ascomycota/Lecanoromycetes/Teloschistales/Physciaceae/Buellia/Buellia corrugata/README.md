@@ -1,5 +1,4 @@
-Buellia corrugata Körb. SPECIES
-=======
+# Buellia corrugata Körb. SPECIES
 
 #### Status
 ACCEPTED

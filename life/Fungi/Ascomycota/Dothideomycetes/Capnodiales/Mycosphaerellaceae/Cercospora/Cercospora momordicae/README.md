@@ -1,5 +1,4 @@
-Cercospora momordicae McRae SPECIES
-=======
+# Cercospora momordicae McRae SPECIES
 
 #### Status
 ACCEPTED

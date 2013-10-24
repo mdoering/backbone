@@ -1,5 +1,4 @@
-Pestalotia vitalbae Shoemaker & E. Müll. SPECIES
-=======
+# Pestalotia vitalbae Shoemaker & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

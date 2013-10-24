@@ -1,5 +1,4 @@
-Fenestella hormospora (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Fenestella hormospora (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

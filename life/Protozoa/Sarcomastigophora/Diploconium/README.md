@@ -1,5 +1,4 @@
-Diploconium Haeckel, 1887 GENUS
-=======
+# Diploconium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

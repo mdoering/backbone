@@ -1,5 +1,4 @@
-Irpex kusanoi Henn. & Shirai SPECIES
-=======
+# Irpex kusanoi Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

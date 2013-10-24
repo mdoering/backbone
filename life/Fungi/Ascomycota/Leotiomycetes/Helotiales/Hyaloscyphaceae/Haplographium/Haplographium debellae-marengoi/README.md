@@ -1,5 +1,4 @@
-Haplographium debellae-marengoi var. debellae-marengoi VARIETY
-=======
+# Haplographium debellae-marengoi Pollacci SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Atti Ist. bot. Univ. Lab. crittog. Pavia 18: 125 (1921)
 
 #### Original name
-Haplographium debellae-marengoi var. debellae-marengoi
+Haplographium debellae-marengoi Pollacci
 
 ### Remarks
 null

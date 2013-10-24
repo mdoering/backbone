@@ -1,5 +1,4 @@
-Coenogonium tenuissimum Kremp. SPECIES
-=======
+# Coenogonium tenuissimum Kremp. SPECIES
 
 #### Status
 ACCEPTED

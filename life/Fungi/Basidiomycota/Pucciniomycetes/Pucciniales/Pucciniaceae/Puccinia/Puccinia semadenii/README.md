@@ -1,5 +1,4 @@
-Puccinia semadenii Gäum. SPECIES
-=======
+# Puccinia semadenii Gäum. SPECIES
 
 #### Status
 ACCEPTED

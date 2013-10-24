@@ -1,5 +1,4 @@
-Feltgeniomyces uniseptatus Diederich SPECIES
-=======
+# Feltgeniomyces uniseptatus Diederich SPECIES
 
 #### Status
 ACCEPTED

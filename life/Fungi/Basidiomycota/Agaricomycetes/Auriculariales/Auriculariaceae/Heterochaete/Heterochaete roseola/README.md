@@ -1,5 +1,4 @@
-Heterochaete roseola Pat. SPECIES
-=======
+# Heterochaete roseola Pat. SPECIES
 
 #### Status
 ACCEPTED

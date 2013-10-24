@@ -1,5 +1,4 @@
-Depazea calthaecola DC. SPECIES
-=======
+# Depazea calthaecola DC. SPECIES
 
 #### Status
 ACCEPTED

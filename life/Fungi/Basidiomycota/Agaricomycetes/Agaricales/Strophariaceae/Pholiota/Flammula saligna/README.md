@@ -1,5 +1,4 @@
-Flammula saligna Métrod SPECIES
-=======
+# Flammula saligna Métrod SPECIES
 
 #### Status
 ACCEPTED

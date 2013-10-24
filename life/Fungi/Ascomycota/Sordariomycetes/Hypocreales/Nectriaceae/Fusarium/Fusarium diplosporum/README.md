@@ -1,5 +1,4 @@
-Fusarium diplosporum Cooke & Ellis SPECIES
-=======
+# Fusarium diplosporum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

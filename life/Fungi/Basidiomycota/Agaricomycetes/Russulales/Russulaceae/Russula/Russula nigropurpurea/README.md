@@ -1,5 +1,4 @@
-Russula nigropurpurea Bidaud & Moënne-Locc. SPECIES
-=======
+# Russula nigropurpurea Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

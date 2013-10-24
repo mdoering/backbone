@@ -1,5 +1,4 @@
-Torula ellisii Yadav & Lal SPECIES
-=======
+# Torula ellisii Yadav & Lal SPECIES
 
 #### Status
 ACCEPTED

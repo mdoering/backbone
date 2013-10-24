@@ -1,5 +1,4 @@
-Septoria ceanothi Dearn. SPECIES
-=======
+# Septoria ceanothi Dearn. SPECIES
 
 #### Status
 ACCEPTED

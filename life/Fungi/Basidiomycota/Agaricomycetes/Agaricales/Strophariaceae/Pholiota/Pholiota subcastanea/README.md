@@ -1,5 +1,4 @@
-Pholiota subcastanea A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subcastanea A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

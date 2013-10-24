@@ -1,5 +1,4 @@
-Trichopeziza caduca Rehm SPECIES
-=======
+# Trichopeziza caduca Rehm SPECIES
 
 #### Status
 ACCEPTED

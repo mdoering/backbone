@@ -1,5 +1,4 @@
-Rotaliammina chitinosa (Collins, 1958) SPECIES
-=======
+# Rotaliammina chitinosa (Collins, 1958) SPECIES
 
 #### Status
 ACCEPTED

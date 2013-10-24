@@ -1,5 +1,4 @@
-Hosseusia gertrudiana Gyeln. SPECIES
-=======
+# Hosseusia gertrudiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

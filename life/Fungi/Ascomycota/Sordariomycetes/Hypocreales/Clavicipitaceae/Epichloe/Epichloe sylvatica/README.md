@@ -1,5 +1,4 @@
-Epichloe sylvatica Leuchtm. & Schardl, 1998 SPECIES
-=======
+# Epichloe sylvatica Leuchtm. & Schardl, 1998 SPECIES
 
 #### Status
 ACCEPTED

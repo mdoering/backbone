@@ -1,5 +1,4 @@
-Diplodia veratri Earle SPECIES
-=======
+# Diplodia veratri Earle SPECIES
 
 #### Status
 ACCEPTED

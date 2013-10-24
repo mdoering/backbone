@@ -1,5 +1,4 @@
-Lecidea ligans Nyl. SPECIES
-=======
+# Lecidea ligans Nyl. SPECIES
 
 #### Status
 ACCEPTED

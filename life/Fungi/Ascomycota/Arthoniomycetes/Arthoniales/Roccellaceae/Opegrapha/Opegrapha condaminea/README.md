@@ -1,5 +1,4 @@
-Opegrapha condaminea Fée SPECIES
-=======
+# Opegrapha condaminea Fée SPECIES
 
 #### Status
 ACCEPTED

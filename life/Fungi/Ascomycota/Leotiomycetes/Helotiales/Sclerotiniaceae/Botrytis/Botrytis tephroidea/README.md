@@ -1,5 +1,4 @@
-Botrytis tephroidea Sacc. & Ellis SPECIES
-=======
+# Botrytis tephroidea Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

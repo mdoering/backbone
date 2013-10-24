@@ -1,5 +1,4 @@
-Passalora sudanensis (Deighton) U. Braun & Crous SPECIES
-=======
+# Passalora sudanensis (Deighton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flagelloscypha globosa (Pat.) W.B. Cooke SPECIES
-=======
+# Flagelloscypha globosa (Pat.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

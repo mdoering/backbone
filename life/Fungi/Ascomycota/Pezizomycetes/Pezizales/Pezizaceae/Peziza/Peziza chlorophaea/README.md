@@ -1,5 +1,4 @@
-Peziza chlorophaea Rehm, 1885 SPECIES
-=======
+# Peziza chlorophaea Rehm, 1885 SPECIES
 
 #### Status
 ACCEPTED

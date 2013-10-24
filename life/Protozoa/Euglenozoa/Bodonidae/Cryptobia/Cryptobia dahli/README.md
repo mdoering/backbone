@@ -1,5 +1,4 @@
-Cryptobia dahli (Möbius, 1988) SPECIES
-=======
+# Cryptobia dahli (Möbius, 1988) SPECIES
 
 #### Status
 ACCEPTED

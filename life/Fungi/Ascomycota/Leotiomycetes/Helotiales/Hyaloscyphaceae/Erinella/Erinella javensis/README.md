@@ -1,5 +1,4 @@
-Erinella javensis Höhn. SPECIES
-=======
+# Erinella javensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

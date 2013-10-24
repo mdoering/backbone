@@ -1,17 +1,16 @@
-Lembosia pittierii Syd. SPECIES
-=======
+# Lembosia pittieri Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 28(1/2): 146 (1930)
 
 #### Original name
-Lembosia pittierii Syd.
+Lembosia pittieri Syd.
 
 ### Remarks
 null

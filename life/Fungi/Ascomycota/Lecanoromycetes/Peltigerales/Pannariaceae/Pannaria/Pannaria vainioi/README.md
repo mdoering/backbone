@@ -1,8 +1,7 @@
-Pannaria vainii C.W. Dodge SPECIES
-=======
+# Pannaria vainioi C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pannaria vainii C.W. Dodge
+Pannaria vainioi C.W. Dodge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Catillaria pyrophthalma (Mont.) Zahlbr. SPECIES
-=======
+# Catillaria pyrophthalma (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

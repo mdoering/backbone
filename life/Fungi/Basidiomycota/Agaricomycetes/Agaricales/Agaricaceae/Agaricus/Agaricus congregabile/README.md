@@ -1,5 +1,4 @@
-Agaricus congregabile Britzelm. SPECIES
-=======
+# Agaricus congregabile Britzelm. SPECIES
 
 #### Status
 ACCEPTED

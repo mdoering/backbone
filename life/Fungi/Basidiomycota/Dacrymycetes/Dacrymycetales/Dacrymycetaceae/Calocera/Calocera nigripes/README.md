@@ -1,5 +1,4 @@
-Calocera nigripes Syd. SPECIES
-=======
+# Calocera nigripes Syd. SPECIES
 
 #### Status
 ACCEPTED

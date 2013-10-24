@@ -1,5 +1,4 @@
-Lecanora fuscolutea (Ach.) Nyl. SPECIES
-=======
+# Lecanora fuscolutea (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

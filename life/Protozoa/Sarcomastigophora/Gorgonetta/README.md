@@ -1,5 +1,4 @@
-Gorgonetta Haeckel, 1887 GENUS
-=======
+# Gorgonetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

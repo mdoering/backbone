@@ -1,14 +1,13 @@
-Lecania alpivaga Th. Fr. SPECIES
-=======
+# Halecania alpivaga (Th. Fr.) M. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Scand. (Uppsala) 1: 292 (1871)
+Herzogia 7(3-4): 391 (1987)
 
 #### Original name
 Lecania alpivaga Th. Fr.

@@ -1,5 +1,4 @@
-Cothurnia trophonicola SPECIES
-=======
+# Cothurnia trophonicola SPECIES
 
 #### Status
 ACCEPTED

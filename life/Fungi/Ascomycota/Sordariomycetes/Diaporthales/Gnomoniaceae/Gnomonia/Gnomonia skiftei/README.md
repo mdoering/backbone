@@ -1,5 +1,4 @@
-Gnomonia skiftei M. Monod SPECIES
-=======
+# Gnomonia skiftei M. Monod SPECIES
 
 #### Status
 ACCEPTED

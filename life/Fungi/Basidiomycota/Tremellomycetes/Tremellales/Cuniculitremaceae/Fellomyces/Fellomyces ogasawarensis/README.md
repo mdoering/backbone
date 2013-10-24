@@ -1,5 +1,4 @@
-Fellomyces ogasawarensis Hamam., Kuroy. & Nakase SPECIES
-=======
+# Fellomyces ogasawarensis Hamam., Kuroy. & Nakase SPECIES
 
 #### Status
 ACCEPTED

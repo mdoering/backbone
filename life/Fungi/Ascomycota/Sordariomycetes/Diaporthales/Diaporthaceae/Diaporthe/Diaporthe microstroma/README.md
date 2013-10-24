@@ -1,5 +1,4 @@
-Diaporthe microstroma Ellis & Everh. SPECIES
-=======
+# Diaporthe microstroma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

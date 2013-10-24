@@ -1,5 +1,4 @@
-Chrysothallus Velenovský, 1934 GENUS
-=======
+# Chrysothallus Velenovský, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca aggesta (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca aggesta (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

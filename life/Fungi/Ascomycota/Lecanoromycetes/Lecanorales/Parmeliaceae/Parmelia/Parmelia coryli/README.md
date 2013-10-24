@@ -1,5 +1,4 @@
-Parmelia coryli (Colmeiro) SPECIES
-=======
+# Parmelia coryli (Colmeiro) SPECIES
 
 #### Status
 ACCEPTED

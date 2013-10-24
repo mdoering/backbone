@@ -1,5 +1,4 @@
-Lambertella tengii W.Y. Zhuang SPECIES
-=======
+# Lambertella tengii W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

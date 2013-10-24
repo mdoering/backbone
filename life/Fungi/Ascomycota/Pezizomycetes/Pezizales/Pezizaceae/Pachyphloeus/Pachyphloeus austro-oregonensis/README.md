@@ -1,5 +1,4 @@
-Pachyphloeus austro-oregonensis J.L. Frank & Trappe SPECIES
-=======
+# Pachyphloeus austro-oregonensis J.L. Frank & Trappe SPECIES
 
 #### Status
 ACCEPTED

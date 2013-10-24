@@ -1,5 +1,4 @@
-Gnomoniella alchemillae Naumov SPECIES
-=======
+# Gnomoniella alchemillae Naumov SPECIES
 
 #### Status
 ACCEPTED

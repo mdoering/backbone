@@ -1,8 +1,7 @@
-Collybia spragueii Berk. & M.A. Curtis SPECIES
-=======
+# Collybia spraguei Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collybia spragueii Berk. & M.A. Curtis
+Collybia spraguei Berk. & M.A. Curtis
 
 ### Remarks
 null

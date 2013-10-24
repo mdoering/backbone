@@ -1,5 +1,4 @@
-Lentinus nigroglabrus Lloyd SPECIES
-=======
+# Lentinus nigroglabrus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium exiguum P. Karst., 1890 SPECIES
-=======
+# Leptothyrium exiguum P. Karst., 1890 SPECIES
 
 #### Status
 ACCEPTED

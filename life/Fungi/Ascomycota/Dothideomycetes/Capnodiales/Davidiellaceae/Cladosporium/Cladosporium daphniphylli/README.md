@@ -1,5 +1,4 @@
-Cladosporium daphniphylli Sawada SPECIES
-=======
+# Cladosporium daphniphylli Sawada SPECIES
 
 #### Status
 ACCEPTED

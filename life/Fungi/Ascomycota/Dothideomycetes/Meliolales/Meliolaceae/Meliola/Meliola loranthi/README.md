@@ -1,5 +1,4 @@
-Meliola loranthi Gaillard SPECIES
-=======
+# Meliola loranthi Gaillard SPECIES
 
 #### Status
 ACCEPTED

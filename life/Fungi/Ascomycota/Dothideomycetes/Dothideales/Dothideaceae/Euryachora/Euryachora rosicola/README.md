@@ -1,5 +1,4 @@
-Euryachora rosicola Av.-Saccá SPECIES
-=======
+# Euryachora rosicola Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

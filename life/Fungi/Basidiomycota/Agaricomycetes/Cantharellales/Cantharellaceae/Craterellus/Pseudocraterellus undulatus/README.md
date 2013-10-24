@@ -1,17 +1,16 @@
-Cantharellus sinuosus var. sinuosus VARIETY
-=======
+# Pseudocraterellus undulatus (Pers.) Rauschert, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 319 (1821)
+Feddes Repert. Spec. Nov. Regni Veg. 98(11-12): 661 (1987)
 
 #### Original name
-Cantharellus sinuosus var. sinuosus
+Merulius undulatus Pers., 1801
 
 ### Remarks
 null

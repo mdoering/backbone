@@ -1,5 +1,4 @@
-Agaricus poculum Peck SPECIES
-=======
+# Agaricus poculum Peck SPECIES
 
 #### Status
 ACCEPTED

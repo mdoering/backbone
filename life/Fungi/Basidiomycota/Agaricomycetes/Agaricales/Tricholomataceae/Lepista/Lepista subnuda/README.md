@@ -1,5 +1,4 @@
-Lepista subnuda Hongo SPECIES
-=======
+# Lepista subnuda Hongo SPECIES
 
 #### Status
 ACCEPTED

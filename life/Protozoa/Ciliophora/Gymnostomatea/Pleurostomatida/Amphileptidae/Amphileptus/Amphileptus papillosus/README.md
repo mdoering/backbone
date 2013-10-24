@@ -1,5 +1,4 @@
-Amphileptus papillosus Ehrenberg, 1834 SPECIES
-=======
+# Amphileptus papillosus Ehrenberg, 1834 SPECIES
 
 #### Status
 ACCEPTED

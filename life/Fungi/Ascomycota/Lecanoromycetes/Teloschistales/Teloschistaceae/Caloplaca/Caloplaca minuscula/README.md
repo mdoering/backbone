@@ -1,5 +1,4 @@
-Caloplaca minuscula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca minuscula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

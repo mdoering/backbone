@@ -1,5 +1,4 @@
-Marssonia juglandis SPECIES
-=======
+# Marssonia juglandis SPECIES
 
 #### Status
 ACCEPTED

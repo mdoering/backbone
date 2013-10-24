@@ -1,17 +1,16 @@
-Curreya palmicola Rehm SPECIES
-=======
+# Curreya palmincola Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 5: 530 (1907)
 
 #### Original name
-Curreya palmicola Rehm
+Curreya palmincola Rehm
 
 ### Remarks
 null

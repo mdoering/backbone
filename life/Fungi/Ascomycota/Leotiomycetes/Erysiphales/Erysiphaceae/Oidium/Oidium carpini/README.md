@@ -1,5 +1,4 @@
-Oidium carpini Foitzik, 1995 SPECIES
-=======
+# Oidium carpini Foitzik, 1995 SPECIES
 
 #### Status
 ACCEPTED

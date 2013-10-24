@@ -1,5 +1,4 @@
-Ramularia tirolensis Maire SPECIES
-=======
+# Ramularia tirolensis Maire SPECIES
 
 #### Status
 ACCEPTED

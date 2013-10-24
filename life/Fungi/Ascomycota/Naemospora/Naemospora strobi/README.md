@@ -1,5 +1,4 @@
-Naemospora strobi Allesch., 1895 SPECIES
-=======
+# Naemospora strobi Allesch., 1895 SPECIES
 
 #### Status
 ACCEPTED

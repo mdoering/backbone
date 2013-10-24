@@ -1,5 +1,4 @@
-Zoothamnium candelabrum Wailes, 1932 SPECIES
-=======
+# Zoothamnium candelabrum Wailes, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus tomentosus Smotl. SPECIES
-=======
+# Boletus tomentosus Smotl. SPECIES
 
 #### Status
 ACCEPTED

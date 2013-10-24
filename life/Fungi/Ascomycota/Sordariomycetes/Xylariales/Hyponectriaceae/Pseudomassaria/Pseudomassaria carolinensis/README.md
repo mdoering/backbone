@@ -1,5 +1,4 @@
-Pseudomassaria carolinensis M.E. Barr & Hodges SPECIES
-=======
+# Pseudomassaria carolinensis M.E. Barr & Hodges SPECIES
 
 #### Status
 ACCEPTED

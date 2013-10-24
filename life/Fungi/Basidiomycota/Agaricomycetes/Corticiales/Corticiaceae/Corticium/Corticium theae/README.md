@@ -1,5 +1,4 @@
-Corticium theae (C. Bernard) C. Bernard SPECIES
-=======
+# Corticium theae (C. Bernard) C. Bernard SPECIES
 
 #### Status
 ACCEPTED

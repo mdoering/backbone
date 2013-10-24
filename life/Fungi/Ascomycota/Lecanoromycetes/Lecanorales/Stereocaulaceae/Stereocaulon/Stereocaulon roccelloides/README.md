@@ -1,5 +1,4 @@
-Stereocaulon roccelloides (Th. Fr.) I.M. Lamb SPECIES
-=======
+# Stereocaulon roccelloides (Th. Fr.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

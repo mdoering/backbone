@@ -1,5 +1,4 @@
-Pycnidiochaeta biciliata Sousa da Câmara SPECIES
-=======
+# Pycnidiochaeta biciliata Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

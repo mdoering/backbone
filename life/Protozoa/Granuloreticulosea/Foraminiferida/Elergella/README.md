@@ -1,5 +1,4 @@
-Elergella Conil in Shilo, Bouckaert, Afanasjeva, Bless, Conil, Erlanger, Gagiev, Lazarev, Onoprienko & et al., 1984 GENUS
-=======
+# Elergella Conil in Shilo, Bouckaert, Afanasjeva, Bless, Conil, Erlanger, Gagiev, Lazarev, Onoprienko & et al., 1984 GENUS
 
 #### Status
 ACCEPTED

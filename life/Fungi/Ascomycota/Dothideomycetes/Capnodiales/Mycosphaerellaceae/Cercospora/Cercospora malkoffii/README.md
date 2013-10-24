@@ -1,5 +1,4 @@
-Cercospora malkoffii Bubák SPECIES
-=======
+# Cercospora malkoffii Bubák SPECIES
 
 #### Status
 ACCEPTED

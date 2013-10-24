@@ -1,5 +1,4 @@
-Helotium duriusculum Velen. SPECIES
-=======
+# Helotium duriusculum Velen. SPECIES
 
 #### Status
 ACCEPTED

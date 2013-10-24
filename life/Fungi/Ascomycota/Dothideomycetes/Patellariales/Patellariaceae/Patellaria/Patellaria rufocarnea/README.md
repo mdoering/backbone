@@ -1,5 +1,4 @@
-Patellaria rufocarnea Müll. Arg. SPECIES
-=======
+# Patellaria rufocarnea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

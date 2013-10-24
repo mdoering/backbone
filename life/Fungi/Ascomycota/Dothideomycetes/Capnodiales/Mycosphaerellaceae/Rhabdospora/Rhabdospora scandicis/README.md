@@ -1,5 +1,4 @@
-Rhabdospora scandicis (Roberge ex Desm.) Sacc. SPECIES
-=======
+# Rhabdospora scandicis (Roberge ex Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

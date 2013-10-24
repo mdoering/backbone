@@ -1,5 +1,4 @@
-Lecanicillium attenuatum Zare & W. Gams, 2001 SPECIES
-=======
+# Lecanicillium attenuatum Zare & W. Gams, 2001 SPECIES
 
 #### Status
 ACCEPTED

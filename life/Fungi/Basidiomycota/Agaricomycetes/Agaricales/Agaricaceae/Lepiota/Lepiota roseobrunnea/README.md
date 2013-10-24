@@ -1,5 +1,4 @@
-Lepiota roseobrunnea Pat. SPECIES
-=======
+# Lepiota roseobrunnea Pat. SPECIES
 
 #### Status
 ACCEPTED

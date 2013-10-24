@@ -1,17 +1,16 @@
-Elvela clavus Schaeff. SPECIES
-=======
+# Helvella clavus Schaeff. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fung. Bavar. Palat. 4: tab. 279 (1774)
 
 #### Original name
-Elvela clavus Schaeff.
+Helvella clavus Schaeff.
 
 ### Remarks
 null

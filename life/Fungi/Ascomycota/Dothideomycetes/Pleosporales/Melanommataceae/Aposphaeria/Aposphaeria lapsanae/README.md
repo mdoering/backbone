@@ -1,8 +1,7 @@
-Aposphaeria lampsanae Allesch. SPECIES
-=======
+# Aposphaeria lapsanae Allesch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aposphaeria lampsanae Allesch.
+Aposphaeria lapsanae Allesch.
 
 ### Remarks
 null

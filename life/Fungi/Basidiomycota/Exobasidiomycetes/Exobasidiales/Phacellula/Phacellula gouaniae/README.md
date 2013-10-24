@@ -1,5 +1,4 @@
-Phacellula gouaniae Syd., 1927 SPECIES
-=======
+# Phacellula gouaniae Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

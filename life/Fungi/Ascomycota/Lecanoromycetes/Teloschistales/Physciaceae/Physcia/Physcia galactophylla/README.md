@@ -1,5 +1,4 @@
-Physcia galactophylla (Tuck.) Nyl. SPECIES
-=======
+# Physcia galactophylla (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

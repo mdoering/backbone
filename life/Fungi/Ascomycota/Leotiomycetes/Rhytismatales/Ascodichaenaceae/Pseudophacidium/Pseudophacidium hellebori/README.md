@@ -1,5 +1,4 @@
-Pseudophacidium hellebori Rehm SPECIES
-=======
+# Pseudophacidium hellebori Rehm SPECIES
 
 #### Status
 ACCEPTED

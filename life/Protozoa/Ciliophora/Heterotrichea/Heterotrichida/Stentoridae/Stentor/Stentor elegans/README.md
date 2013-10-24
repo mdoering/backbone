@@ -1,5 +1,4 @@
-Stentor elegans Fromentel, 1876 SPECIES
-=======
+# Stentor elegans Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

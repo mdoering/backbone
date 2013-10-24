@@ -1,5 +1,4 @@
-Lecidea rhodochroa Hue SPECIES
-=======
+# Lecidea rhodochroa Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Benekea Bat. & J.L. Bezerra GENUS
-=======
+# Geastrumia Bat. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publções Inst. Micol. Recife 299: 5 (1960)
+in Batista, Farr, Bezerra, Saccardoa 1: 71 (1960)
 
 #### Original name
-Benekea Bat. & J.L. Bezerra
+Geastrumia Bat.
 
 ### Remarks
 null

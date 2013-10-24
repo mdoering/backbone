@@ -1,5 +1,4 @@
-Lecidea loudiana Zahlbr. SPECIES
-=======
+# Lecidea loudiana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria carpogena Sacc. SPECIES
-=======
+# Leptosphaeria carpogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

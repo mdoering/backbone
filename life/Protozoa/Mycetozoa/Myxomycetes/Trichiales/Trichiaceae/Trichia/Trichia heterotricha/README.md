@@ -1,5 +1,4 @@
-Trichia heterotricha Balf. f. SPECIES
-=======
+# Trichia heterotricha Balf. f. SPECIES
 
 #### Status
 ACCEPTED

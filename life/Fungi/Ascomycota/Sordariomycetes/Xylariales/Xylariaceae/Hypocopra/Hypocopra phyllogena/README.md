@@ -1,5 +1,4 @@
-Hypocopra phyllogena (Sacc.) Sacc. SPECIES
-=======
+# Hypocopra phyllogena (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

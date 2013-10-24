@@ -1,5 +1,4 @@
-Sphaerotheca ulmariae (Desm.) SPECIES
-=======
+# Sphaerotheca ulmariae (Desm.) SPECIES
 
 #### Status
 ACCEPTED

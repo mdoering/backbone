@@ -1,5 +1,4 @@
-Cercospora roxburghii Purkay. & Mallik SPECIES
-=======
+# Cercospora roxburghii Purkay. & Mallik SPECIES
 
 #### Status
 ACCEPTED

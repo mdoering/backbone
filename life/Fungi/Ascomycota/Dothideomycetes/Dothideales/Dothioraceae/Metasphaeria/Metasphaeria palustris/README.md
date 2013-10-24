@@ -1,5 +1,4 @@
-Metasphaeria palustris (Mouton) Sacc. SPECIES
-=======
+# Metasphaeria palustris (Mouton) Sacc. SPECIES
 
 #### Status
 ACCEPTED

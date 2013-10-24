@@ -1,5 +1,4 @@
-Parmelia psoromoides Räsänen SPECIES
-=======
+# Parmelia psoromoides Räsänen SPECIES
 
 #### Status
 ACCEPTED

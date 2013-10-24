@@ -1,5 +1,4 @@
-Cladosporium acaciicola M.B. Ellis, 1976 SPECIES
-=======
+# Cladosporium acaciicola M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

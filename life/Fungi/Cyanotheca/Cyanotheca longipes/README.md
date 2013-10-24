@@ -1,5 +1,4 @@
-Cyanotheca longipes Pascher SPECIES
-=======
+# Cyanotheca longipes Pascher SPECIES
 
 #### Status
 ACCEPTED

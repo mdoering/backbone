@@ -1,5 +1,4 @@
-Russula vinososordida Ruots. & Vauras SPECIES
-=======
+# Russula vinososordida Ruots. & Vauras SPECIES
 
 #### Status
 ACCEPTED

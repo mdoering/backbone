@@ -1,5 +1,4 @@
-Laboulbenia pachylophi Thaxt. SPECIES
-=======
+# Laboulbenia pachylophi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

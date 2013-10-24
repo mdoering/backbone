@@ -1,5 +1,4 @@
-Amicodisca viridicoma (Peck) J.H. Haines SPECIES
-=======
+# Amicodisca viridicoma (Peck) J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

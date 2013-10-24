@@ -1,5 +1,4 @@
-Allantophomoides carotae S.L. Wei & T.Y. Zhang SPECIES
-=======
+# Allantophomoides carotae S.L. Wei & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

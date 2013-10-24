@@ -1,5 +1,4 @@
-Pithyella frullaniae Chalaud ex Döbbeler SPECIES
-=======
+# Pithyella frullaniae Chalaud ex Döbbeler SPECIES
 
 #### Status
 ACCEPTED

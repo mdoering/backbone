@@ -1,5 +1,4 @@
-Psathyrella perscrutata (Britzelm.) Sacc. SPECIES
-=======
+# Psathyrella perscrutata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca bicolor H. Magn. SPECIES
-=======
+# Caloplaca bicolor H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia oreoboli Vánky & McKenzie, 1990 SPECIES
-=======
+# Cintractia oreoboli Vánky & McKenzie, 1990 SPECIES
 
 #### Status
 ACCEPTED

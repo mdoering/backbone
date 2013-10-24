@@ -1,5 +1,4 @@
-Phyllostictella septorioides (Cooke & Massee) Tassi SPECIES
-=======
+# Phyllostictella septorioides (Cooke & Massee) Tassi SPECIES
 
 #### Status
 ACCEPTED

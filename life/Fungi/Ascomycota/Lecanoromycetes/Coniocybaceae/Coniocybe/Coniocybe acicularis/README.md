@@ -1,5 +1,4 @@
-Coniocybe acicularis (Ach.) Lilj. SPECIES
-=======
+# Coniocybe acicularis (Ach.) Lilj. SPECIES
 
 #### Status
 ACCEPTED

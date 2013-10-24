@@ -1,5 +1,4 @@
-Otthia symphoricarpi Ellis & Everh. SPECIES
-=======
+# Otthia symphoricarpi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ramularia villiana (Magnus) Nannf. SPECIES
-=======
+# Tretovularia villiana (Magnus) Deighton, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lundell & Nannfeldt, Fungi Exsiccati Suecici 39-40: 36 (1950)
+Trans. Br. mycol. Soc. 82(4): 743 (1984)
 
 #### Original name
 Ovularia villiana Magnus

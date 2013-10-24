@@ -1,5 +1,4 @@
-Thalassomyces fagei (Boschma {?} ) W.D. Kane SPECIES
-=======
+# Thalassomyces fagei (Boschma {?} ) W.D. Kane SPECIES
 
 #### Status
 ACCEPTED

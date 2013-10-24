@@ -1,5 +1,4 @@
-Cladonia nitida Ahti SPECIES
-=======
+# Cladonia nitida Ahti SPECIES
 
 #### Status
 ACCEPTED

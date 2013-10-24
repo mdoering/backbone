@@ -1,5 +1,4 @@
-Lanatospora macrocyclopis (Voronin) Voronin SPECIES
-=======
+# Lanatospora macrocyclopis (Voronin) Voronin SPECIES
 
 #### Status
 ACCEPTED

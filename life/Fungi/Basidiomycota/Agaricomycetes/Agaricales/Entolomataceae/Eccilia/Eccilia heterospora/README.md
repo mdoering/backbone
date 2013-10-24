@@ -1,5 +1,4 @@
-Eccilia heterospora Murrill SPECIES
-=======
+# Eccilia heterospora Murrill SPECIES
 
 #### Status
 ACCEPTED

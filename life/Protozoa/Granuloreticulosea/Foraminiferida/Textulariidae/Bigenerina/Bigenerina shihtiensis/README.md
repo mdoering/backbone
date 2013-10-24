@@ -1,5 +1,4 @@
-Bigenerina shihtiensis Chang SPECIES
-=======
+# Bigenerina shihtiensis Chang SPECIES
 
 #### Status
 ACCEPTED

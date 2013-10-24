@@ -1,5 +1,4 @@
-Hiatula subcaespitosa Speg. SPECIES
-=======
+# Hiatula subcaespitosa Speg. SPECIES
 
 #### Status
 ACCEPTED

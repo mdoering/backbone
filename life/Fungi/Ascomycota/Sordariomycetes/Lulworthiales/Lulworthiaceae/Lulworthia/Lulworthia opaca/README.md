@@ -1,14 +1,13 @@
-Halophiobolus opacus Linder, 1944 SPECIES
-=======
+# Lulworthia opaca (Linder) Cribb & J.W. Cribb, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 1: 417 (1944)
+Pap. Dept. Bot. (formerly Biol. ) Univ. Qd. 3: 79 (1955)
 
 #### Original name
 Halophiobolus opacus Linder, 1944

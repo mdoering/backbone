@@ -1,17 +1,16 @@
-Rinodina leprosa subsp. leprosa SUBSPECIES
-=======
+# Rinodina leprosa Elix SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Australasian Lichenology 61: 22 (2007)
 
 #### Original name
-Rinodina leprosa subsp. leprosa
+Rinodina leprosa Elix
 
 ### Remarks
 null

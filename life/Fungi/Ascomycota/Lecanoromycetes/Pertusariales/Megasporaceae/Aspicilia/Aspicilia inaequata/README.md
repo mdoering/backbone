@@ -1,5 +1,4 @@
-Aspicilia inaequata Hue SPECIES
-=======
+# Aspicilia inaequata Hue SPECIES
 
 #### Status
 ACCEPTED

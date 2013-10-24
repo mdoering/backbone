@@ -1,5 +1,4 @@
-Favella ehrenbergii (Claparede & Lachmann) JOrgensen SPECIES
-=======
+# Favella ehrenbergii (Claparede & Lachmann) JOrgensen SPECIES
 
 #### Status
 ACCEPTED

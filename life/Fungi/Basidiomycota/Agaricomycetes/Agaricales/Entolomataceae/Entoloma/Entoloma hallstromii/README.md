@@ -1,5 +1,4 @@
-Entoloma hallstromii E. Horak SPECIES
-=======
+# Entoloma hallstromii E. Horak SPECIES
 
 #### Status
 ACCEPTED

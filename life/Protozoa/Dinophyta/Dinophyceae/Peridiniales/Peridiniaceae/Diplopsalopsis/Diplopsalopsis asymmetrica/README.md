@@ -1,5 +1,4 @@
-Diplopsalopsis asymmetrica (Mangin) Abe SPECIES
-=======
+# Diplopsalopsis asymmetrica (Mangin) Abe SPECIES
 
 #### Status
 ACCEPTED

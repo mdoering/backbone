@@ -1,5 +1,4 @@
-Inonotopsis Parmasto GENUS
-=======
+# Inonotopsis Parmasto GENUS
 
 #### Status
 ACCEPTED

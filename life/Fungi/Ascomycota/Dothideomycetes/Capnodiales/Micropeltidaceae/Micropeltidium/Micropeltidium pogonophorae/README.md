@@ -1,5 +1,4 @@
-Micropeltidium pogonophorae (Bat.) Bat. SPECIES
-=======
+# Micropeltidium pogonophorae (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

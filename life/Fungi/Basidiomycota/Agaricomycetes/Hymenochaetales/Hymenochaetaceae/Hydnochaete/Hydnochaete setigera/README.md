@@ -1,5 +1,4 @@
-Hydnochaete setigera Peck SPECIES
-=======
+# Hydnochaete setigera Peck SPECIES
 
 #### Status
 ACCEPTED

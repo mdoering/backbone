@@ -1,5 +1,4 @@
-Leiorreuma GENUS
-=======
+# Leiorreuma GENUS
 
 #### Status
 ACCEPTED

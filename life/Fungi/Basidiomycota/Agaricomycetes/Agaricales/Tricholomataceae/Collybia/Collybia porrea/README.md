@@ -1,5 +1,4 @@
-Collybia porrea (Pers.) Singer SPECIES
-=======
+# Collybia porrea (Pers.) Singer SPECIES
 
 #### Status
 ACCEPTED

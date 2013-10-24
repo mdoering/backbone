@@ -1,5 +1,4 @@
-Patellaria sikkimensis Müll. Arg. SPECIES
-=======
+# Patellaria sikkimensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

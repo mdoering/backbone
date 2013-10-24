@@ -1,5 +1,4 @@
-Tuburcinia agropyri-juncei Vienn.-Bourg. SPECIES
-=======
+# Tuburcinia agropyri-juncei Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

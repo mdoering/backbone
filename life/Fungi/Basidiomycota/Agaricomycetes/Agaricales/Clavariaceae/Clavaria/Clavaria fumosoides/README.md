@@ -1,5 +1,4 @@
-Clavaria fumosoides Kauffman SPECIES
-=======
+# Clavaria fumosoides Kauffman SPECIES
 
 #### Status
 ACCEPTED

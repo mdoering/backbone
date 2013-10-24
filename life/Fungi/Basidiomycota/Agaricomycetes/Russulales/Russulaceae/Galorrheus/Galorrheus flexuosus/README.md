@@ -1,5 +1,4 @@
-Galorrheus flexuosus (Fr.) P. Kumm. SPECIES
-=======
+# Galorrheus flexuosus (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

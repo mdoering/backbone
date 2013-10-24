@@ -1,5 +1,4 @@
-Ecteinomyces thinocharinus Thaxt. SPECIES
-=======
+# Ecteinomyces thinocharinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

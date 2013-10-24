@@ -1,5 +1,4 @@
-Spilodochium acaciae Alcorn SPECIES
-=======
+# Spilodochium acaciae Alcorn SPECIES
 
 #### Status
 ACCEPTED

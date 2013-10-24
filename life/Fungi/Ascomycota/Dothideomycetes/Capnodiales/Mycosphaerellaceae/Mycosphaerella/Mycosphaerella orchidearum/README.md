@@ -1,5 +1,4 @@
-Mycosphaerella orchidearum (P. Karst.) Tomilin SPECIES
-=======
+# Mycosphaerella orchidearum (P. Karst.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

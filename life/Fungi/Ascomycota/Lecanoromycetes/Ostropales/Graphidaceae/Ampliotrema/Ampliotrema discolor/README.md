@@ -1,14 +1,13 @@
-Ascidium cinchonarum subsp. discolor (Ach.) Nyl. SUBSPECIES
-=======
+# Ampliotrema discolor (Ach.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 5 7: 319 (1867)
+Biblthca Lichenol. 88: 303 (2004)
 
 #### Original name
 null

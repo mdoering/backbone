@@ -1,5 +1,4 @@
-Catillaria caesiopallens var. caesiopallens VARIETY
-=======
+# Catillaria caesiopallens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 33 (1926)
 
 #### Original name
 Lecidea caesiopallens Nyl.

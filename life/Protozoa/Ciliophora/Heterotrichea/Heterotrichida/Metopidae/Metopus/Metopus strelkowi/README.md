@@ -1,5 +1,4 @@
-Metopus strelkowi Jankowski, 1964 SPECIES
-=======
+# Metopus strelkowi Jankowski, 1964 SPECIES
 
 #### Status
 ACCEPTED

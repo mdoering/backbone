@@ -1,5 +1,4 @@
-Neodeightonia phoenicum A.J.L. Phillips & Crous, 2008 SPECIES
-=======
+# Neodeightonia phoenicum A.J.L. Phillips & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus cremeus Kwon-Chung & Fennell, 1965 SPECIES
-=======
+# Aspergillus cremeus Kwon-Chung & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

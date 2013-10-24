@@ -1,5 +1,4 @@
-Rhizidium mycophilum A. Braun, 1856 SPECIES
-=======
+# Rhizidium mycophilum A. Braun, 1856 SPECIES
 
 #### Status
 ACCEPTED

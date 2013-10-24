@@ -1,5 +1,4 @@
-Zythia boleticola Ellis & Everh. SPECIES
-=======
+# Zythia boleticola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

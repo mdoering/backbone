@@ -1,5 +1,4 @@
-Uredo similis Ellis SPECIES
-=======
+# Uredo similis Ellis SPECIES
 
 #### Status
 ACCEPTED

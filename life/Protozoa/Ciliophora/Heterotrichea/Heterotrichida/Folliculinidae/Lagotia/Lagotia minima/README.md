@@ -1,5 +1,4 @@
-Lagotia minima Hadzi, 1951 SPECIES
-=======
+# Lagotia minima Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

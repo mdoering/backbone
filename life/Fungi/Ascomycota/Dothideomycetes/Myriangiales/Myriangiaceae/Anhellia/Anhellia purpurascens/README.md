@@ -1,5 +1,4 @@
-Anhellia purpurascens (Rehm) Arx SPECIES
-=======
+# Anhellia purpurascens (Rehm) Arx SPECIES
 
 #### Status
 ACCEPTED

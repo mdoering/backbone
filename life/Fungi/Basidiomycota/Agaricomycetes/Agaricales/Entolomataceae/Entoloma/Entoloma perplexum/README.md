@@ -1,5 +1,4 @@
-Entoloma perplexum E. Horak, 1973 SPECIES
-=======
+# Entoloma perplexum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

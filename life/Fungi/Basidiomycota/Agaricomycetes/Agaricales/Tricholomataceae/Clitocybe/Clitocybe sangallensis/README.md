@@ -1,5 +1,4 @@
-Clitocybe sangallensis Nuesch SPECIES
-=======
+# Clitocybe sangallensis Nuesch SPECIES
 
 #### Status
 ACCEPTED

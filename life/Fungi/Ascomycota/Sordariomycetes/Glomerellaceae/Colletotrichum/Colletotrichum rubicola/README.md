@@ -1,5 +1,4 @@
-Colletotrichum rubicola Ellis & Everh. SPECIES
-=======
+# Colletotrichum rubicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

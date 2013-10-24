@@ -1,5 +1,4 @@
-Glabrotheca Chardón GENUS
-=======
+# Glabrotheca Chardón GENUS
 
 #### Status
 ACCEPTED

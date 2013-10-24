@@ -1,5 +1,4 @@
-Phyllachora fimbristylidicola Speg., 1909 SPECIES
-=======
+# Phyllachora fimbristylidicola Speg., 1909 SPECIES
 
 #### Status
 ACCEPTED

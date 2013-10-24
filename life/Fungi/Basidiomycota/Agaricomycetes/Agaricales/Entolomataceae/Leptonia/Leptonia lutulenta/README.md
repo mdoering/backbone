@@ -1,5 +1,4 @@
-Leptonia lutulenta Largent SPECIES
-=======
+# Leptonia lutulenta Largent SPECIES
 
 #### Status
 ACCEPTED

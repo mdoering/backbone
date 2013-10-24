@@ -1,5 +1,4 @@
-Stereum album Quél. SPECIES
-=======
+# Stereum album Quél. SPECIES
 
 #### Status
 ACCEPTED

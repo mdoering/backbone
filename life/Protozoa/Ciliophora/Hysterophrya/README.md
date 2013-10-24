@@ -1,5 +1,4 @@
-Hysterophrya de Puytorac, Grolière & Grain, 1979 GENUS
-=======
+# Hysterophrya de Puytorac, Grolière & Grain, 1979 GENUS
 
 #### Status
 ACCEPTED

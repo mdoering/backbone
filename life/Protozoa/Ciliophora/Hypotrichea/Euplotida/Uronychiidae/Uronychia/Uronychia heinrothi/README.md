@@ -1,5 +1,4 @@
-Uronychia heinrothi Buddenbrock, 1920 SPECIES
-=======
+# Uronychia heinrothi Buddenbrock, 1920 SPECIES
 
 #### Status
 ACCEPTED

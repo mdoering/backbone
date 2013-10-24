@@ -1,5 +1,4 @@
-Cortinarius grinlingii M.M. Moser SPECIES
-=======
+# Cortinarius grinlingii M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

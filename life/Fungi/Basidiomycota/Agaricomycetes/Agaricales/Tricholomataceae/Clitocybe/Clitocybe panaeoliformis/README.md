@@ -1,5 +1,4 @@
-Clitocybe panaeoliformis (Murrill) H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe panaeoliformis (Murrill) H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

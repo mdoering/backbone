@@ -1,5 +1,4 @@
-Leptonia lepidissima Svrcek SPECIES
-=======
+# Leptonia lepidissima Svrcek SPECIES
 
 #### Status
 ACCEPTED

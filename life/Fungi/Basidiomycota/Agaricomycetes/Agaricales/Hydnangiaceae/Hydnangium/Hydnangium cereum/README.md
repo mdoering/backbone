@@ -1,5 +1,4 @@
-Hydnangium cereum Soehner SPECIES
-=======
+# Hydnangium cereum Soehner SPECIES
 
 #### Status
 ACCEPTED

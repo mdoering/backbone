@@ -1,5 +1,4 @@
-Chaetodiplodia anthurii Montem. {?} SPECIES
-=======
+# Chaetodiplodia anthurii Montem. {?} SPECIES
 
 #### Status
 ACCEPTED

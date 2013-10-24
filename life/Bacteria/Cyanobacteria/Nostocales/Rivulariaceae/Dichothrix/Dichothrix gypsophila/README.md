@@ -1,5 +1,4 @@
-Dichothrix gypsophila (Kützing) Bornet & Flahault SPECIES
-=======
+# Dichothrix gypsophila (Kützing) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

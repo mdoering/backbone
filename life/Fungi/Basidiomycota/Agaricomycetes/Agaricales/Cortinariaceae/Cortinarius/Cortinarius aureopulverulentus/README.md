@@ -1,17 +1,16 @@
-Cortinarius herpeticus var. herpeticus Fr. VARIETY
-=======
+# Cortinarius aureopulverulentus M.M. Moser, 1952 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 268 (1838)
+Sydowia 6(1-4): 152 (1952)
 
 #### Original name
-Cortinarius herpeticus var. herpeticus Fr.
+Cortinarius aureopulverulentus M.M. Moser, 1952
 
 ### Remarks
 null

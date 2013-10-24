@@ -1,5 +1,4 @@
-Clavaria lithocras D.A. Reid SPECIES
-=======
+# Clavaria lithocras D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

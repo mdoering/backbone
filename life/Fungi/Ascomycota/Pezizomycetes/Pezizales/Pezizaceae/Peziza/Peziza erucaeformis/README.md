@@ -1,5 +1,4 @@
-Peziza erucaeformis Batsch SPECIES
-=======
+# Peziza erucaeformis Batsch SPECIES
 
 #### Status
 ACCEPTED

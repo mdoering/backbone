@@ -1,5 +1,4 @@
-Lecidea subbrunnea J. Steiner SPECIES
-=======
+# Lecidea subbrunnea J. Steiner SPECIES
 
 #### Status
 ACCEPTED

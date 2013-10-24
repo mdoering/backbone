@@ -1,5 +1,4 @@
-Fucus virsoides J. Agardh SPECIES
-=======
+# Fucus virsoides J. Agardh SPECIES
 
 #### Status
 ACCEPTED

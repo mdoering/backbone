@@ -1,5 +1,4 @@
-Helicobasidium holospirum Bourdot SPECIES
-=======
+# Helicobasidium holospirum Bourdot SPECIES
 
 #### Status
 ACCEPTED

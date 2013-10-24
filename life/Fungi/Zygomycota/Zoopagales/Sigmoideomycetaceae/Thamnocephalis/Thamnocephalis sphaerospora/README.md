@@ -1,5 +1,4 @@
-Thamnocephalis sphaerospora R.K. Benj. & Benny, 1992 SPECIES
-=======
+# Thamnocephalis sphaerospora R.K. Benj. & Benny, 1992 SPECIES
 
 #### Status
 ACCEPTED

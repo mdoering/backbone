@@ -1,5 +1,4 @@
-Graphis schizogramma Vain. SPECIES
-=======
+# Graphis schizogramma Vain. SPECIES
 
 #### Status
 ACCEPTED

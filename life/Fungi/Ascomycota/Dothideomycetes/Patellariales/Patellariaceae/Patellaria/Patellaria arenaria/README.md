@@ -1,5 +1,4 @@
-Patellaria arenaria (Pers.) Hoffm. SPECIES
-=======
+# Patellaria arenaria (Pers.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

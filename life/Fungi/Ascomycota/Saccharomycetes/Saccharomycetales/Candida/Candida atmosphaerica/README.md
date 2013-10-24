@@ -1,5 +1,4 @@
-Candida atmosphaerica Santa María, 1959 SPECIES
-=======
+# Candida atmosphaerica Santa María, 1959 SPECIES
 
 #### Status
 ACCEPTED

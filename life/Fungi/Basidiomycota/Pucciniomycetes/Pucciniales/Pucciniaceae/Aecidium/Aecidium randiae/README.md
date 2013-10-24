@@ -1,5 +1,4 @@
-Aecidium randiae Henn. SPECIES
-=======
+# Aecidium randiae Henn. SPECIES
 
 #### Status
 ACCEPTED

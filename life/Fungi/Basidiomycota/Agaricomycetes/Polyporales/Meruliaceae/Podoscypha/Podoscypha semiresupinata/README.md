@@ -1,5 +1,4 @@
-Podoscypha semiresupinata A.L. Welden, 1993 SPECIES
-=======
+# Podoscypha semiresupinata A.L. Welden, 1993 SPECIES
 
 #### Status
 ACCEPTED

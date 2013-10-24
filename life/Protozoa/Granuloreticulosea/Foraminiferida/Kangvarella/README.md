@@ -1,5 +1,4 @@
-Kangvarella GENUS
-=======
+# Kangvarella GENUS
 
 #### Status
 ACCEPTED

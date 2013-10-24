@@ -1,5 +1,4 @@
-Conorbella earlandi Collins, 1958 SPECIES
-=======
+# Conorbella earlandi Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

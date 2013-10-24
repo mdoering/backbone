@@ -1,5 +1,4 @@
-Psilonia hyacinthorum Berk. SPECIES
-=======
+# Psilonia hyacinthorum Berk. SPECIES
 
 #### Status
 ACCEPTED

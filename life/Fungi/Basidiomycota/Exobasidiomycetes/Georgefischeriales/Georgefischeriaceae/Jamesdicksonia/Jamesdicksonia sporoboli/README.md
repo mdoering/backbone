@@ -1,14 +1,13 @@
-Tolyposporella sporoboli H.S. Jacks., 1926 SPECIES
-=======
+# Jamesdicksonia sporoboli (H.S. Jacks.) M. Piepenbr., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in WheIzel & Kern, Mycologia 18(3): 122 (1926)
+Fl. Neotrop. , Monogr. 86: 222 (2003)
 
 #### Original name
 Tolyposporella sporoboli H.S. Jacks., 1926

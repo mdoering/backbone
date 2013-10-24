@@ -1,17 +1,16 @@
-Blastocladiella novae-zeylandiae Karling SPECIES
-=======
+# Blastocladiella novae-zelandiae Karling, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Blastocladiella novae-zeylandiae Karling
+Blastocladiella novae-zelandiae Karling, 1968
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gloniopsis subrugosa (Cooke & Ellis) E. Boehm & C.L. Schoch, 2009 SPECIES
-=======
+# Gloniopsis subrugosa (Cooke & Ellis) E. Boehm & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

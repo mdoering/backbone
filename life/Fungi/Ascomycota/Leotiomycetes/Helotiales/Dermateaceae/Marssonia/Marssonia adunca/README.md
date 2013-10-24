@@ -1,5 +1,4 @@
-Marssonia adunca Sacc. SPECIES
-=======
+# Marssonia adunca Sacc. SPECIES
 
 #### Status
 ACCEPTED

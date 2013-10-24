@@ -1,8 +1,7 @@
-Oscillatoria okenii C. Agardh SPECIES
-=======
+# Phormidium okenii (C. Agardh) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

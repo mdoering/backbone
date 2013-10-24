@@ -1,5 +1,4 @@
-Tomasellia euphorbiae Vain. SPECIES
-=======
+# Tomasellia euphorbiae Vain. SPECIES
 
 #### Status
 ACCEPTED

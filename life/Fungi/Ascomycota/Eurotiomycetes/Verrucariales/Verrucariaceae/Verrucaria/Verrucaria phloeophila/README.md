@@ -1,5 +1,4 @@
-Verrucaria phloeophila Breuss SPECIES
-=======
+# Verrucaria phloeophila Breuss SPECIES
 
 #### Status
 ACCEPTED

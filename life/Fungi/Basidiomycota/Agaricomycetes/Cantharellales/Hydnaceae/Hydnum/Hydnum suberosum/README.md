@@ -1,5 +1,4 @@
-Hydnum suberosum Batsch SPECIES
-=======
+# Hydnum suberosum Batsch SPECIES
 
 #### Status
 ACCEPTED

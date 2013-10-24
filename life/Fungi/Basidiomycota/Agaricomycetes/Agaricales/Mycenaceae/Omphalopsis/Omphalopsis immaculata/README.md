@@ -1,5 +1,4 @@
-Omphalopsis immaculata (Peck) Murrill SPECIES
-=======
+# Omphalopsis immaculata (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

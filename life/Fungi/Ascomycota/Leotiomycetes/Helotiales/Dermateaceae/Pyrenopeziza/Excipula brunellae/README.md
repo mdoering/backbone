@@ -1,5 +1,4 @@
-Excipula brunellae (Purton) Lind SPECIES
-=======
+# Excipula brunellae (Purton) Lind SPECIES
 
 #### Status
 ACCEPTED

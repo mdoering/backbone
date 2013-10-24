@@ -1,5 +1,4 @@
-Diplodina rhodotypi Hollós SPECIES
-=======
+# Diplodina rhodotypi Hollós SPECIES
 
 #### Status
 ACCEPTED

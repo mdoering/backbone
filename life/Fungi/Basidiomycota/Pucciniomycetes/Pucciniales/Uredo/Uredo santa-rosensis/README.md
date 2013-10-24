@@ -1,5 +1,4 @@
-Uredo santa-rosensis Berndt SPECIES
-=======
+# Uredo santa-rosensis Berndt SPECIES
 
 #### Status
 ACCEPTED

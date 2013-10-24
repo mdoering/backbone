@@ -1,5 +1,4 @@
-Cortinarius liratus Fr. SPECIES
-=======
+# Cortinarius liratus Fr. SPECIES
 
 #### Status
 ACCEPTED

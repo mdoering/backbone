@@ -1,5 +1,4 @@
-Spathidiopsis buddenbrocki (Sauerbrey, 1928) Corliss, 1979 SPECIES
-=======
+# Spathidiopsis buddenbrocki (Sauerbrey, 1928) Corliss, 1979 SPECIES
 
 #### Status
 ACCEPTED

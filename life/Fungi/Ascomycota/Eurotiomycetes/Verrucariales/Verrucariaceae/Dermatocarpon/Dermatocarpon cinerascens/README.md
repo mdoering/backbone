@@ -1,5 +1,4 @@
-Dermatocarpon cinerascens (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatocarpon cinerascens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

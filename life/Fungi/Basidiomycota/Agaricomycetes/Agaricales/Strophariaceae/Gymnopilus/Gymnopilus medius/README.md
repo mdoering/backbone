@@ -1,5 +1,4 @@
-Gymnopilus medius Guzm.-Dáv. SPECIES
-=======
+# Gymnopilus medius Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

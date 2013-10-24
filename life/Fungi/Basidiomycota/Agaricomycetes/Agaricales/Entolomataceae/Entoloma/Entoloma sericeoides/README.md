@@ -1,14 +1,13 @@
-Leptonia sericeoides (J.E. Lange) P.D. Orton, 1960 SPECIES
-=======
+# Entoloma sericeoides (J.E. Lange) Noordel., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 178 (1960)
+Persoonia 10(4): 483 (1980)
 
 #### Original name
 Rhodophyllus sericeoides J.E. Lange, 1940

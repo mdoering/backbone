@@ -1,5 +1,4 @@
-Pulvinularia suecica Borzi SPECIES
-=======
+# Pulvinularia suecica Borzi SPECIES
 
 #### Status
 ACCEPTED

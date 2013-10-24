@@ -1,5 +1,4 @@
-Mycosphaerella basicola (A.B. Frank) Lindau SPECIES
-=======
+# Mycosphaerella basicola (A.B. Frank) Lindau SPECIES
 
 #### Status
 ACCEPTED

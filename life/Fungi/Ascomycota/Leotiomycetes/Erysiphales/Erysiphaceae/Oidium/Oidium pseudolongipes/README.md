@@ -1,5 +1,4 @@
-Oidium pseudolongipes U. Braun & Gabler SPECIES
-=======
+# Oidium pseudolongipes U. Braun & Gabler SPECIES
 
 #### Status
 ACCEPTED

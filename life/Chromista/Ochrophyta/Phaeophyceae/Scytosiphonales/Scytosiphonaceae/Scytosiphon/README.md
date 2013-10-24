@@ -1,5 +1,4 @@
-Scytosiphon C.A. Agardh, 1820 GENUS
-=======
+# Scytosiphon C.A. Agardh, 1820 GENUS
 
 #### Status
 ACCEPTED

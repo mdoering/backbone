@@ -1,5 +1,4 @@
-Phyllosticta dispergens Tehon SPECIES
-=======
+# Phyllosticta dispergens Tehon SPECIES
 
 #### Status
 ACCEPTED

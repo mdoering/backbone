@@ -1,5 +1,4 @@
-Agaricus varians Kalchbr. & MacOwan SPECIES
-=======
+# Agaricus varians Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

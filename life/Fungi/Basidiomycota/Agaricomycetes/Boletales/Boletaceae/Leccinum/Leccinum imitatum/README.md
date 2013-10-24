@@ -1,5 +1,4 @@
-Leccinum imitatum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum imitatum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

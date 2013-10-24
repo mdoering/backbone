@@ -1,5 +1,4 @@
-Meliola caesalpiniicola Deighton SPECIES
-=======
+# Meliola caesalpiniicola Deighton SPECIES
 
 #### Status
 ACCEPTED

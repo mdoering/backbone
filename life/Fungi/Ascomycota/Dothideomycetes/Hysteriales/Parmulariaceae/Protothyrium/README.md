@@ -1,5 +1,4 @@
-Protothyrium G. Arnaud GENUS
-=======
+# Protothyrium G. Arnaud GENUS
 
 #### Status
 ACCEPTED

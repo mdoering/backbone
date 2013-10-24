@@ -1,14 +1,13 @@
-Cephalosporium crotocinigenum Schol-Schwarz, 1965 SPECIES
-=======
+# Acremonium crotocinigenum (Schol-Schwarz) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 48: 53 (1965)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 112 (1971)
 
 #### Original name
 Cephalosporium crotocinigenum Schol-Schwarz, 1965

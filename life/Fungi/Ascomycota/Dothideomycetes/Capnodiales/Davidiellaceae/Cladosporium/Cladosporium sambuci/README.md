@@ -1,5 +1,4 @@
-Cladosporium sambuci Brunaud SPECIES
-=======
+# Cladosporium sambuci Brunaud SPECIES
 
 #### Status
 ACCEPTED

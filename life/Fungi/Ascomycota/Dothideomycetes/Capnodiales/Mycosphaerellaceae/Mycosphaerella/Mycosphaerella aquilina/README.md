@@ -1,17 +1,16 @@
-Sphaerella aquilina var. aquilina VARIETY
-=======
+# Mycosphaerella aquilina (Fr.) J. Schröt., 1894 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Myc. Europ. Pyren. 20 (1869)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(3): 341 (1894)
 
 #### Original name
-Sphaerella aquilina var. aquilina
+Sphaeria aquilina Fr., 1823
 
 ### Remarks
 null

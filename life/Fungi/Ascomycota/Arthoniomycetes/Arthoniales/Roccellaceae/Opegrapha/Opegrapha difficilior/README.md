@@ -1,5 +1,4 @@
-Opegrapha difficilior Nyl. SPECIES
-=======
+# Opegrapha difficilior Nyl. SPECIES
 
 #### Status
 ACCEPTED

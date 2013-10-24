@@ -1,5 +1,4 @@
-Hesperomyces virescens Thaxt., 1891 SPECIES
-=======
+# Hesperomyces virescens Thaxt., 1891 SPECIES
 
 #### Status
 ACCEPTED

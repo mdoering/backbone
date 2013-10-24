@@ -1,17 +1,16 @@
-Sporidesmium subulatum var. subulatum VARIETY
-=======
+# Repetophragma subulatum (Cooke & Ellis) Subram., 1992 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 36: 31 (1951)
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 185 (1992)
 
 #### Original name
-Sporidesmium subulatum var. subulatum
+Ceratophorum subulatum Cooke & Ellis, 1889
 
 ### Remarks
 null

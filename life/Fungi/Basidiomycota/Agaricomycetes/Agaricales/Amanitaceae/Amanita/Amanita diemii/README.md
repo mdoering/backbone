@@ -1,5 +1,4 @@
-Amanita diemii Singer SPECIES
-=======
+# Amanita diemii Singer SPECIES
 
 #### Status
 ACCEPTED

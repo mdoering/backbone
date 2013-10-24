@@ -1,5 +1,4 @@
-Sphaceloma protearum L. Swart & Crous SPECIES
-=======
+# Sphaceloma protearum L. Swart & Crous SPECIES
 
 #### Status
 ACCEPTED

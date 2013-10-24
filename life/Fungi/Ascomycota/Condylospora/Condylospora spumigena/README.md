@@ -1,5 +1,4 @@
-Condylospora spumigena Nawawi, 1976 SPECIES
-=======
+# Condylospora spumigena Nawawi, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Isaria saussurei Cooke, 1892 SPECIES
-=======
+# Hirsutella saussurei (Cooke) Speare, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 12(2): 69 (1920)
 
 #### Original name
 Isaria saussurei Cooke, 1892

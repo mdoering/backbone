@@ -1,5 +1,4 @@
-Phacus cochleatus Pochmann SPECIES
-=======
+# Phacus cochleatus Pochmann SPECIES
 
 #### Status
 ACCEPTED

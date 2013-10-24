@@ -1,5 +1,4 @@
-Meliola isertiae (F. Stevens) Cif. SPECIES
-=======
+# Meliola isertiae (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

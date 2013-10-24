@@ -1,5 +1,4 @@
-Physalospora quercifolia Ellis & Everh. SPECIES
-=======
+# Physalospora quercifolia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

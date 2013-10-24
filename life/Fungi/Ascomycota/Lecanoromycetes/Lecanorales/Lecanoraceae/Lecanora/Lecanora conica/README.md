@@ -1,5 +1,4 @@
-Lecanora conica Lynge SPECIES
-=======
+# Lecanora conica Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium bonducellae Henn. SPECIES
-=======
+# Helminthosporium bonducellae Henn. SPECIES
 
 #### Status
 ACCEPTED

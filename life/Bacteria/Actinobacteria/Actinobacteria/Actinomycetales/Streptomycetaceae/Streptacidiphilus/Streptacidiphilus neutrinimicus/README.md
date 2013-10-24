@@ -1,5 +1,4 @@
-Streptacidiphilus neutrinimicus Kim et al., 2003 SPECIES
-=======
+# Streptacidiphilus neutrinimicus Kim et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

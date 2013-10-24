@@ -1,5 +1,4 @@
-Tethysocarnia Senowbari-Daryan, Flügel & Preto, 2001 GENUS
-=======
+# Tethysocarnia Senowbari-Daryan, Flügel & Preto, 2001 GENUS
 
 #### Status
 ACCEPTED

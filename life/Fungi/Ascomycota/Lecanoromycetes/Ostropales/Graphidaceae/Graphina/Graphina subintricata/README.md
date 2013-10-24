@@ -1,5 +1,4 @@
-Graphina subintricata (Kremp.) D.D. Awasthi SPECIES
-=======
+# Graphina subintricata (Kremp.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

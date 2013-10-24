@@ -1,5 +1,4 @@
-Parmotrema hicksii Krog & Swinscow SPECIES
-=======
+# Parmotrema hicksii Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

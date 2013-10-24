@@ -1,14 +1,13 @@
-Radulum concentricum Cooke & Ellis, 1885 SPECIES
-=======
+# Pirex concentricus (Cooke & Ellis) Hjortstam & Ryvarden, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 69): 13 (1885)
+in Hallenberg, Hjortstam & Ryvarden, Mycotaxon 24: 289 (1985)
 
 #### Original name
 Radulum concentricum Cooke & Ellis, 1885

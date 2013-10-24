@@ -1,17 +1,16 @@
-Curvularia crassiseptum var. crassiseptum VARIETY
-=======
+# Exserohilum inaequale Sivan., 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 83(2): 325 (1984)
 
 #### Original name
-Curvularia crassiseptum var. crassiseptum
+Exserohilum inaequale Sivan., 1984
 
 ### Remarks
 null

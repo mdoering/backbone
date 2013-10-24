@@ -1,5 +1,4 @@
-Rubritepida Alarico, Rainey, Empadinhas, Schumann, Nobre & Costa, 2002 GENUS
-=======
+# Rubritepida Alarico, Rainey, Empadinhas, Schumann, Nobre & Costa, 2002 GENUS
 
 #### Status
 ACCEPTED

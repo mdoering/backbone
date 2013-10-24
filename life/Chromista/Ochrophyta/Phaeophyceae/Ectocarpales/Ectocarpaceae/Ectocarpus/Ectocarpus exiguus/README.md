@@ -1,5 +1,4 @@
-Ectocarpus exiguus Skottsberg SPECIES
-=======
+# Ectocarpus exiguus Skottsberg SPECIES
 
 #### Status
 ACCEPTED

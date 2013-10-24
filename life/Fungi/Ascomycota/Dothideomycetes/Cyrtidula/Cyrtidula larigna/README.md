@@ -1,5 +1,4 @@
-Cyrtidula larigna (Lambotte & Fautrey) Höhn. SPECIES
-=======
+# Cyrtidula larigna (Lambotte & Fautrey) Höhn. SPECIES
 
 #### Status
 ACCEPTED

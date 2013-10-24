@@ -1,5 +1,4 @@
-Diplodia kansensis Ellis & Everh. SPECIES
-=======
+# Diplodia kansensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

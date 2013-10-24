@@ -1,5 +1,4 @@
-Bovista spumosa Lév. SPECIES
-=======
+# Bovista spumosa Lév. SPECIES
 
 #### Status
 ACCEPTED

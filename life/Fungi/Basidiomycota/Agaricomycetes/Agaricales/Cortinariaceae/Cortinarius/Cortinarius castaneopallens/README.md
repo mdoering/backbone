@@ -1,5 +1,4 @@
-Cortinarius castaneopallens Rob. Henry SPECIES
-=======
+# Cortinarius castaneopallens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium pavoniae Bagyan. & U. Braun SPECIES
-=======
+# Oidium pavoniae Bagyan. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

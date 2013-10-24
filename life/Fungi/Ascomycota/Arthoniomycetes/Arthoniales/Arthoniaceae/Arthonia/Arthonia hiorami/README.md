@@ -1,5 +1,4 @@
-Arthonia hiorami B. de Lesd. SPECIES
-=======
+# Arthonia hiorami B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

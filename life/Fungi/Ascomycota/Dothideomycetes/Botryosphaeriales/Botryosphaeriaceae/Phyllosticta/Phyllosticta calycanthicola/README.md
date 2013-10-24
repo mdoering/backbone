@@ -1,5 +1,4 @@
-Phyllosticta calycanthicola Hollós SPECIES
-=======
+# Phyllosticta calycanthicola Hollós SPECIES
 
 #### Status
 ACCEPTED

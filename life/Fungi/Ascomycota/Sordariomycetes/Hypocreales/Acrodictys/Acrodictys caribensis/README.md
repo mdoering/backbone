@@ -1,5 +1,4 @@
-Acrodictys caribensis (Mercado) Mercado SPECIES
-=======
+# Acrodictys caribensis (Mercado) Mercado SPECIES
 
 #### Status
 ACCEPTED

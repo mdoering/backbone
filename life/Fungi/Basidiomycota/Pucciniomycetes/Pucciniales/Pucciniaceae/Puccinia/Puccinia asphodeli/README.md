@@ -1,17 +1,16 @@
-Puccinia asphodeli var. asphodeli Moug. VARIETY
-=======
+# Puccinia asphodeli Moug., 1830 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Duby Bot. Gall. 2: 891 (1830)
 
 #### Original name
-Puccinia asphodeli var. asphodeli Moug.
+Puccinia asphodeli Moug., 1830
 
 ### Remarks
 null

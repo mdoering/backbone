@@ -1,5 +1,4 @@
-Phoma medicaginicola Karimov SPECIES
-=======
+# Phoma medicaginicola Karimov SPECIES
 
 #### Status
 ACCEPTED

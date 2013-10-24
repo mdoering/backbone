@@ -1,5 +1,4 @@
-Eutypa gigaspora Massee SPECIES
-=======
+# Eutypa gigaspora Massee SPECIES
 
 #### Status
 ACCEPTED

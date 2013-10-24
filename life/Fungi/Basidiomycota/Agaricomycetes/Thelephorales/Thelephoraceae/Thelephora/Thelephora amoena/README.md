@@ -1,5 +1,4 @@
-Thelephora amoena Lév. SPECIES
-=======
+# Thelephora amoena Lév. SPECIES
 
 #### Status
 ACCEPTED

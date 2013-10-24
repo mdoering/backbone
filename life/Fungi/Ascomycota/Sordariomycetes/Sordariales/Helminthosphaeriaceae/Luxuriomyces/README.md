@@ -1,5 +1,4 @@
-Luxuriomyces GENUS
-=======
+# Luxuriomyces GENUS
 
 #### Status
 ACCEPTED

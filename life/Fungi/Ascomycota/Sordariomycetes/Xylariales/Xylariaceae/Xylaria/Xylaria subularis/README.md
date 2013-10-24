@@ -1,5 +1,4 @@
-Xylaria subularis Fr. SPECIES
-=======
+# Xylaria subularis Fr. SPECIES
 
 #### Status
 ACCEPTED

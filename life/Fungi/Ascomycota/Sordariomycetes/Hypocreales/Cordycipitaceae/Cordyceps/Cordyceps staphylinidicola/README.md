@@ -1,17 +1,16 @@
-Cordyceps staphylinidaecola Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps staphylinidicola Kobayasi & Shimizu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. natn. Sci. Mus. , Tokyo, B 8(3): 88 (1982)
 
 #### Original name
-Cordyceps staphylinidaecola Kobayasi & Shimizu
+Cordyceps staphylinidicola Kobayasi & Shimizu
 
 ### Remarks
 null

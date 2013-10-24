@@ -1,5 +1,4 @@
-Xylaria willsii Berk. SPECIES
-=======
+# Xylaria willsii Berk. SPECIES
 
 #### Status
 ACCEPTED

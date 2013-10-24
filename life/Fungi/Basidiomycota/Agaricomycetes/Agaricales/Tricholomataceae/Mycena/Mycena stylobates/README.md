@@ -1,11 +1,10 @@
-Mycena dilatata (Fr.) Gillet, 1876 SPECIES
-=======
+# Mycena stylobates (Pers. Fr.) P. Kumm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

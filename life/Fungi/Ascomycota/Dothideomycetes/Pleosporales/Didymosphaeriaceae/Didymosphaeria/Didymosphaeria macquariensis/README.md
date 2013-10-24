@@ -1,5 +1,4 @@
-Didymosphaeria macquariensis C.W. Dodge SPECIES
-=======
+# Didymosphaeria macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

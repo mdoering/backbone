@@ -1,14 +1,13 @@
-Thelotrema anomorphum Nyl. SPECIES
-=======
+# Stegobolus anamorphus (Nyl.) Frisch & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Sci. fenn. 7: 463 (1863)
+Biblthca Lichenol. 92: 431 (2006)
 
 #### Original name
 Thelotrema anomorphum Nyl.

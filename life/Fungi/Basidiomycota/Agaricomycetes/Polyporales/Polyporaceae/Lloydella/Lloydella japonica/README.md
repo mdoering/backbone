@@ -1,5 +1,4 @@
-Lloydella japonica (Yasuda) S. Ito & S. Imai SPECIES
-=======
+# Lloydella japonica (Yasuda) S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

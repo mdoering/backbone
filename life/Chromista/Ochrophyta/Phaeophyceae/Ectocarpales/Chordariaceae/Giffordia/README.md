@@ -1,5 +1,4 @@
-Giffordia E.A. Batters, 1893 GENUS
-=======
+# Giffordia E.A. Batters, 1893 GENUS
 
 #### Status
 ACCEPTED

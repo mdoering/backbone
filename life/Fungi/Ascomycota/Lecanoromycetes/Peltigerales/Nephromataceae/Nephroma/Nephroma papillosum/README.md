@@ -1,5 +1,4 @@
-Nephroma papillosum F.J. White & P. James SPECIES
-=======
+# Nephroma papillosum F.J. White & P. James SPECIES
 
 #### Status
 ACCEPTED

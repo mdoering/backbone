@@ -1,5 +1,4 @@
-Lepiota jacquieri Fillion SPECIES
-=======
+# Lepiota jacquieri Fillion SPECIES
 
 #### Status
 ACCEPTED

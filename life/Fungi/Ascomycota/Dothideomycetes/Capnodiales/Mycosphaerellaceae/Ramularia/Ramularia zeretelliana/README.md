@@ -1,5 +1,4 @@
-Ramularia zeretelliana U. Braun SPECIES
-=======
+# Ramularia zeretelliana U. Braun SPECIES
 
 #### Status
 ACCEPTED

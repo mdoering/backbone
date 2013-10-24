@@ -1,5 +1,4 @@
-Trichopeltum carissae (Doidge) Marasas SPECIES
-=======
+# Trichopeltum carissae (Doidge) Marasas SPECIES
 
 #### Status
 ACCEPTED

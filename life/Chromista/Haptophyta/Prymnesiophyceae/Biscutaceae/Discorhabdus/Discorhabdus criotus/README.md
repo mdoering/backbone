@@ -1,5 +1,4 @@
-Discorhabdus criotus SPECIES
-=======
+# Discorhabdus criotus SPECIES
 
 #### Status
 ACCEPTED

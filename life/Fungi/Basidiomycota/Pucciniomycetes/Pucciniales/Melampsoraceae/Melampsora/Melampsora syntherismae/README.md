@@ -1,5 +1,4 @@
-Melampsora syntherismae Sawada SPECIES
-=======
+# Melampsora syntherismae Sawada SPECIES
 
 #### Status
 ACCEPTED

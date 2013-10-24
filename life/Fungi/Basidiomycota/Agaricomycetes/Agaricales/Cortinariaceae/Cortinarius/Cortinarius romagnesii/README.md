@@ -1,5 +1,4 @@
-Cortinarius romagnesii Rob. Henry SPECIES
-=======
+# Cortinarius romagnesii Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ryparobius niveus (Fuckel) Sacc., 1889 SPECIES
-=======
+# Coprotus niveus (Fuckel) Kimbr., Luck-Allen & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 544 (1889)
+Can. J. Bot. 50(5): 967 (1972)
 
 #### Original name
 Ascobolus niveus Quél., 1881

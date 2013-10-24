@@ -1,5 +1,4 @@
-Usnea transitoria Motyka SPECIES
-=======
+# Usnea transitoria Motyka SPECIES
 
 #### Status
 ACCEPTED

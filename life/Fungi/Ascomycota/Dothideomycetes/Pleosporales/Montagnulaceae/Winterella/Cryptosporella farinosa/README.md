@@ -1,5 +1,4 @@
-Cryptosporella farinosa (Ellis) Sacc. SPECIES
-=======
+# Cryptosporella farinosa (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

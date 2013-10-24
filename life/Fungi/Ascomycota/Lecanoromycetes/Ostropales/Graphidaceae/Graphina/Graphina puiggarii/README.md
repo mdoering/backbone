@@ -1,5 +1,4 @@
-Graphina puiggarii Müll. Arg. SPECIES
-=======
+# Graphina puiggarii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

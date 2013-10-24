@@ -1,5 +1,4 @@
-Tubercularia rosella Speg. SPECIES
-=======
+# Tubercularia rosella Speg. SPECIES
 
 #### Status
 ACCEPTED

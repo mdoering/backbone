@@ -1,5 +1,4 @@
-Fusisporium aurantiacum Link, 1809 SPECIES
-=======
+# Fusisporium aurantiacum Link, 1809 SPECIES
 
 #### Status
 ACCEPTED

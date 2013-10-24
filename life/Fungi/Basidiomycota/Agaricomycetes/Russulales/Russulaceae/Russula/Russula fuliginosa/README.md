@@ -1,5 +1,4 @@
-Russula fuliginosa Sarnari SPECIES
-=======
+# Russula fuliginosa Sarnari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comasphaeridium cometes (Valensi, 1949) Staplin, Jansonius & Pocock, 1965 SPECIES
-=======
+# Comasphaeridium cometes (Valensi, 1949) Staplin, Jansonius & Pocock, 1965 SPECIES
 
 #### Status
 ACCEPTED

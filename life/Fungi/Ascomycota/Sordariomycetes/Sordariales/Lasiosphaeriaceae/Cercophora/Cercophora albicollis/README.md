@@ -1,5 +1,4 @@
-Cercophora albicollis N. Lundq., 1972 SPECIES
-=======
+# Cercophora albicollis N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

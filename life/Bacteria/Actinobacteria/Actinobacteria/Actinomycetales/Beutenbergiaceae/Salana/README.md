@@ -1,5 +1,4 @@
-Salana Von Wintzingerode et al., 2001 GENUS
-=======
+# Salana Von Wintzingerode et al., 2001 GENUS
 
 #### Status
 ACCEPTED

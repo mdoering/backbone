@@ -1,5 +1,4 @@
-Arcyria exigua Yu Li, Shuang L. Chen & H.Z. Li, 1993 SPECIES
-=======
+# Arcyria exigua Yu Li, Shuang L. Chen & H.Z. Li, 1993 SPECIES
 
 #### Status
 ACCEPTED

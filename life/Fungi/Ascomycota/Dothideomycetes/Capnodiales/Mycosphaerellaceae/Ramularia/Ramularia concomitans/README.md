@@ -1,5 +1,4 @@
-Ramularia concomitans Ellis & Holw. SPECIES
-=======
+# Ramularia concomitans Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

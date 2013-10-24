@@ -1,5 +1,4 @@
-Cryptosphaeria schulzeri Sacc. SPECIES
-=======
+# Cryptosphaeria schulzeri Sacc. SPECIES
 
 #### Status
 ACCEPTED

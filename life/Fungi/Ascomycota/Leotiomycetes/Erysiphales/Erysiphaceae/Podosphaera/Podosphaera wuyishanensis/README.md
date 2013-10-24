@@ -1,5 +1,4 @@
-Podosphaera wuyishanensis Zhi X. Chen & Y.J. Yao SPECIES
-=======
+# Podosphaera wuyishanensis Zhi X. Chen & Y.J. Yao SPECIES
 
 #### Status
 ACCEPTED

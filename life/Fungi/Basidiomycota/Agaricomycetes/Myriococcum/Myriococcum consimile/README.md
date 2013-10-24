@@ -1,5 +1,4 @@
-Myriococcum consimile Ellis & Everh. SPECIES
-=======
+# Myriococcum consimile Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

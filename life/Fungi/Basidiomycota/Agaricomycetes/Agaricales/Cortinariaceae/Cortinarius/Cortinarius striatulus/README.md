@@ -1,5 +1,4 @@
-Cortinarius striatulus Cleland SPECIES
-=======
+# Cortinarius striatulus Cleland SPECIES
 
 #### Status
 ACCEPTED

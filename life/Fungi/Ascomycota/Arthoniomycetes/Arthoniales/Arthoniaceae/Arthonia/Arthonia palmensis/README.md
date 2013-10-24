@@ -1,5 +1,4 @@
-Arthonia palmensis (Vain.) Zahlbr. SPECIES
-=======
+# Arthonia palmensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

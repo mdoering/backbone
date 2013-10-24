@@ -1,5 +1,4 @@
-Neopiptostoma spilotum (Berk. & Broome) Kuntze SPECIES
-=======
+# Neopiptostoma spilotum (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

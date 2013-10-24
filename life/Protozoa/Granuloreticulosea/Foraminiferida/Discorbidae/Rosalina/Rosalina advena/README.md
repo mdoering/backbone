@@ -1,5 +1,4 @@
-Rosalina advena SPECIES
-=======
+# Rosalina advena SPECIES
 
 #### Status
 ACCEPTED

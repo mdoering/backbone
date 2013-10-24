@@ -1,5 +1,4 @@
-Streptomyces thermolineatus Goodfellow et al., 1988 SPECIES
-=======
+# Streptomyces thermolineatus Goodfellow et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

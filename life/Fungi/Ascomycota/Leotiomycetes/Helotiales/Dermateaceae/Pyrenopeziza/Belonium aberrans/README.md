@@ -1,5 +1,4 @@
-Belonium aberrans (Peck) Sacc. SPECIES
-=======
+# Belonium aberrans (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

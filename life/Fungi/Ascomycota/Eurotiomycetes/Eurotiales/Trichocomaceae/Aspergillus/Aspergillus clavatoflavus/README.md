@@ -1,17 +1,16 @@
-Aspergillus clavato-flavus Raper & Fennell SPECIES
-=======
+# Aspergillus clavatoflavus Raper & Fennell, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Genus Aspergillus 378 (1965)
 
 #### Original name
-Aspergillus clavato-flavus Raper & Fennell
+Aspergillus clavatoflavus Raper & Fennell, 1965
 
 ### Remarks
 null

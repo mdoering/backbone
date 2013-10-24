@@ -1,5 +1,4 @@
-Tritonites spinosus (Cookson, 1965) Marshall & Partridge, 1988 SPECIES
-=======
+# Tritonites spinosus (Cookson, 1965) Marshall & Partridge, 1988 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Hygrophorus minutulus J.E. Lange ex S. Lundell SPECIES
-=======
+# Hygrophorus minutulus J.E. Lange ex S. Lundell SPECIES
 
 #### Status
 ACCEPTED

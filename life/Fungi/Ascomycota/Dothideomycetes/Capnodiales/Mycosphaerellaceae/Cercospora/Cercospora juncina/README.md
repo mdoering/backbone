@@ -1,5 +1,4 @@
-Cercospora juncina Sacc. SPECIES
-=======
+# Cercospora juncina Sacc. SPECIES
 
 #### Status
 ACCEPTED

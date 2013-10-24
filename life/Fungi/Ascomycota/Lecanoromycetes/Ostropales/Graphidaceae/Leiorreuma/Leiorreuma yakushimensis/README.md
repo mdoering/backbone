@@ -1,14 +1,13 @@
-Leiorreuma yakishimensis (M. Nakan.) M. Nakan. & Kashiw. SPECIES
-=======
+# Leiorreuma yakushimensis (M. Nakan.) M. Nakan. & Kashiw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Nakanishi, Kashiwadani & Moon, Bull. natn. Sci. Mus. , Tokyo, B 29(2): 88 (2003)
 
 #### Original name
 Phaeographis yakushimensis M. Nakan.

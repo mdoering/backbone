@@ -1,5 +1,4 @@
-Lacrymaria pupula O.F. Müller, 1786 SPECIES
-=======
+# Lacrymaria pupula O.F. Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

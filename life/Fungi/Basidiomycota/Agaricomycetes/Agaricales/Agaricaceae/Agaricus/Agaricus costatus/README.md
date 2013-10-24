@@ -1,5 +1,4 @@
-Agaricus costatus (Fr.) Secr. SPECIES
-=======
+# Agaricus costatus (Fr.) Secr. SPECIES
 
 #### Status
 ACCEPTED

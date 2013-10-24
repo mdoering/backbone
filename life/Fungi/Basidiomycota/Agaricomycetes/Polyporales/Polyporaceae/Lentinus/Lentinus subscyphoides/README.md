@@ -1,5 +1,4 @@
-Lentinus subscyphoides Murrill SPECIES
-=======
+# Lentinus subscyphoides Murrill SPECIES
 
 #### Status
 ACCEPTED

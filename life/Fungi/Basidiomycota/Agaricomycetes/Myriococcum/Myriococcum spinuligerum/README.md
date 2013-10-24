@@ -1,5 +1,4 @@
-Myriococcum spinuligerum Penz. & Sacc. SPECIES
-=======
+# Myriococcum spinuligerum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

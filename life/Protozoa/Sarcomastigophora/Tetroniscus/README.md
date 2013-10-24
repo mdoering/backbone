@@ -1,5 +1,4 @@
-Tetroniscus Haeckel, 1887 GENUS
-=======
+# Tetroniscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria transversa Velen. SPECIES
-=======
+# Naucoria transversa Velen. SPECIES
 
 #### Status
 ACCEPTED

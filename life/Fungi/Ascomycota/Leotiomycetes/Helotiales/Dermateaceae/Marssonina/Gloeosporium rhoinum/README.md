@@ -1,5 +1,4 @@
-Gloeosporium rhoinum Sacc. SPECIES
-=======
+# Gloeosporium rhoinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria delitescens Servít SPECIES
-=======
+# Verrucaria delitescens Servít SPECIES
 
 #### Status
 ACCEPTED

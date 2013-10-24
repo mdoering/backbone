@@ -1,5 +1,4 @@
-Meliola wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Meliola wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

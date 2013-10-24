@@ -1,5 +1,4 @@
-Lobaria schaereri (Mont. & Bosch) Hue SPECIES
-=======
+# Lobaria schaereri (Mont. & Bosch) Hue SPECIES
 
 #### Status
 ACCEPTED

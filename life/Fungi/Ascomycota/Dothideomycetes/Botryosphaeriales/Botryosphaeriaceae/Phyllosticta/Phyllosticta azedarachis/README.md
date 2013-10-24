@@ -1,5 +1,4 @@
-Phyllosticta azedarachis Thüm. SPECIES
-=======
+# Phyllosticta azedarachis Thüm. SPECIES
 
 #### Status
 ACCEPTED

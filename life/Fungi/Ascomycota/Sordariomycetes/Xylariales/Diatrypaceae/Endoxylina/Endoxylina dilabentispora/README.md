@@ -1,5 +1,4 @@
-Endoxylina dilabentispora Frolov SPECIES
-=======
+# Endoxylina dilabentispora Frolov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista ochracea Wettst. SPECIES
-=======
+# Bovista ochracea Wettst. SPECIES
 
 #### Status
 ACCEPTED

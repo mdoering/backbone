@@ -1,5 +1,4 @@
-Dematium fuscobadium Link SPECIES
-=======
+# Dematium fuscobadium Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula coerulescens Müll. Arg. SPECIES
-=======
+# Pyrenula coerulescens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

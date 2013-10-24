@@ -1,5 +1,4 @@
-Ramularia cardamines Syd. & P. Syd., 1903 SPECIES
-=======
+# Ramularia cardamines Syd. & P. Syd., 1903 SPECIES
 
 #### Status
 ACCEPTED

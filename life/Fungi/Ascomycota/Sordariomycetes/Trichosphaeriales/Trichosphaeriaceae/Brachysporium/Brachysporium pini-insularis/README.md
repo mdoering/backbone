@@ -1,5 +1,4 @@
-Brachysporium pini-insularis Henn. SPECIES
-=======
+# Brachysporium pini-insularis Henn. SPECIES
 
 #### Status
 ACCEPTED

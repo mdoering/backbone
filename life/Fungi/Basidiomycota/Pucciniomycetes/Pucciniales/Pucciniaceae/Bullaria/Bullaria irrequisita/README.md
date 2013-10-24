@@ -1,5 +1,4 @@
-Bullaria irrequisita (H.S. Jacks.) Arthur & Mains SPECIES
-=======
+# Bullaria irrequisita (H.S. Jacks.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

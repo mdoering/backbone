@@ -1,5 +1,4 @@
-Physcia fraxinea (L.) Michx. SPECIES
-=======
+# Physcia fraxinea (L.) Michx. SPECIES
 
 #### Status
 ACCEPTED

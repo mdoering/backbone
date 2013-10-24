@@ -1,5 +1,4 @@
-Buellia zonulata Malme SPECIES
-=======
+# Buellia zonulata Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeolum amazonicum Cooke & Massee SPECIES
-=======
+# Clypeolum amazonicum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

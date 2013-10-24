@@ -1,5 +1,4 @@
-Fungus bertolonii (Inzenga) Kuntze SPECIES
-=======
+# Fungus bertolonii (Inzenga) Kuntze SPECIES
 
 #### Status
 ACCEPTED

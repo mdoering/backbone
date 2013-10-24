@@ -1,5 +1,4 @@
-Scytonema splendens F.E. Fritsch SPECIES
-=======
+# Scytonema splendens F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

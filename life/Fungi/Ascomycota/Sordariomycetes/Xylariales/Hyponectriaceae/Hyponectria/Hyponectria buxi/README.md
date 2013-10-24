@@ -1,17 +1,16 @@
-Laestadia buxi (Fuckel) Sacc., 1883 SPECIES
-=======
+# Hyponectria buxi (DC.) Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: XXXI (1883)
+Michelia 1(no. 2): 250 (1878)
 
 #### Original name
-null
+Sphaeria buxi DC., 1815
 
 ### Remarks
 null

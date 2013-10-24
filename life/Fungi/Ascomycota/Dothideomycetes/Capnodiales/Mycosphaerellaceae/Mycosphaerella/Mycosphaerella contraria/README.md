@@ -1,5 +1,4 @@
-Mycosphaerella contraria Hansf., 1941 SPECIES
-=======
+# Mycosphaerella contraria Hansf., 1941 SPECIES
 
 #### Status
 ACCEPTED

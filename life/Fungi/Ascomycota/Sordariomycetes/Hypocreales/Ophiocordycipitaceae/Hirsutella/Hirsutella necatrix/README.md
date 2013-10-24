@@ -1,5 +1,4 @@
-Hirsutella necatrix Minter, B.L. Brady & R.A. Hall, 1983 SPECIES
-=======
+# Hirsutella necatrix Minter, B.L. Brady & R.A. Hall, 1983 SPECIES
 
 #### Status
 ACCEPTED

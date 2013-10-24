@@ -1,5 +1,4 @@
-Lactarius subvernalis var. subvernalis VARIETY
-=======
+# Lactarius subvernalis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brittonia 12: 340 (1960)
 
 #### Original name
-Lactarius subvernalis var. subvernalis
+Lactarius subvernalis Hesler & A.H. Sm.
 
 ### Remarks
 null

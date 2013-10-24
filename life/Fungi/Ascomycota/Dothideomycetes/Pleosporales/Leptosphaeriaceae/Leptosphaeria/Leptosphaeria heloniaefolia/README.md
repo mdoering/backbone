@@ -1,5 +1,4 @@
-Leptosphaeria heloniaefolia (Cooke & Ellis) Sacc. SPECIES
-=======
+# Leptosphaeria heloniaefolia (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

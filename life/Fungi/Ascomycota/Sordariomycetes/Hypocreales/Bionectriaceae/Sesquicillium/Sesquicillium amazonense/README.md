@@ -1,5 +1,4 @@
-Sesquicillium amazonense Matsush. SPECIES
-=======
+# Sesquicillium amazonense Matsush. SPECIES
 
 #### Status
 ACCEPTED

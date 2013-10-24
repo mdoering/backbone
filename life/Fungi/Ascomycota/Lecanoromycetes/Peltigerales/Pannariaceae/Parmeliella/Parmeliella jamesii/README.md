@@ -1,5 +1,4 @@
-Parmeliella jamesii Ahlner & P. M. Jørg. SPECIES
-=======
+# Parmeliella jamesii Ahlner & P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta sanguisorbae Khokhr. SPECIES
-=======
+# Phyllosticta sanguisorbae Khokhr. SPECIES
 
 #### Status
 ACCEPTED

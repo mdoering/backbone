@@ -1,8 +1,7 @@
-Cyclogramma sorex Penard, 1922 SPECIES
-=======
+# Parafurgasonia sorex (Penard, 1922) Foissner & Adam, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

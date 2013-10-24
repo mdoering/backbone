@@ -1,5 +1,4 @@
-Arthonia extenuescens Nyl. SPECIES
-=======
+# Arthonia extenuescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

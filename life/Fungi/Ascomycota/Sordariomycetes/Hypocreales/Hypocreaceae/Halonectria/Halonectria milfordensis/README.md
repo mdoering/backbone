@@ -1,5 +1,4 @@
-Halonectria milfordensis E.B.G. Jones, 1965 SPECIES
-=======
+# Halonectria milfordensis E.B.G. Jones, 1965 SPECIES
 
 #### Status
 ACCEPTED

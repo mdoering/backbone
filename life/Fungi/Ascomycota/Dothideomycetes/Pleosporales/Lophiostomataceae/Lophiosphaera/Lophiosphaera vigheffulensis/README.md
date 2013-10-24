@@ -1,5 +1,4 @@
-Lophiosphaera vigheffulensis Pass. SPECIES
-=======
+# Lophiosphaera vigheffulensis Pass. SPECIES
 
 #### Status
 ACCEPTED

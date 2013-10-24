@@ -1,5 +1,4 @@
-Inocybe quietiodor Bon SPECIES
-=======
+# Inocybe quietiodor Bon SPECIES
 
 #### Status
 ACCEPTED

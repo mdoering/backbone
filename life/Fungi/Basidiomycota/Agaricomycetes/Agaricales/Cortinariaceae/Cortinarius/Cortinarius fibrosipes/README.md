@@ -1,5 +1,4 @@
-Cortinarius fibrosipes Britzelm. SPECIES
-=======
+# Cortinarius fibrosipes Britzelm. SPECIES
 
 #### Status
 ACCEPTED

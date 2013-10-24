@@ -1,14 +1,13 @@
-Boletus sphaerosporus Peck, 1885 SPECIES
-=======
+# Paragyrodon sphaerosporus (Peck) Singer, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 12: 33 (1885)
+Annls mycol. 40: 25 (1942)
 
 #### Original name
 Boletus sphaerosporus Peck, 1885

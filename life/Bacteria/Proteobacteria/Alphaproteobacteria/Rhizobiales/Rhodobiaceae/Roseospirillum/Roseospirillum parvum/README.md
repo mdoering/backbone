@@ -1,5 +1,4 @@
-Roseospirillum parvum Glaeser & Overmann, 2001 SPECIES
-=======
+# Roseospirillum parvum Glaeser & Overmann, 2001 SPECIES
 
 #### Status
 ACCEPTED

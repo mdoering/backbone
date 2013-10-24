@@ -1,5 +1,4 @@
-Stigmatomyces crassicollis Thaxt., 1917 SPECIES
-=======
+# Stigmatomyces crassicollis Thaxt., 1917 SPECIES
 
 #### Status
 ACCEPTED

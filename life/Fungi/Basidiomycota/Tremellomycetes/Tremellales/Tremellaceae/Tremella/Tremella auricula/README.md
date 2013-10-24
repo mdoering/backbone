@@ -1,5 +1,4 @@
-Tremella auricula SPECIES
-=======
+# Tremella auricula SPECIES
 
 #### Status
 ACCEPTED

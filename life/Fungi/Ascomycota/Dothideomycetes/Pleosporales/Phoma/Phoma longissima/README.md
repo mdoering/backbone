@@ -1,5 +1,4 @@
-Phoma longissima (Pers.) Westend., 1854 SPECIES
-=======
+# Phoma longissima (Pers.) Westend., 1854 SPECIES
 
 #### Status
 ACCEPTED

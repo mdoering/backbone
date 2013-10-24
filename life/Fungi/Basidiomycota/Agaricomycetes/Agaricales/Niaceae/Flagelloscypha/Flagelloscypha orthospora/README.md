@@ -1,17 +1,16 @@
-Cyphella orthospora (Bourdot & Galzin) Bourdot & Galzin, 1928 SPECIES
-=======
+# Flagelloscypha orthospora (Bourdot & Galzin) Berthier & Malençon, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France 160 (1928)
+Bull. Soc. Hist. nat. Afr. N. 19: 30 (1977)
 
 #### Original name
-Cyphella villosa var. orthospora Bourdot & Galzin, 1910
+Cyphella orthospora (Bourdot & Galzin) Bourdot & Galzin, 1928
 
 ### Remarks
 null

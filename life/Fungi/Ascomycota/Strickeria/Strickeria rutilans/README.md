@@ -1,5 +1,4 @@
-Strickeria rutilans Kirschst. SPECIES
-=======
+# Strickeria rutilans Kirschst. SPECIES
 
 #### Status
 ACCEPTED

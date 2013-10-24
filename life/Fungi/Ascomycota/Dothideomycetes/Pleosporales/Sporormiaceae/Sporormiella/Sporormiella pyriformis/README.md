@@ -1,5 +1,4 @@
-Sporormiella pyriformis (Speg.) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella pyriformis (Speg.) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

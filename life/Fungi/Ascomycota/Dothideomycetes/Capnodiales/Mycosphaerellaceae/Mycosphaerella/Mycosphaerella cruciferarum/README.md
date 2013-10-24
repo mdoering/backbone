@@ -1,17 +1,16 @@
-Sphaerella cruciferarum f. cruciferarum FORM
-=======
+# Mycosphaerella cruciferarum (Fr.) Lindau, 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 424 (1897)
 
 #### Original name
-null
+Sphaeria cruciferarum Fr., 1823
 
 ### Remarks
 null

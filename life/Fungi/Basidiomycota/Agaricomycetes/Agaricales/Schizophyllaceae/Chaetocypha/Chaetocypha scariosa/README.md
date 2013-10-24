@@ -1,5 +1,4 @@
-Chaetocypha scariosa (Ces.) Kuntze SPECIES
-=======
+# Chaetocypha scariosa (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

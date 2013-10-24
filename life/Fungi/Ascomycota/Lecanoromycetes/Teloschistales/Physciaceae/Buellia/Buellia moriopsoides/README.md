@@ -1,5 +1,4 @@
-Buellia moriopsoides (Vain.) Zahlbr. SPECIES
-=======
+# Buellia moriopsoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

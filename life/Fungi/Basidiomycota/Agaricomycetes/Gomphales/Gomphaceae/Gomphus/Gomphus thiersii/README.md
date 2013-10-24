@@ -1,5 +1,4 @@
-Gomphus thiersii R.H. Petersen SPECIES
-=======
+# Gomphus thiersii R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

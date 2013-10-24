@@ -1,5 +1,4 @@
-Leotiaceae Corda FAMILY
-=======
+# Leotiaceae Corda FAMILY
 
 #### Status
 ACCEPTED

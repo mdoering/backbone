@@ -1,5 +1,4 @@
-Amycolatopsis tolypomycina Wink et al., 2003 SPECIES
-=======
+# Amycolatopsis tolypomycina Wink et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

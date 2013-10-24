@@ -1,5 +1,4 @@
-Hechtina GENUS
-=======
+# Hechtina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnopsis Entz, 1884 GENUS
-=======
+# Cothurnopsis Entz, 1884 GENUS
 
 #### Status
 ACCEPTED

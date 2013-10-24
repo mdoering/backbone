@@ -1,14 +1,13 @@
-Podocrea poronioidea (Möller) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Hypocrea poronioidea Möller, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 799 (1905)
+Bot. Mitt. Trop. 9: 295 (1901)
 
 #### Original name
 Hypocrea poronioidea Möller, 1901

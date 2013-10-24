@@ -1,5 +1,4 @@
-Thalassiosira margaritae (Frenguelli & Orlando) Kozlova, 1962 SPECIES
-=======
+# Thalassiosira margaritae (Frenguelli & Orlando) Kozlova, 1962 SPECIES
 
 #### Status
 ACCEPTED

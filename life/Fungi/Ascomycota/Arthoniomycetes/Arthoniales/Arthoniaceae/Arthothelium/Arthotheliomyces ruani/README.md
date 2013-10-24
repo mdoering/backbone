@@ -1,5 +1,4 @@
-Arthotheliomyces ruani Cif. & Tomas. SPECIES
-=======
+# Arthotheliomyces ruani Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

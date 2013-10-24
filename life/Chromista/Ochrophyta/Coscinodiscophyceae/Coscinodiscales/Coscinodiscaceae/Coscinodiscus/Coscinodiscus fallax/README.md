@@ -1,5 +1,4 @@
-Coscinodiscus fallax (Meunier) A. Cleve-Euler SPECIES
-=======
+# Coscinodiscus fallax (Meunier) A. Cleve-Euler SPECIES
 
 #### Status
 ACCEPTED

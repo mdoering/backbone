@@ -1,5 +1,4 @@
-Marasmius ascophorus (Peck) Cooke SPECIES
-=======
+# Marasmius ascophorus (Peck) Cooke SPECIES
 
 #### Status
 ACCEPTED

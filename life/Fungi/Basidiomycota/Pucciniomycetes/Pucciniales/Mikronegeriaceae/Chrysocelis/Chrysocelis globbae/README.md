@@ -1,5 +1,4 @@
-Chrysocelis globbae Syd., 1931 SPECIES
-=======
+# Chrysocelis globbae Syd., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe septembris (Singer) Singer SPECIES
-=======
+# Psilocybe septembris (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

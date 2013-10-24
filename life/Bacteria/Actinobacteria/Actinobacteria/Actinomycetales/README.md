@@ -1,5 +1,4 @@
-Actinomycetales ORDER
-=======
+# Actinomycetales ORDER
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Acolium Trevisan, 1862 GENUS
-=======
+# Cyphelium Acharius, 1815 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 482 (1821)
+K. svenska Vetensk-Akad. Handl. 261 (1815)
 
 #### Original name
-null
+Cyphelium Acharius, 1815
 
 ### Remarks
 null

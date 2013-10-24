@@ -1,5 +1,4 @@
-Hypoxylon tuberiforme Wallr. ex Mont. SPECIES
-=======
+# Hypoxylon tuberiforme Wallr. ex Mont. SPECIES
 
 #### Status
 ACCEPTED

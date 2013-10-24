@@ -1,5 +1,4 @@
-Licea succulenticola Mosquera, Lado, Estrada & Beltrán-Tej., 2003 SPECIES
-=======
+# Licea succulenticola Mosquera, Lado, Estrada & Beltrán-Tej., 2003 SPECIES
 
 #### Status
 ACCEPTED

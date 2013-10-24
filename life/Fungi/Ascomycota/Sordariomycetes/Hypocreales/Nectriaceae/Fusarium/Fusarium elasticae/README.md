@@ -1,5 +1,4 @@
-Fusarium elasticae (Thüm.) Sacc. SPECIES
-=======
+# Fusarium elasticae (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

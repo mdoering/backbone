@@ -1,17 +1,16 @@
-Brettanomyces italicus var. italicus Verona & Florenz., 1947 VARIETY
-=======
+# Candida stellata (Kroemer & Krumbholz) S.A. Mey. & Yarrow, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Yarrow & Meyer, Int. J. Syst. Bacteriol. 28(4): 614 (1978)
 
 #### Original name
-null
+Saccharomyces stellatus Kroemer & Krumbholz, 1931
 
 ### Remarks
 null

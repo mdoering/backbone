@@ -1,5 +1,4 @@
-Tuburcinia avenastri Massenot SPECIES
-=======
+# Tuburcinia avenastri Massenot SPECIES
 
 #### Status
 ACCEPTED

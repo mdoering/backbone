@@ -1,17 +1,16 @@
-Coniothyrium xanthoroeae Henn. SPECIES
-=======
+# Coniothyrium xanthorroeae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 42: 86 (1903)
 
 #### Original name
-Coniothyrium xanthoroeae Henn.
+Coniothyrium xanthorroeae Henn.
 
 ### Remarks
 null

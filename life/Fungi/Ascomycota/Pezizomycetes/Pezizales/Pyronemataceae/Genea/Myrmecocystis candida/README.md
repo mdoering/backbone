@@ -1,5 +1,4 @@
-Myrmecocystis candida Harkn. SPECIES
-=======
+# Myrmecocystis candida Harkn. SPECIES
 
 #### Status
 ACCEPTED

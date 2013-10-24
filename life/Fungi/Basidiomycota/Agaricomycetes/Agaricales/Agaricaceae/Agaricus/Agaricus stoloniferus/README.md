@@ -1,5 +1,4 @@
-Agaricus stoloniferus Jungh. SPECIES
-=======
+# Agaricus stoloniferus Jungh. SPECIES
 
 #### Status
 ACCEPTED

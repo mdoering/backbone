@@ -1,5 +1,4 @@
-Endomyces mali var. mali VARIETY
-=======
+# Endomyces mali C.E. Lewis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Endomyces mali var. mali
+Endomyces mali C.E. Lewis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trematosphaerites Grüss, 1924 GENUS
-=======
+# Trematosphaerites Grüss, 1924 GENUS
 
 #### Status
 ACCEPTED

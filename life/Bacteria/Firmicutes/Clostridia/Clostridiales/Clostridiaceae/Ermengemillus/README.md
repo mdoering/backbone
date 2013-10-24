@@ -1,5 +1,4 @@
-Ermengemillus GENUS
-=======
+# Ermengemillus GENUS
 
 #### Status
 ACCEPTED

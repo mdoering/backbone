@@ -1,5 +1,4 @@
-Isaria acicularis Pat. SPECIES
-=======
+# Isaria acicularis Pat. SPECIES
 
 #### Status
 ACCEPTED

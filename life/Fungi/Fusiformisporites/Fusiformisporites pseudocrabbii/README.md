@@ -1,5 +1,4 @@
-Fusiformisporites pseudocrabbii Elsik SPECIES
-=======
+# Fusiformisporites pseudocrabbii Elsik SPECIES
 
 #### Status
 ACCEPTED

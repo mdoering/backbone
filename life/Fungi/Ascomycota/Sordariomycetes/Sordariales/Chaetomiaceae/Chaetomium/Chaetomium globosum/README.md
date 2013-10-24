@@ -1,17 +1,16 @@
-Chaetomium kunzeanum var. chlorina Sacc. VARIETY
-=======
+# Chaetomium globosum Kunze, 1817 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mykologische Hefte (Leipzig) 1: 16 (1817)
 
 #### Original name
-null
+Chaetomium globosum Kunze, 1817
 
 ### Remarks
 null

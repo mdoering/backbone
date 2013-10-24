@@ -1,5 +1,4 @@
-Arnaudiella pontica (Bubák) Petr. SPECIES
-=======
+# Arnaudiella pontica (Bubák) Petr. SPECIES
 
 #### Status
 ACCEPTED

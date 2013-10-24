@@ -1,5 +1,4 @@
-Spongoliva Haeckel, 1887 GENUS
-=======
+# Spongoliva Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

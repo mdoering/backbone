@@ -1,5 +1,4 @@
-Austrosmittium kiwiorum M.C. Williams & Lichtw., 1990 SPECIES
-=======
+# Austrosmittium kiwiorum M.C. Williams & Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

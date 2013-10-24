@@ -1,5 +1,4 @@
-Asteromella hydrastidis (Bond.-Mont.) Vanev & Aa SPECIES
-=======
+# Asteromella hydrastidis (Bond.-Mont.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

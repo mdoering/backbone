@@ -1,5 +1,4 @@
-Urceolaria cyclopus Bory SPECIES
-=======
+# Urceolaria cyclopus Bory SPECIES
 
 #### Status
 ACCEPTED

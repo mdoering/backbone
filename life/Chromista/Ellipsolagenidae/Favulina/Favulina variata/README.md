@@ -1,5 +1,4 @@
-Favulina variata (Brady, 1884) SPECIES
-=======
+# Favulina variata (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

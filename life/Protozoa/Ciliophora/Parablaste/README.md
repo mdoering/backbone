@@ -1,5 +1,4 @@
-Parablaste GENUS
-=======
+# Parablaste GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chordaria C.A. Agardh, 1817 GENUS
-=======
+# Chordaria C.A. Agardh, 1817 GENUS
 
 #### Status
 ACCEPTED

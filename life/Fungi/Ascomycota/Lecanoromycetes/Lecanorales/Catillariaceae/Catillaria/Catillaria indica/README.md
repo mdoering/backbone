@@ -1,5 +1,4 @@
-Catillaria indica B. de Lesd. SPECIES
-=======
+# Catillaria indica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

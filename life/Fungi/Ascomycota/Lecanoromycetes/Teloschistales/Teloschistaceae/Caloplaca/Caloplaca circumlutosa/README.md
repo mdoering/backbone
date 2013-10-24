@@ -1,5 +1,4 @@
-Caloplaca circumlutosa Zahlbr. SPECIES
-=======
+# Caloplaca circumlutosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

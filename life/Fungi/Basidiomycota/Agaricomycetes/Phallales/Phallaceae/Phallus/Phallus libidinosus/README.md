@@ -1,5 +1,4 @@
-Phallus libidinosus Caley {?} ex Corda SPECIES
-=======
+# Phallus libidinosus Caley {?} ex Corda SPECIES
 
 #### Status
 ACCEPTED

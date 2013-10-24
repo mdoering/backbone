@@ -1,5 +1,4 @@
-Aspicilia annulata (Lynge) J.W. Thomson SPECIES
-=======
+# Aspicilia annulata (Lynge) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

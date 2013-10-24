@@ -1,5 +1,4 @@
-Tilletia guyotiana Har. SPECIES
-=======
+# Tilletia guyotiana Har. SPECIES
 
 #### Status
 ACCEPTED

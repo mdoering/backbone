@@ -1,5 +1,4 @@
-Pyrenula samarana SPECIES
-=======
+# Pyrenula samarana SPECIES
 
 #### Status
 ACCEPTED

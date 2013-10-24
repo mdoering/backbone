@@ -1,5 +1,4 @@
-Scindalma crassum (Fr.) Kuntze SPECIES
-=======
+# Scindalma crassum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

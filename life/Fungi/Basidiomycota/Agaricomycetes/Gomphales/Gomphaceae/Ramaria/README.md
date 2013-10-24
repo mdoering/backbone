@@ -1,17 +1,16 @@
-Coralloidea Roussel GENUS
-=======
+# Ramaria E.M. Fries ex Bonorden, 1851 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Handb. Allgem. mykol. (Stuttgart) 166 (1851)
 
 #### Original name
-Coralloidea Roussel
+Ramaria E.M. Fries ex Bonorden, 1851
 
 ### Remarks
 null

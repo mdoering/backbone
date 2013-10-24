@@ -1,17 +1,16 @@
-Penicillium sartorii Thom SPECIES
-=======
+# Penicillium citrinum Thom, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the U. S. Department of Agriculture, Bureau Animal Industry 118: 61 (1910)
 
 #### Original name
-Penicillium sartorii Thom
+Penicillium citrinum Thom, 1910
 
 ### Remarks
 null

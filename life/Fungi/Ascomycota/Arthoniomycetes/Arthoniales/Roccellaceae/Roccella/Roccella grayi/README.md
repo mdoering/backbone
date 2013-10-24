@@ -1,5 +1,4 @@
-Roccella grayi Stirt. SPECIES
-=======
+# Roccella grayi Stirt. SPECIES
 
 #### Status
 ACCEPTED

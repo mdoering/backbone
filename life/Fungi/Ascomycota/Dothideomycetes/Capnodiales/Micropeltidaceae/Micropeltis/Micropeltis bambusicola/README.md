@@ -1,5 +1,4 @@
-Micropeltis bambusicola Henn. & Shirai SPECIES
-=======
+# Micropeltis bambusicola Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta orbicularis Ellis & Everh. SPECIES
-=======
+# Phyllosticta orbicularis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizostoma incongruum Rehm SPECIES
-=======
+# Schizostoma incongruum Rehm SPECIES
 
 #### Status
 ACCEPTED

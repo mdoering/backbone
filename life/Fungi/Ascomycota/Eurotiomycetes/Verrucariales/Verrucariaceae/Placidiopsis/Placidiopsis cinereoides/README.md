@@ -1,5 +1,4 @@
-Placidiopsis cinereoides Breuss SPECIES
-=======
+# Placidiopsis cinereoides Breuss SPECIES
 
 #### Status
 ACCEPTED

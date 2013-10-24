@@ -1,5 +1,4 @@
-Sargassum stolonifolium S.-M. Phang & T. Yoshida SPECIES
-=======
+# Sargassum stolonifolium S.-M. Phang & T. Yoshida SPECIES
 
 #### Status
 ACCEPTED

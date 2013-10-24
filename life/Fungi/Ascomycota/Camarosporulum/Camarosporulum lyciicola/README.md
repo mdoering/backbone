@@ -1,5 +1,4 @@
-Camarosporulum lyciicola Speg. SPECIES
-=======
+# Camarosporulum lyciicola Speg. SPECIES
 
 #### Status
 ACCEPTED

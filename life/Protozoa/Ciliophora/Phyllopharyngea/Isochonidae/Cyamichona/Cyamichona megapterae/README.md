@@ -1,5 +1,4 @@
-Cyamichona megapterae Jankowski, 1971 SPECIES
-=======
+# Cyamichona megapterae Jankowski, 1971 SPECIES
 
 #### Status
 ACCEPTED

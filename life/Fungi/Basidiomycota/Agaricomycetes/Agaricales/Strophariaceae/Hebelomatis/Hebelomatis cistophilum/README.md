@@ -1,5 +1,4 @@
-Hebelomatis cistophilum (Maire) Locq. SPECIES
-=======
+# Hebelomatis cistophilum (Maire) Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria hakonensis Kobayasi SPECIES
-=======
+# Nectria hakonensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

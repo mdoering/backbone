@@ -1,5 +1,4 @@
-Vorticella valga Müller, 1786 SPECIES
-=======
+# Vorticella valga Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

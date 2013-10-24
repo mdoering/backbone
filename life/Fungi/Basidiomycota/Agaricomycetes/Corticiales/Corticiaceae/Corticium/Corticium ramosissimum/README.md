@@ -1,5 +1,4 @@
-Corticium ramosissimum Pass. SPECIES
-=======
+# Corticium ramosissimum Pass. SPECIES
 
 #### Status
 ACCEPTED

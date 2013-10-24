@@ -1,5 +1,4 @@
-Meliola pothodis (Hansf. & Thirum.) Cif. SPECIES
-=======
+# Meliola pothodis (Hansf. & Thirum.) Cif. SPECIES
 
 #### Status
 ACCEPTED

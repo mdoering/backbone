@@ -1,5 +1,4 @@
-Lecidea selenospora var. selenospora VARIETY
-=======
+# Lecidea selenospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Herb. Boissier 3: 640 (1895)
 
 #### Original name
-Lecidea selenospora var. selenospora
+Lecidea selenospora Müll. Arg.
 
 ### Remarks
 null

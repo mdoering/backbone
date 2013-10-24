@@ -1,5 +1,4 @@
-Cardiobacterium Slotnick & Dougherty, 1964 GENUS
-=======
+# Cardiobacterium Slotnick & Dougherty, 1964 GENUS
 
 #### Status
 ACCEPTED

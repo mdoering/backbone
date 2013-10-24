@@ -1,5 +1,4 @@
-Leptosphaeria camilla Sacc. SPECIES
-=======
+# Leptosphaeria camilla Sacc. SPECIES
 
 #### Status
 ACCEPTED

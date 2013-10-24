@@ -1,5 +1,4 @@
-Sphaeria tenella Schwein. SPECIES
-=======
+# Sphaeria tenella Schwein. SPECIES
 
 #### Status
 ACCEPTED

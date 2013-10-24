@@ -1,5 +1,4 @@
-Rhizopogon occidentalis Zeller & C.W. Dodge, 1918 SPECIES
-=======
+# Rhizopogon occidentalis Zeller & C.W. Dodge, 1918 SPECIES
 
 #### Status
 ACCEPTED

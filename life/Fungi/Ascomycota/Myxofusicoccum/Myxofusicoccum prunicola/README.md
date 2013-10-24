@@ -1,14 +1,13 @@
-Myxofusicoccum prunicolum (Sacc. & Roum.) Died. SPECIES
-=======
+# Myxofusicoccum prunicola (Sacc. & Roum.) Died. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 10(1): 71 (1912)
 
 #### Original name
 Myxosporium prunicola Sacc. & Roum.

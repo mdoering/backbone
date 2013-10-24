@@ -1,5 +1,4 @@
-Omphalia delicia Berk. & Broome SPECIES
-=======
+# Omphalia delicia Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

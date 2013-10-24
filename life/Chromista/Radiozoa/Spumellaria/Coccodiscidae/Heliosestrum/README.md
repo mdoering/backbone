@@ -1,5 +1,4 @@
-Heliosestrum Haeckel, 1881 GENUS
-=======
+# Heliosestrum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

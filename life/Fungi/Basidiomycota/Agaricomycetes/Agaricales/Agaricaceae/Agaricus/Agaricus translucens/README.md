@@ -1,5 +1,4 @@
-Agaricus translucens DC. SPECIES
-=======
+# Agaricus translucens DC. SPECIES
 
 #### Status
 ACCEPTED

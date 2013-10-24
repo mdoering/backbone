@@ -1,5 +1,4 @@
-Hysterium lineariforme Sacc. SPECIES
-=======
+# Hysterium lineariforme Sacc. SPECIES
 
 #### Status
 ACCEPTED

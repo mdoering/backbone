@@ -1,5 +1,4 @@
-Agaricus pycnoticus Klotzsch SPECIES
-=======
+# Agaricus pycnoticus Klotzsch SPECIES
 
 #### Status
 ACCEPTED

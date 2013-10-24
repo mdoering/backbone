@@ -1,5 +1,4 @@
-Herpomyces ectobiae Thaxt. SPECIES
-=======
+# Herpomyces ectobiae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

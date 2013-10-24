@@ -1,5 +1,4 @@
-Rhizosiphon akinetum Canter, 1954 SPECIES
-=======
+# Rhizosiphon akinetum Canter, 1954 SPECIES
 
 #### Status
 ACCEPTED

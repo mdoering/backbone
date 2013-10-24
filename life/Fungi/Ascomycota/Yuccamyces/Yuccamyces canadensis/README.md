@@ -1,5 +1,4 @@
-Yuccamyces canadensis R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Yuccamyces canadensis R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclagelosphaera wiedmannii SPECIES
-=======
+# Cyclagelosphaera wiedmannii SPECIES
 
 #### Status
 ACCEPTED

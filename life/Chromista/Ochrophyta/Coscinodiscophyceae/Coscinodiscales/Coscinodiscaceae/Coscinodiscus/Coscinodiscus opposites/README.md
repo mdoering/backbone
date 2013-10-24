@@ -1,5 +1,4 @@
-Coscinodiscus opposites SPECIES
-=======
+# Coscinodiscus opposites SPECIES
 
 #### Status
 ACCEPTED

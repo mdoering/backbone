@@ -1,5 +1,4 @@
-Melampsoridium alni-firmae Hirats. f. SPECIES
-=======
+# Melampsoridium alni-firmae Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

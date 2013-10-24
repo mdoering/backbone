@@ -1,5 +1,4 @@
-Partitiofilum Schopf & Blacic GENUS
-=======
+# Partitiofilum Schopf & Blacic GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta photiniae Thüm. SPECIES
-=======
+# Phyllosticta photiniae Thüm. SPECIES
 
 #### Status
 ACCEPTED

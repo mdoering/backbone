@@ -1,5 +1,4 @@
-Coniothyrium zigophylli Syd. SPECIES
-=======
+# Coniothyrium zigophylli Syd. SPECIES
 
 #### Status
 ACCEPTED

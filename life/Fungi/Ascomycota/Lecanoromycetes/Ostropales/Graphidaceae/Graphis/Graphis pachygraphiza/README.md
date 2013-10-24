@@ -1,5 +1,4 @@
-Graphis pachygraphiza Vain. SPECIES
-=======
+# Graphis pachygraphiza Vain. SPECIES
 
 #### Status
 ACCEPTED

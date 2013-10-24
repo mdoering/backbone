@@ -1,5 +1,4 @@
-Candida lyxosophila Van der Walt, N.P. Ferreira & Steyn, 1987 SPECIES
-=======
+# Candida lyxosophila Van der Walt, N.P. Ferreira & Steyn, 1987 SPECIES
 
 #### Status
 ACCEPTED

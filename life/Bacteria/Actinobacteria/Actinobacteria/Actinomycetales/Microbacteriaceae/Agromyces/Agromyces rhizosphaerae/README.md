@@ -1,5 +1,4 @@
-Agromyces rhizosphaerae SPECIES
-=======
+# Agromyces rhizosphaerae SPECIES
 
 #### Status
 ACCEPTED

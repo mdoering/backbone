@@ -1,5 +1,4 @@
-Epiclintes pluvialis Smith, 1899 SPECIES
-=======
+# Epiclintes pluvialis Smith, 1899 SPECIES
 
 #### Status
 ACCEPTED

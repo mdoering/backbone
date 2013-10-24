@@ -1,5 +1,4 @@
-Cystophora botryocystis Sonder SPECIES
-=======
+# Cystophora botryocystis Sonder SPECIES
 
 #### Status
 ACCEPTED

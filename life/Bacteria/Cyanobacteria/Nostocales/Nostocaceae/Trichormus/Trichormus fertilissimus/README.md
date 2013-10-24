@@ -1,5 +1,4 @@
-Trichormus fertilissimus (C. B. Rao) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus fertilissimus (C. B. Rao) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

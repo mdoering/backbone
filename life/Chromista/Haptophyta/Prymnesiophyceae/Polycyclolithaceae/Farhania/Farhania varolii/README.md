@@ -1,5 +1,4 @@
-Farhania varolii SPECIES
-=======
+# Farhania varolii SPECIES
 
 #### Status
 ACCEPTED

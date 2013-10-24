@@ -1,5 +1,4 @@
-Angulogerina subangularis Parr SPECIES
-=======
+# Angulogerina subangularis Parr SPECIES
 
 #### Status
 ACCEPTED

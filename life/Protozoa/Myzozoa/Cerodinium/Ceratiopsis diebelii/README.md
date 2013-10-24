@@ -1,5 +1,4 @@
-Ceratiopsis diebelii (Alberti, 1959) Vozzhennikova SPECIES
-=======
+# Ceratiopsis diebelii (Alberti, 1959) Vozzhennikova SPECIES
 
 #### Status
 DOUBTFUL

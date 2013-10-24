@@ -1,5 +1,4 @@
-Rinodina juniperina Sheard SPECIES
-=======
+# Rinodina juniperina Sheard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthochrous krawtzewii Pilát SPECIES
-=======
+# Xanthochrous krawtzewii Pilát SPECIES
 
 #### Status
 ACCEPTED

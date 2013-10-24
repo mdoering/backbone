@@ -1,5 +1,4 @@
-Laurera meristosporoides P.M. McCarthy & Vongshew. SPECIES
-=======
+# Laurera meristosporoides P.M. McCarthy & Vongshew. SPECIES
 
 #### Status
 ACCEPTED

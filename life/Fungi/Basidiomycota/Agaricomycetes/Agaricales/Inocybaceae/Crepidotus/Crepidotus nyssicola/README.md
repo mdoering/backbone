@@ -1,5 +1,4 @@
-Crepidotus nyssicola (Murrill) Singer SPECIES
-=======
+# Crepidotus nyssicola (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

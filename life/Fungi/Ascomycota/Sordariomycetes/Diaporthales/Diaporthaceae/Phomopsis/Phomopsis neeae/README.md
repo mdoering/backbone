@@ -1,5 +1,4 @@
-Phomopsis neeae (Bat. & Peres) Vanev & Aa SPECIES
-=======
+# Phomopsis neeae (Bat. & Peres) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

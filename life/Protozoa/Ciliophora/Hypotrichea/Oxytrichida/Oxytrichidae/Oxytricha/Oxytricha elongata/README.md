@@ -1,5 +1,4 @@
-Oxytricha elongata Smith, 1897 SPECIES
-=======
+# Oxytricha elongata Smith, 1897 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus variegatus (Velen.) Romagn. SPECIES
-=======
+# Rhodophyllus variegatus (Velen.) Romagn. SPECIES
 
 #### Status
 ACCEPTED

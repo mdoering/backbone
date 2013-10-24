@@ -1,5 +1,4 @@
-Trematosphaeria canariensis Urries SPECIES
-=======
+# Trematosphaeria canariensis Urries SPECIES
 
 #### Status
 ACCEPTED

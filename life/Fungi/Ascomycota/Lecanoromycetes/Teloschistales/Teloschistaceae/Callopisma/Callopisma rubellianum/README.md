@@ -1,5 +1,4 @@
-Callopisma rubellianum (Ach.) A. Massal. SPECIES
-=======
+# Callopisma rubellianum (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

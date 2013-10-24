@@ -1,8 +1,7 @@
-Pezolepis buchenavicola Bat. & A.F. Vital SPECIES
-=======
+# Pezolepis buchenaviicola Bat. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pezolepis buchenavicola Bat. & A.F. Vital
+Pezolepis buchenaviicola Bat. & A.F. Vital
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Niptera raineri (De Not.) De Not. SPECIES
-=======
+# Niptera raineri (De Not.) De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus igneus Rumph. SPECIES
-=======
+# Fungus igneus Rumph. SPECIES
 
 #### Status
 ACCEPTED

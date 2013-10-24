@@ -1,5 +1,4 @@
-Orbilia bomiensis B. Liu, Xing Z. Liu & W.Y. Zhuang SPECIES
-=======
+# Orbilia bomiensis B. Liu, Xing Z. Liu & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gliodendron balnicolum Salonen & Ruokola SPECIES
-=======
+# Gliodendron balnicola Salonen & Ruokola SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 38: 332 (1969)
 
 #### Original name
-Gliodendron balnicolum Salonen & Ruokola
+Gliodendron balnicola Salonen & Ruokola
 
 ### Remarks
 null

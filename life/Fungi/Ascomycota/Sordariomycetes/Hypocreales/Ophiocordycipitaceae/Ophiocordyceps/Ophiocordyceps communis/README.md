@@ -1,5 +1,4 @@
-Ophiocordyceps communis Hywel-Jones & Samson SPECIES
-=======
+# Ophiocordyceps communis Hywel-Jones & Samson SPECIES
 
 #### Status
 ACCEPTED

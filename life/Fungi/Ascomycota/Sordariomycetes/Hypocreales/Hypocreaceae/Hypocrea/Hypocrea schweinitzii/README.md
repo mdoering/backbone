@@ -1,17 +1,16 @@
-Sphaeria rigens Fr., 1828 SPECIES
-=======
+# Hypocrea schweinitzii (Fr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 2: 61 (1828)
+Syll. fung. (Abellini) 2: 522 (1883)
 
 #### Original name
-Sphaeria rigens Fr., 1828
+Sphaeria schweinitzii Fr., 1828
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Inocybe perpusilla Velen. SPECIES
-=======
+# Inocybe perpusilla Velen. SPECIES
 
 #### Status
 ACCEPTED

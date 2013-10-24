@@ -1,5 +1,4 @@
-Barnaviridae FAMILY
-=======
+# Barnaviridae FAMILY
 
 #### Status
 ACCEPTED

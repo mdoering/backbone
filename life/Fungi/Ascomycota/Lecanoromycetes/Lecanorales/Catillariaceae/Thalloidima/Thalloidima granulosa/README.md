@@ -1,5 +1,4 @@
-Thalloidima granulosa Szatala SPECIES
-=======
+# Thalloidima granulosa Szatala SPECIES
 
 #### Status
 ACCEPTED

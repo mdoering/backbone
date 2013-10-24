@@ -1,5 +1,4 @@
-Punctularia strigoso-zonata (Schwein.) W.B. Cooke SPECIES
-=======
+# Punctularia strigoso-zonata (Schwein.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

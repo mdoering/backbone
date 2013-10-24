@@ -1,5 +1,4 @@
-Coccopleum palliolatum Ehrenb. SPECIES
-=======
+# Coccopleum palliolatum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

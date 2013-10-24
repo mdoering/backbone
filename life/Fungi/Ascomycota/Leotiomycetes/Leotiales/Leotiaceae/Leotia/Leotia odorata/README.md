@@ -1,5 +1,4 @@
-Leotia odorata Velen. SPECIES
-=======
+# Leotia odorata Velen. SPECIES
 
 #### Status
 ACCEPTED

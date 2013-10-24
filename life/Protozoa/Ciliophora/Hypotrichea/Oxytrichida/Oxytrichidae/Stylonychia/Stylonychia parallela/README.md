@@ -1,5 +1,4 @@
-Stylonychia parallela SPECIES
-=======
+# Stylonychia parallela SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma subrugosum (Schwein.) Sacc. SPECIES
-=======
+# Lophiostoma subrugosum (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

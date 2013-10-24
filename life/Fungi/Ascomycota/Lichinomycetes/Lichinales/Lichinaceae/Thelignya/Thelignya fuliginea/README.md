@@ -1,14 +1,13 @@
-Synalissa fuliginea (Ach.) Nyl. SPECIES
-=======
+# Thelignya fuliginea (Ach.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Framm. Lichenogr. 18 (1855)
 
 #### Original name
 null

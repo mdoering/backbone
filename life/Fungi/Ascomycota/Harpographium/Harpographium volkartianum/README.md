@@ -1,5 +1,4 @@
-Harpographium volkartianum Magnus SPECIES
-=======
+# Harpographium volkartianum Magnus SPECIES
 
 #### Status
 ACCEPTED

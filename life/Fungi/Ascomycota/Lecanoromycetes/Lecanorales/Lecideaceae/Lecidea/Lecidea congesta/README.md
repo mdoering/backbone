@@ -1,5 +1,4 @@
-Lecidea congesta Fink ex J. Hedrick SPECIES
-=======
+# Lecidea congesta Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

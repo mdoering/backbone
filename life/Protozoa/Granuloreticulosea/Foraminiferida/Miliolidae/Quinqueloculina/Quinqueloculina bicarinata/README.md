@@ -1,5 +1,4 @@
-Quinqueloculina bicarinata d'Orbigny, 1826 SPECIES
-=======
+# Quinqueloculina bicarinata d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

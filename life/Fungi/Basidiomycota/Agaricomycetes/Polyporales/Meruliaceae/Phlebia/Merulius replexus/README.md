@@ -1,5 +1,4 @@
-Merulius replexus (Fr.) Kuntze SPECIES
-=======
+# Merulius replexus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

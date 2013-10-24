@@ -1,5 +1,4 @@
-Plasmopara geranii-pratensis Savul. & O. Savul. SPECIES
-=======
+# Plasmopara geranii-pratensis Savul. & O. Savul. SPECIES
 
 #### Status
 ACCEPTED

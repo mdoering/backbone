@@ -1,5 +1,4 @@
-Spongocystia eraduica Segroves, 1967 SPECIES
-=======
+# Spongocystia eraduica Segroves, 1967 SPECIES
 
 #### Status
 ACCEPTED

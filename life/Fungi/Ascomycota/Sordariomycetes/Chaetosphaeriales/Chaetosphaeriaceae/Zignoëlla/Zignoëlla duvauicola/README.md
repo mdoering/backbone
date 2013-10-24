@@ -1,5 +1,4 @@
-Zignoëlla duvauicola Speg. SPECIES
-=======
+# Zignoëlla duvauicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nyctotherus thyropygus Karandikar & Rodgi, 1956 SPECIES
-=======
+# Nyctotherus thyropygus Karandikar & Rodgi, 1956 SPECIES
 
 #### Status
 ACCEPTED

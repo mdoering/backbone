@@ -1,5 +1,4 @@
-Hysterium fibrisedum W.R. Gerard SPECIES
-=======
+# Hysterium fibrisedum W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

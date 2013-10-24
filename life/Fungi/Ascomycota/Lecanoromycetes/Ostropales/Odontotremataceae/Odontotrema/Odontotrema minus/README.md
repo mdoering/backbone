@@ -1,8 +1,7 @@
-Odontotrema minus f. salicella Kauffman FORM
-=======
+# Odontotrema minus Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Odontotrema minus f. salicella Kauffman
+Odontotrema minus Nyl.
 
 ### Remarks
 null

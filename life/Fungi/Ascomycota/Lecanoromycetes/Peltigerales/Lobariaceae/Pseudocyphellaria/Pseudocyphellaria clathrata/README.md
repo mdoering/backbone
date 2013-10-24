@@ -1,8 +1,7 @@
-Crocodia clathrata (De Not.) Trevis. SPECIES
-=======
+# Pseudocyphellaria clathrata (De Not.) Malme SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

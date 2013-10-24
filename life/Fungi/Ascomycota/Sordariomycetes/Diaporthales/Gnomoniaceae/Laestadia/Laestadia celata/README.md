@@ -1,5 +1,4 @@
-Laestadia celata Harkn. SPECIES
-=======
+# Laestadia celata Harkn. SPECIES
 
 #### Status
 ACCEPTED

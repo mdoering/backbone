@@ -1,5 +1,4 @@
-Hercospora tuberculosa (Ellis) Petr. SPECIES
-=======
+# Hercospora tuberculosa (Ellis) Petr. SPECIES
 
 #### Status
 ACCEPTED

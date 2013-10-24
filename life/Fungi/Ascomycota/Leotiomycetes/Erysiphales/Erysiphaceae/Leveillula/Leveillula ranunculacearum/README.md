@@ -1,5 +1,4 @@
-Leveillula ranunculacearum Golovin SPECIES
-=======
+# Leveillula ranunculacearum Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplozoon armatum Dogiel SPECIES
-=======
+# Haplozoon armatum Dogiel SPECIES
 
 #### Status
 ACCEPTED

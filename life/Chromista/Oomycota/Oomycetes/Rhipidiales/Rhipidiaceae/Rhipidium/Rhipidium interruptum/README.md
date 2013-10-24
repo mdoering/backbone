@@ -1,17 +1,16 @@
-Rhipidium europaeum var. compactum Thaxt. VARIETY
-=======
+# Rhipidium interruptum Cornu, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 18: (1871)
 
 #### Original name
-Rhipidium europaeum var. compactum Thaxt.
+Rhipidium interruptum Cornu, 1871
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dendrosarcus russaticeps (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus russaticeps (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

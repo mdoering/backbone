@@ -1,14 +1,13 @@
-Polyporus victoriensis Lloyd, 1920 SPECIES
-=======
+# Pseudoinonotus victoriensis (Lloyd) T. Wagner & M. Fisch., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 6: 1095 (1920)
+Mycol. Res. 105(7): 781 (2001)
 
 #### Original name
 Polyporus victoriensis Lloyd, 1920

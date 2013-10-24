@@ -1,5 +1,4 @@
-Phakopsora byttneriae Cummins & Jørst. SPECIES
-=======
+# Phakopsora byttneriae Cummins & Jørst. SPECIES
 
 #### Status
 ACCEPTED

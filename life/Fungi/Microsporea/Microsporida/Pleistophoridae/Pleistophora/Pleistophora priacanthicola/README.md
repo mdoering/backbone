@@ -1,8 +1,7 @@
-Pleistophora priacanthusis Hua & Dong, 1983 SPECIES
-=======
+# Pleistophora priacanthicola He, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

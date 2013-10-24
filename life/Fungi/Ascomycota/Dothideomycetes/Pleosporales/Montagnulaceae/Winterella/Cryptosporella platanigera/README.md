@@ -1,14 +1,13 @@
-Valsa platanigera Berk. & Broome, 1859 SPECIES
-=======
+# Cryptosporella platanigera (Berk. & Broome) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 3: 366 (1859)
+Syll. fung. (Abellini) 1: 471 (1882)
 
 #### Original name
 Valsa platanigera Berk. & Broome, 1859

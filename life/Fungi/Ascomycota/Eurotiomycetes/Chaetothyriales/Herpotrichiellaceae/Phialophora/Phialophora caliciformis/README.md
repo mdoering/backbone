@@ -1,5 +1,4 @@
-Phialophora caliciformis G. Sm., 1962 SPECIES
-=======
+# Phialophora caliciformis G. Sm., 1962 SPECIES
 
 #### Status
 ACCEPTED

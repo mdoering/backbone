@@ -1,5 +1,4 @@
-Ceriospora prinsepiae R. Rao SPECIES
-=======
+# Ceriospora prinsepiae R. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma wallneriana Allesch. SPECIES
-=======
+# Phoma wallneriana Allesch. SPECIES
 
 #### Status
 ACCEPTED

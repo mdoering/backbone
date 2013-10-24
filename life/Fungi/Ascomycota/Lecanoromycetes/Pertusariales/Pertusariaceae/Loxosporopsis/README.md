@@ -1,5 +1,4 @@
-Loxosporopsis Henssen GENUS
-=======
+# Loxosporopsis Henssen GENUS
 
 #### Status
 ACCEPTED

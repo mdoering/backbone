@@ -1,5 +1,4 @@
-Pezicula dissepta Tul. & C. Tul. SPECIES
-=======
+# Pezicula dissepta Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

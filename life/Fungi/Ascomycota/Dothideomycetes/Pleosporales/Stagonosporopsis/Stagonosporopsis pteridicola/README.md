@@ -1,5 +1,4 @@
-Stagonosporopsis pteridicola (Bubák & Kabát) Bubák SPECIES
-=======
+# Stagonosporopsis pteridicola (Bubák & Kabát) Bubák SPECIES
 
 #### Status
 ACCEPTED

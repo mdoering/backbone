@@ -1,5 +1,4 @@
-Mycena photogena Komin. SPECIES
-=======
+# Mycena photogena Komin. SPECIES
 
 #### Status
 ACCEPTED

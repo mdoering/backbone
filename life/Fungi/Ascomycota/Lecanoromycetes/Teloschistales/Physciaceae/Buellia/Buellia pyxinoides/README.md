@@ -1,5 +1,4 @@
-Buellia pyxinoides (Vain.) Imshaug SPECIES
-=======
+# Buellia pyxinoides (Vain.) Imshaug SPECIES
 
 #### Status
 ACCEPTED

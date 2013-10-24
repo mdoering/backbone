@@ -1,5 +1,4 @@
-Asteridiella buddleyicola (Henn.) Hansf. SPECIES
-=======
+# Asteridiella buddleyicola (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

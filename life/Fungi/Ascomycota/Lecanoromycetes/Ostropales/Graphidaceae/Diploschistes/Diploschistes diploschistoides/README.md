@@ -1,14 +1,13 @@
-Thelotrema diploschistoides Vain. SPECIES
-=======
+# Diploschistes diploschistoides (Vain.) G. Salisb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. fenn. Aboënsis, Ser. A 2(3): 31 (1926)
+Lichenologist 5: 273 (1972)
 
 #### Original name
 Thelotrema diploschistoides Vain.

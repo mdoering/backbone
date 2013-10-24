@@ -1,5 +1,4 @@
-Echinococcidium Porchet, 1978 GENUS
-=======
+# Echinococcidium Porchet, 1978 GENUS
 
 #### Status
 ACCEPTED

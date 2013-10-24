@@ -1,17 +1,16 @@
-Phyllostictina concentrica var. concentrica VARIETY
-=======
+# Phyllosticta concentrica Sacc., 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 37: 114 (1919)
+Nuovo Giorn. Bot. Ital. 8: 203 (1876)
 
 #### Original name
-Phyllostictina concentrica var. concentrica
+Phyllosticta concentrica Sacc., 1876
 
 ### Remarks
 null

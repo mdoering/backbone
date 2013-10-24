@@ -1,5 +1,4 @@
-Paraaoria R.K. Verma & Kamal GENUS
-=======
+# Paraaoria R.K. Verma & Kamal GENUS
 
 #### Status
 ACCEPTED

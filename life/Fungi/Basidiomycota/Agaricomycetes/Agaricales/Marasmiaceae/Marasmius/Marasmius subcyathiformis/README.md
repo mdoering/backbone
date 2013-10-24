@@ -1,5 +1,4 @@
-Marasmius subcyathiformis Murrill SPECIES
-=======
+# Marasmius subcyathiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

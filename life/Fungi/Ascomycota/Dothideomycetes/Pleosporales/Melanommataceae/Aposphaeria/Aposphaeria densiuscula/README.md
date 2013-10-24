@@ -1,5 +1,4 @@
-Aposphaeria densiuscula Sacc. & Roum. SPECIES
-=======
+# Aposphaeria densiuscula Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

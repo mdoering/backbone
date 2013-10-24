@@ -1,5 +1,4 @@
-Parmelia ceracea Lynge SPECIES
-=======
+# Parmelia ceracea Lynge SPECIES
 
 #### Status
 ACCEPTED

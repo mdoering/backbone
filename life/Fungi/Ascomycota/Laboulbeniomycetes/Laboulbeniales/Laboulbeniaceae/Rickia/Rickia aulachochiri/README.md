@@ -1,5 +1,4 @@
-Rickia aulachochiri Thaxt. SPECIES
-=======
+# Rickia aulachochiri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

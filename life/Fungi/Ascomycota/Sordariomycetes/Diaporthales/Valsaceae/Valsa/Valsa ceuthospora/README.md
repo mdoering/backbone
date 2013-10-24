@@ -1,5 +1,4 @@
-Valsa ceuthospora Cooke, 1879 SPECIES
-=======
+# Valsa ceuthospora Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

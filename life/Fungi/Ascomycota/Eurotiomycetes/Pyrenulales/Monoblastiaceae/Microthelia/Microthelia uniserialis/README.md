@@ -1,5 +1,4 @@
-Microthelia uniserialis Zahlbr. SPECIES
-=======
+# Microthelia uniserialis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

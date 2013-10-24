@@ -1,5 +1,4 @@
-Didymosphaeria fumanae Hollós SPECIES
-=======
+# Didymosphaeria fumanae Hollós SPECIES
 
 #### Status
 ACCEPTED

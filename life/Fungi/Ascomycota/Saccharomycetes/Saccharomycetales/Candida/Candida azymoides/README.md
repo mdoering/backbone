@@ -1,5 +1,4 @@
-Candida azymoides Rosa, Morais, Lachance & Trindade SPECIES
-=======
+# Candida azymoides Rosa, Morais, Lachance & Trindade SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus laevis Willd. SPECIES
-=======
+# Cyathus laevis Willd. SPECIES
 
 #### Status
 ACCEPTED

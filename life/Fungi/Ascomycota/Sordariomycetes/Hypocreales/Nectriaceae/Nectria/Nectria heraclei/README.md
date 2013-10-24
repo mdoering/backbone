@@ -1,5 +1,4 @@
-Nectria heraclei P. Crouan & H. Crouan SPECIES
-=======
+# Nectria heraclei P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

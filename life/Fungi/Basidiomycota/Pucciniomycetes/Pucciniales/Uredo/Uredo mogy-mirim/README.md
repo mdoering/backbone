@@ -1,5 +1,4 @@
-Uredo mogy-mirim Viégas SPECIES
-=======
+# Uredo mogy-mirim Viégas SPECIES
 
 #### Status
 ACCEPTED

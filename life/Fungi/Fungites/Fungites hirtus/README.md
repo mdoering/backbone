@@ -1,5 +1,4 @@
-Fungites hirtus Casp. & R. Klebs SPECIES
-=======
+# Fungites hirtus Casp. & R. Klebs SPECIES
 
 #### Status
 ACCEPTED

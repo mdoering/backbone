@@ -1,5 +1,4 @@
-Monascus ruber Tiegh., 1884 SPECIES
-=======
+# Monascus ruber Tiegh., 1884 SPECIES
 
 #### Status
 ACCEPTED

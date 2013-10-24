@@ -1,5 +1,4 @@
-Clintoniella impressa (Ces.) Sacc. & P. Syd. SPECIES
-=======
+# Clintoniella impressa (Ces.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

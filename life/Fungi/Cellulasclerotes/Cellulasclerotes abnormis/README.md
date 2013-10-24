@@ -1,5 +1,4 @@
-Cellulasclerotes abnormis Stach & Pickh. SPECIES
-=======
+# Cellulasclerotes abnormis Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

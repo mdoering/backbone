@@ -1,14 +1,13 @@
-Pyrenula canellae-albae Fée SPECIES
-=======
+# Sulcopyrenula canellae-albae (Fée) H. Harada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 31(6): 569 (1999)
 
 #### Original name
 Pyrenula canellae-albae Fée

@@ -1,5 +1,4 @@
-Acarospora transtagatana (Harm.) Hue SPECIES
-=======
+# Acarospora transtagatana (Harm.) Hue SPECIES
 
 #### Status
 ACCEPTED

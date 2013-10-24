@@ -1,5 +1,4 @@
-Tilletia rugispora Ellis, 1893 SPECIES
-=======
+# Tilletia rugispora Ellis, 1893 SPECIES
 
 #### Status
 ACCEPTED

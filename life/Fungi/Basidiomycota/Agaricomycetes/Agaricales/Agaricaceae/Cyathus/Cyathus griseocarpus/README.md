@@ -1,5 +1,4 @@
-Cyathus griseocarpus H.J. Brodie & B.M. Sharma SPECIES
-=======
+# Cyathus griseocarpus H.J. Brodie & B.M. Sharma SPECIES
 
 #### Status
 ACCEPTED

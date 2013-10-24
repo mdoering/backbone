@@ -1,5 +1,4 @@
-Labyrinthidomatidae FAMILY
-=======
+# Labyrinthidomatidae FAMILY
 
 #### Status
 ACCEPTED

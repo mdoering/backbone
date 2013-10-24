@@ -1,5 +1,4 @@
-Cortinarius superbus A.H. Sm. SPECIES
-=======
+# Cortinarius superbus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

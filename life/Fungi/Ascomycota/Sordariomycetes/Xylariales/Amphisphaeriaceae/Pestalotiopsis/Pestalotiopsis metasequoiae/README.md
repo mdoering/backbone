@@ -1,5 +1,4 @@
-Pestalotiopsis metasequoiae (Gucevic) Nag Raj SPECIES
-=======
+# Pestalotiopsis metasequoiae (Gucevic) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

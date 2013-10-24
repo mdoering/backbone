@@ -1,5 +1,4 @@
-Exidiopsis plumbea (Bres. & Torrend) Lonati SPECIES
-=======
+# Exidiopsis plumbea (Bres. & Torrend) Lonati SPECIES
 
 #### Status
 ACCEPTED

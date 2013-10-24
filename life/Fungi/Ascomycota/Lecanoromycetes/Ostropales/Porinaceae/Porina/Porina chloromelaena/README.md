@@ -1,5 +1,4 @@
-Porina chloromelaena (A. Massal.) Lettau SPECIES
-=======
+# Porina chloromelaena (A. Massal.) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon betularium Nyl. SPECIES
-=======
+# Endocarpon betularium Nyl. SPECIES
 
 #### Status
 ACCEPTED

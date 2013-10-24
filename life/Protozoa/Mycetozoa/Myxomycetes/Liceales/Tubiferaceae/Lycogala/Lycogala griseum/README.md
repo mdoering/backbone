@@ -1,5 +1,4 @@
-Lycogala griseum SPECIES
-=======
+# Lycogala griseum SPECIES
 
 #### Status
 ACCEPTED

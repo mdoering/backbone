@@ -1,5 +1,4 @@
-Lecidea chlarodes Nyl. SPECIES
-=======
+# Lecidea chlarodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barya GENUS
-=======
+# Barya GENUS
 
 #### Status
 ACCEPTED

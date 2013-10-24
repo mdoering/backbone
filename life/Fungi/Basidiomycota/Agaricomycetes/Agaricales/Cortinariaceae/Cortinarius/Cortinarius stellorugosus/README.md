@@ -1,5 +1,4 @@
-Cortinarius stellorugosus Rob. Henry SPECIES
-=======
+# Cortinarius stellorugosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

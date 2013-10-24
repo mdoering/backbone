@@ -1,5 +1,4 @@
-Rhinomonas fragarioides (R. W. Butcher) D. R. A. Hill & R. Wetherbee SPECIES
-=======
+# Rhinomonas fragarioides (R. W. Butcher) D. R. A. Hill & R. Wetherbee SPECIES
 
 #### Status
 ACCEPTED

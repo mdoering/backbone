@@ -1,5 +1,4 @@
-Arbusculites Paradkar, 1976 GENUS
-=======
+# Arbusculites Paradkar, 1976 GENUS
 
 #### Status
 ACCEPTED

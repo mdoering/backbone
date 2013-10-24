@@ -1,5 +1,4 @@
-Haplophoma syringae Riedl & Ershad SPECIES
-=======
+# Haplophoma syringae Riedl & Ershad SPECIES
 
 #### Status
 ACCEPTED

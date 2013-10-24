@@ -1,5 +1,4 @@
-Lecidea humboldtii Lynge SPECIES
-=======
+# Lecidea humboldtii Lynge SPECIES
 
 #### Status
 ACCEPTED

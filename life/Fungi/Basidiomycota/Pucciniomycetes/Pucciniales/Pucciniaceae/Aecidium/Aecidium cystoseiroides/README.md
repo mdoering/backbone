@@ -1,5 +1,4 @@
-Aecidium cystoseiroides Berk. SPECIES
-=======
+# Aecidium cystoseiroides Berk. SPECIES
 
 #### Status
 ACCEPTED

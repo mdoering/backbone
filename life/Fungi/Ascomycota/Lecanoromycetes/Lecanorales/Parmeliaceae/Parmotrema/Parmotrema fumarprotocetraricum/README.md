@@ -1,5 +1,4 @@
-Parmotrema fumarprotocetraricum Marcelli & Hale SPECIES
-=======
+# Parmotrema fumarprotocetraricum Marcelli & Hale SPECIES
 
 #### Status
 ACCEPTED

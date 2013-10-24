@@ -1,5 +1,4 @@
-Lichen flavens J.F. Gmel. SPECIES
-=======
+# Lichen flavens J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

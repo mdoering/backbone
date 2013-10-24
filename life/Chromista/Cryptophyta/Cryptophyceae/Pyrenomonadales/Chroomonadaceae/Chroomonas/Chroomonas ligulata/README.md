@@ -1,5 +1,4 @@
-Chroomonas ligulata G. Novarino & I. A. N. Lucas SPECIES
-=======
+# Chroomonas ligulata G. Novarino & I. A. N. Lucas SPECIES
 
 #### Status
 ACCEPTED

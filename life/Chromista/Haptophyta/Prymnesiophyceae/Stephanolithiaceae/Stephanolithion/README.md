@@ -1,5 +1,4 @@
-Stephanolithion G.Deflandre GENUS
-=======
+# Stephanolithion G.Deflandre GENUS
 
 #### Status
 ACCEPTED

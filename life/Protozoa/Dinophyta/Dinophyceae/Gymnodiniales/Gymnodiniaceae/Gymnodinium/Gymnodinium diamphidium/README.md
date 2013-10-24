@@ -1,5 +1,4 @@
-Gymnodinium diamphidium Norris, 1961 SPECIES
-=======
+# Gymnodinium diamphidium Norris, 1961 SPECIES
 
 #### Status
 ACCEPTED

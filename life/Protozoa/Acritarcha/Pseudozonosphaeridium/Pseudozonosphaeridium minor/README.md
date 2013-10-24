@@ -1,5 +1,4 @@
-Pseudozonosphaeridium minor Fu Jiayuan, 1986 SPECIES
-=======
+# Pseudozonosphaeridium minor Fu Jiayuan, 1986 SPECIES
 
 #### Status
 ACCEPTED

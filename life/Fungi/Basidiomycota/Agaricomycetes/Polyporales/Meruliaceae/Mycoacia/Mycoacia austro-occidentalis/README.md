@@ -1,5 +1,4 @@
-Mycoacia austro-occidentalis Canf., 1976 SPECIES
-=======
+# Mycoacia austro-occidentalis Canf., 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia vicentii A. Crespo, M. C. Molina & Elix SPECIES
-=======
+# Xanthoparmelia vicentii A. Crespo, M. C. Molina & Elix SPECIES
 
 #### Status
 ACCEPTED

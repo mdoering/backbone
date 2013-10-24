@@ -1,5 +1,4 @@
-Dicaeoma chaseanum Arthur & Fromme SPECIES
-=======
+# Dicaeoma chaseanum Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

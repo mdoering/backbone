@@ -1,5 +1,4 @@
-Asteromassaria tetraspora M.D. Mehrotra & Sivan. SPECIES
-=======
+# Asteromassaria tetraspora M.D. Mehrotra & Sivan. SPECIES
 
 #### Status
 ACCEPTED

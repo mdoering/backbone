@@ -1,5 +1,4 @@
-Actinomyces minutissimus (Burchardt) Brumpt SPECIES
-=======
+# Actinomyces minutissimus (Burchardt) Brumpt SPECIES
 
 #### Status
 ACCEPTED

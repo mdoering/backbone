@@ -1,5 +1,4 @@
-Hainesia corallina Sacc. & Fautrey SPECIES
-=======
+# Hainesia corallina Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

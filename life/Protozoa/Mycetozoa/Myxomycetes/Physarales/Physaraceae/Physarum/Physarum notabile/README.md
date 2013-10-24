@@ -1,17 +1,16 @@
-Didymium connatum Peck, 1874 SPECIES
-=======
+# Physarum notabile T. Macbr., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 26: 74 (1874)
+N. Amer. Slime-Moulds (New York), Edn 2 80 (1922)
 
 #### Original name
-Didymium connatum Peck, 1874
+Physarum notabile T. Macbr., 1922
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Myiocopraloa speirea (Fr.) Cif. SPECIES
-=======
+# Myiocopraloa speirea (Fr.) Cif. SPECIES
 
 #### Status
 ACCEPTED

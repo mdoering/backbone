@@ -1,5 +1,4 @@
-Tintinnus maculatus Brandt, 1906 SPECIES
-=======
+# Tintinnus maculatus Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleomassaria agaves Sawada SPECIES
-=======
+# Pleomassaria agaves Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia rosarum Velen. SPECIES
-=======
+# Omphalia rosarum Velen. SPECIES
 
 #### Status
 ACCEPTED

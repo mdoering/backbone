@@ -1,5 +1,4 @@
-Aspicilia californica Rosentr. SPECIES
-=======
+# Aspicilia californica Rosentr. SPECIES
 
 #### Status
 ACCEPTED

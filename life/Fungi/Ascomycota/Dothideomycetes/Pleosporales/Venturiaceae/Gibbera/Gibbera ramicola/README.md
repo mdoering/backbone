@@ -1,14 +1,13 @@
-Protoventuria ramicola (B. Erikss.) M.E. Barr, 1989 SPECIES
-=======
+# Gibbera ramicola B. Erikss., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 41: 37 (1989)
+Svensk bot. Tidskr. 68(2): 208 (1974)
 
 #### Original name
 Gibbera ramicola B. Erikss., 1974

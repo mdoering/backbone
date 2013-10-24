@@ -1,5 +1,4 @@
-Paucithecium Lloyd GENUS
-=======
+# Paucithecium Lloyd GENUS
 
 #### Status
 ACCEPTED

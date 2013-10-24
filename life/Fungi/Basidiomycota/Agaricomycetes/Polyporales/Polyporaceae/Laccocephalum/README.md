@@ -1,5 +1,4 @@
-Laccocephalum McAlpine & Tepper GENUS
-=======
+# Laccocephalum McAlpine & Tepper GENUS
 
 #### Status
 ACCEPTED

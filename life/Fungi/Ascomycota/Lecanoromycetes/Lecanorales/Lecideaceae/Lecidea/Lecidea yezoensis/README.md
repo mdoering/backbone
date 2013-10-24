@@ -1,8 +1,7 @@
-Lecidea yezoënsis Zahlbr. SPECIES
-=======
+# Lecidea yezoensis Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea yezoënsis Zahlbr.
+Lecidea yezoensis Zahlbr.
 
 ### Remarks
 null

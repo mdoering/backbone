@@ -1,5 +1,4 @@
-Misgomyces bicornis Thaxt. SPECIES
-=======
+# Misgomyces bicornis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

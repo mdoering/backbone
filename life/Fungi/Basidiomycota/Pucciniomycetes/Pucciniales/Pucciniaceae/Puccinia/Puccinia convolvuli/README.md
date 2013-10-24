@@ -1,5 +1,4 @@
-Puccinia convolvuli (Pers.) Castagne SPECIES
-=======
+# Puccinia convolvuli (Pers.) Castagne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhynchosaccus longus Rhumbler, 1931 SPECIES
-=======
+# Rhynchosaccus longus Rhumbler, 1931 SPECIES
 
 #### Status
 ACCEPTED

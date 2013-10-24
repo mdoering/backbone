@@ -1,5 +1,4 @@
-Ellobiophrya donacis Chatton & Lwoff, 1923 SPECIES
-=======
+# Ellobiophrya donacis Chatton & Lwoff, 1923 SPECIES
 
 #### Status
 ACCEPTED

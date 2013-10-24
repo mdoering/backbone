@@ -1,5 +1,4 @@
-Cortinarius meinhardii Bon SPECIES
-=======
+# Cortinarius meinhardii Bon SPECIES
 
 #### Status
 ACCEPTED

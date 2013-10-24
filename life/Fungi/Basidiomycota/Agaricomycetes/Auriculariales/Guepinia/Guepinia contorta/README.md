@@ -1,5 +1,4 @@
-Guepinia contorta de Bary SPECIES
-=======
+# Guepinia contorta de Bary SPECIES
 
 #### Status
 ACCEPTED

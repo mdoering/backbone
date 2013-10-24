@@ -1,5 +1,4 @@
-Rhabdospora strambergensis Picb. SPECIES
-=======
+# Rhabdospora strambergensis Picb. SPECIES
 
 #### Status
 ACCEPTED

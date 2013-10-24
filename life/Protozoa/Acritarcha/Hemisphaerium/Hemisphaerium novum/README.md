@@ -1,5 +1,4 @@
-Hemisphaerium novum (Byvsheva, 1967) Byvsheva, 1985 SPECIES
-=======
+# Hemisphaerium novum (Byvsheva, 1967) Byvsheva, 1985 SPECIES
 
 #### Status
 ACCEPTED

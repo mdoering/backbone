@@ -1,5 +1,4 @@
-Coleosporium phellodendri Kom. SPECIES
-=======
+# Coleosporium phellodendri Kom. SPECIES
 
 #### Status
 ACCEPTED

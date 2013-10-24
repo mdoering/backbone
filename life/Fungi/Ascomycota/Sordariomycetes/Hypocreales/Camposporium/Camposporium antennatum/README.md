@@ -1,5 +1,4 @@
-Camposporium antennatum Harkn., 1884 SPECIES
-=======
+# Camposporium antennatum Harkn., 1884 SPECIES
 
 #### Status
 ACCEPTED

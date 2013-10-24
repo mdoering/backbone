@@ -1,14 +1,13 @@
-Verticillium dahliae f. restrictum J.F.H. Beyma, 1940 FORM
-=======
+# Acremonium restrictum (J.F.H. Beyma) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 6: 45 (1940)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 138 (1971)
 
 #### Original name
 Verticillium dahliae f. restrictum J.F.H. Beyma, 1940

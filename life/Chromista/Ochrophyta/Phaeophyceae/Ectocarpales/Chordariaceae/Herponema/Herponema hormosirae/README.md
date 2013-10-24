@@ -1,5 +1,4 @@
-Herponema hormosirae Lindauser & V.J.Chapman SPECIES
-=======
+# Herponema hormosirae Lindauser & V.J.Chapman SPECIES
 
 #### Status
 ACCEPTED

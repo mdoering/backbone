@@ -1,5 +1,4 @@
-Eriopezia picea Velen. SPECIES
-=======
+# Eriopezia picea Velen. SPECIES
 
 #### Status
 ACCEPTED

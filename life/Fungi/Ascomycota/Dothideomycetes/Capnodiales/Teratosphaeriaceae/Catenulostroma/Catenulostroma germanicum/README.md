@@ -1,5 +1,4 @@
-Catenulostroma germanicum Crous & U. Braun, 2007 SPECIES
-=======
+# Catenulostroma germanicum Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

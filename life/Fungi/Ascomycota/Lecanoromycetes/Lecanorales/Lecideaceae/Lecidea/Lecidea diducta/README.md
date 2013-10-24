@@ -1,5 +1,4 @@
-Lecidea diducta (Nyl.) Hue SPECIES
-=======
+# Lecidea diducta (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

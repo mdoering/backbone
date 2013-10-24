@@ -1,17 +1,16 @@
-Sticta freycinetii var. lactucaefolia (Pers.) Müll. Arg. VARIETY
-=======
+# Pseudocyphellaria glabra (Hook. f. & Taylor) C. W. Dodge SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Miss. Sc. Cap Horn, Lich. 157 (1888)
+B. A. N. Z. Antarct. Res. Exped. Rep. , Ser. B 7: 79 (1948)
 
 #### Original name
-Parmelia lactucaefolia Pers.
+Sticta glabra Hook. f. & Taylor
 
 ### Remarks
 null

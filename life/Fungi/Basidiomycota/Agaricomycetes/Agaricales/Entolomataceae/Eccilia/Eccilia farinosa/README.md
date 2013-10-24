@@ -1,5 +1,4 @@
-Eccilia farinosa Henn. SPECIES
-=======
+# Eccilia farinosa Henn. SPECIES
 
 #### Status
 ACCEPTED

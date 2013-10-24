@@ -1,5 +1,4 @@
-Filaspora solidaginis (Cooke & Ellis) Kuntze SPECIES
-=======
+# Filaspora solidaginis (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

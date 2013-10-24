@@ -1,5 +1,4 @@
-Rhabdospora tami Hollós SPECIES
-=======
+# Rhabdospora tami Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sugiyamaella japonica Kurtzman, 2007 SPECIES
-=======
+# Sugiyamaella japonica Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

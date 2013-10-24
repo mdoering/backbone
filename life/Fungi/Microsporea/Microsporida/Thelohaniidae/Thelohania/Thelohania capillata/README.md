@@ -1,5 +1,4 @@
-Thelohania capillata J.I.R. Larsson SPECIES
-=======
+# Thelohania capillata J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

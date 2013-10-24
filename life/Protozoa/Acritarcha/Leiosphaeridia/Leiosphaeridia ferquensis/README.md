@@ -1,5 +1,4 @@
-Leiosphaeridia ferquensis (Taugourdeau-Lantz, 1960) Taugourdeau-Lantz, 1968 SPECIES
-=======
+# Leiosphaeridia ferquensis (Taugourdeau-Lantz, 1960) Taugourdeau-Lantz, 1968 SPECIES
 
 #### Status
 ACCEPTED

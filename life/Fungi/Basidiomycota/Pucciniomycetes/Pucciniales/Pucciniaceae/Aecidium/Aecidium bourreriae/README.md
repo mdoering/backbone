@@ -1,5 +1,4 @@
-Aecidium bourreriae Holw. SPECIES
-=======
+# Aecidium bourreriae Holw. SPECIES
 
 #### Status
 ACCEPTED

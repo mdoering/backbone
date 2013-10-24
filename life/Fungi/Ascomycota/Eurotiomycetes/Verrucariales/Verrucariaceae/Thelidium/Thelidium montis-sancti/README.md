@@ -1,5 +1,4 @@
-Thelidium montis-sancti Servít SPECIES
-=======
+# Thelidium montis-sancti Servít SPECIES
 
 #### Status
 ACCEPTED

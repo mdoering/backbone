@@ -1,5 +1,4 @@
-Cryptovalsa deusta (Ellis & G. Martin) Petr. SPECIES
-=======
+# Cryptovalsa deusta (Ellis & G. Martin) Petr. SPECIES
 
 #### Status
 ACCEPTED

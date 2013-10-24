@@ -1,5 +1,4 @@
-Cercospora cercestidis J.M. Yen & Gilles SPECIES
-=======
+# Cercospora cercestidis J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

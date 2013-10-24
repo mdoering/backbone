@@ -1,5 +1,4 @@
-Periconia sacchari J.R. Johnst. SPECIES
-=======
+# Periconia sacchari J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

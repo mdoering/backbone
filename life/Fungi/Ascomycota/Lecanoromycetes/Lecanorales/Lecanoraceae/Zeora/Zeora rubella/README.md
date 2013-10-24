@@ -1,5 +1,4 @@
-Zeora rubella Anzi SPECIES
-=======
+# Zeora rubella Anzi SPECIES
 
 #### Status
 ACCEPTED

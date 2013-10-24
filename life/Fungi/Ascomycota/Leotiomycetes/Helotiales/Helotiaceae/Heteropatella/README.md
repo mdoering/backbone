@@ -1,17 +1,16 @@
-Falcipatellina Gucevic GENUS
-=======
+# Heteropatella Fuckel, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bot. Mater. Otd. Sporov. Rast. Bot. Inst. Komarova Akad. Nauk S. S. S. R. 8: 147 (1952)
+null
 
 #### Original name
-Falcipatellina Gucevic
+null
 
 ### Remarks
 null

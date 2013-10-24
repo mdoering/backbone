@@ -1,5 +1,4 @@
-Vizella guaranitica Speg. SPECIES
-=======
+# Vizella guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

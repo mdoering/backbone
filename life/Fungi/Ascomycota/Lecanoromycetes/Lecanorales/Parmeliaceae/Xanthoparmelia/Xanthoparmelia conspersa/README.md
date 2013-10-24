@@ -1,17 +1,16 @@
-Imbricaria conspersa f. conspersa FORM
-=======
+# Xanthoparmelia conspersa (Ehrh. ex Ach.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 485 (1974)
 
 #### Original name
-Imbricaria conspersa f. conspersa
+Lichen conspersus Ehrh. ex Ach.
 
 ### Remarks
 null

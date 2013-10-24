@@ -1,5 +1,4 @@
-Pseudothis mauaensis (Henn.) Theiss. & Syd. SPECIES
-=======
+# Pseudothis mauaensis (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

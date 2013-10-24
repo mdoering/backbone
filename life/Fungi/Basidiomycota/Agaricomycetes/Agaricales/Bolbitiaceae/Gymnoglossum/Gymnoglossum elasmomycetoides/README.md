@@ -1,5 +1,4 @@
-Gymnoglossum elasmomycetoides (Zeller) Zeller SPECIES
-=======
+# Gymnoglossum elasmomycetoides (Zeller) Zeller SPECIES
 
 #### Status
 ACCEPTED

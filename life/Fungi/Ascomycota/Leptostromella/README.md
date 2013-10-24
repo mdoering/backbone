@@ -1,5 +1,4 @@
-Leptostromella (Saccardo) Saccardo, 1884 GENUS
-=======
+# Leptostromella (Saccardo) Saccardo, 1884 GENUS
 
 #### Status
 ACCEPTED

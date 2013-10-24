@@ -1,5 +1,4 @@
-Peziza alutipes W. Phillips SPECIES
-=======
+# Peziza alutipes W. Phillips SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma visci Sacc., 1878 SPECIES
-=======
+# Phoma visci Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramyxa paradoxa Chatton, 1911 SPECIES
-=======
+# Paramyxa paradoxa Chatton, 1911 SPECIES
 
 #### Status
 ACCEPTED

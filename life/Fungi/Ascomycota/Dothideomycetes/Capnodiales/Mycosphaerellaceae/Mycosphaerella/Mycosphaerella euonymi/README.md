@@ -1,5 +1,4 @@
-Mycosphaerella euonymi (Kunze) J. Schröt. SPECIES
-=======
+# Mycosphaerella euonymi (Kunze) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

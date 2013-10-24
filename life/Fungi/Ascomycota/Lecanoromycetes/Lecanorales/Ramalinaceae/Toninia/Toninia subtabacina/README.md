@@ -1,5 +1,4 @@
-Toninia subtabacina (Nyl.) H. Olivier SPECIES
-=======
+# Toninia subtabacina (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

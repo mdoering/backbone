@@ -1,5 +1,4 @@
-Zopfiella flammifera L.H. Huang SPECIES
-=======
+# Zopfiella flammifera L.H. Huang SPECIES
 
 #### Status
 ACCEPTED

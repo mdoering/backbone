@@ -1,5 +1,4 @@
-Gephyrocapsa lumina Bukry, 1973 SPECIES
-=======
+# Gephyrocapsa lumina Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

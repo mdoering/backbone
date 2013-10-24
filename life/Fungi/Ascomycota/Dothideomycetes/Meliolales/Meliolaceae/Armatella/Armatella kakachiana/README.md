@@ -1,5 +1,4 @@
-Armatella kakachiana Hosag. & Goos SPECIES
-=======
+# Armatella kakachiana Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

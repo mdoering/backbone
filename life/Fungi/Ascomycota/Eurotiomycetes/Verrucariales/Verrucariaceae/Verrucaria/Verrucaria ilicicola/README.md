@@ -1,5 +1,4 @@
-Verrucaria ilicicola Nyl. SPECIES
-=======
+# Verrucaria ilicicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

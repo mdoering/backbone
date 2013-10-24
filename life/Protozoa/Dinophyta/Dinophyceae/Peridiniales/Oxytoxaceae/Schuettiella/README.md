@@ -1,5 +1,4 @@
-Schuettiella E. Balech, 1988 GENUS
-=======
+# Schuettiella E. Balech, 1988 GENUS
 
 #### Status
 ACCEPTED

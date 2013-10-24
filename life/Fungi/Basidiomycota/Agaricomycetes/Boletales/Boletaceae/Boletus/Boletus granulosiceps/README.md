@@ -1,5 +1,4 @@
-Boletus granulosiceps Singer SPECIES
-=======
+# Boletus granulosiceps Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezicula viridiatra (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pezicula viridiatra (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

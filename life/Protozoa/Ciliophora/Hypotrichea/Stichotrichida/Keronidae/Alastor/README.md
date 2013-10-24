@@ -1,5 +1,4 @@
-Alastor Perty, 1852 GENUS
-=======
+# Alastor Perty, 1852 GENUS
 
 #### Status
 ACCEPTED

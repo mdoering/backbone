@@ -1,5 +1,4 @@
-Melampsora kussanoi Dietel SPECIES
-=======
+# Melampsora kussanoi Dietel SPECIES
 
 #### Status
 ACCEPTED

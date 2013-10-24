@@ -1,5 +1,4 @@
-Elsinoe solidaginis Jenkins & Ukkelberg, 1955 SPECIES
-=======
+# Elsinoe solidaginis Jenkins & Ukkelberg, 1955 SPECIES
 
 #### Status
 ACCEPTED

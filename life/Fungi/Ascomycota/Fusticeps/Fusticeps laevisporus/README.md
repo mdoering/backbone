@@ -1,5 +1,4 @@
-Fusticeps laevisporus Matsush. SPECIES
-=======
+# Fusticeps laevisporus Matsush. SPECIES
 
 #### Status
 ACCEPTED

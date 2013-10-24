@@ -1,5 +1,4 @@
-Entoloma whiteae Murrill SPECIES
-=======
+# Entoloma whiteae Murrill SPECIES
 
 #### Status
 ACCEPTED

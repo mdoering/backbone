@@ -1,5 +1,4 @@
-Sorosporium urelytri L. Ling SPECIES
-=======
+# Sorosporium urelytri L. Ling SPECIES
 
 #### Status
 ACCEPTED

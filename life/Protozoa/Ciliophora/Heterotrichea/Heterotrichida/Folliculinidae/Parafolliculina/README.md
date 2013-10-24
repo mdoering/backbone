@@ -1,5 +1,4 @@
-Parafolliculina Dons, 1914 GENUS
-=======
+# Parafolliculina Dons, 1914 GENUS
 
 #### Status
 ACCEPTED

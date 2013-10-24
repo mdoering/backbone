@@ -1,5 +1,4 @@
-Mollisina ammophilae E.K. Cash SPECIES
-=======
+# Mollisina ammophilae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

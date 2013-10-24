@@ -1,5 +1,4 @@
-Bolivina matanzana Bermudez & Palmer SPECIES
-=======
+# Bolivina matanzana Bermudez & Palmer SPECIES
 
 #### Status
 ACCEPTED

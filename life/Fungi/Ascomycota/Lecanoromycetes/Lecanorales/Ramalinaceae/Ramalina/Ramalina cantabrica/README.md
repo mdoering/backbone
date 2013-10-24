@@ -1,5 +1,4 @@
-Ramalina cantabrica Follmann SPECIES
-=======
+# Ramalina cantabrica Follmann SPECIES
 
 #### Status
 ACCEPTED

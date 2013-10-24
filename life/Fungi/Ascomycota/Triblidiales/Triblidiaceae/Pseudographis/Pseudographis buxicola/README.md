@@ -1,5 +1,4 @@
-Pseudographis buxicola Pass. SPECIES
-=======
+# Pseudographis buxicola Pass. SPECIES
 
 #### Status
 ACCEPTED

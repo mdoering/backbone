@@ -1,5 +1,4 @@
-Lonepinella koalarum Osawa et al., 1996 SPECIES
-=======
+# Lonepinella koalarum Osawa et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

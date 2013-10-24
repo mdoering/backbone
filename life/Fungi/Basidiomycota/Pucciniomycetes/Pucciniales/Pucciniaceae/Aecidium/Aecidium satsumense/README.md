@@ -1,5 +1,4 @@
-Aecidium satsumense Hirats. f. SPECIES
-=======
+# Aecidium satsumense Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

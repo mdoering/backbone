@@ -1,5 +1,4 @@
-Lecidea glabella Kremp. SPECIES
-=======
+# Lecidea glabella Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ceriporiopsis gilvescens f. gilvescens FORM
-=======
+# Ceriporiopsis gilvescens (Bres.) Domanski, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Acta Soc. Bot. Pol. 32: 731 (1963)
 
 #### Original name
-Ceriporiopsis gilvescens f. gilvescens
+Poria gilvescens Bres., 1908
 
 ### Remarks
 null

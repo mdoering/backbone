@@ -1,5 +1,4 @@
-Bacidia foliicola Vezda SPECIES
-=======
+# Bacidia foliicola Vezda SPECIES
 
 #### Status
 ACCEPTED

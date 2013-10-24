@@ -1,5 +1,4 @@
-Patellaria frondosa Hoffm. SPECIES
-=======
+# Patellaria frondosa Hoffm. SPECIES
 
 #### Status
 ACCEPTED

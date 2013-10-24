@@ -1,5 +1,4 @@
-Morfea helianthemi var. helianthemi VARIETY
-=======
+# Morfea helianthemi (Maire) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Saccardoa 2: 146 (1963)
 
 #### Original name
-Morfea helianthemi var. helianthemi
+Limacinia helianthemi Maire
 
 ### Remarks
 null

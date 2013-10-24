@@ -1,5 +1,4 @@
-Asterina citriobati Hansf. SPECIES
-=======
+# Asterina citriobati Hansf. SPECIES
 
 #### Status
 ACCEPTED

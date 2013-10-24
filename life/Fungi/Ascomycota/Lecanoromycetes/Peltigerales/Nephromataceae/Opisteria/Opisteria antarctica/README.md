@@ -1,5 +1,4 @@
-Opisteria antarctica SPECIES
-=======
+# Opisteria antarctica SPECIES
 
 #### Status
 ACCEPTED

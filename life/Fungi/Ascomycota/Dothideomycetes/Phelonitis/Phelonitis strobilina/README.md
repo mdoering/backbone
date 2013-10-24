@@ -1,5 +1,4 @@
-Phelonitis strobilina Fr. SPECIES
-=======
+# Phelonitis strobilina Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltis mouririae Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltis mouririae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora samydacearum A.K. Singh, Kamal & S.K. Singh SPECIES
-=======
+# Pseudocercospora samydacearum A.K. Singh, Kamal & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ilytheomyces minusculus Thaxt. SPECIES
-=======
+# Ilytheomyces minusculus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

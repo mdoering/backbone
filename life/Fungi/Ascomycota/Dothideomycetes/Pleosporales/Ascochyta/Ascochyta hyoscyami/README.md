@@ -1,5 +1,4 @@
-Ascochyta hyoscyami var. hyoscyami VARIETY
-=======
+# Ascochyta hyoscyami Lasch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Klotzsch Herb. Myc. no. 864 (1845)
 
 #### Original name
-Ascochyta hyoscyami var. hyoscyami
+Ascochyta hyoscyami Lasch
 
 ### Remarks
 null

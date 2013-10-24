@@ -1,5 +1,4 @@
-Parmelia amboimensis C.W. Dodge SPECIES
-=======
+# Parmelia amboimensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

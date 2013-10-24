@@ -1,5 +1,4 @@
-Puccinia ixeridis-oldhami Sawada SPECIES
-=======
+# Puccinia ixeridis-oldhami Sawada SPECIES
 
 #### Status
 ACCEPTED

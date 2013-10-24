@@ -1,5 +1,4 @@
-Coniothyrium massariae Petr. SPECIES
-=======
+# Coniothyrium massariae Petr. SPECIES
 
 #### Status
 ACCEPTED

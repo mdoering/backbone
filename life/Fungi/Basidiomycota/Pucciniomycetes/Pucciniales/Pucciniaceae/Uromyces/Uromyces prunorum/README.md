@@ -1,5 +1,4 @@
-Uromyces prunorum Fuckel SPECIES
-=======
+# Uromyces prunorum Fuckel SPECIES
 
 #### Status
 ACCEPTED

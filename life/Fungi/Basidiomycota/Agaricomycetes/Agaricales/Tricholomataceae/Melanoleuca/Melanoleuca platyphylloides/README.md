@@ -1,5 +1,4 @@
-Melanoleuca platyphylloides Murrill SPECIES
-=======
+# Melanoleuca platyphylloides Murrill SPECIES
 
 #### Status
 ACCEPTED

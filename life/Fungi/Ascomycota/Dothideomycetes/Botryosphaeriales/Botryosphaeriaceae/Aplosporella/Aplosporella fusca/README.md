@@ -1,5 +1,4 @@
-Aplosporella fusca (Preuss) Petr. SPECIES
-=======
+# Aplosporella fusca (Preuss) Petr. SPECIES
 
 #### Status
 ACCEPTED

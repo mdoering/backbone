@@ -1,5 +1,4 @@
-Hypomyces stephanomatis Rogerson & Samuels, 1985 SPECIES
-=======
+# Hypomyces stephanomatis Rogerson & Samuels, 1985 SPECIES
 
 #### Status
 ACCEPTED

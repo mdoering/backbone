@@ -1,5 +1,4 @@
-Pyrenula subferruginea (Malme) R. C. Harris SPECIES
-=======
+# Pyrenula subferruginea (Malme) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

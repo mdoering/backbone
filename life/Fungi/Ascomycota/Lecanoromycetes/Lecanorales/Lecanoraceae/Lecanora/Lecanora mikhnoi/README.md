@@ -1,5 +1,4 @@
-Lecanora mikhnoi Zahlbr. SPECIES
-=======
+# Lecanora mikhnoi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

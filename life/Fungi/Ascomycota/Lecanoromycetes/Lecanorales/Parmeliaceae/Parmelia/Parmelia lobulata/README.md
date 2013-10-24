@@ -1,5 +1,4 @@
-Parmelia lobulata (Flörke) Hepp SPECIES
-=======
+# Parmelia lobulata (Flörke) Hepp SPECIES
 
 #### Status
 ACCEPTED

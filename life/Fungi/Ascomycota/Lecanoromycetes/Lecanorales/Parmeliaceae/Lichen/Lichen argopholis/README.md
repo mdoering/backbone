@@ -1,5 +1,4 @@
-Lichen argopholis (Ach.) Wahlenb. SPECIES
-=======
+# Lichen argopholis (Ach.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

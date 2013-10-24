@@ -1,5 +1,4 @@
-Phyllosticta marantaceaecola Rangel SPECIES
-=======
+# Phyllosticta marantaceaecola Rangel SPECIES
 
 #### Status
 ACCEPTED

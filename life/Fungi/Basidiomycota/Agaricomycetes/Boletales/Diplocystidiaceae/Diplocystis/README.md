@@ -1,5 +1,4 @@
-Diplocystis Berkeley & M.A. Curtis, 1869 GENUS
-=======
+# Diplocystis Berkeley & M.A. Curtis, 1869 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora caulophylla (Tuck.) Fink SPECIES
-=======
+# Psora caulophylla (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

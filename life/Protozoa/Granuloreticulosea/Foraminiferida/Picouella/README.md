@@ -1,5 +1,4 @@
-Picouella Andersen, 1997 GENUS
-=======
+# Picouella Andersen, 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caricis-bracteosae Speg. SPECIES
-=======
+# Puccinia caricis-bracteosae Speg. SPECIES
 
 #### Status
 ACCEPTED

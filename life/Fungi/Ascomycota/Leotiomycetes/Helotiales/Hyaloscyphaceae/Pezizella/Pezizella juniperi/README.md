@@ -1,5 +1,4 @@
-Pezizella juniperi Velen. SPECIES
-=======
+# Pezizella juniperi Velen. SPECIES
 
 #### Status
 ACCEPTED

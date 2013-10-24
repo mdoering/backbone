@@ -1,5 +1,4 @@
-Alciphila Harmaja GENUS
-=======
+# Alciphila Harmaja GENUS
 
 #### Status
 ACCEPTED

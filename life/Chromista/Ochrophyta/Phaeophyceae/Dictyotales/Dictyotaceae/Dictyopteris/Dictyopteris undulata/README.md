@@ -1,8 +1,7 @@
-Dictyopteris zonarioides Farlow SPECIES
-=======
+# Dictyopteris undulata Holmes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

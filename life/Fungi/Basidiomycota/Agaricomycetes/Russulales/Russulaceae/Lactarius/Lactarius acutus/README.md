@@ -1,5 +1,4 @@
-Lactarius acutus R. Heim, 1955 SPECIES
-=======
+# Lactarius acutus R. Heim, 1955 SPECIES
 
 #### Status
 ACCEPTED

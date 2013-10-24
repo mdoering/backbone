@@ -1,5 +1,4 @@
-Leptogium digitatum (A. Massal.) Zahlbr. SPECIES
-=======
+# Leptogium digitatum (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aecidium gaeumanni E. Fisch. SPECIES
-=======
+# Aecidium gaeumannii E. Fisch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. schweiz. bot. Ges. 47: 422 (1937)
 
 #### Original name
-Aecidium gaeumanni E. Fisch.
+Aecidium gaeumannii E. Fisch.
 
 ### Remarks
 null

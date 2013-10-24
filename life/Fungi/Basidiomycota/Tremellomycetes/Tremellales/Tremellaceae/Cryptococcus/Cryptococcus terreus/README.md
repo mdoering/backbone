@@ -1,5 +1,4 @@
-Cryptococcus terreus Di Menna, 1954 SPECIES
-=======
+# Cryptococcus terreus Di Menna, 1954 SPECIES
 
 #### Status
 ACCEPTED

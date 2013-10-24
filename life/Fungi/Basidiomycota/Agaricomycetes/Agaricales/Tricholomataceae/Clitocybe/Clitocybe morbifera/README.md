@@ -1,5 +1,4 @@
-Clitocybe morbifera Peck SPECIES
-=======
+# Clitocybe morbifera Peck SPECIES
 
 #### Status
 ACCEPTED

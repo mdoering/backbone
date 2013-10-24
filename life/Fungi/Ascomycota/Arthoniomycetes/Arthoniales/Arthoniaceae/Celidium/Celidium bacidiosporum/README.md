@@ -1,5 +1,4 @@
-Celidium bacidiosporum J. Steiner SPECIES
-=======
+# Celidium bacidiosporum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

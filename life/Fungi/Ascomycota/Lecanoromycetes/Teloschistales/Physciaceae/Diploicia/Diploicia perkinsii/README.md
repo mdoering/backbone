@@ -1,8 +1,7 @@
-Diploicia perkinsi C.W. Dodge SPECIES
-=======
+# Diploicia perkinsii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diploicia perkinsi C.W. Dodge
+Buellia stipitata Riddle
 
 ### Remarks
 null

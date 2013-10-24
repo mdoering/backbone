@@ -1,5 +1,4 @@
-Alinostoma burkli Blatterer & Foissner, 1990 SPECIES
-=======
+# Alinostoma burkli Blatterer & Foissner, 1990 SPECIES
 
 #### Status
 ACCEPTED

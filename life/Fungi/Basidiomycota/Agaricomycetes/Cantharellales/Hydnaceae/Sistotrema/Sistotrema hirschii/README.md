@@ -1,5 +1,4 @@
-Sistotrema hirschii (Donk) Donk SPECIES
-=======
+# Sistotrema hirschii (Donk) Donk SPECIES
 
 #### Status
 ACCEPTED

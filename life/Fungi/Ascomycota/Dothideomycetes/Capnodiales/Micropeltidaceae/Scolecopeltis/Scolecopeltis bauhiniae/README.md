@@ -1,5 +1,4 @@
-Scolecopeltis bauhiniae Henn. SPECIES
-=======
+# Scolecopeltis bauhiniae Henn. SPECIES
 
 #### Status
 ACCEPTED

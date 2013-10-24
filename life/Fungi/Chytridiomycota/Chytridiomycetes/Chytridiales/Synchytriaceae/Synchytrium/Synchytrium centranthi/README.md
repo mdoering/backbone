@@ -1,5 +1,4 @@
-Synchytrium centranthi Rabenh. SPECIES
-=======
+# Synchytrium centranthi Rabenh. SPECIES
 
 #### Status
 ACCEPTED

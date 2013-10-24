@@ -1,17 +1,16 @@
-Blastocladia pringsheimi Reinsch SPECIES
-=======
+# Blastocladia pringsheimii Reinsch, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. wiss. Bot. 11: 367 (1877)
 
 #### Original name
-Blastocladia pringsheimi Reinsch
+Blastocladia pringsheimii Reinsch, 1877
 
 ### Remarks
 null

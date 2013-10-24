@@ -1,5 +1,4 @@
-Leptonia subcoelestina Largent SPECIES
-=======
+# Leptonia subcoelestina Largent SPECIES
 
 #### Status
 ACCEPTED

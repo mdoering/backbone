@@ -1,17 +1,16 @@
-Ricasolia glomulifera var. glomulifera VARIETY
-=======
+# Ricasolia glomulifera SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Ricasolia glomulifera var. glomulifera
+null
 
 ### Remarks
 null

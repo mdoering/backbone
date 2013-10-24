@@ -1,5 +1,4 @@
-Lachnocladium fistulosum Lév. SPECIES
-=======
+# Lachnocladium fistulosum Lév. SPECIES
 
 #### Status
 ACCEPTED

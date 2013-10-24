@@ -1,5 +1,4 @@
-Kodonospora tetracolumnaris K. Ando, 1993 SPECIES
-=======
+# Kodonospora tetracolumnaris K. Ando, 1993 SPECIES
 
 #### Status
 ACCEPTED

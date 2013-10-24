@@ -1,17 +1,16 @@
-Clitopilus noveboracensis var. noveboracensis VARIETY
-=======
+# Clitopilus noveboracensis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 702 (1887)
 
 #### Original name
-null
+Agaricus noveboracensis Peck
 
 ### Remarks
 null

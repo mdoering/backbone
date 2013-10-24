@@ -1,5 +1,4 @@
-Harpella amazonica Ríos-Velásquez, Lichtw., Hamada & Alencar, 2003 SPECIES
-=======
+# Harpella amazonica Ríos-Velásquez, Lichtw., Hamada & Alencar, 2003 SPECIES
 
 #### Status
 ACCEPTED

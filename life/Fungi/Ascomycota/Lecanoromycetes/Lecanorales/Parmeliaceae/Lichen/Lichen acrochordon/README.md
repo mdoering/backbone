@@ -1,5 +1,4 @@
-Lichen acrochordon Vill. SPECIES
-=======
+# Lichen acrochordon Vill. SPECIES
 
 #### Status
 ACCEPTED

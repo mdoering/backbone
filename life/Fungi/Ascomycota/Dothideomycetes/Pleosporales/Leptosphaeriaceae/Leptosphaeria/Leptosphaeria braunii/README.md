@@ -1,17 +1,16 @@
-Leptosphaeria brauni E. Müll. SPECIES
-=======
+# Leptosphaeria braunii E. Müll. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 4(1-6): 246 (1950)
 
 #### Original name
-Leptosphaeria brauni E. Müll.
+Leptosphaeria braunii E. Müll.
 
 ### Remarks
 null

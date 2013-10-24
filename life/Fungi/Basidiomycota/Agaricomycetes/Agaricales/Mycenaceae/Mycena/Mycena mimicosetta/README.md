@@ -1,5 +1,4 @@
-Mycena mimicosetta Desjardin, Boonprat. & Hywel-Jones SPECIES
-=======
+# Mycena mimicosetta Desjardin, Boonprat. & Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

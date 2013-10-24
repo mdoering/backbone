@@ -1,5 +1,4 @@
-Rhizocarpon orphnium SPECIES
-=======
+# Rhizocarpon orphnium SPECIES
 
 #### Status
 ACCEPTED

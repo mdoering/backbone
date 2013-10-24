@@ -1,5 +1,4 @@
-Heterodermia squamulosa (Degel.) W. L. Culb. SPECIES
-=======
+# Heterodermia squamulosa (Degel.) W. L. Culb. SPECIES
 
 #### Status
 ACCEPTED

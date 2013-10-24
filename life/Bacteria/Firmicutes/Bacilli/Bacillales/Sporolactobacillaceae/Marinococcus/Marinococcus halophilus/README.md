@@ -1,8 +1,7 @@
-Planococcus halophilus Novitsky and Kushner, 1976 (Approved Lists, 1980) SPECIES
-=======
+# Marinococcus halophilus (Novitsky & Kushner, 1976) Hao et al., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

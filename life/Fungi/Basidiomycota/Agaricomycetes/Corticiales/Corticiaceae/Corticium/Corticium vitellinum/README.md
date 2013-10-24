@@ -1,5 +1,4 @@
-Corticium vitellinum G. Cunn. SPECIES
-=======
+# Corticium vitellinum G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

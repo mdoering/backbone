@@ -1,5 +1,4 @@
-Puccinia croci-pallasii Savul. SPECIES
-=======
+# Puccinia croci-pallasii Savul. SPECIES
 
 #### Status
 ACCEPTED

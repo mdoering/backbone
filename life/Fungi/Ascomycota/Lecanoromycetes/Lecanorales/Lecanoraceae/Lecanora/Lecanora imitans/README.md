@@ -1,5 +1,4 @@
-Lecanora imitans Nyl. SPECIES
-=======
+# Lecanora imitans Nyl. SPECIES
 
 #### Status
 ACCEPTED

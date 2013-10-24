@@ -1,5 +1,4 @@
-Aspergillus fuscus Bonord. SPECIES
-=======
+# Aspergillus fuscus Bonord. SPECIES
 
 #### Status
 ACCEPTED

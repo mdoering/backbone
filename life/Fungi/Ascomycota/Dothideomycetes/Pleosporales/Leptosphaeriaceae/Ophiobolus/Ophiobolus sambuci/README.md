@@ -1,5 +1,4 @@
-Ophiobolus sambuci Politis SPECIES
-=======
+# Ophiobolus sambuci Politis SPECIES
 
 #### Status
 ACCEPTED

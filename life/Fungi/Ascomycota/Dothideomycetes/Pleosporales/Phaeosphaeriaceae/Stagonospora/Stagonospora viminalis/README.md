@@ -1,5 +1,4 @@
-Stagonospora viminalis Sacc. & Fiori SPECIES
-=======
+# Stagonospora viminalis Sacc. & Fiori SPECIES
 
 #### Status
 ACCEPTED

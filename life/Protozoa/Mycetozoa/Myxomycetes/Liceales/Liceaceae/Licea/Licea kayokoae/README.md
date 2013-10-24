@@ -1,5 +1,4 @@
-Licea kayokoae Y. Yamam., 2000 SPECIES
-=======
+# Licea kayokoae Y. Yamam., 2000 SPECIES
 
 #### Status
 ACCEPTED

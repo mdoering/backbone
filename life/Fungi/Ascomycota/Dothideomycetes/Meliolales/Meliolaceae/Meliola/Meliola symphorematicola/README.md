@@ -1,5 +1,4 @@
-Meliola symphorematicola Hosag., Udaiyan & Goos SPECIES
-=======
+# Meliola symphorematicola Hosag., Udaiyan & Goos SPECIES
 
 #### Status
 ACCEPTED

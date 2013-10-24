@@ -1,5 +1,4 @@
-Ascobius boltoni SPECIES
-=======
+# Ascobius boltoni SPECIES
 
 #### Status
 ACCEPTED

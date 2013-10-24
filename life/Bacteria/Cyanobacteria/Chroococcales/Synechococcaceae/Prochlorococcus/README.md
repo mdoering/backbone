@@ -1,5 +1,4 @@
-Prochlorococcus S.W.Chisholm, S.L.Frankel, R.Goericke, R.J.Olson, B.Palenik, J.B.Waterbury, L.West-Johnsrud & E.R.Zettler, 1992 GENUS
-=======
+# Prochlorococcus S.W.Chisholm, S.L.Frankel, R.Goericke, R.J.Olson, B.Palenik, J.B.Waterbury, L.West-Johnsrud & E.R.Zettler, 1992 GENUS
 
 #### Status
 ACCEPTED

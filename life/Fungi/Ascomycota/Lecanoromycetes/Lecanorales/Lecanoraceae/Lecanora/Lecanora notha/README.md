@@ -1,5 +1,4 @@
-Lecanora notha Müll. Arg. SPECIES
-=======
+# Lecanora notha Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

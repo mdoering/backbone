@@ -1,5 +1,4 @@
-Ferrimonadaceae FAMILY
-=======
+# Ferrimonadaceae FAMILY
 
 #### Status
 ACCEPTED

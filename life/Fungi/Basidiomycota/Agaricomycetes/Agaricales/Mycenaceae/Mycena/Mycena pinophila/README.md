@@ -1,5 +1,4 @@
-Mycena pinophila M. Villarreal, Arenal & V. Rubio SPECIES
-=======
+# Mycena pinophila M. Villarreal, Arenal & V. Rubio SPECIES
 
 #### Status
 ACCEPTED

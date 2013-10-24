@@ -1,5 +1,4 @@
-Mycena februaria Singer SPECIES
-=======
+# Mycena februaria Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Urceolaria epiglypta (Norrl.) Motyka SPECIES
-=======
+# Aspicilia epiglypta (Norrl. ex Nyl.) Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Porosty (Lichenes). <b>2</b> (Lublin), Rodzina <i>Lecanoraceae</i>. <i>Pinacisca</i>, <i>Lecidorina</i>, <i>Urceolaria</i>, <i>Semilecanora</i>, <i>Paraplacodium</i>, <i>Koerberiella</i>, <i>Lecidora</i>, <i>Pseudoplacodium</i>, <i>Tephromela</i> 147 (1996)
+Nouvelles archives du Museum d'Histoire Naturelle, Paris, 5 Série 2: 7 (1912)
 
 #### Original name
 Lecanora epiglypta Norrl. ex Nyl.

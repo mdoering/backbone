@@ -1,5 +1,4 @@
-Syntrophomonadaceae FAMILY
-=======
+# Syntrophomonadaceae FAMILY
 
 #### Status
 ACCEPTED

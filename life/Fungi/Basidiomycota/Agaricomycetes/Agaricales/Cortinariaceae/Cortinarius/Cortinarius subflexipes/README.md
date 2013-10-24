@@ -1,5 +1,4 @@
-Cortinarius subflexipes Peck SPECIES
-=======
+# Cortinarius subflexipes Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosporium paulsenii Rostr. SPECIES
-=======
+# Heterosporium paulsenii Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spegazziniella bauhiniicola Bat. SPECIES
-=======
+# Spegazziniella bauhiniicola Bat. SPECIES
 
 #### Status
 ACCEPTED

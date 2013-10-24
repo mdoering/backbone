@@ -1,5 +1,4 @@
-Byssolecania fuscolivida Vain. SPECIES
-=======
+# Byssolecania fuscolivida Vain. SPECIES
 
 #### Status
 ACCEPTED

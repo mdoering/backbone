@@ -1,17 +1,16 @@
-Hemitrichia stipata var. stipata (Schwein.) T. Macbr. VARIETY
-=======
+# Arcyria stipata (Schwein.) Lister, 1894 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Slime-Moulds (New York) 204 (1899)
+Monogr. Mycetozoa (London) 189 (1894)
 
 #### Original name
-Hemitrichia stipata var. stipata (Schwein.) T. Macbr.
+Leangium stipatum Schwein., 1832
 
 ### Remarks
 null

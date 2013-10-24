@@ -1,5 +1,4 @@
-Thrombium endolithicum H. Magn. SPECIES
-=======
+# Thrombium endolithicum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

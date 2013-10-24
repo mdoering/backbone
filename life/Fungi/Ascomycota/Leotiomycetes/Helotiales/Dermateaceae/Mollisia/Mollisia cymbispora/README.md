@@ -1,5 +1,4 @@
-Mollisia cymbispora Rostr. SPECIES
-=======
+# Mollisia cymbispora Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia semota H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia semota H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

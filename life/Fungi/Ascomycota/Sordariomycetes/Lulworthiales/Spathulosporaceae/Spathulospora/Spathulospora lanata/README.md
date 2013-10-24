@@ -1,5 +1,4 @@
-Spathulospora lanata Kohlm., 1973 SPECIES
-=======
+# Spathulospora lanata Kohlm., 1973 SPECIES
 
 #### Status
 ACCEPTED

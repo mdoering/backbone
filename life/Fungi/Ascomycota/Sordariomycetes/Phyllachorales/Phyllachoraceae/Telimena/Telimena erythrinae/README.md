@@ -1,5 +1,4 @@
-Telimena erythrinae Racib., 1900 SPECIES
-=======
+# Telimena erythrinae Racib., 1900 SPECIES
 
 #### Status
 ACCEPTED

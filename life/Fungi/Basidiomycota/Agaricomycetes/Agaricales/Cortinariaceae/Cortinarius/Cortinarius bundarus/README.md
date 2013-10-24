@@ -1,5 +1,4 @@
-Cortinarius bundarus Grgur. SPECIES
-=======
+# Cortinarius bundarus Grgur. SPECIES
 
 #### Status
 ACCEPTED

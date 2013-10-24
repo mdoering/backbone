@@ -1,5 +1,4 @@
-Cubotholura Haeckel, 1887 GENUS
-=======
+# Cubotholura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

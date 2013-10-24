@@ -1,5 +1,4 @@
-Polykrikos kofoidii Chatton SPECIES
-=======
+# Polykrikos kofoidii Chatton SPECIES
 
 #### Status
 ACCEPTED

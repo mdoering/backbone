@@ -1,5 +1,4 @@
-Cercospora polygoni-multiflori S.Q. Chen & P.K. Chi SPECIES
-=======
+# Cercospora polygoni-multiflori S.Q. Chen & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

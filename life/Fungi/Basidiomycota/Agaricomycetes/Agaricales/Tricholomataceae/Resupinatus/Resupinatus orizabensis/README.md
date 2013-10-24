@@ -1,5 +1,4 @@
-Resupinatus orizabensis Murrill SPECIES
-=======
+# Resupinatus orizabensis Murrill SPECIES
 
 #### Status
 ACCEPTED

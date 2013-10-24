@@ -1,5 +1,4 @@
-Helvella planus Huds. SPECIES
-=======
+# Helvella planus Huds. SPECIES
 
 #### Status
 ACCEPTED

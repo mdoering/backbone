@@ -1,17 +1,16 @@
-Hyphodontia niemelaei subsp. niemelaei Sheng H. Wu SUBSPECIES
-=======
+# Hyphodontia niemelaei Sheng H. Wu, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Acta bot. fenn. 142: 98 (1990)
 
 #### Original name
-Hyphodontia niemelaei subsp. niemelaei Sheng H. Wu
+Hyphodontia niemelaei Sheng H. Wu, 1990
 
 ### Remarks
 null

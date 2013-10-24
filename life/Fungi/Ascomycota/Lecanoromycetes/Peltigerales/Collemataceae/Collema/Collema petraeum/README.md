@@ -1,5 +1,4 @@
-Collema petraeum Sommerf. SPECIES
-=======
+# Collema petraeum Sommerf. SPECIES
 
 #### Status
 ACCEPTED

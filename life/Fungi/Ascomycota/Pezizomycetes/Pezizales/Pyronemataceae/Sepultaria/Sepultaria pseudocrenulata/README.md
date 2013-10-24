@@ -1,5 +1,4 @@
-Sepultaria pseudocrenulata Clem. SPECIES
-=======
+# Sepultaria pseudocrenulata Clem. SPECIES
 
 #### Status
 ACCEPTED

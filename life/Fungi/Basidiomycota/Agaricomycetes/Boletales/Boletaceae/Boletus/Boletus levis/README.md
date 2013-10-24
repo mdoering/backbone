@@ -1,5 +1,4 @@
-Boletus levis Fr. SPECIES
-=======
+# Boletus levis Fr. SPECIES
 
 #### Status
 ACCEPTED

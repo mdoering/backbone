@@ -1,17 +1,16 @@
-Helmisporium lumbricoideum Dearn. SPECIES
-=======
+# Helminthosporium lumbricoideum Dearn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 21(6): 330 (1929)
 
 #### Original name
-Helmisporium lumbricoideum Dearn.
+Helminthosporium lumbricoideum Dearn.
 
 ### Remarks
 null

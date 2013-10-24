@@ -1,5 +1,4 @@
-Monilia parabalcanica Castell. SPECIES
-=======
+# Monilia parabalcanica Castell. SPECIES
 
 #### Status
 ACCEPTED

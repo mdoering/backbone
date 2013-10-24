@@ -1,14 +1,13 @@
-Murrayella Kofoid, 1907 GENUS
-=======
+# Pavillardinium De-Toni, 1936 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Mus. comp. Zool. Harvard, 50, 191.
+null
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Sistotrema hamatum Nawawi & J. Webster, 1982 SPECIES
-=======
+# Sistotrema hamatum Nawawi & J. Webster, 1982 SPECIES
 
 #### Status
 ACCEPTED

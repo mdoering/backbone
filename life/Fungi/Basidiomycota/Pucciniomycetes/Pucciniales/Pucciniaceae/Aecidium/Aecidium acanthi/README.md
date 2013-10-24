@@ -1,5 +1,4 @@
-Aecidium acanthi A.L. Sm. SPECIES
-=======
+# Aecidium acanthi A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

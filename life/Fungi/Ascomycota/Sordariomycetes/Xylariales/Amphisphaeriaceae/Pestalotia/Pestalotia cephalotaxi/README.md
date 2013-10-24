@@ -1,5 +1,4 @@
-Pestalotia cephalotaxi Sawada SPECIES
-=======
+# Pestalotia cephalotaxi Sawada SPECIES
 
 #### Status
 ACCEPTED

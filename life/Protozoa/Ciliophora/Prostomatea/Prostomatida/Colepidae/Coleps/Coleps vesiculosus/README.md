@@ -1,5 +1,4 @@
-Coleps vesiculosus Lepsi, 1962 SPECIES
-=======
+# Coleps vesiculosus Lepsi, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella fulvoumbrina A.H. Sm. SPECIES
-=======
+# Psathyrella fulvoumbrina A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

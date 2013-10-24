@@ -1,5 +1,4 @@
-Scolicosporium phoebes T.S. Ramakr. SPECIES
-=======
+# Scolicosporium phoebes T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

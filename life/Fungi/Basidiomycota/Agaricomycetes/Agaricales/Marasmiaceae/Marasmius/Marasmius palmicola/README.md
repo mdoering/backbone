@@ -1,5 +1,4 @@
-Marasmius palmicola Henn. SPECIES
-=======
+# Marasmius palmicola Henn. SPECIES
 
 #### Status
 ACCEPTED

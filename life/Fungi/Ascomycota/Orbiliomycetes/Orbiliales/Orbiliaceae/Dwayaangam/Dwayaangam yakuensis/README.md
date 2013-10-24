@@ -1,5 +1,4 @@
-Dwayaangam yakuensis (Matsush.) Matsush. SPECIES
-=======
+# Dwayaangam yakuensis (Matsush.) Matsush. SPECIES
 
 #### Status
 ACCEPTED

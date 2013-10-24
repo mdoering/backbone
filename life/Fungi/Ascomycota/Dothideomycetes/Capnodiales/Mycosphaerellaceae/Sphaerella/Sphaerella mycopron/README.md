@@ -1,5 +1,4 @@
-Sphaerella mycopron Pat. SPECIES
-=======
+# Sphaerella mycopron Pat. SPECIES
 
 #### Status
 ACCEPTED

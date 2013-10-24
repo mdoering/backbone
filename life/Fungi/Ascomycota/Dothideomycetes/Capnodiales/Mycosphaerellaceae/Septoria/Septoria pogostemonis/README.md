@@ -1,17 +1,16 @@
-Septoria pogostemoniae R.K. Verma, Kamal & M.K. Khan SPECIES
-=======
+# Septoria pogostemonis R.K. Verma, Kamal & M.K. Khan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 41(1): 28 (1988)
 
 #### Original name
-Septoria pogostemoniae R.K. Verma, Kamal & M.K. Khan
+Septoria pogostemonis R.K. Verma, Kamal & M.K. Khan
 
 ### Remarks
 null

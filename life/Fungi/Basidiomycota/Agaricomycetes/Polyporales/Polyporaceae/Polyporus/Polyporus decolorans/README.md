@@ -1,5 +1,4 @@
-Polyporus decolorans Schwein. SPECIES
-=======
+# Polyporus decolorans Schwein. SPECIES
 
 #### Status
 ACCEPTED

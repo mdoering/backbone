@@ -1,5 +1,4 @@
-Flammula nitens (Cooke & Massee) Sacc. SPECIES
-=======
+# Flammula nitens (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

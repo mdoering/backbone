@@ -1,5 +1,4 @@
-Trypethelium brachysporum Malme SPECIES
-=======
+# Trypethelium brachysporum Malme SPECIES
 
 #### Status
 ACCEPTED

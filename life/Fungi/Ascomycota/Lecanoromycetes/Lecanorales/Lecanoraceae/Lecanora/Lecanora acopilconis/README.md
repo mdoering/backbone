@@ -1,5 +1,4 @@
-Lecanora acopilconis B. de Lesd. SPECIES
-=======
+# Lecanora acopilconis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

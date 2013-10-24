@@ -1,5 +1,4 @@
-Urocystis aurea Vánky, 2004 SPECIES
-=======
+# Urocystis aurea Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

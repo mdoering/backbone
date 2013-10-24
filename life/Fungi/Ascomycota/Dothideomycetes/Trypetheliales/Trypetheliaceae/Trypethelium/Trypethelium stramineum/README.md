@@ -1,5 +1,4 @@
-Trypethelium stramineum Kremp. SPECIES
-=======
+# Trypethelium stramineum Kremp. SPECIES
 
 #### Status
 ACCEPTED

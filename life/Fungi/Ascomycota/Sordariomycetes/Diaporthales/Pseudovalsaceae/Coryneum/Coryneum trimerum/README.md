@@ -1,5 +1,4 @@
-Coryneum trimerum Sacc. SPECIES
-=======
+# Coryneum trimerum Sacc. SPECIES
 
 #### Status
 ACCEPTED

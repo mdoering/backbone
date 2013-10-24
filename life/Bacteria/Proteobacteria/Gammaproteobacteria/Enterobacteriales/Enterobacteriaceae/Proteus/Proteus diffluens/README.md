@@ -1,5 +1,4 @@
-Proteus diffluens SPECIES
-=======
+# Proteus diffluens SPECIES
 
 #### Status
 ACCEPTED

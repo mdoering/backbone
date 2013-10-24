@@ -1,5 +1,4 @@
-Verrucaria cellulosa C. Knight SPECIES
-=======
+# Verrucaria cellulosa C. Knight SPECIES
 
 #### Status
 ACCEPTED

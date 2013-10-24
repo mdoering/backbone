@@ -1,5 +1,4 @@
-Macrophoma subconica Ellis & Everh. SPECIES
-=======
+# Macrophoma subconica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

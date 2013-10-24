@@ -1,17 +1,16 @@
-Cortinarius perviolacea Murrill SPECIES
-=======
+# Cortinarius perviolaceus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 8: 283 (1946)
 
 #### Original name
-Cortinarius perviolacea Murrill
+Cortinarius perviolaceus Murrill
 
 ### Remarks
 null

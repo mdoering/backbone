@@ -1,5 +1,4 @@
-Rickettsia bellii Philip et al., 1983 SPECIES
-=======
+# Rickettsia bellii Philip et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

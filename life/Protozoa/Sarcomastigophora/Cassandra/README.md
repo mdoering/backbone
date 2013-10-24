@@ -1,5 +1,4 @@
-Cassandra Gudina & Saidova in Gudina, Saidova & Troitskaya, 1968 GENUS
-=======
+# Cassandra Gudina & Saidova in Gudina, Saidova & Troitskaya, 1968 GENUS
 
 #### Status
 ACCEPTED

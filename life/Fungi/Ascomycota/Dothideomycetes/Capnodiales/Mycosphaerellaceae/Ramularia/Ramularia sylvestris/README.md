@@ -1,5 +1,4 @@
-Ramularia sylvestris Sacc., 1880 SPECIES
-=======
+# Ramularia sylvestris Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

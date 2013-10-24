@@ -1,5 +1,4 @@
-Lasiosphaeria stannea (Fr.) Sacc. SPECIES
-=======
+# Lasiosphaeria stannea (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

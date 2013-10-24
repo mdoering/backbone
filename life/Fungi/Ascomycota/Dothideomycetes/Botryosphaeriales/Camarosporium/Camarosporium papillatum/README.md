@@ -1,5 +1,4 @@
-Camarosporium papillatum (Preuss) Sacc. SPECIES
-=======
+# Camarosporium papillatum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

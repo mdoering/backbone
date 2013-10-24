@@ -1,5 +1,4 @@
-Parmelia leiocarpodes Zahlbr. SPECIES
-=======
+# Parmelia leiocarpodes Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

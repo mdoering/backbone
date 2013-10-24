@@ -1,5 +1,4 @@
-Erineum quercus-cinereae Schwein. SPECIES
-=======
+# Erineum quercus-cinereae Schwein. SPECIES
 
 #### Status
 ACCEPTED

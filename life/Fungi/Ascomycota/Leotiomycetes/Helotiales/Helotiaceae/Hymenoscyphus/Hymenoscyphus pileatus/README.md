@@ -1,14 +1,13 @@
-Helotium pileatum (P. Karst.) P. Karst., 1871 SPECIES
-=======
+# Hymenoscyphus pileatus (P. Karst.) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): (1898)
 
 #### Original name
 null

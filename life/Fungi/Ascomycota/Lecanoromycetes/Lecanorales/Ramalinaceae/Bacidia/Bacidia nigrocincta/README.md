@@ -1,5 +1,4 @@
-Bacidia nigrocincta (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia nigrocincta (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

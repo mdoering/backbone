@@ -1,5 +1,4 @@
-Lecanora firma SPECIES
-=======
+# Lecanora firma SPECIES
 
 #### Status
 ACCEPTED

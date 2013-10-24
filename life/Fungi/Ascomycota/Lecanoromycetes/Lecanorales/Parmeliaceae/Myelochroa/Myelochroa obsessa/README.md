@@ -1,17 +1,16 @@
-Parmelia obsessa Ach. SPECIES
-=======
+# Myelochroa obsessa (Ach.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 241 (1987)
 
 #### Original name
-null
+Parmelia obsessa Ach.
 
 ### Remarks
 null

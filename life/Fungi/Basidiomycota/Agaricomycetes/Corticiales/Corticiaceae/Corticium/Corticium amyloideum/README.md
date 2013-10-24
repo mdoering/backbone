@@ -1,5 +1,4 @@
-Corticium amyloideum G. Cunn. SPECIES
-=======
+# Corticium amyloideum G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

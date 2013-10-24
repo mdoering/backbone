@@ -1,5 +1,4 @@
-Stagonospora mucipara Sacc. SPECIES
-=======
+# Stagonospora mucipara Sacc. SPECIES
 
 #### Status
 ACCEPTED

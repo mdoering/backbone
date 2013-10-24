@@ -1,5 +1,4 @@
-Eutypella lycii Doidge SPECIES
-=======
+# Eutypella lycii Doidge SPECIES
 
 #### Status
 ACCEPTED

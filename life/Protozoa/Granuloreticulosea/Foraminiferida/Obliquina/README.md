@@ -1,5 +1,4 @@
-Obliquina Seguenza, 1862 GENUS
-=======
+# Obliquina Seguenza, 1862 GENUS
 
 #### Status
 ACCEPTED

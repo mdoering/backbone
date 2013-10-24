@@ -1,5 +1,4 @@
-Agaricus rubribrunnescens Murrill SPECIES
-=======
+# Agaricus rubribrunnescens Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria triqua Samuels SPECIES
-=======
+# Nectria triqua Samuels SPECIES
 
 #### Status
 ACCEPTED

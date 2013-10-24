@@ -1,5 +1,4 @@
-Dictyococcites minutus (B.U. Haq) B.U. Haq, G.P. Lohmann & S.W. Wise SPECIES
-=======
+# Dictyococcites minutus (B.U. Haq) B.U. Haq, G.P. Lohmann & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

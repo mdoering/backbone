@@ -1,5 +1,4 @@
-Schismatomma subrimatum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma subrimatum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

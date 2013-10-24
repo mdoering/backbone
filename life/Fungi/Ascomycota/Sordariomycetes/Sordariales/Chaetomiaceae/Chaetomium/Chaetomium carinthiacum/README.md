@@ -1,5 +1,4 @@
-Chaetomium carinthiacum Sörgel, 1961 SPECIES
-=======
+# Chaetomium carinthiacum Sörgel, 1961 SPECIES
 
 #### Status
 ACCEPTED

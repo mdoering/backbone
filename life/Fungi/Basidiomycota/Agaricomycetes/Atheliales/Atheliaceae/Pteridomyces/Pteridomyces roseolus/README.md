@@ -1,5 +1,4 @@
-Pteridomyces roseolus Boidin & Lanq., 1983 SPECIES
-=======
+# Pteridomyces roseolus Boidin & Lanq., 1983 SPECIES
 
 #### Status
 ACCEPTED

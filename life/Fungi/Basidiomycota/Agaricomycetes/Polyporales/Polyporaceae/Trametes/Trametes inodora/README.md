@@ -1,5 +1,4 @@
-Trametes inodora Fr. SPECIES
-=======
+# Trametes inodora Fr. SPECIES
 
 #### Status
 ACCEPTED

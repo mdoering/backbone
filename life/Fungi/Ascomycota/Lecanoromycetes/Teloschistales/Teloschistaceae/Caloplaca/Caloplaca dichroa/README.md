@@ -1,5 +1,4 @@
-Caloplaca dichroa Arup SPECIES
-=======
+# Caloplaca dichroa Arup SPECIES
 
 #### Status
 ACCEPTED

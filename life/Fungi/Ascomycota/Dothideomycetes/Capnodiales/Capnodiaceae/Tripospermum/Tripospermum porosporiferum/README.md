@@ -1,5 +1,4 @@
-Tripospermum porosporiferum Matsush. SPECIES
-=======
+# Tripospermum porosporiferum Matsush. SPECIES
 
 #### Status
 ACCEPTED

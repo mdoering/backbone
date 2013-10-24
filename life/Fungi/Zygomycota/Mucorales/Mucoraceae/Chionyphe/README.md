@@ -1,5 +1,4 @@
-Chionyphe GENUS
-=======
+# Chionyphe GENUS
 
 #### Status
 ACCEPTED

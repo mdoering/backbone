@@ -1,5 +1,4 @@
-Pertusaria leiocarpella Müll. Arg. SPECIES
-=======
+# Pertusaria leiocarpella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium andropogonis-eucomi Vánky, 2006 SPECIES
-=======
+# Sporisorium andropogonis-eucomi Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

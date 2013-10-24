@@ -1,5 +1,4 @@
-Armillaria atkinsoniana (Coker) Locq. SPECIES
-=======
+# Armillaria atkinsoniana (Coker) Locq. SPECIES
 
 #### Status
 ACCEPTED

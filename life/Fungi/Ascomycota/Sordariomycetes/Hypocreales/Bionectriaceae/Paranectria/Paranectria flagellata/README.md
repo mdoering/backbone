@@ -1,5 +1,4 @@
-Paranectria flagellata Hansf. SPECIES
-=======
+# Paranectria flagellata Hansf. SPECIES
 
 #### Status
 ACCEPTED

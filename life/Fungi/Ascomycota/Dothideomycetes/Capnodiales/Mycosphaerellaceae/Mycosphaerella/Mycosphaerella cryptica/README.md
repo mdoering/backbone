@@ -1,14 +1,13 @@
-Sphaerella cryptica Cooke, 1891 SPECIES
-=======
+# Mycosphaerella cryptica (Cooke) Hansf., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 20(no. 93): 5 (1891)
+Proc. Linn. Soc. N. S. W. 81: 35 (1956)
 
 #### Original name
 Sphaerella cryptica Cooke, 1891

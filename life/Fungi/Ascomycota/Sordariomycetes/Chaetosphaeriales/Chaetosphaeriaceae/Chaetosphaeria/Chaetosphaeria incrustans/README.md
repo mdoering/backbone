@@ -1,5 +1,4 @@
-Chaetosphaeria incrustans Rick SPECIES
-=======
+# Chaetosphaeria incrustans Rick SPECIES
 
 #### Status
 ACCEPTED

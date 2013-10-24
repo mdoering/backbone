@@ -1,5 +1,4 @@
-Clavaria subdecurrens Coker SPECIES
-=======
+# Clavaria subdecurrens Coker SPECIES
 
 #### Status
 ACCEPTED

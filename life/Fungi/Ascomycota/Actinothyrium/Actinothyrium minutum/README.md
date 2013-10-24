@@ -1,5 +1,4 @@
-Actinothyrium minutum Höhn. SPECIES
-=======
+# Actinothyrium minutum Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus umbrinellus Bres. SPECIES
-=======
+# Polystictus umbrinellus Bres. SPECIES
 
 #### Status
 ACCEPTED

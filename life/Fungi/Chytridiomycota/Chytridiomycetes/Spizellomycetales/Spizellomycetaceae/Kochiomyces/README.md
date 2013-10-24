@@ -1,5 +1,4 @@
-Kochiomyces D.J.S. Barr GENUS
-=======
+# Kochiomyces D.J.S. Barr GENUS
 
 #### Status
 ACCEPTED

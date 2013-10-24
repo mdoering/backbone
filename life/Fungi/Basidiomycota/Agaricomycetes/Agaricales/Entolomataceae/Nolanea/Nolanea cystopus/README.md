@@ -1,5 +1,4 @@
-Nolanea cystopus (Berk.) Pegler SPECIES
-=======
+# Nolanea cystopus (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

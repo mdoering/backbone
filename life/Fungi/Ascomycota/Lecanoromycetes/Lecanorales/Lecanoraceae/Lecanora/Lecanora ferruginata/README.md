@@ -1,5 +1,4 @@
-Lecanora ferruginata Harm. SPECIES
-=======
+# Lecanora ferruginata Harm. SPECIES
 
 #### Status
 ACCEPTED

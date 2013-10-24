@@ -1,5 +1,4 @@
-Paramecium marinum Kent, 1881 SPECIES
-=======
+# Paramecium marinum Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta tenerifensis Jørst. SPECIES
-=======
+# Ascochyta tenerifensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

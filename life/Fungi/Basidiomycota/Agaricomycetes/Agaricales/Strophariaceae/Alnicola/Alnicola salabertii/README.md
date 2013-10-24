@@ -1,5 +1,4 @@
-Alnicola salabertii Bon & Boutev. ex P.-A. Moreau & Guy Garcia SPECIES
-=======
+# Alnicola salabertii Bon & Boutev. ex P.-A. Moreau & Guy Garcia SPECIES
 
 #### Status
 ACCEPTED

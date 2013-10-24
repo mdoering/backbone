@@ -1,5 +1,4 @@
-Tamlana Lee, 2007 GENUS
-=======
+# Tamlana Lee, 2007 GENUS
 
 #### Status
 ACCEPTED

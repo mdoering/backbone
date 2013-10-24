@@ -1,17 +1,16 @@
-Toninia oribata (Nyl.) P. James SPECIES
-=======
+# Toninia coelestina (Anzi) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 3: 98 (1965)
+Acta Mus. Silesiae, Ser. A 10: 105 (1961)
 
 #### Original name
-Lecidea oribata Nyl.
+Bacidia coelestina Anzi
 
 ### Remarks
 null

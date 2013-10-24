@@ -1,5 +1,4 @@
-Quaternaria novae-granatae Fuckel SPECIES
-=======
+# Quaternaria novae-granatae Fuckel SPECIES
 
 #### Status
 ACCEPTED

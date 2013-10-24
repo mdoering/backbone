@@ -1,5 +1,4 @@
-Aessosporon salmonicolor Van der Walt, 1970 SPECIES
-=======
+# Aessosporon salmonicolor Van der Walt, 1970 SPECIES
 
 #### Status
 ACCEPTED

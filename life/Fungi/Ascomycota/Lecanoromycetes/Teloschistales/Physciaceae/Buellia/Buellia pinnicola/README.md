@@ -1,5 +1,4 @@
-Buellia pinnicola C.W. Dodge SPECIES
-=======
+# Buellia pinnicola C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia puyae Speg. SPECIES
-=======
+# Microthelia puyae Speg. SPECIES
 
 #### Status
 ACCEPTED

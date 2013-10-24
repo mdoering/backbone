@@ -1,5 +1,4 @@
-Valsa maclurae Fabre SPECIES
-=======
+# Valsa maclurae Fabre SPECIES
 
 #### Status
 ACCEPTED

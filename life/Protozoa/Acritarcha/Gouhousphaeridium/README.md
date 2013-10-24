@@ -1,5 +1,4 @@
-Gouhousphaeridium Yang Qinghe in Yang Qinghe et al., 1980 GENUS
-=======
+# Gouhousphaeridium Yang Qinghe in Yang Qinghe et al., 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lingulamoeba Sawyer, 1975 GENUS
-=======
+# Lingulamoeba Sawyer, 1975 GENUS
 
 #### Status
 ACCEPTED

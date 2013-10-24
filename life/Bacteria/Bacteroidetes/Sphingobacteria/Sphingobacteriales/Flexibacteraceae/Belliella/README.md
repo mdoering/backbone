@@ -1,5 +1,4 @@
-Belliella Brettar, Christen & Hofle, 2004 GENUS
-=======
+# Belliella Brettar, Christen & Hofle, 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizoxylon alboatrum Rehm SPECIES
-=======
+# Schizoxylon alboatrum Rehm SPECIES
 
 #### Status
 ACCEPTED

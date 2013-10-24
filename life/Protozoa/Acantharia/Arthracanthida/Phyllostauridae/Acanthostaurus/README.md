@@ -1,5 +1,4 @@
-Acanthostaurus Haeckel, 1862 GENUS
-=======
+# Acanthostaurus Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

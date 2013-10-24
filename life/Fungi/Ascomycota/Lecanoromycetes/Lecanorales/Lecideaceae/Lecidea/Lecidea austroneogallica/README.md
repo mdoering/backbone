@@ -1,5 +1,4 @@
-Lecidea austroneogallica M. Choisy SPECIES
-=======
+# Lecidea austroneogallica M. Choisy SPECIES
 
 #### Status
 ACCEPTED

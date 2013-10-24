@@ -1,5 +1,4 @@
-Pertusaria cupularis C. Knight SPECIES
-=======
+# Pertusaria cupularis C. Knight SPECIES
 
 #### Status
 ACCEPTED

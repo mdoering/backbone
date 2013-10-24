@@ -1,5 +1,4 @@
-Bakuella walibonensis SPECIES
-=======
+# Bakuella walibonensis SPECIES
 
 #### Status
 ACCEPTED

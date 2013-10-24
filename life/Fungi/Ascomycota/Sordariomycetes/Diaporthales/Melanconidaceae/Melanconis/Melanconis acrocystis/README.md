@@ -1,5 +1,4 @@
-Melanconis acrocystis (Peck) Ellis & Everh. SPECIES
-=======
+# Melanconis acrocystis (Peck) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

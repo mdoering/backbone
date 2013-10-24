@@ -1,5 +1,4 @@
-Verrucaria gemellipara Nyl. SPECIES
-=======
+# Verrucaria gemellipara Nyl. SPECIES
 
 #### Status
 ACCEPTED

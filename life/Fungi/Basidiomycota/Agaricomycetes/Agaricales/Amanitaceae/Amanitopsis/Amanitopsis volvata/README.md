@@ -1,5 +1,4 @@
-Amanitopsis volvata (Peck) Sacc. SPECIES
-=======
+# Amanitopsis volvata (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

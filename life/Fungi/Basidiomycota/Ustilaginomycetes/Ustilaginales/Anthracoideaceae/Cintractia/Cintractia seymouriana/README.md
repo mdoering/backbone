@@ -1,5 +1,4 @@
-Cintractia seymouriana Magnus SPECIES
-=======
+# Cintractia seymouriana Magnus SPECIES
 
 #### Status
 ACCEPTED

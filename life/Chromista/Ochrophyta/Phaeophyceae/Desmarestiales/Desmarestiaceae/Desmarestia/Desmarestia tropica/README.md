@@ -1,5 +1,4 @@
-Desmarestia tropica W.R. Taylor SPECIES
-=======
+# Desmarestia tropica W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

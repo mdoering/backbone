@@ -1,5 +1,4 @@
-Vorticella telescopioides Sramek-Husek, 1948 SPECIES
-=======
+# Vorticella telescopioides Sramek-Husek, 1948 SPECIES
 
 #### Status
 ACCEPTED

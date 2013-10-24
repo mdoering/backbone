@@ -1,8 +1,7 @@
-Haemophilus segnis Kilian, 1977 (Approved Lists, 1980) SPECIES
-=======
+# Aggregatibacter segnis (Kilian, 1977) Nørskov-Lauritsen & Kilian, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

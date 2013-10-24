@@ -1,5 +1,4 @@
-Phlegmacium amurceum (Fr.) M.M. Moser SPECIES
-=======
+# Phlegmacium amurceum (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

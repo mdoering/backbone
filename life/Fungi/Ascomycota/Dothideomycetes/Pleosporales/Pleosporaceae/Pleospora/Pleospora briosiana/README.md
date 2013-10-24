@@ -1,5 +1,4 @@
-Pleospora briosiana Maffei SPECIES
-=======
+# Pleospora briosiana Maffei SPECIES
 
 #### Status
 ACCEPTED

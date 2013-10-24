@@ -1,5 +1,4 @@
-Dicaeoma pulchellum (Peck) Kuntze SPECIES
-=======
+# Dicaeoma pulchellum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

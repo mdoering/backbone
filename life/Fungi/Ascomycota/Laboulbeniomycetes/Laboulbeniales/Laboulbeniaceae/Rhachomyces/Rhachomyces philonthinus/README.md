@@ -1,5 +1,4 @@
-Rhachomyces philonthinus Thaxt., 1900 SPECIES
-=======
+# Rhachomyces philonthinus Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthomendoza subramulosa (Räsänen) Søchting, Kärnefelt & S.Y. Kondr. SPECIES
-=======
+# Xanthomendoza subramulosa (Räsänen) Søchting, Kärnefelt & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phomopsis tamarindii A. Arya, C. Arya, R. Agarwal & B. Lal SPECIES
-=======
+# Phomopsis tamarindi A. Arya, C. Arya, R. Agarwal & B. Lal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+National Academy Science Letters 22(9 & 10): 153 (1999)
 
 #### Original name
-Phomopsis tamarindii A. Arya, C. Arya, R. Agarwal & B. Lal
+Phomopsis tamarindi A. Arya, C. Arya, R. Agarwal & B. Lal
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cordierites guyanensis Mont. SPECIES
-=======
+# Cordierites guyanensis Mont. SPECIES
 
 #### Status
 ACCEPTED

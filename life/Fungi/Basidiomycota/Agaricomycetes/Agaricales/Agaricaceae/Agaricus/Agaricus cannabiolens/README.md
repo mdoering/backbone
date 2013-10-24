@@ -1,5 +1,4 @@
-Agaricus cannabiolens Secr. SPECIES
-=======
+# Agaricus cannabiolens Secr. SPECIES
 
 #### Status
 ACCEPTED

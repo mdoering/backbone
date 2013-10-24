@@ -1,5 +1,4 @@
-Canavirgella W. Merr., N.G. Wenner & Dreisbach GENUS
-=======
+# Canavirgella W. Merr., N.G. Wenner & Dreisbach GENUS
 
 #### Status
 ACCEPTED

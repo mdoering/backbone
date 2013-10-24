@@ -1,5 +1,4 @@
-Pennella Manier, 1968 GENUS
-=======
+# Pennella Manier, 1968 GENUS
 
 #### Status
 ACCEPTED

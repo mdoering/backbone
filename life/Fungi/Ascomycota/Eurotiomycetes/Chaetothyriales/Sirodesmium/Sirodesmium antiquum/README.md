@@ -1,5 +1,4 @@
-Sirodesmium antiquum var. antiquum VARIETY
-=======
+# Sirodesmium antiquum Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sirodesmium antiquum var. antiquum
+Sirodesmium antiquum Sacc.
 
 ### Remarks
 null

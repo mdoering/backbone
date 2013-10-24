@@ -1,5 +1,4 @@
-Psilocybe stuntzii Guzmán & J. Ott, 1977 SPECIES
-=======
+# Psilocybe stuntzii Guzmán & J. Ott, 1977 SPECIES
 
 #### Status
 ACCEPTED

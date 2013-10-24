@@ -1,5 +1,4 @@
-Pseudocercospora boehmeriigena U. Braun SPECIES
-=======
+# Pseudocercospora boehmeriigena U. Braun SPECIES
 
 #### Status
 ACCEPTED

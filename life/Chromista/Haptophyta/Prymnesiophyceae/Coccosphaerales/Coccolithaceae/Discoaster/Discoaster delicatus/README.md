@@ -1,5 +1,4 @@
-Discoaster delicatus Bramlette & Sullivan, 1961 SPECIES
-=======
+# Discoaster delicatus Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

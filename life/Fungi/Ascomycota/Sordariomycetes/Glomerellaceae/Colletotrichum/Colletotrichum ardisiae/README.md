@@ -1,5 +1,4 @@
-Colletotrichum ardisiae C.C. Chen SPECIES
-=======
+# Colletotrichum ardisiae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

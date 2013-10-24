@@ -1,14 +1,13 @@
-Ocellaria rubra (Fuckel) Sacc. SPECIES
-=======
+# Habrostictis rubra Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 656 (1889)
+Jb. nassau. Ver. Naturk. 23-24: 249 (1870)
 
 #### Original name
 Habrostictis rubra Fuckel, 1870

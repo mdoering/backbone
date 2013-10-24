@@ -1,5 +1,4 @@
-Marasmius nugatorius Corner SPECIES
-=======
+# Marasmius nugatorius Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia pseudocoerulea (Zahlbr.) Szatala SPECIES
-=======
+# Aspicilia pseudocoerulea (Zahlbr.) Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mutinus proximus Berk. SPECIES
-=======
+# Mutinus proximus Berk. SPECIES
 
 #### Status
 ACCEPTED

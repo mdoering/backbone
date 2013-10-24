@@ -1,5 +1,4 @@
-Clostridium disporicum Horn, 1987 SPECIES
-=======
+# Clostridium disporicum Horn, 1987 SPECIES
 
 #### Status
 ACCEPTED

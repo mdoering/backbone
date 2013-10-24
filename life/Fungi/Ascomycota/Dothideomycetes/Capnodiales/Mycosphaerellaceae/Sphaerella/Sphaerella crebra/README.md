@@ -1,5 +1,4 @@
-Sphaerella crebra Fautrey & Lambotte SPECIES
-=======
+# Sphaerella crebra Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

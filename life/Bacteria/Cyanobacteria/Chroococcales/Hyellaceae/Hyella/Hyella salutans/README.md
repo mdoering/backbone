@@ -1,5 +1,4 @@
-Hyella salutans Al-Thukair & Golubic SPECIES
-=======
+# Hyella salutans Al-Thukair & Golubic SPECIES
 
 #### Status
 ACCEPTED

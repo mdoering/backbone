@@ -1,17 +1,16 @@
-Helmisporium caryopsidum Sacc. SPECIES
-=======
+# Helminthosporium caryopsidum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 12(3): 313 (1914)
 
 #### Original name
-Helmisporium caryopsidum Sacc.
+Helminthosporium caryopsidum Sacc.
 
 ### Remarks
 null

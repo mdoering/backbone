@@ -1,5 +1,4 @@
-Myxosarcina concinna Printz SPECIES
-=======
+# Myxosarcina concinna Printz SPECIES
 
 #### Status
 ACCEPTED

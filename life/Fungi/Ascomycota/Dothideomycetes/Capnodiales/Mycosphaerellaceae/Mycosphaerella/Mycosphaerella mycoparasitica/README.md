@@ -1,5 +1,4 @@
-Mycosphaerella mycoparasitica H.J. Swart SPECIES
-=======
+# Mycosphaerella mycoparasitica H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

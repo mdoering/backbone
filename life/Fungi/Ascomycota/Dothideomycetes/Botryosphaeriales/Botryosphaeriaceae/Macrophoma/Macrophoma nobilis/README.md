@@ -1,5 +1,4 @@
-Macrophoma nobilis (Thüm.) Berl. & Voglino SPECIES
-=======
+# Macrophoma nobilis (Thüm.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nostoc pruniforme (C. Agardh) Bornet & Flahault SPECIES
-=======
+# Nostoc pruniforme (C. Agardh) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

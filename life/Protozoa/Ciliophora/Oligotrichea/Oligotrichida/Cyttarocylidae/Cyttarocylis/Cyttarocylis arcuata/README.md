@@ -1,5 +1,4 @@
-Cyttarocylis arcuata SPECIES
-=======
+# Cyttarocylis arcuata SPECIES
 
 #### Status
 ACCEPTED

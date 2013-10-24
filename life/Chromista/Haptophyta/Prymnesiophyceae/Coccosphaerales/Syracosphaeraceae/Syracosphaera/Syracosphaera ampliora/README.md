@@ -1,5 +1,4 @@
-Syracosphaera ampliora Okada & McIntyre, 1977 SPECIES
-=======
+# Syracosphaera ampliora Okada & McIntyre, 1977 SPECIES
 
 #### Status
 ACCEPTED

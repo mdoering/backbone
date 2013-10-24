@@ -1,5 +1,4 @@
-Hendersonia ligustricola (Girz.) Merezhko SPECIES
-=======
+# Hendersonia ligustricola (Girz.) Merezhko SPECIES
 
 #### Status
 ACCEPTED

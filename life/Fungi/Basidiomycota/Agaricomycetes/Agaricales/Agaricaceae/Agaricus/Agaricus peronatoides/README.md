@@ -1,5 +1,4 @@
-Agaricus peronatoides R. Schulz SPECIES
-=======
+# Agaricus peronatoides R. Schulz SPECIES
 
 #### Status
 ACCEPTED

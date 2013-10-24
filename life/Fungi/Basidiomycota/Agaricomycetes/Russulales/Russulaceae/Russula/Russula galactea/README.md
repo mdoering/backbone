@@ -1,5 +1,4 @@
-Russula galactea Bidaud & Heullant SPECIES
-=======
+# Russula galactea Bidaud & Heullant SPECIES
 
 #### Status
 ACCEPTED

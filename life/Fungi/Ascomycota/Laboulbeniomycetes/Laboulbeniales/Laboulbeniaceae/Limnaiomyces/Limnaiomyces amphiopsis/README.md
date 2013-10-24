@@ -1,5 +1,4 @@
-Limnaiomyces amphiopsis Thaxt., 1926 SPECIES
-=======
+# Limnaiomyces amphiopsis Thaxt., 1926 SPECIES
 
 #### Status
 ACCEPTED

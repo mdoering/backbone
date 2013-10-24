@@ -1,5 +1,4 @@
-Cortinarius paludophilus Carteret & Reumaux SPECIES
-=======
+# Cortinarius paludophilus Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

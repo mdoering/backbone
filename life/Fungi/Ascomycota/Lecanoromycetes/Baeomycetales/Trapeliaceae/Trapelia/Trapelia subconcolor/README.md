@@ -1,5 +1,4 @@
-Trapelia subconcolor (Anzi) Hertel SPECIES
-=======
+# Trapelia subconcolor (Anzi) Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus flavus var. flavus VARIETY
-=======
+# Polyporus flavus Jungh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Praemissa in floram cryptogamicam Javae insulae (Batavia) 1: 46 (1838)
 
 #### Original name
-Polyporus flavus var. flavus
+Polyporus flavus Jungh.
 
 ### Remarks
 null

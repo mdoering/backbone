@@ -1,14 +1,13 @@
-Pholiota praticola F.H. Møller, 1945 SPECIES
-=======
+# Galerina praticola (F.H. Møller) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Faeroes 1(1): 231 (1945)
+Trans. Br. mycol. Soc. 43: 176 (1960)
 
 #### Original name
 Pholiota praticola F.H. Møller, 1945

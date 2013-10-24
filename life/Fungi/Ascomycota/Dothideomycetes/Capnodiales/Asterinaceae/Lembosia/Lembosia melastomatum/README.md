@@ -1,17 +1,16 @@
-Lembosia melastomatum var. melastomatum VARIETY
-=======
+# Lembosia melastomatum Mont., 1856 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lembosia melastomatum var. melastomatum
+Lembosia melastomatum Mont., 1856
 
 ### Remarks
 null

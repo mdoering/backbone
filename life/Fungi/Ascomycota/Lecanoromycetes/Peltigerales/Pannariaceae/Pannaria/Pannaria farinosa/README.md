@@ -1,17 +1,16 @@
-Psoroma isidiosum C. W. Dodge SPECIES
-=======
+# Pannaria farinosa Elvebakk & Fritt-Rasm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Elvebakk, Fritt-Rasmussen & Elix, Lichenologist 39(4): 353 (2007)
 
 #### Original name
-null
+Psoroma isidiosum C. W. Dodge
 
 ### Remarks
 null

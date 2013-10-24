@@ -1,5 +1,4 @@
-Polyporus mortuosus Fr. SPECIES
-=======
+# Polyporus mortuosus Fr. SPECIES
 
 #### Status
 ACCEPTED

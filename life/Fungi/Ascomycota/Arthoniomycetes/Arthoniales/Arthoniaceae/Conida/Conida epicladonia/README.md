@@ -1,5 +1,4 @@
-Conida epicladonia (Nyl.) SPECIES
-=======
+# Conida epicladonia (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium rude (Ehrenb.) M.B. Ellis SPECIES
-=======
+# Coniosporium rude (Ehrenb.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triceratium jucatense Grunow, 1882 SPECIES
-=======
+# Triceratium jucatense Grunow, 1882 SPECIES
 
 #### Status
 ACCEPTED

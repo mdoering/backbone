@@ -1,5 +1,4 @@
-Thelotrema mammosum (Hepp) A. Massal. SPECIES
-=======
+# Thelotrema mammosum (Hepp) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

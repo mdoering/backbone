@@ -1,5 +1,4 @@
-Kuehneltiella namibiensis Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Kuehneltiella namibiensis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesophilobacter Nishimura et al., 1989 GENUS
-=======
+# Mesophilobacter Nishimura et al., 1989 GENUS
 
 #### Status
 ACCEPTED

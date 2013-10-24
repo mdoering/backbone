@@ -1,5 +1,4 @@
-Schizopeltis amazonica (Cooke & Massee) Bat. SPECIES
-=======
+# Schizopeltis amazonica (Cooke & Massee) Bat. SPECIES
 
 #### Status
 ACCEPTED

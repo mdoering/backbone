@@ -1,14 +1,13 @@
-Nectria ralfsii Berk. & Broome, 1854 SPECIES
-=======
+# Bionectria ralfsii (Berk. & Broome) Schroers & Samuels, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notices of British Fungi 13: no. 780 (1854)
+Stud. Mycol. 46: 135 (2001)
 
 #### Original name
 Nectria ralfsii Berk. & Broome, 1854

@@ -1,5 +1,4 @@
-Meliola parathesicola F. Stevens SPECIES
-=======
+# Meliola parathesicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

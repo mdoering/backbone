@@ -1,5 +1,4 @@
-Cortinarius ochroleucoides Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius ochroleucoides Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

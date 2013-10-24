@@ -1,5 +1,4 @@
-Halobacillus dabanensis Liu et al., 2005 SPECIES
-=======
+# Halobacillus dabanensis Liu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

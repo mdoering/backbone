@@ -1,5 +1,4 @@
-Microsphaeropsis xanthorrhoeae B. Sutton & Alcorn SPECIES
-=======
+# Microsphaeropsis xanthorrhoeae B. Sutton & Alcorn SPECIES
 
 #### Status
 ACCEPTED

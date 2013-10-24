@@ -1,5 +1,4 @@
-Phlyctella capillaris (Stirt.) Stizenb. SPECIES
-=======
+# Phlyctella capillaris (Stirt.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

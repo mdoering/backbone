@@ -1,5 +1,4 @@
-Stilbum inquinans Schwein. SPECIES
-=======
+# Stilbum inquinans Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria cattanei (Thüm.) I. Miyake SPECIES
-=======
+# Phaeosphaeria cattanei (Thüm.) I. Miyake SPECIES
 
 #### Status
 ACCEPTED

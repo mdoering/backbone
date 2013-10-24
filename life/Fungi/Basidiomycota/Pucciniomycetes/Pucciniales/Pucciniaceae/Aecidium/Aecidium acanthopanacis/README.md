@@ -1,5 +1,4 @@
-Aecidium acanthopanacis Dietel SPECIES
-=======
+# Aecidium acanthopanacis Dietel SPECIES
 
 #### Status
 ACCEPTED

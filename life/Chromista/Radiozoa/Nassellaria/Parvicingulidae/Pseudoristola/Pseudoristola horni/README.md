@@ -1,5 +1,4 @@
-Pseudoristola horni SPECIES
-=======
+# Pseudoristola horni SPECIES
 
 #### Status
 ACCEPTED

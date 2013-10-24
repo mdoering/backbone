@@ -1,5 +1,4 @@
-Botryosphaeria galegae Sacc. SPECIES
-=======
+# Botryosphaeria galegae Sacc. SPECIES
 
 #### Status
 ACCEPTED

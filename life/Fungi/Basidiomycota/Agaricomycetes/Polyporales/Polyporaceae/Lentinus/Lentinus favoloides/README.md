@@ -1,5 +1,4 @@
-Lentinus favoloides R. Heim SPECIES
-=======
+# Lentinus favoloides R. Heim SPECIES
 
 #### Status
 ACCEPTED

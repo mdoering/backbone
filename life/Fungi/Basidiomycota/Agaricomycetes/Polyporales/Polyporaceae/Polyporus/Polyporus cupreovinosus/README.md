@@ -1,5 +1,4 @@
-Polyporus cupreovinosus Berk. SPECIES
-=======
+# Polyporus cupreovinosus Berk. SPECIES
 
 #### Status
 ACCEPTED

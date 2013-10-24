@@ -1,5 +1,4 @@
-Flavobacterium hibernum McCammon et al., 1998 SPECIES
-=======
+# Flavobacterium hibernum McCammon et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

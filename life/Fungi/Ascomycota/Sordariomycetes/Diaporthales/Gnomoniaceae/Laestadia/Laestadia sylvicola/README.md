@@ -1,5 +1,4 @@
-Laestadia sylvicola Sacc. & Roum. SPECIES
-=======
+# Laestadia sylvicola Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

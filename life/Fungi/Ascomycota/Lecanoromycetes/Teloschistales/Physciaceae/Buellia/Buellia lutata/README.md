@@ -1,5 +1,4 @@
-Buellia lutata (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia lutata (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

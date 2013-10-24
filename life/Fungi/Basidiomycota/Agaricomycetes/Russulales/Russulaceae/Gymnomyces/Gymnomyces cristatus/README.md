@@ -1,5 +1,4 @@
-Gymnomyces cristatus T. Lebel, 2002 SPECIES
-=======
+# Gymnomyces cristatus T. Lebel, 2002 SPECIES
 
 #### Status
 ACCEPTED

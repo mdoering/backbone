@@ -1,17 +1,16 @@
-Hypomyces solani f. sp FORM
-=======
+# Bionectria solani (Reinke & Berthold) Schroers, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 46: 111 (2001)
 
 #### Original name
-Hypomyces solani f. sp
+Hypomyces solani Reinke & Berthold, 1879
 
 ### Remarks
 null

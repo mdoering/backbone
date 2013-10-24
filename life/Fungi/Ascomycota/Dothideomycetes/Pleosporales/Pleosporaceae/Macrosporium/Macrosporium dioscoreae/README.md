@@ -1,5 +1,4 @@
-Macrosporium dioscoreae Gonz. Frag. SPECIES
-=======
+# Macrosporium dioscoreae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

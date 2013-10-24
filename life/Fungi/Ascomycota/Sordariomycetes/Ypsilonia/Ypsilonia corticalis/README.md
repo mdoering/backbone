@@ -1,5 +1,4 @@
-Ypsilonia corticalis Wolf {?} SPECIES
-=======
+# Ypsilonia corticalis Wolf {?} SPECIES
 
 #### Status
 ACCEPTED

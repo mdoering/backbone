@@ -1,5 +1,4 @@
-Phyllosticta nesaeae Peck SPECIES
-=======
+# Phyllosticta nesaeae Peck SPECIES
 
 #### Status
 ACCEPTED

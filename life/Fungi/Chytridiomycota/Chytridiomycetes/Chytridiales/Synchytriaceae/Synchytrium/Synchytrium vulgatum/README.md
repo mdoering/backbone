@@ -1,5 +1,4 @@
-Synchytrium vulgatum Rytz SPECIES
-=======
+# Synchytrium vulgatum Rytz SPECIES
 
 #### Status
 ACCEPTED

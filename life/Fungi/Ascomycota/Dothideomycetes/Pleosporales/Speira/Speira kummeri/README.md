@@ -1,5 +1,4 @@
-Speira kummeri (F. Strauss) Sacc. SPECIES
-=======
+# Speira kummeri (F. Strauss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

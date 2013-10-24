@@ -1,5 +1,4 @@
-Phyllosticta sampaioana Gonz. Frag. SPECIES
-=======
+# Phyllosticta sampaioana Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

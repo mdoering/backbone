@@ -1,5 +1,4 @@
-Syncarpella tuberculiformis (Ellis) Theiss. & Syd. SPECIES
-=======
+# Syncarpella tuberculiformis (Ellis) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

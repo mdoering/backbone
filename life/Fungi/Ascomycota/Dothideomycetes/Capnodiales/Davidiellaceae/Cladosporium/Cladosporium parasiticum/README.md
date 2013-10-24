@@ -1,5 +1,4 @@
-Cladosporium parasiticum Sorokin SPECIES
-=======
+# Cladosporium parasiticum Sorokin SPECIES
 
 #### Status
 ACCEPTED

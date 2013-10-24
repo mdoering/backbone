@@ -1,5 +1,4 @@
-Phyllosticta transiens Speg. SPECIES
-=======
+# Phyllosticta transiens Speg. SPECIES
 
 #### Status
 ACCEPTED

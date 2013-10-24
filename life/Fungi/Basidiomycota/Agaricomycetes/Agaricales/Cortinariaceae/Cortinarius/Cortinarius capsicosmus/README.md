@@ -1,5 +1,4 @@
-Cortinarius capsicosmus Gasparini SPECIES
-=======
+# Cortinarius capsicosmus Gasparini SPECIES
 
 #### Status
 ACCEPTED

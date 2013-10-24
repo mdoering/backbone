@@ -1,5 +1,4 @@
-Zignoëlla inflata (Ellis) Sacc. SPECIES
-=======
+# Zignoëlla inflata (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria theae Petch SPECIES
-=======
+# Didymosphaeria theae Petch SPECIES
 
 #### Status
 ACCEPTED

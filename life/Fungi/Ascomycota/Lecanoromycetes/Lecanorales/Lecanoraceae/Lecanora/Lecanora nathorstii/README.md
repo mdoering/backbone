@@ -1,5 +1,4 @@
-Lecanora nathorstii Lynge SPECIES
-=======
+# Lecanora nathorstii Lynge SPECIES
 
 #### Status
 ACCEPTED

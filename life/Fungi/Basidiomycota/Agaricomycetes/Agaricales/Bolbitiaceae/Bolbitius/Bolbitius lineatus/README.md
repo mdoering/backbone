@@ -1,5 +1,4 @@
-Bolbitius lineatus Rick SPECIES
-=======
+# Bolbitius lineatus Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrothelia GENUS
-=======
+# Macrothelia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium irregulare Peck SPECIES
-=======
+# Gloeosporium irregulare Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trocholinidae FAMILY
-=======
+# Trocholinidae FAMILY
 
 #### Status
 ACCEPTED

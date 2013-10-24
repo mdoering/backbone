@@ -1,5 +1,4 @@
-Chaenothecopsis himalayensis (Räsänen) Tibell & Titov SPECIES
-=======
+# Chaenothecopsis himalayensis (Räsänen) Tibell & Titov SPECIES
 
 #### Status
 ACCEPTED

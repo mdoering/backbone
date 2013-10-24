@@ -1,5 +1,4 @@
-Lamprospora miniatopsis Spooner SPECIES
-=======
+# Lamprospora miniatopsis Spooner SPECIES
 
 #### Status
 ACCEPTED

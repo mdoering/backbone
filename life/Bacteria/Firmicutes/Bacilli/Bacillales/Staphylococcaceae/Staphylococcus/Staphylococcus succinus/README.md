@@ -1,5 +1,4 @@
-Staphylococcus succinus subsp. succinus SUBSPECIES
-=======
+# Staphylococcus succinus Lambert et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pythiella besseyi (Sparrow & Ellison) Sparrow, 1960 SPECIES
-=======
+# Pleocystidium besseyi (Sparrow & Ellison) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aquatic Phycomycetes (Ann Arbor), Edn 2 814 (1960)
+Straminipilous Fungi (Dordrecht) 337 (2001)
 
 #### Original name
 Ectrogella besseyi Sparrow & Ellison, 1949

@@ -1,5 +1,4 @@
-Endocarpon fuscatulum Nyl. SPECIES
-=======
+# Endocarpon fuscatulum Nyl. SPECIES
 
 #### Status
 ACCEPTED

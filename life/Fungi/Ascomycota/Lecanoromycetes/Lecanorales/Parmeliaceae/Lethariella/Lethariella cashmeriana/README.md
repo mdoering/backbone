@@ -1,5 +1,4 @@
-Lethariella cashmeriana Krog SPECIES
-=======
+# Lethariella cashmeriana Krog SPECIES
 
 #### Status
 ACCEPTED

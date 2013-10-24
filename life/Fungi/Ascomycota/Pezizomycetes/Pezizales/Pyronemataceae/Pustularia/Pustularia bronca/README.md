@@ -1,5 +1,4 @@
-Pustularia bronca (Peck) Kanouse SPECIES
-=======
+# Pustularia bronca (Peck) Kanouse SPECIES
 
 #### Status
 ACCEPTED

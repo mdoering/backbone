@@ -1,17 +1,16 @@
-Cephalosporium aranearum f. aranearum FORM
-=======
+# Torrubiella alba Petch, 1931 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 16: 224 (1931)
 
 #### Original name
-Cephalosporium aranearum f. aranearum
+Torrubiella alba Petch, 1931
 
 ### Remarks
 null

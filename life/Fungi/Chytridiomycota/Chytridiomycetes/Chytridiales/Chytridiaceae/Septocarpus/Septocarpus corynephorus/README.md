@@ -1,5 +1,4 @@
-Septocarpus corynephorus Zopf SPECIES
-=======
+# Septocarpus corynephorus Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachysporium dioscoreae Steyaert SPECIES
-=======
+# Brachysporium dioscoreae Steyaert SPECIES
 
 #### Status
 ACCEPTED

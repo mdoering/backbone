@@ -1,14 +1,13 @@
-Rhizocarpon subalpicolum (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon subalpicola (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 342 (1926)
 
 #### Original name
 Lecidea subalpicola Nyl.

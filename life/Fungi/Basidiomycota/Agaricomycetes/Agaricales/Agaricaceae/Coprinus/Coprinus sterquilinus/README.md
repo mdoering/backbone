@@ -1,17 +1,16 @@
-Coprinus sterquilinus var. sterquilinus VARIETY
-=======
+# Coprinus sterquilinus (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 242 (1838)
 
 #### Original name
-Coprinus sterquilinus var. sterquilinus
+Agaricus sterquilinus Fr., 1821
 
 ### Remarks
 null

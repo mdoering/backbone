@@ -1,5 +1,4 @@
-Segestria massalongiana (Hepp) Trevis. SPECIES
-=======
+# Segestria massalongiana (Hepp) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xantomonas GENUS
-=======
+# Xantomonas GENUS
 
 #### Status
 ACCEPTED

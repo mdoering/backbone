@@ -1,5 +1,4 @@
-Byssonectria buchsii (Henn.) K.B. Khare SPECIES
-=======
+# Byssonectria buchsii (Henn.) K.B. Khare SPECIES
 
 #### Status
 ACCEPTED

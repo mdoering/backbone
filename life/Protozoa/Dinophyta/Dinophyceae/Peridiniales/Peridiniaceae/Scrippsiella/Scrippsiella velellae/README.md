@@ -1,5 +1,4 @@
-Scrippsiella velellae A.T. Banaszak, R. Iglesias-Prieto & R.K. Trench SPECIES
-=======
+# Scrippsiella velellae A.T. Banaszak, R. Iglesias-Prieto & R.K. Trench SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe pertinax (Fr.) P. Karst. SPECIES
-=======
+# Psilocybe pertinax (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

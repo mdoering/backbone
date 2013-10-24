@@ -1,5 +1,4 @@
-Coniothyrium hyperici var. hyperici Henn. VARIETY
-=======
+# Coniothyrium hyperici Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium hyperici var. hyperici Henn.
+Coniothyrium hyperici Henn.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Clavaria pallida Schaeff., 1774 SPECIES
-=======
+# Ramaria pallida (Schaeff.) Ricken, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. Bavar. Palat. 4: 120 (1774)
+Vadem. Pilzfr. 263 (1920)
 
 #### Original name
-Clavaria pallida Schaeff., 1774
+Ramaria pallida (Schaeff.) Ricken, 1920
 
 ### Remarks
 null

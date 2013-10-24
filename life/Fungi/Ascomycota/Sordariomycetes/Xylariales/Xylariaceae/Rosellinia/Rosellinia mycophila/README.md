@@ -1,5 +1,4 @@
-Rosellinia mycophila (Fr.) Sacc. SPECIES
-=======
+# Rosellinia mycophila (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

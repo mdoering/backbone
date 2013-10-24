@@ -1,5 +1,4 @@
-Symploca muralis (Kützing) Gomont SPECIES
-=======
+# Symploca muralis (Kützing) Gomont SPECIES
 
 #### Status
 ACCEPTED

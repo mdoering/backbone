@@ -1,11 +1,10 @@
-Albococcus epidermidis Winslow & Winslow, 1908 SPECIES
-=======
+# Staphylococcus epidermidis (Winslow and Winslow, 1908) Evans, 1916 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

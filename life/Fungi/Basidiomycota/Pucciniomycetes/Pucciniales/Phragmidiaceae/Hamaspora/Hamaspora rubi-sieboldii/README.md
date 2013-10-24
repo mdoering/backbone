@@ -1,17 +1,16 @@
-Uredo falcifera Cummins, 1940 SPECIES
-=======
+# Hamaspora rubi-sieboldii (Kawagoe) Dietel, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 32: 372 (1940)
+Annls mycol. 20(5/6): 293 (1922)
 
 #### Original name
-Uredo falcifera Cummins, 1940
+Phragmidium rubi-sieboldii Kawagoe, 1916
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dixomyces porrectus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Dixomyces porrectus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

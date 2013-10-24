@@ -1,5 +1,4 @@
-Omegastrombidium kahli Song et al., 2009 SPECIES
-=======
+# Omegastrombidium kahli Song et al., 2009 SPECIES
 
 #### Status
 ACCEPTED

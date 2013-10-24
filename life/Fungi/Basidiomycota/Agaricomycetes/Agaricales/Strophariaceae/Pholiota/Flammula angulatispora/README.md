@@ -1,5 +1,4 @@
-Flammula angulatispora Torrend SPECIES
-=======
+# Flammula angulatispora Torrend SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo chimaphilae Peck SPECIES
-=======
+# Uredo chimaphilae Peck SPECIES
 
 #### Status
 ACCEPTED

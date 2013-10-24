@@ -1,5 +1,4 @@
-Uromyces alhaginis Szembel SPECIES
-=======
+# Uromyces alhaginis Szembel SPECIES
 
 #### Status
 ACCEPTED

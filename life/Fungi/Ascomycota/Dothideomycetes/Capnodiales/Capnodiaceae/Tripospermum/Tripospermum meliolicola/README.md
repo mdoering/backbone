@@ -1,17 +1,16 @@
-Tripospermum meliolicolum Cif. SPECIES
-=======
+# Tripospermum meliolicola Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 19: 132 (1962)
 
 #### Original name
-Tripospermum meliolicolum Cif.
+Tripospermum meliolicola Cif.
 
 ### Remarks
 null

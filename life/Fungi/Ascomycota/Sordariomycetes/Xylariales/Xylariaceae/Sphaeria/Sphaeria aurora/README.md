@@ -1,5 +1,4 @@
-Sphaeria aurora Fr. SPECIES
-=======
+# Sphaeria aurora Fr. SPECIES
 
 #### Status
 ACCEPTED

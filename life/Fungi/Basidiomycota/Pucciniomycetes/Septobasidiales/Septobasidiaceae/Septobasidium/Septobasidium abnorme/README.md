@@ -1,5 +1,4 @@
-Septobasidium abnorme (Henn.) Höhn. & Litsch. SPECIES
-=======
+# Septobasidium abnorme (Henn.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

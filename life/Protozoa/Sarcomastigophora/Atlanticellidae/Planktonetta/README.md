@@ -1,14 +1,13 @@
-Planctonetta Immermann, 1906 GENUS
-=======
+# Planktonetta Borgert, 1902 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Zool. Centralbl. , 13, 168.
+Zool. Jahrb. , Syst. , 16, 571.
 
 #### Original name
 null

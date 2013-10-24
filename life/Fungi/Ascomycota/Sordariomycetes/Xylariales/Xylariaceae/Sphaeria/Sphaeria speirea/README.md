@@ -1,5 +1,4 @@
-Sphaeria speirea Fr. SPECIES
-=======
+# Sphaeria speirea Fr. SPECIES
 
 #### Status
 ACCEPTED

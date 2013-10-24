@@ -1,5 +1,4 @@
-Hercospora popula Berk. SPECIES
-=======
+# Hercospora popula Berk. SPECIES
 
 #### Status
 ACCEPTED

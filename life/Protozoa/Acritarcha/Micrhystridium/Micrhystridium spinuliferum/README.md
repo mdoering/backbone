@@ -1,5 +1,4 @@
-Micrhystridium spinuliferum K. Takahashi SPECIES
-=======
+# Micrhystridium spinuliferum K. Takahashi SPECIES
 
 #### Status
 ACCEPTED

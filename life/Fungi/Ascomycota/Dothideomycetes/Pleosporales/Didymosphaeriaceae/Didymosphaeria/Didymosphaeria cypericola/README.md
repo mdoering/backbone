@@ -1,5 +1,4 @@
-Didymosphaeria cypericola Henn. SPECIES
-=======
+# Didymosphaeria cypericola Henn. SPECIES
 
 #### Status
 ACCEPTED

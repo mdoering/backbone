@@ -1,5 +1,4 @@
-Nodulosphaeria hirta Rabenh. SPECIES
-=======
+# Nodulosphaeria hirta Rabenh. SPECIES
 
 #### Status
 ACCEPTED

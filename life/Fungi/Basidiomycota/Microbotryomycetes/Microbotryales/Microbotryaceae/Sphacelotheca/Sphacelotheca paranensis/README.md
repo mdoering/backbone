@@ -1,5 +1,4 @@
-Sphacelotheca paranensis (Hirschh.) Hirschh. SPECIES
-=======
+# Sphacelotheca paranensis (Hirschh.) Hirschh. SPECIES
 
 #### Status
 ACCEPTED

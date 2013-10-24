@@ -1,5 +1,4 @@
-Rosellinia megalospora Saccas SPECIES
-=======
+# Rosellinia megalospora Saccas SPECIES
 
 #### Status
 ACCEPTED

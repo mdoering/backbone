@@ -1,5 +1,4 @@
-Scolecobasidium coprophilum (Subram. & Lodha) Matsush. SPECIES
-=======
+# Scolecobasidium coprophilum (Subram. & Lodha) Matsush. SPECIES
 
 #### Status
 ACCEPTED

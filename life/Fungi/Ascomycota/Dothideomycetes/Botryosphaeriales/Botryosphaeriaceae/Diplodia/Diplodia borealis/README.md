@@ -1,5 +1,4 @@
-Diplodia borealis Lind SPECIES
-=======
+# Diplodia borealis Lind SPECIES
 
 #### Status
 ACCEPTED

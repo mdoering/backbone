@@ -1,5 +1,4 @@
-Agaricus alliatus J.F. Gmel. SPECIES
-=======
+# Agaricus alliatus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

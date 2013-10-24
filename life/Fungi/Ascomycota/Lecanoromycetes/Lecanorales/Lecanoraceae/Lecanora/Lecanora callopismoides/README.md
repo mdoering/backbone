@@ -1,17 +1,16 @@
-Lecanora callopismodes Müll. Arg. SPECIES
-=======
+# Lecanora callopismoides Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 68(28): 505 (1885)
 
 #### Original name
-Lecanora callopismodes Müll. Arg.
+Lecanora callopismoides Müll. Arg.
 
 ### Remarks
 null

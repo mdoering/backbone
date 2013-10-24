@@ -1,5 +1,4 @@
-Halalkalibacillus Echigo et al., 2007 GENUS
-=======
+# Halalkalibacillus Echigo et al., 2007 GENUS
 
 #### Status
 ACCEPTED

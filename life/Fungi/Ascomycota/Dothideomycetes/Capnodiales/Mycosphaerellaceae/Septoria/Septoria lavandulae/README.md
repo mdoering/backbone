@@ -1,5 +1,4 @@
-Septoria lavandulae Desm., 1900 SPECIES
-=======
+# Septoria lavandulae Desm., 1900 SPECIES
 
 #### Status
 ACCEPTED

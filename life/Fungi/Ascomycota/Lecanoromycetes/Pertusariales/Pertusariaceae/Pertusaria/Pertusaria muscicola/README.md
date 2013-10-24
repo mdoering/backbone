@@ -1,5 +1,4 @@
-Pertusaria muscicola Gorbatsch {?} SPECIES
-=======
+# Pertusaria muscicola Gorbatsch {?} SPECIES
 
 #### Status
 ACCEPTED

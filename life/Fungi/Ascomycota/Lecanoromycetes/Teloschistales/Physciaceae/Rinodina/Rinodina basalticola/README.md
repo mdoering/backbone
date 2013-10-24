@@ -1,5 +1,4 @@
-Rinodina basalticola SPECIES
-=======
+# Rinodina basalticola SPECIES
 
 #### Status
 ACCEPTED

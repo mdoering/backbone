@@ -1,5 +1,4 @@
-Phoma chartae Verona SPECIES
-=======
+# Phoma chartae Verona SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olpidium verrucosum M.W. Dick, 2001 SPECIES
-=======
+# Olpidium verrucosum M.W. Dick, 2001 SPECIES
 
 #### Status
 ACCEPTED

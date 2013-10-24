@@ -1,5 +1,4 @@
-Neottiospora cephalanthae Sawada SPECIES
-=======
+# Neottiospora cephalanthae Sawada SPECIES
 
 #### Status
 ACCEPTED

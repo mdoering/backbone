@@ -1,5 +1,4 @@
-Mycena salicicola Losa España {?} SPECIES
-=======
+# Mycena salicicola Losa España {?} SPECIES
 
 #### Status
 ACCEPTED

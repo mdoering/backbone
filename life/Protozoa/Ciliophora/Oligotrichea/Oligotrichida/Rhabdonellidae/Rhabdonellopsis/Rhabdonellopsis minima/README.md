@@ -1,5 +1,4 @@
-Rhabdonellopsis minima Kofoid & Campbell, 1929 SPECIES
-=======
+# Rhabdonellopsis minima Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

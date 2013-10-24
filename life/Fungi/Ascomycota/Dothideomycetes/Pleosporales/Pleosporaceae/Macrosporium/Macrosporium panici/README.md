@@ -1,5 +1,4 @@
-Macrosporium panici Ellis & Everh. SPECIES
-=======
+# Macrosporium panici Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

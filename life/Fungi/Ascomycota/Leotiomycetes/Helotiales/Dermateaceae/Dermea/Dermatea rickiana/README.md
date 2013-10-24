@@ -1,5 +1,4 @@
-Dermatea rickiana Rehm SPECIES
-=======
+# Dermatea rickiana Rehm SPECIES
 
 #### Status
 ACCEPTED

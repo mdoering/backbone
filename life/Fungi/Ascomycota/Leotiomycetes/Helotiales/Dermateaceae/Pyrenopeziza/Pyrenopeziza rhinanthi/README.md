@@ -1,5 +1,4 @@
-Pyrenopeziza rhinanthi (P. Karst.) Sacc. SPECIES
-=======
+# Pyrenopeziza rhinanthi (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

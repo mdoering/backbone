@@ -1,5 +1,4 @@
-Trichodoxa Sirgel, 1983 GENUS
-=======
+# Trichodoxa Sirgel, 1983 GENUS
 
 #### Status
 ACCEPTED

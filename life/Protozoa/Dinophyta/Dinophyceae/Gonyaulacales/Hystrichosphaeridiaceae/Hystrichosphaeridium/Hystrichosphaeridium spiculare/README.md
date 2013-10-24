@@ -1,5 +1,4 @@
-Hystrichosphaeridium spiculare Jagielska, 1962 SPECIES
-=======
+# Hystrichosphaeridium spiculare Jagielska, 1962 SPECIES
 
 #### Status
 ACCEPTED

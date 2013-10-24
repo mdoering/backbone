@@ -1,5 +1,4 @@
-Cortinarius caliginosus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius caliginosus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

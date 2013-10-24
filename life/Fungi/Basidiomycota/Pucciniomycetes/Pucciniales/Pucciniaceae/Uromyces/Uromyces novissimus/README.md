@@ -1,14 +1,13 @@
-Caeomurus novissimus (Speg.) Kuntze, 1898 SPECIES
-=======
+# Uromyces novissimus Speg., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 450 (1898)
+Fungi argentini 3: no. 35 (1880)
 
 #### Original name
 Uromyces novissimus Speg., 1880

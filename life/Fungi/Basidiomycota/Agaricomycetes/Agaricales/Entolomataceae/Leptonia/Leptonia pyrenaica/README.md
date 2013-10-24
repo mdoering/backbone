@@ -1,5 +1,4 @@
-Leptonia pyrenaica Pat. & Doass. SPECIES
-=======
+# Leptonia pyrenaica Pat. & Doass. SPECIES
 
 #### Status
 ACCEPTED

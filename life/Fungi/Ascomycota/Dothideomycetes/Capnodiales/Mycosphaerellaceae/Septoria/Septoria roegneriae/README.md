@@ -1,5 +1,4 @@
-Septoria roegneriae Melnik SPECIES
-=======
+# Septoria roegneriae Melnik SPECIES
 
 #### Status
 ACCEPTED

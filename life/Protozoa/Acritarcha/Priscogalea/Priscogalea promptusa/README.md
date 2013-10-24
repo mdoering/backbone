@@ -1,5 +1,4 @@
-Priscogalea promptusa Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
-=======
+# Priscogalea promptusa Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

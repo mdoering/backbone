@@ -1,5 +1,4 @@
-Micropeltis vismiae (F. Stevens & Manter) Bat. SPECIES
-=======
+# Micropeltis vismiae (F. Stevens & Manter) Bat. SPECIES
 
 #### Status
 ACCEPTED

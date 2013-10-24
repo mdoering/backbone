@@ -1,8 +1,7 @@
-Planococcus okeanokoites (ZoBell and Upham, 1944) Nakagawa et al., 1996 SPECIES
-=======
+# Planomicrobium okeanokoites (ZoBell and Upham, 1944) Yoon et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

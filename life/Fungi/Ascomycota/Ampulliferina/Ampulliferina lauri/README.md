@@ -1,5 +1,4 @@
-Ampulliferina lauri P.M. Kirk & C.M. Kirk, 1982 SPECIES
-=======
+# Ampulliferina lauri P.M. Kirk & C.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED

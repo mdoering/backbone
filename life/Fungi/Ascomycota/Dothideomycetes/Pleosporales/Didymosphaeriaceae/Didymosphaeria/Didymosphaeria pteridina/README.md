@@ -1,5 +1,4 @@
-Didymosphaeria pteridina Sacc. SPECIES
-=======
+# Didymosphaeria pteridina Sacc. SPECIES
 
 #### Status
 ACCEPTED

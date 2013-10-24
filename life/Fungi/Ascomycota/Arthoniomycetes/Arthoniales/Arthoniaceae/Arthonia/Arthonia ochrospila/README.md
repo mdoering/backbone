@@ -1,5 +1,4 @@
-Arthonia ochrospila Nyl. SPECIES
-=======
+# Arthonia ochrospila Nyl. SPECIES
 
 #### Status
 ACCEPTED

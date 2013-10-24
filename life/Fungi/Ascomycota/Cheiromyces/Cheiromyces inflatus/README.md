@@ -1,5 +1,4 @@
-Cheiromyces inflatus Matsush. SPECIES
-=======
+# Cheiromyces inflatus Matsush. SPECIES
 
 #### Status
 ACCEPTED

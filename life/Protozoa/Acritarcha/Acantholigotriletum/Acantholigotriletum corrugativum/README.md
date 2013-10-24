@@ -1,5 +1,4 @@
-Acantholigotriletum corrugativum Timofeev, 1959 SPECIES
-=======
+# Acantholigotriletum corrugativum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

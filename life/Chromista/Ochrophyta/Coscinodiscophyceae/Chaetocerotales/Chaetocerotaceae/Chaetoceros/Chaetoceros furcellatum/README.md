@@ -1,5 +1,4 @@
-Chaetoceros furcellatum J.W. Bailey SPECIES
-=======
+# Chaetoceros furcellatum J.W. Bailey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus substipitatus Murrill SPECIES
-=======
+# Crepidotus substipitatus Murrill SPECIES
 
 #### Status
 ACCEPTED

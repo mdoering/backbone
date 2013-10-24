@@ -1,14 +1,13 @@
-Didymosphaeria japonica I. Hino & Katum., 1954 SPECIES
-=======
+# Roussoellopsis japonica (I. Hino & Katum.) I. Hino & Katum., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the Faculty of Agriculture, Yamaguchi University 5: 229 (1954)
+J. Jap. Bot. 40: 86 (1965)
 
 #### Original name
 Didymosphaeria japonica I. Hino & Katum., 1954

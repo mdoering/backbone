@@ -1,5 +1,4 @@
-Peronosclerospora westonii (Sriniv., Naras. & Thirum.) C.G. Shaw, 1978 SPECIES
-=======
+# Peronosclerospora westonii (Sriniv., Naras. & Thirum.) C.G. Shaw, 1978 SPECIES
 
 #### Status
 ACCEPTED

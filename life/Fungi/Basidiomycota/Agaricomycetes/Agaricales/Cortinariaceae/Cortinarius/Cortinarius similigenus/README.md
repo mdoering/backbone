@@ -1,5 +1,4 @@
-Cortinarius similigenus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius similigenus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

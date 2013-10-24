@@ -1,5 +1,4 @@
-Rhabdospora advena Pass. SPECIES
-=======
+# Rhabdospora advena Pass. SPECIES
 
 #### Status
 ACCEPTED

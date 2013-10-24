@@ -1,5 +1,4 @@
-Laboulbenia lepidioides Speg. SPECIES
-=======
+# Laboulbenia lepidioides Speg. SPECIES
 
 #### Status
 ACCEPTED

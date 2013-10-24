@@ -1,5 +1,4 @@
-Conocybe intermedia var. intermedia VARIETY
-=======
+# Conocybe intermedia (A.H. Sm.) Kühner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Encyclop. Mycol. 7: 143 (1935)
 
 #### Original name
-Conocybe intermedia var. intermedia
+Pholiota intermedia A.H. Sm.
 
 ### Remarks
 null

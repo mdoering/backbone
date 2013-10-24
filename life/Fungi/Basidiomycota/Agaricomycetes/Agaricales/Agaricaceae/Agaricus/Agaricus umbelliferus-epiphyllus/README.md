@@ -1,5 +1,4 @@
-Agaricus umbelliferus-epiphyllus Scop. SPECIES
-=======
+# Agaricus umbelliferus-epiphyllus Scop. SPECIES
 
 #### Status
 ACCEPTED

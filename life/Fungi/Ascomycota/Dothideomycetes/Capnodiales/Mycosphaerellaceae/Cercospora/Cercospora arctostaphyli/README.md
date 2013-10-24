@@ -1,5 +1,4 @@
-Cercospora arctostaphyli Davis SPECIES
-=======
+# Cercospora arctostaphyli Davis SPECIES
 
 #### Status
 ACCEPTED

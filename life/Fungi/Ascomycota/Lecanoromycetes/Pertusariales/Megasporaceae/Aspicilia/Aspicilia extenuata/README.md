@@ -1,5 +1,4 @@
-Aspicilia extenuata (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia extenuata (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

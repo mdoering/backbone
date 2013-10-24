@@ -1,5 +1,4 @@
-Erinella hyalopilosa I. Hino & Katum. SPECIES
-=======
+# Erinella hyalopilosa I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

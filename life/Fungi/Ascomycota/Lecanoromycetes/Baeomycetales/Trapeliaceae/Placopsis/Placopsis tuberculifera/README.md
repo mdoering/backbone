@@ -1,5 +1,4 @@
-Placopsis tuberculifera (I.M. Lamb) Follmann SPECIES
-=======
+# Placopsis tuberculifera (I.M. Lamb) Follmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panaeolus epimyces (Peck) Sacc. SPECIES
-=======
+# Panaeolus epimyces (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

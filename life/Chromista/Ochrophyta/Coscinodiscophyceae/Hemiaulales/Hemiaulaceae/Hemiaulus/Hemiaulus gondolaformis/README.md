@@ -1,5 +1,4 @@
-Hemiaulus gondolaformis J. Fenner SPECIES
-=======
+# Hemiaulus gondolaformis J. Fenner SPECIES
 
 #### Status
 ACCEPTED

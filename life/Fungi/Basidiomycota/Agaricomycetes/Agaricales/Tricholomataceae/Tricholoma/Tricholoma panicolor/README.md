@@ -1,5 +1,4 @@
-Tricholoma panicolor Corner SPECIES
-=======
+# Tricholoma panicolor Corner SPECIES
 
 #### Status
 ACCEPTED

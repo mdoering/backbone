@@ -1,5 +1,4 @@
-Capronia populicola M.E. Barr SPECIES
-=======
+# Capronia populicola M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

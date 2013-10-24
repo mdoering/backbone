@@ -1,5 +1,4 @@
-Helminthosporium brachycladum Fresen. SPECIES
-=======
+# Helminthosporium brachycladum Fresen. SPECIES
 
 #### Status
 ACCEPTED

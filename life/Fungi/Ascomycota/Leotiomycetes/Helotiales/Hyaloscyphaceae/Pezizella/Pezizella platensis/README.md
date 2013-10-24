@@ -1,5 +1,4 @@
-Pezizella platensis Speg. SPECIES
-=======
+# Pezizella platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

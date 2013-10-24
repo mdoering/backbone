@@ -1,5 +1,4 @@
-Thelotrema hians Stirt. SPECIES
-=======
+# Thelotrema hians Stirt. SPECIES
 
 #### Status
 ACCEPTED

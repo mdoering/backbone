@@ -1,5 +1,4 @@
-Cylindrosporium thrinciae Maire SPECIES
-=======
+# Cylindrosporium thrinciae Maire SPECIES
 
 #### Status
 ACCEPTED

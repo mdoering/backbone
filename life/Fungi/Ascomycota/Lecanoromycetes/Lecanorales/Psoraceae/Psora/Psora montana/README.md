@@ -1,5 +1,4 @@
-Psora montana Timdal SPECIES
-=======
+# Psora montana Timdal SPECIES
 
 #### Status
 ACCEPTED

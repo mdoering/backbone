@@ -1,5 +1,4 @@
-Ceratosporium productum Petch SPECIES
-=======
+# Ceratosporium productum Petch SPECIES
 
 #### Status
 ACCEPTED

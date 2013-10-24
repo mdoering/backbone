@@ -1,5 +1,4 @@
-Discoaster pansus (Bukry & Percival, 1971) Bukry, 1973 SPECIES
-=======
+# Discoaster pansus (Bukry & Percival, 1971) Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

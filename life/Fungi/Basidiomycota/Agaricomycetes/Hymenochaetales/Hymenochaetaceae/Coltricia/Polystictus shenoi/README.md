@@ -1,5 +1,4 @@
-Polystictus shenoi Henn. SPECIES
-=======
+# Polystictus shenoi Henn. SPECIES
 
 #### Status
 ACCEPTED

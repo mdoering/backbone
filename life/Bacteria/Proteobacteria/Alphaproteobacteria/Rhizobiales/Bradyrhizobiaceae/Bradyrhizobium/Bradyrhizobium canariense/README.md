@@ -1,5 +1,4 @@
-Bradyrhizobium canariense Vinuesa et al., 2005 SPECIES
-=======
+# Bradyrhizobium canariense Vinuesa et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

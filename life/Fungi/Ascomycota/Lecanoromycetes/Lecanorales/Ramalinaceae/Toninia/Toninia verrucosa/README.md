@@ -1,5 +1,4 @@
-Toninia verrucosa Flagey SPECIES
-=======
+# Toninia verrucosa Flagey SPECIES
 
 #### Status
 ACCEPTED

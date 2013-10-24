@@ -1,5 +1,4 @@
-Lecanora rikuzensis Räsänen SPECIES
-=======
+# Lecanora rikuzensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

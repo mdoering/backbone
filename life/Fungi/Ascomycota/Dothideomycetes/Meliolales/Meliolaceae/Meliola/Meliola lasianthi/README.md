@@ -1,5 +1,4 @@
-Meliola lasianthi Petr. SPECIES
-=======
+# Meliola lasianthi Petr. SPECIES
 
 #### Status
 ACCEPTED

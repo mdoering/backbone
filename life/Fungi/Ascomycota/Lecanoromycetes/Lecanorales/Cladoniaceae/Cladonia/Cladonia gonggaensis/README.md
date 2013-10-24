@@ -1,5 +1,4 @@
-Cladonia gonggaensis S.Y. Guo & J.C. Wei SPECIES
-=======
+# Cladonia gonggaensis S.Y. Guo & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster kugleri SPECIES
-=======
+# Discoaster kugleri SPECIES
 
 #### Status
 ACCEPTED

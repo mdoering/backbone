@@ -1,5 +1,4 @@
-Cercospora astilbes Togashi SPECIES
-=======
+# Cercospora astilbes Togashi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora elasticae Koord. SPECIES
-=======
+# Physalospora elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

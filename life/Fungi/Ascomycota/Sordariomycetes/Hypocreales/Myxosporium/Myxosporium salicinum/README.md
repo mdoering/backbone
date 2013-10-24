@@ -1,5 +1,4 @@
-Myxosporium salicinum Sacc. & Roum. SPECIES
-=======
+# Myxosporium salicinum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

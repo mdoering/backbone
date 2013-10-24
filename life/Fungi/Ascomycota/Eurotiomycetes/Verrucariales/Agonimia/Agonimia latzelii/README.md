@@ -1,17 +1,16 @@
-Agonimia latzeli Zahlbr. SPECIES
-=======
+# Agonimia latzelii Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Öst. bot. Z. 59(9): 351 (1909)
 
 #### Original name
-Agonimia latzeli Zahlbr.
+Agonimia latzelii Zahlbr.
 
 ### Remarks
 null

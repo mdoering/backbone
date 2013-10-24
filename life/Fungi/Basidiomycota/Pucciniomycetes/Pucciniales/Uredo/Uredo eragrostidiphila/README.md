@@ -1,5 +1,4 @@
-Uredo eragrostidiphila Gjaerum SPECIES
-=======
+# Uredo eragrostidiphila Gjaerum SPECIES
 
 #### Status
 ACCEPTED

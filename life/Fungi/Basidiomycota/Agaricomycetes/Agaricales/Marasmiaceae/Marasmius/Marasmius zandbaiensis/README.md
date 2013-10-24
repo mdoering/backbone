@@ -1,5 +1,4 @@
-Marasmius zandbaiensis Henn. & E. Nyman SPECIES
-=======
+# Marasmius zandbaiensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

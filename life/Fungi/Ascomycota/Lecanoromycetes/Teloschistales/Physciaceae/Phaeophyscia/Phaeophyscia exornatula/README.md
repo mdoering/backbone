@@ -1,5 +1,4 @@
-Phaeophyscia exornatula (Zahlbr.) Kashiw. SPECIES
-=======
+# Phaeophyscia exornatula (Zahlbr.) Kashiw. SPECIES
 
 #### Status
 ACCEPTED

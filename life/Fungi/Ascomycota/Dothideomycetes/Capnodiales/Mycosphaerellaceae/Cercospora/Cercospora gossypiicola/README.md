@@ -1,5 +1,4 @@
-Cercospora gossypiicola Narayan, Kharwar & R.K. Singh SPECIES
-=======
+# Cercospora gossypiicola Narayan, Kharwar & R.K. Singh SPECIES
 
 #### Status
 ACCEPTED

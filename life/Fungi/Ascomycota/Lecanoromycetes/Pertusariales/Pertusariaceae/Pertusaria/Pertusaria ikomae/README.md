@@ -1,5 +1,4 @@
-Pertusaria ikomae Yasuda ex Räsänen SPECIES
-=======
+# Pertusaria ikomae Yasuda ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

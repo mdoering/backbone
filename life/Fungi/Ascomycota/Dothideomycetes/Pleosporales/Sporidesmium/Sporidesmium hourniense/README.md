@@ -1,5 +1,4 @@
-Sporidesmium hourniense B. Sutton SPECIES
-=======
+# Sporidesmium hourniense B. Sutton SPECIES
 
 #### Status
 ACCEPTED

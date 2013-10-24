@@ -1,5 +1,4 @@
-Astasia praecompleta Skuja SPECIES
-=======
+# Astasia praecompleta Skuja SPECIES
 
 #### Status
 ACCEPTED

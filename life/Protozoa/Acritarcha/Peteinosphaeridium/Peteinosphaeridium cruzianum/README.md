@@ -1,5 +1,4 @@
-Peteinosphaeridium cruzianum Vavrdová, 1990 SPECIES
-=======
+# Peteinosphaeridium cruzianum Vavrdová, 1990 SPECIES
 
 #### Status
 ACCEPTED

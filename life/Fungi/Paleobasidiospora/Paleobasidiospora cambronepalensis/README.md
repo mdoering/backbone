@@ -1,5 +1,4 @@
-Paleobasidiospora cambronepalensis M. Brunel, d'Albissin & Locq. SPECIES
-=======
+# Paleobasidiospora cambronepalensis M. Brunel, d'Albissin & Locq. SPECIES
 
 #### Status
 ACCEPTED

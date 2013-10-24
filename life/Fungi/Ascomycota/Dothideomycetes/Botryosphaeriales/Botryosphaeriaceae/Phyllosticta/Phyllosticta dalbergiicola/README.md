@@ -1,5 +1,4 @@
-Phyllosticta dalbergiicola Syd. SPECIES
-=======
+# Phyllosticta dalbergiicola Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium apiculatum Lodha, 1964 SPECIES
-=======
+# Chaetomium apiculatum Lodha, 1964 SPECIES
 
 #### Status
 ACCEPTED

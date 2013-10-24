@@ -1,5 +1,4 @@
-Dactylella passalopaga Drechsler SPECIES
-=======
+# Dactylella passalopaga Drechsler SPECIES
 
 #### Status
 ACCEPTED

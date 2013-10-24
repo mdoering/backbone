@@ -1,5 +1,4 @@
-Verrucaria harzynica Zschacke SPECIES
-=======
+# Verrucaria harzynica Zschacke SPECIES
 
 #### Status
 ACCEPTED

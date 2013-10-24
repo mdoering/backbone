@@ -1,5 +1,4 @@
-Collema parvum Degel. SPECIES
-=======
+# Collema parvum Degel. SPECIES
 
 #### Status
 ACCEPTED

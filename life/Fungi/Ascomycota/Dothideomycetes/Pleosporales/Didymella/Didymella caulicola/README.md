@@ -1,14 +1,13 @@
-Sphaeria caulicola Moug., 1880 SPECIES
-=======
+# Didymella caulicola (Moug.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 557 (1882)
 
 #### Original name
 Sphaeria caulicola Moug., 1880

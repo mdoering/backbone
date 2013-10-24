@@ -1,5 +1,4 @@
-Sterigmatocystis fusca Bainier SPECIES
-=======
+# Sterigmatocystis fusca Bainier SPECIES
 
 #### Status
 ACCEPTED

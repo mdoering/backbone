@@ -1,5 +1,4 @@
-Cytospora baccharidis Grove SPECIES
-=======
+# Cytospora baccharidis Grove SPECIES
 
 #### Status
 ACCEPTED

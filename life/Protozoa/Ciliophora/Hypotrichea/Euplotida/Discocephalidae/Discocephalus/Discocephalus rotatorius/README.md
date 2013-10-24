@@ -1,5 +1,4 @@
-Discocephalus rotatorius Ehrenberg, 1828 SPECIES
-=======
+# Discocephalus rotatorius Ehrenberg, 1828 SPECIES
 
 #### Status
 ACCEPTED

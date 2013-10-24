@@ -1,5 +1,4 @@
-Bicoeca petiolatum (F. Stein) Pringsh. SPECIES
-=======
+# Bicoeca petiolatum (F. Stein) Pringsh. SPECIES
 
 #### Status
 ACCEPTED

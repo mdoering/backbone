@@ -1,5 +1,4 @@
-Tribolites triangulatus (Peppers) Kalgutkar & Janson. SPECIES
-=======
+# Tribolites triangulatus (Peppers) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

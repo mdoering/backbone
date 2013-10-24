@@ -1,5 +1,4 @@
-Cercospora fici-caricae Sawada SPECIES
-=======
+# Cercospora fici-caricae Sawada SPECIES
 
 #### Status
 ACCEPTED

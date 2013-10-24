@@ -1,5 +1,4 @@
-Hysteridium P. Karst. GENUS
-=======
+# Hysteridium P. Karst. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanobrevibacter Balch & Wolfe, 1981 GENUS
-=======
+# Methanobrevibacter Balch & Wolfe, 1981 GENUS
 
 #### Status
 ACCEPTED

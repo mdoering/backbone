@@ -1,5 +1,4 @@
-Botrydium stoloniferum Mitra SPECIES
-=======
+# Botrydium stoloniferum Mitra SPECIES
 
 #### Status
 ACCEPTED

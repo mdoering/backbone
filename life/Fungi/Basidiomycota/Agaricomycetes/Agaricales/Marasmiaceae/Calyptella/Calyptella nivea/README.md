@@ -1,5 +1,4 @@
-Calyptella nivea Quél. SPECIES
-=======
+# Calyptella nivea Quél. SPECIES
 
 #### Status
 ACCEPTED

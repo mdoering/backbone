@@ -1,5 +1,4 @@
-Sporisorium persicum Vánky & H. Scholz SPECIES
-=======
+# Sporisorium persicum Vánky & H. Scholz SPECIES
 
 #### Status
 ACCEPTED

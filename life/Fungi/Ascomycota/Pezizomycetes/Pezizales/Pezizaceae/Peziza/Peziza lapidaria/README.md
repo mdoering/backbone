@@ -1,5 +1,4 @@
-Peziza lapidaria (Cooke) SPECIES
-=======
+# Peziza lapidaria (Cooke) SPECIES
 
 #### Status
 ACCEPTED

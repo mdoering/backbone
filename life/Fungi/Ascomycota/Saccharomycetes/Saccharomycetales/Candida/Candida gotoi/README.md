@@ -1,5 +1,4 @@
-Candida gotoi Nakase & M. Suzuki, 1997 SPECIES
-=======
+# Candida gotoi Nakase & M. Suzuki, 1997 SPECIES
 
 #### Status
 ACCEPTED

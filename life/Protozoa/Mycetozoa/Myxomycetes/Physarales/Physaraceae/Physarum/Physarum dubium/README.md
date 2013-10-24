@@ -1,5 +1,4 @@
-Physarum dubium Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Physarum dubium Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

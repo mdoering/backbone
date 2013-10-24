@@ -1,8 +1,7 @@
-Fucus pseudociliatus J.V. Lamouroux SPECIES
-=======
+# Taonia pseudociliata (J.V. Lamouroux) Nizamuddin & Godeh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

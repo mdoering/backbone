@@ -1,5 +1,4 @@
-Coniothyrium quercellum Brunaud SPECIES
-=======
+# Coniothyrium quercellum Brunaud SPECIES
 
 #### Status
 ACCEPTED

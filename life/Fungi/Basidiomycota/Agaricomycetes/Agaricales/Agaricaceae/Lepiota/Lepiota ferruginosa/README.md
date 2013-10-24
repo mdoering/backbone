@@ -1,5 +1,4 @@
-Lepiota ferruginosa Bres. SPECIES
-=======
+# Lepiota ferruginosa Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus cacabus Fr., 1838 SPECIES
-=======
+# Clitocybe cacabus (Fr.) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 174 (1887)
 
 #### Original name
-null
+Agaricus cacabus Fr., 1838
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria scapophila Peck SPECIES
-=======
+# Sphaeria scapophila Peck SPECIES
 
 #### Status
 ACCEPTED

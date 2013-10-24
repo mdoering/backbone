@@ -1,5 +1,4 @@
-Phyllosticta panici-maximi Cif. & Gonz. Frag. SPECIES
-=======
+# Phyllosticta panici-maximi Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

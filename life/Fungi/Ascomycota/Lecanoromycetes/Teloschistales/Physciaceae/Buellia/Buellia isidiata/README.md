@@ -1,5 +1,4 @@
-Buellia isidiata Herre SPECIES
-=======
+# Buellia isidiata Herre SPECIES
 
 #### Status
 ACCEPTED

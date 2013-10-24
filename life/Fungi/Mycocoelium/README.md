@@ -1,5 +1,4 @@
-Mycocoelium Kütz. GENUS
-=======
+# Mycocoelium Kütz. GENUS
 
 #### Status
 ACCEPTED

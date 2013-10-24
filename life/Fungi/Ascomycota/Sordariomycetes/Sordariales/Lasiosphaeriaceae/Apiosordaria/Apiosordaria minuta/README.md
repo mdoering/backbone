@@ -1,5 +1,4 @@
-Apiosordaria minuta Valldos. & Guarro SPECIES
-=======
+# Apiosordaria minuta Valldos. & Guarro SPECIES
 
 #### Status
 ACCEPTED

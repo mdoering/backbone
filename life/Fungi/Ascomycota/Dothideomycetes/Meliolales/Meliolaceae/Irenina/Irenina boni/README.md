@@ -1,5 +1,4 @@
-Irenina boni (Gaillard) F. Stevens SPECIES
-=======
+# Irenina boni (Gaillard) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

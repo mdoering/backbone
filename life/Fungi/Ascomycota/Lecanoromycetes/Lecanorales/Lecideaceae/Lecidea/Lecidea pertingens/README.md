@@ -1,5 +1,4 @@
-Lecidea pertingens Nyl. SPECIES
-=======
+# Lecidea pertingens Nyl. SPECIES
 
 #### Status
 ACCEPTED

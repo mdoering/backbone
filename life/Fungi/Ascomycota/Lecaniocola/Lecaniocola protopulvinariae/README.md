@@ -1,5 +1,4 @@
-Lecaniocola protopulvinariae Brain SPECIES
-=======
+# Lecaniocola protopulvinariae Brain SPECIES
 
 #### Status
 ACCEPTED

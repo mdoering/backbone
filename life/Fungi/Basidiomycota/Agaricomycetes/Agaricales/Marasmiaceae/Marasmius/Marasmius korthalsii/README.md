@@ -1,5 +1,4 @@
-Marasmius korthalsii Fr. SPECIES
-=======
+# Marasmius korthalsii Fr. SPECIES
 
 #### Status
 ACCEPTED

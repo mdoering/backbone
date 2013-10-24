@@ -1,5 +1,4 @@
-Sphaeria coptis Schwein. SPECIES
-=======
+# Sphaeria coptis Schwein. SPECIES
 
 #### Status
 ACCEPTED

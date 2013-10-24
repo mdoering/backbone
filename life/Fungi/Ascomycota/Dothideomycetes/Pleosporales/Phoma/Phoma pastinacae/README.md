@@ -1,5 +1,4 @@
-Phoma pastinacae (Schwein.) B. Sutton SPECIES
-=======
+# Phoma pastinacae (Schwein.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria trametopora Pilát SPECIES
-=======
+# Poria trametopora Pilát SPECIES
 
 #### Status
 ACCEPTED

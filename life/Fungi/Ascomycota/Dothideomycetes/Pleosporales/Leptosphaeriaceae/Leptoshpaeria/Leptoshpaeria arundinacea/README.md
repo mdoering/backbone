@@ -1,5 +1,4 @@
-Leptoshpaeria arundinacea (Sowerby) Sacc., 1873 SPECIES
-=======
+# Leptoshpaeria arundinacea (Sowerby) Sacc., 1873 SPECIES
 
 #### Status
 ACCEPTED

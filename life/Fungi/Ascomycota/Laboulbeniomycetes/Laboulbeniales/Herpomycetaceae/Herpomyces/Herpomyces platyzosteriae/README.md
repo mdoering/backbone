@@ -1,5 +1,4 @@
-Herpomyces platyzosteriae Thaxt. SPECIES
-=======
+# Herpomyces platyzosteriae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

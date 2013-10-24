@@ -1,5 +1,4 @@
-Rubigo alnea (Pers.) Link SPECIES
-=======
+# Rubigo alnea (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

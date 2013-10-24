@@ -1,5 +1,4 @@
-Cladonia indica Ahti & Upreti SPECIES
-=======
+# Cladonia indica Ahti & Upreti SPECIES
 
 #### Status
 ACCEPTED

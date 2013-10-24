@@ -1,5 +1,4 @@
-Nolanea lisalensis (Beeli) Pegler SPECIES
-=======
+# Nolanea lisalensis (Beeli) Pegler SPECIES
 
 #### Status
 ACCEPTED

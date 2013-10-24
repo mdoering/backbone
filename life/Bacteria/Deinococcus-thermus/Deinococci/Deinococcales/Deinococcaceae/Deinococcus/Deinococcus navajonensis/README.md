@@ -1,5 +1,4 @@
-Deinococcus navajonensis Rainey & da Costa, 2005 SPECIES
-=======
+# Deinococcus navajonensis Rainey & da Costa, 2005 SPECIES
 
 #### Status
 ACCEPTED

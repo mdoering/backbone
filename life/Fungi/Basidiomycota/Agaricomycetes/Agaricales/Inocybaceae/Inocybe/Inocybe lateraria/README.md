@@ -1,5 +1,4 @@
-Inocybe lateraria Rick SPECIES
-=======
+# Inocybe lateraria Rick SPECIES
 
 #### Status
 ACCEPTED

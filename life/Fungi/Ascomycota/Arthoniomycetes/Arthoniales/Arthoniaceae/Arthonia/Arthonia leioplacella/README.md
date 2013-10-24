@@ -1,5 +1,4 @@
-Arthonia leioplacella Zahlbr. SPECIES
-=======
+# Arthonia leioplacella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Digitodesmium intermedium SPECIES
-=======
+# Digitodesmium intermedium SPECIES
 
 #### Status
 ACCEPTED

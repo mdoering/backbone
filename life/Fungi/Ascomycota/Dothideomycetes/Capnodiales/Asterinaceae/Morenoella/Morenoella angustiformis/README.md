@@ -1,5 +1,4 @@
-Morenoella angustiformis (Tracy & Earle) Theiss. SPECIES
-=======
+# Morenoella angustiformis (Tracy & Earle) Theiss. SPECIES
 
 #### Status
 ACCEPTED

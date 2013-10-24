@@ -1,5 +1,4 @@
-Rhizocarpon caesium Fryday SPECIES
-=======
+# Rhizocarpon caesium Fryday SPECIES
 
 #### Status
 ACCEPTED

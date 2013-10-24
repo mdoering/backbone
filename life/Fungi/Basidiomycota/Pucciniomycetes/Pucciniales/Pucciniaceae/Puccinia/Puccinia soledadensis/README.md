@@ -1,5 +1,4 @@
-Puccinia soledadensis Mayor SPECIES
-=======
+# Puccinia soledadensis Mayor SPECIES
 
 #### Status
 ACCEPTED

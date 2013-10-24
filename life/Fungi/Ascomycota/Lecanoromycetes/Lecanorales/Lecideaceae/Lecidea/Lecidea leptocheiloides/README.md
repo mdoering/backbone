@@ -1,5 +1,4 @@
-Lecidea leptocheiloides (Nyl.) SPECIES
-=======
+# Lecidea leptocheiloides (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

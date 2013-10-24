@@ -1,5 +1,4 @@
-Globulina sarothamni Velen. SPECIES
-=======
+# Globulina sarothamni Velen. SPECIES
 
 #### Status
 ACCEPTED

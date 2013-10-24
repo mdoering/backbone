@@ -1,5 +1,4 @@
-Ramularia islandica Jørst. SPECIES
-=======
+# Ramularia islandica Jørst. SPECIES
 
 #### Status
 ACCEPTED

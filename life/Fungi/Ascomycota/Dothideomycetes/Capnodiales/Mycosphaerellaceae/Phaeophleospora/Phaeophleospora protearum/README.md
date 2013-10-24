@@ -1,5 +1,4 @@
-Phaeophleospora protearum (Wakef.) Crous & M.E. Palm SPECIES
-=======
+# Phaeophleospora protearum (Wakef.) Crous & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

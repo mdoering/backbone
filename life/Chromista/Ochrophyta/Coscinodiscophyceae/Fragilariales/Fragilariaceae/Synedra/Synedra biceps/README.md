@@ -1,11 +1,10 @@
-Synedra ulna f. longissima (W. Smith) Abshagen, 1908 FORM
-=======
+# Synedra biceps W. Smith SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

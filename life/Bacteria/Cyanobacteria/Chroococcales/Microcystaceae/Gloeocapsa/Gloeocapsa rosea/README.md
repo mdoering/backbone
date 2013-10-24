@@ -1,5 +1,4 @@
-Gloeocapsa rosea Kützing SPECIES
-=======
+# Gloeocapsa rosea Kützing SPECIES
 
 #### Status
 ACCEPTED

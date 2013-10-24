@@ -1,5 +1,4 @@
-Fragmocirrus Foissner, 2000 GENUS
-=======
+# Fragmocirrus Foissner, 2000 GENUS
 
 #### Status
 ACCEPTED

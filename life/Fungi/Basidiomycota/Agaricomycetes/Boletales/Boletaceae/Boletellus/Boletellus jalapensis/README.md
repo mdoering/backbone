@@ -1,5 +1,4 @@
-Boletellus jalapensis (Murrill) E.-J. Gilbert SPECIES
-=======
+# Boletellus jalapensis (Murrill) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

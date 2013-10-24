@@ -1,5 +1,4 @@
-Ascochyta corticola McAlpine, 1899 SPECIES
-=======
+# Ascochyta corticola McAlpine, 1899 SPECIES
 
 #### Status
 ACCEPTED

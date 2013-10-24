@@ -1,17 +1,16 @@
-Sporotrichum sporulosum var. sporulosum VARIETY
-=======
+# Trichoderma polysporum (Link) Rifai, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 116: 18 (1969)
 
 #### Original name
-null
+Sporotrichum polysporum Link, 1816
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea conglomerascens Nyl. SPECIES
-=======
+# Lecidea conglomerascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

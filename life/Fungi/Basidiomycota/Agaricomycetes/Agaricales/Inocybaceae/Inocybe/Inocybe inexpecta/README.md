@@ -1,5 +1,4 @@
-Inocybe inexpecta M. Villarreal, Esteve-Rav., Heykoop & E. Horak SPECIES
-=======
+# Inocybe inexpecta M. Villarreal, Esteve-Rav., Heykoop & E. Horak SPECIES
 
 #### Status
 ACCEPTED

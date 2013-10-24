@@ -1,14 +1,13 @@
-Pseudospiropes dumeti Lunghini & Pinzari, 1996 SPECIES
-=======
+# Minimelanolocus dumeti (Lunghini & Pinzari) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 58: 343 (1996)
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 10 (2001)
 
 #### Original name
 Pseudospiropes dumeti Lunghini & Pinzari, 1996

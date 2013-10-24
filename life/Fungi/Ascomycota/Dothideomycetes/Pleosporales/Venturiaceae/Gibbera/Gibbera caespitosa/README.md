@@ -1,5 +1,4 @@
-Gibbera caespitosa (G. Winter) Arx SPECIES
-=======
+# Gibbera caespitosa (G. Winter) Arx SPECIES
 
 #### Status
 ACCEPTED

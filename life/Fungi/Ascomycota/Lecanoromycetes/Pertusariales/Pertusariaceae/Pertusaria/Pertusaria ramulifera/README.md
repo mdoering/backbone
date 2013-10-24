@@ -1,5 +1,4 @@
-Pertusaria ramulifera H. Magn. SPECIES
-=======
+# Pertusaria ramulifera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

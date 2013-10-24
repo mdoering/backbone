@@ -1,5 +1,4 @@
-Leptonia torrenterae Rolland SPECIES
-=======
+# Leptonia torrenterae Rolland SPECIES
 
 #### Status
 ACCEPTED

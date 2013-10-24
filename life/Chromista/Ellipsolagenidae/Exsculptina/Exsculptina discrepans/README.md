@@ -1,5 +1,4 @@
-Exsculptina discrepans (Cushman & Gray, 1946) SPECIES
-=======
+# Exsculptina discrepans (Cushman & Gray, 1946) SPECIES
 
 #### Status
 ACCEPTED

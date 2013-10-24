@@ -1,5 +1,4 @@
-Lecanora perflavida Nyl. SPECIES
-=======
+# Lecanora perflavida Nyl. SPECIES
 
 #### Status
 ACCEPTED

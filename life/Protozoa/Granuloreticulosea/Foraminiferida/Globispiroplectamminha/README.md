@@ -1,5 +1,4 @@
-Globispiroplectamminha GENUS
-=======
+# Globispiroplectamminha GENUS
 
 #### Status
 ACCEPTED

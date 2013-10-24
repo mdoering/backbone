@@ -1,5 +1,4 @@
-Pyxidium invaginatum subsp. invaginatum SUBSPECIES
-=======
+# Pyxidium invaginatum Stokes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta ribis-rubri Voglino SPECIES
-=======
+# Phyllosticta ribis-rubri Voglino SPECIES
 
 #### Status
 ACCEPTED

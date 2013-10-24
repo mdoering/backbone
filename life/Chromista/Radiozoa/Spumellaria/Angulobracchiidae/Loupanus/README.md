@@ -1,5 +1,4 @@
-Loupanus Carter, 1993 GENUS
-=======
+# Loupanus Carter, 1993 GENUS
 
 #### Status
 ACCEPTED

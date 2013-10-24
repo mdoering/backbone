@@ -1,5 +1,4 @@
-Braarudosphaera gartneri M.V. Filewicz, F.H. Wind & S.W. Wise SPECIES
-=======
+# Braarudosphaera gartneri M.V. Filewicz, F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

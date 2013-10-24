@@ -1,5 +1,4 @@
-Puccinia hajanthemi Dietel SPECIES
-=======
+# Puccinia hajanthemi Dietel SPECIES
 
 #### Status
 ACCEPTED

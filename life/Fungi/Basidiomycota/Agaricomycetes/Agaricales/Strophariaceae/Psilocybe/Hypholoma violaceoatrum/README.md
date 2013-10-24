@@ -1,5 +1,4 @@
-Hypholoma violaceoatrum (Letell.) Gillet SPECIES
-=======
+# Hypholoma violaceoatrum (Letell.) Gillet SPECIES
 
 #### Status
 ACCEPTED

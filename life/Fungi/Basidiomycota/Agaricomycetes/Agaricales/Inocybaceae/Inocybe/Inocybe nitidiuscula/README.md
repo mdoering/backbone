@@ -1,5 +1,4 @@
-Inocybe nitidiuscula f. nitidiuscula FORM
-=======
+# Inocybe nitidiuscula (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 11: 53 (1895)
+null
 
 #### Original name
-Inocybe nitidiuscula f. nitidiuscula
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptonia densifolia Velen. SPECIES
-=======
+# Leptonia densifolia Velen. SPECIES
 
 #### Status
 ACCEPTED

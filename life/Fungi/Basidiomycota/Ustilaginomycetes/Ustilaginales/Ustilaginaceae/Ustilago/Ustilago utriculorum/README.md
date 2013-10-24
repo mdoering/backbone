@@ -1,5 +1,4 @@
-Ustilago utriculorum Fr. SPECIES
-=======
+# Ustilago utriculorum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaerofustis stercorihominis Finegold et al., 2004 SPECIES
-=======
+# Anaerofustis stercorihominis Finegold et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

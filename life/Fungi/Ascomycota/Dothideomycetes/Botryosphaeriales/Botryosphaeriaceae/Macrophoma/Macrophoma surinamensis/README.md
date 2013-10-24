@@ -1,5 +1,4 @@
-Macrophoma surinamensis (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Macrophoma surinamensis (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

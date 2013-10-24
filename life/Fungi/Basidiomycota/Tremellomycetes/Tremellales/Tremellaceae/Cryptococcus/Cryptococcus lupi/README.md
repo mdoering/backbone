@@ -1,5 +1,4 @@
-Cryptococcus lupi Baharaeen & Vishniac SPECIES
-=======
+# Cryptococcus lupi Baharaeen & Vishniac SPECIES
 
 #### Status
 ACCEPTED

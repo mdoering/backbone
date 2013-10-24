@@ -1,5 +1,4 @@
-Hymenoscyphus rozei (Quél.) Kuntze SPECIES
-=======
+# Hymenoscyphus rozei (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

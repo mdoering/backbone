@@ -1,5 +1,4 @@
-Zooshikella ganghwensis Yi et al., 2003 SPECIES
-=======
+# Zooshikella ganghwensis Yi et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

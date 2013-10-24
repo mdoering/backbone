@@ -1,5 +1,4 @@
-Lecidea atricha Vain. SPECIES
-=======
+# Lecidea atricha Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermoactinomyces vulgaris Tsilinsky, 1899 (Approved Lists, 1980) SPECIES
-=======
+# Thermoactinomyces vulgaris Tsilinsky, 1899 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

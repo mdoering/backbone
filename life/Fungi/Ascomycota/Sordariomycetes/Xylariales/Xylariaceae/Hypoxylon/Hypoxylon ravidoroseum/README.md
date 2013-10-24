@@ -1,5 +1,4 @@
-Hypoxylon ravidoroseum Y.M. Ju, Van der Gucht & J.D. Rogers, 1995 SPECIES
-=======
+# Hypoxylon ravidoroseum Y.M. Ju, Van der Gucht & J.D. Rogers, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohelotium alaunae Graddon, 1972 SPECIES
-=======
+# Pseudohelotium alaunae Graddon, 1972 SPECIES
 
 #### Status
 ACCEPTED

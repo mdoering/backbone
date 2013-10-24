@@ -1,5 +1,4 @@
-Mycosphaerella zilingii Petr. SPECIES
-=======
+# Mycosphaerella zilingii Petr. SPECIES
 
 #### Status
 ACCEPTED

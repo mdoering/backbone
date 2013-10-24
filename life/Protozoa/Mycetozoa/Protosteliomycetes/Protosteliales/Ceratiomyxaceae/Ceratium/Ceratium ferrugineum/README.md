@@ -1,5 +1,4 @@
-Ceratium ferrugineum Wallr. SPECIES
-=======
+# Ceratium ferrugineum Wallr. SPECIES
 
 #### Status
 ACCEPTED

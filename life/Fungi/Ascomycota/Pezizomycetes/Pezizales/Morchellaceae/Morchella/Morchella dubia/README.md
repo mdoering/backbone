@@ -1,5 +1,4 @@
-Morchella dubia Mérat SPECIES
-=======
+# Morchella dubia Mérat SPECIES
 
 #### Status
 ACCEPTED

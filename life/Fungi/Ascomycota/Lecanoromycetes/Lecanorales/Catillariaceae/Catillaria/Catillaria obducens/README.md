@@ -1,5 +1,4 @@
-Catillaria obducens Derb. SPECIES
-=======
+# Catillaria obducens Derb. SPECIES
 
 #### Status
 ACCEPTED

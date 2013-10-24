@@ -1,5 +1,4 @@
-Protriticites Elias, 1959 GENUS
-=======
+# Protriticites Elias, 1959 GENUS
 
 #### Status
 ACCEPTED

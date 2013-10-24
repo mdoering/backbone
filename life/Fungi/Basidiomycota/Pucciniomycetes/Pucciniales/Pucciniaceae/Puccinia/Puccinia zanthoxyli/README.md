@@ -1,8 +1,7 @@
-Puccinia xanthoxyli E. Fisch. SPECIES
-=======
+# Puccinia zanthoxyli E. Fisch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia xanthoxyli E. Fisch.
+Puccinia zanthoxyli E. Fisch.
 
 ### Remarks
 null

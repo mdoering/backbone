@@ -1,5 +1,4 @@
-Boletellus fujianensis H.A. Wen SPECIES
-=======
+# Boletellus fujianensis H.A. Wen SPECIES
 
 #### Status
 ACCEPTED

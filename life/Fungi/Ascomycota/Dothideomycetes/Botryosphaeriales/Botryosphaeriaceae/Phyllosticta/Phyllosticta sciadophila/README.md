@@ -1,5 +1,4 @@
-Phyllosticta sciadophila Speg. SPECIES
-=======
+# Phyllosticta sciadophila Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella pyrenastrella var. pyrenastrella VARIETY
-=======
+# Didymella pyrenastrella SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 49(2): 210 (1921)
+null
 
 #### Original name
-Didymella pyrenastrella var. pyrenastrella
+null
 
 ### Remarks
 null

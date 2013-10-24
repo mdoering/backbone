@@ -1,5 +1,4 @@
-Verrucaria rauca f. rauca FORM
-=======
+# Verrucaria rauca Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria rauca f. rauca
+Verrucaria rauca Servít
 
 ### Remarks
 null

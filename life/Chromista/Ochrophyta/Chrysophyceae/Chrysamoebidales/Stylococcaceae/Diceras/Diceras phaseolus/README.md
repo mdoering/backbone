@@ -1,5 +1,4 @@
-Diceras phaseolus Fott. SPECIES
-=======
+# Diceras phaseolus Fott. SPECIES
 
 #### Status
 ACCEPTED

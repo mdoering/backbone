@@ -1,5 +1,4 @@
-Parmelia fibrillosa Hook. f. SPECIES
-=======
+# Parmelia fibrillosa Hook. f. SPECIES
 
 #### Status
 ACCEPTED

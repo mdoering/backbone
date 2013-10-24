@@ -1,5 +1,4 @@
-Leptothyrium monotropae Henn. SPECIES
-=======
+# Leptothyrium monotropae Henn. SPECIES
 
 #### Status
 ACCEPTED

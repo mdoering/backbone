@@ -1,5 +1,4 @@
-Uraecium lucumae Arthur, 1933 SPECIES
-=======
+# Uraecium lucumae Arthur, 1933 SPECIES
 
 #### Status
 ACCEPTED

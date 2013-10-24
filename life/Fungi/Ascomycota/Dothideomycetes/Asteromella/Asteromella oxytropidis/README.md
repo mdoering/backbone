@@ -1,5 +1,4 @@
-Asteromella oxytropidis Murashk. SPECIES
-=======
+# Asteromella oxytropidis Murashk. SPECIES
 
 #### Status
 ACCEPTED

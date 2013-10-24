@@ -1,5 +1,4 @@
-Cercospora profusa Syd. & P. Syd. SPECIES
-=======
+# Cercospora profusa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

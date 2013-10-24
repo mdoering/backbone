@@ -1,5 +1,4 @@
-Xanthoparmelia aliphatica Hale SPECIES
-=======
+# Xanthoparmelia aliphatica Hale SPECIES
 
 #### Status
 ACCEPTED

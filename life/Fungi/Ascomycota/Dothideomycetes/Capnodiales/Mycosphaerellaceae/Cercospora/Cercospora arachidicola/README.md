@@ -1,5 +1,4 @@
-Cercospora arachidicola Hori SPECIES
-=======
+# Cercospora arachidicola Hori SPECIES
 
 #### Status
 ACCEPTED

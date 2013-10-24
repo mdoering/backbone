@@ -1,8 +1,7 @@
-Pseudomonas syringae subsp. savastanoi (ex Smith, 1908) Janse, 1982 SUBSPECIES
-=======
+# Pseudomonas savastanoi (Janse, 1982) Gardan et al., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

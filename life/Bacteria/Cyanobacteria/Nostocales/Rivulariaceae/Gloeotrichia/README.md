@@ -1,14 +1,13 @@
-Portacus Kuntze, 1891 GENUS
-=======
+# Gloeotrichia J.Agardh ex Bornet & Flahault, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Gener. 2: 911.
+Ann. Sci. Nat. Bot. , ser. 7, 4: 365.
 
 #### Original name
 null

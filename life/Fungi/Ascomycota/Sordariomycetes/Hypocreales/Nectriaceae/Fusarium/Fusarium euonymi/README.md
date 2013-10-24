@@ -1,5 +1,4 @@
-Fusarium euonymi Syd. {?} SPECIES
-=======
+# Fusarium euonymi Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

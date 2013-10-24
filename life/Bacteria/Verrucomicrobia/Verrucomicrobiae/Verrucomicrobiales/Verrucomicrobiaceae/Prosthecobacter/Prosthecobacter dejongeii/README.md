@@ -1,5 +1,4 @@
-Prosthecobacter dejongeii Hedlund et al., 1998 SPECIES
-=======
+# Prosthecobacter dejongeii Hedlund et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

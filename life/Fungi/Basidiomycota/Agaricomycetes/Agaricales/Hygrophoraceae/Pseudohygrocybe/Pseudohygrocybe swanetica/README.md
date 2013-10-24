@@ -1,5 +1,4 @@
-Pseudohygrocybe swanetica (Singer) Kovalenko SPECIES
-=======
+# Pseudohygrocybe swanetica (Singer) Kovalenko SPECIES
 
 #### Status
 ACCEPTED

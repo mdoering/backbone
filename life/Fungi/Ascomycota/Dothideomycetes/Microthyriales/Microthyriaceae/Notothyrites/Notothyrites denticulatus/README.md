@@ -1,5 +1,4 @@
-Notothyrites denticulatus Ramanujam & K.P. Rao SPECIES
-=======
+# Notothyrites denticulatus Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

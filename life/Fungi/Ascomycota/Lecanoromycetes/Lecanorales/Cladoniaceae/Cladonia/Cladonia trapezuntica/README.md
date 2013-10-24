@@ -1,5 +1,4 @@
-Cladonia trapezuntica J. Stainer SPECIES
-=======
+# Cladonia trapezuntica J. Stainer SPECIES
 
 #### Status
 ACCEPTED

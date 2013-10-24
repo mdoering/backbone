@@ -1,5 +1,4 @@
-Endocronartium Y. Hirats. GENUS
-=======
+# Endocronartium Y. Hirats. GENUS
 
 #### Status
 ACCEPTED

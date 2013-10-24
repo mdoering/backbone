@@ -1,5 +1,4 @@
-Dioszegia GENUS
-=======
+# Dioszegia GENUS
 
 #### Status
 ACCEPTED

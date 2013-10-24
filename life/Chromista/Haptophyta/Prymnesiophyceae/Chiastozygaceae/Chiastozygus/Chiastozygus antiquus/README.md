@@ -1,5 +1,4 @@
-Chiastozygus antiquus SPECIES
-=======
+# Chiastozygus antiquus SPECIES
 
 #### Status
 ACCEPTED

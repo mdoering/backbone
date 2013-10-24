@@ -1,5 +1,4 @@
-Clitopilus pascuensis Peck SPECIES
-=======
+# Clitopilus pascuensis Peck SPECIES
 
 #### Status
 ACCEPTED

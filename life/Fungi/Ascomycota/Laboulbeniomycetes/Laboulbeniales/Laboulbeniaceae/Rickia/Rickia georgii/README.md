@@ -1,5 +1,4 @@
-Rickia georgii T. Majewski SPECIES
-=======
+# Rickia georgii T. Majewski SPECIES
 
 #### Status
 ACCEPTED

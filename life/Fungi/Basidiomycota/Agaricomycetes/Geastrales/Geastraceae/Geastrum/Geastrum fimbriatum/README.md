@@ -1,17 +1,16 @@
-Geastrum fimbriatum var. fimbriatum VARIETY
-=======
+# Geastrum fimbriatum Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. mycol. (Lundae) 3(1): 16 (1829)
 
 #### Original name
-Geastrum fimbriatum var. fimbriatum
+Geastrum fimbriatum Fr., 1829
 
 ### Remarks
 null

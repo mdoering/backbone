@@ -1,5 +1,4 @@
-Tremella arachispora P. Roberts, 2003 SPECIES
-=======
+# Tremella arachispora P. Roberts, 2003 SPECIES
 
 #### Status
 ACCEPTED

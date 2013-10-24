@@ -1,5 +1,4 @@
-Ramalina retiformis Menz. SPECIES
-=======
+# Ramalina retiformis Menz. SPECIES
 
 #### Status
 ACCEPTED

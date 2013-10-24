@@ -1,5 +1,4 @@
-Sinodidymella utahensis (Petr.) M.E. Barr SPECIES
-=======
+# Sinodidymella utahensis (Petr.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

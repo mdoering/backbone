@@ -1,5 +1,4 @@
-Stachybotryella destructiva Sacc. & Dearn. SPECIES
-=======
+# Stachybotryella destructiva Sacc. & Dearn. SPECIES
 
 #### Status
 ACCEPTED

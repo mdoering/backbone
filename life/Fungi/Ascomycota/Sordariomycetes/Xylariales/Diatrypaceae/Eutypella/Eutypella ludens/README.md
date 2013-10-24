@@ -1,5 +1,4 @@
-Eutypella ludens (Speg.) Rappaz SPECIES
-=======
+# Eutypella ludens (Speg.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

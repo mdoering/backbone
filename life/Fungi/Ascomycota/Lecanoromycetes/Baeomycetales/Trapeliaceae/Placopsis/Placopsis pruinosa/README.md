@@ -1,5 +1,4 @@
-Placopsis pruinosa D. J. Galloway SPECIES
-=======
+# Placopsis pruinosa D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

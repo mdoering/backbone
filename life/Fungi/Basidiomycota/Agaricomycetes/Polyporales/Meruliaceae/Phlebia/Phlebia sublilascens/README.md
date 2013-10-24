@@ -1,5 +1,4 @@
-Phlebia sublilascens (Litsch.) Parmasto SPECIES
-=======
+# Phlebia sublilascens (Litsch.) Parmasto SPECIES
 
 #### Status
 ACCEPTED

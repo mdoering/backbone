@@ -1,5 +1,4 @@
-Amanita veldiei D.A. Reid & Eicker SPECIES
-=======
+# Amanita veldiei D.A. Reid & Eicker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria ficinae Rak. Kumar, A.N. Rai & K.M. Vyas SPECIES
-=======
+# Alternaria ficinae Rak. Kumar, A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

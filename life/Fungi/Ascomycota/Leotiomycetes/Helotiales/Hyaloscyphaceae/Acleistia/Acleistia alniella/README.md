@@ -1,5 +1,4 @@
-Acleistia alniella Bayl. Ell., 1917 SPECIES
-=======
+# Acleistia alniella Bayl. Ell., 1917 SPECIES
 
 #### Status
 ACCEPTED

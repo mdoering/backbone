@@ -1,5 +1,4 @@
-Marcelleina benkertii J. Moravec SPECIES
-=======
+# Marcelleina benkertii J. Moravec SPECIES
 
 #### Status
 ACCEPTED

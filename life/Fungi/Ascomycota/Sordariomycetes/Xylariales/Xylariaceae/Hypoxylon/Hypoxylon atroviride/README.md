@@ -1,5 +1,4 @@
-Hypoxylon atroviride Ellis & Everh. SPECIES
-=======
+# Hypoxylon atroviride Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria sorodes Stirt. SPECIES
-=======
+# Pertusaria sorodes Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platycola pala Swarczewsky, 1930 SPECIES
-=======
+# Platycola pala Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

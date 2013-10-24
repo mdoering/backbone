@@ -1,5 +1,4 @@
-Erioderma boreale Ahlner SPECIES
-=======
+# Erioderma boreale Ahlner SPECIES
 
 #### Status
 ACCEPTED

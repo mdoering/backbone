@@ -1,5 +1,4 @@
-Aphanothece variabilis (Schiller) Komárek SPECIES
-=======
+# Aphanothece variabilis (Schiller) Komárek SPECIES
 
 #### Status
 ACCEPTED

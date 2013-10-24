@@ -1,5 +1,4 @@
-Scytonema polycystum var. aethiopicum W. West & G.S. West VARIETY
-=======
+# Scytonema polycystum Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

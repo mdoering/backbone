@@ -1,5 +1,4 @@
-Haplotrichum candidum Eschw. SPECIES
-=======
+# Haplotrichum candidum Eschw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bolbitius candidus Cooke & Massee, 1892 SPECIES
-=======
+# Conocybe candida (Cooke & Massee) Watling, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 21(no. 98): 37 (1892)
+Kew Bull. 31: 593 (1977)
 
 #### Original name
 Bolbitius candidus Cooke & Massee, 1892

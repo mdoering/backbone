@@ -1,5 +1,4 @@
-Asterina aphanes Petr. SPECIES
-=======
+# Asterina aphanes Petr. SPECIES
 
 #### Status
 ACCEPTED

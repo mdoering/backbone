@@ -1,5 +1,4 @@
-Endamoeba similans SPECIES
-=======
+# Endamoeba similans SPECIES
 
 #### Status
 ACCEPTED

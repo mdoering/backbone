@@ -1,5 +1,4 @@
-Chaetoceros paradox Cleve SPECIES
-=======
+# Chaetoceros paradox Cleve SPECIES
 
 #### Status
 ACCEPTED

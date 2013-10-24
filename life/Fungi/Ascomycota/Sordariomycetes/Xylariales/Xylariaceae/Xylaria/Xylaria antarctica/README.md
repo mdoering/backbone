@@ -1,5 +1,4 @@
-Xylaria antarctica Speg. SPECIES
-=======
+# Xylaria antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia querci Bin Liu, Xing Z. Liu & W.Y. Zhuang SPECIES
-=======
+# Orbilia querci Bin Liu, Xing Z. Liu & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

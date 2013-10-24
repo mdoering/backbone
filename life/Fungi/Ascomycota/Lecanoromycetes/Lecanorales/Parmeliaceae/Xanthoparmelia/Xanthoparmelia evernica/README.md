@@ -1,5 +1,4 @@
-Xanthoparmelia evernica Hale SPECIES
-=======
+# Xanthoparmelia evernica Hale SPECIES
 
 #### Status
 ACCEPTED

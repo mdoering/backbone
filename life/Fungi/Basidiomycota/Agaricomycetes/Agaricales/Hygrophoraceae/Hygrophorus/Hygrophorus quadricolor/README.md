@@ -1,5 +1,4 @@
-Hygrophorus quadricolor R. Heim SPECIES
-=======
+# Hygrophorus quadricolor R. Heim SPECIES
 
 #### Status
 ACCEPTED

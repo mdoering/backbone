@@ -1,5 +1,4 @@
-Massariella oleae A.M. Corte SPECIES
-=======
+# Massariella oleae A.M. Corte SPECIES
 
 #### Status
 ACCEPTED

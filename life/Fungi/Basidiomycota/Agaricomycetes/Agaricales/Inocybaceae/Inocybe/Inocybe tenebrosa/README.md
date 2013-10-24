@@ -1,17 +1,16 @@
-Inocybe atripes f. atripes FORM
-=======
+# Inocybe tenebrosa Quél., 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 5: 210 (1918)
+Compt. Rend. Assoc. Franç. Avancem. Sci. 13: 279 (1885)
 
 #### Original name
-Inocybe atripes f. atripes
+Inocybe tenebrosa Quél., 1885
 
 ### Remarks
 null

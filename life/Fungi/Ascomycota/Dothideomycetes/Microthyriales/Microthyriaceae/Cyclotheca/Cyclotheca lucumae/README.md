@@ -1,5 +1,4 @@
-Cyclotheca lucumae Bat. & O.M. Fonseca SPECIES
-=======
+# Cyclotheca lucumae Bat. & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia melasema C. Knight SPECIES
-=======
+# Bacidia melasema C. Knight SPECIES
 
 #### Status
 ACCEPTED

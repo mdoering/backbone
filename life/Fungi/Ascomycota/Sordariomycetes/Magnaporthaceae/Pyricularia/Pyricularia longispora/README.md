@@ -1,5 +1,4 @@
-Pyricularia longispora Bussaban SPECIES
-=======
+# Pyricularia longispora Bussaban SPECIES
 
 #### Status
 ACCEPTED

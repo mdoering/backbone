@@ -1,5 +1,4 @@
-Hendersonia etrusca Tognini SPECIES
-=======
+# Hendersonia etrusca Tognini SPECIES
 
 #### Status
 ACCEPTED

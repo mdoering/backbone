@@ -1,5 +1,4 @@
-Candida linzhiensis F.Y. Bai & Z.W. Wu SPECIES
-=======
+# Candida linzhiensis F.Y. Bai & Z.W. Wu SPECIES
 
 #### Status
 ACCEPTED

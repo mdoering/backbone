@@ -1,5 +1,4 @@
-Sorosporium dianthi-superbi Liro SPECIES
-=======
+# Sorosporium dianthi-superbi Liro SPECIES
 
 #### Status
 ACCEPTED

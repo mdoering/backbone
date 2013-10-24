@@ -1,5 +1,4 @@
-Cercospora pumila Syd. & P. Syd. SPECIES
-=======
+# Cercospora pumila Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

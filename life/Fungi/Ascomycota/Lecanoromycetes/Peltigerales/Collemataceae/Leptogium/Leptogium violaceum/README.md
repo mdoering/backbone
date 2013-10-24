@@ -1,5 +1,4 @@
-Leptogium violaceum B. de Lesd. SPECIES
-=======
+# Leptogium violaceum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

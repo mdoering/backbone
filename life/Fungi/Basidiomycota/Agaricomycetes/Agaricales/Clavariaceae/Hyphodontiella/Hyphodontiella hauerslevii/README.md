@@ -1,5 +1,4 @@
-Hyphodontiella hauerslevii K.H. Larss. & Hjortstam, 1995 SPECIES
-=======
+# Hyphodontiella hauerslevii K.H. Larss. & Hjortstam, 1995 SPECIES
 
 #### Status
 ACCEPTED

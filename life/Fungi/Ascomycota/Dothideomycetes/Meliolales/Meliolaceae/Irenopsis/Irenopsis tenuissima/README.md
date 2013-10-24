@@ -1,5 +1,4 @@
-Irenopsis tenuissima (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis tenuissima (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

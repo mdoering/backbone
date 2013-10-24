@@ -1,5 +1,4 @@
-Hemitrichia melanopeziza Speg. SPECIES
-=======
+# Hemitrichia melanopeziza Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus cupuliformis Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus cupuliformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

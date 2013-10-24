@@ -1,5 +1,4 @@
-Naemaspora ribis Ehrenb. SPECIES
-=======
+# Naemaspora ribis Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

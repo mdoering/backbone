@@ -1,5 +1,4 @@
-Clitocybe furfuracea Z.S. Bi SPECIES
-=======
+# Clitocybe furfuracea Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

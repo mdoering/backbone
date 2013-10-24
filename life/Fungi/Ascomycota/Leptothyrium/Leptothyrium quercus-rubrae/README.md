@@ -1,5 +1,4 @@
-Leptothyrium quercus-rubrae Oudem. SPECIES
-=======
+# Leptothyrium quercus-rubrae Oudem. SPECIES
 
 #### Status
 ACCEPTED

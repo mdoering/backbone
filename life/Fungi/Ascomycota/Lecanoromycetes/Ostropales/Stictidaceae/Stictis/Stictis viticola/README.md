@@ -1,5 +1,4 @@
-Stictis viticola Sherwood SPECIES
-=======
+# Stictis viticola Sherwood SPECIES
 
 #### Status
 ACCEPTED

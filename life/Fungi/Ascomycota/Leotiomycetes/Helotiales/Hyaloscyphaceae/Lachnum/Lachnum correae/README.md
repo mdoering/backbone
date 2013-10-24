@@ -1,5 +1,4 @@
-Lachnum correae Spooner, 1987 SPECIES
-=======
+# Lachnum correae Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED

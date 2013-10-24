@@ -1,17 +1,16 @@
-Polyporus dictyoporus Cooke, 1883 SPECIES
-=======
+# Macrohyporia dictyopora (Cooke) I. Johans. & Ryvarden, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 12(no. 61): 17 (1883)
+Trans. Br. mycol. Soc. 72(2): 192 (1979)
 
 #### Original name
-Polyporus dictyoporus Cooke, 1883
+Poria dictyopora (Cooke) Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Melosira orichalcea (Mertens ex Jorg.) Kützing SPECIES
-=======
+# Melosira orichalcea (Mertens ex Jorg.) Kützing SPECIES
 
 #### Status
 ACCEPTED

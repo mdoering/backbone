@@ -1,5 +1,4 @@
-Passalora tinosporae (A.K. Kar & J.B. Ray) Poonam Srivast. SPECIES
-=======
+# Passalora tinosporae (A.K. Kar & J.B. Ray) Poonam Srivast. SPECIES
 
 #### Status
 ACCEPTED

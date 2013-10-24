@@ -1,5 +1,4 @@
-Pezizella lobulata Velen. SPECIES
-=======
+# Pezizella lobulata Velen. SPECIES
 
 #### Status
 ACCEPTED

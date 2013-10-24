@@ -1,14 +1,13 @@
-Clavaria asterella G.F. Atk., 1908 SPECIES
-=======
+# Ramariopsis asterella (G.F. Atk.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 6(1): 55 (1908)
+Ann. Bot. Mem. 1: 638 (1950)
 
 #### Original name
 Clavaria asterella G.F. Atk., 1908

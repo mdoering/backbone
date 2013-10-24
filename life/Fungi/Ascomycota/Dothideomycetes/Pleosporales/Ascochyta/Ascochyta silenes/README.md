@@ -1,5 +1,4 @@
-Ascochyta silenes f. silenes FORM
-=======
+# Ascochyta silenes Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta silenes f. silenes
+Ascochyta silenes Ellis & Everh.
 
 ### Remarks
 null

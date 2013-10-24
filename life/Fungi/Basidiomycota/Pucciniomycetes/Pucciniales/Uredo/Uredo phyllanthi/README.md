@@ -1,5 +1,4 @@
-Uredo phyllanthi Henn. SPECIES
-=======
+# Uredo phyllanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aurantioporus Murrill GENUS
-=======
+# Aurantiporus Murrill, 1905 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Aurantioporus Murrill
+null
 
 ### Remarks
 null

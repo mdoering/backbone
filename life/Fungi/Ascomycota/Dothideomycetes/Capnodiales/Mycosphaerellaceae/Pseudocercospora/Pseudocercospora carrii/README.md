@@ -1,5 +1,4 @@
-Pseudocercospora carrii (Barthol.) U. Braun SPECIES
-=======
+# Pseudocercospora carrii (Barthol.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

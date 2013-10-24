@@ -1,5 +1,4 @@
-Ramularia craccae J. Lindau SPECIES
-=======
+# Ramularia craccae J. Lindau SPECIES
 
 #### Status
 ACCEPTED

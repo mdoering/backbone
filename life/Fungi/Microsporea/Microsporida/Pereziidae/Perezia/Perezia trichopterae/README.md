@@ -1,5 +1,4 @@
-Perezia trichopterae J. Weiser SPECIES
-=======
+# Perezia trichopterae J. Weiser SPECIES
 
 #### Status
 ACCEPTED

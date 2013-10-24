@@ -1,5 +1,4 @@
-Parmelia jubata var. jubata VARIETY
-=======
+# Parmelia jubata (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED

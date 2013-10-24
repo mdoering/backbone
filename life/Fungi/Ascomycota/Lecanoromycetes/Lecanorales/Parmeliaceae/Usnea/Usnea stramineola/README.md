@@ -1,5 +1,4 @@
-Usnea stramineola (Motyka) Bystrek SPECIES
-=======
+# Usnea stramineola (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

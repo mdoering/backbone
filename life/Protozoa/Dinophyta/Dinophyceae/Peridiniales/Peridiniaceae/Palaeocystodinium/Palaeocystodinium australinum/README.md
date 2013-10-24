@@ -1,5 +1,4 @@
-Palaeocystodinium australinum (Cookson, 1965) Lentin & Williams SPECIES
-=======
+# Palaeocystodinium australinum (Cookson, 1965) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

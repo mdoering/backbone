@@ -1,5 +1,4 @@
-Puccinia cyperi-pilosi Homma SPECIES
-=======
+# Puccinia cyperi-pilosi Homma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia campanulae-latifoliae Allesch. SPECIES
-=======
+# Ramularia campanulae-latifoliae Allesch. SPECIES
 
 #### Status
 ACCEPTED

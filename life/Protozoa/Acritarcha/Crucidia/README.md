@@ -1,5 +1,4 @@
-Crucidia Ottone, 1996 GENUS
-=======
+# Crucidia Ottone, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tarzetta pusilla Harmaja SPECIES
-=======
+# Tarzetta pusilla Harmaja SPECIES
 
 #### Status
 ACCEPTED

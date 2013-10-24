@@ -1,5 +1,4 @@
-Amanita godeyi Gillet SPECIES
-=======
+# Amanita godeyi Gillet SPECIES
 
 #### Status
 ACCEPTED

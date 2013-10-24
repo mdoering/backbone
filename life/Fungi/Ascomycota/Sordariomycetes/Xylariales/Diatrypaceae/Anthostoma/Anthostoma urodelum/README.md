@@ -1,5 +1,4 @@
-Anthostoma urodelum Speg. SPECIES
-=======
+# Anthostoma urodelum Speg. SPECIES
 
 #### Status
 ACCEPTED

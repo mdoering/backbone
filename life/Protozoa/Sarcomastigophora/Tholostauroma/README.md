@@ -1,5 +1,4 @@
-Tholostauroma Haeckel, 1887 GENUS
-=======
+# Tholostauroma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

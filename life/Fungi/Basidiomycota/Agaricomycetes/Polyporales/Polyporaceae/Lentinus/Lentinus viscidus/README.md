@@ -1,5 +1,4 @@
-Lentinus viscidus (Mont.) Henn. SPECIES
-=======
+# Lentinus viscidus (Mont.) Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora kochiae-scopariae Kochman & T. Majewski SPECIES
-=======
+# Peronospora kochiae-scopariae Kochman & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

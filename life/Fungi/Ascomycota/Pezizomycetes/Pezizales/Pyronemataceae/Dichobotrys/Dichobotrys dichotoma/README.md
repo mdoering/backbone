@@ -1,5 +1,4 @@
-Dichobotrys dichotoma (Wolf) Hennebert SPECIES
-=======
+# Dichobotrys dichotoma (Wolf) Hennebert SPECIES
 
 #### Status
 ACCEPTED

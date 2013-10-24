@@ -1,5 +1,4 @@
-Drechslera triticigrani A.P. Misra & R.A. Singh SPECIES
-=======
+# Drechslera triticigrani A.P. Misra & R.A. Singh SPECIES
 
 #### Status
 ACCEPTED

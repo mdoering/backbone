@@ -1,5 +1,4 @@
-Clitocybe angustifolia (Kauffman) H.E. Bigelow SPECIES
-=======
+# Clitocybe angustifolia (Kauffman) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus cartilagineus Berk. SPECIES
-=======
+# Lentinus cartilagineus Berk. SPECIES
 
 #### Status
 ACCEPTED

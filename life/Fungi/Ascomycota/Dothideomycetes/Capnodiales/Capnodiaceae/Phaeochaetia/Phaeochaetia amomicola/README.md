@@ -1,5 +1,4 @@
-Phaeochaetia amomicola var. amomicola VARIETY
-=======
+# Phaeochaetia amomicola SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeochaetia amomicola var. amomicola
+Phaeochaetia amomicola
 
 ### Remarks
 null

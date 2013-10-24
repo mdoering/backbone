@@ -1,5 +1,4 @@
-Lecanocybe Desjardin & E. Horak GENUS
-=======
+# Lecanocybe Desjardin & E. Horak GENUS
 
 #### Status
 ACCEPTED

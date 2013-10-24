@@ -1,5 +1,4 @@
-Pyrenula isabellina SPECIES
-=======
+# Pyrenula isabellina SPECIES
 
 #### Status
 ACCEPTED

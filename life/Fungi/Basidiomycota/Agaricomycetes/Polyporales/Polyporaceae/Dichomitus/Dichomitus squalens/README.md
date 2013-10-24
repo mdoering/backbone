@@ -1,17 +1,16 @@
-Polyporus versiporus subsp. versiporus SUBSPECIES
-=======
+# Dichomitus squalens (P. Karst.) D.A. Reid, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revta Biol. , Lisb. 5(1-2): 150 (1965)
 
 #### Original name
-null
+Trametes squalens P. Karst., 1886
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entoloma omiense (Hongo) E. Horak SPECIES
-=======
+# Entoloma omiense (Hongo) E. Horak SPECIES
 
 #### Status
 ACCEPTED

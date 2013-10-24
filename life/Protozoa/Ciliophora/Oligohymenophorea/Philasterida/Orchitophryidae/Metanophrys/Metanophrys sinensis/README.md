@@ -1,5 +1,4 @@
-Metanophrys sinensis Song & Wilbert, 2000 SPECIES
-=======
+# Metanophrys sinensis Song & Wilbert, 2000 SPECIES
 
 #### Status
 ACCEPTED

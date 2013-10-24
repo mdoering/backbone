@@ -1,5 +1,4 @@
-Ustilago arundinellae-hirtae S. Ito SPECIES
-=======
+# Ustilago arundinellae-hirtae S. Ito SPECIES
 
 #### Status
 ACCEPTED

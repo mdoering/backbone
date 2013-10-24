@@ -1,5 +1,4 @@
-Paramicrothallites konkanensis R.K. Saxena & N.K. Misra SPECIES
-=======
+# Paramicrothallites konkanensis R.K. Saxena & N.K. Misra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma huancayensis Turkenst., 1978 SPECIES
-=======
+# Phoma huancayensis Turkenst., 1978 SPECIES
 
 #### Status
 ACCEPTED

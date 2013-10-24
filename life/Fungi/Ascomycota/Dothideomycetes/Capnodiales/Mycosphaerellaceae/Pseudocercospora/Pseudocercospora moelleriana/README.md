@@ -1,14 +1,13 @@
-Pseudocercospora molleriana (G. Winter) U. Braun SPECIES
-=======
+# Pseudocercospora moelleriana (G. Winter) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Braun & Mel'nik, Trudy Botanicheskogo Instituta im. V. L. Komarova 20: 74 (1997)
 
 #### Original name
 Cercospora moelleriana G. Winter

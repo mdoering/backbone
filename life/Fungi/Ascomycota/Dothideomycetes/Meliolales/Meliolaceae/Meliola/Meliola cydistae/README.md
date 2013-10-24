@@ -1,5 +1,4 @@
-Meliola cydistae var. cydistae VARIETY
-=======
+# Meliola cydistae F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 26(3/4): 193 (1928)
 
 #### Original name
-Meliola cydistae var. cydistae
+Meliola cydistae F. Stevens
 
 ### Remarks
 null

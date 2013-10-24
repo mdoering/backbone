@@ -1,5 +1,4 @@
-Baeomyces fuscocarneus F. Wilson SPECIES
-=======
+# Baeomyces fuscocarneus F. Wilson SPECIES
 
 #### Status
 ACCEPTED

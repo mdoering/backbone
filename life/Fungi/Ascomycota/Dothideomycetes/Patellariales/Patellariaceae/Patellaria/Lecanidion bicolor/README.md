@@ -1,5 +1,4 @@
-Lecanidion bicolor (P. Karst.) Sacc. SPECIES
-=======
+# Lecanidion bicolor (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

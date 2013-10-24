@@ -1,5 +1,4 @@
-Kosmotoga arenicorallina Nunoura, Hirai, Imachi, Miyazaki, Makita, Hirayama, Furushima, Yamamoto & Takai, 2011 SPECIES
-=======
+# Kosmotoga arenicorallina Nunoura, Hirai, Imachi, Miyazaki, Makita, Hirayama, Furushima, Yamamoto & Takai, 2011 SPECIES
 
 #### Status
 ACCEPTED

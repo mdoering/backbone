@@ -1,5 +1,4 @@
-Sporidesmium venezuelanum M.B. Ellis SPECIES
-=======
+# Sporidesmium venezuelanum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

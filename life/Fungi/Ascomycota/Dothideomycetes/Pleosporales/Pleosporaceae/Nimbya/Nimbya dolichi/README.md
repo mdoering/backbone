@@ -1,5 +1,4 @@
-Nimbya dolichi T.Y. Zhang & G.Z. Zhao SPECIES
-=======
+# Nimbya dolichi T.Y. Zhang & G.Z. Zhao SPECIES
 
 #### Status
 ACCEPTED

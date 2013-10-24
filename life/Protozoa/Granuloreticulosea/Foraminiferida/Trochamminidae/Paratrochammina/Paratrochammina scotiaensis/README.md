@@ -1,5 +1,4 @@
-Paratrochammina (Paratrochammina) scotiaensis Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Paratrochammina (Paratrochammina) scotiaensis Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

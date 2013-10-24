@@ -1,5 +1,4 @@
-Dematium abietinum Pers. SPECIES
-=======
+# Dematium abietinum Pers. SPECIES
 
 #### Status
 ACCEPTED

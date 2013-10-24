@@ -1,5 +1,4 @@
-Levinea GENUS
-=======
+# Levinea GENUS
 
 #### Status
 ACCEPTED

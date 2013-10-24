@@ -1,5 +1,4 @@
-Leiosphaeridia levia (Lopukhin, 1971) Zang Wen-long & Walter, 1992 SPECIES
-=======
+# Leiosphaeridia levia (Lopukhin, 1971) Zang Wen-long & Walter, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis albotecta (Redinger) Staiger SPECIES
-=======
+# Graphis albotecta (Redinger) Staiger SPECIES
 
 #### Status
 ACCEPTED

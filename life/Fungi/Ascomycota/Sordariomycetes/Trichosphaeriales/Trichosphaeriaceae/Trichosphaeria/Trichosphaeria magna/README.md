@@ -1,5 +1,4 @@
-Trichosphaeria magna Rick SPECIES
-=======
+# Trichosphaeria magna Rick SPECIES
 
 #### Status
 ACCEPTED

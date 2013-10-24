@@ -1,5 +1,4 @@
-Cothurniopsis aurea SPECIES
-=======
+# Cothurniopsis aurea SPECIES
 
 #### Status
 ACCEPTED

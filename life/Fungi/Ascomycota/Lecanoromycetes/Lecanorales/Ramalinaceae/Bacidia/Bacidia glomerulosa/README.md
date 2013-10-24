@@ -1,5 +1,4 @@
-Bacidia glomerulosa C. Knight SPECIES
-=======
+# Bacidia glomerulosa C. Knight SPECIES
 
 #### Status
 ACCEPTED

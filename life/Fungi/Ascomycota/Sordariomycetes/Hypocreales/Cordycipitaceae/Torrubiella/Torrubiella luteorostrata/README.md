@@ -1,17 +1,16 @@
-Torrubiella luteostrata SPECIES
-=======
+# Torrubiella luteorostrata Zimm., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Zentbl. Bakt. ParasitKde, Abt. II 7(no. 24): 872 (1901)
 
 #### Original name
-Torrubiella luteostrata
+Torrubiella luteorostrata Zimm., 1901
 
 ### Remarks
 null

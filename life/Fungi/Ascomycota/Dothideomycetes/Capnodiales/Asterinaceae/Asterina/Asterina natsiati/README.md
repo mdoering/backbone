@@ -1,5 +1,4 @@
-Asterina natsiati A.K. Kar & Maity SPECIES
-=======
+# Asterina natsiati A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

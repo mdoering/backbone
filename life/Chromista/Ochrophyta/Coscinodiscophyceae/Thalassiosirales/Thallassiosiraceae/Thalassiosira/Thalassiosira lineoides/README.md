@@ -1,5 +1,4 @@
-Thalassiosira lineoides Herzig & Fryxell SPECIES
-=======
+# Thalassiosira lineoides Herzig & Fryxell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma homonoiae Wani & Thirum. SPECIES
-=======
+# Sphaceloma homonoiae Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

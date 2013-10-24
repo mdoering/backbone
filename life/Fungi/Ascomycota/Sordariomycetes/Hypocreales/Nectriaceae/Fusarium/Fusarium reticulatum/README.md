@@ -1,5 +1,4 @@
-Fusarium reticulatum var. reticulatum VARIETY
-=======
+# Fusarium reticulatum Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 20: 379 (1843)
+null
 
 #### Original name
-Fusarium reticulatum var. reticulatum
+null
 
 ### Remarks
 null

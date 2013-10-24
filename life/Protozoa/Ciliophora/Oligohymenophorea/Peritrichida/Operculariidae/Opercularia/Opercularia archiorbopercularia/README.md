@@ -1,5 +1,4 @@
-Opercularia archiorbopercularia Foissner, 1979 SPECIES
-=======
+# Opercularia archiorbopercularia Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

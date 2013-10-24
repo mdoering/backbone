@@ -1,5 +1,4 @@
-Favotrichophyton cinereum (Cazalbou) C.W. Dodge SPECIES
-=======
+# Favotrichophyton cinereum (Cazalbou) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

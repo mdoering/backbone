@@ -1,5 +1,4 @@
-Valsa corymbosa Cooke & Ellis SPECIES
-=======
+# Valsa corymbosa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

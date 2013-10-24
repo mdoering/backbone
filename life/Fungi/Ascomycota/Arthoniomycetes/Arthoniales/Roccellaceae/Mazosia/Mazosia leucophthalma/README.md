@@ -1,5 +1,4 @@
-Mazosia leucophthalma (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Mazosia leucophthalma (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

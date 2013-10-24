@@ -1,14 +1,13 @@
-Cetraria laxa (Zahlbr.) M. Satô SPECIES
-=======
+# Tuckneraria laxa (Zahlbr.) Randlane & A. Thell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Randlane, Saag, Thell & Kärnefelt, Acta bot. fenn. 150: 149 (1994)
 
 #### Original name
 Nephromopsis ciliaris var. laxa Zahlbr.

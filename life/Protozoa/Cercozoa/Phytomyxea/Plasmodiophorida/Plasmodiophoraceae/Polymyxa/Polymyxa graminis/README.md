@@ -1,17 +1,16 @@
-Polymyxa graminis f. sp FORM
-=======
+# Polymyxa graminis Ledingham, 1939 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 106(2): 145 (2002)
+Canadian Journal of Research, Section C 37: 38 (1939)
 
 #### Original name
-Polymyxa graminis f. sp
+Polymyxa graminis Ledingham, 1939
 
 ### Remarks
 null

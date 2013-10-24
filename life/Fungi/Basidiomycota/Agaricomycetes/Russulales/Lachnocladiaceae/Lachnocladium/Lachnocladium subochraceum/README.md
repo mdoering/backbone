@@ -1,5 +1,4 @@
-Lachnocladium subochraceum Sacc. SPECIES
-=======
+# Lachnocladium subochraceum Sacc. SPECIES
 
 #### Status
 ACCEPTED

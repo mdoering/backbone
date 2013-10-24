@@ -1,5 +1,4 @@
-Phoma castanea Peck SPECIES
-=======
+# Phoma castanea Peck SPECIES
 
 #### Status
 ACCEPTED

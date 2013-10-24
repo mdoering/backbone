@@ -1,17 +1,16 @@
-Schachtia Schulzer, 1866 GENUS
-=======
+# Fenestella Tulasne & C. Tulasne, 1863 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 16: 59 (1866)
+Select. fung. carpol. (Paris) 2: 207 (1863)
 
 #### Original name
-Schachtia Schulzer, 1866
+Fenestella Tulasne & C. Tulasne, 1863
 
 ### Remarks
 null

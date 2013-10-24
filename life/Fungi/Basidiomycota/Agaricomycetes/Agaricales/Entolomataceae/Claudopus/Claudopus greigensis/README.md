@@ -1,5 +1,4 @@
-Claudopus greigensis Peck SPECIES
-=======
+# Claudopus greigensis Peck SPECIES
 
 #### Status
 ACCEPTED

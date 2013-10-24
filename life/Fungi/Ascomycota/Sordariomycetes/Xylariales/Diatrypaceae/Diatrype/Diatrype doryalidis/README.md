@@ -1,5 +1,4 @@
-Diatrype doryalidis Doidge SPECIES
-=======
+# Diatrype doryalidis Doidge SPECIES
 
 #### Status
 ACCEPTED

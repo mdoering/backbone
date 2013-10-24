@@ -1,5 +1,4 @@
-Lecidea palidella Nyl. SPECIES
-=======
+# Lecidea palidella Nyl. SPECIES
 
 #### Status
 ACCEPTED

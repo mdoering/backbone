@@ -1,5 +1,4 @@
-Pestalotia novae-caledoniae Crié SPECIES
-=======
+# Pestalotia novae-caledoniae Crié SPECIES
 
 #### Status
 ACCEPTED

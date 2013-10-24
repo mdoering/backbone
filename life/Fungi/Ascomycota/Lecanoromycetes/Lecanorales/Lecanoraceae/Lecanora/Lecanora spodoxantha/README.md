@@ -1,5 +1,4 @@
-Lecanora spodoxantha Spreng. SPECIES
-=======
+# Lecanora spodoxantha Spreng. SPECIES
 
 #### Status
 ACCEPTED

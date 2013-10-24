@@ -1,5 +1,4 @@
-Pleospora pomorum A.S. Horne, 1920 SPECIES
-=======
+# Pleospora pomorum A.S. Horne, 1920 SPECIES
 
 #### Status
 ACCEPTED

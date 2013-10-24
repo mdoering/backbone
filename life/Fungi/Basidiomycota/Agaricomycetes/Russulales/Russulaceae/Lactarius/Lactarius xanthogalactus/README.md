@@ -1,5 +1,4 @@
-Lactarius xanthogalactus Peck SPECIES
-=======
+# Lactarius xanthogalactus Peck SPECIES
 
 #### Status
 ACCEPTED

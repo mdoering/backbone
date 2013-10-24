@@ -1,5 +1,4 @@
-Buellia rusticorum (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia rusticorum (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

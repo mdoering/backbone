@@ -1,5 +1,4 @@
-Aspicilia scopulicola B. de Lesd. SPECIES
-=======
+# Aspicilia scopulicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

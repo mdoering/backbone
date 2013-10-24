@@ -1,5 +1,4 @@
-Leptosphaeria papyricola Vouaux SPECIES
-=======
+# Leptosphaeria papyricola Vouaux SPECIES
 
 #### Status
 ACCEPTED

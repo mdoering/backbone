@@ -1,5 +1,4 @@
-Endococcus buelliae (C.W. Dodge) Matzer SPECIES
-=======
+# Endococcus buelliae (C.W. Dodge) Matzer SPECIES
 
 #### Status
 ACCEPTED

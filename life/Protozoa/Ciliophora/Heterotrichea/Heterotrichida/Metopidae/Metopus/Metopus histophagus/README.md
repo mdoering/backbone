@@ -1,5 +1,4 @@
-Metopus histophagus Powers, 1935 SPECIES
-=======
+# Metopus histophagus Powers, 1935 SPECIES
 
 #### Status
 ACCEPTED

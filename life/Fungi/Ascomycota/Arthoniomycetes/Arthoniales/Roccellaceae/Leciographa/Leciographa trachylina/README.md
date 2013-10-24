@@ -1,5 +1,4 @@
-Leciographa trachylina A. Massal. SPECIES
-=======
+# Leciographa trachylina A. Massal. SPECIES
 
 #### Status
 ACCEPTED

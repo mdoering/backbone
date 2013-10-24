@@ -1,8 +1,7 @@
-Nyctotheroides chabaudi Albaret, 1972 SPECIES
-=======
+# Cryptonyctus chabaudi (Albaret, 1972) Jankowski, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

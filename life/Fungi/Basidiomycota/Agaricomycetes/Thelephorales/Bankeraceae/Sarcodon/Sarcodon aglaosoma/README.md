@@ -1,5 +1,4 @@
-Sarcodon aglaosoma Maas Geest., 1976 SPECIES
-=======
+# Sarcodon aglaosoma Maas Geest., 1976 SPECIES
 
 #### Status
 ACCEPTED

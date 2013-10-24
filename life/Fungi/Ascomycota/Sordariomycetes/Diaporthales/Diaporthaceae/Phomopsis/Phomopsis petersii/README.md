@@ -1,5 +1,4 @@
-Phomopsis petersii (Syd.) Died. SPECIES
-=======
+# Phomopsis petersii (Syd.) Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina bruceae B. Song SPECIES
-=======
+# Asterina bruceae B. Song SPECIES
 
 #### Status
 ACCEPTED

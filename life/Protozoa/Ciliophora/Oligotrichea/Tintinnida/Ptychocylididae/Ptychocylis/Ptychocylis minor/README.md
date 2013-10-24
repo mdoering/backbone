@@ -1,5 +1,4 @@
-Ptychocylis minor Jörgensen, 1899 SPECIES
-=======
+# Ptychocylis minor Jörgensen, 1899 SPECIES
 
 #### Status
 ACCEPTED

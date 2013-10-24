@@ -1,5 +1,4 @@
-Monochaetia dimorphospora T. Yokoy., 1975 SPECIES
-=======
+# Monochaetia dimorphospora T. Yokoy., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus macfiei C.W. Dodge SPECIES
-=======
+# Aspergillus macfiei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

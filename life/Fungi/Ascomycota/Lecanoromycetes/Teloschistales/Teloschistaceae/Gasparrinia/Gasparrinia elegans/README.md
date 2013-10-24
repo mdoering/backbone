@@ -1,5 +1,4 @@
-Gasparrinia elegans var. elegans VARIETY
-=======
+# Gasparrinia elegans SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gasparrinia elegans var. elegans
+null
 
 ### Remarks
 null

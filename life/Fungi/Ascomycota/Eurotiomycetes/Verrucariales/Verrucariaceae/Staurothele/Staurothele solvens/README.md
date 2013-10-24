@@ -1,5 +1,4 @@
-Staurothele solvens var. solvens VARIETY
-=======
+# Staurothele solvens (Anzi) Zschacke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Staurothele solvens var. solvens
+Polyblastia solvens Anzi
 
 ### Remarks
 null

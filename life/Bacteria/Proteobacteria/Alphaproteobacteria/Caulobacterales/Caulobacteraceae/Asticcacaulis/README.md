@@ -1,5 +1,4 @@
-Asticcacaulis Poindexter, 1964 GENUS
-=======
+# Asticcacaulis Poindexter, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microstroma apocryptum (Ellis & Everh.) W.B. Cooke, 1962 SPECIES
-=======
+# Aureobasidium apocryptum (Ellis & Everh.) Herm.-Nijh., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 17: 17 (1962)
+Stud. Mycol. 15: 147 (1977)
 
 #### Original name
 Gloeosporium apocryptum Ellis & Everh., 1888

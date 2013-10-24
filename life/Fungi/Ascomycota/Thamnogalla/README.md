@@ -1,5 +1,4 @@
-Thamnogalla D. Hawksw. GENUS
-=======
+# Thamnogalla D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha rugulosa Fée SPECIES
-=======
+# Opegrapha rugulosa Fée SPECIES
 
 #### Status
 ACCEPTED

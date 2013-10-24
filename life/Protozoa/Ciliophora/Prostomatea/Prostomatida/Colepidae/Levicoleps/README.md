@@ -1,5 +1,4 @@
-Levicoleps Foissner, Kusuoka & Shimano, 2008 GENUS
-=======
+# Levicoleps Foissner, Kusuoka & Shimano, 2008 GENUS
 
 #### Status
 ACCEPTED

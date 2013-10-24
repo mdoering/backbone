@@ -1,14 +1,13 @@
-Lachnella calyculiformis var. latebricola (Rehm) W. Phillips, 1887 VARIETY
-=======
+# Lachnum latebricola (Rehm) R. Galán & Raitv., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 237 (1887)
+Revista Catalana de Micologia 20: 144 (1997)
 
 #### Original name
 Dasyscyphus calyculiformis var. latebricola Rehm, 1881

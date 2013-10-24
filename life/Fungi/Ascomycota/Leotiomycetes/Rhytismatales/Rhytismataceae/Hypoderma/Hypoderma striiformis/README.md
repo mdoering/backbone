@@ -1,17 +1,16 @@
-Hypoderma striaeforme DC. SPECIES
-=======
+# Hypoderma striiformis DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 166 (1815)
 
 #### Original name
-Hypoderma striaeforme DC.
+Hypoderma striiformis DC.
 
 ### Remarks
 null

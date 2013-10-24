@@ -1,5 +1,4 @@
-Coenogonium pocsii (Vezda & Farkas) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium pocsii (Vezda & Farkas) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

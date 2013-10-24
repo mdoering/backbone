@@ -1,14 +1,13 @@
-Lecanora inversa Nyl. SPECIES
-=======
+# Ochrolechia inversa (Nyl.) J. R. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 62: 361 (1879)
+Lichenologist 2: 130 (1963)
 
 #### Original name
 Lecanora inversa Nyl.

@@ -1,5 +1,4 @@
-Rhizopus sinensis Saito SPECIES
-=======
+# Rhizopus sinensis Saito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus mellinus Pers. SPECIES
-=======
+# Polyporus mellinus Pers. SPECIES
 
 #### Status
 ACCEPTED

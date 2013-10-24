@@ -1,5 +1,4 @@
-Boletus flammans E.A. Dick & Snell SPECIES
-=======
+# Boletus flammans E.A. Dick & Snell SPECIES
 
 #### Status
 ACCEPTED

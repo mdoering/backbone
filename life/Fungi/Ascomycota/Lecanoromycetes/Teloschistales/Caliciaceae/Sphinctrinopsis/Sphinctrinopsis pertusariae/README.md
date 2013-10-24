@@ -1,5 +1,4 @@
-Sphinctrinopsis pertusariae Woron. SPECIES
-=======
+# Sphinctrinopsis pertusariae Woron. SPECIES
 
 #### Status
 ACCEPTED

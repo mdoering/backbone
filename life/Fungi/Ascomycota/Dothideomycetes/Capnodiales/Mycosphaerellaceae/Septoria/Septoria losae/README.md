@@ -1,5 +1,4 @@
-Septoria losae Bertault SPECIES
-=======
+# Septoria losae Bertault SPECIES
 
 #### Status
 ACCEPTED

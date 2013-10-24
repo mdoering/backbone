@@ -1,5 +1,4 @@
-Lecania arizonica B. D. Ryan & van den Boom SPECIES
-=======
+# Lecania arizonica B. D. Ryan & van den Boom SPECIES
 
 #### Status
 ACCEPTED

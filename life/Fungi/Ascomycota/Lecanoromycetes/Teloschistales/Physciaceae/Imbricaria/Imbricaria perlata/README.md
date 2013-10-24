@@ -1,5 +1,4 @@
-Imbricaria perlata var. perlata VARIETY
-=======
+# Imbricaria perlata (Huds.) Körb. SPECIES
 
 #### Status
 ACCEPTED

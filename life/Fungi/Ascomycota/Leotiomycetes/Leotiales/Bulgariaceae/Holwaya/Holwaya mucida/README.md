@@ -1,17 +1,16 @@
-Crinula caliciiformis var. caliciiformis VARIETY
-=======
+# Holwaya mucida (Schulzer) Korf & Abawi, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 49(11): 1880 (1971)
 
 #### Original name
-null
+Ditiola mucida Schulzer, 1860
 
 ### Remarks
 null

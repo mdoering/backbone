@@ -1,5 +1,4 @@
-Phomopsis latifolia (Ellis & Everh.) Vanev & Aa SPECIES
-=======
+# Phomopsis latifolia (Ellis & Everh.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

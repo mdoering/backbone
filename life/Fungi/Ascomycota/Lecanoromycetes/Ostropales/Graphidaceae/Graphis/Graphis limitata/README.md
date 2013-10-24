@@ -1,5 +1,4 @@
-Graphis limitata (Pers.) Röhl. SPECIES
-=======
+# Graphis limitata (Pers.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

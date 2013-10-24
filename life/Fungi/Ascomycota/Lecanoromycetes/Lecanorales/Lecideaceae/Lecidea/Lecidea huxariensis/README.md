@@ -1,8 +1,7 @@
-Biatora huxariensis Beckh. ex J. Lahm SPECIES
-=======
+# Lecidea huxariensis (Beckh. ex J. Lahm) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Biatora huxariensis Beckh. ex J. Lahm
 
 ### Remarks
 null

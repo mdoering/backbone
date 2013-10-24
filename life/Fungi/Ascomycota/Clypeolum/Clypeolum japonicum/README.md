@@ -1,5 +1,4 @@
-Clypeolum japonicum I. Hino & Katum. SPECIES
-=======
+# Clypeolum japonicum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

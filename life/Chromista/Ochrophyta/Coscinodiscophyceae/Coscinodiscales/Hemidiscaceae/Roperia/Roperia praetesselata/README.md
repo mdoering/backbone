@@ -1,5 +1,4 @@
-Roperia praetesselata H.J. Schrader SPECIES
-=======
+# Roperia praetesselata H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

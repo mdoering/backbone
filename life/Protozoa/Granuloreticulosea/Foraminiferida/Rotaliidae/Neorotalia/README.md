@@ -1,5 +1,4 @@
-Neorotalia Bermudez, 1952 GENUS
-=======
+# Neorotalia Bermudez, 1952 GENUS
 
 #### Status
 ACCEPTED

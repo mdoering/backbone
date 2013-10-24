@@ -1,5 +1,4 @@
-Phoma accedens Sacc. SPECIES
-=======
+# Phoma accedens Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balladyna parvula Kowalewsky SPECIES
-=======
+# Balladyna parvula Kowalewsky SPECIES
 
 #### Status
 ACCEPTED

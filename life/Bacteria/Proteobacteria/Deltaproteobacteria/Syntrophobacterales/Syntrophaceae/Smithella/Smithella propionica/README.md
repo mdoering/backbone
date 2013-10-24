@@ -1,5 +1,4 @@
-Smithella propionica Liu et al., 1999 SPECIES
-=======
+# Smithella propionica Liu et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

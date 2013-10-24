@@ -1,5 +1,4 @@
-Gaubaea insignis Petr., 1942 SPECIES
-=======
+# Gaubaea insignis Petr., 1942 SPECIES
 
 #### Status
 ACCEPTED

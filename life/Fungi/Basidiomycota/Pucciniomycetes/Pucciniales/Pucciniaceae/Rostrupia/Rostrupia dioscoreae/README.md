@@ -1,5 +1,4 @@
-Rostrupia dioscoreae (Kom.) Syd. SPECIES
-=======
+# Rostrupia dioscoreae (Kom.) Syd. SPECIES
 
 #### Status
 ACCEPTED

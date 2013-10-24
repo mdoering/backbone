@@ -1,5 +1,4 @@
-Patellina Williamson, 1858 GENUS
-=======
+# Patellina Williamson, 1858 GENUS
 
 #### Status
 ACCEPTED

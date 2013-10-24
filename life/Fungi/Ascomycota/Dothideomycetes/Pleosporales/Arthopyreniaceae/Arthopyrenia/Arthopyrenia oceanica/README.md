@@ -1,5 +1,4 @@
-Arthopyrenia oceanica Zahlbr. SPECIES
-=======
+# Arthopyrenia oceanica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

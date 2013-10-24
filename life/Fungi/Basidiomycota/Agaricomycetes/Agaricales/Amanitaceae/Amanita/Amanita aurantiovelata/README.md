@@ -1,5 +1,4 @@
-Amanita aurantiovelata Schalkw. & G.M. Jansen SPECIES
-=======
+# Amanita aurantiovelata Schalkw. & G.M. Jansen SPECIES
 
 #### Status
 ACCEPTED

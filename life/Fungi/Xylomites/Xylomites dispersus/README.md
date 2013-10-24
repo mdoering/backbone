@@ -1,5 +1,4 @@
-Xylomites dispersus Watelet SPECIES
-=======
+# Xylomites dispersus Watelet SPECIES
 
 #### Status
 ACCEPTED

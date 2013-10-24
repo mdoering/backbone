@@ -1,8 +1,7 @@
-Physcia serviti Nádv. SPECIES
-=======
+# Physcia servitii Nádv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia serviti Nádv.
+Physcia servitii Nádv.
 
 ### Remarks
 null

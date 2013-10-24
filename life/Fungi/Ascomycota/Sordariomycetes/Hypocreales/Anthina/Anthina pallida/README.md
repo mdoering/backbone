@@ -1,5 +1,4 @@
-Anthina pallida de Bary SPECIES
-=======
+# Anthina pallida de Bary SPECIES
 
 #### Status
 ACCEPTED

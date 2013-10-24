@@ -1,17 +1,16 @@
-Thraustochytrium gaertnerium R. Jain, Raghuk., Bongiorni & Aggarwal SPECIES
-=======
+# Thraustochytrium gaertneri R. Jain, Raghuk., Bongiorni & Aggarwal, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Bongiorni, Jain, Raghukumar & Aggarwal, Protist 156(3): 304 (2005)
 
 #### Original name
-Thraustochytrium gaertnerium R. Jain, Raghuk., Bongiorni & Aggarwal
+Thraustochytrium gaertneri R. Jain, Raghuk., Bongiorni & Aggarwal, 2005
 
 ### Remarks
 null

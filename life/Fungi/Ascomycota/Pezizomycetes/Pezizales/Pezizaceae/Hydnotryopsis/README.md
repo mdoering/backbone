@@ -1,5 +1,4 @@
-Hydnotryopsis Gilkey GENUS
-=======
+# Hydnotryopsis Gilkey GENUS
 
 #### Status
 ACCEPTED

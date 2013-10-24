@@ -1,5 +1,4 @@
-Scleroderma patens Lloyd SPECIES
-=======
+# Scleroderma patens Lloyd SPECIES
 
 #### Status
 ACCEPTED

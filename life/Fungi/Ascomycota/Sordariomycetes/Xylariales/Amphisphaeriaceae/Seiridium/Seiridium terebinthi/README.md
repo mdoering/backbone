@@ -1,5 +1,4 @@
-Seiridium terebinthi (Briosi) Nag Raj SPECIES
-=======
+# Seiridium terebinthi (Briosi) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

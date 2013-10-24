@@ -1,5 +1,4 @@
-Protogautieria lutea A.H. Sm., 1965 SPECIES
-=======
+# Protogautieria lutea A.H. Sm., 1965 SPECIES
 
 #### Status
 ACCEPTED

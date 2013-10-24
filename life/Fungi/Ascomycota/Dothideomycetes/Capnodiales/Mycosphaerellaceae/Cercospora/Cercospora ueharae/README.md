@@ -1,5 +1,4 @@
-Cercospora ueharae Fukui SPECIES
-=======
+# Cercospora ueharae Fukui SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Typhula cylindrospora G.F. Atk. SPECIES
-=======
+# Typhula cylindrospora G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

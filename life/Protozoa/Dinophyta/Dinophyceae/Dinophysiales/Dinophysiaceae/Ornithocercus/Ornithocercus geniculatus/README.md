@@ -1,5 +1,4 @@
-Ornithocercus geniculatus Dangeard SPECIES
-=======
+# Ornithocercus geniculatus Dangeard SPECIES
 
 #### Status
 ACCEPTED

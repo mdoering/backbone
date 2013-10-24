@@ -1,5 +1,4 @@
-Tomentella gresicola Bourdot & Galzin SPECIES
-=======
+# Tomentella gresicola Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

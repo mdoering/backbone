@@ -1,5 +1,4 @@
-Schizothrix affinis Lemmermann, 1904 SPECIES
-=======
+# Schizothrix affinis Lemmermann, 1904 SPECIES
 
 #### Status
 ACCEPTED

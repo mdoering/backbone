@@ -1,5 +1,4 @@
-Tulostoma americanum Lloyd SPECIES
-=======
+# Tulostoma americanum Lloyd SPECIES
 
 #### Status
 ACCEPTED

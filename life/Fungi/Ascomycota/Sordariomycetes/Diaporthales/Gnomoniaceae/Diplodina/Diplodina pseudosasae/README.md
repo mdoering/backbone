@@ -1,5 +1,4 @@
-Diplodina pseudosasae I. Hino & Katum. SPECIES
-=======
+# Diplodina pseudosasae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

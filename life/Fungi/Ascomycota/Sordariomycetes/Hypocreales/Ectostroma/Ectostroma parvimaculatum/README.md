@@ -1,5 +1,4 @@
-Ectostroma parvimaculatum Oudem. SPECIES
-=======
+# Ectostroma parvimaculatum Oudem. SPECIES
 
 #### Status
 ACCEPTED

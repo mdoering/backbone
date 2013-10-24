@@ -1,5 +1,4 @@
-Marasmiellus concolor (J.E. Lange) J.E. Lange SPECIES
-=======
+# Marasmiellus concolor (J.E. Lange) J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

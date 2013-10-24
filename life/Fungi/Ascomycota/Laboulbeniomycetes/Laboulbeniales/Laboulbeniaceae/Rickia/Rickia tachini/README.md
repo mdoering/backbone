@@ -1,5 +1,4 @@
-Rickia tachini Terada SPECIES
-=======
+# Rickia tachini Terada SPECIES
 
 #### Status
 ACCEPTED

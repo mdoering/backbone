@@ -1,5 +1,4 @@
-Amandinea latemarginata (Darb.) Søchting & Øvstedal SPECIES
-=======
+# Amandinea latemarginata (Darb.) Søchting & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

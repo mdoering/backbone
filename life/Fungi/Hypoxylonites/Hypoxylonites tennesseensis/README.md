@@ -1,5 +1,4 @@
-Hypoxylonites tennesseensis Elsik SPECIES
-=======
+# Hypoxylonites tennesseensis Elsik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria hololeuca Kühner SPECIES
-=======
+# Naucoria hololeuca Kühner SPECIES
 
 #### Status
 ACCEPTED

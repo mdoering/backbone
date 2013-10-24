@@ -1,5 +1,4 @@
-Acarospora subbadia H. Magn. SPECIES
-=======
+# Acarospora subbadia H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystolepiota pusillomyces (Peck) Redhead SPECIES
-=======
+# Cystolepiota pusillomyces (Peck) Redhead SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria parvicapsa Cooke SPECIES
-=======
+# Sphaeria parvicapsa Cooke SPECIES
 
 #### Status
 ACCEPTED

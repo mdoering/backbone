@@ -1,5 +1,4 @@
-Ptychogaster subiculoides Lloyd SPECIES
-=======
+# Ptychogaster subiculoides Lloyd SPECIES
 
 #### Status
 ACCEPTED

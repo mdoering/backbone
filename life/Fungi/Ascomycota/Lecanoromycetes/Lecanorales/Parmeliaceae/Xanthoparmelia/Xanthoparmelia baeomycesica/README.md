@@ -1,5 +1,4 @@
-Xanthoparmelia baeomycesica Elix SPECIES
-=======
+# Xanthoparmelia baeomycesica Elix SPECIES
 
 #### Status
 ACCEPTED

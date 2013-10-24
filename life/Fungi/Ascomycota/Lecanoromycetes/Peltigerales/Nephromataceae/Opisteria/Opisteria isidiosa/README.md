@@ -1,5 +1,4 @@
-Opisteria isidiosa SPECIES
-=======
+# Opisteria isidiosa SPECIES
 
 #### Status
 ACCEPTED

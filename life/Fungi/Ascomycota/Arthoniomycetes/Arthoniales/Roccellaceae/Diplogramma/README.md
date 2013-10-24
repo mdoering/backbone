@@ -1,5 +1,4 @@
-Diplogramma Müll. Arg. GENUS
-=======
+# Diplogramma Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

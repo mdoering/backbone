@@ -1,5 +1,4 @@
-Rhabdospora caprifolii (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora caprifolii (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

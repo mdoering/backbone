@@ -1,17 +1,16 @@
-Boletus bresadolianus J. Blum SPECIES
-=======
+# Boletus bresadolanus J. Blum SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 85(4): 562 (1970)
 
 #### Original name
-Boletus bresadolianus J. Blum
+Boletus bresadolanus J. Blum
 
 ### Remarks
 null

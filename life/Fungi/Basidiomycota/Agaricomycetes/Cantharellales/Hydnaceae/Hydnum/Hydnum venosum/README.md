@@ -1,5 +1,4 @@
-Hydnum venosum (Humb.) Sacc. & Traverso SPECIES
-=======
+# Hydnum venosum (Humb.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

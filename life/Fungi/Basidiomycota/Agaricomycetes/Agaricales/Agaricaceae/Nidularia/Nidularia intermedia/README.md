@@ -1,5 +1,4 @@
-Nidularia intermedia Mont. SPECIES
-=======
+# Nidularia intermedia Mont. SPECIES
 
 #### Status
 ACCEPTED

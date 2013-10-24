@@ -1,5 +1,4 @@
-Theocapsa Haeckel, 1881 GENUS
-=======
+# Theocapsa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

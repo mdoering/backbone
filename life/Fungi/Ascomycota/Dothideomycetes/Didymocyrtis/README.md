@@ -1,5 +1,4 @@
-Didymocyrtis Vainio, 1921 GENUS
-=======
+# Didymocyrtis Vainio, 1921 GENUS
 
 #### Status
 ACCEPTED

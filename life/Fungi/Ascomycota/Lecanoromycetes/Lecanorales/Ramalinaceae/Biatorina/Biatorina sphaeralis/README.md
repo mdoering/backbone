@@ -1,5 +1,4 @@
-Biatorina sphaeralis Jatta SPECIES
-=======
+# Biatorina sphaeralis Jatta SPECIES
 
 #### Status
 ACCEPTED

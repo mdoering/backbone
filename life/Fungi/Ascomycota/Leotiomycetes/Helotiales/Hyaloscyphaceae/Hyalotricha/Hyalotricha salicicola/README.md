@@ -1,5 +1,4 @@
-Hyalotricha salicicola Graddon, 1977 SPECIES
-=======
+# Hyalotricha salicicola Graddon, 1977 SPECIES
 
 #### Status
 ACCEPTED

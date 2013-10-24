@@ -1,5 +1,4 @@
-Lecanora castaniza Nyl. SPECIES
-=======
+# Lecanora castaniza Nyl. SPECIES
 
 #### Status
 ACCEPTED

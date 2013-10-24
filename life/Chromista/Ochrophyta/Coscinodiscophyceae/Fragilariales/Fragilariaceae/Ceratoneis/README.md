@@ -1,5 +1,4 @@
-Ceratoneis GENUS
-=======
+# Ceratoneis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mazosia astroidea (Link) Zahlbr. SPECIES
-=======
+# Mazosia astroidea (Link) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

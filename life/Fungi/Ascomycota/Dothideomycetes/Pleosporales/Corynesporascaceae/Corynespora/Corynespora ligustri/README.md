@@ -1,5 +1,4 @@
-Corynespora ligustri Y.L. Guo SPECIES
-=======
+# Corynespora ligustri Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

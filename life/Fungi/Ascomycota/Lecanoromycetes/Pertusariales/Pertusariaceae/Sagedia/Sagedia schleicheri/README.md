@@ -1,5 +1,4 @@
-Sagedia schleicheri Müll. Arg. SPECIES
-=======
+# Sagedia schleicheri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

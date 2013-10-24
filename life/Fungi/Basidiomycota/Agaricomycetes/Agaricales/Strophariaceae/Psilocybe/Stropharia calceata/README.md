@@ -1,5 +1,4 @@
-Stropharia calceata (Fr.) P. Karst. SPECIES
-=======
+# Stropharia calceata (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

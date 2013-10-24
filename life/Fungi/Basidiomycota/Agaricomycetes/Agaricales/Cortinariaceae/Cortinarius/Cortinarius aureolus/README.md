@@ -1,5 +1,4 @@
-Cortinarius aureolus Quél. SPECIES
-=======
+# Cortinarius aureolus Quél. SPECIES
 
 #### Status
 ACCEPTED

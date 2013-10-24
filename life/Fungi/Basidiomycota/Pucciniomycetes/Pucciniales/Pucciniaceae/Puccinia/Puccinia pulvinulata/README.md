@@ -1,5 +1,4 @@
-Puccinia pulvinulata F. Rudolphi SPECIES
-=======
+# Puccinia pulvinulata F. Rudolphi SPECIES
 
 #### Status
 ACCEPTED

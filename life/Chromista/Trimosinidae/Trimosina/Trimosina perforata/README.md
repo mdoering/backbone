@@ -1,5 +1,4 @@
-Trimosina perforata Cushman, 1929 SPECIES
-=======
+# Trimosina perforata Cushman, 1929 SPECIES
 
 #### Status
 ACCEPTED

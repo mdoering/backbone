@@ -1,5 +1,4 @@
-Albotricha lupini Svrcek SPECIES
-=======
+# Albotricha lupini Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoleptodiscus peregianensis B. Sutton & Alcorn SPECIES
-=======
+# Mycoleptodiscus peregianensis B. Sutton & Alcorn SPECIES
 
 #### Status
 ACCEPTED

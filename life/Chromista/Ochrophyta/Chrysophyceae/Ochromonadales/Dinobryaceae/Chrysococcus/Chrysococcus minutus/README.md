@@ -1,5 +1,4 @@
-Chrysococcus minutus (F. E. Fritsch) Nyg. SPECIES
-=======
+# Chrysococcus minutus (F. E. Fritsch) Nyg. SPECIES
 
 #### Status
 ACCEPTED

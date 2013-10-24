@@ -1,5 +1,4 @@
-Dinobryon dilatatum D.G.Hilliard SPECIES
-=======
+# Dinobryon dilatatum D.G.Hilliard SPECIES
 
 #### Status
 ACCEPTED

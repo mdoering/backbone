@@ -1,5 +1,4 @@
-Mortierella nigrescens Tiegh. SPECIES
-=======
+# Mortierella nigrescens Tiegh. SPECIES
 
 #### Status
 ACCEPTED

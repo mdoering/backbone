@@ -1,5 +1,4 @@
-Verrucaria peltigericola Nyl. SPECIES
-=======
+# Verrucaria peltigericola Nyl. SPECIES
 
 #### Status
 ACCEPTED

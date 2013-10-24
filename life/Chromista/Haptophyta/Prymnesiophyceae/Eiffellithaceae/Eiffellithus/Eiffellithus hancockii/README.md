@@ -1,5 +1,4 @@
-Eiffellithus hancockii SPECIES
-=======
+# Eiffellithus hancockii SPECIES
 
 #### Status
 ACCEPTED

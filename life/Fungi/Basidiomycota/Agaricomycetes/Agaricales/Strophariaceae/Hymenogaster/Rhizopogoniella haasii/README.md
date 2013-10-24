@@ -1,5 +1,4 @@
-Rhizopogoniella haasii Soehner SPECIES
-=======
+# Rhizopogoniella haasii Soehner SPECIES
 
 #### Status
 ACCEPTED

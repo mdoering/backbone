@@ -1,17 +1,16 @@
-Ramaria apiculata var. apiculata VARIETY
-=======
+# Ramaria apiculata (Fr.) Donk, 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Biblthca Mycol. 21: 105 (1933)
 
 #### Original name
-Ramaria apiculata var. apiculata
+Clavaria apiculata Fr., 1818
 
 ### Remarks
 null

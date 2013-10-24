@@ -1,5 +1,4 @@
-Phoma manthotina Sawada SPECIES
-=======
+# Phoma manthotina Sawada SPECIES
 
 #### Status
 ACCEPTED

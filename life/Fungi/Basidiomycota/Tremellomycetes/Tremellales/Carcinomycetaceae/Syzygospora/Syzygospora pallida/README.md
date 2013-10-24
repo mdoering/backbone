@@ -1,14 +1,13 @@
-Christiansenia pallida Hauerslev, 1969 SPECIES
-=======
+# Syzygospora pallida (Hauerslev) Ginns, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 9(1-2): 43 (1969)
+Mycologia 78(4): 631 (1986)
 
 #### Original name
 Christiansenia pallida Hauerslev, 1969

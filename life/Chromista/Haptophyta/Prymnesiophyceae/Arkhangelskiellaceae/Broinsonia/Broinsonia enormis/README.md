@@ -1,8 +1,7 @@
-Broinsonia lacunosa Forchheimer, 1972 SPECIES
-=======
+# Broinsonia enormis (Shumenko, 1968) Manivit, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Macrosporium asimini H.H. Hume SPECIES
-=======
+# Macrosporium asimini H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

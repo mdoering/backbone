@@ -1,5 +1,4 @@
-Nephromopsis ectocarpisma (Hue) Gyeln. SPECIES
-=======
+# Nephromopsis ectocarpisma (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

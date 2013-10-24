@@ -1,5 +1,4 @@
-Mycogone anceps Sacc. SPECIES
-=======
+# Mycogone anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

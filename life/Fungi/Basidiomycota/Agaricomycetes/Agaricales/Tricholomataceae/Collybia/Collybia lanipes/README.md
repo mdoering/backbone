@@ -1,5 +1,4 @@
-Collybia lanipes (Malençon & Bertault) Vila & Llimona SPECIES
-=======
+# Collybia lanipes (Malençon & Bertault) Vila & Llimona SPECIES
 
 #### Status
 ACCEPTED

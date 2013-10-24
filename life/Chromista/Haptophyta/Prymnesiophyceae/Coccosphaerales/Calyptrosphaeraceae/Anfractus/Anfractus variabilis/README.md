@@ -1,5 +1,4 @@
-Anfractus variabilis Medd, 1979 SPECIES
-=======
+# Anfractus variabilis Medd, 1979 SPECIES
 
 #### Status
 ACCEPTED

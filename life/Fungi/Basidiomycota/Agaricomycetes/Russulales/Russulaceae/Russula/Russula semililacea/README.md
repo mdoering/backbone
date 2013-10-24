@@ -1,5 +1,4 @@
-Russula semililacea Singer SPECIES
-=======
+# Russula semililacea Singer SPECIES
 
 #### Status
 ACCEPTED

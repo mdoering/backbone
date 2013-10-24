@@ -1,5 +1,4 @@
-Bertia sinensis J.C. Krug & Corlett SPECIES
-=======
+# Bertia sinensis J.C. Krug & Corlett SPECIES
 
 #### Status
 ACCEPTED

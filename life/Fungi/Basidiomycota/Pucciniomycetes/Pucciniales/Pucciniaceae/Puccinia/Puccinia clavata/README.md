@@ -1,5 +1,4 @@
-Puccinia clavata P. Syd. & Syd., 1903 SPECIES
-=======
+# Puccinia clavata P. Syd. & Syd., 1903 SPECIES
 
 #### Status
 ACCEPTED

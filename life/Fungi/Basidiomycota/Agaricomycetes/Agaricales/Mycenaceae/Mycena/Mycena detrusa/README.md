@@ -1,5 +1,4 @@
-Mycena detrusa Maas Geest. & E. Horak, 1995 SPECIES
-=======
+# Mycena detrusa Maas Geest. & E. Horak, 1995 SPECIES
 
 #### Status
 ACCEPTED

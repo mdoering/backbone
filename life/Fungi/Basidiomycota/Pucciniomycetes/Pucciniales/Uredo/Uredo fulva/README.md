@@ -1,5 +1,4 @@
-Uredo fulva Schumach. SPECIES
-=======
+# Uredo fulva Schumach. SPECIES
 
 #### Status
 ACCEPTED

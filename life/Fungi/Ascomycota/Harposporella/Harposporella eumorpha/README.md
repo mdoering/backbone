@@ -1,5 +1,4 @@
-Harposporella eumorpha Höhn. SPECIES
-=======
+# Harposporella eumorpha Höhn. SPECIES
 
 #### Status
 ACCEPTED

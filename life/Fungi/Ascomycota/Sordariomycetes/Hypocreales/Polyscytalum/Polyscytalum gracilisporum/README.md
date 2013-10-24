@@ -1,14 +1,13 @@
-Sympodiella gracilispora Matsush., 1975 SPECIES
-=======
+# Polyscytalum gracilisporum (Matsush.) B. Sutton & Hodges, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. microfung. Matsush. lect. (Kobe) 151 (1975)
+Nova Hedwigia 28(2-3): 488 (1977)
 
 #### Original name
 Sympodiella gracilispora Matsush., 1975

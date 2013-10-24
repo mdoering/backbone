@@ -1,5 +1,4 @@
-Nodulisporium polysporum (Link) S. Hughes SPECIES
-=======
+# Nodulisporium polysporum (Link) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

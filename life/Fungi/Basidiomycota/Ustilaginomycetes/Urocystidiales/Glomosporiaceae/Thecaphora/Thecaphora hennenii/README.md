@@ -1,17 +1,16 @@
-Thecaphora hennenea Durán SPECIES
-=======
+# Thecaphora hennenii Durán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 60(8): 1520 (1982)
 
 #### Original name
-Thecaphora hennenea Durán
+Thecaphora hennenii Durán
 
 ### Remarks
 null

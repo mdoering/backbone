@@ -1,5 +1,4 @@
-Peziza erythraea Sacc. SPECIES
-=======
+# Peziza erythraea Sacc. SPECIES
 
 #### Status
 ACCEPTED

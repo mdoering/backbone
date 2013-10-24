@@ -1,5 +1,4 @@
-Polyporus corallopodus Fr. SPECIES
-=======
+# Polyporus corallopodus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius detonianus Sacc. & Cub. SPECIES
-=======
+# Marasmius detonianus Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium cerinellum Speg. SPECIES
-=======
+# Helotium cerinellum Speg. SPECIES
 
 #### Status
 ACCEPTED

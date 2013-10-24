@@ -1,5 +1,4 @@
-Dendryphion cephalicum Bat. SPECIES
-=======
+# Dendryphion cephalicum Bat. SPECIES
 
 #### Status
 ACCEPTED

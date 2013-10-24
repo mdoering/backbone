@@ -1,5 +1,4 @@
-Lacrymaria affinis Bock, 1952 SPECIES
-=======
+# Lacrymaria affinis Bock, 1952 SPECIES
 
 #### Status
 ACCEPTED

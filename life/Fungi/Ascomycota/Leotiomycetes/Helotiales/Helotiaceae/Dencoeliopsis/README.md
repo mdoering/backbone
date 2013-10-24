@@ -1,5 +1,4 @@
-Dencoeliopsis Korf GENUS
-=======
+# Dencoeliopsis Korf GENUS
 
 #### Status
 ACCEPTED

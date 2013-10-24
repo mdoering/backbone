@@ -1,5 +1,4 @@
-Catapyrenium pyrenaicum Breuss & Etayo SPECIES
-=======
+# Catapyrenium pyrenaicum Breuss & Etayo SPECIES
 
 #### Status
 ACCEPTED

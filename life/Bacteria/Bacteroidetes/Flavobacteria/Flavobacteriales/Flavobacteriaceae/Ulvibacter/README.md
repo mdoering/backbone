@@ -1,5 +1,4 @@
-Ulvibacter Nedashkovskaya, Kim, Han, Rhee, Lysenko, Falsen, Frolova, Mikhailov & Bae, 2004 GENUS
-=======
+# Ulvibacter Nedashkovskaya, Kim, Han, Rhee, Lysenko, Falsen, Frolova, Mikhailov & Bae, 2004 GENUS
 
 #### Status
 ACCEPTED

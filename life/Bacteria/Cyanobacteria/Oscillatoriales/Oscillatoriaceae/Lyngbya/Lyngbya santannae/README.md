@@ -1,5 +1,4 @@
-Lyngbya santannae P. A. C. Senna SPECIES
-=======
+# Lyngbya santannae P. A. C. Senna SPECIES
 
 #### Status
 ACCEPTED

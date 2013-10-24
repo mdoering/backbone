@@ -1,5 +1,4 @@
-Calothrix endophytica A.D. Cotton SPECIES
-=======
+# Calothrix endophytica A.D. Cotton SPECIES
 
 #### Status
 ACCEPTED

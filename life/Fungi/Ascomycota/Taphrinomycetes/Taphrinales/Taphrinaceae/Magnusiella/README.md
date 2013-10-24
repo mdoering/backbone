@@ -1,5 +1,4 @@
-Magnusiella GENUS
-=======
+# Magnusiella GENUS
 
 #### Status
 ACCEPTED

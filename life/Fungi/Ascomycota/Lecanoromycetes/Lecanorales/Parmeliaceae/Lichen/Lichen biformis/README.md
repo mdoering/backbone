@@ -1,5 +1,4 @@
-Lichen biformis Ramond SPECIES
-=======
+# Lichen biformis Ramond SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curreya insignis Sacc. SPECIES
-=======
+# Curreya insignis Sacc. SPECIES
 
 #### Status
 ACCEPTED

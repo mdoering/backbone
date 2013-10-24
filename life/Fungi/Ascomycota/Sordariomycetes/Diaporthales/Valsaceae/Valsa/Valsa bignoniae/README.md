@@ -1,5 +1,4 @@
-Valsa bignoniae (Schwein.) M.A. Curtis SPECIES
-=======
+# Valsa bignoniae (Schwein.) M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

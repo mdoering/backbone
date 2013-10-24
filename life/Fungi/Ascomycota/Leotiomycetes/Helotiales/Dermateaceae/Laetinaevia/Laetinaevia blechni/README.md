@@ -1,5 +1,4 @@
-Laetinaevia blechni Cash SPECIES
-=======
+# Laetinaevia blechni Cash SPECIES
 
 #### Status
 ACCEPTED

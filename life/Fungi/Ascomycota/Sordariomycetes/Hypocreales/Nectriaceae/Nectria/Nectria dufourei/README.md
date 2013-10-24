@@ -1,5 +1,4 @@
-Nectria dufourei (Fr.) Sacc. SPECIES
-=======
+# Nectria dufourei (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

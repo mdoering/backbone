@@ -1,5 +1,4 @@
-Buellia tehuacana SPECIES
-=======
+# Buellia tehuacana SPECIES
 
 #### Status
 ACCEPTED

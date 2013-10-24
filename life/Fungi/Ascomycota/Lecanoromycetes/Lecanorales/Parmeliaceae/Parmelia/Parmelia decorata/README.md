@@ -1,5 +1,4 @@
-Parmelia decorata (Hue) C.W. Dodge SPECIES
-=======
+# Parmelia decorata (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

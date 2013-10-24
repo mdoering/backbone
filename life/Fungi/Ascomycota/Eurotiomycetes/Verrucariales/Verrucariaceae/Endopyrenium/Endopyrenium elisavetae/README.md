@@ -1,5 +1,4 @@
-Endopyrenium elisavetae (Tomin) Oxner SPECIES
-=======
+# Endopyrenium elisavetae (Tomin) Oxner SPECIES
 
 #### Status
 ACCEPTED

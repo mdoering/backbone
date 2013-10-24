@@ -1,5 +1,4 @@
-Graphis alboglauca Vain. SPECIES
-=======
+# Graphis alboglauca Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella narcotica Kits van Wav., 1971 SPECIES
-=======
+# Psathyrella narcotica Kits van Wav., 1971 SPECIES
 
 #### Status
 ACCEPTED

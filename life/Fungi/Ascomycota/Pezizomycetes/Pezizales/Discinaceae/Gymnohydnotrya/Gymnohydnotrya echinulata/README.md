@@ -1,14 +1,13 @@
-Sphaerozone echinulatum G.W. Beaton, 1978 SPECIES
-=======
+# Gymnohydnotrya echinulata (G.W. Beaton) B.C. Zhang & Minter, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 71(1): 165 (1978)
+Mycol. Res. 92(2): 196 (1989)
 
 #### Original name
 Sphaerozone echinulatum G.W. Beaton, 1978

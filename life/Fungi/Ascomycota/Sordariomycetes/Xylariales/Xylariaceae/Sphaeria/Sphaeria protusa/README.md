@@ -1,5 +1,4 @@
-Sphaeria protusa Fr. SPECIES
-=======
+# Sphaeria protusa Fr. SPECIES
 
 #### Status
 ACCEPTED

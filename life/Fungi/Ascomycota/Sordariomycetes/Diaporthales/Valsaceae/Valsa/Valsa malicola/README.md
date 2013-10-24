@@ -1,5 +1,4 @@
-Valsa malicola Z. Urb. SPECIES
-=======
+# Valsa malicola Z. Urb. SPECIES
 
 #### Status
 ACCEPTED

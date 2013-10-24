@@ -1,5 +1,4 @@
-Capnodium clavatum Bat. & Cif. SPECIES
-=======
+# Capnodium clavatum Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

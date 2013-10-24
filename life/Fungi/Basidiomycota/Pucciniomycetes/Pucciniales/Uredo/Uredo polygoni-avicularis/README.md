@@ -1,8 +1,7 @@
-Uredo polygoni-aviculariae Alb. & Schwein. SPECIES
-=======
+# Uredo polygoni-avicularis Alb. & Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo polygoni-aviculariae Alb. & Schwein.
+Uredo polygoni-avicularis Alb. & Schwein.
 
 ### Remarks
 null

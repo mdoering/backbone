@@ -1,5 +1,4 @@
-Boletus puniceus Thiers SPECIES
-=======
+# Boletus puniceus Thiers SPECIES
 
 #### Status
 ACCEPTED

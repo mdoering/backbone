@@ -1,5 +1,4 @@
-Hormomyces pezizoideus Speg. SPECIES
-=======
+# Hormomyces pezizoideus Speg. SPECIES
 
 #### Status
 ACCEPTED

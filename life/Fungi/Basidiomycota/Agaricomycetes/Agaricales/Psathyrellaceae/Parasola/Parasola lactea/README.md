@@ -1,14 +1,13 @@
-Pseudocoprinus lacteus A.H. Sm., 1946 SPECIES
-=======
+# Parasola lactea (A.H. Sm.) Redhead, Vilgalys & Hopple, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 62: 191 (1946)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 236 (2001)
 
 #### Original name
 Pseudocoprinus lacteus A.H. Sm., 1946

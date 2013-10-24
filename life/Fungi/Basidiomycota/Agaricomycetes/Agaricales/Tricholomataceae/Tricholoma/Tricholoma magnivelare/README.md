@@ -1,17 +1,16 @@
-Tricholoma murrillianum Singer, 1942 SPECIES
-=======
+# Tricholoma magnivelare (Peck) Redhead, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 5: 113 (1942)
+Trans. Mycol. Soc. Japan 25(1): 6 (1984)
 
 #### Original name
-Armillaria arenicola Murrill, 1912
+Agaricus magnivelaris Peck, 1878
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Shermanophycus J.H. Johnson, 1940 GENUS
-=======
+# Shermanophycus J.H. Johnson, 1940 GENUS
 
 #### Status
 ACCEPTED

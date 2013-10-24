@@ -1,5 +1,4 @@
-Tryponema Ercegovic, 1929 GENUS
-=======
+# Tryponema Ercegovic, 1929 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hemitrichia intorta leiotricha Lister, 1894 INFRASPECIFIC_NAME
-=======
+# Hemitrichia leiotricha (Lister) G. Lister, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Mycetozoa (London), Edn 2 224 (1911)
 
 #### Original name
-null
+Hemitrichia intorta leiotricha Lister, 1894
 
 ### Remarks
 null

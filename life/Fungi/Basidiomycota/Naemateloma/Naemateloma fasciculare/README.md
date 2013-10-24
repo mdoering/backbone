@@ -1,5 +1,4 @@
-Naemateloma fasciculare (Hudson Fr.) Karst. SPECIES
-=======
+# Naemateloma fasciculare (Hudson Fr.) Karst. SPECIES
 
 #### Status
 ACCEPTED

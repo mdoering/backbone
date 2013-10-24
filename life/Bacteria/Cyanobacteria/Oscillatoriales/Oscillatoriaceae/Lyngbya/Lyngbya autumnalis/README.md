@@ -1,5 +1,4 @@
-Lyngbya autumnalis (Gomont) Senna SPECIES
-=======
+# Lyngbya autumnalis (Gomont) Senna SPECIES
 
 #### Status
 ACCEPTED

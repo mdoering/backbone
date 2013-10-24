@@ -1,5 +1,4 @@
-Didymosphaeria lignicola Feltgen SPECIES
-=======
+# Didymosphaeria lignicola Feltgen SPECIES
 
 #### Status
 ACCEPTED

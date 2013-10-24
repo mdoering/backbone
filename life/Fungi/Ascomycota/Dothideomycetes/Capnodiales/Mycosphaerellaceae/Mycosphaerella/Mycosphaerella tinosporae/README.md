@@ -1,5 +1,4 @@
-Mycosphaerella tinosporae Ajrekar SPECIES
-=======
+# Mycosphaerella tinosporae Ajrekar SPECIES
 
 #### Status
 ACCEPTED

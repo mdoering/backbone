@@ -1,5 +1,4 @@
-Phacus clavatus Dangeard SPECIES
-=======
+# Phacus clavatus Dangeard SPECIES
 
 #### Status
 ACCEPTED

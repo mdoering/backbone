@@ -1,5 +1,4 @@
-Petaloferidium comptum Playford & Martin, 1984 SPECIES
-=======
+# Petaloferidium comptum Playford & Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

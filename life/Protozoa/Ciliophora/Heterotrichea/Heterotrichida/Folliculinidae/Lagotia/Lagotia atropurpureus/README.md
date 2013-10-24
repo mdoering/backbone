@@ -1,8 +1,7 @@
-Lagotia atro-pupurea Wright, 1858 SPECIES
-=======
+# Lagotia atropurpureus Wright, 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

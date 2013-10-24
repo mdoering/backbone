@@ -1,5 +1,4 @@
-Cougourdella magna E. Hesse SPECIES
-=======
+# Cougourdella magna E. Hesse SPECIES
 
 #### Status
 ACCEPTED

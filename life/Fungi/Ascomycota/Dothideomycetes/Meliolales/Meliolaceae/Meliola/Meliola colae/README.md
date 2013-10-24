@@ -1,5 +1,4 @@
-Meliola colae (Hansf.) Cif. SPECIES
-=======
+# Meliola colae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

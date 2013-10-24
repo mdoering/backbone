@@ -1,5 +1,4 @@
-Cercospora chrysobalani Ellis & Everh. SPECIES
-=======
+# Cercospora chrysobalani Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

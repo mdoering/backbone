@@ -1,5 +1,4 @@
-Silicoflagellida GENUS
-=======
+# Silicoflagellida GENUS
 
 #### Status
 ACCEPTED

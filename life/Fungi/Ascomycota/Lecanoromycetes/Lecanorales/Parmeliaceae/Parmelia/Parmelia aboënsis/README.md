@@ -1,5 +1,4 @@
-Parmelia aboënsis Gyeln. SPECIES
-=======
+# Parmelia aboënsis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

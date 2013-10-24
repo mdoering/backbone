@@ -1,17 +1,16 @@
-Chrysomyxa ledi var. ledi VARIETY
-=======
+# Chrysomyxa ledi (Alb. & Schwein.) de Bary, 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 37: 809 (1879)
+null
 
 #### Original name
-Chrysomyxa ledi var. ledi
+null
 
 ### Remarks
 null

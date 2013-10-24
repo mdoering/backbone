@@ -1,5 +1,4 @@
-Endogone minutissima Beeli SPECIES
-=======
+# Endogone minutissima Beeli SPECIES
 
 #### Status
 ACCEPTED

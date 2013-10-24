@@ -1,5 +1,4 @@
-Pannaria fumbris Kremp. SPECIES
-=======
+# Pannaria fumbris Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prosthemiella bambusina Syd. SPECIES
-=======
+# Prosthemiella bambusina Syd. SPECIES
 
 #### Status
 ACCEPTED

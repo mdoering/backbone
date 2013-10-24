@@ -1,5 +1,4 @@
-Trichophyton pruinosum Catanei SPECIES
-=======
+# Trichophyton pruinosum Catanei SPECIES
 
 #### Status
 ACCEPTED

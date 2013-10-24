@@ -1,5 +1,4 @@
-Mallochia echinulata (B.G. Dutta & G.R. Ghosh) Arx & Samson, 1986 SPECIES
-=======
+# Mallochia echinulata (B.G. Dutta & G.R. Ghosh) Arx & Samson, 1986 SPECIES
 
 #### Status
 ACCEPTED

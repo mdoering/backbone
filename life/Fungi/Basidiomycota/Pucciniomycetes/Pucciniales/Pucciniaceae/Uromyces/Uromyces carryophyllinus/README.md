@@ -1,5 +1,4 @@
-Uromyces carryophyllinus (Schrank.) Wint. SPECIES
-=======
+# Uromyces carryophyllinus (Schrank.) Wint. SPECIES
 
 #### Status
 ACCEPTED

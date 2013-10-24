@@ -1,5 +1,4 @@
-Lecidea fuscoviolacea Grognot SPECIES
-=======
+# Lecidea fuscoviolacea Grognot SPECIES
 
 #### Status
 ACCEPTED

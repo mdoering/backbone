@@ -1,5 +1,4 @@
-Porostromataceae FAMILY
-=======
+# Porostromataceae FAMILY
 
 #### Status
 ACCEPTED

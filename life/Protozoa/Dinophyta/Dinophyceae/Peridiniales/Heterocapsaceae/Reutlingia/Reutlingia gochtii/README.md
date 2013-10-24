@@ -1,5 +1,4 @@
-Reutlingia gochtii Drugg, 1978 SPECIES
-=======
+# Reutlingia gochtii Drugg, 1978 SPECIES
 
 #### Status
 ACCEPTED

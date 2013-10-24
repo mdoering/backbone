@@ -1,5 +1,4 @@
-Balantidium porcellae Earl, 1973 SPECIES
-=======
+# Balantidium porcellae Earl, 1973 SPECIES
 
 #### Status
 ACCEPTED

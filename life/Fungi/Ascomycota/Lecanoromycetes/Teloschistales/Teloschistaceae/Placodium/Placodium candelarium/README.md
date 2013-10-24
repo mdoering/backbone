@@ -1,5 +1,4 @@
-Placodium candelarium f. candelarium FORM
-=======
+# Placodium candelarium SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Prim. fl. holsat. (Kiliae) (1780)
+null
 
 #### Original name
-Placodium candelarium f. candelarium
+null
 
 ### Remarks
 null

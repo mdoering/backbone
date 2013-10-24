@@ -1,5 +1,4 @@
-Pertusaria glaucovirens Vain. SPECIES
-=======
+# Pertusaria glaucovirens Vain. SPECIES
 
 #### Status
 ACCEPTED

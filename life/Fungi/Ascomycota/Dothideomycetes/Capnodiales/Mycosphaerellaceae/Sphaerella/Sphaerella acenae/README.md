@@ -1,5 +1,4 @@
-Sphaerella acenae Henn. SPECIES
-=======
+# Sphaerella acenae Henn. SPECIES
 
 #### Status
 ACCEPTED

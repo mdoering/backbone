@@ -1,11 +1,10 @@
-Sarcina erythromyxa Chester, 1901 SPECIES
-=======
+# Kocuria erythromyxa (Brooks & Murray, 1981) Rainey et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Cortinarius crustutinus Malençon SPECIES
-=======
+# Cortinarius crustutinus Malençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza lizonii (Svrcek) Baral & E. Weber SPECIES
-=======
+# Trichopeziza lizonii (Svrcek) Baral & E. Weber SPECIES
 
 #### Status
 ACCEPTED

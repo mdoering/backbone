@@ -1,5 +1,4 @@
-Thelephora erebia Corner, 1968 SPECIES
-=======
+# Thelephora erebia Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

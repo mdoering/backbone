@@ -1,5 +1,4 @@
-Helotium desertorum Velen. SPECIES
-=======
+# Helotium desertorum Velen. SPECIES
 
 #### Status
 ACCEPTED

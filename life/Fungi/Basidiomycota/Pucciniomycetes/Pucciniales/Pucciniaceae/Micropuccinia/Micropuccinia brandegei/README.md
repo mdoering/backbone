@@ -1,5 +1,4 @@
-Micropuccinia brandegei (Peck) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia brandegei (Peck) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

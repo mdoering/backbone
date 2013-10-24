@@ -1,5 +1,4 @@
-Plagiocampa posticeconica Kahl, 1930 SPECIES
-=======
+# Plagiocampa posticeconica Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

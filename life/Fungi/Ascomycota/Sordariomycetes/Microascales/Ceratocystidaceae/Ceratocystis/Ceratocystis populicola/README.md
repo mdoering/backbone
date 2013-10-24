@@ -1,5 +1,4 @@
-Ceratocystis populicola J.A. Johnson & T.C. Harr. SPECIES
-=======
+# Ceratocystis populicola J.A. Johnson & T.C. Harr. SPECIES
 
 #### Status
 ACCEPTED

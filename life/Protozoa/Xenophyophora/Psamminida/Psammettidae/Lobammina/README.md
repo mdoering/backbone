@@ -1,5 +1,4 @@
-Lobammina Kamenskaya, 2000 GENUS
-=======
+# Lobammina Kamenskaya, 2000 GENUS
 
 #### Status
 ACCEPTED

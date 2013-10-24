@@ -1,5 +1,4 @@
-Dictyothyrina fecunda (Sacc.) Theiss. SPECIES
-=======
+# Dictyothyrina fecunda (Sacc.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

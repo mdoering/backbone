@@ -1,5 +1,4 @@
-Xylaria schwackei Henn. SPECIES
-=======
+# Xylaria schwackei Henn. SPECIES
 
 #### Status
 ACCEPTED

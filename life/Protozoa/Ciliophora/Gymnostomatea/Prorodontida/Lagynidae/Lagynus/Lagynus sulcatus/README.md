@@ -1,5 +1,4 @@
-Lagynus sulcatus Gruber, 1884 SPECIES
-=======
+# Lagynus sulcatus Gruber, 1884 SPECIES
 
 #### Status
 ACCEPTED

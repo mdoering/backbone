@@ -1,5 +1,4 @@
-Patellaria incana (L.) Spreng. SPECIES
-=======
+# Patellaria incana (L.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystopus minor (Speg.) Cif. SPECIES
-=======
+# Cystopus minor (Speg.) Cif. SPECIES
 
 #### Status
 ACCEPTED

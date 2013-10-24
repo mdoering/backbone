@@ -1,5 +1,4 @@
-Nephroma plumbeum var. plumbeum (Mont.) Mont. VARIETY
-=======
+# Nephroma plumbeum (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 in Gay, Hist. fis. y Politic. Chile, Bot. 8: 100 (1852)
 
 #### Original name
-Nephroma plumbeum var. plumbeum (Mont.) Mont.
+Peltigera plumbea Mont.
 
 ### Remarks
 null

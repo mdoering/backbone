@@ -1,17 +1,16 @@
-Nectria lagenaeformis Berk. & M.A. Curtis SPECIES
-=======
+# Nectria lageniformis Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 378 (1868)
 
 #### Original name
-Nectria lagenaeformis Berk. & M.A. Curtis
+Nectria lageniformis Berk. & M.A. Curtis
 
 ### Remarks
 null

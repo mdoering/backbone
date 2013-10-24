@@ -1,5 +1,4 @@
-Tympanis salicina J.W. Groves SPECIES
-=======
+# Tympanis salicina J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

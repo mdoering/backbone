@@ -1,5 +1,4 @@
-Psathyrella subandina Singer SPECIES
-=======
+# Psathyrella subandina Singer SPECIES
 
 #### Status
 ACCEPTED

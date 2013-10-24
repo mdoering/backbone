@@ -1,5 +1,4 @@
-Bacidia atrolivida (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia atrolivida (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

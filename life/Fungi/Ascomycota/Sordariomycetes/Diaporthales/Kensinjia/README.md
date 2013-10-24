@@ -1,5 +1,4 @@
-Kensinjia J. Reid & C. Booth GENUS
-=======
+# Kensinjia J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

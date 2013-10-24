@@ -1,5 +1,4 @@
-Plicaria crenulata Velen. SPECIES
-=======
+# Plicaria crenulata Velen. SPECIES
 
 #### Status
 ACCEPTED

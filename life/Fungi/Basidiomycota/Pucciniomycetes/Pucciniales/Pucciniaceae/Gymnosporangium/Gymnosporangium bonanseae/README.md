@@ -1,5 +1,4 @@
-Gymnosporangium bonanseae Trotter SPECIES
-=======
+# Gymnosporangium bonanseae Trotter SPECIES
 
 #### Status
 ACCEPTED

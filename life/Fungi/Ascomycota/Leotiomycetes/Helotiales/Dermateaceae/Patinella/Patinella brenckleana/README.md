@@ -1,5 +1,4 @@
-Patinella brenckleana Sacc. SPECIES
-=======
+# Patinella brenckleana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corythionella Golemansky, 1970 GENUS
-=======
+# Corythionella Golemansky, 1970 GENUS
 
 #### Status
 ACCEPTED

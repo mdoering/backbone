@@ -1,5 +1,4 @@
-Endophylloides lysimachiae S. Kaneko & Hirats. f. SPECIES
-=======
+# Endophylloides lysimachiae S. Kaneko & Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

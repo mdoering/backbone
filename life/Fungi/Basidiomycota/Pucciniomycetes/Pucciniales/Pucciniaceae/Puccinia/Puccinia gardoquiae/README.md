@@ -1,5 +1,4 @@
-Puccinia gardoquiae Dietel & Neger SPECIES
-=======
+# Puccinia gardoquiae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

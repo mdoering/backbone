@@ -1,5 +1,4 @@
-Opercularia confusa Stiller, 1940 SPECIES
-=======
+# Opercularia confusa Stiller, 1940 SPECIES
 
 #### Status
 ACCEPTED

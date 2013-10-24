@@ -1,5 +1,4 @@
-Pycnoporus puniceus (Fr.) Ryvarden, 1972 SPECIES
-=======
+# Pycnoporus puniceus (Fr.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED

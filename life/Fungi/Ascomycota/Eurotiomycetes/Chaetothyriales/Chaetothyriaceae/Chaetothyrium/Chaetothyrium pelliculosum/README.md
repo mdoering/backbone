@@ -1,5 +1,4 @@
-Chaetothyrium pelliculosum Petr. SPECIES
-=======
+# Chaetothyrium pelliculosum Petr. SPECIES
 
 #### Status
 ACCEPTED

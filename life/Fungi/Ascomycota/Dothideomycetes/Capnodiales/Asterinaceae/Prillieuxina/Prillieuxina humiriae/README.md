@@ -1,5 +1,4 @@
-Prillieuxina humiriae (Henn.) R.W. Ryan SPECIES
-=======
+# Prillieuxina humiriae (Henn.) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

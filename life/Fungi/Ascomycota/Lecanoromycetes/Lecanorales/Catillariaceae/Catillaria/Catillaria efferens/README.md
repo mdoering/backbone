@@ -1,5 +1,4 @@
-Catillaria efferens (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria efferens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

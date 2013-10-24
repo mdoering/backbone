@@ -1,5 +1,4 @@
-Pelvetia calaliculata var. acutiloba Lami VARIETY
-=======
+# Pelvetia calaliculata SPECIES
 
 #### Status
 ACCEPTED

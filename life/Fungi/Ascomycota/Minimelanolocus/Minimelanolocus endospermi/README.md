@@ -1,5 +1,4 @@
-Minimelanolocus endospermi Jian Ma & X.G. Zhang SPECIES
-=======
+# Minimelanolocus endospermi Jian Ma & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

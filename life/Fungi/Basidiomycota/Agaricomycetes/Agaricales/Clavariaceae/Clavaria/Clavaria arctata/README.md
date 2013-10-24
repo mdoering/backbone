@@ -1,5 +1,4 @@
-Clavaria arctata Britzelm. SPECIES
-=======
+# Clavaria arctata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

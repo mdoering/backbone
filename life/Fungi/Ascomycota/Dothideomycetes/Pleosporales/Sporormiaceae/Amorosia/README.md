@@ -1,5 +1,4 @@
-Amorosia Mantle & D. Hawksw. GENUS
-=======
+# Amorosia Mantle & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

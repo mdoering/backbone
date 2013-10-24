@@ -1,5 +1,4 @@
-Hypogymnia rugosa (G. Merr.) L. H. Pike SPECIES
-=======
+# Hypogymnia rugosa (G. Merr.) L. H. Pike SPECIES
 
 #### Status
 ACCEPTED

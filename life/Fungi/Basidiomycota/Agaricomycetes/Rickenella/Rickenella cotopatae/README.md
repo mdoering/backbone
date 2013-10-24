@@ -1,5 +1,4 @@
-Rickenella cotopatae (Singer) Raithelh. SPECIES
-=======
+# Rickenella cotopatae (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

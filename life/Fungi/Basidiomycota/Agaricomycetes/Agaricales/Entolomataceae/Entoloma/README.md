@@ -1,14 +1,13 @@
-Clitopiloidea (Romagn.) Largent GENUS
-=======
+# Entoloma (E.M. Fries) P. Kummer, 1871 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Entolomatoid fungi of the Western United States and Alaska (Eureka) 30 (1994)
+null
 
 #### Original name
 null

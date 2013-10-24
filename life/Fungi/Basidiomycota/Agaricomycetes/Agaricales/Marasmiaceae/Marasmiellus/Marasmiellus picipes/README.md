@@ -1,5 +1,4 @@
-Marasmiellus picipes (Murrill) Singer SPECIES
-=======
+# Marasmiellus picipes (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

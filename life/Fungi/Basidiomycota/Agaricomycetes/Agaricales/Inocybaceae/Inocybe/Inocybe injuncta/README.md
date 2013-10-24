@@ -1,5 +1,4 @@
-Inocybe injuncta (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe injuncta (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

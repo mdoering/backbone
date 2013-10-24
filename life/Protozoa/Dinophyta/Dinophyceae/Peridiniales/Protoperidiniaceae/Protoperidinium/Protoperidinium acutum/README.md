@@ -1,5 +1,4 @@
-Protoperidinium acutum (Fauré-Fremiet, 1908) Balech, 1974 SPECIES
-=======
+# Protoperidinium acutum (Fauré-Fremiet, 1908) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium zinniae (Cif.) Bunkina SPECIES
-=======
+# Oidium zinniae (Cif.) Bunkina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola pallida F. Stevens SPECIES
-=======
+# Meliola pallida F. Stevens SPECIES
 
 #### Status
 ACCEPTED

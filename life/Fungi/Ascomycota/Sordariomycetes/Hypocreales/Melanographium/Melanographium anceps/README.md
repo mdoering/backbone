@@ -1,5 +1,4 @@
-Melanographium anceps (Sacc.) Sacc. SPECIES
-=======
+# Melanographium anceps (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

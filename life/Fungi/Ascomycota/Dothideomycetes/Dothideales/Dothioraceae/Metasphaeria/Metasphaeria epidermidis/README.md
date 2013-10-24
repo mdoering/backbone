@@ -1,5 +1,4 @@
-Metasphaeria epidermidis Feltgen SPECIES
-=======
+# Metasphaeria epidermidis Feltgen SPECIES
 
 #### Status
 ACCEPTED

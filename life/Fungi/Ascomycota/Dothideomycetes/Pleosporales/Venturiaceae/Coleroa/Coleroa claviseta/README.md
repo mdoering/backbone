@@ -1,5 +1,4 @@
-Coleroa claviseta (Doidge) Hansf. SPECIES
-=======
+# Coleroa claviseta (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

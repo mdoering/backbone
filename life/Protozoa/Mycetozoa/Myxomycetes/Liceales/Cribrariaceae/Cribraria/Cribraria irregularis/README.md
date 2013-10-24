@@ -1,5 +1,4 @@
-Cribraria irregularis Yu Li, 2002 SPECIES
-=======
+# Cribraria irregularis Yu Li, 2002 SPECIES
 
 #### Status
 ACCEPTED

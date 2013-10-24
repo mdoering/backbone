@@ -1,5 +1,4 @@
-Cladonia calyciformis Nuno SPECIES
-=======
+# Cladonia calyciformis Nuno SPECIES
 
 #### Status
 ACCEPTED

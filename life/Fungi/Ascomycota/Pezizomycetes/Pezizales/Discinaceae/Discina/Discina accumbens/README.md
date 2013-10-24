@@ -1,5 +1,4 @@
-Discina accumbens Rahm SPECIES
-=======
+# Discina accumbens Rahm SPECIES
 
 #### Status
 ACCEPTED

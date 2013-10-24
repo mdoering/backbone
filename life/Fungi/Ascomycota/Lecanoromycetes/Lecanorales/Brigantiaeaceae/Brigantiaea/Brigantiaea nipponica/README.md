@@ -1,5 +1,4 @@
-Brigantiaea nipponica (M. Satô) Hafellner SPECIES
-=======
+# Brigantiaea nipponica (M. Satô) Hafellner SPECIES
 
 #### Status
 ACCEPTED

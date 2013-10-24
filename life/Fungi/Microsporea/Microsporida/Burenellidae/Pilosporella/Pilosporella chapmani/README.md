@@ -1,5 +1,4 @@
-Pilosporella chapmani E.I. Hazard & Oldacre SPECIES
-=======
+# Pilosporella chapmani E.I. Hazard & Oldacre SPECIES
 
 #### Status
 ACCEPTED

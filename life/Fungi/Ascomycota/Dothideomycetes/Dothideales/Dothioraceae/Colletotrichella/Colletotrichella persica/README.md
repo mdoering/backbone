@@ -1,5 +1,4 @@
-Colletotrichella persica Petr. SPECIES
-=======
+# Colletotrichella persica Petr. SPECIES
 
 #### Status
 ACCEPTED

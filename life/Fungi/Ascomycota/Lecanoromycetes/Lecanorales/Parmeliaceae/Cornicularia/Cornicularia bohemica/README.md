@@ -1,5 +1,4 @@
-Cornicularia bohemica (Anders) Anders SPECIES
-=======
+# Cornicularia bohemica (Anders) Anders SPECIES
 
 #### Status
 ACCEPTED

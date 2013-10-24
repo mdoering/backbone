@@ -1,8 +1,7 @@
-Streptomyces viridoflavus Waksman & Taber, 1953 SPECIES
-=======
+# Streptoverticillium viridoflavum (ex Waksman & Taber, 1953) Locci & Schofield, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

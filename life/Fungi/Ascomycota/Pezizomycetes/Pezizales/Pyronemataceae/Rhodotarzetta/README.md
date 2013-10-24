@@ -1,5 +1,4 @@
-Rhodotarzetta Dissing & Sivertsen GENUS
-=======
+# Rhodotarzetta Dissing & Sivertsen GENUS
 
 #### Status
 ACCEPTED

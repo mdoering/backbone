@@ -1,5 +1,4 @@
-Lycoperdon pseudocepaeforme Hollós SPECIES
-=======
+# Lycoperdon pseudocepaeforme Hollós SPECIES
 
 #### Status
 ACCEPTED

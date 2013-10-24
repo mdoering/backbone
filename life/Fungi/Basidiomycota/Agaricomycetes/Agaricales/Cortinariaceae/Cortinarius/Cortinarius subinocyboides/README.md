@@ -1,5 +1,4 @@
-Cortinarius subinocyboides M.M. Moser SPECIES
-=======
+# Cortinarius subinocyboides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

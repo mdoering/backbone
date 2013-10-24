@@ -1,5 +1,4 @@
-Synechococcus minervae J. J. Copeland SPECIES
-=======
+# Synechococcus minervae J. J. Copeland SPECIES
 
 #### Status
 ACCEPTED

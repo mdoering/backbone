@@ -1,5 +1,4 @@
-Septoria adonis (Naumov) Murashk. SPECIES
-=======
+# Septoria adonis (Naumov) Murashk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porophoromyces formosanus K. Sugiy. SPECIES
-=======
+# Porophoromyces formosanus K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachybotryna alba Gené et al. SPECIES
-=======
+# Stachybotryna alba Gené et al. SPECIES
 
 #### Status
 ACCEPTED

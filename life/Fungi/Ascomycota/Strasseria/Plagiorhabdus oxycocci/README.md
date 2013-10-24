@@ -1,5 +1,4 @@
-Plagiorhabdus oxycocci Shear SPECIES
-=======
+# Plagiorhabdus oxycocci Shear SPECIES
 
 #### Status
 ACCEPTED

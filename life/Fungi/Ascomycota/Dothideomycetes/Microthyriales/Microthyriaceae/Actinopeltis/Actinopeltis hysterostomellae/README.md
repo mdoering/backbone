@@ -1,5 +1,4 @@
-Actinopeltis hysterostomellae (Hansf.) Arx SPECIES
-=======
+# Actinopeltis hysterostomellae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

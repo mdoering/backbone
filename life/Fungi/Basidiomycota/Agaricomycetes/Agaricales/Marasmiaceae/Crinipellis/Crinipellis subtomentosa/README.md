@@ -1,5 +1,4 @@
-Crinipellis subtomentosa var. subtomentosa VARIETY
-=======
+# Crinipellis subtomentosa (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Crinipellis subtomentosa var. subtomentosa
+Marasmius subtomentosus Peck
 
 ### Remarks
 null

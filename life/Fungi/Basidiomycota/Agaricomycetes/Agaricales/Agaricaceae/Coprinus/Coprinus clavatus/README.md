@@ -1,5 +1,4 @@
-Coprinus clavatus Fr. SPECIES
-=======
+# Coprinus clavatus Fr. SPECIES
 
 #### Status
 ACCEPTED

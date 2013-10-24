@@ -1,5 +1,4 @@
-Microascus griseus P.N. Mathur & Thirum., 1963 SPECIES
-=======
+# Microascus griseus P.N. Mathur & Thirum., 1963 SPECIES
 
 #### Status
 ACCEPTED

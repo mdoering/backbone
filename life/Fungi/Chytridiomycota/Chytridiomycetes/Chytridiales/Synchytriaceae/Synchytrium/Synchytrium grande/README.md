@@ -1,5 +1,4 @@
-Synchytrium grande (Mill. {?} ) Karling SPECIES
-=======
+# Synchytrium grande (Mill. {?} ) Karling SPECIES
 
 #### Status
 ACCEPTED

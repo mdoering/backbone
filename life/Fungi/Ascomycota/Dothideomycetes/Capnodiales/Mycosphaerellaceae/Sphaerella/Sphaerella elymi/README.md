@@ -1,5 +1,4 @@
-Sphaerella elymi Unamuno SPECIES
-=======
+# Sphaerella elymi Unamuno SPECIES
 
 #### Status
 ACCEPTED

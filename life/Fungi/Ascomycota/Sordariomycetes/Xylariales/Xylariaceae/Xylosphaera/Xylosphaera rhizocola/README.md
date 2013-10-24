@@ -1,5 +1,4 @@
-Xylosphaera rhizocola (Mont.) Dennis SPECIES
-=======
+# Xylosphaera rhizocola (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

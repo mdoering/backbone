@@ -1,5 +1,4 @@
-Trillina Munier-Chalmas, 1882 GENUS
-=======
+# Trillina Munier-Chalmas, 1882 GENUS
 
 #### Status
 ACCEPTED

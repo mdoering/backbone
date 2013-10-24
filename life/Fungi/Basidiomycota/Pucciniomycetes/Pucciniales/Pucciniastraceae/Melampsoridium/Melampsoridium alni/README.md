@@ -1,5 +1,4 @@
-Melampsoridium alni (Thüm.) Dietel SPECIES
-=======
+# Melampsoridium alni (Thüm.) Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria clavispora Mouton SPECIES
-=======
+# Trematosphaeria clavispora Mouton SPECIES
 
 #### Status
 ACCEPTED

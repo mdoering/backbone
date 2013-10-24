@@ -1,5 +1,4 @@
-Gloeosporium machili Sawada SPECIES
-=======
+# Gloeosporium machili Sawada SPECIES
 
 #### Status
 ACCEPTED

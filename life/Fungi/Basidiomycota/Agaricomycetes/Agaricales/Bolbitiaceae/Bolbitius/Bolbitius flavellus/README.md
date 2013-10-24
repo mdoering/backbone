@@ -1,5 +1,4 @@
-Bolbitius flavellus (Murrill) R.N. Singh {?} & V.P. Tewari SPECIES
-=======
+# Bolbitius flavellus (Murrill) R.N. Singh {?} & V.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

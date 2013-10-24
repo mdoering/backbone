@@ -1,5 +1,4 @@
-Puccinia eulaliae Barclay SPECIES
-=======
+# Puccinia eulaliae Barclay SPECIES
 
 #### Status
 ACCEPTED

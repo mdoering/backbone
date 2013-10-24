@@ -1,5 +1,4 @@
-Penicillium olsonii Bainier & Sartory, 1912 SPECIES
-=======
+# Penicillium olsonii Bainier & Sartory, 1912 SPECIES
 
 #### Status
 DOUBTFUL

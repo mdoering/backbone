@@ -1,5 +1,4 @@
-Trachysphaeridium laufeldii Vidal, 1976 SPECIES
-=======
+# Trachysphaeridium laufeldii Vidal, 1976 SPECIES
 
 #### Status
 ACCEPTED

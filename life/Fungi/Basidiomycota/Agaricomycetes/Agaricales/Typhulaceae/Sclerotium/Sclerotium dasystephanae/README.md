@@ -1,5 +1,4 @@
-Sclerotium dasystephanae Thüm. SPECIES
-=======
+# Sclerotium dasystephanae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rhachomyces girardi Lepesme & G. Temp. SPECIES
-=======
+# Rhachomyces girardii Lepesme & G. Temp. ex Santam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Santamaria & Faille, Nova Hedwigia 85(1-2): 174 (2007)
 
 #### Original name
-Rhachomyces girardi Lepesme & G. Temp.
+Rhachomyces girardii Lepesme & G. Temp. ex Santam.
 
 ### Remarks
 null

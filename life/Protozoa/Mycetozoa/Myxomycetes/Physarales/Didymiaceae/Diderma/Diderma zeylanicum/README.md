@@ -1,5 +1,4 @@
-Diderma zeylanicum (Berk. & Broome) Kuntze SPECIES
-=======
+# Diderma zeylanicum (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

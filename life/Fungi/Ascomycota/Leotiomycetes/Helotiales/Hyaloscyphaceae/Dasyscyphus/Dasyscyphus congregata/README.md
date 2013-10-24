@@ -1,8 +1,7 @@
-Dasyscypha congregata Henn. SPECIES
-=======
+# Dasyscyphus congregata Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha congregata Henn.
+Dasyscyphus congregata Henn.
 
 ### Remarks
 null

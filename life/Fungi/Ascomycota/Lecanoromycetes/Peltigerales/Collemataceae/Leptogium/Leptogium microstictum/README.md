@@ -1,5 +1,4 @@
-Leptogium microstictum Vain. SPECIES
-=======
+# Leptogium microstictum Vain. SPECIES
 
 #### Status
 ACCEPTED

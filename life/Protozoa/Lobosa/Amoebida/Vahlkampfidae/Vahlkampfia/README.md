@@ -1,14 +1,13 @@
-Wahlkampfia Stiles & Hassall, 1925 GENUS
-=======
+# Vahlkampfia Chatton & Lalung-Bonnaire GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. hyg. Lab. Washington, No. 140, 11.
+Bull. Soc. Path. Exot. , 5, 135, 141.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Cerotelium morobeanum Cummins SPECIES
-=======
+# Cerotelium morobeanum Cummins SPECIES
 
 #### Status
 ACCEPTED

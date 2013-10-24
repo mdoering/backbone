@@ -1,5 +1,4 @@
-Clitopilus subvilis Peck SPECIES
-=======
+# Clitopilus subvilis Peck SPECIES
 
 #### Status
 ACCEPTED

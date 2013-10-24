@@ -1,5 +1,4 @@
-Ramularia nikitinii Annal. SPECIES
-=======
+# Ramularia nikitinii Annal. SPECIES
 
 #### Status
 ACCEPTED

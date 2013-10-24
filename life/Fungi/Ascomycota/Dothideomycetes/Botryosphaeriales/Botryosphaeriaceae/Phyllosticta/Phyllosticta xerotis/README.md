@@ -1,5 +1,4 @@
-Phyllosticta xerotis Henn. SPECIES
-=======
+# Phyllosticta xerotis Henn. SPECIES
 
 #### Status
 ACCEPTED

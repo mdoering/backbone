@@ -1,5 +1,4 @@
-Pterula lecomtei (Pat.) Corner SPECIES
-=======
+# Pterula lecomtei (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

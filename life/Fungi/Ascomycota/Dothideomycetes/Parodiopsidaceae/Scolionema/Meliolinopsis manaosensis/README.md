@@ -1,5 +1,4 @@
-Meliolinopsis manaosensis (Henn.) Beeli SPECIES
-=======
+# Meliolinopsis manaosensis (Henn.) Beeli SPECIES
 
 #### Status
 ACCEPTED

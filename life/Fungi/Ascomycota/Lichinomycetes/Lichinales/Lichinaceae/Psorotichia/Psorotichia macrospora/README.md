@@ -1,5 +1,4 @@
-Psorotichia macrospora Samp. SPECIES
-=======
+# Psorotichia macrospora Samp. SPECIES
 
 #### Status
 ACCEPTED

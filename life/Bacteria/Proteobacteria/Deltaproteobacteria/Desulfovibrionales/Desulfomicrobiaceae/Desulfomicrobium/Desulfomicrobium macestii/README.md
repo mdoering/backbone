@@ -1,8 +1,7 @@
-Desulfobacterium macestii Gogotova & Vainstein, 1989 SPECIES
-=======
+# Desulfomicrobium macestii (Gogotova & Vainshtein, 1989) Hippe et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Melosira distans var. blelhamensis G. Evans VARIETY
-=======
+# Melosira distans (Ehrenberg) Kützing SPECIES
 
 #### Status
 ACCEPTED

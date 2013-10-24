@@ -1,5 +1,4 @@
-Belonidium leucophaeum (Pers.) Raitv. SPECIES
-=======
+# Belonidium leucophaeum (Pers.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

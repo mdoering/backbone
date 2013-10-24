@@ -1,5 +1,4 @@
-Aecidium coruscans Fr. SPECIES
-=======
+# Aecidium coruscans Fr. SPECIES
 
 #### Status
 ACCEPTED

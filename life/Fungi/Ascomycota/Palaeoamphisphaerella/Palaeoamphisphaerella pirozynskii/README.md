@@ -1,5 +1,4 @@
-Palaeoamphisphaerella pirozynskii Ramanujam & Srisailam SPECIES
-=======
+# Palaeoamphisphaerella pirozynskii Ramanujam & Srisailam SPECIES
 
 #### Status
 ACCEPTED

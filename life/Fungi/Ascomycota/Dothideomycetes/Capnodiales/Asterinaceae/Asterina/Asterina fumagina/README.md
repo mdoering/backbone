@@ -1,5 +1,4 @@
-Asterina fumagina Dearn. & Barthol. SPECIES
-=======
+# Asterina fumagina Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

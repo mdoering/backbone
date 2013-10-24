@@ -1,5 +1,4 @@
-Dothiorella arachidis Costa {?} & Sousa da Câmara SPECIES
-=======
+# Dothiorella arachidis Costa {?} & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopus caespitosus Schipper & Samson, 1994 SPECIES
-=======
+# Rhizopus caespitosus Schipper & Samson, 1994 SPECIES
 
 #### Status
 ACCEPTED

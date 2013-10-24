@@ -1,5 +1,4 @@
-Sandaracinobacter sibiricus Yurkov et al., 1997 SPECIES
-=======
+# Sandaracinobacter sibiricus Yurkov et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

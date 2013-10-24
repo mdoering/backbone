@@ -1,5 +1,4 @@
-Boletus hypoxanthus (Singer) Murrill SPECIES
-=======
+# Boletus hypoxanthus (Singer) Murrill SPECIES
 
 #### Status
 ACCEPTED

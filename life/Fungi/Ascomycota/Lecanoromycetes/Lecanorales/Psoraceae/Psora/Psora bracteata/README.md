@@ -1,5 +1,4 @@
-Psora bracteata Hoffm. SPECIES
-=======
+# Psora bracteata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria foeniculacea var. lupina Sacc. & Scalia VARIETY
-=======
+# Leptosphaeria foeniculacea Fabre SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria foeniculacea var. lupina Sacc. & Scalia
+Leptosphaeria foeniculacea Fabre
 
 ### Remarks
 null

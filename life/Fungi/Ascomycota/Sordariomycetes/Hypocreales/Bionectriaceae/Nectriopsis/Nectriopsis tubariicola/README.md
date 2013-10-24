@@ -1,5 +1,4 @@
-Nectriopsis tubariicola W. Gams, 1982 SPECIES
-=======
+# Nectriopsis tubariicola W. Gams, 1982 SPECIES
 
 #### Status
 ACCEPTED

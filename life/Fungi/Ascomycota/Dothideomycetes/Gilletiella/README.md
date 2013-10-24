@@ -1,17 +1,16 @@
-Heterochlamys Patouillard, 1895 GENUS
-=======
+# Gilletiella Saccardo & P. Sydow, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Patouillard & Lagerheim, Bull. Soc. mycol. Fr. 11: 231 (1895)
+Syll. fung. (Abellini) 14: 691 (1899)
 
 #### Original name
-Heterochlamys Patouillard, 1895
+Gilletiella Saccardo & P. Sydow, 1899
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus ocreatus Berk. & Broome SPECIES
-=======
+# Agaricus ocreatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

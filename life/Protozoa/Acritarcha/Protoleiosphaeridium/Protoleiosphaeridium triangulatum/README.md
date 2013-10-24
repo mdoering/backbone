@@ -1,5 +1,4 @@
-Protoleiosphaeridium triangulatum Ouyang Shu et al., 1974 SPECIES
-=======
+# Protoleiosphaeridium triangulatum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

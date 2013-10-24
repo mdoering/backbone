@@ -1,5 +1,4 @@
-Pertusaria epixantha R.C. Harris SPECIES
-=======
+# Pertusaria epixantha R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

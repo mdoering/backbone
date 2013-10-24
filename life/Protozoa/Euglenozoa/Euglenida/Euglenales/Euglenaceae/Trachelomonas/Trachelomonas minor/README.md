@@ -1,5 +1,4 @@
-Trachelomonas minor Palmer SPECIES
-=======
+# Trachelomonas minor Palmer SPECIES
 
 #### Status
 ACCEPTED

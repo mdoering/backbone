@@ -1,5 +1,4 @@
-Schizoblastosporion domingense Cif. SPECIES
-=======
+# Schizoblastosporion domingense Cif. SPECIES
 
 #### Status
 ACCEPTED

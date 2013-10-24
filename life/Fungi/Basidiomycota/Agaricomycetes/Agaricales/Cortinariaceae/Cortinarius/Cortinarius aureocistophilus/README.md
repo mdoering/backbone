@@ -1,5 +1,4 @@
-Cortinarius aureocistophilus Vila, Contu & Llimona SPECIES
-=======
+# Cortinarius aureocistophilus Vila, Contu & Llimona SPECIES
 
 #### Status
 ACCEPTED

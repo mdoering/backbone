@@ -1,14 +1,13 @@
-Didymostilbe echinofibrosa (Finley) Rossman SPECIES
-=======
+# Virgatospora echinofibrosa Finley, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 56 (1999)
+Mycologia 59(3): 538 (1967)
 
 #### Original name
 Virgatospora echinofibrosa Finley, 1967

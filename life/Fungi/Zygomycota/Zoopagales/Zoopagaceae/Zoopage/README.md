@@ -1,5 +1,4 @@
-Zoopage Drechsler GENUS
-=======
+# Zoopage Drechsler GENUS
 
 #### Status
 ACCEPTED

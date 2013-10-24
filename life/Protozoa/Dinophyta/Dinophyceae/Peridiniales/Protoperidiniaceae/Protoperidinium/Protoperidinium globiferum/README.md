@@ -1,8 +1,7 @@
-Protoperidinium globifera Abé SPECIES
-=======
+# Protoperidinium globiferum (Abé, 1981) Balech, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Asterostromella lateritia Rick SPECIES
-=======
+# Asterostromella lateritia Rick SPECIES
 
 #### Status
 ACCEPTED

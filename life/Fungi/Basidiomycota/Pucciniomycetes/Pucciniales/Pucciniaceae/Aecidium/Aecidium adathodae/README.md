@@ -1,5 +1,4 @@
-Aecidium adathodae Syd. & P. Syd. SPECIES
-=======
+# Aecidium adathodae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

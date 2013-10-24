@@ -1,5 +1,4 @@
-Fragilaria punctata J. John SPECIES
-=======
+# Fragilaria punctata J. John SPECIES
 
 #### Status
 ACCEPTED

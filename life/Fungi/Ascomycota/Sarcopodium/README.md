@@ -1,17 +1,16 @@
-Periolopsis Maire GENUS
-=======
+# Sarcopodium Ehrenberg, 1818 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 11(4): 357 (1913)
+Sylv. mycol. berol. (Berlin) 12, 23 (1818)
 
 #### Original name
-Periolopsis Maire
+Sarcopodium Ehrenberg, 1818
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycosphaerella erythrinicola Syd. SPECIES
-=======
+# Mycosphaerella erythrinicola Syd. SPECIES
 
 #### Status
 ACCEPTED

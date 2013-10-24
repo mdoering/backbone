@@ -1,5 +1,4 @@
-Allescheria gayoni (Costantin ex Laborde) Sacc. & P. Syd. SPECIES
-=======
+# Allescheria gayoni (Costantin ex Laborde) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

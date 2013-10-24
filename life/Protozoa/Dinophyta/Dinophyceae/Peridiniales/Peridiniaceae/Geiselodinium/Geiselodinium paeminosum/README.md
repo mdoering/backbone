@@ -1,5 +1,4 @@
-Geiselodinium paeminosum Drugg, 1978 SPECIES
-=======
+# Geiselodinium paeminosum Drugg, 1978 SPECIES
 
 #### Status
 ACCEPTED

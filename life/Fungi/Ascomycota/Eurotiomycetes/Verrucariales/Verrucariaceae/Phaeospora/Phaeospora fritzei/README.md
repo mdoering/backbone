@@ -1,5 +1,4 @@
-Phaeospora fritzei Stein SPECIES
-=======
+# Phaeospora fritzei Stein SPECIES
 
 #### Status
 ACCEPTED

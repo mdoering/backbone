@@ -1,5 +1,4 @@
-Calothyriopeltis metrosideri F. Stevens & R.W. Ryan SPECIES
-=======
+# Calothyriopeltis metrosideri F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

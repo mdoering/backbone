@@ -1,5 +1,4 @@
-Hyphoderma africanum (Burt) D.A. Reid, 1975 SPECIES
-=======
+# Hyphoderma africanum (Burt) D.A. Reid, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora leucopis Ach. SPECIES
-=======
+# Lecanora leucopis Ach. SPECIES
 
 #### Status
 ACCEPTED

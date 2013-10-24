@@ -1,5 +1,4 @@
-Fusarium hyperoxysporum Wollenw. SPECIES
-=======
+# Fusarium hyperoxysporum Wollenw. SPECIES
 
 #### Status
 ACCEPTED

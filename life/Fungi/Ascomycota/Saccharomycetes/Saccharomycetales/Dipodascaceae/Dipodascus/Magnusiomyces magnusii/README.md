@@ -1,17 +1,16 @@
-Dipodascus magnusii var. magnusii (F. Ludw.) Arx, 1978 VARIETY
-=======
+# Magnusiomyces magnusii (F. Ludw.) Redhead & Malloch, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 55(13): 1708 (1977)
 
 #### Original name
-null
+Endomyces magnusii F. Ludw., 1886
 
 ### Remarks
 null

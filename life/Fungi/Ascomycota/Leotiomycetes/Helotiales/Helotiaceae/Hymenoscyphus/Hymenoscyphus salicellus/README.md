@@ -1,14 +1,13 @@
-Helotium salicella (Fr.) Fr., 1849 SPECIES
-=======
+# Hymenoscyphus salicellus (Fr.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 356 (1849)
+Persoonia 3(1): 73 (1964)
 
 #### Original name
 null

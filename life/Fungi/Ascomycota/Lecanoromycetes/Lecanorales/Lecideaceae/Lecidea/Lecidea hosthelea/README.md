@@ -1,5 +1,4 @@
-Lecidea hosthelea Ach. SPECIES
-=======
+# Lecidea hosthelea Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus major Berk. & M.A. Curtis SPECIES
-=======
+# Ascobolus major Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

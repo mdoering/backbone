@@ -1,5 +1,4 @@
-Polyporellus murinus Imazeki SPECIES
-=======
+# Polyporellus murinus Imazeki SPECIES
 
 #### Status
 ACCEPTED

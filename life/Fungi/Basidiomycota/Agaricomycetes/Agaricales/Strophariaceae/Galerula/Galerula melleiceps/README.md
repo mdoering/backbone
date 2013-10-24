@@ -1,5 +1,4 @@
-Galerula melleiceps Murrill SPECIES
-=======
+# Galerula melleiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

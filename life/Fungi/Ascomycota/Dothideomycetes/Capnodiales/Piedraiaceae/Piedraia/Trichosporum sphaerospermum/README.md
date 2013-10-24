@@ -1,5 +1,4 @@
-Trichosporum sphaerospermum (Fuckel) Sacc. SPECIES
-=======
+# Trichosporum sphaerospermum (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

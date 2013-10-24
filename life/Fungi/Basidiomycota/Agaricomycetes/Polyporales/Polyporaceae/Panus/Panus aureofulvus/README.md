@@ -1,5 +1,4 @@
-Panus aureofulvus Cooke SPECIES
-=======
+# Panus aureofulvus Cooke SPECIES
 
 #### Status
 ACCEPTED

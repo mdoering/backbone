@@ -1,5 +1,4 @@
-Cenangium tennesseense Kanouse SPECIES
-=======
+# Cenangium tennesseense Kanouse SPECIES
 
 #### Status
 ACCEPTED

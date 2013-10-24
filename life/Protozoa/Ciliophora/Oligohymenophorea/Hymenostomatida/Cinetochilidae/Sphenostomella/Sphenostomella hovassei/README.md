@@ -1,8 +1,7 @@
-Zitheron hovassei (Groliere, 1975) Jankowski, 2007 SPECIES
-=======
+# Sphenostomella hovassei (Groliere, 1975) Small & Lynn, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

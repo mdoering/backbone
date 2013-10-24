@@ -1,5 +1,4 @@
-Opertum Voloshina, 1965 GENUS
-=======
+# Opertum Voloshina, 1965 GENUS
 
 #### Status
 ACCEPTED

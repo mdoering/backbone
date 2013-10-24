@@ -1,5 +1,4 @@
-Odontotrema majusculum Rehm SPECIES
-=======
+# Odontotrema majusculum Rehm SPECIES
 
 #### Status
 ACCEPTED

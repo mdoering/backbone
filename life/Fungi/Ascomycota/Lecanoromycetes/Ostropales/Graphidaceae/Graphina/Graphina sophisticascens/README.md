@@ -1,5 +1,4 @@
-Graphina sophisticascens (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina sophisticascens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

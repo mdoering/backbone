@@ -1,5 +1,4 @@
-Immothia M.E. Barr GENUS
-=======
+# Immothia M.E. Barr GENUS
 
 #### Status
 ACCEPTED

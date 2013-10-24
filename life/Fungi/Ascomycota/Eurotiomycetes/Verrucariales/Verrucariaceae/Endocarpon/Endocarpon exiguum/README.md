@@ -1,5 +1,4 @@
-Endocarpon exiguum Nyl. SPECIES
-=======
+# Endocarpon exiguum Nyl. SPECIES
 
 #### Status
 ACCEPTED

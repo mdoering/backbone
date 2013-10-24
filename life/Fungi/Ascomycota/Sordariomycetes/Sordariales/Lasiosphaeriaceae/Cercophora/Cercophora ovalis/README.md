@@ -1,5 +1,4 @@
-Cercophora ovalis Mukerji, R.N. Kumar & N. Singh SPECIES
-=======
+# Cercophora ovalis Mukerji, R.N. Kumar & N. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia phaeoplaca Zahlbr. SPECIES
-=======
+# Arthopyrenia phaeoplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

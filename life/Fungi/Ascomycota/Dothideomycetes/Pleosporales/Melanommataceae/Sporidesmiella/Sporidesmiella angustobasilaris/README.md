@@ -1,5 +1,4 @@
-Sporidesmiella angustobasilaris Hol.-Jech. SPECIES
-=======
+# Sporidesmiella angustobasilaris Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

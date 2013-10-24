@@ -1,5 +1,4 @@
-Phaeophyscia lygaea (Poelt) D.D. Awasthi SPECIES
-=======
+# Phaeophyscia lygaea (Poelt) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

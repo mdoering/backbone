@@ -1,8 +1,7 @@
-Dichomera capparidis Munjal & J.N. Kapoor SPECIES
-=======
+# Dichomera capparis Munjal & J.N. Kapoor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dichomera capparidis Munjal & J.N. Kapoor
+Dichomera capparis Munjal & J.N. Kapoor
 
 ### Remarks
 null

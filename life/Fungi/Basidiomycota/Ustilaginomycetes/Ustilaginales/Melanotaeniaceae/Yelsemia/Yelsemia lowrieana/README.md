@@ -1,5 +1,4 @@
-Yelsemia lowrieana R.G. Shivas & Vánky, 2003 SPECIES
-=======
+# Yelsemia lowrieana R.G. Shivas & Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

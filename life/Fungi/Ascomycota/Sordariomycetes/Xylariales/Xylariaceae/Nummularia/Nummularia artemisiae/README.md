@@ -1,5 +1,4 @@
-Nummularia artemisiae (Schwein.) Sacc. SPECIES
-=======
+# Nummularia artemisiae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

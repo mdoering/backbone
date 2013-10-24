@@ -1,5 +1,4 @@
-Cortinarius coniferarum (M.M. Moser) Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius coniferarum (M.M. Moser) Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

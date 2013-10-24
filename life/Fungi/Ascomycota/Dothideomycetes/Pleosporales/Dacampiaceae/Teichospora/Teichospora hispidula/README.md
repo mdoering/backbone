@@ -1,5 +1,4 @@
-Teichospora hispidula F. Lamb. SPECIES
-=======
+# Teichospora hispidula F. Lamb. SPECIES
 
 #### Status
 ACCEPTED

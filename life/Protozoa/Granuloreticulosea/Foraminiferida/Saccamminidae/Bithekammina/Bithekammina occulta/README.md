@@ -1,5 +1,4 @@
-Bithekammina occulta Aranda da Silva & Gooday, 2011 SPECIES
-=======
+# Bithekammina occulta Aranda da Silva & Gooday, 2011 SPECIES
 
 #### Status
 ACCEPTED

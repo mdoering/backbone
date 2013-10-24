@@ -1,5 +1,4 @@
-Septoria romeriana Moesz SPECIES
-=======
+# Septoria romeriana Moesz SPECIES
 
 #### Status
 ACCEPTED

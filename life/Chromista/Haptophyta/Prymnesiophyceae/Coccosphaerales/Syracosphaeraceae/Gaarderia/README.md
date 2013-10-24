@@ -1,5 +1,4 @@
-Gaarderia A. Kleijne, 1993 GENUS
-=======
+# Gaarderia A. Kleijne, 1993 GENUS
 
 #### Status
 ACCEPTED

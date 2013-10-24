@@ -1,5 +1,4 @@
-Penicillium oxalicum Currie & Thom, 1915 SPECIES
-=======
+# Penicillium oxalicum Currie & Thom, 1915 SPECIES
 
 #### Status
 DOUBTFUL

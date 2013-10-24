@@ -1,5 +1,4 @@
-Discophrya erlangensis Matthes, 1954 SPECIES
-=======
+# Discophrya erlangensis Matthes, 1954 SPECIES
 
 #### Status
 ACCEPTED

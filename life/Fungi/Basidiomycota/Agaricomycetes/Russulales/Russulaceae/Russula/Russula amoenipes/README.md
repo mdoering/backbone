@@ -1,14 +1,13 @@
-Russula xerampelina var. amoenipes Bon, 1987 VARIETY
-=======
+# Russula amoenipes (Romagn. ex Bon) Bidaud, Moënne-Locc. & Reumaux, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 18(no. 69): 36 (1987)
+in Reumaux, Bidaud & Moënne-Loccoz, Russules Rares ou Méconnues (Marlioz) 281 (1996)
 
 #### Original name
 Russula xerampelina var. amoenipes Bon, 1987

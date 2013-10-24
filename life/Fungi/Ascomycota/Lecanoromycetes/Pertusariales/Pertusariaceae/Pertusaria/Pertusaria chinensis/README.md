@@ -1,5 +1,4 @@
-Pertusaria chinensis Müll. Arg. SPECIES
-=======
+# Pertusaria chinensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

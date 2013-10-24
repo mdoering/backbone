@@ -1,5 +1,4 @@
-Lagotia similis (Dons, 1915) Hadzi SPECIES
-=======
+# Lagotia similis (Dons, 1915) Hadzi SPECIES
 
 #### Status
 ACCEPTED

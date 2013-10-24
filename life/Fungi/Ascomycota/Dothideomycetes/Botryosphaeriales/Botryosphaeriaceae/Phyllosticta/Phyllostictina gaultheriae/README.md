@@ -1,5 +1,4 @@
-Phyllostictina gaultheriae Ellis & Everh. SPECIES
-=======
+# Phyllostictina gaultheriae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

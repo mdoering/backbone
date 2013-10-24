@@ -1,5 +1,4 @@
-Meliola schimae Hansf. SPECIES
-=======
+# Meliola schimae Hansf. SPECIES
 
 #### Status
 ACCEPTED

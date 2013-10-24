@@ -1,5 +1,4 @@
-Puccinia tendae Gäum. SPECIES
-=======
+# Puccinia tendae Gäum. SPECIES
 
 #### Status
 ACCEPTED

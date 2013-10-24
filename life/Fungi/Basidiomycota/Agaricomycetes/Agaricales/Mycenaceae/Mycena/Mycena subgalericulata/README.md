@@ -1,5 +1,4 @@
-Mycena subgalericulata Cleland SPECIES
-=======
+# Mycena subgalericulata Cleland SPECIES
 
 #### Status
 ACCEPTED

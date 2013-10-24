@@ -1,5 +1,4 @@
-Pezicula rivularis (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Pezicula rivularis (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

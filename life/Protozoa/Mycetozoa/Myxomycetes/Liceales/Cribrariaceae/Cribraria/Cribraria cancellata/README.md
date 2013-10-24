@@ -1,17 +1,16 @@
-Dictydium cancellatum var. cancellatum (Batsch) T. Macbr. VARIETY
-=======
+# Cribraria cancellata (Batsch) Nann.-Bremek., 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Slime-Moulds (New York), Edn 1 230, tab. 10, fig. 2 (1899)
+null
 
 #### Original name
-Dictydium cancellatum var. cancellatum (Batsch) T. Macbr.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria microcarpa Fr. & Mont. SPECIES
-=======
+# Sphaeria microcarpa Fr. & Mont. SPECIES
 
 #### Status
 ACCEPTED

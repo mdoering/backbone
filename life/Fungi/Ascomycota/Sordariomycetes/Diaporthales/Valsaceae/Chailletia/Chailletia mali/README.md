@@ -1,17 +1,16 @@
-Chailletia malus Smyk SPECIES
-=======
+# Chailletia mali Smyk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. Sist. vjssh. Rast. , 1974 142 (1974)
 
 #### Original name
-Chailletia malus Smyk
+Chailletia mali Smyk
 
 ### Remarks
 null

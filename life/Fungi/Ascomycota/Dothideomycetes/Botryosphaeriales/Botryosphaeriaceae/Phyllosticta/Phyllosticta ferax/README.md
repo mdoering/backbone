@@ -1,5 +1,4 @@
-Phyllosticta ferax Ellis & Everh. SPECIES
-=======
+# Phyllosticta ferax Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

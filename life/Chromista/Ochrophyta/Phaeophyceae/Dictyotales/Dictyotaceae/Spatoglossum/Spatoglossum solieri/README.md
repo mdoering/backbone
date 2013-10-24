@@ -1,5 +1,4 @@
-Spatoglossum solieri (Chauvin ex Montagne) Kützing, 1843 SPECIES
-=======
+# Spatoglossum solieri (Chauvin ex Montagne) Kützing, 1843 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma hapalocystis Sacc., 1884 SPECIES
-=======
+# Phoma hapalocystis Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hysterangium clathroides var. clathroides VARIETY
-=======
+# Hysterangium clathroides Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monogr. Tuberac. (Milano) 13 (1831)
 
 #### Original name
-Hysterangium clathroides var. clathroides
+Hysterangium clathroides Vittad., 1831
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Svetlaphyton P.N. Kolosov, 1982 GENUS
-=======
+# Svetlaphyton P.N. Kolosov, 1982 GENUS
 
 #### Status
 ACCEPTED

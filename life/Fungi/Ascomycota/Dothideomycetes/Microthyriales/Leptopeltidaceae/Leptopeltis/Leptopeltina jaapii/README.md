@@ -1,8 +1,7 @@
-Leptopeltina jaapi (Rehm) Petr. SPECIES
-=======
+# Leptopeltina jaapii (Rehm) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

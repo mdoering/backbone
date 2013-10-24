@@ -1,5 +1,4 @@
-Erineum coryleum Pers. SPECIES
-=======
+# Erineum coryleum Pers. SPECIES
 
 #### Status
 ACCEPTED

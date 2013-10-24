@@ -1,5 +1,4 @@
-Pholiota johnsoniana (Peck) G.F. Atk. SPECIES
-=======
+# Pholiota johnsoniana (Peck) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis morphaea Sacc., 1884 SPECIES
-=======
+# Phomopsis morphaea Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

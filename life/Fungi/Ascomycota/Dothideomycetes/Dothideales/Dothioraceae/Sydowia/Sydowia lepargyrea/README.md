@@ -1,5 +1,4 @@
-Sydowia lepargyrea Dearn. ex M.E. Barr SPECIES
-=======
+# Sydowia lepargyrea Dearn. ex M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

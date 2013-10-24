@@ -1,5 +1,4 @@
-Altasterella Seiglie, 1965 GENUS
-=======
+# Altasterella Seiglie, 1965 GENUS
 
 #### Status
 ACCEPTED

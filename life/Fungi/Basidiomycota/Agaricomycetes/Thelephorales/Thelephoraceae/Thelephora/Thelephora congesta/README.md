@@ -1,14 +1,13 @@
-Lachnocladium congestum (Berk.) Lloyd, 1917 SPECIES
-=======
+# Thelephora congesta Berk., 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5: 623 (1917)
+J. Linn. Soc. , Bot. 13: 168 (1872)
 
 #### Original name
 Thelephora congesta Berk., 1872

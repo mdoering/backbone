@@ -1,5 +1,4 @@
-Gaudryina asanoi Huang SPECIES
-=======
+# Gaudryina asanoi Huang SPECIES
 
 #### Status
 ACCEPTED

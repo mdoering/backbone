@@ -1,5 +1,4 @@
-Lepraria pulchra Orange & Wolseley SPECIES
-=======
+# Lepraria pulchra Orange & Wolseley SPECIES
 
 #### Status
 ACCEPTED

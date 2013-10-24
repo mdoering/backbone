@@ -1,5 +1,4 @@
-Septoriella halensis B. Sutton & Melnik SPECIES
-=======
+# Septoriella halensis B. Sutton & Melnik SPECIES
 
 #### Status
 ACCEPTED

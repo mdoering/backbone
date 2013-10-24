@@ -1,5 +1,4 @@
-Botrytis funicola Ellis & Everh. SPECIES
-=======
+# Botrytis funicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

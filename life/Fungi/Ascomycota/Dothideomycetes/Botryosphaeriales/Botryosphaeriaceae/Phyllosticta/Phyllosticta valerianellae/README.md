@@ -1,5 +1,4 @@
-Phyllosticta valerianellae T.M. Achundov & Agajeva SPECIES
-=======
+# Phyllosticta valerianellae T.M. Achundov & Agajeva SPECIES
 
 #### Status
 ACCEPTED

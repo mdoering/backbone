@@ -1,5 +1,4 @@
-Uromyces reticulatus (Thüm.) Bubák SPECIES
-=======
+# Uromyces reticulatus (Thüm.) Bubák SPECIES
 
 #### Status
 ACCEPTED

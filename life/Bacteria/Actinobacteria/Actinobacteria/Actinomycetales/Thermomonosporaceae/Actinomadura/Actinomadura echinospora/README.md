@@ -1,8 +1,7 @@
-Microbispora echinospora Nonomura and Ohara, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Actinomadura echinospora (Nonomura & Ohara, 1971) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

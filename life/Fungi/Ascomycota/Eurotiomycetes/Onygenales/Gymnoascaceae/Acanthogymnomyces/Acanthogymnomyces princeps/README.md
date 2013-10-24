@@ -1,5 +1,4 @@
-Acanthogymnomyces princeps (Udagawa & Uchiy.) Udagawa & Uchiy. SPECIES
-=======
+# Acanthogymnomyces princeps (Udagawa & Uchiy.) Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

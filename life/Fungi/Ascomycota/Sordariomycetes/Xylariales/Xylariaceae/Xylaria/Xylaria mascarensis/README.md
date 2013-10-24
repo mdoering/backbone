@@ -1,5 +1,4 @@
-Xylaria mascarensis Cooke SPECIES
-=======
+# Xylaria mascarensis Cooke SPECIES
 
 #### Status
 ACCEPTED

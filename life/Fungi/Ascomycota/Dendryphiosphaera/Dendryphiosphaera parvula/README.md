@@ -1,5 +1,4 @@
-Dendryphiosphaera parvula Nawawi & Kuthub. SPECIES
-=======
+# Dendryphiosphaera parvula Nawawi & Kuthub. SPECIES
 
 #### Status
 ACCEPTED

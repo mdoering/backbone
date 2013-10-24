@@ -1,5 +1,4 @@
-Ackermannia coccogena Pat. SPECIES
-=======
+# Ackermannia coccogena Pat. SPECIES
 
 #### Status
 ACCEPTED

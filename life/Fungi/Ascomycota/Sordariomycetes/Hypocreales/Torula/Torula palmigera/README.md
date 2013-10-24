@@ -1,5 +1,4 @@
-Torula palmigera Bubák SPECIES
-=======
+# Torula palmigera Bubák SPECIES
 
 #### Status
 ACCEPTED

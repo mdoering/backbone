@@ -1,5 +1,4 @@
-Thelidium perexiguum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Thelidium perexiguum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

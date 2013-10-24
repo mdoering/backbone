@@ -1,17 +1,16 @@
-Aecidium geranii var. geranii VARIETY
-=======
+# Uromyces geranii Speg., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi Fuegiani no. 87 (1887)
 
 #### Original name
-null
+Uromyces geranii Speg., 1887
 
 ### Remarks
 null

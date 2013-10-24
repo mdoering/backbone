@@ -1,5 +1,4 @@
-Fusicladium amoenum (R.F. Castañeda & Dugan) Crous, K. Schub. & U. Braun SPECIES
-=======
+# Fusicladium amoenum (R.F. Castañeda & Dugan) Crous, K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

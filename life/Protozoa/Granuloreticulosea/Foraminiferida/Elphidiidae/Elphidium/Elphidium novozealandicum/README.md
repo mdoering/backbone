@@ -1,5 +1,4 @@
-Elphidium novozealandicum Cushman, 1936 SPECIES
-=======
+# Elphidium novozealandicum Cushman, 1936 SPECIES
 
 #### Status
 ACCEPTED

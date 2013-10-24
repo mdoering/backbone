@@ -1,5 +1,4 @@
-Ramularia coalescens (Davis) Piroz. SPECIES
-=======
+# Ramularia coalescens (Davis) Piroz. SPECIES
 
 #### Status
 ACCEPTED

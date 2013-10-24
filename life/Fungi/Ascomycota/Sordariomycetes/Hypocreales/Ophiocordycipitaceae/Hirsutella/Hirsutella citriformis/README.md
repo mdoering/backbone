@@ -1,5 +1,4 @@
-Hirsutella citriformis Speare, 1920 SPECIES
-=======
+# Hirsutella citriformis Speare, 1920 SPECIES
 
 #### Status
 ACCEPTED

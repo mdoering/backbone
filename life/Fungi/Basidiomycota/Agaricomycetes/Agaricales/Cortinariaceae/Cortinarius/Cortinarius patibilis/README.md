@@ -1,5 +1,4 @@
-Cortinarius patibilis var. patibilis Brandrud & Melot, 1983 VARIETY
-=======
+# Cortinarius patibilis Brandrud & Melot, 1983 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 99(2): 228 (1983)
+null
 
 #### Original name
-Cortinarius patibilis var. patibilis Brandrud & Melot, 1983
+null
 
 ### Remarks
 null

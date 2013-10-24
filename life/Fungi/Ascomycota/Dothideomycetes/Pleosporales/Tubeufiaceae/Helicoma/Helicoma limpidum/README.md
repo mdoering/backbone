@@ -1,5 +1,4 @@
-Helicoma limpidum Morgan SPECIES
-=======
+# Helicoma limpidum Morgan SPECIES
 
 #### Status
 ACCEPTED

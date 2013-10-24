@@ -1,5 +1,4 @@
-Laboea pulchrum (Kopperi, 1937) Corliss, 1960 SPECIES
-=======
+# Laboea pulchrum (Kopperi, 1937) Corliss, 1960 SPECIES
 
 #### Status
 ACCEPTED

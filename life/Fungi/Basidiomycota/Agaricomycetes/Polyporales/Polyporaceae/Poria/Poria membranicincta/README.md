@@ -1,5 +1,4 @@
-Poria membranicincta Berk. ex Cooke SPECIES
-=======
+# Poria membranicincta Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharomyces valdivianus Thaxt. SPECIES
-=======
+# Cantharomyces valdivianus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolus semipellucidus Zoll. SPECIES
-=======
+# Favolus semipellucidus Zoll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciliospora gelatinosa Zimm. SPECIES
-=======
+# Ciliospora gelatinosa Zimm. SPECIES
 
 #### Status
 ACCEPTED

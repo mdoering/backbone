@@ -1,5 +1,4 @@
-Armillaria olivacea Herink SPECIES
-=======
+# Armillaria olivacea Herink SPECIES
 
 #### Status
 ACCEPTED

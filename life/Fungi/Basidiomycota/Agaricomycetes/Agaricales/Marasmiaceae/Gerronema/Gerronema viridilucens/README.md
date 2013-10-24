@@ -1,5 +1,4 @@
-Gerronema viridilucens Desjardin, Capelari & Stevani SPECIES
-=======
+# Gerronema viridilucens Desjardin, Capelari & Stevani SPECIES
 
 #### Status
 ACCEPTED

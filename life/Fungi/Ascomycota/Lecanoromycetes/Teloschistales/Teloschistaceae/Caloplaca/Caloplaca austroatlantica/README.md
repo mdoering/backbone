@@ -1,5 +1,4 @@
-Caloplaca austroatlantica Øvstedal SPECIES
-=======
+# Caloplaca austroatlantica Øvstedal SPECIES
 
 #### Status
 ACCEPTED

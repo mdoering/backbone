@@ -1,5 +1,4 @@
-Proceropycnis pinicola M. Villarreal, Arenal, V. Rubio, Begerow, R. Bauer, R. Kirschner & Oberw., 2006 SPECIES
-=======
+# Proceropycnis pinicola M. Villarreal, Arenal, V. Rubio, Begerow, R. Bauer, R. Kirschner & Oberw., 2006 SPECIES
 
 #### Status
 ACCEPTED

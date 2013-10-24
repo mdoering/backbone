@@ -1,5 +1,4 @@
-Sphaeronaema stramonii Caball. SPECIES
-=======
+# Sphaeronaema stramonii Caball. SPECIES
 
 #### Status
 ACCEPTED

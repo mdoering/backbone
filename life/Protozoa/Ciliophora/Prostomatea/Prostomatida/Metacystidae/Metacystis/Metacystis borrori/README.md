@@ -1,5 +1,4 @@
-Metacystis borrori Aladro-Lubel & Martinez-Murillo, 2003 SPECIES
-=======
+# Metacystis borrori Aladro-Lubel & Martinez-Murillo, 2003 SPECIES
 
 #### Status
 ACCEPTED

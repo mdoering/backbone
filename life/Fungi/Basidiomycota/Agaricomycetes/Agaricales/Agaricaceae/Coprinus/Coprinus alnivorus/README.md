@@ -1,5 +1,4 @@
-Coprinus alnivorus Bogart SPECIES
-=======
+# Coprinus alnivorus Bogart SPECIES
 
 #### Status
 ACCEPTED

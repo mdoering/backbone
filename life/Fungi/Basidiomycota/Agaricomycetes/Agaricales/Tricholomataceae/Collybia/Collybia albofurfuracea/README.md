@@ -1,5 +1,4 @@
-Collybia albofurfuracea Beeli SPECIES
-=======
+# Collybia albofurfuracea Beeli SPECIES
 
 #### Status
 ACCEPTED

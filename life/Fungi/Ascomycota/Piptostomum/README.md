@@ -1,17 +1,16 @@
-Piptostroma Fr. GENUS
-=======
+# Piptostomum Lév. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 3: 65 (1845)
 
 #### Original name
-Piptostroma Fr.
+Piptostomum Lév.
 
 ### Remarks
 null

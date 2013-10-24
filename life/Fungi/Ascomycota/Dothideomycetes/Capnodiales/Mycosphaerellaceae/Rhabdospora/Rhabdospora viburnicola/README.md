@@ -1,5 +1,4 @@
-Rhabdospora viburnicola Gonz. Frag. SPECIES
-=======
+# Rhabdospora viburnicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sigmoidella kagaensis Cushman & Ozawa, 1928 SPECIES
-=======
+# Sigmoidella kagaensis Cushman & Ozawa, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryne bresadolae Rehm SPECIES
-=======
+# Coryne bresadolae Rehm SPECIES
 
 #### Status
 ACCEPTED

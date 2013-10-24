@@ -1,5 +1,4 @@
-Marasmius mokfaensis Wannathes, Desjardin & Lumyong SPECIES
-=======
+# Marasmius mokfaensis Wannathes, Desjardin & Lumyong SPECIES
 
 #### Status
 ACCEPTED

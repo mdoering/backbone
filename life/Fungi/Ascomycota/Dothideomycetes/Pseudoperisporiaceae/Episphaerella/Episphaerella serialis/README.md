@@ -1,5 +1,4 @@
-Episphaerella serialis Butin & Speer SPECIES
-=======
+# Episphaerella serialis Butin & Speer SPECIES
 
 #### Status
 ACCEPTED

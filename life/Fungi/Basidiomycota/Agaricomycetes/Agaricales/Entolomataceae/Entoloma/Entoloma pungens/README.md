@@ -1,5 +1,4 @@
-Entoloma pungens (A.H. Sm. & Hesler) Courtec. SPECIES
-=======
+# Entoloma pungens (A.H. Sm. & Hesler) Courtec. SPECIES
 
 #### Status
 ACCEPTED

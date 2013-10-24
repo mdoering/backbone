@@ -1,5 +1,4 @@
-Bryoria mirabilis (Motyka) Clauzade & Cl. Roux SPECIES
-=======
+# Bryoria mirabilis (Motyka) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

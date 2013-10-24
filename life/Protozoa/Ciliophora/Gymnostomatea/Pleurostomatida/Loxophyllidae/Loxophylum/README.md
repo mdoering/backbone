@@ -1,5 +1,4 @@
-Loxophylum GENUS
-=======
+# Loxophylum GENUS
 
 #### Status
 ACCEPTED

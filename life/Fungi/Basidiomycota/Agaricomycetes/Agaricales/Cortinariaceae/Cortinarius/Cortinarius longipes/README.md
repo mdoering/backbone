@@ -1,5 +1,4 @@
-Cortinarius longipes Peck SPECIES
-=======
+# Cortinarius longipes Peck SPECIES
 
 #### Status
 ACCEPTED

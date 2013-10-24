@@ -1,5 +1,4 @@
-Puccinia algerica Pat. SPECIES
-=======
+# Puccinia algerica Pat. SPECIES
 
 #### Status
 ACCEPTED

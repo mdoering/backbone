@@ -1,8 +1,7 @@
-Ustilago sporobolii-indici L. Ling SPECIES
-=======
+# Ustilago sporoboli-indici L. Ling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago sporobolii-indici L. Ling
+Ustilago sporoboli-indici L. Ling
 
 ### Remarks
 null

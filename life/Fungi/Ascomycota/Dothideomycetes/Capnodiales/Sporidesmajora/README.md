@@ -1,5 +1,4 @@
-Sporidesmajora GENUS
-=======
+# Sporidesmajora GENUS
 
 #### Status
 ACCEPTED

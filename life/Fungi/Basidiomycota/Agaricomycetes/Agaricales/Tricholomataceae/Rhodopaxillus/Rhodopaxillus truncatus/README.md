@@ -1,5 +1,4 @@
-Rhodopaxillus truncatus subsp. truncatus SUBSPECIES
-=======
+# Rhodopaxillus truncatus Maire SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 11(4): 338 (1913)
 
 #### Original name
-Rhodopaxillus truncatus subsp. truncatus
+Rhodopaxillus truncatus Maire
 
 ### Remarks
 null

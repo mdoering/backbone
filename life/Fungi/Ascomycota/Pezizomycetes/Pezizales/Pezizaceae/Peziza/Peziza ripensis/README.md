@@ -1,8 +1,7 @@
-Galactinia ripensis (E.C. Hansen) Boud., 1907 SPECIES
-=======
+# Peziza ripensis E.C. Hansen, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Peziza ripensis E.C. Hansen, 1877
 
 ### Remarks
 null

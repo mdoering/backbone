@@ -1,5 +1,4 @@
-Triloculina concisa Cushman, 1944 SPECIES
-=======
+# Triloculina concisa Cushman, 1944 SPECIES
 
 #### Status
 ACCEPTED

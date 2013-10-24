@@ -1,5 +1,4 @@
-Leiominuscula pellucida Yin Leiming & Li Zaiping, 1978 SPECIES
-=======
+# Leiominuscula pellucida Yin Leiming & Li Zaiping, 1978 SPECIES
 
 #### Status
 ACCEPTED

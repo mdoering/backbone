@@ -1,5 +1,4 @@
-Xerocomus intermedius (A.H. Sm. & Thiers) Heinem., Rammeloo & Rullier SPECIES
-=======
+# Xerocomus intermedius (A.H. Sm. & Thiers) Heinem., Rammeloo & Rullier SPECIES
 
 #### Status
 ACCEPTED

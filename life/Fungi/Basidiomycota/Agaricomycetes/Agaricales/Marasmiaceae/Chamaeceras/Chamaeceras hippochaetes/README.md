@@ -1,5 +1,4 @@
-Chamaeceras hippochaetes (Berk.) Kuntze SPECIES
-=======
+# Chamaeceras hippochaetes (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

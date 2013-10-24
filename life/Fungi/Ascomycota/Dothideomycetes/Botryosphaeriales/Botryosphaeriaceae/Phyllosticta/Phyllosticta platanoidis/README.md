@@ -1,5 +1,4 @@
-Phyllosticta platanoidis Sacc. SPECIES
-=======
+# Phyllosticta platanoidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia euphorbiae Brunaud SPECIES
-=======
+# Diplodia euphorbiae Brunaud SPECIES
 
 #### Status
 ACCEPTED

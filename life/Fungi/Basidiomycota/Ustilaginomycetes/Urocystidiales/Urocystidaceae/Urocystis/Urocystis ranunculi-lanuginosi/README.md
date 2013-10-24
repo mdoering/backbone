@@ -1,5 +1,4 @@
-Urocystis ranunculi-lanuginosi (DC.) Zundel SPECIES
-=======
+# Urocystis ranunculi-lanuginosi (DC.) Zundel SPECIES
 
 #### Status
 ACCEPTED

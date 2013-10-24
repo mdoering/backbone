@@ -1,5 +1,4 @@
-Pyxinioides kurofuji Hoshide, 1951 SPECIES
-=======
+# Pyxinioides kurofuji Hoshide, 1951 SPECIES
 
 #### Status
 ACCEPTED

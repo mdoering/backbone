@@ -1,5 +1,4 @@
-Segestrella herculana Rehm ex Lojka SPECIES
-=======
+# Segestrella herculana Rehm ex Lojka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massariella maritima T.W. Johnson SPECIES
-=======
+# Massariella maritima T.W. Johnson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cicatrisatus Lasch SPECIES
-=======
+# Agaricus cicatrisatus Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inonotus venezuelicus Ryvarden, 1987 SPECIES
-=======
+# Inonotus venezuelicus Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

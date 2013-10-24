@@ -1,5 +1,4 @@
-Pseudovorticella sauwaldensis Foissner & Schiffmann, 1979 SPECIES
-=======
+# Pseudovorticella sauwaldensis Foissner & Schiffmann, 1979 SPECIES
 
 #### Status
 ACCEPTED

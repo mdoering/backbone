@@ -1,5 +1,4 @@
-Ellisia ingae Bat. & Peres SPECIES
-=======
+# Ellisia ingae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria borneti Zukal SPECIES
-=======
+# Oscillatoria borneti Zukal SPECIES
 
 #### Status
 ACCEPTED

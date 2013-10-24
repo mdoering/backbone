@@ -1,14 +1,13 @@
-Pezizella rubescens Mouton, 1897 SPECIES
-=======
+# Calycellina rubescens (Mouton) Van Vooren, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 36(C. R. ): 18 (1897)
+Bull. mens. Soc. linn. Lyon 74(spéc. ): 7 (2005)
 
 #### Original name
 Pezizella rubescens Mouton, 1897

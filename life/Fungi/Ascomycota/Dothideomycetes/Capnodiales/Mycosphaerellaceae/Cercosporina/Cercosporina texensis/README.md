@@ -1,5 +1,4 @@
-Cercosporina texensis (Tharp) Sacc. SPECIES
-=======
+# Cercosporina texensis (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

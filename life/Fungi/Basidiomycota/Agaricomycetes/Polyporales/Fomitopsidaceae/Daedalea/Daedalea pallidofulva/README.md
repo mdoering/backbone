@@ -1,5 +1,4 @@
-Daedalea pallidofulva Berk. SPECIES
-=======
+# Daedalea pallidofulva Berk. SPECIES
 
 #### Status
 ACCEPTED

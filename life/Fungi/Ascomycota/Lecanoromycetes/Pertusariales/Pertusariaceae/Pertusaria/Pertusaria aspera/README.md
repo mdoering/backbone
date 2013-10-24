@@ -1,5 +1,4 @@
-Pertusaria aspera Müll. Arg. SPECIES
-=======
+# Pertusaria aspera Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

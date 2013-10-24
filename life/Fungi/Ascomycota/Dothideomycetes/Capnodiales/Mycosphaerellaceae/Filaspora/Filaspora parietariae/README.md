@@ -1,5 +1,4 @@
-Filaspora parietariae (Celotti) Kuntze SPECIES
-=======
+# Filaspora parietariae (Celotti) Kuntze SPECIES
 
 #### Status
 ACCEPTED

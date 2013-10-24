@@ -1,5 +1,4 @@
-Phyllosticta subnervisequa anon. SPECIES
-=======
+# Phyllosticta subnervisequa anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinellus GENUS
-=======
+# Cortinellus GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhabdospora demetriana Bubák SPECIES
-=======
+# Rhabdospora demetrioniana Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora demetriana Bubák
+Rhabdospora demetrioniana Bubák
 
 ### Remarks
 null

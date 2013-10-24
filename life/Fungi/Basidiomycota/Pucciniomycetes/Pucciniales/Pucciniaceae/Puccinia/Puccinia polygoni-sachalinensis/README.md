@@ -1,5 +1,4 @@
-Puccinia polygoni-sachalinensis Pat. & Har. SPECIES
-=======
+# Puccinia polygoni-sachalinensis Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

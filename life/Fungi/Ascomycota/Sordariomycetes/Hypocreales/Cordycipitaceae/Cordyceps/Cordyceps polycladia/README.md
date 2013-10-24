@@ -1,5 +1,4 @@
-Cordyceps polycladia Pers. SPECIES
-=======
+# Cordyceps polycladia Pers. SPECIES
 
 #### Status
 ACCEPTED

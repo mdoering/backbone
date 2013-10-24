@@ -1,5 +1,4 @@
-Syntrophobacterales ORDER
-=======
+# Syntrophobacterales ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium sehimicola Vánky, 2000 SPECIES
-=======
+# Sporisorium sehimicola Vánky, 2000 SPECIES
 
 #### Status
 ACCEPTED

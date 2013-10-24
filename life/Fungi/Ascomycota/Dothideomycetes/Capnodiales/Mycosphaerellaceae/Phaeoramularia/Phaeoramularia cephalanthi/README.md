@@ -1,5 +1,4 @@
-Phaeoramularia cephalanthi (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Phaeoramularia cephalanthi (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

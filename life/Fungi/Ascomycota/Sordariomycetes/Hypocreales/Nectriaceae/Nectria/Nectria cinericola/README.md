@@ -1,5 +1,4 @@
-Nectria cinericola Quél. SPECIES
-=======
+# Nectria cinericola Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paecilomyces loushanensis Z.Q. Liang & A.Y. Liu SPECIES
-=======
+# Paecilomyces loushanensis Z.Q. Liang & A.Y. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma busporus E.H.L. Krause SPECIES
-=======
+# Hebeloma busporus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

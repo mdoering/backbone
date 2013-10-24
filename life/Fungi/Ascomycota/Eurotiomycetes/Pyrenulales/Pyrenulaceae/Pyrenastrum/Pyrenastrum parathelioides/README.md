@@ -1,5 +1,4 @@
-Pyrenastrum parathelioides C.W. Dodge SPECIES
-=======
+# Pyrenastrum parathelioides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

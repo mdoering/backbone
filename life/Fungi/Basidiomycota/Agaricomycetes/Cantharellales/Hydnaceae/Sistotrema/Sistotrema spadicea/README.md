@@ -1,5 +1,4 @@
-Sistotrema spadicea Sw. SPECIES
-=======
+# Sistotrema spadicea Sw. SPECIES
 
 #### Status
 ACCEPTED

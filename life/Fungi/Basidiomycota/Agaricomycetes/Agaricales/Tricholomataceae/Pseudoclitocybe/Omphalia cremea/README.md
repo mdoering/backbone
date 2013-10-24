@@ -1,5 +1,4 @@
-Omphalia cremea (Murrill) Murrill SPECIES
-=======
+# Omphalia cremea (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

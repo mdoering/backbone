@@ -1,14 +1,13 @@
-Hemigrapha tenullula (Müll. Arg.) R. Sant. ex Matzer SPECIES
-=======
+# Hemigrapha tenellula (Müll. Arg.) R. Sant. ex Matzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 171: 110 (1996)
 
 #### Original name
 Melanographa tenellula Müll. Arg.

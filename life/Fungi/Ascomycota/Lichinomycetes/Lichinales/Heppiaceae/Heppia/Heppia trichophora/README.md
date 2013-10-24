@@ -1,5 +1,4 @@
-Heppia trichophora D.D. Awasthi & S.R. Singh SPECIES
-=======
+# Heppia trichophora D.D. Awasthi & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

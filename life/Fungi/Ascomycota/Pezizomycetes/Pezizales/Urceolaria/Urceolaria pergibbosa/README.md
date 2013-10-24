@@ -1,5 +1,4 @@
-Urceolaria pergibbosa (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria pergibbosa (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

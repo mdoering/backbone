@@ -1,5 +1,4 @@
-Chaetaspis GENUS
-=======
+# Chaetaspis GENUS
 
 #### Status
 ACCEPTED

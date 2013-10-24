@@ -1,5 +1,4 @@
-Pyxine rhizophorae Kalb SPECIES
-=======
+# Pyxine rhizophorae Kalb SPECIES
 
 #### Status
 ACCEPTED

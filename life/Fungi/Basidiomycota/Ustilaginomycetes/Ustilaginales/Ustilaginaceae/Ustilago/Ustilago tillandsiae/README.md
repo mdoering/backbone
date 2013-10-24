@@ -1,5 +1,4 @@
-Ustilago tillandsiae F. Patt. ex G.P. Clinton SPECIES
-=======
+# Ustilago tillandsiae F. Patt. ex G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

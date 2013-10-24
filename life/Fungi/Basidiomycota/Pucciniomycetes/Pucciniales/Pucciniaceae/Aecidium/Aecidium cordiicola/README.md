@@ -1,5 +1,4 @@
-Aecidium cordiicola Pardo-Card. SPECIES
-=======
+# Aecidium cordiicola Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

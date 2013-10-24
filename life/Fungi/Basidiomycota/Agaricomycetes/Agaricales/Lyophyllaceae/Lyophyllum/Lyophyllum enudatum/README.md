@@ -1,5 +1,4 @@
-Lyophyllum enudatum (Britzelm.) Singer SPECIES
-=======
+# Lyophyllum enudatum (Britzelm.) Singer SPECIES
 
 #### Status
 ACCEPTED

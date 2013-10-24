@@ -1,5 +1,4 @@
-Tomentella pellicularioides Wakef., 1966 SPECIES
-=======
+# Tomentella pellicularioides Wakef., 1966 SPECIES
 
 #### Status
 ACCEPTED

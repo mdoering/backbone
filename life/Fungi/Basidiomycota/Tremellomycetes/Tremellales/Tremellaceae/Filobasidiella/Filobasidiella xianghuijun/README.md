@@ -1,5 +1,4 @@
-Filobasidiella xianghuijun M. Zang SPECIES
-=======
+# Filobasidiella xianghuijun M. Zang SPECIES
 
 #### Status
 ACCEPTED

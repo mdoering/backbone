@@ -1,5 +1,4 @@
-Parmelia prolixa f. prolixa FORM
-=======
+# Parmelia prolixa SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-J. Bot. , London 3: 288 (1865)
+null
 
 #### Original name
-Parmelia prolixa f. prolixa
+null
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Maronea constans f. constans (Nyl.) Hepp FORM
-=======
+# Maronea constans (Nyl.) Hepp SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flecht. Eur. 771 (1860)
 
 #### Original name
-Maronea constans f. constans (Nyl.) Hepp
+Lecanora constans Nyl.
 
 ### Remarks
 null

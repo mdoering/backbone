@@ -1,5 +1,4 @@
-Agaricus obfuscescens Berk. SPECIES
-=======
+# Agaricus obfuscescens Berk. SPECIES
 
 #### Status
 ACCEPTED

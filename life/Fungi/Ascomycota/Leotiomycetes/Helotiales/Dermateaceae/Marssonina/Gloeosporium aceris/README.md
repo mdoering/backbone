@@ -1,5 +1,4 @@
-Gloeosporium aceris Cooke SPECIES
-=======
+# Gloeosporium aceris Cooke SPECIES
 
 #### Status
 ACCEPTED

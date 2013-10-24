@@ -1,5 +1,4 @@
-Desulfovibrio furfuralis Folkerts et al., 1989 SPECIES
-=======
+# Desulfovibrio furfuralis Folkerts et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

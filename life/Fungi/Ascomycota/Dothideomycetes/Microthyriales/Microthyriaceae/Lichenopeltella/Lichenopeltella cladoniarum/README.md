@@ -1,5 +1,4 @@
-Lichenopeltella cladoniarum E.S. Hansen & Alstrup SPECIES
-=======
+# Lichenopeltella cladoniarum E.S. Hansen & Alstrup SPECIES
 
 #### Status
 ACCEPTED

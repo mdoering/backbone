@@ -1,5 +1,4 @@
-Phoma cinerea Desm. SPECIES
-=======
+# Phoma cinerea Desm. SPECIES
 
 #### Status
 ACCEPTED

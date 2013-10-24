@@ -1,5 +1,4 @@
-Peziza plumbea Fr. SPECIES
-=======
+# Peziza plumbea Fr. SPECIES
 
 #### Status
 ACCEPTED

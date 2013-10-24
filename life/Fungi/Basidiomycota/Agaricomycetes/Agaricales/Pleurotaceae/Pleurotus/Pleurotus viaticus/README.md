@@ -1,5 +1,4 @@
-Pleurotus viaticus Velen. SPECIES
-=======
+# Pleurotus viaticus Velen. SPECIES
 
 #### Status
 ACCEPTED

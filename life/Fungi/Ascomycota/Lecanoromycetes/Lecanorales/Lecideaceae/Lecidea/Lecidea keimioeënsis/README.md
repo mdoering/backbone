@@ -1,5 +1,4 @@
-Lecidea keimioeënsis Vain. SPECIES
-=======
+# Lecidea keimioeënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

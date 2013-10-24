@@ -1,5 +1,4 @@
-Agaricus niveobrunneus Batsch SPECIES
-=======
+# Agaricus niveobrunneus Batsch SPECIES
 
 #### Status
 ACCEPTED

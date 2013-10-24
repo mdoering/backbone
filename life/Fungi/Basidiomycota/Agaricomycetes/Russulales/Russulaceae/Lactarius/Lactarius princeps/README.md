@@ -1,5 +1,4 @@
-Lactarius princeps Berk. SPECIES
-=======
+# Lactarius princeps Berk. SPECIES
 
 #### Status
 ACCEPTED

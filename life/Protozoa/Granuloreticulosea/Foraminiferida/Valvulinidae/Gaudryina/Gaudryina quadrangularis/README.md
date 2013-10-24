@@ -1,11 +1,10 @@
-Gaudryina quadrangularis subsp. quadrangularis SUBSPECIES
-=======
+# Gaudryina quadrangularis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

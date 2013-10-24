@@ -1,5 +1,4 @@
-Meliola viticola Hansf. SPECIES
-=======
+# Meliola viticola Hansf. SPECIES
 
 #### Status
 ACCEPTED

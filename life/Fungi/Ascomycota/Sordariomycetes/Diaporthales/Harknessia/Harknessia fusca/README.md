@@ -1,5 +1,4 @@
-Harknessia fusca (Kleb.) Nag Raj & DiCosmo SPECIES
-=======
+# Harknessia fusca (Kleb.) Nag Raj & DiCosmo SPECIES
 
 #### Status
 ACCEPTED

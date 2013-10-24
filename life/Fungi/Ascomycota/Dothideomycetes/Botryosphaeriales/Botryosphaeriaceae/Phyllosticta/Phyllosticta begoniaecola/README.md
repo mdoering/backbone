@@ -1,5 +1,4 @@
-Phyllosticta begoniaecola Rangel SPECIES
-=======
+# Phyllosticta begoniaecola Rangel SPECIES
 
 #### Status
 ACCEPTED

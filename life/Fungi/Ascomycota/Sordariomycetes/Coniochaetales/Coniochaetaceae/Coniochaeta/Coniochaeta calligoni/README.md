@@ -1,5 +1,4 @@
-Coniochaeta calligoni (Kravtzev) Vasyag. SPECIES
-=======
+# Coniochaeta calligoni (Kravtzev) Vasyag. SPECIES
 
 #### Status
 ACCEPTED

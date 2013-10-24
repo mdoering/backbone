@@ -1,5 +1,4 @@
-Physalospora amianticola Vouaux SPECIES
-=======
+# Physalospora amianticola Vouaux SPECIES
 
 #### Status
 ACCEPTED

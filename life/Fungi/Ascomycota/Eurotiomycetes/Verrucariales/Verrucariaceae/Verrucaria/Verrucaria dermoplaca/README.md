@@ -1,5 +1,4 @@
-Verrucaria dermoplaca Nyl. SPECIES
-=======
+# Verrucaria dermoplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

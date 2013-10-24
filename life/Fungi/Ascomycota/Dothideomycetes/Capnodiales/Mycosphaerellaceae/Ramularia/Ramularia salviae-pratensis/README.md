@@ -1,5 +1,4 @@
-Ramularia salviae-pratensis Pellic. & U. Braun SPECIES
-=======
+# Ramularia salviae-pratensis Pellic. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

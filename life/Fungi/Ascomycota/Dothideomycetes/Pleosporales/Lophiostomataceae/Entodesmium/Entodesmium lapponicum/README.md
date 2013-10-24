@@ -1,5 +1,4 @@
-Entodesmium lapponicum (L. Holm) L. Holm SPECIES
-=======
+# Entodesmium lapponicum (L. Holm) L. Holm SPECIES
 
 #### Status
 ACCEPTED

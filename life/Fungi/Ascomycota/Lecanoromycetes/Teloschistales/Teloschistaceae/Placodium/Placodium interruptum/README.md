@@ -1,5 +1,4 @@
-Placodium interruptum (Ehrenb.) Müll. Arg. SPECIES
-=======
+# Placodium interruptum (Ehrenb.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

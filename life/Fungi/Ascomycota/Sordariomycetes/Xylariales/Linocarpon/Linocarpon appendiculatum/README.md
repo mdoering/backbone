@@ -1,5 +1,4 @@
-Linocarpon appendiculatum K.D. Hyde, 1989 SPECIES
-=======
+# Linocarpon appendiculatum K.D. Hyde, 1989 SPECIES
 
 #### Status
 ACCEPTED

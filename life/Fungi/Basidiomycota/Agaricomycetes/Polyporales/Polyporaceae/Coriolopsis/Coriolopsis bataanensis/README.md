@@ -1,5 +1,4 @@
-Coriolopsis bataanensis Murrill, 1908 SPECIES
-=======
+# Coriolopsis bataanensis Murrill, 1908 SPECIES
 
 #### Status
 ACCEPTED

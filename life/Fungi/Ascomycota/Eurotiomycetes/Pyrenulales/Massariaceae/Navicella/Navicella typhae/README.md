@@ -1,5 +1,4 @@
-Navicella typhae (Nitschke) Kuntze SPECIES
-=======
+# Navicella typhae (Nitschke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

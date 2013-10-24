@@ -1,5 +1,4 @@
-Discorbitura Bandy, 1949 GENUS
-=======
+# Discorbitura Bandy, 1949 GENUS
 
 #### Status
 ACCEPTED

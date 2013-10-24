@@ -1,5 +1,4 @@
-Verrucaria porphyria (Pers.) Hoffm. SPECIES
-=======
+# Verrucaria porphyria (Pers.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

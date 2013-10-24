@@ -1,5 +1,4 @@
-Merulius krawtzewii Pilát SPECIES
-=======
+# Merulius krawtzewii Pilát SPECIES
 
 #### Status
 ACCEPTED

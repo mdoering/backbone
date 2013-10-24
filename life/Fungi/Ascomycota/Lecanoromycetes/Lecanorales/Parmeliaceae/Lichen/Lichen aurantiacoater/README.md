@@ -1,5 +1,4 @@
-Lichen aurantiacoater Jacq. SPECIES
-=======
+# Lichen aurantiacoater Jacq. SPECIES
 
 #### Status
 ACCEPTED

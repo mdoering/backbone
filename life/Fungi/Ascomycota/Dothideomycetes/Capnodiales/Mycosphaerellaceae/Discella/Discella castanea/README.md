@@ -1,5 +1,4 @@
-Discella castanea (Sacc.) Arx, 1970 SPECIES
-=======
+# Discella castanea (Sacc.) Arx, 1970 SPECIES
 
 #### Status
 ACCEPTED

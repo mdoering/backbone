@@ -1,5 +1,4 @@
-Xylaria eudonia Berk. & Cooke SPECIES
-=======
+# Xylaria eudonia Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

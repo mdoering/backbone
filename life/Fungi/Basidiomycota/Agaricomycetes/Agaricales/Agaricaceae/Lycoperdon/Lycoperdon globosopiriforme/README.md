@@ -1,5 +1,4 @@
-Lycoperdon globosopiriforme Lloyd SPECIES
-=======
+# Lycoperdon globosopiriforme Lloyd SPECIES
 
 #### Status
 ACCEPTED

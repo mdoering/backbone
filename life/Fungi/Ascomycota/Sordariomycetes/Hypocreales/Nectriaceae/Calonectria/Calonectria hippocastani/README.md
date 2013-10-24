@@ -1,5 +1,4 @@
-Calonectria hippocastani (G.H. Otth) Sacc. SPECIES
-=======
+# Calonectria hippocastani (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

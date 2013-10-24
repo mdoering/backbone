@@ -1,5 +1,4 @@
-Golovinomyces californicus (U. Braun) V.P. Heluta SPECIES
-=======
+# Golovinomyces californicus (U. Braun) V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

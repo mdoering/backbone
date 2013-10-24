@@ -1,5 +1,4 @@
-Kleithriasphaeridium simplicispinum (R. J. Davey & G. L. Williams) R. J. Davey SPECIES
-=======
+# Kleithriasphaeridium simplicispinum (R. J. Davey & G. L. Williams) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

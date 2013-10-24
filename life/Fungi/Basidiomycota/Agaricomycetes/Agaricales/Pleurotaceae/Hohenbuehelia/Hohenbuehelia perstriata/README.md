@@ -1,5 +1,4 @@
-Hohenbuehelia perstriata Corner SPECIES
-=======
+# Hohenbuehelia perstriata Corner SPECIES
 
 #### Status
 ACCEPTED

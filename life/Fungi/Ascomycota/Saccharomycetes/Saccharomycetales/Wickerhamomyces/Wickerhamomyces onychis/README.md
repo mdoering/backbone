@@ -1,17 +1,16 @@
-Arthroascus xylopsoci (Van der Walt & D.B. Scott) Kock.-Krat., 1990 SPECIES
-=======
+# Wickerhamomyces onychis (Yarrow) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 8(6): 952 (2008)
 
 #### Original name
-null
+Pichia onychis Yarrow, 1965
 
 ### Remarks
 null

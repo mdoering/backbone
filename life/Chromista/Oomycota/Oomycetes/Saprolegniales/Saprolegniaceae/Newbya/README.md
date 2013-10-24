@@ -1,5 +1,4 @@
-Newbya M.W. Dick & Mark A. Spencer GENUS
-=======
+# Newbya M.W. Dick & Mark A. Spencer GENUS
 
 #### Status
 ACCEPTED

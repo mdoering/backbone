@@ -1,5 +1,4 @@
-Tuberibacillus Hatayama et al., 2006 GENUS
-=======
+# Tuberibacillus Hatayama et al., 2006 GENUS
 
 #### Status
 ACCEPTED

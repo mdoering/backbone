@@ -1,5 +1,4 @@
-Opegrapha xylographoides J. Steiner SPECIES
-=======
+# Opegrapha xylographoides J. Steiner SPECIES
 
 #### Status
 ACCEPTED

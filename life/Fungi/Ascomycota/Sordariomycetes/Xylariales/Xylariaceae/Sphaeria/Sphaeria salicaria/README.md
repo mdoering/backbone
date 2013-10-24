@@ -1,5 +1,4 @@
-Sphaeria salicaria P. Karst. SPECIES
-=======
+# Sphaeria salicaria P. Karst. SPECIES
 
 #### Status
 ACCEPTED

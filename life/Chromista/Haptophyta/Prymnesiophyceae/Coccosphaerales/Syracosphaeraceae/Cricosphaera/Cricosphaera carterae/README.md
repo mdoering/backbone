@@ -1,5 +1,4 @@
-Cricosphaera carterae SPECIES
-=======
+# Cricosphaera carterae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora engeliana (Saut.) G. Winter SPECIES
-=======
+# Pleospora engeliana (Saut.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

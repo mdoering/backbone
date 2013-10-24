@@ -1,5 +1,4 @@
-Peziza involuta Lagger SPECIES
-=======
+# Peziza involuta Lagger SPECIES
 
 #### Status
 ACCEPTED

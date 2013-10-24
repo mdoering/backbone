@@ -1,5 +1,4 @@
-Septoria violacea H.C. Greene SPECIES
-=======
+# Septoria violacea H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

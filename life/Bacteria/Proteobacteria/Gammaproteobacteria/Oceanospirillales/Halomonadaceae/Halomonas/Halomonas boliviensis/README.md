@@ -1,5 +1,4 @@
-Halomonas boliviensis Quillaguamán et al., 2004 SPECIES
-=======
+# Halomonas boliviensis Quillaguamán et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

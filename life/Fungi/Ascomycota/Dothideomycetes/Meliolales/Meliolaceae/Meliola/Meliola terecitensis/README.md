@@ -1,5 +1,4 @@
-Meliola terecitensis Hansf. SPECIES
-=======
+# Meliola terecitensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

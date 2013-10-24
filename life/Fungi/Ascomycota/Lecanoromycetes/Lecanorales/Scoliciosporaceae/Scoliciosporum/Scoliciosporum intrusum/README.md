@@ -1,14 +1,13 @@
-Biatorina intrusa (Th. Fr.) Dombr. SPECIES
-=======
+# Scoliciosporum intrusum (Th. Fr.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Konspekt Flor. Lishainikov Murmanskoioblasti i Severo-Vostochnol Finlyandii [Classification of Lichens found in the Murmansk province of the USSR and North-Eastern Finland], Leningrad 50 (1970)
+Fritschiana 49: 31 (2004)
 
 #### Original name
 Lecidea intrusa Th. Fr.

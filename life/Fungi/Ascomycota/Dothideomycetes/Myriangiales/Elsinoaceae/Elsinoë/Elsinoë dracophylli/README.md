@@ -1,5 +1,4 @@
-Elsinoë dracophylli P.R. Johnst. & Beever, 1994 SPECIES
-=======
+# Elsinoë dracophylli P.R. Johnst. & Beever, 1994 SPECIES
 
 #### Status
 ACCEPTED

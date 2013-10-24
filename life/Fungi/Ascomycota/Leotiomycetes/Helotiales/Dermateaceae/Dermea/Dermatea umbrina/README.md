@@ -1,14 +1,13 @@
-Cenangium umbrinum (Cooke & Massee) Massee SPECIES
-=======
+# Dermatea umbrina Cooke & Massee, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 21(no. 99): 72 (1893)
 
 #### Original name
 Dermatea umbrina Cooke & Massee, 1893

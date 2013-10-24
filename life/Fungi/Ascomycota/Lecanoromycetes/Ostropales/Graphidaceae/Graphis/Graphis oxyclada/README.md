@@ -1,5 +1,4 @@
-Graphis oxyclada Müll. Arg. SPECIES
-=======
+# Graphis oxyclada Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

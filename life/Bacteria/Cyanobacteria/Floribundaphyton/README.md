@@ -1,5 +1,4 @@
-Floribundaphyton P.N. Kolosov, 1975 GENUS
-=======
+# Floribundaphyton P.N. Kolosov, 1975 GENUS
 
 #### Status
 ACCEPTED

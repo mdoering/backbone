@@ -1,5 +1,4 @@
-Discosphaerina tofieldiae (Tassi) M.E. Barr SPECIES
-=======
+# Discosphaerina tofieldiae (Tassi) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

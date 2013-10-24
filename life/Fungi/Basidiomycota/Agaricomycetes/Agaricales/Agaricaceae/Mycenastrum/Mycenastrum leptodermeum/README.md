@@ -1,5 +1,4 @@
-Mycenastrum leptodermeum Durieu & Mont. SPECIES
-=======
+# Mycenastrum leptodermeum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

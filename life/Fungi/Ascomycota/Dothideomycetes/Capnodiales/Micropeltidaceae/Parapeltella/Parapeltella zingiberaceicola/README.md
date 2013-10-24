@@ -1,5 +1,4 @@
-Parapeltella zingiberaceicola (Henn.) Bat. SPECIES
-=======
+# Parapeltella zingiberaceicola (Henn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

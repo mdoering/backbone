@@ -1,5 +1,4 @@
-Arthopyrenia colleta (Stirt.) A.L. Sm. SPECIES
-=======
+# Arthopyrenia colleta (Stirt.) A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

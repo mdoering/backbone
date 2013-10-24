@@ -1,5 +1,4 @@
-Stauracanthocircus Kozur & Mostler, 1986 GENUS
-=======
+# Stauracanthocircus Kozur & Mostler, 1986 GENUS
 
 #### Status
 ACCEPTED

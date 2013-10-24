@@ -1,5 +1,4 @@
-Diporicellaesporites bellulus P. Ke & Z.Y. Shi SPECIES
-=======
+# Diporicellaesporites bellulus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

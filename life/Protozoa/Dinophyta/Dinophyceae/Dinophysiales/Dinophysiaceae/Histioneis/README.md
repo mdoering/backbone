@@ -1,14 +1,13 @@
-Histoneis Entzi, 1905 GENUS
-=======
+# Histioneis Stein, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Math. termés. Értes. , 20, 112.
+Org. Infus. , 3 (2), 25.
 
 #### Original name
 null

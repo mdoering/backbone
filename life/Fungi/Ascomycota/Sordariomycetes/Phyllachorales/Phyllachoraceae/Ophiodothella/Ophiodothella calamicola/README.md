@@ -1,17 +1,16 @@
-Cocconia sphaerica Rick, 1906 SPECIES
-=======
+# Ophiodothella calamicola (T.S. Ramakr. & K. Ramakr.) K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi austro-americani, Fasc. 3-4(nos 43-80): 72 (1906)
+Mycol. Pap. 175: 73 (1999)
 
 #### Original name
-Cocconia sphaerica Rick, 1906
+Catacaumella calamicola T.S. Ramakr. & K. Ramakr., 1950
 
 ### Remarks
 null

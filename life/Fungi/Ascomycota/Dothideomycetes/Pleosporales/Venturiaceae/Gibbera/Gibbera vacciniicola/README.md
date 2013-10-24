@@ -1,5 +1,4 @@
-Gibbera vacciniicola (Dearn. & House) M.E. Barr SPECIES
-=======
+# Gibbera vacciniicola (Dearn. & House) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

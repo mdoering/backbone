@@ -1,5 +1,4 @@
-Prototapirella Cunha, 1918 GENUS
-=======
+# Prototapirella Cunha, 1918 GENUS
 
 #### Status
 ACCEPTED

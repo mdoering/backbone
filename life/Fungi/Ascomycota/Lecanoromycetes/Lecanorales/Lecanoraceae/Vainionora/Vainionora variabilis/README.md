@@ -1,5 +1,4 @@
-Vainionora variabilis Kalb & Elix SPECIES
-=======
+# Vainionora variabilis Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

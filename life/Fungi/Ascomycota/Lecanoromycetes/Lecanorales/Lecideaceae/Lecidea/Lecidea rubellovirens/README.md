@@ -1,5 +1,4 @@
-Lecidea rubellovirens Nyl. SPECIES
-=======
+# Lecidea rubellovirens Nyl. SPECIES
 
 #### Status
 ACCEPTED

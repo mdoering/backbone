@@ -1,5 +1,4 @@
-Lithomelissa thoracites Haeckel, 1860 SPECIES
-=======
+# Lithomelissa thoracites Haeckel, 1860 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piggotia Berkeley & Broome, 1851 GENUS
-=======
+# Piggotia Berkeley & Broome, 1851 GENUS
 
 #### Status
 ACCEPTED

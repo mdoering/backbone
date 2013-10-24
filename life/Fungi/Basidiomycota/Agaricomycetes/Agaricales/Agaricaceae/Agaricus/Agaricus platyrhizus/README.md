@@ -1,5 +1,4 @@
-Agaricus platyrhizus Schulzer SPECIES
-=======
+# Agaricus platyrhizus Schulzer SPECIES
 
 #### Status
 ACCEPTED

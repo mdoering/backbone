@@ -1,5 +1,4 @@
-Cladosporium tuberculatum Fr. SPECIES
-=======
+# Cladosporium tuberculatum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazea celastrina Lév. SPECIES
-=======
+# Depazea celastrina Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoplegma boreale Popofsky, 1908 SPECIES
-=======
+# Rhizoplegma boreale Popofsky, 1908 SPECIES
 
 #### Status
 ACCEPTED

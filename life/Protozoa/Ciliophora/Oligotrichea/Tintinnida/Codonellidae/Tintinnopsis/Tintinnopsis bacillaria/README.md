@@ -1,5 +1,4 @@
-Tintinnopsis bacillaria Hada, 1970 SPECIES
-=======
+# Tintinnopsis bacillaria Hada, 1970 SPECIES
 
 #### Status
 ACCEPTED

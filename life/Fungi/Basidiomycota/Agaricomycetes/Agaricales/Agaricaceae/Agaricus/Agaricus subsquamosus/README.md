@@ -1,5 +1,4 @@
-Agaricus subsquamosus Raddi SPECIES
-=======
+# Agaricus subsquamosus Raddi SPECIES
 
 #### Status
 ACCEPTED

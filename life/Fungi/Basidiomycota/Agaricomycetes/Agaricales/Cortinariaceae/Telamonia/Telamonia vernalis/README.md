@@ -1,5 +1,4 @@
-Telamonia vernalis Velen. SPECIES
-=======
+# Telamonia vernalis Velen. SPECIES
 
 #### Status
 ACCEPTED

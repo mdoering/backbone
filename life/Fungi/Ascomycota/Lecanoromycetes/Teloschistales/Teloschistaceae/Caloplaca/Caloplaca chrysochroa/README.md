@@ -1,5 +1,4 @@
-Caloplaca chrysochroa (Mont.) Zahlbr. SPECIES
-=======
+# Caloplaca chrysochroa (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

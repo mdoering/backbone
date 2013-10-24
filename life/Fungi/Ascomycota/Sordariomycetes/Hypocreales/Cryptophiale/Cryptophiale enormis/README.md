@@ -1,5 +1,4 @@
-Cryptophiale enormis B. Sutton, Nawawi & Kuthub. SPECIES
-=======
+# Cryptophiale enormis B. Sutton, Nawawi & Kuthub. SPECIES
 
 #### Status
 ACCEPTED

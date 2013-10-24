@@ -1,5 +1,4 @@
-Uleomyces pritzelianus (Henn.) Petr. SPECIES
-=======
+# Uleomyces pritzelianus (Henn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

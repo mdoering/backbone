@@ -1,5 +1,4 @@
-Phlegmacium arcuatorum (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium arcuatorum (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia melanothrix var. melanothrix VARIETY
-=======
+# Parmelia melanothrix Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia melanothrix var. melanothrix
+Parmelia melanothrix Vain.
 
 ### Remarks
 null

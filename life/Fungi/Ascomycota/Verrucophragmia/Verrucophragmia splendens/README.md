@@ -1,5 +1,4 @@
-Verrucophragmia splendens Crous, M.J. Wingf. & W.B. Kendr., 1994 SPECIES
-=======
+# Verrucophragmia splendens Crous, M.J. Wingf. & W.B. Kendr., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia latior Thaxt. SPECIES
-=======
+# Rickia latior Thaxt. SPECIES
 
 #### Status
 ACCEPTED

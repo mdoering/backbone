@@ -1,5 +1,4 @@
-Cordyceps melolonthae (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Cordyceps melolonthae (Tul. & C. Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

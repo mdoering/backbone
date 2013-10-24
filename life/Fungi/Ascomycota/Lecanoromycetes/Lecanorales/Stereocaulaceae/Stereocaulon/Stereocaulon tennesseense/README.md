@@ -1,5 +1,4 @@
-Stereocaulon tennesseense var. tennesseense VARIETY
-=======
+# Stereocaulon tennesseense H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon tennesseense var. tennesseense
+Stereocaulon tennesseense H. Magn.
 
 ### Remarks
 null

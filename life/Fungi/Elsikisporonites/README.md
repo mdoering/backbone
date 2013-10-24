@@ -1,5 +1,4 @@
-Elsikisporonites P. Kumar GENUS
-=======
+# Elsikisporonites P. Kumar GENUS
 
 #### Status
 ACCEPTED

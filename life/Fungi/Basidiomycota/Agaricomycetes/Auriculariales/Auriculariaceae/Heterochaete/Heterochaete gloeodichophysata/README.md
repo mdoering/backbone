@@ -1,5 +1,4 @@
-Heterochaete gloeodichophysata Paéz SPECIES
-=======
+# Heterochaete gloeodichophysata Paéz SPECIES
 
 #### Status
 ACCEPTED

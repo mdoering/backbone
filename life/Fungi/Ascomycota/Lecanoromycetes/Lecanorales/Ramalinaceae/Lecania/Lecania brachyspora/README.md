@@ -1,5 +1,4 @@
-Lecania brachyspora Müll. Arg. SPECIES
-=======
+# Lecania brachyspora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

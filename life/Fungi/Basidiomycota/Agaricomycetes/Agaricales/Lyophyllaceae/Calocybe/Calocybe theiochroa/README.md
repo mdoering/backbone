@@ -1,5 +1,4 @@
-Calocybe theiochroa (Berk. & Broome) Pegler SPECIES
-=======
+# Calocybe theiochroa (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

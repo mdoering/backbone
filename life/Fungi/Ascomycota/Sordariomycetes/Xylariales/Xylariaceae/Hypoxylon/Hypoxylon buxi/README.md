@@ -1,5 +1,4 @@
-Hypoxylon buxi (Fabre) P.M.D. Martin SPECIES
-=======
+# Hypoxylon buxi (Fabre) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

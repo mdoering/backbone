@@ -1,14 +1,13 @@
-Merulius subambiguus Henn., 1897 SPECIES
-=======
+# Gloeoporus subambiguus (Henn.) Ginns, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 36: 202 (1897)
+Can. J. Bot. 54(1-2): 150 (1976)
 
 #### Original name
 Merulius subambiguus Henn., 1897

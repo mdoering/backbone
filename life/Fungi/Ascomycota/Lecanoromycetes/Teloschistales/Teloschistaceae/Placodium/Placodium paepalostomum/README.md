@@ -1,5 +1,4 @@
-Placodium paepalostomum var. ochraceum (Zahlbr.) Szatala VARIETY
-=======
+# Placodium paepalostomum Anzi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca paepalostoma var. ochracea Zahlbr.
+Placodium paepalostomum Anzi
 
 ### Remarks
 null

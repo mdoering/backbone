@@ -1,5 +1,4 @@
-Pleurotus subbarbatus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus subbarbatus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

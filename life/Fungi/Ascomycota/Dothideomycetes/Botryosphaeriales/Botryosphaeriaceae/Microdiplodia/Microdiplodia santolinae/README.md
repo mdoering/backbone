@@ -1,5 +1,4 @@
-Microdiplodia santolinae Gucevic SPECIES
-=======
+# Microdiplodia santolinae Gucevic SPECIES
 
 #### Status
 ACCEPTED

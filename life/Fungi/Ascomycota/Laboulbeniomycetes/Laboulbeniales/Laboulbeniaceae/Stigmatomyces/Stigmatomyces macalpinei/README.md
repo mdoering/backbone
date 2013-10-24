@@ -1,5 +1,4 @@
-Stigmatomyces macalpinei W. Rossi SPECIES
-=======
+# Stigmatomyces macalpinei W. Rossi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia nasuensis Hirats. SPECIES
-=======
+# Puccinia nasuensis Hirats. SPECIES
 
 #### Status
 ACCEPTED

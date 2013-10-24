@@ -1,8 +1,7 @@
-Gonodia pulvinata f. chordae (Areschoug) Rosenvinge FORM
-=======
+# Myriactula chordae (Areschoug) Levring SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

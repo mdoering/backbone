@@ -1,5 +1,4 @@
-Ramularia agrimoniae Sacc., 1896 SPECIES
-=======
+# Ramularia agrimoniae Sacc., 1896 SPECIES
 
 #### Status
 ACCEPTED

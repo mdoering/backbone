@@ -1,5 +1,4 @@
-Spiloma gyrosum SPECIES
-=======
+# Spiloma gyrosum SPECIES
 
 #### Status
 ACCEPTED

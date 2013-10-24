@@ -1,5 +1,4 @@
-Porina caliginosa (Anzi) Lettau SPECIES
-=======
+# Porina caliginosa (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

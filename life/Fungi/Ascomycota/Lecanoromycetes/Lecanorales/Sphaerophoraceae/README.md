@@ -1,5 +1,4 @@
-Sphaerophoraceae Fr. FAMILY
-=======
+# Sphaerophoraceae Fr. FAMILY
 
 #### Status
 ACCEPTED

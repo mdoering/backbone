@@ -1,5 +1,4 @@
-Botryosphaeria tsugae A. Funk, 1964 SPECIES
-=======
+# Botryosphaeria tsugae A. Funk, 1964 SPECIES
 
 #### Status
 ACCEPTED

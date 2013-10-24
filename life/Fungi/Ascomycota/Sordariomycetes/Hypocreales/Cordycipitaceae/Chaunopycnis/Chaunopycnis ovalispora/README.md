@@ -1,5 +1,4 @@
-Chaunopycnis ovalispora C. Möller & W. Gams, 1993 SPECIES
-=======
+# Chaunopycnis ovalispora C. Möller & W. Gams, 1993 SPECIES
 
 #### Status
 ACCEPTED

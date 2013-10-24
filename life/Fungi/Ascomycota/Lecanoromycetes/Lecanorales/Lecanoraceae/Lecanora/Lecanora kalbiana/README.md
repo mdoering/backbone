@@ -1,5 +1,4 @@
-Lecanora kalbiana Lumbsch SPECIES
-=======
+# Lecanora kalbiana Lumbsch SPECIES
 
 #### Status
 ACCEPTED

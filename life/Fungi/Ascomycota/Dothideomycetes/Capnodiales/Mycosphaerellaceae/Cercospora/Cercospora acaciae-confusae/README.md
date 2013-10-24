@@ -1,5 +1,4 @@
-Cercospora acaciae-confusae Sawada SPECIES
-=======
+# Cercospora acaciae-confusae Sawada SPECIES
 
 #### Status
 ACCEPTED

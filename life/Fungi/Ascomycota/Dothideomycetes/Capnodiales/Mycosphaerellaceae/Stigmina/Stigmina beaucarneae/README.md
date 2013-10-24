@@ -1,5 +1,4 @@
-Stigmina beaucarneae Pollack & D.F. Farr SPECIES
-=======
+# Stigmina beaucarneae Pollack & D.F. Farr SPECIES
 
 #### Status
 ACCEPTED

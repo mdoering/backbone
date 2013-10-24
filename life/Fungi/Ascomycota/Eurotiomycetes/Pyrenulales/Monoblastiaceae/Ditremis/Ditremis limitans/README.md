@@ -1,5 +1,4 @@
-Ditremis limitans (Nyl.) R.C. Harris SPECIES
-=======
+# Ditremis limitans (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

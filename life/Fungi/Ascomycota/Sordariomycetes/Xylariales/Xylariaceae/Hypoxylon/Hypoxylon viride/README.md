@@ -1,5 +1,4 @@
-Hypoxylon viride Yasuda SPECIES
-=======
+# Hypoxylon viride Yasuda SPECIES
 
 #### Status
 ACCEPTED

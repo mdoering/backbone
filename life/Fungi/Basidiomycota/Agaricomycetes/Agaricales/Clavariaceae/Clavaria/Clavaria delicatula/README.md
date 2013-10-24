@@ -1,5 +1,4 @@
-Clavaria delicatula var. delicatula VARIETY
-=======
+# Clavaria delicatula Tode SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clavaria delicatula var. delicatula
+Clavaria delicatula Tode
 
 ### Remarks
 null

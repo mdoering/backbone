@@ -1,5 +1,4 @@
-Indosporus octospora Henneguy, 1892 SPECIES
-=======
+# Indosporus octospora Henneguy, 1892 SPECIES
 
 #### Status
 ACCEPTED

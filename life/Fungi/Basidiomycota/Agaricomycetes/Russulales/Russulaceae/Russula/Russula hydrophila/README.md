@@ -1,5 +1,4 @@
-Russula hydrophila var. hydrophila VARIETY
-=======
+# Russula hydrophila Hornicek SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Russula hydrophila var. hydrophila
+Russula hydrophila Hornicek
 
 ### Remarks
 null

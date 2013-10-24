@@ -1,5 +1,4 @@
-Pyrenula media Aptroot SPECIES
-=======
+# Pyrenula media Aptroot SPECIES
 
 #### Status
 ACCEPTED

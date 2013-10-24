@@ -1,5 +1,4 @@
-Uromyces anotidis Petch SPECIES
-=======
+# Uromyces anotidis Petch SPECIES
 
 #### Status
 ACCEPTED

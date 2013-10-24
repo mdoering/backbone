@@ -1,5 +1,4 @@
-Heterogromia intermedia Saedeleer, 1934 SPECIES
-=======
+# Heterogromia intermedia Saedeleer, 1934 SPECIES
 
 #### Status
 ACCEPTED

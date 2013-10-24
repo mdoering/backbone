@@ -1,5 +1,4 @@
-Stereum spegazzianum Massee SPECIES
-=======
+# Stereum spegazzianum Massee SPECIES
 
 #### Status
 ACCEPTED

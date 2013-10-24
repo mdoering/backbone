@@ -1,5 +1,4 @@
-Poronidulus bivalvis Höhn. SPECIES
-=======
+# Poronidulus bivalvis Höhn. SPECIES
 
 #### Status
 ACCEPTED

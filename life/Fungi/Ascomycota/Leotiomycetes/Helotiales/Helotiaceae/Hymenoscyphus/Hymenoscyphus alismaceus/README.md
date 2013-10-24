@@ -1,5 +1,4 @@
-Hymenoscyphus alismaceus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus alismaceus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

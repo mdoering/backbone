@@ -1,5 +1,4 @@
-Ceratostomella excelsior Mouton SPECIES
-=======
+# Ceratostomella excelsior Mouton SPECIES
 
 #### Status
 ACCEPTED

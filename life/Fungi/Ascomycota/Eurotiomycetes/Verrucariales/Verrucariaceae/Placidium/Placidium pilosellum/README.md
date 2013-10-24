@@ -1,8 +1,7 @@
-Catapyrenium pilosellum Breuss SPECIES
-=======
+# Placidium pilosellum (Breuss) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

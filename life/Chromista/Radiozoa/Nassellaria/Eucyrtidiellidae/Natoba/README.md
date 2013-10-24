@@ -1,5 +1,4 @@
-Natoba Pessagno & Poisson, 1981 GENUS
-=======
+# Natoba Pessagno & Poisson, 1981 GENUS
 
 #### Status
 ACCEPTED

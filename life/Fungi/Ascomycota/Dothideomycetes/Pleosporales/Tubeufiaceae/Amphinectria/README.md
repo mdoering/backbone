@@ -1,5 +1,4 @@
-Amphinectria Speg. GENUS
-=======
+# Amphinectria Speg. GENUS
 
 #### Status
 ACCEPTED

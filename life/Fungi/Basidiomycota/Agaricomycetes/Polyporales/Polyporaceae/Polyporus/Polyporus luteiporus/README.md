@@ -1,5 +1,4 @@
-Polyporus luteiporus Opiz SPECIES
-=======
+# Polyporus luteiporus Opiz SPECIES
 
 #### Status
 ACCEPTED

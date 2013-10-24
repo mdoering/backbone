@@ -1,5 +1,4 @@
-Boletus fulvellus Bull. SPECIES
-=======
+# Boletus fulvellus Bull. SPECIES
 
 #### Status
 ACCEPTED

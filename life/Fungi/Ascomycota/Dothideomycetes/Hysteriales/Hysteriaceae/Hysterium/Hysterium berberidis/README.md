@@ -1,5 +1,4 @@
-Hysterium berberidis Schltdl. SPECIES
-=======
+# Hysterium berberidis Schltdl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymium laccatipes J. Matsumoto, 1999 SPECIES
-=======
+# Didymium laccatipes J. Matsumoto, 1999 SPECIES
 
 #### Status
 ACCEPTED

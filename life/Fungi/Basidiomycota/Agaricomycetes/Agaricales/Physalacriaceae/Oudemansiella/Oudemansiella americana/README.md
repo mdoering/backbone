@@ -1,5 +1,4 @@
-Oudemansiella americana (Mitchel & A.H. Sm.) Singer SPECIES
-=======
+# Oudemansiella americana (Mitchel & A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

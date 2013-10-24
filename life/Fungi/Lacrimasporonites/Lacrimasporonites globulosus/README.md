@@ -1,5 +1,4 @@
-Lacrimasporonites globulosus (Rouse) Elsik SPECIES
-=======
+# Lacrimasporonites globulosus (Rouse) Elsik SPECIES
 
 #### Status
 ACCEPTED

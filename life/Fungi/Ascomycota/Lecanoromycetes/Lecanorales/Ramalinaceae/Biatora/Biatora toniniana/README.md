@@ -1,5 +1,4 @@
-Biatora toniniana (A. Massal.) Hepp SPECIES
-=======
+# Biatora toniniana (A. Massal.) Hepp SPECIES
 
 #### Status
 ACCEPTED

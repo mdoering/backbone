@@ -1,5 +1,4 @@
-Depazea vincae Fuckel SPECIES
-=======
+# Depazea vincae Fuckel SPECIES
 
 #### Status
 ACCEPTED

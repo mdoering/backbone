@@ -1,5 +1,4 @@
-Alternaria sudanensis E.G. Simmons SPECIES
-=======
+# Alternaria sudanensis E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

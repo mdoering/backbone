@@ -1,5 +1,4 @@
-Merulius lamellosus Sowerby SPECIES
-=======
+# Merulius lamellosus Sowerby SPECIES
 
 #### Status
 ACCEPTED

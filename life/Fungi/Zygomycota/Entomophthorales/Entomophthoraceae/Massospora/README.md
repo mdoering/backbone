@@ -1,5 +1,4 @@
-Massospora Peck GENUS
-=======
+# Massospora Peck GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urophlyctis eryngii Rayss SPECIES
-=======
+# Urophlyctis eryngii Rayss SPECIES
 
 #### Status
 ACCEPTED

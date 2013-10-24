@@ -1,5 +1,4 @@
-Aspicilia rogeri Sohrabi SPECIES
-=======
+# Aspicilia rogeri Sohrabi SPECIES
 
 #### Status
 ACCEPTED

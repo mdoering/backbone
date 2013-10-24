@@ -1,5 +1,4 @@
-Discophrya lyngnyei SPECIES
-=======
+# Discophrya lyngnyei SPECIES
 
 #### Status
 ACCEPTED

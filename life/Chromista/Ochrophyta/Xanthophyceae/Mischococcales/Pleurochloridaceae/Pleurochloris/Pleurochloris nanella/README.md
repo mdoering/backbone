@@ -1,5 +1,4 @@
-Pleurochloris nanella Geitler SPECIES
-=======
+# Pleurochloris nanella Geitler SPECIES
 
 #### Status
 ACCEPTED

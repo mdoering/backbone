@@ -1,5 +1,4 @@
-Agaricus rhizobolus Berk. SPECIES
-=======
+# Agaricus rhizobolus Berk. SPECIES
 
 #### Status
 ACCEPTED

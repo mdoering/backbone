@@ -1,5 +1,4 @@
-Fusella zambeziana Torrend SPECIES
-=======
+# Fusella zambeziana Torrend SPECIES
 
 #### Status
 ACCEPTED

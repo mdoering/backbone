@@ -1,5 +1,4 @@
-Planoperidinium J. de Coninck, 1986 GENUS
-=======
+# Planoperidinium J. de Coninck, 1986 GENUS
 
 #### Status
 ACCEPTED

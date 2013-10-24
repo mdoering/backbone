@@ -1,5 +1,4 @@
-Arachnophora Hennebert GENUS
-=======
+# Arachnophora Hennebert GENUS
 
 #### Status
 ACCEPTED

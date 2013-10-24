@@ -1,5 +1,4 @@
-Percultisphaera stiphrospinata Lister, 1970 SPECIES
-=======
+# Percultisphaera stiphrospinata Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flavobacterium segetis Yi & Chun, 2006 SPECIES
-=======
+# Flavobacterium segetis Yi & Chun, 2006 SPECIES
 
 #### Status
 ACCEPTED

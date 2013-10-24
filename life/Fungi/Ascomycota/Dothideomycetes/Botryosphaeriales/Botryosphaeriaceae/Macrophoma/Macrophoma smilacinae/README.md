@@ -1,5 +1,4 @@
-Macrophoma smilacinae Tehon & G.L. Stout SPECIES
-=======
+# Macrophoma smilacinae Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria interspersa (Cooke) Sacc. SPECIES
-=======
+# Leptosphaeria interspersa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

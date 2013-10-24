@@ -1,5 +1,4 @@
-Xylaria hypoglossa Speg. SPECIES
-=======
+# Xylaria hypoglossa Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea resinae subsp. resinae SUBSPECIES
-=======
+# Lecidea resinae Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Observ. mycol. (Havniae) 1: 180 (1815)
 
 #### Original name
-Lecidea resinae subsp. resinae
+Lecidea resinae Fr.
 
 ### Remarks
 null

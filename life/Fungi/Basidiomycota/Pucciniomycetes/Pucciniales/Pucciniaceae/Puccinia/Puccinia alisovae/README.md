@@ -1,5 +1,4 @@
-Puccinia alisovae Tranzschel SPECIES
-=======
+# Puccinia alisovae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

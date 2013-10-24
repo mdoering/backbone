@@ -1,17 +1,16 @@
-Thelephora candidissima Schwein., 1832 SPECIES
-=======
+# Trechispora candidissima (Schwein.) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , Ser. 2 4(2): 167 (1832)
+Annls mycol. 39(1): 48 (1941)
 
 #### Original name
-Thelephora candidissima Schwein., 1832
+Polyporus candidissimus Schwein., 1832
 
 ### Remarks
 null

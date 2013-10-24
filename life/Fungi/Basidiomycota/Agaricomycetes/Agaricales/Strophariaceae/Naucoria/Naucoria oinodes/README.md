@@ -1,5 +1,4 @@
-Naucoria oinodes (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Naucoria oinodes (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

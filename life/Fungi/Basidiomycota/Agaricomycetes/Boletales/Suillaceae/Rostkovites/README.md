@@ -1,5 +1,4 @@
-Rostkovites GENUS
-=======
+# Rostkovites GENUS
 
 #### Status
 ACCEPTED

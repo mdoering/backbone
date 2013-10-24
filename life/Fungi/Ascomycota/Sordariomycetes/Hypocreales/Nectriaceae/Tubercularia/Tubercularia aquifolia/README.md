@@ -1,5 +1,4 @@
-Tubercularia aquifolia Cooke & Massee SPECIES
-=======
+# Tubercularia aquifolia Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

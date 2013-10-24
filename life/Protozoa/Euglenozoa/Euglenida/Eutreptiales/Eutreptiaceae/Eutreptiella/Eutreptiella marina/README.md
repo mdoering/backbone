@@ -1,5 +1,4 @@
-Eutreptiella marina da Cunha SPECIES
-=======
+# Eutreptiella marina da Cunha SPECIES
 
 #### Status
 ACCEPTED

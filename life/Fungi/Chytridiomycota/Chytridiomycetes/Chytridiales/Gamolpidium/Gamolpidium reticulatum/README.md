@@ -1,5 +1,4 @@
-Gamolpidium reticulatum Vladescu SPECIES
-=======
+# Gamolpidium reticulatum Vladescu SPECIES
 
 #### Status
 ACCEPTED

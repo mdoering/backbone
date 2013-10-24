@@ -1,5 +1,4 @@
-Dacrymyces tremelloides P. Karst. SPECIES
-=======
+# Dacrymyces tremelloides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

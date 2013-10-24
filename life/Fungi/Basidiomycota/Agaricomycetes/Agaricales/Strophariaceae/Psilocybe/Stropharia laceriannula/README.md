@@ -1,5 +1,4 @@
-Stropharia laceriannula Sawada SPECIES
-=======
+# Stropharia laceriannula Sawada SPECIES
 
 #### Status
 ACCEPTED

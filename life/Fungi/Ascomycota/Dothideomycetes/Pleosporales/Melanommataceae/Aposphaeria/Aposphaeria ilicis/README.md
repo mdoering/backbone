@@ -1,5 +1,4 @@
-Aposphaeria ilicis Died. SPECIES
-=======
+# Aposphaeria ilicis Died. SPECIES
 
 #### Status
 ACCEPTED

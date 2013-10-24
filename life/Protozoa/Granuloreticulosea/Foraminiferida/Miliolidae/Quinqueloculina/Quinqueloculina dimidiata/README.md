@@ -1,5 +1,4 @@
-Quinqueloculina dimidiata Terquem, 1876 SPECIES
-=======
+# Quinqueloculina dimidiata Terquem, 1876 SPECIES
 
 #### Status
 ACCEPTED

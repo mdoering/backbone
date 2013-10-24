@@ -1,5 +1,4 @@
-Evernia cladonioides (Nyl.) M. Choisy SPECIES
-=======
+# Evernia cladonioides (Nyl.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

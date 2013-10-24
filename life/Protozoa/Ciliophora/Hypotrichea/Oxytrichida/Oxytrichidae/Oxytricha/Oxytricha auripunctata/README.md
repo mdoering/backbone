@@ -1,5 +1,4 @@
-Oxytricha auripunctata Blatterer & Foissner, 1988 SPECIES
-=======
+# Oxytricha auripunctata Blatterer & Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Obstipipilus B. Sutton GENUS
-=======
+# Obstipipilus B. Sutton GENUS
 
 #### Status
 ACCEPTED

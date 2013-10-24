@@ -1,5 +1,4 @@
-Lecanora asteria (Hue) Zahlbr. SPECIES
-=======
+# Lecanora asteria (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

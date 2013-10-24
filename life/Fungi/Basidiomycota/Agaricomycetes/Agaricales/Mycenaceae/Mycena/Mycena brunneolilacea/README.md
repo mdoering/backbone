@@ -1,5 +1,4 @@
-Mycena brunneolilacea Métrod SPECIES
-=======
+# Mycena brunneolilacea Métrod SPECIES
 
 #### Status
 ACCEPTED

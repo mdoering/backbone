@@ -1,5 +1,4 @@
-Eriosporangium beckii (Mayor) Syd. SPECIES
-=======
+# Eriosporangium beckii (Mayor) Syd. SPECIES
 
 #### Status
 ACCEPTED

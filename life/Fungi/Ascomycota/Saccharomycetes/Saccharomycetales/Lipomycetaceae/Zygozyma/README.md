@@ -1,5 +1,4 @@
-Zygozyma Van der Walt & Arx GENUS
-=======
+# Zygozyma Van der Walt & Arx GENUS
 
 #### Status
 ACCEPTED

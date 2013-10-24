@@ -1,5 +1,4 @@
-Coprinus platypus Berk. SPECIES
-=======
+# Coprinus platypus Berk. SPECIES
 
 #### Status
 ACCEPTED

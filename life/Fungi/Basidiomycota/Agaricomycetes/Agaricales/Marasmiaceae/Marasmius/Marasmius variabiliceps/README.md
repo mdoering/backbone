@@ -1,5 +1,4 @@
-Marasmius variabiliceps var. variabiliceps VARIETY
-=======
+# Marasmius variabiliceps Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius variabiliceps var. variabiliceps
+Marasmius variabiliceps Singer
 
 ### Remarks
 null

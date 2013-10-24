@@ -1,5 +1,4 @@
-Desulfacinum infernum Rees et al., 1995 SPECIES
-=======
+# Desulfacinum infernum Rees et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

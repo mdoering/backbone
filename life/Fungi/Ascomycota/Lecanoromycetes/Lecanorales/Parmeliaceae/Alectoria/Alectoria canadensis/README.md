@@ -1,5 +1,4 @@
-Alectoria canadensis Motyka SPECIES
-=======
+# Alectoria canadensis Motyka SPECIES
 
 #### Status
 ACCEPTED

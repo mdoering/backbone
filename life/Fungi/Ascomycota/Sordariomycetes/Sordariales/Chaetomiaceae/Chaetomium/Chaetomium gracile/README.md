@@ -1,17 +1,16 @@
-Chaetomium arcuatum J.N. Rai & J.P. Tewari, 1962 SPECIES
-=======
+# Chaetomium gracile Udagawa, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 40: 1379 (1962)
+J. gen. appl. Microbiol. , Tokyo 6: 235 (1960)
 
 #### Original name
-Chaetomium arcuatum J.N. Rai & J.P. Tewari, 1962
+Chaetomium gracile Udagawa, 1960
 
 ### Remarks
 null

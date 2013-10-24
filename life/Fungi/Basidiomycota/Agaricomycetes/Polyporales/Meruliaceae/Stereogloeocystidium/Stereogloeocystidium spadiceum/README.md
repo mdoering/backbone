@@ -1,5 +1,4 @@
-Stereogloeocystidium spadiceum (Fr.) Rick SPECIES
-=======
+# Stereogloeocystidium spadiceum (Fr.) Rick SPECIES
 
 #### Status
 ACCEPTED

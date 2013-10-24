@@ -1,5 +1,4 @@
-Comamonas composti Chiu-Chung Young, 2008 SPECIES
-=======
+# Comamonas composti Chiu-Chung Young, 2008 SPECIES
 
 #### Status
 ACCEPTED

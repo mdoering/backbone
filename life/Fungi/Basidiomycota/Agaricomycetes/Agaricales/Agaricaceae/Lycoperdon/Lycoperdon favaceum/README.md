@@ -1,5 +1,4 @@
-Lycoperdon favaceum Schrad. SPECIES
-=======
+# Lycoperdon favaceum Schrad. SPECIES
 
 #### Status
 ACCEPTED

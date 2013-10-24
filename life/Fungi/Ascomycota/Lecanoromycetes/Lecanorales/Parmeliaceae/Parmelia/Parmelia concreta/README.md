@@ -1,5 +1,4 @@
-Parmelia concreta Stizenb. SPECIES
-=======
+# Parmelia concreta Stizenb. SPECIES
 
 #### Status
 ACCEPTED

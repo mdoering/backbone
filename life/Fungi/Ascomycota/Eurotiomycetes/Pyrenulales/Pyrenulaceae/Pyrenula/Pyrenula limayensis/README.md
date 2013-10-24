@@ -1,5 +1,4 @@
-Pyrenula limayensis SPECIES
-=======
+# Pyrenula limayensis SPECIES
 
 #### Status
 ACCEPTED

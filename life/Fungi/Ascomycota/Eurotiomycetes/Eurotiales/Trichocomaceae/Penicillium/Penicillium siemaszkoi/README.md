@@ -1,8 +1,7 @@
-Penicillium siemaszki K.M. Zalessky SPECIES
-=======
+# Penicillium siemaszkoi K.M. Zalessky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Penicillium siemaszki K.M. Zalessky
+Penicillium siemaszkoi K.M. Zalessky
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Lecanora brunneri Imshaug & Brodo SPECIES
-=======
+# Lecanora bruneri Imshaug & Brodo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora brunneri Imshaug & Brodo
+Lecanora bruneri Imshaug & Brodo
 
 ### Remarks
 null

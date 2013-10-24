@@ -1,5 +1,4 @@
-Agaricus eucalyptorum Fr. SPECIES
-=======
+# Agaricus eucalyptorum Fr. SPECIES
 
 #### Status
 ACCEPTED

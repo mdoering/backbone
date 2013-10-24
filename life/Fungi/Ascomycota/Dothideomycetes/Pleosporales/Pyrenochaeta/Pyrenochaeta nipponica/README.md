@@ -1,5 +1,4 @@
-Pyrenochaeta nipponica Hara SPECIES
-=======
+# Pyrenochaeta nipponica Hara SPECIES
 
 #### Status
 ACCEPTED

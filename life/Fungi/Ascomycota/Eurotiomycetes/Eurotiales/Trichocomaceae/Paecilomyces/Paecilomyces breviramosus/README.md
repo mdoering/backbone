@@ -1,5 +1,4 @@
-Paecilomyces breviramosus Bissett, 1979 SPECIES
-=======
+# Paecilomyces breviramosus Bissett, 1979 SPECIES
 
 #### Status
 ACCEPTED

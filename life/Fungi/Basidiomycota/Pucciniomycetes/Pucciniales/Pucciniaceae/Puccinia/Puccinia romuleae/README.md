@@ -1,5 +1,4 @@
-Puccinia romuleae (Trotter) Cif. & Camera SPECIES
-=======
+# Puccinia romuleae (Trotter) Cif. & Camera SPECIES
 
 #### Status
 ACCEPTED

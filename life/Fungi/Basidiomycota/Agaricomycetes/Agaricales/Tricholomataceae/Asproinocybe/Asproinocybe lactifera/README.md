@@ -1,5 +1,4 @@
-Asproinocybe lactifera R. Heim, 1970 SPECIES
-=======
+# Asproinocybe lactifera R. Heim, 1970 SPECIES
 
 #### Status
 ACCEPTED

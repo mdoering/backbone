@@ -1,5 +1,4 @@
-Helotium lonicerae Velen. SPECIES
-=======
+# Helotium lonicerae Velen. SPECIES
 
 #### Status
 ACCEPTED

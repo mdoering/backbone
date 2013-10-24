@@ -1,5 +1,4 @@
-Psoroma subpruinosum Nyl. SPECIES
-=======
+# Psoroma subpruinosum Nyl. SPECIES
 
 #### Status
 ACCEPTED

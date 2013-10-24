@@ -1,5 +1,4 @@
-Phyllosticta syringicola Fautrey SPECIES
-=======
+# Phyllosticta syringicola Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium caespitosulum Bres. SPECIES
-=======
+# Helotium caespitosulum Bres. SPECIES
 
 #### Status
 ACCEPTED

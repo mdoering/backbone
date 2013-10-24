@@ -1,17 +1,16 @@
-Peziza hirtella Pers., 1822 SPECIES
-=======
+# Cheilymenia subhirsuta (Schumach.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 255 (1822)
+Hist. Class. Discom. Eur. (Paris) 62 (1907)
 
 #### Original name
-Peziza hirtella Pers., 1822
+Peziza subhirsuta Schumach., 1803
 
 ### Remarks
 null

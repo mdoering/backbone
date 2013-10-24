@@ -1,17 +1,16 @@
-Terana passerinii (Sacc.) Kuntze, 1891 SPECIES
-=======
+# Peniophora lycii (Pers.) Höhn. & Litsch., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 116: 747 (1907)
 
 #### Original name
-null
+Thelephora lycii Pers., 1822
 
 ### Remarks
 null

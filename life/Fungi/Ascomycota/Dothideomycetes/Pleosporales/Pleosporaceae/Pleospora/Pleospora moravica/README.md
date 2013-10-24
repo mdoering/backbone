@@ -1,5 +1,4 @@
-Pleospora moravica (Petr.) Wehm. SPECIES
-=======
+# Pleospora moravica (Petr.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

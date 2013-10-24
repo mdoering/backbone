@@ -1,5 +1,4 @@
-Cunninghamella candida Y. Yamam. SPECIES
-=======
+# Cunninghamella candida Y. Yamam. SPECIES
 
 #### Status
 ACCEPTED

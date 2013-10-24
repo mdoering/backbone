@@ -1,5 +1,4 @@
-Lycoperdon pseudogemmatum Speg. SPECIES
-=======
+# Lycoperdon pseudogemmatum Speg. SPECIES
 
 #### Status
 ACCEPTED

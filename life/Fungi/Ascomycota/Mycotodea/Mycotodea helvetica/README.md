@@ -1,5 +1,4 @@
-Mycotodea helvetica (Sacc. & Speg.) Kirschst. SPECIES
-=======
+# Mycotodea helvetica (Sacc. & Speg.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

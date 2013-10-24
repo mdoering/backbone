@@ -1,5 +1,4 @@
-Hexastylissus Haeckel, 1887 GENUS
-=======
+# Hexastylissus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

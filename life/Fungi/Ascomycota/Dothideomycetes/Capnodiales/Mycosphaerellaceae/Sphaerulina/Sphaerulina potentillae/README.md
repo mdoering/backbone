@@ -1,5 +1,4 @@
-Sphaerulina potentillae Rostr. SPECIES
-=======
+# Sphaerulina potentillae Rostr. SPECIES
 
 #### Status
 ACCEPTED

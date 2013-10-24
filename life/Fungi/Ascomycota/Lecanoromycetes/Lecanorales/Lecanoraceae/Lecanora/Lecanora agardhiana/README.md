@@ -1,17 +1,16 @@
-Lecanora agardhiana var. agardhiana VARIETY
-=======
+# Lecanora agardhiana Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Lich. 152 (1814)
 
 #### Original name
-Lecanora agardhiana var. agardhiana
+Lecanora agardhiana Ach.
 
 ### Remarks
 null

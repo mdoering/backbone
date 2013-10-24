@@ -1,5 +1,4 @@
-Ophiobolus ptarmicae Petr. SPECIES
-=======
+# Ophiobolus ptarmicae Petr. SPECIES
 
 #### Status
 ACCEPTED

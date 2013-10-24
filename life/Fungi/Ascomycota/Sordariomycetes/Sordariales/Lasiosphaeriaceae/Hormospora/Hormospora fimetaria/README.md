@@ -1,5 +1,4 @@
-Hormospora fimetaria De Not. SPECIES
-=======
+# Hormospora fimetaria De Not. SPECIES
 
 #### Status
 ACCEPTED

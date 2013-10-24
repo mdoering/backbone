@@ -1,5 +1,4 @@
-Septoria armeriae Allesch., 1897 SPECIES
-=======
+# Septoria armeriae Allesch., 1897 SPECIES
 
 #### Status
 ACCEPTED

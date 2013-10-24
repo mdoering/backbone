@@ -1,5 +1,4 @@
-Phoma salicifolia Cooke SPECIES
-=======
+# Phoma salicifolia Cooke SPECIES
 
 #### Status
 ACCEPTED

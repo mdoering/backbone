@@ -1,5 +1,4 @@
-Pseudohansfordia venezuelensis (Deighton & Piroz.) de Hoog SPECIES
-=======
+# Pseudohansfordia venezuelensis (Deighton & Piroz.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

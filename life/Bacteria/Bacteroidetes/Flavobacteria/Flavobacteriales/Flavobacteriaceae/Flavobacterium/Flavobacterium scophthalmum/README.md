@@ -1,8 +1,7 @@
-Chryseobacterium scophthalmum (Mudarris et al., 1994) Vandamme et al., 1994 SPECIES
-=======
+# Flavobacterium scophthalmum Mudarris et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

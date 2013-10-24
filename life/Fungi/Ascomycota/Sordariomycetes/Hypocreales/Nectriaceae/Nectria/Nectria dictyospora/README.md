@@ -1,5 +1,4 @@
-Nectria dictyospora Rossman SPECIES
-=======
+# Nectria dictyospora Rossman SPECIES
 
 #### Status
 ACCEPTED

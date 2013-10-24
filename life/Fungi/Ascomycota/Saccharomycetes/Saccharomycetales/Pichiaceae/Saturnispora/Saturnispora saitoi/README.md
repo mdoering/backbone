@@ -1,17 +1,16 @@
-Pichia krusei Tsuchiya, Fukaz., Shinoda & Imai {?}, 1967 SPECIES
-=======
+# Saturnispora saitoi (K. Kodama, Kyono & S. Kodama) Z.W. Liu & Kurtzman, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 60(1): 28 (1991)
 
 #### Original name
-null
+Pichia saitoi K. Kodama, Kyono & S. Kodama, 1962
 
 ### Remarks
 null

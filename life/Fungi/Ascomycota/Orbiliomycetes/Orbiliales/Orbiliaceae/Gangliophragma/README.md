@@ -1,5 +1,4 @@
-Gangliophragma Subram. GENUS
-=======
+# Gangliophragma Subram. GENUS
 
 #### Status
 ACCEPTED

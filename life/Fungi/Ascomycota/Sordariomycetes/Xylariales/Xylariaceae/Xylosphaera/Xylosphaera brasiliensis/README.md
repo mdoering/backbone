@@ -1,5 +1,4 @@
-Xylosphaera brasiliensis (Theiss.) Dennis SPECIES
-=======
+# Xylosphaera brasiliensis (Theiss.) Dennis SPECIES
 
 #### Status
 ACCEPTED

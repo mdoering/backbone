@@ -1,5 +1,4 @@
-Schizoxylon argentinum Speg. SPECIES
-=======
+# Schizoxylon argentinum Speg. SPECIES
 
 #### Status
 ACCEPTED

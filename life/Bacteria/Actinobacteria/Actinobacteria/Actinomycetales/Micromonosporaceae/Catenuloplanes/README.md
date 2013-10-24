@@ -1,5 +1,4 @@
-Catenuloplanes Yokota et al., 1993 GENUS
-=======
+# Catenuloplanes Yokota et al., 1993 GENUS
 
 #### Status
 ACCEPTED

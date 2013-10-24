@@ -1,5 +1,4 @@
-Psora turfacea SPECIES
-=======
+# Psora turfacea SPECIES
 
 #### Status
 ACCEPTED

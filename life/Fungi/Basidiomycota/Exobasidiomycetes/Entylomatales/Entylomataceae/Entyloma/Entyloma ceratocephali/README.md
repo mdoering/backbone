@@ -1,5 +1,4 @@
-Entyloma ceratocephali Annal. SPECIES
-=======
+# Entyloma ceratocephali Annal. SPECIES
 
 #### Status
 ACCEPTED

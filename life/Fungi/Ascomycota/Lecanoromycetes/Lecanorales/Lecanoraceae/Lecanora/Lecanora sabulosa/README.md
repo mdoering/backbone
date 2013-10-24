@@ -1,5 +1,4 @@
-Lecanora sabulosa J. Steiner SPECIES
-=======
+# Lecanora sabulosa J. Steiner SPECIES
 
 #### Status
 ACCEPTED

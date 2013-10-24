@@ -1,5 +1,4 @@
-Cercosporella carthami Murashk. SPECIES
-=======
+# Cercosporella carthami Murashk. SPECIES
 
 #### Status
 ACCEPTED

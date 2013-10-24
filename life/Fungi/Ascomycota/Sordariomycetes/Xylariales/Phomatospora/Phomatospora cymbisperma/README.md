@@ -1,5 +1,4 @@
-Phomatospora cymbisperma (Speg.) Petr. & Syd. SPECIES
-=======
+# Phomatospora cymbisperma (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

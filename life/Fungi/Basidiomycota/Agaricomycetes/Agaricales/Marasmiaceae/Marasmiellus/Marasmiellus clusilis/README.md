@@ -1,5 +1,4 @@
-Marasmiellus clusilis (Kalchbr.) D.A. Reid SPECIES
-=======
+# Marasmiellus clusilis (Kalchbr.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

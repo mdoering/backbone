@@ -1,5 +1,4 @@
-Archaeopontosphaera Jafar, 1983 GENUS
-=======
+# Archaeopontosphaera Jafar, 1983 GENUS
 
 #### Status
 ACCEPTED

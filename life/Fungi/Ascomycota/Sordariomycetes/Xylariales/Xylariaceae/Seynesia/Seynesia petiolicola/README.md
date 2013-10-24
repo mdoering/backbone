@@ -1,5 +1,4 @@
-Seynesia petiolicola Henn. SPECIES
-=======
+# Seynesia petiolicola Henn. SPECIES
 
 #### Status
 ACCEPTED

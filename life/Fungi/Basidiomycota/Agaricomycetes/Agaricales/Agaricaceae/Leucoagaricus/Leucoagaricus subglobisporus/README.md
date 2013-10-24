@@ -1,5 +1,4 @@
-Leucoagaricus subglobisporus (Contu) Consiglio & Contu SPECIES
-=======
+# Leucoagaricus subglobisporus (Contu) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

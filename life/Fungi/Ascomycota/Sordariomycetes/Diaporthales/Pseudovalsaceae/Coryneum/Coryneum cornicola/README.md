@@ -1,5 +1,4 @@
-Coryneum cornicola Ellis & Everh. SPECIES
-=======
+# Coryneum cornicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza flavotingens Berk. & Broome SPECIES
-=======
+# Peziza flavotingens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

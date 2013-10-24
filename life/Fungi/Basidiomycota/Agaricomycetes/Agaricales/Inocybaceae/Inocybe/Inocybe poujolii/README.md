@@ -1,5 +1,4 @@
-Inocybe poujolii R. Heim SPECIES
-=======
+# Inocybe poujolii R. Heim SPECIES
 
 #### Status
 ACCEPTED

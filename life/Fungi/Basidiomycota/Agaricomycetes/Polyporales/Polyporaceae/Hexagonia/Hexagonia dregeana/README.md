@@ -1,5 +1,4 @@
-Hexagonia dregeana Lév. SPECIES
-=======
+# Hexagonia dregeana Lév. SPECIES
 
 #### Status
 ACCEPTED

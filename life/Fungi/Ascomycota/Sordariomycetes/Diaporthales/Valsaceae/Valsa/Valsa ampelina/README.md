@@ -1,5 +1,4 @@
-Valsa ampelina (Fuckel) Nitschke SPECIES
-=======
+# Valsa ampelina (Fuckel) Nitschke SPECIES
 
 #### Status
 ACCEPTED

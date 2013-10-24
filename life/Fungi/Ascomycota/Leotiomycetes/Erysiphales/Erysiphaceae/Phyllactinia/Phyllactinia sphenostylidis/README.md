@@ -1,5 +1,4 @@
-Phyllactinia sphenostylidis Doidge SPECIES
-=======
+# Phyllactinia sphenostylidis Doidge SPECIES
 
 #### Status
 ACCEPTED

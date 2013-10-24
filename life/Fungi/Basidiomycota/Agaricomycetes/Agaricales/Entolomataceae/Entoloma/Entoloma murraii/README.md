@@ -1,5 +1,4 @@
-Entoloma murraii (Berk. & Curt.) Sacc. SPECIES
-=======
+# Entoloma murraii (Berk. & Curt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

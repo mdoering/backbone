@@ -1,5 +1,4 @@
-Entoloma smaragdinum Corner & E. Horak SPECIES
-=======
+# Entoloma smaragdinum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

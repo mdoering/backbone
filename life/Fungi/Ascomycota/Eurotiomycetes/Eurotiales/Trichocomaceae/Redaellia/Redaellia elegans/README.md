@@ -1,5 +1,4 @@
-Redaellia elegans Cif., 1930 SPECIES
-=======
+# Redaellia elegans Cif., 1930 SPECIES
 
 #### Status
 ACCEPTED

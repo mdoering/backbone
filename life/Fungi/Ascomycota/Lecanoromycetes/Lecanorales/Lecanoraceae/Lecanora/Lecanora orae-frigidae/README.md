@@ -1,5 +1,4 @@
-Lecanora orae-frigidae R. Sant. SPECIES
-=======
+# Lecanora orae-frigidae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

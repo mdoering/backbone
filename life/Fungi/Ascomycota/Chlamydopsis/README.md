@@ -1,5 +1,4 @@
-Chlamydopsis Holubová-Jechová & R.F. Castañeda, 1986 GENUS
-=======
+# Chlamydopsis Holubová-Jechová & R.F. Castañeda, 1986 GENUS
 
 #### Status
 ACCEPTED

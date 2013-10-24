@@ -1,5 +1,4 @@
-Biatora pulvinata Rabenh. SPECIES
-=======
+# Biatora pulvinata Rabenh. SPECIES
 
 #### Status
 ACCEPTED

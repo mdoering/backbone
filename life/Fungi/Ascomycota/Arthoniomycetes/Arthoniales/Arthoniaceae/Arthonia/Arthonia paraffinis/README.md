@@ -1,5 +1,4 @@
-Arthonia paraffinis Nyl. SPECIES
-=======
+# Arthonia paraffinis Nyl. SPECIES
 
 #### Status
 ACCEPTED

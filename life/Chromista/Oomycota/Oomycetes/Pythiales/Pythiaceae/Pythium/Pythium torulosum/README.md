@@ -1,5 +1,4 @@
-Pythium torulosum Coker & P. Patt., 1927 SPECIES
-=======
+# Pythium torulosum Coker & P. Patt., 1927 SPECIES
 
 #### Status
 ACCEPTED

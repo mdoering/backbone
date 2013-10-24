@@ -1,5 +1,4 @@
-Trichosperma variabile Matsushima SPECIES
-=======
+# Trichosperma variabile Matsushima SPECIES
 
 #### Status
 ACCEPTED

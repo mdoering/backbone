@@ -1,5 +1,4 @@
-Hirneola vitellina SPECIES
-=======
+# Hirneola vitellina SPECIES
 
 #### Status
 ACCEPTED

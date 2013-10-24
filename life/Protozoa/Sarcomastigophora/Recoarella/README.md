@@ -1,5 +1,4 @@
-Recoarella Lahm, 1984 GENUS
-=======
+# Recoarella Lahm, 1984 GENUS
 
 #### Status
 ACCEPTED

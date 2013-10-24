@@ -1,5 +1,4 @@
-Irenina syzygii Hansf. SPECIES
-=======
+# Irenina syzygii Hansf. SPECIES
 
 #### Status
 ACCEPTED

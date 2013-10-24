@@ -1,5 +1,4 @@
-Lithocampula Haeckel, 1887 GENUS
-=======
+# Lithocampula Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

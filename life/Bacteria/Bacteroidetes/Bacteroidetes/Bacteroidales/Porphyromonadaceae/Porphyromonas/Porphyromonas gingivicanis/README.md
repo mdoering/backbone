@@ -1,5 +1,4 @@
-Porphyromonas gingivicanis Hirasawa & Takada, 1994 SPECIES
-=======
+# Porphyromonas gingivicanis Hirasawa & Takada, 1994 SPECIES
 
 #### Status
 ACCEPTED

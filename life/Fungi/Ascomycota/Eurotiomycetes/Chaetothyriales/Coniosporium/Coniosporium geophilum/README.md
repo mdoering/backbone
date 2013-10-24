@@ -1,5 +1,4 @@
-Coniosporium geophilum Sacc. & Trotter SPECIES
-=======
+# Coniosporium geophilum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

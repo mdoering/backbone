@@ -1,5 +1,4 @@
-Agaricus echinipes Lasch SPECIES
-=======
+# Agaricus echinipes Lasch SPECIES
 
 #### Status
 ACCEPTED

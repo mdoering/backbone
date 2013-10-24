@@ -1,5 +1,4 @@
-Polyporus atromaculatus Lloyd SPECIES
-=======
+# Polyporus atromaculatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

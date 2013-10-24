@@ -1,5 +1,4 @@
-Dictyocha septenaria Ehrenberg SPECIES
-=======
+# Dictyocha septenaria Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

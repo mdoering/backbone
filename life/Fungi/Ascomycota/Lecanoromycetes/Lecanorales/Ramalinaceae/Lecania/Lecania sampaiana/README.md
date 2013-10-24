@@ -1,5 +1,4 @@
-Lecania sampaiana B. de Lesd. SPECIES
-=======
+# Lecania sampaiana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

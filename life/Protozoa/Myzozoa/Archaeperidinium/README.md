@@ -1,5 +1,4 @@
-Archaeperidinium Jörgensen, 1912 GENUS
-=======
+# Archaeperidinium Jörgensen, 1912 GENUS
 
 #### Status
 SYNONYM

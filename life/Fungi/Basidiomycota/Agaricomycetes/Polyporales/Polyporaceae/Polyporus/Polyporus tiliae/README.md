@@ -1,5 +1,4 @@
-Polyporus tiliae Fr. SPECIES
-=======
+# Polyporus tiliae Fr. SPECIES
 
 #### Status
 ACCEPTED

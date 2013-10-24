@@ -1,5 +1,4 @@
-Mycena marangania Grgur. SPECIES
-=======
+# Mycena marangania Grgur. SPECIES
 
 #### Status
 ACCEPTED

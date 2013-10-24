@@ -1,5 +1,4 @@
-Dendrosarcus ornatus (Fr.) Kuntze SPECIES
-=======
+# Dendrosarcus ornatus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidiopsis jianfengensis Y.B. Peng SPECIES
-=======
+# Exidiopsis jianfengensis Y.B. Peng SPECIES
 
 #### Status
 ACCEPTED

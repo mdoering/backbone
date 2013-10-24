@@ -1,5 +1,4 @@
-Warnowia purpurescens (Kofoid & Swezy) Lindemann, 1928 SPECIES
-=======
+# Warnowia purpurescens (Kofoid & Swezy) Lindemann, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodiplodia Bubák GENUS
-=======
+# Placodiplodia Bubák GENUS
 
 #### Status
 ACCEPTED

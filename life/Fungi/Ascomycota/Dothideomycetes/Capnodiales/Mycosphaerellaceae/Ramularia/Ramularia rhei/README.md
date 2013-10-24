@@ -1,5 +1,4 @@
-Ramularia rhei Allesch., 1896 SPECIES
-=======
+# Ramularia rhei Allesch., 1896 SPECIES
 
 #### Status
 ACCEPTED

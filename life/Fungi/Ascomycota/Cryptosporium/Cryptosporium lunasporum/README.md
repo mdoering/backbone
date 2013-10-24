@@ -1,5 +1,4 @@
-Cryptosporium lunasporum Linder SPECIES
-=======
+# Cryptosporium lunasporum Linder SPECIES
 
 #### Status
 ACCEPTED

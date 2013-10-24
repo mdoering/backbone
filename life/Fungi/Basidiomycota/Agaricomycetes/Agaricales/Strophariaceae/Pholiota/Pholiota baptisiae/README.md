@@ -1,5 +1,4 @@
-Pholiota baptisiae A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota baptisiae A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytonema millei var. maius Gardner VARIETY
-=======
+# Scytonema millei Bornet SPECIES
 
 #### Status
 ACCEPTED

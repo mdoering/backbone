@@ -1,5 +1,4 @@
-Pseudopyrenula flavicans Müll. Arg. SPECIES
-=======
+# Pseudopyrenula flavicans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

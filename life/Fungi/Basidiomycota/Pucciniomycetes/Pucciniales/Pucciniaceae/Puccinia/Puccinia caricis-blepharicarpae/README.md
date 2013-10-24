@@ -1,5 +1,4 @@
-Puccinia caricis-blepharicarpae Hirats. SPECIES
-=======
+# Puccinia caricis-blepharicarpae Hirats. SPECIES
 
 #### Status
 ACCEPTED

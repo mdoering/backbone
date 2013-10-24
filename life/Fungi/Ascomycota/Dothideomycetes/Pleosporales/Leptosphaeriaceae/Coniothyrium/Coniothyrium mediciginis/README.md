@@ -1,5 +1,4 @@
-Coniothyrium mediciginis Kalymb. SPECIES
-=======
+# Coniothyrium mediciginis Kalymb. SPECIES
 
 #### Status
 ACCEPTED

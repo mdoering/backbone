@@ -1,5 +1,4 @@
-Gymnopilus laricicola J. Favre SPECIES
-=======
+# Gymnopilus laricicola J. Favre SPECIES
 
 #### Status
 ACCEPTED

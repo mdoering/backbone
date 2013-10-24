@@ -1,5 +1,4 @@
-Sphaerella andersonii Sacc. SPECIES
-=======
+# Sphaerella andersonii Sacc. SPECIES
 
 #### Status
 ACCEPTED

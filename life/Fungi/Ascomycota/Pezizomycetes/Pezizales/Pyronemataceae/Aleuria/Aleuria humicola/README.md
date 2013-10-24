@@ -1,5 +1,4 @@
-Aleuria humicola Boud. SPECIES
-=======
+# Aleuria humicola Boud. SPECIES
 
 #### Status
 ACCEPTED

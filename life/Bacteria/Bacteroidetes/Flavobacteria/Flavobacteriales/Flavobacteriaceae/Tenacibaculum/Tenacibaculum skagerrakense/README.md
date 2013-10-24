@@ -1,5 +1,4 @@
-Tenacibaculum skagerrakense Frette et al., 2004 SPECIES
-=======
+# Tenacibaculum skagerrakense Frette et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

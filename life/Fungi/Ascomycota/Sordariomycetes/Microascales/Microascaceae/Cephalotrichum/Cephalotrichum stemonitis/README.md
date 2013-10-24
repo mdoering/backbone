@@ -1,17 +1,16 @@
-Stysanus stemonitis var. stemonitis VARIETY
-=======
+# Cephalotrichum stemonitis (Pers.) Nees, 1809 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 3: 20 (1809)
 
 #### Original name
-null
+Isaria stemonitis Pers., 1797
 
 ### Remarks
 null

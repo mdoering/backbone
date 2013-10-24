@@ -1,5 +1,4 @@
-Staphylococcus equorum subsp. equorum SUBSPECIES
-=======
+# Staphylococcus equorum Schleifer et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

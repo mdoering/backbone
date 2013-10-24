@@ -1,5 +1,4 @@
-Hemiaulus inaequilaterus A. M. Gombos SPECIES
-=======
+# Hemiaulus inaequilaterus A. M. Gombos SPECIES
 
 #### Status
 ACCEPTED

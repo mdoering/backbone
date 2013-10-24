@@ -1,5 +1,4 @@
-Dothiora versiformis (M.E. Barr) M.E. Barr SPECIES
-=======
+# Dothiora versiformis (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

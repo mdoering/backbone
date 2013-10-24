@@ -1,5 +1,4 @@
-Puccinia jahnii Syd. SPECIES
-=======
+# Puccinia jahnii Syd. SPECIES
 
 #### Status
 ACCEPTED

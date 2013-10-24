@@ -1,5 +1,4 @@
-Hypoxylon gregale (Schwein.) Berk. SPECIES
-=======
+# Hypoxylon gregale (Schwein.) Berk. SPECIES
 
 #### Status
 ACCEPTED

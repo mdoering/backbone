@@ -1,14 +1,13 @@
-Agaricus epius Berk. & Broome, 1871 SPECIES
-=======
+# Lactocollybia epia (Berk. & Broome) Pegler, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 12: 77 (1986)
 
 #### Original name
 Agaricus epius Berk. & Broome, 1871

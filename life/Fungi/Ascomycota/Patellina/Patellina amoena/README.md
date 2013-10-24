@@ -1,5 +1,4 @@
-Patellina amoena Starbäck SPECIES
-=======
+# Patellina amoena Starbäck SPECIES
 
 #### Status
 ACCEPTED

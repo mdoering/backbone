@@ -1,5 +1,4 @@
-Lageniformia bambusae Plunkett SPECIES
-=======
+# Lageniformia bambusae Plunkett SPECIES
 
 #### Status
 ACCEPTED

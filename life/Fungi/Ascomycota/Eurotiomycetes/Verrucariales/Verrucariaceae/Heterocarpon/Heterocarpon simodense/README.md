@@ -1,5 +1,4 @@
-Heterocarpon simodense Asahina SPECIES
-=======
+# Heterocarpon simodense Asahina SPECIES
 
 #### Status
 ACCEPTED

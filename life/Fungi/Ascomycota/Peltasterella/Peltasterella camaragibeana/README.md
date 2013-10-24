@@ -1,5 +1,4 @@
-Peltasterella camaragibeana Bat. & H. Maia SPECIES
-=======
+# Peltasterella camaragibeana Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta malkoffii Bubák SPECIES
-=======
+# Phyllosticta malkoffii Bubák SPECIES
 
 #### Status
 ACCEPTED

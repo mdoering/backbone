@@ -1,5 +1,4 @@
-Ephebe mamillosa (Lyngb.) Fr. SPECIES
-=======
+# Ephebe mamillosa (Lyngb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

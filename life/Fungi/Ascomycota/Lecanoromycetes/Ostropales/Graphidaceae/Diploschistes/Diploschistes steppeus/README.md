@@ -1,5 +1,4 @@
-Diploschistes steppeus Räsänen SPECIES
-=======
+# Diploschistes steppeus Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Entosordaria subgen. Saccardo von Höhnel, 1920 GENUS
-=======
+# Clypeosphaeria Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

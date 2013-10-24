@@ -1,5 +1,4 @@
-Gymnopilus aurantiophyllus Hesler SPECIES
-=======
+# Gymnopilus aurantiophyllus Hesler SPECIES
 
 #### Status
 ACCEPTED

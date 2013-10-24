@@ -1,5 +1,4 @@
-Phlyctema tiliae Dearn. SPECIES
-=======
+# Phlyctema tiliae Dearn. SPECIES
 
 #### Status
 ACCEPTED

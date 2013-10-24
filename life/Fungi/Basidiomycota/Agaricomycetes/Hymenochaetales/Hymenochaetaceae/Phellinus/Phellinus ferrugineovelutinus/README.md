@@ -1,14 +1,13 @@
-Poria ferrugineovelutina Henn., 1905 SPECIES
-=======
+# Phellinus ferrugineovelutinus (Henn.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 44: 59 (1905)
+Norw. Jl Bot. 19: 234 (1972)
 
 #### Original name
 Poria ferrugineovelutina Henn., 1905

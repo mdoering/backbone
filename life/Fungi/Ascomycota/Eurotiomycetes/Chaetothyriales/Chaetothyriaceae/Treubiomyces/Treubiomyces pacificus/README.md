@@ -1,5 +1,4 @@
-Treubiomyces pacificus D.R. Reynolds SPECIES
-=======
+# Treubiomyces pacificus D.R. Reynolds SPECIES
 
 #### Status
 ACCEPTED

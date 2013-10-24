@@ -1,5 +1,4 @@
-Corticium tenerum Berk. SPECIES
-=======
+# Corticium tenerum Berk. SPECIES
 
 #### Status
 ACCEPTED

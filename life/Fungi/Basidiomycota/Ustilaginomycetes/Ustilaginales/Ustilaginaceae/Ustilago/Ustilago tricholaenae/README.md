@@ -1,5 +1,4 @@
-Ustilago tricholaenae Henn. SPECIES
-=======
+# Ustilago tricholaenae Henn. SPECIES
 
 #### Status
 ACCEPTED

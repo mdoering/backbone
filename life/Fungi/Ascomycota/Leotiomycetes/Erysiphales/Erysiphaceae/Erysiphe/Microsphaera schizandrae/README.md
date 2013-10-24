@@ -1,5 +1,4 @@
-Microsphaera schizandrae f. schizandrae FORM
-=======
+# Microsphaera schizandrae Sawada SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microsphaera schizandrae f. schizandrae
+Microsphaera schizandrae Sawada
 
 ### Remarks
 null

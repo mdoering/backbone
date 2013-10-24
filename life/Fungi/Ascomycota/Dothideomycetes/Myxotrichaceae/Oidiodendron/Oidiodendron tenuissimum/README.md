@@ -1,17 +1,16 @@
-Periconia tenuissima var. tenuissima VARIETY
-=======
+# Oidiodendron tenuissimum (Peck) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 46: 113 (1894)
+Can. J. Bot. 36: 790 (1958)
 
 #### Original name
-Periconia tenuissima var. tenuissima
+Periconia tenuissima Peck, 1894
 
 ### Remarks
 null

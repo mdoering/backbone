@@ -1,5 +1,4 @@
-Tintinnopsis platensis SPECIES
-=======
+# Tintinnopsis platensis SPECIES
 
 #### Status
 ACCEPTED

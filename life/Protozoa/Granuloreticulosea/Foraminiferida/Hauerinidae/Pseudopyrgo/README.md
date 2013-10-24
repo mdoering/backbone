@@ -1,5 +1,4 @@
-Pseudopyrgo Rasheed, 1971 GENUS
-=======
+# Pseudopyrgo Rasheed, 1971 GENUS
 
 #### Status
 ACCEPTED

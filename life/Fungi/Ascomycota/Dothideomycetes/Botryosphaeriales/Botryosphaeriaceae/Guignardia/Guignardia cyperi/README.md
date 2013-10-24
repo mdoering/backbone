@@ -1,5 +1,4 @@
-Guignardia cyperi P.B. Chavan & Hosag. SPECIES
-=======
+# Guignardia cyperi P.B. Chavan & Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizomorpha murorum Thüm. SPECIES
-=======
+# Rhizomorpha murorum Thüm. SPECIES
 
 #### Status
 ACCEPTED

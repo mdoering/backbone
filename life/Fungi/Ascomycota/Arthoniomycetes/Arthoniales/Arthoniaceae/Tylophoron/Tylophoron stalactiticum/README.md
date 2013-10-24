@@ -1,5 +1,4 @@
-Tylophoron stalactiticum Ertz & Diederich SPECIES
-=======
+# Tylophoron stalactiticum Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

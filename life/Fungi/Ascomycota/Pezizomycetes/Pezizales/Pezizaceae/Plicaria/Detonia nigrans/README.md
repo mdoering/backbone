@@ -1,5 +1,4 @@
-Detonia nigrans (Morgan) Sacc. & P. Syd. SPECIES
-=======
+# Detonia nigrans (Morgan) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

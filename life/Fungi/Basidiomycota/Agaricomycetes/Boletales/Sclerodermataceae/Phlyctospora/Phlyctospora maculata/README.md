@@ -1,5 +1,4 @@
-Phlyctospora maculata Pat. SPECIES
-=======
+# Phlyctospora maculata Pat. SPECIES
 
 #### Status
 ACCEPTED

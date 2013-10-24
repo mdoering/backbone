@@ -1,5 +1,4 @@
-Rhizophydium hyalobryi Canter SPECIES
-=======
+# Rhizophydium hyalobryi Canter SPECIES
 
 #### Status
 ACCEPTED

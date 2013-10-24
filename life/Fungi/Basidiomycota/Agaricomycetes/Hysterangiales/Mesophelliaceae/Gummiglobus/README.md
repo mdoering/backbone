@@ -1,5 +1,4 @@
-Gummiglobus Trappe, Castellano & Amar. GENUS
-=======
+# Gummiglobus Trappe, Castellano & Amar. GENUS
 
 #### Status
 ACCEPTED

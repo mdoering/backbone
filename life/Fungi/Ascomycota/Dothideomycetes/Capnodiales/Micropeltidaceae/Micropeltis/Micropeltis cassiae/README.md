@@ -1,5 +1,4 @@
-Micropeltis cassiae Bat. SPECIES
-=======
+# Micropeltis cassiae Bat. SPECIES
 
 #### Status
 ACCEPTED

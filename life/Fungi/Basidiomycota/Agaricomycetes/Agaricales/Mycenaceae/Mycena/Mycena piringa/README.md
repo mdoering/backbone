@@ -1,5 +1,4 @@
-Mycena piringa Grgur. SPECIES
-=======
+# Mycena piringa Grgur. SPECIES
 
 #### Status
 ACCEPTED

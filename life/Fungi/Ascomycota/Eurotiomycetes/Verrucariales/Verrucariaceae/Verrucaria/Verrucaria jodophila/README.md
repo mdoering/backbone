@@ -1,5 +1,4 @@
-Verrucaria jodophila Servít SPECIES
-=======
+# Verrucaria jodophila Servít SPECIES
 
 #### Status
 ACCEPTED

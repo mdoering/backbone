@@ -1,5 +1,4 @@
-Pluteus reisneri Velen. SPECIES
-=======
+# Pluteus reisneri Velen. SPECIES
 
 #### Status
 ACCEPTED

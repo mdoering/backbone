@@ -1,5 +1,4 @@
-Entylomella veronicicola (P. Karst.) U. Braun SPECIES
-=======
+# Entylomella veronicicola (P. Karst.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

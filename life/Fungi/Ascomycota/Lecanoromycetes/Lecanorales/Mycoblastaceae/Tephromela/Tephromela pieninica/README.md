@@ -1,5 +1,4 @@
-Tephromela pieninica Motyka SPECIES
-=======
+# Tephromela pieninica Motyka SPECIES
 
 #### Status
 ACCEPTED

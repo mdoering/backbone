@@ -1,17 +1,16 @@
-Pestalozzia oryzae Hara SPECIES
-=======
+# Pestalotia oryzae Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Diseases of the Rice Plant (Japan) 200 (1918)
 
 #### Original name
-Pestalozzia oryzae Hara
+Pestalotia oryzae Hara
 
 ### Remarks
 null

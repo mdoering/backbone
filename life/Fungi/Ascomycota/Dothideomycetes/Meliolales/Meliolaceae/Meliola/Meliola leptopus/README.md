@@ -1,5 +1,4 @@
-Meliola leptopus Theiss. SPECIES
-=======
+# Meliola leptopus Theiss. SPECIES
 
 #### Status
 ACCEPTED

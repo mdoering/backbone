@@ -1,5 +1,4 @@
-Lecidea sigmoidea (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea sigmoidea (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanitopsis bingensis Beeli SPECIES
-=======
+# Amanitopsis bingensis Beeli SPECIES
 
 #### Status
 ACCEPTED

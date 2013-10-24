@@ -1,5 +1,4 @@
-Diacrocanthidium granulatum Habib & Knapp, 1982 SPECIES
-=======
+# Diacrocanthidium granulatum Habib & Knapp, 1982 SPECIES
 
 #### Status
 ACCEPTED

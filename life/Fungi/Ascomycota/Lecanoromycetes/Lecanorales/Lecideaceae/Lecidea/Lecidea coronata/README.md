@@ -1,5 +1,4 @@
-Lecidea coronata (Hoffm.) Taylor SPECIES
-=======
+# Lecidea coronata (Hoffm.) Taylor SPECIES
 
 #### Status
 ACCEPTED

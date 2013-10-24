@@ -1,14 +1,13 @@
-Geniculifera clavispora (R.C. Cooke) Rifai, 1975 SPECIES
-=======
+# Arthrobotrys clavispora (R.C. Cooke) S. Schenck, W.B. Kendr. & Pramer, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 2(2): 216 (1975)
+Can. J. Bot. 55(8): 982 (1977)
 
 #### Original name
 Dactylaria clavispora R.C. Cooke, 1964

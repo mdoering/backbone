@@ -1,5 +1,4 @@
-Letendraeopsis palmarum K.F. Rodrigues & Samuels, 1994 SPECIES
-=======
+# Letendraeopsis palmarum K.F. Rodrigues & Samuels, 1994 SPECIES
 
 #### Status
 ACCEPTED

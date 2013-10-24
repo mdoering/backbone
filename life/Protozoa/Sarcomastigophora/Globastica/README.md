@@ -1,5 +1,4 @@
-Globastica Blow, 1979 GENUS
-=======
+# Globastica Blow, 1979 GENUS
 
 #### Status
 ACCEPTED

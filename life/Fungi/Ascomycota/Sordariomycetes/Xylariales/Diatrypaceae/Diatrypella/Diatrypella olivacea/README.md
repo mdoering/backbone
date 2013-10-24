@@ -1,5 +1,4 @@
-Diatrypella olivacea Cooke & Ellis SPECIES
-=======
+# Diatrypella olivacea Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

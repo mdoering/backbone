@@ -1,5 +1,4 @@
-Porina subrubrosphaera Vezda SPECIES
-=======
+# Porina subrubrosphaera Vezda SPECIES
 
 #### Status
 ACCEPTED

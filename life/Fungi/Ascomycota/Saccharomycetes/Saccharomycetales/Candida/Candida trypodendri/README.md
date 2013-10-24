@@ -1,17 +1,16 @@
-Candida trypodendroni Kurtzman & Robnett SPECIES
-=======
+# Candida trypodendri Kurtzman & Robnett, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Microbiol. 44(10): 971 (1998)
 
 #### Original name
-Candida trypodendroni Kurtzman & Robnett
+Candida trypodendri Kurtzman & Robnett, 1998
 
 ### Remarks
 null

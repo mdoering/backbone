@@ -1,5 +1,4 @@
-Hydramoeba hydroxena SPECIES
-=======
+# Hydramoeba hydroxena SPECIES
 
 #### Status
 ACCEPTED

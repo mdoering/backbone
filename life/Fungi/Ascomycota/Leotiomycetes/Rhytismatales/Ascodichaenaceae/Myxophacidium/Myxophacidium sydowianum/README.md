@@ -1,5 +1,4 @@
-Myxophacidium sydowianum (Petr.) Petr. SPECIES
-=======
+# Myxophacidium sydowianum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

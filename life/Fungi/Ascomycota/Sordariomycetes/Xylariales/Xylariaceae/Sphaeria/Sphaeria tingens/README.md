@@ -1,5 +1,4 @@
-Sphaeria tingens Ces. SPECIES
-=======
+# Sphaeria tingens Ces. SPECIES
 
 #### Status
 ACCEPTED

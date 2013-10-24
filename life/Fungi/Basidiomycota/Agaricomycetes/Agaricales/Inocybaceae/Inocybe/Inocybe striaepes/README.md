@@ -1,17 +1,16 @@
-Inocybe striaepes f. striaepes FORM
-=======
+# Inocybe striaepes Kühner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 19(no. 74): 24 (1988)
 
 #### Original name
-null
+Inocybe striaepes Kühner
 
 ### Remarks
 null

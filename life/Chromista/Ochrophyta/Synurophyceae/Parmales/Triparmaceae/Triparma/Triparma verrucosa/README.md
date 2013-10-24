@@ -1,5 +1,4 @@
-Triparma verrucosa B. C. Booth SPECIES
-=======
+# Triparma verrucosa B. C. Booth SPECIES
 
 #### Status
 ACCEPTED

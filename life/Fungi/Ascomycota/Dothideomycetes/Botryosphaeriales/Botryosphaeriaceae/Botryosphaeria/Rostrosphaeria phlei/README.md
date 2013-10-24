@@ -1,5 +1,4 @@
-Rostrosphaeria phlei Tehon & E.Y. Daniels SPECIES
-=======
+# Rostrosphaeria phlei Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

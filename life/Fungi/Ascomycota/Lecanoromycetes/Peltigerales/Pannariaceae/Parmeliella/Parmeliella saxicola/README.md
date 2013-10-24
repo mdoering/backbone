@@ -1,5 +1,4 @@
-Parmeliella saxicola P. M. Jørg. SPECIES
-=======
+# Parmeliella saxicola P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

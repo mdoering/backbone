@@ -1,5 +1,4 @@
-Dothiorella scirpi-riparii Petr. SPECIES
-=======
+# Dothiorella scirpi-riparii Petr. SPECIES
 
 #### Status
 ACCEPTED

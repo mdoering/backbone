@@ -1,5 +1,4 @@
-Bactrodesmium papyricola C. Moreau & M. Moreau SPECIES
-=======
+# Bactrodesmium papyricola C. Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

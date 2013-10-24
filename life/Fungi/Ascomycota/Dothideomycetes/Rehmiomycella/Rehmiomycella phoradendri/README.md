@@ -1,14 +1,13 @@
-Bertia phoradendri Rehm SPECIES
-=======
+# Rehmiomycella phoradendri (Rehm) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 102 (1901)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 602 (1962)
 
 #### Original name
 Bertia phoradendri Rehm

@@ -1,5 +1,4 @@
-Clathroporina interrupta (Vain.) Zahlbr. SPECIES
-=======
+# Clathroporina interrupta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

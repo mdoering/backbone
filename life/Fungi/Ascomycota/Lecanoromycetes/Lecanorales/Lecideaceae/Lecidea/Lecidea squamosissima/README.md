@@ -1,5 +1,4 @@
-Lecidea squamosissima SPECIES
-=======
+# Lecidea squamosissima SPECIES
 
 #### Status
 ACCEPTED

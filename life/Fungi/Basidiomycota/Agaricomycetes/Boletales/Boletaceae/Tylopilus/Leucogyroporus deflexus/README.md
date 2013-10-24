@@ -1,5 +1,4 @@
-Leucogyroporus deflexus (Murrill) Snell SPECIES
-=======
+# Leucogyroporus deflexus (Murrill) Snell SPECIES
 
 #### Status
 ACCEPTED

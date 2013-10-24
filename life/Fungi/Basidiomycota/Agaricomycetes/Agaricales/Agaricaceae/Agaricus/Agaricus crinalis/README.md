@@ -1,5 +1,4 @@
-Agaricus crinalis Berk. SPECIES
-=======
+# Agaricus crinalis Berk. SPECIES
 
 #### Status
 ACCEPTED

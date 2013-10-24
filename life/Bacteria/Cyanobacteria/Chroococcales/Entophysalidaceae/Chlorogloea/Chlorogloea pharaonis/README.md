@@ -1,5 +1,4 @@
-Chlorogloea pharaonis J. Komárek & G. Montejano SPECIES
-=======
+# Chlorogloea pharaonis J. Komárek & G. Montejano SPECIES
 
 #### Status
 ACCEPTED

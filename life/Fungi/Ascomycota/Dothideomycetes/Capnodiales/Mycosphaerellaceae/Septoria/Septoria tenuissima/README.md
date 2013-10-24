@@ -1,5 +1,4 @@
-Septoria tenuissima G. Winter SPECIES
-=======
+# Septoria tenuissima G. Winter SPECIES
 
 #### Status
 ACCEPTED

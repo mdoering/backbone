@@ -1,5 +1,4 @@
-Pestalotia harongae Henn. SPECIES
-=======
+# Pestalotia harongae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula europae J. Blum ex Romagn. SPECIES
-=======
+# Russula europae J. Blum ex Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cercosporelloides Deighton SPECIES
-=======
+# Cercospora cercosporelloides Deighton SPECIES
 
 #### Status
 ACCEPTED

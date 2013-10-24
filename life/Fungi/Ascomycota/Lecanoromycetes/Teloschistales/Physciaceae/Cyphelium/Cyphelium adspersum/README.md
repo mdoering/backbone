@@ -1,5 +1,4 @@
-Cyphelium adspersum Ach. SPECIES
-=======
+# Cyphelium adspersum Ach. SPECIES
 
 #### Status
 ACCEPTED

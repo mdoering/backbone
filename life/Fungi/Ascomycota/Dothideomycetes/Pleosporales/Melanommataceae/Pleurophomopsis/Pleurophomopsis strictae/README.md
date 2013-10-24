@@ -1,5 +1,4 @@
-Pleurophomopsis strictae S. Ahmad SPECIES
-=======
+# Pleurophomopsis strictae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

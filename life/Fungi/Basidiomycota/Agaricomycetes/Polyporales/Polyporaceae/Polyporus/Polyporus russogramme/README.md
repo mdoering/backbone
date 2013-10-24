@@ -1,5 +1,4 @@
-Polyporus russogramme Berk. SPECIES
-=======
+# Polyporus russogramme Berk. SPECIES
 
 #### Status
 ACCEPTED

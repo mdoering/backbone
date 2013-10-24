@@ -1,17 +1,16 @@
-Nothopodospora Mirza GENUS
-=======
+# Arnium Nitschke ex G. Winter GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 31: 450 (1873)
 
 #### Original name
-Nothopodospora Mirza
+Arnium Nitschke ex G. Winter
 
 ### Remarks
 null

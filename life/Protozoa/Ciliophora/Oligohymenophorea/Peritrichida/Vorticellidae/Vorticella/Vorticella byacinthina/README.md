@@ -1,5 +1,4 @@
-Vorticella byacinthina SPECIES
-=======
+# Vorticella byacinthina SPECIES
 
 #### Status
 ACCEPTED

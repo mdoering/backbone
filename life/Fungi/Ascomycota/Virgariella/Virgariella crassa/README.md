@@ -1,5 +1,4 @@
-Virgariella crassa P.M. Kirk SPECIES
-=======
+# Virgariella crassa P.M. Kirk SPECIES
 
 #### Status
 ACCEPTED

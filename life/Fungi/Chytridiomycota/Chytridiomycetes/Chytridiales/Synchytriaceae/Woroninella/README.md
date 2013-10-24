@@ -1,5 +1,4 @@
-Woroninella GENUS
-=======
+# Woroninella GENUS
 
 #### Status
 ACCEPTED

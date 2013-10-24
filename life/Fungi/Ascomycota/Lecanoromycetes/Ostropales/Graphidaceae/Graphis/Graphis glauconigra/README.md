@@ -1,5 +1,4 @@
-Graphis glauconigra Vain. SPECIES
-=======
+# Graphis glauconigra Vain. SPECIES
 
 #### Status
 ACCEPTED

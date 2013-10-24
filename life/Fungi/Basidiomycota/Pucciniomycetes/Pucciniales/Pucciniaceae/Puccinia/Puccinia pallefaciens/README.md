@@ -1,5 +1,4 @@
-Puccinia pallefaciens Dietel & Holw. SPECIES
-=======
+# Puccinia pallefaciens Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

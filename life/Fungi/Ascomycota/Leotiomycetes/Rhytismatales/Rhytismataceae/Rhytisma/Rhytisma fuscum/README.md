@@ -1,5 +1,4 @@
-Rhytisma fuscum Fr. SPECIES
-=======
+# Rhytisma fuscum Fr. SPECIES
 
 #### Status
 ACCEPTED

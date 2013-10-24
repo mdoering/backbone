@@ -1,5 +1,4 @@
-Leptolyngyba fragilis (Meneghini ex Gomont) Anagnostidis & Kkomárek SPECIES
-=======
+# Leptolyngyba fragilis (Meneghini ex Gomont) Anagnostidis & Kkomárek SPECIES
 
 #### Status
 ACCEPTED

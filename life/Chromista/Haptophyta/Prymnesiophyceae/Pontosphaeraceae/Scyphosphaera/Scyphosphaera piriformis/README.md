@@ -1,5 +1,4 @@
-Scyphosphaera piriformis Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera piriformis Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

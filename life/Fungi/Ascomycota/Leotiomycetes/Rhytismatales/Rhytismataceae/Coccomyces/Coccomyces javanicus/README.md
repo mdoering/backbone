@@ -1,5 +1,4 @@
-Coccomyces javanicus Sacc. & P. Syd. SPECIES
-=======
+# Coccomyces javanicus Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

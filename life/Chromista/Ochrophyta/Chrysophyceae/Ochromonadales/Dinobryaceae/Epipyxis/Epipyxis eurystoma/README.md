@@ -1,5 +1,4 @@
-Epipyxis eurystoma Stokes SPECIES
-=======
+# Epipyxis eurystoma Stokes SPECIES
 
 #### Status
 ACCEPTED

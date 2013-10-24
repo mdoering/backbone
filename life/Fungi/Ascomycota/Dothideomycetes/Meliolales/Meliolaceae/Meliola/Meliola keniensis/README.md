@@ -1,5 +1,4 @@
-Meliola keniensis Mibey SPECIES
-=======
+# Meliola keniensis Mibey SPECIES
 
 #### Status
 ACCEPTED

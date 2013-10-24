@@ -1,5 +1,4 @@
-Ascochyta solanicola Oudem., 1901 SPECIES
-=======
+# Ascochyta solanicola Oudem., 1901 SPECIES
 
 #### Status
 ACCEPTED

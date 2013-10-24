@@ -1,5 +1,4 @@
-Hypocrea extensa Petch SPECIES
-=======
+# Hypocrea extensa Petch SPECIES
 
 #### Status
 ACCEPTED

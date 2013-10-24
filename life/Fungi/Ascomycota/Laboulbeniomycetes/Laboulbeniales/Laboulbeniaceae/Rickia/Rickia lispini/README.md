@@ -1,17 +1,16 @@
-Rickia lipsinae K. Sugiy. SPECIES
-=======
+# Rickia lispini Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Amer. Acad. Arts 48: 160 (1912)
 
 #### Original name
-Rickia lipsinae K. Sugiy.
+Rickia lispini Thaxt.
 
 ### Remarks
 null

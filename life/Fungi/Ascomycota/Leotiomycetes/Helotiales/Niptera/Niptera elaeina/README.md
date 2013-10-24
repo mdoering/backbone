@@ -1,5 +1,4 @@
-Niptera elaeina Pass. & Beltr. SPECIES
-=======
+# Niptera elaeina Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

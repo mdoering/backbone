@@ -1,5 +1,4 @@
-Asterina achyrospermi Mibey SPECIES
-=======
+# Asterina achyrospermi Mibey SPECIES
 
 #### Status
 ACCEPTED

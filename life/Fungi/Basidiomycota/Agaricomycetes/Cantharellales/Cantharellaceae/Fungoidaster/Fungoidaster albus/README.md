@@ -1,5 +1,4 @@
-Fungoidaster albus P. Micheli SPECIES
-=======
+# Fungoidaster albus P. Micheli SPECIES
 
 #### Status
 ACCEPTED

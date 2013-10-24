@@ -1,5 +1,4 @@
-Laboulbenia corrugata Thaxt. SPECIES
-=======
+# Laboulbenia corrugata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

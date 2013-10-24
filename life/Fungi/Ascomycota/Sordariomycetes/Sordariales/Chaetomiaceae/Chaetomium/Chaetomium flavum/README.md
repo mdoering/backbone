@@ -1,5 +1,4 @@
-Chaetomium flavum Omvik SPECIES
-=======
+# Chaetomium flavum Omvik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holosticha lacteus Kahl, 1932 SPECIES
-=======
+# Holosticha lacteus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

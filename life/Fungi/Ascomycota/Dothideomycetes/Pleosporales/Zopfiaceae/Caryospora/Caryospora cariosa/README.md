@@ -1,5 +1,4 @@
-Caryospora cariosa Fairm. SPECIES
-=======
+# Caryospora cariosa Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphelium scabrosum Ach. SPECIES
-=======
+# Cyphelium scabrosum Ach. SPECIES
 
 #### Status
 ACCEPTED

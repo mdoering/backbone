@@ -1,14 +1,13 @@
-Haplosporella aesculi (Fautrey & Roum.) Fairm. SPECIES
-=======
+# Aplosporella aesculi Cooke ex Petr. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Rochester Acad. Sci. 6: 85 (1921)
 
 #### Original name
 Aplosporella aesculi Cooke ex Petr. & Syd.

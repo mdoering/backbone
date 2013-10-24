@@ -1,5 +1,4 @@
-Linochora graminis (Grove) Parbery SPECIES
-=======
+# Linochora graminis (Grove) Parbery SPECIES
 
 #### Status
 ACCEPTED

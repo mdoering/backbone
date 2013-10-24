@@ -1,5 +1,4 @@
-Uvigerina tenuistrata Reuss, 1870 SPECIES
-=======
+# Uvigerina tenuistrata Reuss, 1870 SPECIES
 
 #### Status
 ACCEPTED

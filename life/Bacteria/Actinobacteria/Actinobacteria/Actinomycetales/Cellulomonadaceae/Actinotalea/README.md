@@ -1,5 +1,4 @@
-Actinotalea Yi, Schumann & Chun, 2007 GENUS
-=======
+# Actinotalea Yi, Schumann & Chun, 2007 GENUS
 
 #### Status
 ACCEPTED

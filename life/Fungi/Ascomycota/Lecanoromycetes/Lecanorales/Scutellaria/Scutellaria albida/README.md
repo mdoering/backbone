@@ -1,5 +1,4 @@
-Scutellaria albida L. SPECIES
-=======
+# Scutellaria albida L. SPECIES
 
 #### Status
 ACCEPTED

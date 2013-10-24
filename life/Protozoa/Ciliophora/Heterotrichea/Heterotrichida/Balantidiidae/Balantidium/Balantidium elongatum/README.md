@@ -1,5 +1,4 @@
-Balantidium elongatum Stein, 1867 SPECIES
-=======
+# Balantidium elongatum Stein, 1867 SPECIES
 
 #### Status
 ACCEPTED

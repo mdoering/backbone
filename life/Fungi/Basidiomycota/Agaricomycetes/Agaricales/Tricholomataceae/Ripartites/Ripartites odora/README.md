@@ -1,5 +1,4 @@
-Ripartites odora G. Riousset & Bon SPECIES
-=======
+# Ripartites odora G. Riousset & Bon SPECIES
 
 #### Status
 ACCEPTED

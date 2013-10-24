@@ -1,5 +1,4 @@
-Pluteus luteostipitatus C.K. Pradeep & K.B. Vrinda SPECIES
-=======
+# Pluteus luteostipitatus C.K. Pradeep & K.B. Vrinda SPECIES
 
 #### Status
 ACCEPTED

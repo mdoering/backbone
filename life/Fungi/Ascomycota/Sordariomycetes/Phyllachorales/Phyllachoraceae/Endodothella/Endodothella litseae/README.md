@@ -1,5 +1,4 @@
-Endodothella litseae Racib., 1915 SPECIES
-=======
+# Endodothella litseae Racib., 1915 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caudiholosticha Berger, 2003 GENUS
-=======
+# Caudiholosticha Berger, 2003 GENUS
 
 #### Status
 ACCEPTED

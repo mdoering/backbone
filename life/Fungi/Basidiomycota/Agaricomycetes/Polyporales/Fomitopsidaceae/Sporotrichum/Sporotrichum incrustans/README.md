@@ -1,5 +1,4 @@
-Sporotrichum incrustans Sacc. SPECIES
-=======
+# Sporotrichum incrustans Sacc. SPECIES
 
 #### Status
 ACCEPTED

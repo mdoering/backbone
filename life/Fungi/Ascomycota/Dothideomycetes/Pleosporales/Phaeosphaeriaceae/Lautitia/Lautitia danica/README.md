@@ -1,5 +1,4 @@
-Lautitia danica (Berl.) S. Schatz, 1984 SPECIES
-=======
+# Lautitia danica (Berl.) S. Schatz, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus cuticulatus Corner SPECIES
-=======
+# Boletus cuticulatus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium kravtzevii Schwarzman SPECIES
-=======
+# Coniothyrium kravtzevii Schwarzman SPECIES
 
 #### Status
 ACCEPTED

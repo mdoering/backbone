@@ -1,5 +1,4 @@
-Myriospora GENUS
-=======
+# Myriospora GENUS
 
 #### Status
 ACCEPTED

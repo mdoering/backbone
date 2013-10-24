@@ -1,5 +1,4 @@
-Scaphidiomyces scaphicoma Thaxt., 1931 SPECIES
-=======
+# Scaphidiomyces scaphicoma Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

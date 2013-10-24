@@ -1,5 +1,4 @@
-Rhizopogon singularis K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Rhizopogon singularis K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

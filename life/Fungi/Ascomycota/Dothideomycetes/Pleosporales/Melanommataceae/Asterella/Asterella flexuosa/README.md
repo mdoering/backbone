@@ -1,5 +1,4 @@
-Asterella flexuosa (G. Winter) Sacc. SPECIES
-=======
+# Asterella flexuosa (G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

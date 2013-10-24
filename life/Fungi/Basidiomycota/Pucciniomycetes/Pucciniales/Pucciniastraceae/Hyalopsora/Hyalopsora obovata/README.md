@@ -1,5 +1,4 @@
-Hyalopsora obovata (Arthur) Cummins SPECIES
-=======
+# Hyalopsora obovata (Arthur) Cummins SPECIES
 
 #### Status
 ACCEPTED

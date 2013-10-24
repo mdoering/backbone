@@ -1,5 +1,4 @@
-Septoria leptidea Sacc. SPECIES
-=======
+# Septoria leptidea Sacc. SPECIES
 
 #### Status
 ACCEPTED

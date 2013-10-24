@@ -1,5 +1,4 @@
-Hystrichosphaeridium gliwicense S. Macko SPECIES
-=======
+# Hystrichosphaeridium gliwicense S. Macko SPECIES
 
 #### Status
 ACCEPTED

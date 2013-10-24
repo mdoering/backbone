@@ -1,5 +1,4 @@
-Macrophoma micromegala (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Macrophoma micromegala (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

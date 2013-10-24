@@ -1,5 +1,4 @@
-Henningsomyces spadiceus (Fuckel) Kuntze SPECIES
-=======
+# Henningsomyces spadiceus (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea microhaema Nyl. SPECIES
-=======
+# Lecidea microhaema Nyl. SPECIES
 
 #### Status
 ACCEPTED

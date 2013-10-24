@@ -1,5 +1,4 @@
-Wernerella Navarro-Rosinés, Cl. Roux & Giralt, 1998 GENUS
-=======
+# Wernerella Navarro-Rosinés, Cl. Roux & Giralt, 1998 GENUS
 
 #### Status
 ACCEPTED

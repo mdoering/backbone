@@ -1,5 +1,4 @@
-Farysia caricis-filicinae S. Ito SPECIES
-=======
+# Farysia caricis-filicinae S. Ito SPECIES
 
 #### Status
 ACCEPTED

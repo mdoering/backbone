@@ -1,5 +1,4 @@
-Stenella eucalypti Crous & Summerell SPECIES
-=======
+# Stenella eucalypti Crous & Summerell SPECIES
 
 #### Status
 ACCEPTED

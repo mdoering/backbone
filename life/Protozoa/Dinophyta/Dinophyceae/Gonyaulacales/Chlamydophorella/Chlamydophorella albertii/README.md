@@ -1,5 +1,4 @@
-Chlamydophorella albertii (J.W. Neale & W.A.S. Sarjeant) R.J. Davey SPECIES
-=======
+# Chlamydophorella albertii (J.W. Neale & W.A.S. Sarjeant) R.J. Davey SPECIES
 
 #### Status
 ACCEPTED

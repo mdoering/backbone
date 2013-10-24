@@ -1,5 +1,4 @@
-Cucurbitaria peponum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cucurbitaria peponum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

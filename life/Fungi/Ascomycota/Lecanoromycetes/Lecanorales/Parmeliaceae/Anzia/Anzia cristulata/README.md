@@ -1,5 +1,4 @@
-Anzia cristulata (Ach.) Stizenb. SPECIES
-=======
+# Anzia cristulata (Ach.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

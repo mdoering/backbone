@@ -1,5 +1,4 @@
-Rosellinia bigeloviae f. bigeloviae FORM
-=======
+# Rosellinia bigeloviae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rosellinia bigeloviae f. bigeloviae
+Rosellinia bigeloviae Ellis & Everh.
 
 ### Remarks
 null

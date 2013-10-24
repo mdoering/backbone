@@ -1,5 +1,4 @@
-Meliola buddleiae (Hansf.) Cif. SPECIES
-=======
+# Meliola buddleiae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

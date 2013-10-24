@@ -1,5 +1,4 @@
-Septoria hyalina Ellis & Everh. SPECIES
-=======
+# Septoria hyalina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

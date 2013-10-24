@@ -1,5 +1,4 @@
-Arcuospathidiidae FAMILY
-=======
+# Arcuospathidiidae FAMILY
 
 #### Status
 ACCEPTED

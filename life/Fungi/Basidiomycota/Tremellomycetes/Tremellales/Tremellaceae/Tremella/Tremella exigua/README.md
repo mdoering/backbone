@@ -1,17 +1,16 @@
-Tremella virescens SPECIES
-=======
+# Tremella exigua Desm., 1847 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 8: 191 (1847)
 
 #### Original name
-Tremella virescens
+Tremella exigua Desm., 1847
 
 ### Remarks
 null

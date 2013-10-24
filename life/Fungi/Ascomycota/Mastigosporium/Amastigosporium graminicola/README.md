@@ -1,17 +1,16 @@
-Amastigosporium graminicolum Bond.-Mont. SPECIES
-=======
+# Amastigosporium graminicola Bond.-Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mater. Mikol. Obsled. Ross. 5(1): (1921)
 
 #### Original name
-Amastigosporium graminicolum Bond.-Mont.
+Amastigosporium graminicola Bond.-Mont.
 
 ### Remarks
 null

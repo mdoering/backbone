@@ -1,5 +1,4 @@
-Laestadia galactina Dearn. & House SPECIES
-=======
+# Laestadia galactina Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

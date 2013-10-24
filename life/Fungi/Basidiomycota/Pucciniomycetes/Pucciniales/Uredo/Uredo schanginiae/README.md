@@ -1,5 +1,4 @@
-Uredo schanginiae Thüm. SPECIES
-=======
+# Uredo schanginiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

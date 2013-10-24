@@ -1,5 +1,4 @@
-Stachybotrys xanthosomae Mercado & J. Mena SPECIES
-=======
+# Stachybotrys xanthosomae Mercado & J. Mena SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium rajasthanense Lodha SPECIES
-=======
+# Chaetomium rajasthanense Lodha SPECIES
 
 #### Status
 ACCEPTED

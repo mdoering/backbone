@@ -1,5 +1,4 @@
-Cellularia brunneola (Berk.) Kuntze SPECIES
-=======
+# Cellularia brunneola (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

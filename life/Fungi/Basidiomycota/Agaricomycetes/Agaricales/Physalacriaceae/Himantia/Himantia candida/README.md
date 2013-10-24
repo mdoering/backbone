@@ -1,14 +1,13 @@
-Byssus candida Huds., 1778 SPECIES
-=======
+# Himantia candida (Huds.) Pers., 1801 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Angl. , Edn 2 2: 607 (1778)
+Syn. meth. fung. (Göttingen) 2: 703 (1801)
 
 #### Original name
 Byssus candida Huds., 1778

@@ -1,5 +1,4 @@
-Xylaria patersonii Massee SPECIES
-=======
+# Xylaria patersonii Massee SPECIES
 
 #### Status
 ACCEPTED

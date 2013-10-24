@@ -1,5 +1,4 @@
-Oospora fungicola (Ellis & Barthol.) Sumst. SPECIES
-=======
+# Oospora fungicola (Ellis & Barthol.) Sumst. SPECIES
 
 #### Status
 ACCEPTED

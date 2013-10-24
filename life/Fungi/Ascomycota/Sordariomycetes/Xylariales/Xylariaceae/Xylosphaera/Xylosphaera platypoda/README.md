@@ -1,5 +1,4 @@
-Xylosphaera platypoda var. platypoda VARIETY
-=======
+# Xylosphaera platypoda (Lév.) Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Kew Bull. 13(1): 105 (1958)
 
 #### Original name
-Xylosphaera platypoda var. platypoda
+Cordyceps platypoda Lév.
 
 ### Remarks
 null

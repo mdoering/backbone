@@ -1,5 +1,4 @@
-Sphaeria opuli Fr. SPECIES
-=======
+# Sphaeria opuli Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella hieracii Jaap SPECIES
-=======
+# Cercosporella hieracii Jaap SPECIES
 
 #### Status
 ACCEPTED

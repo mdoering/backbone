@@ -1,5 +1,4 @@
-Uredo harunganae (Cummins) Ritschel SPECIES
-=======
+# Uredo harunganae (Cummins) Ritschel SPECIES
 
 #### Status
 ACCEPTED

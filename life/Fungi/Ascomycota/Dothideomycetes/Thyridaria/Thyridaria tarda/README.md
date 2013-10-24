@@ -1,5 +1,4 @@
-Thyridaria tarda C.K. Bancr. SPECIES
-=======
+# Thyridaria tarda C.K. Bancr. SPECIES
 
 #### Status
 ACCEPTED

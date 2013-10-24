@@ -1,5 +1,4 @@
-Sclerotium oxyriae Rostr. SPECIES
-=======
+# Sclerotium oxyriae Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wettsteinina salicicola Nograsek SPECIES
-=======
+# Wettsteinina salicicola Nograsek SPECIES
 
 #### Status
 ACCEPTED

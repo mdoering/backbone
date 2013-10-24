@@ -1,5 +1,4 @@
-Pseudokarschia GENUS
-=======
+# Pseudokarschia GENUS
 
 #### Status
 ACCEPTED

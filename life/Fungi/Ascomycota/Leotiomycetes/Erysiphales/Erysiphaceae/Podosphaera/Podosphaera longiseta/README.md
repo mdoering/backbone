@@ -1,5 +1,4 @@
-Podosphaera longiseta Sawada SPECIES
-=======
+# Podosphaera longiseta Sawada SPECIES
 
 #### Status
 ACCEPTED

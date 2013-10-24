@@ -1,5 +1,4 @@
-Zignoëlla sequanica Sacc. & Malbr. SPECIES
-=======
+# Zignoëlla sequanica Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

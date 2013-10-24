@@ -1,5 +1,4 @@
-Agaricus aestivus Pers. SPECIES
-=======
+# Agaricus aestivus Pers. SPECIES
 
 #### Status
 ACCEPTED

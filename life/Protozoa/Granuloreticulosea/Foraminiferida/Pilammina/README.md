@@ -1,5 +1,4 @@
-Pilammina Pantic, 1965 GENUS
-=======
+# Pilammina Pantic, 1965 GENUS
 
 #### Status
 ACCEPTED

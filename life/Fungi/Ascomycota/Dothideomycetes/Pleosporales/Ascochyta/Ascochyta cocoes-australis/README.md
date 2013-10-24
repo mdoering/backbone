@@ -1,5 +1,4 @@
-Ascochyta cocoes-australis Punith. SPECIES
-=======
+# Ascochyta cocoes-australis Punith. SPECIES
 
 #### Status
 ACCEPTED

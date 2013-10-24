@@ -1,5 +1,4 @@
-Macowanites americanus Singer & A.H. Sm. SPECIES
-=======
+# Macowanites americanus Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

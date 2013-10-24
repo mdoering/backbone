@@ -1,5 +1,4 @@
-Cercospora acalyphae Peck, 1883 SPECIES
-=======
+# Cercospora acalyphae Peck, 1883 SPECIES
 
 #### Status
 ACCEPTED

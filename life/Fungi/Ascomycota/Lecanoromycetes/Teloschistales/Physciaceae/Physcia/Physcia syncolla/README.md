@@ -1,5 +1,4 @@
-Physcia syncolla SPECIES
-=======
+# Physcia syncolla SPECIES
 
 #### Status
 ACCEPTED

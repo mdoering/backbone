@@ -1,5 +1,4 @@
-Heterodesmus H. Ettl, 1956 GENUS
-=======
+# Heterodesmus H. Ettl, 1956 GENUS
 
 #### Status
 ACCEPTED

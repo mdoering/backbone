@@ -1,5 +1,4 @@
-Achaetomium thermophilum M. Basu, 1982 SPECIES
-=======
+# Achaetomium thermophilum M. Basu, 1982 SPECIES
 
 #### Status
 ACCEPTED

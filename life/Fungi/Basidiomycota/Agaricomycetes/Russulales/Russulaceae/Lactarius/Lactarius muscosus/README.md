@@ -1,5 +1,4 @@
-Lactarius muscosus Velen. SPECIES
-=======
+# Lactarius muscosus Velen. SPECIES
 
 #### Status
 ACCEPTED

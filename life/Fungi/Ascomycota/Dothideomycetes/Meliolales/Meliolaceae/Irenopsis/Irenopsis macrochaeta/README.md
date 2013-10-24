@@ -1,5 +1,4 @@
-Irenopsis macrochaeta (Syd.) F. Stevens SPECIES
-=======
+# Irenopsis macrochaeta (Syd.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

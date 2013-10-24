@@ -1,5 +1,4 @@
-Propoliopsis Rehm GENUS
-=======
+# Propoliopsis Rehm GENUS
 
 #### Status
 ACCEPTED

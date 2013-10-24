@@ -1,5 +1,4 @@
-Verticillium rufum (Schwabe) Rabenh. SPECIES
-=======
+# Verticillium rufum (Schwabe) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

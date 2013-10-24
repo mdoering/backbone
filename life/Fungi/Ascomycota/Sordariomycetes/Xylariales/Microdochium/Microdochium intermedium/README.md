@@ -1,5 +1,4 @@
-Microdochium intermedium (Matsush.) de Hoog & Herm.-Nijh. SPECIES
-=======
+# Microdochium intermedium (Matsush.) de Hoog & Herm.-Nijh. SPECIES
 
 #### Status
 ACCEPTED

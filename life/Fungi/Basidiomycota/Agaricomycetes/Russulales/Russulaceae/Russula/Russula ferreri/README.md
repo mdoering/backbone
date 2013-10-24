@@ -1,5 +1,4 @@
-Russula ferreri var. ferreri VARIETY
-=======
+# Russula ferreri Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 1: 284 (1936)
 
 #### Original name
-Russula ferreri var. ferreri
+Russula ferreri Singer
 
 ### Remarks
 null

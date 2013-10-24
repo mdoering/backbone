@@ -1,5 +1,4 @@
-Fusarium biforme Sherb. SPECIES
-=======
+# Fusarium biforme Sherb. SPECIES
 
 #### Status
 ACCEPTED

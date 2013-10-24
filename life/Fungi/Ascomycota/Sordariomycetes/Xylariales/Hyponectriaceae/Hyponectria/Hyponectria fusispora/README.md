@@ -1,5 +1,4 @@
-Hyponectria fusispora M.E. Barr SPECIES
-=======
+# Hyponectria fusispora M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

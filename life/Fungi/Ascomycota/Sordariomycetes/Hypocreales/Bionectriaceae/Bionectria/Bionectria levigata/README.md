@@ -1,5 +1,4 @@
-Bionectria levigata Schroers SPECIES
-=======
+# Bionectria levigata Schroers SPECIES
 
 #### Status
 ACCEPTED

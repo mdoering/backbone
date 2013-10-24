@@ -1,5 +1,4 @@
-Byssostilbe tomentosa Petch SPECIES
-=======
+# Byssostilbe tomentosa Petch SPECIES
 
 #### Status
 ACCEPTED

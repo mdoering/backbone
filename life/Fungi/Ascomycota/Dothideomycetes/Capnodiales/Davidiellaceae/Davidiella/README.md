@@ -1,5 +1,4 @@
-Davidiella Crous & U. Braun, 2003 GENUS
-=======
+# Davidiella Crous & U. Braun, 2003 GENUS
 
 #### Status
 ACCEPTED

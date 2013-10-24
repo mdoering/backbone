@@ -1,14 +1,13 @@
-Chamaeceras exocarpi (Berk.) Kuntze, 1898 SPECIES
-=======
+# Marasmius exocarpi Berk., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 456 (1898)
+J. Linn. Soc. , Bot. 18: 384 (1881)
 
 #### Original name
 Marasmius exocarpi Berk., 1881

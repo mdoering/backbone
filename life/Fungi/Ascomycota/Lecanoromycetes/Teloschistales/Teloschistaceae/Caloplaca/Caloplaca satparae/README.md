@@ -1,5 +1,4 @@
-Caloplaca satparae Poelt & Hinter. SPECIES
-=======
+# Caloplaca satparae Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

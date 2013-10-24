@@ -1,5 +1,4 @@
-Pseudallescheria shearii Negroni & I. Fisch., 1944 SPECIES
-=======
+# Pseudallescheria shearii Negroni & I. Fisch., 1944 SPECIES
 
 #### Status
 ACCEPTED

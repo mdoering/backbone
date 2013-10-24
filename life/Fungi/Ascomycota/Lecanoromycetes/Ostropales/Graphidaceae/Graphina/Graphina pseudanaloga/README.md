@@ -1,5 +1,4 @@
-Graphina pseudanaloga (Vain.) Zahlbr. SPECIES
-=======
+# Graphina pseudanaloga (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

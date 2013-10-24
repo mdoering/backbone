@@ -1,5 +1,4 @@
-Pertusaria xanthothelia Müll. Arg. SPECIES
-=======
+# Pertusaria xanthothelia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

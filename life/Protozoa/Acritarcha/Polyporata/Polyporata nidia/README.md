@@ -1,5 +1,4 @@
-Polyporata nidia Pykhova, 1966 SPECIES
-=======
+# Polyporata nidia Pykhova, 1966 SPECIES
 
 #### Status
 ACCEPTED

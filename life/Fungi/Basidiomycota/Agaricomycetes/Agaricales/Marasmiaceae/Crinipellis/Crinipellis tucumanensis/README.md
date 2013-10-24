@@ -1,5 +1,4 @@
-Crinipellis tucumanensis Singer SPECIES
-=======
+# Crinipellis tucumanensis Singer SPECIES
 
 #### Status
 ACCEPTED

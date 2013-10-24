@@ -1,5 +1,4 @@
-Septoria pastinacina Sacc. SPECIES
-=======
+# Septoria pastinacina Sacc. SPECIES
 
 #### Status
 ACCEPTED

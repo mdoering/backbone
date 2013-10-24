@@ -1,5 +1,4 @@
-Oidium sonchi-arvensis Sawada SPECIES
-=======
+# Oidium sonchi-arvensis Sawada SPECIES
 
 #### Status
 ACCEPTED

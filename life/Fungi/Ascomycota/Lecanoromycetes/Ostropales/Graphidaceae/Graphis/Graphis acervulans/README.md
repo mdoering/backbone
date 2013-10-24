@@ -1,5 +1,4 @@
-Graphis acervulans Fée SPECIES
-=======
+# Graphis acervulans Fée SPECIES
 
 #### Status
 ACCEPTED

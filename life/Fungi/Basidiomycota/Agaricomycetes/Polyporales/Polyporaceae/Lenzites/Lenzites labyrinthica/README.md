@@ -1,5 +1,4 @@
-Lenzites labyrinthica Quél. SPECIES
-=======
+# Lenzites labyrinthica Quél. SPECIES
 
 #### Status
 ACCEPTED

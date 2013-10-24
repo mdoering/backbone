@@ -1,5 +1,4 @@
-Cylindrosporium quercus Sorokin SPECIES
-=======
+# Cylindrosporium quercus Sorokin SPECIES
 
 #### Status
 ACCEPTED

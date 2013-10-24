@@ -1,5 +1,4 @@
-Hypochnus basicola Rostr. SPECIES
-=======
+# Hypochnus basicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

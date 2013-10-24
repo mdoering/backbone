@@ -1,17 +1,16 @@
-Phyllachora bambusae var. ochlandrae Hosag. VARIETY
-=======
+# Phyllachora bambusae (Rabenh.) Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. bot. Surv. India 35(1-4): 118 (1993)
+Grevillea 13(no. 67): 68 (1885)
 
 #### Original name
-Phyllachora bambusae var. ochlandrae Hosag.
+Sphaeria bambusae Rabenh., 1876
 
 ### Remarks
 null

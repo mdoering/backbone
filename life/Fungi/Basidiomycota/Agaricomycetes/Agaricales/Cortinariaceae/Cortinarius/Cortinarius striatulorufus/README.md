@@ -1,5 +1,4 @@
-Cortinarius striatulorufus Moënne-Locc. SPECIES
-=======
+# Cortinarius striatulorufus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

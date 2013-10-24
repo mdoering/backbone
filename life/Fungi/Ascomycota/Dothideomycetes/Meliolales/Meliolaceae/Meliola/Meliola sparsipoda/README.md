@@ -1,5 +1,4 @@
-Meliola sparsipoda var. sparsipoda VARIETY
-=======
+# Meliola sparsipoda Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia (1955)
+Sydowia 9(1-6): 24 (1955)
 
 #### Original name
-Meliola sparsipoda var. sparsipoda
+Meliola sparsipoda Hansf.
 
 ### Remarks
 null

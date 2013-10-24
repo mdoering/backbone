@@ -1,5 +1,4 @@
-Phlyctema orthospora Berk. & M.A. Curtis SPECIES
-=======
+# Phlyctema orthospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

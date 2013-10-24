@@ -1,5 +1,4 @@
-Strobilomyces polypyramis J.M. Hook SPECIES
-=======
+# Strobilomyces polypyramis J.M. Hook SPECIES
 
 #### Status
 ACCEPTED

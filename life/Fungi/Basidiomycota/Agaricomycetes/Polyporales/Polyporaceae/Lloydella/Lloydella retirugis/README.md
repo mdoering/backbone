@@ -1,5 +1,4 @@
-Lloydella retirugis (Cooke) Rick SPECIES
-=======
+# Lloydella retirugis (Cooke) Rick SPECIES
 
 #### Status
 ACCEPTED

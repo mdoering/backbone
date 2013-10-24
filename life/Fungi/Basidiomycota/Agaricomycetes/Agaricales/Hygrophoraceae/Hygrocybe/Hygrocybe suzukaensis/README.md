@@ -1,5 +1,4 @@
-Hygrocybe suzukaensis (Hongo) Hongo SPECIES
-=======
+# Hygrocybe suzukaensis (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

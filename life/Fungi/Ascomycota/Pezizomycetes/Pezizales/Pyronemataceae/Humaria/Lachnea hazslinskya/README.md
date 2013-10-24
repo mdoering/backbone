@@ -1,5 +1,4 @@
-Lachnea hazslinskya (Cooke) Sacc. SPECIES
-=======
+# Lachnea hazslinskya (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

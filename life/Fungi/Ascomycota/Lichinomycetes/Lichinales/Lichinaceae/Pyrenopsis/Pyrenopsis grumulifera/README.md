@@ -1,17 +1,16 @@
-Pyrenopsis multispora Coppins SPECIES
-=======
+# Pyrenopsis grumulifera Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gilbert, Coppins & Fox, Lichenologist 20(3): 239 (1988)
+Lich. Scand. (Uppsala) 26 (1861)
 
 #### Original name
-Pyrenopsis multispora Coppins
+Pyrenopsis grumulifera Nyl.
 
 ### Remarks
 null

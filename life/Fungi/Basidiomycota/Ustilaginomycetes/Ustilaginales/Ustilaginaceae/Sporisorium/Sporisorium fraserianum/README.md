@@ -1,14 +1,13 @@
-Sorosporium fraserianum Syd., 1937 SPECIES
-=======
+# Sporisorium fraserianum (Syd.) Vánky, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 35: 25 (1937)
+Mycotaxon 78: 308 (2001)
 
 #### Original name
 Sorosporium fraserianum Syd., 1937

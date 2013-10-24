@@ -1,5 +1,4 @@
-Buellia langloisii Imshaug SPECIES
-=======
+# Buellia langloisii Imshaug SPECIES
 
 #### Status
 ACCEPTED

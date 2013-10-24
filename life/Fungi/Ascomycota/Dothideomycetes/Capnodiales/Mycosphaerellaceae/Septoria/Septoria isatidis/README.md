@@ -1,5 +1,4 @@
-Septoria isatidis Savul. & Sandu SPECIES
-=======
+# Septoria isatidis Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

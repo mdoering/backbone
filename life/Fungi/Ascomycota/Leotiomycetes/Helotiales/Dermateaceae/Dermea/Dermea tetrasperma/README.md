@@ -1,5 +1,4 @@
-Dermea tetrasperma A. Funk SPECIES
-=======
+# Dermea tetrasperma A. Funk SPECIES
 
 #### Status
 ACCEPTED

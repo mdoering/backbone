@@ -1,5 +1,4 @@
-Chaetomium variostiolatum A. Carter, 1983 SPECIES
-=======
+# Chaetomium variostiolatum A. Carter, 1983 SPECIES
 
 #### Status
 ACCEPTED

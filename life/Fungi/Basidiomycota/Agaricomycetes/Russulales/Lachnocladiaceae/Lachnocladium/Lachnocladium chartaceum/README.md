@@ -1,5 +1,4 @@
-Lachnocladium chartaceum Pat. SPECIES
-=======
+# Lachnocladium chartaceum Pat. SPECIES
 
 #### Status
 ACCEPTED

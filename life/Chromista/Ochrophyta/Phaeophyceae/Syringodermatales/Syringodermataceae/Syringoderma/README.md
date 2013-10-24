@@ -1,5 +1,4 @@
-Syringoderma Levring, 1940 GENUS
-=======
+# Syringoderma Levring, 1940 GENUS
 
 #### Status
 ACCEPTED

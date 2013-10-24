@@ -1,5 +1,4 @@
-Neosporidesmium sinensis W.P. Wu SPECIES
-=======
+# Neosporidesmium sinensis W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

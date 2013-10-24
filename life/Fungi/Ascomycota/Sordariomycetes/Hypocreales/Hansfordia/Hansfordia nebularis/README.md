@@ -1,5 +1,4 @@
-Hansfordia nebularis (Cooke & Ellis) M.B. Ellis SPECIES
-=======
+# Hansfordia nebularis (Cooke & Ellis) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

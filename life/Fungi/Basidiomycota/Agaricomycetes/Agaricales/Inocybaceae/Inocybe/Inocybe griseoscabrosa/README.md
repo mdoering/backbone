@@ -1,5 +1,4 @@
-Inocybe griseoscabrosa (Peck) Earle SPECIES
-=======
+# Inocybe griseoscabrosa (Peck) Earle SPECIES
 
 #### Status
 ACCEPTED

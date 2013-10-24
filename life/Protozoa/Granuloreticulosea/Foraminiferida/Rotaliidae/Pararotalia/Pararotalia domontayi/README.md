@@ -1,5 +1,4 @@
-Pararotalia domontayi McCulloch, 1977 SPECIES
-=======
+# Pararotalia domontayi McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

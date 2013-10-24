@@ -1,5 +1,4 @@
-Brucella Meyer & Shaw, 1920 GENUS
-=======
+# Brucella Meyer & Shaw, 1920 GENUS
 
 #### Status
 ACCEPTED

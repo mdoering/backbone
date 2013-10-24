@@ -1,5 +1,4 @@
-Ordovicidium gracile Colbath, 1979 SPECIES
-=======
+# Ordovicidium gracile Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Spilomium Nyl. GENUS
-=======
+# Sclerococcum Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. natn. Sci. nat. math. Cherbourg 5: 91 (1858)
+Syst. orb. veg. (Lundae) 1: 172 (1825)
 
 #### Original name
-Spilomium Nyl.
+Sclerococcum Fr.
 
 ### Remarks
 null

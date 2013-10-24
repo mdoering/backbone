@@ -1,17 +1,16 @@
-Mydonotrichum Corda GENUS
-=======
+# Helminthosporium Link, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(12): 37 (1831)
+null
 
 #### Original name
-Mydonotrichum Corda
+null
 
 ### Remarks
 null

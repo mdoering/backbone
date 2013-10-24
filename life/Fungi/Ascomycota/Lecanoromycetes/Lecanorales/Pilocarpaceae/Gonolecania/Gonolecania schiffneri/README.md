@@ -1,5 +1,4 @@
-Gonolecania schiffneri Zahlbr. SPECIES
-=======
+# Gonolecania schiffneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

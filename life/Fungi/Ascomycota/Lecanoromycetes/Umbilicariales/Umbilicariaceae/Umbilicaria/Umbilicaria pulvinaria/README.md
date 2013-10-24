@@ -1,5 +1,4 @@
-Umbilicaria pulvinaria (Savicz) Frey SPECIES
-=======
+# Umbilicaria pulvinaria (Savicz) Frey SPECIES
 
 #### Status
 ACCEPTED

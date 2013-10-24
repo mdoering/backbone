@@ -1,5 +1,4 @@
-Scolecopeltidium transiens (Höhn.) Bat. SPECIES
-=======
+# Scolecopeltidium transiens (Höhn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

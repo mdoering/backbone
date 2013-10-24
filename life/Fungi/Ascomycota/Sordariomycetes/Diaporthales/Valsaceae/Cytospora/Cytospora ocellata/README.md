@@ -1,5 +1,4 @@
-Cytospora ocellata Fuckel SPECIES
-=======
+# Cytospora ocellata Fuckel SPECIES
 
 #### Status
 ACCEPTED

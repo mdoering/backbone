@@ -1,17 +1,16 @@
-Pseudopithyella minuscula var. minuscula (Boud. & Torrend) Seaver VARIETY
-=======
+# Pseudopithyella minuscula (Boud. & Torrend) Seaver, 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+North American Cup-fungi (New York), (Operculates) 153 (1928)
 
 #### Original name
-Pseudopithyella minuscula var. minuscula (Boud. & Torrend) Seaver
+Sarcoscypha minuscula Boud. & Torrend, 1911
 
 ### Remarks
 null

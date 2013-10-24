@@ -1,5 +1,4 @@
-Calicium pinastri Tibell SPECIES
-=======
+# Calicium pinastri Tibell SPECIES
 
 #### Status
 ACCEPTED

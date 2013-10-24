@@ -1,5 +1,4 @@
-Schizotorulopsis bussei Cif. SPECIES
-=======
+# Schizotorulopsis bussei Cif. SPECIES
 
 #### Status
 ACCEPTED

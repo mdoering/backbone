@@ -1,5 +1,4 @@
-Opegrapha reinkellae Follmann SPECIES
-=======
+# Opegrapha reinkellae Follmann SPECIES
 
 #### Status
 ACCEPTED

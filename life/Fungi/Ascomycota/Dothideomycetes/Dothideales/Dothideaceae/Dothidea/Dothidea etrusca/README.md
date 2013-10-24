@@ -1,5 +1,4 @@
-Dothidea etrusca De Not. SPECIES
-=======
+# Dothidea etrusca De Not. SPECIES
 
 #### Status
 ACCEPTED

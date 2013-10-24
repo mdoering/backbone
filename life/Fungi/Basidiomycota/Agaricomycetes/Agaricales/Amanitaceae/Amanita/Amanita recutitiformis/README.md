@@ -1,5 +1,4 @@
-Amanita recutitiformis (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Amanita recutitiformis (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

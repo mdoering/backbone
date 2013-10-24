@@ -1,5 +1,4 @@
-Caeoma epilobii (DC.) Link SPECIES
-=======
+# Caeoma epilobii (DC.) Link SPECIES
 
 #### Status
 ACCEPTED

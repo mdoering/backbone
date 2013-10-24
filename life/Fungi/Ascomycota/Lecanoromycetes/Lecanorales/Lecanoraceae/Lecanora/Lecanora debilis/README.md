@@ -1,5 +1,4 @@
-Lecanora debilis Motyka SPECIES
-=======
+# Lecanora debilis Motyka SPECIES
 
 #### Status
 ACCEPTED

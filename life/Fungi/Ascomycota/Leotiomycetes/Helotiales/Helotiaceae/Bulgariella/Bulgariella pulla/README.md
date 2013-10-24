@@ -1,17 +1,16 @@
-Bulgariella pulla var. pulla VARIETY
-=======
+# Bulgariella pulla (Fr.) P. Karst., 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Acta Soc. Fauna Flora fenn. 2(6): 142 (1885)
 
 #### Original name
-Bulgariella pulla var. pulla
+Bulgaria pulla Fr., 1849
 
 ### Remarks
 null

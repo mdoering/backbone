@@ -1,5 +1,4 @@
-Pseudocercosporella solenanthi (Vasyag.) U. Braun SPECIES
-=======
+# Pseudocercosporella solenanthi (Vasyag.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

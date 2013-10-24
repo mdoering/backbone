@@ -1,5 +1,4 @@
-Myriospora lapponica (Ach.) Hue SPECIES
-=======
+# Myriospora lapponica (Ach.) Hue SPECIES
 
 #### Status
 ACCEPTED

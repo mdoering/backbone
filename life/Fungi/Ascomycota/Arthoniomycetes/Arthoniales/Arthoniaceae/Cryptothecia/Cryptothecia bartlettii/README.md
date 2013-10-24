@@ -1,5 +1,4 @@
-Cryptothecia bartlettii G. Thor SPECIES
-=======
+# Cryptothecia bartlettii G. Thor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium methylpentosum Himelbloom & Canale-Parola, 1989 SPECIES
-=======
+# Clostridium methylpentosum Himelbloom & Canale-Parola, 1989 SPECIES
 
 #### Status
 ACCEPTED

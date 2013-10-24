@@ -1,5 +1,4 @@
-Grosmannia vesca (R.W. Davidson) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
-=======
+# Grosmannia vesca (R.W. Davidson) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

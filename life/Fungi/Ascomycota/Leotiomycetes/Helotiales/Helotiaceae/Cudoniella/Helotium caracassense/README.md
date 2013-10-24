@@ -1,5 +1,4 @@
-Helotium caracassense Dennis SPECIES
-=======
+# Helotium caracassense Dennis SPECIES
 
 #### Status
 ACCEPTED

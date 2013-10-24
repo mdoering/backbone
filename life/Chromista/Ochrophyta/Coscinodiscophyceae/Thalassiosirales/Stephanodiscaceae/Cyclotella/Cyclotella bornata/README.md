@@ -1,5 +1,4 @@
-Cyclotella bornata (Skvortsov) Flower SPECIES
-=======
+# Cyclotella bornata (Skvortsov) Flower SPECIES
 
 #### Status
 ACCEPTED

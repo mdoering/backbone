@@ -1,5 +1,4 @@
-Hypoxylon microstictum (Mont.) Mont. SPECIES
-=======
+# Hypoxylon microstictum (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

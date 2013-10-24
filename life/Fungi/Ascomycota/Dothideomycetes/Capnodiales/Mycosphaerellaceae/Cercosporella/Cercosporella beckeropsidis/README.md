@@ -1,5 +1,4 @@
-Cercosporella beckeropsidis Hansf. SPECIES
-=======
+# Cercosporella beckeropsidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

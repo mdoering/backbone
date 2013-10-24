@@ -1,5 +1,4 @@
-Hebeloma subcollariatum (Berk. & Broome) Sacc. SPECIES
-=======
+# Hebeloma subcollariatum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

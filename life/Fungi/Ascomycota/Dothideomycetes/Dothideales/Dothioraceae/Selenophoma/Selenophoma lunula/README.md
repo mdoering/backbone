@@ -1,5 +1,4 @@
-Selenophoma lunula (Höhn.) Petr. SPECIES
-=======
+# Selenophoma lunula (Höhn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

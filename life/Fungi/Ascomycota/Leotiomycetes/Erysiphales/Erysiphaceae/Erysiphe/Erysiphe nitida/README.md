@@ -1,5 +1,4 @@
-Erysiphe nitida (Wallr.) Rabenh. SPECIES
-=======
+# Erysiphe nitida (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

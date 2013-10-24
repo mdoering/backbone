@@ -1,11 +1,10 @@
-Enteridium splendens var. jurana (Meyl.) Harkonen VARIETY
-=======
+# Reticularia splendens Morgan, 1893 SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

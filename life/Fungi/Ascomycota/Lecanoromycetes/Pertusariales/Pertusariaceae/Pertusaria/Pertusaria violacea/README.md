@@ -1,5 +1,4 @@
-Pertusaria violacea Oshio SPECIES
-=======
+# Pertusaria violacea Oshio SPECIES
 
 #### Status
 ACCEPTED

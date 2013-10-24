@@ -1,5 +1,4 @@
-Athelia subovata Jülich & Hjortstam, 1971 SPECIES
-=======
+# Athelia subovata Jülich & Hjortstam, 1971 SPECIES
 
 #### Status
 ACCEPTED

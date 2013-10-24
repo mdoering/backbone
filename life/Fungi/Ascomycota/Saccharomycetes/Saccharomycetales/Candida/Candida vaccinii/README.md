@@ -1,5 +1,4 @@
-Candida vaccinii Tokuoka, Ishit., Goto & Komag., 1987 SPECIES
-=======
+# Candida vaccinii Tokuoka, Ishit., Goto & Komag., 1987 SPECIES
 
 #### Status
 ACCEPTED

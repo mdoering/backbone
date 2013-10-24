@@ -1,5 +1,4 @@
-Sporormia insignis Niessl SPECIES
-=======
+# Sporormia insignis Niessl SPECIES
 
 #### Status
 ACCEPTED

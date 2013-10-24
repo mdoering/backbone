@@ -1,5 +1,4 @@
-Alocospora J.C. Krug GENUS
-=======
+# Alocospora J.C. Krug GENUS
 
 #### Status
 ACCEPTED

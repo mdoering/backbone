@@ -1,5 +1,4 @@
-Hendersonia lagenaria Sacc. SPECIES
-=======
+# Hendersonia lagenaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fibulostilbum Seifert & Oberw. GENUS
-=======
+# Fibulostilbum Seifert & Oberw. GENUS
 
 #### Status
 ACCEPTED

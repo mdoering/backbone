@@ -1,5 +1,4 @@
-Septonema pini-densiflorae Sawada SPECIES
-=======
+# Septonema pini-densiflorae Sawada SPECIES
 
 #### Status
 ACCEPTED

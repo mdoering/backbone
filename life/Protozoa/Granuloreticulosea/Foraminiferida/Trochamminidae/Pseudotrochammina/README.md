@@ -1,14 +1,13 @@
-Ammoglobigerinoides Frerichs, 1969 GENUS
-=======
+# Pseudotrochammina Frerichs, 1969 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Paleont. Contr. Pap. Univ. Kans. 46: 1.
 
 #### Original name
 null

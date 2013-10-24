@@ -1,5 +1,4 @@
-Actinomyces hordeovulneris Buchanan et al., 1984 SPECIES
-=======
+# Actinomyces hordeovulneris Buchanan et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

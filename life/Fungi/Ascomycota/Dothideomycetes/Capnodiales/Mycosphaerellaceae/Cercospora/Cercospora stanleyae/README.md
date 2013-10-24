@@ -1,5 +1,4 @@
-Cercospora stanleyae Chupp ex U. Braun & Crous SPECIES
-=======
+# Cercospora stanleyae Chupp ex U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

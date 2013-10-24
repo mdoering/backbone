@@ -1,5 +1,4 @@
-Stilbum compressum Berk. & Broome SPECIES
-=======
+# Stilbum compressum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

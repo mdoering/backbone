@@ -1,14 +1,13 @@
-Entoloma nubigenus (Singer) Garrido SPECIES
-=======
+# Entoloma nubigenum (Singer) Garrido, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 99: 98 (1985)
 
 #### Original name
 Rhodophyllus nubigenus Singer, 1969

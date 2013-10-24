@@ -1,5 +1,4 @@
-Gaudryina triquetra SPECIES
-=======
+# Gaudryina triquetra SPECIES
 
 #### Status
 ACCEPTED

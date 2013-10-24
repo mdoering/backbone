@@ -1,5 +1,4 @@
-Alternaria iridis Cooke & Ellis SPECIES
-=======
+# Alternaria iridis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas taigicola f. subpunctata Safonowa FORM
-=======
+# Trachelomonas taigicola Safonowa SPECIES
 
 #### Status
 ACCEPTED

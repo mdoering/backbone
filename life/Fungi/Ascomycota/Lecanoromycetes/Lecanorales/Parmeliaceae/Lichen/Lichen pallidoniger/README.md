@@ -1,5 +1,4 @@
-Lichen pallidoniger (Ach.) Thunb. SPECIES
-=======
+# Lichen pallidoniger (Ach.) Thunb. SPECIES
 
 #### Status
 ACCEPTED

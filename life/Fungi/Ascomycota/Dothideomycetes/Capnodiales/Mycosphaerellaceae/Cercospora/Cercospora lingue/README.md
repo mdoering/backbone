@@ -1,5 +1,4 @@
-Cercospora lingue Speg. SPECIES
-=======
+# Cercospora lingue Speg. SPECIES
 
 #### Status
 ACCEPTED

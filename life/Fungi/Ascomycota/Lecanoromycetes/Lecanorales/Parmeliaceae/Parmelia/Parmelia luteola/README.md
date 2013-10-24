@@ -1,5 +1,4 @@
-Parmelia luteola Zahlbr. SPECIES
-=======
+# Parmelia luteola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

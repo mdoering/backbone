@@ -1,5 +1,4 @@
-Bovicornua intricata Jørg. Koch & E.B.G. Jones, 1993 SPECIES
-=======
+# Bovicornua intricata Jørg. Koch & E.B.G. Jones, 1993 SPECIES
 
 #### Status
 ACCEPTED

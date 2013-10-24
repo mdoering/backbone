@@ -1,5 +1,4 @@
-Ionaspis spitsbergensis H. Magn. SPECIES
-=======
+# Ionaspis spitsbergensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glugea punctifera Thélohan, 1895 SPECIES
-=======
+# Glugea punctifera Thélohan, 1895 SPECIES
 
 #### Status
 ACCEPTED

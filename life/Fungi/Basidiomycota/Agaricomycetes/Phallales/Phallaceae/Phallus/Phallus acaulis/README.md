@@ -1,5 +1,4 @@
-Phallus acaulis Batsch SPECIES
-=======
+# Phallus acaulis Batsch SPECIES
 
 #### Status
 ACCEPTED

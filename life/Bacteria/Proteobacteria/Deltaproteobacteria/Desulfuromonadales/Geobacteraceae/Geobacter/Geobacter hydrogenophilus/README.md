@@ -1,5 +1,4 @@
-Geobacter hydrogenophilus Coates et al., 2001 SPECIES
-=======
+# Geobacter hydrogenophilus Coates et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

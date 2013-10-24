@@ -1,5 +1,4 @@
-Schenella microspora G.W. Martin, 1962 SPECIES
-=======
+# Schenella microspora G.W. Martin, 1962 SPECIES
 
 #### Status
 ACCEPTED

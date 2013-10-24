@@ -1,5 +1,4 @@
-Collybia subconfluens Henn. SPECIES
-=======
+# Collybia subconfluens Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoderma brocianum Pinoy SPECIES
-=======
+# Mycoderma brocianum Pinoy SPECIES
 
 #### Status
 ACCEPTED

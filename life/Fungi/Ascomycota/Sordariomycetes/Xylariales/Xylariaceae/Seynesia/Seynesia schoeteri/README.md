@@ -1,5 +1,4 @@
-Seynesia schoeteri Rehm SPECIES
-=======
+# Seynesia schoeteri Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Articulospora angulata f. angulata FORM
-=======
+# Hymenoscyphus tetracladius Abdullah, Descals & J. Webster, 1981 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, N. S. 3: 252 (1957)
+Trans. Br. mycol. Soc. 77(3): 477 (1981)
 
 #### Original name
-Articulospora angulata f. angulata
+Hymenoscyphus tetracladius Abdullah, Descals & J. Webster, 1981
 
 ### Remarks
 null

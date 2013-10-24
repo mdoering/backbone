@@ -1,17 +1,16 @@
-Humaria oocardii var. stadleri Ade VARIETY
-=======
+# Pachyella babingtonii (Berk.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hist. Class. Discom. Eur. (Paris) 51 (1907)
 
 #### Original name
-Humaria oocardii var. stadleri Ade
+Peziza babingtonii Berk., 1860
 
 ### Remarks
 null

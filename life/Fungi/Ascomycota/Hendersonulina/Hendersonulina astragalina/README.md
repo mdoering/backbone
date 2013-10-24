@@ -1,14 +1,13 @@
-Pseudodiplodia astragalina (Petr.) Petr., 1953 SPECIES
-=======
+# Hendersonulina astragalina (Petr.) Petr., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 7(5-6): 305 (1953)
+Sydowia 5: 421 (1951)
 
 #### Original name
 Rhabdospora astragalina Petr.

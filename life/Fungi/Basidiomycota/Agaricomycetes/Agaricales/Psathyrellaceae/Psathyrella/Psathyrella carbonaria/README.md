@@ -1,5 +1,4 @@
-Psathyrella carbonaria Velen. SPECIES
-=======
+# Psathyrella carbonaria Velen. SPECIES
 
 #### Status
 ACCEPTED

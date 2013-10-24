@@ -1,5 +1,4 @@
-Actinoalloteichus cyanogriseus Tamura et al., 2000 SPECIES
-=======
+# Actinoalloteichus cyanogriseus Tamura et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

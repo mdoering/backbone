@@ -1,5 +1,4 @@
-Spicaria stricta Petch SPECIES
-=======
+# Spicaria stricta Petch SPECIES
 
 #### Status
 ACCEPTED

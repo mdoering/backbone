@@ -1,5 +1,4 @@
-Phlegmacium lustratum (Fr.) M.M. Moser SPECIES
-=======
+# Phlegmacium lustratum (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

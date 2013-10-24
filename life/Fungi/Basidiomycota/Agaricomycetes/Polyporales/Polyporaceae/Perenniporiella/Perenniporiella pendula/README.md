@@ -1,5 +1,4 @@
-Perenniporiella pendula Decock & Ryvarden, 2003 SPECIES
-=======
+# Perenniporiella pendula Decock & Ryvarden, 2003 SPECIES
 
 #### Status
 ACCEPTED

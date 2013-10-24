@@ -1,5 +1,4 @@
-Collema majuscula Zahlbr. SPECIES
-=======
+# Collema majuscula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

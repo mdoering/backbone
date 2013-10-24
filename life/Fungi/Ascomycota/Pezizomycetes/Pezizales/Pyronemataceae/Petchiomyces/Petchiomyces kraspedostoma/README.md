@@ -1,5 +1,4 @@
-Petchiomyces kraspedostoma Gilkey SPECIES
-=======
+# Petchiomyces kraspedostoma Gilkey SPECIES
 
 #### Status
 ACCEPTED

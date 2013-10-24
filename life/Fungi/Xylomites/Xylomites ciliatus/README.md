@@ -1,5 +1,4 @@
-Xylomites ciliatus Göpp. SPECIES
-=======
+# Xylomites ciliatus Göpp. SPECIES
 
 #### Status
 ACCEPTED

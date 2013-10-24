@@ -1,5 +1,4 @@
-Phanerochaete laxa Sheng H. Wu SPECIES
-=======
+# Phanerochaete laxa Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

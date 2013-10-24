@@ -1,5 +1,4 @@
-Macrophoma henriquesiana J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Macrophoma henriquesiana J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

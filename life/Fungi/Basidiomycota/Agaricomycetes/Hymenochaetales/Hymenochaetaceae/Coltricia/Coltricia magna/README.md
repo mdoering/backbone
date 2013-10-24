@@ -1,5 +1,4 @@
-Coltricia magna Corner SPECIES
-=======
+# Coltricia magna Corner SPECIES
 
 #### Status
 ACCEPTED

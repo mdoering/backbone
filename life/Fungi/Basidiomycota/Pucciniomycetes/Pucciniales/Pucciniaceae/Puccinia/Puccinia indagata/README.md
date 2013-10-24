@@ -1,5 +1,4 @@
-Puccinia indagata H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia indagata H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

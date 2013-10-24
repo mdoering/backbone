@@ -1,5 +1,4 @@
-Deefgea Stackebrandt, Lang, Cousin, Pauker, Brambilla, Kroppenstedt & Lunsdorf, 2007 GENUS
-=======
+# Deefgea Stackebrandt, Lang, Cousin, Pauker, Brambilla, Kroppenstedt & Lunsdorf, 2007 GENUS
 
 #### Status
 ACCEPTED

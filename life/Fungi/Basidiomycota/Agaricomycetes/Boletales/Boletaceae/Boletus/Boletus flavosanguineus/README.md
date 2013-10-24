@@ -1,5 +1,4 @@
-Boletus flavosanguineus Lavorato & Simonini SPECIES
-=======
+# Boletus flavosanguineus Lavorato & Simonini SPECIES
 
 #### Status
 ACCEPTED

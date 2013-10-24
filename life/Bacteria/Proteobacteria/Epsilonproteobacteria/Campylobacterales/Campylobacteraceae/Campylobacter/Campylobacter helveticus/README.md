@@ -1,5 +1,4 @@
-Campylobacter helveticus Stanley et al., 1993 SPECIES
-=======
+# Campylobacter helveticus Stanley et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

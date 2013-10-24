@@ -1,5 +1,4 @@
-Marasmiellus stypinoides (Petch) Pegler SPECIES
-=======
+# Marasmiellus stypinoides (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe minuscula Sacc. & Speg., 1878 SPECIES
-=======
+# Diaporthe minuscula Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

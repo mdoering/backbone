@@ -1,5 +1,4 @@
-Macrosporium turbinatum (Cooke & Harkn.) Pound & Clem. SPECIES
-=======
+# Macrosporium turbinatum (Cooke & Harkn.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

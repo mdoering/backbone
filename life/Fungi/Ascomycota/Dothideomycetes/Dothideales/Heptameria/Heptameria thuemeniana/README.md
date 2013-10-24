@@ -1,5 +1,4 @@
-Heptameria thuemeniana (Niessl) Sacc. SPECIES
-=======
+# Heptameria thuemeniana (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

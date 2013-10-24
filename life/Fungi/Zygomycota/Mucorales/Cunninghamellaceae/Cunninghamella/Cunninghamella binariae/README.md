@@ -1,5 +1,4 @@
-Cunninghamella binariae R.Y. Zheng SPECIES
-=======
+# Cunninghamella binariae R.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

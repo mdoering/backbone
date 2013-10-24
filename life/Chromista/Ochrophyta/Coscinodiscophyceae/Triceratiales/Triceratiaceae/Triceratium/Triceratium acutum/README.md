@@ -1,5 +1,4 @@
-Triceratium acutum Ehrenberg, 1844 SPECIES
-=======
+# Triceratium acutum Ehrenberg, 1844 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora tridentis R. Sprague & Rogerson SPECIES
-=======
+# Stagonospora tridentis R. Sprague & Rogerson SPECIES
 
 #### Status
 ACCEPTED

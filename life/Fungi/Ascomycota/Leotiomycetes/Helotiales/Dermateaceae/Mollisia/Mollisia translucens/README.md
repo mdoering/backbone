@@ -1,5 +1,4 @@
-Mollisia translucens Gillet SPECIES
-=======
+# Mollisia translucens Gillet SPECIES
 
 #### Status
 ACCEPTED

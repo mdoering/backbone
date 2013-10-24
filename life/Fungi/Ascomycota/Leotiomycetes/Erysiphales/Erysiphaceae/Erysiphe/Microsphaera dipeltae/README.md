@@ -1,5 +1,4 @@
-Microsphaera dipeltae Y.N. Yu & Y.Q. Lai SPECIES
-=======
+# Microsphaera dipeltae Y.N. Yu & Y.Q. Lai SPECIES
 
 #### Status
 ACCEPTED

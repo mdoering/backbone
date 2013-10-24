@@ -1,5 +1,4 @@
-Frankiella viticola Speschnew SPECIES
-=======
+# Frankiella viticola Speschnew SPECIES
 
 #### Status
 ACCEPTED

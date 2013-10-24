@@ -1,5 +1,4 @@
-Pleospora phyteumatis Fuckel SPECIES
-=======
+# Pleospora phyteumatis Fuckel SPECIES
 
 #### Status
 ACCEPTED

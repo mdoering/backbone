@@ -1,5 +1,4 @@
-Pseudocercospora paramignyae (Thirum. & Chupp) Y.L. Guo SPECIES
-=======
+# Pseudocercospora paramignyae (Thirum. & Chupp) Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

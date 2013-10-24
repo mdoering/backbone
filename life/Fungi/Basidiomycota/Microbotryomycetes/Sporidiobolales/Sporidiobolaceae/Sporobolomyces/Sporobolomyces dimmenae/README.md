@@ -1,5 +1,4 @@
-Sporobolomyces dimmenae Hamam. & Nakase, 1995 SPECIES
-=======
+# Sporobolomyces dimmenae Hamam. & Nakase, 1995 SPECIES
 
 #### Status
 ACCEPTED

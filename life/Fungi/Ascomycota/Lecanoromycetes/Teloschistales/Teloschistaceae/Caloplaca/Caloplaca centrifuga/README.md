@@ -1,5 +1,4 @@
-Caloplaca centrifuga (A. Massal.) P. Cout. SPECIES
-=======
+# Caloplaca centrifuga (A. Massal.) P. Cout. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma invelatum (H.S. Jacks.) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma invelatum (H.S. Jacks.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

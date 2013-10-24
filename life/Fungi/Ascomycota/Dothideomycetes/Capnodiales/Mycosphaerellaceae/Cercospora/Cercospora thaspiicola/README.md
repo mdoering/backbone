@@ -1,5 +1,4 @@
-Cercospora thaspiicola Davis SPECIES
-=======
+# Cercospora thaspiicola Davis SPECIES
 
 #### Status
 ACCEPTED

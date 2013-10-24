@@ -1,5 +1,4 @@
-Dilophia punctata G. Winter SPECIES
-=======
+# Dilophia punctata G. Winter SPECIES
 
 #### Status
 ACCEPTED

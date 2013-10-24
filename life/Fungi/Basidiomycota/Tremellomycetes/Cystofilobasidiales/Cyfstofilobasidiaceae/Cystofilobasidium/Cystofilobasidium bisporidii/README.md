@@ -1,17 +1,16 @@
-Cystofilobasidium bisporidiis (Fell, I.L. Hunter & Tallman) Oberw. & Bandoni SPECIES
-=======
+# Cystofilobasidium bisporidii (Fell, I.L. Hunter & Tallman) Oberw. & Bandoni, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Oberwinkler, Bandoni, Blanz & Kisimova-Horovitz, Syst. Appl. Microbiol. 4(1): 118 (1983)
 
 #### Original name
-Rhodosporidium bisporidiis Fell, I.L. Hunter & Tallman
+Rhodosporidium bisporidii Fell, I.L. Hunter & Tallman, 1973
 
 ### Remarks
 null

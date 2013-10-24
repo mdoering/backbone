@@ -1,5 +1,4 @@
-Acetivibrio cellulosolvens Khan et al., 1984 SPECIES
-=======
+# Acetivibrio cellulosolvens Khan et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

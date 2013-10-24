@@ -1,5 +1,4 @@
-Psathyra persimplex (Britzelm.) Sacc. SPECIES
-=======
+# Psathyra persimplex (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

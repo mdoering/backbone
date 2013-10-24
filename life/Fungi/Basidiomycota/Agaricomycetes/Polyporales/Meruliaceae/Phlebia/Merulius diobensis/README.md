@@ -1,5 +1,4 @@
-Merulius diobensis Beeli SPECIES
-=======
+# Merulius diobensis Beeli SPECIES
 
 #### Status
 ACCEPTED

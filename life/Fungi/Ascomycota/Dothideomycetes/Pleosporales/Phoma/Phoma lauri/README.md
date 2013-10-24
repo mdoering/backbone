@@ -1,5 +1,4 @@
-Phoma lauri Pass. & Brunaud SPECIES
-=======
+# Phoma lauri Pass. & Brunaud SPECIES
 
 #### Status
 ACCEPTED

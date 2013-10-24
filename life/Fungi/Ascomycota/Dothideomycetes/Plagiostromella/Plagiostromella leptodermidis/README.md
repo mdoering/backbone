@@ -1,5 +1,4 @@
-Plagiostromella leptodermidis S.K. Bose & E. Müll., 1979 SPECIES
-=======
+# Plagiostromella leptodermidis S.K. Bose & E. Müll., 1979 SPECIES
 
 #### Status
 ACCEPTED

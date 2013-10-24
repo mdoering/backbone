@@ -1,5 +1,4 @@
-Synchytrium sesami S. Sinha & J.C.S. Gupta SPECIES
-=======
+# Synchytrium sesami S. Sinha & J.C.S. Gupta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella melanconioides Sacc. SPECIES
-=======
+# Aplosporella melanconioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

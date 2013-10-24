@@ -1,5 +1,4 @@
-Coniophorella GENUS
-=======
+# Coniophorella GENUS
 
 #### Status
 ACCEPTED

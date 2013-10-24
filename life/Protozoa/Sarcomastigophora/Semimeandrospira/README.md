@@ -1,5 +1,4 @@
-Semimeandrospira Urosevic, 1988 GENUS
-=======
+# Semimeandrospira Urosevic, 1988 GENUS
 
 #### Status
 ACCEPTED

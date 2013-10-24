@@ -1,5 +1,4 @@
-Marssonina radiosa (Fr.) Jørst. SPECIES
-=======
+# Marssonina radiosa (Fr.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

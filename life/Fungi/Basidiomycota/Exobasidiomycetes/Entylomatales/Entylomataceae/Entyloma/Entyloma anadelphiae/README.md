@@ -1,5 +1,4 @@
-Entyloma anadelphiae Vienn.-Bourg. SPECIES
-=======
+# Entyloma anadelphiae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

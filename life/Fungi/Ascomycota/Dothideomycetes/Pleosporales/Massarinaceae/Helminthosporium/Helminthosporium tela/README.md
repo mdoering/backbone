@@ -1,5 +1,4 @@
-Helminthosporium tela Corda SPECIES
-=======
+# Helminthosporium tela Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcographa regressa (Vain.) Zahlbr. SPECIES
-=======
+# Sarcographa regressa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

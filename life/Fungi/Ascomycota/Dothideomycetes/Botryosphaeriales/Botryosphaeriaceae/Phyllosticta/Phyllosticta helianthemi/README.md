@@ -1,5 +1,4 @@
-Phyllosticta helianthemi var. helianthemi VARIETY
-=======
+# Phyllosticta helianthemi Roum. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta helianthemi var. helianthemi
+Phyllosticta helianthemi Roum.
 
 ### Remarks
 null

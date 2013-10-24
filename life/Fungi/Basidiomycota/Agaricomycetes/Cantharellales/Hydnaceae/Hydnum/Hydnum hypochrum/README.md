@@ -1,5 +1,4 @@
-Hydnum hypochrum Berk. & Broome SPECIES
-=======
+# Hydnum hypochrum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

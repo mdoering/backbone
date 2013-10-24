@@ -1,5 +1,4 @@
-Phoma triticina E. Müll., 1952 SPECIES
-=======
+# Phoma triticina E. Müll., 1952 SPECIES
 
 #### Status
 ACCEPTED

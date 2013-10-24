@@ -1,5 +1,4 @@
-Leptothyrella sericoleae Ramsb. SPECIES
-=======
+# Leptothyrella sericoleae Ramsb. SPECIES
 
 #### Status
 ACCEPTED

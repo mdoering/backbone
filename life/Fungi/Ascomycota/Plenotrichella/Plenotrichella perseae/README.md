@@ -1,5 +1,4 @@
-Plenotrichella perseae Bat. & A.F. Vital SPECIES
-=======
+# Plenotrichella perseae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

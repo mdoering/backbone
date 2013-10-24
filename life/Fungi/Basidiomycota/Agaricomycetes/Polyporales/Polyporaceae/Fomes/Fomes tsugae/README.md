@@ -1,5 +1,4 @@
-Fomes tsugae (Murrill) Sacc. & D. Sacc. SPECIES
-=======
+# Fomes tsugae (Murrill) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

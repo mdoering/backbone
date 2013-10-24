@@ -1,5 +1,4 @@
-Heteroporus perplexus Corner SPECIES
-=======
+# Heteroporus perplexus Corner SPECIES
 
 #### Status
 ACCEPTED

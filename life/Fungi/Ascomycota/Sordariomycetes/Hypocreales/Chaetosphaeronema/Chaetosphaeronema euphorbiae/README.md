@@ -1,5 +1,4 @@
-Chaetosphaeronema euphorbiae Sawada SPECIES
-=======
+# Chaetosphaeronema euphorbiae Sawada SPECIES
 
 #### Status
 ACCEPTED

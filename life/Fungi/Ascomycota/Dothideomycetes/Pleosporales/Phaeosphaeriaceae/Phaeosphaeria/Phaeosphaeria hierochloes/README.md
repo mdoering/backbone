@@ -1,5 +1,4 @@
-Phaeosphaeria hierochloes (Oudem.) O.E. Erikss. SPECIES
-=======
+# Phaeosphaeria hierochloes (Oudem.) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

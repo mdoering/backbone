@@ -1,17 +1,16 @@
-Orbiliaster pilosa Dennis SPECIES
-=======
+# Orbiliaster pilosus Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 294 (1954)
 
 #### Original name
-Orbiliaster pilosa Dennis
+Orbiliaster pilosus Dennis
 
 ### Remarks
 null

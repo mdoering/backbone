@@ -1,5 +1,4 @@
-Peziza aeruginosa Holmsk. SPECIES
-=======
+# Peziza aeruginosa Holmsk. SPECIES
 
 #### Status
 ACCEPTED

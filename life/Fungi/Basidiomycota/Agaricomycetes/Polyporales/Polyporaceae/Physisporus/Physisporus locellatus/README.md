@@ -1,5 +1,4 @@
-Physisporus locellatus P. Karst. SPECIES
-=======
+# Physisporus locellatus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

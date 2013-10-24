@@ -1,5 +1,4 @@
-Aschersonia caespiticia Syd. SPECIES
-=======
+# Aschersonia caespiticia Syd. SPECIES
 
 #### Status
 ACCEPTED

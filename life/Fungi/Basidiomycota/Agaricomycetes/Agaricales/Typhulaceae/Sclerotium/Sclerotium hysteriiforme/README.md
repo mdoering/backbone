@@ -1,5 +1,4 @@
-Sclerotium hysteriiforme Schwein. SPECIES
-=======
+# Sclerotium hysteriiforme Schwein. SPECIES
 
 #### Status
 ACCEPTED

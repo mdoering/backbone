@@ -1,5 +1,4 @@
-Cladosporium delicatulum Cooke SPECIES
-=======
+# Cladosporium delicatulum Cooke SPECIES
 
 #### Status
 ACCEPTED

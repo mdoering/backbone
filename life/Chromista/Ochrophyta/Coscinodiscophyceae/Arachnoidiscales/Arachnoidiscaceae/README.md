@@ -1,5 +1,4 @@
-Arachnoidiscaceae Round FAMILY
-=======
+# Arachnoidiscaceae Round FAMILY
 
 #### Status
 ACCEPTED

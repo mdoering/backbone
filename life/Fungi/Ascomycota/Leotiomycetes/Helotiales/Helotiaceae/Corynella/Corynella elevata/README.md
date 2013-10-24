@@ -1,5 +1,4 @@
-Corynella elevata SPECIES
-=======
+# Corynella elevata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea cinereopallida Vain. SPECIES
-=======
+# Lecidea cinereopallida Vain. SPECIES
 
 #### Status
 ACCEPTED

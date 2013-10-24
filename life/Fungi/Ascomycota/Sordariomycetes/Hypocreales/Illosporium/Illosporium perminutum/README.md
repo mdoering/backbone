@@ -1,5 +1,4 @@
-Illosporium perminutum Sacc. SPECIES
-=======
+# Illosporium perminutum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orcheomyces chloranthae Burgeff SPECIES
-=======
+# Orcheomyces chloranthae Burgeff SPECIES
 
 #### Status
 ACCEPTED

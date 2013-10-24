@@ -1,5 +1,4 @@
-Diatrype theae Hara SPECIES
-=======
+# Diatrype theae Hara SPECIES
 
 #### Status
 ACCEPTED

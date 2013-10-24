@@ -1,5 +1,4 @@
-Caliciopsis toonae Rikkinen SPECIES
-=======
+# Caliciopsis toonae Rikkinen SPECIES
 
 #### Status
 ACCEPTED

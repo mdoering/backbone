@@ -1,5 +1,4 @@
-Lycoperdon gibbosum Dicks. SPECIES
-=======
+# Lycoperdon gibbosum Dicks. SPECIES
 
 #### Status
 ACCEPTED

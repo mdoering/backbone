@@ -1,5 +1,4 @@
-Ascochyta greenei Melnik SPECIES
-=======
+# Ascochyta greenei Melnik SPECIES
 
 #### Status
 ACCEPTED

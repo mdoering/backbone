@@ -1,5 +1,4 @@
-Sargassum portieranum var. mombassiense Grunow VARIETY
-=======
+# Sargassum portieranum SPECIES
 
 #### Status
 ACCEPTED

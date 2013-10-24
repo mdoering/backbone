@@ -1,5 +1,4 @@
-Phyllopsora conwayensis Elix SPECIES
-=======
+# Phyllopsora conwayensis Elix SPECIES
 
 #### Status
 ACCEPTED

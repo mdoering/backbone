@@ -1,5 +1,4 @@
-Guexella Baumgartner, 1984 GENUS
-=======
+# Guexella Baumgartner, 1984 GENUS
 
 #### Status
 ACCEPTED

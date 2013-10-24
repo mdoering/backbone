@@ -1,5 +1,4 @@
-Megasporoporia cystidiolophora B.K. Cui & Y.C. Dai SPECIES
-=======
+# Megasporoporia cystidiolophora B.K. Cui & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

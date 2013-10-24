@@ -1,17 +1,16 @@
-Penicillium meleagrinum var. viridiflavum S. Abe VARIETY
-=======
+# Penicillium chrysogenum Thom., 1910 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. gen. appl. Microbiol. , Tokyo 2: 92 (1956)
+null
 
 #### Original name
-Penicillium meleagrinum var. viridiflavum S. Abe
+null
 
 ### Remarks
 null

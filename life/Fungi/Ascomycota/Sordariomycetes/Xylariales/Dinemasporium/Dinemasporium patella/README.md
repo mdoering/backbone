@@ -1,5 +1,4 @@
-Dinemasporium patella Cooke & Ellis SPECIES
-=======
+# Dinemasporium patella Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola leonensis Hansf. & Deighton SPECIES
-=======
+# Meliola leonensis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

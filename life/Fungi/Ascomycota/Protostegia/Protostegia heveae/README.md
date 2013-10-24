@@ -1,5 +1,4 @@
-Protostegia heveae Charles SPECIES
-=======
+# Protostegia heveae Charles SPECIES
 
 #### Status
 ACCEPTED

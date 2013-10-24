@@ -1,5 +1,4 @@
-Epicarchesium Jankowksi, 1985 GENUS
-=======
+# Epicarchesium Jankowksi, 1985 GENUS
 
 #### Status
 ACCEPTED

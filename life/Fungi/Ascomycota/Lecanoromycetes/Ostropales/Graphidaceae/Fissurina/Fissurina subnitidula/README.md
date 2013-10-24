@@ -1,5 +1,4 @@
-Fissurina subnitidula (Nyl.) Staiger SPECIES
-=======
+# Fissurina subnitidula (Nyl.) Staiger SPECIES
 
 #### Status
 ACCEPTED

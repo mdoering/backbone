@@ -1,5 +1,4 @@
-Coniochaeta cypraeaspora Van der Linde, 1991 SPECIES
-=======
+# Coniochaeta cypraeaspora Van der Linde, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella liriodendri (Cooke) Woron. SPECIES
-=======
+# Mycosphaerella liriodendri (Cooke) Woron. SPECIES
 
 #### Status
 ACCEPTED

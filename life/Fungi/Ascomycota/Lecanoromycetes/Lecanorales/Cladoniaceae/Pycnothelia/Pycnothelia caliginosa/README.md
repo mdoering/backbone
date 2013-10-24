@@ -1,5 +1,4 @@
-Pycnothelia caliginosa D.J. Galloway & P. James SPECIES
-=======
+# Pycnothelia caliginosa D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

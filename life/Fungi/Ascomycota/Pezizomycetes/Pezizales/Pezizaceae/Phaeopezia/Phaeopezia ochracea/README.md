@@ -1,5 +1,4 @@
-Phaeopezia ochracea Massee & Rodway SPECIES
-=======
+# Phaeopezia ochracea Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

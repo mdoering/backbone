@@ -1,5 +1,4 @@
-Calosphaeria connaricarpa A. Pande & V.G. Rao SPECIES
-=======
+# Calosphaeria connaricarpa A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

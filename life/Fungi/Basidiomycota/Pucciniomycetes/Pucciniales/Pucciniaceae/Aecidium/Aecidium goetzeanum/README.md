@@ -1,5 +1,4 @@
-Aecidium goetzeanum Henn. SPECIES
-=======
+# Aecidium goetzeanum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Le-Ratia Pat. ex Sacc. & Trotter GENUS
-=======
+# Leratiomyces Bresinsky & Binder, 1998 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 468 (1912)
+Mycotaxon 103: 115 (2008)
 
 #### Original name
-Le-Ratia Pat. ex Sacc. & Trotter
+Leratiomyces Bresinsky & Binder, 1998
 
 ### Remarks
 null

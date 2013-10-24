@@ -1,5 +1,4 @@
-Septonema toruloideum Cooke & Ellis SPECIES
-=======
+# Septonema toruloideum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

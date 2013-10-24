@@ -1,5 +1,4 @@
-Mycosphaerella elongata Crous & M.J. Wingf., 2007 SPECIES
-=======
+# Mycosphaerella elongata Crous & M.J. Wingf., 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strionemadiplodia cactorum (Speg.) Zambett. SPECIES
-=======
+# Strionemadiplodia cactorum (Speg.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

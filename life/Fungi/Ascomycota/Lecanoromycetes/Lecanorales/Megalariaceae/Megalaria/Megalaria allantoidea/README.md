@@ -1,5 +1,4 @@
-Megalaria allantoidea Fryday SPECIES
-=======
+# Megalaria allantoidea Fryday SPECIES
 
 #### Status
 ACCEPTED

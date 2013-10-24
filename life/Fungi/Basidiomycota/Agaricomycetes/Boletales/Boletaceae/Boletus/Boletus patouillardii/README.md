@@ -1,5 +1,4 @@
-Boletus patouillardii Singer SPECIES
-=======
+# Boletus patouillardii Singer SPECIES
 
 #### Status
 ACCEPTED

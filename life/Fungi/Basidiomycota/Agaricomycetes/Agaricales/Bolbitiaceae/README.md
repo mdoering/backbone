@@ -1,5 +1,4 @@
-Bolbitiaceae Singer FAMILY
-=======
+# Bolbitiaceae Singer FAMILY
 
 #### Status
 ACCEPTED

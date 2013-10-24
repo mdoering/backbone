@@ -1,5 +1,4 @@
-Byssosphaeria juniperi (Tracy & Earle) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Byssosphaeria juniperi (Tracy & Earle) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

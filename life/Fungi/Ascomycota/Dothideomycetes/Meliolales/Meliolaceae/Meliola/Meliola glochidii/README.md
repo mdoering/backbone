@@ -1,5 +1,4 @@
-Meliola glochidii F. Stevens & Roldan ex Hansf. SPECIES
-=======
+# Meliola glochidii F. Stevens & Roldan ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

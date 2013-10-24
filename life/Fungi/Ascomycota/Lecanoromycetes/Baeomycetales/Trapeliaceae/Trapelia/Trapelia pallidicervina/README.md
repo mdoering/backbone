@@ -1,5 +1,4 @@
-Trapelia pallidicervina (Kremp.) Hertel SPECIES
-=======
+# Trapelia pallidicervina (Kremp.) Hertel SPECIES
 
 #### Status
 ACCEPTED

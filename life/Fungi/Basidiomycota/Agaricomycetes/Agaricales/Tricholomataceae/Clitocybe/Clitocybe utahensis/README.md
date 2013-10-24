@@ -1,5 +1,4 @@
-Clitocybe utahensis H.E. Bigelow SPECIES
-=======
+# Clitocybe utahensis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

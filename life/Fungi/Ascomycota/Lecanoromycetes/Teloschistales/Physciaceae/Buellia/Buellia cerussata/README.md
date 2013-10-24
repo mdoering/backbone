@@ -1,5 +1,4 @@
-Buellia cerussata Llimona & Werner SPECIES
-=======
+# Buellia cerussata Llimona & Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora vinosa Pass. SPECIES
-=======
+# Teichospora vinosa Pass. SPECIES
 
 #### Status
 ACCEPTED

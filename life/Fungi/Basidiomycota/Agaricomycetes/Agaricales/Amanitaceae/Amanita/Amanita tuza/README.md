@@ -1,5 +1,4 @@
-Amanita tuza Guzmán SPECIES
-=======
+# Amanita tuza Guzmán SPECIES
 
 #### Status
 ACCEPTED

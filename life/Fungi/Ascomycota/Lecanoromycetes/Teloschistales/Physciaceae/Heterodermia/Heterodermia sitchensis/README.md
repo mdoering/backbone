@@ -1,5 +1,4 @@
-Heterodermia sitchensis Goward & Noble SPECIES
-=======
+# Heterodermia sitchensis Goward & Noble SPECIES
 
 #### Status
 ACCEPTED

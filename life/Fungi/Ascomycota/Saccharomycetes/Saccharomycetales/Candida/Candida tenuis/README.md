@@ -1,5 +1,4 @@
-Candida tenuis Diddens & Lodder, 1942 SPECIES
-=======
+# Candida tenuis Diddens & Lodder, 1942 SPECIES
 
 #### Status
 ACCEPTED

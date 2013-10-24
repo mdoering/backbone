@@ -1,14 +1,13 @@
-Leucopaxillus candidus (Bres.) Singer, 1939 SPECIES
-=======
+# Clitocybe candida Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 4: 68 (1939)
+null
 
 #### Original name
 Clitocybe candida Bres.

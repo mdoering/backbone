@@ -1,5 +1,4 @@
-Protoperidinium hemisphaericum (T. H. Abé) E. Balech SPECIES
-=======
+# Protoperidinium hemisphaericum (T. H. Abé) E. Balech SPECIES
 
 #### Status
 ACCEPTED

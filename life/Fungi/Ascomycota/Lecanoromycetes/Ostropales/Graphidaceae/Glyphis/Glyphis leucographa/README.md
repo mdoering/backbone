@@ -1,5 +1,4 @@
-Glyphis leucographa Fée SPECIES
-=======
+# Glyphis leucographa Fée SPECIES
 
 #### Status
 ACCEPTED

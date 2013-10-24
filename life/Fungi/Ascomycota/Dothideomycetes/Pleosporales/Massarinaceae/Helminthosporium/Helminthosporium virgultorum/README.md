@@ -1,5 +1,4 @@
-Helminthosporium virgultorum Schwein. SPECIES
-=======
+# Helminthosporium virgultorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

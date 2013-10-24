@@ -1,17 +1,16 @@
-Hebeloma chapmanae A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma chapmaniae A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Veiled species of Hebeloma in the western United States (Ann Arbor) 37 (1983)
 
 #### Original name
-Hebeloma chapmanae A.H. Sm., V.S. Evenson & Mitchel
+Hebeloma chapmaniae A.H. Sm., V.S. Evenson & Mitchel
 
 ### Remarks
 null

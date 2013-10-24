@@ -1,5 +1,4 @@
-Trichopeziza jucundissima (Desm.) Sacc. SPECIES
-=======
+# Trichopeziza jucundissima (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

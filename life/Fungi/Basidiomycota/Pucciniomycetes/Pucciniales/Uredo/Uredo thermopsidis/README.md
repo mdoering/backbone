@@ -1,5 +1,4 @@
-Uredo thermopsidis Thüm. SPECIES
-=======
+# Uredo thermopsidis Thüm. SPECIES
 
 #### Status
 ACCEPTED

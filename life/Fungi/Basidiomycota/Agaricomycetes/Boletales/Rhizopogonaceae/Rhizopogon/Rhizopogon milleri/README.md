@@ -1,5 +1,4 @@
-Rhizopogon milleri A.H. Sm. SPECIES
-=======
+# Rhizopogon milleri A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

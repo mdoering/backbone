@@ -1,5 +1,4 @@
-Boletus pruinosus Barla SPECIES
-=======
+# Boletus pruinosus Barla SPECIES
 
 #### Status
 ACCEPTED

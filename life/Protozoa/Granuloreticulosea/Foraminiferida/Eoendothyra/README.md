@@ -1,5 +1,4 @@
-Eoendothyra GENUS
-=======
+# Eoendothyra GENUS
 
 #### Status
 ACCEPTED

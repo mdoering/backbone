@@ -1,5 +1,4 @@
-Gymnopilus unicolor Murrill SPECIES
-=======
+# Gymnopilus unicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

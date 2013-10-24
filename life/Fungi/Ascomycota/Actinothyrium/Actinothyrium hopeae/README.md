@@ -1,5 +1,4 @@
-Actinothyrium hopeae Weid. SPECIES
-=======
+# Actinothyrium hopeae Weid. SPECIES
 
 #### Status
 ACCEPTED

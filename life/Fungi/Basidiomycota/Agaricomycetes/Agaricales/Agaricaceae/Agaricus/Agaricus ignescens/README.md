@@ -1,5 +1,4 @@
-Agaricus ignescens Lasch SPECIES
-=======
+# Agaricus ignescens Lasch SPECIES
 
 #### Status
 ACCEPTED

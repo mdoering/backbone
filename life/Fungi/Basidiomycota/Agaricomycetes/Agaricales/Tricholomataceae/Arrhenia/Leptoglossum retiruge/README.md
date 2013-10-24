@@ -1,5 +1,4 @@
-Leptoglossum retiruge SPECIES
-=======
+# Leptoglossum retiruge SPECIES
 
 #### Status
 ACCEPTED

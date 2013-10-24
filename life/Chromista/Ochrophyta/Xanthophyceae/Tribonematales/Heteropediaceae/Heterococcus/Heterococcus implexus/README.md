@@ -1,5 +1,4 @@
-Heterococcus implexus Pitschmann SPECIES
-=======
+# Heterococcus implexus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaphanoeca grandis Ellis SPECIES
-=======
+# Diaphanoeca grandis Ellis SPECIES
 
 #### Status
 ACCEPTED

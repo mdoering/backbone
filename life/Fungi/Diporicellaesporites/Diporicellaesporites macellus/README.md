@@ -1,5 +1,4 @@
-Diporicellaesporites macellus Kalgutkar & Janson. SPECIES
-=======
+# Diporicellaesporites macellus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

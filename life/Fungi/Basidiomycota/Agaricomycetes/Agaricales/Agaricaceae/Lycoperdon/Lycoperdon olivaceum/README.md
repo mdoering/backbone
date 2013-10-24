@@ -1,5 +1,4 @@
-Lycoperdon olivaceum Velen. SPECIES
-=======
+# Lycoperdon olivaceum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discorbinella merecuanai SPECIES
-=======
+# Discorbinella merecuanai SPECIES
 
 #### Status
 ACCEPTED

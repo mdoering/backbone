@@ -1,5 +1,4 @@
-Rhomboidella obliqua Pascher SPECIES
-=======
+# Rhomboidella obliqua Pascher SPECIES
 
 #### Status
 ACCEPTED

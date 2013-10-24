@@ -1,5 +1,4 @@
-Agaricus liquescens Cooke SPECIES
-=======
+# Agaricus liquescens Cooke SPECIES
 
 #### Status
 ACCEPTED

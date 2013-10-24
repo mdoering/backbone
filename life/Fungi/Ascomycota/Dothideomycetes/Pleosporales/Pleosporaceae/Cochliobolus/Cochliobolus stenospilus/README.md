@@ -1,17 +1,16 @@
-Drechslera stenospila (Drechsler) Subram. & B.L. Jain, 1966 SPECIES
-=======
+# Cochliobolus stenospilus T. Matsumoto & W. Yamam., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 35: 354 (1966)
+Journal of Plant Protection, Tokyo 23: 14 (1936)
 
 #### Original name
-Helminthosporium stenospilum Drechsler, 1928
+Cochliobolus stenospilus T. Matsumoto & W. Yamam., 1936
 
 ### Remarks
 null

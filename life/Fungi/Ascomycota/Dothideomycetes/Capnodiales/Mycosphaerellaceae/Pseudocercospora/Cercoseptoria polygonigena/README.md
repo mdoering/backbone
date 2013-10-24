@@ -1,5 +1,4 @@
-Cercoseptoria polygonigena (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria polygonigena (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

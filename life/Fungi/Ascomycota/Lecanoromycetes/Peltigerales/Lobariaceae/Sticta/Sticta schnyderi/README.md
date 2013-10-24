@@ -1,5 +1,4 @@
-Sticta schnyderi (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Sticta schnyderi (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

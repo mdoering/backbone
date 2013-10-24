@@ -1,5 +1,4 @@
-Megalospora glaucescens (Nyl.) Zahlbr. SPECIES
-=======
+# Megalospora glaucescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

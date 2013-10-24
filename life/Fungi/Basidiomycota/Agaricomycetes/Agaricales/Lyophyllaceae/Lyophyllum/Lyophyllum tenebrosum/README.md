@@ -1,5 +1,4 @@
-Lyophyllum tenebrosum Clémençon SPECIES
-=======
+# Lyophyllum tenebrosum Clémençon SPECIES
 
 #### Status
 ACCEPTED

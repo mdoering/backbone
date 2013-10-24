@@ -1,5 +1,4 @@
-Plerogone helodes M.W. Dick, 1986 SPECIES
-=======
+# Plerogone helodes M.W. Dick, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea anormalis Motyka SPECIES
-=======
+# Usnea anormalis Motyka SPECIES
 
 #### Status
 ACCEPTED

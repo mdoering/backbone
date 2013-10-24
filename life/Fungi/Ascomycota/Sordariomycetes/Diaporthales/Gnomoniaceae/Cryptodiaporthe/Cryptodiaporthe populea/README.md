@@ -1,17 +1,16 @@
-Discula populea (Sacc.) Höhn., 1915 SPECIES
-=======
+# Cryptodiaporthe populea (Sacc.) Butin ex Butin, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 11(1-6): 31 (1958)
 
 #### Original name
-null
+Diaporthe populea Sacc., 1887
 
 ### Remarks
 null

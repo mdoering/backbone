@@ -1,5 +1,4 @@
-Thraustotheca terrestris Steciow & Elíades, 2002 SPECIES
-=======
+# Thraustotheca terrestris Steciow & Elíades, 2002 SPECIES
 
 #### Status
 ACCEPTED

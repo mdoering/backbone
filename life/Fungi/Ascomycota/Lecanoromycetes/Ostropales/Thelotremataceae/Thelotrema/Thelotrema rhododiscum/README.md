@@ -1,5 +1,4 @@
-Thelotrema rhododiscum Homchant. & Coppins SPECIES
-=======
+# Thelotrema rhododiscum Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Alternaria tenuissima var. tenuissima VARIETY
-=======
+# Alternaria tenuissima (Kunze) Wiltshire, 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 18: 157 (1933)
 
 #### Original name
-Alternaria tenuissima var. tenuissima
+Helminthosporium tenuissimum Kunze, 1818
 
 ### Remarks
 null

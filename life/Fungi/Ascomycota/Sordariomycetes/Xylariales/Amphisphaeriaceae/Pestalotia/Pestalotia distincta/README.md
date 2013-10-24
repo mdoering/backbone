@@ -1,5 +1,4 @@
-Pestalotia distincta Guba SPECIES
-=======
+# Pestalotia distincta Guba SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Globigerina sacculifera Brady SPECIES
-=======
+# Globigerinoides sacculifera (Brady, 1877) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Sporobolomyces dracophylli Hamam. & Nakase, 1995 SPECIES
-=======
+# Sporobolomyces dracophylli Hamam. & Nakase, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta lycopersici R.W. Schneid. & Gerlach, 1966 SPECIES
-=======
+# Pyrenochaeta lycopersici R.W. Schneid. & Gerlach, 1966 SPECIES
 
 #### Status
 ACCEPTED

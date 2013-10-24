@@ -1,5 +1,4 @@
-Kananascus europaeus Treigiene SPECIES
-=======
+# Kananascus europaeus Treigiene SPECIES
 
 #### Status
 ACCEPTED

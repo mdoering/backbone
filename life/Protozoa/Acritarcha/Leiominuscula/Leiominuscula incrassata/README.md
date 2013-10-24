@@ -1,5 +1,4 @@
-Leiominuscula incrassata Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Leiominuscula incrassata Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

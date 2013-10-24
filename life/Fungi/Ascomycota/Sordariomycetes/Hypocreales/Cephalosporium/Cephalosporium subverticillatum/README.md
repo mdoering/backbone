@@ -1,5 +1,4 @@
-Cephalosporium subverticillatum Schulzer & Sacc. SPECIES
-=======
+# Cephalosporium subverticillatum Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

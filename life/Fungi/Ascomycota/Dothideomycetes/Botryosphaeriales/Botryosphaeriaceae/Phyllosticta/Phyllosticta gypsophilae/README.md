@@ -1,5 +1,4 @@
-Phyllosticta gypsophilae I.E. Brezhnev SPECIES
-=======
+# Phyllosticta gypsophilae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

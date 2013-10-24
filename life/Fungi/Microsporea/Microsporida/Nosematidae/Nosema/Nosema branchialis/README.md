@@ -1,5 +1,4 @@
-Nosema branchialis Nemeczek SPECIES
-=======
+# Nosema branchialis Nemeczek SPECIES
 
 #### Status
 ACCEPTED

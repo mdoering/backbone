@@ -1,5 +1,4 @@
-Scutoscypha fagi Graddon, 1980 SPECIES
-=======
+# Scutoscypha fagi Graddon, 1980 SPECIES
 
 #### Status
 ACCEPTED

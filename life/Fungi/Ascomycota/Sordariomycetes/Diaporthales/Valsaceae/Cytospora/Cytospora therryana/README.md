@@ -1,5 +1,4 @@
-Cytospora therryana Thüm. SPECIES
-=======
+# Cytospora therryana Thüm. SPECIES
 
 #### Status
 ACCEPTED

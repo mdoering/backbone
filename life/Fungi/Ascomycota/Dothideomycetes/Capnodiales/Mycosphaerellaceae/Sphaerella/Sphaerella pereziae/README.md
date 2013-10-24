@@ -1,5 +1,4 @@
-Sphaerella pereziae Speg. SPECIES
-=======
+# Sphaerella pereziae Speg. SPECIES
 
 #### Status
 ACCEPTED

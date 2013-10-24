@@ -1,5 +1,4 @@
-Lophodermellina strychni Bat. & J.L. Bezerra SPECIES
-=======
+# Lophodermellina strychni Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosoma nothapanacis SPECIES
-=======
+# Placosoma nothapanacis SPECIES
 
 #### Status
 ACCEPTED

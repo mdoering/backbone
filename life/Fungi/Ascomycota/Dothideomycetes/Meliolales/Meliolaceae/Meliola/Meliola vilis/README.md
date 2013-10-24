@@ -1,5 +1,4 @@
-Meliola vilis var. vilis VARIETY
-=======
+# Meliola vilis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola vilis var. vilis
+Meliola vilis Syd. & P. Syd.
 
 ### Remarks
 null

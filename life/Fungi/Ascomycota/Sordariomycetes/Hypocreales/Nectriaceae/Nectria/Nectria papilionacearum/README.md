@@ -1,5 +1,4 @@
-Nectria papilionacearum Seaver SPECIES
-=======
+# Nectria papilionacearum Seaver SPECIES
 
 #### Status
 ACCEPTED

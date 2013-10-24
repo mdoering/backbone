@@ -1,5 +1,4 @@
-Peziza plana Schumach. SPECIES
-=======
+# Peziza plana Schumach. SPECIES
 
 #### Status
 ACCEPTED

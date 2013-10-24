@@ -1,5 +1,4 @@
-Candelariella senior Poelt SPECIES
-=======
+# Candelariella senior Poelt SPECIES
 
 #### Status
 ACCEPTED

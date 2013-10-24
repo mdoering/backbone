@@ -1,5 +1,4 @@
-Ontostheca conglobata (Berk. & Cooke) Bat. & H. Maia SPECIES
-=======
+# Ontostheca conglobata (Berk. & Cooke) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

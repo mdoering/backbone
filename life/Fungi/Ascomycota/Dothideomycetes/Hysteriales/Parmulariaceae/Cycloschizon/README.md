@@ -1,17 +1,16 @@
-Dielsiella Henn. GENUS
-=======
+# Cycloschizon Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 42(Beibl. ): 84 (1903)
+Bot. Jb. 33: 39 (1902)
 
 #### Original name
-Dielsiella Henn.
+Cycloschizon Henn.
 
 ### Remarks
 null

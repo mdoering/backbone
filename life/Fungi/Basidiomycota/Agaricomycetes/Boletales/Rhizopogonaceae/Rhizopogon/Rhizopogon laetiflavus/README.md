@@ -1,5 +1,4 @@
-Rhizopogon laetiflavus A.H. Sm. SPECIES
-=======
+# Rhizopogon laetiflavus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

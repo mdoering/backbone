@@ -1,5 +1,4 @@
-Macrophoma caryotae Syd. SPECIES
-=======
+# Macrophoma caryotae Syd. SPECIES
 
 #### Status
 ACCEPTED

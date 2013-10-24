@@ -1,5 +1,4 @@
-Cercospora morongiae Tracy & Earle SPECIES
-=======
+# Cercospora morongiae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

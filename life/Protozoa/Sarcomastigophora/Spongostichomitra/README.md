@@ -1,5 +1,4 @@
-Spongostichomitra O'Dogherty, 1994 GENUS
-=======
+# Spongostichomitra O'Dogherty, 1994 GENUS
 
 #### Status
 ACCEPTED

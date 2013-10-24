@@ -1,5 +1,4 @@
-Pseudidiomarina marina Jean WD et al., 2009 SPECIES
-=======
+# Pseudidiomarina marina Jean WD et al., 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria sororiella (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria sororiella (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

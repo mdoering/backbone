@@ -1,5 +1,4 @@
-Cortinarius sterilis Kauffman, 1907 SPECIES
-=======
+# Cortinarius sterilis Kauffman, 1907 SPECIES
 
 #### Status
 ACCEPTED

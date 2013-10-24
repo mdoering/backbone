@@ -1,5 +1,4 @@
-Phacus pseudooscillans Conrad SPECIES
-=======
+# Phacus pseudooscillans Conrad SPECIES
 
 #### Status
 ACCEPTED

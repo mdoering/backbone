@@ -1,5 +1,4 @@
-Lactobacillus xylosus Kitahara, 1938 (Approved Lists, 1980) SPECIES
-=======
+# Lactobacillus xylosus Kitahara, 1938 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

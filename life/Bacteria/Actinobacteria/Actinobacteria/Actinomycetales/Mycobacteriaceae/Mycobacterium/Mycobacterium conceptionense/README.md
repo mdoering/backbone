@@ -1,5 +1,4 @@
-Mycobacterium conceptionense Adékambi et al., 2006 SPECIES
-=======
+# Mycobacterium conceptionense Adékambi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

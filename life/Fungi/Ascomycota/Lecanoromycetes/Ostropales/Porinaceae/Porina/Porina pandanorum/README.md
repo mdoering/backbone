@@ -1,5 +1,4 @@
-Porina pandanorum Vain. SPECIES
-=======
+# Porina pandanorum Vain. SPECIES
 
 #### Status
 ACCEPTED

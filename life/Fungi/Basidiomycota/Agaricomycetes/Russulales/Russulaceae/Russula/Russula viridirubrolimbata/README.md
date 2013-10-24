@@ -1,5 +1,4 @@
-Russula viridirubrolimbata J.Z. Ying SPECIES
-=======
+# Russula viridirubrolimbata J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

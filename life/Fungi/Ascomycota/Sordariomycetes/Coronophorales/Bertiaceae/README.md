@@ -1,5 +1,4 @@
-Bertiaceae Smyk FAMILY
-=======
+# Bertiaceae Smyk FAMILY
 
 #### Status
 ACCEPTED

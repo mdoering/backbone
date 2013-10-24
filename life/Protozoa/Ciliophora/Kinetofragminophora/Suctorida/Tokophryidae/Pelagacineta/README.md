@@ -1,5 +1,4 @@
-Pelagacineta Jankowski, 1978 GENUS
-=======
+# Pelagacineta Jankowski, 1978 GENUS
 
 #### Status
 ACCEPTED

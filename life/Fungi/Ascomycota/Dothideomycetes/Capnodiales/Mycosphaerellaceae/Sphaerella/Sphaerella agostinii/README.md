@@ -1,5 +1,4 @@
-Sphaerella agostinii Nann. SPECIES
-=======
+# Sphaerella agostinii Nann. SPECIES
 
 #### Status
 ACCEPTED

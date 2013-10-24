@@ -1,5 +1,4 @@
-Anthostoma ellisii var. ellisii VARIETY
-=======
+# Anthostoma ellisii Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anthostoma ellisii var. ellisii
+Anthostoma ellisii Sacc.
 
 ### Remarks
 null

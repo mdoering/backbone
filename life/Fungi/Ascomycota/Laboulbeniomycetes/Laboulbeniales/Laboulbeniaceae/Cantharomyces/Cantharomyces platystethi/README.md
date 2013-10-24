@@ -1,5 +1,4 @@
-Cantharomyces platystethi Thaxt., 1900 SPECIES
-=======
+# Cantharomyces platystethi Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

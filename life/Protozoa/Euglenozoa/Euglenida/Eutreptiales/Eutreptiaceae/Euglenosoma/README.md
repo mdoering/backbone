@@ -1,5 +1,4 @@
-Euglenosoma H.S.Davis GENUS
-=======
+# Euglenosoma H.S.Davis GENUS
 
 #### Status
 ACCEPTED

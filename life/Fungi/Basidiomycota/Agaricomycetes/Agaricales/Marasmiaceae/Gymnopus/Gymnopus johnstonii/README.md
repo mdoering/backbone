@@ -1,5 +1,4 @@
-Gymnopus johnstonii (Murrill) A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus johnstonii (Murrill) A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

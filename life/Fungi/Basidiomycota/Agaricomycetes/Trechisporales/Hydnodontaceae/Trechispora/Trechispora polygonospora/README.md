@@ -1,5 +1,4 @@
-Trechispora polygonospora Ryvarden, 1975 SPECIES
-=======
+# Trechispora polygonospora Ryvarden, 1975 SPECIES
 
 #### Status
 ACCEPTED

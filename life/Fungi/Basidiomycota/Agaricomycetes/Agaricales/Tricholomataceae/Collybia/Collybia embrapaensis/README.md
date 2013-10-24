@@ -1,5 +1,4 @@
-Collybia embrapaensis Singer SPECIES
-=======
+# Collybia embrapaensis Singer SPECIES
 
 #### Status
 ACCEPTED

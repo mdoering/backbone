@@ -1,5 +1,4 @@
-Lecanora dschungdienensis Zahlbr. SPECIES
-=======
+# Lecanora dschungdienensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

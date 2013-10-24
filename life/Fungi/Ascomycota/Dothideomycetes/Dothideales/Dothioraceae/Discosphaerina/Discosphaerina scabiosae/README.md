@@ -1,5 +1,4 @@
-Discosphaerina scabiosae (Lambotte & Fautrey) Petr. SPECIES
-=======
+# Discosphaerina scabiosae (Lambotte & Fautrey) Petr. SPECIES
 
 #### Status
 ACCEPTED

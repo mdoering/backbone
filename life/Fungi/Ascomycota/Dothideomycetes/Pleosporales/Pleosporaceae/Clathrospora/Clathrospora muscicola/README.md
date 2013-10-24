@@ -1,5 +1,4 @@
-Clathrospora muscicola Racov. SPECIES
-=======
+# Clathrospora muscicola Racov. SPECIES
 
 #### Status
 ACCEPTED

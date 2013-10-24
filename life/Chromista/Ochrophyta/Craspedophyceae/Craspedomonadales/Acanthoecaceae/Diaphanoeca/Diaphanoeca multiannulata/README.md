@@ -1,5 +1,4 @@
-Diaphanoeca multiannulata Buck, 1981 SPECIES
-=======
+# Diaphanoeca multiannulata Buck, 1981 SPECIES
 
 #### Status
 ACCEPTED

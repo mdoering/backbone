@@ -1,5 +1,4 @@
-Cantharellus viridis Schwein. SPECIES
-=======
+# Cantharellus viridis Schwein. SPECIES
 
 #### Status
 ACCEPTED

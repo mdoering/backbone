@@ -1,5 +1,4 @@
-Uredo caladii Schwein. SPECIES
-=======
+# Uredo caladii Schwein. SPECIES
 
 #### Status
 ACCEPTED

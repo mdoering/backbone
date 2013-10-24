@@ -1,5 +1,4 @@
-Ellisembia opaca (Cooke & Harkn.) Subram. SPECIES
-=======
+# Ellisembia opaca (Cooke & Harkn.) Subram. SPECIES
 
 #### Status
 ACCEPTED

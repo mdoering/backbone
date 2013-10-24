@@ -1,5 +1,4 @@
-Niptera leucostoma (P. Karst.) Sacc. SPECIES
-=======
+# Niptera leucostoma (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

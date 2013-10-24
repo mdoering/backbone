@@ -1,5 +1,4 @@
-Hypsotheca thujina Ellis & Everh. SPECIES
-=======
+# Hypsotheca thujina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

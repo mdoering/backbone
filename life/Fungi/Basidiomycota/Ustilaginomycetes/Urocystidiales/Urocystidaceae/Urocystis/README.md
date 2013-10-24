@@ -1,17 +1,16 @@
-Ginanniella Cif. GENUS
-=======
+# Urocystis Rabenhorst ex Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. ital. crypt. , Ustilaginales 150 (1938)
+Jb. nassau. Ver. Naturk. 23-24: 41 (1870)
 
 #### Original name
-Ginanniella Cif.
+Urocystis Rabenhorst ex Fuckel, 1870
 
 ### Remarks
 null

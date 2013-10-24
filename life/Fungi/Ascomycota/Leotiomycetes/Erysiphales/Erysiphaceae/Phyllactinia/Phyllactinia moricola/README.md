@@ -1,5 +1,4 @@
-Phyllactinia moricola (Henn.) Homma SPECIES
-=======
+# Phyllactinia moricola (Henn.) Homma SPECIES
 
 #### Status
 ACCEPTED

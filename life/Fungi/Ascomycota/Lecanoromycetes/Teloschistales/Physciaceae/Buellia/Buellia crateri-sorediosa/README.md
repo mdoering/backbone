@@ -1,5 +1,4 @@
-Buellia crateri-sorediosa Øvstedal SPECIES
-=======
+# Buellia crateri-sorediosa Øvstedal SPECIES
 
 #### Status
 ACCEPTED

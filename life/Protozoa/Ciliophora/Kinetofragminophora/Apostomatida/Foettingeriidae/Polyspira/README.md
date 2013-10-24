@@ -1,5 +1,4 @@
-Polyspira Minkiewicz, 1912 GENUS
-=======
+# Polyspira Minkiewicz, 1912 GENUS
 
 #### Status
 ACCEPTED

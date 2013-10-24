@@ -1,5 +1,4 @@
-Pythium proliferatum B. Paul SPECIES
-=======
+# Pythium proliferatum B. Paul SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora propinqua Sacc. SPECIES
-=======
+# Oospora propinqua Sacc. SPECIES
 
 #### Status
 ACCEPTED

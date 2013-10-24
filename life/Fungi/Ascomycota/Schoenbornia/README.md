@@ -1,5 +1,4 @@
-Schoenbornia GENUS
-=======
+# Schoenbornia GENUS
 
 #### Status
 ACCEPTED

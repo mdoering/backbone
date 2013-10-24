@@ -1,5 +1,4 @@
-Adelphella Pfister, Matocec & I. Kuan GENUS
-=======
+# Adelphella Pfister, Matocec & I. Kuan GENUS
 
 #### Status
 ACCEPTED

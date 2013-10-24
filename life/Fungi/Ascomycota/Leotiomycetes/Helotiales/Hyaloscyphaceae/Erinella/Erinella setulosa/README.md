@@ -1,5 +1,4 @@
-Erinella setulosa Sacc. SPECIES
-=======
+# Erinella setulosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

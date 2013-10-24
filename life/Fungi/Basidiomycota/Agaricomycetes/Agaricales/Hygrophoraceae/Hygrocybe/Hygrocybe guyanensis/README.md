@@ -1,5 +1,4 @@
-Hygrocybe guyanensis Courtec. SPECIES
-=======
+# Hygrocybe guyanensis Courtec. SPECIES
 
 #### Status
 ACCEPTED

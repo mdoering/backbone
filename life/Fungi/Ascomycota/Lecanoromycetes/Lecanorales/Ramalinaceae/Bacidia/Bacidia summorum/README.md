@@ -1,5 +1,4 @@
-Bacidia summorum (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Bacidia summorum (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

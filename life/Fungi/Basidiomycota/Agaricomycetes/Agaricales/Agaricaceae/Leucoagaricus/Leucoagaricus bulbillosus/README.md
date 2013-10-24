@@ -1,5 +1,4 @@
-Leucoagaricus bulbillosus Heinem. SPECIES
-=======
+# Leucoagaricus bulbillosus Heinem. SPECIES
 
 #### Status
 ACCEPTED

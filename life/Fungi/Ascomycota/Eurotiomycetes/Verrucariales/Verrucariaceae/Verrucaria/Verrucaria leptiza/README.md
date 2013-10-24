@@ -1,5 +1,4 @@
-Verrucaria leptiza Stirt. SPECIES
-=======
+# Verrucaria leptiza Stirt. SPECIES
 
 #### Status
 ACCEPTED

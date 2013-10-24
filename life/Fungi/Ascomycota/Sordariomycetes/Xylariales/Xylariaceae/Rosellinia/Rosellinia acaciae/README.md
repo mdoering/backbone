@@ -1,5 +1,4 @@
-Rosellinia acaciae A. Pande & V.G. Rao SPECIES
-=======
+# Rosellinia acaciae A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

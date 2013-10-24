@@ -1,5 +1,4 @@
-Collybia physcopodia Mont. SPECIES
-=======
+# Collybia physcopodia Mont. SPECIES
 
 #### Status
 ACCEPTED

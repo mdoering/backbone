@@ -1,5 +1,4 @@
-Gyalidea cylindrica Etayo & Vezda SPECIES
-=======
+# Gyalidea cylindrica Etayo & Vezda SPECIES
 
 #### Status
 ACCEPTED

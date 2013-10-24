@@ -1,5 +1,4 @@
-Psychromonas profunda Xu et al., 2003 SPECIES
-=======
+# Psychromonas profunda Xu et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon pastillistomum Lar.N. Vassiljeva SPECIES
-=======
+# Hypoxylon pastillistomum Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

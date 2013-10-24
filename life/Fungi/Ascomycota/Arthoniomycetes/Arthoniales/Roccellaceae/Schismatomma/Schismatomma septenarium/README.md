@@ -1,5 +1,4 @@
-Schismatomma septenarium (Stizenb.) Zahlbr. SPECIES
-=======
+# Schismatomma septenarium (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

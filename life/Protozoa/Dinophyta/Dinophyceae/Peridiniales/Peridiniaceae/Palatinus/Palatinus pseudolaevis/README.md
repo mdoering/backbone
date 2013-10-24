@@ -1,5 +1,4 @@
-Palatinus pseudolaevis (Lefèvre) Craveiro, Calado, Daugbjerg & Moestrup, 2009 SPECIES
-=======
+# Palatinus pseudolaevis (Lefèvre) Craveiro, Calado, Daugbjerg & Moestrup, 2009 SPECIES
 
 #### Status
 ACCEPTED

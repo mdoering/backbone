@@ -1,5 +1,4 @@
-Aegerita ferruginea Höhn. SPECIES
-=======
+# Aegerita ferruginea Höhn. SPECIES
 
 #### Status
 ACCEPTED

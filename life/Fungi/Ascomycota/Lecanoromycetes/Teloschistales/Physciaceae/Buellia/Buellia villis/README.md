@@ -1,5 +1,4 @@
-Buellia villis Th. Fr. SPECIES
-=======
+# Buellia villis Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

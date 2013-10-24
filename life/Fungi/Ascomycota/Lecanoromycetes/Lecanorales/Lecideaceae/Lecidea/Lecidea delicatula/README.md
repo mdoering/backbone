@@ -1,5 +1,4 @@
-Lecidea delicatula Vain. SPECIES
-=======
+# Lecidea delicatula Vain. SPECIES
 
 #### Status
 ACCEPTED

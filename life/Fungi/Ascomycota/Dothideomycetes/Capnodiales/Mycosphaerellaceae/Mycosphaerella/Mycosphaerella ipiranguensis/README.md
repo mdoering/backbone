@@ -1,5 +1,4 @@
-Mycosphaerella ipiranguensis (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella ipiranguensis (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

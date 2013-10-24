@@ -1,5 +1,4 @@
-Lepiota boninensis S. Ito & S. Imai SPECIES
-=======
+# Lepiota boninensis S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

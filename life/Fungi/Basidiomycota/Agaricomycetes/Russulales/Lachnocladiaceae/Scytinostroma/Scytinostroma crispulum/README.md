@@ -1,5 +1,4 @@
-Scytinostroma crispulum Boidin, Gilles & Lanq., 1987 SPECIES
-=======
+# Scytinostroma crispulum Boidin, Gilles & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gloeosporium cassia-siameae C.C. Chen SPECIES
-=======
+# Gloeosporium cassiae-siameae C.C. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Memoirs of the College of Agriculture, National Taiwan University 8(2): 70 (1965)
 
 #### Original name
-Gloeosporium cassia-siameae C.C. Chen
+Gloeosporium cassiae-siameae C.C. Chen
 
 ### Remarks
 null

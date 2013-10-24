@@ -1,5 +1,4 @@
-Meliola strychniae Mibey SPECIES
-=======
+# Meliola strychniae Mibey SPECIES
 
 #### Status
 ACCEPTED

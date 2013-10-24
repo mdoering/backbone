@@ -1,5 +1,4 @@
-Podosporium deightonii (Hansf.) Cif. SPECIES
-=======
+# Podosporium deightonii (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

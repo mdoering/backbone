@@ -1,5 +1,4 @@
-Uredo tanzaniae Cummins SPECIES
-=======
+# Uredo tanzaniae Cummins SPECIES
 
 #### Status
 ACCEPTED

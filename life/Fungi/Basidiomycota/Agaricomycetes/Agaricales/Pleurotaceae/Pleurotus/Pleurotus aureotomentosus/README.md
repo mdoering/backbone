@@ -1,5 +1,4 @@
-Pleurotus aureotomentosus (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus aureotomentosus (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

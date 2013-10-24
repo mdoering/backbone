@@ -1,5 +1,4 @@
-Leiosphaeridia pellucida Salujha, Rehman & Arora, 1971 SPECIES
-=======
+# Leiosphaeridia pellucida Salujha, Rehman & Arora, 1971 SPECIES
 
 #### Status
 ACCEPTED

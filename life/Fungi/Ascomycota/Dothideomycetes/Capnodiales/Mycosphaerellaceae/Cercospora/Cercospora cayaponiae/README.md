@@ -1,5 +1,4 @@
-Cercospora cayaponiae F. Stevens & Solheim SPECIES
-=======
+# Cercospora cayaponiae F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

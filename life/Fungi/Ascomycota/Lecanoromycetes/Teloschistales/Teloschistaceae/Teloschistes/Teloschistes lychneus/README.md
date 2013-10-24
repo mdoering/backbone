@@ -1,5 +1,4 @@
-Teloschistes lychneus Nyl. SPECIES
-=======
+# Teloschistes lychneus Nyl. SPECIES
 
 #### Status
 ACCEPTED

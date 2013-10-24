@@ -1,5 +1,4 @@
-Macrophoma mangiferae Hing. & O.P. Sharma, 1957 SPECIES
-=======
+# Macrophoma mangiferae Hing. & O.P. Sharma, 1957 SPECIES
 
 #### Status
 ACCEPTED

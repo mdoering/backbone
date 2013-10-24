@@ -1,5 +1,4 @@
-Ricasolia platyloba Nyl. SPECIES
-=======
+# Ricasolia platyloba Nyl. SPECIES
 
 #### Status
 ACCEPTED

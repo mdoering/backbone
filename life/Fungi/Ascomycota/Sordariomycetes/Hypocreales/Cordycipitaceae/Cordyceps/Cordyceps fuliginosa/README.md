@@ -1,5 +1,4 @@
-Cordyceps fuliginosa Ces. SPECIES
-=======
+# Cordyceps fuliginosa Ces. SPECIES
 
 #### Status
 ACCEPTED

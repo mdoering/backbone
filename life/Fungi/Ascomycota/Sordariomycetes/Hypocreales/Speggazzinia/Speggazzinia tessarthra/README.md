@@ -1,5 +1,4 @@
-Speggazzinia tessarthra (Berkeley & Curtis) Sacc. SPECIES
-=======
+# Speggazzinia tessarthra (Berkeley & Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

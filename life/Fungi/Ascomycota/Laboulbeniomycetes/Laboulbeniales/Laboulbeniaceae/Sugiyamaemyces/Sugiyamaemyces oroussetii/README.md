@@ -1,5 +1,4 @@
-Sugiyamaemyces oroussetii I.I. Tav. & Balazuc, 1989 SPECIES
-=======
+# Sugiyamaemyces oroussetii I.I. Tav. & Balazuc, 1989 SPECIES
 
 #### Status
 ACCEPTED

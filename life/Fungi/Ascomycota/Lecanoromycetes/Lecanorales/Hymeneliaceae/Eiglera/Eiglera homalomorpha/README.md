@@ -1,5 +1,4 @@
-Eiglera homalomorpha (Nyl.) Clauzade & Cl. Roux SPECIES
-=======
+# Eiglera homalomorpha (Nyl.) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

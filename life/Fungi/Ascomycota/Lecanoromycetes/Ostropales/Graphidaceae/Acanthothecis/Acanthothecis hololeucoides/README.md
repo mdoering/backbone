@@ -1,5 +1,4 @@
-Acanthothecis hololeucoides (Nyl.) Staiger & Kalb SPECIES
-=======
+# Acanthothecis hololeucoides (Nyl.) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

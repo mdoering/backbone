@@ -1,5 +1,4 @@
-Usnea microcarpa Pers. SPECIES
-=======
+# Usnea microcarpa Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium subantarcticum Speg. SPECIES
-=======
+# Aecidium subantarcticum Speg. SPECIES
 
 #### Status
 ACCEPTED

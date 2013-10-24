@@ -1,5 +1,4 @@
-Porina firmula (Nyl.) Müll. Arg. SPECIES
-=======
+# Porina firmula (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

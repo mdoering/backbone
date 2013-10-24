@@ -1,5 +1,4 @@
-Physcia tremens SPECIES
-=======
+# Physcia tremens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea siplei Zammuto SPECIES
-=======
+# Usnea siplei Zammuto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccomyces huangshanensis Y.R. Lin & Z.Z. Li, 2000 SPECIES
-=======
+# Coccomyces huangshanensis Y.R. Lin & Z.Z. Li, 2000 SPECIES
 
 #### Status
 ACCEPTED

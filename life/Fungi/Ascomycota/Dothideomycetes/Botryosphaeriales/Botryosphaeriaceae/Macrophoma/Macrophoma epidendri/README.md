@@ -1,5 +1,4 @@
-Macrophoma epidendri Keissl. SPECIES
-=======
+# Macrophoma epidendri Keissl. SPECIES
 
 #### Status
 ACCEPTED

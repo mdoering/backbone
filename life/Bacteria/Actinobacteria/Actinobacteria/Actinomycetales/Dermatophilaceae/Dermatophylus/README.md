@@ -1,5 +1,4 @@
-Dermatophylus GENUS
-=======
+# Dermatophylus GENUS
 
 #### Status
 ACCEPTED

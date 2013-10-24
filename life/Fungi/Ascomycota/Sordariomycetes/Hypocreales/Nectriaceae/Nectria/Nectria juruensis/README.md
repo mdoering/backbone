@@ -1,5 +1,4 @@
-Nectria juruensis Henn. SPECIES
-=======
+# Nectria juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

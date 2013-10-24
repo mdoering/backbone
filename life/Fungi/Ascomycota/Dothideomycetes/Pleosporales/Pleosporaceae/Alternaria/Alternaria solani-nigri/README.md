@@ -1,17 +1,16 @@
-Alternaria solani-nigrii R. Dubey, S.K. Singh & Kamal SPECIES
-=======
+# Alternaria solani-nigri R. Dubey, S.K. Singh & Kamal, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Microbiol. Res. 154(2): 120 (1999)
 
 #### Original name
-Alternaria solani-nigrii R. Dubey, S.K. Singh & Kamal
+Alternaria solani-nigri R. Dubey, S.K. Singh & Kamal, 1999
 
 ### Remarks
 null

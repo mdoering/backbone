@@ -1,5 +1,4 @@
-Stereum roseum Yasuda SPECIES
-=======
+# Stereum roseum Yasuda SPECIES
 
 #### Status
 ACCEPTED

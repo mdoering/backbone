@@ -1,5 +1,4 @@
-Lecanora cretacea (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora cretacea (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

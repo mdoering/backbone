@@ -1,5 +1,4 @@
-Cordyceps obliqua Kobayasi SPECIES
-=======
+# Cordyceps obliqua Kobayasi SPECIES
 
 #### Status
 ACCEPTED

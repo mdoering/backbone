@@ -1,14 +1,13 @@
-Hamaspora ellisii (Berk.) Körn., 1877 SPECIES
-=======
+# Phragmidium ellisii (Berk.) Sacc., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22 (1877)
+in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 750 (1888)
 
 #### Original name
 Gymnosporangium ellisii Berk., 1879

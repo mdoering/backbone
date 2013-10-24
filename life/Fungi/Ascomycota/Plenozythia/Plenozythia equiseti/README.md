@@ -1,5 +1,4 @@
-Plenozythia equiseti (P. Karst.) Arx SPECIES
-=======
+# Plenozythia equiseti (P. Karst.) Arx SPECIES
 
 #### Status
 ACCEPTED

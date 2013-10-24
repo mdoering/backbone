@@ -1,5 +1,4 @@
-Oxytricha curvata Kahl, 1932 SPECIES
-=======
+# Oxytricha curvata Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

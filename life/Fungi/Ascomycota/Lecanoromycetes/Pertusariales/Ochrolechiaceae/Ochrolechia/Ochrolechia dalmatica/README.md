@@ -1,5 +1,4 @@
-Ochrolechia dalmatica (Erichsen) Boqueras SPECIES
-=======
+# Ochrolechia dalmatica (Erichsen) Boqueras SPECIES
 
 #### Status
 ACCEPTED

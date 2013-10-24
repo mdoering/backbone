@@ -1,5 +1,4 @@
-Bitorus H. Keupp, 1992 GENUS
-=======
+# Bitorus H. Keupp, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia beckmanniae McAlpine SPECIES
-=======
+# Puccinia beckmanniae McAlpine SPECIES
 
 #### Status
 ACCEPTED

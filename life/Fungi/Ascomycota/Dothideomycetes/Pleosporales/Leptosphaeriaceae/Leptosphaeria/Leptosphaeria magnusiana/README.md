@@ -1,5 +1,4 @@
-Leptosphaeria magnusiana Berl. & Sacc. SPECIES
-=======
+# Leptosphaeria magnusiana Berl. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Myriogenis Clem. & Shear GENUS
-=======
+# Myriogenospora G.F. Atk. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 293 (1931)
+Bull. Torrey bot. Club 21: 225 (1894)
 
 #### Original name
-Myriogenis Clem. & Shear
+Myriogenospora G.F. Atk.
 
 ### Remarks
 null

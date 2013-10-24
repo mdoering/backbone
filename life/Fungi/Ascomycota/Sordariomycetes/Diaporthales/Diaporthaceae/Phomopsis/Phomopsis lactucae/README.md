@@ -1,14 +1,13 @@
-Phoma lactucae Sacc., 1880 SPECIES
-=======
+# Phomopsis lactucae (Sacc.) Bubák, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. bot. Z. 55: 78 (1905)
 
 #### Original name
 Phoma lactucae Sacc., 1880

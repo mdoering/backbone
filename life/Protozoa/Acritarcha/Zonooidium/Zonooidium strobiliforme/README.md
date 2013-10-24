@@ -1,5 +1,4 @@
-Zonooidium strobiliforme Timofeev, 1957 SPECIES
-=======
+# Zonooidium strobiliforme Timofeev, 1957 SPECIES
 
 #### Status
 ACCEPTED

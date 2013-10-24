@@ -1,5 +1,4 @@
-Patellaria trichophora Müll. Arg. SPECIES
-=======
+# Patellaria trichophora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

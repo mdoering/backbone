@@ -1,5 +1,4 @@
-Stichocyrtoidae FAMILY
-=======
+# Stichocyrtoidae FAMILY
 
 #### Status
 ACCEPTED

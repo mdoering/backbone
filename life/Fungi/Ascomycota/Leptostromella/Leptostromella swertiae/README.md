@@ -1,5 +1,4 @@
-Leptostromella swertiae Petch SPECIES
-=======
+# Leptostromella swertiae Petch SPECIES
 
 #### Status
 ACCEPTED

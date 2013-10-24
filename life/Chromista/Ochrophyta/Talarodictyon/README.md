@@ -1,5 +1,4 @@
-Talarodictyon Endlicher, 1843 GENUS
-=======
+# Talarodictyon Endlicher, 1843 GENUS
 
 #### Status
 ACCEPTED

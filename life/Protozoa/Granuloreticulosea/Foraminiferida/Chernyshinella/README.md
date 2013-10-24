@@ -1,5 +1,4 @@
-Chernyshinella Lipina, 1955 GENUS
-=======
+# Chernyshinella Lipina, 1955 GENUS
 
 #### Status
 ACCEPTED

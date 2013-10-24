@@ -1,5 +1,4 @@
-Microthallites lutosus Dilcher SPECIES
-=======
+# Microthallites lutosus Dilcher SPECIES
 
 #### Status
 ACCEPTED

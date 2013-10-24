@@ -1,5 +1,4 @@
-Collema quadratum J. Lahm ex Körb. SPECIES
-=======
+# Collema quadratum J. Lahm ex Körb. SPECIES
 
 #### Status
 ACCEPTED

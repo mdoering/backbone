@@ -1,5 +1,4 @@
-Spadicoides mauritiana Dulym., P.M. Kirk & Peerally SPECIES
-=======
+# Spadicoides mauritiana Dulym., P.M. Kirk & Peerally SPECIES
 
 #### Status
 ACCEPTED

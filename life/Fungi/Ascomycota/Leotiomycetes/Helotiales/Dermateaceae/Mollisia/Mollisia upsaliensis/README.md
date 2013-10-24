@@ -1,5 +1,4 @@
-Mollisia upsaliensis Svrcek SPECIES
-=======
+# Mollisia upsaliensis Svrcek SPECIES
 
 #### Status
 ACCEPTED

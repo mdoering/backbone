@@ -1,5 +1,4 @@
-Cladonia nanodes Robbins SPECIES
-=======
+# Cladonia nanodes Robbins SPECIES
 
 #### Status
 ACCEPTED

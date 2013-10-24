@@ -1,5 +1,4 @@
-Lachnea fuscidula Velen. SPECIES
-=======
+# Lachnea fuscidula Velen. SPECIES
 
 #### Status
 ACCEPTED

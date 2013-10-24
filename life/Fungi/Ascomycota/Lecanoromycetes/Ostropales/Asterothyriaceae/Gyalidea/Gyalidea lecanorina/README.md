@@ -1,5 +1,4 @@
-Gyalidea lecanorina (C. Knight) P. James SPECIES
-=======
+# Gyalidea lecanorina (C. Knight) P. James SPECIES
 
 #### Status
 ACCEPTED

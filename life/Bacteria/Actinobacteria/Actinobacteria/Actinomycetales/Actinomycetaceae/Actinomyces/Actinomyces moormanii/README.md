@@ -1,8 +1,7 @@
-Actinomyces moormani G.C. Franklin SPECIES
-=======
+# Actinomyces moormanii G.C. Franklin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Actinomyces moormani G.C. Franklin
+Actinomyces moormanii G.C. Franklin
 
 ### Remarks
 null

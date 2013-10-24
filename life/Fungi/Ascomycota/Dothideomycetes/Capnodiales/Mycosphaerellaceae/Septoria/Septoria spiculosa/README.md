@@ -1,5 +1,4 @@
-Septoria spiculosa Ellis & Holw. SPECIES
-=======
+# Septoria spiculosa Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

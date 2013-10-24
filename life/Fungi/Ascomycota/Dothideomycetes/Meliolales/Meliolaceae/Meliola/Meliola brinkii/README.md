@@ -1,5 +1,4 @@
-Meliola brinkii Hansf. SPECIES
-=======
+# Meliola brinkii Hansf. SPECIES
 
 #### Status
 ACCEPTED

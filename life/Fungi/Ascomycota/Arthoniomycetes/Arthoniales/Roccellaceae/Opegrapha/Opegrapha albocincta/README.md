@@ -1,5 +1,4 @@
-Opegrapha albocincta Nyl. SPECIES
-=======
+# Opegrapha albocincta Nyl. SPECIES
 
 #### Status
 ACCEPTED

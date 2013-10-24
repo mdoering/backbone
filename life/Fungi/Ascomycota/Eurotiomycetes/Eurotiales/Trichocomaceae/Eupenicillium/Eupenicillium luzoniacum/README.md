@@ -1,5 +1,4 @@
-Eupenicillium luzoniacum Udagawa & Y. Horie SPECIES
-=======
+# Eupenicillium luzoniacum Udagawa & Y. Horie SPECIES
 
 #### Status
 ACCEPTED

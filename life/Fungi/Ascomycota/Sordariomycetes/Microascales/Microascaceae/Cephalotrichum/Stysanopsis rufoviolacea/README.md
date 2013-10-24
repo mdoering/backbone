@@ -1,5 +1,4 @@
-Stysanopsis rufoviolacea Tonelli SPECIES
-=======
+# Stysanopsis rufoviolacea Tonelli SPECIES
 
 #### Status
 ACCEPTED

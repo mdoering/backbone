@@ -1,5 +1,4 @@
-Erysiphe compositarum Duby SPECIES
-=======
+# Erysiphe compositarum Duby SPECIES
 
 #### Status
 ACCEPTED

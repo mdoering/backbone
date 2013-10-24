@@ -1,5 +1,4 @@
-Wolfiporia curvispora Y.C. Dai, 1998 SPECIES
-=======
+# Wolfiporia curvispora Y.C. Dai, 1998 SPECIES
 
 #### Status
 ACCEPTED

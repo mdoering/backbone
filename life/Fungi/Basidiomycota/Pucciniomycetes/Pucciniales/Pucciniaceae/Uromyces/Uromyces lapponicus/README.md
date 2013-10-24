@@ -1,5 +1,4 @@
-Uromyces lapponicus var. lapponicus VARIETY
-=======
+# Uromyces lapponicus Lagerh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Notiser 274 (1890)
 
 #### Original name
-Uromyces lapponicus var. lapponicus
+Uromyces lapponicus Lagerh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplochytridium schenkii (P.A. Dang.) Karling SPECIES
-=======
+# Diplochytridium schenkii (P.A. Dang.) Karling SPECIES
 
 #### Status
 ACCEPTED

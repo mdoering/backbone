@@ -1,5 +1,4 @@
-Frondicularia paucicostata Hofker, 1978 SPECIES
-=======
+# Frondicularia paucicostata Hofker, 1978 SPECIES
 
 #### Status
 ACCEPTED

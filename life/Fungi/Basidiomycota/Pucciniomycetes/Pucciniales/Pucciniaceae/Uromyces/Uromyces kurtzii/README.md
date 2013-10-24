@@ -1,5 +1,4 @@
-Uromyces kurtzii Henn. SPECIES
-=======
+# Uromyces kurtzii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium acidisoli Kuhner et al., 2000 SPECIES
-=======
+# Clostridium acidisoli Kuhner et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe gigantiasca Thüm. & Sorokin SPECIES
-=======
+# Erysiphe gigantiasca Thüm. & Sorokin SPECIES
 
 #### Status
 ACCEPTED

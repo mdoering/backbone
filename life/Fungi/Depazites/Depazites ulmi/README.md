@@ -1,5 +1,4 @@
-Depazites ulmi (Ettingsh.) Mesch. SPECIES
-=======
+# Depazites ulmi (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

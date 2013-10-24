@@ -1,5 +1,4 @@
-Stilbospora magna Berk. SPECIES
-=======
+# Stilbospora magna Berk. SPECIES
 
 #### Status
 ACCEPTED

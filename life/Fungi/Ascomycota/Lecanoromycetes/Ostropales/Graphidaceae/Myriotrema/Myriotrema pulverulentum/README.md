@@ -1,5 +1,4 @@
-Myriotrema pulverulentum (Hale) Hale SPECIES
-=======
+# Myriotrema pulverulentum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

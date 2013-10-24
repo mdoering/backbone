@@ -1,5 +1,4 @@
-Passalora colubrinae (Chupp & Viégas) Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Passalora colubrinae (Chupp & Viégas) Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

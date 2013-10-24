@@ -1,5 +1,4 @@
-Lichen melanophthalmus Ramond SPECIES
-=======
+# Lichen melanophthalmus Ramond SPECIES
 
 #### Status
 ACCEPTED

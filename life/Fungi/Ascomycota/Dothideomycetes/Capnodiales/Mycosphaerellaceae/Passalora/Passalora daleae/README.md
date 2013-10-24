@@ -1,5 +1,4 @@
-Passalora daleae (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Passalora daleae (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

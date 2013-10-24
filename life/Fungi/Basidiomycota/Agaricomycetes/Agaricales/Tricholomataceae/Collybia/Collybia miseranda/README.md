@@ -1,5 +1,4 @@
-Collybia miseranda (Britzelm.) Sacc. SPECIES
-=======
+# Collybia miseranda (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

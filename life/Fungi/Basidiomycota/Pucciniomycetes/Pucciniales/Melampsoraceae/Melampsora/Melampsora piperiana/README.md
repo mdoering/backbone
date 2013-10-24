@@ -1,5 +1,4 @@
-Melampsora piperiana Arthur SPECIES
-=======
+# Melampsora piperiana Arthur SPECIES
 
 #### Status
 ACCEPTED

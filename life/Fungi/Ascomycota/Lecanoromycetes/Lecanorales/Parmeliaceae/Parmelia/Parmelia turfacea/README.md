@@ -1,5 +1,4 @@
-Parmelia turfacea SPECIES
-=======
+# Parmelia turfacea SPECIES
 
 #### Status
 ACCEPTED

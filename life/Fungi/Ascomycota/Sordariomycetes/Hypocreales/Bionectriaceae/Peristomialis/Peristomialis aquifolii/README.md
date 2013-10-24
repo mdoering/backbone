@@ -1,14 +1,13 @@
-Peristomialis aquifoliae (Cooke & Ellis) Rossman, Samuels & Lowen SPECIES
-=======
+# Peristomialis aquifolii (Cooke & Ellis) Rossman, Samuels & Lowen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 85(4): 696 (1993)
 
 #### Original name
 Peziza aquifolii Cooke & Ellis

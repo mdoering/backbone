@@ -1,8 +1,7 @@
-Rivularia plana Harvey SPECIES
-=======
+# Isactis plana (Harvey) Thuret ex Bornet & Flahault SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

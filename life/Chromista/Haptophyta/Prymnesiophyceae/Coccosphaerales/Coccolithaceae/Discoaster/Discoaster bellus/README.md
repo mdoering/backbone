@@ -1,5 +1,4 @@
-Discoaster bellus SPECIES
-=======
+# Discoaster bellus SPECIES
 
 #### Status
 ACCEPTED

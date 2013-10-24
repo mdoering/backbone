@@ -1,5 +1,4 @@
-Tapesia scariosa (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Tapesia scariosa (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

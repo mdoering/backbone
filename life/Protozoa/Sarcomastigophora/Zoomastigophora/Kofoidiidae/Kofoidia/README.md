@@ -1,5 +1,4 @@
-Kofoidia Light GENUS
-=======
+# Kofoidia Light GENUS
 
 #### Status
 ACCEPTED

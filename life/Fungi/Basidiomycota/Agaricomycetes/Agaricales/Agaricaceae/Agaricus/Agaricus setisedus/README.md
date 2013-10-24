@@ -1,5 +1,4 @@
-Agaricus setisedus Schwein. SPECIES
-=======
+# Agaricus setisedus Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyporus vernicipes Berk., 1878 SPECIES
-=======
+# Microporus vernicipes (Berk.) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 16: 50 (1878)
+Revis. gen. pl. (Leipzig) 3(2): 497 (1898)
 
 #### Original name
 Polyporus vernicipes Berk., 1878

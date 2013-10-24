@@ -1,5 +1,4 @@
-Bacidia mucida (Rehm) Zahlbr. SPECIES
-=======
+# Bacidia mucida (Rehm) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia aquilina Vain. SPECIES
-=======
+# Arthonia aquilina Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon cylindrophorum Ellis & Everh. SPECIES
-=======
+# Hypoxylon cylindrophorum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

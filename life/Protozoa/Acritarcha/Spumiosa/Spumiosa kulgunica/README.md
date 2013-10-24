@@ -1,5 +1,4 @@
-Spumiosa kulgunica (Jankauskas, 1980) Fensome et al., 1990 SPECIES
-=======
+# Spumiosa kulgunica (Jankauskas, 1980) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

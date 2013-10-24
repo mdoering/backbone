@@ -1,5 +1,4 @@
-Rinodina perreagens Sheard SPECIES
-=======
+# Rinodina perreagens Sheard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosporium thysanolaenae M. Kandasw. & Sundaram SPECIES
-=======
+# Podosporium thysanolaenae M. Kandasw. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza rubiginosa Fr. SPECIES
-=======
+# Peziza rubiginosa Fr. SPECIES
 
 #### Status
 ACCEPTED

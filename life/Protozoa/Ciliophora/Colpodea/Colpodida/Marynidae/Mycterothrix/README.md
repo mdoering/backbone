@@ -1,5 +1,4 @@
-Mycterothrix Lauterborn, 1898 GENUS
-=======
+# Mycterothrix Lauterborn, 1898 GENUS
 
 #### Status
 ACCEPTED

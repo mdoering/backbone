@@ -1,5 +1,4 @@
-Oospora magnusii Stautz SPECIES
-=======
+# Oospora magnusii Stautz SPECIES
 
 #### Status
 ACCEPTED

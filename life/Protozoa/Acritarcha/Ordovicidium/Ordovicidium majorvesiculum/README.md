@@ -1,5 +1,4 @@
-Ordovicidium majorvesiculum (Kjellström, 1971) Loeblich & Tappan, 1978 SPECIES
-=======
+# Ordovicidium majorvesiculum (Kjellström, 1971) Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

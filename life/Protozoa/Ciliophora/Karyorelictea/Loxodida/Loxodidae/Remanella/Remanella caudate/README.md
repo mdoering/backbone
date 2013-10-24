@@ -1,5 +1,4 @@
-Remanella caudate Dragesco, 1953 SPECIES
-=======
+# Remanella caudate Dragesco, 1953 SPECIES
 
 #### Status
 ACCEPTED

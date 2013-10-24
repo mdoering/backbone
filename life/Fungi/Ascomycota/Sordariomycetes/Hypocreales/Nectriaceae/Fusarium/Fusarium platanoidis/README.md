@@ -1,5 +1,4 @@
-Fusarium platanoidis Oudem. SPECIES
-=======
+# Fusarium platanoidis Oudem. SPECIES
 
 #### Status
 ACCEPTED

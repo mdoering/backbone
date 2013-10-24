@@ -1,5 +1,4 @@
-Ricasolia herbacea SPECIES
-=======
+# Ricasolia herbacea SPECIES
 
 #### Status
 ACCEPTED

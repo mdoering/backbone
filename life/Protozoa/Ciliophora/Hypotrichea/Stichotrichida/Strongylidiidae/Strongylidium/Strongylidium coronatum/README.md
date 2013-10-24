@@ -1,5 +1,4 @@
-Strongylidium coronatum SPECIES
-=======
+# Strongylidium coronatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium stapeliae Ces. SPECIES
-=======
+# Sclerotium stapeliae Ces. SPECIES
 
 #### Status
 ACCEPTED

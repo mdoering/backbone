@@ -1,5 +1,4 @@
-Agaricus griseoroseus Mont. SPECIES
-=======
+# Agaricus griseoroseus Mont. SPECIES
 
 #### Status
 ACCEPTED

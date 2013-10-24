@@ -1,5 +1,4 @@
-Botryosphaeria smilacinina (Peck) M.E. Barr SPECIES
-=======
+# Botryosphaeria smilacinina (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

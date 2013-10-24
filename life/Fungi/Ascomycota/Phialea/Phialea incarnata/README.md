@@ -1,5 +1,4 @@
-Phialea incarnata Quél. SPECIES
-=======
+# Phialea incarnata Quél. SPECIES
 
 #### Status
 ACCEPTED

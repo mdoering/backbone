@@ -1,5 +1,4 @@
-Usnea creberrima var. creberrima VARIETY
-=======
+# Usnea creberrima Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea creberrima var. creberrima
+Usnea creberrima Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bagnisiella strobilanthidis M.S. Patil & S.D. Patil SPECIES
-=======
+# Bagnisiella strobilanthidis M.S. Patil & S.D. Patil SPECIES
 
 #### Status
 ACCEPTED

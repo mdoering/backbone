@@ -1,5 +1,4 @@
-Neolecta Speg. GENUS
-=======
+# Neolecta Speg. GENUS
 
 #### Status
 ACCEPTED

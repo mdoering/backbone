@@ -1,5 +1,4 @@
-Xylaria mucronata (Schwein.) Sacc. SPECIES
-=======
+# Xylaria mucronata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

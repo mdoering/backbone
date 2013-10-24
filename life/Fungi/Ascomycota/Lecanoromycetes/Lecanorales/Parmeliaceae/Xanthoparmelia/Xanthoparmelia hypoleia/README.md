@@ -1,5 +1,4 @@
-Xanthoparmelia hypoleia (Nyl.) Hale SPECIES
-=======
+# Xanthoparmelia hypoleia (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

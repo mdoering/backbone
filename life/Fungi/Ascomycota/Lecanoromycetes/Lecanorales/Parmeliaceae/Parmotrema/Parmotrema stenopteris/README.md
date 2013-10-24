@@ -1,5 +1,4 @@
-Parmotrema stenopteris (Kurok.) Hale ex DePriest & B. W. Hale SPECIES
-=======
+# Parmotrema stenopteris (Kurok.) Hale ex DePriest & B. W. Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geodina Denison GENUS
-=======
+# Geodina Denison GENUS
 
 #### Status
 ACCEPTED

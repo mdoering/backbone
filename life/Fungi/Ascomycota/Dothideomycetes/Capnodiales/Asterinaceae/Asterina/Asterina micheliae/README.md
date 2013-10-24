@@ -1,5 +1,4 @@
-Asterina micheliae Hansf. SPECIES
-=======
+# Asterina micheliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

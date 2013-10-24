@@ -1,5 +1,4 @@
-Porphyrellus cyaneotinctus (A.H. Sm. & Thiers) Singer SPECIES
-=======
+# Porphyrellus cyaneotinctus (A.H. Sm. & Thiers) Singer SPECIES
 
 #### Status
 ACCEPTED

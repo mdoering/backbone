@@ -1,5 +1,4 @@
-Cryphonectria abscondita (Sacc.) Sacc. SPECIES
-=======
+# Cryphonectria abscondita (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon pycnocarpoides Eitner SPECIES
-=======
+# Rhizocarpon pycnocarpoides Eitner SPECIES
 
 #### Status
 ACCEPTED

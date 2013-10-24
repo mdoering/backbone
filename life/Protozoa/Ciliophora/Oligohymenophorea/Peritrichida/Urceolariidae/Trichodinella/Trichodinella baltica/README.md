@@ -1,5 +1,4 @@
-Trichodinella baltica (Stryjecka-Trembaczowska, 1953) Sramek-Husek, 1955 SPECIES
-=======
+# Trichodinella baltica (Stryjecka-Trembaczowska, 1953) Sramek-Husek, 1955 SPECIES
 
 #### Status
 ACCEPTED

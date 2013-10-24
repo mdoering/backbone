@@ -1,5 +1,4 @@
-Kuehneola garugae Syd. & P. Syd. SPECIES
-=======
+# Kuehneola garugae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

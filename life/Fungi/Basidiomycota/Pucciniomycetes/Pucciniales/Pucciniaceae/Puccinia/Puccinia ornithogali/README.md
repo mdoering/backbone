@@ -1,5 +1,4 @@
-Puccinia ornithogali Kalchbr. SPECIES
-=======
+# Puccinia ornithogali Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

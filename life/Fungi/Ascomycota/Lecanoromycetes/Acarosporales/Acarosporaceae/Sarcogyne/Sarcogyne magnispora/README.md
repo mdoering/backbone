@@ -1,5 +1,4 @@
-Sarcogyne magnispora K. Knudsen & Halici SPECIES
-=======
+# Sarcogyne magnispora K. Knudsen & Halici SPECIES
 
 #### Status
 ACCEPTED

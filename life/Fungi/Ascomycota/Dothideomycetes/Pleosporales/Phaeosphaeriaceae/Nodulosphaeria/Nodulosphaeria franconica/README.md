@@ -1,17 +1,16 @@
-Leptosphaeria derasa var. franconica Petr., 1931 VARIETY
-=======
+# Nodulosphaeria franconica (Petr.) L. Holm, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 14(3): 84 (1957)
 
 #### Original name
-null
+Leptosphaeria derasa var. franconica Petr., 1931
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amanitopsis avellaneosquamosa S. Imai SPECIES
-=======
+# Amanitopsis avellaneosquamosa S. Imai SPECIES
 
 #### Status
 ACCEPTED

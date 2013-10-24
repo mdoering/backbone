@@ -1,5 +1,4 @@
-Uredo nervisequa (Thüm.) Sacc. SPECIES
-=======
+# Uredo nervisequa (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

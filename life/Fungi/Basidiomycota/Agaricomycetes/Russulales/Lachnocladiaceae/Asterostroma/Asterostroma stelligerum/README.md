@@ -1,5 +1,4 @@
-Asterostroma stelligerum (Speg.) Speg. SPECIES
-=======
+# Asterostroma stelligerum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

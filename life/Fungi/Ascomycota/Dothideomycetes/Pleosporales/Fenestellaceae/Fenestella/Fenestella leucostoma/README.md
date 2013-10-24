@@ -1,5 +1,4 @@
-Fenestella leucostoma Ellis & Everh. SPECIES
-=======
+# Fenestella leucostoma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

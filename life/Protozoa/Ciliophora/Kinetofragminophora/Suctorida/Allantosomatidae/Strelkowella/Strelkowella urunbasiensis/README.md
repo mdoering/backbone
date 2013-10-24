@@ -1,5 +1,4 @@
-Strelkowella urunbasiensis Kornilova, 2004 SPECIES
-=======
+# Strelkowella urunbasiensis Kornilova, 2004 SPECIES
 
 #### Status
 ACCEPTED

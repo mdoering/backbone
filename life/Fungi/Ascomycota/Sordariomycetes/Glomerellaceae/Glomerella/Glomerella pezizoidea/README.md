@@ -1,5 +1,4 @@
-Glomerella pezizoidea Petr., 1952 SPECIES
-=======
+# Glomerella pezizoidea Petr., 1952 SPECIES
 
 #### Status
 ACCEPTED

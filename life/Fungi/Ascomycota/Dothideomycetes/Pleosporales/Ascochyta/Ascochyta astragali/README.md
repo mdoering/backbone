@@ -1,5 +1,4 @@
-Ascochyta astragali f. astragali Lebedeva FORM
-=======
+# Ascochyta astragali Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trudy Sredneaz. Univ. 14(5): 33 (1950)
 
 #### Original name
-Ascochyta astragali f. astragali Lebedeva
+Ascochyta astragali Golovin
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microchaete robinsonii J. Komárek SPECIES
-=======
+# Microchaete robinsonii J. Komárek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neoplaconema B. Sutton GENUS
-=======
+# Neoplaconema B. Sutton GENUS
 
 #### Status
 ACCEPTED

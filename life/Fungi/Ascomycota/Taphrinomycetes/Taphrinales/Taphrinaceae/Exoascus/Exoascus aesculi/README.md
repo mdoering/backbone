@@ -1,5 +1,4 @@
-Exoascus aesculi (Ellis & Everh.) F. Patt. SPECIES
-=======
+# Exoascus aesculi (Ellis & Everh.) F. Patt. SPECIES
 
 #### Status
 ACCEPTED

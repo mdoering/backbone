@@ -1,5 +1,4 @@
-Cortinarius glacialis Bidaud & Reumaux SPECIES
-=======
+# Cortinarius glacialis Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

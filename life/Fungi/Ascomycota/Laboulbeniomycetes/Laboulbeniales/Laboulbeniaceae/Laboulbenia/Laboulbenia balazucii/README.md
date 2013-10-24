@@ -1,5 +1,4 @@
-Laboulbenia balazucii var. balazucii VARIETY
-=======
+# Laboulbenia balazucii SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia balazucii var. balazucii
+Laboulbenia balazucii
 
 ### Remarks
 null

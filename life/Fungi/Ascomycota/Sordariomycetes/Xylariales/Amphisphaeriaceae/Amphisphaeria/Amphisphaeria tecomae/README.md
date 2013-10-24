@@ -1,5 +1,4 @@
-Amphisphaeria tecomae Rehm SPECIES
-=======
+# Amphisphaeria tecomae Rehm SPECIES
 
 #### Status
 ACCEPTED

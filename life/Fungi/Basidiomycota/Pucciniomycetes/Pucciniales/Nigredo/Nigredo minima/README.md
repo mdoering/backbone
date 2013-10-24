@@ -1,5 +1,4 @@
-Nigredo minima (Davis) Arthur SPECIES
-=======
+# Nigredo minima (Davis) Arthur SPECIES
 
 #### Status
 ACCEPTED

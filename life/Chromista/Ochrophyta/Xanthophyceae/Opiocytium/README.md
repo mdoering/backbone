@@ -1,5 +1,4 @@
-Opiocytium GENUS
-=======
+# Opiocytium GENUS
 
 #### Status
 ACCEPTED

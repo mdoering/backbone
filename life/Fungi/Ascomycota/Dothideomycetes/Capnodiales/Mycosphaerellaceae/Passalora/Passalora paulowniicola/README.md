@@ -1,5 +1,4 @@
-Passalora paulowniicola (J.M. Yen & S.K. Sun) U. Braun & Crous SPECIES
-=======
+# Passalora paulowniicola (J.M. Yen & S.K. Sun) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

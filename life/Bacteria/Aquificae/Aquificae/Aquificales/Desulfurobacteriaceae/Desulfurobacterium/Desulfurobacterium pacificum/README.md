@@ -1,5 +1,4 @@
-Desulfurobacterium pacificum L'Haridon, Reysenbach, Tindall, Schonheit, Banta, Johnsen, Schumann, Gambacorta, Stackebrandt & Jeanthon, 2006 SPECIES
-=======
+# Desulfurobacterium pacificum L'Haridon, Reysenbach, Tindall, Schonheit, Banta, Johnsen, Schumann, Gambacorta, Stackebrandt & Jeanthon, 2006 SPECIES
 
 #### Status
 ACCEPTED

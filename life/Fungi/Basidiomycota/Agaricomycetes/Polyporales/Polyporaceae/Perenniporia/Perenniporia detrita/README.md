@@ -1,5 +1,4 @@
-Perenniporia detrita (Berk.) Ryvarden, 1980 SPECIES
-=======
+# Perenniporia detrita (Berk.) Ryvarden, 1980 SPECIES
 
 #### Status
 ACCEPTED

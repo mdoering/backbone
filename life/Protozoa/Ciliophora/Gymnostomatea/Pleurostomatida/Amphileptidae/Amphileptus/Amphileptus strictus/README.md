@@ -1,5 +1,4 @@
-Amphileptus strictus SPECIES
-=======
+# Amphileptus strictus SPECIES
 
 #### Status
 ACCEPTED

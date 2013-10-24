@@ -1,5 +1,4 @@
-Ductifera bistrata P. Roberts SPECIES
-=======
+# Ductifera bistrata P. Roberts SPECIES
 
 #### Status
 ACCEPTED

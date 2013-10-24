@@ -1,5 +1,4 @@
-Phyllosticta diervillae Davis SPECIES
-=======
+# Phyllosticta diervillae Davis SPECIES
 
 #### Status
 ACCEPTED

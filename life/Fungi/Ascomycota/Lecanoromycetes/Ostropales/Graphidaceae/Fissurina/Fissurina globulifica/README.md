@@ -1,14 +1,13 @@
-Graphis globulifica Nyl. SPECIES
-=======
+# Fissurina globulifica (Nyl.) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 85: 137 (2002)
 
 #### Original name
 Graphis globulifica Nyl.

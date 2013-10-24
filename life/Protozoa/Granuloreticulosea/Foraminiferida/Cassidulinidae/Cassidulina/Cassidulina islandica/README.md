@@ -1,5 +1,4 @@
-Cassidulina islandica SPECIES
-=======
+# Cassidulina islandica SPECIES
 
 #### Status
 ACCEPTED

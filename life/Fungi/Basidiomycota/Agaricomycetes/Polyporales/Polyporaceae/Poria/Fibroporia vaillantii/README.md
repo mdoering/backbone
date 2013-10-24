@@ -1,17 +1,16 @@
-Polyporus sericeomollis Romell, 1911 SPECIES
-=======
+# Fibroporia vaillantii (DC.) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Consp. System. Corticiac. (Tartu) 177 (1968)
 
 #### Original name
-null
+Boletus vaillantii DC., 1815
 
 ### Remarks
 null

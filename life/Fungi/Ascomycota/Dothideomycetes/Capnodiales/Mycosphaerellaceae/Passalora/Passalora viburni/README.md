@@ -1,5 +1,4 @@
-Passalora viburni (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora viburni (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialoscypha spiraeicola Raitv. SPECIES
-=======
+# Phialoscypha spiraeicola Raitv. SPECIES
 
 #### Status
 ACCEPTED

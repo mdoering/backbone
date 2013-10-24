@@ -1,5 +1,4 @@
-Collybia ferruginescens Velen. SPECIES
-=======
+# Collybia ferruginescens Velen. SPECIES
 
 #### Status
 ACCEPTED

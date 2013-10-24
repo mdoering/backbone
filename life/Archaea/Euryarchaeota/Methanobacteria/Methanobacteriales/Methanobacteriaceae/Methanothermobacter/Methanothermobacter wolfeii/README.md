@@ -1,8 +1,7 @@
-Methanobacterium wolfei Winter et al., 1985 SPECIES
-=======
+# Methanothermobacter wolfeii (Winter et al., 1985) Wasserfallen et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

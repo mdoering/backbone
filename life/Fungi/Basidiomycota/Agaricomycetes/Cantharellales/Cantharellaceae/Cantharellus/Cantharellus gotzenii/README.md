@@ -1,5 +1,4 @@
-Cantharellus gotzenii Eichelb. SPECIES
-=======
+# Cantharellus gotzenii Eichelb. SPECIES
 
 #### Status
 ACCEPTED

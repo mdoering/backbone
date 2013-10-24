@@ -1,5 +1,4 @@
-Stibiobacter senarmontii Lyalikova, 1974 SPECIES
-=======
+# Stibiobacter senarmontii Lyalikova, 1974 SPECIES
 
 #### Status
 ACCEPTED

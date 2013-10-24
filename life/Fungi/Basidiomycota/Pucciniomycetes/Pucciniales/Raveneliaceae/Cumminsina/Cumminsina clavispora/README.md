@@ -1,5 +1,4 @@
-Cumminsina clavispora Petr., 1955 SPECIES
-=======
+# Cumminsina clavispora Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

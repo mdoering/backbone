@@ -1,5 +1,4 @@
-Psathyrella ornatispora M. Villarreal & Esteve-Rav. SPECIES
-=======
+# Psathyrella ornatispora M. Villarreal & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea erikssonii Motyka SPECIES
-=======
+# Usnea erikssonii Motyka SPECIES
 
 #### Status
 ACCEPTED

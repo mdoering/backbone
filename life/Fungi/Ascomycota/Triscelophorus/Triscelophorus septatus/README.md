@@ -1,5 +1,4 @@
-Triscelophorus septatus Wolfe SPECIES
-=======
+# Triscelophorus septatus Wolfe SPECIES
 
 #### Status
 ACCEPTED

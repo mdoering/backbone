@@ -1,5 +1,4 @@
-Strongylidium bacilliforme SPECIES
-=======
+# Strongylidium bacilliforme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenocephalopsis Chamuris & C.J.K. Wang GENUS
-=======
+# Stenocephalopsis Chamuris & C.J.K. Wang GENUS
 
 #### Status
 ACCEPTED

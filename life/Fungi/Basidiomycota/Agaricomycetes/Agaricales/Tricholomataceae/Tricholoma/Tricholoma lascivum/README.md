@@ -1,17 +1,16 @@
-Agaricus lascivus var. lascivus Fr. VARIETY
-=======
+# Tricholoma lascivum (Fr.) Gillet, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 110 (1821)
+Hyménomycètes (Alençon) 111 (1874)
 
 #### Original name
-Agaricus lascivus var. lascivus Fr.
+Agaricus lascivus Fr., 1821
 
 ### Remarks
 null

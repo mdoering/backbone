@@ -1,5 +1,4 @@
-Eupodiscus ovalis G. Norman, 1861 SPECIES
-=======
+# Eupodiscus ovalis G. Norman, 1861 SPECIES
 
 #### Status
 ACCEPTED

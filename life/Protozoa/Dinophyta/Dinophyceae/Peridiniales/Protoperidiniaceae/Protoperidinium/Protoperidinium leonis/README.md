@@ -1,5 +1,4 @@
-Protoperidinium leonis (Pavillard) Balech SPECIES
-=======
+# Protoperidinium leonis (Pavillard) Balech SPECIES
 
 #### Status
 ACCEPTED

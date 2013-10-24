@@ -1,5 +1,4 @@
-Helminthosporium goniotrichum Corda SPECIES
-=======
+# Helminthosporium goniotrichum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronellaria P. Karst. GENUS
-=======
+# Coronellaria P. Karst. GENUS
 
 #### Status
 ACCEPTED

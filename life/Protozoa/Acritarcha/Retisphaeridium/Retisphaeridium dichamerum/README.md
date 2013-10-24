@@ -1,5 +1,4 @@
-Retisphaeridium dichamerum Staplin, Jansonius & Pocock, 1965 SPECIES
-=======
+# Retisphaeridium dichamerum Staplin, Jansonius & Pocock, 1965 SPECIES
 
 #### Status
 ACCEPTED

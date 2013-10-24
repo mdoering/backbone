@@ -1,5 +1,4 @@
-Gloeosporium aletridis Henn. SPECIES
-=======
+# Gloeosporium aletridis Henn. SPECIES
 
 #### Status
 ACCEPTED

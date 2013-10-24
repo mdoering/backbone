@@ -1,5 +1,4 @@
-Lecanora bakonyensis SPECIES
-=======
+# Lecanora bakonyensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Odonticium canoluteum (Sheng H. Wu) Zmitr. & Spirin SPECIES
-=======
+# Odonticium canoluteum (Sheng H. Wu) Zmitr. & Spirin SPECIES
 
 #### Status
 ACCEPTED

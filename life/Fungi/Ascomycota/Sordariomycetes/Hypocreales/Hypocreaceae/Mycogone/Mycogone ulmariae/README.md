@@ -1,5 +1,4 @@
-Mycogone ulmariae Potebnia SPECIES
-=======
+# Mycogone ulmariae Potebnia SPECIES
 
 #### Status
 ACCEPTED

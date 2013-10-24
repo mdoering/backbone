@@ -1,5 +1,4 @@
-Baltisphaeridium ramiferum Uutela & Tynni, 1991 SPECIES
-=======
+# Baltisphaeridium ramiferum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

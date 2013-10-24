@@ -1,5 +1,4 @@
-Peziza citri Penz. SPECIES
-=======
+# Peziza citri Penz. SPECIES
 
 #### Status
 ACCEPTED

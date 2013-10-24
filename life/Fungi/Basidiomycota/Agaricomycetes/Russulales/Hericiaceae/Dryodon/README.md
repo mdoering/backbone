@@ -1,5 +1,4 @@
-Dryodon GENUS
-=======
+# Dryodon GENUS
 
 #### Status
 ACCEPTED

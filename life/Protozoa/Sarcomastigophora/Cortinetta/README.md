@@ -1,5 +1,4 @@
-Cortinetta Haeckel, 1887 GENUS
-=======
+# Cortinetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

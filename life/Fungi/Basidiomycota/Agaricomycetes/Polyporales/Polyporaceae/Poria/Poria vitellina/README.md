@@ -1,5 +1,4 @@
-Poria vitellina (Schwein.) Sacc. SPECIES
-=======
+# Poria vitellina (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

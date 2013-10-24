@@ -1,5 +1,4 @@
-Peziza asterostoma W. Phillips SPECIES
-=======
+# Peziza asterostoma W. Phillips SPECIES
 
 #### Status
 ACCEPTED

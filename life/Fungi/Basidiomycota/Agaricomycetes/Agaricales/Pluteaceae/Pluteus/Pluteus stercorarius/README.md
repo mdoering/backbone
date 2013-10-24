@@ -1,5 +1,4 @@
-Pluteus stercorarius Peck SPECIES
-=======
+# Pluteus stercorarius Peck SPECIES
 
 #### Status
 ACCEPTED

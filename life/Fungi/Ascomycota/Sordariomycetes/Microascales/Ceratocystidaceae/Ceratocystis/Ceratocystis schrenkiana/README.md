@@ -1,5 +1,4 @@
-Ceratocystis schrenkiana (Hedgc.) C. Moreau SPECIES
-=======
+# Ceratocystis schrenkiana (Hedgc.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

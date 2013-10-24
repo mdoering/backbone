@@ -1,5 +1,4 @@
-Megalospora microphthalma (Vain.) Zahlbr. SPECIES
-=======
+# Megalospora microphthalma (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

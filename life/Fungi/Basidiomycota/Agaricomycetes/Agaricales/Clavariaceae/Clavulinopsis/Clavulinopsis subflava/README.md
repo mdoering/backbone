@@ -1,5 +1,4 @@
-Clavulinopsis subflava (Britzelm.) Corner SPECIES
-=======
+# Clavulinopsis subflava (Britzelm.) Corner SPECIES
 
 #### Status
 ACCEPTED

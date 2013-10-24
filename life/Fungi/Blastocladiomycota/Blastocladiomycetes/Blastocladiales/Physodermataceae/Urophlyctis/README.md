@@ -1,5 +1,4 @@
-Urophlyctis GENUS
-=======
+# Urophlyctis GENUS
 
 #### Status
 ACCEPTED

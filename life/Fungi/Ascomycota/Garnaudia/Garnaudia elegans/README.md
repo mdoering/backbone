@@ -1,5 +1,4 @@
-Garnaudia elegans Borowska, 1977 SPECIES
-=======
+# Garnaudia elegans Borowska, 1977 SPECIES
 
 #### Status
 ACCEPTED

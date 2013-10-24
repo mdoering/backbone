@@ -1,5 +1,4 @@
-Gloiodon stratosus (Berk.) Banker SPECIES
-=======
+# Gloiodon stratosus (Berk.) Banker SPECIES
 
 #### Status
 ACCEPTED

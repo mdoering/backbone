@@ -1,5 +1,4 @@
-Corethromyces kamerunensis Thaxt. SPECIES
-=======
+# Corethromyces kamerunensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

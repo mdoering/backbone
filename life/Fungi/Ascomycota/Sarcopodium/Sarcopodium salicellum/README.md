@@ -1,5 +1,4 @@
-Sarcopodium salicellum Sacc. SPECIES
-=======
+# Sarcopodium salicellum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polymyxa Ledingham GENUS
-=======
+# Polymyxa Ledingham GENUS
 
 #### Status
 ACCEPTED

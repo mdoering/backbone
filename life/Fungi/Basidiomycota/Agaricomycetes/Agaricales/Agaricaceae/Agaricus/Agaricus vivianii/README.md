@@ -1,5 +1,4 @@
-Agaricus vivianii Fr. SPECIES
-=======
+# Agaricus vivianii Fr. SPECIES
 
 #### Status
 ACCEPTED

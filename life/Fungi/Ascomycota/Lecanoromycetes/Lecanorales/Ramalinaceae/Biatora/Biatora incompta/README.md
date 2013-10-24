@@ -1,5 +1,4 @@
-Biatora incompta Hepp SPECIES
-=======
+# Biatora incompta Hepp SPECIES
 
 #### Status
 ACCEPTED

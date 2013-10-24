@@ -1,5 +1,4 @@
-Sphaerella pistaciae Cooke SPECIES
-=======
+# Sphaerella pistaciae Cooke SPECIES
 
 #### Status
 ACCEPTED

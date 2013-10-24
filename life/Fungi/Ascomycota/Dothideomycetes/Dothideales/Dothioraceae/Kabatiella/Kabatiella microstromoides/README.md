@@ -1,5 +1,4 @@
-Kabatiella microstromoides (Moesz) Karak. SPECIES
-=======
+# Kabatiella microstromoides (Moesz) Karak. SPECIES
 
 #### Status
 ACCEPTED

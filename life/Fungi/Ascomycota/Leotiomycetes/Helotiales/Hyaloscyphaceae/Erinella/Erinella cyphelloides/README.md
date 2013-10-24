@@ -1,5 +1,4 @@
-Erinella cyphelloides Pat. SPECIES
-=======
+# Erinella cyphelloides Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium eugyrum Tuck. SPECIES
-=======
+# Placodium eugyrum Tuck. SPECIES
 
 #### Status
 ACCEPTED

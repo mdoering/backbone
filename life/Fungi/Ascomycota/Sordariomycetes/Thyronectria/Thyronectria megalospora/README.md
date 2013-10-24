@@ -1,5 +1,4 @@
-Thyronectria megalospora (Speg.) Seaver & Chardón SPECIES
-=======
+# Thyronectria megalospora (Speg.) Seaver & Chardón SPECIES
 
 #### Status
 ACCEPTED

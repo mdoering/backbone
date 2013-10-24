@@ -1,5 +1,4 @@
-Abelspora portucalensis C. Azevedo, 1987 SPECIES
-=======
+# Abelspora portucalensis C. Azevedo, 1987 SPECIES
 
 #### Status
 ACCEPTED

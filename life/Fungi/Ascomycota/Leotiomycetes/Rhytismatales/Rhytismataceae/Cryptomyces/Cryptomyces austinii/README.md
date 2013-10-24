@@ -1,5 +1,4 @@
-Cryptomyces austinii (Cooke) Sacc. SPECIES
-=======
+# Cryptomyces austinii (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

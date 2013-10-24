@@ -1,5 +1,4 @@
-Fusarium sphaeriaeforme Sacc. SPECIES
-=======
+# Fusarium sphaeriaeforme Sacc. SPECIES
 
 #### Status
 ACCEPTED

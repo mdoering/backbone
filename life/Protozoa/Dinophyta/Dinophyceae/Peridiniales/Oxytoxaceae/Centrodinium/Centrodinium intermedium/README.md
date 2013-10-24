@@ -1,5 +1,4 @@
-Centrodinium intermedium Pavillard SPECIES
-=======
+# Centrodinium intermedium Pavillard SPECIES
 
 #### Status
 ACCEPTED

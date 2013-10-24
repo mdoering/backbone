@@ -1,5 +1,4 @@
-Glyphis dispar (Pers.) Mont. SPECIES
-=======
+# Glyphis dispar (Pers.) Mont. SPECIES
 
 #### Status
 ACCEPTED

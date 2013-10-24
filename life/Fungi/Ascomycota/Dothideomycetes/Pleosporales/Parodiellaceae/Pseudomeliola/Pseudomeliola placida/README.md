@@ -1,5 +1,4 @@
-Pseudomeliola placida Syd. SPECIES
-=======
+# Pseudomeliola placida Syd. SPECIES
 
 #### Status
 ACCEPTED

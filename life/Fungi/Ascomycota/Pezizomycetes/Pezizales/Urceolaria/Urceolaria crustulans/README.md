@@ -1,5 +1,4 @@
-Urceolaria crustulans Motyka SPECIES
-=======
+# Urceolaria crustulans Motyka SPECIES
 
 #### Status
 ACCEPTED

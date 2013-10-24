@@ -1,5 +1,4 @@
-Septoria potentillarum Fuckel SPECIES
-=======
+# Septoria potentillarum Fuckel SPECIES
 
 #### Status
 ACCEPTED

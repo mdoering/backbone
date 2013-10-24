@@ -1,5 +1,4 @@
-Ditiola paradoxa (R. Hedw.) Fr. SPECIES
-=======
+# Ditiola paradoxa (R. Hedw.) Fr. SPECIES
 
 #### Status
 ACCEPTED

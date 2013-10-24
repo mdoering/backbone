@@ -1,5 +1,4 @@
-Nematocampa filamentaria GV SPECIES
-=======
+# Nematocampa filamentaria GV SPECIES
 
 #### Status
 ACCEPTED

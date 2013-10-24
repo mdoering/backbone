@@ -1,5 +1,4 @@
-Lepiota subflavescens Murrill SPECIES
-=======
+# Lepiota subflavescens Murrill SPECIES
 
 #### Status
 ACCEPTED

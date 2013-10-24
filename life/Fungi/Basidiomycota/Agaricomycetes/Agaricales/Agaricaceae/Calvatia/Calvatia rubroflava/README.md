@@ -1,5 +1,4 @@
-Calvatia rubroflava (Cragin) Lloyd SPECIES
-=======
+# Calvatia rubroflava (Cragin) Lloyd SPECIES
 
 #### Status
 ACCEPTED

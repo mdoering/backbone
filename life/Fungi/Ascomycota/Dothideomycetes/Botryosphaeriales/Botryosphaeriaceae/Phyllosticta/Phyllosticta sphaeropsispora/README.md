@@ -1,5 +1,4 @@
-Phyllosticta sphaeropsispora Ellis & Everh. SPECIES
-=======
+# Phyllosticta sphaeropsispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

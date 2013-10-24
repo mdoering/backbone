@@ -1,5 +1,4 @@
-Leptonia australis Murrill SPECIES
-=======
+# Leptonia australis Murrill SPECIES
 
 #### Status
 ACCEPTED

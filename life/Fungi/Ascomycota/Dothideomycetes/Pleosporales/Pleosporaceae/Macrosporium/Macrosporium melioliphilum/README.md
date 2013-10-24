@@ -1,5 +1,4 @@
-Macrosporium melioliphilum Cif. SPECIES
-=======
+# Macrosporium melioliphilum Cif. SPECIES
 
 #### Status
 ACCEPTED

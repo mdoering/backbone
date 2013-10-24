@@ -1,5 +1,4 @@
-Lentinus palauensis Imazeki SPECIES
-=======
+# Lentinus palauensis Imazeki SPECIES
 
 #### Status
 ACCEPTED

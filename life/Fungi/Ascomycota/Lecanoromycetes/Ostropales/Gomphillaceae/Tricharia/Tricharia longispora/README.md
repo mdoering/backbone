@@ -1,5 +1,4 @@
-Tricharia longispora Kalb & Vezda SPECIES
-=======
+# Tricharia longispora Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

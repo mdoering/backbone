@@ -1,5 +1,4 @@
-Staurothele ochroplaca Zahlbr. SPECIES
-=======
+# Staurothele ochroplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

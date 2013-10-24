@@ -1,5 +1,4 @@
-Ogataea glucozyma (Wick.) Y. Yamada, K. Maeda & Mikata, 1994 SPECIES
-=======
+# Ogataea glucozyma (Wick.) Y. Yamada, K. Maeda & Mikata, 1994 SPECIES
 
 #### Status
 ACCEPTED

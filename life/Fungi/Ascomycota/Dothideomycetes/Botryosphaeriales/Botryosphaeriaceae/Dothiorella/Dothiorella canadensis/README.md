@@ -1,5 +1,4 @@
-Dothiorella canadensis Ellis & Everh. SPECIES
-=======
+# Dothiorella canadensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

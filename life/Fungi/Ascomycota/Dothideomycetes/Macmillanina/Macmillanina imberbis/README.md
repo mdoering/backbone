@@ -1,5 +1,4 @@
-Macmillanina imberbis (Fr.) Kuntze SPECIES
-=======
+# Macmillanina imberbis (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

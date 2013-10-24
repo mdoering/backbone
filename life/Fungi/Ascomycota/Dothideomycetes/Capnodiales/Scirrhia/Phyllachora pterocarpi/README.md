@@ -1,5 +1,4 @@
-Phyllachora pterocarpi Syd. & P. Syd., 1912 SPECIES
-=======
+# Phyllachora pterocarpi Syd. & P. Syd., 1912 SPECIES
 
 #### Status
 DOUBTFUL

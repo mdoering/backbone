@@ -1,5 +1,4 @@
-Ascochytella stegasphaeriae Petr. SPECIES
-=======
+# Ascochytella stegasphaeriae Petr. SPECIES
 
 #### Status
 ACCEPTED

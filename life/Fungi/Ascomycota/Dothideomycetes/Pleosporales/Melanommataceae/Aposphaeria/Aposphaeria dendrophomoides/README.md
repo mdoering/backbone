@@ -1,5 +1,4 @@
-Aposphaeria dendrophomoides Sacc. SPECIES
-=======
+# Aposphaeria dendrophomoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

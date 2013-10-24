@@ -1,5 +1,4 @@
-Micropeltella sasae I. Hino & Katum. SPECIES
-=======
+# Micropeltella sasae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

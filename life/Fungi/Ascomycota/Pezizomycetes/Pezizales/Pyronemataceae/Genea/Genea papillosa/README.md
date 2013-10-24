@@ -1,5 +1,4 @@
-Genea papillosa Vittad., 1831 SPECIES
-=======
+# Genea papillosa Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED

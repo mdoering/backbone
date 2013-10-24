@@ -1,5 +1,4 @@
-Torula allii (Harz) Sacc. SPECIES
-=======
+# Torula allii (Harz) Sacc. SPECIES
 
 #### Status
 ACCEPTED

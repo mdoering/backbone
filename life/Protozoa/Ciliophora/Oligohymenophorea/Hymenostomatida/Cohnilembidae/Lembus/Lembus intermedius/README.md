@@ -1,5 +1,4 @@
-Lembus intermedius Gourret & Roeser, 1886 SPECIES
-=======
+# Lembus intermedius Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryopogon motykanus (Bystrek) Bystrek SPECIES
-=======
+# Bryopogon motykanus (Bystrek) Bystrek SPECIES
 
 #### Status
 ACCEPTED

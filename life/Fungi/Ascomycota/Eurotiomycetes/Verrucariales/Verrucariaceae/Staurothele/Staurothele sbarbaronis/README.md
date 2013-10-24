@@ -1,5 +1,4 @@
-Staurothele sbarbaronis Vezda SPECIES
-=======
+# Staurothele sbarbaronis Vezda SPECIES
 
 #### Status
 ACCEPTED

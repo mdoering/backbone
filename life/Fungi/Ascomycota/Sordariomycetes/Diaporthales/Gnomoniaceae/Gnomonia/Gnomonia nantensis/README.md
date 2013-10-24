@@ -1,5 +1,4 @@
-Gnomonia nantensis M. Monod SPECIES
-=======
+# Gnomonia nantensis M. Monod SPECIES
 
 #### Status
 ACCEPTED

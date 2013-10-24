@@ -1,5 +1,4 @@
-Tintinnopsis parovalis Eicher, 1965 SPECIES
-=======
+# Tintinnopsis parovalis Eicher, 1965 SPECIES
 
 #### Status
 ACCEPTED

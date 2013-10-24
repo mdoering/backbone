@@ -1,17 +1,16 @@
-Capnodiastrum santalii B.R.D. Yadav & V.G. Rao SPECIES
-=======
+# Capnodiastrum santali B.R.D. Yadav & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Univ. Poona, Sci. Techn. 50: 171 (1977)
 
 #### Original name
-Capnodiastrum santalii B.R.D. Yadav & V.G. Rao
+Capnodiastrum santali B.R.D. Yadav & V.G. Rao
 
 ### Remarks
 null

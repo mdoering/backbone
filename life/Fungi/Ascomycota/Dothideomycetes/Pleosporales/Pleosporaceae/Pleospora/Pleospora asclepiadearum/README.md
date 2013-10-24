@@ -1,5 +1,4 @@
-Pleospora asclepiadearum McAlpine SPECIES
-=======
+# Pleospora asclepiadearum McAlpine SPECIES
 
 #### Status
 ACCEPTED

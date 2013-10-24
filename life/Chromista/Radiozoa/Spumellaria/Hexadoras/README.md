@@ -1,14 +1,13 @@
-Hexadoros Swenander, 1907 GENUS
-=======
+# Hexadoras Haeckel, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. trimestr. Conseil Int. Mer. , 1905-06, no. 4 (D), 104.
+Jena. Z. , 15, 455.
 
 #### Original name
 null

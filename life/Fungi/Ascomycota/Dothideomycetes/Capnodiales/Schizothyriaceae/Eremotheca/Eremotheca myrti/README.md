@@ -1,5 +1,4 @@
-Eremotheca myrti Bat. & H. Maia SPECIES
-=======
+# Eremotheca myrti Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

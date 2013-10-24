@@ -1,5 +1,4 @@
-Entoloma fuliginomarginatum Hesler SPECIES
-=======
+# Entoloma fuliginomarginatum Hesler SPECIES
 
 #### Status
 ACCEPTED

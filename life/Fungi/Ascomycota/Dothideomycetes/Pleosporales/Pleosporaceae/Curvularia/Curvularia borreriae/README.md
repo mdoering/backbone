@@ -1,14 +1,13 @@
-Helminthosporium borreriae Viégas, 1944 SPECIES
-=======
+# Curvularia borreriae (Viégas) M.B. Ellis, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arq. Mus. Nac. Rio de Janeiro 7(4): 381 (1944)
+in Viegas, Mycol. Pap. 106: 6 (1966)
 
 #### Original name
 Helminthosporium borreriae Viégas, 1944

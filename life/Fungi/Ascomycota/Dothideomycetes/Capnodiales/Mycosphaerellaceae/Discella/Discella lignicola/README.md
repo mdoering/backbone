@@ -1,5 +1,4 @@
-Discella lignicola Cooke, 1879 SPECIES
-=======
+# Discella lignicola Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

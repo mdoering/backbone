@@ -1,5 +1,4 @@
-Collybia attenuata R. Heim SPECIES
-=======
+# Collybia attenuata R. Heim SPECIES
 
 #### Status
 ACCEPTED

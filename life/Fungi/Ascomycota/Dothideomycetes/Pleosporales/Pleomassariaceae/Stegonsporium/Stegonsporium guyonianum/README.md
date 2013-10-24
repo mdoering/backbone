@@ -1,5 +1,4 @@
-Stegonsporium guyonianum (Mont. & Durieu) Sacc. SPECIES
-=======
+# Stegonsporium guyonianum (Mont. & Durieu) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Semantrum Haeckel, 1887 GENUS
-=======
+# Semantrum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

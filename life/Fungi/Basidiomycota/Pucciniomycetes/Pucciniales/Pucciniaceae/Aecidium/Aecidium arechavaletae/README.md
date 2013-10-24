@@ -1,5 +1,4 @@
-Aecidium arechavaletae Speg. SPECIES
-=======
+# Aecidium arechavaletae Speg. SPECIES
 
 #### Status
 ACCEPTED

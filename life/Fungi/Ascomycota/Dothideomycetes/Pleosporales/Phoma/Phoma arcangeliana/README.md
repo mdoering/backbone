@@ -1,5 +1,4 @@
-Phoma arcangeliana Tassi SPECIES
-=======
+# Phoma arcangeliana Tassi SPECIES
 
 #### Status
 ACCEPTED

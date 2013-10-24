@@ -1,5 +1,4 @@
-Diatrype megale Rehm SPECIES
-=======
+# Diatrype megale Rehm SPECIES
 
 #### Status
 ACCEPTED

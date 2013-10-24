@@ -1,5 +1,4 @@
-Dictyothyrium betulae Grove SPECIES
-=======
+# Dictyothyrium betulae Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia lisbonensis Werner SPECIES
-=======
+# Buellia lisbonensis Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus tianshanensis B. Liu & J.Z. Cao SPECIES
-=======
+# Cyathus tianshanensis B. Liu & J.Z. Cao SPECIES
 
 #### Status
 ACCEPTED

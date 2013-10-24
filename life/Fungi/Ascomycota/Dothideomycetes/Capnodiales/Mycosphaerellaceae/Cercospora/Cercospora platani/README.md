@@ -1,5 +1,4 @@
-Cercospora platani J.M. Yen SPECIES
-=======
+# Cercospora platani J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

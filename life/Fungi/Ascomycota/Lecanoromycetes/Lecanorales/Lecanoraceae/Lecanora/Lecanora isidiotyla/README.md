@@ -1,5 +1,4 @@
-Lecanora isidiotyla Vain. SPECIES
-=======
+# Lecanora isidiotyla Vain. SPECIES
 
 #### Status
 ACCEPTED

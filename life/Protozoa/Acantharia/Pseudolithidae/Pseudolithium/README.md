@@ -1,5 +1,4 @@
-Pseudolithium Schewiakoff, 1926 GENUS
-=======
+# Pseudolithium Schewiakoff, 1926 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutstroemia macilenta P. Karst. SPECIES
-=======
+# Rutstroemia macilenta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

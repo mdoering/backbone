@@ -1,5 +1,4 @@
-Sorosporium ipomoeae Speschnew SPECIES
-=======
+# Sorosporium ipomoeae Speschnew SPECIES
 
 #### Status
 ACCEPTED

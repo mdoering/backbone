@@ -1,5 +1,4 @@
-Microdiplodia aristidae Koshk. & Frolov SPECIES
-=======
+# Microdiplodia aristidae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

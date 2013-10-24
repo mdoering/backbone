@@ -1,5 +1,4 @@
-Coniosporium incertum P. Karst. SPECIES
-=======
+# Coniosporium incertum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

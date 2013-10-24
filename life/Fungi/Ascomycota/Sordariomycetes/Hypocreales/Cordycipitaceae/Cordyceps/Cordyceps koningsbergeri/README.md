@@ -1,5 +1,4 @@
-Cordyceps koningsbergeri Penz. & Sacc. SPECIES
-=======
+# Cordyceps koningsbergeri Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

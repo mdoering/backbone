@@ -1,5 +1,4 @@
-Candida ethanolica Rybárová, Štros & Kock.-Krat., 1980 SPECIES
-=======
+# Candida ethanolica Rybárová, Štros & Kock.-Krat., 1980 SPECIES
 
 #### Status
 ACCEPTED

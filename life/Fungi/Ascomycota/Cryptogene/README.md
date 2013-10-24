@@ -1,5 +1,4 @@
-Cryptogene GENUS
-=======
+# Cryptogene GENUS
 
 #### Status
 ACCEPTED

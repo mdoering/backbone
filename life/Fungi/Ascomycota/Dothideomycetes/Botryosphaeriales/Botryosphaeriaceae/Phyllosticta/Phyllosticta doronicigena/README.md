@@ -1,5 +1,4 @@
-Phyllosticta doronicigena Bubák SPECIES
-=======
+# Phyllosticta doronicigena Bubák SPECIES
 
 #### Status
 ACCEPTED

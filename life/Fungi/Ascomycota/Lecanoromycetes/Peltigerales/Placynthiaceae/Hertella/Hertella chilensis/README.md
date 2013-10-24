@@ -1,5 +1,4 @@
-Hertella chilensis Henssen SPECIES
-=======
+# Hertella chilensis Henssen SPECIES
 
 #### Status
 ACCEPTED

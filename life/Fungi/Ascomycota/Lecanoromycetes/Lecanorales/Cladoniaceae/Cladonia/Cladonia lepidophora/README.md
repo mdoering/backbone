@@ -1,5 +1,4 @@
-Cladonia lepidophora Ahti & Kashiw. SPECIES
-=======
+# Cladonia lepidophora Ahti & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

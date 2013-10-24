@@ -1,5 +1,4 @@
-Septoria stratiotis Oudem. SPECIES
-=======
+# Septoria stratiotis Oudem. SPECIES
 
 #### Status
 ACCEPTED

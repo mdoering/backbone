@@ -1,5 +1,4 @@
-Geomyces pulvereus A.D. Hocking & Pitt, 1988 SPECIES
-=======
+# Geomyces pulvereus A.D. Hocking & Pitt, 1988 SPECIES
 
 #### Status
 ACCEPTED

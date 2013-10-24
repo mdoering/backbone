@@ -1,5 +1,4 @@
-Pycnothyrium myriadeum Syd. & P. Syd. SPECIES
-=======
+# Pycnothyrium myriadeum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

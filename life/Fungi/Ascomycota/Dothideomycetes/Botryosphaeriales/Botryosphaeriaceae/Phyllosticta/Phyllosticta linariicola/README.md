@@ -1,17 +1,16 @@
-Phyllosticta linariaecola Chevassut SPECIES
-=======
+# Phyllosticta linariicola Chevassut SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 107(1): 42 (1991)
 
 #### Original name
-Phyllosticta linariaecola Chevassut
+Phyllosticta linariicola Chevassut
 
 ### Remarks
 null

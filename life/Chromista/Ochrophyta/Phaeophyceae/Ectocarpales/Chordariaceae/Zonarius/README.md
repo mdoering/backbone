@@ -1,5 +1,4 @@
-Zonarius Ørsted GENUS
-=======
+# Zonarius Ørsted GENUS
 
 #### Status
 ACCEPTED

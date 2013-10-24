@@ -1,5 +1,4 @@
-Hydnum penicillatum Pass. SPECIES
-=======
+# Hydnum penicillatum Pass. SPECIES
 
 #### Status
 ACCEPTED

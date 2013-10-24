@@ -1,5 +1,4 @@
-Doassansia ranunculina Davis SPECIES
-=======
+# Doassansia ranunculina Davis SPECIES
 
 #### Status
 ACCEPTED

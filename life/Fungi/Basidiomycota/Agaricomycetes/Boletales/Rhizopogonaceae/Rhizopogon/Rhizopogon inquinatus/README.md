@@ -1,5 +1,4 @@
-Rhizopogon inquinatus A.H. Sm. SPECIES
-=======
+# Rhizopogon inquinatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

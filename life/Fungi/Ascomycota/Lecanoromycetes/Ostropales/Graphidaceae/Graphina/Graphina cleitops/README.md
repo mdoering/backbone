@@ -1,5 +1,4 @@
-Graphina cleitops (Fée) Müll. Arg. SPECIES
-=======
+# Graphina cleitops (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

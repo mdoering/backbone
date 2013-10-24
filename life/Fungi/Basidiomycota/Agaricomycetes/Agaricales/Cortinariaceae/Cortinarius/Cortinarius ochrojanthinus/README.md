@@ -1,5 +1,4 @@
-Cortinarius ochrojanthinus E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius ochrojanthinus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

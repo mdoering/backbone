@@ -1,5 +1,4 @@
-Heterothecium lividum (Mont.) A. Massal. SPECIES
-=======
+# Heterothecium lividum (Mont.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

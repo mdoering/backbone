@@ -1,5 +1,4 @@
-Polyporus stillicidiorum Speg. SPECIES
-=======
+# Polyporus stillicidiorum Speg. SPECIES
 
 #### Status
 ACCEPTED

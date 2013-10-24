@@ -1,5 +1,4 @@
-Quinqueloculina d'Orbigny, 1826 GENUS
-=======
+# Quinqueloculina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

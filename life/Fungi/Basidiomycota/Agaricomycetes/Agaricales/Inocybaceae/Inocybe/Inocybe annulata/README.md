@@ -1,5 +1,4 @@
-Inocybe annulata Velen. SPECIES
-=======
+# Inocybe annulata Velen. SPECIES
 
 #### Status
 ACCEPTED

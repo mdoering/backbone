@@ -1,5 +1,4 @@
-Acineta compressa Claparède & Lachmann, 1859 SPECIES
-=======
+# Acineta compressa Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

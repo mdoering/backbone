@@ -1,5 +1,4 @@
-Phylloporus guzmanii Montoya & Bandala SPECIES
-=======
+# Phylloporus guzmanii Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

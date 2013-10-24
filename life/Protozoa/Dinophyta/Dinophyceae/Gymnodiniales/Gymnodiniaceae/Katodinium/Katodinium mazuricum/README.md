@@ -1,5 +1,4 @@
-Katodinium mazuricum Javornicky SPECIES
-=======
+# Katodinium mazuricum Javornicky SPECIES
 
 #### Status
 ACCEPTED

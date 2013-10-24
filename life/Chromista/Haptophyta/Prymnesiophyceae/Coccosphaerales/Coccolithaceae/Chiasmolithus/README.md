@@ -1,5 +1,4 @@
-Chiasmolithus W.Hay, Mohler & M.Wade, 1966 GENUS
-=======
+# Chiasmolithus W.Hay, Mohler & M.Wade, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrgo tubulosa SPECIES
-=======
+# Pyrgo tubulosa SPECIES
 
 #### Status
 ACCEPTED

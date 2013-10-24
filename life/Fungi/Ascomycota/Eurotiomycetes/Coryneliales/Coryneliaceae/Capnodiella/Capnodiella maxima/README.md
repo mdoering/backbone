@@ -1,5 +1,4 @@
-Capnodiella maxima (Berk. & M.A. Curtis) Sacc. & D. Sacc. SPECIES
-=======
+# Capnodiella maxima (Berk. & M.A. Curtis) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

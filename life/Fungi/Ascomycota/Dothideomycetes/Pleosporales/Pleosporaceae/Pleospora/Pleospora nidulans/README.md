@@ -1,5 +1,4 @@
-Pleospora nidulans Speg. SPECIES
-=======
+# Pleospora nidulans Speg. SPECIES
 
 #### Status
 ACCEPTED

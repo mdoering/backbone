@@ -1,5 +1,4 @@
-Reticulogyra Adams & Belford, 1979 GENUS
-=======
+# Reticulogyra Adams & Belford, 1979 GENUS
 
 #### Status
 ACCEPTED

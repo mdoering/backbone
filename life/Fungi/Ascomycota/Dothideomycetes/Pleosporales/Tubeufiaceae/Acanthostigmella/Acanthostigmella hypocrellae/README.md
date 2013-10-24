@@ -1,5 +1,4 @@
-Acanthostigmella hypocrellae Rick SPECIES
-=======
+# Acanthostigmella hypocrellae Rick SPECIES
 
 #### Status
 ACCEPTED

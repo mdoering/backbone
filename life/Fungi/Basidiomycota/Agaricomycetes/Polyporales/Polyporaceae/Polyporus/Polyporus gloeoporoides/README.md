@@ -1,5 +1,4 @@
-Polyporus gloeoporoides Speg. SPECIES
-=======
+# Polyporus gloeoporoides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia mutabilis Vain. SPECIES
-=======
+# Cladonia mutabilis Vain. SPECIES
 
 #### Status
 ACCEPTED

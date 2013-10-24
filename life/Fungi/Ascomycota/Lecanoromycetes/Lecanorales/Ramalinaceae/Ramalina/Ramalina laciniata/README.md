@@ -1,5 +1,4 @@
-Ramalina laciniata Jatta SPECIES
-=======
+# Ramalina laciniata Jatta SPECIES
 
 #### Status
 ACCEPTED

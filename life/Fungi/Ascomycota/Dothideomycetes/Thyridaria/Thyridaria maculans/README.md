@@ -1,5 +1,4 @@
-Thyridaria maculans (Fabre) M.E. Barr SPECIES
-=======
+# Thyridaria maculans (Fabre) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

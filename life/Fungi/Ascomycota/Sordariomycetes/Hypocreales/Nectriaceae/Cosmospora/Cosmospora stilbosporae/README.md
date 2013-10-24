@@ -1,5 +1,4 @@
-Cosmospora stilbosporae (Tul. & C. Tul.) Rossman & Samuels SPECIES
-=======
+# Cosmospora stilbosporae (Tul. & C. Tul.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linospora tremulae Morthier SPECIES
-=======
+# Linospora tremulae Morthier SPECIES
 
 #### Status
 ACCEPTED

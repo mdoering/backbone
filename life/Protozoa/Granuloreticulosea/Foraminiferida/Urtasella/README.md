@@ -1,5 +1,4 @@
-Urtasella Malakhova, 1979 GENUS
-=======
+# Urtasella Malakhova, 1979 GENUS
 
 #### Status
 ACCEPTED

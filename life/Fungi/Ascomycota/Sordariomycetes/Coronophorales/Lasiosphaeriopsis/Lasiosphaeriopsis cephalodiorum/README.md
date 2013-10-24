@@ -1,5 +1,4 @@
-Lasiosphaeriopsis cephalodiorum (Rostr.) Alstrup SPECIES
-=======
+# Lasiosphaeriopsis cephalodiorum (Rostr.) Alstrup SPECIES
 
 #### Status
 ACCEPTED

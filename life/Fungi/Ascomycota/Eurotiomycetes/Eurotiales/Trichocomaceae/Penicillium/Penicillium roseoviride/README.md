@@ -1,5 +1,4 @@
-Penicillium roseoviride Stapp & Bortels SPECIES
-=======
+# Penicillium roseoviride Stapp & Bortels SPECIES
 
 #### Status
 ACCEPTED

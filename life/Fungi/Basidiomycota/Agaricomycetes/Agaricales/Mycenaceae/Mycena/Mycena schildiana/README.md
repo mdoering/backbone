@@ -1,5 +1,4 @@
-Mycena schildiana Maas Geest. SPECIES
-=======
+# Mycena schildiana Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smittium culicisoides Lichtw., 1998 SPECIES
-=======
+# Smittium culicisoides Lichtw., 1998 SPECIES
 
 #### Status
 ACCEPTED

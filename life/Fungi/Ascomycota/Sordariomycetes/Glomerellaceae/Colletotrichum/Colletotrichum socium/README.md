@@ -1,5 +1,4 @@
-Colletotrichum socium Syd. SPECIES
-=======
+# Colletotrichum socium Syd. SPECIES
 
 #### Status
 ACCEPTED

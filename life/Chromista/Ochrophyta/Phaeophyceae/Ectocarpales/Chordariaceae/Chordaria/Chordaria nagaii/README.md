@@ -1,5 +1,4 @@
-Chordaria nagaii Tokida SPECIES
-=======
+# Chordaria nagaii Tokida SPECIES
 
 #### Status
 ACCEPTED

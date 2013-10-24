@@ -1,5 +1,4 @@
-Porina uluguruensis (Krog) Vezda SPECIES
-=======
+# Porina uluguruensis (Krog) Vezda SPECIES
 
 #### Status
 ACCEPTED

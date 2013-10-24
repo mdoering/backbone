@@ -1,5 +1,4 @@
-Russula marginata Burl. SPECIES
-=======
+# Russula marginata Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trimmatostroma pini W.B. Cooke SPECIES
-=======
+# Trimmatostroma pini W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

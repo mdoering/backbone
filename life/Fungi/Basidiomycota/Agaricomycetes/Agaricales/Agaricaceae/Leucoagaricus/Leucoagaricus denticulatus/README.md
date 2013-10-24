@@ -1,5 +1,4 @@
-Leucoagaricus denticulatus (Speg.) E. Horak SPECIES
-=======
+# Leucoagaricus denticulatus (Speg.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

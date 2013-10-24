@@ -1,5 +1,4 @@
-Collema graniforme Hoffm. SPECIES
-=======
+# Collema graniforme Hoffm. SPECIES
 
 #### Status
 ACCEPTED

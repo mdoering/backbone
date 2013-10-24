@@ -1,5 +1,4 @@
-Dasyscyphella scirpicola Raitv. SPECIES
-=======
+# Dasyscyphella scirpicola Raitv. SPECIES
 
 #### Status
 ACCEPTED

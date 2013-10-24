@@ -1,5 +1,4 @@
-Polyporus citroaurantius Berk. & Broome ex F. Muell. SPECIES
-=======
+# Polyporus citroaurantius Berk. & Broome ex F. Muell. SPECIES
 
 #### Status
 ACCEPTED

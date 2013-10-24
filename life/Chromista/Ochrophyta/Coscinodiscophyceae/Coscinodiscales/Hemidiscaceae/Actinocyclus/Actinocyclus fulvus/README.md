@@ -1,5 +1,4 @@
-Actinocyclus fulvus (W. Smith) Ralfs ex Pritchard, 1861 SPECIES
-=======
+# Actinocyclus fulvus (W. Smith) Ralfs ex Pritchard, 1861 SPECIES
 
 #### Status
 ACCEPTED

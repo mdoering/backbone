@@ -1,5 +1,4 @@
-Pezizella australis Dennis, 1961 SPECIES
-=======
+# Pezizella australis Dennis, 1961 SPECIES
 
 #### Status
 ACCEPTED

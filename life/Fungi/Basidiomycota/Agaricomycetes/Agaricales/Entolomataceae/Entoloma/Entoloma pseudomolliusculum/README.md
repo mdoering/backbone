@@ -1,5 +1,4 @@
-Entoloma pseudomolliusculum (Romagn. & Gilles) Noordel. SPECIES
-=======
+# Entoloma pseudomolliusculum (Romagn. & Gilles) Noordel. SPECIES
 
 #### Status
 ACCEPTED

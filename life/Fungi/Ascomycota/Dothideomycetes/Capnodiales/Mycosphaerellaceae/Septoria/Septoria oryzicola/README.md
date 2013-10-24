@@ -1,5 +1,4 @@
-Septoria oryzicola Hara SPECIES
-=======
+# Septoria oryzicola Hara SPECIES
 
 #### Status
 ACCEPTED

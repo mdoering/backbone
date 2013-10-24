@@ -1,5 +1,4 @@
-Russula acetolens Rauschert, 1989 SPECIES
-=======
+# Russula acetolens Rauschert, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Warnowia schuettii (Kofoid & Swezy) Schiller, 1933 SPECIES
-=======
+# Warnowia schuettii (Kofoid & Swezy) Schiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

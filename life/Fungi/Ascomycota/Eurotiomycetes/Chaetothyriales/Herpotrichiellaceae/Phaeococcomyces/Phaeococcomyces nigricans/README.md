@@ -1,14 +1,13 @@
-Phaeococcus nigricans (M.A. Rich & A.M. Stern) de Hoog, 1977 SPECIES
-=======
+# Phaeococcomyces nigricans (M.A. Rich & A.M. Stern) de Hoog, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 15: 125 (1977)
+Taxon 28(4): 348 (1979)
 
 #### Original name
 null

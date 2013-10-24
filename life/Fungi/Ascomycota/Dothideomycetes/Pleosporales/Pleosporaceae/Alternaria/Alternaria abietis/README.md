@@ -1,5 +1,4 @@
-Alternaria abietis Tengwall SPECIES
-=======
+# Alternaria abietis Tengwall SPECIES
 
 #### Status
 ACCEPTED

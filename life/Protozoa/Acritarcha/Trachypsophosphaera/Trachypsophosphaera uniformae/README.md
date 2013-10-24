@@ -1,5 +1,4 @@
-Trachypsophosphaera uniformae Grishina in Grishina & Klenina, 1981 SPECIES
-=======
+# Trachypsophosphaera uniformae Grishina in Grishina & Klenina, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca litoralis Zahlbr. SPECIES
-=======
+# Caloplaca litoralis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

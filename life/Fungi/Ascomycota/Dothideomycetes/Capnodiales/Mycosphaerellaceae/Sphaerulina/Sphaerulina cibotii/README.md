@@ -1,5 +1,4 @@
-Sphaerulina cibotii F. Stevens & Guba SPECIES
-=======
+# Sphaerulina cibotii F. Stevens & Guba SPECIES
 
 #### Status
 ACCEPTED

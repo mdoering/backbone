@@ -1,5 +1,4 @@
-Cortinarius xerampelinus E. Horak SPECIES
-=======
+# Cortinarius xerampelinus E. Horak SPECIES
 
 #### Status
 ACCEPTED

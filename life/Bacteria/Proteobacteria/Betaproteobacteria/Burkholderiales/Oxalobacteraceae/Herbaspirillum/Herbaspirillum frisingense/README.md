@@ -1,5 +1,4 @@
-Herbaspirillum frisingense Kirchhof et al., 2001 SPECIES
-=======
+# Herbaspirillum frisingense Kirchhof et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

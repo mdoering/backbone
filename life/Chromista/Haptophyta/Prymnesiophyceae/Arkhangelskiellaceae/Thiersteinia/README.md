@@ -1,5 +1,4 @@
-Thiersteinia S.W.Wise Jr. & D.K.Watkins, 1983 GENUS
-=======
+# Thiersteinia S.W.Wise Jr. & D.K.Watkins, 1983 GENUS
 
 #### Status
 ACCEPTED

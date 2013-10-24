@@ -1,5 +1,4 @@
-Bacidia modestula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia modestula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

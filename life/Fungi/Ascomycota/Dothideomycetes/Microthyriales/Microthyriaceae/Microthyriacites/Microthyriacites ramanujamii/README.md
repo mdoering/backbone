@@ -1,5 +1,4 @@
-Microthyriacites ramanujamii R.K. Saxena & N.K. Misra SPECIES
-=======
+# Microthyriacites ramanujamii R.K. Saxena & N.K. Misra SPECIES
 
 #### Status
 ACCEPTED

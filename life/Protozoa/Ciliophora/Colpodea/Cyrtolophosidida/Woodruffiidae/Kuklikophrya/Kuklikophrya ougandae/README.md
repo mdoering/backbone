@@ -1,8 +1,7 @@
-Rostrophrya falcata SPECIES
-=======
+# Kuklikophrya ougandae (Dragesco, 1972) Foissner, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

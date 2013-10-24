@@ -1,5 +1,4 @@
-Collema dinaricum Zahlbr. SPECIES
-=======
+# Collema dinaricum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

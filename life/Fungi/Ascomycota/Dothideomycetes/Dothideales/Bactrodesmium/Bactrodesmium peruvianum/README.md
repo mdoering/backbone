@@ -1,5 +1,4 @@
-Bactrodesmium peruvianum B. Sutton SPECIES
-=======
+# Bactrodesmium peruvianum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

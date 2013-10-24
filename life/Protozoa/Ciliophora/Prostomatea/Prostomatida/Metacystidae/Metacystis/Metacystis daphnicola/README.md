@@ -1,5 +1,4 @@
-Metacystis daphnicola Penard, 1922 SPECIES
-=======
+# Metacystis daphnicola Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

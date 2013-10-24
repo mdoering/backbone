@@ -1,14 +1,13 @@
-Tuburcinia syncocca (L.A. Kirchn.) Jørst., 1935 SPECIES
-=======
+# Urocystis syncocca (L.A. Kirchn.) B. Lindeb., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 16(no. 2): 99 (1959)
 
 #### Original name
 Uredo syncocca L.A. Kirchn., 1856

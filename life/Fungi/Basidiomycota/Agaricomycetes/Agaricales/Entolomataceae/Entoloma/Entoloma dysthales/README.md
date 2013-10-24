@@ -1,17 +1,16 @@
-Entoloma dysthales f. dysthales FORM
-=======
+# Entoloma dysthales (Peck) Sacc., 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 9: 83 (1891)
 
 #### Original name
-Entoloma dysthales f. dysthales
+Agaricus dysthales Peck, 1880
 
 ### Remarks
 null

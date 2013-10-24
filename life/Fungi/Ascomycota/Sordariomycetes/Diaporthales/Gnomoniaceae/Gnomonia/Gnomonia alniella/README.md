@@ -1,5 +1,4 @@
-Gnomonia alniella P. Karst. SPECIES
-=======
+# Gnomonia alniella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

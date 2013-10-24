@@ -1,5 +1,4 @@
-Camarosporium inflatescens Curzi & Barbaini SPECIES
-=======
+# Camarosporium inflatescens Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

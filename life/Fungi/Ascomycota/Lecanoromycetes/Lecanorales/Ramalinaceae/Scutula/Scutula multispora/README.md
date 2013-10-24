@@ -1,5 +1,4 @@
-Scutula multispora Velen. SPECIES
-=======
+# Scutula multispora Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus aquatilis Peck SPECIES
-=======
+# Coprinus aquatilis Peck SPECIES
 
 #### Status
 ACCEPTED

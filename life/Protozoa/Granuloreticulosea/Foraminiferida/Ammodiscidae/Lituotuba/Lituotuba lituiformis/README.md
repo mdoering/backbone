@@ -1,5 +1,4 @@
-Lituotuba lituiformis SPECIES
-=======
+# Lituotuba lituiformis SPECIES
 
 #### Status
 ACCEPTED

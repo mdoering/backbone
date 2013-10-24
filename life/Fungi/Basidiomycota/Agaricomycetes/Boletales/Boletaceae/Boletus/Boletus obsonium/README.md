@@ -1,5 +1,4 @@
-Boletus obsonium var. obsonium VARIETY
-=======
+# Boletus obsonium (Paulet) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus obsonium var. obsonium
+null
 
 ### Remarks
 null

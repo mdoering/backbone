@@ -1,8 +1,7 @@
-Micromphale irrorata (Pat.) Dennis SPECIES
-=======
+# Micromphale irroratum (Pat.) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

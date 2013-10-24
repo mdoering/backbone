@@ -1,5 +1,4 @@
-Nectria depallens Cooke & Harkn. SPECIES
-=======
+# Nectria depallens Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

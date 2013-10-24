@@ -1,17 +1,16 @@
-Eurotium repens var. repens VARIETY
-=======
+# Aspergillus repens (Corda) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 9: 52 (1870)
+Michelia 2(no. 8): 577 (1882)
 
 #### Original name
-Eurotium repens var. repens
+Aspergillus glaucus var. repens Corda, 1842
 
 ### Remarks
 null

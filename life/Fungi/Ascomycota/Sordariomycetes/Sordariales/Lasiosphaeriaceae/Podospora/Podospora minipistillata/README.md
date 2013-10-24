@@ -1,5 +1,4 @@
-Podospora minipistillata R.S. Khan & J.C. Krug SPECIES
-=======
+# Podospora minipistillata R.S. Khan & J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

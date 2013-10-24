@@ -1,5 +1,4 @@
-Synchytrium decipiens var. decipiens VARIETY
-=======
+# Synchytrium decipiens Farl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Gaz. 10: 219 (1885)
 
 #### Original name
-Synchytrium decipiens var. decipiens
+Synchytrium decipiens Farl.
 
 ### Remarks
 null

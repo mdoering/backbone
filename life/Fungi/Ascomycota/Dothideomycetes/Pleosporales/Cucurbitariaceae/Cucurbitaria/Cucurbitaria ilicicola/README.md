@@ -1,5 +1,4 @@
-Cucurbitaria ilicicola Petr. SPECIES
-=======
+# Cucurbitaria ilicicola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Acrospermum maxoni Farl. SPECIES
-=======
+# Acrospermum maxonii Farl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 12(4): 179 + tab. 2, figs 1-5 (1920)
 
 #### Original name
-Acrospermum maxoni Farl.
+Acrospermum maxonii Farl.
 
 ### Remarks
 null

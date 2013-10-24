@@ -1,5 +1,4 @@
-Naemospora fusisperma Preuss SPECIES
-=======
+# Naemospora fusisperma Preuss SPECIES
 
 #### Status
 ACCEPTED

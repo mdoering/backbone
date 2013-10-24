@@ -1,5 +1,4 @@
-Hemidiscia GENUS
-=======
+# Hemidiscia GENUS
 
 #### Status
 ACCEPTED

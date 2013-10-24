@@ -1,5 +1,4 @@
-Pithomyces leprosus Piroz. SPECIES
-=======
+# Pithomyces leprosus Piroz. SPECIES
 
 #### Status
 ACCEPTED

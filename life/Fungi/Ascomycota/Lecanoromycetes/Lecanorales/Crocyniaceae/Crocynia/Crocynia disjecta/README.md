@@ -1,5 +1,4 @@
-Crocynia disjecta Hue SPECIES
-=======
+# Crocynia disjecta Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptopeltis ferruginea Rehm SPECIES
-=======
+# Cryptopeltis ferruginea Rehm SPECIES
 
 #### Status
 ACCEPTED

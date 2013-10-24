@@ -1,5 +1,4 @@
-Cryptococcus salmoneus Sartory SPECIES
-=======
+# Cryptococcus salmoneus Sartory SPECIES
 
 #### Status
 ACCEPTED

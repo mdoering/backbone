@@ -1,5 +1,4 @@
-Feltgeniomyces luxemburgensis Diederich, 1990 SPECIES
-=======
+# Feltgeniomyces luxemburgensis Diederich, 1990 SPECIES
 
 #### Status
 ACCEPTED

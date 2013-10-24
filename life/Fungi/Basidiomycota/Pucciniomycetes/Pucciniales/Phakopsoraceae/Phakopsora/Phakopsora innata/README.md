@@ -1,5 +1,4 @@
-Phakopsora innata Sawada SPECIES
-=======
+# Phakopsora innata Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirulina gomontiana (Setchell) Geitler SPECIES
-=======
+# Spirulina gomontiana (Setchell) Geitler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita puella Gonn. & Rabenh. SPECIES
-=======
+# Amanita puella Gonn. & Rabenh. SPECIES
 
 #### Status
 ACCEPTED

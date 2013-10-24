@@ -1,5 +1,4 @@
-Asterinothyriella Bat. & Cif. GENUS
-=======
+# Asterinothyriella Bat. & Cif. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eptingium Dumitrica, 1978 GENUS
-=======
+# Eptingium Dumitrica, 1978 GENUS
 
 #### Status
 ACCEPTED

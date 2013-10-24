@@ -1,5 +1,4 @@
-Poria variolosa (Berk. & Broome) Sacc. SPECIES
-=======
+# Poria variolosa (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

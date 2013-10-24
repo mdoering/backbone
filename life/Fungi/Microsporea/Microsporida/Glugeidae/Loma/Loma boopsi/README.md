@@ -1,5 +1,4 @@
-Loma boopsi Faye, Toguebaye & Bouix, 1995 SPECIES
-=======
+# Loma boopsi Faye, Toguebaye & Bouix, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca bullata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca bullata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

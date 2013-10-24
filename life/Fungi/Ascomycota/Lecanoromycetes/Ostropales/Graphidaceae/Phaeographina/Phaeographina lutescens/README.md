@@ -1,5 +1,4 @@
-Phaeographina lutescens (Fée) Zahlbr. SPECIES
-=======
+# Phaeographina lutescens (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

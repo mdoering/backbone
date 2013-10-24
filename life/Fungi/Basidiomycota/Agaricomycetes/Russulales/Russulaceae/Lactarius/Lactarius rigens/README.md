@@ -1,5 +1,4 @@
-Lactarius rigens (Durieu & Lév.) Sacc. SPECIES
-=======
+# Lactarius rigens (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

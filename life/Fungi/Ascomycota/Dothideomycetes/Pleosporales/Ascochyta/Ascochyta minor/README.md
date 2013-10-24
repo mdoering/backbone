@@ -1,5 +1,4 @@
-Ascochyta minor (R. Sprague) Punith. SPECIES
-=======
+# Ascochyta minor (R. Sprague) Punith. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora hibisci Goto SPECIES
-=======
+# Corynespora hibisci Goto SPECIES
 
 #### Status
 ACCEPTED

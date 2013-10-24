@@ -1,5 +1,4 @@
-Sphaerella biberwierensis Auersw. SPECIES
-=======
+# Sphaerella biberwierensis Auersw. SPECIES
 
 #### Status
 ACCEPTED

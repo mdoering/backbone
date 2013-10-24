@@ -1,5 +1,4 @@
-Coelosphaeria granati Fabre SPECIES
-=======
+# Coelosphaeria granati Fabre SPECIES
 
 #### Status
 ACCEPTED

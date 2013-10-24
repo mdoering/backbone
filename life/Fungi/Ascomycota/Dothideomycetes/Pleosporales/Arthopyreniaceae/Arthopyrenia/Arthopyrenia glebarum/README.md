@@ -1,5 +1,4 @@
-Arthopyrenia glebarum Arnold SPECIES
-=======
+# Arthopyrenia glebarum Arnold SPECIES
 
 #### Status
 ACCEPTED

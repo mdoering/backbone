@@ -1,8 +1,7 @@
-Doliocystis aphroditae Lankester, 1863 SPECIES
-=======
+# Lecudina aphroditae Lankester, 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

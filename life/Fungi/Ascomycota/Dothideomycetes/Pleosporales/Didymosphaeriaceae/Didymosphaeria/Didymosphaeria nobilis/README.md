@@ -1,5 +1,4 @@
-Didymosphaeria nobilis Sacc. SPECIES
-=======
+# Didymosphaeria nobilis Sacc. SPECIES
 
 #### Status
 ACCEPTED

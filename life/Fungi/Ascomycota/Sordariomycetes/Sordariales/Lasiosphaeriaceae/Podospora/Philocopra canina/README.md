@@ -1,5 +1,4 @@
-Philocopra canina (Peck) Sacc. SPECIES
-=======
+# Philocopra canina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

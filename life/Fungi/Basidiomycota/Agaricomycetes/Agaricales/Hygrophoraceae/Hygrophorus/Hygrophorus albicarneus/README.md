@@ -1,5 +1,4 @@
-Hygrophorus albicarneus Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus albicarneus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

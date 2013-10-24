@@ -1,5 +1,4 @@
-Aposphaeria labens Sacc. SPECIES
-=======
+# Aposphaeria labens Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus inunctus Krombh. SPECIES
-=======
+# Boletus inunctus Krombh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithopilium Popofsky, 1913 GENUS
-=======
+# Lithopilium Popofsky, 1913 GENUS
 
 #### Status
 ACCEPTED

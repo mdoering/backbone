@@ -1,5 +1,4 @@
-Sphaerella actaeae Rostr. SPECIES
-=======
+# Sphaerella actaeae Rostr. SPECIES
 
 #### Status
 ACCEPTED

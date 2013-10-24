@@ -1,5 +1,4 @@
-Sporopodium Mont. GENUS
-=======
+# Sporopodium Mont. GENUS
 
 #### Status
 ACCEPTED

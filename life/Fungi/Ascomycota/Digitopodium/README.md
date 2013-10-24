@@ -1,5 +1,4 @@
-Digitopodium U. Braun, Heuchert & K. Schub. GENUS
-=======
+# Digitopodium U. Braun, Heuchert & K. Schub. GENUS
 
 #### Status
 ACCEPTED

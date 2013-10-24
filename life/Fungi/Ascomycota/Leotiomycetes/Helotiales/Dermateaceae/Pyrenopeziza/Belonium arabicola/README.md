@@ -1,5 +1,4 @@
-Belonium arabicola Ellis & Everh. SPECIES
-=======
+# Belonium arabicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudociliatida ORDER
-=======
+# Pseudociliatida ORDER
 
 #### Status
 ACCEPTED

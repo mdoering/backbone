@@ -1,5 +1,4 @@
-Pertusaria sydneyensis A. W. Archer & Elix SPECIES
-=======
+# Pertusaria sydneyensis A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

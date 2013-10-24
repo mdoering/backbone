@@ -1,14 +1,13 @@
-Pseudoparmelia corrugativa (Kurok. & Filson) Hale SPECIES
-=======
+# Canoparmelia corrugativa (Kurok. & Filson) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Smithson. Contr. bot. 31: 25 (1976)
+in Elix, Johnston & Verdon, Mycotaxon 27: 278 (1986)
 
 #### Original name
 Parmelia corrugativa Kurok. & Filson

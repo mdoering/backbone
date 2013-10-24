@@ -1,5 +1,4 @@
-Lachnea ditricha (Fr.) Sacc. SPECIES
-=======
+# Lachnea ditricha (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

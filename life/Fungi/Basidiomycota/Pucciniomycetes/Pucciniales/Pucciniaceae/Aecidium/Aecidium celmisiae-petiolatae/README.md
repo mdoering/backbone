@@ -1,5 +1,4 @@
-Aecidium celmisiae-petiolatae G. Cunn. SPECIES
-=======
+# Aecidium celmisiae-petiolatae G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

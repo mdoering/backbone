@@ -1,5 +1,4 @@
-Phylliscidiopsis Sambo GENUS
-=======
+# Phylliscidiopsis Sambo GENUS
 
 #### Status
 ACCEPTED

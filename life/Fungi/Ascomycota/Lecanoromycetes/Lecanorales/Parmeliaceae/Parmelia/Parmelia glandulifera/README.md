@@ -1,5 +1,4 @@
-Parmelia glandulifera Fée SPECIES
-=======
+# Parmelia glandulifera Fée SPECIES
 
 #### Status
 ACCEPTED

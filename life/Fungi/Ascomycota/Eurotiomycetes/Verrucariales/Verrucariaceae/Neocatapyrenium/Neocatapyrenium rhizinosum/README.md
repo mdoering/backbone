@@ -1,14 +1,13 @@
-Catapyrenium rhizinosum (Müll. Arg.) Breuss SPECIES
-=======
+# Neocatapyrenium rhizinosum (Müll. Arg.) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Stapfia 23: 130 (1990)
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 41 (1996)
 
 #### Original name
 Endopyrenium rhizinosum Müll. Arg.

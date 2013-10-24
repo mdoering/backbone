@@ -1,14 +1,13 @@
-Pseudostemphylium (Wiltshire) Subram. GENUS
-=======
+# Ulocladium Preuss, 1851 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Curr. Sci. 30: 423 (1961)
+null
 
 #### Original name
 null

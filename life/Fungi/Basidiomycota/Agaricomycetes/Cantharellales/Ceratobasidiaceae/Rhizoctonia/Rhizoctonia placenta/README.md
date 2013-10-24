@@ -1,5 +1,4 @@
-Rhizoctonia placenta Schwein. SPECIES
-=======
+# Rhizoctonia placenta Schwein. SPECIES
 
 #### Status
 ACCEPTED

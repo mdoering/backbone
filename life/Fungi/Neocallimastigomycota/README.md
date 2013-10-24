@@ -1,5 +1,4 @@
-Neocallimastigomycota M.J. Powell PHYLUM
-=======
+# Neocallimastigomycota M.J. Powell PHYLUM
 
 #### Status
 ACCEPTED

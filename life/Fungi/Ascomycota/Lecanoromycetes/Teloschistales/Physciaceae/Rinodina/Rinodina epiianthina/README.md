@@ -1,5 +1,4 @@
-Rinodina epiianthina Jatta SPECIES
-=======
+# Rinodina epiianthina Jatta SPECIES
 
 #### Status
 ACCEPTED

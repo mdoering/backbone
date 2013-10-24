@@ -1,5 +1,4 @@
-Poculum fraternum (Peck) Dumont SPECIES
-=======
+# Poculum fraternum (Peck) Dumont SPECIES
 
 #### Status
 ACCEPTED

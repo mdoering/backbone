@@ -1,5 +1,4 @@
-Helicoma indicum Gawas & Bhat SPECIES
-=======
+# Helicoma indicum Gawas & Bhat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verpa relhanii (Sowerby) SPECIES
-=======
+# Verpa relhanii (Sowerby) SPECIES
 
 #### Status
 ACCEPTED

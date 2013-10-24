@@ -1,5 +1,4 @@
-Capnodiastrum stylosporurn SPECIES
-=======
+# Capnodiastrum stylosporurn SPECIES
 
 #### Status
 ACCEPTED

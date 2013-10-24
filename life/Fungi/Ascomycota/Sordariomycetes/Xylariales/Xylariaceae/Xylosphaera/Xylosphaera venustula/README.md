@@ -1,5 +1,4 @@
-Xylosphaera venustula (Sacc.) Dennis SPECIES
-=======
+# Xylosphaera venustula (Sacc.) Dennis SPECIES
 
 #### Status
 ACCEPTED

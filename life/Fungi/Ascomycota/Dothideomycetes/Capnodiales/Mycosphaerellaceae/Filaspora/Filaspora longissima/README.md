@@ -1,5 +1,4 @@
-Filaspora longissima (Sacc.) Kuntze SPECIES
-=======
+# Filaspora longissima (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

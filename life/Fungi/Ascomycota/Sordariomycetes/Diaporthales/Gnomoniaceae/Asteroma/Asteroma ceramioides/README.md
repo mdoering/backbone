@@ -1,5 +1,4 @@
-Asteroma ceramioides Sacc. SPECIES
-=======
+# Asteroma ceramioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

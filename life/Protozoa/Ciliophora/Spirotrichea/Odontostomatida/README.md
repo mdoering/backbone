@@ -1,5 +1,4 @@
-Odontostomatida Sawaya, 1940 ORDER
-=======
+# Odontostomatida Sawaya, 1940 ORDER
 
 #### Status
 ACCEPTED

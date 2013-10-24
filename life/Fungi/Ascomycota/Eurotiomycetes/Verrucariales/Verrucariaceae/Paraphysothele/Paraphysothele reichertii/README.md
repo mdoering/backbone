@@ -1,5 +1,4 @@
-Paraphysothele reichertii Servít SPECIES
-=======
+# Paraphysothele reichertii Servít SPECIES
 
 #### Status
 ACCEPTED

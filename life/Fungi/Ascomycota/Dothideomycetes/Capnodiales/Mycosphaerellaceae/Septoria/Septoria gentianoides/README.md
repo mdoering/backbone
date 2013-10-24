@@ -1,5 +1,4 @@
-Septoria gentianoides Dearn. & House SPECIES
-=======
+# Septoria gentianoides Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

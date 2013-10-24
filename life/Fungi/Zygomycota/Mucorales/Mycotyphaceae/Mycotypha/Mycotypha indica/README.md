@@ -1,5 +1,4 @@
-Mycotypha indica P.M. Kirk & Benny, 1985 SPECIES
-=======
+# Mycotypha indica P.M. Kirk & Benny, 1985 SPECIES
 
 #### Status
 ACCEPTED

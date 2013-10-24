@@ -1,5 +1,4 @@
-Rhabdospora chrysanthemi Hollós SPECIES
-=======
+# Rhabdospora chrysanthemi Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula subnigricans Hongo SPECIES
-=======
+# Russula subnigricans Hongo SPECIES
 
 #### Status
 ACCEPTED

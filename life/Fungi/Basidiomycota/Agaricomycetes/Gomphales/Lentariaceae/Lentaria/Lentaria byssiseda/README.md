@@ -1,5 +1,4 @@
-Lentaria byssiseda Corner, 1950 SPECIES
-=======
+# Lentaria byssiseda Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

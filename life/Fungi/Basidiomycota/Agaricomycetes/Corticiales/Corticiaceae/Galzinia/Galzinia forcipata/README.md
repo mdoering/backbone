@@ -1,5 +1,4 @@
-Galzinia forcipata Pouzar, 1983 SPECIES
-=======
+# Galzinia forcipata Pouzar, 1983 SPECIES
 
 #### Status
 ACCEPTED

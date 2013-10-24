@@ -1,5 +1,4 @@
-Sistotrema porulosum Hallenb., 1984 SPECIES
-=======
+# Sistotrema porulosum Hallenb., 1984 SPECIES
 
 #### Status
 ACCEPTED

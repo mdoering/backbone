@@ -1,5 +1,4 @@
-Ampullaster Jankowski, 1976 GENUS
-=======
+# Ampullaster Jankowski, 1976 GENUS
 
 #### Status
 ACCEPTED

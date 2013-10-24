@@ -1,5 +1,4 @@
-Uredo montis-elgonensis Gjaerum SPECIES
-=======
+# Uredo montis-elgonensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

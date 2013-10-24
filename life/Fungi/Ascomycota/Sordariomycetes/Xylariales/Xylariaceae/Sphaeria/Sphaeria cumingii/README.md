@@ -1,5 +1,4 @@
-Sphaeria cumingii Lév. SPECIES
-=======
+# Sphaeria cumingii Lév. SPECIES
 
 #### Status
 ACCEPTED

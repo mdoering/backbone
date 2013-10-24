@@ -1,5 +1,4 @@
-Phyllachora diocleicola Chardón, 1940 SPECIES
-=======
+# Phyllachora diocleicola Chardón, 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria lunata Tzean & J.L. Chen, 1991 SPECIES
-=======
+# Dactylaria lunata Tzean & J.L. Chen, 1991 SPECIES
 
 #### Status
 ACCEPTED

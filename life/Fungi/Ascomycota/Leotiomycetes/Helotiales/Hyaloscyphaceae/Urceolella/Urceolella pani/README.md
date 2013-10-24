@@ -1,5 +1,4 @@
-Urceolella pani (Velen.) Huhtinen SPECIES
-=======
+# Urceolella pani (Velen.) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

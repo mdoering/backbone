@@ -1,5 +1,4 @@
-Phoma atomoides Penz. & Sacc. SPECIES
-=======
+# Phoma atomoides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

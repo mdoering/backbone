@@ -1,5 +1,4 @@
-Laboulbenia leonardi Speg. SPECIES
-=======
+# Laboulbenia leonardi Speg. SPECIES
 
 #### Status
 ACCEPTED

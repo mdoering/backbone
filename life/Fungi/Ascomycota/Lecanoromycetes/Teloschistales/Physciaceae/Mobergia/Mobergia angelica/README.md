@@ -1,5 +1,4 @@
-Mobergia angelica (Stizenb.) H. Mayrhofer & Sheard SPECIES
-=======
+# Mobergia angelica (Stizenb.) H. Mayrhofer & Sheard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorotichia obtenebrans (Nyl.) Forssell SPECIES
-=======
+# Psorotichia obtenebrans (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

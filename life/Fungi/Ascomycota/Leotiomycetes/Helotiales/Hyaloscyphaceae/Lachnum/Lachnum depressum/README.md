@@ -1,5 +1,4 @@
-Lachnum depressum Velen. SPECIES
-=======
+# Lachnum depressum Velen. SPECIES
 
 #### Status
 ACCEPTED

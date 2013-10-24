@@ -1,5 +1,4 @@
-Phyllosticta musae F. Stevens & E. Young SPECIES
-=======
+# Phyllosticta musae F. Stevens & E. Young SPECIES
 
 #### Status
 ACCEPTED

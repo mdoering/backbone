@@ -1,5 +1,4 @@
-Helicorhoidion S. Hughes GENUS
-=======
+# Helicorhoidion S. Hughes GENUS
 
 #### Status
 ACCEPTED

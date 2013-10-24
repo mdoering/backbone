@@ -1,5 +1,4 @@
-Inocybe sibionipes Deïana & Carteret SPECIES
-=======
+# Inocybe sibionipes Deïana & Carteret SPECIES
 
 #### Status
 ACCEPTED

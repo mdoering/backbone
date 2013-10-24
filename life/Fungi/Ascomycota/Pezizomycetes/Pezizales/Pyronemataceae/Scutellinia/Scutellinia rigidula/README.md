@@ -1,5 +1,4 @@
-Scutellinia rigidula (Velen.) Svrcek SPECIES
-=======
+# Scutellinia rigidula (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

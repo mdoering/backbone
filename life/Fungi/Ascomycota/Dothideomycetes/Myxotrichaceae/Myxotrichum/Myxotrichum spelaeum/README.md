@@ -1,5 +1,4 @@
-Myxotrichum spelaeum Sacc. SPECIES
-=======
+# Myxotrichum spelaeum Sacc. SPECIES
 
 #### Status
 ACCEPTED

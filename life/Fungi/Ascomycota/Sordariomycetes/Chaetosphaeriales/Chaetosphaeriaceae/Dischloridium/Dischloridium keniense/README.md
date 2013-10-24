@@ -1,14 +1,13 @@
-Craspedodidymum keniense (P.M. Kirk) Bhat & W.B. Kendr., 1993 SPECIES
-=======
+# Dischloridium keniense P.M. Kirk, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 49: 37 (1993)
+Mycotaxon 23: 320 (1985)
 
 #### Original name
 Dischloridium keniense P.M. Kirk, 1985

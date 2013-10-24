@@ -1,5 +1,4 @@
-Perseus Takemura & Nakaseko, 1983 GENUS
-=======
+# Perseus Takemura & Nakaseko, 1983 GENUS
 
 #### Status
 ACCEPTED

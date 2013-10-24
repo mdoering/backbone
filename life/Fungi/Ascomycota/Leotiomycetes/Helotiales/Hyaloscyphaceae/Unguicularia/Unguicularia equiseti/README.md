@@ -1,5 +1,4 @@
-Unguicularia equiseti Huhtinen SPECIES
-=======
+# Unguicularia equiseti Huhtinen SPECIES
 
 #### Status
 ACCEPTED

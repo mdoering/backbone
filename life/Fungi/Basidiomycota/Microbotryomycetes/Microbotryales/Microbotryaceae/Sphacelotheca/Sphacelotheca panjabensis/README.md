@@ -1,14 +1,13 @@
-Ustilago panjabensis (Syd.) L. Ling, 1950 SPECIES
-=======
+# Sphacelotheca panjabensis Syd., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4(1-6): 76 (1950)
+Annls mycol. 37(4/5): 442 (1939)
 
 #### Original name
 Sphacelotheca panjabensis Syd., 1939

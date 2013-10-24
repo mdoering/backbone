@@ -1,5 +1,4 @@
-Phoma gei Byzova SPECIES
-=======
+# Phoma gei Byzova SPECIES
 
 #### Status
 ACCEPTED

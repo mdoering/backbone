@@ -1,5 +1,4 @@
-Psammatodendron indivisum Heron-Allen & Earland, 1932 SPECIES
-=======
+# Psammatodendron indivisum Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
 ACCEPTED

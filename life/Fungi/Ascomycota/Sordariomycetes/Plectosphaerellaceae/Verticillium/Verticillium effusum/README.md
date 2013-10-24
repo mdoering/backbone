@@ -1,5 +1,4 @@
-Verticillium effusum G.H. Otth, 1870 SPECIES
-=======
+# Verticillium effusum G.H. Otth, 1870 SPECIES
 
 #### Status
 ACCEPTED

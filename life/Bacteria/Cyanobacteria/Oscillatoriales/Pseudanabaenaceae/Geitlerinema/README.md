@@ -1,5 +1,4 @@
-Geitlerinema (Anagnostidis & Komárek) Anagnostidis, 1989 GENUS
-=======
+# Geitlerinema (Anagnostidis & Komárek) Anagnostidis, 1989 GENUS
 
 #### Status
 ACCEPTED

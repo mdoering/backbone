@@ -1,5 +1,4 @@
-Closteroaleurosporia tarda (Sabour.) Grigoraki SPECIES
-=======
+# Closteroaleurosporia tarda (Sabour.) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplotomma margaritaceum (Sommerf.) Szatala SPECIES
-=======
+# Diplotomma margaritaceum (Sommerf.) Szatala SPECIES
 
 #### Status
 ACCEPTED

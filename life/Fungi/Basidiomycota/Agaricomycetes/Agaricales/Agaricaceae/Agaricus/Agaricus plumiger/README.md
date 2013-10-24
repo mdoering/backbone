@@ -1,5 +1,4 @@
-Agaricus plumiger Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus plumiger Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

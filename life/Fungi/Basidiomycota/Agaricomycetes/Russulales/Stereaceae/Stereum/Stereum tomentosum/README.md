@@ -1,5 +1,4 @@
-Stereum tomentosum Van der Byl SPECIES
-=======
+# Stereum tomentosum Van der Byl SPECIES
 
 #### Status
 ACCEPTED

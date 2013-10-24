@@ -1,5 +1,4 @@
-Macroplodia clethricola (Cooke & Ellis) Kuntze SPECIES
-=======
+# Macroplodia clethricola (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

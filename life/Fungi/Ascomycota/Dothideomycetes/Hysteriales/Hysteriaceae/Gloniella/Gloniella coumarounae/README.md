@@ -1,5 +1,4 @@
-Gloniella coumarounae Bat. & A.F. Vital SPECIES
-=======
+# Gloniella coumarounae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

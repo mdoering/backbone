@@ -1,5 +1,4 @@
-Bertia clusiae Gonz. Frag. & Cif. SPECIES
-=======
+# Bertia clusiae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

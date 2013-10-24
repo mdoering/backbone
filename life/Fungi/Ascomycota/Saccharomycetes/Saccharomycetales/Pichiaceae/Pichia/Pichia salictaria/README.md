@@ -1,5 +1,4 @@
-Pichia salictaria Phaff, M.W. Mill. & J.F.T. Spencer SPECIES
-=======
+# Pichia salictaria Phaff, M.W. Mill. & J.F.T. Spencer SPECIES
 
 #### Status
 ACCEPTED

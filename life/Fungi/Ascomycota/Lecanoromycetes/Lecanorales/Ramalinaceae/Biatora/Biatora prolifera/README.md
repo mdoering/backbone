@@ -1,5 +1,4 @@
-Biatora prolifera Mont. SPECIES
-=======
+# Biatora prolifera Mont. SPECIES
 
 #### Status
 ACCEPTED

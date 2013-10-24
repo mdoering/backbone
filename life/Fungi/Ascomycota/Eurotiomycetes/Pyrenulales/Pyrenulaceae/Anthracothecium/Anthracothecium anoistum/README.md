@@ -1,5 +1,4 @@
-Anthracothecium anoistum (Stirt.) Zahlbr. SPECIES
-=======
+# Anthracothecium anoistum (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

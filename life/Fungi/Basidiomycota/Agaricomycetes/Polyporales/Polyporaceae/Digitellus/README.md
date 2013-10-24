@@ -1,5 +1,4 @@
-Digitellus GENUS
-=======
+# Digitellus GENUS
 
 #### Status
 ACCEPTED

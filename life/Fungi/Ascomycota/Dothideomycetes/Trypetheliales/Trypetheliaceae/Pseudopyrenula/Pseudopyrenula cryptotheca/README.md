@@ -1,5 +1,4 @@
-Pseudopyrenula cryptotheca Komposch, Aptroot & Hafellner SPECIES
-=======
+# Pseudopyrenula cryptotheca Komposch, Aptroot & Hafellner SPECIES
 
 #### Status
 ACCEPTED

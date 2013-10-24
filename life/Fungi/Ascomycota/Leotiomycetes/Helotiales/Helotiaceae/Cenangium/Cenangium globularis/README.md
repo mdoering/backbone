@@ -1,5 +1,4 @@
-Cenangium globularis Fr. SPECIES
-=======
+# Cenangium globularis Fr. SPECIES
 
 #### Status
 ACCEPTED

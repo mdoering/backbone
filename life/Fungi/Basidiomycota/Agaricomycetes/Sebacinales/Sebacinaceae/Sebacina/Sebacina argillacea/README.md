@@ -1,5 +1,4 @@
-Sebacina argillacea Rick SPECIES
-=======
+# Sebacina argillacea Rick SPECIES
 
 #### Status
 ACCEPTED

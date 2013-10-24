@@ -1,17 +1,16 @@
-Ustilago dactylicola Speg. SPECIES
-=======
+# Ustilago dactylidicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 26: 118 (1914)
 
 #### Original name
-Ustilago dactylicola Speg.
+Ustilago dactylidicola Speg.
 
 ### Remarks
 null

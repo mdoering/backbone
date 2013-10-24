@@ -1,5 +1,4 @@
-Bifidalithus geminicatillus SPECIES
-=======
+# Bifidalithus geminicatillus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia insititia var. insititia VARIETY
-=======
+# Puccinia insititia Arthur SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 7(5): 248 (1915)
 
 #### Original name
-Puccinia insititia var. insititia
+Puccinia insititia Arthur
 
 ### Remarks
 null

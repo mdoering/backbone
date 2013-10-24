@@ -1,5 +1,4 @@
-Pirottaea aconiti Petr. SPECIES
-=======
+# Pirottaea aconiti Petr. SPECIES
 
 #### Status
 ACCEPTED

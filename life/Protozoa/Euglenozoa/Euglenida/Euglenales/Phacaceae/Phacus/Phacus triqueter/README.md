@@ -1,5 +1,4 @@
-Phacus triqueter (Ehrenberg) Dujardin, 1841 SPECIES
-=======
+# Phacus triqueter (Ehrenberg) Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

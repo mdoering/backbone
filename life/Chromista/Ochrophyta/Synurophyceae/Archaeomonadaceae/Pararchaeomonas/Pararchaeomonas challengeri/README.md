@@ -1,5 +1,4 @@
-Pararchaeomonas challengeri K. Perch-Nielsen SPECIES
-=======
+# Pararchaeomonas challengeri K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

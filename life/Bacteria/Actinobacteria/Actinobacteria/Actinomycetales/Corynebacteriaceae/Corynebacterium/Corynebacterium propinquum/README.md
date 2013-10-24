@@ -1,5 +1,4 @@
-Corynebacterium propinquum Riegel et al., 1994 SPECIES
-=======
+# Corynebacterium propinquum Riegel et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

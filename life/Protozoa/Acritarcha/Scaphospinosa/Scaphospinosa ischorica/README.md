@@ -1,5 +1,4 @@
-Scaphospinosa ischorica Timofeev in Timofeev et al., 1976 SPECIES
-=======
+# Scaphospinosa ischorica Timofeev in Timofeev et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

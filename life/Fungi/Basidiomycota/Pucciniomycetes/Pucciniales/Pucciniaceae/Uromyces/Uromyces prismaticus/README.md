@@ -1,5 +1,4 @@
-Uromyces prismaticus Vienn.-Bourg. SPECIES
-=======
+# Uromyces prismaticus Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

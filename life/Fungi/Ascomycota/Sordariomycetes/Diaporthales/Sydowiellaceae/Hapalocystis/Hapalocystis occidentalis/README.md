@@ -1,5 +1,4 @@
-Hapalocystis occidentalis Jaklitsch & Voglmayr SPECIES
-=======
+# Hapalocystis occidentalis Jaklitsch & Voglmayr SPECIES
 
 #### Status
 ACCEPTED

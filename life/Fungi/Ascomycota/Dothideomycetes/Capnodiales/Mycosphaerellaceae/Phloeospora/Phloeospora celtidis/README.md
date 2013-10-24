@@ -1,5 +1,4 @@
-Phloeospora celtidis Ellis & Morgan SPECIES
-=======
+# Phloeospora celtidis Ellis & Morgan SPECIES
 
 #### Status
 ACCEPTED

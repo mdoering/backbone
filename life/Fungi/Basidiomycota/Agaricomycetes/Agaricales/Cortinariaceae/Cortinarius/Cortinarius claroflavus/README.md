@@ -1,5 +1,4 @@
-Cortinarius claroflavus Rob. Henry SPECIES
-=======
+# Cortinarius claroflavus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

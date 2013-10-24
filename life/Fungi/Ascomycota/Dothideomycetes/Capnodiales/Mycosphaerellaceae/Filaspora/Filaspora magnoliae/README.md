@@ -1,5 +1,4 @@
-Filaspora magnoliae (Thüm.) Kuntze SPECIES
-=======
+# Filaspora magnoliae (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

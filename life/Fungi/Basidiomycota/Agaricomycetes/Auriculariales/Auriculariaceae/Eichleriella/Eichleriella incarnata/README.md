@@ -1,17 +1,16 @@
-Hirneolina incarnata var. incarnata VARIETY
-=======
+# Eichleriella incarnata Bres., 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 1: (1903)
 
 #### Original name
-Hirneolina incarnata var. incarnata
+Eichleriella incarnata Bres., 1903
 
 ### Remarks
 null

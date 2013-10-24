@@ -1,5 +1,4 @@
-Bisbyella GENUS
-=======
+# Bisbyella GENUS
 
 #### Status
 ACCEPTED

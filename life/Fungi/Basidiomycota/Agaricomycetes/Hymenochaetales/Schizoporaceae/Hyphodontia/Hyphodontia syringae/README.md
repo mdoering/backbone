@@ -1,5 +1,4 @@
-Hyphodontia syringae Langer SPECIES
-=======
+# Hyphodontia syringae Langer SPECIES
 
 #### Status
 ACCEPTED

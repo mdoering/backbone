@@ -1,5 +1,4 @@
-Sphaerophorus whakapapaensis Wedin SPECIES
-=======
+# Sphaerophorus whakapapaensis Wedin SPECIES
 
 #### Status
 ACCEPTED

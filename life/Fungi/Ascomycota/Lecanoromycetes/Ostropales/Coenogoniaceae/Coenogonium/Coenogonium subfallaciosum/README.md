@@ -1,5 +1,4 @@
-Coenogonium subfallaciosum (Vezda & Farkas) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium subfallaciosum (Vezda & Farkas) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

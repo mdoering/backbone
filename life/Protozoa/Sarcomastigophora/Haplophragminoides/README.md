@@ -1,5 +1,4 @@
-Haplophragminoides Brazhnikova in Aisenverg & Sergeeva, 1983 GENUS
-=======
+# Haplophragminoides Brazhnikova in Aisenverg & Sergeeva, 1983 GENUS
 
 #### Status
 ACCEPTED

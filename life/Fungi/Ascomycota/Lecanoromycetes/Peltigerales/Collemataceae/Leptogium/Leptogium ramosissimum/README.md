@@ -1,5 +1,4 @@
-Leptogium ramosissimum Flagey SPECIES
-=======
+# Leptogium ramosissimum Flagey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea syncarpa Zahlbr. SPECIES
-=======
+# Lecidea syncarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

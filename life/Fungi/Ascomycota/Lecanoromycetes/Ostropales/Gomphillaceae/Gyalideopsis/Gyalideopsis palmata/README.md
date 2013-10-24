@@ -1,5 +1,4 @@
-Gyalideopsis palmata Kalb & Vezda SPECIES
-=======
+# Gyalideopsis palmata Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

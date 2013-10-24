@@ -1,5 +1,4 @@
-Podoscypha brasiliensis D.A. Reid, 1965 SPECIES
-=======
+# Podoscypha brasiliensis D.A. Reid, 1965 SPECIES
 
 #### Status
 ACCEPTED

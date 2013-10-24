@@ -1,5 +1,4 @@
-Dematoidium nigrescens Stautz SPECIES
-=======
+# Dematoidium nigrescens Stautz SPECIES
 
 #### Status
 ACCEPTED

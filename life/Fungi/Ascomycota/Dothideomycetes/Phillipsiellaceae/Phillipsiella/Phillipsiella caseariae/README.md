@@ -1,5 +1,4 @@
-Phillipsiella caseariae J.L. Bezerra & Poroca SPECIES
-=======
+# Phillipsiella caseariae J.L. Bezerra & Poroca SPECIES
 
 #### Status
 ACCEPTED

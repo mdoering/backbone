@@ -1,5 +1,4 @@
-Septobasidium cladoderris Lloyd SPECIES
-=======
+# Septobasidium cladoderris Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalaria demangeonii Mont. SPECIES
-=======
+# Omphalaria demangeonii Mont. SPECIES
 
 #### Status
 ACCEPTED

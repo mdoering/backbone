@@ -1,5 +1,4 @@
-Phialea adianthicola Gonz. Frag. SPECIES
-=======
+# Phialea adianthicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

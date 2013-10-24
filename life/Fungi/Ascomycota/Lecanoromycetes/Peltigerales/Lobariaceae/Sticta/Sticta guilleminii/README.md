@@ -1,5 +1,4 @@
-Sticta guilleminii Mont. SPECIES
-=======
+# Sticta guilleminii Mont. SPECIES
 
 #### Status
 ACCEPTED

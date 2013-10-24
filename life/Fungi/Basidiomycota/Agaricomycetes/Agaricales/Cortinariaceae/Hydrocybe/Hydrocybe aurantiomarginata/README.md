@@ -1,5 +1,4 @@
-Hydrocybe aurantiomarginata Jul. Schäff. SPECIES
-=======
+# Hydrocybe aurantiomarginata Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

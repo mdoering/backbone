@@ -1,5 +1,4 @@
-Imicles Shoemaker & Hambl. GENUS
-=======
+# Imicles Shoemaker & Hambl. GENUS
 
 #### Status
 ACCEPTED

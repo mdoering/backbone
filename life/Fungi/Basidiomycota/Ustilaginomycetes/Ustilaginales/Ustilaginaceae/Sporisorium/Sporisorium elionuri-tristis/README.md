@@ -1,5 +1,4 @@
-Sporisorium elionuri-tristis Vánky SPECIES
-=======
+# Sporisorium elionuri-tristis Vánky SPECIES
 
 #### Status
 ACCEPTED

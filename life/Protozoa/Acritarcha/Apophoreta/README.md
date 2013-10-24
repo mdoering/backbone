@@ -1,5 +1,4 @@
-Apophoreta G. Claus & B. Nagy, 1962 GENUS
-=======
+# Apophoreta G. Claus & B. Nagy, 1962 GENUS
 
 #### Status
 ACCEPTED

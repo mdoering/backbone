@@ -1,5 +1,4 @@
-Austropaxillus Bresinsky & Jarosch GENUS
-=======
+# Austropaxillus Bresinsky & Jarosch GENUS
 
 #### Status
 ACCEPTED

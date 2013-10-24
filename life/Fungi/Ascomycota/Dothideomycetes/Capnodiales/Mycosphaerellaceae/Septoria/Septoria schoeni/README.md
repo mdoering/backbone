@@ -1,5 +1,4 @@
-Septoria schoeni Hollós, 1910 SPECIES
-=======
+# Septoria schoeni Hollós, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cerasicoccus Yoon, Matsuo, Matsuda, Adachi, Kasai & Yokota, 2007 GENUS
-=======
+# Cerasicoccus Yoon, Matsuo, Matsuda, Adachi, Kasai & Yokota, 2007 GENUS
 
 #### Status
 ACCEPTED

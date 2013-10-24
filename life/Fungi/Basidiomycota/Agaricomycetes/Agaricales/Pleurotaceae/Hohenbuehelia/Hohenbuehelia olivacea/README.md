@@ -1,5 +1,4 @@
-Hohenbuehelia olivacea Yu Liu & T. Bau SPECIES
-=======
+# Hohenbuehelia olivacea Yu Liu & T. Bau SPECIES
 
 #### Status
 ACCEPTED

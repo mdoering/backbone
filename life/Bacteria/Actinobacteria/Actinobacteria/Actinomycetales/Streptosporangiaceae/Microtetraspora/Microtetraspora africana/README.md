@@ -1,5 +1,4 @@
-Microtetraspora africana (Preobrazhenskaya & Sveshnikova, 1974) Kroppenstedt et al., 1991 SPECIES
-=======
+# Microtetraspora africana (Preobrazhenskaya & Sveshnikova, 1974) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

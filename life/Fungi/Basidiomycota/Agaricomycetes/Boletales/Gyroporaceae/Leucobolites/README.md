@@ -1,5 +1,4 @@
-Leucobolites GENUS
-=======
+# Leucobolites GENUS
 
 #### Status
 ACCEPTED

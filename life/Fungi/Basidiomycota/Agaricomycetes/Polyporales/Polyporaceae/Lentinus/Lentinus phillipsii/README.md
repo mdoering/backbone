@@ -1,5 +1,4 @@
-Lentinus phillipsii Van der Byl SPECIES
-=======
+# Lentinus phillipsii Van der Byl SPECIES
 
 #### Status
 ACCEPTED

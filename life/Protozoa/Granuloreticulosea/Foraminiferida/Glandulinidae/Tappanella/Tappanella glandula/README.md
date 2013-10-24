@@ -1,5 +1,4 @@
-Tappanella glandula Saidova, 1975 SPECIES
-=======
+# Tappanella glandula Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

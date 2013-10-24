@@ -1,5 +1,4 @@
-Acrospermum adeanum Höhn., 1923 SPECIES
-=======
+# Acrospermum adeanum Höhn., 1923 SPECIES
 
 #### Status
 ACCEPTED

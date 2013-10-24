@@ -1,5 +1,4 @@
-Lecanidion cyaneum Cooke SPECIES
-=======
+# Lecanidion cyaneum Cooke SPECIES
 
 #### Status
 ACCEPTED

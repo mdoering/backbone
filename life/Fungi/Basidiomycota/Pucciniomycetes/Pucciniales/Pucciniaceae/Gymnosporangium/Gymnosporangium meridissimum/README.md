@@ -1,5 +1,4 @@
-Gymnosporangium meridissimum Crowell, 1940 SPECIES
-=======
+# Gymnosporangium meridissimum Crowell, 1940 SPECIES
 
 #### Status
 ACCEPTED

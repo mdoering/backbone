@@ -1,5 +1,4 @@
-Inocybe cerasphora Singer SPECIES
-=======
+# Inocybe cerasphora Singer SPECIES
 
 #### Status
 ACCEPTED

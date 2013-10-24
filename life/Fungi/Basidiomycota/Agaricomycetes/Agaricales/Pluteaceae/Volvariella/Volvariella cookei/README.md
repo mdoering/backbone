@@ -1,5 +1,4 @@
-Volvariella cookei Contu SPECIES
-=======
+# Volvariella cookei Contu SPECIES
 
 #### Status
 ACCEPTED

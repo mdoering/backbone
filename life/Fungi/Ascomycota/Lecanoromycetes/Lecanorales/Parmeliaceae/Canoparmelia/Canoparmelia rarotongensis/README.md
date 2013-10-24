@@ -1,5 +1,4 @@
-Canoparmelia rarotongensis Louwhoff & Elix SPECIES
-=======
+# Canoparmelia rarotongensis Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

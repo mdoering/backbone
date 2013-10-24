@@ -1,5 +1,4 @@
-Lecanora brassii C.W. Dodge SPECIES
-=======
+# Lecanora brassii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

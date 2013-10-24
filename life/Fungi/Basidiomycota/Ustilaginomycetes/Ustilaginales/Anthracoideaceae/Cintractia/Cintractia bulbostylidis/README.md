@@ -1,5 +1,4 @@
-Cintractia bulbostylidis R.G. Shivas & Vánky, 2001 SPECIES
-=======
+# Cintractia bulbostylidis R.G. Shivas & Vánky, 2001 SPECIES
 
 #### Status
 ACCEPTED

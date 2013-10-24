@@ -1,5 +1,4 @@
-Chordostylum clavaria Tode SPECIES
-=======
+# Chordostylum clavaria Tode SPECIES
 
 #### Status
 ACCEPTED

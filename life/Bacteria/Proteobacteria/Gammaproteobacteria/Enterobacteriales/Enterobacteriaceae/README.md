@@ -1,5 +1,4 @@
-Enterobacteriaceae FAMILY
-=======
+# Enterobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

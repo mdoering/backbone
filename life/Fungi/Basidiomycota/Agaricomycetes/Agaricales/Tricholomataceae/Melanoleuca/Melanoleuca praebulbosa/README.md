@@ -1,5 +1,4 @@
-Melanoleuca praebulbosa Murrill SPECIES
-=======
+# Melanoleuca praebulbosa Murrill SPECIES
 
 #### Status
 ACCEPTED

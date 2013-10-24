@@ -1,5 +1,4 @@
-Hypoplasta GENUS
-=======
+# Hypoplasta GENUS
 
 #### Status
 ACCEPTED

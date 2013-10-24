@@ -1,5 +1,4 @@
-Graphis polymorpha Fée SPECIES
-=======
+# Graphis polymorpha Fée SPECIES
 
 #### Status
 ACCEPTED

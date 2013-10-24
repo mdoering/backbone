@@ -1,5 +1,4 @@
-Meliola mombasana Mibey SPECIES
-=======
+# Meliola mombasana Mibey SPECIES
 
 #### Status
 ACCEPTED

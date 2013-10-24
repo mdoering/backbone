@@ -1,5 +1,4 @@
-Polyporus hirsutulus Schwein. SPECIES
-=======
+# Polyporus hirsutulus Schwein. SPECIES
 
 #### Status
 ACCEPTED

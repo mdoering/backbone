@@ -1,5 +1,4 @@
-Coniophora chalybaea (Pers.) Pat. SPECIES
-=======
+# Coniophora chalybaea (Pers.) Pat. SPECIES
 
 #### Status
 ACCEPTED

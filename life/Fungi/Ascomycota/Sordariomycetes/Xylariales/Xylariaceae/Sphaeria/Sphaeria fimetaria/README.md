@@ -1,5 +1,4 @@
-Sphaeria fimetaria Rabenh. SPECIES
-=======
+# Sphaeria fimetaria Rabenh. SPECIES
 
 #### Status
 ACCEPTED

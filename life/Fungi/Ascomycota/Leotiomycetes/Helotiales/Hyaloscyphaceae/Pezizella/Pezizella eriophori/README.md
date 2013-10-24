@@ -1,5 +1,4 @@
-Pezizella eriophori Dennis, 1962 SPECIES
-=======
+# Pezizella eriophori Dennis, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriella miniata Henn. SPECIES
-=======
+# Nectriella miniata Henn. SPECIES
 
 #### Status
 ACCEPTED

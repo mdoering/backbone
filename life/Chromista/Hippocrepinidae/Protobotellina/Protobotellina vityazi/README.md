@@ -1,5 +1,4 @@
-Protobotellina vityazi Saidova, 1975 SPECIES
-=======
+# Protobotellina vityazi Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

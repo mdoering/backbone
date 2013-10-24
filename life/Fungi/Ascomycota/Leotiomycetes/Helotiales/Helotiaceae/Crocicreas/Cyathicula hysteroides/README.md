@@ -1,5 +1,4 @@
-Cyathicula hysteroides (Rehm) E. Müll. SPECIES
-=======
+# Cyathicula hysteroides (Rehm) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balansia jungneri Henn. SPECIES
-=======
+# Balansia jungneri Henn. SPECIES
 
 #### Status
 ACCEPTED

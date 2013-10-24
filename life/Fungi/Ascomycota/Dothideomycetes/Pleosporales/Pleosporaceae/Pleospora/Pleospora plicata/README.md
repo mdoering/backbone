@@ -1,5 +1,4 @@
-Pleospora plicata (Preuss) Sacc. SPECIES
-=======
+# Pleospora plicata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

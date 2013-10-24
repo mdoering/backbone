@@ -1,5 +1,4 @@
-Pezizella alboviridis (Saut.) Sacc. SPECIES
-=======
+# Pezizella alboviridis (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

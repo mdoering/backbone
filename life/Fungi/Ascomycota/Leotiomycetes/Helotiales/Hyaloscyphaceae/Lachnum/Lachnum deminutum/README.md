@@ -1,5 +1,4 @@
-Lachnum deminutum Rehm SPECIES
-=======
+# Lachnum deminutum Rehm SPECIES
 
 #### Status
 ACCEPTED

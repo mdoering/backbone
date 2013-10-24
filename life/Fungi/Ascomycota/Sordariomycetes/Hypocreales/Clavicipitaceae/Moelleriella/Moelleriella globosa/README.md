@@ -1,5 +1,4 @@
-Moelleriella globosa (Syd. & P. Syd.) P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella globosa (Syd. & P. Syd.) P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

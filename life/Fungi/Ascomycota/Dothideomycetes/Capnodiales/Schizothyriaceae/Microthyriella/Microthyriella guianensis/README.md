@@ -1,5 +1,4 @@
-Microthyriella guianensis F. Stevens & Manter SPECIES
-=======
+# Microthyriella guianensis F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

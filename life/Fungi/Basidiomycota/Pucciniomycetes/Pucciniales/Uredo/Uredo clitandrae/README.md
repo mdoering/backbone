@@ -1,5 +1,4 @@
-Uredo clitandrae Henn. SPECIES
-=======
+# Uredo clitandrae Henn. SPECIES
 
 #### Status
 ACCEPTED

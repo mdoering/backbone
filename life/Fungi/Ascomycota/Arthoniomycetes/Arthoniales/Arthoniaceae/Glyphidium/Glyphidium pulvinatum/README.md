@@ -1,5 +1,4 @@
-Glyphidium pulvinatum (Hepp) Kremp. SPECIES
-=======
+# Glyphidium pulvinatum (Hepp) Kremp. SPECIES
 
 #### Status
 ACCEPTED

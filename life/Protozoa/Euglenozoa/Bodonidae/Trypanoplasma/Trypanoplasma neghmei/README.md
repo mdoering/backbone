@@ -1,5 +1,4 @@
-Trypanoplasma neghmei (Khan, Lobos, Garcías, Muñoz, Valdebenito & George-Nacimento, 1961) SPECIES
-=======
+# Trypanoplasma neghmei (Khan, Lobos, Garcías, Muñoz, Valdebenito & George-Nacimento, 1961) SPECIES
 
 #### Status
 ACCEPTED

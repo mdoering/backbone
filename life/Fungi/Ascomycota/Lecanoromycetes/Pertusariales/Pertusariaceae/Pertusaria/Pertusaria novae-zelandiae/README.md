@@ -1,5 +1,4 @@
-Pertusaria novae-zelandiae Szatala SPECIES
-=======
+# Pertusaria novae-zelandiae Szatala SPECIES
 
 #### Status
 ACCEPTED

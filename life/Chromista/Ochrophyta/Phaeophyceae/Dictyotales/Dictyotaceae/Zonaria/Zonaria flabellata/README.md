@@ -1,5 +1,4 @@
-Zonaria flabellata (Okamura) Papenfuss SPECIES
-=======
+# Zonaria flabellata (Okamura) Papenfuss SPECIES
 
 #### Status
 ACCEPTED

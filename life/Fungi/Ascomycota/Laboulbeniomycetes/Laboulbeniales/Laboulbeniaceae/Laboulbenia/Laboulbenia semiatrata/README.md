@@ -1,5 +1,4 @@
-Laboulbenia semiatrata Balazuc SPECIES
-=======
+# Laboulbenia semiatrata Balazuc SPECIES
 
 #### Status
 ACCEPTED

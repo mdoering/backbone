@@ -1,5 +1,4 @@
-Pulveroboletus innixus (Frost) Singer SPECIES
-=======
+# Pulveroboletus innixus (Frost) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramoebidium fuscum Duboscq, L. Léger & Tuzet SPECIES
-=======
+# Paramoebidium fuscum Duboscq, L. Léger & Tuzet SPECIES
 
 #### Status
 ACCEPTED

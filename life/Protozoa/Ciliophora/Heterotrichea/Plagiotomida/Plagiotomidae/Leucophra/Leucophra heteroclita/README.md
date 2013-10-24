@@ -1,5 +1,4 @@
-Leucophra heteroclita Müller, 1786 SPECIES
-=======
+# Leucophra heteroclita Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

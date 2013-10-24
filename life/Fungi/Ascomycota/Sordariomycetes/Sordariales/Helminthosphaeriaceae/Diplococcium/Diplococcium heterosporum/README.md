@@ -1,5 +1,4 @@
-Diplococcium heterosporum Zeller & Tóth SPECIES
-=======
+# Diplococcium heterosporum Zeller & Tóth SPECIES
 
 #### Status
 ACCEPTED

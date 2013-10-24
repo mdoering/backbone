@@ -1,5 +1,4 @@
-Rhaphidospora brachyascus G. Winter SPECIES
-=======
+# Rhaphidospora brachyascus G. Winter SPECIES
 
 #### Status
 ACCEPTED

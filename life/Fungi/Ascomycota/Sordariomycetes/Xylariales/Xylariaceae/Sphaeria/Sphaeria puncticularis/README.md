@@ -1,5 +1,4 @@
-Sphaeria puncticularis Opiz SPECIES
-=======
+# Sphaeria puncticularis Opiz SPECIES
 
 #### Status
 ACCEPTED

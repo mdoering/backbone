@@ -1,5 +1,4 @@
-Trichosporiella ornithopoda Oorschot & de Hoog, 1981 SPECIES
-=======
+# Trichosporiella ornithopoda Oorschot & de Hoog, 1981 SPECIES
 
 #### Status
 ACCEPTED

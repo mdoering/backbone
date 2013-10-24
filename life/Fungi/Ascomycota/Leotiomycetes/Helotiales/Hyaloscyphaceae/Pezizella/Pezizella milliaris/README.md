@@ -1,5 +1,4 @@
-Pezizella milliaris Velen., 1934 SPECIES
-=======
+# Pezizella milliaris Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

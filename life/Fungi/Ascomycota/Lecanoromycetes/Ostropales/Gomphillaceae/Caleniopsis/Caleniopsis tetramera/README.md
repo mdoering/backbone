@@ -1,5 +1,4 @@
-Caleniopsis tetramera Lücking SPECIES
-=======
+# Caleniopsis tetramera Lücking SPECIES
 
 #### Status
 ACCEPTED

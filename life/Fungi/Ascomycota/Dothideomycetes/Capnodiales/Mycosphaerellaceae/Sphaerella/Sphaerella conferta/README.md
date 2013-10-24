@@ -1,5 +1,4 @@
-Sphaerella conferta Speg. SPECIES
-=======
+# Sphaerella conferta Speg. SPECIES
 
 #### Status
 ACCEPTED

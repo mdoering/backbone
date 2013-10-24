@@ -1,5 +1,4 @@
-Marginotricha lithophora (Fauré-Fremiet, 1954) SPECIES
-=======
+# Marginotricha lithophora (Fauré-Fremiet, 1954) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Creonectria GENUS
-=======
+# Creonectria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonas sphagniphila K. H. Nicholls SPECIES
-=======
+# Mallomonas sphagniphila K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

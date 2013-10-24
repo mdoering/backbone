@@ -1,5 +1,4 @@
-Marasmius rivulosus Berk. & Broome SPECIES
-=======
+# Marasmius rivulosus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

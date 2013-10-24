@@ -1,5 +1,4 @@
-Porina gaumae Aptroot & Sipman SPECIES
-=======
+# Porina gaumae Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

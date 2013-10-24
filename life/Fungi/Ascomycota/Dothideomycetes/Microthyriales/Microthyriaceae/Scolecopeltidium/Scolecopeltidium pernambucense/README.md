@@ -1,5 +1,4 @@
-Scolecopeltidium pernambucense (Bat.) Bat. SPECIES
-=======
+# Scolecopeltidium pernambucense (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

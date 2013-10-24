@@ -1,5 +1,4 @@
-Polyblastiopsis anoptella (Stirt.) Ajay Singh SPECIES
-=======
+# Polyblastiopsis anoptella (Stirt.) Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

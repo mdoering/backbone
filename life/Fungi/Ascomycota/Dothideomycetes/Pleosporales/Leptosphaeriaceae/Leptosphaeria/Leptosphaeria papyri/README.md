@@ -1,5 +1,4 @@
-Leptosphaeria papyri Sacc. & P. Syd. SPECIES
-=======
+# Leptosphaeria papyri Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

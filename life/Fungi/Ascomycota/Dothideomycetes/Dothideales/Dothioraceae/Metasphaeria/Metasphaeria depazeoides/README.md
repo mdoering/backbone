@@ -1,5 +1,4 @@
-Metasphaeria depazeoides Rehm SPECIES
-=======
+# Metasphaeria depazeoides Rehm SPECIES
 
 #### Status
 ACCEPTED

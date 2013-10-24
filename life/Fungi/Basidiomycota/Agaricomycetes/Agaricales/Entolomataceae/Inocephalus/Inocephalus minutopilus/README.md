@@ -1,5 +1,4 @@
-Inocephalus minutopilus Largent SPECIES
-=======
+# Inocephalus minutopilus Largent SPECIES
 
 #### Status
 ACCEPTED

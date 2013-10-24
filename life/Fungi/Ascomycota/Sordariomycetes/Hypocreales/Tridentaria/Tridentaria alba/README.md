@@ -1,5 +1,4 @@
-Tridentaria alba Preuss, 1852 SPECIES
-=======
+# Tridentaria alba Preuss, 1852 SPECIES
 
 #### Status
 ACCEPTED

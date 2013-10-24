@@ -1,5 +1,4 @@
-Schiffnerula barnadesiae (Pat.) Petr. SPECIES
-=======
+# Schiffnerula barnadesiae (Pat.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subcretacea (Arnold) P. Syd. SPECIES
-=======
+# Lecidea subcretacea (Arnold) P. Syd. SPECIES
 
 #### Status
 ACCEPTED

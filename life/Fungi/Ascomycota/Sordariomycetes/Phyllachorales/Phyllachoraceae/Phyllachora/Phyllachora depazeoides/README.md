@@ -1,5 +1,4 @@
-Phyllachora depazeoides (Desm.) Nitschke SPECIES
-=======
+# Phyllachora depazeoides (Desm.) Nitschke SPECIES
 
 #### Status
 ACCEPTED

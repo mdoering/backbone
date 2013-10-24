@@ -1,5 +1,4 @@
-Pythium dichotomum P.A. Dang. SPECIES
-=======
+# Pythium dichotomum P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia urospora Werner & M. Choisy SPECIES
-=======
+# Bacidia urospora Werner & M. Choisy SPECIES
 
 #### Status
 ACCEPTED

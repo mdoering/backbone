@@ -1,5 +1,4 @@
-Chattonella globosa Y. Hara & M. Chihara SPECIES
-=======
+# Chattonella globosa Y. Hara & M. Chihara SPECIES
 
 #### Status
 ACCEPTED

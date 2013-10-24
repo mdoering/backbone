@@ -1,5 +1,4 @@
-Xylaria bidentata Pat. SPECIES
-=======
+# Xylaria bidentata Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parodiella asperula Penz. & Sacc. SPECIES
-=======
+# Parodiella asperula Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

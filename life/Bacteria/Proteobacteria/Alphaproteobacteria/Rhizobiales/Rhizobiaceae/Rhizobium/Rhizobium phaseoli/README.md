@@ -1,5 +1,4 @@
-Rhizobium phaseoli Dangeard, 1926 (Approved Lists, 1980) SPECIES
-=======
+# Rhizobium phaseoli Dangeard, 1926 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

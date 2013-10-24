@@ -1,5 +1,4 @@
-Rhizoblepharis amoebae P.A. Dang. SPECIES
-=======
+# Rhizoblepharis amoebae P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

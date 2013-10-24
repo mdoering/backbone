@@ -1,5 +1,4 @@
-Panarelium Haeckel, 1887 GENUS
-=======
+# Panarelium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

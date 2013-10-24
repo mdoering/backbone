@@ -1,5 +1,4 @@
-Hexalithus noeliae SPECIES
-=======
+# Hexalithus noeliae SPECIES
 
 #### Status
 ACCEPTED

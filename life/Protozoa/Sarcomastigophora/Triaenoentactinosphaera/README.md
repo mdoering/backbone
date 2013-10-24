@@ -1,5 +1,4 @@
-Triaenoentactinosphaera Wang, 1997 GENUS
-=======
+# Triaenoentactinosphaera Wang, 1997 GENUS
 
 #### Status
 ACCEPTED

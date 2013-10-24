@@ -1,17 +1,16 @@
-Parmelia taylori C.W. Dodge SPECIES
-=======
+# Parmelia taylorii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 46(1-2): 60 (1959)
 
 #### Original name
-Parmelia taylori C.W. Dodge
+Parmelia taylorii C.W. Dodge
 
 ### Remarks
 null

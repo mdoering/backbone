@@ -1,5 +1,4 @@
-Methylobacterium podarium Anesti et al., 2006 SPECIES
-=======
+# Methylobacterium podarium Anesti et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

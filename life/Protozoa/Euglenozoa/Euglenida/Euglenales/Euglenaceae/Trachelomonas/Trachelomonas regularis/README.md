@@ -1,5 +1,4 @@
-Trachelomonas regularis var. glabra Skvortsov VARIETY
-=======
+# Trachelomonas regularis (Lemmermann) Deflandre SPECIES
 
 #### Status
 ACCEPTED

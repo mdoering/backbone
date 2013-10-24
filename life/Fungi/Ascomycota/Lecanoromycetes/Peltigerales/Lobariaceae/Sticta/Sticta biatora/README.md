@@ -1,5 +1,4 @@
-Sticta biatora De Not. SPECIES
-=======
+# Sticta biatora De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterothecium monosporum (C. Knight) SPECIES
-=======
+# Heterothecium monosporum (C. Knight) SPECIES
 
 #### Status
 ACCEPTED

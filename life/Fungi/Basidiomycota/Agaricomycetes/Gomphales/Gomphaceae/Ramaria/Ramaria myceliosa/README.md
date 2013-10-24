@@ -1,17 +1,16 @@
-Ramaria myceliosa var. myceliosa (Peck) Corner VARIETY
-=======
+# Ramaria myceliosa (Peck) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 607 (1950)
 
 #### Original name
-Ramaria myceliosa var. myceliosa (Peck) Corner
+Clavaria myceliosa Peck, 1904
 
 ### Remarks
 null

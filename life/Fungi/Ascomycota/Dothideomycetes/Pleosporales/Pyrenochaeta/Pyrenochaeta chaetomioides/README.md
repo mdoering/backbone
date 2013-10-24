@@ -1,5 +1,4 @@
-Pyrenochaeta chaetomioides Sacc. SPECIES
-=======
+# Pyrenochaeta chaetomioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria gleditschiae Lobik SPECIES
-=======
+# Septoria gleditschiae Lobik SPECIES
 
 #### Status
 ACCEPTED

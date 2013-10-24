@@ -1,5 +1,4 @@
-Taphrinomycetes O.E. Erikss. & Winka CLASS
-=======
+# Taphrinomycetes O.E. Erikss. & Winka CLASS
 
 #### Status
 ACCEPTED

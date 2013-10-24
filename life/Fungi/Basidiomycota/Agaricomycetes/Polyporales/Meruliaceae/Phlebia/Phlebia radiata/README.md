@@ -1,17 +1,16 @@
-Phlebia radiata var. radiata VARIETY
-=======
+# Phlebia radiata Fr., 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. mycol. (Lundae) 1: 427 (1821)
 
 #### Original name
-Phlebia radiata var. radiata
+Phlebia radiata Fr., 1821
 
 ### Remarks
 null

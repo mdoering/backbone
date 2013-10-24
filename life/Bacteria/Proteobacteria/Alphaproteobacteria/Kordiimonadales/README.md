@@ -1,5 +1,4 @@
-Kordiimonadales ORDER
-=======
+# Kordiimonadales ORDER
 
 #### Status
 ACCEPTED

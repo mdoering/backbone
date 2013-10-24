@@ -1,5 +1,4 @@
-Asteridium ferrugineum Henn. SPECIES
-=======
+# Asteridium ferrugineum Henn. SPECIES
 
 #### Status
 ACCEPTED

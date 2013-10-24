@@ -1,5 +1,4 @@
-Periconiella qualeae-grandiflorae Dorn.-Silva & Dianese SPECIES
-=======
+# Periconiella qualeae-grandiflorae Dorn.-Silva & Dianese SPECIES
 
 #### Status
 ACCEPTED

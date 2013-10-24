@@ -1,5 +1,4 @@
-Lyophyllum pudicum (Bon & Contu) Consiglio & Contu SPECIES
-=======
+# Lyophyllum pudicum (Bon & Contu) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria aureola G. Winter, 1885 SPECIES
-=======
+# Nectria aureola G. Winter, 1885 SPECIES
 
 #### Status
 ACCEPTED

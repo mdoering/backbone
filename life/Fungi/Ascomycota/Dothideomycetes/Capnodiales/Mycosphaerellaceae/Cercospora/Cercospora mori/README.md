@@ -1,5 +1,4 @@
-Cercospora mori Hara SPECIES
-=======
+# Cercospora mori Hara SPECIES
 
 #### Status
 ACCEPTED

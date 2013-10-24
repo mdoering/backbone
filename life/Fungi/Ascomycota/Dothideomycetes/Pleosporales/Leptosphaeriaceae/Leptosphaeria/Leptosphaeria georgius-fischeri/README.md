@@ -1,5 +1,4 @@
-Leptosphaeria georgius-fischeri R. Sprague SPECIES
-=======
+# Leptosphaeria georgius-fischeri R. Sprague SPECIES
 
 #### Status
 ACCEPTED

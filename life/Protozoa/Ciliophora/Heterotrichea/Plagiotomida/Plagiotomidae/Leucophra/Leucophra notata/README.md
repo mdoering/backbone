@@ -1,5 +1,4 @@
-Leucophra notata Müller, 1786 SPECIES
-=======
+# Leucophra notata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria quebecensis (Poulin SPECIES
-=======
+# Fragilaria quebecensis (Poulin SPECIES
 
 #### Status
 ACCEPTED

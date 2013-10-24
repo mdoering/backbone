@@ -1,5 +1,4 @@
-Glauconema bermudense Small, et Al., 1986 SPECIES
-=======
+# Glauconema bermudense Small, et Al., 1986 SPECIES
 
 #### Status
 ACCEPTED

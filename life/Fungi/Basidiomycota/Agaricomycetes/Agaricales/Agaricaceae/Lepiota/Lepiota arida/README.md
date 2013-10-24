@@ -1,5 +1,4 @@
-Lepiota arida (Fr.) Gillet SPECIES
-=======
+# Lepiota arida (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

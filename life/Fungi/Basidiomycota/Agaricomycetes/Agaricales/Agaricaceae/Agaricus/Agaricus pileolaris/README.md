@@ -1,5 +1,4 @@
-Agaricus pileolaris Bull. SPECIES
-=======
+# Agaricus pileolaris Bull. SPECIES
 
 #### Status
 ACCEPTED

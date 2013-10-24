@@ -1,5 +1,4 @@
-Discosporium eucalypti B. Sutton & E.M. Davison, 1983 SPECIES
-=======
+# Discosporium eucalypti B. Sutton & E.M. Davison, 1983 SPECIES
 
 #### Status
 ACCEPTED

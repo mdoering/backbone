@@ -1,5 +1,4 @@
-Lecanora ochrotropa Zahlbr. SPECIES
-=======
+# Lecanora ochrotropa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

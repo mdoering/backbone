@@ -1,5 +1,4 @@
-Agaricus globosus Schumach. SPECIES
-=======
+# Agaricus globosus Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichia plantaginea P. Karst. SPECIES
-=======
+# Trichia plantaginea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

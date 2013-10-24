@@ -1,5 +1,4 @@
-Phyllosticta salisburyae Tassi SPECIES
-=======
+# Phyllosticta salisburyae Tassi SPECIES
 
 #### Status
 ACCEPTED

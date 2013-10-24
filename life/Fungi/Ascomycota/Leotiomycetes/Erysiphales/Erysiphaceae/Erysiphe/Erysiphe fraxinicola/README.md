@@ -1,5 +1,4 @@
-Erysiphe fraxinicola U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe fraxinicola U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

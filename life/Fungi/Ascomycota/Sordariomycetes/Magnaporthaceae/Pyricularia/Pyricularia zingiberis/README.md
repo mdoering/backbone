@@ -1,17 +1,16 @@
-Pyricularia zingiberi Y. Nisik. SPECIES
-=======
+# Pyricularia zingiberis Y. Nisik. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. Ohara Inst. Landwirt. Fursch. 1(2): 216 (1917)
 
 #### Original name
-Pyricularia zingiberi Y. Nisik.
+Pyricularia zingiberis Y. Nisik.
 
 ### Remarks
 null

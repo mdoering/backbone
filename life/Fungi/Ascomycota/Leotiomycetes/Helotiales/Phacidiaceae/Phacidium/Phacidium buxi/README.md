@@ -1,5 +1,4 @@
-Phacidium buxi A.B. Frank SPECIES
-=======
+# Phacidium buxi A.B. Frank SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kupsura sphaerocephala Lloyd SPECIES
-=======
+# Kupsura sphaerocephala Lloyd SPECIES
 
 #### Status
 ACCEPTED

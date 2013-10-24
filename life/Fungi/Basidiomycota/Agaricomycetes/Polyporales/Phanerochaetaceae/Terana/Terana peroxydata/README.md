@@ -1,5 +1,4 @@
-Terana peroxydata (Berk. & Broome) Kuntze SPECIES
-=======
+# Terana peroxydata (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

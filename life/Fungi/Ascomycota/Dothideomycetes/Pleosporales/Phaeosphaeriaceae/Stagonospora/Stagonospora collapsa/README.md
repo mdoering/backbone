@@ -1,5 +1,4 @@
-Stagonospora collapsa (Cooke & Ellis) Sacc. SPECIES
-=======
+# Stagonospora collapsa (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

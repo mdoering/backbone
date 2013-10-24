@@ -1,5 +1,4 @@
-Isaria yokohamensis Kobayasi SPECIES
-=======
+# Isaria yokohamensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

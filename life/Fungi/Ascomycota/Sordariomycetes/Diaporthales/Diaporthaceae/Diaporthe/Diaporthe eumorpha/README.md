@@ -1,5 +1,4 @@
-Diaporthe eumorpha (Durieu & Mont.) Maire, 1917 SPECIES
-=======
+# Diaporthe eumorpha (Durieu & Mont.) Maire, 1917 SPECIES
 
 #### Status
 ACCEPTED

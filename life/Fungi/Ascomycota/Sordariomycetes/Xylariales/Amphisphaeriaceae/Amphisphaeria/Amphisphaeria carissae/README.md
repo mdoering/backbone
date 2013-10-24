@@ -1,5 +1,4 @@
-Amphisphaeria carissae Tilak SPECIES
-=======
+# Amphisphaeria carissae Tilak SPECIES
 
 #### Status
 ACCEPTED

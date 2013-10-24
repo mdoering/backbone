@@ -1,5 +1,4 @@
-Phyllosticta atomata Tehon SPECIES
-=======
+# Phyllosticta atomata Tehon SPECIES
 
 #### Status
 ACCEPTED

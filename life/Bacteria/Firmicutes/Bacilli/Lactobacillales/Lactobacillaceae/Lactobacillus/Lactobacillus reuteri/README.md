@@ -1,5 +1,4 @@
-Lactobacillus reuteri Kandler et al., 1982 SPECIES
-=======
+# Lactobacillus reuteri Kandler et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

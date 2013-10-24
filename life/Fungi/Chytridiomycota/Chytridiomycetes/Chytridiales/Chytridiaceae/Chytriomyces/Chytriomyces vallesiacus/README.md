@@ -1,5 +1,4 @@
-Chytriomyces vallesiacus Persiel, 1960 SPECIES
-=======
+# Chytriomyces vallesiacus Persiel, 1960 SPECIES
 
 #### Status
 ACCEPTED

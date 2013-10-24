@@ -1,5 +1,4 @@
-Sphacelotheca mutabilis Syd. SPECIES
-=======
+# Sphacelotheca mutabilis Syd. SPECIES
 
 #### Status
 ACCEPTED

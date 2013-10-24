@@ -1,17 +1,16 @@
-Exosporium albizziae Tak. Kobay. SPECIES
-=======
+# Exosporium albiziae Tak. Kobay. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 19(4): 375 (1978)
 
 #### Original name
-Exosporium albizziae Tak. Kobay.
+Exosporium albiziae Tak. Kobay.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Colominella Popescu in Popescu, Cicha & Rogl, 1998 GENUS
-=======
+# Colominella Popescu in Popescu, Cicha & Rogl, 1998 GENUS
 
 #### Status
 ACCEPTED

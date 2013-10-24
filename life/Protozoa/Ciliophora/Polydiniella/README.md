@@ -1,17 +1,16 @@
-Polydinium Kofoid, 1935 GENUS
-=======
+# Polydiniella Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Proc. Acad. Nat. Sci. Washington, 21, 501.
+J. Protozool. 7: 273.
 
 #### Original name
-null
+Polydinium Kofoid, 1935
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sticta hirsuta Mont. SPECIES
-=======
+# Sticta hirsuta Mont. SPECIES
 
 #### Status
 ACCEPTED

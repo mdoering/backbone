@@ -1,5 +1,4 @@
-Tricholomopsis Singer, 1936 GENUS
-=======
+# Tricholomopsis Singer, 1936 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placopsis himalayensis D.D. Awasthi SPECIES
-=======
+# Placopsis himalayensis D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

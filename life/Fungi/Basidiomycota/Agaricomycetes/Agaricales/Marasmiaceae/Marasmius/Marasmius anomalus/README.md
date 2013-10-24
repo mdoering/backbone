@@ -1,17 +1,16 @@
-Marasmius anomalus f. anomalus FORM
-=======
+# Marasmius anomalus Peck, 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. 24: 76 (1872)
 
 #### Original name
-Marasmius anomalus f. anomalus
+Marasmius anomalus Peck, 1872
 
 ### Remarks
 null

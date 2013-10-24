@@ -1,5 +1,4 @@
-Ascochyta typhae-angustatae Punith. SPECIES
-=======
+# Ascochyta typhae-angustatae Punith. SPECIES
 
 #### Status
 ACCEPTED

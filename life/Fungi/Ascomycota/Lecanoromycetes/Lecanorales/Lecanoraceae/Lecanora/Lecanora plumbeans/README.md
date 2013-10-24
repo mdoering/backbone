@@ -1,5 +1,4 @@
-Lecanora plumbeans Grummann SPECIES
-=======
+# Lecanora plumbeans Grummann SPECIES
 
 #### Status
 ACCEPTED

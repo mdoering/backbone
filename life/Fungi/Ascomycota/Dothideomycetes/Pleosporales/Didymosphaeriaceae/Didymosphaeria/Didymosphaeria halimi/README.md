@@ -1,5 +1,4 @@
-Didymosphaeria halimi Gonz. Frag. & Cif. SPECIES
-=======
+# Didymosphaeria halimi Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

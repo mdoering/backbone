@@ -1,5 +1,4 @@
-Biatora labulata Hepp SPECIES
-=======
+# Biatora labulata Hepp SPECIES
 
 #### Status
 ACCEPTED

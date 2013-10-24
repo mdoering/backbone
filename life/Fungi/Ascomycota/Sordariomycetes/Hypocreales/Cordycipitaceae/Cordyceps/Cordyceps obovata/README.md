@@ -1,5 +1,4 @@
-Cordyceps obovata Berk. SPECIES
-=======
+# Cordyceps obovata Berk. SPECIES
 
 #### Status
 ACCEPTED

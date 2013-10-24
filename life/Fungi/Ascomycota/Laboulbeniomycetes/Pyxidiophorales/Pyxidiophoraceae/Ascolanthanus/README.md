@@ -1,5 +1,4 @@
-Ascolanthanus GENUS
-=======
+# Ascolanthanus GENUS
 
 #### Status
 ACCEPTED

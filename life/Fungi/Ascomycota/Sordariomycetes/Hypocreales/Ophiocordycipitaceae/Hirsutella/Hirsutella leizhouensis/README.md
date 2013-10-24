@@ -1,5 +1,4 @@
-Hirsutella leizhouensis H.M. Fang & S.M. Tan SPECIES
-=======
+# Hirsutella leizhouensis H.M. Fang & S.M. Tan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago aldabrensis Piatek & Vánky SPECIES
-=======
+# Ustilago aldabrensis Piatek & Vánky SPECIES
 
 #### Status
 ACCEPTED

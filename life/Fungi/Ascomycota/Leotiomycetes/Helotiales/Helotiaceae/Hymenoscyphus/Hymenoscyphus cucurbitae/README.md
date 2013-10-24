@@ -1,5 +1,4 @@
-Hymenoscyphus cucurbitae (W.R. Gerard) Kuntze SPECIES
-=======
+# Hymenoscyphus cucurbitae (W.R. Gerard) Kuntze SPECIES
 
 #### Status
 ACCEPTED

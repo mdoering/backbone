@@ -1,5 +1,4 @@
-Peziza farinacea Pers. SPECIES
-=======
+# Peziza farinacea Pers. SPECIES
 
 #### Status
 ACCEPTED

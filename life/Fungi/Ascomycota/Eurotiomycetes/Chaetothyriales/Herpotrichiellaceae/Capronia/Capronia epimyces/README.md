@@ -1,5 +1,4 @@
-Capronia epimyces M.E. Barr, 1991 SPECIES
-=======
+# Capronia epimyces M.E. Barr, 1991 SPECIES
 
 #### Status
 ACCEPTED

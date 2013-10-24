@@ -1,17 +1,16 @@
-Psoroma isabellinum Vain. SPECIES
-=======
+# Pannaria isabellina (Vain.) Elvebakk & Bjerke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 37(1): 48 (2005)
 
 #### Original name
-null
+Psoroma isabellinum Vain.
 
 ### Remarks
 null

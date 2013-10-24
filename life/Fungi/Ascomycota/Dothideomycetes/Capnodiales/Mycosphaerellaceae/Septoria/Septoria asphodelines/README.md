@@ -1,5 +1,4 @@
-Septoria asphodelines Syd. SPECIES
-=======
+# Septoria asphodelines Syd. SPECIES
 
 #### Status
 ACCEPTED

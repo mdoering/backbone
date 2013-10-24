@@ -1,5 +1,4 @@
-Mikronegeria fagi Dietel & Neger, 1899 SPECIES
-=======
+# Mikronegeria fagi Dietel & Neger, 1899 SPECIES
 
 #### Status
 ACCEPTED

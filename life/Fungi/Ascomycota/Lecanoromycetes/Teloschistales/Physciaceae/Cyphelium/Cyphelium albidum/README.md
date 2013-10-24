@@ -1,5 +1,4 @@
-Cyphelium albidum Körb. SPECIES
-=======
+# Cyphelium albidum Körb. SPECIES
 
 #### Status
 ACCEPTED

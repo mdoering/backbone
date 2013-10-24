@@ -1,5 +1,4 @@
-Nectria colletiae Rehm SPECIES
-=======
+# Nectria colletiae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pellatispira Boussac, 1906 GENUS
-=======
+# Pellatispira Boussac, 1906 GENUS
 
 #### Status
 ACCEPTED

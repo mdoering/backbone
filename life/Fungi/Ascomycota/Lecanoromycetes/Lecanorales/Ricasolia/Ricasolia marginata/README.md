@@ -1,5 +1,4 @@
-Ricasolia marginata Müll. Arg. SPECIES
-=======
+# Ricasolia marginata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

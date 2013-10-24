@@ -1,5 +1,4 @@
-Almophrya bivacuolata SPECIES
-=======
+# Almophrya bivacuolata SPECIES
 
 #### Status
 ACCEPTED

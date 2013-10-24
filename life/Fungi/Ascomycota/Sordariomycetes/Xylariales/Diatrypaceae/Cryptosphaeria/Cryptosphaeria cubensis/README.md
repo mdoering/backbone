@@ -1,5 +1,4 @@
-Cryptosphaeria cubensis Syd. SPECIES
-=======
+# Cryptosphaeria cubensis Syd. SPECIES
 
 #### Status
 ACCEPTED

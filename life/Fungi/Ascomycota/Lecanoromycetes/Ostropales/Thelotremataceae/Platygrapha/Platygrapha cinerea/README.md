@@ -1,5 +1,4 @@
-Platygrapha cinerea Müll. Arg. SPECIES
-=======
+# Platygrapha cinerea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiognomonia borealis (J. Schröt.) M. Monod SPECIES
-=======
+# Apiognomonia borealis (J. Schröt.) M. Monod SPECIES
 
 #### Status
 ACCEPTED

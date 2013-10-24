@@ -1,5 +1,4 @@
-Buellia andina Müll. Arg. SPECIES
-=======
+# Buellia andina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

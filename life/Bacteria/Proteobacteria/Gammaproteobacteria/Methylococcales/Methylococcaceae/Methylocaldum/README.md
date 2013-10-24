@@ -1,5 +1,4 @@
-Methylocaldum Bodrossy et al., 1998 GENUS
-=======
+# Methylocaldum Bodrossy et al., 1998 GENUS
 
 #### Status
 ACCEPTED

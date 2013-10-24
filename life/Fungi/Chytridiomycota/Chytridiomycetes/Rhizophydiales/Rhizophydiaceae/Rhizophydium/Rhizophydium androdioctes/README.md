@@ -1,5 +1,4 @@
-Rhizophydium androdioctes Canter, 1971 SPECIES
-=======
+# Rhizophydium androdioctes Canter, 1971 SPECIES
 
 #### Status
 ACCEPTED

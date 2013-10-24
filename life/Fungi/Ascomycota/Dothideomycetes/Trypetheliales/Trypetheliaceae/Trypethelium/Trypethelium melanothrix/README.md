@@ -1,5 +1,4 @@
-Trypethelium melanothrix Eschw. SPECIES
-=======
+# Trypethelium melanothrix Eschw. SPECIES
 
 #### Status
 ACCEPTED

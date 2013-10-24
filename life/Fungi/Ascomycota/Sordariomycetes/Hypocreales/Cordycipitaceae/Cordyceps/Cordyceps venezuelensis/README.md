@@ -1,5 +1,4 @@
-Cordyceps venezuelensis Mains SPECIES
-=======
+# Cordyceps venezuelensis Mains SPECIES
 
 #### Status
 ACCEPTED

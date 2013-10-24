@@ -1,14 +1,13 @@
-Polystigma ostruthii (Fr.) Link SPECIES
-=======
+# Stigmatea ostruthii (Fr.) Oudem. ex Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handbuck zur Erkennung der Nutzbarsten und am Häufigsten Vorkommenden Gewächse 3: 391 (1833)
+Syll. fung. (Abellini) 1: 545 (1882)
 
 #### Original name
 Sphaeria ostruthii Fr., 1815

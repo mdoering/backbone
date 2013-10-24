@@ -1,5 +1,4 @@
-Coniosporium nucifoedum Fairm. SPECIES
-=======
+# Coniosporium nucifoedum Fairm. SPECIES
 
 #### Status
 ACCEPTED

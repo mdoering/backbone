@@ -1,5 +1,4 @@
-Clathroporina chlorotica Müll. Arg. SPECIES
-=======
+# Clathroporina chlorotica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

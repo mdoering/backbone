@@ -1,5 +1,4 @@
-Blastenia guadeloupensis B. de Lesd. SPECIES
-=======
+# Blastenia guadeloupensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

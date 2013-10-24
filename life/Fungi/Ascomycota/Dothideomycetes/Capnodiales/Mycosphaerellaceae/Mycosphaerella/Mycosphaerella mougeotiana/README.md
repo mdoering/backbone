@@ -1,5 +1,4 @@
-Mycosphaerella mougeotiana (Sacc.) Lindau SPECIES
-=======
+# Mycosphaerella mougeotiana (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus varians Wehmer, 1897 SPECIES
-=======
+# Aspergillus varians Wehmer, 1897 SPECIES
 
 #### Status
 ACCEPTED

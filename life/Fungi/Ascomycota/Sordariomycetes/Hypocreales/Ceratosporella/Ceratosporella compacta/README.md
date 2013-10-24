@@ -1,5 +1,4 @@
-Ceratosporella compacta R.F. Castañeda, Guarro & Cano, 1996 SPECIES
-=======
+# Ceratosporella compacta R.F. Castañeda, Guarro & Cano, 1996 SPECIES
 
 #### Status
 ACCEPTED

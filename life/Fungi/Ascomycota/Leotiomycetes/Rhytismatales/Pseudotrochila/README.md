@@ -1,5 +1,4 @@
-Pseudotrochila Höhn. GENUS
-=======
+# Pseudotrochila Höhn. GENUS
 
 #### Status
 ACCEPTED

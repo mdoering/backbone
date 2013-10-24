@@ -1,5 +1,4 @@
-Chitonastrum Haeckel, 1881 GENUS
-=======
+# Chitonastrum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

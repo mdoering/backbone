@@ -1,17 +1,16 @@
-Rhizopogon colossus var. colossus VARIETY
-=======
+# Rhizopogon villosulus Zeller, 1941 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 14(2): 93 (1966)
+Mycologia 33: 196 (1941)
 
 #### Original name
-Rhizopogon colossus var. colossus
+Rhizopogon villosulus Zeller, 1941
 
 ### Remarks
 null

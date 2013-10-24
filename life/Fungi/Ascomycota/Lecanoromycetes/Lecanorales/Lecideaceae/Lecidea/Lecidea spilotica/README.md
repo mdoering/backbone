@@ -1,5 +1,4 @@
-Lecidea spilotica Nyl. SPECIES
-=======
+# Lecidea spilotica Nyl. SPECIES
 
 #### Status
 ACCEPTED

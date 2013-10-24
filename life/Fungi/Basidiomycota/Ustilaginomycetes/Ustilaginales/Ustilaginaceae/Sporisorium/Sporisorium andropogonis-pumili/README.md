@@ -1,5 +1,4 @@
-Sporisorium andropogonis-pumili Vánky SPECIES
-=======
+# Sporisorium andropogonis-pumili Vánky SPECIES
 
 #### Status
 ACCEPTED

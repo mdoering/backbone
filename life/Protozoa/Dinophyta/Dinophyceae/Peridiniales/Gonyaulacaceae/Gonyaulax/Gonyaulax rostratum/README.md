@@ -1,5 +1,4 @@
-Gonyaulax rostratum P. Dangeard, 1927 SPECIES
-=======
+# Gonyaulax rostratum P. Dangeard, 1927 SPECIES
 
 #### Status
 ACCEPTED

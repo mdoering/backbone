@@ -1,5 +1,4 @@
-Gibberidea astragali (P. Karst. & Har.) Kuntze SPECIES
-=======
+# Gibberidea astragali (P. Karst. & Har.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

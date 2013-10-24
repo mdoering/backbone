@@ -1,5 +1,4 @@
-Armillaria ompnera Berk. & Broome SPECIES
-=======
+# Armillaria ompnera Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

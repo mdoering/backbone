@@ -1,5 +1,4 @@
-Hormodendrum divaricatum Ellis & Langl. SPECIES
-=======
+# Hormodendrum divaricatum Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protospathidiidae FAMILY
-=======
+# Protospathidiidae FAMILY
 
 #### Status
 ACCEPTED

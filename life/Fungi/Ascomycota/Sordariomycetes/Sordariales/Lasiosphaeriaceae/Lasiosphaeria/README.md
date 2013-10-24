@@ -1,17 +1,16 @@
-Lasiosordariella Chenant. GENUS
-=======
+# Lasiosphaeria Cesati & De Notaris, 1863 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. mycol. Fr. 35: 78 (1919)
+null
 
 #### Original name
-Lasiosordariella Chenant.
+null
 
 ### Remarks
 null

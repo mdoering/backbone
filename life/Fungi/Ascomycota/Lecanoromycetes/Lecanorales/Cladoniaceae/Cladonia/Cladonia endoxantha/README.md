@@ -1,5 +1,4 @@
-Cladonia endoxantha Vain. SPECIES
-=======
+# Cladonia endoxantha Vain. SPECIES
 
 #### Status
 ACCEPTED

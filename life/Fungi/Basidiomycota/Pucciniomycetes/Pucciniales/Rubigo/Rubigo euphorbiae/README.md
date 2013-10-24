@@ -1,5 +1,4 @@
-Rubigo euphorbiae Roussel SPECIES
-=======
+# Rubigo euphorbiae Roussel SPECIES
 
 #### Status
 ACCEPTED

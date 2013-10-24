@@ -1,5 +1,4 @@
-Dicaeoma pachycarpi (Cooke & Kalchbr.) Kuntze SPECIES
-=======
+# Dicaeoma pachycarpi (Cooke & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

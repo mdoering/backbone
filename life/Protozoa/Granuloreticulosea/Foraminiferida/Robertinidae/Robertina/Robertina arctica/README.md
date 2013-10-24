@@ -1,5 +1,4 @@
-Robertina arctica (d'Orbigny, 1839) SPECIES
-=======
+# Robertina arctica (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

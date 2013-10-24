@@ -1,5 +1,4 @@
-Thyrsocyrtis Ehrenberg, 1847 GENUS
-=======
+# Thyrsocyrtis Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

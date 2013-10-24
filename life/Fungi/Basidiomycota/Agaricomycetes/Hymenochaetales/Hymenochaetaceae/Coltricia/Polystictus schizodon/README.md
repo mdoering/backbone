@@ -1,5 +1,4 @@
-Polystictus schizodon (Lév.) Lloyd SPECIES
-=======
+# Polystictus schizodon (Lév.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

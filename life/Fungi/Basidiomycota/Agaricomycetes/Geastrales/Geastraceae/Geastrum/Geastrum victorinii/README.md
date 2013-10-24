@@ -1,5 +1,4 @@
-Geastrum victorinii P. Ponce de León SPECIES
-=======
+# Geastrum victorinii P. Ponce de León SPECIES
 
 #### Status
 ACCEPTED

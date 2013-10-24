@@ -1,5 +1,4 @@
-Lagenophrys paguri SPECIES
-=======
+# Lagenophrys paguri SPECIES
 
 #### Status
 ACCEPTED

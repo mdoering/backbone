@@ -1,5 +1,4 @@
-Desulfovibrio oxyclinae Krekeler et al., 2000 SPECIES
-=======
+# Desulfovibrio oxyclinae Krekeler et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

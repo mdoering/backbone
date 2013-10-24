@@ -1,5 +1,4 @@
-Sclerotium floccipendulum Fr. SPECIES
-=======
+# Sclerotium floccipendulum Fr. SPECIES
 
 #### Status
 ACCEPTED

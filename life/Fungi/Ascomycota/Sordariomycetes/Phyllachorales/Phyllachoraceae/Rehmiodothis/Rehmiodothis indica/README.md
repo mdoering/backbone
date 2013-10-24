@@ -1,5 +1,4 @@
-Rehmiodothis indica Narendra & V.G. Rao, 1976 SPECIES
-=======
+# Rehmiodothis indica Narendra & V.G. Rao, 1976 SPECIES
 
 #### Status
 ACCEPTED

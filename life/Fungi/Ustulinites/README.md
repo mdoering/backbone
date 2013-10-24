@@ -1,5 +1,4 @@
-Ustulinites Kirschst. GENUS
-=======
+# Ustulinites Kirschst. GENUS
 
 #### Status
 ACCEPTED

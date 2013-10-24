@@ -1,5 +1,4 @@
-Streptothrix spitzii Lignières SPECIES
-=======
+# Streptothrix spitzii Lignières SPECIES
 
 #### Status
 ACCEPTED

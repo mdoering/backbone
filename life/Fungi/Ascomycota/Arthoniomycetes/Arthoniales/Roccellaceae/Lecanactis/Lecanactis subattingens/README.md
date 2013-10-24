@@ -1,5 +1,4 @@
-Lecanactis subattingens (Nyl.) R.C. Harris SPECIES
-=======
+# Lecanactis subattingens (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

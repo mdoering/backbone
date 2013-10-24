@@ -1,5 +1,4 @@
-Basidiobolus magnus Drechsler, 1964 SPECIES
-=======
+# Basidiobolus magnus Drechsler, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoothamnium commune Kahl, 1935 SPECIES
-=======
+# Zoothamnium commune Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

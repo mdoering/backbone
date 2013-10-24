@@ -1,5 +1,4 @@
-Rhabdospora tunicae (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora tunicae (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

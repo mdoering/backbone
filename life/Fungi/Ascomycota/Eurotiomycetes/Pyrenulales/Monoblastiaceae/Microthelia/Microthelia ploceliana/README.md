@@ -1,5 +1,4 @@
-Microthelia ploceliana J. Steiner SPECIES
-=======
+# Microthelia ploceliana J. Steiner SPECIES
 
 #### Status
 ACCEPTED

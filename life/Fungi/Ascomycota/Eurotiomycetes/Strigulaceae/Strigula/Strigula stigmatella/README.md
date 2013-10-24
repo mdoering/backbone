@@ -1,17 +1,16 @@
-Verrucaria stigmatella var. stigmatella VARIETY
-=======
+# Strigula stigmatella (Ach.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Verrucaria stigmatella var. stigmatella
+null
 
 ### Remarks
 null

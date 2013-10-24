@@ -1,5 +1,4 @@
-Alternaria eucalypti (Henn.) P. Joly SPECIES
-=======
+# Alternaria eucalypti (Henn.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

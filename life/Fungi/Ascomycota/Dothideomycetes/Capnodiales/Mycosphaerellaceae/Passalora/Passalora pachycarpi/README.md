@@ -1,5 +1,4 @@
-Passalora pachycarpi (Chupp & Doidge) Crous & U. Braun SPECIES
-=======
+# Passalora pachycarpi (Chupp & Doidge) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

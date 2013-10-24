@@ -1,5 +1,4 @@
-Ganoderma namutambalaense Steyaert SPECIES
-=======
+# Ganoderma namutambalaense Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptospirillum thermoferrooxidans Hippe, 2000 SPECIES
-=======
+# Leptospirillum thermoferrooxidans Hippe, 2000 SPECIES
 
 #### Status
 ACCEPTED

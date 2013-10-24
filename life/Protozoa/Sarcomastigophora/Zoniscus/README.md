@@ -1,5 +1,4 @@
-Zoniscus Haeckel, 1887 GENUS
-=======
+# Zoniscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

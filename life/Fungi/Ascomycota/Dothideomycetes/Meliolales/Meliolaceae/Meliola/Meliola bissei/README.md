@@ -1,5 +1,4 @@
-Meliola bissei Schmied. SPECIES
-=======
+# Meliola bissei Schmied. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita calyptratoides Peck SPECIES
-=======
+# Amanita calyptratoides Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma ostropoides Rehm SPECIES
-=======
+# Anthostoma ostropoides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina pallida (Ellis & Everh.) M.B. Ellis SPECIES
-=======
+# Stigmina pallida (Ellis & Everh.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

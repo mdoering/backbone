@@ -1,5 +1,4 @@
-Verrucaria cinerascens (Nyl.) Nyl. SPECIES
-=======
+# Verrucaria cinerascens (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

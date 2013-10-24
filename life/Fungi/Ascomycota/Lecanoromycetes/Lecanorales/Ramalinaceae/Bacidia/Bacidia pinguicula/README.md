@@ -1,5 +1,4 @@
-Bacidia pinguicula (Bagl. & Carestia) Lettau SPECIES
-=======
+# Bacidia pinguicula (Bagl. & Carestia) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cystobia Mingazzini, 1891 GENUS
-=======
+# Urospora Schneider, 1875 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+IRMNG Homonym List
 
 #### Published in
-null
+Arch. Zool. exp. gén. , Paris, 4, 597.
 
 #### Original name
 null

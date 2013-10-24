@@ -1,5 +1,4 @@
-Ustilago caricis-wallichianae Thirum. & Pavgi SPECIES
-=======
+# Ustilago caricis-wallichianae Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

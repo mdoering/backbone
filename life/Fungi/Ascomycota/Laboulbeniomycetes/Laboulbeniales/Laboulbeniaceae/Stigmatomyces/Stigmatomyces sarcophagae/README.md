@@ -1,5 +1,4 @@
-Stigmatomyces sarcophagae Thaxt. SPECIES
-=======
+# Stigmatomyces sarcophagae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

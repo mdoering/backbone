@@ -1,5 +1,4 @@
-Ascochytula (Potebnia) Diedicke GENUS
-=======
+# Ascochytula (Potebnia) Diedicke GENUS
 
 #### Status
 ACCEPTED

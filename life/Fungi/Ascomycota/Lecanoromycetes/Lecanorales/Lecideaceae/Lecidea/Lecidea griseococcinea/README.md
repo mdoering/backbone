@@ -1,5 +1,4 @@
-Lecidea griseococcinea Nyl. SPECIES
-=======
+# Lecidea griseococcinea Nyl. SPECIES
 
 #### Status
 ACCEPTED

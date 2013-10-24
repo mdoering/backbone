@@ -1,5 +1,4 @@
-Hendersonia asparagina Fautrey SPECIES
-=======
+# Hendersonia asparagina Fautrey SPECIES
 
 #### Status
 ACCEPTED

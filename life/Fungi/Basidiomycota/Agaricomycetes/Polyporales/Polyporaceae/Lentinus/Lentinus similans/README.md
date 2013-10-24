@@ -1,5 +1,4 @@
-Lentinus similans (Earle) Sacc. & Traverso SPECIES
-=======
+# Lentinus similans (Earle) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

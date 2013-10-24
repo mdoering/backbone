@@ -1,5 +1,4 @@
-Graphina lecideicarpa Zahlbr. SPECIES
-=======
+# Graphina lecideicarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

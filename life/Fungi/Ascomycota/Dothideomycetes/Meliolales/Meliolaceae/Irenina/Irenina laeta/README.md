@@ -1,5 +1,4 @@
-Irenina laeta (Theiss.) F. Stevens SPECIES
-=======
+# Irenina laeta (Theiss.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

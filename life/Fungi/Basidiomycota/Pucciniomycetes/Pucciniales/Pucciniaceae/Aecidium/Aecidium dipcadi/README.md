@@ -1,5 +1,4 @@
-Aecidium dipcadi Har. & Pat. SPECIES
-=======
+# Aecidium dipcadi Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

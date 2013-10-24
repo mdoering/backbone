@@ -1,5 +1,4 @@
-Ustilago grossheimii Uljan. SPECIES
-=======
+# Ustilago grossheimii Uljan. SPECIES
 
 #### Status
 ACCEPTED

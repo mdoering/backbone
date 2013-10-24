@@ -1,5 +1,4 @@
-Cookeina mundkurii S.C. Kaushal SPECIES
-=======
+# Cookeina mundkurii S.C. Kaushal SPECIES
 
 #### Status
 ACCEPTED

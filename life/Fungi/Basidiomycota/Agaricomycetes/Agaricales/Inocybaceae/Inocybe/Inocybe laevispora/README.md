@@ -1,5 +1,4 @@
-Inocybe laevispora Hruby SPECIES
-=======
+# Inocybe laevispora Hruby SPECIES
 
 #### Status
 ACCEPTED

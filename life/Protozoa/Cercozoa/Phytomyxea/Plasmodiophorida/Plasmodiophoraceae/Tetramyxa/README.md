@@ -1,17 +1,16 @@
-Molliardia Maire & A. Tison GENUS
-=======
+# Tetramyxa K.I. Goebel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 9: 238 (1911)
+Flora, Jena 67: 517 (1884)
 
 #### Original name
-Molliardia Maire & A. Tison
+Tetramyxa K.I. Goebel
 
 ### Remarks
 null

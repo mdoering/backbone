@@ -1,17 +1,16 @@
-Galerina sanctixaverii Singer SPECIES
-=======
+# Galerina sancti-xaveri Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 7: 91 (1973)
 
 #### Original name
-Galerina sanctixaverii Singer
+Galerina sancti-xaveri Singer
 
 ### Remarks
 null

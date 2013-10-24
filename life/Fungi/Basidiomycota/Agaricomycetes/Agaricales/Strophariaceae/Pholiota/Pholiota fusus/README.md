@@ -1,5 +1,4 @@
-Pholiota fusus (Batsch) Singer SPECIES
-=======
+# Pholiota fusus (Batsch) Singer SPECIES
 
 #### Status
 ACCEPTED

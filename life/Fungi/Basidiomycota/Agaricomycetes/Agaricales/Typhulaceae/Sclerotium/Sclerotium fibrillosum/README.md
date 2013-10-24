@@ -1,5 +1,4 @@
-Sclerotium fibrillosum Lib. SPECIES
-=======
+# Sclerotium fibrillosum Lib. SPECIES
 
 #### Status
 ACCEPTED

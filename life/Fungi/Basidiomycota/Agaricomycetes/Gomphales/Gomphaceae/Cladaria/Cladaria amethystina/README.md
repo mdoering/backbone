@@ -1,5 +1,4 @@
-Cladaria amethystina (Fr.) Doty SPECIES
-=======
+# Cladaria amethystina (Fr.) Doty SPECIES
 
 #### Status
 ACCEPTED

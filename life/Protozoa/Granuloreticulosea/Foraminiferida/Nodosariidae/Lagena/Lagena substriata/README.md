@@ -1,5 +1,4 @@
-Lagena substriata SPECIES
-=======
+# Lagena substriata SPECIES
 
 #### Status
 ACCEPTED

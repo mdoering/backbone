@@ -1,5 +1,4 @@
-Asterina dallasica Petr. SPECIES
-=======
+# Asterina dallasica Petr. SPECIES
 
 #### Status
 ACCEPTED

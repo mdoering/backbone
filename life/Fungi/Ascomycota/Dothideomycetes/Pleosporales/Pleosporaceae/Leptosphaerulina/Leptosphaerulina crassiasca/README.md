@@ -1,5 +1,4 @@
-Leptosphaerulina crassiasca (Séchet) C.R. Jacks. & D.K. Bell SPECIES
-=======
+# Leptosphaerulina crassiasca (Séchet) C.R. Jacks. & D.K. Bell SPECIES
 
 #### Status
 ACCEPTED

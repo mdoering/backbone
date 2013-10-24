@@ -1,5 +1,4 @@
-Chaetomidium websteri S. Hughes SPECIES
-=======
+# Chaetomidium websteri S. Hughes SPECIES
 
 #### Status
 ACCEPTED

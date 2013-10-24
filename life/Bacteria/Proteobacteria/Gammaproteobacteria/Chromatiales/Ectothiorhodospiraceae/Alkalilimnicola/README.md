@@ -1,5 +1,4 @@
-Alkalilimnicola GENUS
-=======
+# Alkalilimnicola GENUS
 
 #### Status
 ACCEPTED

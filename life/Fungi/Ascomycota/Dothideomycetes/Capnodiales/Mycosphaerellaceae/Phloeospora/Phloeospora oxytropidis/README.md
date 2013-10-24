@@ -1,5 +1,4 @@
-Phloeospora oxytropidis Ellis & Galloway SPECIES
-=======
+# Phloeospora oxytropidis Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

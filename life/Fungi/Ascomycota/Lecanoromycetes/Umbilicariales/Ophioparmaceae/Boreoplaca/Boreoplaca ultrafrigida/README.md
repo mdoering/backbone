@@ -1,5 +1,4 @@
-Boreoplaca ultrafrigida Timdal SPECIES
-=======
+# Boreoplaca ultrafrigida Timdal SPECIES
 
 #### Status
 ACCEPTED

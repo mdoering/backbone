@@ -1,5 +1,4 @@
-Caloplaca desertorum Tomin SPECIES
-=======
+# Caloplaca desertorum Tomin SPECIES
 
 #### Status
 ACCEPTED

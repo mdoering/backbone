@@ -1,5 +1,4 @@
-Clonophoromyces grenadinus Thaxt., 1931 SPECIES
-=======
+# Clonophoromyces grenadinus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

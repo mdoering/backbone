@@ -1,5 +1,4 @@
-Candida flosculorum C.A. Rosa et al. {?} SPECIES
-=======
+# Candida flosculorum C.A. Rosa et al. {?} SPECIES
 
 #### Status
 ACCEPTED

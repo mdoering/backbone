@@ -1,5 +1,4 @@
-Phyllachora tanensis P.F. Cannon & H.C. Evans, 1999 SPECIES
-=======
+# Phyllachora tanensis P.F. Cannon & H.C. Evans, 1999 SPECIES
 
 #### Status
 DOUBTFUL

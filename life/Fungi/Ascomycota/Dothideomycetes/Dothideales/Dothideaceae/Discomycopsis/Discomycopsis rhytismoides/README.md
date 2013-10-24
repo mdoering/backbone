@@ -1,5 +1,4 @@
-Discomycopsis rhytismoides Müll. Hal. SPECIES
-=======
+# Discomycopsis rhytismoides Müll. Hal. SPECIES
 
 #### Status
 ACCEPTED

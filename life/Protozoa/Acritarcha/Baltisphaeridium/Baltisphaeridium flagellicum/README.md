@@ -1,5 +1,4 @@
-Baltisphaeridium flagellicum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium flagellicum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichosporina salicis (G. Arnaud) Cif. & Bat. SPECIES
-=======
+# Teichosporina salicis (G. Arnaud) Cif. & Bat. SPECIES
 
 #### Status
 ACCEPTED

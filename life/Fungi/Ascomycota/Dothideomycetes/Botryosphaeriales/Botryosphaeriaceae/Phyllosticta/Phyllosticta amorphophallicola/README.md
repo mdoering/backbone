@@ -1,5 +1,4 @@
-Phyllosticta amorphophallicola V.G. Rao SPECIES
-=======
+# Phyllosticta amorphophallicola V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

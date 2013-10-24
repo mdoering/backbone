@@ -1,5 +1,4 @@
-Orenia Rainey & Stackebrandt, 1995 GENUS
-=======
+# Orenia Rainey & Stackebrandt, 1995 GENUS
 
 #### Status
 ACCEPTED

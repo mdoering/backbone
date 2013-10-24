@@ -1,14 +1,13 @@
-Psilachnum occulta (Ces.) Raitv. SPECIES
-=======
+# Psilachnum occultum (Ces.) Raitv., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scripta Mycol. , Tartu 20: 104 (2004)
 
 #### Original name
 null

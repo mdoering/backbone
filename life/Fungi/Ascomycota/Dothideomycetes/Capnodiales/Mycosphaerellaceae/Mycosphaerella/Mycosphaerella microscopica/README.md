@@ -1,5 +1,4 @@
-Mycosphaerella microscopica (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella microscopica (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

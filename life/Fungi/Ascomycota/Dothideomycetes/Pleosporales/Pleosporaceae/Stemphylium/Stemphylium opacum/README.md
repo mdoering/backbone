@@ -1,5 +1,4 @@
-Stemphylium opacum Sacc. SPECIES
-=======
+# Stemphylium opacum Sacc. SPECIES
 
 #### Status
 ACCEPTED

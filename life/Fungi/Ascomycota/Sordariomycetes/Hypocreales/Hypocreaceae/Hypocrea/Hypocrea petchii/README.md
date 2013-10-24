@@ -1,5 +1,4 @@
-Hypocrea petchii Trotter SPECIES
-=======
+# Hypocrea petchii Trotter SPECIES
 
 #### Status
 ACCEPTED

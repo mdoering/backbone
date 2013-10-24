@@ -1,5 +1,4 @@
-Anthostomella megaclypeata Rehm SPECIES
-=======
+# Anthostomella megaclypeata Rehm SPECIES
 
 #### Status
 ACCEPTED

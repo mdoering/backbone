@@ -1,5 +1,4 @@
-Armillaria griseofusca (DC.) Gillet SPECIES
-=======
+# Armillaria griseofusca (DC.) Gillet SPECIES
 
 #### Status
 ACCEPTED

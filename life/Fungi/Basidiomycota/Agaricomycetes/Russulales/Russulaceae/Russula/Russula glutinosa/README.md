@@ -1,5 +1,4 @@
-Russula glutinosa Fatto SPECIES
-=======
+# Russula glutinosa Fatto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotella bodanica-comta (Ehrenberg) Kützing SPECIES
-=======
+# Cyclotella bodanica-comta (Ehrenberg) Kützing SPECIES
 
 #### Status
 ACCEPTED

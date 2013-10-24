@@ -1,5 +1,4 @@
-Mycena cupulicola Issh. Tanaka SPECIES
-=======
+# Mycena cupulicola Issh. Tanaka SPECIES
 
 #### Status
 ACCEPTED

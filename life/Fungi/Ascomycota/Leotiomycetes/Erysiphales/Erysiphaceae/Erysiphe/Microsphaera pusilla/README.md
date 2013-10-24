@@ -1,5 +1,4 @@
-Microsphaera pusilla U. Braun SPECIES
-=======
+# Microsphaera pusilla U. Braun SPECIES
 
 #### Status
 ACCEPTED

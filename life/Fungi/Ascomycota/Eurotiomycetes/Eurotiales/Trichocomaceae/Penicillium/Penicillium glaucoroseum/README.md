@@ -1,5 +1,4 @@
-Penicillium glaucoroseum Demelius SPECIES
-=======
+# Penicillium glaucoroseum Demelius SPECIES
 
 #### Status
 ACCEPTED

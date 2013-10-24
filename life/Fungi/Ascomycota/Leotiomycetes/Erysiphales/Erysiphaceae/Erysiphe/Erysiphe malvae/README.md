@@ -1,5 +1,4 @@
-Erysiphe malvae V.P. Heluta SPECIES
-=======
+# Erysiphe malvae V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

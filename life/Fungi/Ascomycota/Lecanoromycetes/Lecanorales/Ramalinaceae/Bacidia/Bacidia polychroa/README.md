@@ -1,17 +1,16 @@
-Bacidia fuscorubella f. fuscorubella FORM
-=======
+# Bacidia polychroa (Th. Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. nat. Ver. Carlsburg 4: 107 (1869)
+Parerga lichenol. (Breslau) 131 (1860)
 
 #### Original name
-Bacidia fuscorubella f. fuscorubella
+Biatora polychroa Th. Fr.
 
 ### Remarks
 null

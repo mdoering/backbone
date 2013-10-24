@@ -1,5 +1,4 @@
-Polyporus huii Lloyd SPECIES
-=======
+# Polyporus huii Lloyd SPECIES
 
 #### Status
 ACCEPTED

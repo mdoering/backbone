@@ -1,5 +1,4 @@
-Acarospora altoandina H. Magn. SPECIES
-=======
+# Acarospora altoandina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

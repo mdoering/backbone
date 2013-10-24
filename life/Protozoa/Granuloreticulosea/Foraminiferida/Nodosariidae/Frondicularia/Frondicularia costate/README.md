@@ -1,5 +1,4 @@
-Frondicularia costate SPECIES
-=======
+# Frondicularia costate SPECIES
 
 #### Status
 ACCEPTED

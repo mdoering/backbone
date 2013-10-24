@@ -1,5 +1,4 @@
-Isocystis spermosiroides Borzi SPECIES
-=======
+# Isocystis spermosiroides Borzi SPECIES
 
 #### Status
 ACCEPTED

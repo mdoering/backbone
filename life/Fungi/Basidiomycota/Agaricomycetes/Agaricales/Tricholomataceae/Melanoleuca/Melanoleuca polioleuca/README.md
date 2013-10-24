@@ -1,17 +1,16 @@
-Melanoleuca polioleuca var. polioleuca VARIETY
-=======
+# Melanoleuca polioleuca (Fr.) G. Moreno, 1934 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Moreno, Arenal & González, Bull. trimest. Soc. mycol. Fr. 50: 18 (1934)
 
 #### Original name
-null
+Agaricus melaleucus Pers., 1801
 
 ### Remarks
 null

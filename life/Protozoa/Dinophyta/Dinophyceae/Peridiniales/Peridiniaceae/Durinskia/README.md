@@ -1,5 +1,4 @@
-Durinskia S.Carty & E.R.Cox, 1986 GENUS
-=======
+# Durinskia S.Carty & E.R.Cox, 1986 GENUS
 
 #### Status
 ACCEPTED

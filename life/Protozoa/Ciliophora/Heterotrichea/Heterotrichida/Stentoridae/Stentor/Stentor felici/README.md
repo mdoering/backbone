@@ -1,5 +1,4 @@
-Stentor felici Villeneuve-Brachon, 1940 SPECIES
-=======
+# Stentor felici Villeneuve-Brachon, 1940 SPECIES
 
 #### Status
 ACCEPTED

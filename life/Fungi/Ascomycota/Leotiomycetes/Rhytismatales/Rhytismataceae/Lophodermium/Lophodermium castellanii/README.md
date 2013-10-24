@@ -1,17 +1,16 @@
-Lophodermium castellani Graniti SPECIES
-=======
+# Lophodermium castellanii Graniti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 59: 40 (1952)
 
 #### Original name
-Lophodermium castellani Graniti
+Lophodermium castellanii Graniti
 
 ### Remarks
 null

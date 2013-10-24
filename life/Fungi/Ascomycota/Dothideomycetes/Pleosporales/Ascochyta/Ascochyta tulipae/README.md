@@ -1,5 +1,4 @@
-Ascochyta tulipae Byzova SPECIES
-=======
+# Ascochyta tulipae Byzova SPECIES
 
 #### Status
 ACCEPTED

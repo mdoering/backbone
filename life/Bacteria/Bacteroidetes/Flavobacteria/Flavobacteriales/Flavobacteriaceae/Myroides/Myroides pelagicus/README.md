@@ -1,5 +1,4 @@
-Myroides pelagicus Yoon et al., 2006 SPECIES
-=======
+# Myroides pelagicus Yoon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

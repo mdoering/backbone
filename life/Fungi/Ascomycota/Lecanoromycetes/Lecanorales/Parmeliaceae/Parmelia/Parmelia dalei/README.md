@@ -1,5 +1,4 @@
-Parmelia dalei C.W. Dodge SPECIES
-=======
+# Parmelia dalei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

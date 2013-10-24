@@ -1,5 +1,4 @@
-Glomus ambisporum G.S. Sm. & N.C. Schenck, 1985 SPECIES
-=======
+# Glomus ambisporum G.S. Sm. & N.C. Schenck, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sigmoidea littoralis R.E. Phillips SPECIES
-=======
+# Sigmoidea littoralis R.E. Phillips SPECIES
 
 #### Status
 ACCEPTED

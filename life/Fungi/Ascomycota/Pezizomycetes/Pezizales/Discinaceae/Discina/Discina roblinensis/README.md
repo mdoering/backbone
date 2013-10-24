@@ -1,5 +1,4 @@
-Discina roblinensis Wichanský SPECIES
-=======
+# Discina roblinensis Wichanský SPECIES
 
 #### Status
 ACCEPTED

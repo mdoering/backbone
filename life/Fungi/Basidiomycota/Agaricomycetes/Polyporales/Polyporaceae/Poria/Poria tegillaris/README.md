@@ -1,5 +1,4 @@
-Poria tegillaris Berk. ex Cooke SPECIES
-=======
+# Poria tegillaris Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

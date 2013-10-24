@@ -1,5 +1,4 @@
-Septoria schelliana Thüm. SPECIES
-=======
+# Septoria schelliana Thüm. SPECIES
 
 #### Status
 ACCEPTED

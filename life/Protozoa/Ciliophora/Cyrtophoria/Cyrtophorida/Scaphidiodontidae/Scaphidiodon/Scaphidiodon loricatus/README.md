@@ -1,5 +1,4 @@
-Scaphidiodon loricatus SPECIES
-=======
+# Scaphidiodon loricatus SPECIES
 
 #### Status
 ACCEPTED

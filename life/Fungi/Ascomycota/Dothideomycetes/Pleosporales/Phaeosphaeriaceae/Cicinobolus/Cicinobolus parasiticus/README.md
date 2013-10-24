@@ -1,14 +1,13 @@
-Cicinnobolus parasiticus (Cocc.) Sacc. SPECIES
-=======
+# Cicinobolus parasiticus (Cocc.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 10: 220 (1892)
 
 #### Original name
 Phyllosticta parasitica Cocc.

@@ -1,5 +1,4 @@
-Rimeliella larensis (López-Fig.) A. Fletcher SPECIES
-=======
+# Rimeliella larensis (López-Fig.) A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

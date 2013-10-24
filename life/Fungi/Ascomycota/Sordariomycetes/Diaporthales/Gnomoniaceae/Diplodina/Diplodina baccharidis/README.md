@@ -1,5 +1,4 @@
-Diplodina baccharidis D. Sacc. SPECIES
-=======
+# Diplodina baccharidis D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

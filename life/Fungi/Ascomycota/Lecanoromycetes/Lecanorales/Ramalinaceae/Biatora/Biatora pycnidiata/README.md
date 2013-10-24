@@ -1,5 +1,4 @@
-Biatora pycnidiata Printzen & Tønsberg SPECIES
-=======
+# Biatora pycnidiata Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

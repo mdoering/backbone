@@ -1,5 +1,4 @@
-Rutstroemia gracilipes P. Karst. SPECIES
-=======
+# Rutstroemia gracilipes P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeospora hageniae E. Castell. SPECIES
-=======
+# Phloeospora hageniae E. Castell. SPECIES
 
 #### Status
 ACCEPTED

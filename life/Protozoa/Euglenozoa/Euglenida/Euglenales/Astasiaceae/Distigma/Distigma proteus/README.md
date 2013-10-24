@@ -1,5 +1,4 @@
-Distigma proteus f. minus B. Tracanna FORM
-=======
+# Distigma proteus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

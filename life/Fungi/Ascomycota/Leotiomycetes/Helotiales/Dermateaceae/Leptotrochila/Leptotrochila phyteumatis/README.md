@@ -1,5 +1,4 @@
-Leptotrochila phyteumatis (Fuckel) Schüepp SPECIES
-=======
+# Leptotrochila phyteumatis (Fuckel) Schüepp SPECIES
 
 #### Status
 ACCEPTED

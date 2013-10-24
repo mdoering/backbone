@@ -1,5 +1,4 @@
-Lepocinclis acuminata Deflandre SPECIES
-=======
+# Lepocinclis acuminata Deflandre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta helleboricola C. Massal. SPECIES
-=======
+# Phyllosticta helleboricola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

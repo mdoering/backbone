@@ -1,5 +1,4 @@
-Physcia bayeri Nádv. SPECIES
-=======
+# Physcia bayeri Nádv. SPECIES
 
 #### Status
 ACCEPTED

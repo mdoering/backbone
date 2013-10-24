@@ -1,5 +1,4 @@
-Leptogium microcarpum Malme SPECIES
-=======
+# Leptogium microcarpum Malme SPECIES
 
 #### Status
 ACCEPTED

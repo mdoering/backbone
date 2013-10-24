@@ -1,5 +1,4 @@
-Ceratellopsis caespitulosa (Sacc.) Corner SPECIES
-=======
+# Ceratellopsis caespitulosa (Sacc.) Corner SPECIES
 
 #### Status
 ACCEPTED

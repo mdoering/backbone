@@ -1,5 +1,4 @@
-Lecanora sabinae Hern.-Padr. & Vänskä SPECIES
-=======
+# Lecanora sabinae Hern.-Padr. & Vänskä SPECIES
 
 #### Status
 ACCEPTED

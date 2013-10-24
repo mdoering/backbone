@@ -1,5 +1,4 @@
-Hexancora Haeckel, 1887 GENUS
-=======
+# Hexancora Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

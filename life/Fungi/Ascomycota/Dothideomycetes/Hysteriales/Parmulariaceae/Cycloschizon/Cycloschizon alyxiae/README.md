@@ -1,17 +1,16 @@
-Maurodothis alyxiae Sacc., Syd. & P. Syd., 1904 SPECIES
-=======
+# Cycloschizon alyxiae (Massee) Arn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Les Astérinées 1: 112 (1918)
 
 #### Original name
-null
+Dothidea alyxiae Massee, 1896
 
 ### Remarks
 null

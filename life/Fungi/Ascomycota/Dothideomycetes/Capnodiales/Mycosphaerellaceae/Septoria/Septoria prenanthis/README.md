@@ -1,5 +1,4 @@
-Septoria prenanthis Ellis & Everh. SPECIES
-=======
+# Septoria prenanthis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

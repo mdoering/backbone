@@ -1,17 +1,16 @@
-Monacrosporium rutgeriensis R.C. Cooke & Pramer SPECIES
-=======
+# Monacrosporium rutgeriense R.C. Cooke & Pramer, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 58: 544 (1968)
 
 #### Original name
-Monacrosporium rutgeriensis R.C. Cooke & Pramer
+Monacrosporium rutgeriense R.C. Cooke & Pramer, 1968
 
 ### Remarks
 null

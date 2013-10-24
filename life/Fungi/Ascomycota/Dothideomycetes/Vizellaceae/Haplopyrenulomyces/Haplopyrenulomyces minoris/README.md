@@ -1,5 +1,4 @@
-Haplopyrenulomyces minoris Cif. & Tomas. SPECIES
-=======
+# Haplopyrenulomyces minoris Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia abstrusa f. abstrusa FORM
-=======
+# Relicina abstrusa (Vain.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 7(1): 64 (1890)
+Phytologia 28: 484 (1974)
 
 #### Original name
-Parmelia abstrusa f. abstrusa
+Parmelia abstrusa Vain.
 
 ### Remarks
 null

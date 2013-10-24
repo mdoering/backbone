@@ -1,5 +1,4 @@
-Epistigme nidulans Syd., 1924 SPECIES
-=======
+# Epistigme nidulans Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

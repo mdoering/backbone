@@ -1,5 +1,4 @@
-Alectoria zopfii Asahina SPECIES
-=======
+# Alectoria zopfii Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterochaete lividofusca var. lividofusca VARIETY
-=======
+# Heterochaete lividofusca Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 9: 140 (1893)
 
 #### Original name
-Heterochaete lividofusca var. lividofusca
+Heterochaete lividofusca Pat.
 
 ### Remarks
 null

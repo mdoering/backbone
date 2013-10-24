@@ -1,5 +1,4 @@
-Cytospora rhoicola Oudem. SPECIES
-=======
+# Cytospora rhoicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

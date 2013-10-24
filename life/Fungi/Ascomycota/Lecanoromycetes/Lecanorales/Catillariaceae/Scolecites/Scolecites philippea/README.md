@@ -1,5 +1,4 @@
-Scolecites philippea (Mont.) SPECIES
-=======
+# Scolecites philippea (Mont.) SPECIES
 
 #### Status
 ACCEPTED

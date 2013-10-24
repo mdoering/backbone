@@ -1,5 +1,4 @@
-Acanthomarginata ungulata N. Umnova in N. Umnova & Fanderflit, 1971 SPECIES
-=======
+# Acanthomarginata ungulata N. Umnova in N. Umnova & Fanderflit, 1971 SPECIES
 
 #### Status
 ACCEPTED

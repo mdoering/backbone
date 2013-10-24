@@ -1,5 +1,4 @@
-Greletia GENUS
-=======
+# Greletia GENUS
 
 #### Status
 ACCEPTED

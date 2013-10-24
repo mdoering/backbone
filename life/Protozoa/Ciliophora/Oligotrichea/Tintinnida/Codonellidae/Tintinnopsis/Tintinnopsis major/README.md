@@ -1,5 +1,4 @@
-Tintinnopsis major Meunier, 1910 SPECIES
-=======
+# Tintinnopsis major Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

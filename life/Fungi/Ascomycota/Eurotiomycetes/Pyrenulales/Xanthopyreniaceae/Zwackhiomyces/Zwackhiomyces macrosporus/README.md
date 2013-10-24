@@ -1,5 +1,4 @@
-Zwackhiomyces macrosporus Alstrup & Olech SPECIES
-=======
+# Zwackhiomyces macrosporus Alstrup & Olech SPECIES
 
 #### Status
 ACCEPTED

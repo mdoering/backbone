@@ -1,5 +1,4 @@
-Uredo trichopterygis-dregeanae Gjaerum SPECIES
-=======
+# Uredo trichopterygis-dregeanae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

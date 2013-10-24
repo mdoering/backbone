@@ -1,5 +1,4 @@
-Lecidea corallinoides (Hoffm.) Flörke SPECIES
-=======
+# Lecidea corallinoides (Hoffm.) Flörke SPECIES
 
 #### Status
 ACCEPTED

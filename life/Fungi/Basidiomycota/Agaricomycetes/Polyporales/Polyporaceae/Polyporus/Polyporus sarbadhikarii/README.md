@@ -1,5 +1,4 @@
-Polyporus sarbadhikarii (Bose) B.K. Bakshi SPECIES
-=======
+# Polyporus sarbadhikarii (Bose) B.K. Bakshi SPECIES
 
 #### Status
 ACCEPTED

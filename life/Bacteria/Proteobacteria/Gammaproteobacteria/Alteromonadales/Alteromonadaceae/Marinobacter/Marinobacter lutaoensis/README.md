@@ -1,5 +1,4 @@
-Marinobacter lutaoensis Shieh et al., 2003 SPECIES
-=======
+# Marinobacter lutaoensis Shieh et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

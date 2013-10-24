@@ -1,5 +1,4 @@
-Cortinellus totilividus Murrill SPECIES
-=======
+# Cortinellus totilividus Murrill SPECIES
 
 #### Status
 ACCEPTED

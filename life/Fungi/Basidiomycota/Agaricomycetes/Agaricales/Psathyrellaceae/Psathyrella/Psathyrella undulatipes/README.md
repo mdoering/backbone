@@ -1,5 +1,4 @@
-Psathyrella undulatipes A.H. Sm. SPECIES
-=======
+# Psathyrella undulatipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria lamyana Servít SPECIES
-=======
+# Verrucaria lamyana Servít SPECIES
 
 #### Status
 ACCEPTED

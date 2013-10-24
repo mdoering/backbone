@@ -1,5 +1,4 @@
-Pirottaea falcata P.R. Johnst. SPECIES
-=======
+# Pirottaea falcata P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

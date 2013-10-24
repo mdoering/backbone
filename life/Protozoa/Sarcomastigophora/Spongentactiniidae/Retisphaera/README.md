@@ -1,5 +1,4 @@
-Retisphaera Won, 1997 GENUS
-=======
+# Retisphaera Won, 1997 GENUS
 
 #### Status
 ACCEPTED

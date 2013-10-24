@@ -1,17 +1,16 @@
-Lenzitella Ryvarden GENUS
-=======
+# Lenzitopsis Malençon & Bertault GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Fung. (Oslo) 5: 174 (1991)
+Bull. trimest. Soc. mycol. Fr. 79: 82 (1963)
 
 #### Original name
-Lenzitella Ryvarden
+Lenzitopsis Malençon & Bertault
 
 ### Remarks
 null

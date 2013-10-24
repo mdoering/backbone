@@ -1,5 +1,4 @@
-Willia Groenewege, 1920 GENUS
-=======
+# Willia Groenewege, 1920 GENUS
 
 #### Status
 ACCEPTED

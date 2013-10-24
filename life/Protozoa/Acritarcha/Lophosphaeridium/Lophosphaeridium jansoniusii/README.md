@@ -1,5 +1,4 @@
-Lophosphaeridium jansoniusii Salujha, Rehman & Arora, 1971 SPECIES
-=======
+# Lophosphaeridium jansoniusii Salujha, Rehman & Arora, 1971 SPECIES
 
 #### Status
 ACCEPTED

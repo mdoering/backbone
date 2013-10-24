@@ -1,5 +1,4 @@
-Lactarius caerulescens Sacc. SPECIES
-=======
+# Lactarius caerulescens Sacc. SPECIES
 
 #### Status
 ACCEPTED

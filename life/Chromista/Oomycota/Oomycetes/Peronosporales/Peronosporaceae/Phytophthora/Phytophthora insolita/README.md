@@ -1,5 +1,4 @@
-Phytophthora insolita Ann & W.H. Ko, 1981 SPECIES
-=======
+# Phytophthora insolita Ann & W.H. Ko, 1981 SPECIES
 
 #### Status
 ACCEPTED

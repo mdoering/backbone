@@ -1,5 +1,4 @@
-Monochaetia breviaristata (Tracy & Earle) Sacc. SPECIES
-=======
+# Monochaetia breviaristata (Tracy & Earle) Sacc. SPECIES
 
 #### Status
 ACCEPTED

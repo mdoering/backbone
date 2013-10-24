@@ -1,5 +1,4 @@
-Hypocopra serignanenis Fabre SPECIES
-=======
+# Hypocopra serignanenis Fabre SPECIES
 
 #### Status
 ACCEPTED

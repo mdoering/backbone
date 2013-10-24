@@ -1,5 +1,4 @@
-Puccinia striatula Peck SPECIES
-=======
+# Puccinia striatula Peck SPECIES
 
 #### Status
 ACCEPTED

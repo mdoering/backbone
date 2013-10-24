@@ -1,5 +1,4 @@
-Polyporus subspadiceus Fr. SPECIES
-=======
+# Polyporus subspadiceus Fr. SPECIES
 
 #### Status
 ACCEPTED

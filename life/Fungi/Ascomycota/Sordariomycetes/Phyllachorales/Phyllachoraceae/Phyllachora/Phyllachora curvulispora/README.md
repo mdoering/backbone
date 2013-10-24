@@ -1,14 +1,13 @@
-Catacauma urbanianum f. curvulispora (Henn.) Theiss. & Syd., 1915 FORM
-=======
+# Phyllachora curvulispora Henn., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 394 (1915)
+Hedwigia 48: 7 (1908)
 
 #### Original name
 Phyllachora curvulispora Henn., 1908

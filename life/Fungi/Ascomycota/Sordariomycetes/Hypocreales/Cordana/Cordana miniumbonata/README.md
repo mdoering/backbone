@@ -1,5 +1,4 @@
-Cordana miniumbonata R.F. Castañeda, Iturr. & Guarro SPECIES
-=======
+# Cordana miniumbonata R.F. Castañeda, Iturr. & Guarro SPECIES
 
 #### Status
 ACCEPTED

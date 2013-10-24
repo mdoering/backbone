@@ -1,5 +1,4 @@
-Psorothecium obtenebrans (Nyl.) Forssell SPECIES
-=======
+# Psorothecium obtenebrans (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

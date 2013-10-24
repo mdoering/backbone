@@ -1,5 +1,4 @@
-Amanita velosa (Peck) Lloyd SPECIES
-=======
+# Amanita velosa (Peck) Lloyd SPECIES
 
 #### Status
 ACCEPTED

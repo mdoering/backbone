@@ -1,17 +1,16 @@
-Scopulariopsis fimicola (Costantin & Matr.) Vuill., 1911 SPECIES
-=======
+# Scopulariopsis coprophila (Cooke & Massee) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 27: 143 (1911)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 207 (1971)
 
 #### Original name
-null
+Monosporium coprophilum Cooke & Massee, 1887
 
 ### Remarks
 null

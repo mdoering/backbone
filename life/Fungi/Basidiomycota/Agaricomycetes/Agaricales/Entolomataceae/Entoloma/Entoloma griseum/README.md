@@ -1,5 +1,4 @@
-Entoloma griseum Peck SPECIES
-=======
+# Entoloma griseum Peck SPECIES
 
 #### Status
 ACCEPTED

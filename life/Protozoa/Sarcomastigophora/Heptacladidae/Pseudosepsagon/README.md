@@ -1,5 +1,4 @@
-Pseudosepsagon Kozur & Mostler, 1994 GENUS
-=======
+# Pseudosepsagon Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discina urnula Velen. SPECIES
-=======
+# Discina urnula Velen. SPECIES
 
 #### Status
 ACCEPTED

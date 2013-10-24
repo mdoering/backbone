@@ -1,5 +1,4 @@
-Peziza soleniiformis Berk. & M.A. Curtis SPECIES
-=======
+# Peziza soleniiformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

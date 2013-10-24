@@ -1,5 +1,4 @@
-Lecidea anterior Nyl. SPECIES
-=======
+# Lecidea anterior Nyl. SPECIES
 
 #### Status
 ACCEPTED

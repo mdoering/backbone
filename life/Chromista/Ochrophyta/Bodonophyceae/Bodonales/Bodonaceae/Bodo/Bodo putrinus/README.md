@@ -1,5 +1,4 @@
-Bodo putrinus Stokes SPECIES
-=======
+# Bodo putrinus Stokes SPECIES
 
 #### Status
 ACCEPTED

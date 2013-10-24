@@ -1,5 +1,4 @@
-Placosphaeria balanseana Sacc. & Roum. SPECIES
-=======
+# Placosphaeria balanseana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

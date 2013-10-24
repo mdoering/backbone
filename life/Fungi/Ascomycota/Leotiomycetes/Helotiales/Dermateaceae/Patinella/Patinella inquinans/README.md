@@ -1,5 +1,4 @@
-Patinella inquinans (Cooke) Sacc. SPECIES
-=======
+# Patinella inquinans (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

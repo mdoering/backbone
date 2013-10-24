@@ -1,5 +1,4 @@
-Ascobolus brunneus Cooke, 1867 SPECIES
-=======
+# Ascobolus brunneus Cooke, 1867 SPECIES
 
 #### Status
 ACCEPTED

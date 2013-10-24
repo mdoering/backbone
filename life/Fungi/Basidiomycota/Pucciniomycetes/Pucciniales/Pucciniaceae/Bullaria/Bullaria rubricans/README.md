@@ -1,5 +1,4 @@
-Bullaria rubricans (Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria rubricans (Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

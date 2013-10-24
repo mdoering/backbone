@@ -1,5 +1,4 @@
-Modicella reniformis (Bres.) Gerd. & Trappe, 1974 SPECIES
-=======
+# Modicella reniformis (Bres.) Gerd. & Trappe, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus sublaccatus Berk. & Broome SPECIES
-=======
+# Agaricus sublaccatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

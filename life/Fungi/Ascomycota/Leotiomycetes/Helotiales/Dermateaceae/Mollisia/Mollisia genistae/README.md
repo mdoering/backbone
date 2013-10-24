@@ -1,5 +1,4 @@
-Mollisia genistae Velen. SPECIES
-=======
+# Mollisia genistae Velen. SPECIES
 
 #### Status
 ACCEPTED

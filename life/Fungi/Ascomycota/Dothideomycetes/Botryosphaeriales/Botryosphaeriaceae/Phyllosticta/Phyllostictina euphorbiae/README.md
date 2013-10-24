@@ -1,5 +1,4 @@
-Phyllostictina euphorbiae Petr. SPECIES
-=======
+# Phyllostictina euphorbiae Petr. SPECIES
 
 #### Status
 ACCEPTED

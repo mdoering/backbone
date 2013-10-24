@@ -1,5 +1,4 @@
-Chlorociboria spathulata P.R. Johnst., 2005 SPECIES
-=======
+# Chlorociboria spathulata P.R. Johnst., 2005 SPECIES
 
 #### Status
 ACCEPTED

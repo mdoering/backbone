@@ -1,5 +1,4 @@
-Sporidesmium sphaeriaeforme Cooke SPECIES
-=======
+# Sporidesmium sphaeriaeforme Cooke SPECIES
 
 #### Status
 ACCEPTED

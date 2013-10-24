@@ -1,14 +1,13 @@
-Corticium cordylines G. Cunn., 1954 SPECIES
-=======
+# Phanerochaete cordylines (G. Cunn.) Burds., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 82: 323 (1954)
+Mycol. Mem. 10: 63 (1985)
 
 #### Original name
 Corticium cordylines G. Cunn., 1954

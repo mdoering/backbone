@@ -1,5 +1,4 @@
-Polyporus adami Berk. ex Cooke SPECIES
-=======
+# Polyporus adami Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea semiamplexa Berk. SPECIES
-=======
+# Hypocrea semiamplexa Berk. SPECIES
 
 #### Status
 ACCEPTED

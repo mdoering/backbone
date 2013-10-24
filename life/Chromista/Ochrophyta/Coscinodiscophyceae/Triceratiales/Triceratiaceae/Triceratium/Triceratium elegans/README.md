@@ -1,5 +1,4 @@
-Triceratium elegans (Grev.) Grunow, 1883 SPECIES
-=======
+# Triceratium elegans (Grev.) Grunow, 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diaporthe conradi Ellis SPECIES
-=======
+# Diaporthe conradii Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Am. Nat. 17: 316 (1883)
 
 #### Original name
-Diaporthe conradi Ellis
+Diaporthe conradii Ellis
 
 ### Remarks
 null

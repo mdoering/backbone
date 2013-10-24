@@ -1,17 +1,16 @@
-Trichosporum sphaericum Sacc. SPECIES
-=======
+# Khuskia oryzae H.J. Huds., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 579 (1882)
+Trans. Br. mycol. Soc. 46: 358 (1963)
 
 #### Original name
-Trichosporum sphaericum Sacc.
+Khuskia oryzae H.J. Huds., 1963
 
 ### Remarks
 null

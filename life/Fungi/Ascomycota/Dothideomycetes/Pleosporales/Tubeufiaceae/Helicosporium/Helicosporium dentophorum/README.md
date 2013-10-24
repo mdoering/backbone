@@ -1,5 +1,4 @@
-Helicosporium dentophorum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
-=======
+# Helicosporium dentophorum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

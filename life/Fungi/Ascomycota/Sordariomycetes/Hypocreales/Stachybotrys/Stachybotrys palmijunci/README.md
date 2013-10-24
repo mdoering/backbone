@@ -1,5 +1,4 @@
-Stachybotrys palmijunci Rifai SPECIES
-=======
+# Stachybotrys palmijunci Rifai SPECIES
 
 #### Status
 ACCEPTED

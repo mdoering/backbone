@@ -1,17 +1,16 @@
-Laccaria masoniae var. masoniae VARIETY
-=======
+# Laccaria masoniae G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Kew Bull. 4 (1964)
 
 #### Original name
-Laccaria masoniae var. masoniae
+Laccaria masoniae G. Stev., 1964
 
 ### Remarks
 null

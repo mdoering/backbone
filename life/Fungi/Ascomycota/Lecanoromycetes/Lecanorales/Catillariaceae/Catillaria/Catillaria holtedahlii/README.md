@@ -1,5 +1,4 @@
-Catillaria holtedahlii Lynge SPECIES
-=======
+# Catillaria holtedahlii Lynge SPECIES
 
 #### Status
 ACCEPTED

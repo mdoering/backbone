@@ -1,5 +1,4 @@
-Phaeosphaeria clavispora (Cooke & Peck) M.E. Barr SPECIES
-=======
+# Phaeosphaeria clavispora (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

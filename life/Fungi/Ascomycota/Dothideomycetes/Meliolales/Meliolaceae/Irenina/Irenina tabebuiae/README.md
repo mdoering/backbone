@@ -1,5 +1,4 @@
-Irenina tabebuiae Bat. & J. Silva SPECIES
-=======
+# Irenina tabebuiae Bat. & J. Silva SPECIES
 
 #### Status
 ACCEPTED

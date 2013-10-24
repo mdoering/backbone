@@ -1,5 +1,4 @@
-Russula humboldtii Singer SPECIES
-=======
+# Russula humboldtii Singer SPECIES
 
 #### Status
 ACCEPTED

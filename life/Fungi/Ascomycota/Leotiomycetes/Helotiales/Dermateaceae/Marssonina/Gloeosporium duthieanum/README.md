@@ -1,5 +1,4 @@
-Gloeosporium duthieanum Sacc. SPECIES
-=======
+# Gloeosporium duthieanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

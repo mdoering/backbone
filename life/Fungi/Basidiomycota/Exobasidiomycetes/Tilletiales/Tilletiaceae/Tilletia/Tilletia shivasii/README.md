@@ -1,5 +1,4 @@
-Tilletia shivasii Vánky SPECIES
-=======
+# Tilletia shivasii Vánky SPECIES
 
 #### Status
 ACCEPTED

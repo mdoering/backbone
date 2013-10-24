@@ -1,5 +1,4 @@
-Bacillus humi Heyrman et al., 2005 SPECIES
-=======
+# Bacillus humi Heyrman et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

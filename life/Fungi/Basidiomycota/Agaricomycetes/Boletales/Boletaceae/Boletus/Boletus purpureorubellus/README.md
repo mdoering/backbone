@@ -1,5 +1,4 @@
-Boletus purpureorubellus T.J. Baroni, Yetter & Norar. SPECIES
-=======
+# Boletus purpureorubellus T.J. Baroni, Yetter & Norar. SPECIES
 
 #### Status
 ACCEPTED

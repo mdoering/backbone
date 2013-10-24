@@ -1,5 +1,4 @@
-Collemopsis GENUS
-=======
+# Collemopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterella hakeae McAlpine SPECIES
-=======
+# Asterella hakeae McAlpine SPECIES
 
 #### Status
 ACCEPTED

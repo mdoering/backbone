@@ -1,5 +1,4 @@
-Nectria jucundula (Sacc. & Speg.) Rossman, Samuels & Lowen SPECIES
-=======
+# Nectria jucundula (Sacc. & Speg.) Rossman, Samuels & Lowen SPECIES
 
 #### Status
 ACCEPTED

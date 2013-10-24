@@ -1,5 +1,4 @@
-Dimerella humilis (J. Lahm) Grummann SPECIES
-=======
+# Dimerella humilis (J. Lahm) Grummann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius obscuroarmeniacus M.M. Moser SPECIES
-=======
+# Cortinarius obscuroarmeniacus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

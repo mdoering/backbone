@@ -1,5 +1,4 @@
-Uromyces amurensis Kom. SPECIES
-=======
+# Uromyces amurensis Kom. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodiplodia virescens (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia virescens (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

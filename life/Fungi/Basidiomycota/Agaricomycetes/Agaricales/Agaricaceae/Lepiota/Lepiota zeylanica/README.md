@@ -1,5 +1,4 @@
-Lepiota zeylanica Berk. SPECIES
-=======
+# Lepiota zeylanica Berk. SPECIES
 
 #### Status
 ACCEPTED

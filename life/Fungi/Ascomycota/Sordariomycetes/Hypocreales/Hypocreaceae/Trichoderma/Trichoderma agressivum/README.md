@@ -1,17 +1,16 @@
-Trichoderma agressivum f. agressivum FORM
-=======
+# Trichoderma agressivum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Trichoderma agressivum f. agressivum
+null
 
 ### Remarks
 null

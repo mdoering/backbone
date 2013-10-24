@@ -1,5 +1,4 @@
-Trametes obscurotexta Lloyd SPECIES
-=======
+# Trametes obscurotexta Lloyd SPECIES
 
 #### Status
 ACCEPTED

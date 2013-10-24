@@ -1,5 +1,4 @@
-Discoaster surculus SPECIES
-=======
+# Discoaster surculus SPECIES
 
 #### Status
 ACCEPTED

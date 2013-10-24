@@ -1,5 +1,4 @@
-Tilletia sleumeri (Petr.) Vánky SPECIES
-=======
+# Tilletia sleumeri (Petr.) Vánky SPECIES
 
 #### Status
 ACCEPTED

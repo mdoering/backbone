@@ -1,5 +1,4 @@
-Uredo antidesmae-dioicae Racib. SPECIES
-=======
+# Uredo antidesmae-dioicae Racib. SPECIES
 
 #### Status
 ACCEPTED

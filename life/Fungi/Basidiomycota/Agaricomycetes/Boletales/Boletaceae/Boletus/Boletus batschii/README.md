@@ -1,5 +1,4 @@
-Boletus batschii J.F. Gmel. SPECIES
-=======
+# Boletus batschii J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

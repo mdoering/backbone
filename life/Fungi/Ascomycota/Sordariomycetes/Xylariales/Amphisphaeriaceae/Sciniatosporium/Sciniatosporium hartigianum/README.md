@@ -1,5 +1,4 @@
-Sciniatosporium hartigianum (Sacc.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium hartigianum (Sacc.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

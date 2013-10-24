@@ -1,5 +1,4 @@
-Didymella quercus Oudem., 1903 SPECIES
-=======
+# Didymella quercus Oudem., 1903 SPECIES
 
 #### Status
 ACCEPTED

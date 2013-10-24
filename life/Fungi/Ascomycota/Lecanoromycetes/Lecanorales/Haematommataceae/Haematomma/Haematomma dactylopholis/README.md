@@ -1,5 +1,4 @@
-Haematomma dactylopholis Zahlbr. SPECIES
-=======
+# Haematomma dactylopholis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

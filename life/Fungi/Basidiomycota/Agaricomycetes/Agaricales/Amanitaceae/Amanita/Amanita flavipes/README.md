@@ -1,5 +1,4 @@
-Amanita flavipes S. Imai SPECIES
-=======
+# Amanita flavipes S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothecium sophorae Pass. SPECIES
-=======
+# Coniothecium sophorae Pass. SPECIES
 
 #### Status
 ACCEPTED

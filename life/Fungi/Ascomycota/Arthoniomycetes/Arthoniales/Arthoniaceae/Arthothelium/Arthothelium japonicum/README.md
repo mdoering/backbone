@@ -1,5 +1,4 @@
-Arthothelium japonicum (Vain. & Yasuda) H. Harada SPECIES
-=======
+# Arthothelium japonicum (Vain. & Yasuda) H. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium negundinis Ellis & Everh. SPECIES
-=======
+# Cylindrosporium negundinis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

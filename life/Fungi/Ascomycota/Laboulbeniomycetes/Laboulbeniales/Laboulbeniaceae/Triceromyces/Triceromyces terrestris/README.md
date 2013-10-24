@@ -1,5 +1,4 @@
-Triceromyces terrestris R.K. Benj. SPECIES
-=======
+# Triceromyces terrestris R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

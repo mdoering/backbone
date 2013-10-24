@@ -1,5 +1,4 @@
-Dacrymyces cenangioides Ellis & Everh. SPECIES
-=======
+# Dacrymyces cenangioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

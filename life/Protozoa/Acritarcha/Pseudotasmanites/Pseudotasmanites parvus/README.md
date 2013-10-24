@@ -1,5 +1,4 @@
-Pseudotasmanites parvus Kiryanov, 1974 SPECIES
-=======
+# Pseudotasmanites parvus Kiryanov, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Margominuscula rugosa Naumova, 1961 SPECIES
-=======
+# Margominuscula rugosa Naumova, 1961 SPECIES
 
 #### Status
 ACCEPTED

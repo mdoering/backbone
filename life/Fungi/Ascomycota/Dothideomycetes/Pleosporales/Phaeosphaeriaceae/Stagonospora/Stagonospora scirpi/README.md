@@ -1,5 +1,4 @@
-Stagonospora scirpi Tehon SPECIES
-=======
+# Stagonospora scirpi Tehon SPECIES
 
 #### Status
 ACCEPTED

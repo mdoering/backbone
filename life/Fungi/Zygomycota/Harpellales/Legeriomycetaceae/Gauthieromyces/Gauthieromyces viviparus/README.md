@@ -1,5 +1,4 @@
-Gauthieromyces viviparus L.G. Valle, M.M. White & Cafaro, 2008 SPECIES
-=======
+# Gauthieromyces viviparus L.G. Valle, M.M. White & Cafaro, 2008 SPECIES
 
 #### Status
 ACCEPTED

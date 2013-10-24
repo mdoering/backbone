@@ -1,5 +1,4 @@
-Calicium albonigrum Nyl. SPECIES
-=======
+# Calicium albonigrum Nyl. SPECIES
 
 #### Status
 ACCEPTED

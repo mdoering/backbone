@@ -1,5 +1,4 @@
-Ascotricha pulverulenta Bonord. SPECIES
-=======
+# Ascotricha pulverulenta Bonord. SPECIES
 
 #### Status
 ACCEPTED

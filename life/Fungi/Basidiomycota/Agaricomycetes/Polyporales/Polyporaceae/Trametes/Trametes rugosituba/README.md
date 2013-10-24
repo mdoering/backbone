@@ -1,5 +1,4 @@
-Trametes rugosituba Corner SPECIES
-=======
+# Trametes rugosituba Corner SPECIES
 
 #### Status
 ACCEPTED

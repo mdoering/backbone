@@ -1,5 +1,4 @@
-Arthonia tehleri Sundin SPECIES
-=======
+# Arthonia tehleri Sundin SPECIES
 
 #### Status
 ACCEPTED

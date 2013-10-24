@@ -1,5 +1,4 @@
-Pleospora planispora Ellis SPECIES
-=======
+# Pleospora planispora Ellis SPECIES
 
 #### Status
 ACCEPTED

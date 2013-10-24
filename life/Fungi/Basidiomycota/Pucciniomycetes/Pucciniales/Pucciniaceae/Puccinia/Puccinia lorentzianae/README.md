@@ -1,5 +1,4 @@
-Puccinia lorentzianae J.C. Lindq. SPECIES
-=======
+# Puccinia lorentzianae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

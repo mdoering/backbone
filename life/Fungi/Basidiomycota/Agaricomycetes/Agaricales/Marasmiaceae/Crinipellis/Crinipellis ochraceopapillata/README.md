@@ -1,8 +1,7 @@
-Crinipellis ochraceopapillatus (Henn.) Dennis SPECIES
-=======
+# Crinipellis ochraceopapillata (Henn.) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Torula pulchra Tengwall SPECIES
-=======
+# Torula pulchra Tengwall SPECIES
 
 #### Status
 ACCEPTED

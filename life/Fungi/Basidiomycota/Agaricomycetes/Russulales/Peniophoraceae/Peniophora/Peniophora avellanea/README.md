@@ -1,5 +1,4 @@
-Peniophora avellanea (Bres.) Höhn. & Litsch. SPECIES
-=======
+# Peniophora avellanea (Bres.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caricis-erigerontis Arthur SPECIES
-=======
+# Puccinia caricis-erigerontis Arthur SPECIES
 
 #### Status
 ACCEPTED

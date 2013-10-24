@@ -1,5 +1,4 @@
-Stagonospora acaenae Henn. SPECIES
-=======
+# Stagonospora acaenae Henn. SPECIES
 
 #### Status
 ACCEPTED

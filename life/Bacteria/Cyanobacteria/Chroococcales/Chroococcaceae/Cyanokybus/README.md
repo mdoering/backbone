@@ -1,5 +1,4 @@
-Cyanokybus Schiller, 1956 GENUS
-=======
+# Cyanokybus Schiller, 1956 GENUS
 
 #### Status
 ACCEPTED

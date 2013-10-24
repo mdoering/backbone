@@ -1,5 +1,4 @@
-Caneosphaera halldalii (Gaarder, 1971) Gaarder, 1977 SPECIES
-=======
+# Caneosphaera halldalii (Gaarder, 1971) Gaarder, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comatricha anomala Rammeloo, 1976 SPECIES
-=======
+# Comatricha anomala Rammeloo, 1976 SPECIES
 
 #### Status
 ACCEPTED

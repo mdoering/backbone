@@ -1,5 +1,4 @@
-Phacodothis H. Sydow, 1928 GENUS
-=======
+# Phacodothis H. Sydow, 1928 GENUS
 
 #### Status
 ACCEPTED

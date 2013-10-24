@@ -1,5 +1,4 @@
-Volutella foliicola (Fuckel) Sacc. SPECIES
-=======
+# Volutella foliicola (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

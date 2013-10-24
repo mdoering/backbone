@@ -1,5 +1,4 @@
-Singulisphaera Kulichevskaya et al., 2008 GENUS
-=======
+# Singulisphaera Kulichevskaya et al., 2008 GENUS
 
 #### Status
 ACCEPTED

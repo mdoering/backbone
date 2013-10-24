@@ -1,5 +1,4 @@
-Lecanora luridescens Zahlbr. SPECIES
-=======
+# Lecanora luridescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

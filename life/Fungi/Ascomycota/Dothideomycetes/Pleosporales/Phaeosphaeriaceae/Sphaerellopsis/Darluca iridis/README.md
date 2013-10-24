@@ -1,5 +1,4 @@
-Darluca iridis Malbr. SPECIES
-=======
+# Darluca iridis Malbr. SPECIES
 
 #### Status
 ACCEPTED

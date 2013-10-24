@@ -1,5 +1,4 @@
-Dimeromyces prorei Thaxt. SPECIES
-=======
+# Dimeromyces prorei Thaxt. SPECIES
 
 #### Status
 ACCEPTED

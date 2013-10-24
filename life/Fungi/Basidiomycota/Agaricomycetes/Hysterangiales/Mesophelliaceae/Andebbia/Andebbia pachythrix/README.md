@@ -1,14 +1,13 @@
-Diploderma pachythrix Cooke & Massee, 1890 SPECIES
-=======
+# Andebbia pachythrix (Cooke & Massee) Trappe, Castellano & Amar., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 9(5): 808 (1996)
 
 #### Original name
 Diploderma pachythrix Cooke & Massee, 1890

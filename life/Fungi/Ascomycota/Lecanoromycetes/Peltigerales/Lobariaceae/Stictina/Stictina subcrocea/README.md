@@ -1,5 +1,4 @@
-Stictina subcrocea Stirt. SPECIES
-=======
+# Stictina subcrocea Stirt. SPECIES
 
 #### Status
 ACCEPTED

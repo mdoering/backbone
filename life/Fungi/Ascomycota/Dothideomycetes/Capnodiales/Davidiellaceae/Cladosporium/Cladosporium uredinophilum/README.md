@@ -1,5 +1,4 @@
-Cladosporium uredinophilum Speg. SPECIES
-=======
+# Cladosporium uredinophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

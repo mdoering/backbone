@@ -1,5 +1,4 @@
-Agaricus apalochrous Berk. & Broome SPECIES
-=======
+# Agaricus apalochrous Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostomataceae Sacc. FAMILY
-=======
+# Lophiostomataceae Sacc. FAMILY
 
 #### Status
 ACCEPTED

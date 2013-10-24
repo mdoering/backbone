@@ -1,5 +1,4 @@
-Apiosporella mongolica H. Magn. SPECIES
-=======
+# Apiosporella mongolica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

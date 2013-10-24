@@ -1,5 +1,4 @@
-Boletus alboater var. alboater VARIETY
-=======
+# Boletus alboater Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Schr. naturf. Ges. Leipzig 1: 95 (1822)
 
 #### Original name
-Boletus alboater var. alboater
+Boletus alboater Schwein.
 
 ### Remarks
 null

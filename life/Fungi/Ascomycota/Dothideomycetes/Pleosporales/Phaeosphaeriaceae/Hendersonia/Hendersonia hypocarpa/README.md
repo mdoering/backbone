@@ -1,5 +1,4 @@
-Hendersonia hypocarpa Fairm. SPECIES
-=======
+# Hendersonia hypocarpa Fairm. SPECIES
 
 #### Status
 ACCEPTED

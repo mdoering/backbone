@@ -1,5 +1,4 @@
-Lecidea murina Ach. SPECIES
-=======
+# Lecidea murina Ach. SPECIES
 
 #### Status
 ACCEPTED

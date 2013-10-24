@@ -1,5 +1,4 @@
-Pocillaria auricolor (F. Brig.) Kuntze SPECIES
-=======
+# Pocillaria auricolor (F. Brig.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

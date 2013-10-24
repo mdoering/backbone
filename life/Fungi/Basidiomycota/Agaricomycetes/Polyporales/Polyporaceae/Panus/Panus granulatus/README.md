@@ -1,5 +1,4 @@
-Panus granulatus Berk. & Mont. SPECIES
-=======
+# Panus granulatus Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

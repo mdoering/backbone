@@ -1,5 +1,4 @@
-Sporobolomyces patagonicus Libkind, van Broock & J.P. Samp. SPECIES
-=======
+# Sporobolomyces patagonicus Libkind, van Broock & J.P. Samp. SPECIES
 
 #### Status
 ACCEPTED

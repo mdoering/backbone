@@ -1,5 +1,4 @@
-Lepiota citri Steinhaus SPECIES
-=======
+# Lepiota citri Steinhaus SPECIES
 
 #### Status
 ACCEPTED

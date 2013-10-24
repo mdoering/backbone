@@ -1,5 +1,4 @@
-Leptosphaeria rnegalospora Auersw. & Niessl SPECIES
-=======
+# Leptosphaeria rnegalospora Auersw. & Niessl SPECIES
 
 #### Status
 ACCEPTED

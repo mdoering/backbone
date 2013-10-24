@@ -1,5 +1,4 @@
-Entoloma candidogranulosum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma candidogranulosum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

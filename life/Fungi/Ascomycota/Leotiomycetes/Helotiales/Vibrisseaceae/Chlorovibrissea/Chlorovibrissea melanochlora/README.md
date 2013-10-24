@@ -1,14 +1,13 @@
-Vibrissea melanochlora G.W. Beaton & Weste, 1976 SPECIES
-=======
+# Chlorovibrissea melanochlora (G.W. Beaton & Weste) L.M. Kohn, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 67(1): 129 (1976)
+Mem. N. Y. bot. Gdn 49: 114 (1989)
 
 #### Original name
 Vibrissea melanochlora G.W. Beaton & Weste, 1976

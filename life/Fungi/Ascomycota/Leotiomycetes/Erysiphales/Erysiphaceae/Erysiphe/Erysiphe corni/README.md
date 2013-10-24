@@ -1,5 +1,4 @@
-Erysiphe corni Duby SPECIES
-=======
+# Erysiphe corni Duby SPECIES
 
 #### Status
 ACCEPTED

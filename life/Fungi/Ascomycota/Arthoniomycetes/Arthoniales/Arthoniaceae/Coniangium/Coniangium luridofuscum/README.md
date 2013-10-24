@@ -1,5 +1,4 @@
-Coniangium luridofuscum (Arnold) Arnold SPECIES
-=======
+# Coniangium luridofuscum (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

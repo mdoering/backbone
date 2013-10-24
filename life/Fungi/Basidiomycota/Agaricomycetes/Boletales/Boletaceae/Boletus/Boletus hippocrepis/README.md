@@ -1,5 +1,4 @@
-Boletus hippocrepis Schrank SPECIES
-=======
+# Boletus hippocrepis Schrank SPECIES
 
 #### Status
 ACCEPTED

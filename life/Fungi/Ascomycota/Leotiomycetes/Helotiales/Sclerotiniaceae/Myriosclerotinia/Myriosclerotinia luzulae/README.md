@@ -1,5 +1,4 @@
-Myriosclerotinia luzulae T. Schumach. & L.M. Kohn SPECIES
-=======
+# Myriosclerotinia luzulae T. Schumach. & L.M. Kohn SPECIES
 
 #### Status
 ACCEPTED

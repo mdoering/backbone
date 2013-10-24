@@ -1,5 +1,4 @@
-Macrosporium asclepiadeum Cooke SPECIES
-=======
+# Macrosporium asclepiadeum Cooke SPECIES
 
 #### Status
 ACCEPTED

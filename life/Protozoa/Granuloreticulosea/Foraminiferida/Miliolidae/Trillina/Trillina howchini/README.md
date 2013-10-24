@@ -1,5 +1,4 @@
-Trillina howchini Schlumberger SPECIES
-=======
+# Trillina howchini Schlumberger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora cerebellina Poelt SPECIES
-=======
+# Lecanora cerebellina Poelt SPECIES
 
 #### Status
 ACCEPTED

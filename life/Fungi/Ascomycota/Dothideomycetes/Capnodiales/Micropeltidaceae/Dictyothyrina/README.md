@@ -1,5 +1,4 @@
-Dictyothyrina Theiss. GENUS
-=======
+# Dictyothyrina Theiss. GENUS
 
 #### Status
 ACCEPTED

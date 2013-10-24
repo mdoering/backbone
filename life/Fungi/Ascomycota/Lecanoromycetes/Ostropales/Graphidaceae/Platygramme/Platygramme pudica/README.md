@@ -1,17 +1,16 @@
-Graphis pudica Mont. & Bosch SPECIES
-=======
+# Platygramme pudica (Mont. & Bosch) M. Nakan. & Kashiw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Nakanishi, Kashiwadani & Moon, Bull. natn. Sci. Mus. , Tokyo, B 29(2): 89 (2003)
 
 #### Original name
-null
+Graphis pudica Mont. & Bosch
 
 ### Remarks
 null

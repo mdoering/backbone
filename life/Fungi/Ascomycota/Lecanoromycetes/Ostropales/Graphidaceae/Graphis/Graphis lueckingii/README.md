@@ -1,5 +1,4 @@
-Graphis lueckingii Dal-Forno & Eliasaro SPECIES
-=======
+# Graphis lueckingii Dal-Forno & Eliasaro SPECIES
 
 #### Status
 ACCEPTED

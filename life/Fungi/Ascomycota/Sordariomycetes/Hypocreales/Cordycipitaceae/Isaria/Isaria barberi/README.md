@@ -1,5 +1,4 @@
-Isaria barberi Giard SPECIES
-=======
+# Isaria barberi Giard SPECIES
 
 #### Status
 ACCEPTED

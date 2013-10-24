@@ -1,5 +1,4 @@
-Pestalozzina berberidis Gucevic SPECIES
-=======
+# Pestalozzina berberidis Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia tyrolensis (Servít) Servít SPECIES
-=======
+# Polyblastia tyrolensis (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola pomaderridis Hansf., 1946 SPECIES
-=======
+# Meliola pomaderridis Hansf., 1946 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ravenelia capituliformis (Henn.) Henn., 1904 SPECIES
-=======
+# Olivea capituliformis (Henn.) Arthur, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 160 (1904)
+Mycologia 9(2): 61 (1917)
 
 #### Original name
 Uredo capituliformis Henn., 1895

@@ -1,5 +1,4 @@
-Agaricus russoceps Berk. & Broome SPECIES
-=======
+# Agaricus russoceps Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia baileyi Müll. Arg. SPECIES
-=======
+# Ocellularia baileyi Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

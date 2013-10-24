@@ -1,5 +1,4 @@
-Diorygma megasporum Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma megasporum Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

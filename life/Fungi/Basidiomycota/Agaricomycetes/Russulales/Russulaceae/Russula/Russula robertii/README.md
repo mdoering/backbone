@@ -1,5 +1,4 @@
-Russula robertii J. Blum, 1954 SPECIES
-=======
+# Russula robertii J. Blum, 1954 SPECIES
 
 #### Status
 ACCEPTED

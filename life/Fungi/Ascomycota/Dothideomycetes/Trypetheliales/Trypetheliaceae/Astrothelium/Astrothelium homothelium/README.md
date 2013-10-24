@@ -1,5 +1,4 @@
-Astrothelium homothelium Nyl. SPECIES
-=======
+# Astrothelium homothelium Nyl. SPECIES
 
 #### Status
 ACCEPTED

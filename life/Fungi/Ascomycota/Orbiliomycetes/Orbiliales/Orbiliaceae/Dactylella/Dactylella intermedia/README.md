@@ -1,5 +1,4 @@
-Dactylella intermedia T.F. Li, Lei & Xing Z. Liu SPECIES
-=======
+# Dactylella intermedia T.F. Li, Lei & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

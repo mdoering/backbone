@@ -1,5 +1,4 @@
-Phyllosticta dictamni Fairm. SPECIES
-=======
+# Phyllosticta dictamni Fairm. SPECIES
 
 #### Status
 ACCEPTED

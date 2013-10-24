@@ -1,5 +1,4 @@
-Fellhanera substanhopeae Lücking SPECIES
-=======
+# Fellhanera substanhopeae Lücking SPECIES
 
 #### Status
 ACCEPTED

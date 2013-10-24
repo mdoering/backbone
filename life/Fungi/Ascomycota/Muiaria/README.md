@@ -1,5 +1,4 @@
-Muiaria Thaxt. GENUS
-=======
+# Muiaria Thaxt. GENUS
 
 #### Status
 ACCEPTED

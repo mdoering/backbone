@@ -1,5 +1,4 @@
-Microphyma medium Speg. SPECIES
-=======
+# Microphyma medium Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcographa pallens Fée SPECIES
-=======
+# Sarcographa pallens Fée SPECIES
 
 #### Status
 ACCEPTED

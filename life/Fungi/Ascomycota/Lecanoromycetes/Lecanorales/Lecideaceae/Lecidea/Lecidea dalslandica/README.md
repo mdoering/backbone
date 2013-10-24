@@ -1,5 +1,4 @@
-Lecidea dalslandica Hulting SPECIES
-=======
+# Lecidea dalslandica Hulting SPECIES
 
 #### Status
 ACCEPTED

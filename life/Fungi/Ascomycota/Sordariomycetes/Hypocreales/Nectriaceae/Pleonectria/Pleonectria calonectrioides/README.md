@@ -1,5 +1,4 @@
-Pleonectria calonectrioides Wollenw. SPECIES
-=======
+# Pleonectria calonectrioides Wollenw. SPECIES
 
 #### Status
 ACCEPTED

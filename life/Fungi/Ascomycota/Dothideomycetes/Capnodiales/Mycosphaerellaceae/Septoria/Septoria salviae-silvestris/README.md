@@ -1,5 +1,4 @@
-Septoria salviae-silvestris Hollós SPECIES
-=======
+# Septoria salviae-silvestris Hollós SPECIES
 
 #### Status
 ACCEPTED

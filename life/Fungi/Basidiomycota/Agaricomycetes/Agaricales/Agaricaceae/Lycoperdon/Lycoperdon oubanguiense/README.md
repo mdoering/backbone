@@ -1,5 +1,4 @@
-Lycoperdon oubanguiense Har. & Pat. SPECIES
-=======
+# Lycoperdon oubanguiense Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

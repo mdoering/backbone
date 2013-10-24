@@ -1,5 +1,4 @@
-Cryptosporina E.I. Hazard & Oldacre, 1975 GENUS
-=======
+# Cryptosporina E.I. Hazard & Oldacre, 1975 GENUS
 
 #### Status
 ACCEPTED

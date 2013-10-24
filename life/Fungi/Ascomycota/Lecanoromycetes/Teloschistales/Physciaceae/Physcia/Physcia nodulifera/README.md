@@ -1,5 +1,4 @@
-Physcia nodulifera Nyl. SPECIES
-=======
+# Physcia nodulifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyra schulzeri Quél. SPECIES
-=======
+# Psathyra schulzeri Quél. SPECIES
 
 #### Status
 ACCEPTED

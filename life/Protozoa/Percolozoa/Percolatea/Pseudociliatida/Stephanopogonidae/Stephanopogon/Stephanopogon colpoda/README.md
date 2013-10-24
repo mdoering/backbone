@@ -1,5 +1,4 @@
-Stephanopogon colpoda Entz SPECIES
-=======
+# Stephanopogon colpoda Entz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizula cesatii (Carestia) P. Karst. SPECIES
-=======
+# Pezizula cesatii (Carestia) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

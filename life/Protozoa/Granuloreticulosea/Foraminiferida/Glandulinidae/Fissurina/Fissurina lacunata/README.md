@@ -1,5 +1,4 @@
-Fissurina lacunata SPECIES
-=======
+# Fissurina lacunata SPECIES
 
 #### Status
 ACCEPTED

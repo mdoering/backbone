@@ -1,5 +1,4 @@
-Methanobrevibacter acididurans Savant et al., 2002 SPECIES
-=======
+# Methanobrevibacter acididurans Savant et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

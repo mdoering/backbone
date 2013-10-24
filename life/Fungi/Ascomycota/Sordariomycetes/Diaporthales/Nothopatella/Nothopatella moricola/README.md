@@ -1,5 +1,4 @@
-Nothopatella moricola I. Miyake SPECIES
-=======
+# Nothopatella moricola I. Miyake SPECIES
 
 #### Status
 ACCEPTED

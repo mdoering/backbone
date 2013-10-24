@@ -1,5 +1,4 @@
-Polyporus fockei Miq. SPECIES
-=======
+# Polyporus fockei Miq. SPECIES
 
 #### Status
 ACCEPTED

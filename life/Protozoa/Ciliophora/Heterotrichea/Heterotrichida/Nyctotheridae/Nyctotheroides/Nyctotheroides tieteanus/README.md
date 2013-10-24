@@ -1,5 +1,4 @@
-Nyctotheroides tieteanus (Carini, 1939) ? SPECIES
-=======
+# Nyctotheroides tieteanus (Carini, 1939) ? SPECIES
 
 #### Status
 ACCEPTED

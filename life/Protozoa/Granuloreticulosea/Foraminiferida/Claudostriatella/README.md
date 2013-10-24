@@ -1,5 +1,4 @@
-Claudostriatella GENUS
-=======
+# Claudostriatella GENUS
 
 #### Status
 ACCEPTED

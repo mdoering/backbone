@@ -1,14 +1,13 @@
-Venturiella argentinensis Speg., 1909 SPECIES
-=======
+# Neoventuria argentinensis (Speg.) Syd. & P. Syd., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Inst. Rech. Agron. 19(12): (1909)
+Annls mycol. 17(1): 44 (1919)
 
 #### Original name
 Venturiella argentinensis Speg., 1909

@@ -1,17 +1,16 @@
-Penicillium westlingii var. westlingii VARIETY
-=======
+# Penicillium westlingii K.M. Zalessky, 1927 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Int. Acad. Polon. Sci. , Sér. B. , Sci. Nat. 473 (1927)
 
 #### Original name
-Penicillium westlingii var. westlingii
+Penicillium westlingii K.M. Zalessky, 1927
 
 ### Remarks
 null

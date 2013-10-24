@@ -1,5 +1,4 @@
-Nosema oryzaephili SPECIES
-=======
+# Nosema oryzaephili SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaera phosphorea (Berk.) Dennis SPECIES
-=======
+# Xylosphaera phosphorea (Berk.) Dennis SPECIES
 
 #### Status
 ACCEPTED

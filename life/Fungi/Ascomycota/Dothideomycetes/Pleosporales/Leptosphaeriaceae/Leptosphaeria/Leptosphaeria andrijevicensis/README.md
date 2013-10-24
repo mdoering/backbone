@@ -1,5 +1,4 @@
-Leptosphaeria andrijevicensis Bubák SPECIES
-=======
+# Leptosphaeria andrijevicensis Bubák SPECIES
 
 #### Status
 ACCEPTED

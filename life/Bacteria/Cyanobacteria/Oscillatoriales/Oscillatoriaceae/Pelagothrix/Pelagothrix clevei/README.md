@@ -1,5 +1,4 @@
-Pelagothrix clevei J. Schmidt SPECIES
-=======
+# Pelagothrix clevei J. Schmidt SPECIES
 
 #### Status
 ACCEPTED

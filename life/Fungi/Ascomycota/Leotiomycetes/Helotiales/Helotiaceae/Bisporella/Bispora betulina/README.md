@@ -1,5 +1,4 @@
-Bispora betulina (Corda) Hughes SPECIES
-=======
+# Bispora betulina (Corda) Hughes SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Tegoa couepiae Bat. & J.L. Bezerra SPECIES
-=======
+# Tegoa couepiae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe olpidiocystis G.F. Atk. SPECIES
-=======
+# Inocybe olpidiocystis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

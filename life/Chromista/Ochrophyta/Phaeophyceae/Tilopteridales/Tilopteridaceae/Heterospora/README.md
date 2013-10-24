@@ -1,5 +1,4 @@
-Heterospora P. Kuckuck, 1895 GENUS
-=======
+# Heterospora P. Kuckuck, 1895 GENUS
 
 #### Status
 ACCEPTED

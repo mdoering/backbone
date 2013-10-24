@@ -1,5 +1,4 @@
-Gymnopilus subflavidus Murrill SPECIES
-=======
+# Gymnopilus subflavidus Murrill SPECIES
 
 #### Status
 ACCEPTED

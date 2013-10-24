@@ -1,5 +1,4 @@
-Polyblastia sublactea (Nyl.) Arnold SPECIES
-=======
+# Polyblastia sublactea (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

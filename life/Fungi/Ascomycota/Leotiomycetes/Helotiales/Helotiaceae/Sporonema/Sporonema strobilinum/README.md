@@ -1,11 +1,10 @@
-Sporonema strobilinum var. strobilinum VARIETY
-=======
+# Sporonema strobilinum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

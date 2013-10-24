@@ -1,5 +1,4 @@
-Entoloma cancrinellum (M. Lange) Noordel. SPECIES
-=======
+# Entoloma cancrinellum (M. Lange) Noordel. SPECIES
 
 #### Status
 ACCEPTED

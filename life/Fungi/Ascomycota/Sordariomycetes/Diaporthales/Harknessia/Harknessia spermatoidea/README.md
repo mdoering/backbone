@@ -1,5 +1,4 @@
-Harknessia spermatoidea R. Galán, G. Moreno & B. Sutton SPECIES
-=======
+# Harknessia spermatoidea R. Galán, G. Moreno & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

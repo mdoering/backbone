@@ -1,5 +1,4 @@
-Rhabdospora labruscae Gonz. Frag. SPECIES
-=======
+# Rhabdospora labruscae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

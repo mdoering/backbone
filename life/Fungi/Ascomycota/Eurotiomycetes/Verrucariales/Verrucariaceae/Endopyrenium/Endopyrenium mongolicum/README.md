@@ -1,5 +1,4 @@
-Endopyrenium mongolicum (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Endopyrenium mongolicum (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

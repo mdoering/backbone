@@ -1,5 +1,4 @@
-Sphaeria subconica Cooke & Peck SPECIES
-=======
+# Sphaeria subconica Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

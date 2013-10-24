@@ -1,5 +1,4 @@
-Panaeolus convexulus Singer SPECIES
-=======
+# Panaeolus convexulus Singer SPECIES
 
 #### Status
 ACCEPTED

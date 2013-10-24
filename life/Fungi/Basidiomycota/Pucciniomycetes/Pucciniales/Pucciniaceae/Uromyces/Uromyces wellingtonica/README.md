@@ -1,5 +1,4 @@
-Uromyces wellingtonica T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Uromyces wellingtonica T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

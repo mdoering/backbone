@@ -1,5 +1,4 @@
-Physcia lacera Kremp. SPECIES
-=======
+# Physcia lacera Kremp. SPECIES
 
 #### Status
 ACCEPTED

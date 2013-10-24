@@ -1,5 +1,4 @@
-Uromyces superfixus Vestergr. SPECIES
-=======
+# Uromyces superfixus Vestergr. SPECIES
 
 #### Status
 ACCEPTED

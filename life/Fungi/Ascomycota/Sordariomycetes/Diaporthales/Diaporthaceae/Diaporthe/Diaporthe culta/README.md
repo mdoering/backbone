@@ -1,5 +1,4 @@
-Diaporthe culta Sacc. & Speg., 1878 SPECIES
-=======
+# Diaporthe culta Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena subcyanescens Henn. SPECIES
-=======
+# Mycena subcyanescens Henn. SPECIES
 
 #### Status
 ACCEPTED

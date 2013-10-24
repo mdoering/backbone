@@ -1,5 +1,4 @@
-Mycosphaerella xanthiicola (Cooke & Harkn.) Lindau SPECIES
-=======
+# Mycosphaerella xanthiicola (Cooke & Harkn.) Lindau SPECIES
 
 #### Status
 ACCEPTED

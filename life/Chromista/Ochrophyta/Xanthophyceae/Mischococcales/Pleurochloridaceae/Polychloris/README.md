@@ -1,5 +1,4 @@
-Polychloris Borzì, 1892 GENUS
-=======
+# Polychloris Borzì, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphosphaera tubicena Stradner, 1969 SPECIES
-=======
+# Scyphosphaera tubicena Stradner, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombidium costatum Tucolesco, 1962 SPECIES
-=======
+# Strombidium costatum Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

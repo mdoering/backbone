@@ -1,5 +1,4 @@
-Scindalma fullageri (Berk.) Kuntze SPECIES
-=======
+# Scindalma fullageri (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

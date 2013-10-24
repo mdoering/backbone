@@ -1,17 +1,16 @@
-Ascophora chalybaea Dozy & Molk. SPECIES
-=======
+# Spinellus fusiger (Link) Tiegh., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 6 1: 66 (1875)
 
 #### Original name
-null
+Mucor fusiger Link, 1824
 
 ### Remarks
 null

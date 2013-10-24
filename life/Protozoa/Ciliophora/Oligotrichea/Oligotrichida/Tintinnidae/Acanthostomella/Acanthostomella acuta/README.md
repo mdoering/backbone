@@ -1,5 +1,4 @@
-Acanthostomella acuta SPECIES
-=======
+# Acanthostomella acuta SPECIES
 
 #### Status
 ACCEPTED

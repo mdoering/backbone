@@ -1,5 +1,4 @@
-Macroplodia oryzae (Catt.) Kuntze SPECIES
-=======
+# Macroplodia oryzae (Catt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum porterianum var. rigidulum Grunow, 1916 VARIETY
-=======
+# Sargassum porterianum SPECIES
 
 #### Status
 ACCEPTED

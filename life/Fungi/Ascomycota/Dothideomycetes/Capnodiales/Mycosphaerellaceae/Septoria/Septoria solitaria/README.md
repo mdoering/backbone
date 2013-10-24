@@ -1,5 +1,4 @@
-Septoria solitaria Ellis & Everh. SPECIES
-=======
+# Septoria solitaria Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

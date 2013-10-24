@@ -1,17 +1,16 @@
-Boletus araucarianus Garrido SPECIES
-=======
+# Boletus araucariae Garrido SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 120: 93 (1988)
 
 #### Original name
-Boletus araucarianus Garrido
+Boletus araucariae Garrido
 
 ### Remarks
 null

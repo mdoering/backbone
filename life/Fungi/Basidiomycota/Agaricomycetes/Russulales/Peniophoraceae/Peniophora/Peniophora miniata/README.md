@@ -1,5 +1,4 @@
-Peniophora miniata (Berk.) Burt SPECIES
-=======
+# Peniophora miniata (Berk.) Burt SPECIES
 
 #### Status
 ACCEPTED

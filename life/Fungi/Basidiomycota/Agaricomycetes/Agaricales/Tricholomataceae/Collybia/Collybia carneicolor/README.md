@@ -1,5 +1,4 @@
-Collybia carneicolor Ramain SPECIES
-=======
+# Collybia carneicolor Ramain SPECIES
 
 #### Status
 ACCEPTED

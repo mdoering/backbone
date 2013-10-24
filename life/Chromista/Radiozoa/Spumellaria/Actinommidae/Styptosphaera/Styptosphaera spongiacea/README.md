@@ -1,5 +1,4 @@
-Styptosphaera spongiacea Haeckel, 1887 SPECIES
-=======
+# Styptosphaera spongiacea Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

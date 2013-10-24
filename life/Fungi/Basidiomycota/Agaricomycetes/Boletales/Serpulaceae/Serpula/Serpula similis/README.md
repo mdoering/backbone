@@ -1,5 +1,4 @@
-Serpula similis (Berk. & Broome) Ginns SPECIES
-=======
+# Serpula similis (Berk. & Broome) Ginns SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planorbulinoides retinaculatus (Parker & Jones, 1862) SPECIES
-=======
+# Planorbulinoides retinaculatus (Parker & Jones, 1862) SPECIES
 
 #### Status
 ACCEPTED

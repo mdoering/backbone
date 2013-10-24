@@ -1,5 +1,4 @@
-Lithastrinus grillii Stradner, 1962 SPECIES
-=======
+# Lithastrinus grillii Stradner, 1962 SPECIES
 
 #### Status
 ACCEPTED

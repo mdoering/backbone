@@ -1,5 +1,4 @@
-Valsa mahaleb Cooke & Ellis SPECIES
-=======
+# Valsa mahaleb Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

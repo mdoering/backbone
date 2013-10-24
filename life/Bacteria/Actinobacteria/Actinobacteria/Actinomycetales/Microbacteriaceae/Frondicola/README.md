@@ -1,5 +1,4 @@
-Frondicola Zhang et al., 2007 GENUS
-=======
+# Frondicola Zhang et al., 2007 GENUS
 
 #### Status
 ACCEPTED

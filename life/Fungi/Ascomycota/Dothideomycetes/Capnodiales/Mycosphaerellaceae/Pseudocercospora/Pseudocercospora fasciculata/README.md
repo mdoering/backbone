@@ -1,5 +1,4 @@
-Pseudocercospora fasciculata (Speg.) Deighton SPECIES
-=======
+# Pseudocercospora fasciculata (Speg.) Deighton SPECIES
 
 #### Status
 ACCEPTED

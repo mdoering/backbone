@@ -1,14 +1,13 @@
-Leptosphaeria avenae Auersw., 1869 SPECIES
-=======
+# Metasphaeria avenae (Auersw.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Myc. Europ. Pyren. tab. 12, fig. 165 (1868)
+Syll. fung. (Abellini) 2: 176 (1883)
 
 #### Original name
 Leptosphaeria avenae Auersw., 1869

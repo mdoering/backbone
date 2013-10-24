@@ -1,17 +1,16 @@
-Helmisporium inflatum Berk. & Ravenel SPECIES
-=======
+# Helminthosporium inflatum Berk. & Ravenel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berkeley, Grevillea 3(no. 27): 104 (1875)
 
 #### Original name
-Helmisporium inflatum Berk. & Ravenel
+Helminthosporium inflatum Berk. & Ravenel
 
 ### Remarks
 null

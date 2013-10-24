@@ -1,5 +1,4 @@
-Meyerozyma caribbica (Vaughan-Mart., Kurtzman, S.A. Mey. & E.B. O'Neill) Kurtzman & M. Suzuki, 2010 SPECIES
-=======
+# Meyerozyma caribbica (Vaughan-Mart., Kurtzman, S.A. Mey. & E.B. O'Neill) Kurtzman & M. Suzuki, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon denudatum Velen. SPECIES
-=======
+# Lycoperdon denudatum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia dactyloctenii Pat. & Har. SPECIES
-=======
+# Puccinia dactyloctenii Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

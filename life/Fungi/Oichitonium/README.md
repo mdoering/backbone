@@ -1,5 +1,4 @@
-Oichitonium Durieu & Mont. GENUS
-=======
+# Oichitonium Durieu & Mont. GENUS
 
 #### Status
 ACCEPTED

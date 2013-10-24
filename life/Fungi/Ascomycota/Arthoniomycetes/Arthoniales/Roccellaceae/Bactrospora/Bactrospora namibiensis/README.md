@@ -1,5 +1,4 @@
-Bactrospora namibiensis Egea, Sérus., Torrente & Wessels SPECIES
-=======
+# Bactrospora namibiensis Egea, Sérus., Torrente & Wessels SPECIES
 
 #### Status
 ACCEPTED

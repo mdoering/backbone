@@ -1,5 +1,4 @@
-Helvella cinerella Velen. SPECIES
-=======
+# Helvella cinerella Velen. SPECIES
 
 #### Status
 ACCEPTED

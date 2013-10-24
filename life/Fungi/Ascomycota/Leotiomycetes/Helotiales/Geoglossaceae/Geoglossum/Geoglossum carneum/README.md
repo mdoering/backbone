@@ -1,5 +1,4 @@
-Geoglossum carneum Schultz SPECIES
-=======
+# Geoglossum carneum Schultz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella berberidis Richon SPECIES
-=======
+# Anthostomella berberidis Richon SPECIES
 
 #### Status
 ACCEPTED

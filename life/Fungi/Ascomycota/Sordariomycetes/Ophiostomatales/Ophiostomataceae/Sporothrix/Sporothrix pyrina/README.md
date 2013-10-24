@@ -1,5 +1,4 @@
-Sporothrix pyrina (Goid.) M. Morelet SPECIES
-=======
+# Sporothrix pyrina (Goid.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia jacksoniae Henn. SPECIES
-=======
+# Pestalotia jacksoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

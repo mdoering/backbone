@@ -1,5 +1,4 @@
-Phyllachora dothideoides (Speg.) Petr. & Syd., 1934 SPECIES
-=======
+# Phyllachora dothideoides (Speg.) Petr. & Syd., 1934 SPECIES
 
 #### Status
 DOUBTFUL

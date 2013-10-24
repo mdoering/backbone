@@ -1,5 +1,4 @@
-Thrombium cercosporum Zahlbr. SPECIES
-=======
+# Thrombium cercosporum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

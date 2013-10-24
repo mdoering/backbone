@@ -1,5 +1,4 @@
-Exidia plicata Klotzsch SPECIES
-=======
+# Exidia plicata Klotzsch SPECIES
 
 #### Status
 ACCEPTED

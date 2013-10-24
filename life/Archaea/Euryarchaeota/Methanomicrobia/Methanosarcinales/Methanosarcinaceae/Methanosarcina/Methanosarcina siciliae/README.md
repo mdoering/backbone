@@ -1,8 +1,7 @@
-Methanolobus siciliae Stetter and König, 1989 in Stetter, 1989 SPECIES
-=======
+# Methanosarcina siciliae (Stetter & König, 1989) Ni et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

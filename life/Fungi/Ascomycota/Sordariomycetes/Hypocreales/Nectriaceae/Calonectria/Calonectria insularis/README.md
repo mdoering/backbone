@@ -1,5 +1,4 @@
-Calonectria insularis C.L. Schoch & Crous SPECIES
-=======
+# Calonectria insularis C.L. Schoch & Crous SPECIES
 
 #### Status
 ACCEPTED

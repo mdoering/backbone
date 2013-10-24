@@ -1,5 +1,4 @@
-Helicoma westonii Linder SPECIES
-=======
+# Helicoma westonii Linder SPECIES
 
 #### Status
 ACCEPTED

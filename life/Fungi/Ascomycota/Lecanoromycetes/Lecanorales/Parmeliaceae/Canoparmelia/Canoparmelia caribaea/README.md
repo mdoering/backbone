@@ -1,5 +1,4 @@
-Canoparmelia caribaea (Hale) Elix & Hale SPECIES
-=======
+# Canoparmelia caribaea (Hale) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED

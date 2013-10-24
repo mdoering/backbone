@@ -1,5 +1,4 @@
-Parmelia ohionis SPECIES
-=======
+# Parmelia ohionis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria malyi Picb. SPECIES
-=======
+# Leptosphaeria malyi Picb. SPECIES
 
 #### Status
 ACCEPTED

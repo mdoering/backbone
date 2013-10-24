@@ -1,5 +1,4 @@
-Athabascaella Martin, 1984 GENUS
-=======
+# Athabascaella Martin, 1984 GENUS
 
 #### Status
 ACCEPTED

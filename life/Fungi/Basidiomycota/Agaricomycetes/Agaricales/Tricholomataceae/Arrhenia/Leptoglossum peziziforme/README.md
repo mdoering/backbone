@@ -1,17 +1,16 @@
-Leptoglossum pezizaeforme Velen. SPECIES
-=======
+# Leptoglossum peziziforme Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mykologia (Prague) 5: 91 (1928)
 
 #### Original name
-Leptoglossum pezizaeforme Velen.
+Leptoglossum peziziforme Velen.
 
 ### Remarks
 null

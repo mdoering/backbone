@@ -1,14 +1,13 @@
-Leptopodia atra (J. König) Boud., 1907 SPECIES
-=======
+# Helvella atra J. König, 1770 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. 4: 298 (1783)
 
 #### Original name
 Helvella atra J. König, 1770

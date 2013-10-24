@@ -1,5 +1,4 @@
-Calycina rhizogena (Ellis & Everh.) Kuntze SPECIES
-=======
+# Calycina rhizogena (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

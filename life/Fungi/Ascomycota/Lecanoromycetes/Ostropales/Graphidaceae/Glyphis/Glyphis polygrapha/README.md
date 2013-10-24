@@ -1,5 +1,4 @@
-Glyphis polygrapha Fée SPECIES
-=======
+# Glyphis polygrapha Fée SPECIES
 
 #### Status
 ACCEPTED

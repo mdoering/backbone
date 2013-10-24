@@ -1,5 +1,4 @@
-Psathyrella lutulenta Esteve-Rav. & M. Villarreal SPECIES
-=======
+# Psathyrella lutulenta Esteve-Rav. & M. Villarreal SPECIES
 
 #### Status
 ACCEPTED

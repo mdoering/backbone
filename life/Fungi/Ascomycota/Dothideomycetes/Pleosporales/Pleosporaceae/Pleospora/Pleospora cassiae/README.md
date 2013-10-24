@@ -1,5 +1,4 @@
-Pleospora cassiae Tilak SPECIES
-=======
+# Pleospora cassiae Tilak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra minutissima var. pelliculosa Kützing VARIETY
-=======
+# Synedra minutissima Kützing SPECIES
 
 #### Status
 ACCEPTED

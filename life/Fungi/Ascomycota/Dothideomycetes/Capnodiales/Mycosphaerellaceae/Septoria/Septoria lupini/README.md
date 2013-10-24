@@ -1,5 +1,4 @@
-Septoria lupini Kazn. SPECIES
-=======
+# Septoria lupini Kazn. SPECIES
 
 #### Status
 ACCEPTED

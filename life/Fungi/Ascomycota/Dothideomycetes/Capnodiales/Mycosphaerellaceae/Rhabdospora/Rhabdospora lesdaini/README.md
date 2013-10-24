@@ -1,5 +1,4 @@
-Rhabdospora lesdaini Vouaux SPECIES
-=======
+# Rhabdospora lesdaini Vouaux SPECIES
 
 #### Status
 ACCEPTED

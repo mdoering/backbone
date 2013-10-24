@@ -1,5 +1,4 @@
-Alpova klikae (Mattir.) Trappe SPECIES
-=======
+# Alpova klikae (Mattir.) Trappe SPECIES
 
 #### Status
 ACCEPTED

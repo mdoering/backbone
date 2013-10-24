@@ -1,5 +1,4 @@
-Spilosticta GENUS
-=======
+# Spilosticta GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tracheloraphis minimum (Dragesco, 1960) Foissner & Dragesco, 1996 SPECIES
-=======
+# Tracheloraphis minimum (Dragesco, 1960) Foissner & Dragesco, 1996 SPECIES
 
 #### Status
 ACCEPTED

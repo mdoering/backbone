@@ -1,5 +1,4 @@
-Pluteus exilis var. exilis VARIETY
-=======
+# Pluteus exilis Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fieldiana, Bot. 21: 94 (1989)
 
 #### Original name
-Pluteus exilis var. exilis
+Pluteus exilis Singer
 
 ### Remarks
 null

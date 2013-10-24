@@ -1,5 +1,4 @@
-Solosympodiella palmicola Matsush. SPECIES
-=======
+# Solosympodiella palmicola Matsush. SPECIES
 
 #### Status
 ACCEPTED

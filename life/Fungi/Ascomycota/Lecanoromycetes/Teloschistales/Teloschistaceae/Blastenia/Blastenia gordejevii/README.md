@@ -1,5 +1,4 @@
-Blastenia gordejevii (Tomin) Tomin SPECIES
-=======
+# Blastenia gordejevii (Tomin) Tomin SPECIES
 
 #### Status
 ACCEPTED

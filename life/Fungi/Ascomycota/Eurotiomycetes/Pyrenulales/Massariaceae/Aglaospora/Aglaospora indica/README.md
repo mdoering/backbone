@@ -1,5 +1,4 @@
-Aglaospora indica Tilak & S.B. Kale SPECIES
-=======
+# Aglaospora indica Tilak & S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllostictella olympica (Allesch.) Tassi SPECIES
-=======
+# Phyllostictella olympica (Allesch.) Tassi SPECIES
 
 #### Status
 ACCEPTED

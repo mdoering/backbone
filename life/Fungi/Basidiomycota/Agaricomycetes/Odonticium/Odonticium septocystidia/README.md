@@ -1,14 +1,13 @@
-Scopuloides septocystidia (Burt) Jülich, 1982 SPECIES
-=======
+# Odonticium septocystidia (Burt) Zmitr. & Spirin, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 11(4): 422 (1982)
+in Zmitrovich, Malysheva & Spirin, Mycena 6: 40 (2006)
 
 #### Original name
 Peniophora septocystidia Burt, 1926

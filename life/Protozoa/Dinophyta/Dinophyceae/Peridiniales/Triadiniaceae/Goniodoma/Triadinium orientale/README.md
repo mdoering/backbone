@@ -1,5 +1,4 @@
-Triadinium orientale (Lindemann) Dodge, 1981 SPECIES
-=======
+# Triadinium orientale (Lindemann) Dodge, 1981 SPECIES
 
 #### Status
 DOUBTFUL

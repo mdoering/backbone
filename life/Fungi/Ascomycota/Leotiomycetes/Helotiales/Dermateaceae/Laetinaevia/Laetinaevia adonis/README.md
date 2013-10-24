@@ -1,5 +1,4 @@
-Laetinaevia adonis (Fuckel) Nannf. SPECIES
-=======
+# Laetinaevia adonis (Fuckel) Nannf. SPECIES
 
 #### Status
 ACCEPTED

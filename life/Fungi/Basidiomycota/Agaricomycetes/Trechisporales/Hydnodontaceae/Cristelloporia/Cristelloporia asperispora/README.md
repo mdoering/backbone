@@ -1,5 +1,4 @@
-Cristelloporia asperispora Ryvarden & I. Johans., 1980 SPECIES
-=======
+# Cristelloporia asperispora Ryvarden & I. Johans., 1980 SPECIES
 
 #### Status
 ACCEPTED

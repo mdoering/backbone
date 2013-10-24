@@ -1,5 +1,4 @@
-Ramicola arciensis Contu SPECIES
-=======
+# Ramicola arciensis Contu SPECIES
 
 #### Status
 ACCEPTED

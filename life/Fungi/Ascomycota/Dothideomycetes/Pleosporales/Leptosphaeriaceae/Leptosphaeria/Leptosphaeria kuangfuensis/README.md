@@ -1,5 +1,4 @@
-Leptosphaeria kuangfuensis Yen {?} & Sun {?} SPECIES
-=======
+# Leptosphaeria kuangfuensis Yen {?} & Sun {?} SPECIES
 
 #### Status
 ACCEPTED

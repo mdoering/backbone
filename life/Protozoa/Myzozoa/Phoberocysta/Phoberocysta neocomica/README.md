@@ -1,5 +1,4 @@
-Phoberocysta neocomica (Gocht, 1957) Millioud, 1969 SPECIES
-=======
+# Phoberocysta neocomica (Gocht, 1957) Millioud, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spinomersinella goricanae SPECIES
-=======
+# Spinomersinella goricanae SPECIES
 
 #### Status
 ACCEPTED

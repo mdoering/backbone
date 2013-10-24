@@ -1,5 +1,4 @@
-Pseudocyphellaria carpoloma (Delise) Vain. SPECIES
-=======
+# Pseudocyphellaria carpoloma (Delise) Vain. SPECIES
 
 #### Status
 ACCEPTED

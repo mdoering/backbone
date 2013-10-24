@@ -1,5 +1,4 @@
-Pirostoma farnetianum Pollacci SPECIES
-=======
+# Pirostoma farnetianum Pollacci SPECIES
 
 #### Status
 ACCEPTED

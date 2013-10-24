@@ -1,5 +1,4 @@
-Rhytisma linearis Peck SPECIES
-=======
+# Rhytisma linearis Peck SPECIES
 
 #### Status
 ACCEPTED

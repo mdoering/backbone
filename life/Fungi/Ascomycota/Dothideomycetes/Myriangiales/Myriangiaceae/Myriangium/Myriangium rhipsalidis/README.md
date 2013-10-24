@@ -1,5 +1,4 @@
-Myriangium rhipsalidis (Henn.) Höhn. SPECIES
-=======
+# Myriangium rhipsalidis (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

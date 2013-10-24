@@ -1,5 +1,4 @@
-Tuber pallidum Lázaro Ibiza SPECIES
-=======
+# Tuber pallidum Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora sambucigena U. Braun, Crous & K. Schub. SPECIES
-=======
+# Pseudocercospora sambucigena U. Braun, Crous & K. Schub. SPECIES
 
 #### Status
 ACCEPTED

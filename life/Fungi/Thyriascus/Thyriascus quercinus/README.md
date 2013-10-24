@@ -1,5 +1,4 @@
-Thyriascus quercinus Schulzer SPECIES
-=======
+# Thyriascus quercinus Schulzer SPECIES
 
 #### Status
 ACCEPTED

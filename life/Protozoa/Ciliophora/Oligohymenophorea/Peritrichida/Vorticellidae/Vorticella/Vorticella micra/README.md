@@ -1,5 +1,4 @@
-Vorticella micra SPECIES
-=======
+# Vorticella micra SPECIES
 
 #### Status
 ACCEPTED

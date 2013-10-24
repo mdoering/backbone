@@ -1,5 +1,4 @@
-Psathyra hydrophila (Bull.) G. Bertrand SPECIES
-=======
+# Psathyra hydrophila (Bull.) G. Bertrand SPECIES
 
 #### Status
 ACCEPTED

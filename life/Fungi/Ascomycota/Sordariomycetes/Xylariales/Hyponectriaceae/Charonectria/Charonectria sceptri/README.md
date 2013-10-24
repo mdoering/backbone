@@ -1,5 +1,4 @@
-Charonectria sceptri (P. Karst.) Lowen SPECIES
-=======
+# Charonectria sceptri (P. Karst.) Lowen SPECIES
 
 #### Status
 ACCEPTED

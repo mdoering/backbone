@@ -1,5 +1,4 @@
-Asterostomopsis ghanaensis Bat., Cif. & H. Maia, 1959 SPECIES
-=======
+# Asterostomopsis ghanaensis Bat., Cif. & H. Maia, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Celothelium leprieurii Trevis. SPECIES
-=======
+# Celothelium leprieurii Trevis. SPECIES
 
 #### Status
 ACCEPTED

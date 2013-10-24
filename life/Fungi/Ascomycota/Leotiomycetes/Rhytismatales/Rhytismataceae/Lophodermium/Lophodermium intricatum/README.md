@@ -1,5 +1,4 @@
-Lophodermium intricatum Spooner, 1991 SPECIES
-=======
+# Lophodermium intricatum Spooner, 1991 SPECIES
 
 #### Status
 ACCEPTED

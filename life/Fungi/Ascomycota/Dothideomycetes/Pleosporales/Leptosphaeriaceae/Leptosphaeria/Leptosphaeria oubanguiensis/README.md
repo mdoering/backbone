@@ -1,5 +1,4 @@
-Leptosphaeria oubanguiensis Saccas SPECIES
-=======
+# Leptosphaeria oubanguiensis Saccas SPECIES
 
 #### Status
 ACCEPTED

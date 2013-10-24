@@ -1,5 +1,4 @@
-Heimatomyces aurantiacus Thaxt. SPECIES
-=======
+# Heimatomyces aurantiacus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inonotus kanehirae (Yasuda) Imazeki SPECIES
-=======
+# Inonotus kanehirae (Yasuda) Imazeki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudocercospora tremae-guineensis (J.M. Yen & Gilles) J.M. Yen SPECIES
-=======
+# Pseudocercospora trematis-guineensis (J.M. Yen & Gilles) J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 94(4): 383 (1978)
 
 #### Original name
-Cercospora trematis-guineensis J.M. Yen & Gilles
+Pseudocercospora trematis-guineensis (J.M. Yen & Gilles) J.M. Yen
 
 ### Remarks
 null

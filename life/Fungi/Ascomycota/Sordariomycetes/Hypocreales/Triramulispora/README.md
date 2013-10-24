@@ -1,5 +1,4 @@
-Triramulispora Matsush. GENUS
-=======
+# Triramulispora Matsush. GENUS
 
 #### Status
 ACCEPTED

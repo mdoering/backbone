@@ -1,5 +1,4 @@
-Gyrocephalus aginnensis Pers. SPECIES
-=======
+# Gyrocephalus aginnensis Pers. SPECIES
 
 #### Status
 ACCEPTED

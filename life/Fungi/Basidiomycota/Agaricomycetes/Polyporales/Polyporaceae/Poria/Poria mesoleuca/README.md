@@ -1,5 +1,4 @@
-Poria mesoleuca (Petch) Ginns SPECIES
-=======
+# Poria mesoleuca (Petch) Ginns SPECIES
 
 #### Status
 ACCEPTED

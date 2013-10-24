@@ -1,5 +1,4 @@
-Thelephora rosaceocincta Fr. SPECIES
-=======
+# Thelephora rosaceocincta Fr. SPECIES
 
 #### Status
 ACCEPTED

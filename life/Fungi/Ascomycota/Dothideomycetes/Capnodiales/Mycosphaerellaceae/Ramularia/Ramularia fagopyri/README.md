@@ -1,5 +1,4 @@
-Ramularia fagopyri Abramov ex U. Braun SPECIES
-=======
+# Ramularia fagopyri Abramov ex U. Braun SPECIES
 
 #### Status
 ACCEPTED

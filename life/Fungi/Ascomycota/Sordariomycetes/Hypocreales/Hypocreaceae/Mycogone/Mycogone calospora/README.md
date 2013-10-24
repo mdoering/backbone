@@ -1,5 +1,4 @@
-Mycogone calospora (P. Karst.) Höhn., 1923 SPECIES
-=======
+# Mycogone calospora (P. Karst.) Höhn., 1923 SPECIES
 
 #### Status
 ACCEPTED

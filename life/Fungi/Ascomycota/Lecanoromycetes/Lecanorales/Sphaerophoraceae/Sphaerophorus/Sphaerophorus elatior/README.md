@@ -1,5 +1,4 @@
-Sphaerophorus elatior (Weber) M. Choisy SPECIES
-=======
+# Sphaerophorus elatior (Weber) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

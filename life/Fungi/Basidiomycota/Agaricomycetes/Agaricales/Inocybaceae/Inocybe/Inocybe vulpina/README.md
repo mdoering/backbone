@@ -1,5 +1,4 @@
-Inocybe vulpina Takah. Kobay. SPECIES
-=======
+# Inocybe vulpina Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

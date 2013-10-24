@@ -1,17 +1,16 @@
-Cordyceps nakazawai Hongo & Izawa SPECIES
-=======
+# Cordyceps nakazawae Hongo & Izawa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icones of Japanese fungi 8: 836 (1955)
 
 #### Original name
-Cordyceps nakazawai Hongo & Izawa
+Cordyceps nakazawae Hongo & Izawa
 
 ### Remarks
 null

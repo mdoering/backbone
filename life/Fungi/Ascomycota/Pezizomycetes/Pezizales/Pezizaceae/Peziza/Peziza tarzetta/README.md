@@ -1,17 +1,16 @@
-Peziza tazzetta Cooke SPECIES
-=======
+# Peziza tarzetta Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycographia seu Icones Fungorum (London), Vol. <b>1</b>. Discomycetes 166 (1874)
 
 #### Original name
-Peziza tazzetta Cooke
+Peziza tarzetta Cooke
 
 ### Remarks
 null

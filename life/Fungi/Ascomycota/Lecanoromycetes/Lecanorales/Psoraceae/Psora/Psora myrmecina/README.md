@@ -1,5 +1,4 @@
-Psora myrmecina (Spreng.) Boistel SPECIES
-=======
+# Psora myrmecina (Spreng.) Boistel SPECIES
 
 #### Status
 ACCEPTED

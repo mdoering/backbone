@@ -1,5 +1,4 @@
-Phaeocalicium matthewsianum Selva & Tibell SPECIES
-=======
+# Phaeocalicium matthewsianum Selva & Tibell SPECIES
 
 #### Status
 ACCEPTED

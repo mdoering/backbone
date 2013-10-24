@@ -1,8 +1,7 @@
-Boletus subluteus Peck, 1894 SPECIES
-=======
+# Suillus subluteus (Peck) Snell, 1944 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

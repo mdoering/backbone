@@ -1,5 +1,4 @@
-Tetraplosphaeria yakushimensis Kaz. Tanaka, K. Hiray. & Hosoya, 2009 SPECIES
-=======
+# Tetraplosphaeria yakushimensis Kaz. Tanaka, K. Hiray. & Hosoya, 2009 SPECIES
 
 #### Status
 ACCEPTED

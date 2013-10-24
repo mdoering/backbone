@@ -1,5 +1,4 @@
-Karschia fusispora (Cooke & Peck) Sacc. SPECIES
-=======
+# Karschia fusispora (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

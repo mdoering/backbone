@@ -1,5 +1,4 @@
-Cytospora celastri Clem. SPECIES
-=======
+# Cytospora celastri Clem. SPECIES
 
 #### Status
 ACCEPTED

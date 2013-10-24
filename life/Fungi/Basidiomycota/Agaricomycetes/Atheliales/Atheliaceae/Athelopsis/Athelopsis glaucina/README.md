@@ -1,14 +1,13 @@
-Corticium auriculariae (Bourdot & Galzin) Bourdot, 1932 SPECIES
-=======
+# Athelopsis glaucina (Bourdot & Galzin) Oberw. ex Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Consp. System. Corticiac. (Tartu) 42 (1968)
 
 #### Original name
 null

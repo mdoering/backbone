@@ -1,5 +1,4 @@
-Amoeba radiosa Ehr. SPECIES
-=======
+# Amoeba radiosa Ehr. SPECIES
 
 #### Status
 ACCEPTED

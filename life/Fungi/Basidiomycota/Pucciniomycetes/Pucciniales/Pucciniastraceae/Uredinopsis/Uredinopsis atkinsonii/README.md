@@ -1,5 +1,4 @@
-Uredinopsis atkinsonii Magnus SPECIES
-=======
+# Uredinopsis atkinsonii Magnus SPECIES
 
 #### Status
 ACCEPTED

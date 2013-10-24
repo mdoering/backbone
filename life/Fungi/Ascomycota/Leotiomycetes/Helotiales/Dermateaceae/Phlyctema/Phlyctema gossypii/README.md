@@ -1,5 +1,4 @@
-Phlyctema gossypii (Sacc.) Sacc. SPECIES
-=======
+# Phlyctema gossypii (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

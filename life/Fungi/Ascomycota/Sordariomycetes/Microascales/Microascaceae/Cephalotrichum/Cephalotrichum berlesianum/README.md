@@ -1,5 +1,4 @@
-Cephalotrichum berlesianum (Roum. & Sacc.) Kuntze SPECIES
-=======
+# Cephalotrichum berlesianum (Roum. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

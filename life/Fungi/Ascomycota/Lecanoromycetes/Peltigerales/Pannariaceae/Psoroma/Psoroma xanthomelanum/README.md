@@ -1,5 +1,4 @@
-Psoroma xanthomelanum Nyl. SPECIES
-=======
+# Psoroma xanthomelanum Nyl. SPECIES
 
 #### Status
 ACCEPTED

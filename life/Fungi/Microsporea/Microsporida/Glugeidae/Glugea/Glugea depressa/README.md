@@ -1,5 +1,4 @@
-Glugea depressa Thélohan, 1895 SPECIES
-=======
+# Glugea depressa Thélohan, 1895 SPECIES
 
 #### Status
 ACCEPTED

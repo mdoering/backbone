@@ -1,5 +1,4 @@
-Aecidium enceliae Arthur SPECIES
-=======
+# Aecidium enceliae Arthur SPECIES
 
 #### Status
 ACCEPTED

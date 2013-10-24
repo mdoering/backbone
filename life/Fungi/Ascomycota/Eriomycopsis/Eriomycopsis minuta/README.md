@@ -1,5 +1,4 @@
-Eriomycopsis minuta Deighton & Piroz. SPECIES
-=======
+# Eriomycopsis minuta Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

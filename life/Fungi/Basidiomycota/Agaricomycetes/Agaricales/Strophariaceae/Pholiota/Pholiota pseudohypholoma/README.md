@@ -1,5 +1,4 @@
-Pholiota pseudohypholoma Velen. SPECIES
-=======
+# Pholiota pseudohypholoma Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parodiopsis bicoronata Orejuela SPECIES
-=======
+# Parodiopsis bicoronata Orejuela SPECIES
 
 #### Status
 ACCEPTED

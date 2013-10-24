@@ -1,5 +1,4 @@
-Shuiyousphaeridium Yan in Yan & Zhu, 1992 GENUS
-=======
+# Shuiyousphaeridium Yan in Yan & Zhu, 1992 GENUS
 
 #### Status
 ACCEPTED

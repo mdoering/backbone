@@ -1,14 +1,13 @@
-Lachnella galeatus (Berk. & M.A. Curtis) Locq. SPECIES
-=======
+# Lachnella galeata (Berk. & M.A. Curtis) Locq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 68: 166 (1952)
 
 #### Original name
 Marasmius galeatus Berk. & M.A. Curtis

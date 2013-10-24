@@ -1,17 +1,16 @@
-Leptogium azureum var. azureum VARIETY
-=======
+# Leptogium azureum (Sw. ex Ach.) Mont. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Webb & Berthold, Hist. nat. Iles Canar. (Paris) 3(2): 129 (1840)
 
 #### Original name
-Leptogium azureum var. azureum
+Lichen azureus Sw.
 
 ### Remarks
 null

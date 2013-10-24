@@ -1,5 +1,4 @@
-Spathidium claviforme Kahl, 1930 SPECIES
-=======
+# Spathidium claviforme Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

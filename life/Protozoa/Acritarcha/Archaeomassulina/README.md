@@ -1,5 +1,4 @@
-Archaeomassulina S.N. Naumova, 1968 GENUS
-=======
+# Archaeomassulina S.N. Naumova, 1968 GENUS
 
 #### Status
 ACCEPTED

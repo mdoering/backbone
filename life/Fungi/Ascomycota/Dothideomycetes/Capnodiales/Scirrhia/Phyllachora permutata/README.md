@@ -1,5 +1,4 @@
-Phyllachora permutata Petr., 1927 SPECIES
-=======
+# Phyllachora permutata Petr., 1927 SPECIES
 
 #### Status
 DOUBTFUL

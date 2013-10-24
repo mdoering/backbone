@@ -1,14 +1,13 @@
-Puccinia menthae var. ziziphorae (P. Syd. & Syd.) J.W. Baxter, 1962 VARIETY
-=======
+# Puccinia ziziphorae P. Syd. & Syd., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Uredin. (Lipsiae) 1(2): 304 (1902)
 
 #### Original name
 Puccinia ziziphorae P. Syd. & Syd., 1902

@@ -1,5 +1,4 @@
-Cortinarius pituitosus E. Horak SPECIES
-=======
+# Cortinarius pituitosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

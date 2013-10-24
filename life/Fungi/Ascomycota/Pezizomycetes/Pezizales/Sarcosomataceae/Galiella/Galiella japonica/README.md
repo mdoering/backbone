@@ -1,5 +1,4 @@
-Galiella japonica (Yasuda) Y. Otani SPECIES
-=======
+# Galiella japonica (Yasuda) Y. Otani SPECIES
 
 #### Status
 ACCEPTED

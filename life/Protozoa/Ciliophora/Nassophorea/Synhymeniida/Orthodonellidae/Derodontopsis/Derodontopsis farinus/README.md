@@ -1,5 +1,4 @@
-Derodontopsis farinus SPECIES
-=======
+# Derodontopsis farinus SPECIES
 
 #### Status
 ACCEPTED

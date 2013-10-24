@@ -1,5 +1,4 @@
-Agaricus admirabilis Peck SPECIES
-=======
+# Agaricus admirabilis Peck SPECIES
 
 #### Status
 ACCEPTED

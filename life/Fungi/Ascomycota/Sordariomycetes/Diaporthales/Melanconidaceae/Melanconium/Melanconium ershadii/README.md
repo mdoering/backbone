@@ -1,5 +1,4 @@
-Melanconium ershadii Riedl SPECIES
-=======
+# Melanconium ershadii Riedl SPECIES
 
 #### Status
 ACCEPTED

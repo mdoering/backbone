@@ -1,5 +1,4 @@
-Sphaerulina gigantea Gucevic SPECIES
-=======
+# Sphaerulina gigantea Gucevic SPECIES
 
 #### Status
 ACCEPTED

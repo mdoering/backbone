@@ -1,5 +1,4 @@
-Dictyothyriella vismiae F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella vismiae F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

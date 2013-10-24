@@ -1,5 +1,4 @@
-Lepista masiae Ballero & Contu SPECIES
-=======
+# Lepista masiae Ballero & Contu SPECIES
 
 #### Status
 ACCEPTED

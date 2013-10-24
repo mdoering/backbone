@@ -1,5 +1,4 @@
-Arthonia lopingensis Zahlbr. SPECIES
-=======
+# Arthonia lopingensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

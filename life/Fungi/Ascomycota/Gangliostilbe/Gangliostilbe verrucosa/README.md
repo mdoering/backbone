@@ -1,5 +1,4 @@
-Gangliostilbe verrucosa Bhat & B. Sutton SPECIES
-=======
+# Gangliostilbe verrucosa Bhat & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

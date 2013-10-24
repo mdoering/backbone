@@ -1,5 +1,4 @@
-Septocylindrium platense Speg. SPECIES
-=======
+# Septocylindrium platense Speg. SPECIES
 
 #### Status
 ACCEPTED

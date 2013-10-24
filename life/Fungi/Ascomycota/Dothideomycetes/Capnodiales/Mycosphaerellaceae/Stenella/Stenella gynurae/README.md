@@ -1,5 +1,4 @@
-Stenella gynurae (Sawada & Katsuki) Goh & W.H. Hsieh SPECIES
-=======
+# Stenella gynurae (Sawada & Katsuki) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria hardenbergiae Hansf. SPECIES
-=======
+# Leptosphaeria hardenbergiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

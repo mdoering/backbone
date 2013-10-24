@@ -1,5 +1,4 @@
-Quinqueloculina ungeriana d'Orbigny, 1846 SPECIES
-=======
+# Quinqueloculina ungeriana d'Orbigny, 1846 SPECIES
 
 #### Status
 ACCEPTED

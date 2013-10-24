@@ -1,5 +1,4 @@
-Phaeographina atrovermicularis M. Wirth & Hale SPECIES
-=======
+# Phaeographina atrovermicularis M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

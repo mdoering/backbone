@@ -1,5 +1,4 @@
-Colletotrichum catenulatum F. Stevens SPECIES
-=======
+# Colletotrichum catenulatum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

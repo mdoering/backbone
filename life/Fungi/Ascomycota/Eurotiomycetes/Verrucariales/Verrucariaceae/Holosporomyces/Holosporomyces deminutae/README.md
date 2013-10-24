@@ -1,5 +1,4 @@
-Holosporomyces deminutae Cif. & Tomas. SPECIES
-=======
+# Holosporomyces deminutae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wirthiotrema trypaneoides (Nyl.) Rivas Plata, Kalb & Frisch SPECIES
-=======
+# Wirthiotrema trypaneoides (Nyl.) Rivas Plata, Kalb & Frisch SPECIES
 
 #### Status
 ACCEPTED

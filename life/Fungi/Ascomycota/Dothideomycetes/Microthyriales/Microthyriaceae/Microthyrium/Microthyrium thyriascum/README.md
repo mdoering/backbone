@@ -1,5 +1,4 @@
-Microthyrium thyriascum Schulzer & Sacc. SPECIES
-=======
+# Microthyrium thyriascum Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

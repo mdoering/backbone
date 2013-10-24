@@ -1,5 +1,4 @@
-Sphacelotheca hainanae Zundel SPECIES
-=======
+# Sphacelotheca hainanae Zundel SPECIES
 
 #### Status
 ACCEPTED

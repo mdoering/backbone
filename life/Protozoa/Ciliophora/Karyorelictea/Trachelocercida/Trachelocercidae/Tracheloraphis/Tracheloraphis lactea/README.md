@@ -1,8 +1,7 @@
-Tracheloraphis lacteus Raikov & Kovaleva, 1968 SPECIES
-=======
+# Tracheloraphis lactea Raikov & Kovaleva, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

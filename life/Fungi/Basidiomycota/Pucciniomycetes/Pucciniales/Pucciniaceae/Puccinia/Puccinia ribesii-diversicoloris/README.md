@@ -1,5 +1,4 @@
-Puccinia ribesii-diversicoloris Gäum. SPECIES
-=======
+# Puccinia ribesii-diversicoloris Gäum. SPECIES
 
 #### Status
 ACCEPTED

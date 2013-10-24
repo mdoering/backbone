@@ -1,5 +1,4 @@
-Dirinaria inelegans (Hue) C.W. Dodge SPECIES
-=======
+# Dirinaria inelegans (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

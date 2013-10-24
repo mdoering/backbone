@@ -1,5 +1,4 @@
-Mycosphaerella richeae Petr. SPECIES
-=======
+# Mycosphaerella richeae Petr. SPECIES
 
 #### Status
 ACCEPTED

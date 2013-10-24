@@ -1,5 +1,4 @@
-Tintinnidium cylindrica Daday, 1886 SPECIES
-=======
+# Tintinnidium cylindrica Daday, 1886 SPECIES
 
 #### Status
 ACCEPTED

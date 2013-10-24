@@ -1,5 +1,4 @@
-Boletus nigromaculatus (Hongo) Har. Takah. SPECIES
-=======
+# Boletus nigromaculatus (Hongo) Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

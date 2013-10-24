@@ -1,5 +1,4 @@
-Lecanora albula (Nyl.) Hue SPECIES
-=======
+# Lecanora albula (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

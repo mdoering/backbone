@@ -1,5 +1,4 @@
-Armillaria tumescens (Viv.) Sacc. SPECIES
-=======
+# Armillaria tumescens (Viv.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

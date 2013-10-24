@@ -1,5 +1,4 @@
-Verrucaria subatomaria Nyl. SPECIES
-=======
+# Verrucaria subatomaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

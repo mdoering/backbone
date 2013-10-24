@@ -1,14 +1,13 @@
-Tuburcinia agropyri (Preuss) Liro, 1922 SPECIES
-=======
+# Urocystis agropyri (Preuss) A.A. Fisch. Waldh., 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): 15 (1922)
+Bull. Soc. Imp. nat. Moscou 40: 258 (1867)
 
 #### Original name
 Uredo agropyri Preuss, 1848

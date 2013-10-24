@@ -1,5 +1,4 @@
-Ramaria subdecurrens (Coker) Corner SPECIES
-=======
+# Ramaria subdecurrens (Coker) Corner SPECIES
 
 #### Status
 ACCEPTED

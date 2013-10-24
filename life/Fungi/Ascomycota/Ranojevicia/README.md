@@ -1,5 +1,4 @@
-Ranojevicia Bubák GENUS
-=======
+# Ranojevicia Bubák GENUS
 
 #### Status
 ACCEPTED

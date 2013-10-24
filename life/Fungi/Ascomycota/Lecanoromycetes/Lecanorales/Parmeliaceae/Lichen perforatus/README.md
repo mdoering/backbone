@@ -1,5 +1,4 @@
-Lichen perforatus Sm. & Sowerby SPECIES
-=======
+# Lichen perforatus Sm. & Sowerby SPECIES
 
 #### Status
 ACCEPTED

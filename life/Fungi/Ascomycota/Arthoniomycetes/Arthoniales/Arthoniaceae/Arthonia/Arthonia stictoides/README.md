@@ -1,5 +1,4 @@
-Arthonia stictoides (Desm.) Nyl. SPECIES
-=======
+# Arthonia stictoides (Desm.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

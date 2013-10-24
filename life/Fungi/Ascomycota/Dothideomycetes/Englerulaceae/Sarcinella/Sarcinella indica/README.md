@@ -1,5 +1,4 @@
-Sarcinella indica Satish Chandra, N. Srivast. & R. Chaudhary SPECIES
-=======
+# Sarcinella indica Satish Chandra, N. Srivast. & R. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

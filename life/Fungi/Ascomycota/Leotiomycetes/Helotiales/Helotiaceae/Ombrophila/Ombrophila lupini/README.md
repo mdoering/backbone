@@ -1,5 +1,4 @@
-Ombrophila lupini Velen. SPECIES
-=======
+# Ombrophila lupini Velen. SPECIES
 
 #### Status
 ACCEPTED

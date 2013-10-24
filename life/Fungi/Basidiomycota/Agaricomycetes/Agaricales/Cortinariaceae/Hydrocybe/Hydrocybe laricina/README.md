@@ -1,5 +1,4 @@
-Hydrocybe laricina (Peck) Murrill SPECIES
-=======
+# Hydrocybe laricina (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

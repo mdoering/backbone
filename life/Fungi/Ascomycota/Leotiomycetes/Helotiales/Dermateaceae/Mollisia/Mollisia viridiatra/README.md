@@ -1,5 +1,4 @@
-Mollisia viridiatra (Fr.) Sacc. SPECIES
-=======
+# Mollisia viridiatra (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus macrophalus Berk. SPECIES
-=======
+# Agaricus macrophalus Berk. SPECIES
 
 #### Status
 ACCEPTED

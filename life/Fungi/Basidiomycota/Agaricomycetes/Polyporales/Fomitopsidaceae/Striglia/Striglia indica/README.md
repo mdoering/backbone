@@ -1,5 +1,4 @@
-Striglia indica (Jungh.) Kuntze SPECIES
-=======
+# Striglia indica (Jungh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

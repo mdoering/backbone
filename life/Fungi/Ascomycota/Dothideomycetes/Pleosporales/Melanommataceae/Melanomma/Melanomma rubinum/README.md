@@ -1,5 +1,4 @@
-Melanomma rubinum P. Karst. SPECIES
-=======
+# Melanomma rubinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

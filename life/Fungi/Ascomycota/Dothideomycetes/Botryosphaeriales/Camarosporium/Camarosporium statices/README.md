@@ -1,5 +1,4 @@
-Camarosporium statices Szembel SPECIES
-=======
+# Camarosporium statices Szembel SPECIES
 
 #### Status
 ACCEPTED

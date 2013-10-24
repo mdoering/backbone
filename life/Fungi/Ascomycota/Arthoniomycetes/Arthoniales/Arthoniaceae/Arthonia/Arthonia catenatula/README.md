@@ -1,5 +1,4 @@
-Arthonia catenatula Nyl. SPECIES
-=======
+# Arthonia catenatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

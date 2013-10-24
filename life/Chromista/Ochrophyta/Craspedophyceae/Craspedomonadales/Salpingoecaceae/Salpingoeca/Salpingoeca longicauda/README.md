@@ -1,5 +1,4 @@
-Salpingoeca longicauda SPECIES
-=======
+# Salpingoeca longicauda SPECIES
 
 #### Status
 ACCEPTED

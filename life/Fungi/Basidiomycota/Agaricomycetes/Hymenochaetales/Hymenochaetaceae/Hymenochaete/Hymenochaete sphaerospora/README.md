@@ -1,5 +1,4 @@
-Hymenochaete sphaerospora J.C. Léger & Lanq., 1987 SPECIES
-=======
+# Hymenochaete sphaerospora J.C. Léger & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

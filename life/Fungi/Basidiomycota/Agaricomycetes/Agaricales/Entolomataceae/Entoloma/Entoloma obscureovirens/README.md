@@ -1,5 +1,4 @@
-Entoloma obscureovirens G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma obscureovirens G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

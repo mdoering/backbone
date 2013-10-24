@@ -1,5 +1,4 @@
-Didymopsora triumfettae H.S. Jacks. & Holw., 1931 SPECIES
-=======
+# Didymopsora triumfettae H.S. Jacks. & Holw., 1931 SPECIES
 
 #### Status
 ACCEPTED

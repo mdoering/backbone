@@ -1,5 +1,4 @@
-Coutourea biseptata Speg. SPECIES
-=======
+# Coutourea biseptata Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heyderia agariciphila Gamundí, 1977 SPECIES
-=======
+# Heyderia agariciphila Gamundí, 1977 SPECIES
 
 #### Status
 ACCEPTED

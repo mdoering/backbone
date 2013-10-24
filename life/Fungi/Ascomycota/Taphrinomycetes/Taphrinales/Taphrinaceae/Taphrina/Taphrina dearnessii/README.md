@@ -1,5 +1,4 @@
-Taphrina dearnessii Jenkins, 1939 SPECIES
-=======
+# Taphrina dearnessii Jenkins, 1939 SPECIES
 
 #### Status
 ACCEPTED

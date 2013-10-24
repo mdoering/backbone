@@ -1,5 +1,4 @@
-Frontonia angusta subsp. angusta SUBSPECIES
-=======
+# Frontonia angusta Kahl SPECIES
 
 #### Status
 ACCEPTED

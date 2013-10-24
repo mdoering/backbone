@@ -1,5 +1,4 @@
-Micromyces P.A. Dangeard, 1889 GENUS
-=======
+# Micromyces P.A. Dangeard, 1889 GENUS
 
 #### Status
 ACCEPTED

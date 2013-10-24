@@ -1,5 +1,4 @@
-Triposporium echeveriae Tassi SPECIES
-=======
+# Triposporium echeveriae Tassi SPECIES
 
 #### Status
 ACCEPTED

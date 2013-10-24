@@ -1,5 +1,4 @@
-Subsaximicrobium saxinquilinus Bowman & Nichols, 2005 SPECIES
-=======
+# Subsaximicrobium saxinquilinus Bowman & Nichols, 2005 SPECIES
 
 #### Status
 ACCEPTED

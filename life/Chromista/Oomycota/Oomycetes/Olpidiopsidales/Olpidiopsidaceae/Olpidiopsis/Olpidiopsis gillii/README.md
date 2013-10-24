@@ -1,5 +1,4 @@
-Olpidiopsis gillii (De Wild.) Friedmann SPECIES
-=======
+# Olpidiopsis gillii (De Wild.) Friedmann SPECIES
 
 #### Status
 ACCEPTED

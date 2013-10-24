@@ -1,5 +1,4 @@
-Gracilibacteraceae FAMILY
-=======
+# Gracilibacteraceae FAMILY
 
 #### Status
 ACCEPTED

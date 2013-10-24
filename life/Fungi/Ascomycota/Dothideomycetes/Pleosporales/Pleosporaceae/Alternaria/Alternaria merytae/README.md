@@ -1,5 +1,4 @@
-Alternaria merytae E.G. Simmons, 2002 SPECIES
-=======
+# Alternaria merytae E.G. Simmons, 2002 SPECIES
 
 #### Status
 ACCEPTED

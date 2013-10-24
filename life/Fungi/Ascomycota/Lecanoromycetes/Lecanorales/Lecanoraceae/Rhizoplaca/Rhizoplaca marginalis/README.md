@@ -1,5 +1,4 @@
-Rhizoplaca marginalis (Hasse) W. A. Weber SPECIES
-=======
+# Rhizoplaca marginalis (Hasse) W. A. Weber SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia bromi-maximi Guyot SPECIES
-=======
+# Puccinia bromi-maximi Guyot SPECIES
 
 #### Status
 ACCEPTED

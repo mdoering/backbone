@@ -1,5 +1,4 @@
-Savoryella aquatica K.D. Hyde, 1993 SPECIES
-=======
+# Savoryella aquatica K.D. Hyde, 1993 SPECIES
 
 #### Status
 ACCEPTED

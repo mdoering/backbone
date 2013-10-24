@@ -1,17 +1,16 @@
-Trichia synsporum Kowalski & McNichols SPECIES
-=======
+# Trichia varia (Pers. ex J.F. Gmel.) Pers., 1794 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Neues Mag. Bot. 1: 90 (1794)
 
 #### Original name
-Trichia synsporum Kowalski & McNichols
+Stemonitis varia Pers. ex J.F. Gmel., 1792
 
 ### Remarks
 null

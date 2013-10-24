@@ -1,5 +1,4 @@
-Leptosphaeria chusqueae Syd. SPECIES
-=======
+# Leptosphaeria chusqueae Syd. SPECIES
 
 #### Status
 ACCEPTED

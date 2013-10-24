@@ -1,5 +1,4 @@
-Endogonella borneensis Höhn. SPECIES
-=======
+# Endogonella borneensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

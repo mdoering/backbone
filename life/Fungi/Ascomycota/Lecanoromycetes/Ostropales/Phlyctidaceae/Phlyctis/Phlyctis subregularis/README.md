@@ -1,5 +1,4 @@
-Phlyctis subregularis Müll. Arg. SPECIES
-=======
+# Phlyctis subregularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

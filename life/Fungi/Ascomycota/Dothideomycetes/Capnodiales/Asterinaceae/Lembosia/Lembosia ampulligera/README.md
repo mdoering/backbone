@@ -1,5 +1,4 @@
-Lembosia ampulligera Speg. SPECIES
-=======
+# Lembosia ampulligera Speg. SPECIES
 
 #### Status
 ACCEPTED

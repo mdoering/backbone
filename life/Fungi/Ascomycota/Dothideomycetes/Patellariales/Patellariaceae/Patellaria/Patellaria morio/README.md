@@ -1,5 +1,4 @@
-Patellaria morio (Duby) SPECIES
-=======
+# Patellaria morio (Duby) SPECIES
 
 #### Status
 ACCEPTED

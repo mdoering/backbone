@@ -1,5 +1,4 @@
-Hebeloma corrugatum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma corrugatum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

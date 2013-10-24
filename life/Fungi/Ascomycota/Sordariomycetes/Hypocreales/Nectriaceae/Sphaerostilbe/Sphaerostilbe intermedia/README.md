@@ -1,5 +1,4 @@
-Sphaerostilbe intermedia Ferd. & Winge SPECIES
-=======
+# Sphaerostilbe intermedia Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

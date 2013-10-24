@@ -1,5 +1,4 @@
-Lecanora sideritis Tuck. SPECIES
-=======
+# Lecanora sideritis Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Oxneria gallowayii (S.Y. Kondr. & Kärnefelt) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Oxneria gallowayi (S.Y. Kondr. & Kärnefelt) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ukr. bot. Zh. 60(4): 431 (2003)
 
 #### Original name
 Xanthoria gallowayi S.Y. Kondr. & Kärnefelt

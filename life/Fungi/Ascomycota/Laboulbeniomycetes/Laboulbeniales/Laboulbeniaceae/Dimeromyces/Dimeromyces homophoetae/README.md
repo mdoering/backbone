@@ -1,5 +1,4 @@
-Dimeromyces homophoetae Thaxt. SPECIES
-=======
+# Dimeromyces homophoetae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

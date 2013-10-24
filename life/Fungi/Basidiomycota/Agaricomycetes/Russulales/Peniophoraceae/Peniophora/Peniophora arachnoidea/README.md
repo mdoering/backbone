@@ -1,5 +1,4 @@
-Peniophora arachnoidea Burt SPECIES
-=======
+# Peniophora arachnoidea Burt SPECIES
 
 #### Status
 ACCEPTED

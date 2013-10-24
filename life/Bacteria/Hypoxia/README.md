@@ -1,5 +1,4 @@
-Hypoxia GENUS
-=======
+# Hypoxia GENUS
 
 #### Status
 ACCEPTED

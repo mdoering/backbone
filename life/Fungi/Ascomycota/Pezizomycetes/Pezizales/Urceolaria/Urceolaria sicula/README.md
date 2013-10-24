@@ -1,5 +1,4 @@
-Urceolaria sicula Jatta SPECIES
-=======
+# Urceolaria sicula Jatta SPECIES
 
 #### Status
 ACCEPTED

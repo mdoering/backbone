@@ -1,17 +1,16 @@
-Penicillium lavandulum Raper & Fennell SPECIES
-=======
+# Geosmithia lavendula (Raper & Fennell) Pitt, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 57(19): 2022 (1979)
 
 #### Original name
-Penicillium lavandulum Raper & Fennell
+Penicillium lavendulum Raper & Fennell
 
 ### Remarks
 null

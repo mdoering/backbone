@@ -1,5 +1,4 @@
-Rhytidenglerula trematicola Castl., J.L. Crane & Huhndorf SPECIES
-=======
+# Rhytidenglerula trematicola Castl., J.L. Crane & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletinus floridanus Murrill SPECIES
-=======
+# Boletinus floridanus Murrill SPECIES
 
 #### Status
 ACCEPTED

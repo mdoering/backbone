@@ -1,5 +1,4 @@
-Cryptosporiopsis propinqua (Sacc., E. Bommer & M. Rousseau) Petr. SPECIES
-=======
+# Cryptosporiopsis propinqua (Sacc., E. Bommer & M. Rousseau) Petr. SPECIES
 
 #### Status
 ACCEPTED

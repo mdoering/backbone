@@ -1,5 +1,4 @@
-Leucoporus xalapensis (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Leucoporus xalapensis (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

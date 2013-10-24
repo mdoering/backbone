@@ -1,5 +1,4 @@
-Cantharellus sphaerosporus Peck SPECIES
-=======
+# Cantharellus sphaerosporus Peck SPECIES
 
 #### Status
 ACCEPTED

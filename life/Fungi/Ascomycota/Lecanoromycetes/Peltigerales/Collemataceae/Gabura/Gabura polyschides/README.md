@@ -1,5 +1,4 @@
-Gabura polyschides (Mont.) Kuntze SPECIES
-=======
+# Gabura polyschides (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton leucolytum (Nyl.) Zahlbr. SPECIES
-=======
+# Chiodecton leucolytum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

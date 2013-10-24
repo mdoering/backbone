@@ -1,5 +1,4 @@
-Myxosporium phellodendri Negru SPECIES
-=======
+# Myxosporium phellodendri Negru SPECIES
 
 #### Status
 ACCEPTED

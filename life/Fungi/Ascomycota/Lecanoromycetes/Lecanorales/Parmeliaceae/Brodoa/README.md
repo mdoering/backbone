@@ -1,5 +1,4 @@
-Brodoa Goward GENUS
-=======
+# Brodoa Goward GENUS
 
 #### Status
 ACCEPTED

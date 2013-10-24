@@ -1,5 +1,4 @@
-Papulaspora sporotrichioides Hotson SPECIES
-=======
+# Papulaspora sporotrichioides Hotson SPECIES
 
 #### Status
 ACCEPTED

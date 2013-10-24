@@ -1,5 +1,4 @@
-Cercospora puttemansii Henn. SPECIES
-=======
+# Cercospora puttemansii Henn. SPECIES
 
 #### Status
 ACCEPTED

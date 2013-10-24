@@ -1,5 +1,4 @@
-Parmelia polita Fr. SPECIES
-=======
+# Parmelia polita Fr. SPECIES
 
 #### Status
 ACCEPTED

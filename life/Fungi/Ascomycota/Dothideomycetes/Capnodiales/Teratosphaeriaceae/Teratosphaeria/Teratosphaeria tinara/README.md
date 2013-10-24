@@ -1,5 +1,4 @@
-Teratosphaeria tinara Andjic & T. Burgess, 2010 SPECIES
-=======
+# Teratosphaeria tinara Andjic & T. Burgess, 2010 SPECIES
 
 #### Status
 ACCEPTED

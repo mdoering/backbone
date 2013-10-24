@@ -1,5 +1,4 @@
-Megalospora disjuncta Sipman SPECIES
-=======
+# Megalospora disjuncta Sipman SPECIES
 
 #### Status
 ACCEPTED

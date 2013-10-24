@@ -1,5 +1,4 @@
-Endococcus pseudocyphellariae Etayo, 2008 SPECIES
-=======
+# Endococcus pseudocyphellariae Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

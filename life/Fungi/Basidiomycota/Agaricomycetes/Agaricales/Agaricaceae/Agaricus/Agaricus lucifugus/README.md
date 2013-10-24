@@ -1,5 +1,4 @@
-Agaricus lucifugus Fr. SPECIES
-=======
+# Agaricus lucifugus Fr. SPECIES
 
 #### Status
 ACCEPTED

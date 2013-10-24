@@ -1,5 +1,4 @@
-Chitonomyces argentinensis Speg. SPECIES
-=======
+# Chitonomyces argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

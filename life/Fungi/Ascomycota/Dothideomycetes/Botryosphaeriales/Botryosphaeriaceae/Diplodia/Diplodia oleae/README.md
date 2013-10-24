@@ -1,5 +1,4 @@
-Diplodia oleae Peglion, 1894 SPECIES
-=======
+# Diplodia oleae Peglion, 1894 SPECIES
 
 #### Status
 ACCEPTED

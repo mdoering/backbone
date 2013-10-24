@@ -1,5 +1,4 @@
-Codinaeopsis Morgan-Jones GENUS
-=======
+# Codinaeopsis Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria camerunensis K.R. Appel & Strunk, 1904 SPECIES
-=======
+# Nectria camerunensis K.R. Appel & Strunk, 1904 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omalophyma I.N. Golub in B.S. Sokolov, 1979 GENUS
-=======
+# Omalophyma I.N. Golub in B.S. Sokolov, 1979 GENUS
 
 #### Status
 ACCEPTED

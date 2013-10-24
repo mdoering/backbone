@@ -1,5 +1,4 @@
-Shorikhosphaeridium Sergeev, 2001 GENUS
-=======
+# Shorikhosphaeridium Sergeev, 2001 GENUS
 
 #### Status
 ACCEPTED

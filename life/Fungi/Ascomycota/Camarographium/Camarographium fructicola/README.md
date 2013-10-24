@@ -1,5 +1,4 @@
-Camarographium fructicola Frolov SPECIES
-=======
+# Camarographium fructicola Frolov SPECIES
 
 #### Status
 ACCEPTED

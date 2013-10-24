@@ -1,5 +1,4 @@
-Arthotheliopsis floridensis Lücking & W.R. Buck SPECIES
-=======
+# Arthotheliopsis floridensis Lücking & W.R. Buck SPECIES
 
 #### Status
 ACCEPTED

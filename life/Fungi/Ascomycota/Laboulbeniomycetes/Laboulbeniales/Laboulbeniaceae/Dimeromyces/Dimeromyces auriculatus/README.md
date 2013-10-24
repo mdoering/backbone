@@ -1,5 +1,4 @@
-Dimeromyces auriculatus Thaxt. SPECIES
-=======
+# Dimeromyces auriculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Obandyella Hainan, Huddleston & Donahue, 1981 GENUS
-=======
+# Obandyella Hainan, Huddleston & Donahue, 1981 GENUS
 
 #### Status
 ACCEPTED

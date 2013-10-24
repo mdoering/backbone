@@ -1,5 +1,4 @@
-Cortinarius paludicola M.M. Moser, 1975 SPECIES
-=======
+# Cortinarius paludicola M.M. Moser, 1975 SPECIES
 
 #### Status
 ACCEPTED

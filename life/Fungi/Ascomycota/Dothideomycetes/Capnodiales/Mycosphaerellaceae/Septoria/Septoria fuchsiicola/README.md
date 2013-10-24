@@ -1,5 +1,4 @@
-Septoria fuchsiicola P. Syd., 1899 SPECIES
-=======
+# Septoria fuchsiicola P. Syd., 1899 SPECIES
 
 #### Status
 ACCEPTED

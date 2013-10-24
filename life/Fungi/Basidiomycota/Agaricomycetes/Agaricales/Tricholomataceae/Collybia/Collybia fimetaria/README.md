@@ -1,5 +1,4 @@
-Collybia fimetaria (Murrill) Murrill SPECIES
-=======
+# Collybia fimetaria (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

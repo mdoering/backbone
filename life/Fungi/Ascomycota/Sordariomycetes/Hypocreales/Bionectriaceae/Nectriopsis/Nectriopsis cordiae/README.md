@@ -1,5 +1,4 @@
-Nectriopsis cordiae (Rehm) Samuels SPECIES
-=======
+# Nectriopsis cordiae (Rehm) Samuels SPECIES
 
 #### Status
 ACCEPTED

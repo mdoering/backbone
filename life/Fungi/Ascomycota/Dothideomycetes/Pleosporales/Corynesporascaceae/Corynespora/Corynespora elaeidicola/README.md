@@ -1,5 +1,4 @@
-Corynespora elaeidicola M.B. Ellis SPECIES
-=======
+# Corynespora elaeidicola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

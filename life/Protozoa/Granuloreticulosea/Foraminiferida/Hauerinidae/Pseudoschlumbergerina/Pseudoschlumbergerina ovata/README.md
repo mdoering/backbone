@@ -1,8 +1,7 @@
-Sigmoilina ovata Sidebottom, 1904 SPECIES
-=======
+# Pseudoschlumbergerina ovata (Sidebottom, 1904) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Parmotrema laciniellum (L. I. Ferraro & Elix) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
-=======
+# Parmotrema laciniellum (L. I. Ferraro & Elix) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

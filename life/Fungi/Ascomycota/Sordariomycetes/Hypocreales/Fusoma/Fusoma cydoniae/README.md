@@ -1,5 +1,4 @@
-Fusoma cydoniae Schulzer SPECIES
-=======
+# Fusoma cydoniae Schulzer SPECIES
 
 #### Status
 ACCEPTED

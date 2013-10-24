@@ -1,5 +1,4 @@
-Cothurnopsis bavarica SPECIES
-=======
+# Cothurnopsis bavarica SPECIES
 
 #### Status
 ACCEPTED

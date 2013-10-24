@@ -1,5 +1,4 @@
-Anisomeridium verrucosum (Makhija & Patw.) R. C. Harris SPECIES
-=======
+# Anisomeridium verrucosum (Makhija & Patw.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

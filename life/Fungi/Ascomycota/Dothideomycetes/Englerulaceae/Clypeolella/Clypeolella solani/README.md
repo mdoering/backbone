@@ -1,5 +1,4 @@
-Clypeolella solani Theiss. SPECIES
-=======
+# Clypeolella solani Theiss. SPECIES
 
 #### Status
 ACCEPTED

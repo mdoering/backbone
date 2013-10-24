@@ -1,5 +1,4 @@
-Phyllachora piptocarphae Petr., 1948 SPECIES
-=======
+# Phyllachora piptocarphae Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

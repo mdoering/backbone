@@ -1,5 +1,4 @@
-Diplodia micheliae Henn. SPECIES
-=======
+# Diplodia micheliae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula cerolens Shaffer SPECIES
-=======
+# Russula cerolens Shaffer SPECIES
 
 #### Status
 ACCEPTED

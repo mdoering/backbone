@@ -1,5 +1,4 @@
-Phylloporus carmineus Heinem. SPECIES
-=======
+# Phylloporus carmineus Heinem. SPECIES
 
 #### Status
 ACCEPTED

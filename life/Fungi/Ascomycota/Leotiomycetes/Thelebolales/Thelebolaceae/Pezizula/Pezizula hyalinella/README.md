@@ -1,5 +1,4 @@
-Pezizula hyalinella P. Karst. SPECIES
-=======
+# Pezizula hyalinella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

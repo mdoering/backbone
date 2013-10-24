@@ -1,5 +1,4 @@
-Polyporellus liturarius (Berk. & M.A. Curtis) P. Karst. SPECIES
-=======
+# Polyporellus liturarius (Berk. & M.A. Curtis) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

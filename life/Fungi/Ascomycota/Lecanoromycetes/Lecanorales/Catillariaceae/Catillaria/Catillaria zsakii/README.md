@@ -1,5 +1,4 @@
-Catillaria zsakii Szatala SPECIES
-=======
+# Catillaria zsakii Szatala SPECIES
 
 #### Status
 ACCEPTED

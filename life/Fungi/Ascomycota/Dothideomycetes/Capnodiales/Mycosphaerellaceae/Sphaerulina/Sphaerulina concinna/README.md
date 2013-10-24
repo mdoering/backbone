@@ -1,5 +1,4 @@
-Sphaerulina concinna Syd. SPECIES
-=======
+# Sphaerulina concinna Syd. SPECIES
 
 #### Status
 ACCEPTED

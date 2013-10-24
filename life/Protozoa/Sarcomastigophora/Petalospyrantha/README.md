@@ -1,5 +1,4 @@
-Petalospyrantha Haeckel, 1887 GENUS
-=======
+# Petalospyrantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

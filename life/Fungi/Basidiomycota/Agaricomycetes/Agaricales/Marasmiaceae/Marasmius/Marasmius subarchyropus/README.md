@@ -1,5 +1,4 @@
-Marasmius subarchyropus Murrill SPECIES
-=======
+# Marasmius subarchyropus Murrill SPECIES
 
 #### Status
 ACCEPTED

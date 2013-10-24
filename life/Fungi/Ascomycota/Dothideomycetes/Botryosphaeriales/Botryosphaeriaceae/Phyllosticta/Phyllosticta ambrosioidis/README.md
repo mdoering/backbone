@@ -1,5 +1,4 @@
-Phyllosticta ambrosioidis f. ambrosioidis FORM
-=======
+# Phyllosticta ambrosioidis Thüm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Contrib. Flor. Mycol. Lusitan. no. 592 (1879)
 
 #### Original name
-Phyllosticta ambrosioidis f. ambrosioidis
+Phyllosticta ambrosioidis Thüm.
 
 ### Remarks
 null

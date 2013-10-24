@@ -1,5 +1,4 @@
-Cladochaete coronata T.E.T. Bond SPECIES
-=======
+# Cladochaete coronata T.E.T. Bond SPECIES
 
 #### Status
 ACCEPTED

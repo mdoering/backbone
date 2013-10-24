@@ -1,5 +1,4 @@
-Lecanora septella Nyl. SPECIES
-=======
+# Lecanora septella Nyl. SPECIES
 
 #### Status
 ACCEPTED

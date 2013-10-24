@@ -1,14 +1,13 @@
-Plethysyrinx W.A.S. Sarjeant, 1981 GENUS
-=======
+# Disphaerogena D.Wetzel, 1933 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Meyniana 33: 106.
+null
 
 #### Original name
 null

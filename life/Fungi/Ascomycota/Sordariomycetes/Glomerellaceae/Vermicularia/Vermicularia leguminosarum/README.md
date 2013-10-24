@@ -1,5 +1,4 @@
-Vermicularia leguminosarum Petr. SPECIES
-=======
+# Vermicularia leguminosarum Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius ionipus E. Horak SPECIES
-=======
+# Cortinarius ionipus E. Horak SPECIES
 
 #### Status
 ACCEPTED

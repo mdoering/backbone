@@ -1,5 +1,4 @@
-Bulbithecium hyalosporum Udagawa & T. Muroi, 1990 SPECIES
-=======
+# Bulbithecium hyalosporum Udagawa & T. Muroi, 1990 SPECIES
 
 #### Status
 ACCEPTED

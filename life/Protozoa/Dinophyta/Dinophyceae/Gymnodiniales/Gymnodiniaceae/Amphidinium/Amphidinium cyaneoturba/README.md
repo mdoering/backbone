@@ -1,5 +1,4 @@
-Amphidinium cyaneoturba Conrad & Kufferath, 1954 SPECIES
-=======
+# Amphidinium cyaneoturba Conrad & Kufferath, 1954 SPECIES
 
 #### Status
 ACCEPTED

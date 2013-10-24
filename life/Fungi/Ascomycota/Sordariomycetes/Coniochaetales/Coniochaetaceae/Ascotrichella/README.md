@@ -1,5 +1,4 @@
-Ascotrichella Valldos. & Guarro GENUS
-=======
+# Ascotrichella Valldos. & Guarro GENUS
 
 #### Status
 ACCEPTED

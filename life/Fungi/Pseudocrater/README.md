@@ -1,5 +1,4 @@
-Pseudocrater GENUS
-=======
+# Pseudocrater GENUS
 
 #### Status
 ACCEPTED

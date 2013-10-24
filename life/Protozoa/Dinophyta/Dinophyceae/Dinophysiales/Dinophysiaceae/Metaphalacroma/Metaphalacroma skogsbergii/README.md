@@ -1,5 +1,4 @@
-Metaphalacroma skogsbergii Tai SPECIES
-=======
+# Metaphalacroma skogsbergii Tai SPECIES
 
 #### Status
 ACCEPTED

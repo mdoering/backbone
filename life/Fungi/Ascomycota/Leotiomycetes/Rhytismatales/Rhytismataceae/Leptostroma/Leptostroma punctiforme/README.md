@@ -1,5 +1,4 @@
-Leptostroma punctiforme Wallr. SPECIES
-=======
+# Leptostroma punctiforme Wallr. SPECIES
 
 #### Status
 ACCEPTED

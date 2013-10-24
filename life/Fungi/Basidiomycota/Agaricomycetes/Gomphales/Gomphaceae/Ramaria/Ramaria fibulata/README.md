@@ -1,5 +1,4 @@
-Ramaria fibulata (R.H. Petersen) R.H. Petersen SPECIES
-=======
+# Ramaria fibulata (R.H. Petersen) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

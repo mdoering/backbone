@@ -1,5 +1,4 @@
-Rhynchonympha Cleveland, Hall, Sanders & Collier, 1934 GENUS
-=======
+# Rhynchonympha Cleveland, Hall, Sanders & Collier, 1934 GENUS
 
 #### Status
 ACCEPTED

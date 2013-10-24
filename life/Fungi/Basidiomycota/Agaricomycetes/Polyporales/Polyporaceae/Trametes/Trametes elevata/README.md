@@ -1,5 +1,4 @@
-Trametes elevata Corner SPECIES
-=======
+# Trametes elevata Corner SPECIES
 
 #### Status
 ACCEPTED

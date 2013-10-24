@@ -1,5 +1,4 @@
-Microthelia erumpens (Berk. & M.A. Curtis) Speg. SPECIES
-=======
+# Microthelia erumpens (Berk. & M.A. Curtis) Speg. SPECIES
 
 #### Status
 ACCEPTED

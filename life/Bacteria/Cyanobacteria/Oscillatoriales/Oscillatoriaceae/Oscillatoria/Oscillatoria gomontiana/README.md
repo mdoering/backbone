@@ -1,5 +1,4 @@
-Oscillatoria gomontiana var. crassa (A. B. Gupta) B. Tracanna VARIETY
-=======
+# Oscillatoria gomontiana (Setchell) B. Tracanna SPECIES
 
 #### Status
 ACCEPTED

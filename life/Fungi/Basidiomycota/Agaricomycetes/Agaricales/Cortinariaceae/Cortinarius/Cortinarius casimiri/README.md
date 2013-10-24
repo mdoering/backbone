@@ -1,17 +1,16 @@
-Cortinarius casimiri var. hoffmannii (Reumaux) Suár.-Sant. & A. Ortega, 2009 VARIETY
-=======
+# Cortinarius casimiri (Velen.) Huijsman, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungus, Wageningen 25: 20 (1955)
 
 #### Original name
-null
+Telamonia casimiri Velen., 1921
 
 ### Remarks
 null

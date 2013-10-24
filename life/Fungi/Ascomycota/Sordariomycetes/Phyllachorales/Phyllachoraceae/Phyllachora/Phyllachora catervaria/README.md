@@ -1,17 +1,16 @@
-Phyllachora topographica Sacc., 1899 SPECIES
-=======
+# Phyllachora catervaria (Berk.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 14(2): 669 (1899)
+Syll. fung. (Abellini) 2: 598 (1883)
 
 #### Original name
-Phyllachora topographica Sacc., 1899
+Dothidea repens var. catervaria Berk., 1854
 
 ### Remarks
 null

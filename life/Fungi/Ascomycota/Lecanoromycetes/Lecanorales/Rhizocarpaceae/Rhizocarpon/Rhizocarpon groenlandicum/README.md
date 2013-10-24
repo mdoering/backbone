@@ -1,5 +1,4 @@
-Rhizocarpon groenlandicum SPECIES
-=======
+# Rhizocarpon groenlandicum SPECIES
 
 #### Status
 ACCEPTED

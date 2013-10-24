@@ -1,5 +1,4 @@
-Umbelopsis gibberispora M. Sugiy., Tokum. & W. Gams, 2003 SPECIES
-=======
+# Umbelopsis gibberispora M. Sugiy., Tokum. & W. Gams, 2003 SPECIES
 
 #### Status
 ACCEPTED

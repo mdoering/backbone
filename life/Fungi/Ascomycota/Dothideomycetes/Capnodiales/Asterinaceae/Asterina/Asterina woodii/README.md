@@ -1,5 +1,4 @@
-Asterina woodii Doidge SPECIES
-=======
+# Asterina woodii Doidge SPECIES
 
 #### Status
 ACCEPTED

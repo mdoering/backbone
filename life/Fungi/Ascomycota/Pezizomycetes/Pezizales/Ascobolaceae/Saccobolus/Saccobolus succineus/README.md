@@ -1,5 +1,4 @@
-Saccobolus succineus Brumm. SPECIES
-=======
+# Saccobolus succineus Brumm. SPECIES
 
 #### Status
 ACCEPTED

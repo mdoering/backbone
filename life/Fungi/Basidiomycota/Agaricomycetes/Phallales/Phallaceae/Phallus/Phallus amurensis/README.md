@@ -1,5 +1,4 @@
-Phallus amurensis (Jacz.) Pilát SPECIES
-=======
+# Phallus amurensis (Jacz.) Pilát SPECIES
 
 #### Status
 ACCEPTED

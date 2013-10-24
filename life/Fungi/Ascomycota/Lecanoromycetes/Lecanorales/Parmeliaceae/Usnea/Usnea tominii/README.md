@@ -1,5 +1,4 @@
-Usnea tominii Räsänen SPECIES
-=======
+# Usnea tominii Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hapterophycus W.A. Setchell & N.L. Gardner in W.A. Setchell, 1912 GENUS
-=======
+# Hapterophycus W.A. Setchell & N.L. Gardner in W.A. Setchell, 1912 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina peloleucoides A.L. Sm. SPECIES
-=======
+# Rinodina peloleucoides A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tomentella tulasnelloidea (Höhn. & Litsch.) Skovst., 1950 SPECIES
-=======
+# Xenasma tulasnelloideum (Höhn. & Litsch.) Donk, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compt. Rend. Lab. Carlsb. , Sér. Physiol. 25: 14 (1950)
+Fungus, Wageningen 27: 26 (1957)
 
 #### Original name
 Corticium tulasnelloideum Höhn. & Litsch., 1908

@@ -1,5 +1,4 @@
-Buellia pinicola S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Buellia pinicola S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

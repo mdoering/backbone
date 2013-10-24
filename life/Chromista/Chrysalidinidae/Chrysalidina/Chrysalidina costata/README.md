@@ -1,5 +1,4 @@
-Chrysalidina costata Heron-Allen & Earland, 1924 SPECIES
-=======
+# Chrysalidina costata Heron-Allen & Earland, 1924 SPECIES
 
 #### Status
 ACCEPTED

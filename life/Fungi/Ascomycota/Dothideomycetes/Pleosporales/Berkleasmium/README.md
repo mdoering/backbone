@@ -1,5 +1,4 @@
-Berkleasmium Zobel GENUS
-=======
+# Berkleasmium Zobel GENUS
 
 #### Status
 ACCEPTED

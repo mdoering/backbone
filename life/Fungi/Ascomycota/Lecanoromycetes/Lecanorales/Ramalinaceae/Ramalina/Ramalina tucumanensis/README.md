@@ -1,5 +1,4 @@
-Ramalina tucumanensis Räsänen SPECIES
-=======
+# Ramalina tucumanensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

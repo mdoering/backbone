@@ -1,5 +1,4 @@
-Dicellaesporites keralensis P. Kumar SPECIES
-=======
+# Dicellaesporites keralensis P. Kumar SPECIES
 
 #### Status
 ACCEPTED

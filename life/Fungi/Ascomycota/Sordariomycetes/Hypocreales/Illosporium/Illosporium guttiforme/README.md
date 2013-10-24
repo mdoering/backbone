@@ -1,5 +1,4 @@
-Illosporium guttiforme Speg., 1880 SPECIES
-=======
+# Illosporium guttiforme Speg., 1880 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhachomyces schweitzeri Balazuc SPECIES
-=======
+# Rhachomyces schweitzeri Balazuc SPECIES
 
 #### Status
 ACCEPTED

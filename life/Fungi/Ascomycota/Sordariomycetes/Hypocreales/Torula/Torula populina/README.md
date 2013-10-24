@@ -1,5 +1,4 @@
-Torula populina Peck SPECIES
-=======
+# Torula populina Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus hyperici (Rabenh.) Sacc. SPECIES
-=======
+# Ophiobolus hyperici (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

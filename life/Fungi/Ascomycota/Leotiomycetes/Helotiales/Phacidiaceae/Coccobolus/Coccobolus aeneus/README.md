@@ -1,5 +1,4 @@
-Coccobolus aeneus Wallr. SPECIES
-=======
+# Coccobolus aeneus Wallr. SPECIES
 
 #### Status
 ACCEPTED

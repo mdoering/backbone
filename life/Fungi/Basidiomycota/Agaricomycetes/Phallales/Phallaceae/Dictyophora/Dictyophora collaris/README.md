@@ -1,5 +1,4 @@
-Dictyophora collaris (Cragin) De Toni SPECIES
-=======
+# Dictyophora collaris (Cragin) De Toni SPECIES
 
 #### Status
 ACCEPTED

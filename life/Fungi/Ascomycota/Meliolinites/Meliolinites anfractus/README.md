@@ -1,5 +1,4 @@
-Meliolinites anfractus Kalgutkar & Janson. SPECIES
-=======
+# Meliolinites anfractus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

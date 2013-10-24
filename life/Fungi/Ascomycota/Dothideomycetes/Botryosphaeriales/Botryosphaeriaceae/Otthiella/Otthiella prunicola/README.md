@@ -1,5 +1,4 @@
-Otthiella prunicola (Fautrey) Keissl. SPECIES
-=======
+# Otthiella prunicola (Fautrey) Keissl. SPECIES
 
 #### Status
 ACCEPTED

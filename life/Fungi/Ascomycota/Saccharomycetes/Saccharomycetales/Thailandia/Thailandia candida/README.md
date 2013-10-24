@@ -1,5 +1,4 @@
-Thailandia candida Vardhan. SPECIES
-=======
+# Thailandia candida Vardhan. SPECIES
 
 #### Status
 ACCEPTED

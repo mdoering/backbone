@@ -1,5 +1,4 @@
-Mycena murinacea Métrod SPECIES
-=======
+# Mycena murinacea Métrod SPECIES
 
 #### Status
 ACCEPTED

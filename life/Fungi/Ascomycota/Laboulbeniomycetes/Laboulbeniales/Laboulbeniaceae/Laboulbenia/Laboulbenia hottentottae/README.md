@@ -1,5 +1,4 @@
-Laboulbenia hottentottae Thaxt. SPECIES
-=======
+# Laboulbenia hottentottae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplotrichum confervinum (Wallr.) Rabenh. SPECIES
-=======
+# Haplotrichum confervinum (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptococcus minor Vancanneyt et al., 2004 SPECIES
-=======
+# Streptococcus minor Vancanneyt et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis cydoniae (Schulzer) Sacc. & Traverso SPECIES
-=======
+# Phomopsis cydoniae (Schulzer) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

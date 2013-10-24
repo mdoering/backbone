@@ -1,5 +1,4 @@
-Lecanora rhagadiosa Ach. SPECIES
-=======
+# Lecanora rhagadiosa Ach. SPECIES
 
 #### Status
 ACCEPTED

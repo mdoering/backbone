@@ -1,5 +1,4 @@
-Dothidasteromella hansfordii Bat. SPECIES
-=======
+# Dothidasteromella hansfordii Bat. SPECIES
 
 #### Status
 ACCEPTED

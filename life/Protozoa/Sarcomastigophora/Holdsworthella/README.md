@@ -1,5 +1,4 @@
-Holdsworthella Kozur, 1981 GENUS
-=======
+# Holdsworthella Kozur, 1981 GENUS
 
 #### Status
 ACCEPTED

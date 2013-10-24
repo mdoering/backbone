@@ -1,5 +1,4 @@
-Scutellospora striata Cuenca & R.A. Herrera SPECIES
-=======
+# Scutellospora striata Cuenca & R.A. Herrera SPECIES
 
 #### Status
 ACCEPTED

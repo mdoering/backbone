@@ -1,8 +1,7 @@
-Deleya venusta (Baumann et al., 1972) Baumann et al., 1983 SPECIES
-=======
+# Halomonas venusta (Baumann et al., 1972) Dobson & Franzmann, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

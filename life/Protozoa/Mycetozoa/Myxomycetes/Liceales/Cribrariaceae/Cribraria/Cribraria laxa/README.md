@@ -1,5 +1,4 @@
-Cribraria laxa Hagelst., 1929 SPECIES
-=======
+# Cribraria laxa Hagelst., 1929 SPECIES
 
 #### Status
 ACCEPTED

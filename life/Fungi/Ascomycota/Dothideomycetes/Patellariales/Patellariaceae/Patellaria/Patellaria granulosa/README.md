@@ -1,5 +1,4 @@
-Patellaria granulosa Michx. SPECIES
-=======
+# Patellaria granulosa Michx. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microthyris maculans (Zopf) Clem., 1931 SPECIES
-=======
+# Lichenopeltella maculans (Zopf) Höhn., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fung. (Minneapolis) 302 (1931)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 128(7-8): 553 (1919)
 
 #### Original name
 Microthyrium maculans Zopf, 1898

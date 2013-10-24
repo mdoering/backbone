@@ -1,5 +1,4 @@
-Arthonia ambiguella Nyl. SPECIES
-=======
+# Arthonia ambiguella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo jonesii Peck SPECIES
-=======
+# Uredo jonesii Peck SPECIES
 
 #### Status
 ACCEPTED

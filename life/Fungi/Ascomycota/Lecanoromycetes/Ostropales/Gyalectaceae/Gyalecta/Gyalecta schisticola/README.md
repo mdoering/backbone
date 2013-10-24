@@ -1,5 +1,4 @@
-Gyalecta schisticola Werner SPECIES
-=======
+# Gyalecta schisticola Werner SPECIES
 
 #### Status
 ACCEPTED

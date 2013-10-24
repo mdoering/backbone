@@ -1,5 +1,4 @@
-Omphalina galericolor var. galericolor VARIETY
-=======
+# Omphalina galericolor (Romagn.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 5(no. 19): 22 (1975)
+null
 
 #### Original name
-Omphalina galericolor var. galericolor
+null
 
 ### Remarks
 null

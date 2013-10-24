@@ -1,5 +1,4 @@
-Niptera polygoni Rehm SPECIES
-=======
+# Niptera polygoni Rehm SPECIES
 
 #### Status
 ACCEPTED

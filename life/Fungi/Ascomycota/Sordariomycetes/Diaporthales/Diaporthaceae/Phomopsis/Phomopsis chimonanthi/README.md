@@ -1,5 +1,4 @@
-Phomopsis chimonanthi C.Q. Chang, M.M. Xiang & P.K. Chi SPECIES
-=======
+# Phomopsis chimonanthi C.Q. Chang, M.M. Xiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

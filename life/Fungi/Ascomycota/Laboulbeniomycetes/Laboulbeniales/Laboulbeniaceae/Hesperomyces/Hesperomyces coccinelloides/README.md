@@ -1,5 +1,4 @@
-Hesperomyces coccinelloides Thaxt. SPECIES
-=======
+# Hesperomyces coccinelloides Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium mararyense Henn. SPECIES
-=======
+# Aecidium mararyense Henn. SPECIES
 
 #### Status
 ACCEPTED

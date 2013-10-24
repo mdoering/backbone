@@ -1,5 +1,4 @@
-Hendersonia gummicola Vouaux SPECIES
-=======
+# Hendersonia gummicola Vouaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria cadubriae Sacc. SPECIES
-=======
+# Didymosphaeria cadubriae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia caulicola Lév. SPECIES
-=======
+# Pestalotia caulicola Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Niebla versiforma Spjut SPECIES
-=======
+# Niebla versiformis Spjut SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sida, Bot. Misc. 14: 151 (1996)
 
 #### Original name
-Niebla versiforma Spjut
+Niebla versiformis Spjut
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Treponema lecithinolyticum Wyss et al., 1999 SPECIES
-=======
+# Treponema lecithinolyticum Wyss et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

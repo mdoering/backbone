@@ -1,5 +1,4 @@
-Nephromopsis kurokawae (Shibuichi & K. Yoshida) Kurok. SPECIES
-=======
+# Nephromopsis kurokawae (Shibuichi & K. Yoshida) Kurok. SPECIES
 
 #### Status
 ACCEPTED

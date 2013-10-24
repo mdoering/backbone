@@ -1,5 +1,4 @@
-Perenniporia cystidiata Y.C. Dai, W.N. Chou & Sheng H. Wu SPECIES
-=======
+# Perenniporia cystidiata Y.C. Dai, W.N. Chou & Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ehrenbergina pupa SPECIES
-=======
+# Ehrenbergina pupa SPECIES
 
 #### Status
 ACCEPTED

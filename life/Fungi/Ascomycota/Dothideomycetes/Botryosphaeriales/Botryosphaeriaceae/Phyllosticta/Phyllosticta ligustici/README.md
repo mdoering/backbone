@@ -1,5 +1,4 @@
-Phyllosticta ligustici Koval SPECIES
-=======
+# Phyllosticta ligustici Koval SPECIES
 
 #### Status
 ACCEPTED

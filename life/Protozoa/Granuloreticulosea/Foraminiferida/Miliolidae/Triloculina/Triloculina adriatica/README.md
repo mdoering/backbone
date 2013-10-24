@@ -1,5 +1,4 @@
-Triloculina adriatica Le Calvez, J. & Y., 1958 SPECIES
-=======
+# Triloculina adriatica Le Calvez, J. & Y., 1958 SPECIES
 
 #### Status
 ACCEPTED

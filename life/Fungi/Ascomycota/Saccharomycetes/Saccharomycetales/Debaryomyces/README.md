@@ -1,5 +1,4 @@
-Debaryomyces Lodder & Kreger ex Kreger, 1984 GENUS
-=======
+# Debaryomyces Lodder & Kreger ex Kreger, 1984 GENUS
 
 #### Status
 ACCEPTED

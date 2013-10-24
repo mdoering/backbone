@@ -1,14 +1,13 @@
-Ustilago scolymi Roum. & Trab., 1890 SPECIES
-=======
+# Microbotryum scolymi (Roum. & Trab. ex Juel) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Roumeguère, Fung. Sel. Exs. no. 5129 (1890)
+Mycotaxon 67: 50 (1998)
 
 #### Original name
 Ustilago scolymi Roum. & Trab., 1890

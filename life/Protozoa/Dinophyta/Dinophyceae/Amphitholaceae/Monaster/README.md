@@ -1,5 +1,4 @@
-Monaster Schütt, 1895 GENUS
-=======
+# Monaster Schütt, 1895 GENUS
 
 #### Status
 ACCEPTED

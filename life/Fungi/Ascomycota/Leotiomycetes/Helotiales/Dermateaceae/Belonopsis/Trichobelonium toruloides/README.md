@@ -1,5 +1,4 @@
-Trichobelonium toruloides Rehm SPECIES
-=======
+# Trichobelonium toruloides Rehm SPECIES
 
 #### Status
 ACCEPTED

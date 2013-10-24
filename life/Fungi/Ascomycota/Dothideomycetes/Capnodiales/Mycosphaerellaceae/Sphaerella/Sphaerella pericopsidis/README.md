@@ -1,5 +1,4 @@
-Sphaerella pericopsidis (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaerella pericopsidis (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeostroma Theiss. & Syd. GENUS
-=======
+# Clypeostroma Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

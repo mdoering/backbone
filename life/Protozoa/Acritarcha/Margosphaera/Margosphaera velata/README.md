@@ -1,5 +1,4 @@
-Margosphaera velata Nagy, 1965 SPECIES
-=======
+# Margosphaera velata Nagy, 1965 SPECIES
 
 #### Status
 ACCEPTED

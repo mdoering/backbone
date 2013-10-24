@@ -1,5 +1,4 @@
-Psathyrella delineata (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella delineata (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

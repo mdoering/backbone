@@ -1,5 +1,4 @@
-Pyricularia sphaerulata Zucconi & Onofri SPECIES
-=======
+# Pyricularia sphaerulata Zucconi & Onofri SPECIES
 
 #### Status
 ACCEPTED

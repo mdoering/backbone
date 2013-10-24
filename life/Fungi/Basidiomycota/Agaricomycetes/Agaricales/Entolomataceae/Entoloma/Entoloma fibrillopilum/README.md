@@ -1,5 +1,4 @@
-Entoloma fibrillopilum Largent SPECIES
-=======
+# Entoloma fibrillopilum Largent SPECIES
 
 #### Status
 ACCEPTED

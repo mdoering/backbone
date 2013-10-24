@@ -1,5 +1,4 @@
-Haptoglossa heteromorpha Glockling & Beakes, 2000 SPECIES
-=======
+# Haptoglossa heteromorpha Glockling & Beakes, 2000 SPECIES
 
 #### Status
 ACCEPTED

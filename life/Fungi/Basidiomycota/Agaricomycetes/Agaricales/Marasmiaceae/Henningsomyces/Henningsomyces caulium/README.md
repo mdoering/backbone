@@ -1,5 +1,4 @@
-Henningsomyces caulium (Fuckel) Kuntze SPECIES
-=======
+# Henningsomyces caulium (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

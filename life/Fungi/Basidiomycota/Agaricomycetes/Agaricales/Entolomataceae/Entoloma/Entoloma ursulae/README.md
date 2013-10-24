@@ -1,5 +1,4 @@
-Entoloma ursulae Noordel., Wölfel & Hauskn. SPECIES
-=======
+# Entoloma ursulae Noordel., Wölfel & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

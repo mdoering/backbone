@@ -1,5 +1,4 @@
-Paramecium tetraurelia SPECIES
-=======
+# Paramecium tetraurelia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora barbareae (Sacc.) Mussat SPECIES
-=======
+# Cercospora barbareae (Sacc.) Mussat SPECIES
 
 #### Status
 ACCEPTED

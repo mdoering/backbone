@@ -1,5 +1,4 @@
-Odontia sobolewskii (Weinm.) Rick SPECIES
-=======
+# Odontia sobolewskii (Weinm.) Rick SPECIES
 
 #### Status
 ACCEPTED

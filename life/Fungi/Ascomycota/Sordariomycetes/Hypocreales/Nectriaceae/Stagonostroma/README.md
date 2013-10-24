@@ -1,5 +1,4 @@
-Stagonostroma GENUS
-=======
+# Stagonostroma GENUS
 
 #### Status
 ACCEPTED

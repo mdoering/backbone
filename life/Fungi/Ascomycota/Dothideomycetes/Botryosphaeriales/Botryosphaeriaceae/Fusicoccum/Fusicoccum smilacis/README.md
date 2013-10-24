@@ -1,5 +1,4 @@
-Fusicoccum smilacis Woron. SPECIES
-=======
+# Fusicoccum smilacis Woron. SPECIES
 
 #### Status
 ACCEPTED

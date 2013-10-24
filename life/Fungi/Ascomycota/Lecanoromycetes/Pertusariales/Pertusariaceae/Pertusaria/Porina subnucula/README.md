@@ -1,5 +1,4 @@
-Porina subnucula Lumbsch, Lücking & Vezda, 1998 SPECIES
-=======
+# Porina subnucula Lumbsch, Lücking & Vezda, 1998 SPECIES
 
 #### Status
 DOUBTFUL

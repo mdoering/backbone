@@ -1,5 +1,4 @@
-Arabisphaera mosquensis (Naumova & Byvsheva in Byvsheva, 1967) Byvsheva, 1985 SPECIES
-=======
+# Arabisphaera mosquensis (Naumova & Byvsheva in Byvsheva, 1967) Byvsheva, 1985 SPECIES
 
 #### Status
 ACCEPTED

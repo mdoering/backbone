@@ -1,5 +1,4 @@
-Erysiphe miyabei (E.S. Salmon) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe miyabei (E.S. Salmon) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

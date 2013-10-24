@@ -1,5 +1,4 @@
-Chodatia E. Kol, 1934 GENUS
-=======
+# Chodatia E. Kol, 1934 GENUS
 
 #### Status
 ACCEPTED

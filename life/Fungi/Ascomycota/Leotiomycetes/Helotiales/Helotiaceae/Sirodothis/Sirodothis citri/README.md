@@ -1,5 +1,4 @@
-Sirodothis citri Bat. SPECIES
-=======
+# Sirodothis citri Bat. SPECIES
 
 #### Status
 ACCEPTED

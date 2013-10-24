@@ -1,5 +1,4 @@
-Boletus oksapminensis Hongo SPECIES
-=======
+# Boletus oksapminensis Hongo SPECIES
 
 #### Status
 ACCEPTED

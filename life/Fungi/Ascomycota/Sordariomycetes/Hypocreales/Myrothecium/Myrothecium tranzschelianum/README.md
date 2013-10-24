@@ -1,17 +1,16 @@
-Myrothecium transchelianum Zerova & Tropova SPECIES
-=======
+# Myrothecium tranzschelianum Zerova & Tropova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Zerova, Zh. bio. -bot. Tsyklu, Kyev. , 1933 158 (1933)
 
 #### Original name
-Myrothecium transchelianum Zerova & Tropova
+Myrothecium tranzschelianum Zerova & Tropova
 
 ### Remarks
 null

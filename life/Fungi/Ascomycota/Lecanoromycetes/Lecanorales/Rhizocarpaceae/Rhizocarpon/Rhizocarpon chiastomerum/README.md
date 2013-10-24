@@ -1,5 +1,4 @@
-Rhizocarpon chiastomerum Lettau SPECIES
-=======
+# Rhizocarpon chiastomerum Lettau SPECIES
 
 #### Status
 ACCEPTED

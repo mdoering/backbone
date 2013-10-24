@@ -1,14 +1,13 @@
-Placodium granulare Müll. Arg. SPECIES
-=======
+# Caloplaca granularis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 141 (1930)
 
 #### Original name
 Placodium granulare Müll. Arg.

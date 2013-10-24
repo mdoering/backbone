@@ -1,5 +1,4 @@
-Dimeromyces brachiatus Thaxt. SPECIES
-=======
+# Dimeromyces brachiatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

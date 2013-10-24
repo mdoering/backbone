@@ -1,14 +1,13 @@
-Owenia Crux, 1992 GENUS
-=======
+# Isocrystallithus J.W. Verbeek, 1976 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Proc. K. ned. Akad. Wet. (Phys. Sci. ) 79: 77.
 
 #### Original name
 null

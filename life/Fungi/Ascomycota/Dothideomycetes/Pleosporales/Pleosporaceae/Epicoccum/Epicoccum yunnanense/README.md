@@ -1,5 +1,4 @@
-Epicoccum yunnanense Matsush., 1995 SPECIES
-=======
+# Epicoccum yunnanense Matsush., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annulatascus joannae K.M. Tsui, Hodgkiss & K.D. Hyde SPECIES
-=======
+# Annulatascus joannae K.M. Tsui, Hodgkiss & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

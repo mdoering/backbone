@@ -1,5 +1,4 @@
-Lopadium augustinii (Tuck.) Zahlbr. SPECIES
-=======
+# Lopadium augustinii (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methylohalobius Heyer et al., 2005 GENUS
-=======
+# Methylohalobius Heyer et al., 2005 GENUS
 
 #### Status
 ACCEPTED

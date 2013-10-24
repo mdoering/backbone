@@ -1,5 +1,4 @@
-Entoloma omphailiforme SPECIES
-=======
+# Entoloma omphailiforme SPECIES
 
 #### Status
 ACCEPTED

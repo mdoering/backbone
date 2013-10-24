@@ -1,5 +1,4 @@
-Bacidia pallidonigrans (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia pallidonigrans (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

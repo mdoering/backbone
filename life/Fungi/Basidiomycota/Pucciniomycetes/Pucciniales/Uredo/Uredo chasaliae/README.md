@@ -1,5 +1,4 @@
-Uredo chasaliae Petch SPECIES
-=======
+# Uredo chasaliae Petch SPECIES
 
 #### Status
 ACCEPTED

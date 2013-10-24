@@ -1,5 +1,4 @@
-Niebla sorocarpia Spjut SPECIES
-=======
+# Niebla sorocarpia Spjut SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon leucocreas Berk. & Ravenel SPECIES
-=======
+# Hypoxylon leucocreas Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

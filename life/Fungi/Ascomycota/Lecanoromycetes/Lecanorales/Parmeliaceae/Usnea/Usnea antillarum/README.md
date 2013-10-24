@@ -1,5 +1,4 @@
-Usnea antillarum (Vain.) Zahlbr. SPECIES
-=======
+# Usnea antillarum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

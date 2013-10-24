@@ -1,5 +1,4 @@
-Podoconis GENUS
-=======
+# Podoconis GENUS
 
 #### Status
 ACCEPTED

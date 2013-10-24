@@ -1,5 +1,4 @@
-Psathyrella inflatocystis A.H. Sm. SPECIES
-=======
+# Psathyrella inflatocystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Debaryomyces prosopidis Phaff, Vaughan-Mart. & Starmer, 1998 SPECIES
-=======
+# Debaryomyces prosopidis Phaff, Vaughan-Mart. & Starmer, 1998 SPECIES
 
 #### Status
 ACCEPTED

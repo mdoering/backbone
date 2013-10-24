@@ -1,5 +1,4 @@
-Aspicilia reptans (Looman) Wetmore SPECIES
-=======
+# Aspicilia reptans (Looman) Wetmore SPECIES
 
 #### Status
 ACCEPTED

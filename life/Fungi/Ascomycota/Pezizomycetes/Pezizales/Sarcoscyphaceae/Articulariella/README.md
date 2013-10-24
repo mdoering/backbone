@@ -1,5 +1,4 @@
-Articulariella GENUS
-=======
+# Articulariella GENUS
 
 #### Status
 ACCEPTED

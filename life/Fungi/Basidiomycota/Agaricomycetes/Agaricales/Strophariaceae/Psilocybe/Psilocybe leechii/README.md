@@ -1,5 +1,4 @@
-Psilocybe leechii A.H. Sm. SPECIES
-=======
+# Psilocybe leechii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

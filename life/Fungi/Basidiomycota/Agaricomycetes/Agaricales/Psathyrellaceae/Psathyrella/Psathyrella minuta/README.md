@@ -1,5 +1,4 @@
-Psathyrella minuta Henn. SPECIES
-=======
+# Psathyrella minuta Henn. SPECIES
 
 #### Status
 ACCEPTED

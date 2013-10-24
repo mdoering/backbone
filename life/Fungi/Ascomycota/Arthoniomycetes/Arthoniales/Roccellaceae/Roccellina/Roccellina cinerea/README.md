@@ -1,5 +1,4 @@
-Roccellina cinerea f. cinerea FORM
-=======
+# Roccellina cinerea (Müll. Arg.) Tehler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Op. bot. 70: 67 (1983)
 
 #### Original name
-Roccellina cinerea f. cinerea
+Dirina cinerea Müll. Arg.
 
 ### Remarks
 null

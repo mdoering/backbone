@@ -1,5 +1,4 @@
-Phomopsis lauri Gutner SPECIES
-=======
+# Phomopsis lauri Gutner SPECIES
 
 #### Status
 ACCEPTED

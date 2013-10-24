@@ -1,5 +1,4 @@
-Usnea tortuosa var. tortuosa VARIETY
-=======
+# Usnea tortuosa De Not. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea tortuosa var. tortuosa
+Usnea tortuosa De Not.
 
 ### Remarks
 null

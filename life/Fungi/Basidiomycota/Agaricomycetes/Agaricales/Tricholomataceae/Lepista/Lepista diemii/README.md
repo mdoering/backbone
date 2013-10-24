@@ -1,5 +1,4 @@
-Lepista diemii Singer, 1954 SPECIES
-=======
+# Lepista diemii Singer, 1954 SPECIES
 
 #### Status
 ACCEPTED

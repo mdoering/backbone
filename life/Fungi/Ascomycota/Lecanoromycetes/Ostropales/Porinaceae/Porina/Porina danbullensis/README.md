@@ -1,5 +1,4 @@
-Porina danbullensis P. M. McCarthy & Lücking SPECIES
-=======
+# Porina danbullensis P. M. McCarthy & Lücking SPECIES
 
 #### Status
 ACCEPTED

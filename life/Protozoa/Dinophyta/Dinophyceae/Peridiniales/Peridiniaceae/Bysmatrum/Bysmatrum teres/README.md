@@ -1,5 +1,4 @@
-Bysmatrum teres Murray, Hoppenrath, Larsen & Patterson, 2006 SPECIES
-=======
+# Bysmatrum teres Murray, Hoppenrath, Larsen & Patterson, 2006 SPECIES
 
 #### Status
 ACCEPTED

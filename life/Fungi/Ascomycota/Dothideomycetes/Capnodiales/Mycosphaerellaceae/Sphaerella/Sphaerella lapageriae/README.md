@@ -1,5 +1,4 @@
-Sphaerella lapageriae Speg. SPECIES
-=======
+# Sphaerella lapageriae Speg. SPECIES
 
 #### Status
 ACCEPTED

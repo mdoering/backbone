@@ -1,5 +1,4 @@
-Entyloma vignae Bat., J.L. Bezerra, Da Ponte & I. Vasconc. SPECIES
-=======
+# Entyloma vignae Bat., J.L. Bezerra, Da Ponte & I. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

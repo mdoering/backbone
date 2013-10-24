@@ -1,5 +1,4 @@
-Sporidesmium strumarum Cooke SPECIES
-=======
+# Sporidesmium strumarum Cooke SPECIES
 
 #### Status
 ACCEPTED

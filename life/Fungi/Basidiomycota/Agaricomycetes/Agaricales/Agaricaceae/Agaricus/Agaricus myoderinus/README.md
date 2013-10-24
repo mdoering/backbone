@@ -1,5 +1,4 @@
-Agaricus myoderinus SPECIES
-=======
+# Agaricus myoderinus SPECIES
 
 #### Status
 ACCEPTED

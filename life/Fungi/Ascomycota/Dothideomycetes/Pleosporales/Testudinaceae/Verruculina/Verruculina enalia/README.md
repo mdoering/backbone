@@ -1,5 +1,4 @@
-Verruculina enalia (Kohlm.) Kohlm. & Volkm.-Kohlm., 1990 SPECIES
-=======
+# Verruculina enalia (Kohlm.) Kohlm. & Volkm.-Kohlm., 1990 SPECIES
 
 #### Status
 ACCEPTED

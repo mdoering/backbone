@@ -1,5 +1,4 @@
-Veronaeopsis Arzanlou & Crous GENUS
-=======
+# Veronaeopsis Arzanlou & Crous GENUS
 
 #### Status
 ACCEPTED

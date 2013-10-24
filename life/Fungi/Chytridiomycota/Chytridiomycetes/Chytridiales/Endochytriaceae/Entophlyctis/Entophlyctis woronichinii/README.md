@@ -1,5 +1,4 @@
-Entophlyctis woronichinii Jacz. SPECIES
-=======
+# Entophlyctis woronichinii Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria pittieriana Syd., 1930 SPECIES
-=======
+# Septoria pittieriana Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dethiosulfovibrio peptidovorans Magot et al., 1997 SPECIES
-=======
+# Dethiosulfovibrio peptidovorans Magot et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

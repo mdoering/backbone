@@ -1,5 +1,4 @@
-Meliola oteroana Hansf. SPECIES
-=======
+# Meliola oteroana Hansf. SPECIES
 
 #### Status
 ACCEPTED

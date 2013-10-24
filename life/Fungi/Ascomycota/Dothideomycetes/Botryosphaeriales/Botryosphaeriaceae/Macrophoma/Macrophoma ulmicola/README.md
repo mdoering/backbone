@@ -1,5 +1,4 @@
-Macrophoma ulmicola Dearn. SPECIES
-=======
+# Macrophoma ulmicola Dearn. SPECIES
 
 #### Status
 ACCEPTED

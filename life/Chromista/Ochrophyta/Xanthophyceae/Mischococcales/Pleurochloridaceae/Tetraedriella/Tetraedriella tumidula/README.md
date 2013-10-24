@@ -1,5 +1,4 @@
-Tetraedriella tumidula (Reinsch) L. Krienitz & H. Heynig SPECIES
-=======
+# Tetraedriella tumidula (Reinsch) L. Krienitz & H. Heynig SPECIES
 
 #### Status
 ACCEPTED

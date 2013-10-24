@@ -1,5 +1,4 @@
-Tomentella gilva (Bourdot & Galzin) Svrcek SPECIES
-=======
+# Tomentella gilva (Bourdot & Galzin) Svrcek SPECIES
 
 #### Status
 ACCEPTED

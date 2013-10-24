@@ -1,5 +1,4 @@
-Phoma scabiosae Vörös SPECIES
-=======
+# Phoma scabiosae Vörös SPECIES
 
 #### Status
 ACCEPTED

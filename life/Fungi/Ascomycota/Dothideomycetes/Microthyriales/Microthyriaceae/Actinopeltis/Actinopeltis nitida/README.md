@@ -1,5 +1,4 @@
-Actinopeltis nitida (Doidge) Arx SPECIES
-=======
+# Actinopeltis nitida (Doidge) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myceliophthora Costantin, 1892 GENUS
-=======
+# Myceliophthora Costantin, 1892 GENUS
 
 #### Status
 ACCEPTED

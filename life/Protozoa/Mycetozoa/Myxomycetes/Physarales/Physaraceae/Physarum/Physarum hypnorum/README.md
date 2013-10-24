@@ -1,5 +1,4 @@
-Physarum hypnorum Link SPECIES
-=======
+# Physarum hypnorum Link SPECIES
 
 #### Status
 ACCEPTED

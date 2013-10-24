@@ -1,5 +1,4 @@
-Hypocapnodium strigosum Sawada SPECIES
-=======
+# Hypocapnodium strigosum Sawada SPECIES
 
 #### Status
 ACCEPTED

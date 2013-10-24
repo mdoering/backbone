@@ -1,5 +1,4 @@
-Aecidium amagense Mayor SPECIES
-=======
+# Aecidium amagense Mayor SPECIES
 
 #### Status
 ACCEPTED

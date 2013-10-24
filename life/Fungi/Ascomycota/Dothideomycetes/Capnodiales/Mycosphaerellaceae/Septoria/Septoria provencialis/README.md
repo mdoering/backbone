@@ -1,5 +1,4 @@
-Septoria provencialis Crous SPECIES
-=======
+# Septoria provencialis Crous SPECIES
 
 #### Status
 ACCEPTED

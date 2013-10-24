@@ -1,5 +1,4 @@
-Mycosphaerella veratri Clem., 1908 SPECIES
-=======
+# Mycosphaerella veratri Clem., 1908 SPECIES
 
 #### Status
 ACCEPTED

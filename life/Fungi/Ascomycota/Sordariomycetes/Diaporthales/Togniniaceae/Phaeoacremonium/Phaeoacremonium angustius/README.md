@@ -1,5 +1,4 @@
-Phaeoacremonium angustius W. Gams, Crous & M.J. Wingf., 1996 SPECIES
-=======
+# Phaeoacremonium angustius W. Gams, Crous & M.J. Wingf., 1996 SPECIES
 
 #### Status
 ACCEPTED

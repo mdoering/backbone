@@ -1,5 +1,4 @@
-Septoria pamparum Speg. SPECIES
-=======
+# Septoria pamparum Speg. SPECIES
 
 #### Status
 ACCEPTED

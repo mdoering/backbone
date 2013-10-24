@@ -1,5 +1,4 @@
-Dendrophoma crassicolis Schultz & Sacc. SPECIES
-=======
+# Dendrophoma crassicolis Schultz & Sacc. SPECIES
 
 #### Status
 ACCEPTED

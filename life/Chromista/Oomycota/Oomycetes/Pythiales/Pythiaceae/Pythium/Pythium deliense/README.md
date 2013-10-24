@@ -1,17 +1,16 @@
-Pythium indicum M.S. Balakr., 1948 SPECIES
-=======
+# Pythium deliense Meurs, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian Acad. Sci. , Pl. Sci. 27(6): 172 (1948)
+Phytopath. Z. 7: 176 (1934)
 
 #### Original name
-Pythium indicum M.S. Balakr., 1948
+Pythium deliense Meurs, 1934
 
 ### Remarks
 null

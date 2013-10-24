@@ -1,5 +1,4 @@
-Psilocybe maxima Velen. SPECIES
-=======
+# Psilocybe maxima Velen. SPECIES
 
 #### Status
 ACCEPTED

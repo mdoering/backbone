@@ -1,5 +1,4 @@
-Gerda vernalis Stokes, 1887 SPECIES
-=======
+# Gerda vernalis Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

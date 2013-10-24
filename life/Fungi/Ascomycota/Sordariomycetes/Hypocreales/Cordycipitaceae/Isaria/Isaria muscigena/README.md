@@ -1,5 +1,4 @@
-Isaria muscigena Cooke & Müll. {?} SPECIES
-=======
+# Isaria muscigena Cooke & Müll. {?} SPECIES
 
 #### Status
 ACCEPTED

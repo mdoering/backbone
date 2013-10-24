@@ -1,5 +1,4 @@
-Euplotes antarcticus Fenchel & Lee, 1972 SPECIES
-=======
+# Euplotes antarcticus Fenchel & Lee, 1972 SPECIES
 
 #### Status
 ACCEPTED

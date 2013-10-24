@@ -1,5 +1,4 @@
-Distephanus frugalis (D. Bukry) D. Bukry SPECIES
-=======
+# Distephanus frugalis (D. Bukry) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

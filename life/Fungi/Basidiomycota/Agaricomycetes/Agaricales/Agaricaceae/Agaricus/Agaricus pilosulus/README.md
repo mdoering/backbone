@@ -1,5 +1,4 @@
-Agaricus pilosulus J.F. Gmel. SPECIES
-=======
+# Agaricus pilosulus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

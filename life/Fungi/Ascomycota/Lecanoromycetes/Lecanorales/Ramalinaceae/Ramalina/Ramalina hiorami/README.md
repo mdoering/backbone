@@ -1,5 +1,4 @@
-Ramalina hiorami B. de Lesd. SPECIES
-=======
+# Ramalina hiorami B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

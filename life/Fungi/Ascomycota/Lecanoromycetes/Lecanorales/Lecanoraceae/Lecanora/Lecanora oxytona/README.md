@@ -1,5 +1,4 @@
-Lecanora oxytona Ach. SPECIES
-=======
+# Lecanora oxytona Ach. SPECIES
 
 #### Status
 ACCEPTED

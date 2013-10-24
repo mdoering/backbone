@@ -1,5 +1,4 @@
-Graphiola arengae Racib. SPECIES
-=======
+# Graphiola arengae Racib. SPECIES
 
 #### Status
 ACCEPTED

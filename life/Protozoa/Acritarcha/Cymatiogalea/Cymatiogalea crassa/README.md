@@ -1,5 +1,4 @@
-Cymatiogalea crassa N. Umnova, 1975 ex Aristova, 1980 SPECIES
-=======
+# Cymatiogalea crassa N. Umnova, 1975 ex Aristova, 1980 SPECIES
 
 #### Status
 ACCEPTED

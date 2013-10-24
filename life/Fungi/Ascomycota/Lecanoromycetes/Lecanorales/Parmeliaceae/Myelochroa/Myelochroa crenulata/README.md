@@ -1,5 +1,4 @@
-Myelochroa crenulata (J. D. Zhao) Hale ex DePriest & B. Hale SPECIES
-=======
+# Myelochroa crenulata (J. D. Zhao) Hale ex DePriest & B. Hale SPECIES
 
 #### Status
 ACCEPTED

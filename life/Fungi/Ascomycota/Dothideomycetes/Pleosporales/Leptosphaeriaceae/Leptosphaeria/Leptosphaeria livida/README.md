@@ -1,5 +1,4 @@
-Leptosphaeria livida Voglino SPECIES
-=======
+# Leptosphaeria livida Voglino SPECIES
 
 #### Status
 ACCEPTED

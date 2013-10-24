@@ -1,5 +1,4 @@
-Crepidolithus timorensis SPECIES
-=======
+# Crepidolithus timorensis SPECIES
 
 #### Status
 ACCEPTED

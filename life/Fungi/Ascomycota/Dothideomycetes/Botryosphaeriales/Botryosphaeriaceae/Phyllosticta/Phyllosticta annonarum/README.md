@@ -1,17 +1,16 @@
-Phyllosticta anonarum Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta annonarum Bat. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bol. Secr. Agric. (Pernambuco) 19(1-2): 7 (1952)
 
 #### Original name
-Phyllosticta anonarum Bat. & A.F. Vital
+Phyllosticta annonarum Bat. & A.F. Vital
 
 ### Remarks
 null

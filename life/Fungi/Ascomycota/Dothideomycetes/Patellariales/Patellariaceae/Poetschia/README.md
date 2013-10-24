@@ -1,5 +1,4 @@
-Poetschia Körb. GENUS
-=======
+# Poetschia Körb. GENUS
 
 #### Status
 ACCEPTED

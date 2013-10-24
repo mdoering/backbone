@@ -1,5 +1,4 @@
-Chaetophoma tropicalis Speg. SPECIES
-=======
+# Chaetophoma tropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

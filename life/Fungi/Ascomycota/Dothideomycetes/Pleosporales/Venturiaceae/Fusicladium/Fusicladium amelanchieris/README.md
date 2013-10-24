@@ -1,17 +1,16 @@
-Fusicladium pirinum var. amelanchieris Sacc. VARIETY
-=======
+# Fusicladium amelanchieris (Sacc.) Oliveira SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Fusicladium pirinum var. amelanchieris Sacc.
+Fusicladium pyrorum var. amelanchieris Sacc., 1886
 
 ### Remarks
 null

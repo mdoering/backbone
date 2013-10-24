@@ -1,5 +1,4 @@
-Dicroa Foreman, 1975 GENUS
-=======
+# Dicroa Foreman, 1975 GENUS
 
 #### Status
 ACCEPTED

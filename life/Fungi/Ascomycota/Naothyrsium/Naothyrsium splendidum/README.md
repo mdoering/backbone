@@ -1,5 +1,4 @@
-Naothyrsium splendidum Bat. & J.L. Bezerra, 1960 SPECIES
-=======
+# Naothyrsium splendidum Bat. & J.L. Bezerra, 1960 SPECIES
 
 #### Status
 ACCEPTED

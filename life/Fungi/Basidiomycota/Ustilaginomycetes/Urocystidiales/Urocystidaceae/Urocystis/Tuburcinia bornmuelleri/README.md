@@ -1,5 +1,4 @@
-Tuburcinia bornmuelleri (Magnus) Liro SPECIES
-=======
+# Tuburcinia bornmuelleri (Magnus) Liro SPECIES
 
 #### Status
 ACCEPTED

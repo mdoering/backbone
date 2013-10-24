@@ -1,5 +1,4 @@
-Squamaria tenella SPECIES
-=======
+# Squamaria tenella SPECIES
 
 #### Status
 ACCEPTED

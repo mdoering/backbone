@@ -1,5 +1,4 @@
-Lopadiopsis coffeae (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lopadiopsis coffeae (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

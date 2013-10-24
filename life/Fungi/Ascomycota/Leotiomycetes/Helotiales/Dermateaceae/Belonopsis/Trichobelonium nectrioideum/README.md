@@ -1,5 +1,4 @@
-Trichobelonium nectrioideum Rehm SPECIES
-=======
+# Trichobelonium nectrioideum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uromyces caricis-dolichosporae Azbukina SPECIES
-=======
+# Uromyces caricis-dolichocarpae Azbukina SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nizshie Rasteniya, Griby i Mokhoobraznye, Dal'nego Vostoka Rossii. Griby 5: 390 (2005)
 
 #### Original name
-Uromyces caricis-dolichosporae Azbukina
+Uromyces caricis-dolichocarpae Azbukina
 
 ### Remarks
 null

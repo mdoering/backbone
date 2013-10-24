@@ -1,5 +1,4 @@
-Uromyces helichrysi Lagerh. SPECIES
-=======
+# Uromyces helichrysi Lagerh. SPECIES
 
 #### Status
 ACCEPTED

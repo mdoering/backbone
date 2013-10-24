@@ -1,5 +1,4 @@
-Haemogregarina blanchardi Brumpt & Lebailly, 1904 SPECIES
-=======
+# Haemogregarina blanchardi Brumpt & Lebailly, 1904 SPECIES
 
 #### Status
 ACCEPTED

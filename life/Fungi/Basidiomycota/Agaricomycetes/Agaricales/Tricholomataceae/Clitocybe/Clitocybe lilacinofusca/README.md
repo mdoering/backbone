@@ -1,5 +1,4 @@
-Clitocybe lilacinofusca Pat. SPECIES
-=======
+# Clitocybe lilacinofusca Pat. SPECIES
 
 #### Status
 ACCEPTED

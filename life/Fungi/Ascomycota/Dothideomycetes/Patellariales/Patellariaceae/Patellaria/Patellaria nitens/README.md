@@ -1,5 +1,4 @@
-Patellaria nitens Pers. SPECIES
-=======
+# Patellaria nitens Pers. SPECIES
 
 #### Status
 ACCEPTED

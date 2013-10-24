@@ -1,5 +1,4 @@
-Planctomycetaceae FAMILY
-=======
+# Planctomycetaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropuccinia ordinata (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia ordinata (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dysteria parovalis Wilbert & Song, 2004 SPECIES
-=======
+# Dysteria parovalis Wilbert & Song, 2004 SPECIES
 
 #### Status
 ACCEPTED

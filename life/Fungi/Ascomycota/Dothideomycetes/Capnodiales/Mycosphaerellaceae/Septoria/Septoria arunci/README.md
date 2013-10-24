@@ -1,5 +1,4 @@
-Septoria arunci Pass. SPECIES
-=======
+# Septoria arunci Pass. SPECIES
 
 #### Status
 ACCEPTED

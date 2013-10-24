@@ -1,5 +1,4 @@
-Diaporthe magellanica Speg. SPECIES
-=======
+# Diaporthe magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

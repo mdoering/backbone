@@ -1,5 +1,4 @@
-Palaeoaphanizomenon N.S. Mikhailova in A.A. Istchenko, 1986 GENUS
-=======
+# Palaeoaphanizomenon N.S. Mikhailova in A.A. Istchenko, 1986 GENUS
 
 #### Status
 ACCEPTED

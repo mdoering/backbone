@@ -1,5 +1,4 @@
-Septoria acetosae Oudem., 1894 SPECIES
-=======
+# Septoria acetosae Oudem., 1894 SPECIES
 
 #### Status
 ACCEPTED

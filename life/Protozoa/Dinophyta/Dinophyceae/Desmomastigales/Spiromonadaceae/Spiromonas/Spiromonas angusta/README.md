@@ -1,5 +1,4 @@
-Spiromonas angusta Dujardin SPECIES
-=======
+# Spiromonas angusta Dujardin SPECIES
 
 #### Status
 ACCEPTED

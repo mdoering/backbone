@@ -1,5 +1,4 @@
-Trematophora radiata Eisenack SPECIES
-=======
+# Trematophora radiata Eisenack SPECIES
 
 #### Status
 ACCEPTED

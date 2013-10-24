@@ -1,5 +1,4 @@
-Phoma semi-immersa Sacc. SPECIES
-=======
+# Phoma semi-immersa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria foetida G.F. Atk. SPECIES
-=======
+# Clavaria foetida G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

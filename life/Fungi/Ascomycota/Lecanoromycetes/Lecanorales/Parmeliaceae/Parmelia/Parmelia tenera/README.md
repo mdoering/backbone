@@ -1,5 +1,4 @@
-Parmelia tenera Eschw. SPECIES
-=======
+# Parmelia tenera Eschw. SPECIES
 
 #### Status
 ACCEPTED

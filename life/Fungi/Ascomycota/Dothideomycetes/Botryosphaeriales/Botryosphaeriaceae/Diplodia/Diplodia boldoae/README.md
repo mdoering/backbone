@@ -1,5 +1,4 @@
-Diplodia boldoae Speg. SPECIES
-=======
+# Diplodia boldoae Speg. SPECIES
 
 #### Status
 ACCEPTED

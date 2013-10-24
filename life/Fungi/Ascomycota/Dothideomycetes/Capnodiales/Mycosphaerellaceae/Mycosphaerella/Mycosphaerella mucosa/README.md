@@ -1,5 +1,4 @@
-Mycosphaerella mucosa Starbäck SPECIES
-=======
+# Mycosphaerella mucosa Starbäck SPECIES
 
 #### Status
 ACCEPTED

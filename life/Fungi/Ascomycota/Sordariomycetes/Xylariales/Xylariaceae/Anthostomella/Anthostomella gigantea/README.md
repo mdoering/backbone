@@ -1,5 +1,4 @@
-Anthostomella gigantea Teng SPECIES
-=======
+# Anthostomella gigantea Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maculatasporites karanpurensis Lele & Kulkarni, 1969 SPECIES
-=======
+# Maculatasporites karanpurensis Lele & Kulkarni, 1969 SPECIES
 
 #### Status
 ACCEPTED

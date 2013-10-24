@@ -1,5 +1,4 @@
-Biatora subconcolor Anzi SPECIES
-=======
+# Biatora subconcolor Anzi SPECIES
 
 #### Status
 ACCEPTED

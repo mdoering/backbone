@@ -1,5 +1,4 @@
-Eustigmatophyceae D.J. Hibberd & Leedale, 1971 CLASS
-=======
+# Eustigmatophyceae D.J. Hibberd & Leedale, 1971 CLASS
 
 #### Status
 ACCEPTED

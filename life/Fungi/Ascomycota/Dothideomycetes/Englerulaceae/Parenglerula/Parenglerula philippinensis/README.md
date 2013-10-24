@@ -1,5 +1,4 @@
-Parenglerula philippinensis (Syd. & P. Syd.) Arx SPECIES
-=======
+# Parenglerula philippinensis (Syd. & P. Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

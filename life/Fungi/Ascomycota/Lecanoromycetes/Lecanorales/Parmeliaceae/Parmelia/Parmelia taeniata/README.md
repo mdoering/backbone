@@ -1,5 +1,4 @@
-Parmelia taeniata Nyl. SPECIES
-=======
+# Parmelia taeniata Nyl. SPECIES
 
 #### Status
 ACCEPTED

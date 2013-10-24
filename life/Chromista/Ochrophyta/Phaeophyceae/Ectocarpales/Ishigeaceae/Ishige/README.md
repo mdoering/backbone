@@ -1,5 +1,4 @@
-Ishige Yendo, 1907 GENUS
-=======
+# Ishige Yendo, 1907 GENUS
 
 #### Status
 ACCEPTED

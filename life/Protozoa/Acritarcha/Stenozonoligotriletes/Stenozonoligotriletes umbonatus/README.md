@@ -1,5 +1,4 @@
-Stenozonoligotriletes umbonatus Timofeev, 1959 SPECIES
-=======
+# Stenozonoligotriletes umbonatus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

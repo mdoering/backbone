@@ -1,5 +1,4 @@
-Mycotribulus Nag Raj & W.B. Kendr. GENUS
-=======
+# Mycotribulus Nag Raj & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

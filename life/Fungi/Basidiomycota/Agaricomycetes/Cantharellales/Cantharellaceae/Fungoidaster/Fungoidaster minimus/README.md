@@ -1,5 +1,4 @@
-Fungoidaster minimus P. Micheli SPECIES
-=======
+# Fungoidaster minimus P. Micheli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis rubi P. Crouan & H. Crouan SPECIES
-=======
+# Stictis rubi P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

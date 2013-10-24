@@ -1,5 +1,4 @@
-Klebsiella pneumoniae SPECIES
-=======
+# Klebsiella pneumoniae SPECIES
 
 #### Status
 ACCEPTED

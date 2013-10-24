@@ -1,14 +1,13 @@
-Calycina flavovirens (Pers.) Kuntze, 1898 SPECIES
-=======
+# Vibrissea flavovirens (Pers.) Korf & J.R. Dixon, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 448 (1898)
+Mycotaxon 1(2): 134 (1974)
 
 #### Original name
 null

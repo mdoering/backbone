@@ -1,5 +1,4 @@
-Diaporthe uliginosa Sacc. SPECIES
-=======
+# Diaporthe uliginosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

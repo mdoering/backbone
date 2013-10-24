@@ -1,14 +1,13 @@
-Hygrophorus marchii Bres., 1928 SPECIES
-=======
+# Hygrocybe marchii (Bres.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. Mycol. 7: pl. 343 (1928)
+Lilloa 22: 153 (1951)
 
 #### Original name
 Hygrophorus marchii Bres., 1928

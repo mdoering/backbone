@@ -1,5 +1,4 @@
-Pleurocybella amarescens (Singer) Raithelh. SPECIES
-=======
+# Pleurocybella amarescens (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

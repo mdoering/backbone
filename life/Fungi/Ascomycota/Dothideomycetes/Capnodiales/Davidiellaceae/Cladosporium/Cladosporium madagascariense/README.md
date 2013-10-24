@@ -1,8 +1,7 @@
-Cladosporium madagascarense Verdun SPECIES
-=======
+# Cladosporium madagascariense Verdun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladosporium madagascarense Verdun
+Cladosporium madagascariense Verdun
 
 ### Remarks
 null

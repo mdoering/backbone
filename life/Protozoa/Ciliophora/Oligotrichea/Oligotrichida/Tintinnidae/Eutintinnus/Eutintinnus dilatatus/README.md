@@ -1,5 +1,4 @@
-Eutintinnus dilatatus Massuti SPECIES
-=======
+# Eutintinnus dilatatus Massuti SPECIES
 
 #### Status
 ACCEPTED

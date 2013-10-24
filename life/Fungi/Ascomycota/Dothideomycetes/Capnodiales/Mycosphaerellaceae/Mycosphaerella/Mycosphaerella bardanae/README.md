@@ -1,5 +1,4 @@
-Mycosphaerella bardanae (Hazsl.) Lindau SPECIES
-=======
+# Mycosphaerella bardanae (Hazsl.) Lindau SPECIES
 
 #### Status
 ACCEPTED

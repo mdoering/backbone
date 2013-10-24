@@ -1,5 +1,4 @@
-Cortinarius praestigiosus (Fr.) M.M. Moser SPECIES
-=======
+# Cortinarius praestigiosus (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

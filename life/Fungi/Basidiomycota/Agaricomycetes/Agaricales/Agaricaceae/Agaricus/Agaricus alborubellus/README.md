@@ -1,5 +1,4 @@
-Agaricus alborubellus Mont. SPECIES
-=======
+# Agaricus alborubellus Mont. SPECIES
 
 #### Status
 ACCEPTED

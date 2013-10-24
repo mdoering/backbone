@@ -1,14 +1,13 @@
-Hyaloscypha priapi var. obsoleta Velen., 1934 VARIETY
-=======
+# Psilocistella obsoleta (Velen.) Svrcek, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 272 (1934)
+Ceská Mykol. 31(4): 196 (1977)
 
 #### Original name
 Hyaloscypha priapi var. obsoleta Velen., 1934

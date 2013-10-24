@@ -1,5 +1,4 @@
-Pertusaria brattiae Lumbsch & T. H. Nash SPECIES
-=======
+# Pertusaria brattiae Lumbsch & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

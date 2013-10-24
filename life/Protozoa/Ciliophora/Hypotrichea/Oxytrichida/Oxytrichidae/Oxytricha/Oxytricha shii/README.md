@@ -1,5 +1,4 @@
-Oxytricha shii SPECIES
-=======
+# Oxytricha shii SPECIES
 
 #### Status
 ACCEPTED

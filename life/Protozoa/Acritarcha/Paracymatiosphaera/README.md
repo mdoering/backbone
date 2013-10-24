@@ -1,5 +1,4 @@
-Paracymatiosphaera Wang, 1985 GENUS
-=======
+# Paracymatiosphaera Wang, 1985 GENUS
 
 #### Status
 ACCEPTED

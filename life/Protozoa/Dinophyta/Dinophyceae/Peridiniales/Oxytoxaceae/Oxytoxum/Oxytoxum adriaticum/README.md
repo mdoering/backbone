@@ -1,5 +1,4 @@
-Oxytoxum adriaticum Schiller SPECIES
-=======
+# Oxytoxum adriaticum Schiller SPECIES
 
 #### Status
 ACCEPTED

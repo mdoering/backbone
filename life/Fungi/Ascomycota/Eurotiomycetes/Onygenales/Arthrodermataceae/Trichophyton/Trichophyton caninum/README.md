@@ -1,5 +1,4 @@
-Trichophyton caninum (Costantin & Sabrazès) Nann. SPECIES
-=======
+# Trichophyton caninum (Costantin & Sabrazès) Nann. SPECIES
 
 #### Status
 ACCEPTED

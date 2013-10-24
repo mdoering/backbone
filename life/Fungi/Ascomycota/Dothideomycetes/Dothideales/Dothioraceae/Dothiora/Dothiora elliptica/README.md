@@ -1,5 +1,4 @@
-Dothiora elliptica Fuckel, 1874 SPECIES
-=======
+# Dothiora elliptica Fuckel, 1874 SPECIES
 
 #### Status
 ACCEPTED

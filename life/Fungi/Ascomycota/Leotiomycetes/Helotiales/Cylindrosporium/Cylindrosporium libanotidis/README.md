@@ -1,5 +1,4 @@
-Cylindrosporium libanotidis Schwarzman & Vasyag. SPECIES
-=======
+# Cylindrosporium libanotidis Schwarzman & Vasyag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea interserta Nyl. SPECIES
-=======
+# Lecidea interserta Nyl. SPECIES
 
 #### Status
 ACCEPTED

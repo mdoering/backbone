@@ -1,5 +1,4 @@
-Sclerographa indica Räsänen SPECIES
-=======
+# Sclerographa indica Räsänen SPECIES
 
 #### Status
 ACCEPTED

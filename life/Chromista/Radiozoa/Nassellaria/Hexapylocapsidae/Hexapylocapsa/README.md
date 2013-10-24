@@ -1,5 +1,4 @@
-Hexapylocapsa Dumitrica & Zugel, 1998 GENUS
-=======
+# Hexapylocapsa Dumitrica & Zugel, 1998 GENUS
 
 #### Status
 ACCEPTED

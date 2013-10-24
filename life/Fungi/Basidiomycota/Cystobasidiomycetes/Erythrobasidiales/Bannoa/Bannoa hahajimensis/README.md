@@ -1,5 +1,4 @@
-Bannoa hahajimensis Hamam., Thanh & Nakase, 2002 SPECIES
-=======
+# Bannoa hahajimensis Hamam., Thanh & Nakase, 2002 SPECIES
 
 #### Status
 ACCEPTED

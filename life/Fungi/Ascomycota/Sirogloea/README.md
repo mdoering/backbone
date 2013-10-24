@@ -1,5 +1,4 @@
-Sirogloea Petr. GENUS
-=======
+# Sirogloea Petr. GENUS
 
 #### Status
 ACCEPTED

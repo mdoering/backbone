@@ -1,5 +1,4 @@
-Verrucaria karelica SPECIES
-=======
+# Verrucaria karelica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma centaureae (H. Mart.) Kuntze SPECIES
-=======
+# Dicaeoma centaureae (H. Mart.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

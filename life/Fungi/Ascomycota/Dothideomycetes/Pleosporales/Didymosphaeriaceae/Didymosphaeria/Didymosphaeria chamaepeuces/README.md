@@ -1,5 +1,4 @@
-Didymosphaeria chamaepeuces (Petr.) Sivan. SPECIES
-=======
+# Didymosphaeria chamaepeuces (Petr.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

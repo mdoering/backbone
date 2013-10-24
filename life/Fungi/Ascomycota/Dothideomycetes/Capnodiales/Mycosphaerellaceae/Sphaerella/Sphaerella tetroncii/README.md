@@ -1,5 +1,4 @@
-Sphaerella tetroncii Speg. SPECIES
-=======
+# Sphaerella tetroncii Speg. SPECIES
 
 #### Status
 ACCEPTED

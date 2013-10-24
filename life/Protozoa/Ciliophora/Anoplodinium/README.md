@@ -1,5 +1,4 @@
-Anoplodinium Dogiel, 1927 GENUS
-=======
+# Anoplodinium Dogiel, 1927 GENUS
 
 #### Status
 ACCEPTED

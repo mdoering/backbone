@@ -1,5 +1,4 @@
-Ocellularia brunneospora Homchant. & Coppins SPECIES
-=======
+# Ocellularia brunneospora Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

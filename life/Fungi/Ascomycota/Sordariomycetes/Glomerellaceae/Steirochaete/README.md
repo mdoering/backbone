@@ -1,5 +1,4 @@
-Steirochaete GENUS
-=======
+# Steirochaete GENUS
 
 #### Status
 ACCEPTED

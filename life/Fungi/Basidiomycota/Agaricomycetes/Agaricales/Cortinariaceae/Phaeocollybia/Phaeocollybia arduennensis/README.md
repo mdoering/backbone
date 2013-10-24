@@ -1,5 +1,4 @@
-Phaeocollybia arduennensis Bon, 1979 SPECIES
-=======
+# Phaeocollybia arduennensis Bon, 1979 SPECIES
 
 #### Status
 ACCEPTED

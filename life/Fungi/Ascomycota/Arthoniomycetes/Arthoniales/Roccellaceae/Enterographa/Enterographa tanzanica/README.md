@@ -1,5 +1,4 @@
-Enterographa tanzanica Kalb SPECIES
-=======
+# Enterographa tanzanica Kalb SPECIES
 
 #### Status
 ACCEPTED

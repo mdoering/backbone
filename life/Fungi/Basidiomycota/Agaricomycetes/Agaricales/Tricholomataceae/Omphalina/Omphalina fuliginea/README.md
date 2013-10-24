@@ -1,5 +1,4 @@
-Omphalina fuliginea Kalamees SPECIES
-=======
+# Omphalina fuliginea Kalamees SPECIES
 
 #### Status
 ACCEPTED

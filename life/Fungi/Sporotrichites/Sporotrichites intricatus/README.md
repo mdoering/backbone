@@ -1,5 +1,4 @@
-Sporotrichites intricatus Göpp. & J.A. Menge SPECIES
-=======
+# Sporotrichites intricatus Göpp. & J.A. Menge SPECIES
 
 #### Status
 ACCEPTED

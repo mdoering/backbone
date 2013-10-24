@@ -1,5 +1,4 @@
-Ramalina tumidula (Taylor) Huneck & Follmann SPECIES
-=======
+# Ramalina tumidula (Taylor) Huneck & Follmann SPECIES
 
 #### Status
 ACCEPTED

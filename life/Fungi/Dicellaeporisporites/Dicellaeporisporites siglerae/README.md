@@ -1,5 +1,4 @@
-Dicellaeporisporites siglerae (Kalgutkar) Kalgutkar & Janson. SPECIES
-=======
+# Dicellaeporisporites siglerae (Kalgutkar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

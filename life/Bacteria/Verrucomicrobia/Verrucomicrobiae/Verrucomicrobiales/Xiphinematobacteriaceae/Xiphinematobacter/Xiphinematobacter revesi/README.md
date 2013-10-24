@@ -1,5 +1,4 @@
-Xiphinematobacter revesi SPECIES
-=======
+# Xiphinematobacter revesi SPECIES
 
 #### Status
 ACCEPTED

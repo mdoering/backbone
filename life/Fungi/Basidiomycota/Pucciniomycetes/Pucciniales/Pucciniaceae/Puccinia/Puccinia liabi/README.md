@@ -1,5 +1,4 @@
-Puccinia liabi Mayor SPECIES
-=======
+# Puccinia liabi Mayor SPECIES
 
 #### Status
 ACCEPTED

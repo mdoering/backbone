@@ -1,5 +1,4 @@
-Coniothyrium vagabundum Sacc. SPECIES
-=======
+# Coniothyrium vagabundum Sacc. SPECIES
 
 #### Status
 ACCEPTED

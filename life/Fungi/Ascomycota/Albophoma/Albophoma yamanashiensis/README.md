@@ -1,5 +1,4 @@
-Albophoma yamanashiensis Tak. Kobay., Masuma, Omura & Kyoto Watan., 1994 SPECIES
-=======
+# Albophoma yamanashiensis Tak. Kobay., Masuma, Omura & Kyoto Watan., 1994 SPECIES
 
 #### Status
 ACCEPTED

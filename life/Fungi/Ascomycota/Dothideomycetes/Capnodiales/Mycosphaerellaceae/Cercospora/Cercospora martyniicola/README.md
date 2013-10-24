@@ -1,17 +1,16 @@
-Cercospora martyniaecola S. Narayan, P.N. Singh & G.P. Rao SPECIES
-=======
+# Cercospora martyniicola S. Narayan, P.N. Singh & G.P. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sugarcane Pathology (Enfield), <b>1</b>: Fungal Diseases 71 (1999)
 
 #### Original name
-Cercospora martyniaecola S. Narayan, P.N. Singh & G.P. Rao
+Cercospora martyniicola S. Narayan, P.N. Singh & G.P. Rao
 
 ### Remarks
 null

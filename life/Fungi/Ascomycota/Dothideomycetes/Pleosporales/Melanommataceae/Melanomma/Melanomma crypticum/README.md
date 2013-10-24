@@ -1,5 +1,4 @@
-Melanomma crypticum (P. Karst.) Berl. & Voglino SPECIES
-=======
+# Melanomma crypticum (P. Karst.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

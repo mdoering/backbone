@@ -1,5 +1,4 @@
-Gillotia uberata (Sacc.) Arx & E. Müll. SPECIES
-=======
+# Gillotia uberata (Sacc.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lejosphaerella F. von Höhnel, 1919 GENUS
-=======
+# Lejosphaerella F. von Höhnel, 1919 GENUS
 
 #### Status
 ACCEPTED

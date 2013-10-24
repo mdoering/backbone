@@ -1,5 +1,4 @@
-Botryodiplodia sycina Sacc. SPECIES
-=======
+# Botryodiplodia sycina Sacc. SPECIES
 
 #### Status
 ACCEPTED

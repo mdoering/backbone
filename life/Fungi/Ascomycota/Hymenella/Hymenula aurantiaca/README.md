@@ -1,5 +1,4 @@
-Hymenula aurantiaca J. Lindau SPECIES
-=======
+# Hymenula aurantiaca J. Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria hyalinella Rehm SPECIES
-=======
+# Nectria hyalinella Rehm SPECIES
 
 #### Status
 ACCEPTED

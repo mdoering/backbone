@@ -1,5 +1,4 @@
-Cylindrosporium fairmanianum Sacc. SPECIES
-=======
+# Cylindrosporium fairmanianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

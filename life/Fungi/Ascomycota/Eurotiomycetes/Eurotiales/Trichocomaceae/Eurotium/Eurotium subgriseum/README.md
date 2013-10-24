@@ -1,5 +1,4 @@
-Eurotium subgriseum Peck SPECIES
-=======
+# Eurotium subgriseum Peck SPECIES
 
 #### Status
 ACCEPTED

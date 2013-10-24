@@ -1,5 +1,4 @@
-Chamaeceras viticola (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras viticola (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

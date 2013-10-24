@@ -1,5 +1,4 @@
-Bullera sinensis M.X. Li SPECIES
-=======
+# Bullera sinensis M.X. Li SPECIES
 
 #### Status
 ACCEPTED

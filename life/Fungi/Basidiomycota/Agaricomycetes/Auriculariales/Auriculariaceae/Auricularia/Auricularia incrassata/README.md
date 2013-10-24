@@ -1,5 +1,4 @@
-Auricularia incrassata Kobayasi SPECIES
-=======
+# Auricularia incrassata Kobayasi SPECIES
 
 #### Status
 ACCEPTED

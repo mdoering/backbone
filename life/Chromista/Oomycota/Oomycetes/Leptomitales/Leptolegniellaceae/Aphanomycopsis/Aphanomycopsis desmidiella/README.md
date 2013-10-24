@@ -1,5 +1,4 @@
-Aphanomycopsis desmidiella Canter, 1949 SPECIES
-=======
+# Aphanomycopsis desmidiella Canter, 1949 SPECIES
 
 #### Status
 ACCEPTED

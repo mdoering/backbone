@@ -1,5 +1,4 @@
-Colletotrichum manihotis Henn. SPECIES
-=======
+# Colletotrichum manihotis Henn. SPECIES
 
 #### Status
 ACCEPTED

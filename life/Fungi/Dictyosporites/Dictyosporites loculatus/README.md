@@ -1,5 +1,4 @@
-Dictyosporites loculatus Félix SPECIES
-=======
+# Dictyosporites loculatus Félix SPECIES
 
 #### Status
 ACCEPTED

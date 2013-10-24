@@ -1,5 +1,4 @@
-Actinomadura spiralis Meyer, 1981 SPECIES
-=======
+# Actinomadura spiralis Meyer, 1981 SPECIES
 
 #### Status
 ACCEPTED

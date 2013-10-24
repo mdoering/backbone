@@ -1,5 +1,4 @@
-Trichodesmium lacustre Klebahn SPECIES
-=======
+# Trichodesmium lacustre Klebahn SPECIES
 
 #### Status
 ACCEPTED

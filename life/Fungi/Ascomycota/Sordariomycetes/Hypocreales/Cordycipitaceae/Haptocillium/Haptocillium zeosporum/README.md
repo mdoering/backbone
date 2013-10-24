@@ -1,14 +1,13 @@
-Verticillium zeosporum (Drechsler) Glockling, 1997 SPECIES
-=======
+# Haptocillium zeosporum (Drechsler) Zare & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Glockling & Dick, Nordic Jl Bot. 17(6): 658 (1997)
+Nova Hedwigia 73(3-4): 282 (2001)
 
 #### Original name
 Acrostalagmus zeosporus Drechsler, 1946

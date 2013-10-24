@@ -1,5 +1,4 @@
-Passalora syzygii (M. Mandal) B. Sutton & Crous SPECIES
-=======
+# Passalora syzygii (M. Mandal) B. Sutton & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma holwayi (Dietel) Kuntze SPECIES
-=======
+# Dicaeoma holwayi (Dietel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

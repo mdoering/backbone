@@ -1,5 +1,4 @@
-Parmeliella vieillardii Müll. Arg. SPECIES
-=======
+# Parmeliella vieillardii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

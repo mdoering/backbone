@@ -1,5 +1,4 @@
-Xanthoparmelia montanensis Hale SPECIES
-=======
+# Xanthoparmelia montanensis Hale SPECIES
 
 #### Status
 ACCEPTED

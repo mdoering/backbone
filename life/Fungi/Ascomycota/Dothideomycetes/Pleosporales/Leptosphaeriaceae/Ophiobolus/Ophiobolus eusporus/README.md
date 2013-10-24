@@ -1,5 +1,4 @@
-Ophiobolus eusporus Sacc., 1883 SPECIES
-=======
+# Ophiobolus eusporus Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

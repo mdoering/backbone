@@ -1,5 +1,4 @@
-Clypeolella psychotriae (Doidge) Doidge SPECIES
-=======
+# Clypeolella psychotriae (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

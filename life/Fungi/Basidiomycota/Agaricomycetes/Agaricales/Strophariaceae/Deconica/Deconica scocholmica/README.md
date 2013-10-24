@@ -1,5 +1,4 @@
-Deconica scocholmica (Park.-Rhodes) SPECIES
-=======
+# Deconica scocholmica (Park.-Rhodes) SPECIES
 
 #### Status
 ACCEPTED

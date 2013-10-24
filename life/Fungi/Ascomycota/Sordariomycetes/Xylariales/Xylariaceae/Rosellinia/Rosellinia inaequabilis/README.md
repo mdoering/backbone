@@ -1,5 +1,4 @@
-Rosellinia inaequabilis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rosellinia inaequabilis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

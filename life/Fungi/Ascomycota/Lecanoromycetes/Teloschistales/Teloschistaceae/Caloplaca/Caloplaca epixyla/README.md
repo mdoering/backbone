@@ -1,5 +1,4 @@
-Caloplaca epixyla (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca epixyla (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

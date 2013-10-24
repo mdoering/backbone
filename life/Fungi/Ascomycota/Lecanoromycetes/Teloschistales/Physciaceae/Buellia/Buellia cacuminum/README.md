@@ -1,5 +1,4 @@
-Buellia cacuminum H. Magn. SPECIES
-=======
+# Buellia cacuminum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

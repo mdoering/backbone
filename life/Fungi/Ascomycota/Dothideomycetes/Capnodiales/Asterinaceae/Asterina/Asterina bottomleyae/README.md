@@ -1,5 +1,4 @@
-Asterina bottomleyae Doidge SPECIES
-=======
+# Asterina bottomleyae Doidge SPECIES
 
 #### Status
 ACCEPTED

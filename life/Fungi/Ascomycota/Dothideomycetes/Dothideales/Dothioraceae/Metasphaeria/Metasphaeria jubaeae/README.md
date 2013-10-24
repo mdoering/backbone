@@ -1,5 +1,4 @@
-Metasphaeria jubaeae Henn. SPECIES
-=======
+# Metasphaeria jubaeae Henn. SPECIES
 
 #### Status
 ACCEPTED

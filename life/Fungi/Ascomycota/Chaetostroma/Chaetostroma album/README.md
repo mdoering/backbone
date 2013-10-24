@@ -1,5 +1,4 @@
-Chaetostroma album Peyl SPECIES
-=======
+# Chaetostroma album Peyl SPECIES
 
 #### Status
 ACCEPTED

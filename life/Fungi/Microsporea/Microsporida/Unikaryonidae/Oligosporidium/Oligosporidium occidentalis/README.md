@@ -1,5 +1,4 @@
-Oligosporidium occidentalis J.J. Becnel, A. Jeyaprakashb, M.A. Hoy & A. Shapiro SPECIES
-=======
+# Oligosporidium occidentalis J.J. Becnel, A. Jeyaprakashb, M.A. Hoy & A. Shapiro SPECIES
 
 #### Status
 ACCEPTED

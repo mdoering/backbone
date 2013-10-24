@@ -1,11 +1,10 @@
-Mycoplasma lipophiliae Del Giudice & Carski, 1968 SPECIES
-=======
+# Mycoplasma lipophilum Del Giudice et al., 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

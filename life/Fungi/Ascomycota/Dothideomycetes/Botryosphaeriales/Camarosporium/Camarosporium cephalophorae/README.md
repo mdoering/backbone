@@ -1,5 +1,4 @@
-Camarosporium cephalophorae Golovin SPECIES
-=======
+# Camarosporium cephalophorae Golovin SPECIES
 
 #### Status
 ACCEPTED

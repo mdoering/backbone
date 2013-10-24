@@ -1,5 +1,4 @@
-Allantion Sandon GENUS
-=======
+# Allantion Sandon GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora albidoaurantiaca Hue SPECIES
-=======
+# Lecanora albidoaurantiaca Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothrix flamulorum C.L. Sant'Anna, S.M.F. Silva & L.H.Z. Branco SPECIES
-=======
+# Calothrix flamulorum C.L. Sant'Anna, S.M.F. Silva & L.H.Z. Branco SPECIES
 
 #### Status
 ACCEPTED

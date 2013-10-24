@@ -1,5 +1,4 @@
-Cortinarius anomalochrascens Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius anomalochrascens Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

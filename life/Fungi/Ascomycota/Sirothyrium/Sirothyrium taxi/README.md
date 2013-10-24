@@ -1,5 +1,4 @@
-Sirothyrium taxi Syd. & P. Syd., 1916 SPECIES
-=======
+# Sirothyrium taxi Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 ACCEPTED

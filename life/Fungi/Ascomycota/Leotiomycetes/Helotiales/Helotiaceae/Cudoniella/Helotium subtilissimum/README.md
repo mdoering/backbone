@@ -1,5 +1,4 @@
-Helotium subtilissimum P. Karst. SPECIES
-=======
+# Helotium subtilissimum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

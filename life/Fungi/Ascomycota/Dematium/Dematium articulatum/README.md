@@ -1,5 +1,4 @@
-Dematium articulatum Pers. SPECIES
-=======
+# Dematium articulatum Pers. SPECIES
 
 #### Status
 ACCEPTED

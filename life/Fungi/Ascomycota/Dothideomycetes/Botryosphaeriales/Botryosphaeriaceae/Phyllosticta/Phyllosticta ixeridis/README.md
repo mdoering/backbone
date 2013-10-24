@@ -1,5 +1,4 @@
-Phyllosticta ixeridis Sawada SPECIES
-=======
+# Phyllosticta ixeridis Sawada SPECIES
 
 #### Status
 ACCEPTED

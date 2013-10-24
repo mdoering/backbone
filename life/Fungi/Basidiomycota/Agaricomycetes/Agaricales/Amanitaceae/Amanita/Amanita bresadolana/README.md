@@ -1,5 +1,4 @@
-Amanita bresadolana Neville & Poumarat SPECIES
-=======
+# Amanita bresadolana Neville & Poumarat SPECIES
 
 #### Status
 ACCEPTED

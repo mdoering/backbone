@@ -1,5 +1,4 @@
-Urceolaria proluta (Nyl.) Motyka SPECIES
-=======
+# Urceolaria proluta (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirsutella guyana Minter & B.L. Brady, 1980 SPECIES
-=======
+# Hirsutella guyana Minter & B.L. Brady, 1980 SPECIES
 
 #### Status
 ACCEPTED

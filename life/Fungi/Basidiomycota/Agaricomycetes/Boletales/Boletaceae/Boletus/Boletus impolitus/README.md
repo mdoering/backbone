@@ -1,17 +1,16 @@
-Boletus suspectus Krombh., 1836 SPECIES
-=======
+# Boletus impolitus Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturgetr. Abbild. Beschr. Schwämme (Prague) 5: tab. 7 (1836)
+Epicr. syst. mycol. (Upsaliae) 421 (1838)
 
 #### Original name
-Boletus suspectus Krombh., 1836
+Boletus impolitus Fr., 1838
 
 ### Remarks
 null

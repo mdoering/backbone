@@ -1,5 +1,4 @@
-Lophosphaeridium poetheae Fensome et al., 1990 SPECIES
-=======
+# Lophosphaeridium poetheae Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusiformisporites siglerae Kalgutkar SPECIES
-=======
+# Fusiformisporites siglerae Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

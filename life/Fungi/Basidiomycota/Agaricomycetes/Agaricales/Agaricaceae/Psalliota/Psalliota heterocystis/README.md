@@ -1,5 +1,4 @@
-Psalliota heterocystis (Heinem. & Gooss.-Font.) Malençon & Bertault SPECIES
-=======
+# Psalliota heterocystis (Heinem. & Gooss.-Font.) Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

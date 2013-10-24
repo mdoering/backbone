@@ -1,5 +1,4 @@
-Streptococcus infantis Kawamura et al., 1998 SPECIES
-=======
+# Streptococcus infantis Kawamura et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

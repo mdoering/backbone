@@ -1,5 +1,4 @@
-Lentomonas M. Farmer & R.E. Triemer, 1994 GENUS
-=======
+# Lentomonas M. Farmer & R.E. Triemer, 1994 GENUS
 
 #### Status
 ACCEPTED

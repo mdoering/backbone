@@ -1,5 +1,4 @@
-Catharinia rubi Oudem. SPECIES
-=======
+# Catharinia rubi Oudem. SPECIES
 
 #### Status
 ACCEPTED

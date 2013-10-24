@@ -1,5 +1,4 @@
-Stereum notatum Berk. & Broome SPECIES
-=======
+# Stereum notatum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

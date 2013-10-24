@@ -1,5 +1,4 @@
-Oidium gossypii (Sumst.) Sacc. SPECIES
-=======
+# Oidium gossypii (Sumst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

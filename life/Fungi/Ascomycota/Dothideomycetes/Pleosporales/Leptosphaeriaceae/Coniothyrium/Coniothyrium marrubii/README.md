@@ -1,5 +1,4 @@
-Coniothyrium marrubii Fairm. SPECIES
-=======
+# Coniothyrium marrubii Fairm. SPECIES
 
 #### Status
 ACCEPTED

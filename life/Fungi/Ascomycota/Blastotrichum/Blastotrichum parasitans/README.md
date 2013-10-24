@@ -1,5 +1,4 @@
-Blastotrichum parasitans (Corda) Sacc. SPECIES
-=======
+# Blastotrichum parasitans (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

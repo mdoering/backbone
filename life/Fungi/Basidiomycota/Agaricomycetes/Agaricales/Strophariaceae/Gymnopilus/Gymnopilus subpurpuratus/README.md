@@ -1,5 +1,4 @@
-Gymnopilus subpurpuratus Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Gymnopilus subpurpuratus Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

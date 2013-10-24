@@ -1,5 +1,4 @@
-Stirtonia schummii Aptroot SPECIES
-=======
+# Stirtonia schummii Aptroot SPECIES
 
 #### Status
 ACCEPTED

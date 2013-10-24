@@ -1,5 +1,4 @@
-Desmidiospora marginiconvoluta Kalgutkar SPECIES
-=======
+# Desmidiospora marginiconvoluta Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

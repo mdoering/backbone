@@ -1,14 +1,13 @@
-Ceratocystis multiannulata (Hedgc. & R.W. Davidson) J. Hunt, 1956 SPECIES
-=======
+# Ophiostoma multiannulatum (Hedgc. & R.W. Davidson) Hendr., 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 19: 40 (1956)
+null
 
 #### Original name
 Ceratostomella multiannulata Hedgc. & R.W. Davidson, 1935

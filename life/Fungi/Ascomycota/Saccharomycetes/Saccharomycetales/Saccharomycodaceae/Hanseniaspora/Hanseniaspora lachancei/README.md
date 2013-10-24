@@ -1,5 +1,4 @@
-Hanseniaspora lachancei Cadez, Poot, Raspor & M.T. Sm., 2003 SPECIES
-=======
+# Hanseniaspora lachancei Cadez, Poot, Raspor & M.T. Sm., 2003 SPECIES
 
 #### Status
 ACCEPTED

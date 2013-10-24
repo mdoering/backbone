@@ -1,5 +1,4 @@
-Inocybe substellata Kühner SPECIES
-=======
+# Inocybe substellata Kühner SPECIES
 
 #### Status
 ACCEPTED

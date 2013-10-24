@@ -1,5 +1,4 @@
-Laboulbenia hiemalis Speg. SPECIES
-=======
+# Laboulbenia hiemalis Speg. SPECIES
 
 #### Status
 ACCEPTED

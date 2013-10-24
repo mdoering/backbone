@@ -1,5 +1,4 @@
-Candida pinicola Kurtzman, 2007 SPECIES
-=======
+# Candida pinicola Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

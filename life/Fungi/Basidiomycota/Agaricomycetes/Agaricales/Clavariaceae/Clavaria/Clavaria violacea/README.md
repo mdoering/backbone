@@ -1,5 +1,4 @@
-Clavaria violacea Petch SPECIES
-=======
+# Clavaria violacea Petch SPECIES
 
 #### Status
 ACCEPTED

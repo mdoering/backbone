@@ -1,5 +1,4 @@
-Schmitzomia polycocca Rehm SPECIES
-=======
+# Schmitzomia polycocca Rehm SPECIES
 
 #### Status
 ACCEPTED

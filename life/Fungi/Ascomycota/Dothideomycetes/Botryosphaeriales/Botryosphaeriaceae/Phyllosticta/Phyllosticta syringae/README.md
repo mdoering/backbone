@@ -1,17 +1,16 @@
-Phyllosticta destructiva var. lilacis Westend. VARIETY
-=======
+# Phyllosticta syringae Westend., 1852 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Acad. R. Sci. Belg. , Cl. Sci. , sér. 5 18(7-8): 23 (sep. ) (1852)
 
 #### Original name
-null
+Phyllosticta syringae Westend., 1852
 
 ### Remarks
 null

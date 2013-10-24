@@ -1,5 +1,4 @@
-Ramoconidiifera verrucosa B. Sutton, Carmarán & A.I. Romero, 1996 SPECIES
-=======
+# Ramoconidiifera verrucosa B. Sutton, Carmarán & A.I. Romero, 1996 SPECIES
 
 #### Status
 ACCEPTED

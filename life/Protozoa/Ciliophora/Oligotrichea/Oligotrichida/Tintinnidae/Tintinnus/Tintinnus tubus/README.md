@@ -1,5 +1,4 @@
-Tintinnus tubus Stokes, 1893 SPECIES
-=======
+# Tintinnus tubus Stokes, 1893 SPECIES
 
 #### Status
 ACCEPTED

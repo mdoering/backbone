@@ -1,5 +1,4 @@
-Lecanora schindleri Guderley SPECIES
-=======
+# Lecanora schindleri Guderley SPECIES
 
 #### Status
 ACCEPTED

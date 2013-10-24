@@ -1,5 +1,4 @@
-Lecidella elaeochromoides (Nyl.) Knoph & Hertel SPECIES
-=======
+# Lecidella elaeochromoides (Nyl.) Knoph & Hertel SPECIES
 
 #### Status
 ACCEPTED

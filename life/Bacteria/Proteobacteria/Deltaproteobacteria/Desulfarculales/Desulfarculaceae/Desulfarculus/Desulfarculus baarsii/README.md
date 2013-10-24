@@ -1,8 +1,7 @@
-Desulfovibrio baarsii Widdel, 1981 SPECIES
-=======
+# Desulfarculus baarsii (Widdel, 1981) Kuever et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

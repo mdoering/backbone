@@ -1,5 +1,4 @@
-Tuberculina argillacea Davis SPECIES
-=======
+# Tuberculina argillacea Davis SPECIES
 
 #### Status
 ACCEPTED

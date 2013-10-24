@@ -1,5 +1,4 @@
-Monosporium reflexum Bonord. SPECIES
-=======
+# Monosporium reflexum Bonord. SPECIES
 
 #### Status
 ACCEPTED

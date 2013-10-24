@@ -1,5 +1,4 @@
-Anaptychia mexicana (B. de Lesd.) B. de Lesd. SPECIES
-=======
+# Anaptychia mexicana (B. de Lesd.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

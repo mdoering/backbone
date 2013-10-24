@@ -1,5 +1,4 @@
-Inocybe hirculus Vauras SPECIES
-=======
+# Inocybe hirculus Vauras SPECIES
 
 #### Status
 ACCEPTED

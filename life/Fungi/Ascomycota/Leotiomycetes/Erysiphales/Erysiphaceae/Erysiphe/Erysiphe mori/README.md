@@ -1,5 +1,4 @@
-Erysiphe mori (I. Miyake) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe mori (I. Miyake) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium periculosum Cooke & Massee SPECIES
-=======
+# Gloeosporium periculosum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

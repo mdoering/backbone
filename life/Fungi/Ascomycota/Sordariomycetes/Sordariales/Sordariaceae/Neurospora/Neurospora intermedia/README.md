@@ -1,5 +1,4 @@
-Neurospora intermedia F.L. Tai, 1935 SPECIES
-=======
+# Neurospora intermedia F.L. Tai, 1935 SPECIES
 
 #### Status
 ACCEPTED

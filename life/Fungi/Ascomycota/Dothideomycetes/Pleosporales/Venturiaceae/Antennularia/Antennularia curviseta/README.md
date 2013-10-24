@@ -1,5 +1,4 @@
-Antennularia curviseta (Peck) M.E. Barr SPECIES
-=======
+# Antennularia curviseta (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

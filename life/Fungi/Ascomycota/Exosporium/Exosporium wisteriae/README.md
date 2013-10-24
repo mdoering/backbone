@@ -1,17 +1,16 @@
-Exosporium wistariae Sandu SPECIES
-=======
+# Exosporium wisteriae Sandu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sandu-Ville et al. , Revue Mycol. , Paris 33: 78 (1968)
 
 #### Original name
-Exosporium wistariae Sandu
+Exosporium wisteriae Sandu
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Urceolaria utriculata Müller, 1786 SPECIES
-=======
+# Urceolaria utriculata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

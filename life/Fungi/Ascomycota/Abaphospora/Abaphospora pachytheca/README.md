@@ -1,5 +1,4 @@
-Abaphospora pachytheca Kirschst. SPECIES
-=======
+# Abaphospora pachytheca Kirschst. SPECIES
 
 #### Status
 ACCEPTED

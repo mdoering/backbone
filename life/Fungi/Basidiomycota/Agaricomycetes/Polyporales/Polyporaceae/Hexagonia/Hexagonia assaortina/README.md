@@ -1,5 +1,4 @@
-Hexagonia assaortina Sacc. & Bacc. SPECIES
-=======
+# Hexagonia assaortina Sacc. & Bacc. SPECIES
 
 #### Status
 ACCEPTED

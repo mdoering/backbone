@@ -1,5 +1,4 @@
-Thelotrema periphysatum Zahlbr. SPECIES
-=======
+# Thelotrema periphysatum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

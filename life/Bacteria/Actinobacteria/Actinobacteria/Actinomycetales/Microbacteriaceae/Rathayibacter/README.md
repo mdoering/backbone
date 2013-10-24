@@ -1,5 +1,4 @@
-Rathayibacter Zgurskaya, Evtushenko, Akimov & Kalakoutskii GENUS
-=======
+# Rathayibacter Zgurskaya, Evtushenko, Akimov & Kalakoutskii GENUS
 
 #### Status
 ACCEPTED

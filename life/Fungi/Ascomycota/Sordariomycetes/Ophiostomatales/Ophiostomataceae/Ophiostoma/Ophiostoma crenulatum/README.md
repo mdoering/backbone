@@ -1,5 +1,4 @@
-Ophiostoma crenulatum (Olchow. & J. Reid) Georg Hausner & J. Reid SPECIES
-=======
+# Ophiostoma crenulatum (Olchow. & J. Reid) Georg Hausner & J. Reid SPECIES
 
 #### Status
 ACCEPTED

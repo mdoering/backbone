@@ -1,8 +1,7 @@
-Chlorogloea conferta (Kützing) Setchell & Gardner SPECIES
-=======
+# Entophysalis conferta (Kützing) F.E. Drouet & W.A. Daily SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

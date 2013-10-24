@@ -1,5 +1,4 @@
-Pluteus melleus Murrill SPECIES
-=======
+# Pluteus melleus Murrill SPECIES
 
 #### Status
 ACCEPTED

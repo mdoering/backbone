@@ -1,5 +1,4 @@
-Filoboletus staudtii (Henn.) Singer SPECIES
-=======
+# Filoboletus staudtii (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

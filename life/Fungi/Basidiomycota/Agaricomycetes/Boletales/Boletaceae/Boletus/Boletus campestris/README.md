@@ -1,5 +1,4 @@
-Boletus campestris A.H. Sm. & Thiers SPECIES
-=======
+# Boletus campestris A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

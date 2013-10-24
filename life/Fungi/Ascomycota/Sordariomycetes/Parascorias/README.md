@@ -1,5 +1,4 @@
-Parascorias GENUS
-=======
+# Parascorias GENUS
 
 #### Status
 ACCEPTED

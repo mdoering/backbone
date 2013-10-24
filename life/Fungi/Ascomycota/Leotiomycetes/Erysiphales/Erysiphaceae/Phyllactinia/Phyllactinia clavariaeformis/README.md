@@ -1,5 +1,4 @@
-Phyllactinia clavariaeformis Neger SPECIES
-=======
+# Phyllactinia clavariaeformis Neger SPECIES
 
 #### Status
 ACCEPTED

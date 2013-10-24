@@ -1,5 +1,4 @@
-Stagonosporopsis fraxini (Allesch.) Died. SPECIES
-=======
+# Stagonosporopsis fraxini (Allesch.) Died. SPECIES
 
 #### Status
 ACCEPTED

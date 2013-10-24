@@ -1,5 +1,4 @@
-Ramalina grumosa Kashiw. SPECIES
-=======
+# Ramalina grumosa Kashiw. SPECIES
 
 #### Status
 ACCEPTED

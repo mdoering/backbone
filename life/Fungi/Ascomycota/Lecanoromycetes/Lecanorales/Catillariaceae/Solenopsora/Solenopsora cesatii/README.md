@@ -1,5 +1,4 @@
-Solenopsora cesatii var. cesatii VARIETY
-=======
+# Solenopsora cesatii (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Solenopsora cesatii var. cesatii
+Ricasolia cesatii A. Massal.
 
 ### Remarks
 null

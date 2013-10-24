@@ -1,5 +1,4 @@
-Uredo ehretiae Barclay SPECIES
-=======
+# Uredo ehretiae Barclay SPECIES
 
 #### Status
 ACCEPTED

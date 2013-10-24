@@ -1,5 +1,4 @@
-Botryodiplodia acinosa (Fr.) Cooke SPECIES
-=======
+# Botryodiplodia acinosa (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

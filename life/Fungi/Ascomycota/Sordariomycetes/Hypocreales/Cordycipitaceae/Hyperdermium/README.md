@@ -1,5 +1,4 @@
-Hyperdermium J.F. White, R. Sullivan, Bills & Hywel-Jones GENUS
-=======
+# Hyperdermium J.F. White, R. Sullivan, Bills & Hywel-Jones GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporopodium awasthianum Kr. P. Singh & Pinokiyo SPECIES
-=======
+# Sporopodium awasthianum Kr. P. Singh & Pinokiyo SPECIES
 
 #### Status
 ACCEPTED

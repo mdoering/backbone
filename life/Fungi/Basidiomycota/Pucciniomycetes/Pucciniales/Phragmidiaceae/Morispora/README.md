@@ -1,5 +1,4 @@
-Morispora Salazar-Yepes, Pardo-Card. & Buriticá GENUS
-=======
+# Morispora Salazar-Yepes, Pardo-Card. & Buriticá GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus bambusinus T.K.A. Kumar & Manim. SPECIES
-=======
+# Lentinus bambusinus T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

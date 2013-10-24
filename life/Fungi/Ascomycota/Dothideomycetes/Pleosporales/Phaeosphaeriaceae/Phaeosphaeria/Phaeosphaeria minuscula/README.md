@@ -1,5 +1,4 @@
-Phaeosphaeria minuscula (Rehm) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria minuscula (Rehm) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

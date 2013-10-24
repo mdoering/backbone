@@ -1,5 +1,4 @@
-Syringocapsa glabra SPECIES
-=======
+# Syringocapsa glabra SPECIES
 
 #### Status
 ACCEPTED

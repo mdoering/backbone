@@ -1,5 +1,4 @@
-Uredo hyoseridis Schumach. SPECIES
-=======
+# Uredo hyoseridis Schumach. SPECIES
 
 #### Status
 ACCEPTED

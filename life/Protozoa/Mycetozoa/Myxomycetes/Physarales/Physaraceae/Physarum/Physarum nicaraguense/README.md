@@ -1,17 +1,16 @@
-Lignydium nicaraguense (T. Macbr.) Kuntze, 1898 SPECIES
-=======
+# Physarum nicaraguense T. Macbr., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin Labs. nat. Hist. St. Univ. Ia 2: 382-383 (1893)
 
 #### Original name
-null
+Physarum nicaraguense T. Macbr., 1893
 
 ### Remarks
 null

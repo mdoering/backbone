@@ -1,5 +1,4 @@
-Vahliella labrata (P.M. Jørg.) P.M. Jørg. SPECIES
-=======
+# Vahliella labrata (P.M. Jørg.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

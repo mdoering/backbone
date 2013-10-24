@@ -1,5 +1,4 @@
-Exobasidium deqenense Z.Y. Li & L. Guo SPECIES
-=======
+# Exobasidium deqenense Z.Y. Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

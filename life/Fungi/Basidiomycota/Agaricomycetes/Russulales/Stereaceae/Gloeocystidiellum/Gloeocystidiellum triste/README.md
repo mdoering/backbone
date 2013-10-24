@@ -1,5 +1,4 @@
-Gloeocystidiellum triste Hjortstam & Ryvarden, 1986 SPECIES
-=======
+# Gloeocystidiellum triste Hjortstam & Ryvarden, 1986 SPECIES
 
 #### Status
 ACCEPTED

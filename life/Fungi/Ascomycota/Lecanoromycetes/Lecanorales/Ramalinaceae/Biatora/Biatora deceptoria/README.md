@@ -1,5 +1,4 @@
-Biatora deceptoria (Nyl.) Jatta SPECIES
-=======
+# Biatora deceptoria (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

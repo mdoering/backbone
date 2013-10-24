@@ -1,5 +1,4 @@
-Variophthalmidium Wang, 1986 GENUS
-=======
+# Variophthalmidium Wang, 1986 GENUS
 
 #### Status
 ACCEPTED

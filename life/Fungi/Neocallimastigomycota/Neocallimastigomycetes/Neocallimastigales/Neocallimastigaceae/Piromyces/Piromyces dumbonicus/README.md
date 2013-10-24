@@ -1,17 +1,16 @@
-Piromyces dumbonica J.L. Li SPECIES
-=======
+# Piromyces dumbonicus J.L. Li, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Li, Heath & Bauchop, Can. J. Bot. 68(5): 1028 (1990)
 
 #### Original name
-Piromyces dumbonica J.L. Li
+Piromyces dumbonicus J.L. Li, 1990
 
 ### Remarks
 null

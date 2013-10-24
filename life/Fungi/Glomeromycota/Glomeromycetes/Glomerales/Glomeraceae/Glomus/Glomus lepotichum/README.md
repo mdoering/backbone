@@ -1,5 +1,4 @@
-Glomus lepotichum Schenck & Smith SPECIES
-=======
+# Glomus lepotichum Schenck & Smith SPECIES
 
 #### Status
 ACCEPTED

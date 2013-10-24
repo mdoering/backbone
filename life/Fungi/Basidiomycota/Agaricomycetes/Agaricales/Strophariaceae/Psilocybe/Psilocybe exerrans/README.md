@@ -1,5 +1,4 @@
-Psilocybe exerrans (Britzelm.) Sacc. SPECIES
-=======
+# Psilocybe exerrans (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

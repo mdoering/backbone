@@ -1,5 +1,4 @@
-Verrucaria desertorum Servít SPECIES
-=======
+# Verrucaria desertorum Servít SPECIES
 
 #### Status
 ACCEPTED

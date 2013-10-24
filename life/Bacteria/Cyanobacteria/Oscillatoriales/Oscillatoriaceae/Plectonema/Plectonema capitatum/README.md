@@ -1,5 +1,4 @@
-Plectonema capitatum Lemmermann SPECIES
-=======
+# Plectonema capitatum Lemmermann SPECIES
 
 #### Status
 ACCEPTED

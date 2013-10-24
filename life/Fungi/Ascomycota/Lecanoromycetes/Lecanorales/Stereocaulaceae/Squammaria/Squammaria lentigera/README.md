@@ -1,5 +1,4 @@
-Squammaria lentigera DC. SPECIES
-=======
+# Squammaria lentigera DC. SPECIES
 
 #### Status
 ACCEPTED

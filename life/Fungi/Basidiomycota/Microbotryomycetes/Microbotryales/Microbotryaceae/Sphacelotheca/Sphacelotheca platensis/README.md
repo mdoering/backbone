@@ -1,5 +1,4 @@
-Sphacelotheca platensis (Hirschh.) Hirschh. SPECIES
-=======
+# Sphacelotheca platensis (Hirschh.) Hirschh. SPECIES
 
 #### Status
 ACCEPTED

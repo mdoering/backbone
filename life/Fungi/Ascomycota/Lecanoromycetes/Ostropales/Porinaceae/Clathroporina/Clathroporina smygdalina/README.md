@@ -1,5 +1,4 @@
-Clathroporina smygdalina SPECIES
-=======
+# Clathroporina smygdalina SPECIES
 
 #### Status
 ACCEPTED

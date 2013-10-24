@@ -1,5 +1,4 @@
-Lecidea orvinii Lynge SPECIES
-=======
+# Lecidea orvinii Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pocillaria cochlearis (Pers.) Kuntze SPECIES
-=======
+# Pocillaria cochlearis (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

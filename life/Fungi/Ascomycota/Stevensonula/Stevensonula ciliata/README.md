@@ -1,5 +1,4 @@
-Stevensonula ciliata Petr., 1952 SPECIES
-=======
+# Stevensonula ciliata Petr., 1952 SPECIES
 
 #### Status
 ACCEPTED

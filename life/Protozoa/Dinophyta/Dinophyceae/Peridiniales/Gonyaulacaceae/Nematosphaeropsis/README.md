@@ -1,14 +1,13 @@
-Pterococcus Lohmann, 1904 GENUS
-=======
+# Nematosphaeropsis Deflandre & Cookson, 1955 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. J. Mar. Freshw. Res. , 6, 268.
 
 #### Original name
 null

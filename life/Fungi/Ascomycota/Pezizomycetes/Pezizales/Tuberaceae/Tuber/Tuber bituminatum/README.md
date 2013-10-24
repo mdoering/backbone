@@ -1,5 +1,4 @@
-Tuber bituminatum Berk. & Broome, 1851 SPECIES
-=======
+# Tuber bituminatum Berk. & Broome, 1851 SPECIES
 
 #### Status
 ACCEPTED

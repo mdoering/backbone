@@ -1,5 +1,4 @@
-Phyllosticta punctiformis Sacc. SPECIES
-=======
+# Phyllosticta punctiformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

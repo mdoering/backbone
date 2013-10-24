@@ -1,5 +1,4 @@
-Russula pseudolateriticola Buyck SPECIES
-=======
+# Russula pseudolateriticola Buyck SPECIES
 
 #### Status
 ACCEPTED

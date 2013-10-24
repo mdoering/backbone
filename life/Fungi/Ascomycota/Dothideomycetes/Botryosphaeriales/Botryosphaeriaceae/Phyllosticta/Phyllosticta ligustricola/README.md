@@ -1,5 +1,4 @@
-Phyllosticta ligustricola Motohashi & C. Nakash. SPECIES
-=======
+# Phyllosticta ligustricola Motohashi & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

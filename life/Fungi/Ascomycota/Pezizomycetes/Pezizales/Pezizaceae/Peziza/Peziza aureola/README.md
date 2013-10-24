@@ -1,5 +1,4 @@
-Peziza aureola Rabenh. SPECIES
-=======
+# Peziza aureola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

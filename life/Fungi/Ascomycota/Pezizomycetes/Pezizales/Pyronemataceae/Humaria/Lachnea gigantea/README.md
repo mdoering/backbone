@@ -1,5 +1,4 @@
-Lachnea gigantea (Clem.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea gigantea (Clem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

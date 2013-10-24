@@ -1,5 +1,4 @@
-Psilocybe papuana Guzmán & E. Horak SPECIES
-=======
+# Psilocybe papuana Guzmán & E. Horak SPECIES
 
 #### Status
 ACCEPTED

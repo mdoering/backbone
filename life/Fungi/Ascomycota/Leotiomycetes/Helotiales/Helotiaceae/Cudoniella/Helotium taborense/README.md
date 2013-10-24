@@ -1,5 +1,4 @@
-Helotium taborense Svrcek SPECIES
-=======
+# Helotium taborense Svrcek SPECIES
 
 #### Status
 ACCEPTED

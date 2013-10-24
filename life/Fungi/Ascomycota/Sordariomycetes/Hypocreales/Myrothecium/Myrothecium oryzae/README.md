@@ -1,5 +1,4 @@
-Myrothecium oryzae Sacc. SPECIES
-=======
+# Myrothecium oryzae Sacc. SPECIES
 
 #### Status
 ACCEPTED

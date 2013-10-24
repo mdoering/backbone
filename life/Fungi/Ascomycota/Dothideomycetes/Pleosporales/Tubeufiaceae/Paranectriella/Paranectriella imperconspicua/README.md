@@ -1,14 +1,13 @@
-Hyalocrea imperconspicua (Höhn.) Rossman, 1987 SPECIES
-=======
+# Paranectriella imperconspicua (Höhn.) Piroz., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 157: 50 (1987)
+Kew Bull. 31(3): 598 (1977)
 
 #### Original name
 Paranectria imperconspicua Höhn., 1909

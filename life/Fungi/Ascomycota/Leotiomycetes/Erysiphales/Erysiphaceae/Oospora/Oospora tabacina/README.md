@@ -1,5 +1,4 @@
-Oospora tabacina Sacc. & Cavara SPECIES
-=======
+# Oospora tabacina Sacc. & Cavara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula ambrosiae (Peck) S. Hughes SPECIES
-=======
+# Torula ambrosiae (Peck) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

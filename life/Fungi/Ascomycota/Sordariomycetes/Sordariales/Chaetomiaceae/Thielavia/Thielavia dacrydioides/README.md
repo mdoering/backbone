@@ -1,5 +1,4 @@
-Thielavia dacrydioides J.C. Krug SPECIES
-=======
+# Thielavia dacrydioides J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

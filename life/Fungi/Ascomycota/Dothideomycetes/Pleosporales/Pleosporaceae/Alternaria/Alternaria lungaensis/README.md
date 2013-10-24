@@ -1,5 +1,4 @@
-Alternaria lungaensis Matsush. SPECIES
-=======
+# Alternaria lungaensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

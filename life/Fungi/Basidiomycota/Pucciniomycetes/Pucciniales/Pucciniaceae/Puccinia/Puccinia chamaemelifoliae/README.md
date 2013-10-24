@@ -1,5 +1,4 @@
-Puccinia chamaemelifoliae Vienn.-Bourg. SPECIES
-=======
+# Puccinia chamaemelifoliae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

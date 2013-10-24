@@ -1,5 +1,4 @@
-Cyanodictyon planctonicum B. Meyer SPECIES
-=======
+# Cyanodictyon planctonicum B. Meyer SPECIES
 
 #### Status
 ACCEPTED

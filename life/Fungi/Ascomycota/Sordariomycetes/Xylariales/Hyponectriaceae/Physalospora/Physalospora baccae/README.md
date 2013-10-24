@@ -1,5 +1,4 @@
-Physalospora baccae Cavara SPECIES
-=======
+# Physalospora baccae Cavara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus termiticola (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus termiticola (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

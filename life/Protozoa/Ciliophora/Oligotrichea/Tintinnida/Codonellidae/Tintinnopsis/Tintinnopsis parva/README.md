@@ -1,5 +1,4 @@
-Tintinnopsis parva Merkle, 1909 SPECIES
-=======
+# Tintinnopsis parva Merkle, 1909 SPECIES
 
 #### Status
 ACCEPTED

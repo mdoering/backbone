@@ -1,5 +1,4 @@
-Agaricus insequens Britzelm. SPECIES
-=======
+# Agaricus insequens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

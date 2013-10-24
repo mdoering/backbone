@@ -1,5 +1,4 @@
-Acinetactis Stokes GENUS
-=======
+# Acinetactis Stokes GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenogaster aureus Rodway SPECIES
-=======
+# Hymenogaster aureus Rodway SPECIES
 
 #### Status
 ACCEPTED

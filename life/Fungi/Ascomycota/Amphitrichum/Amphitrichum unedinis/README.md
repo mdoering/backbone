@@ -1,5 +1,4 @@
-Amphitrichum unedinis (Fabre) Kuntze SPECIES
-=======
+# Amphitrichum unedinis (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

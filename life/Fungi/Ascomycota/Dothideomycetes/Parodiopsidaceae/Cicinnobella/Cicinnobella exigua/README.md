@@ -1,5 +1,4 @@
-Cicinnobella exigua Syd. SPECIES
-=======
+# Cicinnobella exigua Syd. SPECIES
 
 #### Status
 ACCEPTED

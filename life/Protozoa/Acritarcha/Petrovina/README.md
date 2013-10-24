@@ -1,5 +1,4 @@
-Petrovina S. Loboziak, J.H.G. Melo, L.P. Quadros & M. Streel, 1997 GENUS
-=======
+# Petrovina S. Loboziak, J.H.G. Melo, L.P. Quadros & M. Streel, 1997 GENUS
 
 #### Status
 ACCEPTED

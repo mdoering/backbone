@@ -1,5 +1,4 @@
-Amphidinium dubium Conrad & Kufferath SPECIES
-=======
+# Amphidinium dubium Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

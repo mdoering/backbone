@@ -1,5 +1,4 @@
-Psilocybe wayanadensis K.A. Thomas, Manim. & Guzmán SPECIES
-=======
+# Psilocybe wayanadensis K.A. Thomas, Manim. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

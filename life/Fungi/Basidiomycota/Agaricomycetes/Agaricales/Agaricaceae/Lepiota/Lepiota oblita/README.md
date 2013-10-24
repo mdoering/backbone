@@ -1,5 +1,4 @@
-Lepiota oblita (Peck) Sacc. SPECIES
-=======
+# Lepiota oblita (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

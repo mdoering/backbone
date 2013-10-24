@@ -1,5 +1,4 @@
-Hyperammina fragilis Höglund, 1947 SPECIES
-=======
+# Hyperammina fragilis Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

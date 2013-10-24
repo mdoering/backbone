@@ -1,5 +1,4 @@
-Scleroderma laeve Lloyd, 1916 SPECIES
-=======
+# Scleroderma laeve Lloyd, 1916 SPECIES
 
 #### Status
 ACCEPTED

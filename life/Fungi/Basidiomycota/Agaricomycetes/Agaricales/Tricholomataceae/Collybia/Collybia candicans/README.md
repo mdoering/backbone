@@ -1,5 +1,4 @@
-Collybia candicans Velen. SPECIES
-=======
+# Collybia candicans Velen. SPECIES
 
 #### Status
 ACCEPTED

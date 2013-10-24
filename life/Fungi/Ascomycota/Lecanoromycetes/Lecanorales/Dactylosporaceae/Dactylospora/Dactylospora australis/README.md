@@ -1,5 +1,4 @@
-Dactylospora australis Triebel & Hertel SPECIES
-=======
+# Dactylospora australis Triebel & Hertel SPECIES
 
 #### Status
 ACCEPTED

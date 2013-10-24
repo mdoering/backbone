@@ -1,5 +1,4 @@
-Uredo alabamensis Dietel SPECIES
-=======
+# Uredo alabamensis Dietel SPECIES
 
 #### Status
 ACCEPTED

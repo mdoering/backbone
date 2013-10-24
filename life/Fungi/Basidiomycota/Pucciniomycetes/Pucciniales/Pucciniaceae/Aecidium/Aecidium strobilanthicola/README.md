@@ -1,5 +1,4 @@
-Aecidium strobilanthicola Sawada ex G.F. Laundon SPECIES
-=======
+# Aecidium strobilanthicola Sawada ex G.F. Laundon SPECIES
 
 #### Status
 ACCEPTED

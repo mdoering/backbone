@@ -1,5 +1,4 @@
-Tremella parasitica Schwein. SPECIES
-=======
+# Tremella parasitica Schwein. SPECIES
 
 #### Status
 ACCEPTED

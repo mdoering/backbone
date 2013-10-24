@@ -1,5 +1,4 @@
-Scutula verrucariae Metzler SPECIES
-=======
+# Scutula verrucariae Metzler SPECIES
 
 #### Status
 ACCEPTED

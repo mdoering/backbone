@@ -1,5 +1,4 @@
-Dothiorella winteri Speg. SPECIES
-=======
+# Dothiorella winteri Speg. SPECIES
 
 #### Status
 ACCEPTED

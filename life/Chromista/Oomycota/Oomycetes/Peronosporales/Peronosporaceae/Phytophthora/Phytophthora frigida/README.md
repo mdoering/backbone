@@ -1,5 +1,4 @@
-Phytophthora frigida Maseko, Cout. & M.J. Wingf. SPECIES
-=======
+# Phytophthora frigida Maseko, Cout. & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

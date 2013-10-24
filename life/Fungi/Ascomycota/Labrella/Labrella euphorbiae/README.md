@@ -1,5 +1,4 @@
-Labrella euphorbiae Kalymb. SPECIES
-=======
+# Labrella euphorbiae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

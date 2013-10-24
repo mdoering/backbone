@@ -1,17 +1,16 @@
-Piedraia malayi Green & Mankikar, 1950 SPECIES
-=======
+# Piedraia hortae Fonseca & Leão, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Memórias do Instituto Oswaldo Cruz, Supplemento 4(Suppl. ): 124 (1928)
 
 #### Original name
-null
+Piedraia hortae Fonseca & Leão, 1928
 
 ### Remarks
 null

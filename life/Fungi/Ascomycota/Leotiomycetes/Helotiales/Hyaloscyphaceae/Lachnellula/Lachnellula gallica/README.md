@@ -1,5 +1,4 @@
-Lachnellula gallica (P. Karst. & Har.) Dennis SPECIES
-=======
+# Lachnellula gallica (P. Karst. & Har.) Dennis SPECIES
 
 #### Status
 ACCEPTED

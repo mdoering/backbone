@@ -1,5 +1,4 @@
-Diporisporites pisciculatus G. Norris SPECIES
-=======
+# Diporisporites pisciculatus G. Norris SPECIES
 
 #### Status
 ACCEPTED

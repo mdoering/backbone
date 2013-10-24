@@ -1,17 +1,16 @@
-Mycosphaerella daviesicola Beilharz & Pascoe, 2002 SPECIES
-=======
+# Mycosphaerella daviesiicola Beilharz & Pascoe, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 82: 364 (2002)
 
 #### Original name
-Mycosphaerella daviesicola Beilharz & Pascoe, 2002
+Mycosphaerella daviesiicola Beilharz & Pascoe, 2002
 
 ### Remarks
 null

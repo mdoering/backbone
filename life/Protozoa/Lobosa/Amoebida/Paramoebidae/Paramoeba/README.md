@@ -1,5 +1,4 @@
-Paramoeba Schaudinn GENUS
-=======
+# Paramoeba Schaudinn GENUS
 
 #### Status
 ACCEPTED

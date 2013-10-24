@@ -1,5 +1,4 @@
-Cryptosporium ipirangae Speg. SPECIES
-=======
+# Cryptosporium ipirangae Speg. SPECIES
 
 #### Status
 ACCEPTED

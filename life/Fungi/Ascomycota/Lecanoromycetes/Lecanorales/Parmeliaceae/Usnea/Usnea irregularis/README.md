@@ -1,5 +1,4 @@
-Usnea irregularis Motyka SPECIES
-=======
+# Usnea irregularis Motyka SPECIES
 
 #### Status
 ACCEPTED

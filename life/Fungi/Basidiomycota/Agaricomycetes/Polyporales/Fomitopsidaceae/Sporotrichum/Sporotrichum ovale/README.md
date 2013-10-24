@@ -1,5 +1,4 @@
-Sporotrichum ovale Rivolta SPECIES
-=======
+# Sporotrichum ovale Rivolta SPECIES
 
 #### Status
 ACCEPTED

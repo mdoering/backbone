@@ -1,5 +1,4 @@
-Phyllosticta thujae Bissett & M.E. Palm SPECIES
-=======
+# Phyllosticta thujae Bissett & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

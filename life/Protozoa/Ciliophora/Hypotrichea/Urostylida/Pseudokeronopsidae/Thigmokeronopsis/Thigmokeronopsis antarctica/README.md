@@ -1,5 +1,4 @@
-Thigmokeronopsis antarctica Petz, 1995 SPECIES
-=======
+# Thigmokeronopsis antarctica Petz, 1995 SPECIES
 
 #### Status
 ACCEPTED

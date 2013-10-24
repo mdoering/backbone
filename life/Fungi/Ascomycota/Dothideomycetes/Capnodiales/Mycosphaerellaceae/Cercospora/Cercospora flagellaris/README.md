@@ -1,5 +1,4 @@
-Cercospora flagellaris Ellis & G. Martin SPECIES
-=======
+# Cercospora flagellaris Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

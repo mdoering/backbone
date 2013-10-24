@@ -1,5 +1,4 @@
-Irenopsis caseariae Hansf. SPECIES
-=======
+# Irenopsis caseariae Hansf. SPECIES
 
 #### Status
 ACCEPTED

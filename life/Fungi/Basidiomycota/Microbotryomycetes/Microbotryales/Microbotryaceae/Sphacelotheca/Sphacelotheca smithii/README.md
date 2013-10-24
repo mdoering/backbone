@@ -1,5 +1,4 @@
-Sphacelotheca smithii Petr. SPECIES
-=======
+# Sphacelotheca smithii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella commixta Peck SPECIES
-=======
+# Aplosporella commixta Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spermosporina gymnadeniae Mulenko, U. Braun & Wolcz. SPECIES
-=======
+# Spermosporina gymnadeniae Mulenko, U. Braun & Wolcz. SPECIES
 
 #### Status
 ACCEPTED

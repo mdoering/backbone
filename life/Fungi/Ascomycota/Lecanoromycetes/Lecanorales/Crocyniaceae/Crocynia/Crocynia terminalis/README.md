@@ -1,5 +1,4 @@
-Crocynia terminalis SPECIES
-=======
+# Crocynia terminalis SPECIES
 
 #### Status
 ACCEPTED

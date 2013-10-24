@@ -1,5 +1,4 @@
-Penicillium senticosum D.B. Scott, 1968 SPECIES
-=======
+# Penicillium senticosum D.B. Scott, 1968 SPECIES
 
 #### Status
 DOUBTFUL

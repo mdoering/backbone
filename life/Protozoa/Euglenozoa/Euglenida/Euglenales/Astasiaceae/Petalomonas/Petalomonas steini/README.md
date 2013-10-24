@@ -1,5 +1,4 @@
-Petalomonas steini SPECIES
-=======
+# Petalomonas steini SPECIES
 
 #### Status
 ACCEPTED

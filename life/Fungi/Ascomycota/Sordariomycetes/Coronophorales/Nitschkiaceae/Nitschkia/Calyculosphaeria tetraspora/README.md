@@ -1,5 +1,4 @@
-Calyculosphaeria tetraspora (Nannf.) F. San Martín SPECIES
-=======
+# Calyculosphaeria tetraspora (Nannf.) F. San Martín SPECIES
 
 #### Status
 ACCEPTED

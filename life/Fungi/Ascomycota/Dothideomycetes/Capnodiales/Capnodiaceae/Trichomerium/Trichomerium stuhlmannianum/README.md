@@ -1,5 +1,4 @@
-Trichomerium stuhlmannianum (Henn.) Bat. & Cif. SPECIES
-=======
+# Trichomerium stuhlmannianum (Henn.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

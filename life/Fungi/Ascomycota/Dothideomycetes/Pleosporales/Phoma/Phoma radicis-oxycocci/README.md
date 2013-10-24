@@ -1,5 +1,4 @@
-Phoma radicis-oxycocci Ternetz SPECIES
-=======
+# Phoma radicis-oxycocci Ternetz SPECIES
 
 #### Status
 ACCEPTED

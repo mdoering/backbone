@@ -1,5 +1,4 @@
-Cercospora centaureae Died. SPECIES
-=======
+# Cercospora centaureae Died. SPECIES
 
 #### Status
 ACCEPTED

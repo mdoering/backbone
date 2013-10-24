@@ -1,5 +1,4 @@
-Gyrodinium metum Hulburt, 1957 SPECIES
-=======
+# Gyrodinium metum Hulburt, 1957 SPECIES
 
 #### Status
 ACCEPTED

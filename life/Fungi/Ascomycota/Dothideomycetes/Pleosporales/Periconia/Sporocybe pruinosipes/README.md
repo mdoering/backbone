@@ -1,5 +1,4 @@
-Sporocybe pruinosipes (Peck) Goid. SPECIES
-=======
+# Sporocybe pruinosipes (Peck) Goid. SPECIES
 
 #### Status
 ACCEPTED

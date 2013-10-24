@@ -1,17 +1,16 @@
-Uredo potentillarum var. potentillarum VARIETY
-=======
+# Phragmidium potentillae (Pers.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 81 (1815)
+Bidr. Känn. Finl. Nat. Folk 31: 49 (1879)
 
 #### Original name
-Uredo potentillarum var. potentillarum
+Puccinia potentillae Pers., 1801
 
 ### Remarks
 null

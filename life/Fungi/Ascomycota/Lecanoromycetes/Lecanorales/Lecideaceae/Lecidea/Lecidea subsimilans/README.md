@@ -1,5 +1,4 @@
-Lecidea subsimilans Nyl. SPECIES
-=======
+# Lecidea subsimilans Nyl. SPECIES
 
 #### Status
 ACCEPTED

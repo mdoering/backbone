@@ -1,5 +1,4 @@
-Sydowiellina pogonophorae Bat. & H. Maia SPECIES
-=======
+# Sydowiellina pogonophorae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

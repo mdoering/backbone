@@ -1,5 +1,4 @@
-Podosordaria entosulphurea (J.D. Rogers, F. San Martín & Y.M. Ju) J.D. Rogers, Y.M. Ju & F. San Martín SPECIES
-=======
+# Podosordaria entosulphurea (J.D. Rogers, F. San Martín & Y.M. Ju) J.D. Rogers, Y.M. Ju & F. San Martín SPECIES
 
 #### Status
 ACCEPTED

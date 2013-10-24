@@ -1,5 +1,4 @@
-Aspicilia protuberans Räsänen SPECIES
-=======
+# Aspicilia protuberans Räsänen SPECIES
 
 #### Status
 ACCEPTED

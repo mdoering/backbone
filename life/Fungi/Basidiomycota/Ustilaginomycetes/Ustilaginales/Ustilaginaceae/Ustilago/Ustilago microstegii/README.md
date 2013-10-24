@@ -1,5 +1,4 @@
-Ustilago microstegii (S. Ahmad) Vánky SPECIES
-=======
+# Ustilago microstegii (S. Ahmad) Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora fagraeae Höhn. SPECIES
-=======
+# Physalospora fagraeae Höhn. SPECIES
 
 #### Status
 ACCEPTED

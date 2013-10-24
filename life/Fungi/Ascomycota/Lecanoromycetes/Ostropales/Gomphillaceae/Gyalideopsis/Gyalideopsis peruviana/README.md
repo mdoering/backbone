@@ -1,5 +1,4 @@
-Gyalideopsis peruviana G. Merr. ex Vezda SPECIES
-=======
+# Gyalideopsis peruviana G. Merr. ex Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanospora longisetosa P.F. Cannon & D. Hawksw., 1982 SPECIES
-=======
+# Melanospora longisetosa P.F. Cannon & D. Hawksw., 1982 SPECIES
 
 #### Status
 ACCEPTED

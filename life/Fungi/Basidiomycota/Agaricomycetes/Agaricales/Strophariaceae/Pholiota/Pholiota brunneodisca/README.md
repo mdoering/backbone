@@ -1,5 +1,4 @@
-Pholiota brunneodisca (Peck) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota brunneodisca (Peck) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

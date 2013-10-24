@@ -1,5 +1,4 @@
-Woronina Cornu GENUS
-=======
+# Woronina Cornu GENUS
 
 #### Status
 ACCEPTED

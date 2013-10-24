@@ -1,5 +1,4 @@
-Panus purpuratus G. Stev., 1964 SPECIES
-=======
+# Panus purpuratus G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

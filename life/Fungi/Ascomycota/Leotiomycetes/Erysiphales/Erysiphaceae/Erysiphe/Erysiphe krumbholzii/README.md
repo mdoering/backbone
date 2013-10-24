@@ -1,5 +1,4 @@
-Erysiphe krumbholzii U. Braun SPECIES
-=======
+# Erysiphe krumbholzii U. Braun SPECIES
 
 #### Status
 ACCEPTED

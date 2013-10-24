@@ -1,5 +1,4 @@
-Leucocytospora GENUS
-=======
+# Leucocytospora GENUS
 
 #### Status
 ACCEPTED

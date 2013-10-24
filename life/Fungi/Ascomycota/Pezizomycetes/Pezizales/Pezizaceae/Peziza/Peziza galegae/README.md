@@ -1,5 +1,4 @@
-Peziza galegae Ces. SPECIES
-=======
+# Peziza galegae Ces. SPECIES
 
 #### Status
 ACCEPTED

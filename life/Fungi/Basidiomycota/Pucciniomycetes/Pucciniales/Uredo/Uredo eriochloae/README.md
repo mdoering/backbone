@@ -1,5 +1,4 @@
-Uredo eriochloae Syd. & P. Syd. SPECIES
-=======
+# Uredo eriochloae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

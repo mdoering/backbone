@@ -1,5 +1,4 @@
-Meliola barsamae Hansf. SPECIES
-=======
+# Meliola barsamae Hansf. SPECIES
 
 #### Status
 ACCEPTED

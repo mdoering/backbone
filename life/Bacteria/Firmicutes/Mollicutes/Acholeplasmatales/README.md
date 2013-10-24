@@ -1,5 +1,4 @@
-Acholeplasmatales ORDER
-=======
+# Acholeplasmatales ORDER
 
 #### Status
 ACCEPTED

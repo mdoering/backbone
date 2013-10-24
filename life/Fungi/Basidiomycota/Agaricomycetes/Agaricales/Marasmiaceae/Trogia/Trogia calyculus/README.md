@@ -1,5 +1,4 @@
-Trogia calyculus Corner SPECIES
-=======
+# Trogia calyculus Corner SPECIES
 
 #### Status
 ACCEPTED

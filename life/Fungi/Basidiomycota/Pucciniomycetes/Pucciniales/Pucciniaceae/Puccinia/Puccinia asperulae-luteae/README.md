@@ -1,5 +1,4 @@
-Puccinia asperulae-luteae Gäum. SPECIES
-=======
+# Puccinia asperulae-luteae Gäum. SPECIES
 
 #### Status
 ACCEPTED

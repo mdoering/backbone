@@ -1,5 +1,4 @@
-Phaeographis hypoglaucoides Kr. P. Singh & D. D. Awasthi SPECIES
-=======
+# Phaeographis hypoglaucoides Kr. P. Singh & D. D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

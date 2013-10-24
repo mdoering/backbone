@@ -1,5 +1,4 @@
-Aecidium sanguisorbae SPECIES
-=======
+# Aecidium sanguisorbae SPECIES
 
 #### Status
 ACCEPTED

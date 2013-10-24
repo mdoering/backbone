@@ -1,5 +1,4 @@
-Schizoxylon sulfurinum Sherwood SPECIES
-=======
+# Schizoxylon sulfurinum Sherwood SPECIES
 
 #### Status
 ACCEPTED

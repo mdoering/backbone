@@ -1,5 +1,4 @@
-Callopisma crassum Malme SPECIES
-=======
+# Callopisma crassum Malme SPECIES
 
 #### Status
 ACCEPTED

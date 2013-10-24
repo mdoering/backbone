@@ -1,5 +1,4 @@
-Marasmius cyathiformis Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius cyathiformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

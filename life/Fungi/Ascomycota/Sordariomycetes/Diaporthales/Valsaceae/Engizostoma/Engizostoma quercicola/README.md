@@ -1,5 +1,4 @@
-Engizostoma quercicola (Allesch.) Kuntze SPECIES
-=======
+# Engizostoma quercicola (Allesch.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

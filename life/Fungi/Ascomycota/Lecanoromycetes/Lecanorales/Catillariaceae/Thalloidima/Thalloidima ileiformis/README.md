@@ -1,5 +1,4 @@
-Thalloidima ileiformis (Fr.) Boistel SPECIES
-=======
+# Thalloidima ileiformis (Fr.) Boistel SPECIES
 
 #### Status
 ACCEPTED

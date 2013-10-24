@@ -1,5 +1,4 @@
-Hypomyces microspermus Rogerson & Samuels, 1989 SPECIES
-=======
+# Hypomyces microspermus Rogerson & Samuels, 1989 SPECIES
 
 #### Status
 ACCEPTED

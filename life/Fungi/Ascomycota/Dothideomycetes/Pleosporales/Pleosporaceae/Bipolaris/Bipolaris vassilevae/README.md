@@ -1,5 +1,4 @@
-Bipolaris vassilevae Gornostai SPECIES
-=======
+# Bipolaris vassilevae Gornostai SPECIES
 
 #### Status
 ACCEPTED

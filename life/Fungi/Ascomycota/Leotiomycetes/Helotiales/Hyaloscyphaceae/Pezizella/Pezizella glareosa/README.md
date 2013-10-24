@@ -1,17 +1,16 @@
-Pezizella glareosa var. sanguinescens Velen. VARIETY
-=======
+# Pezizella glareosa Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae 181 (1939)
+Monogr. Discom. Bohem. (Prague) 165 (1934)
 
 #### Original name
-Pezizella glareosa var. sanguinescens Velen.
+Pezizella glareosa Velen., 1934
 
 ### Remarks
 null

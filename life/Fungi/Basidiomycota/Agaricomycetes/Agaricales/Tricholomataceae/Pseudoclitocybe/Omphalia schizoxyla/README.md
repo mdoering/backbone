@@ -1,5 +1,4 @@
-Omphalia schizoxyla (Fr.) Gillet SPECIES
-=======
+# Omphalia schizoxyla (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

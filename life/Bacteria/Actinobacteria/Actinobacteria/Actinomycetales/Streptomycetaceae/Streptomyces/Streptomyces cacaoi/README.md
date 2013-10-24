@@ -1,5 +1,4 @@
-Streptomyces cacaoi subsp. cacaoi SUBSPECIES
-=======
+# Streptomyces cacaoi (Waksman, 1932) Waksman & Henrici, 1948 SPECIES
 
 #### Status
 ACCEPTED

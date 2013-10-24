@@ -1,5 +1,4 @@
-Ohleria quercicola Fabre SPECIES
-=======
+# Ohleria quercicola Fabre SPECIES
 
 #### Status
 ACCEPTED

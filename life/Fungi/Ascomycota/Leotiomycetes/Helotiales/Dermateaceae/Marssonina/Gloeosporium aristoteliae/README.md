@@ -1,5 +1,4 @@
-Gloeosporium aristoteliae A.L. Sm. & Ramsb. SPECIES
-=======
+# Gloeosporium aristoteliae A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

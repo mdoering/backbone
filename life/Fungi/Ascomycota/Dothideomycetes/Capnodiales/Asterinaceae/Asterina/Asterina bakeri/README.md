@@ -1,5 +1,4 @@
-Asterina bakeri Syd. & P. Syd. SPECIES
-=======
+# Asterina bakeri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

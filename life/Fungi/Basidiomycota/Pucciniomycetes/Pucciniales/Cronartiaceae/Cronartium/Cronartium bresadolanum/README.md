@@ -1,17 +1,16 @@
-Cronartium bresadoleanum Henn. SPECIES
-=======
+# Cronartium bresadolanum Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Die Pflanzenwelt Ost. Afrikas & der Nachbargebiete, Teil C 51 (1895)
 
 #### Original name
-Cronartium bresadoleanum Henn.
+Cronartium bresadolanum Henn.
 
 ### Remarks
 null

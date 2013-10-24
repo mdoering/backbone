@@ -1,5 +1,4 @@
-Stropharia fusoidea (Pat.) Sacc. SPECIES
-=======
+# Stropharia fusoidea (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

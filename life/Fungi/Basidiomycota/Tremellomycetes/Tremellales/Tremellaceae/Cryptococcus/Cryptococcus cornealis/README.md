@@ -1,5 +1,4 @@
-Cryptococcus cornealis Nann. SPECIES
-=======
+# Cryptococcus cornealis Nann. SPECIES
 
 #### Status
 ACCEPTED

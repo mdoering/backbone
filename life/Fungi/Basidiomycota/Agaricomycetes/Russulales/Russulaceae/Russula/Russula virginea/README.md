@@ -1,5 +1,4 @@
-Russula virginea Cooke & Massee SPECIES
-=======
+# Russula virginea Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

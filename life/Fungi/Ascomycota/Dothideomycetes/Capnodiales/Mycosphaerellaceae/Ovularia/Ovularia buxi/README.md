@@ -1,5 +1,4 @@
-Ovularia buxi Oudem. SPECIES
-=======
+# Ovularia buxi Oudem. SPECIES
 
 #### Status
 ACCEPTED

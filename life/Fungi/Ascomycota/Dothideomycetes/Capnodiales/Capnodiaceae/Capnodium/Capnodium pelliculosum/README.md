@@ -1,5 +1,4 @@
-Capnodium pelliculosum subsp. pelliculosum SUBSPECIES
-=======
+# Capnodium pelliculosum Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Berkeley, Grevillea 4(no. 32): 156 (1876)
 
 #### Original name
-Capnodium pelliculosum subsp. pelliculosum
+Capnodium pelliculosum Berk. & Ravenel
 
 ### Remarks
 null

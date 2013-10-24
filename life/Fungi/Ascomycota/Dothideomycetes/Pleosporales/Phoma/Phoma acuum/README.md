@@ -1,5 +1,4 @@
-Phoma acuum Cooke & Ellis, 1878 SPECIES
-=======
+# Phoma acuum Cooke & Ellis, 1878 SPECIES
 
 #### Status
 ACCEPTED

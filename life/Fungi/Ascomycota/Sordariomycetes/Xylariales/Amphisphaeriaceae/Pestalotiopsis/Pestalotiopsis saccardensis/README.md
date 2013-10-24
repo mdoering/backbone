@@ -1,14 +1,13 @@
-Pestalotiopsis saccardens (Guba) Y.X. Chen SPECIES
-=======
+# Pestalotiopsis saccardensis (Guba) Y.X. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Chen & Wei, Journal of Guangxi Agricultural University 12(1): 27 (1993)
 
 #### Original name
 Pestalotia saccardensis Guba

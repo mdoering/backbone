@@ -1,5 +1,4 @@
-Teloschistes spinosus f. spinosus FORM
-=======
+# Teloschistes spinosus Js. Murray SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. & Proc. Roy. Soc. New Zealand, Bot. 88: 207 (1960)
 
 #### Original name
-Teloschistes spinosus f. spinosus
+Teloschistes spinosus Js. Murray
 
 ### Remarks
 null

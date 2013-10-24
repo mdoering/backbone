@@ -1,8 +1,7 @@
-Eucantharomyces madagascarensis Thaxt. SPECIES
-=======
+# Eucantharomyces madagascariensis Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eucantharomyces madagascarensis Thaxt.
+Eucantharomyces madagascariensis Thaxt.
 
 ### Remarks
 null

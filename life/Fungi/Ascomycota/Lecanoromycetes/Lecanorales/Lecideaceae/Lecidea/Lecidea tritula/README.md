@@ -1,5 +1,4 @@
-Lecidea tritula Nyl. SPECIES
-=======
+# Lecidea tritula Nyl. SPECIES
 
 #### Status
 ACCEPTED

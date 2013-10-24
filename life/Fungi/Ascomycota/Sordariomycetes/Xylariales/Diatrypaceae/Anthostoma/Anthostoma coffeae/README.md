@@ -1,5 +1,4 @@
-Anthostoma coffeae Saccas SPECIES
-=======
+# Anthostoma coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

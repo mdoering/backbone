@@ -1,5 +1,4 @@
-Letharia columbiana (Nutt.) J. W. Thomson SPECIES
-=======
+# Letharia columbiana (Nutt.) J. W. Thomson SPECIES
 
 #### Status
 ACCEPTED

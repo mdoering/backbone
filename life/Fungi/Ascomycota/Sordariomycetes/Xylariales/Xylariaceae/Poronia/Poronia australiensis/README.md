@@ -1,5 +1,4 @@
-Poronia australiensis (Laessøe, C.A. Pearce & K.D. Hyde) J.D. Rogers, Y.M. Ju & F. San Martín SPECIES
-=======
+# Poronia australiensis (Laessøe, C.A. Pearce & K.D. Hyde) J.D. Rogers, Y.M. Ju & F. San Martín SPECIES
 
 #### Status
 ACCEPTED

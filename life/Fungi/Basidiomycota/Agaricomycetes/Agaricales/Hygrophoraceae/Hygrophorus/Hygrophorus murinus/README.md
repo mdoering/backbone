@@ -1,5 +1,4 @@
-Hygrophorus murinus Bird {?} & Grund SPECIES
-=======
+# Hygrophorus murinus Bird {?} & Grund SPECIES
 
 #### Status
 ACCEPTED

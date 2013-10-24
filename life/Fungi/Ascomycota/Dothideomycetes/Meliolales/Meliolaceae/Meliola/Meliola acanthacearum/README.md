@@ -1,5 +1,4 @@
-Meliola acanthacearum Hansf. SPECIES
-=======
+# Meliola acanthacearum Hansf. SPECIES
 
 #### Status
 ACCEPTED

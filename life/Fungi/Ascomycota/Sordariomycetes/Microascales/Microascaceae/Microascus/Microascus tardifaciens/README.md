@@ -1,5 +1,4 @@
-Microascus tardifaciens Y. Horie & Udagawa SPECIES
-=======
+# Microascus tardifaciens Y. Horie & Udagawa SPECIES
 
 #### Status
 ACCEPTED

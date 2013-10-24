@@ -1,17 +1,16 @@
-Didymosphaeria dannenbergii Stein SPECIES
-=======
+# Peridiothelia fuliguncta (Norman) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 121 (1985)
 
 #### Original name
-Didymosphaeria dannenbergii Stein
+Microthelia fuliguncta Norman
 
 ### Remarks
 null

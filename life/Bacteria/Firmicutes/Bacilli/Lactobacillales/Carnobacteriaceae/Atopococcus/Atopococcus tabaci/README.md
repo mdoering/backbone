@@ -1,5 +1,4 @@
-Atopococcus tabaci Collins et al., 2005 SPECIES
-=======
+# Atopococcus tabaci Collins et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

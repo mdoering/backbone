@@ -1,5 +1,4 @@
-Phacidiaceae Fr. FAMILY
-=======
+# Phacidiaceae Fr. FAMILY
 
 #### Status
 ACCEPTED

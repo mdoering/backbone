@@ -1,14 +1,13 @@
-Stanophyllum GENUS
-=======
+# Stannophyllum Haeckel, 1889 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rep. Voy. Challenger Exped. , Zool. , 32, no. 82, 60.
 
 #### Original name
 null

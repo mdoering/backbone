@@ -1,5 +1,4 @@
-Cercospora polymorpha Bubák SPECIES
-=======
+# Cercospora polymorpha Bubák SPECIES
 
 #### Status
 ACCEPTED

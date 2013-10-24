@@ -1,14 +1,13 @@
-Hypolyssus fulgens (Fr.) Kuntze, 1898 SPECIES
-=======
+# Hypomyces fulgens (Fr.) P. Karst., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 488 (1898)
+Bidr. Känn. Finl. Nat. Folk 23: 207 (1873)
 
 #### Original name
 Sphaeria aurantia Pers., 1800

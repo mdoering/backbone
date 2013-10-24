@@ -1,5 +1,4 @@
-Penicillium cylindrosporum G. Sm., 1957 SPECIES
-=======
+# Penicillium cylindrosporum G. Sm., 1957 SPECIES
 
 #### Status
 DOUBTFUL

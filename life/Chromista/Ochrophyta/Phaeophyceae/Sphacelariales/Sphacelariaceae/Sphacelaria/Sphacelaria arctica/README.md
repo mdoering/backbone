@@ -1,11 +1,10 @@
-Sphacelaria cirrosa var. notata C.Agardh, 1828 VARIETY
-=======
+# Sphacelaria arctica Harvey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

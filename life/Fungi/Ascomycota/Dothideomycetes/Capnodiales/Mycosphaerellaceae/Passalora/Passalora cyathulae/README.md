@@ -1,5 +1,4 @@
-Passalora cyathulae (F. Stevens & Solheim) U. Braun & Crous SPECIES
-=======
+# Passalora cyathulae (F. Stevens & Solheim) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

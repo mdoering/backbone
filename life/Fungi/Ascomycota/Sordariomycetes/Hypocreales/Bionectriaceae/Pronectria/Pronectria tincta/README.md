@@ -1,5 +1,4 @@
-Pronectria tincta (Fuckel) Lowen, 1990 SPECIES
-=======
+# Pronectria tincta (Fuckel) Lowen, 1990 SPECIES
 
 #### Status
 ACCEPTED

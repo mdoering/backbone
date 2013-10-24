@@ -1,14 +1,13 @@
-Lomatia (Fr.) P. Karst. GENUS
-=======
+# Cytidia Quélet, 1888 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 48: 403 (1889)
+null
 
 #### Original name
 null

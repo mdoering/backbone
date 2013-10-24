@@ -1,5 +1,4 @@
-Helicogonium scrupulosae Baral, 1999 SPECIES
-=======
+# Helicogonium scrupulosae Baral, 1999 SPECIES
 
 #### Status
 ACCEPTED

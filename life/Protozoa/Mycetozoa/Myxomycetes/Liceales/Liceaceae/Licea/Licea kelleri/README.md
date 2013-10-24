@@ -1,17 +1,16 @@
-Licea kellerii Nann.-Bremek. & Y. Yamam. SPECIES
-=======
+# Licea kelleri Nann.-Bremek. & Y. Yamam., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 86(2): 211 (1983)
 
 #### Original name
-Licea kellerii Nann.-Bremek. & Y. Yamam.
+Licea kelleri Nann.-Bremek. & Y. Yamam., 1983
 
 ### Remarks
 null

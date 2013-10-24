@@ -1,5 +1,4 @@
-Lacellina Sacc. GENUS
-=======
+# Lacellina Sacc. GENUS
 
 #### Status
 ACCEPTED

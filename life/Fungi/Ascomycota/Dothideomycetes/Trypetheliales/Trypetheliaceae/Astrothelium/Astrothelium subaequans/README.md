@@ -1,5 +1,4 @@
-Astrothelium subaequans Müll. Arg. SPECIES
-=======
+# Astrothelium subaequans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

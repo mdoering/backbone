@@ -1,5 +1,4 @@
-Omphalina cotopatae (Singer) Raithelh. SPECIES
-=======
+# Omphalina cotopatae (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium Spreng. GENUS
-=======
+# Trypethelium Spreng. GENUS
 
 #### Status
 ACCEPTED

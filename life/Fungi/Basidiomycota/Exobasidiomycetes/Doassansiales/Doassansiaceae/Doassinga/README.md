@@ -1,5 +1,4 @@
-Doassinga Vánky, R. Bauer & Begerow GENUS
-=======
+# Doassinga Vánky, R. Bauer & Begerow GENUS
 
 #### Status
 ACCEPTED

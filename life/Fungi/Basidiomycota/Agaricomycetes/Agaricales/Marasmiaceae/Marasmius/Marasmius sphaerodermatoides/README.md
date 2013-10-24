@@ -1,5 +1,4 @@
-Marasmius sphaerodermatoides Singer SPECIES
-=======
+# Marasmius sphaerodermatoides Singer SPECIES
 
 #### Status
 ACCEPTED

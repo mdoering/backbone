@@ -1,5 +1,4 @@
-Uredo arisanensis (Hirats. f.) Hirats. f. SPECIES
-=======
+# Uredo arisanensis (Hirats. f.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

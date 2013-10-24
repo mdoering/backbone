@@ -1,5 +1,4 @@
-Dasyphthora lasioderma (Ellis) Clem. SPECIES
-=======
+# Dasyphthora lasioderma (Ellis) Clem. SPECIES
 
 #### Status
 ACCEPTED

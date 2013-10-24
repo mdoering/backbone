@@ -1,5 +1,4 @@
-Sphaerella pachypleuri Fuckel SPECIES
-=======
+# Sphaerella pachypleuri Fuckel SPECIES
 
 #### Status
 ACCEPTED

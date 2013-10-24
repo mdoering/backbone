@@ -1,5 +1,4 @@
-Bullaria redempta (H.S. Jacks.) Arthur & Mains SPECIES
-=======
+# Bullaria redempta (H.S. Jacks.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

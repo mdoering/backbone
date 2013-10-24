@@ -1,5 +1,4 @@
-Lecanora granularis Müll. Arg. SPECIES
-=======
+# Lecanora granularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

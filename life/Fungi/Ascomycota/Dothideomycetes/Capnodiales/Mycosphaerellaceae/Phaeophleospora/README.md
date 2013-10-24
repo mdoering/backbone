@@ -1,5 +1,4 @@
-Phaeophleospora Rangel GENUS
-=======
+# Phaeophleospora Rangel GENUS
 
 #### Status
 ACCEPTED

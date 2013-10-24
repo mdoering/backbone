@@ -1,5 +1,4 @@
-Laccaria nigra Hongo SPECIES
-=======
+# Laccaria nigra Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Castanella Haeckel, 1887 GENUS
-=======
+# Castanella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

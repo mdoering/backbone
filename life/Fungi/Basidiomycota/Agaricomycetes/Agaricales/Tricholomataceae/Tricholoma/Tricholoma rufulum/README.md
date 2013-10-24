@@ -1,5 +1,4 @@
-Tricholoma rufulum R. Heim SPECIES
-=======
+# Tricholoma rufulum R. Heim SPECIES
 
 #### Status
 ACCEPTED

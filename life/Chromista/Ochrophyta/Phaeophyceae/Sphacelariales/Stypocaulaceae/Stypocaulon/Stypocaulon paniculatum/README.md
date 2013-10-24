@@ -1,8 +1,7 @@
-Halopteris paniculata (Suhr) Prud'homme van Reine SPECIES
-=======
+# Stypocaulon paniculatum (Suhr) Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

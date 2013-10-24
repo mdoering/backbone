@@ -1,5 +1,4 @@
-Hypholoma fragile Peck SPECIES
-=======
+# Hypholoma fragile Peck SPECIES
 
 #### Status
 ACCEPTED

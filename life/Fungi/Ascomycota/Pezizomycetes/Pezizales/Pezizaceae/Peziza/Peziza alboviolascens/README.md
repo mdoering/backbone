@@ -1,11 +1,10 @@
-Peziza alboviolascens var. alboviolascens VARIETY
-=======
+# Peziza alboviolascens SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+NUB Generator [implicit canonical]
 
 #### Published in
 null

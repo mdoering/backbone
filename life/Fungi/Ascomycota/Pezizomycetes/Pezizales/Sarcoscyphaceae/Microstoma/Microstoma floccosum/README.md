@@ -1,17 +1,16 @@
-Microstoma floccosum var. floccosum VARIETY
-=======
+# Microstoma floccosum (Schwein.) Raitv., 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Eesti NSV Tead. Akad. Toim. , Biol. seer 14: 529 (1965)
 
 #### Original name
-Microstoma floccosum var. floccosum
+Peziza floccosa Schwein., 1832
 
 ### Remarks
 null

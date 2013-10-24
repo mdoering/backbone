@@ -1,5 +1,4 @@
-Hendersonia affinis Pass. SPECIES
-=======
+# Hendersonia affinis Pass. SPECIES
 
 #### Status
 ACCEPTED

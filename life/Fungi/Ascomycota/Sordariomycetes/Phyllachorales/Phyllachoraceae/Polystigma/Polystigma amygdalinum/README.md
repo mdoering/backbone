@@ -1,5 +1,4 @@
-Polystigma amygdalinum P.F. Cannon, 1996 SPECIES
-=======
+# Polystigma amygdalinum P.F. Cannon, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota cortinata (DC.) Singer SPECIES
-=======
+# Pholiota cortinata (DC.) Singer SPECIES
 
 #### Status
 ACCEPTED

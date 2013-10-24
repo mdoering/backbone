@@ -1,5 +1,4 @@
-Ramularia lamiicola C. Massal., 1890 SPECIES
-=======
+# Ramularia lamiicola C. Massal., 1890 SPECIES
 
 #### Status
 ACCEPTED

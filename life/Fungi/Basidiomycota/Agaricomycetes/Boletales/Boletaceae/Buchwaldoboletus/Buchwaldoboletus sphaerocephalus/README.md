@@ -1,17 +1,16 @@
-Boletus sulphureus f. silvestris Kallenb. FORM
-=======
+# Buchwaldoboletus sphaerocephalus (Barla) Watling & T.H. Li, 2004 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Watling, Edinb. J. Bot. 61(1): 46 (2004)
 
 #### Original name
-Boletus sulphureus f. silvestris Kallenb.
+Boletus sphaerocephalus Barla, 1859
 
 ### Remarks
 null

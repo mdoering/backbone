@@ -1,5 +1,4 @@
-Nosema polygrammae Z. Hostounský & J. Weiser SPECIES
-=======
+# Nosema polygrammae Z. Hostounský & J. Weiser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium banaticum Bubák SPECIES
-=======
+# Aecidium banaticum Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria moliwensis Laessøe, 2002 SPECIES
-=======
+# Xylaria moliwensis Laessøe, 2002 SPECIES
 
 #### Status
 ACCEPTED

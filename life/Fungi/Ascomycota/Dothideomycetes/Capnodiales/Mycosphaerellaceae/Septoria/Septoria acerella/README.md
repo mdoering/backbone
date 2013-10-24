@@ -1,17 +1,16 @@
-Septoria acerella var. acerella VARIETY
-=======
+# Septoria acerella Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 479 (1884)
 
 #### Original name
-Septoria acerella var. acerella
+Septoria acerella Sacc., 1884
 
 ### Remarks
 null

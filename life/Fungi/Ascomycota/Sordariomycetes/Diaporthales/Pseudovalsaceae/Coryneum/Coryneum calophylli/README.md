@@ -1,5 +1,4 @@
-Coryneum calophylli (Syd.) Morgan-Jones SPECIES
-=======
+# Coryneum calophylli (Syd.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

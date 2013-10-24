@@ -1,17 +1,16 @@
-Clavaria complana Cleland SPECIES
-=======
+# Aphelaria complanata (Cleland) R.H. Petersen, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 96(4): 460 (1969)
 
 #### Original name
-Clavaria complana Cleland
+Clavaria complanata Cleland, 1931
 
 ### Remarks
 null

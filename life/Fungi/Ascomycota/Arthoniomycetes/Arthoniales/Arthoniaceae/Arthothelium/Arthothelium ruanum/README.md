@@ -1,17 +1,16 @@
-Arthothelium dispersum f. dispersum FORM
-=======
+# Arthothelium ruanum (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parerga lichenol. (Breslau) 263 (1861)
 
 #### Original name
-Arthothelium dispersum f. dispersum
+Arthoniopsis ruanea (A. Massal.) Trevis.
 
 ### Remarks
 null

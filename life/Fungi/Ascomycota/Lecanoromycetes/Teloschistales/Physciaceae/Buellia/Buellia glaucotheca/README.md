@@ -1,5 +1,4 @@
-Buellia glaucotheca (Fée) Malme SPECIES
-=======
+# Buellia glaucotheca (Fée) Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula putida Sarnari SPECIES
-=======
+# Russula putida Sarnari SPECIES
 
 #### Status
 ACCEPTED

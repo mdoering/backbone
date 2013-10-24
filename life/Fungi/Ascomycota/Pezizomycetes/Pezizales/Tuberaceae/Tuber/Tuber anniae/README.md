@@ -1,5 +1,4 @@
-Tuber anniae W. Colgan & Trappe SPECIES
-=======
+# Tuber anniae W. Colgan & Trappe SPECIES
 
 #### Status
 ACCEPTED

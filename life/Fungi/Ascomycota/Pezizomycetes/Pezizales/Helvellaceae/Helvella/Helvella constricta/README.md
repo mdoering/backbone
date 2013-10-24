@@ -1,5 +1,4 @@
-Helvella constricta Boud. SPECIES
-=======
+# Helvella constricta Boud. SPECIES
 
 #### Status
 ACCEPTED

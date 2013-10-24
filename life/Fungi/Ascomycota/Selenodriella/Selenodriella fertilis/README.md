@@ -1,14 +1,13 @@
-Circinotrichum fertile Piroz. & Hodges, 1973 SPECIES
-=======
+# Selenodriella fertilis (Piroz. & Hodges) R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 51(1): 160 (1973)
+Univ. Waterloo Biol. Ser. 33: 34 (1990)
 
 #### Original name
 Circinotrichum fertile Piroz. & Hodges, 1973

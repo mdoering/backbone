@@ -1,5 +1,4 @@
-Cortinarius phellochrous E. Horak SPECIES
-=======
+# Cortinarius phellochrous E. Horak SPECIES
 
 #### Status
 ACCEPTED

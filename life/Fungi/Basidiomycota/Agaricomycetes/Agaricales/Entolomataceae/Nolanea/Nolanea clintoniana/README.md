@@ -1,5 +1,4 @@
-Nolanea clintoniana Peck SPECIES
-=======
+# Nolanea clintoniana Peck SPECIES
 
 #### Status
 ACCEPTED

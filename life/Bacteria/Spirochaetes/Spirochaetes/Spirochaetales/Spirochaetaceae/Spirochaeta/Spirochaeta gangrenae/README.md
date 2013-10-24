@@ -1,5 +1,4 @@
-Spirochaeta gangrenae SPECIES
-=======
+# Spirochaeta gangrenae SPECIES
 
 #### Status
 ACCEPTED

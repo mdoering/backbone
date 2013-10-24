@@ -1,5 +1,4 @@
-Cercoseptoria bauhiniicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria bauhiniicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

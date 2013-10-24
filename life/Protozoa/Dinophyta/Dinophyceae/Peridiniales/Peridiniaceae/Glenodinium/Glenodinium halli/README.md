@@ -1,5 +1,4 @@
-Glenodinium halli SPECIES
-=======
+# Glenodinium halli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia kopetdaghensis Katajev SPECIES
-=======
+# Puccinia kopetdaghensis Katajev SPECIES
 
 #### Status
 ACCEPTED

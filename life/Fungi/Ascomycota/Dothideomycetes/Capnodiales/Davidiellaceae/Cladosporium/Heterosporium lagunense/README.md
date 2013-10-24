@@ -1,5 +1,4 @@
-Heterosporium lagunense Syd. SPECIES
-=======
+# Heterosporium lagunense Syd. SPECIES
 
 #### Status
 ACCEPTED

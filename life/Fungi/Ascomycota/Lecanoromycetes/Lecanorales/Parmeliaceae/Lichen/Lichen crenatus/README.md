@@ -1,5 +1,4 @@
-Lichen crenatus Pers. SPECIES
-=======
+# Lichen crenatus Pers. SPECIES
 
 #### Status
 ACCEPTED

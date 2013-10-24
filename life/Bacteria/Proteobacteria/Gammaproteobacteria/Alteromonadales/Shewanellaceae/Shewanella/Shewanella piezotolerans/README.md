@@ -1,5 +1,4 @@
-Shewanella piezotolerans Xiao, Wang, Zeng, Bartlett & Wang, 2007 SPECIES
-=======
+# Shewanella piezotolerans Xiao, Wang, Zeng, Bartlett & Wang, 2007 SPECIES
 
 #### Status
 ACCEPTED

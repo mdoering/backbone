@@ -1,5 +1,4 @@
-Metasphaeria comari Henn. SPECIES
-=======
+# Metasphaeria comari Henn. SPECIES
 
 #### Status
 ACCEPTED

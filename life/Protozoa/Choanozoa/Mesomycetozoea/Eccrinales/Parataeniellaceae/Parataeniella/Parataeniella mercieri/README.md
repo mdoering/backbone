@@ -1,14 +1,13 @@
-Eccrinopsis mercieri R.A. Poiss., 1928 SPECIES
-=======
+# Parataeniella mercieri (R.A. Poiss.) R.A. Poiss., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 186: 1765 (1928)
+Archs Zool. exp. gén. 69: 201 (1929)
 
 #### Original name
 Eccrinopsis mercieri R.A. Poiss., 1928

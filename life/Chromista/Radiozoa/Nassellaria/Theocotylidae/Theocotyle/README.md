@@ -1,5 +1,4 @@
-Theocotyle Riedel & Sanfilippo, 1970 GENUS
-=======
+# Theocotyle Riedel & Sanfilippo, 1970 GENUS
 
 #### Status
 ACCEPTED

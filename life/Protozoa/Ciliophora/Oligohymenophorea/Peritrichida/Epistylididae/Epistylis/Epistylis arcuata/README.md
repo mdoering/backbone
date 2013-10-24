@@ -1,5 +1,4 @@
-Epistylis arcuata Dumas, 1930 SPECIES
-=======
+# Epistylis arcuata Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

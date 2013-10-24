@@ -1,14 +1,13 @@
-Sporothrix rectidentata (Matsush.) de Hoog, 1978 SPECIES
-=======
+# Engyodontium rectidentatum (Matsush.) W. Gams, de Hoog, Samson & H.C. Evans, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 10(1): 64 (1978)
+Persoonia 12(2): 138 (1984)
 
 #### Original name
 Tritirachium rectidentatum Matsush., 1975

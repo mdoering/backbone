@@ -1,5 +1,4 @@
-Synalissa violacea Geitler SPECIES
-=======
+# Synalissa violacea Geitler SPECIES
 
 #### Status
 ACCEPTED

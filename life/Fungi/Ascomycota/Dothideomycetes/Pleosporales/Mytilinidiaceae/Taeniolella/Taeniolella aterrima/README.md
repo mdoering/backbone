@@ -1,5 +1,4 @@
-Taeniolella aterrima (Berk. & Ravenel) M.B. Ellis SPECIES
-=======
+# Taeniolella aterrima (Berk. & Ravenel) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

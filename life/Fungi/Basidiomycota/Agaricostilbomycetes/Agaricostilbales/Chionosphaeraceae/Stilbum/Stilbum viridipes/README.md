@@ -1,5 +1,4 @@
-Stilbum viridipes Boud. SPECIES
-=======
+# Stilbum viridipes Boud. SPECIES
 
 #### Status
 ACCEPTED

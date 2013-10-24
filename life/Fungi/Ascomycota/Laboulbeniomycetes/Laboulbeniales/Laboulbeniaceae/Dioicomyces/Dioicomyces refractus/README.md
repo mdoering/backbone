@@ -1,5 +1,4 @@
-Dioicomyces refractus Speg. SPECIES
-=======
+# Dioicomyces refractus Speg. SPECIES
 
 #### Status
 ACCEPTED

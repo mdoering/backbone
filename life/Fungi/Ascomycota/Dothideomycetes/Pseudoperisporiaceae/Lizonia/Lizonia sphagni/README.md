@@ -1,5 +1,4 @@
-Lizonia sphagni Cooke SPECIES
-=======
+# Lizonia sphagni Cooke SPECIES
 
 #### Status
 ACCEPTED

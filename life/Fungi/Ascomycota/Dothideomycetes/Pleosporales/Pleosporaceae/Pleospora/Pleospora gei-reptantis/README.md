@@ -1,5 +1,4 @@
-Pleospora gei-reptantis Carestia SPECIES
-=======
+# Pleospora gei-reptantis Carestia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Segestria leptalaeoides (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Segestria leptalaeoides (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

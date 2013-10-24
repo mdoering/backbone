@@ -1,5 +1,4 @@
-Solenia pallidocinerescens Henn. SPECIES
-=======
+# Solenia pallidocinerescens Henn. SPECIES
 
 #### Status
 ACCEPTED

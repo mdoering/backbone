@@ -1,5 +1,4 @@
-Camptomeris pulchra (Syd.) U. Braun SPECIES
-=======
+# Camptomeris pulchra (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

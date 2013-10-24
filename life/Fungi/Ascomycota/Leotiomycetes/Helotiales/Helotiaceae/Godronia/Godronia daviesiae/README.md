@@ -1,5 +1,4 @@
-Godronia daviesiae Hansf. SPECIES
-=======
+# Godronia daviesiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

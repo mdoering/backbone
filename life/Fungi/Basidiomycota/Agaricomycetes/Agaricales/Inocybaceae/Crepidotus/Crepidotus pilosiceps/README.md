@@ -1,5 +1,4 @@
-Crepidotus pilosiceps Singer SPECIES
-=======
+# Crepidotus pilosiceps Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis fineranii C.W. Dodge SPECIES
-=======
+# Phaeographis fineranii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

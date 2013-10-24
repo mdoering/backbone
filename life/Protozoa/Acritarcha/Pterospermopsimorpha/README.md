@@ -1,5 +1,4 @@
-Pterospermopsimorpha B.V. Timofeev, 1966 GENUS
-=======
+# Pterospermopsimorpha B.V. Timofeev, 1966 GENUS
 
 #### Status
 ACCEPTED

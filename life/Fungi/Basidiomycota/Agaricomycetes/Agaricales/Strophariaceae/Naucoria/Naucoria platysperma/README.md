@@ -1,5 +1,4 @@
-Naucoria platysperma Peck SPECIES
-=======
+# Naucoria platysperma Peck SPECIES
 
 #### Status
 ACCEPTED

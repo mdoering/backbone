@@ -1,5 +1,4 @@
-Lecidea subelevata H. Magn. SPECIES
-=======
+# Lecidea subelevata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

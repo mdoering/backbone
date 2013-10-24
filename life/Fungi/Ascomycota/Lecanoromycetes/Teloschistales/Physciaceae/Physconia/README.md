@@ -1,5 +1,4 @@
-Physconia Poelt GENUS
-=======
+# Physconia Poelt GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cookella microscopica Sacc., 1878 SPECIES
-=======
+# Cookella microscopica Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

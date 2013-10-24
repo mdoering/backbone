@@ -1,5 +1,4 @@
-Collybia pseudoprolixa Raithelh. SPECIES
-=======
+# Collybia pseudoprolixa Raithelh. SPECIES
 
 #### Status
 ACCEPTED

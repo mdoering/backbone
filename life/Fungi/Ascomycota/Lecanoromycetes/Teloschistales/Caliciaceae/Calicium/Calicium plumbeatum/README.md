@@ -1,5 +1,4 @@
-Calicium plumbeatum Norman SPECIES
-=======
+# Calicium plumbeatum Norman SPECIES
 
 #### Status
 ACCEPTED

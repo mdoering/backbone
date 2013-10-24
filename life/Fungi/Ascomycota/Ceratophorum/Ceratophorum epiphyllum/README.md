@@ -1,5 +1,4 @@
-Ceratophorum epiphyllum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Ceratophorum epiphyllum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

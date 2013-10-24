@@ -1,5 +1,4 @@
-Sticta karstenii SPECIES
-=======
+# Sticta karstenii SPECIES
 
 #### Status
 ACCEPTED

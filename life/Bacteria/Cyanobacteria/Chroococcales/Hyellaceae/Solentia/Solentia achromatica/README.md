@@ -1,5 +1,4 @@
-Solentia achromatica Ercegovic SPECIES
-=======
+# Solentia achromatica Ercegovic SPECIES
 
 #### Status
 ACCEPTED

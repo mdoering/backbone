@@ -1,5 +1,4 @@
-Sargassum nozhouense Tseng & Lu SPECIES
-=======
+# Sargassum nozhouense Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

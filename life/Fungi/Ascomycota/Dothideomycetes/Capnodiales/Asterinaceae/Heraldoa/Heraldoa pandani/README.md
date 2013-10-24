@@ -1,5 +1,4 @@
-Heraldoa pandani Bat. SPECIES
-=======
+# Heraldoa pandani Bat. SPECIES
 
 #### Status
 ACCEPTED

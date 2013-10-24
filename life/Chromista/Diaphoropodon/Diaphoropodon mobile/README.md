@@ -1,5 +1,4 @@
-Diaphoropodon mobile Archer, 1869 SPECIES
-=======
+# Diaphoropodon mobile Archer, 1869 SPECIES
 
 #### Status
 ACCEPTED

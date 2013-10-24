@@ -1,8 +1,7 @@
-Cotyloepimeritus iwamusii (Tugawa, 1944) SPECIES
-=======
+# Bhatiella iwamusii (Tugawa, 1944) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

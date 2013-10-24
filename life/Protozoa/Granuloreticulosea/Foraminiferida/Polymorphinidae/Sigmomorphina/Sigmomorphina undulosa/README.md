@@ -1,8 +1,7 @@
-Polymorphina undulosa Terquem, 1878 SPECIES
-=======
+# Sigmomorphina undulosa (Terquem, 1878) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

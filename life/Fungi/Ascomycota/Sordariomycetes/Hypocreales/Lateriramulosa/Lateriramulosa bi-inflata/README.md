@@ -1,5 +1,4 @@
-Lateriramulosa bi-inflata Matsush., 1975 SPECIES
-=======
+# Lateriramulosa bi-inflata Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

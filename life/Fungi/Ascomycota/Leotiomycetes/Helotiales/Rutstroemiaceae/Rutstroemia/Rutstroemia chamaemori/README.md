@@ -1,5 +1,4 @@
-Rutstroemia chamaemori L. Holm & K. Holm SPECIES
-=======
+# Rutstroemia chamaemori L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

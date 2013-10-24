@@ -1,5 +1,4 @@
-Amanita bingensis (Beeli) R. Heim SPECIES
-=======
+# Amanita bingensis (Beeli) R. Heim SPECIES
 
 #### Status
 ACCEPTED

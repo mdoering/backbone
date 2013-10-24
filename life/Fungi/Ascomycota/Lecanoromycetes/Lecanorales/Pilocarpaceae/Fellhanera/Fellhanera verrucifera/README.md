@@ -1,5 +1,4 @@
-Fellhanera verrucifera var. verrucifera VARIETY
-=======
+# Fellhanera verrucifera Lücking SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trop. Bryol. 13: 163 (1997)
 
 #### Original name
-null
+Fellhanera verrucifera Lücking
 
 ### Remarks
 null

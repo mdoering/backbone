@@ -1,5 +1,4 @@
-Lecanactis neozelandica Egea & Torrente SPECIES
-=======
+# Lecanactis neozelandica Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

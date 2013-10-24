@@ -1,5 +1,4 @@
-Buellia variabilis SPECIES
-=======
+# Buellia variabilis SPECIES
 
 #### Status
 ACCEPTED

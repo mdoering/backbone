@@ -1,5 +1,4 @@
-Tubariella rhizophora E. Horak & Hauskn., 2002 SPECIES
-=======
+# Tubariella rhizophora E. Horak & Hauskn., 2002 SPECIES
 
 #### Status
 ACCEPTED

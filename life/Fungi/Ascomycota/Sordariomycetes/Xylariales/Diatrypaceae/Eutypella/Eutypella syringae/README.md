@@ -1,5 +1,4 @@
-Eutypella syringae Brunaud SPECIES
-=======
+# Eutypella syringae Brunaud SPECIES
 
 #### Status
 ACCEPTED

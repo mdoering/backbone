@@ -1,5 +1,4 @@
-Lactarius panuoides Singer SPECIES
-=======
+# Lactarius panuoides Singer SPECIES
 
 #### Status
 ACCEPTED

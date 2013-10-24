@@ -1,5 +1,4 @@
-Menegazzia aucklandica (Zahlbr.) P. James & D.J. Galloway SPECIES
-=======
+# Menegazzia aucklandica (Zahlbr.) P. James & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

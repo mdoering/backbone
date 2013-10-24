@@ -1,5 +1,4 @@
-Sporastatia subasiatica N.S. Golubk. SPECIES
-=======
+# Sporastatia subasiatica N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

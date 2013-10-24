@@ -1,5 +1,4 @@
-Protoperidinium norpacense (Balech, 1962) Balech, 1974 SPECIES
-=======
+# Protoperidinium norpacense (Balech, 1962) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

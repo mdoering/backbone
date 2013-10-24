@@ -1,5 +1,4 @@
-Graphis dichotoma (Müll. Arg.) Lücking SPECIES
-=======
+# Graphis dichotoma (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

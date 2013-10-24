@@ -1,5 +1,4 @@
-Physalospora smilacis W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Physalospora smilacis W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

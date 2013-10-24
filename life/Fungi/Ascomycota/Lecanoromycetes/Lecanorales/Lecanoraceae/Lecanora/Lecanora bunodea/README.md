@@ -1,5 +1,4 @@
-Lecanora bunodea (A. Massal.) Jatta SPECIES
-=======
+# Lecanora bunodea (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

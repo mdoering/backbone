@@ -1,14 +1,13 @@
-Lagenidium oviparasiticum G.L. Barron, 1989 SPECIES
-=======
+# Chlamydomyzium oviparasiticum (G.L. Barron) M.W. Dick, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 67(1): 269 (1989)
+Mycol. Res. 101(7): 880 (1997)
 
 #### Original name
 Lagenidium oviparasiticum G.L. Barron, 1989

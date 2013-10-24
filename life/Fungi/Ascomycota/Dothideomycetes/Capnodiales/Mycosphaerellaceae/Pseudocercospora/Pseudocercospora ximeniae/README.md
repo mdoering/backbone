@@ -1,5 +1,4 @@
-Pseudocercospora ximeniae Bagyan. & U. Braun SPECIES
-=======
+# Pseudocercospora ximeniae Bagyan. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

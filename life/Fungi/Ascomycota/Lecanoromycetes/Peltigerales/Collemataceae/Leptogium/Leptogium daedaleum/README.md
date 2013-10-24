@@ -1,5 +1,4 @@
-Leptogium daedaleum (Flot.) Nyl. SPECIES
-=======
+# Leptogium daedaleum (Flot.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

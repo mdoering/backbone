@@ -1,5 +1,4 @@
-Lagynion reflexum Prescott SPECIES
-=======
+# Lagynion reflexum Prescott SPECIES
 
 #### Status
 ACCEPTED

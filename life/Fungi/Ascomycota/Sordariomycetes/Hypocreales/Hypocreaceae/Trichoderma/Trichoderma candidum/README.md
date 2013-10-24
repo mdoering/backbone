@@ -1,5 +1,4 @@
-Trichoderma candidum Alb. & Schwein. SPECIES
-=======
+# Trichoderma candidum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

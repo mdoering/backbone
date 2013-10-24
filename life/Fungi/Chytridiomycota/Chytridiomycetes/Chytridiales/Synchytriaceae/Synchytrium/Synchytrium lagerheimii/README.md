@@ -1,5 +1,4 @@
-Synchytrium lagerheimii Karling SPECIES
-=======
+# Synchytrium lagerheimii Karling SPECIES
 
 #### Status
 ACCEPTED

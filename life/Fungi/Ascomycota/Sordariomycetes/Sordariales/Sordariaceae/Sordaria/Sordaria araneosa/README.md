@@ -1,5 +1,4 @@
-Sordaria araneosa Cain SPECIES
-=======
+# Sordaria araneosa Cain SPECIES
 
 #### Status
 ACCEPTED

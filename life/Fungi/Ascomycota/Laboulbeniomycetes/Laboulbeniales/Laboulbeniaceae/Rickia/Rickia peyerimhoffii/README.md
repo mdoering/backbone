@@ -1,5 +1,4 @@
-Rickia peyerimhoffii Maire SPECIES
-=======
+# Rickia peyerimhoffii Maire SPECIES
 
 #### Status
 ACCEPTED

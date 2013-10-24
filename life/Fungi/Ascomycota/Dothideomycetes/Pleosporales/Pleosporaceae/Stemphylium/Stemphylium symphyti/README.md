@@ -1,5 +1,4 @@
-Stemphylium symphyti E.G. Simmons, 2004 SPECIES
-=======
+# Stemphylium symphyti E.G. Simmons, 2004 SPECIES
 
 #### Status
 ACCEPTED

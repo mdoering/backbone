@@ -1,5 +1,4 @@
-Rhynchosphaeria shearii Petr. SPECIES
-=======
+# Rhynchosphaeria shearii Petr. SPECIES
 
 #### Status
 ACCEPTED

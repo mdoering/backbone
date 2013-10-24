@@ -1,5 +1,4 @@
-Laboulbenia brachiata Thaxt. SPECIES
-=======
+# Laboulbenia brachiata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

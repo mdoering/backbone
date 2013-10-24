@@ -1,5 +1,4 @@
-Stigmatomyces minilimosinae T. Majewski SPECIES
-=======
+# Stigmatomyces minilimosinae T. Majewski SPECIES
 
 #### Status
 ACCEPTED

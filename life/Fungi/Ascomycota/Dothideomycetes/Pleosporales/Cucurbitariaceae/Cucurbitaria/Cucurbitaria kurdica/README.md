@@ -1,5 +1,4 @@
-Cucurbitaria kurdica Bubák SPECIES
-=======
+# Cucurbitaria kurdica Bubák SPECIES
 
 #### Status
 ACCEPTED

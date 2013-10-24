@@ -1,5 +1,4 @@
-Lecidea exsoluta Nyl. SPECIES
-=======
+# Lecidea exsoluta Nyl. SPECIES
 
 #### Status
 ACCEPTED

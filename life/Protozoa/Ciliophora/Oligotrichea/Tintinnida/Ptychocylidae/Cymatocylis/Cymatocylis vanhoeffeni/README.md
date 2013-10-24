@@ -1,5 +1,4 @@
-Cymatocylis vanhoeffeni (Laackmann, 1907) Laackmann, 1910 SPECIES
-=======
+# Cymatocylis vanhoeffeni (Laackmann, 1907) Laackmann, 1910 SPECIES
 
 #### Status
 ACCEPTED

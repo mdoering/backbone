@@ -1,5 +1,4 @@
-Hygrophorus pinetorum Hongo SPECIES
-=======
+# Hygrophorus pinetorum Hongo SPECIES
 
 #### Status
 ACCEPTED

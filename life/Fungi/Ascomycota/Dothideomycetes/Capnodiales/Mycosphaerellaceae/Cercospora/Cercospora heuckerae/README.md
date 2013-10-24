@@ -1,5 +1,4 @@
-Cercospora heuckerae Ellis & G. Martin SPECIES
-=======
+# Cercospora heuckerae Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

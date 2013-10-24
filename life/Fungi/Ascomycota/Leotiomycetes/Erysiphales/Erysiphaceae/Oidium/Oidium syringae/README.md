@@ -1,5 +1,4 @@
-Oidium syringae S. Blumer SPECIES
-=======
+# Oidium syringae S. Blumer SPECIES
 
 #### Status
 ACCEPTED

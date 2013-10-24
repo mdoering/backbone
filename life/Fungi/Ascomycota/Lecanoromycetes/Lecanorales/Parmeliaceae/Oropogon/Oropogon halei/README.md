@@ -1,5 +1,4 @@
-Oropogon halei Essl. SPECIES
-=======
+# Oropogon halei Essl. SPECIES
 
 #### Status
 ACCEPTED

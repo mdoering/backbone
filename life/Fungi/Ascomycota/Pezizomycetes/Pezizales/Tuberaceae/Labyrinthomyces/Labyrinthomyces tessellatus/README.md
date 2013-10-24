@@ -1,5 +1,4 @@
-Labyrinthomyces tessellatus G.W. Beaton & Weste SPECIES
-=======
+# Labyrinthomyces tessellatus G.W. Beaton & Weste SPECIES
 
 #### Status
 ACCEPTED

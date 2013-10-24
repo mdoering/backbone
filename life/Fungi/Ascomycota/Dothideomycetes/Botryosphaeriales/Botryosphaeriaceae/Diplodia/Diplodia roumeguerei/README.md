@@ -1,17 +1,16 @@
-Diplodia roumeguerei var. roumeguerei Sacc. VARIETY
-=======
+# Diplodia roumeguerei Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 2(no. 6): 106 (1880)
 
 #### Original name
-Diplodia roumeguerei var. roumeguerei Sacc.
+Diplodia laurina Sacc., 1876
 
 ### Remarks
 null

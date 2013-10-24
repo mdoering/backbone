@@ -1,5 +1,4 @@
-Caulobacter Henrici & Johnson, 1935 GENUS
-=======
+# Caulobacter Henrici & Johnson, 1935 GENUS
 
 #### Status
 ACCEPTED

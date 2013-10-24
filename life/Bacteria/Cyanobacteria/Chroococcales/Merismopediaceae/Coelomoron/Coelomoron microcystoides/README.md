@@ -1,5 +1,4 @@
-Coelomoron microcystoides Komárek SPECIES
-=======
+# Coelomoron microcystoides Komárek SPECIES
 
 #### Status
 ACCEPTED

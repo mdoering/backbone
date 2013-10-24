@@ -1,5 +1,4 @@
-Clavaria cristatula Henn. & E. Nyman SPECIES
-=======
+# Clavaria cristatula Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

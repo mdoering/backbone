@@ -1,8 +1,7 @@
-Pseudotetraëdron Pascher, 1912 GENUS
-=======
+# Pseudotetraedron Pascher, 1912 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List

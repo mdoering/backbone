@@ -1,5 +1,4 @@
-Phyllosticta skimmiae Gutner SPECIES
-=======
+# Phyllosticta skimmiae Gutner SPECIES
 
 #### Status
 ACCEPTED

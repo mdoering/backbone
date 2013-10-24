@@ -1,5 +1,4 @@
-Amphisphaeria alpigena Fuckel SPECIES
-=======
+# Amphisphaeria alpigena Fuckel SPECIES
 
 #### Status
 ACCEPTED

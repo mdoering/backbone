@@ -1,5 +1,4 @@
-Hyaloscypha pusilla (Oeder) Boud. SPECIES
-=======
+# Hyaloscypha pusilla (Oeder) Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Reophax difflugiformis var. arenulata Skinner, 1961 VARIETY
-=======
+# Lagenammina arenulata (Skinner, 1961) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

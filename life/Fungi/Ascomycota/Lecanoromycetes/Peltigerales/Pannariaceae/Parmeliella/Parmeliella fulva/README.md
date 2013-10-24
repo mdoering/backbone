@@ -1,5 +1,4 @@
-Parmeliella fulva A.L. Sm. SPECIES
-=======
+# Parmeliella fulva A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

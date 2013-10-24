@@ -1,5 +1,4 @@
-Diplodia photiniae Brunaud SPECIES
-=======
+# Diplodia photiniae Brunaud SPECIES
 
 #### Status
 ACCEPTED

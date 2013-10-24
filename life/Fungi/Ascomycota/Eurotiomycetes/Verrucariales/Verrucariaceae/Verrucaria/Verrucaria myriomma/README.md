@@ -1,5 +1,4 @@
-Verrucaria myriomma Nyl. SPECIES
-=======
+# Verrucaria myriomma Nyl. SPECIES
 
 #### Status
 ACCEPTED

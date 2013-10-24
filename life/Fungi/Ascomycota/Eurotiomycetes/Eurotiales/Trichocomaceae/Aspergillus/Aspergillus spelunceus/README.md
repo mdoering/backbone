@@ -1,17 +1,16 @@
-Aspergillus speluneus Raper & Fennell SPECIES
-=======
+# Aspergillus spelunceus Raper & Fennell, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Genus Aspergillus 457 (1965)
 
 #### Original name
-Aspergillus speluneus Raper & Fennell
+Aspergillus spelunceus Raper & Fennell, 1965
 
 ### Remarks
 null

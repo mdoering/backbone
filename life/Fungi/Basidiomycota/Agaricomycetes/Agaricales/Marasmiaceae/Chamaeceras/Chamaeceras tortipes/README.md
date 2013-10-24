@@ -1,5 +1,4 @@
-Chamaeceras tortipes (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras tortipes (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

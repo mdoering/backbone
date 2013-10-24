@@ -1,5 +1,4 @@
-Uredinopsis virginiana Faull SPECIES
-=======
+# Uredinopsis virginiana Faull SPECIES
 
 #### Status
 ACCEPTED

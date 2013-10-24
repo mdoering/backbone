@@ -1,5 +1,4 @@
-Polyporus exotephrus (Berk.) Bres. SPECIES
-=======
+# Polyporus exotephrus (Berk.) Bres. SPECIES
 
 #### Status
 ACCEPTED

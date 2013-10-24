@@ -1,5 +1,4 @@
-Acerocanium Vinassa de Regny, 1900 GENUS
-=======
+# Acerocanium Vinassa de Regny, 1900 GENUS
 
 #### Status
 ACCEPTED

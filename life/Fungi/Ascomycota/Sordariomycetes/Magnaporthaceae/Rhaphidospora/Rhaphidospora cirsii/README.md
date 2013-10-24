@@ -1,5 +1,4 @@
-Rhaphidospora cirsii P. Karst. SPECIES
-=======
+# Rhaphidospora cirsii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

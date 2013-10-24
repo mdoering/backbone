@@ -1,5 +1,4 @@
-Chytridium simulans de Bary & Woronin SPECIES
-=======
+# Chytridium simulans de Bary & Woronin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ascophora amoena Preuss, 1852 SPECIES
-=======
+# Helicostylum elegans Corda, 1842 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 25: 77 (1852)
+Icon. fung. (Prague) 5: 55 (1842)
 
 #### Original name
-Ascophora amoena Preuss, 1852
+Helicostylum elegans Corda, 1842
 
 ### Remarks
 null

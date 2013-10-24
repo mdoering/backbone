@@ -1,5 +1,4 @@
-Rhodotorula gelatinosa (Saito) T. Haseg., Banno & Yamauchi SPECIES
-=======
+# Rhodotorula gelatinosa (Saito) T. Haseg., Banno & Yamauchi SPECIES
 
 #### Status
 ACCEPTED

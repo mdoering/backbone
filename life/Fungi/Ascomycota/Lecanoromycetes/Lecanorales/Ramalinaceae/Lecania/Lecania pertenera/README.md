@@ -1,5 +1,4 @@
-Lecania pertenera (Nyl.) SPECIES
-=======
+# Lecania pertenera (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

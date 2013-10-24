@@ -1,5 +1,4 @@
-Chloramoeba Bohlin, 1898 GENUS
-=======
+# Chloramoeba Bohlin, 1898 GENUS
 
 #### Status
 ACCEPTED

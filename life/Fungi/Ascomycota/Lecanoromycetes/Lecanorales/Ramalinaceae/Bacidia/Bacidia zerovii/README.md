@@ -1,5 +1,4 @@
-Bacidia zerovii Oxner SPECIES
-=======
+# Bacidia zerovii Oxner SPECIES
 
 #### Status
 ACCEPTED

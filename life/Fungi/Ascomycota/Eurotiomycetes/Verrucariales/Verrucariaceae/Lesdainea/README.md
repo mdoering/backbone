@@ -1,5 +1,4 @@
-Lesdainea Harm. GENUS
-=======
+# Lesdainea Harm. GENUS
 
 #### Status
 ACCEPTED

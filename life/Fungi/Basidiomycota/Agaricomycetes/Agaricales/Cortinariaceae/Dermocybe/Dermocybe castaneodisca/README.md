@@ -1,5 +1,4 @@
-Dermocybe castaneodisca E. Horak, 1988 SPECIES
-=======
+# Dermocybe castaneodisca E. Horak, 1988 SPECIES
 
 #### Status
 ACCEPTED

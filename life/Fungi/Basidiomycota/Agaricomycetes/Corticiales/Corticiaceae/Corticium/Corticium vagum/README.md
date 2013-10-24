@@ -1,5 +1,4 @@
-Corticium vagum SPECIES
-=======
+# Corticium vagum SPECIES
 
 #### Status
 ACCEPTED

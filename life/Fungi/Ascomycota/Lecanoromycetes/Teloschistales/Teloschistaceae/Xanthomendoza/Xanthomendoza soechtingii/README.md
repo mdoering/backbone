@@ -1,5 +1,4 @@
-Xanthomendoza soechtingii (S.Y. Kondr.) Kärnefelt & S.Y. Kondr. SPECIES
-=======
+# Xanthomendoza soechtingii (S.Y. Kondr.) Kärnefelt & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

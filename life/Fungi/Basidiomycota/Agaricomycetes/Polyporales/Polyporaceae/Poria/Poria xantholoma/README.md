@@ -1,5 +1,4 @@
-Poria xantholoma (Schwein.) Cooke SPECIES
-=======
+# Poria xantholoma (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

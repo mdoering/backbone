@@ -1,5 +1,4 @@
-Pleospora echiicola Petr. SPECIES
-=======
+# Pleospora echiicola Petr. SPECIES
 
 #### Status
 ACCEPTED

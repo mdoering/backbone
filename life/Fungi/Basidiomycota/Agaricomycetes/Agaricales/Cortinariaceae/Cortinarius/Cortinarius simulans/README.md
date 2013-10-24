@@ -1,5 +1,4 @@
-Cortinarius simulans Peck SPECIES
-=======
+# Cortinarius simulans Peck SPECIES
 
 #### Status
 ACCEPTED

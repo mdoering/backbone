@@ -1,5 +1,4 @@
-Termitomyces spiniformis R. Heim SPECIES
-=======
+# Termitomyces spiniformis R. Heim SPECIES
 
 #### Status
 ACCEPTED

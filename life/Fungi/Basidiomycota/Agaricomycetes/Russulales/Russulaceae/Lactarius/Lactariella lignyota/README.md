@@ -1,5 +1,4 @@
-Lactariella lignyota (Fr.) Schröter SPECIES
-=======
+# Lactariella lignyota (Fr.) Schröter SPECIES
 
 #### Status
 ACCEPTED

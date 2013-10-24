@@ -1,5 +1,4 @@
-Agaricus paurophyllus Berk. SPECIES
-=======
+# Agaricus paurophyllus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea patouillardii Hue SPECIES
-=======
+# Lecidea patouillardii Hue SPECIES
 
 #### Status
 ACCEPTED

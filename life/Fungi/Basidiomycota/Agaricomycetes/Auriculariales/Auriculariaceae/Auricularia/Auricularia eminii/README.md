@@ -1,17 +1,16 @@
-Auricularia emini Henn. SPECIES
-=======
+# Auricularia eminii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 17: 19 (1893)
 
 #### Original name
-Auricularia emini Henn.
+Auricularia eminii Henn.
 
 ### Remarks
 null

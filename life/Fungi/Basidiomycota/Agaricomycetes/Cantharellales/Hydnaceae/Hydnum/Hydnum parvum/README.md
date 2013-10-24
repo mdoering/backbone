@@ -1,5 +1,4 @@
-Hydnum parvum Banker SPECIES
-=======
+# Hydnum parvum Banker SPECIES
 
 #### Status
 ACCEPTED

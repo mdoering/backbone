@@ -1,17 +1,16 @@
-Aspergillus oryzae f. oryzae FORM
-=======
+# Aspergillus flavus Link SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jber. schles. Ges. vaterl. Kultur 61: 226 (1884)
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 16 (1809)
 
 #### Original name
-Aspergillus oryzae f. oryzae
+Aspergillus flavus Link
 
 ### Remarks
 null

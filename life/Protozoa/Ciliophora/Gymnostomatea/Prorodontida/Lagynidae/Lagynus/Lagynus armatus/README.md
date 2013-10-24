@@ -1,5 +1,4 @@
-Lagynus armatus Kahl, 1926 SPECIES
-=======
+# Lagynus armatus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

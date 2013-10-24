@@ -1,5 +1,4 @@
-Agaricus alutipes Lasch SPECIES
-=======
+# Agaricus alutipes Lasch SPECIES
 
 #### Status
 ACCEPTED

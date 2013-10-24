@@ -1,5 +1,4 @@
-Meliola eugeniae Syd. SPECIES
-=======
+# Meliola eugeniae Syd. SPECIES
 
 #### Status
 ACCEPTED

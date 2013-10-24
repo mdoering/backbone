@@ -1,5 +1,4 @@
-Cryptococcus wieringae Á. Fonseca, Scorzetti & Fell SPECIES
-=======
+# Cryptococcus wieringae Á. Fonseca, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

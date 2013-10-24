@@ -1,5 +1,4 @@
-Irene alpina Togashi & Mentzer SPECIES
-=======
+# Irene alpina Togashi & Mentzer SPECIES
 
 #### Status
 ACCEPTED

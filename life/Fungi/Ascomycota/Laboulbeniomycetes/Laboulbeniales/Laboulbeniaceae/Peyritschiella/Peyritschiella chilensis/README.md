@@ -1,5 +1,4 @@
-Peyritschiella chilensis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella chilensis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

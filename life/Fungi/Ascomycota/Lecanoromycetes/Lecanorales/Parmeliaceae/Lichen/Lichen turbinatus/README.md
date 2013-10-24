@@ -1,5 +1,4 @@
-Lichen turbinatus Ach. SPECIES
-=======
+# Lichen turbinatus Ach. SPECIES
 
 #### Status
 ACCEPTED

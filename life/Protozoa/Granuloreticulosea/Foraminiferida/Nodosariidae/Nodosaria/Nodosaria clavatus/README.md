@@ -1,5 +1,4 @@
-Nodosaria clavatus Brown, 1843 SPECIES
-=======
+# Nodosaria clavatus Brown, 1843 SPECIES
 
 #### Status
 ACCEPTED

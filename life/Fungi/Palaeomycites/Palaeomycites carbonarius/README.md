@@ -1,5 +1,4 @@
-Palaeomycites carbonarius (M.K. Elias) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites carbonarius (M.K. Elias) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Samboamyces tetrasporae Cif. & Tomas. SPECIES
-=======
+# Samboamyces tetrasporae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

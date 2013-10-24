@@ -1,5 +1,4 @@
-Asteridiella agauriae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella agauriae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

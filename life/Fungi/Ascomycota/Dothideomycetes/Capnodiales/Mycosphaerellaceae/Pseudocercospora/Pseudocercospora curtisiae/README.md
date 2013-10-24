@@ -1,5 +1,4 @@
-Pseudocercospora curtisiae (Chupp & Doidge) Crous & U. Braun SPECIES
-=======
+# Pseudocercospora curtisiae (Chupp & Doidge) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

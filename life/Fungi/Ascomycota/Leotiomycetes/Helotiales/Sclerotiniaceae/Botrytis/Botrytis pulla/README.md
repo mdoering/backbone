@@ -1,5 +1,4 @@
-Botrytis pulla Fr. SPECIES
-=======
+# Botrytis pulla Fr. SPECIES
 
 #### Status
 ACCEPTED

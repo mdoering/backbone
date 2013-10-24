@@ -1,5 +1,4 @@
-Pluteus marmoratus Berk. & Broome SPECIES
-=======
+# Pluteus marmoratus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia admirabilis (Brusse) Elix SPECIES
-=======
+# Xanthoparmelia admirabilis (Brusse) Elix SPECIES
 
 #### Status
 ACCEPTED

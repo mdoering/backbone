@@ -1,5 +1,4 @@
-Lentinus undulatellus Britzelm. SPECIES
-=======
+# Lentinus undulatellus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

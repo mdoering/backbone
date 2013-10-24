@@ -1,5 +1,4 @@
-Methanocalculus halotolerans Ollivier et al., 1998 SPECIES
-=======
+# Methanocalculus halotolerans Ollivier et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

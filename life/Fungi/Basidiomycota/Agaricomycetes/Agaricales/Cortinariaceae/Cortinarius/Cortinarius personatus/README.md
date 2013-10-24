@@ -1,5 +1,4 @@
-Cortinarius personatus M.M. Moser SPECIES
-=======
+# Cortinarius personatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

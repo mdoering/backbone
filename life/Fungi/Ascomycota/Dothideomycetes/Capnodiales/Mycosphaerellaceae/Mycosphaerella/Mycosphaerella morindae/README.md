@@ -1,5 +1,4 @@
-Mycosphaerella morindae Sivan. & R.G. Shivas SPECIES
-=======
+# Mycosphaerella morindae Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

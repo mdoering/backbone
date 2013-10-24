@@ -1,5 +1,4 @@
-Dicaeoma crypticum (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma crypticum (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

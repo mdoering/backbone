@@ -1,5 +1,4 @@
-Strangospora torvula (Nyl.) Vitik., Ahti, Kuusinen, Lommi & T. Ulvinen SPECIES
-=======
+# Strangospora torvula (Nyl.) Vitik., Ahti, Kuusinen, Lommi & T. Ulvinen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella conesoma SPECIES
-=======
+# Vorticella conesoma SPECIES
 
 #### Status
 ACCEPTED

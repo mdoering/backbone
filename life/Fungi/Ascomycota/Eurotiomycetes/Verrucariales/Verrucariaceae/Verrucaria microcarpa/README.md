@@ -1,5 +1,4 @@
-Verrucaria microcarpa DC. SPECIES
-=======
+# Verrucaria microcarpa DC. SPECIES
 
 #### Status
 ACCEPTED

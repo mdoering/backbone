@@ -1,5 +1,4 @@
-Balantidium gracilis Bezzenberger, 1904 SPECIES
-=======
+# Balantidium gracilis Bezzenberger, 1904 SPECIES
 
 #### Status
 ACCEPTED

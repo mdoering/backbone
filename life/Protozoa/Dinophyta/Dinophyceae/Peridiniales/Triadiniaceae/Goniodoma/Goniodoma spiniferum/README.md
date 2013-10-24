@@ -1,5 +1,4 @@
-Goniodoma spiniferum Dangeard SPECIES
-=======
+# Goniodoma spiniferum Dangeard SPECIES
 
 #### Status
 ACCEPTED

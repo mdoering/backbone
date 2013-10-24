@@ -1,5 +1,4 @@
-Galiella javanica (Rehm) Nannf. & Korf SPECIES
-=======
+# Galiella javanica (Rehm) Nannf. & Korf SPECIES
 
 #### Status
 ACCEPTED

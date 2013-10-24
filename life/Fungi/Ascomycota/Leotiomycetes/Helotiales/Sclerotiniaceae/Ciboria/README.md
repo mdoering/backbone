@@ -1,17 +1,16 @@
-Ciboriopsis Dennis GENUS
-=======
+# Ciboria Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Kew Bull. 16(2): 319 (1962)
+null
 
 #### Original name
-Ciboriopsis Dennis
+null
 
 ### Remarks
 null

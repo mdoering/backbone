@@ -1,17 +1,16 @@
-Gyalecta bryophaga (Körb.) Hellb. SPECIES
-=======
+# Bryophagus gloeocapsa Nitschke ex Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nerekes Lafflora 47 (1871)
+Flora, Jena 45: (1862)
 
 #### Original name
-Secoliga bryophaga Körb.
+Bryophagus gloeocapsa Nitschke ex Arnold
 
 ### Remarks
 null

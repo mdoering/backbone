@@ -1,5 +1,4 @@
-Pyrenopsis conferta (Bornet) Nyl. SPECIES
-=======
+# Pyrenopsis conferta (Bornet) Nyl. SPECIES
 
 #### Status
 ACCEPTED

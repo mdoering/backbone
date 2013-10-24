@@ -1,5 +1,4 @@
-Trypethelium galligenum Aptroot SPECIES
-=======
+# Trypethelium galligenum Aptroot SPECIES
 
 #### Status
 ACCEPTED

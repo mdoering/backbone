@@ -1,5 +1,4 @@
-Parafissurina groenlandica Shchedrina, 1946 SPECIES
-=======
+# Parafissurina groenlandica Shchedrina, 1946 SPECIES
 
 #### Status
 ACCEPTED

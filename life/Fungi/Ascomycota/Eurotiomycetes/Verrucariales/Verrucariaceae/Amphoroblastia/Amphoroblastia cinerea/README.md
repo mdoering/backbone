@@ -1,5 +1,4 @@
-Amphoroblastia cinerea (A. Massal.) Servít SPECIES
-=======
+# Amphoroblastia cinerea (A. Massal.) Servít SPECIES
 
 #### Status
 ACCEPTED

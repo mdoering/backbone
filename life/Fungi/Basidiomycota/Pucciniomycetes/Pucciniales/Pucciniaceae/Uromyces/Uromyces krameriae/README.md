@@ -1,5 +1,4 @@
-Uromyces krameriae Arthur SPECIES
-=======
+# Uromyces krameriae Arthur SPECIES
 
 #### Status
 ACCEPTED

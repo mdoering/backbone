@@ -1,5 +1,4 @@
-Rickia nutans Thaxt. SPECIES
-=======
+# Rickia nutans Thaxt. SPECIES
 
 #### Status
 ACCEPTED

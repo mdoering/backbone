@@ -1,5 +1,4 @@
-Lecanora incrustans (Nyl.) Harm. SPECIES
-=======
+# Lecanora incrustans (Nyl.) Harm. SPECIES
 
 #### Status
 ACCEPTED

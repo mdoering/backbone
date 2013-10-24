@@ -1,5 +1,4 @@
-Micarea adnata Coppins SPECIES
-=======
+# Micarea adnata Coppins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia samararum (Brunaud) Tassi SPECIES
-=======
+# Microdiplodia samararum (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

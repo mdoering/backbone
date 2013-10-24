@@ -1,5 +1,4 @@
-Puccinia leuceriicola P. Syd. & Syd. SPECIES
-=======
+# Puccinia leuceriicola P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

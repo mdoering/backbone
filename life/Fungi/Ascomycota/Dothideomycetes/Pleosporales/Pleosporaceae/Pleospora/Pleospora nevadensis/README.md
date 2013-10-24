@@ -1,5 +1,4 @@
-Pleospora nevadensis Petr. SPECIES
-=======
+# Pleospora nevadensis Petr. SPECIES
 
 #### Status
 ACCEPTED

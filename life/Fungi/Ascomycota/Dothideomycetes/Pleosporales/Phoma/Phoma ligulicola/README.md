@@ -1,5 +1,4 @@
-Phoma ligulicola var. ligulicola VARIETY
-=======
+# Phoma ligulicola SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Aa, Noordeloos & Gruyter, Stud. Mycol. 32: 9 (1990)
+null
 
 #### Original name
-Phoma ligulicola var. ligulicola
+null
 
 ### Remarks
 null

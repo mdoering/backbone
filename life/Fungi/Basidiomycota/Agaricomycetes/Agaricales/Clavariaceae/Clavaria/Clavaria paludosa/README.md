@@ -1,5 +1,4 @@
-Clavaria paludosa S. Lundell SPECIES
-=======
+# Clavaria paludosa S. Lundell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora lecidina (Schaer.) Motyka SPECIES
-=======
+# Lecanora lecidina (Schaer.) Motyka SPECIES
 
 #### Status
 ACCEPTED

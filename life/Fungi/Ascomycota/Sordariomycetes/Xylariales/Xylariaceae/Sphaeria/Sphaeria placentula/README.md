@@ -1,5 +1,4 @@
-Sphaeria placentula Schwein. SPECIES
-=======
+# Sphaeria placentula Schwein. SPECIES
 
 #### Status
 ACCEPTED

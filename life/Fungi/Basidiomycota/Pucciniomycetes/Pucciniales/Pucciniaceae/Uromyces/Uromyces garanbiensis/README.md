@@ -1,5 +1,4 @@
-Uromyces garanbiensis (Hirats. f. & Hashioka) Sawada SPECIES
-=======
+# Uromyces garanbiensis (Hirats. f. & Hashioka) Sawada SPECIES
 
 #### Status
 ACCEPTED

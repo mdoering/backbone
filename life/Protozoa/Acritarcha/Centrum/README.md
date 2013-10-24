@@ -1,5 +1,4 @@
-Centrum A.M. Stanevitch in V.V. Khomentovsky & V. Yu. Shenfil, 1986 GENUS
-=======
+# Centrum A.M. Stanevitch in V.V. Khomentovsky & V. Yu. Shenfil, 1986 GENUS
 
 #### Status
 ACCEPTED

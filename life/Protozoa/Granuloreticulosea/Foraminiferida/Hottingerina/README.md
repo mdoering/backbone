@@ -1,5 +1,4 @@
-Hottingerina Drobne, 1975 GENUS
-=======
+# Hottingerina Drobne, 1975 GENUS
 
 #### Status
 ACCEPTED

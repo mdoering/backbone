@@ -1,5 +1,4 @@
-Hypomyces cesatii (Mont.) Tul. SPECIES
-=======
+# Hypomyces cesatii (Mont.) Tul. SPECIES
 
 #### Status
 ACCEPTED

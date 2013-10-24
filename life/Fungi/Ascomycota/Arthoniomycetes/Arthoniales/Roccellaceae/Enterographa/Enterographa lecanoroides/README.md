@@ -1,5 +1,4 @@
-Enterographa lecanoroides R.C. Harris SPECIES
-=======
+# Enterographa lecanoroides R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Odontia subcrinalis (Peck) Gilb., 1963 SPECIES
-=======
+# Steccherinum subcrinale (Peck) Ryvarden, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 54(6): 671 (1963)
+Norw. Jl Bot. 25: 294 (1978)
 
 #### Original name
 Hydnum subcrinale Peck, 1913

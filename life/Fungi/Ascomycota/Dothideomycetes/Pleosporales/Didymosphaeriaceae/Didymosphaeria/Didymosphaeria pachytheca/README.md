@@ -1,5 +1,4 @@
-Didymosphaeria pachytheca Sacc. & P. Syd. SPECIES
-=======
+# Didymosphaeria pachytheca Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

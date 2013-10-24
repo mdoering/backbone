@@ -1,5 +1,4 @@
-Sarcogyne algoviae var. algoviae VARIETY
-=======
+# Sarcogyne algoviae H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sarcogyne algoviae var. algoviae
+Sarcogyne algoviae H. Magn.
 
 ### Remarks
 null

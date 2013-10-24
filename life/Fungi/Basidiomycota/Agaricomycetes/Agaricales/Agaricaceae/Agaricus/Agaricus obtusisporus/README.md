@@ -1,5 +1,4 @@
-Agaricus obtusisporus Britzelm. SPECIES
-=======
+# Agaricus obtusisporus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

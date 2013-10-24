@@ -1,5 +1,4 @@
-Henriquesia italica Sacc. & Cavara SPECIES
-=======
+# Henriquesia italica Sacc. & Cavara SPECIES
 
 #### Status
 ACCEPTED

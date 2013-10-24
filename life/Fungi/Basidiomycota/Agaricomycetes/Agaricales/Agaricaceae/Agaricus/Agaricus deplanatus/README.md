@@ -1,5 +1,4 @@
-Agaricus deplanatus (Link ex Fr.) Murrill SPECIES
-=======
+# Agaricus deplanatus (Link ex Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

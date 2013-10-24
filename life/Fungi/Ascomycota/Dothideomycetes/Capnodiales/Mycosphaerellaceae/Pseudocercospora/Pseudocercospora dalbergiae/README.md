@@ -1,5 +1,4 @@
-Pseudocercospora dalbergiae (S.H. Sun) J.M. Yen SPECIES
-=======
+# Pseudocercospora dalbergiae (S.H. Sun) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

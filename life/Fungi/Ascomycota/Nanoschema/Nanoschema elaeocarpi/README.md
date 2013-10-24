@@ -1,5 +1,4 @@
-Nanoschema elaeocarpi B. Sutton, 1980 SPECIES
-=======
+# Nanoschema elaeocarpi B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

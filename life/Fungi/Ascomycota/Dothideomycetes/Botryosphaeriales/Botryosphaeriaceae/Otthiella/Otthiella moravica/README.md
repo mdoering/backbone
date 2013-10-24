@@ -1,5 +1,4 @@
-Otthiella moravica Petr. SPECIES
-=======
+# Otthiella moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

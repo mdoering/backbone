@@ -1,5 +1,4 @@
-Boletus austrinus Singer SPECIES
-=======
+# Boletus austrinus Singer SPECIES
 
 #### Status
 ACCEPTED

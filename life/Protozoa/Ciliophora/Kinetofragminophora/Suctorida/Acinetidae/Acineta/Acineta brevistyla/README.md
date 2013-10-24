@@ -1,5 +1,4 @@
-Acineta brevistyla SPECIES
-=======
+# Acineta brevistyla SPECIES
 
 #### Status
 ACCEPTED

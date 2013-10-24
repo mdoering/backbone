@@ -1,5 +1,4 @@
-Protocalicium jaczevskii Woron. SPECIES
-=======
+# Protocalicium jaczevskii Woron. SPECIES
 
 #### Status
 ACCEPTED

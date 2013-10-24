@@ -1,5 +1,4 @@
-Tuberculina fusicina SPECIES
-=======
+# Tuberculina fusicina SPECIES
 
 #### Status
 ACCEPTED

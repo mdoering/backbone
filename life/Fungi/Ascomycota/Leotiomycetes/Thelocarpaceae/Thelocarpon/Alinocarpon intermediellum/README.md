@@ -1,5 +1,4 @@
-Alinocarpon intermediellum SPECIES
-=======
+# Alinocarpon intermediellum SPECIES
 
 #### Status
 ACCEPTED

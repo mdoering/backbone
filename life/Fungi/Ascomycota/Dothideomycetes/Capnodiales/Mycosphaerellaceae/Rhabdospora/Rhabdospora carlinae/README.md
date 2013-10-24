@@ -1,5 +1,4 @@
-Rhabdospora carlinae M. Petrov SPECIES
-=======
+# Rhabdospora carlinae M. Petrov SPECIES
 
 #### Status
 ACCEPTED

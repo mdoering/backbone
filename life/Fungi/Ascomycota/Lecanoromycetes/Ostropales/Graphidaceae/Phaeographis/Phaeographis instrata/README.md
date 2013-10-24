@@ -1,5 +1,4 @@
-Phaeographis instrata (Stirt.) Zahlbr. SPECIES
-=======
+# Phaeographis instrata (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

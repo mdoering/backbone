@@ -1,5 +1,4 @@
-Trogia fuscoalba Corner SPECIES
-=======
+# Trogia fuscoalba Corner SPECIES
 
 #### Status
 ACCEPTED

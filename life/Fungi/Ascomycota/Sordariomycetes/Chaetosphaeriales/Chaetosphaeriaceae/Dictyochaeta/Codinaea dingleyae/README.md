@@ -1,5 +1,4 @@
-Codinaea dingleyae anon. ined. SPECIES
-=======
+# Codinaea dingleyae anon. ined. SPECIES
 
 #### Status
 ACCEPTED

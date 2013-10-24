@@ -1,5 +1,4 @@
-Trametes marginata (Fr.) P. Karst. SPECIES
-=======
+# Trametes marginata (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

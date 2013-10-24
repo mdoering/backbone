@@ -1,5 +1,4 @@
-Sclerophoma alpina Petr. SPECIES
-=======
+# Sclerophoma alpina Petr. SPECIES
 
 #### Status
 ACCEPTED

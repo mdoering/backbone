@@ -1,5 +1,4 @@
-Agaricus poderes Berk. & Broome SPECIES
-=======
+# Agaricus poderes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

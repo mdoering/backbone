@@ -1,17 +1,16 @@
-Bovista nigrescens var. montana VARIETY
-=======
+# Bovista nigrescens Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Neues Mag. Bot. 1: 86 (1794)
 
 #### Original name
-Bovista montana Morgan
+Bovista nigrescens Pers., 1794
 
 ### Remarks
 null

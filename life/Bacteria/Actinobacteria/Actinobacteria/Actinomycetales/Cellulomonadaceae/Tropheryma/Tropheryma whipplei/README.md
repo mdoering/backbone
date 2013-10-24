@@ -1,5 +1,4 @@
-Tropheryma whipplei La Scola et al., 2001 SPECIES
-=======
+# Tropheryma whipplei La Scola et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

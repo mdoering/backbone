@@ -1,5 +1,4 @@
-Dateriocradus asturiae (Cramer, 1964) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Dateriocradus asturiae (Cramer, 1964) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

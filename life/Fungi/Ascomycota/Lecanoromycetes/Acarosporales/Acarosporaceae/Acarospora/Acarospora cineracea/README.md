@@ -1,5 +1,4 @@
-Acarospora cineracea (Nyl.) Wedd. SPECIES
-=======
+# Acarospora cineracea (Nyl.) Wedd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus uber var. uber VARIETY
-=======
+# Crepidotus uber (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 878 (1887)
 
 #### Original name
-Crepidotus uber var. uber
+Agaricus uber Berk. & M.A. Curtis
 
 ### Remarks
 null

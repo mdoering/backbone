@@ -1,5 +1,4 @@
-Grandinia muelleri (Berk.) Pat. SPECIES
-=======
+# Grandinia muelleri (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

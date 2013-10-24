@@ -1,5 +1,4 @@
-Byssosphaeria semen (Cooke & Peck) M.E. Barr SPECIES
-=======
+# Byssosphaeria semen (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

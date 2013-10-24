@@ -1,8 +1,7 @@
-Reophax moniliforme Siddall, 1886 SPECIES
-=======
+# Scherochorella moniliforme (Siddall, 1886) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

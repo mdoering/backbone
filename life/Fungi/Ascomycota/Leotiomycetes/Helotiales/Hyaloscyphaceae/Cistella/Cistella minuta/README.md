@@ -1,5 +1,4 @@
-Cistella minuta (K.S. Thind & M.P. Sharma) Raitv. SPECIES
-=======
+# Cistella minuta (K.S. Thind & M.P. Sharma) Raitv. SPECIES
 
 #### Status
 ACCEPTED

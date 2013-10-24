@@ -1,5 +1,4 @@
-Paleoblastocladia W. Remy, T.N. Taylor & Hass GENUS
-=======
+# Paleoblastocladia W. Remy, T.N. Taylor & Hass GENUS
 
 #### Status
 ACCEPTED

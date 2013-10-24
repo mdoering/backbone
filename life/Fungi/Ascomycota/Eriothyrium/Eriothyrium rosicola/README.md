@@ -1,5 +1,4 @@
-Eriothyrium rosicola Speg. SPECIES
-=======
+# Eriothyrium rosicola Speg. SPECIES
 
 #### Status
 ACCEPTED

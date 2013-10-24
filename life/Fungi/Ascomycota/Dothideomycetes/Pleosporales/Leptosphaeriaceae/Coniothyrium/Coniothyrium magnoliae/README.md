@@ -1,5 +1,4 @@
-Coniothyrium magnoliae (Westend.) Sacc. & Traverso SPECIES
-=======
+# Coniothyrium magnoliae (Westend.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

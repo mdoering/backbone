@@ -1,5 +1,4 @@
-Melampsora yezoensis Miyabe & T. Matsumoto SPECIES
-=======
+# Melampsora yezoensis Miyabe & T. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

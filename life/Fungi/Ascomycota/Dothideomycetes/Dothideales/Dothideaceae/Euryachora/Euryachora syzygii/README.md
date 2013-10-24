@@ -1,5 +1,4 @@
-Euryachora syzygii (Racib.) Hansf. SPECIES
-=======
+# Euryachora syzygii (Racib.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

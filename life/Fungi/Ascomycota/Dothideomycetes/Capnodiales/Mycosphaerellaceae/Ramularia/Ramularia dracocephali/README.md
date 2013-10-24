@@ -1,5 +1,4 @@
-Ramularia dracocephali Vasyag. SPECIES
-=======
+# Ramularia dracocephali Vasyag. SPECIES
 
 #### Status
 ACCEPTED

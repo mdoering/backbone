@@ -1,5 +1,4 @@
-Amphoridium leightonii var. leightonii VARIETY
-=======
+# Amphoridium leightonii SPECIES
 
 #### Status
 ACCEPTED

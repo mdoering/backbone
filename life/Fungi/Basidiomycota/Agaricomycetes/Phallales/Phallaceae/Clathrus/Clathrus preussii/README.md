@@ -1,5 +1,4 @@
-Clathrus preussii Henn. SPECIES
-=======
+# Clathrus preussii Henn. SPECIES
 
 #### Status
 ACCEPTED

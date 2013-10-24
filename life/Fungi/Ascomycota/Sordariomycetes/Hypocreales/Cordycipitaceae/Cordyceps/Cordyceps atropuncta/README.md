@@ -1,5 +1,4 @@
-Cordyceps atropuncta Koval SPECIES
-=======
+# Cordyceps atropuncta Koval SPECIES
 
 #### Status
 ACCEPTED

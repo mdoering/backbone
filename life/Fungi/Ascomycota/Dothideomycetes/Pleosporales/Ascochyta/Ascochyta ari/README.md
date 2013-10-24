@@ -1,5 +1,4 @@
-Ascochyta ari Died., 1912 SPECIES
-=======
+# Ascochyta ari Died., 1912 SPECIES
 
 #### Status
 ACCEPTED

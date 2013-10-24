@@ -1,5 +1,4 @@
-Desmazieria melanothrix (Laurer) C.W. Dodge SPECIES
-=======
+# Desmazieria melanothrix (Laurer) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

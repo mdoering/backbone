@@ -1,5 +1,4 @@
-Cantharellus splendens Buyck, 1994 SPECIES
-=======
+# Cantharellus splendens Buyck, 1994 SPECIES
 
 #### Status
 ACCEPTED

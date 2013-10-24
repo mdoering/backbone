@@ -1,5 +1,4 @@
-Phoma gnaphalii Naumov SPECIES
-=======
+# Phoma gnaphalii Naumov SPECIES
 
 #### Status
 ACCEPTED

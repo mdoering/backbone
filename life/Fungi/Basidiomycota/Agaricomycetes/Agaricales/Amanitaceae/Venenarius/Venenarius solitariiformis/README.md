@@ -1,5 +1,4 @@
-Venenarius solitariiformis Murrill SPECIES
-=======
+# Venenarius solitariiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

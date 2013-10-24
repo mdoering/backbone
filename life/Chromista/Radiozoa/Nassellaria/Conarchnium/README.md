@@ -1,5 +1,4 @@
-Conarchnium GENUS
-=======
+# Conarchnium GENUS
 
 #### Status
 ACCEPTED

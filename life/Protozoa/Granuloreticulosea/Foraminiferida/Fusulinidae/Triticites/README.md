@@ -1,5 +1,4 @@
-Triticites Girty, 1904 GENUS
-=======
+# Triticites Girty, 1904 GENUS
 
 #### Status
 ACCEPTED

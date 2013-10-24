@@ -1,8 +1,7 @@
-Eimeria siliculiformis Schulman & Zaika, 1962 SPECIES
-=======
+# Goussia siliculiformis (Schulman & Zaika, 1962) Dyková & Lom, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

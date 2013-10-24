@@ -1,5 +1,4 @@
-Hydrocybe albosericea Velen. SPECIES
-=======
+# Hydrocybe albosericea Velen. SPECIES
 
 #### Status
 ACCEPTED

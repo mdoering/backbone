@@ -1,5 +1,4 @@
-Puccinia partheniicola H.S. Jacks. SPECIES
-=======
+# Puccinia partheniicola H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

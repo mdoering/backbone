@@ -1,5 +1,4 @@
-Mucor tertius Schaeff. SPECIES
-=======
+# Mucor tertius Schaeff. SPECIES
 
 #### Status
 ACCEPTED

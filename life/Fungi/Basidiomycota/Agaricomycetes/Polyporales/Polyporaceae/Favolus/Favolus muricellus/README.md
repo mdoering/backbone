@@ -1,5 +1,4 @@
-Favolus muricellus Fr. SPECIES
-=======
+# Favolus muricellus Fr. SPECIES
 
 #### Status
 ACCEPTED

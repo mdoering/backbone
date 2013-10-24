@@ -1,5 +1,4 @@
-Helotium carneolum Speg. SPECIES
-=======
+# Helotium carneolum Speg. SPECIES
 
 #### Status
 ACCEPTED

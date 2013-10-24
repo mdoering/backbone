@@ -1,5 +1,4 @@
-Lecanora arenosa Motyka SPECIES
-=======
+# Lecanora arenosa Motyka SPECIES
 
 #### Status
 ACCEPTED

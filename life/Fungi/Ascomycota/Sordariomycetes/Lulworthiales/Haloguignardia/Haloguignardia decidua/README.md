@@ -1,5 +1,4 @@
-Haloguignardia decidua Cribb & J.W. Cribb, 1956 SPECIES
-=======
+# Haloguignardia decidua Cribb & J.W. Cribb, 1956 SPECIES
 
 #### Status
 ACCEPTED

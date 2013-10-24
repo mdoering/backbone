@@ -1,5 +1,4 @@
-Opercularia halipli Nenninger, 1948 SPECIES
-=======
+# Opercularia halipli Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

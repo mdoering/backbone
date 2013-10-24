@@ -1,5 +1,4 @@
-Coprothermobacter platensis Etchebehere et al., 1998 SPECIES
-=======
+# Coprothermobacter platensis Etchebehere et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

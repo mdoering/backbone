@@ -1,5 +1,4 @@
-Bifarina mackinnonii var. robusta Sidebottom, 1918 VARIETY
-=======
+# Bifarina mackinnonii Millett, 1900 SPECIES
 
 #### Status
 ACCEPTED

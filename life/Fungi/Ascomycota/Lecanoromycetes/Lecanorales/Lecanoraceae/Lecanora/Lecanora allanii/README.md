@@ -1,5 +1,4 @@
-Lecanora allanii Zahlbr. SPECIES
-=======
+# Lecanora allanii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

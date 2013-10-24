@@ -1,5 +1,4 @@
-Tulasnella anguifera P. Roberts, 1992 SPECIES
-=======
+# Tulasnella anguifera P. Roberts, 1992 SPECIES
 
 #### Status
 ACCEPTED

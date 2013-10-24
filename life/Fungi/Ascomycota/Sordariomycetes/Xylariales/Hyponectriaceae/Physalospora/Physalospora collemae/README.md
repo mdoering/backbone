@@ -1,5 +1,4 @@
-Physalospora collemae (Stein) G. Winter SPECIES
-=======
+# Physalospora collemae (Stein) G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota universitaria Speg. SPECIES
-=======
+# Lepiota universitaria Speg. SPECIES
 
 #### Status
 ACCEPTED

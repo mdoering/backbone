@@ -1,5 +1,4 @@
-Camarosporium variabile (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Camarosporium variabile (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

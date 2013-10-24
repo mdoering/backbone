@@ -1,5 +1,4 @@
-Steinera Zahlbr. GENUS
-=======
+# Steinera Zahlbr. GENUS
 
 #### Status
 ACCEPTED

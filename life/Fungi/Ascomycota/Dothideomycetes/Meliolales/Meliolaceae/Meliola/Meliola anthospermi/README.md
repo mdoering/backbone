@@ -1,5 +1,4 @@
-Meliola anthospermi Hansf. SPECIES
-=======
+# Meliola anthospermi Hansf. SPECIES
 
 #### Status
 ACCEPTED

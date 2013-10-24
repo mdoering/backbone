@@ -1,5 +1,4 @@
-Sorosporium iseilematis Thirum. SPECIES
-=======
+# Sorosporium iseilematis Thirum. SPECIES
 
 #### Status
 ACCEPTED

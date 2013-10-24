@@ -1,14 +1,13 @@
-Massalongiella compositae Rick, 1933 SPECIES
-=======
+# Phyllachora compositae (Rick) Bat. & A.F. Vital, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria, sér. 3 2(29): 199 (1933)
+Anais Soc. Biol. Pernambuco 15(2): 504 (1957)
 
 #### Original name
 Massalongiella compositae Rick, 1933

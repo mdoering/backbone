@@ -1,5 +1,4 @@
-Graphium angamosense Matsush. SPECIES
-=======
+# Graphium angamosense Matsush. SPECIES
 
 #### Status
 ACCEPTED

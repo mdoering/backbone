@@ -1,5 +1,4 @@
-Pyxidiella helophori SPECIES
-=======
+# Pyxidiella helophori SPECIES
 
 #### Status
 ACCEPTED

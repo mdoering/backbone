@@ -1,5 +1,4 @@
-Usnea capensis Motyka SPECIES
-=======
+# Usnea capensis Motyka SPECIES
 
 #### Status
 ACCEPTED

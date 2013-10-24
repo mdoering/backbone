@@ -1,5 +1,4 @@
-Nectria hippocastani G.H. Otth SPECIES
-=======
+# Nectria hippocastani G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

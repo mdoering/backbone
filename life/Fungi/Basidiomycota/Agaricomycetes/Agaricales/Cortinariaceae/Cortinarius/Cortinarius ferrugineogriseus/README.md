@@ -1,5 +1,4 @@
-Cortinarius ferrugineogriseus Peck SPECIES
-=======
+# Cortinarius ferrugineogriseus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza capsulicola Petr. SPECIES
-=======
+# Pyrenopeziza capsulicola Petr. SPECIES
 
 #### Status
 ACCEPTED

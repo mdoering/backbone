@@ -1,5 +1,4 @@
-Leptomeliola torta (Doidge) S. Hughes SPECIES
-=======
+# Leptomeliola torta (Doidge) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

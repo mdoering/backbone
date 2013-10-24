@@ -1,5 +1,4 @@
-Colletotrichum madisonense H.C. Greene SPECIES
-=======
+# Colletotrichum madisonense H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

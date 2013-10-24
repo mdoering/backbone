@@ -1,5 +1,4 @@
-Dothidea clavispora Cooke & Peck SPECIES
-=======
+# Dothidea clavispora Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

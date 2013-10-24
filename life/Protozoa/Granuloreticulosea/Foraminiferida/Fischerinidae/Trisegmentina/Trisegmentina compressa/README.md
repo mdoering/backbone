@@ -1,5 +1,4 @@
-Trisegmentina compressa Wiesner, 1931 SPECIES
-=======
+# Trisegmentina compressa Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

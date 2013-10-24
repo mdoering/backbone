@@ -1,5 +1,4 @@
-Naucoria californica Murrill SPECIES
-=======
+# Naucoria californica Murrill SPECIES
 
 #### Status
 ACCEPTED

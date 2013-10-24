@@ -1,17 +1,16 @@
-Ramaria moelleriana var. crispuloides Corner VARIETY
-=======
+# Ramaria moelleriana (Bres. & Roum.) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 33: 258 (1970)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 606 (1950)
 
 #### Original name
-Ramaria moelleriana var. crispuloides Corner
+Lachnocladium moellerianum Bres. & Roum., 1890
 
 ### Remarks
 null

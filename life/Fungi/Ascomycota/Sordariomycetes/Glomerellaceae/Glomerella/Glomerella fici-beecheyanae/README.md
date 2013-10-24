@@ -1,5 +1,4 @@
-Glomerella fici-beecheyanae Yamam. {?} SPECIES
-=======
+# Glomerella fici-beecheyanae Yamam. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opercularia rhanti Nenninger, 1948 SPECIES
-=======
+# Opercularia rhanti Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

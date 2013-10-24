@@ -1,5 +1,4 @@
-Parmelia xanthocarpa Hue SPECIES
-=======
+# Parmelia xanthocarpa Hue SPECIES
 
 #### Status
 ACCEPTED

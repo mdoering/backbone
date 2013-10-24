@@ -1,5 +1,4 @@
-Sphaerella macleyae (Shirai & Hara) Sacc. SPECIES
-=======
+# Sphaerella macleyae (Shirai & Hara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

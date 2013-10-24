@@ -1,5 +1,4 @@
-Agglutinella El-Nakhai, 1983 GENUS
-=======
+# Agglutinella El-Nakhai, 1983 GENUS
 
 #### Status
 ACCEPTED

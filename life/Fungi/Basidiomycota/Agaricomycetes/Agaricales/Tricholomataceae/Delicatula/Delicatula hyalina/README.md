@@ -1,5 +1,4 @@
-Delicatula hyalina (Petch) Pegler SPECIES
-=======
+# Delicatula hyalina (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllohendersonia magnoliae (Sacc.) Tassi SPECIES
-=======
+# Phyllohendersonia magnoliae (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

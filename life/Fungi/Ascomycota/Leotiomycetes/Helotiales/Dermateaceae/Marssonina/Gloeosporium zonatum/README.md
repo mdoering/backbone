@@ -1,5 +1,4 @@
-Gloeosporium zonatum T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Gloeosporium zonatum T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

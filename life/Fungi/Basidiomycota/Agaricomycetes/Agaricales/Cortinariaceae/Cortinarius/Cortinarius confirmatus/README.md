@@ -1,5 +1,4 @@
-Cortinarius confirmatus Rob. Henry SPECIES
-=======
+# Cortinarius confirmatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

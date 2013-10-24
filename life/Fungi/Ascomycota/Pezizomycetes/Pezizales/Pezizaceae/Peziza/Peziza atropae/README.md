@@ -1,5 +1,4 @@
-Peziza atropae var. cacaliae Moug. & Nestl. ex Pers. VARIETY
-=======
+# Peziza atropae Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 249 (1822)
+null
 
 #### Original name
-Peziza atropae var. cacaliae Moug. & Nestl. ex Pers.
+Peziza atropae Alb. & Schwein.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Daitrona Loeblich & Tappan, 1961 GENUS
-=======
+# Daitrona Loeblich & Tappan, 1961 GENUS
 
 #### Status
 ACCEPTED

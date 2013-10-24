@@ -1,5 +1,4 @@
-Sargassum taiwanicum Tseng & Lu SPECIES
-=======
+# Sargassum taiwanicum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

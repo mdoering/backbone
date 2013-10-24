@@ -1,5 +1,4 @@
-Intranstylum variabilis SPECIES
-=======
+# Intranstylum variabilis SPECIES
 
 #### Status
 ACCEPTED

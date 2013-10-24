@@ -1,5 +1,4 @@
-Lecania actaea (Nyl.) B. de Lesd. SPECIES
-=======
+# Lecania actaea (Nyl.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

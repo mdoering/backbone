@@ -1,5 +1,4 @@
-Yeosuana aromativorans Kwon et al., 2006 SPECIES
-=======
+# Yeosuana aromativorans Kwon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

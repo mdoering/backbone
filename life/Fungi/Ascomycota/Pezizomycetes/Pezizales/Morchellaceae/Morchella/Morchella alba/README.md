@@ -1,5 +1,4 @@
-Morchella alba Leuba SPECIES
-=======
+# Morchella alba Leuba SPECIES
 
 #### Status
 ACCEPTED

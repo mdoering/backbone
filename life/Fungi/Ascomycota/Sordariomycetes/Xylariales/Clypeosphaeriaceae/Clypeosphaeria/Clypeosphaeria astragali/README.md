@@ -1,5 +1,4 @@
-Clypeosphaeria astragali Frolov SPECIES
-=======
+# Clypeosphaeria astragali Frolov SPECIES
 
 #### Status
 ACCEPTED

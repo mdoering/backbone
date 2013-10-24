@@ -1,5 +1,4 @@
-Lemalis mori Hara SPECIES
-=======
+# Lemalis mori Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lizoniella sphagni (Cooke) Sacc. & D. Sacc. SPECIES
-=======
+# Lizoniella sphagni (Cooke) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbospora monotospora Cooke SPECIES
-=======
+# Stilbospora monotospora Cooke SPECIES
 
 #### Status
 ACCEPTED

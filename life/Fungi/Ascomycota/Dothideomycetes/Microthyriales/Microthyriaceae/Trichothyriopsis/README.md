@@ -1,5 +1,4 @@
-Trichothyriopsis Theiss. GENUS
-=======
+# Trichothyriopsis Theiss. GENUS
 
 #### Status
 ACCEPTED

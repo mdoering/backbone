@@ -1,5 +1,4 @@
-Chaetocypha cirsii (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Chaetocypha cirsii (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

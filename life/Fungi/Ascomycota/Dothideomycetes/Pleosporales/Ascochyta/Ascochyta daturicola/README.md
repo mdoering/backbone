@@ -1,5 +1,4 @@
-Ascochyta daturicola Bres. SPECIES
-=======
+# Ascochyta daturicola Bres. SPECIES
 
 #### Status
 ACCEPTED

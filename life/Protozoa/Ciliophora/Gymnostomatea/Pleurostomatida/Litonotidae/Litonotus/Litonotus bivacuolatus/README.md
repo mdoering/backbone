@@ -1,5 +1,4 @@
-Litonotus bivacuolatus SPECIES
-=======
+# Litonotus bivacuolatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia heteropteridis Thüm. SPECIES
-=======
+# Puccinia heteropteridis Thüm. SPECIES
 
 #### Status
 ACCEPTED

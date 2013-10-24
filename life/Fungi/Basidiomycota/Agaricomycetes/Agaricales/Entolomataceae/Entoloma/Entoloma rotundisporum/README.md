@@ -1,5 +1,4 @@
-Entoloma rotundisporum E. Horak SPECIES
-=======
+# Entoloma rotundisporum E. Horak SPECIES
 
 #### Status
 ACCEPTED

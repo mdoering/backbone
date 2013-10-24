@@ -1,17 +1,16 @@
-Ceratostoma caulincola f. echii G. Winter FORM
-=======
+# Scopinella caulincola (Fuckel) Malloch, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi Canadenses, Ottawa no. 82 (1976)
 
 #### Original name
-Ceratostoma caulincola f. echii G. Winter
+Ceratostoma caulincola Fuckel, 1870
 
 ### Remarks
 null

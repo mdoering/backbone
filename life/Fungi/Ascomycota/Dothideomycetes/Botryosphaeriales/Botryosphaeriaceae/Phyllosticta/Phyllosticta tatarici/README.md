@@ -1,5 +1,4 @@
-Phyllosticta tatarici Hollós SPECIES
-=======
+# Phyllosticta tatarici Hollós SPECIES
 
 #### Status
 ACCEPTED

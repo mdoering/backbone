@@ -1,17 +1,16 @@
-Entonaema moluccana J.D. Rogers SPECIES
-=======
+# Entonaema moluccanum J.D. Rogers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 73(1): 56 (1981)
 
 #### Original name
-Entonaema moluccana J.D. Rogers
+Entonaema moluccanum J.D. Rogers
 
 ### Remarks
 null

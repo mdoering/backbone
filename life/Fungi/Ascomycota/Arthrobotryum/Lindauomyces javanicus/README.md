@@ -1,5 +1,4 @@
-Lindauomyces javanicus Koord. SPECIES
-=======
+# Lindauomyces javanicus Koord. SPECIES
 
 #### Status
 ACCEPTED

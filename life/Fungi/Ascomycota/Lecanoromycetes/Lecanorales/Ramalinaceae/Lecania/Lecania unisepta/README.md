@@ -1,5 +1,4 @@
-Lecania unisepta (Stizenb.) Lettau SPECIES
-=======
+# Lecania unisepta (Stizenb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma opopanacis (Ces.) Kuntze SPECIES
-=======
+# Dicaeoma opopanacis (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

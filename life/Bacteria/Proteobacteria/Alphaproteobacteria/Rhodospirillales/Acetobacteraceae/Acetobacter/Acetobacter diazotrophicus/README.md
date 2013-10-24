@@ -1,5 +1,4 @@
-Acetobacter diazotrophicus Gillis et al., 1989 SPECIES
-=======
+# Acetobacter diazotrophicus Gillis et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

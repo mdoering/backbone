@@ -1,5 +1,4 @@
-Irenopsis sidicola (F. Stevens & Tehon) Hansf. SPECIES
-=======
+# Irenopsis sidicola (F. Stevens & Tehon) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyporus tiliophilus (Murrill) Sacc. & Trotter, 1912 SPECIES
-=======
+# Postia guttulata (Peck) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 281 (1912)
+Persoonia 11(4): 423 (1982)
 
 #### Original name
-Tyromyces tiliophilus Murrill, 1907
+Polyporus guttulatus Peck, 1888
 
 ### Remarks
 null

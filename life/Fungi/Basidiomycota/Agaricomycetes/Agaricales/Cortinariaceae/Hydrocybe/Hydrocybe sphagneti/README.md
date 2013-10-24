@@ -1,5 +1,4 @@
-Hydrocybe sphagneti P.D. Orton SPECIES
-=======
+# Hydrocybe sphagneti P.D. Orton SPECIES
 
 #### Status
 ACCEPTED

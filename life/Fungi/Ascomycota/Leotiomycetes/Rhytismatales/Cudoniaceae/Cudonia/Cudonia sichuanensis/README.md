@@ -1,5 +1,4 @@
-Cudonia sichuanensis Zheng Wang, 2002 SPECIES
-=======
+# Cudonia sichuanensis Zheng Wang, 2002 SPECIES
 
 #### Status
 ACCEPTED

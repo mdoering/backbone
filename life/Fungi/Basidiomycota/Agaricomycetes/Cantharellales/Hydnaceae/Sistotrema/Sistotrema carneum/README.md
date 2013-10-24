@@ -1,5 +1,4 @@
-Sistotrema carneum Bonord. SPECIES
-=======
+# Sistotrema carneum Bonord. SPECIES
 
 #### Status
 ACCEPTED

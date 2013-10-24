@@ -1,5 +1,4 @@
-Usnea pseudoflorida Motyka SPECIES
-=======
+# Usnea pseudoflorida Motyka SPECIES
 
 #### Status
 ACCEPTED

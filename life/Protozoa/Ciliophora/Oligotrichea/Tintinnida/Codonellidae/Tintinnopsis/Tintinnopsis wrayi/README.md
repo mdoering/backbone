@@ -1,5 +1,4 @@
-Tintinnopsis wrayi SPECIES
-=======
+# Tintinnopsis wrayi SPECIES
 
 #### Status
 ACCEPTED

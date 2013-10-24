@@ -1,17 +1,16 @@
-Septosperma rhizophidii Whiffen SPECIES
-=======
+# Septosperma rhizophydii Whiffen ex W.H. Blackw. & M.J. Powell, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 42: 45 (1991)
 
 #### Original name
-Septosperma rhizophidii Whiffen
+Septosperma rhizophydii Whiffen ex W.H. Blackw. & M.J. Powell, 1991
 
 ### Remarks
 null

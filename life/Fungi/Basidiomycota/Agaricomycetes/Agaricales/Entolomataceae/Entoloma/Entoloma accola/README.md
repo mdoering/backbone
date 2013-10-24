@@ -1,5 +1,4 @@
-Entoloma accola (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma accola (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

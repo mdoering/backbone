@@ -1,5 +1,4 @@
-Asteromella ranunculi (Fuckel) Vanev & Aa SPECIES
-=======
+# Asteromella ranunculi (Fuckel) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

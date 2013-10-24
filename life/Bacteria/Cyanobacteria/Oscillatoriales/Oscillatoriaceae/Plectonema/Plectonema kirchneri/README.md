@@ -1,5 +1,4 @@
-Plectonema kirchneri M. C. Cooke SPECIES
-=======
+# Plectonema kirchneri M. C. Cooke SPECIES
 
 #### Status
 ACCEPTED

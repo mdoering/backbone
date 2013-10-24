@@ -1,5 +1,4 @@
-Lecanora tetraspora H. Magn. SPECIES
-=======
+# Lecanora tetraspora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

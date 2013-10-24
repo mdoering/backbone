@@ -1,5 +1,4 @@
-Hymenoscyphus velhaensis (Henn.) Dennis SPECIES
-=======
+# Hymenoscyphus velhaensis (Henn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

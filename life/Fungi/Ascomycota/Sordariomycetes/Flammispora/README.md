@@ -1,5 +1,4 @@
-Flammispora Pinruan, Sakay., K.D. Hyde & E.B.G. Jones GENUS
-=======
+# Flammispora Pinruan, Sakay., K.D. Hyde & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

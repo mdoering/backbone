@@ -1,5 +1,4 @@
-Sclerophoma rhamni (Allesch.) Höhn. SPECIES
-=======
+# Sclerophoma rhamni (Allesch.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

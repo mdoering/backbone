@@ -1,5 +1,4 @@
-Cercospora sycina Sacc. SPECIES
-=======
+# Cercospora sycina Sacc. SPECIES
 
 #### Status
 ACCEPTED

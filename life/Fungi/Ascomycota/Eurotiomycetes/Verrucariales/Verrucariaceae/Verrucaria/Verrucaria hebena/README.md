@@ -1,5 +1,4 @@
-Verrucaria hebena C.W. Dodge SPECIES
-=======
+# Verrucaria hebena C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dateriocradus lindus (Cramer & Díez, 1976) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Dateriocradus lindus (Cramer & Díez, 1976) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

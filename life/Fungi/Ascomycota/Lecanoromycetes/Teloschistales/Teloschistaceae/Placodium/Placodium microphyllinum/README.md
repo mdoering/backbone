@@ -1,5 +1,4 @@
-Placodium microphyllinum Tuck. SPECIES
-=======
+# Placodium microphyllinum Tuck. SPECIES
 
 #### Status
 ACCEPTED

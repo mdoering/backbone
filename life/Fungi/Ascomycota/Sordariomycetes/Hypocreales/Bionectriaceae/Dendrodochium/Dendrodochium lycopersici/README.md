@@ -1,5 +1,4 @@
-Dendrodochium lycopersici É.J. Marchal SPECIES
-=======
+# Dendrodochium lycopersici É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

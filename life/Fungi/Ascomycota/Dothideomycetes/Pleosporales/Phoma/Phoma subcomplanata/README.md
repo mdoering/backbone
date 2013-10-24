@@ -1,5 +1,4 @@
-Phoma subcomplanata Cooke & Massee SPECIES
-=======
+# Phoma subcomplanata Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

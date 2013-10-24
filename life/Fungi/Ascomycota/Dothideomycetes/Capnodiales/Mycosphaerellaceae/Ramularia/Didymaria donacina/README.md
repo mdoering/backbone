@@ -1,5 +1,4 @@
-Didymaria donacina (Thüm.) Sacc. SPECIES
-=======
+# Didymaria donacina (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

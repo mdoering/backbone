@@ -1,5 +1,4 @@
-Eutypella imnica Petr. SPECIES
-=======
+# Eutypella imnica Petr. SPECIES
 
 #### Status
 ACCEPTED

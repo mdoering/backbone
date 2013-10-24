@@ -1,5 +1,4 @@
-Marasmius castanicolor Penn. SPECIES
-=======
+# Marasmius castanicolor Penn. SPECIES
 
 #### Status
 ACCEPTED

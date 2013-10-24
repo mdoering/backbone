@@ -1,5 +1,4 @@
-Tricharia aulaxinoides Kalb & Vezda SPECIES
-=======
+# Tricharia aulaxinoides Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

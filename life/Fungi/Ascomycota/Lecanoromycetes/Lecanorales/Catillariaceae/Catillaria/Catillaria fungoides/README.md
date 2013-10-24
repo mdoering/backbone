@@ -1,5 +1,4 @@
-Catillaria fungoides Etayo & van den Boom SPECIES
-=======
+# Catillaria fungoides Etayo & van den Boom SPECIES
 
 #### Status
 ACCEPTED

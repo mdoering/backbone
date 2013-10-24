@@ -1,5 +1,4 @@
-Phoma parmeliarum (H. Olivier) Vouaux SPECIES
-=======
+# Phoma parmeliarum (H. Olivier) Vouaux SPECIES
 
 #### Status
 ACCEPTED

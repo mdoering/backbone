@@ -1,5 +1,4 @@
-Biflagellospora siamensis Sivichai & Hywel-Jones SPECIES
-=======
+# Biflagellospora siamensis Sivichai & Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

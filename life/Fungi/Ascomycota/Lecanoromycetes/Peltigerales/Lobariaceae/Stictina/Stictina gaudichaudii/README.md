@@ -1,5 +1,4 @@
-Stictina gaudichaudii (Delise) Nyl. SPECIES
-=======
+# Stictina gaudichaudii (Delise) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria galii (G.H. Otth) Sacc. SPECIES
-=======
+# Leptosphaeria galii (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria endomilta Vain. SPECIES
-=======
+# Pannaria endomilta Vain. SPECIES
 
 #### Status
 ACCEPTED

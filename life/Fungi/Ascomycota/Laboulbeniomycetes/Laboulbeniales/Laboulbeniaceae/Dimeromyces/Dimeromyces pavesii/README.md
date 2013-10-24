@@ -1,5 +1,4 @@
-Dimeromyces pavesii Santam. & W. Rossi SPECIES
-=======
+# Dimeromyces pavesii Santam. & W. Rossi SPECIES
 
 #### Status
 ACCEPTED

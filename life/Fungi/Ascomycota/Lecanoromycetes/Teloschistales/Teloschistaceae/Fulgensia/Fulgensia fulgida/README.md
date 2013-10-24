@@ -1,5 +1,4 @@
-Fulgensia fulgida var. fulgida VARIETY
-=======
+# Fulgensia fulgida (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fulgensia fulgida var. fulgida
+Placodium fulgidum Nyl.
 
 ### Remarks
 null

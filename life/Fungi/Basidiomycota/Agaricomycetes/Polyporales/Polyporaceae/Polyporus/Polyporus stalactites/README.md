@@ -1,5 +1,4 @@
-Polyporus stalactites (Hoffm.) Pers. SPECIES
-=======
+# Polyporus stalactites (Hoffm.) Pers. SPECIES
 
 #### Status
 ACCEPTED

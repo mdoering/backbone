@@ -1,5 +1,4 @@
-Penicillium ribis Frisvad & Overy SPECIES
-=======
+# Penicillium ribis Frisvad & Overy SPECIES
 
 #### Status
 ACCEPTED

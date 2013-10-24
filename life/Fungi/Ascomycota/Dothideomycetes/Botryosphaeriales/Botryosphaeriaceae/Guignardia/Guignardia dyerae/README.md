@@ -1,5 +1,4 @@
-Guignardia dyerae Punith. & P.H. Wong, 1981 SPECIES
-=======
+# Guignardia dyerae Punith. & P.H. Wong, 1981 SPECIES
 
 #### Status
 ACCEPTED

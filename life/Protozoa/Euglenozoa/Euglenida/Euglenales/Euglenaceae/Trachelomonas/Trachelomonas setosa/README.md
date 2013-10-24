@@ -1,5 +1,4 @@
-Trachelomonas setosa Zykoff SPECIES
-=======
+# Trachelomonas setosa Zykoff SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus caliciformis J.F. Gmel. SPECIES
-=======
+# Agaricus caliciformis J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

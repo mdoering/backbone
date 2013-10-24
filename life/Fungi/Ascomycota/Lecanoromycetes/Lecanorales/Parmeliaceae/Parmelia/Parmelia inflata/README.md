@@ -1,5 +1,4 @@
-Parmelia inflata Hillmann SPECIES
-=======
+# Parmelia inflata Hillmann SPECIES
 
 #### Status
 ACCEPTED

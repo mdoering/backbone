@@ -1,5 +1,4 @@
-Buellia subsquamosa J. Steiner SPECIES
-=======
+# Buellia subsquamosa J. Steiner SPECIES
 
 #### Status
 ACCEPTED

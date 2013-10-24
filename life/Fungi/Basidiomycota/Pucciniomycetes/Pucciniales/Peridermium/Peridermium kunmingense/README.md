@@ -1,5 +1,4 @@
-Peridermium kunmingense Jen {?} SPECIES
-=======
+# Peridermium kunmingense Jen {?} SPECIES
 
 #### Status
 ACCEPTED

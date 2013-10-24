@@ -1,5 +1,4 @@
-Nodulisporium tuberum A. Fontana & Fas.-Bonf. ex de Hoog, 1974 SPECIES
-=======
+# Nodulisporium tuberum A. Fontana & Fas.-Bonf. ex de Hoog, 1974 SPECIES
 
 #### Status
 ACCEPTED

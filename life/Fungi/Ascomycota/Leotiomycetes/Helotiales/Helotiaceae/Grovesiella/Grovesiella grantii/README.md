@@ -1,5 +1,4 @@
-Grovesiella grantii A. Funk SPECIES
-=======
+# Grovesiella grantii A. Funk SPECIES
 
 #### Status
 ACCEPTED

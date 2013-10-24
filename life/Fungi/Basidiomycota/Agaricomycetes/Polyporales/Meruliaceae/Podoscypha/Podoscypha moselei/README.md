@@ -1,14 +1,13 @@
-Stereum moselei Berk., 1878 SPECIES
-=======
+# Podoscypha moselei (Berk.) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 16: 48 (1878)
+Beih. Nova Hedwigia 18: 203 (1965)
 
 #### Original name
 Stereum moselei Berk., 1878

@@ -1,5 +1,4 @@
-Rinodina phaeostigmella H. Magn. SPECIES
-=======
+# Rinodina phaeostigmella H. Magn. SPECIES
 
 #### Status
 ACCEPTED

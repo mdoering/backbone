@@ -1,5 +1,4 @@
-Hypoxylon comedens Ces. SPECIES
-=======
+# Hypoxylon comedens Ces. SPECIES
 
 #### Status
 ACCEPTED

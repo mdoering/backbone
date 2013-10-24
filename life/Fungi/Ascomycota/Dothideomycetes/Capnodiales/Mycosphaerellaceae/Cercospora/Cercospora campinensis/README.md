@@ -1,5 +1,4 @@
-Cercospora campinensis Chupp & Viégas SPECIES
-=======
+# Cercospora campinensis Chupp & Viégas SPECIES
 
 #### Status
 ACCEPTED

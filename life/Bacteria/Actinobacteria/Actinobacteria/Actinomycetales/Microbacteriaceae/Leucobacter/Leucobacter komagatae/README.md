@@ -1,5 +1,4 @@
-Leucobacter komagatae Takeuchi et al., 1996 SPECIES
-=======
+# Leucobacter komagatae Takeuchi et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

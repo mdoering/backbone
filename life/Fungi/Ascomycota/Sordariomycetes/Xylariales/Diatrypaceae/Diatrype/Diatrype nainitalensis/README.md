@@ -1,5 +1,4 @@
-Diatrype nainitalensis Dargan & Bhatia SPECIES
-=======
+# Diatrype nainitalensis Dargan & Bhatia SPECIES
 
 #### Status
 ACCEPTED

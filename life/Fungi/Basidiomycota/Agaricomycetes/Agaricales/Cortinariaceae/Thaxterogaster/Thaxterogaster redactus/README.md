@@ -1,5 +1,4 @@
-Thaxterogaster redactus G.W. Beaton, Pegler & T.W.K. Young SPECIES
-=======
+# Thaxterogaster redactus G.W. Beaton, Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

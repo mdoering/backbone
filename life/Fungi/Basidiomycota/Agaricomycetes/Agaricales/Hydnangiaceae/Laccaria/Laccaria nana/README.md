@@ -1,5 +1,4 @@
-Laccaria nana Massee SPECIES
-=======
+# Laccaria nana Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stauroacanthocircus GENUS
-=======
+# Stauroacanthocircus GENUS
 
 #### Status
 ACCEPTED

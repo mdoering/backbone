@@ -1,5 +1,4 @@
-Hebeloma laetitiae Quadr. SPECIES
-=======
+# Hebeloma laetitiae Quadr. SPECIES
 
 #### Status
 ACCEPTED

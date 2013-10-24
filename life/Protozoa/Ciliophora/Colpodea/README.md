@@ -1,5 +1,4 @@
-Colpodea Small & Lynn, 1981 CLASS
-=======
+# Colpodea Small & Lynn, 1981 CLASS
 
 #### Status
 ACCEPTED

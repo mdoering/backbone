@@ -1,5 +1,4 @@
-Gymnopilus janthinosarx (Singer) Singer SPECIES
-=======
+# Gymnopilus janthinosarx (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

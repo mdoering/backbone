@@ -1,5 +1,4 @@
-Cortinarius arenicola A.H. Sm. SPECIES
-=======
+# Cortinarius arenicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

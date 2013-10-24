@@ -1,5 +1,4 @@
-Biatora cinereopallens (Vain.) Räsänen SPECIES
-=======
+# Biatora cinereopallens (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

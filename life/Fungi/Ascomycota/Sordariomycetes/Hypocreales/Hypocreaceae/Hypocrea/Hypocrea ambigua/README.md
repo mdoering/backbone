@@ -1,5 +1,4 @@
-Hypocrea ambigua Theiss. SPECIES
-=======
+# Hypocrea ambigua Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius germanus Fr. SPECIES
-=======
+# Cortinarius germanus Fr. SPECIES
 
 #### Status
 ACCEPTED

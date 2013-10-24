@@ -1,5 +1,4 @@
-Stictis cladoniae (Rehm) Sacc. SPECIES
-=======
+# Stictis cladoniae (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

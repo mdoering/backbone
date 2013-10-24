@@ -1,5 +1,4 @@
-Vorticella solitaria Stiller, 1932 SPECIES
-=======
+# Vorticella solitaria Stiller, 1932 SPECIES
 
 #### Status
 ACCEPTED

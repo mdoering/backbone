@@ -1,5 +1,4 @@
-Irenopsis helicteridis Hosag. SPECIES
-=======
+# Irenopsis helicteridis Hosag. SPECIES
 
 #### Status
 ACCEPTED

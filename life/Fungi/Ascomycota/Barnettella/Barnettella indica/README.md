@@ -1,5 +1,4 @@
-Barnettella indica (R.Y. Roy, R.S. Dwivedi & P.K. Khanna) P.Rag. Rao SPECIES
-=======
+# Barnettella indica (R.Y. Roy, R.S. Dwivedi & P.K. Khanna) P.Rag. Rao SPECIES
 
 #### Status
 ACCEPTED

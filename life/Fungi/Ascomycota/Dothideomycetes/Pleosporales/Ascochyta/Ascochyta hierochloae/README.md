@@ -1,5 +1,4 @@
-Ascochyta hierochloae Punith. SPECIES
-=======
+# Ascochyta hierochloae Punith. SPECIES
 
 #### Status
 ACCEPTED

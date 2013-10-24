@@ -1,5 +1,4 @@
-Placolecanora peltata var. peltata VARIETY
-=======
+# Placolecanora peltata (Ramond) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placolecanora peltata var. peltata
+Lichen peltatus Ramond
 
 ### Remarks
 null

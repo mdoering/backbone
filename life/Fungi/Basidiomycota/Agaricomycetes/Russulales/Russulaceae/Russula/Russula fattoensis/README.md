@@ -1,5 +1,4 @@
-Russula fattoensis Buyck SPECIES
-=======
+# Russula fattoensis Buyck SPECIES
 
 #### Status
 ACCEPTED

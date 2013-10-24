@@ -1,5 +1,4 @@
-Sphaeridium vitellinum Fresen., 1852 SPECIES
-=======
+# Sphaeridium vitellinum Fresen., 1852 SPECIES
 
 #### Status
 ACCEPTED

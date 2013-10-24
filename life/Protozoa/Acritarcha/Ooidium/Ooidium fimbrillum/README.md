@@ -1,5 +1,4 @@
-Ooidium fimbrillum Ouyang Shu et al., 1974 SPECIES
-=======
+# Ooidium fimbrillum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

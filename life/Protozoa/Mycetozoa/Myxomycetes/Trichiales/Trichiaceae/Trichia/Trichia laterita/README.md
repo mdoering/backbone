@@ -1,5 +1,4 @@
-Trichia laterita Lév. SPECIES
-=======
+# Trichia laterita Lév. SPECIES
 
 #### Status
 ACCEPTED

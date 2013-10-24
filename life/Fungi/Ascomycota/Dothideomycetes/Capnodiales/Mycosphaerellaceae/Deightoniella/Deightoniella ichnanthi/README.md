@@ -1,5 +1,4 @@
-Deightoniella ichnanthi M.B. Ellis SPECIES
-=======
+# Deightoniella ichnanthi M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

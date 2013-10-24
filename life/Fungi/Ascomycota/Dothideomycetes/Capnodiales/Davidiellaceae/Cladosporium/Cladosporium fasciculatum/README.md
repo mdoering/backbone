@@ -1,5 +1,4 @@
-Cladosporium fasciculatum Corda SPECIES
-=======
+# Cladosporium fasciculatum Corda SPECIES
 
 #### Status
 ACCEPTED

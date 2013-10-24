@@ -1,5 +1,4 @@
-Aecidium melananthi Henn. SPECIES
-=======
+# Aecidium melananthi Henn. SPECIES
 
 #### Status
 ACCEPTED

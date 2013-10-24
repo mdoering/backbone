@@ -1,5 +1,4 @@
-Lachlanella corrugata (Collins, 1958) SPECIES
-=======
+# Lachlanella corrugata (Collins, 1958) SPECIES
 
 #### Status
 ACCEPTED

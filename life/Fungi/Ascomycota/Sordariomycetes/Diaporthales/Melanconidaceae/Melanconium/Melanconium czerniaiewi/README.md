@@ -1,5 +1,4 @@
-Melanconium czerniaiewi Potebnia SPECIES
-=======
+# Melanconium czerniaiewi Potebnia SPECIES
 
 #### Status
 ACCEPTED

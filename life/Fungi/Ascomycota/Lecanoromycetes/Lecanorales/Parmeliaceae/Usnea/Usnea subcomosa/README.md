@@ -1,5 +1,4 @@
-Usnea subcomosa Vain. SPECIES
-=======
+# Usnea subcomosa Vain. SPECIES
 
 #### Status
 ACCEPTED

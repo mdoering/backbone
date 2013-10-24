@@ -1,17 +1,16 @@
-Tricholoma focale var. goliath (Fr.) Bon, 1976 VARIETY
-=======
+# Tricholoma goliath (Fr.) S. Lundell & Nannf., 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 6(nos 22-23): 273 (1976)
+Fungi Exsiccati Suecici no. 1706 (1942)
 
 #### Original name
-Armillaria focalis var. goliathus (Fr.) P. Karst., 1879
+Agaricus focalis var. goliathus Fr., 1857
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Solenia nivea Quél. SPECIES
-=======
+# Solenia nivea Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinus densus (Lloyd) Bondartsev SPECIES
-=======
+# Phellinus densus (Lloyd) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

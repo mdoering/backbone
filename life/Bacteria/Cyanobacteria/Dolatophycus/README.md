@@ -1,5 +1,4 @@
-Dolatophycus C.L. Fenton & M.A. Fenton, 1937 GENUS
-=======
+# Dolatophycus C.L. Fenton & M.A. Fenton, 1937 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroloculina caduca SPECIES
-=======
+# Spiroloculina caduca SPECIES
 
 #### Status
 ACCEPTED

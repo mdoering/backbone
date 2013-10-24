@@ -1,5 +1,4 @@
-Biddulphia seticulosa Grunow SPECIES
-=======
+# Biddulphia seticulosa Grunow SPECIES
 
 #### Status
 ACCEPTED

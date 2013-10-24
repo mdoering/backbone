@@ -1,5 +1,4 @@
-Cryptosporium candidum Dearn. SPECIES
-=======
+# Cryptosporium candidum Dearn. SPECIES
 
 #### Status
 ACCEPTED

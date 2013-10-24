@@ -1,5 +1,4 @@
-Septoria aconiti Bacc. SPECIES
-=======
+# Septoria aconiti Bacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytosporella coryli Curzi & Barbaini SPECIES
-=======
+# Cytosporella coryli Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

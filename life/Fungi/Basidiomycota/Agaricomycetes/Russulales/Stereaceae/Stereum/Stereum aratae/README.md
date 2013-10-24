@@ -1,5 +1,4 @@
-Stereum aratae Speg. SPECIES
-=======
+# Stereum aratae Speg. SPECIES
 
 #### Status
 ACCEPTED

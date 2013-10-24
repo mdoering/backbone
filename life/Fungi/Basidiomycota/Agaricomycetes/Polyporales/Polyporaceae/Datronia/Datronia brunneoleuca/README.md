@@ -1,5 +1,4 @@
-Datronia brunneoleuca (Cooke) Ryvarden SPECIES
-=======
+# Datronia brunneoleuca (Cooke) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

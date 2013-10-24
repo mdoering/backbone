@@ -1,5 +1,4 @@
-Rhexoacrodictys W.A. Baker & Morgan-Jones GENUS
-=======
+# Rhexoacrodictys W.A. Baker & Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

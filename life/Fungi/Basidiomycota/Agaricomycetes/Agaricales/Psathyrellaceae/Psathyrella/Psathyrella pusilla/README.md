@@ -1,5 +1,4 @@
-Psathyrella pusilla Pegler SPECIES
-=======
+# Psathyrella pusilla Pegler SPECIES
 
 #### Status
 ACCEPTED

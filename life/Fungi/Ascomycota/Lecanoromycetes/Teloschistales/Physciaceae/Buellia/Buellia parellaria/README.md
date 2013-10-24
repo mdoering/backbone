@@ -1,5 +1,4 @@
-Buellia parellaria SPECIES
-=======
+# Buellia parellaria SPECIES
 
 #### Status
 ACCEPTED

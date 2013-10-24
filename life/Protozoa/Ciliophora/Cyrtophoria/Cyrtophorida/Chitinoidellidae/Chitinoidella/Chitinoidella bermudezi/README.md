@@ -1,5 +1,4 @@
-Chitinoidella bermudezi (Furrazola-Bermudez, 1965) Borza, 1966 SPECIES
-=======
+# Chitinoidella bermudezi (Furrazola-Bermudez, 1965) Borza, 1966 SPECIES
 
 #### Status
 ACCEPTED

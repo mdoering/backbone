@@ -1,5 +1,4 @@
-Lembosia opaca Speg., 1888 SPECIES
-=======
+# Lembosia opaca Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED

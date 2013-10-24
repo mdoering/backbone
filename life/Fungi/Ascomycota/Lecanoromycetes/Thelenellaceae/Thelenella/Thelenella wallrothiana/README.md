@@ -1,5 +1,4 @@
-Thelenella wallrothiana (A. Massal.) Syd. SPECIES
-=======
+# Thelenella wallrothiana (A. Massal.) Syd. SPECIES
 
 #### Status
 ACCEPTED

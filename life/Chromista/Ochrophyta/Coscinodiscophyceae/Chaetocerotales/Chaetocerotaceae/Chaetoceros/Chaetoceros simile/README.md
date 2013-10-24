@@ -1,5 +1,4 @@
-Chaetoceros simile Cleve SPECIES
-=======
+# Chaetoceros simile Cleve SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridium buddleiae Gucevic SPECIES
-=======
+# Asteridium buddleiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

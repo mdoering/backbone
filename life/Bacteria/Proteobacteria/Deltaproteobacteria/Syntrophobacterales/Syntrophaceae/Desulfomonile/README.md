@@ -1,5 +1,4 @@
-Desulfomonile GENUS
-=======
+# Desulfomonile GENUS
 
 #### Status
 ACCEPTED

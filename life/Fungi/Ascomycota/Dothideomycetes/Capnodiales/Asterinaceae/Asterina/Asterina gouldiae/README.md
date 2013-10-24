@@ -1,5 +1,4 @@
-Asterina gouldiae F. Stevens & R.W. Ryan SPECIES
-=======
+# Asterina gouldiae F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

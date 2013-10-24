@@ -1,5 +1,4 @@
-Cortinarius chamaesalicis Bon SPECIES
-=======
+# Cortinarius chamaesalicis Bon SPECIES
 
 #### Status
 ACCEPTED

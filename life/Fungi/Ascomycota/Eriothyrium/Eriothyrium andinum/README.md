@@ -1,5 +1,4 @@
-Eriothyrium andinum (Pat.) Speg. SPECIES
-=======
+# Eriothyrium andinum (Pat.) Speg. SPECIES
 
 #### Status
 ACCEPTED

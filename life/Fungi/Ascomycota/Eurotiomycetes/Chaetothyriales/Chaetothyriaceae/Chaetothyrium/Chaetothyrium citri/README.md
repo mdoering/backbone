@@ -1,5 +1,4 @@
-Chaetothyrium citri (G. Arnaud) E.E. Fisher SPECIES
-=======
+# Chaetothyrium citri (G. Arnaud) E.E. Fisher SPECIES
 
 #### Status
 ACCEPTED

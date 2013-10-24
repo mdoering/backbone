@@ -1,5 +1,4 @@
-Sebacina uvida (Fr.) Bres. SPECIES
-=======
+# Sebacina uvida (Fr.) Bres. SPECIES
 
 #### Status
 ACCEPTED

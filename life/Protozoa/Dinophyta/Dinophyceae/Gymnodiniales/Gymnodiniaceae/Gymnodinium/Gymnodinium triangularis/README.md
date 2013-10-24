@@ -1,5 +1,4 @@
-Gymnodinium triangularis Lebour, 1917 SPECIES
-=======
+# Gymnodinium triangularis Lebour, 1917 SPECIES
 
 #### Status
 ACCEPTED

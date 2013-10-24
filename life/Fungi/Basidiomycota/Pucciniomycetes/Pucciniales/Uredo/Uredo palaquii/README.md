@@ -1,5 +1,4 @@
-Uredo palaquii Henn. SPECIES
-=======
+# Uredo palaquii Henn. SPECIES
 
 #### Status
 ACCEPTED

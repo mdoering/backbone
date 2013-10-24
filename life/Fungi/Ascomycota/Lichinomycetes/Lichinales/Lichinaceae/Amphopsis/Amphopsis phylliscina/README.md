@@ -1,5 +1,4 @@
-Amphopsis phylliscina (Tuck.) Nyl. SPECIES
-=======
+# Amphopsis phylliscina (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

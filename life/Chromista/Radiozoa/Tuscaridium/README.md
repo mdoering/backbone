@@ -1,5 +1,4 @@
-Tuscaridium Haeckel, 1887 GENUS
-=======
+# Tuscaridium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

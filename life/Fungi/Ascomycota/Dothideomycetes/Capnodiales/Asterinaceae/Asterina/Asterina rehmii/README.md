@@ -1,5 +1,4 @@
-Asterina rehmii Henn. SPECIES
-=======
+# Asterina rehmii Henn. SPECIES
 
 #### Status
 ACCEPTED

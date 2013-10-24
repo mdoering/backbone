@@ -1,5 +1,4 @@
-Inocybe hypervelata Bizio & Cervini SPECIES
-=======
+# Inocybe hypervelata Bizio & Cervini SPECIES
 
 #### Status
 ACCEPTED

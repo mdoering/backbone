@@ -1,5 +1,4 @@
-Lepra antiquitatis (L.) F.H. Wigg. SPECIES
-=======
+# Lepra antiquitatis (L.) F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

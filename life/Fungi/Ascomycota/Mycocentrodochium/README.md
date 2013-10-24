@@ -1,5 +1,4 @@
-Mycocentrodochium K. Matsush. & Matsush. GENUS
-=======
+# Mycocentrodochium K. Matsush. & Matsush. GENUS
 
 #### Status
 ACCEPTED

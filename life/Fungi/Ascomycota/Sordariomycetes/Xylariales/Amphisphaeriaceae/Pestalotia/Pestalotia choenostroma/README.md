@@ -1,17 +1,16 @@
-Pestalozzia choenostroma Lacroix SPECIES
-=======
+# Pestalotia choenostroma Lacroix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annals Soc. linn. Angers 2: 15 (1857)
 
 #### Original name
-Pestalozzia choenostroma Lacroix
+Pestalotia choenostroma Lacroix
 
 ### Remarks
 null

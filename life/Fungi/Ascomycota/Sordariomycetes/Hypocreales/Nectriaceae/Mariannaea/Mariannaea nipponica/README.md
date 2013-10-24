@@ -1,5 +1,4 @@
-Mariannaea nipponica Matsush. SPECIES
-=======
+# Mariannaea nipponica Matsush. SPECIES
 
 #### Status
 ACCEPTED

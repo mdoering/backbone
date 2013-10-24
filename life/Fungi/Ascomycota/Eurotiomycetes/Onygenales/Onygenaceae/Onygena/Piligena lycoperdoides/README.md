@@ -1,5 +1,4 @@
-Piligena lycoperdoides Schumach. SPECIES
-=======
+# Piligena lycoperdoides Schumach. SPECIES
 
 #### Status
 ACCEPTED

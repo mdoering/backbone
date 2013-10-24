@@ -1,5 +1,4 @@
-Bacidia microphialoides Zahlbr. SPECIES
-=======
+# Bacidia microphialoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

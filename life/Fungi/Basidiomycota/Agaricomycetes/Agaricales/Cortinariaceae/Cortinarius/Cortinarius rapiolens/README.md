@@ -1,5 +1,4 @@
-Cortinarius rapiolens M.M. Moser SPECIES
-=======
+# Cortinarius rapiolens M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

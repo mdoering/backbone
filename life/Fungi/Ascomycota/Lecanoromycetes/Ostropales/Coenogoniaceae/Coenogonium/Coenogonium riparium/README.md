@@ -1,5 +1,4 @@
-Coenogonium riparium (Vain.) Kalb SPECIES
-=======
+# Coenogonium riparium (Vain.) Kalb SPECIES
 
 #### Status
 ACCEPTED

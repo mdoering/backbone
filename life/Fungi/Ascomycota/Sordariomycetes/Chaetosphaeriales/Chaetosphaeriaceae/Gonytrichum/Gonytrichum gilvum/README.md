@@ -1,5 +1,4 @@
-Gonytrichum gilvum Rabenh. SPECIES
-=======
+# Gonytrichum gilvum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

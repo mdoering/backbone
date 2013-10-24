@@ -1,5 +1,4 @@
-Plasmopara galinsogae L. Campb. SPECIES
-=======
+# Plasmopara galinsogae L. Campb. SPECIES
 
 #### Status
 ACCEPTED

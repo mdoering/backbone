@@ -1,5 +1,4 @@
-Leptosphaeria conformis (Fr.) J. Schröt. SPECIES
-=======
+# Leptosphaeria conformis (Fr.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

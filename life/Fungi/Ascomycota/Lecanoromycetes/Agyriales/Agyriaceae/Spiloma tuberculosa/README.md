@@ -1,5 +1,4 @@
-Spiloma tuberculosa A.H. Sm. SPECIES
-=======
+# Spiloma tuberculosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

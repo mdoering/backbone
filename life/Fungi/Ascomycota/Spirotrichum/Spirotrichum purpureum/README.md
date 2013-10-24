@@ -1,5 +1,4 @@
-Spirotrichum purpureum Saito SPECIES
-=======
+# Spirotrichum purpureum Saito SPECIES
 
 #### Status
 ACCEPTED

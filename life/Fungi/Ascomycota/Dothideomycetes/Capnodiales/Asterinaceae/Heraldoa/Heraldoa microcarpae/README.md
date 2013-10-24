@@ -1,5 +1,4 @@
-Heraldoa microcarpae (Hansf.) Bat. SPECIES
-=======
+# Heraldoa microcarpae (Hansf.) Bat. SPECIES
 
 #### Status
 ACCEPTED

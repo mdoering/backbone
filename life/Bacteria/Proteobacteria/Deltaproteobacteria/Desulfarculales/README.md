@@ -1,5 +1,4 @@
-Desulfarculales ORDER
-=======
+# Desulfarculales ORDER
 
 #### Status
 ACCEPTED

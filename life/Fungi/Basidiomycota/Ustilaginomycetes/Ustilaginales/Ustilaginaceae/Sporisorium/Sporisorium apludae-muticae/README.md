@@ -1,5 +1,4 @@
-Sporisorium apludae-muticae L. Guo SPECIES
-=======
+# Sporisorium apludae-muticae L. Guo SPECIES
 
 #### Status
 ACCEPTED

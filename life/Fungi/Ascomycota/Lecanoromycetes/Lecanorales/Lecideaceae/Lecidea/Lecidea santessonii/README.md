@@ -1,5 +1,4 @@
-Lecidea santessonii Hertel SPECIES
-=======
+# Lecidea santessonii Hertel SPECIES
 
 #### Status
 ACCEPTED

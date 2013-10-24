@@ -1,5 +1,4 @@
-Rhinocladium carougeaui (Langeron) Neveu-Lem. SPECIES
-=======
+# Rhinocladium carougeaui (Langeron) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

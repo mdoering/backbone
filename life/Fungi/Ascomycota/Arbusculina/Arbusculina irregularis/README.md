@@ -1,14 +1,13 @@
-Speiropsis irregularis R.H. Petersen, 1963 SPECIES
-=======
+# Arbusculina irregularis (R.H. Petersen) Marvanová & Descals, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 55(1): 26 (1963)
+Trans. Br. mycol. Soc. 89(4): 499 (1987)
 
 #### Original name
 Speiropsis irregularis R.H. Petersen, 1963

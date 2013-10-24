@@ -1,5 +1,4 @@
-Phaeodiscula endogenospora Laubert SPECIES
-=======
+# Phaeodiscula endogenospora Laubert SPECIES
 
 #### Status
 ACCEPTED

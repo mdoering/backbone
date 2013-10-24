@@ -1,5 +1,4 @@
-Paspalomyces aureus Linder, 1933 SPECIES
-=======
+# Paspalomyces aureus Linder, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria arctica Lynge SPECIES
-=======
+# Catillaria arctica Lynge SPECIES
 
 #### Status
 ACCEPTED

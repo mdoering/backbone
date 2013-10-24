@@ -1,5 +1,4 @@
-Spirillina limbata Brady, 1884 SPECIES
-=======
+# Spirillina limbata Brady, 1884 SPECIES
 
 #### Status
 ACCEPTED

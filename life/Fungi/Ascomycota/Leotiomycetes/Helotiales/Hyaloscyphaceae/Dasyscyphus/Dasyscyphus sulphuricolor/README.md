@@ -1,8 +1,7 @@
-Dasyscypha sulphuricolor Peck SPECIES
-=======
+# Dasyscyphus sulphuricolor Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha sulphuricolor Peck
+Dasyscyphus sulphuricolor Peck
 
 ### Remarks
 null

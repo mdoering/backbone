@@ -1,5 +1,4 @@
-Niptera maculans Rehm SPECIES
-=======
+# Niptera maculans Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera virescens (J. Steiner) Gyeln. SPECIES
-=======
+# Peltigera virescens (J. Steiner) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

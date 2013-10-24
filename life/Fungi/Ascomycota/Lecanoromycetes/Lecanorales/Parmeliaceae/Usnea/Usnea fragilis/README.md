@@ -1,5 +1,4 @@
-Usnea fragilis Stirt. SPECIES
-=======
+# Usnea fragilis Stirt. SPECIES
 
 #### Status
 ACCEPTED

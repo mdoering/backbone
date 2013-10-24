@@ -1,5 +1,4 @@
-Sporocybe violacea Pat. SPECIES
-=======
+# Sporocybe violacea Pat. SPECIES
 
 #### Status
 ACCEPTED

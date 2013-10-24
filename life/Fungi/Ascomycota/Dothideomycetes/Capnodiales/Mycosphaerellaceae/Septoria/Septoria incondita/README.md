@@ -1,5 +1,4 @@
-Septoria incondita var. incondita VARIETY
-=======
+# Septoria incondita Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria incondita var. incondita
+Septoria incondita Desm.
 
 ### Remarks
 null

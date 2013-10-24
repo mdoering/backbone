@@ -1,5 +1,4 @@
-Drechslera frauensteinii M. Sass SPECIES
-=======
+# Drechslera frauensteinii M. Sass SPECIES
 
 #### Status
 ACCEPTED

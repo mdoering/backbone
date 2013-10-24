@@ -1,5 +1,4 @@
-Corticium liquidambaris Berk. SPECIES
-=======
+# Corticium liquidambaris Berk. SPECIES
 
 #### Status
 ACCEPTED

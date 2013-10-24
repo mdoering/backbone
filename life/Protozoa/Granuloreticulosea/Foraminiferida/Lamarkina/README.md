@@ -1,5 +1,4 @@
-Lamarkina GENUS
-=======
+# Lamarkina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium acaciae M.B. Ellis SPECIES
-=======
+# Helminthosporium acaciae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

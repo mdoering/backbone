@@ -1,5 +1,4 @@
-Phycomycites D.E. Ellis GENUS
-=======
+# Phycomycites D.E. Ellis GENUS
 
 #### Status
 ACCEPTED

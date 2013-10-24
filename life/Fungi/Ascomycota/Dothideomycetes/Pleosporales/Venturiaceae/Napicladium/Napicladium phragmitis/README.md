@@ -1,5 +1,4 @@
-Napicladium phragmitis Lobik SPECIES
-=======
+# Napicladium phragmitis Lobik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepteutypa alpestris (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Lepteutypa alpestris (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

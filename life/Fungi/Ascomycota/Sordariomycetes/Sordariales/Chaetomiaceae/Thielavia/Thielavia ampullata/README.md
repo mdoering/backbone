@@ -1,5 +1,4 @@
-Thielavia ampullata J.N. Rai & Wadhwani SPECIES
-=======
+# Thielavia ampullata J.N. Rai & Wadhwani SPECIES
 
 #### Status
 ACCEPTED

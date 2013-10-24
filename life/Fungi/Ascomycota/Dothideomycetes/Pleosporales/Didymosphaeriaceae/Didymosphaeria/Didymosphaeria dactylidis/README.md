@@ -1,5 +1,4 @@
-Didymosphaeria dactylidis Lobik SPECIES
-=======
+# Didymosphaeria dactylidis Lobik SPECIES
 
 #### Status
 ACCEPTED

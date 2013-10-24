@@ -1,5 +1,4 @@
-Dichomera prunicola Ellis & Dearn. SPECIES
-=======
+# Dichomera prunicola Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

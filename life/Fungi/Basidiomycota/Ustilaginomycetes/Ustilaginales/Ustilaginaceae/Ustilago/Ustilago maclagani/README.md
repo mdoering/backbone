@@ -1,5 +1,4 @@
-Ustilago maclagani Berk. SPECIES
-=======
+# Ustilago maclagani Berk. SPECIES
 
 #### Status
 ACCEPTED

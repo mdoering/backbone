@@ -1,5 +1,4 @@
-Parastigmatellina secunda Bat. & H. Maia SPECIES
-=======
+# Parastigmatellina secunda Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ovulariopsis malloti Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal SPECIES
-=======
+# Ovulariopsis malloti Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentella subcorticioides S.S. Rattan, 1977 SPECIES
-=======
+# Tomentella subcorticioides S.S. Rattan, 1977 SPECIES
 
 #### Status
 ACCEPTED

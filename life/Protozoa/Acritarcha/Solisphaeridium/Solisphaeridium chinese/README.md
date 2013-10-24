@@ -1,5 +1,4 @@
-Solisphaeridium chinese Moczydlowska & Stockfors, 2004 SPECIES
-=======
+# Solisphaeridium chinese Moczydlowska & Stockfors, 2004 SPECIES
 
 #### Status
 ACCEPTED

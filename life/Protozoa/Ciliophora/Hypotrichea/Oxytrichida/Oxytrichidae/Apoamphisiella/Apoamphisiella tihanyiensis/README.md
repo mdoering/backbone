@@ -1,8 +1,7 @@
-Pleurotricha tihanyiensis SPECIES
-=======
+# Apoamphisiella tihanyiensis (Géllert & Tamás, 1958) Foissner, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

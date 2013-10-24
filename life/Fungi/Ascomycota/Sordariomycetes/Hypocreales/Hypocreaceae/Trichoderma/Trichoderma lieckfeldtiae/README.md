@@ -1,5 +1,4 @@
-Trichoderma lieckfeldtiae Samuels SPECIES
-=======
+# Trichoderma lieckfeldtiae Samuels SPECIES
 
 #### Status
 ACCEPTED

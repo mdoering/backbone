@@ -1,17 +1,16 @@
-Debaryoscyphus Arendh. & R. Sharma GENUS
-=======
+# Hamatocanthoscypha Svrcek, 1977 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Sharma, Arendholz & Thind, Mycotaxon 25(1): 134 (1986)
+null
 
 #### Original name
-Debaryoscyphus Arendh. & R. Sharma
+null
 
 ### Remarks
 null

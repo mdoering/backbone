@@ -1,5 +1,4 @@
-Cryptophiale sphaerospora Umali & D.Q. Zhou SPECIES
-=======
+# Cryptophiale sphaerospora Umali & D.Q. Zhou SPECIES
 
 #### Status
 ACCEPTED

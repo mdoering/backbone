@@ -1,5 +1,4 @@
-Clavaria gregalis Britzelm. SPECIES
-=======
+# Clavaria gregalis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

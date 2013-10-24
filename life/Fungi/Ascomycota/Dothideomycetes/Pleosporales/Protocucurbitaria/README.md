@@ -1,5 +1,4 @@
-Protocucurbitaria Naumov GENUS
-=======
+# Protocucurbitaria Naumov GENUS
 
 #### Status
 ACCEPTED

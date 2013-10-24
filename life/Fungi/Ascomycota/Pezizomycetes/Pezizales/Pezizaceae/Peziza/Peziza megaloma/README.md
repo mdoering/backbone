@@ -1,5 +1,4 @@
-Peziza megaloma Schwein. SPECIES
-=======
+# Peziza megaloma Schwein. SPECIES
 
 #### Status
 ACCEPTED

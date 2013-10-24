@@ -1,5 +1,4 @@
-Tolypothrix saviezii Kossinskaja SPECIES
-=======
+# Tolypothrix saviezii Kossinskaja SPECIES
 
 #### Status
 ACCEPTED

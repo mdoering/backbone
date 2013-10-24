@@ -1,5 +1,4 @@
-Polyporus multisulcatus var. multisulcatus VARIETY
-=======
+# Polyporus multisulcatus Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brotéria, sér. Ci. Nat. 4: 86 (1935)
 
 #### Original name
-Polyporus multisulcatus var. multisulcatus
+Polyporus multisulcatus Rick
 
 ### Remarks
 null

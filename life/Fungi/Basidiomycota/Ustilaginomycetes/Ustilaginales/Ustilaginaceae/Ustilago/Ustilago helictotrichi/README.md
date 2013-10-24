@@ -1,5 +1,4 @@
-Ustilago helictotrichi Schmied. SPECIES
-=======
+# Ustilago helictotrichi Schmied. SPECIES
 
 #### Status
 ACCEPTED

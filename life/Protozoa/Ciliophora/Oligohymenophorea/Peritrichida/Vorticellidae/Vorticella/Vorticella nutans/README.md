@@ -1,5 +1,4 @@
-Vorticella nutans Muller, 1773 SPECIES
-=======
+# Vorticella nutans Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

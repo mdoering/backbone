@@ -1,5 +1,4 @@
-Leptotrema schizoloma Müll. Arg. SPECIES
-=======
+# Leptotrema schizoloma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

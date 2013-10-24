@@ -1,5 +1,4 @@
-Clitocybe globispora Harmaja SPECIES
-=======
+# Clitocybe globispora Harmaja SPECIES
 
 #### Status
 ACCEPTED

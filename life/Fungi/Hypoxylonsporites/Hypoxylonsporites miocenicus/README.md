@@ -1,5 +1,4 @@
-Hypoxylonsporites miocenicus P. Kumar SPECIES
-=======
+# Hypoxylonsporites miocenicus P. Kumar SPECIES
 
 #### Status
 ACCEPTED

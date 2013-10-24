@@ -1,5 +1,4 @@
-Catillaria ameibospora (Hedl.) Zahlbr. SPECIES
-=======
+# Catillaria ameibospora (Hedl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

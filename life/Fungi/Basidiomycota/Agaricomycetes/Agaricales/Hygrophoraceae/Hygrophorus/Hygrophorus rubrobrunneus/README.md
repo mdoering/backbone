@@ -1,5 +1,4 @@
-Hygrophorus rubrobrunneus Bon & Mornand SPECIES
-=======
+# Hygrophorus rubrobrunneus Bon & Mornand SPECIES
 
 #### Status
 ACCEPTED

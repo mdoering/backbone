@@ -1,5 +1,4 @@
-Parapodinium Chatton GENUS
-=======
+# Parapodinium Chatton GENUS
 
 #### Status
 ACCEPTED

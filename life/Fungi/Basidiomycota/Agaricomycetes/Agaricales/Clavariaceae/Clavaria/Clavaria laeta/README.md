@@ -1,5 +1,4 @@
-Clavaria laeta Berk. & Broome SPECIES
-=======
+# Clavaria laeta Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

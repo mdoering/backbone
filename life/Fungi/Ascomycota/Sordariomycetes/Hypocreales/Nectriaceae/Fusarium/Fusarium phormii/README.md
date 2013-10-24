@@ -1,5 +1,4 @@
-Fusarium phormii Henn. SPECIES
-=======
+# Fusarium phormii Henn. SPECIES
 
 #### Status
 ACCEPTED

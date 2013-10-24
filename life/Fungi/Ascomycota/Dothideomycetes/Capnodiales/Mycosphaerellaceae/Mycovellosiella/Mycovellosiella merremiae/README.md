@@ -1,5 +1,4 @@
-Mycovellosiella merremiae X.J. Liu & Y.L. Guo SPECIES
-=======
+# Mycovellosiella merremiae X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

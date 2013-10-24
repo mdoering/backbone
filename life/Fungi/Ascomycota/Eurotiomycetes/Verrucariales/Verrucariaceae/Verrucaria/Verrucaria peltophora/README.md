@@ -1,5 +1,4 @@
-Verrucaria peltophora Stirt. SPECIES
-=======
+# Verrucaria peltophora Stirt. SPECIES
 
 #### Status
 ACCEPTED

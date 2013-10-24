@@ -1,5 +1,4 @@
-Accordiella Farinacci, 1962 GENUS
-=======
+# Accordiella Farinacci, 1962 GENUS
 
 #### Status
 ACCEPTED

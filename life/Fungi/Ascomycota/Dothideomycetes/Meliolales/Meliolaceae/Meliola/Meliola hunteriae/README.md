@@ -1,5 +1,4 @@
-Meliola hunteriae Hosag. SPECIES
-=======
+# Meliola hunteriae Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kuehneromyces macrosporus Singer SPECIES
-=======
+# Kuehneromyces macrosporus Singer SPECIES
 
 #### Status
 ACCEPTED

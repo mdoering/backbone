@@ -1,14 +1,13 @@
-Cepedia GENUS
-=======
+# Cepedea Metcalf, 1920 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Science, 52, 136.
 
 #### Original name
 null

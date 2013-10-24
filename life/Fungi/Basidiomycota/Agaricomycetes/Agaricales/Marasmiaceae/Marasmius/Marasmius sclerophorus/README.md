@@ -1,5 +1,4 @@
-Marasmius sclerophorus Lév. SPECIES
-=======
+# Marasmius sclerophorus Lév. SPECIES
 
 #### Status
 ACCEPTED

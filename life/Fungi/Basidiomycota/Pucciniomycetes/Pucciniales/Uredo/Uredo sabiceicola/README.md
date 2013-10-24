@@ -1,5 +1,4 @@
-Uredo sabiceicola Arthur SPECIES
-=======
+# Uredo sabiceicola Arthur SPECIES
 
 #### Status
 ACCEPTED

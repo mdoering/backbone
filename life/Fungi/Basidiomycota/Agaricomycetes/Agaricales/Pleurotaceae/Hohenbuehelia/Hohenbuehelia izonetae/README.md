@@ -1,5 +1,4 @@
-Hohenbuehelia izonetae Singer, 1989 SPECIES
-=======
+# Hohenbuehelia izonetae Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

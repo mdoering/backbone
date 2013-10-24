@@ -1,5 +1,4 @@
-Henningsomyces purpureus (Romell) Kuntze SPECIES
-=======
+# Henningsomyces purpureus (Romell) Kuntze SPECIES
 
 #### Status
 ACCEPTED

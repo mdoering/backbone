@@ -1,5 +1,4 @@
-Colligocineta finleyi Kozloff, 1976 SPECIES
-=======
+# Colligocineta finleyi Kozloff, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophrya pelagica (von Daday, 1888) SPECIES
-=======
+# Trichophrya pelagica (von Daday, 1888) SPECIES
 
 #### Status
 ACCEPTED

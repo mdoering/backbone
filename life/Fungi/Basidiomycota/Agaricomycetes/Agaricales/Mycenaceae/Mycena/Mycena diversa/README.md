@@ -1,5 +1,4 @@
-Mycena diversa Maas Geest. & de Meijer SPECIES
-=======
+# Mycena diversa Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

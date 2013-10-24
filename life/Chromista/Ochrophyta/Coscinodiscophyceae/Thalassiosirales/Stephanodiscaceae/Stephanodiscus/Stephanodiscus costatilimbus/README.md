@@ -1,5 +1,4 @@
-Stephanodiscus costatilimbus H. Kobayasi & H. Kobayashi SPECIES
-=======
+# Stephanodiscus costatilimbus H. Kobayasi & H. Kobayashi SPECIES
 
 #### Status
 ACCEPTED

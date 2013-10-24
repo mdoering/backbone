@@ -1,8 +1,7 @@
-Diplodina atraphaxidis Kravtzev SPECIES
-=======
+# Diplodina atraphaxis Kravtzev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diplodina atraphaxidis Kravtzev
+Diplodina atraphaxis Kravtzev
 
 ### Remarks
 null

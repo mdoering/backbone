@@ -1,5 +1,4 @@
-Gyalideopsis pandani Vezda SPECIES
-=======
+# Gyalideopsis pandani Vezda SPECIES
 
 #### Status
 ACCEPTED

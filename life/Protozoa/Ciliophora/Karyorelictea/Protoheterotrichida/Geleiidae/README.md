@@ -1,5 +1,4 @@
-Geleiidae Kahl, 1933 FAMILY
-=======
+# Geleiidae Kahl, 1933 FAMILY
 
 #### Status
 ACCEPTED

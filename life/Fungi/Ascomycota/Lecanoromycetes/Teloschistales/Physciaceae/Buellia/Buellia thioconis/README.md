@@ -1,5 +1,4 @@
-Buellia thioconis Norman SPECIES
-=======
+# Buellia thioconis Norman SPECIES
 
 #### Status
 ACCEPTED

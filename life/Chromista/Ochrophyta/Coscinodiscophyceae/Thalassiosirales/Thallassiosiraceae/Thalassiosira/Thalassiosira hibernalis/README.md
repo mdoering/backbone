@@ -1,5 +1,4 @@
-Thalassiosira hibernalis A. M. Gayoso SPECIES
-=======
+# Thalassiosira hibernalis A. M. Gayoso SPECIES
 
 #### Status
 ACCEPTED

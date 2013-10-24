@@ -1,17 +1,16 @@
-Hormopeltis bomplandii Speg. SPECIES
-=======
+# Hormopeltis bomplandi Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 23: 84 (1912)
 
 #### Original name
-Hormopeltis bomplandii Speg.
+Hormopeltis bomplandi Speg.
 
 ### Remarks
 null

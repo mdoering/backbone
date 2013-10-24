@@ -1,5 +1,4 @@
-Micropuccinia discreta (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia discreta (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

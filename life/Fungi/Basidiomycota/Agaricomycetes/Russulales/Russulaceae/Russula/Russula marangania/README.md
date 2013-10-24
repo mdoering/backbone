@@ -1,5 +1,4 @@
-Russula marangania Grgur. SPECIES
-=======
+# Russula marangania Grgur. SPECIES
 
 #### Status
 ACCEPTED

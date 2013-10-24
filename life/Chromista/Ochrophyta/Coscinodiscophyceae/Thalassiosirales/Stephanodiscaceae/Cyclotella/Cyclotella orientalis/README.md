@@ -1,5 +1,4 @@
-Cyclotella orientalis J.H. Lee, J. Chung & T. Gotoh SPECIES
-=======
+# Cyclotella orientalis J.H. Lee, J. Chung & T. Gotoh SPECIES
 
 #### Status
 ACCEPTED

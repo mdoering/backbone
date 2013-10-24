@@ -1,5 +1,4 @@
-Septoria melanogramma Tassi SPECIES
-=======
+# Septoria melanogramma Tassi SPECIES
 
 #### Status
 ACCEPTED

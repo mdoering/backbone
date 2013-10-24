@@ -1,8 +1,7 @@
-Cytophaga agarovorans (ex Veldkamp, 1961) Reichenbach, 1989 SPECIES
-=======
+# Marinilabilia agarovorans (Reichenbach, 1989) Nakagawa & Yamasato, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Nodulosphaeria gallica L. Holm SPECIES
-=======
+# Nodulosphaeria gallica L. Holm SPECIES
 
 #### Status
 ACCEPTED

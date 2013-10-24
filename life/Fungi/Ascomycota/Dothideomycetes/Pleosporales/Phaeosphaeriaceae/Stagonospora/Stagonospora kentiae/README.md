@@ -1,5 +1,4 @@
-Stagonospora kentiae Maubl. SPECIES
-=======
+# Stagonospora kentiae Maubl. SPECIES
 
 #### Status
 ACCEPTED

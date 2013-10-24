@@ -1,5 +1,4 @@
-Cortinarius gentianeus Bidaud SPECIES
-=======
+# Cortinarius gentianeus Bidaud SPECIES
 
 #### Status
 ACCEPTED

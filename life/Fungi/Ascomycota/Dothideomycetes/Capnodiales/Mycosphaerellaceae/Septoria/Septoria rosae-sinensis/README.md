@@ -1,5 +1,4 @@
-Septoria rosae-sinensis Brunaud SPECIES
-=======
+# Septoria rosae-sinensis Brunaud SPECIES
 
 #### Status
 ACCEPTED

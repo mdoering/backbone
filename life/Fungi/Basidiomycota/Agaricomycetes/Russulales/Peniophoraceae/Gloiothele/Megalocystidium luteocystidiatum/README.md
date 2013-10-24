@@ -1,17 +1,16 @@
-Gloeocystidiellum luteocystidium var. brevisporum S.S. Rattan VARIETY
-=======
+# Megalocystidium luteocystidiatum (P.H.B. Talbot) Sheng H. Wu, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 58: 57 (1996)
 
 #### Original name
-Gloeocystidiellum luteocystidium var. brevisporum S.S. Rattan
+null
 
 ### Remarks
 null

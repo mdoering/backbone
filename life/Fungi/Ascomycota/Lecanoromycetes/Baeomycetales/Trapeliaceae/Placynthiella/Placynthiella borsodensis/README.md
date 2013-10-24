@@ -1,5 +1,4 @@
-Placynthiella borsodensis Gyeln. SPECIES
-=======
+# Placynthiella borsodensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

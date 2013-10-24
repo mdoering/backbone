@@ -1,5 +1,4 @@
-Caucasinidae Bykova, 1959 FAMILY
-=======
+# Caucasinidae Bykova, 1959 FAMILY
 
 #### Status
 ACCEPTED

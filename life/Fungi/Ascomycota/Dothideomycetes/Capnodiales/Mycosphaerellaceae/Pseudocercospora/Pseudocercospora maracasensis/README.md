@@ -1,5 +1,4 @@
-Pseudocercospora maracasensis (R.E.D. Baker & W.T. Dale) Deighton SPECIES
-=======
+# Pseudocercospora maracasensis (R.E.D. Baker & W.T. Dale) Deighton SPECIES
 
 #### Status
 ACCEPTED

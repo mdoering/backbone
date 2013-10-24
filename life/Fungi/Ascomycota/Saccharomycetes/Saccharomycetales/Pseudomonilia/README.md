@@ -1,5 +1,4 @@
-Pseudomonilia GENUS
-=======
+# Pseudomonilia GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Chlorociboria bulgarioides (Rabenh.) C.S. Ramamurthi, Korf & L.R. Batra, 1958 SPECIES
-=======
+# Rutstroemia bulgarioides (Rabenh.) P. Karst., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 49(6): 860 (1958)
+Mycoth. fenn. (Helsinki) 1: 165 (1871)
 
 #### Original name
 null

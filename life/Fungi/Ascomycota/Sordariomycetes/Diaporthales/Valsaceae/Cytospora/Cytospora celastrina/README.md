@@ -1,5 +1,4 @@
-Cytospora celastrina Ellis & Barthol. SPECIES
-=======
+# Cytospora celastrina Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella fusiformis Nenninger, 1948 SPECIES
-=======
+# Vorticella fusiformis Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca melanocheila (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca melanocheila (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

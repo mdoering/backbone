@@ -1,5 +1,4 @@
-Vanhallia GENUS
-=======
+# Vanhallia GENUS
 
 #### Status
 ACCEPTED

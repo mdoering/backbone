@@ -1,5 +1,4 @@
-Sporastatia coracina Hazsl. SPECIES
-=======
+# Sporastatia coracina Hazsl. SPECIES
 
 #### Status
 ACCEPTED

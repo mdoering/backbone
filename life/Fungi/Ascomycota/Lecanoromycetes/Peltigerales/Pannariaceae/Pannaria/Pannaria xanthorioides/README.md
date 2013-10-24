@@ -1,5 +1,4 @@
-Pannaria xanthorioides P. M. Jørg. SPECIES
-=======
+# Pannaria xanthorioides P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

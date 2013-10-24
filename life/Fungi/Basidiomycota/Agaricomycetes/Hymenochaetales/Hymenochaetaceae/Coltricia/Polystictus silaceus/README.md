@@ -1,5 +1,4 @@
-Polystictus silaceus (Wettst.) Sacc. SPECIES
-=======
+# Polystictus silaceus (Wettst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

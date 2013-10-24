@@ -1,5 +1,4 @@
-Stropharia grisea Henn. SPECIES
-=======
+# Stropharia grisea Henn. SPECIES
 
 #### Status
 ACCEPTED

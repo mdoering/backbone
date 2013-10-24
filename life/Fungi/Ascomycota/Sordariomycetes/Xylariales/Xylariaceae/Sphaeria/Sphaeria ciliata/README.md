@@ -1,5 +1,4 @@
-Sphaeria ciliata Pers. SPECIES
-=======
+# Sphaeria ciliata Pers. SPECIES
 
 #### Status
 ACCEPTED

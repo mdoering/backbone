@@ -1,5 +1,4 @@
-Phoma thymi Rodigin SPECIES
-=======
+# Phoma thymi Rodigin SPECIES
 
 #### Status
 ACCEPTED

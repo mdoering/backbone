@@ -1,5 +1,4 @@
-Clitocybe absinthiata (Lasch) SPECIES
-=======
+# Clitocybe absinthiata (Lasch) SPECIES
 
 #### Status
 ACCEPTED

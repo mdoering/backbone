@@ -1,5 +1,4 @@
-Gliomastix arctiaggregata Matsush. SPECIES
-=======
+# Gliomastix arctiaggregata Matsush. SPECIES
 
 #### Status
 ACCEPTED

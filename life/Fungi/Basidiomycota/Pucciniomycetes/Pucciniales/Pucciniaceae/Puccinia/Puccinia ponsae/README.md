@@ -1,5 +1,4 @@
-Puccinia ponsae Berndt SPECIES
-=======
+# Puccinia ponsae Berndt SPECIES
 
 #### Status
 ACCEPTED

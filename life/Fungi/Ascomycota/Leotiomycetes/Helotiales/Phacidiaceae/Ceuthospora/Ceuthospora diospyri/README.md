@@ -1,5 +1,4 @@
-Ceuthospora diospyri G. Winter SPECIES
-=======
+# Ceuthospora diospyri G. Winter SPECIES
 
 #### Status
 ACCEPTED

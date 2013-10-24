@@ -1,5 +1,4 @@
-Parmelia tartarea Ach. SPECIES
-=======
+# Parmelia tartarea Ach. SPECIES
 
 #### Status
 ACCEPTED

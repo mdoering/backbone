@@ -1,5 +1,4 @@
-Cryptomyces disciformis Fr. SPECIES
-=======
+# Cryptomyces disciformis Fr. SPECIES
 
 #### Status
 ACCEPTED

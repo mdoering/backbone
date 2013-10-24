@@ -1,5 +1,4 @@
-Polydnaviridae FAMILY
-=======
+# Polydnaviridae FAMILY
 
 #### Status
 ACCEPTED

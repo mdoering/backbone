@@ -1,5 +1,4 @@
-Pistillaria caespitulosa Sacc. SPECIES
-=======
+# Pistillaria caespitulosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rectoglomospira Trifonova, 1978 GENUS
-=======
+# Rectoglomospira Trifonova, 1978 GENUS
 
 #### Status
 ACCEPTED

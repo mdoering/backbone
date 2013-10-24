@@ -1,5 +1,4 @@
-Stigmatodothis caseariae Bat. & C.A.A. Costa SPECIES
-=======
+# Stigmatodothis caseariae Bat. & C.A.A. Costa SPECIES
 
 #### Status
 ACCEPTED

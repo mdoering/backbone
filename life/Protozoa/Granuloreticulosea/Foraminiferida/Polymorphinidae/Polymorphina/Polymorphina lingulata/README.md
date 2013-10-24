@@ -1,5 +1,4 @@
-Polymorphina lingulata Stache SPECIES
-=======
+# Polymorphina lingulata Stache SPECIES
 
 #### Status
 ACCEPTED

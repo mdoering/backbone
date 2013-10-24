@@ -1,5 +1,4 @@
-Puccinia consueta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia consueta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

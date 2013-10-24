@@ -1,5 +1,4 @@
-Placodium ambitiosum Darb. SPECIES
-=======
+# Placodium ambitiosum Darb. SPECIES
 
 #### Status
 ACCEPTED

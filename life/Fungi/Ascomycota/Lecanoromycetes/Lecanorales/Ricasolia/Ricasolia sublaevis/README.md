@@ -1,5 +1,4 @@
-Ricasolia sublaevis Nyl. SPECIES
-=======
+# Ricasolia sublaevis Nyl. SPECIES
 
 #### Status
 ACCEPTED

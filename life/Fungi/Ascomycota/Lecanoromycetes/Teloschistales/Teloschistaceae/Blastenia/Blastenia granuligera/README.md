@@ -1,5 +1,4 @@
-Blastenia granuligera (Hue) Zahlbr. SPECIES
-=======
+# Blastenia granuligera (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

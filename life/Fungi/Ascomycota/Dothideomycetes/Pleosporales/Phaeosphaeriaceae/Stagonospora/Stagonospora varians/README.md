@@ -1,5 +1,4 @@
-Stagonospora varians Sacc. SPECIES
-=======
+# Stagonospora varians Sacc. SPECIES
 
 #### Status
 ACCEPTED

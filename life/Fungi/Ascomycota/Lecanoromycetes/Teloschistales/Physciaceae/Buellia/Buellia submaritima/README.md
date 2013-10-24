@@ -1,5 +1,4 @@
-Buellia submaritima Müll. Arg. SPECIES
-=======
+# Buellia submaritima Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

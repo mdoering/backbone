@@ -1,5 +1,4 @@
-Sphaerella lathyrina (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Sphaerella lathyrina (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

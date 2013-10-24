@@ -1,8 +1,7 @@
-Protoperidinium divericatum SPECIES
-=======
+# Peridinium divericatum SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

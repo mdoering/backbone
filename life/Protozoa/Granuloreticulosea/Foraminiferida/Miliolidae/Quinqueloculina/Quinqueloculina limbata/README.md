@@ -1,5 +1,4 @@
-Quinqueloculina limbata SPECIES
-=======
+# Quinqueloculina limbata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria subulata E.G. Simmons SPECIES
-=======
+# Alternaria subulata E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

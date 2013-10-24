@@ -1,5 +1,4 @@
-Lecania maroccana Werner SPECIES
-=======
+# Lecania maroccana Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ionomidotis chilensis E.J. Durand SPECIES
-=======
+# Ionomidotis chilensis E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

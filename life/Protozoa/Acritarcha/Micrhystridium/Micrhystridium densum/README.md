@@ -1,5 +1,4 @@
-Micrhystridium densum K. Takahashi SPECIES
-=======
+# Micrhystridium densum K. Takahashi SPECIES
 
 #### Status
 ACCEPTED

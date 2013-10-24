@@ -1,5 +1,4 @@
-Usnea tomentella Motyka SPECIES
-=======
+# Usnea tomentella Motyka SPECIES
 
 #### Status
 ACCEPTED

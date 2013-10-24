@@ -1,5 +1,4 @@
-Boletus scarlatinus Cleland & Cheel SPECIES
-=======
+# Boletus scarlatinus Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

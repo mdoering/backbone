@@ -1,5 +1,4 @@
-Cercospora portoricensis Earle SPECIES
-=======
+# Cercospora portoricensis Earle SPECIES
 
 #### Status
 ACCEPTED

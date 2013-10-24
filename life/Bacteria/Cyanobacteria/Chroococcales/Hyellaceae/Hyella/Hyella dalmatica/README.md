@@ -1,5 +1,4 @@
-Hyella dalmatica Ercegovic SPECIES
-=======
+# Hyella dalmatica Ercegovic SPECIES
 
 #### Status
 ACCEPTED

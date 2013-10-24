@@ -1,5 +1,4 @@
-Orduella Sirel, 1999 GENUS
-=======
+# Orduella Sirel, 1999 GENUS
 
 #### Status
 ACCEPTED

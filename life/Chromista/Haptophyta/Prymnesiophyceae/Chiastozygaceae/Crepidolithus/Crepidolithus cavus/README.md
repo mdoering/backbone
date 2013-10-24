@@ -1,5 +1,4 @@
-Crepidolithus cavus (Prins, 1969) ex Rood et al., 1973 SPECIES
-=======
+# Crepidolithus cavus (Prins, 1969) ex Rood et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

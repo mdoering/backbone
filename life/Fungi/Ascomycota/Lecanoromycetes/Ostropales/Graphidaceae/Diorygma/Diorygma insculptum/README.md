@@ -1,5 +1,4 @@
-Diorygma insculptum Eschw. SPECIES
-=======
+# Diorygma insculptum Eschw. SPECIES
 
 #### Status
 ACCEPTED

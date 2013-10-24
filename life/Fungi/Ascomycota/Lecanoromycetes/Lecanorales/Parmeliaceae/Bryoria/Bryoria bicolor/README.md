@@ -1,17 +1,16 @@
-Alectoria bicolor f. bicolor FORM
-=======
+# Bryoria bicolor (Ehrh.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 42: 99 (1977)
 
 #### Original name
-Alectoria bicolor f. bicolor
+Lichen bicolor Ehrh.
 
 ### Remarks
 null

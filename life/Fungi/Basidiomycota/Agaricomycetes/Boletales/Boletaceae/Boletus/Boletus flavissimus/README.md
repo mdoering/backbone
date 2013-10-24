@@ -1,5 +1,4 @@
-Boletus flavissimus (Murrill) Murrill SPECIES
-=======
+# Boletus flavissimus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

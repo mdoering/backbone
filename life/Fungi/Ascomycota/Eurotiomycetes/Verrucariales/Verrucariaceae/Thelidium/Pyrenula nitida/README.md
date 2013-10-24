@@ -1,5 +1,4 @@
-Pyrenula nitida (Weigel) Ach., 1814 SPECIES
-=======
+# Pyrenula nitida (Weigel) Ach., 1814 SPECIES
 
 #### Status
 ACCEPTED

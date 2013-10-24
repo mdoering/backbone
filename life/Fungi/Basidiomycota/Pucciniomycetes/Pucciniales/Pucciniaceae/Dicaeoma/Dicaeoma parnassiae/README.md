@@ -1,5 +1,4 @@
-Dicaeoma parnassiae (Schltdl.) Arthur SPECIES
-=======
+# Dicaeoma parnassiae (Schltdl.) Arthur SPECIES
 
 #### Status
 ACCEPTED

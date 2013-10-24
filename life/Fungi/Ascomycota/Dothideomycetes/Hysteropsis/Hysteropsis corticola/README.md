@@ -1,5 +1,4 @@
-Hysteropsis corticola (Fr.) Sacc. & Traverso SPECIES
-=======
+# Hysteropsis corticola (Fr.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

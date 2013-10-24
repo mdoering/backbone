@@ -1,5 +1,4 @@
-Trichopezizella macrochaeta (Speg.) Gamundí SPECIES
-=======
+# Trichopezizella macrochaeta (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED

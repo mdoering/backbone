@@ -1,5 +1,4 @@
-Agaricus curanilahuensis Garrido SPECIES
-=======
+# Agaricus curanilahuensis Garrido SPECIES
 
 #### Status
 ACCEPTED

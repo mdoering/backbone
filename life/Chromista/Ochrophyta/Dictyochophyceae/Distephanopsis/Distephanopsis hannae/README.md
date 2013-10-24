@@ -1,5 +1,4 @@
-Distephanopsis hannae (D. Bukry) T. V. Desikachary & P. Prema SPECIES
-=======
+# Distephanopsis hannae (D. Bukry) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

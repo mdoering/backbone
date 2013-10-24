@@ -1,5 +1,4 @@
-Hebeloma salmonense A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma salmonense A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

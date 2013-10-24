@@ -1,8 +1,7 @@
-Podaxon ghattasensis Henn. SPECIES
-=======
+# Podaxis ghattasensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon ghattasensis Henn.
+Podaxis ghattasensis Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dimerosporium puiggarii Speg. SPECIES
-=======
+# Dimerosporium puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

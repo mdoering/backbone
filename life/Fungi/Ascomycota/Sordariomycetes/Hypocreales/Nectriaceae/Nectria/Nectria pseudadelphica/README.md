@@ -1,5 +1,4 @@
-Nectria pseudadelphica Rehm SPECIES
-=======
+# Nectria pseudadelphica Rehm SPECIES
 
 #### Status
 ACCEPTED

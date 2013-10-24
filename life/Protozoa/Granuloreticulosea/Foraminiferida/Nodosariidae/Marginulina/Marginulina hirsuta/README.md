@@ -1,5 +1,4 @@
-Marginulina hirsuta d'Orbigny, 1826 SPECIES
-=======
+# Marginulina hirsuta d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

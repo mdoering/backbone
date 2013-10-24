@@ -1,5 +1,4 @@
-Flagelloscypha montis-anagae Agerer, 1979 SPECIES
-=======
+# Flagelloscypha montis-anagae Agerer, 1979 SPECIES
 
 #### Status
 ACCEPTED

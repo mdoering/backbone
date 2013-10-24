@@ -1,17 +1,16 @@
-Graphis meghalayaensis Adaw. & Makhija SPECIES
-=======
+# Graphis meghalayensis Adaw. & Makhija SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 99: 317 (2007)
 
 #### Original name
-Graphis meghalayaensis Adaw. & Makhija
+Graphis meghalayensis Adaw. & Makhija
 
 ### Remarks
 null

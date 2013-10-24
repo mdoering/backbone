@@ -1,5 +1,4 @@
-Calloria diaphana W. Phillips SPECIES
-=======
+# Calloria diaphana W. Phillips SPECIES
 
 #### Status
 ACCEPTED

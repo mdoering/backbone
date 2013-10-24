@@ -1,5 +1,4 @@
-Cochliobolus tripogonis Alcorn SPECIES
-=======
+# Cochliobolus tripogonis Alcorn SPECIES
 
 #### Status
 ACCEPTED

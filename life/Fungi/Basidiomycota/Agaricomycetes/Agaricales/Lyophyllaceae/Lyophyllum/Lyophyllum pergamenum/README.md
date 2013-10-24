@@ -1,5 +1,4 @@
-Lyophyllum pergamenum (Cooke) Hornicek SPECIES
-=======
+# Lyophyllum pergamenum (Cooke) Hornicek SPECIES
 
 #### Status
 ACCEPTED

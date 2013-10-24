@@ -1,14 +1,13 @@
-Prillieuxina parameriae (Petr.) Arx, 1962 SPECIES
-=======
+# Asterinella parameriae Petr., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 11(2): 135 (1962)
+Annls mycol. 29: 243 (1931)
 
 #### Original name
 Asterinella parameriae Petr., 1931

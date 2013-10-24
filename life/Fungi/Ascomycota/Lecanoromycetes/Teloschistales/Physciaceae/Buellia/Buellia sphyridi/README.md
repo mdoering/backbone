@@ -1,5 +1,4 @@
-Buellia sphyridi f. sphyridi FORM
-=======
+# Buellia sphyridi (Stein) Bagl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia sphyridi f. sphyridi
+Karschia sphyridii Stein
 
 ### Remarks
 null

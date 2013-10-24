@@ -1,5 +1,4 @@
-Merulius argenteus (Pers.) Spreng. SPECIES
-=======
+# Merulius argenteus (Pers.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

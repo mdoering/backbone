@@ -1,5 +1,4 @@
-Amphoroblastia kovariana (Servít) Servít SPECIES
-=======
+# Amphoroblastia kovariana (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

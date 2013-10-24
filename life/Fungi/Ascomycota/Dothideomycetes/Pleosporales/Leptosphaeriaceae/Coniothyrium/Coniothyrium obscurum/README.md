@@ -1,5 +1,4 @@
-Coniothyrium obscurum Pass. SPECIES
-=======
+# Coniothyrium obscurum Pass. SPECIES
 
 #### Status
 ACCEPTED

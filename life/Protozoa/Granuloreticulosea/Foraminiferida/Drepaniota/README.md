@@ -1,5 +1,4 @@
-Drepaniota Loeblich & Tappan, 1986 GENUS
-=======
+# Drepaniota Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

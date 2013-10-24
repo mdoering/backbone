@@ -1,5 +1,4 @@
-Candelariella himalayana Poelt & Reddi SPECIES
-=======
+# Candelariella himalayana Poelt & Reddi SPECIES
 
 #### Status
 ACCEPTED

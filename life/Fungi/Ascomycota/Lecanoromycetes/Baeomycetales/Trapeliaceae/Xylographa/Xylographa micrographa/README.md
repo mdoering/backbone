@@ -1,5 +1,4 @@
-Xylographa micrographa G. Merr. SPECIES
-=======
+# Xylographa micrographa G. Merr. SPECIES
 
 #### Status
 ACCEPTED

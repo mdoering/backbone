@@ -1,5 +1,4 @@
-Glomeropyle Aita & Bragin, 1999 GENUS
-=======
+# Glomeropyle Aita & Bragin, 1999 GENUS
 
 #### Status
 ACCEPTED

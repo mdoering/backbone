@@ -1,5 +1,4 @@
-Lopadiopsis lichenicola Bat. SPECIES
-=======
+# Lopadiopsis lichenicola Bat. SPECIES
 
 #### Status
 ACCEPTED

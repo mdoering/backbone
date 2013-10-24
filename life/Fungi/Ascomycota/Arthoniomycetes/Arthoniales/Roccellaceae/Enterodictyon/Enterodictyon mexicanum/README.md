@@ -1,5 +1,4 @@
-Enterodictyon mexicanum Zahlbr. SPECIES
-=======
+# Enterodictyon mexicanum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

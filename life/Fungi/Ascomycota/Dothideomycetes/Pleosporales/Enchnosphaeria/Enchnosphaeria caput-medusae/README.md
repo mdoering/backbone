@@ -1,5 +1,4 @@
-Enchnosphaeria caput-medusae Sacc. & Speg. SPECIES
-=======
+# Enchnosphaeria caput-medusae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

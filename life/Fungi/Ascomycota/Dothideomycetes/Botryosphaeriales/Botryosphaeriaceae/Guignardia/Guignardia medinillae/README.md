@@ -1,5 +1,4 @@
-Guignardia medinillae (Rangel) Sacc. SPECIES
-=======
+# Guignardia medinillae (Rangel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

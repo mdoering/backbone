@@ -1,5 +1,4 @@
-Teichospora variabilis Ellis & Everh. SPECIES
-=======
+# Teichospora variabilis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

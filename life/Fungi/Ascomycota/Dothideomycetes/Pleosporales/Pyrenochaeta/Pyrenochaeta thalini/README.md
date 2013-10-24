@@ -1,5 +1,4 @@
-Pyrenochaeta thalini Speg. SPECIES
-=======
+# Pyrenochaeta thalini Speg. SPECIES
 
 #### Status
 ACCEPTED

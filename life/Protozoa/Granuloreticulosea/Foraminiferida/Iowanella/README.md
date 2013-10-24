@@ -1,5 +1,4 @@
-Iowanella Thompson, 1957 GENUS
-=======
+# Iowanella Thompson, 1957 GENUS
 
 #### Status
 ACCEPTED

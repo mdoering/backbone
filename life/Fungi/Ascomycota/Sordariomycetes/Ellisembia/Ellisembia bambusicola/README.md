@@ -1,17 +1,16 @@
-Ellisembia bambusae (M.B. Ellis) W.P. Wu SPECIES
-=======
+# Ellisembia bambusicola (M.B. Ellis) J. Mena & G. Delgado SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Wu & Zhuang, Fungal Diversity Res. Ser. (Hong Kong) 15: 109 (2005)
+in Mena-Portales, Delgado-Rodríguez & Heredia-Abarca, Boln Soc. Micol. Madrid 25: 266 (2000)
 
 #### Original name
-Sporidesmium bambusae M.B. Ellis, 1965
+Sporidesmium bambusicola M.B. Ellis
 
 ### Remarks
 null

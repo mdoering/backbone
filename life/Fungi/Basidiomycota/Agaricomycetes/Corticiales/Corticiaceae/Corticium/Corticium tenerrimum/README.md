@@ -1,5 +1,4 @@
-Corticium tenerrimum Velen. SPECIES
-=======
+# Corticium tenerrimum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriosphaeria horridula (Wallr.) Sacc. SPECIES
-=======
+# Eriosphaeria horridula (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

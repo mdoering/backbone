@@ -1,5 +1,4 @@
-Lecanora lividofusca Kremp. SPECIES
-=======
+# Lecanora lividofusca Kremp. SPECIES
 
 #### Status
 ACCEPTED

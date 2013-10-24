@@ -1,5 +1,4 @@
-Buellia hypopelidna (Stirt.) Müll. Arg. SPECIES
-=======
+# Buellia hypopelidna (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

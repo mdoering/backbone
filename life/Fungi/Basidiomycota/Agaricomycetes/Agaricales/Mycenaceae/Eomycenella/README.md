@@ -1,5 +1,4 @@
-Eomycenella GENUS
-=======
+# Eomycenella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Garciella Miranda-Tello et al., 2003 GENUS
-=======
+# Garciella Miranda-Tello et al., 2003 GENUS
 
 #### Status
 ACCEPTED

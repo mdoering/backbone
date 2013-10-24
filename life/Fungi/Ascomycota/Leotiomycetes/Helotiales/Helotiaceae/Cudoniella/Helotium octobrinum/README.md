@@ -1,5 +1,4 @@
-Helotium octobrinum Velen. SPECIES
-=======
+# Helotium octobrinum Velen. SPECIES
 
 #### Status
 ACCEPTED

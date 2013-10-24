@@ -1,5 +1,4 @@
-Bipolaris coffeana Sivan. SPECIES
-=======
+# Bipolaris coffeana Sivan. SPECIES
 
 #### Status
 ACCEPTED

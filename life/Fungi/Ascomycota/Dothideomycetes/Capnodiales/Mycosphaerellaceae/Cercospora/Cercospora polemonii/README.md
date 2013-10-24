@@ -1,5 +1,4 @@
-Cercospora polemonii Overh. SPECIES
-=======
+# Cercospora polemonii Overh. SPECIES
 
 #### Status
 ACCEPTED

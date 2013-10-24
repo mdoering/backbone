@@ -1,14 +1,13 @@
-Polyporus weberianus (Bres. & Henn. ex Sacc.) Trotter, 1925 SPECIES
-=======
+# Ganoderma weberianum (Bres. & Henn. ex Sacc.) Steyaert, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 23: 383 (1925)
+Persoonia 7(1): 79 (1972)
 
 #### Original name
 Fomes weberianus Bres. & Henn. ex Sacc., 1891

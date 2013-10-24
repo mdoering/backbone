@@ -1,5 +1,4 @@
-Asteridiella elaeocarpi-tuberculati Hosag. SPECIES
-=======
+# Asteridiella elaeocarpi-tuberculati Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria filiformis Wehm. SPECIES
-=======
+# Leptosphaeria filiformis Wehm. SPECIES
 
 #### Status
 ACCEPTED

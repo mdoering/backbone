@@ -1,5 +1,4 @@
-Crocicreas labradoricum Huhtinen SPECIES
-=======
+# Crocicreas labradoricum Huhtinen SPECIES
 
 #### Status
 ACCEPTED

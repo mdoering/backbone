@@ -1,5 +1,4 @@
-Ramularia superflua anon. SPECIES
-=======
+# Ramularia superflua anon. SPECIES
 
 #### Status
 ACCEPTED

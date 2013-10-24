@@ -1,5 +1,4 @@
-Puccinia mougeotii Lagerh. SPECIES
-=======
+# Puccinia mougeotii Lagerh. SPECIES
 
 #### Status
 ACCEPTED

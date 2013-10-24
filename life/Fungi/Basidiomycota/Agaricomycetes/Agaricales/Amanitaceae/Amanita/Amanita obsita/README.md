@@ -1,5 +1,4 @@
-Amanita obsita Corner & Bas SPECIES
-=======
+# Amanita obsita Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

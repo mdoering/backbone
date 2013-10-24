@@ -1,5 +1,4 @@
-Clitocybe porphyrella Berk. & M.A. Curtis SPECIES
-=======
+# Clitocybe porphyrella Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

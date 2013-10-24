@@ -1,5 +1,4 @@
-Zignoëlla populi Ellis & Everh. SPECIES
-=======
+# Zignoëlla populi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

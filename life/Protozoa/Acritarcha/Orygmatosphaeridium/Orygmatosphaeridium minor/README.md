@@ -1,5 +1,4 @@
-Orygmatosphaeridium minor Yang Qinghe et al., 1980 SPECIES
-=======
+# Orygmatosphaeridium minor Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria schaereriana Servít SPECIES
-=======
+# Verrucaria schaereriana Servít SPECIES
 
 #### Status
 ACCEPTED

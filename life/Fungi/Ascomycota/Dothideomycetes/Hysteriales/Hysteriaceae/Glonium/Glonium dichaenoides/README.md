@@ -1,5 +1,4 @@
-Glonium dichaenoides (Richon) Sacc. SPECIES
-=======
+# Glonium dichaenoides (Richon) Sacc. SPECIES
 
 #### Status
 ACCEPTED

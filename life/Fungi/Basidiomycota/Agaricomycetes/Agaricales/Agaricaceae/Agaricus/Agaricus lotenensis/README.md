@@ -1,5 +1,4 @@
-Agaricus lotenensis Speg. SPECIES
-=======
+# Agaricus lotenensis Speg. SPECIES
 
 #### Status
 ACCEPTED

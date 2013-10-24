@@ -1,5 +1,4 @@
-Amanitopsis subalpina Cetto SPECIES
-=======
+# Amanitopsis subalpina Cetto SPECIES
 
 #### Status
 ACCEPTED

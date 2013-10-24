@@ -1,5 +1,4 @@
-Rhymbocarpus fuscoatrae (Hafellner) Diederich & Etayo SPECIES
-=======
+# Rhymbocarpus fuscoatrae (Hafellner) Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

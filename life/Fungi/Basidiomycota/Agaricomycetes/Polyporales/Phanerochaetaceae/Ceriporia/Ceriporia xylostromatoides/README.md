@@ -1,17 +1,16 @@
-Merulius xylostromatoides var. xylostromatoides VARIETY
-=======
+# Ceriporia xylostromatoides (Berk.) Ryvarden, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria 7(34): 10 (1938)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 276 (1980)
 
 #### Original name
-Merulius xylostromatoides var. xylostromatoides
+Polyporus xylostromatoides Berk., 1873
 
 ### Remarks
 null

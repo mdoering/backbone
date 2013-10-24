@@ -1,5 +1,4 @@
-Didymella prunicola Fautrey & Lambotte SPECIES
-=======
+# Didymella prunicola Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

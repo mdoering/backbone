@@ -1,5 +1,4 @@
-Macrosporium yerbae Speg. SPECIES
-=======
+# Macrosporium yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

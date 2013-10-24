@@ -1,5 +1,4 @@
-Phyllosticta pteridis Halst. SPECIES
-=======
+# Phyllosticta pteridis Halst. SPECIES
 
 #### Status
 ACCEPTED

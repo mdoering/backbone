@@ -1,5 +1,4 @@
-Thalloidima albilabrum (Dufour) Flagey SPECIES
-=======
+# Thalloidima albilabrum (Dufour) Flagey SPECIES
 
 #### Status
 ACCEPTED

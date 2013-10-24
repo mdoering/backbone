@@ -1,5 +1,4 @@
-Meliola ochthocosmicola Hansf. & Deighton SPECIES
-=======
+# Meliola ochthocosmicola Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

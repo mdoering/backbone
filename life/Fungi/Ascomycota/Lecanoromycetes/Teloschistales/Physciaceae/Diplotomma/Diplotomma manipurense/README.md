@@ -1,14 +1,13 @@
-Diplotomma manipurensis (Kr.P. Singh & S.R. Singh) Kr.P. Singh & S.R. Singh SPECIES
-=======
+# Diplotomma manipurense (Kr.P. Singh & S.R. Singh) Kr.P. Singh & S.R. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. bot. Surv. India 26(1-2): 64 (1985)
 
 #### Original name
 Buellia manipurensis Kr.P. Singh & S.R. Singh

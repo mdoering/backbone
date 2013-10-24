@@ -1,5 +1,4 @@
-Mycosphaerella solani (Ellis & Everh.) Wollenw. SPECIES
-=======
+# Mycosphaerella solani (Ellis & Everh.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus helicoides Pochmann SPECIES
-=======
+# Phacus helicoides Pochmann SPECIES
 
 #### Status
 ACCEPTED

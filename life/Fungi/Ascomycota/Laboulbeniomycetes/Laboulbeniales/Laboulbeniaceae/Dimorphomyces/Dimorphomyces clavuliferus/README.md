@@ -1,5 +1,4 @@
-Dimorphomyces clavuliferus Thaxt. SPECIES
-=======
+# Dimorphomyces clavuliferus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

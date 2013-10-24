@@ -1,5 +1,4 @@
-Pannaria protensa Hue SPECIES
-=======
+# Pannaria protensa Hue SPECIES
 
 #### Status
 ACCEPTED

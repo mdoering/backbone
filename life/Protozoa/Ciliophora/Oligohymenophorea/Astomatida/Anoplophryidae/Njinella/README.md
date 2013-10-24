@@ -1,5 +1,4 @@
-Njinella Ngassam, 1983 GENUS
-=======
+# Njinella Ngassam, 1983 GENUS
 
 #### Status
 ACCEPTED

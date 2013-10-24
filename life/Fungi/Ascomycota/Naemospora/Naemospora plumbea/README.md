@@ -1,5 +1,4 @@
-Naemospora plumbea (Bonord.) Sacc. SPECIES
-=======
+# Naemospora plumbea (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

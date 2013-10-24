@@ -1,5 +1,4 @@
-Planetella Savile, 1951 GENUS
-=======
+# Planetella Savile, 1951 GENUS
 
 #### Status
 ACCEPTED

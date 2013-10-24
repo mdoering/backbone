@@ -1,5 +1,4 @@
-Lecothecium GENUS
-=======
+# Lecothecium GENUS
 
 #### Status
 ACCEPTED

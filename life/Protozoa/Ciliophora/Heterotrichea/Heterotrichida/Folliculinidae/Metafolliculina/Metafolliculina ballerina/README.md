@@ -1,5 +1,4 @@
-Metafolliculina ballerina Mulisch, Harry, Patterson & Wyatt, 1986 SPECIES
-=======
+# Metafolliculina ballerina Mulisch, Harry, Patterson & Wyatt, 1986 SPECIES
 
 #### Status
 ACCEPTED

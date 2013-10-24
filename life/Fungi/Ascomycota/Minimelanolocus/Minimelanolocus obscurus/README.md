@@ -1,14 +1,13 @@
-Pseudospiropes obscurus Matsush., 1983 SPECIES
-=======
+# Minimelanolocus obscurus (Matsush.) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Matsush. Mycol. Mem. , no. 3 3: 14 (1983)
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 10 (2001)
 
 #### Original name
 Pseudospiropes obscurus Matsush., 1983

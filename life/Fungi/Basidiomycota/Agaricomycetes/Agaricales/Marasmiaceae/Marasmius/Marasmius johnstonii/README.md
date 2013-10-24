@@ -1,5 +1,4 @@
-Marasmius johnstonii Murrill SPECIES
-=======
+# Marasmius johnstonii Murrill SPECIES
 
 #### Status
 ACCEPTED

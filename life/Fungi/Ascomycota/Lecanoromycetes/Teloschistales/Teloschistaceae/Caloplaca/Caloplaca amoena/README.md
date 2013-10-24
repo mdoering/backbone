@@ -1,5 +1,4 @@
-Caloplaca amoena (Zahlbr.) T. Okamoto SPECIES
-=======
+# Caloplaca amoena (Zahlbr.) T. Okamoto SPECIES
 
 #### Status
 ACCEPTED

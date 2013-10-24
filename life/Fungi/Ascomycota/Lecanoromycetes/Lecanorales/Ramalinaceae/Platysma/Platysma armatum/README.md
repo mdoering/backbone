@@ -1,5 +1,4 @@
-Platysma armatum Hoffm. SPECIES
-=======
+# Platysma armatum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

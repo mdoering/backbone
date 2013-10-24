@@ -1,5 +1,4 @@
-Lignoscripta B.D. Ryan GENUS
-=======
+# Lignoscripta B.D. Ryan GENUS
 
 #### Status
 ACCEPTED

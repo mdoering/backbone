@@ -1,5 +1,4 @@
-Sphaeria belladonnae Chaillet ex Fr. SPECIES
-=======
+# Sphaeria belladonnae Chaillet ex Fr. SPECIES
 
 #### Status
 ACCEPTED

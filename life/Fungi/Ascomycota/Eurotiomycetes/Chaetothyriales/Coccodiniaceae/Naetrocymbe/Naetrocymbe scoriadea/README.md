@@ -1,5 +1,4 @@
-Naetrocymbe scoriadea Bat. & Cif. SPECIES
-=======
+# Naetrocymbe scoriadea Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

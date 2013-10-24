@@ -1,5 +1,4 @@
-Spongosphaeradiscus Wang & Shang, 2001 GENUS
-=======
+# Spongosphaeradiscus Wang & Shang, 2001 GENUS
 
 #### Status
 ACCEPTED

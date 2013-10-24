@@ -1,5 +1,4 @@
-Otidea abietina var. abietina (Pers.) Fuckel VARIETY
-=======
+# Otidea abietina (Pers.) Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jb. nassau. Ver. Naturk. 23-24: 330 (1870)
 
 #### Original name
-Otidea abietina var. abietina (Pers.) Fuckel
+Peziza abietina Pers.
 
 ### Remarks
 null

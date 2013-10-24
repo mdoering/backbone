@@ -1,5 +1,4 @@
-Stropharia subuda (Cleland) Grgur. SPECIES
-=======
+# Stropharia subuda (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

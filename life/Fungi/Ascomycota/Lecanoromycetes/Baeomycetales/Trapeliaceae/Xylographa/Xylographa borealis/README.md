@@ -1,5 +1,4 @@
-Xylographa borealis Rehm SPECIES
-=======
+# Xylographa borealis Rehm SPECIES
 
 #### Status
 ACCEPTED

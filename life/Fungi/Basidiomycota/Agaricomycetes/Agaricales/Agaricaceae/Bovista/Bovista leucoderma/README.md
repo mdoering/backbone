@@ -1,5 +1,4 @@
-Bovista leucoderma Kreisel SPECIES
-=======
+# Bovista leucoderma Kreisel SPECIES
 
 #### Status
 ACCEPTED

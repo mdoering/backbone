@@ -1,5 +1,4 @@
-Ceratostoma tinctum Ellis & Everh. SPECIES
-=======
+# Ceratostoma tinctum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

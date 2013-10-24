@@ -1,5 +1,4 @@
-Cortinarius suberythraeus Carteret SPECIES
-=======
+# Cortinarius suberythraeus Carteret SPECIES
 
 #### Status
 ACCEPTED

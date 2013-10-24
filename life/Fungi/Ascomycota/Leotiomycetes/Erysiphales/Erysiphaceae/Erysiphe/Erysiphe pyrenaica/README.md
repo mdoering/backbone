@@ -1,5 +1,4 @@
-Erysiphe pyrenaica (Vienn.-Bourg.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe pyrenaica (Vienn.-Bourg.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

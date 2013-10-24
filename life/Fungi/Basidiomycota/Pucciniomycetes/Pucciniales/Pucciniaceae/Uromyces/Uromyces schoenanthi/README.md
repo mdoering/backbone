@@ -1,5 +1,4 @@
-Uromyces schoenanthi Syd. & P. Syd. SPECIES
-=======
+# Uromyces schoenanthi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

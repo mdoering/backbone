@@ -1,5 +1,4 @@
-Meliola koriensis Deighton SPECIES
-=======
+# Meliola koriensis Deighton SPECIES
 
 #### Status
 ACCEPTED

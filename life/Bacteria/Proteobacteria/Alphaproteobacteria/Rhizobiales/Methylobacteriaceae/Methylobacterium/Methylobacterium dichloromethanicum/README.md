@@ -1,5 +1,4 @@
-Methylobacterium dichloromethanicum Doronina et al., 2000 SPECIES
-=======
+# Methylobacterium dichloromethanicum Doronina et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

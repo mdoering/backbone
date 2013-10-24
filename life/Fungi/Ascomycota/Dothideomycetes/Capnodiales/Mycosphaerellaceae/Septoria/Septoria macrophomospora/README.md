@@ -1,5 +1,4 @@
-Septoria macrophomospora Sousa da Câmara SPECIES
-=======
+# Septoria macrophomospora Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

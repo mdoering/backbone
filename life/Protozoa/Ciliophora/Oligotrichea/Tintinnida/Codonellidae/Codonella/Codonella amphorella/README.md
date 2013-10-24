@@ -1,5 +1,4 @@
-Codonella amphorella Biedermann, 1893 SPECIES
-=======
+# Codonella amphorella Biedermann, 1893 SPECIES
 
 #### Status
 ACCEPTED

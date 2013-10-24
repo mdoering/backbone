@@ -1,5 +1,4 @@
-Chaetomyces pterogenii Thaxt. SPECIES
-=======
+# Chaetomyces pterogenii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

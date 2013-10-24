@@ -1,5 +1,4 @@
-Hirsutella guignardii (Maheu) Samson, Rombach & Seifert SPECIES
-=======
+# Hirsutella guignardii (Maheu) Samson, Rombach & Seifert SPECIES
 
 #### Status
 ACCEPTED

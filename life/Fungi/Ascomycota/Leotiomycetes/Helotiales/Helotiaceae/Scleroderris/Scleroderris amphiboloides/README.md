@@ -1,5 +1,4 @@
-Scleroderris amphiboloides (Nyl.) Sacc. SPECIES
-=======
+# Scleroderris amphiboloides (Nyl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

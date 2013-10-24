@@ -1,5 +1,4 @@
-Phyllosticta marchantiae Sacc., 1878 SPECIES
-=======
+# Phyllosticta marchantiae Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

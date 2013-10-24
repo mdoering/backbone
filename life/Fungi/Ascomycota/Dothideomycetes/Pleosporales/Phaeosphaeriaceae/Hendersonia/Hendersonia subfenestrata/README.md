@@ -1,5 +1,4 @@
-Hendersonia subfenestrata Berk. & M.A. Curtis SPECIES
-=======
+# Hendersonia subfenestrata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

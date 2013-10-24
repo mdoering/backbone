@@ -1,5 +1,4 @@
-Cruciplacolithus subrotundus Perch-Nielsen, 1969 SPECIES
-=======
+# Cruciplacolithus subrotundus Perch-Nielsen, 1969 SPECIES
 
 #### Status
 ACCEPTED

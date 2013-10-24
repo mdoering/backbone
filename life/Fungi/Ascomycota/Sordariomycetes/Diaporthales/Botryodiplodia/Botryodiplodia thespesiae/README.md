@@ -1,5 +1,4 @@
-Botryodiplodia thespesiae Petr. & Cif. SPECIES
-=======
+# Botryodiplodia thespesiae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

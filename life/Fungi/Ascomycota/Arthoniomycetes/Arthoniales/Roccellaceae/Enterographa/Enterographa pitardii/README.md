@@ -1,14 +1,13 @@
-Enterographa pitardi (B. de Lesd.) Redinger SPECIES
-=======
+# Enterographa pitardii (B. de Lesd.) Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Repert. Spec. Nov. Regni Veg. 43: 68 (1938)
 
 #### Original name
 Opegrapha pitardii

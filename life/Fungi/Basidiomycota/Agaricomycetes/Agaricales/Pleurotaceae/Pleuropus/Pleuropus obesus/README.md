@@ -1,5 +1,4 @@
-Pleuropus obesus (Batsch) Murrill SPECIES
-=======
+# Pleuropus obesus (Batsch) Murrill SPECIES
 
 #### Status
 ACCEPTED

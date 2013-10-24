@@ -1,5 +1,4 @@
-Lecidea phaeocarpodes (Nyl.) Hue SPECIES
-=======
+# Lecidea phaeocarpodes (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

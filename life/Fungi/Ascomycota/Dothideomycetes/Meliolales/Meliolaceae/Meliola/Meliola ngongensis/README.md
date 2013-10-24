@@ -1,5 +1,4 @@
-Meliola ngongensis Hansf. SPECIES
-=======
+# Meliola ngongensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

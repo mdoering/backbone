@@ -1,5 +1,4 @@
-Sphaerophragmium evernium Syd., 1937 SPECIES
-=======
+# Sphaerophragmium evernium Syd., 1937 SPECIES
 
 #### Status
 ACCEPTED

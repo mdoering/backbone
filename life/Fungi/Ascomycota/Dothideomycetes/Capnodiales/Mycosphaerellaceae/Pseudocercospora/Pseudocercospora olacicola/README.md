@@ -1,5 +1,4 @@
-Pseudocercospora olacicola (Muthappa) Kamal, M.K. Khan & R.K. Verma SPECIES
-=======
+# Pseudocercospora olacicola (Muthappa) Kamal, M.K. Khan & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

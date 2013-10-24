@@ -1,5 +1,4 @@
-Phacidium verecundum E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Phacidium verecundum E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

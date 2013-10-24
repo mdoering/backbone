@@ -1,5 +1,4 @@
-Gerronema Singer, 1951 GENUS
-=======
+# Gerronema Singer, 1951 GENUS
 
 #### Status
 ACCEPTED

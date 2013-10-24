@@ -1,5 +1,4 @@
-Apatelomyces ogmoceri Thaxt., 1931 SPECIES
-=======
+# Apatelomyces ogmoceri Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

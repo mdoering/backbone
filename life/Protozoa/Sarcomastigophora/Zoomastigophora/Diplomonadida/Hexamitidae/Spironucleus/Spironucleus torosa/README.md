@@ -1,5 +1,4 @@
-Spironucleus torosa Poynton & Morrison, 1990 SPECIES
-=======
+# Spironucleus torosa Poynton & Morrison, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodulosphaeria morthieriana (Sacc.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Nodulosphaeria morthieriana (Sacc.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

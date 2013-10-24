@@ -1,14 +1,13 @@
-Dactylella tenuifusaria Xing Z. Liu, R.H. Gao, K.Q. Zhang & L. Cao, 1996 SPECIES
-=======
+# Brachyphoris tenuifusaria (Xing Z. Liu, R.H. Gao, K.Q. Zhang & L. Cao) Juan Chen, L.L. Xu, B. Liu & Xing Z. Liu, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 100(2): 236 (1996)
+Fungal Diversity 26(1): 124 (2007)
 
 #### Original name
 Dactylella tenuifusaria Xing Z. Liu, R.H. Gao, K.Q. Zhang & L. Cao, 1996

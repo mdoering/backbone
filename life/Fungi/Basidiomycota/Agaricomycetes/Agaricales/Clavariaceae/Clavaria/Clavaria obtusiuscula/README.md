@@ -1,5 +1,4 @@
-Clavaria obtusiuscula Britzelm. SPECIES
-=======
+# Clavaria obtusiuscula Britzelm. SPECIES
 
 #### Status
 ACCEPTED

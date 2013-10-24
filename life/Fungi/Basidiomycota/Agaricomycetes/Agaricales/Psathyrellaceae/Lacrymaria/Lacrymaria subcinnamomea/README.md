@@ -1,5 +1,4 @@
-Lacrymaria subcinnamomea (A.H. Sm.) Watling SPECIES
-=======
+# Lacrymaria subcinnamomea (A.H. Sm.) Watling SPECIES
 
 #### Status
 ACCEPTED

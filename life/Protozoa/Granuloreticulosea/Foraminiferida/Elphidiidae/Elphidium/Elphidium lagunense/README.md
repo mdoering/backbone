@@ -1,8 +1,7 @@
-Cribrononion lagunensis Albani & Barbero, 1982 SPECIES
-=======
+# Elphidium lagunense (Albani & Balbero, 1982) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

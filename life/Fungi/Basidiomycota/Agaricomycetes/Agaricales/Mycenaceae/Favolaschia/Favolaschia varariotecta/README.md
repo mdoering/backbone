@@ -1,5 +1,4 @@
-Favolaschia varariotecta Singer, 1945 SPECIES
-=======
+# Favolaschia varariotecta Singer, 1945 SPECIES
 
 #### Status
 ACCEPTED

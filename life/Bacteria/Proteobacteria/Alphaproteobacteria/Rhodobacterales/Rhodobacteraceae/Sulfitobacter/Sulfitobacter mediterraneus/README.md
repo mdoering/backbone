@@ -1,5 +1,4 @@
-Sulfitobacter mediterraneus Pukall et al., 1999 SPECIES
-=======
+# Sulfitobacter mediterraneus Pukall et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

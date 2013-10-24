@@ -1,5 +1,4 @@
-Cryptosporidium scophthalmi Alvarez-Pellitero, Quiroga, Sitjà-Bobadilla, Redondo, Palenzuela, Padrós, Vázquez & Nieto, 2004 SPECIES
-=======
+# Cryptosporidium scophthalmi Alvarez-Pellitero, Quiroga, Sitjà-Bobadilla, Redondo, Palenzuela, Padrós, Vázquez & Nieto, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe perjuncta Niessl SPECIES
-=======
+# Diaporthe perjuncta Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinophysis spinata (Peters, 1928) Balech, 1967 SPECIES
-=======
+# Dinophysis spinata (Peters, 1928) Balech, 1967 SPECIES
 
 #### Status
 ACCEPTED

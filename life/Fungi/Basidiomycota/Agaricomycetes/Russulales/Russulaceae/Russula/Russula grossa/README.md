@@ -1,5 +1,4 @@
-Russula grossa Berk. SPECIES
-=======
+# Russula grossa Berk. SPECIES
 
 #### Status
 ACCEPTED

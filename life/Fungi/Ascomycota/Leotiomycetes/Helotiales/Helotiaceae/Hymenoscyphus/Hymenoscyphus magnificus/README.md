@@ -1,14 +1,13 @@
-Helotium magnificum Velen., 1934 SPECIES
-=======
+# Hymenoscyphus magnificus (Velen.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 198 (1934)
+Persoonia 3(1): 76 (1964)
 
 #### Original name
 Helotium magnificum Velen., 1934

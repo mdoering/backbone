@@ -1,5 +1,4 @@
-Squamaria concrescens (Müll. Arg.) Poelt SPECIES
-=======
+# Squamaria concrescens (Müll. Arg.) Poelt SPECIES
 
 #### Status
 ACCEPTED

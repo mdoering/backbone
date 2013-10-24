@@ -1,5 +1,4 @@
-Parmelia cyanolepra Desport. SPECIES
-=======
+# Parmelia cyanolepra Desport. SPECIES
 
 #### Status
 ACCEPTED

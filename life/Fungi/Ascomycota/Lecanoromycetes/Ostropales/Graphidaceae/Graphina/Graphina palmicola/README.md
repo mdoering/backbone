@@ -1,5 +1,4 @@
-Graphina palmicola Müll. Arg. SPECIES
-=======
+# Graphina palmicola Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

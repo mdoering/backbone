@@ -1,5 +1,4 @@
-Calonectria limpida Syd. & P. Syd. SPECIES
-=======
+# Calonectria limpida Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

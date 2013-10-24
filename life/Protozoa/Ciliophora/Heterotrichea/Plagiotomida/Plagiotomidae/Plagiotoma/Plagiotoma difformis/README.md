@@ -1,5 +1,4 @@
-Plagiotoma difformis Perty, 1852 SPECIES
-=======
+# Plagiotoma difformis Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

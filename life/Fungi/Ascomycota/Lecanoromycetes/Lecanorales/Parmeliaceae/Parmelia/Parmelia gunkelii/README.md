@@ -1,5 +1,4 @@
-Parmelia gunkelii Räsänen SPECIES
-=======
+# Parmelia gunkelii Räsänen SPECIES
 
 #### Status
 ACCEPTED

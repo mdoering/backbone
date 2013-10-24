@@ -1,14 +1,13 @@
-Ravenelia kirganelliae Mundk. & Thirum. SPECIES
-=======
+# Kernkampella kirganellae (Mundk. & Thirum.) G.F. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycol. Pap. 16(1): 22 (1946)
+Mycotaxon 3(1): 144 (1975)
 
 #### Original name
 Ravenelia kirganelliae Mundk. & Thirum.

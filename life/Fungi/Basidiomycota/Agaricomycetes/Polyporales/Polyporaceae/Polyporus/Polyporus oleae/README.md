@@ -1,5 +1,4 @@
-Polyporus oleae Panizzi SPECIES
-=======
+# Polyporus oleae Panizzi SPECIES
 
 #### Status
 ACCEPTED

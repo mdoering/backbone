@@ -1,5 +1,4 @@
-Sphaeriostromella Bubák GENUS
-=======
+# Sphaeriostromella Bubák GENUS
 
 #### Status
 ACCEPTED

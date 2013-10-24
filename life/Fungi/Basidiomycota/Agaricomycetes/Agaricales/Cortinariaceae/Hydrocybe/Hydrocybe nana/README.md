@@ -1,5 +1,4 @@
-Hydrocybe nana Killerm. SPECIES
-=======
+# Hydrocybe nana Killerm. SPECIES
 
 #### Status
 ACCEPTED

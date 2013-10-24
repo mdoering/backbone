@@ -1,5 +1,4 @@
-Tilletia baldratii Montem. SPECIES
-=======
+# Tilletia baldratii Montem. SPECIES
 
 #### Status
 ACCEPTED

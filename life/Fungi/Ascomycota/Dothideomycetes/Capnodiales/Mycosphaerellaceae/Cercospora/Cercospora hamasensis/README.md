@@ -1,5 +1,4 @@
-Cercospora hamasensis Sacc. SPECIES
-=======
+# Cercospora hamasensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

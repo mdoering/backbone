@@ -1,5 +1,4 @@
-Laboulbenia disenochi Thaxt. SPECIES
-=======
+# Laboulbenia disenochi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

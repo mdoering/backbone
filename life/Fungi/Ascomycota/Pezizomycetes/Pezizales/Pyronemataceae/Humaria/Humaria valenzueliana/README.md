@@ -1,5 +1,4 @@
-Humaria valenzueliana (Berk.) Sacc. SPECIES
-=======
+# Humaria valenzueliana (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

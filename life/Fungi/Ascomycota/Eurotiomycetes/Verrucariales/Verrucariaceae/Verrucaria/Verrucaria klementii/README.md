@@ -1,5 +1,4 @@
-Verrucaria klementii Servít SPECIES
-=======
+# Verrucaria klementii Servít SPECIES
 
 #### Status
 ACCEPTED

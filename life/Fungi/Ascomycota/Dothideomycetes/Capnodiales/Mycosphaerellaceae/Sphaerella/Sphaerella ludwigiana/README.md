@@ -1,5 +1,4 @@
-Sphaerella ludwigiana Sacc. & Har. SPECIES
-=======
+# Sphaerella ludwigiana Sacc. & Har. SPECIES
 
 #### Status
 ACCEPTED

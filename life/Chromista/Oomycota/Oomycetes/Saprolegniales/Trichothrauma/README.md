@@ -1,5 +1,4 @@
-Trichothrauma Germ. GENUS
-=======
+# Trichothrauma Germ. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dingodinium tuberosum (Gitmez, 1970) Fisher & Riley, 1980 SPECIES
-=======
+# Dingodinium tuberosum (Gitmez, 1970) Fisher & Riley, 1980 SPECIES
 
 #### Status
 ACCEPTED

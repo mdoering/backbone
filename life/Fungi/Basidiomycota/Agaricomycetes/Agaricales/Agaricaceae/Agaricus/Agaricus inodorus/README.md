@@ -1,5 +1,4 @@
-Agaricus inodorus Bull. SPECIES
-=======
+# Agaricus inodorus Bull. SPECIES
 
 #### Status
 ACCEPTED

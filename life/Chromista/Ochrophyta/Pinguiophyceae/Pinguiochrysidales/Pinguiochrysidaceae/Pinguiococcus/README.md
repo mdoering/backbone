@@ -1,5 +1,4 @@
-Pinguiococcus Andersen, R.A., Potter, D. & Bailey, J.C., 2002 GENUS
-=======
+# Pinguiococcus Andersen, R.A., Potter, D. & Bailey, J.C., 2002 GENUS
 
 #### Status
 ACCEPTED

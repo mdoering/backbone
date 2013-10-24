@@ -1,5 +1,4 @@
-Planktolyngbya tallingii J. Komárek & H. Kling SPECIES
-=======
+# Planktolyngbya tallingii J. Komárek & H. Kling SPECIES
 
 #### Status
 ACCEPTED

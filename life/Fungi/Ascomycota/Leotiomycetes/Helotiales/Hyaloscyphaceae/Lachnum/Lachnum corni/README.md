@@ -1,5 +1,4 @@
-Lachnum corni Cash SPECIES
-=======
+# Lachnum corni Cash SPECIES
 
 #### Status
 ACCEPTED

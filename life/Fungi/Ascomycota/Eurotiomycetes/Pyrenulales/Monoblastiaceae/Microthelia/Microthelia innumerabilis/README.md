@@ -1,5 +1,4 @@
-Microthelia innumerabilis (G. Winter) Kuntze SPECIES
-=======
+# Microthelia innumerabilis (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

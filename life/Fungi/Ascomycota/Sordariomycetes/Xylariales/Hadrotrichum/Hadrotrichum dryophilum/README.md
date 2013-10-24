@@ -1,5 +1,4 @@
-Hadrotrichum dryophilum Sacc. SPECIES
-=======
+# Hadrotrichum dryophilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

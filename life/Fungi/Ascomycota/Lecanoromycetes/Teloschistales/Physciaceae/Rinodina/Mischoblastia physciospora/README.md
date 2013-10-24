@@ -1,5 +1,4 @@
-Mischoblastia physciospora SPECIES
-=======
+# Mischoblastia physciospora SPECIES
 
 #### Status
 ACCEPTED

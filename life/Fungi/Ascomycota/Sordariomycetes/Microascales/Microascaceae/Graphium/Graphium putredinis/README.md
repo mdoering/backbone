@@ -1,17 +1,16 @@
-Cephalotrichum cuneiferum (Berk. & Broome) Kuntze, 1898 SPECIES
-=======
+# Graphium putredinis (Corda) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 453 (1898)
+Can. J. Bot. 36: 770 (1958)
 
 #### Original name
-null
+Stysanus putredinis Corda, 1839
 
 ### Remarks
 null

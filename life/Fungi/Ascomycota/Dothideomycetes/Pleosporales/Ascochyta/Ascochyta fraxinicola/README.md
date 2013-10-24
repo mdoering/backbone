@@ -1,5 +1,4 @@
-Ascochyta fraxinicola Brunaud SPECIES
-=======
+# Ascochyta fraxinicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amazonotheca santiriae Bat. & H. Maia, 1959 SPECIES
-=======
+# Amazonotheca santiriae Bat. & H. Maia, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomyces pinophili Thaxt., 1893 SPECIES
-=======
+# Chaetomyces pinophili Thaxt., 1893 SPECIES
 
 #### Status
 ACCEPTED

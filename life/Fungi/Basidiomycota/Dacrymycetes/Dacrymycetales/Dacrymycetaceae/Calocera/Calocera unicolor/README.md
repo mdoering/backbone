@@ -1,5 +1,4 @@
-Calocera unicolor (Fr.) Fr. SPECIES
-=======
+# Calocera unicolor (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

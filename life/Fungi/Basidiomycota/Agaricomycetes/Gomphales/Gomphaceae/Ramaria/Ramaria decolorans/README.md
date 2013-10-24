@@ -1,5 +1,4 @@
-Ramaria decolorans (P. Karst.) Corner SPECIES
-=======
+# Ramaria decolorans (P. Karst.) Corner SPECIES
 
 #### Status
 ACCEPTED

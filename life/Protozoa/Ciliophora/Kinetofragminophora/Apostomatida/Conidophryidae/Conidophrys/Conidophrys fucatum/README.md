@@ -1,5 +1,4 @@
-Conidophrys fucatum SPECIES
-=======
+# Conidophrys fucatum SPECIES
 
 #### Status
 ACCEPTED

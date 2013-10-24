@@ -1,5 +1,4 @@
-Scleroderris pallidula (Cooke) Sacc. SPECIES
-=======
+# Scleroderris pallidula (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

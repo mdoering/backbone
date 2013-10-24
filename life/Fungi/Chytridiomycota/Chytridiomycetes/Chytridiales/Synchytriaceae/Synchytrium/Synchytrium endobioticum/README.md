@@ -1,17 +1,16 @@
-Synchytrium solani Massee, 1910 SPECIES
-=======
+# Synchytrium endobioticum (Schilb.) Percival, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Diseases of Cultivated Plants and Trees 98 (1910)
+Zentbl. Bakt. ParasitKde, Abt. II 25: 131 (1909)
 
 #### Original name
-Synchytrium solani Massee, 1910
+Chrysophlyctis endobiotica Schilb., 1896
 
 ### Remarks
 null

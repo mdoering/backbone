@@ -1,5 +1,4 @@
-Patellaria subbacillifera (Nyl.) SPECIES
-=======
+# Patellaria subbacillifera (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria galandii Bertault SPECIES
-=======
+# Xylaria galandii Bertault SPECIES
 
 #### Status
 ACCEPTED

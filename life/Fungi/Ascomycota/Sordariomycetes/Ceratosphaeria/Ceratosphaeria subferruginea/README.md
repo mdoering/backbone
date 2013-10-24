@@ -1,5 +1,4 @@
-Ceratosphaeria subferruginea (Fuckel) Munk SPECIES
-=======
+# Ceratosphaeria subferruginea (Fuckel) Munk SPECIES
 
 #### Status
 ACCEPTED

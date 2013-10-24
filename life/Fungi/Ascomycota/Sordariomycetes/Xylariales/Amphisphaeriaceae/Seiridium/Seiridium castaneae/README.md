@@ -1,5 +1,4 @@
-Seiridium castaneae (Berk. & M.A. Curtis ex Sacc.) B. Sutton SPECIES
-=======
+# Seiridium castaneae (Berk. & M.A. Curtis ex Sacc.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

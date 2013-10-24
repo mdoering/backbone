@@ -1,5 +1,4 @@
-Phytocordyceps GENUS
-=======
+# Phytocordyceps GENUS
 
 #### Status
 ACCEPTED

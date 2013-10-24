@@ -1,5 +1,4 @@
-Dacryopinax G.W. Martin GENUS
-=======
+# Dacryopinax G.W. Martin GENUS
 
 #### Status
 ACCEPTED

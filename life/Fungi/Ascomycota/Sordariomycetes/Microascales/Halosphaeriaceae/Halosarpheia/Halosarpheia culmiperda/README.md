@@ -1,5 +1,4 @@
-Halosarpheia culmiperda Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1995 SPECIES
-=======
+# Halosarpheia culmiperda Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1995 SPECIES
 
 #### Status
 ACCEPTED

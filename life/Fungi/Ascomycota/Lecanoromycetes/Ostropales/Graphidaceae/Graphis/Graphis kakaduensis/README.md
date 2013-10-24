@@ -1,5 +1,4 @@
-Graphis kakaduensis A.W. Archer SPECIES
-=======
+# Graphis kakaduensis A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

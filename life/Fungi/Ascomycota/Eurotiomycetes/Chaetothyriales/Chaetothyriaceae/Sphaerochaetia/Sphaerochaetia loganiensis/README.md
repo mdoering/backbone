@@ -1,5 +1,4 @@
-Sphaerochaetia loganiensis (Sacc. & Berl.) Bat. & Cif. SPECIES
-=======
+# Sphaerochaetia loganiensis (Sacc. & Berl.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

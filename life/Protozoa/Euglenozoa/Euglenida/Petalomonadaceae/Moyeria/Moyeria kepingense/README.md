@@ -1,5 +1,4 @@
-Moyeria kepingense Xing Yusheng & Fang Xiaosi, 1999 SPECIES
-=======
+# Moyeria kepingense Xing Yusheng & Fang Xiaosi, 1999 SPECIES
 
 #### Status
 ACCEPTED

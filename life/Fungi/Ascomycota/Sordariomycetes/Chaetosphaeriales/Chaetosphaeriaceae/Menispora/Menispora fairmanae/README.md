@@ -1,5 +1,4 @@
-Menispora fairmanae Sacc. SPECIES
-=======
+# Menispora fairmanae Sacc. SPECIES
 
 #### Status
 ACCEPTED

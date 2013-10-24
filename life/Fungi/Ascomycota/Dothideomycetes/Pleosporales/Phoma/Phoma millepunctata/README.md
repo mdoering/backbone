@@ -1,5 +1,4 @@
-Phoma millepunctata Desm. SPECIES
-=======
+# Phoma millepunctata Desm. SPECIES
 
 #### Status
 ACCEPTED

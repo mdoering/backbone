@@ -1,5 +1,4 @@
-Phaeographis benguetensis (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis benguetensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

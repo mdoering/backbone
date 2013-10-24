@@ -1,5 +1,4 @@
-Collybia macrotatorhiza Speg. SPECIES
-=======
+# Collybia macrotatorhiza Speg. SPECIES
 
 #### Status
 ACCEPTED

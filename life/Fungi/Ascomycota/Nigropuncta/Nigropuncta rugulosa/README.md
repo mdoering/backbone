@@ -1,5 +1,4 @@
-Nigropuncta rugulosa D. Hawksw., 1981 SPECIES
-=======
+# Nigropuncta rugulosa D. Hawksw., 1981 SPECIES
 
 #### Status
 ACCEPTED

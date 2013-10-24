@@ -1,5 +1,4 @@
-Dixophyllum furcatum (Pers.) Earle SPECIES
-=======
+# Dixophyllum furcatum (Pers.) Earle SPECIES
 
 #### Status
 ACCEPTED

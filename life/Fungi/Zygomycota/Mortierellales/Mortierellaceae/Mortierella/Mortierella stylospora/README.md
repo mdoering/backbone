@@ -1,5 +1,4 @@
-Mortierella stylospora Dixon-Stew., 1932 SPECIES
-=======
+# Mortierella stylospora Dixon-Stew., 1932 SPECIES
 
 #### Status
 ACCEPTED

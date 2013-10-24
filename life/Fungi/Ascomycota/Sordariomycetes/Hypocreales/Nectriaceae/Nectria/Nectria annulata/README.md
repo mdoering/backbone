@@ -1,5 +1,4 @@
-Nectria annulata Rehm SPECIES
-=======
+# Nectria annulata Rehm SPECIES
 
 #### Status
 ACCEPTED

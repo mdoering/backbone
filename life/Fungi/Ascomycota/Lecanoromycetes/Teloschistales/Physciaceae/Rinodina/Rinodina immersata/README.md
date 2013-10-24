@@ -1,5 +1,4 @@
-Rinodina immersata SPECIES
-=======
+# Rinodina immersata SPECIES
 
 #### Status
 ACCEPTED

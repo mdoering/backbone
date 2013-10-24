@@ -1,5 +1,4 @@
-Tulostoma karagandaense Schwarzman & Philimonova SPECIES
-=======
+# Tulostoma karagandaense Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum inaequale Lindblad SPECIES
-=======
+# Hydnum inaequale Lindblad SPECIES
 
 #### Status
 ACCEPTED

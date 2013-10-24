@@ -1,5 +1,4 @@
-Lembosia carpodini Hansf. SPECIES
-=======
+# Lembosia carpodini Hansf. SPECIES
 
 #### Status
 ACCEPTED

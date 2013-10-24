@@ -1,5 +1,4 @@
-Hypotrachyna toiana Elix SPECIES
-=======
+# Hypotrachyna toiana Elix SPECIES
 
 #### Status
 ACCEPTED

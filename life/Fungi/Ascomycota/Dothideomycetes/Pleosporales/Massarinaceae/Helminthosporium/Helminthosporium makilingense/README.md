@@ -1,5 +1,4 @@
-Helminthosporium makilingense Syd. SPECIES
-=======
+# Helminthosporium makilingense Syd. SPECIES
 
 #### Status
 ACCEPTED

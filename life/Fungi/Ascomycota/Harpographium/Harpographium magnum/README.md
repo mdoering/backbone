@@ -1,5 +1,4 @@
-Harpographium magnum Sacc. SPECIES
-=======
+# Harpographium magnum Sacc. SPECIES
 
 #### Status
 ACCEPTED

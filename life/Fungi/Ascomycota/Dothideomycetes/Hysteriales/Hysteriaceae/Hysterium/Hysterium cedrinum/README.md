@@ -1,5 +1,4 @@
-Hysterium cedrinum Ellis & Everh. SPECIES
-=======
+# Hysterium cedrinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

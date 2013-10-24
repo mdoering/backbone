@@ -1,5 +1,4 @@
-Lachnum australiense Spooner SPECIES
-=======
+# Lachnum australiense Spooner SPECIES
 
 #### Status
 ACCEPTED

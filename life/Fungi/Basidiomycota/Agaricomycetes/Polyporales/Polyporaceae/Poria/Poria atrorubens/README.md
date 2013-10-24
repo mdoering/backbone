@@ -1,5 +1,4 @@
-Poria atrorubens D.V. Baxter SPECIES
-=======
+# Poria atrorubens D.V. Baxter SPECIES
 
 #### Status
 ACCEPTED

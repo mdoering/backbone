@@ -1,5 +1,4 @@
-Ascocorticiellum Jülich & B. de Vries, 1982 GENUS
-=======
+# Ascocorticiellum Jülich & B. de Vries, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Riemerella columbina Vancanneyt et al., 1999 SPECIES
-=======
+# Riemerella columbina Vancanneyt et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

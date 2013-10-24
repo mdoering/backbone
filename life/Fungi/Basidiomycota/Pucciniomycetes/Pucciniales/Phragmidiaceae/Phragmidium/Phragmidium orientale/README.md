@@ -1,5 +1,4 @@
-Phragmidium orientale Syd. & P. Syd. SPECIES
-=======
+# Phragmidium orientale Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Xanthoria tibelii S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria tibellii S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ukr. bot. Zh. 60(2): 125 (2003)
 
 #### Original name
-Xanthoria tibelii S.Y. Kondr. & Kärnefelt
+Xanthoria tibellii S.Y. Kondr. & Kärnefelt
 
 ### Remarks
 null

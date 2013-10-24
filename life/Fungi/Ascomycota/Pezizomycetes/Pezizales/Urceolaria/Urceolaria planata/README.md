@@ -1,5 +1,4 @@
-Urceolaria planata Motyka SPECIES
-=======
+# Urceolaria planata Motyka SPECIES
 
 #### Status
 ACCEPTED

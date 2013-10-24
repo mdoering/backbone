@@ -1,5 +1,4 @@
-Chlanidophora madagascariensis Farghaly SPECIES
-=======
+# Chlanidophora madagascariensis Farghaly SPECIES
 
 #### Status
 ACCEPTED

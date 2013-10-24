@@ -1,17 +1,16 @@
-Dendrophoma striaeforme Allesch. SPECIES
-=======
+# Dendrophoma striiformis Allesch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. bayer. bot. Ges. 4: 32 (1896)
 
 #### Original name
-Dendrophoma striaeforme Allesch.
+Dendrophoma striiformis Allesch.
 
 ### Remarks
 null

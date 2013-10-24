@@ -1,5 +1,4 @@
-Virgaria indivisa Sacc. SPECIES
-=======
+# Virgaria indivisa Sacc. SPECIES
 
 #### Status
 ACCEPTED

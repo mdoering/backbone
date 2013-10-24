@@ -1,5 +1,4 @@
-Physarum nigripodium Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Physarum nigripodium Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

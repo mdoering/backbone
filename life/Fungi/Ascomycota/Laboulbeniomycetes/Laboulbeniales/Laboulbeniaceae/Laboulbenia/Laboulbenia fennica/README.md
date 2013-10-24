@@ -1,5 +1,4 @@
-Laboulbenia fennica Huldén, 1983 SPECIES
-=======
+# Laboulbenia fennica Huldén, 1983 SPECIES
 
 #### Status
 ACCEPTED

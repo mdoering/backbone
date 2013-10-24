@@ -1,5 +1,4 @@
-Diplodiella corni Bres. SPECIES
-=======
+# Diplodiella corni Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptocline betularum (Ellis & G. Martin) Arx SPECIES
-=======
+# Cryptocline betularum (Ellis & G. Martin) Arx SPECIES
 
 #### Status
 ACCEPTED

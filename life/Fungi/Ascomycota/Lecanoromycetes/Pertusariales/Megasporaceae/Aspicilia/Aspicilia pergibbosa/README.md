@@ -1,5 +1,4 @@
-Aspicilia pergibbosa (H. Magn.) Räsänen SPECIES
-=======
+# Aspicilia pergibbosa (H. Magn.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

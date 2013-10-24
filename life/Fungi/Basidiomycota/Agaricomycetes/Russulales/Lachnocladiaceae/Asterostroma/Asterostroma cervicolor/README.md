@@ -1,14 +1,13 @@
-Terana cervicolor (Berk. & M.A. Curtis) Kuntze, 1891 SPECIES
-=======
+# Asterostroma cervicolor (Berk. & M.A. Curtis) Massee, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+J. Linn. Soc. , Bot. 25(no. 170): 155 (1889)
 
 #### Original name
 null

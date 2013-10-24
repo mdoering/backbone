@@ -1,17 +1,16 @@
-Adea Petr. GENUS
-=======
+# Seiridium Nees GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 62(Beibl. 141 ('142')): 144 (1928)
+Syst. Pilze (Würzburg) 22 (1816)
 
 #### Original name
-Adea Petr.
+Seiridium Nees
 
 ### Remarks
 null

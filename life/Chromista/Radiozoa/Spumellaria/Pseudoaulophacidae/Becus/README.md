@@ -1,5 +1,4 @@
-Becus Wu, 1986 GENUS
-=======
+# Becus Wu, 1986 GENUS
 
 #### Status
 ACCEPTED

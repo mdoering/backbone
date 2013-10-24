@@ -1,5 +1,4 @@
-Arcyria oerstedioides Flatau & Schirmer, 1983 SPECIES
-=======
+# Arcyria oerstedioides Flatau & Schirmer, 1983 SPECIES
 
 #### Status
 ACCEPTED

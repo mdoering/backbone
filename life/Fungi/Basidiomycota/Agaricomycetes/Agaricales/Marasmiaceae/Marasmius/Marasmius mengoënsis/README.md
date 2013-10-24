@@ -1,5 +1,4 @@
-Marasmius mengoënsis Pegler SPECIES
-=======
+# Marasmius mengoënsis Pegler SPECIES
 
 #### Status
 ACCEPTED

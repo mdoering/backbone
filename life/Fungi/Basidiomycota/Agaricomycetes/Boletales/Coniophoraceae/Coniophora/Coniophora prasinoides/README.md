@@ -1,17 +1,16 @@
-Coniophora olivascens prasinoides Bourdot & Galzin, 1923 INFRASPECIFIC_NAME
-=======
+# Coniophora prasinoides (Bourdot & Galzin) Bourdot & Galzin, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomyc. de France (Sceaux) 361 (1928)
 
 #### Original name
-null
+Coniophora olivascens prasinoides Bourdot & Galzin, 1923
 
 ### Remarks
 null

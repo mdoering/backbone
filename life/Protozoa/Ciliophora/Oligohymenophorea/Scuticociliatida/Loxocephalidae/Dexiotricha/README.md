@@ -1,5 +1,4 @@
-Dexiotricha Stokes, 1885 GENUS
-=======
+# Dexiotricha Stokes, 1885 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria scutellata Pers. SPECIES
-=======
+# Sphaeria scutellata Pers. SPECIES
 
 #### Status
 ACCEPTED

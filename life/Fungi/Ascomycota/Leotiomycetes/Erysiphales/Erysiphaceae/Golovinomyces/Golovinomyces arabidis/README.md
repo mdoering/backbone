@@ -1,5 +1,4 @@
-Golovinomyces arabidis (R.Y. Zheng & G.Q. Chen) V.P. Heluta SPECIES
-=======
+# Golovinomyces arabidis (R.Y. Zheng & G.Q. Chen) V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

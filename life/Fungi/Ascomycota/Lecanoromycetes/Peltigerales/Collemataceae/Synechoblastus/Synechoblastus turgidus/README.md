@@ -1,5 +1,4 @@
-Synechoblastus turgidus Körb. SPECIES
-=======
+# Synechoblastus turgidus Körb. SPECIES
 
 #### Status
 ACCEPTED

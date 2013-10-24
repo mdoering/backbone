@@ -1,5 +1,4 @@
-Glaucomella Grolière, 1977 GENUS
-=======
+# Glaucomella Grolière, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota brunneosperma Singer SPECIES
-=======
+# Lepiota brunneosperma Singer SPECIES
 
 #### Status
 ACCEPTED

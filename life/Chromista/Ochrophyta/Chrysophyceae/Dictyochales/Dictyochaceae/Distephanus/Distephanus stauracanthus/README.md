@@ -1,5 +1,4 @@
-Distephanus stauracanthus f. octagonus (K. Tsumura) S. Locker & E. Martini FORM
-=======
+# Distephanus stauracanthus SPECIES
 
 #### Status
 ACCEPTED

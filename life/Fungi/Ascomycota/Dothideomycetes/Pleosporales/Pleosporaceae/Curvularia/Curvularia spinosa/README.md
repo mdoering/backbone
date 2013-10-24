@@ -1,5 +1,4 @@
-Curvularia spinosa H.P. Srivast. & Bilgrami, 1963 SPECIES
-=======
+# Curvularia spinosa H.P. Srivast. & Bilgrami, 1963 SPECIES
 
 #### Status
 ACCEPTED

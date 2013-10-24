@@ -1,5 +1,4 @@
-Meliola congoensis (Beeli) Hansf. SPECIES
-=======
+# Meliola congoensis (Beeli) Hansf. SPECIES
 
 #### Status
 ACCEPTED

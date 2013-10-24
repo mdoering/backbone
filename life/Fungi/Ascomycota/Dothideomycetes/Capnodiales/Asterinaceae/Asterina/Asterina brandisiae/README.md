@@ -1,5 +1,4 @@
-Asterina brandisiae Hansf. SPECIES
-=======
+# Asterina brandisiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

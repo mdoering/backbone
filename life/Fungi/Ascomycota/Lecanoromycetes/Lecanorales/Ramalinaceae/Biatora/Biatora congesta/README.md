@@ -1,5 +1,4 @@
-Biatora congesta (Kremp.) SPECIES
-=======
+# Biatora congesta (Kremp.) SPECIES
 
 #### Status
 ACCEPTED

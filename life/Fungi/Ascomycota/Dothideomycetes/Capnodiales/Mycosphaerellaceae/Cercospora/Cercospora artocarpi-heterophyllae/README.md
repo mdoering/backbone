@@ -1,5 +1,4 @@
-Cercospora artocarpi-heterophyllae Subhedar & V.G. Rao SPECIES
-=======
+# Cercospora artocarpi-heterophyllae Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

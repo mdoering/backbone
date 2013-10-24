@@ -1,5 +1,4 @@
-Phyllopsora hypochrysea (Vain.) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora hypochrysea (Vain.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium cinerariae anon. SPECIES
-=======
+# Oidium cinerariae anon. SPECIES
 
 #### Status
 ACCEPTED

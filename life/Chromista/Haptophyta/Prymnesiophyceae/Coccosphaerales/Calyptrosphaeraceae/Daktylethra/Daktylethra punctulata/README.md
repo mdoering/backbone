@@ -1,5 +1,4 @@
-Daktylethra punctulata Gartner in Gartner & Bukry, 1969 SPECIES
-=======
+# Daktylethra punctulata Gartner in Gartner & Bukry, 1969 SPECIES
 
 #### Status
 ACCEPTED

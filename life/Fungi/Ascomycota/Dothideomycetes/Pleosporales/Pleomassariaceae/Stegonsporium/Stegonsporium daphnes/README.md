@@ -1,5 +1,4 @@
-Stegonsporium daphnes Kuschke SPECIES
-=======
+# Stegonsporium daphnes Kuschke SPECIES
 
 #### Status
 ACCEPTED

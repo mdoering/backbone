@@ -1,5 +1,4 @@
-Lautropia Gerner-Smidt et al., 1995 GENUS
-=======
+# Lautropia Gerner-Smidt et al., 1995 GENUS
 
 #### Status
 ACCEPTED

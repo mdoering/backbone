@@ -1,5 +1,4 @@
-Xylaria potentillae A S. Xu SPECIES
-=======
+# Xylaria potentillae A S. Xu SPECIES
 
 #### Status
 ACCEPTED

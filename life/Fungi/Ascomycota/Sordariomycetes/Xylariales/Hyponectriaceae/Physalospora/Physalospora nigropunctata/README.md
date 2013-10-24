@@ -1,5 +1,4 @@
-Physalospora nigropunctata Romell SPECIES
-=======
+# Physalospora nigropunctata Romell SPECIES
 
 #### Status
 ACCEPTED

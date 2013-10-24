@@ -1,5 +1,4 @@
-Entoloma reticulata Cleland SPECIES
-=======
+# Entoloma reticulata Cleland SPECIES
 
 #### Status
 ACCEPTED

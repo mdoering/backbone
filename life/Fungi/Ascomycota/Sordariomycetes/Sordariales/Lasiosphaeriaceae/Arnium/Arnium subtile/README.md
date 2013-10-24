@@ -1,5 +1,4 @@
-Arnium subtile Cain & Mirza SPECIES
-=======
+# Arnium subtile Cain & Mirza SPECIES
 
 #### Status
 ACCEPTED

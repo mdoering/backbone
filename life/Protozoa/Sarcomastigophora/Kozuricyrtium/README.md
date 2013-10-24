@@ -1,5 +1,4 @@
-Kozuricyrtium Tekin, 1999 GENUS
-=======
+# Kozuricyrtium Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocyphellaria reineckeana (Müll. Arg.) D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria reineckeana (Müll. Arg.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

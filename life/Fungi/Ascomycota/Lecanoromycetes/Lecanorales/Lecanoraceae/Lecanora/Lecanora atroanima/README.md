@@ -1,5 +1,4 @@
-Lecanora atroanima Lumbsch SPECIES
-=======
+# Lecanora atroanima Lumbsch SPECIES
 
 #### Status
 ACCEPTED

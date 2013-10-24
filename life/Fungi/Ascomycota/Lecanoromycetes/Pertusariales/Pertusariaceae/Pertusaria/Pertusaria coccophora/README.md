@@ -1,5 +1,4 @@
-Pertusaria coccophora (Mont.) Nyl. SPECIES
-=======
+# Pertusaria coccophora (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

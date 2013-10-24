@@ -1,5 +1,4 @@
-Borrera acromela Pers. SPECIES
-=======
+# Borrera acromela Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena spinosa Métrod SPECIES
-=======
+# Mycena spinosa Métrod SPECIES
 
 #### Status
 ACCEPTED

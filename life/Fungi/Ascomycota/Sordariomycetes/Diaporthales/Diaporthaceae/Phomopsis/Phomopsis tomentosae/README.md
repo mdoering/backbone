@@ -1,5 +1,4 @@
-Phomopsis tomentosae Purkay. & Mallik SPECIES
-=======
+# Phomopsis tomentosae Purkay. & Mallik SPECIES
 
 #### Status
 ACCEPTED

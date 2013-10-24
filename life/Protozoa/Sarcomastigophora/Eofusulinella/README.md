@@ -1,5 +1,4 @@
-Eofusulinella Ektova, 1986 GENUS
-=======
+# Eofusulinella Ektova, 1986 GENUS
 
 #### Status
 ACCEPTED

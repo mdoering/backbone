@@ -1,5 +1,4 @@
-Hymenogaster cereus R. Hesse SPECIES
-=======
+# Hymenogaster cereus R. Hesse SPECIES
 
 #### Status
 ACCEPTED

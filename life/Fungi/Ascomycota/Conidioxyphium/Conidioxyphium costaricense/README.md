@@ -1,5 +1,4 @@
-Conidioxyphium costaricense var. costaricense VARIETY
-=======
+# Conidioxyphium costaricense Bat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Conidioxyphium costaricense var. costaricense
+Conidioxyphium costaricense Bat.
 
 ### Remarks
 null

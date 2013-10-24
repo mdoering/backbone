@@ -1,14 +1,13 @@
-Phylloporina lucida (R. Sant.) Szatala SPECIES
-=======
+# Porina lucida R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls hist. -nat. Mus. natn. hung. 7: 22 (1956)
+Symb. bot. upsal. 12(no. 1): 240 (1952)
 
 #### Original name
 Porina lucida R. Sant.

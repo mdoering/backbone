@@ -1,5 +1,4 @@
-Pythium glomeratum B. Paul SPECIES
-=======
+# Pythium glomeratum B. Paul SPECIES
 
 #### Status
 ACCEPTED

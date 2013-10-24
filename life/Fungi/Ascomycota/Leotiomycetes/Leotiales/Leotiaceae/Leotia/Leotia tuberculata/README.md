@@ -1,5 +1,4 @@
-Leotia tuberculata Fr. SPECIES
-=======
+# Leotia tuberculata Fr. SPECIES
 
 #### Status
 ACCEPTED

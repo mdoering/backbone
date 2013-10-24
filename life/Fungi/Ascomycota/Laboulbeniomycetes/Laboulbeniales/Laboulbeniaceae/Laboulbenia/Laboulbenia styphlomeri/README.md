@@ -1,5 +1,4 @@
-Laboulbenia styphlomeri S.W.T. Batra SPECIES
-=======
+# Laboulbenia styphlomeri S.W.T. Batra SPECIES
 
 #### Status
 ACCEPTED

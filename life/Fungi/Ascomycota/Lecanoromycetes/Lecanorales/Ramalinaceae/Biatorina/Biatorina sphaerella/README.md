@@ -1,5 +1,4 @@
-Biatorina sphaerella (Hedl.) Dombr. SPECIES
-=======
+# Biatorina sphaerella (Hedl.) Dombr. SPECIES
 
 #### Status
 ACCEPTED

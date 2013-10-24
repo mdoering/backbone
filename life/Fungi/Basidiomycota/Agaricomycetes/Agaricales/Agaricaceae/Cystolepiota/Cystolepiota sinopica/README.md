@@ -1,5 +1,4 @@
-Cystolepiota sinopica (Romagn.) Bon SPECIES
-=======
+# Cystolepiota sinopica (Romagn.) Bon SPECIES
 
 #### Status
 ACCEPTED

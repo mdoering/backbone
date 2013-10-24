@@ -1,5 +1,4 @@
-Pluricellaesporites trichocladites Kalgutkar SPECIES
-=======
+# Pluricellaesporites trichocladites Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

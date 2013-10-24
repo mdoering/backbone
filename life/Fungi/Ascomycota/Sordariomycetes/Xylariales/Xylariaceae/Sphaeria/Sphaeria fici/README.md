@@ -1,5 +1,4 @@
-Sphaeria fici Heer SPECIES
-=======
+# Sphaeria fici Heer SPECIES
 
 #### Status
 ACCEPTED

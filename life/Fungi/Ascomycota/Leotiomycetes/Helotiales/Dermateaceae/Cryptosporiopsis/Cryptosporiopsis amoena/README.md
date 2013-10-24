@@ -1,5 +1,4 @@
-Cryptosporiopsis amoena (Höhn.) Petr. SPECIES
-=======
+# Cryptosporiopsis amoena (Höhn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

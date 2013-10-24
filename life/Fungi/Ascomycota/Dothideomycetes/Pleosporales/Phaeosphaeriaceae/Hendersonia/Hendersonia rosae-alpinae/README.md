@@ -1,5 +1,4 @@
-Hendersonia rosae-alpinae Maire SPECIES
-=======
+# Hendersonia rosae-alpinae Maire SPECIES
 
 #### Status
 ACCEPTED

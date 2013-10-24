@@ -1,5 +1,4 @@
-Ustilaginoidea mossambicensis Henn. SPECIES
-=======
+# Ustilaginoidea mossambicensis Henn. SPECIES
 
 #### Status
 ACCEPTED

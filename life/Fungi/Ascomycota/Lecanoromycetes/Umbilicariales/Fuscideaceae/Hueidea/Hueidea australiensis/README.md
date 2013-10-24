@@ -1,5 +1,4 @@
-Hueidea australiensis Kantvilas & P. M. McCarthy SPECIES
-=======
+# Hueidea australiensis Kantvilas & P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

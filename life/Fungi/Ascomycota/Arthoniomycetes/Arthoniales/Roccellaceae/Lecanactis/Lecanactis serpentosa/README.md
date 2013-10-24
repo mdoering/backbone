@@ -1,5 +1,4 @@
-Lecanactis serpentosa (Nyl.) Nyl. SPECIES
-=======
+# Lecanactis serpentosa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

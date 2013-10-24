@@ -1,5 +1,4 @@
-Valsa rhabdospora De Not. SPECIES
-=======
+# Valsa rhabdospora De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium basiacutum Matsush. SPECIES
-=======
+# Sporidesmium basiacutum Matsush. SPECIES
 
 #### Status
 ACCEPTED

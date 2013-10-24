@@ -1,5 +1,4 @@
-Phyllosticta fraganiicola Sacc. SPECIES
-=======
+# Phyllosticta fraganiicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

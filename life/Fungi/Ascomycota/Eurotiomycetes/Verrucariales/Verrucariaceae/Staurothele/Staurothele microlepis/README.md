@@ -1,5 +1,4 @@
-Staurothele microlepis SPECIES
-=======
+# Staurothele microlepis SPECIES
 
 #### Status
 ACCEPTED

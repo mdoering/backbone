@@ -1,5 +1,4 @@
-Tricholoma holci SPECIES
-=======
+# Tricholoma holci SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium hederae Feltgen SPECIES
-=======
+# Microthyrium hederae Feltgen SPECIES
 
 #### Status
 ACCEPTED

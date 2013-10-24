@@ -1,5 +1,4 @@
-Rutstroemia viarum Starbäck SPECIES
-=======
+# Rutstroemia viarum Starbäck SPECIES
 
 #### Status
 ACCEPTED

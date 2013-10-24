@@ -1,5 +1,4 @@
-Porotheleum subtile (Schrad.) Fr. SPECIES
-=======
+# Porotheleum subtile (Schrad.) Fr. SPECIES
 
 #### Status
 ACCEPTED

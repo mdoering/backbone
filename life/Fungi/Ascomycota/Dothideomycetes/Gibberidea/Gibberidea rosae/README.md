@@ -1,5 +1,4 @@
-Gibberidea rosae (G. Winter & Sacc.) Kuntze SPECIES
-=======
+# Gibberidea rosae (G. Winter & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

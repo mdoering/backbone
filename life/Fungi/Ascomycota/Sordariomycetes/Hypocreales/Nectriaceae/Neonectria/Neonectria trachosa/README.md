@@ -1,5 +1,4 @@
-Neonectria trachosa Samuels & Brayford SPECIES
-=======
+# Neonectria trachosa Samuels & Brayford SPECIES
 
 #### Status
 ACCEPTED

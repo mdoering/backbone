@@ -1,5 +1,4 @@
-Cladosporium epichlois Lobik SPECIES
-=======
+# Cladosporium epichlois Lobik SPECIES
 
 #### Status
 ACCEPTED

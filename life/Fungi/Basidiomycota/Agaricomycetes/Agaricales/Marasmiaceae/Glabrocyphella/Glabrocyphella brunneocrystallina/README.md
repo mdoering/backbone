@@ -1,5 +1,4 @@
-Glabrocyphella brunneocrystallina W.B. Cooke, 1961 SPECIES
-=======
+# Glabrocyphella brunneocrystallina W.B. Cooke, 1961 SPECIES
 
 #### Status
 ACCEPTED

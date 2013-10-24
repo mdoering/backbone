@@ -1,5 +1,4 @@
-Rinodina versicolor SPECIES
-=======
+# Rinodina versicolor SPECIES
 
 #### Status
 ACCEPTED

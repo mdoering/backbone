@@ -1,5 +1,4 @@
-Vibrio cyclitrophicus Hedlund & Staley, 2001 SPECIES
-=======
+# Vibrio cyclitrophicus Hedlund & Staley, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium tomatonis E.G. Simmons SPECIES
-=======
+# Stemphylium tomatonis E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

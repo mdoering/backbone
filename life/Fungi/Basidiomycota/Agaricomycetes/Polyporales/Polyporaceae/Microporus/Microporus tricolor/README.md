@@ -1,5 +1,4 @@
-Microporus tricolor (Lév.) Kuntze SPECIES
-=======
+# Microporus tricolor (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

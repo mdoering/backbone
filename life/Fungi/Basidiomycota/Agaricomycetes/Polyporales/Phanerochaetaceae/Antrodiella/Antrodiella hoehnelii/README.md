@@ -1,17 +1,16 @@
-Coriolus hoehnelii f. hoehnelii FORM
-=======
+# Antrodiella hoehnelii (Bres.) Niemelä, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 22(1): 11 (1982)
 
 #### Original name
-null
+Polyporus hoehnelii Bres., 1912
 
 ### Remarks
 null

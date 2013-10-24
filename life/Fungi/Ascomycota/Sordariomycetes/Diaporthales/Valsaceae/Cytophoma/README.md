@@ -1,5 +1,4 @@
-Cytophoma GENUS
-=======
+# Cytophoma GENUS
 
 #### Status
 ACCEPTED

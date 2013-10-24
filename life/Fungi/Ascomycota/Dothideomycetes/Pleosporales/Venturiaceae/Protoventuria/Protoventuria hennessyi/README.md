@@ -1,5 +1,4 @@
-Protoventuria hennessyi Sivan. SPECIES
-=======
+# Protoventuria hennessyi Sivan. SPECIES
 
 #### Status
 ACCEPTED

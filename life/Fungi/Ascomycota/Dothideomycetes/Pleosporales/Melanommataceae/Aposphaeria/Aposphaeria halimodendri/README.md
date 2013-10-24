@@ -1,5 +1,4 @@
-Aposphaeria halimodendri Gucevic SPECIES
-=======
+# Aposphaeria halimodendri Gucevic SPECIES
 
 #### Status
 ACCEPTED

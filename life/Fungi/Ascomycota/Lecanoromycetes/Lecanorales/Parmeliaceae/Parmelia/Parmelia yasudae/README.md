@@ -1,5 +1,4 @@
-Parmelia yasudae Räsänen SPECIES
-=======
+# Parmelia yasudae Räsänen SPECIES
 
 #### Status
 ACCEPTED

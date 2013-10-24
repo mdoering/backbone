@@ -1,5 +1,4 @@
-Allas Sandon GENUS
-=======
+# Allas Sandon GENUS
 
 #### Status
 ACCEPTED

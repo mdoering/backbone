@@ -1,5 +1,4 @@
-Polychidium adpressum (Nyl.) Stizenb. SPECIES
-=======
+# Polychidium adpressum (Nyl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

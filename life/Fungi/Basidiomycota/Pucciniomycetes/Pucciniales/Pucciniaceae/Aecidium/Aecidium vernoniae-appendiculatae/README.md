@@ -1,5 +1,4 @@
-Aecidium vernoniae-appendiculatae Bouriquet & Bassino SPECIES
-=======
+# Aecidium vernoniae-appendiculatae Bouriquet & Bassino SPECIES
 
 #### Status
 ACCEPTED

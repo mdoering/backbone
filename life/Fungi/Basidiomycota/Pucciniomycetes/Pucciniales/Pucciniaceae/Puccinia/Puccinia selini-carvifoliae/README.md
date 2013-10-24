@@ -1,5 +1,4 @@
-Puccinia selini-carvifoliae Savul. SPECIES
-=======
+# Puccinia selini-carvifoliae Savul. SPECIES
 
 #### Status
 ACCEPTED

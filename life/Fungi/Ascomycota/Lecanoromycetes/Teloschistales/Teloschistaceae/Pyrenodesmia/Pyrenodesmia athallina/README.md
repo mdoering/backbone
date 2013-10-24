@@ -1,5 +1,4 @@
-Pyrenodesmia athallina (Darb.) C.W. Dodge & G.E. Baker SPECIES
-=======
+# Pyrenodesmia athallina (Darb.) C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

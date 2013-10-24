@@ -1,5 +1,4 @@
-Hexagonella peleae F. Stevens & Guba ex F. Stevens, 1925 SPECIES
-=======
+# Hexagonella peleae F. Stevens & Guba ex F. Stevens, 1925 SPECIES
 
 #### Status
 ACCEPTED

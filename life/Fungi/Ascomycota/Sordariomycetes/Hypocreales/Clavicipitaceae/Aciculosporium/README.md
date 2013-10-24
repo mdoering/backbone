@@ -1,5 +1,4 @@
-Aciculosporium I. Miyake GENUS
-=======
+# Aciculosporium I. Miyake GENUS
 
 #### Status
 ACCEPTED

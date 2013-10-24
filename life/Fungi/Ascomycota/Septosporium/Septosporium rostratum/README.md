@@ -1,5 +1,4 @@
-Septosporium rostratum M.B. Ellis SPECIES
-=======
+# Septosporium rostratum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmographum bactridis Henn. SPECIES
-=======
+# Phragmographum bactridis Henn. SPECIES
 
 #### Status
 ACCEPTED

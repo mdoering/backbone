@@ -1,5 +1,4 @@
-Erysiphe udaipurensis var. udaipurensis VARIETY
-=======
+# Erysiphe udaipurensis (M.K. Bhatn. & K.L. Kothari) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Schlechtendalia 4: 24 (2000)
 
 #### Original name
-Erysiphe udaipurensis var. udaipurensis
+Uncinula udaipurensis M.K. Bhatn. & K.L. Kothari
 
 ### Remarks
 null

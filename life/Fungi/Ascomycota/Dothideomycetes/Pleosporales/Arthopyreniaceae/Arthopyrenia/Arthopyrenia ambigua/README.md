@@ -1,5 +1,4 @@
-Arthopyrenia ambigua Zahlbr. SPECIES
-=======
+# Arthopyrenia ambigua Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

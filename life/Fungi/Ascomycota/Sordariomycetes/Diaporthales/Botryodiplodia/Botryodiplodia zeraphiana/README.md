@@ -1,5 +1,4 @@
-Botryodiplodia zeraphiana (Sacc.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia zeraphiana (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

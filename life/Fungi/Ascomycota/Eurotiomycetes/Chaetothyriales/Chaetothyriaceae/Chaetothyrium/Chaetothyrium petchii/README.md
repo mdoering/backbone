@@ -1,5 +1,4 @@
-Chaetothyrium petchii Hansf. SPECIES
-=======
+# Chaetothyrium petchii Hansf. SPECIES
 
 #### Status
 ACCEPTED

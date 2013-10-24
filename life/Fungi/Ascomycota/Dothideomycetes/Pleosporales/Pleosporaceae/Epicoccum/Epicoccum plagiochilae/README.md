@@ -1,5 +1,4 @@
-Epicoccum plagiochilae Racov. SPECIES
-=======
+# Epicoccum plagiochilae Racov. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype albocarnis Dargan & Bhatia SPECIES
-=======
+# Diatrype albocarnis Dargan & Bhatia SPECIES
 
 #### Status
 ACCEPTED

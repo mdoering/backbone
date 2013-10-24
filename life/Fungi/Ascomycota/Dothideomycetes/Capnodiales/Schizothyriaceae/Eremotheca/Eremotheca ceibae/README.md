@@ -1,5 +1,4 @@
-Eremotheca ceibae Bat. & J.A. Lima SPECIES
-=======
+# Eremotheca ceibae Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

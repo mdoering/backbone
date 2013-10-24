@@ -1,5 +1,4 @@
-Polyforama trivialis Pykhova, 1969 SPECIES
-=======
+# Polyforama trivialis Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

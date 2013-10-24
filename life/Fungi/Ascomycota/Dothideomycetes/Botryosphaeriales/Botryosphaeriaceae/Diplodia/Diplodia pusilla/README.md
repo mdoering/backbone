@@ -1,5 +1,4 @@
-Diplodia pusilla Sacc. & Briard SPECIES
-=======
+# Diplodia pusilla Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

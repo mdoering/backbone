@@ -1,5 +1,4 @@
-Rhodophyllus cyaneus (Murrill) Singer SPECIES
-=======
+# Rhodophyllus cyaneus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

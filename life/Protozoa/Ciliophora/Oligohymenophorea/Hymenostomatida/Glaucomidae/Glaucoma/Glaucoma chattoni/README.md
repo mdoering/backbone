@@ -1,5 +1,4 @@
-Glaucoma chattoni Corliss, 1959 SPECIES
-=======
+# Glaucoma chattoni Corliss, 1959 SPECIES
 
 #### Status
 ACCEPTED

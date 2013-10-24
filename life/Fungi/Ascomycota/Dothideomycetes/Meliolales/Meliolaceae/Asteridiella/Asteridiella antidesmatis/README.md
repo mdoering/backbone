@@ -1,5 +1,4 @@
-Asteridiella antidesmatis (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella antidesmatis (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

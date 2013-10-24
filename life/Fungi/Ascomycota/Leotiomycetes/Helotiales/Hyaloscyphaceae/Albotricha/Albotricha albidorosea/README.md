@@ -1,5 +1,4 @@
-Albotricha albidorosea (Rehm) SPECIES
-=======
+# Albotricha albidorosea (Rehm) SPECIES
 
 #### Status
 ACCEPTED

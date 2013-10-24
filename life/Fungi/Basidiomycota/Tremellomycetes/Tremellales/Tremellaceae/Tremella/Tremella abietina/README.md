@@ -1,5 +1,4 @@
-Tremella abietina Schumach. SPECIES
-=======
+# Tremella abietina Schumach. SPECIES
 
 #### Status
 ACCEPTED

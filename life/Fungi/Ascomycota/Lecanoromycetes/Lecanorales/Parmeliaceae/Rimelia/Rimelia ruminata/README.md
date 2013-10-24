@@ -1,5 +1,4 @@
-Rimelia ruminata (Zahlbr.) Hale & A. Fletcher SPECIES
-=======
+# Rimelia ruminata (Zahlbr.) Hale & A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

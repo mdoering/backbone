@@ -1,5 +1,4 @@
-Micropeltella macropelta (Penz. & Sacc.) Syd. & P. Syd. SPECIES
-=======
+# Micropeltella macropelta (Penz. & Sacc.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

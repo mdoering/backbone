@@ -1,5 +1,4 @@
-Mycosphaerella tokoroi Hara SPECIES
-=======
+# Mycosphaerella tokoroi Hara SPECIES
 
 #### Status
 ACCEPTED

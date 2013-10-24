@@ -1,5 +1,4 @@
-Paxina semitosta (Berk. & M.A. Curtis) Seaver SPECIES
-=======
+# Paxina semitosta (Berk. & M.A. Curtis) Seaver SPECIES
 
 #### Status
 ACCEPTED

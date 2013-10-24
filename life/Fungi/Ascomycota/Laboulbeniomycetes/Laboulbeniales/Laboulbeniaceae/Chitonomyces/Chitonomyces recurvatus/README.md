@@ -1,5 +1,4 @@
-Chitonomyces recurvatus Thaxt. SPECIES
-=======
+# Chitonomyces recurvatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

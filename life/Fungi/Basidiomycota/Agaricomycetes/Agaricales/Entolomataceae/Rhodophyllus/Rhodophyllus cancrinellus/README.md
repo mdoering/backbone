@@ -1,5 +1,4 @@
-Rhodophyllus cancrinellus M. Lange SPECIES
-=======
+# Rhodophyllus cancrinellus M. Lange SPECIES
 
 #### Status
 ACCEPTED

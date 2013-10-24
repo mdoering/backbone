@@ -1,5 +1,4 @@
-Hydrocybe laeta M.M. Moser SPECIES
-=======
+# Hydrocybe laeta M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

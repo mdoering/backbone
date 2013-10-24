@@ -1,5 +1,4 @@
-Clonostachys populi Harz SPECIES
-=======
+# Clonostachys populi Harz SPECIES
 
 #### Status
 ACCEPTED

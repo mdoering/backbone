@@ -1,5 +1,4 @@
-Septoria origani Brunaud SPECIES
-=======
+# Septoria origani Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptomelanconium piceae B. Sutton & R.L.C. Chao SPECIES
-=======
+# Leptomelanconium piceae B. Sutton & R.L.C. Chao SPECIES
 
 #### Status
 ACCEPTED

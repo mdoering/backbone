@@ -1,5 +1,4 @@
-Calosphaeria pulchelloidea (Cooke & Ellis) Ellis & Everh. SPECIES
-=======
+# Calosphaeria pulchelloidea (Cooke & Ellis) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

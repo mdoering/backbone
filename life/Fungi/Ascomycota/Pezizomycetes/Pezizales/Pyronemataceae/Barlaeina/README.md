@@ -1,5 +1,4 @@
-Barlaeina GENUS
-=======
+# Barlaeina GENUS
 
 #### Status
 ACCEPTED

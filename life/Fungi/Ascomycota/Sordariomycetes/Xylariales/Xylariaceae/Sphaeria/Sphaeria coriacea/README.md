@@ -1,5 +1,4 @@
-Sphaeria coriacea Sowerby SPECIES
-=======
+# Sphaeria coriacea Sowerby SPECIES
 
 #### Status
 ACCEPTED

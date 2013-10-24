@@ -1,5 +1,4 @@
-Kazachstania naganishii (Mikata, Ued.-Nishim. & Hisatomi) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania naganishii (Mikata, Ued.-Nishim. & Hisatomi) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

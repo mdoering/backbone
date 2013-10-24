@@ -1,5 +1,4 @@
-Rinodina innata Sheard SPECIES
-=======
+# Rinodina innata Sheard SPECIES
 
 #### Status
 ACCEPTED

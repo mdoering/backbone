@@ -1,5 +1,4 @@
-Phyllachora irregularis (Welw. & Curr.) A.L. Sm., 1898 SPECIES
-=======
+# Phyllachora irregularis (Welw. & Curr.) A.L. Sm., 1898 SPECIES
 
 #### Status
 DOUBTFUL

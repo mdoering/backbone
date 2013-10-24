@@ -1,5 +1,4 @@
-Cantharellus cuneiformis Fr. SPECIES
-=======
+# Cantharellus cuneiformis Fr. SPECIES
 
 #### Status
 ACCEPTED

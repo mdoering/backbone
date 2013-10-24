@@ -1,5 +1,4 @@
-Sphaeronaema platani Sousa da Câmara SPECIES
-=======
+# Sphaeronaema platani Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

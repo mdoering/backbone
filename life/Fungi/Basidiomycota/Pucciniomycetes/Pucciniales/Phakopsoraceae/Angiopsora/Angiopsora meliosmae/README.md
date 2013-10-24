@@ -1,5 +1,4 @@
-Angiopsora meliosmae (Kusano) Thirum. & F. Kern SPECIES
-=======
+# Angiopsora meliosmae (Kusano) Thirum. & F. Kern SPECIES
 
 #### Status
 ACCEPTED

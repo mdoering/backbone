@@ -1,14 +1,13 @@
-Melanconis maackii (Lar.N. Vassiljeva) Lar.N. Vassiljeva SPECIES
-=======
+# Leucodiaporthe maackii (Lar.N. Vassiljeva) M.E. Barr & Lar.N. Vassiljeva, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 99(6): 920 (2008)
 
 #### Original name
 Cryphonectria maackiae Lar.N. Vassiljeva, 1988

@@ -1,5 +1,4 @@
-Boletus amoenus Thüm. SPECIES
-=======
+# Boletus amoenus Thüm. SPECIES
 
 #### Status
 ACCEPTED

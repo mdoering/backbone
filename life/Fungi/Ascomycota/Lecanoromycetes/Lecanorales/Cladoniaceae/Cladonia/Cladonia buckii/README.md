@@ -1,5 +1,4 @@
-Cladonia buckii R.C. Harris SPECIES
-=======
+# Cladonia buckii R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

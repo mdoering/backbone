@@ -1,5 +1,4 @@
-Spermatodium netrosporum (Nägeli) Trevis. SPECIES
-=======
+# Spermatodium netrosporum (Nägeli) Trevis. SPECIES
 
 #### Status
 ACCEPTED

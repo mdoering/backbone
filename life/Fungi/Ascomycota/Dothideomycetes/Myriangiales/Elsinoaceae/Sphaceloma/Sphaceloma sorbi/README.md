@@ -1,14 +1,13 @@
-Gloeosporium sorbi Rostr., 1898 SPECIES
-=======
+# Sphaceloma sorbi (Rostr.) Jenkins, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aq. Inst. Biol. S. Paulo 38(3): 85 (1971)
 
 #### Original name
 Gloeosporium sorbi Rostr., 1898

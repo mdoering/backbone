@@ -1,5 +1,4 @@
-Gloeosporium majus Penz. SPECIES
-=======
+# Gloeosporium majus Penz. SPECIES
 
 #### Status
 ACCEPTED

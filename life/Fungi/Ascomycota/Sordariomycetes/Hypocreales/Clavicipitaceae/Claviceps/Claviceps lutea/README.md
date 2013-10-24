@@ -1,5 +1,4 @@
-Claviceps lutea Möller SPECIES
-=======
+# Claviceps lutea Möller SPECIES
 
 #### Status
 ACCEPTED

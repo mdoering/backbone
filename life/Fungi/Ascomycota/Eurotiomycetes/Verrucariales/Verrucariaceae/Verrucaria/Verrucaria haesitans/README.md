@@ -1,5 +1,4 @@
-Verrucaria haesitans Nyl. SPECIES
-=======
+# Verrucaria haesitans Nyl. SPECIES
 
 #### Status
 ACCEPTED

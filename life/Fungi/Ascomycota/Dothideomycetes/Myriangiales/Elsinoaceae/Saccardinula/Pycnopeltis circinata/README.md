@@ -1,5 +1,4 @@
-Pycnopeltis circinata Bat. SPECIES
-=======
+# Pycnopeltis circinata Bat. SPECIES
 
 #### Status
 ACCEPTED

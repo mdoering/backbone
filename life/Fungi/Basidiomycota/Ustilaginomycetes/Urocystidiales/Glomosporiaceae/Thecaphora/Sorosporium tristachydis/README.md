@@ -1,5 +1,4 @@
-Sorosporium tristachydis Syd. & P. Syd. SPECIES
-=======
+# Sorosporium tristachydis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

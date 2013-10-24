@@ -1,5 +1,4 @@
-Pleospora obtusa (Fuckel) Höhn. SPECIES
-=======
+# Pleospora obtusa (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

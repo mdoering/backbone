@@ -1,5 +1,4 @@
-Pseudomonas corrugata Roberts & Scarlett, 1981 SPECIES
-=======
+# Pseudomonas corrugata Roberts & Scarlett, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus subtestaceus Bres. SPECIES
-=======
+# Polyporus subtestaceus Bres. SPECIES
 
 #### Status
 ACCEPTED

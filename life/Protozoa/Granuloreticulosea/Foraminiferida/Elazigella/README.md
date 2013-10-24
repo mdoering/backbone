@@ -1,5 +1,4 @@
-Elazigella Sirel, 1999 GENUS
-=======
+# Elazigella Sirel, 1999 GENUS
 
 #### Status
 ACCEPTED

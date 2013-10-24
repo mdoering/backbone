@@ -1,5 +1,4 @@
-Opegrapha limitata Pers. SPECIES
-=======
+# Opegrapha limitata Pers. SPECIES
 
 #### Status
 ACCEPTED

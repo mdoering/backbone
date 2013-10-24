@@ -1,5 +1,4 @@
-Rosellinia clavariae (Tul.) G. Winter SPECIES
-=======
+# Rosellinia clavariae (Tul.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naumovozyma Kurtzman GENUS
-=======
+# Naumovozyma Kurtzman GENUS
 
 #### Status
 ACCEPTED

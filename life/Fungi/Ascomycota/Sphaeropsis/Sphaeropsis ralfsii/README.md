@@ -1,5 +1,4 @@
-Sphaeropsis ralfsii Berk. & Broome, 1850 SPECIES
-=======
+# Sphaeropsis ralfsii Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED

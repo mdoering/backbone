@@ -1,5 +1,4 @@
-Xylaria furcata var. furcata VARIETY
-=======
+# Xylaria furcata (Schwein.) Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 128 (1851)
+null
 
 #### Original name
-Xylaria furcata var. furcata
+Isaria furcata Schwein.
 
 ### Remarks
 null

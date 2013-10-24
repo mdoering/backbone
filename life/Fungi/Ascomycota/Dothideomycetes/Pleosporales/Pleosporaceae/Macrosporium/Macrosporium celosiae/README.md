@@ -1,5 +1,4 @@
-Macrosporium celosiae Tassi SPECIES
-=======
+# Macrosporium celosiae Tassi SPECIES
 
 #### Status
 ACCEPTED

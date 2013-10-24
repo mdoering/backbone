@@ -1,5 +1,4 @@
-Metopus rectus subsp. rectus SUBSPECIES
-=======
+# Metopus rectus (Kahl, 1932) Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

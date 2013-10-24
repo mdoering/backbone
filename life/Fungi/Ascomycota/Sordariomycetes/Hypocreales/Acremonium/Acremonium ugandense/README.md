@@ -1,5 +1,4 @@
-Acremonium ugandense Matsush., 1985 SPECIES
-=======
+# Acremonium ugandense Matsush., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus cupularis (Wahlenb.) Fr. SPECIES
-=======
+# Cantharellus cupularis (Wahlenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulasneinia leonis Zobel SPECIES
-=======
+# Tulasneinia leonis Zobel SPECIES
 
 #### Status
 ACCEPTED

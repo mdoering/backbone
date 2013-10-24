@@ -1,5 +1,4 @@
-Paenibacillus mendelii Smerda et al., 2005 SPECIES
-=======
+# Paenibacillus mendelii Smerda et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

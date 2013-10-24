@@ -1,5 +1,4 @@
-Laestadites Mesch. GENUS
-=======
+# Laestadites Mesch. GENUS
 
 #### Status
 ACCEPTED

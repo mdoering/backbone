@@ -1,14 +1,13 @@
-Nowakowskiella granulata Karling, 1944 SPECIES
-=======
+# Cladochytrium granulatum (Karling) Sparrow, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 71: 374 (1944)
+null
 
 #### Original name
 Nowakowskiella granulata Karling, 1944

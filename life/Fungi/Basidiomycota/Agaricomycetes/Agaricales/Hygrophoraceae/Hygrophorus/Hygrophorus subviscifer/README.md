@@ -1,5 +1,4 @@
-Hygrophorus subviscifer (P. Karst.) Harmaja SPECIES
-=======
+# Hygrophorus subviscifer (P. Karst.) Harmaja SPECIES
 
 #### Status
 ACCEPTED

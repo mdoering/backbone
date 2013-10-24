@@ -1,5 +1,4 @@
-Rhabdospora orobanches Hollós SPECIES
-=======
+# Rhabdospora orobanches Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Calopeltis lunariae (Fuckel) Bat. SPECIES
-=======
+# Leptothyrium lunariae Kunze, 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publções Inst. Micol. Recife 260: 39 (1960)
+Mykologische Hefte (Leipzig) 2: 79 (1823)
 
 #### Original name
-Microthyrium lunariae (Kunze) Fuckel, 1874
+Leptothyrium lunariae Kunze, 1823
 
 ### Remarks
 null

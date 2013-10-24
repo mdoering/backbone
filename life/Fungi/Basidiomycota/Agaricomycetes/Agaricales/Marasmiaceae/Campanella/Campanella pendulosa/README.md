@@ -1,8 +1,7 @@
-Campanella pendulosus Otieno SPECIES
-=======
+# Campanella pendulosa Otieno SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Campanella pendulosus Otieno
+Campanella pendulosa Otieno
 
 ### Remarks
 null

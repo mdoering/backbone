@@ -1,5 +1,4 @@
-Navicella spartii (Nitschke) Kuntze SPECIES
-=======
+# Navicella spartii (Nitschke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoroblastia latzelii Servít SPECIES
-=======
+# Amphoroblastia latzelii Servít SPECIES
 
 #### Status
 ACCEPTED

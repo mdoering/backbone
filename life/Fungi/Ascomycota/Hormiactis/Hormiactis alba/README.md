@@ -1,5 +1,4 @@
-Hormiactis alba Preuss, 1851 SPECIES
-=======
+# Hormiactis alba Preuss, 1851 SPECIES
 
 #### Status
 ACCEPTED

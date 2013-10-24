@@ -1,5 +1,4 @@
-Hippoperdon GENUS
-=======
+# Hippoperdon GENUS
 
 #### Status
 ACCEPTED

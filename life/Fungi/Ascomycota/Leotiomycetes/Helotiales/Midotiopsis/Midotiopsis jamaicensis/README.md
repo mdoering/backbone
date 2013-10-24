@@ -1,5 +1,4 @@
-Midotiopsis jamaicensis Dennis, 1954 SPECIES
-=======
+# Midotiopsis jamaicensis Dennis, 1954 SPECIES
 
 #### Status
 ACCEPTED

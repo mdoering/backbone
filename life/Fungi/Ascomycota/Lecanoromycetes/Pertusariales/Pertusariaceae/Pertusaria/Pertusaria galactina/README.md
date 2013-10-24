@@ -1,5 +1,4 @@
-Pertusaria galactina Zahlbr. SPECIES
-=======
+# Pertusaria galactina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

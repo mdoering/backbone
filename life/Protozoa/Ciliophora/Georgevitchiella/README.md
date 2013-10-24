@@ -1,5 +1,4 @@
-Georgevitchiella GENUS
-=======
+# Georgevitchiella GENUS
 
 #### Status
 ACCEPTED

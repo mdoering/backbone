@@ -1,5 +1,4 @@
-Amauroderma fuscoporia Wakef., 1948 SPECIES
-=======
+# Amauroderma fuscoporia Wakef., 1948 SPECIES
 
 #### Status
 ACCEPTED

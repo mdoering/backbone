@@ -1,5 +1,4 @@
-Passalora isotomae (Cif.) U. Braun & Crous SPECIES
-=======
+# Passalora isotomae (Cif.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

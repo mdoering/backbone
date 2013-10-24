@@ -1,5 +1,4 @@
-Puccinia rhynchosporicola Speg. SPECIES
-=======
+# Puccinia rhynchosporicola Speg. SPECIES
 
 #### Status
 ACCEPTED

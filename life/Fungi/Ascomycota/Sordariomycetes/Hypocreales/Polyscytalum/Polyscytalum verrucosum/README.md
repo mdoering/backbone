@@ -1,5 +1,4 @@
-Polyscytalum verrucosum B. Sutton, 1978 SPECIES
-=======
+# Polyscytalum verrucosum B. Sutton, 1978 SPECIES
 
 #### Status
 ACCEPTED

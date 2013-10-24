@@ -1,8 +1,7 @@
-Hysterographium zizyphi Pat. SPECIES
-=======
+# Hysterographium ziziphi Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hysterographium zizyphi Pat.
+Hysterographium ziziphi Pat.
 
 ### Remarks
 null

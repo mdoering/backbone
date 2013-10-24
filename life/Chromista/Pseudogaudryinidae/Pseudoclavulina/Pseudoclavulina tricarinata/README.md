@@ -1,8 +1,7 @@
-Clavulinoides tricarinatus Leroy, 1941 SPECIES
-=======
+# Pseudoclavulina tricarinata (Leroy, 1941) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Camarophyllus subrufescens (Peck) Murrill SPECIES
-=======
+# Camarophyllus subrufescens (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

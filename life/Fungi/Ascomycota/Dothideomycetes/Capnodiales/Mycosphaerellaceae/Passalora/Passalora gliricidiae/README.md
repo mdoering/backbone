@@ -1,17 +1,16 @@
-Cercospora gliricidiae var. gliricidiasis Gonz. Frag. & Cif. VARIETY
-=======
+# Passalora gliricidiae (Syd. & P. Syd.) U. Braun & Crous, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Dominic. Est. Agric. Moca, Ser. B, Bot. Bull. 11: 67 (1927)
+in Braun, Crous & Pons, Feddes Repert. 113(1-2): 119 (2002)
 
 #### Original name
-Cercospora gliricidiae var. gliricidiasis Gonz. Frag. & Cif.
+Cercospora gliricidiae Syd. & P. Syd., 1913
 
 ### Remarks
 null

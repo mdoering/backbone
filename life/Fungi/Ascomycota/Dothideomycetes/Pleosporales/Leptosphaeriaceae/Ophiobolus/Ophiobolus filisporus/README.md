@@ -1,5 +1,4 @@
-Ophiobolus filisporus (Cooke & Ellis) Sacc. SPECIES
-=======
+# Ophiobolus filisporus (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

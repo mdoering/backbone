@@ -1,5 +1,4 @@
-Leptosphaeria caffra Thüm. SPECIES
-=======
+# Leptosphaeria caffra Thüm. SPECIES
 
 #### Status
 ACCEPTED

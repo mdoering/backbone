@@ -1,5 +1,4 @@
-Ustilago drakensbergiana Vánky, 1999 SPECIES
-=======
+# Ustilago drakensbergiana Vánky, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia saccardiana Voglino SPECIES
-=======
+# Pestalotia saccardiana Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isariella candida Seifert, 1989 SPECIES
-=======
+# Isariella candida Seifert, 1989 SPECIES
 
 #### Status
 ACCEPTED

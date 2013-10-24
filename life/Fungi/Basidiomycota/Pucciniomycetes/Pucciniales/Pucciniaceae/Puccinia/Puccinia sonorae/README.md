@@ -1,5 +1,4 @@
-Puccinia sonorae Parmelee SPECIES
-=======
+# Puccinia sonorae Parmelee SPECIES
 
 #### Status
 ACCEPTED

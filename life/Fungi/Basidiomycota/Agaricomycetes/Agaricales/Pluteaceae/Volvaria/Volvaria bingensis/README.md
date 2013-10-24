@@ -1,5 +1,4 @@
-Volvaria bingensis Beeli SPECIES
-=======
+# Volvaria bingensis Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thomiella dessyi (Speg.) C.W. Dodge SPECIES
-=======
+# Thomiella dessyi (Speg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercoseptoria pruni-perciae (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria pruni-persicae (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 97(2): 92 (1981)
 
 #### Original name
 Cercospora pruni-persicae Sawada

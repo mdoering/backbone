@@ -1,5 +1,4 @@
-Lophiotrema sedi (Fuckel) Sacc. SPECIES
-=======
+# Lophiotrema sedi (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

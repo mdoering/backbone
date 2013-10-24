@@ -1,5 +1,4 @@
-Fusicladium carpini Osipian SPECIES
-=======
+# Fusicladium carpini Osipian SPECIES
 
 #### Status
 ACCEPTED

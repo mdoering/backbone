@@ -1,5 +1,4 @@
-Schizothrix aikenensis (Wolle) Philson SPECIES
-=======
+# Schizothrix aikenensis (Wolle) Philson SPECIES
 
 #### Status
 ACCEPTED

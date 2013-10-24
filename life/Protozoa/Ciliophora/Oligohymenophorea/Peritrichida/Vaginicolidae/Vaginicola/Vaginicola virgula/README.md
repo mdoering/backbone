@@ -1,5 +1,4 @@
-Vaginicola virgula (Penard, 1914) Kahl, 1935 SPECIES
-=======
+# Vaginicola virgula (Penard, 1914) Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

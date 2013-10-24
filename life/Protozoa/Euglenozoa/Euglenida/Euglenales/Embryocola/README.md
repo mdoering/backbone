@@ -1,5 +1,4 @@
-Embryocola Michajlow, 1969 GENUS
-=======
+# Embryocola Michajlow, 1969 GENUS
 
 #### Status
 ACCEPTED

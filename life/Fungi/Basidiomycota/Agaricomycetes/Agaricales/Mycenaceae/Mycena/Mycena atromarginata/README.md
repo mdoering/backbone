@@ -1,5 +1,4 @@
-Mycena atromarginata (Lasch) P. Kumm. SPECIES
-=======
+# Mycena atromarginata (Lasch) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

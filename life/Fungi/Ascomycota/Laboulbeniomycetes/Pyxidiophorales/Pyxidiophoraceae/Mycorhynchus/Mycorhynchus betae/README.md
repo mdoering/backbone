@@ -1,5 +1,4 @@
-Mycorhynchus betae (Hollrung) Sacc. & D. Sacc. SPECIES
-=======
+# Mycorhynchus betae (Hollrung) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

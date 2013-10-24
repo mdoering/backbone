@@ -1,5 +1,4 @@
-Dimerosporium gilgianum Henn. SPECIES
-=======
+# Dimerosporium gilgianum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta nitida (Roberge) Allescher in G. Winter SPECIES
-=======
+# Phyllosticta nitida (Roberge) Allescher in G. Winter SPECIES
 
 #### Status
 ACCEPTED

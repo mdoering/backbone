@@ -1,17 +1,16 @@
-Inocybe pseudoasterospora var. capitata Takah. Kobay. VARIETY
-=======
+# Inocybe pseudoasterospora Kühner & Boursier, 1932 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia, Beih. 124: 56 (2002)
+Bull. trimest. Soc. mycol. Fr. 48: 121 (1932)
 
 #### Original name
-Inocybe pseudoasterospora var. capitata Takah. Kobay.
+Inocybe pseudoasterospora Kühner & Boursier, 1932
 
 ### Remarks
 null

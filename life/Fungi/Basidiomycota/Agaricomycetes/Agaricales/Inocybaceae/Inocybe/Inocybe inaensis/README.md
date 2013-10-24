@@ -1,5 +1,4 @@
-Inocybe inaensis Kobayasi SPECIES
-=======
+# Inocybe inaensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

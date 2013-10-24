@@ -1,5 +1,4 @@
-Trichopeziza caesiolutea (Berk. & Broome) Sacc. SPECIES
-=======
+# Trichopeziza caesiolutea (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium innuptum Cummins SPECIES
-=======
+# Aecidium innuptum Cummins SPECIES
 
 #### Status
 ACCEPTED

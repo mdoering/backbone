@@ -1,14 +1,13 @@
-Amphiloma microlobum Müll. Arg. SPECIES
-=======
+# Caloplaca microloba (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 4: 93 (1896)
+Cat. Lich. Univers. 7: 247 (1931)
 
 #### Original name
 Amphiloma microlobum Müll. Arg.

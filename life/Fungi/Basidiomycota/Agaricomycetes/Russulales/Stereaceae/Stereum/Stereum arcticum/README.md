@@ -1,5 +1,4 @@
-Stereum arcticum Fr. SPECIES
-=======
+# Stereum arcticum Fr. SPECIES
 
 #### Status
 ACCEPTED

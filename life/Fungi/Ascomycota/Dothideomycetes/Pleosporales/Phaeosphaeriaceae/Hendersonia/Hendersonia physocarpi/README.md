@@ -1,5 +1,4 @@
-Hendersonia physocarpi (Ellis & Everh.) Kuntze SPECIES
-=======
+# Hendersonia physocarpi (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

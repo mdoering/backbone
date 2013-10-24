@@ -1,5 +1,4 @@
-Pestalotiopsis fuchsiae (Thüm.) Y.X. Chen SPECIES
-=======
+# Pestalotiopsis fuchsiae (Thüm.) Y.X. Chen SPECIES
 
 #### Status
 ACCEPTED

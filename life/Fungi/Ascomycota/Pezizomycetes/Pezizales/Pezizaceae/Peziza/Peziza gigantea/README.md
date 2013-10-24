@@ -1,5 +1,4 @@
-Peziza gigantea (Rehm) Sacc. & Trotter SPECIES
-=======
+# Peziza gigantea (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curreya peckiana Sacc. SPECIES
-=======
+# Curreya peckiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

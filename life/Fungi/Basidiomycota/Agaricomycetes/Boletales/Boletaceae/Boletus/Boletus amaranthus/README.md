@@ -1,5 +1,4 @@
-Boletus amaranthus Cetto SPECIES
-=======
+# Boletus amaranthus Cetto SPECIES
 
 #### Status
 ACCEPTED

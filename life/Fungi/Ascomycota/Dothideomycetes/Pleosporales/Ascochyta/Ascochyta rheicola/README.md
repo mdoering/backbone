@@ -1,5 +1,4 @@
-Ascochyta rheicola Sawada SPECIES
-=======
+# Ascochyta rheicola Sawada SPECIES
 
 #### Status
 ACCEPTED

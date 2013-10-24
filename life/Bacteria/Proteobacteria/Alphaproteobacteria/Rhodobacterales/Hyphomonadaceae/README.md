@@ -1,5 +1,4 @@
-Hyphomonadaceae FAMILY
-=======
+# Hyphomonadaceae FAMILY
 
 #### Status
 ACCEPTED

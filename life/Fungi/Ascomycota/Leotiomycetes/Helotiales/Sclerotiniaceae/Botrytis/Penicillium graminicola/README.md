@@ -1,5 +1,4 @@
-Penicillium graminicola Frisvad SPECIES
-=======
+# Penicillium graminicola Frisvad SPECIES
 
 #### Status
 DOUBTFUL

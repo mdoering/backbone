@@ -1,5 +1,4 @@
-Asterinella anamirtae Syd. & P. Syd. SPECIES
-=======
+# Asterinella anamirtae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

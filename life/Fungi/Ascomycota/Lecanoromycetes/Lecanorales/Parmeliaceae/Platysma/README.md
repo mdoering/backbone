@@ -1,5 +1,4 @@
-Platysma Nylander, 1855 GENUS
-=======
+# Platysma Nylander, 1855 GENUS
 
 #### Status
 ACCEPTED

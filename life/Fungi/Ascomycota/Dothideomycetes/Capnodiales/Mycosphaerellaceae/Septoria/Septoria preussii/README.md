@@ -1,5 +1,4 @@
-Septoria preussii (Sacc.) Andrian. SPECIES
-=======
+# Septoria preussii (Sacc.) Andrian. SPECIES
 
 #### Status
 ACCEPTED

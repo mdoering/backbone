@@ -1,5 +1,4 @@
-Hyalodiscus planus T. F. Kozyrenko SPECIES
-=======
+# Hyalodiscus planus T. F. Kozyrenko SPECIES
 
 #### Status
 ACCEPTED

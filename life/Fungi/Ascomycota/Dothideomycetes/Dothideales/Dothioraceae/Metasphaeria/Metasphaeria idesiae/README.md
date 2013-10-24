@@ -1,5 +1,4 @@
-Metasphaeria idesiae Pass. SPECIES
-=======
+# Metasphaeria idesiae Pass. SPECIES
 
 #### Status
 ACCEPTED

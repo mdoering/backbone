@@ -1,5 +1,4 @@
-Polyporus insularis Pers. SPECIES
-=======
+# Polyporus insularis Pers. SPECIES
 
 #### Status
 ACCEPTED

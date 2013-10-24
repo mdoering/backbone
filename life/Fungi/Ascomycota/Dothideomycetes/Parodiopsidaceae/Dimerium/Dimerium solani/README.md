@@ -1,5 +1,4 @@
-Dimerium solani Henn. SPECIES
-=======
+# Dimerium solani Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrinium carinatum Bucholtz SPECIES
-=======
+# Arthrinium carinatum Bucholtz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis francoae Speg. SPECIES
-=======
+# Phomopsis francoae Speg. SPECIES
 
 #### Status
 ACCEPTED

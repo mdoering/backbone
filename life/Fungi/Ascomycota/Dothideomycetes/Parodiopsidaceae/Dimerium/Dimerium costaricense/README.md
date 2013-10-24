@@ -1,5 +1,4 @@
-Dimerium costaricense Syd. SPECIES
-=======
+# Dimerium costaricense Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria lappae P. Karst. SPECIES
-=======
+# Septoria lappae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

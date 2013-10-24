@@ -1,5 +1,4 @@
-Sphaeronaemella cincta (Corda) Sacc. SPECIES
-=======
+# Sphaeronaemella cincta (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

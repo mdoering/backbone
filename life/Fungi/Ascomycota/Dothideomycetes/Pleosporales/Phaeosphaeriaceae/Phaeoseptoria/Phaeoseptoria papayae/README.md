@@ -1,5 +1,4 @@
-Phaeoseptoria papayae Speg., 1908 SPECIES
-=======
+# Phaeoseptoria papayae Speg., 1908 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma poterii Schltdl. SPECIES
-=======
+# Caeoma poterii Schltdl. SPECIES
 
 #### Status
 ACCEPTED

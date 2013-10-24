@@ -1,5 +1,4 @@
-Maghrebinia R. Below, 1981 GENUS
-=======
+# Maghrebinia R. Below, 1981 GENUS
 
 #### Status
 ACCEPTED

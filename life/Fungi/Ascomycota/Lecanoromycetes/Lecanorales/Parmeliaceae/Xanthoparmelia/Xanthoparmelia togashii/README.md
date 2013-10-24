@@ -1,5 +1,4 @@
-Xanthoparmelia togashii Kurok. SPECIES
-=======
+# Xanthoparmelia togashii Kurok. SPECIES
 
 #### Status
 ACCEPTED

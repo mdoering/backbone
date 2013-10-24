@@ -1,5 +1,4 @@
-Favolus tenuissimus Lév. SPECIES
-=======
+# Favolus tenuissimus Lév. SPECIES
 
 #### Status
 ACCEPTED

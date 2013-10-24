@@ -1,5 +1,4 @@
-Rhachomyces capucinus Thaxt. SPECIES
-=======
+# Rhachomyces capucinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

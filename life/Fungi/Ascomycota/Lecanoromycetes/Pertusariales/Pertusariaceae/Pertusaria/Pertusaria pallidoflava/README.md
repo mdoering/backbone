@@ -1,5 +1,4 @@
-Pertusaria pallidoflava Erichsen SPECIES
-=======
+# Pertusaria pallidoflava Erichsen SPECIES
 
 #### Status
 ACCEPTED

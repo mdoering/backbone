@@ -1,5 +1,4 @@
-Discoaster intercalaris Bukry, 1971 SPECIES
-=======
+# Discoaster intercalaris Bukry, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniella oryzae S. Ahmad SPECIES
-=======
+# Coniella oryzae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

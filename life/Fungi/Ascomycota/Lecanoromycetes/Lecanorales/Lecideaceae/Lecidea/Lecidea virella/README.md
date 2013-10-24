@@ -1,5 +1,4 @@
-Lecidea virella (Tuck.) SPECIES
-=======
+# Lecidea virella (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

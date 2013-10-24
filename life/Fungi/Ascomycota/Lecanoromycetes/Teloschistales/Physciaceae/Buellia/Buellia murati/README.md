@@ -1,5 +1,4 @@
-Buellia murati Werner SPECIES
-=======
+# Buellia murati Werner SPECIES
 
 #### Status
 ACCEPTED

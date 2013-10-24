@@ -1,5 +1,4 @@
-Graphis chlorocarpella Nyl. SPECIES
-=======
+# Graphis chlorocarpella Nyl. SPECIES
 
 #### Status
 ACCEPTED

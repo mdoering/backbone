@@ -1,5 +1,4 @@
-Usnea pseudorubicunda Asahina SPECIES
-=======
+# Usnea pseudorubicunda Asahina SPECIES
 
 #### Status
 ACCEPTED

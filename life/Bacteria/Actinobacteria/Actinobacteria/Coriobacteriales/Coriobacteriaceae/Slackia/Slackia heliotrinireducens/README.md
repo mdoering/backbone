@@ -1,5 +1,4 @@
-Slackia heliotrinireducens (Lanigan, 1983) Wade et al., 1999 SPECIES
-=======
+# Slackia heliotrinireducens (Lanigan, 1983) Wade et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

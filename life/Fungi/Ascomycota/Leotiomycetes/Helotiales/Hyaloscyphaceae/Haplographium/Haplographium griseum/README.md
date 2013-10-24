@@ -1,5 +1,4 @@
-Haplographium griseum Ellis & Langl. SPECIES
-=======
+# Haplographium griseum Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

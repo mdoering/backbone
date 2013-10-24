@@ -1,5 +1,4 @@
-Coccodothella fici (Henn.) E. Müll. & Sanwal SPECIES
-=======
+# Coccodothella fici (Henn.) E. Müll. & Sanwal SPECIES
 
 #### Status
 ACCEPTED

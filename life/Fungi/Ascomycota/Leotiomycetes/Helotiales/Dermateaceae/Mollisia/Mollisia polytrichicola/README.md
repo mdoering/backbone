@@ -1,5 +1,4 @@
-Mollisia polytrichicola Svrcek SPECIES
-=======
+# Mollisia polytrichicola Svrcek SPECIES
 
 #### Status
 ACCEPTED

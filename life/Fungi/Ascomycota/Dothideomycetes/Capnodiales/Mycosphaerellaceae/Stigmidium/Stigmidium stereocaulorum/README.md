@@ -1,5 +1,4 @@
-Stigmidium stereocaulorum Zhurb. & Triebel, 2008 SPECIES
-=======
+# Stigmidium stereocaulorum Zhurb. & Triebel, 2008 SPECIES
 
 #### Status
 ACCEPTED

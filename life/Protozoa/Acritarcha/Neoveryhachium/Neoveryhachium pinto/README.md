@@ -1,5 +1,4 @@
-Neoveryhachium pinto Cramer, Díez, Rodriguez & Fombella, 1976 SPECIES
-=======
+# Neoveryhachium pinto Cramer, Díez, Rodriguez & Fombella, 1976 SPECIES
 
 #### Status
 ACCEPTED

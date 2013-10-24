@@ -1,5 +1,4 @@
-Phthanotrochus arcanus Arnold, 1978 SPECIES
-=======
+# Phthanotrochus arcanus Arnold, 1978 SPECIES
 
 #### Status
 ACCEPTED

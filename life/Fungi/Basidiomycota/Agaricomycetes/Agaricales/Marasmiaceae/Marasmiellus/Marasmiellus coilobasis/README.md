@@ -1,5 +1,4 @@
-Marasmiellus coilobasis (Berk.) Singer SPECIES
-=======
+# Marasmiellus coilobasis (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

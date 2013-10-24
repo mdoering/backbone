@@ -1,5 +1,4 @@
-Normandinomyces pulchellae Cif. & Tomas. SPECIES
-=======
+# Normandinomyces pulchellae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora crepidis-grandiflorae Petr. SPECIES
-=======
+# Rhabdospora crepidis-grandiflorae Petr. SPECIES
 
 #### Status
 ACCEPTED

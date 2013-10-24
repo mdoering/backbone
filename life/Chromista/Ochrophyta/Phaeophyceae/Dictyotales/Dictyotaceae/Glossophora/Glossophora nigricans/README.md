@@ -1,8 +1,7 @@
-Dictyota nigricans J. Agardh SPECIES
-=======
+# Glossophora nigricans (J. Agardh) Womersley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Parmelia niitakana Asahina SPECIES
-=======
+# Parmelia niitakana Asahina SPECIES
 
 #### Status
 ACCEPTED

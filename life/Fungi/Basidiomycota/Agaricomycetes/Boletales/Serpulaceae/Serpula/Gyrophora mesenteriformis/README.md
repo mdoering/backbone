@@ -1,5 +1,4 @@
-Gyrophora mesenteriformis (Wulfen) Flörke SPECIES
-=======
+# Gyrophora mesenteriformis (Wulfen) Flörke SPECIES
 
 #### Status
 ACCEPTED

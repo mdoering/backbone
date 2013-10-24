@@ -1,5 +1,4 @@
-Crepidotus microsporus (P. Karst.) Pilát SPECIES
-=======
+# Crepidotus microsporus (P. Karst.) Pilát SPECIES
 
 #### Status
 ACCEPTED

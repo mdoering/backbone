@@ -1,5 +1,4 @@
-Mycosphaerella honckenyae Dominik SPECIES
-=======
+# Mycosphaerella honckenyae Dominik SPECIES
 
 #### Status
 ACCEPTED

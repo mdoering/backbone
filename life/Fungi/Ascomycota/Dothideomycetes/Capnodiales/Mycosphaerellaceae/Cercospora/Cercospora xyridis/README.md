@@ -1,5 +1,4 @@
-Cercospora xyridis Miles SPECIES
-=======
+# Cercospora xyridis Miles SPECIES
 
 #### Status
 ACCEPTED

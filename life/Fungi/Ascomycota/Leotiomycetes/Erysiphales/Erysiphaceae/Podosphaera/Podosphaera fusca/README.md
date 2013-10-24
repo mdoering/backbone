@@ -1,17 +1,16 @@
-Sphaerotheca erigerontis-canadensis (Lév.) L. Junell, 1966 SPECIES
-=======
+# Podosphaera fusca (Fr.) U. Braun & Shishkoff, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 60: 387 (1966)
+in Braun & Takamatsu, Schlechtendalia 4: 29 (2000)
 
 #### Original name
-Erysiphe erigerontis-canadensis Lév., 1843
+Erysiphe fusca Fr., 1829
 
 ### Remarks
 null

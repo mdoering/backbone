@@ -1,5 +1,4 @@
-Thelotrema isidiatum Hale SPECIES
-=======
+# Thelotrema isidiatum Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca balansae (Speg.) Singer SPECIES
-=======
+# Melanoleuca balansae (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus unguentolens Heinem. SPECIES
-=======
+# Agaricus unguentolens Heinem. SPECIES
 
 #### Status
 ACCEPTED

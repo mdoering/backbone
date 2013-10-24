@@ -1,5 +1,4 @@
-Diplodia cactorum Speg. SPECIES
-=======
+# Diplodia cactorum Speg. SPECIES
 
 #### Status
 ACCEPTED

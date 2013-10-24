@@ -1,5 +1,4 @@
-Phyllosticta owariensis Maubl. SPECIES
-=======
+# Phyllosticta owariensis Maubl. SPECIES
 
 #### Status
 ACCEPTED

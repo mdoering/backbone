@@ -1,5 +1,4 @@
-Cordyceps arbuscula Teng SPECIES
-=======
+# Cordyceps arbuscula Teng SPECIES
 
 #### Status
 ACCEPTED

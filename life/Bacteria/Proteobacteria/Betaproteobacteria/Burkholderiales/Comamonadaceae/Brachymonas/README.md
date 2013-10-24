@@ -1,5 +1,4 @@
-Brachymonas Hiraishi et al., 1995 GENUS
-=======
+# Brachymonas Hiraishi et al., 1995 GENUS
 
 #### Status
 ACCEPTED

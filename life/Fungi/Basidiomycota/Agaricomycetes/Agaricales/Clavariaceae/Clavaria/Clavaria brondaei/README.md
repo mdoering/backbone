@@ -1,5 +1,4 @@
-Clavaria brondaei Quél. SPECIES
-=======
+# Clavaria brondaei Quél. SPECIES
 
 #### Status
 ACCEPTED

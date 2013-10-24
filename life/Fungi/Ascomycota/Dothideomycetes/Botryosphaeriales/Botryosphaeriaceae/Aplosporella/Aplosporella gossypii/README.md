@@ -1,5 +1,4 @@
-Aplosporella gossypii (Died.) Petr. & Syd. SPECIES
-=======
+# Aplosporella gossypii (Died.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

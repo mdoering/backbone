@@ -1,5 +1,4 @@
-Sulfobacillus thermotolerans Bogdanova et al., 2006 SPECIES
-=======
+# Sulfobacillus thermotolerans Bogdanova et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

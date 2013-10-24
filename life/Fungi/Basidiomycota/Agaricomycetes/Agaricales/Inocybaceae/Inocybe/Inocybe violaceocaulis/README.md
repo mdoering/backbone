@@ -1,5 +1,4 @@
-Inocybe violaceocaulis Matheny & Bougher SPECIES
-=======
+# Inocybe violaceocaulis Matheny & Bougher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria longispora Corner SPECIES
-=======
+# Clavaria longispora Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonopsis guestphalicum (Rehm) Nannf., 1972 SPECIES
-=======
+# Belonopsis guestphalicum (Rehm) Nannf., 1972 SPECIES
 
 #### Status
 ACCEPTED

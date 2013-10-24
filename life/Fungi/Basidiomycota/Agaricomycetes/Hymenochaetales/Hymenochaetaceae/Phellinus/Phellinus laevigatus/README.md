@@ -1,17 +1,16 @@
-Polyporus laevigatus subsp. laevigatus Fr. SUBSPECIES
-=======
+# Phellinus laevigatus (Fr.) Bourdot & Galzin, 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 571 (1874)
+Hyménomyc. de France (Sceaux) 624 (1928)
 
 #### Original name
-Polyporus laevigatus subsp. laevigatus Fr.
+Polyporus laevigatus Fr., 1874
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ecklonia muratii Feldmann SPECIES
-=======
+# Ecklonia muratii Feldmann SPECIES
 
 #### Status
 ACCEPTED

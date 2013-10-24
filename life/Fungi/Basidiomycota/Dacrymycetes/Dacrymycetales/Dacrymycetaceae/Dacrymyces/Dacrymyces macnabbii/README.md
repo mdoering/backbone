@@ -1,5 +1,4 @@
-Dacrymyces macnabbii D.A. Reid, 1974 SPECIES
-=======
+# Dacrymyces macnabbii D.A. Reid, 1974 SPECIES
 
 #### Status
 ACCEPTED

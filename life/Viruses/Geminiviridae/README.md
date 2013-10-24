@@ -1,5 +1,4 @@
-Geminiviridae FAMILY
-=======
+# Geminiviridae FAMILY
 
 #### Status
 ACCEPTED

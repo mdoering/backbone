@@ -1,5 +1,4 @@
-Bryopogon nigricans SPECIES
-=======
+# Bryopogon nigricans SPECIES
 
 #### Status
 ACCEPTED

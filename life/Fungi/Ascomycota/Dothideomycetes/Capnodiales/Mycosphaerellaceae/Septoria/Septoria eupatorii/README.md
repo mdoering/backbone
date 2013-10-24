@@ -1,5 +1,4 @@
-Septoria eupatorii Roberge ex Desm., 1853 SPECIES
-=======
+# Septoria eupatorii Roberge ex Desm., 1853 SPECIES
 
 #### Status
 ACCEPTED

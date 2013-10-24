@@ -1,5 +1,4 @@
-Parmeliella deficiens (Nyl.) Zahlbr. SPECIES
-=======
+# Parmeliella deficiens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

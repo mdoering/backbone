@@ -1,5 +1,4 @@
-Caloplaca suberythrella (Nyl.) Clauzade & Rondon SPECIES
-=======
+# Caloplaca suberythrella (Nyl.) Clauzade & Rondon SPECIES
 
 #### Status
 ACCEPTED

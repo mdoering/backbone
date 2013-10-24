@@ -1,5 +1,4 @@
-Dermatea viburni J.W. Groves SPECIES
-=======
+# Dermatea viburni J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodobacillus GENUS
-=======
+# Rhodobacillus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurocapsa salevensis Chodat SPECIES
-=======
+# Pleurocapsa salevensis Chodat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella diaphanula (Cooke) Sacc. SPECIES
-=======
+# Pezizella diaphanula (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

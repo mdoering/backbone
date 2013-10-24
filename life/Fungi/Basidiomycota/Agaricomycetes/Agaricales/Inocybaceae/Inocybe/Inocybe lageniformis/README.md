@@ -1,5 +1,4 @@
-Inocybe lageniformis Takah. Kobay. SPECIES
-=======
+# Inocybe lageniformis Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctochytrium marinum Kobayasi & M. Ôkubo SPECIES
-=======
+# Phlyctochytrium marinum Kobayasi & M. Ôkubo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorella cyrtella (Ach.) SPECIES
-=======
+# Biatorella cyrtella (Ach.) SPECIES
 
 #### Status
 ACCEPTED

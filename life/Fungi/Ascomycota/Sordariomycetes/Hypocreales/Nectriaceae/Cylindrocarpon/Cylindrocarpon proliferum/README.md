@@ -1,5 +1,4 @@
-Cylindrocarpon proliferum Matsush. SPECIES
-=======
+# Cylindrocarpon proliferum Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brevilegnia minutandra Höhnk SPECIES
-=======
+# Brevilegnia minutandra Höhnk SPECIES
 
 #### Status
 ACCEPTED

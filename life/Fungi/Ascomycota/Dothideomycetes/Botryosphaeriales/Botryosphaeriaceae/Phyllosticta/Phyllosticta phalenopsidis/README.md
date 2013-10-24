@@ -1,5 +1,4 @@
-Phyllosticta phalenopsidis var. phalenopsidis VARIETY
-=======
+# Phyllosticta phalenopsidis Marchal & Verpl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta phalenopsidis var. phalenopsidis
+Phyllosticta phalenopsidis Marchal & Verpl.
 
 ### Remarks
 null

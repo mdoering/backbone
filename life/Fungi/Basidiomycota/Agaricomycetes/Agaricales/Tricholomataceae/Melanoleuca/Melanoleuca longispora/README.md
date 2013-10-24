@@ -1,5 +1,4 @@
-Melanoleuca longispora Singer SPECIES
-=======
+# Melanoleuca longispora Singer SPECIES
 
 #### Status
 ACCEPTED

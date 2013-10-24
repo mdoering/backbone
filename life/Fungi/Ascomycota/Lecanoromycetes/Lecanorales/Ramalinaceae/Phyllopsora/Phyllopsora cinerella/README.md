@@ -1,5 +1,4 @@
-Phyllopsora cinerella f. cinerella FORM
-=======
+# Phyllopsora cinerella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllopsora cinerella f. cinerella
+Phyllopsora cinerella Zahlbr.
 
 ### Remarks
 null

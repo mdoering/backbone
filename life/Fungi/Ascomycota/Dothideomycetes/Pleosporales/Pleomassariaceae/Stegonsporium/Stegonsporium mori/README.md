@@ -1,5 +1,4 @@
-Stegonsporium mori (Nomura) Sacc. & Trotter SPECIES
-=======
+# Stegonsporium mori (Nomura) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

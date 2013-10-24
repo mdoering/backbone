@@ -1,5 +1,4 @@
-Lecidea buettneri (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea buettneri (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

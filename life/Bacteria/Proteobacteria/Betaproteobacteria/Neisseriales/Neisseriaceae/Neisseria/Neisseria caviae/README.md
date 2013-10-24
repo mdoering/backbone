@@ -1,5 +1,4 @@
-Neisseria caviae Pelczar, 1953 SPECIES
-=======
+# Neisseria caviae Pelczar, 1953 SPECIES
 
 #### Status
 ACCEPTED

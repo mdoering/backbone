@@ -1,5 +1,4 @@
-Ceratitium penicillatum Rabenh. SPECIES
-=======
+# Ceratitium penicillatum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

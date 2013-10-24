@@ -1,17 +1,16 @@
-Cercospora styracae Chupp SPECIES
-=======
+# Cercospora styracis Chupp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph of Cercospora 559 (1954)
 
 #### Original name
-Cercospora styracae Chupp
+Cercospora styracis Chupp
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Usnea antiqua Swinscow & Krog SPECIES
-=======
+# Usnea antiqua Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

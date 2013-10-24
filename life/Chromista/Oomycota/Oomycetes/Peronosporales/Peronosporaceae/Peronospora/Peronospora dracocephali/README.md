@@ -1,5 +1,4 @@
-Peronospora dracocephali C.J. Li & Z.Y. Zhao SPECIES
-=======
+# Peronospora dracocephali C.J. Li & Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

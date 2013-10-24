@@ -1,5 +1,4 @@
-Laschia cinerascens Kalchbr. SPECIES
-=======
+# Laschia cinerascens Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

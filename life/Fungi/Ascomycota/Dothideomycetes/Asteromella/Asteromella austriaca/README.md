@@ -1,5 +1,4 @@
-Asteromella austriaca (Sacc.) H. Ruppr. SPECIES
-=======
+# Asteromella austriaca (Sacc.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

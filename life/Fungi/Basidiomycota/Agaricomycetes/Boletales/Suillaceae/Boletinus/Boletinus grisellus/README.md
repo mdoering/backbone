@@ -1,5 +1,4 @@
-Boletinus grisellus Peck SPECIES
-=======
+# Boletinus grisellus Peck SPECIES
 
 #### Status
 ACCEPTED

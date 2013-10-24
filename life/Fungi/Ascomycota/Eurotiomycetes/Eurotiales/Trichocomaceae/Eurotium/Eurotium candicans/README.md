@@ -1,5 +1,4 @@
-Eurotium candicans Kuntze SPECIES
-=======
+# Eurotium candicans Kuntze SPECIES
 
 #### Status
 ACCEPTED

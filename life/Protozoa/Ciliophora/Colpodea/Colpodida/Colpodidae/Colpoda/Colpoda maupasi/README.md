@@ -1,8 +1,7 @@
-Colpoda fastigata Kahl, 1931 SPECIES
-=======
+# Colpoda maupasi Enriques, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,14 +1,13 @@
-Agaricus hyacinthus Batsch, 1783 SPECIES
-=======
+# Hygrophorus hyacinthus (Batsch) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Halle) fig. 28 (1783)
+null
 
 #### Original name
 Agaricus hyacinthus Batsch, 1783

@@ -1,5 +1,4 @@
-Ganoderma lorenzianum (Kalchbr.) Pat. SPECIES
-=======
+# Ganoderma lorenzianum (Kalchbr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

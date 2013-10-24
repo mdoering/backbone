@@ -1,14 +1,13 @@
-Cetraria idahoensis Essl. SPECIES
-=======
+# Esslingeriana idahoensis (Essl.) Hale & M. J. Lai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bryologist 74(3): 366 (1971)
+in Lai, Quarterly Journal of the Taiwan Museum 33(3 & 4): 220 (1980)
 
 #### Original name
 Cetraria idahoensis Essl.

@@ -1,5 +1,4 @@
-Thalassiosira punctifera (Grunow) G.A. Fryxell, R. Simonsen & G.R. Hasle in Simonsen, 1974 SPECIES
-=======
+# Thalassiosira punctifera (Grunow) G.A. Fryxell, R. Simonsen & G.R. Hasle in Simonsen, 1974 SPECIES
 
 #### Status
 ACCEPTED

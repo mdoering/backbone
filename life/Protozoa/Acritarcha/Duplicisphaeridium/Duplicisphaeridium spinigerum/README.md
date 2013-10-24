@@ -1,5 +1,4 @@
-Duplicisphaeridium spinigerum (Górka, 1969) Górka, 1980 SPECIES
-=======
+# Duplicisphaeridium spinigerum (Górka, 1969) Górka, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kazachstania kunashirensis (S.A. James, J.P. Cai, I.N. Roberts & M.D. Collins) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania kunashirensis (S.A. James, J.P. Cai, I.N. Roberts & M.D. Collins) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

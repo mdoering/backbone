@@ -1,5 +1,4 @@
-Aecidium fraserae Trel. SPECIES
-=======
+# Aecidium fraserae Trel. SPECIES
 
 #### Status
 ACCEPTED

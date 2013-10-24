@@ -1,5 +1,4 @@
-Parmelia fecunda Hue SPECIES
-=======
+# Parmelia fecunda Hue SPECIES
 
 #### Status
 ACCEPTED

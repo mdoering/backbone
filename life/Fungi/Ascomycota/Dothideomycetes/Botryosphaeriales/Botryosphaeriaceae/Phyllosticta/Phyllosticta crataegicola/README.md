@@ -1,17 +1,16 @@
-Phyllosticta crataegi Speg., 1879 SPECIES
-=======
+# Phyllosticta crataegicola Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 483 (1879)
+Syll. fung. (Abellini) 3: 6 (1884)
 
 #### Original name
-Phyllosticta crataegi Speg., 1879
+Phyllosticta crataegicola Sacc., 1884
 
 ### Remarks
 null

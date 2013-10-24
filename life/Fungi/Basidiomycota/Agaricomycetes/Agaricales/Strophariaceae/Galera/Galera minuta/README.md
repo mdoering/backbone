@@ -1,5 +1,4 @@
-Galera minuta (Quél.) Cooke SPECIES
-=======
+# Galera minuta (Quél.) Cooke SPECIES
 
 #### Status
 ACCEPTED

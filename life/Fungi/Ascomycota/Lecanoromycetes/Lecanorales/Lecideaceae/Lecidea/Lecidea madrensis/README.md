@@ -1,5 +1,4 @@
-Lecidea madrensis (Kremp.) Nyl. SPECIES
-=======
+# Lecidea madrensis (Kremp.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

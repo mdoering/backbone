@@ -1,5 +1,4 @@
-Eucapsis carpatica J. Komárek & F. Hindák SPECIES
-=======
+# Eucapsis carpatica J. Komárek & F. Hindák SPECIES
 
 #### Status
 ACCEPTED

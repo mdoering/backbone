@@ -1,5 +1,4 @@
-Vestonyctus Yankovskij, 1978 GENUS
-=======
+# Vestonyctus Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

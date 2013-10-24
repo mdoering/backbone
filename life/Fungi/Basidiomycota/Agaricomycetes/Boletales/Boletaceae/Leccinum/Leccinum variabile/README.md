@@ -1,17 +1,16 @@
-Leccinum variabilis A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum variabile A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Michigan Bot. 6: 130 (1967)
 
 #### Original name
-Leccinum variabilis A.H. Sm., Thiers & Watling
+Leccinum variabile A.H. Sm., Thiers & Watling
 
 ### Remarks
 null

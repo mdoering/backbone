@@ -1,5 +1,4 @@
-Cercospora trematicola J.M. Yen SPECIES
-=======
+# Cercospora trematicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

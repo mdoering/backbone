@@ -1,5 +1,4 @@
-Clitocybe ramigena H.E. Bigelow SPECIES
-=======
+# Clitocybe ramigena H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

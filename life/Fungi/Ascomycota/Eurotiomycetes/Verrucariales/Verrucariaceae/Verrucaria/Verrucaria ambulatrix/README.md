@@ -1,5 +1,4 @@
-Verrucaria ambulatrix Nyl. SPECIES
-=======
+# Verrucaria ambulatrix Nyl. SPECIES
 
 #### Status
 ACCEPTED

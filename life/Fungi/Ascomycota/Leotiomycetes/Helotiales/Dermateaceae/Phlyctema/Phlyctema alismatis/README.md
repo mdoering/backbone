@@ -1,5 +1,4 @@
-Phlyctema alismatis Hollós SPECIES
-=======
+# Phlyctema alismatis Hollós SPECIES
 
 #### Status
 ACCEPTED

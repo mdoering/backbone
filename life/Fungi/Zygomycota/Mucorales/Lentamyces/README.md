@@ -1,5 +1,4 @@
-Lentamyces K. Hoffm. & K. Voigt GENUS
-=======
+# Lentamyces K. Hoffm. & K. Voigt GENUS
 
 #### Status
 ACCEPTED

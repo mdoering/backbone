@@ -1,17 +1,16 @@
-Ceriomyces terrestris var. terrestris VARIETY
-=======
+# Sporotrichopsis terrestris (Schulzer) Stalpers, 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 24: 451 (1874)
+Karstenia 40(1-2): 174 (2000)
 
 #### Original name
-Ceriomyces terrestris var. terrestris
+Ceriomyces terrestris Schulzer, 1874
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Botrytis purpureospadicea (Fuckel) Sacc. SPECIES
-=======
+# Botrytis purpureospadicea (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

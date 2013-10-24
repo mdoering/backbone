@@ -1,5 +1,4 @@
-Caloplaca italica B. de Lesd. SPECIES
-=======
+# Caloplaca italica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

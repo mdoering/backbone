@@ -1,5 +1,4 @@
-Rhizocarpon oberwinkleri Hertel SPECIES
-=======
+# Rhizocarpon oberwinkleri Hertel SPECIES
 
 #### Status
 ACCEPTED

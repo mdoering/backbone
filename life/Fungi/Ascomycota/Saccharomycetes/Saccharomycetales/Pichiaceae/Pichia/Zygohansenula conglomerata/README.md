@@ -1,5 +1,4 @@
-Zygohansenula conglomerata Krassiln. SPECIES
-=======
+# Zygohansenula conglomerata Krassiln. SPECIES
 
 #### Status
 ACCEPTED

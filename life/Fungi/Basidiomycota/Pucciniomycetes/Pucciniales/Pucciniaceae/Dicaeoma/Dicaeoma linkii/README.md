@@ -1,5 +1,4 @@
-Dicaeoma linkii (Klotzsch) Kuntze SPECIES
-=======
+# Dicaeoma linkii (Klotzsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

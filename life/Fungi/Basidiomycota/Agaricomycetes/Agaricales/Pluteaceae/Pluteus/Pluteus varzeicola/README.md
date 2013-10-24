@@ -1,5 +1,4 @@
-Pluteus varzeicola Singer SPECIES
-=======
+# Pluteus varzeicola Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria meliae Earle SPECIES
-=======
+# Nectria meliae Earle SPECIES
 
 #### Status
 ACCEPTED

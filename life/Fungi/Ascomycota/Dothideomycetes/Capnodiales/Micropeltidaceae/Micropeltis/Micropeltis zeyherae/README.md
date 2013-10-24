@@ -1,5 +1,4 @@
-Micropeltis zeyherae Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis zeyherae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

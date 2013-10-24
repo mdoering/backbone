@@ -1,5 +1,4 @@
-Inocybe salicis-herbaceae Kühner SPECIES
-=======
+# Inocybe salicis-herbaceae Kühner SPECIES
 
 #### Status
 ACCEPTED

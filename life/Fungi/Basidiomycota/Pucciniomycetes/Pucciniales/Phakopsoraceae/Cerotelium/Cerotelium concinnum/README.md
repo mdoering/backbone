@@ -1,5 +1,4 @@
-Cerotelium concinnum Syd. SPECIES
-=======
+# Cerotelium concinnum Syd. SPECIES
 
 #### Status
 ACCEPTED

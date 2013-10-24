@@ -1,5 +1,4 @@
-Polysphaeridium zoharyi (Rossignol, 1962) Bujak, Downie, Eaton & Williams, 1980 SPECIES
-=======
+# Polysphaeridium zoharyi (Rossignol, 1962) Bujak, Downie, Eaton & Williams, 1980 SPECIES
 
 #### Status
 DOUBTFUL

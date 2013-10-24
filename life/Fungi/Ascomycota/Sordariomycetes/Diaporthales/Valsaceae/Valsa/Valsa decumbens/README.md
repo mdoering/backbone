@@ -1,5 +1,4 @@
-Valsa decumbens (J.C. Schmidt) Nitschke SPECIES
-=======
+# Valsa decumbens (J.C. Schmidt) Nitschke SPECIES
 
 #### Status
 ACCEPTED

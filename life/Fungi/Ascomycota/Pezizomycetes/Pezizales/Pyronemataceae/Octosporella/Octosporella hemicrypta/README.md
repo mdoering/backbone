@@ -1,5 +1,4 @@
-Octosporella hemicrypta (Döbbeler) Döbbeler, 1980 SPECIES
-=======
+# Octosporella hemicrypta (Döbbeler) Döbbeler, 1980 SPECIES
 
 #### Status
 ACCEPTED

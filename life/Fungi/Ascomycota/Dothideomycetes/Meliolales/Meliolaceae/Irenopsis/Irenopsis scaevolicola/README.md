@@ -1,5 +1,4 @@
-Irenopsis scaevolicola (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis scaevolicola (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

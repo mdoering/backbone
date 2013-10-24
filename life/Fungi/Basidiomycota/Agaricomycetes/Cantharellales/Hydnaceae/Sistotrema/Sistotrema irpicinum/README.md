@@ -1,5 +1,4 @@
-Sistotrema irpicinum Berk. & Broome SPECIES
-=======
+# Sistotrema irpicinum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

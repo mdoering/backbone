@@ -1,14 +1,13 @@
-Polyporus ptychogaster F. Ludw., 1880 SPECIES
-=======
+# Postia ptychogaster (F. Ludw.) Vesterh., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. gesammt. Naturw. 3: 424 (1880)
+in Knudsen & Hansen, Nordic Jl Bot. 16(2): 213 (1996)
 
 #### Original name
 Polyporus ptychogaster F. Ludw., 1880

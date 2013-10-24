@@ -1,5 +1,4 @@
-Stictis saccardoi Rehm SPECIES
-=======
+# Stictis saccardoi Rehm SPECIES
 
 #### Status
 ACCEPTED

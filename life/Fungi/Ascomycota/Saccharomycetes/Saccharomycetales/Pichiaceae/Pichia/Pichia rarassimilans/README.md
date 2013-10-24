@@ -1,5 +1,4 @@
-Pichia rarassimilans Endoh, M. Suzuki, Omoto & Benno, 2008 SPECIES
-=======
+# Pichia rarassimilans Endoh, M. Suzuki, Omoto & Benno, 2008 SPECIES
 
 #### Status
 ACCEPTED

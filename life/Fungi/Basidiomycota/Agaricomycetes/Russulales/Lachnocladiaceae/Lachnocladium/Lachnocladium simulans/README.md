@@ -1,5 +1,4 @@
-Lachnocladium simulans Berk. & Broome SPECIES
-=======
+# Lachnocladium simulans Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

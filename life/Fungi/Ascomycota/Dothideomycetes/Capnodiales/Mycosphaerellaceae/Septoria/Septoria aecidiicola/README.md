@@ -1,5 +1,4 @@
-Septoria aecidiicola Pat. SPECIES
-=======
+# Septoria aecidiicola Pat. SPECIES
 
 #### Status
 ACCEPTED

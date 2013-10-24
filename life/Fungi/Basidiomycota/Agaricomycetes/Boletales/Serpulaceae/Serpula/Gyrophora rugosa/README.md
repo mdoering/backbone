@@ -1,5 +1,4 @@
-Gyrophora rugosa Hook. SPECIES
-=======
+# Gyrophora rugosa Hook. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterella passiflorae Henn. SPECIES
-=======
+# Asterella passiflorae Henn. SPECIES
 
 #### Status
 ACCEPTED

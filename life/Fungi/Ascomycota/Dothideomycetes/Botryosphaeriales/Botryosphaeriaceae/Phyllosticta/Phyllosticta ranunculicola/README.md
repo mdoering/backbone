@@ -1,5 +1,4 @@
-Phyllosticta ranunculicola Bubák & Picb. SPECIES
-=======
+# Phyllosticta ranunculicola Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

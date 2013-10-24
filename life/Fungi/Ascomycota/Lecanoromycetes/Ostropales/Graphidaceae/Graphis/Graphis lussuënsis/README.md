@@ -1,5 +1,4 @@
-Graphis lussuënsis Zahlbr. SPECIES
-=======
+# Graphis lussuënsis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

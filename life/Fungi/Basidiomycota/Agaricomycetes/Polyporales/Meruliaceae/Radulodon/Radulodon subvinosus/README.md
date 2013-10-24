@@ -1,14 +1,13 @@
-Irpex subvinosus (Berk. & Broome) Petch, 1923 SPECIES
-=======
+# Radulodon subvinosus (Berk. & Broome) Stalpers, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dis. Tea Bush 173 (1923)
+Folia cryptog. Estonica 33: 137 (1998)
 
 #### Original name
 Hydnum subvinosum Berk. & Broome, 1875

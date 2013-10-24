@@ -1,5 +1,4 @@
-Ovularites A.C. Whitford GENUS
-=======
+# Ovularites A.C. Whitford GENUS
 
 #### Status
 ACCEPTED

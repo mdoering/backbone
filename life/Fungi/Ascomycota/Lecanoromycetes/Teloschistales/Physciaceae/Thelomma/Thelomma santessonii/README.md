@@ -1,5 +1,4 @@
-Thelomma santessonii Tibell SPECIES
-=======
+# Thelomma santessonii Tibell SPECIES
 
 #### Status
 ACCEPTED

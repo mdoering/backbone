@@ -1,5 +1,4 @@
-Dimerospora proteiformis (A. Massal.) Novák {?} SPECIES
-=======
+# Dimerospora proteiformis (A. Massal.) Novák {?} SPECIES
 
 #### Status
 ACCEPTED

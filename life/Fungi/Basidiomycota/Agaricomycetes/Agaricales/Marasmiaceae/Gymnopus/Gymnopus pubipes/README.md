@@ -1,17 +1,16 @@
-Gymnopus pubipes var. pubipes VARIETY
-=======
+# Gymnopus pubipes Antonín, A. Ortega & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+in Ortega, Antonín & Esteve-Raventós, Mycotaxon 85: 69 (2003)
 
 #### Original name
-null
+Gymnopus pubipes Antonín, A. Ortega & Esteve-Rav.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thrombium viridifuscum (Eitner) Zschacke SPECIES
-=======
+# Thrombium viridifuscum (Eitner) Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria ampelos Schwein. SPECIES
-=======
+# Sphaeria ampelos Schwein. SPECIES
 
 #### Status
 ACCEPTED

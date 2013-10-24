@@ -1,14 +1,13 @@
-Leptosphaeria primulaecola (G. Winter) Sacc. SPECIES
-=======
+# Leptosphaeria primulicola (G. Winter) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 43 (1883)
 
 #### Original name
 Sphaerella primulicola G. Winter

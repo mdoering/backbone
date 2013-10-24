@@ -1,5 +1,4 @@
-Leptographium piriforme Greif, Gibas & Currah SPECIES
-=======
+# Leptographium piriforme Greif, Gibas & Currah SPECIES
 
 #### Status
 ACCEPTED

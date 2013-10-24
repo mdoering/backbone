@@ -1,5 +1,4 @@
-Ramularia mercurialis-perennis Roum. SPECIES
-=======
+# Ramularia mercurialis-perennis Roum. SPECIES
 
 #### Status
 ACCEPTED

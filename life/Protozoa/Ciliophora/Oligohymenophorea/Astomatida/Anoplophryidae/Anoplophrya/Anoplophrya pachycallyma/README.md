@@ -1,5 +1,4 @@
-Anoplophrya pachycallyma Georgevitch, 1941 SPECIES
-=======
+# Anoplophrya pachycallyma Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

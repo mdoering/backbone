@@ -1,14 +1,13 @@
-Pellicularia otagensis G. Cunn., 1953 SPECIES
-=======
+# Sistotrema otagense (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 81: 324 (1953)
+N. Z. Jl Bot. 29(3): 331 (1991)
 
 #### Original name
 Pellicularia otagensis G. Cunn., 1953

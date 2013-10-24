@@ -1,5 +1,4 @@
-Laboulbenia fuscata Thaxt. SPECIES
-=======
+# Laboulbenia fuscata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

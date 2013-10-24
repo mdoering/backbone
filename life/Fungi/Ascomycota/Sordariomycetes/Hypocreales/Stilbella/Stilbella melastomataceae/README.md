@@ -1,5 +1,4 @@
-Stilbella melastomataceae Henn. SPECIES
-=======
+# Stilbella melastomataceae Henn. SPECIES
 
 #### Status
 ACCEPTED

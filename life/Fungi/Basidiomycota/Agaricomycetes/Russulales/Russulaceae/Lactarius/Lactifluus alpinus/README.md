@@ -1,5 +1,4 @@
-Lactifluus alpinus (Peck) Kuntze SPECIES
-=======
+# Lactifluus alpinus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

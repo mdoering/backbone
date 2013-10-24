@@ -1,5 +1,4 @@
-Thalassochona Yankovskii, 1971 GENUS
-=======
+# Thalassochona Yankovskii, 1971 GENUS
 
 #### Status
 ACCEPTED

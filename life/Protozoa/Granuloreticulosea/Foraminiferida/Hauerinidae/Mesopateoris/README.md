@@ -1,5 +1,4 @@
-Mesopateoris McCulloch, 1977 GENUS
-=======
+# Mesopateoris McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

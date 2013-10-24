@@ -1,5 +1,4 @@
-Gymnodinium nagasakiense Takayama & Adachi, 1985 SPECIES
-=======
+# Gymnodinium nagasakiense Takayama & Adachi, 1985 SPECIES
 
 #### Status
 ACCEPTED

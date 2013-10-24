@@ -1,5 +1,4 @@
-Inocybe trinii (Weinm.) Quél. SPECIES
-=======
+# Inocybe trinii (Weinm.) Quél. SPECIES
 
 #### Status
 ACCEPTED

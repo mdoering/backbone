@@ -1,5 +1,4 @@
-Graphina hemisphaerica (Vain.) Zahlbr. SPECIES
-=======
+# Graphina hemisphaerica (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

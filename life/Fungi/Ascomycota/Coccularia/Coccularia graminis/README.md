@@ -1,5 +1,4 @@
-Coccularia graminis Cooke SPECIES
-=======
+# Coccularia graminis Cooke SPECIES
 
 #### Status
 ACCEPTED

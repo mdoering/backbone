@@ -1,5 +1,4 @@
-Embolus Haller, 1768 GENUS
-=======
+# Embolus Haller, 1768 GENUS
 
 #### Status
 ACCEPTED

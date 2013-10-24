@@ -1,5 +1,4 @@
-Depazea cinnamomea Saporta SPECIES
-=======
+# Depazea cinnamomea Saporta SPECIES
 
 #### Status
 ACCEPTED

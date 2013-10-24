@@ -1,5 +1,4 @@
-Parmelia ulophyllodes f. ulophyllodes FORM
-=======
+# Parmelia ulophyllodes (Vain.) Savicz SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia ulophyllodes f. ulophyllodes
+Parmelia dubia var. ulophyllodes Vain.
 
 ### Remarks
 null

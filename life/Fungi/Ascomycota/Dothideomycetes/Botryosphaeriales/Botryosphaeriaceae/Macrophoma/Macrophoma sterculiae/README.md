@@ -1,5 +1,4 @@
-Macrophoma sterculiae Siemaszko SPECIES
-=======
+# Macrophoma sterculiae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

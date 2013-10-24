@@ -1,5 +1,4 @@
-Neosemantis Popofsky, 1913 GENUS
-=======
+# Neosemantis Popofsky, 1913 GENUS
 
 #### Status
 ACCEPTED

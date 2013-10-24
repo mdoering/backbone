@@ -1,5 +1,4 @@
-Dactylaria oogena var. oogena (Mont.) Sacc. VARIETY
-=======
+# Dactylaria oogena (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 195 (1886)
 
 #### Original name
-Dactylaria oogena var. oogena (Mont.) Sacc.
+Dactylium oogenum Mont.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Kiitricha marina Nozawa, 1941 SPECIES
-=======
+# Kiitricha marina Nozawa, 1941 SPECIES
 
 #### Status
 ACCEPTED

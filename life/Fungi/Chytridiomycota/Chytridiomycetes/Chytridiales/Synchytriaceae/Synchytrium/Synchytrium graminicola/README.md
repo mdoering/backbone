@@ -1,5 +1,4 @@
-Synchytrium graminicola R. Sprague SPECIES
-=======
+# Synchytrium graminicola R. Sprague SPECIES
 
 #### Status
 ACCEPTED

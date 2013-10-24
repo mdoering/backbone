@@ -1,5 +1,4 @@
-Marinobacter zhanjiangensis Zhuang, Chen, Zhang, Tang, Wu, Tan, Li & Cui, 2009 SPECIES
-=======
+# Marinobacter zhanjiangensis Zhuang, Chen, Zhang, Tang, Wu, Tan, Li & Cui, 2009 SPECIES
 
 #### Status
 ACCEPTED

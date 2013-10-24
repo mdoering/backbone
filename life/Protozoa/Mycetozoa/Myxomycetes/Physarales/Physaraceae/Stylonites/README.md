@@ -1,5 +1,4 @@
-Stylonites E.M. Fries, 1848 GENUS
-=======
+# Stylonites E.M. Fries, 1848 GENUS
 
 #### Status
 ACCEPTED

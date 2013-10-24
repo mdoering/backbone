@@ -1,5 +1,4 @@
-Protoperidinium quiauecorne Balech SPECIES
-=======
+# Protoperidinium quiauecorne Balech SPECIES
 
 #### Status
 ACCEPTED

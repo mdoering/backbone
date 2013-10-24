@@ -1,5 +1,4 @@
-Oospora bruchiana Speg. SPECIES
-=======
+# Oospora bruchiana Speg. SPECIES
 
 #### Status
 ACCEPTED

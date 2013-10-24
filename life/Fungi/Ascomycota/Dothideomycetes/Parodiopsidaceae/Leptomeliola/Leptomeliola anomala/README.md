@@ -1,5 +1,4 @@
-Leptomeliola anomala (Tracy & Earle) Höhn. SPECIES
-=======
+# Leptomeliola anomala (Tracy & Earle) Höhn. SPECIES
 
 #### Status
 ACCEPTED

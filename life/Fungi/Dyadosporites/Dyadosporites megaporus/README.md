@@ -1,5 +1,4 @@
-Dyadosporites megaporus (Z.C. Song) Z.C. Song SPECIES
-=======
+# Dyadosporites megaporus (Z.C. Song) Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

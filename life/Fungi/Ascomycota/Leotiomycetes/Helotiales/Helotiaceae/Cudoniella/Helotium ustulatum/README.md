@@ -1,5 +1,4 @@
-Helotium ustulatum Boud. SPECIES
-=======
+# Helotium ustulatum Boud. SPECIES
 
 #### Status
 ACCEPTED

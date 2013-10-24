@@ -1,5 +1,4 @@
-Blennothrix glutinosa (Gomont ex Gomont) Anagnostidis & Komárek, 2001 SPECIES
-=======
+# Blennothrix glutinosa (Gomont ex Gomont) Anagnostidis & Komárek, 2001 SPECIES
 
 #### Status
 ACCEPTED

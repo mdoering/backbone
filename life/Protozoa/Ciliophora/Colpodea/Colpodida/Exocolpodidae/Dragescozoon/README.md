@@ -1,5 +1,4 @@
-Dragescozoon Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Dragescozoon Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

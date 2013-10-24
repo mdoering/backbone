@@ -1,5 +1,4 @@
-Gymnopilus tyallus Grgur. SPECIES
-=======
+# Gymnopilus tyallus Grgur. SPECIES
 
 #### Status
 ACCEPTED

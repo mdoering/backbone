@@ -1,5 +1,4 @@
-Rhizocarpon convexulum Zahlbr. SPECIES
-=======
+# Rhizocarpon convexulum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

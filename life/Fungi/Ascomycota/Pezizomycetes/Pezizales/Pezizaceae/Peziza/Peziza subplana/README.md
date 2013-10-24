@@ -1,5 +1,4 @@
-Peziza subplana Schumach. SPECIES
-=======
+# Peziza subplana Schumach. SPECIES
 
 #### Status
 ACCEPTED

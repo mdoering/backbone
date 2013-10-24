@@ -1,5 +1,4 @@
-Sphaerella ericae-ciliaris Unamuno SPECIES
-=======
+# Sphaerella ericae-ciliaris Unamuno SPECIES
 
 #### Status
 ACCEPTED

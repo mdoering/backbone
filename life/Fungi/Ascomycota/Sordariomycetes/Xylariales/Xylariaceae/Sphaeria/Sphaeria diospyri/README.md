@@ -1,5 +1,4 @@
-Sphaeria diospyri Schwein. SPECIES
-=======
+# Sphaeria diospyri Schwein. SPECIES
 
 #### Status
 ACCEPTED

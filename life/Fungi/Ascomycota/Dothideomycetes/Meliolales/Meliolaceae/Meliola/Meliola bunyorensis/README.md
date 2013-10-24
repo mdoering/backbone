@@ -1,5 +1,4 @@
-Meliola bunyorensis Hansf. SPECIES
-=======
+# Meliola bunyorensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

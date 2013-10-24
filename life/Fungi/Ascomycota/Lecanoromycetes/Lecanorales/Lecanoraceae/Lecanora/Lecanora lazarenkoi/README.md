@@ -1,5 +1,4 @@
-Lecanora lazarenkoi f. lazarenkoi FORM
-=======
+# Lecanora lazarenkoi Oxner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora lazarenkoi f. lazarenkoi
+Lecanora lazarenkoi Oxner
 
 ### Remarks
 null

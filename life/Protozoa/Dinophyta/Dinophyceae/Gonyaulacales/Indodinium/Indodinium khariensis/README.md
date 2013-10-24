@@ -1,5 +1,4 @@
-Indodinium khariensis A. Kumar SPECIES
-=======
+# Indodinium khariensis A. Kumar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma canadense (Ellis & Everh.) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma canadense (Ellis & Everh.) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pinnaticoemansia Kurihara & Degawa GENUS
-=======
+# Pinnaticoemansia Kurihara & Degawa GENUS
 
 #### Status
 ACCEPTED

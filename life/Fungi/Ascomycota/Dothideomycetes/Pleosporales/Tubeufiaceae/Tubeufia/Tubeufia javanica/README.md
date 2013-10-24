@@ -1,5 +1,4 @@
-Tubeufia javanica Penz. & Sacc., 1898 SPECIES
-=======
+# Tubeufia javanica Penz. & Sacc., 1898 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia arenacea M. Schultz SPECIES
-=======
+# Heppia arenacea M. Schultz SPECIES
 
 #### Status
 ACCEPTED

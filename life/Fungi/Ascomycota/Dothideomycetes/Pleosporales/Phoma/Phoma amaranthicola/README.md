@@ -1,5 +1,4 @@
-Phoma amaranthicola Brunaud SPECIES
-=======
+# Phoma amaranthicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

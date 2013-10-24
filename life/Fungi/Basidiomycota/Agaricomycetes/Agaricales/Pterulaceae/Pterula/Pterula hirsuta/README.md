@@ -1,5 +1,4 @@
-Pterula hirsuta Henn. SPECIES
-=======
+# Pterula hirsuta Henn. SPECIES
 
 #### Status
 ACCEPTED

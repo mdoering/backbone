@@ -1,5 +1,4 @@
-Urceolaria caesiopruinosa (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria caesiopruinosa (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

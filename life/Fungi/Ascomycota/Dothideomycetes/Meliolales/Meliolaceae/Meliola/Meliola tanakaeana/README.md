@@ -1,5 +1,4 @@
-Meliola tanakaeana I. Hino & Katum. SPECIES
-=======
+# Meliola tanakaeana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

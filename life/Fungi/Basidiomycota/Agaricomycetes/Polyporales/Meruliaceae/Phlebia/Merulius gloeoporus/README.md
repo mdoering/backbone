@@ -1,5 +1,4 @@
-Merulius gloeoporus Rick SPECIES
-=======
+# Merulius gloeoporus Rick SPECIES
 
 #### Status
 ACCEPTED

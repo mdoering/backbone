@@ -1,17 +1,16 @@
-Trypethelium annulare * meiophorum Nyl. INFRASPECIFIC_NAME
-=======
+# Trypethelium annulare (Fée) Mont. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Trypethelium annulare * meiophorum Nyl.
+Trypethelium annulare (Fée) Mont.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Huglusphaera aspinosa SPECIES
-=======
+# Huglusphaera aspinosa SPECIES
 
 #### Status
 ACCEPTED

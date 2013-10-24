@@ -1,5 +1,4 @@
-Psoroma discernens Nyl. SPECIES
-=======
+# Psoroma discernens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella cydoniae Oudem. SPECIES
-=======
+# Dothiorella cydoniae Oudem. SPECIES
 
 #### Status
 ACCEPTED

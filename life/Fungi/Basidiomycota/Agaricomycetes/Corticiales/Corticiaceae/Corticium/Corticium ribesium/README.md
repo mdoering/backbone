@@ -1,5 +1,4 @@
-Corticium ribesium (Fr.) Sacc. SPECIES
-=======
+# Corticium ribesium (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

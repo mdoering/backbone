@@ -1,5 +1,4 @@
-Leptophrys elegans Hertwig & Less. SPECIES
-=======
+# Leptophrys elegans Hertwig & Less. SPECIES
 
 #### Status
 ACCEPTED

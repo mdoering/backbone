@@ -1,5 +1,4 @@
-Gonyaulacysta longicornis (Downie, 1957) Sarjeant, 1969 SPECIES
-=======
+# Gonyaulacysta longicornis (Downie, 1957) Sarjeant, 1969 SPECIES
 
 #### Status
 ACCEPTED

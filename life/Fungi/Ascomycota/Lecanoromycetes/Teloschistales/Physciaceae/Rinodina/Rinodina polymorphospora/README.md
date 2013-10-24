@@ -1,5 +1,4 @@
-Rinodina polymorphospora Giralt & van den Boom SPECIES
-=======
+# Rinodina polymorphospora Giralt & van den Boom SPECIES
 
 #### Status
 ACCEPTED

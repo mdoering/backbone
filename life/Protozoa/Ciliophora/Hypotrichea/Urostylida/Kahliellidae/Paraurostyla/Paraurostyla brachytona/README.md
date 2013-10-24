@@ -1,5 +1,4 @@
-Paraurostyla brachytona SPECIES
-=======
+# Paraurostyla brachytona SPECIES
 
 #### Status
 ACCEPTED

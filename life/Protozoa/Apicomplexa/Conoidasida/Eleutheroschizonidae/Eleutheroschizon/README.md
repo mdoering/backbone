@@ -1,5 +1,4 @@
-Eleutheroschizon Brasil, 1906 GENUS
-=======
+# Eleutheroschizon Brasil, 1906 GENUS
 
 #### Status
 ACCEPTED

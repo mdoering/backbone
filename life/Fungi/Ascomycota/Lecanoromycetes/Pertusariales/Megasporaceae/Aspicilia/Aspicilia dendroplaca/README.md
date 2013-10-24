@@ -1,5 +1,4 @@
-Aspicilia dendroplaca (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia dendroplaca (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

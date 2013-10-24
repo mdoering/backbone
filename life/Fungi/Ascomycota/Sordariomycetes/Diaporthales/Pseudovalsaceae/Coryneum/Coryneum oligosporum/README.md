@@ -1,5 +1,4 @@
-Coryneum oligosporum Corda SPECIES
-=======
+# Coryneum oligosporum Corda SPECIES
 
 #### Status
 ACCEPTED

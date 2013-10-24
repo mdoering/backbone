@@ -1,5 +1,4 @@
-Melanoleuca hygrophorus Murrill SPECIES
-=======
+# Melanoleuca hygrophorus Murrill SPECIES
 
 #### Status
 ACCEPTED

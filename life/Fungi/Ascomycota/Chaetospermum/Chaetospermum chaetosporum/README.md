@@ -1,17 +1,16 @@
-Chaetospermum tubercularioides Sacc., 1892 SPECIES
-=======
+# Chaetospermum chaetosporum (Pat.) A.L. Sm. & Ramsb., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 4: 328 (1914)
 
 #### Original name
-null
+Tubercularia chaetospora Pat.
 
 ### Remarks
 null

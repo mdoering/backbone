@@ -1,5 +1,4 @@
-Sphacelaria taitensis Setchell SPECIES
-=======
+# Sphacelaria taitensis Setchell SPECIES
 
 #### Status
 ACCEPTED

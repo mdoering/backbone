@@ -1,5 +1,4 @@
-Hirtellosphaeridium GENUS
-=======
+# Hirtellosphaeridium GENUS
 
 #### Status
 ACCEPTED

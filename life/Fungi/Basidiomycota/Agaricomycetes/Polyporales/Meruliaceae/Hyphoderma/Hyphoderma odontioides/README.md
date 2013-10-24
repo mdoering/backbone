@@ -1,5 +1,4 @@
-Hyphoderma odontioides (Burt) Donk SPECIES
-=======
+# Hyphoderma odontioides (Burt) Donk SPECIES
 
 #### Status
 ACCEPTED

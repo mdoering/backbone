@@ -1,5 +1,4 @@
-Gyrothrix thevetiae (Chona & Munjal) Piroz. SPECIES
-=======
+# Gyrothrix thevetiae (Chona & Munjal) Piroz. SPECIES
 
 #### Status
 ACCEPTED

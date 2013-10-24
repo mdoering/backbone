@@ -1,5 +1,4 @@
-Miriquidica paanaënsis (Räsänen & Laurila) M.P. Andreev SPECIES
-=======
+# Miriquidica paanaënsis (Räsänen & Laurila) M.P. Andreev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypetheliomyces virentis Cif. & Tomas. SPECIES
-=======
+# Trypetheliomyces virentis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

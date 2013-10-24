@@ -1,5 +1,4 @@
-Coprinus saatiensis Henn. SPECIES
-=======
+# Coprinus saatiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

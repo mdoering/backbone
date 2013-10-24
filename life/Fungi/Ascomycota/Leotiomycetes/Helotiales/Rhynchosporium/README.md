@@ -1,5 +1,4 @@
-Rhynchosporium Heinsen ex A.B. Frank, 1897 GENUS
-=======
+# Rhynchosporium Heinsen ex A.B. Frank, 1897 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma laricis (Westend.) R. Hartig SPECIES
-=======
+# Caeoma laricis (Westend.) R. Hartig SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium cotini Schleich. SPECIES
-=======
+# Hysterium cotini Schleich. SPECIES
 
 #### Status
 ACCEPTED

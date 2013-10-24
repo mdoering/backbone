@@ -1,5 +1,4 @@
-Pachysporaria amniocola (Ach.) M. Choisy SPECIES
-=======
+# Pachysporaria amniocola (Ach.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eiffellithaceae Reinhardt, 1965 FAMILY
-=======
+# Eiffellithaceae Reinhardt, 1965 FAMILY
 
 #### Status
 ACCEPTED

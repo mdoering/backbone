@@ -1,5 +1,4 @@
-Phacidites gmelinorum (Heer) Schimp. SPECIES
-=======
+# Phacidites gmelinorum (Heer) Schimp. SPECIES
 
 #### Status
 ACCEPTED

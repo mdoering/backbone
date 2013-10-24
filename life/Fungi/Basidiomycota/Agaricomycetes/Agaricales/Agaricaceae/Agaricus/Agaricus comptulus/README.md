@@ -1,5 +1,4 @@
-Agaricus comptulus Fr. SPECIES
-=======
+# Agaricus comptulus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus glutinosus Krombh. SPECIES
-=======
+# Boletus glutinosus Krombh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fayodia anthracobia var. bisphaerigerella (M. Lange) Antonín & Noordel. VARIETY
-=======
+# Fayodia anthracobia (J. Favre) Knudsen, 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Antonín, Persoonia 18(3): 349 (2004)
+in Knudsen & Hansen, Nordic Jl Bot. 11(4): 477 (1991)
 
 #### Original name
-Omphalia bisphaerigerella M. Lange
+Fayodia bisphaerigera var. anthracobia J. Favre, 1948
 
 ### Remarks
 null

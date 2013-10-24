@@ -1,5 +1,4 @@
-Ustanciosporium virginianum Vánky, 2006 SPECIES
-=======
+# Ustanciosporium virginianum Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus auricomus (Guég.) Saito, 1939 SPECIES
-=======
+# Aspergillus auricomus (Guég.) Saito, 1939 SPECIES
 
 #### Status
 ACCEPTED

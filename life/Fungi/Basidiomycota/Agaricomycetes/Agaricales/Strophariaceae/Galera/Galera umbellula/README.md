@@ -1,5 +1,4 @@
-Galera umbellula Mont. SPECIES
-=======
+# Galera umbellula Mont. SPECIES
 
 #### Status
 ACCEPTED

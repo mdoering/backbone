@@ -1,5 +1,4 @@
-Hebeloma moseri Singer SPECIES
-=======
+# Hebeloma moseri Singer SPECIES
 
 #### Status
 ACCEPTED

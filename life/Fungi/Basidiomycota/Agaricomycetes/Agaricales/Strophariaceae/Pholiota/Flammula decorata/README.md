@@ -1,5 +1,4 @@
-Flammula decorata Murrill SPECIES
-=======
+# Flammula decorata Murrill SPECIES
 
 #### Status
 ACCEPTED

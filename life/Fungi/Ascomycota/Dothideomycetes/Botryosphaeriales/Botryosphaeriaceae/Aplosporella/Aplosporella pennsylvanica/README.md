@@ -1,5 +1,4 @@
-Aplosporella pennsylvanica (Berk. & M.A. Curtis) Petr. & Syd. SPECIES
-=======
+# Aplosporella pennsylvanica (Berk. & M.A. Curtis) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

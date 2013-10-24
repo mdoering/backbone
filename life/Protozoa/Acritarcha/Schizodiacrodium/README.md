@@ -1,5 +1,4 @@
-Schizodiacrodium G.Burmann GENUS
-=======
+# Schizodiacrodium G.Burmann GENUS
 
 #### Status
 ACCEPTED

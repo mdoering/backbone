@@ -1,5 +1,4 @@
-Hygroaster Singer GENUS
-=======
+# Hygroaster Singer GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoridium uberinum A. Massal. SPECIES
-=======
+# Amphoridium uberinum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

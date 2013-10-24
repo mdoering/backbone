@@ -1,5 +1,4 @@
-Schackoina Thalmann, 1932 GENUS
-=======
+# Schackoina Thalmann, 1932 GENUS
 
 #### Status
 ACCEPTED

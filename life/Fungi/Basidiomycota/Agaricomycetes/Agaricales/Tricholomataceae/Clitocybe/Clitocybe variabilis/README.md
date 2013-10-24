@@ -1,5 +1,4 @@
-Clitocybe variabilis Murrill SPECIES
-=======
+# Clitocybe variabilis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyrhizon cassipoureae Hansf. SPECIES
-=======
+# Polyrhizon cassipoureae Hansf. SPECIES
 
 #### Status
 ACCEPTED

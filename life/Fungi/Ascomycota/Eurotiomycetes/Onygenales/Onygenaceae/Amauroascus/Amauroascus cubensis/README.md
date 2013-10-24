@@ -1,5 +1,4 @@
-Amauroascus cubensis Cano, Guarro & R.F. Castañeda SPECIES
-=======
+# Amauroascus cubensis Cano, Guarro & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

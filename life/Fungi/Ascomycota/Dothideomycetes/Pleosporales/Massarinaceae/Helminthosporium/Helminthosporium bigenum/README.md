@@ -1,5 +1,4 @@
-Helminthosporium bigenum Matsush. SPECIES
-=======
+# Helminthosporium bigenum Matsush. SPECIES
 
 #### Status
 ACCEPTED

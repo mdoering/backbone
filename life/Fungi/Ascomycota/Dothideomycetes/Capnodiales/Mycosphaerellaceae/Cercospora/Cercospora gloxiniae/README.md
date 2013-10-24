@@ -1,5 +1,4 @@
-Cercospora gloxiniae Chupp SPECIES
-=======
+# Cercospora gloxiniae Chupp SPECIES
 
 #### Status
 ACCEPTED

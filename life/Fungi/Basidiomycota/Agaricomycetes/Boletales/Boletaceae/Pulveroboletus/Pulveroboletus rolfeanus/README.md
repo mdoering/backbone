@@ -1,5 +1,4 @@
-Pulveroboletus rolfeanus L.D. Gómez SPECIES
-=======
+# Pulveroboletus rolfeanus L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discorbis torrei SPECIES
-=======
+# Discorbis torrei SPECIES
 
 #### Status
 ACCEPTED

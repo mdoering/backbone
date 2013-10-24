@@ -1,5 +1,4 @@
-Uredo haplopappi Jørst. SPECIES
-=======
+# Uredo haplopappi Jørst. SPECIES
 
 #### Status
 ACCEPTED

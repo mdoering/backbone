@@ -1,5 +1,4 @@
-Gamospora GENUS
-=======
+# Gamospora GENUS
 
 #### Status
 ACCEPTED

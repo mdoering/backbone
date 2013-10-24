@@ -1,5 +1,4 @@
-Phaeospora triphracta (Nyl.) Zopf SPECIES
-=======
+# Phaeospora triphracta (Nyl.) Zopf SPECIES
 
 #### Status
 ACCEPTED

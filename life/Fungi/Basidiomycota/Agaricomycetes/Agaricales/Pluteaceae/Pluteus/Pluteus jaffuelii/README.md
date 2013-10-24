@@ -1,5 +1,4 @@
-Pluteus jaffuelii (Speg.) Singer SPECIES
-=======
+# Pluteus jaffuelii (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma fumoso-olivaceum Corner SPECIES
-=======
+# Tricholoma fumoso-olivaceum Corner SPECIES
 
 #### Status
 ACCEPTED

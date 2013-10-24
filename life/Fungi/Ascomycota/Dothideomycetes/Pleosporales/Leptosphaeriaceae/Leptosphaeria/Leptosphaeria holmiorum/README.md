@@ -1,5 +1,4 @@
-Leptosphaeria holmiorum Chleb. SPECIES
-=======
+# Leptosphaeria holmiorum Chleb. SPECIES
 
 #### Status
 ACCEPTED

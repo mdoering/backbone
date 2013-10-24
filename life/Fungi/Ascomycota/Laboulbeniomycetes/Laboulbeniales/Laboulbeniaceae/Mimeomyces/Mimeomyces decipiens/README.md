@@ -1,5 +1,4 @@
-Mimeomyces decipiens Thaxt., 1912 SPECIES
-=======
+# Mimeomyces decipiens Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

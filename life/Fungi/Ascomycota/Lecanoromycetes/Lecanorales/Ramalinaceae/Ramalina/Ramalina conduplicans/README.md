@@ -1,5 +1,4 @@
-Ramalina conduplicans Vain. SPECIES
-=======
+# Ramalina conduplicans Vain. SPECIES
 
 #### Status
 ACCEPTED

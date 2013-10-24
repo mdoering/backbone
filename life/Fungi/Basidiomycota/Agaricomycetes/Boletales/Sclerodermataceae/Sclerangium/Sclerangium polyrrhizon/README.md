@@ -1,5 +1,4 @@
-Sclerangium polyrrhizon (J.F. Gmel.) Lév. SPECIES
-=======
+# Sclerangium polyrrhizon (J.F. Gmel.) Lév. SPECIES
 
 #### Status
 ACCEPTED

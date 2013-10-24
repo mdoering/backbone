@@ -1,5 +1,4 @@
-Arcuospathidium cultriforme subsp. cultriforme (Penard, 1922) Foissner, 1984 SUBSPECIES
-=======
+# Arcuospathidium cultriforme Penard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe pulchella Matheny, Aime & T.W. Henkel SPECIES
-=======
+# Inocybe pulchella Matheny, Aime & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

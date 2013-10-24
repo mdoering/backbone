@@ -1,5 +1,4 @@
-Xanthoparmelia callifolioides Adler, Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia callifolioides Adler, Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

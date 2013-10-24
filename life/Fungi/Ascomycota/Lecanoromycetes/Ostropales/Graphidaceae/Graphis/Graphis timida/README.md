@@ -1,5 +1,4 @@
-Graphis timida Vain. SPECIES
-=======
+# Graphis timida Vain. SPECIES
 
 #### Status
 ACCEPTED

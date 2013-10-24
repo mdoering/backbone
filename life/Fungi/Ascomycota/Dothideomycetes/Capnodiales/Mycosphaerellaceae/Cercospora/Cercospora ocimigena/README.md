@@ -1,17 +1,16 @@
-Cercospora oscimigena R.K. Srivast., Narayan & N. Kumari SPECIES
-=======
+# Cercospora ocimigena R.K. Srivast., Narayan & N. Kumari SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 54(1): 104 (2001)
 
 #### Original name
-Cercospora oscimigena R.K. Srivast., Narayan & N. Kumari
+Cercospora ocimigena R.K. Srivast., Narayan & N. Kumari
 
 ### Remarks
 null

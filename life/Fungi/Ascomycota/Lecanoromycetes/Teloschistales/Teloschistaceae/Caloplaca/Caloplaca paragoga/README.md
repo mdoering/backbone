@@ -1,5 +1,4 @@
-Caloplaca paragoga (Körb.) H. Olivier SPECIES
-=======
+# Caloplaca paragoga (Körb.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hyparrheniae Cummins SPECIES
-=======
+# Puccinia hyparrheniae Cummins SPECIES
 
 #### Status
 ACCEPTED

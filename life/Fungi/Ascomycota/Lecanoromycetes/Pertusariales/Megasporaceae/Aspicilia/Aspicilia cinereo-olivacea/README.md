@@ -1,5 +1,4 @@
-Aspicilia cinereo-olivacea Harm. SPECIES
-=======
+# Aspicilia cinereo-olivacea Harm. SPECIES
 
 #### Status
 ACCEPTED

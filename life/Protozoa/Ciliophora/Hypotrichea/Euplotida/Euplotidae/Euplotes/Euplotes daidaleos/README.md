@@ -1,5 +1,4 @@
-Euplotes daidaleos SPECIES
-=======
+# Euplotes daidaleos SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema confusum Hale SPECIES
-=======
+# Parmotrema confusum Hale SPECIES
 
 #### Status
 ACCEPTED

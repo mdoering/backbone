@@ -1,5 +1,4 @@
-Ditremis sanfordensis (Zahlbr.) R.C. Harris SPECIES
-=======
+# Ditremis sanfordensis (Zahlbr.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

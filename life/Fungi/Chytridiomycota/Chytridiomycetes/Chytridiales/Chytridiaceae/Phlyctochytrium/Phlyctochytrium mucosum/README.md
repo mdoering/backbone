@@ -1,5 +1,4 @@
-Phlyctochytrium mucosum Sparrow & Dogma SPECIES
-=======
+# Phlyctochytrium mucosum Sparrow & Dogma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenocollema consequens (Nyl.) SPECIES
-=======
+# Pyrenocollema consequens (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

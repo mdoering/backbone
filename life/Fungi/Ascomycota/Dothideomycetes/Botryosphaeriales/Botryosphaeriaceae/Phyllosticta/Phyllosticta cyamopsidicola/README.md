@@ -1,5 +1,4 @@
-Phyllosticta cyamopsidicola Aa SPECIES
-=======
+# Phyllosticta cyamopsidicola Aa SPECIES
 
 #### Status
 ACCEPTED

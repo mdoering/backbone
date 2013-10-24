@@ -1,5 +1,4 @@
-Stagonospora huszii Vörös SPECIES
-=======
+# Stagonospora huszii Vörös SPECIES
 
 #### Status
 ACCEPTED

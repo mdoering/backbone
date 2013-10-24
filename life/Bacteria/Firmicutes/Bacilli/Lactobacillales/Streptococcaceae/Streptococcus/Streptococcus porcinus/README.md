@@ -1,5 +1,4 @@
-Streptococcus porcinus Collins et al., 1985 SPECIES
-=======
+# Streptococcus porcinus Collins et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

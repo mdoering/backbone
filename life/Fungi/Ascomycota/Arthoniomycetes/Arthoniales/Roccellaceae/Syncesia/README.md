@@ -1,5 +1,4 @@
-Syncesia Taylor GENUS
-=======
+# Syncesia Taylor GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbitolites Lamarck, 1801 GENUS
-=======
+# Orbitolites Lamarck, 1801 GENUS
 
 #### Status
 ACCEPTED

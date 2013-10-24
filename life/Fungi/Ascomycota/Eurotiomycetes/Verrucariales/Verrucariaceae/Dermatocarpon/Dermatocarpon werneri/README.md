@@ -1,5 +1,4 @@
-Dermatocarpon werneri Roussard SPECIES
-=======
+# Dermatocarpon werneri Roussard SPECIES
 
 #### Status
 ACCEPTED

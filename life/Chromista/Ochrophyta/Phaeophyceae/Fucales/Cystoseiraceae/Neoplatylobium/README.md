@@ -1,5 +1,4 @@
-Neoplatylobium O.C.Schmidt GENUS
-=======
+# Neoplatylobium O.C.Schmidt GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysothallus ludmilae Velen. SPECIES
-=======
+# Chrysothallus ludmilae Velen. SPECIES
 
 #### Status
 ACCEPTED

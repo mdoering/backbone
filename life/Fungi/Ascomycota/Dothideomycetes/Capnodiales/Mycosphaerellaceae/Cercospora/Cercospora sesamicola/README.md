@@ -1,5 +1,4 @@
-Cercospora sesamicola Mohanty SPECIES
-=======
+# Cercospora sesamicola Mohanty SPECIES
 
 #### Status
 ACCEPTED

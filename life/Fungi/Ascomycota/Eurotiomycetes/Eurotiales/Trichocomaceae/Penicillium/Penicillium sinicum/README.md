@@ -1,5 +1,4 @@
-Penicillium sinicum Y.K. Shih SPECIES
-=======
+# Penicillium sinicum Y.K. Shih SPECIES
 
 #### Status
 ACCEPTED

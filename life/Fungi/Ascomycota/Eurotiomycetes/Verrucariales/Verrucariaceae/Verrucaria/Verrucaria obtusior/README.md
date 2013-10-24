@@ -1,5 +1,4 @@
-Verrucaria obtusior Nyl. SPECIES
-=======
+# Verrucaria obtusior Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kutchiathyrites palmatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Kutchiathyrites palmatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

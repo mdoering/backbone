@@ -1,5 +1,4 @@
-Peltigera kerguelensis C.W. Dodge SPECIES
-=======
+# Peltigera kerguelensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

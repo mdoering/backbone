@@ -1,5 +1,4 @@
-Eutypella rimulosa (Pass.) Rappaz SPECIES
-=======
+# Eutypella rimulosa (Pass.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

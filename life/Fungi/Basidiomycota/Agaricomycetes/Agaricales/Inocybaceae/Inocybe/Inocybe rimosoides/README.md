@@ -1,5 +1,4 @@
-Inocybe rimosoides Peck SPECIES
-=======
+# Inocybe rimosoides Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sangarella A.F. Fradkina & E.B. Pestchevitskaya in E.B. Pestchevitskaya & A.F. Fradkina, 2001 GENUS
-=======
+# Sangarella A.F. Fradkina & E.B. Pestchevitskaya in E.B. Pestchevitskaya & A.F. Fradkina, 2001 GENUS
 
 #### Status
 ACCEPTED

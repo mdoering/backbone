@@ -1,5 +1,4 @@
-Lingulinopsis comis Saidova, 1975 SPECIES
-=======
+# Lingulinopsis comis Saidova, 1975 SPECIES
 
 #### Status
 DOUBTFUL

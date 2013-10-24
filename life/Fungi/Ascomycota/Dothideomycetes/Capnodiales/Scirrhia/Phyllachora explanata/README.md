@@ -1,5 +1,4 @@
-Phyllachora explanata (Lév.) Sacc., 1883 SPECIES
-=======
+# Phyllachora explanata (Lév.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

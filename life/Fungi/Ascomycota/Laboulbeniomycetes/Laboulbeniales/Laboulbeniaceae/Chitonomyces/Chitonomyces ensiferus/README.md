@@ -1,5 +1,4 @@
-Chitonomyces ensiferus Speg. SPECIES
-=======
+# Chitonomyces ensiferus Speg. SPECIES
 
 #### Status
 ACCEPTED

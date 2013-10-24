@@ -1,5 +1,4 @@
-Bactrospora flavopruinosa F. Berger & Aptroot SPECIES
-=======
+# Bactrospora flavopruinosa F. Berger & Aptroot SPECIES
 
 #### Status
 ACCEPTED

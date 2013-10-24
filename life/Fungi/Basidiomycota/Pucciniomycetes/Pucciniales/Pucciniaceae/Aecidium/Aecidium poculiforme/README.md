@@ -1,5 +1,4 @@
-Aecidium poculiforme Wallr. SPECIES
-=======
+# Aecidium poculiforme Wallr. SPECIES
 
 #### Status
 ACCEPTED

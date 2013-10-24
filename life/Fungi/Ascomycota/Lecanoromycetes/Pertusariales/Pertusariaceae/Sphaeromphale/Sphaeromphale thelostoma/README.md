@@ -1,5 +1,4 @@
-Sphaeromphale thelostoma Flot. SPECIES
-=======
+# Sphaeromphale thelostoma Flot. SPECIES
 
 #### Status
 ACCEPTED

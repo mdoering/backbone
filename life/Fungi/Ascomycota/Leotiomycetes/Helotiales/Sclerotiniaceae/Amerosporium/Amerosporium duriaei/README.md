@@ -1,5 +1,4 @@
-Amerosporium duriaei Teng SPECIES
-=======
+# Amerosporium duriaei Teng SPECIES
 
 #### Status
 ACCEPTED

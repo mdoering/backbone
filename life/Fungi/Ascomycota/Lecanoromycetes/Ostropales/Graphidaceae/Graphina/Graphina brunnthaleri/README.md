@@ -1,5 +1,4 @@
-Graphina brunnthaleri Zahlbr. SPECIES
-=======
+# Graphina brunnthaleri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

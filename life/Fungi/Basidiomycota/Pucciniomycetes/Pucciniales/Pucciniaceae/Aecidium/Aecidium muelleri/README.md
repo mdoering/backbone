@@ -1,5 +1,4 @@
-Aecidium muelleri Thurst. SPECIES
-=======
+# Aecidium muelleri Thurst. SPECIES
 
 #### Status
 ACCEPTED

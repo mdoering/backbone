@@ -1,5 +1,4 @@
-Strumellopsis stylochitonis Har. & Pat. SPECIES
-=======
+# Strumellopsis stylochitonis Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

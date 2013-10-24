@@ -1,5 +1,4 @@
-Philonectria purandharensis Srinivasulu & P.G. Sathe SPECIES
-=======
+# Philonectria purandharensis Srinivasulu & P.G. Sathe SPECIES
 
 #### Status
 ACCEPTED

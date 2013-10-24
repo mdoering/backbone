@@ -1,17 +1,16 @@
-Cercospora bonjeaneae Maire SPECIES
-=======
+# Pseudocercospora bonjeaniae (Maire) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 85 (2003)
 
 #### Original name
-Cercospora bonjeaneae Maire
+Cercospora bonjeaniae Maire, 1917
 
 ### Remarks
 null

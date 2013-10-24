@@ -1,5 +1,4 @@
-Dimerosporium pulveraceum Speg. SPECIES
-=======
+# Dimerosporium pulveraceum Speg. SPECIES
 
 #### Status
 ACCEPTED

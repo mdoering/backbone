@@ -1,5 +1,4 @@
-Blastospora Dietel GENUS
-=======
+# Blastospora Dietel GENUS
 
 #### Status
 ACCEPTED

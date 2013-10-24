@@ -1,5 +1,4 @@
-Synchytrium perforatum Karling SPECIES
-=======
+# Synchytrium perforatum Karling SPECIES
 
 #### Status
 ACCEPTED

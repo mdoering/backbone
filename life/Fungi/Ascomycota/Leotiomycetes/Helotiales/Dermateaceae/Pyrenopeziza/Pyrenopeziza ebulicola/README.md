@@ -1,5 +1,4 @@
-Pyrenopeziza ebulicola Rehm SPECIES
-=======
+# Pyrenopeziza ebulicola Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina lepidigenoides Ellis & Everh. SPECIES
-=======
+# Asterina lepidigenoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

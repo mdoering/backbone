@@ -1,17 +1,16 @@
-Sphaeria punctiformis var. punctiformis VARIETY
-=======
+# Mycosphaerella punctiformis (Pers.) Starbäck, 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. (Usteri) 11: 26 (1794)
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 15(no. 9): 163 (1889)
 
 #### Original name
-Sphaeria punctiformis var. punctiformis
+Sphaeria punctiformis Pers., 1794
 
 ### Remarks
 null

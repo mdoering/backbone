@@ -1,5 +1,4 @@
-Stigmatomyces manicatae Huldén SPECIES
-=======
+# Stigmatomyces manicatae Huldén SPECIES
 
 #### Status
 ACCEPTED

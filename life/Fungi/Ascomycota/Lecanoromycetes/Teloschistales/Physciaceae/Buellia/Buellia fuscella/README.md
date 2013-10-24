@@ -1,5 +1,4 @@
-Buellia fuscella Müll. Arg. SPECIES
-=======
+# Buellia fuscella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

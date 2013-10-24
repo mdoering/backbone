@@ -1,5 +1,4 @@
-Aphotistus GENUS
-=======
+# Aphotistus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meniscoideisporites cretacea Kyoto Watan., H. Nishida & Tak. Kobay. SPECIES
-=======
+# Meniscoideisporites cretacea Kyoto Watan., H. Nishida & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

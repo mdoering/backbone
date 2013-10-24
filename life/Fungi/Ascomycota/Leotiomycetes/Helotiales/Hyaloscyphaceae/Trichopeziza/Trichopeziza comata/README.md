@@ -1,5 +1,4 @@
-Trichopeziza comata (Schwein.) Sacc. SPECIES
-=======
+# Trichopeziza comata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

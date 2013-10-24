@@ -1,5 +1,4 @@
-Pertusaria servitiana Erichsen SPECIES
-=======
+# Pertusaria servitiana Erichsen SPECIES
 
 #### Status
 ACCEPTED

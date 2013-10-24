@@ -1,5 +1,4 @@
-Geniculosporium densissimum (Schwein.) de Hoog SPECIES
-=======
+# Geniculosporium densissimum (Schwein.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

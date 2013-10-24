@@ -1,17 +1,16 @@
-Entyloma brefeldii var. brefeldii Krieg. VARIETY
-=======
+# Ustilentyloma brefeldii (Krieg.) Vánky, 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 35: 145 (1896)
+Mycotaxon 41(2): 491 (1991)
 
 #### Original name
-Entyloma brefeldii var. brefeldii Krieg.
+Entyloma brefeldii Krieg., 1896
 
 ### Remarks
 null

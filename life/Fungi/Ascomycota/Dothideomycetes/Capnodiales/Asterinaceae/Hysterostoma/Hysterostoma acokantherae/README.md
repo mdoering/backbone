@@ -1,5 +1,4 @@
-Hysterostoma acokantherae (Henn.) Theiss. & Syd. SPECIES
-=======
+# Hysterostoma acokantherae (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

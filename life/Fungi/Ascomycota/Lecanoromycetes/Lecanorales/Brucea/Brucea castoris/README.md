@@ -1,5 +1,4 @@
-Brucea castoris Rikkinen SPECIES
-=======
+# Brucea castoris Rikkinen SPECIES
 
 #### Status
 ACCEPTED

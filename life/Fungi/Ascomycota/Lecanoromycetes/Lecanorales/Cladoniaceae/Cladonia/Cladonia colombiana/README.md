@@ -1,5 +1,4 @@
-Cladonia colombiana Sipman SPECIES
-=======
+# Cladonia colombiana Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia mariae-wilsoniae var. mariae-wilsoniae VARIETY
-=======
+# Puccinia mariae-wilsoniae Clinton, 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Peck, Bull. Buffalo Soc. nat. Sci. 1: 66 (1873)
 
 #### Original name
-Puccinia mariae-wilsoniae var. mariae-wilsoniae
+Puccinia mariae-wilsoniae Clinton, 1873
 
 ### Remarks
 null

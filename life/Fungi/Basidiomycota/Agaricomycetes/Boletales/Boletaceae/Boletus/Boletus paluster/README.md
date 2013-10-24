@@ -1,5 +1,4 @@
-Boletus paluster Peck, 1872 SPECIES
-=======
+# Boletus paluster Peck, 1872 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroglugea octospora (L. Léger & E. Hesse, 1922) L. Léger & E. Hesse SPECIES
-=======
+# Spiroglugea octospora (L. Léger & E. Hesse, 1922) L. Léger & E. Hesse SPECIES
 
 #### Status
 ACCEPTED

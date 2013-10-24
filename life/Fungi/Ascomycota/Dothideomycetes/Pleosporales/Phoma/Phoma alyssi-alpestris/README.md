@@ -1,5 +1,4 @@
-Phoma alyssi-alpestris Naumov SPECIES
-=======
+# Phoma alyssi-alpestris Naumov SPECIES
 
 #### Status
 ACCEPTED

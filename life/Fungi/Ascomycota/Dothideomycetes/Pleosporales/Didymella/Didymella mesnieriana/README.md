@@ -1,5 +1,4 @@
-Didymella mesnieriana (Rehm & Thüm.) Sacc. SPECIES
-=======
+# Didymella mesnieriana (Rehm & Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

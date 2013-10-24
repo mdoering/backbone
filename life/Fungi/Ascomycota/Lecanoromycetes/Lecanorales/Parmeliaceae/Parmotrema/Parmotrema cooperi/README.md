@@ -1,14 +1,13 @@
-Parmelia cooperi J. Steiner & Zahlbr. SPECIES
-=======
+# Parmotrema cooperi (J. Steiner & Zahlbr.) Sérus. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 60: 528 (1926)
+Bryologist 87(1): 4 (1984)
 
 #### Original name
 Parmelia cooperi J. Steiner & Zahlbr.

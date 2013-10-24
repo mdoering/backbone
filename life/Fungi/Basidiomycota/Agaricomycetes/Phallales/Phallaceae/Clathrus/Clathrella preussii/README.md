@@ -1,5 +1,4 @@
-Clathrella preussii (Henn.) E. Fisch. SPECIES
-=======
+# Clathrella preussii (Henn.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

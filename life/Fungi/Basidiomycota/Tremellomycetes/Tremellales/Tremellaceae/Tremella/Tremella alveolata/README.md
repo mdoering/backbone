@@ -1,5 +1,4 @@
-Tremella alveolata Scop. SPECIES
-=======
+# Tremella alveolata Scop. SPECIES
 
 #### Status
 ACCEPTED

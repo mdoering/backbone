@@ -1,5 +1,4 @@
-Puccinia wolgensis Navashin SPECIES
-=======
+# Puccinia wolgensis Navashin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Homalozoon Stokes, 1890 GENUS
-=======
+# Homalozoon Stokes, 1890 GENUS
 
 #### Status
 ACCEPTED

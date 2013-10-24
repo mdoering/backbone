@@ -1,5 +1,4 @@
-Lecidea theiophoroides Vain. SPECIES
-=======
+# Lecidea theiophoroides Vain. SPECIES
 
 #### Status
 ACCEPTED

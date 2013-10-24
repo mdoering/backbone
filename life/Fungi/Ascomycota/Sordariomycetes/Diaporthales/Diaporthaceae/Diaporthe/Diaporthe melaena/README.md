@@ -1,5 +1,4 @@
-Diaporthe melaena (Rehm) Petr. SPECIES
-=======
+# Diaporthe melaena (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

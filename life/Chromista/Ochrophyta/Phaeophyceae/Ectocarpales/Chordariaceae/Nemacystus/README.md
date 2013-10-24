@@ -1,11 +1,10 @@
-Meneghiniella Setchell & N.L.Gardner, 1924 GENUS
-=======
+# Nemacystus Derbès & Solier, 1850 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

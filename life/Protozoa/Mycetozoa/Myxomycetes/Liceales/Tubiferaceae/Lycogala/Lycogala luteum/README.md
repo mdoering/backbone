@@ -1,5 +1,4 @@
-Lycogala luteum P. Micheli SPECIES
-=======
+# Lycogala luteum P. Micheli SPECIES
 
 #### Status
 ACCEPTED

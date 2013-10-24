@@ -1,5 +1,4 @@
-Corynophlaea Kützing, 1843 GENUS
-=======
+# Corynophlaea Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

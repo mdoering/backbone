@@ -1,5 +1,4 @@
-Porina flavoaurantiaca P. M. McCarthy SPECIES
-=======
+# Porina flavoaurantiaca P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

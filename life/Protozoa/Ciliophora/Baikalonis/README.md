@@ -1,5 +1,4 @@
-Baikalonis Yankovskij, 1982 GENUS
-=======
+# Baikalonis Yankovskij, 1982 GENUS
 
 #### Status
 ACCEPTED

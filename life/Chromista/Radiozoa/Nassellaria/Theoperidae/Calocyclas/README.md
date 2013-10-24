@@ -1,5 +1,4 @@
-Calocyclas Ehrenberg, 1847 GENUS
-=======
+# Calocyclas Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

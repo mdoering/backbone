@@ -1,5 +1,4 @@
-Botryosphaeria ficus (Cooke) Sacc. SPECIES
-=======
+# Botryosphaeria ficus (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

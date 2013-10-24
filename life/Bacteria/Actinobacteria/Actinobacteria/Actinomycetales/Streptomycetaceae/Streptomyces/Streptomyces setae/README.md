@@ -1,8 +1,7 @@
-Kitasatospora setae Omura et al., 1983 SPECIES
-=======
+# Streptomyces setae (Omura et al., 1983) Wellington et al., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

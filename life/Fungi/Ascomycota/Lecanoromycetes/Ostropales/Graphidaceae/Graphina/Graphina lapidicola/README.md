@@ -1,5 +1,4 @@
-Graphina lapidicola (Fée) Müll. Arg. SPECIES
-=======
+# Graphina lapidicola (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

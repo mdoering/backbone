@@ -1,5 +1,4 @@
-Phaeostagonosporopsis psoraleae Uspensk. & Eshonk. SPECIES
-=======
+# Phaeostagonosporopsis psoraleae Uspensk. & Eshonk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septomyxa grisea Dearn. & House SPECIES
-=======
+# Septomyxa grisea Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

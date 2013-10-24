@@ -1,5 +1,4 @@
-Polystictus leveillei (Cooke) Cooke SPECIES
-=======
+# Polystictus leveillei (Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

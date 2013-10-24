@@ -1,5 +1,4 @@
-Aspergillus disjunctus Bainier & Sartory SPECIES
-=======
+# Aspergillus disjunctus Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

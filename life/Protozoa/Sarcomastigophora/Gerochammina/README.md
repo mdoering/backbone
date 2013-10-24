@@ -1,5 +1,4 @@
-Gerochammina Neagu, 1990 GENUS
-=======
+# Gerochammina Neagu, 1990 GENUS
 
 #### Status
 ACCEPTED

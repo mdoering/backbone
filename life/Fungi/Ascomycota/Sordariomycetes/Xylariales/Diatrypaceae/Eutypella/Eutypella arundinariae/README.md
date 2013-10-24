@@ -1,5 +1,4 @@
-Eutypella arundinariae Berl. SPECIES
-=======
+# Eutypella arundinariae Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Melanconiella nigrospora (Peck) Dearn. & House, 1925 SPECIES
-=======
+# Melanconis nigrospora (Peck) Wehm., 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Y. St. Mus. 226: 81 (1925)
+Mycologia 32: 327 (1940)
 
 #### Original name
 Diatrype nigrospora Peck, 1883

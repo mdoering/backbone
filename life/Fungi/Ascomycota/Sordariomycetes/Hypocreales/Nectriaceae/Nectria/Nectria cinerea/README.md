@@ -1,5 +1,4 @@
-Nectria cinerea Fr. SPECIES
-=======
+# Nectria cinerea Fr. SPECIES
 
 #### Status
 ACCEPTED

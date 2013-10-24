@@ -1,5 +1,4 @@
-Ditylis GENUS
-=======
+# Ditylis GENUS
 
 #### Status
 ACCEPTED

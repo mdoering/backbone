@@ -1,17 +1,16 @@
-Hexagonia crassipora Lloyd, 1917 SPECIES
-=======
+# Hexagonia speciosa Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5: 714 (1917)
+Summa veg. Scand. (Stockholm), Section Post. 137 (1849)
 
 #### Original name
-Hexagonia crassipora Lloyd, 1917
+Hexagonia speciosa Fr., 1849
 
 ### Remarks
 null

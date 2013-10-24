@@ -1,5 +1,4 @@
-Acarospora irregularis H. Magn. SPECIES
-=======
+# Acarospora irregularis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

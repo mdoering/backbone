@@ -1,5 +1,4 @@
-Lopadium nipponicum M. Satô SPECIES
-=======
+# Lopadium nipponicum M. Satô SPECIES
 
 #### Status
 ACCEPTED

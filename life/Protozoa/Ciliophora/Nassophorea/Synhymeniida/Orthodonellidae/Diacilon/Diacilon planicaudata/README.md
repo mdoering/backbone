@@ -1,8 +1,7 @@
-Chilodontopsis planicaudata Song & Wilbert, 1989 SPECIES
-=======
+# Diacilon planicaudata (Song & Wilbert, 1989) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

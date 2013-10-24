@@ -1,5 +1,4 @@
-Aegerita caulicola P. Karst. SPECIES
-=======
+# Aegerita caulicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

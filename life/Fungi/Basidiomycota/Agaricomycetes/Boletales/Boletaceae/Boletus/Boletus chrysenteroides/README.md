@@ -1,5 +1,4 @@
-Boletus chrysenteroides Snell SPECIES
-=======
+# Boletus chrysenteroides Snell SPECIES
 
 #### Status
 ACCEPTED

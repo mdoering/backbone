@@ -1,5 +1,4 @@
-Leucothyridium vanillae Av.-Saccá SPECIES
-=======
+# Leucothyridium vanillae Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

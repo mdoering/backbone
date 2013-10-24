@@ -1,5 +1,4 @@
-Tolyposporium volkensii Henn. SPECIES
-=======
+# Tolyposporium volkensii Henn. SPECIES
 
 #### Status
 ACCEPTED

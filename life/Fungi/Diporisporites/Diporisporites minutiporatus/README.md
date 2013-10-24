@@ -1,5 +1,4 @@
-Diporisporites minutiporatus Hammen SPECIES
-=======
+# Diporisporites minutiporatus Hammen SPECIES
 
 #### Status
 ACCEPTED

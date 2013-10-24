@@ -1,5 +1,4 @@
-Arthopyrenia pseudolivacea (Nyl.) H. Olivier SPECIES
-=======
+# Arthopyrenia pseudolivacea (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

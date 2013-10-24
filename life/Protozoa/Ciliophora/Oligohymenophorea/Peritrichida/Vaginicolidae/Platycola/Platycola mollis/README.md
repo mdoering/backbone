@@ -1,5 +1,4 @@
-Platycola mollis Fromentel, 1876 SPECIES
-=======
+# Platycola mollis Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

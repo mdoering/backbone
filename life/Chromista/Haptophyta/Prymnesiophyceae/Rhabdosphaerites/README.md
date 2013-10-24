@@ -1,5 +1,4 @@
-Rhabdosphaerites Maslov, 1956 GENUS
-=======
+# Rhabdosphaerites Maslov, 1956 GENUS
 
 #### Status
 ACCEPTED

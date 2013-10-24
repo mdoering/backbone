@@ -1,5 +1,4 @@
-Mucor meguroensis Ts. Watan. SPECIES
-=======
+# Mucor meguroensis Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

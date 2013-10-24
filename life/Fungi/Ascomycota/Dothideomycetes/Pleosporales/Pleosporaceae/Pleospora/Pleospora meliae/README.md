@@ -1,5 +1,4 @@
-Pleospora meliae Politis SPECIES
-=======
+# Pleospora meliae Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Astrorhiza catenata Norman, 1876 SPECIES
-=======
+# Aschemonella catenata (Norman, 1876) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Chamaeceras purpurascens (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras purpurascens (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

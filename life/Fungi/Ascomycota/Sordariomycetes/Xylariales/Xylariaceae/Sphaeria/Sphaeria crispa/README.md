@@ -1,5 +1,4 @@
-Sphaeria crispa Fr. SPECIES
-=======
+# Sphaeria crispa Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus bohemicus Klika SPECIES
-=======
+# Ascobolus bohemicus Klika SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis caulographa Grove SPECIES
-=======
+# Phomopsis caulographa Grove SPECIES
 
 #### Status
 ACCEPTED

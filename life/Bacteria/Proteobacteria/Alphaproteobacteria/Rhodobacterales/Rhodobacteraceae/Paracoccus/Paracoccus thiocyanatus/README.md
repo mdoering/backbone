@@ -1,5 +1,4 @@
-Paracoccus thiocyanatus Katayama et al., 1996 SPECIES
-=======
+# Paracoccus thiocyanatus Katayama et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

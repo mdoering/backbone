@@ -1,5 +1,4 @@
-Ramularia bonaerensis Speg. SPECIES
-=======
+# Ramularia bonaerensis Speg. SPECIES
 
 #### Status
 ACCEPTED

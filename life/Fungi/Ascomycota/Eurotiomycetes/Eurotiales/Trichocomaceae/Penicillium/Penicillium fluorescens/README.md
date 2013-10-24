@@ -1,5 +1,4 @@
-Penicillium fluorescens Laxa SPECIES
-=======
+# Penicillium fluorescens Laxa SPECIES
 
 #### Status
 ACCEPTED

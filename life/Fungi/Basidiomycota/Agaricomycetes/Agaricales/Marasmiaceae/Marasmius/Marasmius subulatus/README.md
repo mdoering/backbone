@@ -1,5 +1,4 @@
-Marasmius subulatus W.G. Sm. SPECIES
-=======
+# Marasmius subulatus W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

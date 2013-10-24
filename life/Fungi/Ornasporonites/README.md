@@ -1,5 +1,4 @@
-Ornasporonites Ramanujam & Rao GENUS
-=======
+# Ornasporonites Ramanujam & Rao GENUS
 
 #### Status
 ACCEPTED

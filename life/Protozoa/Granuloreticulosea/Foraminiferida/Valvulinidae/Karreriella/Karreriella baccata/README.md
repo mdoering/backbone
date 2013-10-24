@@ -1,5 +1,4 @@
-Karreriella baccata SPECIES
-=======
+# Karreriella baccata SPECIES
 
 #### Status
 ACCEPTED

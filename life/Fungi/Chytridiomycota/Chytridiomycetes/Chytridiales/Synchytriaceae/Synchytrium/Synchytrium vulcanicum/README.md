@@ -1,5 +1,4 @@
-Synchytrium vulcanicum (Racib.) Gäum. SPECIES
-=======
+# Synchytrium vulcanicum (Racib.) Gäum. SPECIES
 
 #### Status
 ACCEPTED

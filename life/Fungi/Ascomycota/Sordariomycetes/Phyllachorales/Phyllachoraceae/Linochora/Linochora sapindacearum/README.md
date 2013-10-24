@@ -1,5 +1,4 @@
-Linochora sapindacearum (Speg.) Höhn. SPECIES
-=======
+# Linochora sapindacearum (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

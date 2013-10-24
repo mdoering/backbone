@@ -1,5 +1,4 @@
-Trichosphaeria underwoodii Earle SPECIES
-=======
+# Trichosphaeria underwoodii Earle SPECIES
 
 #### Status
 ACCEPTED

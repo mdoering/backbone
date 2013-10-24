@@ -1,5 +1,4 @@
-Helicoön macrosporum Aa & Samson SPECIES
-=======
+# Helicoön macrosporum Aa & Samson SPECIES
 
 #### Status
 ACCEPTED

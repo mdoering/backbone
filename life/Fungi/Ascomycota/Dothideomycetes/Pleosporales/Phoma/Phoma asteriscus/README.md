@@ -1,5 +1,4 @@
-Phoma asteriscus Berk., 1850 SPECIES
-=======
+# Phoma asteriscus Berk., 1850 SPECIES
 
 #### Status
 ACCEPTED

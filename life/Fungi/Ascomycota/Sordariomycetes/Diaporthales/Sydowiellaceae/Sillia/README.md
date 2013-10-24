@@ -1,5 +1,4 @@
-Sillia P. Karsten, 1873 GENUS
-=======
+# Sillia P. Karsten, 1873 GENUS
 
 #### Status
 ACCEPTED

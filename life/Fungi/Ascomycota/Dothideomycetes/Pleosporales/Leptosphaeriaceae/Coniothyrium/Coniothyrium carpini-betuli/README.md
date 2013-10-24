@@ -1,5 +1,4 @@
-Coniothyrium carpini-betuli (Sacc.) Biga, Cif. & Bestagno SPECIES
-=======
+# Coniothyrium carpini-betuli (Sacc.) Biga, Cif. & Bestagno SPECIES
 
 #### Status
 ACCEPTED

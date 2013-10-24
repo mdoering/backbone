@@ -1,5 +1,4 @@
-Psathyrella confertissima (G.F. Atk.) A.H. Sm. SPECIES
-=======
+# Psathyrella confertissima (G.F. Atk.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

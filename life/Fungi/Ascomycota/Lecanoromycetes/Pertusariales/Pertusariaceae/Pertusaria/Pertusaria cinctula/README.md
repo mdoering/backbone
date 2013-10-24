@@ -1,5 +1,4 @@
-Pertusaria cinctula Müll. Arg. SPECIES
-=======
+# Pertusaria cinctula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

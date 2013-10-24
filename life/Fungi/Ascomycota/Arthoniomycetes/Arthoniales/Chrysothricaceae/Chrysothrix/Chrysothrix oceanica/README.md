@@ -1,5 +1,4 @@
-Chrysothrix oceanica Räsänen SPECIES
-=======
+# Chrysothrix oceanica Räsänen SPECIES
 
 #### Status
 ACCEPTED

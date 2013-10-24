@@ -1,5 +1,4 @@
-Ramaria articulata (Henn.) Corner SPECIES
-=======
+# Ramaria articulata (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

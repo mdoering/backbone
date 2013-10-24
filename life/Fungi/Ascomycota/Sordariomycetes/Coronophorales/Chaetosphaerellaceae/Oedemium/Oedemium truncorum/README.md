@@ -1,5 +1,4 @@
-Oedemium truncorum Fr. SPECIES
-=======
+# Oedemium truncorum Fr. SPECIES
 
 #### Status
 ACCEPTED

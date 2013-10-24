@@ -1,5 +1,4 @@
-Zopheromyces fasciatus B. Sutton & Hodges, 1977 SPECIES
-=======
+# Zopheromyces fasciatus B. Sutton & Hodges, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilariforma platensis D. M. Williams SPECIES
-=======
+# Fragilariforma platensis D. M. Williams SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria alismatis Thüm. SPECIES
-=======
+# Septoria alismatis Thüm. SPECIES
 
 #### Status
 ACCEPTED

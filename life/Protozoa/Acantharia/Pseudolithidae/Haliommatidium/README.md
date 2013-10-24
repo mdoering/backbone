@@ -1,5 +1,4 @@
-Haliommatidium Müller, 1858 GENUS
-=======
+# Haliommatidium Müller, 1858 GENUS
 
 #### Status
 ACCEPTED

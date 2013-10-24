@@ -1,5 +1,4 @@
-Buellia uberior Anzi SPECIES
-=======
+# Buellia uberior Anzi SPECIES
 
 #### Status
 ACCEPTED

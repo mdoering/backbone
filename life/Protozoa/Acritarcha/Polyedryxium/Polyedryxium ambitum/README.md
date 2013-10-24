@@ -1,5 +1,4 @@
-Polyedryxium ambitum Wicander & Wood, 1981 SPECIES
-=======
+# Polyedryxium ambitum Wicander & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

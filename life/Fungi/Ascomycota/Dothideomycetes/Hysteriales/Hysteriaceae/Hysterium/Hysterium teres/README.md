@@ -1,5 +1,4 @@
-Hysterium teres Schwein. SPECIES
-=======
+# Hysterium teres Schwein. SPECIES
 
 #### Status
 ACCEPTED

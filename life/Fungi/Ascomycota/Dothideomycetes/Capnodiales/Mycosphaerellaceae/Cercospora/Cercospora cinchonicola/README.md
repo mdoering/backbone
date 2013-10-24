@@ -1,5 +1,4 @@
-Cercospora cinchonicola Boedijn SPECIES
-=======
+# Cercospora cinchonicola Boedijn SPECIES
 
 #### Status
 ACCEPTED

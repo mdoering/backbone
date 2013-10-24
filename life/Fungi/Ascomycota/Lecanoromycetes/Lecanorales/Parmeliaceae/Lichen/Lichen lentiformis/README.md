@@ -1,5 +1,4 @@
-Lichen lentiformis Schrank SPECIES
-=======
+# Lichen lentiformis Schrank SPECIES
 
 #### Status
 ACCEPTED

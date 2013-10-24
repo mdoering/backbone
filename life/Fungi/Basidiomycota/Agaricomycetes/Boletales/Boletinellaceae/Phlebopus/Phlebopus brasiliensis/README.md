@@ -1,5 +1,4 @@
-Phlebopus brasiliensis Singer, 1983 SPECIES
-=======
+# Phlebopus brasiliensis Singer, 1983 SPECIES
 
 #### Status
 ACCEPTED

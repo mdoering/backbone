@@ -1,5 +1,4 @@
-Gaudryina glabrata (Cushman) SPECIES
-=======
+# Gaudryina glabrata (Cushman) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella fumosa Cooke SPECIES
-=======
+# Cyphella fumosa Cooke SPECIES
 
 #### Status
 ACCEPTED

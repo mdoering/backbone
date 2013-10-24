@@ -1,5 +1,4 @@
-Gliocladium cylindrosporum Matsush. SPECIES
-=======
+# Gliocladium cylindrosporum Matsush. SPECIES
 
 #### Status
 ACCEPTED

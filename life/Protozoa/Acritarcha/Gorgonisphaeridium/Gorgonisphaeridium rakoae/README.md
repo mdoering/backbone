@@ -1,5 +1,4 @@
-Gorgonisphaeridium rakoae (Stockmans & Willière, 1969) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Gorgonisphaeridium rakoae (Stockmans & Willière, 1969) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

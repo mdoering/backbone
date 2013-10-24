@@ -1,5 +1,4 @@
-Clavaria fragiliformis Velen. SPECIES
-=======
+# Clavaria fragiliformis Velen. SPECIES
 
 #### Status
 ACCEPTED

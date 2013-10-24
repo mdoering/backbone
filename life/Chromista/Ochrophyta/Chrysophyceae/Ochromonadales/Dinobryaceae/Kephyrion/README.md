@@ -1,5 +1,4 @@
-Kephyrion Pascher, 1911 GENUS
-=======
+# Kephyrion Pascher, 1911 GENUS
 
 #### Status
 ACCEPTED

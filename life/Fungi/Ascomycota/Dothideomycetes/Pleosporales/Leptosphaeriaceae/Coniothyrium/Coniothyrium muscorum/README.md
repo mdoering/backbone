@@ -1,5 +1,4 @@
-Coniothyrium muscorum Racov. SPECIES
-=======
+# Coniothyrium muscorum Racov. SPECIES
 
 #### Status
 ACCEPTED

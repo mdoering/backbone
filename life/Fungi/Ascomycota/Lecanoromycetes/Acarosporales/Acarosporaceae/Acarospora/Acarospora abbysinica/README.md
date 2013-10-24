@@ -1,5 +1,4 @@
-Acarospora abbysinica Bagl. SPECIES
-=======
+# Acarospora abbysinica Bagl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyromma ornata Lücking, Kalb & Sérus. SPECIES
-=======
+# Lyromma ornata Lücking, Kalb & Sérus. SPECIES
 
 #### Status
 ACCEPTED

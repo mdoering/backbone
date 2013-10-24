@@ -1,14 +1,13 @@
-Buellia entochlora J. Steiner SPECIES
-=======
+# Baculifera entochlora (J. Steiner) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 120 (2000)
 
 #### Original name
 Buellia entochlora J. Steiner

@@ -1,5 +1,4 @@
-Pyrenula grossa Aptroot SPECIES
-=======
+# Pyrenula grossa Aptroot SPECIES
 
 #### Status
 ACCEPTED

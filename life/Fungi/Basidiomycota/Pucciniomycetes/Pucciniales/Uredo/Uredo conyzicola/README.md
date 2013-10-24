@@ -1,5 +1,4 @@
-Uredo conyzicola Jørst. SPECIES
-=======
+# Uredo conyzicola Jørst. SPECIES
 
 #### Status
 ACCEPTED

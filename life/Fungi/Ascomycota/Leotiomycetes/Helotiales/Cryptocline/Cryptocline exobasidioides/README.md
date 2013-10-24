@@ -1,14 +1,13 @@
-Ramularia exobasidioides (Juel) Karak. SPECIES
-=======
+# Cryptocline exobasidioides (Juel) Arx, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 15(no. 1): 93 (1977)
 
 #### Original name
 Gloeosporium exobasidioides Juel, 1912

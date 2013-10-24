@@ -1,5 +1,4 @@
-Anthostoma tjibodense Penz. & Sacc. SPECIES
-=======
+# Anthostoma tjibodense Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

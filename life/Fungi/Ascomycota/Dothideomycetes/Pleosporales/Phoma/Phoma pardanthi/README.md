@@ -1,5 +1,4 @@
-Phoma pardanthi Died. SPECIES
-=======
+# Phoma pardanthi Died. SPECIES
 
 #### Status
 ACCEPTED

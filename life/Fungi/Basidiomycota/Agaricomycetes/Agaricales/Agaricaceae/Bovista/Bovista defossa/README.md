@@ -1,5 +1,4 @@
-Bovista defossa (Vittad.) De Toni SPECIES
-=======
+# Bovista defossa (Vittad.) De Toni SPECIES
 
 #### Status
 ACCEPTED

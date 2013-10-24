@@ -1,5 +1,4 @@
-Dothiorella acaciae Subhedar & V.G. Rao SPECIES
-=======
+# Dothiorella acaciae Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

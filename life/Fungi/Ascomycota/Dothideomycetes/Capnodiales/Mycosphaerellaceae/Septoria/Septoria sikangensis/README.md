@@ -1,5 +1,4 @@
-Septoria sikangensis Petr. SPECIES
-=======
+# Septoria sikangensis Petr. SPECIES
 
 #### Status
 ACCEPTED

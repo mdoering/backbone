@@ -1,5 +1,4 @@
-Pyxine endochrysina Nyl. SPECIES
-=======
+# Pyxine endochrysina Nyl. SPECIES
 
 #### Status
 ACCEPTED

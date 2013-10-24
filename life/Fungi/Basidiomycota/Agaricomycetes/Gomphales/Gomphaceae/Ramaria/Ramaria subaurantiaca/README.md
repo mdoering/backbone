@@ -1,17 +1,16 @@
-Ramaria subaurantiaca var. subaurantiaca VARIETY
-=======
+# Ramaria subaurantiaca Corner, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Br. Mus. nat. Hist. , Bot. 1(7): 200 (1955)
 
 #### Original name
-Ramaria subaurantiaca var. subaurantiaca
+Ramaria subaurantiaca Corner, 1955
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stropharia cothurnata (Fr.) P. Karst. SPECIES
-=======
+# Stropharia cothurnata (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

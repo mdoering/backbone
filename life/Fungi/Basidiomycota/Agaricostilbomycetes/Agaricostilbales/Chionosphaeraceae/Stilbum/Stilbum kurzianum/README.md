@@ -1,5 +1,4 @@
-Stilbum kurzianum Cooke SPECIES
-=======
+# Stilbum kurzianum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus polymorphus var. polymorphus VARIETY
-=======
+# Neolentinus lepideus (Fr.) Redhead & Ginns, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 3: 52 (1828)
+Trans. Mycol. Soc. Japan 26(3): 357 (1985)
 
 #### Original name
-Agaricus polymorphus var. polymorphus
+Agaricus lepideus Fr., 1815
 
 ### Remarks
 null

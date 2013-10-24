@@ -1,5 +1,4 @@
-Russula cinerea R. Heim SPECIES
-=======
+# Russula cinerea R. Heim SPECIES
 
 #### Status
 ACCEPTED

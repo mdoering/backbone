@@ -1,5 +1,4 @@
-Cytospora trachelia (Lév.) Jacz. SPECIES
-=======
+# Cytospora trachelia (Lév.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

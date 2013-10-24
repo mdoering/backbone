@@ -1,5 +1,4 @@
-Anthostomella applanata B.S. Lu & K.D. Hyde, 2000 SPECIES
-=======
+# Anthostomella applanata B.S. Lu & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

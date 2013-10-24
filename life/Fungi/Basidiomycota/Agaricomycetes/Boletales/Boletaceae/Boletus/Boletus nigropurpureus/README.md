@@ -1,5 +1,4 @@
-Boletus nigropurpureus Schwein. SPECIES
-=======
+# Boletus nigropurpureus Schwein. SPECIES
 
 #### Status
 ACCEPTED

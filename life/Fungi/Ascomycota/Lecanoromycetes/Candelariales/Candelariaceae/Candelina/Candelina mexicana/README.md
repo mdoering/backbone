@@ -1,17 +1,16 @@
-Caloplaca mexicana (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Candelina mexicana (B. de Lesd.) Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phyton, Horn 16(1-4): 194 (1974)
 
 #### Original name
-null
+Placodium mexicanum B. de Lesd.
 
 ### Remarks
 null

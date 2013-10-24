@@ -1,5 +1,4 @@
-Xanthoparmelia boyaginensis Elix SPECIES
-=======
+# Xanthoparmelia boyaginensis Elix SPECIES
 
 #### Status
 ACCEPTED

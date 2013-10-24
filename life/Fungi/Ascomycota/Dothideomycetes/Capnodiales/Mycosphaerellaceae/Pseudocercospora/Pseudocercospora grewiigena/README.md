@@ -1,5 +1,4 @@
-Pseudocercospora grewiigena Y.L. Guo SPECIES
-=======
+# Pseudocercospora grewiigena Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

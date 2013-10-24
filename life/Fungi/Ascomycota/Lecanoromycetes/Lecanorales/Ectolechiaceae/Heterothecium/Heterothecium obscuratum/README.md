@@ -1,5 +1,4 @@
-Heterothecium obscuratum Müll. Arg. SPECIES
-=======
+# Heterothecium obscuratum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

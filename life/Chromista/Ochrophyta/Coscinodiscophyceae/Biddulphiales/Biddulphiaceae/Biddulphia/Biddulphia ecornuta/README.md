@@ -1,5 +1,4 @@
-Biddulphia ecornuta N. I. Strelnikova SPECIES
-=======
+# Biddulphia ecornuta N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

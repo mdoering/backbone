@@ -1,5 +1,4 @@
-Krebsina McCulloch, 1981 GENUS
-=======
+# Krebsina McCulloch, 1981 GENUS
 
 #### Status
 ACCEPTED

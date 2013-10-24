@@ -1,5 +1,4 @@
-Cytospora ericeti Sacc. SPECIES
-=======
+# Cytospora ericeti Sacc. SPECIES
 
 #### Status
 ACCEPTED

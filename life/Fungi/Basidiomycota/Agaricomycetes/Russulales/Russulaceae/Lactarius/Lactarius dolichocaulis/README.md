@@ -1,5 +1,4 @@
-Lactarius dolichocaulis (Pegler) Verbeken & U. Eberh. SPECIES
-=======
+# Lactarius dolichocaulis (Pegler) Verbeken & U. Eberh. SPECIES
 
 #### Status
 ACCEPTED

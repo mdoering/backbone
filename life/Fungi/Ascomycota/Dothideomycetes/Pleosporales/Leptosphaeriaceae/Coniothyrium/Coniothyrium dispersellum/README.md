@@ -1,14 +1,13 @@
-Clisosporium dispersellum (P. Karst.) Kuntze, 1898 SPECIES
-=======
+# Coniothyrium dispersellum P. Karst., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 458 (1898)
+Hedwigia 23: 41 (1884)
 
 #### Original name
 Coniothyrium dispersellum P. Karst., 1884

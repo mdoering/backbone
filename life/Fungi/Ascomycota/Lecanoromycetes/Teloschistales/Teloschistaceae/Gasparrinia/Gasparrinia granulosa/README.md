@@ -1,5 +1,4 @@
-Gasparrinia granulosa var. granulosa VARIETY
-=======
+# Gasparrinia granulosa (Müll. Arg.) Syd. SPECIES
 
 #### Status
 ACCEPTED

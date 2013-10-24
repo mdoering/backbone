@@ -1,5 +1,4 @@
-Scolecopeltis morganae Doidge SPECIES
-=======
+# Scolecopeltis morganae Doidge SPECIES
 
 #### Status
 ACCEPTED

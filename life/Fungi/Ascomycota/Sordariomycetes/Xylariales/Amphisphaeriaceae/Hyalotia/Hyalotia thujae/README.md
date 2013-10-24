@@ -1,5 +1,4 @@
-Hyalotia thujae (Hollós) Guba SPECIES
-=======
+# Hyalotia thujae (Hollós) Guba SPECIES
 
 #### Status
 ACCEPTED

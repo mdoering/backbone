@@ -1,5 +1,4 @@
-Corethromyces guatemalensis Thaxt. SPECIES
-=======
+# Corethromyces guatemalensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

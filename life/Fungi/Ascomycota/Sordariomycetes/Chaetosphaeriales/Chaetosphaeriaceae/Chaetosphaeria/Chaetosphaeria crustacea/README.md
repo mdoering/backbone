@@ -1,17 +1,16 @@
-Zignoella crustacea (P. Karst.) Sacc., 1883 SPECIES
-=======
+# Chaetosphaeria crustacea (Sacc.) Réblová & W. Gams, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Czech Mycol. 51(1): 12 (1999)
 
 #### Original name
-null
+Zignoëlla crustacea Sacc., 1883
 
 ### Remarks
 null

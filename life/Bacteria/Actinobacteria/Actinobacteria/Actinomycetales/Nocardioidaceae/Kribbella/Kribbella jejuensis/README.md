@@ -1,5 +1,4 @@
-Kribbella jejuensis Song et al., 2004 SPECIES
-=======
+# Kribbella jejuensis Song et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lambertella yunnanensis (S.H. Ou) W.Y. Zhuang & Yan H. Zhang SPECIES
-=======
+# Lambertella yunnanensis (S.H. Ou) W.Y. Zhuang & Yan H. Zhang SPECIES
 
 #### Status
 ACCEPTED

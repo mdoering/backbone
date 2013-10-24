@@ -1,5 +1,4 @@
-Phyllosticta lycopersici Peck SPECIES
-=======
+# Phyllosticta lycopersici Peck SPECIES
 
 #### Status
 ACCEPTED

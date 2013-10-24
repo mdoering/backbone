@@ -1,5 +1,4 @@
-Corticium farctum Petch SPECIES
-=======
+# Corticium farctum Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Virgaria uniseptata Berk. & M.A. Curtis SPECIES
-=======
+# Virgaria uniseptata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

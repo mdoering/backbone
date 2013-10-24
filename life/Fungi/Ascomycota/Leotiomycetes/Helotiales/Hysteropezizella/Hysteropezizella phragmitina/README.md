@@ -1,14 +1,13 @@
-Naevia phragmitina P. Karst. SPECIES
-=======
+# Hysteropezizella phragmitina (P. Karst. & Starbäck) Nannf., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta R. Soc. Scient. upsal. , Ser. 2 8(no. 2): 120 (1932)
 
 #### Original name
 Naevia phragmitina P. Karst.

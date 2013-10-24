@@ -1,5 +1,4 @@
-Marasmiellus vernalis Har. Takah. SPECIES
-=======
+# Marasmiellus vernalis Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

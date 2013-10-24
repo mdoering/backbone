@@ -1,5 +1,4 @@
-Psathyra epibates (Fr.) Sacc. SPECIES
-=======
+# Psathyra epibates (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

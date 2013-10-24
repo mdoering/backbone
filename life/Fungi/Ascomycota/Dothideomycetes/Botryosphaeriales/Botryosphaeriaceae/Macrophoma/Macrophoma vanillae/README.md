@@ -1,5 +1,4 @@
-Macrophoma vanillae Av.-Saccá SPECIES
-=======
+# Macrophoma vanillae Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

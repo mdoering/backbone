@@ -1,5 +1,4 @@
-Cistella xanthorrhoeae Spooner SPECIES
-=======
+# Cistella xanthorrhoeae Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus mutabilis var. mutabilis VARIETY
-=======
+# Boletus mutabilis Morgan SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus mutabilis var. mutabilis
+Boletus mutabilis Morgan
 
 ### Remarks
 null

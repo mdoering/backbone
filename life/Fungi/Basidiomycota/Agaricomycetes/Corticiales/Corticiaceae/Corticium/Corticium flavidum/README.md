@@ -1,5 +1,4 @@
-Corticium flavidum Berk. & M.A. Curtis SPECIES
-=======
+# Corticium flavidum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

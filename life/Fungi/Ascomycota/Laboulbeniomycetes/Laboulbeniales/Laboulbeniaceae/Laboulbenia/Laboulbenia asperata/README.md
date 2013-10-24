@@ -1,5 +1,4 @@
-Laboulbenia asperata Thaxt. SPECIES
-=======
+# Laboulbenia asperata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

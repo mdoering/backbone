@@ -1,5 +1,4 @@
-Microglaena sampaiana B. de Lesd. SPECIES
-=======
+# Microglaena sampaiana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

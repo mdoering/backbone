@@ -1,5 +1,4 @@
-Micropuccinia mesnieriana (Thüm.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia mesnieriana (Thüm.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

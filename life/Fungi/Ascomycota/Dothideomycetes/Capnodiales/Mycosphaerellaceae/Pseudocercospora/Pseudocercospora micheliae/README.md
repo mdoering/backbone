@@ -1,5 +1,4 @@
-Pseudocercospora micheliae (Boedijn) U. Braun SPECIES
-=======
+# Pseudocercospora micheliae (Boedijn) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium acutisporum Velen. SPECIES
-=======
+# Helotium acutisporum Velen. SPECIES
 
 #### Status
 ACCEPTED

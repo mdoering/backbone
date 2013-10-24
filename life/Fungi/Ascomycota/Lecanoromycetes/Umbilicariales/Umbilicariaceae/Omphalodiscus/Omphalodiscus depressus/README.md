@@ -1,5 +1,4 @@
-Omphalodiscus depressus (Ach.) Schol. SPECIES
-=======
+# Omphalodiscus depressus (Ach.) Schol. SPECIES
 
 #### Status
 ACCEPTED

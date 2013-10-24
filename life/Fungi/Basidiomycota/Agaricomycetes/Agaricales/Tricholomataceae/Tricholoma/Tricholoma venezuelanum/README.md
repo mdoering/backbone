@@ -1,5 +1,4 @@
-Tricholoma venezuelanum Dennis SPECIES
-=======
+# Tricholoma venezuelanum Dennis SPECIES
 
 #### Status
 ACCEPTED

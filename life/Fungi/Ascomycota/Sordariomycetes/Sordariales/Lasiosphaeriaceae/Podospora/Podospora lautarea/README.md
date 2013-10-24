@@ -1,5 +1,4 @@
-Podospora lautarea Guiraud, Sage, Seigle-Mur. & Steiman SPECIES
-=======
+# Podospora lautarea Guiraud, Sage, Seigle-Mur. & Steiman SPECIES
 
 #### Status
 ACCEPTED

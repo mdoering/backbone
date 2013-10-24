@@ -1,17 +1,16 @@
-Acytosteliidae FAMILY
-=======
+# Acytosteliaceae Raper ex Raper & Quinlan FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. gen. Microbiol. 18: 18 (1958)
 
 #### Original name
-null
+Acytosteliaceae Raper ex Raper & Quinlan
 
 ### Remarks
 null

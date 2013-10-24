@@ -1,5 +1,4 @@
-Falcispora woronowii Woron. SPECIES
-=======
+# Falcispora woronowii Woron. SPECIES
 
 #### Status
 ACCEPTED

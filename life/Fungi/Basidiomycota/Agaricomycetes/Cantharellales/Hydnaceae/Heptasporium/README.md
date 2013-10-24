@@ -1,5 +1,4 @@
-Heptasporium GENUS
-=======
+# Heptasporium GENUS
 
 #### Status
 ACCEPTED

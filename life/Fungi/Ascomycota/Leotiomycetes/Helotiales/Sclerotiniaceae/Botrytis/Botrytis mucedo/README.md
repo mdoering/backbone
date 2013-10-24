@@ -1,5 +1,4 @@
-Botrytis mucedo (Corda) Sacc. SPECIES
-=======
+# Botrytis mucedo (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

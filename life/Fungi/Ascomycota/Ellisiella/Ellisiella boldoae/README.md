@@ -1,5 +1,4 @@
-Ellisiella boldoae Speg. SPECIES
-=======
+# Ellisiella boldoae Speg. SPECIES
 
 #### Status
 ACCEPTED

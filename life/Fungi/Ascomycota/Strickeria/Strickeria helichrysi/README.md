@@ -1,5 +1,4 @@
-Strickeria helichrysi (Fabre) Cooke SPECIES
-=======
+# Strickeria helichrysi (Fabre) Cooke SPECIES
 
 #### Status
 ACCEPTED

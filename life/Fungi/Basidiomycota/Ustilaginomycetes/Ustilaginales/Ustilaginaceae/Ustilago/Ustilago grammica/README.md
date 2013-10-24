@@ -1,5 +1,4 @@
-Ustilago grammica Berk. & Broome, 1850 SPECIES
-=======
+# Ustilago grammica Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED

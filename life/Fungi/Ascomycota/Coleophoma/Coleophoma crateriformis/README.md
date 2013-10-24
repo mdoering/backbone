@@ -1,17 +1,16 @@
-Macrophoma crateriformis f. crateriformis FORM
-=======
+# Coleophoma crateriformis (Durieu & Mont.) Höhn., 1925 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. Inst. tech. Hochsch. Wien 2(3): 77 (1925)
 
 #### Original name
-Macrophoma crateriformis f. crateriformis
+Ascospora crateriformis Durieu & Mont.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pulvinalina GENUS
-=======
+# Pulvinalina GENUS
 
 #### Status
 ACCEPTED

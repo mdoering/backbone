@@ -1,5 +1,4 @@
-Verrucaria placynthii Alstrup & E.S. Hansen SPECIES
-=======
+# Verrucaria placynthii Alstrup & E.S. Hansen SPECIES
 
 #### Status
 ACCEPTED

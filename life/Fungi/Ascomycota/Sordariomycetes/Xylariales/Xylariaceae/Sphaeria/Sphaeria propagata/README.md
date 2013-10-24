@@ -1,5 +1,4 @@
-Sphaeria propagata Plowr. SPECIES
-=======
+# Sphaeria propagata Plowr. SPECIES
 
 #### Status
 ACCEPTED

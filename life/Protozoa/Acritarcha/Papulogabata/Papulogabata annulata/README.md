@@ -1,5 +1,4 @@
-Papulogabata annulata Playford in Playford & Dring, 1981 SPECIES
-=======
+# Papulogabata annulata Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

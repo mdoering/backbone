@@ -1,5 +1,4 @@
-Irenopsis njalaensis Hansf. & Deighton SPECIES
-=======
+# Irenopsis njalaensis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

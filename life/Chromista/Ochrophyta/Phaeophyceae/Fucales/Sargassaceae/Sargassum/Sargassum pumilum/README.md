@@ -1,5 +1,4 @@
-Sargassum pumilum Tseng & Lu SPECIES
-=======
+# Sargassum pumilum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

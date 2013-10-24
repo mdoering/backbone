@@ -1,5 +1,4 @@
-Agyrium gilvum Fr. SPECIES
-=======
+# Agyrium gilvum Fr. SPECIES
 
 #### Status
 ACCEPTED

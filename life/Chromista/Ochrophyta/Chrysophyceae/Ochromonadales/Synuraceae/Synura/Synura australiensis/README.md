@@ -1,5 +1,4 @@
-Synura australiensis Playfair SPECIES
-=======
+# Synura australiensis Playfair SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claviceps ranunculoides Möller SPECIES
-=======
+# Claviceps ranunculoides Möller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella penicillata (Berk. & Broome) Sacc. SPECIES
-=======
+# Volutella penicillata (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

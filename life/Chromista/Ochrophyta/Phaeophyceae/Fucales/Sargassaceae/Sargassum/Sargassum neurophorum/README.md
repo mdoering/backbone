@@ -1,5 +1,4 @@
-Sargassum neurophorum J. Agardh SPECIES
-=======
+# Sargassum neurophorum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

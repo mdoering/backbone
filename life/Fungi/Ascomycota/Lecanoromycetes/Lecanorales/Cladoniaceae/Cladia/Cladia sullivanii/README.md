@@ -1,5 +1,4 @@
-Cladia sullivanii var. sullivanii VARIETY
-=======
+# Cladia sullivanii (Müll. Arg.) W. Martin SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trans. Roy. Soc. New Zealand, Bot. 2: 44 (1962)
 
 #### Original name
-null
+Cladonia sullivanii Müll. Arg.
 
 ### Remarks
 null

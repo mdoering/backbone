@@ -1,5 +1,4 @@
-Patellaria bruniana Müll. Arg. SPECIES
-=======
+# Patellaria bruniana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

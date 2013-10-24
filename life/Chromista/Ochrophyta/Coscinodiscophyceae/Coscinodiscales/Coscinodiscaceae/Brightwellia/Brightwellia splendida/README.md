@@ -1,5 +1,4 @@
-Brightwellia splendida SPECIES
-=======
+# Brightwellia splendida SPECIES
 
 #### Status
 ACCEPTED

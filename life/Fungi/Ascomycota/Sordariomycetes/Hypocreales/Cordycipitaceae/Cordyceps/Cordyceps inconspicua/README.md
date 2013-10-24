@@ -1,5 +1,4 @@
-Cordyceps inconspicua Moureau SPECIES
-=======
+# Cordyceps inconspicua Moureau SPECIES
 
 #### Status
 ACCEPTED

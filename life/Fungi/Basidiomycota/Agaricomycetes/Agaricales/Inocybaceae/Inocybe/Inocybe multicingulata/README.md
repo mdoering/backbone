@@ -1,5 +1,4 @@
-Inocybe multicingulata E. Horak SPECIES
-=======
+# Inocybe multicingulata E. Horak SPECIES
 
 #### Status
 ACCEPTED

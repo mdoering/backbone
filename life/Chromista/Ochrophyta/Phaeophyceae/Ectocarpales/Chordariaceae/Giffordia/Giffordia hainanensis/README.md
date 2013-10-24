@@ -1,5 +1,4 @@
-Giffordia hainanensis S. B. Wang SPECIES
-=======
+# Giffordia hainanensis S. B. Wang SPECIES
 
 #### Status
 ACCEPTED

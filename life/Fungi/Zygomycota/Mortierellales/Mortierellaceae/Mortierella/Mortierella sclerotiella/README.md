@@ -1,5 +1,4 @@
-Mortierella sclerotiella Milko, 1967 SPECIES
-=======
+# Mortierella sclerotiella Milko, 1967 SPECIES
 
 #### Status
 ACCEPTED

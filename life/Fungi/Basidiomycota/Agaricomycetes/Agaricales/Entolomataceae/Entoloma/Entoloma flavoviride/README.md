@@ -1,5 +1,4 @@
-Entoloma flavoviride Peck SPECIES
-=======
+# Entoloma flavoviride Peck SPECIES
 
 #### Status
 ACCEPTED

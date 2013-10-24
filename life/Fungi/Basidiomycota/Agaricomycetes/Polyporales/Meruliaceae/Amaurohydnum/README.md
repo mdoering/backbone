@@ -1,5 +1,4 @@
-Amaurohydnum Jülich GENUS
-=======
+# Amaurohydnum Jülich GENUS
 
 #### Status
 ACCEPTED

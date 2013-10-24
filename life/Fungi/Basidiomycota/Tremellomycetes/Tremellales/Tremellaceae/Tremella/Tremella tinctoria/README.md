@@ -1,5 +1,4 @@
-Tremella tinctoria Pers. SPECIES
-=======
+# Tremella tinctoria Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stomiopeltina tarumensis Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Stomiopeltina tarumensis Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

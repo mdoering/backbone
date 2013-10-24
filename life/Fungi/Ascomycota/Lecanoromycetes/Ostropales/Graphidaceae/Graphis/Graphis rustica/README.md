@@ -1,5 +1,4 @@
-Graphis rustica Kremp. SPECIES
-=======
+# Graphis rustica Kremp. SPECIES
 
 #### Status
 ACCEPTED

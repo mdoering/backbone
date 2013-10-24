@@ -1,5 +1,4 @@
-Suillus cothurnatus Singer, 1945 SPECIES
-=======
+# Suillus cothurnatus Singer, 1945 SPECIES
 
 #### Status
 DOUBTFUL

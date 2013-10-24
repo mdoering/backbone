@@ -1,5 +1,4 @@
-Hendersonia celtifolia Cooke SPECIES
-=======
+# Hendersonia celtifolia Cooke SPECIES
 
 #### Status
 ACCEPTED

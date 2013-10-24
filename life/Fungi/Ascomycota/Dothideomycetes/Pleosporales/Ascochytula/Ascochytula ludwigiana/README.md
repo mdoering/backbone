@@ -1,5 +1,4 @@
-Ascochytula ludwigiana Petr. SPECIES
-=======
+# Ascochytula ludwigiana Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaeceras haematodes (Berk.) Kuntze SPECIES
-=======
+# Chamaeceras haematodes (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

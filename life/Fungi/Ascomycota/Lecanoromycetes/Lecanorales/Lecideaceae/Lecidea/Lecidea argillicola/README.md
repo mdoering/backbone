@@ -1,5 +1,4 @@
-Lecidea argillicola Lindau SPECIES
-=======
+# Lecidea argillicola Lindau SPECIES
 
 #### Status
 ACCEPTED

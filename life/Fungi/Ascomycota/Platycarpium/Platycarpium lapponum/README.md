@@ -1,5 +1,4 @@
-Platycarpium lapponum (Lind) Petr. SPECIES
-=======
+# Platycarpium lapponum (Lind) Petr. SPECIES
 
 #### Status
 ACCEPTED

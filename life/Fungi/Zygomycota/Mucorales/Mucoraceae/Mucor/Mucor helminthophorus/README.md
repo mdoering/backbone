@@ -1,5 +1,4 @@
-Mucor helminthophorus de Bary & Keferst. SPECIES
-=======
+# Mucor helminthophorus de Bary & Keferst. SPECIES
 
 #### Status
 ACCEPTED

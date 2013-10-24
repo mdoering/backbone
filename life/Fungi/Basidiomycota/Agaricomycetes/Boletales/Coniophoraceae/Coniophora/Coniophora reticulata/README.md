@@ -1,5 +1,4 @@
-Coniophora reticulata (Fr.) P. Karst. SPECIES
-=======
+# Coniophora reticulata (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

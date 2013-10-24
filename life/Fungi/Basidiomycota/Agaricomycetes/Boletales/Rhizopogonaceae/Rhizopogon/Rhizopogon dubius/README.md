@@ -1,5 +1,4 @@
-Rhizopogon dubius (Corda) De Toni SPECIES
-=======
+# Rhizopogon dubius (Corda) De Toni SPECIES
 
 #### Status
 ACCEPTED

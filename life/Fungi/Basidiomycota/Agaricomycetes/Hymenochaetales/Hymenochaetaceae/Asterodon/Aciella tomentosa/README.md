@@ -1,5 +1,4 @@
-Aciella tomentosa (Schrad. ex J. Schröt.) P. Karst. SPECIES
-=======
+# Aciella tomentosa (Schrad. ex J. Schröt.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia pterocaulonis Henn. SPECIES
-=======
+# Puccinia pterocauli Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 35: 240 (1896)
 
 #### Original name
-Puccinia pterocaulonis Henn.
+Puccinia pterocauli Henn.
 
 ### Remarks
 null

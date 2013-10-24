@@ -1,14 +1,13 @@
-Moellerodiscus brunius (A.K. Kar & K.P. Pal) K.S. Thind & M.P. Sharma SPECIES
-=======
+# Moellerodiscus brunneus (A.K. Kar & K.P. Pal) K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 91: 192 (1983)
 
 #### Original name
 Ciboriopsis brunii A.K. Kar & K.P. Pal

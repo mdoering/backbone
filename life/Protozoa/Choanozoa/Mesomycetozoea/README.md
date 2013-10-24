@@ -1,5 +1,4 @@
-Mesomycetozoea CLASS
-=======
+# Mesomycetozoea CLASS
 
 #### Status
 ACCEPTED

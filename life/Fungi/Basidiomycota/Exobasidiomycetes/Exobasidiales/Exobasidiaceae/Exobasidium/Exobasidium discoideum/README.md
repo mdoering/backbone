@@ -1,5 +1,4 @@
-Exobasidium discoideum var. discoideum VARIETY
-=======
+# Exobasidium discoideum Ellis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Exobasidium discoideum var. discoideum
+Exobasidium discoideum Ellis
 
 ### Remarks
 null

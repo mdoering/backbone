@@ -1,5 +1,4 @@
-Russula clelandii O.K. Mill. & R.N. Hilton SPECIES
-=======
+# Russula clelandii O.K. Mill. & R.N. Hilton SPECIES
 
 #### Status
 ACCEPTED

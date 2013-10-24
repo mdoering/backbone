@@ -1,5 +1,4 @@
-Coniophora marginata (Alb. & Schwein.) J. Schröt. SPECIES
-=======
+# Coniophora marginata (Alb. & Schwein.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

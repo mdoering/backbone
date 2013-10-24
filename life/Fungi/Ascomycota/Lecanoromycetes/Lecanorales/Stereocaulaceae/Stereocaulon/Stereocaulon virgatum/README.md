@@ -1,5 +1,4 @@
-Stereocaulon virgatum Ach. SPECIES
-=======
+# Stereocaulon virgatum Ach. SPECIES
 
 #### Status
 ACCEPTED

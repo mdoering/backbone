@@ -1,5 +1,4 @@
-Bacidia primigenia SPECIES
-=======
+# Bacidia primigenia SPECIES
 
 #### Status
 ACCEPTED

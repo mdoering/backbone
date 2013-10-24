@@ -1,5 +1,4 @@
-Biatora melaloma Fr. SPECIES
-=======
+# Biatora melaloma Fr. SPECIES
 
 #### Status
 ACCEPTED

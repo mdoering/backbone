@@ -1,8 +1,7 @@
-Kolpoda assimilis Müller, 1786 SPECIES
-=======
+# Loxophyllum meleagris (Müller, 1773) Dujardin, 1841 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Puccinia sepulta Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia sepulta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula pallida P. Karst. SPECIES
-=======
+# Russula pallida P. Karst. SPECIES
 
 #### Status
 ACCEPTED

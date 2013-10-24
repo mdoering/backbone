@@ -1,5 +1,4 @@
-Conocybe abjecta (Berk. & Broome) Pegler SPECIES
-=======
+# Conocybe abjecta (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

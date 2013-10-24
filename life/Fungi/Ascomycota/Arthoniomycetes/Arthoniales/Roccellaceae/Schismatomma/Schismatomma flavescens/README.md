@@ -1,5 +1,4 @@
-Schismatomma flavescens (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma flavescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

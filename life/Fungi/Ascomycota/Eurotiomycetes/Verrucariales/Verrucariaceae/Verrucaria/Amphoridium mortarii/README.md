@@ -1,5 +1,4 @@
-Amphoridium mortarii (Lamy) Flagey SPECIES
-=======
+# Amphoridium mortarii (Lamy) Flagey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha chrysocarpa Raddi SPECIES
-=======
+# Opegrapha chrysocarpa Raddi SPECIES
 
 #### Status
 ACCEPTED

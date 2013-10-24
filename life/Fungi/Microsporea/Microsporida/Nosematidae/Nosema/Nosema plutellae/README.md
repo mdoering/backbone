@@ -1,5 +1,4 @@
-Nosema plutellae SPECIES
-=======
+# Nosema plutellae SPECIES
 
 #### Status
 ACCEPTED

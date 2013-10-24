@@ -1,5 +1,4 @@
-Licea morchelloides T.N. Lakh., Nann.-Bremek. & R.K. Chopra, 1990 SPECIES
-=======
+# Licea morchelloides T.N. Lakh., Nann.-Bremek. & R.K. Chopra, 1990 SPECIES
 
 #### Status
 ACCEPTED

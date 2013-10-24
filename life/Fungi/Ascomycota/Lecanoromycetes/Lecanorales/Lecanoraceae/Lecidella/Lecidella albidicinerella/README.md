@@ -1,5 +1,4 @@
-Lecidella albidicinerella (Vain.) Hertel SPECIES
-=======
+# Lecidella albidicinerella (Vain.) Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma formosissimum (Speg.) Speg. SPECIES
-=======
+# Ganoderma formosissimum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cassidulinella Natland, 1940 GENUS
-=======
+# Cassidulinella Natland, 1940 GENUS
 
 #### Status
 ACCEPTED

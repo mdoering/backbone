@@ -1,5 +1,4 @@
-Poria ossea D.V. Baxter SPECIES
-=======
+# Poria ossea D.V. Baxter SPECIES
 
 #### Status
 ACCEPTED

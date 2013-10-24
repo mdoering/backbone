@@ -1,5 +1,4 @@
-Ophiovalsa tomentella (Peck) Petr. SPECIES
-=======
+# Ophiovalsa tomentella (Peck) Petr. SPECIES
 
 #### Status
 ACCEPTED

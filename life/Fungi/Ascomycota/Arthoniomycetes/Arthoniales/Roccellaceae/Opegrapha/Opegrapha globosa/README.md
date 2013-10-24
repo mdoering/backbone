@@ -1,5 +1,4 @@
-Opegrapha globosa Fée SPECIES
-=======
+# Opegrapha globosa Fée SPECIES
 
 #### Status
 ACCEPTED

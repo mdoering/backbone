@@ -1,5 +1,4 @@
-Globigerinanus Ouda, 1978 GENUS
-=======
+# Globigerinanus Ouda, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Himantia candida var. candida VARIETY
-=======
+# Himantia candida Schumach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 443 (1803)
 
 #### Original name
-null
+Himantia candida Schumach.
 
 ### Remarks
 null

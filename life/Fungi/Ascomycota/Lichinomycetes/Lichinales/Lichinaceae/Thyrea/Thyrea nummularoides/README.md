@@ -1,5 +1,4 @@
-Thyrea nummularoides (Nyl.) A. Massal. SPECIES
-=======
+# Thyrea nummularoides (Nyl.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

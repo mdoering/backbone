@@ -1,5 +1,4 @@
-Exiguobacterium oxidotolerans Yumoto et al., 2004 SPECIES
-=======
+# Exiguobacterium oxidotolerans Yumoto et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

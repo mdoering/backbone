@@ -1,5 +1,4 @@
-Phyllosticta arachidis-hypogaeae V.G. Rao SPECIES
-=======
+# Phyllosticta arachidis-hypogaeae V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

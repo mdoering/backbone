@@ -1,5 +1,4 @@
-Hypsizygus Singer, 1947 GENUS
-=======
+# Hypsizygus Singer, 1947 GENUS
 
 #### Status
 ACCEPTED

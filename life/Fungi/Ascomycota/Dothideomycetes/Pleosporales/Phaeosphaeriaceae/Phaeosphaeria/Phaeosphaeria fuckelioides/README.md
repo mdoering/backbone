@@ -1,17 +1,16 @@
-Phaeosphaeria fuckeloides Otani, 1976 SPECIES
-=======
+# Phaeosphaeria fuckelioides Otani, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. natn. Sci. Mus. , Tokyo, B 2(3): 90 (1976)
 
 #### Original name
-Phaeosphaeria fuckeloides Otani, 1976
+Phaeosphaeria fuckelioides Otani, 1976
 
 ### Remarks
 null

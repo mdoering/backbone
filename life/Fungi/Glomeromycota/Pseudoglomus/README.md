@@ -1,5 +1,4 @@
-Pseudoglomus S.P. Gautam & U.S. Patel GENUS
-=======
+# Pseudoglomus S.P. Gautam & U.S. Patel GENUS
 
 #### Status
 ACCEPTED

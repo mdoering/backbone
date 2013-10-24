@@ -1,5 +1,4 @@
-Hymenoscyphus gracilis (Cooke & Peck) Kuntze SPECIES
-=======
+# Hymenoscyphus gracilis (Cooke & Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

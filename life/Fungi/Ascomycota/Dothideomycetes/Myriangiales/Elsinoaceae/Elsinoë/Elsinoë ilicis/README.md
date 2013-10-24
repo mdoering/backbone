@@ -1,5 +1,4 @@
-Elsinoë ilicis Plakidas, 1954 SPECIES
-=======
+# Elsinoë ilicis Plakidas, 1954 SPECIES
 
 #### Status
 ACCEPTED

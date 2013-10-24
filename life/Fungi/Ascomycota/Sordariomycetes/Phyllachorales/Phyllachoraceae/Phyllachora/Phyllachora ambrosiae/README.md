@@ -1,17 +1,16 @@
-Phyllachora ambrosicola Speg. SPECIES
-=======
+# Phyllachora ambrosiae (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 601 (1883)
 
 #### Original name
-Phyllachora ambrosicola Speg.
+Dothidea ambrosiae Berk. & M.A. Curtis, 1876
 
 ### Remarks
 null

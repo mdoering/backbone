@@ -1,5 +1,4 @@
-Clathroporina turgida (Vain.) Zahlbr. SPECIES
-=======
+# Clathroporina turgida (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

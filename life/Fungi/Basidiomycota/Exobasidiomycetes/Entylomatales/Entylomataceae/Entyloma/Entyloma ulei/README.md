@@ -1,5 +1,4 @@
-Entyloma ulei (J. Schröt.) Speg. SPECIES
-=======
+# Entyloma ulei (J. Schröt.) Speg. SPECIES
 
 #### Status
 ACCEPTED

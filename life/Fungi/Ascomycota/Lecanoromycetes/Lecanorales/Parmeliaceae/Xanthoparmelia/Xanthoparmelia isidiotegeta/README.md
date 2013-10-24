@@ -1,5 +1,4 @@
-Xanthoparmelia isidiotegeta Elix & Kantvilas SPECIES
-=======
+# Xanthoparmelia isidiotegeta Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

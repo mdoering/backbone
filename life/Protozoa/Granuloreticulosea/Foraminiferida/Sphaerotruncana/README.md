@@ -1,5 +1,4 @@
-Sphaerotruncana Korchagin, 1993 GENUS
-=======
+# Sphaerotruncana Korchagin, 1993 GENUS
 
 #### Status
 ACCEPTED

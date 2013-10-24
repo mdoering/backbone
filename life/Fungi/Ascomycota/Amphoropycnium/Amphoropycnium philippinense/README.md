@@ -1,5 +1,4 @@
-Amphoropycnium philippinense Bat., 1963 SPECIES
-=======
+# Amphoropycnium philippinense Bat., 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorella antarctica B.J. Murray SPECIES
-=======
+# Biatorella antarctica B.J. Murray SPECIES
 
 #### Status
 ACCEPTED

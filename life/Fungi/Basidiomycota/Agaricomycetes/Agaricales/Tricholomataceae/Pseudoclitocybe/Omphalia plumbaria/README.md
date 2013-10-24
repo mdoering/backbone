@@ -1,5 +1,4 @@
-Omphalia plumbaria Berk. & M.A. Curtis SPECIES
-=======
+# Omphalia plumbaria Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

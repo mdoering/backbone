@@ -1,5 +1,4 @@
-Macroplodia peckii (Sacc.) Kuntze SPECIES
-=======
+# Macroplodia peckii (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

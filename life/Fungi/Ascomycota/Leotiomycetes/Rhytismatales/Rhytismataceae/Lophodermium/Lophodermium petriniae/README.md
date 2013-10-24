@@ -1,5 +1,4 @@
-Lophodermium petriniae P.R. Johnst., 2001 SPECIES
-=======
+# Lophodermium petriniae P.R. Johnst., 2001 SPECIES
 
 #### Status
 ACCEPTED

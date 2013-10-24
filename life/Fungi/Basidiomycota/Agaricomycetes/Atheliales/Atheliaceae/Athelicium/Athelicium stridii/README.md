@@ -1,17 +1,16 @@
-Athelicium stridii f. stridii FORM
-=======
+# Athelicium stridii K.H. Larss. & Hjortstam, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Hjortstam & Larsson, Windahlia 15: 51 (1986)
 
 #### Original name
-Athelicium stridii f. stridii
+Athelicium stridii K.H. Larss. & Hjortstam, 1986
 
 ### Remarks
 null

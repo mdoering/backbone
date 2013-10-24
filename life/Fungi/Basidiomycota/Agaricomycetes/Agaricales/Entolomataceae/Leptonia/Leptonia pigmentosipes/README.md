@@ -1,5 +1,4 @@
-Leptonia pigmentosipes (Largent) Largent SPECIES
-=======
+# Leptonia pigmentosipes (Largent) Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorina cohabitans Jatta SPECIES
-=======
+# Biatorina cohabitans Jatta SPECIES
 
 #### Status
 ACCEPTED

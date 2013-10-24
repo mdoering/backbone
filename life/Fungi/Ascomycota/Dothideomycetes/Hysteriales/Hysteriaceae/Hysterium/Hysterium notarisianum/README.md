@@ -1,5 +1,4 @@
-Hysterium notarisianum Rehm SPECIES
-=======
+# Hysterium notarisianum Rehm SPECIES
 
 #### Status
 ACCEPTED

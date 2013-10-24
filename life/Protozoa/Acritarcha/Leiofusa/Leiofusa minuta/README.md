@@ -1,5 +1,4 @@
-Leiofusa minuta Nautiyal, 1988 SPECIES
-=======
+# Leiofusa minuta Nautiyal, 1988 SPECIES
 
 #### Status
 ACCEPTED

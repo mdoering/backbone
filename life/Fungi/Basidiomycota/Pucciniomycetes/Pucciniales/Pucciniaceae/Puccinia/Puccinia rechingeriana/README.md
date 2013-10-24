@@ -1,5 +1,4 @@
-Puccinia rechingeriana Petr. SPECIES
-=======
+# Puccinia rechingeriana Petr. SPECIES
 
 #### Status
 ACCEPTED

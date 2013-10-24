@@ -1,5 +1,4 @@
-Rhodostichus expansus Geitler & Pascher SPECIES
-=======
+# Rhodostichus expansus Geitler & Pascher SPECIES
 
 #### Status
 ACCEPTED

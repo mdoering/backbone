@@ -1,5 +1,4 @@
-Psathyrella niveobadia (Romagn.) M.M. Moser SPECIES
-=======
+# Psathyrella niveobadia (Romagn.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

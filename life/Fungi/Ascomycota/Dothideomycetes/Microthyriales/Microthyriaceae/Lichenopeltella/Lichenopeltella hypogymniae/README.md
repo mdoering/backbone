@@ -1,5 +1,4 @@
-Lichenopeltella hypogymniae Diederich SPECIES
-=======
+# Lichenopeltella hypogymniae Diederich SPECIES
 
 #### Status
 ACCEPTED

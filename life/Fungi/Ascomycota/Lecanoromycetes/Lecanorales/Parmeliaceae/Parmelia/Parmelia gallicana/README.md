@@ -1,5 +1,4 @@
-Parmelia gallicana Gyeln. SPECIES
-=======
+# Parmelia gallicana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo grayiae Arthur SPECIES
-=======
+# Uredo grayiae Arthur SPECIES
 
 #### Status
 ACCEPTED

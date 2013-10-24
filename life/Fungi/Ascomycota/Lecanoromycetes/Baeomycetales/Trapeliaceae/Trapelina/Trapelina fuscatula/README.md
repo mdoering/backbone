@@ -1,5 +1,4 @@
-Trapelina fuscatula Motyka SPECIES
-=======
+# Trapelina fuscatula Motyka SPECIES
 
 #### Status
 ACCEPTED

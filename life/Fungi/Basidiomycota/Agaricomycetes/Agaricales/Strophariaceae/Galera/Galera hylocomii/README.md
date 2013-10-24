@@ -1,5 +1,4 @@
-Galera hylocomii Velen. SPECIES
-=======
+# Galera hylocomii Velen. SPECIES
 
 #### Status
 ACCEPTED

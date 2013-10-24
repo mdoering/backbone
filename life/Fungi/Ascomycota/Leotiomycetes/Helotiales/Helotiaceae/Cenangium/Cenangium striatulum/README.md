@@ -1,5 +1,4 @@
-Cenangium striatulum Mouton & Sacc. SPECIES
-=======
+# Cenangium striatulum Mouton & Sacc. SPECIES
 
 #### Status
 ACCEPTED

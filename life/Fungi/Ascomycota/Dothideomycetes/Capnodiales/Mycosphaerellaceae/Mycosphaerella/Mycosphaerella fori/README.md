@@ -1,5 +1,4 @@
-Mycosphaerella fori G.C. Hunter, Crous & M.J. Wingf. SPECIES
-=======
+# Mycosphaerella fori G.C. Hunter, Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex africanus Van der Byl SPECIES
-=======
+# Irpex africanus Van der Byl SPECIES
 
 #### Status
 ACCEPTED

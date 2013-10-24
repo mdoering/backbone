@@ -1,5 +1,4 @@
-Cercosporella moelleri N.F. Buchw. SPECIES
-=======
+# Cercosporella moelleri N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

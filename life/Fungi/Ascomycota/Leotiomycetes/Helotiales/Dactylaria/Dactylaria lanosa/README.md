@@ -1,5 +1,4 @@
-Dactylaria lanosa Malla & W. Gams, 1971 SPECIES
-=======
+# Dactylaria lanosa Malla & W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

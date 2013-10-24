@@ -1,5 +1,4 @@
-Thalloidima botryophorum Müll. Arg. SPECIES
-=======
+# Thalloidima botryophorum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora baccata Ellis SPECIES
-=======
+# Pleospora baccata Ellis SPECIES
 
 #### Status
 ACCEPTED

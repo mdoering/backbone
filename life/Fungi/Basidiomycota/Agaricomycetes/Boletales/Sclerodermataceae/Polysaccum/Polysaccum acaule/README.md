@@ -1,5 +1,4 @@
-Polysaccum acaule DC. SPECIES
-=======
+# Polysaccum acaule DC. SPECIES
 
 #### Status
 ACCEPTED

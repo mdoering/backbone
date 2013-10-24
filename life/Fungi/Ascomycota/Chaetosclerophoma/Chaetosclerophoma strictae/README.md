@@ -1,5 +1,4 @@
-Chaetosclerophoma strictae S. Ahmad SPECIES
-=======
+# Chaetosclerophoma strictae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

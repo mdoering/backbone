@@ -1,5 +1,4 @@
-Lactobacillus arizonensis Swezey et al., 2000 SPECIES
-=======
+# Lactobacillus arizonensis Swezey et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

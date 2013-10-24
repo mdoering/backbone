@@ -1,5 +1,4 @@
-Pocillaria maculata (Berk.) Kuntze SPECIES
-=======
+# Pocillaria maculata (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

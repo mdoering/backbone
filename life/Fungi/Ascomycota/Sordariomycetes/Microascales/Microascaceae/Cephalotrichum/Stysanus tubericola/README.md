@@ -1,5 +1,4 @@
-Stysanus tubericola Ellis & Dearn. SPECIES
-=======
+# Stysanus tubericola Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

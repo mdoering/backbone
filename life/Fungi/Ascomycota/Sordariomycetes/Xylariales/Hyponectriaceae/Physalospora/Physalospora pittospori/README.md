@@ -1,5 +1,4 @@
-Physalospora pittospori J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Physalospora pittospori J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

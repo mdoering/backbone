@@ -1,5 +1,4 @@
-Sclerotinia atrostipitata Svrcek SPECIES
-=======
+# Sclerotinia atrostipitata Svrcek SPECIES
 
 #### Status
 ACCEPTED

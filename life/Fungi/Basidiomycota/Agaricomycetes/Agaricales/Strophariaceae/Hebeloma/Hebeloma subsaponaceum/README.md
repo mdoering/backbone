@@ -1,5 +1,4 @@
-Hebeloma subsaponaceum P. Karst. SPECIES
-=======
+# Hebeloma subsaponaceum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

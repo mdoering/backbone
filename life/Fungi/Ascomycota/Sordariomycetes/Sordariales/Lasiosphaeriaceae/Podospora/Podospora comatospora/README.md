@@ -1,5 +1,4 @@
-Podospora comatospora Cain SPECIES
-=======
+# Podospora comatospora Cain SPECIES
 
 #### Status
 ACCEPTED

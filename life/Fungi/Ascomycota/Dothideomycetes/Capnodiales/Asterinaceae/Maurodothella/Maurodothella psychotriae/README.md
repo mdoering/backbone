@@ -1,17 +1,16 @@
-Maurodothella psychotrae G. Arnaud SPECIES
-=======
+# Maurodothella psychotriae G. Arnaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annals d'École National d'Agric. de Montpellier, Série 2 16(1-4): 124 (1918)
 
 #### Original name
-Maurodothella psychotrae G. Arnaud
+Maurodothella psychotriae G. Arnaud
 
 ### Remarks
 null

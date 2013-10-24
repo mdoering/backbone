@@ -1,5 +1,4 @@
-Mollisia abdita Ellis SPECIES
-=======
+# Mollisia abdita Ellis SPECIES
 
 #### Status
 ACCEPTED

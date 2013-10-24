@@ -1,5 +1,4 @@
-Lachnum heraclei Velen. SPECIES
-=======
+# Lachnum heraclei Velen. SPECIES
 
 #### Status
 ACCEPTED

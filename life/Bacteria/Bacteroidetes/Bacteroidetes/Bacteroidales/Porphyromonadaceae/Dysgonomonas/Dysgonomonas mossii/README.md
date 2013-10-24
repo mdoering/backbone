@@ -1,5 +1,4 @@
-Dysgonomonas mossii Lawson et al., 2002 SPECIES
-=======
+# Dysgonomonas mossii Lawson et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

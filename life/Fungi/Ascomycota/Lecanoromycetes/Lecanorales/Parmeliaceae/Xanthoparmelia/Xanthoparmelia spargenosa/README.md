@@ -1,5 +1,4 @@
-Xanthoparmelia spargenosa Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia spargenosa Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

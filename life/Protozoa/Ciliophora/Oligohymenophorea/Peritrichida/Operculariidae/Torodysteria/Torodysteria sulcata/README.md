@@ -1,5 +1,4 @@
-Torodysteria sulcata (Claparède & Lachmann, 1859) Jankowski, 2007 SPECIES
-=======
+# Torodysteria sulcata (Claparède & Lachmann, 1859) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

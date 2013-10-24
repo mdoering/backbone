@@ -1,5 +1,4 @@
-Hyalotia laurina (Mont.) Guba SPECIES
-=======
+# Hyalotia laurina (Mont.) Guba SPECIES
 
 #### Status
 ACCEPTED

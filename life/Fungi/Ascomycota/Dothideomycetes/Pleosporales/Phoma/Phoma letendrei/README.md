@@ -1,5 +1,4 @@
-Phoma letendrei Sacc. SPECIES
-=======
+# Phoma letendrei Sacc. SPECIES
 
 #### Status
 ACCEPTED

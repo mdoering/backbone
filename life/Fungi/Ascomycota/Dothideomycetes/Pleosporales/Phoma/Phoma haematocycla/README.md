@@ -1,5 +1,4 @@
-Phoma haematocycla (Berk.) Aa & Boerema, 1993 SPECIES
-=======
+# Phoma haematocycla (Berk.) Aa & Boerema, 1993 SPECIES
 
 #### Status
 ACCEPTED

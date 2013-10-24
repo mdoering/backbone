@@ -1,5 +1,4 @@
-Mollisia pumilionis Rehm SPECIES
-=======
+# Mollisia pumilionis Rehm SPECIES
 
 #### Status
 ACCEPTED

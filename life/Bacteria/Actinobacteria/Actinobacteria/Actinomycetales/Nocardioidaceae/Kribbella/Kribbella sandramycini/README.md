@@ -1,5 +1,4 @@
-Kribbella sandramycini Park et al., 1999 SPECIES
-=======
+# Kribbella sandramycini Park et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

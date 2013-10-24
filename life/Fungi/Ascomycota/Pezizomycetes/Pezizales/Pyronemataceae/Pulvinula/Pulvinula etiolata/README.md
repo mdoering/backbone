@@ -1,5 +1,4 @@
-Pulvinula etiolata (Cooke) Le Gal SPECIES
-=======
+# Pulvinula etiolata (Cooke) Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus nymphidius Berk. & Broome SPECIES
-=======
+# Agaricus nymphidius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Adnatosphaeridium vetusculum R. J. Davey SPECIES
-=======
+# Adnatosphaeridium vetusculum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

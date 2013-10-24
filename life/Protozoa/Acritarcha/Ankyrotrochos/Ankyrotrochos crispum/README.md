@@ -1,5 +1,4 @@
-Ankyrotrochos crispum (Vavrdová, 1990) Vecoli, 1999 SPECIES
-=======
+# Ankyrotrochos crispum (Vavrdová, 1990) Vecoli, 1999 SPECIES
 
 #### Status
 ACCEPTED

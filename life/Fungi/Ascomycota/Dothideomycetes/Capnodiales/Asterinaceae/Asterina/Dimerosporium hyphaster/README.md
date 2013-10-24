@@ -1,5 +1,4 @@
-Dimerosporium hyphaster (Henn.) G. Arnaud SPECIES
-=======
+# Dimerosporium hyphaster (Henn.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

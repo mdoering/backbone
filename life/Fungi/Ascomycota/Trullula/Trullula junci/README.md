@@ -1,5 +1,4 @@
-Trullula junci Cooke & Harkn. SPECIES
-=======
+# Trullula junci Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

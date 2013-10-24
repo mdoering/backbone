@@ -1,5 +1,4 @@
-Hebeloma miserum Rick SPECIES
-=======
+# Hebeloma miserum Rick SPECIES
 
 #### Status
 ACCEPTED

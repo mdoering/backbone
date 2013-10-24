@@ -1,5 +1,4 @@
-Quinqueloculina kansireiensis Nakamura SPECIES
-=======
+# Quinqueloculina kansireiensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

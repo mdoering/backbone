@@ -1,5 +1,4 @@
-Nectria anacardii Henn. SPECIES
-=======
+# Nectria anacardii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Russula pulchrae-uxoris var. pulchrae-uxoris VARIETY
-=======
+# Russula rhodomelanea Sarnari SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Riv. Micol. 36(1): 53 (1993)
 
 #### Original name
-null
+Russula rhodomelanea Sarnari
 
 ### Remarks
 null

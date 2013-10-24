@@ -1,5 +1,4 @@
-Lecanactis feeana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanactis feeana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

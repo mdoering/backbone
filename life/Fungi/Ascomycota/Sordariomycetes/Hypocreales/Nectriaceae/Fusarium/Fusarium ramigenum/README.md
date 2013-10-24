@@ -1,5 +1,4 @@
-Fusarium ramigenum O'Donnell & Nirenberg, 1998 SPECIES
-=======
+# Fusarium ramigenum O'Donnell & Nirenberg, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercidospora cladoniicola Alstrup, 1997 SPECIES
-=======
+# Cercidospora cladoniicola Alstrup, 1997 SPECIES
 
 #### Status
 ACCEPTED

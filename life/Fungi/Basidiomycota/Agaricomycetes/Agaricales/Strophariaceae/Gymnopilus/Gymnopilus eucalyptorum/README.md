@@ -1,5 +1,4 @@
-Gymnopilus eucalyptorum (Cleland) Singer SPECIES
-=======
+# Gymnopilus eucalyptorum (Cleland) Singer SPECIES
 
 #### Status
 ACCEPTED

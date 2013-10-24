@@ -1,5 +1,4 @@
-Gorgonisphaeridium listeri Mullins, 2001 SPECIES
-=======
+# Gorgonisphaeridium listeri Mullins, 2001 SPECIES
 
 #### Status
 ACCEPTED

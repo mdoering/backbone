@@ -1,17 +1,16 @@
-Protomyces macrosporus f. sp FORM
-=======
+# Protomyces macrosporus Unger, 1834 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Exantheme der Pflanzen. Up. 344 (1834)
 
 #### Original name
-Protomyces macrosporus f. sp
+Protomyces macrosporus Unger, 1834
 
 ### Remarks
 null

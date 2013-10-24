@@ -1,5 +1,4 @@
-Eucorethromyces apotomi Thaxt. SPECIES
-=======
+# Eucorethromyces apotomi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

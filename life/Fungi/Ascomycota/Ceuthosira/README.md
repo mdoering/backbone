@@ -1,5 +1,4 @@
-Ceuthosira Petr. GENUS
-=======
+# Ceuthosira Petr. GENUS
 
 #### Status
 ACCEPTED

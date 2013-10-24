@@ -1,5 +1,4 @@
-Pseudocercospora cedrelae-mexicanae U. Braun & Crous SPECIES
-=======
+# Pseudocercospora cedrelae-mexicanae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

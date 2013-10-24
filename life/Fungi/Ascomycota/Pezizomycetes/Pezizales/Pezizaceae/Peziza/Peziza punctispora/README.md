@@ -1,5 +1,4 @@
-Peziza punctispora (Pfister) Donadini SPECIES
-=======
+# Peziza punctispora (Pfister) Donadini SPECIES
 
 #### Status
 ACCEPTED

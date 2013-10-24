@@ -1,5 +1,4 @@
-Taonia lennebackerae Agardh SPECIES
-=======
+# Taonia lennebackerae Agardh SPECIES
 
 #### Status
 ACCEPTED

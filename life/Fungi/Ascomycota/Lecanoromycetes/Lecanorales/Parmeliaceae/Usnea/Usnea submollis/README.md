@@ -1,5 +1,4 @@
-Usnea submollis J. Steiner SPECIES
-=======
+# Usnea submollis J. Steiner SPECIES
 
 #### Status
 ACCEPTED

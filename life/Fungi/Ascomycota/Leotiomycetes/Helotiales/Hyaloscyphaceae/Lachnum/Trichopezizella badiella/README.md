@@ -1,5 +1,4 @@
-Trichopezizella badiella (P. Karst.) Raitv. SPECIES
-=======
+# Trichopezizella badiella (P. Karst.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

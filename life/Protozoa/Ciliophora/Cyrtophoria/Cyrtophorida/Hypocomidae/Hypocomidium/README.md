@@ -1,5 +1,4 @@
-Hypocomidium Raabe, 1938 GENUS
-=======
+# Hypocomidium Raabe, 1938 GENUS
 
 #### Status
 ACCEPTED

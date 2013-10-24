@@ -1,5 +1,4 @@
-Cladosporium smilacicola K. Schub. SPECIES
-=======
+# Cladosporium smilacicola K. Schub. SPECIES
 
 #### Status
 ACCEPTED

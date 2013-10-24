@@ -1,17 +1,16 @@
-Uromyces aeleuropodis-repentis Nattrass SPECIES
-=======
+# Uromyces aeluropodis-repentis Nattrass SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+First List of Cyprus Fungi 21 (1937)
 
 #### Original name
-Uromyces aeleuropodis-repentis Nattrass
+Uromyces aeluropodis-repentis Nattrass
 
 ### Remarks
 null

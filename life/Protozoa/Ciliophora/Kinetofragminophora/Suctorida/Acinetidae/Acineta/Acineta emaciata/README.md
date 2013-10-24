@@ -1,5 +1,4 @@
-Acineta emaciata Maupas, 1881 SPECIES
-=======
+# Acineta emaciata Maupas, 1881 SPECIES
 
 #### Status
 ACCEPTED

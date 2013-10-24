@@ -1,5 +1,4 @@
-Mycoplasma microti Brown et al., 2001 SPECIES
-=======
+# Mycoplasma microti Brown et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

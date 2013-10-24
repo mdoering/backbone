@@ -1,5 +1,4 @@
-Dendrosarcus battarrae (Quél.) Kuntze SPECIES
-=======
+# Dendrosarcus battarrae (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

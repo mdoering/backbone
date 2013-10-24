@@ -1,5 +1,4 @@
-Agaricus erythiopus-phacopus Pers. SPECIES
-=======
+# Agaricus erythiopus-phacopus Pers. SPECIES
 
 #### Status
 ACCEPTED

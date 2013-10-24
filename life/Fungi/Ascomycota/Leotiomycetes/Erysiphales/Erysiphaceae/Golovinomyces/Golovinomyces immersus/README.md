@@ -1,5 +1,4 @@
-Golovinomyces immersus (U. Braun) V.P. Heluta SPECIES
-=======
+# Golovinomyces immersus (U. Braun) V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

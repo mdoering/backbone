@@ -1,17 +1,16 @@
-Sacidium lignorum Peck SPECIES
-=======
+# Sacidium lignarium Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 42: 126 (1889)
 
 #### Original name
-Sacidium lignorum Peck
+Sacidium lignarium Peck
 
 ### Remarks
 null

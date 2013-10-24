@@ -1,5 +1,4 @@
-Corethromyces minisculus Thaxt. SPECIES
-=======
+# Corethromyces minisculus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

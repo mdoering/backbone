@@ -1,5 +1,4 @@
-Corethromyces speluncalis Maire SPECIES
-=======
+# Corethromyces speluncalis Maire SPECIES
 
 #### Status
 ACCEPTED

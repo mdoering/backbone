@@ -1,5 +1,4 @@
-Stigmina bauhiniae A.N. Rai & Kamal SPECIES
-=======
+# Stigmina bauhiniae A.N. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

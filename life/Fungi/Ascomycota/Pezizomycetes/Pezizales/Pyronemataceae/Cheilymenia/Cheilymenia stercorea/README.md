@@ -1,17 +1,16 @@
-Humaria stercorea var. stercorea VARIETY
-=======
+# Cheilymenia stercorea (Pers.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 321 (1870)
+Icon. Mycol. (Paris) 2: pl. 384 (1907)
 
 #### Original name
-Humaria stercorea var. stercorea
+Peziza stercorea Pers., 1800
 
 ### Remarks
 null

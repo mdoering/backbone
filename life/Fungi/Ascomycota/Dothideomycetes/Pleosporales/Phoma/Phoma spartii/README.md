@@ -1,5 +1,4 @@
-Phoma spartii Politis SPECIES
-=======
+# Phoma spartii Politis SPECIES
 
 #### Status
 ACCEPTED

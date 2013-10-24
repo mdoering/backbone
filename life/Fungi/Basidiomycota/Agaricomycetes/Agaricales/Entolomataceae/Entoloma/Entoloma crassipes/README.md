@@ -1,5 +1,4 @@
-Entoloma crassipes Petch SPECIES
-=======
+# Entoloma crassipes Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetothyrina megalospora var. indica A.B. Pawar, Bhoite & M.S. Patil VARIETY
-=======
+# Chaetothyrina megalospora (Petr. & Cif.) Petr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Geobios, New Rep. 10(1): 43 (1991)
+Annls mycol. 32(1/2): 16 (1934)
 
 #### Original name
-Chaetothyrina megalospora var. indica A.B. Pawar, Bhoite & M.S. Patil
+Microcallis megalospora Petr. & Cif.
 
 ### Remarks
 null

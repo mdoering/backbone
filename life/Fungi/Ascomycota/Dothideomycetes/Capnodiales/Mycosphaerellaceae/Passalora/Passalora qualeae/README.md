@@ -1,5 +1,4 @@
-Passalora qualeae Dorn.-Silva & Dianese SPECIES
-=======
+# Passalora qualeae Dorn.-Silva & Dianese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mississippiella Haman, 1982 GENUS
-=======
+# Mississippiella Haman, 1982 GENUS
 
 #### Status
 ACCEPTED

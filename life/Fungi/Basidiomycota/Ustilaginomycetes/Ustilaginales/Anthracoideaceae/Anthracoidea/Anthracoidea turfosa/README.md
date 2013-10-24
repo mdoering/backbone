@@ -1,5 +1,4 @@
-Anthracoidea turfosa (Syd.) Kukkonen SPECIES
-=======
+# Anthracoidea turfosa (Syd.) Kukkonen SPECIES
 
 #### Status
 ACCEPTED

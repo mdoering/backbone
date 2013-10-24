@@ -1,5 +1,4 @@
-Miliolinella sublineata SPECIES
-=======
+# Miliolinella sublineata SPECIES
 
 #### Status
 ACCEPTED

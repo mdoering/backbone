@@ -1,5 +1,4 @@
-Dimorphomyces Omoifo, 1997 GENUS
-=======
+# Dimorphomyces Omoifo, 1997 GENUS
 
 #### Status
 ACCEPTED

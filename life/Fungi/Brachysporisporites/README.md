@@ -1,5 +1,4 @@
-Brachysporisporites R.T. Lange & P.H. Sm. GENUS
-=======
+# Brachysporisporites R.T. Lange & P.H. Sm. GENUS
 
 #### Status
 ACCEPTED

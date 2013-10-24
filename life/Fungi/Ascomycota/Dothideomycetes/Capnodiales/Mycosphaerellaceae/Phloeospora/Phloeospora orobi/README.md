@@ -1,5 +1,4 @@
-Phloeospora orobi Potebnia SPECIES
-=======
+# Phloeospora orobi Potebnia SPECIES
 
 #### Status
 ACCEPTED

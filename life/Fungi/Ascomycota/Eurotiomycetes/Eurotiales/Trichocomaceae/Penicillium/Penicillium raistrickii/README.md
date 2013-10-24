@@ -1,17 +1,16 @@
-Penicillium castellae Quintan., 1982 SPECIES
-=======
+# Penicillium raistrickii G. Sm., 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Avances en Alimentación y Mejora Animal 23: 336 (1982)
+Trans. Br. mycol. Soc. 18: 90 (1933)
 
 #### Original name
-Penicillium castellae Quintan., 1982
+Penicillium raistrickii G. Sm., 1933
 
 ### Remarks
 null

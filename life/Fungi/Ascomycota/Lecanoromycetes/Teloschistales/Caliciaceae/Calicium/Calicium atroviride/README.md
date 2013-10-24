@@ -1,5 +1,4 @@
-Calicium atroviride Körb. SPECIES
-=======
+# Calicium atroviride Körb. SPECIES
 
 #### Status
 ACCEPTED

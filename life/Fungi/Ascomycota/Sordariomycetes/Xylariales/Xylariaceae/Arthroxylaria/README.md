@@ -1,5 +1,4 @@
-Arthroxylaria Seifert & W. Gams GENUS
-=======
+# Arthroxylaria Seifert & W. Gams GENUS
 
 #### Status
 ACCEPTED

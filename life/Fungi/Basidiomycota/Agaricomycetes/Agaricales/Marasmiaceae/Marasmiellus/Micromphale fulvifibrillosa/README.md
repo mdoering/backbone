@@ -1,17 +1,16 @@
-Micromphale fulvifibrillosum Murrill SPECIES
-=======
+# Micromphale fulvifibrillosa Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 9(5): 307 (1916)
 
 #### Original name
-Micromphale fulvifibrillosum Murrill
+Micromphale fulvifibrillosa Murrill
 
 ### Remarks
 null

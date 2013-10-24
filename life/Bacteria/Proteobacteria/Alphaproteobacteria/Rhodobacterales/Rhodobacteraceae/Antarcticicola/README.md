@@ -1,5 +1,4 @@
-Antarcticicola GENUS
-=======
+# Antarcticicola GENUS
 
 #### Status
 ACCEPTED

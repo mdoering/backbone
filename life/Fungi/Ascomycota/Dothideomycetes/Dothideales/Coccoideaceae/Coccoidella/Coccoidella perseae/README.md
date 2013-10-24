@@ -1,5 +1,4 @@
-Coccoidella perseae Sivan., 1987 SPECIES
-=======
+# Coccoidella perseae Sivan., 1987 SPECIES
 
 #### Status
 ACCEPTED

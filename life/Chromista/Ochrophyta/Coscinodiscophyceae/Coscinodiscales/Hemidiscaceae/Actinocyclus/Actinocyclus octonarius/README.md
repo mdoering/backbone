@@ -1,5 +1,4 @@
-Actinocyclus octonarius var. octonarius VARIETY
-=======
+# Actinocyclus octonarius Ehrenberg, 1838 SPECIES
 
 #### Status
 ACCEPTED

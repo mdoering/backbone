@@ -1,5 +1,4 @@
-Pertusaria macrostoma Müll. Arg. SPECIES
-=======
+# Pertusaria macrostoma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

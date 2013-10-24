@@ -1,5 +1,4 @@
-Sorosporium austroafricanum Zundel SPECIES
-=======
+# Sorosporium austroafricanum Zundel SPECIES
 
 #### Status
 ACCEPTED

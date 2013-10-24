@@ -1,5 +1,4 @@
-Agaricus stigmatophorus Berk. & Broome SPECIES
-=======
+# Agaricus stigmatophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

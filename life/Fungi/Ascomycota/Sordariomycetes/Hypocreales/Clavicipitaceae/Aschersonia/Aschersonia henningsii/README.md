@@ -1,5 +1,4 @@
-Aschersonia henningsii Koord. SPECIES
-=======
+# Aschersonia henningsii Koord. SPECIES
 
 #### Status
 ACCEPTED

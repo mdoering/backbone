@@ -1,5 +1,4 @@
-Diaphanoeca W.Ellis, 1930 GENUS
-=======
+# Diaphanoeca W.Ellis, 1930 GENUS
 
 #### Status
 ACCEPTED

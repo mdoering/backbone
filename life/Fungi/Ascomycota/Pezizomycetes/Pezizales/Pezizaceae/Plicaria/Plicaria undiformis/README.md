@@ -1,5 +1,4 @@
-Plicaria undiformis Rehm SPECIES
-=======
+# Plicaria undiformis Rehm SPECIES
 
 #### Status
 ACCEPTED

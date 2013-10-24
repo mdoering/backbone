@@ -1,5 +1,4 @@
-Stomiopeltis eugeniae Toro SPECIES
-=======
+# Stomiopeltis eugeniae Toro SPECIES
 
 #### Status
 ACCEPTED

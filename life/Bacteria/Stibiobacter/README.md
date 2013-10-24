@@ -1,5 +1,4 @@
-Stibiobacter Lyalikova, 1974 (Approved Lists, 1980) GENUS
-=======
+# Stibiobacter Lyalikova, 1974 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

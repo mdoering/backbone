@@ -1,5 +1,4 @@
-Dissoconium eucalypti Crous & Carnegie SPECIES
-=======
+# Dissoconium eucalypti Crous & Carnegie SPECIES
 
 #### Status
 ACCEPTED

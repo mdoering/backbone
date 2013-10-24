@@ -1,5 +1,4 @@
-Spirillum alcaligenum SPECIES
-=======
+# Spirillum alcaligenum SPECIES
 
 #### Status
 ACCEPTED

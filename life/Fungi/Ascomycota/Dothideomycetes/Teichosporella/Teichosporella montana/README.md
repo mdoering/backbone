@@ -1,5 +1,4 @@
-Teichosporella montana Ellis & Everh. SPECIES
-=======
+# Teichosporella montana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

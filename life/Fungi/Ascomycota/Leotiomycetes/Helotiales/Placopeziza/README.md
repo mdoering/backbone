@@ -1,5 +1,4 @@
-Placopeziza F. von Höhnel, 1916 GENUS
-=======
+# Placopeziza F. von Höhnel, 1916 GENUS
 
 #### Status
 ACCEPTED

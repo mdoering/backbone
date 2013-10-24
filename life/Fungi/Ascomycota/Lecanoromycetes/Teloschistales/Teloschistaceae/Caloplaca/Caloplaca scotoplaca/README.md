@@ -1,5 +1,4 @@
-Caloplaca scotoplaca (Nyl.) H. Magn. SPECIES
-=======
+# Caloplaca scotoplaca (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

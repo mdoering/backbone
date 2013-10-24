@@ -1,17 +1,16 @@
-Dimerosporium mangiferae (Cooke) Sacc., 1882 SPECIES
-=======
+# Capnodium mangiferae Cooke, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 4(no. 31): 117 (1876)
 
 #### Original name
-null
+Capnodium mangiferae Cooke, 1876
 
 ### Remarks
 null

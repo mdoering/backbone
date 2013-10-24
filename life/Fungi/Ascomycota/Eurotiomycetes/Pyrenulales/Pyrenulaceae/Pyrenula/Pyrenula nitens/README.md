@@ -1,5 +1,4 @@
-Pyrenula nitens f. nitens FORM
-=======
+# Pyrenula nitens (Fée) Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenula nitens f. nitens
+Verrucaria nitens Fée
 
 ### Remarks
 null

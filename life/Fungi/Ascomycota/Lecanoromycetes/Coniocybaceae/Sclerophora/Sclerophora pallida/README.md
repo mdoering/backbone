@@ -1,17 +1,16 @@
-Chaenotheca coniophaea (Norman) Tibell SPECIES
-=======
+# Sclerophora pallida (Pers.) Y.J. Yao & Spooner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Beih. Nova Hedwigia 79: 664 (1984)
+Kew Bull. 54(3): 688 (1999)
 
 #### Original name
-Coniocybe coniophaea Norman
+Calicium pallidum Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chromotorula GENUS
-=======
+# Chromotorula GENUS
 
 #### Status
 ACCEPTED

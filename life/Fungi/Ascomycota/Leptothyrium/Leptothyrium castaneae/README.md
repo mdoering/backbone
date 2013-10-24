@@ -1,17 +1,16 @@
-Leptothyrium castaneae var. nucifoliae Massee VARIETY
-=======
+# Leptothyrium castaneae (Spreng.) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 8): 631 (1882)
 
 #### Original name
-Leptothyrium castaneae var. nucifoliae Massee
+Leptostroma castaneae Spreng., 1827
 
 ### Remarks
 null

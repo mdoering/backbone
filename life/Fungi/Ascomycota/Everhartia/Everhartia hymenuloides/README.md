@@ -1,5 +1,4 @@
-Everhartia hymenuloides Sacc. & Ellis, 1882 SPECIES
-=======
+# Everhartia hymenuloides Sacc. & Ellis, 1882 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum politum Fr. SPECIES
-=======
+# Hydnum politum Fr. SPECIES
 
 #### Status
 ACCEPTED

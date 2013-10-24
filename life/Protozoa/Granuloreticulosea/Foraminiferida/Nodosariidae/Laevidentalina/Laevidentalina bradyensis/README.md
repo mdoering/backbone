@@ -1,5 +1,4 @@
-Laevidentalina bradyensis (Dervieux, 1894) SPECIES
-=======
+# Laevidentalina bradyensis (Dervieux, 1894) SPECIES
 
 #### Status
 ACCEPTED

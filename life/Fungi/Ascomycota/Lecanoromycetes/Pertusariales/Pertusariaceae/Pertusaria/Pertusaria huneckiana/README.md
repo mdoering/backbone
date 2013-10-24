@@ -1,5 +1,4 @@
-Pertusaria huneckiana Feige & Lumbsch SPECIES
-=======
+# Pertusaria huneckiana Feige & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

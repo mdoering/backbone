@@ -1,5 +1,4 @@
-Typhula subsclerotioides S. Imai, 1930 SPECIES
-=======
+# Typhula subsclerotioides S. Imai, 1930 SPECIES
 
 #### Status
 ACCEPTED

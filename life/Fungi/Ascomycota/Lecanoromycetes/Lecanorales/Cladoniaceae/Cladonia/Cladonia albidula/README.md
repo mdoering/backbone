@@ -1,5 +1,4 @@
-Cladonia albidula Britzelm. SPECIES
-=======
+# Cladonia albidula Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon turneri Ellis & Everh. SPECIES
-=======
+# Lycoperdon turneri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

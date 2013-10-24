@@ -1,5 +1,4 @@
-Phaeographina strigops M. Wirth & Hale SPECIES
-=======
+# Phaeographina strigops M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

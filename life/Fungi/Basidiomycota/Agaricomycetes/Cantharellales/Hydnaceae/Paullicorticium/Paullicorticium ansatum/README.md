@@ -1,5 +1,4 @@
-Paullicorticium ansatum Liberta SPECIES
-=======
+# Paullicorticium ansatum Liberta SPECIES
 
 #### Status
 ACCEPTED

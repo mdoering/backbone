@@ -1,5 +1,4 @@
-Hysterium culmifragum Speg. SPECIES
-=======
+# Hysterium culmifragum Speg. SPECIES
 
 #### Status
 ACCEPTED

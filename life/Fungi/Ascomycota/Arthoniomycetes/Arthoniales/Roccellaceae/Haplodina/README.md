@@ -1,5 +1,4 @@
-Haplodina Zahlbr. GENUS
-=======
+# Haplodina Zahlbr. GENUS
 
 #### Status
 ACCEPTED

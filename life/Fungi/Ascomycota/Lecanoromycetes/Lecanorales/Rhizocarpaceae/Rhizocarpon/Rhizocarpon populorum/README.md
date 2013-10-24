@@ -1,5 +1,4 @@
-Rhizocarpon populorum SPECIES
-=======
+# Rhizocarpon populorum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporella wagneriana Rehm SPECIES
-=======
+# Cryptosporella wagneriana Rehm SPECIES
 
 #### Status
 ACCEPTED

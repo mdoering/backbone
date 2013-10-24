@@ -1,5 +1,4 @@
-Wollea Bornet & Flahault, 1886 GENUS
-=======
+# Wollea Bornet & Flahault, 1886 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora parvula Speg., 1908 SPECIES
-=======
+# Phyllachora parvula Speg., 1908 SPECIES
 
 #### Status
 ACCEPTED

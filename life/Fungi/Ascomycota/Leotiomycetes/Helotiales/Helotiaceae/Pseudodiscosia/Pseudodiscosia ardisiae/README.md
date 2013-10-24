@@ -1,5 +1,4 @@
-Pseudodiscosia ardisiae Tsukam. & Katsuki SPECIES
-=======
+# Pseudodiscosia ardisiae Tsukam. & Katsuki SPECIES
 
 #### Status
 ACCEPTED

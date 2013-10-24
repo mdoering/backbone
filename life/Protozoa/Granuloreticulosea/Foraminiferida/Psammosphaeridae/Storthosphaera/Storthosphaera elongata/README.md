@@ -1,5 +1,4 @@
-Storthosphaera elongata Cushman, 1918 SPECIES
-=======
+# Storthosphaera elongata Cushman, 1918 SPECIES
 
 #### Status
 ACCEPTED

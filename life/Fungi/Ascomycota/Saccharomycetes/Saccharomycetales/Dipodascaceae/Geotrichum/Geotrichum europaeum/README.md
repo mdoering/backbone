@@ -1,5 +1,4 @@
-Geotrichum europaeum de Hoog & M.T. Sm. SPECIES
-=======
+# Geotrichum europaeum de Hoog & M.T. Sm. SPECIES
 
 #### Status
 ACCEPTED

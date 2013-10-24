@@ -1,5 +1,4 @@
-Septoria datiscae Bondartsev SPECIES
-=======
+# Septoria datiscae Bondartsev SPECIES
 
 #### Status
 ACCEPTED

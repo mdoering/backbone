@@ -1,5 +1,4 @@
-Aspicilia sphaerospora (Tomin) Oxner SPECIES
-=======
+# Aspicilia sphaerospora (Tomin) Oxner SPECIES
 
 #### Status
 ACCEPTED

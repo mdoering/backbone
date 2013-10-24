@@ -1,5 +1,4 @@
-Ceratosporium multiseptatum Goid. SPECIES
-=======
+# Ceratosporium multiseptatum Goid. SPECIES
 
 #### Status
 ACCEPTED

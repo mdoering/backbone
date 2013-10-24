@@ -1,5 +1,4 @@
-Pullularia negeri Delitsch SPECIES
-=======
+# Pullularia negeri Delitsch SPECIES
 
 #### Status
 ACCEPTED

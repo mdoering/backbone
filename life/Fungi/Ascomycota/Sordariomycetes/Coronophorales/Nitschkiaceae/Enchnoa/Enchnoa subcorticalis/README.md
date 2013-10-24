@@ -1,5 +1,4 @@
-Enchnoa subcorticalis (Peck) M.E. Barr SPECIES
-=======
+# Enchnoa subcorticalis (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

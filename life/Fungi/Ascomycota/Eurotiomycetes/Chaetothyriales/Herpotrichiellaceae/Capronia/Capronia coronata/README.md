@@ -1,5 +1,4 @@
-Capronia coronata Samuels, 1987 SPECIES
-=======
+# Capronia coronata Samuels, 1987 SPECIES
 
 #### Status
 ACCEPTED

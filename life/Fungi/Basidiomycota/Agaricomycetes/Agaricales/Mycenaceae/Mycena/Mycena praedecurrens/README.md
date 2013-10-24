@@ -1,5 +1,4 @@
-Mycena praedecurrens Murrill SPECIES
-=======
+# Mycena praedecurrens Murrill SPECIES
 
 #### Status
 ACCEPTED

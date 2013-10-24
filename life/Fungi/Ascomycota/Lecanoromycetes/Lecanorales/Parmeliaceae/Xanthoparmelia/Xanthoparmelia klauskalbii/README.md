@@ -1,5 +1,4 @@
-Xanthoparmelia klauskalbii Elix SPECIES
-=======
+# Xanthoparmelia klauskalbii Elix SPECIES
 
 #### Status
 ACCEPTED

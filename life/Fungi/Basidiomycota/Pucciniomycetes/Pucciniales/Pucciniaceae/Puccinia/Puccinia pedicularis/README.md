@@ -1,5 +1,4 @@
-Puccinia pedicularis Thüm. SPECIES
-=======
+# Puccinia pedicularis Thüm. SPECIES
 
 #### Status
 ACCEPTED

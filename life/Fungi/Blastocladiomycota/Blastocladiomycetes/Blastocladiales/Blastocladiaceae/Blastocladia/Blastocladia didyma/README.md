@@ -1,5 +1,4 @@
-Blastocladia didyma S.N. Dasgupta & R. John SPECIES
-=======
+# Blastocladia didyma S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

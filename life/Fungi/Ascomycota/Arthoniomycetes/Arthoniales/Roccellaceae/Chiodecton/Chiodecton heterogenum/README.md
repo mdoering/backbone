@@ -1,14 +1,13 @@
-Stigmatidium heterogenum C. Knight SPECIES
-=======
+# Chiodecton heterogenum (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 42 (1882)
+Cat. Lich. Univers. 2: 478 (1923)
 
 #### Original name
 Stigmatidium heterogenum C. Knight

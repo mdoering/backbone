@@ -1,5 +1,4 @@
-Lithographa petrophila (Wedd.) Boistel SPECIES
-=======
+# Lithographa petrophila (Wedd.) Boistel SPECIES
 
 #### Status
 ACCEPTED

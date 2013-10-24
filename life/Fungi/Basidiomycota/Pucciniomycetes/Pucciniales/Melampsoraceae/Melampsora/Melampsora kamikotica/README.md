@@ -1,5 +1,4 @@
-Melampsora kamikotica S. Kaneko & Hirats. f. SPECIES
-=======
+# Melampsora kamikotica S. Kaneko & Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

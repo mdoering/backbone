@@ -1,5 +1,4 @@
-Pseudocercospora fici-septicae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora fici-septicae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodoglobus vestalii Sheridan et al., 2003 SPECIES
-=======
+# Rhodoglobus vestalii Sheridan et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

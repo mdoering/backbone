@@ -1,5 +1,4 @@
-Trichodina nigra Lom, 1960 SPECIES
-=======
+# Trichodina nigra Lom, 1960 SPECIES
 
 #### Status
 ACCEPTED

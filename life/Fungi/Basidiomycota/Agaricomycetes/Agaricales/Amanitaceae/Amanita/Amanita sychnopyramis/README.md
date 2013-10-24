@@ -1,5 +1,4 @@
-Amanita sychnopyramis Corner & Bas SPECIES
-=======
+# Amanita sychnopyramis Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

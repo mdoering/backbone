@@ -1,5 +1,4 @@
-Entoloma resutum (Fr.) Quél. SPECIES
-=======
+# Entoloma resutum (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

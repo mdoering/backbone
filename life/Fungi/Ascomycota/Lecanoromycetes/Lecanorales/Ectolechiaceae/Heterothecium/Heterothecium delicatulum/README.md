@@ -1,5 +1,4 @@
-Heterothecium delicatulum Müll. Arg. SPECIES
-=======
+# Heterothecium delicatulum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

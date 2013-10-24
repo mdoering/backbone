@@ -1,5 +1,4 @@
-Meliola deinbolliae Hansf. SPECIES
-=======
+# Meliola deinbolliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

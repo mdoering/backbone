@@ -1,5 +1,4 @@
-Diexallophasis simplex Wicander & Wood, 1981 SPECIES
-=======
+# Diexallophasis simplex Wicander & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

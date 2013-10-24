@@ -1,5 +1,4 @@
-Selenophoma eugeniae Chona & Munjal SPECIES
-=======
+# Selenophoma eugeniae Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

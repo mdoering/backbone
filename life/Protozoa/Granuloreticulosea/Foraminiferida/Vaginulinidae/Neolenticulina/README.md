@@ -1,5 +1,4 @@
-Neolenticulina McCulloch, 1977 GENUS
-=======
+# Neolenticulina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

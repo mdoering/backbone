@@ -1,5 +1,4 @@
-Asterina girardiniae Hosag. & C.K. Biju, 2005 SPECIES
-=======
+# Asterina girardiniae Hosag. & C.K. Biju, 2005 SPECIES
 
 #### Status
 ACCEPTED

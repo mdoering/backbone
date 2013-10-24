@@ -1,5 +1,4 @@
-Jansia nymaniana (Henn.) Penz. SPECIES
-=======
+# Jansia nymaniana (Henn.) Penz. SPECIES
 
 #### Status
 ACCEPTED

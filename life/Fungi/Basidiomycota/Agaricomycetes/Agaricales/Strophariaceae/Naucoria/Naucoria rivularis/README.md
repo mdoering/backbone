@@ -1,5 +1,4 @@
-Naucoria rivularis Velen. SPECIES
-=======
+# Naucoria rivularis Velen. SPECIES
 
 #### Status
 ACCEPTED

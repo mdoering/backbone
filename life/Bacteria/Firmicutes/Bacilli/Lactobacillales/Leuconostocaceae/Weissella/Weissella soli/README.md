@@ -1,5 +1,4 @@
-Weissella soli Magnusson et al., 2002 SPECIES
-=======
+# Weissella soli Magnusson et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

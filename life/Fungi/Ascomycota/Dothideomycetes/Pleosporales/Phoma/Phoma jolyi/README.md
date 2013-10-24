@@ -1,5 +1,4 @@
-Phoma jolyi M. Morelet SPECIES
-=======
+# Phoma jolyi M. Morelet SPECIES
 
 #### Status
 ACCEPTED

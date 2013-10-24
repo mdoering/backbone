@@ -1,14 +1,13 @@
-Phaeotrema platycarpum (Tuck.) Zahlbr. SPECIES
-=======
+# Chapsa platycarpa (Tuck.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 609 (1923)
+Biblthca Lichenol. 92: 113 (2006)
 
 #### Original name
 Thelotrema platycarpum Tuck.

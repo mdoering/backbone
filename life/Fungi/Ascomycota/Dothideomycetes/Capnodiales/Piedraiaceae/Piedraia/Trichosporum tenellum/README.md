@@ -1,5 +1,4 @@
-Trichosporum tenellum P. Karst. SPECIES
-=======
+# Trichosporum tenellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis strigata (C. Knight) Müll. Arg. SPECIES
-=======
+# Phaeographis strigata (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

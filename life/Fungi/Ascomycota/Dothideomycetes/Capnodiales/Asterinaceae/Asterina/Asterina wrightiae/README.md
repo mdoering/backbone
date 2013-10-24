@@ -1,5 +1,4 @@
-Asterina wrightiae Syd. SPECIES
-=======
+# Asterina wrightiae Syd. SPECIES
 
 #### Status
 ACCEPTED

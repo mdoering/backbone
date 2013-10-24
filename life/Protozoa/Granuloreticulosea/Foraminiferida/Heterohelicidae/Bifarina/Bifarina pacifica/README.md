@@ -1,5 +1,4 @@
-Bifarina pacifica Cushman & McCulloch, 1942 SPECIES
-=======
+# Bifarina pacifica Cushman & McCulloch, 1942 SPECIES
 
 #### Status
 ACCEPTED

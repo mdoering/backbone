@@ -1,5 +1,4 @@
-Acladium densissimum Schwein. SPECIES
-=======
+# Acladium densissimum Schwein. SPECIES
 
 #### Status
 ACCEPTED

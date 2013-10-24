@@ -1,5 +1,4 @@
-Bathelium sphaerioides (Mont.) Trevis. SPECIES
-=======
+# Bathelium sphaerioides (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

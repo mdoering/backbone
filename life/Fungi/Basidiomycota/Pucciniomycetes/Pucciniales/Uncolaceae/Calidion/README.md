@@ -1,5 +1,4 @@
-Calidion Syd. & P. Syd. GENUS
-=======
+# Calidion Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerella tanzanica Vezda & Farkas SPECIES
-=======
+# Dimerella tanzanica Vezda & Farkas SPECIES
 
 #### Status
 ACCEPTED

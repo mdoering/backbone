@@ -1,5 +1,4 @@
-Trichosporum macrosporum G. Arnaud, 1954 SPECIES
-=======
+# Trichosporum macrosporum G. Arnaud, 1954 SPECIES
 
 #### Status
 ACCEPTED

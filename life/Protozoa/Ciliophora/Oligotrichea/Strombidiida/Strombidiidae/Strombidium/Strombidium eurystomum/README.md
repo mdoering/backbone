@@ -1,5 +1,4 @@
-Strombidium eurystomum Lynn & Gilron, 1993 SPECIES
-=======
+# Strombidium eurystomum Lynn & Gilron, 1993 SPECIES
 
 #### Status
 ACCEPTED

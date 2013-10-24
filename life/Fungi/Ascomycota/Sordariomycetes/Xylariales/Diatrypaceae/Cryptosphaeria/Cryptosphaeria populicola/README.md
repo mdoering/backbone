@@ -1,5 +1,4 @@
-Cryptosphaeria populicola Speg. SPECIES
-=======
+# Cryptosphaeria populicola Speg. SPECIES
 
 #### Status
 ACCEPTED

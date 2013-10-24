@@ -1,5 +1,4 @@
-Phoma xyridis Allesch. SPECIES
-=======
+# Phoma xyridis Allesch. SPECIES
 
 #### Status
 ACCEPTED

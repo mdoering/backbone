@@ -1,5 +1,4 @@
-Pleurotus fuscosquamulosus D.A. Reid & Eicker SPECIES
-=======
+# Pleurotus fuscosquamulosus D.A. Reid & Eicker SPECIES
 
 #### Status
 ACCEPTED

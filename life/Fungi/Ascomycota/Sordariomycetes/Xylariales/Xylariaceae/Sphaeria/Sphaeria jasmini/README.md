@@ -1,5 +1,4 @@
-Sphaeria jasmini Schwein. SPECIES
-=======
+# Sphaeria jasmini Schwein. SPECIES
 
 #### Status
 ACCEPTED

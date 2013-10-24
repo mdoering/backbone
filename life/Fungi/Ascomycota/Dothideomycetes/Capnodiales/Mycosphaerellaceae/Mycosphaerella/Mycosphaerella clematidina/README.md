@@ -1,5 +1,4 @@
-Mycosphaerella clematidina Petr. SPECIES
-=======
+# Mycosphaerella clematidina Petr. SPECIES
 
 #### Status
 ACCEPTED

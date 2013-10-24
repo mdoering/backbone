@@ -1,5 +1,4 @@
-Solenopsora cupreobadia (Nyl.) M. Choisy & Werner SPECIES
-=======
+# Solenopsora cupreobadia (Nyl.) M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED

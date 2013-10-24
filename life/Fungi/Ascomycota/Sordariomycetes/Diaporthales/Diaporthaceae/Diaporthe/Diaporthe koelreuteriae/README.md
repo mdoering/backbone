@@ -1,5 +1,4 @@
-Diaporthe koelreuteriae (Durieu) Sacc. SPECIES
-=======
+# Diaporthe koelreuteriae (Durieu) Sacc. SPECIES
 
 #### Status
 ACCEPTED

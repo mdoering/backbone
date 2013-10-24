@@ -1,5 +1,4 @@
-Sphaeria inamoena Lév. SPECIES
-=======
+# Sphaeria inamoena Lév. SPECIES
 
 #### Status
 ACCEPTED

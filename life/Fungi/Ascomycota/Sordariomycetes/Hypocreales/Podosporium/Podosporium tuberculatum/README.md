@@ -1,5 +1,4 @@
-Podosporium tuberculatum Arthur SPECIES
-=======
+# Podosporium tuberculatum Arthur SPECIES
 
 #### Status
 ACCEPTED

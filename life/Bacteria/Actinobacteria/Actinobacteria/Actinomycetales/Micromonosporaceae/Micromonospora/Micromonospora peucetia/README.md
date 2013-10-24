@@ -1,5 +1,4 @@
-Micromonospora peucetia Kroppenstedt et al., 2005 SPECIES
-=======
+# Micromonospora peucetia Kroppenstedt et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

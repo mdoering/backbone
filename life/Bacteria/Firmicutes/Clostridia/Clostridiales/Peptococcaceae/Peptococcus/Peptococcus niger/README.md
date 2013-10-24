@@ -1,5 +1,4 @@
-Peptococcus niger (Hall, 1930) Kluyver and van Niel, 1936 (Approved Lists, 1980) SPECIES
-=======
+# Peptococcus niger (Hall, 1930) Kluyver and van Niel, 1936 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

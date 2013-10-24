@@ -1,5 +1,4 @@
-Mycosphaerella salvatorensis Jaap SPECIES
-=======
+# Mycosphaerella salvatorensis Jaap SPECIES
 
 #### Status
 ACCEPTED

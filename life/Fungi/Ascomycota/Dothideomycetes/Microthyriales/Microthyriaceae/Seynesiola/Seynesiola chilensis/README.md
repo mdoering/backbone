@@ -1,5 +1,4 @@
-Seynesiola chilensis (Speg.) Speg. SPECIES
-=======
+# Seynesiola chilensis (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

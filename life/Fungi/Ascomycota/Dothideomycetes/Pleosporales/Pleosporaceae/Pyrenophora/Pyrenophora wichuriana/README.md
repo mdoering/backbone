@@ -1,5 +1,4 @@
-Pyrenophora wichuriana (J. Schröt.) Sacc. SPECIES
-=======
+# Pyrenophora wichuriana (J. Schröt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

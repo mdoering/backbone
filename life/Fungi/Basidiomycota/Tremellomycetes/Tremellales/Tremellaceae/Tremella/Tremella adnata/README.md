@@ -1,5 +1,4 @@
-Tremella adnata L. SPECIES
-=======
+# Tremella adnata L. SPECIES
 
 #### Status
 ACCEPTED

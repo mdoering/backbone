@@ -1,5 +1,4 @@
-Pholiota simulans A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota simulans A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

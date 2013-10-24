@@ -1,5 +1,4 @@
-Catharinia pazschkeana Rehm SPECIES
-=======
+# Catharinia pazschkeana Rehm SPECIES
 
 #### Status
 ACCEPTED

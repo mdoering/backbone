@@ -1,5 +1,4 @@
-Bottaria subochracea (Nyl.) Vain. SPECIES
-=======
+# Bottaria subochracea (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

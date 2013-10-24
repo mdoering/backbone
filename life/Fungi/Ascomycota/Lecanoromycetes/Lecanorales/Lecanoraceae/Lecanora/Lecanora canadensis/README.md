@@ -1,5 +1,4 @@
-Lecanora canadensis Lynge & H. Magn. SPECIES
-=======
+# Lecanora canadensis Lynge & H. Magn. SPECIES
 
 #### Status
 ACCEPTED

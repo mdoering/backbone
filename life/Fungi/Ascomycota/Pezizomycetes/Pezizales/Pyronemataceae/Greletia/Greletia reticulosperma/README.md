@@ -1,5 +1,4 @@
-Greletia reticulosperma Donadini, Riousset & G. Riousset SPECIES
-=======
+# Greletia reticulosperma Donadini, Riousset & G. Riousset SPECIES
 
 #### Status
 ACCEPTED

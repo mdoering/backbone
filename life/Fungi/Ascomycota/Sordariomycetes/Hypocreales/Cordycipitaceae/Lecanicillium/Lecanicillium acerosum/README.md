@@ -1,5 +1,4 @@
-Lecanicillium acerosum W. Gams, H.C. Evans & Zare, 2001 SPECIES
-=======
+# Lecanicillium acerosum W. Gams, H.C. Evans & Zare, 2001 SPECIES
 
 #### Status
 ACCEPTED

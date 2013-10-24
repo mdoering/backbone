@@ -1,17 +1,16 @@
-Poria mollusca subsp. mollusca SUBSPECIES
-=======
+# Trechispora mollusca (Pers.) Liberta, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 72): 109 (1886)
+Can. J. Bot. 51(10): 1878 (1974)
 
 #### Original name
-Poria mollusca subsp. mollusca
+Boletus molluscus Pers., 1801
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sarcinella heterospora Sacc., 1877 SPECIES
-=======
+# Sarcinella heterospora Sacc., 1877 SPECIES
 
 #### Status
 ACCEPTED

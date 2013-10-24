@@ -1,5 +1,4 @@
-Trichostroma fuscum P. Karst. SPECIES
-=======
+# Trichostroma fuscum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizospora Yan, 1995 GENUS
-=======
+# Schizospora Yan, 1995 GENUS
 
 #### Status
 ACCEPTED

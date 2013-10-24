@@ -1,14 +1,13 @@
-Verrucaria subnectenda Nyl. SPECIES
-=======
+# Anisomeridium subnectendum (Nyl.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , Bot. 20: 61 (1883)
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 150 (1995)
 
 #### Original name
 Verrucaria subnectenda Nyl.

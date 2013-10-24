@@ -1,5 +1,4 @@
-Geopora brunneola Harkn. SPECIES
-=======
+# Geopora brunneola Harkn. SPECIES
 
 #### Status
 ACCEPTED

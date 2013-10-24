@@ -1,17 +1,16 @@
-Alphitomorpha depressa var. depressa VARIETY
-=======
+# Erysiphe depressa (Wallr.) Schltdl., 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. Ges. nat. Freunde Berlin 1(1): 34 (1819)
+null
 
 #### Original name
-Alphitomorpha depressa var. depressa
+Alphitomorpha depressa Wallr., 1819
 
 ### Remarks
 null

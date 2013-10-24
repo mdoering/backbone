@@ -1,5 +1,4 @@
-Alternantia ramifera J. Schiller SPECIES
-=======
+# Alternantia ramifera J. Schiller SPECIES
 
 #### Status
 ACCEPTED

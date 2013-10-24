@@ -1,5 +1,4 @@
-Peridinium hemisphaericum T. H. Abé SPECIES
-=======
+# Peridinium hemisphaericum T. H. Abé SPECIES
 
 #### Status
 ACCEPTED

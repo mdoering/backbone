@@ -1,5 +1,4 @@
-Cephalosporium dieffenbachiae Linn SPECIES
-=======
+# Cephalosporium dieffenbachiae Linn SPECIES
 
 #### Status
 ACCEPTED

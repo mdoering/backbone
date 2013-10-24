@@ -1,5 +1,4 @@
-Staurothele glacialis Herre SPECIES
-=======
+# Staurothele glacialis Herre SPECIES
 
 #### Status
 ACCEPTED

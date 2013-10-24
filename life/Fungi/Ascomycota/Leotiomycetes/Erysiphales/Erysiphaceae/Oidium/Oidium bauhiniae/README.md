@@ -1,5 +1,4 @@
-Oidium bauhiniae G.J.M. Gorter & Eicker SPECIES
-=======
+# Oidium bauhiniae G.J.M. Gorter & Eicker SPECIES
 
 #### Status
 ACCEPTED

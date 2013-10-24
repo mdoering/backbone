@@ -1,5 +1,4 @@
-Arthonia rupicola Fink ex J. Hedrick SPECIES
-=======
+# Arthonia rupicola Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laurera effusa Aptroot & Sipman SPECIES
-=======
+# Laurera effusa Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

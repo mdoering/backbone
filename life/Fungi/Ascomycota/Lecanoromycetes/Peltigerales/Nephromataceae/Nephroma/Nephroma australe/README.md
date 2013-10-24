@@ -1,5 +1,4 @@
-Nephroma australe A. Rich. SPECIES
-=======
+# Nephroma australe A. Rich. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Psammophis Schellwien, 1898 GENUS
-=======
+# Ammovertella Cushman, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Palaeontogr. , 44, no. 5-6, 266.
+Contr. Cushman. Lab. Foraminif. , 4, 1-8.
 
 #### Original name
-null
+Psammophis Schellwien, 1898
 
 ### Remarks
 null

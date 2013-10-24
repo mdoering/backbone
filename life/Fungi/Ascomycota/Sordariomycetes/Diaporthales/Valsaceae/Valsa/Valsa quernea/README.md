@@ -1,5 +1,4 @@
-Valsa quernea Curr. SPECIES
-=======
+# Valsa quernea Curr. SPECIES
 
 #### Status
 ACCEPTED

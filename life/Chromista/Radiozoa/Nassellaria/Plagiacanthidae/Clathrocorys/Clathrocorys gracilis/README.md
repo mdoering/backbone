@@ -1,5 +1,4 @@
-Clathrocorys gracilis Wang, 2005 SPECIES
-=======
+# Clathrocorys gracilis Wang, 2005 SPECIES
 
 #### Status
 ACCEPTED

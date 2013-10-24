@@ -1,5 +1,4 @@
-Citromyces viridoalbus Sopp SPECIES
-=======
+# Citromyces viridoalbus Sopp SPECIES
 
 #### Status
 ACCEPTED

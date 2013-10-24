@@ -1,5 +1,4 @@
-Lecanactis kerguelensis C.W. Dodge SPECIES
-=======
+# Lecanactis kerguelensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

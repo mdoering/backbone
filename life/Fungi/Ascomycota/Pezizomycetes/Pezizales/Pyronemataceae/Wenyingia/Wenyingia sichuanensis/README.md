@@ -1,5 +1,4 @@
-Wenyingia sichuanensis Zheng Wang & Pfister, 2001 SPECIES
-=======
+# Wenyingia sichuanensis Zheng Wang & Pfister, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezicula paradoxa Dennis, 1974 SPECIES
-=======
+# Pezicula paradoxa Dennis, 1974 SPECIES
 
 #### Status
 ACCEPTED

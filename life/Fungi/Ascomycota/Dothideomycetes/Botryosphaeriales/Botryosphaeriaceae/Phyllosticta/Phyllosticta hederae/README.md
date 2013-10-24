@@ -1,5 +1,4 @@
-Phyllosticta hederae Sacc. & Roum. SPECIES
-=======
+# Phyllosticta hederae Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

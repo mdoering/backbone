@@ -1,5 +1,4 @@
-Leptodothiora austriaca Petr. SPECIES
-=======
+# Leptodothiora austriaca Petr. SPECIES
 
 #### Status
 ACCEPTED

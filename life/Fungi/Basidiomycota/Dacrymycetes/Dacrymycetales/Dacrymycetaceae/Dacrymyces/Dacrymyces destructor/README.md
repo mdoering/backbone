@@ -1,5 +1,4 @@
-Dacrymyces destructor Berk. & Ravenel SPECIES
-=======
+# Dacrymyces destructor Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pestalozzina cordylines Speg., 1910 SPECIES
-=======
+# Zetiasplozna cordylines (Speg.) Nag Raj, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 13: 372 (1910)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 998 (1993)
 
 #### Original name
 Pestalozzina cordylines Speg., 1910

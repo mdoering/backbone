@@ -1,5 +1,4 @@
-Acarospora regnelliana R. Sant. SPECIES
-=======
+# Acarospora regnelliana R. Sant. SPECIES
 
 #### Status
 ACCEPTED

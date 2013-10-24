@@ -1,5 +1,4 @@
-Xerocomus illudens subsp. illudens SUBSPECIES
-=======
+# Xerocomus illudens (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xerocomus illudens subsp. illudens
+Boletus illudens Peck
 
 ### Remarks
 null

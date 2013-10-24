@@ -1,5 +1,4 @@
-Mazosia quadrangula (Stirt.) Zahlbr. SPECIES
-=======
+# Mazosia quadrangula (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

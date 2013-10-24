@@ -1,5 +1,4 @@
-Strigula parksii Räsänen SPECIES
-=======
+# Strigula parksii Räsänen SPECIES
 
 #### Status
 ACCEPTED

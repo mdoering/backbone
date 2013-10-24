@@ -1,5 +1,4 @@
-Sphaerostilbe fusca Fuckel SPECIES
-=======
+# Sphaerostilbe fusca Fuckel SPECIES
 
 #### Status
 ACCEPTED

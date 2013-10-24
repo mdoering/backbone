@@ -1,5 +1,4 @@
-Wuestneia eucalyptorum Crous, M.J. Wingf. & Nag Raj SPECIES
-=======
+# Wuestneia eucalyptorum Crous, M.J. Wingf. & Nag Raj SPECIES
 
 #### Status
 ACCEPTED

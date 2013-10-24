@@ -1,5 +1,4 @@
-Asterothyrium umbilicatum (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Asterothyrium umbilicatum (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bactrospora arthonioides Egea & Torrente SPECIES
-=======
+# Bactrospora arthonioides Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

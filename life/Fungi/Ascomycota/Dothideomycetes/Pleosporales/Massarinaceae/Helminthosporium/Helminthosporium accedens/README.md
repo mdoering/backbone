@@ -1,5 +1,4 @@
-Helminthosporium accedens Syd. SPECIES
-=======
+# Helminthosporium accedens Syd. SPECIES
 
 #### Status
 ACCEPTED

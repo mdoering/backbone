@@ -1,5 +1,4 @@
-Lophiostoma fallax Fabre SPECIES
-=======
+# Lophiostoma fallax Fabre SPECIES
 
 #### Status
 ACCEPTED

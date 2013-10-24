@@ -1,5 +1,4 @@
-Leccinum huronense A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum huronense A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

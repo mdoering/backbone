@@ -1,5 +1,4 @@
-Septoria sugomakensis Trotter SPECIES
-=======
+# Septoria sugomakensis Trotter SPECIES
 
 #### Status
 ACCEPTED

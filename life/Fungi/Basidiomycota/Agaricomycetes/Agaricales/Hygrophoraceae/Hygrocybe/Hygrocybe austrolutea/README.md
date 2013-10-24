@@ -1,5 +1,4 @@
-Hygrocybe austrolutea A.M. Young SPECIES
-=======
+# Hygrocybe austrolutea A.M. Young SPECIES
 
 #### Status
 ACCEPTED

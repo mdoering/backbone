@@ -1,5 +1,4 @@
-Melosira arenentii (Kolbe) Nagumo & Kobayasi, 1977 SPECIES
-=======
+# Melosira arenentii (Kolbe) Nagumo & Kobayasi, 1977 SPECIES
 
 #### Status
 ACCEPTED

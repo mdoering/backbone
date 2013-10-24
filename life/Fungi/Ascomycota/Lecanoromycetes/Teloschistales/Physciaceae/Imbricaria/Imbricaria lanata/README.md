@@ -1,5 +1,4 @@
-Imbricaria lanata (Neck.) Arnold SPECIES
-=======
+# Imbricaria lanata (Neck.) Arnold SPECIES
 
 #### Status
 ACCEPTED

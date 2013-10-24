@@ -1,5 +1,4 @@
-Agaricus laciniatus With. SPECIES
-=======
+# Agaricus laciniatus With. SPECIES
 
 #### Status
 ACCEPTED

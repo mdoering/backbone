@@ -1,5 +1,4 @@
-Cortinarius whiteae Peck SPECIES
-=======
+# Cortinarius whiteae Peck SPECIES
 
 #### Status
 ACCEPTED

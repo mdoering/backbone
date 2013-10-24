@@ -1,5 +1,4 @@
-Gloeocapsa gigas W. West & G.S. West SPECIES
-=======
+# Gloeocapsa gigas W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium pyrinum Peglion SPECIES
-=======
+# Gloeosporium pyrinum Peglion SPECIES
 
 #### Status
 ACCEPTED

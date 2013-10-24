@@ -1,5 +1,4 @@
-Tethysetta boesii SPECIES
-=======
+# Tethysetta boesii SPECIES
 
 #### Status
 ACCEPTED

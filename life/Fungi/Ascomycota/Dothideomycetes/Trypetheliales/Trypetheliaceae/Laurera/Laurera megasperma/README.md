@@ -1,17 +1,16 @@
-Laurera megasperma f. megasperma FORM
-=======
+# Laurera megasperma (Mont.) Riddle SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Torrey bot. Club 44(7): 323 (1917)
 
 #### Original name
-Laurera megasperma f. megasperma
+Trypethelium megaspermum Mont.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea permodica Stizenb. SPECIES
-=======
+# Lecidea permodica Stizenb. SPECIES
 
 #### Status
 ACCEPTED

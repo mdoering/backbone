@@ -1,5 +1,4 @@
-Russula mayawatiana K. Das, S.L. Mill. & J.R. Sharma SPECIES
-=======
+# Russula mayawatiana K. Das, S.L. Mill. & J.R. Sharma SPECIES
 
 #### Status
 ACCEPTED

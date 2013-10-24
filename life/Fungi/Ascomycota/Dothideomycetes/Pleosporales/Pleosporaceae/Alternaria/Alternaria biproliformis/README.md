@@ -1,5 +1,4 @@
-Alternaria biproliformis T.Y. Zhang SPECIES
-=======
+# Alternaria biproliformis T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

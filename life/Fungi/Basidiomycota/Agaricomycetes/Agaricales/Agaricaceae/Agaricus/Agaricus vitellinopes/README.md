@@ -1,5 +1,4 @@
-Agaricus vitellinopes Secr. SPECIES
-=======
+# Agaricus vitellinopes Secr. SPECIES
 
 #### Status
 ACCEPTED

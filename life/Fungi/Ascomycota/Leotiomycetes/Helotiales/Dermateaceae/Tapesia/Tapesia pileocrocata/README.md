@@ -1,5 +1,4 @@
-Tapesia pileocrocata (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Tapesia pileocrocata (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

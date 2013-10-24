@@ -1,5 +1,4 @@
-Myzocytiopsis elegans (Perronc.) M.W. Dick SPECIES
-=======
+# Myzocytiopsis elegans (Perronc.) M.W. Dick SPECIES
 
 #### Status
 ACCEPTED

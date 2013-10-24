@@ -1,5 +1,4 @@
-Buellia fuliginosa Müll. Arg. SPECIES
-=======
+# Buellia fuliginosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Galerina pseudocamerina var. fulvovelosa A.H. Sm. VARIETY
-=======
+# Galerina pseudocamerina Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 572 (1951)
 
 #### Original name
-Galerina pseudocamerina var. fulvovelosa A.H. Sm.
+Galerina pseudocamerina Singer, 1951
 
 ### Remarks
 null

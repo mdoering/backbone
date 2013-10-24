@@ -1,5 +1,4 @@
-Seuratiopsis epiphylla Woron., 1934 SPECIES
-=======
+# Seuratiopsis epiphylla Woron., 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Degelia durietzii Arv. & D.J. Galloway SPECIES
-=======
+# Degelia durietzii Arv. & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

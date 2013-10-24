@@ -1,5 +1,4 @@
-Lecanora variolosa (Körb.) Szatala SPECIES
-=======
+# Lecanora variolosa (Körb.) Szatala SPECIES
 
 #### Status
 ACCEPTED

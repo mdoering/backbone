@@ -1,5 +1,4 @@
-Lecanora elacista (Ach.) A, Massal. SPECIES
-=======
+# Lecanora elacista (Ach.) A, Massal. SPECIES
 
 #### Status
 ACCEPTED

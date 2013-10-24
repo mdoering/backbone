@@ -1,5 +1,4 @@
-Diatrype bukobensis Henn. SPECIES
-=======
+# Diatrype bukobensis Henn. SPECIES
 
 #### Status
 ACCEPTED

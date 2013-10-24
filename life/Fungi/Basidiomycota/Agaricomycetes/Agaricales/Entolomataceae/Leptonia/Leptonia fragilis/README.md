@@ -1,5 +1,4 @@
-Leptonia fragilis (R.E.D. Baker & W.T. Dale) Dennis SPECIES
-=======
+# Leptonia fragilis (R.E.D. Baker & W.T. Dale) Dennis SPECIES
 
 #### Status
 ACCEPTED

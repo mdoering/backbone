@@ -1,5 +1,4 @@
-Carlia solidaginis (Fr.) Höhn. SPECIES
-=======
+# Carlia solidaginis (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces inconspicuus G.H. Otth SPECIES
-=======
+# Uromyces inconspicuus G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

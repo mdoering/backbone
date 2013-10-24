@@ -1,5 +1,4 @@
-Chromulina pallida Perty SPECIES
-=======
+# Chromulina pallida Perty SPECIES
 
 #### Status
 ACCEPTED

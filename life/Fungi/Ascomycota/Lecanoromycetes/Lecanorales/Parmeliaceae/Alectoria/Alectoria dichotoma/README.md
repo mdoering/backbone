@@ -1,5 +1,4 @@
-Alectoria dichotoma (Hoffm.) Samp. SPECIES
-=======
+# Alectoria dichotoma (Hoffm.) Samp. SPECIES
 
 #### Status
 ACCEPTED

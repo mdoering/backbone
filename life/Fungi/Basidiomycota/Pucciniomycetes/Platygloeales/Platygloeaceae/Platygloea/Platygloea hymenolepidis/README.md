@@ -1,5 +1,4 @@
-Platygloea hymenolepidis Racib. SPECIES
-=======
+# Platygloea hymenolepidis Racib. SPECIES
 
 #### Status
 ACCEPTED

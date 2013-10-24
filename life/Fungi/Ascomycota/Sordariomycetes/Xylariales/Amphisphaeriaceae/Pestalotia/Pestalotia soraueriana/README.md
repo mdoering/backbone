@@ -1,5 +1,4 @@
-Pestalotia soraueriana Sacc. SPECIES
-=======
+# Pestalotia soraueriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

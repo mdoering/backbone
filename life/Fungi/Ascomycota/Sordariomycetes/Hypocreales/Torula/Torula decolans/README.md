@@ -1,5 +1,4 @@
-Torula decolans Okun. SPECIES
-=======
+# Torula decolans Okun. SPECIES
 
 #### Status
 ACCEPTED

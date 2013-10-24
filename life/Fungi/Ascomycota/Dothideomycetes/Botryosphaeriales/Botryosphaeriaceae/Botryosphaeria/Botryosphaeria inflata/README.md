@@ -1,5 +1,4 @@
-Botryosphaeria inflata Cooke & Massee SPECIES
-=======
+# Botryosphaeria inflata Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus sororius P. Karst. SPECIES
-=======
+# Coprinus sororius P. Karst. SPECIES
 
 #### Status
 ACCEPTED

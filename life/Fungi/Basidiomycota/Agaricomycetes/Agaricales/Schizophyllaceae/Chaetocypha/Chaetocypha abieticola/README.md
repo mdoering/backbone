@@ -1,5 +1,4 @@
-Chaetocypha abieticola Kuntze SPECIES
-=======
+# Chaetocypha abieticola Kuntze SPECIES
 
 #### Status
 ACCEPTED

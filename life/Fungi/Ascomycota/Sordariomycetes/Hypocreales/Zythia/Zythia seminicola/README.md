@@ -1,5 +1,4 @@
-Zythia seminicola Henn. SPECIES
-=======
+# Zythia seminicola Henn. SPECIES
 
 #### Status
 ACCEPTED

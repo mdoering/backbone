@@ -1,5 +1,4 @@
-Entoloma substrictius Murrill SPECIES
-=======
+# Entoloma substrictius Murrill SPECIES
 
 #### Status
 ACCEPTED

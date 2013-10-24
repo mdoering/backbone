@@ -1,5 +1,4 @@
-Stictis epruinosa Sherwood SPECIES
-=======
+# Stictis epruinosa Sherwood SPECIES
 
 #### Status
 ACCEPTED

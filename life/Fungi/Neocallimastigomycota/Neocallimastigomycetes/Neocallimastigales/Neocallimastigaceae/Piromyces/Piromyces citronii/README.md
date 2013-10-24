@@ -1,5 +1,4 @@
-Piromyces citronii B. Gaillard, Breton, Dusser & Julliand, 1995 SPECIES
-=======
+# Piromyces citronii B. Gaillard, Breton, Dusser & Julliand, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena ursina Speg. SPECIES
-=======
+# Mycena ursina Speg. SPECIES
 
 #### Status
 ACCEPTED

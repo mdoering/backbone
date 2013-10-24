@@ -1,5 +1,4 @@
-Macroplodia zonata (Pass.) Kuntze SPECIES
-=======
+# Macroplodia zonata (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

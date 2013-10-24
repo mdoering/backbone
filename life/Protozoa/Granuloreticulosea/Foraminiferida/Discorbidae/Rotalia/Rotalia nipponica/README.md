@@ -1,5 +1,4 @@
-Rotalia nipponica Asano, 1937 SPECIES
-=======
+# Rotalia nipponica Asano, 1937 SPECIES
 
 #### Status
 ACCEPTED

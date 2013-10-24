@@ -1,5 +1,4 @@
-Porina pelochroa Müll. Arg. SPECIES
-=======
+# Porina pelochroa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

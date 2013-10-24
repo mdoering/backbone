@@ -1,5 +1,4 @@
-Togninia tetraspora (J. Schröt.) Berl. SPECIES
-=======
+# Togninia tetraspora (J. Schröt.) Berl. SPECIES
 
 #### Status
 ACCEPTED

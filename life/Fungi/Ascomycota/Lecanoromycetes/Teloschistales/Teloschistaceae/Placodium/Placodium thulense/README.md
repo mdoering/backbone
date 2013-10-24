@@ -1,5 +1,4 @@
-Placodium thulense var. thulense VARIETY
-=======
+# Placodium thulense (Th. Fr.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium thulense var. thulense
+Lecanora thulensis Th. Fr.
 
 ### Remarks
 null

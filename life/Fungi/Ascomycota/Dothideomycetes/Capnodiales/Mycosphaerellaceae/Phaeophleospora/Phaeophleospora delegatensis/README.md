@@ -1,5 +1,4 @@
-Phaeophleospora delegatensis (R.F. Park & Keane) Crous SPECIES
-=======
+# Phaeophleospora delegatensis (R.F. Park & Keane) Crous SPECIES
 
 #### Status
 ACCEPTED

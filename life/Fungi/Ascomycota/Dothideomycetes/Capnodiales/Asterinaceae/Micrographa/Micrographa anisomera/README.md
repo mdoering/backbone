@@ -1,5 +1,4 @@
-Micrographa anisomera Müll. Arg. SPECIES
-=======
+# Micrographa anisomera Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

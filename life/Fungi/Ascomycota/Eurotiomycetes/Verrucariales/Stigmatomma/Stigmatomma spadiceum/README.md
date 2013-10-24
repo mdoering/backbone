@@ -1,5 +1,4 @@
-Stigmatomma spadiceum (Wallr.) Körb. SPECIES
-=======
+# Stigmatomma spadiceum (Wallr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichia mucoriformis Schumach. SPECIES
-=======
+# Trichia mucoriformis Schumach. SPECIES
 
 #### Status
 ACCEPTED

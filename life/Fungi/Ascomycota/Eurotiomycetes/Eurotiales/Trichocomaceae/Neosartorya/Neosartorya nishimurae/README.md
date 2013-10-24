@@ -1,5 +1,4 @@
-Neosartorya nishimurae Takada, Y. Horie & Abliz SPECIES
-=======
+# Neosartorya nishimurae Takada, Y. Horie & Abliz SPECIES
 
 #### Status
 ACCEPTED

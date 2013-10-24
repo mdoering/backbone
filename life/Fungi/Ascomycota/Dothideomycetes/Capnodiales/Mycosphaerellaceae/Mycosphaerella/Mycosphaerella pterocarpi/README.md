@@ -1,5 +1,4 @@
-Mycosphaerella pterocarpi J. Kranz SPECIES
-=======
+# Mycosphaerella pterocarpi J. Kranz SPECIES
 
 #### Status
 ACCEPTED

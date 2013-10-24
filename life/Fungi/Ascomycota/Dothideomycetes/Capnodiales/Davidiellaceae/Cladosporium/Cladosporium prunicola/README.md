@@ -1,5 +1,4 @@
-Cladosporium prunicola McAlpine SPECIES
-=======
+# Cladosporium prunicola McAlpine SPECIES
 
 #### Status
 ACCEPTED

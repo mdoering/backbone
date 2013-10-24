@@ -1,5 +1,4 @@
-Septoria mellispora Pat. SPECIES
-=======
+# Septoria mellispora Pat. SPECIES
 
 #### Status
 ACCEPTED

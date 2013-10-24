@@ -1,5 +1,4 @@
-Asteromyxa inconspicua Doidge SPECIES
-=======
+# Asteromyxa inconspicua Doidge SPECIES
 
 #### Status
 ACCEPTED

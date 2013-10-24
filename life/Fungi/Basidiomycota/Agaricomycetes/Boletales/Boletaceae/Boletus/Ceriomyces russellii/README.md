@@ -1,5 +1,4 @@
-Ceriomyces russellii (Frost) Murrill SPECIES
-=======
+# Ceriomyces russellii (Frost) Murrill SPECIES
 
 #### Status
 ACCEPTED

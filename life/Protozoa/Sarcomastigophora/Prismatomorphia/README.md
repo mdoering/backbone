@@ -1,5 +1,4 @@
-Prismatomorphia Loeblich & Tappan, 1986 GENUS
-=======
+# Prismatomorphia Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

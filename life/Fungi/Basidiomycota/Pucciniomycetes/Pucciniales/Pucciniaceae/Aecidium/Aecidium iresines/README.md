@@ -1,5 +1,4 @@
-Aecidium iresines Jørst. SPECIES
-=======
+# Aecidium iresines Jørst. SPECIES
 
 #### Status
 ACCEPTED

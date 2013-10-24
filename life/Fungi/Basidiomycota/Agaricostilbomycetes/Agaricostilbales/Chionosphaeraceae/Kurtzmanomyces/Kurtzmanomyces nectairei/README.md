@@ -1,14 +1,13 @@
-Fellomyces nectairii (Rodr. Mir.) Y. Yamada & I. Banno SPECIES
-=======
+# Kurtzmanomyces nectairei (Rodr. Mir.) Y. Yamada, Itoh, H. Kawas., I. Banno & Nakase, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. gen. appl. Microbiol. , Tokyo 34(6): 505 (1989)
 
 #### Original name
 Sterigmatomyces nectairei Rodr. Mir., 1975

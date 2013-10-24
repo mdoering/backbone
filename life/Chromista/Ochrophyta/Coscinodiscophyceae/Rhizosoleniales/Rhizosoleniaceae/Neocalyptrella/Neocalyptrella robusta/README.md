@@ -1,11 +1,10 @@
-Calyptrella robusta (G.Norman ex Ralfs) D.U.Hernández-Becerril & M.E.Meave del Castillo, 1996 SPECIES
-=======
+# Neocalyptrella robusta (Norman ex Ralfs) D. U. Hernández-Becerril & M. E. Meave del Castillo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

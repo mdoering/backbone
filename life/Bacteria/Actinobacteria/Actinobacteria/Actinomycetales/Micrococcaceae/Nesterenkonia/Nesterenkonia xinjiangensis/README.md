@@ -1,5 +1,4 @@
-Nesterenkonia xinjiangensis Li et al., 2004 SPECIES
-=======
+# Nesterenkonia xinjiangensis Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

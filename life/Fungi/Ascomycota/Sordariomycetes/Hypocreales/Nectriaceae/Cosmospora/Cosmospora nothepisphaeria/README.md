@@ -1,14 +1,13 @@
-Nectria nothepisphaeria Samuels, 1991 SPECIES
-=======
+# Cosmospora nothepisphaeria (Samuels) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 164: 30 (1991)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 123 (1999)
 
 #### Original name
 Nectria nothepisphaeria Samuels, 1991

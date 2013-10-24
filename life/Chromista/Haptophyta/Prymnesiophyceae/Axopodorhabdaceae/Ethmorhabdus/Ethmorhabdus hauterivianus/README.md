@@ -1,5 +1,4 @@
-Ethmorhabdus hauterivianus SPECIES
-=======
+# Ethmorhabdus hauterivianus SPECIES
 
 #### Status
 ACCEPTED

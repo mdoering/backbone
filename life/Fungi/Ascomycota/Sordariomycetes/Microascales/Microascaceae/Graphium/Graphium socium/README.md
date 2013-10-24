@@ -1,5 +1,4 @@
-Graphium socium Sacc. SPECIES
-=======
+# Graphium socium Sacc. SPECIES
 
 #### Status
 ACCEPTED

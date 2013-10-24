@@ -1,5 +1,4 @@
-Sphaerospora strasseri Bres. SPECIES
-=======
+# Sphaerospora strasseri Bres. SPECIES
 
 #### Status
 ACCEPTED

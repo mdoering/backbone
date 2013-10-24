@@ -1,5 +1,4 @@
-Arthonia extensa (Fée) Zahlbr. SPECIES
-=======
+# Arthonia extensa (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

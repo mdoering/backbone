@@ -1,5 +1,4 @@
-Stilbospora robiniae Oudem. SPECIES
-=======
+# Stilbospora robiniae Oudem. SPECIES
 
 #### Status
 ACCEPTED

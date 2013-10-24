@@ -1,5 +1,4 @@
-Lepidoma canescens (Dicks.) Gray SPECIES
-=======
+# Lepidoma canescens (Dicks.) Gray SPECIES
 
 #### Status
 ACCEPTED

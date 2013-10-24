@@ -1,14 +1,13 @@
-Circinaria erythroxyli (Spreng.) Fée SPECIES
-=======
+# Coccocarpia erythroxyli (Spreng.) Swinscow & Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Norw. Jl Bot. 23: 254 (1976)
 
 #### Original name
 Lecidea erythroxyli Spreng.

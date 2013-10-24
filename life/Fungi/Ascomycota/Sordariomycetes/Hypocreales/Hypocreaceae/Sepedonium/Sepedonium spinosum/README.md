@@ -1,5 +1,4 @@
-Sepedonium spinosum Sacc. SPECIES
-=======
+# Sepedonium spinosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

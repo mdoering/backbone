@@ -1,5 +1,4 @@
-Cyclotella iris var. baltalensis H.P. Gandhi VARIETY
-=======
+# Cyclotella iris Brun & Héribaud SPECIES
 
 #### Status
 ACCEPTED

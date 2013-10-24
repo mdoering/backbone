@@ -1,5 +1,4 @@
-Pluteus major Singer SPECIES
-=======
+# Pluteus major Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium divergens Bainier & Sartory SPECIES
-=======
+# Penicillium divergens Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

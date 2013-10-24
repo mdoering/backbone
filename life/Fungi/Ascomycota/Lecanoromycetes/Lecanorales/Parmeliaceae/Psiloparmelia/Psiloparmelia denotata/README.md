@@ -1,5 +1,4 @@
-Psiloparmelia denotata Elix & T.H. Nash SPECIES
-=======
+# Psiloparmelia denotata Elix & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

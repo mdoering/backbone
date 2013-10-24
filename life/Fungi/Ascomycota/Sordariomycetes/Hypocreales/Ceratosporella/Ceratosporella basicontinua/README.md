@@ -1,5 +1,4 @@
-Ceratosporella basicontinua Matsush. SPECIES
-=======
+# Ceratosporella basicontinua Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon cinereoatrum (Zschacke) Servít SPECIES
-=======
+# Dermatocarpon cinereoatrum (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

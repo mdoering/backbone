@@ -1,5 +1,4 @@
-Dothiorella chimonanthi Pass. SPECIES
-=======
+# Dothiorella chimonanthi Pass. SPECIES
 
 #### Status
 ACCEPTED

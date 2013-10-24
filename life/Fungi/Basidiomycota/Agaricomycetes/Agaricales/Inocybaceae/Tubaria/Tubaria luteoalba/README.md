@@ -1,5 +1,4 @@
-Tubaria luteoalba Longyear SPECIES
-=======
+# Tubaria luteoalba Longyear SPECIES
 
 #### Status
 ACCEPTED

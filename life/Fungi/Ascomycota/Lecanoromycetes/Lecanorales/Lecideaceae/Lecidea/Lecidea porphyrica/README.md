@@ -1,5 +1,4 @@
-Lecidea porphyrica SPECIES
-=======
+# Lecidea porphyrica SPECIES
 
 #### Status
 ACCEPTED

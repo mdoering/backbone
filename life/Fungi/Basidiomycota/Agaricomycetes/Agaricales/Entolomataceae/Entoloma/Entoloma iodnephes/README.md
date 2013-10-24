@@ -1,5 +1,4 @@
-Entoloma iodnephes Berk. & Broome SPECIES
-=======
+# Entoloma iodnephes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

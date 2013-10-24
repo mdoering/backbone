@@ -1,5 +1,4 @@
-Candida mycetangii Kurtzman, 2000 SPECIES
-=======
+# Candida mycetangii Kurtzman, 2000 SPECIES
 
 #### Status
 ACCEPTED

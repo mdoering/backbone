@@ -1,5 +1,4 @@
-Puccinia cacao McAlpine SPECIES
-=======
+# Puccinia cacao McAlpine SPECIES
 
 #### Status
 ACCEPTED

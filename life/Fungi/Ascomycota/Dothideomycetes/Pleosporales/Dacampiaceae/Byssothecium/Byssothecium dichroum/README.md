@@ -1,5 +1,4 @@
-Byssothecium dichroum (Pass.) Kirschst. SPECIES
-=======
+# Byssothecium dichroum (Pass.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera izuensis Y. Nomura SPECIES
-=======
+# Microsphaera izuensis Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

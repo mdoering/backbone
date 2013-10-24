@@ -1,5 +1,4 @@
-Humarina GENUS
-=======
+# Humarina GENUS
 
 #### Status
 ACCEPTED

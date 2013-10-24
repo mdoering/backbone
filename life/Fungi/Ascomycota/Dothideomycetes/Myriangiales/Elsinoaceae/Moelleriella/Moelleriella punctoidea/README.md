@@ -1,8 +1,7 @@
-Molleriella punctoidea (Rehm) Arnold SPECIES
-=======
+# Moelleriella punctoidea (Rehm) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

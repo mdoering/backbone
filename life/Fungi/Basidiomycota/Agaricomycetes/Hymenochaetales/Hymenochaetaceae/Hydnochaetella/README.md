@@ -1,5 +1,4 @@
-Hydnochaetella GENUS
-=======
+# Hydnochaetella GENUS
 
 #### Status
 ACCEPTED

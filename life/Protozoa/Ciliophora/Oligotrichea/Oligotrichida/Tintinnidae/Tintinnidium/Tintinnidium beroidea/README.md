@@ -1,5 +1,4 @@
-Tintinnidium beroidea Stein, 1867 SPECIES
-=======
+# Tintinnidium beroidea Stein, 1867 SPECIES
 
 #### Status
 ACCEPTED

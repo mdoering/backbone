@@ -1,8 +1,7 @@
-Asperococcus utricularis Bory de Saint-Vincent SPECIES
-=======
+# Adenocystis utricularis (Bory de Saint-Vincent) Skottsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

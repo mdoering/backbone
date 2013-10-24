@@ -1,5 +1,4 @@
-Lecidea latypizae Harm. SPECIES
-=======
+# Lecidea latypizae Harm. SPECIES
 
 #### Status
 ACCEPTED

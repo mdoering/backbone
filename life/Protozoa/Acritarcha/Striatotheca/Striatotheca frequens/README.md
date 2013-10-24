@@ -1,5 +1,4 @@
-Striatotheca frequens Burmann, 1970 SPECIES
-=======
+# Striatotheca frequens Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olpidium pisi Hammarl. SPECIES
-=======
+# Olpidium pisi Hammarl. SPECIES
 
 #### Status
 ACCEPTED

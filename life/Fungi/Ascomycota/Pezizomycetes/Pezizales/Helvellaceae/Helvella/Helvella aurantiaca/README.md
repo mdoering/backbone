@@ -1,5 +1,4 @@
-Helvella aurantiaca Cumino SPECIES
-=======
+# Helvella aurantiaca Cumino SPECIES
 
 #### Status
 ACCEPTED

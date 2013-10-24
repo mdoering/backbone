@@ -1,5 +1,4 @@
-Agaricus sterlingii Peck SPECIES
-=======
+# Agaricus sterlingii Peck SPECIES
 
 #### Status
 ACCEPTED

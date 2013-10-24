@@ -1,5 +1,4 @@
-Gnomonia kodaikanalensis Ananthap. SPECIES
-=======
+# Gnomonia kodaikanalensis Ananthap. SPECIES
 
 #### Status
 ACCEPTED

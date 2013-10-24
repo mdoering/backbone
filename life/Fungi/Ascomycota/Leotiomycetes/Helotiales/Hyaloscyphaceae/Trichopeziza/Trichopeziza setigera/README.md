@@ -1,5 +1,4 @@
-Trichopeziza setigera (W. Phillips) Sacc. SPECIES
-=======
+# Trichopeziza setigera (W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

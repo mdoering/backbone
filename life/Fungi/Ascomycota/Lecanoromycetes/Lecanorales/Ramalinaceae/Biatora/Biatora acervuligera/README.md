@@ -1,5 +1,4 @@
-Biatora acervuligera (Darb.) Hue SPECIES
-=======
+# Biatora acervuligera (Darb.) Hue SPECIES
 
 #### Status
 ACCEPTED

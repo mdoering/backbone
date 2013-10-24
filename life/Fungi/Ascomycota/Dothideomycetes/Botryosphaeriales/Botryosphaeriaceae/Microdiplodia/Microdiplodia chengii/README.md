@@ -1,5 +1,4 @@
-Microdiplodia chengii Gucevic SPECIES
-=======
+# Microdiplodia chengii Gucevic SPECIES
 
 #### Status
 ACCEPTED

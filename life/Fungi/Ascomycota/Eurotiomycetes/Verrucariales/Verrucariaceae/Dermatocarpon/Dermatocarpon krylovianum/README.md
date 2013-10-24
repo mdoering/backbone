@@ -1,5 +1,4 @@
-Dermatocarpon krylovianum Tomin SPECIES
-=======
+# Dermatocarpon krylovianum Tomin SPECIES
 
 #### Status
 ACCEPTED

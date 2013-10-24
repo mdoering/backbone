@@ -1,5 +1,4 @@
-Acrothecium pedunculatum (Preuss) Sacc. SPECIES
-=======
+# Acrothecium pedunculatum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

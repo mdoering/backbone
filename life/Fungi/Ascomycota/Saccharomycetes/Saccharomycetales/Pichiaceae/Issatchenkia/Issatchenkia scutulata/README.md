@@ -1,17 +1,16 @@
-Pichia scutulata var. scutulata Phaff, M.W. Mill. & M. Miranda, 1976 VARIETY
-=======
+# Issatchenkia scutulata (Phaff, M.W. Mill. & M. Miranda) Kurtzman, M.J. Smiley & C.J. Johnson, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Int. J. Syst. Bacteriol. 30(2): 507 (1980)
 
 #### Original name
-null
+Pichia scutulata Phaff, M.W. Mill. & M. Miranda, 1976
 
 ### Remarks
 null

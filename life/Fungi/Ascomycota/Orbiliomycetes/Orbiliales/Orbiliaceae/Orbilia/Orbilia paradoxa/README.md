@@ -1,5 +1,4 @@
-Orbilia paradoxa Velen. SPECIES
-=======
+# Orbilia paradoxa Velen. SPECIES
 
 #### Status
 ACCEPTED

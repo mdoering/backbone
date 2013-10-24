@@ -1,5 +1,4 @@
-Peziza sphaerincola Schwein. SPECIES
-=======
+# Peziza sphaerincola Schwein. SPECIES
 
 #### Status
 ACCEPTED

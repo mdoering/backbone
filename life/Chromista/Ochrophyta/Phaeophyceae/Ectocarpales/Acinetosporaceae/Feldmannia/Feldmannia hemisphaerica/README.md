@@ -1,11 +1,10 @@
-Ectocarpus hemisphaericus f. minor Saunders FORM
-=======
+# Feldmannia hemisphaerica (Saunders) Hollenberg SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

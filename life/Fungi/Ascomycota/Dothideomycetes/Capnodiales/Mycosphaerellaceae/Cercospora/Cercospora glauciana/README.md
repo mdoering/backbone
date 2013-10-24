@@ -1,5 +1,4 @@
-Cercospora glauciana Viégas, 1945 SPECIES
-=======
+# Cercospora glauciana Viégas, 1945 SPECIES
 
 #### Status
 ACCEPTED

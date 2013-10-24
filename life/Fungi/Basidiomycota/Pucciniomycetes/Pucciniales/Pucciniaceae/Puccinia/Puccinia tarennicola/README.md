@@ -1,5 +1,4 @@
-Puccinia tarennicola Kakish. & Tak. Kobay. SPECIES
-=======
+# Puccinia tarennicola Kakish. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

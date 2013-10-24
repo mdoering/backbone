@@ -1,5 +1,4 @@
-Pulveraria byssoidea Flörke SPECIES
-=======
+# Pulveraria byssoidea Flörke SPECIES
 
 #### Status
 ACCEPTED

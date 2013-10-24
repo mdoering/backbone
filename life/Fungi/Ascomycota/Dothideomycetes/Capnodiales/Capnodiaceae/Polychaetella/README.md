@@ -1,5 +1,4 @@
-Polychaetella Speg. GENUS
-=======
+# Polychaetella Speg. GENUS
 
 #### Status
 ACCEPTED

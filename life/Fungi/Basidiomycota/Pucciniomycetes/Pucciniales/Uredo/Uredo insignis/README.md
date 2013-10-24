@@ -1,5 +1,4 @@
-Uredo insignis J.C. Lindq. SPECIES
-=======
+# Uredo insignis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

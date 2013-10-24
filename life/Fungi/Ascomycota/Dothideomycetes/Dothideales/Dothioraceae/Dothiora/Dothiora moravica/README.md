@@ -1,8 +1,7 @@
-Jaapia triglitziensis Kirschst., 1938 SPECIES
-=======
+# Dothiora moravica (Petr.) Froid., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

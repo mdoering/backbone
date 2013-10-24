@@ -1,8 +1,7 @@
-Schizothrix braunii var. incrustans Ercegovic, 1925 VARIETY
-=======
+# Schizothrix incrustans (Ercegovic) Anagnostidis, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

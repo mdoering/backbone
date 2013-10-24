@@ -1,5 +1,4 @@
-Descolea pallida E. Horak SPECIES
-=======
+# Descolea pallida E. Horak SPECIES
 
 #### Status
 ACCEPTED

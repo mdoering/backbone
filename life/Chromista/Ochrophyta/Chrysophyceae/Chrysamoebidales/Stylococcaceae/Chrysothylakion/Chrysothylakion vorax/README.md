@@ -1,5 +1,4 @@
-Chrysothylakion vorax Pascher SPECIES
-=======
+# Chrysothylakion vorax Pascher SPECIES
 
 #### Status
 ACCEPTED

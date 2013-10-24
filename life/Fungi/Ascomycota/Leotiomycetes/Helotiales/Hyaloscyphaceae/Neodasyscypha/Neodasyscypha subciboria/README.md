@@ -1,5 +1,4 @@
-Neodasyscypha subciboria (Rodway) Spooner SPECIES
-=======
+# Neodasyscypha subciboria (Rodway) Spooner SPECIES
 
 #### Status
 ACCEPTED

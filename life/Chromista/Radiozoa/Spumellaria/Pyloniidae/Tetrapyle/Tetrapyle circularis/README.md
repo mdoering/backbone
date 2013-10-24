@@ -1,5 +1,4 @@
-Tetrapyle circularis Haeckel SPECIES
-=======
+# Tetrapyle circularis Haeckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella nyctanthis R. Rao SPECIES
-=======
+# Aplosporella nyctanthis R. Rao SPECIES
 
 #### Status
 ACCEPTED

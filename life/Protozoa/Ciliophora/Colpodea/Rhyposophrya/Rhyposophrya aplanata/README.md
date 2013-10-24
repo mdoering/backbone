@@ -1,5 +1,4 @@
-Rhyposophrya aplanata Kahl, 1933 SPECIES
-=======
+# Rhyposophrya aplanata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

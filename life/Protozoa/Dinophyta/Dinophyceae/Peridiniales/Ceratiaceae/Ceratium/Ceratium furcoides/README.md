@@ -1,8 +1,7 @@
-Ceratium furcoides f. gracile Entz FORM
-=======
+# Ceratium furcoides (Levander) Langhans SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

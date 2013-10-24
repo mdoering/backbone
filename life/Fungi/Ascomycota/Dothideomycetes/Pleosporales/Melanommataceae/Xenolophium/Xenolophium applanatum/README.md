@@ -1,5 +1,4 @@
-Xenolophium applanatum (Petch) Huhndorf SPECIES
-=======
+# Xenolophium applanatum (Petch) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

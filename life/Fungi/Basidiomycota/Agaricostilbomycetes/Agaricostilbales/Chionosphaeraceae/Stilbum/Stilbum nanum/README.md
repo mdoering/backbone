@@ -1,17 +1,16 @@
-Stilbum nanum var. nanum VARIETY
-=======
+# Stilbum nanum Massee SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Kew Bull. 112 (1898)
 
 #### Original name
-null
+Stilbum nanum Massee
 
 ### Remarks
 null

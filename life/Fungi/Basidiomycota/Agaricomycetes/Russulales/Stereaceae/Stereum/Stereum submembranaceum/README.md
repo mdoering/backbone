@@ -1,5 +1,4 @@
-Stereum submembranaceum Henn. SPECIES
-=======
+# Stereum submembranaceum Henn. SPECIES
 
 #### Status
 ACCEPTED

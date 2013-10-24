@@ -1,5 +1,4 @@
-Coprinopsis macropus (Berk. & Broome) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis macropus (Berk. & Broome) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

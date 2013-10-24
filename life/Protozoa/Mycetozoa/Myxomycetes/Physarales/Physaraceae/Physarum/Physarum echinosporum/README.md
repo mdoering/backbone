@@ -1,5 +1,4 @@
-Physarum echinosporum Lister, 1899 SPECIES
-=======
+# Physarum echinosporum Lister, 1899 SPECIES
 
 #### Status
 ACCEPTED

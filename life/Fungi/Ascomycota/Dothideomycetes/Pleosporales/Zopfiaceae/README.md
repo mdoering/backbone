@@ -1,5 +1,4 @@
-Zopfiaceae G. Arnaud FAMILY
-=======
+# Zopfiaceae G. Arnaud FAMILY
 
 #### Status
 ACCEPTED

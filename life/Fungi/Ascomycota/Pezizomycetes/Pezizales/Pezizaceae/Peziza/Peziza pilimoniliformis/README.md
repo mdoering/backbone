@@ -1,5 +1,4 @@
-Peziza pilimoniliformis P. Crouan & H. Crouan SPECIES
-=======
+# Peziza pilimoniliformis P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

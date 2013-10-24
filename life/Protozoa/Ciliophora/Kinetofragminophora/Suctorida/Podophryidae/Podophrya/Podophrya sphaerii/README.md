@@ -1,5 +1,4 @@
-Podophrya sphaerii (Mjassnikowa, 1930) Jankowski SPECIES
-=======
+# Podophrya sphaerii (Mjassnikowa, 1930) Jankowski SPECIES
 
 #### Status
 ACCEPTED

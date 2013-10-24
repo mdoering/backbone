@@ -1,5 +1,4 @@
-Bovista coprophila (Cooke & Massee) G. Cunn. SPECIES
-=======
+# Bovista coprophila (Cooke & Massee) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

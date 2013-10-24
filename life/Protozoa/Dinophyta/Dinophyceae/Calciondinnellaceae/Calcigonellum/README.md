@@ -1,5 +1,4 @@
-Calcigonellum Deflandre, 1949 GENUS
-=======
+# Calcigonellum Deflandre, 1949 GENUS
 
 #### Status
 ACCEPTED

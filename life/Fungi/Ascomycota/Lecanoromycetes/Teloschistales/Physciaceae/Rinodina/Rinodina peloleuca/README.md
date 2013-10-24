@@ -1,14 +1,13 @@
-Lecanora peloleuca Nyl. SPECIES
-=======
+# Rinodina peloleuca (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 48: 338 (1865)
+Nuovo Giorn. Bot. Ital. 23: 125 (1891)
 
 #### Original name
 Lecanora peloleuca Nyl.

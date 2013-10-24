@@ -1,5 +1,4 @@
-Ovularia corcellensis Sacc. & Berl. SPECIES
-=======
+# Ovularia corcellensis Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

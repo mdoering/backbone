@@ -1,5 +1,4 @@
-Inferostoma Ki, 1971 GENUS
-=======
+# Inferostoma Ki, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collarium flavum Fr. SPECIES
-=======
+# Collarium flavum Fr. SPECIES
 
 #### Status
 ACCEPTED

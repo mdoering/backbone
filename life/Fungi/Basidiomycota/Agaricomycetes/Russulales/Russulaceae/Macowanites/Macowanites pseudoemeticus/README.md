@@ -1,5 +1,4 @@
-Macowanites pseudoemeticus A.H. Sm. SPECIES
-=======
+# Macowanites pseudoemeticus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

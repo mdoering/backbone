@@ -1,5 +1,4 @@
-Marchandiobasidium aurantiacum Diederich & Schultheis, 2003 SPECIES
-=======
+# Marchandiobasidium aurantiacum Diederich & Schultheis, 2003 SPECIES
 
 #### Status
 ACCEPTED

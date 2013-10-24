@@ -1,5 +1,4 @@
-Crinipellis alnicola Murrill SPECIES
-=======
+# Crinipellis alnicola Murrill SPECIES
 
 #### Status
 ACCEPTED

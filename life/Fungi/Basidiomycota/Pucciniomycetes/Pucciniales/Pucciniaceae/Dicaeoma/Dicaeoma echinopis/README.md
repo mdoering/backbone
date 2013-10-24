@@ -1,5 +1,4 @@
-Dicaeoma echinopis (Hazsl.) Kuntze SPECIES
-=======
+# Dicaeoma echinopis (Hazsl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

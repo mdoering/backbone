@@ -1,5 +1,4 @@
-Pilosace torpens (Fr.) Kuntze SPECIES
-=======
+# Pilosace torpens (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

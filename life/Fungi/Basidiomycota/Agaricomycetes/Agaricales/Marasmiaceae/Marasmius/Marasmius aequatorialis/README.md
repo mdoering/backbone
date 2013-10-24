@@ -1,5 +1,4 @@
-Marasmius aequatorialis Singer SPECIES
-=======
+# Marasmius aequatorialis Singer SPECIES
 
 #### Status
 ACCEPTED

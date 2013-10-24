@@ -1,5 +1,4 @@
-Myriangium tectonae Tend. SPECIES
-=======
+# Myriangium tectonae Tend. SPECIES
 
 #### Status
 ACCEPTED

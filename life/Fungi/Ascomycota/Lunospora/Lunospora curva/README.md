@@ -1,5 +1,4 @@
-Lunospora curva (P. Karst.) Frandsen SPECIES
-=======
+# Lunospora curva (P. Karst.) Frandsen SPECIES
 
 #### Status
 ACCEPTED

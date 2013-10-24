@@ -1,5 +1,4 @@
-Hyaloscypha protonematosa Velen. SPECIES
-=======
+# Hyaloscypha protonematosa Velen. SPECIES
 
 #### Status
 ACCEPTED

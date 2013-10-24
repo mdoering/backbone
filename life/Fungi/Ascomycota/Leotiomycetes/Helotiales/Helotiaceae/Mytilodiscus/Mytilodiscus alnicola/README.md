@@ -1,5 +1,4 @@
-Mytilodiscus alnicola Kropp & S.E. Carp., 1984 SPECIES
-=======
+# Mytilodiscus alnicola Kropp & S.E. Carp., 1984 SPECIES
 
 #### Status
 ACCEPTED

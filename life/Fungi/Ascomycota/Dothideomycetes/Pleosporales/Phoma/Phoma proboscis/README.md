@@ -1,5 +1,4 @@
-Phoma proboscis Heiny SPECIES
-=======
+# Phoma proboscis Heiny SPECIES
 
 #### Status
 ACCEPTED

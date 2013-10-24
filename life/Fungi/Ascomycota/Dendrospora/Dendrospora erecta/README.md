@@ -1,5 +1,4 @@
-Dendrospora erecta Ingold, 1943 SPECIES
-=======
+# Dendrospora erecta Ingold, 1943 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenochora wasseri S.Y. Kondr., 1996 SPECIES
-=======
+# Lichenochora wasseri S.Y. Kondr., 1996 SPECIES
 
 #### Status
 ACCEPTED

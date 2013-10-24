@@ -1,5 +1,4 @@
-Cyclidium dilectatissimum SPECIES
-=======
+# Cyclidium dilectatissimum SPECIES
 
 #### Status
 ACCEPTED

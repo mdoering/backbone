@@ -1,5 +1,4 @@
-Sirodiplospora tamaricis Syd. SPECIES
-=======
+# Sirodiplospora tamaricis Syd. SPECIES
 
 #### Status
 ACCEPTED

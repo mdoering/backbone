@@ -1,5 +1,4 @@
-Cordyceps interrupta Höhn. SPECIES
-=======
+# Cordyceps interrupta Höhn. SPECIES
 
 #### Status
 ACCEPTED

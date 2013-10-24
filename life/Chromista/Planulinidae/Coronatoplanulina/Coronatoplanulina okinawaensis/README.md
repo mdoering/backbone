@@ -1,5 +1,4 @@
-Coronatoplanulina okinawaensis Ujiié, 1990 SPECIES
-=======
+# Coronatoplanulina okinawaensis Ujiié, 1990 SPECIES
 
 #### Status
 ACCEPTED

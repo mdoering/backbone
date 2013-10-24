@@ -1,5 +1,4 @@
-Myriotrema myrioporoides (Müll. Arg.) Hale SPECIES
-=======
+# Myriotrema myrioporoides (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

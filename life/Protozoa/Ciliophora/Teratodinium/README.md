@@ -1,5 +1,4 @@
-Teratodinium GENUS
-=======
+# Teratodinium GENUS
 
 #### Status
 ACCEPTED

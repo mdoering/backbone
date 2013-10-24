@@ -1,5 +1,4 @@
-Spirostrombidium elegans (Florentin, 1901) Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Spirostrombidium elegans (Florentin, 1901) Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

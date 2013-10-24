@@ -1,5 +1,4 @@
-Dasyscyphus dasiphorae Raitv. SPECIES
-=======
+# Dasyscyphus dasiphorae Raitv. SPECIES
 
 #### Status
 ACCEPTED

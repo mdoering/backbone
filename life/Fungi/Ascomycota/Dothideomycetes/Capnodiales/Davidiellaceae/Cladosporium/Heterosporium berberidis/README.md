@@ -1,5 +1,4 @@
-Heterosporium berberidis Ranoj. SPECIES
-=======
+# Heterosporium berberidis Ranoj. SPECIES
 
 #### Status
 ACCEPTED

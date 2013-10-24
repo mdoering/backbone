@@ -1,5 +1,4 @@
-Mortierella heterospora W. Gams SPECIES
-=======
+# Mortierella heterospora W. Gams SPECIES
 
 #### Status
 ACCEPTED

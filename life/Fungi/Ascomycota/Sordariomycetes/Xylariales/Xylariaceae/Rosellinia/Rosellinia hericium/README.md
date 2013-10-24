@@ -1,5 +1,4 @@
-Rosellinia hericium Schwein. SPECIES
-=======
+# Rosellinia hericium Schwein. SPECIES
 
 #### Status
 ACCEPTED

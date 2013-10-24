@@ -1,17 +1,16 @@
-Sporopodium antoniarum Elix, Lumbsch & Lücking SPECIES
-=======
+# Sporopodium antoninianum Elix, Lumbsch & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 58: 88 (1995)
 
 #### Original name
-Sporopodium antoniarum Elix, Lumbsch & Lücking
+Sporopodium antoninianum Elix, Lumbsch & Lücking
 
 ### Remarks
 null

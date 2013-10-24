@@ -1,5 +1,4 @@
-Psathyrella graciloides (Peck) Sacc. SPECIES
-=======
+# Psathyrella graciloides (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta hellebori Sacc. SPECIES
-=======
+# Ascochyta hellebori Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Amphitrematidae Poche, 1913 FAMILY
-=======
+# Amphitremidae FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
 null

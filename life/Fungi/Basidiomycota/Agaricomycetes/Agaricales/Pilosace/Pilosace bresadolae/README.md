@@ -1,5 +1,4 @@
-Pilosace bresadolae Schulzer SPECIES
-=======
+# Pilosace bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

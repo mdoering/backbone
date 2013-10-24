@@ -1,5 +1,4 @@
-Spumosina S.N. Naumova, 1968 GENUS
-=======
+# Spumosina S.N. Naumova, 1968 GENUS
 
 #### Status
 ACCEPTED

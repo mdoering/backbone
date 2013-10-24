@@ -1,5 +1,4 @@
-Cortinarius distortus Kauffman SPECIES
-=======
+# Cortinarius distortus Kauffman SPECIES
 
 #### Status
 ACCEPTED

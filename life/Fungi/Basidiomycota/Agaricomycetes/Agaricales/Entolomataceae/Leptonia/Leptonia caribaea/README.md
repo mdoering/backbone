@@ -1,5 +1,4 @@
-Leptonia caribaea Pegler SPECIES
-=======
+# Leptonia caribaea Pegler SPECIES
 
 #### Status
 ACCEPTED

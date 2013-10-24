@@ -1,5 +1,4 @@
-Trametes subectypa (Murrill) Gilb. & Ryvarden, 1987 SPECIES
-=======
+# Trametes subectypa (Murrill) Gilb. & Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

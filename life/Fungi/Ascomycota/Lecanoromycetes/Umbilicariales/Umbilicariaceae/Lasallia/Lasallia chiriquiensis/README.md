@@ -1,5 +1,4 @@
-Lasallia chiriquiensis Llano SPECIES
-=======
+# Lasallia chiriquiensis Llano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus drepanocladi (Singer) Singer SPECIES
-=======
+# Marasmiellus drepanocladi (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

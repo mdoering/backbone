@@ -1,17 +1,16 @@
-Cercospora miconicola Chupp SPECIES
-=======
+# Cercospora miconiicola Chupp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph of Cercospora 381 (1954)
 
 #### Original name
-Cercospora miconicola Chupp
+Cercospora miconiicola Chupp
 
 ### Remarks
 null

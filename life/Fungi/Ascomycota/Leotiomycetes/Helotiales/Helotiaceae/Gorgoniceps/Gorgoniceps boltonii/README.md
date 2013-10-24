@@ -1,14 +1,13 @@
-Pocillum boltonii W. Phillips, 1888 SPECIES
-=======
+# Gorgoniceps boltonii (W. Phillips) Dennis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 16(no. 79): 94 (1888)
+Kew Bull. 25: 347 (1971)
 
 #### Original name
 Pocillum boltonii W. Phillips, 1888

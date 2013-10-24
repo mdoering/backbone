@@ -1,5 +1,4 @@
-Herpotrichia bambusana Henn. SPECIES
-=======
+# Herpotrichia bambusana Henn. SPECIES
 
 #### Status
 ACCEPTED

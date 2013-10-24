@@ -1,5 +1,4 @@
-Mycoplasma iguanae Brown et al., 2006 SPECIES
-=======
+# Mycoplasma iguanae Brown et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

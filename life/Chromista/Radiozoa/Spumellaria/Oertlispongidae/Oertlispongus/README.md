@@ -1,5 +1,4 @@
-Oertlispongus Dumitrica, Kozur & Mostler, 1980 GENUS
-=======
+# Oertlispongus Dumitrica, Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protounguicularia brevicapitata Raitv. & R. Galán, 1986 SPECIES
-=======
+# Protounguicularia brevicapitata Raitv. & R. Galán, 1986 SPECIES
 
 #### Status
 ACCEPTED

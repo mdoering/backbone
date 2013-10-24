@@ -1,5 +1,4 @@
-Aspicilia diffusilis (Nyl.) C.W. Dodge SPECIES
-=======
+# Aspicilia diffusilis (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium beomiforme P.E. Nelson, Toussoun & L.W. Burgess SPECIES
-=======
+# Fusarium beomiforme P.E. Nelson, Toussoun & L.W. Burgess SPECIES
 
 #### Status
 ACCEPTED

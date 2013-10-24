@@ -1,5 +1,4 @@
-Phacus tropidonotus Conrad SPECIES
-=======
+# Phacus tropidonotus Conrad SPECIES
 
 #### Status
 ACCEPTED

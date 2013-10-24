@@ -1,5 +1,4 @@
-Crepidotus epigloeus Singer SPECIES
-=======
+# Crepidotus epigloeus Singer SPECIES
 
 #### Status
 ACCEPTED

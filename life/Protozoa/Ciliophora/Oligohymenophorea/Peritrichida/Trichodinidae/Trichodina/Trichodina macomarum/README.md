@@ -1,5 +1,4 @@
-Trichodina macomarum Raabe & Raabe, 1959 SPECIES
-=======
+# Trichodina macomarum Raabe & Raabe, 1959 SPECIES
 
 #### Status
 ACCEPTED

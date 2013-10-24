@@ -1,5 +1,4 @@
-Colletotrichum dianthi (Westend.) B. Sutton SPECIES
-=======
+# Colletotrichum dianthi (Westend.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

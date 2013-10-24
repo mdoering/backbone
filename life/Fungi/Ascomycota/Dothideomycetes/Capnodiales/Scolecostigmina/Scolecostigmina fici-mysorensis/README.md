@@ -1,5 +1,4 @@
-Scolecostigmina fici-mysorensis (Muthappa) U. Braun SPECIES
-=======
+# Scolecostigmina fici-mysorensis (Muthappa) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rosellinia thelena var. thelena VARIETY
-=======
+# Rosellinia thelena (Fr.) Rabenh., 1865 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Rosellinia thelena var. thelena
+Rosellinia thelena (Fr.) Rabenh., 1865
 
 ### Remarks
 null

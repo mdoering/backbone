@@ -1,5 +1,4 @@
-Leptosphaeria eryngii Fabre SPECIES
-=======
+# Leptosphaeria eryngii Fabre SPECIES
 
 #### Status
 ACCEPTED

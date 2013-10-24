@@ -1,5 +1,4 @@
-Canellana Jankowski, 1967 GENUS
-=======
+# Canellana Jankowski, 1967 GENUS
 
 #### Status
 ACCEPTED

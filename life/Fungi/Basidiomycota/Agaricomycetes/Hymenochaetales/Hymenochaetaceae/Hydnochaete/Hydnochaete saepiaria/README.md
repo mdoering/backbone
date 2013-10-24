@@ -1,14 +1,13 @@
-Hydnochaete sepiaria (Lloyd) Ryvarden SPECIES
-=======
+# Hydnochaete saepiaria (Lloyd) Ryvarden, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 15: 439 (1982)
 
 #### Original name
 Irpex saepiarius Lloyd, 1917

@@ -1,8 +1,7 @@
-Leptosphaeria richoni Sacc. & P. Syd. SPECIES
-=======
+# Leptosphaeria richonii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria richoni Sacc. & P. Syd.
+Leptosphaeria richonii Sacc. & P. Syd.
 
 ### Remarks
 null

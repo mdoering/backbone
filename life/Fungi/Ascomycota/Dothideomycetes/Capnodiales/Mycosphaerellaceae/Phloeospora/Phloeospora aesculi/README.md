@@ -1,5 +1,4 @@
-Phloeospora aesculi Cooke SPECIES
-=======
+# Phloeospora aesculi Cooke SPECIES
 
 #### Status
 ACCEPTED

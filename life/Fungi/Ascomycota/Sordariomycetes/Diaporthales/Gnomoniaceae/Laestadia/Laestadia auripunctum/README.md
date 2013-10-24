@@ -1,5 +1,4 @@
-Laestadia auripunctum Harkn. SPECIES
-=======
+# Laestadia auripunctum Harkn. SPECIES
 
 #### Status
 ACCEPTED

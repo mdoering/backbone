@@ -1,17 +1,16 @@
-Psathyrella marthae var. marthae VARIETY
-=======
+# Psathyrella marthae Singer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 29: 183 (1969)
 
 #### Original name
-null
+Psathyrella marthae Singer
 
 ### Remarks
 null

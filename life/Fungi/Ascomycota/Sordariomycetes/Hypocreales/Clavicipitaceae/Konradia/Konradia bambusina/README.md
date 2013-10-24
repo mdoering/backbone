@@ -1,5 +1,4 @@
-Konradia bambusina Racib., 1900 SPECIES
-=======
+# Konradia bambusina Racib., 1900 SPECIES
 
 #### Status
 ACCEPTED

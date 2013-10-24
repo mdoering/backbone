@@ -1,5 +1,4 @@
-Didymosphaerites Pia, 1927 GENUS
-=======
+# Didymosphaerites Pia, 1927 GENUS
 
 #### Status
 ACCEPTED

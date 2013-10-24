@@ -1,5 +1,4 @@
-Thaxterogaster ochraceoazureus E. Horak SPECIES
-=======
+# Thaxterogaster ochraceoazureus E. Horak SPECIES
 
 #### Status
 ACCEPTED

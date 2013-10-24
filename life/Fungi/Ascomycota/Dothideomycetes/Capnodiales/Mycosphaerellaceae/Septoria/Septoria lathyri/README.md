@@ -1,5 +1,4 @@
-Septoria lathyri Fautrey, 1889 SPECIES
-=======
+# Septoria lathyri Fautrey, 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriadoporus subsulphureus Ellis & Everh. SPECIES
-=======
+# Myriadoporus subsulphureus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

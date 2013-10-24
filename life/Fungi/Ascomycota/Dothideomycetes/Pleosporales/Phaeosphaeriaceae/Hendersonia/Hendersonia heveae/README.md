@@ -1,5 +1,4 @@
-Hendersonia heveae Petch SPECIES
-=======
+# Hendersonia heveae Petch SPECIES
 
 #### Status
 ACCEPTED

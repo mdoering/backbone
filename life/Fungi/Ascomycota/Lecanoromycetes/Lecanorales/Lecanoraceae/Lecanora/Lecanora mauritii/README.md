@@ -1,5 +1,4 @@
-Lecanora mauritii (Hue) Zschacke SPECIES
-=======
+# Lecanora mauritii (Hue) Zschacke SPECIES
 
 #### Status
 ACCEPTED

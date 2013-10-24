@@ -1,5 +1,4 @@
-Mycothyridium yerbae (Speg.) Petr. SPECIES
-=======
+# Mycothyridium yerbae (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

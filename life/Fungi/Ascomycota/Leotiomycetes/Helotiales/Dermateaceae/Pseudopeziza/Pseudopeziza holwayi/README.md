@@ -1,5 +1,4 @@
-Pseudopeziza holwayi Henn. SPECIES
-=======
+# Pseudopeziza holwayi Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora contigua H. Magn. SPECIES
-=======
+# Acarospora contigua H. Magn. SPECIES
 
 #### Status
 ACCEPTED

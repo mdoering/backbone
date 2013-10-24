@@ -1,5 +1,4 @@
-Pezicula philadelphi (Schwein.) Sacc. SPECIES
-=======
+# Pezicula philadelphi (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

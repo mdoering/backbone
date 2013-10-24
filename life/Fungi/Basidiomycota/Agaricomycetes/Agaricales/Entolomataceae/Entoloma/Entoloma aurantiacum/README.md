@@ -1,5 +1,4 @@
-Entoloma aurantiacum Z.S. Bi SPECIES
-=======
+# Entoloma aurantiacum Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

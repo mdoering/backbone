@@ -1,14 +1,13 @@
-Coniothyrium coniosporiodes (P. Karst.) Kuntze SPECIES
-=======
+# Coniothyrium coniosporioides (P. Karst.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 459 (1898)
 
 #### Original name
 Aposphaeria coniosporioides P. Karst.

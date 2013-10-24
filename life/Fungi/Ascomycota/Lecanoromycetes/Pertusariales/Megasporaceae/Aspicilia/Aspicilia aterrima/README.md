@@ -1,5 +1,4 @@
-Aspicilia aterrima (Fée) Hue SPECIES
-=======
+# Aspicilia aterrima (Fée) Hue SPECIES
 
 #### Status
 ACCEPTED

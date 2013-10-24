@@ -1,5 +1,4 @@
-Cryptococcus macerans (Freder.) Phaff & Fell, 1970 SPECIES
-=======
+# Cryptococcus macerans (Freder.) Phaff & Fell, 1970 SPECIES
 
 #### Status
 ACCEPTED

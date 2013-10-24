@@ -1,17 +1,16 @@
-Parmelia bahiana Nyl. SPECIES
-=======
+# Hypotrachyna bahiana (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 68: 612 (1885)
+null
 
 #### Original name
-Parmelia bahiana Nyl.
+null
 
 ### Remarks
 null

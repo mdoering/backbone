@@ -1,5 +1,4 @@
-Sphaerella yuccae Ellis & Everh. SPECIES
-=======
+# Sphaerella yuccae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

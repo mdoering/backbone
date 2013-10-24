@@ -1,5 +1,4 @@
-Gelatia inflata J. P. Bujak SPECIES
-=======
+# Gelatia inflata J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

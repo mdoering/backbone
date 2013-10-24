@@ -1,5 +1,4 @@
-Streptosporangium claviforme Petrolini et al., 1993 SPECIES
-=======
+# Streptosporangium claviforme Petrolini et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

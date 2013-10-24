@@ -1,5 +1,4 @@
-Trichosphaerella foliicola Bat. & J.L. Bezerra SPECIES
-=======
+# Trichosphaerella foliicola Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

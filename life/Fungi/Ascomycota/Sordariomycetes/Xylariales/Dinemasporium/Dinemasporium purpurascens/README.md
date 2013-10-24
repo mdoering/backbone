@@ -1,5 +1,4 @@
-Dinemasporium purpurascens Richon SPECIES
-=======
+# Dinemasporium purpurascens Richon SPECIES
 
 #### Status
 ACCEPTED

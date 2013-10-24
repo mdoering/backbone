@@ -1,5 +1,4 @@
-Merulius aeruginosus Schumach. SPECIES
-=======
+# Merulius aeruginosus Schumach. SPECIES
 
 #### Status
 ACCEPTED

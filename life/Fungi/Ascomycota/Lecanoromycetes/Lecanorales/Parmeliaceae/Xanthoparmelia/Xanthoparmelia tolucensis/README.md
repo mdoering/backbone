@@ -1,5 +1,4 @@
-Xanthoparmelia tolucensis Hale SPECIES
-=======
+# Xanthoparmelia tolucensis Hale SPECIES
 
 #### Status
 ACCEPTED

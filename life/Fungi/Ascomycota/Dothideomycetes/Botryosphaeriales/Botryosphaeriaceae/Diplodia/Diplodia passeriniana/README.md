@@ -1,5 +1,4 @@
-Diplodia passeriniana (Thüm.) Allesch. SPECIES
-=======
+# Diplodia passeriniana (Thüm.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

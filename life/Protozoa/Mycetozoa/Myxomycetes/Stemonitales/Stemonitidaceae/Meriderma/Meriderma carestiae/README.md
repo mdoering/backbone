@@ -1,8 +1,7 @@
-Lamproderma cribrarioides carestiae (Ces. & De Not.) G. Moreno & H. Singer, 2007 INFRASPECIFIC_NAME
-=======
+# Meriderma carestiae (Ces. & De Not.) Mar. Mey. & Poulain, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

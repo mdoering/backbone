@@ -1,5 +1,4 @@
-Physalospora bylii du Plessis SPECIES
-=======
+# Physalospora bylii du Plessis SPECIES
 
 #### Status
 ACCEPTED

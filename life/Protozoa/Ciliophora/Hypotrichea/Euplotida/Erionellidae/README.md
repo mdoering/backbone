@@ -1,5 +1,4 @@
-Erionellidae FAMILY
-=======
+# Erionellidae FAMILY
 
 #### Status
 ACCEPTED

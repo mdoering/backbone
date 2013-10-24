@@ -1,5 +1,4 @@
-Diplodina erigerontis Hollós SPECIES
-=======
+# Diplodina erigerontis Hollós SPECIES
 
 #### Status
 ACCEPTED

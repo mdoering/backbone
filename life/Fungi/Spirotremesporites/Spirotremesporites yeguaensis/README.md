@@ -1,5 +1,4 @@
-Spirotremesporites yeguaensis Elsik SPECIES
-=======
+# Spirotremesporites yeguaensis Elsik SPECIES
 
 #### Status
 ACCEPTED

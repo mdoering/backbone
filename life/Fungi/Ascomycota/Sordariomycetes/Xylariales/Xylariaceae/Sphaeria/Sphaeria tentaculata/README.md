@@ -1,5 +1,4 @@
-Sphaeria tentaculata Batsch SPECIES
-=======
+# Sphaeria tentaculata Batsch SPECIES
 
 #### Status
 ACCEPTED

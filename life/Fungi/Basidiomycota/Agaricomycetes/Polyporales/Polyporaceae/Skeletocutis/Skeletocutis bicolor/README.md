@@ -1,5 +1,4 @@
-Skeletocutis bicolor (Lloyd) Ryvarden SPECIES
-=======
+# Skeletocutis bicolor (Lloyd) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

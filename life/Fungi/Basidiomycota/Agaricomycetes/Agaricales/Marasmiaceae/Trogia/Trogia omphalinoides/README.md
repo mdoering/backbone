@@ -1,5 +1,4 @@
-Trogia omphalinoides Corner SPECIES
-=======
+# Trogia omphalinoides Corner SPECIES
 
 #### Status
 ACCEPTED

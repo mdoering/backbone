@@ -1,5 +1,4 @@
-Aspergillus echinosporus Sorokin SPECIES
-=======
+# Aspergillus echinosporus Sorokin SPECIES
 
 #### Status
 ACCEPTED

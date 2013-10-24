@@ -1,5 +1,4 @@
-Leveillula umbelliferarum f. umbelliferarum FORM
-=======
+# Leveillula umbelliferarum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula umbelliferarum f. umbelliferarum
+Leveillula umbelliferarum Golovin
 
 ### Remarks
 null

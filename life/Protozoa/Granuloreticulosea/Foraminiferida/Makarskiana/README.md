@@ -1,5 +1,4 @@
-Makarskiana van Soest, 1942 GENUS
-=======
+# Makarskiana van Soest, 1942 GENUS
 
 #### Status
 ACCEPTED

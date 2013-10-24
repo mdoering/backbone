@@ -1,5 +1,4 @@
-Tenacibaculum aestuarii Jung et al., 2006 SPECIES
-=======
+# Tenacibaculum aestuarii Jung et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clathrus turbinatum Huds. SPECIES
-=======
+# Clathrus turbinatus Bolton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hist. fung. Halifax (Huddersfield) 3: 94 (1790)
 
 #### Original name
-Clathrus turbinatum Huds.
+Clathrus turbinatus Bolton
 
 ### Remarks
 null

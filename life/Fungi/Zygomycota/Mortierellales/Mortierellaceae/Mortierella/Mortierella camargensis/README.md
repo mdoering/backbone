@@ -1,17 +1,16 @@
-Haplosporangium gracilis Nicot, 1957 SPECIES
-=======
+# Mortierella camargensis W. Gams & R. Moreau, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 73: 90 (1957)
+Annls sci. Univ. Besançon, Sér. 2, Méd. Pharm. 3: 103 (1960)
 
 #### Original name
-Haplosporangium gracilis Nicot, 1957
+Mortierella camargensis W. Gams & R. Moreau, 1960
 
 ### Remarks
 null

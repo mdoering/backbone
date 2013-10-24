@@ -1,5 +1,4 @@
-Sphaerella stigmaphyllonis (Rangel) Trotter SPECIES
-=======
+# Sphaerella stigmaphyllonis (Rangel) Trotter SPECIES
 
 #### Status
 ACCEPTED

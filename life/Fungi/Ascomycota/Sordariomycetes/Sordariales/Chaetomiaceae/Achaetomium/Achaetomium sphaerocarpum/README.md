@@ -1,17 +1,16 @@
-Chaetomium vitellinum A. Carter, 1983 SPECIES
-=======
+# Achaetomium sphaerocarpum J.N. Rai & H.J. Chowdhery, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 75(3): 531 (1983)
+Kavaka 1: 29 (1974)
 
 #### Original name
-Chaetomium vitellinum A. Carter, 1983
+Achaetomium sphaerocarpum J.N. Rai & H.J. Chowdhery, 1974
 
 ### Remarks
 null

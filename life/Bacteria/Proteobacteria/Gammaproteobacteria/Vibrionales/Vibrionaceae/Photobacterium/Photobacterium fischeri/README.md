@@ -1,11 +1,10 @@
-Vibrio noctiluca Weisglass & Skreb, 1963 SPECIES
-=======
+# Photobacterium fischeri (Beijerinck, 1889) Reichelt and Baumann, 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

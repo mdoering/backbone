@@ -1,5 +1,4 @@
-Cucurbitaria laetifulva (Berk. & Cooke) Kuntze SPECIES
-=======
+# Cucurbitaria laetifulva (Berk. & Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

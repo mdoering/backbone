@@ -1,5 +1,4 @@
-Lecanora subsymmictera B. de Lesd. SPECIES
-=======
+# Lecanora subsymmictera B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

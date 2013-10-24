@@ -1,5 +1,4 @@
-Baltisphaeridium constrictum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium constrictum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

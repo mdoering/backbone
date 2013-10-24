@@ -1,5 +1,4 @@
-Cortinarius luteogracilis Rob. Henry SPECIES
-=======
+# Cortinarius luteogracilis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

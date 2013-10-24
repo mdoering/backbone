@@ -1,5 +1,4 @@
-Mycena hamata Métrod SPECIES
-=======
+# Mycena hamata Métrod SPECIES
 
 #### Status
 ACCEPTED

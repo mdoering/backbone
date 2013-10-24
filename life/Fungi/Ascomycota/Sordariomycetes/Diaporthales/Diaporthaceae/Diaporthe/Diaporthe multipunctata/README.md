@@ -1,5 +1,4 @@
-Diaporthe multipunctata Fuckel SPECIES
-=======
+# Diaporthe multipunctata Fuckel SPECIES
 
 #### Status
 ACCEPTED

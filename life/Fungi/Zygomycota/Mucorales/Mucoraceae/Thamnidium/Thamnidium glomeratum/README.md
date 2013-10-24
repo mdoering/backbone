@@ -1,5 +1,4 @@
-Thamnidium glomeratum (Tiegh. & G. Le Monn.) Mig. SPECIES
-=======
+# Thamnidium glomeratum (Tiegh. & G. Le Monn.) Mig. SPECIES
 
 #### Status
 ACCEPTED

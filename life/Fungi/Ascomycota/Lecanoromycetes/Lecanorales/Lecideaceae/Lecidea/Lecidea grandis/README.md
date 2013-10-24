@@ -1,5 +1,4 @@
-Lecidea grandis Flörke SPECIES
-=======
+# Lecidea grandis Flörke SPECIES
 
 #### Status
 ACCEPTED

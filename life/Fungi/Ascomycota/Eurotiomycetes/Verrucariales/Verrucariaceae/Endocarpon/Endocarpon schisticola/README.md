@@ -1,5 +1,4 @@
-Endocarpon schisticola B. de Lesd. SPECIES
-=======
+# Endocarpon schisticola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

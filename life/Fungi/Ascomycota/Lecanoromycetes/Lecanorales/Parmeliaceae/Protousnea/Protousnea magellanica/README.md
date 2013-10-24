@@ -1,14 +1,13 @@
-Usnea poeppigii var. magellanica (Mont.) Vain. VARIETY
-=======
+# Protousnea magellanica (Mont.) Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Norw. Jl Bot. 23: 100 (1976)
 
 #### Original name
 Evernia magellanica Mont.

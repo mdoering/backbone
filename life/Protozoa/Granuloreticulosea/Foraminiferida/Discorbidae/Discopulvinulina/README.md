@@ -1,5 +1,4 @@
-Discopulvinulina Hofker, 1951 GENUS
-=======
+# Discopulvinulina Hofker, 1951 GENUS
 
 #### Status
 ACCEPTED

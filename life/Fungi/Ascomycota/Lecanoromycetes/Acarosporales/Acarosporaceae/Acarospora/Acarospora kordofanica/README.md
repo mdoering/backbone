@@ -1,5 +1,4 @@
-Acarospora kordofanica SPECIES
-=======
+# Acarospora kordofanica SPECIES
 
 #### Status
 ACCEPTED

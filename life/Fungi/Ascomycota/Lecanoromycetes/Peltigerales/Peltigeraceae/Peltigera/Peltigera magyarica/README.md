@@ -1,5 +1,4 @@
-Peltigera magyarica Gyeln. SPECIES
-=======
+# Peltigera magyarica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

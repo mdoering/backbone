@@ -1,5 +1,4 @@
-Collema paraguayense Malme SPECIES
-=======
+# Collema paraguayense Malme SPECIES
 
 #### Status
 ACCEPTED

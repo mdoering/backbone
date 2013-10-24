@@ -1,17 +1,16 @@
-Agaricus personatus var. anserinus Fr., 1818 VARIETY
-=======
+# Lepista personata (Fr.) Cooke, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Handbook of British Fungi 1: 193 (1871)
 
 #### Original name
-null
+Agaricus personatus Fr., 1818
 
 ### Remarks
 null

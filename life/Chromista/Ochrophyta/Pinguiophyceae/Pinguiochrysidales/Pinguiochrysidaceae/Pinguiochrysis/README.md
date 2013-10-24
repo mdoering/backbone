@@ -1,5 +1,4 @@
-Pinguiochrysis Kawachi, 2002 GENUS
-=======
+# Pinguiochrysis Kawachi, 2002 GENUS
 
 #### Status
 ACCEPTED

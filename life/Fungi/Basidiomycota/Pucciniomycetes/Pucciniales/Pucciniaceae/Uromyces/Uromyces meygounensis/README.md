@@ -1,5 +1,4 @@
-Uromyces meygounensis Petr., 1955 SPECIES
-=======
+# Uromyces meygounensis Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

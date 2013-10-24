@@ -1,5 +1,4 @@
-Erythrobacter vulgaris Ivanova et al., 2006 SPECIES
-=======
+# Erythrobacter vulgaris Ivanova et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

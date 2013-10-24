@@ -1,5 +1,4 @@
-Stachybotrys cannae Bat. SPECIES
-=======
+# Stachybotrys cannae Bat. SPECIES
 
 #### Status
 ACCEPTED

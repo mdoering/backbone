@@ -1,5 +1,4 @@
-Mycovellosiella pumila (Syd. & P. Syd.) U. Braun SPECIES
-=======
+# Mycovellosiella pumila (Syd. & P. Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

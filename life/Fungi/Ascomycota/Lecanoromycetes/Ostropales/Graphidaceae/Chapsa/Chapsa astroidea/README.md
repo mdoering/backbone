@@ -1,17 +1,16 @@
-Platygrapha astroidea Berk. & Broome SPECIES
-=======
+# Chapsa astroidea (Berk. & Broome) M. Cáceres & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 109 (1875)
+null
 
 #### Original name
-Platygrapha astroidea Berk. & Broome
+null
 
 ### Remarks
 null

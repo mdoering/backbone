@@ -1,5 +1,4 @@
-Phyllosticta bromeliicola Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta bromeliicola Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

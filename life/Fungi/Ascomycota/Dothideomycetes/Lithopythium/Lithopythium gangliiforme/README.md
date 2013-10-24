@@ -1,5 +1,4 @@
-Lithopythium gangliiforme Bornet & Flahault, 1891 SPECIES
-=======
+# Lithopythium gangliiforme Bornet & Flahault, 1891 SPECIES
 
 #### Status
 ACCEPTED

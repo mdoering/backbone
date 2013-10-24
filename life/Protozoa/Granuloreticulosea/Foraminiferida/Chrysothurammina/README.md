@@ -1,5 +1,4 @@
-Chrysothurammina Neumann, Pozaryska & Vachard, 1975 GENUS
-=======
+# Chrysothurammina Neumann, Pozaryska & Vachard, 1975 GENUS
 
 #### Status
 ACCEPTED

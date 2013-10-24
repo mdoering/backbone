@@ -1,5 +1,4 @@
-Mycena metuloidifera Singer SPECIES
-=======
+# Mycena metuloidifera Singer SPECIES
 
 #### Status
 ACCEPTED

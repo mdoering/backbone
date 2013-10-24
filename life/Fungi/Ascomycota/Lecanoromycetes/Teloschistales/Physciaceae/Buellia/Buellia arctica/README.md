@@ -1,5 +1,4 @@
-Buellia arctica Lynge SPECIES
-=======
+# Buellia arctica Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza elegans Saut. SPECIES
-=======
+# Peziza elegans Saut. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globorotalia miocenica Palmer SPECIES
-=======
+# Globorotalia miocenica Palmer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe cinnamomeoluteus (P.D. Orton) SPECIES
-=======
+# Dermocybe cinnamomeoluteus (P.D. Orton) SPECIES
 
 #### Status
 ACCEPTED

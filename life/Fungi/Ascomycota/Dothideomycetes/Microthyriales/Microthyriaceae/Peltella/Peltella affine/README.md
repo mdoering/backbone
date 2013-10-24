@@ -1,5 +1,4 @@
-Peltella affine (Penz. & Sacc.) F. Stevens SPECIES
-=======
+# Peltella affine (Penz. & Sacc.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

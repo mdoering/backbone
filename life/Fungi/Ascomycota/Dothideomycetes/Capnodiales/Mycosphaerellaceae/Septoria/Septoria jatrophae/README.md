@@ -1,5 +1,4 @@
-Septoria jatrophae Heald & F.A. Wolf SPECIES
-=======
+# Septoria jatrophae Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Septoria wahlenbergii-australiensis Priest SPECIES
-=======
+# Septoria wahlenbergiae-australiensis Priest SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi of Australia 223 (2006)
 
 #### Original name
-Septoria wahlenbergii-australiensis Priest
+Septoria wahlenbergiae-australiensis Priest
 
 ### Remarks
 null

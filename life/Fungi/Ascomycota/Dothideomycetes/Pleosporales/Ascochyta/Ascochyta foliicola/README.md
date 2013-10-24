@@ -1,5 +1,4 @@
-Ascochyta foliicola (Gonz. Frag.) Melnik SPECIES
-=======
+# Ascochyta foliicola (Gonz. Frag.) Melnik SPECIES
 
 #### Status
 ACCEPTED

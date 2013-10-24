@@ -1,5 +1,4 @@
-Hyaloscypha terrestris Velen. SPECIES
-=======
+# Hyaloscypha terrestris Velen. SPECIES
 
 #### Status
 ACCEPTED

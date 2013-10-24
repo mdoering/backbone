@@ -1,5 +1,4 @@
-Physcia violaria Erichsen SPECIES
-=======
+# Physcia violaria Erichsen SPECIES
 
 #### Status
 ACCEPTED

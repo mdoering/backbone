@@ -1,5 +1,4 @@
-Buellia venantii SPECIES
-=======
+# Buellia venantii SPECIES
 
 #### Status
 ACCEPTED

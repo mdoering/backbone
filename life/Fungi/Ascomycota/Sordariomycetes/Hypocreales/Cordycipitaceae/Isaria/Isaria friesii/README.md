@@ -1,5 +1,4 @@
-Isaria friesii Mont., 1836 SPECIES
-=======
+# Isaria friesii Mont., 1836 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium ailanthi-glandulosae (Sacc.) Biga, Cif. & Bestagno SPECIES
-=======
+# Coniothyrium ailanthi-glandulosae (Sacc.) Biga, Cif. & Bestagno SPECIES
 
 #### Status
 ACCEPTED

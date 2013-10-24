@@ -1,5 +1,4 @@
-Naevia virgarum Kirschst. SPECIES
-=======
+# Naevia virgarum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

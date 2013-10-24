@@ -1,5 +1,4 @@
-Rosellinia extremorum Starbäck SPECIES
-=======
+# Rosellinia extremorum Starbäck SPECIES
 
 #### Status
 ACCEPTED

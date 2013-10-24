@@ -1,5 +1,4 @@
-Monoporisporites novus A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Monoporisporites novus A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

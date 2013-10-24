@@ -1,5 +1,4 @@
-Peltidea resupinata SPECIES
-=======
+# Peltidea resupinata SPECIES
 
 #### Status
 ACCEPTED

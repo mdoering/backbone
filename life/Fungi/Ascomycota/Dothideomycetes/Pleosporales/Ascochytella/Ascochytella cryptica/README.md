@@ -1,5 +1,4 @@
-Ascochytella cryptica Syd. {?} SPECIES
-=======
+# Ascochytella cryptica Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

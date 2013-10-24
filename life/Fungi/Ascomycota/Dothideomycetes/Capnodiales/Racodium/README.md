@@ -1,17 +1,16 @@
-Rhacodiopsis Donk GENUS
-=======
+# Racodium E.M. Fries, 1829 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 8(3): 276 (1975)
+Syst. mycol. (Lundae) 3(1): 229 (1829)
 
 #### Original name
-Rhacodiopsis Donk
+Racodium E.M. Fries, 1829
 
 ### Remarks
 null

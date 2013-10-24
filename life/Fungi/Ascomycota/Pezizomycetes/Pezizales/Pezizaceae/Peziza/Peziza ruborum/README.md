@@ -1,5 +1,4 @@
-Peziza ruborum Cooke SPECIES
-=======
+# Peziza ruborum Cooke SPECIES
 
 #### Status
 ACCEPTED

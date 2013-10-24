@@ -1,5 +1,4 @@
-Asterina araliae M.S. Patil & A.B. Pawar SPECIES
-=======
+# Asterina araliae M.S. Patil & A.B. Pawar SPECIES
 
 #### Status
 ACCEPTED

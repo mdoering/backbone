@@ -1,5 +1,4 @@
-Clitocybe elixa (Pers.) Sacc. SPECIES
-=======
+# Clitocybe elixa (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

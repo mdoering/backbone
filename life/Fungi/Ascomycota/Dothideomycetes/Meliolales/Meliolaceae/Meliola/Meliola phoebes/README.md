@@ -1,5 +1,4 @@
-Meliola phoebes Hansf. SPECIES
-=======
+# Meliola phoebes Hansf. SPECIES
 
 #### Status
 ACCEPTED

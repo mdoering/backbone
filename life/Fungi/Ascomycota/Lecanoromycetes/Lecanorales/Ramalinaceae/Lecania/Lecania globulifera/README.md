@@ -1,5 +1,4 @@
-Lecania globulifera Zahlbr. SPECIES
-=======
+# Lecania globulifera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

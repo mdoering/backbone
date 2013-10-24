@@ -1,5 +1,4 @@
-Daedalea fulvirubida (Corner) T. Hatt. SPECIES
-=======
+# Daedalea fulvirubida (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

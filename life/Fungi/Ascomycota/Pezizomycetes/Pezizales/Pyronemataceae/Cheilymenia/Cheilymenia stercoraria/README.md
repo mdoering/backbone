@@ -1,5 +1,4 @@
-Cheilymenia stercoraria (Velen.) J. Moravec SPECIES
-=======
+# Cheilymenia stercoraria (Velen.) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

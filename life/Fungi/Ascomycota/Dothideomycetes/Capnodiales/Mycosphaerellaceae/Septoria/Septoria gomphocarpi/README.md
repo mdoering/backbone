@@ -1,5 +1,4 @@
-Septoria gomphocarpi Henn. SPECIES
-=======
+# Septoria gomphocarpi Henn. SPECIES
 
 #### Status
 ACCEPTED

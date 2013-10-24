@@ -1,5 +1,4 @@
-Durispora musae Photita, Lumyong, P. Lumyong & K.D. Hyde, 2000 SPECIES
-=======
+# Durispora musae Photita, Lumyong, P. Lumyong & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

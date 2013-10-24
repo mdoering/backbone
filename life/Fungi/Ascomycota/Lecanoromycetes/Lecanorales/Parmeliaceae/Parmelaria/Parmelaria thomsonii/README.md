@@ -1,14 +1,13 @@
-Platysma thomsonii Stirt. SPECIES
-=======
+# Parmelaria thomsonii (Stirt.) D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Hattori bot. Lab. 63: 368 (1987)
 
 #### Original name
 Platysma thomsonii Stirt.

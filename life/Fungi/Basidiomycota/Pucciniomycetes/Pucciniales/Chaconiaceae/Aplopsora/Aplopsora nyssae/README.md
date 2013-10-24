@@ -1,5 +1,4 @@
-Aplopsora nyssae Mains, 1921 SPECIES
-=======
+# Aplopsora nyssae Mains, 1921 SPECIES
 
 #### Status
 ACCEPTED

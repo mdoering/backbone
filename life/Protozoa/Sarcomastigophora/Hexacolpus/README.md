@@ -1,5 +1,4 @@
-Hexacolpus Haeckel, 1887 GENUS
-=======
+# Hexacolpus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

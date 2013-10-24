@@ -1,14 +1,13 @@
-Buellia amphorea Eckfeldt SPECIES
-=======
+# Cratiria amphorea (Eckfeldt) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 172 (2000)
 
 #### Original name
 Buellia amphorea Eckfeldt

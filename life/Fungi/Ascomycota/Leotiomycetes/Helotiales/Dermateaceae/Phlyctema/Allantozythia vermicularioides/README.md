@@ -1,5 +1,4 @@
-Allantozythia vermicularioides (Syd.) Petr. SPECIES
-=======
+# Allantozythia vermicularioides (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

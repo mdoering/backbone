@@ -1,5 +1,4 @@
-Sclerotium hysterioides Corda SPECIES
-=======
+# Sclerotium hysterioides Corda SPECIES
 
 #### Status
 ACCEPTED

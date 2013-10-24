@@ -1,5 +1,4 @@
-Agaricus luteoflocculosus Kalamees SPECIES
-=======
+# Agaricus luteoflocculosus Kalamees SPECIES
 
 #### Status
 ACCEPTED

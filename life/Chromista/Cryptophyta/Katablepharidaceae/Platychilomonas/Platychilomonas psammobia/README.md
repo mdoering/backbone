@@ -1,5 +1,4 @@
-Platychilomonas psammobia Larsen & Patterson, 1990 SPECIES
-=======
+# Platychilomonas psammobia Larsen & Patterson, 1990 SPECIES
 
 #### Status
 ACCEPTED

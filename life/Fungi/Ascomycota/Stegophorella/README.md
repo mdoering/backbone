@@ -1,5 +1,4 @@
-Stegophorella Petr. GENUS
-=======
+# Stegophorella Petr. GENUS
 
 #### Status
 ACCEPTED

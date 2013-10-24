@@ -1,5 +1,4 @@
-Parmelia rottleri Spreng. SPECIES
-=======
+# Parmelia rottleri Spreng. SPECIES
 
 #### Status
 ACCEPTED

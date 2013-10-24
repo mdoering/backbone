@@ -1,5 +1,4 @@
-Didymaria puncta Davis SPECIES
-=======
+# Didymaria puncta Davis SPECIES
 
 #### Status
 ACCEPTED

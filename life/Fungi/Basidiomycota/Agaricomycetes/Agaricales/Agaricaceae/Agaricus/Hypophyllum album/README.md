@@ -1,5 +1,4 @@
-Hypophyllum album Paulet SPECIES
-=======
+# Hypophyllum album Paulet SPECIES
 
 #### Status
 ACCEPTED

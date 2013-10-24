@@ -1,5 +1,4 @@
-Dothithyriella F. von Höhnel, 1918 GENUS
-=======
+# Dothithyriella F. von Höhnel, 1918 GENUS
 
 #### Status
 ACCEPTED

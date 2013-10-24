@@ -1,5 +1,4 @@
-Cyathicula ciliata (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Cyathicula ciliata (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

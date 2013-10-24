@@ -1,5 +1,4 @@
-Isaria cateniannulata (Z.Q. Liang) Samson & Hywel-Jones, 2005 SPECIES
-=======
+# Isaria cateniannulata (Z.Q. Liang) Samson & Hywel-Jones, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus rickeni Romagn. SPECIES
-=======
+# Rhodophyllus rickeni Romagn. SPECIES
 
 #### Status
 ACCEPTED

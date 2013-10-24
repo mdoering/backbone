@@ -1,5 +1,4 @@
-Hyalinia rosella (Quél.) Boud. SPECIES
-=======
+# Hyalinia rosella (Quél.) Boud. SPECIES
 
 #### Status
 ACCEPTED

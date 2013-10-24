@@ -1,5 +1,4 @@
-Lecanora eburnea Lynge SPECIES
-=======
+# Lecanora eburnea Lynge SPECIES
 
 #### Status
 ACCEPTED

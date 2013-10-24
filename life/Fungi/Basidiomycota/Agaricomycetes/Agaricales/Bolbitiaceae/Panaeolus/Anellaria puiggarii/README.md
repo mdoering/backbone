@@ -1,5 +1,4 @@
-Anellaria puiggarii Speg. SPECIES
-=======
+# Anellaria puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

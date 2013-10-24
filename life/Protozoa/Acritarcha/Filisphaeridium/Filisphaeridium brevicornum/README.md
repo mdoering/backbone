@@ -1,5 +1,4 @@
-Filisphaeridium brevicornum (Jankauskas, 1976) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium brevicornum (Jankauskas, 1976) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

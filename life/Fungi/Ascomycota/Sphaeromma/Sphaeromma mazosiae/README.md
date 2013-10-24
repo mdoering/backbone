@@ -1,5 +1,4 @@
-Sphaeromma mazosiae H.B.P. Upadhyay, 1964 SPECIES
-=======
+# Sphaeromma mazosiae H.B.P. Upadhyay, 1964 SPECIES
 
 #### Status
 ACCEPTED

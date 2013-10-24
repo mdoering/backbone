@@ -1,5 +1,4 @@
-Astrosporina squarrosolutea Corner & E. Horak SPECIES
-=======
+# Astrosporina squarrosolutea Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

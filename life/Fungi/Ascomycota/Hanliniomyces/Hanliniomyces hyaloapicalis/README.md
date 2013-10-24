@@ -1,5 +1,4 @@
-Hanliniomyces hyaloapicalis Raja & Shearer SPECIES
-=======
+# Hanliniomyces hyaloapicalis Raja & Shearer SPECIES
 
 #### Status
 ACCEPTED

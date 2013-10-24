@@ -1,5 +1,4 @@
-Septoria ochraceomaculans Thüm. SPECIES
-=======
+# Septoria ochraceomaculans Thüm. SPECIES
 
 #### Status
 ACCEPTED

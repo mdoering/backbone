@@ -1,5 +1,4 @@
-Dimerium Sydow & P. Sydow, 1904 GENUS
-=======
+# Dimerium Sydow & P. Sydow, 1904 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula gregantula Müll. Arg. SPECIES
-=======
+# Pyrenula gregantula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

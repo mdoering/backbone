@@ -1,5 +1,4 @@
-Agaricus adpressus V. Brig. SPECIES
-=======
+# Agaricus adpressus V. Brig. SPECIES
 
 #### Status
 ACCEPTED

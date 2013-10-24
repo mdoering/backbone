@@ -1,5 +1,4 @@
-Trichodina puytoraci Lom, 1962 SPECIES
-=======
+# Trichodina puytoraci Lom, 1962 SPECIES
 
 #### Status
 ACCEPTED

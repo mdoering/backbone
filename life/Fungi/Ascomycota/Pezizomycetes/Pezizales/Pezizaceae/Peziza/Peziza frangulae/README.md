@@ -1,5 +1,4 @@
-Peziza frangulae Pers. SPECIES
-=======
+# Peziza frangulae Pers. SPECIES
 
 #### Status
 ACCEPTED

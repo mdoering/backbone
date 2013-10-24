@@ -1,5 +1,4 @@
-Pertusaria major Müll. Arg. SPECIES
-=======
+# Pertusaria major Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

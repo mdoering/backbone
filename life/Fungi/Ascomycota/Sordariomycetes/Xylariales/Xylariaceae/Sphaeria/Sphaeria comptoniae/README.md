@@ -1,5 +1,4 @@
-Sphaeria comptoniae Westend. SPECIES
-=======
+# Sphaeria comptoniae Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria pitcairniae Syd. SPECIES
-=======
+# Septoria pitcairniae Syd. SPECIES
 
 #### Status
 ACCEPTED

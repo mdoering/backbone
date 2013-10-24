@@ -1,14 +1,13 @@
-Amphisphaerella celastri S.B. Kale & S.V.S. Kale, 1971 SPECIES
-=======
+# Helicogermslita celastri (S.B. Kale & S.V.S. Kale) Lodha & D. Hawksw., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 24(1-6): 334 (1971)
+in Hawksworth & Lodha, Trans. Br. mycol. Soc. 81(1): 91 (1983)
 
 #### Original name
 Amphisphaerella celastri S.B. Kale & S.V.S. Kale, 1971

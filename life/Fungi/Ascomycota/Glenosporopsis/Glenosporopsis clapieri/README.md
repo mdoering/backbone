@@ -1,5 +1,4 @@
-Glenosporopsis clapieri (Catanei) Fonseca SPECIES
-=======
+# Glenosporopsis clapieri (Catanei) Fonseca SPECIES
 
 #### Status
 ACCEPTED

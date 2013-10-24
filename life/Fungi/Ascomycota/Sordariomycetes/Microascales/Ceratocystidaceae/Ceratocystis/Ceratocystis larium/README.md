@@ -1,5 +1,4 @@
-Ceratocystis larium M. van Wyk & M.J. Wingf. SPECIES
-=======
+# Ceratocystis larium M. van Wyk & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

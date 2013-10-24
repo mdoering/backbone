@@ -1,5 +1,4 @@
-Wardina GENUS
-=======
+# Wardina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria jarrinhae Viégas SPECIES
-=======
+# Septoria jarrinhae Viégas SPECIES
 
 #### Status
 ACCEPTED

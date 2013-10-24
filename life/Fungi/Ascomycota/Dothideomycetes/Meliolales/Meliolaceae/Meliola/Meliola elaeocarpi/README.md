@@ -1,5 +1,4 @@
-Meliola elaeocarpi H.S. Yates SPECIES
-=======
+# Meliola elaeocarpi H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

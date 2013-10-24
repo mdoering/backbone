@@ -1,5 +1,4 @@
-Catopyrenium adriaticum (Zahlbr.) Jatta SPECIES
-=======
+# Catopyrenium adriaticum (Zahlbr.) Jatta SPECIES
 
 #### Status
 ACCEPTED

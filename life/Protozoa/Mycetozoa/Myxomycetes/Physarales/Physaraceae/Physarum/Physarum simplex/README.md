@@ -1,5 +1,4 @@
-Physarum simplex M. Peck, 1932 SPECIES
-=======
+# Physarum simplex M. Peck, 1932 SPECIES
 
 #### Status
 ACCEPTED

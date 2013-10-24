@@ -1,5 +1,4 @@
-Parapeltella xylopiae Bat. & Cavalc. SPECIES
-=======
+# Parapeltella xylopiae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

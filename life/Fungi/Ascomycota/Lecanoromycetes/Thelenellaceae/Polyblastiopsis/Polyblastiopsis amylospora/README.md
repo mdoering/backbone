@@ -1,5 +1,4 @@
-Polyblastiopsis amylospora (Vain.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis amylospora (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyoporthe cinnamomi W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Dictyoporthe cinnamomi W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

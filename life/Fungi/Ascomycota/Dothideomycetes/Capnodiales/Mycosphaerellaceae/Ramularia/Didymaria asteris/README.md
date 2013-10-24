@@ -1,5 +1,4 @@
-Didymaria asteris Oudem. SPECIES
-=======
+# Didymaria asteris Oudem. SPECIES
 
 #### Status
 ACCEPTED

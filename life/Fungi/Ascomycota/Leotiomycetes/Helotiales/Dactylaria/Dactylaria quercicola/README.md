@@ -1,5 +1,4 @@
-Dactylaria quercicola W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Dactylaria quercicola W.B. Kendr. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

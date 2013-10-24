@@ -1,5 +1,4 @@
-Arenovidalina Ho, 1959 GENUS
-=======
+# Arenovidalina Ho, 1959 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta ludoviciana Ellis & G. Martin SPECIES
-=======
+# Phyllosticta ludoviciana Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

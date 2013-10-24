@@ -1,5 +1,4 @@
-Phloeospora laserpitii Bres. SPECIES
-=======
+# Phloeospora laserpitii Bres. SPECIES
 
 #### Status
 ACCEPTED

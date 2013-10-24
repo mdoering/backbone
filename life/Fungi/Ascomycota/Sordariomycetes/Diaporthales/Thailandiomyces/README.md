@@ -1,5 +1,4 @@
-Thailandiomyces Pinruan, Sakay., K.D. Hyde & E.B.G. Jones GENUS
-=======
+# Thailandiomyces Pinruan, Sakay., K.D. Hyde & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

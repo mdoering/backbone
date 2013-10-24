@@ -1,5 +1,4 @@
-Clypeolella stellata (Speg.) Theiss. SPECIES
-=======
+# Clypeolella stellata (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

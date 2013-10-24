@@ -1,5 +1,4 @@
-Inocybe favrei-cavipes Bon SPECIES
-=======
+# Inocybe favrei-cavipes Bon SPECIES
 
 #### Status
 ACCEPTED

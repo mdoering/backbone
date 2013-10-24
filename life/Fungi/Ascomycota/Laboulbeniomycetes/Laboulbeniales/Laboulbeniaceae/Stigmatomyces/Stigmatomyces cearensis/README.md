@@ -1,5 +1,4 @@
-Stigmatomyces cearensis Bergonzo, W. Rossi & A. Weir SPECIES
-=======
+# Stigmatomyces cearensis Bergonzo, W. Rossi & A. Weir SPECIES
 
 #### Status
 ACCEPTED

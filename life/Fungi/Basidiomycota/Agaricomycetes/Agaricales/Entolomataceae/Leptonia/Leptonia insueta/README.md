@@ -1,5 +1,4 @@
-Leptonia insueta Largent SPECIES
-=======
+# Leptonia insueta Largent SPECIES
 
 #### Status
 ACCEPTED

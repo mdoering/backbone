@@ -1,5 +1,4 @@
-Polyporus badiolutescens Kalchbr. ex G. Cunn. SPECIES
-=======
+# Polyporus badiolutescens Kalchbr. ex G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Raffaelea ambrosiae Arx & Hennebert, 1965 SPECIES
-=======
+# Raffaelea ambrosiae Arx & Hennebert, 1965 SPECIES
 
 #### Status
 ACCEPTED

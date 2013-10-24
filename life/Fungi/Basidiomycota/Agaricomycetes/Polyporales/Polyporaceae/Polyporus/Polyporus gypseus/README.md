@@ -1,5 +1,4 @@
-Polyporus gypseus (Yasuda) Yasuda SPECIES
-=======
+# Polyporus gypseus (Yasuda) Yasuda SPECIES
 
 #### Status
 ACCEPTED

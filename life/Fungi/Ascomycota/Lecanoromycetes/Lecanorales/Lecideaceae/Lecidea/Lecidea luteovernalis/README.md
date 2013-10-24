@@ -1,5 +1,4 @@
-Lecidea luteovernalis Brodo SPECIES
-=======
+# Lecidea luteovernalis Brodo SPECIES
 
 #### Status
 ACCEPTED

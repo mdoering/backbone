@@ -1,5 +1,4 @@
-Stigmatomyces tortimasculus Thaxt. SPECIES
-=======
+# Stigmatomyces tortimasculus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

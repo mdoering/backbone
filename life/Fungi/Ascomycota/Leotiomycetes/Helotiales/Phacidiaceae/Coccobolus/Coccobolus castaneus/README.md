@@ -1,5 +1,4 @@
-Coccobolus castaneus Wallr. SPECIES
-=======
+# Coccobolus castaneus Wallr. SPECIES
 
 #### Status
 ACCEPTED

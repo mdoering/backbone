@@ -1,14 +1,13 @@
-Mycoderma brasiliense (Splend.) Neveu-Lem., 1921 SPECIES
-=======
+# Paracoccidioides brasiliensis (Splend.) F.P. Almeida, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Précis Parasitol. hum. (Paris), Edn 5 69 (1921)
+Spicilegium Pl. neglect. 105: 316 (1930)
 
 #### Original name
 Zymonema brasiliense Splend., 1912

@@ -1,5 +1,4 @@
-Polyporus pellitus G. Mey. SPECIES
-=======
+# Polyporus pellitus G. Mey. SPECIES
 
 #### Status
 ACCEPTED

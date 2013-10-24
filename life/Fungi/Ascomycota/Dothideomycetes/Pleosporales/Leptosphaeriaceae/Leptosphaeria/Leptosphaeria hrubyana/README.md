@@ -1,5 +1,4 @@
-Leptosphaeria hrubyana Petr. SPECIES
-=======
+# Leptosphaeria hrubyana Petr. SPECIES
 
 #### Status
 ACCEPTED

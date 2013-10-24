@@ -1,5 +1,4 @@
-Phoma volkameriae Speg. SPECIES
-=======
+# Phoma volkameriae Speg. SPECIES
 
 #### Status
 ACCEPTED

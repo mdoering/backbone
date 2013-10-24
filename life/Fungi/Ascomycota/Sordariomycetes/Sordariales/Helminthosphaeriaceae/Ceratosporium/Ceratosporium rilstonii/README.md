@@ -1,5 +1,4 @@
-Ceratosporium rilstonii S. Hughes SPECIES
-=======
+# Ceratosporium rilstonii S. Hughes SPECIES
 
 #### Status
 ACCEPTED

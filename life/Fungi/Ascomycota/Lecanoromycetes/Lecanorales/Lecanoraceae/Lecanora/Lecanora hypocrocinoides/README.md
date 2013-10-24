@@ -1,5 +1,4 @@
-Lecanora hypocrocinoides Lumbsch SPECIES
-=======
+# Lecanora hypocrocinoides Lumbsch SPECIES
 
 #### Status
 ACCEPTED

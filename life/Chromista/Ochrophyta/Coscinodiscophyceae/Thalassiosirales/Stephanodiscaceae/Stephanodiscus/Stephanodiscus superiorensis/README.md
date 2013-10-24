@@ -1,5 +1,4 @@
-Stephanodiscus superiorensis Stoermer & Theriot SPECIES
-=======
+# Stephanodiscus superiorensis Stoermer & Theriot SPECIES
 
 #### Status
 ACCEPTED

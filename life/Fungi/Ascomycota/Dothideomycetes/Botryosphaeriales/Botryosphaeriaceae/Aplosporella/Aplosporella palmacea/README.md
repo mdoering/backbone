@@ -1,5 +1,4 @@
-Aplosporella palmacea Gonz. Frag. & Cif. SPECIES
-=======
+# Aplosporella palmacea Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

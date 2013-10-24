@@ -1,5 +1,4 @@
-Teichospora plantaginea Fabre SPECIES
-=======
+# Teichospora plantaginea Fabre SPECIES
 
 #### Status
 ACCEPTED

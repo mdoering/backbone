@@ -1,5 +1,4 @@
-Lembosia proteae Joanne E. Taylor & Crous SPECIES
-=======
+# Lembosia proteae Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

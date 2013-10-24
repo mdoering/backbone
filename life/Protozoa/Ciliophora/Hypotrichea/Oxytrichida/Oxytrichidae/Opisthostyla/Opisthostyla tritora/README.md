@@ -1,5 +1,4 @@
-Opisthostyla tritora Nenninger, 1948 SPECIES
-=======
+# Opisthostyla tritora Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cylindrocladiopsis cotoneasteris Y.L. Guo SPECIES
-=======
+# Cylindrocladiopsis cotoneastri Y.L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Anhui Agricultural University 26(3): 300 (1999)
 
 #### Original name
-Cylindrocladiopsis cotoneasteris Y.L. Guo
+Cylindrocladiopsis cotoneastri Y.L. Guo
 
 ### Remarks
 null

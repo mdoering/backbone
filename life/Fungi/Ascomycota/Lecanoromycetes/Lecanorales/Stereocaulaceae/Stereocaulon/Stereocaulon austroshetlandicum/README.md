@@ -1,5 +1,4 @@
-Stereocaulon austroshetlandicum Øvstedal SPECIES
-=======
+# Stereocaulon austroshetlandicum Øvstedal SPECIES
 
 #### Status
 ACCEPTED

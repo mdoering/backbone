@@ -1,5 +1,4 @@
-Phaeotrichum setosum Furuya & Udagawa, 1975 SPECIES
-=======
+# Phaeotrichum setosum Furuya & Udagawa, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria radicata Schwein. SPECIES
-=======
+# Sphaeria radicata Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea tigrina SPECIES
-=======
+# Lecidea tigrina SPECIES
 
 #### Status
 ACCEPTED

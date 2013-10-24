@@ -1,5 +1,4 @@
-Trochila petiolicola Rehm SPECIES
-=======
+# Trochila petiolicola Rehm SPECIES
 
 #### Status
 ACCEPTED

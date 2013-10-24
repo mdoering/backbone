@@ -1,5 +1,4 @@
-Clisosporium kerriae (Lebreton) Kuntze SPECIES
-=======
+# Clisosporium kerriae (Lebreton) Kuntze SPECIES
 
 #### Status
 ACCEPTED

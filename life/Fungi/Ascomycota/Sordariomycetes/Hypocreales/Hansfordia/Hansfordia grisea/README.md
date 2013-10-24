@@ -1,5 +1,4 @@
-Hansfordia grisea SPECIES
-=======
+# Hansfordia grisea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotoides woodruffi Gaw, 1939 SPECIES
-=======
+# Euplotoides woodruffi Gaw, 1939 SPECIES
 
 #### Status
 ACCEPTED

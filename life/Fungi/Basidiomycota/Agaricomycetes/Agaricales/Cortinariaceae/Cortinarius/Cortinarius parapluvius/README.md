@@ -1,5 +1,4 @@
-Cortinarius parapluvius Bidaud & Reumaux SPECIES
-=======
+# Cortinarius parapluvius Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

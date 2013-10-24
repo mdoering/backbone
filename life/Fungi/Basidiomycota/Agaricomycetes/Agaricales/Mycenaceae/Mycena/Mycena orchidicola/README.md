@@ -1,5 +1,4 @@
-Mycena orchidicola L. Fan & S.X. Guo SPECIES
-=======
+# Mycena orchidicola L. Fan & S.X. Guo SPECIES
 
 #### Status
 ACCEPTED

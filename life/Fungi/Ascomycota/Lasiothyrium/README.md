@@ -1,5 +1,4 @@
-Lasiothyrium Syd. & P. Syd. GENUS
-=======
+# Lasiothyrium Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

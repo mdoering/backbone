@@ -1,5 +1,4 @@
-Parmelia corallinoides (Schaer.) Rabenh. SPECIES
-=======
+# Parmelia corallinoides (Schaer.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

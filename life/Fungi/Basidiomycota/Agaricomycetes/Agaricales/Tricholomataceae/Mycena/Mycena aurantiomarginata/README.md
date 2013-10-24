@@ -1,11 +1,10 @@
-Mycena elegans sensu Rea (1922), A.A. Pearson, auct. mult. SPECIES
-=======
+# Mycena aurantiomarginata (Fr. Fr.) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

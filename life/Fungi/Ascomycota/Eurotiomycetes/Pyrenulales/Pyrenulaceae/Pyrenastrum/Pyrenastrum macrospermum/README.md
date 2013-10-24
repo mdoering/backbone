@@ -1,5 +1,4 @@
-Pyrenastrum macrospermum Mont. SPECIES
-=======
+# Pyrenastrum macrospermum Mont. SPECIES
 
 #### Status
 ACCEPTED

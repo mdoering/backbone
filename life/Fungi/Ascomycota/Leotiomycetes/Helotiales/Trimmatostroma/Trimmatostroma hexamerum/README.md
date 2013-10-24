@@ -1,5 +1,4 @@
-Trimmatostroma hexamerum B. Sutton SPECIES
-=======
+# Trimmatostroma hexamerum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

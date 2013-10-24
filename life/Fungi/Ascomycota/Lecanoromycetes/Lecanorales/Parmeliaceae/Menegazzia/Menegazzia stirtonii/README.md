@@ -1,5 +1,4 @@
-Menegazzia stirtonii (Zahlbr.) Kantvilas & Louwhoff SPECIES
-=======
+# Menegazzia stirtonii (Zahlbr.) Kantvilas & Louwhoff SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria lonchophora Berk. & Broome SPECIES
-=======
+# Naucoria lonchophora Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antarctomyces Stchigel & Guarro GENUS
-=======
+# Antarctomyces Stchigel & Guarro GENUS
 
 #### Status
 ACCEPTED

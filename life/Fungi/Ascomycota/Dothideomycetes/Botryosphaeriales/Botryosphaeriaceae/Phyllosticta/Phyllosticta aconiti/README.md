@@ -1,5 +1,4 @@
-Phyllosticta aconiti Siemaszko SPECIES
-=======
+# Phyllosticta aconiti Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inonotus hainanensis Xiong & Y.C. Dai SPECIES
-=======
+# Inonotus hainanensis Xiong & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

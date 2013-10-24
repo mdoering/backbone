@@ -1,5 +1,4 @@
-Lichen verrucarius J.F. Gmel. SPECIES
-=======
+# Lichen verrucarius J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

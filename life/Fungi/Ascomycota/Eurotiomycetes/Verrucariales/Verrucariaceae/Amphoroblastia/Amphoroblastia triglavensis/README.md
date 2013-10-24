@@ -1,5 +1,4 @@
-Amphoroblastia triglavensis (Servít) Servít SPECIES
-=======
+# Amphoroblastia triglavensis (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrospermum minutissimum Collins SPECIES
-=======
+# Cylindrospermum minutissimum Collins SPECIES
 
 #### Status
 ACCEPTED

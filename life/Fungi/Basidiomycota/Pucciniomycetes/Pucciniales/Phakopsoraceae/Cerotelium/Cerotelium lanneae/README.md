@@ -1,5 +1,4 @@
-Cerotelium lanneae (Höhn.) Arthur SPECIES
-=======
+# Cerotelium lanneae (Höhn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

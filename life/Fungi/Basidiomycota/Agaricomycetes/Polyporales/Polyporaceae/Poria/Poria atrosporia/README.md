@@ -1,5 +1,4 @@
-Poria atrosporia A. Ames SPECIES
-=======
+# Poria atrosporia A. Ames SPECIES
 
 #### Status
 ACCEPTED

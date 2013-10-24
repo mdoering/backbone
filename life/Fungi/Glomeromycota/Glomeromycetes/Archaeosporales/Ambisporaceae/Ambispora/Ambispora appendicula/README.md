@@ -1,17 +1,16 @@
-Paracaulospora appendicula (Spain, Sieverd. & N.C. Schenck) S.P. Gautam & U.S. Patel, 2007 SPECIES
-=======
+# Ambispora appendicula (Spain, Sieverd. & N.C. Schenck) C. Walker, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 112(3): 298 (2008)
 
 #### Original name
-null
+Acaulospora appendicula Spain, Sieverd. & N.C. Schenck, 1984
 
 ### Remarks
 null

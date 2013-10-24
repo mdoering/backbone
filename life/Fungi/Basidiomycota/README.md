@@ -1,5 +1,4 @@
-Basidiomycota R.T. Moore PHYLUM
-=======
+# Basidiomycota R.T. Moore PHYLUM
 
 #### Status
 ACCEPTED

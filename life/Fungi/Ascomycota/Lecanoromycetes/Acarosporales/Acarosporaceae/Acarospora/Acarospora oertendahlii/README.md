@@ -1,17 +1,16 @@
-Acarospora örtendahlii H. Magn. SPECIES
-=======
+# Acarospora oertendahlii H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annals Cryptog. Exot. 6: 28 (1933)
 
 #### Original name
-Acarospora örtendahlii H. Magn.
+Acarospora oertendahlii H. Magn.
 
 ### Remarks
 null

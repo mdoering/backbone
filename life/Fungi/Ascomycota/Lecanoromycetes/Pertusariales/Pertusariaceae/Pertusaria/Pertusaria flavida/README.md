@@ -1,17 +1,16 @@
-Pertusaria lutescens var. lutescens VARIETY
-=======
+# Pertusaria flavida (DC.) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 2: 144 (1963)
 
 #### Original name
-Pertusaria lutescens var. lutescens
+Variolaria flavida DC.
 
 ### Remarks
 null

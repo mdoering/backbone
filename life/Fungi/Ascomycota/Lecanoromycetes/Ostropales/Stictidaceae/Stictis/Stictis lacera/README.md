@@ -1,5 +1,4 @@
-Stictis lacera Mont. SPECIES
-=======
+# Stictis lacera Mont. SPECIES
 
 #### Status
 ACCEPTED

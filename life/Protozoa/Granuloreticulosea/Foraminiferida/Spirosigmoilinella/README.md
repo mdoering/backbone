@@ -1,5 +1,4 @@
-Spirosigmoilinella Matsunaga, 1955 GENUS
-=======
+# Spirosigmoilinella Matsunaga, 1955 GENUS
 
 #### Status
 ACCEPTED

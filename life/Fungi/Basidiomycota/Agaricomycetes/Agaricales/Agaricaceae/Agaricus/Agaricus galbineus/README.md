@@ -1,5 +1,4 @@
-Agaricus galbineus Cooke & Massee SPECIES
-=======
+# Agaricus galbineus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

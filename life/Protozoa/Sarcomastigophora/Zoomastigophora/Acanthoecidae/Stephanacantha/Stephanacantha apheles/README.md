@@ -1,5 +1,4 @@
-Stephanacantha apheles Thomsen in Thomsen et al. SPECIES
-=======
+# Stephanacantha apheles Thomsen in Thomsen et al. SPECIES
 
 #### Status
 ACCEPTED

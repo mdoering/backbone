@@ -1,5 +1,4 @@
-Pertusaria carneola (Eschw.) Müll. Arg. SPECIES
-=======
+# Pertusaria carneola (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

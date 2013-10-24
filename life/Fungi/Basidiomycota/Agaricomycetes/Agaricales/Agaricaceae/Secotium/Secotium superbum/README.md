@@ -1,5 +1,4 @@
-Secotium superbum G. Cunn. SPECIES
-=======
+# Secotium superbum G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

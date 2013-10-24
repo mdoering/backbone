@@ -1,17 +1,16 @@
-Anisomyxa Nemec GENUS
-=======
+# Ligniera Maire & A. Tison GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. Congr. natn. Socs. sav. Paris 105 Sect. Sci. Fasc. 1 Paleobotanique 18: 18 (1913)
+C. r. hebd. Séanc. Acad. Sci. , Paris 152: 206 (1911)
 
 #### Original name
-Anisomyxa Nemec
+Ligniera Maire & A. Tison
 
 ### Remarks
 null

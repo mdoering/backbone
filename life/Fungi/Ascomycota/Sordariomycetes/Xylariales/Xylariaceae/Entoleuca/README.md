@@ -1,5 +1,4 @@
-Entoleuca Syd. GENUS
-=======
+# Entoleuca Syd. GENUS
 
 #### Status
 ACCEPTED

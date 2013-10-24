@@ -1,5 +1,4 @@
-Clitocybe rancens Raithelh. SPECIES
-=======
+# Clitocybe rancens Raithelh. SPECIES
 
 #### Status
 ACCEPTED

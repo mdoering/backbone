@@ -1,8 +1,7 @@
-Tachysoma longa Hemberger, 1985 SPECIES
-=======
+# Lamtostyla longa (Hemberger, 1985) Berger & Foissner, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

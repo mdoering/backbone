@@ -1,5 +1,4 @@
-Haeckeliana Haeckel, 1887 GENUS
-=======
+# Haeckeliana Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

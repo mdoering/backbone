@@ -1,5 +1,4 @@
-Arthopyrenia bilimbiacea Müll. Arg. SPECIES
-=======
+# Arthopyrenia bilimbiacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

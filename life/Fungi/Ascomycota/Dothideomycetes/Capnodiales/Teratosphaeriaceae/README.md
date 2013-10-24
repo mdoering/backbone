@@ -1,5 +1,4 @@
-Teratosphaeriaceae Crous & U. Braun FAMILY
-=======
+# Teratosphaeriaceae Crous & U. Braun FAMILY
 
 #### Status
 ACCEPTED

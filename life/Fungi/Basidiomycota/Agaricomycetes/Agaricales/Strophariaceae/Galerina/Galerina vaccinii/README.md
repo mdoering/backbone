@@ -1,5 +1,4 @@
-Galerina vaccinii A.H. Sm. SPECIES
-=======
+# Galerina vaccinii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

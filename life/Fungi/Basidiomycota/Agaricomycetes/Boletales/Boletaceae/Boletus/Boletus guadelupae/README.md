@@ -1,5 +1,4 @@
-Boletus guadelupae Singer & Fiard SPECIES
-=======
+# Boletus guadelupae Singer & Fiard SPECIES
 
 #### Status
 ACCEPTED

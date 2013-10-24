@@ -1,5 +1,4 @@
-Tricholosporum violaceum Halling & Franco-Mol. SPECIES
-=======
+# Tricholosporum violaceum Halling & Franco-Mol. SPECIES
 
 #### Status
 ACCEPTED

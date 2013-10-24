@@ -1,5 +1,4 @@
-Polyblastia thrombioides Zahlbr. SPECIES
-=======
+# Polyblastia thrombioides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaenothecopsis hyrcana Titov SPECIES
-=======
+# Chaenothecopsis hyrcana Titov SPECIES
 
 #### Status
 ACCEPTED

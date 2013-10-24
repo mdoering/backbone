@@ -1,14 +1,13 @@
-Geopetalum kavinii (Pilát) Kühner & Romagn., 1953 SPECIES
-=======
+# Resupinatus kavinii (Pilát) M.M. Moser, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 68 (1953)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 153 (1978)
 
 #### Original name
 Pleurotus kavinii Pilát, 1931

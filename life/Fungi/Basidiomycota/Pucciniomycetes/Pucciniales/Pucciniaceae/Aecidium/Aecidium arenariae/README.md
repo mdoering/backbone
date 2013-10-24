@@ -1,5 +1,4 @@
-Aecidium arenariae Vestergr. SPECIES
-=======
+# Aecidium arenariae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

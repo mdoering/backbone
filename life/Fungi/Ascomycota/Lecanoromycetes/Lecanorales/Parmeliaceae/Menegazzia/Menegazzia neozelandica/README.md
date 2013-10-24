@@ -1,14 +1,13 @@
-Parmelia neozelandica Zahlbr. SPECIES
-=======
+# Menegazzia neozelandica (Zahlbr.) P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 6: 53 (1930)
+in James & Galloway, Flora of Australia (Canberra), Vol. <b>54</b>. Lichens  Introduction, Lecanorales 1 313 (1992)
 
 #### Original name
 Parmelia neozelandica Zahlbr.

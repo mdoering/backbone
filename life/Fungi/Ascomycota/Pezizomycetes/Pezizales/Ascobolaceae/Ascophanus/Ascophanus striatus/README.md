@@ -1,5 +1,4 @@
-Ascophanus striatus K.S. Thind, E.K. Cash & Pr. Singh SPECIES
-=======
+# Ascophanus striatus K.S. Thind, E.K. Cash & Pr. Singh SPECIES
 
 #### Status
 ACCEPTED

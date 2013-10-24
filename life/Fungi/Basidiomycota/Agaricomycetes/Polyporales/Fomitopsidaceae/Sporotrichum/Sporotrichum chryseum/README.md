@@ -1,5 +1,4 @@
-Sporotrichum chryseum Peck SPECIES
-=======
+# Sporotrichum chryseum Peck SPECIES
 
 #### Status
 ACCEPTED

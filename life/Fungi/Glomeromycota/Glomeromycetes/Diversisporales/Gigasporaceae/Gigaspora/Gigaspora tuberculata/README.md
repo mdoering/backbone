@@ -1,5 +1,4 @@
-Gigaspora tuberculata Neeraj, Mukerji, B.C. Sharma & A.K. Varma SPECIES
-=======
+# Gigaspora tuberculata Neeraj, Mukerji, B.C. Sharma & A.K. Varma SPECIES
 
 #### Status
 ACCEPTED

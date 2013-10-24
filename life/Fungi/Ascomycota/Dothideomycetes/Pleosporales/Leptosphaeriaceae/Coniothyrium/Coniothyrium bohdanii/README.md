@@ -1,5 +1,4 @@
-Coniothyrium bohdanii Truszk. SPECIES
-=======
+# Coniothyrium bohdanii Truszk. SPECIES
 
 #### Status
 ACCEPTED

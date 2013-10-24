@@ -1,5 +1,4 @@
-Zythia psidii Bat. SPECIES
-=======
+# Zythia psidii Bat. SPECIES
 
 #### Status
 ACCEPTED

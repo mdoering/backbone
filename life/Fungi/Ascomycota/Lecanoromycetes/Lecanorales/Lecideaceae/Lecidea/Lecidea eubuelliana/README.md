@@ -1,5 +1,4 @@
-Lecidea eubuelliana Vain. SPECIES
-=======
+# Lecidea eubuelliana Vain. SPECIES
 
 #### Status
 ACCEPTED

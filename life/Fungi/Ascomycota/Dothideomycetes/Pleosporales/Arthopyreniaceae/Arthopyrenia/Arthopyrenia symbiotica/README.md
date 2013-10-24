@@ -1,5 +1,4 @@
-Arthopyrenia symbiotica (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia symbiotica (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

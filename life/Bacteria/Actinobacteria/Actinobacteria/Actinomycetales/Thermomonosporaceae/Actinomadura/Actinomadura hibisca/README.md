@@ -1,5 +1,4 @@
-Actinomadura hibisca Tomita et al., 1991 SPECIES
-=======
+# Actinomadura hibisca Tomita et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

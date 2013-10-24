@@ -1,5 +1,4 @@
-Ascochytella beticola (Prill. & Delacr.) Petr. & Syd. SPECIES
-=======
+# Ascochytella beticola (Prill. & Delacr.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

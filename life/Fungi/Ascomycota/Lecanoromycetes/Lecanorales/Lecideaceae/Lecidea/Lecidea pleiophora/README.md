@@ -1,5 +1,4 @@
-Lecidea pleiophora (Nyl.) Hue SPECIES
-=======
+# Lecidea pleiophora (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

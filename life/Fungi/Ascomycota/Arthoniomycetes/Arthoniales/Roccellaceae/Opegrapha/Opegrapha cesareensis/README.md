@@ -1,17 +1,16 @@
-Opegrapha hysteriiformis Nyl. SPECIES
-=======
+# Opegrapha cesareensis Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 51: 477 (1868)
 
 #### Original name
-Opegrapha hysteriiformis Nyl.
+Opegrapha cesareensis Nyl.
 
 ### Remarks
 null

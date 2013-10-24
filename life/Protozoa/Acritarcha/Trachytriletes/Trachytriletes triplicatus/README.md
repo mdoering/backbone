@@ -1,5 +1,4 @@
-Trachytriletes triplicatus Egorov & Egorova, 1971 SPECIES
-=======
+# Trachytriletes triplicatus Egorov & Egorova, 1971 SPECIES
 
 #### Status
 ACCEPTED

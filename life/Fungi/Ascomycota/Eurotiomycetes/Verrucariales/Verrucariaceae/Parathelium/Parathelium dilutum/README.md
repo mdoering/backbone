@@ -1,5 +1,4 @@
-Parathelium dilutum Malme SPECIES
-=======
+# Parathelium dilutum Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetodiplodia diversispora Marchal & É.J. Marchal SPECIES
-=======
+# Chaetodiplodia diversispora Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

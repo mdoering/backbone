@@ -1,17 +1,16 @@
-Parmelia scrobicularis Kremp. SPECIES
-=======
+# Canoparmelia scrobicularis (Kremp.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Elix, Johnston & Verdon, Mycotaxon 27: 279 (1986)
 
 #### Original name
-null
+Parmelia scrobicularis Kremp.
 
 ### Remarks
 null

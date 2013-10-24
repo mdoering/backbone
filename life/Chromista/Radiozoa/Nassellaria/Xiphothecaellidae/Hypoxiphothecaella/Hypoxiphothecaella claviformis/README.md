@@ -1,5 +1,4 @@
-Hypoxiphothecaella claviformis SPECIES
-=======
+# Hypoxiphothecaella claviformis SPECIES
 
 #### Status
 ACCEPTED

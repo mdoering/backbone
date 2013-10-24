@@ -1,5 +1,4 @@
-Uredo neocomensis Mayor SPECIES
-=======
+# Uredo neocomensis Mayor SPECIES
 
 #### Status
 ACCEPTED

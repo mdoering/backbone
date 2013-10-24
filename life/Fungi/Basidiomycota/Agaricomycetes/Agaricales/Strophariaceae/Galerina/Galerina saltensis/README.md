@@ -1,5 +1,4 @@
-Galerina saltensis Singer SPECIES
-=======
+# Galerina saltensis Singer SPECIES
 
 #### Status
 ACCEPTED

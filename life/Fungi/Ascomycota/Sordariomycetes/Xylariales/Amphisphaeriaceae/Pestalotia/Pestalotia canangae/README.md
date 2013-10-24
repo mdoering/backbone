@@ -1,17 +1,16 @@
-Pestalozzia canangae Koord. SPECIES
-=======
+# Pestalotia canangae Koord. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. K. ned. Akad. Wet. , 2 Sectie 13(4): 224 (1907)
 
 #### Original name
-Pestalozzia canangae Koord.
+Pestalotia canangae Koord.
 
 ### Remarks
 null

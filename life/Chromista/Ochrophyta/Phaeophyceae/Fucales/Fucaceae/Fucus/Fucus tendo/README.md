@@ -1,5 +1,4 @@
-Fucus tendo Linnaeus SPECIES
-=======
+# Fucus tendo Linnaeus SPECIES
 
 #### Status
 ACCEPTED

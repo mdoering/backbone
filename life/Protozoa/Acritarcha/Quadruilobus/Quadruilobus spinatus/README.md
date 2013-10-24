@@ -1,5 +1,4 @@
-Quadruilobus spinatus Tappan & Loeblich, 1971 SPECIES
-=======
+# Quadruilobus spinatus Tappan & Loeblich, 1971 SPECIES
 
 #### Status
 ACCEPTED

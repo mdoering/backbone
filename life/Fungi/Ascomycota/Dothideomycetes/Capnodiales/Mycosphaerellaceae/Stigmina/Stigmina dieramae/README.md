@@ -1,5 +1,4 @@
-Stigmina dieramae Crous & B. Sutton SPECIES
-=======
+# Stigmina dieramae Crous & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

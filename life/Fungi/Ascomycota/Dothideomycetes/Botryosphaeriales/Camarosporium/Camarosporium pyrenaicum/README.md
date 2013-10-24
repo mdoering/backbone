@@ -1,5 +1,4 @@
-Camarosporium pyrenaicum Urries SPECIES
-=======
+# Camarosporium pyrenaicum Urries SPECIES
 
 #### Status
 ACCEPTED

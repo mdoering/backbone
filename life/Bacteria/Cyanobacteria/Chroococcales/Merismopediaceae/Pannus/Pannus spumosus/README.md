@@ -1,5 +1,4 @@
-Pannus spumosus B. Hickel SPECIES
-=======
+# Pannus spumosus B. Hickel SPECIES
 
 #### Status
 ACCEPTED

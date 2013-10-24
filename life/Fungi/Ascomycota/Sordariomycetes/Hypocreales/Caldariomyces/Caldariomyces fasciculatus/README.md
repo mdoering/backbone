@@ -1,5 +1,4 @@
-Caldariomyces fasciculatus Yamam. {?} SPECIES
-=======
+# Caldariomyces fasciculatus Yamam. {?} SPECIES
 
 #### Status
 ACCEPTED

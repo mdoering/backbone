@@ -1,5 +1,4 @@
-Ionaspis Th. Fr. GENUS
-=======
+# Ionaspis Th. Fr. GENUS
 
 #### Status
 ACCEPTED

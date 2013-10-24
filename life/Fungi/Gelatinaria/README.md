@@ -1,5 +1,4 @@
-Gelatinaria Rafinesque, 1815 GENUS
-=======
+# Gelatinaria Rafinesque, 1815 GENUS
 
 #### Status
 ACCEPTED

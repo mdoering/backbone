@@ -1,5 +1,4 @@
-Cortinarius verecundus E. Horak SPECIES
-=======
+# Cortinarius verecundus E. Horak SPECIES
 
 #### Status
 ACCEPTED

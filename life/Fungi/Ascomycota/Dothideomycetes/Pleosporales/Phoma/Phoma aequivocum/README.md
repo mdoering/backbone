@@ -1,5 +1,4 @@
-Phoma aequivocum Ces. SPECIES
-=======
+# Phoma aequivocum Ces. SPECIES
 
 #### Status
 ACCEPTED

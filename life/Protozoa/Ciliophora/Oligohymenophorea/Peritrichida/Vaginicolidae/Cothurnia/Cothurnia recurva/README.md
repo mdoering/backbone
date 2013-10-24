@@ -1,5 +1,4 @@
-Cothurnia recurva Claparède & Lachmann, 1858 SPECIES
-=======
+# Cothurnia recurva Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

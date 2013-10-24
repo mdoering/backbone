@@ -1,5 +1,4 @@
-Allophylaria nana (Sacc.) Sacc. SPECIES
-=======
+# Allophylaria nana (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

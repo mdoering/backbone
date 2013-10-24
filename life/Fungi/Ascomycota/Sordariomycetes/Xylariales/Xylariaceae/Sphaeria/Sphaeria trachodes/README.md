@@ -1,5 +1,4 @@
-Sphaeria trachodes Mont. SPECIES
-=======
+# Sphaeria trachodes Mont. SPECIES
 
 #### Status
 ACCEPTED

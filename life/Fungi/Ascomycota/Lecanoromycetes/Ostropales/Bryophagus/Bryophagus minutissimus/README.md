@@ -1,14 +1,13 @@
-Gloeolecta minutissima Vezda SPECIES
-=======
+# Bryophagus minutissimus (Vezda) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Folia geobot. phytotax. bohemoslov. 8(3): 312 (1973)
+in Shaw, Research Bulletin of the Department of Primary Industries, Port Moresby 33: 248 (1984)
 
 #### Original name
 Gloeolecta minutissima Vezda

@@ -1,5 +1,4 @@
-Puccinia discreta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia discreta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

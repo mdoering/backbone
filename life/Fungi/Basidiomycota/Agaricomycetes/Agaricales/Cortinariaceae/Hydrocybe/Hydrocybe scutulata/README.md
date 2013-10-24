@@ -1,5 +1,4 @@
-Hydrocybe scutulata (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe scutulata (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

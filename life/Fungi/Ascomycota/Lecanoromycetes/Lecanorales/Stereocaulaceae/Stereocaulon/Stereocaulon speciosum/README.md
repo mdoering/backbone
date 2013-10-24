@@ -1,5 +1,4 @@
-Stereocaulon speciosum var. speciosum VARIETY
-=======
+# Stereocaulon speciosum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Farlowia 458 (1955)
 
 #### Original name
-Stereocaulon speciosum var. speciosum
+Stereocaulon speciosum I.M. Lamb
 
 ### Remarks
 null

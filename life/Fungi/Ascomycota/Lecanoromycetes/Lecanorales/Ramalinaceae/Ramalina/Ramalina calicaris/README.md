@@ -1,5 +1,4 @@
-Ramalina calicaris subsp. calicaris SUBSPECIES
-=======
+# Ramalina calicaris (L.) Röhl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Deutschl. Fl. (Frankfurt), Abth. 2 3: 139 (1813)
 
 #### Original name
 Lichen calicaris L.

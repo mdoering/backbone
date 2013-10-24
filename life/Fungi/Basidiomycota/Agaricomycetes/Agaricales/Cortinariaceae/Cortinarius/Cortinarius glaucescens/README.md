@@ -1,5 +1,4 @@
-Cortinarius glaucescens var. glaucescens VARIETY
-=======
+# Cortinarius glaucescens (Jul. Schäff.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 304 (1967)
 
 #### Original name
-Cortinarius glaucescens var. glaucescens
+Phlegmacium glaucescens Jul. Schäff.
 
 ### Remarks
 null

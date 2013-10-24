@@ -1,5 +1,4 @@
-Hyalopus cordoniformis (Simões) M.A.J. Barbosa SPECIES
-=======
+# Hyalopus cordoniformis (Simões) M.A.J. Barbosa SPECIES
 
 #### Status
 ACCEPTED

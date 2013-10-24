@@ -1,5 +1,4 @@
-Gnomonia linnaeae Auersw. SPECIES
-=======
+# Gnomonia linnaeae Auersw. SPECIES
 
 #### Status
 ACCEPTED

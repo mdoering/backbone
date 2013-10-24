@@ -1,5 +1,4 @@
-Agaricus fistulosus Bull. SPECIES
-=======
+# Agaricus fistulosus Bull. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Assulina Ehrenberg, 1872 GENUS
-=======
+# Assulina Ehrenberg, 1872 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis alba (Preuss) Sacc. SPECIES
-=======
+# Botrytis alba (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

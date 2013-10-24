@@ -1,5 +1,4 @@
-Ombrophila morthieriana var. morthieriana VARIETY
-=======
+# Ombrophila morthieriana Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ombrophila morthieriana var. morthieriana
+Ombrophila morthieriana Rehm
 
 ### Remarks
 null

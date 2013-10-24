@@ -1,5 +1,4 @@
-Poroconiochaeta cistircense Stchigel & Guarro SPECIES
-=======
+# Poroconiochaeta cistircense Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

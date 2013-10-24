@@ -1,5 +1,4 @@
-Granatisporites cotalis Elsik & Janson. SPECIES
-=======
+# Granatisporites cotalis Elsik & Janson. SPECIES
 
 #### Status
 ACCEPTED

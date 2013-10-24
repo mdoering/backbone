@@ -1,5 +1,4 @@
-Dimerium barnadesiae (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium barnadesiae (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

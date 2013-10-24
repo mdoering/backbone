@@ -1,5 +1,4 @@
-Chaetomium silvaticum var. silvaticum VARIETY
-=======
+# Chaetomium silvaticum Kiril. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mykrobiol. Zh. 33(2): 155 (1971)
 
 #### Original name
-Chaetomium silvaticum var. silvaticum
+Chaetomium silvaticum Kiril.
 
 ### Remarks
 null

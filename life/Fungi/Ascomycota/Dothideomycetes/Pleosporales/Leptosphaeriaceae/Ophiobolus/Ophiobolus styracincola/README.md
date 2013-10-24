@@ -1,5 +1,4 @@
-Ophiobolus styracincola Rehm SPECIES
-=======
+# Ophiobolus styracincola Rehm SPECIES
 
 #### Status
 ACCEPTED

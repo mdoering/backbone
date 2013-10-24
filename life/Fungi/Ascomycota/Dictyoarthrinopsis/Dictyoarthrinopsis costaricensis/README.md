@@ -1,5 +1,4 @@
-Dictyoarthrinopsis costaricensis Bat. & Cif., 1958 SPECIES
-=======
+# Dictyoarthrinopsis costaricensis Bat. & Cif., 1958 SPECIES
 
 #### Status
 ACCEPTED

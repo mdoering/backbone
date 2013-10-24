@@ -1,5 +1,4 @@
-Cantharellus muscoides (Wulfen) J. Schröt. SPECIES
-=======
+# Cantharellus muscoides (Wulfen) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

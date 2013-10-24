@@ -1,5 +1,4 @@
-Actinoplanes derwentensis Goodfellow et al., 1990 SPECIES
-=======
+# Actinoplanes derwentensis Goodfellow et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

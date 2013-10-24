@@ -1,5 +1,4 @@
-Stegochilum Schewiakoff, 1893 GENUS
-=======
+# Stegochilum Schewiakoff, 1893 GENUS
 
 #### Status
 ACCEPTED

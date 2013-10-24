@@ -1,5 +1,4 @@
-Microthelia conspurcans (Mont.) Trevis. SPECIES
-=======
+# Microthelia conspurcans (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Collozoon Hensen, 1887 GENUS
-=======
+# Collozoum Haeckel, em. Brandt & Hacker, 1905 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Ber. Komm. D. Meere, 5, Fang-verz. , vii.
+Radiol. , 1, 522.
 
 #### Original name
 null

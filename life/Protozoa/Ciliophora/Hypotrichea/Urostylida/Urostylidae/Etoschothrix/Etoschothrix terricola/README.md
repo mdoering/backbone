@@ -1,5 +1,4 @@
-Etoschothrix terricola Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Etoschothrix terricola Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria albofulta Berk. & Broome SPECIES
-=======
+# Sphaeria albofulta Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

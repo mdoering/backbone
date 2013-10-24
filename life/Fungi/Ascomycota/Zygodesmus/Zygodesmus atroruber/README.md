@@ -1,5 +1,4 @@
-Zygodesmus atroruber Peck SPECIES
-=======
+# Zygodesmus atroruber Peck SPECIES
 
 #### Status
 ACCEPTED

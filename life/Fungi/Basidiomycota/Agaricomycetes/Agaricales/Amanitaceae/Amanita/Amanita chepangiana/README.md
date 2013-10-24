@@ -1,5 +1,4 @@
-Amanita chepangiana Tulloss & Bhandary SPECIES
-=======
+# Amanita chepangiana Tulloss & Bhandary SPECIES
 
 #### Status
 ACCEPTED

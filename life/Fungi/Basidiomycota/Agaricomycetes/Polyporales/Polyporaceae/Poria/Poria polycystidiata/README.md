@@ -1,5 +1,4 @@
-Poria polycystidiata Pilát SPECIES
-=======
+# Poria polycystidiata Pilát SPECIES
 
 #### Status
 ACCEPTED

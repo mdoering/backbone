@@ -1,5 +1,4 @@
-Stropharia lepiotoides Henn. SPECIES
-=======
+# Stropharia lepiotoides Henn. SPECIES
 
 #### Status
 ACCEPTED

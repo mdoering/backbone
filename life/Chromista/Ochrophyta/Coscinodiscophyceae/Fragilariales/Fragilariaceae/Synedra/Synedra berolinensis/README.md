@@ -1,5 +1,4 @@
-Synedra berolinensis Lemm. SPECIES
-=======
+# Synedra berolinensis Lemm. SPECIES
 
 #### Status
 ACCEPTED

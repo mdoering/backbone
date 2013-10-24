@@ -1,5 +1,4 @@
-Cycloclasticus spirillensus Chung & King, 2001 SPECIES
-=======
+# Cycloclasticus spirillensus Chung & King, 2001 SPECIES
 
 #### Status
 ACCEPTED

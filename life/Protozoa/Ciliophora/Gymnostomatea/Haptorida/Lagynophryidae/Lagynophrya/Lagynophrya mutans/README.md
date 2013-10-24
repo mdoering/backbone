@@ -1,5 +1,4 @@
-Lagynophrya mutans Kahl, 1927 SPECIES
-=======
+# Lagynophrya mutans Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

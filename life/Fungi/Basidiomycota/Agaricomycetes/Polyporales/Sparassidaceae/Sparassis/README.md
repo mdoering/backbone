@@ -1,5 +1,4 @@
-Sparassis E.M. Fries, 1819 GENUS
-=======
+# Sparassis E.M. Fries, 1819 GENUS
 
 #### Status
 ACCEPTED

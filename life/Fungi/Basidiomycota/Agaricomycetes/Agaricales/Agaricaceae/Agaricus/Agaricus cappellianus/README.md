@@ -1,17 +1,16 @@
-Pratella campestris vaporaria (Pers.) Gray, 1821 INFRASPECIFIC_NAME
-=======
+# Agaricus cappellianus Hlavácek, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mykologický Sborník 64(4): 113 (1987)
 
 #### Original name
-null
+Agaricus cappellianus Hlavácek, 1987
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cylindrosporium toxicodendri (M.A. Curtis) Ellis & Everh. SPECIES
-=======
+# Cylindrosporium toxicodendri (M.A. Curtis) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

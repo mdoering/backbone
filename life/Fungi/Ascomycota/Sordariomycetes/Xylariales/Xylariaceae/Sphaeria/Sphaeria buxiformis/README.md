@@ -1,5 +1,4 @@
-Sphaeria buxiformis Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria buxiformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

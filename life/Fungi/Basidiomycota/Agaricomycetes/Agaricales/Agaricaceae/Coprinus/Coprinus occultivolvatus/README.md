@@ -1,5 +1,4 @@
-Coprinus occultivolvatus Bogart SPECIES
-=======
+# Coprinus occultivolvatus Bogart SPECIES
 
 #### Status
 ACCEPTED

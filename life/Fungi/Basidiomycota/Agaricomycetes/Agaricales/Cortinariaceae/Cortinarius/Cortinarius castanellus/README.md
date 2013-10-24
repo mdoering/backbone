@@ -1,5 +1,4 @@
-Cortinarius castanellus Peck, 1878 SPECIES
-=======
+# Cortinarius castanellus Peck, 1878 SPECIES
 
 #### Status
 ACCEPTED

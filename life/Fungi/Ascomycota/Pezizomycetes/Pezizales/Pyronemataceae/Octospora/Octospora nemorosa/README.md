@@ -1,5 +1,4 @@
-Octospora nemorosa Humb. SPECIES
-=======
+# Octospora nemorosa Humb. SPECIES
 
 #### Status
 ACCEPTED

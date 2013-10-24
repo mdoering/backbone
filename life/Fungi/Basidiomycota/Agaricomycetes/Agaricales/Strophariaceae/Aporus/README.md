@@ -1,5 +1,4 @@
-Aporus Singer, 1936 GENUS
-=======
+# Aporus Singer, 1936 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psychromonas marina Kawasaki et al., 2002 SPECIES
-=======
+# Psychromonas marina Kawasaki et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus bellus Pers. SPECIES
-=======
+# Agaricus bellus Pers. SPECIES
 
 #### Status
 ACCEPTED

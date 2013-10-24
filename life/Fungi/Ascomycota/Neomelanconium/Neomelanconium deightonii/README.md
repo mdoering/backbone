@@ -1,5 +1,4 @@
-Neomelanconium deightonii Petr., 1954 SPECIES
-=======
+# Neomelanconium deightonii Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbella Lindau, 1900 GENUS
-=======
+# Stilbella Lindau, 1900 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium renisporum Torrend SPECIES
-=======
+# Cephalosporium renisporum Torrend SPECIES
 
 #### Status
 ACCEPTED

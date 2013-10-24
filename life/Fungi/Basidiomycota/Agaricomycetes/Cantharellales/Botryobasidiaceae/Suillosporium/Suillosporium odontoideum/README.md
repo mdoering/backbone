@@ -1,5 +1,4 @@
-Suillosporium odontoideum G. Langer & Langer, 2004 SPECIES
-=======
+# Suillosporium odontoideum G. Langer & Langer, 2004 SPECIES
 
 #### Status
 ACCEPTED

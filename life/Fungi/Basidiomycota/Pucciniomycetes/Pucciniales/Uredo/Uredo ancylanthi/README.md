@@ -1,5 +1,4 @@
-Uredo ancylanthi Henn. SPECIES
-=======
+# Uredo ancylanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

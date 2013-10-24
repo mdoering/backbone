@@ -1,5 +1,4 @@
-Cenangium carpathicum Velen. SPECIES
-=======
+# Cenangium carpathicum Velen. SPECIES
 
 #### Status
 ACCEPTED

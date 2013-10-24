@@ -1,5 +1,4 @@
-Perisporina truncata (F. Stevens) Arnaud SPECIES
-=======
+# Perisporina truncata (F. Stevens) Arnaud SPECIES
 
 #### Status
 ACCEPTED

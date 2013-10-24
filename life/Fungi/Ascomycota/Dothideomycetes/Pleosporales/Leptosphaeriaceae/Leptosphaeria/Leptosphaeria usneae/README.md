@@ -1,5 +1,4 @@
-Leptosphaeria usneae Woron. SPECIES
-=======
+# Leptosphaeria usneae Woron. SPECIES
 
 #### Status
 ACCEPTED

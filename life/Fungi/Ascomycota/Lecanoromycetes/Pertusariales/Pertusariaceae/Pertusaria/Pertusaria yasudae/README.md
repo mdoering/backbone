@@ -1,5 +1,4 @@
-Pertusaria yasudae Vain. SPECIES
-=======
+# Pertusaria yasudae Vain. SPECIES
 
 #### Status
 ACCEPTED

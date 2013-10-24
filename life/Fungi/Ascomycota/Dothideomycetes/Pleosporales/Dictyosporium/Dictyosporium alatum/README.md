@@ -1,5 +1,4 @@
-Dictyosporium alatum Emden, 1975 SPECIES
-=======
+# Dictyosporium alatum Emden, 1975 SPECIES
 
 #### Status
 ACCEPTED

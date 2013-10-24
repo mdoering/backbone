@@ -1,5 +1,4 @@
-Dicaeoma africanum (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma africanum (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

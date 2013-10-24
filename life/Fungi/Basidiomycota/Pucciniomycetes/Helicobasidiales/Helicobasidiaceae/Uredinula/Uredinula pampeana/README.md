@@ -1,5 +1,4 @@
-Uredinula pampeana Speg. SPECIES
-=======
+# Uredinula pampeana Speg. SPECIES
 
 #### Status
 ACCEPTED

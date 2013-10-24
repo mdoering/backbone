@@ -1,5 +1,4 @@
-Sterigmatocystis tunetana Langeron SPECIES
-=======
+# Sterigmatocystis tunetana Langeron SPECIES
 
 #### Status
 ACCEPTED

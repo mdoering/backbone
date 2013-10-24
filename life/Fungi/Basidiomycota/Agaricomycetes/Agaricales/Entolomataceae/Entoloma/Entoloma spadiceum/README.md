@@ -1,5 +1,4 @@
-Entoloma spadiceum Hesler SPECIES
-=======
+# Entoloma spadiceum Hesler SPECIES
 
 #### Status
 ACCEPTED

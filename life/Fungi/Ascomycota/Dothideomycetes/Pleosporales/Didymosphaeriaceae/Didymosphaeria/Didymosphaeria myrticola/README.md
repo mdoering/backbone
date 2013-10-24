@@ -1,5 +1,4 @@
-Didymosphaeria myrticola Casali SPECIES
-=======
+# Didymosphaeria myrticola Casali SPECIES
 
 #### Status
 ACCEPTED

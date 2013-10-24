@@ -1,5 +1,4 @@
-Dirina E.M. Fries, 1825 GENUS
-=======
+# Dirina E.M. Fries, 1825 GENUS
 
 #### Status
 ACCEPTED

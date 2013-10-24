@@ -1,5 +1,4 @@
-Pseudocercospora phaea (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora phaea (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

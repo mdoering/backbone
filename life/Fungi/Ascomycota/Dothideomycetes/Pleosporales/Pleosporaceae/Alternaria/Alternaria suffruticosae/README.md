@@ -1,5 +1,4 @@
-Alternaria suffruticosae Meng Zhang, Z.S. Chen & T.Y. Zhang SPECIES
-=======
+# Alternaria suffruticosae Meng Zhang, Z.S. Chen & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta yamaguchii Hara SPECIES
-=======
+# Phyllosticta yamaguchii Hara SPECIES
 
 #### Status
 ACCEPTED

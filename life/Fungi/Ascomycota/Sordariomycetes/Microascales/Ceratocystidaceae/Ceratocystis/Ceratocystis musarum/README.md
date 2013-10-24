@@ -1,5 +1,4 @@
-Ceratocystis musarum Riedl, 1962 SPECIES
-=======
+# Ceratocystis musarum Riedl, 1962 SPECIES
 
 #### Status
 ACCEPTED

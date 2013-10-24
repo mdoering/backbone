@@ -1,5 +1,4 @@
-Spathulina Pat. GENUS
-=======
+# Spathulina Pat. GENUS
 
 #### Status
 ACCEPTED

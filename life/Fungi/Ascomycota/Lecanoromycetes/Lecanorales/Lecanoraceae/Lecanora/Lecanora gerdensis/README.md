@@ -1,5 +1,4 @@
-Lecanora gerdensis (Hue) Zahlbr. SPECIES
-=======
+# Lecanora gerdensis (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

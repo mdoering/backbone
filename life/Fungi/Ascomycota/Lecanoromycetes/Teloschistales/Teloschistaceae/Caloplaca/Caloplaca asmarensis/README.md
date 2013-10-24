@@ -1,5 +1,4 @@
-Caloplaca asmarensis Jatta SPECIES
-=======
+# Caloplaca asmarensis Jatta SPECIES
 
 #### Status
 ACCEPTED

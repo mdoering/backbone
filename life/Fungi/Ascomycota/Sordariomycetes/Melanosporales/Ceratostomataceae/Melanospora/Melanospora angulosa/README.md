@@ -1,5 +1,4 @@
-Melanospora angulosa Wollenw. SPECIES
-=======
+# Melanospora angulosa Wollenw. SPECIES
 
 #### Status
 ACCEPTED

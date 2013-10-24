@@ -1,5 +1,4 @@
-Tricholoma melaleuciforme (Murrill) Murrill SPECIES
-=======
+# Tricholoma melaleuciforme (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

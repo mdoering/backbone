@@ -1,5 +1,4 @@
-Solenopezia aureococcinea (Berk. & M.A. Curtis) Rehm SPECIES
-=======
+# Solenopezia aureococcinea (Berk. & M.A. Curtis) Rehm SPECIES
 
 #### Status
 ACCEPTED

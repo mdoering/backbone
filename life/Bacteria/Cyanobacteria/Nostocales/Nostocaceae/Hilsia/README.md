@@ -1,5 +1,4 @@
-Hilsia Kirchner GENUS
-=======
+# Hilsia Kirchner GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophyllum pampeanum (Speg.) J.C. Lindq., 1963 SPECIES
-=======
+# Endophyllum pampeanum (Speg.) J.C. Lindq., 1963 SPECIES
 
 #### Status
 ACCEPTED

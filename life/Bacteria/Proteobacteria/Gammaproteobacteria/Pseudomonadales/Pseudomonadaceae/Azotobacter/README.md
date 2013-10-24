@@ -1,5 +1,4 @@
-Azotobacter Beijerinck, 1901 GENUS
-=======
+# Azotobacter Beijerinck, 1901 GENUS
 
 #### Status
 ACCEPTED

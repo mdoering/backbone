@@ -1,5 +1,4 @@
-Diplochytridium Karling GENUS
-=======
+# Diplochytridium Karling GENUS
 
 #### Status
 ACCEPTED

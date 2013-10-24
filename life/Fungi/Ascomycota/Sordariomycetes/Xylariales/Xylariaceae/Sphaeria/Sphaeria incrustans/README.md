@@ -1,5 +1,4 @@
-Sphaeria incrustans Pers. SPECIES
-=======
+# Sphaeria incrustans Pers. SPECIES
 
 #### Status
 ACCEPTED

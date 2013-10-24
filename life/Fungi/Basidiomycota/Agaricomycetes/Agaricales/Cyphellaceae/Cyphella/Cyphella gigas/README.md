@@ -1,5 +1,4 @@
-Cyphella gigas Pat. SPECIES
-=======
+# Cyphella gigas Pat. SPECIES
 
 #### Status
 ACCEPTED

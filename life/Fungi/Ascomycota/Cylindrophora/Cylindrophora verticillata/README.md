@@ -1,5 +1,4 @@
-Cylindrophora verticillata Bonord. SPECIES
-=======
+# Cylindrophora verticillata Bonord. SPECIES
 
 #### Status
 ACCEPTED

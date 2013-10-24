@@ -1,5 +1,4 @@
-Trichothyrium lomatophorum (Ellis & Everh.) Seaver & Chardón SPECIES
-=======
+# Trichothyrium lomatophorum (Ellis & Everh.) Seaver & Chardón SPECIES
 
 #### Status
 ACCEPTED

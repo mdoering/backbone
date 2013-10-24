@@ -1,5 +1,4 @@
-Discomyces algiris R. Blanch. & Nocard SPECIES
-=======
+# Discomyces algiris R. Blanch. & Nocard SPECIES
 
 #### Status
 ACCEPTED

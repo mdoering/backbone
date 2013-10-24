@@ -1,5 +1,4 @@
-Volutella penicillioides McAlpine SPECIES
-=======
+# Volutella penicillioides McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza teheranica Petr. SPECIES
-=======
+# Pyrenopeziza teheranica Petr. SPECIES
 
 #### Status
 ACCEPTED

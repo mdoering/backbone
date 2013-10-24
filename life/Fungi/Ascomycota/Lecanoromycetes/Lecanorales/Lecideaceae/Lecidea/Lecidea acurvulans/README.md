@@ -1,5 +1,4 @@
-Lecidea acurvulans SPECIES
-=======
+# Lecidea acurvulans SPECIES
 
 #### Status
 ACCEPTED

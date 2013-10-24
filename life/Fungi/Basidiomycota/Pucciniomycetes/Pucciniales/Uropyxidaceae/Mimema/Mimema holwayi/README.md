@@ -1,5 +1,4 @@
-Mimema holwayi H.S. Jacks., 1931 SPECIES
-=======
+# Mimema holwayi H.S. Jacks., 1931 SPECIES
 
 #### Status
 ACCEPTED

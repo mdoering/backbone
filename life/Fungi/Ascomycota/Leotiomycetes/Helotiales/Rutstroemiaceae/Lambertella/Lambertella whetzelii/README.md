@@ -1,5 +1,4 @@
-Lambertella whetzelii S.K. Gautam, C.M. Das, D.C. Pant & V.P. Tewari SPECIES
-=======
+# Lambertella whetzelii S.K. Gautam, C.M. Das, D.C. Pant & V.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

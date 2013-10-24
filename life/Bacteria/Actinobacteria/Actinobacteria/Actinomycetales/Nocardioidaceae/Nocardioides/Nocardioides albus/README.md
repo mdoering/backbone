@@ -1,5 +1,4 @@
-Nocardioides albus Prauser, 1976 (Approved Lists, 1980) SPECIES
-=======
+# Nocardioides albus Prauser, 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius pseudoglobularis Bon SPECIES
-=======
+# Marasmius pseudoglobularis Bon SPECIES
 
 #### Status
 ACCEPTED

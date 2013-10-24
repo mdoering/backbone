@@ -1,5 +1,4 @@
-Ectocarpus obtusocarpus P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Ectocarpus obtusocarpus P.L. Crouan & H.M. Crouan SPECIES
 
 #### Status
 ACCEPTED

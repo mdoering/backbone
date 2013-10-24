@@ -1,17 +1,16 @@
-Cladoderris dendritica var. dendritica (Pers.) Berk. VARIETY
-=======
+# Cymatoderma dendriticum (Pers.) D.A. Reid, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 13: 523 (1959)
 
 #### Original name
-Cladoderris dendritica var. dendritica (Pers.) Berk.
+Thelephora dendritica Pers., 1827
 
 ### Remarks
 null

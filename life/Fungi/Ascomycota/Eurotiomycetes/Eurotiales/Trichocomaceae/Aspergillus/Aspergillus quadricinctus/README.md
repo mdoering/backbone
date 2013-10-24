@@ -1,5 +1,4 @@
-Aspergillus quadricinctus J.L. Yuill, 1953 SPECIES
-=======
+# Aspergillus quadricinctus J.L. Yuill, 1953 SPECIES
 
 #### Status
 ACCEPTED

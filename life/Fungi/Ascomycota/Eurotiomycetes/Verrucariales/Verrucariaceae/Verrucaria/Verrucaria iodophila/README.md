@@ -1,5 +1,4 @@
-Verrucaria iodophila Servít SPECIES
-=======
+# Verrucaria iodophila Servít SPECIES
 
 #### Status
 ACCEPTED

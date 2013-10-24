@@ -1,5 +1,4 @@
-Thelidium jodophilum (Servít) Servít SPECIES
-=======
+# Thelidium jodophilum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

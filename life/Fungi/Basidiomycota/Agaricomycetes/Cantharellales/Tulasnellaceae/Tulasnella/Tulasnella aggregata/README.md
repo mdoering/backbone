@@ -1,14 +1,13 @@
-Gloeotulasnella aggregata L.S. Olive, 1953 SPECIES
-=======
+# Tulasnella aggregata (L.S. Olive) L.S. Olive, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 80: 40 (1953)
+Mycologia 49: 677 (1957)
 
 #### Original name
 Gloeotulasnella aggregata L.S. Olive, 1953

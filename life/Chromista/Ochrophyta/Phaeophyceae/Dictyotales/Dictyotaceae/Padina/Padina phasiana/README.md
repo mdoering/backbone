@@ -1,5 +1,4 @@
-Padina phasiana Bory de Saint-Vincent SPECIES
-=======
+# Padina phasiana Bory de Saint-Vincent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterographa anguinella (Nyl.) Redinger SPECIES
-=======
+# Enterographa anguinella (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosarcoma maydis Bref. SPECIES
-=======
+# Mycosarcoma maydis Bref. SPECIES
 
 #### Status
 ACCEPTED

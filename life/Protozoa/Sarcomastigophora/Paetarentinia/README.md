@@ -1,5 +1,4 @@
-Paetarentinia Furutani, 1983 GENUS
-=======
+# Paetarentinia Furutani, 1983 GENUS
 
 #### Status
 ACCEPTED

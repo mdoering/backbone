@@ -1,5 +1,4 @@
-Saccharopolyspora cebuensis Pimentel-Elardo, Tiro & Hentschel, 2008 SPECIES
-=======
+# Saccharopolyspora cebuensis Pimentel-Elardo, Tiro & Hentschel, 2008 SPECIES
 
 #### Status
 ACCEPTED

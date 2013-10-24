@@ -1,5 +1,4 @@
-Pleiochaeta amazonensis Matsush. SPECIES
-=======
+# Pleiochaeta amazonensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

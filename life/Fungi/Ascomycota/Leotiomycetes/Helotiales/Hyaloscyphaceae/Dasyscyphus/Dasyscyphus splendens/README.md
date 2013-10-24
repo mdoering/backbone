@@ -1,8 +1,7 @@
-Dasyscypha splendens J. Schröt. SPECIES
-=======
+# Dasyscyphus splendens J. Schröt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha splendens J. Schröt.
+Dasyscyphus splendens J. Schröt.
 
 ### Remarks
 null

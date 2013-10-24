@@ -1,5 +1,4 @@
-Micrococcus faviformis SPECIES
-=======
+# Micrococcus faviformis SPECIES
 
 #### Status
 ACCEPTED

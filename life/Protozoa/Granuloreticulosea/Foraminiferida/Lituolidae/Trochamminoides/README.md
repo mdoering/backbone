@@ -1,5 +1,4 @@
-Trochamminoides Cushman, 1910 GENUS
-=======
+# Trochamminoides Cushman, 1910 GENUS
 
 #### Status
 ACCEPTED

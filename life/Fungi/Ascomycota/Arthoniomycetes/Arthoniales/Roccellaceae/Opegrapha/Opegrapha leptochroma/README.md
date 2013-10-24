@@ -1,5 +1,4 @@
-Opegrapha leptochroma A. Massal. SPECIES
-=======
+# Opegrapha leptochroma A. Massal. SPECIES
 
 #### Status
 ACCEPTED

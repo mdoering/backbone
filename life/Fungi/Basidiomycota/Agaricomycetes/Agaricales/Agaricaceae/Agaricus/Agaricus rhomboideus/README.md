@@ -1,5 +1,4 @@
-Agaricus rhomboideus With. SPECIES
-=======
+# Agaricus rhomboideus With. SPECIES
 
 #### Status
 ACCEPTED

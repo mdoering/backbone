@@ -1,5 +1,4 @@
-Buellia bolacina Tuck. SPECIES
-=======
+# Buellia bolacina Tuck. SPECIES
 
 #### Status
 ACCEPTED

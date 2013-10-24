@@ -1,5 +1,4 @@
-Uredo stevensiana Arthur SPECIES
-=======
+# Uredo stevensiana Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium isopyri J. Schröt. SPECIES
-=======
+# Aecidium isopyri J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

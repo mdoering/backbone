@@ -1,5 +1,4 @@
-Merulius cantharellus Pers. SPECIES
-=======
+# Merulius cantharellus Pers. SPECIES
 
 #### Status
 ACCEPTED

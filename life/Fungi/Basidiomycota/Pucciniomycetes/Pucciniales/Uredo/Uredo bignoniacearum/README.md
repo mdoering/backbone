@@ -1,5 +1,4 @@
-Uredo bignoniacearum Speg. SPECIES
-=======
+# Uredo bignoniacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

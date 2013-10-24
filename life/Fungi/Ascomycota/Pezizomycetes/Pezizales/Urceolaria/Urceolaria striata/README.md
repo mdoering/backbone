@@ -1,5 +1,4 @@
-Urceolaria striata Duby SPECIES
-=======
+# Urceolaria striata Duby SPECIES
 
 #### Status
 ACCEPTED

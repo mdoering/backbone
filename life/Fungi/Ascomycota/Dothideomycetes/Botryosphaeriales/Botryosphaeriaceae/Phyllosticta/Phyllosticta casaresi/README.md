@@ -1,5 +1,4 @@
-Phyllosticta casaresi var. casaresi VARIETY
-=======
+# Phyllosticta casaresi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta casaresi var. casaresi
+Phyllosticta casaresi Gonz. Frag.
 
 ### Remarks
 null

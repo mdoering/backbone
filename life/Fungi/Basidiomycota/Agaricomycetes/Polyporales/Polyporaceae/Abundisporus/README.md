@@ -1,5 +1,4 @@
-Abundisporus Ryvarden GENUS
-=======
+# Abundisporus Ryvarden GENUS
 
 #### Status
 ACCEPTED

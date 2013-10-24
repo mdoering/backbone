@@ -1,5 +1,4 @@
-Lecanographa subcaesia (Malme) Egea & Torrente SPECIES
-=======
+# Lecanographa subcaesia (Malme) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclopeltis semicordata (Sw.) Sm. SPECIES
-=======
+# Cyclopeltis semicordata (Sw.) Sm. SPECIES
 
 #### Status
 ACCEPTED

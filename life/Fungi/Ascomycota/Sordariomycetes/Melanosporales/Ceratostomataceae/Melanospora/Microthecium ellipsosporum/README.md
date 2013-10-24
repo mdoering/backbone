@@ -1,5 +1,4 @@
-Microthecium ellipsosporum Takada SPECIES
-=======
+# Microthecium ellipsosporum Takada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola hugoniae Hansf. & Deighton SPECIES
-=======
+# Meliola hugoniae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

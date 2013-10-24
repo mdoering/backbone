@@ -1,5 +1,4 @@
-Chaetoceros volans Schutt SPECIES
-=======
+# Chaetoceros volans Schutt SPECIES
 
 #### Status
 ACCEPTED

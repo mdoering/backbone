@@ -1,5 +1,4 @@
-Diaporthe landeghemiae (Westend.) Nitschke SPECIES
-=======
+# Diaporthe landeghemiae (Westend.) Nitschke SPECIES
 
 #### Status
 ACCEPTED

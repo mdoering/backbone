@@ -1,5 +1,4 @@
-Buellia indisimilis SPECIES
-=======
+# Buellia indisimilis SPECIES
 
 #### Status
 ACCEPTED

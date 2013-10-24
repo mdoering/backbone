@@ -1,5 +1,4 @@
-Meliola shimbaensis Mibey SPECIES
-=======
+# Meliola shimbaensis Mibey SPECIES
 
 #### Status
 ACCEPTED

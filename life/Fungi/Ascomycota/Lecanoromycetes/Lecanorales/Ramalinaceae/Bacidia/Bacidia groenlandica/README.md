@@ -1,5 +1,4 @@
-Bacidia groenlandica Zahlbr. SPECIES
-=======
+# Bacidia groenlandica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

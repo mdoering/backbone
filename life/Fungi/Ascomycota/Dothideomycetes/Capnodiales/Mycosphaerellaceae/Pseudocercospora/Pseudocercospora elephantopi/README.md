@@ -1,14 +1,13 @@
-Pseudocercospora elephantopodis (Ellis & Everh.) R.F. Castañeda & U. Braun SPECIES
-=======
+# Pseudocercospora elephantopi (Ellis & Everh.) R.F. Castañeda & U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. bot. 1(1): 51 (1989)
 
 #### Original name
 Cercospora elephantopi Ellis & Everh.

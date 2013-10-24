@@ -1,5 +1,4 @@
-Stictis javanica Sherwood SPECIES
-=======
+# Stictis javanica Sherwood SPECIES
 
 #### Status
 ACCEPTED

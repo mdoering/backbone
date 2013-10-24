@@ -1,5 +1,4 @@
-Pseudocercosporella ribis (Davis) U. Braun SPECIES
-=======
+# Pseudocercosporella ribis (Davis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

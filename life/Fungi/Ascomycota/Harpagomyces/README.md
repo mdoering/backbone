@@ -1,5 +1,4 @@
-Harpagomyces Wilcz. GENUS
-=======
+# Harpagomyces Wilcz. GENUS
 
 #### Status
 ACCEPTED

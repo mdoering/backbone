@@ -1,5 +1,4 @@
-Lecidea stiriaca (A. Massal.) Jatta SPECIES
-=======
+# Lecidea stiriaca (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

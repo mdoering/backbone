@@ -1,5 +1,4 @@
-Trichophyton epilans Mégnin SPECIES
-=======
+# Trichophyton epilans Mégnin SPECIES
 
 #### Status
 ACCEPTED

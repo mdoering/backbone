@@ -1,5 +1,4 @@
-Melanaria melanospora f. melanospora FORM
-=======
+# Melanaria melanospora SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanaria melanospora f. melanospora
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthopyrenia meizospora Zahlbr. SPECIES
-=======
+# Arthopyrenia meizospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

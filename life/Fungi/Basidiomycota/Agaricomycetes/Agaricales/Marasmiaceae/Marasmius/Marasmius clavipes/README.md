@@ -1,5 +1,4 @@
-Marasmius clavipes Corner SPECIES
-=======
+# Marasmius clavipes Corner SPECIES
 
 #### Status
 ACCEPTED

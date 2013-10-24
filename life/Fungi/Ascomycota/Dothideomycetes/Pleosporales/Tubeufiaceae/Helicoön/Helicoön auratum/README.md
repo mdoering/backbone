@@ -1,5 +1,4 @@
-Helicoön auratum (Ellis) Morgan SPECIES
-=======
+# Helicoön auratum (Ellis) Morgan SPECIES
 
 #### Status
 ACCEPTED

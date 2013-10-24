@@ -1,5 +1,4 @@
-Syringium Principi, 1909 GENUS
-=======
+# Syringium Principi, 1909 GENUS
 
 #### Status
 ACCEPTED

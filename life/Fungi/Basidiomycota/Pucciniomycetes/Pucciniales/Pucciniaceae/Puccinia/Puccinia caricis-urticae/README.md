@@ -1,5 +1,4 @@
-Puccinia caricis-urticae Erikss. SPECIES
-=======
+# Puccinia caricis-urticae Erikss. SPECIES
 
 #### Status
 ACCEPTED

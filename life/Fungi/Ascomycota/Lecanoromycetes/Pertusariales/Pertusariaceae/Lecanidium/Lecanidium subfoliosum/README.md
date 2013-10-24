@@ -1,5 +1,4 @@
-Lecanidium subfoliosum C.W. Dodge SPECIES
-=======
+# Lecanidium subfoliosum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

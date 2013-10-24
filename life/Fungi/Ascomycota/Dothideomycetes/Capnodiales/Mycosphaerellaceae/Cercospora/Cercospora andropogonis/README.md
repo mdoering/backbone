@@ -1,5 +1,4 @@
-Cercospora andropogonis Sawada SPECIES
-=======
+# Cercospora andropogonis Sawada SPECIES
 
 #### Status
 ACCEPTED

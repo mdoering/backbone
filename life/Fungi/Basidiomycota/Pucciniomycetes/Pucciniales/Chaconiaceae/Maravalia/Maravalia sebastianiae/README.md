@@ -1,5 +1,4 @@
-Maravalia sebastianiae J.C. Lindq. SPECIES
-=======
+# Maravalia sebastianiae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

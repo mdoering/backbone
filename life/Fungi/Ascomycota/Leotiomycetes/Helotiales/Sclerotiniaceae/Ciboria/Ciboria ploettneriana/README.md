@@ -1,5 +1,4 @@
-Ciboria ploettneriana (Kirschst.) N.F. Buchw. SPECIES
-=======
+# Ciboria ploettneriana (Kirschst.) N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

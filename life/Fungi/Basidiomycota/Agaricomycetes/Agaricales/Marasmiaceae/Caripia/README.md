@@ -1,5 +1,4 @@
-Caripia Kuntze GENUS
-=======
+# Caripia Kuntze GENUS
 
 #### Status
 ACCEPTED

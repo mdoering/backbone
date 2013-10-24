@@ -1,5 +1,4 @@
-Chaetosphaeria panamensis Huhndorf & F.A. Fernández SPECIES
-=======
+# Chaetosphaeria panamensis Huhndorf & F.A. Fernández SPECIES
 
 #### Status
 ACCEPTED

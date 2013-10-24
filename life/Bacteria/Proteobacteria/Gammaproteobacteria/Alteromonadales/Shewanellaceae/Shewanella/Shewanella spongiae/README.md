@@ -1,5 +1,4 @@
-Shewanella spongiae Yang, Kwon, Lee & Kim, 2006 SPECIES
-=======
+# Shewanella spongiae Yang, Kwon, Lee & Kim, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Cohnia Winter, 1884 GENUS
-=======
+# Lamprocystis Schroeter, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

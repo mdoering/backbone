@@ -1,8 +1,7 @@
-Trachelophyllum chilense Bürger, 1906 SPECIES
-=======
+# Epitholiolus chilensis (Bürger, 1906) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

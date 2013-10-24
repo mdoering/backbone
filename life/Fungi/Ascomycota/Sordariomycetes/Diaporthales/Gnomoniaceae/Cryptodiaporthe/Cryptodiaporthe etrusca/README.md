@@ -1,5 +1,4 @@
-Cryptodiaporthe etrusca Moriondo SPECIES
-=======
+# Cryptodiaporthe etrusca Moriondo SPECIES
 
 #### Status
 ACCEPTED

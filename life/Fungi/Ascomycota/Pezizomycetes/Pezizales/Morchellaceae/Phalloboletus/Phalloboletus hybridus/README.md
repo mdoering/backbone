@@ -1,5 +1,4 @@
-Phalloboletus hybridus P. Micheli SPECIES
-=======
+# Phalloboletus hybridus P. Micheli SPECIES
 
 #### Status
 ACCEPTED

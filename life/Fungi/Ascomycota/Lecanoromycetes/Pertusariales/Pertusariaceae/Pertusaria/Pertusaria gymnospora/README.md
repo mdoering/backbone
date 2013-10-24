@@ -1,5 +1,4 @@
-Pertusaria gymnospora Kantvilas SPECIES
-=======
+# Pertusaria gymnospora Kantvilas SPECIES
 
 #### Status
 ACCEPTED

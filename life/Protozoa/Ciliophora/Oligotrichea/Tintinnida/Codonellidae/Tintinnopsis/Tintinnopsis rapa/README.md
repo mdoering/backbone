@@ -1,5 +1,4 @@
-Tintinnopsis rapa Meunier, 1910 SPECIES
-=======
+# Tintinnopsis rapa Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

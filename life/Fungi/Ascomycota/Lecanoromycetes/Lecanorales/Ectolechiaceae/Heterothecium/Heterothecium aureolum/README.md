@@ -1,5 +1,4 @@
-Heterothecium aureolum (Tuck.) Tuck. SPECIES
-=======
+# Heterothecium aureolum (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

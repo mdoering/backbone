@@ -1,5 +1,4 @@
-Palaeosolenopora GENUS
-=======
+# Palaeosolenopora GENUS
 
 #### Status
 ACCEPTED

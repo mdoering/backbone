@@ -1,14 +1,13 @@
-Agaricus ditopus Fr., 1815 SPECIES
-=======
+# Clitocybe ditopa (Fr.) Gillet, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 1: 91 (1815)
+Hyménomycètes (Alençon) 166 (1874)
 
 #### Original name
 Agaricus ditopus Fr., 1815

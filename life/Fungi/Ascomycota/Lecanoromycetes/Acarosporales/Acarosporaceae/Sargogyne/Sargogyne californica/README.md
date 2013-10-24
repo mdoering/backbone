@@ -1,5 +1,4 @@
-Sargogyne californica SPECIES
-=======
+# Sargogyne californica SPECIES
 
 #### Status
 ACCEPTED

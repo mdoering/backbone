@@ -1,17 +1,16 @@
-Poria albida (Rajchenb. & J.E. Wright) Ginns, 1984 SPECIES
-=======
+# Perenniporia piperis (Rick) Rajchenb., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 21: 330 (1984)
+Nordic Jl Bot. 7(5): 555 (1987)
 
 #### Original name
-Perenniporia albida Rajchenb. & J.E. Wright, 1982
+Fomes piperis Rick, 1960
 
 ### Remarks
 null

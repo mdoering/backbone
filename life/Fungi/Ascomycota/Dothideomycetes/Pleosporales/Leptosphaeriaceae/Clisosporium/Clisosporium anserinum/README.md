@@ -1,5 +1,4 @@
-Clisosporium anserinum (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium anserinum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

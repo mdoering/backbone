@@ -1,5 +1,4 @@
-Paraphysothele montana (Hepp) Zschacke SPECIES
-=======
+# Paraphysothele montana (Hepp) Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosalina parri Collins, 1974 SPECIES
-=======
+# Rosalina parri Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

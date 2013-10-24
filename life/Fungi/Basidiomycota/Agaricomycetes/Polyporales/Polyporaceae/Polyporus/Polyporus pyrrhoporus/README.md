@@ -1,5 +1,4 @@
-Polyporus pyrrhoporus Durieu & Mont. SPECIES
-=======
+# Polyporus pyrrhoporus Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

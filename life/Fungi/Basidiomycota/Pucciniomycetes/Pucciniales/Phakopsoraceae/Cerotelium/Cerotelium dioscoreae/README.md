@@ -1,5 +1,4 @@
-Cerotelium dioscoreae Berndt, 1997 SPECIES
-=======
+# Cerotelium dioscoreae Berndt, 1997 SPECIES
 
 #### Status
 ACCEPTED

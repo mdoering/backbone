@@ -1,5 +1,4 @@
-Phoma anthurii Henn. SPECIES
-=======
+# Phoma anthurii Henn. SPECIES
 
 #### Status
 ACCEPTED

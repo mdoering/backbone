@@ -1,5 +1,4 @@
-Homostegia pterocarpi Pat. & Har. SPECIES
-=======
+# Homostegia pterocarpi Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

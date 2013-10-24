@@ -1,5 +1,4 @@
-Asterina syzygiicola Hansf. SPECIES
-=======
+# Asterina syzygiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

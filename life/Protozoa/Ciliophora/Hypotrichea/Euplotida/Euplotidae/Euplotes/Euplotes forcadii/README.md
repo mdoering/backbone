@@ -1,5 +1,4 @@
-Euplotes forcadii SPECIES
-=======
+# Euplotes forcadii SPECIES
 
 #### Status
 ACCEPTED

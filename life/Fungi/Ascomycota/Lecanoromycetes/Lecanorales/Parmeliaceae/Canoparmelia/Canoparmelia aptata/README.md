@@ -1,14 +1,13 @@
-Parmelia aptata Kremp. SPECIES
-=======
+# Canoparmelia aptata (Kremp.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Nylander, Flora, Jena 52: 291 (1869)
+in Elix, Johnston & Verdon, Mycotaxon 27: 278 (1986)
 
 #### Original name
 Parmelia aptata Kremp.

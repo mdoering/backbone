@@ -1,17 +1,16 @@
-Phaeocoriolellus Kotl. & Pouzar GENUS
-=======
+# Gloeophyllum P. Karsten, 1882 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 11(3): 162 (1957)
+Bidr. Känn. Finl. Nat. Folk 37: x, 79 (1882)
 
 #### Original name
-Phaeocoriolellus Kotl. & Pouzar
+Gloeophyllum P. Karsten, 1882
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Marasmius atroincrustatus var. atroincrustatus VARIETY
-=======
+# Marasmius atroincrustatus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 17: 76 (1976)
 
 #### Original name
-Marasmius atroincrustatus var. atroincrustatus
+Marasmius atroincrustatus Singer
 
 ### Remarks
 null

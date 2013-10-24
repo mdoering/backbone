@@ -1,5 +1,4 @@
-Subalveolina Reichel, 1936 GENUS
-=======
+# Subalveolina Reichel, 1936 GENUS
 
 #### Status
 ACCEPTED

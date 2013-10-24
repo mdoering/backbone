@@ -1,5 +1,4 @@
-Ramonia rappii Vezda SPECIES
-=======
+# Ramonia rappii Vezda SPECIES
 
 #### Status
 ACCEPTED

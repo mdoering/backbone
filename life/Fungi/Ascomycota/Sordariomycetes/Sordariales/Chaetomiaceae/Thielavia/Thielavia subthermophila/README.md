@@ -1,5 +1,4 @@
-Thielavia subthermophila Mouch., 1973 SPECIES
-=======
+# Thielavia subthermophila Mouch., 1973 SPECIES
 
 #### Status
 ACCEPTED

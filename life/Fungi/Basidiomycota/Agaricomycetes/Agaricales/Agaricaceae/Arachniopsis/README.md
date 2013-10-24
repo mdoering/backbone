@@ -1,5 +1,4 @@
-Arachniopsis Long, 1917 GENUS
-=======
+# Arachniopsis Long, 1917 GENUS
 
 #### Status
 ACCEPTED

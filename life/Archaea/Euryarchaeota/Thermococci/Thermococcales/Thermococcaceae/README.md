@@ -1,5 +1,4 @@
-Thermococcaceae FAMILY
-=======
+# Thermococcaceae FAMILY
 
 #### Status
 ACCEPTED

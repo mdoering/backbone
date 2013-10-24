@@ -1,17 +1,16 @@
-Wynnea gigantea var. gigantea VARIETY
-=======
+# Wynnea gigantea Berk. & M.A. Curtis, 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 9: (1867)
 
 #### Original name
-Wynnea gigantea var. gigantea
+Wynnea gigantea Berk. & M.A. Curtis, 1867
 
 ### Remarks
 null

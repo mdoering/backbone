@@ -1,5 +1,4 @@
-Textularia cuneiformis d'Orbigny, 1826 SPECIES
-=======
+# Textularia cuneiformis d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

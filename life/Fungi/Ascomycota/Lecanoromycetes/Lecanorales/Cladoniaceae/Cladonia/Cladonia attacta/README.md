@@ -1,5 +1,4 @@
-Cladonia attacta S. Hammer SPECIES
-=======
+# Cladonia attacta S. Hammer SPECIES
 
 #### Status
 ACCEPTED

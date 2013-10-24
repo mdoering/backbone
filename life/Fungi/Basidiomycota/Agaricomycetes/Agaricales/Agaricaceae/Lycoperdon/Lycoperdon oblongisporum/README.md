@@ -1,5 +1,4 @@
-Lycoperdon oblongisporum Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon oblongisporum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

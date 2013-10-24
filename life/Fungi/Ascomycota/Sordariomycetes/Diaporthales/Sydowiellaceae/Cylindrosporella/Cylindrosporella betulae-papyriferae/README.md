@@ -1,5 +1,4 @@
-Cylindrosporella betulae-papyriferae (Dearn. & Overh.) Arx SPECIES
-=======
+# Cylindrosporella betulae-papyriferae (Dearn. & Overh.) Arx SPECIES
 
 #### Status
 ACCEPTED

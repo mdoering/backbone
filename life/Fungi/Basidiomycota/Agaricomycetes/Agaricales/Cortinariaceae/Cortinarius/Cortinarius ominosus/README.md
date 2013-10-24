@@ -1,5 +1,4 @@
-Cortinarius ominosus Bidaud SPECIES
-=======
+# Cortinarius ominosus Bidaud SPECIES
 
 #### Status
 ACCEPTED

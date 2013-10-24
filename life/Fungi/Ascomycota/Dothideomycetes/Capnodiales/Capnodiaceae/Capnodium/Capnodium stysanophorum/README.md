@@ -1,5 +1,4 @@
-Capnodium stysanophorum Penz. & Sacc. SPECIES
-=======
+# Capnodium stysanophorum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

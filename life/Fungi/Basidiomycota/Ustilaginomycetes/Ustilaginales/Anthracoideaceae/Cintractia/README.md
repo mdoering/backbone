@@ -1,5 +1,4 @@
-Cintractia Cornu, 1883 GENUS
-=======
+# Cintractia Cornu, 1883 GENUS
 
 #### Status
 ACCEPTED

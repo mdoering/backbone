@@ -1,5 +1,4 @@
-Acarospora convoluta Darb. SPECIES
-=======
+# Acarospora convoluta Darb. SPECIES
 
 #### Status
 ACCEPTED

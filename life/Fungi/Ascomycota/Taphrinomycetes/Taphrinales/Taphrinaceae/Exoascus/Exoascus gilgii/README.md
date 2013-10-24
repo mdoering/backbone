@@ -1,5 +1,4 @@
-Exoascus gilgii (Henn. & J. Lindau) Sacc. SPECIES
-=======
+# Exoascus gilgii (Henn. & J. Lindau) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nosema dollfusi SPECIES
-=======
+# Nosema dollfusi SPECIES
 
 #### Status
 ACCEPTED

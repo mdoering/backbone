@@ -1,5 +1,4 @@
-Septoria angelicae-decurrentis M. Morelet SPECIES
-=======
+# Septoria angelicae-decurrentis M. Morelet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor parvispora Knonse SPECIES
-=======
+# Mucor parvispora Knonse SPECIES
 
 #### Status
 ACCEPTED

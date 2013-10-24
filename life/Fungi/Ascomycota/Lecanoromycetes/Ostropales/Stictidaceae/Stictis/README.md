@@ -1,5 +1,4 @@
-Stictis Pers. GENUS
-=======
+# Stictis Pers. GENUS
 
 #### Status
 ACCEPTED

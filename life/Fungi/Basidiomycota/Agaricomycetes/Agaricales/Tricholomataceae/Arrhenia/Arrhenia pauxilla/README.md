@@ -1,5 +1,4 @@
-Arrhenia pauxilla (Clémençon) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia pauxilla (Clémençon) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

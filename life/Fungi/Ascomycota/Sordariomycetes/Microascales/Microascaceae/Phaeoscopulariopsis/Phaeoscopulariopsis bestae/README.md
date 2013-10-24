@@ -1,5 +1,4 @@
-Phaeoscopulariopsis bestae (Pollacci) M. Ota SPECIES
-=======
+# Phaeoscopulariopsis bestae (Pollacci) M. Ota SPECIES
 
 #### Status
 ACCEPTED

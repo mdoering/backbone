@@ -1,14 +1,13 @@
-Phacidium seriatum (Fr.) Massee SPECIES
-=======
+# Durandiella seriata (Fr.) J.W. Groves, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 32: 139 (1954)
 
 #### Original name
 Cenangium seriatum Fr., 1822

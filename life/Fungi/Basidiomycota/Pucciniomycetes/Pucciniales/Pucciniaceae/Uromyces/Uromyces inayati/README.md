@@ -1,5 +1,4 @@
-Uromyces inayati Syd. & P. Syd. SPECIES
-=======
+# Uromyces inayati Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

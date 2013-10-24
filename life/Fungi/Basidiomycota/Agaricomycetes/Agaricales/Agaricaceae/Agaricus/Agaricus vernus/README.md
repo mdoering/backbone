@@ -1,5 +1,4 @@
-Agaricus vernus J. Otto SPECIES
-=======
+# Agaricus vernus J. Otto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Septonema breviusculum Berk. & M.A. Curtis, 1874 SPECIES
-=======
+# Taeniolella breviuscula (Berk. & M.A. Curtis) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, Grevillea 3(no. 25): 15 (1874)
+Can. J. Bot. 36: 817 (1958)
 
 #### Original name
 Septonema breviusculum Berk. & M.A. Curtis, 1874

@@ -1,17 +1,16 @@
-Guignardia cephalariae var. cephalariae VARIETY
-=======
+# Venturia cephalariae (Auersw.) Kalchbr. & Cooke, 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Ill. St. Acad. Sci. 10: 184 (1917)
+Grevillea 9(no. 49): 31 (1880)
 
 #### Original name
-Guignardia cephalariae var. cephalariae
+Venturia cephalariae (Auersw.) Kalchbr. & Cooke, 1880
 
 ### Remarks
 null

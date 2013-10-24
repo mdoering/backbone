@@ -1,5 +1,4 @@
-Sphaeria amorphostoma Schwein. SPECIES
-=======
+# Sphaeria amorphostoma Schwein. SPECIES
 
 #### Status
 ACCEPTED

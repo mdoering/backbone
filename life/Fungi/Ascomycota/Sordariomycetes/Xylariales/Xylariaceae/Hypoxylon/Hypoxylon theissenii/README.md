@@ -1,5 +1,4 @@
-Hypoxylon theissenii Bres. SPECIES
-=======
+# Hypoxylon theissenii Bres. SPECIES
 
 #### Status
 ACCEPTED

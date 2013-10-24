@@ -1,5 +1,4 @@
-Dactylofusa conata Cramer & Díez, 1977 SPECIES
-=======
+# Dactylofusa conata Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

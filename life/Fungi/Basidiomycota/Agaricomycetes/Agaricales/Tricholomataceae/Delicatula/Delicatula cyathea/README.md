@@ -1,5 +1,4 @@
-Delicatula cyathea Velen. SPECIES
-=======
+# Delicatula cyathea Velen. SPECIES
 
 #### Status
 ACCEPTED

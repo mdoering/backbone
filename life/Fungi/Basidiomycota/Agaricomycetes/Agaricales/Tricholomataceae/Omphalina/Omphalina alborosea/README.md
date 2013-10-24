@@ -1,5 +1,4 @@
-Omphalina alborosea (Pat. & Gaillard) Raithelh. SPECIES
-=======
+# Omphalina alborosea (Pat. & Gaillard) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

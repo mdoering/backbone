@@ -1,5 +1,4 @@
-Lepraria larrainiana Lendemer SPECIES
-=======
+# Lepraria larrainiana Lendemer SPECIES
 
 #### Status
 ACCEPTED

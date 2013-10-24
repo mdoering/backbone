@@ -1,5 +1,4 @@
-Pyrenochaeta desmodii L.S. Chauhan & S.C. Verma SPECIES
-=======
+# Pyrenochaeta desmodii L.S. Chauhan & S.C. Verma SPECIES
 
 #### Status
 ACCEPTED

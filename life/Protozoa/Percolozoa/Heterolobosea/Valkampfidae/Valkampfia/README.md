@@ -1,5 +1,4 @@
-Valkampfia GENUS
-=======
+# Valkampfia GENUS
 
 #### Status
 ACCEPTED

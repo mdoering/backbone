@@ -1,5 +1,4 @@
-Graphis leucocheila (Fée) Nyl. SPECIES
-=======
+# Graphis leucocheila (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

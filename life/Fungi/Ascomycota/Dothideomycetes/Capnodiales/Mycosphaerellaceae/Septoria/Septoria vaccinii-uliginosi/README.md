@@ -1,5 +1,4 @@
-Septoria vaccinii-uliginosi Bubák & Picb. SPECIES
-=======
+# Septoria vaccinii-uliginosi Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

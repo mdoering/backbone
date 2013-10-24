@@ -1,5 +1,4 @@
-Coniocybe obscuripes f. obscuripes FORM
-=======
+# Coniocybe obscuripes Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniocybe obscuripes f. obscuripes
+Coniocybe obscuripes Nyl.
 
 ### Remarks
 null

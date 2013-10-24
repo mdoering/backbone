@@ -1,5 +1,4 @@
-Ceratostoma cinereum Quél. SPECIES
-=======
+# Ceratostoma cinereum Quél. SPECIES
 
 #### Status
 ACCEPTED

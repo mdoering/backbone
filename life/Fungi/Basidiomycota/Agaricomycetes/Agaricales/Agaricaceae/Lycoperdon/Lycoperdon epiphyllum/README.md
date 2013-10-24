@@ -1,5 +1,4 @@
-Lycoperdon epiphyllum L. SPECIES
-=======
+# Lycoperdon epiphyllum L. SPECIES
 
 #### Status
 ACCEPTED

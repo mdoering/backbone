@@ -1,5 +1,4 @@
-Coccoidea sinobambusae Sawada SPECIES
-=======
+# Coccoidea sinobambusae Sawada SPECIES
 
 #### Status
 ACCEPTED

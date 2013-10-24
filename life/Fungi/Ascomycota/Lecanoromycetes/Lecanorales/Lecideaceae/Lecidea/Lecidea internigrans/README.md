@@ -1,5 +1,4 @@
-Lecidea internigrans Kremp. SPECIES
-=======
+# Lecidea internigrans Kremp. SPECIES
 
 #### Status
 ACCEPTED

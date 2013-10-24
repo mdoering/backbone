@@ -1,5 +1,4 @@
-Septoria pellucida Bubák & Dearn. SPECIES
-=======
+# Septoria pellucida Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

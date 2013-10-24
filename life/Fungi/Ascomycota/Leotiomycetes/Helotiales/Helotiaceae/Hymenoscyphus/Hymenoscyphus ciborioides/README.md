@@ -1,5 +1,4 @@
-Hymenoscyphus ciborioides (Fr.) W. Phillips, 1887 SPECIES
-=======
+# Hymenoscyphus ciborioides (Fr.) W. Phillips, 1887 SPECIES
 
 #### Status
 ACCEPTED

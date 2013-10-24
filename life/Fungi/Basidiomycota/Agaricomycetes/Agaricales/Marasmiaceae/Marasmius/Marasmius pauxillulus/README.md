@@ -1,5 +1,4 @@
-Marasmius pauxillulus Corner SPECIES
-=======
+# Marasmius pauxillulus Corner SPECIES
 
 #### Status
 ACCEPTED

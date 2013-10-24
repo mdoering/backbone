@@ -1,5 +1,4 @@
-Marasmius consocius Berk. SPECIES
-=======
+# Marasmius consocius Berk. SPECIES
 
 #### Status
 ACCEPTED

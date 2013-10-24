@@ -1,5 +1,4 @@
-Enterobryus euryuri Lichtw., 1954 SPECIES
-=======
+# Enterobryus euryuri Lichtw., 1954 SPECIES
 
 #### Status
 ACCEPTED

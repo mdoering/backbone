@@ -1,5 +1,4 @@
-Myriotrema terebratulum (Nyl.) Hale SPECIES
-=======
+# Myriotrema terebratulum (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

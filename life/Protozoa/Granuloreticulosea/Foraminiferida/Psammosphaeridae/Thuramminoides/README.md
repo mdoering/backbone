@@ -1,5 +1,4 @@
-Thuramminoides Plummer, 1945 GENUS
-=======
+# Thuramminoides Plummer, 1945 GENUS
 
 #### Status
 ACCEPTED

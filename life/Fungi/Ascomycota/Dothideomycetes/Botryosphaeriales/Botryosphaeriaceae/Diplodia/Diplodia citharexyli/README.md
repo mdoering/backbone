@@ -1,17 +1,16 @@
-Diplodia cytharexyli Henn. SPECIES
-=======
+# Diplodia citharexyli Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 48: 15 (1908)
 
 #### Original name
-Diplodia cytharexyli Henn.
+Diplodia citharexyli Henn.
 
 ### Remarks
 null

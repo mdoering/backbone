@@ -1,5 +1,4 @@
-Synchytrium chaptaliae Speg. SPECIES
-=======
+# Synchytrium chaptaliae Speg. SPECIES
 
 #### Status
 ACCEPTED

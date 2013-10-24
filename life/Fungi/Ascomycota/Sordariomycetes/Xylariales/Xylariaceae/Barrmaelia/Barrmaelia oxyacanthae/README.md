@@ -1,14 +1,13 @@
-Anthostoma oxyacanthae (Mont.) Sacc., 1882 SPECIES
-=======
+# Barrmaelia oxyacanthae (Mont.) Rappaz, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. helv. 7(1): 137 (1995)
 
 #### Original name
 Sphaeria oxyacanthae Mont., 1851

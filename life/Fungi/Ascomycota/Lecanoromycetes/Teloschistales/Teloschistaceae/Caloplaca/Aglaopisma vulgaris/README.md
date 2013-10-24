@@ -1,5 +1,4 @@
-Aglaopisma vulgaris De Not. ex Bagl. SPECIES
-=======
+# Aglaopisma vulgaris De Not. ex Bagl. SPECIES
 
 #### Status
 ACCEPTED

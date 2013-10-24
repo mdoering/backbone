@@ -1,5 +1,4 @@
-Excipula viticola Schwein. SPECIES
-=======
+# Excipula viticola Schwein. SPECIES
 
 #### Status
 ACCEPTED

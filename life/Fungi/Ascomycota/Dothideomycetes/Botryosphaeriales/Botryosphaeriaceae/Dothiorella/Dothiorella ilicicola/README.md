@@ -1,5 +1,4 @@
-Dothiorella ilicicola Oudem. SPECIES
-=======
+# Dothiorella ilicicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

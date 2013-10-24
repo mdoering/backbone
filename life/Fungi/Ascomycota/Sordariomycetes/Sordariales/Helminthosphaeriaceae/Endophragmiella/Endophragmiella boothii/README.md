@@ -1,14 +1,13 @@
-Endophragmia boothii M.B. Ellis, 1959 SPECIES
-=======
+# Endophragmiella boothii (M.B. Ellis) S. Hughes, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 72: 35 (1959)
+N. Z. Jl Bot. 17(2): 147 (1979)
 
 #### Original name
 Endophragmia boothii M.B. Ellis, 1959

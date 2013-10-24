@@ -1,14 +1,13 @@
-Agaricus semibulbosus Lasch, 1838 SPECIES
-=======
+# Pluteus semibulbosus (Lasch) Quél., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 140 (1838)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 543 (1875)
 
 #### Original name
 Agaricus semibulbosus Lasch, 1838

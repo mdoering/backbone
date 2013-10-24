@@ -1,5 +1,4 @@
-Diplocladiella G. Arnaud ex M.B. Ellis GENUS
-=======
+# Diplocladiella G. Arnaud ex M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

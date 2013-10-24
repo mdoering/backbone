@@ -1,5 +1,4 @@
-Meliola ugandensis var. ugandensis VARIETY
-=======
+# Meliola ugandensis (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , Bot. (1937)
+Mycopath. Mycol. appl. 7: 88 (1954)
 
 #### Original name
-Meliola ugandensis var. ugandensis
+Irene ugandensis Hansf.
 
 ### Remarks
 null

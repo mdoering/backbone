@@ -1,5 +1,4 @@
-Phallus gigas J.F. Gmel. SPECIES
-=======
+# Phallus gigas J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

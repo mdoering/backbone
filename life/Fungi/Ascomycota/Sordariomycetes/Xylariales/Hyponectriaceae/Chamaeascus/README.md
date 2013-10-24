@@ -1,5 +1,4 @@
-Chamaeascus L. Holm, K. Holm & M.E. Barr GENUS
-=======
+# Chamaeascus L. Holm, K. Holm & M.E. Barr GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia hyposalazinica Elix SPECIES
-=======
+# Xanthoparmelia hyposalazinica Elix SPECIES
 
 #### Status
 ACCEPTED

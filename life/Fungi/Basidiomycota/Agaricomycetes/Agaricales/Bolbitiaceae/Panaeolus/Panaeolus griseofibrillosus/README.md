@@ -1,5 +1,4 @@
-Panaeolus griseofibrillosus (Rick) Raithelh. SPECIES
-=======
+# Panaeolus griseofibrillosus (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

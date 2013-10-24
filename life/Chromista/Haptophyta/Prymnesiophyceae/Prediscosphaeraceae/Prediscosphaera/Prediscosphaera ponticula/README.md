@@ -1,5 +1,4 @@
-Prediscosphaera ponticula (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
-=======
+# Prediscosphaera ponticula (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

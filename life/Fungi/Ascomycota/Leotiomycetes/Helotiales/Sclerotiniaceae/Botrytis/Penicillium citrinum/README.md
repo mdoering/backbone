@@ -1,8 +1,7 @@
-Penicillium sartoryi Thom, 1930 SPECIES
-=======
+# Penicillium citrinum Thom, 1910 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

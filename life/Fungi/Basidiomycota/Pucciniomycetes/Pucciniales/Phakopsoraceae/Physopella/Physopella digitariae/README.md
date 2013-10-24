@@ -1,5 +1,4 @@
-Physopella digitariae (Cummins) Cummins & Ramachar SPECIES
-=======
+# Physopella digitariae (Cummins) Cummins & Ramachar SPECIES
 
 #### Status
 ACCEPTED

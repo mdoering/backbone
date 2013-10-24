@@ -1,5 +1,4 @@
-Phialea convoluta Rehm SPECIES
-=======
+# Phialea convoluta Rehm SPECIES
 
 #### Status
 ACCEPTED

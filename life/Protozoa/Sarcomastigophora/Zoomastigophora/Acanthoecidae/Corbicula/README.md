@@ -1,5 +1,4 @@
-Corbicula Meunier, 1910 GENUS
-=======
+# Corbicula Meunier, 1910 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella bignoniae (Schwein.) Starbäck SPECIES
-=======
+# Aplosporella bignoniae (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

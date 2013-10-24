@@ -1,5 +1,4 @@
-Laestadia socia Penz. SPECIES
-=======
+# Laestadia socia Penz. SPECIES
 
 #### Status
 ACCEPTED

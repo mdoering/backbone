@@ -1,5 +1,4 @@
-Mycosphaerella thaspiicola H.C. Greene, 1958 SPECIES
-=======
+# Mycosphaerella thaspiicola H.C. Greene, 1958 SPECIES
 
 #### Status
 ACCEPTED

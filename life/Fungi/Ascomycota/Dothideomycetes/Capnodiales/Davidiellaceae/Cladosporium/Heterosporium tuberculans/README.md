@@ -1,5 +1,4 @@
-Heterosporium tuberculans Ellis & Everh. SPECIES
-=======
+# Heterosporium tuberculans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

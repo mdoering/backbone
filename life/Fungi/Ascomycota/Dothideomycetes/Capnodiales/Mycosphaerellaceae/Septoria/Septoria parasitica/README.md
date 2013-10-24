@@ -1,5 +1,4 @@
-Septoria parasitica Fautrey SPECIES
-=======
+# Septoria parasitica Fautrey SPECIES
 
 #### Status
 ACCEPTED

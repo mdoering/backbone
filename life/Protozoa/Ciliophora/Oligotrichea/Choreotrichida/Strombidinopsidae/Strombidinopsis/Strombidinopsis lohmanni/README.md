@@ -1,5 +1,4 @@
-Strombidinopsis lohmanni SPECIES
-=======
+# Strombidinopsis lohmanni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum curreyi Sacc. SPECIES
-=======
+# Stereum curreyi Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Calpionella darderi Colom, 1934 SPECIES
-=======
+# Calpionellites darderi (Colom, 1934) Colom, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

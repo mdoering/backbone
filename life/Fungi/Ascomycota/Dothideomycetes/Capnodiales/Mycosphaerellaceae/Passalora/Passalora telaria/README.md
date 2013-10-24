@@ -1,5 +1,4 @@
-Passalora telaria (Munt.-Cvetk.) U. Braun & Crous SPECIES
-=======
+# Passalora telaria (Munt.-Cvetk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

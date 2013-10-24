@@ -1,5 +1,4 @@
-Phoma morifolia Berl. SPECIES
-=======
+# Phoma morifolia Berl. SPECIES
 
 #### Status
 ACCEPTED

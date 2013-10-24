@@ -1,5 +1,4 @@
-Marasmius cryptomeriae S. Imai SPECIES
-=======
+# Marasmius cryptomeriae S. Imai SPECIES
 
 #### Status
 ACCEPTED

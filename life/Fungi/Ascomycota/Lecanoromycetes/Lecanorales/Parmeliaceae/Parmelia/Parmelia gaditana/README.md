@@ -1,5 +1,4 @@
-Parmelia gaditana Clemente SPECIES
-=======
+# Parmelia gaditana Clemente SPECIES
 
 #### Status
 ACCEPTED

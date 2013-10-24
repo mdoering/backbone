@@ -1,5 +1,4 @@
-Paleopolymorphina Cushman & Ozawa, 1930 GENUS
-=======
+# Paleopolymorphina Cushman & Ozawa, 1930 GENUS
 
 #### Status
 ACCEPTED

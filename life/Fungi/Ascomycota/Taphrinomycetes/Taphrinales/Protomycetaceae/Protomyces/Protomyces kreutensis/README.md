@@ -1,5 +1,4 @@
-Protomyces kreutensis J.G. Kühn SPECIES
-=======
+# Protomyces kreutensis J.G. Kühn SPECIES
 
 #### Status
 ACCEPTED

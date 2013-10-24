@@ -1,5 +1,4 @@
-Aecidium peltigerae DC. SPECIES
-=======
+# Aecidium peltigerae DC. SPECIES
 
 #### Status
 ACCEPTED

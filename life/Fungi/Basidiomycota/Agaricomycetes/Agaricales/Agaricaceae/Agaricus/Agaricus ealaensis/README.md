@@ -1,17 +1,16 @@
-Agaricus ealeansis Beeli SPECIES
-=======
+# Agaricus ealaensis Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 61(1): 93 (1928)
 
 #### Original name
-Agaricus ealeansis Beeli
+Agaricus ealaensis Beeli
 
 ### Remarks
 null

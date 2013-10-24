@@ -1,17 +1,16 @@
-Arrhenia favrei (Watling) P.A. Moreau & Courtec., 2008 SPECIES
-=======
+# Omphalina favrei Watling, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+ANARE Scientific reports, Series B (II) Botany. Publication No. 10(2): 69 (1977)
 
 #### Original name
-null
+Omphalina favrei Watling, 1977
 
 ### Remarks
 null

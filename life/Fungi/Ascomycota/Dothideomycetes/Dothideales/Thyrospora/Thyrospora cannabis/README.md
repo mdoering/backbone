@@ -1,5 +1,4 @@
-Thyrospora cannabis Ishiy. SPECIES
-=======
+# Thyrospora cannabis Ishiy. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelia subochracea Bres. SPECIES
-=======
+# Sphacelia subochracea Bres. SPECIES
 
 #### Status
 ACCEPTED

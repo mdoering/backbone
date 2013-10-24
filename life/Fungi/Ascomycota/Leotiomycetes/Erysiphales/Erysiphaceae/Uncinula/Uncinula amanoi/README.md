@@ -1,5 +1,4 @@
-Uncinula amanoi Y. Nomura SPECIES
-=======
+# Uncinula amanoi Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

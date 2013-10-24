@@ -1,5 +1,4 @@
-Physalospora oleandrina Curzi & Barbaini SPECIES
-=======
+# Physalospora oleandrina Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

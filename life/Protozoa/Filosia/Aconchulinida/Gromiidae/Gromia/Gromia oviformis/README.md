@@ -1,5 +1,4 @@
-Gromia oviformis Dujardin, 1835 SPECIES
-=======
+# Gromia oviformis Dujardin, 1835 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe glaucipes Berk. & M.A. Curtis SPECIES
-=======
+# Clitocybe glaucipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

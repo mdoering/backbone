@@ -1,5 +1,4 @@
-Marasmiellus umbonifer Singer SPECIES
-=======
+# Marasmiellus umbonifer Singer SPECIES
 
 #### Status
 ACCEPTED

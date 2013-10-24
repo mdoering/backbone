@@ -1,5 +1,4 @@
-Megalospora submarginiflexa (Vain.) Zahlbr. SPECIES
-=======
+# Megalospora submarginiflexa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

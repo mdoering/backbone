@@ -1,5 +1,4 @@
-Camarosporium tamaricum Mekht. SPECIES
-=======
+# Camarosporium tamaricum Mekht. SPECIES
 
 #### Status
 ACCEPTED

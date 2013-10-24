@@ -1,5 +1,4 @@
-Thaxterina multispora Sivan., R.C. Rajak & R.C. Gupta, 1988 SPECIES
-=======
+# Thaxterina multispora Sivan., R.C. Rajak & R.C. Gupta, 1988 SPECIES
 
 #### Status
 ACCEPTED

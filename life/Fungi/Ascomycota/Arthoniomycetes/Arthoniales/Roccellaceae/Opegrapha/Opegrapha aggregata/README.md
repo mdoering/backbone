@@ -1,5 +1,4 @@
-Opegrapha aggregata Groenh. SPECIES
-=======
+# Opegrapha aggregata Groenh. SPECIES
 
 #### Status
 ACCEPTED

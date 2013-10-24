@@ -1,5 +1,4 @@
-Placodium castaneum (DC.) Müll. Arg. SPECIES
-=======
+# Placodium castaneum (DC.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

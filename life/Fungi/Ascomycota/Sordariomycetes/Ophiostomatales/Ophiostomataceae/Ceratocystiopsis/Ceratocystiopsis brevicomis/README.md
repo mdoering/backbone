@@ -1,17 +1,16 @@
-Ceratocystiopsis brevicomi Hsiau & T.C. Harr. SPECIES
-=======
+# Ceratocystiopsis brevicomis Hsiau & T.C. Harr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 89(4): 662 (1997)
 
 #### Original name
-Ceratocystiopsis brevicomi Hsiau & T.C. Harr.
+Ceratocystiopsis brevicomis Hsiau & T.C. Harr.
 
 ### Remarks
 null

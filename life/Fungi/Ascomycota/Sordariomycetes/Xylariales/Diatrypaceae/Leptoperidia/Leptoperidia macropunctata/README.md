@@ -1,14 +1,13 @@
-Eutypa macropunctata Rehm, 1913 SPECIES
-=======
+# Leptoperidia macropunctata (Rehm) Rappaz, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. helv. 2(3): 545 (1987)
 
 #### Original name
 Eutypa macropunctata Rehm, 1913

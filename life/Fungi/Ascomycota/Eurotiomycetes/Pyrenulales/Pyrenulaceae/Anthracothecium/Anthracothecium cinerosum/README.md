@@ -1,5 +1,4 @@
-Anthracothecium cinerosum (Ach.) Müll. Arg. SPECIES
-=======
+# Anthracothecium cinerosum (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

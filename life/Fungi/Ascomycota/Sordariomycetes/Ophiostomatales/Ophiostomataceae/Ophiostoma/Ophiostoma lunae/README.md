@@ -1,5 +1,4 @@
-Ophiostoma lunae (Kitaj.) Arx SPECIES
-=======
+# Ophiostoma lunae (Kitaj.) Arx SPECIES
 
 #### Status
 ACCEPTED

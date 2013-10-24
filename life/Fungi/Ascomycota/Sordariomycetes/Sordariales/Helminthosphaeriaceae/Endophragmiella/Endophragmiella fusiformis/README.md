@@ -1,5 +1,4 @@
-Endophragmiella fusiformis W.P. Wu SPECIES
-=======
+# Endophragmiella fusiformis W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

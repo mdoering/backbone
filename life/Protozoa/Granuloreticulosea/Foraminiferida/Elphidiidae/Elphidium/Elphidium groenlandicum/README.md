@@ -1,5 +1,4 @@
-Elphidium groenlandicum Cushman, 1933 SPECIES
-=======
+# Elphidium groenlandicum Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

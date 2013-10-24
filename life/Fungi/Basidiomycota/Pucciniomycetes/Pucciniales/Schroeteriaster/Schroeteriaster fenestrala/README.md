@@ -1,5 +1,4 @@
-Schroeteriaster fenestrala Arthur SPECIES
-=======
+# Schroeteriaster fenestrala Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleurina pakistanica S. Ahmad SPECIES
-=======
+# Aleurina pakistanica S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

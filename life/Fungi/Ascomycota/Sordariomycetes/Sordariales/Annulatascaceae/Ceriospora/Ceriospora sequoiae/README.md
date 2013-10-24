@@ -1,5 +1,4 @@
-Ceriospora sequoiae Gucevic SPECIES
-=======
+# Ceriospora sequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium laporteae Peck SPECIES
-=======
+# Gloeosporium laporteae Peck SPECIES
 
 #### Status
 ACCEPTED

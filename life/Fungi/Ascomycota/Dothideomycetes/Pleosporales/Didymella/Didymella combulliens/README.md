@@ -1,5 +1,4 @@
-Didymella combulliens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Didymella combulliens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma firmum (Pers.) Sacc. SPECIES
-=======
+# Hebeloma firmum (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

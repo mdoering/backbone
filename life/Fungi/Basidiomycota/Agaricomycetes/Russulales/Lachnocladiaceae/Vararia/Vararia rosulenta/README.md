@@ -1,5 +1,4 @@
-Vararia rosulenta Boidin, Lanq. & MacKee, 1986 SPECIES
-=======
+# Vararia rosulenta Boidin, Lanq. & MacKee, 1986 SPECIES
 
 #### Status
 ACCEPTED

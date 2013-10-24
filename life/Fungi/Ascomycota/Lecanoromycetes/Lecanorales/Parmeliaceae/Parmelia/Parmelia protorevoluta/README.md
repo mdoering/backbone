@@ -1,5 +1,4 @@
-Parmelia protorevoluta Gyeln. SPECIES
-=======
+# Parmelia protorevoluta Gyeln. SPECIES
 
 #### Status
 ACCEPTED

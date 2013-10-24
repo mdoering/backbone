@@ -1,5 +1,4 @@
-Pertusaria coriacea var. coriacea VARIETY
-=======
+# Pertusaria coriacea (Th. Fr.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria coriacea var. coriacea
+Lecanora coriacea Th. Fr.
 
 ### Remarks
 null

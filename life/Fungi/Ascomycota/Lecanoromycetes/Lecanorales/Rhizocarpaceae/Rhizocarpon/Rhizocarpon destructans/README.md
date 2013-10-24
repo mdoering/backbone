@@ -1,5 +1,4 @@
-Rhizocarpon destructans Alstrup SPECIES
-=======
+# Rhizocarpon destructans Alstrup SPECIES
 
 #### Status
 ACCEPTED

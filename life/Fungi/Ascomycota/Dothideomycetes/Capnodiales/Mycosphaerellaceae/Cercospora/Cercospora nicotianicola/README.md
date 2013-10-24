@@ -1,5 +1,4 @@
-Cercospora nicotianicola J.M. Yen SPECIES
-=======
+# Cercospora nicotianicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

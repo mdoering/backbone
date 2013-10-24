@@ -1,17 +1,16 @@
-Catapyrenium lacinulatum var. lacinulatum VARIETY
-=======
+# Placidium lacinulatum (Ach.) Breuss SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stapfia 23: 92 (1990)
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 39 (1996)
 
 #### Original name
-Catapyrenium lacinulatum var. lacinulatum
+Endocarpon hepaticum Ach.
 
 ### Remarks
 null

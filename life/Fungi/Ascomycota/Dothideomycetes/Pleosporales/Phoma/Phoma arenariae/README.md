@@ -1,5 +1,4 @@
-Phoma arenariae Wehm. SPECIES
-=======
+# Phoma arenariae Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaginicola leptosoma Stokes, 1885 SPECIES
-=======
+# Vaginicola leptosoma Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

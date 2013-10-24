@@ -1,5 +1,4 @@
-Aecidiolum punctatum D. Sacc. SPECIES
-=======
+# Aecidiolum punctatum D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

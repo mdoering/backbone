@@ -1,5 +1,4 @@
-Rhizopodomyces geniculatus R.K. Benj. SPECIES
-=======
+# Rhizopodomyces geniculatus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria gattefossei Werner SPECIES
-=======
+# Verrucaria gattefossei Werner SPECIES
 
 #### Status
 ACCEPTED

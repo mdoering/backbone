@@ -1,5 +1,4 @@
-Eutreptia lanowii Steuer SPECIES
-=======
+# Eutreptia lanowii Steuer SPECIES
 
 #### Status
 ACCEPTED

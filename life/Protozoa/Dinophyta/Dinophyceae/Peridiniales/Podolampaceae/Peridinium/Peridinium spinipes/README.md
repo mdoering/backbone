@@ -1,5 +1,4 @@
-Peridinium spinipes Haeckel SPECIES
-=======
+# Peridinium spinipes Haeckel SPECIES
 
 #### Status
 ACCEPTED

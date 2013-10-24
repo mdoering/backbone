@@ -1,5 +1,4 @@
-Parrellina verriculata (Brady, 1881) SPECIES
-=======
+# Parrellina verriculata (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

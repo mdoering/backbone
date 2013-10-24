@@ -1,5 +1,4 @@
-Agaricus leucoconis Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus leucoconis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

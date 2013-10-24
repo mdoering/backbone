@@ -1,14 +1,13 @@
-Dirina byssiseda Müll. Arg. SPECIES
-=======
+# Graphidastra byssiseda (Müll. Arg.) G. Thor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Op. bot. 103: 80 (1991)
 
 #### Original name
 Dirina byssiseda Müll. Arg.

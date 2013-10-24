@@ -1,5 +1,4 @@
-Myxophacidium rhododendri (Rehm) Höhn. SPECIES
-=======
+# Myxophacidium rhododendri (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

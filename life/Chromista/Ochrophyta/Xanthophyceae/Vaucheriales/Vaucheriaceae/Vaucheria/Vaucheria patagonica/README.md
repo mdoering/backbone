@@ -1,5 +1,4 @@
-Vaucheria patagonica Hylmö SPECIES
-=======
+# Vaucheria patagonica Hylmö SPECIES
 
 #### Status
 ACCEPTED

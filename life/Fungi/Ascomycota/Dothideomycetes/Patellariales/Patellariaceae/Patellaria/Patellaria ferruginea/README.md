@@ -1,5 +1,4 @@
-Patellaria ferruginea f. microcarpa Mathieu FORM
-=======
+# Patellaria ferruginea (Huds.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Grevillea 5(no. 35): 91 (1877)
 
 #### Original name
-Patellaria ferruginea f. microcarpa Mathieu
+Lichen ferrugineus Huds.
 
 ### Remarks
 null

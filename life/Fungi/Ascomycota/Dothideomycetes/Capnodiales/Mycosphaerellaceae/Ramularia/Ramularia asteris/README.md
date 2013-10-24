@@ -1,17 +1,16 @@
-Ramularia asteris var. latispora U. Braun VARIETY
-=======
+# Ramularia asteris (W. Phillips & Plowr.) Bubák, 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 2: 98 (1998)
+Annls mycol. 6(1): 27 (1908)
 
 #### Original name
-Ramularia asteris var. latispora U. Braun
+Fusidium asteris W. Phillips & Plowr., 1877
 
 ### Remarks
 null

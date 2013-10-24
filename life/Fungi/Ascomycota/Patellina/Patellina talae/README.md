@@ -1,5 +1,4 @@
-Patellina talae Speg. SPECIES
-=======
+# Patellina talae Speg. SPECIES
 
 #### Status
 ACCEPTED

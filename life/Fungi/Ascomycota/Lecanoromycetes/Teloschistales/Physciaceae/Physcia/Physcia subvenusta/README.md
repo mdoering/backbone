@@ -1,5 +1,4 @@
-Physcia subvenusta Flagey SPECIES
-=======
+# Physcia subvenusta Flagey SPECIES
 
 #### Status
 ACCEPTED

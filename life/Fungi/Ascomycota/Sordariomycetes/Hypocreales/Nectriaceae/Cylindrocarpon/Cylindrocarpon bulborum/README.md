@@ -1,5 +1,4 @@
-Cylindrocarpon bulborum Wollenw. SPECIES
-=======
+# Cylindrocarpon bulborum Wollenw. SPECIES
 
 #### Status
 ACCEPTED

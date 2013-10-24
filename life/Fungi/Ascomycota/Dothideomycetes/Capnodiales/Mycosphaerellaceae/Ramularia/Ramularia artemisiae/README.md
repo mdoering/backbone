@@ -1,5 +1,4 @@
-Ramularia artemisiae Davis SPECIES
-=======
+# Ramularia artemisiae Davis SPECIES
 
 #### Status
 ACCEPTED

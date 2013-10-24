@@ -1,5 +1,4 @@
-Astrophacus Haeckel, 1881 GENUS
-=======
+# Astrophacus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

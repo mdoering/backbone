@@ -1,5 +1,4 @@
-Vaucheria javanica Kützing SPECIES
-=======
+# Vaucheria javanica Kützing SPECIES
 
 #### Status
 ACCEPTED

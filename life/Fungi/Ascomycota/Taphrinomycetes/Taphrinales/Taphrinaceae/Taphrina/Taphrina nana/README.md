@@ -1,17 +1,16 @@
-Taphrina nana var. nana Johanson VARIETY
-=======
+# Taphrina nana Johanson, 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Vet. Akad. Handl. 34 (1886)
 
 #### Original name
-Taphrina nana var. nana Johanson
+Taphrina nana Johanson, 1886
 
 ### Remarks
 null

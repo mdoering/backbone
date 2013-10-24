@@ -1,5 +1,4 @@
-Staphylococcus auricularis Kloos & Schleifer, 1983 SPECIES
-=======
+# Staphylococcus auricularis Kloos & Schleifer, 1983 SPECIES
 
 #### Status
 ACCEPTED

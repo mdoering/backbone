@@ -1,5 +1,4 @@
-Ajellomyces capsulatus (Kwon-Chung) McGinnis & Katz SPECIES
-=======
+# Ajellomyces capsulatus (Kwon-Chung) McGinnis & Katz SPECIES
 
 #### Status
 ACCEPTED

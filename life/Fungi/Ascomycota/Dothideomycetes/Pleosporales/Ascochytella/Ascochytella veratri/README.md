@@ -1,5 +1,4 @@
-Ascochytella veratri (Earle) Petr. SPECIES
-=======
+# Ascochytella veratri (Earle) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavulina castaneipes var. castaneipes VARIETY
-=======
+# Clavulina castaneipes (G.F. Atk.) Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clavulina castaneipes var. castaneipes
+Typhula castaneipes G.F. Atk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sticta aemulans Zahlbr. SPECIES
-=======
+# Sticta aemulans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

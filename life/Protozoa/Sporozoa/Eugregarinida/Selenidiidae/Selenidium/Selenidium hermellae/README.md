@@ -1,5 +1,4 @@
-Selenidium hermellae Hasselman, 1926 SPECIES
-=======
+# Selenidium hermellae Hasselman, 1926 SPECIES
 
 #### Status
 ACCEPTED

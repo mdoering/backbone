@@ -1,5 +1,4 @@
-Macrophoma versatilis SPECIES
-=======
+# Macrophoma versatilis SPECIES
 
 #### Status
 ACCEPTED

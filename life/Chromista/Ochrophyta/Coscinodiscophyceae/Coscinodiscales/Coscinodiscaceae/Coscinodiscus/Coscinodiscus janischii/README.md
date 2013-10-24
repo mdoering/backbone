@@ -1,5 +1,4 @@
-Coscinodiscus janischii Schmidt, 1878 SPECIES
-=======
+# Coscinodiscus janischii Schmidt, 1878 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hystrichodinium patriciae (Neale & Sarjeant, 1962) Lentin & Williams SPECIES
-=======
+# Hystrichodinium patriciae (Neale & Sarjeant, 1962) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

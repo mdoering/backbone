@@ -1,8 +1,7 @@
-Proteonina lagenarium (Berthelin, 1880) SPECIES
-=======
+# Saccammina lagenaria (Berthelin, 1880) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

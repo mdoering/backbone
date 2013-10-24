@@ -1,5 +1,4 @@
-Hypodendrum oregonense Murrill SPECIES
-=======
+# Hypodendrum oregonense Murrill SPECIES
 
 #### Status
 ACCEPTED

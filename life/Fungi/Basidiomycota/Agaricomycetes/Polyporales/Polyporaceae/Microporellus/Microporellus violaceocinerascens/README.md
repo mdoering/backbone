@@ -1,14 +1,13 @@
-Polyporus violaceocinerascens Petch, 1916 SPECIES
-=======
+# Microporellus violaceocinerascens (Petch) A. David & Rajchenb., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 6: 41 (1916)
+Mycotaxon 22(2): 303 (1985)
 
 #### Original name
 Polyporus violaceocinerascens Petch, 1916

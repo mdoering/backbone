@@ -1,5 +1,4 @@
-Alveophoma caballeroi Alcalde, 1952 SPECIES
-=======
+# Alveophoma caballeroi Alcalde, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinus lopezii M. Mata & Ryvarden, 2010 SPECIES
-=======
+# Phellinus lopezii M. Mata & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea bovina Visiani SPECIES
-=======
+# Lecidea bovina Visiani SPECIES
 
 #### Status
 ACCEPTED

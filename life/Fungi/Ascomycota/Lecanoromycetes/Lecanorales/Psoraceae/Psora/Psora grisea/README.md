@@ -1,5 +1,4 @@
-Psora grisea Hoffm. SPECIES
-=======
+# Psora grisea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

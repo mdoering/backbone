@@ -1,5 +1,4 @@
-Lonchosphaera spicata Popofsky, 1908 SPECIES
-=======
+# Lonchosphaera spicata Popofsky, 1908 SPECIES
 
 #### Status
 ACCEPTED

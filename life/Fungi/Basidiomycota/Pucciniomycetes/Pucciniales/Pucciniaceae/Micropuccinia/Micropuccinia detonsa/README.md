@@ -1,5 +1,4 @@
-Micropuccinia detonsa (Arthur & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia detonsa (Arthur & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

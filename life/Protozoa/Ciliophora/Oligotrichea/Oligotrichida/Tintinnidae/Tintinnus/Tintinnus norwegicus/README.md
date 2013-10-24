@@ -1,5 +1,4 @@
-Tintinnus norwegicus SPECIES
-=======
+# Tintinnus norwegicus SPECIES
 
 #### Status
 ACCEPTED

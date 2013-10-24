@@ -1,5 +1,4 @@
-Physarum calcareum (Link) Link SPECIES
-=======
+# Physarum calcareum (Link) Link SPECIES
 
 #### Status
 ACCEPTED

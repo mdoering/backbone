@@ -1,5 +1,4 @@
-Meliola maitlandii Hansf. SPECIES
-=======
+# Meliola maitlandii Hansf. SPECIES
 
 #### Status
 ACCEPTED

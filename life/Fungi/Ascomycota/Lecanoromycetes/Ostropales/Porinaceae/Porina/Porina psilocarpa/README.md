@@ -1,5 +1,4 @@
-Porina psilocarpa P.M. McCarthy SPECIES
-=======
+# Porina psilocarpa P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

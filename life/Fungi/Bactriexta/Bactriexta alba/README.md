@@ -1,5 +1,4 @@
-Bactriexta alba Preuss SPECIES
-=======
+# Bactriexta alba Preuss SPECIES
 
 #### Status
 ACCEPTED

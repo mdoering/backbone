@@ -1,5 +1,4 @@
-Lecidea pallens Müll. Arg. SPECIES
-=======
+# Lecidea pallens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

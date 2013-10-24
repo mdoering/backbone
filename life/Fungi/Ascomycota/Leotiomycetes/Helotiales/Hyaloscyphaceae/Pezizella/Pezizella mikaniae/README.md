@@ -1,5 +1,4 @@
-Pezizella mikaniae Rehm SPECIES
-=======
+# Pezizella mikaniae Rehm SPECIES
 
 #### Status
 ACCEPTED

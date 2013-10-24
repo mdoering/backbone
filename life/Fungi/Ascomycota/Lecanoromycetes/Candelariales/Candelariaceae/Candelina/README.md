@@ -1,5 +1,4 @@
-Candelina Poelt GENUS
-=======
+# Candelina Poelt GENUS
 
 #### Status
 ACCEPTED

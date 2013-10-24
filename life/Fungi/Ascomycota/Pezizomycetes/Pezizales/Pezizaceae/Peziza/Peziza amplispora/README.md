@@ -1,5 +1,4 @@
-Peziza amplispora Cooke & Peck SPECIES
-=======
+# Peziza amplispora Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

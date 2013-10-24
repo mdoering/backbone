@@ -1,5 +1,4 @@
-Lachnella insularis Speg. SPECIES
-=======
+# Lachnella insularis Speg. SPECIES
 
 #### Status
 ACCEPTED

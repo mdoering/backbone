@@ -1,5 +1,4 @@
-Microthelia apposita (Nyl.) Boistel SPECIES
-=======
+# Microthelia apposita (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

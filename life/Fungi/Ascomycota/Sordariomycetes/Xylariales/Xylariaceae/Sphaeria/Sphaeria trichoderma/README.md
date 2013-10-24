@@ -1,5 +1,4 @@
-Sphaeria trichoderma Hoffm. SPECIES
-=======
+# Sphaeria trichoderma Hoffm. SPECIES
 
 #### Status
 ACCEPTED

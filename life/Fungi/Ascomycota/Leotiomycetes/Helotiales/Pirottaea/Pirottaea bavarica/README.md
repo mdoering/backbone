@@ -1,5 +1,4 @@
-Pirottaea bavarica Kirschst. SPECIES
-=======
+# Pirottaea bavarica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

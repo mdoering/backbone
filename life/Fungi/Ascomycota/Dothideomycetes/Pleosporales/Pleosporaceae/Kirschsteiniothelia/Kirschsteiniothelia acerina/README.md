@@ -1,5 +1,4 @@
-Kirschsteiniothelia acerina (Rossman & H.E. Wilcox) D. Hawksw. SPECIES
-=======
+# Kirschsteiniothelia acerina (Rossman & H.E. Wilcox) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

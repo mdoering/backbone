@@ -1,5 +1,4 @@
-Bacidia galbinea (Kremp.) Zahlbr. SPECIES
-=======
+# Bacidia galbinea (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

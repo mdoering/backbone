@@ -1,5 +1,4 @@
-Caloplaca catalinae H. Magn. SPECIES
-=======
+# Caloplaca catalinae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

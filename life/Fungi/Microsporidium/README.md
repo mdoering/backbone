@@ -1,5 +1,4 @@
-Microsporidium Sprague, 1977 GENUS
-=======
+# Microsporidium Sprague, 1977 GENUS
 
 #### Status
 ACCEPTED

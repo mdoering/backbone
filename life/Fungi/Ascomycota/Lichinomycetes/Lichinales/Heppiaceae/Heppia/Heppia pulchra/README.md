@@ -1,5 +1,4 @@
-Heppia pulchra Groenh. SPECIES
-=======
+# Heppia pulchra Groenh. SPECIES
 
 #### Status
 ACCEPTED

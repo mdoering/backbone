@@ -1,5 +1,4 @@
-Gomphillus hyalinus (Pat.) Lücking, Kalb & Vezda SPECIES
-=======
+# Gomphillus hyalinus (Pat.) Lücking, Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

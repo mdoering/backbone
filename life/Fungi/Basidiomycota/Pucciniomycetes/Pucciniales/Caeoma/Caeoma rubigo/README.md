@@ -1,5 +1,4 @@
-Caeoma rubigo Link SPECIES
-=======
+# Caeoma rubigo Link SPECIES
 
 #### Status
 ACCEPTED

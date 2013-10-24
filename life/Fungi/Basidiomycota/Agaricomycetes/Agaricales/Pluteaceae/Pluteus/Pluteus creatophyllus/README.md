@@ -1,5 +1,4 @@
-Pluteus creatophyllus Schulzer SPECIES
-=======
+# Pluteus creatophyllus Schulzer SPECIES
 
 #### Status
 ACCEPTED

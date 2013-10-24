@@ -1,5 +1,4 @@
-Planispirillina margaritifera (Terquem, 1880) SPECIES
-=======
+# Planispirillina margaritifera (Terquem, 1880) SPECIES
 
 #### Status
 ACCEPTED

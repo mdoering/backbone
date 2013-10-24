@@ -1,5 +1,4 @@
-Tubercularia vaginata Corda SPECIES
-=======
+# Tubercularia vaginata Corda SPECIES
 
 #### Status
 ACCEPTED

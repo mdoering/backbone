@@ -1,17 +1,16 @@
-Thwaitesiella Massee GENUS
-=======
+# Lopharia Kalchbrenner & MacOwan, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Grevillea 21(no. 97): 2 (1892)
+null
 
 #### Original name
-Thwaitesiella Massee
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhodophyllus avellanicolor Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus avellanicolor Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora zonata Bagl. SPECIES
-=======
+# Lecanora zonata Bagl. SPECIES
 
 #### Status
 ACCEPTED

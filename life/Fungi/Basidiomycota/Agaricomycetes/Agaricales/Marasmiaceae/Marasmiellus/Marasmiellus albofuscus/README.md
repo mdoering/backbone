@@ -1,5 +1,4 @@
-Marasmiellus albofuscus (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Marasmiellus albofuscus (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula peckii Singer SPECIES
-=======
+# Russula peckii Singer SPECIES
 
 #### Status
 ACCEPTED

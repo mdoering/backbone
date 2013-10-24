@@ -1,5 +1,4 @@
-Oospora sulphurella Sacc. & Roum. SPECIES
-=======
+# Oospora sulphurella Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

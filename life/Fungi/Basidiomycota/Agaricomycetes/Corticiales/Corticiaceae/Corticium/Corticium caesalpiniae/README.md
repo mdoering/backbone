@@ -1,5 +1,4 @@
-Corticium caesalpiniae Henn. SPECIES
-=======
+# Corticium caesalpiniae Henn. SPECIES
 
 #### Status
 ACCEPTED

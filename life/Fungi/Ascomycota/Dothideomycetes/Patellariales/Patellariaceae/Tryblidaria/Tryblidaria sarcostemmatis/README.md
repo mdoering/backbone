@@ -1,17 +1,16 @@
-Tryblidaria sarcostemmae R.R. Jain & P.N. Mathur SPECIES
-=======
+# Tryblidaria sarcostemmatis R.R. Jain & P.N. Mathur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 11(2): 281 (1982)
 
 #### Original name
-Tryblidaria sarcostemmae R.R. Jain & P.N. Mathur
+Tryblidaria sarcostemmatis R.R. Jain & P.N. Mathur
 
 ### Remarks
 null

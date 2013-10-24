@@ -1,5 +1,4 @@
-Verrucaria globulans Zahlbr. SPECIES
-=======
+# Verrucaria globulans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

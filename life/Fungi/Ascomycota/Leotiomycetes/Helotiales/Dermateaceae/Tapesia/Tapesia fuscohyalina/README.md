@@ -1,5 +1,4 @@
-Tapesia fuscohyalina (Rehm) Remler SPECIES
-=======
+# Tapesia fuscohyalina (Rehm) Remler SPECIES
 
 #### Status
 ACCEPTED

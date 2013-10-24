@@ -1,5 +1,4 @@
-Clostridiales ORDER
-=======
+# Clostridiales ORDER
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nectria insidiosa (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Hymenobia aporea (Nyl.) D. Hawksw. & O.E. Erikss., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 797 (1905)
+Non-lichenized Pyrenomycetes of Sweden (Lund) 7 (1992)
 
 #### Original name
-Hymenobia insidiosa Nyl., 1854
+null
 
 ### Remarks
 null

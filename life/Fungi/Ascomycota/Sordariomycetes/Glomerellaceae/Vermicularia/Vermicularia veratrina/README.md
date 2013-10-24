@@ -1,5 +1,4 @@
-Vermicularia veratrina Ellis & Everh. SPECIES
-=======
+# Vermicularia veratrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula tristis Velen. SPECIES
-=======
+# Russula tristis Velen. SPECIES
 
 #### Status
 ACCEPTED

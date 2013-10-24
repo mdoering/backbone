@@ -1,8 +1,7 @@
-Pseudomonas elongata Humm, 1946 (Approved Lists, 1980) SPECIES
-=======
+# Microbulbifer elongatus (Humm, 1946) Yoon et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

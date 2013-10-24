@@ -1,5 +1,4 @@
-Phoma paeoniae Allesch. SPECIES
-=======
+# Phoma paeoniae Allesch. SPECIES
 
 #### Status
 ACCEPTED

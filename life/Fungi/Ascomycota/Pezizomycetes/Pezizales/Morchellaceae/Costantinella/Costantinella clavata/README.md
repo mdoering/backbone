@@ -1,5 +1,4 @@
-Costantinella clavata Hol.-Jech. SPECIES
-=======
+# Costantinella clavata Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

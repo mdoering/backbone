@@ -1,5 +1,4 @@
-Pleospora microspora Niessl, 1876 SPECIES
-=======
+# Pleospora microspora Niessl, 1876 SPECIES
 
 #### Status
 ACCEPTED

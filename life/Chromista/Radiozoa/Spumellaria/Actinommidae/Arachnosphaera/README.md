@@ -1,5 +1,4 @@
-Arachnosphaera Haeckel, 1860 GENUS
-=======
+# Arachnosphaera Haeckel, 1860 GENUS
 
 #### Status
 ACCEPTED

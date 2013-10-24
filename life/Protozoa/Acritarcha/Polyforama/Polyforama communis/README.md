@@ -1,5 +1,4 @@
-Polyforama communis Pykhova, 1973 SPECIES
-=======
+# Polyforama communis Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

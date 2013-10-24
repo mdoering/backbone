@@ -1,5 +1,4 @@
-Cucurbitaria staphula Dearn. ex R.H. Arnold & R.C. Russell, 1961 SPECIES
-=======
+# Cucurbitaria staphula Dearn. ex R.H. Arnold & R.C. Russell, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus berberidicola (Speg.) Sacc. SPECIES
-=======
+# Pleurotus berberidicola (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

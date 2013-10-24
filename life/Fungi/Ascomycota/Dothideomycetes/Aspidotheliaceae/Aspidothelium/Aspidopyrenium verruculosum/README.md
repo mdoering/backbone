@@ -1,5 +1,4 @@
-Aspidopyrenium verruculosum Vain. SPECIES
-=======
+# Aspidopyrenium verruculosum Vain. SPECIES
 
 #### Status
 ACCEPTED

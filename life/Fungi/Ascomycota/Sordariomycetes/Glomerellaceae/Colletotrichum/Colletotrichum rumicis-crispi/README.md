@@ -1,5 +1,4 @@
-Colletotrichum rumicis-crispi Sawada SPECIES
-=======
+# Colletotrichum rumicis-crispi Sawada SPECIES
 
 #### Status
 ACCEPTED

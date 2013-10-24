@@ -1,5 +1,4 @@
-Stysanus graphioides Schulzer SPECIES
-=======
+# Stysanus graphioides Schulzer SPECIES
 
 #### Status
 ACCEPTED

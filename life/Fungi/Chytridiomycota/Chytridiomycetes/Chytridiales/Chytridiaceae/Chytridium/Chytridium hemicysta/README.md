@@ -1,5 +1,4 @@
-Chytridium hemicysta J.S. Knox SPECIES
-=======
+# Chytridium hemicysta J.S. Knox SPECIES
 
 #### Status
 ACCEPTED

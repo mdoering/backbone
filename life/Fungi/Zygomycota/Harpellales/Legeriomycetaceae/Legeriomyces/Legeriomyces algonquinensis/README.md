@@ -1,5 +1,4 @@
-Legeriomyces algonquinensis Strongman & M.M. White, 2008 SPECIES
-=======
+# Legeriomyces algonquinensis Strongman & M.M. White, 2008 SPECIES
 
 #### Status
 ACCEPTED

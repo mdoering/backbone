@@ -1,5 +1,4 @@
-Clypeolum megalosporum Speg. SPECIES
-=======
+# Clypeolum megalosporum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galwayella bifrangiata Albani & Yassini, 1989 SPECIES
-=======
+# Galwayella bifrangiata Albani & Yassini, 1989 SPECIES
 
 #### Status
 ACCEPTED

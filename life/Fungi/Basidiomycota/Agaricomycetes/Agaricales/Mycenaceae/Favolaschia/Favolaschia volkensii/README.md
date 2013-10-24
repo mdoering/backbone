@@ -1,5 +1,4 @@
-Favolaschia volkensii (Bres.) Henn., 1895 SPECIES
-=======
+# Favolaschia volkensii (Bres.) Henn., 1895 SPECIES
 
 #### Status
 ACCEPTED

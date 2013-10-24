@@ -1,5 +1,4 @@
-Pluteus nitens Pat. SPECIES
-=======
+# Pluteus nitens Pat. SPECIES
 
 #### Status
 ACCEPTED

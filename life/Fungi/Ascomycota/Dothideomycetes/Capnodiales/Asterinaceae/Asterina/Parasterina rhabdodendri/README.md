@@ -1,5 +1,4 @@
-Parasterina rhabdodendri (Syd. & P. Syd.) F. Stevens SPECIES
-=======
+# Parasterina rhabdodendri (Syd. & P. Syd.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

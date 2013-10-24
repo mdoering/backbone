@@ -1,5 +1,4 @@
-Omphalia elastica Rick SPECIES
-=======
+# Omphalia elastica Rick SPECIES
 
 #### Status
 ACCEPTED

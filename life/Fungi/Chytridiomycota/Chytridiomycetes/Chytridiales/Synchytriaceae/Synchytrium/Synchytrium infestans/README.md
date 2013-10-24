@@ -1,5 +1,4 @@
-Synchytrium infestans Rytz SPECIES
-=======
+# Synchytrium infestans Rytz SPECIES
 
 #### Status
 ACCEPTED

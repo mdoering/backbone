@@ -1,5 +1,4 @@
-Anteholosticha distyla Buitkamp, 1977 SPECIES
-=======
+# Anteholosticha distyla Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

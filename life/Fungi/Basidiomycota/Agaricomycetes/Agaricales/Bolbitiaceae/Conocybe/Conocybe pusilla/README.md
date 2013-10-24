@@ -1,5 +1,4 @@
-Conocybe pusilla (Quél.) Romagn. SPECIES
-=======
+# Conocybe pusilla (Quél.) Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella saccardoana (Jaap) Sacc. SPECIES
-=======
+# Sphaerella saccardoana (Jaap) Sacc. SPECIES
 
 #### Status
 ACCEPTED

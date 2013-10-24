@@ -1,5 +1,4 @@
-Karschia alpicolae D. Hawksw. & Alstrup SPECIES
-=======
+# Karschia alpicolae D. Hawksw. & Alstrup SPECIES
 
 #### Status
 ACCEPTED

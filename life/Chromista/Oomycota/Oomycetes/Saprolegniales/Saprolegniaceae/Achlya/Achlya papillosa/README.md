@@ -1,5 +1,4 @@
-Achlya papillosa Humphrey, 1892 SPECIES
-=======
+# Achlya papillosa Humphrey, 1892 SPECIES
 
 #### Status
 ACCEPTED

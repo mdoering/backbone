@@ -1,5 +1,4 @@
-Ptychostomum drawidi SPECIES
-=======
+# Ptychostomum drawidi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium minimum Fuckel SPECIES
-=======
+# Fusarium minimum Fuckel SPECIES
 
 #### Status
 ACCEPTED

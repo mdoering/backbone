@@ -1,5 +1,4 @@
-Tintinnidium parvula Jörgensen, 1912 SPECIES
-=======
+# Tintinnidium parvula Jörgensen, 1912 SPECIES
 
 #### Status
 ACCEPTED

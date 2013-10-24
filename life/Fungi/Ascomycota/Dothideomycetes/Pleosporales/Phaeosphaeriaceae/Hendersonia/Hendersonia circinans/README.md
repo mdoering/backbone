@@ -1,5 +1,4 @@
-Hendersonia circinans Sacc. SPECIES
-=======
+# Hendersonia circinans Sacc. SPECIES
 
 #### Status
 ACCEPTED

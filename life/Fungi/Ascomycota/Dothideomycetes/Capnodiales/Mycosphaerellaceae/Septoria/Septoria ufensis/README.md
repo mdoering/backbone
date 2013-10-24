@@ -1,5 +1,4 @@
-Septoria ufensis Teterevn. SPECIES
-=======
+# Septoria ufensis Teterevn. SPECIES
 
 #### Status
 ACCEPTED

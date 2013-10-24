@@ -1,5 +1,4 @@
-Herpotrichia indica Anahosur SPECIES
-=======
+# Herpotrichia indica Anahosur SPECIES
 
 #### Status
 ACCEPTED

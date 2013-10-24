@@ -1,5 +1,4 @@
-Meliola excoecariicola F. Stevens ex Hansf. SPECIES
-=======
+# Meliola excoecariicola F. Stevens ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

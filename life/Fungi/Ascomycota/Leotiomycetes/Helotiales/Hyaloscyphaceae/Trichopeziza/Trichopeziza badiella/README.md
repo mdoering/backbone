@@ -1,5 +1,4 @@
-Trichopeziza badiella (P. Karst.) Sacc. SPECIES
-=======
+# Trichopeziza badiella (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

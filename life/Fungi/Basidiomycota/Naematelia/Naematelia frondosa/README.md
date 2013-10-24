@@ -1,5 +1,4 @@
-Naematelia frondosa Bonord. SPECIES
-=======
+# Naematelia frondosa Bonord. SPECIES
 
 #### Status
 ACCEPTED

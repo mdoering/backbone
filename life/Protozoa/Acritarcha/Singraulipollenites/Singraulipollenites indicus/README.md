@@ -1,5 +1,4 @@
-Singraulipollenites indicus Sinha, 1969 SPECIES
-=======
+# Singraulipollenites indicus Sinha, 1969 SPECIES
 
 #### Status
 ACCEPTED

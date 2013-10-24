@@ -1,5 +1,4 @@
-Sympodiomyces Fell & Statzell GENUS
-=======
+# Sympodiomyces Fell & Statzell GENUS
 
 #### Status
 ACCEPTED

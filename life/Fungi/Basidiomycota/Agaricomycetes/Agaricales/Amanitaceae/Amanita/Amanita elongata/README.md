@@ -1,5 +1,4 @@
-Amanita elongata Peck SPECIES
-=======
+# Amanita elongata Peck SPECIES
 
 #### Status
 ACCEPTED

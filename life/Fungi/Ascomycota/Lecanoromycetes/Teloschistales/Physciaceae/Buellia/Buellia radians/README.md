@@ -1,5 +1,4 @@
-Buellia radians Darb. SPECIES
-=======
+# Buellia radians Darb. SPECIES
 
 #### Status
 ACCEPTED

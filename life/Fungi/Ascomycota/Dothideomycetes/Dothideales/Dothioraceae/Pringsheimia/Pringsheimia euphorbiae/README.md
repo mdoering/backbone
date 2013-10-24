@@ -1,5 +1,4 @@
-Pringsheimia euphorbiae Froid., 1973 SPECIES
-=======
+# Pringsheimia euphorbiae Froid., 1973 SPECIES
 
 #### Status
 ACCEPTED

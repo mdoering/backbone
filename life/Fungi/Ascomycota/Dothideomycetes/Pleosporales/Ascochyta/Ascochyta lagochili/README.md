@@ -1,5 +1,4 @@
-Ascochyta lagochili Byzova SPECIES
-=======
+# Ascochyta lagochili Byzova SPECIES
 
 #### Status
 ACCEPTED

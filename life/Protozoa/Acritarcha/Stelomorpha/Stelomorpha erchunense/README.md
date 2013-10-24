@@ -1,5 +1,4 @@
-Stelomorpha erchunense (Fang Xiaosi, 1986) Yin, 1994 emend. Tongiorgi et al., 1995 SPECIES
-=======
+# Stelomorpha erchunense (Fang Xiaosi, 1986) Yin, 1994 emend. Tongiorgi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus lunatus Fr. SPECIES
-=======
+# Agaricus lunatus Fr. SPECIES
 
 #### Status
 ACCEPTED

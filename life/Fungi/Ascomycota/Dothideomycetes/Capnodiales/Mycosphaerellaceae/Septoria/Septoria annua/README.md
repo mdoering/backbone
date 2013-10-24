@@ -1,5 +1,4 @@
-Septoria annua Ellis & Everh. SPECIES
-=======
+# Septoria annua Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

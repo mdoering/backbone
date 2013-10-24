@@ -1,5 +1,4 @@
-Pluteus aglaeotheles Berk. & Broome SPECIES
-=======
+# Pluteus aglaeotheles Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

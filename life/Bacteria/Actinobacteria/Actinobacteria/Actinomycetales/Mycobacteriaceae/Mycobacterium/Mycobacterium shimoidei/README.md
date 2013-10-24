@@ -1,5 +1,4 @@
-Mycobacterium shimoidei (ex Tsukamura et al., 1975) Tsukamura, 1982 SPECIES
-=======
+# Mycobacterium shimoidei (ex Tsukamura et al., 1975) Tsukamura, 1982 SPECIES
 
 #### Status
 ACCEPTED

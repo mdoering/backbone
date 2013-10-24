@@ -1,5 +1,4 @@
-Alnicola zonata (E. Ludw. & Reil) P.-A. Moreau SPECIES
-=======
+# Alnicola zonata (E. Ludw. & Reil) P.-A. Moreau SPECIES
 
 #### Status
 ACCEPTED

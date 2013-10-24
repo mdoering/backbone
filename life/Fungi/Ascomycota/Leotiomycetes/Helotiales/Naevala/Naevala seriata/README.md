@@ -1,5 +1,4 @@
-Naevala seriata anon. SPECIES
-=======
+# Naevala seriata anon. SPECIES
 
 #### Status
 ACCEPTED

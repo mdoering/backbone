@@ -1,5 +1,4 @@
-Tapesia alba Velen. SPECIES
-=======
+# Tapesia alba Velen. SPECIES
 
 #### Status
 ACCEPTED

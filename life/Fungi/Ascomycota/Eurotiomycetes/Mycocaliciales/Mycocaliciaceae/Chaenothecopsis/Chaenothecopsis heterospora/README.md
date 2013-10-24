@@ -1,5 +1,4 @@
-Chaenothecopsis heterospora Titov SPECIES
-=======
+# Chaenothecopsis heterospora Titov SPECIES
 
 #### Status
 ACCEPTED

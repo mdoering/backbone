@@ -1,5 +1,4 @@
-Puccinia maritima Gäum. SPECIES
-=======
+# Puccinia maritima Gäum. SPECIES
 
 #### Status
 ACCEPTED

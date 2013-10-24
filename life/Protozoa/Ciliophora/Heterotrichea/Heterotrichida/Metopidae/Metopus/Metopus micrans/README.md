@@ -1,5 +1,4 @@
-Metopus micrans Jankowski, 1964 SPECIES
-=======
+# Metopus micrans Jankowski, 1964 SPECIES
 
 #### Status
 ACCEPTED

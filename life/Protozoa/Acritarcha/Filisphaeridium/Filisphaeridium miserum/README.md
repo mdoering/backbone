@@ -1,5 +1,4 @@
-Filisphaeridium miserum (Takahashi, 1964) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium miserum (Takahashi, 1964) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

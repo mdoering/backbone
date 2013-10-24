@@ -1,5 +1,4 @@
-Reticulatosphaera K. Matsuoka, 1983 GENUS
-=======
+# Reticulatosphaera K. Matsuoka, 1983 GENUS
 
 #### Status
 ACCEPTED

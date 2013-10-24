@@ -1,5 +1,4 @@
-Pestalotiopsis puttemans (Henn.) Rib. Souza SPECIES
-=======
+# Pestalotiopsis puttemans (Henn.) Rib. Souza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Chondrioderma niveum var. deplanatum (Fr.) Lister VARIETY
-=======
+# Diderma deplanatum Fr., 1829 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London) 80 (1894)
+Syst. mycol. (Lundae) 3(1): 110 (1829)
 
 #### Original name
 Diderma deplanatum Fr., 1829

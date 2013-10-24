@@ -1,5 +1,4 @@
-Sarcographa hydrina (Vain.) Zahlbr. SPECIES
-=======
+# Sarcographa hydrina (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

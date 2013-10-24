@@ -1,5 +1,4 @@
-Amanita grauiana Garrido SPECIES
-=======
+# Amanita grauiana Garrido SPECIES
 
 #### Status
 ACCEPTED

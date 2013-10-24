@@ -1,5 +1,4 @@
-Cordyceps polycarpica Z.Q. Liang & A.Y. Liu SPECIES
-=======
+# Cordyceps polycarpica Z.Q. Liang & A.Y. Liu SPECIES
 
 #### Status
 ACCEPTED

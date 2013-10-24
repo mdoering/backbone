@@ -1,5 +1,4 @@
-Pleospora trochila (Fr.) Sacc. SPECIES
-=======
+# Pleospora trochila (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

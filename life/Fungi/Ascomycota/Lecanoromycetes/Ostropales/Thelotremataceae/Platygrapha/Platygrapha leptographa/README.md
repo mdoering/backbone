@@ -1,5 +1,4 @@
-Platygrapha leptographa Nyl. SPECIES
-=======
+# Platygrapha leptographa Nyl. SPECIES
 
 #### Status
 ACCEPTED

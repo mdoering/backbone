@@ -1,5 +1,4 @@
-Omphalia vestita Peck SPECIES
-=======
+# Omphalia vestita Peck SPECIES
 
 #### Status
 ACCEPTED

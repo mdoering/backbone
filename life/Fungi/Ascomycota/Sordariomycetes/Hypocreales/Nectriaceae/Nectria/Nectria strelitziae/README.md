@@ -1,5 +1,4 @@
-Nectria strelitziae Henn. SPECIES
-=======
+# Nectria strelitziae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum candidum (Rodway) Spooner SPECIES
-=======
+# Lachnum candidum (Rodway) Spooner SPECIES
 
 #### Status
 ACCEPTED

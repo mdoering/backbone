@@ -1,5 +1,4 @@
-Sterigmatocystis basidiosepta Sartory, R. Sartory & J. Mey. SPECIES
-=======
+# Sterigmatocystis basidiosepta Sartory, R. Sartory & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

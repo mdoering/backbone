@@ -1,5 +1,4 @@
-Glenoaulax Diesing GENUS
-=======
+# Glenoaulax Diesing GENUS
 
 #### Status
 ACCEPTED

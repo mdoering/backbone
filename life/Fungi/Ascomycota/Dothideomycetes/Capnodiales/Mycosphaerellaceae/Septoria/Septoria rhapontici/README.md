@@ -1,5 +1,4 @@
-Septoria rhapontici Thüm. SPECIES
-=======
+# Septoria rhapontici Thüm. SPECIES
 
 #### Status
 ACCEPTED

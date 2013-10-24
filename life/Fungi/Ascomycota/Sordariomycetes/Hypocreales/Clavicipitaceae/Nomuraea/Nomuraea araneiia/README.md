@@ -1,5 +1,4 @@
-Nomuraea araneiia ined. SPECIES
-=======
+# Nomuraea araneiia ined. SPECIES
 
 #### Status
 ACCEPTED

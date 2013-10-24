@@ -1,5 +1,4 @@
-Sphaeria obtusata Schwein. SPECIES
-=======
+# Sphaeria obtusata Schwein. SPECIES
 
 #### Status
 ACCEPTED

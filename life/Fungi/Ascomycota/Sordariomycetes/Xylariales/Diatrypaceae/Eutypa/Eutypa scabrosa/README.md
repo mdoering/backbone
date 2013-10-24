@@ -1,14 +1,13 @@
-Valsa scabrosa (Bull.) Nitschke, 1867 SPECIES
-=======
+# Eutypa scabrosa (Bull.) Auersw., 1868 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Fungi europ. exsicc. Klotzschii herbarii vivi mycologici continuatio, Edn nova. Series secunda, Centuria 12: no. 1139 (1868)
 
 #### Original name
 Hypoxylon scabrosum Bull., 1790

@@ -1,5 +1,4 @@
-Opegrapha mehdiensis Werner SPECIES
-=======
+# Opegrapha mehdiensis Werner SPECIES
 
 #### Status
 ACCEPTED

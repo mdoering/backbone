@@ -1,5 +1,4 @@
-Velapertina Popescu, 1969 GENUS
-=======
+# Velapertina Popescu, 1969 GENUS
 
 #### Status
 ACCEPTED

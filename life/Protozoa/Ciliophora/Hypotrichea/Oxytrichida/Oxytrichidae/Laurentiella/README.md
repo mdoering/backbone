@@ -1,17 +1,16 @@
-Laurentia Dragesco, 1966 GENUS
-=======
+# Laurentiella Dragesco & Njiné, 1972 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Protistologica 2 (2): 85.
+Annls Fac. Sci. Univ. fed. Cameroun 7-8: 125.
 
 #### Original name
-null
+Laurentia Dragesco, 1966
 
 ### Remarks
 null

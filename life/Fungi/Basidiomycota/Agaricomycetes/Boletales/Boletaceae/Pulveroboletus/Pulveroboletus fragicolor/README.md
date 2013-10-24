@@ -1,5 +1,4 @@
-Pulveroboletus fragicolor (Berk.) Singer SPECIES
-=======
+# Pulveroboletus fragicolor (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

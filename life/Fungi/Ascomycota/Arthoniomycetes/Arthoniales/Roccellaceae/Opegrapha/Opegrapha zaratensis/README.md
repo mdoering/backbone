@@ -1,5 +1,4 @@
-Opegrapha zaratensis Redinger SPECIES
-=======
+# Opegrapha zaratensis Redinger SPECIES
 
 #### Status
 ACCEPTED

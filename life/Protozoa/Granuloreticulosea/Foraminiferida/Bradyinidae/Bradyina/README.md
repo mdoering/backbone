@@ -1,5 +1,4 @@
-Bradyina Möller, 1878 GENUS
-=======
+# Bradyina Möller, 1878 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma spondiadis Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma spondiadis Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysomyxa ilicina (Arthur) Arthur SPECIES
-=======
+# Chrysomyxa ilicina (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

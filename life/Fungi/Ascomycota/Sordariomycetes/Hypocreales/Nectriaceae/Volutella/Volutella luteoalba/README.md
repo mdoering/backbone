@@ -1,5 +1,4 @@
-Volutella luteoalba (Bonord.) Sacc. SPECIES
-=======
+# Volutella luteoalba (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

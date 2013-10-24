@@ -1,5 +1,4 @@
-Pertusaria iners R.C. Harris SPECIES
-=======
+# Pertusaria iners R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

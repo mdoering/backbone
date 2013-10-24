@@ -1,5 +1,4 @@
-Halorubrum xinjiangense Feng et al., 2004 SPECIES
-=======
+# Halorubrum xinjiangense Feng et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

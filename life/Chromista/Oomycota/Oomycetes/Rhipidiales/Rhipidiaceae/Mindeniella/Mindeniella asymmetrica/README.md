@@ -1,5 +1,4 @@
-Mindeniella asymmetrica T.W. Johnson, 1951 SPECIES
-=======
+# Mindeniella asymmetrica T.W. Johnson, 1951 SPECIES
 
 #### Status
 ACCEPTED

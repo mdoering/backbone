@@ -1,5 +1,4 @@
-Amanita subrecutita (Murrill) Murrill SPECIES
-=======
+# Amanita subrecutita (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

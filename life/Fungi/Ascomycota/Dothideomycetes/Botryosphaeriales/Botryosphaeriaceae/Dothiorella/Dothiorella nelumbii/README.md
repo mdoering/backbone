@@ -1,5 +1,4 @@
-Dothiorella nelumbii Ellis & H.W. Anderson SPECIES
-=======
+# Dothiorella nelumbii Ellis & H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanomphalia inocyboides Singer SPECIES
-=======
+# Melanomphalia inocyboides Singer SPECIES
 
 #### Status
 ACCEPTED

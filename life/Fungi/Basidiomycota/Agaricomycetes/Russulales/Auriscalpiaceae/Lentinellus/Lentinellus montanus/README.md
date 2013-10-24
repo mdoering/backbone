@@ -1,5 +1,4 @@
-Lentinellus montanus O.K. Mill., 1965 SPECIES
-=======
+# Lentinellus montanus O.K. Mill., 1965 SPECIES
 
 #### Status
 ACCEPTED

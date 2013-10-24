@@ -1,5 +1,4 @@
-Phyllosticta eupatorina Thüm. SPECIES
-=======
+# Phyllosticta eupatorina Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon corniforme Mont. SPECIES
-=======
+# Hypoxylon corniforme Mont. SPECIES
 
 #### Status
 ACCEPTED

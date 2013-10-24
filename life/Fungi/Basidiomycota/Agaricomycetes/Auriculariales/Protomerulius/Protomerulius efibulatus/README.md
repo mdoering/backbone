@@ -1,5 +1,4 @@
-Protomerulius efibulatus Y.C. Dai & Y.L. Wei SPECIES
-=======
+# Protomerulius efibulatus Y.C. Dai & Y.L. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum juglandis Velen. SPECIES
-=======
+# Lachnum juglandis Velen. SPECIES
 
 #### Status
 ACCEPTED

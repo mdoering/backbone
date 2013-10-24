@@ -1,5 +1,4 @@
-Fusicladium bambusicola (Sawada) Deighton SPECIES
-=======
+# Fusicladium bambusicola (Sawada) Deighton SPECIES
 
 #### Status
 ACCEPTED

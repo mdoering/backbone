@@ -1,5 +1,4 @@
-Synostomina andina Petr., 1949 SPECIES
-=======
+# Synostomina andina Petr., 1949 SPECIES
 
 #### Status
 ACCEPTED

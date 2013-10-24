@@ -1,5 +1,4 @@
-Cauloglossum elatum Fr. SPECIES
-=======
+# Cauloglossum elatum Fr. SPECIES
 
 #### Status
 ACCEPTED

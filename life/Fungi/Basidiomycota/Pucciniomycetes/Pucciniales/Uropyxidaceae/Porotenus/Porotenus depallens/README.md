@@ -1,14 +1,13 @@
-Puccinia depallens Arthur & Holw., 1918 SPECIES
-=======
+# Porotenus depallens (Arthur & Holw.) Cummins & Y. Hirats., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 10(3): 139 (1918)
+Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)
 
 #### Original name
 Puccinia depallens Arthur & Holw., 1918

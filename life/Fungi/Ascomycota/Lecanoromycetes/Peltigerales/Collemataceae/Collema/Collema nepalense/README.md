@@ -1,5 +1,4 @@
-Collema nepalense Degel. SPECIES
-=======
+# Collema nepalense Degel. SPECIES
 
 #### Status
 ACCEPTED

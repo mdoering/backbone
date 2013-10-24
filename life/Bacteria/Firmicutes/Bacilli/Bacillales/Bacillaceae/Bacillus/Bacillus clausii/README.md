@@ -1,5 +1,4 @@
-Bacillus clausii Nielsen et al., 1995 SPECIES
-=======
+# Bacillus clausii Nielsen et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

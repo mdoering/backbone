@@ -1,5 +1,4 @@
-Typhula pragensis Pilát SPECIES
-=======
+# Typhula pragensis Pilát SPECIES
 
 #### Status
 ACCEPTED

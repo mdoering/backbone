@@ -1,5 +1,4 @@
-Phoma cocophila Speg. SPECIES
-=======
+# Phoma cocophila Speg. SPECIES
 
 #### Status
 ACCEPTED

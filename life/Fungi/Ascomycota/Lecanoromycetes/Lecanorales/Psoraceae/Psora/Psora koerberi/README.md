@@ -1,5 +1,4 @@
-Psora koerberi A. Massal. SPECIES
-=======
+# Psora koerberi A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archecribraria eisenackii Locq. SPECIES
-=======
+# Archecribraria eisenackii Locq. SPECIES
 
 #### Status
 ACCEPTED

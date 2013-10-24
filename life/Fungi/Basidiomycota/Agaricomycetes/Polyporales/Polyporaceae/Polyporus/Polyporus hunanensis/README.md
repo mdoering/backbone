@@ -1,5 +1,4 @@
-Polyporus hunanensis Lohwag SPECIES
-=======
+# Polyporus hunanensis Lohwag SPECIES
 
 #### Status
 ACCEPTED

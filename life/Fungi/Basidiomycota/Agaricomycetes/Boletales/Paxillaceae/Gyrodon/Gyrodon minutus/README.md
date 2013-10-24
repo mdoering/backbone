@@ -1,5 +1,4 @@
-Gyrodon minutus (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Gyrodon minutus (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stipitococcus apiculatus Prescott SPECIES
-=======
+# Stipitococcus apiculatus Prescott SPECIES
 
 #### Status
 ACCEPTED

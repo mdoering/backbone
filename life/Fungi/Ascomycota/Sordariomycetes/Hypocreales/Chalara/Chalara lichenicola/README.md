@@ -1,5 +1,4 @@
-Chalara lichenicola M.S. Christ. SPECIES
-=======
+# Chalara lichenicola M.S. Christ. SPECIES
 
 #### Status
 ACCEPTED

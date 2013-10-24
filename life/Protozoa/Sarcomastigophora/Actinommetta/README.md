@@ -1,5 +1,4 @@
-Actinommetta Haeckel, 1887 GENUS
-=======
+# Actinommetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

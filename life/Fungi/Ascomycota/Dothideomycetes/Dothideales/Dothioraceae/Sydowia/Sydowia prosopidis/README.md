@@ -1,5 +1,4 @@
-Sydowia prosopidis R. Rao SPECIES
-=======
+# Sydowia prosopidis R. Rao SPECIES
 
 #### Status
 ACCEPTED

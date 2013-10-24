@@ -1,5 +1,4 @@
-Bactrodesmium linderi (J.L. Crane & Shearer) M.E. Palm & E.L. Stewart, 1982 SPECIES
-=======
+# Bactrodesmium linderi (J.L. Crane & Shearer) M.E. Palm & E.L. Stewart, 1982 SPECIES
 
 #### Status
 ACCEPTED

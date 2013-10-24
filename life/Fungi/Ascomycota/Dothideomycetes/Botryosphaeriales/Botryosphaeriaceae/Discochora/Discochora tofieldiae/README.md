@@ -1,5 +1,4 @@
-Discochora tofieldiae (Tassi) Bissett SPECIES
-=======
+# Discochora tofieldiae (Tassi) Bissett SPECIES
 
 #### Status
 ACCEPTED

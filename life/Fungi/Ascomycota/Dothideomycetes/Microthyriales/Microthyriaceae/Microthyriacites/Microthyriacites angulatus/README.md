@@ -1,5 +1,4 @@
-Microthyriacites angulatus Golovin & Popov {?} SPECIES
-=======
+# Microthyriacites angulatus Golovin & Popov {?} SPECIES
 
 #### Status
 ACCEPTED

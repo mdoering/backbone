@@ -1,5 +1,4 @@
-Scolecobasidium laeve Y.L. Jiang & T.Y. Zhang SPECIES
-=======
+# Scolecobasidium laeve Y.L. Jiang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

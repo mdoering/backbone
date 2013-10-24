@@ -1,5 +1,4 @@
-Calospeira elegans G. Arnaud SPECIES
-=======
+# Calospeira elegans G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

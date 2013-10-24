@@ -1,5 +1,4 @@
-Arthurina Wynn Jones, 1984 GENUS
-=======
+# Arthurina Wynn Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium heteropatelloides Rehm SPECIES
-=======
+# Cenangium heteropatelloides Rehm SPECIES
 
 #### Status
 ACCEPTED

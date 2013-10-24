@@ -1,5 +1,4 @@
-Cladonia norvegica Tønsberg & Holien SPECIES
-=======
+# Cladonia norvegica Tønsberg & Holien SPECIES
 
 #### Status
 ACCEPTED

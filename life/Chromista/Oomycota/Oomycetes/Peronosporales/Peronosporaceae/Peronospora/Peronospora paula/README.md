@@ -1,5 +1,4 @@
-Peronospora paula A. Gustavsson, 1959 SPECIES
-=======
+# Peronospora paula A. Gustavsson, 1959 SPECIES
 
 #### Status
 ACCEPTED

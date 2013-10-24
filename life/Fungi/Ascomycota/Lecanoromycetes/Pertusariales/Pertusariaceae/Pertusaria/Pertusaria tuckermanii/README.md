@@ -1,8 +1,7 @@
-Pertusaria tuckermani Erichsen SPECIES
-=======
+# Pertusaria tuckermanii Erichsen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria tuckermani Erichsen
+Pertusaria tuckermanii Erichsen
 
 ### Remarks
 null

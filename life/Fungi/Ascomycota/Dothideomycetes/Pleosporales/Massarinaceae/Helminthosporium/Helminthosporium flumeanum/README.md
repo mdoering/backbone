@@ -1,17 +1,16 @@
-Helmisporium flumeanum Sacc. SPECIES
-=======
+# Helminthosporium flumeanum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. 25: 821 (1931)
 
 #### Original name
-Helmisporium flumeanum Sacc.
+Helminthosporium flumeanum Sacc.
 
 ### Remarks
 null

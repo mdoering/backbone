@@ -1,5 +1,4 @@
-Ascoconidium Seaver GENUS
-=======
+# Ascoconidium Seaver GENUS
 
 #### Status
 ACCEPTED

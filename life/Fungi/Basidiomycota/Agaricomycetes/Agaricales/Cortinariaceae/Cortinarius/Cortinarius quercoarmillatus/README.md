@@ -1,5 +1,4 @@
-Cortinarius quercoarmillatus Ammirati, Halling & Garnica SPECIES
-=======
+# Cortinarius quercoarmillatus Ammirati, Halling & Garnica SPECIES
 
 #### Status
 ACCEPTED

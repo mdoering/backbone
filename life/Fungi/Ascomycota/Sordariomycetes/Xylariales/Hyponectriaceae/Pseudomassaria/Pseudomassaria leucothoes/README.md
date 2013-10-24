@@ -1,5 +1,4 @@
-Pseudomassaria leucothoes var. leucothoes VARIETY
-=======
+# Pseudomassaria leucothoes (Cooke) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 22: 385 (1924)
 
 #### Original name
-Pseudomassaria leucothoes var. leucothoes
+Sphaerella leucothoes Cooke
 
 ### Remarks
 null

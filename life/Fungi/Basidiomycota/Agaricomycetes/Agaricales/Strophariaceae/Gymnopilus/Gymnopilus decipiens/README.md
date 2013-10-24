@@ -1,14 +1,13 @@
-Flammula decipiens (W.G. Sm.) Sacc., 1887 SPECIES
-=======
+# Gymnopilus decipiens (W.G. Sm.) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 811 (1887)
+Trans. Br. mycol. Soc. 43: 176 (1960)
 
 #### Original name
 Agaricus decipiens Willd., 1778

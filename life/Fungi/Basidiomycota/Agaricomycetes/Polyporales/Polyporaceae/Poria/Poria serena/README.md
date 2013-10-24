@@ -1,5 +1,4 @@
-Poria serena P. Karst. SPECIES
-=======
+# Poria serena P. Karst. SPECIES
 
 #### Status
 ACCEPTED

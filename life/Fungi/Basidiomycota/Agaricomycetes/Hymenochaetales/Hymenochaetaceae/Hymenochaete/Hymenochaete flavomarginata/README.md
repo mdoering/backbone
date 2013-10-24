@@ -1,5 +1,4 @@
-Hymenochaete flavomarginata Pat. SPECIES
-=======
+# Hymenochaete flavomarginata Pat. SPECIES
 
 #### Status
 ACCEPTED

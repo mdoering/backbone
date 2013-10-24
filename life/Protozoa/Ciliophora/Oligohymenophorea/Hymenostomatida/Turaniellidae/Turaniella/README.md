@@ -1,17 +1,16 @@
-Tourania Brodsky, 1925 GENUS
-=======
+# Turaniella Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Univ. Asie centr. , 8, 44.
+J. Protozool. 7: 272.
 
 #### Original name
-null
+Turania Brodsky, 1925
 
 ### Remarks
 null

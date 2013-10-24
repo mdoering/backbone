@@ -1,5 +1,4 @@
-Hydropus putredinus (Berk. & M.A. Curtis) Pegler SPECIES
-=======
+# Hydropus putredinus (Berk. & M.A. Curtis) Pegler SPECIES
 
 #### Status
 ACCEPTED

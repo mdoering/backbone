@@ -1,5 +1,4 @@
-Trichopeziza pulverulenta Fuckel SPECIES
-=======
+# Trichopeziza pulverulenta Fuckel SPECIES
 
 #### Status
 ACCEPTED

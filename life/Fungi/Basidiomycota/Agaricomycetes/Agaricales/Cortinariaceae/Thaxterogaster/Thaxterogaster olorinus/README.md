@@ -1,5 +1,4 @@
-Thaxterogaster olorinus E. Horak SPECIES
-=======
+# Thaxterogaster olorinus E. Horak SPECIES
 
 #### Status
 ACCEPTED

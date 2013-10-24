@@ -1,5 +1,4 @@
-Lactobacillus Beijerinck, 1901 GENUS
-=======
+# Lactobacillus Beijerinck, 1901 GENUS
 
 #### Status
 ACCEPTED

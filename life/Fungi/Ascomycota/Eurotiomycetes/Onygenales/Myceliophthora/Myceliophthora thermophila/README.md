@@ -1,17 +1,16 @@
-Sporotrichum thermophilum Apinis, 1963 SPECIES
-=======
+# Myceliophthora thermophila (Apinis) Oorschot, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 9(3): 403 (1977)
 
 #### Original name
-Sporotrichum thermophilum Apinis, 1963
+Sporotrichum thermophile Apinis
 
 ### Remarks
 null

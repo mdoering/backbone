@@ -1,5 +1,4 @@
-Rinodina bolodes Tuck. SPECIES
-=======
+# Rinodina bolodes Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hadrosporium fraserianum Syd., 1938 SPECIES
-=======
+# Hadrosporium fraserianum Syd., 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola plantaginis Hansf. & F. Stevens SPECIES
-=======
+# Meliola plantaginis Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED

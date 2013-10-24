@@ -1,5 +1,4 @@
-Valsa corynostoma Berk. & Ravenel SPECIES
-=======
+# Valsa corynostoma Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stannophyllum zonarium Haeckel, 1889 SPECIES
-=======
+# Stannophyllum zonarium Haeckel, 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerostilbe GENUS
-=======
+# Sphaerostilbe GENUS
 
 #### Status
 ACCEPTED

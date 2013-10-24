@@ -1,5 +1,4 @@
-Amylirosa haraeana I. Hino & Katum. SPECIES
-=======
+# Amylirosa haraeana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

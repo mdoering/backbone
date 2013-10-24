@@ -1,5 +1,4 @@
-Macrophyllosticta eucalyptica (Pat.) Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta eucalyptica (Pat.) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

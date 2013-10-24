@@ -1,5 +1,4 @@
-Urceolaria compuncta Ach. SPECIES
-=======
+# Urceolaria compuncta Ach. SPECIES
 
 #### Status
 ACCEPTED

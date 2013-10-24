@@ -1,5 +1,4 @@
-Endophragmiella sphaeroproliferata R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Endophragmiella sphaeroproliferata R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

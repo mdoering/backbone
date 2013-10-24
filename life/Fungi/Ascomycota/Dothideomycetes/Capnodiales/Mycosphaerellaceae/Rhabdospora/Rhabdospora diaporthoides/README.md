@@ -1,5 +1,4 @@
-Rhabdospora diaporthoides (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora diaporthoides (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

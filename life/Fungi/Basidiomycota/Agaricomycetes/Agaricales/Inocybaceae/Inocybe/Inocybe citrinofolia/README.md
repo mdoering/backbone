@@ -1,5 +1,4 @@
-Inocybe citrinofolia Métrod SPECIES
-=======
+# Inocybe citrinofolia Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema nylanderi (Lynge) Hale SPECIES
-=======
+# Parmotrema nylanderi (Lynge) Hale SPECIES
 
 #### Status
 ACCEPTED

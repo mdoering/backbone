@@ -1,5 +1,4 @@
-Uredo machaerii Dietel SPECIES
-=======
+# Uredo machaerii Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curvularia fimicola Faurel & Schotter, 1966 SPECIES
-=======
+# Curvularia fimicola Faurel & Schotter, 1966 SPECIES
 
 #### Status
 ACCEPTED

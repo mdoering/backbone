@@ -1,5 +1,4 @@
-Meliola uncariicola Deighton SPECIES
-=======
+# Meliola uncariicola Deighton SPECIES
 
 #### Status
 ACCEPTED

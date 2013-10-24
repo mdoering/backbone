@@ -1,17 +1,16 @@
-Vorarlbergia renitens Grummann SPECIES
-=======
+# Epigloea soleiformis Döbbeler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 22(1-4): 219 (1969)
+Beih. Nova Hedwigia 79: 229 (1984)
 
 #### Original name
-Vorarlbergia renitens Grummann
+Epigloea soleiformis Döbbeler
 
 ### Remarks
 null

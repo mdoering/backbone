@@ -1,5 +1,4 @@
-Pseudomonas vancouverensis Mohn et al., 1999 SPECIES
-=======
+# Pseudomonas vancouverensis Mohn et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

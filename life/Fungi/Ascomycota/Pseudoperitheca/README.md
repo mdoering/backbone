@@ -1,5 +1,4 @@
-Pseudoperitheca Elenkin GENUS
-=======
+# Pseudoperitheca Elenkin GENUS
 
 #### Status
 ACCEPTED

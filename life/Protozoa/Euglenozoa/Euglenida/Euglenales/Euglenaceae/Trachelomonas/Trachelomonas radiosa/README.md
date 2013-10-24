@@ -1,5 +1,4 @@
-Trachelomonas radiosa var. reticulata Bourrelly VARIETY
-=======
+# Trachelomonas radiosa Fritsch SPECIES
 
 #### Status
 ACCEPTED

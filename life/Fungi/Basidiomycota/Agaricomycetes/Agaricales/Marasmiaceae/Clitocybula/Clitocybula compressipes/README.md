@@ -1,5 +1,4 @@
-Clitocybula compressipes (Peck) Raithelh. SPECIES
-=======
+# Clitocybula compressipes (Peck) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

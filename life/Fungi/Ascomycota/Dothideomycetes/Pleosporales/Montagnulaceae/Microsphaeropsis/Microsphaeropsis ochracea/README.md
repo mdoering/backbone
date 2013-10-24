@@ -1,5 +1,4 @@
-Microsphaeropsis ochracea Carisse & Bernier SPECIES
-=======
+# Microsphaeropsis ochracea Carisse & Bernier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discophrya urceolata Stokes SPECIES
-=======
+# Discophrya urceolata Stokes SPECIES
 
 #### Status
 ACCEPTED

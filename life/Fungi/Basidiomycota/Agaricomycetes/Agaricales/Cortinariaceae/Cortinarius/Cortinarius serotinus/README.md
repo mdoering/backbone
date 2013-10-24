@@ -1,5 +1,4 @@
-Cortinarius serotinus (Fr.) Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius serotinus (Fr.) Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

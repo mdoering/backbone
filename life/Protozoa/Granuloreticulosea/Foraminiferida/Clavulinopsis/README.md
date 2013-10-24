@@ -1,5 +1,4 @@
-Clavulinopsis Banner & Desai, 1985 GENUS
-=======
+# Clavulinopsis Banner & Desai, 1985 GENUS
 
 #### Status
 ACCEPTED

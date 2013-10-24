@@ -1,5 +1,4 @@
-Blasteniospora concolor (Dicks.) Trevis. SPECIES
-=======
+# Blasteniospora concolor (Dicks.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

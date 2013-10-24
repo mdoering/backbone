@@ -1,5 +1,4 @@
-Arthothelium andamanicum Makhija & Patw. SPECIES
-=======
+# Arthothelium andamanicum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

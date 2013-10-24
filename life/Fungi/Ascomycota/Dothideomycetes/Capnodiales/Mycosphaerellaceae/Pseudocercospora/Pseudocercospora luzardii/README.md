@@ -1,5 +1,4 @@
-Pseudocercospora luzardii Furlan. & Dianese SPECIES
-=======
+# Pseudocercospora luzardii Furlan. & Dianese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus mowryanus (Murrill) Murrill SPECIES
-=======
+# Polystictus mowryanus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

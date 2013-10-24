@@ -1,5 +1,4 @@
-Mycosphaerella lysimachiicola I. Hino & Katum. SPECIES
-=======
+# Mycosphaerella lysimachiicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

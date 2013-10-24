@@ -1,5 +1,4 @@
-Trematosphaeria lophiostomoides Speg. SPECIES
-=======
+# Trematosphaeria lophiostomoides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerulina phoenicis Sawada SPECIES
-=======
+# Sphaerulina phoenicis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurocapsa amethystea Rosenvinge SPECIES
-=======
+# Pleurocapsa amethystea Rosenvinge SPECIES
 
 #### Status
 ACCEPTED

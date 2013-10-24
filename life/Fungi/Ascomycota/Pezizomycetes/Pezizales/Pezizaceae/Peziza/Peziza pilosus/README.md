@@ -1,5 +1,4 @@
-Peziza pilosus Fr. SPECIES
-=======
+# Peziza pilosus Fr. SPECIES
 
 #### Status
 ACCEPTED

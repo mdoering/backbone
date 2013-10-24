@@ -1,5 +1,4 @@
-Cannapilus GENUS
-=======
+# Cannapilus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polonosphaeridium francinae (H. Górka) H. Górka SPECIES
-=======
+# Polonosphaeridium francinae (H. Górka) H. Górka SPECIES
 
 #### Status
 ACCEPTED

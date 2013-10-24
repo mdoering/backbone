@@ -1,5 +1,4 @@
-Octosporonites Locq. & Sal.-Cheb. GENUS
-=======
+# Octosporonites Locq. & Sal.-Cheb. GENUS
 
 #### Status
 ACCEPTED

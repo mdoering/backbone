@@ -1,5 +1,4 @@
-Gyrophora ruebeliana Du Rietz & Frey SPECIES
-=======
+# Gyrophora ruebeliana Du Rietz & Frey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia violacea B. de Lesd. SPECIES
-=======
+# Buellia violacea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

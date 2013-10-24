@@ -1,5 +1,4 @@
-Entoloma gracilius E. Horak SPECIES
-=======
+# Entoloma gracilius E. Horak SPECIES
 
 #### Status
 ACCEPTED

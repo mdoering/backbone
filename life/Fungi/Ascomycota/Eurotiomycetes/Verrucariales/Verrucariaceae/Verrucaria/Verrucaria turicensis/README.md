@@ -1,5 +1,4 @@
-Verrucaria turicensis (G. Winter) Stizenb. SPECIES
-=======
+# Verrucaria turicensis (G. Winter) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiostroma pirorum Griffon & Maubl. SPECIES
-=======
+# Lasiostroma pirorum Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

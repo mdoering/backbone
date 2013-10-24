@@ -1,17 +1,16 @@
-Marchaliella G. Winter ex E. Bommer & M. Rousseau GENUS
-=======
+# Testudina Bizz. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 29: 243 (1891)
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 6 3: 303 (1885)
 
 #### Original name
-Marchaliella G. Winter ex E. Bommer & M. Rousseau
+Testudina Bizz.
 
 ### Remarks
 null

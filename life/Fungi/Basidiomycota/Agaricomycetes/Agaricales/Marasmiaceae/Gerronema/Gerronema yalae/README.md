@@ -1,5 +1,4 @@
-Gerronema yalae Singer SPECIES
-=======
+# Gerronema yalae Singer SPECIES
 
 #### Status
 ACCEPTED

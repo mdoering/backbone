@@ -1,5 +1,4 @@
-Rhodocyphella grisea (Petch) W.B. Cooke SPECIES
-=======
+# Rhodocyphella grisea (Petch) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

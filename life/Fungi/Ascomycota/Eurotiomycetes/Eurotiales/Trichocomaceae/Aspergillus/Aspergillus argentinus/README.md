@@ -1,5 +1,4 @@
-Aspergillus argentinus Speg. SPECIES
-=======
+# Aspergillus argentinus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia megalospora Berk. & M.A. Curtis SPECIES
-=======
+# Diplodia megalospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

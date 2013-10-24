@@ -1,5 +1,4 @@
-Enchnosphaeria GENUS
-=======
+# Enchnosphaeria GENUS
 
 #### Status
 ACCEPTED

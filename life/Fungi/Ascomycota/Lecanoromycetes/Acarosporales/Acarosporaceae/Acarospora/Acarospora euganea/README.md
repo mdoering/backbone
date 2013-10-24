@@ -1,5 +1,4 @@
-Acarospora euganea H. Magn. SPECIES
-=======
+# Acarospora euganea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

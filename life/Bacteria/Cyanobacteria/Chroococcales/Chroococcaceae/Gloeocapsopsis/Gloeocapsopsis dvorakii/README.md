@@ -1,8 +1,7 @@
-Gloeocapsa dvorakii Novácek SPECIES
-=======
+# Gloeocapsopsis dvorakii (Novácek) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

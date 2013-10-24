@@ -1,5 +1,4 @@
-Sporidesmium triangulare Matsush. SPECIES
-=======
+# Sporidesmium triangulare Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus aripoanus var. africus Romagn. & Gilles VARIETY
-=======
+# Rhodophyllus aripoanus (Dennis) Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 59: 187 (1979)
 
 #### Original name
-Rhodophyllus aripoanus var. africus Romagn. & Gilles
+Entoloma aripoanum Dennis
 
 ### Remarks
 null

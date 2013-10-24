@@ -1,5 +1,4 @@
-Stigmatidium autographum Nyl. SPECIES
-=======
+# Stigmatidium autographum Nyl. SPECIES
 
 #### Status
 ACCEPTED

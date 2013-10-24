@@ -1,5 +1,4 @@
-Bigenerina ammobaculitoidea Chang SPECIES
-=======
+# Bigenerina ammobaculitoidea Chang SPECIES
 
 #### Status
 ACCEPTED

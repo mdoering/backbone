@@ -1,5 +1,4 @@
-Uredo pinguis DC. SPECIES
-=======
+# Uredo pinguis DC. SPECIES
 
 #### Status
 ACCEPTED

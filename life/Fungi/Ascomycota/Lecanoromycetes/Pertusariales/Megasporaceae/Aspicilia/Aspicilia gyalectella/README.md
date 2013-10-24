@@ -1,5 +1,4 @@
-Aspicilia gyalectella (A. Massal.) SPECIES
-=======
+# Aspicilia gyalectella (A. Massal.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystopezizella knautiae (Velen.) Svrcek SPECIES
-=======
+# Cystopezizella knautiae (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

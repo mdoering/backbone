@@ -1,5 +1,4 @@
-Micropeltis heterospora Bat. SPECIES
-=======
+# Micropeltis heterospora Bat. SPECIES
 
 #### Status
 ACCEPTED

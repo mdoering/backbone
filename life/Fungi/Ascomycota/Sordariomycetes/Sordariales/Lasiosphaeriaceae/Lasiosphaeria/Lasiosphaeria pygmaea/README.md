@@ -1,5 +1,4 @@
-Lasiosphaeria pygmaea Sacc. & Speg. SPECIES
-=======
+# Lasiosphaeria pygmaea Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

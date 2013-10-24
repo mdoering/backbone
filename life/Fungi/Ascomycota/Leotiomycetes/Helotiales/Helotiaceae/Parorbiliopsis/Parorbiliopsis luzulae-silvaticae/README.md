@@ -1,17 +1,16 @@
-Parorbiliopsis luzulae-sylvaticae Svrcek SPECIES
-=======
+# Parorbiliopsis luzulae-silvaticae Svrcek, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 46(3-4): 157 (1993)
 
 #### Original name
-Parorbiliopsis luzulae-sylvaticae Svrcek
+Parorbiliopsis luzulae-silvaticae Svrcek, 1993
 
 ### Remarks
 null

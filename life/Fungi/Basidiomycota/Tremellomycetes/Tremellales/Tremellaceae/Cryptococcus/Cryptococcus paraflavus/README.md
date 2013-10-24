@@ -1,5 +1,4 @@
-Cryptococcus paraflavus Golubev & J.P. Samp. SPECIES
-=======
+# Cryptococcus paraflavus Golubev & J.P. Samp. SPECIES
 
 #### Status
 ACCEPTED

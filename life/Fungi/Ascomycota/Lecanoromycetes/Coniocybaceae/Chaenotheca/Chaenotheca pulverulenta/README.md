@@ -1,5 +1,4 @@
-Chaenotheca pulverulenta (Vain.) Zahlbr. SPECIES
-=======
+# Chaenotheca pulverulenta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

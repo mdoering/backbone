@@ -1,5 +1,4 @@
-Acarospora reagens var. reagens VARIETY
-=======
+# Acarospora reagens Zahlbr., 1902 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bih. K. svenska VetenskAkad. Handl. 13: 162 (1902)
+null
 
 #### Original name
-Acarospora reagens var. reagens
+null
 
 ### Remarks
 null

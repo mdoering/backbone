@@ -1,5 +1,4 @@
-Tricholoma sienna (Peck) Sacc. SPECIES
-=======
+# Tricholoma sienna (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

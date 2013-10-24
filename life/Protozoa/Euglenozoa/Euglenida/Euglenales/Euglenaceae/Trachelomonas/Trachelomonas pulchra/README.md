@@ -1,5 +1,4 @@
-Trachelomonas pulchra Svirenko SPECIES
-=======
+# Trachelomonas pulchra Svirenko SPECIES
 
 #### Status
 ACCEPTED

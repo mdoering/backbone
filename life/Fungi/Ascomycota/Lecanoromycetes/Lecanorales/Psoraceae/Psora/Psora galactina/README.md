@@ -1,5 +1,4 @@
-Psora galactina (Zahlbr.) Follmann SPECIES
-=======
+# Psora galactina (Zahlbr.) Follmann SPECIES
 
 #### Status
 ACCEPTED

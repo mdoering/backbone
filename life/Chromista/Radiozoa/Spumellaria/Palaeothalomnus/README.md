@@ -1,5 +1,4 @@
-Palaeothalomnus Deflandre, 1973 GENUS
-=======
+# Palaeothalomnus Deflandre, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lanzia rugipes (Peck) Sacc. SPECIES
-=======
+# Lanzia rugipes (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

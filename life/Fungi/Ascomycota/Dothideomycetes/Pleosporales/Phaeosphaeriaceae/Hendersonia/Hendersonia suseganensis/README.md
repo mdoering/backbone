@@ -1,5 +1,4 @@
-Hendersonia suseganensis Sacc. & Speg. SPECIES
-=======
+# Hendersonia suseganensis Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

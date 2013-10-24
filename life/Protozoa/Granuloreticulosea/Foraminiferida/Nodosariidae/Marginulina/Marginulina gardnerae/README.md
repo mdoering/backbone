@@ -1,5 +1,4 @@
-Marginulina gardnerae Plummer SPECIES
-=======
+# Marginulina gardnerae Plummer SPECIES
 
 #### Status
 ACCEPTED

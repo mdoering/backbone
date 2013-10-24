@@ -1,5 +1,4 @@
-Tricholoma lobatum Velen. SPECIES
-=======
+# Tricholoma lobatum Velen. SPECIES
 
 #### Status
 ACCEPTED

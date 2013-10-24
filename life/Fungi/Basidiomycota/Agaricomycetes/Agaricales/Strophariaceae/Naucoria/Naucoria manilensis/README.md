@@ -1,5 +1,4 @@
-Naucoria manilensis P.W. Graff SPECIES
-=======
+# Naucoria manilensis P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

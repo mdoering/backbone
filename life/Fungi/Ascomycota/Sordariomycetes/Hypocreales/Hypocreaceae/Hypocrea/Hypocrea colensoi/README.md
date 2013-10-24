@@ -1,5 +1,4 @@
-Hypocrea colensoi Lloyd, 1924 SPECIES
-=======
+# Hypocrea colensoi Lloyd, 1924 SPECIES
 
 #### Status
 ACCEPTED

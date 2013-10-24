@@ -1,5 +1,4 @@
-Branchiomyces sanguinis Plehn, 1912 SPECIES
-=======
+# Branchiomyces sanguinis Plehn, 1912 SPECIES
 
 #### Status
 ACCEPTED

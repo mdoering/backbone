@@ -1,5 +1,4 @@
-Porothelium arthonioides Eschw. SPECIES
-=======
+# Porothelium arthonioides Eschw. SPECIES
 
 #### Status
 ACCEPTED

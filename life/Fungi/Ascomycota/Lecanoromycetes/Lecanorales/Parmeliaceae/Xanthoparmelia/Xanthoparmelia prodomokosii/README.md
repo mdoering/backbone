@@ -1,17 +1,16 @@
-Parmelia subdomokosii Hale SPECIES
-=======
+# Xanthoparmelia prodomokosii Hale, Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser 124: 353 (1971)
+in Elix & Johnston, Mycotaxon 31(2): 506 (1988)
 
 #### Original name
-Parmelia subdomokosii Hale
+Xanthoparmelia prodomokosii Hale, Elix & J. Johnst.
 
 ### Remarks
 null

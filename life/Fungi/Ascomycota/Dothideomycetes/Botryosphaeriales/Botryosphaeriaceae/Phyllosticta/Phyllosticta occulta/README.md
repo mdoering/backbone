@@ -1,5 +1,4 @@
-Phyllosticta occulta Bubák SPECIES
-=======
+# Phyllosticta occulta Bubák SPECIES
 
 #### Status
 ACCEPTED

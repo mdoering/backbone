@@ -1,5 +1,4 @@
-Sclerospora secalina Naumov SPECIES
-=======
+# Sclerospora secalina Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosphaeriella fissuristoma J. Fröhl., K.D. Hyde & Aptroot, 2000 SPECIES
-=======
+# Astrosphaeriella fissuristoma J. Fröhl., K.D. Hyde & Aptroot, 2000 SPECIES
 
 #### Status
 ACCEPTED

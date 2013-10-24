@@ -1,5 +1,4 @@
-Trypanosoma senegalense Ranque, 1973 SPECIES
-=======
+# Trypanosoma senegalense Ranque, 1973 SPECIES
 
 #### Status
 ACCEPTED

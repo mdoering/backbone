@@ -1,5 +1,4 @@
-Stereocaulon verruciferum Nyl. SPECIES
-=======
+# Stereocaulon verruciferum Nyl. SPECIES
 
 #### Status
 ACCEPTED

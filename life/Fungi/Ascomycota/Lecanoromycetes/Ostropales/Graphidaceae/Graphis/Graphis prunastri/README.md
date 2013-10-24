@@ -1,5 +1,4 @@
-Graphis prunastri Wallr. SPECIES
-=======
+# Graphis prunastri Wallr. SPECIES
 
 #### Status
 ACCEPTED

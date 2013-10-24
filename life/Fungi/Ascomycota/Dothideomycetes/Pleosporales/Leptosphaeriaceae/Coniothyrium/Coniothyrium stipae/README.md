@@ -1,5 +1,4 @@
-Coniothyrium stipae Savul. & Sandu SPECIES
-=======
+# Coniothyrium stipae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

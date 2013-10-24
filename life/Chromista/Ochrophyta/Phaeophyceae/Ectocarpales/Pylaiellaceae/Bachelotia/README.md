@@ -1,5 +1,4 @@
-Bachelotia (Bornet) Kuckuck ex G.Hamel, 1939 GENUS
-=======
+# Bachelotia (Bornet) Kuckuck ex G.Hamel, 1939 GENUS
 
 #### Status
 ACCEPTED

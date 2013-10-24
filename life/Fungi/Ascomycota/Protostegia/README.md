@@ -1,5 +1,4 @@
-Protostegia Cooke GENUS
-=======
+# Protostegia Cooke GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caricis-shepherdiae Davis, 1924 SPECIES
-=======
+# Puccinia caricis-shepherdiae Davis, 1924 SPECIES
 
 #### Status
 ACCEPTED

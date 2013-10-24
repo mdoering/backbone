@@ -1,5 +1,4 @@
-Dermatocarpon complicatum var. complicatum VARIETY
-=======
+# Dermatocarpon complicatum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dermatocarpon complicatum var. complicatum
+null
 
 ### Remarks
 null

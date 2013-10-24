@@ -1,5 +1,4 @@
-Elphidium ezoense Asano, 1937 SPECIES
-=======
+# Elphidium ezoense Asano, 1937 SPECIES
 
 #### Status
 ACCEPTED

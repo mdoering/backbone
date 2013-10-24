@@ -1,5 +1,4 @@
-Ureaplasma GENUS
-=======
+# Ureaplasma GENUS
 
 #### Status
 ACCEPTED

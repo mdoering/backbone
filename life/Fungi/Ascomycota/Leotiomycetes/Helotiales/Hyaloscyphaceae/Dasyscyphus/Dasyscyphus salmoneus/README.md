@@ -1,17 +1,16 @@
-Dasyscypha salmoneus E.K. Cash SPECIES
-=======
+# Dasyscyphus salmoneus E.K. Cash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 43: 230 (1951)
 
 #### Original name
-Dasyscypha salmoneus E.K. Cash
+Dasyscyphus salmoneus E.K. Cash
 
 ### Remarks
 null

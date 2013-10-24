@@ -1,5 +1,4 @@
-Helminthosporium polymorphum Berk. & M.A. Curtis SPECIES
-=======
+# Helminthosporium polymorphum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

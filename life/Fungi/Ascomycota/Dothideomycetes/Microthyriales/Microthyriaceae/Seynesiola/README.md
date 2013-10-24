@@ -1,5 +1,4 @@
-Seynesiola GENUS
-=======
+# Seynesiola GENUS
 
 #### Status
 ACCEPTED

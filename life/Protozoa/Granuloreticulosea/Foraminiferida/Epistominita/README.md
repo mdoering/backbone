@@ -1,5 +1,4 @@
-Epistominita Grigelis, 1960 GENUS
-=======
+# Epistominita Grigelis, 1960 GENUS
 
 #### Status
 ACCEPTED

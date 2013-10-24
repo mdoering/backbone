@@ -1,5 +1,4 @@
-Helminthosporium stipae Trab. SPECIES
-=======
+# Helminthosporium stipae Trab. SPECIES
 
 #### Status
 ACCEPTED

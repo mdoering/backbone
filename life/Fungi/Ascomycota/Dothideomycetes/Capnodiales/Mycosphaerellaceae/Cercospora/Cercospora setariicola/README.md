@@ -1,5 +1,4 @@
-Cercospora setariicola Tehon & E.Y. Daniels SPECIES
-=======
+# Cercospora setariicola Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

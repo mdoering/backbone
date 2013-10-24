@@ -1,5 +1,4 @@
-Pertusaria fukiensis f. fukiensis FORM
-=======
+# Pertusaria fukiensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria fukiensis f. fukiensis
+Pertusaria fukiensis Zahlbr.
 
 ### Remarks
 null

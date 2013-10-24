@@ -1,5 +1,4 @@
-Oerstedtia Trevisan, 1848 GENUS
-=======
+# Oerstedtia Trevisan, 1848 GENUS
 
 #### Status
 ACCEPTED

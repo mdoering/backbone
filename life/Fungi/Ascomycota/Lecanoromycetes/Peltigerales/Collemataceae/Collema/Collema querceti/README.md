@@ -1,5 +1,4 @@
-Collema querceti Croz. SPECIES
-=======
+# Collema querceti Croz. SPECIES
 
 #### Status
 ACCEPTED

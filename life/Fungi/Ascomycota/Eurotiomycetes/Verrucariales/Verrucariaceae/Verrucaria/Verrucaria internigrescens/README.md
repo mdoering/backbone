@@ -1,17 +1,16 @@
-Verrucaria aethiobola var. internigrescens (Nyl.) Vain. VARIETY
-=======
+# Verrucaria internigrescens (Nyl.) Erichsen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Brenner, Meddn Soc. Fauna Flora fenn. 13: 125 (1886)
+Verh. bot. Ver. Prov. Brandenb. 70: 193 (1928)
 
 #### Original name
-null
+Verrucaria aethiobola var. internigrescens (Nyl.) Vain.
 
 ### Remarks
 null

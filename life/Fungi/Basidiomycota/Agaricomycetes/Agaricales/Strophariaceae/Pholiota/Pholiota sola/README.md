@@ -1,5 +1,4 @@
-Pholiota sola A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota sola A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

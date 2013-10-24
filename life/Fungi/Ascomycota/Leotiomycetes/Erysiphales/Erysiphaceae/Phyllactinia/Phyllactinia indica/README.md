@@ -1,5 +1,4 @@
-Phyllactinia indica Patw. SPECIES
-=======
+# Phyllactinia indica Patw. SPECIES
 
 #### Status
 ACCEPTED

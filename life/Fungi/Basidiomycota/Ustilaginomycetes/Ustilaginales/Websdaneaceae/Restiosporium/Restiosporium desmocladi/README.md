@@ -1,17 +1,16 @@
-Restiosporium desmocladii Vánky SPECIES
-=======
+# Restiosporium desmocladi Vánky, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Balcanica 3(1): 29 (2006)
 
 #### Original name
-Restiosporium desmocladii Vánky
+Restiosporium desmocladi Vánky, 2006
 
 ### Remarks
 null

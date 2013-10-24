@@ -1,5 +1,4 @@
-Aspergillus clavellus Peck SPECIES
-=======
+# Aspergillus clavellus Peck SPECIES
 
 #### Status
 ACCEPTED

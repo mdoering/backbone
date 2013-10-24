@@ -1,5 +1,4 @@
-Lophophacidium hyperboreum Lagerb., 1949 SPECIES
-=======
+# Lophophacidium hyperboreum Lagerb., 1949 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leprocollema americanum Vain. SPECIES
-=======
+# Leprocollema americanum Vain. SPECIES
 
 #### Status
 ACCEPTED

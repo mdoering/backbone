@@ -1,5 +1,4 @@
-Multiplicisphaeridium cymula (Cramer & Díez, 1972) Eisenack et al., 1973 SPECIES
-=======
+# Multiplicisphaeridium cymula (Cramer & Díez, 1972) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

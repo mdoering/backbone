@@ -1,5 +1,4 @@
-Hysterographium nucicola (Schwein.) Ellis & Everh. SPECIES
-=======
+# Hysterographium nucicola (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

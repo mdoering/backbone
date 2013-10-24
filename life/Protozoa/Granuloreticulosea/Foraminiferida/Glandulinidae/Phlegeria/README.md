@@ -1,5 +1,4 @@
-Phlegeria Loeblich & Tappan, 1963 GENUS
-=======
+# Phlegeria Loeblich & Tappan, 1963 GENUS
 
 #### Status
 ACCEPTED

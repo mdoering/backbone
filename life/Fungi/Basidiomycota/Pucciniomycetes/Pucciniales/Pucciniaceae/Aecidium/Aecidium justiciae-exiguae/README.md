@@ -1,5 +1,4 @@
-Aecidium justiciae-exiguae Gjaerum SPECIES
-=======
+# Aecidium justiciae-exiguae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

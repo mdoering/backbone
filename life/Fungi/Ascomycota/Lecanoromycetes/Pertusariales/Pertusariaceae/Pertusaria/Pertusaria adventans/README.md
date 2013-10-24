@@ -1,5 +1,4 @@
-Pertusaria adventans Nyl. SPECIES
-=======
+# Pertusaria adventans Nyl. SPECIES
 
 #### Status
 ACCEPTED

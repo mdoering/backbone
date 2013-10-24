@@ -1,17 +1,16 @@
-Beltrania mundkuri Piroz. & S.D. Patil SPECIES
-=======
+# Beltrania mundkurii Piroz. & S.D. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 48(3): 568 (1970)
 
 #### Original name
-Beltrania mundkuri Piroz. & S.D. Patil
+Beltrania mundkurii Piroz. & S.D. Patil
 
 ### Remarks
 null

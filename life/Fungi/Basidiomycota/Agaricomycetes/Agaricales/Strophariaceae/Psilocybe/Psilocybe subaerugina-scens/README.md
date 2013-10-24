@@ -1,5 +1,4 @@
-Psilocybe subaerugina-scens Hohnel SPECIES
-=======
+# Psilocybe subaerugina-scens Hohnel SPECIES
 
 #### Status
 ACCEPTED

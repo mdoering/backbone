@@ -1,5 +1,4 @@
-Calosphaeria abietis Krieg. SPECIES
-=======
+# Calosphaeria abietis Krieg. SPECIES
 
 #### Status
 ACCEPTED

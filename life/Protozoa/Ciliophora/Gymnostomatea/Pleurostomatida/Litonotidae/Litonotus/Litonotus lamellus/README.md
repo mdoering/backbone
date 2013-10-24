@@ -1,5 +1,4 @@
-Litonotus lamellus Ehrenberg, 1838 SPECIES
-=======
+# Litonotus lamellus Ehrenberg, 1838 SPECIES
 
 #### Status
 ACCEPTED

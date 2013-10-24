@@ -1,5 +1,4 @@
-Cercospora pulvinulata Sacc. & G. Winter SPECIES
-=======
+# Cercospora pulvinulata Sacc. & G. Winter SPECIES
 
 #### Status
 ACCEPTED

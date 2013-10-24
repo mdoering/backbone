@@ -1,5 +1,4 @@
-Parmelia hubrichtii E.C. Berry SPECIES
-=======
+# Parmelia hubrichtii E.C. Berry SPECIES
 
 #### Status
 ACCEPTED

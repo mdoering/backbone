@@ -1,5 +1,4 @@
-Thelephora ozonioides Lib. SPECIES
-=======
+# Thelephora ozonioides Lib. SPECIES
 
 #### Status
 ACCEPTED

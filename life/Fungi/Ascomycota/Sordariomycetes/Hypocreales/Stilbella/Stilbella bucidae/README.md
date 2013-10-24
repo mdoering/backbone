@@ -1,5 +1,4 @@
-Stilbella bucidae R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Stilbella bucidae R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

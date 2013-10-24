@@ -1,5 +1,4 @@
-Agaricus sparsibarbis Berk. & Broome SPECIES
-=======
+# Agaricus sparsibarbis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon speireum Taylor SPECIES
-=======
+# Endocarpon speireum Taylor SPECIES
 
 #### Status
 ACCEPTED

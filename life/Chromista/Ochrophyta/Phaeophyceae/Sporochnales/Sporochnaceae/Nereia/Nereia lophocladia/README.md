@@ -1,5 +1,4 @@
-Nereia lophocladia J. Agardh SPECIES
-=======
+# Nereia lophocladia J. Agardh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurocystis GENUS
-=======
+# Pleurocystis GENUS
 
 #### Status
 ACCEPTED

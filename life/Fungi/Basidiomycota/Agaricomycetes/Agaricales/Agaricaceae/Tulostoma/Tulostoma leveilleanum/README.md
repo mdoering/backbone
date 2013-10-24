@@ -1,5 +1,4 @@
-Tulostoma leveilleanum Gaudich. SPECIES
-=======
+# Tulostoma leveilleanum Gaudich. SPECIES
 
 #### Status
 ACCEPTED

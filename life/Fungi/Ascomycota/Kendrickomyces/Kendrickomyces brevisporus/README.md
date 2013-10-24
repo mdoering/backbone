@@ -1,5 +1,4 @@
-Kendrickomyces brevisporus N.C. Mandal & M.K. Dasgupta SPECIES
-=======
+# Kendrickomyces brevisporus N.C. Mandal & M.K. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus hololeucus subsp. hololeucus SUBSPECIES
-=======
+# Agaricus hololeucus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 3: 122 (1828)
 
 #### Original name
-Agaricus hololeucus subsp. hololeucus
+Agaricus hololeucus Pers.
 
 ### Remarks
 null

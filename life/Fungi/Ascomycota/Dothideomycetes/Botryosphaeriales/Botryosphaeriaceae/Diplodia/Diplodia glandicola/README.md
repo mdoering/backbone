@@ -1,5 +1,4 @@
-Diplodia glandicola Cooke & Ellis SPECIES
-=======
+# Diplodia glandicola Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

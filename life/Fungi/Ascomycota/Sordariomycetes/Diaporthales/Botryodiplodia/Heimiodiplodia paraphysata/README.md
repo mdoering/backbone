@@ -1,5 +1,4 @@
-Heimiodiplodia paraphysata (Ellis & Everh.) Zambett. SPECIES
-=======
+# Heimiodiplodia paraphysata (Ellis & Everh.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

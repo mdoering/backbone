@@ -1,5 +1,4 @@
-Cordyceps carabi Quél. SPECIES
-=======
+# Cordyceps carabi Quél. SPECIES
 
 #### Status
 ACCEPTED

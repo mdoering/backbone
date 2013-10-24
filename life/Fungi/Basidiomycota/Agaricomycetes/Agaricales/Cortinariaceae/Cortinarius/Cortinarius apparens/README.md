@@ -1,5 +1,4 @@
-Cortinarius apparens var. apparens VARIETY
-=======
+# Cortinarius apparens Britzelm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius apparens var. apparens
+Cortinarius apparens Britzelm.
 
 ### Remarks
 null

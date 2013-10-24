@@ -1,5 +1,4 @@
-Cladosporium taphrinae Bubák SPECIES
-=======
+# Cladosporium taphrinae Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis stictostoma (Grove) Grove SPECIES
-=======
+# Phomopsis stictostoma (Grove) Grove SPECIES
 
 #### Status
 ACCEPTED

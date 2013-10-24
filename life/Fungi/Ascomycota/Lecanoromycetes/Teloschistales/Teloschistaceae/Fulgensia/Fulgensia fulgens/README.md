@@ -1,17 +1,16 @@
-Caloplaca fulgens var. fulgens VARIETY
-=======
+# Fulgensia fulgens (Sw.) Elenkin SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. Schles. Ges. Vaterl. Kult. Abth. Naturwiss. 2: 31 (1862)
+Lich. Fl. Ross. Med. 2: no. 246 (1907)
 
 #### Original name
-Caloplaca fulgens var. fulgens
+Lichen fulgens Sw.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia littoralis Rostr. SPECIES
-=======
+# Puccinia littoralis Rostr. SPECIES
 
 #### Status
 ACCEPTED

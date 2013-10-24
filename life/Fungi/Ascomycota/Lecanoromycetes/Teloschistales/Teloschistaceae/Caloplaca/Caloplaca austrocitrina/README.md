@@ -1,5 +1,4 @@
-Caloplaca austrocitrina Vondrák, Ríha, Arup & Søchting SPECIES
-=======
+# Caloplaca austrocitrina Vondrák, Ríha, Arup & Søchting SPECIES
 
 #### Status
 ACCEPTED

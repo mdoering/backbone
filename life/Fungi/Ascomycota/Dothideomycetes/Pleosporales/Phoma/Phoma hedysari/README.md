@@ -1,5 +1,4 @@
-Phoma hedysari Thüm. SPECIES
-=======
+# Phoma hedysari Thüm. SPECIES
 
 #### Status
 ACCEPTED

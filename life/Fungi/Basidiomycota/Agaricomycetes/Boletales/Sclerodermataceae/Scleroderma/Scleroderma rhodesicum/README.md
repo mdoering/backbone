@@ -1,5 +1,4 @@
-Scleroderma rhodesicum Verwoerd SPECIES
-=======
+# Scleroderma rhodesicum Verwoerd SPECIES
 
 #### Status
 ACCEPTED

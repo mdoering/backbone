@@ -1,5 +1,4 @@
-Diacheopsis kowalskii Mar.Mey. & Poulain, 1998 SPECIES
-=======
+# Diacheopsis kowalskii Mar.Mey. & Poulain, 1998 SPECIES
 
 #### Status
 ACCEPTED

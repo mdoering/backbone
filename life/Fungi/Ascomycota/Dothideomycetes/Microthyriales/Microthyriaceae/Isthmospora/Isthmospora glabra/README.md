@@ -1,5 +1,4 @@
-Isthmospora glabra F. Stevens SPECIES
-=======
+# Isthmospora glabra F. Stevens SPECIES
 
 #### Status
 ACCEPTED

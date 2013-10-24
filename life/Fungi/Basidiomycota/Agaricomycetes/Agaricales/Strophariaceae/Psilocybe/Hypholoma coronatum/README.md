@@ -1,5 +1,4 @@
-Hypholoma coronatum Sacc. SPECIES
-=======
+# Hypholoma coronatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

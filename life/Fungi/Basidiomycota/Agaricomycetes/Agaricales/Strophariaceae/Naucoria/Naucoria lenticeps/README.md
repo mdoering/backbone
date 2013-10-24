@@ -1,5 +1,4 @@
-Naucoria lenticeps (Peck) SPECIES
-=======
+# Naucoria lenticeps (Peck) SPECIES
 
 #### Status
 ACCEPTED

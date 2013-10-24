@@ -1,5 +1,4 @@
-Amphileptus carchesii subsp. carchesii SUBSPECIES
-=======
+# Amphileptus carchesii Stein, 1867 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maravalia pressa (Arthur & Holw.) Mains SPECIES
-=======
+# Maravalia pressa (Arthur & Holw.) Mains SPECIES
 
 #### Status
 ACCEPTED

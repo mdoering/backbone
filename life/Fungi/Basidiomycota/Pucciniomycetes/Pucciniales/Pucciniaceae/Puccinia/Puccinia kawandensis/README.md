@@ -1,5 +1,4 @@
-Puccinia kawandensis Cummins SPECIES
-=======
+# Puccinia kawandensis Cummins SPECIES
 
 #### Status
 ACCEPTED

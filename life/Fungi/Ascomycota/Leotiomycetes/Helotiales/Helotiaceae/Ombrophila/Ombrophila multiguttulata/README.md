@@ -1,5 +1,4 @@
-Ombrophila multiguttulata Rick SPECIES
-=======
+# Ombrophila multiguttulata Rick SPECIES
 
 #### Status
 ACCEPTED

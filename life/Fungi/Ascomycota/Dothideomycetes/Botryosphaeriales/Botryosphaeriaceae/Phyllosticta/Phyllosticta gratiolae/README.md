@@ -1,5 +1,4 @@
-Phyllosticta gratiolae Hollós SPECIES
-=======
+# Phyllosticta gratiolae Hollós SPECIES
 
 #### Status
 ACCEPTED

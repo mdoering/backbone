@@ -1,5 +1,4 @@
-Cyanothrixoides V.K. Golovenoc & M.J. Belova, 1985 GENUS
-=======
+# Cyanothrixoides V.K. Golovenoc & M.J. Belova, 1985 GENUS
 
 #### Status
 ACCEPTED

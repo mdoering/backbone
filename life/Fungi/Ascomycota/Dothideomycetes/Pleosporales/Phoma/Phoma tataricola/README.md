@@ -1,5 +1,4 @@
-Phoma tataricola Oudem. SPECIES
-=======
+# Phoma tataricola Oudem. SPECIES
 
 #### Status
 ACCEPTED

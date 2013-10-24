@@ -1,5 +1,4 @@
-Ceratocorys grahamii M. C. Carbonell-Moore SPECIES
-=======
+# Ceratocorys grahamii M. C. Carbonell-Moore SPECIES
 
 #### Status
 ACCEPTED

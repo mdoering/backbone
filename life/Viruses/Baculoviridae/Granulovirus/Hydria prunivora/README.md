@@ -1,5 +1,4 @@
-Hydria prunivora GV SPECIES
-=======
+# Hydria prunivora GV SPECIES
 
 #### Status
 ACCEPTED

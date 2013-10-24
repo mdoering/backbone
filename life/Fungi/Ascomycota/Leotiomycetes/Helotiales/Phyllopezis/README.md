@@ -1,5 +1,4 @@
-Phyllopezis Petr. GENUS
-=======
+# Phyllopezis Petr. GENUS
 
 #### Status
 ACCEPTED

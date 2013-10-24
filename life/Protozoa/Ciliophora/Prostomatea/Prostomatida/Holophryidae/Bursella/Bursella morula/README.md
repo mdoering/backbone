@@ -1,5 +1,4 @@
-Bursella morula SPECIES
-=======
+# Bursella morula SPECIES
 
 #### Status
 ACCEPTED

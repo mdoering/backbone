@@ -1,5 +1,4 @@
-Scolecopeltidium serjaniae Bat. SPECIES
-=======
+# Scolecopeltidium serjaniae Bat. SPECIES
 
 #### Status
 ACCEPTED

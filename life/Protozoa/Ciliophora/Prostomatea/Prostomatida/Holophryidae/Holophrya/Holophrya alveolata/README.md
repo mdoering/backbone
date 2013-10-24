@@ -1,5 +1,4 @@
-Holophrya alveolata (Kahl, 1927) ? SPECIES
-=======
+# Holophrya alveolata (Kahl, 1927) ? SPECIES
 
 #### Status
 ACCEPTED

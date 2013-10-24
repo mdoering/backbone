@@ -1,5 +1,4 @@
-Coprinus subplicatilis Herp. SPECIES
-=======
+# Coprinus subplicatilis Herp. SPECIES
 
 #### Status
 ACCEPTED

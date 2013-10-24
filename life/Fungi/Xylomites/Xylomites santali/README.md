@@ -1,5 +1,4 @@
-Xylomites santali Ettingsh. SPECIES
-=======
+# Xylomites santali Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

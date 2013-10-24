@@ -1,5 +1,4 @@
-Clonostachys pseudostriatopsis Hirooka & Tak. Kobay. SPECIES
-=======
+# Clonostachys pseudostriatopsis Hirooka & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

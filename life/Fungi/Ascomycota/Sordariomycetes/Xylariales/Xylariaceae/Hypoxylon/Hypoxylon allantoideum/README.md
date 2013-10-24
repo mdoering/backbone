@@ -1,5 +1,4 @@
-Hypoxylon allantoideum Cooke, 1879 SPECIES
-=======
+# Hypoxylon allantoideum Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

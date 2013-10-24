@@ -1,5 +1,4 @@
-Phyllosticta alyssae Hollós SPECIES
-=======
+# Phyllosticta alyssae Hollós SPECIES
 
 #### Status
 ACCEPTED

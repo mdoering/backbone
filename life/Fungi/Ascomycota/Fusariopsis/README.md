@@ -1,5 +1,4 @@
-Fusariopsis Horta GENUS
-=======
+# Fusariopsis Horta GENUS
 
 #### Status
 ACCEPTED

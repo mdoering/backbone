@@ -1,5 +1,4 @@
-Halothece californica Margheri, Ventura, Kastovský & Komárek, 2008 SPECIES
-=======
+# Halothece californica Margheri, Ventura, Kastovský & Komárek, 2008 SPECIES
 
 #### Status
 ACCEPTED

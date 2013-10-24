@@ -1,5 +1,4 @@
-Hendersonia martialis Speg. SPECIES
-=======
+# Hendersonia martialis Speg. SPECIES
 
 #### Status
 ACCEPTED

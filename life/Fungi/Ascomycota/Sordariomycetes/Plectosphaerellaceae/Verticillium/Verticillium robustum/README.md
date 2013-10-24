@@ -1,5 +1,4 @@
-Verticillium robustum Preuss SPECIES
-=======
+# Verticillium robustum Preuss SPECIES
 
 #### Status
 ACCEPTED

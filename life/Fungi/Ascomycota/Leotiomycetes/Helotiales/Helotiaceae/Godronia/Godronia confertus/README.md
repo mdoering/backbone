@@ -1,5 +1,4 @@
-Godronia confertus (D.S. Hone) J.W. Groves SPECIES
-=======
+# Godronia confertus (D.S. Hone) J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

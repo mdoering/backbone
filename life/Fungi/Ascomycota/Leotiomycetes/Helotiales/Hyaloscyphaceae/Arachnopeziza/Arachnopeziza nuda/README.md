@@ -1,5 +1,4 @@
-Arachnopeziza nuda Korf SPECIES
-=======
+# Arachnopeziza nuda Korf SPECIES
 
 #### Status
 ACCEPTED

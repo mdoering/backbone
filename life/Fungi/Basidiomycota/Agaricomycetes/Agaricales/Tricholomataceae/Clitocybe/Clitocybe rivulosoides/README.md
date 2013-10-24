@@ -1,5 +1,4 @@
-Clitocybe rivulosoides Raithelh. SPECIES
-=======
+# Clitocybe rivulosoides Raithelh. SPECIES
 
 #### Status
 ACCEPTED

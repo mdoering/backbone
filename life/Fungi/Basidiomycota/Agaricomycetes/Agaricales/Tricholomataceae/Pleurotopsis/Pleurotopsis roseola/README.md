@@ -1,14 +1,13 @@
-Panellus roseolus G. Stev., 1964 SPECIES
-=======
+# Pleurotopsis roseola (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 19(1): 28 (1964)
+N. Z. Jl Bot. 9(3): 450 (1971)
 
 #### Original name
 Panellus roseolus G. Stev., 1964

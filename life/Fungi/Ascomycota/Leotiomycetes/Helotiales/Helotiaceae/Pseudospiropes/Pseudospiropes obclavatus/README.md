@@ -1,5 +1,4 @@
-Pseudospiropes obclavatus M.B. Ellis, 1976 SPECIES
-=======
+# Pseudospiropes obclavatus M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

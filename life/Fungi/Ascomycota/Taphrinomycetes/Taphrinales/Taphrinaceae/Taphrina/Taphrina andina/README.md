@@ -1,5 +1,4 @@
-Taphrina andina Palm SPECIES
-=======
+# Taphrina andina Palm SPECIES
 
 #### Status
 ACCEPTED

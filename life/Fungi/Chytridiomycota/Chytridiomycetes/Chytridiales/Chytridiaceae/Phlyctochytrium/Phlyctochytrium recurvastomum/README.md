@@ -1,5 +1,4 @@
-Phlyctochytrium recurvastomum J.S. Knox & R.A. Paterson SPECIES
-=======
+# Phlyctochytrium recurvastomum J.S. Knox & R.A. Paterson SPECIES
 
 #### Status
 ACCEPTED

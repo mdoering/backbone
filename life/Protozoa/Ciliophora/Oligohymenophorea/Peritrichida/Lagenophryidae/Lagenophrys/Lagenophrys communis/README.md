@@ -1,5 +1,4 @@
-Lagenophrys communis Kane, 1965 SPECIES
-=======
+# Lagenophrys communis Kane, 1965 SPECIES
 
 #### Status
 ACCEPTED

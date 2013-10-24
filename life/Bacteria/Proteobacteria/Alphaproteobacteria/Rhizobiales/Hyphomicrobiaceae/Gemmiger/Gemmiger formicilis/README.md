@@ -1,5 +1,4 @@
-Gemmiger formicilis Gossling and Moore, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Gemmiger formicilis Gossling and Moore, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

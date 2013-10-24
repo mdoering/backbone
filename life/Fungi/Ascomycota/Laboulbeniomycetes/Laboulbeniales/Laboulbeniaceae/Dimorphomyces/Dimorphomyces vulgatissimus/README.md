@@ -1,5 +1,4 @@
-Dimorphomyces vulgatissimus Speg. SPECIES
-=======
+# Dimorphomyces vulgatissimus Speg. SPECIES
 
 #### Status
 ACCEPTED

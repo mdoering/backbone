@@ -1,5 +1,4 @@
-Tepidimicrobium ferriphilum Slobodkin et al., 2006 SPECIES
-=======
+# Tepidimicrobium ferriphilum Slobodkin et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

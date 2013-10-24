@@ -1,5 +1,4 @@
-Tintinnopsis cochleata Brandt, 1906 SPECIES
-=======
+# Tintinnopsis cochleata Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

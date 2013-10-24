@@ -1,5 +1,4 @@
-Uredo caricis-rhodesiacae Gjaerum SPECIES
-=======
+# Uredo caricis-rhodesiacae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

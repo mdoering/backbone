@@ -1,5 +1,4 @@
-Cercospora ambrosiae Chupp SPECIES
-=======
+# Cercospora ambrosiae Chupp SPECIES
 
 #### Status
 ACCEPTED

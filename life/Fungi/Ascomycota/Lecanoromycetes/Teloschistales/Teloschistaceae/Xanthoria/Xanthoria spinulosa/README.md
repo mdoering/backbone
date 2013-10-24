@@ -1,5 +1,4 @@
-Xanthoria spinulosa (Kremp.) Hillmann SPECIES
-=======
+# Xanthoria spinulosa (Kremp.) Hillmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithogromia Haeckel, 1879 GENUS
-=======
+# Lithogromia Haeckel, 1879 GENUS
 
 #### Status
 ACCEPTED

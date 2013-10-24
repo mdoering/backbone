@@ -1,5 +1,4 @@
-Sphaeria albocrustata Schwein. SPECIES
-=======
+# Sphaeria albocrustata Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphales H. Gwynne-Vaughan ORDER
-=======
+# Erysiphales H. Gwynne-Vaughan ORDER
 
 #### Status
 ACCEPTED

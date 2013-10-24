@@ -1,5 +1,4 @@
-Phoma comari Jaap SPECIES
-=======
+# Phoma comari Jaap SPECIES
 
 #### Status
 ACCEPTED

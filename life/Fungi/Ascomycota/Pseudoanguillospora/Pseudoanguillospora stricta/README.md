@@ -1,5 +1,4 @@
-Pseudoanguillospora stricta S.H. Iqbal, 1974 SPECIES
-=======
+# Pseudoanguillospora stricta S.H. Iqbal, 1974 SPECIES
 
 #### Status
 ACCEPTED

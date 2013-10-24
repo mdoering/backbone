@@ -1,5 +1,4 @@
-Sargassum velasquezii G.C. Trono SPECIES
-=======
+# Sargassum velasquezii G.C. Trono SPECIES
 
 #### Status
 ACCEPTED

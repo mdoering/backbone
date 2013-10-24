@@ -1,5 +1,4 @@
-Paxillus retiarius Berk. SPECIES
-=======
+# Paxillus retiarius Berk. SPECIES
 
 #### Status
 ACCEPTED

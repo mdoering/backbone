@@ -1,8 +1,7 @@
-Parahistioneis diomedeae (Kofoid & Michener) Kofoid & Swezy SPECIES
-=======
+# Histioneis diomedeae Kofoid & Michener SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

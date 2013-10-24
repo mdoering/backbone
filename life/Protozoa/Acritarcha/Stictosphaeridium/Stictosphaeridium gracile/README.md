@@ -1,5 +1,4 @@
-Stictosphaeridium gracile Piskun, 1976 SPECIES
-=======
+# Stictosphaeridium gracile Piskun, 1976 SPECIES
 
 #### Status
 ACCEPTED

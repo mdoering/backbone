@@ -1,5 +1,4 @@
-Polyhyphaethyrites R. Srivast. & R.K. Kar GENUS
-=======
+# Polyhyphaethyrites R. Srivast. & R.K. Kar GENUS
 
 #### Status
 ACCEPTED

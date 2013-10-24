@@ -1,5 +1,4 @@
-Clavulinopsis aurantia (Cooke & Massee) Bougher & K. Syme SPECIES
-=======
+# Clavulinopsis aurantia (Cooke & Massee) Bougher & K. Syme SPECIES
 
 #### Status
 ACCEPTED

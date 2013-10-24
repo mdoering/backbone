@@ -1,5 +1,4 @@
-Nesterenkonia aethiopica Delgado et al., 2006 SPECIES
-=======
+# Nesterenkonia aethiopica Delgado et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus heinemannii Albertó & G. Moreno SPECIES
-=======
+# Agaricus heinemannii Albertó & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

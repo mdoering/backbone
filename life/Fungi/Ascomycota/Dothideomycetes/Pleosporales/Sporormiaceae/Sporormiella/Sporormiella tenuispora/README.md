@@ -1,5 +1,4 @@
-Sporormiella tenuispora R.S. Khan & Cain SPECIES
-=======
+# Sporormiella tenuispora R.S. Khan & Cain SPECIES
 
 #### Status
 ACCEPTED

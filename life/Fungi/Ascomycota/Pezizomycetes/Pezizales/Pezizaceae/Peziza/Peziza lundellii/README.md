@@ -1,17 +1,16 @@
-Peziza lundelii Donadini SPECIES
-=======
+# Peziza lundellii Donadini SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 12(no. 46): 2 (1982)
 
 #### Original name
-Peziza lundelii Donadini
+Peziza lundellii Donadini
 
 ### Remarks
 null

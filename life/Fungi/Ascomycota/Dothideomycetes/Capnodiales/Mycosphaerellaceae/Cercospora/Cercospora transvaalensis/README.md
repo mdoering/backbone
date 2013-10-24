@@ -1,5 +1,4 @@
-Cercospora transvaalensis Syd. SPECIES
-=======
+# Cercospora transvaalensis Syd. SPECIES
 
 #### Status
 ACCEPTED

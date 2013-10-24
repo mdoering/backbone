@@ -1,5 +1,4 @@
-Pyrenula hibernica (Nyl.) Aptroot, 2003 SPECIES
-=======
+# Pyrenula hibernica (Nyl.) Aptroot, 2003 SPECIES
 
 #### Status
 ACCEPTED

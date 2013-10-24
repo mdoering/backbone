@@ -1,5 +1,4 @@
-Amphidinium coeruluem Conrad SPECIES
-=======
+# Amphidinium coeruluem Conrad SPECIES
 
 #### Status
 ACCEPTED

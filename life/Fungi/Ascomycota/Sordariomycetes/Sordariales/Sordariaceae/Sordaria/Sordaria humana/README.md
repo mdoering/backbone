@@ -1,14 +1,13 @@
-Asordaria humana (Fuckel) Arx & Guarro, 1987 SPECIES
-=======
+# Sordaria humana (Fuckel) G. Winter, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in von Arx, Guarro & van der Aa, Persoonia 13(3): 268 (1987)
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(2): 166 (1885)
 
 #### Original name
 Sphaeria humana Fuckel, 1867

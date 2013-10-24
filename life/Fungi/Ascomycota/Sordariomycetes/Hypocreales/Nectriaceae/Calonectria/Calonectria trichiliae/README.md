@@ -1,5 +1,4 @@
-Calonectria trichiliae Rehm SPECIES
-=======
+# Calonectria trichiliae Rehm SPECIES
 
 #### Status
 ACCEPTED

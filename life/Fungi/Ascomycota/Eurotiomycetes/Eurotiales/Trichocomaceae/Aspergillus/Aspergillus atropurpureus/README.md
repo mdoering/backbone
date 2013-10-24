@@ -1,5 +1,4 @@
-Aspergillus atropurpureus Zimm. SPECIES
-=======
+# Aspergillus atropurpureus Zimm. SPECIES
 
 #### Status
 ACCEPTED

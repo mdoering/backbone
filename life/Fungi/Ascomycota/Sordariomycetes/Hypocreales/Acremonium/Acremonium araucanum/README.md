@@ -1,5 +1,4 @@
-Acremonium araucanum Speg. SPECIES
-=======
+# Acremonium araucanum Speg. SPECIES
 
 #### Status
 ACCEPTED

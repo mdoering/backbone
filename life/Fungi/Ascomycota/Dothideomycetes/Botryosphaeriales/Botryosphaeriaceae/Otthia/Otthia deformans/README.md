@@ -1,5 +1,4 @@
-Otthia deformans Pat. SPECIES
-=======
+# Otthia deformans Pat. SPECIES
 
 #### Status
 ACCEPTED

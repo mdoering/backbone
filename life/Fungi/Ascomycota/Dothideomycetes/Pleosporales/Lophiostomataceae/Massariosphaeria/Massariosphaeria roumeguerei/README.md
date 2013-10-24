@@ -1,14 +1,13 @@
-Metasphaeria roumegueri (Sacc.) Sacc. SPECIES
-=======
+# Massariosphaeria roumeguerei (Sacc.) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 37: 173 (1984)
 
 #### Original name
 Leptosphaeria roumeguerei Sacc.

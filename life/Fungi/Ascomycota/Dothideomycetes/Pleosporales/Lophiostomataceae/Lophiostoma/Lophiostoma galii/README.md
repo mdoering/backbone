@@ -1,5 +1,4 @@
-Lophiostoma galii Nitschke SPECIES
-=======
+# Lophiostoma galii Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina eupatorii A.K. Kar & S.N. Ghosh SPECIES
-=======
+# Asterina eupatorii A.K. Kar & S.N. Ghosh SPECIES
 
 #### Status
 ACCEPTED

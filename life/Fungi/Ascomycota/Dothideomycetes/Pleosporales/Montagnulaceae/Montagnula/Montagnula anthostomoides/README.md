@@ -1,17 +1,16 @@
-Heptameria anthostomoides (Rehm) Cooke, 1889 SPECIES
-=======
+# Montagnula anthostomoides (Rehm) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 37: 175 (1984)
 
 #### Original name
-null
+Leptosphaeria anthostomoides Rehm
 
 ### Remarks
 null

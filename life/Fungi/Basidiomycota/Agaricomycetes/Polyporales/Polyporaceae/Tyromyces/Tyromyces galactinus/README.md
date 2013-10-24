@@ -1,17 +1,16 @@
-Polyporus iowensis Lloyd, 1925 SPECIES
-=======
+# Tyromyces galactinus (Berk.) J. Lowe, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1363 (1925)
+Mycotaxon 2(1): 17 (1975)
 
 #### Original name
-Polyporus iowensis Lloyd, 1925
+Polyporus galactinus Berk., 1847
 
 ### Remarks
 null

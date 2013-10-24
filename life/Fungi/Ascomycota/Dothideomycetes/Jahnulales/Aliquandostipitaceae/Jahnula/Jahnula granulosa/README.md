@@ -1,5 +1,4 @@
-Jahnula granulosa K.D. Hyde & S.W. Wong SPECIES
-=======
+# Jahnula granulosa K.D. Hyde & S.W. Wong SPECIES
 
 #### Status
 ACCEPTED

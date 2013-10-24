@@ -1,5 +1,4 @@
-Chorostate inornata (Peck) Sacc. SPECIES
-=======
+# Chorostate inornata (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

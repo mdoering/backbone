@@ -1,14 +1,13 @@
-Sphaerella ligustri (Roberge ex Desm.) Cooke, 1871 SPECIES
-=======
+# Mycosphaerella ligustri (Roberge ex Desm.) Lindau, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handbook of British Fungi 2: no. 2760 (1871)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 424 (1897)
 
 #### Original name
 Depazea ligustri Desm., 1800

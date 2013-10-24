@@ -1,5 +1,4 @@
-Agaricus perforatus J. Otto SPECIES
-=======
+# Agaricus perforatus J. Otto SPECIES
 
 #### Status
 ACCEPTED

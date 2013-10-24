@@ -1,5 +1,4 @@
-Septoria lepidii Desm., 1842 SPECIES
-=======
+# Septoria lepidii Desm., 1842 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium efibulatum (M.J. Larsen & Nakasone) M.J. Larsen, 1990 SPECIES
-=======
+# Corticium efibulatum (M.J. Larsen & Nakasone) M.J. Larsen, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium galactis Henn. SPECIES
-=======
+# Gloeosporium galactis Henn. SPECIES
 
 #### Status
 ACCEPTED

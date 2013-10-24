@@ -1,5 +1,4 @@
-Meliola petchii Hansf. SPECIES
-=======
+# Meliola petchii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hoehnelomyces macrosporus (Penz. & Sacc.) Boedijn, 1958 SPECIES
-=======
+# Atractiella macrospora (Penz. & Sacc.) R.T. Moore, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Donk, Taxon 7: 164 (1958)
+Stud. Mycol. 30: 216 (1987)
 
 #### Original name
 Sphaeronaemella macrospora Penz. & Sacc., 1904

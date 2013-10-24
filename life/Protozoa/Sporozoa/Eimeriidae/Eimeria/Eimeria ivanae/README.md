@@ -1,5 +1,4 @@
-Eimeria ivanae Lom & Dyková, 1981 SPECIES
-=======
+# Eimeria ivanae Lom & Dyková, 1981 SPECIES
 
 #### Status
 ACCEPTED

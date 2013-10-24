@@ -1,5 +1,4 @@
-Diatrype albiziae Rehm SPECIES
-=======
+# Diatrype albiziae Rehm SPECIES
 
 #### Status
 ACCEPTED

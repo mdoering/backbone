@@ -1,17 +1,16 @@
-Hypogymnia duplicata f. duplicata FORM
-=======
+# Hypogymnia duplicata (Ach.) Rass. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Hypogymnia duplicata f. duplicata
+Lichen duplicatus Sm.
 
 ### Remarks
 null

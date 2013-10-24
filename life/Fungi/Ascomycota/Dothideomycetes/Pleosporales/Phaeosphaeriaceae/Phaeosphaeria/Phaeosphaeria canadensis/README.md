@@ -1,5 +1,4 @@
-Phaeosphaeria canadensis Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria canadensis Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

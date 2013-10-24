@@ -1,5 +1,4 @@
-Anthracothecium pseudohimalayense Ajay Singh SPECIES
-=======
+# Anthracothecium pseudohimalayense Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

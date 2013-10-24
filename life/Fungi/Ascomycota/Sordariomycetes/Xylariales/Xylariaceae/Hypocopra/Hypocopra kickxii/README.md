@@ -1,5 +1,4 @@
-Hypocopra kickxii (March.) Kuntze SPECIES
-=======
+# Hypocopra kickxii (March.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

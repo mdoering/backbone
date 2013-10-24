@@ -1,5 +1,4 @@
-Astrosporina lasseroides E. Horak SPECIES
-=======
+# Astrosporina lasseroides E. Horak SPECIES
 
 #### Status
 ACCEPTED

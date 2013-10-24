@@ -1,5 +1,4 @@
-Cercospora ailanthicola Patw. SPECIES
-=======
+# Cercospora ailanthicola Patw. SPECIES
 
 #### Status
 ACCEPTED

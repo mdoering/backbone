@@ -1,5 +1,4 @@
-Verrucaria elegantaria Zehetl. SPECIES
-=======
+# Verrucaria elegantaria Zehetl. SPECIES
 
 #### Status
 ACCEPTED

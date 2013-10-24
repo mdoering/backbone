@@ -1,5 +1,4 @@
-Stemonitis heterospora Oudem. SPECIES
-=======
+# Stemonitis heterospora Oudem. SPECIES
 
 #### Status
 ACCEPTED

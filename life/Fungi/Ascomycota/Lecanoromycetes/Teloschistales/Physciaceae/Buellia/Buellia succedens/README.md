@@ -1,14 +1,13 @@
-Lecanora sophodes var. succedens Nyl. VARIETY
-=======
+# Buellia succedens (Nyl.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 53: 479 (1870)
 
 #### Original name
 Lecanora sophodes var. succedens Nyl.

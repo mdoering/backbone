@@ -1,5 +1,4 @@
-Sphaeria obtusissima Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria obtusissima Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

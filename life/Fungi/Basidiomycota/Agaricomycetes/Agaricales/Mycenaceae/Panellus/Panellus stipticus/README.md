@@ -1,17 +1,16 @@
-Agaricus stipticus var. stipticus VARIETY
-=======
+# Panellus stipticus (Bull.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rysslands, Finlands och den Skandinaviska Halföns. Hattsvampar 14: fig. 172 (1879)
 
 #### Original name
-null
+Agaricus stipticus Bull., 1783
 
 ### Remarks
 null

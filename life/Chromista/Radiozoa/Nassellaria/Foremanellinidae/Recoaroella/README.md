@@ -1,5 +1,4 @@
-Recoaroella Dumitrica, 1982 GENUS
-=======
+# Recoaroella Dumitrica, 1982 GENUS
 
 #### Status
 ACCEPTED

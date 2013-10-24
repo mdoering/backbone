@@ -1,5 +1,4 @@
-Pyrenula deprimens (C. Knight) D.J. Galloway SPECIES
-=======
+# Pyrenula deprimens (C. Knight) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

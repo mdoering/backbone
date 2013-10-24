@@ -1,14 +1,13 @@
-Corynascus heterothallicus (Klopotek) Arx, 1984 SPECIES
-=======
+# Thielavia heterothallica Klopotek, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in von Arx, Dreyfuss & Müller, Persoonia 12(2): 174 (1984)
+Arch. Mikrobiol. 107(2): 223 (1976)
 
 #### Original name
 Thielavia heterothallica Klopotek, 1976

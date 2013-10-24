@@ -1,5 +1,4 @@
-Curvularia protuberata R.R. Nelson & Hodges, 1965 SPECIES
-=======
+# Curvularia protuberata R.R. Nelson & Hodges, 1965 SPECIES
 
 #### Status
 ACCEPTED

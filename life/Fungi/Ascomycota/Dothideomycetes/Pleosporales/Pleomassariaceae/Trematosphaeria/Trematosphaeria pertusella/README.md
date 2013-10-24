@@ -1,5 +1,4 @@
-Trematosphaeria pertusella Sacc. SPECIES
-=======
+# Trematosphaeria pertusella Sacc. SPECIES
 
 #### Status
 ACCEPTED

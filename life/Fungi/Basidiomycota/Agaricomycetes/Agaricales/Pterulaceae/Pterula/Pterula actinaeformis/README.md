@@ -1,5 +1,4 @@
-Pterula actinaeformis (Berk.) Lloyd SPECIES
-=======
+# Pterula actinaeformis (Berk.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

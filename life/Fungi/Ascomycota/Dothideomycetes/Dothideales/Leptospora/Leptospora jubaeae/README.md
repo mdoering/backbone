@@ -1,5 +1,4 @@
-Leptospora jubaeae Speg. SPECIES
-=======
+# Leptospora jubaeae Speg. SPECIES
 
 #### Status
 ACCEPTED

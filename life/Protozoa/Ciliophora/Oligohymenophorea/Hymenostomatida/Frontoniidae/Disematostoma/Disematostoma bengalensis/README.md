@@ -1,5 +1,4 @@
-Disematostoma bengalensis SPECIES
-=======
+# Disematostoma bengalensis SPECIES
 
 #### Status
 ACCEPTED

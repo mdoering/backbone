@@ -1,5 +1,4 @@
-Methanosarcina semesiae Lyimo et al., 2000 SPECIES
-=======
+# Methanosarcina semesiae Lyimo et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

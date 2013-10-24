@@ -1,5 +1,4 @@
-Neournula nordmanensis Paden & Tylutki, 1969 SPECIES
-=======
+# Neournula nordmanensis Paden & Tylutki, 1969 SPECIES
 
 #### Status
 ACCEPTED

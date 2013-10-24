@@ -1,5 +1,4 @@
-Haemogregarina leptoscopi Laird, 1952 SPECIES
-=======
+# Haemogregarina leptoscopi Laird, 1952 SPECIES
 
 #### Status
 ACCEPTED

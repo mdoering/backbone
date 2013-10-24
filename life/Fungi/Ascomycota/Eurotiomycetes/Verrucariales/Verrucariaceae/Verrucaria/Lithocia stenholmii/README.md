@@ -1,5 +1,4 @@
-Lithocia stenholmii M. Choisy SPECIES
-=======
+# Lithocia stenholmii M. Choisy SPECIES
 
 #### Status
 ACCEPTED

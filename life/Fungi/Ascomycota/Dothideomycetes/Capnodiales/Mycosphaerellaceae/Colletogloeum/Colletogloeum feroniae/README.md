@@ -1,5 +1,4 @@
-Colletogloeum feroniae (T.S. Ramakr. & K. Ramakr.) B. Sutton SPECIES
-=======
+# Colletogloeum feroniae (T.S. Ramakr. & K. Ramakr.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

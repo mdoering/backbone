@@ -1,5 +1,4 @@
-Haemophilus felis Inzana et al., 1999 SPECIES
-=======
+# Haemophilus felis Inzana et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

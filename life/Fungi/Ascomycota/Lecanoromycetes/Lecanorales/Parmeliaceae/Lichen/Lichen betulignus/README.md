@@ -1,5 +1,4 @@
-Lichen betulignus (Ach.) Ach. SPECIES
-=======
+# Lichen betulignus (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

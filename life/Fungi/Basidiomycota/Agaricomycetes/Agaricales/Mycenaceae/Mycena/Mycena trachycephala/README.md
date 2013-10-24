@@ -1,5 +1,4 @@
-Mycena trachycephala (F. Muell. & Kalchbr.) Sacc. SPECIES
-=======
+# Mycena trachycephala (F. Muell. & Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

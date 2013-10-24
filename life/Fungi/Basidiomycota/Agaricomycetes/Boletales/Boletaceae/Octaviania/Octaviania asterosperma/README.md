@@ -1,17 +1,16 @@
-Octaviania asterosperma f. mutabilis Vacek FORM
-=======
+# Octaviania asterosperma Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Tuberac. (Milano) 17 (1831)
 
 #### Original name
-Octaviania asterosperma f. mutabilis Vacek
+Octaviania asterosperma Vittad., 1831
 
 ### Remarks
 null

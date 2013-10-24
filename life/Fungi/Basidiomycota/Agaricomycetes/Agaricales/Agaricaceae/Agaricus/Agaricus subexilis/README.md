@@ -1,5 +1,4 @@
-Agaricus subexilis Peck SPECIES
-=======
+# Agaricus subexilis Peck SPECIES
 
 #### Status
 ACCEPTED

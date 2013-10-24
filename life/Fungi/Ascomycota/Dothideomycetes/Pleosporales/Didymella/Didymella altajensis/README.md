@@ -1,5 +1,4 @@
-Didymella altajensis Petr. SPECIES
-=======
+# Didymella altajensis Petr. SPECIES
 
 #### Status
 ACCEPTED

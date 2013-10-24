@@ -1,5 +1,4 @@
-Pyrenula clandestina Fée SPECIES
-=======
+# Pyrenula clandestina Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophyllosticta borziana (Scalia) M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta borziana (Scalia) M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

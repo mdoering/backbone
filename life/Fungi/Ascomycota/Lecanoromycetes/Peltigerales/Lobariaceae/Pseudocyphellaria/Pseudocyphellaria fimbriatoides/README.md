@@ -1,5 +1,4 @@
-Pseudocyphellaria fimbriatoides D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria fimbriatoides D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

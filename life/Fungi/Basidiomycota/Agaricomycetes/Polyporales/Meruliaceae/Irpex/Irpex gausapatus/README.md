@@ -1,5 +1,4 @@
-Irpex gausapatus Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Irpex gausapatus Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

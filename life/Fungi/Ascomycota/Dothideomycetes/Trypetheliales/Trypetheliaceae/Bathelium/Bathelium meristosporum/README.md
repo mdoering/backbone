@@ -1,5 +1,4 @@
-Bathelium meristosporum Mont. & Bosch SPECIES
-=======
+# Bathelium meristosporum Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

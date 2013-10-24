@@ -1,5 +1,4 @@
-Leotia exigua Schwein. SPECIES
-=======
+# Leotia exigua Schwein. SPECIES
 
 #### Status
 ACCEPTED

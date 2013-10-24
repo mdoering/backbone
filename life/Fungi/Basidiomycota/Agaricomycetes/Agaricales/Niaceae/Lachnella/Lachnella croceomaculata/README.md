@@ -1,5 +1,4 @@
-Lachnella croceomaculata Höhn. SPECIES
-=======
+# Lachnella croceomaculata Höhn. SPECIES
 
 #### Status
 ACCEPTED

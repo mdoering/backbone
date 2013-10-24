@@ -1,17 +1,16 @@
-Nectria mammoidea var. minor Reinking VARIETY
-=======
+# Nectria mammoidea W. Phillips & Plowr., 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 3(no. 27): 126 (1875)
 
 #### Original name
-Nectria mammoidea var. minor Reinking
+Nectria mammoidea W. Phillips & Plowr., 1875
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Laboulbenia olivaceae Thaxter SPECIES
-=======
+# Laboulbenia olivaceae Thaxter SPECIES
 
 #### Status
 ACCEPTED

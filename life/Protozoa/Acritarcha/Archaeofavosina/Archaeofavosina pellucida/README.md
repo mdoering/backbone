@@ -1,5 +1,4 @@
-Archaeofavosina pellucida Salujha, Rehman & Arora, 1972 SPECIES
-=======
+# Archaeofavosina pellucida Salujha, Rehman & Arora, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hyperamminella Cushman & Waters, 1928 GENUS
-=======
+# Hyperamminoides Cushman & Waters, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Contr. Cushman Lab. Foraminif. , 4, 36, 37.
+Contr. Cushman Lab. Foraminif. , 4, 112.
 
 #### Original name
-null
+Hyperamminella Cushman & Waters, 1928
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora thelotremoides Nyl. SPECIES
-=======
+# Lecanora thelotremoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

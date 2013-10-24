@@ -1,5 +1,4 @@
-Vasicola ciliata Tatem, 1869 SPECIES
-=======
+# Vasicola ciliata Tatem, 1869 SPECIES
 
 #### Status
 ACCEPTED

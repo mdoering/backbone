@@ -1,5 +1,4 @@
-Phyllopsora melanoglauca Zahlbr. SPECIES
-=======
+# Phyllopsora melanoglauca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

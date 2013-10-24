@@ -1,5 +1,4 @@
-Cercospora prolificans Ellis & Holw. SPECIES
-=======
+# Cercospora prolificans Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

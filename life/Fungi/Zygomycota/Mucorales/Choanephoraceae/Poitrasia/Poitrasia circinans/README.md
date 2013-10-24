@@ -1,17 +1,16 @@
-Abradeosporangium variosporum Subrahm. & Swathi Sri, 2010 SPECIES
-=======
+# Poitrasia circinans (H. Nagan. & N. Kawak.) P.M. Kirk, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 152: 52 (1984)
 
 #### Original name
-null
+Blakeslea circinans H. Nagan. & N. Kawak., 1955
 
 ### Remarks
 null

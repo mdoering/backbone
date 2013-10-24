@@ -1,8 +1,7 @@
-Pseudohelotium fairmani (Ellis & Everh.) Sacc. SPECIES
-=======
+# Pseudohelotium fairmanii (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

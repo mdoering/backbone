@@ -1,5 +1,4 @@
-Hanzawaia convexa Ho, Hu, & Wang SPECIES
-=======
+# Hanzawaia convexa Ho, Hu, & Wang SPECIES
 
 #### Status
 ACCEPTED

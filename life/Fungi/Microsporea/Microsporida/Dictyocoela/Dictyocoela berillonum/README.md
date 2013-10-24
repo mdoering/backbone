@@ -1,5 +1,4 @@
-Dictyocoela berillonum SPECIES
-=======
+# Dictyocoela berillonum SPECIES
 
 #### Status
 ACCEPTED

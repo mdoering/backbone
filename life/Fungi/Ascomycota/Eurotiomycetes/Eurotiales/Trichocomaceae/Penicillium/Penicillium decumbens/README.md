@@ -1,17 +1,16 @@
-Penicillium decumbens var. atrovirens S. Abe VARIETY
-=======
+# Penicillium decumbens Thom, 1910 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. gen. appl. Microbiol. , Tokyo 2: 70 (1956)
+Bulletin of the U. S. Department of Agriculture, Bureau Animal Industry 181: 71 (1910)
 
 #### Original name
-Penicillium decumbens var. atrovirens S. Abe
+Penicillium decumbens Thom, 1910
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora sorediza Lynge SPECIES
-=======
+# Lecanora sorediza Lynge SPECIES
 
 #### Status
 ACCEPTED

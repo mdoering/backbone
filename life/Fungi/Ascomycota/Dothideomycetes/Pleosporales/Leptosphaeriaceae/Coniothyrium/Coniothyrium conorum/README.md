@@ -1,17 +1,16 @@
-Coniothyrium conorum f. conorum Sacc. & Roum. FORM
-=======
+# Coniothyrium conorum Sacc. & Roum., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Coniothyrium conorum f. conorum Sacc. & Roum.
+Coniothyrium conorum Sacc. & Roum., 1882
 
 ### Remarks
 null

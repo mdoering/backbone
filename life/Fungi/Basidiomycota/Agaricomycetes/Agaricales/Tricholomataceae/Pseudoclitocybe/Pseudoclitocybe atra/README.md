@@ -1,5 +1,4 @@
-Pseudoclitocybe atra (Velen.) Harmaja SPECIES
-=======
+# Pseudoclitocybe atra (Velen.) Harmaja SPECIES
 
 #### Status
 ACCEPTED

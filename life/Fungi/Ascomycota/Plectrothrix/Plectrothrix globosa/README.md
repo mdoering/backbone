@@ -1,5 +1,4 @@
-Plectrothrix globosa Shear, 1902 SPECIES
-=======
+# Plectrothrix globosa Shear, 1902 SPECIES
 
 #### Status
 ACCEPTED

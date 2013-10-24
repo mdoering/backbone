@@ -1,5 +1,4 @@
-Mycena horizontalis Velen. SPECIES
-=======
+# Mycena horizontalis Velen. SPECIES
 
 #### Status
 ACCEPTED

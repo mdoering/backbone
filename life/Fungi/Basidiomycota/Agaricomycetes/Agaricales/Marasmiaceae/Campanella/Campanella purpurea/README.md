@@ -1,5 +1,4 @@
-Campanella purpurea (Berk. & M.A. Curtis) Lloyd SPECIES
-=======
+# Campanella purpurea (Berk. & M.A. Curtis) Lloyd SPECIES
 
 #### Status
 ACCEPTED

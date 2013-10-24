@@ -1,5 +1,4 @@
-Cytospora schizandrae Ablak. & Koval SPECIES
-=======
+# Cytospora schizandrae Ablak. & Koval SPECIES
 
 #### Status
 ACCEPTED

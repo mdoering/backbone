@@ -1,5 +1,4 @@
-Sarcogyne incrassata (Arnold) Oxner SPECIES
-=======
+# Sarcogyne incrassata (Arnold) Oxner SPECIES
 
 #### Status
 ACCEPTED

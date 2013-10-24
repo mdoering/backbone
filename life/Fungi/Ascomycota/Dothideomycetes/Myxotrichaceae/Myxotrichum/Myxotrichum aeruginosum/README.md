@@ -1,5 +1,4 @@
-Myxotrichum aeruginosum Mont., 1836 SPECIES
-=======
+# Myxotrichum aeruginosum Mont., 1836 SPECIES
 
 #### Status
 ACCEPTED

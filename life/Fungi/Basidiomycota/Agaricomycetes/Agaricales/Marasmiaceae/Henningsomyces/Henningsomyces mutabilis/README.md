@@ -1,5 +1,4 @@
-Henningsomyces mutabilis Agerer, 1973 SPECIES
-=======
+# Henningsomyces mutabilis Agerer, 1973 SPECIES
 
 #### Status
 ACCEPTED

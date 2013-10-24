@@ -1,5 +1,4 @@
-Schillerochloris J.Ruinen GENUS
-=======
+# Schillerochloris J.Ruinen GENUS
 
 #### Status
 ACCEPTED

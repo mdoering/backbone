@@ -1,5 +1,4 @@
-Antameron GENUS
-=======
+# Antameron GENUS
 
 #### Status
 ACCEPTED

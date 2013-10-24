@@ -1,5 +1,4 @@
-Calonectria gymnosporangii Jaap SPECIES
-=======
+# Calonectria gymnosporangii Jaap SPECIES
 
 #### Status
 ACCEPTED

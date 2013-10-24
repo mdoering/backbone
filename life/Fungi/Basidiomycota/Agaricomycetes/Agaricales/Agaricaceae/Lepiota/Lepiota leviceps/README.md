@@ -1,5 +1,4 @@
-Lepiota leviceps Speg. SPECIES
-=======
+# Lepiota leviceps Speg. SPECIES
 
 #### Status
 ACCEPTED

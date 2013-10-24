@@ -1,5 +1,4 @@
-Streptomyces yunnanensis Zhang et al., 2003 SPECIES
-=======
+# Streptomyces yunnanensis Zhang et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

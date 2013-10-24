@@ -1,5 +1,4 @@
-Exoascus sorbi Jacz. SPECIES
-=======
+# Exoascus sorbi Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus laqueatus Fr. SPECIES
-=======
+# Agaricus laqueatus Fr. SPECIES
 
 #### Status
 ACCEPTED

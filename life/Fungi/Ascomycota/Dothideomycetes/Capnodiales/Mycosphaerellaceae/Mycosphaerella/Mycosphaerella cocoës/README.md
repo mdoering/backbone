@@ -1,14 +1,13 @@
-Mycosphaerella cocoes (Rehm) J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Mycosphaerella cocoës (Rehm) J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 50(2): 173 (1998)
 
 #### Original name
 Mycosphaerella bambusae var. cocoës Rehm

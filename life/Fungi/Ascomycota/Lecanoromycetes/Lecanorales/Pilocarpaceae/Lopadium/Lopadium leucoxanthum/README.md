@@ -1,5 +1,4 @@
-Lopadium leucoxanthum f. leucoxanthum FORM
-=======
+# Lopadium leucoxanthum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 111(1): 398 (1902)
+null
 
 #### Original name
-Lopadium leucoxanthum f. leucoxanthum
+null
 
 ### Remarks
 null

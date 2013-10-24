@@ -1,5 +1,4 @@
-Dermocybe polaris (Høil.) N. Arnold SPECIES
-=======
+# Dermocybe polaris (Høil.) N. Arnold SPECIES
 
 #### Status
 ACCEPTED

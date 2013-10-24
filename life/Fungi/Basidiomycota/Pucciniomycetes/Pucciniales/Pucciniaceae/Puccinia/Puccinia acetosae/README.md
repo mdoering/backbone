@@ -1,17 +1,16 @@
-Puccinia acetosae f. rumicicola Gonz. Frag. FORM
-=======
+# Puccinia acetosae Barclay SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trabajos del Museos Nacional de Ciencias Naturales, Seria Botanica 3: 21 (1914)
+null
 
 #### Original name
-Puccinia acetosae f. rumicicola Gonz. Frag.
+Puccinia acetosae Barclay
 
 ### Remarks
 null

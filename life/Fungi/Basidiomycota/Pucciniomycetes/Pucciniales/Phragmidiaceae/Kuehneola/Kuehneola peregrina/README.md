@@ -1,5 +1,4 @@
-Kuehneola peregrina Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Kuehneola peregrina Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

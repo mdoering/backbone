@@ -1,5 +1,4 @@
-Tuber alatum Corda SPECIES
-=======
+# Tuber alatum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis prunastis (Fuckel) Rehm SPECIES
-=======
+# Tympanis prunastis (Fuckel) Rehm SPECIES
 
 #### Status
 ACCEPTED

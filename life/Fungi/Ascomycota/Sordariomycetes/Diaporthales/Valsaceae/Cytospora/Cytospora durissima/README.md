@@ -1,5 +1,4 @@
-Cytospora durissima Speg. SPECIES
-=======
+# Cytospora durissima Speg. SPECIES
 
 #### Status
 ACCEPTED

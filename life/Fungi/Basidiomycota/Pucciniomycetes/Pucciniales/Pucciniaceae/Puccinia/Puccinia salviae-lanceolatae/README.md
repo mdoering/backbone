@@ -1,5 +1,4 @@
-Puccinia salviae-lanceolatae Bubák SPECIES
-=======
+# Puccinia salviae-lanceolatae Bubák SPECIES
 
 #### Status
 ACCEPTED

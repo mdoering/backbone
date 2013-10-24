@@ -1,5 +1,4 @@
-Fusiformisporites elongatus Ramanujam & K.P. Rao SPECIES
-=======
+# Fusiformisporites elongatus Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

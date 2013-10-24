@@ -1,14 +1,13 @@
-Polyporus contortus (P. Karst.) P. Karst., 1881 SPECIES
-=======
+# Tremellodendropsis tuberosa (Grev.) D.A. Crawford, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. & Proc. Roy. Soc. New Zealand 82: 619 (1954)
 
 #### Original name
 null

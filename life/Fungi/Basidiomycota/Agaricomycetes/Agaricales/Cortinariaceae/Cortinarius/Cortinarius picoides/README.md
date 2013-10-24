@@ -1,5 +1,4 @@
-Cortinarius picoides Soop, 2001 SPECIES
-=======
+# Cortinarius picoides Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

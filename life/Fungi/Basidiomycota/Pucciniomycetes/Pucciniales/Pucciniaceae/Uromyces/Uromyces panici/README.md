@@ -1,5 +1,4 @@
-Uromyces panici Tracy SPECIES
-=======
+# Uromyces panici Tracy SPECIES
 
 #### Status
 ACCEPTED

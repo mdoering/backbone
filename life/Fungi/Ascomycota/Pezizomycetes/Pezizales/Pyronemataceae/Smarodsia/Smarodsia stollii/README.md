@@ -1,5 +1,4 @@
-Smarodsia stollii Raitv. & Vimba, 2006 SPECIES
-=======
+# Smarodsia stollii Raitv. & Vimba, 2006 SPECIES
 
 #### Status
 ACCEPTED

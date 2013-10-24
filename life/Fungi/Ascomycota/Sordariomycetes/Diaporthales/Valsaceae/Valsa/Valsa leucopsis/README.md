@@ -1,5 +1,4 @@
-Valsa leucopsis Ellis & Everh. SPECIES
-=======
+# Valsa leucopsis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

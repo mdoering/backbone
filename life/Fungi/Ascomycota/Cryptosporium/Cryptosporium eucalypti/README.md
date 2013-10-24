@@ -1,5 +1,4 @@
-Cryptosporium eucalypti Cooke & Harkn. SPECIES
-=======
+# Cryptosporium eucalypti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

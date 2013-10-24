@@ -1,5 +1,4 @@
-Collema salevense (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Collema salevense (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

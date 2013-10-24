@@ -1,5 +1,4 @@
-Moravammina Pokórny, 1953 GENUS
-=======
+# Moravammina Pokórny, 1953 GENUS
 
 #### Status
 ACCEPTED

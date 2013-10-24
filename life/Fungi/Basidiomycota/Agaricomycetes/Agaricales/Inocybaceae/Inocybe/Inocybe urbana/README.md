@@ -1,5 +1,4 @@
-Inocybe urbana Alessio SPECIES
-=======
+# Inocybe urbana Alessio SPECIES
 
 #### Status
 ACCEPTED

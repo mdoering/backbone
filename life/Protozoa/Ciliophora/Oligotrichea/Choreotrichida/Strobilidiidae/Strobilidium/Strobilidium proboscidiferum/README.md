@@ -1,8 +1,7 @@
-Strombidinopsis proboscidifer SPECIES
-=======
+# Strobilidium proboscidiferum Milne, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

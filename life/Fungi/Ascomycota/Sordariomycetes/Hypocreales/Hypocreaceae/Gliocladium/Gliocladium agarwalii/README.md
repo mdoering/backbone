@@ -1,5 +1,4 @@
-Gliocladium agarwalii Kushwaha SPECIES
-=======
+# Gliocladium agarwalii Kushwaha SPECIES
 
 #### Status
 ACCEPTED

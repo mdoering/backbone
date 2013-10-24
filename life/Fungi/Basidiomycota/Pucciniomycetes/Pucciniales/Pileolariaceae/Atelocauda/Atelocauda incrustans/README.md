@@ -1,14 +1,13 @@
-Pileolaria incrustans (Arthur & Cummins) Thirum. & F. Kern, 1955 SPECIES
-=======
+# Atelocauda incrustans Arthur & Cummins, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 82: 105 (1955)
+Annls mycol. 31(1): 41 (1933)
 
 #### Original name
 Atelocauda incrustans Arthur & Cummins, 1933

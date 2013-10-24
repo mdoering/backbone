@@ -1,5 +1,4 @@
-Vannella septentrionalis Page, 1980 SPECIES
-=======
+# Vannella septentrionalis Page, 1980 SPECIES
 
 #### Status
 ACCEPTED

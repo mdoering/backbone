@@ -1,5 +1,4 @@
-Leptosphaeria curta Sacc. & Flageolet SPECIES
-=======
+# Leptosphaeria curta Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

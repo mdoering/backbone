@@ -1,5 +1,4 @@
-Hypocopra punicea J.C. Krug & Cain SPECIES
-=======
+# Hypocopra punicea J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopsis corallina Willey SPECIES
-=======
+# Pyrenopsis corallina Willey SPECIES
 
 #### Status
 ACCEPTED

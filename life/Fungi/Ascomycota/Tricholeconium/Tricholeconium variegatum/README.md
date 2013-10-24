@@ -1,5 +1,4 @@
-Tricholeconium variegatum (Fuckel) Höhn. SPECIES
-=======
+# Tricholeconium variegatum (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

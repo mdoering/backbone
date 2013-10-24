@@ -1,5 +1,4 @@
-Aulospathis Haeckel, 1887 GENUS
-=======
+# Aulospathis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

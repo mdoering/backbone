@@ -1,5 +1,4 @@
-Lophiotrema castaneae Kleb. SPECIES
-=======
+# Lophiotrema castaneae Kleb. SPECIES
 
 #### Status
 ACCEPTED

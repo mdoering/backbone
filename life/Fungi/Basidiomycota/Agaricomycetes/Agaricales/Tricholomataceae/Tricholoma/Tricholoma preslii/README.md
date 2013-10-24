@@ -1,5 +1,4 @@
-Tricholoma preslii Velen. SPECIES
-=======
+# Tricholoma preslii Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida boreocaroliniensis Kurtzman SPECIES
-=======
+# Candida boreocaroliniensis Kurtzman SPECIES
 
 #### Status
 ACCEPTED

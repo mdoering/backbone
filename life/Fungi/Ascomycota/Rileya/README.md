@@ -1,5 +1,4 @@
-Rileya A. Funk, 1979 GENUS
-=======
+# Rileya A. Funk, 1979 GENUS
 
 #### Status
 ACCEPTED

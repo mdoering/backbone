@@ -1,5 +1,4 @@
-Physosporella coffeae (Speg.) Höhn. SPECIES
-=======
+# Physosporella coffeae (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

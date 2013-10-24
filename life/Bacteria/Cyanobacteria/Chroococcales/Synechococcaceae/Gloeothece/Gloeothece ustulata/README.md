@@ -1,5 +1,4 @@
-Gloeothece ustulata Beck-Mannagetta SPECIES
-=======
+# Gloeothece ustulata Beck-Mannagetta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnoascus caltrop Renny SPECIES
-=======
+# Gymnoascus caltrop Renny SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria glandiformis (Wm. G. Sm.) Sacc. SPECIES
-=======
+# Naucoria glandiformis (Wm. G. Sm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

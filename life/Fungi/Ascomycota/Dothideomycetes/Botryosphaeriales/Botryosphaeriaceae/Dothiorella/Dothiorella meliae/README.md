@@ -1,5 +1,4 @@
-Dothiorella meliae S. Ahmad SPECIES
-=======
+# Dothiorella meliae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

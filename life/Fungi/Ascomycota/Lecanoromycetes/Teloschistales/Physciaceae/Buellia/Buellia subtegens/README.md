@@ -1,5 +1,4 @@
-Buellia subtegens B.J. Murray SPECIES
-=======
+# Buellia subtegens B.J. Murray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola canthii var. canthii VARIETY
-=======
+# Meliola canthii Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Linn. Soc. London 157: 22 (1945)
 
 #### Original name
-Meliola canthii var. canthii
+Meliola canthii Hansf.
 
 ### Remarks
 null

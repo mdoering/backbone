@@ -1,5 +1,4 @@
-Uredo epidendri Henn. SPECIES
-=======
+# Uredo epidendri Henn. SPECIES
 
 #### Status
 ACCEPTED

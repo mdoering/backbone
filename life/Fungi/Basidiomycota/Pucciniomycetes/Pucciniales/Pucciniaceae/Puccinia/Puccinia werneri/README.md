@@ -1,5 +1,4 @@
-Puccinia werneri Maire SPECIES
-=======
+# Puccinia werneri Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hayella S. Gartner, 1969 GENUS
-=======
+# Hayella S. Gartner, 1969 GENUS
 
 #### Status
 ACCEPTED

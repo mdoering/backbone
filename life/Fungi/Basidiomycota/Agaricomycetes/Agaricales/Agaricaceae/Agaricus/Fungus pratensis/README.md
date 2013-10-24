@@ -1,5 +1,4 @@
-Fungus pratensis (Schaeff.) Kuntze SPECIES
-=======
+# Fungus pratensis (Schaeff.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

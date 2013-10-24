@@ -1,5 +1,4 @@
-Spathulospora antartica Kohlm. SPECIES
-=======
+# Spathulospora antartica Kohlm. SPECIES
 
 #### Status
 ACCEPTED

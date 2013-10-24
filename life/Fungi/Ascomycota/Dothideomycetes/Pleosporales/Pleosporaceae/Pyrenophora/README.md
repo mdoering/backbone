@@ -1,17 +1,16 @@
-Neilreichina Kuntze GENUS
-=======
+# Pyrenophora Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 862 (1891)
+Summa veg. Scand. (Stockholm), Section Post. 397 (1849)
 
 #### Original name
-Neilreichina Kuntze
+Pyrenophora Fr.
 
 ### Remarks
 null

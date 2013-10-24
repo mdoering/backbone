@@ -1,5 +1,4 @@
-Agaricus leucochrius Britzelm. SPECIES
-=======
+# Agaricus leucochrius Britzelm. SPECIES
 
 #### Status
 ACCEPTED

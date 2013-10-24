@@ -1,5 +1,4 @@
-Sphaeria fumosa Schwein. SPECIES
-=======
+# Sphaeria fumosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

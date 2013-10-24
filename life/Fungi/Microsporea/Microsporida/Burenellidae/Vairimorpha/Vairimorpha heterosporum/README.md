@@ -1,5 +1,4 @@
-Vairimorpha heterosporum SPECIES
-=======
+# Vairimorpha heterosporum SPECIES
 
 #### Status
 ACCEPTED

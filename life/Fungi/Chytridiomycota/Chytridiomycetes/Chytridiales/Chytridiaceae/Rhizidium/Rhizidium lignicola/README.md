@@ -1,5 +1,4 @@
-Rhizidium lignicola J. Lindau SPECIES
-=======
+# Rhizidium lignicola J. Lindau SPECIES
 
 #### Status
 ACCEPTED

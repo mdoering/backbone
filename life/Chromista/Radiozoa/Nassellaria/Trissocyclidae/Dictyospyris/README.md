@@ -1,14 +1,13 @@
-Dictyospizis Ehrenberg, 1856 GENUS
-=======
+# Dictyospyris Ehrenberg, 1847 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-MonatsBer. Akad. Wiss. Berlin, 1856, 428.
+Ber. Verh. Preuss Akad. Wiss. , 1846, Tab. p. 385.
 
 #### Original name
 null

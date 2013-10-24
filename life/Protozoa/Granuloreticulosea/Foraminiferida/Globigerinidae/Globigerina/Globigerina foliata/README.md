@@ -1,5 +1,4 @@
-Globigerina foliata Bolli SPECIES
-=======
+# Globigerina foliata Bolli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ectocarpus sphaerophorus Carmichael SPECIES
-=======
+# Isthmoplea sphaerophora (Carmichael) Kjellman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

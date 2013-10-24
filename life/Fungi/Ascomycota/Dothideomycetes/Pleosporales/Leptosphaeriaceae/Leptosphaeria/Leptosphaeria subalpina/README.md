@@ -1,5 +1,4 @@
-Leptosphaeria subalpina Bubák SPECIES
-=======
+# Leptosphaeria subalpina Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta aquifolii Lib. SPECIES
-=======
+# Ascochyta aquifolii Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria furfuracea (Cooke & Kalchbr.) Kuntze SPECIES
-=======
+# Cucurbitaria furfuracea (Cooke & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

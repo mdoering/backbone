@@ -1,5 +1,4 @@
-Verrucaria coerulescens (Baumg.) Hoffm. SPECIES
-=======
+# Verrucaria coerulescens (Baumg.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

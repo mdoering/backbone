@@ -1,5 +1,4 @@
-Sphaceloma plantaginis Jenkins & Bitanc. SPECIES
-=======
+# Sphaceloma plantaginis Jenkins & Bitanc. SPECIES
 
 #### Status
 ACCEPTED

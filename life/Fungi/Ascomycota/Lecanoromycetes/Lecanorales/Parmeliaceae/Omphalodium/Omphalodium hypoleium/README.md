@@ -1,5 +1,4 @@
-Omphalodium hypoleium SPECIES
-=======
+# Omphalodium hypoleium SPECIES
 
 #### Status
 ACCEPTED

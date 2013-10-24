@@ -1,5 +1,4 @@
-Phaeocollybia latispora Guzmán, Bandala & Montoya SPECIES
-=======
+# Phaeocollybia latispora Guzmán, Bandala & Montoya SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium betulinum Died., 1914 SPECIES
-=======
+# Camarosporium betulinum Died., 1914 SPECIES
 
 #### Status
 ACCEPTED

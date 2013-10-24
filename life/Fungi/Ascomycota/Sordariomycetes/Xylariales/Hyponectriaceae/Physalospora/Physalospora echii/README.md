@@ -1,5 +1,4 @@
-Physalospora echii (Kirchn.) Sacc. SPECIES
-=======
+# Physalospora echii (Kirchn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

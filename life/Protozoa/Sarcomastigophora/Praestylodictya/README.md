@@ -1,5 +1,4 @@
-Praestylodictya Kozur & Mostler, 1978 GENUS
-=======
+# Praestylodictya Kozur & Mostler, 1978 GENUS
 
 #### Status
 ACCEPTED

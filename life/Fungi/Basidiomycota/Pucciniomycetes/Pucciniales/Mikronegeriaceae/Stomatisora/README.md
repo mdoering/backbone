@@ -1,5 +1,4 @@
-Stomatisora GENUS
-=======
+# Stomatisora GENUS
 
 #### Status
 ACCEPTED

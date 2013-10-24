@@ -1,5 +1,4 @@
-Graphis chrysocarpoides Vain. SPECIES
-=======
+# Graphis chrysocarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

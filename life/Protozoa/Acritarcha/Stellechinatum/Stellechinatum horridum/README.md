@@ -1,5 +1,4 @@
-Stellechinatum horridum (Paris & Deunff, 1970) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Stellechinatum horridum (Paris & Deunff, 1970) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe nobilis Velen. SPECIES
-=======
+# Hygrocybe nobilis Velen. SPECIES
 
 #### Status
 ACCEPTED

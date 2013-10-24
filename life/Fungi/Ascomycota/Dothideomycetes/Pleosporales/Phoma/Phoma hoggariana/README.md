@@ -1,5 +1,4 @@
-Phoma hoggariana Faurel & Schotter SPECIES
-=======
+# Phoma hoggariana Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora pyrethi Unamuno SPECIES
-=======
+# Rhabdospora pyrethi Unamuno SPECIES
 
 #### Status
 ACCEPTED

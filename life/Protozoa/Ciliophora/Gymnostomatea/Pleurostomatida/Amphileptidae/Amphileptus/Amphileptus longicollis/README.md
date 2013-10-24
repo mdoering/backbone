@@ -1,5 +1,4 @@
-Amphileptus longicollis Fromentel, 1876 SPECIES
-=======
+# Amphileptus longicollis Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

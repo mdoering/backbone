@@ -1,5 +1,4 @@
-Roccellina badia Tehler SPECIES
-=======
+# Roccellina badia Tehler SPECIES
 
 #### Status
 ACCEPTED

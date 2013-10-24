@@ -1,5 +1,4 @@
-Nectriella coccinea Fuckel SPECIES
-=======
+# Nectriella coccinea Fuckel SPECIES
 
 #### Status
 ACCEPTED

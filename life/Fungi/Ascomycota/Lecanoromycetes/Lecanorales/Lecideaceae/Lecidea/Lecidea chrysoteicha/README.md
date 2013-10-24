@@ -1,5 +1,4 @@
-Lecidea chrysoteicha Nyl. SPECIES
-=======
+# Lecidea chrysoteicha Nyl. SPECIES
 
 #### Status
 ACCEPTED

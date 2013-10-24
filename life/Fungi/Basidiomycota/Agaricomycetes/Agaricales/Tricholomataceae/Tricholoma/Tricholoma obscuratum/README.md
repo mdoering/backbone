@@ -1,5 +1,4 @@
-Tricholoma obscuratum P. Karst. SPECIES
-=======
+# Tricholoma obscuratum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

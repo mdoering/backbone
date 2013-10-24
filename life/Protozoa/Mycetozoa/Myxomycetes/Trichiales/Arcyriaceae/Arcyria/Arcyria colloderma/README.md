@@ -1,5 +1,4 @@
-Arcyria colloderma Nann.-Bremek. & S.L. Stephenson, 1990 SPECIES
-=======
+# Arcyria colloderma Nann.-Bremek. & S.L. Stephenson, 1990 SPECIES
 
 #### Status
 ACCEPTED

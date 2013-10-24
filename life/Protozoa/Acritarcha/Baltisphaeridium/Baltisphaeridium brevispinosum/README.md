@@ -1,5 +1,4 @@
-Baltisphaeridium brevispinosum SPECIES
-=======
+# Baltisphaeridium brevispinosum SPECIES
 
 #### Status
 ACCEPTED

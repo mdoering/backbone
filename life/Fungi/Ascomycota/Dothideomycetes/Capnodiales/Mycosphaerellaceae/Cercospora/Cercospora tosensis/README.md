@@ -1,5 +1,4 @@
-Cercospora tosensis Henn. SPECIES
-=======
+# Cercospora tosensis Henn. SPECIES
 
 #### Status
 ACCEPTED

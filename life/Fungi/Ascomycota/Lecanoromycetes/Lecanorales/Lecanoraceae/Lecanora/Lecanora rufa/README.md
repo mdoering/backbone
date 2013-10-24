@@ -1,5 +1,4 @@
-Lecanora rufa Fée SPECIES
-=======
+# Lecanora rufa Fée SPECIES
 
 #### Status
 ACCEPTED

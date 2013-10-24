@@ -1,5 +1,4 @@
-Pachymetra chaunorhiza B.J. Croft & M.W. Dick, 1989 SPECIES
-=======
+# Pachymetra chaunorhiza B.J. Croft & M.W. Dick, 1989 SPECIES
 
 #### Status
 ACCEPTED

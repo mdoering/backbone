@@ -1,5 +1,4 @@
-Lasiostemma cordiicola (Henn.) Toro SPECIES
-=======
+# Lasiostemma cordiicola (Henn.) Toro SPECIES
 
 #### Status
 ACCEPTED

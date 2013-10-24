@@ -1,5 +1,4 @@
-Russula immaculata var. immaculata VARIETY
-=======
+# Russula immaculata (Beeli) Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 9(1-6): 425 (1955)
 
 #### Original name
-Russula immaculata var. immaculata
+Tricholoma immaculatum Beeli
 
 ### Remarks
 null

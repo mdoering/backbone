@@ -1,5 +1,4 @@
-Trochila rhodiolae Rostr. SPECIES
-=======
+# Trochila rhodiolae Rostr. SPECIES
 
 #### Status
 ACCEPTED

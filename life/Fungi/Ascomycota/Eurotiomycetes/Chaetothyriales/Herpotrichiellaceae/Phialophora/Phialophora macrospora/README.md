@@ -1,5 +1,4 @@
-Phialophora macrospora M. Moore & F.P. Almeida SPECIES
-=======
+# Phialophora macrospora M. Moore & F.P. Almeida SPECIES
 
 #### Status
 ACCEPTED

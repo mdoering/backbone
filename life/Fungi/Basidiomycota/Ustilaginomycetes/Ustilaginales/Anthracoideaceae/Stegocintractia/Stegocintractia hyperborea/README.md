@@ -1,14 +1,13 @@
-Cintractia dovrensis Jørst., 1953 SPECIES
-=======
+# Stegocintractia hyperborea (A. Blytt) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Zundel, Ustilaginales of the World 27 (1953)
+Nova Hedwigia 70(3-4): 321 (2000)
 
 #### Original name
 Ustilago hyperborea A. Blytt, 1896

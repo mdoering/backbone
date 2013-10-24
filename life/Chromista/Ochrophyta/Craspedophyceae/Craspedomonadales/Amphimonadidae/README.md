@@ -1,5 +1,4 @@
-Amphimonadidae FAMILY
-=======
+# Amphimonadidae FAMILY
 
 #### Status
 ACCEPTED

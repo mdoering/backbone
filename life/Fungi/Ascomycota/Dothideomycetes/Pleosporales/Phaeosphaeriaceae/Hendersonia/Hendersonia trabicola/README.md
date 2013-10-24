@@ -1,5 +1,4 @@
-Hendersonia trabicola var. trabicola VARIETY
-=======
+# Hendersonia trabicola Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia trabicola var. trabicola
+Hendersonia trabicola Sacc.
 
 ### Remarks
 null

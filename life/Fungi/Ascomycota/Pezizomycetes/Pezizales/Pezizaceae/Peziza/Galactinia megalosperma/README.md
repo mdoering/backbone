@@ -1,5 +1,4 @@
-Galactinia megalosperma Le Gal SPECIES
-=======
+# Galactinia megalosperma Le Gal SPECIES
 
 #### Status
 ACCEPTED

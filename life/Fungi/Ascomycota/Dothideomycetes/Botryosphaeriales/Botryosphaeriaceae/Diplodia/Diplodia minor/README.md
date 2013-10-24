@@ -1,5 +1,4 @@
-Diplodia minor Syd. & P. Syd. SPECIES
-=======
+# Diplodia minor Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

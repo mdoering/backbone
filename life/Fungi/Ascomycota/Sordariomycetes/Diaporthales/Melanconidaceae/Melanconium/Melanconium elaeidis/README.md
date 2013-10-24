@@ -1,5 +1,4 @@
-Melanconium elaeidis Beeli SPECIES
-=======
+# Melanconium elaeidis Beeli SPECIES
 
 #### Status
 ACCEPTED

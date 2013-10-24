@@ -1,5 +1,4 @@
-Lecidea diploella Stirt. SPECIES
-=======
+# Lecidea diploella Stirt. SPECIES
 
 #### Status
 ACCEPTED

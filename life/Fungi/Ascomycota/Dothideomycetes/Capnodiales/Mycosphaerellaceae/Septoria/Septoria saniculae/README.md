@@ -1,5 +1,4 @@
-Septoria saniculae Ellis & Everh. SPECIES
-=======
+# Septoria saniculae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Melanconidium aceris (W. Phillips & Plowr.) Kuntze, 1898 SPECIES
-=======
+# Melanconis aceris W. Phillips & Plowr., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 493 (1898)
+null
 
 #### Original name
 Melanconis aceris W. Phillips & Plowr., 1885

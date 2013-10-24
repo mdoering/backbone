@@ -1,5 +1,4 @@
-Polyporus yuananensis X.Q. Zhang & J.D. Zhao SPECIES
-=======
+# Polyporus yuananensis X.Q. Zhang & J.D. Zhao SPECIES
 
 #### Status
 ACCEPTED

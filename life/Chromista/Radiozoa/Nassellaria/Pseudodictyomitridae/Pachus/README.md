@@ -1,5 +1,4 @@
-Pachus Blome, 1984 GENUS
-=======
+# Pachus Blome, 1984 GENUS
 
 #### Status
 ACCEPTED

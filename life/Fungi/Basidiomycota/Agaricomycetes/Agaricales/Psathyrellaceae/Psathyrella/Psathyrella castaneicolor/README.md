@@ -1,5 +1,4 @@
-Psathyrella castaneicolor Murrill SPECIES
-=======
+# Psathyrella castaneicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

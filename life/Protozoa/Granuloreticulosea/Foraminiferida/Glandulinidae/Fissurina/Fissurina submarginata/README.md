@@ -1,5 +1,4 @@
-Fissurina submarginata SPECIES
-=======
+# Fissurina submarginata SPECIES
 
 #### Status
 ACCEPTED

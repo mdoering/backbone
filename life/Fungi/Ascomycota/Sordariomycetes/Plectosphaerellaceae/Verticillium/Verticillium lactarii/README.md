@@ -1,5 +1,4 @@
-Verticillium lactarii subsp. lactarii SUBSPECIES
-=======
+# Verticillium lactarii Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. N. Y. St. Mus. nat. Hist. 35: 140 (1884)
 
 #### Original name
-Verticillium lactarii subsp. lactarii
+Verticillium lactarii Peck
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Stigmina dendrocalamii M.S. Patil & Thite SPECIES
-=======
+# Stigmina dendrocalami M.S. Patil & Thite SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Vidnyan Mandir, Patrika 12(1): 29 (1977)
 
 #### Original name
-Stigmina dendrocalamii M.S. Patil & Thite
+Stigmina dendrocalami M.S. Patil & Thite
 
 ### Remarks
 null

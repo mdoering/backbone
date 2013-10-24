@@ -1,5 +1,4 @@
-Melanconium juncinum (Cooke & Harkn.) P.E. Powell SPECIES
-=======
+# Melanconium juncinum (Cooke & Harkn.) P.E. Powell SPECIES
 
 #### Status
 ACCEPTED

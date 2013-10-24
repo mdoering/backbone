@@ -1,5 +1,4 @@
-Leptomeliola uvariae (Rehm) S. Hughes SPECIES
-=======
+# Leptomeliola uvariae (Rehm) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

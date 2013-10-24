@@ -1,5 +1,4 @@
-Cercosporella dendrocalami Sawada SPECIES
-=======
+# Cercosporella dendrocalami Sawada SPECIES
 
 #### Status
 ACCEPTED

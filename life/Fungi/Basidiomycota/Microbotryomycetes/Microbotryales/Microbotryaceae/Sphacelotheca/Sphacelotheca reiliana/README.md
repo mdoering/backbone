@@ -1,17 +1,16 @@
-Ustilago reiliana f. reiliana FORM
-=======
+# Sphacelotheca reiliana (J.G. Kühn) G.P. Clinton, 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Thümen, Fungi europ. exsicc. no. 1998 (1875)
+J. Mycol. 8: 141 (1902)
 
 #### Original name
-Ustilago reiliana f. reiliana
+Ustilago reiliana J.G. Kühn, 1875
 
 ### Remarks
 null

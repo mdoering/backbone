@@ -1,17 +1,16 @@
-Phomatospora anonae Bat. & Cif. SPECIES
-=======
+# Phomatospora annonae Bat. & Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 1: 335 (1957)
 
 #### Original name
-Phomatospora anonae Bat. & Cif.
+Phomatospora annonae Bat. & Cif.
 
 ### Remarks
 null

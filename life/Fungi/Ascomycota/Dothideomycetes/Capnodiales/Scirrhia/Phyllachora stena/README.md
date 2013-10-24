@@ -1,5 +1,4 @@
-Phyllachora stena Syd., 1925 SPECIES
-=======
+# Phyllachora stena Syd., 1925 SPECIES
 
 #### Status
 DOUBTFUL

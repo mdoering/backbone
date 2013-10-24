@@ -1,5 +1,4 @@
-Hydnotrya variiformis Gilkey SPECIES
-=======
+# Hydnotrya variiformis Gilkey SPECIES
 
 #### Status
 ACCEPTED

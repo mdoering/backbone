@@ -1,5 +1,4 @@
-Lecanora phialodes (Körb.) Zahlbr. SPECIES
-=======
+# Lecanora phialodes (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

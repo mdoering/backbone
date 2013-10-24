@@ -1,5 +1,4 @@
-Omphalina nothofaginea (G. Stev.) E. Horak, 1971 SPECIES
-=======
+# Omphalina nothofaginea (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

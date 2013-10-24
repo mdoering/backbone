@@ -1,5 +1,4 @@
-Dermatodothis japonica Katum. SPECIES
-=======
+# Dermatodothis japonica Katum. SPECIES
 
 #### Status
 ACCEPTED

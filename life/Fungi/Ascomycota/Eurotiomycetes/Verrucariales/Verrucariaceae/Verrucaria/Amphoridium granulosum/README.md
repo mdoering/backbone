@@ -1,5 +1,4 @@
-Amphoridium granulosum J. Steiner SPECIES
-=======
+# Amphoridium granulosum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

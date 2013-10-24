@@ -1,5 +1,4 @@
-Quinqueloculina peruviana d'Orbigny, 1839 SPECIES
-=======
+# Quinqueloculina peruviana d'Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

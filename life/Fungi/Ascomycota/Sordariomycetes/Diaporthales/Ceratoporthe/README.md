@@ -1,5 +1,4 @@
-Ceratoporthe Petr. GENUS
-=======
+# Ceratoporthe Petr. GENUS
 
 #### Status
 ACCEPTED

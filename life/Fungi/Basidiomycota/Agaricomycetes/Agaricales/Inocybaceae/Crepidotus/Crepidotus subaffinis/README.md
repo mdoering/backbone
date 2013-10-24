@@ -1,5 +1,4 @@
-Crepidotus subaffinis Pilát SPECIES
-=======
+# Crepidotus subaffinis Pilát SPECIES
 
 #### Status
 ACCEPTED

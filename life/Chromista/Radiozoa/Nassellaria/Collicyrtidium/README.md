@@ -1,5 +1,4 @@
-Collicyrtidium Steiger, 1992 GENUS
-=======
+# Collicyrtidium Steiger, 1992 GENUS
 
 #### Status
 ACCEPTED

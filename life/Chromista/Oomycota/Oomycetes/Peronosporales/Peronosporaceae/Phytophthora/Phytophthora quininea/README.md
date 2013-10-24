@@ -1,5 +1,4 @@
-Phytophthora quininea Crand., 1947 SPECIES
-=======
+# Phytophthora quininea Crand., 1947 SPECIES
 
 #### Status
 ACCEPTED

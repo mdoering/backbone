@@ -1,5 +1,4 @@
-Puccinia majori Dietel SPECIES
-=======
+# Puccinia majori Dietel SPECIES
 
 #### Status
 ACCEPTED

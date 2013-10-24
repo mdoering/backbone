@@ -1,5 +1,4 @@
-Cyclammina complanata Chapman SPECIES
-=======
+# Cyclammina complanata Chapman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pratella acicola Quél. SPECIES
-=======
+# Pratella acicola Quél. SPECIES
 
 #### Status
 ACCEPTED

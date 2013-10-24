@@ -1,5 +1,4 @@
-Gymnopus rugosoceps (G.F. Atk.) Murrill SPECIES
-=======
+# Gymnopus rugosoceps (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

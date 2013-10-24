@@ -1,5 +1,4 @@
-Polyblastiopsis sublactea (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis sublactea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryostroma necans Döbbeler & Poelt, 1978 SPECIES
-=======
+# Bryostroma necans Döbbeler & Poelt, 1978 SPECIES
 
 #### Status
 ACCEPTED

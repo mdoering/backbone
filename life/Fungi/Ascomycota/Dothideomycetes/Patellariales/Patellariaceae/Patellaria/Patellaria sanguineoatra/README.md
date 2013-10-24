@@ -1,5 +1,4 @@
-Patellaria sanguineoatra Rehm SPECIES
-=======
+# Patellaria sanguineoatra Rehm SPECIES
 
 #### Status
 ACCEPTED

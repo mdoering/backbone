@@ -1,17 +1,16 @@
-Gymnosporangium laeve Crowell SPECIES
-=======
+# Roestelia levis (Crowell) F. Kern, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revised Taxonomic Account of Gymnosporangium (Univ. Park & London) 86 (1973)
 
 #### Original name
-Gymnosporangium laeve Crowell
+Gymnosporangium leve Crowell, 1936
 
 ### Remarks
 null

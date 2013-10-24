@@ -1,5 +1,4 @@
-Phoma hysterina P. Karst. & Roum. SPECIES
-=======
+# Phoma hysterina P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED

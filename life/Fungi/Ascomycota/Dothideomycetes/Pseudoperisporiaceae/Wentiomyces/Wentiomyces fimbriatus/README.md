@@ -1,8 +1,7 @@
-Venturia fimbriata Dearn. & House, 1921 SPECIES
-=======
+# Wentiomyces fimbriatus (Dearn. & House) M.E. Barr, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Venturia fimbriata Dearn. & House, 1921
 
 ### Remarks
 null

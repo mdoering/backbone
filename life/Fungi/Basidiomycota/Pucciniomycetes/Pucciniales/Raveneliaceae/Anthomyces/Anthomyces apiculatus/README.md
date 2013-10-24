@@ -1,5 +1,4 @@
-Anthomyces apiculatus Krassiln. SPECIES
-=======
+# Anthomyces apiculatus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

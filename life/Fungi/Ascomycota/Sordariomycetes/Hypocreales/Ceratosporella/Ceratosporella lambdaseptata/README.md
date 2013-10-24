@@ -1,5 +1,4 @@
-Ceratosporella lambdaseptata Matsush. SPECIES
-=======
+# Ceratosporella lambdaseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

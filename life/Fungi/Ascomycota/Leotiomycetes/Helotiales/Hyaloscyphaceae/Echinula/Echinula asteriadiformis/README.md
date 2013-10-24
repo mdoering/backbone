@@ -1,17 +1,16 @@
-Echinula asteridiformis Graddon SPECIES
-=======
+# Echinula asteriadiformis Graddon, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 69(2): 255 (1977)
 
 #### Original name
-Echinula asteridiformis Graddon
+Echinula asteriadiformis Graddon, 1977
 
 ### Remarks
 null

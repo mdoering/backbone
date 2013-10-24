@@ -1,5 +1,4 @@
-Humarina allantospora (Naumov) Cash SPECIES
-=======
+# Humarina allantospora (Naumov) Cash SPECIES
 
 #### Status
 ACCEPTED

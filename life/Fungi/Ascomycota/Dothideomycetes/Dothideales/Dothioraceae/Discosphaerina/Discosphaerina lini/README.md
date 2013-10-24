@@ -1,5 +1,4 @@
-Discosphaerina lini Petr. SPECIES
-=======
+# Discosphaerina lini Petr. SPECIES
 
 #### Status
 ACCEPTED

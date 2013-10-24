@@ -1,17 +1,16 @@
-Chaetosphaeria yosie-hidakai I. Hino SPECIES
-=======
+# Chaetosphaeria yosie-hidakae I. Hino SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin Miyazaki Coll. Agric. Forest. 10: 61 (1938)
 
 #### Original name
-Chaetosphaeria yosie-hidakai I. Hino
+Chaetosphaeria yosie-hidakae I. Hino
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cristulariella variabilis anon. SPECIES
-=======
+# Cristulariella variabilis anon. SPECIES
 
 #### Status
 ACCEPTED

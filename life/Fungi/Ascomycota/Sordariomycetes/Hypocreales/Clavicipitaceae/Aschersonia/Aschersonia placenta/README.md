@@ -1,5 +1,4 @@
-Aschersonia placenta Berk., 1873 SPECIES
-=======
+# Aschersonia placenta Berk., 1873 SPECIES
 
 #### Status
 ACCEPTED

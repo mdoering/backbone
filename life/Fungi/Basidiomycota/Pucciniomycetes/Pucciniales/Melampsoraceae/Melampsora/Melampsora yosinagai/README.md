@@ -1,5 +1,4 @@
-Melampsora yosinagai Henn. SPECIES
-=======
+# Melampsora yosinagai Henn. SPECIES
 
 #### Status
 ACCEPTED

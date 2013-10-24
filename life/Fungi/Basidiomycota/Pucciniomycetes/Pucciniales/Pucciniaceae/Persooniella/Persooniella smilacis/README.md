@@ -1,5 +1,4 @@
-Persooniella smilacis (Schwein.) Syd. SPECIES
-=======
+# Persooniella smilacis (Schwein.) Syd. SPECIES
 
 #### Status
 ACCEPTED

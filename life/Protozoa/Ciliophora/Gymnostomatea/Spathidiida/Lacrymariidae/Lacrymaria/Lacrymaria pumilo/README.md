@@ -1,5 +1,4 @@
-Lacrymaria pumilo Vuxanovici, 1962 SPECIES
-=======
+# Lacrymaria pumilo Vuxanovici, 1962 SPECIES
 
 #### Status
 ACCEPTED

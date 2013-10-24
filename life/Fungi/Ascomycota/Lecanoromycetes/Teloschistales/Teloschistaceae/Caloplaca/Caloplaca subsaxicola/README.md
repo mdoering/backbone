@@ -1,5 +1,4 @@
-Caloplaca subsaxicola S. Y. Kondr., Elix & Kärnefelt SPECIES
-=======
+# Caloplaca subsaxicola S. Y. Kondr., Elix & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

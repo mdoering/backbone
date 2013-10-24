@@ -1,5 +1,4 @@
-Triscelosporium verrucosum Nawawi & Kuthub., 1987 SPECIES
-=======
+# Triscelosporium verrucosum Nawawi & Kuthub., 1987 SPECIES
 
 #### Status
 ACCEPTED

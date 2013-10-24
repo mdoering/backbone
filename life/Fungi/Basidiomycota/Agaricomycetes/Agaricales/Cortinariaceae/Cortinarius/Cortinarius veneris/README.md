@@ -1,5 +1,4 @@
-Cortinarius veneris Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius veneris Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

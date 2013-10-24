@@ -1,5 +1,4 @@
-Cenangium triste (Saut.) Sacc. SPECIES
-=======
+# Cenangium triste (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

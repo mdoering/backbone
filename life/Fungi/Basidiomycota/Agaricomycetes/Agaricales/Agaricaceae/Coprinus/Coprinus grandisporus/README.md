@@ -1,5 +1,4 @@
-Coprinus grandisporus Henn. SPECIES
-=======
+# Coprinus grandisporus Henn. SPECIES
 
 #### Status
 ACCEPTED

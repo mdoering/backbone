@@ -1,5 +1,4 @@
-Glonium excipiendum P. Karst. SPECIES
-=======
+# Glonium excipiendum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

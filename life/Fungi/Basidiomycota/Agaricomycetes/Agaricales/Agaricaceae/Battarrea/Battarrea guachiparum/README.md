@@ -1,5 +1,4 @@
-Battarrea guachiparum Speg. SPECIES
-=======
+# Battarrea guachiparum Speg. SPECIES
 
 #### Status
 ACCEPTED

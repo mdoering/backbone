@@ -1,5 +1,4 @@
-Clitocybe omphaliaeformis SPECIES
-=======
+# Clitocybe omphaliaeformis SPECIES
 
 #### Status
 ACCEPTED

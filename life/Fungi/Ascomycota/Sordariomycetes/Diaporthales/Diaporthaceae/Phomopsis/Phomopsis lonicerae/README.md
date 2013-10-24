@@ -1,14 +1,13 @@
-Phoma lonicerae Cooke, 1878 SPECIES
-=======
+# Phomopsis lonicerae (Cooke) Grove, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea (1878)
+Bull. Misc. Inf. , Kew 58 (1917)
 
 #### Original name
 Phoma lonicerae Cooke, 1878

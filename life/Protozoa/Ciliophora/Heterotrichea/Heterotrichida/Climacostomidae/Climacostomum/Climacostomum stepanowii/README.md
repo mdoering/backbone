@@ -1,5 +1,4 @@
-Climacostomum stepanowii Entz, 1901 SPECIES
-=======
+# Climacostomum stepanowii Entz, 1901 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium buxi Westend. SPECIES
-=======
+# Coniosporium buxi Westend. SPECIES
 
 #### Status
 ACCEPTED

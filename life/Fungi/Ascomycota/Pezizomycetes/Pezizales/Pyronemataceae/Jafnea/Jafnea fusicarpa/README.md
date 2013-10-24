@@ -1,14 +1,13 @@
-Peziza fusicarpa W.R. Gerard, 1873 SPECIES
-=======
+# Jafnea fusicarpa (W.R. Gerard) Korf, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nagaoa 7: 5 (1960)
 
 #### Original name
 Peziza fusicarpa W.R. Gerard, 1873

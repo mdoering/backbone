@@ -1,5 +1,4 @@
-Licea castaneoides Y. Yamam. & Nann.-Bremek., 1990 SPECIES
-=======
+# Licea castaneoides Y. Yamam. & Nann.-Bremek., 1990 SPECIES
 
 #### Status
 ACCEPTED

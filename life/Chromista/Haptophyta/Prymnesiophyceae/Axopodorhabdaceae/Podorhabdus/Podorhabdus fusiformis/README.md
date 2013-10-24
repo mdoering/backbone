@@ -1,5 +1,4 @@
-Podorhabdus fusiformis M. Black SPECIES
-=======
+# Podorhabdus fusiformis M. Black SPECIES
 
 #### Status
 ACCEPTED

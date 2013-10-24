@@ -1,8 +1,7 @@
-Dilophus suhrii (Kützing) Papenfuss SPECIES
-=======
+# Dictyota suhrii G.Murray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Omphalina scandens (Singer) Raithelh. SPECIES
-=======
+# Omphalina scandens (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

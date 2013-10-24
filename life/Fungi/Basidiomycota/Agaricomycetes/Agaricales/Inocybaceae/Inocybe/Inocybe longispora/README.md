@@ -1,5 +1,4 @@
-Inocybe longispora M. Lange SPECIES
-=======
+# Inocybe longispora M. Lange SPECIES
 
 #### Status
 ACCEPTED

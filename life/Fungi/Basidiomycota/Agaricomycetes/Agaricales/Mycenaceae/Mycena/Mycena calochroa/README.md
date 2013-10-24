@@ -1,5 +1,4 @@
-Mycena calochroa Nezdojm. SPECIES
-=======
+# Mycena calochroa Nezdojm. SPECIES
 
 #### Status
 ACCEPTED

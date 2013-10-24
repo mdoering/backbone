@@ -1,5 +1,4 @@
-Laboulbenia polyhirmae Thaxt. SPECIES
-=======
+# Laboulbenia polyhirmae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus omnivagus Corner, 1981 SPECIES
-=======
+# Pleurotus omnivagus Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

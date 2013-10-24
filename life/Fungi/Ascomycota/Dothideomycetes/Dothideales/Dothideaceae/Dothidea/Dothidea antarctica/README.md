@@ -1,5 +1,4 @@
-Dothidea antarctica Speg. SPECIES
-=======
+# Dothidea antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

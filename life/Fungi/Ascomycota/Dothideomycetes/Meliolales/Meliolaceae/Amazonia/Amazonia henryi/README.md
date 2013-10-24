@@ -1,5 +1,4 @@
-Amazonia henryi Hosag. SPECIES
-=======
+# Amazonia henryi Hosag. SPECIES
 
 #### Status
 ACCEPTED

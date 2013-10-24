@@ -1,5 +1,4 @@
-Asterina spissa Syd. & P. Syd. SPECIES
-=======
+# Asterina spissa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

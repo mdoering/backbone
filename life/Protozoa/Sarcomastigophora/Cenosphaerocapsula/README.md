@@ -1,5 +1,4 @@
-Cenosphaerocapsula Dumitrica, 1999 GENUS
-=======
+# Cenosphaerocapsula Dumitrica, 1999 GENUS
 
 #### Status
 ACCEPTED

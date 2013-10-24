@@ -1,5 +1,4 @@
-Rhodoveronaea varioseptata Arzanlou, W. Gams & Crous, 2007 SPECIES
-=======
+# Rhodoveronaea varioseptata Arzanlou, W. Gams & Crous, 2007 SPECIES
 
 #### Status
 ACCEPTED

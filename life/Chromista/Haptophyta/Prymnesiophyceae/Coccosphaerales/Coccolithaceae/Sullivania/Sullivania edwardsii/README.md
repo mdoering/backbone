@@ -1,5 +1,4 @@
-Sullivania edwardsii (Romein) O. Varol SPECIES
-=======
+# Sullivania edwardsii (Romein) O. Varol SPECIES
 
 #### Status
 ACCEPTED

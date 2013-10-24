@@ -1,5 +1,4 @@
-Thecaphora ambrosiae Vánky SPECIES
-=======
+# Thecaphora ambrosiae Vánky SPECIES
 
 #### Status
 ACCEPTED

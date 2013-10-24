@@ -1,5 +1,4 @@
-Spragueola GENUS
-=======
+# Spragueola GENUS
 
 #### Status
 ACCEPTED

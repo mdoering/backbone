@@ -1,5 +1,4 @@
-Cenomyce cervicornis Ach. SPECIES
-=======
+# Cenomyce cervicornis Ach. SPECIES
 
 #### Status
 ACCEPTED

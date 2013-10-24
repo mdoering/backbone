@@ -1,5 +1,4 @@
-Fervidobacterium nodosum Patel et al., 1985 SPECIES
-=======
+# Fervidobacterium nodosum Patel et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

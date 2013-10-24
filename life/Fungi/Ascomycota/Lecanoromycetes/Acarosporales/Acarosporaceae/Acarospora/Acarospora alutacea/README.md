@@ -1,5 +1,4 @@
-Acarospora alutacea Hue SPECIES
-=======
+# Acarospora alutacea Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeocollybia australiensis B.J. Rees & A.E. Wood SPECIES
-=======
+# Phaeocollybia australiensis B.J. Rees & A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium nigrum Fr. SPECIES
-=======
+# Coniosporium nigrum Fr. SPECIES
 
 #### Status
 ACCEPTED

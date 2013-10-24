@@ -1,5 +1,4 @@
-Phytoplasma pini Schneider et al., 2005. SPECIES
-=======
+# Phytoplasma pini Schneider et al., 2005. SPECIES
 
 #### Status
 ACCEPTED

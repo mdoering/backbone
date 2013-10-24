@@ -1,5 +1,4 @@
-Schiffnerula bella Petr., 1954 SPECIES
-=======
+# Schiffnerula bella Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptostictis sarmenticia E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Cryptostictis sarmenticia E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

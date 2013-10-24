@@ -1,5 +1,4 @@
-Nectria leprosa Henn. SPECIES
-=======
+# Nectria leprosa Henn. SPECIES
 
 #### Status
 ACCEPTED

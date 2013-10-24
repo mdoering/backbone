@@ -1,5 +1,4 @@
-Hirsutella satumaensis Aoki, 1957 SPECIES
-=======
+# Hirsutella satumaensis Aoki, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema verruculosum (A. Massal.) Arnold SPECIES
-=======
+# Collema verruculosum (A. Massal.) Arnold SPECIES
 
 #### Status
 ACCEPTED

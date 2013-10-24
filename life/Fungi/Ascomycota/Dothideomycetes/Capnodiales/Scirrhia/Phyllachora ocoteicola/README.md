@@ -1,5 +1,4 @@
-Phyllachora ocoteicola F. Stevens & Dalbey, 1919 SPECIES
-=======
+# Phyllachora ocoteicola F. Stevens & Dalbey, 1919 SPECIES
 
 #### Status
 DOUBTFUL

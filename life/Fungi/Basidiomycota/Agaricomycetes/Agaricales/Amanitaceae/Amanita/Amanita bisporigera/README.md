@@ -1,5 +1,4 @@
-Amanita bisporigera G.F. Atk. SPECIES
-=======
+# Amanita bisporigera G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

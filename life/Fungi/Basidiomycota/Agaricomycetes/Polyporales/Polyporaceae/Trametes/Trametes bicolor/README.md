@@ -1,5 +1,4 @@
-Trametes bicolor Berk. SPECIES
-=======
+# Trametes bicolor Berk. SPECIES
 
 #### Status
 ACCEPTED

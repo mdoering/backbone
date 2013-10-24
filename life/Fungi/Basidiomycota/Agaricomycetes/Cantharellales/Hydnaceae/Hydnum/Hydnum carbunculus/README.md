@@ -1,5 +1,4 @@
-Hydnum carbunculus Secr. ex Banker SPECIES
-=======
+# Hydnum carbunculus Secr. ex Banker SPECIES
 
 #### Status
 ACCEPTED

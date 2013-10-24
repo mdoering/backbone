@@ -1,5 +1,4 @@
-Dasyscyphus albolabrus (Ellis & Everh.) Dennis SPECIES
-=======
+# Dasyscyphus albolabrus (Ellis & Everh.) Dennis SPECIES
 
 #### Status
 ACCEPTED

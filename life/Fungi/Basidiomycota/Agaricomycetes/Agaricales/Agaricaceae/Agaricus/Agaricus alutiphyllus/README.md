@@ -1,5 +1,4 @@
-Agaricus alutiphyllus Berk. & Broome SPECIES
-=======
+# Agaricus alutiphyllus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

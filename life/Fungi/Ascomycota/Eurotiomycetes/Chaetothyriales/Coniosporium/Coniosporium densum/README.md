@@ -1,5 +1,4 @@
-Coniosporium densum Strasser SPECIES
-=======
+# Coniosporium densum Strasser SPECIES
 
 #### Status
 ACCEPTED

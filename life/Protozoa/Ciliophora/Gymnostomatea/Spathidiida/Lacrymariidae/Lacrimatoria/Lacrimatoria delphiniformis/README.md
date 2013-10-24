@@ -1,5 +1,4 @@
-Lacrimatoria delphiniformis Bory, 1824 SPECIES
-=======
+# Lacrimatoria delphiniformis Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

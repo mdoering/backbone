@@ -1,5 +1,4 @@
-Cladophialophora sylvestris Crous & de Hoog SPECIES
-=======
+# Cladophialophora sylvestris Crous & de Hoog SPECIES
 
 #### Status
 ACCEPTED

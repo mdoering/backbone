@@ -1,5 +1,4 @@
-Thermales Rainey & da Costa, 2002 ORDER
-=======
+# Thermales Rainey & da Costa, 2002 ORDER
 
 #### Status
 ACCEPTED

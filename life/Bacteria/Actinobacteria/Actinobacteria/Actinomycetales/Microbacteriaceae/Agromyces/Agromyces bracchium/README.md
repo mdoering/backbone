@@ -1,5 +1,4 @@
-Agromyces bracchium Takeuchi & Hatano, 2001 SPECIES
-=======
+# Agromyces bracchium Takeuchi & Hatano, 2001 SPECIES
 
 #### Status
 ACCEPTED

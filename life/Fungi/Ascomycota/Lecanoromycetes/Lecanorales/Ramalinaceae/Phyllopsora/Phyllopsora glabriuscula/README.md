@@ -1,5 +1,4 @@
-Phyllopsora glabriuscula (Nyl.) Swinscow & Krog SPECIES
-=======
+# Phyllopsora glabriuscula (Nyl.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

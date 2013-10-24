@@ -1,5 +1,4 @@
-Kriegeria jacksonii (Seaver) Seaver SPECIES
-=======
+# Kriegeria jacksonii (Seaver) Seaver SPECIES
 
 #### Status
 ACCEPTED

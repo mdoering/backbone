@@ -1,5 +1,4 @@
-Icmadophila adversum (Nyl.) Rambold & Hertel SPECIES
-=======
+# Icmadophila adversum (Nyl.) Rambold & Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius cystidiorapaceus M.M. Moser SPECIES
-=======
+# Cortinarius cystidiorapaceus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

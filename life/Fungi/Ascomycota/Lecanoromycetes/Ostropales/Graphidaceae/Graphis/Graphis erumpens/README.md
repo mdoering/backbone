@@ -1,5 +1,4 @@
-Graphis erumpens Nyl. SPECIES
-=======
+# Graphis erumpens Nyl. SPECIES
 
 #### Status
 ACCEPTED

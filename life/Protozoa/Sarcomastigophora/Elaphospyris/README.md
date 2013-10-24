@@ -1,5 +1,4 @@
-Elaphospyris Haeckel, 1881 GENUS
-=======
+# Elaphospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wentiomyces oreophilus (Speg.) E. Müll. SPECIES
-=======
+# Wentiomyces oreophilus (Speg.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea perpusilla (I.M. Lamb) F.J. Walker SPECIES
-=======
+# Usnea perpusilla (I.M. Lamb) F.J. Walker SPECIES
 
 #### Status
 ACCEPTED

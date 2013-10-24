@@ -1,5 +1,4 @@
-Spiniger curiosus (Parmasto & Žukov) Stalpers, 1974 SPECIES
-=======
+# Spiniger curiosus (Parmasto & Žukov) Stalpers, 1974 SPECIES
 
 #### Status
 ACCEPTED

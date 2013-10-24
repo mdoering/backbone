@@ -1,5 +1,4 @@
-Omphalina stuckertii (Speg.) Raithelh. SPECIES
-=======
+# Omphalina stuckertii (Speg.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

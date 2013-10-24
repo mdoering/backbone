@@ -1,5 +1,4 @@
-Dryobota protea Npv SPECIES
-=======
+# Dryobota protea Npv SPECIES
 
 #### Status
 ACCEPTED

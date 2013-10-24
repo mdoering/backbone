@@ -1,17 +1,16 @@
-Corticium chlamydosporum Burt, 1902 SPECIES
-=======
+# Granulobasidium vellereum (Ellis & Cragin) Jülich, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 10(3): 328 (1979)
 
 #### Original name
-null
+Corticium vellereum Ellis & Cragin, 1885
 
 ### Remarks
 null

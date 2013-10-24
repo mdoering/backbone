@@ -1,5 +1,4 @@
-Trichodiscus melleorufus (Penz. & Sacc.) Kirschst. SPECIES
-=======
+# Trichodiscus melleorufus (Penz. & Sacc.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

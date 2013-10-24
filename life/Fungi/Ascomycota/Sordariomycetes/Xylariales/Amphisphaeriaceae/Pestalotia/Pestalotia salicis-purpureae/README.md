@@ -1,5 +1,4 @@
-Pestalotia salicis-purpureae Sawada SPECIES
-=======
+# Pestalotia salicis-purpureae Sawada SPECIES
 
 #### Status
 ACCEPTED

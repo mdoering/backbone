@@ -1,5 +1,4 @@
-Amphirrhopalium Haeckel, 1887 GENUS
-=======
+# Amphirrhopalium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

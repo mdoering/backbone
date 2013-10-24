@@ -1,5 +1,4 @@
-Hypoxylon exsertum (Fr.) Sacc. SPECIES
-=======
+# Hypoxylon exsertum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria rhagadiosa Rick SPECIES
-=======
+# Armillaria rhagadiosa Rick SPECIES
 
 #### Status
 ACCEPTED

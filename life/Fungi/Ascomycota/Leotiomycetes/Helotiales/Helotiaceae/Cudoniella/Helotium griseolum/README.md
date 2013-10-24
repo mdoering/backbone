@@ -1,5 +1,4 @@
-Helotium griseolum Höhn. SPECIES
-=======
+# Helotium griseolum Höhn. SPECIES
 
 #### Status
 ACCEPTED

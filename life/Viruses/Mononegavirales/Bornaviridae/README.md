@@ -1,5 +1,4 @@
-Bornaviridae FAMILY
-=======
+# Bornaviridae FAMILY
 
 #### Status
 ACCEPTED

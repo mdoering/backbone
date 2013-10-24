@@ -1,5 +1,4 @@
-Oospora necans Sacc. & Trotter SPECIES
-=======
+# Oospora necans Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

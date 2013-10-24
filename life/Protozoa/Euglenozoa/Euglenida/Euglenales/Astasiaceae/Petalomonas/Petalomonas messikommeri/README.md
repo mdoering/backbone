@@ -1,5 +1,4 @@
-Petalomonas messikommeri Christen SPECIES
-=======
+# Petalomonas messikommeri Christen SPECIES
 
 #### Status
 ACCEPTED

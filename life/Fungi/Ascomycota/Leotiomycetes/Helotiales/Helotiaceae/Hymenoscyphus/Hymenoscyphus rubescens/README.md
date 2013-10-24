@@ -1,5 +1,4 @@
-Hymenoscyphus rubescens (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus rubescens (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thaurilens Pavillard, 1917 GENUS
-=======
+# Thaurilens Pavillard, 1917 GENUS
 
 #### Status
 ACCEPTED

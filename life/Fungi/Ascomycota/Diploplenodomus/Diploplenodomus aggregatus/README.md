@@ -1,5 +1,4 @@
-Diploplenodomus aggregatus Höhn. SPECIES
-=======
+# Diploplenodomus aggregatus Höhn. SPECIES
 
 #### Status
 ACCEPTED

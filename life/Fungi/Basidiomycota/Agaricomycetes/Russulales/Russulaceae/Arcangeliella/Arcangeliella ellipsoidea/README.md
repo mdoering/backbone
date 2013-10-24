@@ -1,5 +1,4 @@
-Arcangeliella ellipsoidea Zeller & C.W. Dodge SPECIES
-=======
+# Arcangeliella ellipsoidea Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

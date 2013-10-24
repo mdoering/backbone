@@ -1,5 +1,4 @@
-Brigantiaea lobulatisidiata Aptroot SPECIES
-=======
+# Brigantiaea lobulatisidiata Aptroot SPECIES
 
 #### Status
 ACCEPTED

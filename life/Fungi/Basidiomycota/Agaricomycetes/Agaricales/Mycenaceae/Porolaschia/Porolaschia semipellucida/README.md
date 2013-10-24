@@ -1,5 +1,4 @@
-Porolaschia semipellucida (Zoll.) Pat. SPECIES
-=======
+# Porolaschia semipellucida (Zoll.) Pat. SPECIES
 
 #### Status
 ACCEPTED

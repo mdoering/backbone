@@ -1,5 +1,4 @@
-Myxosporium psidii-guajavae N.C. Mandal & M.K. Dasgupta SPECIES
-=======
+# Myxosporium psidii-guajavae N.C. Mandal & M.K. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea subcavata Motyka SPECIES
-=======
+# Usnea subcavata Motyka SPECIES
 
 #### Status
 ACCEPTED

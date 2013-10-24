@@ -1,17 +1,16 @@
-Bifusella vaccinii Tehon, 1939 SPECIES
-=======
+# Bifusepta tehonii Darker, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 31: 678 (1939)
+Mycologia 55(6): 816 (1963)
 
 #### Original name
-Bifusella vaccinii Tehon, 1939
+Bifusepta tehonii Darker, 1963
 
 ### Remarks
 null

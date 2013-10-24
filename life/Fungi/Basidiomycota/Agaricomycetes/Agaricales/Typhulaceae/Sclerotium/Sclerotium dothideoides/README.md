@@ -1,5 +1,4 @@
-Sclerotium dothideoides Speg. SPECIES
-=======
+# Sclerotium dothideoides Speg. SPECIES
 
 #### Status
 ACCEPTED

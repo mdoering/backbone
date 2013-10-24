@@ -1,5 +1,4 @@
-Teloschistales D. Hawksw. & O.E. Erikss. ORDER
-=======
+# Teloschistales D. Hawksw. & O.E. Erikss. ORDER
 
 #### Status
 ACCEPTED

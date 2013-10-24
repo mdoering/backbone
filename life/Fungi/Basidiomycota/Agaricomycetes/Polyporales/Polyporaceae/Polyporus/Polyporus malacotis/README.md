@@ -1,5 +1,4 @@
-Polyporus malacotis Bres. SPECIES
-=======
+# Polyporus malacotis Bres. SPECIES
 
 #### Status
 ACCEPTED

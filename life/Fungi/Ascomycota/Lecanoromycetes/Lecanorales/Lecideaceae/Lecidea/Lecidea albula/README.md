@@ -1,5 +1,4 @@
-Lecidea albula Nyl. SPECIES
-=======
+# Lecidea albula Nyl. SPECIES
 
 #### Status
 ACCEPTED

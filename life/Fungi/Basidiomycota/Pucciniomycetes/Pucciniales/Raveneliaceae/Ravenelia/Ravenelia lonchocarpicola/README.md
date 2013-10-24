@@ -1,5 +1,4 @@
-Ravenelia lonchocarpicola var. lonchocarpicola VARIETY
-=======
+# Ravenelia lonchocarpicola Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Revista Argent. Bot. 1: 131 (1925)
 
 #### Original name
-Ravenelia lonchocarpicola var. lonchocarpicola
+Ravenelia lonchocarpicola Speg.
 
 ### Remarks
 null

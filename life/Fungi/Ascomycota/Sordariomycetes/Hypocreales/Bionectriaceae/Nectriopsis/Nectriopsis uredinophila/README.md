@@ -1,5 +1,4 @@
-Nectriopsis uredinophila (Syd.) W.Y. Zhuang & X.M. Zhang SPECIES
-=======
+# Nectriopsis uredinophila (Syd.) W.Y. Zhuang & X.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

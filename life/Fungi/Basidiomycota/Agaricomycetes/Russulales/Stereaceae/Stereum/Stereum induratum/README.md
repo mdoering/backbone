@@ -1,5 +1,4 @@
-Stereum induratum Berk. SPECIES
-=======
+# Stereum induratum Berk. SPECIES
 
 #### Status
 ACCEPTED

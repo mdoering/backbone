@@ -1,5 +1,4 @@
-Favolaschia fendleri Singer, 1974 SPECIES
-=======
+# Favolaschia fendleri Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

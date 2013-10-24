@@ -1,5 +1,4 @@
-Diaporthe elaeostroma (Cooke) Berl. & Voglino SPECIES
-=======
+# Diaporthe elaeostroma (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacryomitra turkestanica (P. Karst.) Zerova ex McNabb SPECIES
-=======
+# Dacryomitra turkestanica (P. Karst.) Zerova ex McNabb SPECIES
 
 #### Status
 ACCEPTED

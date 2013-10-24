@@ -1,5 +1,4 @@
-Agaricus crocobaphus Berk. & Broome SPECIES
-=======
+# Agaricus crocobaphus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

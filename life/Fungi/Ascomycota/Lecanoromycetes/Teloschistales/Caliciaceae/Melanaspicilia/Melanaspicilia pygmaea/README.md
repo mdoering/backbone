@@ -1,5 +1,4 @@
-Melanaspicilia pygmaea Räsänen SPECIES
-=======
+# Melanaspicilia pygmaea Räsänen SPECIES
 
 #### Status
 ACCEPTED

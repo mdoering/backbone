@@ -1,5 +1,4 @@
-Phyllosticta concomitans Ellis & Everh. SPECIES
-=======
+# Phyllosticta concomitans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

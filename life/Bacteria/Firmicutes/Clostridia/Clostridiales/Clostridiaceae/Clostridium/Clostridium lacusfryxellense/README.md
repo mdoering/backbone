@@ -1,5 +1,4 @@
-Clostridium lacusfryxellense Spring et al., 2003 SPECIES
-=======
+# Clostridium lacusfryxellense Spring et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

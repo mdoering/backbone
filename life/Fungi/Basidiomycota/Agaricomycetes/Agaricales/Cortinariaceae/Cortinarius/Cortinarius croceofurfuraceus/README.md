@@ -1,5 +1,4 @@
-Cortinarius croceofurfuraceus Rob. Henry SPECIES
-=======
+# Cortinarius croceofurfuraceus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinopsis coniophora (Romagn.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis coniophora (Romagn.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora maculiformis (Hoffm.) Nägeli SPECIES
-=======
+# Lecanora maculiformis (Hoffm.) Nägeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Amorphosporangium globisporum Thiemann, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Actinoplanes globisporus (Thiemann, 1967) Stackebrandt & Kroppenstedt, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

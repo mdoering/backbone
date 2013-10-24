@@ -1,5 +1,4 @@
-Cercospora woodfordiae P. Syd. SPECIES
-=======
+# Cercospora woodfordiae P. Syd. SPECIES
 
 #### Status
 ACCEPTED

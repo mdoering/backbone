@@ -1,5 +1,4 @@
-Ungulina flavescens (Mont.) Pat. SPECIES
-=======
+# Ungulina flavescens (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

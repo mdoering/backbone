@@ -1,5 +1,4 @@
-Drechslerella coelobrocha (Drechsler) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Drechslerella coelobrocha (Drechsler) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

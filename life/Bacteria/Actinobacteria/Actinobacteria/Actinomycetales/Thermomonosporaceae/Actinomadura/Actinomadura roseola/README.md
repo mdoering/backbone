@@ -1,5 +1,4 @@
-Actinomadura roseola Lavrova & Preobrazhenskaya, 1975 SPECIES
-=======
+# Actinomadura roseola Lavrova & Preobrazhenskaya, 1975 SPECIES
 
 #### Status
 ACCEPTED

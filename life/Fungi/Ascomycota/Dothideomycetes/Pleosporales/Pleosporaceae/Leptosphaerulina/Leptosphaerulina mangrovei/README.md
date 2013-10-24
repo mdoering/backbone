@@ -1,5 +1,4 @@
-Leptosphaerulina mangrovei Inderb. & E.B.G. Jones, 2000 SPECIES
-=======
+# Leptosphaerulina mangrovei Inderb. & E.B.G. Jones, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucogramma plicata G. Mey. SPECIES
-=======
+# Leucogramma plicata G. Mey. SPECIES
 
 #### Status
 ACCEPTED

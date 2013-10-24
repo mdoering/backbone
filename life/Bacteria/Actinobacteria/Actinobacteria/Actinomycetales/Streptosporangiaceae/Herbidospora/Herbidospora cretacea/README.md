@@ -1,5 +1,4 @@
-Herbidospora cretacea Kudo et al., 1993 SPECIES
-=======
+# Herbidospora cretacea Kudo et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

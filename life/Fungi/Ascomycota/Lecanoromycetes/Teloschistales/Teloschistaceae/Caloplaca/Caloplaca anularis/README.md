@@ -1,5 +1,4 @@
-Caloplaca anularis Clauzade & Poelt SPECIES
-=======
+# Caloplaca anularis Clauzade & Poelt SPECIES
 
 #### Status
 ACCEPTED

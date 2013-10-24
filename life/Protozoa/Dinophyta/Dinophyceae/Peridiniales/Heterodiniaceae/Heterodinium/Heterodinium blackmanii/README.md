@@ -1,8 +1,7 @@
-Heterodinium curvatum Kofoid, 1907 SPECIES
-=======
+# Heterodinium blackmanii (Murray & Whitting, 1899) Kofoid, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

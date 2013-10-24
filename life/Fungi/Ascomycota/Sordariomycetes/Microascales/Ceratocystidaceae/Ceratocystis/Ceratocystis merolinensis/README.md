@@ -1,5 +1,4 @@
-Ceratocystis merolinensis (Georgev.) C. Moreau SPECIES
-=======
+# Ceratocystis merolinensis (Georgev.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

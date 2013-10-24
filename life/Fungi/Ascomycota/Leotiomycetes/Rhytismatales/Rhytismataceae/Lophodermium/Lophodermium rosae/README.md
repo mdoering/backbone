@@ -1,5 +1,4 @@
-Lophodermium rosae Teng SPECIES
-=======
+# Lophodermium rosae Teng SPECIES
 
 #### Status
 ACCEPTED

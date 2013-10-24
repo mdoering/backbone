@@ -1,5 +1,4 @@
-Chaetomium udagawae Sergeeva SPECIES
-=======
+# Chaetomium udagawae Sergeeva SPECIES
 
 #### Status
 ACCEPTED

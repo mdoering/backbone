@@ -1,5 +1,4 @@
-Sorosporium icosiense Maire SPECIES
-=======
+# Sorosporium icosiense Maire SPECIES
 
 #### Status
 ACCEPTED

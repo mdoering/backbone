@@ -1,5 +1,4 @@
-Endophragmiella angustispora S. Hughes SPECIES
-=======
+# Endophragmiella angustispora S. Hughes SPECIES
 
 #### Status
 ACCEPTED

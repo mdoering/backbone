@@ -1,5 +1,4 @@
-Bacidia chlorosticta (Tuck.) A. Schneid. SPECIES
-=======
+# Bacidia chlorosticta (Tuck.) A. Schneid. SPECIES
 
 #### Status
 ACCEPTED

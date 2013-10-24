@@ -1,17 +1,16 @@
-Xylodon pruniaceus (Hjortstam & Ryvarden) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia pruniacea Hjortstam & Ryvarden, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Fung. (Oslo) 18: 25 (2004)
 
 #### Original name
-null
+Hyphodontia pruniacea Hjortstam & Ryvarden, 2004
 
 ### Remarks
 null

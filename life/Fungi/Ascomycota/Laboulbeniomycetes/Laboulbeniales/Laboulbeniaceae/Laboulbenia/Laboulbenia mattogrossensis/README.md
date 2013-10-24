@@ -1,5 +1,4 @@
-Laboulbenia mattogrossensis Speg. SPECIES
-=======
+# Laboulbenia mattogrossensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca fumescens (Peck) Murrill SPECIES
-=======
+# Melanoleuca fumescens (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

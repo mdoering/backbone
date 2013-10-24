@@ -1,5 +1,4 @@
-Peziza ochracea Schwein. SPECIES
-=======
+# Peziza ochracea Schwein. SPECIES
 
 #### Status
 ACCEPTED

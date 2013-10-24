@@ -1,5 +1,4 @@
-Hypolyssus natalis Rick SPECIES
-=======
+# Hypolyssus natalis Rick SPECIES
 
 #### Status
 ACCEPTED

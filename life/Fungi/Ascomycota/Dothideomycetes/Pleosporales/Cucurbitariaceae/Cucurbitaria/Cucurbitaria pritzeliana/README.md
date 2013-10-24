@@ -1,5 +1,4 @@
-Cucurbitaria pritzeliana Henn. SPECIES
-=======
+# Cucurbitaria pritzeliana Henn. SPECIES
 
 #### Status
 ACCEPTED

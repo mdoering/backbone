@@ -1,5 +1,4 @@
-Caloplaca stanfordensis H. Magn. SPECIES
-=======
+# Caloplaca stanfordensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

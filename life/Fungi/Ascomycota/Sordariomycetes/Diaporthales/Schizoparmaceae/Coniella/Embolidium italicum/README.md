@@ -1,5 +1,4 @@
-Embolidium italicum var. ramulosa Räsänen VARIETY
-=======
+# Embolidium italicum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Embolidium italicum var. ramulosa Räsänen
+Embolidium italicum Sacc. & Speg.
 
 ### Remarks
 null

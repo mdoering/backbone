@@ -1,5 +1,4 @@
-Megatrichophyton caninum (Matr. & Dassonv.) C.W. Dodge SPECIES
-=======
+# Megatrichophyton caninum (Matr. & Dassonv.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

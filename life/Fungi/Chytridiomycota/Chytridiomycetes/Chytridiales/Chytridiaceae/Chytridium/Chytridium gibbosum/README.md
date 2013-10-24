@@ -1,5 +1,4 @@
-Chytridium gibbosum Scherff. SPECIES
-=======
+# Chytridium gibbosum Scherff. SPECIES
 
 #### Status
 ACCEPTED

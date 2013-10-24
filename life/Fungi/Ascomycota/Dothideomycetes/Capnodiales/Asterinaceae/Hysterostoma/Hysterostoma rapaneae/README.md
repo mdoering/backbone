@@ -1,5 +1,4 @@
-Hysterostoma rapaneae Syd. SPECIES
-=======
+# Hysterostoma rapaneae Syd. SPECIES
 
 #### Status
 ACCEPTED

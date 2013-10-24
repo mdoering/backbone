@@ -1,5 +1,4 @@
-Buellia caldesiana Bagl. SPECIES
-=======
+# Buellia caldesiana Bagl. SPECIES
 
 #### Status
 ACCEPTED

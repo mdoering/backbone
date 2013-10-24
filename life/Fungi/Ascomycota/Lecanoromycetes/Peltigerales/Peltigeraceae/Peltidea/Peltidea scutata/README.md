@@ -1,5 +1,4 @@
-Peltidea scutata var. scutata VARIETY
-=======
+# Peltidea scutata (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltidea scutata var. scutata
+Lichen scutatus Wulfen
 
 ### Remarks
 null

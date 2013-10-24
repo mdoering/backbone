@@ -1,5 +1,4 @@
-Gymnodinium pygmaeum Lebour SPECIES
-=======
+# Gymnodinium pygmaeum Lebour SPECIES
 
 #### Status
 ACCEPTED

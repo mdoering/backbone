@@ -1,14 +1,13 @@
-Hygrocybe squarrosa (E. Horak) Boertm., 2002 SPECIES
-=======
+# Neohygrocybe squarrosa E. Horak, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 192: 64 (2002)
+Beih. Nova Hedwigia 43: 127 (1973)
 
 #### Original name
 Neohygrocybe squarrosa E. Horak, 1973

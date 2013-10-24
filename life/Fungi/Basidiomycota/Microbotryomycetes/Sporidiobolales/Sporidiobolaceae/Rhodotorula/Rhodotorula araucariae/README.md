@@ -1,5 +1,4 @@
-Rhodotorula araucariae Grinb. & Yarrow SPECIES
-=======
+# Rhodotorula araucariae Grinb. & Yarrow SPECIES
 
 #### Status
 ACCEPTED

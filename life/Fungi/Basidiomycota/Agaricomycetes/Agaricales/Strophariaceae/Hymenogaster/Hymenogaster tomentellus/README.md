@@ -1,5 +1,4 @@
-Hymenogaster tomentellus R. Hesse SPECIES
-=======
+# Hymenogaster tomentellus R. Hesse SPECIES
 
 #### Status
 ACCEPTED

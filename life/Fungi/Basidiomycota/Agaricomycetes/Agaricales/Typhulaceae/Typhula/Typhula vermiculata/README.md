@@ -1,5 +1,4 @@
-Typhula vermiculata I. Hino & Katum., 1957 SPECIES
-=======
+# Typhula vermiculata I. Hino & Katum., 1957 SPECIES
 
 #### Status
 ACCEPTED

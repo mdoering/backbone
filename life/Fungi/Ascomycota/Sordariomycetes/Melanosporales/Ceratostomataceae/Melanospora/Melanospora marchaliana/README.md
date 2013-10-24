@@ -1,5 +1,4 @@
-Melanospora marchaliana E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Melanospora marchaliana E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

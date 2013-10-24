@@ -1,5 +1,4 @@
-Mycena farinosa Petch SPECIES
-=======
+# Mycena farinosa Petch SPECIES
 
 #### Status
 ACCEPTED

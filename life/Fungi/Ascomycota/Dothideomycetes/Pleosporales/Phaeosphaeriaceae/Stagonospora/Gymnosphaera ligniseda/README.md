@@ -1,5 +1,4 @@
-Gymnosphaera ligniseda Tassi SPECIES
-=======
+# Gymnosphaera ligniseda Tassi SPECIES
 
 #### Status
 ACCEPTED

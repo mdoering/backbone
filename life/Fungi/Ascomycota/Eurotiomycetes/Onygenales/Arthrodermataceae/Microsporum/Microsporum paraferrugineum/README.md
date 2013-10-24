@@ -1,5 +1,4 @@
-Microsporum paraferrugineum O. Magalh. SPECIES
-=======
+# Microsporum paraferrugineum O. Magalh. SPECIES
 
 #### Status
 ACCEPTED

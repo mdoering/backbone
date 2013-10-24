@@ -1,5 +1,4 @@
-Agaricus pseudoclypeaties SPECIES
-=======
+# Agaricus pseudoclypeaties SPECIES
 
 #### Status
 ACCEPTED

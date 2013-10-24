@@ -1,5 +1,4 @@
-Zopfia pakistanica Matsush. SPECIES
-=======
+# Zopfia pakistanica Matsush. SPECIES
 
 #### Status
 ACCEPTED

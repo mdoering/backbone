@@ -1,5 +1,4 @@
-Acaulospora koskei Blaszk., 1995 SPECIES
-=======
+# Acaulospora koskei Blaszk., 1995 SPECIES
 
 #### Status
 ACCEPTED

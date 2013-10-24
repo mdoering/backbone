@@ -1,17 +1,16 @@
-Chloridium botryoideum var. botryoideum (Corda) S. Hughes VARIETY
-=======
+# Chaetosphaeria innumera Berk. & Broome ex Tul. & C. Tul., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 36: 748 (1958)
+Select. fung. carpol. (Paris) 2: 252 (1863)
 
 #### Original name
-Chloridium botryoideum var. botryoideum (Corda) S. Hughes
+Chaetosphaeria innumera Berk. & Broome ex Tul. & C. Tul., 1863
 
 ### Remarks
 null

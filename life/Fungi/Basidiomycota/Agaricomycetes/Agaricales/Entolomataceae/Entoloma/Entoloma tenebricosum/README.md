@@ -1,5 +1,4 @@
-Entoloma tenebricosum E. Horak SPECIES
-=======
+# Entoloma tenebricosum E. Horak SPECIES
 
 #### Status
 ACCEPTED

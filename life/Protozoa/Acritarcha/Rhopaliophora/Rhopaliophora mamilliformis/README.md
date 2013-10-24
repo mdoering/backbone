@@ -1,5 +1,4 @@
-Rhopaliophora mamilliformis Lu Lichang, 1987 emend. Tongiorgi, Yin & Di Milia, 1995 SPECIES
-=======
+# Rhopaliophora mamilliformis Lu Lichang, 1987 emend. Tongiorgi, Yin & Di Milia, 1995 SPECIES
 
 #### Status
 ACCEPTED

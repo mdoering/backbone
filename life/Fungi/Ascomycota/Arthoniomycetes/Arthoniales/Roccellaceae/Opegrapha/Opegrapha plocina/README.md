@@ -1,5 +1,4 @@
-Opegrapha plocina (Ach.) Körb. SPECIES
-=======
+# Opegrapha plocina (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

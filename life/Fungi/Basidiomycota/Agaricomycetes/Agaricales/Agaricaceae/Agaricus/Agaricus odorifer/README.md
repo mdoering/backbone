@@ -1,5 +1,4 @@
-Agaricus odorifer Peck SPECIES
-=======
+# Agaricus odorifer Peck SPECIES
 
 #### Status
 ACCEPTED

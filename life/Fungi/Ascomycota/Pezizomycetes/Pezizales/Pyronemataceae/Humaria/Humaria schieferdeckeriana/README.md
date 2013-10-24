@@ -1,5 +1,4 @@
-Humaria schieferdeckeriana Kirschst. SPECIES
-=======
+# Humaria schieferdeckeriana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

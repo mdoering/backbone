@@ -1,5 +1,4 @@
-Phoma kalkhoffii Bubák SPECIES
-=======
+# Phoma kalkhoffii Bubák SPECIES
 
 #### Status
 ACCEPTED

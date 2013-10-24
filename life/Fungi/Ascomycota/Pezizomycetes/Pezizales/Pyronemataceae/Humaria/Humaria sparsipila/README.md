@@ -1,5 +1,4 @@
-Humaria sparsipila P. Karst. SPECIES
-=======
+# Humaria sparsipila P. Karst. SPECIES
 
 #### Status
 ACCEPTED

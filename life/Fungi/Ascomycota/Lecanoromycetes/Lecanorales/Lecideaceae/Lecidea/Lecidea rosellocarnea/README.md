@@ -1,5 +1,4 @@
-Lecidea rosellocarnea (C. Knight) Nyl. SPECIES
-=======
+# Lecidea rosellocarnea (C. Knight) Nyl. SPECIES
 
 #### Status
 ACCEPTED

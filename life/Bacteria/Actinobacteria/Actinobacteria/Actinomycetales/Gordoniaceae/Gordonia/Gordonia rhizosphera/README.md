@@ -1,5 +1,4 @@
-Gordonia rhizosphera Takeuchi & Hatano, 1998 SPECIES
-=======
+# Gordonia rhizosphera Takeuchi & Hatano, 1998 SPECIES
 
 #### Status
 ACCEPTED

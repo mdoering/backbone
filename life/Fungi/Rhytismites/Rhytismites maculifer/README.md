@@ -1,5 +1,4 @@
-Rhytismites maculifer (Heer) Mesch. SPECIES
-=======
+# Rhytismites maculifer (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

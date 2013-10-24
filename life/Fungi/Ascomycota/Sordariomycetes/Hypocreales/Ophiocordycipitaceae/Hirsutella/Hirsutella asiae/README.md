@@ -1,5 +1,4 @@
-Hirsutella asiae Koval SPECIES
-=======
+# Hirsutella asiae Koval SPECIES
 
 #### Status
 ACCEPTED

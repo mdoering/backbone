@@ -1,5 +1,4 @@
-Trichoderma evansii Samuels SPECIES
-=======
+# Trichoderma evansii Samuels SPECIES
 
 #### Status
 ACCEPTED

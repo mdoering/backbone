@@ -1,5 +1,4 @@
-Sphaceloma fici-caricae Wani & Thirum. SPECIES
-=======
+# Sphaceloma fici-caricae Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

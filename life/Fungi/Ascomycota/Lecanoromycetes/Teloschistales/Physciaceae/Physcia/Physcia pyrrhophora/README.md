@@ -1,5 +1,4 @@
-Physcia pyrrhophora Poelt SPECIES
-=======
+# Physcia pyrrhophora Poelt SPECIES
 
 #### Status
 ACCEPTED

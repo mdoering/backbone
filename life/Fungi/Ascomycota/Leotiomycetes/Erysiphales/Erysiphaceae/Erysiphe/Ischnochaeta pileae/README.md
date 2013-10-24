@@ -1,5 +1,4 @@
-Ischnochaeta pileae Sawada SPECIES
-=======
+# Ischnochaeta pileae Sawada SPECIES
 
 #### Status
 ACCEPTED

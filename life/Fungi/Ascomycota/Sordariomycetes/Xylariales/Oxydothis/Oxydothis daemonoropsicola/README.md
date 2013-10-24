@@ -1,5 +1,4 @@
-Oxydothis daemonoropsicola J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis daemonoropsicola J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

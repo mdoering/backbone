@@ -1,5 +1,4 @@
-Graphis rufopallida Vain. SPECIES
-=======
+# Graphis rufopallida Vain. SPECIES
 
 #### Status
 ACCEPTED

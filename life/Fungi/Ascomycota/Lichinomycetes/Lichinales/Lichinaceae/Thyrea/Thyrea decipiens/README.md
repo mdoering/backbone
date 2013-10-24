@@ -1,5 +1,4 @@
-Thyrea decipiens (A. Massal.) A. Massal. SPECIES
-=======
+# Thyrea decipiens (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

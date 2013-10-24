@@ -1,5 +1,4 @@
-Isaria episphaerica Desm. SPECIES
-=======
+# Isaria episphaerica Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Odontia andina Pat., 1895 SPECIES
-=======
+# Dendrothele andina (Pat.) Nakasone, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 3(1): 56 (1895)
+Nova Hedwigia 83(1-2): 102 (2006)
 
 #### Original name
 Odontia andina Pat., 1895

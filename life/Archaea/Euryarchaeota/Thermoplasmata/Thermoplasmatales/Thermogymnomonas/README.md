@@ -1,5 +1,4 @@
-Thermogymnomonas Itoh et al., 2007 GENUS
-=======
+# Thermogymnomonas Itoh et al., 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halogranum Cui et al., 2009 GENUS
-=======
+# Halogranum Cui et al., 2009 GENUS
 
 #### Status
 ACCEPTED

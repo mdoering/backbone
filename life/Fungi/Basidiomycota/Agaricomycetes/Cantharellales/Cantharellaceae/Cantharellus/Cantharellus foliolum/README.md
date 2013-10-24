@@ -1,5 +1,4 @@
-Cantharellus foliolum Kalchbr. SPECIES
-=======
+# Cantharellus foliolum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomyces hyovaginalis Collins et al., 1993 SPECIES
-=======
+# Actinomyces hyovaginalis Collins et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

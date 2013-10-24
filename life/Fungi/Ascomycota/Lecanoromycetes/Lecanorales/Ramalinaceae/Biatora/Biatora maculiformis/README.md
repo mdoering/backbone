@@ -1,5 +1,4 @@
-Biatora maculiformis (Hoffm.) Beltram. SPECIES
-=======
+# Biatora maculiformis (Hoffm.) Beltram. SPECIES
 
 #### Status
 ACCEPTED

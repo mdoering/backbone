@@ -1,5 +1,4 @@
-Aphelophragmina brittanica (Macfadyen, 1942) SPECIES
-=======
+# Aphelophragmina brittanica (Macfadyen, 1942) SPECIES
 
 #### Status
 ACCEPTED

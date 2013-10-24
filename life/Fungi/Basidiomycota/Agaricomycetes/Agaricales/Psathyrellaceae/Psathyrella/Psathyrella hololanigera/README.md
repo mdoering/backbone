@@ -1,5 +1,4 @@
-Psathyrella hololanigera (G.F. Atk.) A.H. Sm. SPECIES
-=======
+# Psathyrella hololanigera (G.F. Atk.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

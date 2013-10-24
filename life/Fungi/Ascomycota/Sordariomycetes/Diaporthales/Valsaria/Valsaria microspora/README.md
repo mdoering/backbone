@@ -1,5 +1,4 @@
-Valsaria microspora Rostr. SPECIES
-=======
+# Valsaria microspora Rostr. SPECIES
 
 #### Status
 ACCEPTED

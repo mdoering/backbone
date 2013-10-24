@@ -1,17 +1,16 @@
-Boletus hoseneae A.H. Sm. & Thiers SPECIES
-=======
+# Boletus hoseneyae A.H. Sm. & Thiers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 7(2): 245 (1973)
 
 #### Original name
-Boletus hoseneae A.H. Sm. & Thiers
+Boletus hoseneyae A.H. Sm. & Thiers
 
 ### Remarks
 null

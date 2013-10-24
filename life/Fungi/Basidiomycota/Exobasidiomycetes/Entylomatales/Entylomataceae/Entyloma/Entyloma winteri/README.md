@@ -1,5 +1,4 @@
-Entyloma winteri Linh. SPECIES
-=======
+# Entyloma winteri Linh. SPECIES
 
 #### Status
 ACCEPTED

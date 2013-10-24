@@ -1,8 +1,7 @@
-Melanoleuca olivaceoflavum Murrill SPECIES
-=======
+# Melanoleuca olivaceoflava Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanoleuca olivaceoflavum Murrill
+Melanoleuca olivaceoflava Murrill
 
 ### Remarks
 null

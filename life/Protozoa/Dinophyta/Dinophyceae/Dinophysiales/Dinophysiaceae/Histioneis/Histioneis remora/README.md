@@ -1,5 +1,4 @@
-Histioneis remora Stein SPECIES
-=======
+# Histioneis remora Stein SPECIES
 
 #### Status
 ACCEPTED

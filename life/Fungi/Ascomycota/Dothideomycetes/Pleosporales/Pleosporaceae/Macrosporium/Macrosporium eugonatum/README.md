@@ -1,5 +1,4 @@
-Macrosporium eugonatum Sacc. SPECIES
-=======
+# Macrosporium eugonatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

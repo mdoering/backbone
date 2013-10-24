@@ -1,5 +1,4 @@
-Gymnomyces solidus Rodway SPECIES
-=======
+# Gymnomyces solidus Rodway SPECIES
 
 #### Status
 ACCEPTED

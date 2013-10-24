@@ -1,5 +1,4 @@
-Cytosporella platani Oudem. SPECIES
-=======
+# Cytosporella platani Oudem. SPECIES
 
 #### Status
 ACCEPTED

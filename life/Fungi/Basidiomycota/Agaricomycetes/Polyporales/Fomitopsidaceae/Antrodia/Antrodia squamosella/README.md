@@ -1,5 +1,4 @@
-Antrodia squamosella Bernicchia & Ryvarden SPECIES
-=======
+# Antrodia squamosella Bernicchia & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

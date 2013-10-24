@@ -1,5 +1,4 @@
-Rhizophydium scenedesmi (Fott) Karling SPECIES
-=======
+# Rhizophydium scenedesmi (Fott) Karling SPECIES
 
 #### Status
 ACCEPTED

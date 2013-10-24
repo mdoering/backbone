@@ -1,5 +1,4 @@
-Leptonia fabaceola Largent SPECIES
-=======
+# Leptonia fabaceola Largent SPECIES
 
 #### Status
 ACCEPTED

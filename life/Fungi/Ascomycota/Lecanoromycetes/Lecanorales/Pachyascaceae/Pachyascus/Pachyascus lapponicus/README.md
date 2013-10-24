@@ -1,5 +1,4 @@
-Pachyascus lapponicus Poelt & Hertel SPECIES
-=======
+# Pachyascus lapponicus Poelt & Hertel SPECIES
 
 #### Status
 ACCEPTED

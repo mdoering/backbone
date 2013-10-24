@@ -1,5 +1,4 @@
-Patellaria fenestrata Cooke & Peck SPECIES
-=======
+# Patellaria fenestrata Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

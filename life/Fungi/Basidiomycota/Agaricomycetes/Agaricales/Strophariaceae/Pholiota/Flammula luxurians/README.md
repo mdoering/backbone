@@ -1,5 +1,4 @@
-Flammula luxurians A. Pearson SPECIES
-=======
+# Flammula luxurians A. Pearson SPECIES
 
 #### Status
 ACCEPTED

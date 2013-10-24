@@ -1,5 +1,4 @@
-Pythium adhaerens Sparrow, 1931 SPECIES
-=======
+# Pythium adhaerens Sparrow, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora bonducellae (Henn.) U. Braun, Dianese & A. Hern. Gut. SPECIES
-=======
+# Pseudocercospora bonducellae (Henn.) U. Braun, Dianese & A. Hern. Gut. SPECIES
 
 #### Status
 ACCEPTED

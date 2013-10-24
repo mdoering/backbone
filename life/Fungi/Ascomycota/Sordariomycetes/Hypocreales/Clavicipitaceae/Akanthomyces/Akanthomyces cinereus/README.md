@@ -1,5 +1,4 @@
-Akanthomyces cinereus Hywel-Jones SPECIES
-=======
+# Akanthomyces cinereus Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

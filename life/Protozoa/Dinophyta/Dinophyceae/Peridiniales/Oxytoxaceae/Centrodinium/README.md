@@ -1,5 +1,4 @@
-Centrodinium Kofoid, 1907 GENUS
-=======
+# Centrodinium Kofoid, 1907 GENUS
 
 #### Status
 ACCEPTED

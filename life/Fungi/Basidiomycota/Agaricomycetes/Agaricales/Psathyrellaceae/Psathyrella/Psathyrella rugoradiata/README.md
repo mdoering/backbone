@@ -1,5 +1,4 @@
-Psathyrella rugoradiata Hesler & A.H. Sm. SPECIES
-=======
+# Psathyrella rugoradiata Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

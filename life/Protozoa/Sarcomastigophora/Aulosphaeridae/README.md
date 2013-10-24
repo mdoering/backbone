@@ -1,5 +1,4 @@
-Aulosphaeridae Haeckel, 1887 FAMILY
-=======
+# Aulosphaeridae Haeckel, 1887 FAMILY
 
 #### Status
 ACCEPTED

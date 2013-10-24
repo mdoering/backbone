@@ -1,5 +1,4 @@
-Scyphosphaera ventriosa Martini, 1968 SPECIES
-=======
+# Scyphosphaera ventriosa Martini, 1968 SPECIES
 
 #### Status
 ACCEPTED

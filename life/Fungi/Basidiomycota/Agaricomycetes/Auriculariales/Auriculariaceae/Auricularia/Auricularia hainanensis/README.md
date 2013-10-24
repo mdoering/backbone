@@ -1,5 +1,4 @@
-Auricularia hainanensis L.J. Li SPECIES
-=======
+# Auricularia hainanensis L.J. Li SPECIES
 
 #### Status
 ACCEPTED

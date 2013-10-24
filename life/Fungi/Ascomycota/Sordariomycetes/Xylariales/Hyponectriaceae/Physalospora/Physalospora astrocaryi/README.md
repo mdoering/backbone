@@ -1,5 +1,4 @@
-Physalospora astrocaryi Henn. SPECIES
-=======
+# Physalospora astrocaryi Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria heppii Petr. SPECIES
-=======
+# Didymosphaeria heppii Petr. SPECIES
 
 #### Status
 ACCEPTED

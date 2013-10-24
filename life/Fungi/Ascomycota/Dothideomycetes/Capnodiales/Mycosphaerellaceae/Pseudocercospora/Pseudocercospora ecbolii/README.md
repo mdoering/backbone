@@ -1,5 +1,4 @@
-Pseudocercospora ecbolii (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora ecbolii (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

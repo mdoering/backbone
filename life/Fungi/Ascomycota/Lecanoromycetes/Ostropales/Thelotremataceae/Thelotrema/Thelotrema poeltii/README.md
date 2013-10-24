@@ -1,5 +1,4 @@
-Thelotrema poeltii Patw. & C.R. Kulk. SPECIES
-=======
+# Thelotrema poeltii Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

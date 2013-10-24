@@ -1,5 +1,4 @@
-Marasmiellus radiatim-plicatus (Kalchbr.) D.A. Reid SPECIES
-=======
+# Marasmiellus radiatim-plicatus (Kalchbr.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

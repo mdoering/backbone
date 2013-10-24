@@ -1,5 +1,4 @@
-Bacidia fulgidula (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia fulgidula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

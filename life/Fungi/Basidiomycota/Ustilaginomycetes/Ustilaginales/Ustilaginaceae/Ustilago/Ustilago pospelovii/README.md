@@ -1,5 +1,4 @@
-Ustilago pospelovii Uljan. SPECIES
-=======
+# Ustilago pospelovii Uljan. SPECIES
 
 #### Status
 ACCEPTED

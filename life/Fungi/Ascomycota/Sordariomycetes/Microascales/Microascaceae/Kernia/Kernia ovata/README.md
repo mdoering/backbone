@@ -1,5 +1,4 @@
-Kernia ovata (C. Booth) Malloch & Cain, 1973 SPECIES
-=======
+# Kernia ovata (C. Booth) Malloch & Cain, 1973 SPECIES
 
 #### Status
 ACCEPTED

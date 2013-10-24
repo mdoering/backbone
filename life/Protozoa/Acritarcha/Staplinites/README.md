@@ -1,5 +1,4 @@
-Staplinites S.L. Van Landingham, 1965 GENUS
-=======
+# Staplinites S.L. Van Landingham, 1965 GENUS
 
 #### Status
 ACCEPTED

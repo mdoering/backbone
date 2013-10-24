@@ -1,5 +1,4 @@
-Phyllopsora borbonica Timdal & Krog SPECIES
-=======
+# Phyllopsora borbonica Timdal & Krog SPECIES
 
 #### Status
 ACCEPTED

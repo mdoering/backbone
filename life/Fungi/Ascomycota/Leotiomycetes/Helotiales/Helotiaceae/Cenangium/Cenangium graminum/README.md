@@ -1,5 +1,4 @@
-Cenangium graminum Preuss SPECIES
-=======
+# Cenangium graminum Preuss SPECIES
 
 #### Status
 ACCEPTED

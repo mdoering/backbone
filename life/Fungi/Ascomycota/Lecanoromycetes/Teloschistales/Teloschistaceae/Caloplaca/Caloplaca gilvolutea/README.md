@@ -1,5 +1,4 @@
-Caloplaca gilvolutea (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca gilvolutea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

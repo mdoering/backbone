@@ -1,5 +1,4 @@
-Ferrarisia pamellisiae Thaung, 1975 SPECIES
-=======
+# Ferrarisia pamellisiae Thaung, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium fructigenum McAlpine SPECIES
-=======
+# Cephalosporium fructigenum McAlpine SPECIES
 
 #### Status
 ACCEPTED

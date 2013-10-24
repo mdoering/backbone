@@ -1,5 +1,4 @@
-Phyllosticta adusta Ellis & G. Martin SPECIES
-=======
+# Phyllosticta adusta Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

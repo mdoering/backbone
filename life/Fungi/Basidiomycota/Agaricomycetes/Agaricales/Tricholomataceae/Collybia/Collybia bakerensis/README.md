@@ -1,5 +1,4 @@
-Collybia bakerensis A.H. Sm. SPECIES
-=======
+# Collybia bakerensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

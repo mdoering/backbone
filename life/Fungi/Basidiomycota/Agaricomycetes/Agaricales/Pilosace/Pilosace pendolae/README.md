@@ -1,5 +1,4 @@
-Pilosace pendolae Speg. SPECIES
-=======
+# Pilosace pendolae Speg. SPECIES
 
 #### Status
 ACCEPTED

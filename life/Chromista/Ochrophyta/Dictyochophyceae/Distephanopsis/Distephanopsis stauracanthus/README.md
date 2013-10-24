@@ -1,5 +1,4 @@
-Distephanopsis stauracanthus (Ehrenberg) P. Dumitrica SPECIES
-=======
+# Distephanopsis stauracanthus (Ehrenberg) P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

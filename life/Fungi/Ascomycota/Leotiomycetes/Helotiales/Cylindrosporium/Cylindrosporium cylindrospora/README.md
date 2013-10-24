@@ -1,5 +1,4 @@
-Cylindrosporium cylindrospora SPECIES
-=======
+# Cylindrosporium cylindrospora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma demetriana Bubák SPECIES
-=======
+# Phoma demetriana Bubák SPECIES
 
 #### Status
 ACCEPTED

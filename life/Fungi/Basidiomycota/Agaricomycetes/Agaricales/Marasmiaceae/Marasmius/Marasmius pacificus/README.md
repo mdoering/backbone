@@ -1,5 +1,4 @@
-Marasmius pacificus Singer SPECIES
-=======
+# Marasmius pacificus Singer SPECIES
 
 #### Status
 ACCEPTED

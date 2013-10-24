@@ -1,5 +1,4 @@
-Dendrothele asterospora Boidin & Lanq., 1996 SPECIES
-=======
+# Dendrothele asterospora Boidin & Lanq., 1996 SPECIES
 
 #### Status
 ACCEPTED

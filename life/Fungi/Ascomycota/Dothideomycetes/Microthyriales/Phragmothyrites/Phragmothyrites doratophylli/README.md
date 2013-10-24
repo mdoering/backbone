@@ -1,5 +1,4 @@
-Phragmothyrites doratophylli (Krassilov) Kalgutkar & Janson. SPECIES
-=======
+# Phragmothyrites doratophylli (Krassilov) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

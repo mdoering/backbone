@@ -1,5 +1,4 @@
-Gyroidina neosoldani Brotzen SPECIES
-=======
+# Gyroidina neosoldani Brotzen SPECIES
 
 #### Status
 ACCEPTED

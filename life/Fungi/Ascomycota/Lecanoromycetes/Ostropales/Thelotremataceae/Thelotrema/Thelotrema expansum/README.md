@@ -1,14 +1,13 @@
-Phaeotrema expansum (C. Knight) Shirley SPECIES
-=======
+# Thelotrema expansum C. Knight SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Proc. R. Soc. Qd. 6: 189 (1889)
+in Bailey, Synops. Queensl. Fl. 2(Suppl. ): 86 (1888)
 
 #### Original name
 Thelotrema expansum C. Knight

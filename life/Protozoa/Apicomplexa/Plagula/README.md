@@ -1,5 +1,4 @@
-Plagula Overstreet, Hawkins & Fournie, 1984 GENUS
-=======
+# Plagula Overstreet, Hawkins & Fournie, 1984 GENUS
 
 #### Status
 ACCEPTED

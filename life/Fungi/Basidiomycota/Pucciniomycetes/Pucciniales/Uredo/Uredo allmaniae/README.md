@@ -1,5 +1,4 @@
-Uredo allmaniae P.B. Chavan & U.V. Kulk. SPECIES
-=======
+# Uredo allmaniae P.B. Chavan & U.V. Kulk. SPECIES
 
 #### Status
 ACCEPTED

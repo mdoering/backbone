@@ -1,5 +1,4 @@
-Sarcographa punctum (Mont.) Müll. Arg. SPECIES
-=======
+# Sarcographa punctum (Mont.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

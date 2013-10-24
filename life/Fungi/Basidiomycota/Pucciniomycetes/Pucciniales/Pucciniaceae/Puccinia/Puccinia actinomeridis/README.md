@@ -1,5 +1,4 @@
-Puccinia actinomeridis Magnus SPECIES
-=======
+# Puccinia actinomeridis Magnus SPECIES
 
 #### Status
 ACCEPTED

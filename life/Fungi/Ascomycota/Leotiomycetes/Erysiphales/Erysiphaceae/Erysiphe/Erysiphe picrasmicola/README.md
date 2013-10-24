@@ -1,5 +1,4 @@
-Erysiphe picrasmicola U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe picrasmicola U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

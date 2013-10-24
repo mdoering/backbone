@@ -1,5 +1,4 @@
-Ceratella macrospora Pat. SPECIES
-=======
+# Ceratella macrospora Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Appendicospora K.D. Hyde GENUS
-=======
+# Appendicospora K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

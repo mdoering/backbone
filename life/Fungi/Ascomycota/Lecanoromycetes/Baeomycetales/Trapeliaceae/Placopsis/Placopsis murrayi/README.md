@@ -1,5 +1,4 @@
-Placopsis murrayi D. J. Galloway SPECIES
-=======
+# Placopsis murrayi D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

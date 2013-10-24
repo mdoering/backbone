@@ -1,5 +1,4 @@
-Opegrapha andamanica Upreti & Ajay Singh SPECIES
-=======
+# Opegrapha andamanica Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

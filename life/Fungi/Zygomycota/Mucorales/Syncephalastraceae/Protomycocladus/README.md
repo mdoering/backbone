@@ -1,5 +1,4 @@
-Protomycocladus Schipper & Samson GENUS
-=======
+# Protomycocladus Schipper & Samson GENUS
 
 #### Status
 ACCEPTED

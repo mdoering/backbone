@@ -1,5 +1,4 @@
-Phellinus pseudolaevigatus Parmasto SPECIES
-=======
+# Phellinus pseudolaevigatus Parmasto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria brachiata Sacc. SPECIES
-=======
+# Xylaria brachiata Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia gardeniae C. Massal. SPECIES
-=======
+# Ramularia gardeniae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

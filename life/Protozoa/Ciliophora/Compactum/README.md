@@ -1,5 +1,4 @@
-Compactum Hirshfield, Isquith & Bhandary, 1965 GENUS
-=======
+# Compactum Hirshfield, Isquith & Bhandary, 1965 GENUS
 
 #### Status
 ACCEPTED

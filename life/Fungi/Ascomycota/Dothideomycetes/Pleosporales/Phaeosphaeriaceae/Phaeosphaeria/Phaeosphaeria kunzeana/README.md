@@ -1,5 +1,4 @@
-Phaeosphaeria kunzeana (Berl.) Khashn. & Shearer SPECIES
-=======
+# Phaeosphaeria kunzeana (Berl.) Khashn. & Shearer SPECIES
 
 #### Status
 ACCEPTED

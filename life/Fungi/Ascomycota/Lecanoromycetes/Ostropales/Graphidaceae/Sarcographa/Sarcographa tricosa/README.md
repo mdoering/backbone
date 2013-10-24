@@ -1,5 +1,4 @@
-Sarcographa tricosa (Ach.) Müll. Arg. SPECIES
-=======
+# Sarcographa tricosa (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

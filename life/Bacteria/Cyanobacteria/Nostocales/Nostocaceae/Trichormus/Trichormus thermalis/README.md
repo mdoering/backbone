@@ -1,5 +1,4 @@
-Trichormus thermalis (V. Vouk) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus thermalis (V. Vouk) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus albissimus Murrill SPECIES
-=======
+# Crepidotus albissimus Murrill SPECIES
 
 #### Status
 ACCEPTED

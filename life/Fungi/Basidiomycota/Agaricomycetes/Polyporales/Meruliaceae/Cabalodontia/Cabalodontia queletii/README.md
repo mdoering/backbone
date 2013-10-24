@@ -1,14 +1,13 @@
-Odontia queletii Bourdot & Galzin, 1914 SPECIES
-=======
+# Cabalodontia queletii (Bourdot & Galzin) Piatek, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 30(3): 270 (1914)
+Polish Botanical Journal 49(1): 3 (2004)
 
 #### Original name
 Odontia queletii Bourdot & Galzin, 1914

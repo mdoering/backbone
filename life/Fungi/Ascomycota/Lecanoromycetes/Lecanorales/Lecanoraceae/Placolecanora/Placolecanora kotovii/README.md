@@ -1,5 +1,4 @@
-Placolecanora kotovii (Oxner) Kopach. SPECIES
-=======
+# Placolecanora kotovii (Oxner) Kopach. SPECIES
 
 #### Status
 ACCEPTED

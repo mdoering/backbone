@@ -1,5 +1,4 @@
-Tuburcinia trillii (H.S. Jacks.) Miyabe SPECIES
-=======
+# Tuburcinia trillii (H.S. Jacks.) Miyabe SPECIES
 
 #### Status
 ACCEPTED

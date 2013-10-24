@@ -1,14 +1,13 @@
-Leptotrema spondaicum (Nyl.) Zahlbr. SPECIES
-=======
+# Thelotrema spondaicum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 640 (1923)
+Annls Sci. Nat. , Bot. , sér. 4 19: 330 (1863)
 
 #### Original name
 Thelotrema spondaicum Nyl.

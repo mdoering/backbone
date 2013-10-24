@@ -1,5 +1,4 @@
-Asterina samaderae Hosag. & Manojk. SPECIES
-=======
+# Asterina samaderae Hosag. & Manojk. SPECIES
 
 #### Status
 ACCEPTED

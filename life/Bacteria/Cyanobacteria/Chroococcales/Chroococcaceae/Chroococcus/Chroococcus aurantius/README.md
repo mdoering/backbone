@@ -1,5 +1,4 @@
-Chroococcus aurantius (Agardh) Wille SPECIES
-=======
+# Chroococcus aurantius (Agardh) Wille SPECIES
 
 #### Status
 ACCEPTED

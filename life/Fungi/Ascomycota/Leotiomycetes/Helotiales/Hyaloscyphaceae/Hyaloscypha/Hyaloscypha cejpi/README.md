@@ -1,5 +1,4 @@
-Hyaloscypha cejpi Velen. SPECIES
-=======
+# Hyaloscypha cejpi Velen. SPECIES
 
 #### Status
 ACCEPTED

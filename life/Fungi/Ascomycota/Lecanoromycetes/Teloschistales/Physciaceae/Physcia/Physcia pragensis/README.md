@@ -1,5 +1,4 @@
-Physcia pragensis f. pragensis FORM
-=======
+# Physcia pragensis Nádv. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia pragensis f. pragensis
+Physcia pragensis Nádv.
 
 ### Remarks
 null

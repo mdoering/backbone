@@ -1,5 +1,4 @@
-Amphicoryne scalaris (Batsch) SPECIES
-=======
+# Amphicoryne scalaris (Batsch) SPECIES
 
 #### Status
 DOUBTFUL

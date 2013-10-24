@@ -1,5 +1,4 @@
-Vaginicola tincta Ehrenberg, 1830 SPECIES
-=======
+# Vaginicola tincta Ehrenberg, 1830 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo yamadana (Hirats. f.) Hirats. f. SPECIES
-=======
+# Uredo yamadana (Hirats. f.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

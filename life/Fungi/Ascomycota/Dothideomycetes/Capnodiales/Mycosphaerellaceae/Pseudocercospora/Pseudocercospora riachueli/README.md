@@ -1,5 +1,4 @@
-Pseudocercospora riachueli (Speg.) Deighton SPECIES
-=======
+# Pseudocercospora riachueli (Speg.) Deighton SPECIES
 
 #### Status
 ACCEPTED

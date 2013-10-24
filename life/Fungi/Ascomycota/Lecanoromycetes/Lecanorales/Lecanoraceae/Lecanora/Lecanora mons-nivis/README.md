@@ -1,5 +1,4 @@
-Lecanora mons-nivis Darb. SPECIES
-=======
+# Lecanora mons-nivis Darb. SPECIES
 
 #### Status
 ACCEPTED

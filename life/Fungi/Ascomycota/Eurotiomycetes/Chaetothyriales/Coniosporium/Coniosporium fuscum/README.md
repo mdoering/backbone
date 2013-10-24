@@ -1,5 +1,4 @@
-Coniosporium fuscum Dias & Sousa da Câmara SPECIES
-=======
+# Coniosporium fuscum Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

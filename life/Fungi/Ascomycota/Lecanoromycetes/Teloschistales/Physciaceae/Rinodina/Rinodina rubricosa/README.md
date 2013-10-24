@@ -1,5 +1,4 @@
-Rinodina rubricosa (Ach.) Gray SPECIES
-=======
+# Rinodina rubricosa (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

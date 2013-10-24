@@ -1,5 +1,4 @@
-Agaricus umbilicalis With. SPECIES
-=======
+# Agaricus umbilicalis With. SPECIES
 
 #### Status
 ACCEPTED

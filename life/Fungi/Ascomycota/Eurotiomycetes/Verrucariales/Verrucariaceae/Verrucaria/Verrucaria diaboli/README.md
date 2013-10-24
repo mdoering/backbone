@@ -1,5 +1,4 @@
-Verrucaria diaboli (A. Massal.) Körb. SPECIES
-=======
+# Verrucaria diaboli (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Radiocystis geminata Skuja SPECIES
-=======
+# Radiocystis geminata Skuja SPECIES
 
 #### Status
 ACCEPTED

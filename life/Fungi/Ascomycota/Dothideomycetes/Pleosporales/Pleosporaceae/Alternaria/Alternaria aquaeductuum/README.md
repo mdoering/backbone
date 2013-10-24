@@ -1,5 +1,4 @@
-Alternaria aquaeductuum Yatel SPECIES
-=======
+# Alternaria aquaeductuum Yatel SPECIES
 
 #### Status
 ACCEPTED

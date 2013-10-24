@@ -1,5 +1,4 @@
-Pleurotheliopsis inclinata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Pleurotheliopsis inclinata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

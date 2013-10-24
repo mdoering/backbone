@@ -1,5 +1,4 @@
-Lithographa deplanata J. Steiner SPECIES
-=======
+# Lithographa deplanata J. Steiner SPECIES
 
 #### Status
 ACCEPTED

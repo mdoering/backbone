@@ -1,5 +1,4 @@
-Sirocoleum indicum Zeller SPECIES
-=======
+# Sirocoleum indicum Zeller SPECIES
 
 #### Status
 ACCEPTED

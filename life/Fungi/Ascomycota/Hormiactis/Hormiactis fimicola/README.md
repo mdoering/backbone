@@ -1,5 +1,4 @@
-Hormiactis fimicola Sacc. & Marchal, 1885 SPECIES
-=======
+# Hormiactis fimicola Sacc. & Marchal, 1885 SPECIES
 
 #### Status
 ACCEPTED

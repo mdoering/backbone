@@ -1,5 +1,4 @@
-Taphrina polystichi Mix, 1938 SPECIES
-=======
+# Taphrina polystichi Mix, 1938 SPECIES
 
 #### Status
 ACCEPTED

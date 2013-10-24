@@ -1,5 +1,4 @@
-Pseudorocella Deflandre, 1938 GENUS
-=======
+# Pseudorocella Deflandre, 1938 GENUS
 
 #### Status
 ACCEPTED

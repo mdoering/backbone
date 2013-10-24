@@ -1,5 +1,4 @@
-Tokophryella Jankowski, 1973 GENUS
-=======
+# Tokophryella Jankowski, 1973 GENUS
 
 #### Status
 ACCEPTED

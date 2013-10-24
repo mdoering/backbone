@@ -1,5 +1,4 @@
-Dimeromyces cryptici Thaxt. SPECIES
-=======
+# Dimeromyces cryptici Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola bidentata var. bidentata VARIETY
-=======
+# Meliola bidentata Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 11(no. 57): 37 (1882)
 
 #### Original name
-Meliola bidentata var. bidentata
+Meliola bidentata Cooke
 
 ### Remarks
 null

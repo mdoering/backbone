@@ -1,5 +1,4 @@
-Cladonia microscypha Ahti & S. Stenroos SPECIES
-=======
+# Cladonia microscypha Ahti & S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

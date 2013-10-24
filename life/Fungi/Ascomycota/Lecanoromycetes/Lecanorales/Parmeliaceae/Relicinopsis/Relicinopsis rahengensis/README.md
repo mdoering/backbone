@@ -1,14 +1,13 @@
-Pseudoparmelia rahengensis (Vain.) Hale SPECIES
-=======
+# Relicinopsis rahengensis (Vain.) Elix & Verdon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 29: 191 (1974)
+in Elix, Johnston & Verdon, Mycotaxon 27: 282 (1986)
 
 #### Original name
 Parmelia rahengensis Vain.

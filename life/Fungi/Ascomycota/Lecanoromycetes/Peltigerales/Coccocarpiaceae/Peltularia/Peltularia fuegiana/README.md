@@ -1,5 +1,4 @@
-Peltularia fuegiana Henssen & P.M. Jørg. SPECIES
-=======
+# Peltularia fuegiana Henssen & P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

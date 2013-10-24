@@ -1,5 +1,4 @@
-Uredo nominata Arthur SPECIES
-=======
+# Uredo nominata Arthur SPECIES
 
 #### Status
 ACCEPTED

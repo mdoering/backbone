@@ -1,5 +1,4 @@
-Uncinula toxicodendricola Z.X. Chen & Y.J. Yao SPECIES
-=======
+# Uncinula toxicodendricola Z.X. Chen & Y.J. Yao SPECIES
 
 #### Status
 ACCEPTED

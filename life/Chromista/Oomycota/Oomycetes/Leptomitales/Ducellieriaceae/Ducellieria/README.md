@@ -1,5 +1,4 @@
-Ducellieria Teiling GENUS
-=======
+# Ducellieria Teiling GENUS
 
 #### Status
 ACCEPTED

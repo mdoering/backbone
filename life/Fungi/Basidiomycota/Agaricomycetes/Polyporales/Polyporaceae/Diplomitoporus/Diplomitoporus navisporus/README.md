@@ -1,5 +1,4 @@
-Diplomitoporus navisporus Gibertoni & Ryvarden, 2004 SPECIES
-=======
+# Diplomitoporus navisporus Gibertoni & Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

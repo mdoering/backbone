@@ -1,5 +1,4 @@
-Descolea pretiosa E. Horak SPECIES
-=======
+# Descolea pretiosa E. Horak SPECIES
 
 #### Status
 ACCEPTED

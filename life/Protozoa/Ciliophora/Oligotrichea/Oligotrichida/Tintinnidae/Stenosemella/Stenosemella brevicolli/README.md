@@ -1,5 +1,4 @@
-Stenosemella brevicolli SPECIES
-=======
+# Stenosemella brevicolli SPECIES
 
 #### Status
 ACCEPTED

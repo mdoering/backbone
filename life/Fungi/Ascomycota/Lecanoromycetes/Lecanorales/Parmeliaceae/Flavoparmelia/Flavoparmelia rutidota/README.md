@@ -1,17 +1,16 @@
-Parmelia conspersa f. subconspersa FORM
-=======
+# Flavoparmelia rutidota (Hook. f. & Taylor) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 25(2): 605 (1986)
 
 #### Original name
-Parmelia subconspersa
+Parmelia rutidota
 
 ### Remarks
 null

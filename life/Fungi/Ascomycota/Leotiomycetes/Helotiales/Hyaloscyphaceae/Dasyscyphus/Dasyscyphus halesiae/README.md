@@ -1,5 +1,4 @@
-Dasyscyphus halesiae (E.K. Cash) Dennis SPECIES
-=======
+# Dasyscyphus halesiae (E.K. Cash) Dennis SPECIES
 
 #### Status
 ACCEPTED

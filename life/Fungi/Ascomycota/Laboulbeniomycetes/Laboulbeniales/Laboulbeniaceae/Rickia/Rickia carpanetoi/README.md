@@ -1,5 +1,4 @@
-Rickia carpanetoi W. Rossi & Santam. SPECIES
-=======
+# Rickia carpanetoi W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

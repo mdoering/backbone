@@ -1,5 +1,4 @@
-Catillaria ammophila (Vain.) Zahlbr. SPECIES
-=======
+# Catillaria ammophila (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

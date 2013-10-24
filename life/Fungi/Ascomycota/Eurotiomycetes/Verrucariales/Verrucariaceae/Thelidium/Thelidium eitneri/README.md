@@ -1,5 +1,4 @@
-Thelidium eitneri Zahlbr. SPECIES
-=======
+# Thelidium eitneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

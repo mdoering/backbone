@@ -1,5 +1,4 @@
-Ophiosphaerella erikssonii J. Walker SPECIES
-=======
+# Ophiosphaerella erikssonii J. Walker SPECIES
 
 #### Status
 ACCEPTED

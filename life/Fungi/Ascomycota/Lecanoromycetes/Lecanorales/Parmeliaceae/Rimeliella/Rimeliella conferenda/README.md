@@ -1,5 +1,4 @@
-Rimeliella conferenda (Hale) Kurok. SPECIES
-=======
+# Rimeliella conferenda (Hale) Kurok. SPECIES
 
 #### Status
 ACCEPTED

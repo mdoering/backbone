@@ -1,5 +1,4 @@
-Leptogium granuligerum Hue SPECIES
-=======
+# Leptogium granuligerum Hue SPECIES
 
 #### Status
 ACCEPTED

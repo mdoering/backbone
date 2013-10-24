@@ -1,5 +1,4 @@
-Phialophora benthica K.R. Millar, 1990 SPECIES
-=======
+# Phialophora benthica K.R. Millar, 1990 SPECIES
 
 #### Status
 ACCEPTED

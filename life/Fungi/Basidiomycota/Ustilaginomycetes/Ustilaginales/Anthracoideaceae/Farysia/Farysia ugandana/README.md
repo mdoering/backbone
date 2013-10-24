@@ -1,5 +1,4 @@
-Farysia ugandana Zundel SPECIES
-=======
+# Farysia ugandana Zundel SPECIES
 
 #### Status
 ACCEPTED

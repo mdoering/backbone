@@ -1,5 +1,4 @@
-Cortinarius mutabilis Rob. Henry SPECIES
-=======
+# Cortinarius mutabilis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

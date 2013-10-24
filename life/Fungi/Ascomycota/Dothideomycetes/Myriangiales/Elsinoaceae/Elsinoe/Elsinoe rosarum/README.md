@@ -1,5 +1,4 @@
-Elsinoe rosarum Jenkins & Bitanc. SPECIES
-=======
+# Elsinoe rosarum Jenkins & Bitanc. SPECIES
 
 #### Status
 ACCEPTED

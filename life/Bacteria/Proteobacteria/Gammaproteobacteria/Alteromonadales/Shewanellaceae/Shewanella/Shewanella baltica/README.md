@@ -1,5 +1,4 @@
-Shewanella baltica Ziemke et al., 1998 SPECIES
-=======
+# Shewanella baltica Ziemke et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

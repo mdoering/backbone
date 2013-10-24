@@ -1,5 +1,4 @@
-Xanthomonadaceae FAMILY
-=======
+# Xanthomonadaceae FAMILY
 
 #### Status
 ACCEPTED

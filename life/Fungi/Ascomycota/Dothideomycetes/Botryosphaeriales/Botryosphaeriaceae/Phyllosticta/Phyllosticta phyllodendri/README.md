@@ -1,5 +1,4 @@
-Phyllosticta phyllodendri Turconi SPECIES
-=======
+# Phyllosticta phyllodendri Turconi SPECIES
 
 #### Status
 ACCEPTED

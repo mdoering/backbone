@@ -1,5 +1,4 @@
-Entoloma umbilicatum Dennis SPECIES
-=======
+# Entoloma umbilicatum Dennis SPECIES
 
 #### Status
 ACCEPTED

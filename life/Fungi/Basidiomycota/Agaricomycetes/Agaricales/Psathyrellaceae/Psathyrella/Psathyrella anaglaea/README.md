@@ -1,5 +1,4 @@
-Psathyrella anaglaea (Maire) Maire & Werner SPECIES
-=======
+# Psathyrella anaglaea (Maire) Maire & Werner SPECIES
 
 #### Status
 ACCEPTED

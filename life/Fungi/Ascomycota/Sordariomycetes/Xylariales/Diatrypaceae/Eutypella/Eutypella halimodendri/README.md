@@ -1,5 +1,4 @@
-Eutypella halimodendri (Kravtzev) Lapukhova SPECIES
-=======
+# Eutypella halimodendri (Kravtzev) Lapukhova SPECIES
 
 #### Status
 ACCEPTED

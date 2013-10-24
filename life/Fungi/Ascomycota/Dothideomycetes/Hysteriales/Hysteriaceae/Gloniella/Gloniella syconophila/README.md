@@ -1,5 +1,4 @@
-Gloniella syconophila (Cooke) Berl. & Voglino SPECIES
-=======
+# Gloniella syconophila (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

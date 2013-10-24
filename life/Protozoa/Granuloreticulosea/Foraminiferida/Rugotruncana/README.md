@@ -1,5 +1,4 @@
-Rugotruncana Bronnimann & Brown, 1955 GENUS
-=======
+# Rugotruncana Bronnimann & Brown, 1955 GENUS
 
 #### Status
 ACCEPTED

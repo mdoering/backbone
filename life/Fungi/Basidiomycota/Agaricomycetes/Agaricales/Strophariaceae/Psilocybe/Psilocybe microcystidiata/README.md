@@ -1,5 +1,4 @@
-Psilocybe microcystidiata Guzmán & Bononi SPECIES
-=======
+# Psilocybe microcystidiata Guzmán & Bononi SPECIES
 
 #### Status
 ACCEPTED

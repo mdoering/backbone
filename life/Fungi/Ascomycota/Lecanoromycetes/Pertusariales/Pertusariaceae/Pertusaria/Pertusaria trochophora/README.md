@@ -1,5 +1,4 @@
-Pertusaria trochophora Vain. SPECIES
-=======
+# Pertusaria trochophora Vain. SPECIES
 
 #### Status
 ACCEPTED

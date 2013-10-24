@@ -1,5 +1,4 @@
-Capnocytophaga cynodegmi Brenner et al., 1990 SPECIES
-=======
+# Capnocytophaga cynodegmi Brenner et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

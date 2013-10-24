@@ -1,5 +1,4 @@
-Rhabdospora rhynchosporae Mont. SPECIES
-=======
+# Rhabdospora rhynchosporae Mont. SPECIES
 
 #### Status
 ACCEPTED

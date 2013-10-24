@@ -1,5 +1,4 @@
-Allomyces neo-moniliformis Indoh SPECIES
-=======
+# Allomyces neo-moniliformis Indoh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyreniella oxystoma (Sacc. & Ellis) Theiss. SPECIES
-=======
+# Pyreniella oxystoma (Sacc. & Ellis) Theiss. SPECIES
 
 #### Status
 ACCEPTED

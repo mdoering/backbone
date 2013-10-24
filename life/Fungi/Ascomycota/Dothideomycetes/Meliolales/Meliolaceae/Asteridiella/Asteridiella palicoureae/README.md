@@ -1,5 +1,4 @@
-Asteridiella palicoureae Hansf. SPECIES
-=======
+# Asteridiella palicoureae Hansf. SPECIES
 
 #### Status
 ACCEPTED

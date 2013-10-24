@@ -1,5 +1,4 @@
-Hainesia aurantiaca Massee SPECIES
-=======
+# Hainesia aurantiaca Massee SPECIES
 
 #### Status
 ACCEPTED

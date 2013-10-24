@@ -1,5 +1,4 @@
-Myriotrema protocetraricum (Hale) Hale SPECIES
-=======
+# Myriotrema protocetraricum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

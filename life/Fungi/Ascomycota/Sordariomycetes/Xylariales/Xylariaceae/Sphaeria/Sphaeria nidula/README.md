@@ -1,5 +1,4 @@
-Sphaeria nidula Schwein. SPECIES
-=======
+# Sphaeria nidula Schwein. SPECIES
 
 #### Status
 ACCEPTED

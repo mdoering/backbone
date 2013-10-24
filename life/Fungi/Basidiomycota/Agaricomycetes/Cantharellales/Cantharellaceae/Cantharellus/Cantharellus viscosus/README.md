@@ -1,5 +1,4 @@
-Cantharellus viscosus Berk. SPECIES
-=======
+# Cantharellus viscosus Berk. SPECIES
 
 #### Status
 ACCEPTED

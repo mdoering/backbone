@@ -1,5 +1,4 @@
-Sphaerotheca delphinii (P. Karst.) S. Blumer SPECIES
-=======
+# Sphaerotheca delphinii (P. Karst.) S. Blumer SPECIES
 
 #### Status
 ACCEPTED

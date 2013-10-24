@@ -1,5 +1,4 @@
-Sethodiscinus Haeckel, 1887 GENUS
-=======
+# Sethodiscinus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

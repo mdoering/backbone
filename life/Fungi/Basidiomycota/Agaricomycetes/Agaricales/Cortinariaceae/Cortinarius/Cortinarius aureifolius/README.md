@@ -1,5 +1,4 @@
-Cortinarius aureifolius var. aureifolius VARIETY
-=======
+# Cortinarius aureifolius Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. N. Y. St. Mus. nat. Hist. 38: 89 (1885)
 
 #### Original name
-Cortinarius aureifolius var. aureifolius
+Cortinarius aureifolius Peck
 
 ### Remarks
 null

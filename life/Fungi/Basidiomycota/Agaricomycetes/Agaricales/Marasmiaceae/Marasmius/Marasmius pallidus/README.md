@@ -1,5 +1,4 @@
-Marasmius pallidus Henn. SPECIES
-=======
+# Marasmius pallidus Henn. SPECIES
 
 #### Status
 ACCEPTED

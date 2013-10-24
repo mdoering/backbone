@@ -1,5 +1,4 @@
-Numulariola diatrypoides (Rehm) P.M.D. Martin SPECIES
-=======
+# Numulariola diatrypoides (Rehm) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

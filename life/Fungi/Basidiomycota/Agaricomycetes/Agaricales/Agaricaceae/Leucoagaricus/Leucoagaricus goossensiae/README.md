@@ -1,5 +1,4 @@
-Leucoagaricus goossensiae (Beeli) Heinem. SPECIES
-=======
+# Leucoagaricus goossensiae (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

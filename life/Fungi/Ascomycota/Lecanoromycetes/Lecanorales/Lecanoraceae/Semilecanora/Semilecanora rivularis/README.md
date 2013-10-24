@@ -1,5 +1,4 @@
-Semilecanora rivularis (Nyl.) Motyka SPECIES
-=======
+# Semilecanora rivularis (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

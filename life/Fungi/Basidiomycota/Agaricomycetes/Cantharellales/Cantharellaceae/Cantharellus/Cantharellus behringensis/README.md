@@ -1,5 +1,4 @@
-Cantharellus behringensis Berk. & M.A. Curtis SPECIES
-=======
+# Cantharellus behringensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

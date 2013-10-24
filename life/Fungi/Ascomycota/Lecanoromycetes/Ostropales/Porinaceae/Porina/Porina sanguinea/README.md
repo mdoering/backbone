@@ -1,5 +1,4 @@
-Porina sanguinea (Räsänen) M. Satô SPECIES
-=======
+# Porina sanguinea (Räsänen) M. Satô SPECIES
 
 #### Status
 ACCEPTED

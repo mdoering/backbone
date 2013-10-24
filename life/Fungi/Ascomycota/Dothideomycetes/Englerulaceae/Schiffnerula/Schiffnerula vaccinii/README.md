@@ -1,5 +1,4 @@
-Schiffnerula vaccinii Hansf. SPECIES
-=======
+# Schiffnerula vaccinii Hansf. SPECIES
 
 #### Status
 ACCEPTED

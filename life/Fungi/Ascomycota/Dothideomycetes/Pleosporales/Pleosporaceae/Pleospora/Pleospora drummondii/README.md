@@ -1,5 +1,4 @@
-Pleospora drummondii Nirenberg & Plate, 1983 SPECIES
-=======
+# Pleospora drummondii Nirenberg & Plate, 1983 SPECIES
 
 #### Status
 ACCEPTED

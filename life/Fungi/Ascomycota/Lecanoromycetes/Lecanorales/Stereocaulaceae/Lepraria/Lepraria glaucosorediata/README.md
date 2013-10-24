@@ -1,5 +1,4 @@
-Lepraria glaucosorediata Flakus & Kukwa SPECIES
-=======
+# Lepraria glaucosorediata Flakus & Kukwa SPECIES
 
 #### Status
 ACCEPTED

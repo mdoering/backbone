@@ -1,5 +1,4 @@
-Chlorea malacea Stirt. SPECIES
-=======
+# Chlorea malacea Stirt. SPECIES
 
 #### Status
 ACCEPTED

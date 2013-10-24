@@ -1,5 +1,4 @@
-Mucor purpureum (Schrank) K. Kunze SPECIES
-=======
+# Mucor purpureum (Schrank) K. Kunze SPECIES
 
 #### Status
 ACCEPTED

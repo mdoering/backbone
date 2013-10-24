@@ -1,5 +1,4 @@
-Gloeoporus Montagne, 1842 GENUS
-=======
+# Gloeoporus Montagne, 1842 GENUS
 
 #### Status
 ACCEPTED

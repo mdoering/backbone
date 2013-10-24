@@ -1,5 +1,4 @@
-Thelotrema willeyi Tuck. SPECIES
-=======
+# Thelotrema willeyi Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodulisporium ornatum (J.N. Rai & Wadhwani) J.L. Mulder SPECIES
-=======
+# Nodulisporium ornatum (J.N. Rai & Wadhwani) J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

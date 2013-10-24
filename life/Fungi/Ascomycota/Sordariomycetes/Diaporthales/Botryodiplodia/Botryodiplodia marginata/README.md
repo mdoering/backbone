@@ -1,5 +1,4 @@
-Botryodiplodia marginata (Pass.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia marginata (Pass.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

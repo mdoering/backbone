@@ -1,5 +1,4 @@
-Graphina subvirginalis (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina subvirginalis (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

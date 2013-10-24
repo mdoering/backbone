@@ -1,5 +1,4 @@
-Pyrgo millettii (Cushman) SPECIES
-=======
+# Pyrgo millettii (Cushman) SPECIES
 
 #### Status
 ACCEPTED

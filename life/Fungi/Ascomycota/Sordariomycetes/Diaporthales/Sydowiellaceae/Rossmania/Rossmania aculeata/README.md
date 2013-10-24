@@ -1,17 +1,16 @@
-Tunstallia aculeata var. kesabii Agnihothr. VARIETY
-=======
+# Rossmania aculeata (Petch) Lar.N. Vassiljeva, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopath. Z. 40(3): 280 (1961)
+Mycoscience 42(4): 401 (2001)
 
 #### Original name
-Tunstallia aculeata var. kesabii Agnihothr.
+Aglaospora aculeata Petch, 1906
 
 ### Remarks
 null

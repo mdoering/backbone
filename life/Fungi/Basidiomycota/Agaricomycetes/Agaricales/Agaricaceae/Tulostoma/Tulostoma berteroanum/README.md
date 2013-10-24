@@ -1,5 +1,4 @@
-Tulostoma berteroanum f. berteroanum FORM
-=======
+# Tulostoma berteroanum Lév. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fungi argentini novi vel crit. no. 297 (1899)
 
 #### Original name
-Tulostoma berteroanum f. berteroanum
+Tulostoma berteroanum Lév.
 
 ### Remarks
 null

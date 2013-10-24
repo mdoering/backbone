@@ -1,5 +1,4 @@
-Micromyces mirabilis (Canter) Sparrow SPECIES
-=======
+# Micromyces mirabilis (Canter) Sparrow SPECIES
 
 #### Status
 ACCEPTED

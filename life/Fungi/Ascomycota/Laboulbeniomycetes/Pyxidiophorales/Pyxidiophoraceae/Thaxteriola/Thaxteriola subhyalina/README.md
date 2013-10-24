@@ -1,5 +1,4 @@
-Thaxteriola subhyalina Speg. SPECIES
-=======
+# Thaxteriola subhyalina Speg. SPECIES
 
 #### Status
 ACCEPTED

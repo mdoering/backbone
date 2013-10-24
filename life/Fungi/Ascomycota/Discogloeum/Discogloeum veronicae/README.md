@@ -1,14 +1,13 @@
-Parasterina veronicae (Lib.) Arn. SPECIES
-=======
+# Discogloeum veronicae (Lib.) Petr., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 27(5/6): 370 (1929)
 
 #### Original name
 Leptothyrium veronicae Lib., 1837

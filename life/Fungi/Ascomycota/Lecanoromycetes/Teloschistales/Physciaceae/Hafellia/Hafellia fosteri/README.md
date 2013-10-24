@@ -1,5 +1,4 @@
-Hafellia fosteri Imshaug & Sheard SPECIES
-=======
+# Hafellia fosteri Imshaug & Sheard SPECIES
 
 #### Status
 ACCEPTED

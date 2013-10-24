@@ -1,5 +1,4 @@
-Melanconium echinosporum Reichert SPECIES
-=======
+# Melanconium echinosporum Reichert SPECIES
 
 #### Status
 ACCEPTED

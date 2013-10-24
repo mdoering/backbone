@@ -1,5 +1,4 @@
-Heppia pulvinata Hue SPECIES
-=======
+# Heppia pulvinata Hue SPECIES
 
 #### Status
 ACCEPTED

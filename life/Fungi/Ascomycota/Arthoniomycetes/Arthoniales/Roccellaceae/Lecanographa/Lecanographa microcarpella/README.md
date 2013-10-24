@@ -1,14 +1,13 @@
-Lecanactis microcarpella (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanographa microcarpella (Müll. Arg.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 539 (1923)
+Biblthca Lichenol. 54: 150 (1994)
 
 #### Original name
 Opegrapha microcarpella Müll. Arg.

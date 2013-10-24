@@ -1,5 +1,4 @@
-Physarum difforme Link SPECIES
-=======
+# Physarum difforme Link SPECIES
 
 #### Status
 ACCEPTED

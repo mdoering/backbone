@@ -1,5 +1,4 @@
-Lanzia velutinosa V.P. Tewari & Ram N. Singh SPECIES
-=======
+# Lanzia velutinosa V.P. Tewari & Ram N. Singh SPECIES
 
 #### Status
 ACCEPTED

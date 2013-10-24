@@ -1,5 +1,4 @@
-Usnea similis var. similis VARIETY
-=======
+# Usnea similis Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea similis var. similis
+Usnea similis Motyka
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Dothidea melastomatis Kunze ex Fr., 1830 SPECIES
-=======
+# Phyllachora melastomatis (Kunze ex Fr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 5: 548 (1830)
+Syll. fung. (Abellini) 2: 611 (1883)
 
 #### Original name
 Dothidea melastomatis Kunze ex Fr., 1830

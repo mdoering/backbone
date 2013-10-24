@@ -1,5 +1,4 @@
-Crepidotus hamulatus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus hamulatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

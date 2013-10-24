@@ -1,5 +1,4 @@
-Ovularia phyllactidis Speg. SPECIES
-=======
+# Ovularia phyllactidis Speg. SPECIES
 
 #### Status
 ACCEPTED

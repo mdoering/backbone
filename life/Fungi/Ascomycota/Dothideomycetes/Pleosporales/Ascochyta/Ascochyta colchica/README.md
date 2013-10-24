@@ -1,5 +1,4 @@
-Ascochyta colchica Allesch. SPECIES
-=======
+# Ascochyta colchica Allesch. SPECIES
 
 #### Status
 ACCEPTED

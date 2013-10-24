@@ -1,14 +1,13 @@
-Thelotrema emergens Vain. SPECIES
-=======
+# Ocellularia emergens (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15(6): 192 (1921)
+Cat. Lich. Univers. 2: 590 (1923)
 
 #### Original name
 Thelotrema emergens Vain.

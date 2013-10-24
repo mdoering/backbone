@@ -1,5 +1,4 @@
-Cyathus melanospermus (Schwein.) De Toni SPECIES
-=======
+# Cyathus melanospermus (Schwein.) De Toni SPECIES
 
 #### Status
 ACCEPTED

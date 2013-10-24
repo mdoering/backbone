@@ -1,14 +1,13 @@
-Hymenoscyphus buissonii (Grelet) Matheis, 1985 SPECIES
-=======
+# Cudoniella buissonii Grelet, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. thurgau. naturf. Ges. 46: 72 (1985)
+Revue Mycol. , Paris 12(1): 31 (1947)
 
 #### Original name
 Cudoniella buissonii Grelet, 1947

@@ -1,5 +1,4 @@
-Alternaria asphodeli O. Savul. SPECIES
-=======
+# Alternaria asphodeli O. Savul. SPECIES
 
 #### Status
 ACCEPTED

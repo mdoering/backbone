@@ -1,5 +1,4 @@
-Mesopyrenia maroccana M. Choisy SPECIES
-=======
+# Mesopyrenia maroccana M. Choisy SPECIES
 
 #### Status
 ACCEPTED

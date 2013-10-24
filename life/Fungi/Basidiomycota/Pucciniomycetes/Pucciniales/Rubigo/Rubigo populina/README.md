@@ -1,5 +1,4 @@
-Rubigo populina Mart. SPECIES
-=======
+# Rubigo populina Mart. SPECIES
 
 #### Status
 ACCEPTED

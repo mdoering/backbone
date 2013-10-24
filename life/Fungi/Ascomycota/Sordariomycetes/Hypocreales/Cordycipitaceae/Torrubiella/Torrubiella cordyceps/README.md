@@ -1,5 +1,4 @@
-Torrubiella cordyceps Dingley SPECIES
-=======
+# Torrubiella cordyceps Dingley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia inornata G. Cunn. SPECIES
-=======
+# Puccinia inornata G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

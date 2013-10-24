@@ -1,5 +1,4 @@
-Sphaerella mercurialis Lasch SPECIES
-=======
+# Sphaerella mercurialis Lasch SPECIES
 
 #### Status
 ACCEPTED

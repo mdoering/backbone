@@ -1,5 +1,4 @@
-Marasmius albomarginatus Clem. SPECIES
-=======
+# Marasmius albomarginatus Clem. SPECIES
 
 #### Status
 ACCEPTED

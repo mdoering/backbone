@@ -1,5 +1,4 @@
-Gyromitra larryi (McKnight) Harmaja SPECIES
-=======
+# Gyromitra larryi (McKnight) Harmaja SPECIES
 
 #### Status
 ACCEPTED

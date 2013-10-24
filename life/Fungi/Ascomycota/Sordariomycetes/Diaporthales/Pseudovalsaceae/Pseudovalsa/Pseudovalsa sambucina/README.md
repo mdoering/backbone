@@ -1,5 +1,4 @@
-Pseudovalsa sambucina (Peck) Sacc. SPECIES
-=======
+# Pseudovalsa sambucina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

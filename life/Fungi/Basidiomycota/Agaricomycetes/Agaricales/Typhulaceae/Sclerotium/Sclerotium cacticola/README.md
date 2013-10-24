@@ -1,5 +1,4 @@
-Sclerotium cacticola J.F.H. Beyma, 1933 SPECIES
-=======
+# Sclerotium cacticola J.F.H. Beyma, 1933 SPECIES
 
 #### Status
 ACCEPTED

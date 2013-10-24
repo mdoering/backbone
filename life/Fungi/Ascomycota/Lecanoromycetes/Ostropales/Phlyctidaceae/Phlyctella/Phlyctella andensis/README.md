@@ -1,5 +1,4 @@
-Phlyctella andensis (Nyl.) Nyl. SPECIES
-=======
+# Phlyctella andensis (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

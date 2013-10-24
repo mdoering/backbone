@@ -1,5 +1,4 @@
-Declivistoma GENUS
-=======
+# Declivistoma GENUS
 
 #### Status
 ACCEPTED

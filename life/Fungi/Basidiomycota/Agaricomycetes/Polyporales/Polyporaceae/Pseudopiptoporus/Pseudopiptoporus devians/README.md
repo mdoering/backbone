@@ -1,14 +1,13 @@
-Polyporus devians Bres., 1920 SPECIES
-=======
+# Pseudopiptoporus devians (Bres.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 18(1/3): 32 (1920)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 524 (1980)
 
 #### Original name
 Polyporus devians Bres., 1920

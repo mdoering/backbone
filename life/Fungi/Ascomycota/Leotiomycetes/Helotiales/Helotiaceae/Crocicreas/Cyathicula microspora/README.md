@@ -1,5 +1,4 @@
-Cyathicula microspora Velen. SPECIES
-=======
+# Cyathicula microspora Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria fusispora Duby SPECIES
-=======
+# Sphaeria fusispora Duby SPECIES
 
 #### Status
 ACCEPTED

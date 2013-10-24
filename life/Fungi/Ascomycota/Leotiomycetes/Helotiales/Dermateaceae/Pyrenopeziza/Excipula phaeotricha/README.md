@@ -1,5 +1,4 @@
-Excipula phaeotricha Rabenh. SPECIES
-=======
+# Excipula phaeotricha Rabenh. SPECIES
 
 #### Status
 ACCEPTED

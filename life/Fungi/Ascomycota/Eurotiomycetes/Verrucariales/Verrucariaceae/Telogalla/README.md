@@ -1,5 +1,4 @@
-Telogalla Nik. Hoffmann & Hafellner, 2000 GENUS
-=======
+# Telogalla Nik. Hoffmann & Hafellner, 2000 GENUS
 
 #### Status
 ACCEPTED

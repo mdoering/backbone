@@ -1,5 +1,4 @@
-Parmelia esculenta (Pall.) Spreng. SPECIES
-=======
+# Parmelia esculenta (Pall.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

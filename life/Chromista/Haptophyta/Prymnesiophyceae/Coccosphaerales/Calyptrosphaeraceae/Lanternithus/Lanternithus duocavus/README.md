@@ -1,5 +1,4 @@
-Lanternithus duocavus Locker, 1967 SPECIES
-=======
+# Lanternithus duocavus Locker, 1967 SPECIES
 
 #### Status
 ACCEPTED

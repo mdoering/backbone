@@ -1,5 +1,4 @@
-Globotetrataxis Brazhnikova in Aisenverg & Sergeeva, 1983 GENUS
-=======
+# Globotetrataxis Brazhnikova in Aisenverg & Sergeeva, 1983 GENUS
 
 #### Status
 ACCEPTED

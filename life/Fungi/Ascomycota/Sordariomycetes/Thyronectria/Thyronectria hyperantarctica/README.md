@@ -1,5 +1,4 @@
-Thyronectria hyperantarctica (D. Hawksw.) D. Hawksw. & Spooner SPECIES
-=======
+# Thyronectria hyperantarctica (D. Hawksw.) D. Hawksw. & Spooner SPECIES
 
 #### Status
 ACCEPTED

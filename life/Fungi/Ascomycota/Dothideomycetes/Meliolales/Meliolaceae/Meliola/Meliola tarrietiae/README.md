@@ -1,5 +1,4 @@
-Meliola tarrietiae (Hansf. & Deighton) Cif. SPECIES
-=======
+# Meliola tarrietiae (Hansf. & Deighton) Cif. SPECIES
 
 #### Status
 ACCEPTED

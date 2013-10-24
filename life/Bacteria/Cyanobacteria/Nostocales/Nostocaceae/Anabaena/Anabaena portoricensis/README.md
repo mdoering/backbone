@@ -1,5 +1,4 @@
-Anabaena portoricensis Gardner SPECIES
-=======
+# Anabaena portoricensis Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium dalechampiicola Henn. SPECIES
-=======
+# Aecidium dalechampiicola Henn. SPECIES
 
 #### Status
 ACCEPTED

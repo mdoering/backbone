@@ -1,5 +1,4 @@
-Cercospora globosae J.M. Yen SPECIES
-=======
+# Cercospora globosae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium labeo Penard, 1922 SPECIES
-=======
+# Spathidium labeo Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

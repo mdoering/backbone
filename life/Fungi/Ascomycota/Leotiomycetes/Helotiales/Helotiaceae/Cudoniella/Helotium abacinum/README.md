@@ -1,5 +1,4 @@
-Helotium abacinum (Fr.) P. Karst. SPECIES
-=======
+# Helotium abacinum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterographium insigne Cooke & Harkn. SPECIES
-=======
+# Hysterographium insigne Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus cristatus Scop. SPECIES
-=======
+# Fungus cristatus Scop. SPECIES
 
 #### Status
 ACCEPTED

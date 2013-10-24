@@ -1,5 +1,4 @@
-Botryacantha Haeckel, 1881 GENUS
-=======
+# Botryacantha Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium nilagiricum T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Exobasidium nilagiricum T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

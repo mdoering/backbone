@@ -1,17 +1,16 @@
-Septoria pyrolata Rostr. SPECIES
-=======
+# Septoria pyrolatum Rostr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Meddr Grønland, Biosc. 626 (1891)
 
 #### Original name
-Septoria pyrolata Rostr.
+Septoria pyrolatum Rostr.
 
 ### Remarks
 null

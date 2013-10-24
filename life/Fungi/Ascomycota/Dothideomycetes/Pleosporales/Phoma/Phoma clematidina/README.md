@@ -1,17 +1,16 @@
-Ascochyta clematidina var. clematidina VARIETY
-=======
+# Phoma clematidina (Thüm.) Boerema, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Imp. nat. Moscou 55: 98 (1880)
+Versl. Medsd. Plziektenk. Dienst Wageningen, 1978 153: 17 (1979)
 
 #### Original name
-Ascochyta clematidina var. clematidina
+Ascochyta clematidina Thüm., 1880
 
 ### Remarks
 null

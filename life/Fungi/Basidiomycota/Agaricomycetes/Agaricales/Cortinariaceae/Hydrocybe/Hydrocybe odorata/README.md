@@ -1,5 +1,4 @@
-Hydrocybe odorata Velen. SPECIES
-=======
+# Hydrocybe odorata Velen. SPECIES
 
 #### Status
 ACCEPTED

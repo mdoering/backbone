@@ -1,5 +1,4 @@
-Lecanora bavarica Poelt SPECIES
-=======
+# Lecanora bavarica Poelt SPECIES
 
 #### Status
 ACCEPTED

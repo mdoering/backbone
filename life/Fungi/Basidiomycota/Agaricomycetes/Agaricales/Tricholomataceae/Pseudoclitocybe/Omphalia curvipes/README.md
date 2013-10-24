@@ -1,5 +1,4 @@
-Omphalia curvipes Peck SPECIES
-=======
+# Omphalia curvipes Peck SPECIES
 
 #### Status
 ACCEPTED

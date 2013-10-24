@@ -1,5 +1,4 @@
-Apectodinium Costa & Downie, 1976 GENUS
-=======
+# Apectodinium Costa & Downie, 1976 GENUS
 
 #### Status
 ACCEPTED

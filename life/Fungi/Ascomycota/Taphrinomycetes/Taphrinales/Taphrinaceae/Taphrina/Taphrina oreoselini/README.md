@@ -1,5 +1,4 @@
-Taphrina oreoselini C. Massal. SPECIES
-=======
+# Taphrina oreoselini C. Massal. SPECIES
 
 #### Status
 ACCEPTED

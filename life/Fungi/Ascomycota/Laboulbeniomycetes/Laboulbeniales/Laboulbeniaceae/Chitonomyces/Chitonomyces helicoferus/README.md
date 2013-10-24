@@ -1,5 +1,4 @@
-Chitonomyces helicoferus Thaxt. SPECIES
-=======
+# Chitonomyces helicoferus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

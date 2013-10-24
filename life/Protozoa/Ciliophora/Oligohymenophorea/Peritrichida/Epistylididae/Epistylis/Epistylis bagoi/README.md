@@ -1,5 +1,4 @@
-Epistylis bagoi SPECIES
-=======
+# Epistylis bagoi SPECIES
 
 #### Status
 ACCEPTED

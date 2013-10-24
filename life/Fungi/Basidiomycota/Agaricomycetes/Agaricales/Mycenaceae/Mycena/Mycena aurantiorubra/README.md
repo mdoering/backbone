@@ -1,5 +1,4 @@
-Mycena aurantiorubra Métrod SPECIES
-=======
+# Mycena aurantiorubra Métrod SPECIES
 
 #### Status
 ACCEPTED

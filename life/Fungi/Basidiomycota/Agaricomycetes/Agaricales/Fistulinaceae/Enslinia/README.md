@@ -1,5 +1,4 @@
-Enslinia GENUS
-=======
+# Enslinia GENUS
 
 #### Status
 ACCEPTED

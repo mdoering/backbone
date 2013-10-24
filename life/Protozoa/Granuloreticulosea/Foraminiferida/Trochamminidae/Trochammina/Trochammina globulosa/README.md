@@ -1,5 +1,4 @@
-Trochammina globulosa SPECIES
-=======
+# Trochammina globulosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strobilomyces immutabilis Bouriquet SPECIES
-=======
+# Strobilomyces immutabilis Bouriquet SPECIES
 
 #### Status
 ACCEPTED

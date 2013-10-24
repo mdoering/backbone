@@ -1,5 +1,4 @@
-Amoebochytrium Zopf GENUS
-=======
+# Amoebochytrium Zopf GENUS
 
 #### Status
 ACCEPTED

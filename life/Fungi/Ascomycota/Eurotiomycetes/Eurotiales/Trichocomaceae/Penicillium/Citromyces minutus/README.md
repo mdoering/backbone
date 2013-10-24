@@ -1,5 +1,4 @@
-Citromyces minutus Bainier & Sartory SPECIES
-=======
+# Citromyces minutus Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

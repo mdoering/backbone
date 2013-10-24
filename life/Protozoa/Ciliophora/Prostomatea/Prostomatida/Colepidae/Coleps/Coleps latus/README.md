@@ -1,5 +1,4 @@
-Coleps latus SPECIES
-=======
+# Coleps latus SPECIES
 
 #### Status
 ACCEPTED

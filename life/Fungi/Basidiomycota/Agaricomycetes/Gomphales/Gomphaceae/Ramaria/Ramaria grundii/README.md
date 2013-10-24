@@ -1,5 +1,4 @@
-Ramaria grundii R.H. Petersen, 1986 SPECIES
-=======
+# Ramaria grundii R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthina purpurea Fr. SPECIES
-=======
+# Anthina purpurea Fr. SPECIES
 
 #### Status
 ACCEPTED

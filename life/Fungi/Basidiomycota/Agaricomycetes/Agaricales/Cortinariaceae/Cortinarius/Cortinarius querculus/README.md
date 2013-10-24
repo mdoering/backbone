@@ -1,5 +1,4 @@
-Cortinarius querculus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius querculus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia lepidiota (H. Olivier) R. Sant. SPECIES
-=======
+# Arthonia lepidiota (H. Olivier) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

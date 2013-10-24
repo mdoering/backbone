@@ -1,5 +1,4 @@
-Gastrostyla dorsicirrata Foissner, 1982 SPECIES
-=======
+# Gastrostyla dorsicirrata Foissner, 1982 SPECIES
 
 #### Status
 ACCEPTED

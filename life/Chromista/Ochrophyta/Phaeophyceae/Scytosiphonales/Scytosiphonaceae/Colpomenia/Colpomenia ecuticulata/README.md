@@ -1,5 +1,4 @@
-Colpomenia ecuticulata Parsons SPECIES
-=======
+# Colpomenia ecuticulata Parsons SPECIES
 
 #### Status
 ACCEPTED

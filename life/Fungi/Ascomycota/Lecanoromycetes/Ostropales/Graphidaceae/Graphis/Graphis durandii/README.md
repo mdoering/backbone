@@ -1,5 +1,4 @@
-Graphis durandii Müll. Arg. SPECIES
-=======
+# Graphis durandii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

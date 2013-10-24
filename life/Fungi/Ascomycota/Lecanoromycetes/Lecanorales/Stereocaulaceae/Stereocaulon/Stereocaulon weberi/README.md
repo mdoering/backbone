@@ -1,5 +1,4 @@
-Stereocaulon weberi I.M. Lamb SPECIES
-=======
+# Stereocaulon weberi I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

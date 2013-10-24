@@ -1,5 +1,4 @@
-Pholiota humidicola (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota humidicola (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

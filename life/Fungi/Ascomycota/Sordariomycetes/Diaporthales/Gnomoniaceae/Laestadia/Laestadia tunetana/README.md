@@ -1,5 +1,4 @@
-Laestadia tunetana Pat. SPECIES
-=======
+# Laestadia tunetana Pat. SPECIES
 
 #### Status
 ACCEPTED

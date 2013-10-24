@@ -1,5 +1,4 @@
-Halenia Conil, 1980 GENUS
-=======
+# Halenia Conil, 1980 GENUS
 
 #### Status
 ACCEPTED

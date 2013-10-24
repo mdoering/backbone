@@ -1,5 +1,4 @@
-Ciboria junciseda Velen. SPECIES
-=======
+# Ciboria junciseda Velen. SPECIES
 
 #### Status
 ACCEPTED

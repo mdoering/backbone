@@ -1,5 +1,4 @@
-Uredo obnixa Cummins SPECIES
-=======
+# Uredo obnixa Cummins SPECIES
 
 #### Status
 ACCEPTED

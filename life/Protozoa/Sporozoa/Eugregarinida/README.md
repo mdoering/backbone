@@ -1,5 +1,4 @@
-Eugregarinida ORDER
-=======
+# Eugregarinida ORDER
 
 #### Status
 ACCEPTED

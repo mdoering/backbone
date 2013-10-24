@@ -1,5 +1,4 @@
-Platygrapha fractuosa Leight. SPECIES
-=======
+# Platygrapha fractuosa Leight. SPECIES
 
 #### Status
 ACCEPTED

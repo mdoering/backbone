@@ -1,5 +1,4 @@
-Pleospora arxii Tilak SPECIES
-=======
+# Pleospora arxii Tilak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoagaricus candicans T.K.A. Kumar & Manim. SPECIES
-=======
+# Leucoagaricus candicans T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

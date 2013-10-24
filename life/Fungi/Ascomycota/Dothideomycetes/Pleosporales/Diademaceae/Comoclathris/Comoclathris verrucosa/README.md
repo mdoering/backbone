@@ -1,5 +1,4 @@
-Comoclathris verrucosa Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris verrucosa Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

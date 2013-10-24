@@ -1,5 +1,4 @@
-Phaeocollybia oligoporpa Singer SPECIES
-=======
+# Phaeocollybia oligoporpa Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella bicolor Peck SPECIES
-=======
+# Lachnella bicolor Peck SPECIES
 
 #### Status
 ACCEPTED

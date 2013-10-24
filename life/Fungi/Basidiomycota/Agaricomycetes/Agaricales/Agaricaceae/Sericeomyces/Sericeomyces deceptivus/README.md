@@ -1,5 +1,4 @@
-Sericeomyces deceptivus (Grilli) Ballero & Contu SPECIES
-=======
+# Sericeomyces deceptivus (Grilli) Ballero & Contu SPECIES
 
 #### Status
 ACCEPTED

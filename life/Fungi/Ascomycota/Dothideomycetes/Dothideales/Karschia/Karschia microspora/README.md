@@ -1,5 +1,4 @@
-Karschia microspora Velen. SPECIES
-=======
+# Karschia microspora Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena subinamyloidea Singer SPECIES
-=======
+# Mycena subinamyloidea Singer SPECIES
 
 #### Status
 ACCEPTED

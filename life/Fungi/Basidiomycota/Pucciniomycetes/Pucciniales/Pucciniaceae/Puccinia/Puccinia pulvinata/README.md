@@ -1,17 +1,16 @@
-Puccinia pulvinata f. jurineae De Toni FORM
-=======
+# Puccinia pulvinata Rabenh., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 10: 20 (1871)
 
 #### Original name
-Puccinia pulvinata f. jurineae De Toni
+Puccinia pulvinata Rabenh., 1871
 
 ### Remarks
 null

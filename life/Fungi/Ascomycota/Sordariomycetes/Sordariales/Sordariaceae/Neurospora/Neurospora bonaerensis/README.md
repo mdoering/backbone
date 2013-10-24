@@ -1,5 +1,4 @@
-Neurospora bonaerensis (Stchigel & Guarro) Dania García, Stchigel & Guarro SPECIES
-=======
+# Neurospora bonaerensis (Stchigel & Guarro) Dania García, Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

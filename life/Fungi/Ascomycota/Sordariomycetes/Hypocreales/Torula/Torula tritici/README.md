@@ -1,5 +1,4 @@
-Torula tritici Corda SPECIES
-=======
+# Torula tritici Corda SPECIES
 
 #### Status
 ACCEPTED

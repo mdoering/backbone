@@ -1,14 +1,13 @@
-Favotrichophyton floriforme (Beintema) C.W. Dodge, 1935 SPECIES
-=======
+# Trichophyton floriforme Beintema, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Medical mycology. Fungous diseases of men and other mammals 518 (1935)
+Archives of Dermatology 169(4): 575 (1934)
 
 #### Original name
 Trichophyton floriforme Beintema, 1934

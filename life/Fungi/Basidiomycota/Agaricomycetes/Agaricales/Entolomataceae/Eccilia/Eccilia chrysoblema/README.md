@@ -1,5 +1,4 @@
-Eccilia chrysoblema G.F. Atk. SPECIES
-=======
+# Eccilia chrysoblema G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

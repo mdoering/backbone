@@ -1,5 +1,4 @@
-Arcacineta Jankowski, 1981 GENUS
-=======
+# Arcacineta Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

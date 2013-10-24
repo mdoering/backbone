@@ -1,5 +1,4 @@
-Mehlisphaeridium gondwanense (Tiwari, 1965) Anderson, 1977 SPECIES
-=======
+# Mehlisphaeridium gondwanense (Tiwari, 1965) Anderson, 1977 SPECIES
 
 #### Status
 ACCEPTED

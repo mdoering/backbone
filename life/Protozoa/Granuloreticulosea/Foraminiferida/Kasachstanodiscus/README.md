@@ -1,5 +1,4 @@
-Kasachstanodiscus Marfenkova, 1978 GENUS
-=======
+# Kasachstanodiscus Marfenkova, 1978 GENUS
 
 #### Status
 ACCEPTED

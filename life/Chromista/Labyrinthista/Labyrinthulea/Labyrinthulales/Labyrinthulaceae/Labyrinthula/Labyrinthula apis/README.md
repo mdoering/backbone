@@ -1,5 +1,4 @@
-Labyrinthula apis Stejskal SPECIES
-=======
+# Labyrinthula apis Stejskal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ombrophila discoidea Rodway SPECIES
-=======
+# Ombrophila discoidea Rodway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea excavata Cooke & Ellis SPECIES
-=======
+# Dothidea excavata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

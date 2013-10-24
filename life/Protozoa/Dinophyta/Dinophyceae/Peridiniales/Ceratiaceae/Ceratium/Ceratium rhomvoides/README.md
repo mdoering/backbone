@@ -1,5 +1,4 @@
-Ceratium rhomvoides Hickel SPECIES
-=======
+# Ceratium rhomvoides Hickel SPECIES
 
 #### Status
 ACCEPTED

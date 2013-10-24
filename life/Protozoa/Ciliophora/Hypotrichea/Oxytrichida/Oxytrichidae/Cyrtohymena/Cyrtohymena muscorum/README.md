@@ -1,8 +1,7 @@
-Cyrtohymena dubia Gellert, 1956 SPECIES
-=======
+# Cyrtohymena muscorum (Kahl, 1932) Foissner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

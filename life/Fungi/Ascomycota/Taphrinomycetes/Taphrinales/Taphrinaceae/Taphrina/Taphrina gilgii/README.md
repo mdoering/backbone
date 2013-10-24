@@ -1,5 +1,4 @@
-Taphrina gilgii Henn. & J. Lindau SPECIES
-=======
+# Taphrina gilgii Henn. & J. Lindau SPECIES
 
 #### Status
 ACCEPTED

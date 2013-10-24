@@ -1,5 +1,4 @@
-Phoma tremulae Sacc. SPECIES
-=======
+# Phoma tremulae Sacc. SPECIES
 
 #### Status
 ACCEPTED

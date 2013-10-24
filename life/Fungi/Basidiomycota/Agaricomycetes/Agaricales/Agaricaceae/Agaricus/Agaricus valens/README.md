@@ -1,5 +1,4 @@
-Agaricus valens Scop. SPECIES
-=======
+# Agaricus valens Scop. SPECIES
 
 #### Status
 ACCEPTED

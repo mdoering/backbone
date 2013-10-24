@@ -1,5 +1,4 @@
-Ciboria cistophila R. Galán, Raitv. & J.T. Palmer, 1996 SPECIES
-=======
+# Ciboria cistophila R. Galán, Raitv. & J.T. Palmer, 1996 SPECIES
 
 #### Status
 ACCEPTED

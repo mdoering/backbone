@@ -1,5 +1,4 @@
-Protoparmelia gesamia Poelt & Grube SPECIES
-=======
+# Protoparmelia gesamia Poelt & Grube SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cookeina venezuelae (Berk. & M.A. Curtis) Le Gal SPECIES
-=======
+# Cookeina venezuelae (Berk. & M.A. Curtis) Le Gal SPECIES
 
 #### Status
 ACCEPTED

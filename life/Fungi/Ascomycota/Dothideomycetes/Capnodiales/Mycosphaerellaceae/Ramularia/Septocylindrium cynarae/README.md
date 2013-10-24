@@ -1,5 +1,4 @@
-Septocylindrium cynarae Speg. SPECIES
-=======
+# Septocylindrium cynarae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Readeriella dimorphospora (Crous & C. Mohammed) Crous, 2009 SPECIES
-=======
+# Cibiessia dimorphospora Crous & C. Mohammed, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Summerell, Carnegie, Mohammed, Himaman & Groenewald, Fungal Diversity 26(1): 151 (2007)
 
 #### Original name
-null
+Cibiessia dimorphospora Crous & C. Mohammed, 2007
 
 ### Remarks
 null

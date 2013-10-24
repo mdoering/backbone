@@ -1,5 +1,4 @@
-Synechococcus endogloeicus F. Hindák SPECIES
-=======
+# Synechococcus endogloeicus F. Hindák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastiopsis subericola B. de Lesd. SPECIES
-=======
+# Polyblastiopsis subericola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

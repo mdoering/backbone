@@ -1,5 +1,4 @@
-Diplodina calepinae Tassi SPECIES
-=======
+# Diplodina calepinae Tassi SPECIES
 
 #### Status
 ACCEPTED

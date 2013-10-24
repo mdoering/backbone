@@ -1,5 +1,4 @@
-Englerula strewiae Theiss. SPECIES
-=======
+# Englerula strewiae Theiss. SPECIES
 
 #### Status
 ACCEPTED

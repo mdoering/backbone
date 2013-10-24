@@ -1,5 +1,4 @@
-Calyptella albomarginata (Pat.) SPECIES
-=======
+# Calyptella albomarginata (Pat.) SPECIES
 
 #### Status
 ACCEPTED

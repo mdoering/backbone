@@ -1,5 +1,4 @@
-Asterina similis Cooke SPECIES
-=======
+# Asterina similis Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Adriamonas Verhagen, Zölffel, Brugerolle & D.J.Patterson, 1994 GENUS
-=======
+# Adriamonas Verhagen, Zölffel, Brugerolle & D.J.Patterson, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antarcella Deflandre, 1928 GENUS
-=======
+# Antarcella Deflandre, 1928 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glugea machari (Jírovec, 1934) Sprague, 1977 SPECIES
-=======
+# Glugea machari (Jírovec, 1934) Sprague, 1977 SPECIES
 
 #### Status
 ACCEPTED

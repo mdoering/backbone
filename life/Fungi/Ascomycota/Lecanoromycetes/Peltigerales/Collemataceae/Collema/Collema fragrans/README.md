@@ -1,17 +1,16 @@
-Collema microphyllum var. microphyllum VARIETY
-=======
+# Collema fragrans (Sm.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Lich. 311 (1814)
 
 #### Original name
-Collema microphyllum var. microphyllum
+Collema fragrans (Sm.) Ach.
 
 ### Remarks
 null

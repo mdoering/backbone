@@ -1,5 +1,4 @@
-Filaspora karstenii P. Karst. ex Kuntze SPECIES
-=======
+# Filaspora karstenii P. Karst. ex Kuntze SPECIES
 
 #### Status
 ACCEPTED

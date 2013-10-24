@@ -1,5 +1,4 @@
-Stilbopeziza Speg. GENUS
-=======
+# Stilbopeziza Speg. GENUS
 
 #### Status
 ACCEPTED

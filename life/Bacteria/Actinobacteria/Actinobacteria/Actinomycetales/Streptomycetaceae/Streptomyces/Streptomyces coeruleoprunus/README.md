@@ -1,5 +1,4 @@
-Streptomyces coeruleoprunus Preobrazhenskaya, 1986 SPECIES
-=======
+# Streptomyces coeruleoprunus Preobrazhenskaya, 1986 SPECIES
 
 #### Status
 ACCEPTED

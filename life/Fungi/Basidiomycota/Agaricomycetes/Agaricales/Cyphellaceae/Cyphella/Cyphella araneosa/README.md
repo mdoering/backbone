@@ -1,5 +1,4 @@
-Cyphella araneosa Bourdot & Galzin SPECIES
-=======
+# Cyphella araneosa Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

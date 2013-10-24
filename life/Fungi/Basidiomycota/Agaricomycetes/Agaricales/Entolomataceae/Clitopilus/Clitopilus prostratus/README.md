@@ -1,5 +1,4 @@
-Clitopilus prostratus Cleland SPECIES
-=======
+# Clitopilus prostratus Cleland SPECIES
 
 #### Status
 ACCEPTED

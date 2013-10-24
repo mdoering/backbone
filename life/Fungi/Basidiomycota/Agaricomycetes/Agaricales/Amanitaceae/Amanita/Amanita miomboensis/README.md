@@ -1,5 +1,4 @@
-Amanita miomboensis Pegler & Shah-Smith SPECIES
-=======
+# Amanita miomboensis Pegler & Shah-Smith SPECIES
 
 #### Status
 ACCEPTED

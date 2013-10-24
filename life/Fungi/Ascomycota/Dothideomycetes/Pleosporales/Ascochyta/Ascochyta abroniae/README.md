@@ -1,5 +1,4 @@
-Ascochyta abroniae R. Sprague SPECIES
-=======
+# Ascochyta abroniae R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes pubescens Rodway ex Y.S. Chang & Kantvilas SPECIES
-=======
+# Fomes pubescens Rodway ex Y.S. Chang & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

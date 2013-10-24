@@ -1,5 +1,4 @@
-Physcia papulosa SPECIES
-=======
+# Physcia papulosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltidea glauca Pers. SPECIES
-=======
+# Peltidea glauca Pers. SPECIES
 
 #### Status
 ACCEPTED

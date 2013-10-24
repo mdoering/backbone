@@ -1,5 +1,4 @@
-Nyctotherus ovalis Leidy, 1850 SPECIES
-=======
+# Nyctotherus ovalis Leidy, 1850 SPECIES
 
 #### Status
 ACCEPTED

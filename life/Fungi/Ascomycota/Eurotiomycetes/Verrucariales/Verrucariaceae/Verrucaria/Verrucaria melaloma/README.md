@@ -1,5 +1,4 @@
-Verrucaria melaloma Pers. SPECIES
-=======
+# Verrucaria melaloma Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ditopella alpina (G. Winter) Höhn., 1919 SPECIES
-=======
+# Rehmiella alpina G. Winter, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 37: 112 (1919)
+Hedwigia, Beibl. 22: 2 (1883)
 
 #### Original name
 Rehmiella alpina G. Winter, 1883

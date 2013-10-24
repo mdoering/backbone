@@ -1,5 +1,4 @@
-Thigmokeronopsis rubra Hu, Warren & Song, 2004 SPECIES
-=======
+# Thigmokeronopsis rubra Hu, Warren & Song, 2004 SPECIES
 
 #### Status
 ACCEPTED

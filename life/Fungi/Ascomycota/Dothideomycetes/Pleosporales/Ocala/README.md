@@ -1,5 +1,4 @@
-Ocala Hulst, 1892 GENUS
-=======
+# Ocala Hulst, 1892 GENUS
 
 #### Status
 ACCEPTED

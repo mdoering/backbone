@@ -1,14 +1,13 @@
-Synchytrium longispinosus (Couch) Karling SPECIES
-=======
+# Synchytrium longispinosum (Couch) Karling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 45(2): 278 (1953)
 
 #### Original name
 Micromyces longispinosus Couch

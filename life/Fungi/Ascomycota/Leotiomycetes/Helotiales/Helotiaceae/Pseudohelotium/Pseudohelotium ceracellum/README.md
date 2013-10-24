@@ -1,5 +1,4 @@
-Pseudohelotium ceracellum (Fr.) Sacc. SPECIES
-=======
+# Pseudohelotium ceracellum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

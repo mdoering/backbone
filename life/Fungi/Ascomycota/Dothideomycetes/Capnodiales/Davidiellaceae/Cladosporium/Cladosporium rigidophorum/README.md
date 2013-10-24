@@ -1,5 +1,4 @@
-Cladosporium rigidophorum R.F. Castañeda SPECIES
-=======
+# Cladosporium rigidophorum R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

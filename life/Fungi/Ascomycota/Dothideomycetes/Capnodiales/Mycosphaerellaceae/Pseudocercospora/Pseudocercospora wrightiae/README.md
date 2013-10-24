@@ -1,5 +1,4 @@
-Pseudocercospora wrightiae (Thirum. & Chupp) Deighton SPECIES
-=======
+# Pseudocercospora wrightiae (Thirum. & Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

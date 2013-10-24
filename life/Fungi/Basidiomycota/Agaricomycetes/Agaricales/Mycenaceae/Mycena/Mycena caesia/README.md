@@ -1,5 +1,4 @@
-Mycena caesia Peck SPECIES
-=======
+# Mycena caesia Peck SPECIES
 
 #### Status
 ACCEPTED

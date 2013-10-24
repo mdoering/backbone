@@ -1,5 +1,4 @@
-Sporobolomyces linderae Nakase, M. Takash. & Hamam. SPECIES
-=======
+# Sporobolomyces linderae Nakase, M. Takash. & Hamam. SPECIES
 
 #### Status
 ACCEPTED

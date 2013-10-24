@@ -1,5 +1,4 @@
-Botryodiplodia curta Sacc. SPECIES
-=======
+# Botryodiplodia curta Sacc. SPECIES
 
 #### Status
 ACCEPTED

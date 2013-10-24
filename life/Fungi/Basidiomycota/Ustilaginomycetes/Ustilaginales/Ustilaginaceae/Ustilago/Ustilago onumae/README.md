@@ -1,5 +1,4 @@
-Ustilago onumae (Shirai) Ito SPECIES
-=======
+# Ustilago onumae (Shirai) Ito SPECIES
 
 #### Status
 ACCEPTED

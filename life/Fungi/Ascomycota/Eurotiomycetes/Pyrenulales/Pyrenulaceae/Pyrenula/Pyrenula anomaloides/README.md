@@ -1,5 +1,4 @@
-Pyrenula anomaloides SPECIES
-=======
+# Pyrenula anomaloides SPECIES
 
 #### Status
 ACCEPTED

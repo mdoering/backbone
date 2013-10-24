@@ -1,5 +1,4 @@
-Puccinia phoebes-hunanensis J.Y. Zhuang SPECIES
-=======
+# Puccinia phoebes-hunanensis J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

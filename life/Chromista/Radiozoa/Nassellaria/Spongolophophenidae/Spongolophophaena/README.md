@@ -1,5 +1,4 @@
-Spongolophophaena Kozur & Mostler, 1994 GENUS
-=======
+# Spongolophophaena Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

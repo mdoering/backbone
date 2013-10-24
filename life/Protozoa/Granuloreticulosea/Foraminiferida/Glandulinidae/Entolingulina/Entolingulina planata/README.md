@@ -1,5 +1,4 @@
-Entolingulina planata McCulloch, 1977 SPECIES
-=======
+# Entolingulina planata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

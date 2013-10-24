@@ -1,5 +1,4 @@
-Hymenoscyphus cyathus (Nees) Kuntze SPECIES
-=======
+# Hymenoscyphus cyathus (Nees) Kuntze SPECIES
 
 #### Status
 ACCEPTED

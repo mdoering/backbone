@@ -1,5 +1,4 @@
-Triloculina linneiana SPECIES
-=======
+# Triloculina linneiana SPECIES
 
 #### Status
 ACCEPTED

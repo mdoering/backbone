@@ -1,5 +1,4 @@
-Aspidisca hexenes SPECIES
-=======
+# Aspidisca hexenes SPECIES
 
 #### Status
 ACCEPTED

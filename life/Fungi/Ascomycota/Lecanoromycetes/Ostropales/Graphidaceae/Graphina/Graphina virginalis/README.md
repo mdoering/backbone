@@ -1,5 +1,4 @@
-Graphina virginalis (Tuck.) Müll. Arg. SPECIES
-=======
+# Graphina virginalis (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

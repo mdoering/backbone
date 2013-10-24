@@ -1,5 +1,4 @@
-Anthracothecium emergens (Leight.) Zahlbr. SPECIES
-=======
+# Anthracothecium emergens (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

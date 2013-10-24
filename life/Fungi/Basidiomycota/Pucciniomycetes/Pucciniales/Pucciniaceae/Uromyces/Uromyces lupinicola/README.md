@@ -1,5 +1,4 @@
-Uromyces lupinicola Bubák SPECIES
-=======
+# Uromyces lupinicola Bubák SPECIES
 
 #### Status
 ACCEPTED

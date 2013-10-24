@@ -1,5 +1,4 @@
-Ochrobium GENUS
-=======
+# Ochrobium GENUS
 
 #### Status
 ACCEPTED

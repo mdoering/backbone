@@ -1,5 +1,4 @@
-Biatora arctoides Hellb. SPECIES
-=======
+# Biatora arctoides Hellb. SPECIES
 
 #### Status
 ACCEPTED

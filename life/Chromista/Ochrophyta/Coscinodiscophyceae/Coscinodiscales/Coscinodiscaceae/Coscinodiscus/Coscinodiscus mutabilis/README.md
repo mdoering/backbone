@@ -1,5 +1,4 @@
-Coscinodiscus mutabilis N.I. Strelnikova SPECIES
-=======
+# Coscinodiscus mutabilis N.I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

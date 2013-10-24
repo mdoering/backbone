@@ -1,5 +1,4 @@
-Melampsora americana Arthur SPECIES
-=======
+# Melampsora americana Arthur SPECIES
 
 #### Status
 ACCEPTED

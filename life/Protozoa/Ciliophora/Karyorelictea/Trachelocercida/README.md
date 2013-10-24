@@ -1,5 +1,4 @@
-Trachelocercida ORDER
-=======
+# Trachelocercida ORDER
 
 #### Status
 ACCEPTED

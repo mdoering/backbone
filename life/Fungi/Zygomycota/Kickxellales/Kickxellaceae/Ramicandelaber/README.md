@@ -1,5 +1,4 @@
-Ramicandelaber Y. Ogawa, S. Hayashi, Degawa & Yaguchi GENUS
-=======
+# Ramicandelaber Y. Ogawa, S. Hayashi, Degawa & Yaguchi GENUS
 
 #### Status
 ACCEPTED

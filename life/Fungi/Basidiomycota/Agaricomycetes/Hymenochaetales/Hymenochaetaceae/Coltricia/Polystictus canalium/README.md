@@ -1,5 +1,4 @@
-Polystictus canalium (Lour.) Sacc. SPECIES
-=======
+# Polystictus canalium (Lour.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licnophora lyngbyicola SPECIES
-=======
+# Licnophora lyngbyicola SPECIES
 
 #### Status
 ACCEPTED

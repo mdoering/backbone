@@ -1,5 +1,4 @@
-Bacidia lechleri (Hepp) Zahlbr. SPECIES
-=======
+# Bacidia lechleri (Hepp) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

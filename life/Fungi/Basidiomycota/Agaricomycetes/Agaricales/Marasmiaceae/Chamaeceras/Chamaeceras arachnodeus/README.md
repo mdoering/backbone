@@ -1,5 +1,4 @@
-Chamaeceras arachnodeus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras arachnodeus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

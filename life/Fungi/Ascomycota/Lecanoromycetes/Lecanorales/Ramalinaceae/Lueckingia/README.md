@@ -1,5 +1,4 @@
-Lueckingia Aptroot & Umaña GENUS
-=======
+# Lueckingia Aptroot & Umaña GENUS
 
 #### Status
 ACCEPTED

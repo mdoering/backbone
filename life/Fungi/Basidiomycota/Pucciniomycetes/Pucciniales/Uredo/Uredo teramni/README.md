@@ -1,5 +1,4 @@
-Uredo teramni Mayor SPECIES
-=======
+# Uredo teramni Mayor SPECIES
 
 #### Status
 ACCEPTED

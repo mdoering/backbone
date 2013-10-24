@@ -1,5 +1,4 @@
-Conocybe thermophila Hauskn., Meic & Tkalcec SPECIES
-=======
+# Conocybe thermophila Hauskn., Meic & Tkalcec SPECIES
 
 #### Status
 ACCEPTED

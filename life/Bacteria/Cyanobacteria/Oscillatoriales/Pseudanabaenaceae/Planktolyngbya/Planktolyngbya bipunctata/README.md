@@ -1,5 +1,4 @@
-Planktolyngbya bipunctata (Lemmermann) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Planktolyngbya bipunctata (Lemmermann) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cephalanthi Ellis & Kellerm. SPECIES
-=======
+# Cercospora cephalanthi Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

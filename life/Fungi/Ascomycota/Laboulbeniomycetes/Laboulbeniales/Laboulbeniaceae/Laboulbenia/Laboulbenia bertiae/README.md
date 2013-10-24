@@ -1,5 +1,4 @@
-Laboulbenia bertiae Balazuc SPECIES
-=======
+# Laboulbenia bertiae Balazuc SPECIES
 
 #### Status
 ACCEPTED

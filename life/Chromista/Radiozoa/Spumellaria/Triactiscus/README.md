@@ -1,5 +1,4 @@
-Triactiscus Haeckel, 1887 GENUS
-=======
+# Triactiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pirellula marina (Schlesner, 1987) Schlesner & Hirsch, 1987 SPECIES
-=======
+# Blastopirellula marina (Schlesner, 1987) Schlesner et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

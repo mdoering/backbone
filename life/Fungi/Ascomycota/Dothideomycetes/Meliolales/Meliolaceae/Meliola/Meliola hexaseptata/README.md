@@ -1,5 +1,4 @@
-Meliola hexaseptata Bat. & R. Garnier SPECIES
-=======
+# Meliola hexaseptata Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

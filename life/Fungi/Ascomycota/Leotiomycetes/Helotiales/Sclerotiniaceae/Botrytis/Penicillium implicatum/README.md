@@ -1,5 +1,4 @@
-Penicillium implicatum Biourge, 1923 SPECIES
-=======
+# Penicillium implicatum Biourge, 1923 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Caeoma clematitatum Schwein. SPECIES
-=======
+# Caeoma clematitatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

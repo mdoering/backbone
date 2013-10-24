@@ -1,5 +1,4 @@
-Coprinus microsporus Berk. & Broome, 1871 SPECIES
-=======
+# Coprinus microsporus Berk. & Broome, 1871 SPECIES
 
 #### Status
 ACCEPTED

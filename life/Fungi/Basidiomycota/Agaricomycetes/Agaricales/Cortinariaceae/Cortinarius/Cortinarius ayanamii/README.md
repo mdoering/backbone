@@ -1,5 +1,4 @@
-Cortinarius ayanamii A. Ortega, Vila, Bidaud & Llimona SPECIES
-=======
+# Cortinarius ayanamii A. Ortega, Vila, Bidaud & Llimona SPECIES
 
 #### Status
 ACCEPTED

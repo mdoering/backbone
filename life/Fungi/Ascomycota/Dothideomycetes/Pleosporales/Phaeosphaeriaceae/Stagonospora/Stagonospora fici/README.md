@@ -1,5 +1,4 @@
-Stagonospora fici Pass. SPECIES
-=======
+# Stagonospora fici Pass. SPECIES
 
 #### Status
 ACCEPTED

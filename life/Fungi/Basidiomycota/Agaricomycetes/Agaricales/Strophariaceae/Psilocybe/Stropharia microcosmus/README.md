@@ -1,5 +1,4 @@
-Stropharia microcosmus (Berk. & Broome) Sacc. SPECIES
-=======
+# Stropharia microcosmus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

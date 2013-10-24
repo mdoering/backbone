@@ -1,5 +1,4 @@
-Torulites Grüss, 1927 GENUS
-=======
+# Torulites Grüss, 1927 GENUS
 
 #### Status
 ACCEPTED

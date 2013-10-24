@@ -1,5 +1,4 @@
-Pseudospiropes ehretiae R.K. Verma & Kamal SPECIES
-=======
+# Pseudospiropes ehretiae R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

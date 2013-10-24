@@ -1,5 +1,4 @@
-Cortinarius icterinus (E. Horak) G. Moreno & E. Valenz. SPECIES
-=======
+# Cortinarius icterinus (E. Horak) G. Moreno & E. Valenz. SPECIES
 
 #### Status
 ACCEPTED

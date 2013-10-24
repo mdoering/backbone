@@ -1,5 +1,4 @@
-Cheilymenia gemella (P. Karst.) J. Moravec SPECIES
-=======
+# Cheilymenia gemella (P. Karst.) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

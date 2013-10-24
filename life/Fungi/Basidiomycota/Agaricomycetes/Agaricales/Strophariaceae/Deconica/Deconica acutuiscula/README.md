@@ -1,5 +1,4 @@
-Deconica acutuiscula Singer SPECIES
-=======
+# Deconica acutuiscula Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strumellopsis Höhn. GENUS
-=======
+# Strumellopsis Höhn. GENUS
 
 #### Status
 ACCEPTED

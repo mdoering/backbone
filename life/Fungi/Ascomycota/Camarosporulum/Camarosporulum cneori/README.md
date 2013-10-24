@@ -1,5 +1,4 @@
-Camarosporulum cneori (Pass.) Tassi SPECIES
-=======
+# Camarosporulum cneori (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

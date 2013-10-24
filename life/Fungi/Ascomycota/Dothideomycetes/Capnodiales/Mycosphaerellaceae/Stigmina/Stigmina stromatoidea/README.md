@@ -1,5 +1,4 @@
-Stigmina stromatoidea (Dearn.) S. Hughes SPECIES
-=======
+# Stigmina stromatoidea (Dearn.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

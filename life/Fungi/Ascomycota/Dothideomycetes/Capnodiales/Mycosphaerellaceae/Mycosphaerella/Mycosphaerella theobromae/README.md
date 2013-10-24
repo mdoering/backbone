@@ -1,5 +1,4 @@
-Mycosphaerella theobromae (Faber) Tomilin SPECIES
-=======
+# Mycosphaerella theobromae (Faber) Tomilin SPECIES
 
 #### Status
 ACCEPTED

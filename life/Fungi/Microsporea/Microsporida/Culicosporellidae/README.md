@@ -1,5 +1,4 @@
-Culicosporellidae FAMILY
-=======
+# Culicosporellidae FAMILY
 
 #### Status
 ACCEPTED

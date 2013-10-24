@@ -1,5 +1,4 @@
-Vampyrella lateritia (Fres.) SPECIES
-=======
+# Vampyrella lateritia (Fres.) SPECIES
 
 #### Status
 ACCEPTED

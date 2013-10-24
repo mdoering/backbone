@@ -1,5 +1,4 @@
-Mammaria echinobotryoides Ces., 1854 SPECIES
-=======
+# Mammaria echinobotryoides Ces., 1854 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aplosporella aristolochae Subhedar & V.G. Rao SPECIES
-=======
+# Aplosporella aristolochiae Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 52: 323 (1979)
 
 #### Original name
-Aplosporella aristolochae Subhedar & V.G. Rao
+Aplosporella aristolochiae Subhedar & V.G. Rao
 
 ### Remarks
 null

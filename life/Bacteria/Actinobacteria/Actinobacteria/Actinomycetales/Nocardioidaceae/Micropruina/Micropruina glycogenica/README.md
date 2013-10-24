@@ -1,5 +1,4 @@
-Micropruina glycogenica Shintani et al., 2000 SPECIES
-=======
+# Micropruina glycogenica Shintani et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spermoedia GENUS
-=======
+# Spermoedia GENUS
 
 #### Status
 ACCEPTED

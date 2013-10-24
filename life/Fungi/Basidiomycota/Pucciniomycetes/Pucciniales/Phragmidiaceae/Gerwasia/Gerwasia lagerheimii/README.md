@@ -1,17 +1,16 @@
-Uromyces andinus Lagerh., 1895 SPECIES
-=======
+# Gerwasia lagerheimii (Magnus) Buriticá, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Patouillard & Lagerheim, Bull. Soc. mycol. Fr. 11(4): 213 (1895)
+Revta ICNE, Instit. Cienc. Nat. Ecol. 5(2): 187 (1994)
 
 #### Original name
-Uromyces andinus Lagerh., 1895
+Uromyces lagerheimii Magnus, 1896
 
 ### Remarks
 null

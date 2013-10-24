@@ -1,5 +1,4 @@
-Passalora balansae (Speg.) U. Braun SPECIES
-=======
+# Passalora balansae (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

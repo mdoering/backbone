@@ -1,5 +1,4 @@
-Ascochyta polygoni-setosi (Bubák) Melnik SPECIES
-=======
+# Ascochyta polygoni-setosi (Bubák) Melnik SPECIES
 
 #### Status
 ACCEPTED

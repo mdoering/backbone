@@ -1,5 +1,4 @@
-Lophium cristatum P. Crouan & H. Crouan SPECIES
-=======
+# Lophium cristatum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

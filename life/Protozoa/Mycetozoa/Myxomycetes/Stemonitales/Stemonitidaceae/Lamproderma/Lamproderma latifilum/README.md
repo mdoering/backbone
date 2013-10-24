@@ -1,17 +1,16 @@
-Lamproderma latifila Nann.-Bremek. & Y. Yamam. SPECIES
-=======
+# Lamproderma latifilum Nann.-Bremek. & Y. Yamam., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 86(2): 227 (1983)
 
 #### Original name
-Lamproderma latifila Nann.-Bremek. & Y. Yamam.
+Lamproderma latifilum Nann.-Bremek. & Y. Yamam., 1983
 
 ### Remarks
 null

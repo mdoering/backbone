@@ -1,5 +1,4 @@
-Dactylellina M. Morelet GENUS
-=======
+# Dactylellina M. Morelet GENUS
 
 #### Status
 ACCEPTED

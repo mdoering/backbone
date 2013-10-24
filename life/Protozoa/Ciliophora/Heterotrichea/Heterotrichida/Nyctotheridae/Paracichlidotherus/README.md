@@ -1,5 +1,4 @@
-Paracichlidotherus Grim, 1992 GENUS
-=======
+# Paracichlidotherus Grim, 1992 GENUS
 
 #### Status
 ACCEPTED

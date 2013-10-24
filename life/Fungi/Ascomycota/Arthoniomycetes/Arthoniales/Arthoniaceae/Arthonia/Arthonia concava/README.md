@@ -1,5 +1,4 @@
-Arthonia concava Dufour SPECIES
-=======
+# Arthonia concava Dufour SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza subspadicea Nyl. SPECIES
-=======
+# Peziza subspadicea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nyctotherus delta Earl, 1972 SPECIES
-=======
+# Nyctotherus delta Earl, 1972 SPECIES
 
 #### Status
 ACCEPTED

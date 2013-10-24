@@ -1,5 +1,4 @@
-Tubercularia hirsuta Schumach. SPECIES
-=======
+# Tubercularia hirsuta Schumach. SPECIES
 
 #### Status
 ACCEPTED

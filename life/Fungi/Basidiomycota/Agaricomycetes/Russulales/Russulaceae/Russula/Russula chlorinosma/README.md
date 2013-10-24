@@ -1,5 +1,4 @@
-Russula chlorinosma Burl. SPECIES
-=======
+# Russula chlorinosma Burl. SPECIES
 
 #### Status
 ACCEPTED

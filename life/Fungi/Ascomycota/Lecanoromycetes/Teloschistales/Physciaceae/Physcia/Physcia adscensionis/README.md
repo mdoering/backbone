@@ -1,5 +1,4 @@
-Physcia adscensionis (Ach.) Müll. Arg. SPECIES
-=======
+# Physcia adscensionis (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

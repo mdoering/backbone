@@ -1,5 +1,4 @@
-Alphitomorpha epixylon Schltdl. SPECIES
-=======
+# Alphitomorpha epixylon Schltdl. SPECIES
 
 #### Status
 ACCEPTED

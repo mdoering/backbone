@@ -1,5 +1,4 @@
-Pleurophrys sphaerica Claparède & Lachmann, 1859 SPECIES
-=======
+# Pleurophrys sphaerica Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

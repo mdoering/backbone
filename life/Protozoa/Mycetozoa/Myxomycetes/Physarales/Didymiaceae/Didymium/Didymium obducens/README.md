@@ -1,17 +1,16 @@
-Didymium crustaceum obducens (P. Karst.) P. Karst., 1879 INFRASPECIFIC_NAME
-=======
+# Didymium obducens P. Karst., 1868 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Not. Sällsk. Fauna et Fl. Fenn. Förh. , Preprint 9: 356 (1868)
 
 #### Original name
-null
+Didymium obducens P. Karst., 1868
 
 ### Remarks
 null

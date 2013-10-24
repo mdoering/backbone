@@ -1,5 +1,4 @@
-Phaeographis glaucoleucoides (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographis glaucoleucoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

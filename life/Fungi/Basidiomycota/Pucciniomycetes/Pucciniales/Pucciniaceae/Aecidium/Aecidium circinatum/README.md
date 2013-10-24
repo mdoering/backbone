@@ -1,5 +1,4 @@
-Aecidium circinatum G. Winter SPECIES
-=======
+# Aecidium circinatum G. Winter SPECIES
 
 #### Status
 ACCEPTED

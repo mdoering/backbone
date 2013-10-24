@@ -1,5 +1,4 @@
-Phoma coriacea Pat. SPECIES
-=======
+# Phoma coriacea Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius capitatus Har. Takah. SPECIES
-=======
+# Marasmius capitatus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

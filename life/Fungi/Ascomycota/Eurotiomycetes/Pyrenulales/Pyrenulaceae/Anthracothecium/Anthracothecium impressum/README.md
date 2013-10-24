@@ -1,5 +1,4 @@
-Anthracothecium impressum (Vain.) Zahlbr. SPECIES
-=======
+# Anthracothecium impressum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

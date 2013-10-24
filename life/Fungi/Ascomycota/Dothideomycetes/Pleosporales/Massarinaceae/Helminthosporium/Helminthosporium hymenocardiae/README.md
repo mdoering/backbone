@@ -1,5 +1,4 @@
-Helminthosporium hymenocardiae M.B. Ellis SPECIES
-=======
+# Helminthosporium hymenocardiae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

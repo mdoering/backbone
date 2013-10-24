@@ -1,17 +1,16 @@
-Diderma asteroides var. macrosporum Eliasson VARIETY
-=======
+# Diderma asteroides (Lister & G. Lister) G. Lister, 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 69(2): 110 (1975)
+Monogr. Mycetozoa (London), Edn 2 113 (1911)
 
 #### Original name
-Diderma asteroides var. macrosporum Eliasson
+Chondrioderma asteroides Lister & G. Lister, 1902
 
 ### Remarks
 null

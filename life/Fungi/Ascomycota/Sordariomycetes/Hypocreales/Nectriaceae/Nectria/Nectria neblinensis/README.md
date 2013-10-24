@@ -1,5 +1,4 @@
-Nectria neblinensis Brayford & Samuels SPECIES
-=======
+# Nectria neblinensis Brayford & Samuels SPECIES
 
 #### Status
 ACCEPTED

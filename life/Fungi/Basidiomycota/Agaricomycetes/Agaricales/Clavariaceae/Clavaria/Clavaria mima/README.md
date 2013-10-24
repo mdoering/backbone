@@ -1,5 +1,4 @@
-Clavaria mima R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria mima R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

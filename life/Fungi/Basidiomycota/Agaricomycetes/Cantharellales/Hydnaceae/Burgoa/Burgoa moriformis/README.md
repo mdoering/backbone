@@ -1,5 +1,4 @@
-Burgoa moriformis Diederich, Ertz & Coppins SPECIES
-=======
+# Burgoa moriformis Diederich, Ertz & Coppins SPECIES
 
 #### Status
 ACCEPTED

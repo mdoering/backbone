@@ -1,5 +1,4 @@
-Alveocystis Bel'tenev, 1980 GENUS
-=======
+# Alveocystis Bel'tenev, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glottimorpha Timofeev, 1966 GENUS
-=======
+# Glottimorpha Timofeev, 1966 GENUS
 
 #### Status
 ACCEPTED

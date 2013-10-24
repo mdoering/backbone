@@ -1,5 +1,4 @@
-Roccella canariensis Darb. SPECIES
-=======
+# Roccella canariensis Darb. SPECIES
 
 #### Status
 ACCEPTED

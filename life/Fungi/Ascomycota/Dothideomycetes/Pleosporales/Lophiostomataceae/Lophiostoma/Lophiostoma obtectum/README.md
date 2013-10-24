@@ -1,5 +1,4 @@
-Lophiostoma obtectum Peck SPECIES
-=======
+# Lophiostoma obtectum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora guatteriae Cooke, 1885 SPECIES
-=======
+# Phyllachora guatteriae Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

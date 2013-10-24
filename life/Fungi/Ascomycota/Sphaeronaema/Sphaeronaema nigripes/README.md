@@ -1,5 +1,4 @@
-Sphaeronaema nigripes Ellis SPECIES
-=======
+# Sphaeronaema nigripes Ellis SPECIES
 
 #### Status
 ACCEPTED

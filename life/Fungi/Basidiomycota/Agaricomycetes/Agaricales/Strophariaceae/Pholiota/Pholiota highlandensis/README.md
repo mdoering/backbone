@@ -1,17 +1,16 @@
-Chalymmota carbonaria var. carbonaria VARIETY
-=======
+# Pholiota highlandensis (Peck) A.H. Sm. & Hesler, 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The North American species of Pholiota 287 (1968)
 
 #### Original name
-Chalymmota carbonaria var. carbonaria
+Flammula highlandensis Peck, 1898
 
 ### Remarks
 null

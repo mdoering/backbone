@@ -1,5 +1,4 @@
-Coryneum psidii B. Sutton SPECIES
-=======
+# Coryneum psidii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

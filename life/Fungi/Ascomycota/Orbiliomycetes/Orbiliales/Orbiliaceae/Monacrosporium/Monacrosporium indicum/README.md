@@ -1,5 +1,4 @@
-Monacrosporium indicum (Chowdhry & Bahl) Xing Z. Liu & K.Q. Zhang SPECIES
-=======
+# Monacrosporium indicum (Chowdhry & Bahl) Xing Z. Liu & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

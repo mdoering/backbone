@@ -1,5 +1,4 @@
-Psathyrella rainierensis A.H. Sm. SPECIES
-=======
+# Psathyrella rainierensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

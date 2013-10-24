@@ -1,5 +1,4 @@
-Ustilago polygoni-punctati Savile SPECIES
-=======
+# Ustilago polygoni-punctati Savile SPECIES
 
 #### Status
 ACCEPTED

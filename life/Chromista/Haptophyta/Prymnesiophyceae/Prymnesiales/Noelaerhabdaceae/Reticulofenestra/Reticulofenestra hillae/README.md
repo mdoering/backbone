@@ -1,5 +1,4 @@
-Reticulofenestra hillae Bukry & Percival, 1971 SPECIES
-=======
+# Reticulofenestra hillae Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora nerii-indici W. Yamam. SPECIES
-=======
+# Cercospora nerii-indici W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

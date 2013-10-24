@@ -1,5 +1,4 @@
-Phoma paspali P.R. Johnst., 1981 SPECIES
-=======
+# Phoma paspali P.R. Johnst., 1981 SPECIES
 
 #### Status
 ACCEPTED

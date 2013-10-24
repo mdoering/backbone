@@ -1,5 +1,4 @@
-Capea Montagne, 1840 GENUS
-=======
+# Capea Montagne, 1840 GENUS
 
 #### Status
 ACCEPTED

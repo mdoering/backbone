@@ -1,5 +1,4 @@
-Teichospora juglandis (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Teichospora juglandis (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium inconspicuum Pole-Evans ex Zundel SPECIES
-=======
+# Sorosporium inconspicuum Pole-Evans ex Zundel SPECIES
 
 #### Status
 ACCEPTED

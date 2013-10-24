@@ -1,5 +1,4 @@
-Fungus nothus (Berk.) Kuntze SPECIES
-=======
+# Fungus nothus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiraublax Kofoid, 1911 emend. Carbonell-Moore, 1996 GENUS
-=======
+# Spiraublax Kofoid, 1911 emend. Carbonell-Moore, 1996 GENUS
 
 #### Status
 ACCEPTED

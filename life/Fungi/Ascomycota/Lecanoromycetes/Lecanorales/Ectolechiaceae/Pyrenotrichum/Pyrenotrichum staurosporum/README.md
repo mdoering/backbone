@@ -1,5 +1,4 @@
-Pyrenotrichum staurosporum (Keissl.) R. Sant. SPECIES
-=======
+# Pyrenotrichum staurosporum (Keissl.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

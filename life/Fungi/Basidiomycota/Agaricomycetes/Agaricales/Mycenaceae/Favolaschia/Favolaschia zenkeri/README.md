@@ -1,5 +1,4 @@
-Favolaschia zenkeri Henn. SPECIES
-=======
+# Favolaschia zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

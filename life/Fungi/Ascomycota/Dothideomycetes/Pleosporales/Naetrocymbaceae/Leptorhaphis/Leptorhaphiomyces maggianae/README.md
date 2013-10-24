@@ -1,5 +1,4 @@
-Leptorhaphiomyces maggianae Cif. & Tomas. SPECIES
-=======
+# Leptorhaphiomyces maggianae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desicaryon Yankovskii, 1979 GENUS
-=======
+# Desicaryon Yankovskii, 1979 GENUS
 
 #### Status
 ACCEPTED

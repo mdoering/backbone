@@ -1,5 +1,4 @@
-Pouzarella japonica (Hongo) Mazzer SPECIES
-=======
+# Pouzarella japonica (Hongo) Mazzer SPECIES
 
 #### Status
 ACCEPTED

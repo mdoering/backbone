@@ -1,8 +1,7 @@
-Discophrya pygmaea Swarczewsky, 1928 SPECIES
-=======
+# Tokophrya pygmaea Swarczewsky, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

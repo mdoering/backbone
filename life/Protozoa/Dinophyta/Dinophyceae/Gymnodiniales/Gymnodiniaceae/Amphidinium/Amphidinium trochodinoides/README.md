@@ -1,5 +1,4 @@
-Amphidinium trochodinoides Conrad & Kufferath, 1954 SPECIES
-=======
+# Amphidinium trochodinoides Conrad & Kufferath, 1954 SPECIES
 
 #### Status
 ACCEPTED

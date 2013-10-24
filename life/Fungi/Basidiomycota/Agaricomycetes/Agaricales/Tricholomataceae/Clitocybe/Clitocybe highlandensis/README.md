@@ -1,5 +1,4 @@
-Clitocybe highlandensis Hesler & A.H. Sm. SPECIES
-=======
+# Clitocybe highlandensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

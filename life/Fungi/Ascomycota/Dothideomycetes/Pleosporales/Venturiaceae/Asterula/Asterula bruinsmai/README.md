@@ -1,5 +1,4 @@
-Asterula bruinsmai Koord. SPECIES
-=======
+# Asterula bruinsmai Koord. SPECIES
 
 #### Status
 ACCEPTED

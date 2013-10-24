@@ -1,5 +1,4 @@
-Phoma hibernica Grimes, M. O'Connor & Cummins, 1932 SPECIES
-=======
+# Phoma hibernica Grimes, M. O'Connor & Cummins, 1932 SPECIES
 
 #### Status
 ACCEPTED

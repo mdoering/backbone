@@ -1,5 +1,4 @@
-Vorticella urceolaris Linnaeus, 1767 SPECIES
-=======
+# Vorticella urceolaris Linnaeus, 1767 SPECIES
 
 #### Status
 ACCEPTED

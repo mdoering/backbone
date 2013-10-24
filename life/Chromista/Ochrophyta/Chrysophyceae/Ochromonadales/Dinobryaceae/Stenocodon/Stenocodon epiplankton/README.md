@@ -1,5 +1,4 @@
-Stenocodon epiplankton Pascher SPECIES
-=======
+# Stenocodon epiplankton Pascher SPECIES
 
 #### Status
 ACCEPTED

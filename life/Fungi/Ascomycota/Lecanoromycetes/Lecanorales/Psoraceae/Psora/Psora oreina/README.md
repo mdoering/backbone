@@ -1,5 +1,4 @@
-Psora oreina SPECIES
-=======
+# Psora oreina SPECIES
 
 #### Status
 ACCEPTED

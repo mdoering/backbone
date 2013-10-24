@@ -1,5 +1,4 @@
-Sphaeria subsimplex Schwein. SPECIES
-=======
+# Sphaeria subsimplex Schwein. SPECIES
 
 #### Status
 ACCEPTED

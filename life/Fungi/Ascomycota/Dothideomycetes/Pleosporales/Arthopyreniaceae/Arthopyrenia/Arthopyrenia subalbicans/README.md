@@ -1,5 +1,4 @@
-Arthopyrenia subalbicans Bagl. & Carestia SPECIES
-=======
+# Arthopyrenia subalbicans Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

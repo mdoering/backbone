@@ -1,5 +1,4 @@
-Phoma wasabiae Yokogi SPECIES
-=======
+# Phoma wasabiae Yokogi SPECIES
 
 #### Status
 ACCEPTED

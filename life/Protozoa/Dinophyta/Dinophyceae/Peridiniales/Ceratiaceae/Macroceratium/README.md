@@ -1,5 +1,4 @@
-Macroceratium C.A. Kofoid, 1909 GENUS
-=======
+# Macroceratium C.A. Kofoid, 1909 GENUS
 
 #### Status
 ACCEPTED

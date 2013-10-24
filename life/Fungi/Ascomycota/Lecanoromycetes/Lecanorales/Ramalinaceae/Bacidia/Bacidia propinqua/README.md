@@ -1,5 +1,4 @@
-Bacidia propinqua (Hepp ex Stizenb.) Arnold SPECIES
-=======
+# Bacidia propinqua (Hepp ex Stizenb.) Arnold SPECIES
 
 #### Status
 ACCEPTED

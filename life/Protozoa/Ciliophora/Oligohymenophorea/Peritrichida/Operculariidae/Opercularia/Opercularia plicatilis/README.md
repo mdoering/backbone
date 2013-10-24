@@ -1,8 +1,7 @@
-Opercularia plicatiles SPECIES
-=======
+# Opercularia plicatilis Stokes, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

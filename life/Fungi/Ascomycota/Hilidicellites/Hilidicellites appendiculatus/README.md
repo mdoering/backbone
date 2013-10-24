@@ -1,5 +1,4 @@
-Hilidicellites appendiculatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites appendiculatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

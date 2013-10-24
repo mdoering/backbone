@@ -1,5 +1,4 @@
-Lichen cerebrinus Ramond SPECIES
-=======
+# Lichen cerebrinus Ramond SPECIES
 
 #### Status
 ACCEPTED

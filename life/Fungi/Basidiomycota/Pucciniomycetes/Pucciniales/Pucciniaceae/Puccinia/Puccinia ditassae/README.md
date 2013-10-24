@@ -1,5 +1,4 @@
-Puccinia ditassae Henn. SPECIES
-=======
+# Puccinia ditassae Henn. SPECIES
 
 #### Status
 ACCEPTED

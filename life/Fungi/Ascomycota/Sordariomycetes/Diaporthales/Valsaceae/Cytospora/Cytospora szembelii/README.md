@@ -1,5 +1,4 @@
-Cytospora szembelii Gutner SPECIES
-=======
+# Cytospora szembelii Gutner SPECIES
 
 #### Status
 ACCEPTED

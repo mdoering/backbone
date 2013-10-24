@@ -1,5 +1,4 @@
-Buellia angulosa J. Steiner SPECIES
-=======
+# Buellia angulosa J. Steiner SPECIES
 
 #### Status
 ACCEPTED

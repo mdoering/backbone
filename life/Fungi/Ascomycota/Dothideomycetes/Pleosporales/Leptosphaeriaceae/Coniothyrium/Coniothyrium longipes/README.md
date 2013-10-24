@@ -1,5 +1,4 @@
-Coniothyrium longipes (Pass.) Kuntze SPECIES
-=======
+# Coniothyrium longipes (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

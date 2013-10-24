@@ -1,5 +1,4 @@
-Stomiopeltis plectilis Dilcher SPECIES
-=======
+# Stomiopeltis plectilis Dilcher SPECIES
 
 #### Status
 ACCEPTED

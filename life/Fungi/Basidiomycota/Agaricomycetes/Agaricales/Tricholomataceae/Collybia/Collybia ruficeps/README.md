@@ -1,5 +1,4 @@
-Collybia ruficeps Killerm. SPECIES
-=======
+# Collybia ruficeps Killerm. SPECIES
 
 #### Status
 ACCEPTED

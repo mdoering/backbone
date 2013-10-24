@@ -1,5 +1,4 @@
-Phaulomyces perparvus Santam., 1992 SPECIES
-=======
+# Phaulomyces perparvus Santam., 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita grisella E.-J. Gilbert & Cleland SPECIES
-=======
+# Amanita grisella E.-J. Gilbert & Cleland SPECIES
 
 #### Status
 ACCEPTED

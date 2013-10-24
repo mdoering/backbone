@@ -1,5 +1,4 @@
-Baltisphaeridium lancariae Deunff & Massa, 1975 SPECIES
-=======
+# Baltisphaeridium lancariae Deunff & Massa, 1975 SPECIES
 
 #### Status
 ACCEPTED

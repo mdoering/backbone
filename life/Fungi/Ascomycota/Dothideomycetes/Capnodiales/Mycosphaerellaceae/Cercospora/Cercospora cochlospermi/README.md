@@ -1,5 +1,4 @@
-Cercospora cochlospermi R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Cercospora cochlospermi R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

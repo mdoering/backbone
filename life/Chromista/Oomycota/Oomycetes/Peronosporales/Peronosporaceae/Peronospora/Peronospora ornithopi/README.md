@@ -1,5 +1,4 @@
-Peronospora ornithopi Gäum., 1923 SPECIES
-=======
+# Peronospora ornithopi Gäum., 1923 SPECIES
 
 #### Status
 ACCEPTED

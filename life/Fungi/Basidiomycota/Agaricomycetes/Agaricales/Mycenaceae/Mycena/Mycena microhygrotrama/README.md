@@ -1,5 +1,4 @@
-Mycena microhygrotrama Corner SPECIES
-=======
+# Mycena microhygrotrama Corner SPECIES
 
 #### Status
 ACCEPTED

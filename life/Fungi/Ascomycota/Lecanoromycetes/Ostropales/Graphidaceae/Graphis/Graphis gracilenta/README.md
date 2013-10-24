@@ -1,5 +1,4 @@
-Graphis gracilenta Fée SPECIES
-=======
+# Graphis gracilenta Fée SPECIES
 
 #### Status
 ACCEPTED

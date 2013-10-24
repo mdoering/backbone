@@ -1,5 +1,4 @@
-Crinipellis insignis Singer SPECIES
-=======
+# Crinipellis insignis Singer SPECIES
 
 #### Status
 ACCEPTED

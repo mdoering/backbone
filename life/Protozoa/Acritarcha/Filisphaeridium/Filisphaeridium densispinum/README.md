@@ -1,5 +1,4 @@
-Filisphaeridium densispinum (Valensi, 1953) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium densispinum (Valensi, 1953) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

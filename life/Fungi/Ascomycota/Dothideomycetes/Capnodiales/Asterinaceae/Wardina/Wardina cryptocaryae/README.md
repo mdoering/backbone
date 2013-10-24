@@ -1,5 +1,4 @@
-Wardina cryptocaryae (Cooke ex Theiss.) Bat. & H. Maia SPECIES
-=======
+# Wardina cryptocaryae (Cooke ex Theiss.) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

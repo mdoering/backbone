@@ -1,5 +1,4 @@
-Haloferax alexandrinus Asker & Ohta, 2002 SPECIES
-=======
+# Haloferax alexandrinus Asker & Ohta, 2002 SPECIES
 
 #### Status
 ACCEPTED

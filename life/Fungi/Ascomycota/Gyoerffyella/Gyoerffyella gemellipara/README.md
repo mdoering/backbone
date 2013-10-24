@@ -1,5 +1,4 @@
-Gyoerffyella gemellipara Marvanová, 1975 SPECIES
-=======
+# Gyoerffyella gemellipara Marvanová, 1975 SPECIES
 
 #### Status
 ACCEPTED

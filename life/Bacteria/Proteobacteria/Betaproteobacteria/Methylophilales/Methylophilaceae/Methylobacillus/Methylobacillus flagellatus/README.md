@@ -1,5 +1,4 @@
-Methylobacillus flagellatus Govorukhina et al., 1998 SPECIES
-=======
+# Methylobacillus flagellatus Govorukhina et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

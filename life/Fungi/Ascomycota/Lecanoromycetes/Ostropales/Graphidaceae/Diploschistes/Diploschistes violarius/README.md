@@ -1,5 +1,4 @@
-Diploschistes violarius (Nyl.) Zahlbr. SPECIES
-=======
+# Diploschistes violarius (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

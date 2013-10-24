@@ -1,5 +1,4 @@
-Septoria amblyopogonis D.N. Babajan & Simonyan SPECIES
-=======
+# Septoria amblyopogonis D.N. Babajan & Simonyan SPECIES
 
 #### Status
 ACCEPTED

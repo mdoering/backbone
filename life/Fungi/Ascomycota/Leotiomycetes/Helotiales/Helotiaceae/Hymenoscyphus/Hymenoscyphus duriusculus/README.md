@@ -1,5 +1,4 @@
-Hymenoscyphus duriusculus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus duriusculus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

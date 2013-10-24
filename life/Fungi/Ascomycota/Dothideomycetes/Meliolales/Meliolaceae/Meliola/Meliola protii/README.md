@@ -1,5 +1,4 @@
-Meliola protii F. Stevens SPECIES
-=======
+# Meliola protii F. Stevens SPECIES
 
 #### Status
 ACCEPTED

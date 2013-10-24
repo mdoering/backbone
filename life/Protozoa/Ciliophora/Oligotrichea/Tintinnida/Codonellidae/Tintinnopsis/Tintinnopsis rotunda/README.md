@@ -1,5 +1,4 @@
-Tintinnopsis rotunda Jörgensen, 1899 SPECIES
-=======
+# Tintinnopsis rotunda Jörgensen, 1899 SPECIES
 
 #### Status
 ACCEPTED

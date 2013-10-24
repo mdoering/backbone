@@ -1,5 +1,4 @@
-Ceratobasidium calosporum D.P. Rogers, 1935 SPECIES
-=======
+# Ceratobasidium calosporum D.P. Rogers, 1935 SPECIES
 
 #### Status
 ACCEPTED

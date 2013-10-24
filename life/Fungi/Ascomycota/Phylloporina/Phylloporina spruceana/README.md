@@ -1,5 +1,4 @@
-Phylloporina spruceana Müll. Arg. SPECIES
-=======
+# Phylloporina spruceana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

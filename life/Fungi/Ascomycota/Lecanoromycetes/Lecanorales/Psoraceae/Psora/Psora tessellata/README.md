@@ -1,5 +1,4 @@
-Psora tessellata (Flörke) A. Massal. SPECIES
-=======
+# Psora tessellata (Flörke) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

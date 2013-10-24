@@ -1,5 +1,4 @@
-Normandinomyces GENUS
-=======
+# Normandinomyces GENUS
 
 #### Status
 ACCEPTED

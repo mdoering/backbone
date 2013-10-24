@@ -1,5 +1,4 @@
-Diaporthe flageoletiana Sacc. SPECIES
-=======
+# Diaporthe flageoletiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

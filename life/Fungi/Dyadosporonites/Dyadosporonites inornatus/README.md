@@ -1,17 +1,16 @@
-Dyadosporonites inornatum Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Dyadosporonites inornatus Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revista, Universidad Autónomia Nacional de México, Instituto de Geología 8(2): 238 + fig. 3h (1989)
 
 #### Original name
-Dyadosporonites inornatum Mart.-Hern. & Tom.-Ort.
+Dyadosporonites inornatus Mart.-Hern. & Tom.-Ort.
 
 ### Remarks
 null

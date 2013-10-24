@@ -1,14 +1,13 @@
-Hemithecium contortum (Müll. Arg.) A.W. Archer SPECIES
-=======
+# Graphina contorta Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Telopea 11(1): 75 (2005)
+null
 
 #### Original name
 Graphina contorta Müll. Arg.

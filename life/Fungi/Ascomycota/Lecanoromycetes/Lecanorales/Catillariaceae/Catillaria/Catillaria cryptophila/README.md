@@ -1,5 +1,4 @@
-Catillaria cryptophila Th. Fr. & Almq. SPECIES
-=======
+# Catillaria cryptophila Th. Fr. & Almq. SPECIES
 
 #### Status
 ACCEPTED

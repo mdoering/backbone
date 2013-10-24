@@ -1,5 +1,4 @@
-Apiothyrium arcticum Petr., 1947 SPECIES
-=======
+# Apiothyrium arcticum Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

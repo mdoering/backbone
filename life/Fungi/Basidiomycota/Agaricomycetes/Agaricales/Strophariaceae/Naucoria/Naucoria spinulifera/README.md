@@ -1,5 +1,4 @@
-Naucoria spinulifera Murrill SPECIES
-=======
+# Naucoria spinulifera Murrill SPECIES
 
 #### Status
 ACCEPTED

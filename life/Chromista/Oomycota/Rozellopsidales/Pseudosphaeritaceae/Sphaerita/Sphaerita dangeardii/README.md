@@ -1,5 +1,4 @@
-Sphaerita dangeardii Chatton & Brodskii, 1909 SPECIES
-=======
+# Sphaerita dangeardii Chatton & Brodskii, 1909 SPECIES
 
 #### Status
 ACCEPTED

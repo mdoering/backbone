@@ -1,5 +1,4 @@
-Erysiphe bulbouncinula U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe bulbouncinula U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

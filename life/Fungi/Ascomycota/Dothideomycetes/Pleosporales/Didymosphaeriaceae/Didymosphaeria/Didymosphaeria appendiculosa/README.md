@@ -1,5 +1,4 @@
-Didymosphaeria appendiculosa Speg. SPECIES
-=======
+# Didymosphaeria appendiculosa Speg. SPECIES
 
 #### Status
 ACCEPTED

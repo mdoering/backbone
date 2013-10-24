@@ -1,5 +1,4 @@
-Phragmonaevia paradoxa Rehm SPECIES
-=======
+# Phragmonaevia paradoxa Rehm SPECIES
 
 #### Status
 ACCEPTED

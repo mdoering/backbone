@@ -1,5 +1,4 @@
-Hypocenomyce australis Timdal SPECIES
-=======
+# Hypocenomyce australis Timdal SPECIES
 
 #### Status
 ACCEPTED

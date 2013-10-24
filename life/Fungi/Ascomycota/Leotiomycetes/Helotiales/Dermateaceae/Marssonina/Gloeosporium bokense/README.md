@@ -1,5 +1,4 @@
-Gloeosporium bokense Henn. SPECIES
-=======
+# Gloeosporium bokense Henn. SPECIES
 
 #### Status
 ACCEPTED

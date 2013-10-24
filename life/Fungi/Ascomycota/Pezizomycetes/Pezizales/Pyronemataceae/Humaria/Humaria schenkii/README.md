@@ -1,14 +1,13 @@
-Humaria schenckii (Batsch) Sacc. SPECIES
-=======
+# Humaria schenkii (Batsch) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 145 (1889)
 
 #### Original name
 Peziza schenkii Batsch

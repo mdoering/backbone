@@ -1,5 +1,4 @@
-Mycosphaerella canavaliae Syd. {?} SPECIES
-=======
+# Mycosphaerella canavaliae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

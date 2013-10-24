@@ -1,5 +1,4 @@
-Phloeospora dieffenbachiae Pat. SPECIES
-=======
+# Phloeospora dieffenbachiae Pat. SPECIES
 
 #### Status
 ACCEPTED

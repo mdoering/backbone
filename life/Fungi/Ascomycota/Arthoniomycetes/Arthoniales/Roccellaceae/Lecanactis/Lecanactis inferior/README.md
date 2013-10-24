@@ -1,5 +1,4 @@
-Lecanactis inferior (Müll. Arg.) Tehler SPECIES
-=======
+# Lecanactis inferior (Müll. Arg.) Tehler SPECIES
 
 #### Status
 ACCEPTED

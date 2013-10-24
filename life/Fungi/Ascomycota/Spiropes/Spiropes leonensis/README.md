@@ -1,5 +1,4 @@
-Spiropes leonensis M.B. Ellis SPECIES
-=======
+# Spiropes leonensis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

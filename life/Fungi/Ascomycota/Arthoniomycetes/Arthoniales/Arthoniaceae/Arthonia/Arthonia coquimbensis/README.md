@@ -1,5 +1,4 @@
-Arthonia coquimbensis Zahlbr. SPECIES
-=======
+# Arthonia coquimbensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

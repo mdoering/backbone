@@ -1,5 +1,4 @@
-Pertusaria praetermissa A. W. Archer & Elix SPECIES
-=======
+# Pertusaria praetermissa A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

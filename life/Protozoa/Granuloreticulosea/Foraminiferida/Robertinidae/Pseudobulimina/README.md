@@ -1,5 +1,4 @@
-Pseudobulimina Earland, 1934 GENUS
-=======
+# Pseudobulimina Earland, 1934 GENUS
 
 #### Status
 ACCEPTED

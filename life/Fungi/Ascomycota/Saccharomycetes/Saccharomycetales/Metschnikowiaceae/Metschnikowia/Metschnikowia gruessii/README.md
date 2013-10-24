@@ -1,5 +1,4 @@
-Metschnikowia gruessii Gim.-Jurado, 1992 SPECIES
-=======
+# Metschnikowia gruessii Gim.-Jurado, 1992 SPECIES
 
 #### Status
 ACCEPTED

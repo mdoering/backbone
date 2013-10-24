@@ -1,5 +1,4 @@
-Panaeolus intermedius Peck SPECIES
-=======
+# Panaeolus intermedius Peck SPECIES
 
 #### Status
 ACCEPTED

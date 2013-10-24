@@ -1,5 +1,4 @@
-Cryptomyces leopoldinus Rehm SPECIES
-=======
+# Cryptomyces leopoldinus Rehm SPECIES
 
 #### Status
 ACCEPTED

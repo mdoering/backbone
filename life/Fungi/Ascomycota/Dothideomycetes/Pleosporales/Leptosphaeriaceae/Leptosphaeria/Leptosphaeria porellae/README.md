@@ -1,5 +1,4 @@
-Leptosphaeria porellae Thirum. SPECIES
-=======
+# Leptosphaeria porellae Thirum. SPECIES
 
 #### Status
 ACCEPTED

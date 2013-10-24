@@ -1,5 +1,4 @@
-Induropilarius Ters & Deflandre, 1966 GENUS
-=======
+# Induropilarius Ters & Deflandre, 1966 GENUS
 
 #### Status
 ACCEPTED

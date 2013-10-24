@@ -1,17 +1,16 @@
-Leptotrema wightii f. wightii FORM
-=======
+# Leptotrema wightii (Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 65: 499 (1882)
+null
 
 #### Original name
-Leptotrema wightii f. wightii
+null
 
 ### Remarks
 null

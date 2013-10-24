@@ -1,5 +1,4 @@
-Coccidioides histosporocellularis (Haberf.) Vuill. SPECIES
-=======
+# Coccidioides histosporocellularis (Haberf.) Vuill. SPECIES
 
 #### Status
 ACCEPTED

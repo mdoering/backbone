@@ -1,5 +1,4 @@
-Dethiosulfovibrio acidaminovorans Surkov et al., 2001 SPECIES
-=======
+# Dethiosulfovibrio acidaminovorans Surkov et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

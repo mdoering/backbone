@@ -1,5 +1,4 @@
-Aderkomyces ramiferus (Sérus.) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces ramiferus (Sérus.) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

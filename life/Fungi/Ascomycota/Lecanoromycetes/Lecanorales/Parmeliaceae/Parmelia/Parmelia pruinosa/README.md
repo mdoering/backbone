@@ -1,5 +1,4 @@
-Parmelia pruinosa (Chaub.) Mont. SPECIES
-=======
+# Parmelia pruinosa (Chaub.) Mont. SPECIES
 
 #### Status
 ACCEPTED

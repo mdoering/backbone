@@ -1,5 +1,4 @@
-Polystictus jelinekii Reichardt SPECIES
-=======
+# Polystictus jelinekii Reichardt SPECIES
 
 #### Status
 ACCEPTED

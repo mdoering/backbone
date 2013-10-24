@@ -1,5 +1,4 @@
-Entoloma alliodorum Esteve-Rav., E. Horak & A. Ortega SPECIES
-=======
+# Entoloma alliodorum Esteve-Rav., E. Horak & A. Ortega SPECIES
 
 #### Status
 ACCEPTED

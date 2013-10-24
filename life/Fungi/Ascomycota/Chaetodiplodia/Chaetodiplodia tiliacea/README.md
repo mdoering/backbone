@@ -1,5 +1,4 @@
-Chaetodiplodia tiliacea Henn. SPECIES
-=======
+# Chaetodiplodia tiliacea Henn. SPECIES
 
 #### Status
 ACCEPTED

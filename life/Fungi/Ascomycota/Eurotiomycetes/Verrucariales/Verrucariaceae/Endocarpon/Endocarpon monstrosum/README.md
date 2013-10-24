@@ -1,5 +1,4 @@
-Endocarpon monstrosum (Schaer.) A. Massal. SPECIES
-=======
+# Endocarpon monstrosum (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

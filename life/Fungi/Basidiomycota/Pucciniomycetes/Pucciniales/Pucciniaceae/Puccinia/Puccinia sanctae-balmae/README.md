@@ -1,5 +1,4 @@
-Puccinia sanctae-balmae Massenot SPECIES
-=======
+# Puccinia sanctae-balmae Massenot SPECIES
 
 #### Status
 ACCEPTED

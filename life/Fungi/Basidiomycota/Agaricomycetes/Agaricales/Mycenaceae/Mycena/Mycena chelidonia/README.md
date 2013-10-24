@@ -1,5 +1,4 @@
-Mycena chelidonia (Fr.) Quél. SPECIES
-=======
+# Mycena chelidonia (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

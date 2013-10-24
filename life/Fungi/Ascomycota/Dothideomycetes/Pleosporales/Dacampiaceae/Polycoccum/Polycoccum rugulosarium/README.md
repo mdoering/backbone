@@ -1,5 +1,4 @@
-Polycoccum rugulosarium (Linds.) D. Hawksw. SPECIES
-=======
+# Polycoccum rugulosarium (Linds.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

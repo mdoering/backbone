@@ -1,5 +1,4 @@
-Galera leucophylla P. Kumm. SPECIES
-=======
+# Galera leucophylla P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

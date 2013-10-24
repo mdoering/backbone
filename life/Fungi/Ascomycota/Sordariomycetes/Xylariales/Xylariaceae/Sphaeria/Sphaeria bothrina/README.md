@@ -1,5 +1,4 @@
-Sphaeria bothrina Berk. & Broome SPECIES
-=======
+# Sphaeria bothrina Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

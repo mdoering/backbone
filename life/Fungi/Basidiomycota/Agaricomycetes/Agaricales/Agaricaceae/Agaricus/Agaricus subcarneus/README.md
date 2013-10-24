@@ -1,5 +1,4 @@
-Agaricus subcarneus Batsch SPECIES
-=======
+# Agaricus subcarneus Batsch SPECIES
 
 #### Status
 ACCEPTED

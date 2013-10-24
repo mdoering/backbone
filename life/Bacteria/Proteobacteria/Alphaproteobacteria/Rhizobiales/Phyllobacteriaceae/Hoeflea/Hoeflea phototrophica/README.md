@@ -1,5 +1,4 @@
-Hoeflea phototrophica Biebl et al., 2006 SPECIES
-=======
+# Hoeflea phototrophica Biebl et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

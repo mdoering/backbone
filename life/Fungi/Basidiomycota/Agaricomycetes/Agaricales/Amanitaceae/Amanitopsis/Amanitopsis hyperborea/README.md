@@ -1,5 +1,4 @@
-Amanitopsis hyperborea (P. Karst.) P. Karst. SPECIES
-=======
+# Amanitopsis hyperborea (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

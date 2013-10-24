@@ -1,5 +1,4 @@
-Pezizella ucrainica S.Y. Kondr. SPECIES
-=======
+# Pezizella ucrainica S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

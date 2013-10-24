@@ -1,5 +1,4 @@
-Pestalotia caroliniana Guba, 1961 SPECIES
-=======
+# Pestalotia caroliniana Guba, 1961 SPECIES
 
 #### Status
 ACCEPTED

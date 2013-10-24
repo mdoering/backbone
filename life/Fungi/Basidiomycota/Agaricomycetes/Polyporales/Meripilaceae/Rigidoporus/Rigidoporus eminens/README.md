@@ -1,5 +1,4 @@
-Rigidoporus eminens Y.C. Dai, 1998 SPECIES
-=======
+# Rigidoporus eminens Y.C. Dai, 1998 SPECIES
 
 #### Status
 ACCEPTED

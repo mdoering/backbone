@@ -1,5 +1,4 @@
-Stomiopeltis polyloculatis Luttr. SPECIES
-=======
+# Stomiopeltis polyloculatis Luttr. SPECIES
 
 #### Status
 ACCEPTED

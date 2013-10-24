@@ -1,14 +1,13 @@
-Parmelia stygiodes Nyl. SPECIES
-=======
+# Xanthoparmelia stygiodes (Nyl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Crombie, J. Bot. , London 13: 333 (1875)
+Taxon 53(4): 971 (2004)
 
 #### Original name
 Parmelia stygiodes Nyl.

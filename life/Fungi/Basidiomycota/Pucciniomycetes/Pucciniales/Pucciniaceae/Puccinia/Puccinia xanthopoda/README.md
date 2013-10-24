@@ -1,5 +1,4 @@
-Puccinia xanthopoda Syd. & P. Syd. SPECIES
-=======
+# Puccinia xanthopoda Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

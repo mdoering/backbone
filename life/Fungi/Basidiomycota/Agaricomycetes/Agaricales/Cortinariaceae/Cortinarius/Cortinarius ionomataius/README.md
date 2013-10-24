@@ -1,5 +1,4 @@
-Cortinarius ionomataius Soop, 2005 SPECIES
-=======
+# Cortinarius ionomataius Soop, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cryptosporium capparidis S. Ahmad SPECIES
-=======
+# Cryptosporium capparis S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cryptosporium capparidis S. Ahmad
+Cryptosporium capparis S. Ahmad
 
 ### Remarks
 null

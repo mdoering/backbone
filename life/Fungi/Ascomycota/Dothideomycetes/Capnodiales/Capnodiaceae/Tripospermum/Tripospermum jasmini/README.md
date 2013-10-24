@@ -1,5 +1,4 @@
-Tripospermum jasmini S.M. Singh SPECIES
-=======
+# Tripospermum jasmini S.M. Singh SPECIES
 
 #### Status
 ACCEPTED

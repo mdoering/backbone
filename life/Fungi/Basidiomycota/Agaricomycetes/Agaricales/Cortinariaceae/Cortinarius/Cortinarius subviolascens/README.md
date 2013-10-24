@@ -1,5 +1,4 @@
-Cortinarius subviolascens Rob. Henry SPECIES
-=======
+# Cortinarius subviolascens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

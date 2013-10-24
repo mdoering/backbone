@@ -1,5 +1,4 @@
-Spiroloculina planissima Lamarck SPECIES
-=======
+# Spiroloculina planissima Lamarck SPECIES
 
 #### Status
 ACCEPTED

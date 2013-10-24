@@ -1,5 +1,4 @@
-Tropidoscyphus cyclostomus Senn SPECIES
-=======
+# Tropidoscyphus cyclostomus Senn SPECIES
 
 #### Status
 ACCEPTED

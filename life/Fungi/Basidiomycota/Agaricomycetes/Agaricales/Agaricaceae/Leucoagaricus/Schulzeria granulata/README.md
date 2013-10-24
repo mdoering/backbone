@@ -1,5 +1,4 @@
-Schulzeria granulata Szem. SPECIES
-=======
+# Schulzeria granulata Szem. SPECIES
 
 #### Status
 ACCEPTED

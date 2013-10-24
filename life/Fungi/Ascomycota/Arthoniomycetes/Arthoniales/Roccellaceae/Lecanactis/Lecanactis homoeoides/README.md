@@ -1,5 +1,4 @@
-Lecanactis homoeoides (Nyl.) Tehler SPECIES
-=======
+# Lecanactis homoeoides (Nyl.) Tehler SPECIES
 
 #### Status
 ACCEPTED

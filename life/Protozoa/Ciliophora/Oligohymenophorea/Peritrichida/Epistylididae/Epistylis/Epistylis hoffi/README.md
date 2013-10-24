@@ -1,5 +1,4 @@
-Epistylis hoffi Bresslau, 1919 SPECIES
-=======
+# Epistylis hoffi Bresslau, 1919 SPECIES
 
 #### Status
 ACCEPTED

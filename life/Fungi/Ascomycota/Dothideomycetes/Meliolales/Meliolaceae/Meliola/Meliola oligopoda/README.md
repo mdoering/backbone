@@ -1,5 +1,4 @@
-Meliola oligopoda Syd. SPECIES
-=======
+# Meliola oligopoda Syd. SPECIES
 
 #### Status
 ACCEPTED

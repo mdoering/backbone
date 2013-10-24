@@ -1,5 +1,4 @@
-Hendersonia sibirica Sacc. SPECIES
-=======
+# Hendersonia sibirica Sacc. SPECIES
 
 #### Status
 ACCEPTED

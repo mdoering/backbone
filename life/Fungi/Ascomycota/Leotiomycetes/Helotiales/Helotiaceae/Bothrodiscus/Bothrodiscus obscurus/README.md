@@ -1,14 +1,13 @@
-Bothrodiscus obscura (Peck) Nag Raj SPECIES
-=======
+# Bothrodiscus obscurus (Peck) Nag Raj SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 57(22): 2489 (1979)
 
 #### Original name
 Excipulina obscura Peck

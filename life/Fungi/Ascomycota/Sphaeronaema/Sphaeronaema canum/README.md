@@ -1,5 +1,4 @@
-Sphaeronaema canum Ellis & Everh. SPECIES
-=======
+# Sphaeronaema canum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

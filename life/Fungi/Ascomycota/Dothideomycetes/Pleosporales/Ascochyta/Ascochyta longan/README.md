@@ -1,5 +1,4 @@
-Ascochyta longan Chuan F. Zhang & P.K. Chi SPECIES
-=======
+# Ascochyta longan Chuan F. Zhang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

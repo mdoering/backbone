@@ -1,5 +1,4 @@
-Microdiplodia juglandis Died. SPECIES
-=======
+# Microdiplodia juglandis Died. SPECIES
 
 #### Status
 ACCEPTED

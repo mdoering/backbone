@@ -1,5 +1,4 @@
-Clypeosphaeria bakeriana Rehm SPECIES
-=======
+# Clypeosphaeria bakeriana Rehm SPECIES
 
 #### Status
 ACCEPTED

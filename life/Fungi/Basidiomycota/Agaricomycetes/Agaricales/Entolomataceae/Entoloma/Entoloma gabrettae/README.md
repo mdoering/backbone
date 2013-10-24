@@ -1,5 +1,4 @@
-Entoloma gabrettae Pilát SPECIES
-=======
+# Entoloma gabrettae Pilát SPECIES
 
 #### Status
 ACCEPTED

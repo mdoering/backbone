@@ -1,5 +1,4 @@
-Patellaria psychotriae Müll. Arg. SPECIES
-=======
+# Patellaria psychotriae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

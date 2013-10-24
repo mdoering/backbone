@@ -1,5 +1,4 @@
-Hebeloma luchuense Fukiharu & Hongo SPECIES
-=======
+# Hebeloma luchuense Fukiharu & Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora disceptans Nyl. SPECIES
-=======
+# Lecanora disceptans Nyl. SPECIES
 
 #### Status
 ACCEPTED

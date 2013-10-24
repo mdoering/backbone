@@ -1,5 +1,4 @@
-Lipothrixviridae FAMILY
-=======
+# Lipothrixviridae FAMILY
 
 #### Status
 ACCEPTED

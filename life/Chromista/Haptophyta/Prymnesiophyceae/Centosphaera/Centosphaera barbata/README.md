@@ -1,5 +1,4 @@
-Centosphaera barbata F.H. Wind & S.W. Wise SPECIES
-=======
+# Centosphaera barbata F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

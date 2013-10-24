@@ -1,5 +1,4 @@
-Penzigia carabayensis (Mont.) J.H. Mill. SPECIES
-=======
+# Penzigia carabayensis (Mont.) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

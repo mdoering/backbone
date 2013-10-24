@@ -1,5 +1,4 @@
-Leptogium lobulatum Nyl. SPECIES
-=======
+# Leptogium lobulatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

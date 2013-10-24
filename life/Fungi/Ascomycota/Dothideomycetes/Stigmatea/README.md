@@ -1,5 +1,4 @@
-Stigmatea Fr. GENUS
-=======
+# Stigmatea Fr. GENUS
 
 #### Status
 ACCEPTED

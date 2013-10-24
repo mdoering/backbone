@@ -1,5 +1,4 @@
-Quinqueloculina pseudoseminula Mikhalevich, 1968 SPECIES
-=======
+# Quinqueloculina pseudoseminula Mikhalevich, 1968 SPECIES
 
 #### Status
 ACCEPTED

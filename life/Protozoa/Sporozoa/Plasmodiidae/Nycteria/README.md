@@ -1,5 +1,4 @@
-Nycteria Garnham & Heisch, 1953 GENUS
-=======
+# Nycteria Garnham & Heisch, 1953 GENUS
 
 #### Status
 ACCEPTED

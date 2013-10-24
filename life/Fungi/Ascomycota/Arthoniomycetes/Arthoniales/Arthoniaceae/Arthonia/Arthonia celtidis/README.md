@@ -1,5 +1,4 @@
-Arthonia celtidis A. Massal. SPECIES
-=======
+# Arthonia celtidis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

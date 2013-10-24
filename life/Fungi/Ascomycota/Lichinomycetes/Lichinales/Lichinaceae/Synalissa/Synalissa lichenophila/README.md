@@ -1,5 +1,4 @@
-Synalissa lichenophila Du Rietz SPECIES
-=======
+# Synalissa lichenophila Du Rietz SPECIES
 
 #### Status
 ACCEPTED

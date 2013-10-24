@@ -1,5 +1,4 @@
-Candida corniculata Kuraishi SPECIES
-=======
+# Candida corniculata Kuraishi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia jasminicola Sacc. SPECIES
-=======
+# Diplodia jasminicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

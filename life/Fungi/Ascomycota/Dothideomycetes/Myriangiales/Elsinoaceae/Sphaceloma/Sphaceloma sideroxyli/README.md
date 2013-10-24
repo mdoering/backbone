@@ -1,17 +1,16 @@
-Sphaceloma sideroxylonis Wani & Thirum. SPECIES
-=======
+# Sphaceloma sideroxyli Wani & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 25(1-6): 49 (1972)
 
 #### Original name
-Sphaceloma sideroxylonis Wani & Thirum.
+Sphaceloma sideroxyli Wani & Thirum.
 
 ### Remarks
 null

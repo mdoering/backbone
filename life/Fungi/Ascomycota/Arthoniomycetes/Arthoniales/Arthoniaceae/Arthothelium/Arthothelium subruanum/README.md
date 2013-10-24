@@ -1,5 +1,4 @@
-Arthothelium subruanum Makhija & Patw. SPECIES
-=======
+# Arthothelium subruanum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphelium leptoconium (Nyl.) Zahlbr. SPECIES
-=======
+# Cyphelium leptoconium (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

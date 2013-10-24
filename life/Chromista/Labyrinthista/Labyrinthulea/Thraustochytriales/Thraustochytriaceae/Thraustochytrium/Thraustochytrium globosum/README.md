@@ -1,5 +1,4 @@
-Thraustochytrium globosum Kobayasi & M. Ôkubo, 1953 SPECIES
-=======
+# Thraustochytrium globosum Kobayasi & M. Ôkubo, 1953 SPECIES
 
 #### Status
 ACCEPTED

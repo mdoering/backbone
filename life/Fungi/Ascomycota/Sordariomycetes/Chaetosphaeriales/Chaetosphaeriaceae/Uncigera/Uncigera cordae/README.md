@@ -1,5 +1,4 @@
-Uncigera cordae Sacc. & Berl. SPECIES
-=======
+# Uncigera cordae Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

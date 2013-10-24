@@ -1,5 +1,4 @@
-Sigirjania P.N. Kolosov, 1984 GENUS
-=======
+# Sigirjania P.N. Kolosov, 1984 GENUS
 
 #### Status
 ACCEPTED

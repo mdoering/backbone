@@ -1,5 +1,4 @@
-Tulostoma poculatum V.S. White SPECIES
-=======
+# Tulostoma poculatum V.S. White SPECIES
 
 #### Status
 ACCEPTED

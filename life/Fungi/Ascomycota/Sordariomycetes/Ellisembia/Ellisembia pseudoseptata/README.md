@@ -1,5 +1,4 @@
-Ellisembia pseudoseptata (M.B. Ellis) D.Q. Zhou & K.D. Hyde SPECIES
-=======
+# Ellisembia pseudoseptata (M.B. Ellis) D.Q. Zhou & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

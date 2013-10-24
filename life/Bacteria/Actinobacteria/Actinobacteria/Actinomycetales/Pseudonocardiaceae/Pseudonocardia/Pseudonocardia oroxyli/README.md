@@ -1,5 +1,4 @@
-Pseudonocardia oroxyli Gu et al., 2006 SPECIES
-=======
+# Pseudonocardia oroxyli Gu et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

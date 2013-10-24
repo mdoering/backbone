@@ -1,5 +1,4 @@
-Phyllosticta cestri Speg. SPECIES
-=======
+# Phyllosticta cestri Speg. SPECIES
 
 #### Status
 ACCEPTED

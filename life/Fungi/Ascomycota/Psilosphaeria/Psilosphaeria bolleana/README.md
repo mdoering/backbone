@@ -1,5 +1,4 @@
-Psilosphaeria bolleana (Pass. & Thüm.) Cooke SPECIES
-=======
+# Psilosphaeria bolleana (Pass. & Thüm.) Cooke SPECIES
 
 #### Status
 ACCEPTED

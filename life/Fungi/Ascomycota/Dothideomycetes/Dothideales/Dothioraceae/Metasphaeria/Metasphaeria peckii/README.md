@@ -1,5 +1,4 @@
-Metasphaeria peckii (Speg.) Sacc. SPECIES
-=======
+# Metasphaeria peckii (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

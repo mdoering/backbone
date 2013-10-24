@@ -1,5 +1,4 @@
-Acladium polysporum Wallr. SPECIES
-=======
+# Acladium polysporum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perichaena brevifila T.E. Brooks & H.W. Keller, 1971 SPECIES
-=======
+# Perichaena brevifila T.E. Brooks & H.W. Keller, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niptera capensis Raitviir & Schneller SPECIES
-=======
+# Niptera capensis Raitviir & Schneller SPECIES
 
 #### Status
 ACCEPTED

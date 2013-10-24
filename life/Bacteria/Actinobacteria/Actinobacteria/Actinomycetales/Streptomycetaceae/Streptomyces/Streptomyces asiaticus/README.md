@@ -1,5 +1,4 @@
-Streptomyces asiaticus Sembiring et al., 2001 SPECIES
-=======
+# Streptomyces asiaticus Sembiring et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

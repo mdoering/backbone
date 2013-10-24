@@ -1,14 +1,13 @@
-Telamonia albovariegata Velen., 1921 SPECIES
-=======
+# Cortinarius albovariegatus (Velen.) Melot, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceské Houby 3: 454 (1921)
+Bull. trimest. Soc. mycol. Fr. 95(3): 207 (1980)
 
 #### Original name
 Telamonia albovariegata Velen., 1921

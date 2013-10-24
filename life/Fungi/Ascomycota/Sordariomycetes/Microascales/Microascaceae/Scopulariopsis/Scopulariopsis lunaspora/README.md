@@ -1,5 +1,4 @@
-Scopulariopsis lunaspora P.M. Jones SPECIES
-=======
+# Scopulariopsis lunaspora P.M. Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanolithion hexum Rood & Barnard, 1972 SPECIES
-=======
+# Stephanolithion hexum Rood & Barnard, 1972 SPECIES
 
 #### Status
 ACCEPTED

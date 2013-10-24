@@ -1,5 +1,4 @@
-Ecklonia exasperata (Turner) J. Agardh SPECIES
-=======
+# Ecklonia exasperata (Turner) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

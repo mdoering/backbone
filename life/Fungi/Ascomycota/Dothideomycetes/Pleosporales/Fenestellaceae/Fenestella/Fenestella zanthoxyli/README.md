@@ -1,8 +1,7 @@
-Fenestella xanthoxyli (Peck) Sacc. SPECIES
-=======
+# Fenestella zanthoxyli (Peck) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

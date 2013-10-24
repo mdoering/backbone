@@ -1,5 +1,4 @@
-Favolus setiporus Berk. SPECIES
-=======
+# Favolus setiporus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discophrya laccobii Matthes, 1954 SPECIES
-=======
+# Discophrya laccobii Matthes, 1954 SPECIES
 
 #### Status
 ACCEPTED

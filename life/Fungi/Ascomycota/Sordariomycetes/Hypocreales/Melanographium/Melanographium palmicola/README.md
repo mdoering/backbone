@@ -1,17 +1,16 @@
-Melanographium palmicolum Goh & K.D. Hyde SPECIES
-=======
+# Melanographium palmicola Goh & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 101(9): 1097 (1997)
 
 #### Original name
-Melanographium palmicolum Goh & K.D. Hyde
+Melanographium palmicola Goh & K.D. Hyde
 
 ### Remarks
 null

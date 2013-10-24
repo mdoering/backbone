@@ -1,5 +1,4 @@
-Urocystis subnuda (Liro) Zundel SPECIES
-=======
+# Urocystis subnuda (Liro) Zundel SPECIES
 
 #### Status
 ACCEPTED

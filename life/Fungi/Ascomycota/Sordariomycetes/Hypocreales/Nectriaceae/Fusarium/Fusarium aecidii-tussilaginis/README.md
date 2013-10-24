@@ -1,5 +1,4 @@
-Fusarium aecidii-tussilaginis Allesch. SPECIES
-=======
+# Fusarium aecidii-tussilaginis Allesch. SPECIES
 
 #### Status
 ACCEPTED

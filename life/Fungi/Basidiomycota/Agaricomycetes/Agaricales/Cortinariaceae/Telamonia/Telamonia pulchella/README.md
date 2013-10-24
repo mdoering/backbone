@@ -1,5 +1,4 @@
-Telamonia pulchella Hlavácek SPECIES
-=======
+# Telamonia pulchella Hlavácek SPECIES
 
 #### Status
 ACCEPTED

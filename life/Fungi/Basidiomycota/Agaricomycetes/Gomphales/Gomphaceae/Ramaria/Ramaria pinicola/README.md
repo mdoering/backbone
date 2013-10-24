@@ -1,5 +1,4 @@
-Ramaria pinicola var. pinicola VARIETY
-=======
+# Ramaria pinicola (Burt) Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. Br. mycol. Soc. 44(2): 237 (1961)
 
 #### Original name
-Ramaria pinicola var. pinicola
+Clavaria pinicola Burt
 
 ### Remarks
 null

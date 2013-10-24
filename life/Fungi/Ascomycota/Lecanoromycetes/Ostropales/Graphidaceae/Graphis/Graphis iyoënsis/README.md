@@ -1,5 +1,4 @@
-Graphis iyoënsis Vain. SPECIES
-=======
+# Graphis iyoënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

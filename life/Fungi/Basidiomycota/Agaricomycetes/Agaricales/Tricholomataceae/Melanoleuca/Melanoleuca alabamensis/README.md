@@ -1,5 +1,4 @@
-Melanoleuca alabamensis Murrill SPECIES
-=======
+# Melanoleuca alabamensis Murrill SPECIES
 
 #### Status
 ACCEPTED

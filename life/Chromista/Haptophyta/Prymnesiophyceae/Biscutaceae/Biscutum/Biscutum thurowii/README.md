@@ -1,5 +1,4 @@
-Biscutum thurowii SPECIES
-=======
+# Biscutum thurowii SPECIES
 
 #### Status
 ACCEPTED

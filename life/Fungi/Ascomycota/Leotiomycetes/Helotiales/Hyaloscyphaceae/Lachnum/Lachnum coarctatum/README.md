@@ -1,5 +1,4 @@
-Lachnum coarctatum P. Karst. SPECIES
-=======
+# Lachnum coarctatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

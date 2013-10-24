@@ -1,5 +1,4 @@
-Lecidea caretteana Räsänen SPECIES
-=======
+# Lecidea caretteana Räsänen SPECIES
 
 #### Status
 ACCEPTED

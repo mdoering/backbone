@@ -1,5 +1,4 @@
-Asterina denigrata Petr. SPECIES
-=======
+# Asterina denigrata Petr. SPECIES
 
 #### Status
 ACCEPTED

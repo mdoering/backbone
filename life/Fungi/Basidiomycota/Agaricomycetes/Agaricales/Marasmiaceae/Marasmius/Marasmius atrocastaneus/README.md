@@ -1,5 +1,4 @@
-Marasmius atrocastaneus G. Stev., 1964 SPECIES
-=======
+# Marasmius atrocastaneus G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

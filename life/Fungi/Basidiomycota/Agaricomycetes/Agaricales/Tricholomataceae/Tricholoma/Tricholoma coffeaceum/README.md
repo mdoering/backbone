@@ -1,5 +1,4 @@
-Tricholoma coffeaceum Velen. SPECIES
-=======
+# Tricholoma coffeaceum Velen. SPECIES
 
 #### Status
 ACCEPTED

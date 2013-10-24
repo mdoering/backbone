@@ -1,5 +1,4 @@
-Phyllosticta cherensis Canonaco SPECIES
-=======
+# Phyllosticta cherensis Canonaco SPECIES
 
 #### Status
 ACCEPTED

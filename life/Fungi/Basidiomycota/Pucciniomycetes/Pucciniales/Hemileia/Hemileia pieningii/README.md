@@ -1,5 +1,4 @@
-Hemileia pieningii Deighton SPECIES
-=======
+# Hemileia pieningii Deighton SPECIES
 
 #### Status
 ACCEPTED

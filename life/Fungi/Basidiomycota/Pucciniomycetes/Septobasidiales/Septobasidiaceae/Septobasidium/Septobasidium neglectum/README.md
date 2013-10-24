@@ -1,5 +1,4 @@
-Septobasidium neglectum Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium neglectum Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

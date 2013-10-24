@@ -1,17 +1,16 @@
-Secotium sessile var. textum J.W. Cribb VARIETY
-=======
+# Cystangium sessile (Massee & Rodway ex Rodway) Singer & A.H. Sm., 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Dept. Bot. (formerly Biol. ) Univ. Qd. 3: 108 (1956)
+Mem. Torrey bot. Club 21: 27 (1960)
 
 #### Original name
-Secotium sessile var. textum J.W. Cribb
+Secotium sessile Massee & Rodway, 1912
 
 ### Remarks
 null

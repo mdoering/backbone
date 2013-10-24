@@ -1,5 +1,4 @@
-Chitonomyces psittacopsis Thaxt. SPECIES
-=======
+# Chitonomyces psittacopsis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

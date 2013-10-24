@@ -1,5 +1,4 @@
-Eutypa bacteriospora Rehm SPECIES
-=======
+# Eutypa bacteriospora Rehm SPECIES
 
 #### Status
 ACCEPTED

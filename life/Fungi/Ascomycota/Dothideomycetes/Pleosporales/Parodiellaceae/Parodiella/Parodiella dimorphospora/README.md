@@ -1,5 +1,4 @@
-Parodiella dimorphospora (Maire) Theiss. & Syd., 1915 SPECIES
-=======
+# Parodiella dimorphospora (Maire) Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

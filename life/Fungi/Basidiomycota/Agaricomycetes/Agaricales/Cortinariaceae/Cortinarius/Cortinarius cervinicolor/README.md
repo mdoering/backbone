@@ -1,5 +1,4 @@
-Cortinarius cervinicolor Rob. Henry SPECIES
-=======
+# Cortinarius cervinicolor Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

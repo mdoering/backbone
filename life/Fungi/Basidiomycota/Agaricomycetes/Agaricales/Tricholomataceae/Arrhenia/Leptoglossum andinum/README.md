@@ -1,5 +1,4 @@
-Leptoglossum andinum Corner SPECIES
-=======
+# Leptoglossum andinum Corner SPECIES
 
 #### Status
 ACCEPTED

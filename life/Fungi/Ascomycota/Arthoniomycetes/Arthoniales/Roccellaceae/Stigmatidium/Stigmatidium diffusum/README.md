@@ -1,5 +1,4 @@
-Stigmatidium diffusum Nyl. SPECIES
-=======
+# Stigmatidium diffusum Nyl. SPECIES
 
 #### Status
 ACCEPTED

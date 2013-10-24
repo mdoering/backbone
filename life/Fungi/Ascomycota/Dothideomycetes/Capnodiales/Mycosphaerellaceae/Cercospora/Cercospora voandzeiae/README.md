@@ -1,5 +1,4 @@
-Cercospora voandzeiae Bouriquet SPECIES
-=======
+# Cercospora voandzeiae Bouriquet SPECIES
 
 #### Status
 ACCEPTED

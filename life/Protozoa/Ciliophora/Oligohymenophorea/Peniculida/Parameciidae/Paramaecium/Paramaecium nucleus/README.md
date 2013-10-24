@@ -1,5 +1,4 @@
-Paramaecium nucleus SPECIES
-=======
+# Paramaecium nucleus SPECIES
 
 #### Status
 ACCEPTED

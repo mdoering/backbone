@@ -1,5 +1,4 @@
-Loxospora macrosperma (Müll. Arg.) SPECIES
-=======
+# Loxospora macrosperma (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

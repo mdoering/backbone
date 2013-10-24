@@ -1,14 +1,13 @@
-Fusarium longissimum Sacc. & P. Syd. SPECIES
-=======
+# Anguillospora longissima (Sacc. & P. Syd.) Ingold, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 14(2): 1128 (1899)
+Trans. Br. mycol. Soc. 25: 402 (1942)
 
 #### Original name
 Fusarium longissimum Sacc. & P. Syd.

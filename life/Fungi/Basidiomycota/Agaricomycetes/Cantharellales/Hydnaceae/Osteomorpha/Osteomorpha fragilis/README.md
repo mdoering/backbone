@@ -1,5 +1,4 @@
-Osteomorpha fragilis G. Arnaud ex Watling & W.B. Kendr., 1979 SPECIES
-=======
+# Osteomorpha fragilis G. Arnaud ex Watling & W.B. Kendr., 1979 SPECIES
 
 #### Status
 ACCEPTED

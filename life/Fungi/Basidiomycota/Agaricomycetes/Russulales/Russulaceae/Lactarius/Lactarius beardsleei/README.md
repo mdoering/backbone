@@ -1,17 +1,16 @@
-Lactarius beardslei Burl. SPECIES
-=======
+# Lactarius beardsleei Burl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 37(1): 59 (1945)
 
 #### Original name
-Lactarius beardslei Burl.
+Lactarius beardsleei Burl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria anomala Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria anomala Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

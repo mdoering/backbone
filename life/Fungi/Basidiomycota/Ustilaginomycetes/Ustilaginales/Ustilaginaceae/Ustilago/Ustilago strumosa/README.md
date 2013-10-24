@@ -1,5 +1,4 @@
-Ustilago strumosa Cooke SPECIES
-=======
+# Ustilago strumosa Cooke SPECIES
 
 #### Status
 ACCEPTED

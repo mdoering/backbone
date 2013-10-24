@@ -1,5 +1,4 @@
-Uredo spartii Husseinova SPECIES
-=======
+# Uredo spartii Husseinova SPECIES
 
 #### Status
 ACCEPTED

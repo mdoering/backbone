@@ -1,14 +1,13 @@
-Haplocarpon melinodes (Körb.) V. Wirth SPECIES
-=======
+# Porpidia melinodes (Körb.) Gowan & Ahti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dissnes Bot. 17: 287 (1972)
+Ann. bot. fenn. 30(1): 67 (1993)
 
 #### Original name
 Aspicilia melinodes Körb.

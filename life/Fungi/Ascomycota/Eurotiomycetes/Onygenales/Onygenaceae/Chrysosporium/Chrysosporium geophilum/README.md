@@ -1,5 +1,4 @@
-Chrysosporium geophilum Kushwaha & Shrivast. SPECIES
-=======
+# Chrysosporium geophilum Kushwaha & Shrivast. SPECIES
 
 #### Status
 ACCEPTED

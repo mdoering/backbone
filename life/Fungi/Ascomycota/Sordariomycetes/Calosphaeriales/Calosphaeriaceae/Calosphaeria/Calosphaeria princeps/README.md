@@ -1,5 +1,4 @@
-Calosphaeria princeps Tul. & C. Tul., 1863 SPECIES
-=======
+# Calosphaeria princeps Tul. & C. Tul., 1863 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosporium grande Cooke SPECIES
-=======
+# Podosporium grande Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mucor thermoaerospora Subrahm. SPECIES
-=======
+# Mucor thermoaerosporus Subrahm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Nagalakshmi, S. ; Subrahmanyam, A. , J. Econ. Taxon. Bot. 26(3): 760 (2002)
 
 #### Original name
-Mucor thermoaerospora Subrahm.
+Mucor thermoaerosporus Subrahm.
 
 ### Remarks
 null

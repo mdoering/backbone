@@ -1,5 +1,4 @@
-Agaricus albomarginatus Schumach. SPECIES
-=======
+# Agaricus albomarginatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

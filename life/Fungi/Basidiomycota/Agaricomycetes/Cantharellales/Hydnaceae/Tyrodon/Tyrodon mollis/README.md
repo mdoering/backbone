@@ -1,5 +1,4 @@
-Tyrodon mollis P. Karst. SPECIES
-=======
+# Tyrodon mollis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

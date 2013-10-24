@@ -1,5 +1,4 @@
-Bacidia microphana (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia microphana (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

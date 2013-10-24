@@ -1,17 +1,16 @@
-Sporisorium tristachyae (Vánky & C. Vánky) M. Piepenbr., 2002 SPECIES
-=======
+# Macalpinomyces tristachyae Vánky & C. Vánky, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Vánky, Mycotaxon 65: 165 (1997)
 
 #### Original name
-null
+Macalpinomyces tristachyae Vánky & C. Vánky, 1997
 
 ### Remarks
 null

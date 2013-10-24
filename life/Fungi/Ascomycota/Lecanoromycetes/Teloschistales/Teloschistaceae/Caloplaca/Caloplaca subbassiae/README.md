@@ -1,5 +1,4 @@
-Caloplaca subbassiae Y. Joshi & Upreti SPECIES
-=======
+# Caloplaca subbassiae Y. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

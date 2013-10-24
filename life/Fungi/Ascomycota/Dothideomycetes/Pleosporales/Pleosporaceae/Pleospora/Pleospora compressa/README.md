@@ -1,5 +1,4 @@
-Pleospora compressa Harkn. SPECIES
-=======
+# Pleospora compressa Harkn. SPECIES
 
 #### Status
 ACCEPTED

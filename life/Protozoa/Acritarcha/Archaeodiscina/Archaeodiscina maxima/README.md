@@ -1,5 +1,4 @@
-Archaeodiscina maxima Yin Leiming & Li Zaiping, 1978 SPECIES
-=======
+# Archaeodiscina maxima Yin Leiming & Li Zaiping, 1978 SPECIES
 
 #### Status
 ACCEPTED

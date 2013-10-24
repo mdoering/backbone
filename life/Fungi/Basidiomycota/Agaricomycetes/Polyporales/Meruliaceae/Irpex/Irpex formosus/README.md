@@ -1,5 +1,4 @@
-Irpex formosus Sacc. SPECIES
-=======
+# Irpex formosus Sacc. SPECIES
 
 #### Status
 ACCEPTED

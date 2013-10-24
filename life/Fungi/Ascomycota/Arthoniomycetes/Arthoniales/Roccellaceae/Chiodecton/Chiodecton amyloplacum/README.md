@@ -1,5 +1,4 @@
-Chiodecton amyloplacum Vain. SPECIES
-=======
+# Chiodecton amyloplacum Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella maderensis Petr. SPECIES
-=======
+# Mycosphaerella maderensis Petr. SPECIES
 
 #### Status
 ACCEPTED

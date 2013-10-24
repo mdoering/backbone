@@ -1,5 +1,4 @@
-Catillaria terrena (Willey) Zahlbr. SPECIES
-=======
+# Catillaria terrena (Willey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

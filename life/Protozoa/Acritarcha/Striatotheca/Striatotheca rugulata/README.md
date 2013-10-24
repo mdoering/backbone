@@ -1,5 +1,4 @@
-Striatotheca rugulata (Cramer, Kanes, Díez & Christopher, 1974) Eisenack et al., 1976 SPECIES
-=======
+# Striatotheca rugulata (Cramer, Kanes, Díez & Christopher, 1974) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea caucasica (Vain.) Vain. SPECIES
-=======
+# Lecidea caucasica (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

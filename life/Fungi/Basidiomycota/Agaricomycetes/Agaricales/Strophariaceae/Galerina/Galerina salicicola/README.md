@@ -1,14 +1,13 @@
-Pholiota salicicola (P.D. Orton) Bon, 1971 SPECIES
-=======
+# Galerina salicicola P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 24(1-2): 53 (1971)
+Trans. Br. mycol. Soc. 43: 242 (1960)
 
 #### Original name
 Galerina salicicola P.D. Orton, 1960

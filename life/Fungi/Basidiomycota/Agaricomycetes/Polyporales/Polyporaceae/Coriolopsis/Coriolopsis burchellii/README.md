@@ -1,14 +1,13 @@
-Coriolopsis burchelli (Berk. ex Cooke) Ryvarden SPECIES
-=======
+# Coriolopsis burchellii (Berk. ex Cooke) Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 31(1): 47 (1988)
 
 #### Original name
 Trametes burchellii Berk. ex Cooke, 1891

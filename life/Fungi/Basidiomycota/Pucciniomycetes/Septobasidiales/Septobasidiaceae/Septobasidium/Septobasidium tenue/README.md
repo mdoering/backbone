@@ -1,5 +1,4 @@
-Septobasidium tenue Couch SPECIES
-=======
+# Septobasidium tenue Couch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropuccinia aberrans (Peck) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia aberrans (Peck) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

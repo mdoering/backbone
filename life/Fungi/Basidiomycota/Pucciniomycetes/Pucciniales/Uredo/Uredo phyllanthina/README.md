@@ -1,5 +1,4 @@
-Uredo phyllanthina (Syd.) Cummins SPECIES
-=======
+# Uredo phyllanthina (Syd.) Cummins SPECIES
 
 #### Status
 ACCEPTED

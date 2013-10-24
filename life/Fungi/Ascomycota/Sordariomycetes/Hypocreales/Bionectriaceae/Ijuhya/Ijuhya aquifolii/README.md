@@ -1,5 +1,4 @@
-Ijuhya aquifolii (Cooke & Ellis) Rossman & Samuels SPECIES
-=======
+# Ijuhya aquifolii (Cooke & Ellis) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium scirpi Trail SPECIES
-=======
+# Coniothyrium scirpi Trail SPECIES
 
 #### Status
 ACCEPTED

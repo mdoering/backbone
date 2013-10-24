@@ -1,5 +1,4 @@
-Tricholomopsis flammula Métrod SPECIES
-=======
+# Tricholomopsis flammula Métrod SPECIES
 
 #### Status
 ACCEPTED

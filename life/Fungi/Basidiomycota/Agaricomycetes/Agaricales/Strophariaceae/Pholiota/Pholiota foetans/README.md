@@ -1,5 +1,4 @@
-Pholiota foetans Bat. & A.F. Vital SPECIES
-=======
+# Pholiota foetans Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

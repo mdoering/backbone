@@ -1,5 +1,4 @@
-Reophax subcapitatus Zheng & Fu, 2001 SPECIES
-=======
+# Reophax subcapitatus Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

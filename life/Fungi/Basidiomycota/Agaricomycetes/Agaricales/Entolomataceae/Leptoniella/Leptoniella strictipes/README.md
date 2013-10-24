@@ -1,5 +1,4 @@
-Leptoniella strictipes (Peck) Murrill SPECIES
-=======
+# Leptoniella strictipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

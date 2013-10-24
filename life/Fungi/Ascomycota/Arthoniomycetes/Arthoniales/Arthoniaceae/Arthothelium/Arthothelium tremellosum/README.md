@@ -1,5 +1,4 @@
-Arthothelium tremellosum A. Massal. SPECIES
-=======
+# Arthothelium tremellosum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

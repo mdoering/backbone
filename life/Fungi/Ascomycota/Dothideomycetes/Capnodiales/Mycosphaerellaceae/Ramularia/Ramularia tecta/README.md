@@ -1,5 +1,4 @@
-Ramularia tecta U. Braun, Chevassut & Pellic. SPECIES
-=======
+# Ramularia tecta U. Braun, Chevassut & Pellic. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe ectypoides Peck SPECIES
-=======
+# Clitocybe ectypoides Peck SPECIES
 
 #### Status
 ACCEPTED

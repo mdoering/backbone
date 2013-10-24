@@ -1,5 +1,4 @@
-Lepiota pyrochroa Malençon SPECIES
-=======
+# Lepiota pyrochroa Malençon SPECIES
 
 #### Status
 ACCEPTED

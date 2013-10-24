@@ -1,5 +1,4 @@
-Clonostachys rhizophaga Schroers SPECIES
-=======
+# Clonostachys rhizophaga Schroers SPECIES
 
 #### Status
 ACCEPTED

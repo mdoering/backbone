@@ -1,5 +1,4 @@
-Globocassidulina producta (Chapman & Parr, 1937) SPECIES
-=======
+# Globocassidulina producta (Chapman & Parr, 1937) SPECIES
 
 #### Status
 ACCEPTED

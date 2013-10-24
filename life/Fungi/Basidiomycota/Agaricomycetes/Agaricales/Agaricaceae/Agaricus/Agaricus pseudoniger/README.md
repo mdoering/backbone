@@ -1,5 +1,4 @@
-Agaricus pseudoniger Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus pseudoniger Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

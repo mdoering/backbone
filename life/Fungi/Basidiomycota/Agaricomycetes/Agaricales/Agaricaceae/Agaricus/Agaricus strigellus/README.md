@@ -1,5 +1,4 @@
-Agaricus strigellus Berk. SPECIES
-=======
+# Agaricus strigellus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanactis canariensis van den Boom & Etayo SPECIES
-=======
+# Lecanactis canariensis van den Boom & Etayo SPECIES
 
 #### Status
 ACCEPTED

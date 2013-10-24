@@ -1,5 +1,4 @@
-Stereocaulon formosanum Asahina SPECIES
-=======
+# Stereocaulon formosanum Asahina SPECIES
 
 #### Status
 ACCEPTED

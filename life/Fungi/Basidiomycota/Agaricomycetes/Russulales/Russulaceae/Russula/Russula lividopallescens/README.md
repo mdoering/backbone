@@ -1,5 +1,4 @@
-Russula lividopallescens Sarnari SPECIES
-=======
+# Russula lividopallescens Sarnari SPECIES
 
 #### Status
 ACCEPTED

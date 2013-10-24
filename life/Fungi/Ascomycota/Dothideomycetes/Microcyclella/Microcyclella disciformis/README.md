@@ -1,5 +1,4 @@
-Microcyclella disciformis I. Hino & Katum. SPECIES
-=======
+# Microcyclella disciformis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

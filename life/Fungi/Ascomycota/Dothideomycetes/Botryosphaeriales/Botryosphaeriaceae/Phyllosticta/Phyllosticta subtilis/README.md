@@ -1,5 +1,4 @@
-Phyllosticta subtilis Peck SPECIES
-=======
+# Phyllosticta subtilis Peck SPECIES
 
 #### Status
 ACCEPTED

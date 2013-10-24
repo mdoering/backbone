@@ -1,5 +1,4 @@
-Campanoeca J.Throndsen, 1974 GENUS
-=======
+# Campanoeca J.Throndsen, 1974 GENUS
 
 #### Status
 ACCEPTED

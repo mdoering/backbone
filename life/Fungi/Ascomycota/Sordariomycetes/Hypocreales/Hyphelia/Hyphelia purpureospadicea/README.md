@@ -1,5 +1,4 @@
-Hyphelia purpureospadicea Fr. SPECIES
-=======
+# Hyphelia purpureospadicea Fr. SPECIES
 
 #### Status
 ACCEPTED

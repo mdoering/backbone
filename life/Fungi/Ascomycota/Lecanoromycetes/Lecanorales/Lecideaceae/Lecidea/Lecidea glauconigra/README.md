@@ -1,5 +1,4 @@
-Lecidea glauconigra J. Steiner SPECIES
-=======
+# Lecidea glauconigra J. Steiner SPECIES
 
 #### Status
 ACCEPTED

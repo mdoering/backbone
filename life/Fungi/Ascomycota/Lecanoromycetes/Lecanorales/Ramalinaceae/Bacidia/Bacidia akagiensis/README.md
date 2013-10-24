@@ -1,5 +1,4 @@
-Bacidia akagiensis (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia akagiensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

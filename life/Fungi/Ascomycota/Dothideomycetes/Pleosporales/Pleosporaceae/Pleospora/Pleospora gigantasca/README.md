@@ -1,5 +1,4 @@
-Pleospora gigantasca Rostr. SPECIES
-=======
+# Pleospora gigantasca Rostr. SPECIES
 
 #### Status
 ACCEPTED

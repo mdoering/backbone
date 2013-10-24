@@ -1,5 +1,4 @@
-Melastiza greletii Le Gal SPECIES
-=======
+# Melastiza greletii Le Gal SPECIES
 
 #### Status
 ACCEPTED

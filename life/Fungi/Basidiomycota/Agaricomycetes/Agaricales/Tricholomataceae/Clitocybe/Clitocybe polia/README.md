@@ -1,5 +1,4 @@
-Clitocybe polia (Fr.) Gillet SPECIES
-=======
+# Clitocybe polia (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius phlebioides Bourdot & Galzin SPECIES
-=======
+# Merulius phlebioides Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

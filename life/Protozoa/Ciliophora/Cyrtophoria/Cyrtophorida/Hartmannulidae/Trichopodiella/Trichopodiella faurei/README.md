@@ -1,5 +1,4 @@
-Trichopodiella faurei Gong, Gao, Roberts, Al-Rasheid & Song, 2008 SPECIES
-=======
+# Trichopodiella faurei Gong, Gao, Roberts, Al-Rasheid & Song, 2008 SPECIES
 
 #### Status
 ACCEPTED

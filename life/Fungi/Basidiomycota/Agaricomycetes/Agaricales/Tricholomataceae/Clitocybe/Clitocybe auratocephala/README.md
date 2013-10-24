@@ -1,5 +1,4 @@
-Clitocybe auratocephala (Ellis) SPECIES
-=======
+# Clitocybe auratocephala (Ellis) SPECIES
 
 #### Status
 ACCEPTED

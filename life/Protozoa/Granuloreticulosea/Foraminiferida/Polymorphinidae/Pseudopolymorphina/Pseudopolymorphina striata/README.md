@@ -1,5 +1,4 @@
-Pseudopolymorphina striata Yassini & Jones, 1995 SPECIES
-=======
+# Pseudopolymorphina striata Yassini & Jones, 1995 SPECIES
 
 #### Status
 ACCEPTED

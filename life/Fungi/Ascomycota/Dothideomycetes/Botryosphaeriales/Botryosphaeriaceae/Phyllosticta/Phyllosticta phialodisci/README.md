@@ -1,5 +1,4 @@
-Phyllosticta phialodisci Cejp SPECIES
-=======
+# Phyllosticta phialodisci Cejp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urotricha ristoi Krainer, 1995 SPECIES
-=======
+# Urotricha ristoi Krainer, 1995 SPECIES
 
 #### Status
 ACCEPTED

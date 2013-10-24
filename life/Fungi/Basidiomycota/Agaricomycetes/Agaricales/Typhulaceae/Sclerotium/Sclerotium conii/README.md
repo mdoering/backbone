@@ -1,5 +1,4 @@
-Sclerotium conii Duby SPECIES
-=======
+# Sclerotium conii Duby SPECIES
 
 #### Status
 ACCEPTED

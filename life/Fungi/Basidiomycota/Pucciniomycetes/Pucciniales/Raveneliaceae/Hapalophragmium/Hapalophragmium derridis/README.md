@@ -1,5 +1,4 @@
-Hapalophragmium derridis Syd. & P. Syd., 1901 SPECIES
-=======
+# Hapalophragmium derridis Syd. & P. Syd., 1901 SPECIES
 
 #### Status
 ACCEPTED

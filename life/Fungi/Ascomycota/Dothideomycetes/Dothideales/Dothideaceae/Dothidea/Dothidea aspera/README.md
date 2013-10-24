@@ -1,5 +1,4 @@
-Dothidea aspera De Not. SPECIES
-=======
+# Dothidea aspera De Not. SPECIES
 
 #### Status
 ACCEPTED

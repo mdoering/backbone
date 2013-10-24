@@ -1,5 +1,4 @@
-Oxydothis cyrtospora J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis cyrtospora J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

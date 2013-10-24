@@ -1,5 +1,4 @@
-Henrica B. de Lesd. GENUS
-=======
+# Henrica B. de Lesd. GENUS
 
 #### Status
 ACCEPTED

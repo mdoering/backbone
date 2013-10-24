@@ -1,5 +1,4 @@
-Cercospora cryptostegiae W. Yamam. SPECIES
-=======
+# Cercospora cryptostegiae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus mesoamericanus J.L. Mata SPECIES
-=======
+# Gymnopus mesoamericanus J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

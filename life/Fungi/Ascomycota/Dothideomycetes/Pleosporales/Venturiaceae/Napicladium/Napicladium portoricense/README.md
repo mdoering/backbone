@@ -1,5 +1,4 @@
-Napicladium portoricense Speg. SPECIES
-=======
+# Napicladium portoricense Speg. SPECIES
 
 #### Status
 ACCEPTED

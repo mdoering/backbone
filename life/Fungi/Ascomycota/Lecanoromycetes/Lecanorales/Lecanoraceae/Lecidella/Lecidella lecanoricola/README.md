@@ -1,5 +1,4 @@
-Lecidella lecanoricola Alstrup, D. Hawksw. & R. Sant. SPECIES
-=======
+# Lecidella lecanoricola Alstrup, D. Hawksw. & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

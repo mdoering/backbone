@@ -1,5 +1,4 @@
-Toxoplasma Nicolle & Manceaux, 1909 GENUS
-=======
+# Toxoplasma Nicolle & Manceaux, 1909 GENUS
 
 #### Status
 ACCEPTED

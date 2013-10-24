@@ -1,5 +1,4 @@
-Sargassum podacanthum Sonder SPECIES
-=======
+# Sargassum podacanthum Sonder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ancistrum caudatum Fenchel, 1964 SPECIES
-=======
+# Ancistrum caudatum Fenchel, 1964 SPECIES
 
 #### Status
 ACCEPTED

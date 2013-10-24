@@ -1,5 +1,4 @@
-Arthonia fuscescens Fée SPECIES
-=======
+# Arthonia fuscescens Fée SPECIES
 
 #### Status
 ACCEPTED

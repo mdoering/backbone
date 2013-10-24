@@ -1,5 +1,4 @@
-Erysibe ruborum Wallr. SPECIES
-=======
+# Erysibe ruborum Wallr. SPECIES
 
 #### Status
 ACCEPTED

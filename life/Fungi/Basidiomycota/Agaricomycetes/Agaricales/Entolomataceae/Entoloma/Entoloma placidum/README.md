@@ -1,14 +1,13 @@
-Agaricus placidus Fr., 1818 SPECIES
-=======
+# Entoloma placidum (Fr.) Zerova, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 94 (1818)
+in Zerova, Sosin & Rozhenko in Zerov & Peresipkin, Viznachnik Ukraini <b>5</b> Basidiomycetes 104 (1979)
 
 #### Original name
 Agaricus placidus Fr., 1818

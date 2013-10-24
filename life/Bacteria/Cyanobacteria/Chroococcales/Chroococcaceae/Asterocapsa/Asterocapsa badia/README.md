@@ -1,5 +1,4 @@
-Asterocapsa badia J. Komárek SPECIES
-=======
+# Asterocapsa badia J. Komárek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cyphellomyces Speg. GENUS
-=======
+# Phellorinia Berk. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 16: 25 [ser. 3, 9] (1906)
+London J. Bot. 2: 521 ['421'] (1843)
 
 #### Original name
-Cyphellomyces Speg.
+Phellorinia Berk.
 
 ### Remarks
 null

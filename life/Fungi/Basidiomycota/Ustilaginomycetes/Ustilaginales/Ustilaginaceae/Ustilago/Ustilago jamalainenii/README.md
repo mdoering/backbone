@@ -1,5 +1,4 @@
-Ustilago jamalainenii Liro SPECIES
-=======
+# Ustilago jamalainenii Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocarpa rostrata Copeland SPECIES
-=======
+# Dermocarpa rostrata Copeland SPECIES
 
 #### Status
 ACCEPTED

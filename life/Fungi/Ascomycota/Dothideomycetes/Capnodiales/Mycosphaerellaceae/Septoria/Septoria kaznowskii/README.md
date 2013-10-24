@@ -1,5 +1,4 @@
-Septoria kaznowskii Melnik SPECIES
-=======
+# Septoria kaznowskii Melnik SPECIES
 
 #### Status
 ACCEPTED

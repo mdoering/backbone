@@ -1,5 +1,4 @@
-Pulleniella Ujiie, 1990 GENUS
-=======
+# Pulleniella Ujiie, 1990 GENUS
 
 #### Status
 ACCEPTED

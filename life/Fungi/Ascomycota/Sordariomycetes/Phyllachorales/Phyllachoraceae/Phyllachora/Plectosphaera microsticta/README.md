@@ -1,14 +1,13 @@
-Physalospora microsticta Cooke, 1891 SPECIES
-=======
+# Plectosphaera microsticta (Cooke) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 20(no. 93): 5 (1891)
+Beitr. Kryptfl. Schweiz 11(no. 1): 207 (1954)
 
 #### Original name
 Physalospora microsticta Cooke, 1891

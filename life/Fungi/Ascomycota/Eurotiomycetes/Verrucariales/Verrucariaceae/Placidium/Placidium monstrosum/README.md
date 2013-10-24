@@ -1,5 +1,4 @@
-Placidium monstrosum (Schaer.) A. Massal. SPECIES
-=======
+# Placidium monstrosum (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

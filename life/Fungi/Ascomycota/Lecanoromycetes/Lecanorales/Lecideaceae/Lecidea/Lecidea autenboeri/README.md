@@ -1,5 +1,4 @@
-Lecidea autenboeri C.W. Dodge SPECIES
-=======
+# Lecidea autenboeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

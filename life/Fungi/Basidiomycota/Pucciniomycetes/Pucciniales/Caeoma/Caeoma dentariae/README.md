@@ -1,5 +1,4 @@
-Caeoma dentariae Link SPECIES
-=======
+# Caeoma dentariae Link SPECIES
 
 #### Status
 ACCEPTED

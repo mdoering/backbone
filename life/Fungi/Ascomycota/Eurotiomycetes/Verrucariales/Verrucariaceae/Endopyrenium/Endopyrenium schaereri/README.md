@@ -1,5 +1,4 @@
-Endopyrenium schaereri (Hepp) Fink SPECIES
-=======
+# Endopyrenium schaereri (Hepp) Fink SPECIES
 
 #### Status
 ACCEPTED

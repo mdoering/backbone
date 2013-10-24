@@ -1,5 +1,4 @@
-Pestalotia gubaiana Subramon. & V.G. Rao SPECIES
-=======
+# Pestalotia gubaiana Subramon. & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

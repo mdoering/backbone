@@ -1,17 +1,16 @@
-Gibberella cyanogena var. cyanogena VARIETY
-=======
+# Gibberella cyanogena (Desm.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 2: 555 (1883)
 
 #### Original name
-Gibberella cyanogena var. cyanogena
+Sphaeria cyanogena Desm., 1848
 
 ### Remarks
 null

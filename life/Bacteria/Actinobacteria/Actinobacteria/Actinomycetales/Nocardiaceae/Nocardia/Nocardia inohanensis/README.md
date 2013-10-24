@@ -1,5 +1,4 @@
-Nocardia inohanensis Kageyama et al., 2004 SPECIES
-=======
+# Nocardia inohanensis Kageyama et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

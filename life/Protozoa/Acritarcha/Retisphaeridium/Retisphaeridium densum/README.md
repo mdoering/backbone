@@ -1,5 +1,4 @@
-Retisphaeridium densum Paskeviciense in Volkova et al., 1979 SPECIES
-=======
+# Retisphaeridium densum Paskeviciense in Volkova et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

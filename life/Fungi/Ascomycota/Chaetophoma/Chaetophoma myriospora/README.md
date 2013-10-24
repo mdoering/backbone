@@ -1,5 +1,4 @@
-Chaetophoma myriospora Cooke SPECIES
-=======
+# Chaetophoma myriospora Cooke SPECIES
 
 #### Status
 ACCEPTED

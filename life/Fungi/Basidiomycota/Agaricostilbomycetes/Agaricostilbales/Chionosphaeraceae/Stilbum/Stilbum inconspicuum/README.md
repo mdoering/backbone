@@ -1,5 +1,4 @@
-Stilbum inconspicuum Curr. SPECIES
-=======
+# Stilbum inconspicuum Curr. SPECIES
 
 #### Status
 ACCEPTED

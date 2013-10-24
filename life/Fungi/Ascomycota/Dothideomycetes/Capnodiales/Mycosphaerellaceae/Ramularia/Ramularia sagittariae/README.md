@@ -1,5 +1,4 @@
-Ramularia sagittariae Bres. SPECIES
-=======
+# Ramularia sagittariae Bres. SPECIES
 
 #### Status
 ACCEPTED

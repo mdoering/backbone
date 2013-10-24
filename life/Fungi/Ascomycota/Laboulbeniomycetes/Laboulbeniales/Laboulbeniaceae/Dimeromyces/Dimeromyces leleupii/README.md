@@ -1,5 +1,4 @@
-Dimeromyces leleupii Balazuc SPECIES
-=======
+# Dimeromyces leleupii Balazuc SPECIES
 
 #### Status
 ACCEPTED

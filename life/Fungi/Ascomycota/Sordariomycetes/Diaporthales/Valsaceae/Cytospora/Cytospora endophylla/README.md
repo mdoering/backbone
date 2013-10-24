@@ -1,5 +1,4 @@
-Cytospora endophylla Fr. SPECIES
-=======
+# Cytospora endophylla Fr. SPECIES
 
 #### Status
 ACCEPTED

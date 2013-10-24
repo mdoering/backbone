@@ -1,5 +1,4 @@
-Sporotrichum cephalosporioides Peyronel SPECIES
-=======
+# Sporotrichum cephalosporioides Peyronel SPECIES
 
 #### Status
 ACCEPTED

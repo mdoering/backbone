@@ -1,5 +1,4 @@
-Pleurotus luctuosus SPECIES
-=======
+# Pleurotus luctuosus SPECIES
 
 #### Status
 ACCEPTED

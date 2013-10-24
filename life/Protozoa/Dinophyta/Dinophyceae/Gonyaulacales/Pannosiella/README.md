@@ -1,5 +1,4 @@
-Pannosiella Batten & Lister, 1988 GENUS
-=======
+# Pannosiella Batten & Lister, 1988 GENUS
 
 #### Status
 ACCEPTED

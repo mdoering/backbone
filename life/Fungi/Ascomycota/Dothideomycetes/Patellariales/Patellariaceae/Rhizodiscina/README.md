@@ -1,5 +1,4 @@
-Rhizodiscina Hafellner, 1979 GENUS
-=======
+# Rhizodiscina Hafellner, 1979 GENUS
 
 #### Status
 ACCEPTED

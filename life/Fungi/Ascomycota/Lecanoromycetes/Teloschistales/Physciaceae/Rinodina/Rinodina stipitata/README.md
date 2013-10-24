@@ -1,5 +1,4 @@
-Rinodina stipitata C.W. Dodge SPECIES
-=======
+# Rinodina stipitata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

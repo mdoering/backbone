@@ -1,5 +1,4 @@
-Ciboria strigosa Rodway SPECIES
-=======
+# Ciboria strigosa Rodway SPECIES
 
 #### Status
 ACCEPTED

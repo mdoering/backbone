@@ -1,5 +1,4 @@
-Anthostomella castanopsidis W.H. Hsieh & Chi Y. Chen, 2000 SPECIES
-=======
+# Anthostomella castanopsidis W.H. Hsieh & Chi Y. Chen, 2000 SPECIES
 
 #### Status
 ACCEPTED

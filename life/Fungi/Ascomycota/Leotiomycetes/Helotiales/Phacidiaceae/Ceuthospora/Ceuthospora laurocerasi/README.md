@@ -1,5 +1,4 @@
-Ceuthospora laurocerasi Grove, 1916 SPECIES
-=======
+# Ceuthospora laurocerasi Grove, 1916 SPECIES
 
 #### Status
 ACCEPTED

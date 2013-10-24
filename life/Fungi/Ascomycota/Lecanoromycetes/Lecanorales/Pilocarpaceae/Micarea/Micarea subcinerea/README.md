@@ -1,5 +1,4 @@
-Micarea subcinerea M. Brand & van den Boom SPECIES
-=======
+# Micarea subcinerea M. Brand & van den Boom SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cronartium usneoides Henn., 1895 SPECIES
-=======
+# Cionothrix usneoides (Henn.) Syd. & P. Syd., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 34: 95 (1895)
+Annls mycol. 16: 243 (1919)
 
 #### Original name
 Cronartium usneoides Henn., 1895

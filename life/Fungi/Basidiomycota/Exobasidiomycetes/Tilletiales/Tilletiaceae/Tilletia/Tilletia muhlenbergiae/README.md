@@ -1,5 +1,4 @@
-Tilletia muhlenbergiae G.P. Clinton, 1906 SPECIES
-=======
+# Tilletia muhlenbergiae G.P. Clinton, 1906 SPECIES
 
 #### Status
 ACCEPTED

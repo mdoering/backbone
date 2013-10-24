@@ -1,17 +1,16 @@
-Russula rhodella var. rhodella E.-J. Gilbert VARIETY
-=======
+# Russula rhodella E.-J. Gilbert, 1932 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Russula rhodella var. rhodella E.-J. Gilbert
+Russula rhodella E.-J. Gilbert, 1932
 
 ### Remarks
 null

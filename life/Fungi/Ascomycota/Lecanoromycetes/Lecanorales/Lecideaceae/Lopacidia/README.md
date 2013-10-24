@@ -1,5 +1,4 @@
-Lopacidia Kalb GENUS
-=======
+# Lopacidia Kalb GENUS
 
 #### Status
 ACCEPTED

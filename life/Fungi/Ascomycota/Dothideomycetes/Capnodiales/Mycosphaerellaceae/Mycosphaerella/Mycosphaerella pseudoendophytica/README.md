@@ -1,5 +1,4 @@
-Mycosphaerella pseudoendophytica Crous & G.C. Hunter, 2006 SPECIES
-=======
+# Mycosphaerella pseudoendophytica Crous & G.C. Hunter, 2006 SPECIES
 
 #### Status
 ACCEPTED

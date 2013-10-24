@@ -1,5 +1,4 @@
-Vibrio mytili Pujalte et al., 1993 SPECIES
-=======
+# Vibrio mytili Pujalte et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

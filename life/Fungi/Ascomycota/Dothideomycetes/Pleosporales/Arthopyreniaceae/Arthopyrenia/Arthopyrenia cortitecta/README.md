@@ -1,5 +1,4 @@
-Arthopyrenia cortitecta Norman SPECIES
-=======
+# Arthopyrenia cortitecta Norman SPECIES
 
 #### Status
 ACCEPTED

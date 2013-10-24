@@ -1,5 +1,4 @@
-Macroplodia vaginarum (Catt.) Kuntze SPECIES
-=======
+# Macroplodia vaginarum (Catt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

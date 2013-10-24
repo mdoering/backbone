@@ -1,5 +1,4 @@
-Peziza mollisioides Schwein. SPECIES
-=======
+# Peziza mollisioides Schwein. SPECIES
 
 #### Status
 ACCEPTED

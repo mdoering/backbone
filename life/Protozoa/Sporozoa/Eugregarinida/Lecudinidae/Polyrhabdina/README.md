@@ -1,5 +1,4 @@
-Polyrhabdina Mingazzini, 1891 GENUS
-=======
+# Polyrhabdina Mingazzini, 1891 GENUS
 
 #### Status
 ACCEPTED

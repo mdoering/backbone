@@ -1,5 +1,4 @@
-Levringia decaryi J. Feldmann SPECIES
-=======
+# Levringia decaryi J. Feldmann SPECIES
 
 #### Status
 ACCEPTED

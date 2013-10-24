@@ -1,5 +1,4 @@
-Awasthiella indica Kr.P. Singh SPECIES
-=======
+# Awasthiella indica Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cibicides spiralis Natland, 1938 SPECIES
-=======
+# Cibicides spiralis Natland, 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium erigerontis Syd. & P. Syd. SPECIES
-=======
+# Coleosporium erigerontis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

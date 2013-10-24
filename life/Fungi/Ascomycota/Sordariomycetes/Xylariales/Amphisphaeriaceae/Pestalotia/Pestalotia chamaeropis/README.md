@@ -1,5 +1,4 @@
-Pestalotia chamaeropis Pass. SPECIES
-=======
+# Pestalotia chamaeropis Pass. SPECIES
 
 #### Status
 ACCEPTED

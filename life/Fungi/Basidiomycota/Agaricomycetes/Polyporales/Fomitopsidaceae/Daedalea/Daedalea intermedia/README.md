@@ -1,5 +1,4 @@
-Daedalea intermedia Berk. SPECIES
-=======
+# Daedalea intermedia Berk. SPECIES
 
 #### Status
 ACCEPTED

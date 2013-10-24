@@ -1,5 +1,4 @@
-Phomatospora kriegeriana Rehm SPECIES
-=======
+# Phomatospora kriegeriana Rehm SPECIES
 
 #### Status
 ACCEPTED

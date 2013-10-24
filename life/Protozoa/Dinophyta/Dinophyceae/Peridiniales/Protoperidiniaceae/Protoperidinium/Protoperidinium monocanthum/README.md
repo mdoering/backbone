@@ -1,5 +1,4 @@
-Protoperidinium monocanthum (Broch, 1910) Balech, 1972 SPECIES
-=======
+# Protoperidinium monocanthum (Broch, 1910) Balech, 1972 SPECIES
 
 #### Status
 ACCEPTED

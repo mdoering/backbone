@@ -1,5 +1,4 @@
-Sargogyne dakotensis SPECIES
-=======
+# Sargogyne dakotensis SPECIES
 
 #### Status
 ACCEPTED

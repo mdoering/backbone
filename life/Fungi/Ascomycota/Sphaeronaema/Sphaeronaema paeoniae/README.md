@@ -1,5 +1,4 @@
-Sphaeronaema paeoniae Höhn. SPECIES
-=======
+# Sphaeronaema paeoniae Höhn. SPECIES
 
 #### Status
 ACCEPTED

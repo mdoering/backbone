@@ -1,5 +1,4 @@
-Pleurotus lutincola Lasch SPECIES
-=======
+# Pleurotus lutincola Lasch SPECIES
 
 #### Status
 ACCEPTED

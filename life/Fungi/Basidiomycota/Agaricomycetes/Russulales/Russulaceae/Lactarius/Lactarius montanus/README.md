@@ -1,5 +1,4 @@
-Lactarius montanus (Hesler & A.H. Sm.) Montoya & Bandala SPECIES
-=======
+# Lactarius montanus (Hesler & A.H. Sm.) Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

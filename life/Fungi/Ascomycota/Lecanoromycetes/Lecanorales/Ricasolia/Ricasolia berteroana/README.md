@@ -1,5 +1,4 @@
-Ricasolia berteroana (Mont.) Nyl. SPECIES
-=======
+# Ricasolia berteroana (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella tirolensis (Auersw.) H. Magn. SPECIES
-=======
+# Mycosphaerella tirolensis (Auersw.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

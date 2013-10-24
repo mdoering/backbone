@@ -1,5 +1,4 @@
-Dicellaesporites Elsik GENUS
-=======
+# Dicellaesporites Elsik GENUS
 
 #### Status
 ACCEPTED

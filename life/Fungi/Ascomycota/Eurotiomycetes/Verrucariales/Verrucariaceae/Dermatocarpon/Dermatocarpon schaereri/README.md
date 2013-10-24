@@ -1,5 +1,4 @@
-Dermatocarpon schaereri (Hepp) Körb. SPECIES
-=======
+# Dermatocarpon schaereri (Hepp) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina ploveri Zhukov, 1964 SPECIES
-=======
+# Trichodina ploveri Zhukov, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus persimilis Corner SPECIES
-=======
+# Boletus persimilis Corner SPECIES
 
 #### Status
 ACCEPTED

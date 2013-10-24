@@ -1,5 +1,4 @@
-Helotium pallidesubolivaceum Svrcek SPECIES
-=======
+# Helotium pallidesubolivaceum Svrcek SPECIES
 
 #### Status
 ACCEPTED

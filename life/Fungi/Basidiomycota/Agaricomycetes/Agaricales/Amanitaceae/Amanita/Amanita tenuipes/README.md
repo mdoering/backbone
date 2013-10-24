@@ -1,5 +1,4 @@
-Amanita tenuipes Durieu & Lév. SPECIES
-=======
+# Amanita tenuipes Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

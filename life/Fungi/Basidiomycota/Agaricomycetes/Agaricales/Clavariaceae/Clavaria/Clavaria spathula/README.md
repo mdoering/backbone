@@ -1,5 +1,4 @@
-Clavaria spathula O.F. Müll. SPECIES
-=======
+# Clavaria spathula O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

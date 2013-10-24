@@ -1,5 +1,4 @@
-Gloniopsis lineolata (Cooke) Sacc. SPECIES
-=======
+# Gloniopsis lineolata (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inonotus amplectens Murrill SPECIES
-=======
+# Inonotus amplectens Murrill SPECIES
 
 #### Status
 ACCEPTED

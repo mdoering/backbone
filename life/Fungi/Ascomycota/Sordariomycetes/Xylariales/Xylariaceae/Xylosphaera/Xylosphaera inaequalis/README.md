@@ -1,5 +1,4 @@
-Xylosphaera inaequalis (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Xylosphaera inaequalis (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

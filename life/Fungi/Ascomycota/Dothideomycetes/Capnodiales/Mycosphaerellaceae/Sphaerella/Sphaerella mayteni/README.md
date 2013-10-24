@@ -1,5 +1,4 @@
-Sphaerella mayteni Speg. SPECIES
-=======
+# Sphaerella mayteni Speg. SPECIES
 
 #### Status
 ACCEPTED

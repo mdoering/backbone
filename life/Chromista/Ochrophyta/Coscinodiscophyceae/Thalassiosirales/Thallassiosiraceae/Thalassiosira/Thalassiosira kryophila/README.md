@@ -1,5 +1,4 @@
-Thalassiosira kryophila SPECIES
-=======
+# Thalassiosira kryophila SPECIES
 
 #### Status
 ACCEPTED

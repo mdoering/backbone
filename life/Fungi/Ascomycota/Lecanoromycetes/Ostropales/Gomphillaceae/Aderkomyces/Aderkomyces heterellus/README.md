@@ -1,5 +1,4 @@
-Aderkomyces heterellus (Stirt.) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces heterellus (Stirt.) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lanzia thindii Dumont SPECIES
-=======
+# Lanzia thindii Dumont SPECIES
 
 #### Status
 ACCEPTED

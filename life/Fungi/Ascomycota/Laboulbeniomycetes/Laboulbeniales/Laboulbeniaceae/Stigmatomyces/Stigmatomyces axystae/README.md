@@ -1,5 +1,4 @@
-Stigmatomyces axystae Huldén SPECIES
-=======
+# Stigmatomyces axystae Huldén SPECIES
 
 #### Status
 ACCEPTED

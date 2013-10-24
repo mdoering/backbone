@@ -1,17 +1,16 @@
-Dichomyces furcifer subsp. furcifer SUBSPECIES
-=======
+# Peyritschiella furcifera (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 9: 270 (1985)
 
 #### Original name
-Dichomyces furcifer subsp. furcifer
+Dichomyces furcifer Thaxt., 1894
 
 ### Remarks
 null

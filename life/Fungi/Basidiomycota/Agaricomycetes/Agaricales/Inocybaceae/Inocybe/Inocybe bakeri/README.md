@@ -1,5 +1,4 @@
-Inocybe bakeri Peck SPECIES
-=======
+# Inocybe bakeri Peck SPECIES
 
 #### Status
 ACCEPTED

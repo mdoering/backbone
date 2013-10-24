@@ -1,5 +1,4 @@
-Apospathidium terricola Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Apospathidium terricola Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

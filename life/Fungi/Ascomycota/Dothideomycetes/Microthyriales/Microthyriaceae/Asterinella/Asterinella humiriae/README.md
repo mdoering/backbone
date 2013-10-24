@@ -1,5 +1,4 @@
-Asterinella humiriae (Henn.) Theiss. SPECIES
-=======
+# Asterinella humiriae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

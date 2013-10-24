@@ -1,5 +1,4 @@
-Clavaria barlae Bres. SPECIES
-=======
+# Clavaria barlae Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Albugo resedae (Jacz.) Cif. & Biga SPECIES
-=======
+# Albugo resedae (Jacz.) Cif. & Biga SPECIES
 
 #### Status
 ACCEPTED

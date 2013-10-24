@@ -1,5 +1,4 @@
-Discoaster boulangeri Lezaud, 1968 SPECIES
-=======
+# Discoaster boulangeri Lezaud, 1968 SPECIES
 
 #### Status
 ACCEPTED

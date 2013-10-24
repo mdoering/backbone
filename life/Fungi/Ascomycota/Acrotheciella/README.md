@@ -1,5 +1,4 @@
-Acrotheciella Koord. GENUS
-=======
+# Acrotheciella Koord. GENUS
 
 #### Status
 ACCEPTED

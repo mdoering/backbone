@@ -1,5 +1,4 @@
-Ramularia tinosporae Lacy & Thirum. SPECIES
-=======
+# Ramularia tinosporae Lacy & Thirum. SPECIES
 
 #### Status
 ACCEPTED

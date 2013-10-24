@@ -1,8 +1,7 @@
-Serpulina murdochii Stanton et al., 1997 SPECIES
-=======
+# Brachyspira murdochii (Stanton et al., 1997) Hampson & La, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

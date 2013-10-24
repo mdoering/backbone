@@ -1,5 +1,4 @@
-Leccinum laetum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum laetum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

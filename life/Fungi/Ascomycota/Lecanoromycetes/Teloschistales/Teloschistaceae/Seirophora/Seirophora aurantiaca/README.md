@@ -1,5 +1,4 @@
-Seirophora aurantiaca (R. Br.) Frödén SPECIES
-=======
+# Seirophora aurantiaca (R. Br.) Frödén SPECIES
 
 #### Status
 ACCEPTED

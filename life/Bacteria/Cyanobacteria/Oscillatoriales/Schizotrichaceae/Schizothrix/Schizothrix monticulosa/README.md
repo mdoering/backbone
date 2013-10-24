@@ -1,8 +1,7 @@
-Anabaena monticulosa Bory De Saint Vincent SPECIES
-=======
+# Schizothrix monticulosa (Bory) Drouet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

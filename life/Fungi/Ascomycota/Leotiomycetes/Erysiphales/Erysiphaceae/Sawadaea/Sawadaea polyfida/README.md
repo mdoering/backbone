@@ -1,17 +1,16 @@
-Sawadaia polyfida var. japonica U. Braun & Tanada VARIETY
-=======
+# Sawadaea polyfida (C.T. Wei) R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta microbiol. sin. 20(1): 42 (1980)
 
 #### Original name
-Sawadaia polyfida var. japonica U. Braun & Tanada
+Uncinula polyfida C.T. Wei
 
 ### Remarks
 null

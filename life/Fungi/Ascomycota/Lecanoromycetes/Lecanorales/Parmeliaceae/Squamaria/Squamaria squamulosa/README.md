@@ -1,5 +1,4 @@
-Squamaria squamulosa Nyl. SPECIES
-=======
+# Squamaria squamulosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

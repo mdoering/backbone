@@ -1,14 +1,13 @@
-Didymosphaeria macrospora I. Hino & Katum., 1959 SPECIES
-=======
+# Roussoellopsis macrospora (I. Hino & Katum.) I. Hino & Katum., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the Faculty of Agriculture, Yamaguchi University 10: 1193 (1959)
+J. Jap. Bot. 40: 87 (1965)
 
 #### Original name
 Didymosphaeria macrospora I. Hino & Katum., 1959

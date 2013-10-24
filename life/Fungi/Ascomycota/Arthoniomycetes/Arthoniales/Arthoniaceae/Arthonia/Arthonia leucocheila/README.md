@@ -1,5 +1,4 @@
-Arthonia leucocheila Fée SPECIES
-=======
+# Arthonia leucocheila Fée SPECIES
 
 #### Status
 ACCEPTED

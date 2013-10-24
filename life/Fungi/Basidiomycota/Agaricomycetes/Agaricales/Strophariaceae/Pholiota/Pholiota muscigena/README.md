@@ -1,5 +1,4 @@
-Pholiota muscigena Quél. SPECIES
-=======
+# Pholiota muscigena Quél. SPECIES
 
 #### Status
 ACCEPTED

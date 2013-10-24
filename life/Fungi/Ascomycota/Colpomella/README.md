@@ -1,5 +1,4 @@
-Colpomella Höhn. GENUS
-=======
+# Colpomella Höhn. GENUS
 
 #### Status
 ACCEPTED

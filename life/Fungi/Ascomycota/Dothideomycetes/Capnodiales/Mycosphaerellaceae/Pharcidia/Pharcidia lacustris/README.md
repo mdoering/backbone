@@ -1,5 +1,4 @@
-Pharcidia lacustris (Arnold) Zopf SPECIES
-=======
+# Pharcidia lacustris (Arnold) Zopf SPECIES
 
 #### Status
 ACCEPTED

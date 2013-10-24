@@ -1,5 +1,4 @@
-Pezizella soleniiformis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pezizella soleniiformis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora oryzetorum Sacc. SPECIES
-=======
+# Oospora oryzetorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

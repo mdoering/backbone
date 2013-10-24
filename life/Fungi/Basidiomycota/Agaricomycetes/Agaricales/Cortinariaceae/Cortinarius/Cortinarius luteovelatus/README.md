@@ -1,5 +1,4 @@
-Cortinarius luteovelatus Reumaux SPECIES
-=======
+# Cortinarius luteovelatus Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes cruenta Mont. SPECIES
-=======
+# Trametes cruenta Mont. SPECIES
 
 #### Status
 ACCEPTED

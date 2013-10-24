@@ -1,5 +1,4 @@
-Mycosphaerella crystalinus Crous & M.J. Wingf. SPECIES
-=======
+# Mycosphaerella crystalinus Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

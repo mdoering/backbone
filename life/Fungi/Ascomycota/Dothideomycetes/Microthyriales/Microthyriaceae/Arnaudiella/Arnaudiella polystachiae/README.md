@@ -1,5 +1,4 @@
-Arnaudiella polystachiae (E. Castell.) E. Castell. SPECIES
-=======
+# Arnaudiella polystachiae (E. Castell.) E. Castell. SPECIES
 
 #### Status
 ACCEPTED

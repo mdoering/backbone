@@ -1,5 +1,4 @@
-Stigmatomyces biformis T. Majewski, 1990 SPECIES
-=======
+# Stigmatomyces biformis T. Majewski, 1990 SPECIES
 
 #### Status
 ACCEPTED

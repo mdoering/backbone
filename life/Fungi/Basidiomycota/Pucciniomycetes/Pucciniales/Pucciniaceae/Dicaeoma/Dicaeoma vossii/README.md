@@ -1,5 +1,4 @@
-Dicaeoma vossii (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma vossii (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

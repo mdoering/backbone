@@ -1,5 +1,4 @@
-Bipolaris triticalis Sisterna SPECIES
-=======
+# Bipolaris triticalis Sisterna SPECIES
 
 #### Status
 ACCEPTED

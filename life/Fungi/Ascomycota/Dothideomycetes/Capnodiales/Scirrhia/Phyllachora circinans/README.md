@@ -1,5 +1,4 @@
-Phyllachora circinans (Pat.) Petr., 1927 SPECIES
-=======
+# Phyllachora circinans (Pat.) Petr., 1927 SPECIES
 
 #### Status
 DOUBTFUL

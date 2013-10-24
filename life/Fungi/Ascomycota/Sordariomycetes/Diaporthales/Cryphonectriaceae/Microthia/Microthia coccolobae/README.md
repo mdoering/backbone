@@ -1,17 +1,16 @@
-Endothia coccolobii Vizioli SPECIES
-=======
+# Microthia coccolobae (Vizioli) Gryzenh. & M.J. Wingf., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gryzenhout, Myburg, Hodges, Wingfield & Wingfield, Stud. Mycol. 55: 46 (2006)
 
 #### Original name
-Endothia coccolobii Vizioli
+Endothia coccolobae Vizioli, 1923
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Exosporium tamarindi Syd. SPECIES
-=======
+# Exosporium tamarindi Syd. SPECIES
 
 #### Status
 ACCEPTED

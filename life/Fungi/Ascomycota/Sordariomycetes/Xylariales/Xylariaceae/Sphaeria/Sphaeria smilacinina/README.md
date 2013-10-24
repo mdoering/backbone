@@ -1,5 +1,4 @@
-Sphaeria smilacinina Peck SPECIES
-=======
+# Sphaeria smilacinina Peck SPECIES
 
 #### Status
 ACCEPTED

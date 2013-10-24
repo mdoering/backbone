@@ -1,5 +1,4 @@
-Trichochora Theiss. & Syd. GENUS
-=======
+# Trichochora Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

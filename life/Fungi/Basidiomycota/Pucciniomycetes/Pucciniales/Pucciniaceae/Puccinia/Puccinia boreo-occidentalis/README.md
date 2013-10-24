@@ -1,5 +1,4 @@
-Puccinia boreo-occidentalis J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia boreo-occidentalis J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

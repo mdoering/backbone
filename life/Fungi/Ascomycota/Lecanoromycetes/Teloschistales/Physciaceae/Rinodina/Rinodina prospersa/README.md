@@ -1,5 +1,4 @@
-Rinodina prospersa SPECIES
-=======
+# Rinodina prospersa SPECIES
 
 #### Status
 ACCEPTED

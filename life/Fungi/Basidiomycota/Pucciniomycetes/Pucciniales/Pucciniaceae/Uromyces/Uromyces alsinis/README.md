@@ -1,17 +1,16 @@
-Uromyces alsines Tranzschel SPECIES
-=======
+# Uromyces alsinis Tranzschel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 5(6): 547 (1907)
 
 #### Original name
-Uromyces alsines Tranzschel
+Uromyces alsinis Tranzschel
 
 ### Remarks
 null

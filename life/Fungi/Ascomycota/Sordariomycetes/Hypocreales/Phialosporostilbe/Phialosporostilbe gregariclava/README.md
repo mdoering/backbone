@@ -1,5 +1,4 @@
-Phialosporostilbe gregariclava Shirouzu & Y. Harada SPECIES
-=======
+# Phialosporostilbe gregariclava Shirouzu & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

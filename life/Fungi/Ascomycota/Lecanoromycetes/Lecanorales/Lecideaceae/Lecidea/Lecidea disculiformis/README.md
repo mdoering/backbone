@@ -1,5 +1,4 @@
-Lecidea disculiformis Nyl. SPECIES
-=======
+# Lecidea disculiformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

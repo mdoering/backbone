@@ -1,5 +1,4 @@
-Opegrapha sororiella Müll. Arg. SPECIES
-=======
+# Opegrapha sororiella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

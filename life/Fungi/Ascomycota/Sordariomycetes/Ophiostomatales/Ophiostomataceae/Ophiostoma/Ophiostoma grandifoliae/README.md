@@ -1,5 +1,4 @@
-Ophiostoma grandifoliae (R.W. Davidson) T.C. Harr. SPECIES
-=======
+# Ophiostoma grandifoliae (R.W. Davidson) T.C. Harr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota discreta (Fr.) Dennis SPECIES
-=======
+# Lepiota discreta (Fr.) Dennis SPECIES
 
 #### Status
 ACCEPTED

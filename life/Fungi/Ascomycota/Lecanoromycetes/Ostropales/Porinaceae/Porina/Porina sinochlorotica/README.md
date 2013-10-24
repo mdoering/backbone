@@ -1,5 +1,4 @@
-Porina sinochlorotica Zahlbr. SPECIES
-=======
+# Porina sinochlorotica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

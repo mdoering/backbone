@@ -1,5 +1,4 @@
-Rhizopogon aurantiacus A.H. Sm. SPECIES
-=======
+# Rhizopogon aurantiacus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spincterules costatus (Fichtel & Moll) SPECIES
-=======
+# Spincterules costatus (Fichtel & Moll) SPECIES
 
 #### Status
 ACCEPTED

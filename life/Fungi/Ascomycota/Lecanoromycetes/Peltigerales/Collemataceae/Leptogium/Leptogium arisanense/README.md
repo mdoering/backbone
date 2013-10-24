@@ -1,5 +1,4 @@
-Leptogium arisanense Asahina SPECIES
-=======
+# Leptogium arisanense Asahina SPECIES
 
 #### Status
 ACCEPTED

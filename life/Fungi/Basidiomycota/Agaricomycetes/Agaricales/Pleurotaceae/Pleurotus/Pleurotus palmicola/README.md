@@ -1,5 +1,4 @@
-Pleurotus palmicola Beeli SPECIES
-=======
+# Pleurotus palmicola Beeli SPECIES
 
 #### Status
 ACCEPTED

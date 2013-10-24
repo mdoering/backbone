@@ -1,5 +1,4 @@
-Meliola stemonuri Hosag. SPECIES
-=======
+# Meliola stemonuri Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia elasticae (Koord.) Sacc. & Traverso SPECIES
-=======
+# Venturia elasticae (Koord.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

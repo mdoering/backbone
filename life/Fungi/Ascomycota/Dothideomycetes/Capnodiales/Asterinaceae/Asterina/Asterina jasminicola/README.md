@@ -1,5 +1,4 @@
-Asterina jasminicola W. Yamam. SPECIES
-=======
+# Asterina jasminicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

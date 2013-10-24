@@ -1,5 +1,4 @@
-Pistillaria dryopteridis S. Imai SPECIES
-=======
+# Pistillaria dryopteridis S. Imai SPECIES
 
 #### Status
 ACCEPTED

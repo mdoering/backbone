@@ -1,5 +1,4 @@
-Trachylia ligniaria Fr. SPECIES
-=======
+# Trachylia ligniaria Fr. SPECIES
 
 #### Status
 ACCEPTED

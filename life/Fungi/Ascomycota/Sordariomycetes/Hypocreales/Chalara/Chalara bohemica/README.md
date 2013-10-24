@@ -1,5 +1,4 @@
-Chalara bohemica Nag Raj & W.B. Kendr. SPECIES
-=======
+# Chalara bohemica Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conidophrys marinogammari SPECIES
-=======
+# Conidophrys marinogammari SPECIES
 
 #### Status
 ACCEPTED

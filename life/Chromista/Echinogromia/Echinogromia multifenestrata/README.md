@@ -1,5 +1,4 @@
-Echinogromia multifenestrata Schroeder, 1907 SPECIES
-=======
+# Echinogromia multifenestrata Schroeder, 1907 SPECIES
 
 #### Status
 ACCEPTED

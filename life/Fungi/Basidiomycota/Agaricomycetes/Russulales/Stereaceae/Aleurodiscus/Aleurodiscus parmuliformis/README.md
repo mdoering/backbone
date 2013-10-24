@@ -1,5 +1,4 @@
-Aleurodiscus parmuliformis G. Cunn., 1956 SPECIES
-=======
+# Aleurodiscus parmuliformis G. Cunn., 1956 SPECIES
 
 #### Status
 ACCEPTED

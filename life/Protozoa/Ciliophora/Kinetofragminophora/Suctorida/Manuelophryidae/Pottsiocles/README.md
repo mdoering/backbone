@@ -1,5 +1,4 @@
-Pottsiocles Corliss, 1960 GENUS
-=======
+# Pottsiocles Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Articulina conico-articulata (Batsch) SPECIES
-=======
+# Articulina conico-articulata (Batsch) SPECIES
 
 #### Status
 ACCEPTED

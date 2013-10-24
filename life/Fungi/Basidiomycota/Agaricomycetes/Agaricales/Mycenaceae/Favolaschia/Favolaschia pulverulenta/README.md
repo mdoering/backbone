@@ -1,5 +1,4 @@
-Favolaschia pulverulenta Henn. SPECIES
-=======
+# Favolaschia pulverulenta Henn. SPECIES
 
 #### Status
 ACCEPTED

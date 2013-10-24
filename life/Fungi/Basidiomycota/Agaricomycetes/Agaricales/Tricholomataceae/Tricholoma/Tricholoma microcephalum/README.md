@@ -1,5 +1,4 @@
-Tricholoma microcephalum P. Karst. SPECIES
-=======
+# Tricholoma microcephalum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

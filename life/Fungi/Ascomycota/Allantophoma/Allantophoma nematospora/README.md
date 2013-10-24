@@ -1,5 +1,4 @@
-Allantophoma nematospora Kleb. SPECIES
-=======
+# Allantophoma nematospora Kleb. SPECIES
 
 #### Status
 ACCEPTED

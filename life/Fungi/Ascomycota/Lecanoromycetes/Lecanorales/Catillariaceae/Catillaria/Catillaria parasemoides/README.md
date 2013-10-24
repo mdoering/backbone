@@ -1,5 +1,4 @@
-Catillaria parasemoides (Nyl.) H. Olivier SPECIES
-=======
+# Catillaria parasemoides (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

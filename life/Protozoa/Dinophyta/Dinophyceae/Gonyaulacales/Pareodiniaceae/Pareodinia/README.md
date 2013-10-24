@@ -1,5 +1,4 @@
-Pareodinia Deflandre, 1947 GENUS
-=======
+# Pareodinia Deflandre, 1947 GENUS
 
 #### Status
 ACCEPTED

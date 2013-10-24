@@ -1,5 +1,4 @@
-Sargassum densum Dickie SPECIES
-=======
+# Sargassum densum Dickie SPECIES
 
 #### Status
 ACCEPTED

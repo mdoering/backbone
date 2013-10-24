@@ -1,5 +1,4 @@
-Gymnogaster J.W. Cribb, 1956 GENUS
-=======
+# Gymnogaster J.W. Cribb, 1956 GENUS
 
 #### Status
 ACCEPTED

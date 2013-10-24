@@ -1,5 +1,4 @@
-Lecanora fealiensis B. de Lesd. SPECIES
-=======
+# Lecanora fealiensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

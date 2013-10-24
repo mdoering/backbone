@@ -1,5 +1,4 @@
-Lecanora fecunda Tuck. SPECIES
-=======
+# Lecanora fecunda Tuck. SPECIES
 
 #### Status
 ACCEPTED

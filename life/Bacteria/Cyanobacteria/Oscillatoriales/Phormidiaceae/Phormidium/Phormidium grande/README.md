@@ -1,5 +1,4 @@
-Phormidium grande Playfair SPECIES
-=======
+# Phormidium grande Playfair SPECIES
 
 #### Status
 ACCEPTED

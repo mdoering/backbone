@@ -1,14 +1,13 @@
-Dicaeoma coprosmae (Cooke) Kuntze, 1898 SPECIES
-=======
+# Puccinia coprosmae Cooke, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 468 (1898)
+Grevillea 19(no. 89): 2 (1890)
 
 #### Original name
 Puccinia coprosmae Cooke, 1890

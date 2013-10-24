@@ -1,5 +1,4 @@
-Lembosia byrsonimifolii Bat. & A.F. Vital SPECIES
-=======
+# Lembosia byrsonimifolii Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Streblonema aggregatum P.A. Dangeard SPECIES
-=======
+# Hecatonema aggregatum (P.A. Dangeard) P.Pedersen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

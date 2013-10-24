@@ -1,5 +1,4 @@
-Hobsonia gigaspora Berk., 1891 SPECIES
-=======
+# Hobsonia gigaspora Berk., 1891 SPECIES
 
 #### Status
 ACCEPTED

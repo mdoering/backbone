@@ -1,5 +1,4 @@
-Dennisiopsis octospora Subram. & Chandrash., 1977 SPECIES
-=======
+# Dennisiopsis octospora Subram. & Chandrash., 1977 SPECIES
 
 #### Status
 ACCEPTED

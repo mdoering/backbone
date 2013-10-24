@@ -1,5 +1,4 @@
-Rhizopus intermedius Amadori SPECIES
-=======
+# Rhizopus intermedius Amadori SPECIES
 
 #### Status
 ACCEPTED
