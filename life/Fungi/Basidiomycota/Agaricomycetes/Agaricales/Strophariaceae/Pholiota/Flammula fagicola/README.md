@@ -1,5 +1,4 @@
-Flammula fagicola (Murrill) Sacc. & Trotter SPECIES
-=======
+# Flammula fagicola (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

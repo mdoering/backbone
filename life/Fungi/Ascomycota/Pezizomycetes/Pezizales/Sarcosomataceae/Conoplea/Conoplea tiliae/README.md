@@ -1,5 +1,4 @@
-Conoplea tiliae Pers. SPECIES
-=======
+# Conoplea tiliae Pers. SPECIES
 
 #### Status
 ACCEPTED

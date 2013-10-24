@@ -1,5 +1,4 @@
-Fragilaria fasciculata (C. Agardh) Lange-Bertalot SPECIES
-=======
+# Fragilaria fasciculata (C. Agardh) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

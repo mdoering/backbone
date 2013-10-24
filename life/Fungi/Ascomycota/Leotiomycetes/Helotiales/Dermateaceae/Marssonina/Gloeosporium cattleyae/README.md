@@ -1,5 +1,4 @@
-Gloeosporium cattleyae Sacc. & D. Sacc. SPECIES
-=======
+# Gloeosporium cattleyae Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

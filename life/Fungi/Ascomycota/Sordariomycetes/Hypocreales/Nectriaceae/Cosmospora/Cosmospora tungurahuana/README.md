@@ -1,5 +1,4 @@
-Cosmospora tungurahuana (Petr.) Rossman & Samuels SPECIES
-=======
+# Cosmospora tungurahuana (Petr.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

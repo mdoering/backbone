@@ -1,5 +1,4 @@
-Pseudocercospora platycaryae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora platycaryae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium polypodii Ferraris SPECIES
-=======
+# Coniothyrium polypodii Ferraris SPECIES
 
 #### Status
 ACCEPTED

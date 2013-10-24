@@ -1,5 +1,4 @@
-Ramboldia neolaeta Kalb & Elix SPECIES
-=======
+# Ramboldia neolaeta Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

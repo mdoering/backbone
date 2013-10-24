@@ -1,5 +1,4 @@
-Chilomastix bocis SPECIES
-=======
+# Chilomastix bocis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusidium pulveraceum Speg. SPECIES
-=======
+# Fusidium pulveraceum Speg. SPECIES
 
 #### Status
 ACCEPTED

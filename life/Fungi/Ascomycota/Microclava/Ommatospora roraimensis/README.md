@@ -1,5 +1,4 @@
-Ommatospora roraimensis Bat. & Cavalc. SPECIES
-=======
+# Ommatospora roraimensis Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

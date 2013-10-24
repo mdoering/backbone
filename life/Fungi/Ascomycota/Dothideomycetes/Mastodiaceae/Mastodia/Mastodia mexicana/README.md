@@ -1,5 +1,4 @@
-Mastodia mexicana (J. Agardh) C.W. Dodge, 1948 SPECIES
-=======
+# Mastodia mexicana (J. Agardh) C.W. Dodge, 1948 SPECIES
 
 #### Status
 ACCEPTED

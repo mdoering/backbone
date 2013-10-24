@@ -1,5 +1,4 @@
-Tuburcinia veronicae J. Schröt. SPECIES
-=======
+# Tuburcinia veronicae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

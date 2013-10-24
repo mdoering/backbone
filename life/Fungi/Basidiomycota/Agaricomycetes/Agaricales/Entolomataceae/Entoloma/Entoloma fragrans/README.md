@@ -1,5 +1,4 @@
-Entoloma fragrans Hesler SPECIES
-=======
+# Entoloma fragrans Hesler SPECIES
 
 #### Status
 ACCEPTED

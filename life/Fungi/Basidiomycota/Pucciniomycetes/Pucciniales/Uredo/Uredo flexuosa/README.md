@@ -1,5 +1,4 @@
-Uredo flexuosa F. Strauss SPECIES
-=======
+# Uredo flexuosa F. Strauss SPECIES
 
 #### Status
 ACCEPTED

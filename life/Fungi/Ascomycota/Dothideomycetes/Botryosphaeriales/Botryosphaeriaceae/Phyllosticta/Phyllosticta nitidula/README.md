@@ -1,5 +1,4 @@
-Phyllosticta nitidula Durieu & Mont. SPECIES
-=======
+# Phyllosticta nitidula Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

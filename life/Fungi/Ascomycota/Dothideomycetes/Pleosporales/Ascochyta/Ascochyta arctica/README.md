@@ -1,5 +1,4 @@
-Ascochyta arctica (Lind) Punith. SPECIES
-=======
+# Ascochyta arctica (Lind) Punith. SPECIES
 
 #### Status
 ACCEPTED

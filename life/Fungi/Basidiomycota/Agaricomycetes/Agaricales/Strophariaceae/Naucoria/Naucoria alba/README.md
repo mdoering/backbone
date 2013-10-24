@@ -1,5 +1,4 @@
-Naucoria alba Rick SPECIES
-=======
+# Naucoria alba Rick SPECIES
 
 #### Status
 ACCEPTED

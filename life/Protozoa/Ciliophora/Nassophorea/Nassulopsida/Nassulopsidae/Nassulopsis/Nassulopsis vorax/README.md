@@ -1,5 +1,4 @@
-Nassulopsis vorax SPECIES
-=======
+# Nassulopsis vorax SPECIES
 
 #### Status
 ACCEPTED

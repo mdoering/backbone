@@ -1,5 +1,4 @@
-Leptonia iodnephes (Berk. & Broome) Pegler SPECIES
-=======
+# Leptonia iodnephes (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

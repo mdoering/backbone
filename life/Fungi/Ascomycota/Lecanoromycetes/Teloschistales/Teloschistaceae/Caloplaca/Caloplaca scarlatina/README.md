@@ -1,5 +1,4 @@
-Caloplaca scarlatina Zahlbr. SPECIES
-=======
+# Caloplaca scarlatina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

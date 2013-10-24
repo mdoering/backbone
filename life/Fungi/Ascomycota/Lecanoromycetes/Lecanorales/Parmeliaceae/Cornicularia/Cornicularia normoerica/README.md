@@ -1,17 +1,16 @@
-Alectoria tristis (Weber ex F.H. Wigg.) Th. Fr. SPECIES
-=======
+# Cornicularia normoerica (Gunnerus) Du Rietz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ark. Bot. 20A(no. 11): 32 (1926)
 
 #### Original name
-Lichen tristis Weber ex F.H. Wigg
+Lichen normoericus Gunnerus
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia altaica P. Syd. & Syd. SPECIES
-=======
+# Puccinia altaica P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

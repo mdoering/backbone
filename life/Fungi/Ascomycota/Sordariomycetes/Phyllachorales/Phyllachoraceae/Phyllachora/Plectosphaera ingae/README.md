@@ -1,14 +1,13 @@
-Guignardia ingae F. Stevens, 1930 SPECIES
-=======
+# Plectosphaera ingae (F. Stevens) Arx, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 28(5/6): 367 (1930)
+Beitr. Kryptfl. Schweiz 11(no. 1): 209 (1954)
 
 #### Original name
 Guignardia ingae F. Stevens, 1930

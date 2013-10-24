@@ -1,5 +1,4 @@
-Crumenula belonospora P. Karst. SPECIES
-=======
+# Crumenula belonospora P. Karst. SPECIES
 
 #### Status
 ACCEPTED

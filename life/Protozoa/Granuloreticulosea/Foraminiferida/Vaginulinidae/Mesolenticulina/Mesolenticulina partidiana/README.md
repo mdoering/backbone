@@ -1,5 +1,4 @@
-Mesolenticulina partidiana McCulloch, 1977 SPECIES
-=======
+# Mesolenticulina partidiana McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

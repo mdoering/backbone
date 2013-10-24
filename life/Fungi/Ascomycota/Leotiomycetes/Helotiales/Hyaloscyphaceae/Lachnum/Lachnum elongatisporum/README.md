@@ -1,5 +1,4 @@
-Lachnum elongatisporum Baral, 1991 SPECIES
-=======
+# Lachnum elongatisporum Baral, 1991 SPECIES
 
 #### Status
 ACCEPTED

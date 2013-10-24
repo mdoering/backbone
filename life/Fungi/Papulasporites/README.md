@@ -1,5 +1,4 @@
-Papulasporites Shete & A.R. Kulk. GENUS
-=======
+# Papulasporites Shete & A.R. Kulk. GENUS
 
 #### Status
 ACCEPTED

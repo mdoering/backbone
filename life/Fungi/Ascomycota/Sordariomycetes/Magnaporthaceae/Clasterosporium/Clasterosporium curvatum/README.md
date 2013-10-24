@@ -1,5 +1,4 @@
-Clasterosporium curvatum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Clasterosporium curvatum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

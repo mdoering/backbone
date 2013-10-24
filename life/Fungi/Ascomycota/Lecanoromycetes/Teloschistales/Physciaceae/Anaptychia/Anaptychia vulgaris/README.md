@@ -1,5 +1,4 @@
-Anaptychia vulgaris (Vain.) Kurok. SPECIES
-=======
+# Anaptychia vulgaris (Vain.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

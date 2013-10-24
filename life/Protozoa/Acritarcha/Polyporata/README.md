@@ -1,5 +1,4 @@
-Polyporata Pykhova, 1966 GENUS
-=======
+# Polyporata Pykhova, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobotrys microscaphoides (Xing Z. Liu & B.S. Lu) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Arthrobotrys microscaphoides (Xing Z. Liu & B.S. Lu) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

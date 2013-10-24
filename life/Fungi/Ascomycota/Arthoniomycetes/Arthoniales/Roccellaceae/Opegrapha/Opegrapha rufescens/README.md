@@ -1,17 +1,16 @@
-Opegrapha herpetica f. herpetica FORM
-=======
+# Opegrapha rufescens Pers. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Bot. (Usteri) 1: 29 (1794)
 
 #### Original name
-Opegrapha herpetica f. herpetica
+Opegrapha rufescens Pers.
 
 ### Remarks
 null

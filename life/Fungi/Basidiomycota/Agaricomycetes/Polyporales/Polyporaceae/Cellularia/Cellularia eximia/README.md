@@ -1,5 +1,4 @@
-Cellularia eximia (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cellularia eximia (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

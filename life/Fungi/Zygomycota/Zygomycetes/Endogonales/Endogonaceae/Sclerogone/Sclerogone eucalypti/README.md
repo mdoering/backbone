@@ -1,5 +1,4 @@
-Sclerogone eucalypti Warcup, 1990 SPECIES
-=======
+# Sclerogone eucalypti Warcup, 1990 SPECIES
 
 #### Status
 ACCEPTED

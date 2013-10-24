@@ -1,5 +1,4 @@
-Urocystis granulosa G.P. Clinton SPECIES
-=======
+# Urocystis granulosa G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

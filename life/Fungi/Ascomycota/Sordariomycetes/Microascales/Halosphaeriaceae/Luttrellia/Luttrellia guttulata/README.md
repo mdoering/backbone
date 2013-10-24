@@ -1,5 +1,4 @@
-Luttrellia guttulata A. Ferrer & Shearer SPECIES
-=======
+# Luttrellia guttulata A. Ferrer & Shearer SPECIES
 
 #### Status
 ACCEPTED

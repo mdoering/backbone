@@ -1,5 +1,4 @@
-Lecanora leucoxanthella Stizenb. SPECIES
-=======
+# Lecanora leucoxanthella Stizenb. SPECIES
 
 #### Status
 ACCEPTED

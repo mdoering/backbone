@@ -1,5 +1,4 @@
-Cetraria arborialis (G. Merr.) G.E. Howard SPECIES
-=======
+# Cetraria arborialis (G. Merr.) G.E. Howard SPECIES
 
 #### Status
 ACCEPTED

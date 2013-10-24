@@ -1,5 +1,4 @@
-Anacystis amplivesiculata Gardner SPECIES
-=======
+# Anacystis amplivesiculata Gardner SPECIES
 
 #### Status
 ACCEPTED

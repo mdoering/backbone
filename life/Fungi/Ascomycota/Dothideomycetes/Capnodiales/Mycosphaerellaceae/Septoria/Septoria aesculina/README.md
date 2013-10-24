@@ -1,5 +1,4 @@
-Septoria aesculina Thüm. SPECIES
-=======
+# Septoria aesculina Thüm. SPECIES
 
 #### Status
 ACCEPTED

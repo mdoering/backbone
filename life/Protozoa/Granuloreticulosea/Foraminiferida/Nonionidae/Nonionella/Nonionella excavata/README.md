@@ -1,5 +1,4 @@
-Nonionella excavata SPECIES
-=======
+# Nonionella excavata SPECIES
 
 #### Status
 ACCEPTED

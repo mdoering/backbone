@@ -1,5 +1,4 @@
-Chaetomium microcephalum L.M. Ames SPECIES
-=======
+# Chaetomium microcephalum L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

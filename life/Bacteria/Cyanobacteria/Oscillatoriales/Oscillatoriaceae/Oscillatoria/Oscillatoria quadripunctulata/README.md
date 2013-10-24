@@ -1,5 +1,4 @@
-Oscillatoria quadripunctulata Bruehl & Biswas SPECIES
-=======
+# Oscillatoria quadripunctulata Bruehl & Biswas SPECIES
 
 #### Status
 ACCEPTED

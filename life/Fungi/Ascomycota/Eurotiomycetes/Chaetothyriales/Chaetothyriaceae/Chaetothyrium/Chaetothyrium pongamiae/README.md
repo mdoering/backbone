@@ -1,5 +1,4 @@
-Chaetothyrium pongamiae SPECIES
-=======
+# Chaetothyrium pongamiae SPECIES
 
 #### Status
 ACCEPTED

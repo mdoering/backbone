@@ -1,5 +1,4 @@
-Maryna socialis Gruber, 1879 SPECIES
-=======
+# Maryna socialis Gruber, 1879 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora pygmaea Ellis & Everh. SPECIES
-=======
+# Teichospora pygmaea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

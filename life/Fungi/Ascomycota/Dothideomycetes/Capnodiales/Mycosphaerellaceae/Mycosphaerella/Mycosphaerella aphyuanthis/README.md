@@ -1,5 +1,4 @@
-Mycosphaerella aphyuanthis Bernaux SPECIES
-=======
+# Mycosphaerella aphyuanthis Bernaux SPECIES
 
 #### Status
 ACCEPTED

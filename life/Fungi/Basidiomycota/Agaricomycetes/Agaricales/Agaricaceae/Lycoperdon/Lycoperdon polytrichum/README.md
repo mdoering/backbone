@@ -1,5 +1,4 @@
-Lycoperdon polytrichum Lloyd SPECIES
-=======
+# Lycoperdon polytrichum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoridium bucegiense (Servít) Servít SPECIES
-=======
+# Amphoridium bucegiense (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

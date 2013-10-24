@@ -1,5 +1,4 @@
-Caloplaca papillifera (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca papillifera (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyotremella Kobayasi GENUS
-=======
+# Dictyotremella Kobayasi GENUS
 
 #### Status
 ACCEPTED

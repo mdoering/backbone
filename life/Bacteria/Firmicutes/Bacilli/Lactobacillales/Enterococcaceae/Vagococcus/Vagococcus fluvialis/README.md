@@ -1,5 +1,4 @@
-Vagococcus fluvialis Collins et al., 1990 SPECIES
-=======
+# Vagococcus fluvialis Collins et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

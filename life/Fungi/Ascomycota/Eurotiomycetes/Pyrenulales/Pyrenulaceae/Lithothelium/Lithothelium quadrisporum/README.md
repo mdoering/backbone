@@ -1,5 +1,4 @@
-Lithothelium quadrisporum Aptroot SPECIES
-=======
+# Lithothelium quadrisporum Aptroot SPECIES
 
 #### Status
 ACCEPTED

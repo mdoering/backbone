@@ -1,5 +1,4 @@
-Cortinarius euprasinus Rob. Henry SPECIES
-=======
+# Cortinarius euprasinus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allantomyces M.C. Williams & Lichtw. GENUS
-=======
+# Allantomyces M.C. Williams & Lichtw. GENUS
 
 #### Status
 ACCEPTED

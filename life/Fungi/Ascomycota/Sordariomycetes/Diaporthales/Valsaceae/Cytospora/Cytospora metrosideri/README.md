@@ -1,5 +1,4 @@
-Cytospora metrosideri Rabenh., 1878 SPECIES
-=======
+# Cytospora metrosideri Rabenh., 1878 SPECIES
 
 #### Status
 ACCEPTED

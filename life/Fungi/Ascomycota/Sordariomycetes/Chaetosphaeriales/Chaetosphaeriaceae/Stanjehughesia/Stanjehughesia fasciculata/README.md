@@ -1,5 +1,4 @@
-Stanjehughesia fasciculata J. Mena, G. Delgado & Guarro SPECIES
-=======
+# Stanjehughesia fasciculata J. Mena, G. Delgado & Guarro SPECIES
 
 #### Status
 ACCEPTED

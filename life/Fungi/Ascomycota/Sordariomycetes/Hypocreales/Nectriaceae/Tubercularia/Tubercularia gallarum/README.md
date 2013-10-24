@@ -1,5 +1,4 @@
-Tubercularia gallarum Lév. SPECIES
-=======
+# Tubercularia gallarum Lév. SPECIES
 
 #### Status
 ACCEPTED

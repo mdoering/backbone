@@ -1,17 +1,16 @@
-Humaria macrospora (Wallr.) Fuckel, 1870 SPECIES
-=======
+# Peziza macrospora Wallr., 1833 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 145 (1889)
+Not. Sällsk. Fauna et Fl. Fenn. Förh. , Preprint 10: 66 (1868)
 
 #### Original name
-Peziza macrospora Wallr., 1833
+Pragmopora macrospora Bagl. & Carestia
 
 ### Remarks
 null

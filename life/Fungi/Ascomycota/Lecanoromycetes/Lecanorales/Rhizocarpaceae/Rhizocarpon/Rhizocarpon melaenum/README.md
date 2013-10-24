@@ -1,5 +1,4 @@
-Rhizocarpon melaenum Körb. SPECIES
-=======
+# Rhizocarpon melaenum Körb. SPECIES
 
 #### Status
 ACCEPTED

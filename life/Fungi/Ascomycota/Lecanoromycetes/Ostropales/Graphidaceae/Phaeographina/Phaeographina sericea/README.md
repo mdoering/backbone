@@ -1,5 +1,4 @@
-Phaeographina sericea var. sericea VARIETY
-=======
+# Phaeographina sericea (Eschw.) SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeographina sericea var. sericea
+Leiogramma sericeum Eschw.
 
 ### Remarks
 null

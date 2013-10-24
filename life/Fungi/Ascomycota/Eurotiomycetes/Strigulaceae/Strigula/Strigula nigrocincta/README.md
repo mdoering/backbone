@@ -1,5 +1,4 @@
-Strigula nigrocincta var. nigrocincta VARIETY
-=======
+# Strigula nigrocincta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 30: 187 (1891)
 
 #### Original name
-Strigula nigrocincta var. nigrocincta
+Strigula nigrocincta Müll. Arg.
 
 ### Remarks
 null

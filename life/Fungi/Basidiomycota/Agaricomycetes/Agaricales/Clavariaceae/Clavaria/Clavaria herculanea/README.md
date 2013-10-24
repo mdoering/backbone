@@ -1,5 +1,4 @@
-Clavaria herculanea Schaeff. SPECIES
-=======
+# Clavaria herculanea Schaeff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria molliuscula Motyka SPECIES
-=======
+# Urceolaria molliuscula Motyka SPECIES
 
 #### Status
 ACCEPTED

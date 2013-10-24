@@ -1,5 +1,4 @@
-Opegrapha paschalis Zahlbr. SPECIES
-=======
+# Opegrapha paschalis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

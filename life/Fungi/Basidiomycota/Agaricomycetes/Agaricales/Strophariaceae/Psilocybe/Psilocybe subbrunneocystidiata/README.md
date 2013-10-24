@@ -1,5 +1,4 @@
-Psilocybe subbrunneocystidiata P.S. Silva & Guzmán SPECIES
-=======
+# Psilocybe subbrunneocystidiata P.S. Silva & Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria aconiti Bonord. SPECIES
-=======
+# Sphaeria aconiti Bonord. SPECIES
 
 #### Status
 ACCEPTED

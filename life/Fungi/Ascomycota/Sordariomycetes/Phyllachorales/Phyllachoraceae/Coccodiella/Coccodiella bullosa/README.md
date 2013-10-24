@@ -1,14 +1,13 @@
-Phyllachora peribebuyensis var. bullosa Rehm, 1897 VARIETY
-=======
+# Coccodiella bullosa (Rehm) I. Hino & Katum., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 36: 368 (1897)
+J. Jap. Bot. 43: 281 (1968)
 
 #### Original name
 Phyllachora peribebuyensis var. bullosa Rehm, 1897

@@ -1,5 +1,4 @@
-Phyllosticta campanulae-latifoliae Dobrozr. SPECIES
-=======
+# Phyllosticta campanulae-latifoliae Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

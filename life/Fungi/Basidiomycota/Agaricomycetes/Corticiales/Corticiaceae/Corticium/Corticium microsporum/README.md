@@ -1,5 +1,4 @@
-Corticium microsporum subsp. microsporum (P. Karst.) Bourdot & Galzin SUBSPECIES
-=======
+# Corticium microsporum (Bres.) Herter SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. Soc. mycol. Fr. 27(2): 241 (1911)
+Krypt. -Fl. Brandenburg (Leipzig) 6(1): 88 (1910)
 
 #### Original name
-Corticium microsporum subsp. microsporum (P. Karst.) Bourdot & Galzin
+Corticium byssinum var. microsporum Bres.
 
 ### Remarks
 null

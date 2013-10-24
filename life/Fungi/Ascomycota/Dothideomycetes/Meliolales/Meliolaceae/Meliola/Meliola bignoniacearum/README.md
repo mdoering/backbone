@@ -1,5 +1,4 @@
-Meliola bignoniacearum var. bignoniacearum VARIETY
-=======
+# Meliola bignoniacearum F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 26(3/4): 196 (1928)
 
 #### Original name
-Meliola bignoniacearum var. bignoniacearum
+Meliola bignoniacearum F. Stevens
 
 ### Remarks
 null

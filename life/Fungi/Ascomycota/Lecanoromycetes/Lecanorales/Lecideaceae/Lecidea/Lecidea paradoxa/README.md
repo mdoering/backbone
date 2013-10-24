@@ -1,5 +1,4 @@
-Lecidea paradoxa Ach. SPECIES
-=======
+# Lecidea paradoxa Ach. SPECIES
 
 #### Status
 ACCEPTED

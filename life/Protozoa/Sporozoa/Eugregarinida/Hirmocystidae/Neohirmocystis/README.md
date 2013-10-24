@@ -1,5 +1,4 @@
-Neohirmocystis Ghose, Ray & Halder, 1986 GENUS
-=======
+# Neohirmocystis Ghose, Ray & Halder, 1986 GENUS
 
 #### Status
 ACCEPTED

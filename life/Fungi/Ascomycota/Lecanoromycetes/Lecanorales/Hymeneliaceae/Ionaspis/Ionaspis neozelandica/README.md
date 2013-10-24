@@ -1,5 +1,4 @@
-Ionaspis neozelandica C.W. Dodge SPECIES
-=======
+# Ionaspis neozelandica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

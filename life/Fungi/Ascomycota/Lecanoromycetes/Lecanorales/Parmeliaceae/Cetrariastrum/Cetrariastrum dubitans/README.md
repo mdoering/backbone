@@ -1,5 +1,4 @@
-Cetrariastrum dubitans Sipman SPECIES
-=======
+# Cetrariastrum dubitans Sipman SPECIES
 
 #### Status
 ACCEPTED

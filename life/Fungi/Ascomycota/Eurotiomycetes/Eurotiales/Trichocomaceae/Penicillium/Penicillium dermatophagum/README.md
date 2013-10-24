@@ -1,5 +1,4 @@
-Penicillium dermatophagum (Sopp) Sacc. SPECIES
-=======
+# Penicillium dermatophagum (Sopp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

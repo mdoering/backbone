@@ -1,8 +1,7 @@
-Urolentus filum Ehrenberg, 1833 SPECIES
-=======
+# Spirostomum caudatum (Müller, 1786) Delphy, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

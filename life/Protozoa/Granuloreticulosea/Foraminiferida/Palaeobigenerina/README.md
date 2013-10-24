@@ -1,5 +1,4 @@
-Palaeobigenerina Galloway, 1933 GENUS
-=======
+# Palaeobigenerina Galloway, 1933 GENUS
 
 #### Status
 ACCEPTED

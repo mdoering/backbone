@@ -1,17 +1,16 @@
-Lecidea turgidula f. turgidula FORM
-=======
+# Biatora turgidula (Fr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sched. Crit. Lich. Suec. Exsicc. 10 (1824)
+null
 
 #### Original name
-Lecidea turgidula f. turgidula
+null
 
 ### Remarks
 null

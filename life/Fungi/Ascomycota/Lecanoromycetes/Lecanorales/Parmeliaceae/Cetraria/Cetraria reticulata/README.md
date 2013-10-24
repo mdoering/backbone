@@ -1,5 +1,4 @@
-Cetraria reticulata Kremp. ex Räsänen SPECIES
-=======
+# Cetraria reticulata Kremp. ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

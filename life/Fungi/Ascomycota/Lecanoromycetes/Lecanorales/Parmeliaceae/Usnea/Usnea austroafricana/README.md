@@ -1,5 +1,4 @@
-Usnea austroafricana M. Choisy SPECIES
-=======
+# Usnea austroafricana M. Choisy SPECIES
 
 #### Status
 ACCEPTED

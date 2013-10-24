@@ -1,14 +1,13 @@
-Polyporus semistipitatus Lloyd, 1924 SPECIES
-=======
+# Perenniporia semistipitata (Lloyd) Gilb. & Ryvarden, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1271 (1924)
+N. Amer. Polyp. (Oslo), Vol. <b>2</b> <i>Megasporoporia</i> - <i>Wrightoporia</i> 530 (1987)
 
 #### Original name
 Polyporus semistipitatus Lloyd, 1924

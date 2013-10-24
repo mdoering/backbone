@@ -1,5 +1,4 @@
-Lecanora exigua (Ach.) Röhl. SPECIES
-=======
+# Lecanora exigua (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

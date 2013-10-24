@@ -1,5 +1,4 @@
-Sphaerotheca astilbicola (Z.Y. Zhao) U. Braun SPECIES
-=======
+# Sphaerotheca astilbicola (Z.Y. Zhao) U. Braun SPECIES
 
 #### Status
 ACCEPTED

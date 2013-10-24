@@ -1,5 +1,4 @@
-Coscinodiscus woodwardii Eulenstein SPECIES
-=======
+# Coscinodiscus woodwardii Eulenstein SPECIES
 
 #### Status
 ACCEPTED

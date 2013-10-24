@@ -1,5 +1,4 @@
-Archaeofavosina S.N.Naumova, 1960 GENUS
-=======
+# Archaeofavosina S.N.Naumova, 1960 GENUS
 
 #### Status
 ACCEPTED

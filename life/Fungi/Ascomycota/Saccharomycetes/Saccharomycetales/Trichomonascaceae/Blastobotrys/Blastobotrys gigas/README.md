@@ -1,5 +1,4 @@
-Blastobotrys gigas de Hoog, Rant.-Leht. & M.T. Sm., 1985 SPECIES
-=======
+# Blastobotrys gigas de Hoog, Rant.-Leht. & M.T. Sm., 1985 SPECIES
 
 #### Status
 ACCEPTED

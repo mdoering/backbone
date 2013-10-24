@@ -1,5 +1,4 @@
-Ruminobacter (ex Sijpesteijn, 1949) Stackebrandt & Hippe, 1987 GENUS
-=======
+# Ruminobacter (ex Sijpesteijn, 1949) Stackebrandt & Hippe, 1987 GENUS
 
 #### Status
 ACCEPTED

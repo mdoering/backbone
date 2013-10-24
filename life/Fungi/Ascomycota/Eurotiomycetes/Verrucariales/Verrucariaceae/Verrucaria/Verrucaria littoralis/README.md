@@ -1,5 +1,4 @@
-Verrucaria littoralis Taylor SPECIES
-=======
+# Verrucaria littoralis Taylor SPECIES
 
 #### Status
 ACCEPTED

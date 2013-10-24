@@ -1,5 +1,4 @@
-Agaricus wilmotii Murrill SPECIES
-=======
+# Agaricus wilmotii Murrill SPECIES
 
 #### Status
 ACCEPTED

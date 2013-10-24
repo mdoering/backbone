@@ -1,5 +1,4 @@
-Helminthosporium belgaumense Subram. & Bhat SPECIES
-=======
+# Helminthosporium belgaumense Subram. & Bhat SPECIES
 
 #### Status
 ACCEPTED

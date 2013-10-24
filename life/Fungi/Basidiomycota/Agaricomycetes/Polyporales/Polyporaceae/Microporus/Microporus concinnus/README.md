@@ -1,14 +1,13 @@
-Polyporus concinnus (P. Beauv.) Fr., 1821 SPECIES
-=======
+# Microporus concinnus P. Beauv., 1804 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 350 (1821)
+Flore Oware Benin 73 (1804)
 
 #### Original name
 Microporus concinnus P. Beauv., 1804

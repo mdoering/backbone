@@ -1,5 +1,4 @@
-Pseudocercosporella eupatorii Bhalla, Arch. Singh & S.K. Singh SPECIES
-=======
+# Pseudocercosporella eupatorii Bhalla, Arch. Singh & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

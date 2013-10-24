@@ -1,14 +1,13 @@
-Arthrobotrys azerbaidzhanica (Mekht.) Oorschot SPECIES
-=======
+# Arthrobotrys azerbaijanica (Mekht.) Oorschot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stud. Mycol. 26: 70 (1985)
 
 #### Original name
 Nematophagus azerbaijanicus Mekht.

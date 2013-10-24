@@ -1,5 +1,4 @@
-Eriosphaeria aggregata E. Müll. & Munk, 1964 SPECIES
-=======
+# Eriosphaeria aggregata E. Müll. & Munk, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gyalecta versicolor (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Cryptolechia versicolor (Müll. Arg.) D. Hawksw. & Dibben SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 718 (1924)
+Lichenologist 14(1): 100 (1982)
 
 #### Original name
 Secoliga versicolor Müll. Arg.

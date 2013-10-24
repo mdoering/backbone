@@ -1,5 +1,4 @@
-Sugiyamaella Kurtzman & Robnett, 2007 GENUS
-=======
+# Sugiyamaella Kurtzman & Robnett, 2007 GENUS
 
 #### Status
 ACCEPTED

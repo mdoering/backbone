@@ -1,5 +1,4 @@
-Parmelia divaricata (L.) Ach. SPECIES
-=======
+# Parmelia divaricata (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria sophorae Koshk. & Frolov SPECIES
-=======
+# Cucurbitaria sophorae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

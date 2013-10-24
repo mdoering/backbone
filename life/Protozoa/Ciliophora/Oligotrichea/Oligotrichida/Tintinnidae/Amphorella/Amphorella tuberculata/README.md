@@ -1,5 +1,4 @@
-Amphorella tuberculata Daday, 1887 SPECIES
-=======
+# Amphorella tuberculata Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

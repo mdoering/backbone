@@ -1,5 +1,4 @@
-Sporisorium catinatum (Zambett.) Vánky SPECIES
-=======
+# Sporisorium catinatum (Zambett.) Vánky SPECIES
 
 #### Status
 ACCEPTED

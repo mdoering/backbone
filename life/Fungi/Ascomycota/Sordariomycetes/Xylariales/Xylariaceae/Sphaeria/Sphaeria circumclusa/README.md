@@ -1,5 +1,4 @@
-Sphaeria circumclusa De Not. SPECIES
-=======
+# Sphaeria circumclusa De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protomyces ixeridis-oldhami Sawada SPECIES
-=======
+# Protomyces ixeridis-oldhami Sawada SPECIES
 
 #### Status
 ACCEPTED

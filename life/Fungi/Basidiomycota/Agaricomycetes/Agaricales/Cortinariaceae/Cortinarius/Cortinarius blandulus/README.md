@@ -1,5 +1,4 @@
-Cortinarius blandulus var. cohaerens Chevassut & Rob. Henry VARIETY
-=======
+# Cortinarius blandulus Britzelm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Docums Mycol. 12(no. 47): 84 (1982)
+null
 
 #### Original name
-Cortinarius blandulus var. cohaerens Chevassut & Rob. Henry
+Cortinarius blandulus Britzelm.
 
 ### Remarks
 null

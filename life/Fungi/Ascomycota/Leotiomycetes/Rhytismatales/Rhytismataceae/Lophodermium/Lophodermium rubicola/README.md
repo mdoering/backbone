@@ -1,5 +1,4 @@
-Lophodermium rubicola Earle, 1898 SPECIES
-=======
+# Lophodermium rubicola Earle, 1898 SPECIES
 
 #### Status
 ACCEPTED

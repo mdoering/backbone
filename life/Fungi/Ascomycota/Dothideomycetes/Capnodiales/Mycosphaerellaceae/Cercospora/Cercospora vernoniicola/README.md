@@ -1,5 +1,4 @@
-Cercospora vernoniicola J.M. Yen SPECIES
-=======
+# Cercospora vernoniicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

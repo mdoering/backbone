@@ -1,5 +1,4 @@
-Stegonsporium betulae Bres. SPECIES
-=======
+# Stegonsporium betulae Bres. SPECIES
 
 #### Status
 ACCEPTED

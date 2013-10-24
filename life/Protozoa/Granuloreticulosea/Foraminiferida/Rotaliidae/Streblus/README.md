@@ -1,5 +1,4 @@
-Streblus Fischer, 1817 GENUS
-=======
+# Streblus Fischer, 1817 GENUS
 
 #### Status
 ACCEPTED

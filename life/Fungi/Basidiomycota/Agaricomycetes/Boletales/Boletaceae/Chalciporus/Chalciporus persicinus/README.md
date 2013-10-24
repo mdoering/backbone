@@ -1,5 +1,4 @@
-Chalciporus persicinus Pegler SPECIES
-=======
+# Chalciporus persicinus Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium clerodendri Dietel, 1899 SPECIES
-=======
+# Coleosporium clerodendri Dietel, 1899 SPECIES
 
 #### Status
 ACCEPTED

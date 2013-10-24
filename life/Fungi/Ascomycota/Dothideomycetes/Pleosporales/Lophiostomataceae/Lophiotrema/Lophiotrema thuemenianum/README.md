@@ -1,5 +1,4 @@
-Lophiotrema thuemenianum (Speg.) Sacc. SPECIES
-=======
+# Lophiotrema thuemenianum (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

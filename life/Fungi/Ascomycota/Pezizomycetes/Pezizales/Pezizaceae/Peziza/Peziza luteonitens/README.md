@@ -1,5 +1,4 @@
-Peziza luteonitens Cooke SPECIES
-=======
+# Peziza luteonitens Cooke SPECIES
 
 #### Status
 ACCEPTED

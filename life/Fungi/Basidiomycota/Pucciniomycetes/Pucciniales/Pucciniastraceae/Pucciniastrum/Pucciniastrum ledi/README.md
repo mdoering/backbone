@@ -1,5 +1,4 @@
-Pucciniastrum ledi P. Karst. SPECIES
-=======
+# Pucciniastrum ledi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

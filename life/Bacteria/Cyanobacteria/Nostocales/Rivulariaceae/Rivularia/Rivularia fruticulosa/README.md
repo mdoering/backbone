@@ -1,5 +1,4 @@
-Rivularia fruticulosa (J. H. Johnson & H. V. Kaska) O. Dragastan SPECIES
-=======
+# Rivularia fruticulosa (J. H. Johnson & H. V. Kaska) O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothallus F. Stevens GENUS
-=======
+# Trichothallus F. Stevens GENUS
 
 #### Status
 ACCEPTED

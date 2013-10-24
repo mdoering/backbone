@@ -1,5 +1,4 @@
-Thelephora alta Corner, 1968 SPECIES
-=======
+# Thelephora alta Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

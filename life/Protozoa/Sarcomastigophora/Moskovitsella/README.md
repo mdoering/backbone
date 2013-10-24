@@ -1,5 +1,4 @@
-Moskovitsella Afanasieva, 2000 GENUS
-=======
+# Moskovitsella Afanasieva, 2000 GENUS
 
 #### Status
 ACCEPTED

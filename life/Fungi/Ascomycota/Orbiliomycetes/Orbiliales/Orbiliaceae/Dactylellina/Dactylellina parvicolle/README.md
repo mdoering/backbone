@@ -1,14 +1,13 @@
-Dactylella parvicollis Drechsler, 1962 SPECIES
-=======
+# Dactylellina parvicolle (Drechsler) Yan Li, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 15(1-6): 13 (1962)
+in Li, Hyde, Jeewon, Cai, Vijaykrishna & Zhang, Mycologia 97(5): 1042 (2006)
 
 #### Original name
 Dactylella parvicollis Drechsler, 1962

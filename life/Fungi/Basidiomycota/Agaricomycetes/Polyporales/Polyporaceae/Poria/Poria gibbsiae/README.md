@@ -1,5 +1,4 @@
-Poria gibbsiae Ramsb. SPECIES
-=======
+# Poria gibbsiae Ramsb. SPECIES
 
 #### Status
 ACCEPTED

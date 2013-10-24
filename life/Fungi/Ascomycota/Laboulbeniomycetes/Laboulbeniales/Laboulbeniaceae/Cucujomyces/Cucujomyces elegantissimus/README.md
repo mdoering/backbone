@@ -1,14 +1,13 @@
-Stephanomyces elegantissimus Speg., 1917 SPECIES
-=======
+# Cucujomyces elegantissimus (Speg.) Thaxt., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 29: (1917)
+Mem. Amer. Acad. Arts, ser. 2 16(1): 179 (1931)
 
 #### Original name
 Stephanomyces elegantissimus Speg., 1917

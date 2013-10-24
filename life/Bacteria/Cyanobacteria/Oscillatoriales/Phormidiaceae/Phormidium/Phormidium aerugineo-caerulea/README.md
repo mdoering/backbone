@@ -1,5 +1,4 @@
-Phormidium aerugineo-caerulea (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Phormidium aerugineo-caerulea (Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

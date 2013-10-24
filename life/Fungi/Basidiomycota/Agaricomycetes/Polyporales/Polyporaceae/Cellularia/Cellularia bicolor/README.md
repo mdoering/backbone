@@ -1,5 +1,4 @@
-Cellularia bicolor (Fr.) Kuntze SPECIES
-=======
+# Cellularia bicolor (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

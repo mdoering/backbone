@@ -1,5 +1,4 @@
-Mucor florae (Corda) Berl. & De Toni SPECIES
-=======
+# Mucor florae (Corda) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

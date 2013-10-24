@@ -1,5 +1,4 @@
-Lecanora paepalea Ach. SPECIES
-=======
+# Lecanora paepalea Ach. SPECIES
 
 #### Status
 ACCEPTED

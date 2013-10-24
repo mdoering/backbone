@@ -1,5 +1,4 @@
-Guttulina pulchella SPECIES
-=======
+# Guttulina pulchella SPECIES
 
 #### Status
 ACCEPTED

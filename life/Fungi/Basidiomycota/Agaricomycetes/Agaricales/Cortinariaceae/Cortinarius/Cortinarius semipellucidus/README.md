@@ -1,5 +1,4 @@
-Cortinarius semipellucidus (M.M. Moser) G. Garnier SPECIES
-=======
+# Cortinarius semipellucidus (M.M. Moser) G. Garnier SPECIES
 
 #### Status
 ACCEPTED

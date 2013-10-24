@@ -1,5 +1,4 @@
-Leucophora Goldfuss, 1820 GENUS
-=======
+# Leucophora Goldfuss, 1820 GENUS
 
 #### Status
 ACCEPTED

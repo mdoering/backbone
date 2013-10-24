@@ -1,5 +1,4 @@
-Septoria litreae Speg. SPECIES
-=======
+# Septoria litreae Speg. SPECIES
 
 #### Status
 ACCEPTED

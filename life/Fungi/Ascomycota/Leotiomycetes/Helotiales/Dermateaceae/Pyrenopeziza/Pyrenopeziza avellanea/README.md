@@ -1,5 +1,4 @@
-Pyrenopeziza avellanea Kirschst. SPECIES
-=======
+# Pyrenopeziza avellanea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

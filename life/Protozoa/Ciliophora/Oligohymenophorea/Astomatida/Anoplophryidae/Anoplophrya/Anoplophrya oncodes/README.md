@@ -1,5 +1,4 @@
-Anoplophrya oncodes Georgevitch, 1941 SPECIES
-=======
+# Anoplophrya oncodes Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

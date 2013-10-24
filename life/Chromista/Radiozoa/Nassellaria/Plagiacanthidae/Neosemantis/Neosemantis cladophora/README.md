@@ -1,5 +1,4 @@
-Neosemantis cladophora Goll, 1979 SPECIES
-=======
+# Neosemantis cladophora Goll, 1979 SPECIES
 
 #### Status
 ACCEPTED

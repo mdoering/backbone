@@ -1,5 +1,4 @@
-Cladonia implexa Harm. SPECIES
-=======
+# Cladonia implexa Harm. SPECIES
 
 #### Status
 ACCEPTED

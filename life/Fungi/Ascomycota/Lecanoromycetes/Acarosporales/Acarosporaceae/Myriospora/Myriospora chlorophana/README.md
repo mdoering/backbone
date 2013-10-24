@@ -1,5 +1,4 @@
-Myriospora chlorophana (Wahlenb.) Hepp SPECIES
-=======
+# Myriospora chlorophana (Wahlenb.) Hepp SPECIES
 
 #### Status
 ACCEPTED

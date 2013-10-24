@@ -1,5 +1,4 @@
-Rinodina pityrea Ropin & H. Mayrhofer SPECIES
-=======
+# Rinodina pityrea Ropin & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

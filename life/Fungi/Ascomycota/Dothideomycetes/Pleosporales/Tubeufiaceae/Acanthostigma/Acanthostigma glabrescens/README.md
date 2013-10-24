@@ -1,5 +1,4 @@
-Acanthostigma glabrescens Petr. SPECIES
-=======
+# Acanthostigma glabrescens Petr. SPECIES
 
 #### Status
 ACCEPTED

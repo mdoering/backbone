@@ -1,5 +1,4 @@
-Torula bombycis Sopp SPECIES
-=======
+# Torula bombycis Sopp SPECIES
 
 #### Status
 ACCEPTED

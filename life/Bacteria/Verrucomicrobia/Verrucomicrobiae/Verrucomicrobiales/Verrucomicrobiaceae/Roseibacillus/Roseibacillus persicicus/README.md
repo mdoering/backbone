@@ -1,5 +1,4 @@
-Roseibacillus persicicus Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 SPECIES
-=======
+# Roseibacillus persicicus Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 SPECIES
 
 #### Status
 ACCEPTED

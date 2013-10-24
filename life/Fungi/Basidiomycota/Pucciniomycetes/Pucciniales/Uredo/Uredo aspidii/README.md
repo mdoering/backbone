@@ -1,5 +1,4 @@
-Uredo aspidii Pollacci SPECIES
-=======
+# Uredo aspidii Pollacci SPECIES
 
 #### Status
 ACCEPTED

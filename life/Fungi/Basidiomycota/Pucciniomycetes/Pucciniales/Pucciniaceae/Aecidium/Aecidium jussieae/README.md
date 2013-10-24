@@ -1,5 +1,4 @@
-Aecidium jussieae Speg. SPECIES
-=======
+# Aecidium jussieae Speg. SPECIES
 
 #### Status
 ACCEPTED

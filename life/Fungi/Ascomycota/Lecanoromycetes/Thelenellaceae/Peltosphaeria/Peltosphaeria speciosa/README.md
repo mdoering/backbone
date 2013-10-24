@@ -1,5 +1,4 @@
-Peltosphaeria speciosa H. Kern SPECIES
-=======
+# Peltosphaeria speciosa H. Kern SPECIES
 
 #### Status
 ACCEPTED

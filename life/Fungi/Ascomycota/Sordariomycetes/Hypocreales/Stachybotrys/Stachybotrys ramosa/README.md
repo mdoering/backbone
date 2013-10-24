@@ -1,5 +1,4 @@
-Stachybotrys ramosa Udaiyan SPECIES
-=======
+# Stachybotrys ramosa Udaiyan SPECIES
 
 #### Status
 ACCEPTED

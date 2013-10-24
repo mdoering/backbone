@@ -1,17 +1,16 @@
-Trametes butignoti Boud. ex Lloyd SPECIES
-=======
+# Trametes butignotii Boud. ex Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 3 (Letter 28) 1 (1910)
 
 #### Original name
-Trametes butignoti Boud. ex Lloyd
+Trametes butignotii Boud. ex Lloyd
 
 ### Remarks
 null

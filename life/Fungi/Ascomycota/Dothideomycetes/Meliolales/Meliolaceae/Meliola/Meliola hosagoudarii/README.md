@@ -1,5 +1,4 @@
-Meliola hosagoudarii B. Song SPECIES
-=======
+# Meliola hosagoudarii B. Song SPECIES
 
 #### Status
 ACCEPTED

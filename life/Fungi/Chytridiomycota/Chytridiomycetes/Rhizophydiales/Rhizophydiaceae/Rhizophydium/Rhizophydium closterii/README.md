@@ -1,5 +1,4 @@
-Rhizophydium closterii Karling SPECIES
-=======
+# Rhizophydium closterii Karling SPECIES
 
 #### Status
 ACCEPTED

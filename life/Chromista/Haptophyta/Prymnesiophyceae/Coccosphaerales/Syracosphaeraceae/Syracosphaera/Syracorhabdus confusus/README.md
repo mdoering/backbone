@@ -1,5 +1,4 @@
-Syracorhabdus confusus (P. Halldal & J. Markali) J. Lecal SPECIES
-=======
+# Syracorhabdus confusus (P. Halldal & J. Markali) J. Lecal SPECIES
 
 #### Status
 ACCEPTED

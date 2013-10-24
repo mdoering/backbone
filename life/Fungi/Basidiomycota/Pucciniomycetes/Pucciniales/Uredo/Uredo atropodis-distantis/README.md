@@ -1,5 +1,4 @@
-Uredo atropodis-distantis Magnus SPECIES
-=======
+# Uredo atropodis-distantis Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius evestigiatus Britzelm. SPECIES
-=======
+# Cortinarius evestigiatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

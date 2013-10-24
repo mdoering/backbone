@@ -1,5 +1,4 @@
-Asteridium bambusellum Speg. SPECIES
-=======
+# Asteridium bambusellum Speg. SPECIES
 
 #### Status
 ACCEPTED

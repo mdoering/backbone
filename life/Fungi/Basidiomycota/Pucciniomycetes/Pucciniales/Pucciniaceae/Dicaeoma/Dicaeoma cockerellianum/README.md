@@ -1,5 +1,4 @@
-Dicaeoma cockerellianum (Bethel) Arthur SPECIES
-=======
+# Dicaeoma cockerellianum (Bethel) Arthur SPECIES
 
 #### Status
 ACCEPTED

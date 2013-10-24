@@ -1,5 +1,4 @@
-Theocapsomella cucurbiformis SPECIES
-=======
+# Theocapsomella cucurbiformis SPECIES
 
 #### Status
 ACCEPTED

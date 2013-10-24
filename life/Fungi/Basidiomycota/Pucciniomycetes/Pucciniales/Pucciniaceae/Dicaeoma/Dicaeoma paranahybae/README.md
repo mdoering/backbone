@@ -1,5 +1,4 @@
-Dicaeoma paranahybae (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma paranahybae (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

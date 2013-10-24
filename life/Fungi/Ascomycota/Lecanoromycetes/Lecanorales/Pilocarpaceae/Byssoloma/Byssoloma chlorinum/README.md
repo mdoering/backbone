@@ -1,14 +1,13 @@
-Pilocarpon chlorinum Vain. SPECIES
-=======
+# Byssoloma chlorinum (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-University of Calif. Publ. Bot. 12: 11 (1924)
+Cat. Lich. Univers. 8: 233 (1932)
 
 #### Original name
 Pilocarpon chlorinum Vain.

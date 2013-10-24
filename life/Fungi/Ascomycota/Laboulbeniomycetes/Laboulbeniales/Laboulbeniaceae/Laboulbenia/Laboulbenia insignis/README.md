@@ -1,5 +1,4 @@
-Laboulbenia insignis Thaxt. SPECIES
-=======
+# Laboulbenia insignis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula ferruginascens (Britzelm.) Sacc. SPECIES
-=======
+# Flammula ferruginascens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

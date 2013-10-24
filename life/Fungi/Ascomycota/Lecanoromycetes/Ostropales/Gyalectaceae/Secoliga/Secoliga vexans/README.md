@@ -1,5 +1,4 @@
-Secoliga vexans Stizenb. SPECIES
-=======
+# Secoliga vexans Stizenb. SPECIES
 
 #### Status
 ACCEPTED

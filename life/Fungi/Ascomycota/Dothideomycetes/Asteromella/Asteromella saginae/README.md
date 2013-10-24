@@ -1,5 +1,4 @@
-Asteromella saginae Urries SPECIES
-=======
+# Asteromella saginae Urries SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cortinarius pseudocandelaris var. pseudocandelaris VARIETY
-=======
+# Cortinarius pseudocandelaris (M.M. Moser) M.M. Moser, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 325 (1967)
 
 #### Original name
-Cortinarius pseudocandelaris var. pseudocandelaris
+Hydrocybe pseudocandelaris M.M. Moser, 1957
 
 ### Remarks
 null

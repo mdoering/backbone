@@ -1,5 +1,4 @@
-Diplodia zygophylli Kalymb. SPECIES
-=======
+# Diplodia zygophylli Kalymb. SPECIES
 
 #### Status
 ACCEPTED

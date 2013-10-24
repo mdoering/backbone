@@ -1,5 +1,4 @@
-Periconiella geonomae M.B. Ellis SPECIES
-=======
+# Periconiella geonomae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

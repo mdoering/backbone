@@ -1,17 +1,16 @@
-Cortinarius trescoli Rob. Henry SPECIES
-=======
+# Cortinarius trescolii Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 97(3): 163 (1981)
 
 #### Original name
-Cortinarius trescoli Rob. Henry
+Cortinarius trescolii Rob. Henry
 
 ### Remarks
 null

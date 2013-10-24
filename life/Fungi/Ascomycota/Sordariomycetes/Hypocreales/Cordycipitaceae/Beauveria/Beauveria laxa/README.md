@@ -1,5 +1,4 @@
-Beauveria laxa Petch SPECIES
-=======
+# Beauveria laxa Petch SPECIES
 
 #### Status
 ACCEPTED

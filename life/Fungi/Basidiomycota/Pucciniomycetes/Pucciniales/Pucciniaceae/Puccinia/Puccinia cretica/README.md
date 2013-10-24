@@ -1,5 +1,4 @@
-Puccinia cretica Holw. SPECIES
-=======
+# Puccinia cretica Holw. SPECIES
 
 #### Status
 ACCEPTED

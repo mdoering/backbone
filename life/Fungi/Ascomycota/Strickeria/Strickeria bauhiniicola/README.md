@@ -1,17 +1,16 @@
-Strickeria bauhinicola Henn. SPECIES
-=======
+# Strickeria bauhiniicola Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. bot. Ver. Prov. Brandenb. 40: 156 (1898)
 
 #### Original name
-Strickeria bauhinicola Henn.
+Strickeria bauhiniicola Henn.
 
 ### Remarks
 null

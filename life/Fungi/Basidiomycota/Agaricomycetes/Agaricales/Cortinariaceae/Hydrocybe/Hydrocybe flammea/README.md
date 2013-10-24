@@ -1,5 +1,4 @@
-Hydrocybe flammea (Scop.) Murrill SPECIES
-=======
+# Hydrocybe flammea (Scop.) Murrill SPECIES
 
 #### Status
 ACCEPTED

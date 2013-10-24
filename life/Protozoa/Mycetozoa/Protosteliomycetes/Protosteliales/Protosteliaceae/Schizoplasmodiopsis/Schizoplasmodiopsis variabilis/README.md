@@ -1,5 +1,4 @@
-Schizoplasmodiopsis variabilis L.S. Olive, 1985 SPECIES
-=======
+# Schizoplasmodiopsis variabilis L.S. Olive, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphiola macrospora Penz. & Sacc. SPECIES
-=======
+# Graphiola macrospora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

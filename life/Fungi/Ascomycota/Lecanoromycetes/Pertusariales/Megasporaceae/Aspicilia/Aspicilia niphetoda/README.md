@@ -1,5 +1,4 @@
-Aspicilia niphetoda Hue SPECIES
-=======
+# Aspicilia niphetoda Hue SPECIES
 
 #### Status
 ACCEPTED

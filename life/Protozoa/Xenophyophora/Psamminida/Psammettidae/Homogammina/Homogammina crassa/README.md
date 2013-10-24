@@ -1,5 +1,4 @@
-Homogammina crassa Gooday, 1991 SPECIES
-=======
+# Homogammina crassa Gooday, 1991 SPECIES
 
 #### Status
 ACCEPTED

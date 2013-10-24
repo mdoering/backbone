@@ -1,5 +1,4 @@
-Entoloma pallidobrunneum Murrill SPECIES
-=======
+# Entoloma pallidobrunneum Murrill SPECIES
 
 #### Status
 ACCEPTED

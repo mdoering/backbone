@@ -1,5 +1,4 @@
-Colletotrichum orchidacearum f. orchidacearum FORM
-=======
+# Colletotrichum orchidacearum Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(7): 563 (1903)
 
 #### Original name
-Colletotrichum orchidacearum f. orchidacearum
+Colletotrichum orchidacearum Allesch.
 
 ### Remarks
 null

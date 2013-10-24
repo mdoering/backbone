@@ -1,5 +1,4 @@
-Acarospora deplanans (Nyl.) Zahlbr. SPECIES
-=======
+# Acarospora deplanans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

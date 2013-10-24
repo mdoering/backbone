@@ -1,5 +1,4 @@
-Russula rubrotincta Burl. SPECIES
-=======
+# Russula rubrotincta Burl. SPECIES
 
 #### Status
 ACCEPTED

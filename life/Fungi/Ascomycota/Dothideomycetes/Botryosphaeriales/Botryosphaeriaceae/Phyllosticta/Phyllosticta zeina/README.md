@@ -1,5 +1,4 @@
-Phyllosticta zeina Panas. SPECIES
-=======
+# Phyllosticta zeina Panas. SPECIES
 
 #### Status
 ACCEPTED

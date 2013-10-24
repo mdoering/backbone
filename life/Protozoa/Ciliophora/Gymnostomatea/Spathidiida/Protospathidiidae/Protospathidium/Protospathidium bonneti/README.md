@@ -1,5 +1,4 @@
-Protospathidium bonneti (Buitkamp, 1977) Foissner, 1981 SPECIES
-=======
+# Protospathidium bonneti (Buitkamp, 1977) Foissner, 1981 SPECIES
 
 #### Status
 ACCEPTED

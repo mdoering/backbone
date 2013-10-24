@@ -1,5 +1,4 @@
-Remanella caudata (Dragesco, 1954) Foissner, 1996 SPECIES
-=======
+# Remanella caudata (Dragesco, 1954) Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

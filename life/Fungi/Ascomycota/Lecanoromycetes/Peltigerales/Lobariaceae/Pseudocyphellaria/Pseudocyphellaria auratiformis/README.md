@@ -1,5 +1,4 @@
-Pseudocyphellaria auratiformis Räsänen SPECIES
-=======
+# Pseudocyphellaria auratiformis Räsänen SPECIES
 
 #### Status
 ACCEPTED

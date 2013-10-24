@@ -1,5 +1,4 @@
-Phoma funkiae Verpl. & van den Broecke SPECIES
-=======
+# Phoma funkiae Verpl. & van den Broecke SPECIES
 
 #### Status
 ACCEPTED

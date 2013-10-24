@@ -1,5 +1,4 @@
-Iodosphaeria polygoni W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Iodosphaeria polygoni W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

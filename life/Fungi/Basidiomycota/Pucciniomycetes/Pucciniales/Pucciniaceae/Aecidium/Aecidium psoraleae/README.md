@@ -1,5 +1,4 @@
-Aecidium psoraleae Peck SPECIES
-=======
+# Aecidium psoraleae Peck SPECIES
 
 #### Status
 ACCEPTED

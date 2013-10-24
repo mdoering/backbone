@@ -1,5 +1,4 @@
-Cercospora doronici Pass. SPECIES
-=======
+# Cercospora doronici Pass. SPECIES
 
 #### Status
 ACCEPTED

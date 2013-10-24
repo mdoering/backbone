@@ -1,5 +1,4 @@
-Actinopeltis sordidula (Arx) P.M. Kirk & Spooner, 1990 SPECIES
-=======
+# Actinopeltis sordidula (Arx) P.M. Kirk & Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

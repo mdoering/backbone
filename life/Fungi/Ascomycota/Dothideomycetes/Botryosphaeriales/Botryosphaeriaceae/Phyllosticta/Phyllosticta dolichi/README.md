@@ -1,5 +1,4 @@
-Phyllosticta dolichi Brunaud SPECIES
-=======
+# Phyllosticta dolichi Brunaud SPECIES
 
 #### Status
 ACCEPTED

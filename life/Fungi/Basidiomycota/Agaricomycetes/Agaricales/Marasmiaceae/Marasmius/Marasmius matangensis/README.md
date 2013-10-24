@@ -1,5 +1,4 @@
-Marasmius matangensis Corner SPECIES
-=======
+# Marasmius matangensis Corner SPECIES
 
 #### Status
 ACCEPTED

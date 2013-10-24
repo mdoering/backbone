@@ -1,5 +1,4 @@
-Venturia saliciperda Nüesch, 1960 SPECIES
-=======
+# Venturia saliciperda Nüesch, 1960 SPECIES
 
 #### Status
 ACCEPTED

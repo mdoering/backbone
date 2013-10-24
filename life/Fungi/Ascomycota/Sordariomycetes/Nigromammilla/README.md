@@ -1,5 +1,4 @@
-Nigromammilla K.D. Hyde & J. Fröhl. GENUS
-=======
+# Nigromammilla K.D. Hyde & J. Fröhl. GENUS
 
 #### Status
 ACCEPTED

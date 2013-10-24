@@ -1,5 +1,4 @@
-Helicogonium hyaloscypharum Baral, 1999 SPECIES
-=======
+# Helicogonium hyaloscypharum Baral, 1999 SPECIES
 
 #### Status
 ACCEPTED

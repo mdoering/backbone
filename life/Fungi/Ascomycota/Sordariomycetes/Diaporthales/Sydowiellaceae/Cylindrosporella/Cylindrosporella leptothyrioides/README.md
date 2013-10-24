@@ -1,5 +1,4 @@
-Cylindrosporella leptothyrioides (Kabát & Bubák) Arx SPECIES
-=======
+# Cylindrosporella leptothyrioides (Kabát & Bubák) Arx SPECIES
 
 #### Status
 ACCEPTED

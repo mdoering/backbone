@@ -1,5 +1,4 @@
-Mycena sphaerocystis Métrod SPECIES
-=======
+# Mycena sphaerocystis Métrod SPECIES
 
 #### Status
 ACCEPTED

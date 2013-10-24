@@ -1,5 +1,4 @@
-Palhindeolithus Deflandre, 1973 GENUS
-=======
+# Palhindeolithus Deflandre, 1973 GENUS
 
 #### Status
 ACCEPTED

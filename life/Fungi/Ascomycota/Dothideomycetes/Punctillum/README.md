@@ -1,5 +1,4 @@
-Punctillum Petr. & Syd. GENUS
-=======
+# Punctillum Petr. & Syd. GENUS
 
 #### Status
 ACCEPTED

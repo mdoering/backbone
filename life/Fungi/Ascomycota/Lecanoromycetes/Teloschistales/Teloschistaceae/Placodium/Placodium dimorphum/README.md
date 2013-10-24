@@ -1,5 +1,4 @@
-Placodium dimorphum (Müll. Arg.) Darb. SPECIES
-=======
+# Placodium dimorphum (Müll. Arg.) Darb. SPECIES
 
 #### Status
 ACCEPTED

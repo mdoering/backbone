@@ -1,5 +1,4 @@
-Leptogium streimannii Verdon SPECIES
-=======
+# Leptogium streimannii Verdon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleoravenelia macowaniana (Pazschke) Long SPECIES
-=======
+# Pleoravenelia macowaniana (Pazschke) Long SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytridium muricatum Scherff. SPECIES
-=======
+# Chytridium muricatum Scherff. SPECIES
 
 #### Status
 ACCEPTED

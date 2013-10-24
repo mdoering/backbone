@@ -1,5 +1,4 @@
-Gartnerago costatum SPECIES
-=======
+# Gartnerago costatum SPECIES
 
 #### Status
 ACCEPTED

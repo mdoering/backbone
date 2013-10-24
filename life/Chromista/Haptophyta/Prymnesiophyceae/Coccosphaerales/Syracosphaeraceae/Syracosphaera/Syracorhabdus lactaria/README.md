@@ -1,5 +1,4 @@
-Syracorhabdus lactaria J. Lecal SPECIES
-=======
+# Syracorhabdus lactaria J. Lecal SPECIES
 
 #### Status
 ACCEPTED

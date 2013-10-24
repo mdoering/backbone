@@ -1,5 +1,4 @@
-Micropolyspora GENUS
-=======
+# Micropolyspora GENUS
 
 #### Status
 ACCEPTED

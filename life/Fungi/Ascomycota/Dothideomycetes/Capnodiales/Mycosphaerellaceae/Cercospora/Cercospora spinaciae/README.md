@@ -1,5 +1,4 @@
-Cercospora spinaciae Oudem. SPECIES
-=======
+# Cercospora spinaciae Oudem. SPECIES
 
 #### Status
 ACCEPTED

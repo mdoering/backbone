@@ -1,5 +1,4 @@
-Trichothyrites Rosend. GENUS
-=======
+# Trichothyrites Rosend. GENUS
 
 #### Status
 ACCEPTED

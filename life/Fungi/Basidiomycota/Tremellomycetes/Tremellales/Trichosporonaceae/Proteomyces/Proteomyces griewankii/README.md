@@ -1,5 +1,4 @@
-Proteomyces griewankii (Neveu-Lem.) C.W. Dodge SPECIES
-=======
+# Proteomyces griewankii (Neveu-Lem.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

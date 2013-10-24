@@ -1,5 +1,4 @@
-Ellipticoporata A.S. Lopuchin in M.I. Neustadt, 1966 GENUS
-=======
+# Ellipticoporata A.S. Lopuchin in M.I. Neustadt, 1966 GENUS
 
 #### Status
 ACCEPTED

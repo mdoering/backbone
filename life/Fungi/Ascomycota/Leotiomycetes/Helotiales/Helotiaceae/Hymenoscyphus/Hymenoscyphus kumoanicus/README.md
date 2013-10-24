@@ -1,5 +1,4 @@
-Hymenoscyphus kumoanicus M.P. Sharma SPECIES
-=======
+# Hymenoscyphus kumoanicus M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

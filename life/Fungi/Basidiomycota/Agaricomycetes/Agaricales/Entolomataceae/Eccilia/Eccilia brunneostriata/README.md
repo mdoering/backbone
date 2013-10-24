@@ -1,5 +1,4 @@
-Eccilia brunneostriata (Dennis) Dennis SPECIES
-=======
+# Eccilia brunneostriata (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

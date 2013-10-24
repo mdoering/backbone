@@ -1,5 +1,4 @@
-Asterina nycticali H.S. Yates SPECIES
-=======
+# Asterina nycticali H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

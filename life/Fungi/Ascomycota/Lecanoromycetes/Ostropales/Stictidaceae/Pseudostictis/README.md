@@ -1,5 +1,4 @@
-Pseudostictis GENUS
-=======
+# Pseudostictis GENUS
 
 #### Status
 ACCEPTED

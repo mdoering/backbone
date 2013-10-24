@@ -1,5 +1,4 @@
-Russellia J.B. Risatti, 1973 GENUS
-=======
+# Russellia J.B. Risatti, 1973 GENUS
 
 #### Status
 ACCEPTED

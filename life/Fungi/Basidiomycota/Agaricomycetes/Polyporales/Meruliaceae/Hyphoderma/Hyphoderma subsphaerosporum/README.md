@@ -1,5 +1,4 @@
-Hyphoderma subsphaerosporum Boidin & Gilles, 1991 SPECIES
-=======
+# Hyphoderma subsphaerosporum Boidin & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

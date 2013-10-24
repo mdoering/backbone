@@ -1,5 +1,4 @@
-Phoma aquilegiae Richon SPECIES
-=======
+# Phoma aquilegiae Richon SPECIES
 
 #### Status
 ACCEPTED

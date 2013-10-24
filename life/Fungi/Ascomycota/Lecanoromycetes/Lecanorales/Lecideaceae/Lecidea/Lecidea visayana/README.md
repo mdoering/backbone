@@ -1,5 +1,4 @@
-Lecidea visayana Herre SPECIES
-=======
+# Lecidea visayana Herre SPECIES
 
 #### Status
 ACCEPTED

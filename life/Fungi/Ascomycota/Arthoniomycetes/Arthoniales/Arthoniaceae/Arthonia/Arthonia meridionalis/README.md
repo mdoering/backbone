@@ -1,14 +1,13 @@
-Mycoglaena meridionalis (Zahlbr.) Szatala SPECIES
-=======
+# Arthonia meridionalis Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 12: 336 (1914)
 
 #### Original name
 Arthonia meridionalis Zahlbr.

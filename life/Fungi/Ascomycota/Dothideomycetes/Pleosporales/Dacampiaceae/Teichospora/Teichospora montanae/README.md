@@ -1,5 +1,4 @@
-Teichospora montanae Ellis & Everh. SPECIES
-=======
+# Teichospora montanae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

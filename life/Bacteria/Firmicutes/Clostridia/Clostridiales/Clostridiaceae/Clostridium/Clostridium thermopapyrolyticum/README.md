@@ -1,5 +1,4 @@
-Clostridium thermopapyrolyticum Méndez et al., 1991 SPECIES
-=======
+# Clostridium thermopapyrolyticum Méndez et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

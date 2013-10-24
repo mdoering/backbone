@@ -1,5 +1,4 @@
-Spiroperistomatus Amaro & Sena, 1968 GENUS
-=======
+# Spiroperistomatus Amaro & Sena, 1968 GENUS
 
 #### Status
 ACCEPTED

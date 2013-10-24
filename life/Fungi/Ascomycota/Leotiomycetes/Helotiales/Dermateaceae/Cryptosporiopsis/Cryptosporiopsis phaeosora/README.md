@@ -1,5 +1,4 @@
-Cryptosporiopsis phaeosora (Sacc.) Arx SPECIES
-=======
+# Cryptosporiopsis phaeosora (Sacc.) Arx SPECIES
 
 #### Status
 ACCEPTED

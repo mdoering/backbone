@@ -1,5 +1,4 @@
-Claustula fischeri K.M. Curtis, 1926 SPECIES
-=======
+# Claustula fischeri K.M. Curtis, 1926 SPECIES
 
 #### Status
 ACCEPTED

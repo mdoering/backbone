@@ -1,5 +1,4 @@
-Arthopyrenia maroccana (M. Choisy) Zahlbr. SPECIES
-=======
+# Arthopyrenia maroccana (M. Choisy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

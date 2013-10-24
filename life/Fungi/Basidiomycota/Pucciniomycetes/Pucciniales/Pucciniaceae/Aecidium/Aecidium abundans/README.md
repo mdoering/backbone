@@ -1,5 +1,4 @@
-Aecidium abundans Peck SPECIES
-=======
+# Aecidium abundans Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta scutiae Speg. SPECIES
-=======
+# Phyllosticta scutiae Speg. SPECIES
 
 #### Status
 ACCEPTED

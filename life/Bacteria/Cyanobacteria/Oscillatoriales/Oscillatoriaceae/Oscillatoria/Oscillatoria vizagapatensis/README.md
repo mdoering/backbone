@@ -1,5 +1,4 @@
-Oscillatoria vizagapatensis C.B. Rao SPECIES
-=======
+# Oscillatoria vizagapatensis C.B. Rao SPECIES
 
 #### Status
 ACCEPTED

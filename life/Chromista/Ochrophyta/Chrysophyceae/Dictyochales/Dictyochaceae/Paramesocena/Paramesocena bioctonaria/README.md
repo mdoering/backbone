@@ -1,5 +1,4 @@
-Paramesocena bioctonaria var. fossilis (K. Tsumura) T. V. Desikachary & P. Prema VARIETY
-=======
+# Paramesocena bioctonaria (Ehrenberg) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

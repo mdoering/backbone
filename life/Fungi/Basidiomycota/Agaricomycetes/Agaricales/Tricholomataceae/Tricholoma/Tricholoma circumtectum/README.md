@@ -1,5 +1,4 @@
-Tricholoma circumtectum (Cooke) Sacc. SPECIES
-=======
+# Tricholoma circumtectum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

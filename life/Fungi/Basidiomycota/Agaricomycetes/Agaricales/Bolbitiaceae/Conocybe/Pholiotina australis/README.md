@@ -1,5 +1,4 @@
-Pholiotina australis Singer SPECIES
-=======
+# Pholiotina australis Singer SPECIES
 
 #### Status
 ACCEPTED

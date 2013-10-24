@@ -1,5 +1,4 @@
-Arthothelium ernstianum (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Arthothelium ernstianum (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

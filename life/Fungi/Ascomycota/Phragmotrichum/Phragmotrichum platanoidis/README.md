@@ -1,5 +1,4 @@
-Phragmotrichum platanoidis G.H. Otth SPECIES
-=======
+# Phragmotrichum platanoidis G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

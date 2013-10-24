@@ -1,5 +1,4 @@
-Hysterites protogaeus (Heer) Mesch. SPECIES
-=======
+# Hysterites protogaeus (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

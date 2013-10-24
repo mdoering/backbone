@@ -1,5 +1,4 @@
-Puccinia santolinae Magnus, 1908 SPECIES
-=======
+# Puccinia santolinae Magnus, 1908 SPECIES
 
 #### Status
 ACCEPTED

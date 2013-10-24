@@ -1,5 +1,4 @@
-Verrucaria epipolaea var. epipolaea VARIETY
-=======
+# Verrucaria epipolaea Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lich. univ. (1810)
 
 #### Original name
-Verrucaria epipolaea var. epipolaea
+Verrucaria epipolaea Ach.
 
 ### Remarks
 null

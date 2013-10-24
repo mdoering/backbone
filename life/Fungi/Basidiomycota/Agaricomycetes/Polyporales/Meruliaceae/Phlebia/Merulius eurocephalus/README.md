@@ -1,5 +1,4 @@
-Merulius eurocephalus (Berk. & Broome) Petch SPECIES
-=======
+# Merulius eurocephalus (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

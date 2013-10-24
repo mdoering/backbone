@@ -1,5 +1,4 @@
-Eimeria hexagona Lom & Dyková, 1981 SPECIES
-=======
+# Eimeria hexagona Lom & Dyková, 1981 SPECIES
 
 #### Status
 ACCEPTED

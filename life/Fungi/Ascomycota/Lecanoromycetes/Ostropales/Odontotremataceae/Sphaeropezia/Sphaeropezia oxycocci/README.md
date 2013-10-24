@@ -1,5 +1,4 @@
-Sphaeropezia oxycocci Tobias SPECIES
-=======
+# Sphaeropezia oxycocci Tobias SPECIES
 
 #### Status
 ACCEPTED

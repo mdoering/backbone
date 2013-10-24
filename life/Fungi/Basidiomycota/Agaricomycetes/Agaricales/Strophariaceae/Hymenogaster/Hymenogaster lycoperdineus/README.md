@@ -1,5 +1,4 @@
-Hymenogaster lycoperdineus Vittad. SPECIES
-=======
+# Hymenogaster lycoperdineus Vittad. SPECIES
 
 #### Status
 ACCEPTED

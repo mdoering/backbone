@@ -1,5 +1,4 @@
-Puccinia tombeana Gäum. & Terrier SPECIES
-=======
+# Puccinia tombeana Gäum. & Terrier SPECIES
 
 #### Status
 ACCEPTED

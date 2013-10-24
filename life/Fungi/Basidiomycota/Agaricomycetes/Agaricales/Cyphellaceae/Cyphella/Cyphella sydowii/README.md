@@ -1,5 +1,4 @@
-Cyphella sydowii Bres. SPECIES
-=======
+# Cyphella sydowii Bres. SPECIES
 
 #### Status
 ACCEPTED

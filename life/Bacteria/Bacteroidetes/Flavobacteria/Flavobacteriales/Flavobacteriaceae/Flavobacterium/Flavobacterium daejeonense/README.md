@@ -1,5 +1,4 @@
-Flavobacterium daejeonense Kim et al., 2006 SPECIES
-=======
+# Flavobacterium daejeonense Kim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

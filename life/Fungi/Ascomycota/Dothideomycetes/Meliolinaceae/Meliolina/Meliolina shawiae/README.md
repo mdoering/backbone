@@ -1,5 +1,4 @@
-Meliolina shawiae S. Hughes SPECIES
-=======
+# Meliolina shawiae S. Hughes SPECIES
 
 #### Status
 ACCEPTED

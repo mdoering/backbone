@@ -1,5 +1,4 @@
-Rhizopogon columbianus K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Rhizopogon columbianus K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichosporangium Hauck, 1884 GENUS
-=======
+# Dichosporangium Hauck, 1884 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria atrobarba (Cooke & Ellis) Sacc. SPECIES
-=======
+# Chaetosphaeria atrobarba (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

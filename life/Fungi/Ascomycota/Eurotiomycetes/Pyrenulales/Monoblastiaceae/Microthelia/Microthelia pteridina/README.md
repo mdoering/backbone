@@ -1,5 +1,4 @@
-Microthelia pteridina (Sacc.) Kuntze SPECIES
-=======
+# Microthelia pteridina (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

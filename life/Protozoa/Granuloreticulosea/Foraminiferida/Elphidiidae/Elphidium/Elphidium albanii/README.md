@@ -1,5 +1,4 @@
-Elphidium albanii Hayward, 1997 in Hayward, Hollis & Grenfell, 1997 SPECIES
-=======
+# Elphidium albanii Hayward, 1997 in Hayward, Hollis & Grenfell, 1997 SPECIES
 
 #### Status
 ACCEPTED

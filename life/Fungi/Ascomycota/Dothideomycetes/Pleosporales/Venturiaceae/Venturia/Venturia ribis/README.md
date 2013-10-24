@@ -1,5 +1,4 @@
-Venturia ribis Sivan., 1985 SPECIES
-=======
+# Venturia ribis Sivan., 1985 SPECIES
 
 #### Status
 ACCEPTED

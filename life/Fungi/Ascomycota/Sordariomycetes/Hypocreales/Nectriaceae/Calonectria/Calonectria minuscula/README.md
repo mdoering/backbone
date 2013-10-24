@@ -1,5 +1,4 @@
-Calonectria minuscula Sacc. & Speg. SPECIES
-=======
+# Calonectria minuscula Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

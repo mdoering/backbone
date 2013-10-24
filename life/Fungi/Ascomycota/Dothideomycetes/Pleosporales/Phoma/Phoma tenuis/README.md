@@ -1,5 +1,4 @@
-Phoma tenuis Pass. SPECIES
-=======
+# Phoma tenuis Pass. SPECIES
 
 #### Status
 ACCEPTED

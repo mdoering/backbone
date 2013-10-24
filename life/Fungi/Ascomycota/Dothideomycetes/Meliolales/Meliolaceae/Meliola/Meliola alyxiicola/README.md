@@ -1,5 +1,4 @@
-Meliola alyxiicola B. Huguenin SPECIES
-=======
+# Meliola alyxiicola B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

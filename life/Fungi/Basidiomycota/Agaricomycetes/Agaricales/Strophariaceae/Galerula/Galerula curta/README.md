@@ -1,5 +1,4 @@
-Galerula curta G.F. Atk. SPECIES
-=======
+# Galerula curta G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

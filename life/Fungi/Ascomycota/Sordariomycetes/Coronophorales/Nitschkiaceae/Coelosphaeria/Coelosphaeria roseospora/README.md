@@ -1,5 +1,4 @@
-Coelosphaeria roseospora Pat. SPECIES
-=======
+# Coelosphaeria roseospora Pat. SPECIES
 
 #### Status
 ACCEPTED

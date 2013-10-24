@@ -1,5 +1,4 @@
-Cercospora asystasiae J.M. Yen SPECIES
-=======
+# Cercospora asystasiae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

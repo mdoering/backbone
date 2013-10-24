@@ -1,5 +1,4 @@
-Strobilomyces glabriceps W.F. Chiu SPECIES
-=======
+# Strobilomyces glabriceps W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

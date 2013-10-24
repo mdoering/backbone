@@ -1,5 +1,4 @@
-Cenosphaera cristata Haeckel, 1887 SPECIES
-=======
+# Cenosphaera cristata Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

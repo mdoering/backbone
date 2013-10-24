@@ -1,5 +1,4 @@
-Agaricus descendens Berk. SPECIES
-=======
+# Agaricus descendens Berk. SPECIES
 
 #### Status
 ACCEPTED

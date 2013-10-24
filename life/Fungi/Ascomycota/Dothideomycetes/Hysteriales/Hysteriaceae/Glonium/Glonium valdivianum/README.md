@@ -1,5 +1,4 @@
-Glonium valdivianum Speg. SPECIES
-=======
+# Glonium valdivianum Speg. SPECIES
 
 #### Status
 ACCEPTED

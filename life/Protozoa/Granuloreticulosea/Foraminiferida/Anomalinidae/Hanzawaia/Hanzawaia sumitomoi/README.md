@@ -1,5 +1,4 @@
-Hanzawaia sumitomoi Asano & Murata SPECIES
-=======
+# Hanzawaia sumitomoi Asano & Murata SPECIES
 
 #### Status
 ACCEPTED

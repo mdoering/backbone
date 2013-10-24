@@ -1,14 +1,13 @@
-Cryptospora baggei (Auersw.) Niessl, 1872 SPECIES
-=======
+# Leptosphaeria baggei (Auersw. & Niessl) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. nat. Ver. Brünn 10: 203 (1872)
+Syll. fung. (Abellini) 2: 35 (1883)
 
 #### Original name
 Sphaeria baggei Auersw., 1870

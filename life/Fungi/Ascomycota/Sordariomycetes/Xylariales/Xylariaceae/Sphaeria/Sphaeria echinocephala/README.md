@@ -1,5 +1,4 @@
-Sphaeria echinocephala Schwein. SPECIES
-=======
+# Sphaeria echinocephala Schwein. SPECIES
 
 #### Status
 ACCEPTED

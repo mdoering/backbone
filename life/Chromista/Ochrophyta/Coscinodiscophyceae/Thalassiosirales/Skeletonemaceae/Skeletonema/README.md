@@ -1,5 +1,4 @@
-Skeletonema Grev. GENUS
-=======
+# Skeletonema Grev. GENUS
 
 #### Status
 ACCEPTED

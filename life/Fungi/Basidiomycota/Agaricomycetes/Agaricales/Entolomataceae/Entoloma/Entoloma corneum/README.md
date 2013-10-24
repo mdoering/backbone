@@ -1,5 +1,4 @@
-Entoloma corneum E. Horak, 1973 SPECIES
-=======
+# Entoloma corneum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

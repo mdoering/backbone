@@ -1,5 +1,4 @@
-Chantransiopsis decumbens Thaxt., 1914 SPECIES
-=======
+# Chantransiopsis decumbens Thaxt., 1914 SPECIES
 
 #### Status
 ACCEPTED

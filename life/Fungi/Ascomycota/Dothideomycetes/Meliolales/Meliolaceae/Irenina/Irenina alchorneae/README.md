@@ -1,5 +1,4 @@
-Irenina alchorneae (F. Stevens & Tehon) F. Stevens SPECIES
-=======
+# Irenina alchorneae (F. Stevens & Tehon) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

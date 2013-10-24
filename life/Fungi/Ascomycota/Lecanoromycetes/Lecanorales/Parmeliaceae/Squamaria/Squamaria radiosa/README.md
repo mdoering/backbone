@@ -1,5 +1,4 @@
-Squamaria radiosa var. radiosa VARIETY
-=======
+# Squamaria radiosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria radiosa var. radiosa
+null
 
 ### Remarks
 null

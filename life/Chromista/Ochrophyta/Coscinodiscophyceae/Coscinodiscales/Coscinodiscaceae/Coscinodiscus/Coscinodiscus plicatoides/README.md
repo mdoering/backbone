@@ -1,5 +1,4 @@
-Coscinodiscus plicatoides H.J. Schrader SPECIES
-=======
+# Coscinodiscus plicatoides H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

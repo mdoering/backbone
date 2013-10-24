@@ -1,5 +1,4 @@
-Thermosediminibacter litoriperuensis Lee et al., 2006 SPECIES
-=======
+# Thermosediminibacter litoriperuensis Lee et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

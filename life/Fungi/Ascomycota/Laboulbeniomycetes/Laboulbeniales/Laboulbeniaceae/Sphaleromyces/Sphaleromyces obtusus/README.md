@@ -1,5 +1,4 @@
-Sphaleromyces obtusus Thaxt. SPECIES
-=======
+# Sphaleromyces obtusus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

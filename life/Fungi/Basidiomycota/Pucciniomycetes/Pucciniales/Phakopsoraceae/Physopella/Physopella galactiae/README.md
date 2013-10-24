@@ -1,5 +1,4 @@
-Physopella galactiae Salazar-Yepes & A.A. Carvalho SPECIES
-=======
+# Physopella galactiae Salazar-Yepes & A.A. Carvalho SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus nodulosporus Peck SPECIES
-=======
+# Agaricus nodulosporus Peck SPECIES
 
 #### Status
 ACCEPTED

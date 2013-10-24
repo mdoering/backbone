@@ -1,5 +1,4 @@
-Tricholoma boninense S. Ito & S. Imai SPECIES
-=======
+# Tricholoma boninense S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

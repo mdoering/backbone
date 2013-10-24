@@ -1,5 +1,4 @@
-Shouguania Lin, 1981 GENUS
-=======
+# Shouguania Lin, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wetzeliella coleothrypta G.L. Williams & C. Downie SPECIES
-=======
+# Wetzeliella coleothrypta G.L. Williams & C. Downie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutstroemia urceolus (Fuckel) W.L. White SPECIES
-=======
+# Rutstroemia urceolus (Fuckel) W.L. White SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetreutreptia pomquetensis J.L. McLachlan, M.R. Seguel & L. Fritz SPECIES
-=======
+# Tetreutreptia pomquetensis J.L. McLachlan, M.R. Seguel & L. Fritz SPECIES
 
 #### Status
 ACCEPTED

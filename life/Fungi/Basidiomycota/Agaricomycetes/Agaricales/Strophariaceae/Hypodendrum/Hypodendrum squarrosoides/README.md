@@ -1,5 +1,4 @@
-Hypodendrum squarrosoides (Peck) Overh. SPECIES
-=======
+# Hypodendrum squarrosoides (Peck) Overh. SPECIES
 
 #### Status
 ACCEPTED

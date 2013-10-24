@@ -1,5 +1,4 @@
-Gloeosporium somaliense Negodi SPECIES
-=======
+# Gloeosporium somaliense Negodi SPECIES
 
 #### Status
 ACCEPTED

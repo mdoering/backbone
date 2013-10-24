@@ -1,5 +1,4 @@
-Valsa mediterranea De Not. SPECIES
-=======
+# Valsa mediterranea De Not. SPECIES
 
 #### Status
 ACCEPTED

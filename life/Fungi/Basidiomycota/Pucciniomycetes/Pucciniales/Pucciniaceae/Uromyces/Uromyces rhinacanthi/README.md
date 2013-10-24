@@ -1,5 +1,4 @@
-Uromyces rhinacanthi Cummins SPECIES
-=======
+# Uromyces rhinacanthi Cummins SPECIES
 
 #### Status
 ACCEPTED

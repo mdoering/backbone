@@ -1,5 +1,4 @@
-Kendrickomyces indicus B. Sutton, V.G. Rao & Mhaskar, 1976 SPECIES
-=======
+# Kendrickomyces indicus B. Sutton, V.G. Rao & Mhaskar, 1976 SPECIES
 
 #### Status
 ACCEPTED

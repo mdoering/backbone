@@ -1,5 +1,4 @@
-Comoclathris planispora (Ellis) Harr SPECIES
-=======
+# Comoclathris planispora (Ellis) Harr SPECIES
 
 #### Status
 ACCEPTED

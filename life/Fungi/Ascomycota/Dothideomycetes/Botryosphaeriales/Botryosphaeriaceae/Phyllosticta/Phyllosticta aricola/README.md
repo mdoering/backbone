@@ -1,5 +1,4 @@
-Phyllosticta aricola Bubák SPECIES
-=======
+# Phyllosticta aricola Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aquimarina macrocephali Miyazaki, Nagano, Fujiwara, Hatada & Nogi, 2010 SPECIES
-=======
+# Aquimarina macrocephali Miyazaki, Nagano, Fujiwara, Hatada & Nogi, 2010 SPECIES
 
 #### Status
 ACCEPTED

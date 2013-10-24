@@ -1,5 +1,4 @@
-Lecidea placodiformis Hue SPECIES
-=======
+# Lecidea placodiformis Hue SPECIES
 
 #### Status
 ACCEPTED

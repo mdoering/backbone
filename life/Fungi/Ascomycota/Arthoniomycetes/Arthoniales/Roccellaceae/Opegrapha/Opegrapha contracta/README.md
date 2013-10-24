@@ -1,5 +1,4 @@
-Opegrapha contracta Vain. SPECIES
-=======
+# Opegrapha contracta Vain. SPECIES
 
 #### Status
 ACCEPTED

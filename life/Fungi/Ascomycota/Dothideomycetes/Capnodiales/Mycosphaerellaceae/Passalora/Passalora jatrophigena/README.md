@@ -1,5 +1,4 @@
-Passalora jatrophigena U. Braun & F.O. Freire SPECIES
-=======
+# Passalora jatrophigena U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

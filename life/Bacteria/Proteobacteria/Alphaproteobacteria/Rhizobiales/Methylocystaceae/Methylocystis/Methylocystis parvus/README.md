@@ -1,5 +1,4 @@
-Methylocystis parvus (ex Whittenbury et al., 1970) Bowman et al., 1993 SPECIES
-=======
+# Methylocystis parvus (ex Whittenbury et al., 1970) Bowman et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

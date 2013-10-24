@@ -1,5 +1,4 @@
-Boletus populneus Pollini SPECIES
-=======
+# Boletus populneus Pollini SPECIES
 
 #### Status
 ACCEPTED

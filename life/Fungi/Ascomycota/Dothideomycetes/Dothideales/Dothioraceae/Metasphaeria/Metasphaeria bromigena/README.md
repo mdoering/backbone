@@ -1,5 +1,4 @@
-Metasphaeria bromigena R. Sprague SPECIES
-=======
+# Metasphaeria bromigena R. Sprague SPECIES
 
 #### Status
 ACCEPTED

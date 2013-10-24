@@ -1,5 +1,4 @@
-Vittatispora coorgii P. Chaudhary, J. Campb., D. Hawksw. & K.N. Sastry, 2006 SPECIES
-=======
+# Vittatispora coorgii P. Chaudhary, J. Campb., D. Hawksw. & K.N. Sastry, 2006 SPECIES
 
 #### Status
 ACCEPTED

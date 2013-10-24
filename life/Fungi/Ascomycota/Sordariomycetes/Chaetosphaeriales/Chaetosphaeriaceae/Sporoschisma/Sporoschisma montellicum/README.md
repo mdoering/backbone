@@ -1,5 +1,4 @@
-Sporoschisma montellicum Sacc. SPECIES
-=======
+# Sporoschisma montellicum Sacc. SPECIES
 
 #### Status
 ACCEPTED

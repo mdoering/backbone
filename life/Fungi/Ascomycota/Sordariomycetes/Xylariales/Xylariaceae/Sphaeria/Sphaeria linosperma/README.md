@@ -1,5 +1,4 @@
-Sphaeria linosperma (Mont.) Mont. SPECIES
-=======
+# Sphaeria linosperma (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

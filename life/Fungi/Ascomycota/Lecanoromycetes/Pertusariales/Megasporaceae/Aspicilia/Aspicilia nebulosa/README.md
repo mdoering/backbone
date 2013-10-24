@@ -1,5 +1,4 @@
-Aspicilia nebulosa Motyka SPECIES
-=======
+# Aspicilia nebulosa Motyka SPECIES
 
 #### Status
 ACCEPTED

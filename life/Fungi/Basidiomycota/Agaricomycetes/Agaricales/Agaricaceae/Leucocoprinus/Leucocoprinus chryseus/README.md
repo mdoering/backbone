@@ -1,5 +1,4 @@
-Leucocoprinus chryseus Wichanský SPECIES
-=======
+# Leucocoprinus chryseus Wichanský SPECIES
 
 #### Status
 ACCEPTED

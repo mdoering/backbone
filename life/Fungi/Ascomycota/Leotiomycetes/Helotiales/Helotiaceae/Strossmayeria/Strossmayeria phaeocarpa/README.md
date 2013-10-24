@@ -1,5 +1,4 @@
-Strossmayeria phaeocarpa Dennis SPECIES
-=======
+# Strossmayeria phaeocarpa Dennis SPECIES
 
 #### Status
 ACCEPTED

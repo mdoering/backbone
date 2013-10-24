@@ -1,17 +1,16 @@
-Sporotrichum dehradunense A.K. Sarbhoy & R.K. Saksena, 1966 SPECIES
-=======
+# Sporotrichum pulverulentum Novobr., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 19: 198 (1966)
+Nov. sist. Niz. Rast. 9: 184 (1972)
 
 #### Original name
-Sporotrichum dehradunense A.K. Sarbhoy & R.K. Saksena, 1966
+Sporotrichum pulverulentum Novobr., 1972
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entyloma myosuri Syd. SPECIES
-=======
+# Entyloma myosuri Syd. SPECIES
 
 #### Status
 ACCEPTED

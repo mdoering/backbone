@@ -1,5 +1,4 @@
-Naucoria specialis (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria specialis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

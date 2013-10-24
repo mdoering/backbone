@@ -1,5 +1,4 @@
-Callopisma argillaceum Malme SPECIES
-=======
+# Callopisma argillaceum Malme SPECIES
 
 #### Status
 ACCEPTED

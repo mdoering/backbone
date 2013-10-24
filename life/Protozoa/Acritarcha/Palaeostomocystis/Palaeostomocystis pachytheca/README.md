@@ -1,5 +1,4 @@
-Palaeostomocystis pachytheca Cookson & Eisenack, 1971 SPECIES
-=======
+# Palaeostomocystis pachytheca Cookson & Eisenack, 1971 SPECIES
 
 #### Status
 ACCEPTED

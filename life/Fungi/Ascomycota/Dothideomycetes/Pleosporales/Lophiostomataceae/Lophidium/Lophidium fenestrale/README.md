@@ -1,5 +1,4 @@
-Lophidium fenestrale (Cooke & Ellis) Sacc. SPECIES
-=======
+# Lophidium fenestrale (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria rubrocincta Breuss SPECIES
-=======
+# Verrucaria rubrocincta Breuss SPECIES
 
 #### Status
 ACCEPTED

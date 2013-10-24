@@ -1,5 +1,4 @@
-Staurothele oenipontana Beschel SPECIES
-=======
+# Staurothele oenipontana Beschel SPECIES
 
 #### Status
 ACCEPTED

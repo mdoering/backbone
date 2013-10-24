@@ -1,5 +1,4 @@
-Aecidium cleomes Ellis & H.W. Anderson SPECIES
-=======
+# Aecidium cleomes Ellis & H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

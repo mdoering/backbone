@@ -1,5 +1,4 @@
-Higumastra Baumgartner, 1980 GENUS
-=======
+# Higumastra Baumgartner, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria polemonii Thüm., 1880 SPECIES
-=======
+# Septoria polemonii Thüm., 1880 SPECIES
 
 #### Status
 ACCEPTED

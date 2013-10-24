@@ -1,5 +1,4 @@
-Sphaeridium cubonianum Sacc. SPECIES
-=======
+# Sphaeridium cubonianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

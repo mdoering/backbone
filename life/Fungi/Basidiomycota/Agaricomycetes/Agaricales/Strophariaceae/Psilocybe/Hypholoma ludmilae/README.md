@@ -1,5 +1,4 @@
-Hypholoma ludmilae Velen. SPECIES
-=======
+# Hypholoma ludmilae Velen. SPECIES
 
 #### Status
 ACCEPTED

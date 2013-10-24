@@ -1,5 +1,4 @@
-Ascochyta festucae Punith., 1979 SPECIES
-=======
+# Ascochyta festucae Punith., 1979 SPECIES
 
 #### Status
 ACCEPTED

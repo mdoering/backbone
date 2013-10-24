@@ -1,5 +1,4 @@
-Mycena subglutinosa Singer SPECIES
-=======
+# Mycena subglutinosa Singer SPECIES
 
 #### Status
 ACCEPTED

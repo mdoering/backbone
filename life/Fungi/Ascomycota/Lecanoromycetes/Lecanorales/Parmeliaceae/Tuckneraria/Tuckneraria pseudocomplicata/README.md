@@ -1,14 +1,13 @@
-Nephromopsis pseudocomplicata (Asahina) M.J. Lai SPECIES
-=======
+# Tuckneraria pseudocomplicata (Asahina) Randlane & Saag SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Quarterly Journal of the Taiwan Museum 33(3 & 4): 224 (1980)
+in Randlane, Saag, Thell & Kärnefelt, Acta bot. fenn. 150: 150 (1994)
 
 #### Original name
 Cetraria pseudocomplicata Asahina

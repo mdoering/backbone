@@ -1,5 +1,4 @@
-Eubacterium angustum Beuscher & Andreesen, 1985 SPECIES
-=======
+# Eubacterium angustum Beuscher & Andreesen, 1985 SPECIES
 
 #### Status
 ACCEPTED

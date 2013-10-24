@@ -1,5 +1,4 @@
-Cercosporina cichorii (Davis) Sacc. SPECIES
-=======
+# Cercosporina cichorii (Davis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

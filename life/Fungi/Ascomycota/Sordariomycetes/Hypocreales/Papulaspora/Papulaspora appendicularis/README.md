@@ -1,5 +1,4 @@
-Papulaspora appendicularis H.H. Hotson, 1942 SPECIES
-=======
+# Papulaspora appendicularis H.H. Hotson, 1942 SPECIES
 
 #### Status
 ACCEPTED

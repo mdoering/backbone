@@ -1,5 +1,4 @@
-Thalassophysidae FAMILY
-=======
+# Thalassophysidae FAMILY
 
 #### Status
 ACCEPTED

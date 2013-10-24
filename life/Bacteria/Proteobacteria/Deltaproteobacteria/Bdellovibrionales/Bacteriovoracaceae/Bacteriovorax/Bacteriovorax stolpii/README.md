@@ -1,8 +1,7 @@
-Bdellovibrio stolpii Seidler et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Bacteriovorax stolpii (Seidler et al., 1972) Baer et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

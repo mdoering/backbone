@@ -1,5 +1,4 @@
-Arthonia puiggarii Müll. Arg. SPECIES
-=======
+# Arthonia puiggarii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

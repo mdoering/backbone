@@ -1,5 +1,4 @@
-Campanulospora rubi Salazar-Yepes, Pardo-Card. & Buriticá SPECIES
-=======
+# Campanulospora rubi Salazar-Yepes, Pardo-Card. & Buriticá SPECIES
 
 #### Status
 ACCEPTED

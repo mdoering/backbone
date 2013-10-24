@@ -1,5 +1,4 @@
-Phyllachora eugeniae Thüm. ex Cooke, 1885 SPECIES
-=======
+# Phyllachora eugeniae Thüm. ex Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

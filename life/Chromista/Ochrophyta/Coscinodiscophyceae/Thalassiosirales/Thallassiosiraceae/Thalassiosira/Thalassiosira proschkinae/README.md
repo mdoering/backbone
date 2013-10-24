@@ -1,8 +1,7 @@
-Thalassiosira proschkinae var. spinulata (Takano) Makarova VARIETY
-=======
+# Thalassiosira proschkinae Makarova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

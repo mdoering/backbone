@@ -1,5 +1,4 @@
-Amoebosporus Ivimey Cook GENUS
-=======
+# Amoebosporus Ivimey Cook GENUS
 
 #### Status
 ACCEPTED

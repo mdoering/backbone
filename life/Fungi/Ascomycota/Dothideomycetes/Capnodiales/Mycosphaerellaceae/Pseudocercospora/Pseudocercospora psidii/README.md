@@ -1,14 +1,13 @@
-Cercospora psidii Rangel, 1915 SPECIES
-=======
+# Pseudocercospora psidii (Rangel) R.F. Castañeda & U. Braun, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bol. Agr. Sao Paulo, Ser. 1 64(4): 324 (1915)
+Cryptog. bot. 1(1): 52 (1989)
 
 #### Original name
 Cercospora psidii Rangel, 1915

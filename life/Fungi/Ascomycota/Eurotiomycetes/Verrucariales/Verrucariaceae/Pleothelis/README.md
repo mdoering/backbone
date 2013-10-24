@@ -1,5 +1,4 @@
-Pleothelis GENUS
-=======
+# Pleothelis GENUS
 
 #### Status
 ACCEPTED

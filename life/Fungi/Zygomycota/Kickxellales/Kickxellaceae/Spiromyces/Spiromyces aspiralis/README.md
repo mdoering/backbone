@@ -1,5 +1,4 @@
-Spiromyces aspiralis Benny & R.K. Benj., 1998 SPECIES
-=======
+# Spiromyces aspiralis Benny & R.K. Benj., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca lanigeri (Magnus) Maire SPECIES
-=======
+# Sphacelotheca lanigeri (Magnus) Maire SPECIES
 
 #### Status
 ACCEPTED

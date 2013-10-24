@@ -1,14 +1,13 @@
-Pseudophacidium salicis Feltgen, 1903 SPECIES
-=======
+# Pyrenopeziza salicis (Feltgen) Nannf., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vorstud Pilzfl. Luxemb. , Nachtr. III 97 (1903)
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 48(2): 160 (1932)
 
 #### Original name
 Pseudophacidium salicis Feltgen, 1903

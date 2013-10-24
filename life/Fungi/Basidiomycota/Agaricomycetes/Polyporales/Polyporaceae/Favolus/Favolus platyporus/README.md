@@ -1,5 +1,4 @@
-Favolus platyporus Berk. & M.A. Curtis SPECIES
-=======
+# Favolus platyporus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

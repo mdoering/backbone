@@ -1,5 +1,4 @@
-Auroriidae Loeblich & Tappan, 1986 FAMILY
-=======
+# Auroriidae Loeblich & Tappan, 1986 FAMILY
 
 #### Status
 ACCEPTED

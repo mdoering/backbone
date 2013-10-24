@@ -1,5 +1,4 @@
-Dermatocarpon deminuens Vain. SPECIES
-=======
+# Dermatocarpon deminuens Vain. SPECIES
 
 #### Status
 ACCEPTED

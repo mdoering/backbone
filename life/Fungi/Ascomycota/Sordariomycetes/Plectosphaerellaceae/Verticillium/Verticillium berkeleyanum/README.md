@@ -1,5 +1,4 @@
-Verticillium berkeleyanum P. Karst. SPECIES
-=======
+# Verticillium berkeleyanum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

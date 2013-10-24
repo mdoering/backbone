@@ -1,5 +1,4 @@
-Botryobasidium chilense Hol.-Jech., 1980 SPECIES
-=======
+# Botryobasidium chilense Hol.-Jech., 1980 SPECIES
 
 #### Status
 ACCEPTED

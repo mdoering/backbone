@@ -1,5 +1,4 @@
-Hebeloma bryogenes Vesterh. SPECIES
-=======
+# Hebeloma bryogenes Vesterh. SPECIES
 
 #### Status
 ACCEPTED

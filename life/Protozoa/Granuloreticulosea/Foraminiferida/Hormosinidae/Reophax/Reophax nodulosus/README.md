@@ -1,11 +1,10 @@
-Pseudonodosinella nodulosa (Brady, 1879) SPECIES
-=======
+# Reophax nodulosus Brady, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

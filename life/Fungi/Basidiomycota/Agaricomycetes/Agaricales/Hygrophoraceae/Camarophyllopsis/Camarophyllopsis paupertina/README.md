@@ -1,14 +1,13 @@
-Hygrotrama paupertinum (A.H. Sm. & Hesler) Singer, 1973 SPECIES
-=======
+# Camarophyllopsis paupertina (A.H. Sm. & Hesler) Boertm., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 192: 75 (2002)
 
 #### Original name
 Hygrophorus paupertinus A.H. Sm. & Hesler, 1942

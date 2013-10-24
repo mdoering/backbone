@@ -1,5 +1,4 @@
-Mycena nidificata Har. Takah. SPECIES
-=======
+# Mycena nidificata Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

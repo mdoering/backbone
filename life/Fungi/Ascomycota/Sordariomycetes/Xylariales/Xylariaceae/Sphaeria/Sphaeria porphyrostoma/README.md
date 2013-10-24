@@ -1,5 +1,4 @@
-Sphaeria porphyrostoma Kunze SPECIES
-=======
+# Sphaeria porphyrostoma Kunze SPECIES
 
 #### Status
 ACCEPTED

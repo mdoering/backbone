@@ -1,5 +1,4 @@
-Caloplaca leucoxantha (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca leucoxantha (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

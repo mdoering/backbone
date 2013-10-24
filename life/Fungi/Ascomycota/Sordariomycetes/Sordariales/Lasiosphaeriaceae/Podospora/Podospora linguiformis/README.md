@@ -1,5 +1,4 @@
-Podospora linguiformis (Cain) Cain SPECIES
-=======
+# Podospora linguiformis (Cain) Cain SPECIES
 
 #### Status
 ACCEPTED

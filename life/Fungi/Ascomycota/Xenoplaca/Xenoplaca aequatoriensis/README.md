@@ -1,5 +1,4 @@
-Xenoplaca aequatoriensis Petr., 1949 SPECIES
-=======
+# Xenoplaca aequatoriensis Petr., 1949 SPECIES
 
 #### Status
 ACCEPTED

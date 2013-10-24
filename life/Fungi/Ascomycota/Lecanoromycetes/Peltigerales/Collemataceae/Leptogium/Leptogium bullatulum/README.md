@@ -1,5 +1,4 @@
-Leptogium bullatulum Müll. Arg. SPECIES
-=======
+# Leptogium bullatulum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

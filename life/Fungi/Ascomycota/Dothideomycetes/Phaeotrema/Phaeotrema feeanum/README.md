@@ -1,14 +1,13 @@
-Antrocarpon feeanum A. Massal., 1856 SPECIES
-=======
+# Phaeotrema feeanum (A. Massal.) Zahlbr., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Memor. Lichenogr. 36 (1856)
+Cat. Lich. Univers. 2: 607 (1923)
 
 #### Original name
 Antrocarpon feeanum A. Massal., 1856

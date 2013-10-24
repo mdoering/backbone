@@ -1,5 +1,4 @@
-Coprinus vellereus Berk. SPECIES
-=======
+# Coprinus vellereus Berk. SPECIES
 
 #### Status
 ACCEPTED

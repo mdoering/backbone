@@ -1,5 +1,4 @@
-Psorothecium ophthalmocarpum f. ophthalmocarpum FORM
-=======
+# Psorothecium ophthalmocarpum (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psorothecium ophthalmocarpum f. ophthalmocarpum
+Catillaria ophthalmocarpa Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascocoryne javanica (Penz. & Sacc.) K.S. Thind & H. Singh SPECIES
-=======
+# Ascocoryne javanica (Penz. & Sacc.) K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

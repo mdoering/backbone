@@ -1,5 +1,4 @@
-Vanderwaltia alma-atensis Zubcova & Lukasheva SPECIES
-=======
+# Vanderwaltia alma-atensis Zubcova & Lukasheva SPECIES
 
 #### Status
 ACCEPTED

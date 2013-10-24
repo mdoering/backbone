@@ -1,5 +1,4 @@
-Mycorrhaphium citrinum Ryvarden SPECIES
-=======
+# Mycorrhaphium citrinum Ryvarden SPECIES
 
 #### Status
 ACCEPTED

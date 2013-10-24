@@ -1,5 +1,4 @@
-Diplodia gali Gucevic SPECIES
-=======
+# Diplodia gali Gucevic SPECIES
 
 #### Status
 ACCEPTED

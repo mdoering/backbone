@@ -1,5 +1,4 @@
-Lecanidion submacrosporum (Rehm) Sacc. & Trotter SPECIES
-=======
+# Lecanidion submacrosporum (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

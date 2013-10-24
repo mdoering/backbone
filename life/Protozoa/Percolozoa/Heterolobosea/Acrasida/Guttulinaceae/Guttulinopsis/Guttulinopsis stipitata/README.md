@@ -1,5 +1,4 @@
-Guttulinopsis stipitata Olive SPECIES
-=======
+# Guttulinopsis stipitata Olive SPECIES
 
 #### Status
 ACCEPTED

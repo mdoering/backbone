@@ -1,5 +1,4 @@
-Dictyostelium firmibase H. Hagiw., 1971 SPECIES
-=======
+# Dictyostelium firmibase H. Hagiw., 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon corallina Hoffm. SPECIES
-=======
+# Stereocaulon corallina Hoffm. SPECIES
 
 #### Status
 ACCEPTED

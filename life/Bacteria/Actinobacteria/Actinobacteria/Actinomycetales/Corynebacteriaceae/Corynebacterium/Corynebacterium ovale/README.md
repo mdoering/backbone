@@ -1,5 +1,4 @@
-Corynebacterium ovale SPECIES
-=======
+# Corynebacterium ovale SPECIES
 
 #### Status
 ACCEPTED

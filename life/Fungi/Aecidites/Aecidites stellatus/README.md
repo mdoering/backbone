@@ -1,5 +1,4 @@
-Aecidites stellatus (Debey & Ettingsh.) Mesch. SPECIES
-=======
+# Aecidites stellatus (Debey & Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypoderma podocarpi Butin, 1970 SPECIES
-=======
+# Bivallum podocarpi (Butin) P.R. Johnst., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopath. Z. 68: 69 (1970)
+Aust. Syst. Bot. 4(2): 369 (1991)
 
 #### Original name
 Hypoderma podocarpi Butin, 1970

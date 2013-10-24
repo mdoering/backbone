@@ -1,5 +1,4 @@
-Cortinarius sociatus Rob. Henry SPECIES
-=======
+# Cortinarius sociatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

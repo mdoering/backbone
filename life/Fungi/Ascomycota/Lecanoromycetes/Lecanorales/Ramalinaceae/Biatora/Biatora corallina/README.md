@@ -1,5 +1,4 @@
-Biatora corallina (Eschw.) Hook. & Taylor SPECIES
-=======
+# Biatora corallina (Eschw.) Hook. & Taylor SPECIES
 
 #### Status
 ACCEPTED

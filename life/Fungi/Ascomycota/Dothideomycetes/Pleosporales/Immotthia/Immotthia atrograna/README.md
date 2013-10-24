@@ -1,14 +1,13 @@
-Gibbera atrograna (Cooke & Ellis) Sivan., 1975 SPECIES
-=======
+# Immotthia atrograna (Cooke & Ellis) M.E. Barr, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 65(3): 396 (1975)
+Mycotaxon 46: 71 (1993)
 
 #### Original name
 Sphaeria atrograna Cooke & Ellis, 1879

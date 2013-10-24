@@ -1,5 +1,4 @@
-Pertusaria limescens Zahlbr. SPECIES
-=======
+# Pertusaria limescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

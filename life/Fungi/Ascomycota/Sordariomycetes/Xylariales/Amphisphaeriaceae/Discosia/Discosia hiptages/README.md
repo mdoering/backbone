@@ -1,5 +1,4 @@
-Discosia hiptages Tilak SPECIES
-=======
+# Discosia hiptages Tilak SPECIES
 
 #### Status
 ACCEPTED

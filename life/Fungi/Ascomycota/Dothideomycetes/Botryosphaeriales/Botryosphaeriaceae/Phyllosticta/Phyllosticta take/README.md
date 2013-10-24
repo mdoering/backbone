@@ -1,5 +1,4 @@
-Phyllosticta take I. Miyake & Hara SPECIES
-=======
+# Phyllosticta take I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

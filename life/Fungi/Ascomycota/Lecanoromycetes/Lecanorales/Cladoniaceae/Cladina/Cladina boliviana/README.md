@@ -1,5 +1,4 @@
-Cladina boliviana (Ahti) Ahti SPECIES
-=======
+# Cladina boliviana (Ahti) Ahti SPECIES
 
 #### Status
 ACCEPTED

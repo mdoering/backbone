@@ -1,5 +1,4 @@
-Stylosphaerissa Haeckel, 1887 GENUS
-=======
+# Stylosphaerissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

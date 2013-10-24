@@ -1,5 +1,4 @@
-Gymnopus neotropicus (Singer) J.L. Mata SPECIES
-=======
+# Gymnopus neotropicus (Singer) J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

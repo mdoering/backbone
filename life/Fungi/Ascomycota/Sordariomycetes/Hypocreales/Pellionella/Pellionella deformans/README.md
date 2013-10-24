@@ -1,5 +1,4 @@
-Pellionella deformans Penz. & Sacc., 1902 SPECIES
-=======
+# Pellionella deformans Penz. & Sacc., 1902 SPECIES
 
 #### Status
 ACCEPTED

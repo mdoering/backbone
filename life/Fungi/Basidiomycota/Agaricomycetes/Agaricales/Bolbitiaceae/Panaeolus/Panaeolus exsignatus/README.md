@@ -1,5 +1,4 @@
-Panaeolus exsignatus (Britzelm.) Lapl. SPECIES
-=======
+# Panaeolus exsignatus (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

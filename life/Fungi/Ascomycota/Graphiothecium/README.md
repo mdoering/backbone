@@ -1,17 +1,16 @@
-Fresenia Fuckel GENUS
-=======
+# Graphiothecium Fuckel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 5: 25 (1866)
+Jb. nassau. Ver. Naturk. 23-24: 366 (1870)
 
 #### Original name
-Fresenia Fuckel
+Graphiothecium Fuckel
 
 ### Remarks
 null

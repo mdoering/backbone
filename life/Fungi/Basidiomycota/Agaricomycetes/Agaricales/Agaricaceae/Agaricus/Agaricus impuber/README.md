@@ -1,5 +1,4 @@
-Agaricus impuber Batsch SPECIES
-=======
+# Agaricus impuber Batsch SPECIES
 
 #### Status
 ACCEPTED

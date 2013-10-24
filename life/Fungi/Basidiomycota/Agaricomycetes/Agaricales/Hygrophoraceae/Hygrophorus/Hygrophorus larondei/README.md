@@ -1,5 +1,4 @@
-Hygrophorus larondei Bourdot SPECIES
-=======
+# Hygrophorus larondei Bourdot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerulina acori Dearn. & House SPECIES
-=======
+# Sphaerulina acori Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

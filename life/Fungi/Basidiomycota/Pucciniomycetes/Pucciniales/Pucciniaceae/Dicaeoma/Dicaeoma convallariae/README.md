@@ -1,5 +1,4 @@
-Dicaeoma convallariae (Schumach.) Kuntze SPECIES
-=======
+# Dicaeoma convallariae (Schumach.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

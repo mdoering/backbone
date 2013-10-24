@@ -1,5 +1,4 @@
-Xerocomus yunnanensis (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Xerocomus yunnanensis (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

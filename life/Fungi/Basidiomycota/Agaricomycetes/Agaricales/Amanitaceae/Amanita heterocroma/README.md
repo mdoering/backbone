@@ -1,5 +1,4 @@
-Amanita heterocroma S. Curreli SPECIES
-=======
+# Amanita heterocroma S. Curreli SPECIES
 
 #### Status
 ACCEPTED

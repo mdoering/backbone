@@ -1,5 +1,4 @@
-Rosellinia weiriana Sacc. SPECIES
-=======
+# Rosellinia weiriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

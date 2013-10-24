@@ -1,5 +1,4 @@
-Agaricus eumorphus Pers. SPECIES
-=======
+# Agaricus eumorphus Pers. SPECIES
 
 #### Status
 ACCEPTED

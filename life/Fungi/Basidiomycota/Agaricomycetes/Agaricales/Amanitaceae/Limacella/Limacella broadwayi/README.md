@@ -1,5 +1,4 @@
-Limacella broadwayi (Murrill) H.V. Sm. SPECIES
-=======
+# Limacella broadwayi (Murrill) H.V. Sm. SPECIES
 
 #### Status
 ACCEPTED

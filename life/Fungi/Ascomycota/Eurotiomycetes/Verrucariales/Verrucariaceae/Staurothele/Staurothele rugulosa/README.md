@@ -1,14 +1,13 @@
-Polyblastia rugulosa A. Massal. SPECIES
-=======
+# Staurothele rugulosa (A. Massal.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Memor. Lichenogr. 139 (1853)
+Verh. zool. -bot. Ges. Wein 47: 389 (1897)
 
 #### Original name
 Polyblastia rugulosa A. Massal.

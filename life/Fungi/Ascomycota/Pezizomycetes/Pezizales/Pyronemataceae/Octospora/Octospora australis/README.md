@@ -1,5 +1,4 @@
-Octospora australis Cooke SPECIES
-=======
+# Octospora australis Cooke SPECIES
 
 #### Status
 ACCEPTED

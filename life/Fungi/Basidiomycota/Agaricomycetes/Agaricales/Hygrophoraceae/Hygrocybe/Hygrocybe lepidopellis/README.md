@@ -1,5 +1,4 @@
-Hygrocybe lepidopellis Pegler SPECIES
-=======
+# Hygrocybe lepidopellis Pegler SPECIES
 
 #### Status
 ACCEPTED

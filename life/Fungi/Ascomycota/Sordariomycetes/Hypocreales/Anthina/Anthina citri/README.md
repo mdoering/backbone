@@ -1,5 +1,4 @@
-Anthina citri Sawada SPECIES
-=======
+# Anthina citri Sawada SPECIES
 
 #### Status
 ACCEPTED

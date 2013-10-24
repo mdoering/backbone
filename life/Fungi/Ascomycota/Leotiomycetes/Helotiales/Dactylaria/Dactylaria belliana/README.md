@@ -1,5 +1,4 @@
-Dactylaria belliana B.C. Paulus, Gadek & K.D. Hyde SPECIES
-=======
+# Dactylaria belliana B.C. Paulus, Gadek & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

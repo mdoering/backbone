@@ -1,5 +1,4 @@
-Pluteus abnormalis Velen. SPECIES
-=======
+# Pluteus abnormalis Velen. SPECIES
 
 #### Status
 ACCEPTED

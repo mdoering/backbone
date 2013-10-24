@@ -1,5 +1,4 @@
-Rozella rhizophlycti Karling, 1942 SPECIES
-=======
+# Rozella rhizophlycti Karling, 1942 SPECIES
 
 #### Status
 ACCEPTED

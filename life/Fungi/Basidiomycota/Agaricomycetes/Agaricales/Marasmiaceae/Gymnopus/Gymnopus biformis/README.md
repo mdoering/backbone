@@ -1,5 +1,4 @@
-Gymnopus biformis (Peck) Halling SPECIES
-=======
+# Gymnopus biformis (Peck) Halling SPECIES
 
 #### Status
 ACCEPTED

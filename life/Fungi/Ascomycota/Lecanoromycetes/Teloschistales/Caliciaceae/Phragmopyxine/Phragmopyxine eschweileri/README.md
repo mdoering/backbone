@@ -1,5 +1,4 @@
-Phragmopyxine eschweileri (Tuck.) Clem. SPECIES
-=======
+# Phragmopyxine eschweileri (Tuck.) Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrodictys dennisii M.B. Ellis SPECIES
-=======
+# Acrodictys dennisii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

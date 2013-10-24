@@ -1,14 +1,13 @@
-Podoscypha alutacea Bres., 1916 SPECIES
-=======
+# Pseudocraterellus alutaceus (Bres.) D.A. Reid, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sydow, Engler's Bot. Jahrb. , Biebl. 54: 251 (1916)
+Persoonia 2(2): 120 (1962)
 
 #### Original name
 Podoscypha alutacea Bres., 1916

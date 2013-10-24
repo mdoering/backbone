@@ -1,5 +1,4 @@
-Triplanospongos Sashida & Tonishi, 1988 GENUS
-=======
+# Triplanospongos Sashida & Tonishi, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Septobasidium stevensoni Couch SPECIES
-=======
+# Septobasidium stevensonii Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lankesteriana 4(1): 93 (2004)
 
 #### Original name
-Septobasidium stevensoni Couch
+Septobasidium stevensonii Couch ex L.D. Gómez & Henk
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microglaena areolata D.D. Awasthi & Kr.P. Singh SPECIES
-=======
+# Microglaena areolata D.D. Awasthi & Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

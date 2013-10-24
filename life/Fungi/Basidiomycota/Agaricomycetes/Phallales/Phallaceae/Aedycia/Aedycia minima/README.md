@@ -1,5 +1,4 @@
-Aedycia minima (Pat.) Kuntze SPECIES
-=======
+# Aedycia minima (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

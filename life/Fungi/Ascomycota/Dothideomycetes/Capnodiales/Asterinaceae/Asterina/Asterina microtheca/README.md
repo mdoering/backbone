@@ -1,5 +1,4 @@
-Asterina microtheca Pat. SPECIES
-=======
+# Asterina microtheca Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pestalotiopsis photiniae (Thüm.) Y.X. Chen, 1993 SPECIES
-=======
+# Pestalotia photiniae Thüm., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Chen & Wei, Journal of Guangxi Agricultural University 12(1): 32 (1993)
+null
 
 #### Original name
 Pestalotia photiniae Thüm., 1881

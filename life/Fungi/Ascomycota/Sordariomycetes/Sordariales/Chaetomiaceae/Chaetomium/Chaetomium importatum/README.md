@@ -1,5 +1,4 @@
-Chaetomium importatum Henn. SPECIES
-=======
+# Chaetomium importatum Henn. SPECIES
 
 #### Status
 ACCEPTED

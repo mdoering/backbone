@@ -1,14 +1,13 @@
-Tuburcinia corsica (Mayor & Terrier) Guyot & Massenot, 1969 SPECIES
-=======
+# Urocystis corsica (Mayor & Terrier) Vánky, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Guyot, Malençon & Massenot, Revue mycol. , Toulouse 34(2-3): 211 (1969)
+Publications from the Herbarium, University of Uppsala, Sweden 9: 12 (1982)
 
 #### Original name
 Sorosporium corsicum Mayor & Terrier, 1959

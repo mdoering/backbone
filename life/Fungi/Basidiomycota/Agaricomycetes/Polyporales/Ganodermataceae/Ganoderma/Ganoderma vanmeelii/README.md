@@ -1,5 +1,4 @@
-Ganoderma vanmeelii Steyaert SPECIES
-=======
+# Ganoderma vanmeelii Steyaert SPECIES
 
 #### Status
 ACCEPTED

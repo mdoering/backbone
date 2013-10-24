@@ -1,5 +1,4 @@
-Arthopyrenia holsatica Erichsen SPECIES
-=======
+# Arthopyrenia holsatica Erichsen SPECIES
 
 #### Status
 ACCEPTED

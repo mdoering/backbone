@@ -1,5 +1,4 @@
-Stropharia staudtiana Henn. SPECIES
-=======
+# Stropharia staudtiana Henn. SPECIES
 
 #### Status
 ACCEPTED

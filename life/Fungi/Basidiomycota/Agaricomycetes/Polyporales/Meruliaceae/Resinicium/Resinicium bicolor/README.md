@@ -1,14 +1,13 @@
-Odontia bicolor (Alb. & Schwein.) Quél., 1886 SPECIES
-=======
+# Resinicium bicolor (Alb. & Schwein.) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 195 (1886)
+Consp. System. Corticiac. (Tartu) 98 (1968)
 
 #### Original name
 Hydnum bicolor Alb. & Schwein., 1805

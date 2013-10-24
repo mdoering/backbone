@@ -1,5 +1,4 @@
-Peziza harmoge Berk. & Broome SPECIES
-=======
+# Peziza harmoge Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

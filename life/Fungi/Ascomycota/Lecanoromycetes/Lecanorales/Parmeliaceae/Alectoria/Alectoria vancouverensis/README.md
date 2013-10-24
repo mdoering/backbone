@@ -1,5 +1,4 @@
-Alectoria vancouverensis (Gyeln.) Gyeln. ex Brodo & D. Hawksw. SPECIES
-=======
+# Alectoria vancouverensis (Gyeln.) Gyeln. ex Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

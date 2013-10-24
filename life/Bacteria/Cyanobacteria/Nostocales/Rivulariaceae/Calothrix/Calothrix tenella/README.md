@@ -1,5 +1,4 @@
-Calothrix tenella Gardner SPECIES
-=======
+# Calothrix tenella Gardner SPECIES
 
 #### Status
 ACCEPTED

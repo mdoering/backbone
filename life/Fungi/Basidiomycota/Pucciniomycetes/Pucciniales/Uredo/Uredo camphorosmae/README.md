@@ -1,5 +1,4 @@
-Uredo camphorosmae Castagne SPECIES
-=======
+# Uredo camphorosmae Castagne SPECIES
 
 #### Status
 ACCEPTED

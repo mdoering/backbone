@@ -1,5 +1,4 @@
-Anthostomella cocoina Syd. & P. Syd. SPECIES
-=======
+# Anthostomella cocoina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Trochammina karica Shchedrina, 1946 SPECIES
-=======
+# Portatrochammina karica (Shchedrina, 1946) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

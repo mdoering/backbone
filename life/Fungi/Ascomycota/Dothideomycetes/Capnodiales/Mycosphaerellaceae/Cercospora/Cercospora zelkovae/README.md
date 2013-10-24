@@ -1,5 +1,4 @@
-Cercospora zelkovae Nambu SPECIES
-=======
+# Cercospora zelkovae Nambu SPECIES
 
 #### Status
 ACCEPTED

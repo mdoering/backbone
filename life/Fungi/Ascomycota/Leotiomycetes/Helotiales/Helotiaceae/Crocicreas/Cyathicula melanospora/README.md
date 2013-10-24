@@ -1,5 +1,4 @@
-Cyathicula melanospora (Rehm) Chlebická & Chleb. SPECIES
-=======
+# Cyathicula melanospora (Rehm) Chlebická & Chleb. SPECIES
 
 #### Status
 ACCEPTED

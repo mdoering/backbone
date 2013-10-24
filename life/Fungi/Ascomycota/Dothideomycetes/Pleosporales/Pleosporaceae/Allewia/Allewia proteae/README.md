@@ -1,17 +1,16 @@
-Embellisia proteae E.G. Simmons, 1990 SPECIES
-=======
+# Allewia proteae E.G. Simmons, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 38: 258 (1990)
+Mycotaxon 38: 262 (1990)
 
 #### Original name
-Embellisia proteae E.G. Simmons, 1990
+Allewia proteae E.G. Simmons, 1990
 
 ### Remarks
 null

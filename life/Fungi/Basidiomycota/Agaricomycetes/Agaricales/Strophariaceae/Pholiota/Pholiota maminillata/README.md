@@ -1,5 +1,4 @@
-Pholiota maminillata SPECIES
-=======
+# Pholiota maminillata SPECIES
 
 #### Status
 ACCEPTED

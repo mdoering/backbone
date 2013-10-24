@@ -1,5 +1,4 @@
-Cortinarius calyptratroides Fillion & Moënne-Locc. SPECIES
-=======
+# Cortinarius calyptratroides Fillion & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

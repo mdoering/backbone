@@ -1,5 +1,4 @@
-Sterigmatocystis fulva (Mont.) Sacc. SPECIES
-=======
+# Sterigmatocystis fulva (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

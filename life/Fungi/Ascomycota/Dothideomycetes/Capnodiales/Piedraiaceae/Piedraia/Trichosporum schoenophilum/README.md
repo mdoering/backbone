@@ -1,5 +1,4 @@
-Trichosporum schoenophilum (Durieu & Mont.) Sacc. SPECIES
-=======
+# Trichosporum schoenophilum (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

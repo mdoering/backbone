@@ -1,5 +1,4 @@
-Helminthosporium ahmadii M.B. Ellis SPECIES
-=======
+# Helminthosporium ahmadii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

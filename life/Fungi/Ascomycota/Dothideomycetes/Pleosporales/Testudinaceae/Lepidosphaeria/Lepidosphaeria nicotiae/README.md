@@ -1,14 +1,13 @@
-Zopfia nicotiae (Parg.-Leduc) D. Hawksw. & C. Booth, 1974 SPECIES
-=======
+# Lepidosphaeria nicotiae Parg.-Leduc, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 135: 21 (1974)
+Pubbl. Staz. Zool. Napoli, 1 270: 2786 (1970)
 
 #### Original name
 Lepidosphaeria nicotiae Parg.-Leduc, 1970

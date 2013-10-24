@@ -1,5 +1,4 @@
-Gymnopus lentinoides (Peck) Murrill SPECIES
-=======
+# Gymnopus lentinoides (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

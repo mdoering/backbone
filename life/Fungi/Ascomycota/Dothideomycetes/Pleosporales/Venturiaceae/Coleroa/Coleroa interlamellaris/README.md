@@ -1,5 +1,4 @@
-Coleroa interlamellaris Racov. SPECIES
-=======
+# Coleroa interlamellaris Racov. SPECIES
 
 #### Status
 ACCEPTED

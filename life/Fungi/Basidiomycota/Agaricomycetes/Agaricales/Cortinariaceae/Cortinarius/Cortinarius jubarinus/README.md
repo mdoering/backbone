@@ -1,5 +1,4 @@
-Cortinarius jubarinus Fr. SPECIES
-=======
+# Cortinarius jubarinus Fr. SPECIES
 
 #### Status
 ACCEPTED

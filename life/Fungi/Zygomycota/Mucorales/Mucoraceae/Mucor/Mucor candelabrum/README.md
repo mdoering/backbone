@@ -1,5 +1,4 @@
-Mucor candelabrum (Corda) Berl. & De Toni SPECIES
-=======
+# Mucor candelabrum (Corda) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

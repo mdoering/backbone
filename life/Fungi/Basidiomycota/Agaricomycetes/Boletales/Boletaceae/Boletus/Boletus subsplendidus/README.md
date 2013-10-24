@@ -1,5 +1,4 @@
-Boletus subsplendidus W.F. Chiu SPECIES
-=======
+# Boletus subsplendidus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

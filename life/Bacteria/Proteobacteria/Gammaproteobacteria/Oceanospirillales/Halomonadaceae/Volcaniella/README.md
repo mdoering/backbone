@@ -1,5 +1,4 @@
-Volcaniella Quesada et al., 1990 GENUS
-=======
+# Volcaniella Quesada et al., 1990 GENUS
 
 #### Status
 ACCEPTED

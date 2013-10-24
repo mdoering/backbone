@@ -1,5 +1,4 @@
-Actinochaete arachnoidea Ferro SPECIES
-=======
+# Actinochaete arachnoidea Ferro SPECIES
 
 #### Status
 ACCEPTED

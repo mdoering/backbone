@@ -1,5 +1,4 @@
-Verrucaria atroviridis Servít ex J. Nowak & Tobol. SPECIES
-=======
+# Verrucaria atroviridis Servít ex J. Nowak & Tobol. SPECIES
 
 #### Status
 ACCEPTED

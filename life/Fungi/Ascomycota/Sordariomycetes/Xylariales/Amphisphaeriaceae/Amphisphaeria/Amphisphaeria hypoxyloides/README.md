@@ -1,5 +1,4 @@
-Amphisphaeria hypoxyloides Henn. SPECIES
-=======
+# Amphisphaeria hypoxyloides Henn. SPECIES
 
 #### Status
 ACCEPTED

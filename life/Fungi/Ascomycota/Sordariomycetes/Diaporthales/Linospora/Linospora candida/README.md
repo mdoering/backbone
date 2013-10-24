@@ -1,5 +1,4 @@
-Linospora candida Fuckel SPECIES
-=======
+# Linospora candida Fuckel SPECIES
 
 #### Status
 ACCEPTED

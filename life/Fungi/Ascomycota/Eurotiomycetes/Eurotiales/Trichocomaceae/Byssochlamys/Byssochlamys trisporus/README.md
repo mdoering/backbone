@@ -1,5 +1,4 @@
-Byssochlamys trisporus (Hotson) Cain SPECIES
-=======
+# Byssochlamys trisporus (Hotson) Cain SPECIES
 
 #### Status
 ACCEPTED

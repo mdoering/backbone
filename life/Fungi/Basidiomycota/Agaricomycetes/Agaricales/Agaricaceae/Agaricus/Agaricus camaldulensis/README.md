@@ -1,5 +1,4 @@
-Agaricus camaldulensis V. Brig. SPECIES
-=======
+# Agaricus camaldulensis V. Brig. SPECIES
 
 #### Status
 ACCEPTED

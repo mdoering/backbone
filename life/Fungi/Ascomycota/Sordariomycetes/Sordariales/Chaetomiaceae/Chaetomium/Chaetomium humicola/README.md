@@ -1,5 +1,4 @@
-Chaetomium humicola Van Warmelo SPECIES
-=======
+# Chaetomium humicola Van Warmelo SPECIES
 
 #### Status
 ACCEPTED

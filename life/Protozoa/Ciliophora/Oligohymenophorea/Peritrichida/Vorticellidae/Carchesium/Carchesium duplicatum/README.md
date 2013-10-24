@@ -1,5 +1,4 @@
-Carchesium duplicatum Precht, 1935 SPECIES
-=======
+# Carchesium duplicatum Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

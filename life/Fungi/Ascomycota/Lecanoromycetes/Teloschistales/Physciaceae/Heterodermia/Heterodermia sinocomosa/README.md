@@ -1,5 +1,4 @@
-Heterodermia sinocomosa J.B. Chen SPECIES
-=======
+# Heterodermia sinocomosa J.B. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia buxi Vezda & Vivant SPECIES
-=======
+# Bacidia buxi Vezda & Vivant SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinodiscus aralensis Ostenfeld SPECIES
-=======
+# Coscinodiscus aralensis Ostenfeld SPECIES
 
 #### Status
 ACCEPTED

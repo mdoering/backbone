@@ -1,5 +1,4 @@
-Oropogon colibor Essl. SPECIES
-=======
+# Oropogon colibor Essl. SPECIES
 
 #### Status
 ACCEPTED

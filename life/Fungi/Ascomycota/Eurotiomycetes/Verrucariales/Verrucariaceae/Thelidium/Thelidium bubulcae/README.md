@@ -1,5 +1,4 @@
-Thelidium bubulcae (A. Massal.) Arnold SPECIES
-=======
+# Thelidium bubulcae (A. Massal.) Arnold SPECIES
 
 #### Status
 ACCEPTED

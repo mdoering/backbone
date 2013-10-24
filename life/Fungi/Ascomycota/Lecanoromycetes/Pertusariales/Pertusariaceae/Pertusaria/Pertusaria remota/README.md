@@ -1,5 +1,4 @@
-Pertusaria remota A.W. Archer SPECIES
-=======
+# Pertusaria remota A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

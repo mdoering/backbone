@@ -1,5 +1,4 @@
-Lecidea hereroënsis SPECIES
-=======
+# Lecidea hereroënsis SPECIES
 
 #### Status
 ACCEPTED

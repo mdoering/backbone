@@ -1,5 +1,4 @@
-Meliola bauhiniae H.S. Yates SPECIES
-=======
+# Meliola bauhiniae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

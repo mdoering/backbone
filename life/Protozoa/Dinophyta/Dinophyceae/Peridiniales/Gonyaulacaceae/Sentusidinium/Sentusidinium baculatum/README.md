@@ -1,5 +1,4 @@
-Sentusidinium baculatum (L. Dodekova) W.A.S. Sarjeant & L.E. Stover SPECIES
-=======
+# Sentusidinium baculatum (L. Dodekova) W.A.S. Sarjeant & L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

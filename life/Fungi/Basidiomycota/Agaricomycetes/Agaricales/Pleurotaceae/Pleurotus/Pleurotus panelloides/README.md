@@ -1,5 +1,4 @@
-Pleurotus panelloides Dennis SPECIES
-=======
+# Pleurotus panelloides Dennis SPECIES
 
 #### Status
 ACCEPTED

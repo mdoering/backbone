@@ -1,5 +1,4 @@
-Dasyscyphus subochracea (Cooke & Peck) K.S. Thind & Singh {?} SPECIES
-=======
+# Dasyscyphus subochracea (Cooke & Peck) K.S. Thind & Singh {?} SPECIES
 
 #### Status
 ACCEPTED

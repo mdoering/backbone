@@ -1,5 +1,4 @@
-Mycosphaerella taediosa (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella taediosa (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

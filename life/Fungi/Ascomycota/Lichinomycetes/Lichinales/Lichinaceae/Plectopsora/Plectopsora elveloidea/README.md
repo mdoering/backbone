@@ -1,5 +1,4 @@
-Plectopsora elveloidea (Ach.) Körb. SPECIES
-=======
+# Plectopsora elveloidea (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

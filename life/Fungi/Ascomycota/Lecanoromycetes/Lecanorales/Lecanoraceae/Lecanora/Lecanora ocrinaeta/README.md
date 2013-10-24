@@ -1,5 +1,4 @@
-Lecanora ocrinaeta Ach. SPECIES
-=======
+# Lecanora ocrinaeta Ach. SPECIES
 
 #### Status
 ACCEPTED

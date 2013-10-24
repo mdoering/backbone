@@ -1,5 +1,4 @@
-Prunulus trojanus Murrill SPECIES
-=======
+# Prunulus trojanus Murrill SPECIES
 
 #### Status
 ACCEPTED

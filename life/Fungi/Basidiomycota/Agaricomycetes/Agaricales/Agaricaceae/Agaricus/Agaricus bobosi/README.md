@@ -1,5 +1,4 @@
-Agaricus bobosi Bohus SPECIES
-=======
+# Agaricus bobosi Bohus SPECIES
 
 #### Status
 ACCEPTED

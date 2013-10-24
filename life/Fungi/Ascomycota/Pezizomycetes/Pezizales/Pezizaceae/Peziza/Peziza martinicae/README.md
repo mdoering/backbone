@@ -1,5 +1,4 @@
-Peziza martinicae Van Vooren SPECIES
-=======
+# Peziza martinicae Van Vooren SPECIES
 
 #### Status
 ACCEPTED

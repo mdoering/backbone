@@ -1,5 +1,4 @@
-Patellaria tremellula Müll. Arg. SPECIES
-=======
+# Patellaria tremellula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

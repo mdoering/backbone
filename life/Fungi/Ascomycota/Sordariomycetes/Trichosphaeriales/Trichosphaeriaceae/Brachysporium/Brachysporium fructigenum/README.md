@@ -1,5 +1,4 @@
-Brachysporium fructigenum (Rabenh.) Sacc. SPECIES
-=======
+# Brachysporium fructigenum (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

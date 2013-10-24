@@ -1,14 +1,13 @@
-Coccomyces tjibodensis Racib. SPECIES
-=======
+# Biostictis tjibodensis (Racib.) Sherwood SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Parasit. Alg. Pilze Java's (Jakarta) 3: 19 (1900)
+Occ. Pap. Farlow Herb. Crypt. Bot. 15: 105 (1980)
 
 #### Original name
 Coccomyces tjibodensis Racib.

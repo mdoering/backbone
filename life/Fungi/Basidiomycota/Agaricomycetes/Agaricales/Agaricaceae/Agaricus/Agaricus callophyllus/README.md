@@ -1,5 +1,4 @@
-Agaricus callophyllus Pers. SPECIES
-=======
+# Agaricus callophyllus Pers. SPECIES
 
 #### Status
 ACCEPTED

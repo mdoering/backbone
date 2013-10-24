@@ -1,5 +1,4 @@
-Tricholoma xanthophyllum Corner SPECIES
-=======
+# Tricholoma xanthophyllum Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Callopisma suave Müll. Arg. SPECIES
-=======
+# Lecania suavis (Müll. Arg.) Mig. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 55: 472 (1872)
+Fl. Deutschl. , Abt. 2 12: 331 (1926)
 
 #### Original name
 Callopisma suave Müll. Arg.

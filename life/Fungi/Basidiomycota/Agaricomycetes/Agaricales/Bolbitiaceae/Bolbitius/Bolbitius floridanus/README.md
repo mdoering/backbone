@@ -1,5 +1,4 @@
-Bolbitius floridanus (Murrill) Watling SPECIES
-=======
+# Bolbitius floridanus (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

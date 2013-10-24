@@ -1,5 +1,4 @@
-Halosimplex carlsbadense Vreeland et al., 2003 SPECIES
-=======
+# Halosimplex carlsbadense Vreeland et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

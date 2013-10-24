@@ -1,5 +1,4 @@
-Stictis moelleriana Henn. SPECIES
-=======
+# Stictis moelleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

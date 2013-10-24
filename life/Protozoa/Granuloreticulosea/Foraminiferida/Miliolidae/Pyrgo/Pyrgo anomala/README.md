@@ -1,5 +1,4 @@
-Pyrgo anomala SPECIES
-=======
+# Pyrgo anomala SPECIES
 
 #### Status
 ACCEPTED

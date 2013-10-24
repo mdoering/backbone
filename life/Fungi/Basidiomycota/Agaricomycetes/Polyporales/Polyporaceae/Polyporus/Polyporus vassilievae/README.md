@@ -1,5 +1,4 @@
-Polyporus vassilievae Thorn SPECIES
-=======
+# Polyporus vassilievae Thorn SPECIES
 
 #### Status
 ACCEPTED

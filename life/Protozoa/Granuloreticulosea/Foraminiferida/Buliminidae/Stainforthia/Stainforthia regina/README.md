@@ -1,5 +1,4 @@
-Stainforthia regina Zhang, 1988 SPECIES
-=======
+# Stainforthia regina Zhang, 1988 SPECIES
 
 #### Status
 ACCEPTED

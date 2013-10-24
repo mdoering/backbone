@@ -1,5 +1,4 @@
-Cortinarius quidemolens Rob. Henry SPECIES
-=======
+# Cortinarius quidemolens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

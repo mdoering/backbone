@@ -1,5 +1,4 @@
-Cypheliopsis bolanderi (Tuck.) Vain. SPECIES
-=======
+# Cypheliopsis bolanderi (Tuck.) Vain. SPECIES
 
 #### Status
 ACCEPTED

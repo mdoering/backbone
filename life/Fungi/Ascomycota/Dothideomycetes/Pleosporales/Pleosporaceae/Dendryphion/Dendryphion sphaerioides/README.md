@@ -1,5 +1,4 @@
-Dendryphion sphaerioides Ellis & Everh. SPECIES
-=======
+# Dendryphion sphaerioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

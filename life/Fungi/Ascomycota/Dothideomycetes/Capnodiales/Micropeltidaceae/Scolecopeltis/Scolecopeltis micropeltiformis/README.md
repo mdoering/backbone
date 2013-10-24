@@ -1,5 +1,4 @@
-Scolecopeltis micropeltiformis Toro SPECIES
-=======
+# Scolecopeltis micropeltiformis Toro SPECIES
 
 #### Status
 ACCEPTED

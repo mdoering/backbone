@@ -1,5 +1,4 @@
-Arachnotheca Arx, 1971 GENUS
-=======
+# Arachnotheca Arx, 1971 GENUS
 
 #### Status
 ACCEPTED

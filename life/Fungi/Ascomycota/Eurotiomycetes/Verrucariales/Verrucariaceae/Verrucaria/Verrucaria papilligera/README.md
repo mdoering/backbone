@@ -1,5 +1,4 @@
-Verrucaria papilligera Kremp. SPECIES
-=======
+# Verrucaria papilligera Kremp. SPECIES
 
 #### Status
 ACCEPTED

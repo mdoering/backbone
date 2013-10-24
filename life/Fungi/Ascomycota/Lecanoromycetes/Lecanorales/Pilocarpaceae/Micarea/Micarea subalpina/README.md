@@ -1,5 +1,4 @@
-Micarea subalpina Coppins & T. Sprib. SPECIES
-=======
+# Micarea subalpina Coppins & T. Sprib. SPECIES
 
 #### Status
 ACCEPTED

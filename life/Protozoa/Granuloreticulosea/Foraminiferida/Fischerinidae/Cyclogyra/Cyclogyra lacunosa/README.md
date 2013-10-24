@@ -1,5 +1,4 @@
-Cyclogyra lacunosa SPECIES
-=======
+# Cyclogyra lacunosa SPECIES
 
 #### Status
 ACCEPTED

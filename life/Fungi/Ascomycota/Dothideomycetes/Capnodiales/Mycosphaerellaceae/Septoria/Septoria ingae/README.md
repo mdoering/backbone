@@ -1,5 +1,4 @@
-Septoria ingae Viégas SPECIES
-=======
+# Septoria ingae Viégas SPECIES
 
 #### Status
 ACCEPTED

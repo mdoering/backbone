@@ -1,5 +1,4 @@
-Pseudolachnea ryukyuensis (I. Hino & Katum.) B. Sutton SPECIES
-=======
+# Pseudolachnea ryukyuensis (I. Hino & Katum.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyadosporites orbis V.S. Ediger SPECIES
-=======
+# Polyadosporites orbis V.S. Ediger SPECIES
 
 #### Status
 ACCEPTED

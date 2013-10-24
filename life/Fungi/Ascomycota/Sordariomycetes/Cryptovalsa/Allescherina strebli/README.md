@@ -1,5 +1,4 @@
-Allescherina strebli Rehm SPECIES
-=======
+# Allescherina strebli Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete laeta Berk. & M.A. Curtis SPECIES
-=======
+# Hymenochaete laeta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

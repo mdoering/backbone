@@ -1,5 +1,4 @@
-Lecidea relicta Nyl. SPECIES
-=======
+# Lecidea relicta Nyl. SPECIES
 
 #### Status
 ACCEPTED

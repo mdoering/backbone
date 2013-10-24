@@ -1,5 +1,4 @@
-Coprinopsis psychromorbida (Redhead & Traquair) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis psychromorbida (Redhead & Traquair) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

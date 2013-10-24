@@ -1,5 +1,4 @@
-Ammobaculites neusensis Grossman, 1967 SPECIES
-=======
+# Ammobaculites neusensis Grossman, 1967 SPECIES
 
 #### Status
 ACCEPTED

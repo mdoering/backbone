@@ -1,5 +1,4 @@
-Isaria holmbergii Speg. SPECIES
-=======
+# Isaria holmbergii Speg. SPECIES
 
 #### Status
 ACCEPTED

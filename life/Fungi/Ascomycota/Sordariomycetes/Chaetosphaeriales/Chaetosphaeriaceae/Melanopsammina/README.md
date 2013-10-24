@@ -1,5 +1,4 @@
-Melanopsammina GENUS
-=======
+# Melanopsammina GENUS
 
 #### Status
 ACCEPTED

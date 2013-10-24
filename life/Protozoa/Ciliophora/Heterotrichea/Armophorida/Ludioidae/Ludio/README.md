@@ -1,5 +1,4 @@
-Ludio Penard, 1922 GENUS
-=======
+# Ludio Penard, 1922 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gorgonisphaeridium daktylidion Colbath, 1990 SPECIES
-=======
+# Gorgonisphaeridium daktylidion Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya lagena Fromentel, 1876 SPECIES
-=======
+# Holophrya lagena Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

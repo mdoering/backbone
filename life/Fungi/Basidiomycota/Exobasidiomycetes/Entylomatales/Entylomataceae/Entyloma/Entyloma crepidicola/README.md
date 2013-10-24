@@ -1,5 +1,4 @@
-Entyloma crepidicola Trotter SPECIES
-=======
+# Entyloma crepidicola Trotter SPECIES
 
 #### Status
 ACCEPTED

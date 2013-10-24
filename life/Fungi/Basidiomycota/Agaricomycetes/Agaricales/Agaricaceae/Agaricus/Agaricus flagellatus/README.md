@@ -1,5 +1,4 @@
-Agaricus flagellatus Berk. & Broome SPECIES
-=======
+# Agaricus flagellatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

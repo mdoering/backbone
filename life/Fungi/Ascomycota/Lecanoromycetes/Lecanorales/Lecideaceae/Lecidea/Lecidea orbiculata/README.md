@@ -1,5 +1,4 @@
-Lecidea orbiculata Stizenb. SPECIES
-=======
+# Lecidea orbiculata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

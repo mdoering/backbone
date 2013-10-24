@@ -1,5 +1,4 @@
-Filisphaeridium paucigranulosum Schrank, 2003 SPECIES
-=======
+# Filisphaeridium paucigranulosum Schrank, 2003 SPECIES
 
 #### Status
 ACCEPTED

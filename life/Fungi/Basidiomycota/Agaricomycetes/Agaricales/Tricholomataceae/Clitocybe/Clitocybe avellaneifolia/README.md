@@ -1,5 +1,4 @@
-Clitocybe avellaneifolia H.E. Bigelow SPECIES
-=======
+# Clitocybe avellaneifolia H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

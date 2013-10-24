@@ -1,5 +1,4 @@
-Leptoniella subfloridana (Murrill) Murrill SPECIES
-=======
+# Leptoniella subfloridana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

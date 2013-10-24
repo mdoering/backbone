@@ -1,5 +1,4 @@
-Lepidocyclinidae FAMILY
-=======
+# Lepidocyclinidae FAMILY
 
 #### Status
 ACCEPTED

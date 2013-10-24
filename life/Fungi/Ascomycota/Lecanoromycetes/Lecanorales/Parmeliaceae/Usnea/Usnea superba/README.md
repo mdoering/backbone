@@ -1,5 +1,4 @@
-Usnea superba Motyka SPECIES
-=======
+# Usnea superba Motyka SPECIES
 
 #### Status
 ACCEPTED

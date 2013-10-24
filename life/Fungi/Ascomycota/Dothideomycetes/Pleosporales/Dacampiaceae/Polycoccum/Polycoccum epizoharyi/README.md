@@ -1,5 +1,4 @@
-Polycoccum epizoharyi Calat. & V. Atienza SPECIES
-=======
+# Polycoccum epizoharyi Calat. & V. Atienza SPECIES
 
 #### Status
 ACCEPTED

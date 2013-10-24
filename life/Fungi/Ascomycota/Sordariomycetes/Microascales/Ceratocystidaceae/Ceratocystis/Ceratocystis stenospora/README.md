@@ -1,5 +1,4 @@
-Ceratocystis stenospora H.D. Griffin SPECIES
-=======
+# Ceratocystis stenospora H.D. Griffin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora guettardae Chupp SPECIES
-=======
+# Cercospora guettardae Chupp SPECIES
 
 #### Status
 ACCEPTED

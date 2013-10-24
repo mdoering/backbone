@@ -1,5 +1,4 @@
-Aspergillus tokelau Wehmer SPECIES
-=======
+# Aspergillus tokelau Wehmer SPECIES
 
 #### Status
 ACCEPTED

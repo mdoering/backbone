@@ -1,5 +1,4 @@
-Irenopsis masakensis Hansf. SPECIES
-=======
+# Irenopsis masakensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

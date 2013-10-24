@@ -1,5 +1,4 @@
-Dohaia Henson, 1948 GENUS
-=======
+# Dohaia Henson, 1948 GENUS
 
 #### Status
 ACCEPTED

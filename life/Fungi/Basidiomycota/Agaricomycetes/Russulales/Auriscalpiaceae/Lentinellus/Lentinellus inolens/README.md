@@ -1,5 +1,4 @@
-Lentinellus inolens Konrad & Maubl. SPECIES
-=======
+# Lentinellus inolens Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

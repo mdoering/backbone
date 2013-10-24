@@ -1,5 +1,4 @@
-Microcallis macarangae Hansf. SPECIES
-=======
+# Microcallis macarangae Hansf. SPECIES
 
 #### Status
 ACCEPTED

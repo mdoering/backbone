@@ -1,5 +1,4 @@
-Collybia bispora J. Carbó & Pérez-De-Greg. SPECIES
-=======
+# Collybia bispora J. Carbó & Pérez-De-Greg. SPECIES
 
 #### Status
 ACCEPTED

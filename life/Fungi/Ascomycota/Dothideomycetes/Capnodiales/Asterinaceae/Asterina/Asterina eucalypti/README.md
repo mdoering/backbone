@@ -1,5 +1,4 @@
-Asterina eucalypti (Pass.) Sacc. SPECIES
-=======
+# Asterina eucalypti (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleotrachelus tumefaciens (Magnus) H.E. Petersen, 1905 SPECIES
-=======
+# Eurychasmidium tumefaciens (Magnus) Sparrow, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biol. Bull. mar. biol. Lab. , Woods Hole 70(2): 241 (1936)
 
 #### Original name
-null
+Chytridium tumefaciens Magnus
 
 ### Remarks
 null

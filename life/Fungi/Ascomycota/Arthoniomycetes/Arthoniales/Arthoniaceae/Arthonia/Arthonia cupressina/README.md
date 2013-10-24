@@ -1,5 +1,4 @@
-Arthonia cupressina Tuck. SPECIES
-=======
+# Arthonia cupressina Tuck. SPECIES
 
 #### Status
 ACCEPTED

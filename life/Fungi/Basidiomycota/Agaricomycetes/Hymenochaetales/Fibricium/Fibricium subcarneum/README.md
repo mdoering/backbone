@@ -1,5 +1,4 @@
-Fibricium subcarneum Y. Hayashi, 1974 SPECIES
-=======
+# Fibricium subcarneum Y. Hayashi, 1974 SPECIES
 
 #### Status
 ACCEPTED

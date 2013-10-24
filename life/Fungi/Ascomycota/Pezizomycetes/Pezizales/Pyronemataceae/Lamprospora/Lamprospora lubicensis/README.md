@@ -1,5 +1,4 @@
-Lamprospora lubicensis Benkert SPECIES
-=======
+# Lamprospora lubicensis Benkert SPECIES
 
 #### Status
 ACCEPTED

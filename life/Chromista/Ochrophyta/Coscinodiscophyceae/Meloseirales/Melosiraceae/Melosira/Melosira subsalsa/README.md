@@ -1,5 +1,4 @@
-Melosira subsalsa Cleve-Euler SPECIES
-=======
+# Melosira subsalsa Cleve-Euler SPECIES
 
 #### Status
 ACCEPTED

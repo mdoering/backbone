@@ -1,5 +1,4 @@
-Fusisporium mycophytum W.G. Sm. SPECIES
-=======
+# Fusisporium mycophytum W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

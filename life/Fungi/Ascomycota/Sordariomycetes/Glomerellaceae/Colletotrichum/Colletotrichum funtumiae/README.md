@@ -1,5 +1,4 @@
-Colletotrichum funtumiae Petch SPECIES
-=======
+# Colletotrichum funtumiae Petch SPECIES
 
 #### Status
 ACCEPTED

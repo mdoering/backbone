@@ -1,5 +1,4 @@
-Entosordaria GENUS
-=======
+# Entosordaria GENUS
 
 #### Status
 DOUBTFUL

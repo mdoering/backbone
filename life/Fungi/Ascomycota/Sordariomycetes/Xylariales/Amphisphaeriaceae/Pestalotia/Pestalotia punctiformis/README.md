@@ -1,5 +1,4 @@
-Pestalotia punctiformis Sacc. SPECIES
-=======
+# Pestalotia punctiformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

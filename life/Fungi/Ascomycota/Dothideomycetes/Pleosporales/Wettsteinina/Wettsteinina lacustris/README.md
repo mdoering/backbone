@@ -1,8 +1,7 @@
-Sphaeria lacustris Fuckel, 1874 SPECIES
-=======
+# Wettsteinina lacustris (Fuckel) Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Sphaeria lacustris Fuckel, 1874
+null
 
 ### Remarks
 null

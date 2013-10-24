@@ -1,5 +1,4 @@
-Buellia fusca (Anzi) Kernst. SPECIES
-=======
+# Buellia fusca (Anzi) Kernst. SPECIES
 
 #### Status
 ACCEPTED

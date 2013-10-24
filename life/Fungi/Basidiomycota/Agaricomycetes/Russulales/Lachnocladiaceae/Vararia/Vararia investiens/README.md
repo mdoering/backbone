@@ -1,17 +1,16 @@
-Terana alutaria (Berk. & M.A. Curtis) Kuntze, 1891 SPECIES
-=======
+# Vararia investiens (Schwein.) P. Karst., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Kritisk Öfversigt af Finlands Basidsvampar, Tillägg 3: 32 (1898)
 
 #### Original name
-null
+Radulum investiens Schwein., 1832
 
 ### Remarks
 null

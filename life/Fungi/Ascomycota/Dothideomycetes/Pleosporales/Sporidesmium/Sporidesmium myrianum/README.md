@@ -1,5 +1,4 @@
-Sporidesmium myrianum Desm. SPECIES
-=======
+# Sporidesmium myrianum Desm. SPECIES
 
 #### Status
 ACCEPTED

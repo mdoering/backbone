@@ -1,5 +1,4 @@
-Diplodia luteobrunnea Wehm. SPECIES
-=======
+# Diplodia luteobrunnea Wehm. SPECIES
 
 #### Status
 ACCEPTED

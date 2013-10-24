@@ -1,14 +1,13 @@
-Drechslera mediocre (V.A. Putterill) Subram. & B.L. Jain SPECIES
-=======
+# Drechslera mediocris (V.A. Putterill) Subram. & B.L. Jain SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 35: 354 (1966)
 
 #### Original name
 Helminthosporium mediocre V.A. Putterill

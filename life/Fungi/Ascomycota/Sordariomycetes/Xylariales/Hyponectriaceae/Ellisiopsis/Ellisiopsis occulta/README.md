@@ -1,5 +1,4 @@
-Ellisiopsis occulta Rambelli & Lunghini SPECIES
-=======
+# Ellisiopsis occulta Rambelli & Lunghini SPECIES
 
 #### Status
 ACCEPTED

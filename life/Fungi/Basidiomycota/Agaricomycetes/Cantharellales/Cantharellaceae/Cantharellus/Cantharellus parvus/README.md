@@ -1,5 +1,4 @@
-Cantharellus parvus G.H. Otth SPECIES
-=======
+# Cantharellus parvus G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

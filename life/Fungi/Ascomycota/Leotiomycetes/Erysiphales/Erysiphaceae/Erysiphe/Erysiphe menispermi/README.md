@@ -1,5 +1,4 @@
-Erysiphe menispermi var. menispermi VARIETY
-=======
+# Erysiphe menispermi (Howe) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Schlechtendalia 4: 11 (2000)
 
 #### Original name
-Erysiphe menispermi var. menispermi
+Microsphaera menispermi Howe
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Potoromyces GENUS
-=======
+# Potoromyces GENUS
 
 #### Status
 ACCEPTED

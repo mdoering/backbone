@@ -1,5 +1,4 @@
-Sphaeria megalocarpa Plowr. SPECIES
-=======
+# Sphaeria megalocarpa Plowr. SPECIES
 
 #### Status
 ACCEPTED

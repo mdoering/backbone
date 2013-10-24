@@ -1,5 +1,4 @@
-Magnaporthe rhizophila D.B. Scott & Deacon, 1983 SPECIES
-=======
+# Magnaporthe rhizophila D.B. Scott & Deacon, 1983 SPECIES
 
 #### Status
 ACCEPTED

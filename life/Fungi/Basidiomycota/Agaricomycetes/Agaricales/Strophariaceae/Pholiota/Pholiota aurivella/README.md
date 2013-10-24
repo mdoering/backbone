@@ -1,17 +1,16 @@
-Dryophila aurivella var. aurivella VARIETY
-=======
+# Pholiota aurivella (Batsch) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 83 (1871)
 
 #### Original name
-Dryophila aurivella var. aurivella
+Agaricus aurivellus Batsch, 1786
 
 ### Remarks
 null

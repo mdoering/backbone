@@ -1,5 +1,4 @@
-Sphaeria popula Fr. SPECIES
-=======
+# Sphaeria popula Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia rugulosa Speg. SPECIES
-=======
+# Laboulbenia rugulosa Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora rhytismoides (Chevall.) Sacc., 1883 SPECIES
-=======
+# Phyllachora rhytismoides (Chevall.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

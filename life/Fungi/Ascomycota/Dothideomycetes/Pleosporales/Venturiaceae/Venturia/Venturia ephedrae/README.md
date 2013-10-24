@@ -1,5 +1,4 @@
-Venturia ephedrae Cruchet SPECIES
-=======
+# Venturia ephedrae Cruchet SPECIES
 
 #### Status
 ACCEPTED

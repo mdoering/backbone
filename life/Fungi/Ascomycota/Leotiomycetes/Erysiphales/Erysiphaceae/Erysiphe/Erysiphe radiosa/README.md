@@ -1,5 +1,4 @@
-Erysiphe radiosa Fr. SPECIES
-=======
+# Erysiphe radiosa Fr. SPECIES
 
 #### Status
 ACCEPTED

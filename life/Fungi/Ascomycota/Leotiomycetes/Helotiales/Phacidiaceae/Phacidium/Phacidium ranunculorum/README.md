@@ -1,5 +1,4 @@
-Phacidium ranunculorum Desm. SPECIES
-=======
+# Phacidium ranunculorum Desm. SPECIES
 
 #### Status
 ACCEPTED

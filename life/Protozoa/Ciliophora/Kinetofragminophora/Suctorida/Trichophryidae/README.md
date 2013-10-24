@@ -1,5 +1,4 @@
-Trichophryidae Fraipont, 1878 FAMILY
-=======
+# Trichophryidae Fraipont, 1878 FAMILY
 
 #### Status
 ACCEPTED

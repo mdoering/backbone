@@ -1,5 +1,4 @@
-Cercospora boerhaviae Canonaco SPECIES
-=======
+# Cercospora boerhaviae Canonaco SPECIES
 
 #### Status
 ACCEPTED

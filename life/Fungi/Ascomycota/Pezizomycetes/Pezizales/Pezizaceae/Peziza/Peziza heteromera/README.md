@@ -1,5 +1,4 @@
-Peziza heteromera Mont. SPECIES
-=======
+# Peziza heteromera Mont. SPECIES
 
 #### Status
 ACCEPTED

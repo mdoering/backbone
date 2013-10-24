@@ -1,17 +1,16 @@
-Echinocephalus Schneider, 1875 GENUS
-=======
+# Echinomera Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. Zool. exp. gén. , Paris, 4, 592.
+Tierreich, 5, 16.
 
 #### Original name
-null
+Echinocephalus Schneider, 1875
 
 ### Remarks
 null

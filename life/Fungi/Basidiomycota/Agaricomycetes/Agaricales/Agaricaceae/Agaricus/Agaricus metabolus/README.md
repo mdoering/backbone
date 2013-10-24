@@ -1,5 +1,4 @@
-Agaricus metabolus Berk. & Broome SPECIES
-=======
+# Agaricus metabolus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

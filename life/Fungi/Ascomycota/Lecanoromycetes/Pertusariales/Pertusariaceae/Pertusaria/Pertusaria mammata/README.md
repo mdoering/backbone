@@ -1,5 +1,4 @@
-Pertusaria mammata Nyl. SPECIES
-=======
+# Pertusaria mammata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia donacis var. donacis VARIETY
-=======
+# Hendersonia donacis Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia donacis var. donacis
+Hendersonia donacis Sacc.
 
 ### Remarks
 null

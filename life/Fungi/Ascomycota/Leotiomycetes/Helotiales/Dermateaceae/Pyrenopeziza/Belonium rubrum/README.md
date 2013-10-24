@@ -1,5 +1,4 @@
-Belonium rubrum Kirschst. SPECIES
-=======
+# Belonium rubrum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

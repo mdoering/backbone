@@ -1,5 +1,4 @@
-Discocyathus Jankowski, 1981 GENUS
-=======
+# Discocyathus Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

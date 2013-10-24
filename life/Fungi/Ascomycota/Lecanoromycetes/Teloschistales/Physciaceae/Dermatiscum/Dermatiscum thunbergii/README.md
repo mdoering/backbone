@@ -1,14 +1,13 @@
-Umbilicaria thunbergii (Ach.) SPECIES
-=======
+# Dermatiscum thunbergii (Ach.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Ztg. (1867)
 
 #### Original name
 Lichen thunbergii Ach.

@@ -1,5 +1,4 @@
-Galerina fallax A.H. Sm. & Singer SPECIES
-=======
+# Galerina fallax A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

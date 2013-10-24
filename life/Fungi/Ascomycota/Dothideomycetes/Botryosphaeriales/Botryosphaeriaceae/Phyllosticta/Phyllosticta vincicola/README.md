@@ -1,5 +1,4 @@
-Phyllosticta vincicola Oudem. SPECIES
-=======
+# Phyllosticta vincicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

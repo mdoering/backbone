@@ -1,5 +1,4 @@
-Leiopsophosphaera apiculata Lopukhin, 1974 SPECIES
-=======
+# Leiopsophosphaera apiculata Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

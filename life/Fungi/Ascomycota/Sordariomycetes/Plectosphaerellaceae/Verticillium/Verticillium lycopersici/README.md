@@ -1,5 +1,4 @@
-Verticillium lycopersici F.J. Pritch. & Porte SPECIES
-=======
+# Verticillium lycopersici F.J. Pritch. & Porte SPECIES
 
 #### Status
 ACCEPTED

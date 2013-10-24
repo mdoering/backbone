@@ -1,5 +1,4 @@
-Stigmatellina epilobii Bat. & H. Maia, 1960 SPECIES
-=======
+# Stigmatellina epilobii Bat. & H. Maia, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfocapsa Janssen et al., 1997 GENUS
-=======
+# Desulfocapsa Janssen et al., 1997 GENUS
 
 #### Status
 ACCEPTED

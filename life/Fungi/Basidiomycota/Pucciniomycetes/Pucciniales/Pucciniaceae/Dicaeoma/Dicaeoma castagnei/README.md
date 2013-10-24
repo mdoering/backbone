@@ -1,5 +1,4 @@
-Dicaeoma castagnei (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma castagnei (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

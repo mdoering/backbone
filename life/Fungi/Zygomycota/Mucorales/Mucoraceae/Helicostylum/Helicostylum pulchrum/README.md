@@ -1,17 +1,16 @@
-Thamnidium simplex Bref., 1881 SPECIES
-=======
+# Helicostylum pulchrum (Preuss) Pidopl. & Milko, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Unters. Gesammtgeb. Mykol. 4: 58 (1881)
+Atlas Mukor. Grib. (Kiev) 84 (1971)
 
 #### Original name
-Thamnidium simplex Bref., 1881
+Ascophora pulchra Preuss, 1851
 
 ### Remarks
 null

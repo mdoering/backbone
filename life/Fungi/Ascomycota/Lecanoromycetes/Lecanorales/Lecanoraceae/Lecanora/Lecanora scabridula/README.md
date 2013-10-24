@@ -1,5 +1,4 @@
-Lecanora scabridula H. Magn. SPECIES
-=======
+# Lecanora scabridula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

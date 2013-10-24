@@ -1,5 +1,4 @@
-Lobaria dichroa (Nyl.) Zahlbr. SPECIES
-=======
+# Lobaria dichroa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

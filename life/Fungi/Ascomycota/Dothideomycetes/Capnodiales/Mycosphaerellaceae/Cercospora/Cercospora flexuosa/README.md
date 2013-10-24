@@ -1,5 +1,4 @@
-Cercospora flexuosa Tracy & Earle SPECIES
-=======
+# Cercospora flexuosa Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

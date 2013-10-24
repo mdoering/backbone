@@ -1,5 +1,4 @@
-Xylomites radiatus Schimp. SPECIES
-=======
+# Xylomites radiatus Schimp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sebacina rufochracea Höhn. SPECIES
-=======
+# Sebacina rufochracea Höhn. SPECIES
 
 #### Status
 ACCEPTED

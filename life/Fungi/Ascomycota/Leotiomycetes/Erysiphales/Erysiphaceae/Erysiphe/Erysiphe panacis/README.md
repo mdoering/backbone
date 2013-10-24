@@ -1,5 +1,4 @@
-Erysiphe panacis R.L. Bai & W.C. Liu SPECIES
-=======
+# Erysiphe panacis R.L. Bai & W.C. Liu SPECIES
 
 #### Status
 ACCEPTED

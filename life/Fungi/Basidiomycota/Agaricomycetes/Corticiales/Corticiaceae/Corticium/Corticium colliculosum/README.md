@@ -1,5 +1,4 @@
-Corticium colliculosum Berk. & M.A. Curtis SPECIES
-=======
+# Corticium colliculosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

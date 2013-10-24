@@ -1,5 +1,4 @@
-Phanerochaete odontoidea Sheng H. Wu SPECIES
-=======
+# Phanerochaete odontoidea Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

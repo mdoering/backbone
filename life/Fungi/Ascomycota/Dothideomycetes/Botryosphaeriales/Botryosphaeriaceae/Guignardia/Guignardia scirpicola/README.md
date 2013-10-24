@@ -1,5 +1,4 @@
-Guignardia scirpicola Grabowski {?} SPECIES
-=======
+# Guignardia scirpicola Grabowski {?} SPECIES
 
 #### Status
 ACCEPTED

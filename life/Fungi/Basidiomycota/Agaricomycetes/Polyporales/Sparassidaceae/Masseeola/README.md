@@ -1,5 +1,4 @@
-Masseeola GENUS
-=======
+# Masseeola GENUS
 
 #### Status
 ACCEPTED

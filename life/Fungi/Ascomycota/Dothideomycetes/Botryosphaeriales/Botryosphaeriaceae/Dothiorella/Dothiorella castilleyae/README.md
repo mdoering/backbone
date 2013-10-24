@@ -1,5 +1,4 @@
-Dothiorella castilleyae Murashk. SPECIES
-=======
+# Dothiorella castilleyae Murashk. SPECIES
 
 #### Status
 ACCEPTED

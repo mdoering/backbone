@@ -1,5 +1,4 @@
-Stereocaulon pseudodepreaultii Asahina SPECIES
-=======
+# Stereocaulon pseudodepreaultii Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum decosteae (Henn.) Petr. & Syd. SPECIES
-=======
+# Colletotrichum decosteae (Henn.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

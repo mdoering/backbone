@@ -1,14 +1,13 @@
-Ocellularia actinota (Tuck.) Müll. Arg. SPECIES
-=======
+# Stegobolus actinotus (Tuck.) Frisch & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 92: 429 (2006)
 
 #### Original name
 Thelotrema actinotum Tuck.

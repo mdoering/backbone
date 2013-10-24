@@ -1,5 +1,4 @@
-Peziza gonnermanni Rabenh. SPECIES
-=======
+# Peziza gonnermanni Rabenh. SPECIES
 
 #### Status
 ACCEPTED

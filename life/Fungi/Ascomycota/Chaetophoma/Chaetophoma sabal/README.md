@@ -1,5 +1,4 @@
-Chaetophoma sabal Cooke SPECIES
-=======
+# Chaetophoma sabal Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis violacea Grove SPECIES
-=======
+# Botrytis violacea Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polycoccum versisporum (Bagl. & Carestia) D. Hawksw. SPECIES
-=======
+# Polycoccum versisporum (Bagl. & Carestia) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

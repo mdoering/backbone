@@ -1,5 +1,4 @@
-Clavulinopsis inflatissima Corner SPECIES
-=======
+# Clavulinopsis inflatissima Corner SPECIES
 
 #### Status
 ACCEPTED

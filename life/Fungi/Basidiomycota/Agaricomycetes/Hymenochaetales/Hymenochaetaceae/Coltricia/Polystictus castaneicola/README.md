@@ -1,14 +1,13 @@
-Polystictus castanicola (Lázaro Ibiza) Sacc. & Trotter SPECIES
-=======
+# Polystictus castaneicola (Lázaro Ibiza) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 23: 411 (1925)
 
 #### Original name
 Polystictoides castaneicola Lázaro Ibiza

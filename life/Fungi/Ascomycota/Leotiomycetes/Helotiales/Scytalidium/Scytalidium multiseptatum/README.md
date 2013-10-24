@@ -1,5 +1,4 @@
-Scytalidium multiseptatum Hol.-Jech., 1990 SPECIES
-=======
+# Scytalidium multiseptatum Hol.-Jech., 1990 SPECIES
 
 #### Status
 ACCEPTED

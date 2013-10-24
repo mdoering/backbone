@@ -1,5 +1,4 @@
-Porphyrellus subflavidus (Murrill) Singer SPECIES
-=======
+# Porphyrellus subflavidus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

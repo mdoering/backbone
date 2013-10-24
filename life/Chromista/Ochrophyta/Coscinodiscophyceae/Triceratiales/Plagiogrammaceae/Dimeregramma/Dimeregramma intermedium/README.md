@@ -1,5 +1,4 @@
-Dimeregramma intermedium C.S. Boyer, 1920 SPECIES
-=======
+# Dimeregramma intermedium C.S. Boyer, 1920 SPECIES
 
 #### Status
 ACCEPTED

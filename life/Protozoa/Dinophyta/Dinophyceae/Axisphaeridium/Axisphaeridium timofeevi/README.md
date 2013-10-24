@@ -1,5 +1,4 @@
-Axisphaeridium timofeevi Eisenack, 1967 SPECIES
-=======
+# Axisphaeridium timofeevi Eisenack, 1967 SPECIES
 
 #### Status
 ACCEPTED

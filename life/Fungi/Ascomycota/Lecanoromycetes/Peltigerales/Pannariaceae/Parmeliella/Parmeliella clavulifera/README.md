@@ -1,5 +1,4 @@
-Parmeliella clavulifera P. M. Jørg. SPECIES
-=======
+# Parmeliella clavulifera P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

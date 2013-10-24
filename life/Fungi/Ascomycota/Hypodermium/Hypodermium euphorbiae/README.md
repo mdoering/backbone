@@ -1,5 +1,4 @@
-Hypodermium euphorbiae Link SPECIES
-=======
+# Hypodermium euphorbiae Link SPECIES
 
 #### Status
 ACCEPTED

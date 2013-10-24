@@ -1,5 +1,4 @@
-Fragilaria microstriata Marciniak SPECIES
-=======
+# Fragilaria microstriata Marciniak SPECIES
 
 #### Status
 ACCEPTED

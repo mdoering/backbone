@@ -1,5 +1,4 @@
-Fuscidea arboricola Coppins & Tønsberg SPECIES
-=======
+# Fuscidea arboricola Coppins & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

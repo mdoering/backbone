@@ -1,5 +1,4 @@
-Spirotextularia Saidova, 1975 GENUS
-=======
+# Spirotextularia Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

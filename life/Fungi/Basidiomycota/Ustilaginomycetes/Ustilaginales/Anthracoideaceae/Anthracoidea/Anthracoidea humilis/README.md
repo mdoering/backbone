@@ -1,5 +1,4 @@
-Anthracoidea humilis Vánky, 1983 SPECIES
-=======
+# Anthracoidea humilis Vánky, 1983 SPECIES
 
 #### Status
 ACCEPTED

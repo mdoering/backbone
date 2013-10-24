@@ -1,5 +1,4 @@
-Ramalina paludosa B.J. Moore SPECIES
-=======
+# Ramalina paludosa B.J. Moore SPECIES
 
 #### Status
 ACCEPTED

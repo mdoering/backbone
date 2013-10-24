@@ -1,5 +1,4 @@
-Irenina wrightii (Berk. & M.A. Curtis) F. Stevens SPECIES
-=======
+# Irenina wrightii (Berk. & M.A. Curtis) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

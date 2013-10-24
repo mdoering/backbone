@@ -1,5 +1,4 @@
-Puccinia pileatospora Kakish. & S. Sato SPECIES
-=======
+# Puccinia pileatospora Kakish. & S. Sato SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panaeolus indicus Sathe & J.T. Daniel SPECIES
-=======
+# Panaeolus indicus Sathe & J.T. Daniel SPECIES
 
 #### Status
 ACCEPTED

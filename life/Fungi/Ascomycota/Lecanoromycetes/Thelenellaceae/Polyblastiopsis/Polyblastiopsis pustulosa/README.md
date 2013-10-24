@@ -1,5 +1,4 @@
-Polyblastiopsis pustulosa (Stirt.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis pustulosa (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

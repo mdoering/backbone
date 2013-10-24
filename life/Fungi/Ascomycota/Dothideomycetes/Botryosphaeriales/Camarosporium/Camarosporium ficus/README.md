@@ -1,5 +1,4 @@
-Camarosporium ficus Grove SPECIES
-=======
+# Camarosporium ficus Grove SPECIES
 
 #### Status
 ACCEPTED

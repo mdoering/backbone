@@ -1,5 +1,4 @@
-Asterotexis Arx GENUS
-=======
+# Asterotexis Arx GENUS
 
 #### Status
 ACCEPTED

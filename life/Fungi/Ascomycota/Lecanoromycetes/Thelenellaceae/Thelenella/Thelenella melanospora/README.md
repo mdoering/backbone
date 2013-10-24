@@ -1,5 +1,4 @@
-Thelenella melanospora Etayo & H. Mayrhofer SPECIES
-=======
+# Thelenella melanospora Etayo & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

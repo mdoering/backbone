@@ -1,5 +1,4 @@
-Marasmius campanella Holterm. SPECIES
-=======
+# Marasmius campanella Holterm. SPECIES
 
 #### Status
 ACCEPTED

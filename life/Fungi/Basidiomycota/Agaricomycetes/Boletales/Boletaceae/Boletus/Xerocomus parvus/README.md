@@ -1,5 +1,4 @@
-Xerocomus parvus J.Z. Ying SPECIES
-=======
+# Xerocomus parvus J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

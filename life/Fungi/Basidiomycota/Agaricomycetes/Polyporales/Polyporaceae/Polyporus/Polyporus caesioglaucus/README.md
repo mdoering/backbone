@@ -1,5 +1,4 @@
-Polyporus caesioglaucus Cooke SPECIES
-=======
+# Polyporus caesioglaucus Cooke SPECIES
 
 #### Status
 ACCEPTED

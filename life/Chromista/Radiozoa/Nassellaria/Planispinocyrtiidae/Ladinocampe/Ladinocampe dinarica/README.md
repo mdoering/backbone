@@ -1,5 +1,4 @@
-Ladinocampe dinarica SPECIES
-=======
+# Ladinocampe dinarica SPECIES
 
 #### Status
 ACCEPTED

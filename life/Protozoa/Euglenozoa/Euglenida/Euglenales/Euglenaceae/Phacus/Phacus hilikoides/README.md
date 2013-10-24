@@ -1,5 +1,4 @@
-Phacus hilikoides SPECIES
-=======
+# Phacus hilikoides SPECIES
 
 #### Status
 ACCEPTED

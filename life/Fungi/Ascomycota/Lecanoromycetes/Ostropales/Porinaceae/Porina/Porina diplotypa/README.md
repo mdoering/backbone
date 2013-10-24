@@ -1,5 +1,4 @@
-Porina diplotypa Vain. SPECIES
-=======
+# Porina diplotypa Vain. SPECIES
 
 #### Status
 ACCEPTED

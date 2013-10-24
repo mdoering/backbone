@@ -1,5 +1,4 @@
-Alternaria triticina Prasada & Prabhu, 1963 SPECIES
-=======
+# Alternaria triticina Prasada & Prabhu, 1963 SPECIES
 
 #### Status
 ACCEPTED

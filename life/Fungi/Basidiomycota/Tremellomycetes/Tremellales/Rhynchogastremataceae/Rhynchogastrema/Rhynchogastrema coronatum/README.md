@@ -1,17 +1,16 @@
-Rhynchogastrema coronata B. Metzler & Oberw. SPECIES
-=======
+# Rhynchogastrema coronatum B. Metzler & Oberw., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Metzler, Oberwinkler & Petzold, Syst. Appl. Microbiol. 12(3): 281 (1989)
 
 #### Original name
-Rhynchogastrema coronata B. Metzler & Oberw.
+Rhynchogastrema coronatum B. Metzler & Oberw., 1989
 
 ### Remarks
 null

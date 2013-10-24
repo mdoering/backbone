@@ -1,5 +1,4 @@
-Bacidia subinnata Malme SPECIES
-=======
+# Bacidia subinnata Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elachista taeniiformis Y. Yamada SPECIES
-=======
+# Elachista taeniiformis Y. Yamada SPECIES
 
 #### Status
 ACCEPTED

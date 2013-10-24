@@ -1,5 +1,4 @@
-Rosellinia immersa Petch SPECIES
-=======
+# Rosellinia immersa Petch SPECIES
 
 #### Status
 ACCEPTED

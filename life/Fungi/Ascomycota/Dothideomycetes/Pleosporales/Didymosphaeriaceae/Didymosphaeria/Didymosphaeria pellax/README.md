@@ -1,5 +1,4 @@
-Didymosphaeria pellax (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Didymosphaeria pellax (Nyl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

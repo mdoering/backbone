@@ -1,5 +1,4 @@
-Frateuria Swings et al., 1980 GENUS
-=======
+# Frateuria Swings et al., 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eucyrtidium acuminatum (Ehrenberg) SPECIES
-=======
+# Eucyrtidium acuminatum (Ehrenberg) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis arachidis Satya SPECIES
-=======
+# Pestalotiopsis arachidis Satya SPECIES
 
 #### Status
 ACCEPTED

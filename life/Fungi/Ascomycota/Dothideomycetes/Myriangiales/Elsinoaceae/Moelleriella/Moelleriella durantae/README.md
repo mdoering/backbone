@@ -1,14 +1,13 @@
-Molleriella durantae (Pat. & Lagerh.) G. Arnaud SPECIES
-=======
+# Moelleriella durantae (Pat. & Lagerh.) G. Arnaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 7: 675, 699 (1925)
 
 #### Original name
 Saccardia durantae Pat.

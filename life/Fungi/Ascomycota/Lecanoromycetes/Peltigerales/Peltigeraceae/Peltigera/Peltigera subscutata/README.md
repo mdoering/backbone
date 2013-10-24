@@ -1,5 +1,4 @@
-Peltigera subscutata var. subscutata VARIETY
-=======
+# Peltigera subscutata Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera subscutata var. subscutata
+Peltigera subscutata Gyeln.
 
 ### Remarks
 null

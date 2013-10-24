@@ -1,5 +1,4 @@
-Thalassiosira complicata R. Gersonde SPECIES
-=======
+# Thalassiosira complicata R. Gersonde SPECIES
 
 #### Status
 ACCEPTED

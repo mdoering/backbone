@@ -1,5 +1,4 @@
-Phyllachora helvetica Fuckel, 1870 SPECIES
-=======
+# Phyllachora helvetica Fuckel, 1870 SPECIES
 
 #### Status
 DOUBTFUL

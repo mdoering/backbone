@@ -1,5 +1,4 @@
-Chaetosticta miconiae Peres & J.L. Bezerra SPECIES
-=======
+# Chaetosticta miconiae Peres & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

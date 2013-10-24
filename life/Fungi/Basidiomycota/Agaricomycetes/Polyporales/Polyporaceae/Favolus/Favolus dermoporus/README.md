@@ -1,5 +1,4 @@
-Favolus dermoporus Torrend SPECIES
-=======
+# Favolus dermoporus Torrend SPECIES
 
 #### Status
 ACCEPTED

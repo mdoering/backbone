@@ -1,5 +1,4 @@
-Inocybe ferruginea Bon SPECIES
-=======
+# Inocybe ferruginea Bon SPECIES
 
 #### Status
 ACCEPTED

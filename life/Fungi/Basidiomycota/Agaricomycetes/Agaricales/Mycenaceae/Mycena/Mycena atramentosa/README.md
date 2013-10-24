@@ -1,5 +1,4 @@
-Mycena atramentosa (Kalchbr.) Höhn. SPECIES
-=======
+# Mycena atramentosa (Kalchbr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

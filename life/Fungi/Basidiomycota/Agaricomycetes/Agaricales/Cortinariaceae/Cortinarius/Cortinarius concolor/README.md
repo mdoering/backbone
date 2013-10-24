@@ -1,5 +1,4 @@
-Cortinarius concolor E. Horak SPECIES
-=======
+# Cortinarius concolor E. Horak SPECIES
 
 #### Status
 ACCEPTED

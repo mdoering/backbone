@@ -1,5 +1,4 @@
-Pertusaria submarginata Nyl. SPECIES
-=======
+# Pertusaria submarginata Nyl. SPECIES
 
 #### Status
 ACCEPTED

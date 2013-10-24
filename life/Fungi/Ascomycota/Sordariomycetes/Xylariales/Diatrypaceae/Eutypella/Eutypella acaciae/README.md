@@ -1,5 +1,4 @@
-Eutypella acaciae Doidge SPECIES
-=======
+# Eutypella acaciae Doidge SPECIES
 
 #### Status
 ACCEPTED

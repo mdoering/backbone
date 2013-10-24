@@ -1,5 +1,4 @@
-Dichomyces insignis Thaxt. SPECIES
-=======
+# Dichomyces insignis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

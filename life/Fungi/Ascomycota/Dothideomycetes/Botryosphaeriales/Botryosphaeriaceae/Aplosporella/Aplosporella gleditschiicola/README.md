@@ -1,5 +1,4 @@
-Aplosporella gleditschiicola (Cooke) Petr. & Syd. SPECIES
-=======
+# Aplosporella gleditschiicola (Cooke) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

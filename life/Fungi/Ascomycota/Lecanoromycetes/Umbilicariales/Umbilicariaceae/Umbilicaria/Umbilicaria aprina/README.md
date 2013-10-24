@@ -1,17 +1,16 @@
-Umbilicaria aprina var. aprina VARIETY
-=======
+# Umbilicaria aprina Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syn. meth. lich. 2: 12 (1863)
 
 #### Original name
-Umbilicaria aprina var. aprina
+Umbilicaria aprina Nyl.
 
 ### Remarks
 null

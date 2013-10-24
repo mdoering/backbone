@@ -1,5 +1,4 @@
-Baltisphaeridium calicispinae Górka, 1969 SPECIES
-=======
+# Baltisphaeridium calicispinae Górka, 1969 SPECIES
 
 #### Status
 ACCEPTED

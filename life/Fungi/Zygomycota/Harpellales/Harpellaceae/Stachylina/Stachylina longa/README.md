@@ -1,5 +1,4 @@
-Stachylina longa L. Léger & M. Gauthier, 1932 SPECIES
-=======
+# Stachylina longa L. Léger & M. Gauthier, 1932 SPECIES
 
 #### Status
 ACCEPTED

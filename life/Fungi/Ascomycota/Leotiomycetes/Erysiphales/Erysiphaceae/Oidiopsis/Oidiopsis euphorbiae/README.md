@@ -1,5 +1,4 @@
-Oidiopsis euphorbiae K.B. Deshp. & Rajd. SPECIES
-=======
+# Oidiopsis euphorbiae K.B. Deshp. & Rajd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia gunneri Secr. ex Sacc. & Traverso SPECIES
-=======
+# Stropharia gunneri Secr. ex Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

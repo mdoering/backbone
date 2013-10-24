@@ -1,5 +1,4 @@
-Actinomyces suimastitidis Hoyles et al., 2001 SPECIES
-=======
+# Actinomyces suimastitidis Hoyles et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

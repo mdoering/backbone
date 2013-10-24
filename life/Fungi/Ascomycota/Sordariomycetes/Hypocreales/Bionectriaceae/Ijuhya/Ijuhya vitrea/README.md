@@ -1,17 +1,16 @@
-Ijuhya vitrea var. javanica Höhn. VARIETY
-=======
+# Ijuhya vitrea Starbäck, 1899 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 1): 30 (1899)
 
 #### Original name
-Ijuhya vitrea var. javanica Höhn.
+Ijuhya vitrea Starbäck, 1899
 
 ### Remarks
 null

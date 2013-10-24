@@ -1,5 +1,4 @@
-Fusarium equisetorum (Lib.) Desm. SPECIES
-=======
+# Fusarium equisetorum (Lib.) Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Acrosporium dendrophthoae Bhagyan. & Ramachar SPECIES
-=======
+# Acrosporium dendrophthoë Bhagyan. & Ramachar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ramachar & Bhagyanarayana, Curr. Sci. 49(4): 151 (1980)
 
 #### Original name
-Acrosporium dendrophthoae Bhagyan. & Ramachar
+Acrosporium dendrophthoë Bhagyan. & Ramachar
 
 ### Remarks
 null

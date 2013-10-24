@@ -1,5 +1,4 @@
-Parasterina reticulata Doidge SPECIES
-=======
+# Parasterina reticulata Doidge SPECIES
 
 #### Status
 ACCEPTED

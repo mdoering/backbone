@@ -1,5 +1,4 @@
-Dimerella siquirrensis Lücking SPECIES
-=======
+# Dimerella siquirrensis Lücking SPECIES
 
 #### Status
 ACCEPTED

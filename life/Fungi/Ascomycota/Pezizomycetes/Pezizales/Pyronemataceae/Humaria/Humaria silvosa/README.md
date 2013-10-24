@@ -1,5 +1,4 @@
-Humaria silvosa Clem. SPECIES
-=======
+# Humaria silvosa Clem. SPECIES
 
 #### Status
 ACCEPTED

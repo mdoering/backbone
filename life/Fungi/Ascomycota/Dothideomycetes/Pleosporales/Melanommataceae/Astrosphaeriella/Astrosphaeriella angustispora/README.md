@@ -1,5 +1,4 @@
-Astrosphaeriella angustispora J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Astrosphaeriella angustispora J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

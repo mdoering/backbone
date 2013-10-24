@@ -1,5 +1,4 @@
-Ceriomyces umbriniceps Murrill SPECIES
-=======
+# Ceriomyces umbriniceps Murrill SPECIES
 
 #### Status
 ACCEPTED

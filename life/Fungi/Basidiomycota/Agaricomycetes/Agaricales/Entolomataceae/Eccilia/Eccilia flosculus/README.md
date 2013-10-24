@@ -1,5 +1,4 @@
-Eccilia flosculus (W.G. Sm.) Sacc. SPECIES
-=======
+# Eccilia flosculus (W.G. Sm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

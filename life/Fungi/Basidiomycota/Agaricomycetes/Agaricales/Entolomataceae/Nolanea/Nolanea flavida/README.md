@@ -1,5 +1,4 @@
-Nolanea flavida (Peck) Largent SPECIES
-=======
+# Nolanea flavida (Peck) Largent SPECIES
 
 #### Status
 ACCEPTED

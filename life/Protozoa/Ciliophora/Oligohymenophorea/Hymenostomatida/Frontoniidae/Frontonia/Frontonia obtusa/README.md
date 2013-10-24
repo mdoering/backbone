@@ -1,5 +1,4 @@
-Frontonia obtusa SPECIES
-=======
+# Frontonia obtusa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma duvauicola (Speg.) Sacc. & Trotter SPECIES
-=======
+# Macrophoma duvauicola (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

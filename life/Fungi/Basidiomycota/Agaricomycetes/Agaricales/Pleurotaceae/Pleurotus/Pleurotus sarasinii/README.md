@@ -1,5 +1,4 @@
-Pleurotus sarasinii Henn. SPECIES
-=======
+# Pleurotus sarasinii Henn. SPECIES
 
 #### Status
 ACCEPTED

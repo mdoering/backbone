@@ -1,5 +1,4 @@
-Lecidea subdacrydii Zahlbr. SPECIES
-=======
+# Lecidea subdacrydii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidiopycnis tuberivora (Güssow & W.R. Foster) B. Sutton, 1980 SPECIES
-=======
+# Phacidiopycnis tuberivora (Güssow & W.R. Foster) B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

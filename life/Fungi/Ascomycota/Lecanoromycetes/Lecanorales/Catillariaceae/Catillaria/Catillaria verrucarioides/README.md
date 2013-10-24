@@ -1,5 +1,4 @@
-Catillaria verrucarioides Zahlbr. SPECIES
-=======
+# Catillaria verrucarioides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis beckwithiae Vánky, 2005 SPECIES
-=======
+# Urocystis beckwithiae Vánky, 2005 SPECIES
 
 #### Status
 ACCEPTED

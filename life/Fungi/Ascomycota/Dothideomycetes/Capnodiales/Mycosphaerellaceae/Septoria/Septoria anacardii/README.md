@@ -1,5 +1,4 @@
-Septoria anacardii ined. SPECIES
-=======
+# Septoria anacardii ined. SPECIES
 
 #### Status
 ACCEPTED

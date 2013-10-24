@@ -1,5 +1,4 @@
-Metasphaeria gynerii (Henn.) Höhn. SPECIES
-=======
+# Metasphaeria gynerii (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

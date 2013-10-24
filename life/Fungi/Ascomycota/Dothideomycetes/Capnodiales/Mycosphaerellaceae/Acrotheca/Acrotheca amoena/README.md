@@ -1,5 +1,4 @@
-Acrotheca amoena (Preuss) Sacc. SPECIES
-=======
+# Acrotheca amoena (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

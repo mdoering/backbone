@@ -1,5 +1,4 @@
-Strombidium claparédi SPECIES
-=======
+# Strombidium claparédi SPECIES
 
 #### Status
 ACCEPTED

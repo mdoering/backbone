@@ -1,5 +1,4 @@
-Synchytrium marsileae Lodhi SPECIES
-=======
+# Synchytrium marsileae Lodhi SPECIES
 
 #### Status
 ACCEPTED

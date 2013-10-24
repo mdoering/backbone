@@ -1,5 +1,4 @@
-Tyromyces falcatus G. Cunn. SPECIES
-=======
+# Tyromyces falcatus G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecothecium corallinoides (Schaer.) Körb. SPECIES
-=======
+# Lecothecium corallinoides (Schaer.) Körb. SPECIES
 
 #### Status
 ACCEPTED

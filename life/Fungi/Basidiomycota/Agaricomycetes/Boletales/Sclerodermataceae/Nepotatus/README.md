@@ -1,5 +1,4 @@
-Nepotatus GENUS
-=======
+# Nepotatus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina willeana C.J. Svendsen SPECIES
-=======
+# Taphrina willeana C.J. Svendsen SPECIES
 
 #### Status
 ACCEPTED

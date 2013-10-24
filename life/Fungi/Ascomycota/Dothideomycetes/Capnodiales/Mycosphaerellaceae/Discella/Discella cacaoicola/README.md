@@ -1,5 +1,4 @@
-Discella cacaoicola K.R. Appel & Strunk SPECIES
-=======
+# Discella cacaoicola K.R. Appel & Strunk SPECIES
 
 #### Status
 ACCEPTED

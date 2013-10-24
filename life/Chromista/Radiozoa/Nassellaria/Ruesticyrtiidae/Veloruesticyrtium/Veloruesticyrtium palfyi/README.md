@@ -1,5 +1,4 @@
-Veloruesticyrtium palfyi SPECIES
-=======
+# Veloruesticyrtium palfyi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyridaria triseptata (Peck) M.E. Barr SPECIES
-=======
+# Thyridaria triseptata (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

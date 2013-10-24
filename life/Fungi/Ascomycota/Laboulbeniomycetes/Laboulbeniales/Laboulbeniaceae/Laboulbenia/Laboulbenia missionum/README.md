@@ -1,5 +1,4 @@
-Laboulbenia missionum Speg. SPECIES
-=======
+# Laboulbenia missionum Speg. SPECIES
 
 #### Status
 ACCEPTED

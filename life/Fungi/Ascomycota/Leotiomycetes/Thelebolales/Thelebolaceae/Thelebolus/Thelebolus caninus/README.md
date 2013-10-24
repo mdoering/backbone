@@ -1,14 +1,13 @@
-Ryparobius caninus (Auersw.) Sacc., 1889 SPECIES
-=======
+# Thelebolus caninus (Auersw.) Jeng & J.C. Krug, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 539 (1889)
+Can. J. Bot. 55(24): 2998 (1978)
 
 #### Original name
 Ascobolus caninus Auersw., 1868

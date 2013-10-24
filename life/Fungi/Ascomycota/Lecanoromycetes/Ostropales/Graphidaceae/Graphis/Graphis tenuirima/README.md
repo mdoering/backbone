@@ -1,5 +1,4 @@
-Graphis tenuirima (Shirley) A. W. Archer SPECIES
-=======
+# Graphis tenuirima (Shirley) A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

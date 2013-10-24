@@ -1,5 +1,4 @@
-Lactarius capsicoides Fr. SPECIES
-=======
+# Lactarius capsicoides Fr. SPECIES
 
 #### Status
 ACCEPTED

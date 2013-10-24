@@ -1,5 +1,4 @@
-Duportella jordaoensis Hjortstam & Ryvarden, 2004 SPECIES
-=======
+# Duportella jordaoensis Hjortstam & Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

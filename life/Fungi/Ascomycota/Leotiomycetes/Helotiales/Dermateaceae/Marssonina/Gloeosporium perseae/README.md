@@ -1,5 +1,4 @@
-Gloeosporium perseae Ferraris & Lindegg SPECIES
-=======
+# Gloeosporium perseae Ferraris & Lindegg SPECIES
 
 #### Status
 ACCEPTED

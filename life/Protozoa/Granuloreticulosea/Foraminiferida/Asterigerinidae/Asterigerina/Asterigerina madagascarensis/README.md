@@ -1,5 +1,4 @@
-Asterigerina madagascarensis SPECIES
-=======
+# Asterigerina madagascarensis SPECIES
 
 #### Status
 ACCEPTED

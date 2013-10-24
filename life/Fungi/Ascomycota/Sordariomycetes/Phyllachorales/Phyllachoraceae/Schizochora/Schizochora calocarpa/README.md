@@ -1,5 +1,4 @@
-Schizochora calocarpa Syd., 1924 SPECIES
-=======
+# Schizochora calocarpa Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium spigeliae Arthur SPECIES
-=======
+# Coleosporium spigeliae Arthur SPECIES
 
 #### Status
 ACCEPTED

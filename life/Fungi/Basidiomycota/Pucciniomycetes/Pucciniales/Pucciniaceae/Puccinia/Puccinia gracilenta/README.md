@@ -1,5 +1,4 @@
-Puccinia gracilenta Syd. & P. Syd. SPECIES
-=======
+# Puccinia gracilenta Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

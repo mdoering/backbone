@@ -1,5 +1,4 @@
-Borzinema De Toni, 1936 GENUS
-=======
+# Borzinema De Toni, 1936 GENUS
 
 #### Status
 ACCEPTED

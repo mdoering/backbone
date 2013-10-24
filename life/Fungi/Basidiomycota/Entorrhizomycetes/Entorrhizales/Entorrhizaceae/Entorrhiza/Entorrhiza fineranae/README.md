@@ -1,17 +1,16 @@
-Entorrhiza finerani Vánky SPECIES
-=======
+# Entorrhiza fineranae Vánky, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 43: 419 (1992)
 
 #### Original name
-Entorrhiza finerani Vánky
+Entorrhiza fineranae Vánky, 1992
 
 ### Remarks
 null

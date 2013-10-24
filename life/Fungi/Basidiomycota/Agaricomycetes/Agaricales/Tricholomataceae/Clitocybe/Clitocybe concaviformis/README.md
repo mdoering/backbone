@@ -1,5 +1,4 @@
-Clitocybe concaviformis Murrill SPECIES
-=======
+# Clitocybe concaviformis Murrill SPECIES
 
 #### Status
 ACCEPTED

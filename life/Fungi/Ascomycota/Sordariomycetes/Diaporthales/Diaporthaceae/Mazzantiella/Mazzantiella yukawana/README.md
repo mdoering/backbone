@@ -1,5 +1,4 @@
-Mazzantiella yukawana Kobayasi SPECIES
-=======
+# Mazzantiella yukawana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

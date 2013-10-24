@@ -1,5 +1,4 @@
-Linderiella pusilla (Berk. & M.A. Curtis) G. Cunn. SPECIES
-=======
+# Linderiella pusilla (Berk. & M.A. Curtis) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

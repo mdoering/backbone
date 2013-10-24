@@ -1,5 +1,4 @@
-Corbilithus Haq GENUS
-=======
+# Corbilithus Haq GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerellopsis caricis (Fr.) SPECIES
-=======
+# Sphaerellopsis caricis (Fr.) SPECIES
 
 #### Status
 ACCEPTED

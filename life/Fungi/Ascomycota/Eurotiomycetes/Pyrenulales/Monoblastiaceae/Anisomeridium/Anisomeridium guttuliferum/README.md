@@ -1,5 +1,4 @@
-Anisomeridium guttuliferum Lücking SPECIES
-=======
+# Anisomeridium guttuliferum Lücking SPECIES
 
 #### Status
 ACCEPTED

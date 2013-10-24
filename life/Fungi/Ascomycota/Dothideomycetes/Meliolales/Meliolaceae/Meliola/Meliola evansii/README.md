@@ -1,5 +1,4 @@
-Meliola evansii var. evansii VARIETY
-=======
+# Meliola evansii Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. Roy. Soc. South Africa 8(2): 112 (1920)
 
 #### Original name
-Meliola evansii var. evansii
+Meliola evansii Doidge
 
 ### Remarks
 null

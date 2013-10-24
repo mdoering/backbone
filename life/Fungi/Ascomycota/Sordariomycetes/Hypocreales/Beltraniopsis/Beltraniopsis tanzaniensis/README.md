@@ -1,5 +1,4 @@
-Beltraniopsis tanzaniensis Piroz., 1972 SPECIES
-=======
+# Beltraniopsis tanzaniensis Piroz., 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharomyces magellanicus Thaxt. SPECIES
-=======
+# Cantharomyces magellanicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

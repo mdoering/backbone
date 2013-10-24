@@ -1,5 +1,4 @@
-Lopadium diffluens (Nyl.) Darb. SPECIES
-=======
+# Lopadium diffluens (Nyl.) Darb. SPECIES
 
 #### Status
 ACCEPTED

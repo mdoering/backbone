@@ -1,5 +1,4 @@
-Mycosphaerella lithraeae (Speg.) M. Morelet SPECIES
-=======
+# Mycosphaerella lithraeae (Speg.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

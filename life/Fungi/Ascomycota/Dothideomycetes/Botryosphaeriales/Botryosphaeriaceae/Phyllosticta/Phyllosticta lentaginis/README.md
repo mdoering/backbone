@@ -1,5 +1,4 @@
-Phyllosticta lentaginis Sacc. & P. Syd. SPECIES
-=======
+# Phyllosticta lentaginis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

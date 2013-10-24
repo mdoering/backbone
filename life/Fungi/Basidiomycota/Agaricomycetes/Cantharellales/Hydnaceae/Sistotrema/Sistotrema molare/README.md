@@ -1,5 +1,4 @@
-Sistotrema molare Pers. SPECIES
-=======
+# Sistotrema molare Pers. SPECIES
 
 #### Status
 ACCEPTED

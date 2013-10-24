@@ -1,5 +1,4 @@
-Marasmiellus maritimus Contu & Noordel. SPECIES
-=======
+# Marasmiellus maritimus Contu & Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus discretus Cooke & Massee SPECIES
-=======
+# Agaricus discretus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

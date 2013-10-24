@@ -1,5 +1,4 @@
-Qataria Henson, 1948 GENUS
-=======
+# Qataria Henson, 1948 GENUS
 
 #### Status
 ACCEPTED

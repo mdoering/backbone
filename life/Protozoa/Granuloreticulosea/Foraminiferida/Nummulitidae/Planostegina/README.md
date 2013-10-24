@@ -1,5 +1,4 @@
-Planostegina Banner & Hodgkinson, 1991 GENUS
-=======
+# Planostegina Banner & Hodgkinson, 1991 GENUS
 
 #### Status
 ACCEPTED

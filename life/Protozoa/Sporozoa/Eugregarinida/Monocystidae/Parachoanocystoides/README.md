@@ -1,17 +1,16 @@
-Choanocystis Cognetti de Martiis, 1918 GENUS
-=======
+# Parachoanocystoides Saedeleer, 1930 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Monit. Zool. Ital. , 29, 147.
+Ann. Protistologie, Paris, 2, 176.
 
 #### Original name
-null
+Choanocystis Cognetti de Martiis, 1918
 
 ### Remarks
 null

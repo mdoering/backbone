@@ -1,5 +1,4 @@
-Daedalea perpyracea Massee SPECIES
-=======
+# Daedalea perpyracea Massee SPECIES
 
 #### Status
 ACCEPTED

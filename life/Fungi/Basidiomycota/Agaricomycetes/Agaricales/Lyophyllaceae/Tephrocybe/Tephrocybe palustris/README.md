@@ -1,17 +1,16 @@
-Agaricus paluster Peck, 1872 SPECIES
-=======
+# Tephrocybe palustris (Peck) Donk, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. Reg. St. N. Y. 23: 82 (1872)
+Nova Hedwigia, Beih. 5: 284 (1962)
 
 #### Original name
-Agaricus paluster Peck, 1872
+Hebeloma palustre Peck, 1899
 
 ### Remarks
 null

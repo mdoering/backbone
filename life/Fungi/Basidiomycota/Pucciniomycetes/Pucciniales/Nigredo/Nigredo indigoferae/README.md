@@ -1,5 +1,4 @@
-Nigredo indigoferae (Dietel & Holw.) Arthur SPECIES
-=======
+# Nigredo indigoferae (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

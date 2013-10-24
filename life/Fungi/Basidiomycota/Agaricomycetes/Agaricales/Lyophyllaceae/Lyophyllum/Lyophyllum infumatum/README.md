@@ -1,17 +1,16 @@
-Clitocybe infumata f. infumata FORM
-=======
+# Lyophyllum infumatum (Bres.) Kühner, 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Mich. Acad. Sci. 8: 202 (1927)
+Bull. mens. Soc. linn. Lyon 7: 211 (1938)
 
 #### Original name
-Clitocybe infumata f. infumata
+Clitocybe ectypa var. infumata Bres., 1892
 
 ### Remarks
 null

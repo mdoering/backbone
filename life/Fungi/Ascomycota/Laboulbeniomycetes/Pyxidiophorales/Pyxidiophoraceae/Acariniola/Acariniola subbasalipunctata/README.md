@@ -1,5 +1,4 @@
-Acariniola subbasalipunctata T. Majewski & J. Wisn. SPECIES
-=======
+# Acariniola subbasalipunctata T. Majewski & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

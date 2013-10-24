@@ -1,5 +1,4 @@
-Alectoria usneoides (Ach.) Ach. SPECIES
-=======
+# Alectoria usneoides (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

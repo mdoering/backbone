@@ -1,5 +1,4 @@
-Chaenothecopsis resinicola Tibell & Titov SPECIES
-=======
+# Chaenothecopsis resinicola Tibell & Titov SPECIES
 
 #### Status
 ACCEPTED

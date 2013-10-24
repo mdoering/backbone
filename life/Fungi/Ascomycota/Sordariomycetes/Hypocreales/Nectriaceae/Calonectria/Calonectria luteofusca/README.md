@@ -1,5 +1,4 @@
-Calonectria luteofusca (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Calonectria luteofusca (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

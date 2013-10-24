@@ -1,5 +1,4 @@
-Nolanea cameroensis Bres. SPECIES
-=======
+# Nolanea cameroensis Bres. SPECIES
 
 #### Status
 ACCEPTED

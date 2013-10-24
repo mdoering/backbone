@@ -1,5 +1,4 @@
-Thyriostroma hariotii Gonz. Frag. SPECIES
-=======
+# Thyriostroma hariotii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

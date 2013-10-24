@@ -1,5 +1,4 @@
-Hastatella Erlanger, 1890 GENUS
-=======
+# Hastatella Erlanger, 1890 GENUS
 
 #### Status
 ACCEPTED

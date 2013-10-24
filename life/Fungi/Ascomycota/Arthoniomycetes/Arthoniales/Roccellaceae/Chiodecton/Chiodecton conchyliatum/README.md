@@ -1,5 +1,4 @@
-Chiodecton conchyliatum Stirt. SPECIES
-=======
+# Chiodecton conchyliatum Stirt. SPECIES
 
 #### Status
 ACCEPTED

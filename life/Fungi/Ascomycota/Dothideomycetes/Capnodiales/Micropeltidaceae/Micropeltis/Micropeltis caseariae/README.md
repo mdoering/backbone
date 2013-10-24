@@ -1,5 +1,4 @@
-Micropeltis caseariae Bat. SPECIES
-=======
+# Micropeltis caseariae Bat. SPECIES
 
 #### Status
 ACCEPTED

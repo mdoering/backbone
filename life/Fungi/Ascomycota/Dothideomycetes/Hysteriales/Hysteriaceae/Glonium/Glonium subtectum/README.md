@@ -1,5 +1,4 @@
-Glonium subtectum Sacc. & Roum. SPECIES
-=======
+# Glonium subtectum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

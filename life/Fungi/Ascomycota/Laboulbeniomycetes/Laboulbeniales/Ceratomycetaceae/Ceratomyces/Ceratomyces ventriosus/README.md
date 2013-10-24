@@ -1,5 +1,4 @@
-Ceratomyces ventriosus Thaxt. SPECIES
-=======
+# Ceratomyces ventriosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

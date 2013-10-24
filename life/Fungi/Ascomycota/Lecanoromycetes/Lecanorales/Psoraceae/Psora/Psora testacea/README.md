@@ -1,17 +1,16 @@
-Lecidea testacea var. testacea VARIETY
-=======
+# Psora testacea Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Descr. Adumb. Plant. Lich. 1: 99 (1790)
 
 #### Original name
-Lecidea testacea var. testacea
+Psora testacea Hoffm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycosphaerella pachyasca (Rostr.) Vestergr. SPECIES
-=======
+# Mycosphaerella pachyasca (Rostr.) Vestergr. SPECIES
 
 #### Status
 ACCEPTED

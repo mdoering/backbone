@@ -1,5 +1,4 @@
-Biatorella koltarum Räsänen SPECIES
-=======
+# Biatorella koltarum Räsänen SPECIES
 
 #### Status
 ACCEPTED

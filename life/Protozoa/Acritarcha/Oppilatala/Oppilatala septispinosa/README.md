@@ -1,5 +1,4 @@
-Oppilatala septispinosa (Lister, 1970) Le Hérissé, 1989 SPECIES
-=======
+# Oppilatala septispinosa (Lister, 1970) Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

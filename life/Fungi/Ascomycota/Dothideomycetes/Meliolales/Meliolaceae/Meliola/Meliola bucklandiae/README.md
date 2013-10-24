@@ -1,5 +1,4 @@
-Meliola bucklandiae A.K. Kar & Maity SPECIES
-=======
+# Meliola bucklandiae A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma subfarinaceum Hesler SPECIES
-=======
+# Entoloma subfarinaceum Hesler SPECIES
 
 #### Status
 ACCEPTED

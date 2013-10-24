@@ -1,5 +1,4 @@
-Phoma domestica Sacc. SPECIES
-=======
+# Phoma domestica Sacc. SPECIES
 
 #### Status
 ACCEPTED

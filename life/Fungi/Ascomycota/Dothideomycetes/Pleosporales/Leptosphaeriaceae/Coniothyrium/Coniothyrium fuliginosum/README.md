@@ -1,5 +1,4 @@
-Coniothyrium fuliginosum (P. Karst.) Sacc. ex Petr. & Syd. SPECIES
-=======
+# Coniothyrium fuliginosum (P. Karst.) Sacc. ex Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

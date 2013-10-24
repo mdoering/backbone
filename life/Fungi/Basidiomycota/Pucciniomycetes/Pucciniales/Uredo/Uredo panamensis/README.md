@@ -1,5 +1,4 @@
-Uredo panamensis Arthur SPECIES
-=======
+# Uredo panamensis Arthur SPECIES
 
 #### Status
 ACCEPTED

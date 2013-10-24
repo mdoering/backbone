@@ -1,5 +1,4 @@
-Lactarius melanogalus R. Heim ex R. Heim SPECIES
-=======
+# Lactarius melanogalus R. Heim ex R. Heim SPECIES
 
 #### Status
 ACCEPTED

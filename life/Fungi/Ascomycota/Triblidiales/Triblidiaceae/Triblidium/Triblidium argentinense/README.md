@@ -1,17 +1,16 @@
-Tryblidium argentinense Speg. SPECIES
-=======
+# Triblidium argentinense Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 3 19(12): 437 (1909)
 
 #### Original name
-Tryblidium argentinense Speg.
+Triblidium argentinense Speg.
 
 ### Remarks
 null

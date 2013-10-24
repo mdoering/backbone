@@ -1,5 +1,4 @@
-Glaziella Berk. GENUS
-=======
+# Glaziella Berk. GENUS
 
 #### Status
 ACCEPTED

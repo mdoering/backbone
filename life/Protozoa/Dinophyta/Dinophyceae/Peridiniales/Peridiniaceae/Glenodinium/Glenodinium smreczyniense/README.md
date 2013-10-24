@@ -1,5 +1,4 @@
-Glenodinium smreczyniense Woloszynska SPECIES
-=======
+# Glenodinium smreczyniense Woloszynska SPECIES
 
 #### Status
 ACCEPTED

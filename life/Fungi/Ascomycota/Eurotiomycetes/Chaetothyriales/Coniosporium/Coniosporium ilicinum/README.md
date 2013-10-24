@@ -1,5 +1,4 @@
-Coniosporium ilicinum P.M. Kirk, 1983 SPECIES
-=======
+# Coniosporium ilicinum P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

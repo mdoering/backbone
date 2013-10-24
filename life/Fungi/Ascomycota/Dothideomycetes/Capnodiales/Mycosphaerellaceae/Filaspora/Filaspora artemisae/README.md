@@ -1,5 +1,4 @@
-Filaspora artemisae (Trail) Kuntze SPECIES
-=======
+# Filaspora artemisae (Trail) Kuntze SPECIES
 
 #### Status
 ACCEPTED

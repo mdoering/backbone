@@ -1,5 +1,4 @@
-Helminthosporium mystrosporioides Preuss SPECIES
-=======
+# Helminthosporium mystrosporioides Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula mamillata (Ajay Singh) Upreti SPECIES
-=======
+# Pyrenula mamillata (Ajay Singh) Upreti SPECIES
 
 #### Status
 ACCEPTED

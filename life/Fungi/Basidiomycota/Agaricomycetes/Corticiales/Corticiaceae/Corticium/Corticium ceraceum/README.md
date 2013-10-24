@@ -1,5 +1,4 @@
-Corticium ceraceum Berk. & M.A. Curtis SPECIES
-=======
+# Corticium ceraceum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma claytonianum (Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma claytonianum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

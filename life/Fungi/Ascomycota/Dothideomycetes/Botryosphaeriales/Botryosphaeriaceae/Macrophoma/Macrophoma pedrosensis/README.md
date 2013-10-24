@@ -1,5 +1,4 @@
-Macrophoma pedrosensis Bubák & Gonz. Frag. SPECIES
-=======
+# Macrophoma pedrosensis Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia novoguinensis Hillmann SPECIES
-=======
+# Parmelia novoguinensis Hillmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entodiscoides Song, Warren & Wilbert, 1996 GENUS
-=======
+# Entodiscoides Song, Warren & Wilbert, 1996 GENUS
 
 #### Status
 ACCEPTED

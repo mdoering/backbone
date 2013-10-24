@@ -1,5 +1,4 @@
-Opegrapha gigantea Vain. SPECIES
-=======
+# Opegrapha gigantea Vain. SPECIES
 
 #### Status
 ACCEPTED

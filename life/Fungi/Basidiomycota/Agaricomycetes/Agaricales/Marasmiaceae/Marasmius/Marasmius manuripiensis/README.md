@@ -1,5 +1,4 @@
-Marasmius manuripiensis Singer SPECIES
-=======
+# Marasmius manuripiensis Singer SPECIES
 
 #### Status
 ACCEPTED

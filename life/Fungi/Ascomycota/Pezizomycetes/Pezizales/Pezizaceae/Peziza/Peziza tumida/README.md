@@ -1,5 +1,4 @@
-Peziza tumida Pers. SPECIES
-=======
+# Peziza tumida Pers. SPECIES
 
 #### Status
 ACCEPTED

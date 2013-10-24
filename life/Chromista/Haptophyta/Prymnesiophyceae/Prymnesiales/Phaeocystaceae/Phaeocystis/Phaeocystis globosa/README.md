@@ -1,5 +1,4 @@
-Phaeocystis globosa Scherffel SPECIES
-=======
+# Phaeocystis globosa Scherffel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cocconia discoidea (Cooke & Massee) Sacc., 1892 SPECIES
-=======
+# Cocconia discoidea (Cooke & Massee) Sacc., 1892 SPECIES
 
 #### Status
 ACCEPTED

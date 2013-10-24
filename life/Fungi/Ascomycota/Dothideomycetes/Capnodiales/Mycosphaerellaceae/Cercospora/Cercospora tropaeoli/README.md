@@ -1,5 +1,4 @@
-Cercospora tropaeoli G.F. Atk. SPECIES
-=======
+# Cercospora tropaeoli G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

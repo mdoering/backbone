@@ -1,5 +1,4 @@
-Camarophyllus alboumbonatus (Murrill) Murrill SPECIES
-=======
+# Camarophyllus alboumbonatus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

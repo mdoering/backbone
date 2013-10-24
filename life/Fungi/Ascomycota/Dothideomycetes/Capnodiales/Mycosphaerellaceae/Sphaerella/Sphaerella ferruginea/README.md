@@ -1,5 +1,4 @@
-Sphaerella ferruginea Fuckel SPECIES
-=======
+# Sphaerella ferruginea Fuckel SPECIES
 
 #### Status
 ACCEPTED

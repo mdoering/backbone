@@ -1,5 +1,4 @@
-Buellia praefinita (Nyl.) C.W. Dodge SPECIES
-=======
+# Buellia praefinita (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

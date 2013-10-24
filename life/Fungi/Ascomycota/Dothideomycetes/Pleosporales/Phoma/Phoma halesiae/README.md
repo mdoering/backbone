@@ -1,5 +1,4 @@
-Phoma halesiae Fairm. SPECIES
-=======
+# Phoma halesiae Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spinoprotunuma constricta SPECIES
-=======
+# Spinoprotunuma constricta SPECIES
 
 #### Status
 ACCEPTED

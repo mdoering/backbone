@@ -1,5 +1,4 @@
-Gomphosphaeria lilacea Virieux SPECIES
-=======
+# Gomphosphaeria lilacea Virieux SPECIES
 
 #### Status
 ACCEPTED

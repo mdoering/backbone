@@ -1,5 +1,4 @@
-Depazea gentianaecola (DC.) Fr. SPECIES
-=======
+# Depazea gentianaecola (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

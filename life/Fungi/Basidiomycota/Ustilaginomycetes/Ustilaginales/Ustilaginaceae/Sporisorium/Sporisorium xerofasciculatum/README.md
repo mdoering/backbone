@@ -1,5 +1,4 @@
-Sporisorium xerofasciculatum R.G. Shivas, McTaggart & Vánky SPECIES
-=======
+# Sporisorium xerofasciculatum R.G. Shivas, McTaggart & Vánky SPECIES
 
 #### Status
 ACCEPTED

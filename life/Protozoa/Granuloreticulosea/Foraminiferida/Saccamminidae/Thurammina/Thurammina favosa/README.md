@@ -1,5 +1,4 @@
-Thurammina favosa Flint, 1899 SPECIES
-=======
+# Thurammina favosa Flint, 1899 SPECIES
 
 #### Status
 ACCEPTED

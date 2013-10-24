@@ -1,5 +1,4 @@
-Uredo symbolanthi Henn. SPECIES
-=======
+# Uredo symbolanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

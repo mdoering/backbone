@@ -1,14 +1,13 @@
-Melanomma dubium Sacc. SPECIES
-=======
+# Ceratostomella dubia (Sacc.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 410 (1882)
 
 #### Original name
 Melanomma dubium Sacc.

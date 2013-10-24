@@ -1,5 +1,4 @@
-Athelia phialophora Zmitr. & Spirin SPECIES
-=======
+# Athelia phialophora Zmitr. & Spirin SPECIES
 
 #### Status
 ACCEPTED

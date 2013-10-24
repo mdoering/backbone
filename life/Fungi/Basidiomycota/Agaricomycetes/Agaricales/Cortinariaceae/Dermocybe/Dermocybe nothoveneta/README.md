@@ -1,5 +1,4 @@
-Dermocybe nothoveneta M.M. Moser SPECIES
-=======
+# Dermocybe nothoveneta M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

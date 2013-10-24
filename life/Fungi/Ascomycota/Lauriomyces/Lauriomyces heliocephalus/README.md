@@ -1,14 +1,13 @@
-Lauriomyces heliocephala (V. Rao & de Hoog) R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Lauriomyces heliocephalus (V. Rao & de Hoog) R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Univ. Waterloo Biol. Ser. 32: 26 (1990)
 
 #### Original name
 Haplographium heliocephalum V. Rao & de Hoog, 1986

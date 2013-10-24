@@ -1,5 +1,4 @@
-Ocellularia verrucomarginata Patw., Sethy & Nagarkar SPECIES
-=======
+# Ocellularia verrucomarginata Patw., Sethy & Nagarkar SPECIES
 
 #### Status
 ACCEPTED

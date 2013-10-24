@@ -1,5 +1,4 @@
-Phlegmacium caroli Velen. SPECIES
-=======
+# Phlegmacium caroli Velen. SPECIES
 
 #### Status
 ACCEPTED

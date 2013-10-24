@@ -1,5 +1,4 @@
-Dictyostelium germanicum Cavender, Cavender-Bares & H.R. Hohl, 1995 SPECIES
-=======
+# Dictyostelium germanicum Cavender, Cavender-Bares & H.R. Hohl, 1995 SPECIES
 
 #### Status
 ACCEPTED

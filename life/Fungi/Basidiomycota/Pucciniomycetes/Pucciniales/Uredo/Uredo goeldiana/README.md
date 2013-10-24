@@ -1,5 +1,4 @@
-Uredo goeldiana Henn. SPECIES
-=======
+# Uredo goeldiana Henn. SPECIES
 
 #### Status
 ACCEPTED

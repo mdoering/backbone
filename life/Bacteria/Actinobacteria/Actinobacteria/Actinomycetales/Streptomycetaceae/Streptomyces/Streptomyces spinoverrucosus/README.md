@@ -1,5 +1,4 @@
-Streptomyces spinoverrucosus Diab & Al-Gounaim, 1982 SPECIES
-=======
+# Streptomyces spinoverrucosus Diab & Al-Gounaim, 1982 SPECIES
 
 #### Status
 ACCEPTED

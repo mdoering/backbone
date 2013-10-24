@@ -1,5 +1,4 @@
-Graphina collatinensis var. collatinensis VARIETY
-=======
+# Graphina collatinensis Redinger SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina collatinensis var. collatinensis
+Graphina collatinensis Redinger
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Inocybe sclerotiicola R. Heim & Gilles SPECIES
-=======
+# Inocybe sclerotiicola R. Heim & Gilles SPECIES
 
 #### Status
 ACCEPTED

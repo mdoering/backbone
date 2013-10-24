@@ -1,5 +1,4 @@
-Polyporus stiptiarius SPECIES
-=======
+# Polyporus stiptiarius SPECIES
 
 #### Status
 ACCEPTED

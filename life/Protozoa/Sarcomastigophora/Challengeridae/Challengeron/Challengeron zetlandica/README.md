@@ -1,5 +1,4 @@
-Challengeron zetlandica SPECIES
-=======
+# Challengeron zetlandica SPECIES
 
 #### Status
 ACCEPTED

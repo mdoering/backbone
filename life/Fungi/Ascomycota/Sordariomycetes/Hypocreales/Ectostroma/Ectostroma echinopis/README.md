@@ -1,5 +1,4 @@
-Ectostroma echinopis Petr. SPECIES
-=======
+# Ectostroma echinopis Petr. SPECIES
 
 #### Status
 ACCEPTED

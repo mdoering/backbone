@@ -1,5 +1,4 @@
-Rhipidiomyces Thaxt. GENUS
-=======
+# Rhipidiomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

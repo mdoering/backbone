@@ -1,5 +1,4 @@
-Methylophilus Jenkins et al., 1987 GENUS
-=======
+# Methylophilus Jenkins et al., 1987 GENUS
 
 #### Status
 ACCEPTED

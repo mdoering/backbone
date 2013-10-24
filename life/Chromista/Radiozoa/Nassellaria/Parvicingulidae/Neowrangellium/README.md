@@ -1,5 +1,4 @@
-Neowrangellium Yeh, 1987 GENUS
-=======
+# Neowrangellium Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

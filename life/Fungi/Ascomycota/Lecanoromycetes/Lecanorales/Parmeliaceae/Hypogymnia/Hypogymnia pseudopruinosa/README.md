@@ -1,5 +1,4 @@
-Hypogymnia pseudopruinosa X.L. Wei & J.C. Wei SPECIES
-=======
+# Hypogymnia pseudopruinosa X.L. Wei & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

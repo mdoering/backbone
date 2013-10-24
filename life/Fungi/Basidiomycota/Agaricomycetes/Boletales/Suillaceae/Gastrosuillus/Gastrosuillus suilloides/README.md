@@ -1,5 +1,4 @@
-Gastrosuillus suilloides (Thiers) Thiers SPECIES
-=======
+# Gastrosuillus suilloides (Thiers) Thiers SPECIES
 
 #### Status
 ACCEPTED

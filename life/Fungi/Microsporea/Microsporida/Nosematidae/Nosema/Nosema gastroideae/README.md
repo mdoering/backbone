@@ -1,5 +1,4 @@
-Nosema gastroideae Z. Hostounský & J. Weiser SPECIES
-=======
+# Nosema gastroideae Z. Hostounský & J. Weiser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium berkleyae Henn. & A. Evans SPECIES
-=======
+# Aecidium berkleyae Henn. & A. Evans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Inocybe bubaci Velen. SPECIES
-=======
+# Inocybe bubakii Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 2: 378 (1920)
 
 #### Original name
-Inocybe bubaci Velen.
+Inocybe bubakii Velen.
 
 ### Remarks
 null

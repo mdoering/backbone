@@ -1,5 +1,4 @@
-Corethromyces spectabilis Thaxt. SPECIES
-=======
+# Corethromyces spectabilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium gossypii Pitt, 1980 SPECIES
-=======
+# Penicillium gossypii Pitt, 1980 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Diophrys japonica Hu, 2008 SPECIES
-=======
+# Diophrys japonica Hu, 2008 SPECIES
 
 #### Status
 ACCEPTED

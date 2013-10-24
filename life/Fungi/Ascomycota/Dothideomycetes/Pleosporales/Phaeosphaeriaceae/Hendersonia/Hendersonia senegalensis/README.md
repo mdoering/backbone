@@ -1,5 +1,4 @@
-Hendersonia senegalensis Speg. SPECIES
-=======
+# Hendersonia senegalensis Speg. SPECIES
 
 #### Status
 ACCEPTED

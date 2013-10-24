@@ -1,5 +1,4 @@
-Cladosporium brunneum Corda, 1837 SPECIES
-=======
+# Cladosporium brunneum Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

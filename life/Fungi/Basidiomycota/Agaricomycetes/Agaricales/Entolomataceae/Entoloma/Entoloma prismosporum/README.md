@@ -1,5 +1,4 @@
-Entoloma prismosporum Hesler SPECIES
-=======
+# Entoloma prismosporum Hesler SPECIES
 
 #### Status
 ACCEPTED

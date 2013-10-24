@@ -1,5 +1,4 @@
-Usnea hirsulata SPECIES
-=======
+# Usnea hirsulata SPECIES
 
 #### Status
 ACCEPTED

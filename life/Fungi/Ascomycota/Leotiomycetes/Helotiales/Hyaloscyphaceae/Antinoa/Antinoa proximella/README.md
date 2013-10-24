@@ -1,5 +1,4 @@
-Antinoa proximella (P. Karst.) Velen. SPECIES
-=======
+# Antinoa proximella (P. Karst.) Velen. SPECIES
 
 #### Status
 ACCEPTED

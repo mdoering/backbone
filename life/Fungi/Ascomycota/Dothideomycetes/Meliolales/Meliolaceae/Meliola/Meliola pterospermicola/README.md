@@ -1,5 +1,4 @@
-Meliola pterospermicola F. Stevens & Roldan ex Hansf. SPECIES
-=======
+# Meliola pterospermicola F. Stevens & Roldan ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

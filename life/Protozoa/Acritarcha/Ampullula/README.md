@@ -1,5 +1,4 @@
-Ampullula E. Righi, 1991 GENUS
-=======
+# Ampullula E. Righi, 1991 GENUS
 
 #### Status
 ACCEPTED

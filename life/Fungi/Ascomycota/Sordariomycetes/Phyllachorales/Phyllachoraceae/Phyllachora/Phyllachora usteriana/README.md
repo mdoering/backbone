@@ -1,5 +1,4 @@
-Phyllachora usteriana usteriana Speg., 1908 INFRASPECIFIC_NAME
-=======
+# Phyllachora usteriana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichomyces cafianus Thaxt. SPECIES
-=======
+# Dichomyces cafianus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

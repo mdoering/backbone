@@ -1,5 +1,4 @@
-Clasterosporium toruloideum Sacc. SPECIES
-=======
+# Clasterosporium toruloideum Sacc. SPECIES
 
 #### Status
 ACCEPTED

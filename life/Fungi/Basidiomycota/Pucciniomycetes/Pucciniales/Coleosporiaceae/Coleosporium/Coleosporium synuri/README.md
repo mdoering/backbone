@@ -1,5 +1,4 @@
-Coleosporium synuri Tranzschel ex Kuprev. SPECIES
-=======
+# Coleosporium synuri Tranzschel ex Kuprev. SPECIES
 
 #### Status
 ACCEPTED

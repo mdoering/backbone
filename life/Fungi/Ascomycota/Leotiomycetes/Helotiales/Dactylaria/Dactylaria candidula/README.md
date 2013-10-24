@@ -1,14 +1,13 @@
-Diplorhinotrichum candidulum Höhn., 1902 SPECIES
-=======
+# Dactylaria candidula (Höhn.) G.C. Bhatt & W.B. Kendr., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 111: 1040 (1902)
+in Stolk & Hennebert, Can. J. Bot. 46: 1256 (1968)
 
 #### Original name
 Diplorhinotrichum candidulum Höhn., 1902

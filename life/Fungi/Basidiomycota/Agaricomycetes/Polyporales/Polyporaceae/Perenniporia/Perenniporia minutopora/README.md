@@ -1,5 +1,4 @@
-Perenniporia minutopora Ryvarden & Decock SPECIES
-=======
+# Perenniporia minutopora Ryvarden & Decock SPECIES
 
 #### Status
 ACCEPTED

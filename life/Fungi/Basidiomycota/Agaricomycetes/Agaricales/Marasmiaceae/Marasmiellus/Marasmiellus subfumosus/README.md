@@ -1,5 +1,4 @@
-Marasmiellus subfumosus (Speg.) Singer SPECIES
-=======
+# Marasmiellus subfumosus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

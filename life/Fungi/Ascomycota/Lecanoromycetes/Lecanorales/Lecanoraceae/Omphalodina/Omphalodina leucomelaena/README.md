@@ -1,8 +1,7 @@
-Omphalodina leucomelena (Hue) C.W. Dodge SPECIES
-=======
+# Omphalodina leucomelaena (Hue) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

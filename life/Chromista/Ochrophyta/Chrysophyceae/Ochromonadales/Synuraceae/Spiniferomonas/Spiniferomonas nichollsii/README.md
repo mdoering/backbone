@@ -1,5 +1,4 @@
-Spiniferomonas nichollsii H. Ito & E. Takahashi SPECIES
-=======
+# Spiniferomonas nichollsii H. Ito & E. Takahashi SPECIES
 
 #### Status
 ACCEPTED

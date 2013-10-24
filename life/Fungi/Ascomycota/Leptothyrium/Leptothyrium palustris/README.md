@@ -1,5 +1,4 @@
-Leptothyrium palustris Fautrey SPECIES
-=======
+# Leptothyrium palustris Fautrey SPECIES
 
 #### Status
 ACCEPTED

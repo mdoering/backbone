@@ -1,5 +1,4 @@
-Coprinus phyllophilus P. Karst. SPECIES
-=======
+# Coprinus phyllophilus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporidium simulans (Ellis & Kellerm.) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Cercosporidium simulans (Ellis & Kellerm.) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

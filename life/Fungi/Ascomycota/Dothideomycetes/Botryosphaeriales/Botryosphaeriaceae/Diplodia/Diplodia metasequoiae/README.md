@@ -1,5 +1,4 @@
-Diplodia metasequoiae Gucevic SPECIES
-=======
+# Diplodia metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

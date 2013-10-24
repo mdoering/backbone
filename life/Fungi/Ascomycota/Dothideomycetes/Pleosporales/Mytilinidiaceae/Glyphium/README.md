@@ -1,5 +1,4 @@
-Glyphium Nitschke ex F. Lehm. GENUS
-=======
+# Glyphium Nitschke ex F. Lehm. GENUS
 
 #### Status
 ACCEPTED

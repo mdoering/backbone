@@ -1,5 +1,4 @@
-Hypholoma tsugaecola Kauffman SPECIES
-=======
+# Hypholoma tsugaecola Kauffman SPECIES
 
 #### Status
 ACCEPTED

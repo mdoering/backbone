@@ -1,5 +1,4 @@
-Puccinia isachnes Petch SPECIES
-=======
+# Puccinia isachnes Petch SPECIES
 
 #### Status
 ACCEPTED

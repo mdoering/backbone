@@ -1,17 +1,16 @@
-Poria floridana (Murrill) Sacc. & Trotter, 1912 SPECIES
-=======
+# Phellinus umbrinellus (Bres.) S. Herrera & Bondartseva, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 329 (1912)
+in Bondartseva & Herrera, Mikol. Fitopatol. 14(1): 8 (1980)
 
 #### Original name
-Fomitiporella floridana Murrill, 1907
+Poria umbrinella Bres., 1896
 
 ### Remarks
 null

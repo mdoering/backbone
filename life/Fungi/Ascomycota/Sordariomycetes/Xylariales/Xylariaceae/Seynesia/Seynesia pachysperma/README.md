@@ -1,5 +1,4 @@
-Seynesia pachysperma Speg. SPECIES
-=======
+# Seynesia pachysperma Speg. SPECIES
 
 #### Status
 ACCEPTED

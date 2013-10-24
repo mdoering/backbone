@@ -1,8 +1,7 @@
-Verrucaria massalongii Garov. SPECIES
-=======
+# Verrucaria massalongoi Garov. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria massalongii Garov.
+Verrucaria massalongoi Garov.
 
 ### Remarks
 null

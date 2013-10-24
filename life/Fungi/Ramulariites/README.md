@@ -1,5 +1,4 @@
-Ramulariites Babajan & Tasl. GENUS
-=======
+# Ramulariites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

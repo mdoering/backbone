@@ -1,14 +1,13 @@
-Heimiella japonica Hongo, 1969 SPECIES
-=======
+# Heimioporus japonicus (Hongo) E. Horak, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 56(2): 238 (2004)
 
 #### Original name
 Heimiella japonica Hongo, 1969

@@ -1,5 +1,4 @@
-Graphis carassensis Vain. SPECIES
-=======
+# Graphis carassensis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protopeneroplis Hofker, 1950 GENUS
-=======
+# Protopeneroplis Hofker, 1950 GENUS
 
 #### Status
 ACCEPTED

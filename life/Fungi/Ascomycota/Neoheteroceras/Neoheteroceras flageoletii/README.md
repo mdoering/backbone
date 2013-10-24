@@ -1,14 +1,13 @@
-Heteroceras flageoletii Sacc., 1915 SPECIES
-=======
+# Neoheteroceras flageoletii (Sacc.) Nag Raj, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(2): 136 (1915)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 539 (1993)
 
 #### Original name
 Heteroceras flageoletii Sacc., 1915

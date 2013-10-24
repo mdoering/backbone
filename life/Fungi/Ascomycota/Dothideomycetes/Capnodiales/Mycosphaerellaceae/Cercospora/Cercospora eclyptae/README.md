@@ -1,5 +1,4 @@
-Cercospora eclyptae Chupp SPECIES
-=======
+# Cercospora eclyptae Chupp SPECIES
 
 #### Status
 ACCEPTED

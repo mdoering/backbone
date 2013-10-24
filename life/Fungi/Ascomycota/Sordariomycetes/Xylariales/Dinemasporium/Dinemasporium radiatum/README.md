@@ -1,5 +1,4 @@
-Dinemasporium radiatum Ellis & Everh. SPECIES
-=======
+# Dinemasporium radiatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

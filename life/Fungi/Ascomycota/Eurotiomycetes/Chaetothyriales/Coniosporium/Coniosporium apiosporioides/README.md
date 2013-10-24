@@ -1,5 +1,4 @@
-Coniosporium apiosporioides Sacc. SPECIES
-=======
+# Coniosporium apiosporioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

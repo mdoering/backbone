@@ -1,17 +1,16 @@
-Cortinarius nigrolidus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius nigro-olidus Chevassut & Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 3(2): 188 (1982)
 
 #### Original name
-Cortinarius nigrolidus Chevassut & Rob. Henry
+Cortinarius nigro-olidus Chevassut & Rob. Henry
 
 ### Remarks
 null

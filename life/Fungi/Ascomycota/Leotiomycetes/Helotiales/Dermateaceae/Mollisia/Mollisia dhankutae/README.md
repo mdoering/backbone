@@ -1,5 +1,4 @@
-Mollisia dhankutae Balf.-Browne SPECIES
-=======
+# Mollisia dhankutae Balf.-Browne SPECIES
 
 #### Status
 ACCEPTED

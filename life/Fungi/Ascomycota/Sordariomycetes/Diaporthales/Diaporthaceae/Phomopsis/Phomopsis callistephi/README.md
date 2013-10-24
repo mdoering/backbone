@@ -1,5 +1,4 @@
-Phomopsis callistephi Tehon & E.Y. Daniels SPECIES
-=======
+# Phomopsis callistephi Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

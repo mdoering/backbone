@@ -1,5 +1,4 @@
-Leptothyrium fixum Sacc. SPECIES
-=======
+# Leptothyrium fixum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis avellana Meunier, ? SPECIES
-=======
+# Tintinnopsis avellana Meunier, ? SPECIES
 
 #### Status
 ACCEPTED

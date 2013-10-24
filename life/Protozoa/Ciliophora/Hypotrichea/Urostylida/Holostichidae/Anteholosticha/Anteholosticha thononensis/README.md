@@ -1,5 +1,4 @@
-Anteholosticha thononensis Dragesco, 1966 SPECIES
-=======
+# Anteholosticha thononensis Dragesco, 1966 SPECIES
 
 #### Status
 ACCEPTED

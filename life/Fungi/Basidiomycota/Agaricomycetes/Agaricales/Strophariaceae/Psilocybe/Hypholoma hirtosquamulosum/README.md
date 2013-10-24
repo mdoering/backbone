@@ -1,5 +1,4 @@
-Hypholoma hirtosquamulosum (Peck) Sacc. SPECIES
-=======
+# Hypholoma hirtosquamulosum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

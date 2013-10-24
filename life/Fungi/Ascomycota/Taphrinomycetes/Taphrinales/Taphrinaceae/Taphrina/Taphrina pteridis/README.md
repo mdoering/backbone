@@ -1,5 +1,4 @@
-Taphrina pteridis Viégas SPECIES
-=======
+# Taphrina pteridis Viégas SPECIES
 
 #### Status
 ACCEPTED

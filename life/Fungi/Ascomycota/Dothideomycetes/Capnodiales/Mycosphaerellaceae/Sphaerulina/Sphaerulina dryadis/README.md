@@ -1,5 +1,4 @@
-Sphaerulina dryadis Starbäck SPECIES
-=======
+# Sphaerulina dryadis Starbäck SPECIES
 
 #### Status
 ACCEPTED

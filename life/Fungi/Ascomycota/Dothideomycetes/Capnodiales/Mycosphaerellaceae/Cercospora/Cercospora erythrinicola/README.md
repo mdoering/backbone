@@ -1,5 +1,4 @@
-Cercospora erythrinicola Tharp, 1917 SPECIES
-=======
+# Cercospora erythrinicola Tharp, 1917 SPECIES
 
 #### Status
 ACCEPTED

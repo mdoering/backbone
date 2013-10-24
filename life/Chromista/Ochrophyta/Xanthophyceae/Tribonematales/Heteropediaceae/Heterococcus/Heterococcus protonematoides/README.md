@@ -1,5 +1,4 @@
-Heterococcus protonematoides Vischer SPECIES
-=======
+# Heterococcus protonematoides Vischer SPECIES
 
 #### Status
 ACCEPTED

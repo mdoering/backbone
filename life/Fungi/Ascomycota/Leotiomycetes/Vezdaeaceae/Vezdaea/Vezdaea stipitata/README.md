@@ -1,5 +1,4 @@
-Vezdaea stipitata Poelt & Döbbeler SPECIES
-=======
+# Vezdaea stipitata Poelt & Döbbeler SPECIES
 
 #### Status
 ACCEPTED

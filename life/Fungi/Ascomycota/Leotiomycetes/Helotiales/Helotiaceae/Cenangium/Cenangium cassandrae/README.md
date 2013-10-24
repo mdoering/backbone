@@ -1,5 +1,4 @@
-Cenangium cassandrae Peck SPECIES
-=======
+# Cenangium cassandrae Peck SPECIES
 
 #### Status
 ACCEPTED

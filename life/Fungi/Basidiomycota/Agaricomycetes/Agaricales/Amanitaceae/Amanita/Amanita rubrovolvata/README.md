@@ -1,5 +1,4 @@
-Amanita rubrovolvata S. Imai SPECIES
-=======
+# Amanita rubrovolvata S. Imai SPECIES
 
 #### Status
 ACCEPTED

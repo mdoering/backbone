@@ -1,5 +1,4 @@
-Verticillium aphidis Rostr. SPECIES
-=======
+# Verticillium aphidis Rostr. SPECIES
 
 #### Status
 ACCEPTED

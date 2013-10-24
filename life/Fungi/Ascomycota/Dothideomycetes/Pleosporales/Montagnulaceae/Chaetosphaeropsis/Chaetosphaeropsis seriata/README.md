@@ -1,17 +1,16 @@
-Chaetosphaeropsis serialus S. Ahmad & Arshad SPECIES
-=======
+# Chaetosphaeropsis seriata S. Ahmad & Arshad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 18(1): 14 (1972)
 
 #### Original name
-Chaetosphaeropsis serialus S. Ahmad & Arshad
+Chaetosphaeropsis seriata S. Ahmad & Arshad
 
 ### Remarks
 null

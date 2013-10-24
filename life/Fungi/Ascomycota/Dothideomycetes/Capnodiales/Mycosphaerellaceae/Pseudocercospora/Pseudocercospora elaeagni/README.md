@@ -1,5 +1,4 @@
-Pseudocercospora elaeagni SPECIES
-=======
+# Pseudocercospora elaeagni SPECIES
 
 #### Status
 ACCEPTED

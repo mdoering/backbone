@@ -1,5 +1,4 @@
-Peniophora fumigata (Thüm.) Höhn. & Litsch. SPECIES
-=======
+# Peniophora fumigata (Thüm.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

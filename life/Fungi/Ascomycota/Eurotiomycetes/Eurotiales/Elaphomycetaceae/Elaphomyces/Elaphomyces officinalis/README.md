@@ -1,5 +1,4 @@
-Elaphomyces officinalis Nees, 1820 SPECIES
-=======
+# Elaphomyces officinalis Nees, 1820 SPECIES
 
 #### Status
 ACCEPTED

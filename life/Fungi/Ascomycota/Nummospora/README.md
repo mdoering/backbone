@@ -1,5 +1,4 @@
-Nummospora E. Müll. & Shoemaker GENUS
-=======
+# Nummospora E. Müll. & Shoemaker GENUS
 
 #### Status
 ACCEPTED

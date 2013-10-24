@@ -1,5 +1,4 @@
-Opegrapha diffracta Fée SPECIES
-=======
+# Opegrapha diffracta Fée SPECIES
 
 #### Status
 ACCEPTED

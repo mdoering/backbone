@@ -1,5 +1,4 @@
-Euglena aumuelleri Schiller SPECIES
-=======
+# Euglena aumuelleri Schiller SPECIES
 
 #### Status
 ACCEPTED

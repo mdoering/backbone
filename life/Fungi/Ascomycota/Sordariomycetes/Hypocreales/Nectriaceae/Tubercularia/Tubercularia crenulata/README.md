@@ -1,5 +1,4 @@
-Tubercularia crenulata (Hepp) SPECIES
-=======
+# Tubercularia crenulata (Hepp) SPECIES
 
 #### Status
 ACCEPTED

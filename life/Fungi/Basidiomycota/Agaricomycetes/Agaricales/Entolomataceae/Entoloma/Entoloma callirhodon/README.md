@@ -1,5 +1,4 @@
-Entoloma callirhodon Hauskn. & Noordel. SPECIES
-=======
+# Entoloma callirhodon Hauskn. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

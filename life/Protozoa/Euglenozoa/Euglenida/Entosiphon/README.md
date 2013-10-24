@@ -1,5 +1,4 @@
-Entosiphon Stein, 1878 GENUS
-=======
+# Entosiphon Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

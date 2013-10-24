@@ -1,5 +1,4 @@
-Dendryphiosphaera minuta V. Rao & de Hoog SPECIES
-=======
+# Dendryphiosphaera minuta V. Rao & de Hoog SPECIES
 
 #### Status
 ACCEPTED

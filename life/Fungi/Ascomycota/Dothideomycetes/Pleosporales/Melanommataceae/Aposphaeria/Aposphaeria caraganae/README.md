@@ -1,5 +1,4 @@
-Aposphaeria caraganae I.E. Brezhnev SPECIES
-=======
+# Aposphaeria caraganae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bacidia fuscorubra Vezda SPECIES
-=======
+# Barubria fuscorubra (Vezda) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mus. Silesiae, Ser. A 24: 122 (1975)
+Folia geobot. phytotax. 21(2): 215 (1986)
 
 #### Original name
 Bacidia fuscorubra Vezda

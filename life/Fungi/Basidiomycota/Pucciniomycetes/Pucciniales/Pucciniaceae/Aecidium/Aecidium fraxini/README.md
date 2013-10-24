@@ -1,5 +1,4 @@
-Aecidium fraxini Schwein. SPECIES
-=======
+# Aecidium fraxini Schwein. SPECIES
 
 #### Status
 ACCEPTED

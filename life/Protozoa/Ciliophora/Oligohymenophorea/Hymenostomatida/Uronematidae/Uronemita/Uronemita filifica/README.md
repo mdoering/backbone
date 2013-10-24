@@ -1,8 +1,7 @@
-Urocyclon filificus (Kahl, 1931) Small & Lynn, 1985 SPECIES
-=======
+# Uronemita filifica (Kahl, 1931) Jankowski, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

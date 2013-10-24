@@ -1,5 +1,4 @@
-Phellinus cinereus Rick SPECIES
-=======
+# Phellinus cinereus Rick SPECIES
 
 #### Status
 ACCEPTED

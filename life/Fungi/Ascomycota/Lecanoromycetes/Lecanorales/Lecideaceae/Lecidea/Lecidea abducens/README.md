@@ -1,5 +1,4 @@
-Lecidea abducens Nyl. SPECIES
-=======
+# Lecidea abducens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lophium mayori H. Zogg SPECIES
-=======
+# Zoggium mayorii (H. Zogg) Lar.N. Vassiljeva, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mikol. Fitopatol. 35(1): 17 (2001)
 
 #### Original name
-Lophium mayori H. Zogg
+Lophium mayorii H. Zogg, 1952
 
 ### Remarks
 null

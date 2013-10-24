@@ -1,5 +1,4 @@
-Psathyrella ligans (Britzelm.) Sacc. SPECIES
-=======
+# Psathyrella ligans (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

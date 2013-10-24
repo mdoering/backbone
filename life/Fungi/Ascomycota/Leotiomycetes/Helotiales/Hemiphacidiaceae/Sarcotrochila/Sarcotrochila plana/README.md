@@ -1,14 +1,13 @@
-Phacidium planum Davis, 1922 SPECIES
-=======
+# Sarcotrochila plana (Davis) J.K. Stone & Gernandt, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Wis. Acad. Sci. Arts Lett. 20: 424 (1922)
+Mycotaxon 91: 120 (2005)
 
 #### Original name
 Phacidium planum Davis, 1922

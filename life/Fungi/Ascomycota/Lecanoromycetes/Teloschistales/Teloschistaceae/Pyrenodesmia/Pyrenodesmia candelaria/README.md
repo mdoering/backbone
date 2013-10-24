@@ -1,5 +1,4 @@
-Pyrenodesmia candelaria (Weber ex F.H. Wigg.) Trevis. SPECIES
-=======
+# Pyrenodesmia candelaria (Weber ex F.H. Wigg.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

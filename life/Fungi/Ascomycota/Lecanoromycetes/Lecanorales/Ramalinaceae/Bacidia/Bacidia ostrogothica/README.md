@@ -1,5 +1,4 @@
-Bacidia ostrogothica Malme SPECIES
-=======
+# Bacidia ostrogothica Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula navicula Corner, 1952 SPECIES
-=======
+# Pterula navicula Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

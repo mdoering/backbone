@@ -1,14 +1,13 @@
-Diatrype costesi (Speg.) Petr. & Syd. SPECIES
-=======
+# Diatrype costesii (Speg.) Petr. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 32: 25 (1934)
 
 #### Original name
 Ectosphaeria costesii Speg.

@@ -1,5 +1,4 @@
-Myxosporium kaki Hara SPECIES
-=======
+# Myxosporium kaki Hara SPECIES
 
 #### Status
 ACCEPTED

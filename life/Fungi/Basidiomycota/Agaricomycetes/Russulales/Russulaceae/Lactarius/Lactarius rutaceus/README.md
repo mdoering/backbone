@@ -1,5 +1,4 @@
-Lactarius rutaceus (Lasch) Sacc. SPECIES
-=======
+# Lactarius rutaceus (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

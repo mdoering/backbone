@@ -1,17 +1,16 @@
-Pringsheimiella Couch, 1939 GENUS
-=======
+# Dictyomorpha Mullins, 1961 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 55: 409 (1939)
+Am. J. Bot. 48: 378 (1961)
 
 #### Original name
-Pringsheimiella Couch, 1939
+Dictyomorpha Mullins, 1961
 
 ### Remarks
 null

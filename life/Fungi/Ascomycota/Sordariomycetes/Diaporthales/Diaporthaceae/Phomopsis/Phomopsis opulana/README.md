@@ -1,5 +1,4 @@
-Phomopsis opulana Sacc. SPECIES
-=======
+# Phomopsis opulana Sacc. SPECIES
 
 #### Status
 ACCEPTED

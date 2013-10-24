@@ -1,5 +1,4 @@
-Psilocybe xalapensis Guzmán & A. López SPECIES
-=======
+# Psilocybe xalapensis Guzmán & A. López SPECIES
 
 #### Status
 ACCEPTED

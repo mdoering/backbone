@@ -1,17 +1,16 @@
-Phomopsis alnea Höhn., 1906 SPECIES
-=======
+# Diaporthe alnea Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 115: 681 (1906)
+Fungi rhenani 23-24: no. 1988 (1870)
 
 #### Original name
-Phomopsis alnea Höhn., 1906
+Diaporthe alnea Fuckel, 1870
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aposphaeria inconspicua (Desm.) Sacc. SPECIES
-=======
+# Aposphaeria inconspicua (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora cernohorskyana Clauzade & Vezda SPECIES
-=======
+# Lecanora cernohorskyana Clauzade & Vezda SPECIES
 
 #### Status
 ACCEPTED

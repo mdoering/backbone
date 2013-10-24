@@ -1,5 +1,4 @@
-Humaria phycophila Oudem. SPECIES
-=======
+# Humaria phycophila Oudem. SPECIES
 
 #### Status
 ACCEPTED

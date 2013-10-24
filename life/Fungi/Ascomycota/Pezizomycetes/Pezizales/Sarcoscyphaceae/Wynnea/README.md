@@ -1,5 +1,4 @@
-Wynnea Berk. & M.A. Curtis GENUS
-=======
+# Wynnea Berk. & M.A. Curtis GENUS
 
 #### Status
 ACCEPTED

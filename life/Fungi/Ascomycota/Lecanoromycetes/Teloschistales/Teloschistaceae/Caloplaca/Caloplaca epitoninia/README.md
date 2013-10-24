@@ -1,5 +1,4 @@
-Caloplaca epitoninia Breuss SPECIES
-=======
+# Caloplaca epitoninia Breuss SPECIES
 
 #### Status
 ACCEPTED

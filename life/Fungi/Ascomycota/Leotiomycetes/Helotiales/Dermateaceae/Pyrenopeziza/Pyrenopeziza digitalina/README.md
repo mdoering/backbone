@@ -1,17 +1,16 @@
-Mollisia digitalina var. digitalina W. Phillips VARIETY
-=======
+# Pyrenopeziza digitalina (W. Phillips) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 358 (1889)
 
 #### Original name
-Mollisia digitalina var. digitalina W. Phillips
+Mollisia digitalina W. Phillips, 1887
 
 ### Remarks
 null

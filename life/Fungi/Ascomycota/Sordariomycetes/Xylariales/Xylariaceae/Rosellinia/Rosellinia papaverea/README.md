@@ -1,14 +1,13 @@
-Sphaeria papaverea Berk. & Broome, 1851 SPECIES
-=======
+# Rosellinia papaverea (Berk. & Broome) Ces. & De Not., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 7: 188 (1851)
+null
 
 #### Original name
 Sphaeria papaverea Berk. & Broome, 1851

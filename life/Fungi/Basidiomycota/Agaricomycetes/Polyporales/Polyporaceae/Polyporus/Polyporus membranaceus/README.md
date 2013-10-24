@@ -1,5 +1,4 @@
-Polyporus membranaceus (Sw.) Fr. SPECIES
-=======
+# Polyporus membranaceus (Sw.) Fr. SPECIES
 
 #### Status
 ACCEPTED

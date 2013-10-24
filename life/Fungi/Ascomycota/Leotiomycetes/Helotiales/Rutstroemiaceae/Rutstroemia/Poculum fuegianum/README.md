@@ -1,14 +1,13 @@
-Calycina fuegiana (Speg.) Kuntze, 1898 SPECIES
-=======
+# Poculum fuegianum (Speg.) S.E. Carp., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 448 (1898)
+Mem. N. Y. bot. Gdn 33: 214 (1981)
 
 #### Original name
 Chlorosplenium fuegianum Speg., 1888

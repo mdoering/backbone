@@ -1,5 +1,4 @@
-Septoria fraxinicola U. Braun SPECIES
-=======
+# Septoria fraxinicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

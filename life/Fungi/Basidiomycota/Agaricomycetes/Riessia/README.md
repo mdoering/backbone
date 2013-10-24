@@ -1,5 +1,4 @@
-Riessia Fresenius, 1852 GENUS
-=======
+# Riessia Fresenius, 1852 GENUS
 
 #### Status
 ACCEPTED

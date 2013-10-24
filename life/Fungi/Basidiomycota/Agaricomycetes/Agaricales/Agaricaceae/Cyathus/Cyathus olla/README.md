@@ -1,17 +1,16 @@
-Cyathus vernicosus f. vernicosus FORM
-=======
+# Cyathus olla (Batsch) Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 270 (1805)
+Syn. meth. fung. (Göttingen) 1: 237 (1801)
 
 #### Original name
-Cyathus vernicosus f. vernicosus
+Peziza olla Batsch, 1783
 
 ### Remarks
 null

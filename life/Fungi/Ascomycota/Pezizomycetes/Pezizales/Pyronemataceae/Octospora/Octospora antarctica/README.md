@@ -1,5 +1,4 @@
-Octospora antarctica (Speg.) Gamundí SPECIES
-=======
+# Octospora antarctica (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED

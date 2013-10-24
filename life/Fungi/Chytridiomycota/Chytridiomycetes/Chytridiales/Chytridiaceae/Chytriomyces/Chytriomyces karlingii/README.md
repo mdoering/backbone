@@ -1,5 +1,4 @@
-Chytriomyces karlingii Bhasin {?} & Pavgi ined. SPECIES
-=======
+# Chytriomyces karlingii Bhasin {?} & Pavgi ined. SPECIES
 
 #### Status
 ACCEPTED

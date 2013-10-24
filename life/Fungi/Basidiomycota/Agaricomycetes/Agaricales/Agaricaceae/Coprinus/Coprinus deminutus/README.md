@@ -1,5 +1,4 @@
-Coprinus deminutus Enderle SPECIES
-=======
+# Coprinus deminutus Enderle SPECIES
 
 #### Status
 ACCEPTED

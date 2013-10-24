@@ -1,5 +1,4 @@
-Verrucaria cambrini Servít SPECIES
-=======
+# Verrucaria cambrini Servít SPECIES
 
 #### Status
 ACCEPTED

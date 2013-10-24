@@ -1,5 +1,4 @@
-Ammobaculites barwonensis Collins, 1974 SPECIES
-=======
+# Ammobaculites barwonensis Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

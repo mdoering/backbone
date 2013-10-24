@@ -1,5 +1,4 @@
-Reticulomyxa filosa Nauss SPECIES
-=======
+# Reticulomyxa filosa Nauss SPECIES
 
 #### Status
 ACCEPTED

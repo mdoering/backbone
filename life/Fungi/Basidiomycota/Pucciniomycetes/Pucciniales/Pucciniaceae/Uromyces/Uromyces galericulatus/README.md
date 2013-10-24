@@ -1,5 +1,4 @@
-Uromyces galericulatus J. Schröt. SPECIES
-=======
+# Uromyces galericulatus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutstroemia pruni-spinosae (Lib.) Whetzel & W.L. White SPECIES
-=======
+# Rutstroemia pruni-spinosae (Lib.) Whetzel & W.L. White SPECIES
 
 #### Status
 ACCEPTED

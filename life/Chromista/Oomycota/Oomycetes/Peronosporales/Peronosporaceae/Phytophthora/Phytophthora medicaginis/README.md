@@ -1,17 +1,16 @@
-Phytophthora megasperma f. sp FORM
-=======
+# Phytophthora medicaginis E.M. Hansen & D.P. Maxwell, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 70(4): 335 (1980)
+Mycologia 83(3): 377 (1991)
 
 #### Original name
-Phytophthora megasperma f. sp
+Phytophthora medicaginis E.M. Hansen & D.P. Maxwell, 1991
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trinacria barronii f. barronii P.A. Sims & R. Ross FORM
-=======
+# Trinacria barronii SPECIES
 
 #### Status
 ACCEPTED

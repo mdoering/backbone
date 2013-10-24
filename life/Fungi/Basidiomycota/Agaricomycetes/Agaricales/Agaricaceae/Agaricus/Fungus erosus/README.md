@@ -1,5 +1,4 @@
-Fungus erosus Scop. SPECIES
-=======
+# Fungus erosus Scop. SPECIES
 
 #### Status
 ACCEPTED

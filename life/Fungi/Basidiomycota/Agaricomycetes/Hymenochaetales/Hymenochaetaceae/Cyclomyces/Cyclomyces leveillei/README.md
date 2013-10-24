@@ -1,5 +1,4 @@
-Cyclomyces leveillei Bondartsev & Singer ex Bondartsev SPECIES
-=======
+# Cyclomyces leveillei Bondartsev & Singer ex Bondartsev SPECIES
 
 #### Status
 ACCEPTED

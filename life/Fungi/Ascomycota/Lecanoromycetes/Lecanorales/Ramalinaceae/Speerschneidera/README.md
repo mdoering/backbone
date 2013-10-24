@@ -1,5 +1,4 @@
-Speerschneidera Trevis. GENUS
-=======
+# Speerschneidera Trevis. GENUS
 
 #### Status
 ACCEPTED

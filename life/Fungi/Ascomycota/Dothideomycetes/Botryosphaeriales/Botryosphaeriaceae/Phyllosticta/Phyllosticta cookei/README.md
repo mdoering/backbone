@@ -1,5 +1,4 @@
-Phyllosticta cookei Sacc. SPECIES
-=======
+# Phyllosticta cookei Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnoascus intermedius G.F. Orr SPECIES
-=======
+# Gymnoascus intermedius G.F. Orr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaucheria micranthera P. González SPECIES
-=======
+# Vaucheria micranthera P. González SPECIES
 
 #### Status
 ACCEPTED

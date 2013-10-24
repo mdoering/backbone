@@ -1,5 +1,4 @@
-Bacillus thermocloaceae (sic) Demharter & Hensel, 1989 SPECIES
-=======
+# Bacillus thermocloaceae (sic) Demharter & Hensel, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella erica Pat. SPECIES
-=======
+# Cyphella erica Pat. SPECIES
 
 #### Status
 ACCEPTED

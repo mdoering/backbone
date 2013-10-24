@@ -1,5 +1,4 @@
-Smittium typhellum Manier & F. Coste, 1971 SPECIES
-=======
+# Smittium typhellum Manier & F. Coste, 1971 SPECIES
 
 #### Status
 ACCEPTED

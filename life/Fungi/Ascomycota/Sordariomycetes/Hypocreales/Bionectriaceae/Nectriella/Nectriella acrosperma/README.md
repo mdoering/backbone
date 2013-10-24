@@ -1,5 +1,4 @@
-Nectriella acrosperma Kirschst. SPECIES
-=======
+# Nectriella acrosperma Kirschst. SPECIES
 
 #### Status
 ACCEPTED

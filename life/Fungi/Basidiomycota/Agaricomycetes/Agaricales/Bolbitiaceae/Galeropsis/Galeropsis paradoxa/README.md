@@ -1,14 +1,13 @@
-Galera paradoxa Mattir., 1924 SPECIES
-=======
+# Galeropsis paradoxa Pilát, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 47(6): 274 (1899)
+Stud. Bot. Cechoslav. 9: 184 (1948)
 
 #### Original name
 Galera paradoxa Mattir., 1924

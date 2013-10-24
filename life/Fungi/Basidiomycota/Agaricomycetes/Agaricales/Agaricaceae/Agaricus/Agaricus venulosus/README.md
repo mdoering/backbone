@@ -1,5 +1,4 @@
-Agaricus venulosus Lév. SPECIES
-=======
+# Agaricus venulosus Lév. SPECIES
 
 #### Status
 ACCEPTED

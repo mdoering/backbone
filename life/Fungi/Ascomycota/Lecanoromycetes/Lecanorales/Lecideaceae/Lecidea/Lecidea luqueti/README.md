@@ -1,5 +1,4 @@
-Lecidea luqueti B. de Lesd. SPECIES
-=======
+# Lecidea luqueti B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

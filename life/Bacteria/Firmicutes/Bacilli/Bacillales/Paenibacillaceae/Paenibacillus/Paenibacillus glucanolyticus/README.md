@@ -1,8 +1,7 @@
-Bacillus glucanolyticus Alexander & Priest, 1989 SPECIES
-=======
+# Paenibacillus glucanolyticus (Alexander & Priest, 1989) Shida et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Bombyliospora subnigrata Yasuda ex Räsänen SPECIES
-=======
+# Bombyliospora subnigrata Yasuda ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

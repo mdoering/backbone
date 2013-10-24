@@ -1,5 +1,4 @@
-Caloplaca thamnoblasta Nimis & Poelt SPECIES
-=======
+# Caloplaca thamnoblasta Nimis & Poelt SPECIES
 
 #### Status
 ACCEPTED

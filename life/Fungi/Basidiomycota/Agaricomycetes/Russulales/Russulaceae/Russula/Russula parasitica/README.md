@@ -1,5 +1,4 @@
-Russula parasitica var. parasitica VARIETY
-=======
+# Russula parasitica (R. Heim) Buyck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 39: 322 (1990)
 
 #### Original name
-Russula parasitica var. parasitica
+Russula annulata subsp. parasitica R. Heim
 
 ### Remarks
 null

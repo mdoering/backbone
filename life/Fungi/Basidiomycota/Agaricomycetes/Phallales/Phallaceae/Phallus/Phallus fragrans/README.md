@@ -1,5 +1,4 @@
-Phallus fragrans M. Zhang SPECIES
-=======
+# Phallus fragrans M. Zhang SPECIES
 
 #### Status
 ACCEPTED

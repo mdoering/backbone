@@ -1,5 +1,4 @@
-Exidia nobilis Lév. SPECIES
-=======
+# Exidia nobilis Lév. SPECIES
 
 #### Status
 ACCEPTED

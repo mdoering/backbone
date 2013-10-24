@@ -1,5 +1,4 @@
-Fimetariella macromischa J.C. Krug SPECIES
-=======
+# Fimetariella macromischa J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

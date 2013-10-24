@@ -1,5 +1,4 @@
-Leptonia altissima Massee SPECIES
-=======
+# Leptonia altissima Massee SPECIES
 
 #### Status
 ACCEPTED

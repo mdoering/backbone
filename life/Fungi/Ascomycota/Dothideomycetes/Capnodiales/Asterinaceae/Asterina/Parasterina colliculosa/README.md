@@ -1,5 +1,4 @@
-Parasterina colliculosa var. colliculosa VARIETY
-=======
+# Parasterina colliculosa (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parasterina colliculosa var. colliculosa
+Asterina colliculosa Speg.
 
 ### Remarks
 null

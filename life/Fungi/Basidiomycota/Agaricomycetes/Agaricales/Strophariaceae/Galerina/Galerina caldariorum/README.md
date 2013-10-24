@@ -1,5 +1,4 @@
-Galerina caldariorum Svrcek SPECIES
-=======
+# Galerina caldariorum Svrcek SPECIES
 
 #### Status
 ACCEPTED

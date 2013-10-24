@@ -1,5 +1,4 @@
-Thysanophora canadensis Stolk & Hennebert, 1968 SPECIES
-=======
+# Thysanophora canadensis Stolk & Hennebert, 1968 SPECIES
 
 #### Status
 ACCEPTED

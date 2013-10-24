@@ -1,5 +1,4 @@
-Protocreopsis javanica (Höhn.) Rossman & Samuels SPECIES
-=======
+# Protocreopsis javanica (Höhn.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

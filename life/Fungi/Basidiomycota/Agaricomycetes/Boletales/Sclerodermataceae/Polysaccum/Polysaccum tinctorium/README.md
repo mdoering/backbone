@@ -1,5 +1,4 @@
-Polysaccum tinctorium Mont. SPECIES
-=======
+# Polysaccum tinctorium Mont. SPECIES
 
 #### Status
 ACCEPTED

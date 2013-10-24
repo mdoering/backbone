@@ -1,5 +1,4 @@
-Phyllosticta quamoclit Thüm. SPECIES
-=======
+# Phyllosticta quamoclit Thüm. SPECIES
 
 #### Status
 ACCEPTED

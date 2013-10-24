@@ -1,5 +1,4 @@
-Blastotrichum confervoides Corda SPECIES
-=======
+# Blastotrichum confervoides Corda SPECIES
 
 #### Status
 ACCEPTED

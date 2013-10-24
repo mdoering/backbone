@@ -1,5 +1,4 @@
-Marasmiellus peckii (Murrill) Singer SPECIES
-=======
+# Marasmiellus peckii (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

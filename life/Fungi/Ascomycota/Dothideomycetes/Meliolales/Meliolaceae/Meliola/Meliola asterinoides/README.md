@@ -1,5 +1,4 @@
-Meliola asterinoides G. Winter SPECIES
-=======
+# Meliola asterinoides G. Winter SPECIES
 
 #### Status
 ACCEPTED

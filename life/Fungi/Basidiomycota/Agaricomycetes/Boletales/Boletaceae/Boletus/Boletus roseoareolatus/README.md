@@ -1,5 +1,4 @@
-Boletus roseoareolatus Ortiz & T.J. Baroni SPECIES
-=======
+# Boletus roseoareolatus Ortiz & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

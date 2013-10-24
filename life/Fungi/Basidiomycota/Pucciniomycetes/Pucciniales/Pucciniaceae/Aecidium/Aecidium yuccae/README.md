@@ -1,5 +1,4 @@
-Aecidium yuccae Arthur SPECIES
-=======
+# Aecidium yuccae Arthur SPECIES
 
 #### Status
 ACCEPTED

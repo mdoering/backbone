@@ -1,5 +1,4 @@
-Clitocybe vaga Berk. SPECIES
-=======
+# Clitocybe vaga Berk. SPECIES
 
 #### Status
 ACCEPTED

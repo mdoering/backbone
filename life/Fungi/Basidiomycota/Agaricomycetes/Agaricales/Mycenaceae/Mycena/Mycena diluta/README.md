@@ -1,5 +1,4 @@
-Mycena diluta Métrod SPECIES
-=======
+# Mycena diluta Métrod SPECIES
 
 #### Status
 ACCEPTED

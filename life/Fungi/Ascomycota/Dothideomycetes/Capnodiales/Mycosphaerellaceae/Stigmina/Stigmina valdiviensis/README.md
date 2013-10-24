@@ -1,5 +1,4 @@
-Stigmina valdiviensis Speg. SPECIES
-=======
+# Stigmina valdiviensis Speg. SPECIES
 
 #### Status
 ACCEPTED

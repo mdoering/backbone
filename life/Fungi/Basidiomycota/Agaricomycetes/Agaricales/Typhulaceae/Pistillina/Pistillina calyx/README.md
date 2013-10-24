@@ -1,5 +1,4 @@
-Pistillina calyx R. Heim SPECIES
-=======
+# Pistillina calyx R. Heim SPECIES
 
 #### Status
 ACCEPTED

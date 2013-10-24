@@ -1,5 +1,4 @@
-Ionaspis cinereorufescens SPECIES
-=======
+# Ionaspis cinereorufescens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mirimyces pulcher Nag Raj, 1993 SPECIES
-=======
+# Mirimyces pulcher Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

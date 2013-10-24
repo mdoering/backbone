@@ -1,5 +1,4 @@
-Marasmius jubincola Cooke SPECIES
-=======
+# Marasmius jubincola Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria cremoricolor (Berk.) Sacc. SPECIES
-=======
+# Humaria cremoricolor (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

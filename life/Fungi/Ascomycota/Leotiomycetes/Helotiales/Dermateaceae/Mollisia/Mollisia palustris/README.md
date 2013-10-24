@@ -1,17 +1,16 @@
-Mollisia palustris var. palustris VARIETY
-=======
+# Mollisia palustris (Roberge ex Desm.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycoth. fenn. (Helsinki) 1: 189 (1871)
 
 #### Original name
-Mollisia palustris var. palustris
+null
 
 ### Remarks
 null

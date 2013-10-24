@@ -1,5 +1,4 @@
-Tolypothrix lanata var. hawaiiensis Nordstedt VARIETY
-=======
+# Tolypothrix lanata (Desvaux) Wartmann ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

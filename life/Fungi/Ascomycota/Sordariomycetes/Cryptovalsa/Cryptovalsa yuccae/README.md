@@ -1,5 +1,4 @@
-Cryptovalsa yuccae Speg. SPECIES
-=======
+# Cryptovalsa yuccae Speg. SPECIES
 
 #### Status
 ACCEPTED

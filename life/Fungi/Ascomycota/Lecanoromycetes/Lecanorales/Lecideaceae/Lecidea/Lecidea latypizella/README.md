@@ -1,5 +1,4 @@
-Lecidea latypizella Nádv. SPECIES
-=======
+# Lecidea latypizella Nádv. SPECIES
 
 #### Status
 ACCEPTED

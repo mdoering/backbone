@@ -1,5 +1,4 @@
-Uredo fallax Corda SPECIES
-=======
+# Uredo fallax Corda SPECIES
 
 #### Status
 ACCEPTED

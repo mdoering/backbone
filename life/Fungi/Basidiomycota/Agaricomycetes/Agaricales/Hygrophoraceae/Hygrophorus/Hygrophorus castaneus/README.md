@@ -1,5 +1,4 @@
-Hygrophorus castaneus Henn. SPECIES
-=======
+# Hygrophorus castaneus Henn. SPECIES
 
 #### Status
 ACCEPTED

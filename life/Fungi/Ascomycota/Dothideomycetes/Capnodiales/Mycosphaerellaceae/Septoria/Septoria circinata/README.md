@@ -1,5 +1,4 @@
-Septoria circinata Ellis & Everh. SPECIES
-=======
+# Septoria circinata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

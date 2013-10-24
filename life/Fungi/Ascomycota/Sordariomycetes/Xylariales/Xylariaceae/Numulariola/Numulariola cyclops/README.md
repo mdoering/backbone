@@ -1,5 +1,4 @@
-Numulariola cyclops (Mont.) P.M.D. Martin SPECIES
-=======
+# Numulariola cyclops (Mont.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

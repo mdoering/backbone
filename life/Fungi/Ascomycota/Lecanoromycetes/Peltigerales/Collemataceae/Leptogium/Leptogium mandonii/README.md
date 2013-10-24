@@ -1,5 +1,4 @@
-Leptogium mandonii P. M. Jørg. SPECIES
-=======
+# Leptogium mandonii P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

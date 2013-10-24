@@ -1,5 +1,4 @@
-Valsa crocina Mont. SPECIES
-=======
+# Valsa crocina Mont. SPECIES
 
 #### Status
 ACCEPTED

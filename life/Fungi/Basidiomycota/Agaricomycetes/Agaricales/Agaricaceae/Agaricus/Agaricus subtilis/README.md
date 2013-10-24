@@ -1,5 +1,4 @@
-Agaricus subtilis Fr. SPECIES
-=======
+# Agaricus subtilis Fr. SPECIES
 
 #### Status
 ACCEPTED

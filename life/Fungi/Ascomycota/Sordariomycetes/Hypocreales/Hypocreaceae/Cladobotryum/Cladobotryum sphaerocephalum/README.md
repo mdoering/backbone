@@ -1,17 +1,16 @@
-Dactylium dendroides subsp. leptosporum Sacc. SUBSPECIES
-=======
+# Cladobotryum sphaerocephalum (Berk.) Rogerson & Samuels, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 189 (1882)
+Mycologia 85(2): 241 (1993)
 
 #### Original name
-Dactylium dendroides subsp. leptosporum Sacc.
+Dactylium sphaerocephalum Berk., 1841
 
 ### Remarks
 null

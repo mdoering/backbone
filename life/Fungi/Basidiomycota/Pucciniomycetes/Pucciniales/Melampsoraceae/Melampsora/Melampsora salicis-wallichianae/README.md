@@ -1,5 +1,4 @@
-Melampsora salicis-wallichianae Ulbr. SPECIES
-=======
+# Melampsora salicis-wallichianae Ulbr. SPECIES
 
 #### Status
 ACCEPTED

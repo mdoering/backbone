@@ -1,5 +1,4 @@
-Lecidea niveoatra Ach. SPECIES
-=======
+# Lecidea niveoatra Ach. SPECIES
 
 #### Status
 ACCEPTED

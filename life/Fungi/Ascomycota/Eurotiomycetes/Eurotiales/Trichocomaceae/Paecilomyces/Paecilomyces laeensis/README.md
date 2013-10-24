@@ -1,5 +1,4 @@
-Paecilomyces laeensis Matsush. SPECIES
-=======
+# Paecilomyces laeensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

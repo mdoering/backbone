@@ -1,5 +1,4 @@
-Diplodia opuli Pass., 1890 SPECIES
-=======
+# Diplodia opuli Pass., 1890 SPECIES
 
 #### Status
 ACCEPTED

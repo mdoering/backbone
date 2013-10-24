@@ -1,5 +1,4 @@
-Hendersonia calomovilfae Petr. SPECIES
-=======
+# Hendersonia calomovilfae Petr. SPECIES
 
 #### Status
 ACCEPTED

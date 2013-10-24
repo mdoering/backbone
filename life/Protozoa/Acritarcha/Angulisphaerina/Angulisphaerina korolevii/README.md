@@ -1,5 +1,4 @@
-Angulisphaerina korolevii Lopukhin, 1966 SPECIES
-=======
+# Angulisphaerina korolevii Lopukhin, 1966 SPECIES
 
 #### Status
 ACCEPTED

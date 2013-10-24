@@ -1,5 +1,4 @@
-Isaria asamaensis Aoki SPECIES
-=======
+# Isaria asamaensis Aoki SPECIES
 
 #### Status
 ACCEPTED

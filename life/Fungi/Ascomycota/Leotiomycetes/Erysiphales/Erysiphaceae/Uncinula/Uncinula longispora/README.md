@@ -1,5 +1,4 @@
-Uncinula longispora var. longispora VARIETY
-=======
+# Uncinula longispora R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Acta microbiol. sin. 17(3): 204 (1977)
 
 #### Original name
-Uncinula longispora var. longispora
+Uncinula longispora R.Y. Zheng & G.Q. Chen
 
 ### Remarks
 null

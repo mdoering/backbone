@@ -1,5 +1,4 @@
-Lactarius sordidus Velen. SPECIES
-=======
+# Lactarius sordidus Velen. SPECIES
 
 #### Status
 ACCEPTED

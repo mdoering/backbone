@@ -1,5 +1,4 @@
-Gontrania Sauvageau, 1936 GENUS
-=======
+# Gontrania Sauvageau, 1936 GENUS
 
 #### Status
 ACCEPTED

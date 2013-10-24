@@ -1,5 +1,4 @@
-Caloplaca volkii V. Wirth & Vezda SPECIES
-=======
+# Caloplaca volkii V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED

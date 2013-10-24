@@ -1,5 +1,4 @@
-Russula luteoloalba Britzelm. SPECIES
-=======
+# Russula luteoloalba Britzelm. SPECIES
 
 #### Status
 ACCEPTED

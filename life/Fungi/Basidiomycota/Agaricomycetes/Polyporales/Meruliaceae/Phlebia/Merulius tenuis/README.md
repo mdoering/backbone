@@ -1,5 +1,4 @@
-Merulius tenuis Peck SPECIES
-=======
+# Merulius tenuis Peck SPECIES
 
 #### Status
 ACCEPTED

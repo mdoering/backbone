@@ -1,5 +1,4 @@
-Gloniella jaffueli Speg. SPECIES
-=======
+# Gloniella jaffueli Speg. SPECIES
 
 #### Status
 ACCEPTED

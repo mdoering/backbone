@@ -1,5 +1,4 @@
-Olpidium trifolii (Pass.) J. Schröt. SPECIES
-=======
+# Olpidium trifolii (Pass.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

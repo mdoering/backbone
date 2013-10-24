@@ -1,5 +1,4 @@
-Psilocybe agariella G.F. Atk. SPECIES
-=======
+# Psilocybe agariella G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

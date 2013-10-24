@@ -1,5 +1,4 @@
-Sordaria pachydermatica Ces. SPECIES
-=======
+# Sordaria pachydermatica Ces. SPECIES
 
 #### Status
 ACCEPTED

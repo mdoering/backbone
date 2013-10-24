@@ -1,5 +1,4 @@
-Micropeltis myristicacearum Bat. & Peres SPECIES
-=======
+# Micropeltis myristicacearum Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

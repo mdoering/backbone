@@ -1,5 +1,4 @@
-Helminthosporium elasticae Koord. SPECIES
-=======
+# Helminthosporium elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

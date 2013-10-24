@@ -1,5 +1,4 @@
-Involucrothele disjunctoides Servít SPECIES
-=======
+# Involucrothele disjunctoides Servít SPECIES
 
 #### Status
 ACCEPTED

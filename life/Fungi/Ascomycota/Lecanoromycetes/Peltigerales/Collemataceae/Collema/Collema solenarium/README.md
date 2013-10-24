@@ -1,5 +1,4 @@
-Collema solenarium Tuck. SPECIES
-=======
+# Collema solenarium Tuck. SPECIES
 
 #### Status
 ACCEPTED

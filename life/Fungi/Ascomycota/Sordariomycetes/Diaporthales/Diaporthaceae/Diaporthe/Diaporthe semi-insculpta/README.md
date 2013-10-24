@@ -1,5 +1,4 @@
-Diaporthe semi-insculpta Sacc. SPECIES
-=======
+# Diaporthe semi-insculpta Sacc. SPECIES
 
 #### Status
 ACCEPTED

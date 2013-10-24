@@ -1,5 +1,4 @@
-Symplectromyces Thaxt. GENUS
-=======
+# Symplectromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

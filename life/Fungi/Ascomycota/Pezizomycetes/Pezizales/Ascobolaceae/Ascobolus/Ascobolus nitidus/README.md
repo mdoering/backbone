@@ -1,5 +1,4 @@
-Ascobolus nitidus Rodway SPECIES
-=======
+# Ascobolus nitidus Rodway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heteronectria GENUS
-=======
+# Heteronectria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena wubabulna Grgur. SPECIES
-=======
+# Mycena wubabulna Grgur. SPECIES
 
 #### Status
 ACCEPTED

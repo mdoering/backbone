@@ -1,5 +1,4 @@
-Lobaria squarrosa Hoffm. SPECIES
-=======
+# Lobaria squarrosa Hoffm. SPECIES
 
 #### Status
 ACCEPTED

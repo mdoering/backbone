@@ -1,5 +1,4 @@
-Guttula Skvortzov & Noda, 1969 GENUS
-=======
+# Guttula Skvortzov & Noda, 1969 GENUS
 
 #### Status
 ACCEPTED

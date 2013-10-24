@@ -1,5 +1,4 @@
-Physarum bitectum G. Lister, 1911 SPECIES
-=======
+# Physarum bitectum G. Lister, 1911 SPECIES
 
 #### Status
 ACCEPTED

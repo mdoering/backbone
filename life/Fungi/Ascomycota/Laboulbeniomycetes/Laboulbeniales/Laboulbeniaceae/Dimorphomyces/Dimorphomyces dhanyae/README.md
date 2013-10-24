@@ -1,5 +1,4 @@
-Dimorphomyces dhanyae (Thaxt.) I.I. Tav. SPECIES
-=======
+# Dimorphomyces dhanyae (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

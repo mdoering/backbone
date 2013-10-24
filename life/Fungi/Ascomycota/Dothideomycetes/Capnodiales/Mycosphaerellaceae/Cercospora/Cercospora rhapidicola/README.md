@@ -1,17 +1,16 @@
-Cercospora rhapisicola Tominaga SPECIES
-=======
+# Cercospora rhapidicola Tominaga SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 5: 59 (1965)
 
 #### Original name
-Cercospora rhapisicola Tominaga
+Cercospora rhapidicola Tominaga
 
 ### Remarks
 null

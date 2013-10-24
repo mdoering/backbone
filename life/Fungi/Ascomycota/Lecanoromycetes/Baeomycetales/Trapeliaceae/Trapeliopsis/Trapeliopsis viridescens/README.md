@@ -1,14 +1,13 @@
-Helocarpon viridescens (Schrad.) M. Choisy SPECIES
-=======
+# Trapeliopsis viridescens (Schrad.) Coppins & P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 16(3): 263 (1984)
 
 #### Original name
 Lichen viridescens A. Massal.

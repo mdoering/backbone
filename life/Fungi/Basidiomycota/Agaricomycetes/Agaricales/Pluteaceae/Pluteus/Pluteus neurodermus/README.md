@@ -1,5 +1,4 @@
-Pluteus neurodermus Pat. SPECIES
-=======
+# Pluteus neurodermus Pat. SPECIES
 
 #### Status
 ACCEPTED

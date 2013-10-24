@@ -1,5 +1,4 @@
-Bretonia C.E. Bertrand & Hovel. GENUS
-=======
+# Bretonia C.E. Bertrand & Hovel. GENUS
 
 #### Status
 ACCEPTED

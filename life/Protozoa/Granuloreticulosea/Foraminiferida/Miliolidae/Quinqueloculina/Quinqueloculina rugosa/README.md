@@ -1,5 +1,4 @@
-Quinqueloculina rugosa d'Orbigny, 1839 SPECIES
-=======
+# Quinqueloculina rugosa d'Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithothelium septemseptatum (R.C. Harris) Aptroot SPECIES
-=======
+# Lithothelium septemseptatum (R.C. Harris) Aptroot SPECIES
 
 #### Status
 ACCEPTED

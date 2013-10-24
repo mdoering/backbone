@@ -1,5 +1,4 @@
-Thyrsidiella Höhn. ex Höhn. GENUS
-=======
+# Thyrsidiella Höhn. ex Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stelexomonas Lackey, 1942 GENUS
-=======
+# Stelexomonas Lackey, 1942 GENUS
 
 #### Status
 ACCEPTED

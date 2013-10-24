@@ -1,5 +1,4 @@
-Aurearena Kai, Yoshii, Nakayama & Inouye, 2008 GENUS
-=======
+# Aurearena Kai, Yoshii, Nakayama & Inouye, 2008 GENUS
 
 #### Status
 ACCEPTED

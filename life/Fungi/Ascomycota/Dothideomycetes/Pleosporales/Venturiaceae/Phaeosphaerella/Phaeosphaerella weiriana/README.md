@@ -1,5 +1,4 @@
-Phaeosphaerella weiriana Petr. SPECIES
-=======
+# Phaeosphaerella weiriana Petr. SPECIES
 
 #### Status
 ACCEPTED

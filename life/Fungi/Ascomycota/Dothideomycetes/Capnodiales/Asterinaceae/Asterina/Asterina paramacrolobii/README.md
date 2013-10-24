@@ -1,5 +1,4 @@
-Asterina paramacrolobii Mibey SPECIES
-=======
+# Asterina paramacrolobii Mibey SPECIES
 
 #### Status
 ACCEPTED

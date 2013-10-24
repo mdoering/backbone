@@ -1,5 +1,4 @@
-Fungus caryophyllaceus (Britzelm.) Kuntze SPECIES
-=======
+# Fungus caryophyllaceus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

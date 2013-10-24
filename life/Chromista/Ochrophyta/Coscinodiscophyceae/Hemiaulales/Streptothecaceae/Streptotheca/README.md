@@ -1,5 +1,4 @@
-Streptotheca Shrubsole GENUS
-=======
+# Streptotheca Shrubsole GENUS
 
 #### Status
 ACCEPTED

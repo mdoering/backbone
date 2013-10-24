@@ -1,5 +1,4 @@
-Basidiotrichosporon proteolyticum (Negroni & Villafañe) Kock.-Krat. et al. {?} SPECIES
-=======
+# Basidiotrichosporon proteolyticum (Negroni & Villafañe) Kock.-Krat. et al. {?} SPECIES
 
 #### Status
 ACCEPTED

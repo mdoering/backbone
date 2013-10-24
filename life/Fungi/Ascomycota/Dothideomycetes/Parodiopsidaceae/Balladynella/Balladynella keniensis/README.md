@@ -1,5 +1,4 @@
-Balladynella keniensis Hansf. SPECIES
-=======
+# Balladynella keniensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

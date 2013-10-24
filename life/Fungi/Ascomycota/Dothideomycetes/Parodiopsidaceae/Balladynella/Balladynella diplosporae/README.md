@@ -1,5 +1,4 @@
-Balladynella diplosporae W. Yamam. SPECIES
-=======
+# Balladynella diplosporae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

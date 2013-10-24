@@ -1,5 +1,4 @@
-Verrucaria kootenaica Breuss & T. Sprib. SPECIES
-=======
+# Verrucaria kootenaica Breuss & T. Sprib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Arthrobotrys flagrans (Dudd.) Mekht., 1964 SPECIES
-=======
+# Duddingtonia flagrans (Dudd.) R.C. Cooke, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dokl. Akad. Nauk Azerb. SSR 20(6): 70 (1964)
+Trans. Br. mycol. Soc. 53(2): 316 (1969)
 
 #### Original name
 Trichothecium flagrans Dudd., 1950

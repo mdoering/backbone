@@ -1,5 +1,4 @@
-Ophiobolus glomus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Ophiobolus glomus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

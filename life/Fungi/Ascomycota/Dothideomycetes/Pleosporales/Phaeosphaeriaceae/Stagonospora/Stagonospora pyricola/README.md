@@ -1,17 +1,16 @@
-Stagonospora piricola S. Ahmad SPECIES
-=======
+# Stagonospora pyricola S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 17(2): 81 (1971)
 
 #### Original name
-Stagonospora piricola S. Ahmad
+Stagonospora pyricola S. Ahmad
 
 ### Remarks
 null

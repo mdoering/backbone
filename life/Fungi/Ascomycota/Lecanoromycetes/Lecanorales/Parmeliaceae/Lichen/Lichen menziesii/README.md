@@ -1,5 +1,4 @@
-Lichen menziesii Sm. SPECIES
-=======
+# Lichen menziesii Sm. SPECIES
 
 #### Status
 ACCEPTED

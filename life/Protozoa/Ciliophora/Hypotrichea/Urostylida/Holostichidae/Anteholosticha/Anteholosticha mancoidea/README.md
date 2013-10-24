@@ -1,5 +1,4 @@
-Anteholosticha mancoidea Hemberger, 1985 SPECIES
-=======
+# Anteholosticha mancoidea Hemberger, 1985 SPECIES
 
 #### Status
 ACCEPTED

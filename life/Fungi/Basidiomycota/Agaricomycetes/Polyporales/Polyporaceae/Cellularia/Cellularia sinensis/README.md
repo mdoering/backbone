@@ -1,5 +1,4 @@
-Cellularia sinensis (Cooke) Kuntze SPECIES
-=======
+# Cellularia sinensis (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

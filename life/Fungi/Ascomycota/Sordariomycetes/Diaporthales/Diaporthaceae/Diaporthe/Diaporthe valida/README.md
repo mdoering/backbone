@@ -1,5 +1,4 @@
-Diaporthe valida Nitschke SPECIES
-=======
+# Diaporthe valida Nitschke SPECIES
 
 #### Status
 ACCEPTED

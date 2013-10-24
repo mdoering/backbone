@@ -1,5 +1,4 @@
-Amanita luteofusca Cleland & E.-J. Gilbert SPECIES
-=======
+# Amanita luteofusca Cleland & E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

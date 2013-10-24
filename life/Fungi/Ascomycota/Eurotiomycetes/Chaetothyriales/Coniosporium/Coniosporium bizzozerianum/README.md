@@ -1,5 +1,4 @@
-Coniosporium bizzozerianum Gaja SPECIES
-=======
+# Coniosporium bizzozerianum Gaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petalomonas robusta Christen SPECIES
-=======
+# Petalomonas robusta Christen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acidothermaceae FAMILY
-=======
+# Acidothermaceae FAMILY
 
 #### Status
 ACCEPTED

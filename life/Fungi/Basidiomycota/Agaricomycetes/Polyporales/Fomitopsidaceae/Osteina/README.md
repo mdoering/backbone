@@ -1,5 +1,4 @@
-Osteina GENUS
-=======
+# Osteina GENUS
 
 #### Status
 ACCEPTED

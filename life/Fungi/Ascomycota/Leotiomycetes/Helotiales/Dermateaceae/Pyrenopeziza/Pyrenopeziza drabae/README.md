@@ -1,5 +1,4 @@
-Pyrenopeziza drabae Nannf. SPECIES
-=======
+# Pyrenopeziza drabae Nannf. SPECIES
 
 #### Status
 ACCEPTED

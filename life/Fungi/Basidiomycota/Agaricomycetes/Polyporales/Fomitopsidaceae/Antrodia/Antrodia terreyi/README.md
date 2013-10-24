@@ -1,14 +1,13 @@
-Antrodia terrei (Berk. & Broome) P. Karst. SPECIES
-=======
+# Antrodia terreyi (Berk. & Broome) P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 5: 40 (1879)
 
 #### Original name
 Trametes terreyi Berk. & Broome

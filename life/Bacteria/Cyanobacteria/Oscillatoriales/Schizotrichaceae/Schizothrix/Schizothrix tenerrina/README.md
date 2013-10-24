@@ -1,5 +1,4 @@
-Schizothrix tenerrina (Gomont) Drouet SPECIES
-=======
+# Schizothrix tenerrina (Gomont) Drouet SPECIES
 
 #### Status
 ACCEPTED

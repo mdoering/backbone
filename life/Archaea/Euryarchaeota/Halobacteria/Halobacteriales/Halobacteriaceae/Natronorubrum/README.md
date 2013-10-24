@@ -1,5 +1,4 @@
-Natronorubrum Xu et al., 1999 GENUS
-=======
+# Natronorubrum Xu et al., 1999 GENUS
 
 #### Status
 ACCEPTED

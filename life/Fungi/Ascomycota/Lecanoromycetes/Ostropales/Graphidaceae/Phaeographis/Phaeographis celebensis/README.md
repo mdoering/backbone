@@ -1,5 +1,4 @@
-Phaeographis celebensis Redinger SPECIES
-=======
+# Phaeographis celebensis Redinger SPECIES
 
 #### Status
 ACCEPTED

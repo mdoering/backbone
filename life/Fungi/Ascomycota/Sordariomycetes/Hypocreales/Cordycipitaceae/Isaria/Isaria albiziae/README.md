@@ -1,5 +1,4 @@
-Isaria albiziae Pat. SPECIES
-=======
+# Isaria albiziae Pat. SPECIES
 
 #### Status
 ACCEPTED

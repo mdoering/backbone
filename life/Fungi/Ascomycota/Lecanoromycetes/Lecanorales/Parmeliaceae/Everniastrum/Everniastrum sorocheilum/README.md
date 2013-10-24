@@ -1,14 +1,13 @@
-Cetrariastrum sorocheilum (Vain.) W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Everniastrum sorocheilum (Vain.) Hale ex Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bryologist 84(3): 292 (1981)
+Mycotaxon 26: 242 (1986)
 
 #### Original name
 Parmelia sorocheila

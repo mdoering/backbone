@@ -1,5 +1,4 @@
-Comoclathris quadriseptata (Cooke & Harkn.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris quadriseptata (Cooke & Harkn.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

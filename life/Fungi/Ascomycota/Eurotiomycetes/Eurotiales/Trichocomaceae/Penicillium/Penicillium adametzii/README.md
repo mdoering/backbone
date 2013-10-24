@@ -1,5 +1,4 @@
-Penicillium adametzii K.M. Zalessky, 1927 SPECIES
-=======
+# Penicillium adametzii K.M. Zalessky, 1927 SPECIES
 
 #### Status
 ACCEPTED

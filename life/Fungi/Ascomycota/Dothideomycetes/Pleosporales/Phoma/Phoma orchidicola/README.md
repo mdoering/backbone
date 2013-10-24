@@ -1,5 +1,4 @@
-Phoma orchidicola Speg. SPECIES
-=======
+# Phoma orchidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

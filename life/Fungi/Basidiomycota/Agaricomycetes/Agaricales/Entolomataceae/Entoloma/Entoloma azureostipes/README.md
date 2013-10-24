@@ -1,5 +1,4 @@
-Entoloma azureostipes E. Horak SPECIES
-=======
+# Entoloma azureostipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porosphaerellopsis bipolaris K.M. Tsui & K.D. Hyde SPECIES
-=======
+# Porosphaerellopsis bipolaris K.M. Tsui & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

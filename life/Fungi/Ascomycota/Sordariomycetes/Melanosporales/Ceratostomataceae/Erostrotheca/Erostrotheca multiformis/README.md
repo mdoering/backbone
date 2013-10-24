@@ -1,17 +1,16 @@
-Cladosporium album Dowson, 1924 SPECIES
-=======
+# Erostrotheca multiformis G.H. Martin & Charles, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of the Royal Horticultural Society 49: 221 (1924)
+Phytopathology 18(10): 843 (1928)
 
 #### Original name
-Cladosporium album Dowson, 1924
+Erostrotheca multiformis G.H. Martin & Charles, 1928
 
 ### Remarks
 null

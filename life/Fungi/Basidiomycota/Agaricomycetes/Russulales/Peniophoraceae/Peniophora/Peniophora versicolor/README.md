@@ -1,14 +1,13 @@
-Peniophora incarnata subsp. versicolor (Bres.) Bourdot & Galzin SUBSPECIES
-=======
+# Peniophora versicolor (Bres.) Sacc. & P. Syd., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 322 (1928)
+Syll. fung. (Abellini) 16: 193 (1902)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Boletus venenatus Nagas. SPECIES
-=======
+# Boletus venenatus Nagas. SPECIES
 
 #### Status
 ACCEPTED

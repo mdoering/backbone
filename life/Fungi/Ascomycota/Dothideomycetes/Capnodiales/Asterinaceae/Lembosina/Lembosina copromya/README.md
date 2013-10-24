@@ -1,5 +1,4 @@
-Lembosina copromya (E. Bommer, M. Rousseau & Sacc.) Theiss. SPECIES
-=======
+# Lembosina copromya (E. Bommer, M. Rousseau & Sacc.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

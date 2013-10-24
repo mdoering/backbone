@@ -1,5 +1,4 @@
-Coryneum impressum Preuss SPECIES
-=======
+# Coryneum impressum Preuss SPECIES
 
 #### Status
 ACCEPTED

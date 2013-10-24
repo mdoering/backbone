@@ -1,5 +1,4 @@
-Mucor nigrescens Schumach. SPECIES
-=======
+# Mucor nigrescens Schumach. SPECIES
 
 #### Status
 ACCEPTED

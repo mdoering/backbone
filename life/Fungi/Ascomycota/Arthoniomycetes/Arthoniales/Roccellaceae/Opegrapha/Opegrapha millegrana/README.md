@@ -1,5 +1,4 @@
-Opegrapha millegrana Redinger SPECIES
-=======
+# Opegrapha millegrana Redinger SPECIES
 
 #### Status
 ACCEPTED

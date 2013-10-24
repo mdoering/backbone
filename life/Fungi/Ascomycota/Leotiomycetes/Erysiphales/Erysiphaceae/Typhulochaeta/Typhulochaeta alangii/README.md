@@ -1,5 +1,4 @@
-Typhulochaeta alangii Y.N. Yu & Y.Q. Lai SPECIES
-=======
+# Typhulochaeta alangii Y.N. Yu & Y.Q. Lai SPECIES
 
 #### Status
 ACCEPTED

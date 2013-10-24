@@ -1,5 +1,4 @@
-Aglaospora angustata (Pers.) Kuntze SPECIES
-=======
+# Aglaospora angustata (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

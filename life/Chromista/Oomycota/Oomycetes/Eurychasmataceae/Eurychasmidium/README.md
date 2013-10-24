@@ -1,5 +1,4 @@
-Eurychasmidium Sparrow GENUS
-=======
+# Eurychasmidium Sparrow GENUS
 
 #### Status
 ACCEPTED

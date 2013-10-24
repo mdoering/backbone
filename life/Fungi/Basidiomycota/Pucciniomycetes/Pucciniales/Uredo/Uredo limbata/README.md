@@ -1,5 +1,4 @@
-Uredo limbata Rabenh. SPECIES
-=======
+# Uredo limbata Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globorotalia Cushman, 1927 GENUS
-=======
+# Globorotalia Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

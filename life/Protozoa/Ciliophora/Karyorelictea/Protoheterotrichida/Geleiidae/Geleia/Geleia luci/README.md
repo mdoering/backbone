@@ -1,5 +1,4 @@
-Geleia luci Dragesco, 1960 SPECIES
-=======
+# Geleia luci Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirodecospora B.S. Lu, K.D. Hyde & W.H. Ho GENUS
-=======
+# Spirodecospora B.S. Lu, K.D. Hyde & W.H. Ho GENUS
 
 #### Status
 ACCEPTED

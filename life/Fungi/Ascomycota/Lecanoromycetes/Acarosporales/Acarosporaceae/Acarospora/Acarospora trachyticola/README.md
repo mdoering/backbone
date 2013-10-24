@@ -1,5 +1,4 @@
-Acarospora trachyticola (Müll. Arg.) Hue SPECIES
-=======
+# Acarospora trachyticola (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

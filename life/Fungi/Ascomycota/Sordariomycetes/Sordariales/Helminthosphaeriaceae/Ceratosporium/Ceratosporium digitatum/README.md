@@ -1,5 +1,4 @@
-Ceratosporium digitatum (Cooke) Sacc. SPECIES
-=======
+# Ceratosporium digitatum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

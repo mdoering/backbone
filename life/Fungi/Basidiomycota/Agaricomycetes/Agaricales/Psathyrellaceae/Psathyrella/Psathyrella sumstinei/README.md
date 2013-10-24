@@ -1,5 +1,4 @@
-Psathyrella sumstinei A.H. Sm. SPECIES
-=======
+# Psathyrella sumstinei A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

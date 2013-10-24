@@ -1,5 +1,4 @@
-Leucophleps Harkn. GENUS
-=======
+# Leucophleps Harkn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helminthosporium nodulosum var. nodulosum Berk. & M.A. Curtis VARIETY
-=======
+# Cochliobolus nodulosus Luttr., 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 47: 547 (1957)
 
 #### Original name
-Helminthosporium nodulosum var. nodulosum Berk. & M.A. Curtis
+Cochliobolus nodulosus Luttr., 1957
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fungus crenatus Plum. {?} SPECIES
-=======
+# Fungus crenatus Plum. {?} SPECIES
 
 #### Status
 ACCEPTED

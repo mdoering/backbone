@@ -1,5 +1,4 @@
-Sporisorium tepicense (Durán) M. Piepenbr. SPECIES
-=======
+# Sporisorium tepicense (Durán) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

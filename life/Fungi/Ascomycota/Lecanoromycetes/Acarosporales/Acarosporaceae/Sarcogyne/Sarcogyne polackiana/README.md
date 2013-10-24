@@ -1,5 +1,4 @@
-Sarcogyne polackiana (Müll. Arg.) H. Magn. SPECIES
-=======
+# Sarcogyne polackiana (Müll. Arg.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

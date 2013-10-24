@@ -1,5 +1,4 @@
-Puccinia mikanifolia H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia mikanifolia H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia callunae Velen. SPECIES
-=======
+# Tapesia callunae Velen. SPECIES
 
 #### Status
 ACCEPTED

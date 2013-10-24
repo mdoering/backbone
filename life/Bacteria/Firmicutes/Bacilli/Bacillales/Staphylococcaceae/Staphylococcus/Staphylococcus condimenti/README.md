@@ -1,5 +1,4 @@
-Staphylococcus condimenti Probst et al., 1998 SPECIES
-=======
+# Staphylococcus condimenti Probst et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

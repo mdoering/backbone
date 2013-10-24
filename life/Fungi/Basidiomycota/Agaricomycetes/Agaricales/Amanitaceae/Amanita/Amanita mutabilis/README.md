@@ -1,5 +1,4 @@
-Amanita mutabilis Beardslee, 1919 SPECIES
-=======
+# Amanita mutabilis Beardslee, 1919 SPECIES
 
 #### Status
 ACCEPTED

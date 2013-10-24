@@ -1,5 +1,4 @@
-Phyllosticta similis Cejp SPECIES
-=======
+# Phyllosticta similis Cejp SPECIES
 
 #### Status
 ACCEPTED

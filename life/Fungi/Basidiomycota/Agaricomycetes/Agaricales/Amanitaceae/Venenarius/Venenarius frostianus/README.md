@@ -1,5 +1,4 @@
-Venenarius frostianus (Peck) Murrill SPECIES
-=======
+# Venenarius frostianus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

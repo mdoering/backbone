@@ -1,5 +1,4 @@
-Teichospora bauhiniicola (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Teichospora bauhiniicola (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

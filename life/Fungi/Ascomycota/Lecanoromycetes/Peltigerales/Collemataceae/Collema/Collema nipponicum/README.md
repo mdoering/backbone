@@ -1,5 +1,4 @@
-Collema nipponicum Degel. SPECIES
-=======
+# Collema nipponicum Degel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria weberi (Oudem.) L. Holm & K. Holm SPECIES
-=======
+# Phaeosphaeria weberi (Oudem.) L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

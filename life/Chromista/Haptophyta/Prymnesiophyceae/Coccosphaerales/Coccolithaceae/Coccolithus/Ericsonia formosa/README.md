@@ -1,5 +1,4 @@
-Ericsonia formosa (Kamptner, 1963) Haq, 1971 SPECIES
-=======
+# Ericsonia formosa (Kamptner, 1963) Haq, 1971 SPECIES
 
 #### Status
 DOUBTFUL

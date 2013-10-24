@@ -1,5 +1,4 @@
-Samara racemosa Hassk. SPECIES
-=======
+# Samara racemosa Hassk. SPECIES
 
 #### Status
 ACCEPTED

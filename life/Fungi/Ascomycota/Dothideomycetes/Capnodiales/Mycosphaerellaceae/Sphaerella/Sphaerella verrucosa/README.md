@@ -1,5 +1,4 @@
-Sphaerella verrucosa Alcalde SPECIES
-=======
+# Sphaerella verrucosa Alcalde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium graminicola Ellis & Everh., 1893 SPECIES
-=======
+# Camarosporium graminicola Ellis & Everh., 1893 SPECIES
 
 #### Status
 ACCEPTED

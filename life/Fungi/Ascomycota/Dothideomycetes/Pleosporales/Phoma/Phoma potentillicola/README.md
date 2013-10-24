@@ -1,5 +1,4 @@
-Phoma potentillicola Golovin SPECIES
-=======
+# Phoma potentillicola Golovin SPECIES
 
 #### Status
 ACCEPTED

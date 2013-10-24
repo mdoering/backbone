@@ -1,14 +1,13 @@
-Bahusandhika intercalare (E.K. Cash & A.M.J. Watson) Subram. SPECIES
-=======
+# Bahusandhika intercalaris (E.K. Cash & A.M.J. Watson) Subram. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 35: 469 (1956)
 
 #### Original name
 Septonema intercalare E.K. Cash & A.M.J. Watson

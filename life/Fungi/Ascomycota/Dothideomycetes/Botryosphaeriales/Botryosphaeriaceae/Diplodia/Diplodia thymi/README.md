@@ -1,5 +1,4 @@
-Diplodia thymi Deeva {?} SPECIES
-=======
+# Diplodia thymi Deeva {?} SPECIES
 
 #### Status
 ACCEPTED

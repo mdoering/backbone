@@ -1,5 +1,4 @@
-Collema harmandii Samp. SPECIES
-=======
+# Collema harmandii Samp. SPECIES
 
 #### Status
 ACCEPTED

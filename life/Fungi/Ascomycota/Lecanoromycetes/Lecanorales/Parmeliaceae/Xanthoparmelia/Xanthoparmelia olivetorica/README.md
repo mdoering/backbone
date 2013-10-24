@@ -1,5 +1,4 @@
-Xanthoparmelia olivetorica Hale SPECIES
-=======
+# Xanthoparmelia olivetorica Hale SPECIES
 
 #### Status
 ACCEPTED

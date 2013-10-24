@@ -1,5 +1,4 @@
-Mycena macrothela Berk. SPECIES
-=======
+# Mycena macrothela Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stradnerlithus tortuosus Noël, 1973 SPECIES
-=======
+# Stradnerlithus tortuosus Noël, 1973 SPECIES
 
 #### Status
 ACCEPTED

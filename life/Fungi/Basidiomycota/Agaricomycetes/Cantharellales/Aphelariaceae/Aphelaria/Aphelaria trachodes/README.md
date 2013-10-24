@@ -1,5 +1,4 @@
-Aphelaria trachodes (Berk.) Corner SPECIES
-=======
+# Aphelaria trachodes (Berk.) Corner SPECIES
 
 #### Status
 ACCEPTED

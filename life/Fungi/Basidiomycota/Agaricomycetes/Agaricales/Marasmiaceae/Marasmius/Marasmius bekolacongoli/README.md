@@ -1,5 +1,4 @@
-Marasmius bekolacongoli var. bekolacongoli VARIETY
-=======
+# Marasmius bekolacongoli Beeli SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 60(2): 157 (1928)
 
 #### Original name
-Marasmius bekolacongoli var. bekolacongoli
+Marasmius bekolacongoli Beeli
 
 ### Remarks
 null

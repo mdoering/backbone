@@ -1,5 +1,4 @@
-Eucecryphalus Haeckel, 1861 GENUS
-=======
+# Eucecryphalus Haeckel, 1861 GENUS
 
 #### Status
 ACCEPTED

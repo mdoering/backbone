@@ -1,5 +1,4 @@
-Phyllachora meridensis Chardón, 1934 SPECIES
-=======
+# Phyllachora meridensis Chardón, 1934 SPECIES
 
 #### Status
 DOUBTFUL

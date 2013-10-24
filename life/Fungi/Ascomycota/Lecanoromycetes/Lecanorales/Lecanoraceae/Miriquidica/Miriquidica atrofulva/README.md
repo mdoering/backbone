@@ -1,17 +1,16 @@
-Lecidea atriuscula H. Magn. SPECIES
-=======
+# Miriquidica atrofulva (Sommerf.) A. J. Schwab & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rambold & Schwab, Nordic Jl Bot. 10(1): 118 (1990)
 
 #### Original name
-null
+Lecidea atrofulva Sommerf.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Verrucaria floerkeana f. floerkeana FORM
-=======
+# Verrucaria floerkeana Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Verrucaria floerkeana f. floerkeana
+Verrucaria floerkeana Dalla Torre & Sarnth.
 
 ### Remarks
 null

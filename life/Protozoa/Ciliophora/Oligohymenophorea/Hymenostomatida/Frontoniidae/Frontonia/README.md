@@ -1,5 +1,4 @@
-Frontonia Ehrenberg, 1838 GENUS
-=======
+# Frontonia Ehrenberg, 1838 GENUS
 
 #### Status
 ACCEPTED

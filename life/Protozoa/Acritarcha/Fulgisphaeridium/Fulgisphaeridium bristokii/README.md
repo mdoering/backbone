@@ -1,5 +1,4 @@
-Fulgisphaeridium bristokii Deunff, 1980 SPECIES
-=======
+# Fulgisphaeridium bristokii Deunff, 1980 SPECIES
 
 #### Status
 ACCEPTED

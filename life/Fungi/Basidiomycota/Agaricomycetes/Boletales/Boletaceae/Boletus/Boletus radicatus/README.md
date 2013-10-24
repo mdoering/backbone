@@ -1,5 +1,4 @@
-Boletus radicatus Schwein. SPECIES
-=======
+# Boletus radicatus Schwein. SPECIES
 
 #### Status
 ACCEPTED

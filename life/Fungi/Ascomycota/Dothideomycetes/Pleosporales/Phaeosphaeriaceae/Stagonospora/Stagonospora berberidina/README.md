@@ -1,5 +1,4 @@
-Stagonospora berberidina Sacc. SPECIES
-=======
+# Stagonospora berberidina Sacc. SPECIES
 
 #### Status
 ACCEPTED

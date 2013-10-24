@@ -1,5 +1,4 @@
-Didymella cladoniae C.W. Dodge SPECIES
-=======
+# Didymella cladoniae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

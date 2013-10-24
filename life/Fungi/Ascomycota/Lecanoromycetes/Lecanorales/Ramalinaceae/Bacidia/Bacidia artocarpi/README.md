@@ -1,5 +1,4 @@
-Bacidia artocarpi (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia artocarpi (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

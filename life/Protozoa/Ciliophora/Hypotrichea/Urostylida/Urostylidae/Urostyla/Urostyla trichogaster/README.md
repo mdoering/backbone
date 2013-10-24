@@ -1,5 +1,4 @@
-Urostyla trichogaster subsp. trichogaster SUBSPECIES
-=======
+# Urostyla trichogaster Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

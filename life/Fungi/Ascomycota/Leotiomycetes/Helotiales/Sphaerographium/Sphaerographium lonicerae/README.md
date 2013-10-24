@@ -1,5 +1,4 @@
-Sphaerographium lonicerae (Fuckel) Sacc. SPECIES
-=======
+# Sphaerographium lonicerae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

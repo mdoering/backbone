@@ -1,5 +1,4 @@
-Sphaerella nothofagi Speg. SPECIES
-=======
+# Sphaerella nothofagi Speg. SPECIES
 
 #### Status
 ACCEPTED

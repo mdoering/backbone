@@ -1,5 +1,4 @@
-Challengerantha Haeckel, 1887 GENUS
-=======
+# Challengerantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Terana subgigantea (Berk.) Kuntze, 1891 SPECIES
-=======
+# Licrostroma subgiganteum (Berk.) P.A. Lemke, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 873 (1891)
+Can. J. Bot. 42: 763 (1964)
 
 #### Original name
 Corticium subgiganteum Berk., 1873

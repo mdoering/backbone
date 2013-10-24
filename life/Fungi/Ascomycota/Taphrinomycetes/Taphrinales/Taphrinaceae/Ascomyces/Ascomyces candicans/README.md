@@ -1,5 +1,4 @@
-Ascomyces candicans Sacc. SPECIES
-=======
+# Ascomyces candicans Sacc. SPECIES
 
 #### Status
 ACCEPTED

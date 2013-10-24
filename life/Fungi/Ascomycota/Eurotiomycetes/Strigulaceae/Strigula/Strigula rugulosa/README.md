@@ -1,5 +1,4 @@
-Strigula rugulosa Müll. Arg. SPECIES
-=======
+# Strigula rugulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

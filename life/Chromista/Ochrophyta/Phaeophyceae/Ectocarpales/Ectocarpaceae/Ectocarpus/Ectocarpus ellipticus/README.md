@@ -1,5 +1,4 @@
-Ectocarpus ellipticus Saunders SPECIES
-=======
+# Ectocarpus ellipticus Saunders SPECIES
 
 #### Status
 ACCEPTED

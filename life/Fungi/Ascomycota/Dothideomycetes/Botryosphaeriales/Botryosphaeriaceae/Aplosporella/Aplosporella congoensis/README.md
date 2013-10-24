@@ -1,5 +1,4 @@
-Aplosporella congoensis Har. & Pat. SPECIES
-=======
+# Aplosporella congoensis Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

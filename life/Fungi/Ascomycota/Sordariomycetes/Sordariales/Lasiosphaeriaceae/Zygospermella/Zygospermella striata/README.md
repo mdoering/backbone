@@ -1,5 +1,4 @@
-Zygospermella striata N. Lundq. SPECIES
-=======
+# Zygospermella striata N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

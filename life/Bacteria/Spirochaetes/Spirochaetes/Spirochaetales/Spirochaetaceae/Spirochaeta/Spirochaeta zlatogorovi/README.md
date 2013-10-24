@@ -1,5 +1,4 @@
-Spirochaeta zlatogorovi SPECIES
-=======
+# Spirochaeta zlatogorovi SPECIES
 
 #### Status
 ACCEPTED

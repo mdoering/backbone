@@ -1,5 +1,4 @@
-Mycothyridium speciosum (Petr.) Petr. SPECIES
-=======
+# Mycothyridium speciosum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria pusilla (Speg.) Sacc. SPECIES
-=======
+# Leptosphaeria pusilla (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

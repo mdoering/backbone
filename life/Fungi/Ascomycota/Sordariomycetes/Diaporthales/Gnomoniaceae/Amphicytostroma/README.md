@@ -1,5 +1,4 @@
-Amphicytostroma Petrak, 1921 GENUS
-=======
+# Amphicytostroma Petrak, 1921 GENUS
 
 #### Status
 ACCEPTED

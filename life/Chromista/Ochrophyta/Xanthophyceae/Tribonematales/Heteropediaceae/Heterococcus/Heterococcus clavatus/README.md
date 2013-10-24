@@ -1,5 +1,4 @@
-Heterococcus clavatus Pitschmann SPECIES
-=======
+# Heterococcus clavatus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium repandum Bat. & Pontual SPECIES
-=======
+# Chaetomium repandum Bat. & Pontual SPECIES
 
 #### Status
 ACCEPTED

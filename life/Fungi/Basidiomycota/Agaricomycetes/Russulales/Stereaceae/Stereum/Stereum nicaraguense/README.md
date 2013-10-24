@@ -1,5 +1,4 @@
-Stereum nicaraguense Berk. & M.A. Curtis SPECIES
-=======
+# Stereum nicaraguense Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

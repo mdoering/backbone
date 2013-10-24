@@ -1,17 +1,16 @@
-Lecidea sylvicola var. sylvicola VARIETY
-=======
+# Micarea sylvicola (Flot.) Vezda & V. Wirth SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. 11: 99 (1976)
 
 #### Original name
-Lecidea sylvicola var. sylvicola
+Lecidea sylvicola Flot.
 
 ### Remarks
 null

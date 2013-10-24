@@ -1,5 +1,4 @@
-Valsaria nudicollis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Valsaria nudicollis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

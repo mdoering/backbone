@@ -1,14 +1,13 @@
-Alternaria phragmospora Emden, 1970 SPECIES
-=======
+# Embellisia phragmospora (Emden) E.G. Simmons, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. neerl. 19(3): 393 (1970)
+Mycotaxon 17: 232 (1983)
 
 #### Original name
 Alternaria phragmospora Emden, 1970

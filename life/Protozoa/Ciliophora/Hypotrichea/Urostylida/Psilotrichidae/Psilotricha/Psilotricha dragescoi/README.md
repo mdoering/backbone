@@ -1,5 +1,4 @@
-Psilotricha dragescoi SPECIES
-=======
+# Psilotricha dragescoi SPECIES
 
 #### Status
 ACCEPTED

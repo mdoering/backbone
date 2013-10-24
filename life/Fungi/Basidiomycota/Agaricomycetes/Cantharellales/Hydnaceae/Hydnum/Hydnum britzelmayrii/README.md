@@ -1,17 +1,16 @@
-Hydnum britzelmayri Sacc. SPECIES
-=======
+# Hydnum britzelmayrii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 11: 2 (1895)
 
 #### Original name
-Hydnum britzelmayri Sacc.
+Hydnum britzelmayrii Sacc.
 
 ### Remarks
 null

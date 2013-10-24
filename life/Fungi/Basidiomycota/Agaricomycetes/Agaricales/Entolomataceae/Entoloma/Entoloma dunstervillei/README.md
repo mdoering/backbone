@@ -1,5 +1,4 @@
-Entoloma dunstervillei (Dennis) E. Horak SPECIES
-=======
+# Entoloma dunstervillei (Dennis) E. Horak SPECIES
 
 #### Status
 ACCEPTED

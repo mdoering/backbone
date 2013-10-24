@@ -1,5 +1,4 @@
-Gyalectidium puntilloi Sérus. SPECIES
-=======
+# Gyalectidium puntilloi Sérus. SPECIES
 
 #### Status
 ACCEPTED

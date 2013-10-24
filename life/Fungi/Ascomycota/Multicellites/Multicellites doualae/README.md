@@ -1,5 +1,4 @@
-Multicellites doualae (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites doualae (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

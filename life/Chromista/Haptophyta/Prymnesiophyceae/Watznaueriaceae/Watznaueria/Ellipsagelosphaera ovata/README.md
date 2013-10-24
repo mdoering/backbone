@@ -1,5 +1,4 @@
-Ellipsagelosphaera ovata (Bukry, 1969) Black, 1973 SPECIES
-=======
+# Ellipsagelosphaera ovata (Bukry, 1969) Black, 1973 SPECIES
 
 #### Status
 DOUBTFUL

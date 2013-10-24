@@ -1,5 +1,4 @@
-Cylindrosporium pruni-tomentosae Miura SPECIES
-=======
+# Cylindrosporium pruni-tomentosae Miura SPECIES
 
 #### Status
 ACCEPTED

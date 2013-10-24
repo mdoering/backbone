@@ -1,5 +1,4 @@
-Botryohypochnus scaberulus Hjortstam & Ryvarden SPECIES
-=======
+# Botryohypochnus scaberulus Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphonammina Geslin, Heinz & Hemleben, 2004 GENUS
-=======
+# Siphonammina Geslin, Heinz & Hemleben, 2004 GENUS
 
 #### Status
 ACCEPTED

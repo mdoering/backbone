@@ -1,5 +1,4 @@
-Albotricha alpina (Rehm) Raitv. & Sacconi SPECIES
-=======
+# Albotricha alpina (Rehm) Raitv. & Sacconi SPECIES
 
 #### Status
 ACCEPTED

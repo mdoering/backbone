@@ -1,5 +1,4 @@
-Micarea confusa Coppins & van den Boom SPECIES
-=======
+# Micarea confusa Coppins & van den Boom SPECIES
 
 #### Status
 ACCEPTED

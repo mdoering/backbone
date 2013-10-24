@@ -1,5 +1,4 @@
-Hyella vacans M. Gektidis & S. Golubic SPECIES
-=======
+# Hyella vacans M. Gektidis & S. Golubic SPECIES
 
 #### Status
 ACCEPTED

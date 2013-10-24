@@ -1,5 +1,4 @@
-Marasmius rugosoelegans Cleland SPECIES
-=======
+# Marasmius rugosoelegans Cleland SPECIES
 
 #### Status
 ACCEPTED

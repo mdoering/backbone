@@ -1,5 +1,4 @@
-Eurotium candidum Speg. SPECIES
-=======
+# Eurotium candidum Speg. SPECIES
 
 #### Status
 ACCEPTED

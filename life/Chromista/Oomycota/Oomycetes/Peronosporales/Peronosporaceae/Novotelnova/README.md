@@ -1,5 +1,4 @@
-Novotelnova Voglmayr & Constant. GENUS
-=======
+# Novotelnova Voglmayr & Constant. GENUS
 
 #### Status
 ACCEPTED

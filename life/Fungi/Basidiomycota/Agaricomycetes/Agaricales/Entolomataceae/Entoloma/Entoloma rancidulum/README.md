@@ -1,5 +1,4 @@
-Entoloma rancidulum E. Horak, 1973 SPECIES
-=======
+# Entoloma rancidulum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea nigromarginata var. nigromarginata VARIETY
-=======
+# Lecidea nigromarginata Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea nigromarginata var. nigromarginata
+Lecidea nigromarginata Malme
 
 ### Remarks
 null

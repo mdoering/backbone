@@ -1,5 +1,4 @@
-Terfezia longii Gilkey SPECIES
-=======
+# Terfezia longii Gilkey SPECIES
 
 #### Status
 ACCEPTED

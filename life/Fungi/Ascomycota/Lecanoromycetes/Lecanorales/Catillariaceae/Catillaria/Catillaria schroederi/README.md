@@ -1,5 +1,4 @@
-Catillaria schroederi Zahlbr. SPECIES
-=======
+# Catillaria schroederi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

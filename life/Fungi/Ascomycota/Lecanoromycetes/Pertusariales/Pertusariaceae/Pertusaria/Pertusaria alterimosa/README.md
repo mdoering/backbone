@@ -1,5 +1,4 @@
-Pertusaria alterimosa Darb. SPECIES
-=======
+# Pertusaria alterimosa Darb. SPECIES
 
 #### Status
 ACCEPTED

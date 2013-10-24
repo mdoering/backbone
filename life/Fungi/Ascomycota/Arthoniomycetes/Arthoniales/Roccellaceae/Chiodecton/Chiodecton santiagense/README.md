@@ -1,5 +1,4 @@
-Chiodecton santiagense C.W. Dodge SPECIES
-=======
+# Chiodecton santiagense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

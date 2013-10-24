@@ -1,5 +1,4 @@
-Septocolla GENUS
-=======
+# Septocolla GENUS
 
 #### Status
 ACCEPTED

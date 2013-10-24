@@ -1,5 +1,4 @@
-Nanostictis stictae Etayo SPECIES
-=======
+# Nanostictis stictae Etayo SPECIES
 
 #### Status
 ACCEPTED

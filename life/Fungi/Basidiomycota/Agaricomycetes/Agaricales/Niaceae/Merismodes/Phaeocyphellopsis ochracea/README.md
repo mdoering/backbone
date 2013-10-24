@@ -1,5 +1,4 @@
-Phaeocyphellopsis ochracea (Hoffm.) W.B. Cooke SPECIES
-=======
+# Phaeocyphellopsis ochracea (Hoffm.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

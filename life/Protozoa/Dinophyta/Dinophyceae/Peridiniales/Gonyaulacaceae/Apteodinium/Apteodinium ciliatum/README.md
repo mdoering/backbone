@@ -1,5 +1,4 @@
-Apteodinium ciliatum H. Gocht SPECIES
-=======
+# Apteodinium ciliatum H. Gocht SPECIES
 
 #### Status
 ACCEPTED

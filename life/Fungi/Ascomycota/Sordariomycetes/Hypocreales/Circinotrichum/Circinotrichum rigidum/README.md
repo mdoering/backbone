@@ -1,5 +1,4 @@
-Circinotrichum rigidum B. Sutton SPECIES
-=======
+# Circinotrichum rigidum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

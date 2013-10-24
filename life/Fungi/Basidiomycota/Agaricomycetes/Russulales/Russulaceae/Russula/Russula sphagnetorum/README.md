@@ -1,17 +1,16 @@
-Russula sphagnetorum var. sphagnetorum VARIETY
-=======
+# Russula sphagnetorum Romagn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Les Russules d'Europe et d'Afrique du Nord (Vaduz), Réimpression supplémentée. With an English translation of the keys by R. W. G. Dennis 1010 (1985)
 
 #### Original name
-null
+Russula sphagnetorum Romagn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fusarium pusillum Wollenw. SPECIES
-=======
+# Fusarium pusillum Wollenw. SPECIES
 
 #### Status
 ACCEPTED

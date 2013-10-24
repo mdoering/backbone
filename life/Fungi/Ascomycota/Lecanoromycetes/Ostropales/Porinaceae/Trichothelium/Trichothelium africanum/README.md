@@ -1,5 +1,4 @@
-Trichothelium africanum Lücking SPECIES
-=======
+# Trichothelium africanum Lücking SPECIES
 
 #### Status
 ACCEPTED

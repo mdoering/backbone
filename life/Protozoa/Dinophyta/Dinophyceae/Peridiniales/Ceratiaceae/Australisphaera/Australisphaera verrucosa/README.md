@@ -1,5 +1,4 @@
-Australisphaera verrucosa R. J. Davey SPECIES
-=======
+# Australisphaera verrucosa R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium tenue (Sparrow) Karling SPECIES
-=======
+# Rhizophydium tenue (Sparrow) Karling SPECIES
 
 #### Status
 ACCEPTED

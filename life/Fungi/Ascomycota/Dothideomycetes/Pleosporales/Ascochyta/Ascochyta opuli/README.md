@@ -1,5 +1,4 @@
-Ascochyta opuli Oudem. SPECIES
-=======
+# Ascochyta opuli Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplosporium tenellum (Harz) Sacc. & Traverso SPECIES
-=======
+# Diplosporium tenellum (Harz) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

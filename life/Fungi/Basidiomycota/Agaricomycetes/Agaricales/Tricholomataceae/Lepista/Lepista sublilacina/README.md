@@ -1,5 +1,4 @@
-Lepista sublilacina (Cleland) Grgur. SPECIES
-=======
+# Lepista sublilacina (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

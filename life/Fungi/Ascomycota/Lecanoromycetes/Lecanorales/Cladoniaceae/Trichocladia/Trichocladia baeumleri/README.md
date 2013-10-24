@@ -1,17 +1,16 @@
-Trichocladia baeumleri var. baeumleri VARIETY
-=======
+# Trichocladia baeumleri SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Trichocladia baeumleri var. baeumleri
+null
 
 ### Remarks
 null

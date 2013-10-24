@@ -1,5 +1,4 @@
-Lyophyllum ochrocinerascens Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum ochrocinerascens Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

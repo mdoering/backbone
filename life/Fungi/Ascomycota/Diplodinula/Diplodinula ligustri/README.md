@@ -1,5 +1,4 @@
-Diplodinula ligustri (Delacr.) Tassi SPECIES
-=======
+# Diplodinula ligustri (Delacr.) Tassi SPECIES
 
 #### Status
 ACCEPTED

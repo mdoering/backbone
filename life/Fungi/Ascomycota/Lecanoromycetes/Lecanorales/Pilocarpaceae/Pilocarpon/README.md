@@ -1,5 +1,4 @@
-Pilocarpon GENUS
-=======
+# Pilocarpon GENUS
 
 #### Status
 ACCEPTED

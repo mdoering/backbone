@@ -1,5 +1,4 @@
-Inocybe ochrorufa Sarwal SPECIES
-=======
+# Inocybe ochrorufa Sarwal SPECIES
 
 #### Status
 ACCEPTED

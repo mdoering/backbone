@@ -1,17 +1,16 @@
-Durella lecideola subsp. lecideola SUBSPECIES
-=======
+# Durella lecideola (Fr.) Rehm, 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ascom. Lojkani no. 19 (1882)
 
 #### Original name
-Durella lecideola subsp. lecideola
+null
 
 ### Remarks
 null

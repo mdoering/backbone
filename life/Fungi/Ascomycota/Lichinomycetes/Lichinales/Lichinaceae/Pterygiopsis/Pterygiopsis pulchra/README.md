@@ -1,5 +1,4 @@
-Pterygiopsis pulchra M. Schultz SPECIES
-=======
+# Pterygiopsis pulchra M. Schultz SPECIES
 
 #### Status
 ACCEPTED

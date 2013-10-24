@@ -1,14 +1,13 @@
-Sporocadus trimerum (Sacc.) Arx SPECIES
-=======
+# Sporocadus trimerus (Sacc.) Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 224 (1981)
 
 #### Original name
 Coryneum trimerum Sacc.

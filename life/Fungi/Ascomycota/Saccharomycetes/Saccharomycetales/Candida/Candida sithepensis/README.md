@@ -1,5 +1,4 @@
-Candida sithepensis Limtong, Srisuk, Yongman., H. Kawas., Yurim., Nakase & N. Kato SPECIES
-=======
+# Candida sithepensis Limtong, Srisuk, Yongman., H. Kawas., Yurim., Nakase & N. Kato SPECIES
 
 #### Status
 ACCEPTED

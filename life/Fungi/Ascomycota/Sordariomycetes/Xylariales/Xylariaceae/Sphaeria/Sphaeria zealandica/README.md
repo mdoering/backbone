@@ -1,17 +1,16 @@
-Sphaeria zelandica Cooke SPECIES
-=======
+# Sphaeria zealandica Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 8(no. 46): 67 (1879)
 
 #### Original name
-Sphaeria zelandica Cooke
+Sphaeria zealandica Cooke
 
 ### Remarks
 null

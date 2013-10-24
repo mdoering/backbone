@@ -1,5 +1,4 @@
-Barbeyella minutissima Meyl., 1914 SPECIES
-=======
+# Barbeyella minutissima Meyl., 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplanochytrium Bahnweg & Sparrow GENUS
-=======
+# Aplanochytrium Bahnweg & Sparrow GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bundleia nana Strelkow, 1939 SPECIES
-=======
+# Bundleia nana Strelkow, 1939 SPECIES
 
 #### Status
 ACCEPTED

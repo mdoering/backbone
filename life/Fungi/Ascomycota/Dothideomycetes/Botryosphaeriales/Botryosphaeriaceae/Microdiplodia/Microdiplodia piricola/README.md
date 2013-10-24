@@ -1,5 +1,4 @@
-Microdiplodia piricola I.E. Brezhnev SPECIES
-=======
+# Microdiplodia piricola I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

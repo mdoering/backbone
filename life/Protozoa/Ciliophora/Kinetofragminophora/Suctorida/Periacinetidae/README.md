@@ -1,5 +1,4 @@
-Periacinetidae FAMILY
-=======
+# Periacinetidae FAMILY
 
 #### Status
 ACCEPTED

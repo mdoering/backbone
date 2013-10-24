@@ -1,5 +1,4 @@
-Puccinia acanthi P. Syd. & Syd. SPECIES
-=======
+# Puccinia acanthi P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

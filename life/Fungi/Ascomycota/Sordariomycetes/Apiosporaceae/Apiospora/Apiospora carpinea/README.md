@@ -1,5 +1,4 @@
-Apiospora carpinea Rehm SPECIES
-=======
+# Apiospora carpinea Rehm SPECIES
 
 #### Status
 ACCEPTED

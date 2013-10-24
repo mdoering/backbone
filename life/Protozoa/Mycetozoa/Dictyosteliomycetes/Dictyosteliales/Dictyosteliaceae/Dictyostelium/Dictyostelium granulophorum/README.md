@@ -1,5 +1,4 @@
-Dictyostelium granulophorum Vadell, M.T. Holmes & Cavender, 1995 SPECIES
-=======
+# Dictyostelium granulophorum Vadell, M.T. Holmes & Cavender, 1995 SPECIES
 
 #### Status
 ACCEPTED

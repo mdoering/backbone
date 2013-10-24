@@ -1,5 +1,4 @@
-Placodium fulvum Anzi SPECIES
-=======
+# Placodium fulvum Anzi SPECIES
 
 #### Status
 ACCEPTED

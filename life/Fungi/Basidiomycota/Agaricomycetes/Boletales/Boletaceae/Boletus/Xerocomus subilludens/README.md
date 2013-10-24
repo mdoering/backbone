@@ -1,5 +1,4 @@
-Xerocomus subilludens (A.H. Sm. & Thiers) H. Engel & Klofac SPECIES
-=======
+# Xerocomus subilludens (A.H. Sm. & Thiers) H. Engel & Klofac SPECIES
 
 #### Status
 ACCEPTED

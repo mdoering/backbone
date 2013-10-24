@@ -1,5 +1,4 @@
-Sigmomorphina concava (Williamson) SPECIES
-=======
+# Sigmomorphina concava (Williamson) SPECIES
 
 #### Status
 ACCEPTED

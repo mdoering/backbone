@@ -1,5 +1,4 @@
-Cladosporium stysanoides Bubák SPECIES
-=======
+# Cladosporium stysanoides Bubák SPECIES
 
 #### Status
 ACCEPTED

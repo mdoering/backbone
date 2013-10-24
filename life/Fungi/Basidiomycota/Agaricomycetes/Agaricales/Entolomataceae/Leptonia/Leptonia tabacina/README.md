@@ -1,5 +1,4 @@
-Leptonia tabacina Cleland SPECIES
-=======
+# Leptonia tabacina Cleland SPECIES
 
 #### Status
 ACCEPTED

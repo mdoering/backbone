@@ -1,5 +1,4 @@
-Tegoa parenchymatica Bat. & Cavalc. SPECIES
-=======
+# Tegoa parenchymatica Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria placentiformis (Mont. & Bosch) Mont. & Bosch SPECIES
-=======
+# Pertusaria placentiformis (Mont. & Bosch) Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

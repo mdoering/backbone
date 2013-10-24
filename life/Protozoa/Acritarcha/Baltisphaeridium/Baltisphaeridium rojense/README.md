@@ -1,5 +1,4 @@
-Baltisphaeridium rojense Jankauskas & Vaitekunene, 1972 SPECIES
-=======
+# Baltisphaeridium rojense Jankauskas & Vaitekunene, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemonitaceae FAMILY
-=======
+# Stemonitaceae FAMILY
 
 #### Status
 ACCEPTED

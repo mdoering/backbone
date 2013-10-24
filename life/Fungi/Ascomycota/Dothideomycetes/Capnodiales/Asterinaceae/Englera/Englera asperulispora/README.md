@@ -1,5 +1,4 @@
-Englera asperulispora (Gaillard) F. Stevens SPECIES
-=======
+# Englera asperulispora (Gaillard) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

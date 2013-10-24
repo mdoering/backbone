@@ -1,5 +1,4 @@
-Lycoperdon moravicum Velen. SPECIES
-=======
+# Lycoperdon moravicum Velen. SPECIES
 
 #### Status
 ACCEPTED

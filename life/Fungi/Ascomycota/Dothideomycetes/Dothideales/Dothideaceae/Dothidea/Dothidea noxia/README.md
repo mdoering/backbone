@@ -1,5 +1,4 @@
-Dothidea noxia Ruhland, 1904 SPECIES
-=======
+# Dothidea noxia Ruhland, 1904 SPECIES
 
 #### Status
 ACCEPTED

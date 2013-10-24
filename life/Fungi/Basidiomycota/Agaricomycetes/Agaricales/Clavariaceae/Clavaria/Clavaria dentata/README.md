@@ -1,5 +1,4 @@
-Clavaria dentata Scop. SPECIES
-=======
+# Clavaria dentata Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium phyllachoricola Speg. SPECIES
-=======
+# Gloeosporium phyllachoricola Speg. SPECIES
 
 #### Status
 ACCEPTED

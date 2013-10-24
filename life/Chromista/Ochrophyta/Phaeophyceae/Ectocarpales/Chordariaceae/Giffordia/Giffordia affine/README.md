@@ -1,5 +1,4 @@
-Giffordia affine SPECIES
-=======
+# Giffordia affine SPECIES
 
 #### Status
 ACCEPTED

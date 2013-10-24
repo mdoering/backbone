@@ -1,5 +1,4 @@
-Lenticulina lucida (Cushman) SPECIES
-=======
+# Lenticulina lucida (Cushman) SPECIES
 
 #### Status
 ACCEPTED

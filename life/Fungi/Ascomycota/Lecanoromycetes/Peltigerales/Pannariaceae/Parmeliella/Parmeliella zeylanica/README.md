@@ -1,5 +1,4 @@
-Parmeliella zeylanica P. M. Jørg. SPECIES
-=======
+# Parmeliella zeylanica P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaginicola mollis SPECIES
-=======
+# Vaginicola mollis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pestalotia molleriana Thüm. SPECIES
-=======
+# Pestalotia moelleriana Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalotia molleriana Thüm.
+Pestalotia moelleriana Thüm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucula arnoldaria Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula arnoldaria Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

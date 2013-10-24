@@ -1,14 +1,13 @@
-Cephalotheca tabulata Zopf SPECIES
-=======
+# Zopfiella tabulata (Zopf) G. Winter, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Deutschl. Fl. 1(2): 56 (1884)
 
 #### Original name
 Cephalotheca tabulata Zopf

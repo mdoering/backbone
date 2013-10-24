@@ -1,5 +1,4 @@
-Trametes amplopora Lloyd SPECIES
-=======
+# Trametes amplopora Lloyd SPECIES
 
 #### Status
 ACCEPTED

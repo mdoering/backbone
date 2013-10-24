@@ -1,5 +1,4 @@
-Protoperidinium defectum (Balech in Balech & El-Sayed, 1965) Balech, 1974 SPECIES
-=======
+# Protoperidinium defectum (Balech in Balech & El-Sayed, 1965) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius argentum-silvae Melot SPECIES
-=======
+# Cortinarius argentum-silvae Melot SPECIES
 
 #### Status
 ACCEPTED

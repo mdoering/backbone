@@ -1,5 +1,4 @@
-Cystolepiota luteophylla (Sundb.) Knudsen SPECIES
-=======
+# Cystolepiota luteophylla (Sundb.) Knudsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizostoma jaczevskii Marzina & Marcich SPECIES
-=======
+# Schizostoma jaczevskii Marzina & Marcich SPECIES
 
 #### Status
 ACCEPTED

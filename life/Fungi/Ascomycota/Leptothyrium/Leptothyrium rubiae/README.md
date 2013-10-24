@@ -1,5 +1,4 @@
-Leptothyrium rubiae Henn. SPECIES
-=======
+# Leptothyrium rubiae Henn. SPECIES
 
 #### Status
 ACCEPTED

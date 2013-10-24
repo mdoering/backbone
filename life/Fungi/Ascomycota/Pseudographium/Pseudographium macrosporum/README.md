@@ -1,5 +1,4 @@
-Pseudographium macrosporum (Berk. & M.A. Curtis) Jacz. SPECIES
-=======
+# Pseudographium macrosporum (Berk. & M.A. Curtis) Jacz. SPECIES
 
 #### Status
 ACCEPTED

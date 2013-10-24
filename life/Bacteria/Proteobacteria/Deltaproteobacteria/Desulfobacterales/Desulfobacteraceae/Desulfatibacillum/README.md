@@ -1,5 +1,4 @@
-Desulfatibacillum Cravo-Laureau et al., 2004 GENUS
-=======
+# Desulfatibacillum Cravo-Laureau et al., 2004 GENUS
 
 #### Status
 ACCEPTED

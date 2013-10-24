@@ -1,5 +1,4 @@
-Peziza domingensis Berk. SPECIES
-=======
+# Peziza domingensis Berk. SPECIES
 
 #### Status
 ACCEPTED

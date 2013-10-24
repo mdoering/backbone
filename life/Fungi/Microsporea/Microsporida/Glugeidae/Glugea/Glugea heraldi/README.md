@@ -1,5 +1,4 @@
-Glugea heraldi Blasiola, 1979 SPECIES
-=======
+# Glugea heraldi Blasiola, 1979 SPECIES
 
 #### Status
 ACCEPTED

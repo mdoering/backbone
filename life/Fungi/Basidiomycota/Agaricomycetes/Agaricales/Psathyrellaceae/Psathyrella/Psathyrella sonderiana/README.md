@@ -1,5 +1,4 @@
-Psathyrella sonderiana (Berk.) Pegler SPECIES
-=======
+# Psathyrella sonderiana (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

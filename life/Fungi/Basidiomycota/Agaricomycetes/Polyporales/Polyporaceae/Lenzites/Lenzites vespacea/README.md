@@ -1,17 +1,16 @@
-Elmerina vespacea f. vespacea FORM
-=======
+# Lenzites vespacea (Pers.) Pat., 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 53: 70 (1913)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 91 (1900)
 
 #### Original name
-Elmerina vespacea f. vespacea
+Polyporus vespaceus Pers., 1827
 
 ### Remarks
 null

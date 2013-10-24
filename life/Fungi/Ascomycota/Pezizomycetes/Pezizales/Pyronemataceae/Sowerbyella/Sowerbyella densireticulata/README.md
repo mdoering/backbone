@@ -1,5 +1,4 @@
-Sowerbyella densireticulata J. Moravec, 1985 SPECIES
-=======
+# Sowerbyella densireticulata J. Moravec, 1985 SPECIES
 
 #### Status
 ACCEPTED

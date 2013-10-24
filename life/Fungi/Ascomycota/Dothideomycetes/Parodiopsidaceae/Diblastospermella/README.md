@@ -1,5 +1,4 @@
-Diblastospermella GENUS
-=======
+# Diblastospermella GENUS
 
 #### Status
 ACCEPTED

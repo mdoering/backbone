@@ -1,5 +1,4 @@
-Ascospora pisi Fuckel SPECIES
-=======
+# Ascospora pisi Fuckel SPECIES
 
 #### Status
 ACCEPTED

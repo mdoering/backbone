@@ -1,5 +1,4 @@
-Cercospora althaeigena J.M. Yen & S.K. Sun SPECIES
-=======
+# Cercospora althaeigena J.M. Yen & S.K. Sun SPECIES
 
 #### Status
 ACCEPTED

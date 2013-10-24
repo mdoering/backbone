@@ -1,5 +1,4 @@
-Pseudocercospora grisea (Cooke & Ellis) U. Braun SPECIES
-=======
+# Pseudocercospora grisea (Cooke & Ellis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

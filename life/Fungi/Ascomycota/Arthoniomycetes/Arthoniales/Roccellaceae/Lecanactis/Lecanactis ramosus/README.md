@@ -1,5 +1,4 @@
-Lecanactis ramosus B. de Lesd. SPECIES
-=======
+# Lecanactis ramosus B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

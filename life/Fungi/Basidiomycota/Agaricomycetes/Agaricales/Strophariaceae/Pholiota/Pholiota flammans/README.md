@@ -1,14 +1,13 @@
-Agaricus flammans Batsch, 1783 SPECIES
-=======
+# Pholiota flammans (Batsch) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Halle) 87 (1783)
+Führ. Pilzk. (Zwickau) 84 (1871)
 
 #### Original name
 Agaricus flammans Batsch, 1783

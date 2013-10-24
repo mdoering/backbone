@@ -1,5 +1,4 @@
-Gastrosuillus GENUS
-=======
+# Gastrosuillus GENUS
 
 #### Status
 ACCEPTED

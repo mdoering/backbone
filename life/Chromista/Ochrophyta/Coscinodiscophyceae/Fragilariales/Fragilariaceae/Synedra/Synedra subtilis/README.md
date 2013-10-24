@@ -1,5 +1,4 @@
-Synedra subtilis Kützing SPECIES
-=======
+# Synedra subtilis Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius rancidus M.M. Moser SPECIES
-=======
+# Cortinarius rancidus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

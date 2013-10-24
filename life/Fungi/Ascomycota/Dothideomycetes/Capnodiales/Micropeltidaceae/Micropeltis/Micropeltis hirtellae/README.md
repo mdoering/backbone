@@ -1,5 +1,4 @@
-Micropeltis hirtellae Henn. SPECIES
-=======
+# Micropeltis hirtellae Henn. SPECIES
 
 #### Status
 ACCEPTED

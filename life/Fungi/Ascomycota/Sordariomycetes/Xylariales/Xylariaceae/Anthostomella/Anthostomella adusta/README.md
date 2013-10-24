@@ -1,5 +1,4 @@
-Anthostomella adusta (Cooke & Peck) M.E. Barr SPECIES
-=======
+# Anthostomella adusta (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

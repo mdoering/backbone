@@ -1,5 +1,4 @@
-Cortinarius fluorescens E. Horak SPECIES
-=======
+# Cortinarius fluorescens E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mattirolella silverstrii S. Colla SPECIES
-=======
+# Mattirolella silvestrii S. Colla, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boll. Lab. Zool. Portici 22: (1929)
 
 #### Original name
-Mattirolella silverstrii S. Colla
+Mattirolella silvestrii S. Colla, 1929
 
 ### Remarks
 null

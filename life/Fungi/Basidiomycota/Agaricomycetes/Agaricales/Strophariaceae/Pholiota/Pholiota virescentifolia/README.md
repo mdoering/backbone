@@ -1,5 +1,4 @@
-Pholiota virescentifolia A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota virescentifolia A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

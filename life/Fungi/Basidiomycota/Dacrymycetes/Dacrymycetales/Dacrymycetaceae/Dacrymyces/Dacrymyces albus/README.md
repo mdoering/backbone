@@ -1,5 +1,4 @@
-Dacrymyces albus Lib. SPECIES
-=======
+# Dacrymyces albus Lib. SPECIES
 
 #### Status
 ACCEPTED

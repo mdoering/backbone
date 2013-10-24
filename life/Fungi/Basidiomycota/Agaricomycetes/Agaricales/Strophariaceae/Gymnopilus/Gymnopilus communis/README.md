@@ -1,5 +1,4 @@
-Gymnopilus communis Guzm.-Dáv. SPECIES
-=======
+# Gymnopilus communis Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

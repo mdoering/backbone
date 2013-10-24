@@ -1,5 +1,4 @@
-Cercospora rhapontici Tehon & E.Y. Daniels SPECIES
-=======
+# Cercospora rhapontici Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

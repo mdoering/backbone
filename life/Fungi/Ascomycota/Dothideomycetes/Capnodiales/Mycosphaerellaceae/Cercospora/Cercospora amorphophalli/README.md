@@ -1,5 +1,4 @@
-Cercospora amorphophalli Pat. & Har. SPECIES
-=======
+# Cercospora amorphophalli Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

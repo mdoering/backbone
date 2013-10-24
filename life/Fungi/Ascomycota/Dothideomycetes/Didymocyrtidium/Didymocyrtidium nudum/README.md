@@ -1,5 +1,4 @@
-Didymocyrtidium nudum SPECIES
-=======
+# Didymocyrtidium nudum SPECIES
 
 #### Status
 ACCEPTED

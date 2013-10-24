@@ -1,5 +1,4 @@
-Pholiota subdefossa A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subdefossa A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

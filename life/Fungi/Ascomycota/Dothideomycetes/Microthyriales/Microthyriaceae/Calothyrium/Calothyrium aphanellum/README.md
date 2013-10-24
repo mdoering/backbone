@@ -1,5 +1,4 @@
-Calothyrium aphanellum Syd. SPECIES
-=======
+# Calothyrium aphanellum Syd. SPECIES
 
 #### Status
 ACCEPTED

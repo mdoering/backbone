@@ -1,5 +1,4 @@
-Scindalma incrustans (Pers.) Kuntze SPECIES
-=======
+# Scindalma incrustans (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

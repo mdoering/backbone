@@ -1,5 +1,4 @@
-Orbilia medicaginis Fautrey & Roum. SPECIES
-=======
+# Orbilia medicaginis Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

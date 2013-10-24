@@ -1,5 +1,4 @@
-Biporipsilonites verus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Biporipsilonites verus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

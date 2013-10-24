@@ -1,5 +1,4 @@
-Baikalodendron Swarczewsky, 1928 GENUS
-=======
+# Baikalodendron Swarczewsky, 1928 GENUS
 
 #### Status
 ACCEPTED

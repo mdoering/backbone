@@ -1,5 +1,4 @@
-Peziza rufula Schwein. SPECIES
-=======
+# Peziza rufula Schwein. SPECIES
 
 #### Status
 ACCEPTED

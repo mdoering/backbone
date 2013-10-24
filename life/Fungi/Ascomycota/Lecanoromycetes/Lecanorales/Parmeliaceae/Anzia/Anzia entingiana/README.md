@@ -1,5 +1,4 @@
-Anzia entingiana Elix SPECIES
-=======
+# Anzia entingiana Elix SPECIES
 
 #### Status
 ACCEPTED

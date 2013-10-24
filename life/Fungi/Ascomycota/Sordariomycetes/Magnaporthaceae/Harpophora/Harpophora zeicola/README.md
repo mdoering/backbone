@@ -1,14 +1,13 @@
-Phialophora zeicola Deacon & D.B. Scott, 1983 SPECIES
-=======
+# Harpophora zeicola (Deacon & D.B. Scott) W. Gams, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 81(2): 256 (1983)
+Stud. Mycol. 45: 192 (2000)
 
 #### Original name
 Phialophora zeicola Deacon & D.B. Scott, 1983

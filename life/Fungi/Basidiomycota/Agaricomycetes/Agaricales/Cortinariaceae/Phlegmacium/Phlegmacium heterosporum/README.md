@@ -1,5 +1,4 @@
-Phlegmacium heterosporum Sosin SPECIES
-=======
+# Phlegmacium heterosporum Sosin SPECIES
 
 #### Status
 ACCEPTED

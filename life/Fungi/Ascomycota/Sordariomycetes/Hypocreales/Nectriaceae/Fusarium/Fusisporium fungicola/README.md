@@ -1,5 +1,4 @@
-Fusisporium fungicola Corda SPECIES
-=======
+# Fusisporium fungicola Corda SPECIES
 
 #### Status
 ACCEPTED

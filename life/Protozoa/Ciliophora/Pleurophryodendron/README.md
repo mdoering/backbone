@@ -1,5 +1,4 @@
-Pleurophryodendron Yankovskii, 1978 GENUS
-=======
+# Pleurophryodendron Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

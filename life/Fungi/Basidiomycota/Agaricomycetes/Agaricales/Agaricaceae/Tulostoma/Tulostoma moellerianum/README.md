@@ -1,8 +1,7 @@
-Tulostoma mollerianum Bres. & Roum. SPECIES
-=======
+# Tulostoma moellerianum Bres. & Roum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tulostoma mollerianum Bres. & Roum.
+Tulostoma moellerianum Bres. & Roum.
 
 ### Remarks
 null

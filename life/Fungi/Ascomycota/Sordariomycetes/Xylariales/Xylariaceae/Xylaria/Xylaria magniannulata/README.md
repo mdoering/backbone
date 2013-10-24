@@ -1,5 +1,4 @@
-Xylaria magniannulata F.S.M. González & J.D. Rogers SPECIES
-=======
+# Xylaria magniannulata F.S.M. González & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

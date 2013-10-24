@@ -1,14 +1,13 @@
-Melaspilea metabola Nyl. SPECIES
-=======
+# Bactrospora metabola (Nyl.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 2 2: 69 (1868)
+Mycotaxon 53: 58 (1995)
 
 #### Original name
 Melaspilea metabola Nyl.

@@ -1,5 +1,4 @@
-Rosalina wrighti SPECIES
-=======
+# Rosalina wrighti SPECIES
 
 #### Status
 ACCEPTED

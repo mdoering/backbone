@@ -1,5 +1,4 @@
-Anastomaria campanulata Raf. SPECIES
-=======
+# Anastomaria campanulata Raf. SPECIES
 
 #### Status
 ACCEPTED

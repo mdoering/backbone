@@ -1,5 +1,4 @@
-Russula leucomodesta Singer SPECIES
-=======
+# Russula leucomodesta Singer SPECIES
 
 #### Status
 ACCEPTED

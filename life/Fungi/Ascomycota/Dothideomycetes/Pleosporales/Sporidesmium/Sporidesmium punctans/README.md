@@ -1,5 +1,4 @@
-Sporidesmium punctans Ellis & Everh. SPECIES
-=======
+# Sporidesmium punctans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

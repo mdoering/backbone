@@ -1,17 +1,16 @@
-Lecanora gunnari Motyka SPECIES
-=======
+# Lecanora gunnarii Motyka SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Porosty (Lichenes). <b>3</b> (Lublin), Rodzina <i>Lecanoraceae</i>. <i>Lecanora</i> 516 (1996)
 
 #### Original name
-Lecanora gunnari Motyka
+Lecanora gunnarii Motyka
 
 ### Remarks
 null

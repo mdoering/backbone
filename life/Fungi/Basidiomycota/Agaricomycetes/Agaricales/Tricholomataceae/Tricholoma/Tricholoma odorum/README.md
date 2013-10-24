@@ -1,5 +1,4 @@
-Tricholoma odorum Peck SPECIES
-=======
+# Tricholoma odorum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyochaetopsis dingleyae Aramb. & Cabello, 1990 SPECIES
-=======
+# Dictyochaetopsis dingleyae Aramb. & Cabello, 1990 SPECIES
 
 #### Status
 ACCEPTED

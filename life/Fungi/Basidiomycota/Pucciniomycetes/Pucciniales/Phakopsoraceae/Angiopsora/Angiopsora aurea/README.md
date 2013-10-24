@@ -1,5 +1,4 @@
-Angiopsora aurea Cummins SPECIES
-=======
+# Angiopsora aurea Cummins SPECIES
 
 #### Status
 ACCEPTED

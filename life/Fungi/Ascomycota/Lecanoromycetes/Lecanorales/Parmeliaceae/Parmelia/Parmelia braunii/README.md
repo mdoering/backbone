@@ -1,5 +1,4 @@
-Parmelia braunii C.W. Dodge SPECIES
-=======
+# Parmelia braunii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria polycarpa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria polycarpa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

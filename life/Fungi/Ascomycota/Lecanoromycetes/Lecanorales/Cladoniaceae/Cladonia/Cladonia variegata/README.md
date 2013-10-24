@@ -1,5 +1,4 @@
-Cladonia variegata Ahti SPECIES
-=======
+# Cladonia variegata Ahti SPECIES
 
 #### Status
 ACCEPTED

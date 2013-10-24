@@ -1,5 +1,4 @@
-Hemisphaeria cingulata (Lév.) Kuntze SPECIES
-=======
+# Hemisphaeria cingulata (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

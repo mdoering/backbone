@@ -1,5 +1,4 @@
-Leptonia trichomata Largent SPECIES
-=======
+# Leptonia trichomata Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia diversispora Kabát & Bubák SPECIES
-=======
+# Diplodia diversispora Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

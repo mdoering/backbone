@@ -1,5 +1,4 @@
-Leucogaster braunii Rick SPECIES
-=======
+# Leucogaster braunii Rick SPECIES
 
 #### Status
 ACCEPTED

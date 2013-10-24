@@ -1,5 +1,4 @@
-Placodium demissum (Flot.) Körb. SPECIES
-=======
+# Placodium demissum (Flot.) Körb. SPECIES
 
 #### Status
 ACCEPTED

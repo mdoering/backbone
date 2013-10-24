@@ -1,5 +1,4 @@
-Symplassosphaeridium dictyotum Ouyang Shu, Yin Leiming & Li Zaiping SPECIES
-=======
+# Symplassosphaeridium dictyotum Ouyang Shu, Yin Leiming & Li Zaiping SPECIES
 
 #### Status
 ACCEPTED

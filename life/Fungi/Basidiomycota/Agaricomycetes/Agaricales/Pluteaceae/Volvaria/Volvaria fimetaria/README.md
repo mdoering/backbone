@@ -1,5 +1,4 @@
-Volvaria fimetaria (Murrill) Murrill SPECIES
-=======
+# Volvaria fimetaria (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

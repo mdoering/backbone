@@ -1,5 +1,4 @@
-Hypoxylon undulatum Y.M. Ju, J.D. Rogers & Laessøe, 1996 SPECIES
-=======
+# Hypoxylon undulatum Y.M. Ju, J.D. Rogers & Laessøe, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Bdellovibrio chlorellavorus Gromov & Mamkayeva, 1972 SPECIES
-=======
+# Vampirovibrio chlorellavorus (ex Gromov & Mamkayeva, 1972) Gromov & Mamkayeva, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Trichosporum asteroides (Rischin) M. Ota SPECIES
-=======
+# Trichosporum asteroides (Rischin) M. Ota SPECIES
 
 #### Status
 ACCEPTED

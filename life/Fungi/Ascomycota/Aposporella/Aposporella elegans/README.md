@@ -1,5 +1,4 @@
-Aposporella elegans Thaxt., 1920 SPECIES
-=======
+# Aposporella elegans Thaxt., 1920 SPECIES
 
 #### Status
 ACCEPTED

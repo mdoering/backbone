@@ -1,5 +1,4 @@
-Prediscosphaera bukryi Perch-Nielsen, 1973 SPECIES
-=======
+# Prediscosphaera bukryi Perch-Nielsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

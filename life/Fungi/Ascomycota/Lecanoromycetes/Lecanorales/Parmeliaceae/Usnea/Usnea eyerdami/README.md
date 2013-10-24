@@ -1,5 +1,4 @@
-Usnea eyerdami var. eyerdami VARIETY
-=======
+# Usnea eyerdami Herre SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Rev. Bryol. Lichénol. 29: 274 (1961)
 
 #### Original name
-Usnea eyerdami var. eyerdami
+Usnea eyerdami Herre
 
 ### Remarks
 null

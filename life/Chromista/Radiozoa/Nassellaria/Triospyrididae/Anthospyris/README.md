@@ -1,5 +1,4 @@
-Anthospyris Haeckel, 1881 GENUS
-=======
+# Anthospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

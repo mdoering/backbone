@@ -1,5 +1,4 @@
-Perisporiopsis brasiliensis (Bat. & Nascim.) Arx SPECIES
-=======
+# Perisporiopsis brasiliensis (Bat. & Nascim.) Arx SPECIES
 
 #### Status
 ACCEPTED

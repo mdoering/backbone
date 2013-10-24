@@ -1,5 +1,4 @@
-Anthracothecium corcovadense Malme SPECIES
-=======
+# Anthracothecium corcovadense Malme SPECIES
 
 #### Status
 ACCEPTED

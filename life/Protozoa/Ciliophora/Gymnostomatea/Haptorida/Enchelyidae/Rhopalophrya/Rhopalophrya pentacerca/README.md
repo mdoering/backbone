@@ -1,5 +1,4 @@
-Rhopalophrya pentacerca Grandori & Grandori, 1934 SPECIES
-=======
+# Rhopalophrya pentacerca Grandori & Grandori, 1934 SPECIES
 
 #### Status
 ACCEPTED

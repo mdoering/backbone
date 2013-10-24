@@ -1,5 +1,4 @@
-Arthonia biseptata Degel. SPECIES
-=======
+# Arthonia biseptata Degel. SPECIES
 
 #### Status
 ACCEPTED

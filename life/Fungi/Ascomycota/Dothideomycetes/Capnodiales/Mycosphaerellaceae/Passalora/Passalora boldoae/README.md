@@ -1,5 +1,4 @@
-Passalora boldoae (N. Pons) U. Braun, Crous & N. Pons SPECIES
-=======
+# Passalora boldoae (N. Pons) U. Braun, Crous & N. Pons SPECIES
 
 #### Status
 ACCEPTED

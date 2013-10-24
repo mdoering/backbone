@@ -1,5 +1,4 @@
-Leptostroma capreae Lib. SPECIES
-=======
+# Leptostroma capreae Lib. SPECIES
 
 #### Status
 ACCEPTED

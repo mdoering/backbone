@@ -1,5 +1,4 @@
-Halococcus GENUS
-=======
+# Halococcus GENUS
 
 #### Status
 ACCEPTED

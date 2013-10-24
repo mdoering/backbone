@@ -1,5 +1,4 @@
-Verrucaria viridirufa Hoffm. SPECIES
-=======
+# Verrucaria viridirufa Hoffm. SPECIES
 
 #### Status
 ACCEPTED

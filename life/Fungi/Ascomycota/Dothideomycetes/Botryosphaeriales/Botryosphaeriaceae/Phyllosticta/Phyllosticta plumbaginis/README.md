@@ -1,5 +1,4 @@
-Phyllosticta plumbaginis (Ponnappa) Khune SPECIES
-=======
+# Phyllosticta plumbaginis (Ponnappa) Khune SPECIES
 
 #### Status
 ACCEPTED

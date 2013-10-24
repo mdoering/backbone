@@ -1,5 +1,4 @@
-Tintinnopsella dalmatica Radoicic, 1969 SPECIES
-=======
+# Tintinnopsella dalmatica Radoicic, 1969 SPECIES
 
 #### Status
 ACCEPTED

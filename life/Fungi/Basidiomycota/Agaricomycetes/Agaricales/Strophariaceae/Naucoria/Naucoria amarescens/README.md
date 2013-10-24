@@ -1,14 +1,13 @@
-Hylophila amarescens (Quél.) Quél., 1886 SPECIES
-=======
+# Naucoria amarescens Quél., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 101 (1886)
+Compt. Rend. Assoc. Franç. Avancem. Sci. 11: 393 (1883)
 
 #### Original name
 Naucoria amarescens Quél., 1883

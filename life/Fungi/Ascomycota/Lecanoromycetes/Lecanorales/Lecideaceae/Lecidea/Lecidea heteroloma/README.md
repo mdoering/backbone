@@ -1,5 +1,4 @@
-Lecidea heteroloma Vain. SPECIES
-=======
+# Lecidea heteroloma Vain. SPECIES
 
 #### Status
 ACCEPTED

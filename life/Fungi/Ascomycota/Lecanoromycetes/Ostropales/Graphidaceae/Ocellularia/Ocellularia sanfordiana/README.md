@@ -1,14 +1,13 @@
-Thelotrema sanfordianum Zahlbr. SPECIES
-=======
+# Ocellularia sanfordiana (Zahlbr.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls mycol. 33: 41 (1935)
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Thelotrema sanfordianum Zahlbr.

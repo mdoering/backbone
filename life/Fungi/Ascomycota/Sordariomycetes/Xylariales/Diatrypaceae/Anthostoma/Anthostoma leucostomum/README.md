@@ -1,5 +1,4 @@
-Anthostoma leucostomum Berl. SPECIES
-=======
+# Anthostoma leucostomum Berl. SPECIES
 
 #### Status
 ACCEPTED

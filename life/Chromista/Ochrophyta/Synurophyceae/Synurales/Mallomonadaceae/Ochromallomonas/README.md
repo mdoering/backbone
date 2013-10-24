@@ -1,5 +1,4 @@
-Ochromallomonas J.W.G.Lund, 1942 GENUS
-=======
+# Ochromallomonas J.W.G.Lund, 1942 GENUS
 
 #### Status
 ACCEPTED

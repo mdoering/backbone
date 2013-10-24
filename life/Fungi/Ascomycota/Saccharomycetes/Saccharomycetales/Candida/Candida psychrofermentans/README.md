@@ -1,5 +1,4 @@
-Candida psychrofermentans J. Nishikawa & Iizuka SPECIES
-=======
+# Candida psychrofermentans J. Nishikawa & Iizuka SPECIES
 
 #### Status
 ACCEPTED

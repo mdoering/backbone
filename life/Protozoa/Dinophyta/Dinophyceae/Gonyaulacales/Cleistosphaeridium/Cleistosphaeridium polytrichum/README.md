@@ -1,5 +1,4 @@
-Cleistosphaeridium polytrichum (Valensi, 1947) Davey et al., 1969 SPECIES
-=======
+# Cleistosphaeridium polytrichum (Valensi, 1947) Davey et al., 1969 SPECIES
 
 #### Status
 ACCEPTED

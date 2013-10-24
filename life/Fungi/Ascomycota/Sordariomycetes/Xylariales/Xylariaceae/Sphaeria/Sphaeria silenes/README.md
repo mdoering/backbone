@@ -1,5 +1,4 @@
-Sphaeria silenes Kirchn. SPECIES
-=======
+# Sphaeria silenes Kirchn. SPECIES
 
 #### Status
 ACCEPTED

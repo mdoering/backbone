@@ -1,11 +1,10 @@
-Inocybe relicina f. relicina FORM
-=======
+# Inocybe relicina (Fr.) Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fl. mycol. France (Paris) 104 (1888)

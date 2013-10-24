@@ -1,5 +1,4 @@
-Actinosiphon Vaughan, 1929 GENUS
-=======
+# Actinosiphon Vaughan, 1929 GENUS
 
 #### Status
 ACCEPTED

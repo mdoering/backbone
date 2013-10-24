@@ -1,5 +1,4 @@
-Rhytismites ungeri Mesch. SPECIES
-=======
+# Rhytismites ungeri Mesch. SPECIES
 
 #### Status
 ACCEPTED

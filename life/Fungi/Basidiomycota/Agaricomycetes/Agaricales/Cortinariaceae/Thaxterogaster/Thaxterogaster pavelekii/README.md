@@ -1,5 +1,4 @@
-Thaxterogaster pavelekii Trappe, Castellano & P. Rawl. SPECIES
-=======
+# Thaxterogaster pavelekii Trappe, Castellano & P. Rawl. SPECIES
 
 #### Status
 ACCEPTED

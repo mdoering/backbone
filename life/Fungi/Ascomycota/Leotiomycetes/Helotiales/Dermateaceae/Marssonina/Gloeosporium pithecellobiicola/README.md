@@ -1,17 +1,16 @@
-Gloeosporium pithecolobiicola Sawada SPECIES
-=======
+# Gloeosporium pithecellobiicola Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Taihoku Soc. Agric. 7: 113 (1942)
 
 #### Original name
-Gloeosporium pithecolobiicola Sawada
+Gloeosporium pithecellobiicola Sawada
 
 ### Remarks
 null

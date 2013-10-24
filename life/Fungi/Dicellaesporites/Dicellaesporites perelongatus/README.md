@@ -1,5 +1,4 @@
-Dicellaesporites perelongatus Kalgutkar & Janson. SPECIES
-=======
+# Dicellaesporites perelongatus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

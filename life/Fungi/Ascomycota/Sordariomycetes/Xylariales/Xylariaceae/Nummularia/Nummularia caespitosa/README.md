@@ -1,5 +1,4 @@
-Nummularia caespitosa var. caespitosa VARIETY
-=======
+# Nummularia caespitosa Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 4: 110 (1888)
 
 #### Original name
-Nummularia caespitosa var. caespitosa
+Nummularia caespitosa Pat. & Gaillard
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xanthoria elixii S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria elixii S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

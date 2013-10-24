@@ -1,5 +1,4 @@
-Corticium degreanum Berk. SPECIES
-=======
+# Corticium degreanum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella gemmarum (Boud.) Dennis SPECIES
-=======
+# Pezizella gemmarum (Boud.) Dennis SPECIES
 
 #### Status
 ACCEPTED

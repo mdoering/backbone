@@ -1,5 +1,4 @@
-Alternaria nerii (Cooke) E.G. Simmons SPECIES
-=======
+# Alternaria nerii (Cooke) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

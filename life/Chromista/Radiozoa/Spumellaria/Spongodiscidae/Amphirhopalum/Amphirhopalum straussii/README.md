@@ -1,5 +1,4 @@
-Amphirhopalum straussii (Haeckel) Johnson & Nigrini, 1980 SPECIES
-=======
+# Amphirhopalum straussii (Haeckel) Johnson & Nigrini, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplocystis wrightii Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Diplocystis wrightii Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaptychia usambarensis Kurok. SPECIES
-=======
+# Anaptychia usambarensis Kurok. SPECIES
 
 #### Status
 ACCEPTED

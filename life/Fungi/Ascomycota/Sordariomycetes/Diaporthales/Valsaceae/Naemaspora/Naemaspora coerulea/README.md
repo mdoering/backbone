@@ -1,5 +1,4 @@
-Naemaspora coerulea Riess ex Petr. SPECIES
-=======
+# Naemaspora coerulea Riess ex Petr. SPECIES
 
 #### Status
 ACCEPTED

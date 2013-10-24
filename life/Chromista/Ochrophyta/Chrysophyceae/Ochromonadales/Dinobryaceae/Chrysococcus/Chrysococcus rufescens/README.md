@@ -1,5 +1,4 @@
-Chrysococcus rufescens f. tripora J.W.G.Lund FORM
-=======
+# Chrysococcus rufescens G.A. Klebs SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia marrubii C. Massal. SPECIES
-=======
+# Ramularia marrubii C. Massal. SPECIES
 
 #### Status
 ACCEPTED

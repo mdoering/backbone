@@ -1,5 +1,4 @@
-Xylostroma corium Pers. SPECIES
-=======
+# Xylostroma corium Pers. SPECIES
 
 #### Status
 ACCEPTED

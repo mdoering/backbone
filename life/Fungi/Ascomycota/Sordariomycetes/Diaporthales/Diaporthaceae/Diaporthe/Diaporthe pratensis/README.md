@@ -1,5 +1,4 @@
-Diaporthe pratensis Sacc. & Speg. SPECIES
-=======
+# Diaporthe pratensis Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

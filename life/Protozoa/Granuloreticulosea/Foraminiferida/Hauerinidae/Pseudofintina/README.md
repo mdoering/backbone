@@ -1,5 +1,4 @@
-Pseudofintina GENUS
-=======
+# Pseudofintina GENUS
 
 #### Status
 ACCEPTED

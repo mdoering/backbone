@@ -1,5 +1,4 @@
-Rhabdospora savulescui D.N. Babajan & Simonyan SPECIES
-=======
+# Rhabdospora savulescui D.N. Babajan & Simonyan SPECIES
 
 #### Status
 ACCEPTED

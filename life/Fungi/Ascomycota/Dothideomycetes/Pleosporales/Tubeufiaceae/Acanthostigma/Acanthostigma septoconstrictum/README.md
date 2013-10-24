@@ -1,5 +1,4 @@
-Acanthostigma septoconstrictum Promputtha & A.N. Mill., 2010 SPECIES
-=======
+# Acanthostigma septoconstrictum Promputtha & A.N. Mill., 2010 SPECIES
 
 #### Status
 ACCEPTED

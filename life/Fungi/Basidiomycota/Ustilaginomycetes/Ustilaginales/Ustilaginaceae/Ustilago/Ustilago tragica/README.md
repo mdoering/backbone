@@ -1,5 +1,4 @@
-Ustilago tragica Vánky SPECIES
-=======
+# Ustilago tragica Vánky SPECIES
 
 #### Status
 ACCEPTED

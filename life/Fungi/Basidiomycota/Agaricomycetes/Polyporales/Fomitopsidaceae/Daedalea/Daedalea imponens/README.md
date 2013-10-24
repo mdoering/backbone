@@ -1,17 +1,16 @@
-Hexagonia lachnochaeta Pat., 1915 SPECIES
-=======
+# Daedalea imponens Ces., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Philipp. J. Sci. , C, Bot. 10: 93 (1915)
+Atti Accad. Sci. fis. mat. Napoli 8(8): 7 (1879)
 
 #### Original name
-Hexagonia lachnochaeta Pat., 1915
+Daedalea imponens Ces., 1879
 
 ### Remarks
 null

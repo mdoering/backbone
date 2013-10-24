@@ -1,5 +1,4 @@
-Agaricus sudorus Fr. SPECIES
-=======
+# Agaricus sudorus Fr. SPECIES
 
 #### Status
 ACCEPTED

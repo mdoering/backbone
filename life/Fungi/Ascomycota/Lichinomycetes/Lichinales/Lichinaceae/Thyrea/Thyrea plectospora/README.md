@@ -1,14 +1,13 @@
-Omphalaria plectospora (A. Massal.) A. Massal. SPECIES
-=======
+# Thyrea plectospora A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sched. critic. (1856)
 
 #### Original name
 Thyrea plectospora A. Massal.

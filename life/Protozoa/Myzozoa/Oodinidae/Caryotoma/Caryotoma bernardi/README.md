@@ -1,5 +1,4 @@
-Caryotoma bernardi SPECIES
-=======
+# Caryotoma bernardi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium eriobotryae Speg. SPECIES
-=======
+# Gloeosporium eriobotryae Speg. SPECIES
 
 #### Status
 ACCEPTED

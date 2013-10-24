@@ -1,5 +1,4 @@
-Tephromela disciformis Øvstedal SPECIES
-=======
+# Tephromela disciformis Øvstedal SPECIES
 
 #### Status
 ACCEPTED

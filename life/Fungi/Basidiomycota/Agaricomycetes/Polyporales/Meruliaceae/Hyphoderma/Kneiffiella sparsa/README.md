@@ -1,5 +1,4 @@
-Kneiffiella sparsa Rick SPECIES
-=======
+# Kneiffiella sparsa Rick SPECIES
 
 #### Status
 ACCEPTED

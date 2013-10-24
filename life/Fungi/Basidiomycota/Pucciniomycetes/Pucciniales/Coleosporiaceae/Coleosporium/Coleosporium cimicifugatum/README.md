@@ -1,5 +1,4 @@
-Coleosporium cimicifugatum Thüm. SPECIES
-=======
+# Coleosporium cimicifugatum Thüm. SPECIES
 
 #### Status
 ACCEPTED

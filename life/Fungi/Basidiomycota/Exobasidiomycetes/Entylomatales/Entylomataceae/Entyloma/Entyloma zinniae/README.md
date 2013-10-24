@@ -1,5 +1,4 @@
-Entyloma zinniae Syd. SPECIES
-=======
+# Entyloma zinniae Syd. SPECIES
 
 #### Status
 ACCEPTED

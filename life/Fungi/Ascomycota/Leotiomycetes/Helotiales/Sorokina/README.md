@@ -1,5 +1,4 @@
-Sorokina Sacc. GENUS
-=======
+# Sorokina Sacc. GENUS
 
 #### Status
 ACCEPTED

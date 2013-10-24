@@ -1,5 +1,4 @@
-Dermocybe oliveoicterina M.M. Moser SPECIES
-=======
+# Dermocybe oliveoicterina M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

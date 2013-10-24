@@ -1,5 +1,4 @@
-Reticularia minuta SPECIES
-=======
+# Reticularia minuta SPECIES
 
 #### Status
 ACCEPTED

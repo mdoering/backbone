@@ -1,5 +1,4 @@
-Cetraria delavayi (Hue) M. Satô SPECIES
-=======
+# Cetraria delavayi (Hue) M. Satô SPECIES
 
 #### Status
 ACCEPTED

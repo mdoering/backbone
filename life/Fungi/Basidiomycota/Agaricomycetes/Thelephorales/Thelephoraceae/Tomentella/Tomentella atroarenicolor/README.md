@@ -1,5 +1,4 @@
-Tomentella atroarenicolor Nikol., 1970 SPECIES
-=======
+# Tomentella atroarenicolor Nikol., 1970 SPECIES
 
 #### Status
 ACCEPTED

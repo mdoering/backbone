@@ -1,5 +1,4 @@
-Puccinia vulpinae J. Schröt. SPECIES
-=======
+# Puccinia vulpinae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

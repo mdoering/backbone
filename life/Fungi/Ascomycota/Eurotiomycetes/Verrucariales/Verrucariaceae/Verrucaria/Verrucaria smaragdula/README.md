@@ -1,5 +1,4 @@
-Verrucaria smaragdula (Körb.) Nyl. SPECIES
-=======
+# Verrucaria smaragdula (Körb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

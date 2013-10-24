@@ -1,5 +1,4 @@
-Uredo floridana Syd. & P. Syd. SPECIES
-=======
+# Uredo floridana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

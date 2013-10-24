@@ -1,5 +1,4 @@
-Echinoplaca argentea (Mont.) R. Sant. SPECIES
-=======
+# Echinoplaca argentea (Mont.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

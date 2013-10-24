@@ -1,5 +1,4 @@
-Helotium albipes Velen. SPECIES
-=======
+# Helotium albipes Velen. SPECIES
 
 #### Status
 ACCEPTED

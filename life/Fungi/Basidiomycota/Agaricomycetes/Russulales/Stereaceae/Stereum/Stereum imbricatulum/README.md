@@ -1,5 +1,4 @@
-Stereum imbricatulum (Schwein.) Sacc. SPECIES
-=======
+# Stereum imbricatulum (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

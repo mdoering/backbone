@@ -1,5 +1,4 @@
-Haemogregarina curvata Hayes, Smit, Seddon, Wertheim & Davies, 2006 SPECIES
-=======
+# Haemogregarina curvata Hayes, Smit, Seddon, Wertheim & Davies, 2006 SPECIES
 
 #### Status
 ACCEPTED

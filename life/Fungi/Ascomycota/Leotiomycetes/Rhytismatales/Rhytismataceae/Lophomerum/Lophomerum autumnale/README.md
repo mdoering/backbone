@@ -1,14 +1,13 @@
-Lophodermium autumnale Darker, 1932 SPECIES
-=======
+# Lophomerum autumnale (Darker) Magasi, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Arnold Arbor. 1: 77 (1932)
+Mycologia 58(2): 275 (1966)
 
 #### Original name
 Lophodermium autumnale Darker, 1932

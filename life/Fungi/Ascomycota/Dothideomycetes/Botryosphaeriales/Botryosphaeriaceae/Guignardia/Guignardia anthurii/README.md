@@ -1,5 +1,4 @@
-Guignardia anthurii Gutner SPECIES
-=======
+# Guignardia anthurii Gutner SPECIES
 
 #### Status
 ACCEPTED

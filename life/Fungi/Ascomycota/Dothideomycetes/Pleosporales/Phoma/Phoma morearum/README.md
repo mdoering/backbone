@@ -1,5 +1,4 @@
-Phoma morearum Brunaud SPECIES
-=======
+# Phoma morearum Brunaud SPECIES
 
 #### Status
 ACCEPTED

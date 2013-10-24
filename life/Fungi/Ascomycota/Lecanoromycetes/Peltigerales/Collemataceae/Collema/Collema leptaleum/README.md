@@ -1,17 +1,16 @@
-Collema leptaleum var. biliosum (Mont.) Degel. VARIETY
-=======
+# Collema leptaleum Tuck. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 20(2): 105 (1974)
+Proc. Amer. Acad. Arts & Sci. 6: 263 (1866)
 
 #### Original name
-Collema nigrescens var. biliosum Mont.
+Collema leptaleum Tuck.
 
 ### Remarks
 null

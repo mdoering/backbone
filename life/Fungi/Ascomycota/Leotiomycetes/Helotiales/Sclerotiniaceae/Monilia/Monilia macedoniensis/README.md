@@ -1,5 +1,4 @@
-Monilia macedoniensis var. macedoniensis VARIETY
-=======
+# Monilia macedoniensis Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Castellani & Chalmers, Man. trop. med. (London), 3rd Edn 1087 (1919)
 
 #### Original name
-Monilia macedoniensis var. macedoniensis
+Monilia macedoniensis Castell. & Chalm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lepiota subdelicata Henn. SPECIES
-=======
+# Lepiota subdelicata Henn. SPECIES
 
 #### Status
 ACCEPTED

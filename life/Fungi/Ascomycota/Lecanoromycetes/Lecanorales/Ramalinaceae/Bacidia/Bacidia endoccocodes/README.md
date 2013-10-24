@@ -1,5 +1,4 @@
-Bacidia endoccocodes Hellb. SPECIES
-=======
+# Bacidia endoccocodes Hellb. SPECIES
 
 #### Status
 ACCEPTED

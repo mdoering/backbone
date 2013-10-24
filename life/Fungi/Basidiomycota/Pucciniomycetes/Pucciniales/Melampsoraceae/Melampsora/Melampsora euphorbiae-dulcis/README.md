@@ -1,5 +1,4 @@
-Melampsora euphorbiae-dulcis G.H. Otth SPECIES
-=======
+# Melampsora euphorbiae-dulcis G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

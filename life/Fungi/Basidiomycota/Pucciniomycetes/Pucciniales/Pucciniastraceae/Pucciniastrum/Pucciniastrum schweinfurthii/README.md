@@ -1,5 +1,4 @@
-Pucciniastrum schweinfurthii Henn. SPECIES
-=======
+# Pucciniastrum schweinfurthii Henn. SPECIES
 
 #### Status
 ACCEPTED

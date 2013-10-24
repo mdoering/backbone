@@ -1,5 +1,4 @@
-Pyrgostroma shearii Petr., 1951 SPECIES
-=======
+# Pyrgostroma shearii Petr., 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinulopsis GENUS
-=======
+# Uncinulopsis GENUS
 
 #### Status
 ACCEPTED

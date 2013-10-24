@@ -1,5 +1,4 @@
-Russula punctipes Singer SPECIES
-=======
+# Russula punctipes Singer SPECIES
 
 #### Status
 ACCEPTED

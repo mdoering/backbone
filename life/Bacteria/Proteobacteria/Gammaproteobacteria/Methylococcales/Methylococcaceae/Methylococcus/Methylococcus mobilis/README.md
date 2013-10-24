@@ -1,5 +1,4 @@
-Methylococcus mobilis Hazeu et al., 1980 SPECIES
-=======
+# Methylococcus mobilis Hazeu et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotiella incarnata Pat. SPECIES
-=======
+# Helotiella incarnata Pat. SPECIES
 
 #### Status
 ACCEPTED

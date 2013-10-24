@@ -1,5 +1,4 @@
-Phacidium viride Richon SPECIES
-=======
+# Phacidium viride Richon SPECIES
 
 #### Status
 ACCEPTED

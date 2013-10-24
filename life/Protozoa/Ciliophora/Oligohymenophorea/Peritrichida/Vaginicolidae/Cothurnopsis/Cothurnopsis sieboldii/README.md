@@ -1,5 +1,4 @@
-Cothurnopsis sieboldii (Guhl & Guhl, 1993) Jankowski, 2007 SPECIES
-=======
+# Cothurnopsis sieboldii (Guhl & Guhl, 1993) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

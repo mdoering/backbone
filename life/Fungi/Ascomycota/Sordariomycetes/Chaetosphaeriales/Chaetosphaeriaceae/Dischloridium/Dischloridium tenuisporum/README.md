@@ -1,5 +1,4 @@
-Dischloridium tenuisporum Hol.-Jech. SPECIES
-=======
+# Dischloridium tenuisporum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

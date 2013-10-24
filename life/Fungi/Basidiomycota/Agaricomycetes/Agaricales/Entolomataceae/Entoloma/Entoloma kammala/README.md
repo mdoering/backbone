@@ -1,5 +1,4 @@
-Entoloma kammala Grgur. SPECIES
-=======
+# Entoloma kammala Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cheissinophrya de Puytorac & Dragesco, 1969 GENUS
-=======
+# Cheissinophrya de Puytorac & Dragesco, 1969 GENUS
 
 #### Status
 ACCEPTED

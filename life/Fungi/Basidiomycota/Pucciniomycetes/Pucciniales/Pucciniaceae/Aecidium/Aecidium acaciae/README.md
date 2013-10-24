@@ -1,5 +1,4 @@
-Aecidium acaciae Magnus SPECIES
-=======
+# Aecidium acaciae Magnus SPECIES
 
 #### Status
 ACCEPTED

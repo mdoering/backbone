@@ -1,5 +1,4 @@
-Sphaeria ramalinae Desm. SPECIES
-=======
+# Sphaeria ramalinae Desm. SPECIES
 
 #### Status
 ACCEPTED

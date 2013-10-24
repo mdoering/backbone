@@ -1,5 +1,4 @@
-Queenslandia pulchella Bat. & H. Maia, 1959 SPECIES
-=======
+# Queenslandia pulchella Bat. & H. Maia, 1959 SPECIES
 
 #### Status
 ACCEPTED

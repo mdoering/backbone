@@ -1,5 +1,4 @@
-Cryptovalsaria americana Lar.N. Vassiljeva & S.L. Stephenson, 2007 SPECIES
-=======
+# Cryptovalsaria americana Lar.N. Vassiljeva & S.L. Stephenson, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophomarginata plicatula N. Umnova, 1975 SPECIES
-=======
+# Lophomarginata plicatula N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanocapsa distans Zalessky SPECIES
-=======
+# Aphanocapsa distans Zalessky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomyces circulatus Krassiln. SPECIES
-=======
+# Actinomyces circulatus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula pseudobufonia (Rehm) R.C. Harris SPECIES
-=======
+# Pyrenula pseudobufonia (Rehm) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

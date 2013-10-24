@@ -1,5 +1,4 @@
-Bolivina torqueata SPECIES
-=======
+# Bolivina torqueata SPECIES
 
 #### Status
 ACCEPTED

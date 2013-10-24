@@ -1,5 +1,4 @@
-Cyttarocylis cymatica SPECIES
-=======
+# Cyttarocylis cymatica SPECIES
 
 #### Status
 ACCEPTED

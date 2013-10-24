@@ -1,17 +1,16 @@
-Sporidesmium bakeri var. bakeri VARIETY
-=======
+# Leptosphaerulina chartarum Cec. Roux, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12(2): 204 (1914)
+Trans. Br. mycol. Soc. 86(2): 320 (1986)
 
 #### Original name
-Sporidesmium bakeri var. bakeri
+Leptosphaerulina chartarum Cec. Roux, 1986
 
 ### Remarks
 null

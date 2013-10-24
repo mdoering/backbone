@@ -1,5 +1,4 @@
-Pyrenula caraibica Aptroot & Etayo SPECIES
-=======
+# Pyrenula caraibica Aptroot & Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea sublygomma Zahlbr. SPECIES
-=======
+# Lecidea sublygomma Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

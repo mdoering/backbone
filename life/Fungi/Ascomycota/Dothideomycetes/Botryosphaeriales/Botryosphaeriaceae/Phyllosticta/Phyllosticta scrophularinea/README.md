@@ -1,5 +1,4 @@
-Phyllosticta scrophularinea Sacc. SPECIES
-=======
+# Phyllosticta scrophularinea Sacc. SPECIES
 
 #### Status
 ACCEPTED

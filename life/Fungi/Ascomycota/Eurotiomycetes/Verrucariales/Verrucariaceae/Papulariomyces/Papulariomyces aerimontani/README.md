@@ -1,5 +1,4 @@
-Papulariomyces aerimontani Cif. & Tomas. SPECIES
-=======
+# Papulariomyces aerimontani Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

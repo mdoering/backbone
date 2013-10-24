@@ -1,5 +1,4 @@
-Peziza tenella Batsch SPECIES
-=======
+# Peziza tenella Batsch SPECIES
 
 #### Status
 ACCEPTED

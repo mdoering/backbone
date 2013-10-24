@@ -1,5 +1,4 @@
-Leptophyma bakeri Syd. SPECIES
-=======
+# Leptophyma bakeri Syd. SPECIES
 
 #### Status
 ACCEPTED

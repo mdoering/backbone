@@ -1,5 +1,4 @@
-Geoglossum pistillare Berk. & Cooke SPECIES
-=======
+# Geoglossum pistillare Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

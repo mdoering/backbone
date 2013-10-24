@@ -1,5 +1,4 @@
-Polyporus peroxydatus Berk. SPECIES
-=======
+# Polyporus peroxydatus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiosphaeridia indeterminata L.A. Sergeeva, 1979 SPECIES
-=======
+# Leiosphaeridia indeterminata L.A. Sergeeva, 1979 SPECIES
 
 #### Status
 ACCEPTED

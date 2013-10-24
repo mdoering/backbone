@@ -1,5 +1,4 @@
-Tenacibaculum litoreum Choi et al., 2006 SPECIES
-=======
+# Tenacibaculum litoreum Choi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

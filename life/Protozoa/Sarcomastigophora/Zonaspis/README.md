@@ -1,5 +1,4 @@
-Zonaspis Haeckel, 1887 GENUS
-=======
+# Zonaspis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

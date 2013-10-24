@@ -1,17 +1,16 @@
-Gymnopus alnicolus J.L. Mata & Halling SPECIES
-=======
+# Gymnopus alnicola J.L. Mata & Halling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mata, Halling & Petersen, Fungal Diversity 16: 115 (2004)
 
 #### Original name
-Gymnopus alnicolus J.L. Mata & Halling
+Gymnopus alnicola J.L. Mata & Halling
 
 ### Remarks
 null

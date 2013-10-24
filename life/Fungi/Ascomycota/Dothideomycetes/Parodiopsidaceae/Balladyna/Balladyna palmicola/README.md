@@ -1,5 +1,4 @@
-Balladyna palmicola Syd. & P. Syd. SPECIES
-=======
+# Balladyna palmicola Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

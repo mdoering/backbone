@@ -1,5 +1,4 @@
-Pucciniastrum tripetaleiae (Hirats. f.) Jørst. SPECIES
-=======
+# Pucciniastrum tripetaleiae (Hirats. f.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

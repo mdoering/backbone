@@ -1,5 +1,4 @@
-Opercularia medians Collin, 1909 SPECIES
-=======
+# Opercularia medians Collin, 1909 SPECIES
 
 #### Status
 ACCEPTED

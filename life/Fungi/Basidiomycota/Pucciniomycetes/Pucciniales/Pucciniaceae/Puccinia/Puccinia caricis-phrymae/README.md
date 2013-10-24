@@ -1,5 +1,4 @@
-Puccinia caricis-phrymae Sacc. & Trotter SPECIES
-=======
+# Puccinia caricis-phrymae Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

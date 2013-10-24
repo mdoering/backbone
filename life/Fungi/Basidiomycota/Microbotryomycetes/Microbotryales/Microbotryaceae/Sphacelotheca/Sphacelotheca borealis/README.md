@@ -1,5 +1,4 @@
-Sphacelotheca borealis var. borealis VARIETY
-=======
+# Sphacelotheca borealis (G.P. Clinton) Schellenb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphacelotheca borealis var. borealis
+Sphacelotheca hydropiperis var. borealis G.P. Clinton
 
 ### Remarks
 null

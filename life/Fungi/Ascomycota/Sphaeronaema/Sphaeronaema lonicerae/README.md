@@ -1,5 +1,4 @@
-Sphaeronaema lonicerae Fuckel SPECIES
-=======
+# Sphaeronaema lonicerae Fuckel SPECIES
 
 #### Status
 ACCEPTED

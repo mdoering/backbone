@@ -1,5 +1,4 @@
-Puccinia litseae-elongatae J.Y. Zhuang SPECIES
-=======
+# Puccinia litseae-elongatae J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

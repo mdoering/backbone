@@ -1,5 +1,4 @@
-Lecanora pyrithroma var. pyrithroma VARIETY
-=======
+# Lecanora pyrithroma SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora pyrithroma var. pyrithroma
+null
 
 ### Remarks
 null

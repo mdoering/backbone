@@ -1,5 +1,4 @@
-Sphaerobolus sparsus Schwein. SPECIES
-=======
+# Sphaerobolus sparsus Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria smardae Servít SPECIES
-=======
+# Verrucaria smardae Servít SPECIES
 
 #### Status
 ACCEPTED

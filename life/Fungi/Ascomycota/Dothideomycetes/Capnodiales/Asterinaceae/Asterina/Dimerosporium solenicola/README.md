@@ -1,5 +1,4 @@
-Dimerosporium solenicola (Berk. & M.A. Curtis) Speg. SPECIES
-=======
+# Dimerosporium solenicola (Berk. & M.A. Curtis) Speg. SPECIES
 
 #### Status
 ACCEPTED

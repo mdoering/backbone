@@ -1,5 +1,4 @@
-Leucocintractia M. Piepenbr., Begerow & Oberw. GENUS
-=======
+# Leucocintractia M. Piepenbr., Begerow & Oberw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isariopsis muehlenbeckiae R. Rao SPECIES
-=======
+# Isariopsis muehlenbeckiae R. Rao SPECIES
 
 #### Status
 ACCEPTED

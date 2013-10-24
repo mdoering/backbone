@@ -1,5 +1,4 @@
-Ophionectria belonospora (J. Schröt.) Sacc. SPECIES
-=======
+# Ophionectria belonospora (J. Schröt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

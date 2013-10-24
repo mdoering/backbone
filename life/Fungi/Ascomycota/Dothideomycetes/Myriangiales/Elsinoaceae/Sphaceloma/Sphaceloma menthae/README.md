@@ -1,5 +1,4 @@
-Sphaceloma menthae Jenkins, 1937 SPECIES
-=======
+# Sphaceloma menthae Jenkins, 1937 SPECIES
 
 #### Status
 ACCEPTED

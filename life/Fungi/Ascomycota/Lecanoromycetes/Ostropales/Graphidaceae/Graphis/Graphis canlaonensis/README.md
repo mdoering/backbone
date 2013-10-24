@@ -1,5 +1,4 @@
-Graphis canlaonensis Vain. SPECIES
-=======
+# Graphis canlaonensis Vain. SPECIES
 
 #### Status
 ACCEPTED

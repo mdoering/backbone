@@ -1,5 +1,4 @@
-Thiospira GENUS
-=======
+# Thiospira GENUS
 
 #### Status
 ACCEPTED

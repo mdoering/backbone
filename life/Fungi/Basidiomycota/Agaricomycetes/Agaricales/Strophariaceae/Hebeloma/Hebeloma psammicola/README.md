@@ -1,17 +1,16 @@
-Hebeloma psammicolum Bobus SPECIES
-=======
+# Hebeloma psammicola Bobus SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls hist. -nat. Mus. natn. hung. 70: 103 (1978)
 
 #### Original name
-Hebeloma psammicolum Bobus
+Hebeloma psammicola Bobus
 
 ### Remarks
 null

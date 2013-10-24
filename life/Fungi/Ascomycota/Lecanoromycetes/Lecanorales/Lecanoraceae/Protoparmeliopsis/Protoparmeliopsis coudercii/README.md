@@ -1,8 +1,7 @@
-Protoparmeliopsis couderci Choisy SPECIES
-=======
+# Protoparmeliopsis coudercii Choisy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Protoparmeliopsis couderci Choisy
+Protoparmeliopsis coudercii Choisy
 
 ### Remarks
 null

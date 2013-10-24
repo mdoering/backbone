@@ -1,5 +1,4 @@
-Marginulinopsis bacheii (Bailey) SPECIES
-=======
+# Marginulinopsis bacheii (Bailey) SPECIES
 
 #### Status
 ACCEPTED

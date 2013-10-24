@@ -1,5 +1,4 @@
-Russula maximispora J. Blum ex Bon SPECIES
-=======
+# Russula maximispora J. Blum ex Bon SPECIES
 
 #### Status
 ACCEPTED

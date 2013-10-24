@@ -1,5 +1,4 @@
-Linospora tigrina Fuckel SPECIES
-=======
+# Linospora tigrina Fuckel SPECIES
 
 #### Status
 ACCEPTED

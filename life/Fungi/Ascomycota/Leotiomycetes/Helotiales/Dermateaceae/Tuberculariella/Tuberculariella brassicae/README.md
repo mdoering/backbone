@@ -1,5 +1,4 @@
-Tuberculariella brassicae Naumov SPECIES
-=======
+# Tuberculariella brassicae Naumov SPECIES
 
 #### Status
 ACCEPTED

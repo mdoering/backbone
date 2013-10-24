@@ -1,5 +1,4 @@
-Caloplaca congrediens (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca congrediens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

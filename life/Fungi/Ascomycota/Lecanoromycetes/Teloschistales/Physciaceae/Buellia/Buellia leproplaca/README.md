@@ -1,5 +1,4 @@
-Buellia leproplaca Zahlbr. SPECIES
-=======
+# Buellia leproplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

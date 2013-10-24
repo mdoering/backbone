@@ -1,5 +1,4 @@
-Coprinopsis calospora (Bas & Uljé) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis calospora (Bas & Uljé) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

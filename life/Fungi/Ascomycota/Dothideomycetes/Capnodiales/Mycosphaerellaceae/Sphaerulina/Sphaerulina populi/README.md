@@ -1,5 +1,4 @@
-Sphaerulina populi Kobay. {?} & Chiba SPECIES
-=======
+# Sphaerulina populi Kobay. {?} & Chiba SPECIES
 
 #### Status
 ACCEPTED

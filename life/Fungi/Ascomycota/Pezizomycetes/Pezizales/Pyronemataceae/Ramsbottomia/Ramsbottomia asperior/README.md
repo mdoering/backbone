@@ -1,17 +1,16 @@
-Ciliaria asperior var. macracantha Le Gal VARIETY
-=======
+# Ramsbottomia asperior (Nyl.) Benkert & T. Schumach., 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Zool. Biol. Anim. , sér. 11 8: 140 (1947)
+Agarica 6(12): 35 (1985)
 
 #### Original name
-Ciliaria asperior var. macracantha Le Gal
+Peziza asperior Nyl., 1868
 
 ### Remarks
 null

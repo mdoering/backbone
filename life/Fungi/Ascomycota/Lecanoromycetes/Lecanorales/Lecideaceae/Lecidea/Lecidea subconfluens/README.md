@@ -1,5 +1,4 @@
-Lecidea subconfluens Th. Fr. SPECIES
-=======
+# Lecidea subconfluens Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

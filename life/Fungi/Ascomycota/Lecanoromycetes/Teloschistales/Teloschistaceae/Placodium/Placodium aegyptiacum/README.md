@@ -1,5 +1,4 @@
-Placodium aegyptiacum var. aegyptiacum VARIETY
-=======
+# Placodium aegyptiacum (Müll. Arg.) Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium aegyptiacum var. aegyptiacum
+null
 
 ### Remarks
 null

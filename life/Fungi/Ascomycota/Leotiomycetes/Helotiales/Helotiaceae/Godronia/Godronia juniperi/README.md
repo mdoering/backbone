@@ -1,5 +1,4 @@
-Godronia juniperi Rostr. SPECIES
-=======
+# Godronia juniperi Rostr. SPECIES
 
 #### Status
 ACCEPTED

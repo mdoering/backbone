@@ -1,5 +1,4 @@
-Microthyrium anthuriifolii Bat. & Nascim. SPECIES
-=======
+# Microthyrium anthuriifolii Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor funebris Speg. SPECIES
-=======
+# Mucor funebris Speg. SPECIES
 
 #### Status
 ACCEPTED

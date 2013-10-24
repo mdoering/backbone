@@ -1,5 +1,4 @@
-Chytridium plumulae E. Cohn SPECIES
-=======
+# Chytridium plumulae E. Cohn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea vellea (L.) Spreng. SPECIES
-=======
+# Lecidea vellea (L.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe linearilamellata Herp. SPECIES
-=======
+# Clitocybe linearilamellata Herp. SPECIES
 
 #### Status
 ACCEPTED

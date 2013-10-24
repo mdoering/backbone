@@ -1,5 +1,4 @@
-Arthonia brussei Egea & Torrente SPECIES
-=======
+# Arthonia brussei Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

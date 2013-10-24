@@ -1,5 +1,4 @@
-Meliola thollonis Gaillard SPECIES
-=======
+# Meliola thollonis Gaillard SPECIES
 
 #### Status
 ACCEPTED

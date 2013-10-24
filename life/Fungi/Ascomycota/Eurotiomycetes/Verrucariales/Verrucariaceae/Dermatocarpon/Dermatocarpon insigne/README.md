@@ -1,5 +1,4 @@
-Dermatocarpon insigne Zahlbr. SPECIES
-=======
+# Dermatocarpon insigne Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

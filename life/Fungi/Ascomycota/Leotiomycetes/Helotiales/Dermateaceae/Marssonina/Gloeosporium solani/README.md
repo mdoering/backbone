@@ -1,5 +1,4 @@
-Gloeosporium solani Osterw., 1907 SPECIES
-=======
+# Gloeosporium solani Osterw., 1907 SPECIES
 
 #### Status
 ACCEPTED

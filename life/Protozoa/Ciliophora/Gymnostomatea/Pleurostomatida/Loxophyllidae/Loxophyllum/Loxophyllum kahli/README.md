@@ -1,5 +1,4 @@
-Loxophyllum kahli Dragesco, 1960 SPECIES
-=======
+# Loxophyllum kahli Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

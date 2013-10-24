@@ -1,5 +1,4 @@
-Uredo coleanthi Har. SPECIES
-=======
+# Uredo coleanthi Har. SPECIES
 
 #### Status
 ACCEPTED

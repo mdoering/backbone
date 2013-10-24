@@ -1,5 +1,4 @@
-Phialina lacrimiformis Hosoya SPECIES
-=======
+# Phialina lacrimiformis Hosoya SPECIES
 
 #### Status
 ACCEPTED

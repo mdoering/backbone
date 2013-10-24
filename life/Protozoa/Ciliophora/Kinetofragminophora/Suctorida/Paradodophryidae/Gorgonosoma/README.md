@@ -1,5 +1,4 @@
-Gorgonosoma Swarczewsky, 1928 GENUS
-=======
+# Gorgonosoma Swarczewsky, 1928 GENUS
 
 #### Status
 ACCEPTED

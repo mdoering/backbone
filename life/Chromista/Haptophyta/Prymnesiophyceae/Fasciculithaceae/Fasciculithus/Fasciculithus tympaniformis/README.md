@@ -1,5 +1,4 @@
-Fasciculithus tympaniformis Hay & Mohler in Hay et al., 1967 SPECIES
-=======
+# Fasciculithus tympaniformis Hay & Mohler in Hay et al., 1967 SPECIES
 
 #### Status
 ACCEPTED

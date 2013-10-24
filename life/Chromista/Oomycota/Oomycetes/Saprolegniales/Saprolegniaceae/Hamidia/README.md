@@ -1,5 +1,4 @@
-Hamidia Chaudhuri GENUS
-=======
+# Hamidia Chaudhuri GENUS
 
 #### Status
 ACCEPTED

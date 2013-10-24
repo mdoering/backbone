@@ -1,5 +1,4 @@
-Echidnodella cedralensis Toro SPECIES
-=======
+# Echidnodella cedralensis Toro SPECIES
 
 #### Status
 ACCEPTED

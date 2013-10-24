@@ -1,5 +1,4 @@
-Ramalina clementeana Llimona & Werner SPECIES
-=======
+# Ramalina clementeana Llimona & Werner SPECIES
 
 #### Status
 ACCEPTED

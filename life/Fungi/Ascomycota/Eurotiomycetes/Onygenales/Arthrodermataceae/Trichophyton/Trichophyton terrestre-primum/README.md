@@ -1,5 +1,4 @@
-Trichophyton terrestre-primum Szathmáry SPECIES
-=======
+# Trichophyton terrestre-primum Szathmáry SPECIES
 
 #### Status
 ACCEPTED

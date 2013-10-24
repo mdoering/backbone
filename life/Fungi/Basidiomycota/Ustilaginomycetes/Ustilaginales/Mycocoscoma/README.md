@@ -1,5 +1,4 @@
-Mycocoscoma Bref. GENUS
-=======
+# Mycocoscoma Bref. GENUS
 
 #### Status
 ACCEPTED

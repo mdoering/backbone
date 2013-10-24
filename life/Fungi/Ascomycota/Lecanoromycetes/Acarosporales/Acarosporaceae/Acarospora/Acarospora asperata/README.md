@@ -1,5 +1,4 @@
-Acarospora asperata H. Magn. SPECIES
-=======
+# Acarospora asperata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

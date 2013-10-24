@@ -1,5 +1,4 @@
-Stenella pseudoparkii Crous & M.J. Wingf. SPECIES
-=======
+# Stenella pseudoparkii Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

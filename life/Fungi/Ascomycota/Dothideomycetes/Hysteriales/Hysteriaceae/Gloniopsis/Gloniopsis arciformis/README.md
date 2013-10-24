@@ -1,5 +1,4 @@
-Gloniopsis arciformis E. Boehm, Mugambi, Huhndorf & C.L. Schoch, 2009 SPECIES
-=======
+# Gloniopsis arciformis E. Boehm, Mugambi, Huhndorf & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

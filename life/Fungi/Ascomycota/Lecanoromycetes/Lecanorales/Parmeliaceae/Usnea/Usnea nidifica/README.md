@@ -1,17 +1,16 @@
-Usnea straminea var. straminea Müll. Arg. VARIETY
-=======
+# Usnea nidifica Taylor SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Usnea 2: 466
+London J. Bot. 6: 191 (1847)
 
 #### Original name
-Usnea straminea var. straminea Müll. Arg.
+Usnea nidifica Taylor
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Molliardiomyces Paden GENUS
-=======
+# Molliardiomyces Paden GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe vulpinus Velen. SPECIES
-=======
+# Hygrocybe vulpinus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida ghanaensis Kurtzman, 2001 SPECIES
-=======
+# Candida ghanaensis Kurtzman, 2001 SPECIES
 
 #### Status
 ACCEPTED

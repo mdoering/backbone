@@ -1,5 +1,4 @@
-Craterellus verrucosus Massee, 1906 SPECIES
-=======
+# Craterellus verrucosus Massee, 1906 SPECIES
 
 #### Status
 ACCEPTED

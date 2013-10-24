@@ -1,5 +1,4 @@
-Cryptanaerobacter Juteau, Cote, Duckett Beaudet, Lepine, Villemur & Bisaillon, 2005 GENUS
-=======
+# Cryptanaerobacter Juteau, Cote, Duckett Beaudet, Lepine, Villemur & Bisaillon, 2005 GENUS
 
 #### Status
 ACCEPTED

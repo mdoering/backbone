@@ -1,5 +1,4 @@
-Lachnella subflammea Rehm SPECIES
-=======
+# Lachnella subflammea Rehm SPECIES
 
 #### Status
 ACCEPTED

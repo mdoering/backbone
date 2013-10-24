@@ -1,5 +1,4 @@
-Coniothyrium tumefaciens Güssow SPECIES
-=======
+# Coniothyrium tumefaciens Güssow SPECIES
 
 #### Status
 ACCEPTED

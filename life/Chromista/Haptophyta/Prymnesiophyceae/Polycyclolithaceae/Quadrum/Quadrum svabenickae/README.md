@@ -1,5 +1,4 @@
-Quadrum svabenickae SPECIES
-=======
+# Quadrum svabenickae SPECIES
 
 #### Status
 ACCEPTED

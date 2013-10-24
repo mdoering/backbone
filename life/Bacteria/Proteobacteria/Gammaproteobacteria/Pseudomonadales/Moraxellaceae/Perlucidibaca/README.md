@@ -1,5 +1,4 @@
-Perlucidibaca Song et al., 2008 GENUS
-=======
+# Perlucidibaca Song et al., 2008 GENUS
 
 #### Status
 ACCEPTED

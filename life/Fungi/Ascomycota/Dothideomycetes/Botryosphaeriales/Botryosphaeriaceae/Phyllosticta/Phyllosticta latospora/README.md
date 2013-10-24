@@ -1,5 +1,4 @@
-Phyllosticta latospora Verwoerd & du Plessis SPECIES
-=======
+# Phyllosticta latospora Verwoerd & du Plessis SPECIES
 
 #### Status
 ACCEPTED

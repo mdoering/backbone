@@ -1,5 +1,4 @@
-Oidium bignoniae Jacz. SPECIES
-=======
+# Oidium bignoniae Jacz. SPECIES
 
 #### Status
 ACCEPTED

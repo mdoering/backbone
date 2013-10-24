@@ -1,5 +1,4 @@
-Leptosphaeria polytrichina Racov. SPECIES
-=======
+# Leptosphaeria polytrichina Racov. SPECIES
 
 #### Status
 ACCEPTED

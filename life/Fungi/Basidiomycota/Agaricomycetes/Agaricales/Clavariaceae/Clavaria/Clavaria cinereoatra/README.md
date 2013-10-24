@@ -1,5 +1,4 @@
-Clavaria cinereoatra Rick SPECIES
-=======
+# Clavaria cinereoatra Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rigidoporopsis macrospora G.Y. Zheng & Z.S. Bi, 1987 SPECIES
-=======
+# Rigidoporopsis macrospora G.Y. Zheng & Z.S. Bi, 1987 SPECIES
 
 #### Status
 ACCEPTED

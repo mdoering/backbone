@@ -1,5 +1,4 @@
-Calocera candida Lloyd ex J.A. Stev. & E.K. Cash SPECIES
-=======
+# Calocera candida Lloyd ex J.A. Stev. & E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

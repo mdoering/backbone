@@ -1,5 +1,4 @@
-Sporoglena Sacc. GENUS
-=======
+# Sporoglena Sacc. GENUS
 
 #### Status
 ACCEPTED

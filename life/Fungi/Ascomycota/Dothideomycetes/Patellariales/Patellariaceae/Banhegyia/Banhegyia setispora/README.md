@@ -1,17 +1,16 @@
-Celidium uralensis (Naumoff) Kohlm. SPECIES
-=======
+# Banhegyia setispora L. Zeller & Tóth, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 14: 327 (1960)
 
 #### Original name
-null
+Banhegyia setispora L. Zeller & Tóth, 1960
 
 ### Remarks
 null

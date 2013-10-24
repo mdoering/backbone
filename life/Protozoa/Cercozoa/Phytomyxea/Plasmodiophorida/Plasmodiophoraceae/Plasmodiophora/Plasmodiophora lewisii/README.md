@@ -1,5 +1,4 @@
-Plasmodiophora lewisii P.M. Jones SPECIES
-=======
+# Plasmodiophora lewisii P.M. Jones SPECIES
 
 #### Status
 ACCEPTED

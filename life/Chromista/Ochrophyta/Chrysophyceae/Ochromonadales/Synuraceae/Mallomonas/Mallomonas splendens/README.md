@@ -1,5 +1,4 @@
-Mallomonas splendens var. biceps W. Conrad VARIETY
-=======
+# Mallomonas splendens (G.S. West) Playfair SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciferriomyces espeletiae E. Müll. SPECIES
-=======
+# Ciferriomyces espeletiae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

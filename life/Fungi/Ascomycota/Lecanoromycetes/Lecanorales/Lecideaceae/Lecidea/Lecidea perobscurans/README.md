@@ -1,5 +1,4 @@
-Lecidea perobscurans Nyl. SPECIES
-=======
+# Lecidea perobscurans Nyl. SPECIES
 
 #### Status
 ACCEPTED

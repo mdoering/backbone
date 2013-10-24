@@ -1,5 +1,4 @@
-Umbilicaria subpolyphylla Oxner SPECIES
-=======
+# Umbilicaria subpolyphylla Oxner SPECIES
 
 #### Status
 ACCEPTED

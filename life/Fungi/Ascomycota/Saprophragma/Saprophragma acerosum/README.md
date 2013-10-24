@@ -1,17 +1,16 @@
-Saprophragma acerosiae K.B. Deshp. & K.S. Deshp. SPECIES
-=======
+# Saprophragma acerosum K.B. Deshp. & K.S. Deshp., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 30: 201 (1966)
 
 #### Original name
-Saprophragma acerosiae K.B. Deshp. & K.S. Deshp.
+Saprophragma acerosum K.B. Deshp. & K.S. Deshp., 1966
 
 ### Remarks
 null

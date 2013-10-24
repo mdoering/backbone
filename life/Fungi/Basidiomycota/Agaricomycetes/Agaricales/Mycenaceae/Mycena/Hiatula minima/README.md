@@ -1,5 +1,4 @@
-Hiatula minima Berk. SPECIES
-=======
+# Hiatula minima Berk. SPECIES
 
 #### Status
 ACCEPTED

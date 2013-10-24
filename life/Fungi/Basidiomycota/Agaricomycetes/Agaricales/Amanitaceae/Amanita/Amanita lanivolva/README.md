@@ -1,5 +1,4 @@
-Amanita lanivolva Bas SPECIES
-=======
+# Amanita lanivolva Bas SPECIES
 
 #### Status
 ACCEPTED

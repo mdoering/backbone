@@ -1,5 +1,4 @@
-Dumortieria siliquastri Westend. SPECIES
-=======
+# Dumortieria siliquastri Westend. SPECIES
 
 #### Status
 ACCEPTED

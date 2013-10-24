@@ -1,5 +1,4 @@
-Korfiomyces gelatinosum Iturr. & D. Hawksw. SPECIES
-=======
+# Korfiomyces gelatinosum Iturr. & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

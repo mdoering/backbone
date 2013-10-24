@@ -1,5 +1,4 @@
-Lachnum privum Z.H. Yu & W.Y. Zhuang SPECIES
-=======
+# Lachnum privum Z.H. Yu & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

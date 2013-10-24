@@ -1,5 +1,4 @@
-Dicaeoma dentariae (Alb. & Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma dentariae (Alb. & Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

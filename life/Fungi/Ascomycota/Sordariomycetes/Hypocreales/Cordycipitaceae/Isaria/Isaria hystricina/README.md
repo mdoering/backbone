@@ -1,5 +1,4 @@
-Isaria hystricina P. Karst. SPECIES
-=======
+# Isaria hystricina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

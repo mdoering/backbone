@@ -1,5 +1,4 @@
-Oospora candida Wallr. SPECIES
-=======
+# Oospora candida Wallr. SPECIES
 
 #### Status
 ACCEPTED

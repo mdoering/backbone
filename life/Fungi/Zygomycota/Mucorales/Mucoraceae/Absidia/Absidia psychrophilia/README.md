@@ -1,5 +1,4 @@
-Absidia psychrophilia Hesselt. & J.J. Ellis, 1964 SPECIES
-=======
+# Absidia psychrophilia Hesselt. & J.J. Ellis, 1964 SPECIES
 
 #### Status
 ACCEPTED

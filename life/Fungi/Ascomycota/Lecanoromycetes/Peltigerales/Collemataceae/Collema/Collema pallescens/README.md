@@ -1,5 +1,4 @@
-Collema pallescens Eaton SPECIES
-=======
+# Collema pallescens Eaton SPECIES
 
 #### Status
 ACCEPTED

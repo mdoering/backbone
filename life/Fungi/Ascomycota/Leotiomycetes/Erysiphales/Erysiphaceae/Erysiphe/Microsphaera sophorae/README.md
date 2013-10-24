@@ -1,5 +1,4 @@
-Microsphaera sophorae Gandara SPECIES
-=======
+# Microsphaera sophorae Gandara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium anhuiense Y.R. Lin, 1988 SPECIES
-=======
+# Lophodermium anhuiense Y.R. Lin, 1988 SPECIES
 
 #### Status
 ACCEPTED

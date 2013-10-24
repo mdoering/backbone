@@ -1,17 +1,16 @@
-Peronospora kellermani Ellis & Halst. SPECIES
-=======
+# Benua kellermanii (Ellis & Halst. ex Swingle) Constant., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 66(1-2): 259 (1998)
 
 #### Original name
-Peronospora kellermani Ellis & Halst.
+Plasmopara kellermanii Ellis & Halst. ex Swingle, 1889
 
 ### Remarks
 null

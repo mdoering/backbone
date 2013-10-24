@@ -1,5 +1,4 @@
-Microdiplodia betulina Henn. SPECIES
-=======
+# Microdiplodia betulina Henn. SPECIES
 
 #### Status
 ACCEPTED

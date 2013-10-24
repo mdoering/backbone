@@ -1,5 +1,4 @@
-Hypomyces pezizae Tul. SPECIES
-=======
+# Hypomyces pezizae Tul. SPECIES
 
 #### Status
 ACCEPTED

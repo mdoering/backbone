@@ -1,5 +1,4 @@
-Astrosporina fasciata (Cooke & Massee) Rea SPECIES
-=======
+# Astrosporina fasciata (Cooke & Massee) Rea SPECIES
 
 #### Status
 ACCEPTED

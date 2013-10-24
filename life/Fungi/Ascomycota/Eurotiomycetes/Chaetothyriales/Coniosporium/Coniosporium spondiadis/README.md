@@ -1,5 +1,4 @@
-Coniosporium spondiadis Keissl. SPECIES
-=======
+# Coniosporium spondiadis Keissl. SPECIES
 
 #### Status
 ACCEPTED

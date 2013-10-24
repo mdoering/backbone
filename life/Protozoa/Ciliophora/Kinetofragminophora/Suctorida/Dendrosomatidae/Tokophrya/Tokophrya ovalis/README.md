@@ -1,5 +1,4 @@
-Tokophrya ovalis SPECIES
-=======
+# Tokophrya ovalis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orphanomyces hungaricus Vánky & M. Gönczöl, 1978 SPECIES
-=======
+# Orphanomyces hungaricus Vánky & M. Gönczöl, 1978 SPECIES
 
 #### Status
 ACCEPTED

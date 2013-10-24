@@ -1,8 +1,7 @@
-Kentrophoros ponticum Kovaleva, 1966 SPECIES
-=======
+# Kentrophoros ponticus Kovaleva, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

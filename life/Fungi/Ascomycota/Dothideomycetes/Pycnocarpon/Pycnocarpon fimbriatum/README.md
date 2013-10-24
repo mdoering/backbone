@@ -1,5 +1,4 @@
-Pycnocarpon fimbriatum Syd. & P. Syd. SPECIES
-=======
+# Pycnocarpon fimbriatum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

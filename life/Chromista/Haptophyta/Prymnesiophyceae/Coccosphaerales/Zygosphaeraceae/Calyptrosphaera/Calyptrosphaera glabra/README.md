@@ -1,5 +1,4 @@
-Calyptrosphaera glabra P. González SPECIES
-=======
+# Calyptrosphaera glabra P. González SPECIES
 
 #### Status
 ACCEPTED

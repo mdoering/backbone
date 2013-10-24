@@ -1,5 +1,4 @@
-Euglyphinopsis Valkanov, 1970 GENUS
-=======
+# Euglyphinopsis Valkanov, 1970 GENUS
 
 #### Status
 ACCEPTED

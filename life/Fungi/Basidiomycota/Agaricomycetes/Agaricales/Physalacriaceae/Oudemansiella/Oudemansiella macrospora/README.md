@@ -1,5 +1,4 @@
-Oudemansiella macrospora (G. Stev.) E. Horak SPECIES
-=======
+# Oudemansiella macrospora (G. Stev.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

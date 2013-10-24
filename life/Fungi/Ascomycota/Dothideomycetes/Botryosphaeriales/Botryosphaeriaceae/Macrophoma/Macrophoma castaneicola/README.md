@@ -1,5 +1,4 @@
-Macrophoma castaneicola Ts. Kobay. & C. Oishi SPECIES
-=======
+# Macrophoma castaneicola Ts. Kobay. & C. Oishi SPECIES
 
 #### Status
 ACCEPTED

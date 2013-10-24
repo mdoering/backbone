@@ -1,5 +1,4 @@
-Boletus atrorufus Pers. SPECIES
-=======
+# Boletus atrorufus Pers. SPECIES
 
 #### Status
 ACCEPTED

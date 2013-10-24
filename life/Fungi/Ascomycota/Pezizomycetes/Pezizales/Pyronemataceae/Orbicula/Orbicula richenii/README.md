@@ -1,5 +1,4 @@
-Orbicula richenii Rick SPECIES
-=======
+# Orbicula richenii Rick SPECIES
 
 #### Status
 ACCEPTED

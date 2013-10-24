@@ -1,5 +1,4 @@
-Macrophoma corylina (Thüm.) Berl. & Voglino SPECIES
-=======
+# Macrophoma corylina (Thüm.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

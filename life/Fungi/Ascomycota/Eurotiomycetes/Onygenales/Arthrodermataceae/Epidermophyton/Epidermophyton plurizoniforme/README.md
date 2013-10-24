@@ -1,5 +1,4 @@
-Epidermophyton plurizoniforme MacCarthy SPECIES
-=======
+# Epidermophyton plurizoniforme MacCarthy SPECIES
 
 #### Status
 ACCEPTED

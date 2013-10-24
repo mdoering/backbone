@@ -1,5 +1,4 @@
-Urceolaria crateriformis (Müller, 1773) Bory SPECIES
-=======
+# Urceolaria crateriformis (Müller, 1773) Bory SPECIES
 
 #### Status
 ACCEPTED

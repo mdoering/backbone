@@ -1,5 +1,4 @@
-Leucoagaricus bisporus Heinem. SPECIES
-=======
+# Leucoagaricus bisporus Heinem. SPECIES
 
 #### Status
 ACCEPTED

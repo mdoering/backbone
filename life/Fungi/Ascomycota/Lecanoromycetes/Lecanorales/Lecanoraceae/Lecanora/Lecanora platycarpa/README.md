@@ -1,5 +1,4 @@
-Lecanora platycarpa var. platycarpa VARIETY
-=======
+# Lecanora platycarpa (Hue) Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora platycarpa var. platycarpa
+Aspicilia platycarpa Hue
 
 ### Remarks
 null

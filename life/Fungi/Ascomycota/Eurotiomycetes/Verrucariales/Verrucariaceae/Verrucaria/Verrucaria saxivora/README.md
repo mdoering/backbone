@@ -1,5 +1,4 @@
-Verrucaria saxivora Servít SPECIES
-=======
+# Verrucaria saxivora Servít SPECIES
 
 #### Status
 ACCEPTED

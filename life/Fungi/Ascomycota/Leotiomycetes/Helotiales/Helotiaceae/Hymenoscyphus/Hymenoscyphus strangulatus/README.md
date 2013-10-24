@@ -1,5 +1,4 @@
-Hymenoscyphus strangulatus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus strangulatus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

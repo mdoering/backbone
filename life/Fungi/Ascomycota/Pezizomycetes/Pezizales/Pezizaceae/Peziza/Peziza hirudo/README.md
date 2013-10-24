@@ -1,5 +1,4 @@
-Peziza hirudo Batsch SPECIES
-=======
+# Peziza hirudo Batsch SPECIES
 
 #### Status
 ACCEPTED

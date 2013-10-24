@@ -1,5 +1,4 @@
-Achroomyces sphaerosporus (G.W. Martin) Wojewoda SPECIES
-=======
+# Achroomyces sphaerosporus (G.W. Martin) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

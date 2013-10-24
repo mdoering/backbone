@@ -1,5 +1,4 @@
-Ophiobolus brachysporus Fautrey & Roum. SPECIES
-=======
+# Ophiobolus brachysporus Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

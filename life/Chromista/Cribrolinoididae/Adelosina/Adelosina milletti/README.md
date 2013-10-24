@@ -1,5 +1,4 @@
-Adelosina milletti var. carinata Wiesner, 1923 VARIETY
-=======
+# Adelosina milletti Wiesner, 1923 SPECIES
 
 #### Status
 ACCEPTED

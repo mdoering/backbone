@@ -1,5 +1,4 @@
-Fusarium equinum Növgaard SPECIES
-=======
+# Fusarium equinum Növgaard SPECIES
 
 #### Status
 ACCEPTED

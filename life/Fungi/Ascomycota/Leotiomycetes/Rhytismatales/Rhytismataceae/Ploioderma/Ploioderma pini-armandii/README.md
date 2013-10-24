@@ -1,17 +1,16 @@
-Ploioderma pini-armandi C.L. Hou & S.Q. Liu SPECIES
-=======
+# Ploioderma pini-armandii C.L. Hou & S.Q. Liu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 12(2): 99 (1993)
 
 #### Original name
-Ploioderma pini-armandi C.L. Hou & S.Q. Liu
+Ploioderma pini-armandii C.L. Hou & S.Q. Liu
 
 ### Remarks
 null

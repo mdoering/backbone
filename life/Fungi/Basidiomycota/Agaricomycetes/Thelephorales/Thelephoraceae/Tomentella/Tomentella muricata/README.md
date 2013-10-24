@@ -1,5 +1,4 @@
-Tomentella muricata (Ellis & Everh.) Wakef., 1962 SPECIES
-=======
+# Tomentella muricata (Ellis & Everh.) Wakef., 1962 SPECIES
 
 #### Status
 ACCEPTED

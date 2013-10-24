@@ -1,5 +1,4 @@
-Stigmatomyces platensis Speg. SPECIES
-=======
+# Stigmatomyces platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

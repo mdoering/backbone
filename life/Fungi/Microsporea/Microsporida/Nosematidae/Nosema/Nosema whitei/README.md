@@ -1,5 +1,4 @@
-Nosema whitei SPECIES
-=======
+# Nosema whitei SPECIES
 
 #### Status
 ACCEPTED

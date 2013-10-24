@@ -1,5 +1,4 @@
-Porina elaeoides Vain. SPECIES
-=======
+# Porina elaeoides Vain. SPECIES
 
 #### Status
 ACCEPTED

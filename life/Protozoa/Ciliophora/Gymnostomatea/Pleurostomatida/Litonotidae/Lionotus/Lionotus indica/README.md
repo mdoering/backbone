@@ -1,5 +1,4 @@
-Lionotus indica Gulati, 1926 SPECIES
-=======
+# Lionotus indica Gulati, 1926 SPECIES
 
 #### Status
 ACCEPTED

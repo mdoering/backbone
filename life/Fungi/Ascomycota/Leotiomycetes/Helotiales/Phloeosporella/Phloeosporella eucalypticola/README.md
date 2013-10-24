@@ -1,5 +1,4 @@
-Phloeosporella eucalypticola H.Y. Yip SPECIES
-=======
+# Phloeosporella eucalypticola H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verseyella GENUS
-=======
+# Verseyella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Darluca genistalis var. genistalis VARIETY
-=======
+# Darluca genistalis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Darluca genistalis var. genistalis
+null
 
 ### Remarks
 null

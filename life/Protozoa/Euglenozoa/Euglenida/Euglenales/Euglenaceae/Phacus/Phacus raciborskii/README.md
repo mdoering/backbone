@@ -1,5 +1,4 @@
-Phacus raciborskii var. longus V. Conforti VARIETY
-=======
+# Phacus raciborskii Drezepolski SPECIES
 
 #### Status
 ACCEPTED

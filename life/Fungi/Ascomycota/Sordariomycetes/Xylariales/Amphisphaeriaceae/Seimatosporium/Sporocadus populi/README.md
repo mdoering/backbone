@@ -1,5 +1,4 @@
-Sporocadus populi Corda SPECIES
-=======
+# Sporocadus populi Corda SPECIES
 
 #### Status
 ACCEPTED

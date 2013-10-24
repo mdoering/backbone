@@ -1,5 +1,4 @@
-Torulaspora mandshurica (H. Nagan.) Van der Walt & Johannsen SPECIES
-=======
+# Torulaspora mandshurica (H. Nagan.) Van der Walt & Johannsen SPECIES
 
 #### Status
 ACCEPTED

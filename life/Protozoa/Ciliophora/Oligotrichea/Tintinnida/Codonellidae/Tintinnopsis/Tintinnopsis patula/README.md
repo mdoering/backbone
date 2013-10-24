@@ -1,5 +1,4 @@
-Tintinnopsis patula Meunier, 1907 SPECIES
-=======
+# Tintinnopsis patula Meunier, 1907 SPECIES
 
 #### Status
 ACCEPTED

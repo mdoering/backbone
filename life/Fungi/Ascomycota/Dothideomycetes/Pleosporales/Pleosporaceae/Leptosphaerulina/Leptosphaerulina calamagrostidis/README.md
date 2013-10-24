@@ -1,8 +1,7 @@
-Leptosphaerulina calamagrostis Pisareva SPECIES
-=======
+# Leptosphaerulina calamagrostidis Pisareva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaerulina calamagrostis Pisareva
+Leptosphaerulina calamagrostidis Pisareva
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Geastrumia polystigmae Bat. & M.L. Farr SPECIES
-=======
+# Geastrumia polystigmatis Bat. & M.L. Farr, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Batista, Farr, Bezerra, Saccardoa 1: 71 (1960)
 
 #### Original name
-Geastrumia polystigmae Bat. & M.L. Farr
+Geastrumia polystigmatis Bat. & M.L. Farr, 1960
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Collybia inusitata Vila & Llimona SPECIES
-=======
+# Collybia inusitata Vila & Llimona SPECIES
 
 #### Status
 ACCEPTED

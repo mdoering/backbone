@@ -1,5 +1,4 @@
-Agaricus cladophyllus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus cladophyllus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

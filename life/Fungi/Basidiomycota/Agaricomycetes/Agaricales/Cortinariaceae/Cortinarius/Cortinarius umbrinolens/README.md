@@ -1,5 +1,4 @@
-Cortinarius umbrinolens P.D. Orton, 1980 SPECIES
-=======
+# Cortinarius umbrinolens P.D. Orton, 1980 SPECIES
 
 #### Status
 ACCEPTED

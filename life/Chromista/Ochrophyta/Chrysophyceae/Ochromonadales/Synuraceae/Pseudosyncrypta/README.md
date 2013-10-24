@@ -1,5 +1,4 @@
-Pseudosyncrypta Kisselev, 1931 GENUS
-=======
+# Pseudosyncrypta Kisselev, 1931 GENUS
 
 #### Status
 ACCEPTED

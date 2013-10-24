@@ -1,5 +1,4 @@
-Puccinia oncidii Cummins SPECIES
-=======
+# Puccinia oncidii Cummins SPECIES
 
 #### Status
 ACCEPTED

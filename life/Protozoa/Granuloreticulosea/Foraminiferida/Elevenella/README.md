@@ -1,5 +1,4 @@
-Elevenella Vachard, 1994 GENUS
-=======
+# Elevenella Vachard, 1994 GENUS
 
 #### Status
 ACCEPTED

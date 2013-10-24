@@ -1,5 +1,4 @@
-Scindalma spongiosum (Pers.) Kuntze SPECIES
-=======
+# Scindalma spongiosum (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia acuminans R.C. Harris SPECIES
-=======
+# Cladonia acuminans R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

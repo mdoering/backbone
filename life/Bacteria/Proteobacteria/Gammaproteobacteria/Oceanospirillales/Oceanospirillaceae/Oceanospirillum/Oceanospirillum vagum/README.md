@@ -1,8 +1,7 @@
-Marinomonas vaga (Baumann et al., 1972) van Landschoot & De Ley, 1984 SPECIES
-=======
+# Oceanospirillum vagum (Baumann et al., 1972) Bowditch et al., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

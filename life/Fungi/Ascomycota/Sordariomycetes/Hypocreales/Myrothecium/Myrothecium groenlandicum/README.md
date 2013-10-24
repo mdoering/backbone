@@ -1,5 +1,4 @@
-Myrothecium groenlandicum M. Bohn SPECIES
-=======
+# Myrothecium groenlandicum M. Bohn SPECIES
 
 #### Status
 ACCEPTED

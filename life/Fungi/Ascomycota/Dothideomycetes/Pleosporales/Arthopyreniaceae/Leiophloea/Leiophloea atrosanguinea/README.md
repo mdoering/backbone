@@ -1,5 +1,4 @@
-Leiophloea atrosanguinea (A. Massal.) Trevis. SPECIES
-=======
+# Leiophloea atrosanguinea (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

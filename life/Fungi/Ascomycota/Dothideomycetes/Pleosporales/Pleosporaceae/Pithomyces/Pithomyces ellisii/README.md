@@ -1,5 +1,4 @@
-Pithomyces ellisii V.G. Rao & Chary SPECIES
-=======
+# Pithomyces ellisii V.G. Rao & Chary SPECIES
 
 #### Status
 ACCEPTED

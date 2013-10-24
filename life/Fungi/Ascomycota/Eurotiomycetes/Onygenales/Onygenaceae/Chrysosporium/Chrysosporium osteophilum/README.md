@@ -1,5 +1,4 @@
-Chrysosporium osteophilum (Bonord.) Dominik SPECIES
-=======
+# Chrysosporium osteophilum (Bonord.) Dominik SPECIES
 
 #### Status
 ACCEPTED

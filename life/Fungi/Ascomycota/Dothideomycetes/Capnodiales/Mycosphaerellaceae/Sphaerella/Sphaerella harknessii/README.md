@@ -1,5 +1,4 @@
-Sphaerella harknessii Sacc. SPECIES
-=======
+# Sphaerella harknessii Sacc. SPECIES
 
 #### Status
 ACCEPTED

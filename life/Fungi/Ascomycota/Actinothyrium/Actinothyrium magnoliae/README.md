@@ -1,5 +1,4 @@
-Actinothyrium magnoliae Schwein. SPECIES
-=======
+# Actinothyrium magnoliae Schwein. SPECIES
 
 #### Status
 ACCEPTED

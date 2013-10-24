@@ -1,5 +1,4 @@
-Ophiostoma parvum (Olchow. & J. Reid) Georg Hausner, J. Reid & Klassen SPECIES
-=======
+# Ophiostoma parvum (Olchow. & J. Reid) Georg Hausner, J. Reid & Klassen SPECIES
 
 #### Status
 ACCEPTED

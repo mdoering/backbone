@@ -1,5 +1,4 @@
-Austroboletus mutabilis Halling, Osmundson & M.A. Neves SPECIES
-=======
+# Austroboletus mutabilis Halling, Osmundson & M.A. Neves SPECIES
 
 #### Status
 ACCEPTED

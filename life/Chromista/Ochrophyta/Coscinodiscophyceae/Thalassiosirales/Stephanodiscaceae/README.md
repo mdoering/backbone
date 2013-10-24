@@ -1,5 +1,4 @@
-Stephanodiscaceae Glezer & Makarova FAMILY
-=======
+# Stephanodiscaceae Glezer & Makarova FAMILY
 
 #### Status
 ACCEPTED

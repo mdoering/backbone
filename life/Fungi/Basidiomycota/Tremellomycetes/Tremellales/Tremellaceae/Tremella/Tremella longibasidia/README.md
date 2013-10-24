@@ -1,5 +1,4 @@
-Tremella longibasidia Y.B. Peng SPECIES
-=======
+# Tremella longibasidia Y.B. Peng SPECIES
 
 #### Status
 ACCEPTED

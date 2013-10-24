@@ -1,14 +1,13 @@
-Physoderma punctiformis (Speg.) Karling SPECIES
-=======
+# Physoderma punctiforme (Speg.) Karling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 13(1): 56 (1950)
 
 #### Original name
 Urophlyctis punctiformis Speg.

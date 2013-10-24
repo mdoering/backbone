@@ -1,5 +1,4 @@
-Lembosia copromya E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Lembosia copromya E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

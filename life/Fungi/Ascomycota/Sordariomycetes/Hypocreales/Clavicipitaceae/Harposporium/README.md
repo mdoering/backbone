@@ -1,5 +1,4 @@
-Harposporium Lohde, 1874 GENUS
-=======
+# Harposporium Lohde, 1874 GENUS
 
 #### Status
 ACCEPTED

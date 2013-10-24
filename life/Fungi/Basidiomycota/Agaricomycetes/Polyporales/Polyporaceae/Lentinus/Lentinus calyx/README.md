@@ -1,5 +1,4 @@
-Lentinus calyx (Speg.) Pegler SPECIES
-=======
+# Lentinus calyx (Speg.) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula minuta Nägeli SPECIES
-=======
+# Pyrenula minuta Nägeli SPECIES
 
 #### Status
 ACCEPTED

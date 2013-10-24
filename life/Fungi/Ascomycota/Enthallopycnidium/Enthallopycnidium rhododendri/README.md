@@ -1,5 +1,4 @@
-Enthallopycnidium rhododendri Bat., Nascim. & Cif. SPECIES
-=======
+# Enthallopycnidium rhododendri Bat., Nascim. & Cif. SPECIES
 
 #### Status
 ACCEPTED

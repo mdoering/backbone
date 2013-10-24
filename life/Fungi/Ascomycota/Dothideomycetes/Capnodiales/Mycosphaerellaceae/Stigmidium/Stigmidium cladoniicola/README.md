@@ -1,5 +1,4 @@
-Stigmidium cladoniicola Zhurb. & Diederich, 2008 SPECIES
-=======
+# Stigmidium cladoniicola Zhurb. & Diederich, 2008 SPECIES
 
 #### Status
 ACCEPTED

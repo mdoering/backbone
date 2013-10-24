@@ -1,5 +1,4 @@
-Hollosia GENUS
-=======
+# Hollosia GENUS
 
 #### Status
 ACCEPTED

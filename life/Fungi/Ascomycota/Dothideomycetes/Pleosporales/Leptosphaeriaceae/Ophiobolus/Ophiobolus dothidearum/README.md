@@ -1,5 +1,4 @@
-Ophiobolus dothidearum Petr. SPECIES
-=======
+# Ophiobolus dothidearum Petr. SPECIES
 
 #### Status
 ACCEPTED

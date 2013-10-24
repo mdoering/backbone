@@ -1,5 +1,4 @@
-Cordyceps yakusimensis Kobayasi SPECIES
-=======
+# Cordyceps yakusimensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

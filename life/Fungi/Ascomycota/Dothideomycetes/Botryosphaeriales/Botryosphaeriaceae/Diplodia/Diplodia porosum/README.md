@@ -1,5 +1,4 @@
-Diplodia porosum Van Niekerk & Crous SPECIES
-=======
+# Diplodia porosum Van Niekerk & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssotheciella tiliae Petr., 1923 SPECIES
-=======
+# Byssotheciella tiliae Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

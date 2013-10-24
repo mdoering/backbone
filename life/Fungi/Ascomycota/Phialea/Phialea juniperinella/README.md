@@ -1,5 +1,4 @@
-Phialea juniperinella (P. Karst.) Sacc. SPECIES
-=======
+# Phialea juniperinella (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

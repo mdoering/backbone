@@ -1,5 +1,4 @@
-Leptonia stricticeps Peck SPECIES
-=======
+# Leptonia stricticeps Peck SPECIES
 
 #### Status
 ACCEPTED

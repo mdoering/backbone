@@ -1,5 +1,4 @@
-Leciographa sphyridii (J. Steiner) Lettau SPECIES
-=======
+# Leciographa sphyridii (J. Steiner) Lettau SPECIES
 
 #### Status
 ACCEPTED

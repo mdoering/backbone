@@ -1,5 +1,4 @@
-Bovista acocksii De Villiers, Eicker & Van der Westh. SPECIES
-=======
+# Bovista acocksii De Villiers, Eicker & Van der Westh. SPECIES
 
 #### Status
 ACCEPTED

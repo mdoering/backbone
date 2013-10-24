@@ -1,5 +1,4 @@
-Collybia cinchonensis (Murrill) Murrill SPECIES
-=======
+# Collybia cinchonensis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

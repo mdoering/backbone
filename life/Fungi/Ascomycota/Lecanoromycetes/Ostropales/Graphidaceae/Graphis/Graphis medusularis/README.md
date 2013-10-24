@@ -1,5 +1,4 @@
-Graphis medusularis Vain. SPECIES
-=======
+# Graphis medusularis Vain. SPECIES
 
 #### Status
 ACCEPTED

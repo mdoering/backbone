@@ -1,5 +1,4 @@
-Wallemiales Zalar, de Hoog & Schroers ORDER
-=======
+# Wallemiales Zalar, de Hoog & Schroers ORDER
 
 #### Status
 ACCEPTED

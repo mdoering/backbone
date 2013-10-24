@@ -1,5 +1,4 @@
-Lembadion duplellum SPECIES
-=======
+# Lembadion duplellum SPECIES
 
 #### Status
 ACCEPTED

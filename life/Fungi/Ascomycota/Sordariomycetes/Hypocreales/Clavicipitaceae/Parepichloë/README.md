@@ -1,5 +1,4 @@
-Parepichloë J.F. White & P.V. Reddy GENUS
-=======
+# Parepichloë J.F. White & P.V. Reddy GENUS
 
 #### Status
 ACCEPTED

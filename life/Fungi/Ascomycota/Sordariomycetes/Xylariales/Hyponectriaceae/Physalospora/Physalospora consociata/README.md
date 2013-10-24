@@ -1,5 +1,4 @@
-Physalospora consociata (Ellis & Harkn.) Sacc. SPECIES
-=======
+# Physalospora consociata (Ellis & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

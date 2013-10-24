@@ -1,5 +1,4 @@
-Hendersonia musae Cooke SPECIES
-=======
+# Hendersonia musae Cooke SPECIES
 
 #### Status
 ACCEPTED

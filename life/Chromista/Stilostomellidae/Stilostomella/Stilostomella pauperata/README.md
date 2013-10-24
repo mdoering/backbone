@@ -1,5 +1,4 @@
-Stilostomella pauperata (d'Orbigny, 1839) SPECIES
-=======
+# Stilostomella pauperata (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

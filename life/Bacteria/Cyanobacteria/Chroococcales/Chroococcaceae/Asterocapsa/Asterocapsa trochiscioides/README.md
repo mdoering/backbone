@@ -1,5 +1,4 @@
-Asterocapsa trochiscioides (Jao) Chu SPECIES
-=======
+# Asterocapsa trochiscioides (Jao) Chu SPECIES
 
 #### Status
 ACCEPTED

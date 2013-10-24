@@ -1,5 +1,4 @@
-Calloria kansensis Ellis & Everh. SPECIES
-=======
+# Calloria kansensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

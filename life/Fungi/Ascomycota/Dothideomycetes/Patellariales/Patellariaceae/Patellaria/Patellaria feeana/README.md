@@ -1,5 +1,4 @@
-Patellaria feeana Müll. Arg. SPECIES
-=======
+# Patellaria feeana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

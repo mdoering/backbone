@@ -1,5 +1,4 @@
-Clathroporina irregularis Müll. Arg. SPECIES
-=======
+# Clathroporina irregularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pellionella macrospora J.A. Spencer SPECIES
-=======
+# Pellionella macrospora J.A. Spencer SPECIES
 
 #### Status
 ACCEPTED

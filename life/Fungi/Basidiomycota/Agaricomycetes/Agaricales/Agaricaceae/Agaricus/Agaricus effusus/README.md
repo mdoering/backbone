@@ -1,5 +1,4 @@
-Agaricus effusus Kalchbr. SPECIES
-=======
+# Agaricus effusus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

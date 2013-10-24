@@ -1,5 +1,4 @@
-Xanthoparmelia (Vainio) Hale, 1974 GENUS
-=======
+# Xanthoparmelia (Vainio) Hale, 1974 GENUS
 
 #### Status
 ACCEPTED

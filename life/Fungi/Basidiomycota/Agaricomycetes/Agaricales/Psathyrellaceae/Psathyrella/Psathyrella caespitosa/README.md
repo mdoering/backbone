@@ -1,5 +1,4 @@
-Psathyrella caespitosa Weholt SPECIES
-=======
+# Psathyrella caespitosa Weholt SPECIES
 
 #### Status
 ACCEPTED

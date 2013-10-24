@@ -1,5 +1,4 @@
-Parmelia detrita Ach. SPECIES
-=======
+# Parmelia detrita Ach. SPECIES
 
 #### Status
 ACCEPTED

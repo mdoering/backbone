@@ -1,5 +1,4 @@
-Niebla sorediata Spjut SPECIES
-=======
+# Niebla sorediata Spjut SPECIES
 
 #### Status
 ACCEPTED

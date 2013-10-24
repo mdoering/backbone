@@ -1,14 +1,13 @@
-Auerswaldia cercides (Cooke) Theiss. & Syd., 1914 SPECIES
-=======
+# Phaeobotryon cercidis (Cooke) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12(3): 270 (1914)
+Annls mycol. 13(5/6): 664 (1915)
 
 #### Original name
 Dothidea cercidis Cooke, 1885

@@ -1,5 +1,4 @@
-Rhopographina palmarum (Höhn.) Theiss. & Syd. {?} SPECIES
-=======
+# Rhopographina palmarum (Höhn.) Theiss. & Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

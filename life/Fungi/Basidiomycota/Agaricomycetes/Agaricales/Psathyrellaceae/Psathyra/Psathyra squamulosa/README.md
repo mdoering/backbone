@@ -1,5 +1,4 @@
-Psathyra squamulosa Schwalb SPECIES
-=======
+# Psathyra squamulosa Schwalb SPECIES
 
 #### Status
 ACCEPTED

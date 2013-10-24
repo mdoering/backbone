@@ -1,5 +1,4 @@
-Baltisphaeridium eximium Li Zaiping, 1982 SPECIES
-=======
+# Baltisphaeridium eximium Li Zaiping, 1982 SPECIES
 
 #### Status
 ACCEPTED

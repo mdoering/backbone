@@ -1,5 +1,4 @@
-Coleophoma muehlenbeckiae (Shreem.) Aa SPECIES
-=======
+# Coleophoma muehlenbeckiae (Shreem.) Aa SPECIES
 
 #### Status
 ACCEPTED

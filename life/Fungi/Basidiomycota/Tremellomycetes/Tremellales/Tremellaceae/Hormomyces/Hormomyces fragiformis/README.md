@@ -1,5 +1,4 @@
-Hormomyces fragiformis Cooke SPECIES
-=======
+# Hormomyces fragiformis Cooke SPECIES
 
 #### Status
 ACCEPTED

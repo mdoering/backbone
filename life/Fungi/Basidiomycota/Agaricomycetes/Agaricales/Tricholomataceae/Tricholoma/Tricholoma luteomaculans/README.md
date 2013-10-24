@@ -1,5 +1,4 @@
-Tricholoma luteomaculans G.F. Atk. SPECIES
-=======
+# Tricholoma luteomaculans G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

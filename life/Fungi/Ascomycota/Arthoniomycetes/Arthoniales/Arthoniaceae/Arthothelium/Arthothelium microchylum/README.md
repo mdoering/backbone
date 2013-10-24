@@ -1,5 +1,4 @@
-Arthothelium microchylum Vain. SPECIES
-=======
+# Arthothelium microchylum Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pezizella carneopallida (Roberge ex Desm.) Sacc., 1889 SPECIES
-=======
+# Naeviopsis carneopallida (Roberge ex Desm.) B. Hein, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 285 (1889)
+Beih. Willdenowia 9: 82 (1976)
 
 #### Original name
 Peziza carneopallida Roberge ex Desm.

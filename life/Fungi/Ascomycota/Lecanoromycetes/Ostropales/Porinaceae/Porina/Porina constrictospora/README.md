@@ -1,5 +1,4 @@
-Porina constrictospora P. M. McCarthy & Kantvilas SPECIES
-=======
+# Porina constrictospora P. M. McCarthy & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

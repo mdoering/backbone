@@ -1,5 +1,4 @@
-Lachnum oblongoellipticum (A.K. Kar & K.P. Pal) M.P. Sharma SPECIES
-=======
+# Lachnum oblongoellipticum (A.K. Kar & K.P. Pal) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

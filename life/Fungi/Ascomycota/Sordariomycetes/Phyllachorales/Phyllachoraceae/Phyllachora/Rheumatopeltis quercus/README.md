@@ -1,17 +1,16 @@
-Rheumatopeltis querci F. Stevens SPECIES
-=======
+# Rheumatopeltis quercus F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Illinois Biol. Monogr. (Urbana) 11(2): 176 (1927)
 
 #### Original name
-Rheumatopeltis querci F. Stevens
+Rheumatopeltis quercus F. Stevens
 
 ### Remarks
 null

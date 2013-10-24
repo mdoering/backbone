@@ -1,5 +1,4 @@
-Sphaceloma penstemonis A.M.J. Watson & Jenkins SPECIES
-=======
+# Sphaceloma penstemonis A.M.J. Watson & Jenkins SPECIES
 
 #### Status
 ACCEPTED

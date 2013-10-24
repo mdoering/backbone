@@ -1,5 +1,4 @@
-Coleroa polylopha (Syd.) E. Müll. SPECIES
-=======
+# Coleroa polylopha (Syd.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glandulina rorundata (Reuss, 1860) SPECIES
-=======
+# Glandulina rorundata (Reuss, 1860) SPECIES
 
 #### Status
 ACCEPTED

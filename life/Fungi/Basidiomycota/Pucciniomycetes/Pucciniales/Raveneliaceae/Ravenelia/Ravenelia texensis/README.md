@@ -1,5 +1,4 @@
-Ravenelia texensis var. texensis VARIETY
-=======
+# Ravenelia texensis Ellis & L.D. Galloway SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 33: 42 (1894)
 
 #### Original name
-Ravenelia texensis var. texensis
+Ravenelia texensis Ellis & L.D. Galloway
 
 ### Remarks
 null

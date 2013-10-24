@@ -1,5 +1,4 @@
-Niptera ushuaiae Rehm SPECIES
-=======
+# Niptera ushuaiae Rehm SPECIES
 
 #### Status
 ACCEPTED

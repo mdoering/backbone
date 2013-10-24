@@ -1,5 +1,4 @@
-Thelephora lilacina Schwein. SPECIES
-=======
+# Thelephora lilacina Schwein. SPECIES
 
 #### Status
 ACCEPTED

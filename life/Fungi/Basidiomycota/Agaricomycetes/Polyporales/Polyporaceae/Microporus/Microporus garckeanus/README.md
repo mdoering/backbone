@@ -1,5 +1,4 @@
-Microporus garckeanus (Henn. ex Sacc.) Kuntze SPECIES
-=======
+# Microporus garckeanus (Henn. ex Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

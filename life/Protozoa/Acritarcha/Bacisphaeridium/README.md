@@ -1,5 +1,4 @@
-Bacisphaeridium A.Eisenack GENUS
-=======
+# Bacisphaeridium A.Eisenack GENUS
 
 #### Status
 ACCEPTED

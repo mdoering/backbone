@@ -1,5 +1,4 @@
-Humaria persoonii var. persoonii (Mont.) Quél. VARIETY
-=======
+# Humaria persoonii (Mont.) Quél. SPECIES
 
 #### Status
 ACCEPTED

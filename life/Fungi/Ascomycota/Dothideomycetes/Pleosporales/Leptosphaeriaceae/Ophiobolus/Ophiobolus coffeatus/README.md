@@ -1,5 +1,4 @@
-Ophiobolus coffeatus (Berk.) Sacc., 1883 SPECIES
-=======
+# Ophiobolus coffeatus (Berk.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

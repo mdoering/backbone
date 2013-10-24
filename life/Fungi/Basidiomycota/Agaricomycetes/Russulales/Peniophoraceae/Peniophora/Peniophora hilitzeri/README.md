@@ -1,5 +1,4 @@
-Peniophora hilitzeri Pilát SPECIES
-=======
+# Peniophora hilitzeri Pilát SPECIES
 
 #### Status
 ACCEPTED

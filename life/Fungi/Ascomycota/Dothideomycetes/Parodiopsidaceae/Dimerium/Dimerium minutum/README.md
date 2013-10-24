@@ -1,5 +1,4 @@
-Dimerium minutum (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium minutum (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

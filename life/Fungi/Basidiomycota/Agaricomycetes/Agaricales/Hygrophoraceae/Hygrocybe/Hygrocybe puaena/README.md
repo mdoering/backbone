@@ -1,5 +1,4 @@
-Hygrocybe puaena Desjardin & Hemmes SPECIES
-=======
+# Hygrocybe puaena Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

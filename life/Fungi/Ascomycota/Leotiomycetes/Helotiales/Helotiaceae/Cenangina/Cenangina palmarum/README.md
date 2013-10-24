@@ -1,5 +1,4 @@
-Cenangina palmarum Höhn. SPECIES
-=======
+# Cenangina palmarum Höhn. SPECIES
 
 #### Status
 ACCEPTED

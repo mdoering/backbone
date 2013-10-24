@@ -1,5 +1,4 @@
-Multicellites Kalgutkar & Janson. GENUS
-=======
+# Multicellites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

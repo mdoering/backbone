@@ -1,5 +1,4 @@
-Atractium Link GENUS
-=======
+# Atractium Link GENUS
 
 #### Status
 ACCEPTED

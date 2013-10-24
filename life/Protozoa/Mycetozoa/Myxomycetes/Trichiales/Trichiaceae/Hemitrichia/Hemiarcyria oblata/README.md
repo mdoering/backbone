@@ -1,5 +1,4 @@
-Hemiarcyria oblata Morgan SPECIES
-=======
+# Hemiarcyria oblata Morgan SPECIES
 
 #### Status
 ACCEPTED

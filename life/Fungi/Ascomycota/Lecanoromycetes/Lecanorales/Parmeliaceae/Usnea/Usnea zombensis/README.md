@@ -1,5 +1,4 @@
-Usnea zombensis Krog SPECIES
-=======
+# Usnea zombensis Krog SPECIES
 
 #### Status
 ACCEPTED

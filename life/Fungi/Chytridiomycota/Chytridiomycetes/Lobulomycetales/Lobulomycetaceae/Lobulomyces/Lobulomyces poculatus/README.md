@@ -1,5 +1,4 @@
-Lobulomyces poculatus (Willoughby & Townley) D.R. Simmons, 2009 SPECIES
-=======
+# Lobulomyces poculatus (Willoughby & Townley) D.R. Simmons, 2009 SPECIES
 
 #### Status
 ACCEPTED

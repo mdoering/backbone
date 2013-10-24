@@ -1,5 +1,4 @@
-Lepiota pardalina Sacc. SPECIES
-=======
+# Lepiota pardalina Sacc. SPECIES
 
 #### Status
 ACCEPTED

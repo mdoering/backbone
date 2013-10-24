@@ -1,5 +1,4 @@
-Phyllachora goyazensis Henn., 1895 SPECIES
-=======
+# Phyllachora goyazensis Henn., 1895 SPECIES
 
 #### Status
 DOUBTFUL

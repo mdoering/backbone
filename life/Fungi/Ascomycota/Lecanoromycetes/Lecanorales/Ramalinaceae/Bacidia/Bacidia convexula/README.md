@@ -1,5 +1,4 @@
-Bacidia convexula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia convexula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

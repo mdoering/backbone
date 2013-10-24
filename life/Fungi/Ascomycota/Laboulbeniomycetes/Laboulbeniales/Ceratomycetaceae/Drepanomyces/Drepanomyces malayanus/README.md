@@ -1,5 +1,4 @@
-Drepanomyces malayanus Thaxt., 1931 SPECIES
-=======
+# Drepanomyces malayanus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

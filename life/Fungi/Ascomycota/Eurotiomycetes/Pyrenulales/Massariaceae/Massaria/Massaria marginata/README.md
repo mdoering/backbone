@@ -1,17 +1,16 @@
-Massaria marginata var. marginata VARIETY
-=======
+# Massaria marginata SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Jb. nassau. Ver. Naturk. 27-28: 28 (1873)
+null
 
 #### Original name
-Massaria marginata var. marginata
+null
 
 ### Remarks
 null

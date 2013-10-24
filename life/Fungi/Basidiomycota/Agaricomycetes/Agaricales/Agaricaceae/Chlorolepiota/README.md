@@ -1,5 +1,4 @@
-Chlorolepiota Sathe & S.D. Deshp. GENUS
-=======
+# Chlorolepiota Sathe & S.D. Deshp. GENUS
 
 #### Status
 ACCEPTED

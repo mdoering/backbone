@@ -1,5 +1,4 @@
-Cortinarius addamascenus Rob. Henry SPECIES
-=======
+# Cortinarius addamascenus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobacter uratoxydans Stackebrandt et al., 1984 SPECIES
-=======
+# Arthrobacter uratoxydans Stackebrandt et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

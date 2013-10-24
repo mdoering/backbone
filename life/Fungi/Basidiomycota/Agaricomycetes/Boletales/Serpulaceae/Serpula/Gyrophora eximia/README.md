@@ -1,5 +1,4 @@
-Gyrophora eximia (Hue) Zahlbr. SPECIES
-=======
+# Gyrophora eximia (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

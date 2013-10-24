@@ -1,17 +1,16 @@
-Flammula ealeansis Beeli SPECIES
-=======
+# Flammula ealaensis Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 61(1): 87 (1928)
 
 #### Original name
-Flammula ealeansis Beeli
+Flammula ealaensis Beeli
 
 ### Remarks
 null

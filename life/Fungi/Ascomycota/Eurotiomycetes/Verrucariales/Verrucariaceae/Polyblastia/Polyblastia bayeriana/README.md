@@ -1,5 +1,4 @@
-Polyblastia bayeriana Servít SPECIES
-=======
+# Polyblastia bayeriana Servít SPECIES
 
 #### Status
 ACCEPTED

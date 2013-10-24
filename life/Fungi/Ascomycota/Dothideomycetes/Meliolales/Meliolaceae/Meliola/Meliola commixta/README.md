@@ -1,5 +1,4 @@
-Meliola commixta Theiss. SPECIES
-=======
+# Meliola commixta Theiss. SPECIES
 
 #### Status
 ACCEPTED

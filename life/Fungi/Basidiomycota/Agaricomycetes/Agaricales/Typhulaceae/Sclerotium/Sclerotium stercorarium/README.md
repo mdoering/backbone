@@ -1,5 +1,4 @@
-Sclerotium stercorarium Lam. & DC., 1805 SPECIES
-=======
+# Sclerotium stercorarium Lam. & DC., 1805 SPECIES
 
 #### Status
 ACCEPTED

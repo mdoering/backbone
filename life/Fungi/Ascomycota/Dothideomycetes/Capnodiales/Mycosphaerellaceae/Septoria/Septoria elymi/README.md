@@ -1,5 +1,4 @@
-Septoria elymi f. elymi FORM
-=======
+# Septoria elymi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 7(2): 132 (1892)
 
 #### Original name
-Septoria elymi f. elymi
+Septoria elymi Ellis & Everh.
 
 ### Remarks
 null

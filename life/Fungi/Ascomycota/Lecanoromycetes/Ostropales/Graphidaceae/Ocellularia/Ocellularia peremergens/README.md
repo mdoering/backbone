@@ -1,5 +1,4 @@
-Ocellularia peremergens Homchant. & Coppins SPECIES
-=======
+# Ocellularia peremergens Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

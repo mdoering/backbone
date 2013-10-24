@@ -1,5 +1,4 @@
-Omphalospora praecox Fourr. SPECIES
-=======
+# Omphalospora praecox Fourr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina pongalaparensis Hosag., C.K. Biju & T.K. Abraham SPECIES
-=======
+# Asterina pongalaparensis Hosag., C.K. Biju & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

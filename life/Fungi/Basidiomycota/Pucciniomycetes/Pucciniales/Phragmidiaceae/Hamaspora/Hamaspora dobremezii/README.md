@@ -1,5 +1,4 @@
-Hamaspora dobremezii Durrieu, 1975 SPECIES
-=======
+# Hamaspora dobremezii Durrieu, 1975 SPECIES
 
 #### Status
 ACCEPTED

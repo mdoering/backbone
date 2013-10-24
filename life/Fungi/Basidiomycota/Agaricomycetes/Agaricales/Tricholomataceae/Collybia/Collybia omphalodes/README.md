@@ -1,5 +1,4 @@
-Collybia omphalodes (Berk.) Dennis SPECIES
-=======
+# Collybia omphalodes (Berk.) Dennis SPECIES
 
 #### Status
 ACCEPTED

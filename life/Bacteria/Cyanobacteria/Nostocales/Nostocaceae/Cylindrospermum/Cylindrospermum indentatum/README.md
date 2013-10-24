@@ -1,5 +1,4 @@
-Cylindrospermum indentatum G.S. West SPECIES
-=======
+# Cylindrospermum indentatum G.S. West SPECIES
 
 #### Status
 ACCEPTED

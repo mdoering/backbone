@@ -1,5 +1,4 @@
-Massarinula quercina Géneau SPECIES
-=======
+# Massarinula quercina Géneau SPECIES
 
 #### Status
 ACCEPTED

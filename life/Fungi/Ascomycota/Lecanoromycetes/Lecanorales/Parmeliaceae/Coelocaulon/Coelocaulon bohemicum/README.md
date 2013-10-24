@@ -1,5 +1,4 @@
-Coelocaulon bohemicum (Anders) Clauzade & Cl. Roux SPECIES
-=======
+# Coelocaulon bohemicum (Anders) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

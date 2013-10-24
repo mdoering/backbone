@@ -1,5 +1,4 @@
-Tremella mucoroides Bull. SPECIES
-=======
+# Tremella mucoroides Bull. SPECIES
 
 #### Status
 ACCEPTED

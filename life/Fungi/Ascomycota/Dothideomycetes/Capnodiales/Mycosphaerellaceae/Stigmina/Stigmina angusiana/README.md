@@ -1,5 +1,4 @@
-Stigmina angusiana M.B. Ellis SPECIES
-=======
+# Stigmina angusiana M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

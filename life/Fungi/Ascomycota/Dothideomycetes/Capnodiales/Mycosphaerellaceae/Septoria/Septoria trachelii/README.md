@@ -1,5 +1,4 @@
-Septoria trachelii Allesch. SPECIES
-=======
+# Septoria trachelii Allesch. SPECIES
 
 #### Status
 ACCEPTED

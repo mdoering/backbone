@@ -1,5 +1,4 @@
-Peronospora lepidii-sativi Gäum. SPECIES
-=======
+# Peronospora lepidii-sativi Gäum. SPECIES
 
 #### Status
 ACCEPTED

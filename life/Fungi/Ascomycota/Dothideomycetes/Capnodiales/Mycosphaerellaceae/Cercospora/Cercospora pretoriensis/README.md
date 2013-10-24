@@ -1,5 +1,4 @@
-Cercospora pretoriensis Chupp & Doidge SPECIES
-=======
+# Cercospora pretoriensis Chupp & Doidge SPECIES
 
 #### Status
 ACCEPTED

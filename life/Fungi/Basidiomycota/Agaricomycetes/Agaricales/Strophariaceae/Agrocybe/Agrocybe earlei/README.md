@@ -1,5 +1,4 @@
-Agrocybe earlei (Murrill) Dennis ex Singer SPECIES
-=======
+# Agrocybe earlei (Murrill) Dennis ex Singer SPECIES
 
 #### Status
 ACCEPTED

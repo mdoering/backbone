@@ -1,5 +1,4 @@
-Oligonema intermedium Haan, 2003 SPECIES
-=======
+# Oligonema intermedium Haan, 2003 SPECIES
 
 #### Status
 ACCEPTED

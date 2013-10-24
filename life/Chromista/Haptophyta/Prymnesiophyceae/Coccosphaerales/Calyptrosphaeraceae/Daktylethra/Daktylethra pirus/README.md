@@ -1,5 +1,4 @@
-Daktylethra pirus (Kamptner) R.E.Norris, 1985 SPECIES
-=======
+# Daktylethra pirus (Kamptner) R.E.Norris, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetocypha nivea (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Chaetocypha nivea (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

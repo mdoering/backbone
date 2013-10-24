@@ -1,5 +1,4 @@
-Cytosporella populi Oudem. SPECIES
-=======
+# Cytosporella populi Oudem. SPECIES
 
 #### Status
 ACCEPTED

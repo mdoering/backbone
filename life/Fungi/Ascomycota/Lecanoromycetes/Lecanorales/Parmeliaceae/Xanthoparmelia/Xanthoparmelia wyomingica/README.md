@@ -1,5 +1,4 @@
-Xanthoparmelia wyomingica (Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia wyomingica (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

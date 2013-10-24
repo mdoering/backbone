@@ -1,5 +1,4 @@
-Trematosphaeria subferruginea Fuckel SPECIES
-=======
+# Trematosphaeria subferruginea Fuckel SPECIES
 
 #### Status
 ACCEPTED

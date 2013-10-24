@@ -1,17 +1,16 @@
-Torrubia pistillariaeformis (Berk. & Broome) Cooke SPECIES
-=======
+# Cordyceps clavulata (Schwein.) Ellis & Everh., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Pyren. (Newfield) 61 (1892)
 
 #### Original name
-Cordyceps pistillariiformis Berk. & Broome, 1861
+Sphaeria clavulata Schwein., 1832
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Halanaerobiales Rainey & Zhilina, 1995 ORDER
-=======
+# Halanaerobiales Rainey & Zhilina, 1995 ORDER
 
 #### Status
 ACCEPTED

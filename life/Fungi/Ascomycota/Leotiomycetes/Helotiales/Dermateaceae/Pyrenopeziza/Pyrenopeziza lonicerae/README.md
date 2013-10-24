@@ -1,5 +1,4 @@
-Pyrenopeziza lonicerae Nannf., 1932 SPECIES
-=======
+# Pyrenopeziza lonicerae Nannf., 1932 SPECIES
 
 #### Status
 ACCEPTED

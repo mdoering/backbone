@@ -1,5 +1,4 @@
-Acanthoplegma krohni SPECIES
-=======
+# Acanthoplegma krohni SPECIES
 
 #### Status
 ACCEPTED

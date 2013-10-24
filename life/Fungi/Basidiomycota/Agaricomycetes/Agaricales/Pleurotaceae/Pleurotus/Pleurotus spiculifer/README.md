@@ -1,5 +1,4 @@
-Pleurotus spiculifer (Berk.) Sacc. SPECIES
-=======
+# Pleurotus spiculifer (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

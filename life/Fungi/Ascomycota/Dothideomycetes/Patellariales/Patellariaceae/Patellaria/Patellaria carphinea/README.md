@@ -1,5 +1,4 @@
-Patellaria carphinea Balb. SPECIES
-=======
+# Patellaria carphinea Balb. SPECIES
 
 #### Status
 ACCEPTED

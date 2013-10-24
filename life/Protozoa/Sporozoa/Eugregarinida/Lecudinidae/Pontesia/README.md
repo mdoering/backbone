@@ -1,5 +1,4 @@
-Pontesia Hasselmann, 1926 GENUS
-=======
+# Pontesia Hasselmann, 1926 GENUS
 
 #### Status
 ACCEPTED

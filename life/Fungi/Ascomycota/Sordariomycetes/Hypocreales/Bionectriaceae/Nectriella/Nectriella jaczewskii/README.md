@@ -1,5 +1,4 @@
-Nectriella jaczewskii Girz. SPECIES
-=======
+# Nectriella jaczewskii Girz. SPECIES
 
 #### Status
 ACCEPTED

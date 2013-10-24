@@ -1,5 +1,4 @@
-Sydowia dothideoides Dearn. & Barthol. SPECIES
-=======
+# Sydowia dothideoides Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holosticha wrzesniowskii Mereschkowsky, 1877 SPECIES
-=======
+# Holosticha wrzesniowskii Mereschkowsky, 1877 SPECIES
 
 #### Status
 ACCEPTED

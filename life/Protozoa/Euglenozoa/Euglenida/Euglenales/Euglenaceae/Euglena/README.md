@@ -1,14 +1,13 @@
-Calliglena Zakrys, 1986 GENUS
-=======
+# Euglena Ehrenberg, 1838 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 42 (2-4): 499.
+Ann. Phys. Chem. , 94, 507, 508.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Corynespora sesameum (Sacc.) Goto SPECIES
-=======
+# Corynespora sesameum (Sacc.) Goto SPECIES
 
 #### Status
 ACCEPTED

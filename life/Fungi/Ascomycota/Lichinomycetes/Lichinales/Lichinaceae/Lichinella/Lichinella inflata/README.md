@@ -1,5 +1,4 @@
-Lichinella inflata (Henssen) P.P. Moreno & Egea SPECIES
-=======
+# Lichinella inflata (Henssen) P.P. Moreno & Egea SPECIES
 
 #### Status
 ACCEPTED

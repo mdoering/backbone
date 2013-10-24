@@ -1,5 +1,4 @@
-Phomopsis subnervisequia (Desm.) Höhn. SPECIES
-=======
+# Phomopsis subnervisequia (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

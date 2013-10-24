@@ -1,5 +1,4 @@
-Penicillium lunzinense Svilv. SPECIES
-=======
+# Penicillium lunzinense Svilv. SPECIES
 
 #### Status
 ACCEPTED

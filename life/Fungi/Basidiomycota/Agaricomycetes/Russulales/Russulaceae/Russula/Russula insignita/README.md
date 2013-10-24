@@ -1,5 +1,4 @@
-Russula insignita Burl. SPECIES
-=======
+# Russula insignita Burl. SPECIES
 
 #### Status
 ACCEPTED

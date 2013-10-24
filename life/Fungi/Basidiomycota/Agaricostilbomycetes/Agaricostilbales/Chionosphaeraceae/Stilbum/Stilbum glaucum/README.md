@@ -1,5 +1,4 @@
-Stilbum glaucum Cooke SPECIES
-=======
+# Stilbum glaucum Cooke SPECIES
 
 #### Status
 ACCEPTED

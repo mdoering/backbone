@@ -1,5 +1,4 @@
-Trichodesmium iwanoffianum Nygaard SPECIES
-=======
+# Trichodesmium iwanoffianum Nygaard SPECIES
 
 #### Status
 ACCEPTED

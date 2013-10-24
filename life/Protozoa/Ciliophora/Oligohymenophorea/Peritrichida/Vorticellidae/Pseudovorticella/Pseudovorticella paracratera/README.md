@@ -1,5 +1,4 @@
-Pseudovorticella paracratera Ji, Song & Warren, 2004 SPECIES
-=======
+# Pseudovorticella paracratera Ji, Song & Warren, 2004 SPECIES
 
 #### Status
 ACCEPTED

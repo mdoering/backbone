@@ -1,5 +1,4 @@
-Dimacrocaryon amphileptoides subsp. amphileptoides SUBSPECIES
-=======
+# Dimacrocaryon amphileptoides Kahl SPECIES
 
 #### Status
 ACCEPTED

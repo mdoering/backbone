@@ -1,5 +1,4 @@
-Sargassum siliculosoides Tseng & Lu SPECIES
-=======
+# Sargassum siliculosoides Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

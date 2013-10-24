@@ -1,5 +1,4 @@
-Hypoxylon ribis (Tode) J. Kickx f. SPECIES
-=======
+# Hypoxylon ribis (Tode) J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

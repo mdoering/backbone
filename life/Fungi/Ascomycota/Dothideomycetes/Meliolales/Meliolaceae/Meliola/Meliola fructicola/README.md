@@ -1,5 +1,4 @@
-Meliola fructicola Hansf. SPECIES
-=======
+# Meliola fructicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

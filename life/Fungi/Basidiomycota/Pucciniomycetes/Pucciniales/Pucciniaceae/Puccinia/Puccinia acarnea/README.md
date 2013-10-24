@@ -1,5 +1,4 @@
-Puccinia acarnea P. Syd. & Syd. SPECIES
-=======
+# Puccinia acarnea P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

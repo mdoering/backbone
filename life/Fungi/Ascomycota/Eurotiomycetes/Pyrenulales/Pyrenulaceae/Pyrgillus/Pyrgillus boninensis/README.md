@@ -1,5 +1,4 @@
-Pyrgillus boninensis Asahina SPECIES
-=======
+# Pyrgillus boninensis Asahina SPECIES
 
 #### Status
 ACCEPTED

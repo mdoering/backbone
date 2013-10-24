@@ -1,5 +1,4 @@
-Photobacterium jeanii Chimetto, Cleenwerck, Thompson, Brocchi, Willems, de Vos & Thompson, 2010 SPECIES
-=======
+# Photobacterium jeanii Chimetto, Cleenwerck, Thompson, Brocchi, Willems, de Vos & Thompson, 2010 SPECIES
 
 #### Status
 ACCEPTED

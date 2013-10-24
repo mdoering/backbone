@@ -1,5 +1,4 @@
-Phylloporus pratensis Rick SPECIES
-=======
+# Phylloporus pratensis Rick SPECIES
 
 #### Status
 ACCEPTED

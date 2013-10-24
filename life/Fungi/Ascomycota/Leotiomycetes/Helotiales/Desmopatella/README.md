@@ -1,5 +1,4 @@
-Desmopatella GENUS
-=======
+# Desmopatella GENUS
 
 #### Status
 ACCEPTED

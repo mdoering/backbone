@@ -1,5 +1,4 @@
-Phyllosticta sambucicola Kalchbr., 1864 SPECIES
-=======
+# Phyllosticta sambucicola Kalchbr., 1864 SPECIES
 
 #### Status
 ACCEPTED

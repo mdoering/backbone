@@ -1,5 +1,4 @@
-Trichodina acuta Lom, 1961 SPECIES
-=======
+# Trichodina acuta Lom, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ancorasporella mexicana J. Mena, Mercado & Heredia, 1998 SPECIES
-=======
+# Ancorasporella mexicana J. Mena, Mercado & Heredia, 1998 SPECIES
 
 #### Status
 ACCEPTED

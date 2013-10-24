@@ -1,5 +1,4 @@
-Bilimbia beckhausii (Körb.) SPECIES
-=======
+# Bilimbia beckhausii (Körb.) SPECIES
 
 #### Status
 ACCEPTED

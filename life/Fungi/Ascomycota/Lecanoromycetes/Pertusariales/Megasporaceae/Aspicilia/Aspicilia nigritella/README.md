@@ -1,5 +1,4 @@
-Aspicilia nigritella (Fée) Hue SPECIES
-=======
+# Aspicilia nigritella (Fée) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia lecideola Müll. Arg. SPECIES
-=======
+# Arthonia lecideola Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

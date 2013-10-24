@@ -1,5 +1,4 @@
-Archaeochintinia GENUS
-=======
+# Archaeochintinia GENUS
 
 #### Status
 ACCEPTED

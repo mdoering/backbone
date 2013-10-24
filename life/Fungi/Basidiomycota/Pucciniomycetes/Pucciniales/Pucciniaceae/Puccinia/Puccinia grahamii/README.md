@@ -1,5 +1,4 @@
-Puccinia grahamii G. Cunn., 1928 SPECIES
-=======
+# Puccinia grahamii G. Cunn., 1928 SPECIES
 
 #### Status
 ACCEPTED

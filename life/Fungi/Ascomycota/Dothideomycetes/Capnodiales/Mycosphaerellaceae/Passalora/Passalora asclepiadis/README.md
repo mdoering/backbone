@@ -1,5 +1,4 @@
-Passalora asclepiadis (Ellis & Everh.) Petr. SPECIES
-=======
+# Passalora asclepiadis (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

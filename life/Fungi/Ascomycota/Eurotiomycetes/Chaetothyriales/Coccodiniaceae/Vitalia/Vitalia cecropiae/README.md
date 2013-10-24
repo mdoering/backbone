@@ -1,5 +1,4 @@
-Vitalia cecropiae Bat., A.F. Vital & Cif. SPECIES
-=======
+# Vitalia cecropiae Bat., A.F. Vital & Cif. SPECIES
 
 #### Status
 ACCEPTED

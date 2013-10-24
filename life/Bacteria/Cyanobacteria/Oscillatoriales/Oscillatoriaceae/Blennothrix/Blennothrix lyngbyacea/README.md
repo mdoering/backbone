@@ -1,5 +1,4 @@
-Blennothrix lyngbyacea Kützing ex Anagnostidis & Komárek SPECIES
-=======
+# Blennothrix lyngbyacea Kützing ex Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

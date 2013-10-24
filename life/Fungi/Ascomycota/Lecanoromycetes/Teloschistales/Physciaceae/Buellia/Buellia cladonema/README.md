@@ -1,5 +1,4 @@
-Buellia cladonema Wedd. SPECIES
-=======
+# Buellia cladonema Wedd. SPECIES
 
 #### Status
 ACCEPTED

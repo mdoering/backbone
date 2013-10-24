@@ -1,5 +1,4 @@
-Cyathus yunnanensis B. Liu & Y.M. Li SPECIES
-=======
+# Cyathus yunnanensis B. Liu & Y.M. Li SPECIES
 
 #### Status
 ACCEPTED

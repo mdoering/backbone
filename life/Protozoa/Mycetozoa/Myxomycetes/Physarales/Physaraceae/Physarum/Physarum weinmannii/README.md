@@ -1,5 +1,4 @@
-Physarum weinmannii Fr. SPECIES
-=======
+# Physarum weinmannii Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella aurantiiphila Speg. SPECIES
-=======
+# Didymella aurantiiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

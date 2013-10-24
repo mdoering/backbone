@@ -1,5 +1,4 @@
-Cytospora thujae Sacc. & Ellis SPECIES
-=======
+# Cytospora thujae Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

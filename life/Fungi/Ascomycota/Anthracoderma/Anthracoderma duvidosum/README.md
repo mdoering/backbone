@@ -1,5 +1,4 @@
-Anthracoderma duvidosum Viégas SPECIES
-=======
+# Anthracoderma duvidosum Viégas SPECIES
 
 #### Status
 ACCEPTED

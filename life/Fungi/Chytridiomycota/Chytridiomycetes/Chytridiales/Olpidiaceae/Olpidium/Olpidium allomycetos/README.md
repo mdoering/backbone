@@ -1,5 +1,4 @@
-Olpidium allomycetos Karling SPECIES
-=======
+# Olpidium allomycetos Karling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tatraea Svrcek GENUS
-=======
+# Tatraea Svrcek GENUS
 
 #### Status
 ACCEPTED

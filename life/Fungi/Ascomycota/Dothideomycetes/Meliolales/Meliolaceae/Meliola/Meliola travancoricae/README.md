@@ -1,5 +1,4 @@
-Meliola travancoricae Hosag. SPECIES
-=======
+# Meliola travancoricae Hosag. SPECIES
 
 #### Status
 ACCEPTED

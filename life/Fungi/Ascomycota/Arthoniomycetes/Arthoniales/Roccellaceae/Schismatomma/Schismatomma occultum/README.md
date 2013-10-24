@@ -1,5 +1,4 @@
-Schismatomma occultum f. occultum FORM
-=======
+# Schismatomma occultum (C. Knight & Mitt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 560 (1923)
 
 #### Original name
-Schismatomma occultum f. occultum
+Platygrapha occulta C. Knight & Mitt.
 
 ### Remarks
 null

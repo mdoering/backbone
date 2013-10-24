@@ -1,5 +1,4 @@
-Nidularia microspora Velen. SPECIES
-=======
+# Nidularia microspora Velen. SPECIES
 
 #### Status
 ACCEPTED

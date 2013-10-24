@@ -1,5 +1,4 @@
-Buellia hawaiiensis Tuck. ex H. Magn. SPECIES
-=======
+# Buellia hawaiiensis Tuck. ex H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conidiobolus iuxtagenitus S.D. Waters & Callaghan, 1989 SPECIES
-=======
+# Conidiobolus iuxtagenitus S.D. Waters & Callaghan, 1989 SPECIES
 
 #### Status
 ACCEPTED

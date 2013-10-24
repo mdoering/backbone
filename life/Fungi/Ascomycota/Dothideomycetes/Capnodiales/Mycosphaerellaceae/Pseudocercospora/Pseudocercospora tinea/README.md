@@ -1,5 +1,4 @@
-Pseudocercospora tinea Y.L. Guo & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora tinea Y.L. Guo & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen coracinus (Hoffm.) Ach. SPECIES
-=======
+# Lichen coracinus (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

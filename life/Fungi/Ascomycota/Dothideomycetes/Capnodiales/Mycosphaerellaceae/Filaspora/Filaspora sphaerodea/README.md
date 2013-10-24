@@ -1,5 +1,4 @@
-Filaspora sphaerodea (Pass.) Kuntze SPECIES
-=======
+# Filaspora sphaerodea (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

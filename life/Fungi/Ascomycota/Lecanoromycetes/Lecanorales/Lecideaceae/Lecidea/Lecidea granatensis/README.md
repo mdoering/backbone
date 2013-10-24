@@ -1,5 +1,4 @@
-Lecidea granatensis Clemente SPECIES
-=======
+# Lecidea granatensis Clemente SPECIES
 
 #### Status
 ACCEPTED

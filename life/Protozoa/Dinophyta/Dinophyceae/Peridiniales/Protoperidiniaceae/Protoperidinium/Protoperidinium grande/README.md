@@ -1,5 +1,4 @@
-Protoperidinium grande (Kofoid) Balech SPECIES
-=======
+# Protoperidinium grande (Kofoid) Balech SPECIES
 
 #### Status
 ACCEPTED

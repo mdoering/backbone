@@ -1,5 +1,4 @@
-Meliola natalensis Doidge SPECIES
-=======
+# Meliola natalensis Doidge SPECIES
 
 #### Status
 ACCEPTED

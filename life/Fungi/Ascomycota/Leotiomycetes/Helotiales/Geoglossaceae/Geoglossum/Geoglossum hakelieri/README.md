@@ -1,5 +1,4 @@
-Geoglossum hakelieri Nitare SPECIES
-=======
+# Geoglossum hakelieri Nitare SPECIES
 
 #### Status
 ACCEPTED

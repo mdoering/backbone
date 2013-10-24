@@ -1,5 +1,4 @@
-Pronectria septemseptata Etayo SPECIES
-=======
+# Pronectria septemseptata Etayo SPECIES
 
 #### Status
 ACCEPTED

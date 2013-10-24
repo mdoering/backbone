@@ -1,5 +1,4 @@
-Pleonectria fenestrata (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Pleonectria fenestrata (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

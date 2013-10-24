@@ -1,5 +1,4 @@
-Arthothelium impolitum A. Massal. SPECIES
-=======
+# Arthothelium impolitum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nectria ochroleuca var. ochroleuca VARIETY
-=======
+# Bionectria ochroleuca (Schwein.) Schroers & Samuels, 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 29): 16 (1875)
+Z. Mykol. 63(2): 151 (1997)
 
 #### Original name
-Nectria ochroleuca var. ochroleuca
+Sphaeria ochroleuca Schwein., 1832
 
 ### Remarks
 null

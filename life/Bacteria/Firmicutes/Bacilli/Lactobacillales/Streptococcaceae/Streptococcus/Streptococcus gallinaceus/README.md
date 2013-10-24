@@ -1,5 +1,4 @@
-Streptococcus gallinaceus Collins et al., 2002 SPECIES
-=======
+# Streptococcus gallinaceus Collins et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

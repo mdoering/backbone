@@ -1,5 +1,4 @@
-Phyllachora cymbispora T.S. Ramakr. & K. Ramakr., 1947 SPECIES
-=======
+# Phyllachora cymbispora T.S. Ramakr. & K. Ramakr., 1947 SPECIES
 
 #### Status
 ACCEPTED

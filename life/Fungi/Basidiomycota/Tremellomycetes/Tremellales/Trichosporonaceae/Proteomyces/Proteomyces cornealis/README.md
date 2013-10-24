@@ -1,5 +1,4 @@
-Proteomyces cornealis (Nann.) C.W. Dodge SPECIES
-=======
+# Proteomyces cornealis (Nann.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

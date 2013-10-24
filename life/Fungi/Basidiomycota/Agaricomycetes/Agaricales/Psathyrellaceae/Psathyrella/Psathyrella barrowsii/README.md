@@ -1,5 +1,4 @@
-Psathyrella barrowsii A.H. Sm. SPECIES
-=======
+# Psathyrella barrowsii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

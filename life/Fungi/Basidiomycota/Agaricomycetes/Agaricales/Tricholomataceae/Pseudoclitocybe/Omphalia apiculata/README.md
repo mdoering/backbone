@@ -1,5 +1,4 @@
-Omphalia apiculata Kauffman SPECIES
-=======
+# Omphalia apiculata Kauffman SPECIES
 
 #### Status
 ACCEPTED

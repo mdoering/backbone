@@ -1,5 +1,4 @@
-Agaricus caesiellus Kalchbr. SPECIES
-=======
+# Agaricus caesiellus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

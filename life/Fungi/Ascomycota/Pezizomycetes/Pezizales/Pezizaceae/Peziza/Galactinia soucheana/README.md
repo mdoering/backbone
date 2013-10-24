@@ -1,5 +1,4 @@
-Galactinia soucheana Boud. ex Le Gal SPECIES
-=======
+# Galactinia soucheana Boud. ex Le Gal SPECIES
 
 #### Status
 ACCEPTED

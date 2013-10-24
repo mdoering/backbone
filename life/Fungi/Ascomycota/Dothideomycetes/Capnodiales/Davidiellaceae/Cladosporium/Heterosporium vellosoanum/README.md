@@ -1,5 +1,4 @@
-Heterosporium vellosoanum Speg. SPECIES
-=======
+# Heterosporium vellosoanum Speg. SPECIES
 
 #### Status
 ACCEPTED

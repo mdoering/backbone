@@ -1,17 +1,16 @@
-Laestadiella Höhn. GENUS
-=======
+# Guignardia Viala & Ravaz GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 16(1/2): 50 (1918)
+Bull. Soc. mycol. Fr. 8: 63 (1892)
 
 #### Original name
-Laestadiella Höhn.
+Guignardia Viala & Ravaz
 
 ### Remarks
 null

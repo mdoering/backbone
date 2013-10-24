@@ -1,5 +1,4 @@
-Pseudodidymella fagi C.Z. Wei, Y. Harada & Katum., 1997 SPECIES
-=======
+# Pseudodidymella fagi C.Z. Wei, Y. Harada & Katum., 1997 SPECIES
 
 #### Status
 ACCEPTED

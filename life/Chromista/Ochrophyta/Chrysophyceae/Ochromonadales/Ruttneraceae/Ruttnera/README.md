@@ -1,5 +1,4 @@
-Ruttnera Geitler, 1942 GENUS
-=======
+# Ruttnera Geitler, 1942 GENUS
 
 #### Status
 ACCEPTED

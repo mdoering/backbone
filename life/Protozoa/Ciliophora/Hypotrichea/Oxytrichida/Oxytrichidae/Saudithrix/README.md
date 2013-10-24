@@ -1,5 +1,4 @@
-Saudithrix H. Berger et al., 2006 GENUS
-=======
+# Saudithrix H. Berger et al., 2006 GENUS
 
 #### Status
 ACCEPTED

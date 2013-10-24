@@ -1,5 +1,4 @@
-Aleurodiscus bicolor Rick SPECIES
-=======
+# Aleurodiscus bicolor Rick SPECIES
 
 #### Status
 ACCEPTED

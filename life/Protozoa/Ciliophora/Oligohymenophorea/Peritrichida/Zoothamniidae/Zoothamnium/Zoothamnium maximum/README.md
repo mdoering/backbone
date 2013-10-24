@@ -1,5 +1,4 @@
-Zoothamnium maximum Song, 1986 SPECIES
-=======
+# Zoothamnium maximum Song, 1986 SPECIES
 
 #### Status
 ACCEPTED

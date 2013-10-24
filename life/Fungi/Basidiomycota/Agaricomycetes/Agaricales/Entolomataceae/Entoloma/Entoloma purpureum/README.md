@@ -1,5 +1,4 @@
-Entoloma purpureum Petch SPECIES
-=======
+# Entoloma purpureum Petch SPECIES
 
 #### Status
 ACCEPTED

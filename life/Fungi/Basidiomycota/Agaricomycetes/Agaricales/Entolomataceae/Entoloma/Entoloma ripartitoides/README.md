@@ -1,5 +1,4 @@
-Entoloma ripartitoides E. Horak SPECIES
-=======
+# Entoloma ripartitoides E. Horak SPECIES
 
 #### Status
 ACCEPTED

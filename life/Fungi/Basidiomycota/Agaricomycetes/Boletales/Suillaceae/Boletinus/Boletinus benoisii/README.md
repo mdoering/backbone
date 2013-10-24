@@ -1,5 +1,4 @@
-Boletinus benoisii Singer SPECIES
-=======
+# Boletinus benoisii Singer SPECIES
 
 #### Status
 ACCEPTED

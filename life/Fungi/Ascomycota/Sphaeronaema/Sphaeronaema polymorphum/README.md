@@ -1,5 +1,4 @@
-Sphaeronaema polymorphum Auersw. SPECIES
-=======
+# Sphaeronaema polymorphum Auersw. SPECIES
 
 #### Status
 ACCEPTED

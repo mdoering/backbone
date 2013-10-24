@@ -1,5 +1,4 @@
-Lopadium fulgurans (Vain.) SPECIES
-=======
+# Lopadium fulgurans (Vain.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium didermatum Kabát & Bubák SPECIES
-=======
+# Leptothyrium didermatum Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

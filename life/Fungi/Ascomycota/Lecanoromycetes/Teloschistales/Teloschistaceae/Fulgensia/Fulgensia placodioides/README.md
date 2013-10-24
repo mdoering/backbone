@@ -1,5 +1,4 @@
-Fulgensia placodioides Räsänen SPECIES
-=======
+# Fulgensia placodioides Räsänen SPECIES
 
 #### Status
 ACCEPTED

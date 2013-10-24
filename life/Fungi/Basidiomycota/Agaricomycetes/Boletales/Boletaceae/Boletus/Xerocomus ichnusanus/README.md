@@ -1,5 +1,4 @@
-Xerocomus ichnusanus Alessio, Galli & Littini SPECIES
-=======
+# Xerocomus ichnusanus Alessio, Galli & Littini SPECIES
 
 #### Status
 ACCEPTED

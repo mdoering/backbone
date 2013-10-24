@@ -1,5 +1,4 @@
-Trichothecium obsisporum R.C. Cooke SPECIES
-=======
+# Trichothecium obsisporum R.C. Cooke SPECIES
 
 #### Status
 ACCEPTED

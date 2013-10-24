@@ -1,5 +1,4 @@
-Sordaria sylvatica Dasz. SPECIES
-=======
+# Sordaria sylvatica Dasz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracothecium decipiens Müll. Arg. SPECIES
-=======
+# Anthracothecium decipiens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypophloeda K.D. Hyde & E.B.G. Jones GENUS
-=======
+# Hypophloeda K.D. Hyde & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

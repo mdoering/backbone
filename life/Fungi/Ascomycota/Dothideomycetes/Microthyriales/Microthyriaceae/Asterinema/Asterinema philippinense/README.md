@@ -1,8 +1,7 @@
-Asterinema philippinensis Bat. & M.L. Farr SPECIES
-=======
+# Asterinema philippinense Bat. & M.L. Farr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterinema philippinensis Bat. & M.L. Farr
+Asterinema philippinense Bat. & M.L. Farr
 
 ### Remarks
 null

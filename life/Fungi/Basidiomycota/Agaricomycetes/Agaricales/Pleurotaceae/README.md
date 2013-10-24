@@ -1,17 +1,16 @@
-Pleurotus petalodes f. carbonarius FORM
-=======
+# Pleurotaceae Kühner FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 49: 184 (1980)
 
 #### Original name
-Pleurotus petalodes f. carbonarius
+Pleurotaceae Kühner
 
 ### Remarks
 null

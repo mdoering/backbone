@@ -1,5 +1,4 @@
-Lecidea elenkinii (Rass.) Cretz. SPECIES
-=======
+# Lecidea elenkinii (Rass.) Cretz. SPECIES
 
 #### Status
 ACCEPTED

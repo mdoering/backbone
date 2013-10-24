@@ -1,5 +1,4 @@
-Urophlyctis mouretii Maire SPECIES
-=======
+# Urophlyctis mouretii Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia rubescens (Arnold) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Arthonia rubescens (Arnold) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

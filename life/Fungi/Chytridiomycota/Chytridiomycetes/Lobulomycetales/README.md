@@ -1,5 +1,4 @@
-Lobulomycetales D.R. Simmons ORDER
-=======
+# Lobulomycetales D.R. Simmons ORDER
 
 #### Status
 ACCEPTED

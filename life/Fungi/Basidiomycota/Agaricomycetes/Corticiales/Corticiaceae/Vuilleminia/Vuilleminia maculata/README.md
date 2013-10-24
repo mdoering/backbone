@@ -1,14 +1,13 @@
-Aleurocorticium maculatum H.S. Jacks. & P.A. Lemke, 1964 SPECIES
-=======
+# Vuilleminia maculata (H.S. Jacks. & P.A. Lemke) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 42: 742 (1964)
+Consp. System. Corticiac. (Tartu) 148 (1968)
 
 #### Original name
 Aleurocorticium maculatum H.S. Jacks. & P.A. Lemke, 1964

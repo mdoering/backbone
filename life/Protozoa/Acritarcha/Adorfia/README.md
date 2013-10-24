@@ -1,5 +1,4 @@
-Adorfia C.Burmann GENUS
-=======
+# Adorfia C.Burmann GENUS
 
 #### Status
 ACCEPTED

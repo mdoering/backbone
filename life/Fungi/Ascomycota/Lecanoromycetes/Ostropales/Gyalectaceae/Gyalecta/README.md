@@ -1,17 +1,16 @@
-Phialopsis Körber, 1855 GENUS
-=======
+# Gyalecta Acharius, 1808 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. lich. germ. (Breslau) 169 (1855)
+K. svenska Vetensk-Akad. Handl. 29: 228 (1808)
 
 #### Original name
-Phialopsis Körber, 1855
+Gyalecta Acharius, 1808
 
 ### Remarks
 null

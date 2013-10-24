@@ -1,5 +1,4 @@
-Polyporus cinerellus Cooke SPECIES
-=======
+# Polyporus cinerellus Cooke SPECIES
 
 #### Status
 ACCEPTED

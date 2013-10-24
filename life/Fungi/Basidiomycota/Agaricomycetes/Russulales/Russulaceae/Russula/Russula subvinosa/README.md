@@ -1,5 +1,4 @@
-Russula subvinosa McNabb, 1973 SPECIES
-=======
+# Russula subvinosa McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

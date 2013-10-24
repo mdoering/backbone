@@ -1,5 +1,4 @@
-Macrotyphula R.H. Petersen, 1972 GENUS
-=======
+# Macrotyphula R.H. Petersen, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Involucrothele jurassica (Zschacke) Servít SPECIES
-=======
+# Involucrothele jurassica (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

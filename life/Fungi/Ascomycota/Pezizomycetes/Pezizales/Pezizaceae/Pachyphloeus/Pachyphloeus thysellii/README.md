@@ -1,5 +1,4 @@
-Pachyphloeus thysellii W. Colgan & Trappe SPECIES
-=======
+# Pachyphloeus thysellii W. Colgan & Trappe SPECIES
 
 #### Status
 ACCEPTED

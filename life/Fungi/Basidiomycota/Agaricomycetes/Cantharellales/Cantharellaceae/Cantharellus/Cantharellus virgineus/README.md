@@ -1,5 +1,4 @@
-Cantharellus virgineus (Rick) Rick SPECIES
-=======
+# Cantharellus virgineus (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

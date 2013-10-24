@@ -1,5 +1,4 @@
-Pleuropneumonia GENUS
-=======
+# Pleuropneumonia GENUS
 
 #### Status
 ACCEPTED

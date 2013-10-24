@@ -1,14 +1,13 @@
-Pseudocercospora rhapiscola (Tominaga) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora rhapisicola (Tominaga) Goh & W.H. Hsieh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Rep. China 4(2-3): 46 (1989)
 
 #### Original name
 Cercospora rhapidicola Tominaga

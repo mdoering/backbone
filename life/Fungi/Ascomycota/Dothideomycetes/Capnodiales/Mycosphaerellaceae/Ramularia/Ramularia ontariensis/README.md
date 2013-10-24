@@ -1,5 +1,4 @@
-Ramularia ontariensis Sacc. SPECIES
-=======
+# Ramularia ontariensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

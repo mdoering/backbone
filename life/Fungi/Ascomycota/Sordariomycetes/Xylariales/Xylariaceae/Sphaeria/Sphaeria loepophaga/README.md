@@ -1,5 +1,4 @@
-Sphaeria loepophaga Tul. SPECIES
-=======
+# Sphaeria loepophaga Tul. SPECIES
 
 #### Status
 ACCEPTED

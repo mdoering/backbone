@@ -1,5 +1,4 @@
-Physcia obsessa Nyl. SPECIES
-=======
+# Physcia obsessa Nyl. SPECIES
 
 #### Status
 ACCEPTED

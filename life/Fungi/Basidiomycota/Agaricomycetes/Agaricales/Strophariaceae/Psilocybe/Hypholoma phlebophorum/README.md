@@ -1,5 +1,4 @@
-Hypholoma phlebophorum (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Hypholoma phlebophorum (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

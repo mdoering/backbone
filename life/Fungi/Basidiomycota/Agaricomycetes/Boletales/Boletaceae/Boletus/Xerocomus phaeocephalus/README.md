@@ -1,5 +1,4 @@
-Xerocomus phaeocephalus (Pat. & C.F. Baker) Singer SPECIES
-=======
+# Xerocomus phaeocephalus (Pat. & C.F. Baker) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erineum alneum Pers. SPECIES
-=======
+# Erineum alneum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marinitoga okinawensis Nunoura, Oida, Miyazaki, Suzuki, Takai & Horikoshi, 2007 SPECIES
-=======
+# Marinitoga okinawensis Nunoura, Oida, Miyazaki, Suzuki, Takai & Horikoshi, 2007 SPECIES
 
 #### Status
 ACCEPTED

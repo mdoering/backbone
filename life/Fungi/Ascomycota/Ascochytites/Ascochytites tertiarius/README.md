@@ -1,5 +1,4 @@
-Ascochytites tertiarius Babajan & Tasl. SPECIES
-=======
+# Ascochytites tertiarius Babajan & Tasl. SPECIES
 
 #### Status
 ACCEPTED

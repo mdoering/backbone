@@ -1,5 +1,4 @@
-Boletus pseudogranulatus Murrill SPECIES
-=======
+# Boletus pseudogranulatus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena refuga Corner SPECIES
-=======
+# Mycena refuga Corner SPECIES
 
 #### Status
 ACCEPTED

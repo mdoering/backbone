@@ -1,5 +1,4 @@
-Puccinia oleariae McAlpine SPECIES
-=======
+# Puccinia oleariae McAlpine SPECIES
 
 #### Status
 ACCEPTED

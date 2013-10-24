@@ -1,5 +1,4 @@
-Pocillum hypophyllum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pocillum hypophyllum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

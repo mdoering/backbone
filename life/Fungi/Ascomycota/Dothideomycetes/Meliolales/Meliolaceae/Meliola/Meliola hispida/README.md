@@ -1,5 +1,4 @@
-Meliola hispida F. Stevens SPECIES
-=======
+# Meliola hispida F. Stevens SPECIES
 
 #### Status
 ACCEPTED

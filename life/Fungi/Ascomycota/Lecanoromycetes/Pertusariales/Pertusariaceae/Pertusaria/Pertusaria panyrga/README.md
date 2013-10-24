@@ -1,11 +1,10 @@
-Pertusaria panyrga var. panyrga VARIETY
-=======
+# Pertusaria panyrga (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

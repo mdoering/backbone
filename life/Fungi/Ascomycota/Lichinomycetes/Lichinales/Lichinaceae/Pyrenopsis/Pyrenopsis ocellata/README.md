@@ -1,5 +1,4 @@
-Pyrenopsis ocellata Th. Fr. SPECIES
-=======
+# Pyrenopsis ocellata Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

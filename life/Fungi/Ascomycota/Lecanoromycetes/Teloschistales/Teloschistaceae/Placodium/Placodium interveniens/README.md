@@ -1,5 +1,4 @@
-Placodium interveniens (Müll. Arg.) Szatala SPECIES
-=======
+# Placodium interveniens (Müll. Arg.) Szatala SPECIES
 
 #### Status
 ACCEPTED

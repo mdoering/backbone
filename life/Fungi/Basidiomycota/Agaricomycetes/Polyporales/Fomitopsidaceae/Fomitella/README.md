@@ -1,5 +1,4 @@
-Fomitella Murrill, 1905 GENUS
-=======
+# Fomitella Murrill, 1905 GENUS
 
 #### Status
 ACCEPTED

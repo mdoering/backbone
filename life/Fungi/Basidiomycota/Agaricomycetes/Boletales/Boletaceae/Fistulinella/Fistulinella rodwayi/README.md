@@ -1,14 +1,13 @@
-Boletus rodwayi Massee, 1899 SPECIES
-=======
+# Fistulinella rodwayi (Massee) Watling, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 179 (1899)
+in Watling & Gregory, Proc. R. Soc. Qd. 100: 18 (1989)
 
 #### Original name
 Boletus rodwayi Massee, 1899

@@ -1,5 +1,4 @@
-Buellia microplaca (Vain.) Erichsen SPECIES
-=======
+# Buellia microplaca (Vain.) Erichsen SPECIES
 
 #### Status
 ACCEPTED

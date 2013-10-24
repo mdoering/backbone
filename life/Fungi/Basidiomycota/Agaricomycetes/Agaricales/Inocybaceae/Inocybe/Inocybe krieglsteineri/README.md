@@ -1,17 +1,16 @@
-Inocybe krieglsteinerii Fern. Sas. SPECIES
-=======
+# Inocybe krieglsteineri Fern. Sas. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 120(1-4): 180 (2005)
 
 #### Original name
-Inocybe krieglsteinerii Fern. Sas.
+Inocybe krieglsteineri Fern. Sas.
 
 ### Remarks
 null

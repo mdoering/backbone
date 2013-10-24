@@ -1,5 +1,4 @@
-Monochaetites Babajan & Tasl. GENUS
-=======
+# Monochaetites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus neidei Nakamura et al., 2002 SPECIES
-=======
+# Bacillus neidei Nakamura et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoclathrus cylindrosporus B. Liu & Y.S. Bau, 1980 SPECIES
-=======
+# Pseudoclathrus cylindrosporus B. Liu & Y.S. Bau, 1980 SPECIES
 
 #### Status
 ACCEPTED

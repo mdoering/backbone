@@ -1,5 +1,4 @@
-Beauveria dermaptera ined. SPECIES
-=======
+# Beauveria dermaptera ined. SPECIES
 
 #### Status
 ACCEPTED

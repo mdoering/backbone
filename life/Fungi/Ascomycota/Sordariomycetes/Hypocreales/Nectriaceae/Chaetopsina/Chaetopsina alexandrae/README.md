@@ -1,5 +1,4 @@
-Chaetopsina alexandrae Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Chaetopsina alexandrae Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

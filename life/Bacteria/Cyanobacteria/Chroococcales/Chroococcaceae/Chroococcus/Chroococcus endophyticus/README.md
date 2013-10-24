@@ -1,5 +1,4 @@
-Chroococcus endophyticus Copeland SPECIES
-=======
+# Chroococcus endophyticus Copeland SPECIES
 
 #### Status
 ACCEPTED

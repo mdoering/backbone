@@ -1,5 +1,4 @@
-Gnomonia rosae Fuckel, 1870 SPECIES
-=======
+# Gnomonia rosae Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellinia korfiana W.Y. Zhuang SPECIES
-=======
+# Scutellinia korfiana W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

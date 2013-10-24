@@ -1,5 +1,4 @@
-Curvibasidium cygneicollum J.P. Samp., 2004 SPECIES
-=======
+# Curvibasidium cygneicollum J.P. Samp., 2004 SPECIES
 
 #### Status
 ACCEPTED

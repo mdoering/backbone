@@ -1,5 +1,4 @@
-Rosalinotruncana Korchagin, 1982 GENUS
-=======
+# Rosalinotruncana Korchagin, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium perigynosum Sparrow SPECIES
-=======
+# Pythium perigynosum Sparrow SPECIES
 
 #### Status
 ACCEPTED

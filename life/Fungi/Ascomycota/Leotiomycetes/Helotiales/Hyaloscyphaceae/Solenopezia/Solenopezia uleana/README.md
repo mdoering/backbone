@@ -1,5 +1,4 @@
-Solenopezia uleana Rehm SPECIES
-=======
+# Solenopezia uleana Rehm SPECIES
 
 #### Status
 ACCEPTED

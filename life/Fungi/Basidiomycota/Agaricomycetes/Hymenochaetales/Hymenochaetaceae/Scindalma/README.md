@@ -1,5 +1,4 @@
-Scindalma GENUS
-=======
+# Scindalma GENUS
 
 #### Status
 ACCEPTED

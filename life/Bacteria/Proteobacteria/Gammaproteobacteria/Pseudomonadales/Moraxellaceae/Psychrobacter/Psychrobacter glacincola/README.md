@@ -1,5 +1,4 @@
-Psychrobacter glacincola Bowman et al., 1997 SPECIES
-=======
+# Psychrobacter glacincola Bowman et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

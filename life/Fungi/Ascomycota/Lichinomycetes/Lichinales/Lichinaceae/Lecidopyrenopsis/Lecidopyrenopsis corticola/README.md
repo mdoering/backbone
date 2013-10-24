@@ -1,5 +1,4 @@
-Lecidopyrenopsis corticola Vain. SPECIES
-=======
+# Lecidopyrenopsis corticola Vain. SPECIES
 
 #### Status
 ACCEPTED

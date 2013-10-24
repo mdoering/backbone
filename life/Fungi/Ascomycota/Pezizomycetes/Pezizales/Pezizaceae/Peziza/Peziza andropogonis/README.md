@@ -1,5 +1,4 @@
-Peziza andropogonis Berk. & M.A. Curtis SPECIES
-=======
+# Peziza andropogonis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus verticolor Berk. & Broome SPECIES
-=======
+# Agaricus verticolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

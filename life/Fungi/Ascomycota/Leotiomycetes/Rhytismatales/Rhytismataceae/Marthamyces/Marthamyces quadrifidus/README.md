@@ -1,17 +1,16 @@
-Stictis foliicola Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Marthamyces quadrifidus (Lév.) Minter, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 371 (1868)
+Mycotaxon 87: 52 (2003)
 
 #### Original name
-Stictis foliicola Berk. & M.A. Curtis, 1868
+Stictis quadrifida Lév., 1846
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyphella cuticulosa (Dicks.) Berk. SPECIES
-=======
+# Cyphella cuticulosa (Dicks.) Berk. SPECIES
 
 #### Status
 ACCEPTED

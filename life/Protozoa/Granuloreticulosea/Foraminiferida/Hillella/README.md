@@ -1,5 +1,4 @@
-Hillella Palmieri, 1994 GENUS
-=======
+# Hillella Palmieri, 1994 GENUS
 
 #### Status
 ACCEPTED

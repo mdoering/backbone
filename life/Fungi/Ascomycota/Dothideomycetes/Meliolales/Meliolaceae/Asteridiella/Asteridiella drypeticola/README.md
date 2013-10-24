@@ -1,5 +1,4 @@
-Asteridiella drypeticola Hansf. SPECIES
-=======
+# Asteridiella drypeticola Hansf. SPECIES
 
 #### Status
 ACCEPTED

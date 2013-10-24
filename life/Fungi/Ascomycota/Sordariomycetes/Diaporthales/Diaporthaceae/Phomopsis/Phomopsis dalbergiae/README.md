@@ -1,5 +1,4 @@
-Phomopsis dalbergiae Sacc. SPECIES
-=======
+# Phomopsis dalbergiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

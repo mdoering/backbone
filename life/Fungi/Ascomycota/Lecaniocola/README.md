@@ -1,5 +1,4 @@
-Lecaniocola Brain GENUS
-=======
+# Lecaniocola Brain GENUS
 
 #### Status
 ACCEPTED

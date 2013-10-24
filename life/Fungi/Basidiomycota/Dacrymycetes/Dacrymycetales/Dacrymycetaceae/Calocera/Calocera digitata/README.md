@@ -1,5 +1,4 @@
-Calocera digitata Cooke & Massee SPECIES
-=======
+# Calocera digitata Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

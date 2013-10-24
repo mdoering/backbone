@@ -1,5 +1,4 @@
-Sporidesmium suffultum Pound & Clem. SPECIES
-=======
+# Sporidesmium suffultum Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

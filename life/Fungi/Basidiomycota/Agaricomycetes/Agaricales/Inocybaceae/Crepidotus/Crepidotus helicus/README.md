@@ -1,5 +1,4 @@
-Crepidotus helicus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus helicus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

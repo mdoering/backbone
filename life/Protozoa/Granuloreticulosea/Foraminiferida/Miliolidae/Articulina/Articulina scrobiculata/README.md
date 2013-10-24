@@ -1,5 +1,4 @@
-Articulina scrobiculata SPECIES
-=======
+# Articulina scrobiculata SPECIES
 
 #### Status
 ACCEPTED

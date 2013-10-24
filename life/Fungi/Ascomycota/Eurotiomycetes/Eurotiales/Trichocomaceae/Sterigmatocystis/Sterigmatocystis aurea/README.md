@@ -1,5 +1,4 @@
-Sterigmatocystis aurea Greco SPECIES
-=======
+# Sterigmatocystis aurea Greco SPECIES
 
 #### Status
 ACCEPTED

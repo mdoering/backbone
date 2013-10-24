@@ -1,5 +1,4 @@
-Melanogaster umbrinigleba Trappe & Guzmán SPECIES
-=======
+# Melanogaster umbrinigleba Trappe & Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria zosta Nyl. SPECIES
-=======
+# Verrucaria zosta Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula ventricosipes Peck SPECIES
-=======
+# Russula ventricosipes Peck SPECIES
 
 #### Status
 ACCEPTED

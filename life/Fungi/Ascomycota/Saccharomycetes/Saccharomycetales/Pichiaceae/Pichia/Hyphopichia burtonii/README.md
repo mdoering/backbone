@@ -1,17 +1,16 @@
-Cladosporium chodati (Nechitsche) Sacc. & Traverso SPECIES
-=======
+# Hyphopichia burtonii (Boidin, Pignal, Lehodey, Vey & Abadie) Arx & Van der Walt, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 42(3): 310 (1976)
 
 #### Original name
-Dematium chodatii Nechitsche, 1904
+Pichia burtonii Boidin, Pignal, Lehodey, Vey & Abadie, 1965
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Gyalideopsis poeltii Vezda SPECIES
-=======
+# Lithogyalideopsis poeltii (Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mitt. bot. StSamml. , Münch. 19: 155 (1983)
+Lichenologist 37(2): 165 (2005)
 
 #### Original name
 Gyalideopsis poeltii Vezda

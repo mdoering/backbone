@@ -1,5 +1,4 @@
-Melampylidium GENUS
-=======
+# Melampylidium GENUS
 
 #### Status
 ACCEPTED

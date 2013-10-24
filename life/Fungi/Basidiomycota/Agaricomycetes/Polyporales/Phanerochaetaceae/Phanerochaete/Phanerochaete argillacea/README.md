@@ -1,5 +1,4 @@
-Phanerochaete argillacea Sheng H. Wu SPECIES
-=======
+# Phanerochaete argillacea Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

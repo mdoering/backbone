@@ -1,5 +1,4 @@
-Fusarium hostae Geiser & Juba SPECIES
-=======
+# Fusarium hostae Geiser & Juba SPECIES
 
 #### Status
 ACCEPTED

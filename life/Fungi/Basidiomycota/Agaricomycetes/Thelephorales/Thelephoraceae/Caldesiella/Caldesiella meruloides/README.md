@@ -1,5 +1,4 @@
-Caldesiella meruloides Beeli SPECIES
-=======
+# Caldesiella meruloides Beeli SPECIES
 
 #### Status
 ACCEPTED

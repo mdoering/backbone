@@ -1,5 +1,4 @@
-Stilbodendron cervinum (Cooke & Massee) Samson & Seifert SPECIES
-=======
+# Stilbodendron cervinum (Cooke & Massee) Samson & Seifert SPECIES
 
 #### Status
 ACCEPTED

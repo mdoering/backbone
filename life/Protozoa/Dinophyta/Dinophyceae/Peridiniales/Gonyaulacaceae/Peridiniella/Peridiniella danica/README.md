@@ -1,8 +1,7 @@
-Glenodinium danicum Paulsen SPECIES
-=======
+# Peridiniella danica (Paulsen) Y. B. Okolodkov & J. D. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

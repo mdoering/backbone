@@ -1,5 +1,4 @@
-Chrysiogenetes PHYLUM
-=======
+# Chrysiogenetes PHYLUM
 
 #### Status
 ACCEPTED

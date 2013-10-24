@@ -1,5 +1,4 @@
-Psathyrella mucosa Z.S. Bi SPECIES
-=======
+# Psathyrella mucosa Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

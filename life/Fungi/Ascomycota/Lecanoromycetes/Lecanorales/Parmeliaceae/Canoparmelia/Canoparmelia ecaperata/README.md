@@ -1,5 +1,4 @@
-Canoparmelia ecaperata (Müll. Arg.) Elix & Hale SPECIES
-=======
+# Canoparmelia ecaperata (Müll. Arg.) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED

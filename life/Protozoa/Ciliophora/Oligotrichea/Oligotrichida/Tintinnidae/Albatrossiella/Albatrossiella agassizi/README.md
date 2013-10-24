@@ -1,5 +1,4 @@
-Albatrossiella agassizi Kofoid & Campbell, 1929 SPECIES
-=======
+# Albatrossiella agassizi Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius pinastri Kauffman SPECIES
-=======
+# Marasmius pinastri Kauffman SPECIES
 
 #### Status
 ACCEPTED

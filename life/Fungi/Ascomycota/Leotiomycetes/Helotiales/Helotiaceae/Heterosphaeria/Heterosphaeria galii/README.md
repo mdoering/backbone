@@ -1,5 +1,4 @@
-Heterosphaeria galii Gucevic SPECIES
-=======
+# Heterosphaeria galii Gucevic SPECIES
 
 #### Status
 ACCEPTED

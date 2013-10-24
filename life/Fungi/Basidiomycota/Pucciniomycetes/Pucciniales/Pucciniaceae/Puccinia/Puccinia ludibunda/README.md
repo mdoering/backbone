@@ -1,5 +1,4 @@
-Puccinia ludibunda Ellis & Everh. SPECIES
-=======
+# Puccinia ludibunda Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis singaporina Nyl. SPECIES
-=======
+# Graphis singaporina Nyl. SPECIES
 
 #### Status
 ACCEPTED

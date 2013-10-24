@@ -1,5 +1,4 @@
-Didymochrysis Pascher, 1929 GENUS
-=======
+# Didymochrysis Pascher, 1929 GENUS
 
 #### Status
 ACCEPTED

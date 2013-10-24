@@ -1,5 +1,4 @@
-Clathrocanium Ehrenberg, 1860 GENUS
-=======
+# Clathrocanium Ehrenberg, 1860 GENUS
 
 #### Status
 ACCEPTED

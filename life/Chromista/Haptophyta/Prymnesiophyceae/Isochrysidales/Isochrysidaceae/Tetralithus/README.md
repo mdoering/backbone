@@ -1,5 +1,4 @@
-Tetralithus M.Gardet, 1955 GENUS
-=======
+# Tetralithus M.Gardet, 1955 GENUS
 
 #### Status
 ACCEPTED

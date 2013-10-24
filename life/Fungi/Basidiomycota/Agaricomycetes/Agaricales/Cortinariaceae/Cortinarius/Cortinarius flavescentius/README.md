@@ -1,5 +1,4 @@
-Cortinarius flavescentius Rob. Henry SPECIES
-=======
+# Cortinarius flavescentius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

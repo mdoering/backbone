@@ -1,5 +1,4 @@
-Aposphaeria alpiniae Massee SPECIES
-=======
+# Aposphaeria alpiniae Massee SPECIES
 
 #### Status
 ACCEPTED

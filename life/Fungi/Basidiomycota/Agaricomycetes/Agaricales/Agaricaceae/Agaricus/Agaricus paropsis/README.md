@@ -1,5 +1,4 @@
-Agaricus paropsis Fr. SPECIES
-=======
+# Agaricus paropsis Fr. SPECIES
 
 #### Status
 ACCEPTED

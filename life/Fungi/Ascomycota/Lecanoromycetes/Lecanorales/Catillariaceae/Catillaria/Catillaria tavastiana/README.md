@@ -1,5 +1,4 @@
-Catillaria tavastiana H. Magn. SPECIES
-=======
+# Catillaria tavastiana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

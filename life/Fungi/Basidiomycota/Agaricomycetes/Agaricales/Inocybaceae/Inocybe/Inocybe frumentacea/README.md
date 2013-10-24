@@ -1,5 +1,4 @@
-Inocybe frumentacea (Lam. & DC.) Bres. SPECIES
-=======
+# Inocybe frumentacea (Lam. & DC.) Bres. SPECIES
 
 #### Status
 ACCEPTED

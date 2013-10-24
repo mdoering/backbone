@@ -1,5 +1,4 @@
-Meliola miconiicola F. Stevens SPECIES
-=======
+# Meliola miconiicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

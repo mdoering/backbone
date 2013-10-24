@@ -1,5 +1,4 @@
-Passerinula rubescens Rehm SPECIES
-=======
+# Passerinula rubescens Rehm SPECIES
 
 #### Status
 ACCEPTED

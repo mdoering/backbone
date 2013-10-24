@@ -1,5 +1,4 @@
-Calonectria clavata Alfieri, El-Gholl & E.L. Barnard SPECIES
-=======
+# Calonectria clavata Alfieri, El-Gholl & E.L. Barnard SPECIES
 
 #### Status
 ACCEPTED

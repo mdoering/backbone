@@ -1,5 +1,4 @@
-Agaricus nodosus With. SPECIES
-=======
+# Agaricus nodosus With. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromosporium agaricinum P. Karst. SPECIES
-=======
+# Chromosporium agaricinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

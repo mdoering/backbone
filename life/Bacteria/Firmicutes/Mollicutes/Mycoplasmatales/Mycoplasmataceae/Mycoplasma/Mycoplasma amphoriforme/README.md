@@ -1,5 +1,4 @@
-Mycoplasma amphoriforme Pitcher et al., 2005 SPECIES
-=======
+# Mycoplasma amphoriforme Pitcher et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

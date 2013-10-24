@@ -1,5 +1,4 @@
-Hypholoma vilorianum Dennis SPECIES
-=======
+# Hypholoma vilorianum Dennis SPECIES
 
 #### Status
 ACCEPTED

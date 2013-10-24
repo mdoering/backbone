@@ -1,5 +1,4 @@
-Cortinarius spadiceus Fr. SPECIES
-=======
+# Cortinarius spadiceus Fr. SPECIES
 
 #### Status
 ACCEPTED

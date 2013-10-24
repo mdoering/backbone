@@ -1,5 +1,4 @@
-Leptonia fuliginodisca (Hesler) Largent SPECIES
-=======
+# Leptonia fuliginodisca (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

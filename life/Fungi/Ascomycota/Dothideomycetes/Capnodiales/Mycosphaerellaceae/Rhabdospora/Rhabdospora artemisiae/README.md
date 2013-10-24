@@ -1,5 +1,4 @@
-Rhabdospora artemisiae Trail SPECIES
-=======
+# Rhabdospora artemisiae Trail SPECIES
 
 #### Status
 ACCEPTED

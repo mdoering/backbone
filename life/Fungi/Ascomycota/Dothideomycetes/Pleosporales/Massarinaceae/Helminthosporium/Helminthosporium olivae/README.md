@@ -1,5 +1,4 @@
-Helminthosporium olivae Thüm. SPECIES
-=======
+# Helminthosporium olivae Thüm. SPECIES
 
 #### Status
 ACCEPTED

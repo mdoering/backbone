@@ -1,5 +1,4 @@
-Macrosporium zygophylli Lobik SPECIES
-=======
+# Macrosporium zygophylli Lobik SPECIES
 
 #### Status
 ACCEPTED

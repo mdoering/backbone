@@ -1,5 +1,4 @@
-Sclerotinia veselyi Pilát & Svrcek SPECIES
-=======
+# Sclerotinia veselyi Pilát & Svrcek SPECIES
 
 #### Status
 ACCEPTED

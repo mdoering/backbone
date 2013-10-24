@@ -1,5 +1,4 @@
-Kozakia baliensis Lisdiyanti et al., 2002 SPECIES
-=======
+# Kozakia baliensis Lisdiyanti et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

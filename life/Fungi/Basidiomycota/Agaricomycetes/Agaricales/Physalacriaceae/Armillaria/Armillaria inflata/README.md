@@ -1,5 +1,4 @@
-Armillaria inflata Velen. SPECIES
-=======
+# Armillaria inflata Velen. SPECIES
 
 #### Status
 ACCEPTED

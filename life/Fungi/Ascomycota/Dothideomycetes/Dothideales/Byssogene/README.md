@@ -1,5 +1,4 @@
-Byssogene Syd. GENUS
-=======
+# Byssogene Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alexandrium satoanum K. Yuki & Y. Fukuyo SPECIES
-=======
+# Alexandrium satoanum K. Yuki & Y. Fukuyo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Heptameria solani (Romell ex Berl) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria solani Romell ex Berl., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 15(1): 164 (1991)
 
 #### Original name
-null
+Leptosphaeria solani Romell ex Berl., 1890
 
 ### Remarks
 null

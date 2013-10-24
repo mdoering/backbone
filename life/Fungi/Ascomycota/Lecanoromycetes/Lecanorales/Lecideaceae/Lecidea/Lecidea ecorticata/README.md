@@ -1,5 +1,4 @@
-Lecidea ecorticata C.W. Dodge & G.E. Baker SPECIES
-=======
+# Lecidea ecorticata C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

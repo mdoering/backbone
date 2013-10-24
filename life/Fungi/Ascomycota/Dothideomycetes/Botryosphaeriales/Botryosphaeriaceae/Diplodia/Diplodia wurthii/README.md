@@ -1,5 +1,4 @@
-Diplodia wurthii Koord. SPECIES
-=======
+# Diplodia wurthii Koord. SPECIES
 
 #### Status
 ACCEPTED

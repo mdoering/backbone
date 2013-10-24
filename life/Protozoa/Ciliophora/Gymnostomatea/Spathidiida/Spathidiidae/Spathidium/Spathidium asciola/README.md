@@ -1,5 +1,4 @@
-Spathidium asciola Kahl, 1930 SPECIES
-=======
+# Spathidium asciola Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

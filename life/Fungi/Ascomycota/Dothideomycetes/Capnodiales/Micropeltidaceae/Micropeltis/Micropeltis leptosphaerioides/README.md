@@ -1,5 +1,4 @@
-Micropeltis leptosphaerioides Speg. SPECIES
-=======
+# Micropeltis leptosphaerioides Speg. SPECIES
 
 #### Status
 ACCEPTED

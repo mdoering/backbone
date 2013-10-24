@@ -1,5 +1,4 @@
-Arthopyrenia lichenum Arnold SPECIES
-=======
+# Arthopyrenia lichenum Arnold SPECIES
 
 #### Status
 ACCEPTED

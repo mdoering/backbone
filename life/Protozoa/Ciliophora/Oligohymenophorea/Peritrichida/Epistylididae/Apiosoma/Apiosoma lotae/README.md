@@ -1,5 +1,4 @@
-Apiosoma lotae SPECIES
-=======
+# Apiosoma lotae SPECIES
 
 #### Status
 ACCEPTED

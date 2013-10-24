@@ -1,5 +1,4 @@
-Chaetosphaerites bilychnis Félix SPECIES
-=======
+# Chaetosphaerites bilychnis Félix SPECIES
 
 #### Status
 ACCEPTED

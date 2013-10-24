@@ -1,5 +1,4 @@
-Physisporinus resinosus Ipulet & Ryvarden, 2005 SPECIES
-=======
+# Physisporinus resinosus Ipulet & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

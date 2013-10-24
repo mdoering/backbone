@@ -1,5 +1,4 @@
-Lycoperdon parasiticum With. SPECIES
-=======
+# Lycoperdon parasiticum With. SPECIES
 
 #### Status
 ACCEPTED

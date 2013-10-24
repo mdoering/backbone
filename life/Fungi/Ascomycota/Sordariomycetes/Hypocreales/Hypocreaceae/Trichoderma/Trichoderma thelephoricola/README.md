@@ -1,5 +1,4 @@
-Trichoderma thelephoricola P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma thelephoricola P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

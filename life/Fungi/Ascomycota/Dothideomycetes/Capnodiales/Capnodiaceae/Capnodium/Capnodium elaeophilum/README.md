@@ -1,5 +1,4 @@
-Capnodium elaeophilum Prill. SPECIES
-=======
+# Capnodium elaeophilum Prill. SPECIES
 
 #### Status
 ACCEPTED

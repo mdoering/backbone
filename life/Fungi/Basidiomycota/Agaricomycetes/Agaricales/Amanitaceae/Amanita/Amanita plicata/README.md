@@ -1,5 +1,4 @@
-Amanita plicata Lam. SPECIES
-=======
+# Amanita plicata Lam. SPECIES
 
 #### Status
 ACCEPTED

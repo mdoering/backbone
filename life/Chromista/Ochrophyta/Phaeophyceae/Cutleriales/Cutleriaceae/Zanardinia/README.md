@@ -1,5 +1,4 @@
-Zanardinia G.D. Nardo ex P.L. Crouan & H.M. Crouan, 1857 GENUS
-=======
+# Zanardinia G.D. Nardo ex P.L. Crouan & H.M. Crouan, 1857 GENUS
 
 #### Status
 ACCEPTED

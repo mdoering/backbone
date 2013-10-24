@@ -1,5 +1,4 @@
-Laboulbenia deltomeri Maire SPECIES
-=======
+# Laboulbenia deltomeri Maire SPECIES
 
 #### Status
 ACCEPTED

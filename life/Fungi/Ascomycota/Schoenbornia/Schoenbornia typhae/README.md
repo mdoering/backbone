@@ -1,5 +1,4 @@
-Schoenbornia typhae (Peck) B. Sutton SPECIES
-=======
+# Schoenbornia typhae (Peck) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrocystis mycophila (Fr.) Teng SPECIES
-=======
+# Astrocystis mycophila (Fr.) Teng SPECIES
 
 #### Status
 ACCEPTED

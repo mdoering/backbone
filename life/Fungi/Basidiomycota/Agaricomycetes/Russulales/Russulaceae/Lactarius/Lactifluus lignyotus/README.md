@@ -1,5 +1,4 @@
-Lactifluus lignyotus (Fr.) Kuntze SPECIES
-=======
+# Lactifluus lignyotus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

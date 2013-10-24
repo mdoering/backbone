@@ -1,5 +1,4 @@
-Ramularia coccinea (Fuckel) Vestergr., 1899 SPECIES
-=======
+# Ramularia coccinea (Fuckel) Vestergr., 1899 SPECIES
 
 #### Status
 ACCEPTED

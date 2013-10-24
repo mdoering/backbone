@@ -1,5 +1,4 @@
-Naemaspora glabra Roth SPECIES
-=======
+# Naemaspora glabra Roth SPECIES
 
 #### Status
 ACCEPTED

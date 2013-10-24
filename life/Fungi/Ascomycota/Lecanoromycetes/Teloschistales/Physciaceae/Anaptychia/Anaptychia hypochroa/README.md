@@ -1,5 +1,4 @@
-Anaptychia hypochroa SPECIES
-=======
+# Anaptychia hypochroa SPECIES
 
 #### Status
 ACCEPTED

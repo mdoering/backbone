@@ -1,5 +1,4 @@
-Lepiota australis Z.S. Bi SPECIES
-=======
+# Lepiota australis Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callopisma subfulgescens (Nyl.) Malme SPECIES
-=======
+# Callopisma subfulgescens (Nyl.) Malme SPECIES
 
 #### Status
 ACCEPTED

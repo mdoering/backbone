@@ -1,5 +1,4 @@
-Cortinarius benovairensis Mahiques SPECIES
-=======
+# Cortinarius benovairensis Mahiques SPECIES
 
 #### Status
 ACCEPTED

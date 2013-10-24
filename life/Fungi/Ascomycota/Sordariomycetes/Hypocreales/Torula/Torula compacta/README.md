@@ -1,5 +1,4 @@
-Torula compacta (Wallr.) Fuckel SPECIES
-=======
+# Torula compacta (Wallr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

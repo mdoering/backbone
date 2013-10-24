@@ -1,5 +1,4 @@
-Erysiphe takamatsui Y. Nomura SPECIES
-=======
+# Erysiphe takamatsui Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

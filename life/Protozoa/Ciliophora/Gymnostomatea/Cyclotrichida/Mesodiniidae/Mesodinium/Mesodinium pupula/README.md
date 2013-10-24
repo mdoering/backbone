@@ -1,5 +1,4 @@
-Mesodinium pupula Kahl, 1933 SPECIES
-=======
+# Mesodinium pupula Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

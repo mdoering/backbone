@@ -1,5 +1,4 @@
-Polyschema yakuense Matsush., 1975 SPECIES
-=======
+# Polyschema yakuense Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

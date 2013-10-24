@@ -1,5 +1,4 @@
-Graphis trabeata Vain. SPECIES
-=======
+# Graphis trabeata Vain. SPECIES
 
 #### Status
 ACCEPTED

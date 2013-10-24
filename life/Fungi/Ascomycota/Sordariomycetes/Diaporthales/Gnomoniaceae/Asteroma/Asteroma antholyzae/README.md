@@ -1,5 +1,4 @@
-Asteroma antholyzae Sacc. SPECIES
-=======
+# Asteroma antholyzae Sacc. SPECIES
 
 #### Status
 ACCEPTED

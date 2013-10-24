@@ -1,5 +1,4 @@
-Hypoxylon coenops Berk. SPECIES
-=======
+# Hypoxylon coenops Berk. SPECIES
 
 #### Status
 ACCEPTED

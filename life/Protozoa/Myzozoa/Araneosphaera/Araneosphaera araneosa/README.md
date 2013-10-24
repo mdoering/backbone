@@ -1,5 +1,4 @@
-Araneosphaera araneosa Eaton, 1976 SPECIES
-=======
+# Araneosphaera araneosa Eaton, 1976 SPECIES
 
 #### Status
 ACCEPTED

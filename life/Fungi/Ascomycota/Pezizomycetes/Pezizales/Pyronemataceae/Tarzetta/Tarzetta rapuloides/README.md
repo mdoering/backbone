@@ -1,5 +1,4 @@
-Tarzetta rapuloides Rehm SPECIES
-=======
+# Tarzetta rapuloides Rehm SPECIES
 
 #### Status
 ACCEPTED

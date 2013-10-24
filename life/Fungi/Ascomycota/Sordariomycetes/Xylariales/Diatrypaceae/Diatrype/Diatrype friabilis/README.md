@@ -1,5 +1,4 @@
-Diatrype friabilis (Pers.) Cooke SPECIES
-=======
+# Diatrype friabilis (Pers.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporothrix nivea Kreisel & Schaver, 1985 SPECIES
-=======
+# Sporothrix nivea Kreisel & Schaver, 1985 SPECIES
 
 #### Status
 ACCEPTED

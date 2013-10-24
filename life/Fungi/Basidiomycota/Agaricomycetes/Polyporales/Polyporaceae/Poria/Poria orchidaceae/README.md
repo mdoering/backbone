@@ -1,5 +1,4 @@
-Poria orchidaceae Lloyd SPECIES
-=======
+# Poria orchidaceae Lloyd SPECIES
 
 #### Status
 ACCEPTED

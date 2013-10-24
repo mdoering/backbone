@@ -1,5 +1,4 @@
-Asterina indecora Syd., 1927 SPECIES
-=======
+# Asterina indecora Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

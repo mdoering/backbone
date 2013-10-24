@@ -1,5 +1,4 @@
-Haplosporidium costalis SPECIES
-=======
+# Haplosporidium costalis SPECIES
 
 #### Status
 ACCEPTED

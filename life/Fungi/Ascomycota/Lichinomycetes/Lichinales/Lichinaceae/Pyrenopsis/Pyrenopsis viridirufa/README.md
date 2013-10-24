@@ -1,5 +1,4 @@
-Pyrenopsis viridirufa (Tuck.) Tuck. SPECIES
-=======
+# Pyrenopsis viridirufa (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria coleosanthi Fairm. SPECIES
-=======
+# Leptosphaeria coleosanthi Fairm. SPECIES
 
 #### Status
 ACCEPTED

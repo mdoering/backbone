@@ -1,5 +1,4 @@
-Brooksia Hansford, 1956 GENUS
-=======
+# Brooksia Hansford, 1956 GENUS
 
 #### Status
 ACCEPTED

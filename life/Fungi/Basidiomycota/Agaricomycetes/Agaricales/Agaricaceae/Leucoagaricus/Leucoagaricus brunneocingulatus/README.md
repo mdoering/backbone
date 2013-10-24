@@ -1,14 +1,13 @@
-Lepiota brunneocingulata P.D. Orton, 1960 SPECIES
-=======
+# Leucoagaricus brunneocingulatus (P.D. Orton) Bon, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 282 (1960)
+Docums Mycol. 6(no. 24): 44 (1976)
 
 #### Original name
 Lepiota brunneocingulata P.D. Orton, 1960

@@ -1,5 +1,4 @@
-Desulfovibrio longus Magot et al., 1992 SPECIES
-=======
+# Desulfovibrio longus Magot et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

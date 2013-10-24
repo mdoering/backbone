@@ -1,5 +1,4 @@
-Lecidea acclinoides Nyl. SPECIES
-=======
+# Lecidea acclinoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex pityreus Berk. & M.A. Curtis SPECIES
-=======
+# Irpex pityreus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

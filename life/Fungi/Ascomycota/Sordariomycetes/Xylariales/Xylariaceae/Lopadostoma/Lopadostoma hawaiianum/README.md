@@ -1,5 +1,4 @@
-Lopadostoma hawaiianum J.D. Rogers & Y.M. Ju, 2002 SPECIES
-=======
+# Lopadostoma hawaiianum J.D. Rogers & Y.M. Ju, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaena delicatula Lemmermann SPECIES
-=======
+# Anabaena delicatula Lemmermann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphium irradians Petr., 1950 SPECIES
-=======
+# Graphium irradians Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

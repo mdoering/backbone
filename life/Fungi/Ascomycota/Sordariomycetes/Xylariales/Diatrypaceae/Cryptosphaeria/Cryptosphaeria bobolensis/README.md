@@ -1,5 +1,4 @@
-Cryptosphaeria bobolensis De Not. SPECIES
-=======
+# Cryptosphaeria bobolensis De Not. SPECIES
 
 #### Status
 ACCEPTED

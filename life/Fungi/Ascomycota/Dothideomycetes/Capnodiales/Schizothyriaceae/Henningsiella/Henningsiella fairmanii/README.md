@@ -1,8 +1,7 @@
-Henningsiella fairmani Rehm SPECIES
-=======
+# Henningsiella fairmanii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Henningsiella fairmani Rehm
+Henningsiella fairmanii Rehm
 
 ### Remarks
 null

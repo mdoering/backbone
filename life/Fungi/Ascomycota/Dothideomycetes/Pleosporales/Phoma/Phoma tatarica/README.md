@@ -1,5 +1,4 @@
-Phoma tatarica Allesch. SPECIES
-=======
+# Phoma tatarica Allesch. SPECIES
 
 #### Status
 ACCEPTED

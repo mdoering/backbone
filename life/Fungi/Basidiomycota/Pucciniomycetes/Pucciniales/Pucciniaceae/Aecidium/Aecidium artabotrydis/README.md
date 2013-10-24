@@ -1,5 +1,4 @@
-Aecidium artabotrydis Thaung SPECIES
-=======
+# Aecidium artabotrydis Thaung SPECIES
 
 #### Status
 ACCEPTED

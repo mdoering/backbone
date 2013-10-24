@@ -1,5 +1,4 @@
-Tolypothrix chungii Gardner SPECIES
-=======
+# Tolypothrix chungii Gardner SPECIES
 
 #### Status
 ACCEPTED

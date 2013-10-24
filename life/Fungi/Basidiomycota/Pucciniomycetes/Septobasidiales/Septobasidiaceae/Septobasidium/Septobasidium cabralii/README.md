@@ -1,5 +1,4 @@
-Septobasidium cabralii Torrend SPECIES
-=======
+# Septobasidium cabralii Torrend SPECIES
 
 #### Status
 ACCEPTED

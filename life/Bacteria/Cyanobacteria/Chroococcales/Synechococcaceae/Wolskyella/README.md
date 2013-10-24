@@ -1,5 +1,4 @@
-Wolskyella Claus, 1963 GENUS
-=======
+# Wolskyella Claus, 1963 GENUS
 
 #### Status
 ACCEPTED

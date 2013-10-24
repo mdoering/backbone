@@ -1,5 +1,4 @@
-Lophiostoma desertorum Kravtzev SPECIES
-=======
+# Lophiostoma desertorum Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeromonas maxima E. Liebet. SPECIES
-=======
+# Sphaeromonas maxima E. Liebet. SPECIES
 
 #### Status
 ACCEPTED

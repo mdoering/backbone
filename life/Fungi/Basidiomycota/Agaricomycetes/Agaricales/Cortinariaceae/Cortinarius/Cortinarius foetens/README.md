@@ -1,5 +1,4 @@
-Cortinarius foetens (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius foetens (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

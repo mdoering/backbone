@@ -1,5 +1,4 @@
-Garciamyxa rhizaspiformis B.V. Skvortzov SPECIES
-=======
+# Garciamyxa rhizaspiformis B.V. Skvortzov SPECIES
 
 #### Status
 ACCEPTED

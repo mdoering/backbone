@@ -1,14 +1,13 @@
-Eudimeriolum trichophilum (Syd.) Hansf., 1946 SPECIES
-=======
+# Episphaerella trichophila Syd., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 15: 50 (1946)
+Annls mycol. 24(5/6): 334 (1926)
 
 #### Original name
 Episphaerella trichophila Syd., 1926

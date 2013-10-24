@@ -1,5 +1,4 @@
-Clavaria splendidula S. Imai SPECIES
-=======
+# Clavaria splendidula S. Imai SPECIES
 
 #### Status
 ACCEPTED

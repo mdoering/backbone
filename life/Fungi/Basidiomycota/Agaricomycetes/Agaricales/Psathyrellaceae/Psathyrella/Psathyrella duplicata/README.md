@@ -1,5 +1,4 @@
-Psathyrella duplicata A.H. Sm. SPECIES
-=======
+# Psathyrella duplicata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea aequabilis Malme SPECIES
-=======
+# Lecidea aequabilis Malme SPECIES
 
 #### Status
 ACCEPTED

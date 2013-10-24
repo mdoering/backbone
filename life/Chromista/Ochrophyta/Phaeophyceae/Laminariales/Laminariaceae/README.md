@@ -1,5 +1,4 @@
-Laminariaceae Bory, 1827 FAMILY
-=======
+# Laminariaceae Bory, 1827 FAMILY
 
 #### Status
 ACCEPTED

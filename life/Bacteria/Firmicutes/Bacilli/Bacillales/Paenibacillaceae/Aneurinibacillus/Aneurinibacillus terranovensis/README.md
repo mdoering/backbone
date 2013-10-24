@@ -1,5 +1,4 @@
-Aneurinibacillus terranovensis Allan et al., 2005 SPECIES
-=======
+# Aneurinibacillus terranovensis Allan et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

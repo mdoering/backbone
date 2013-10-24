@@ -1,5 +1,4 @@
-Xyloma caricinum Fr. SPECIES
-=======
+# Xyloma caricinum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lempholemma silicicola H. Magn. SPECIES
-=======
+# Lempholemma silicicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

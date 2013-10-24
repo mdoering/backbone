@@ -1,17 +1,16 @@
-Gonytrichum caesium var. caesium Nees VARIETY
-=======
+# Chaetosphaeria inaequalis (Grove ex Berl. & Voglino) W. Gams & Hol.-Jech., 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta Acad. Leop. Carol. Ac. Naturf. Fo. 9: 244 (1818)
+Stud. Mycol. 13: 79 (1976)
 
 #### Original name
-Gonytrichum caesium var. caesium Nees
+Eriosphaeria inaequalis Grove, 1886
 
 ### Remarks
 null

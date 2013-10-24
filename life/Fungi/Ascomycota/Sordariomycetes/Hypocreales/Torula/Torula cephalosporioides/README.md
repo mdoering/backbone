@@ -1,5 +1,4 @@
-Torula cephalosporioides J.F.H. Beyma SPECIES
-=======
+# Torula cephalosporioides J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

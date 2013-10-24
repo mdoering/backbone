@@ -1,5 +1,4 @@
-Ramalina tortuosa Krog & Østh. SPECIES
-=======
+# Ramalina tortuosa Krog & Østh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryodiscus arctoalpinus Döbbeler & Poelt SPECIES
-=======
+# Bryodiscus arctoalpinus Döbbeler & Poelt SPECIES
 
 #### Status
 ACCEPTED

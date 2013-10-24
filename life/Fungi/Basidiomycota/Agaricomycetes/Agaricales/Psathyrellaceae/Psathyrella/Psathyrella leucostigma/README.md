@@ -1,5 +1,4 @@
-Psathyrella leucostigma Peck SPECIES
-=======
+# Psathyrella leucostigma Peck SPECIES
 
 #### Status
 ACCEPTED

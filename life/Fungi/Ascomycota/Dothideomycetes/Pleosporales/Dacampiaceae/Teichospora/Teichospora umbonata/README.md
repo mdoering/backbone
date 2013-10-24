@@ -1,5 +1,4 @@
-Teichospora umbonata Ellis & Everh. SPECIES
-=======
+# Teichospora umbonata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

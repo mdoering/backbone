@@ -1,5 +1,4 @@
-Cortinarius roseobulbus M.M. Moser SPECIES
-=======
+# Cortinarius roseobulbus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

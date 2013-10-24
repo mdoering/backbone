@@ -1,5 +1,4 @@
-Spheconisca hypocrita Norman SPECIES
-=======
+# Spheconisca hypocrita Norman SPECIES
 
 #### Status
 ACCEPTED

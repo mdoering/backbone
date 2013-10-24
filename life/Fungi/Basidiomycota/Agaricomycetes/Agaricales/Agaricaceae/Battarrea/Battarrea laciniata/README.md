@@ -1,5 +1,4 @@
-Battarrea laciniata Underw. ex V.S. White SPECIES
-=======
+# Battarrea laciniata Underw. ex V.S. White SPECIES
 
 #### Status
 ACCEPTED

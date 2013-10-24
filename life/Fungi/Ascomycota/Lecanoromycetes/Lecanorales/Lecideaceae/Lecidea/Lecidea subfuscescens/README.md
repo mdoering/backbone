@@ -1,5 +1,4 @@
-Lecidea subfuscescens Vain. SPECIES
-=======
+# Lecidea subfuscescens Vain. SPECIES
 
 #### Status
 ACCEPTED

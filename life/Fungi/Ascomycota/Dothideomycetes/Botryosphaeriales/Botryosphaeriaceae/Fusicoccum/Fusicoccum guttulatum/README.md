@@ -1,5 +1,4 @@
-Fusicoccum guttulatum Sacc. & Roum. SPECIES
-=======
+# Fusicoccum guttulatum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora crustaria Stizenb. SPECIES
-=======
+# Lecanora crustaria Stizenb. SPECIES
 
 #### Status
 ACCEPTED

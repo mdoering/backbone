@@ -1,5 +1,4 @@
-Slackia exigua (Poco et al., 1996) Wade et al., 1999 SPECIES
-=======
+# Slackia exigua (Poco et al., 1996) Wade et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

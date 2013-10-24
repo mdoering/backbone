@@ -1,5 +1,4 @@
-Cortinarius candelariopsis Rob. Henry SPECIES
-=======
+# Cortinarius candelariopsis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

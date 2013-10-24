@@ -1,5 +1,4 @@
-Graphina flavoalba Makhija, Adaw. & Patw. SPECIES
-=======
+# Graphina flavoalba Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

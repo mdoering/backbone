@@ -1,5 +1,4 @@
-Pseudovalsaria Spooner GENUS
-=======
+# Pseudovalsaria Spooner GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aecidium pourthiaeae Syd. & P. Syd., 1900 SPECIES
-=======
+# Roestelia pourthiaeae (Syd. & P. Syd.) Miyabe, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Herb. Boissier 4: 3 (1900)
+null
 
 #### Original name
 Aecidium pourthiaeae Syd. & P. Syd., 1900

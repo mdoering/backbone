@@ -1,5 +1,4 @@
-Intranstylum elegans Nenninger, 1948 SPECIES
-=======
+# Intranstylum elegans Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

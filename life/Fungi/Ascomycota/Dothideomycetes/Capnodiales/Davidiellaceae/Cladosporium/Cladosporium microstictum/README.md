@@ -1,5 +1,4 @@
-Cladosporium microstictum Sacc. & D. Sacc. SPECIES
-=======
+# Cladosporium microstictum Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

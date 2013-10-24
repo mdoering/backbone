@@ -1,5 +1,4 @@
-Agaricus fulvidus J.F. Gmel. SPECIES
-=======
+# Agaricus fulvidus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

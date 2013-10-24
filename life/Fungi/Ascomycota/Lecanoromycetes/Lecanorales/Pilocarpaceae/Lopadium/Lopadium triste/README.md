@@ -1,5 +1,4 @@
-Lopadium triste (Mont.) Zahlbr. SPECIES
-=======
+# Lopadium triste (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

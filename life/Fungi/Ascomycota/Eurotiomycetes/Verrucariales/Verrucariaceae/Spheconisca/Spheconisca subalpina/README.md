@@ -1,5 +1,4 @@
-Spheconisca subalpina SPECIES
-=======
+# Spheconisca subalpina SPECIES
 
 #### Status
 ACCEPTED

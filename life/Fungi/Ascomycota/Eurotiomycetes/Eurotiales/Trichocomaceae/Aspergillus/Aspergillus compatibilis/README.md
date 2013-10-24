@@ -1,5 +1,4 @@
-Aspergillus compatibilis Samson & W. Gams SPECIES
-=======
+# Aspergillus compatibilis Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

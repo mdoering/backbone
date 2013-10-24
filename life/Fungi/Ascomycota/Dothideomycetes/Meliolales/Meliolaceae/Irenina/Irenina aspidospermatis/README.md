@@ -1,5 +1,4 @@
-Irenina aspidospermatis (Speg.) F. Stevens SPECIES
-=======
+# Irenina aspidospermatis (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

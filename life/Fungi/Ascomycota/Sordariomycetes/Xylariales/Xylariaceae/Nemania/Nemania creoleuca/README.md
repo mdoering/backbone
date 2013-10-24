@@ -1,17 +1,16 @@
-Hypoxylon diatrypelloides Speg., 1888 SPECIES
-=======
+# Nemania creoleuca (Speg.) Y.M. Ju & J.D. Rogers, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Acad. nac. Cienc. Córdoba 11: 200 (1888)
+Nova Hedwigia 74(1-2): 94 (2002)
 
 #### Original name
-Hypoxylon diatrypelloides Speg., 1888
+Hypoxylon creoleucum Speg., 1888
 
 ### Remarks
 null

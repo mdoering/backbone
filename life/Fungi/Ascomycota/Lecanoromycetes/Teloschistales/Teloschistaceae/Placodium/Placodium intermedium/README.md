@@ -1,5 +1,4 @@
-Placodium intermedium B. de Lesd. SPECIES
-=======
+# Placodium intermedium B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

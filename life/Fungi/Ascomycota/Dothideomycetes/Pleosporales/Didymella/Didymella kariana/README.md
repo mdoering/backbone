@@ -1,5 +1,4 @@
-Didymella kariana Sacc. SPECIES
-=======
+# Didymella kariana Sacc. SPECIES
 
 #### Status
 ACCEPTED

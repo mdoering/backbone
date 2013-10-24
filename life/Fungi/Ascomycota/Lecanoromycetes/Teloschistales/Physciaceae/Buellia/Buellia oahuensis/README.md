@@ -1,5 +1,4 @@
-Buellia oahuensis H. Magn. SPECIES
-=======
+# Buellia oahuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

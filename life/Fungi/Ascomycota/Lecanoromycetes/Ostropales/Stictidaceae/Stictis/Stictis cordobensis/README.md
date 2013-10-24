@@ -1,5 +1,4 @@
-Stictis cordobensis Speg. SPECIES
-=======
+# Stictis cordobensis Speg. SPECIES
 
 #### Status
 ACCEPTED

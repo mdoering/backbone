@@ -1,17 +1,16 @@
-Polyporus stephensii Berk. & Broome, 1848 SPECIES
-=======
+# Antrodia albida (Fr.) Donk, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 4(3): 339 (1966)
 
 #### Original name
-null
+Daedalea albida Purton, 1821
 
 ### Remarks
 null

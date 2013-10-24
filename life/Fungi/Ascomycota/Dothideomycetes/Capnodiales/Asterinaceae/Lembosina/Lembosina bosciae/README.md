@@ -1,5 +1,4 @@
-Lembosina bosciae (Hansf.) Arx SPECIES
-=======
+# Lembosina bosciae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

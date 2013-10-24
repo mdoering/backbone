@@ -1,5 +1,4 @@
-Diplodina capsici Curzi & Barbaini SPECIES
-=======
+# Diplodina capsici Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

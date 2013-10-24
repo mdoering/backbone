@@ -1,5 +1,4 @@
-Peziza mycetophila Fayod SPECIES
-=======
+# Peziza mycetophila Fayod SPECIES
 
 #### Status
 ACCEPTED

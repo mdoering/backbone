@@ -1,5 +1,4 @@
-Elaphomyces titibuensis Kobayasi SPECIES
-=======
+# Elaphomyces titibuensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

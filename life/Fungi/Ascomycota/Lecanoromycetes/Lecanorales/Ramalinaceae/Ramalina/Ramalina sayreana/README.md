@@ -1,5 +1,4 @@
-Ramalina sayreana W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Ramalina sayreana W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

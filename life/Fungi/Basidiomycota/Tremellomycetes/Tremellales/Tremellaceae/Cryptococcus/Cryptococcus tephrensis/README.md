@@ -1,5 +1,4 @@
-Cryptococcus tephrensis Vishniac SPECIES
-=======
+# Cryptococcus tephrensis Vishniac SPECIES
 
 #### Status
 ACCEPTED

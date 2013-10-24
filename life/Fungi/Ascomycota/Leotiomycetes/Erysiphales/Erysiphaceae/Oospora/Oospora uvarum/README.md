@@ -1,14 +1,13 @@
-Sporotrichum uvarum (Karamb.) Windisch, 1952 SPECIES
-=======
+# Oospora uvarum Karamb., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Biol. Pfl. 29: 161 (1952)
+Zentbl. Bakt. ParasitKde, Abt. II 84: 86 (1931)
 
 #### Original name
 Oospora uvarum Karamb., 1931

@@ -1,5 +1,4 @@
-Dictyosporium gauntii Bhat & B. Sutton SPECIES
-=======
+# Dictyosporium gauntii Bhat & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

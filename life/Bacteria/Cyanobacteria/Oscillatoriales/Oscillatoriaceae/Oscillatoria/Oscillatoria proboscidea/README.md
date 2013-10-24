@@ -1,5 +1,4 @@
-Oscillatoria proboscidea var. westii Forti VARIETY
-=======
+# Oscillatoria proboscidea Gomont SPECIES
 
 #### Status
 ACCEPTED

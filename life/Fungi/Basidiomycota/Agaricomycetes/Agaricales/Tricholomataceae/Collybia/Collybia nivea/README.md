@@ -1,5 +1,4 @@
-Collybia nivea (Mont.) Dennis SPECIES
-=======
+# Collybia nivea (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ravenelia macowaniana Pazschke SPECIES
-=======
+# Ravenelia macowaniana Pazschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiosporium foedum Sacc. SPECIES
-=======
+# Apiosporium foedum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum gardeniarum Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum gardeniarum Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

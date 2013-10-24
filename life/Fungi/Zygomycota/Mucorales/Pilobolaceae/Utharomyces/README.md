@@ -1,5 +1,4 @@
-Utharomyces Boedijn GENUS
-=======
+# Utharomyces Boedijn GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thaumatomastix setifera Lauterborn, 1899 SPECIES
-=======
+# Thaumatomastix setifera Lauterborn, 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea furfurella (Müll. Arg.) Shirl. SPECIES
-=======
+# Lecidea furfurella (Müll. Arg.) Shirl. SPECIES
 
 #### Status
 ACCEPTED

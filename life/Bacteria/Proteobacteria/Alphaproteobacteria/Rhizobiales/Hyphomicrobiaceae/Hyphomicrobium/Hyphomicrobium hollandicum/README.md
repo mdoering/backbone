@@ -1,5 +1,4 @@
-Hyphomicrobium hollandicum Hirsch, 1989 SPECIES
-=======
+# Hyphomicrobium hollandicum Hirsch, 1989 SPECIES
 
 #### Status
 ACCEPTED

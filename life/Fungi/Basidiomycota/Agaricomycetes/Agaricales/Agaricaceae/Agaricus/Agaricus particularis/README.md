@@ -1,5 +1,4 @@
-Agaricus particularis Britzelm. SPECIES
-=======
+# Agaricus particularis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

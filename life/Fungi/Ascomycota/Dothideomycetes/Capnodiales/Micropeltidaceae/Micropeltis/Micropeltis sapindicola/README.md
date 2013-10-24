@@ -1,5 +1,4 @@
-Micropeltis sapindicola Bat. & J.L. Bezerra SPECIES
-=======
+# Micropeltis sapindicola Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

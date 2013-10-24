@@ -1,5 +1,4 @@
-Rizalia schiffnerulae (Hansf.) E. Müll. SPECIES
-=======
+# Rizalia schiffnerulae (Hansf.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

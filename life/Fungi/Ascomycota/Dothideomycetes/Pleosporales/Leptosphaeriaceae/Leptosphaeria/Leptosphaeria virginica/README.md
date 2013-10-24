@@ -1,5 +1,4 @@
-Leptosphaeria virginica (Cooke & Ellis) Sacc. SPECIES
-=======
+# Leptosphaeria virginica (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

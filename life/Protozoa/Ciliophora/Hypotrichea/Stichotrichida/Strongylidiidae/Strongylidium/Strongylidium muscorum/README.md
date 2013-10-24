@@ -1,5 +1,4 @@
-Strongylidium muscorum Kahl, 1932 SPECIES
-=======
+# Strongylidium muscorum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

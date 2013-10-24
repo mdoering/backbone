@@ -1,5 +1,4 @@
-Physisporus fragillimus P. Karst. SPECIES
-=======
+# Physisporus fragillimus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

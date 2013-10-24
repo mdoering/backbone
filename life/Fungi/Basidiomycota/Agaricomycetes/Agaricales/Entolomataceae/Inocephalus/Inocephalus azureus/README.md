@@ -1,5 +1,4 @@
-Inocephalus azureus (Largent) Largent SPECIES
-=======
+# Inocephalus azureus (Largent) Largent SPECIES
 
 #### Status
 ACCEPTED

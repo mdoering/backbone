@@ -1,5 +1,4 @@
-Hymenoscyphus juniperinellus (P. Karst.) Kuntze SPECIES
-=======
+# Hymenoscyphus juniperinellus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

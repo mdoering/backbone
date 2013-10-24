@@ -1,17 +1,16 @@
-Morenoina phragmitidis J.P. Ellis, 1980 SPECIES
-=======
+# Morenoina phragmitis J.P. Ellis, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 74(2): 304 (1980)
 
 #### Original name
-Morenoina phragmitidis J.P. Ellis, 1980
+Morenoina phragmitis J.P. Ellis, 1980
 
 ### Remarks
 null

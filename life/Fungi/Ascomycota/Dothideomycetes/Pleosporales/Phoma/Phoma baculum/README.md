@@ -1,5 +1,4 @@
-Phoma baculum (W.R. Gerard) Sacc. SPECIES
-=======
+# Phoma baculum (W.R. Gerard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

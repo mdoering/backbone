@@ -1,5 +1,4 @@
-Lamtopyxidae FAMILY
-=======
+# Lamtopyxidae FAMILY
 
 #### Status
 ACCEPTED

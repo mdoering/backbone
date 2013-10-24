@@ -1,5 +1,4 @@
-Phyllachora sacchari-spontanei Syd., 1913 SPECIES
-=======
+# Phyllachora sacchari-spontanei Syd., 1913 SPECIES
 
 #### Status
 DOUBTFUL

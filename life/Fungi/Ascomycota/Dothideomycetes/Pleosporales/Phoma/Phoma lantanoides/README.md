@@ -1,5 +1,4 @@
-Phoma lantanoides (Peck) Griffin {?} & Boerema ined. SPECIES
-=======
+# Phoma lantanoides (Peck) Griffin {?} & Boerema ined. SPECIES
 
 #### Status
 ACCEPTED

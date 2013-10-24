@@ -1,5 +1,4 @@
-Agaricus batschii Fr. SPECIES
-=======
+# Agaricus batschii Fr. SPECIES
 
 #### Status
 ACCEPTED

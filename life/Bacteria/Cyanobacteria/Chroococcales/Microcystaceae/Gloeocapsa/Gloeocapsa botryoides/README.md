@@ -1,5 +1,4 @@
-Gloeocapsa botryoides Kützing SPECIES
-=======
+# Gloeocapsa botryoides Kützing SPECIES
 
 #### Status
 ACCEPTED

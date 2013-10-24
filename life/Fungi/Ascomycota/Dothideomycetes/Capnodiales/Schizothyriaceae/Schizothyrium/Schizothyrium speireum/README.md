@@ -1,17 +1,16 @@
-Depazea speirea (Fr.) Corda, 1838 SPECIES
-=======
+# Schizothyrium speireum (Fr.) L. Holm & K. Holm, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 131(1): 113 (1978)
 
 #### Original name
-null
+Perisporium speireum Fr., 1829
 
 ### Remarks
 null

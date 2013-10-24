@@ -1,5 +1,4 @@
-Irenopsis quercifolia Hansf. SPECIES
-=======
+# Irenopsis quercifolia Hansf. SPECIES
 
 #### Status
 ACCEPTED

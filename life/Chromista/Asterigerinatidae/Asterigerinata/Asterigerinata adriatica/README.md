@@ -1,5 +1,4 @@
-Asterigerinata adriatica Haake, 1977 SPECIES
-=======
+# Asterigerinata adriatica Haake, 1977 SPECIES
 
 #### Status
 ACCEPTED

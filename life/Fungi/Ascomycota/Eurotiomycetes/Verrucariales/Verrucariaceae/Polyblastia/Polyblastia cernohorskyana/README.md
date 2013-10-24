@@ -1,17 +1,16 @@
-Polyblastia cernohorskana Servít SPECIES
-=======
+# Polyblastia cernohorskyana Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceskoslov. Liejn. Celedi Verrucariaceae 211 (1954)
 
 #### Original name
-Polyblastia cernohorskana Servít
+Polyblastia cernohorskyana Servít
 
 ### Remarks
 null

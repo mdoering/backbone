@@ -1,5 +1,4 @@
-Euglena choretes Schiller SPECIES
-=======
+# Euglena choretes Schiller SPECIES
 
 #### Status
 ACCEPTED

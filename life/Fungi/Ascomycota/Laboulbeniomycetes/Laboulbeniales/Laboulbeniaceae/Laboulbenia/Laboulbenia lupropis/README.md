@@ -1,5 +1,4 @@
-Laboulbenia lupropis Balazuc SPECIES
-=======
+# Laboulbenia lupropis Balazuc SPECIES
 
 #### Status
 ACCEPTED

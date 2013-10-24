@@ -1,5 +1,4 @@
-Vermicularia denudata Schwein. SPECIES
-=======
+# Vermicularia denudata Schwein. SPECIES
 
 #### Status
 ACCEPTED

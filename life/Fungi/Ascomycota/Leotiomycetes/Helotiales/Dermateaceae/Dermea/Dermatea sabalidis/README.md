@@ -1,5 +1,4 @@
-Dermatea sabalidis Ellis & G. Martin SPECIES
-=======
+# Dermatea sabalidis Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

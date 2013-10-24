@@ -1,5 +1,4 @@
-Symbiodinium goreauii R. K. Trench & R. J. Blank SPECIES
-=======
+# Symbiodinium goreauii R. K. Trench & R. J. Blank SPECIES
 
 #### Status
 ACCEPTED

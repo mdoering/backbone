@@ -1,5 +1,4 @@
-Naucoria subsiparioides Murrill SPECIES
-=======
+# Naucoria subsiparioides Murrill SPECIES
 
 #### Status
 ACCEPTED

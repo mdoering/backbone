@@ -1,5 +1,4 @@
-Lecidea siplei C.W. Dodge & G.E. Baker SPECIES
-=======
+# Lecidea siplei C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

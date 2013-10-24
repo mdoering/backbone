@@ -1,5 +1,4 @@
-Cortinarius lubricanescens Soop, 2001 SPECIES
-=======
+# Cortinarius lubricanescens Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia auberi Balazuc SPECIES
-=======
+# Laboulbenia auberi Balazuc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macromastix lapsa Stokes SPECIES
-=======
+# Macromastix lapsa Stokes SPECIES
 
 #### Status
 ACCEPTED

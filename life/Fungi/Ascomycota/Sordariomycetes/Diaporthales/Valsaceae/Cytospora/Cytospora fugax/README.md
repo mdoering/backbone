@@ -1,5 +1,4 @@
-Cytospora fugax var. fugax VARIETY
-=======
+# Cytospora fugax (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

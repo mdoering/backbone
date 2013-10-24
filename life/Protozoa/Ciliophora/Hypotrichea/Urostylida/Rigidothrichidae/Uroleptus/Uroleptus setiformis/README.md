@@ -1,5 +1,4 @@
-Uroleptus setiformis SPECIES
-=======
+# Uroleptus setiformis SPECIES
 
 #### Status
 ACCEPTED

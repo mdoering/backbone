@@ -1,5 +1,4 @@
-Plectolyngbya hodgsonii Taton, Wilmotte, Šmarda, Elster & Komárek, 2011 SPECIES
-=======
+# Plectolyngbya hodgsonii Taton, Wilmotte, Šmarda, Elster & Komárek, 2011 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Catillaria littoralis (J. Hardy) Zahlbr. SPECIES
-=======
+# Biatorina littoralis J. Hardy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 4: 56 (1926)
+J. Bot. 1: 307 (1863)
 
 #### Original name
 Biatorina littoralis J. Hardy

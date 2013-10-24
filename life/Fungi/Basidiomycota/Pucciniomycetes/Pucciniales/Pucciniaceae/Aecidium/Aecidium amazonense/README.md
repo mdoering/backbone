@@ -1,5 +1,4 @@
-Aecidium amazonense Henn. SPECIES
-=======
+# Aecidium amazonense Henn. SPECIES
 
 #### Status
 ACCEPTED

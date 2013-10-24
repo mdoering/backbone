@@ -1,5 +1,4 @@
-Entoloma borgenii Noordel. SPECIES
-=======
+# Entoloma borgenii Noordel. SPECIES
 
 #### Status
 ACCEPTED

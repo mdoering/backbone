@@ -1,5 +1,4 @@
-Phyllachora perotidis Doidge, 1942 SPECIES
-=======
+# Phyllachora perotidis Doidge, 1942 SPECIES
 
 #### Status
 DOUBTFUL

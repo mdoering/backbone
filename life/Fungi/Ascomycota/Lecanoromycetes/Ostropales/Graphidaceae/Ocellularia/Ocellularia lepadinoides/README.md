@@ -1,5 +1,4 @@
-Ocellularia lepadinoides var. lepadinoides VARIETY
-=======
+# Ocellularia lepadinoides (Leight.) Zahlbr., 1923 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 594 (1923)
+null
 
 #### Original name
-Ocellularia lepadinoides var. lepadinoides
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Galerina fuegiana Singer SPECIES
-=======
+# Galerina fuegiana Singer SPECIES
 
 #### Status
 ACCEPTED

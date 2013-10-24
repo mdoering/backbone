@@ -1,5 +1,4 @@
-Lecidea aterrima Fée SPECIES
-=======
+# Lecidea aterrima Fée SPECIES
 
 #### Status
 ACCEPTED

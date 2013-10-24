@@ -1,5 +1,4 @@
-Rhizocarpon scabridum Räsänen SPECIES
-=======
+# Rhizocarpon scabridum Räsänen SPECIES
 
 #### Status
 ACCEPTED

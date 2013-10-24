@@ -1,5 +1,4 @@
-Sporidesmium matsushimae S. Hughes SPECIES
-=======
+# Sporidesmium matsushimae S. Hughes SPECIES
 
 #### Status
 ACCEPTED

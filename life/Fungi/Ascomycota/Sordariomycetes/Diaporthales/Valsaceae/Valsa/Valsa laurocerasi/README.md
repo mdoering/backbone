@@ -1,17 +1,16 @@
-Cytospora laurocerasi f. laurocerasi FORM
-=======
+# Valsa laurocerasi Tul. & C. Tul., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enum. Fung. Nass. no. 437
+Select. fung. carpol. (Paris) 2: 196 (1863)
 
 #### Original name
-Cytospora laurocerasi f. laurocerasi
+Valsa laurocerasi Tul. & C. Tul., 1863
 
 ### Remarks
 null

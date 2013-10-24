@@ -1,5 +1,4 @@
-Phialina montana Raitv. SPECIES
-=======
+# Phialina montana Raitv. SPECIES
 
 #### Status
 ACCEPTED

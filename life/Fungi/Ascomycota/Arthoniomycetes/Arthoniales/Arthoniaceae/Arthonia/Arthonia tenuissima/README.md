@@ -1,5 +1,4 @@
-Arthonia tenuissima Müll. Arg. SPECIES
-=======
+# Arthonia tenuissima Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

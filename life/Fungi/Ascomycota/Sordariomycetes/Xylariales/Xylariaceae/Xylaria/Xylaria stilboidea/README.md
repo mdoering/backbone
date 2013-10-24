@@ -1,5 +1,4 @@
-Xylaria stilboidea Kalchbr. & Cooke SPECIES
-=======
+# Xylaria stilboidea Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

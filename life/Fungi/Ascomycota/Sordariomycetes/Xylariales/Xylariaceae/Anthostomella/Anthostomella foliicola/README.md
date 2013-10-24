@@ -1,5 +1,4 @@
-Anthostomella foliicola Sacc. SPECIES
-=======
+# Anthostomella foliicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma cinereofolium Hesler SPECIES
-=======
+# Entoloma cinereofolium Hesler SPECIES
 
 #### Status
 ACCEPTED

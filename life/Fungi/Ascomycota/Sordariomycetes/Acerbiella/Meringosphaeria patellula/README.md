@@ -1,5 +1,4 @@
-Meringosphaeria patellula Peyronel SPECIES
-=======
+# Meringosphaeria patellula Peyronel SPECIES
 
 #### Status
 ACCEPTED

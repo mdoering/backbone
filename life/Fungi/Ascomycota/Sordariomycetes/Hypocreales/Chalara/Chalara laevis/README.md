@@ -1,14 +1,13 @@
-Chaetochalara laevis B. Sutton & Hodges, 1976 SPECIES
-=======
+# Chalara laevis (B. Sutton & Hodges) P.M. Kirk, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 27(1-2): 343 (1976)
+in Kirk & Spooner, Kew Bull. 38(4): 580 (1984)
 
 #### Original name
 Chaetochalara laevis B. Sutton & Hodges, 1976

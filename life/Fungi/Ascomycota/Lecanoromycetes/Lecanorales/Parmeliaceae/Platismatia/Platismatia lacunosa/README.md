@@ -1,5 +1,4 @@
-Platismatia lacunosa (Ach.) W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Platismatia lacunosa (Ach.) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

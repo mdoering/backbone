@@ -1,5 +1,4 @@
-Septogloeum profusum (Ellis & Everh.) Sacc. SPECIES
-=======
+# Septogloeum profusum (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

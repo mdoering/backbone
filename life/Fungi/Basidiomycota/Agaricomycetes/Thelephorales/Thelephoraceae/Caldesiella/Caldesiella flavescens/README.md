@@ -1,5 +1,4 @@
-Caldesiella flavescens Rick SPECIES
-=======
+# Caldesiella flavescens Rick SPECIES
 
 #### Status
 ACCEPTED

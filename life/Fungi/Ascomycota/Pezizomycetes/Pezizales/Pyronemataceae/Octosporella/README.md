@@ -1,5 +1,4 @@
-Octosporella Döbbeler, 1980 GENUS
-=======
+# Octosporella Döbbeler, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicolla phragmitis P. Karst. SPECIES
-=======
+# Fusicolla phragmitis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

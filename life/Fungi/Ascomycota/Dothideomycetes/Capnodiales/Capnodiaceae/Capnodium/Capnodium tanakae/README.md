@@ -1,5 +1,4 @@
-Capnodium tanakae Shirai & Hara SPECIES
-=======
+# Capnodium tanakae Shirai & Hara SPECIES
 
 #### Status
 ACCEPTED

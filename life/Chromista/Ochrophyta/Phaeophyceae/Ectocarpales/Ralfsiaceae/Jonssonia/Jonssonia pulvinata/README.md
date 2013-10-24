@@ -1,5 +1,4 @@
-Jonssonia pulvinata S. Lund SPECIES
-=======
+# Jonssonia pulvinata S. Lund SPECIES
 
 #### Status
 ACCEPTED

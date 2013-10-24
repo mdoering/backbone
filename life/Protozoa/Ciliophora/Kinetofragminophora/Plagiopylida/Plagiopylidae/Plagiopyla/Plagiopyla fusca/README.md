@@ -1,5 +1,4 @@
-Plagiopyla fusca SPECIES
-=======
+# Plagiopyla fusca SPECIES
 
 #### Status
 ACCEPTED

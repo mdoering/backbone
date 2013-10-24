@@ -1,5 +1,4 @@
-Stigonema ocellatum var. minor C. Sarthou, Y. Thérézien & A. Couté VARIETY
-=======
+# Stigonema ocellatum (Dillwyn) Thuret ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

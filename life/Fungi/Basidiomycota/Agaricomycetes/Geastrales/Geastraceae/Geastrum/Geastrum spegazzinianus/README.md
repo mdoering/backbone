@@ -1,5 +1,4 @@
-Geastrum spegazzinianus var. spegazzinianus VARIETY
-=======
+# Geastrum spegazzinianus De Toni SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geastrum spegazzinianus var. spegazzinianus
+Geastrum spegazzinianus De Toni
 
 ### Remarks
 null

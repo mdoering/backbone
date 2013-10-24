@@ -1,5 +1,4 @@
-Lecanactis punctiformis Mont. SPECIES
-=======
+# Lecanactis punctiformis Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucogyrophana pouzarii Parmasto, 1967 SPECIES
-=======
+# Leucogyrophana pouzarii Parmasto, 1967 SPECIES
 
 #### Status
 ACCEPTED

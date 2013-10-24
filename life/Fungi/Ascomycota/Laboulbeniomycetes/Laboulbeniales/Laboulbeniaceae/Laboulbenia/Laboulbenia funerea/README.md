@@ -1,5 +1,4 @@
-Laboulbenia funerea Speg. SPECIES
-=======
+# Laboulbenia funerea Speg. SPECIES
 
 #### Status
 ACCEPTED

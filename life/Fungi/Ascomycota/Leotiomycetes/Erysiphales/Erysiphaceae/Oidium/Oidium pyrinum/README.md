@@ -1,5 +1,4 @@
-Oidium pyrinum Ellis & Everh. SPECIES
-=======
+# Oidium pyrinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

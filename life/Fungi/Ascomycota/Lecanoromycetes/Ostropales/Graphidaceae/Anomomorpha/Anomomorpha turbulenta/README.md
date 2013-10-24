@@ -1,14 +1,13 @@
-Digraphis turbulenta (Nyl.) Clem. SPECIES
-=======
+# Anomomorpha turbulenta (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) (1909)
+Nouv. Arch. Mus. Hist. Nat. , sér. 3 3: 167 (1891)
 
 #### Original name
 Graphis turbulenta Nyl.

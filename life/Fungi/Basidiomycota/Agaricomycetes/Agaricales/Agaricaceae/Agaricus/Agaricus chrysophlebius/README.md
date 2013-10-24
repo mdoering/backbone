@@ -1,5 +1,4 @@
-Agaricus chrysophlebius Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus chrysophlebius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

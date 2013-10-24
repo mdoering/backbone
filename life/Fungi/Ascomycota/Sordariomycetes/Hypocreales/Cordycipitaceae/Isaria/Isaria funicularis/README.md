@@ -1,5 +1,4 @@
-Isaria funicularis Wallr. SPECIES
-=======
+# Isaria funicularis Wallr. SPECIES
 
 #### Status
 ACCEPTED

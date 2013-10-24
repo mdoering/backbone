@@ -1,5 +1,4 @@
-Lecidea crenata var. crenata VARIETY
-=======
+# Lecidea crenata (DC.) Steud. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea crenata var. crenata
+Patellaria crenata DC.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Ocellularia meiosperma (Nyl.) Hale SPECIES
-=======
+# Melanotrema meiospermum (Nyl.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 11(1): 137 (1980)
+in Frisch & Kalb, Biblthca Lichenol. 92: 394 (2006)
 
 #### Original name
 Thelotrema meiospermum Nyl.

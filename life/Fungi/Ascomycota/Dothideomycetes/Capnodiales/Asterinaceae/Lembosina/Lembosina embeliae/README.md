@@ -1,5 +1,4 @@
-Lembosina embeliae (Hansf.) Arx SPECIES
-=======
+# Lembosina embeliae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

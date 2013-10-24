@@ -1,5 +1,4 @@
-Meliola meliosmae Petr. SPECIES
-=======
+# Meliola meliosmae Petr. SPECIES
 
 #### Status
 ACCEPTED

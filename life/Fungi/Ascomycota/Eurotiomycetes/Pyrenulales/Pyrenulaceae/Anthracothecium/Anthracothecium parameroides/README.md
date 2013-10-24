@@ -1,5 +1,4 @@
-Anthracothecium parameroides (Vain.) Zahlbr. SPECIES
-=======
+# Anthracothecium parameroides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

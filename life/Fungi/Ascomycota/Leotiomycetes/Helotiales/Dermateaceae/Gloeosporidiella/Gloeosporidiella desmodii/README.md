@@ -1,5 +1,4 @@
-Gloeosporidiella desmodii (H.C. Greene) Arx SPECIES
-=======
+# Gloeosporidiella desmodii (H.C. Greene) Arx SPECIES
 
 #### Status
 ACCEPTED

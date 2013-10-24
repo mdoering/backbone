@@ -1,5 +1,4 @@
-Meliola goianensis Bat. & H. Maia SPECIES
-=======
+# Meliola goianensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

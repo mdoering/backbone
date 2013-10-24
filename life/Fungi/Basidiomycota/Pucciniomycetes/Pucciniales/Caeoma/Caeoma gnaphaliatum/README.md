@@ -1,5 +1,4 @@
-Caeoma gnaphaliatum Schwein. SPECIES
-=======
+# Caeoma gnaphaliatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

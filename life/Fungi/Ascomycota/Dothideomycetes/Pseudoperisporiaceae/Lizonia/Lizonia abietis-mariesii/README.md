@@ -1,5 +1,4 @@
-Lizonia abietis-mariesii Sawada SPECIES
-=======
+# Lizonia abietis-mariesii Sawada SPECIES
 
 #### Status
 ACCEPTED

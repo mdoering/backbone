@@ -1,5 +1,4 @@
-Zosterites A.T. Brongniart, 1823 GENUS
-=======
+# Zosterites A.T. Brongniart, 1823 GENUS
 
 #### Status
 ACCEPTED

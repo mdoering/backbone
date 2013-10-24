@@ -1,5 +1,4 @@
-Hypocrea intricata Samuels & Dodd SPECIES
-=======
+# Hypocrea intricata Samuels & Dodd SPECIES
 
 #### Status
 ACCEPTED

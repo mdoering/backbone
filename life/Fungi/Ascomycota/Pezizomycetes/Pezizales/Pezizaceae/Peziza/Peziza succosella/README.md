@@ -1,5 +1,4 @@
-Peziza succosella (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh. & Nemlich, 1974 SPECIES
-=======
+# Peziza succosella (Le Gal & Romagn.) M.M. Moser ex Aviz.-Hersh. & Nemlich, 1974 SPECIES
 
 #### Status
 ACCEPTED

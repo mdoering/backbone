@@ -1,17 +1,16 @@
-Lecanactis patellarioides f. patellarioides FORM
-=======
+# Bactrospora patellarioides (Nyl.) Almq. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecanactis patellarioides f. patellarioides
+Lecidea patellarioides Nyl.
 
 ### Remarks
 null

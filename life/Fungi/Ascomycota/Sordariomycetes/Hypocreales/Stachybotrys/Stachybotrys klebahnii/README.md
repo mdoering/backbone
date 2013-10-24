@@ -1,8 +1,7 @@
-Stachybotrys klebahni G. Burchard SPECIES
-=======
+# Stachybotrys klebahnii G. Burchard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stachybotrys klebahni G. Burchard
+Stachybotrys klebahnii G. Burchard
 
 ### Remarks
 null

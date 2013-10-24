@@ -1,5 +1,4 @@
-Mycopara shawii Bat. & J.L. Bezerra, 1960 SPECIES
-=======
+# Mycopara shawii Bat. & J.L. Bezerra, 1960 SPECIES
 
 #### Status
 ACCEPTED

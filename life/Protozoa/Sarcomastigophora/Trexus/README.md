@@ -1,5 +1,4 @@
-Trexus Whalen & Carter, 1998 GENUS
-=======
+# Trexus Whalen & Carter, 1998 GENUS
 
 #### Status
 ACCEPTED

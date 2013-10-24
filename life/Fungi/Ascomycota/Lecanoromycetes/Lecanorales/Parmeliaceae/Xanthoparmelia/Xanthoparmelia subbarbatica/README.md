@@ -1,14 +1,13 @@
-Neofuscelia subbarbatica Elix SPECIES
-=======
+# Xanthoparmelia subbarbatica (Elix) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 47: 114 (1993)
+Taxon 53(4): 971 (2004)
 
 #### Original name
 Neofuscelia subbarbatica Elix

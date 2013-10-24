@@ -1,17 +1,16 @@
-Phoma pedicularis var. pedicularis VARIETY
-=======
+# Phoma pedicularis Fuckel, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Phoma pedicularis Fuckel, 1874
 
 ### Remarks
 null

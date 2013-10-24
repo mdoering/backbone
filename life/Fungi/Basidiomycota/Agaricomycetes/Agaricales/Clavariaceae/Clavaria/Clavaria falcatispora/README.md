@@ -1,5 +1,4 @@
-Clavaria falcatispora Velen. SPECIES
-=======
+# Clavaria falcatispora Velen. SPECIES
 
 #### Status
 ACCEPTED

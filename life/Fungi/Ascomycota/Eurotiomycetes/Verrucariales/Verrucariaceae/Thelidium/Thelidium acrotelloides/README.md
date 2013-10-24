@@ -1,5 +1,4 @@
-Thelidium acrotelloides Servít SPECIES
-=======
+# Thelidium acrotelloides Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Penicillium kurssanovii Chalab., 1950 SPECIES
-=======
+# Penicillium restrictum J.C. Gilman & E.V. Abbott, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 6: 164 (1950)
+Journal of Iowa State College, Sci. 1: 297 (1927)
 
 #### Original name
-Penicillium kurssanovii Chalab., 1950
+Penicillium restrictum J.C. Gilman & E.V. Abbott, 1927
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Marasmius rhododendri Singer, 1936 SPECIES
-=======
+# Resinomycena pyrenaica Singer, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 1: 77 (1936)
+Agaric. mod. Tax. (Koenigstein), Edn 4 428 (1986)
 
 #### Original name
 Marasmius rhododendri Singer, 1936

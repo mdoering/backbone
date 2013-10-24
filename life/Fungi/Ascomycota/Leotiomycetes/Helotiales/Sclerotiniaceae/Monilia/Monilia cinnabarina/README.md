@@ -1,5 +1,4 @@
-Monilia cinnabarina Spreng. SPECIES
-=======
+# Monilia cinnabarina Spreng. SPECIES
 
 #### Status
 ACCEPTED

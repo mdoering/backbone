@@ -1,5 +1,4 @@
-Urceolaria karyodactyla Laird, 1961 SPECIES
-=======
+# Urceolaria karyodactyla Laird, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Boletus lividus var. rubescens Quél. VARIETY
-=======
+# Gyrodon lividus (Bull.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compt. Rend. Assoc. Franç. Avancem. Sci. 14(2): 449 (1886)
+Epicr. syst. mycol. (Upsaliae) 414 (1838)
 
 #### Original name
-Boletus lividus var. rubescens Quél.
+Boletus lividus Bull., 1791
 
 ### Remarks
 null

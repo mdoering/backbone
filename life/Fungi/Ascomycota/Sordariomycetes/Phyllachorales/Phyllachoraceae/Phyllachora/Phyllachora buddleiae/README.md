@@ -1,5 +1,4 @@
-Phyllachora buddleiae G. Arnaud, 1934 SPECIES
-=======
+# Phyllachora buddleiae G. Arnaud, 1934 SPECIES
 
 #### Status
 ACCEPTED

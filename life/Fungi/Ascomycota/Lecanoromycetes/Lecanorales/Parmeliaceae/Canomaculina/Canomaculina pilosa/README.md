@@ -1,14 +1,13 @@
-Parmelina pilosa (Stizenb.) Hale SPECIES
-=======
+# Canomaculina pilosa (Stizenb.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 28(5): 483 (1974)
+Mycotaxon 29: 240 (1987)
 
 #### Original name
 Parmelia pilosa Stizenb.

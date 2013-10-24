@@ -1,5 +1,4 @@
-Hypoxylonites chuittensis Elsik SPECIES
-=======
+# Hypoxylonites chuittensis Elsik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces unitus Peck SPECIES
-=======
+# Uromyces unitus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnellum scleropodium K.A. Harrison, 1964 SPECIES
-=======
+# Hydnellum scleropodium K.A. Harrison, 1964 SPECIES
 
 #### Status
 ACCEPTED

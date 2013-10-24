@@ -1,5 +1,4 @@
-Lobaria centrifuga (Hoffm.) Hoffm. SPECIES
-=======
+# Lobaria centrifuga (Hoffm.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

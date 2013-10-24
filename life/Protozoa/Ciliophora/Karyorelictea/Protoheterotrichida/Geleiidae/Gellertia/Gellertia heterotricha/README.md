@@ -1,8 +1,7 @@
-Geleia heterotricha (Dragesco, 1960) Foissner, 1998 SPECIES
-=======
+# Gellertia heterotricha (Dragesco, 1960) Dragesco, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

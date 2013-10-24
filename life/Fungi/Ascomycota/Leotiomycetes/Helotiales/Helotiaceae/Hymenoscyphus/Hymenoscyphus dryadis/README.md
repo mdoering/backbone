@@ -1,5 +1,4 @@
-Hymenoscyphus dryadis Raitv. SPECIES
-=======
+# Hymenoscyphus dryadis Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Berengeria oreina SPECIES
-=======
+# Berengeria oreina SPECIES
 
 #### Status
 ACCEPTED

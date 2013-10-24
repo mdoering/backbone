@@ -1,5 +1,4 @@
-Coremium berkeleyi (Mont.) Pound & Clem. SPECIES
-=======
+# Coremium berkeleyi (Mont.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

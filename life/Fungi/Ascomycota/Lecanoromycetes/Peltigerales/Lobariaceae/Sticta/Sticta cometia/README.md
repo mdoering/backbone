@@ -1,5 +1,4 @@
-Sticta cometia Ach. SPECIES
-=======
+# Sticta cometia Ach. SPECIES
 
 #### Status
 ACCEPTED

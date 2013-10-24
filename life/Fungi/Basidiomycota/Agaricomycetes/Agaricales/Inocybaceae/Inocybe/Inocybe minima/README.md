@@ -1,5 +1,4 @@
-Inocybe minima Killerm. SPECIES
-=======
+# Inocybe minima Killerm. SPECIES
 
 #### Status
 ACCEPTED

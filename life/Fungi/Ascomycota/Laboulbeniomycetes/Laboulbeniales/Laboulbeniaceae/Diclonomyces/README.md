@@ -1,5 +1,4 @@
-Diclonomyces Thaxt. GENUS
-=======
+# Diclonomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

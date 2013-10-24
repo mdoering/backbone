@@ -1,5 +1,4 @@
-Hydnum maximum P. Karst. SPECIES
-=======
+# Hydnum maximum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

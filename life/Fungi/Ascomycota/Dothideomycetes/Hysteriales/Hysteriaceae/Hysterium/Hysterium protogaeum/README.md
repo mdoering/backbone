@@ -1,5 +1,4 @@
-Hysterium protogaeum Heer SPECIES
-=======
+# Hysterium protogaeum Heer SPECIES
 
 #### Status
 ACCEPTED

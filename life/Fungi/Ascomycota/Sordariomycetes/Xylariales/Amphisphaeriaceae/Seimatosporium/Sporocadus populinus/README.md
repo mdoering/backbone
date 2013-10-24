@@ -1,5 +1,4 @@
-Sporocadus populinus (Bres.) Orsenigo, Rodondi & B. Sutton SPECIES
-=======
+# Sporocadus populinus (Bres.) Orsenigo, Rodondi & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

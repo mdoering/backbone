@@ -1,5 +1,4 @@
-Penicillifer simplex Matsush. SPECIES
-=======
+# Penicillifer simplex Matsush. SPECIES
 
 #### Status
 ACCEPTED

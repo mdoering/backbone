@@ -1,5 +1,4 @@
-Laboulbenia pachytelis Thaxt. SPECIES
-=======
+# Laboulbenia pachytelis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

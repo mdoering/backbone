@@ -1,17 +1,16 @@
-Lochus Delphy, 1938 GENUS
-=======
+# Dellochus Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Sta. Biol. Arcachon, 35, 66.
+J. Protozool. 7: 273.
 
 #### Original name
-null
+Lochus Delphy, 1938
 
 ### Remarks
 null

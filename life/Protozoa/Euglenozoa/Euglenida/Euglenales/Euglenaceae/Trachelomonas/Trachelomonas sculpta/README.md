@@ -1,5 +1,4 @@
-Trachelomonas sculpta Balech SPECIES
-=======
+# Trachelomonas sculpta Balech SPECIES
 
 #### Status
 ACCEPTED

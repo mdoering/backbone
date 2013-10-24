@@ -1,5 +1,4 @@
-Tulasnia elegans Lesp. SPECIES
-=======
+# Tulasnia elegans Lesp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopleurochloris C.Andreoli, I.Moro, N.La Rocca, F.Rigoni, L.Dalla Valle & L.Bargelloni, 1999 GENUS
-=======
+# Pseudopleurochloris C.Andreoli, I.Moro, N.La Rocca, F.Rigoni, L.Dalla Valle & L.Bargelloni, 1999 GENUS
 
 #### Status
 ACCEPTED

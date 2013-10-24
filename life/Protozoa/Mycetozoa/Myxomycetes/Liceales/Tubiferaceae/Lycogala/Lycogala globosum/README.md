@@ -1,5 +1,4 @@
-Lycogala globosum P. Micheli SPECIES
-=======
+# Lycogala globosum P. Micheli SPECIES
 
 #### Status
 ACCEPTED

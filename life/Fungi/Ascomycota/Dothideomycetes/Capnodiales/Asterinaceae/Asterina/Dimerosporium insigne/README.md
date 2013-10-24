@@ -1,5 +1,4 @@
-Dimerosporium insigne Cooke SPECIES
-=======
+# Dimerosporium insigne Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytridium horariumforme S.N. Dasgupta & R. John SPECIES
-=======
+# Chytridium horariumforme S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

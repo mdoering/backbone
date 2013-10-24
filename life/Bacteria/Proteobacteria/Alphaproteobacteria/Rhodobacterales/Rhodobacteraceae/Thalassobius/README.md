@@ -1,5 +1,4 @@
-Thalassobius Arahal et al., 2005 GENUS
-=======
+# Thalassobius Arahal et al., 2005 GENUS
 
 #### Status
 ACCEPTED

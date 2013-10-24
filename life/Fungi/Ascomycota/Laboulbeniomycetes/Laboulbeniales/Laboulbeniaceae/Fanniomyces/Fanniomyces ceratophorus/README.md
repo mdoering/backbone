@@ -1,5 +1,4 @@
-Fanniomyces ceratophorus (Whisler) T. Majewski, 1972 SPECIES
-=======
+# Fanniomyces ceratophorus (Whisler) T. Majewski, 1972 SPECIES
 
 #### Status
 ACCEPTED

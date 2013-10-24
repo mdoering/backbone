@@ -1,5 +1,4 @@
-Proaulax Diesing, 1866 GENUS
-=======
+# Proaulax Diesing, 1866 GENUS
 
 #### Status
 ACCEPTED

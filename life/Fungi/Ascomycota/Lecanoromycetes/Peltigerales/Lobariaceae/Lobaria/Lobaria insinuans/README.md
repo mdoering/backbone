@@ -1,5 +1,4 @@
-Lobaria insinuans SPECIES
-=======
+# Lobaria insinuans SPECIES
 
 #### Status
 ACCEPTED

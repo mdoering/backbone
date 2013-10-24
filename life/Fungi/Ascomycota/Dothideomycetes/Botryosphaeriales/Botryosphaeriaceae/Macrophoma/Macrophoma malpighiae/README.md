@@ -1,5 +1,4 @@
-Macrophoma malpighiae (Mont.) Berl. & Voglino SPECIES
-=======
+# Macrophoma malpighiae (Mont.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

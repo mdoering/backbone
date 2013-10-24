@@ -1,5 +1,4 @@
-Mycenastrum phaeotrichum Berk. SPECIES
-=======
+# Mycenastrum phaeotrichum Berk. SPECIES
 
 #### Status
 ACCEPTED

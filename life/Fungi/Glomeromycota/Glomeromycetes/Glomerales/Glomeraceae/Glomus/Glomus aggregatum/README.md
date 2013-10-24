@@ -1,5 +1,4 @@
-Glomus aggregatum N.C. Schenck & G.S. Sm., 1982 SPECIES
-=======
+# Glomus aggregatum N.C. Schenck & G.S. Sm., 1982 SPECIES
 
 #### Status
 ACCEPTED

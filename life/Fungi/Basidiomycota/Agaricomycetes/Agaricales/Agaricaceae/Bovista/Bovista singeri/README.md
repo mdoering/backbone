@@ -1,5 +1,4 @@
-Bovista singeri V.L. Suárez & J.E. Wright SPECIES
-=======
+# Bovista singeri V.L. Suárez & J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

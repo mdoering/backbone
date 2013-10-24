@@ -1,5 +1,4 @@
-Cytospora negundinis Ellis & Everh. SPECIES
-=======
+# Cytospora negundinis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

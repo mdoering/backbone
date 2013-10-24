@@ -1,5 +1,4 @@
-Raesaeneniolichen plicatum (A. Massal.) Tomas. & Cif. SPECIES
-=======
+# Raesaeneniolichen plicatum (A. Massal.) Tomas. & Cif. SPECIES
 
 #### Status
 ACCEPTED

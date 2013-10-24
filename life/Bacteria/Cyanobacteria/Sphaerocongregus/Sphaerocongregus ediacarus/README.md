@@ -1,5 +1,4 @@
-Sphaerocongregus ediacarus Zang Wen-long in Zang Wen-long & Walter SPECIES
-=======
+# Sphaerocongregus ediacarus Zang Wen-long in Zang Wen-long & Walter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allarthonia calcicola (Nyl.) Redinger SPECIES
-=======
+# Allarthonia calcicola (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

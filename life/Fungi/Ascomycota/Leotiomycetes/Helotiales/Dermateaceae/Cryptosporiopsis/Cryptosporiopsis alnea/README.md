@@ -1,5 +1,4 @@
-Cryptosporiopsis alnea (Rostr.) Petr. SPECIES
-=======
+# Cryptosporiopsis alnea (Rostr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium beauchampii Hovasse SPECIES
-=======
+# Rhizophydium beauchampii Hovasse SPECIES
 
 #### Status
 ACCEPTED

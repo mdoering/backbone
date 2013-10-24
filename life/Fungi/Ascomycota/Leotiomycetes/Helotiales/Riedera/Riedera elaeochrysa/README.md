@@ -1,5 +1,4 @@
-Riedera elaeochrysa Fr., 1849 SPECIES
-=======
+# Riedera elaeochrysa Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

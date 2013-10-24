@@ -1,5 +1,4 @@
-Pseudocyphellaria thouarsii var. thouarsii VARIETY
-=======
+# Pseudocyphellaria thouarsii SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lich. Exsicc. 7: 150 (1950)
+null
 
 #### Original name
-Pseudocyphellaria thouarsii var. thouarsii
+null
 
 ### Remarks
 null

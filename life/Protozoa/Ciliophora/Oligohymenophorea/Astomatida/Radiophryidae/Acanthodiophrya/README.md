@@ -1,5 +1,4 @@
-Acanthodiophrya de Puytorac & Dragesco, 1968 GENUS
-=======
+# Acanthodiophrya de Puytorac & Dragesco, 1968 GENUS
 
 #### Status
 ACCEPTED

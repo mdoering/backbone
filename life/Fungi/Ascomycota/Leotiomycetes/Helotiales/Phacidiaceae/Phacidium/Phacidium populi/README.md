@@ -1,5 +1,4 @@
-Phacidium populi Lasch SPECIES
-=======
+# Phacidium populi Lasch SPECIES
 
 #### Status
 ACCEPTED

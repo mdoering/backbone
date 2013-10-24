@@ -1,5 +1,4 @@
-Rhopographus chorinensis Kirschst. SPECIES
-=======
+# Rhopographus chorinensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

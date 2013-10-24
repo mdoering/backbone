@@ -1,5 +1,4 @@
-Pannaria atropannosa Schaer. SPECIES
-=======
+# Pannaria atropannosa Schaer. SPECIES
 
 #### Status
 ACCEPTED

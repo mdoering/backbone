@@ -1,5 +1,4 @@
-Geoglossum diffusum Kütz. SPECIES
-=======
+# Geoglossum diffusum Kütz. SPECIES
 
 #### Status
 ACCEPTED

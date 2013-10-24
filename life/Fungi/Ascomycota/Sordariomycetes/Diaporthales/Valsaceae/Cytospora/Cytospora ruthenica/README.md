@@ -1,5 +1,4 @@
-Cytospora ruthenica Petr. SPECIES
-=======
+# Cytospora ruthenica Petr. SPECIES
 
 #### Status
 ACCEPTED

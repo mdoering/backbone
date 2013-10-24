@@ -1,5 +1,4 @@
-Acetivibrio ethanolgignens Robinson & Ritchie, 1981 SPECIES
-=======
+# Acetivibrio ethanolgignens Robinson & Ritchie, 1981 SPECIES
 
 #### Status
 ACCEPTED

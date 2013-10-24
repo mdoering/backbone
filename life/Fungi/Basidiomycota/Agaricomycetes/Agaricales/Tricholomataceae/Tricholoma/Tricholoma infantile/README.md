@@ -1,5 +1,4 @@
-Tricholoma infantile Peck SPECIES
-=======
+# Tricholoma infantile Peck SPECIES
 
 #### Status
 ACCEPTED

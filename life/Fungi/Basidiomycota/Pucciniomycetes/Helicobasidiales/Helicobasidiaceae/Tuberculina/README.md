@@ -1,17 +1,16 @@
-Cordalia Gobi, 1885 GENUS
-=======
+# Tuberculina Tode ex Saccardo, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Acad. Imp. Sci. Saint Pétersbourg, ser. 1 32(14): 13 (1885)
+Michelia 2(no. 6): 34 (1880)
 
 #### Original name
-Cordalia Gobi, 1885
+Tuberculina Tode ex Saccardo, 1880
 
 ### Remarks
 null

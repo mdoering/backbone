@@ -1,5 +1,4 @@
-Aschersonia macularis Syd. SPECIES
-=======
+# Aschersonia macularis Syd. SPECIES
 
 #### Status
 ACCEPTED

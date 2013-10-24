@@ -1,5 +1,4 @@
-Pleospora atromaculans Rehm SPECIES
-=======
+# Pleospora atromaculans Rehm SPECIES
 
 #### Status
 ACCEPTED

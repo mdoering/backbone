@@ -1,5 +1,4 @@
-Pseudomycena rubi Velen. SPECIES
-=======
+# Pseudomycena rubi Velen. SPECIES
 
 #### Status
 ACCEPTED

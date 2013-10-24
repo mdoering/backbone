@@ -1,8 +1,7 @@
-Neoeponides praecinctus (Kerrer, 1868) SPECIES
-=======
+# Cibicides praecinctus (Karrer, 1868) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

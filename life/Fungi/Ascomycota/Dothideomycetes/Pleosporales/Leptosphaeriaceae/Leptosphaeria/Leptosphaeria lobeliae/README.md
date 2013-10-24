@@ -1,5 +1,4 @@
-Leptosphaeria lobeliae Anahosur SPECIES
-=======
+# Leptosphaeria lobeliae Anahosur SPECIES
 
 #### Status
 ACCEPTED

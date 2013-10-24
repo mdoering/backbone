@@ -1,5 +1,4 @@
-Verrucaria serpentinicola (Servít) Servít SPECIES
-=======
+# Verrucaria serpentinicola (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craterellus infundibuliformis (Bull.) Quél. SPECIES
-=======
+# Craterellus infundibuliformis (Bull.) Quél. SPECIES
 
 #### Status
 ACCEPTED

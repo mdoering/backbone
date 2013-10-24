@@ -1,5 +1,4 @@
-Tolypothrix fasciculata Gomont SPECIES
-=======
+# Tolypothrix fasciculata Gomont SPECIES
 
 #### Status
 ACCEPTED

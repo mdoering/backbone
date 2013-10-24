@@ -1,5 +1,4 @@
-Micropsalliota ianthina Heinem. SPECIES
-=======
+# Micropsalliota ianthina Heinem. SPECIES
 
 #### Status
 ACCEPTED

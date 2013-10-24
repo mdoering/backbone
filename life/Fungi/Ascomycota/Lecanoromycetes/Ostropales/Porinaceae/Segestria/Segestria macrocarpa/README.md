@@ -1,5 +1,4 @@
-Segestria macrocarpa Bachm. SPECIES
-=======
+# Segestria macrocarpa Bachm. SPECIES
 
 #### Status
 ACCEPTED

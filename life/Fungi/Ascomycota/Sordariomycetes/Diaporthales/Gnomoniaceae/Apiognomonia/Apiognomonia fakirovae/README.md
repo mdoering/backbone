@@ -1,5 +1,4 @@
-Apiognomonia fakirovae Stoykov SPECIES
-=======
+# Apiognomonia fakirovae Stoykov SPECIES
 
 #### Status
 ACCEPTED

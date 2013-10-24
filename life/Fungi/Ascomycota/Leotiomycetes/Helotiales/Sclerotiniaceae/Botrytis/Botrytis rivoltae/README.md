@@ -1,5 +1,4 @@
-Botrytis rivoltae Sacc. SPECIES
-=======
+# Botrytis rivoltae Sacc. SPECIES
 
 #### Status
 ACCEPTED

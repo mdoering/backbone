@@ -1,5 +1,4 @@
-Psathyrella albofloccosa Arenal, M. Villarreal & Esteve-Rav. SPECIES
-=======
+# Psathyrella albofloccosa Arenal, M. Villarreal & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

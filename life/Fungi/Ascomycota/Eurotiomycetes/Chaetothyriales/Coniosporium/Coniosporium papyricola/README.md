@@ -1,5 +1,4 @@
-Coniosporium papyricola J. Lindau SPECIES
-=======
+# Coniosporium papyricola J. Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophaea narkandensis K.S. Thind & S.C. Kaushal SPECIES
-=======
+# Trichophaea narkandensis K.S. Thind & S.C. Kaushal SPECIES
 
 #### Status
 ACCEPTED

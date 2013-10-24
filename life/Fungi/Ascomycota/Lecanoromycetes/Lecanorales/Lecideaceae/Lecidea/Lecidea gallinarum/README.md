@@ -1,5 +1,4 @@
-Lecidea gallinarum Zahlbr. SPECIES
-=======
+# Lecidea gallinarum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

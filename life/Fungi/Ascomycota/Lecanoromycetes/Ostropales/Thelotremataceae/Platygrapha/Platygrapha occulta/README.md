@@ -1,17 +1,16 @@
-Platygrapha occulta f. occulta FORM
-=======
+# Platygrapha occulta SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Platygrapha occulta f. occulta
+null
 
 ### Remarks
 null

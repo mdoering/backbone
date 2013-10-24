@@ -1,5 +1,4 @@
-Omphalia ventosa (Fr.) Gillet SPECIES
-=======
+# Omphalia ventosa (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

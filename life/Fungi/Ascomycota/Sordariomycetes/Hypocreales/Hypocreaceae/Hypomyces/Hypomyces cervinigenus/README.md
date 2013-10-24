@@ -1,5 +1,4 @@
-Hypomyces cervinigenus Rogerson & Simms SPECIES
-=======
+# Hypomyces cervinigenus Rogerson & Simms SPECIES
 
 #### Status
 ACCEPTED

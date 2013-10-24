@@ -1,5 +1,4 @@
-Strombidinopsis cercionis Lynn, Montagnes, Dale, Gilron & Strom, 1991 SPECIES
-=======
+# Strombidinopsis cercionis Lynn, Montagnes, Dale, Gilron & Strom, 1991 SPECIES
 
 #### Status
 ACCEPTED

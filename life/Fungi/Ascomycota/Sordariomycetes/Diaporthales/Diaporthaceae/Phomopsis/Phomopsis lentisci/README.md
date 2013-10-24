@@ -1,5 +1,4 @@
-Phomopsis lentisci (Pass.) Sousa da Câmara SPECIES
-=======
+# Phomopsis lentisci (Pass.) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

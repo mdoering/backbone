@@ -1,5 +1,4 @@
-Clitocybe marmorea Peck SPECIES
-=======
+# Clitocybe marmorea Peck SPECIES
 
 #### Status
 ACCEPTED

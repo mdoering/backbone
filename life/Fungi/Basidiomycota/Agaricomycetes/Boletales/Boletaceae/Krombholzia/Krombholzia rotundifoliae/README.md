@@ -1,5 +1,4 @@
-Krombholzia rotundifoliae Singer SPECIES
-=======
+# Krombholzia rotundifoliae Singer SPECIES
 
 #### Status
 ACCEPTED

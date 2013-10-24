@@ -1,5 +1,4 @@
-Staurothele paraguayensis Malme SPECIES
-=======
+# Staurothele paraguayensis Malme SPECIES
 
 #### Status
 ACCEPTED

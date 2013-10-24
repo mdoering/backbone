@@ -1,5 +1,4 @@
-Rebentischia brevicaudata A.L. Guyot SPECIES
-=======
+# Rebentischia brevicaudata A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

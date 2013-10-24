@@ -1,5 +1,4 @@
-Ammobaculites josephi Acosta, 1940 SPECIES
-=======
+# Ammobaculites josephi Acosta, 1940 SPECIES
 
 #### Status
 ACCEPTED

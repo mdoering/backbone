@@ -1,5 +1,4 @@
-Notothyrites amorphus R.K. Kar & R.K. Saxena SPECIES
-=======
+# Notothyrites amorphus R.K. Kar & R.K. Saxena SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterographa carassensis (Vain.) Redinger SPECIES
-=======
+# Enterographa carassensis (Vain.) Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entomophthora rivularis S. Keller, Niell & Santam. ex S. Keller, 2004 SPECIES
-=======
+# Entomophthora rivularis S. Keller, Niell & Santam. ex S. Keller, 2004 SPECIES
 
 #### Status
 ACCEPTED

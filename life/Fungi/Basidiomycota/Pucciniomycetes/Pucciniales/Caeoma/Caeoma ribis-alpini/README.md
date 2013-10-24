@@ -1,5 +1,4 @@
-Caeoma ribis-alpini G. Winter SPECIES
-=======
+# Caeoma ribis-alpini G. Winter SPECIES
 
 #### Status
 ACCEPTED

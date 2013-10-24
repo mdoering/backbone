@@ -1,5 +1,4 @@
-Septoria australiae McAlpine SPECIES
-=======
+# Septoria australiae McAlpine SPECIES
 
 #### Status
 ACCEPTED

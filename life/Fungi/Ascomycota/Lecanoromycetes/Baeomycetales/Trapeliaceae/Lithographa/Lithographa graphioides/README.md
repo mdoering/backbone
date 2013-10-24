@@ -1,5 +1,4 @@
-Lithographa graphioides (Cromb.) SPECIES
-=======
+# Lithographa graphioides (Cromb.) SPECIES
 
 #### Status
 ACCEPTED

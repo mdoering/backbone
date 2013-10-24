@@ -1,5 +1,4 @@
-Penicillium mandshuricum Saito SPECIES
-=======
+# Penicillium mandshuricum Saito SPECIES
 
 #### Status
 ACCEPTED

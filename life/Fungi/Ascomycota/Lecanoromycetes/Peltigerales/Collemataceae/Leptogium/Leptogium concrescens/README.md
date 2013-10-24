@@ -1,5 +1,4 @@
-Leptogium concrescens Tuck. SPECIES
-=======
+# Leptogium concrescens Tuck. SPECIES
 
 #### Status
 ACCEPTED

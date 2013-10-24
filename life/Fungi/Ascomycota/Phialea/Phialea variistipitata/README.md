@@ -1,5 +1,4 @@
-Phialea variistipitata Henn. SPECIES
-=======
+# Phialea variistipitata Henn. SPECIES
 
 #### Status
 ACCEPTED

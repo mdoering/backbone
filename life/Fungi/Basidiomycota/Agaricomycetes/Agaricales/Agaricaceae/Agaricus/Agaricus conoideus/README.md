@@ -1,5 +1,4 @@
-Agaricus conoideus Schumach. SPECIES
-=======
+# Agaricus conoideus Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis maxima (Speg.) Bat. SPECIES
-=======
+# Micropeltis maxima (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

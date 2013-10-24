@@ -1,5 +1,4 @@
-Cladosporium ulmariae Grognot SPECIES
-=======
+# Cladosporium ulmariae Grognot SPECIES
 
 #### Status
 ACCEPTED

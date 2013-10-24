@@ -1,5 +1,4 @@
-Entoloma pseudonothofagi E. Horak & Garrido SPECIES
-=======
+# Entoloma pseudonothofagi E. Horak & Garrido SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrophora vexans Auersw. SPECIES
-=======
+# Hydrophora vexans Auersw. SPECIES
 
 #### Status
 ACCEPTED

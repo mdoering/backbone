@@ -1,14 +1,13 @@
-Helminthosporium zizaniae Y. Nisik., 1929 SPECIES
-=======
+# Drechslera zizaniae (Y. Nisik.) Subram. & B.L. Jain, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Curr. Sci. 35: 355 (1966)
 
 #### Original name
 Helminthosporium zizaniae Y. Nisik., 1929

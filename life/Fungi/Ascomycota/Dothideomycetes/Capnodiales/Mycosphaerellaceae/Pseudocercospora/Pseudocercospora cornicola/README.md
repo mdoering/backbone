@@ -1,5 +1,4 @@
-Pseudocercospora cornicola (Tracy & Earle) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora cornicola (Tracy & Earle) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

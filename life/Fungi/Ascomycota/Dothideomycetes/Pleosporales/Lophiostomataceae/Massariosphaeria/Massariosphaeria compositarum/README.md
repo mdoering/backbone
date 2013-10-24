@@ -1,5 +1,4 @@
-Massariosphaeria compositarum (E. Müll.) Leuchtm. SPECIES
-=======
+# Massariosphaeria compositarum (E. Müll.) Leuchtm. SPECIES
 
 #### Status
 ACCEPTED

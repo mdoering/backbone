@@ -1,5 +1,4 @@
-Lacrymaria minuta Dragesco, 1963 SPECIES
-=======
+# Lacrymaria minuta Dragesco, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria aeruginosa (F.H. Wigg.) Sm. SPECIES
-=======
+# Lepraria aeruginosa (F.H. Wigg.) Sm. SPECIES
 
 #### Status
 ACCEPTED

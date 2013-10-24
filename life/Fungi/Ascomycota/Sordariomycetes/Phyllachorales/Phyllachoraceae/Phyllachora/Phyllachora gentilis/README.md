@@ -1,5 +1,4 @@
-Phyllachora gentilis var. gentilis VARIETY
-=======
+# Phyllachora gentilis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revista Argent. Hist. Nat. 1: 414 (1891)
+null
 
 #### Original name
-Phyllachora gentilis var. gentilis
+null
 
 ### Remarks
 null

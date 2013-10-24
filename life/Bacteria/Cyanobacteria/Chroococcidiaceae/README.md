@@ -1,5 +1,4 @@
-Chroococcidiaceae FAMILY
-=======
+# Chroococcidiaceae FAMILY
 
 #### Status
 ACCEPTED

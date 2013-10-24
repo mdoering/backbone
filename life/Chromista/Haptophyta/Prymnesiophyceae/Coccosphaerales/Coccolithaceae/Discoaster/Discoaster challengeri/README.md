@@ -1,5 +1,4 @@
-Discoaster challengeri Bramlette & Riedel, 1954 SPECIES
-=======
+# Discoaster challengeri Bramlette & Riedel, 1954 SPECIES
 
 #### Status
 ACCEPTED

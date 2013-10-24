@@ -1,5 +1,4 @@
-Malotium limbatum Velen. SPECIES
-=======
+# Malotium limbatum Velen. SPECIES
 
 #### Status
 ACCEPTED

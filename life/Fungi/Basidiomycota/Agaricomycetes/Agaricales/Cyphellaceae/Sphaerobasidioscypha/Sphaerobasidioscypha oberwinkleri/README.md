@@ -1,5 +1,4 @@
-Sphaerobasidioscypha oberwinkleri Agerer, 1983 SPECIES
-=======
+# Sphaerobasidioscypha oberwinkleri Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

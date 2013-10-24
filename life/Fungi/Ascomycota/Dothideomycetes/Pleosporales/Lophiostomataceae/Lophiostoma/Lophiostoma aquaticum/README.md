@@ -1,14 +1,13 @@
-Massarina aquatica J. Webster, 1965 SPECIES
-=======
+# Lophiostoma aquaticum (J. Webster) Aptroot & K.D. Hyde, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 48: 451 (1965)
+in Hyde, Wong & Aptroot, Fungal Diversity Res. Ser. (Hong Kong) 7: 106 (2002)
 
 #### Original name
 Massarina aquatica J. Webster, 1965

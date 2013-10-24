@@ -1,5 +1,4 @@
-Rhodactina incarnata Zhu L. Yang, Trappe & Lumyong SPECIES
-=======
+# Rhodactina incarnata Zhu L. Yang, Trappe & Lumyong SPECIES
 
 #### Status
 ACCEPTED

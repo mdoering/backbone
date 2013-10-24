@@ -1,5 +1,4 @@
-Sphaeria aesculi Schumach. SPECIES
-=======
+# Sphaeria aesculi Schumach. SPECIES
 
 #### Status
 ACCEPTED

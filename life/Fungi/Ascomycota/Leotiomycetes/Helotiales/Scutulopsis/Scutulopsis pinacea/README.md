@@ -1,5 +1,4 @@
-Scutulopsis pinacea Velen., 1934 SPECIES
-=======
+# Scutulopsis pinacea Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

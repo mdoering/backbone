@@ -1,5 +1,4 @@
-Scutomollisia microspora B. Hein & Scheuer, 1986 SPECIES
-=======
+# Scutomollisia microspora B. Hein & Scheuer, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Autophagomyces bryaxalis Thaxt. SPECIES
-=======
+# Autophagomyces bryaxalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

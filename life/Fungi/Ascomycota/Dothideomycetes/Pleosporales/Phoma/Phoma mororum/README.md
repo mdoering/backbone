@@ -1,5 +1,4 @@
-Phoma mororum Sacc. SPECIES
-=======
+# Phoma mororum Sacc. SPECIES
 
 #### Status
 ACCEPTED

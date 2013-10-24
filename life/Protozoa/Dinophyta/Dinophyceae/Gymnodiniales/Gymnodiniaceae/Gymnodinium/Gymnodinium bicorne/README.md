@@ -1,8 +1,7 @@
-Dissodinium bicorne (Kofoid & Swezy) F.J.R. Taylor, 1976 SPECIES
-=======
+# Gymnodinium bicorne Kofoid & Swezy, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,17 +1,16 @@
-Phoma petiolorum f. petiolorum FORM
-=======
+# Phoma petiolorum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Phoma petiolorum f. petiolorum
+null
 
 ### Remarks
 null

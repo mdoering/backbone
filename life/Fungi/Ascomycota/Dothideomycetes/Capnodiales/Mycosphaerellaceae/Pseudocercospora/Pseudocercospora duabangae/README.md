@@ -1,5 +1,4 @@
-Pseudocercospora duabangae M.D. Mehrotra & R.K. Verma SPECIES
-=======
+# Pseudocercospora duabangae M.D. Mehrotra & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

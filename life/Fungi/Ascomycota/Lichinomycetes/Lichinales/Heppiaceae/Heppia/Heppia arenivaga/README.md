@@ -1,5 +1,4 @@
-Heppia arenivaga Nyl. SPECIES
-=======
+# Heppia arenivaga Nyl. SPECIES
 
 #### Status
 ACCEPTED

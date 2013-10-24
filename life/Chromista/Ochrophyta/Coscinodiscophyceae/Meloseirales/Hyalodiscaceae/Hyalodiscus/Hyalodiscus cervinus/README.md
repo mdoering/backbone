@@ -1,5 +1,4 @@
-Hyalodiscus cervinus Brightw. SPECIES
-=======
+# Hyalodiscus cervinus Brightw. SPECIES
 
 #### Status
 ACCEPTED

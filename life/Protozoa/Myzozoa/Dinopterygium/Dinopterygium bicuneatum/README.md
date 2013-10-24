@@ -1,5 +1,4 @@
-Dinopterygium bicuneatum (Deflandre, 1938) Lentin & Williams SPECIES
-=======
+# Dinopterygium bicuneatum (Deflandre, 1938) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

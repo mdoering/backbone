@@ -1,5 +1,4 @@
-Clitocybe setiseda Schwein. SPECIES
-=======
+# Clitocybe setiseda Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidium lignicola Peck SPECIES
-=======
+# Phacidium lignicola Peck SPECIES
 
 #### Status
 ACCEPTED

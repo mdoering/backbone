@@ -1,5 +1,4 @@
-Protomycopsis Magnus GENUS
-=======
+# Protomycopsis Magnus GENUS
 
 #### Status
 ACCEPTED

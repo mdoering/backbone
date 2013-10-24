@@ -1,5 +1,4 @@
-Ceriomyces oregonensis Murrill SPECIES
-=======
+# Ceriomyces oregonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

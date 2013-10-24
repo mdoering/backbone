@@ -1,5 +1,4 @@
-Tholosima indivisa SPECIES
-=======
+# Tholosima indivisa SPECIES
 
 #### Status
 ACCEPTED

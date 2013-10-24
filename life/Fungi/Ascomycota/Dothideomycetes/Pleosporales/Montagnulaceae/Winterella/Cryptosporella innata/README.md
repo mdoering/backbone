@@ -1,5 +1,4 @@
-Cryptosporella innata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Cryptosporella innata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

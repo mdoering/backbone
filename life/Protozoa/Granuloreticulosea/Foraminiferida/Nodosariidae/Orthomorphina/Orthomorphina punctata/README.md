@@ -1,5 +1,4 @@
-Orthomorphina punctata SPECIES
-=======
+# Orthomorphina punctata SPECIES
 
 #### Status
 ACCEPTED

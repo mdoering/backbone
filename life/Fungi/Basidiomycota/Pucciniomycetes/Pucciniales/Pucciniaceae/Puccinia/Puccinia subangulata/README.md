@@ -1,5 +1,4 @@
-Puccinia subangulata Holw. SPECIES
-=======
+# Puccinia subangulata Holw. SPECIES
 
 #### Status
 ACCEPTED

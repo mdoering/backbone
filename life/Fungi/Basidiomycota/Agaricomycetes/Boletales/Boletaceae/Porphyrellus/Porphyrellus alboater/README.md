@@ -1,5 +1,4 @@
-Porphyrellus alboater (Schwein.) E.-J. Gilbert SPECIES
-=======
+# Porphyrellus alboater (Schwein.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

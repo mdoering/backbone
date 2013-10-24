@@ -1,5 +1,4 @@
-Xanthochrous cumminghii (Berk.) Pat. SPECIES
-=======
+# Xanthochrous cumminghii (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

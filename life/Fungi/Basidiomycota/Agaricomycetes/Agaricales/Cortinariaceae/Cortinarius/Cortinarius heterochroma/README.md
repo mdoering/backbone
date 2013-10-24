@@ -1,5 +1,4 @@
-Cortinarius heterochroma M.M. Moser SPECIES
-=======
+# Cortinarius heterochroma M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

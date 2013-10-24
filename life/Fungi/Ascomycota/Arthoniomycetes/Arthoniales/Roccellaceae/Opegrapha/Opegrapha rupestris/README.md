@@ -1,17 +1,16 @@
-Opegrapha saxicola var. saxicola VARIETY
-=======
+# Opegrapha rupestris Pers. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Bot. (Usteri) 5: 20 (1794)
 
 #### Original name
-null
+Opegrapha rupestris Pers.
 
 ### Remarks
 null

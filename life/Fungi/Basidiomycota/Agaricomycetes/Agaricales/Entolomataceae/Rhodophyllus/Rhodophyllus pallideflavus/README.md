@@ -1,5 +1,4 @@
-Rhodophyllus pallideflavus (Henn. & E. Nyman) Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus pallideflavus (Henn. & E. Nyman) Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

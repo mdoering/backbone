@@ -1,5 +1,4 @@
-Biatora tumidior (Nyl.) Räsänen SPECIES
-=======
+# Biatora tumidior (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

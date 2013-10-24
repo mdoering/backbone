@@ -1,5 +1,4 @@
-Peziza pulverulenta Saut. SPECIES
-=======
+# Peziza pulverulenta Saut. SPECIES
 
 #### Status
 ACCEPTED

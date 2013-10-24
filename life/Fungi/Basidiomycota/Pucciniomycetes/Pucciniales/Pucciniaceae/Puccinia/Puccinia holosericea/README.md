@@ -1,5 +1,4 @@
-Puccinia holosericea Cooke SPECIES
-=======
+# Puccinia holosericea Cooke SPECIES
 
 #### Status
 ACCEPTED

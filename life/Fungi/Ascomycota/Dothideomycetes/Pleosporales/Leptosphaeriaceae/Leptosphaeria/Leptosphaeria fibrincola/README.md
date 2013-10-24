@@ -1,5 +1,4 @@
-Leptosphaeria fibrincola Höhn. SPECIES
-=======
+# Leptosphaeria fibrincola Höhn. SPECIES
 
 #### Status
 ACCEPTED

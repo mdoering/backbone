@@ -1,5 +1,4 @@
-Amandinea microsticta (Meyen & Flot.) Marbach SPECIES
-=======
+# Amandinea microsticta (Meyen & Flot.) Marbach SPECIES
 
 #### Status
 ACCEPTED

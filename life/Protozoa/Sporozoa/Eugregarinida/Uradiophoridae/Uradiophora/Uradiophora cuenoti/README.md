@@ -1,8 +1,7 @@
-Cephaloidophora cuenoti Mercier, 1911 SPECIES
-=======
+# Uradiophora cuenoti (Mercier, 1911) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

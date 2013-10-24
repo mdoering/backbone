@@ -1,5 +1,4 @@
-Dermocybe sphagnogena M.M. Moser SPECIES
-=======
+# Dermocybe sphagnogena M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

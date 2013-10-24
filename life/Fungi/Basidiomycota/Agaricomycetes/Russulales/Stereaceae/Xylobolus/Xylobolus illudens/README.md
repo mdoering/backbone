@@ -1,17 +1,16 @@
-Stereum nitens Lloyd, 1922 SPECIES
-=======
+# Xylobolus illudens (Berk.) Boidin, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1158 (1922)
+Revue Mycol. , Paris 23: 341 (1958)
 
 #### Original name
-Stereum nitens Lloyd, 1922
+Stereum illudens Berk., 1845
 
 ### Remarks
 null

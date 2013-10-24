@@ -1,5 +1,4 @@
-Torula phaea Corda SPECIES
-=======
+# Torula phaea Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phalloboletus gigas P. Micheli SPECIES
-=======
+# Phalloboletus gigas P. Micheli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea depauperata Nyl. SPECIES
-=======
+# Lecidea depauperata Nyl. SPECIES
 
 #### Status
 ACCEPTED

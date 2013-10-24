@@ -1,5 +1,4 @@
-Skepperiella Pilát GENUS
-=======
+# Skepperiella Pilát GENUS
 
 #### Status
 ACCEPTED

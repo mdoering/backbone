@@ -1,5 +1,4 @@
-Lecanora geoica H. Magn. SPECIES
-=======
+# Lecanora geoica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

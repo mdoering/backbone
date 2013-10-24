@@ -1,5 +1,4 @@
-Cercospora ligusticicola Bonar SPECIES
-=======
+# Cercospora ligusticicola Bonar SPECIES
 
 #### Status
 ACCEPTED

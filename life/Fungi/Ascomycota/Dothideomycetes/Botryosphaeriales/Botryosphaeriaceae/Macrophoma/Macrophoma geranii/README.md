@@ -1,5 +1,4 @@
-Macrophoma geranii Hollós SPECIES
-=======
+# Macrophoma geranii Hollós SPECIES
 
 #### Status
 ACCEPTED

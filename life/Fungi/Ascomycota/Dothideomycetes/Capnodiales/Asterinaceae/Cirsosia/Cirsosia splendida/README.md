@@ -1,5 +1,4 @@
-Cirsosia splendida Bat. & H. Maia SPECIES
-=======
+# Cirsosia splendida Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

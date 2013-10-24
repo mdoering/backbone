@@ -1,5 +1,4 @@
-Pyropolyporus williamsii Murrill SPECIES
-=======
+# Pyropolyporus williamsii Murrill SPECIES
 
 #### Status
 ACCEPTED

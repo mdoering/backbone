@@ -1,5 +1,4 @@
-Candelaria antaretica SPECIES
-=======
+# Candelaria antaretica SPECIES
 
 #### Status
 ACCEPTED

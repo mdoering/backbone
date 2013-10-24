@@ -1,5 +1,4 @@
-Sirothecium antiquum Kräusel SPECIES
-=======
+# Sirothecium antiquum Kräusel SPECIES
 
 #### Status
 ACCEPTED

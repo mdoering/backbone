@@ -1,5 +1,4 @@
-Chytridium vorax Strasb. SPECIES
-=======
+# Chytridium vorax Strasb. SPECIES
 
 #### Status
 ACCEPTED

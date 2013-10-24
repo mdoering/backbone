@@ -1,5 +1,4 @@
-Meliola glycosmidis J.N. Kapoor SPECIES
-=======
+# Meliola glycosmidis J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

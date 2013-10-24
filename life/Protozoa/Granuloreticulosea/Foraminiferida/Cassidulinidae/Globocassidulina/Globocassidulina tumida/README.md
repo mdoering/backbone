@@ -1,5 +1,4 @@
-Globocassidulina tumida Heron-Allen & Earland, 1922 SPECIES
-=======
+# Globocassidulina tumida Heron-Allen & Earland, 1922 SPECIES
 
 #### Status
 ACCEPTED

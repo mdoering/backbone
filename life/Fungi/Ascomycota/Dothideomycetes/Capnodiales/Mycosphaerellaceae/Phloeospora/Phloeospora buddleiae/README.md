@@ -1,5 +1,4 @@
-Phloeospora buddleiae Linder SPECIES
-=======
+# Phloeospora buddleiae Linder SPECIES
 
 #### Status
 ACCEPTED

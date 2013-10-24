@@ -1,17 +1,16 @@
-Sporocephalum bryocola M. Zang SPECIES
-=======
+# Sporocephalum bryicola M. Zang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta bot. Yunn. 13(2): 152 (1991)
 
 #### Original name
-Sporocephalum bryocola M. Zang
+Sporocephalum bryicola M. Zang
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus baccatus Fr. SPECIES
-=======
+# Agaricus baccatus Fr. SPECIES
 
 #### Status
 ACCEPTED

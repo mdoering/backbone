@@ -1,5 +1,4 @@
-Sphaeria heloniaefolia Cooke & Ellis SPECIES
-=======
+# Sphaeria heloniaefolia Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

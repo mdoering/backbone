@@ -1,5 +1,4 @@
-Phellinidium orientale (Bondartseva & S. Herrera) Bondartseva & S. Herrera SPECIES
-=======
+# Phellinidium orientale (Bondartseva & S. Herrera) Bondartseva & S. Herrera SPECIES
 
 #### Status
 ACCEPTED

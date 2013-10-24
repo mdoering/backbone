@@ -1,5 +1,4 @@
-Opegrapha atra f. atra FORM
-=======
+# Opegrapha atra Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ann. Bot. (Usteri) 1: 30 (1794)
+null
 
 #### Original name
-Opegrapha atra f. atra
+Opegrapha atra Mont.
 
 ### Remarks
 null

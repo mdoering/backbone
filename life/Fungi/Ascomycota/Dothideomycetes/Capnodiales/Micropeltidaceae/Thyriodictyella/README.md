@@ -1,5 +1,4 @@
-Thyriodictyella Cif. GENUS
-=======
+# Thyriodictyella Cif. GENUS
 
 #### Status
 ACCEPTED

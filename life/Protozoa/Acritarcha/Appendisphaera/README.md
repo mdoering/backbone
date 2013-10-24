@@ -1,5 +1,4 @@
-Appendisphaera Moczydlowska, Vidal & Rudavskaya, 1993 GENUS
-=======
+# Appendisphaera Moczydlowska, Vidal & Rudavskaya, 1993 GENUS
 
 #### Status
 ACCEPTED

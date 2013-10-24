@@ -1,5 +1,4 @@
-Caeomurus coloradensis (Ellis & Everh.) Kuntze SPECIES
-=======
+# Caeomurus coloradensis (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

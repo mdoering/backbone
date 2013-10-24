@@ -1,5 +1,4 @@
-Acanthonitschkea Spegazzini, 1908 GENUS
-=======
+# Acanthonitschkea Spegazzini, 1908 GENUS
 
 #### Status
 ACCEPTED

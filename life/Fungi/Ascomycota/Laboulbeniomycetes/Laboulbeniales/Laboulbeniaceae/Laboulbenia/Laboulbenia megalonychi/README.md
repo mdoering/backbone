@@ -1,5 +1,4 @@
-Laboulbenia megalonychi Thaxt. SPECIES
-=======
+# Laboulbenia megalonychi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

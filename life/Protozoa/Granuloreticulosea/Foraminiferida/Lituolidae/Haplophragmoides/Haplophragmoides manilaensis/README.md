@@ -1,5 +1,4 @@
-Haplophragmoides manilaensis SPECIES
-=======
+# Haplophragmoides manilaensis SPECIES
 
 #### Status
 ACCEPTED

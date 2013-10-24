@@ -1,5 +1,4 @@
-Parmotrema blanchetianum (Müll. Arg.) Kalb SPECIES
-=======
+# Parmotrema blanchetianum (Müll. Arg.) Kalb SPECIES
 
 #### Status
 ACCEPTED

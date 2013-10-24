@@ -1,5 +1,4 @@
-Sarcographa tigrina Fée SPECIES
-=======
+# Sarcographa tigrina Fée SPECIES
 
 #### Status
 ACCEPTED

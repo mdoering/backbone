@@ -1,11 +1,10 @@
-Homoeostroma lobata Saunders, 1901 SPECIES
-=======
+# Punctaria lobata (Saunders) Setchell & N.L. Gardner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

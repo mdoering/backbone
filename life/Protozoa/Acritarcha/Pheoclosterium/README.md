@@ -1,5 +1,4 @@
-Pheoclosterium Tappan & A.R.Loeblich Jr. GENUS
-=======
+# Pheoclosterium Tappan & A.R.Loeblich Jr. GENUS
 
 #### Status
 ACCEPTED

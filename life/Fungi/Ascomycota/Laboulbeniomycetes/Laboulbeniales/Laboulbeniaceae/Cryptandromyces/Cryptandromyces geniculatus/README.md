@@ -1,5 +1,4 @@
-Cryptandromyces geniculatus Thaxt., 1912 SPECIES
-=======
+# Cryptandromyces geniculatus Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus primulinus Corner SPECIES
-=======
+# Boletus primulinus Corner SPECIES
 
 #### Status
 ACCEPTED

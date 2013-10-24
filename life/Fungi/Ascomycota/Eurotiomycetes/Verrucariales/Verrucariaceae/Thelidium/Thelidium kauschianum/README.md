@@ -1,5 +1,4 @@
-Thelidium kauschianum Erichsen SPECIES
-=======
+# Thelidium kauschianum Erichsen SPECIES
 
 #### Status
 ACCEPTED

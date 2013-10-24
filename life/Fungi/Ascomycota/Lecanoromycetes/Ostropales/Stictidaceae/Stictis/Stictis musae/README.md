@@ -1,5 +1,4 @@
-Stictis musae Seaver & Waterston SPECIES
-=======
+# Stictis musae Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

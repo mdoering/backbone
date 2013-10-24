@@ -1,5 +1,4 @@
-Stromatocrea W.B. Cooke GENUS
-=======
+# Stromatocrea W.B. Cooke GENUS
 
 #### Status
 ACCEPTED

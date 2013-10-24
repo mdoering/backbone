@@ -1,5 +1,4 @@
-Russula leucospora Bon SPECIES
-=======
+# Russula leucospora Bon SPECIES
 
 #### Status
 ACCEPTED

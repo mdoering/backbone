@@ -1,5 +1,4 @@
-Coxiella burnetii (Derrick, 1939) Philip, 1948 (Approved Lists, 1980) SPECIES
-=======
+# Coxiella burnetii (Derrick, 1939) Philip, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

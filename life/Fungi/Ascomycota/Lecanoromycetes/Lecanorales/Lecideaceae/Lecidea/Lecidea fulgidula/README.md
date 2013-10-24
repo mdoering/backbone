@@ -1,5 +1,4 @@
-Lecidea fulgidula Nyl. SPECIES
-=======
+# Lecidea fulgidula Nyl. SPECIES
 
 #### Status
 ACCEPTED

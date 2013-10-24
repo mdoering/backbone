@@ -1,5 +1,4 @@
-Pleurotus ornatus (Fr.) Sacc. SPECIES
-=======
+# Pleurotus ornatus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

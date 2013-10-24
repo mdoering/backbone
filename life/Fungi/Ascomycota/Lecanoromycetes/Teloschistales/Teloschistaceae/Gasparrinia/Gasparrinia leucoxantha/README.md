@@ -1,5 +1,4 @@
-Gasparrinia leucoxantha (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Gasparrinia leucoxantha (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

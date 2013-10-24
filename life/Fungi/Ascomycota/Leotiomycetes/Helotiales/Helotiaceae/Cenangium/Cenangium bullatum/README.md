@@ -1,5 +1,4 @@
-Cenangium bullatum Alb. & Schwein. SPECIES
-=======
+# Cenangium bullatum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

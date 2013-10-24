@@ -1,5 +1,4 @@
-Diplomitoporus Domanski, 1970 GENUS
-=======
+# Diplomitoporus Domanski, 1970 GENUS
 
 #### Status
 ACCEPTED

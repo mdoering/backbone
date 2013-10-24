@@ -1,5 +1,4 @@
-Hypocrea thelephoricola P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea thelephoricola P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

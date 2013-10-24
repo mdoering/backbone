@@ -1,14 +1,13 @@
-Halocrusticida panulirata (Kitanch. & Hatai) K. Nakam. & Hatai SPECIES
-=======
+# Halocrusticida panuliri (Kitanch. & Hatai) K. Nakam. & Hatai, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoscience 36(4): 437 (1995)
 
 #### Original name
 Atkinsiella panulirata Kitanch. & Hatai, 1995

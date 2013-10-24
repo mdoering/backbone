@@ -1,5 +1,4 @@
-Polyblastia ocellata Müll. Arg. SPECIES
-=======
+# Polyblastia ocellata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

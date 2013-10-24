@@ -1,5 +1,4 @@
-Polyblastia lariana A. Massal. SPECIES
-=======
+# Polyblastia lariana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rhodesina Conil & Longerstaey in Conil, Longerstaey & Ramsbottom, 1979 GENUS
-=======
+# Rhodesinella Conil & Longerstaey in Conil, 1980 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Conil, Longerstaey & Ramsbottom, Memoires Inst. Geol. Univ. Louvain 30: 77.
+in Conil, Annales Soc. Geol. Belg. 103: 48.
 
 #### Original name
-null
+Rhodesina Conil & Longerstaey in Conil, Longerstaey & Ramsbottom, 1979
 
 ### Remarks
 null

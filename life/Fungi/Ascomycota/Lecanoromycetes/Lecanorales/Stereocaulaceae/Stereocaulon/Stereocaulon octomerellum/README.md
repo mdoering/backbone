@@ -1,5 +1,4 @@
-Stereocaulon octomerellum var. octomerellum VARIETY
-=======
+# Stereocaulon octomerellum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Jap. Bot. 45(3): 68 (1970)
 
 #### Original name
-Stereocaulon octomerellum var. octomerellum
+Stereocaulon octomerellum Müll. Arg.
 
 ### Remarks
 null

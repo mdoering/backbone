@@ -1,5 +1,4 @@
-Zignoëlla sideritidis Gucevic SPECIES
-=======
+# Zignoëlla sideritidis Gucevic SPECIES
 
 #### Status
 ACCEPTED

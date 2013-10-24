@@ -1,5 +1,4 @@
-Lecanora tenuis H. Magn. SPECIES
-=======
+# Lecanora tenuis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

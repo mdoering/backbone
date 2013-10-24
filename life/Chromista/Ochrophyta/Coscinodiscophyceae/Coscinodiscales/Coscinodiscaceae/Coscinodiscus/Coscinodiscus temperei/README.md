@@ -1,5 +1,4 @@
-Coscinodiscus temperei J. Brun SPECIES
-=======
+# Coscinodiscus temperei J. Brun SPECIES
 
 #### Status
 ACCEPTED

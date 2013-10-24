@@ -1,5 +1,4 @@
-Lagenophrys discoidea Kellicott, 1887 SPECIES
-=======
+# Lagenophrys discoidea Kellicott, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormiella minipascua S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella minipascua S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

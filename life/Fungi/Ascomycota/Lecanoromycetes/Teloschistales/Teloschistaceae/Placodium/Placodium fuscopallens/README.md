@@ -1,5 +1,4 @@
-Placodium fuscopallens Krempelh. SPECIES
-=======
+# Placodium fuscopallens Krempelh. SPECIES
 
 #### Status
 ACCEPTED

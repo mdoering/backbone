@@ -1,5 +1,4 @@
-Cladonia destricta f. destricta FORM
-=======
+# Cladonia destricta (Nyl.) Fisch.-Benz. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia destricta f. destricta
+Cladonia amaurocraea f. destricta Nyl.
 
 ### Remarks
 null

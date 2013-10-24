@@ -1,17 +1,16 @@
-Stereocladium Nyl. GENUS
-=======
+# Stereocaulon Hoffmann, 1796 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deutschl. Fl. (Erlangen), Zweiter Theil 128 (1796)
 
 #### Original name
-Stereocladium Nyl.
+Stereocaulon Hoffmann, 1796
 
 ### Remarks
 null

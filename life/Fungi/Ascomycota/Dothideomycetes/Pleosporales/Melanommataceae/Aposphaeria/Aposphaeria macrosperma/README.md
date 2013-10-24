@@ -1,5 +1,4 @@
-Aposphaeria macrosperma (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Aposphaeria macrosperma (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

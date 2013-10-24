@@ -1,5 +1,4 @@
-Rhytisma tostum Berk. & M.A. Curtis SPECIES
-=======
+# Rhytisma tostum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tricholoma humile var. fragillima (Fr.) J.E. Lange, 1935 VARIETY
-=======
+# Melanoleuca oreina (Fr.) Kühner & Maire, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Agaric. Danic. 1: 65 (1935)
+Bull. trimest. Soc. mycol. Fr. 50: 18 (1934)
 
 #### Original name
-Agaricus humilis var. fragillimus Fr., 1874
+Agaricus oreinus Fr., 1818
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora atrocaesia Nyl. SPECIES
-=======
+# Lecanora atrocaesia Nyl. SPECIES
 
 #### Status
 ACCEPTED

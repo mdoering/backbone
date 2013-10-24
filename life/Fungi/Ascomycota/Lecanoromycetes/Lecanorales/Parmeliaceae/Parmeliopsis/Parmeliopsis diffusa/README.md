@@ -1,5 +1,4 @@
-Parmeliopsis diffusa var. diffusa VARIETY
-=======
+# Parmeliopsis diffusa (Weber) Riddle SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Imbricaria diffusa Körb.
+Lichen diffusus Weber
 
 ### Remarks
 null

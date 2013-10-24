@@ -1,5 +1,4 @@
-Amanita microspora O.K. Mill. SPECIES
-=======
+# Amanita microspora O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

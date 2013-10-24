@@ -1,5 +1,4 @@
-Disarticulatus indicus G.F. Orr SPECIES
-=======
+# Disarticulatus indicus G.F. Orr SPECIES
 
 #### Status
 ACCEPTED

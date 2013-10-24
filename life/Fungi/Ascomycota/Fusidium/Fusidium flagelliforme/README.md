@@ -1,5 +1,4 @@
-Fusidium flagelliforme Pidopl. SPECIES
-=======
+# Fusidium flagelliforme Pidopl. SPECIES
 
 #### Status
 ACCEPTED

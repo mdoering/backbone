@@ -1,14 +1,13 @@
-Capillaria pannicola Corda, 1837 SPECIES
-=======
+# Chrysosporium pannicola (Corda) Oorschot & Stalpers, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 10 (1837)
+in Van Oorschot, Stud. Mycol. 20: 43 (1980)
 
 #### Original name
 Capillaria pannicola Corda, 1837

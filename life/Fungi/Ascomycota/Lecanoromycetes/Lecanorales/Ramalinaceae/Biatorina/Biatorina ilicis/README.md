@@ -1,5 +1,4 @@
-Biatorina ilicis Jatta SPECIES
-=======
+# Biatorina ilicis Jatta SPECIES
 
 #### Status
 ACCEPTED

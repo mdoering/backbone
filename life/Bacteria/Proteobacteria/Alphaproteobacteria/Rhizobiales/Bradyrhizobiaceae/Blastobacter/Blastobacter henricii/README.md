@@ -1,5 +1,4 @@
-Blastobacter henricii Zavarzin, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Blastobacter henricii Zavarzin, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merismatium decolorans (Rehm ex Arnold) Triebel SPECIES
-=======
+# Merismatium decolorans (Rehm ex Arnold) Triebel SPECIES
 
 #### Status
 ACCEPTED

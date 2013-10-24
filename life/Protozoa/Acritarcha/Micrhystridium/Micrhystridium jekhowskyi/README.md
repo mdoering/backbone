@@ -1,5 +1,4 @@
-Micrhystridium jekhowskyi Sarjeant, 1973 SPECIES
-=======
+# Micrhystridium jekhowskyi Sarjeant, 1973 SPECIES
 
 #### Status
 ACCEPTED

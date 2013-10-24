@@ -1,5 +1,4 @@
-Multiplicisphaeridium thusui Fensome et al., 1990 SPECIES
-=======
+# Multiplicisphaeridium thusui Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

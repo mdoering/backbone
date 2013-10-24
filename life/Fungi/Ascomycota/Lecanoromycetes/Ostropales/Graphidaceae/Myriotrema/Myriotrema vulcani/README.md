@@ -1,5 +1,4 @@
-Myriotrema vulcani (Hale) Hale SPECIES
-=======
+# Myriotrema vulcani (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

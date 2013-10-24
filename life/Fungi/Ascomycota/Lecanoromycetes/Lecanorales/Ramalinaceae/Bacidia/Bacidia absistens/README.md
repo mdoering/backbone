@@ -1,17 +1,16 @@
-Bacidia acerina var. intermissa (Nyl.) Lettau VARIETY
-=======
+# Bacidia absistens (Nyl.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 53: 472 (1870)
 
 #### Original name
-Lecidea intermissa Nyl.
+Lecidea absistens Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thaxterogaster sphaerocephalus E. Horak SPECIES
-=======
+# Thaxterogaster sphaerocephalus E. Horak SPECIES
 
 #### Status
 ACCEPTED

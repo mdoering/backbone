@@ -1,5 +1,4 @@
-Elsinoë tecomae Viégas SPECIES
-=======
+# Elsinoë tecomae Viégas SPECIES
 
 #### Status
 ACCEPTED

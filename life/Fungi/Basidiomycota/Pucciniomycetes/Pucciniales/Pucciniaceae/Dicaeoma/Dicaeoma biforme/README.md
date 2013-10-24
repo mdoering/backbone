@@ -1,5 +1,4 @@
-Dicaeoma biforme (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma biforme (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

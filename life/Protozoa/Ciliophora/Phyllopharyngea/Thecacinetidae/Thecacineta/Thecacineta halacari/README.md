@@ -1,5 +1,4 @@
-Thecacineta halacari Shulz, 1933 SPECIES
-=======
+# Thecacineta halacari Shulz, 1933 SPECIES
 
 #### Status
 ACCEPTED

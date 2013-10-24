@@ -1,14 +1,13 @@
-Candida fujisanensis (Soneda) S.A. Mey. & Yarrow, 1978 SPECIES
-=======
+# Rhodotorula fujisanensis (Soneda) E.A. Johnson & Phaff, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Curr. Microbiol. 1: 224 (1978)
 
 #### Original name
 null

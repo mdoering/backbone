@@ -1,5 +1,4 @@
-Coniothyrium chanousianum (Sacc.) Petr. & Syd. SPECIES
-=======
+# Coniothyrium chanousianum (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ceriomyces effusus (Pat.) Sacc., 1891 SPECIES
-=======
+# Ptychogaster effusus Pat., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 202 (1891)
+J. Bot. , Paris 2: 216 (1888)
 
 #### Original name
 Ptychogaster effusus Pat., 1888

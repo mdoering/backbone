@@ -1,14 +1,13 @@
-Pleospora nuda (Cooke) Sacc., 1883 SPECIES
-=======
+# Pyrenophora nuda Cooke, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 277 (1883)
+Grevillea 8(no. 46): 68 (1879)
 
 #### Original name
 Pyrenophora nuda Cooke, 1879

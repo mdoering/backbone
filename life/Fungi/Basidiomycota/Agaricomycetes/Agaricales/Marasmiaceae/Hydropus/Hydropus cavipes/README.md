@@ -1,5 +1,4 @@
-Hydropus cavipes var. cavipes VARIETY
-=======
+# Hydropus cavipes (Pat. & Gaillard) Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Kew Bull. , Addit. Ser. 3: 42 (1970)
 
 #### Original name
-Hydropus cavipes var. cavipes
+Collybia cavipes Pat. & Gaillard
 
 ### Remarks
 null

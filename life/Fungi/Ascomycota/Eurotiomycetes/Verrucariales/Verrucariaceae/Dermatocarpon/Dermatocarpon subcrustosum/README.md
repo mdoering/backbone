@@ -1,5 +1,4 @@
-Dermatocarpon subcrustosum (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatocarpon subcrustosum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

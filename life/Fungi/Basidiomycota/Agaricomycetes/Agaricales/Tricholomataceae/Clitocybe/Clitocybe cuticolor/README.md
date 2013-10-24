@@ -1,5 +1,4 @@
-Clitocybe cuticolor Murrill SPECIES
-=======
+# Clitocybe cuticolor Murrill SPECIES
 
 #### Status
 ACCEPTED

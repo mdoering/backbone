@@ -1,5 +1,4 @@
-Maireina thujae W.B. Cooke SPECIES
-=======
+# Maireina thujae W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina cissi Zoll. SPECIES
-=======
+# Taphrina cissi Zoll. SPECIES
 
 #### Status
 ACCEPTED

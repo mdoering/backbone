@@ -1,5 +1,4 @@
-Melanotus GENUS
-=======
+# Melanotus GENUS
 
 #### Status
 ACCEPTED

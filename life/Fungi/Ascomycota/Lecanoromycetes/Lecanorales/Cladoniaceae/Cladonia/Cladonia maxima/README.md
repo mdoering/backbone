@@ -1,14 +1,13 @@
-Cladonia gracilis f. maxima Asahina FORM
-=======
+# Cladonia maxima (Asahina) Ahti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atlas of Japanese Cladoniae (Tokyo) 19 (1971)
+Acta bot. fenn. 15(1): 12 (1978)
 
 #### Original name
 Cladonia gracilis f. maxima Asahina

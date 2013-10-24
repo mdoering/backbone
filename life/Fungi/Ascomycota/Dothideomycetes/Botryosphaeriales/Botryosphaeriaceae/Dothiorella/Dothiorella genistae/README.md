@@ -1,5 +1,4 @@
-Dothiorella genistae Sousa da Câmara SPECIES
-=======
+# Dothiorella genistae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplotrichum roseoflavum Svilv. SPECIES
-=======
+# Haplotrichum roseoflavum Svilv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schulzeria velutina Beeli SPECIES
-=======
+# Schulzeria velutina Beeli SPECIES
 
 #### Status
 ACCEPTED

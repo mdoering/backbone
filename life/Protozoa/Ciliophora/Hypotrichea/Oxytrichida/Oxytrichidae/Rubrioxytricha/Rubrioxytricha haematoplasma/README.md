@@ -1,8 +1,7 @@
-Oxytricha haematoplasma Blatterer & Foissner, 1990 SPECIES
-=======
+# Rubrioxytricha haematoplasma (Blatterer & Foissner, 1990) Berger, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

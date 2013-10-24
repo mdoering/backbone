@@ -1,5 +1,4 @@
-Phomopsis almeidae Traverso & Spessa SPECIES
-=======
+# Phomopsis almeidae Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

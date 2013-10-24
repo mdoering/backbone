@@ -1,8 +1,7 @@
-Xylaria copelandi Henn. SPECIES
-=======
+# Xylaria copelandii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria copelandi Henn.
+Xylaria copelandii Henn.
 
 ### Remarks
 null

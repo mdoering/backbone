@@ -1,5 +1,4 @@
-Ramalina crosbyae Zahlbr. SPECIES
-=======
+# Ramalina crosbyae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecaphora smallanthi M. Piepenbr., P. Hanson & J. Carranza SPECIES
-=======
+# Thecaphora smallanthi M. Piepenbr., P. Hanson & J. Carranza SPECIES
 
 #### Status
 ACCEPTED

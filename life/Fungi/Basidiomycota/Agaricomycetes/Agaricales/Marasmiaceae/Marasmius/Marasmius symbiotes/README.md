@@ -1,5 +1,4 @@
-Marasmius symbiotes Theiss. SPECIES
-=======
+# Marasmius symbiotes Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neobotrys quadrituberosa Popofsky, 1913 SPECIES
-=======
+# Neobotrys quadrituberosa Popofsky, 1913 SPECIES
 
 #### Status
 ACCEPTED

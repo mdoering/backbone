@@ -1,5 +1,4 @@
-Arthonia insulata (B. de Lesd.) Redinger SPECIES
-=======
+# Arthonia insulata (B. de Lesd.) Redinger SPECIES
 
 #### Status
 ACCEPTED

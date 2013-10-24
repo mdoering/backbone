@@ -1,5 +1,4 @@
-Entyloma nierenbergiae Lagerh. SPECIES
-=======
+# Entyloma nierenbergiae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

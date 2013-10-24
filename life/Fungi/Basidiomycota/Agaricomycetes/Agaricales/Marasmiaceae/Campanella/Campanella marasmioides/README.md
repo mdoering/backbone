@@ -1,5 +1,4 @@
-Campanella marasmioides Rick SPECIES
-=======
+# Campanella marasmioides Rick SPECIES
 
 #### Status
 ACCEPTED

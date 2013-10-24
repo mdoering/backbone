@@ -1,17 +1,16 @@
-Cistella incrustata var. incrustata (Raitv.) Raitv. VARIETY
-=======
+# Clavidisculum incrustatum (Raitv.) Raitv., 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 78 (1970)
 
 #### Original name
-Cistella incrustata var. incrustata (Raitv.) Raitv.
+Dasyscyphus incrustatus Raitv., 1968
 
 ### Remarks
 null

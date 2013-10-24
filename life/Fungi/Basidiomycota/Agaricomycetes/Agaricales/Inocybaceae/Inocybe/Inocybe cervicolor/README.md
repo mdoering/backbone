@@ -1,17 +1,16 @@
-Inocybe hirsuta var. maxima A.H. Sm. VARIETY
-=======
+# Inocybe cervicolor (Pers.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enchir. fung. (Paris) 95 (1886)
 
 #### Original name
-Inocybe hirsuta var. maxima A.H. Sm.
+Agaricus cervicolor Pers., 1801
 
 ### Remarks
 null

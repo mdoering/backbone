@@ -1,5 +1,4 @@
-Humaria anceps Rehm SPECIES
-=======
+# Humaria anceps Rehm SPECIES
 
 #### Status
 ACCEPTED

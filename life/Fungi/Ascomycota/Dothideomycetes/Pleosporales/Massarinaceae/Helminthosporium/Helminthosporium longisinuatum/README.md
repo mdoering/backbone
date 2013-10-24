@@ -1,5 +1,4 @@
-Helminthosporium longisinuatum Matsush. SPECIES
-=======
+# Helminthosporium longisinuatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

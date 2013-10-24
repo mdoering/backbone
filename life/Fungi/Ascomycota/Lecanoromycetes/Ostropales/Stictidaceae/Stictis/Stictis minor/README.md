@@ -1,5 +1,4 @@
-Stictis minor Sherwood SPECIES
-=======
+# Stictis minor Sherwood SPECIES
 
 #### Status
 ACCEPTED

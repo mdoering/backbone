@@ -1,5 +1,4 @@
-Lachnum bellulum P. Karst. SPECIES
-=======
+# Lachnum bellulum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

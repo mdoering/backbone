@@ -1,5 +1,4 @@
-Golovinomyces cichoracearum var. cichoracearum VARIETY
-=======
+# Golovinomyces cichoracearum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ukr. bot. Zh. 45(5): 62 (1988)
+null
 
 #### Original name
-Golovinomyces cichoracearum var. cichoracearum
+null
 
 ### Remarks
 null

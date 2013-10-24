@@ -1,5 +1,4 @@
-Clitocybula tarnensis (Speg.) Singer SPECIES
-=======
+# Clitocybula tarnensis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

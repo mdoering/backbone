@@ -1,5 +1,4 @@
-Cercospora ichthyomethiae Dearn. & Barthol. SPECIES
-=======
+# Cercospora ichthyomethiae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucopezis GENUS
-=======
+# Leucopezis GENUS
 
 #### Status
 ACCEPTED

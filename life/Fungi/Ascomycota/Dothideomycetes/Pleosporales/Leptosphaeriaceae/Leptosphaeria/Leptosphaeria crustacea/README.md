@@ -1,5 +1,4 @@
-Leptosphaeria crustacea J. Schröt. SPECIES
-=======
+# Leptosphaeria crustacea J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

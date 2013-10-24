@@ -1,5 +1,4 @@
-Periconia bulbosa Schwein. SPECIES
-=======
+# Periconia bulbosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

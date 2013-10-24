@@ -1,5 +1,4 @@
-Peziza fraudans P. Karst. SPECIES
-=======
+# Peziza fraudans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

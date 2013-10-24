@@ -1,5 +1,4 @@
-Biddulphia zachariasi J. Brun. SPECIES
-=======
+# Biddulphia zachariasi J. Brun. SPECIES
 
 #### Status
 ACCEPTED

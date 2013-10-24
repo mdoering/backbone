@@ -1,17 +1,16 @@
-Diaporthe olivaestroma (Cooke) Berl. & Voglino, 1886 SPECIES
-=======
+# Melanconis flavovirens (G.H. Otth) Wehm., 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 29: 602 (1937)
 
 #### Original name
-null
+Diaporthe flavovirens G.H. Otth, 1869
 
 ### Remarks
 null

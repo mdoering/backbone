@@ -1,5 +1,4 @@
-Tania lanosa Egea, Torrente & Sipman SPECIES
-=======
+# Tania lanosa Egea, Torrente & Sipman SPECIES
 
 #### Status
 ACCEPTED

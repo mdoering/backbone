@@ -1,5 +1,4 @@
-Bacteriastrum seticulosa Grunow SPECIES
-=======
+# Bacteriastrum seticulosa Grunow SPECIES
 
 #### Status
 ACCEPTED

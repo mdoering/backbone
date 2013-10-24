@@ -1,5 +1,4 @@
-Wakefieldiomyces Kobayasi GENUS
-=======
+# Wakefieldiomyces Kobayasi GENUS
 
 #### Status
 ACCEPTED

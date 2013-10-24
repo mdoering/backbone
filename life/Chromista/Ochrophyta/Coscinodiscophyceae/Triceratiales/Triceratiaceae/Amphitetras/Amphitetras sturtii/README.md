@@ -1,5 +1,4 @@
-Amphitetras sturtii (Pantocsek) De Toni SPECIES
-=======
+# Amphitetras sturtii (Pantocsek) De Toni SPECIES
 
 #### Status
 ACCEPTED

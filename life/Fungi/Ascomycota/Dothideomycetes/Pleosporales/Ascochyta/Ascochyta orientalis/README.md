@@ -1,5 +1,4 @@
-Ascochyta orientalis Bondartsev SPECIES
-=======
+# Ascochyta orientalis Bondartsev SPECIES
 
 #### Status
 ACCEPTED

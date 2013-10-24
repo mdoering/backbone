@@ -1,5 +1,4 @@
-Biatora betulicola Kullh. SPECIES
-=======
+# Biatora betulicola Kullh. SPECIES
 
 #### Status
 ACCEPTED

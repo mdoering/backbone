@@ -1,5 +1,4 @@
-Plenodomus brachysporus Petr. SPECIES
-=======
+# Plenodomus brachysporus Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen alveolatus Scop. SPECIES
-=======
+# Lichen alveolatus Scop. SPECIES
 
 #### Status
 ACCEPTED

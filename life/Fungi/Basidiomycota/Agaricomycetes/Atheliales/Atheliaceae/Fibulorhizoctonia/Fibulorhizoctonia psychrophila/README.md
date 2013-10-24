@@ -1,5 +1,4 @@
-Fibulorhizoctonia psychrophila Stalpers & R.P. de Vries SPECIES
-=======
+# Fibulorhizoctonia psychrophila Stalpers & R.P. de Vries SPECIES
 
 #### Status
 ACCEPTED

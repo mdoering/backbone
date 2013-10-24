@@ -1,5 +1,4 @@
-Leptogium inversum P. M. Jørg. & Wallace SPECIES
-=======
+# Leptogium inversum P. M. Jørg. & Wallace SPECIES
 
 #### Status
 ACCEPTED

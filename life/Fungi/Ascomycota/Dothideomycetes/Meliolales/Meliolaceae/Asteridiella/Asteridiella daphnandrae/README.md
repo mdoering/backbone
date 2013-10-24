@@ -1,5 +1,4 @@
-Asteridiella daphnandrae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella daphnandrae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

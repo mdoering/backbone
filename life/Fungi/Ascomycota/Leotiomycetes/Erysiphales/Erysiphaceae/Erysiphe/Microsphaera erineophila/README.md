@@ -1,5 +1,4 @@
-Microsphaera erineophila Peck SPECIES
-=======
+# Microsphaera erineophila Peck SPECIES
 
 #### Status
 ACCEPTED

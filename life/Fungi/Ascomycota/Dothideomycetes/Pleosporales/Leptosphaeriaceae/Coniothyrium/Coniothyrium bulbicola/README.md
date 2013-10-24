@@ -1,5 +1,4 @@
-Coniothyrium bulbicola Hollós SPECIES
-=======
+# Coniothyrium bulbicola Hollós SPECIES
 
 #### Status
 ACCEPTED

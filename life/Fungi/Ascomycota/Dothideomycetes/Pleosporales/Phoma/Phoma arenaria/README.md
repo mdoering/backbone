@@ -1,5 +1,4 @@
-Phoma arenaria Sacc. SPECIES
-=======
+# Phoma arenaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

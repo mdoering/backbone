@@ -1,17 +1,16 @@
-Podosphaera tridactyla var. tridactyla VARIETY
-=======
+# Podosphaera tridactyla (Wallr.) de Bary, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Abh. senckenb. naturforsch. Ges. 7: 408 (1870)
 
 #### Original name
-Podosphaera tridactyla var. tridactyla
+Alphitomorpha tridactyla Wallr., 1833
 
 ### Remarks
 null

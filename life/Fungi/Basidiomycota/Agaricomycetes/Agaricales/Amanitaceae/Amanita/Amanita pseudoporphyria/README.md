@@ -1,5 +1,4 @@
-Amanita pseudoporphyria Hongo SPECIES
-=======
+# Amanita pseudoporphyria Hongo SPECIES
 
 #### Status
 ACCEPTED

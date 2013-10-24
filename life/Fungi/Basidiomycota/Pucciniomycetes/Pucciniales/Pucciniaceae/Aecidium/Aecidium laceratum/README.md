@@ -1,5 +1,4 @@
-Aecidium laceratum var. laceratum VARIETY
-=======
+# Aecidium laceratum Sowerby SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Col. fig. Engl. Fung. Mushr. (London) 3: pl. 318 (1801)
 
 #### Original name
-Aecidium laceratum var. laceratum
+Aecidium laceratum Sowerby
 
 ### Remarks
 null

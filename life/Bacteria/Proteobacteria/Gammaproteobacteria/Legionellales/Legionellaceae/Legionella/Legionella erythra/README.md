@@ -1,5 +1,4 @@
-Legionella erythra Brenner et al., 1985 SPECIES
-=======
+# Legionella erythra Brenner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytismites parschlugianus (Ettingsh.) Mesch. SPECIES
-=======
+# Rhytismites parschlugianus (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

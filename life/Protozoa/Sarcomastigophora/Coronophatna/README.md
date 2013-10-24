@@ -1,5 +1,4 @@
-Coronophatna Haeckel, 1881 GENUS
-=======
+# Coronophatna Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

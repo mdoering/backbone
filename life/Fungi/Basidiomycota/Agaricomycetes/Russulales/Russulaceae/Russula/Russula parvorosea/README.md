@@ -1,5 +1,4 @@
-Russula parvorosea Buyck SPECIES
-=======
+# Russula parvorosea Buyck SPECIES
 
 #### Status
 ACCEPTED

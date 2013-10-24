@@ -1,5 +1,4 @@
-Pleospora tassiana Sacc. & Traverso SPECIES
-=======
+# Pleospora tassiana Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

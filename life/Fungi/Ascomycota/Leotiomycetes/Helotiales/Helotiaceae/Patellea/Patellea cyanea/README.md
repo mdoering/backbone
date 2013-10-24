@@ -1,5 +1,4 @@
-Patellea cyanea (Ellis & Mont.) Sacc. SPECIES
-=======
+# Patellea cyanea (Ellis & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

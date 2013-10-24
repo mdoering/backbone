@@ -1,5 +1,4 @@
-Jaculispora submersa H.J. Huds. & Ingold, 1960 SPECIES
-=======
+# Jaculispora submersa H.J. Huds. & Ingold, 1960 SPECIES
 
 #### Status
 ACCEPTED

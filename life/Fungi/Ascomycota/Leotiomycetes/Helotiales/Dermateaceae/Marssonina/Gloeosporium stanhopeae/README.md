@@ -1,5 +1,4 @@
-Gloeosporium stanhopeae Allesch. SPECIES
-=======
+# Gloeosporium stanhopeae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scorpiosporium S.H. Iqbal GENUS
-=======
+# Scorpiosporium S.H. Iqbal GENUS
 
 #### Status
 ACCEPTED

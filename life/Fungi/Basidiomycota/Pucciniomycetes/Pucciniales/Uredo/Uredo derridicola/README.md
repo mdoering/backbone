@@ -1,5 +1,4 @@
-Uredo derridicola Arthur & Cummins SPECIES
-=======
+# Uredo derridicola Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

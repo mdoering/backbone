@@ -1,5 +1,4 @@
-Hypocrella rhombispora M. Liu & K.T. Hodge SPECIES
-=======
+# Hypocrella rhombispora M. Liu & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

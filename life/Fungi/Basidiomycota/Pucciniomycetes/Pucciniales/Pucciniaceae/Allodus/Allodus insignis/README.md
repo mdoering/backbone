@@ -1,5 +1,4 @@
-Allodus insignis (Holw.) Orton SPECIES
-=======
+# Allodus insignis (Holw.) Orton SPECIES
 
 #### Status
 ACCEPTED

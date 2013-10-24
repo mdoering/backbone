@@ -1,17 +1,16 @@
-Hyaloscypha iridina var. nivea Velen. VARIETY
-=======
+# Hyaloscypha iridina Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monogr. Discom. Bohem. (Prague) 275 (1934)
 
 #### Original name
-Hyaloscypha iridina var. nivea Velen.
+Hyaloscypha iridina Velen., 1934
 
 ### Remarks
 null

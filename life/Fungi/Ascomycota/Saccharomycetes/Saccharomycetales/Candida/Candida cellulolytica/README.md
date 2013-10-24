@@ -1,5 +1,4 @@
-Candida cellulolytica Nakase, M. Suzuki, M. Takash., Hamam., Hatano & Kukui, 1994 SPECIES
-=======
+# Candida cellulolytica Nakase, M. Suzuki, M. Takash., Hamam., Hatano & Kukui, 1994 SPECIES
 
 #### Status
 ACCEPTED

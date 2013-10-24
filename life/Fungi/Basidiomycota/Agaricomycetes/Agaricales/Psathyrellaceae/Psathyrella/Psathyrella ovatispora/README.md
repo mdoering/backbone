@@ -1,5 +1,4 @@
-Psathyrella ovatispora A.H. Sm. SPECIES
-=======
+# Psathyrella ovatispora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

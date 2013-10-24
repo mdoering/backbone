@@ -1,5 +1,4 @@
-Pteridomonas Penard, 1889 GENUS
-=======
+# Pteridomonas Penard, 1889 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rhodospirillum sodomense Mack et al., 1996 SPECIES
-=======
+# Rhodovibrio sodomensis (Mack et al., 1996) Imhoff et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mack, E. E. , Mandelco, L. , Woese, C. R. , and Madigan, M. T. 1993. Rhodospirillum sodomense, sp. nov. , a Dead Sea Rhodospirillum species. Arch. Microbiol. 160:363-371.
 
 #### Original name
 null

@@ -1,14 +1,13 @@
-Splanchnonema britzelmayriana (Rehm) Boise SPECIES
-=======
+# Splanchnonema britzelmayrianum (Rehm) Boise SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 22(2): 480 (1985)
 
 #### Original name
 Melanomma megalosporum var. britzelmayrianum Rehm

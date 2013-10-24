@@ -1,5 +1,4 @@
-Pattersoniella vitiphila Foissner, 1987 SPECIES
-=======
+# Pattersoniella vitiphila Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype syzygii Narendra & V.G. Rao SPECIES
-=======
+# Diatrype syzygii Narendra & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

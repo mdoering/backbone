@@ -1,5 +1,4 @@
-Pholiota subcarbonaria (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subcarbonaria (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

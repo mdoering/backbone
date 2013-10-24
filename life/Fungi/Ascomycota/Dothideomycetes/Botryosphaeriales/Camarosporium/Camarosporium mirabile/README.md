@@ -1,5 +1,4 @@
-Camarosporium mirabile Petr., 1948 SPECIES
-=======
+# Camarosporium mirabile Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

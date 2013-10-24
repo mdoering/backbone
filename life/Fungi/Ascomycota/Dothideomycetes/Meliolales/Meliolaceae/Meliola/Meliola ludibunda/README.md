@@ -1,5 +1,4 @@
-Meliola ludibunda Speg. SPECIES
-=======
+# Meliola ludibunda Speg. SPECIES
 
 #### Status
 ACCEPTED

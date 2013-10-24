@@ -1,5 +1,4 @@
-Corethron hispidum Castracane SPECIES
-=======
+# Corethron hispidum Castracane SPECIES
 
 #### Status
 ACCEPTED

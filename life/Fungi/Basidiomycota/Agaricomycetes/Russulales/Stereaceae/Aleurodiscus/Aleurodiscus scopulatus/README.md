@@ -1,5 +1,4 @@
-Aleurodiscus scopulatus Lloyd SPECIES
-=======
+# Aleurodiscus scopulatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

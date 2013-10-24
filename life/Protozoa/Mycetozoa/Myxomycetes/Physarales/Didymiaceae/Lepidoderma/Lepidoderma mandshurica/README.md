@@ -1,5 +1,4 @@
-Lepidoderma mandshurica Skvortsov SPECIES
-=======
+# Lepidoderma mandshurica Skvortsov SPECIES
 
 #### Status
 ACCEPTED

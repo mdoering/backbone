@@ -1,5 +1,4 @@
-Monotospora priceana Sacc. SPECIES
-=======
+# Monotospora priceana Sacc. SPECIES
 
 #### Status
 ACCEPTED

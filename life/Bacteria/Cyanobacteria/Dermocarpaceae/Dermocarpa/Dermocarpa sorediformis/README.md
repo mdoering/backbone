@@ -1,5 +1,4 @@
-Dermocarpa sorediformis (Reinsch) Geitler SPECIES
-=======
+# Dermocarpa sorediformis (Reinsch) Geitler SPECIES
 
 #### Status
 ACCEPTED

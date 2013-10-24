@@ -1,5 +1,4 @@
-Stereocaulon argodes Nyl. SPECIES
-=======
+# Stereocaulon argodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

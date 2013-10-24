@@ -1,5 +1,4 @@
-Buedingiisphaeridium pustulatum (Schultz, G., 1967) Sarjeant & Vavrdová SPECIES
-=======
+# Buedingiisphaeridium pustulatum (Schultz, G., 1967) Sarjeant & Vavrdová SPECIES
 
 #### Status
 ACCEPTED

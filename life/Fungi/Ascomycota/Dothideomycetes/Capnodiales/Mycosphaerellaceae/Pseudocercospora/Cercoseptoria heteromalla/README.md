@@ -1,5 +1,4 @@
-Cercoseptoria heteromalla (Syd.) Kamal & Narayan SPECIES
-=======
+# Cercoseptoria heteromalla (Syd.) Kamal & Narayan SPECIES
 
 #### Status
 ACCEPTED

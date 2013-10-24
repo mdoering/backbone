@@ -1,5 +1,4 @@
-Camarosporium tricyclae Speg. SPECIES
-=======
+# Camarosporium tricyclae Speg. SPECIES
 
 #### Status
 ACCEPTED

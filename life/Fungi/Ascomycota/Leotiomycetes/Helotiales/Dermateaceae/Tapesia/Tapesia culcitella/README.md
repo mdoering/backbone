@@ -1,5 +1,4 @@
-Tapesia culcitella (Cooke & Ellis) Sacc. SPECIES
-=======
+# Tapesia culcitella (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

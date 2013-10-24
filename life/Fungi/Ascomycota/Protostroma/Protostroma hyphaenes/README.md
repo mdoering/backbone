@@ -1,17 +1,16 @@
-Protostroma hyphaeneae Bat. SPECIES
-=======
+# Protostroma hyphaenes Bat., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revta Biol. , Lisb. 1: 109 (1957)
 
 #### Original name
-Protostroma hyphaeneae Bat.
+Protostroma hyphaenes Bat., 1957
 
 ### Remarks
 null

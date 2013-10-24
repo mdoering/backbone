@@ -1,5 +1,4 @@
-Dimelaena leucothrix SPECIES
-=======
+# Dimelaena leucothrix SPECIES
 
 #### Status
 ACCEPTED

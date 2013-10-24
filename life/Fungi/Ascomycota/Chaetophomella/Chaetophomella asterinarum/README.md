@@ -1,5 +1,4 @@
-Chaetophomella asterinarum (Speg.) Speg. SPECIES
-=======
+# Chaetophomella asterinarum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

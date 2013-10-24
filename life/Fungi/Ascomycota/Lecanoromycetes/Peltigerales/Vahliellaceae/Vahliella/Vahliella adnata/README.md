@@ -1,5 +1,4 @@
-Vahliella adnata (P.M. Jørg. & Upreti) P.M. Jørg. SPECIES
-=======
+# Vahliella adnata (P.M. Jørg. & Upreti) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

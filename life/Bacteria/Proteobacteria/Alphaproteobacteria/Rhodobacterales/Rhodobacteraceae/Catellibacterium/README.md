@@ -1,5 +1,4 @@
-Catellibacterium Tanaka, Hanada, Manome, Tsuchida, Kurane, Nakamura & Kamagata, 2004 GENUS
-=======
+# Catellibacterium Tanaka, Hanada, Manome, Tsuchida, Kurane, Nakamura & Kamagata, 2004 GENUS
 
 #### Status
 ACCEPTED

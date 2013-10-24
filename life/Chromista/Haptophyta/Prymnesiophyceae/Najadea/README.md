@@ -1,5 +1,4 @@
-Najadea J. Schiller, 1913 GENUS
-=======
+# Najadea J. Schiller, 1913 GENUS
 
 #### Status
 ACCEPTED

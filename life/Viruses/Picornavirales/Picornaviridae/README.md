@@ -1,5 +1,4 @@
-Picornaviridae FAMILY
-=======
+# Picornaviridae FAMILY
 
 #### Status
 ACCEPTED

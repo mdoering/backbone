@@ -1,5 +1,4 @@
-Corticium carbonaceum Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Corticium carbonaceum Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

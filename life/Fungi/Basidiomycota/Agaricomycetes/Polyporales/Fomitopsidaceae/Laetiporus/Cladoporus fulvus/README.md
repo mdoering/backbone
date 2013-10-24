@@ -1,5 +1,4 @@
-Cladoporus fulvus Chevall. SPECIES
-=======
+# Cladoporus fulvus Chevall. SPECIES
 
 #### Status
 ACCEPTED

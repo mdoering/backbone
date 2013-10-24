@@ -1,5 +1,4 @@
-Microsphaera gorlenkoi F.T. Chien SPECIES
-=======
+# Microsphaera gorlenkoi F.T. Chien SPECIES
 
 #### Status
 ACCEPTED

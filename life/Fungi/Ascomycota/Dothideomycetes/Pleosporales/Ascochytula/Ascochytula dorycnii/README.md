@@ -1,5 +1,4 @@
-Ascochytula dorycnii Petr. SPECIES
-=======
+# Ascochytula dorycnii Petr. SPECIES
 
 #### Status
 ACCEPTED

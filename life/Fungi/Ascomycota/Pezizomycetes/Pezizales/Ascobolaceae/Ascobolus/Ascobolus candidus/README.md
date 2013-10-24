@@ -1,5 +1,4 @@
-Ascobolus candidus J. Schröt. SPECIES
-=======
+# Ascobolus candidus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

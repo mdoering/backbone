@@ -1,5 +1,4 @@
-Peziza sphaerella Peck & Clinton SPECIES
-=======
+# Peziza sphaerella Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodinium globosum Kofoid SPECIES
-=======
+# Heterodinium globosum Kofoid SPECIES
 
 #### Status
 ACCEPTED

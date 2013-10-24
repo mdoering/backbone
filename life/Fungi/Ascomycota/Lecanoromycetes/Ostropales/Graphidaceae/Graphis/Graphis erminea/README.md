@@ -1,5 +1,4 @@
-Graphis erminea Nyl. SPECIES
-=======
+# Graphis erminea Nyl. SPECIES
 
 #### Status
 ACCEPTED

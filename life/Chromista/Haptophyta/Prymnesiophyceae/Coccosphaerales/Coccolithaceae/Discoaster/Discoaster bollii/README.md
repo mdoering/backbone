@@ -1,5 +1,4 @@
-Discoaster bollii Martini & Bramlette, 1963 SPECIES
-=======
+# Discoaster bollii Martini & Bramlette, 1963 SPECIES
 
 #### Status
 ACCEPTED

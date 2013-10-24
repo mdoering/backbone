@@ -1,5 +1,4 @@
-Pleomassaria gigantea Syd. SPECIES
-=======
+# Pleomassaria gigantea Syd. SPECIES
 
 #### Status
 ACCEPTED

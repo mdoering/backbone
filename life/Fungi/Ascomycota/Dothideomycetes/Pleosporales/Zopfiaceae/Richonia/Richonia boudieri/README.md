@@ -1,5 +1,4 @@
-Richonia boudieri (Arnold) Arx & E. Müll. SPECIES
-=======
+# Richonia boudieri (Arnold) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

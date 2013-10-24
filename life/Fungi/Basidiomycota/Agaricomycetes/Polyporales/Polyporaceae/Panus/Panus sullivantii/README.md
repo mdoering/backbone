@@ -1,5 +1,4 @@
-Panus sullivantii Mont. SPECIES
-=======
+# Panus sullivantii Mont. SPECIES
 
 #### Status
 ACCEPTED

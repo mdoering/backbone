@@ -1,5 +1,4 @@
-Diplodia mandorei Shreem. & Bilgrami SPECIES
-=======
+# Diplodia mandorei Shreem. & Bilgrami SPECIES
 
 #### Status
 ACCEPTED

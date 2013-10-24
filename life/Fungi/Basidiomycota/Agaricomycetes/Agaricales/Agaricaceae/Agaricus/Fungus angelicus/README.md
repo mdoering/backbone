@@ -1,5 +1,4 @@
-Fungus angelicus (Speg.) Kuntze SPECIES
-=======
+# Fungus angelicus (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

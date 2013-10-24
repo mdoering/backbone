@@ -1,5 +1,4 @@
-Laboulbenia gibbulosa Speg. SPECIES
-=======
+# Laboulbenia gibbulosa Speg. SPECIES
 
 #### Status
 ACCEPTED

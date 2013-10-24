@@ -1,5 +1,4 @@
-Macrophoma baculum (W.R. Gerard) Berl. & Voglino SPECIES
-=======
+# Macrophoma baculum (W.R. Gerard) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

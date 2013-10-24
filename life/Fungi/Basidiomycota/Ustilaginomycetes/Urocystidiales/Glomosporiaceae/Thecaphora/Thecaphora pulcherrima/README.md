@@ -1,5 +1,4 @@
-Thecaphora pulcherrima Durán SPECIES
-=======
+# Thecaphora pulcherrima Durán SPECIES
 
 #### Status
 ACCEPTED

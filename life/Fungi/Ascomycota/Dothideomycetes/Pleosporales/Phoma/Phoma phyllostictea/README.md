@@ -1,5 +1,4 @@
-Phoma phyllostictea Sacc. & Penz. SPECIES
-=======
+# Phoma phyllostictea Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

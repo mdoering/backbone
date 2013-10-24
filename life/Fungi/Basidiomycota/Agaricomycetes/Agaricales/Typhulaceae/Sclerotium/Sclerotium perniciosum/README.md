@@ -1,5 +1,4 @@
-Sclerotium perniciosum Slogt. & K.S. Thomas, 1930 SPECIES
-=======
+# Sclerotium perniciosum Slogt. & K.S. Thomas, 1930 SPECIES
 
 #### Status
 ACCEPTED

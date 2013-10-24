@@ -1,5 +1,4 @@
-Calonectria leucorrhodina var. leucorrhodina (Mont.) Speg. VARIETY
-=======
+# Calonectria leucorrhodina (Mont.) Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 12(5): 213 (1881)
 
 #### Original name
-Calonectria leucorrhodina var. leucorrhodina (Mont.) Speg.
+Peziza leucorrhodina Mont.
 
 ### Remarks
 null

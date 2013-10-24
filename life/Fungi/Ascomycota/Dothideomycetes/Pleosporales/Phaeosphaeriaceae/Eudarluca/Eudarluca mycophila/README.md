@@ -1,5 +1,4 @@
-Eudarluca mycophila (Petr.) Arx SPECIES
-=======
+# Eudarluca mycophila (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

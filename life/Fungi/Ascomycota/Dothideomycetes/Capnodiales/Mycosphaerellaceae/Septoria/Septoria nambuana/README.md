@@ -1,5 +1,4 @@
-Septoria nambuana Henn., 1904 SPECIES
-=======
+# Septoria nambuana Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

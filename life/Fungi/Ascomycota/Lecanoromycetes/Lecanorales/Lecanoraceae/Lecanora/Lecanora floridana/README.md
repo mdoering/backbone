@@ -1,5 +1,4 @@
-Lecanora floridana Tuck. SPECIES
-=======
+# Lecanora floridana Tuck. SPECIES
 
 #### Status
 ACCEPTED

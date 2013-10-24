@@ -1,5 +1,4 @@
-Pseudopeziza miconiae Petr. SPECIES
-=======
+# Pseudopeziza miconiae Petr. SPECIES
 
 #### Status
 ACCEPTED

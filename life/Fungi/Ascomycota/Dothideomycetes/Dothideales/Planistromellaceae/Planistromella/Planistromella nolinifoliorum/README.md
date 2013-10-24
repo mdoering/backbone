@@ -1,5 +1,4 @@
-Planistromella nolinifoliorum A.W. Ramaley, 1998 SPECIES
-=======
+# Planistromella nolinifoliorum A.W. Ramaley, 1998 SPECIES
 
 #### Status
 ACCEPTED

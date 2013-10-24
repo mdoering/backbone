@@ -1,5 +1,4 @@
-Goniosporium unilaterale Sacc. & Peyronel SPECIES
-=======
+# Goniosporium unilaterale Sacc. & Peyronel SPECIES
 
 #### Status
 ACCEPTED

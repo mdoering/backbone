@@ -1,5 +1,4 @@
-Biatora heerii (Hepp) Hepp SPECIES
-=======
+# Biatora heerii (Hepp) Hepp SPECIES
 
 #### Status
 ACCEPTED

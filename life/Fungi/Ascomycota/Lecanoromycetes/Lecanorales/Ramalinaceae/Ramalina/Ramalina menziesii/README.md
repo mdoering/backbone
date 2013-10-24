@@ -1,5 +1,4 @@
-Ramalina menziesii Taylor SPECIES
-=======
+# Ramalina menziesii Taylor SPECIES
 
 #### Status
 ACCEPTED

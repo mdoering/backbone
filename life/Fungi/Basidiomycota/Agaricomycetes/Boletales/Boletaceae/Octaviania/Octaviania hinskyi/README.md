@@ -1,5 +1,4 @@
-Octaviania hinskyi SPECIES
-=======
+# Octaviania hinskyi SPECIES
 
 #### Status
 ACCEPTED

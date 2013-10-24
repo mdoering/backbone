@@ -1,5 +1,4 @@
-Crepidotus citrinus P. Larsen SPECIES
-=======
+# Crepidotus citrinus P. Larsen SPECIES
 
 #### Status
 ACCEPTED

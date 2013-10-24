@@ -1,5 +1,4 @@
-Lecidea himalayana (Bab.) Zahlbr. SPECIES
-=======
+# Lecidea himalayana (Bab.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

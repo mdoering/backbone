@@ -1,5 +1,4 @@
-Termitomyces poliomphax (Singer) L.D. Gómez SPECIES
-=======
+# Termitomyces poliomphax (Singer) L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

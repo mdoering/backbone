@@ -1,5 +1,4 @@
-Nectria arundinella Penz. & Sacc. SPECIES
-=======
+# Nectria arundinella Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

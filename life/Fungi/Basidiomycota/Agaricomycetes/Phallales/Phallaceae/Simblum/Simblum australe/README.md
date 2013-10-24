@@ -1,5 +1,4 @@
-Simblum australe Speg. SPECIES
-=======
+# Simblum australe Speg. SPECIES
 
 #### Status
 ACCEPTED

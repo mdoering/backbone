@@ -1,5 +1,4 @@
-Oxytricha felis SPECIES
-=======
+# Oxytricha felis SPECIES
 
 #### Status
 ACCEPTED

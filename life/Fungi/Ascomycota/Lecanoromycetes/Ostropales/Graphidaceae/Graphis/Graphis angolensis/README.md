@@ -1,5 +1,4 @@
-Graphis angolensis C.W. Dodge SPECIES
-=======
+# Graphis angolensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

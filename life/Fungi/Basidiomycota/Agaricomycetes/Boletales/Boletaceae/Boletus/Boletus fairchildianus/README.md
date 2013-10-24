@@ -1,5 +1,4 @@
-Boletus fairchildianus (Singer) Singer SPECIES
-=======
+# Boletus fairchildianus (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

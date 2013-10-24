@@ -1,5 +1,4 @@
-Hygrophorus salmonipes G. Stev., 1963 SPECIES
-=======
+# Hygrophorus salmonipes G. Stev., 1963 SPECIES
 
 #### Status
 ACCEPTED

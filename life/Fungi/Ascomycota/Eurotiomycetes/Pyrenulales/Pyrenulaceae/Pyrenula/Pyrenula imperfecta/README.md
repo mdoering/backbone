@@ -1,5 +1,4 @@
-Pyrenula imperfecta (Ellis & Everh.) R.C. Harris SPECIES
-=======
+# Pyrenula imperfecta (Ellis & Everh.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

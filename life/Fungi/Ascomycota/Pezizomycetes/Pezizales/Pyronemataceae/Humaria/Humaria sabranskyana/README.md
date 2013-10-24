@@ -1,5 +1,4 @@
-Humaria sabranskyana Bäumler SPECIES
-=======
+# Humaria sabranskyana Bäumler SPECIES
 
 #### Status
 ACCEPTED

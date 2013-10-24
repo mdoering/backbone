@@ -1,5 +1,4 @@
-Challengeron heteracanthum SPECIES
-=======
+# Challengeron heteracanthum SPECIES
 
 #### Status
 ACCEPTED

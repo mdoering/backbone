@@ -1,5 +1,4 @@
-Psorotichia gorgoniana Vain. SPECIES
-=======
+# Psorotichia gorgoniana Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physcia comosa var. comosa Nyl. VARIETY
-=======
+# Heterodermia comosa (Eschw.) Follmann & Redón SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Willdenowia 6: 446 (1972)
 
 #### Original name
-Physcia comosa var. comosa Nyl.
+Parmelia comosa Eschw.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea miscelliformis Nyl. SPECIES
-=======
+# Lecidea miscelliformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

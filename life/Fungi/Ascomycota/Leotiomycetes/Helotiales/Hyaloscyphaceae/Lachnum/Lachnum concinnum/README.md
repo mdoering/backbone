@@ -1,5 +1,4 @@
-Lachnum concinnum Kirschst. SPECIES
-=======
+# Lachnum concinnum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

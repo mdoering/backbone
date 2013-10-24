@@ -1,5 +1,4 @@
-Physma paquianum (Harm.) Lettau SPECIES
-=======
+# Physma paquianum (Harm.) Lettau SPECIES
 
 #### Status
 ACCEPTED

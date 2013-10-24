@@ -1,5 +1,4 @@
-Parmelia norcrambidiocarpa Hale SPECIES
-=======
+# Parmelia norcrambidiocarpa Hale SPECIES
 
 #### Status
 ACCEPTED

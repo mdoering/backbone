@@ -1,5 +1,4 @@
-Tricholoma caffrorum Kalchbr. & MacOwan SPECIES
-=======
+# Tricholoma caffrorum Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

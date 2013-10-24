@@ -1,5 +1,4 @@
-Enchnosphaeria santonensis Sacc. SPECIES
-=======
+# Enchnosphaeria santonensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

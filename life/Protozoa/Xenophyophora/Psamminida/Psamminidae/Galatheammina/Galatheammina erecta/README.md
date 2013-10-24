@@ -1,5 +1,4 @@
-Galatheammina erecta Gooday, 1991 SPECIES
-=======
+# Galatheammina erecta Gooday, 1991 SPECIES
 
 #### Status
 ACCEPTED

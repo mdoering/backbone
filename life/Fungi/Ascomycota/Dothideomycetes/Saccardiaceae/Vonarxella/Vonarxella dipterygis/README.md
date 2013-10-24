@@ -1,17 +1,16 @@
-Vonarxella diptericis Bat., J.L. Bezerra & Peres SPECIES
-=======
+# Vonarxella dipterygis Bat., J.L. Bezerra & Peres, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Riv. Patol. veg. , Pavia, sér. 4 1(1-2): 62 (1965)
 
 #### Original name
-Vonarxella diptericis Bat., J.L. Bezerra & Peres
+Vonarxella dipterygis Bat., J.L. Bezerra & Peres, 1965
 
 ### Remarks
 null

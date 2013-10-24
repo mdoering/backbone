@@ -1,5 +1,4 @@
-Parmelia galactina Ach. SPECIES
-=======
+# Parmelia galactina Ach. SPECIES
 
 #### Status
 ACCEPTED

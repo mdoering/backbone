@@ -1,5 +1,4 @@
-Leptopogon galilaeus I. Dor & I. Baldinger SPECIES
-=======
+# Leptopogon galilaeus I. Dor & I. Baldinger SPECIES
 
 #### Status
 ACCEPTED

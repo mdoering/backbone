@@ -1,5 +1,4 @@
-Hydnum fusipes Pers. SPECIES
-=======
+# Hydnum fusipes Pers. SPECIES
 
 #### Status
 ACCEPTED

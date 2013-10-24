@@ -1,5 +1,4 @@
-Quadrulina Cushman & Ozawa, 1930 GENUS
-=======
+# Quadrulina Cushman & Ozawa, 1930 GENUS
 
 #### Status
 ACCEPTED

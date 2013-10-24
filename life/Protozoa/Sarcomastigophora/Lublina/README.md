@@ -1,5 +1,4 @@
-Lublina Gawar-Biedowa, 1989 GENUS
-=======
+# Lublina Gawar-Biedowa, 1989 GENUS
 
 #### Status
 ACCEPTED

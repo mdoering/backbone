@@ -1,5 +1,4 @@
-Xylaria phyllocharis Mont. SPECIES
-=======
+# Xylaria phyllocharis Mont. SPECIES
 
 #### Status
 ACCEPTED

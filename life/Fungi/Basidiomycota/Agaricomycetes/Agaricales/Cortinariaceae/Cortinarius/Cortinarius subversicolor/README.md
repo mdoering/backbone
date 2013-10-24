@@ -1,5 +1,4 @@
-Cortinarius subversicolor Rob. Henry SPECIES
-=======
+# Cortinarius subversicolor Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

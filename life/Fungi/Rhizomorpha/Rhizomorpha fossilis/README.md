@@ -1,5 +1,4 @@
-Rhizomorpha fossilis Göpp. SPECIES
-=======
+# Rhizomorpha fossilis Göpp. SPECIES
 
 #### Status
 ACCEPTED

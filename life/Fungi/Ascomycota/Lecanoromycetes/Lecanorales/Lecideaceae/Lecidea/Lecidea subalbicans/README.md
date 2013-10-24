@@ -1,5 +1,4 @@
-Lecidea subalbicans Nyl. SPECIES
-=======
+# Lecidea subalbicans Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe infelix Peck SPECIES
-=======
+# Inocybe infelix Peck SPECIES
 
 #### Status
 ACCEPTED

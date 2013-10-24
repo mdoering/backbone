@@ -1,5 +1,4 @@
-Pyrenula rockii Zahlbr. SPECIES
-=======
+# Pyrenula rockii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

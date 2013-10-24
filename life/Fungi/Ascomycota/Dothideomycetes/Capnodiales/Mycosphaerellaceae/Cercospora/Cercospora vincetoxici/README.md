@@ -1,5 +1,4 @@
-Cercospora vincetoxici Ellis & Everh. SPECIES
-=======
+# Cercospora vincetoxici Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

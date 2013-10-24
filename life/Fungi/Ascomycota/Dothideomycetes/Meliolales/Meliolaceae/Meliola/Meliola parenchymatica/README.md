@@ -1,5 +1,4 @@
-Meliola parenchymatica Gaillard SPECIES
-=======
+# Meliola parenchymatica Gaillard SPECIES
 
 #### Status
 ACCEPTED

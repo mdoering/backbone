@@ -1,5 +1,4 @@
-Marasmius papillatus Peck SPECIES
-=======
+# Marasmius papillatus Peck SPECIES
 
 #### Status
 ACCEPTED

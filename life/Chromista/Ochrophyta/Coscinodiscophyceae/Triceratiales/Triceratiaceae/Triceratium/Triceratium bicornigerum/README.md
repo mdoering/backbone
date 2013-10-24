@@ -1,5 +1,4 @@
-Triceratium bicornigerum G.D. Hanna SPECIES
-=======
+# Triceratium bicornigerum G.D. Hanna SPECIES
 
 #### Status
 ACCEPTED

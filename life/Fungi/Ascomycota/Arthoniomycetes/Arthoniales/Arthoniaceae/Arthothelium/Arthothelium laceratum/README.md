@@ -1,5 +1,4 @@
-Arthothelium laceratum (Vain.) Zahlbr. SPECIES
-=======
+# Arthothelium laceratum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

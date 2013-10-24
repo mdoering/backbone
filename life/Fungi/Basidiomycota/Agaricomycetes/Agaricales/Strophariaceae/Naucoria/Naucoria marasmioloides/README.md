@@ -1,5 +1,4 @@
-Naucoria marasmioloides Berk. SPECIES
-=======
+# Naucoria marasmioloides Berk. SPECIES
 
 #### Status
 ACCEPTED

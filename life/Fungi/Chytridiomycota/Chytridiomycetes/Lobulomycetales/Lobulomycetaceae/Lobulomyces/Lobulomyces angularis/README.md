@@ -1,5 +1,4 @@
-Lobulomyces angularis (Longcore) D.R. Simmons, 2009 SPECIES
-=======
+# Lobulomyces angularis (Longcore) D.R. Simmons, 2009 SPECIES
 
 #### Status
 ACCEPTED

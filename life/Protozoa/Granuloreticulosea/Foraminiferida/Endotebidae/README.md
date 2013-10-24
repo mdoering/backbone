@@ -1,5 +1,4 @@
-Endotebidae Vachard, Martini, Rettori & Zaninetti, 1994 FAMILY
-=======
+# Endotebidae Vachard, Martini, Rettori & Zaninetti, 1994 FAMILY
 
 #### Status
 ACCEPTED

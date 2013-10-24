@@ -1,5 +1,4 @@
-Parmelia mauritiana Gyeln. SPECIES
-=======
+# Parmelia mauritiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

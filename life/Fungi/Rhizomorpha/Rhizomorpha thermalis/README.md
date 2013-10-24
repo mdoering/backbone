@@ -1,5 +1,4 @@
-Rhizomorpha thermalis Kalchbr. SPECIES
-=======
+# Rhizomorpha thermalis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

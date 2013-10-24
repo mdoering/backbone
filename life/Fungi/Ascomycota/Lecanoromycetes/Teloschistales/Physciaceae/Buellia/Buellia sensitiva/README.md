@@ -1,5 +1,4 @@
-Buellia sensitiva Zahlbr. SPECIES
-=======
+# Buellia sensitiva Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

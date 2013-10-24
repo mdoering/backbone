@@ -1,5 +1,4 @@
-Trichoglossum rehmianum (Henn.) E.J. Durand SPECIES
-=======
+# Trichoglossum rehmianum (Henn.) E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

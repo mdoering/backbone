@@ -1,5 +1,4 @@
-Sorosporium overeemii (Cif.) Malençon SPECIES
-=======
+# Sorosporium overeemii (Cif.) Malençon SPECIES
 
 #### Status
 ACCEPTED

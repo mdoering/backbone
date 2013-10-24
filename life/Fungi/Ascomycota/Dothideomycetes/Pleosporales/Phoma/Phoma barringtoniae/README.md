@@ -1,5 +1,4 @@
-Phoma barringtoniae Cooke & Massee SPECIES
-=======
+# Phoma barringtoniae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

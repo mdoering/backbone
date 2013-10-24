@@ -1,5 +1,4 @@
-Alternaria elaeagni Vidhyas., Rangan. & Rangaswami SPECIES
-=======
+# Alternaria elaeagni Vidhyas., Rangan. & Rangaswami SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus corrugatus Wallr. SPECIES
-=======
+# Cyathus corrugatus Wallr. SPECIES
 
 #### Status
 ACCEPTED

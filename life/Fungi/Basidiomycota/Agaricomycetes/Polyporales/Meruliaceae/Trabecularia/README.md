@@ -1,5 +1,4 @@
-Trabecularia GENUS
-=======
+# Trabecularia GENUS
 
 #### Status
 ACCEPTED

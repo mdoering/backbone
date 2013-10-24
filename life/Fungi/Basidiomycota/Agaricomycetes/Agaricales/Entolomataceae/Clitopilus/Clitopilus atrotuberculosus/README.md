@@ -1,5 +1,4 @@
-Clitopilus atrotuberculosus Rick SPECIES
-=======
+# Clitopilus atrotuberculosus Rick SPECIES
 
 #### Status
 ACCEPTED

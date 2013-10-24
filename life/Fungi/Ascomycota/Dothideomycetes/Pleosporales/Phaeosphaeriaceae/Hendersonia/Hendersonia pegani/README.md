@@ -1,5 +1,4 @@
-Hendersonia pegani Bubák SPECIES
-=======
+# Hendersonia pegani Bubák SPECIES
 
 #### Status
 ACCEPTED

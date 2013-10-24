@@ -1,5 +1,4 @@
-Lembosia linderae W. Yamam. SPECIES
-=======
+# Lembosia linderae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lewinella persicus (Lewin, 1970) Sly, Taghavi & Fegan, 1998 SPECIES
-=======
+# Lewinella persicus (Lewin, 1970) Sly, Taghavi & Fegan, 1998 SPECIES
 
 #### Status
 ACCEPTED

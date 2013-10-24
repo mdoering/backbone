@@ -1,5 +1,4 @@
-Leptosphaeria myricae Dearn. & House SPECIES
-=======
+# Leptosphaeria myricae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

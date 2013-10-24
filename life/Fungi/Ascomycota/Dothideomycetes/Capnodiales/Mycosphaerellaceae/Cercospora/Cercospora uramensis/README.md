@@ -1,5 +1,4 @@
-Cercospora uramensis Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora uramensis Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

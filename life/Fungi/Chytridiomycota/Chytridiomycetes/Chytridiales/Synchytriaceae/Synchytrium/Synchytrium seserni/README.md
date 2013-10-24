@@ -1,5 +1,4 @@
-Synchytrium seserni S. Sinha & S.C. Gupta SPECIES
-=======
+# Synchytrium seserni S. Sinha & S.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

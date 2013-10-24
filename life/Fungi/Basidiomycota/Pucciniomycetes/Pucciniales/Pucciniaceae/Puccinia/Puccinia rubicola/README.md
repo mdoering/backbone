@@ -1,17 +1,16 @@
-Puccinia rubiicola P. Syd. & Syd. SPECIES
-=======
+# Puccinia rubicola P. Syd. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Uredin. (Lipsiae) 1(2): 226 (1902)
 
 #### Original name
-Puccinia rubiicola P. Syd. & Syd.
+Puccinia rubicola P. Syd. & Syd.
 
 ### Remarks
 null

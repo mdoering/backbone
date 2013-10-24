@@ -1,17 +1,16 @@
-Chlorodictyon J. Agardh GENUS
-=======
+# Ramalina Ach. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 27: 433 (1870)
+in Luyken, Tent. Hist. Lich. 95 (1809)
 
 #### Original name
-Chlorodictyon J. Agardh
+Ramalina Ach.
 
 ### Remarks
 null

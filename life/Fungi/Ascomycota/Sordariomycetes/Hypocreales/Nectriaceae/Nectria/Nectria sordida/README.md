@@ -1,5 +1,4 @@
-Nectria sordida Speg. SPECIES
-=======
+# Nectria sordida Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strickeria inclusa Petr. SPECIES
-=======
+# Strickeria inclusa Petr. SPECIES
 
 #### Status
 ACCEPTED

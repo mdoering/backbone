@@ -1,5 +1,4 @@
-Hormiscium handelii Bubák SPECIES
-=======
+# Hormiscium handelii Bubák SPECIES
 
 #### Status
 ACCEPTED

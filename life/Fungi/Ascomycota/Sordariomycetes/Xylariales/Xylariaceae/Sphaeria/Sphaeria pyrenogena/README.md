@@ -1,5 +1,4 @@
-Sphaeria pyrenogena Durieu & Mont. SPECIES
-=======
+# Sphaeria pyrenogena Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

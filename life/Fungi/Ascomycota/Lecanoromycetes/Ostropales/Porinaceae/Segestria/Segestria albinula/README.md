@@ -1,5 +1,4 @@
-Segestria albinula (Müll. Arg.) Hellb. SPECIES
-=======
+# Segestria albinula (Müll. Arg.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galactinia buchsiana Kirschst. SPECIES
-=======
+# Galactinia buchsiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

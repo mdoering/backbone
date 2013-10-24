@@ -1,5 +1,4 @@
-Mycocalicium norvegicum (Vain.) Vain. SPECIES
-=======
+# Mycocalicium norvegicum (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rhynchomyces marchalii Sacc. & Marchal, 1885 SPECIES
-=======
+# Pyxidiophora marchalii (Sacc.) N. Lundq., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 24: 60 (1885)
+Bot. Notiser 133(2): 139 (1980)
 
 #### Original name
 Rhynchomyces marchalii Sacc. & Marchal, 1885

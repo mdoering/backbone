@@ -1,5 +1,4 @@
-Inonotus pusillus Murrill, 1904 SPECIES
-=======
+# Inonotus pusillus Murrill, 1904 SPECIES
 
 #### Status
 ACCEPTED

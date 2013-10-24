@@ -1,5 +1,4 @@
-Pythium aphanidermatum (Edson) Fitzp., 1923 SPECIES
-=======
+# Pythium aphanidermatum (Edson) Fitzp., 1923 SPECIES
 
 #### Status
 ACCEPTED

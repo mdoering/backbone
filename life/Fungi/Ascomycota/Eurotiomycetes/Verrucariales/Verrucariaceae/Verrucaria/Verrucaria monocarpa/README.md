@@ -1,5 +1,4 @@
-Verrucaria monocarpa Kremp. SPECIES
-=======
+# Verrucaria monocarpa Kremp. SPECIES
 
 #### Status
 ACCEPTED

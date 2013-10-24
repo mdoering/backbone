@@ -1,5 +1,4 @@
-Colletotrichum crossandrae Patel, Kamat & C.B. Pande SPECIES
-=======
+# Colletotrichum crossandrae Patel, Kamat & C.B. Pande SPECIES
 
 #### Status
 ACCEPTED

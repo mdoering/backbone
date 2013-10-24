@@ -1,5 +1,4 @@
-Platychora ulmi Duval, 1795 SPECIES
-=======
+# Platychora ulmi Duval, 1795 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotes leticiensis Bovee, 1957 SPECIES
-=======
+# Euplotes leticiensis Bovee, 1957 SPECIES
 
 #### Status
 ACCEPTED

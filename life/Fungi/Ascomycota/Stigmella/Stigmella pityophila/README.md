@@ -1,5 +1,4 @@
-Stigmella pityophila Cooke SPECIES
-=======
+# Stigmella pityophila Cooke SPECIES
 
 #### Status
 ACCEPTED

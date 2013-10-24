@@ -1,5 +1,4 @@
-Coniothyrium juniperi M. Moreau, C. Moreau & Péresse, 1971 SPECIES
-=======
+# Coniothyrium juniperi M. Moreau, C. Moreau & Péresse, 1971 SPECIES
 
 #### Status
 ACCEPTED

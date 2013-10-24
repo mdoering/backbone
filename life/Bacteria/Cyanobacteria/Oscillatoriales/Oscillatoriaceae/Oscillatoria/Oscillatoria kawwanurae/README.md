@@ -1,5 +1,4 @@
-Oscillatoria kawwanurae Negoro SPECIES
-=======
+# Oscillatoria kawwanurae Negoro SPECIES
 
 #### Status
 ACCEPTED

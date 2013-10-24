@@ -1,5 +1,4 @@
-Phaeospora hetaerizans (Leight.) Zopf SPECIES
-=======
+# Phaeospora hetaerizans (Leight.) Zopf SPECIES
 
 #### Status
 ACCEPTED

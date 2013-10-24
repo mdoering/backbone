@@ -1,17 +1,16 @@
-Verrucaria mawsoni C.W. Dodge SPECIES
-=======
+# Verrucaria mawsonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 40 (1948)
 
 #### Original name
-Verrucaria mawsoni C.W. Dodge
+Verrucaria mawsonii C.W. Dodge
 
 ### Remarks
 null

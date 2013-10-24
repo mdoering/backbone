@@ -1,5 +1,4 @@
-Boletus umbrinus Pers. SPECIES
-=======
+# Boletus umbrinus Pers. SPECIES
 
 #### Status
 ACCEPTED

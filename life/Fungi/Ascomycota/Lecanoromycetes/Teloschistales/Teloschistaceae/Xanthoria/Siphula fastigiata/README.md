@@ -1,5 +1,4 @@
-Siphula fastigiata (Nyl.) Nyl., 1863 SPECIES
-=======
+# Siphula fastigiata (Nyl.) Nyl., 1863 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,17 +1,16 @@
-Puccinia septentrionalis var. septentrionalis VARIETY
-=======
+# Puccinia septentrionalis Juel, 1895 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 52: 383 (1895)
+Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 52(6): 383 (1895)
 
 #### Original name
-Puccinia septentrionalis var. septentrionalis
+Puccinia septentrionalis Juel, 1895
 
 ### Remarks
 null

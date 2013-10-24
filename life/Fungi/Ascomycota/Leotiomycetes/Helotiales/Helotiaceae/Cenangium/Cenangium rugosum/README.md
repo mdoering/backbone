@@ -1,5 +1,4 @@
-Cenangium rugosum Niessl SPECIES
-=======
+# Cenangium rugosum Niessl SPECIES
 
 #### Status
 ACCEPTED

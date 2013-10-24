@@ -1,5 +1,4 @@
-Hohenbuehelia repanda Huijsman SPECIES
-=======
+# Hohenbuehelia repanda Huijsman SPECIES
 
 #### Status
 ACCEPTED

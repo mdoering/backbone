@@ -1,5 +1,4 @@
-Anguillospora virginiana Wolfe SPECIES
-=======
+# Anguillospora virginiana Wolfe SPECIES
 
 #### Status
 ACCEPTED

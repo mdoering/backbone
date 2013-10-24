@@ -1,5 +1,4 @@
-Laccaria Berk. & Broome GENUS
-=======
+# Laccaria Berk. & Broome GENUS
 
 #### Status
 ACCEPTED

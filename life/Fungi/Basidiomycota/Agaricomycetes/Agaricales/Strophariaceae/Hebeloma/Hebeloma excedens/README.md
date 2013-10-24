@@ -1,5 +1,4 @@
-Hebeloma excedens Peck SPECIES
-=======
+# Hebeloma excedens Peck SPECIES
 
 #### Status
 ACCEPTED

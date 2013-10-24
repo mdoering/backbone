@@ -1,5 +1,4 @@
-Peridermium guatemalense Arthur & F. Kern SPECIES
-=======
+# Peridermium guatemalense Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

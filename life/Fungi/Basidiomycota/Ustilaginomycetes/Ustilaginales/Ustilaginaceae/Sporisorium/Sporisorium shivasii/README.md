@@ -1,5 +1,4 @@
-Sporisorium shivasii Vánky SPECIES
-=======
+# Sporisorium shivasii Vánky SPECIES
 
 #### Status
 ACCEPTED

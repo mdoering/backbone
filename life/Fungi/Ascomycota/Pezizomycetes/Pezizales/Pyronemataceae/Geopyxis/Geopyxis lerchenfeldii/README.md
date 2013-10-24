@@ -1,5 +1,4 @@
-Geopyxis lerchenfeldii (Schulzer) Sacc. SPECIES
-=======
+# Geopyxis lerchenfeldii (Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

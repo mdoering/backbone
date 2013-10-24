@@ -1,5 +1,4 @@
-Lecanactis subgrumulosa Egea, Torrente & Manrique SPECIES
-=======
+# Lecanactis subgrumulosa Egea, Torrente & Manrique SPECIES
 
 #### Status
 ACCEPTED

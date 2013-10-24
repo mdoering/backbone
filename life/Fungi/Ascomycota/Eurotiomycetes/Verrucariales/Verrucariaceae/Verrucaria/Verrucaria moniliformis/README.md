@@ -1,5 +1,4 @@
-Verrucaria moniliformis C. Knight SPECIES
-=======
+# Verrucaria moniliformis C. Knight SPECIES
 
 #### Status
 ACCEPTED

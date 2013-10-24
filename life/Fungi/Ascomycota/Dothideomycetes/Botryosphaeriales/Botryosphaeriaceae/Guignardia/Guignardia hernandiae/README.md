@@ -1,5 +1,4 @@
-Guignardia hernandiae Tak. Kobay. & Y. Kawabe SPECIES
-=======
+# Guignardia hernandiae Tak. Kobay. & Y. Kawabe SPECIES
 
 #### Status
 ACCEPTED

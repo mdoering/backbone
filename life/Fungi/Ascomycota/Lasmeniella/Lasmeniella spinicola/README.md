@@ -1,5 +1,4 @@
-Lasmeniella spinicola Syd. SPECIES
-=======
+# Lasmeniella spinicola Syd. SPECIES
 
 #### Status
 ACCEPTED

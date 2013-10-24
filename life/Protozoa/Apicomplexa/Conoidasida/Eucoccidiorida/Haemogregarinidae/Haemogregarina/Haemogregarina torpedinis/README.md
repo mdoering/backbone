@@ -1,5 +1,4 @@
-Haemogregarina torpedinis Neumann, 1909 SPECIES
-=======
+# Haemogregarina torpedinis Neumann, 1909 SPECIES
 
 #### Status
 ACCEPTED

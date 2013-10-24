@@ -1,5 +1,4 @@
-Lutibacter maritimus Park, Kang, Oh & Yoon, 2010 SPECIES
-=======
+# Lutibacter maritimus Park, Kang, Oh & Yoon, 2010 SPECIES
 
 #### Status
 ACCEPTED

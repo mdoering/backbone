@@ -1,5 +1,4 @@
-Petalomonas prototheca Skuja SPECIES
-=======
+# Petalomonas prototheca Skuja SPECIES
 
 #### Status
 ACCEPTED

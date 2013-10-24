@@ -1,5 +1,4 @@
-Isosoma carnosum (Velen.) Svrcek SPECIES
-=======
+# Isosoma carnosum (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

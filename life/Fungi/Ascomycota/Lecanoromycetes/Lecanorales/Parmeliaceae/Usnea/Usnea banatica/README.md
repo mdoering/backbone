@@ -1,5 +1,4 @@
-Usnea banatica Motyka ex Dughi & Ducos {?} SPECIES
-=======
+# Usnea banatica Motyka ex Dughi & Ducos {?} SPECIES
 
 #### Status
 ACCEPTED

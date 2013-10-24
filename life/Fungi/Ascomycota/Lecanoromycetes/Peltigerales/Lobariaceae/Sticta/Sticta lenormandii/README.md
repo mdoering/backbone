@@ -1,5 +1,4 @@
-Sticta lenormandii (Nyl.) Zahlbr. SPECIES
-=======
+# Sticta lenormandii (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

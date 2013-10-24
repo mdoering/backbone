@@ -1,5 +1,4 @@
-Placopsis lambii Hertel & V. Wirth SPECIES
-=======
+# Placopsis lambii Hertel & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

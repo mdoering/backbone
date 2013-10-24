@@ -1,5 +1,4 @@
-Bulimina minima SPECIES
-=======
+# Bulimina minima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Padina glabra Gaillard SPECIES
-=======
+# Padina glabra Gaillard SPECIES
 
 #### Status
 ACCEPTED

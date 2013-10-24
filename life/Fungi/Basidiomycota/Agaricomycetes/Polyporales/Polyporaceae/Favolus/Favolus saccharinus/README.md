@@ -1,5 +1,4 @@
-Favolus saccharinus Berk. SPECIES
-=======
+# Favolus saccharinus Berk. SPECIES
 
 #### Status
 ACCEPTED

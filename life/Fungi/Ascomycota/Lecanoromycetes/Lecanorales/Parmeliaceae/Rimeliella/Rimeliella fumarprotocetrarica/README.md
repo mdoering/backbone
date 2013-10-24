@@ -1,5 +1,4 @@
-Rimeliella fumarprotocetrarica (Marcelli & Hale) Kurok. SPECIES
-=======
+# Rimeliella fumarprotocetrarica (Marcelli & Hale) Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma maculare Fuckel SPECIES
-=======
+# Asteroma maculare Fuckel SPECIES
 
 #### Status
 ACCEPTED

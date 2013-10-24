@@ -1,5 +1,4 @@
-Agaricus galericulatus-hiemalis Lasch SPECIES
-=======
+# Agaricus galericulatus-hiemalis Lasch SPECIES
 
 #### Status
 ACCEPTED

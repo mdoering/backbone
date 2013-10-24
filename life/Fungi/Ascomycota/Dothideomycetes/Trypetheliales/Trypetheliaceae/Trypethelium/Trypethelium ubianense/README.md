@@ -1,5 +1,4 @@
-Trypethelium ubianense (Vain.) R.C. Harris SPECIES
-=======
+# Trypethelium ubianense (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

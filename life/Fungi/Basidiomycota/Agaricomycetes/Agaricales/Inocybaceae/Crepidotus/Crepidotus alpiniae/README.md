@@ -1,5 +1,4 @@
-Crepidotus alpiniae Berk. SPECIES
-=======
+# Crepidotus alpiniae Berk. SPECIES
 
 #### Status
 ACCEPTED

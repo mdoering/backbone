@@ -1,5 +1,4 @@
-Microcystis merismopedioides Fritsch SPECIES
-=======
+# Microcystis merismopedioides Fritsch SPECIES
 
 #### Status
 ACCEPTED

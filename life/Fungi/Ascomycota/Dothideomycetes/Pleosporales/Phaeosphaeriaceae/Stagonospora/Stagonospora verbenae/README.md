@@ -1,5 +1,4 @@
-Stagonospora verbenae H.C. Greene SPECIES
-=======
+# Stagonospora verbenae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

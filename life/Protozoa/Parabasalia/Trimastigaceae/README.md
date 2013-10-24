@@ -1,5 +1,4 @@
-Trimastigaceae FAMILY
-=======
+# Trimastigaceae FAMILY
 
 #### Status
 ACCEPTED

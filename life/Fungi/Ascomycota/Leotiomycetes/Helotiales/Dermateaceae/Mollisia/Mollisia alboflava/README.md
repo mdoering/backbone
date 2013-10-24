@@ -1,5 +1,4 @@
-Mollisia alboflava Massee SPECIES
-=======
+# Mollisia alboflava Massee SPECIES
 
 #### Status
 ACCEPTED

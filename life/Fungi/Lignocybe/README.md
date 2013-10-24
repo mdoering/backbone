@@ -1,5 +1,4 @@
-Lignocybe GENUS
-=======
+# Lignocybe GENUS
 
 #### Status
 ACCEPTED

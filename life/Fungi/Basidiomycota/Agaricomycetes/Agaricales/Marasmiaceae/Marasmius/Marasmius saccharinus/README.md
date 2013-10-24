@@ -1,17 +1,16 @@
-Agaricus epiphyllus var. saccharinus (Batsch) Pers., 1801 VARIETY
-=======
+# Marasmius saccharinus (Batsch) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 469 (1801)
+Epicr. syst. mycol. (Upsaliae) 386 (1838)
 
 #### Original name
-Agaricus saccharinus Batsch, 1786
+Marasmius saccharinus (Batsch) Fr., 1838
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coprinopsis maysoidispora (Redhead & Traquair) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis maysoidispora (Redhead & Traquair) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

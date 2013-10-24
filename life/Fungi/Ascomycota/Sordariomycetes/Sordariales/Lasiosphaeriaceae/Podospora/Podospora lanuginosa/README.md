@@ -1,5 +1,4 @@
-Podospora lanuginosa (Preuss) Niessl SPECIES
-=======
+# Podospora lanuginosa (Preuss) Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stomiopeltis heteromeris Syd. SPECIES
-=======
+# Stomiopeltis heteromeris Syd. SPECIES
 
 #### Status
 ACCEPTED

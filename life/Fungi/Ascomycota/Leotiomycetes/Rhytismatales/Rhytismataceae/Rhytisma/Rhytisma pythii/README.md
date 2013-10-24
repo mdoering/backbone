@@ -1,5 +1,4 @@
-Rhytisma pythii Ettingsh. SPECIES
-=======
+# Rhytisma pythii Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaera hyperythra (Mont.) Dennis SPECIES
-=======
+# Xylosphaera hyperythra (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

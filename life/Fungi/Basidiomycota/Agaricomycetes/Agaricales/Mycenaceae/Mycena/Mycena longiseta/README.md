@@ -1,5 +1,4 @@
-Mycena longiseta Höhn., 1909 SPECIES
-=======
+# Mycena longiseta Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

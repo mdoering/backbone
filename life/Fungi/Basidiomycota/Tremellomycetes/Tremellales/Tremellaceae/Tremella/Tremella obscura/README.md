@@ -1,14 +1,13 @@
-Tremella mycophaga var. obscura L.S. Olive, 1946 VARIETY
-=======
+# Tremella obscura (L.S. Olive) M.P. Christ., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 38(5): 540 (1946)
+Friesia 5: 62 (1954)
 
 #### Original name
 Tremella mycophaga var. obscura L.S. Olive, 1946

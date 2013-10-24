@@ -1,5 +1,4 @@
-Asteromella curvata (Golovin) Aa & Vanev SPECIES
-=======
+# Asteromella curvata (Golovin) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria subcoccinea (Ellis & Sacc.) Kuntze SPECIES
-=======
+# Cucurbitaria subcoccinea (Ellis & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

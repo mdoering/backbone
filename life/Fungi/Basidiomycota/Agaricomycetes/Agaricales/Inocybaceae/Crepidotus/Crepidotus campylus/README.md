@@ -1,5 +1,4 @@
-Crepidotus campylus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus campylus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

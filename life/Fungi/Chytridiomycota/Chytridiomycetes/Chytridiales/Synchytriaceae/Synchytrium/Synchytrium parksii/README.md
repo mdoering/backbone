@@ -1,5 +1,4 @@
-Synchytrium parksii Karling SPECIES
-=======
+# Synchytrium parksii Karling SPECIES
 
 #### Status
 ACCEPTED

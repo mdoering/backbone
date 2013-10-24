@@ -1,5 +1,4 @@
-Synedra hartii Cholnoky SPECIES
-=======
+# Synedra hartii Cholnoky SPECIES
 
 #### Status
 ACCEPTED

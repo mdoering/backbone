@@ -1,5 +1,4 @@
-Lecidea athalloides Nyl. SPECIES
-=======
+# Lecidea athalloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

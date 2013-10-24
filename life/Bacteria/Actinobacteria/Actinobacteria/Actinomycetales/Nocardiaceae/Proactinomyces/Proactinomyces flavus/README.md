@@ -1,5 +1,4 @@
-Proactinomyces flavus Humm & Shephard SPECIES
-=======
+# Proactinomyces flavus Humm & Shephard SPECIES
 
 #### Status
 ACCEPTED

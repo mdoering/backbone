@@ -1,5 +1,4 @@
-Winogradskyella exilis Ivanova, Christen, Gorshkova, Zhukova, Kurilenko, Crawford, Mikhailov, 2010 SPECIES
-=======
+# Winogradskyella exilis Ivanova, Christen, Gorshkova, Zhukova, Kurilenko, Crawford, Mikhailov, 2010 SPECIES
 
 #### Status
 ACCEPTED

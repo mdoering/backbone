@@ -1,5 +1,4 @@
-Plasmopara triumfettae A.D. Sharma & Munjal SPECIES
-=======
+# Plasmopara triumfettae A.D. Sharma & Munjal SPECIES
 
 #### Status
 ACCEPTED

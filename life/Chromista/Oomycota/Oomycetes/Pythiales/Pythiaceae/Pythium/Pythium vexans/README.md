@@ -1,17 +1,16 @@
-Pythium euthyhyphon Sideris, 1932 SPECIES
-=======
+# Pythium vexans de Bary, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Pythium vexans de Bary, 1876
 
 ### Remarks
 null

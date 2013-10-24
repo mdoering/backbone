@@ -1,5 +1,4 @@
-Verrucaria inconversa Nyl. SPECIES
-=======
+# Verrucaria inconversa Nyl. SPECIES
 
 #### Status
 ACCEPTED

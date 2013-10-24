@@ -1,5 +1,4 @@
-Cladosporium typhae Schwein., 1832 SPECIES
-=======
+# Cladosporium typhae Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

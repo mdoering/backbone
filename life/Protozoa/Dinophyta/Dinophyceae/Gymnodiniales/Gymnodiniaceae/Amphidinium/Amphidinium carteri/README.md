@@ -1,5 +1,4 @@
-Amphidinium carteri Hulburt, 1957 SPECIES
-=======
+# Amphidinium carteri Hulburt, 1957 SPECIES
 
 #### Status
 ACCEPTED

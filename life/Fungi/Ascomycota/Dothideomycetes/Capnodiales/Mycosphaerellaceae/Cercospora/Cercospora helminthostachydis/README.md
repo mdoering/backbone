@@ -1,5 +1,4 @@
-Cercospora helminthostachydis Henn. SPECIES
-=======
+# Cercospora helminthostachydis Henn. SPECIES
 
 #### Status
 ACCEPTED

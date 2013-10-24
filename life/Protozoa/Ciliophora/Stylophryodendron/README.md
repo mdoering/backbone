@@ -1,5 +1,4 @@
-Stylophryodendron Yankovskii, 1978 GENUS
-=======
+# Stylophryodendron Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

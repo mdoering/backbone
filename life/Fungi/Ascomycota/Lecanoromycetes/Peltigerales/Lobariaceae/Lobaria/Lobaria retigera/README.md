@@ -1,17 +1,16 @@
-Lobaria retigera f. retigera FORM
-=======
+# Lobaria retigera (Bory) Trevis. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lichenotheca Veneta no. 75 (1869)
 
 #### Original name
-Lobaria retigera f. retigera
+Lichen retiger Bory
 
 ### Remarks
 null

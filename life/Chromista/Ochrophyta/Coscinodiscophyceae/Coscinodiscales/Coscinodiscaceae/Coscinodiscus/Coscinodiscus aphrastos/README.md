@@ -1,5 +1,4 @@
-Coscinodiscus aphrastos Rattray, 1890 SPECIES
-=======
+# Coscinodiscus aphrastos Rattray, 1890 SPECIES
 
 #### Status
 ACCEPTED

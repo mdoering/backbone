@@ -1,5 +1,4 @@
-Staurolemma omphalarioides (Anzi) P.M. Jørg. & Henssen SPECIES
-=======
+# Staurolemma omphalarioides (Anzi) P.M. Jørg. & Henssen SPECIES
 
 #### Status
 ACCEPTED

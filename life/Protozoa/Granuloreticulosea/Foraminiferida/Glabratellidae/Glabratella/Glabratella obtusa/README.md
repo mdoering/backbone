@@ -1,5 +1,4 @@
-Glabratella obtusa (d'Orbigny, 1846) SPECIES
-=======
+# Glabratella obtusa (d'Orbigny, 1846) SPECIES
 
 #### Status
 ACCEPTED

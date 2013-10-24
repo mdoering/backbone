@@ -1,5 +1,4 @@
-Verrucaria pallidelutea Garov. SPECIES
-=======
+# Verrucaria pallidelutea Garov. SPECIES
 
 #### Status
 ACCEPTED

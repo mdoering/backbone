@@ -1,5 +1,4 @@
-Ocellularia albula f. albula (Nyl.) Zahlbr. FORM
-=======
+# Ocellularia albula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

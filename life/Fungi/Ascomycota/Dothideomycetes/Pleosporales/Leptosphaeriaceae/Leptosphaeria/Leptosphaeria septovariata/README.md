@@ -1,5 +1,4 @@
-Leptosphaeria septovariata Saccas SPECIES
-=======
+# Leptosphaeria septovariata Saccas SPECIES
 
 #### Status
 ACCEPTED

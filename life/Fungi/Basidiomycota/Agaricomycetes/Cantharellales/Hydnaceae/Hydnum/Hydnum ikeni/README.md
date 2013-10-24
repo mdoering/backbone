@@ -1,5 +1,4 @@
-Hydnum ikeni (Sacc.) Henn. SPECIES
-=======
+# Hydnum ikeni (Sacc.) Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta bambusina Speg. SPECIES
-=======
+# Phyllosticta bambusina Speg. SPECIES
 
 #### Status
 ACCEPTED

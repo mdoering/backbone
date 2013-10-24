@@ -1,5 +1,4 @@
-Carlia spartii Boyer & Jacz. SPECIES
-=======
+# Carlia spartii Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

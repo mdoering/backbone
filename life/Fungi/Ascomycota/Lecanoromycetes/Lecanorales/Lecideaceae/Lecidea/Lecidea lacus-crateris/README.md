@@ -1,5 +1,4 @@
-Lecidea lacus-crateris H. Magn. SPECIES
-=======
+# Lecidea lacus-crateris H. Magn. SPECIES
 
 #### Status
 ACCEPTED

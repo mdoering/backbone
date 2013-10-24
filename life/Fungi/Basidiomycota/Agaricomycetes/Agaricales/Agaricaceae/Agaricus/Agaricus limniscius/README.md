@@ -1,5 +1,4 @@
-Agaricus limniscius Pers. SPECIES
-=======
+# Agaricus limniscius Pers. SPECIES
 
 #### Status
 ACCEPTED

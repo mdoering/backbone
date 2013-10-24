@@ -1,17 +1,16 @@
-Parodiella tephrotiae K.M. Mogarkar & P.G. Sathe SPECIES
-=======
+# Parodiella tephrosiae K.M. Mogarkar & P.G. Sathe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Marathwada University Journal of Science (Natural Science), B 18(11): 67 (1980)
 
 #### Original name
-Parodiella tephrotiae K.M. Mogarkar & P.G. Sathe
+Parodiella tephrosiae K.M. Mogarkar & P.G. Sathe
 
 ### Remarks
 null

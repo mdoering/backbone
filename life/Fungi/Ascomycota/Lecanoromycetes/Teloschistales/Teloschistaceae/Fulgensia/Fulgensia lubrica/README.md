@@ -1,5 +1,4 @@
-Fulgensia lubrica (Stizenb.) Gyeln. SPECIES
-=======
+# Fulgensia lubrica (Stizenb.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

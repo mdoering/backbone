@@ -1,5 +1,4 @@
-Uredo acalyphae-fruticosae T.S. Ramakr., Sriniv. & Sundaram SPECIES
-=======
+# Uredo acalyphae-fruticosae T.S. Ramakr., Sriniv. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xyloma punctiforme Schumach. SPECIES
-=======
+# Xyloma punctiforme Schumach. SPECIES
 
 #### Status
 ACCEPTED

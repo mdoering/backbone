@@ -1,5 +1,4 @@
-Agaricus vulpeculus Schulz {?} SPECIES
-=======
+# Agaricus vulpeculus Schulz {?} SPECIES
 
 #### Status
 ACCEPTED

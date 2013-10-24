@@ -1,5 +1,4 @@
-Amerodiscosiellina Bat. & Cavalc. GENUS
-=======
+# Amerodiscosiellina Bat. & Cavalc. GENUS
 
 #### Status
 ACCEPTED

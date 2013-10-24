@@ -1,5 +1,4 @@
-Formosa agariphila Nedashkovskaya et al., 2006 SPECIES
-=======
+# Formosa agariphila Nedashkovskaya et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

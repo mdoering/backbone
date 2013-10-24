@@ -1,14 +1,13 @@
-Poria setulosocrocea Cleland & Rodway, 1928 SPECIES
-=======
+# Inonotus setulosocroceus (Cleland & Rodway) P.K. Buchanan & Ryvarden, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 34 (1928)
+Aust. Syst. Bot. 6(3): 223 (1993)
 
 #### Original name
 Poria setulosocrocea Cleland & Rodway, 1928

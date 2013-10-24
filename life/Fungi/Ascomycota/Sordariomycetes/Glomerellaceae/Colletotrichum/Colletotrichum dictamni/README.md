@@ -1,5 +1,4 @@
-Colletotrichum dictamni Hollós SPECIES
-=======
+# Colletotrichum dictamni Hollós SPECIES
 
 #### Status
 ACCEPTED

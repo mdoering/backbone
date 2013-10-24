@@ -1,5 +1,4 @@
-Plagiopyla frontata Kahl, 1931 SPECIES
-=======
+# Plagiopyla frontata Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

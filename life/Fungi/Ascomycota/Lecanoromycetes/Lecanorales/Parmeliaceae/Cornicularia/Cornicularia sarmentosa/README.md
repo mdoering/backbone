@@ -1,5 +1,4 @@
-Cornicularia sarmentosa var. sarmentosa VARIETY
-=======
+# Cornicularia sarmentosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cornicularia sarmentosa var. sarmentosa
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Oscillatoria distrophila Skuja ex T. Willén SPECIES
-=======
+# Oscillatoria distrophila Skuja ex T. Willén SPECIES
 
 #### Status
 ACCEPTED

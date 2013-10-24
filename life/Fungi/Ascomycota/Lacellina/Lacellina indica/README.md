@@ -1,5 +1,4 @@
-Lacellina indica Ananthan. SPECIES
-=======
+# Lacellina indica Ananthan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prorocentrum vaginula (Stein, 1883) Dodge, 1975 SPECIES
-=======
+# Prorocentrum vaginula (Stein, 1883) Dodge, 1975 SPECIES
 
 #### Status
 ACCEPTED

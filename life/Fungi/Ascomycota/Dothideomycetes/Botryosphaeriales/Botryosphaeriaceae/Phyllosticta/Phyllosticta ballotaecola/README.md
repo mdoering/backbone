@@ -1,5 +1,4 @@
-Phyllosticta ballotaecola Cejp SPECIES
-=======
+# Phyllosticta ballotaecola Cejp SPECIES
 
 #### Status
 ACCEPTED

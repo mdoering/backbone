@@ -1,5 +1,4 @@
-Ustilago ludwigiana Syd. SPECIES
-=======
+# Ustilago ludwigiana Syd. SPECIES
 
 #### Status
 ACCEPTED

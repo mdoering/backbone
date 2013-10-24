@@ -1,5 +1,4 @@
-Puccinia salinarum Vestergr. SPECIES
-=======
+# Puccinia salinarum Vestergr. SPECIES
 
 #### Status
 ACCEPTED

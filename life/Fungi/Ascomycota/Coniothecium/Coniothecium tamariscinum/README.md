@@ -1,5 +1,4 @@
-Coniothecium tamariscinum Thüm. SPECIES
-=======
+# Coniothecium tamariscinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclothyrium Petrak, 1923 GENUS
-=======
+# Cyclothyrium Petrak, 1923 GENUS
 
 #### Status
 ACCEPTED

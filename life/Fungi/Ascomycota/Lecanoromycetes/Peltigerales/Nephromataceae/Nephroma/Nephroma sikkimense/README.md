@@ -1,5 +1,4 @@
-Nephroma sikkimense Asahina SPECIES
-=======
+# Nephroma sikkimense Asahina SPECIES
 
 #### Status
 ACCEPTED

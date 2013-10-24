@@ -1,14 +1,13 @@
-Prospodium permagnum (Arthur & Holw.) Cummins, 1940 SPECIES
-=======
+# Porotenus permagnus (Arthur & Holw.) Cummins & Y. Hirats., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 3: 62 (1940)
+Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)
 
 #### Original name
 Puccinia permagna Arthur & Holw., 1918

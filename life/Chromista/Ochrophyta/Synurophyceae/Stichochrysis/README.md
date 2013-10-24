@@ -1,5 +1,4 @@
-Stichochrysis Pringsheim, 1955 GENUS
-=======
+# Stichochrysis Pringsheim, 1955 GENUS
 
 #### Status
 ACCEPTED

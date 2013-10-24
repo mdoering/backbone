@@ -1,5 +1,4 @@
-Inocybe griseobrunnea Métrod SPECIES
-=======
+# Inocybe griseobrunnea Métrod SPECIES
 
 #### Status
 ACCEPTED

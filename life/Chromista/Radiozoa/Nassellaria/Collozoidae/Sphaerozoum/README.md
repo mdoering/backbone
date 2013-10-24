@@ -1,14 +1,13 @@
-Sphaerozoon Hensen, 1887 GENUS
-=======
+# Sphaerozoum Meyen, 1834 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. Komm. D. Meere, 5, Fang-verz. vii.
+Nova Acta Acad. Caes. Leop. Carol. , 16 (Suppl. ), 163.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Haplariella Sydow & P. Sydow, 1908 GENUS
-=======
+# Haplariella Sydow & P. Sydow, 1908 GENUS
 
 #### Status
 ACCEPTED

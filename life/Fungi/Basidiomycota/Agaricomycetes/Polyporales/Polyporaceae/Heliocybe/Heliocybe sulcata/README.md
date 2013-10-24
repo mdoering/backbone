@@ -1,14 +1,13 @@
-Pocillaria sulcata (Berk.) Kuntze, 1891 SPECIES
-=======
+# Heliocybe sulcata (Berk.) Redhead & Ginns, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Trans. Mycol. Soc. Japan 26(3): 359 (1985)
 
 #### Original name
 Lentinus sulcatus Berk., 1845

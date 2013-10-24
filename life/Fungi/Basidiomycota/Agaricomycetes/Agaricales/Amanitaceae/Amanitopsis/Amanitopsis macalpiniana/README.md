@@ -1,8 +1,7 @@
-Amanitopsis mcalpiniana Cleland & Cheel SPECIES
-=======
+# Amanitopsis macalpiniana Cleland & Cheel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanitopsis mcalpiniana Cleland & Cheel
+Amanitopsis macalpiniana Cleland & Cheel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Valsaria lophiostoma (Hazsl.) Sacc. SPECIES
-=======
+# Valsaria lophiostoma (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

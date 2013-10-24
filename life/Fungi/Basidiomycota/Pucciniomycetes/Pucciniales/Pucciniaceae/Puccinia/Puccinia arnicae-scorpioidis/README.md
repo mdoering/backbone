@@ -1,5 +1,4 @@
-Puccinia arnicae-scorpioidis (DC.) Magnus SPECIES
-=======
+# Puccinia arnicae-scorpioidis (DC.) Magnus SPECIES
 
 #### Status
 ACCEPTED

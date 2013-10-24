@@ -1,5 +1,4 @@
-Spongodruppula Haeckel, 1887 GENUS
-=======
+# Spongodruppula Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phoma arachidicola Marasas, Pauer & Boerema, 1974 SPECIES
-=======
+# Didymosphaeria arachidicola (Khokhr.) Alcorn, Punith. & MacCarthy, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytophylactica 6(3): 200 (1974)
+Trans. Br. mycol. Soc. 66(2): 354 (1976)
 
 #### Original name
-Phoma arachidicola Marasas, Pauer & Boerema, 1974
+Mycosphaerella arachidicola W.A. Jenkins, 1938
 
 ### Remarks
 null

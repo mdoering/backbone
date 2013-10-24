@@ -1,17 +1,16 @@
-Aecidium cornu-cervi Henn. SPECIES
-=======
+# Aecidium cornu-cervae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 168 (1904)
 
 #### Original name
-Aecidium cornu-cervi Henn.
+Aecidium cornu-cervae Henn.
 
 ### Remarks
 null

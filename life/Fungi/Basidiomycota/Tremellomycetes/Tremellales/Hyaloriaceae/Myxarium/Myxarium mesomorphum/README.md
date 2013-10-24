@@ -1,5 +1,4 @@
-Myxarium mesomorphum (Bourdot & Galzin) Hauerslev SPECIES
-=======
+# Myxarium mesomorphum (Bourdot & Galzin) Hauerslev SPECIES
 
 #### Status
 ACCEPTED

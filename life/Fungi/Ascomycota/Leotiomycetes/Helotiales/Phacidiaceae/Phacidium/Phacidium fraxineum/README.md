@@ -1,5 +1,4 @@
-Phacidium fraxineum Schwein. SPECIES
-=======
+# Phacidium fraxineum Schwein. SPECIES
 
 #### Status
 ACCEPTED

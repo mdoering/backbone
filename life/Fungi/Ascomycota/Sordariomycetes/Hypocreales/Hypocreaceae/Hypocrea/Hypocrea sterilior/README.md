@@ -1,5 +1,4 @@
-Hypocrea sterilior (Schwein.) Sacc. SPECIES
-=======
+# Hypocrea sterilior (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

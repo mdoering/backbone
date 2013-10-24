@@ -1,5 +1,4 @@
-Gymnodinium vas Van Meel SPECIES
-=======
+# Gymnodinium vas Van Meel SPECIES
 
 #### Status
 ACCEPTED

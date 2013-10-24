@@ -1,14 +1,13 @@
-Pestalotia aeruginea Steyaert, 1948 SPECIES
-=======
+# Pestalotiopsis aeruginea (Steyaert) Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. bot. État Brux. 19: 186 (1948)
+Bull. Jard. bot. État Brux. 19: 322 (1949)
 
 #### Original name
 Pestalotia aeruginea Steyaert, 1948

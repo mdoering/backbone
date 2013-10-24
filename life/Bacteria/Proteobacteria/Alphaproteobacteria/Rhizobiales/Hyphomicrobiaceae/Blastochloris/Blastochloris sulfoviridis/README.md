@@ -1,8 +1,7 @@
-Rhodopseudomonas sulfoviridis Keppen and Gorlenko, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Blastochloris sulfoviridis (Keppen & Gorlenko, 1975) Hiraishi, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

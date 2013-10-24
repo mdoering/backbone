@@ -1,5 +1,4 @@
-Arizona Kauffmann & Edwards, 1952 GENUS
-=======
+# Arizona Kauffmann & Edwards, 1952 GENUS
 
 #### Status
 ACCEPTED

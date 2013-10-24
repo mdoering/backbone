@@ -1,5 +1,4 @@
-Ciliaria nivalis Boud. SPECIES
-=======
+# Ciliaria nivalis Boud. SPECIES
 
 #### Status
 ACCEPTED

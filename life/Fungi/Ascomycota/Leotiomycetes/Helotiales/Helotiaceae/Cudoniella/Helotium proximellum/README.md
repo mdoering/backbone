@@ -1,5 +1,4 @@
-Helotium proximellum P. Karst. SPECIES
-=======
+# Helotium proximellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

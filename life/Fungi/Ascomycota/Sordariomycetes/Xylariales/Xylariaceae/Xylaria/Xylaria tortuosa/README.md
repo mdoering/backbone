@@ -1,5 +1,4 @@
-Xylaria tortuosa Sowerby SPECIES
-=======
+# Xylaria tortuosa Sowerby SPECIES
 
 #### Status
 ACCEPTED

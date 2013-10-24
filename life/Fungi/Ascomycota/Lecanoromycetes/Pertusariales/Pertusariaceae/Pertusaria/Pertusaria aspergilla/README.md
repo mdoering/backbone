@@ -1,14 +1,13 @@
-Lichen aspergillus Ach. SPECIES
-=======
+# Pertusaria aspergilla (Ach.) J. R. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. suec. prodr. (Linköping) 1798 (1799)
+Taxon 41(4): 745 (1992)
 
 #### Original name
 Lichen aspergillus Ach.

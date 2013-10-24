@@ -1,5 +1,4 @@
-Lusatia G. Burmann, 1970 GENUS
-=======
+# Lusatia G. Burmann, 1970 GENUS
 
 #### Status
 ACCEPTED

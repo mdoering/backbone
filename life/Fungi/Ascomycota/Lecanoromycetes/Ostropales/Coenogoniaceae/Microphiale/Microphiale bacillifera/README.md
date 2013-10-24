@@ -1,5 +1,4 @@
-Microphiale bacillifera (Malme) Zahlbr. SPECIES
-=======
+# Microphiale bacillifera (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

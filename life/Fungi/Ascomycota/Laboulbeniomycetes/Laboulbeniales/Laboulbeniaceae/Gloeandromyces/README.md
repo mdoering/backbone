@@ -1,5 +1,4 @@
-Gloeandromyces Thaxt. GENUS
-=======
+# Gloeandromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

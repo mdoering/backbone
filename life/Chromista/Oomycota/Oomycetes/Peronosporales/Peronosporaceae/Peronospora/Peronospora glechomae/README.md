@@ -1,5 +1,4 @@
-Peronospora glechomae Oescu & Radul. SPECIES
-=======
+# Peronospora glechomae Oescu & Radul. SPECIES
 
 #### Status
 ACCEPTED

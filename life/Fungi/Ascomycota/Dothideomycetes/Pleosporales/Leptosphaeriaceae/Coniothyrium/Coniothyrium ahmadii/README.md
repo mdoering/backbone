@@ -1,5 +1,4 @@
-Coniothyrium ahmadii B. Sutton SPECIES
-=======
+# Coniothyrium ahmadii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

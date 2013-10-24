@@ -1,5 +1,4 @@
-Umbillicaria proboscidea (L.) Schrad. SPECIES
-=======
+# Umbillicaria proboscidea (L.) Schrad. SPECIES
 
 #### Status
 DOUBTFUL

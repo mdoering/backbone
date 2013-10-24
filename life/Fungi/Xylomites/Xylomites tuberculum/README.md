@@ -1,5 +1,4 @@
-Xylomites tuberculum Braun SPECIES
-=======
+# Xylomites tuberculum Braun SPECIES
 
 #### Status
 ACCEPTED

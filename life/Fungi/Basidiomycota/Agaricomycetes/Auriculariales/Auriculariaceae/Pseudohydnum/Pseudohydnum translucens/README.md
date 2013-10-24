@@ -1,5 +1,4 @@
-Pseudohydnum translucens Lloyd SPECIES
-=======
+# Pseudohydnum translucens Lloyd SPECIES
 
 #### Status
 ACCEPTED

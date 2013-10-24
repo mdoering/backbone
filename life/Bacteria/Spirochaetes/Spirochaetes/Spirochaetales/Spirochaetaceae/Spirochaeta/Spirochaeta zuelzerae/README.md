@@ -1,5 +1,4 @@
-Spirochaeta zuelzerae (ex Veldkamp, 1960) Canale-Parola, 1980 SPECIES
-=======
+# Spirochaeta zuelzerae (ex Veldkamp, 1960) Canale-Parola, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosia baarnensis Vanev SPECIES
-=======
+# Discosia baarnensis Vanev SPECIES
 
 #### Status
 ACCEPTED

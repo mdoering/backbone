@@ -1,5 +1,4 @@
-Leptosphaeria avicenniae Kohlm. & E. Kohlm., 1965 SPECIES
-=======
+# Leptosphaeria avicenniae Kohlm. & E. Kohlm., 1965 SPECIES
 
 #### Status
 ACCEPTED

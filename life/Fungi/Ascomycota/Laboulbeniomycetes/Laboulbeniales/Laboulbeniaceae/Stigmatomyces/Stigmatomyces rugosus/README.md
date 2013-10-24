@@ -1,5 +1,4 @@
-Stigmatomyces rugosus Thaxt., 1901 SPECIES
-=======
+# Stigmatomyces rugosus Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

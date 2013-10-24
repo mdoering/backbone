@@ -1,5 +1,4 @@
-Fungus feildenii (Berk.) Kuntze SPECIES
-=======
+# Fungus feildenii (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea kilensis Vain. SPECIES
-=======
+# Lecidea kilensis Vain. SPECIES
 
 #### Status
 ACCEPTED

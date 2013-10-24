@@ -1,5 +1,4 @@
-Arthonia aphthosa Flagey SPECIES
-=======
+# Arthonia aphthosa Flagey SPECIES
 
 #### Status
 ACCEPTED

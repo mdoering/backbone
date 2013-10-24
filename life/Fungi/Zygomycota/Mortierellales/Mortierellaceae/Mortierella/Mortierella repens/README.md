@@ -1,5 +1,4 @@
-Mortierella repens A.L. Sm. SPECIES
-=======
+# Mortierella repens A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

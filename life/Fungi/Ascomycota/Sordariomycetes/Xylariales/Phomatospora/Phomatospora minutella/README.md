@@ -1,5 +1,4 @@
-Phomatospora minutella (Peck) M.E. Barr SPECIES
-=======
+# Phomatospora minutella (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

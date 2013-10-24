@@ -1,5 +1,4 @@
-Taeniolella muricata (Ellis & Everh.) S. Hughes SPECIES
-=======
+# Taeniolella muricata (Ellis & Everh.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

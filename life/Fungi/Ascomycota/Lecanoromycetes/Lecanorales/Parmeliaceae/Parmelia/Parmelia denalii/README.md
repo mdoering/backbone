@@ -1,5 +1,4 @@
-Parmelia denalii Krog SPECIES
-=======
+# Parmelia denalii Krog SPECIES
 
 #### Status
 ACCEPTED

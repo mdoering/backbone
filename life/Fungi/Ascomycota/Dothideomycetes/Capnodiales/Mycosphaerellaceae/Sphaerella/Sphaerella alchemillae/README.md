@@ -1,5 +1,4 @@
-Sphaerella alchemillae Kalchbr. SPECIES
-=======
+# Sphaerella alchemillae Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma obokensis f. obokensis FORM
-=======
+# Ganoderma obokensis Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 3(2): 119 (1887)
 
 #### Original name
-Ganoderma obokensis f. obokensis
+Ganoderma obokensis Pat.
 
 ### Remarks
 null

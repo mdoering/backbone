@@ -1,5 +1,4 @@
-Monodinium alveolatum (Kahl, 1930) Foissner, Berger & Schaumburg, 1999 SPECIES
-=======
+# Monodinium alveolatum (Kahl, 1930) Foissner, Berger & Schaumburg, 1999 SPECIES
 
 #### Status
 ACCEPTED

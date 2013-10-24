@@ -1,5 +1,4 @@
-Polystratorictus fasciculatus Matsush. SPECIES
-=======
+# Polystratorictus fasciculatus Matsush. SPECIES
 
 #### Status
 ACCEPTED

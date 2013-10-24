@@ -1,5 +1,4 @@
-Placodiella olivacea var. olivacea (Fr.) Szatala VARIETY
-=======
+# Placodiella olivacea (Fr.) Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Borbäsia (1941)
 
 #### Original name
-Placodiella olivacea var. olivacea (Fr.) Szatala
+null
 
 ### Remarks
 null

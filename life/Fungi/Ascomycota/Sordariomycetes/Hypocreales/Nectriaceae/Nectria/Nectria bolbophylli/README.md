@@ -1,5 +1,4 @@
-Nectria bolbophylli Henn. SPECIES
-=======
+# Nectria bolbophylli Henn. SPECIES
 
 #### Status
 ACCEPTED

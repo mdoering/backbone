@@ -1,14 +1,13 @@
-Echinodontium tinctorius (Ellis & Everh.) Ellis & Everh. SPECIES
-=======
+# Echinodontium tinctorium (Ellis & Everh.) Ellis & Everh., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 27: 49 (1900)
 
 #### Original name
 Fomes tinctorius Ellis & Everh., 1895

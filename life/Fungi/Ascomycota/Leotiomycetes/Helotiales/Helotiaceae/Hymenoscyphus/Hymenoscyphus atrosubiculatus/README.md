@@ -1,5 +1,4 @@
-Hymenoscyphus atrosubiculatus (Seaver & Waterston) Dennis SPECIES
-=======
+# Hymenoscyphus atrosubiculatus (Seaver & Waterston) Dennis SPECIES
 
 #### Status
 ACCEPTED

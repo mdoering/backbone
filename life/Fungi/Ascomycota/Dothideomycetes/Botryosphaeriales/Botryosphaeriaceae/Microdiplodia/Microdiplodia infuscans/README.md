@@ -1,5 +1,4 @@
-Microdiplodia infuscans (Ellis & Everh.) Tassi SPECIES
-=======
+# Microdiplodia infuscans (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

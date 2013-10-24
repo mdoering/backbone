@@ -1,5 +1,4 @@
-Ramalina hossei Vain. SPECIES
-=======
+# Ramalina hossei Vain. SPECIES
 
 #### Status
 ACCEPTED

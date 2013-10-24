@@ -1,5 +1,4 @@
-Hygrophorus goossensiae Beeli SPECIES
-=======
+# Hygrophorus goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypanosoma granulosum Laveran & Mesnil, 1902 SPECIES
-=======
+# Trypanosoma granulosum Laveran & Mesnil, 1902 SPECIES
 
 #### Status
 ACCEPTED

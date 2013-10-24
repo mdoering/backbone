@@ -1,5 +1,4 @@
-Agaricus canoruber Berk. & Broome SPECIES
-=======
+# Agaricus canoruber Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

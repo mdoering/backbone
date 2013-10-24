@@ -1,5 +1,4 @@
-Tilletia sphagneti Navashin SPECIES
-=======
+# Tilletia sphagneti Navashin SPECIES
 
 #### Status
 ACCEPTED

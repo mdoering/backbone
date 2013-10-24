@@ -1,5 +1,4 @@
-Protopannaria (Gyeln.) P.M. Jørg. & S. Ekman GENUS
-=======
+# Protopannaria (Gyeln.) P.M. Jørg. & S. Ekman GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina sydowiana R.W. Ryan SPECIES
-=======
+# Asterina sydowiana R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

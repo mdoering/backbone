@@ -1,5 +1,4 @@
-Calicium physarellum Ach. SPECIES
-=======
+# Calicium physarellum Ach. SPECIES
 
 #### Status
 ACCEPTED

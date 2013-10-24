@@ -1,5 +1,4 @@
-Polypaecilum insolitum G. Sm., 1961 SPECIES
-=======
+# Polypaecilum insolitum G. Sm., 1961 SPECIES
 
 #### Status
 ACCEPTED

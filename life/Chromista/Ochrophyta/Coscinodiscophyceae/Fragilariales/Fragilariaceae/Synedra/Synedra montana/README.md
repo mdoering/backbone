@@ -1,5 +1,4 @@
-Synedra montana Krasske ex Hustedt SPECIES
-=======
+# Synedra montana Krasske ex Hustedt SPECIES
 
 #### Status
 ACCEPTED

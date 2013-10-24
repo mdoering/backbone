@@ -1,5 +1,4 @@
-Buellia umbrina Malme SPECIES
-=======
+# Buellia umbrina Malme SPECIES
 
 #### Status
 ACCEPTED

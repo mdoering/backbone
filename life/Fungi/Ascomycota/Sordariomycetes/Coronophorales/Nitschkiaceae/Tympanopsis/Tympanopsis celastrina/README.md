@@ -1,5 +1,4 @@
-Tympanopsis celastrina Tilak SPECIES
-=======
+# Tympanopsis celastrina Tilak SPECIES
 
 #### Status
 ACCEPTED

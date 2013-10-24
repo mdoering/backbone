@@ -1,5 +1,4 @@
-Hypoxylon rimarum Berk. & Cooke SPECIES
-=======
+# Hypoxylon rimarum Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

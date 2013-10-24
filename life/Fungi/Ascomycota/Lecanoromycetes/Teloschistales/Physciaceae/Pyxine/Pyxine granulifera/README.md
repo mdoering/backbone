@@ -1,5 +1,4 @@
-Pyxine granulifera Swinscow & Krog SPECIES
-=======
+# Pyxine granulifera Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

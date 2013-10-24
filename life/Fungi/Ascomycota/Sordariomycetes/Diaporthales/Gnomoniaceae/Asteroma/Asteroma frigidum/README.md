@@ -1,5 +1,4 @@
-Asteroma frigidum Sacc. SPECIES
-=======
+# Asteroma frigidum Sacc. SPECIES
 
 #### Status
 ACCEPTED

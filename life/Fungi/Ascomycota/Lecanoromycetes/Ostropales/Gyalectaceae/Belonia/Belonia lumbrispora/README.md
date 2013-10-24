@@ -1,5 +1,4 @@
-Belonia lumbrispora Etayo SPECIES
-=======
+# Belonia lumbrispora Etayo SPECIES
 
 #### Status
 ACCEPTED

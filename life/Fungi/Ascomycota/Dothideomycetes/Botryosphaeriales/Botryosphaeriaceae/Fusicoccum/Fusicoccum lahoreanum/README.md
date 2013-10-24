@@ -1,5 +1,4 @@
-Fusicoccum lahoreanum S. Ahmad SPECIES
-=======
+# Fusicoccum lahoreanum S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo azaleae Schwein. SPECIES
-=======
+# Uredo azaleae Schwein. SPECIES
 
 #### Status
 ACCEPTED

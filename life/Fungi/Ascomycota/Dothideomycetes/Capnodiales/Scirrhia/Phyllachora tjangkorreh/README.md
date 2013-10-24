@@ -1,5 +1,4 @@
-Phyllachora tjangkorreh Racib., 1900 SPECIES
-=======
+# Phyllachora tjangkorreh Racib., 1900 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Buellia fuscata Metzler SPECIES
-=======
+# Buellia fuscata Metzler SPECIES
 
 #### Status
 ACCEPTED

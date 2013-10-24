@@ -1,5 +1,4 @@
-Pachymetra B.J. Croft & M.W. Dick GENUS
-=======
+# Pachymetra B.J. Croft & M.W. Dick GENUS
 
 #### Status
 ACCEPTED

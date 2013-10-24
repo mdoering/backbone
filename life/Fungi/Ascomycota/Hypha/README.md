@@ -1,5 +1,4 @@
-Hypha Pers. GENUS
-=======
+# Hypha Pers. GENUS
 
 #### Status
 ACCEPTED

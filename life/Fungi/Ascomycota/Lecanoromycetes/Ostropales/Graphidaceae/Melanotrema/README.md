@@ -1,5 +1,4 @@
-Melanotrema Frisch GENUS
-=======
+# Melanotrema Frisch GENUS
 
 #### Status
 ACCEPTED

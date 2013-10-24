@@ -1,5 +1,4 @@
-Clitopilus ammophilus Malençon SPECIES
-=======
+# Clitopilus ammophilus Malençon SPECIES
 
 #### Status
 ACCEPTED

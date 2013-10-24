@@ -1,5 +1,4 @@
-Lichen exiguus Ach. SPECIES
-=======
+# Lichen exiguus Ach. SPECIES
 
 #### Status
 ACCEPTED

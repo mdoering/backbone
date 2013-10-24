@@ -1,17 +1,16 @@
-Stemonitis nigra suksdorfii (Ellis & Everh.) Sturgis, 1907 INFRASPECIFIC_NAME
-=======
+# Comatricha suksdorfii Ellis & Everh., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Washburn Coll. Lab. Nat. Hist. 1: 5 (1884)
 
 #### Original name
-null
+Comatricha suksdorfii Ellis & Everh., 1894
 
 ### Remarks
 null

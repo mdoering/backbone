@@ -1,5 +1,4 @@
-Catillaria perpulchra Zahlbr. SPECIES
-=======
+# Catillaria perpulchra Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

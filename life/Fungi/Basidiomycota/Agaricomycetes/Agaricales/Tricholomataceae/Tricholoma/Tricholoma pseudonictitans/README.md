@@ -1,14 +1,13 @@
-Tricholoma fulvum var. pseudonictitans (Bon) Krieglst., 2001 VARIETY
-=======
+# Tricholoma pseudonictitans Bon, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Großpilze Baden-Württembergs (Stuttgart), <b>3</b>. Ständerpilze: Blätterpilze I 533 (2001)
+Docums Mycol. 13(no. 52): 16 (1983)
 
 #### Original name
 Tricholoma pseudonictitans Bon, 1983

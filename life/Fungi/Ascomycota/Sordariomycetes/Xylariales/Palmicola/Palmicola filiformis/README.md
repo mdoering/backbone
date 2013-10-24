@@ -1,5 +1,4 @@
-Palmicola filiformis Goh & K.D. Hyde SPECIES
-=======
+# Palmicola filiformis Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

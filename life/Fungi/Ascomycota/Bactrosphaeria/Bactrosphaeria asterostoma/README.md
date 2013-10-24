@@ -1,5 +1,4 @@
-Bactrosphaeria asterostoma Penz. & Sacc., 1897 SPECIES
-=======
+# Bactrosphaeria asterostoma Penz. & Sacc., 1897 SPECIES
 
 #### Status
 ACCEPTED

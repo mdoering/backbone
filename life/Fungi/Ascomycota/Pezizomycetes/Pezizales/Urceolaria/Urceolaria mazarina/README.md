@@ -1,5 +1,4 @@
-Urceolaria mazarina (Wahlenb.) Ach. SPECIES
-=======
+# Urceolaria mazarina (Wahlenb.) Ach. SPECIES
 
 #### Status
 ACCEPTED

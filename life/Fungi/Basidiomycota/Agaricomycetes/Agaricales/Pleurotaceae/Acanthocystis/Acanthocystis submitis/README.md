@@ -1,5 +1,4 @@
-Acanthocystis submitis (Speg.) Singer SPECIES
-=======
+# Acanthocystis submitis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

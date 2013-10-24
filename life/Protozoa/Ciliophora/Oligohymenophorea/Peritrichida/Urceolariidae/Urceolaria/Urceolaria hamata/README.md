@@ -1,5 +1,4 @@
-Urceolaria hamata SPECIES
-=======
+# Urceolaria hamata SPECIES
 
 #### Status
 ACCEPTED

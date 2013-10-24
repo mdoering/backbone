@@ -1,5 +1,4 @@
-Rhabdospora gleditschiae Trotter SPECIES
-=======
+# Rhabdospora gleditschiae Trotter SPECIES
 
 #### Status
 ACCEPTED

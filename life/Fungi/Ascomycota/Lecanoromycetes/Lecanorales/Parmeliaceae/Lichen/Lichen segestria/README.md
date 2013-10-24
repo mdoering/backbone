@@ -1,5 +1,4 @@
-Lichen segestria Neck. SPECIES
-=======
+# Lichen segestria Neck. SPECIES
 
 #### Status
 ACCEPTED

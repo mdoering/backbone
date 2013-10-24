@@ -1,5 +1,4 @@
-Pulvinula orichalcea (Cooke) Rifai SPECIES
-=======
+# Pulvinula orichalcea (Cooke) Rifai SPECIES
 
 #### Status
 ACCEPTED

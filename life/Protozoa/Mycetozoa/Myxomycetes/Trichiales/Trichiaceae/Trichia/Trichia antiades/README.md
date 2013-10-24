@@ -1,5 +1,4 @@
-Trichia antiades DC. SPECIES
-=======
+# Trichia antiades DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium coccineonigrum Makhija & Patw. SPECIES
-=======
+# Arthothelium coccineonigrum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

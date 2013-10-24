@@ -1,5 +1,4 @@
-Tricholoma vernaticum Shanks SPECIES
-=======
+# Tricholoma vernaticum Shanks SPECIES
 
 #### Status
 ACCEPTED

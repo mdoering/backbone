@@ -1,5 +1,4 @@
-Pseudocraterellus nigellus Heinem. SPECIES
-=======
+# Pseudocraterellus nigellus Heinem. SPECIES
 
 #### Status
 ACCEPTED

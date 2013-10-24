@@ -1,5 +1,4 @@
-Arachnion firmoderma Verwoerd SPECIES
-=======
+# Arachnion firmoderma Verwoerd SPECIES
 
 #### Status
 ACCEPTED

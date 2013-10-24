@@ -1,5 +1,4 @@
-Rinodina hoggariana H. Mayrhofer & Poelt SPECIES
-=======
+# Rinodina hoggariana H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilolechia purpurascens Coppins & Purvis SPECIES
-=======
+# Psilolechia purpurascens Coppins & Purvis SPECIES
 
 #### Status
 ACCEPTED

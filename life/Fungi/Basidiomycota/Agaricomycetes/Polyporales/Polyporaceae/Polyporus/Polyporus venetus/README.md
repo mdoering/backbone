@@ -1,5 +1,4 @@
-Polyporus venetus Sacc. SPECIES
-=======
+# Polyporus venetus Sacc. SPECIES
 
 #### Status
 ACCEPTED

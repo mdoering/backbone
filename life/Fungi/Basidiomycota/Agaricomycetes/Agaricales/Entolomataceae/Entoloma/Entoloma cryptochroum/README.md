@@ -1,5 +1,4 @@
-Entoloma cryptochroum (Singer) E. Horak SPECIES
-=======
+# Entoloma cryptochroum (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

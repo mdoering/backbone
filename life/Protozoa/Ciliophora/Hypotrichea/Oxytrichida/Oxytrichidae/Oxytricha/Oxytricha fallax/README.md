@@ -1,5 +1,4 @@
-Oxytricha fallax Stein, 1859 SPECIES
-=======
+# Oxytricha fallax Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

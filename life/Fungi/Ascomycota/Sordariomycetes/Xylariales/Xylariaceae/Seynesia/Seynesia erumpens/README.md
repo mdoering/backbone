@@ -1,5 +1,4 @@
-Seynesia erumpens (Berk. & M.A. Curtis) Petr. SPECIES
-=======
+# Seynesia erumpens (Berk. & M.A. Curtis) Petr. SPECIES
 
 #### Status
 ACCEPTED

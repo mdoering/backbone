@@ -1,5 +1,4 @@
-Coenogonium aciculatum Lücking & Aptroot SPECIES
-=======
+# Coenogonium aciculatum Lücking & Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia malayensis Thaxt. SPECIES
-=======
+# Laboulbenia malayensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

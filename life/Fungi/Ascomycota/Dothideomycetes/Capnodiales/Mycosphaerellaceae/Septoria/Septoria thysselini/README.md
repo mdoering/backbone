@@ -1,5 +1,4 @@
-Septoria thysselini Bres. & Krieg. SPECIES
-=======
+# Septoria thysselini Bres. & Krieg. SPECIES
 
 #### Status
 ACCEPTED

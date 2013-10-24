@@ -1,5 +1,4 @@
-Tympanis oleastri Pass. & Thüm. SPECIES
-=======
+# Tympanis oleastri Pass. & Thüm. SPECIES
 
 #### Status
 ACCEPTED

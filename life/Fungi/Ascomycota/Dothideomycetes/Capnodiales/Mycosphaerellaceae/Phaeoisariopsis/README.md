@@ -1,5 +1,4 @@
-Phaeoisariopsis Ferraris GENUS
-=======
+# Phaeoisariopsis Ferraris GENUS
 
 #### Status
 ACCEPTED

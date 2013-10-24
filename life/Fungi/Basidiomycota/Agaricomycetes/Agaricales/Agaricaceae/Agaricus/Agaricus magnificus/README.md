@@ -1,5 +1,4 @@
-Agaricus magnificus Fr. SPECIES
-=======
+# Agaricus magnificus Fr. SPECIES
 
 #### Status
 ACCEPTED

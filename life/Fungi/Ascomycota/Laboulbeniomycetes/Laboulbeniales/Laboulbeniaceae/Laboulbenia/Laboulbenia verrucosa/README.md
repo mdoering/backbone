@@ -1,5 +1,4 @@
-Laboulbenia verrucosa Thaxt. SPECIES
-=======
+# Laboulbenia verrucosa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

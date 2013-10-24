@@ -1,5 +1,4 @@
-Lichen pruinatus Dicks. SPECIES
-=======
+# Lichen pruinatus Dicks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus furfurellus (Berk. & Broome) Pegler SPECIES
-=======
+# Coprinus furfurellus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

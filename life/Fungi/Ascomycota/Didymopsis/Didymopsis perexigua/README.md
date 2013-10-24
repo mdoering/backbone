@@ -1,5 +1,4 @@
-Didymopsis perexigua Sacc. & Marchal, 1885 SPECIES
-=======
+# Didymopsis perexigua Sacc. & Marchal, 1885 SPECIES
 
 #### Status
 ACCEPTED

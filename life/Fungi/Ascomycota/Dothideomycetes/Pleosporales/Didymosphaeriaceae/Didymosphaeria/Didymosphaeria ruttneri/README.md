@@ -1,5 +1,4 @@
-Didymosphaeria ruttneri Petr. SPECIES
-=======
+# Didymosphaeria ruttneri Petr. SPECIES
 
 #### Status
 ACCEPTED

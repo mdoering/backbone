@@ -1,5 +1,4 @@
-Hygrocybe mollis (Berk. & Broome) M.M. Moser SPECIES
-=======
+# Hygrocybe mollis (Berk. & Broome) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

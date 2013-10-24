@@ -1,5 +1,4 @@
-Spirotrichum musae J.F.H. Beyma SPECIES
-=======
+# Spirotrichum musae J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

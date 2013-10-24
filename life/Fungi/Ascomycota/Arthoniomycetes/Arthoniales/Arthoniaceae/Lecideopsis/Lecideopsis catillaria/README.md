@@ -1,5 +1,4 @@
-Lecideopsis catillaria f. catillaria FORM
-=======
+# Lecideopsis catillaria (Vain.) SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecideopsis catillaria f. catillaria
+null
 
 ### Remarks
 null

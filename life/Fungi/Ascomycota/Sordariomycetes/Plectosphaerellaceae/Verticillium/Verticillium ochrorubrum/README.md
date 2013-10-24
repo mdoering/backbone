@@ -1,17 +1,16 @@
-Verticillium ochroleucum Desm. SPECIES
-=======
+# Verticillium ochrorubrum Desm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Verticillium ochrorubrum Desm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ceriosporella acuta (A.L. Sm.) Sacc. & D. Sacc. SPECIES
-=======
+# Ceriosporella acuta (A.L. Sm.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

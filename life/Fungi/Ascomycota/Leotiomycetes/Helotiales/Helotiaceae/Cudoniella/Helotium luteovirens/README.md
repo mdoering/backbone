@@ -1,5 +1,4 @@
-Helotium luteovirens Fr. SPECIES
-=======
+# Helotium luteovirens Fr. SPECIES
 
 #### Status
 ACCEPTED

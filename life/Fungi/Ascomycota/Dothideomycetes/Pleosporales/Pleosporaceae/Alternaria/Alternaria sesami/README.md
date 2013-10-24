@@ -1,14 +1,13 @@
-Macrosporium sesami E. Kawam., 1931 SPECIES
-=======
+# Alternaria sesami (E. Kawam.) Mohanty & Behera, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kin-rui (Fungi) 1(2): 27 (1931)
+Curr. Sci. 27: 493 (1958)
 
 #### Original name
 Macrosporium sesami E. Kawam., 1931

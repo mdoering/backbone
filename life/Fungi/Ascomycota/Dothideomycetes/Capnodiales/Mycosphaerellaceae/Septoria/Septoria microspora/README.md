@@ -1,5 +1,4 @@
-Septoria microspora Ellis SPECIES
-=======
+# Septoria microspora Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia euspeirea (Berk. & M.A. Curtis) Overh. SPECIES
-=======
+# Omphalia euspeirea (Berk. & M.A. Curtis) Overh. SPECIES
 
 #### Status
 ACCEPTED

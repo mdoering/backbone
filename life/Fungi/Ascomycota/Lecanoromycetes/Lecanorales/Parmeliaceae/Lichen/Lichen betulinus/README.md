@@ -1,5 +1,4 @@
-Lichen betulinus Wulf. SPECIES
-=======
+# Lichen betulinus Wulf. SPECIES
 
 #### Status
 ACCEPTED

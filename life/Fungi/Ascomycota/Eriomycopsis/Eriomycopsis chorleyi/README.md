@@ -1,5 +1,4 @@
-Eriomycopsis chorleyi Hansf. SPECIES
-=======
+# Eriomycopsis chorleyi Hansf. SPECIES
 
 #### Status
 ACCEPTED

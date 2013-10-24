@@ -1,5 +1,4 @@
-Lactarius medusae Verbeken SPECIES
-=======
+# Lactarius medusae Verbeken SPECIES
 
 #### Status
 ACCEPTED

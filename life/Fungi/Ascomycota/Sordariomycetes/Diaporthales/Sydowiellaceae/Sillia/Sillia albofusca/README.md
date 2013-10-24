@@ -1,5 +1,4 @@
-Sillia albofusca Höhn. SPECIES
-=======
+# Sillia albofusca Höhn. SPECIES
 
 #### Status
 ACCEPTED

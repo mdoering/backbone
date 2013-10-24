@@ -1,5 +1,4 @@
-Mycobacterium szulgai Marks et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium szulgai Marks et al., 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera boliviensis Gyeln. SPECIES
-=======
+# Peltigera boliviensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

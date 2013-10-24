@@ -1,5 +1,4 @@
-Lophosphaeridium inconfertum Ouyang Shu et al., 1974 SPECIES
-=======
+# Lophosphaeridium inconfertum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

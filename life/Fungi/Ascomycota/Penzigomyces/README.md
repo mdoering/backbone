@@ -1,5 +1,4 @@
-Penzigomyces Subram. GENUS
-=======
+# Penzigomyces Subram. GENUS
 
 #### Status
 ACCEPTED

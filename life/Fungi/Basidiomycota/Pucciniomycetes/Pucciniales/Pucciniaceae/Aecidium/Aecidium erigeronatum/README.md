@@ -1,5 +1,4 @@
-Aecidium erigeronatum Schwein. SPECIES
-=======
+# Aecidium erigeronatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

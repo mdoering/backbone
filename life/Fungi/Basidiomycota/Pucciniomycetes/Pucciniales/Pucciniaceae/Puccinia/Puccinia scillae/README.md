@@ -1,5 +1,4 @@
-Puccinia scillae Linh. SPECIES
-=======
+# Puccinia scillae Linh. SPECIES
 
 #### Status
 ACCEPTED

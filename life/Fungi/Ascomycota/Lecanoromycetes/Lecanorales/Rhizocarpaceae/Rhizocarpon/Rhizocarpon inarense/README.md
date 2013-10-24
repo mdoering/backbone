@@ -1,14 +1,13 @@
-Catocarpus inarense (Vain.) Mereschk. SPECIES
-=======
+# Rhizocarpon inarense (Vain.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 37: 86 (1898)
 
 #### Original name
 Lecidea inarensis Vain.

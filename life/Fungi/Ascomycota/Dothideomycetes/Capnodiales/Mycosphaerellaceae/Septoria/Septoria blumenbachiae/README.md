@@ -1,5 +1,4 @@
-Septoria blumenbachiae Speg. SPECIES
-=======
+# Septoria blumenbachiae Speg. SPECIES
 
 #### Status
 ACCEPTED

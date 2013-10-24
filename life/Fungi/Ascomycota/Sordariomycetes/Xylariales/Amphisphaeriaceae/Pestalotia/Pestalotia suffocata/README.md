@@ -1,5 +1,4 @@
-Pestalotia suffocata Ellis & Everh. SPECIES
-=======
+# Pestalotia suffocata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

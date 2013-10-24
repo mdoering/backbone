@@ -1,5 +1,4 @@
-Stegochilum smalli Alekperov, 1993 SPECIES
-=======
+# Stegochilum smalli Alekperov, 1993 SPECIES
 
 #### Status
 ACCEPTED

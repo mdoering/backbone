@@ -1,17 +1,16 @@
-Parmelia isidiigera var. isidiophora (Müll. Arg.) Gyeln. VARIETY
-=======
+# Xanthoparmelia neotinctina (Elix) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 297 (1986)
 
 #### Original name
-Parmelia conspersa f. isidiophora Müll. Arg.
+Parmelia neotinctina Elix
 
 ### Remarks
 null

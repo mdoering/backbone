@@ -1,5 +1,4 @@
-Phyllosticta guevinicola Speg. SPECIES
-=======
+# Phyllosticta guevinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

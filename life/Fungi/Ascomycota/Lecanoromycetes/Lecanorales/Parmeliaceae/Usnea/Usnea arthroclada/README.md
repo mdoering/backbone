@@ -1,5 +1,4 @@
-Usnea arthroclada Fée SPECIES
-=======
+# Usnea arthroclada Fée SPECIES
 
 #### Status
 ACCEPTED

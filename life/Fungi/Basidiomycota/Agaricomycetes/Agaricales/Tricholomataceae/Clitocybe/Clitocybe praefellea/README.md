@@ -1,5 +1,4 @@
-Clitocybe praefellea Murrill SPECIES
-=======
+# Clitocybe praefellea Murrill SPECIES
 
 #### Status
 ACCEPTED

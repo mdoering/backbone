@@ -1,5 +1,4 @@
-Bacidia chlorophaeata (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia chlorophaeata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

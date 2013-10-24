@@ -1,5 +1,4 @@
-Septoria pisoniae Priest SPECIES
-=======
+# Septoria pisoniae Priest SPECIES
 
 #### Status
 ACCEPTED

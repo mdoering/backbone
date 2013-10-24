@@ -1,5 +1,4 @@
-Nectria discoidea Petch SPECIES
-=======
+# Nectria discoidea Petch SPECIES
 
 #### Status
 ACCEPTED

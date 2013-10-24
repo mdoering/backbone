@@ -1,5 +1,4 @@
-Sporopachydermia cereana Rodr. Mir., 1978 SPECIES
-=======
+# Sporopachydermia cereana Rodr. Mir., 1978 SPECIES
 
 #### Status
 ACCEPTED

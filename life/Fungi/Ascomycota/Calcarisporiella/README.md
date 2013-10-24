@@ -1,5 +1,4 @@
-Calcarisporiella de Hoog GENUS
-=======
+# Calcarisporiella de Hoog GENUS
 
 #### Status
 ACCEPTED

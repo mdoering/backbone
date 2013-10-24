@@ -1,17 +1,16 @@
-Henicospora queenslandicum Matsush. SPECIES
-=======
+# Henicospora queenslandica Matsush., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Matsush. Mycol. Mem. 23 (1989)
 
 #### Original name
-Henicospora queenslandicum Matsush.
+Henicospora queenslandica Matsush., 1989
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caloplaca ochroplaca Poelt & Hinter. SPECIES
-=======
+# Caloplaca ochroplaca Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

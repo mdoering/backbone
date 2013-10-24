@@ -1,5 +1,4 @@
-Peziza seminis Cooke & W. Phillips SPECIES
-=======
+# Peziza seminis Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

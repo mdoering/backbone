@@ -1,5 +1,4 @@
-Sargassum bulbiferum Yoshida SPECIES
-=======
+# Sargassum bulbiferum Yoshida SPECIES
 
 #### Status
 ACCEPTED

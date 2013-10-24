@@ -1,5 +1,4 @@
-Herpotrichia laricina Feltgen SPECIES
-=======
+# Herpotrichia laricina Feltgen SPECIES
 
 #### Status
 ACCEPTED

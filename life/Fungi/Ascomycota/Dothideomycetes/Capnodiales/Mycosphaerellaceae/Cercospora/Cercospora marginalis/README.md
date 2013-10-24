@@ -1,5 +1,4 @@
-Cercospora marginalis Thüm. & P.C. Bolle SPECIES
-=======
+# Cercospora marginalis Thüm. & P.C. Bolle SPECIES
 
 #### Status
 ACCEPTED

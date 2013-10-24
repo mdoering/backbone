@@ -1,5 +1,4 @@
-Sphaerella petasitidis f. petasitidis FORM
-=======
+# Sphaerella petasitidis (Rabenh.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

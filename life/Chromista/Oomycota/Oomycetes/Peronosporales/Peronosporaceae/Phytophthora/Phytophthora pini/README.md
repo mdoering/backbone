@@ -1,5 +1,4 @@
-Phytophthora pini Leonian SPECIES
-=======
+# Phytophthora pini Leonian SPECIES
 
 #### Status
 ACCEPTED

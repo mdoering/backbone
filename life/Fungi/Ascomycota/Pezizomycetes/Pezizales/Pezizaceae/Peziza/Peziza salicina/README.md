@@ -1,5 +1,4 @@
-Peziza salicina Pers. SPECIES
-=======
+# Peziza salicina Pers. SPECIES
 
 #### Status
 ACCEPTED

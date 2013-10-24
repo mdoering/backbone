@@ -1,5 +1,4 @@
-Macrophoma multiflorana Sousa da Câmara SPECIES
-=======
+# Macrophoma multiflorana Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

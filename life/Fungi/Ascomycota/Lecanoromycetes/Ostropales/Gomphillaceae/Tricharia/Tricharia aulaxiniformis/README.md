@@ -1,5 +1,4 @@
-Tricharia aulaxiniformis Lücking & Kalb SPECIES
-=======
+# Tricharia aulaxiniformis Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

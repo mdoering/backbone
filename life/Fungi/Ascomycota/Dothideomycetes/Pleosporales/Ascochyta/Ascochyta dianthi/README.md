@@ -1,5 +1,4 @@
-Ascochyta dianthi (Alb. & Schwein.) Berk., 1860 SPECIES
-=======
+# Ascochyta dianthi (Alb. & Schwein.) Berk., 1860 SPECIES
 
 #### Status
 ACCEPTED

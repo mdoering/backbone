@@ -1,5 +1,4 @@
-Haemogregarina platessae Lebailly, 1904 SPECIES
-=======
+# Haemogregarina platessae Lebailly, 1904 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus chlorinosmus Wolfe & Bougher SPECIES
-=======
+# Tylopilus chlorinosmus Wolfe & Bougher SPECIES
 
 #### Status
 ACCEPTED

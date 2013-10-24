@@ -1,5 +1,4 @@
-Chitonomyces latens Thaxt. SPECIES
-=======
+# Chitonomyces latens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

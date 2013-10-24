@@ -1,5 +1,4 @@
-Pseudoepicoccum M.B. Ellis GENUS
-=======
+# Pseudoepicoccum M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

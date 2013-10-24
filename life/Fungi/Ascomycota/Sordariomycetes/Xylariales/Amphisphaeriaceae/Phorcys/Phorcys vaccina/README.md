@@ -1,5 +1,4 @@
-Phorcys vaccina (Pass.) Höhn. SPECIES
-=======
+# Phorcys vaccina (Pass.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromycetites Braun GENUS
-=======
+# Uromycetites Braun GENUS
 
 #### Status
 ACCEPTED

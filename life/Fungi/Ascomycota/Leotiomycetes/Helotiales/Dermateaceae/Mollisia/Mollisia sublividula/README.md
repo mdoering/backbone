@@ -1,5 +1,4 @@
-Mollisia sublividula (Nyl.) P. Karst. SPECIES
-=======
+# Mollisia sublividula (Nyl.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

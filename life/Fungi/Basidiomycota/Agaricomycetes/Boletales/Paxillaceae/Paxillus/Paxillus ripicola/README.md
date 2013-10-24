@@ -1,5 +1,4 @@
-Paxillus ripicola Corner SPECIES
-=======
+# Paxillus ripicola Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita strobilacea (Cooke) Sacc. SPECIES
-=======
+# Amanita strobilacea (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

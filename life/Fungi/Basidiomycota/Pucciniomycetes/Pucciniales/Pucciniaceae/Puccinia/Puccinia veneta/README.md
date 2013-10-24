@@ -1,5 +1,4 @@
-Puccinia veneta Gäum. SPECIES
-=======
+# Puccinia veneta Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gaarderella M. Black, 1973 GENUS
-=======
+# Gaarderella M. Black, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta hainensis Gonz. Frag. & Cif. SPECIES
-=======
+# Phyllosticta hainensis Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

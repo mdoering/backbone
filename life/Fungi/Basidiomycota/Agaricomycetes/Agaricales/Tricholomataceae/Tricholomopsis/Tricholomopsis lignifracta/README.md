@@ -1,5 +1,4 @@
-Tricholomopsis lignifracta E. Horak SPECIES
-=======
+# Tricholomopsis lignifracta E. Horak SPECIES
 
 #### Status
 ACCEPTED

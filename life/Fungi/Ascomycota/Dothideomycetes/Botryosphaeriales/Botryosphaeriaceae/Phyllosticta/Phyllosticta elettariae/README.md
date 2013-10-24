@@ -1,5 +1,4 @@
-Phyllosticta elettariae S. Chowdhury, 1958 SPECIES
-=======
+# Phyllosticta elettariae S. Chowdhury, 1958 SPECIES
 
 #### Status
 ACCEPTED

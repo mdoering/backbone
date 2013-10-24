@@ -1,17 +1,16 @@
-Podosporium dialiumii Bat. SPECIES
-=======
+# Podosporium dialii Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atas Inst. Micol. Univ. Recife 1: 266 (1960)
 
 #### Original name
-Podosporium dialiumii Bat.
+Podosporium dialii Bat.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lenzites betulina-guineensis Jungh. SPECIES
-=======
+# Lenzites betulina-guineensis Jungh. SPECIES
 
 #### Status
 ACCEPTED

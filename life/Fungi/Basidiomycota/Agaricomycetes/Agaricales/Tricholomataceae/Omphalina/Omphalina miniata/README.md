@@ -1,5 +1,4 @@
-Omphalina miniata Murrill SPECIES
-=======
+# Omphalina miniata Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora exochordiae (Chupp & J.A. Stev.) Deighton SPECIES
-=======
+# Pseudocercospora exochordiae (Chupp & J.A. Stev.) Deighton SPECIES
 
 #### Status
 ACCEPTED

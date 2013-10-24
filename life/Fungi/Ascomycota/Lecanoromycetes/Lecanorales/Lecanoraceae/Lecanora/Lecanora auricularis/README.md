@@ -1,5 +1,4 @@
-Lecanora auricularis Werner SPECIES
-=======
+# Lecanora auricularis Werner SPECIES
 
 #### Status
 ACCEPTED

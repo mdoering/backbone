@@ -1,5 +1,4 @@
-Hebeloma praecox Murrill SPECIES
-=======
+# Hebeloma praecox Murrill SPECIES
 
 #### Status
 ACCEPTED

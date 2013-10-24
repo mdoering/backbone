@@ -1,5 +1,4 @@
-Zelamarckina GENUS
-=======
+# Zelamarckina GENUS
 
 #### Status
 ACCEPTED

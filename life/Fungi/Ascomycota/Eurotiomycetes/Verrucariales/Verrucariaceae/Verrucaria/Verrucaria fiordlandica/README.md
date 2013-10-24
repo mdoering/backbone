@@ -1,5 +1,4 @@
-Verrucaria fiordlandica P.M. McCarthy & P.N. Johnson SPECIES
-=======
+# Verrucaria fiordlandica P.M. McCarthy & P.N. Johnson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora viridula (Flörke) Hillmann SPECIES
-=======
+# Lecanora viridula (Flörke) Hillmann SPECIES
 
 #### Status
 ACCEPTED

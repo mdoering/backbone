@@ -1,5 +1,4 @@
-Helminthosporium hydropiperis Thüm. SPECIES
-=======
+# Helminthosporium hydropiperis Thüm. SPECIES
 
 #### Status
 ACCEPTED

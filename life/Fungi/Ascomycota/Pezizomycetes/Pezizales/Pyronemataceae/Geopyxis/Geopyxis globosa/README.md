@@ -1,5 +1,4 @@
-Geopyxis globosa Fr. SPECIES
-=======
+# Geopyxis globosa Fr. SPECIES
 
 #### Status
 ACCEPTED

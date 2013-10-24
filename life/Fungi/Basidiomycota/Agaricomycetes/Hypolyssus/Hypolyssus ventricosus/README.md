@@ -1,5 +1,4 @@
-Hypolyssus ventricosus (Pers.) Fr. SPECIES
-=======
+# Hypolyssus ventricosus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

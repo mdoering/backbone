@@ -1,5 +1,4 @@
-Omphalina subolivacea Raithelh. SPECIES
-=======
+# Omphalina subolivacea Raithelh. SPECIES
 
 #### Status
 ACCEPTED

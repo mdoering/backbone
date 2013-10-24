@@ -1,5 +1,4 @@
-Puccinia dactylidina Bubák SPECIES
-=======
+# Puccinia dactylidina Bubák SPECIES
 
 #### Status
 ACCEPTED

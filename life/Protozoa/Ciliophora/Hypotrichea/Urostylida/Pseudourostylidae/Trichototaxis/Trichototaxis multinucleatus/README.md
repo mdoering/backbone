@@ -1,5 +1,4 @@
-Trichototaxis multinucleatus Burkovsky, 1970 SPECIES
-=======
+# Trichototaxis multinucleatus Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

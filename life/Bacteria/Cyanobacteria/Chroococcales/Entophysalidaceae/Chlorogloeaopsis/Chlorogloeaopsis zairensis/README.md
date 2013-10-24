@@ -1,5 +1,4 @@
-Chlorogloeaopsis zairensis P. K. Maithy SPECIES
-=======
+# Chlorogloeaopsis zairensis P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

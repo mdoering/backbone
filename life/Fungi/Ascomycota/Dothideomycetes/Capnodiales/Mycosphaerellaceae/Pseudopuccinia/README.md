@@ -1,5 +1,4 @@
-Pseudopuccinia GENUS
-=======
+# Pseudopuccinia GENUS
 
 #### Status
 ACCEPTED

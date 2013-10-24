@@ -1,8 +1,7 @@
-Filellum expansum (Levinsen, 1893) Jankowski, 2007 SPECIES
-=======
+# Lagotia expansa Levinsen, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

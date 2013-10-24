@@ -1,5 +1,4 @@
-Hypomyces odoratus G.R.W. Arnold SPECIES
-=======
+# Hypomyces odoratus G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

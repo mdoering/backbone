@@ -1,14 +1,13 @@
-Entomophaga limoniae S. Keller, 1988 SPECIES
-=======
+# Batkoa limoniae (S. Keller) Niell & Santam., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 40: 146 (1988)
+Nova Hedwigia 73(1-2): 171 (2001)
 
 #### Original name
 Entomophaga limoniae S. Keller, 1988

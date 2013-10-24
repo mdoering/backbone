@@ -1,5 +1,4 @@
-Gloeocystidium luteocinereum Rick SPECIES
-=======
+# Gloeocystidium luteocinereum Rick SPECIES
 
 #### Status
 ACCEPTED

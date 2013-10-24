@@ -1,5 +1,4 @@
-Fungus dyspines (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus dyspines (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

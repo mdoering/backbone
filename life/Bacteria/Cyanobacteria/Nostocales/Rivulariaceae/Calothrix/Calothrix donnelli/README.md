@@ -1,5 +1,4 @@
-Calothrix donnelli (Wolle) De Toni SPECIES
-=======
+# Calothrix donnelli (Wolle) De Toni SPECIES
 
 #### Status
 ACCEPTED

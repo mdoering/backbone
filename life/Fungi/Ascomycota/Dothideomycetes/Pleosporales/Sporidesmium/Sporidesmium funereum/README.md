@@ -1,5 +1,4 @@
-Sporidesmium funereum Ellis & Langl. SPECIES
-=======
+# Sporidesmium funereum Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

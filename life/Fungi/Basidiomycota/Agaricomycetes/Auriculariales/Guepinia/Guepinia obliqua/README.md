@@ -1,5 +1,4 @@
-Guepinia obliqua Massee SPECIES
-=======
+# Guepinia obliqua Massee SPECIES
 
 #### Status
 ACCEPTED

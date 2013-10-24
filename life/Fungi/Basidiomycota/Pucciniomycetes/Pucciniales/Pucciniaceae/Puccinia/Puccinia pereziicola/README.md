@@ -1,5 +1,4 @@
-Puccinia pereziicola Speg. SPECIES
-=======
+# Puccinia pereziicola Speg. SPECIES
 
 #### Status
 ACCEPTED

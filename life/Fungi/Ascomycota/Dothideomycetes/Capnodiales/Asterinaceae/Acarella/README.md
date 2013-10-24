@@ -1,5 +1,4 @@
-Acarella Sydow, 1927 GENUS
-=======
+# Acarella Sydow, 1927 GENUS
 
 #### Status
 ACCEPTED

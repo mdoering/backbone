@@ -1,5 +1,4 @@
-Chaenothecopsis lecanactidis Tibell SPECIES
-=======
+# Chaenothecopsis lecanactidis Tibell SPECIES
 
 #### Status
 ACCEPTED

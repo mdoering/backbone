@@ -1,5 +1,4 @@
-Agaricus defossus Weinm. SPECIES
-=======
+# Agaricus defossus Weinm. SPECIES
 
 #### Status
 ACCEPTED

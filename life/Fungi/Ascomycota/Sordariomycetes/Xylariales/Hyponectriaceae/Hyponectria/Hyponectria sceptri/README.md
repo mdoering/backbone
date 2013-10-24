@@ -1,5 +1,4 @@
-Hyponectria sceptri (P. Karst.) Samuels, Rogerson, Rossman & J.D. Sm. SPECIES
-=======
+# Hyponectria sceptri (P. Karst.) Samuels, Rogerson, Rossman & J.D. Sm. SPECIES
 
 #### Status
 ACCEPTED

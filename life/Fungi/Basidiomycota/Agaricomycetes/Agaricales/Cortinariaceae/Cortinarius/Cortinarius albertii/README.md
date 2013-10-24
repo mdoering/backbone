@@ -1,5 +1,4 @@
-Cortinarius albertii Dima, Frøslev & T.S. Jeppesen SPECIES
-=======
+# Cortinarius albertii Dima, Frøslev & T.S. Jeppesen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphium cinerellum Speg. SPECIES
-=======
+# Graphium cinerellum Speg. SPECIES
 
 #### Status
 ACCEPTED

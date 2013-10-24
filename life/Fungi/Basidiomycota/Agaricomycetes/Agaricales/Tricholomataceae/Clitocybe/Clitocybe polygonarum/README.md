@@ -1,5 +1,4 @@
-Clitocybe polygonarum Laursen, O.K. Mill. & H.E. Bigelow SPECIES
-=======
+# Clitocybe polygonarum Laursen, O.K. Mill. & H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotella thienemannii var. minuscula Jurilj VARIETY
-=======
+# Cyclotella thienemannii SPECIES
 
 #### Status
 ACCEPTED

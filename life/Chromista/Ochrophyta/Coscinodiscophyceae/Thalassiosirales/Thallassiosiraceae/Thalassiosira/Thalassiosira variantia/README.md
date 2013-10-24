@@ -1,5 +1,4 @@
-Thalassiosira variantia M. Shiono SPECIES
-=======
+# Thalassiosira variantia M. Shiono SPECIES
 
 #### Status
 ACCEPTED

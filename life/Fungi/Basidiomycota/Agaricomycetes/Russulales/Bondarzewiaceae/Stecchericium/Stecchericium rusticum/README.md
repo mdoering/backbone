@@ -1,5 +1,4 @@
-Stecchericium rusticum Maas Geest., 1971 SPECIES
-=======
+# Stecchericium rusticum Maas Geest., 1971 SPECIES
 
 #### Status
 ACCEPTED

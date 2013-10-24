@@ -1,5 +1,4 @@
-Phyllostictella perforans (Ellis & Everh.) Tassi SPECIES
-=======
+# Phyllostictella perforans (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

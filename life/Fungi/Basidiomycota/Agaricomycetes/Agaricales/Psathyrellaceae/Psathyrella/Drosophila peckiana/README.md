@@ -1,5 +1,4 @@
-Drosophila peckiana (Kauffman) Murrill SPECIES
-=======
+# Drosophila peckiana (Kauffman) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothelium oceanicum P. M. McCarthy SPECIES
-=======
+# Trichothelium oceanicum P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

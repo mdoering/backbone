@@ -1,5 +1,4 @@
-Seimatosporium hysterioides (Fuckel) Brockmann SPECIES
-=======
+# Seimatosporium hysterioides (Fuckel) Brockmann SPECIES
 
 #### Status
 ACCEPTED

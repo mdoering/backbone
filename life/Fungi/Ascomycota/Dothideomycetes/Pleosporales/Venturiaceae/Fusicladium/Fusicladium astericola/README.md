@@ -1,14 +1,13 @@
-Cladosporium astericola Davis, 1922 SPECIES
-=======
+# Fusicladium astericola (Davis) K. Schub. & U. Braun, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Wis. Acad. Sci. Arts Lett. 20: 428 (1922)
+Mycotaxon 92: 59 (2005)
 
 #### Original name
 Cladosporium astericola Davis, 1922

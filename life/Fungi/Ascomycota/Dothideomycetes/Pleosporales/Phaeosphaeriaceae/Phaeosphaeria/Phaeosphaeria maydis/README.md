@@ -1,5 +1,4 @@
-Phaeosphaeria maydis (Henn.) Rane, Payak & Renfro SPECIES
-=======
+# Phaeosphaeria maydis (Henn.) Rane, Payak & Renfro SPECIES
 
 #### Status
 ACCEPTED

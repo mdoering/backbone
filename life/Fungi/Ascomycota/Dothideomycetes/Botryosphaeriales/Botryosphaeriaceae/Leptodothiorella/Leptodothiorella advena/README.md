@@ -1,5 +1,4 @@
-Leptodothiorella advena Syd. SPECIES
-=======
+# Leptodothiorella advena Syd. SPECIES
 
 #### Status
 ACCEPTED

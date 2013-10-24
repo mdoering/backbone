@@ -1,5 +1,4 @@
-Psilocybe caespitosa Murrill SPECIES
-=======
+# Psilocybe caespitosa Murrill SPECIES
 
 #### Status
 ACCEPTED

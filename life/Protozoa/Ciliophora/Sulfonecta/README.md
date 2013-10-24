@@ -1,5 +1,4 @@
-Sulfonecta Yankovskij, 1978 GENUS
-=======
+# Sulfonecta Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

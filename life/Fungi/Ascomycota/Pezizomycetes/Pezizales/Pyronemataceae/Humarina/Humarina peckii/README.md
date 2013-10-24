@@ -1,5 +1,4 @@
-Humarina peckii (House) Seaver SPECIES
-=======
+# Humarina peckii (House) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laurera alboverruca Makhija & Patw. SPECIES
-=======
+# Laurera alboverruca Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

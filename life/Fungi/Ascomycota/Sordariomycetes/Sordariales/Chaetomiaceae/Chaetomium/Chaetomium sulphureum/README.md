@@ -1,5 +1,4 @@
-Chaetomium sulphureum Sörgel ex Seth, 1972 SPECIES
-=======
+# Chaetomium sulphureum Sörgel ex Seth, 1972 SPECIES
 
 #### Status
 ACCEPTED

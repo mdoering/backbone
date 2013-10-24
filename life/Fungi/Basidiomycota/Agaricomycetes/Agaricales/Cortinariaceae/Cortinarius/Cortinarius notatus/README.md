@@ -1,5 +1,4 @@
-Cortinarius notatus (Pers.) P. Kumm. SPECIES
-=======
+# Cortinarius notatus (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

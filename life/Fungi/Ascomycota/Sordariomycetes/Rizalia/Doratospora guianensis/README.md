@@ -1,5 +1,4 @@
-Doratospora guianensis J.M. Mend. SPECIES
-=======
+# Doratospora guianensis J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysamoeba mikrokonta Skuja SPECIES
-=======
+# Chrysamoeba mikrokonta Skuja SPECIES
 
 #### Status
 ACCEPTED

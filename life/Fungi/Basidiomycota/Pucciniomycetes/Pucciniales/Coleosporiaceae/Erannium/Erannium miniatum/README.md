@@ -1,5 +1,4 @@
-Erannium miniatum Bonord. SPECIES
-=======
+# Erannium miniatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

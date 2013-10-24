@@ -1,5 +1,4 @@
-Verrucaria umbrosa (Hepp) Stizenb. SPECIES
-=======
+# Verrucaria umbrosa (Hepp) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

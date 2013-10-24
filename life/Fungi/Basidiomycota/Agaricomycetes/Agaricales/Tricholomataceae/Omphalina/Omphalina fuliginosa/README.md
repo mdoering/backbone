@@ -1,5 +1,4 @@
-Omphalina fuliginosa (Massee) Manjula SPECIES
-=======
+# Omphalina fuliginosa (Massee) Manjula SPECIES
 
 #### Status
 ACCEPTED

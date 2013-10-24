@@ -1,5 +1,4 @@
-Fragilaria chilensis (Krasske) H. Lange-Bertalot SPECIES
-=======
+# Fragilaria chilensis (Krasske) H. Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

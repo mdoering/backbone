@@ -1,5 +1,4 @@
-Passalora euphorbiae (Karak.) Arx, 1983 SPECIES
-=======
+# Passalora euphorbiae (Karak.) Arx, 1983 SPECIES
 
 #### Status
 ACCEPTED

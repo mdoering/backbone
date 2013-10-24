@@ -1,5 +1,4 @@
-Aliagarivorans marinus Jean, Huang, Liu, Chen & Shieh, 2009 SPECIES
-=======
+# Aliagarivorans marinus Jean, Huang, Liu, Chen & Shieh, 2009 SPECIES
 
 #### Status
 ACCEPTED

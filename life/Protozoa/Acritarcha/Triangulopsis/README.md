@@ -1,5 +1,4 @@
-Triangulopsis H. Döring, 1961 GENUS
-=======
+# Triangulopsis H. Döring, 1961 GENUS
 
 #### Status
 ACCEPTED

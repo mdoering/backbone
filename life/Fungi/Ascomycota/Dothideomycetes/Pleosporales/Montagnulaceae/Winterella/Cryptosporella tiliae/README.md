@@ -1,5 +1,4 @@
-Cryptosporella tiliae (Tul. & C. Tul.) L.C. Mejia & Castl. SPECIES
-=======
+# Cryptosporella tiliae (Tul. & C. Tul.) L.C. Mejia & Castl. SPECIES
 
 #### Status
 ACCEPTED

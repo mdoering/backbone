@@ -1,5 +1,4 @@
-Rickia pachylaelapis T. Majewski SPECIES
-=======
+# Rickia pachylaelapis T. Majewski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stifftia G.D. Nardo, 1834 GENUS
-=======
+# Stifftia G.D. Nardo, 1834 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia recta Thaxt. SPECIES
-=======
+# Laboulbenia recta Thaxt. SPECIES
 
 #### Status
 ACCEPTED

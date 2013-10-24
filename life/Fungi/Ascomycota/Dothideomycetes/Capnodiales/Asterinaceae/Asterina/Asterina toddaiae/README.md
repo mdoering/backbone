@@ -1,17 +1,16 @@
-Asterina toddalae A.K. Kar & S.N. Ghosh SPECIES
-=======
+# Asterina toddaiae A.K. Kar & S.N. Ghosh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 39(2): 210 (1987)
 
 #### Original name
-Asterina toddalae A.K. Kar & S.N. Ghosh
+Asterina toddaiae A.K. Kar & S.N. Ghosh
 
 ### Remarks
 null

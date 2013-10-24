@@ -1,5 +1,4 @@
-Tritaxis conica (Parker & Jones, 1865) SPECIES
-=======
+# Tritaxis conica (Parker & Jones, 1865) SPECIES
 
 #### Status
 ACCEPTED

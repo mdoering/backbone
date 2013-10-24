@@ -1,17 +1,16 @@
-Lasallia papulosa var. laceratula (Vain.) Llano VARIETY
-=======
+# Lasallia papulosa (Ach.) Llano SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Umbilicaria laceratula Vain.
+Gyrophora papulosa Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Teichospora nucis Ellis & Everh. SPECIES
-=======
+# Teichospora nucis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

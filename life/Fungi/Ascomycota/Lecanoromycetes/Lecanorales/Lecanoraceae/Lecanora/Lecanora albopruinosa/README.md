@@ -1,5 +1,4 @@
-Lecanora albopruinosa (Arnold) Nyl. SPECIES
-=======
+# Lecanora albopruinosa (Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Psammopemma calcareum Haeckel, 1889 SPECIES
-=======
+# Galatheammina calcarea (Haeckel, 1889) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-The Catalogue of Life, 3rd January 2011
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

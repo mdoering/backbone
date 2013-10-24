@@ -1,5 +1,4 @@
-Scolecostigmina combreticola (M.B. Ellis) U. Braun SPECIES
-=======
+# Scolecostigmina combreticola (M.B. Ellis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

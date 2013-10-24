@@ -1,5 +1,4 @@
-Allosphaerium Link GENUS
-=======
+# Allosphaerium Link GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplocystis compacta (Czern.) De Toni SPECIES
-=======
+# Diplocystis compacta (Czern.) De Toni SPECIES
 
 #### Status
 ACCEPTED

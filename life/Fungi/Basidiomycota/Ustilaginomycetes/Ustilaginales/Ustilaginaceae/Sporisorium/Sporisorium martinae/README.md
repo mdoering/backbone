@@ -1,5 +1,4 @@
-Sporisorium martinae Bag & D.K. Agarwal SPECIES
-=======
+# Sporisorium martinae Bag & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peckiella vanbruntiana (W.R. Gerard) Sacc. SPECIES
-=======
+# Peckiella vanbruntiana (W.R. Gerard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

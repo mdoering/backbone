@@ -1,5 +1,4 @@
-Schismatosphaeridium bhimae Venkatachala & Rawat, 1973 SPECIES
-=======
+# Schismatosphaeridium bhimae Venkatachala & Rawat, 1973 SPECIES
 
 #### Status
 ACCEPTED

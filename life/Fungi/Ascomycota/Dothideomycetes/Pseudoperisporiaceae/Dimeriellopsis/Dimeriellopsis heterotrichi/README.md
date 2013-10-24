@@ -1,5 +1,4 @@
-Dimeriellopsis heterotrichi Toro SPECIES
-=======
+# Dimeriellopsis heterotrichi Toro SPECIES
 
 #### Status
 ACCEPTED

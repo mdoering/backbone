@@ -1,5 +1,4 @@
-Chlorosplenium salviicolor Ellis & Everh. SPECIES
-=======
+# Chlorosplenium salviicolor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

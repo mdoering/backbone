@@ -1,5 +1,4 @@
-Nocardia pretoriana Pijper & Pullinger SPECIES
-=======
+# Nocardia pretoriana Pijper & Pullinger SPECIES
 
 #### Status
 ACCEPTED

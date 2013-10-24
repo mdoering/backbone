@@ -1,5 +1,4 @@
-Ascospora sequojae (Cooke) Kuntze SPECIES
-=======
+# Ascospora sequojae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

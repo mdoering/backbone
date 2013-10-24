@@ -1,5 +1,4 @@
-Acarospora amabilis H. Magn. SPECIES
-=======
+# Acarospora amabilis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

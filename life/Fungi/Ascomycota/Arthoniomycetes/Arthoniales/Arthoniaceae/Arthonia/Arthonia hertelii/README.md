@@ -1,5 +1,4 @@
-Arthonia hertelii (Calat., Barreno & V.J. Rico) Hafellner & V. John SPECIES
-=======
+# Arthonia hertelii (Calat., Barreno & V.J. Rico) Hafellner & V. John SPECIES
 
 #### Status
 ACCEPTED

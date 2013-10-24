@@ -1,5 +1,4 @@
-Arthonia tetraspora S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Arthonia tetraspora S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

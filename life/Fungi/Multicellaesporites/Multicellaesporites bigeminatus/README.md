@@ -1,5 +1,4 @@
-Multicellaesporites bigeminatus Sheffy & Dilcher SPECIES
-=======
+# Multicellaesporites bigeminatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

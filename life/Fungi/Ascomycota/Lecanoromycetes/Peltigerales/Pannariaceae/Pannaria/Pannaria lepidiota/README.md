@@ -1,5 +1,4 @@
-Pannaria lepidiota f. lepidiota FORM
-=======
+# Pannaria lepidiota SPECIES
 
 #### Status
 ACCEPTED

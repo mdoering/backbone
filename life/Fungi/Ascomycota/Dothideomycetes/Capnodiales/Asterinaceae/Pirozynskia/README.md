@@ -1,5 +1,4 @@
-Pirozynskia Subram. GENUS
-=======
+# Pirozynskia Subram. GENUS
 
 #### Status
 ACCEPTED

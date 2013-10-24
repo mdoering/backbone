@@ -1,5 +1,4 @@
-Epicoccum scabrum f. scabrum FORM
-=======
+# Epicoccum scabrum Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Weitenweber's Beitrage zur Nat. 87 (1837)
 
 #### Original name
-Epicoccum scabrum f. scabrum
+Epicoccum scabrum Corda
 
 ### Remarks
 null

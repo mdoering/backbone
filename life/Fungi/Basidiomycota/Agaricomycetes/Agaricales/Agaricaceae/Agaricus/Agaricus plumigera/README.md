@@ -1,5 +1,4 @@
-Agaricus plumigera Fr. SPECIES
-=======
+# Agaricus plumigera Fr. SPECIES
 
 #### Status
 ACCEPTED

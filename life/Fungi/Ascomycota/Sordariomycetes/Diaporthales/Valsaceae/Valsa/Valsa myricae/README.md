@@ -1,5 +1,4 @@
-Valsa myricae Jaap SPECIES
-=======
+# Valsa myricae Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysophaeum I.F.Lewis & H.F.Bryan, 1941 GENUS
-=======
+# Chrysophaeum I.F.Lewis & H.F.Bryan, 1941 GENUS
 
 #### Status
 ACCEPTED

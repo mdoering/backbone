@@ -1,5 +1,4 @@
-Eidamella actoni Datta SPECIES
-=======
+# Eidamella actoni Datta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoelphidiella GENUS
-=======
+# Pseudoelphidiella GENUS
 
 #### Status
 ACCEPTED

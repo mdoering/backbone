@@ -1,5 +1,4 @@
-Craterellus floriformis (Schaeff.) Quél. SPECIES
-=======
+# Craterellus floriformis (Schaeff.) Quél. SPECIES
 
 #### Status
 ACCEPTED

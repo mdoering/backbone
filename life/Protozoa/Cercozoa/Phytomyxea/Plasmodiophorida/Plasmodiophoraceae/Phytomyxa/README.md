@@ -1,5 +1,4 @@
-Phytomyxa J. Schröt. GENUS
-=======
+# Phytomyxa J. Schröt. GENUS
 
 #### Status
 ACCEPTED

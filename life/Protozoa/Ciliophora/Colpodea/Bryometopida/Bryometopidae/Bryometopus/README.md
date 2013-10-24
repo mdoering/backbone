@@ -1,5 +1,4 @@
-Bryometopus Kahl, 1932 GENUS
-=======
+# Bryometopus Kahl, 1932 GENUS
 
 #### Status
 ACCEPTED

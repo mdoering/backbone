@@ -1,5 +1,4 @@
-Nodularia quadrata F.E. Fritsch SPECIES
-=======
+# Nodularia quadrata F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

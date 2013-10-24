@@ -1,5 +1,4 @@
-Asterina scrobiculata W. Yamam. SPECIES
-=======
+# Asterina scrobiculata W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria sobolifera Hill ex Watson SPECIES
-=======
+# Sphaeria sobolifera Hill ex Watson SPECIES
 
 #### Status
 ACCEPTED

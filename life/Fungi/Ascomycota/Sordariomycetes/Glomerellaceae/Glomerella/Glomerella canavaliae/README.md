@@ -1,5 +1,4 @@
-Glomerella canavaliae (Cif. & Gonz. Frag.) Petr. SPECIES
-=======
+# Glomerella canavaliae (Cif. & Gonz. Frag.) Petr. SPECIES
 
 #### Status
 ACCEPTED

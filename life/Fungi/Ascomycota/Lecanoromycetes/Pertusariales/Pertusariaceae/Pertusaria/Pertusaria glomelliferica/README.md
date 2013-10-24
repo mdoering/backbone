@@ -1,5 +1,4 @@
-Pertusaria glomelliferica Elix & A. W. Archer SPECIES
-=======
+# Pertusaria glomelliferica Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

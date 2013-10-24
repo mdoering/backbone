@@ -1,5 +1,4 @@
-Rhodotorula rubescens (Saito) F.C. Harrison SPECIES
-=======
+# Rhodotorula rubescens (Saito) F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphenolithus primus Perch-Nielsen, 1971 SPECIES
-=======
+# Sphenolithus primus Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

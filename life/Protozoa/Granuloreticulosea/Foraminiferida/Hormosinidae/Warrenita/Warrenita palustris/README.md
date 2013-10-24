@@ -1,5 +1,4 @@
-Warrenita palustris (Warren, 1957) SPECIES
-=======
+# Warrenita palustris (Warren, 1957) SPECIES
 
 #### Status
 ACCEPTED

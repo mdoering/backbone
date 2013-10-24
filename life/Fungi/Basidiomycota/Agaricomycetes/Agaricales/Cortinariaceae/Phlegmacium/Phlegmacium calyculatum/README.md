@@ -1,5 +1,4 @@
-Phlegmacium calyculatum (M.M. Moser) M.M. Moser SPECIES
-=======
+# Phlegmacium calyculatum (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium eulaliae L. Ling SPECIES
-=======
+# Sorosporium eulaliae L. Ling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype obesa Berk. & M.A. Curtis SPECIES
-=======
+# Diatrype obesa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

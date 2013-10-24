@@ -1,5 +1,4 @@
-Rhizomorpha fontigena Rebent. SPECIES
-=======
+# Rhizomorpha fontigena Rebent. SPECIES
 
 #### Status
 ACCEPTED

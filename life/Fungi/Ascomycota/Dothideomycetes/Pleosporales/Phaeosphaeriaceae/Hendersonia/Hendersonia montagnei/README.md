@@ -1,5 +1,4 @@
-Hendersonia montagnei Cooke SPECIES
-=======
+# Hendersonia montagnei Cooke SPECIES
 
 #### Status
 ACCEPTED

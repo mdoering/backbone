@@ -1,5 +1,4 @@
-Catillaria subprivigna (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria subprivigna (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

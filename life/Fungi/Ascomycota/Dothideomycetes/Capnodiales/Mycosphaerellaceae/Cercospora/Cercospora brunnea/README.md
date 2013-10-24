@@ -1,5 +1,4 @@
-Cercospora brunnea Peck SPECIES
-=======
+# Cercospora brunnea Peck SPECIES
 
 #### Status
 ACCEPTED

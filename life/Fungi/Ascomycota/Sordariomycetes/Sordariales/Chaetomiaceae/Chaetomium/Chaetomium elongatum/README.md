@@ -1,5 +1,4 @@
-Chaetomium elongatum Czerepan. SPECIES
-=======
+# Chaetomium elongatum Czerepan. SPECIES
 
 #### Status
 ACCEPTED

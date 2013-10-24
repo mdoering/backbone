@@ -1,5 +1,4 @@
-Bovista clavata Fr. SPECIES
-=======
+# Bovista clavata Fr. SPECIES
 
 #### Status
 ACCEPTED

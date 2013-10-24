@@ -1,5 +1,4 @@
-Perenniporia amazonica De Jesus & Ryvarden, 2010 SPECIES
-=======
+# Perenniporia amazonica De Jesus & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neottiosporina cylindrica B. Sutton & Alcorn, 1985 SPECIES
-=======
+# Neottiosporina cylindrica B. Sutton & Alcorn, 1985 SPECIES
 
 #### Status
 ACCEPTED

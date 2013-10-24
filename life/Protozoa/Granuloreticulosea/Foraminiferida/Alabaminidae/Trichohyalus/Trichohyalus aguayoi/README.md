@@ -1,5 +1,4 @@
-Trichohyalus aguayoi SPECIES
-=======
+# Trichohyalus aguayoi SPECIES
 
 #### Status
 ACCEPTED

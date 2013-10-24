@@ -1,5 +1,4 @@
-Heteroralfsia Kawai, 1989 GENUS
-=======
+# Heteroralfsia Kawai, 1989 GENUS
 
 #### Status
 ACCEPTED

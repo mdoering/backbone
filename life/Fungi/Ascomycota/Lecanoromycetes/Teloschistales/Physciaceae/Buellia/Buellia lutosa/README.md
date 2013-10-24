@@ -1,5 +1,4 @@
-Buellia lutosa (A. Massal.) Anzi SPECIES
-=======
+# Buellia lutosa (A. Massal.) Anzi SPECIES
 
 #### Status
 ACCEPTED

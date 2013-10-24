@@ -1,5 +1,4 @@
-Spheconisca confusa Norman SPECIES
-=======
+# Spheconisca confusa Norman SPECIES
 
 #### Status
 ACCEPTED

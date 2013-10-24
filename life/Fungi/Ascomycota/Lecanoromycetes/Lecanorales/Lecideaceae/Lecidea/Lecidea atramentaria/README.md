@@ -1,5 +1,4 @@
-Lecidea atramentaria Hue SPECIES
-=======
+# Lecidea atramentaria Hue SPECIES
 
 #### Status
 ACCEPTED

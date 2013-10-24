@@ -1,5 +1,4 @@
-Lecanora scanica H. Magn. SPECIES
-=======
+# Lecanora scanica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

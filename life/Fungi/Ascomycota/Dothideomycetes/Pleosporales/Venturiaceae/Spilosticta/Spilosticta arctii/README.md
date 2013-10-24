@@ -1,5 +1,4 @@
-Spilosticta arctii anon. SPECIES
-=======
+# Spilosticta arctii anon. SPECIES
 
 #### Status
 ACCEPTED

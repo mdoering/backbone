@@ -1,5 +1,4 @@
-Rinodina tuberculosa Gray SPECIES
-=======
+# Rinodina tuberculosa Gray SPECIES
 
 #### Status
 ACCEPTED

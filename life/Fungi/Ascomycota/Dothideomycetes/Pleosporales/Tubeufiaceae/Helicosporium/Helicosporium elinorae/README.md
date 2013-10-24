@@ -1,5 +1,4 @@
-Helicosporium elinorae Linder SPECIES
-=======
+# Helicosporium elinorae Linder SPECIES
 
 #### Status
 ACCEPTED

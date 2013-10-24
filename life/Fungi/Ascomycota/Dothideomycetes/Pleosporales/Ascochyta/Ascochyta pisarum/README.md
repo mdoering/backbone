@@ -1,5 +1,4 @@
-Ascochyta pisarum Y.S. Paul & Rathour SPECIES
-=======
+# Ascochyta pisarum Y.S. Paul & Rathour SPECIES
 
 #### Status
 ACCEPTED

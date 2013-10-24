@@ -1,5 +1,4 @@
-Guignardia mespili (Fautrey) Schrantz SPECIES
-=======
+# Guignardia mespili (Fautrey) Schrantz SPECIES
 
 #### Status
 ACCEPTED

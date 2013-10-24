@@ -1,5 +1,4 @@
-Haplophragmoides trullissata SPECIES
-=======
+# Haplophragmoides trullissata SPECIES
 
 #### Status
 ACCEPTED

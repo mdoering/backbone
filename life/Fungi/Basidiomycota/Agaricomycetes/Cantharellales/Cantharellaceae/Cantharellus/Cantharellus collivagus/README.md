@@ -1,5 +1,4 @@
-Cantharellus collivagus Velen. SPECIES
-=======
+# Cantharellus collivagus Velen. SPECIES
 
 #### Status
 ACCEPTED

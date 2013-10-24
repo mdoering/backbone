@@ -1,17 +1,16 @@
-Cookeina colensoi var. colensoi VARIETY
-=======
+# Cookeina colensoi (Berk.) Seaver, 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 5(4): 191 (1913)
 
 #### Original name
-Cookeina colensoi var. colensoi
+Peziza colensoi Berk., 1855
 
 ### Remarks
 null

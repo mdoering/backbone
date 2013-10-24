@@ -1,5 +1,4 @@
-Multicellites compactilis (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites compactilis (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

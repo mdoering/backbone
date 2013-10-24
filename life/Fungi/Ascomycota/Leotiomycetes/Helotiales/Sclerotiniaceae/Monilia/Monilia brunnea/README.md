@@ -1,5 +1,4 @@
-Monilia brunnea J.C. Gilman & E.V. Abbott, 1927 SPECIES
-=======
+# Monilia brunnea J.C. Gilman & E.V. Abbott, 1927 SPECIES
 
 #### Status
 ACCEPTED

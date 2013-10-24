@@ -1,5 +1,4 @@
-Leptosphaeria alexandrinis Negru SPECIES
-=======
+# Leptosphaeria alexandrinis Negru SPECIES
 
 #### Status
 ACCEPTED

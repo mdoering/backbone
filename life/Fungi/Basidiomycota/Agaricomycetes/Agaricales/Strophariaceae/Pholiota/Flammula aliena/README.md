@@ -1,5 +1,4 @@
-Flammula aliena Peck SPECIES
-=======
+# Flammula aliena Peck SPECIES
 
 #### Status
 ACCEPTED

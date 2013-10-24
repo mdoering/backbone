@@ -1,5 +1,4 @@
-Micula quadrata (Stradner, 1961) Perch-Nielsen, 1984 SPECIES
-=======
+# Micula quadrata (Stradner, 1961) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

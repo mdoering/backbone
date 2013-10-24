@@ -1,5 +1,4 @@
-Cercophora natalitia (Speg.) N. Lundq. SPECIES
-=======
+# Cercophora natalitia (Speg.) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protobolella F. Chapman, 1935 GENUS
-=======
+# Protobolella F. Chapman, 1935 GENUS
 
 #### Status
 ACCEPTED

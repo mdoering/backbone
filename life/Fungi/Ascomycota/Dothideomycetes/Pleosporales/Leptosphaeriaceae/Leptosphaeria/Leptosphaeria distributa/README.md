@@ -1,5 +1,4 @@
-Leptosphaeria distributa (Cooke & Ellis) Sacc. SPECIES
-=======
+# Leptosphaeria distributa (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

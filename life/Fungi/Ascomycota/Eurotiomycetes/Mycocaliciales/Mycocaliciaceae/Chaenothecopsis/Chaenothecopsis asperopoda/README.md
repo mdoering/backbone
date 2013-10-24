@@ -1,5 +1,4 @@
-Chaenothecopsis asperopoda Titov SPECIES
-=======
+# Chaenothecopsis asperopoda Titov SPECIES
 
 #### Status
 ACCEPTED

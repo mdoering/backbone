@@ -1,5 +1,4 @@
-Peridermium peckianum anon. SPECIES
-=======
+# Peridermium peckianum anon. SPECIES
 
 #### Status
 ACCEPTED

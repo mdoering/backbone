@@ -1,5 +1,4 @@
-Nigredo mexicana (Dietel & Holw.) Arthur SPECIES
-=======
+# Nigredo mexicana (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

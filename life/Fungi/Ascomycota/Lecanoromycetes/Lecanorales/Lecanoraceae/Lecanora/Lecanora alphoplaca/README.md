@@ -1,5 +1,4 @@
-Lecanora alphoplaca f. alphoplaca FORM
-=======
+# Lecanora alphoplaca SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lich. univ. (1810)
+null
 
 #### Original name
-Lecanora alphoplaca f. alphoplaca
+null
 
 ### Remarks
 null

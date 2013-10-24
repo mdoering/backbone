@@ -1,5 +1,4 @@
-Hygrophorus viscidipes A.H. Sm. SPECIES
-=======
+# Hygrophorus viscidipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

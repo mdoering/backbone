@@ -1,5 +1,4 @@
-Papulaspora byssina Hotson, 1917 SPECIES
-=======
+# Papulaspora byssina Hotson, 1917 SPECIES
 
 #### Status
 ACCEPTED

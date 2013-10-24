@@ -1,5 +1,4 @@
-Xanthoparmelia mongolica Kurok. SPECIES
-=======
+# Xanthoparmelia mongolica Kurok. SPECIES
 
 #### Status
 ACCEPTED

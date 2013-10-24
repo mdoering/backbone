@@ -1,5 +1,4 @@
-Ascochyta selaginellae M.L. Farr SPECIES
-=======
+# Ascochyta selaginellae M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

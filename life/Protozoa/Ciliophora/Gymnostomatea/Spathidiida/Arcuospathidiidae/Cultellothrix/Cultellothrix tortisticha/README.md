@@ -1,5 +1,4 @@
-Cultellothrix tortisticha Foissner & Xu, 2007 SPECIES
-=======
+# Cultellothrix tortisticha Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

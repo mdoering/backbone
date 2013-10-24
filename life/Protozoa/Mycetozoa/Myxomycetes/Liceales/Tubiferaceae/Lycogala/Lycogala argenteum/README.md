@@ -1,8 +1,7 @@
-Lycogala argentea Pers. SPECIES
-=======
+# Lycogala argenteum Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lycogala argentea Pers.
+Lycogala argenteum Pers.
 
 ### Remarks
 null

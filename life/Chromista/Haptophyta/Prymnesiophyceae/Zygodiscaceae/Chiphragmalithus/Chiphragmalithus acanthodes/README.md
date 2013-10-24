@@ -1,5 +1,4 @@
-Chiphragmalithus acanthodes Bramlette & Sullivan, 1961 SPECIES
-=======
+# Chiphragmalithus acanthodes Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

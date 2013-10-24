@@ -1,5 +1,4 @@
-Opegrapha difficilis Dufour SPECIES
-=======
+# Opegrapha difficilis Dufour SPECIES
 
 #### Status
 ACCEPTED

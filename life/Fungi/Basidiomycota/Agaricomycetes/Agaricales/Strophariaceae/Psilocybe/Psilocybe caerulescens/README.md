@@ -1,17 +1,16 @@
-Psilocybe caerulescens var. caerulescens VARIETY
-=======
+# Psilocybe caerulescens Murrill, 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 15(1): 20 (1923)
 
 #### Original name
-Psilocybe caerulescens var. caerulescens
+Psilocybe caerulescens Murrill, 1923
 
 ### Remarks
 null

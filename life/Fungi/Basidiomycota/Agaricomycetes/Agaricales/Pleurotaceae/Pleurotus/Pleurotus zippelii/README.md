@@ -1,14 +1,13 @@
-Pleurotus zippellii (Lév.) Sacc. SPECIES
-=======
+# Pleurotus zippelii (Lév.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 382 (1887)
 
 #### Original name
 Agaricus zippelii Lév.

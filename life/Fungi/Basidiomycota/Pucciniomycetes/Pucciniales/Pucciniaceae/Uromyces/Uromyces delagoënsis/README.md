@@ -1,5 +1,4 @@
-Uromyces delagoënsis Bubák SPECIES
-=======
+# Uromyces delagoënsis Bubák SPECIES
 
 #### Status
 ACCEPTED

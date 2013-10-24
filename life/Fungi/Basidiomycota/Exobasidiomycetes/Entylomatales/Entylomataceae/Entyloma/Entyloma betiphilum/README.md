@@ -1,5 +1,4 @@
-Entyloma betiphilum Bubák SPECIES
-=======
+# Entyloma betiphilum Bubák SPECIES
 
 #### Status
 ACCEPTED

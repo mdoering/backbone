@@ -1,5 +1,4 @@
-Clathrospora planispora (Ellis) Berl. SPECIES
-=======
+# Clathrospora planispora (Ellis) Berl. SPECIES
 
 #### Status
 ACCEPTED

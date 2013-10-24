@@ -1,5 +1,4 @@
-Hormyllium populi (Preuss) Clem. SPECIES
-=======
+# Hormyllium populi (Preuss) Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia ervi Opiz SPECIES
-=======
+# Puccinia ervi Opiz SPECIES
 
 #### Status
 ACCEPTED

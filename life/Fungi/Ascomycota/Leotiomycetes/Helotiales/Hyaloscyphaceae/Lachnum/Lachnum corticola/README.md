@@ -1,5 +1,4 @@
-Lachnum corticola (Massee) M.P. Sharma SPECIES
-=======
+# Lachnum corticola (Massee) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

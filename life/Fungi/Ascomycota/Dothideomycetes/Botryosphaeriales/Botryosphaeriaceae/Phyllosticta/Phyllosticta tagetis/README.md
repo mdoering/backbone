@@ -1,5 +1,4 @@
-Phyllosticta tagetis Nelen SPECIES
-=======
+# Phyllosticta tagetis Nelen SPECIES
 
 #### Status
 ACCEPTED

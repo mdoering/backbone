@@ -1,5 +1,4 @@
-Peronospora thlaspeos-alpestris Gäum. SPECIES
-=======
+# Peronospora thlaspeos-alpestris Gäum. SPECIES
 
 #### Status
 ACCEPTED

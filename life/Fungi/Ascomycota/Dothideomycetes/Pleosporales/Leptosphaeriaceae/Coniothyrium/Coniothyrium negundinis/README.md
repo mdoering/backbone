@@ -1,5 +1,4 @@
-Coniothyrium negundinis Tehon & E.Y. Daniels SPECIES
-=======
+# Coniothyrium negundinis Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

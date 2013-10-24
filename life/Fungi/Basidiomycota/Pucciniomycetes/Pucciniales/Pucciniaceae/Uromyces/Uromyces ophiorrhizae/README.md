@@ -1,5 +1,4 @@
-Uromyces ophiorrhizae Gäum. SPECIES
-=======
+# Uromyces ophiorrhizae Gäum. SPECIES
 
 #### Status
 ACCEPTED

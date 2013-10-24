@@ -1,5 +1,4 @@
-Phloeosporella von Höhnel, 1924 GENUS
-=======
+# Phloeosporella von Höhnel, 1924 GENUS
 
 #### Status
 ACCEPTED

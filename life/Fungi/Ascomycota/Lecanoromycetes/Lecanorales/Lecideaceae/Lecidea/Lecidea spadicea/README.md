@@ -1,5 +1,4 @@
-Lecidea spadicea Ach. SPECIES
-=======
+# Lecidea spadicea Ach. SPECIES
 
 #### Status
 ACCEPTED

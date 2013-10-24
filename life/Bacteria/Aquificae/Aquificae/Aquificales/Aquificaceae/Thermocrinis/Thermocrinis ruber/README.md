@@ -1,5 +1,4 @@
-Thermocrinis ruber Huber et al., 1999 SPECIES
-=======
+# Thermocrinis ruber Huber et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia austrocapensis Hale SPECIES
-=======
+# Xanthoparmelia austrocapensis Hale SPECIES
 
 #### Status
 ACCEPTED

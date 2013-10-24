@@ -1,5 +1,4 @@
-Stereocaulon sandwicense H. Magn. SPECIES
-=======
+# Stereocaulon sandwicense H. Magn. SPECIES
 
 #### Status
 ACCEPTED

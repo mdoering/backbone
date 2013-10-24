@@ -1,5 +1,4 @@
-Endodothella kanarensis T.S. Ramakr. & Sundaram, 1952 SPECIES
-=======
+# Endodothella kanarensis T.S. Ramakr. & Sundaram, 1952 SPECIES
 
 #### Status
 ACCEPTED

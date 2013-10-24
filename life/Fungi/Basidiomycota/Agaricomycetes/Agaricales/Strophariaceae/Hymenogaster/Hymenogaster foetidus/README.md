@@ -1,5 +1,4 @@
-Hymenogaster foetidus Coker & Couch SPECIES
-=======
+# Hymenogaster foetidus Coker & Couch SPECIES
 
 #### Status
 ACCEPTED

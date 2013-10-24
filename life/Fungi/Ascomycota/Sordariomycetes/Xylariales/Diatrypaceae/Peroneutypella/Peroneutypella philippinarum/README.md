@@ -1,5 +1,4 @@
-Peroneutypella philippinarum anon. SPECIES
-=======
+# Peroneutypella philippinarum anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoceros cinctus Gran SPECIES
-=======
+# Chaetoceros cinctus Gran SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina labrorum Chatton, 1910 SPECIES
-=======
+# Trichodina labrorum Chatton, 1910 SPECIES
 
 #### Status
 ACCEPTED

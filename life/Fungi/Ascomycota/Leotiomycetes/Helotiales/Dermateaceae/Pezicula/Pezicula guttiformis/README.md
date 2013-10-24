@@ -1,5 +1,4 @@
-Pezicula guttiformis Speg. SPECIES
-=======
+# Pezicula guttiformis Speg. SPECIES
 
 #### Status
 ACCEPTED

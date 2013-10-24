@@ -1,5 +1,4 @@
-Colaciaceae FAMILY
-=======
+# Colaciaceae FAMILY
 
 #### Status
 ACCEPTED

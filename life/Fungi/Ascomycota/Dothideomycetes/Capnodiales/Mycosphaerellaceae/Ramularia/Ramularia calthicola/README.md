@@ -1,5 +1,4 @@
-Ramularia calthicola Gonz. Frag. SPECIES
-=======
+# Ramularia calthicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

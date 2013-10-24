@@ -1,5 +1,4 @@
-Stereum quintasianum (Bres. & Roum.) Höhn. & Litsch. SPECIES
-=======
+# Stereum quintasianum (Bres. & Roum.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

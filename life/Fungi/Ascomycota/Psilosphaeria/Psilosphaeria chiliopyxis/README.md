@@ -1,5 +1,4 @@
-Psilosphaeria chiliopyxis (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Psilosphaeria chiliopyxis (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

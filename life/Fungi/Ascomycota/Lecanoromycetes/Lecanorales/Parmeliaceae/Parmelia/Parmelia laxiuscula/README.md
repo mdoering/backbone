@@ -1,5 +1,4 @@
-Parmelia laxiuscula H. Magn. SPECIES
-=======
+# Parmelia laxiuscula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

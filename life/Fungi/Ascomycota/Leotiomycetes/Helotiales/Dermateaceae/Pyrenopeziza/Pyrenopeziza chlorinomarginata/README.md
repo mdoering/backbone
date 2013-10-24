@@ -1,5 +1,4 @@
-Pyrenopeziza chlorinomarginata Kirschst. SPECIES
-=======
+# Pyrenopeziza chlorinomarginata Kirschst. SPECIES
 
 #### Status
 ACCEPTED

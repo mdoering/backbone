@@ -1,5 +1,4 @@
-Septoria alsines Rostr. SPECIES
-=======
+# Septoria alsines Rostr. SPECIES
 
 #### Status
 ACCEPTED

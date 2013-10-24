@@ -1,5 +1,4 @@
-Xylaria stromafera Lloyd SPECIES
-=======
+# Xylaria stromafera Lloyd SPECIES
 
 #### Status
 ACCEPTED

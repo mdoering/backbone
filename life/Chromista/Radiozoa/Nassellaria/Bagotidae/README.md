@@ -1,5 +1,4 @@
-Bagotidae Pessagno & Whalen, 1982 FAMILY
-=======
+# Bagotidae Pessagno & Whalen, 1982 FAMILY
 
 #### Status
 ACCEPTED

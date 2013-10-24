@@ -1,5 +1,4 @@
-Cortinarius melitus (Velen.) Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius melitus (Velen.) Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

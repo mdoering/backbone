@@ -1,5 +1,4 @@
-Leotia conica var. conica Pers. VARIETY
-=======
+# Leotia conica Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leotia conica var. conica Pers.
+Leotia conica Pers.
 
 ### Remarks
 null

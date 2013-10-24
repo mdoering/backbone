@@ -1,5 +1,4 @@
-Rhabdospora phomatoides (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora phomatoides (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

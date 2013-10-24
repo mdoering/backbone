@@ -1,5 +1,4 @@
-Leptosphaeria sparganii (Fautrey) Munk SPECIES
-=======
+# Leptosphaeria sparganii (Fautrey) Munk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Polyporus novo-guineensis Henn., 1889 SPECIES
-=======
+# Diacanthodes novo-guineensis (Henn.) O. Fidalgo, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

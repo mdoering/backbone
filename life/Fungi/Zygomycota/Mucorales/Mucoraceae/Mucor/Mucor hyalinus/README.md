@@ -1,5 +1,4 @@
-Mucor hyalinus Cooke SPECIES
-=======
+# Mucor hyalinus Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stempellia mutabilis L. Léger & E. Hesse SPECIES
-=======
+# Stempellia mutabilis L. Léger & E. Hesse SPECIES
 
 #### Status
 ACCEPTED

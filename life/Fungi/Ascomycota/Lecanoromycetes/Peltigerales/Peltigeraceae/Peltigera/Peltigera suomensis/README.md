@@ -1,5 +1,4 @@
-Peltigera suomensis var. suomensis VARIETY
-=======
+# Peltigera suomensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera suomensis var. suomensis
+Peltigera suomensis Gyeln.
 
 ### Remarks
 null

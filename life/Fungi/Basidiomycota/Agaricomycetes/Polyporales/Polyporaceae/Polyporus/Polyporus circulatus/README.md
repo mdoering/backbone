@@ -1,5 +1,4 @@
-Polyporus circulatus Velen. SPECIES
-=======
+# Polyporus circulatus Velen. SPECIES
 
 #### Status
 ACCEPTED

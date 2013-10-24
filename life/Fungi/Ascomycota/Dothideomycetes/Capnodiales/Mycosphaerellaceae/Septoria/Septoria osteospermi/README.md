@@ -1,5 +1,4 @@
-Septoria osteospermi Dippen. SPECIES
-=======
+# Septoria osteospermi Dippen. SPECIES
 
 #### Status
 ACCEPTED

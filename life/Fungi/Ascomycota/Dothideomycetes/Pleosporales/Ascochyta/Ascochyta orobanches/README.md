@@ -1,5 +1,4 @@
-Ascochyta orobanches Tassi SPECIES
-=======
+# Ascochyta orobanches Tassi SPECIES
 
 #### Status
 ACCEPTED

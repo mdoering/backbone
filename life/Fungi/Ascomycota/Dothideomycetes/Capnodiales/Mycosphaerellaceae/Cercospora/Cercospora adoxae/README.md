@@ -1,5 +1,4 @@
-Cercospora adoxae Roum. SPECIES
-=======
+# Cercospora adoxae Roum. SPECIES
 
 #### Status
 ACCEPTED

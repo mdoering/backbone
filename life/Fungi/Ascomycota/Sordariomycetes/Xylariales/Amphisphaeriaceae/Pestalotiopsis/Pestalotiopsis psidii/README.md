@@ -1,14 +1,13 @@
-Pestalotia psidii Pat., 1895 SPECIES
-=======
+# Pestalotiopsis psidii (Pat.) Mordue, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 11: 232 (1895)
+CMI Descriptions of Pathogenic Fungi and Bacteria 52: no. 515 (1976)
 
 #### Original name
 Pestalotia psidii Pat., 1895

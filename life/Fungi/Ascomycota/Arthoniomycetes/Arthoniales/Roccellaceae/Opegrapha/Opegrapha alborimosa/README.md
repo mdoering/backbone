@@ -1,5 +1,4 @@
-Opegrapha alborimosa var. alborimosa VARIETY
-=======
+# Opegrapha alborimosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha alborimosa var. alborimosa
+Opegrapha alborimosa Zahlbr.
 
 ### Remarks
 null

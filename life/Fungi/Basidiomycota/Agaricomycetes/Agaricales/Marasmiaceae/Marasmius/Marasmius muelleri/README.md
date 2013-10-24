@@ -1,5 +1,4 @@
-Marasmius muelleri Berk. SPECIES
-=======
+# Marasmius muelleri Berk. SPECIES
 
 #### Status
 ACCEPTED

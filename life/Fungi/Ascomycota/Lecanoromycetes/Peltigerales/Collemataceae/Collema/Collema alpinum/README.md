@@ -1,5 +1,4 @@
-Collema alpinum Th. Fr. SPECIES
-=======
+# Collema alpinum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

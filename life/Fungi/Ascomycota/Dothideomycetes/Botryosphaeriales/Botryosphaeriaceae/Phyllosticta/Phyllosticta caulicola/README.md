@@ -1,5 +1,4 @@
-Phyllosticta caulicola Pat. SPECIES
-=======
+# Phyllosticta caulicola Pat. SPECIES
 
 #### Status
 ACCEPTED

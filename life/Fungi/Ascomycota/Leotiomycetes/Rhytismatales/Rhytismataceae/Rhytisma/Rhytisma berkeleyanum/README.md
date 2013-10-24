@@ -1,5 +1,4 @@
-Rhytisma berkeleyanum Ces. SPECIES
-=======
+# Rhytisma berkeleyanum Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentomita hirsutula Bres. SPECIES
-=======
+# Lentomita hirsutula Bres. SPECIES
 
 #### Status
 ACCEPTED

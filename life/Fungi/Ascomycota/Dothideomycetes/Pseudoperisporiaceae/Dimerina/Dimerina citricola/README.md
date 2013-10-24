@@ -1,5 +1,4 @@
-Dimerina citricola Sawada & W. Yamam. SPECIES
-=======
+# Dimerina citricola Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium obtusatum Corda SPECIES
-=======
+# Fusarium obtusatum Corda SPECIES
 
 #### Status
 ACCEPTED

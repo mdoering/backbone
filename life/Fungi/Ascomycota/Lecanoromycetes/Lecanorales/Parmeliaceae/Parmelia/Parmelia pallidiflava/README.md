@@ -1,5 +1,4 @@
-Parmelia pallidiflava Spreng. SPECIES
-=======
+# Parmelia pallidiflava Spreng. SPECIES
 
 #### Status
 ACCEPTED

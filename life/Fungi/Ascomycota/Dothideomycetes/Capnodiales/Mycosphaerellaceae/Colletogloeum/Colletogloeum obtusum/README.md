@@ -1,5 +1,4 @@
-Colletogloeum obtusum B. Sutton SPECIES
-=======
+# Colletogloeum obtusum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

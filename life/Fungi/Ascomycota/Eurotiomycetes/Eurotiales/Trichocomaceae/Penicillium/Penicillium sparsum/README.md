@@ -1,5 +1,4 @@
-Penicillium sparsum Grev. SPECIES
-=======
+# Penicillium sparsum Grev. SPECIES
 
 #### Status
 ACCEPTED

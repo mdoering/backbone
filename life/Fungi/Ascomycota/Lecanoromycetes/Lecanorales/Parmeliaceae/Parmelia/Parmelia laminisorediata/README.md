@@ -1,5 +1,4 @@
-Parmelia laminisorediata (D. Hawksw. & Poelt) Werner SPECIES
-=======
+# Parmelia laminisorediata (D. Hawksw. & Poelt) Werner SPECIES
 
 #### Status
 ACCEPTED

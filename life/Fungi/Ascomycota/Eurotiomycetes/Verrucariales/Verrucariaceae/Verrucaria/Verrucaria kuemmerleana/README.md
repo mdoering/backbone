@@ -1,5 +1,4 @@
-Verrucaria kuemmerleana Servít SPECIES
-=======
+# Verrucaria kuemmerleana Servít SPECIES
 
 #### Status
 ACCEPTED

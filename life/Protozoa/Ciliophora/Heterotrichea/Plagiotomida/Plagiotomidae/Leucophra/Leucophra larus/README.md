@@ -1,5 +1,4 @@
-Leucophra larus Müller, 1786 SPECIES
-=======
+# Leucophra larus Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

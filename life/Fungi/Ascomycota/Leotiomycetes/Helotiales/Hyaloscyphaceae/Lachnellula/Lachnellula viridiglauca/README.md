@@ -1,5 +1,4 @@
-Lachnellula viridiglauca L.M. Kohn SPECIES
-=======
+# Lachnellula viridiglauca L.M. Kohn SPECIES
 
 #### Status
 ACCEPTED

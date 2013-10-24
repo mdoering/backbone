@@ -1,14 +1,13 @@
-Polyporus hostmannii Berk., 1842 SPECIES
-=======
+# Coriolopsis hostmannii (Berk.) Ryvarden, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 1(3): 139 (1842)
+Syn. Fung. (Oslo) 23: 39 (2007)
 
 #### Original name
 Polyporus hostmannii Berk., 1842

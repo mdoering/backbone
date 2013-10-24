@@ -1,5 +1,4 @@
-Boletus atkinsonii Peck SPECIES
-=======
+# Boletus atkinsonii Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomyces somaliensis (Brumpt) Brumpt SPECIES
-=======
+# Actinomyces somaliensis (Brumpt) Brumpt SPECIES
 
 #### Status
 ACCEPTED

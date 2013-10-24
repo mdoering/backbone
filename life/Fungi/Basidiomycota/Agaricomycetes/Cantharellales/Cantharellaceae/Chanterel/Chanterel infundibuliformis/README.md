@@ -1,5 +1,4 @@
-Chanterel infundibuliformis (Bull.) Murrill SPECIES
-=======
+# Chanterel infundibuliformis (Bull.) Murrill SPECIES
 
 #### Status
 ACCEPTED

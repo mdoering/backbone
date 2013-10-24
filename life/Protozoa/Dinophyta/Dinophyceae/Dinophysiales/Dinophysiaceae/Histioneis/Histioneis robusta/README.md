@@ -1,5 +1,4 @@
-Histioneis robusta Rampi SPECIES
-=======
+# Histioneis robusta Rampi SPECIES
 
 #### Status
 ACCEPTED

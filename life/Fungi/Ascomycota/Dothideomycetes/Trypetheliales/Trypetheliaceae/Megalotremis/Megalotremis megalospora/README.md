@@ -1,14 +1,13 @@
-Anisomeridium megalosporum (Vain.) R.C. Harris SPECIES
-=======
+# Megalotremis megalospora (Vain.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 148 (1995)
+Nova Hedwigia 60(3-4): 338 (1995)
 
 #### Original name
 Didymosphaeria megalospora Vain.

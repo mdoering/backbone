@@ -1,5 +1,4 @@
-Helotium praecox Velen. SPECIES
-=======
+# Helotium praecox Velen. SPECIES
 
 #### Status
 ACCEPTED

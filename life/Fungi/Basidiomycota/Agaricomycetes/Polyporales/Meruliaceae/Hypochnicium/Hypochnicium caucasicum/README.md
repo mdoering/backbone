@@ -1,5 +1,4 @@
-Hypochnicium caucasicum Parmasto, 1967 SPECIES
-=======
+# Hypochnicium caucasicum Parmasto, 1967 SPECIES
 
 #### Status
 ACCEPTED

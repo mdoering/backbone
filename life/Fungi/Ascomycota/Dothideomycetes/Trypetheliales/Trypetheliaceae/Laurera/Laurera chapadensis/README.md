@@ -1,5 +1,4 @@
-Laurera chapadensis Malme SPECIES
-=======
+# Laurera chapadensis Malme SPECIES
 
 #### Status
 ACCEPTED

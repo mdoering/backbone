@@ -1,5 +1,4 @@
-Lorettaoides McCulloch, 1977 GENUS
-=======
+# Lorettaoides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

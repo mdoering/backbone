@@ -1,5 +1,4 @@
-Ustilago pseudohieronymi Zundel SPECIES
-=======
+# Ustilago pseudohieronymi Zundel SPECIES
 
 #### Status
 ACCEPTED

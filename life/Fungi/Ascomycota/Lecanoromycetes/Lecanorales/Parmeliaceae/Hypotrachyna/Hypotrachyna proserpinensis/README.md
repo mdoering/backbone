@@ -1,5 +1,4 @@
-Hypotrachyna proserpinensis Elix SPECIES
-=======
+# Hypotrachyna proserpinensis Elix SPECIES
 
 #### Status
 ACCEPTED

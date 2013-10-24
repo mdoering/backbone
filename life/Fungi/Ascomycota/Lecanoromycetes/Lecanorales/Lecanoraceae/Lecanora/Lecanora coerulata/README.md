@@ -1,5 +1,4 @@
-Lecanora coerulata (Ach.) Röhl. SPECIES
-=======
+# Lecanora coerulata (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

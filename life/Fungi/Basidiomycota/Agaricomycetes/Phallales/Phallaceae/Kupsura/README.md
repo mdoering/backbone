@@ -1,5 +1,4 @@
-Kupsura GENUS
-=======
+# Kupsura GENUS
 
 #### Status
 ACCEPTED

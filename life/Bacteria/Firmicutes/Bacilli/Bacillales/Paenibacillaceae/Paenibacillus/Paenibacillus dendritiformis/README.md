@@ -1,5 +1,4 @@
-Paenibacillus dendritiformis Tcherpakov et al., 1999 SPECIES
-=======
+# Paenibacillus dendritiformis Tcherpakov et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

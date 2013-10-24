@@ -1,5 +1,4 @@
-Phaeophyscia leana (Tuck.) Essl. SPECIES
-=======
+# Phaeophyscia leana (Tuck.) Essl. SPECIES
 
 #### Status
 ACCEPTED

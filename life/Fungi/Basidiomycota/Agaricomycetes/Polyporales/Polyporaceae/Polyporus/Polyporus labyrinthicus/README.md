@@ -1,5 +1,4 @@
-Polyporus labyrinthicus Schwein. SPECIES
-=======
+# Polyporus labyrinthicus Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subrigens Kauffman SPECIES
-=======
+# Cortinarius subrigens Kauffman SPECIES
 
 #### Status
 ACCEPTED

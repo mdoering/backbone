@@ -1,5 +1,4 @@
-Helicolithus turonicus SPECIES
-=======
+# Helicolithus turonicus SPECIES
 
 #### Status
 ACCEPTED

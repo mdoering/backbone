@@ -1,5 +1,4 @@
-Rhodocybe umbrosa T.J. Baroni & Halling SPECIES
-=======
+# Rhodocybe umbrosa T.J. Baroni & Halling SPECIES
 
 #### Status
 ACCEPTED

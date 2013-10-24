@@ -1,14 +1,13 @@
-Verticicladiella brachiata W.B. Kendr., 1962 SPECIES
-=======
+# Leptographium brachiatum (W.B. Kendr.) M.J. Wingf., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 40: 786 (1962)
+Trans. Br. mycol. Soc. 85(1): 92 (1985)
 
 #### Original name
 Verticicladiella brachiata W.B. Kendr., 1962

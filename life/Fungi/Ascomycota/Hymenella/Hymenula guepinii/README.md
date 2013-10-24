@@ -1,8 +1,7 @@
-Hymenula guepini Mont. SPECIES
-=======
+# Hymenula guepinii Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenula guepini Mont.
+Hymenula guepinii Mont.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerocarpa operculata Schumach. SPECIES
-=======
+# Sphaerocarpa operculata Schumach. SPECIES
 
 #### Status
 ACCEPTED

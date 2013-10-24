@@ -1,5 +1,4 @@
-Lecidea microsperma Nyl. SPECIES
-=======
+# Lecidea microsperma Nyl. SPECIES
 
 #### Status
 ACCEPTED

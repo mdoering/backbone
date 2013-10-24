@@ -1,5 +1,4 @@
-Coniophora papillosa P.H.B. Talbot SPECIES
-=======
+# Coniophora papillosa P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

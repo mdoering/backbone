@@ -1,5 +1,4 @@
-Gassicurtia acidobaeomyceta Marbach SPECIES
-=======
+# Gassicurtia acidobaeomyceta Marbach SPECIES
 
 #### Status
 ACCEPTED

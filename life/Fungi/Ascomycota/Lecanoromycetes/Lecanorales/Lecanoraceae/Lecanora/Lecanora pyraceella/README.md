@@ -1,5 +1,4 @@
-Lecanora pyraceella Nyl. SPECIES
-=======
+# Lecanora pyraceella Nyl. SPECIES
 
 #### Status
 ACCEPTED

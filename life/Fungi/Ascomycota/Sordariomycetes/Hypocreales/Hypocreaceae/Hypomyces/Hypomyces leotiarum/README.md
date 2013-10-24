@@ -1,5 +1,4 @@
-Hypomyces leotiarum Fayod SPECIES
-=======
+# Hypomyces leotiarum Fayod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormodendrum japonicum Takah. SPECIES
-=======
+# Hormodendrum japonicum Takah. SPECIES
 
 #### Status
 ACCEPTED

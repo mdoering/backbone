@@ -1,5 +1,4 @@
-Melanconidium fennicum (P. Karst.) Kuntze SPECIES
-=======
+# Melanconidium fennicum (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

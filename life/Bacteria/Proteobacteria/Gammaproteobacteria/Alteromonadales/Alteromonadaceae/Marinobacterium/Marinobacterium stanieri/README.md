@@ -1,8 +1,7 @@
-Pseudomonas stanieri Baumann et al., 1983 SPECIES
-=======
+# Marinobacterium stanieri (Baumann et al., 1983) Satomi et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

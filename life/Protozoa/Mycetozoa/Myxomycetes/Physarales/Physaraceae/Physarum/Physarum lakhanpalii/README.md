@@ -1,5 +1,4 @@
-Physarum lakhanpalii Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Physarum lakhanpalii Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

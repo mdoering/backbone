@@ -1,5 +1,4 @@
-Ditremis monospora Makhija & Patw. SPECIES
-=======
+# Ditremis monospora Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

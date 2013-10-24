@@ -1,14 +1,13 @@
-Chaetopsis macroclada Sacc., 1877 SPECIES
-=======
+# Gonytrichum macrocladum (Sacc.) S. Hughes, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 34: 565 (1951)
 
 #### Original name
 Chaetopsis macroclada Sacc., 1877

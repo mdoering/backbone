@@ -1,5 +1,4 @@
-Xylaria laurentii Henn. SPECIES
-=======
+# Xylaria laurentii Henn. SPECIES
 
 #### Status
 ACCEPTED

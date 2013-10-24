@@ -1,5 +1,4 @@
-Psathyrella melleipallida A.H. Sm. SPECIES
-=======
+# Psathyrella melleipallida A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

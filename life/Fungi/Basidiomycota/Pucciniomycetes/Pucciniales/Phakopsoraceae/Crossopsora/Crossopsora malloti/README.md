@@ -1,5 +1,4 @@
-Crossopsora malloti (Racib.) Cummins SPECIES
-=======
+# Crossopsora malloti (Racib.) Cummins SPECIES
 
 #### Status
 ACCEPTED

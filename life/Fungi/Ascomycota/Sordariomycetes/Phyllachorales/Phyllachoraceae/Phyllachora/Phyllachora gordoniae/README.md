@@ -1,5 +1,4 @@
-Phyllachora gordoniae Hosag., 1986 SPECIES
-=======
+# Phyllachora gordoniae Hosag., 1986 SPECIES
 
 #### Status
 ACCEPTED

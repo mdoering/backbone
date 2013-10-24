@@ -1,8 +1,7 @@
-Gigartina rugulosa (Bory de Saint-Vincent) Bory de Saint-Vincent SPECIES
-=======
+# Stereocladon rugulosus (Bory de Saint-Vincent) Hariot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

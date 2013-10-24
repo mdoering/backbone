@@ -1,5 +1,4 @@
-Quinqueloculina semireticulosa SPECIES
-=======
+# Quinqueloculina semireticulosa SPECIES
 
 #### Status
 ACCEPTED

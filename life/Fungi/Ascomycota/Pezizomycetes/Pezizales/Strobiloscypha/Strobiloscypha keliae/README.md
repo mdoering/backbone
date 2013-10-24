@@ -1,5 +1,4 @@
-Strobiloscypha keliae N.S. Weber & Denison, 1995 SPECIES
-=======
+# Strobiloscypha keliae N.S. Weber & Denison, 1995 SPECIES
 
 #### Status
 ACCEPTED

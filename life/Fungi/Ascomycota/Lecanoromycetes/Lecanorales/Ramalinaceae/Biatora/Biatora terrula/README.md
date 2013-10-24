@@ -1,5 +1,4 @@
-Biatora terrula Hult. SPECIES
-=======
+# Biatora terrula Hult. SPECIES
 
 #### Status
 ACCEPTED

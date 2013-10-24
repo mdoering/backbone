@@ -1,5 +1,4 @@
-Sphaeroidinellopsis seminulina Kochi SPECIES
-=======
+# Sphaeroidinellopsis seminulina Kochi SPECIES
 
 #### Status
 ACCEPTED

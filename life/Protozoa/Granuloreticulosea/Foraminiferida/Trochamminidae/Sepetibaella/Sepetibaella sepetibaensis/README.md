@@ -1,5 +1,4 @@
-Sepetibaella sepetibaensis Broennimann & Dias-Brito, 1982 SPECIES
-=======
+# Sepetibaella sepetibaensis Broennimann & Dias-Brito, 1982 SPECIES
 
 #### Status
 ACCEPTED

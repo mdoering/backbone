@@ -1,5 +1,4 @@
-Gymnodinium nolleri M. Ellegaard & Ø. Moestrup SPECIES
-=======
+# Gymnodinium nolleri M. Ellegaard & Ø. Moestrup SPECIES
 
 #### Status
 ACCEPTED

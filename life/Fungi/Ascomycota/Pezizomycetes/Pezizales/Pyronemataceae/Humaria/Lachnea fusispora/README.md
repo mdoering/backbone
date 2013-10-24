@@ -1,5 +1,4 @@
-Lachnea fusispora Höhn. SPECIES
-=======
+# Lachnea fusispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

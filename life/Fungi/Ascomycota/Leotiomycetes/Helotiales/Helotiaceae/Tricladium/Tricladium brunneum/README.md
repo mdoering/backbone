@@ -1,14 +1,13 @@
-Tricladiospora brunnea (Nawawi) Nawawi & Kuthub., 1988 SPECIES
-=======
+# Tricladium brunneum Nawawi, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 90(3): 487 (1988)
+Trans. Br. mycol. Soc. 63(2): 267 (1974)
 
 #### Original name
 Tricladium brunneum Nawawi, 1974

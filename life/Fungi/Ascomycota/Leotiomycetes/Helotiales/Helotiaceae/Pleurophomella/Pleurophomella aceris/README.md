@@ -1,5 +1,4 @@
-Pleurophomella aceris Höhn. SPECIES
-=======
+# Pleurophomella aceris Höhn. SPECIES
 
 #### Status
 ACCEPTED

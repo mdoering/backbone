@@ -1,5 +1,4 @@
-Aecidium gomphocarpi Cummins SPECIES
-=======
+# Aecidium gomphocarpi Cummins SPECIES
 
 #### Status
 ACCEPTED

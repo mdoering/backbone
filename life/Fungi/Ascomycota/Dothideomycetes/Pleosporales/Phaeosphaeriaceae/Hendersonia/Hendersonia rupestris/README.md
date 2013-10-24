@@ -1,5 +1,4 @@
-Hendersonia rupestris Sacc. & Speg. SPECIES
-=======
+# Hendersonia rupestris Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

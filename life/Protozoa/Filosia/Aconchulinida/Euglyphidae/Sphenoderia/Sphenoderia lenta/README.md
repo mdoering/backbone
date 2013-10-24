@@ -1,5 +1,4 @@
-Sphenoderia lenta Schlumberger SPECIES
-=======
+# Sphenoderia lenta Schlumberger SPECIES
 
 #### Status
 ACCEPTED

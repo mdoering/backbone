@@ -1,5 +1,4 @@
-Sirobasidium sanguineum Lagerh. & Pat., 1892 SPECIES
-=======
+# Sirobasidium sanguineum Lagerh. & Pat., 1892 SPECIES
 
 #### Status
 ACCEPTED

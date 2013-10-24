@@ -1,5 +1,4 @@
-Discoaster brouweri SPECIES
-=======
+# Discoaster brouweri SPECIES
 
 #### Status
 ACCEPTED

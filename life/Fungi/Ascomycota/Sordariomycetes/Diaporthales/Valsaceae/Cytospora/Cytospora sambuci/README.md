@@ -1,5 +1,4 @@
-Cytospora sambuci Died., 1906 SPECIES
-=======
+# Cytospora sambuci Died., 1906 SPECIES
 
 #### Status
 ACCEPTED

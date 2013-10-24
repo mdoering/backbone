@@ -1,5 +1,4 @@
-Volvariopsis griseiceps Murrill SPECIES
-=======
+# Volvariopsis griseiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

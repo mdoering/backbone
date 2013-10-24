@@ -1,5 +1,4 @@
-Hymenochaete subfuliginosa Bourdot & Galzin SPECIES
-=======
+# Hymenochaete subfuliginosa Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

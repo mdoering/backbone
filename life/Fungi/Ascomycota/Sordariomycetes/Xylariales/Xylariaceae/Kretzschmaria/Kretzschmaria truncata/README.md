@@ -1,5 +1,4 @@
-Kretzschmaria truncata Pat. & Gaillard SPECIES
-=======
+# Kretzschmaria truncata Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

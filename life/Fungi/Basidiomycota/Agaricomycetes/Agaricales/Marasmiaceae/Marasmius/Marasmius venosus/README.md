@@ -1,5 +1,4 @@
-Marasmius venosus Henn. & E. Nyman SPECIES
-=======
+# Marasmius venosus Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

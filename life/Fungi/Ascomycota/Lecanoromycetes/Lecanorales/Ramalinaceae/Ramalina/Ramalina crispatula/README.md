@@ -1,5 +1,4 @@
-Ramalina crispatula Nyl. SPECIES
-=======
+# Ramalina crispatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

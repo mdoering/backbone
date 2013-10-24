@@ -1,5 +1,4 @@
-Exidia tuberculata P. Karst. SPECIES
-=======
+# Exidia tuberculata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

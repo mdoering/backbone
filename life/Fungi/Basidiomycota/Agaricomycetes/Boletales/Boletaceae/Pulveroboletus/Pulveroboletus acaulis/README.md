@@ -1,5 +1,4 @@
-Pulveroboletus acaulis Pegler SPECIES
-=======
+# Pulveroboletus acaulis Pegler SPECIES
 
 #### Status
 ACCEPTED

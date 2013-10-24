@@ -1,5 +1,4 @@
-Ceeveesubramaniomyces Pratibha, K.D. Hyde & Bhat GENUS
-=======
+# Ceeveesubramaniomyces Pratibha, K.D. Hyde & Bhat GENUS
 
 #### Status
 ACCEPTED

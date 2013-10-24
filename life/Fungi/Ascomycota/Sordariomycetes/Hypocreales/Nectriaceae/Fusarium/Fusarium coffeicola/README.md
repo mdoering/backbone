@@ -1,5 +1,4 @@
-Fusarium coffeicola Henn. SPECIES
-=======
+# Fusarium coffeicola Henn. SPECIES
 
 #### Status
 ACCEPTED

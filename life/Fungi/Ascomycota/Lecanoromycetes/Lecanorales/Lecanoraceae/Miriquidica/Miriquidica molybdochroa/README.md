@@ -1,5 +1,4 @@
-Miriquidica molybdochroa (Hertel) Hertel & Rambold SPECIES
-=======
+# Miriquidica molybdochroa (Hertel) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

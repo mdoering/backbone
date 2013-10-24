@@ -1,5 +1,4 @@
-Tomenticola Deighton GENUS
-=======
+# Tomenticola Deighton GENUS
 
 #### Status
 ACCEPTED

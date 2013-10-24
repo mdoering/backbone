@@ -1,14 +1,13 @@
-Belonidium soleniiformis (Ellis & Everh.) Raitv. SPECIES
-=======
+# Belonidium soleniiforme (Ellis & Everh.) Raitv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 50 (1970)
 
 #### Original name
 Peziza soleniiforme Ellis & Everh.

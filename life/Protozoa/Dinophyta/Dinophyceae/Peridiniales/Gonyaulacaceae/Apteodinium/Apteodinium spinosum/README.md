@@ -1,5 +1,4 @@
-Apteodinium spinosum K. P. Jain & P. Millepied SPECIES
-=======
+# Apteodinium spinosum K. P. Jain & P. Millepied SPECIES
 
 #### Status
 ACCEPTED

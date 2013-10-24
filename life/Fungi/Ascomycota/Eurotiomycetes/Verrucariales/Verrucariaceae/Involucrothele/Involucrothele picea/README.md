@@ -1,5 +1,4 @@
-Involucrothele picea (Zschacke) Servít SPECIES
-=======
+# Involucrothele picea (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

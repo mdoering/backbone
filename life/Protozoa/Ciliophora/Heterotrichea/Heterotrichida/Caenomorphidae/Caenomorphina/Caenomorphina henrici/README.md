@@ -1,8 +1,7 @@
-Caenomorphina heinrici Blochmann, 1894 SPECIES
-=======
+# Caenomorphina henrici Blochmann, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

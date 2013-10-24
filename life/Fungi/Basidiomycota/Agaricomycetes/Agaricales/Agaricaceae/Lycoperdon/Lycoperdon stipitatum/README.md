@@ -1,5 +1,4 @@
-Lycoperdon stipitatum Retzd. {?} SPECIES
-=======
+# Lycoperdon stipitatum Retzd. {?} SPECIES
 
 #### Status
 ACCEPTED

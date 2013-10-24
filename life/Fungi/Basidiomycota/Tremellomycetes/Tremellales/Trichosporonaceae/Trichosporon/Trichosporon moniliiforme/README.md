@@ -1,5 +1,4 @@
-Trichosporon moniliiforme (Weigmann & A. Wolff) E. Guého & M.T. Sm. SPECIES
-=======
+# Trichosporon moniliiforme (Weigmann & A. Wolff) E. Guého & M.T. Sm. SPECIES
 
 #### Status
 ACCEPTED

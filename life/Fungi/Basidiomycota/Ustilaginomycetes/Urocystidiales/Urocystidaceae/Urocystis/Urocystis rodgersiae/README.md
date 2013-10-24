@@ -1,5 +1,4 @@
-Urocystis rodgersiae (Miyabe ex S. Ito) Zundel SPECIES
-=======
+# Urocystis rodgersiae (Miyabe ex S. Ito) Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus miscanthi Sivan. & W.H. Hsieh SPECIES
-=======
+# Ophiobolus miscanthi Sivan. & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

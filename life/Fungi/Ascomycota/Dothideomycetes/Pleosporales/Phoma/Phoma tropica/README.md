@@ -1,5 +1,4 @@
-Phoma tropica R. Schneid. & Boerema, 1975 SPECIES
-=======
+# Phoma tropica R. Schneid. & Boerema, 1975 SPECIES
 
 #### Status
 ACCEPTED

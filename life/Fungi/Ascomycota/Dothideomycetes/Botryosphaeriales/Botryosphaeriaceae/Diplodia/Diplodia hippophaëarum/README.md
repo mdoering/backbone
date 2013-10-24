@@ -1,5 +1,4 @@
-Diplodia hippophaëarum Bres. SPECIES
-=======
+# Diplodia hippophaëarum Bres. SPECIES
 
 #### Status
 ACCEPTED

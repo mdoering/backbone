@@ -1,5 +1,4 @@
-Meliola spartinae (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Meliola spartinae (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

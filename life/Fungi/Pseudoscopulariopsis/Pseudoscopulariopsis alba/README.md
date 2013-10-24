@@ -1,5 +1,4 @@
-Pseudoscopulariopsis alba G. Sm. SPECIES
-=======
+# Pseudoscopulariopsis alba G. Sm. SPECIES
 
 #### Status
 ACCEPTED

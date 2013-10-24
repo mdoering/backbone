@@ -1,5 +1,4 @@
-Flexibacteraceae FAMILY
-=======
+# Flexibacteraceae FAMILY
 
 #### Status
 ACCEPTED

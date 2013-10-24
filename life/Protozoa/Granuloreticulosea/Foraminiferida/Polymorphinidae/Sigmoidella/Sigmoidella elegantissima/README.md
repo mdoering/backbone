@@ -1,5 +1,4 @@
-Sigmoidella elegantissima (Parker & Jones) SPECIES
-=======
+# Sigmoidella elegantissima (Parker & Jones) SPECIES
 
 #### Status
 ACCEPTED

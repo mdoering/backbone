@@ -1,5 +1,4 @@
-Textularia truncata Höglund, 1947 SPECIES
-=======
+# Textularia truncata Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

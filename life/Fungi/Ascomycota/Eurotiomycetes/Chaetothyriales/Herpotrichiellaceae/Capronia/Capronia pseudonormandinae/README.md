@@ -1,5 +1,4 @@
-Capronia pseudonormandinae Diederich SPECIES
-=======
+# Capronia pseudonormandinae Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula coccinea Corda SPECIES
-=======
+# Torula coccinea Corda SPECIES
 
 #### Status
 ACCEPTED

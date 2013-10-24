@@ -1,5 +1,4 @@
-Gymnoglossum foetidum (Coker & Couch) Zeller SPECIES
-=======
+# Gymnoglossum foetidum (Coker & Couch) Zeller SPECIES
 
 #### Status
 ACCEPTED

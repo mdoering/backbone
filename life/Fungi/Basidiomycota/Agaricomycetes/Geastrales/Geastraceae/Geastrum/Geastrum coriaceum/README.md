@@ -1,17 +1,16 @@
-Geaster coriaceum Colenso SPECIES
-=======
+# Geastrum coriaceum Colenso SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. & Proc. New Zealand Inst. 22: 451 (1890)
 
 #### Original name
-Geaster coriaceum Colenso
+Geastrum coriaceum Colenso
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cerataulina Peragallo GENUS
-=======
+# Cerataulina Peragallo GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia eatonae Murrill SPECIES
-=======
+# Collybia eatonae Murrill SPECIES
 
 #### Status
 ACCEPTED

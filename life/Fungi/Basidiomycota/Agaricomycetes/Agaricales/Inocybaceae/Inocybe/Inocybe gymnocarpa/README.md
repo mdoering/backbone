@@ -1,5 +1,4 @@
-Inocybe gymnocarpa Kühner SPECIES
-=======
+# Inocybe gymnocarpa Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphiplatysporidae FAMILY
-=======
+# Amphiplatysporidae FAMILY
 
 #### Status
 ACCEPTED

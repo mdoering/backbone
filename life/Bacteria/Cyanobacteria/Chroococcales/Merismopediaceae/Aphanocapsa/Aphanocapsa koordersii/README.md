@@ -1,5 +1,4 @@
-Aphanocapsa koordersii Strøm SPECIES
-=======
+# Aphanocapsa koordersii Strøm SPECIES
 
 #### Status
 ACCEPTED

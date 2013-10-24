@@ -1,5 +1,4 @@
-Trichobelonium albosuccineum Rehm SPECIES
-=======
+# Trichobelonium albosuccineum Rehm SPECIES
 
 #### Status
 ACCEPTED

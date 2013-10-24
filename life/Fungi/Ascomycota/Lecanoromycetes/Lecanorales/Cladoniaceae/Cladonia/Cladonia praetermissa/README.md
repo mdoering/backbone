@@ -1,17 +1,16 @@
-Cladonia praetermissa var. modesta (Ahti & Krog) Kantvilas & A.W. Archer VARIETY
-=======
+# Cladonia praetermissa A. W. Archer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kantvilas, Nordic Jl Bot. 11(3): 369 (1991)
+null
 
 #### Original name
-Cladonia modesta Ahti & Krog
+null
 
 ### Remarks
 null

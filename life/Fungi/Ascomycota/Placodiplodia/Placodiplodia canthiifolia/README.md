@@ -1,5 +1,4 @@
-Placodiplodia canthiifolia (Cooke & Massee) P.K. Buchanan SPECIES
-=======
+# Placodiplodia canthiifolia (Cooke & Massee) P.K. Buchanan SPECIES
 
 #### Status
 ACCEPTED

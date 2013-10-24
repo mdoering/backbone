@@ -1,5 +1,4 @@
-Rhizophlyctis bonseyii Sparrow SPECIES
-=======
+# Rhizophlyctis bonseyii Sparrow SPECIES
 
 #### Status
 ACCEPTED

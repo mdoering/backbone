@@ -1,5 +1,4 @@
-Adarve diafanum Fombella Blanco, 1977 SPECIES
-=======
+# Adarve diafanum Fombella Blanco, 1977 SPECIES
 
 #### Status
 ACCEPTED

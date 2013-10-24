@@ -1,5 +1,4 @@
-Acidobacteria Cavalier-Smith, 2002 CLASS
-=======
+# Acidobacteria Cavalier-Smith, 2002 CLASS
 
 #### Status
 ACCEPTED

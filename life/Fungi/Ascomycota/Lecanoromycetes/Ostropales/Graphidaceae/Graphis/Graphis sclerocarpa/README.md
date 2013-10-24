@@ -1,5 +1,4 @@
-Graphis sclerocarpa Meyen & Flot. SPECIES
-=======
+# Graphis sclerocarpa Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

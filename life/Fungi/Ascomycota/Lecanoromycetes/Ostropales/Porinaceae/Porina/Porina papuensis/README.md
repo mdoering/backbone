@@ -1,5 +1,4 @@
-Porina papuensis P.M. McCarthy SPECIES
-=======
+# Porina papuensis P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

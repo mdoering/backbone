@@ -1,5 +1,4 @@
-Pseudocyphellaria rufovirescens (C. Bab.) D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria rufovirescens (C. Bab.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

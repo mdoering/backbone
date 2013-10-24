@@ -1,5 +1,4 @@
-Verrucaria guestphalica Servít SPECIES
-=======
+# Verrucaria guestphalica Servít SPECIES
 
 #### Status
 ACCEPTED

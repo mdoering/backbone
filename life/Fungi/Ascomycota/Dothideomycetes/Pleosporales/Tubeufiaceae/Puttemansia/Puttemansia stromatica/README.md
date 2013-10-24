@@ -1,5 +1,4 @@
-Puttemansia stromatica (Cooke) Rossman SPECIES
-=======
+# Puttemansia stromatica (Cooke) Rossman SPECIES
 
 #### Status
 ACCEPTED

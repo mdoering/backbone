@@ -1,5 +1,4 @@
-Psathyrella microsperma (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella microsperma (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

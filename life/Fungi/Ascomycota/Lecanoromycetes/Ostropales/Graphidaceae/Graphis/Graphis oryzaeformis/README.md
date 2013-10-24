@@ -1,5 +1,4 @@
-Graphis oryzaeformis Fée SPECIES
-=======
+# Graphis oryzaeformis Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Neurospora pseudoreticulata (Matsush.) Dania García, Stchigel & Guarro, 2004 SPECIES
-=======
+# Gelasinospora pseudoreticulata Matsush., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in García, Stchigel, Cano, Guarro & Hawksworth, Mycol. Res. 108(10): 1132 (2004)
+Microfungi of the Solomon Islands and Papua-New Guinea (Osaka) 73 (1971)
 
 #### Original name
 Gelasinospora pseudoreticulata Matsush., 1971

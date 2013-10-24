@@ -1,5 +1,4 @@
-Leptostroma hypodermoides Sacc. SPECIES
-=======
+# Leptostroma hypodermoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

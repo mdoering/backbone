@@ -1,5 +1,4 @@
-Coniothyrium epiphyllum Linds. SPECIES
-=======
+# Coniothyrium epiphyllum Linds. SPECIES
 
 #### Status
 ACCEPTED

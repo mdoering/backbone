@@ -1,5 +1,4 @@
-Mycovellosiella costeroana (Petr. & Cif.) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Mycovellosiella costeroana (Petr. & Cif.) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

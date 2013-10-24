@@ -1,5 +1,4 @@
-Didymella ricini f. ricini FORM
-=======
+# Didymella ricini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. 47: 421 (1895)
 
 #### Original name
-Didymella ricini f. ricini
+Didymella ricini Ellis & Everh.
 
 ### Remarks
 null

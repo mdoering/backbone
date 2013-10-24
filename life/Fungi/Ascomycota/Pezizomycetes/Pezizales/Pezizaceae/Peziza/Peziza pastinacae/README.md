@@ -1,5 +1,4 @@
-Peziza pastinacae Schwein. SPECIES
-=======
+# Peziza pastinacae Schwein. SPECIES
 
 #### Status
 ACCEPTED

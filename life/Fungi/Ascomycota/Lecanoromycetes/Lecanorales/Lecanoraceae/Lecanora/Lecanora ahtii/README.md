@@ -1,5 +1,4 @@
-Lecanora ahtii Vänskä SPECIES
-=======
+# Lecanora ahtii Vänskä SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya bipunctata Lemmermann SPECIES
-=======
+# Lyngbya bipunctata Lemmermann SPECIES
 
 #### Status
 ACCEPTED

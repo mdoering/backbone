@@ -1,5 +1,4 @@
-Navicella tingens (Schwein.) Kuntze SPECIES
-=======
+# Navicella tingens (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

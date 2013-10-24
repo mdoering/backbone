@@ -1,5 +1,4 @@
-Cerataulina dentata Hasle SPECIES
-=======
+# Cerataulina dentata Hasle SPECIES
 
 #### Status
 ACCEPTED

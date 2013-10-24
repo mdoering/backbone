@@ -1,14 +1,13 @@
-Favolaschia pezizodea (Berk. & M.A. Curtis) Kuntze, 1898 SPECIES
-=======
+# Favolaschia pezizoidea (Berk. & M.A. Curtis) Pat., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 476 (1898)
+Bull. Soc. mycol. Fr. 8: 116 (1892)
 
 #### Original name
 null

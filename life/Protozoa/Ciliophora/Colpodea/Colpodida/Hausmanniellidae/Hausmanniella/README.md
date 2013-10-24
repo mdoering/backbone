@@ -1,5 +1,4 @@
-Hausmanniella Foissner, 1984 GENUS
-=======
+# Hausmanniella Foissner, 1984 GENUS
 
 #### Status
 ACCEPTED

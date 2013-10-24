@@ -1,5 +1,4 @@
-Colletotrichum lujae Verpl. & Clem. SPECIES
-=======
+# Colletotrichum lujae Verpl. & Clem. SPECIES
 
 #### Status
 ACCEPTED

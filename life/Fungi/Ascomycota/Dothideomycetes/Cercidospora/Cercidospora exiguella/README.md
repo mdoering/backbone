@@ -1,5 +1,4 @@
-Cercidospora exiguella (Nyl.) Arnold SPECIES
-=======
+# Cercidospora exiguella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

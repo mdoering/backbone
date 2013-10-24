@@ -1,5 +1,4 @@
-Palaeoclavaria burmitis Poinar & A.E. Br. SPECIES
-=======
+# Palaeoclavaria burmitis Poinar & A.E. Br. SPECIES
 
 #### Status
 ACCEPTED

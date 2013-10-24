@@ -1,5 +1,4 @@
-Solisphaeridium rossignoli Glikson in Horowitz, 1973 SPECIES
-=======
+# Solisphaeridium rossignoli Glikson in Horowitz, 1973 SPECIES
 
 #### Status
 ACCEPTED

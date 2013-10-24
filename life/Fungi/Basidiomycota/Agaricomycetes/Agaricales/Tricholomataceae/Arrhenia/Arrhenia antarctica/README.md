@@ -1,5 +1,4 @@
-Arrhenia antarctica (Singer) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia antarctica (Singer) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

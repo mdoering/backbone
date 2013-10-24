@@ -1,5 +1,4 @@
-Meliola armata Speg. SPECIES
-=======
+# Meliola armata Speg. SPECIES
 
 #### Status
 ACCEPTED

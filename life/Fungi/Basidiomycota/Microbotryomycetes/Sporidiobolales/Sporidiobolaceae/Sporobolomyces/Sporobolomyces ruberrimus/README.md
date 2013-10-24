@@ -1,5 +1,4 @@
-Sporobolomyces ruberrimus var. ruberrimus VARIETY
-=======
+# Sporobolomyces ruberrimus Yamasaki & H. Fujii ex Fell, Pinel, Scorzetti, Statzell & Yarrow SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 FEMS Yeast Res. 1(4): 267 (2002)
 
 #### Original name
-Sporobolomyces ruberrimus var. ruberrimus
+Sporobolomyces ruberrimus Yamasaki & H. Fujii ex Fell, Pinel, Scorzetti, Statzell & Yarrow
 
 ### Remarks
 null

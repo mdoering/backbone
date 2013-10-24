@@ -1,5 +1,4 @@
-Phyllosticta caranoi Cif. SPECIES
-=======
+# Phyllosticta caranoi Cif. SPECIES
 
 #### Status
 ACCEPTED

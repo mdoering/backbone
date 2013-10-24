@@ -1,5 +1,4 @@
-Endophragmia oblonga Matsush. SPECIES
-=======
+# Endophragmia oblonga Matsush. SPECIES
 
 #### Status
 ACCEPTED

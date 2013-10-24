@@ -1,5 +1,4 @@
-Polyporus apricus Berk. SPECIES
-=======
+# Polyporus apricus Berk. SPECIES
 
 #### Status
 ACCEPTED

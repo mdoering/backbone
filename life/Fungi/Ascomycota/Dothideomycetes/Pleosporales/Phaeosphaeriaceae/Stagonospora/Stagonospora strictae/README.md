@@ -1,5 +1,4 @@
-Stagonospora strictae Ellis & Everh. SPECIES
-=======
+# Stagonospora strictae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

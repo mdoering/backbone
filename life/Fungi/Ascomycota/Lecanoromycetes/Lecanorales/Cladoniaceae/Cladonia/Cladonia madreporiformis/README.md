@@ -1,5 +1,4 @@
-Cladonia madreporiformis (With.) DC. SPECIES
-=======
+# Cladonia madreporiformis (With.) DC. SPECIES
 
 #### Status
 ACCEPTED

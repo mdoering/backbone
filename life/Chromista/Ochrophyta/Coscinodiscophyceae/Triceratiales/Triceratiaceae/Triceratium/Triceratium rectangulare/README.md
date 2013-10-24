@@ -1,5 +1,4 @@
-Triceratium rectangulare Grove & Sturt SPECIES
-=======
+# Triceratium rectangulare Grove & Sturt SPECIES
 
 #### Status
 ACCEPTED

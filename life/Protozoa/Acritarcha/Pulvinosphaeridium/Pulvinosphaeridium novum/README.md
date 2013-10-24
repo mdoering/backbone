@@ -1,5 +1,4 @@
-Pulvinosphaeridium novum Sheshegova, 1984 SPECIES
-=======
+# Pulvinosphaeridium novum Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

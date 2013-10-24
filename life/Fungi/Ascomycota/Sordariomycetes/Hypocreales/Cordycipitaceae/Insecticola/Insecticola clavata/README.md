@@ -1,5 +1,4 @@
-Insecticola clavata Mains SPECIES
-=======
+# Insecticola clavata Mains SPECIES
 
 #### Status
 ACCEPTED

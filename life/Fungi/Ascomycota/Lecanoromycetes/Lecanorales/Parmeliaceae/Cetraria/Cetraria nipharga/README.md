@@ -1,5 +1,4 @@
-Cetraria nipharga (Ach.) Röhl. SPECIES
-=======
+# Cetraria nipharga (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

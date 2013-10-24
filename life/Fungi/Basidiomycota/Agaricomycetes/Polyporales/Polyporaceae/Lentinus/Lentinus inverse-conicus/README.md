@@ -1,5 +1,4 @@
-Lentinus inverse-conicus Pat. SPECIES
-=======
+# Lentinus inverse-conicus Pat. SPECIES
 
 #### Status
 ACCEPTED

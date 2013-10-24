@@ -1,5 +1,4 @@
-Macroplodia helicis (Cooke & Massee) Kuntze SPECIES
-=======
+# Macroplodia helicis (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

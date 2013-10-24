@@ -1,5 +1,4 @@
-Clitopilus underwoodii Peck SPECIES
-=======
+# Clitopilus underwoodii Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium ariaefoliae Ellis & Everh. SPECIES
-=======
+# Cylindrosporium ariaefoliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

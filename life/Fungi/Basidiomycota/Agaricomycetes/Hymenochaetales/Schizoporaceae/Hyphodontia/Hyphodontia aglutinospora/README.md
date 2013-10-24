@@ -1,5 +1,4 @@
-Hyphodontia aglutinospora Hjortstam SPECIES
-=======
+# Hyphodontia aglutinospora Hjortstam SPECIES
 
 #### Status
 ACCEPTED

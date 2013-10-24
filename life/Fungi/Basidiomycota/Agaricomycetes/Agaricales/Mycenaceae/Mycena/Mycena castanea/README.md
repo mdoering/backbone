@@ -1,5 +1,4 @@
-Mycena castanea Velen. SPECIES
-=======
+# Mycena castanea Velen. SPECIES
 
 #### Status
 ACCEPTED

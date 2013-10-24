@@ -1,5 +1,4 @@
-Dermatea olivacea Kirschst. SPECIES
-=======
+# Dermatea olivacea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

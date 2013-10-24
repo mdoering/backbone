@@ -1,5 +1,4 @@
-Rhizinaceae Bonord. FAMILY
-=======
+# Rhizinaceae Bonord. FAMILY
 
 #### Status
 ACCEPTED

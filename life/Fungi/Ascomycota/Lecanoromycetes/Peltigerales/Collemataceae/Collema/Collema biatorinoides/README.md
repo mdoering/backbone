@@ -1,5 +1,4 @@
-Collema biatorinoides Eitner SPECIES
-=======
+# Collema biatorinoides Eitner SPECIES
 
 #### Status
 ACCEPTED

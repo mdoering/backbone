@@ -1,5 +1,4 @@
-Irpex effusus Henn. SPECIES
-=======
+# Irpex effusus Henn. SPECIES
 
 #### Status
 ACCEPTED

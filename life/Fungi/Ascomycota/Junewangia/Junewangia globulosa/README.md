@@ -1,14 +1,13 @@
-Monodictys globulosa Tóth, 1962 SPECIES
-=======
+# Junewangia globulosa (Tóth) W.A. Baker & Morgan-Jones, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Nat. Tabl. Univ. 54: 183 (1962)
+Mycotaxon 81: 308 (2002)
 
 #### Original name
 Monodictys globulosa Tóth, 1962

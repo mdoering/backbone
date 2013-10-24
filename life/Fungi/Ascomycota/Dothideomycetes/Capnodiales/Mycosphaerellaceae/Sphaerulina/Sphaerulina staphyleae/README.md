@@ -1,5 +1,4 @@
-Sphaerulina staphyleae Pass. SPECIES
-=======
+# Sphaerulina staphyleae Pass. SPECIES
 
 #### Status
 ACCEPTED

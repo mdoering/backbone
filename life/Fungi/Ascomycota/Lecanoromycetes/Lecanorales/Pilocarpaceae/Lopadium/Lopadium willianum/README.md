@@ -1,5 +1,4 @@
-Lopadium willianum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lopadium willianum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

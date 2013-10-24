@@ -1,5 +1,4 @@
-Dimeromyces tuzsoni Bánhegyi SPECIES
-=======
+# Dimeromyces tuzsoni Bánhegyi SPECIES
 
 #### Status
 ACCEPTED

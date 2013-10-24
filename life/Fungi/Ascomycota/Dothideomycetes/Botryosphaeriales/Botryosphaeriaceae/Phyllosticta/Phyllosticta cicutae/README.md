@@ -1,5 +1,4 @@
-Phyllosticta cicutae Lind SPECIES
-=======
+# Phyllosticta cicutae Lind SPECIES
 
 #### Status
 ACCEPTED

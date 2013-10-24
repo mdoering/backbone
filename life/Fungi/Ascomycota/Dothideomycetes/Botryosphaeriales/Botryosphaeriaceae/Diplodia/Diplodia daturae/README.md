@@ -1,5 +1,4 @@
-Diplodia daturae Sacc. SPECIES
-=======
+# Diplodia daturae Sacc. SPECIES
 
 #### Status
 ACCEPTED

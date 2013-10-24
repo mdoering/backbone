@@ -1,5 +1,4 @@
-Plagiophrys parvipunctata Callam SPECIES
-=======
+# Plagiophrys parvipunctata Callam SPECIES
 
 #### Status
 ACCEPTED

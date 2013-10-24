@@ -1,5 +1,4 @@
-Meliola imperspicua Deighton SPECIES
-=======
+# Meliola imperspicua Deighton SPECIES
 
 #### Status
 ACCEPTED

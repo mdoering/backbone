@@ -1,5 +1,4 @@
-Mycobacterium psychrotolerans Trujillo et al., 2004 SPECIES
-=======
+# Mycobacterium psychrotolerans Trujillo et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

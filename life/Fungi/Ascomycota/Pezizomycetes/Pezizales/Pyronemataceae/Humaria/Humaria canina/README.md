@@ -1,5 +1,4 @@
-Humaria canina (P. Karst.) Sacc. SPECIES
-=======
+# Humaria canina (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

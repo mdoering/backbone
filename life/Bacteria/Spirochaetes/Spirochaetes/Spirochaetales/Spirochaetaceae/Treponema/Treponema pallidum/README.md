@@ -1,11 +1,10 @@
-Spirochaeta pallida Schaudinn & Hoffmann, 1905 SPECIES
-=======
+# Treponema pallidum (Schaudinn and Hoffmann, 1905) Schaudinn, 1905 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Sphaceloma perseae Jenkins, 1934 SPECIES
-=======
+# Sphaceloma perseae Jenkins, 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Chaetomium causiaeforme L.M. Ames SPECIES
-=======
+# Chaetomium causiiforme L.M. Ames, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 41(6): 644 (1950)
 
 #### Original name
-Chaetomium causiaeforme L.M. Ames
+Chaetomium causiiforme L.M. Ames, 1950
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Porina myriocarpa (Müll. Arg.) F. Schill. SPECIES
-=======
+# Porina myriocarpa (Müll. Arg.) F. Schill. SPECIES
 
 #### Status
 ACCEPTED

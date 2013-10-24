@@ -1,5 +1,4 @@
-Hendersonia quercium Sacc. SPECIES
-=======
+# Hendersonia quercium Sacc. SPECIES
 
 #### Status
 ACCEPTED

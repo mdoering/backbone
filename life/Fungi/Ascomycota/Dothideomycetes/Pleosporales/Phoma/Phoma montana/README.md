@@ -1,5 +1,4 @@
-Phoma montana Speg. SPECIES
-=======
+# Phoma montana Speg. SPECIES
 
 #### Status
 ACCEPTED

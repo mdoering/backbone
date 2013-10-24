@@ -1,17 +1,16 @@
-Venturia niesslii subsp. niesslii SUBSPECIES
-=======
+# Gibbera niesslii (Sacc.) E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 8: 62 (1954)
 
 #### Original name
-Venturia niesslii subsp. niesslii
+Venturia niesslii Sacc., 1882
 
 ### Remarks
 null

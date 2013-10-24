@@ -1,5 +1,4 @@
-Rosellinia ambigna Sacc. SPECIES
-=======
+# Rosellinia ambigna Sacc. SPECIES
 
 #### Status
 ACCEPTED

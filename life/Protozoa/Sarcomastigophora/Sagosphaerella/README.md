@@ -1,5 +1,4 @@
-Sagosphaerella Haeckel, 1887 GENUS
-=======
+# Sagosphaerella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

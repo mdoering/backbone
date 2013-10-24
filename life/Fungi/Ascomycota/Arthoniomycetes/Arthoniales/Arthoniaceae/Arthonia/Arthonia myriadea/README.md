@@ -1,5 +1,4 @@
-Arthonia myriadea (Fée) Nyl. SPECIES
-=======
+# Arthonia myriadea (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

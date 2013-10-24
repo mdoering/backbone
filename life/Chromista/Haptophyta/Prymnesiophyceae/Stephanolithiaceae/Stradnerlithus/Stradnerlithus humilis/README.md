@@ -1,5 +1,4 @@
-Stradnerlithus humilis Goy in Goy et al., 1979 SPECIES
-=======
+# Stradnerlithus humilis Goy in Goy et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

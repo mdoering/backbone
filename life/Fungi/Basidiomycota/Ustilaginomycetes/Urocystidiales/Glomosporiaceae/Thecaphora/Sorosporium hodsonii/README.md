@@ -1,17 +1,16 @@
-Sorosporium hodsoni Zundel SPECIES
-=======
+# Sorosporium hodsonii Zundel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 22(3): 152 (1930)
 
 #### Original name
-Sorosporium hodsoni Zundel
+Sorosporium hodsonii Zundel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Periconiella broussonetiae McKenzie SPECIES
-=======
+# Periconiella broussonetiae McKenzie SPECIES
 
 #### Status
 ACCEPTED

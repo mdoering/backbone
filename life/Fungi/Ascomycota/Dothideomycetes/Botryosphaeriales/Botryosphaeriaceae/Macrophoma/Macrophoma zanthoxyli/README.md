@@ -1,8 +1,7 @@
-Macrophoma xanthoxyli Ellis & Everh. SPECIES
-=======
+# Macrophoma zanthoxyli Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrophoma xanthoxyli Ellis & Everh.
+Macrophoma zanthoxyli Ellis & Everh.
 
 ### Remarks
 null

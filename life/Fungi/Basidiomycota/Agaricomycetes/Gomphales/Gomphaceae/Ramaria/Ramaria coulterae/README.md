@@ -1,5 +1,4 @@
-Ramaria coulterae Scates, 1988 SPECIES
-=======
+# Ramaria coulterae Scates, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora piriformis Hedw. SPECIES
-=======
+# Octospora piriformis Hedw. SPECIES
 
 #### Status
 ACCEPTED

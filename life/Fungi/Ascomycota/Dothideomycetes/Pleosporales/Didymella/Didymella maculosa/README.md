@@ -1,5 +1,4 @@
-Didymella maculosa Penz. & Sacc. SPECIES
-=======
+# Didymella maculosa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

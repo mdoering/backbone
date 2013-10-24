@@ -1,5 +1,4 @@
-Amanita pseudoregalis Pluvinage SPECIES
-=======
+# Amanita pseudoregalis Pluvinage SPECIES
 
 #### Status
 ACCEPTED

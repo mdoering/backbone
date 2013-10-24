@@ -1,5 +1,4 @@
-Rhizophydium capillaceum D.J.S. Barr, 1969 SPECIES
-=======
+# Rhizophydium capillaceum D.J.S. Barr, 1969 SPECIES
 
 #### Status
 ACCEPTED

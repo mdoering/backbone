@@ -1,5 +1,4 @@
-Pestalotia compta Sacc. SPECIES
-=======
+# Pestalotia compta Sacc. SPECIES
 
 #### Status
 ACCEPTED

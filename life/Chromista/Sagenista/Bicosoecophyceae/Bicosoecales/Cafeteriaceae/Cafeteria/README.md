@@ -1,14 +1,13 @@
-Cafetaria GENUS
-=======
+# Cafeteria T.Fenchel & D.J.Patterson, 1988 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mar Microb Food Webs 3 (1): 11.
 
 #### Original name
 null

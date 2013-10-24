@@ -1,5 +1,4 @@
-Pyrenopeziza eryngii Fuckel, 1870 SPECIES
-=======
+# Pyrenopeziza eryngii Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

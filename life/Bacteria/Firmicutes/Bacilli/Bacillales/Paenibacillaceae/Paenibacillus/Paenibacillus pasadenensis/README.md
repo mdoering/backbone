@@ -1,5 +1,4 @@
-Paenibacillus pasadenensis Osman et al., 2006 SPECIES
-=======
+# Paenibacillus pasadenensis Osman et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

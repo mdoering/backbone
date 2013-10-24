@@ -1,5 +1,4 @@
-Crinipellis iopus Singer SPECIES
-=======
+# Crinipellis iopus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha oleagina Riddle SPECIES
-=======
+# Opegrapha oleagina Riddle SPECIES
 
 #### Status
 ACCEPTED

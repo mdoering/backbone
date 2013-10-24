@@ -1,14 +1,13 @@
-Thelotrema calathiforme Vain. SPECIES
-=======
+# Leptotrema calathiforme (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 46: 174 (1907)
+Cat. Lich. Univers. 2: 632 (1923)
 
 #### Original name
 Thelotrema calathiforme Vain.

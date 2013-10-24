@@ -1,5 +1,4 @@
-Myriotrema khaoyaianum Homchant. & Coppins SPECIES
-=======
+# Myriotrema khaoyaianum Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

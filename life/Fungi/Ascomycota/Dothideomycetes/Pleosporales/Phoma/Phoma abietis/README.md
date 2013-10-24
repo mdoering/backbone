@@ -1,5 +1,4 @@
-Phoma abietis Briard SPECIES
-=======
+# Phoma abietis Briard SPECIES
 
 #### Status
 ACCEPTED

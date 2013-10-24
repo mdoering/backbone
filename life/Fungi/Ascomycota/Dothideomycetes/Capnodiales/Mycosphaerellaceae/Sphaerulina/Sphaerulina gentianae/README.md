@@ -1,5 +1,4 @@
-Sphaerulina gentianae Wehm. SPECIES
-=======
+# Sphaerulina gentianae Wehm. SPECIES
 
 #### Status
 ACCEPTED

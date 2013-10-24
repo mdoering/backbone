@@ -1,5 +1,4 @@
-Cortinarius montanus var. montanus VARIETY
-=======
+# Cortinarius montanus Kauffman SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 10(5): 299 (1932)
 
 #### Original name
-Cortinarius montanus var. montanus
+Cortinarius montanus Kauffman
 
 ### Remarks
 null

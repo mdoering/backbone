@@ -1,5 +1,4 @@
-Aspicilia ochraceorubra Räsänen SPECIES
-=======
+# Aspicilia ochraceorubra Räsänen SPECIES
 
 #### Status
 ACCEPTED

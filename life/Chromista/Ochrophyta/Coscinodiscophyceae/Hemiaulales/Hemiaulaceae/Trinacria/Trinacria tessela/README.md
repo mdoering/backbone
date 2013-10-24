@@ -1,5 +1,4 @@
-Trinacria tessela A. I. Krotov SPECIES
-=======
+# Trinacria tessela A. I. Krotov SPECIES
 
 #### Status
 ACCEPTED

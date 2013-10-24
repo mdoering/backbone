@@ -1,17 +1,16 @@
-Galera tenera f. tenera FORM
-=======
+# Conocybe tenera (Schaeff.) Fayod, 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 7 9: 357 (1889)
 
 #### Original name
-Galera tenera f. tenera
+Agaricus tener Schaeff., 1774
 
 ### Remarks
 null

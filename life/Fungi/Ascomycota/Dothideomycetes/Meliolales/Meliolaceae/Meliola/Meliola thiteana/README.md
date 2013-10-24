@@ -1,5 +1,4 @@
-Meliola thiteana Hosag. SPECIES
-=======
+# Meliola thiteana Hosag. SPECIES
 
 #### Status
 ACCEPTED

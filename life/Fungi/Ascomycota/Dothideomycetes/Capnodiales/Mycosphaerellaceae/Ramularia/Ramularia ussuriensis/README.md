@@ -1,5 +1,4 @@
-Ramularia ussuriensis Koval SPECIES
-=======
+# Ramularia ussuriensis Koval SPECIES
 
 #### Status
 ACCEPTED

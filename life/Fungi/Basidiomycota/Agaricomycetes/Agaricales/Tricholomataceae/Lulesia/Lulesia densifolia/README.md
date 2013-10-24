@@ -1,14 +1,13 @@
-Armillariella densifolia Singer, 1952 SPECIES
-=======
+# Lulesia densifolia (Singer) Singer, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lilloa 25: 72 (1952)
+Fl. Neotrop. , Monogr. 3: 16 (1970)
 
 #### Original name
 Armillariella densifolia Singer, 1952

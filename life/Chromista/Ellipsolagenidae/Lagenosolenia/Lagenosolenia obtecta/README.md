@@ -1,5 +1,4 @@
-Lagenosolenia obtecta McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia obtecta McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

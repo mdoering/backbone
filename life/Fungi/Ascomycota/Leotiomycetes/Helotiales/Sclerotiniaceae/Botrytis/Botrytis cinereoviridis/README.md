@@ -1,5 +1,4 @@
-Botrytis cinereoviridis J.C. Schmidt SPECIES
-=======
+# Botrytis cinereoviridis J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

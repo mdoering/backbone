@@ -1,5 +1,4 @@
-Stichotricha opisthotonoides Smith, 1897 SPECIES
-=======
+# Stichotricha opisthotonoides Smith, 1897 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pulvinibasis Desjardin SPECIES
-=======
+# Mycena pulvinibasis Desjardin SPECIES
 
 #### Status
 ACCEPTED

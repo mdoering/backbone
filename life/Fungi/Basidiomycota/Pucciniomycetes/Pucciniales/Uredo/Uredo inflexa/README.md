@@ -1,5 +1,4 @@
-Uredo inflexa S. Ito SPECIES
-=======
+# Uredo inflexa S. Ito SPECIES
 
 #### Status
 ACCEPTED

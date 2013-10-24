@@ -1,5 +1,4 @@
-Verrucaria americana (B. de Lesd.) Breuss SPECIES
-=======
+# Verrucaria americana (B. de Lesd.) Breuss SPECIES
 
 #### Status
 ACCEPTED

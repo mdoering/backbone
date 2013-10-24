@@ -1,5 +1,4 @@
-Septoria lagenophorae McAlpine SPECIES
-=======
+# Septoria lagenophorae McAlpine SPECIES
 
 #### Status
 ACCEPTED

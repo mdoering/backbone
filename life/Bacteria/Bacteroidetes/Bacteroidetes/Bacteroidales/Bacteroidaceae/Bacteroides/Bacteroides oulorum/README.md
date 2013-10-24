@@ -1,5 +1,4 @@
-Bacteroides oulorum Shah et al., 1985 SPECIES
-=======
+# Bacteroides oulorum Shah et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

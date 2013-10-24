@@ -1,5 +1,4 @@
-Entomophthora pelliculosa Sorokin SPECIES
-=======
+# Entomophthora pelliculosa Sorokin SPECIES
 
 #### Status
 ACCEPTED

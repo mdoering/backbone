@@ -1,5 +1,4 @@
-Plasmopara spilanthicola Syd. SPECIES
-=======
+# Plasmopara spilanthicola Syd. SPECIES
 
 #### Status
 ACCEPTED

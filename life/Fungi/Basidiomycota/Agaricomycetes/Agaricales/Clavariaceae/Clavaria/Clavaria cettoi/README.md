@@ -1,5 +1,4 @@
-Clavaria cettoi Schild SPECIES
-=======
+# Clavaria cettoi Schild SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula boberskiana Körb. SPECIES
-=======
+# Pyrenula boberskiana Körb. SPECIES
 
 #### Status
 ACCEPTED

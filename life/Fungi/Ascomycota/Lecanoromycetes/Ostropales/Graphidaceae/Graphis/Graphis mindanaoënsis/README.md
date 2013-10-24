@@ -1,5 +1,4 @@
-Graphis mindanaoënsis Vain. SPECIES
-=======
+# Graphis mindanaoënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

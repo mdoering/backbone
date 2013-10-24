@@ -1,5 +1,4 @@
-Hendersonulina hirta (Fr.) Tassi SPECIES
-=======
+# Hendersonulina hirta (Fr.) Tassi SPECIES
 
 #### Status
 ACCEPTED

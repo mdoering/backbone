@@ -1,5 +1,4 @@
-Algirosphaera Schlauder, 1945 GENUS
-=======
+# Algirosphaera Schlauder, 1945 GENUS
 
 #### Status
 ACCEPTED

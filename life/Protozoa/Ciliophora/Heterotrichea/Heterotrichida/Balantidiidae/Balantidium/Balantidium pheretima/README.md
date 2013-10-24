@@ -1,5 +1,4 @@
-Balantidium pheretima Ghosh, 1921 SPECIES
-=======
+# Balantidium pheretima Ghosh, 1921 SPECIES
 
 #### Status
 ACCEPTED

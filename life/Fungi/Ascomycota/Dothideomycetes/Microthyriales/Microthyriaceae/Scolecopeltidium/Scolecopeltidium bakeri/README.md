@@ -1,5 +1,4 @@
-Scolecopeltidium bakeri (Syd. & P. Syd.) F. Stevens & Manter SPECIES
-=======
+# Scolecopeltidium bakeri (Syd. & P. Syd.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

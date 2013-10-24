@@ -1,5 +1,4 @@
-Tyromyces singeri Ryvarden, 1987 SPECIES
-=======
+# Tyromyces singeri Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

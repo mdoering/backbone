@@ -1,5 +1,4 @@
-Myxosporium puniceum Corda SPECIES
-=======
+# Myxosporium puniceum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula brunnescens Murrill SPECIES
-=======
+# Russula brunnescens Murrill SPECIES
 
 #### Status
 ACCEPTED

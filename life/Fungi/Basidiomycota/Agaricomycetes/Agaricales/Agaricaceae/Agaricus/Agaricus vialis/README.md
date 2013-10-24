@@ -1,5 +1,4 @@
-Agaricus vialis Alb. & Schwein. SPECIES
-=======
+# Agaricus vialis Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

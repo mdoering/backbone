@@ -1,5 +1,4 @@
-Alternaria daucicola T.Y. Zhang SPECIES
-=======
+# Alternaria daucicola T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

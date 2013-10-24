@@ -1,5 +1,4 @@
-Rutstroemia macrocarpa anon. SPECIES
-=======
+# Rutstroemia macrocarpa anon. SPECIES
 
 #### Status
 ACCEPTED

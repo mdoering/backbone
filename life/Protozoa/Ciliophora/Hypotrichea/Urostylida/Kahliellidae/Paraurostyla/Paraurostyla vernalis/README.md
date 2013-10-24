@@ -1,5 +1,4 @@
-Paraurostyla vernalis SPECIES
-=======
+# Paraurostyla vernalis SPECIES
 
 #### Status
 ACCEPTED

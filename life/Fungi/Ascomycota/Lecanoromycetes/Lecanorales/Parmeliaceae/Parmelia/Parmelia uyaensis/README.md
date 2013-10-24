@@ -1,5 +1,4 @@
-Parmelia uyaensis SPECIES
-=======
+# Parmelia uyaensis SPECIES
 
 #### Status
 ACCEPTED

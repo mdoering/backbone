@@ -1,5 +1,4 @@
-Ophiobolus consimilis Ellis & Everh. SPECIES
-=======
+# Ophiobolus consimilis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

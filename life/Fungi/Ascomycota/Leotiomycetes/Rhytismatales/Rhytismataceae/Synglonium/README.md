@@ -1,5 +1,4 @@
-Synglonium GENUS
-=======
+# Synglonium GENUS
 
 #### Status
 ACCEPTED

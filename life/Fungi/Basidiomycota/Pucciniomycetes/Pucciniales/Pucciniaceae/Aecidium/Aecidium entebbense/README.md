@@ -1,5 +1,4 @@
-Aecidium entebbense Cummins SPECIES
-=======
+# Aecidium entebbense Cummins SPECIES
 
 #### Status
 ACCEPTED

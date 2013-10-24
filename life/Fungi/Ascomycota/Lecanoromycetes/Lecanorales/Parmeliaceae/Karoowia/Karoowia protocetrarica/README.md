@@ -1,5 +1,4 @@
-Karoowia protocetrarica Hale SPECIES
-=======
+# Karoowia protocetrarica Hale SPECIES
 
 #### Status
 ACCEPTED

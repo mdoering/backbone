@@ -1,5 +1,4 @@
-Protoblastenia hispanica Werner SPECIES
-=======
+# Protoblastenia hispanica Werner SPECIES
 
 #### Status
 ACCEPTED

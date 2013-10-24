@@ -1,5 +1,4 @@
-Bryopogon jubatus var. jubatus VARIETY
-=======
+# Bryopogon jubatus (L.) Link SPECIES
 
 #### Status
 ACCEPTED

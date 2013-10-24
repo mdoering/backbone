@@ -1,5 +1,4 @@
-Pluteus haywardii Singer SPECIES
-=======
+# Pluteus haywardii Singer SPECIES
 
 #### Status
 ACCEPTED

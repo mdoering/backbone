@@ -1,5 +1,4 @@
-Galactopus miniatus E. Horak SPECIES
-=======
+# Galactopus miniatus E. Horak SPECIES
 
 #### Status
 ACCEPTED

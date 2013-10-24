@@ -1,5 +1,4 @@
-Neisseria macacae Vedros et al., 1983 SPECIES
-=======
+# Neisseria macacae Vedros et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

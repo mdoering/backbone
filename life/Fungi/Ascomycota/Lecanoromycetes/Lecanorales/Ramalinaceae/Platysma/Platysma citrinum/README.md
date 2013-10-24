@@ -1,5 +1,4 @@
-Platysma citrinum (Taylor) Nyl. SPECIES
-=======
+# Platysma citrinum (Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

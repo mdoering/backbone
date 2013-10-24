@@ -1,5 +1,4 @@
-Verrucaria astroidea Nyl. SPECIES
-=======
+# Verrucaria astroidea Nyl. SPECIES
 
 #### Status
 ACCEPTED

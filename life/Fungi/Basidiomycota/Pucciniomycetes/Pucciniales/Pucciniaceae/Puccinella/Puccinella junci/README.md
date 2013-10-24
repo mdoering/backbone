@@ -1,5 +1,4 @@
-Puccinella junci Fuckel SPECIES
-=======
+# Puccinella junci Fuckel SPECIES
 
 #### Status
 ACCEPTED

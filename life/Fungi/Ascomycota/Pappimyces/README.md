@@ -1,5 +1,4 @@
-Pappimyces B. Sutton & Hodges GENUS
-=======
+# Pappimyces B. Sutton & Hodges GENUS
 
 #### Status
 ACCEPTED

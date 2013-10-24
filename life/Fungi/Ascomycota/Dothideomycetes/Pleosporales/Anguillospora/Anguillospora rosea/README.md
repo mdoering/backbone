@@ -1,5 +1,4 @@
-Anguillospora rosea Descals, 1992 SPECIES
-=======
+# Anguillospora rosea Descals, 1992 SPECIES
 
 #### Status
 ACCEPTED

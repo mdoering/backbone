@@ -1,5 +1,4 @@
-Chryseobacterium formosense Young et al., 2005 SPECIES
-=======
+# Chryseobacterium formosense Young et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

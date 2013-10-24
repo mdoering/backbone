@@ -1,5 +1,4 @@
-Pseudomonas syringae subsp. syringae van Hall, 1902 SUBSPECIES
-=======
+# Pseudomonas syringae van Hall, 1902 SPECIES
 
 #### Status
 ACCEPTED

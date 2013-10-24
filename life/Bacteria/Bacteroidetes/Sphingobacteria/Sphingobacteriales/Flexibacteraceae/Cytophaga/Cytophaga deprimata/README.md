@@ -1,5 +1,4 @@
-Cytophaga deprimata SPECIES
-=======
+# Cytophaga deprimata SPECIES
 
 #### Status
 ACCEPTED

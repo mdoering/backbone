@@ -1,5 +1,4 @@
-Uromyces pretoriensis Doidge SPECIES
-=======
+# Uromyces pretoriensis Doidge SPECIES
 
 #### Status
 ACCEPTED

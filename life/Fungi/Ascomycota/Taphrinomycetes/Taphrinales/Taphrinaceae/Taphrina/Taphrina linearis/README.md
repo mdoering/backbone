@@ -1,5 +1,4 @@
-Taphrina linearis Syd. SPECIES
-=======
+# Taphrina linearis Syd. SPECIES
 
 #### Status
 ACCEPTED

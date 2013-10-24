@@ -1,5 +1,4 @@
-Ascochyta veronicae Rostr. SPECIES
-=======
+# Ascochyta veronicae Rostr. SPECIES
 
 #### Status
 ACCEPTED

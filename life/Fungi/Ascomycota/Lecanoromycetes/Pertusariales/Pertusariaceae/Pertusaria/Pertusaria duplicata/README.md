@@ -1,5 +1,4 @@
-Pertusaria duplicata Vain. SPECIES
-=======
+# Pertusaria duplicata Vain. SPECIES
 
 #### Status
 ACCEPTED

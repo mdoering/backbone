@@ -1,5 +1,4 @@
-Asterinella cylindrotheca (Speg.) Theiss. SPECIES
-=======
+# Asterinella cylindrotheca (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

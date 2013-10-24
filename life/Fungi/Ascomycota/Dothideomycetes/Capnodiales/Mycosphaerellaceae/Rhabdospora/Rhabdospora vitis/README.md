@@ -1,5 +1,4 @@
-Rhabdospora vitis Koshk. & Frolov SPECIES
-=======
+# Rhabdospora vitis Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

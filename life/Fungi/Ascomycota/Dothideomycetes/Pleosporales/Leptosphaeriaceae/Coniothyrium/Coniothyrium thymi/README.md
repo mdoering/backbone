@@ -1,5 +1,4 @@
-Coniothyrium thymi Hollós SPECIES
-=======
+# Coniothyrium thymi Hollós SPECIES
 
 #### Status
 ACCEPTED

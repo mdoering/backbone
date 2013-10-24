@@ -1,5 +1,4 @@
-Salpingelloides altiplicata (Merkle, 1909) SPECIES
-=======
+# Salpingelloides altiplicata (Merkle, 1909) SPECIES
 
 #### Status
 ACCEPTED

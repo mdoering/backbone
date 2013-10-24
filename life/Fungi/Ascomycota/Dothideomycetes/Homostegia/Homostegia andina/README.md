@@ -1,5 +1,4 @@
-Homostegia andina Speg. SPECIES
-=======
+# Homostegia andina Speg. SPECIES
 
 #### Status
 ACCEPTED

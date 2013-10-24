@@ -1,5 +1,4 @@
-Hypocrea megalocitrina Yoshim. Doi SPECIES
-=======
+# Hypocrea megalocitrina Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena fallax A.H. Sm. SPECIES
-=======
+# Mycena fallax A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

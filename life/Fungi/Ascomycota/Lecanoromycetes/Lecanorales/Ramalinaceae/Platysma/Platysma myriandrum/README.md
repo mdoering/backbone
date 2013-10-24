@@ -1,5 +1,4 @@
-Platysma myriandrum Norrl. ex Räsänen SPECIES
-=======
+# Platysma myriandrum Norrl. ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

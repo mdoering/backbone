@@ -1,17 +1,16 @@
-Peronospora arabidiopsis Gäum. SPECIES
-=======
+# Hyaloperonospora arabidopsidis (Gäum.) Göker, Riethm., Voglmayr, Weiss & Oberw., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Progr. 3(2): 89 (2004)
 
 #### Original name
-Peronospora arabidiopsis Gäum.
+Peronospora arabidopsidis Gäum., 1918
 
 ### Remarks
 null

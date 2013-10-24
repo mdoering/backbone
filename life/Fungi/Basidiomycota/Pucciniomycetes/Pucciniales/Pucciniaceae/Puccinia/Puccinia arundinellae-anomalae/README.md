@@ -1,5 +1,4 @@
-Puccinia arundinellae-anomalae Dietel SPECIES
-=======
+# Puccinia arundinellae-anomalae Dietel SPECIES
 
 #### Status
 ACCEPTED

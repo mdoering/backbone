@@ -1,5 +1,4 @@
-Leiovalia tenera Kiryanov, 1974 SPECIES
-=======
+# Leiovalia tenera Kiryanov, 1974 SPECIES
 
 #### Status
 ACCEPTED

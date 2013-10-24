@@ -1,5 +1,4 @@
-Cercospora malvicola Ellis & G. Martin, 1882 SPECIES
-=======
+# Cercospora malvicola Ellis & G. Martin, 1882 SPECIES
 
 #### Status
 ACCEPTED

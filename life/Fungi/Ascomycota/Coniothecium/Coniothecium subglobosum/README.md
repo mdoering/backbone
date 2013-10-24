@@ -1,5 +1,4 @@
-Coniothecium subglobosum Cooke SPECIES
-=======
+# Coniothecium subglobosum Cooke SPECIES
 
 #### Status
 ACCEPTED

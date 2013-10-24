@@ -1,5 +1,4 @@
-Dasyscyphus podocarpi Gamundí SPECIES
-=======
+# Dasyscyphus podocarpi Gamundí SPECIES
 
 #### Status
 ACCEPTED

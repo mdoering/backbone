@@ -1,5 +1,4 @@
-Lecanora novae-semliae SPECIES
-=======
+# Lecanora novae-semliae SPECIES
 
 #### Status
 ACCEPTED

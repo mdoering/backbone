@@ -1,5 +1,4 @@
-Ungulatella annulata SPECIES
-=======
+# Ungulatella annulata SPECIES
 
 #### Status
 ACCEPTED

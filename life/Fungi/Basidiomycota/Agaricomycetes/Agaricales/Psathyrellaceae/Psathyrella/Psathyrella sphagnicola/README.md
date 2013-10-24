@@ -1,14 +1,13 @@
-Drosophila sphagnicola (Maire) Kühner & Romagn., 1953 SPECIES
-=======
+# Psathyrella sphagnicola (Maire) J. Favre, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 361 (1953)
+Bull. trimest. Soc. mycol. Fr. 53: 282 (1937)
 
 #### Original name
 Stropharia sphagnicola Maire, 1910

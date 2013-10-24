@@ -1,5 +1,4 @@
-Discosia quercicola De Not. SPECIES
-=======
+# Discosia quercicola De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multicellaesporites qingfengensis Z.C. Song & H.C. Luo SPECIES
-=======
+# Multicellaesporites qingfengensis Z.C. Song & H.C. Luo SPECIES
 
 #### Status
 ACCEPTED

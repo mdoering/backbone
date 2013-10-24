@@ -1,5 +1,4 @@
-Tricellaesporonites triangularis Sheffy & Dilcher SPECIES
-=======
+# Tricellaesporonites triangularis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

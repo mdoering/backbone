@@ -1,5 +1,4 @@
-Microphiale pachyspora (Vain.) Zahlbr. SPECIES
-=======
+# Microphiale pachyspora (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

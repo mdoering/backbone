@@ -1,5 +1,4 @@
-Metopus violaceus Kahl, 1926 SPECIES
-=======
+# Metopus violaceus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus erythraeus Sacc. SPECIES
-=======
+# Cantharellus erythraeus Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracothecium biferum Zahlbr. SPECIES
-=======
+# Anthracothecium biferum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Placodium cervinum var. cervinum VARIETY
-=======
+# Acarospora cervina (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 28 (1852)
 
 #### Original name
-null
+Lecanora cervina
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meiorganum agathidis (Corner) Singer, J. García & L.D. Gómez SPECIES
-=======
+# Meiorganum agathidis (Corner) Singer, J. García & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

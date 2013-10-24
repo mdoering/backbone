@@ -1,5 +1,4 @@
-Laboulbenia dailodonti Speg. SPECIES
-=======
+# Laboulbenia dailodonti Speg. SPECIES
 
 #### Status
 ACCEPTED

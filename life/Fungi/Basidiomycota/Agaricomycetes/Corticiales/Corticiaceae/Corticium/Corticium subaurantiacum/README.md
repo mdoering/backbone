@@ -1,5 +1,4 @@
-Corticium subaurantiacum Peck SPECIES
-=======
+# Corticium subaurantiacum Peck SPECIES
 
 #### Status
 ACCEPTED

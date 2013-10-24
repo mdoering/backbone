@@ -1,5 +1,4 @@
-Heterobasidion rutilantiforme (Murrill) Stalpers SPECIES
-=======
+# Heterobasidion rutilantiforme (Murrill) Stalpers SPECIES
 
 #### Status
 ACCEPTED

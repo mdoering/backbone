@@ -1,5 +1,4 @@
-Clavulinopsis fruticula Corner, 1950 SPECIES
-=======
+# Clavulinopsis fruticula Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

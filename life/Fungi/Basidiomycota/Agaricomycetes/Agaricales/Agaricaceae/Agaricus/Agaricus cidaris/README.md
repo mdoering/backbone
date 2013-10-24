@@ -1,5 +1,4 @@
-Agaricus cidaris Fr. SPECIES
-=======
+# Agaricus cidaris Fr. SPECIES
 
 #### Status
 ACCEPTED

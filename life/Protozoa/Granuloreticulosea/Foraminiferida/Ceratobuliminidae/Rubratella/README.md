@@ -1,5 +1,4 @@
-Rubratella Grell, 1958 GENUS
-=======
+# Rubratella Grell, 1958 GENUS
 
 #### Status
 ACCEPTED

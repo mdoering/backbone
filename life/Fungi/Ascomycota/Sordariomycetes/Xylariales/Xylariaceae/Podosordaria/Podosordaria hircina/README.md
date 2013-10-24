@@ -1,5 +1,4 @@
-Podosordaria hircina (F.L. Tai & C.T. Wei) J.C. Krug & Cain SPECIES
-=======
+# Podosordaria hircina (F.L. Tai & C.T. Wei) J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium ravicosum Playford & Wicander, 1988 SPECIES
-=======
+# Baltisphaeridium ravicosum Playford & Wicander, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyamichona mysticeti Jankowski, 1971 SPECIES
-=======
+# Cyamichona mysticeti Jankowski, 1971 SPECIES
 
 #### Status
 ACCEPTED

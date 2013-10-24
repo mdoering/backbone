@@ -1,17 +1,16 @@
-Helotium guernisaci P. Crouan & H. Crouan SPECIES
-=======
+# Pachydisca guernisacii (P. Crouan & H. Crouan) Boud., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. (1885)
 
 #### Original name
-Helotium guernisaci P. Crouan & H. Crouan
+Helotium guernisacii P. Crouan & H. Crouan, 1867
 
 ### Remarks
 null

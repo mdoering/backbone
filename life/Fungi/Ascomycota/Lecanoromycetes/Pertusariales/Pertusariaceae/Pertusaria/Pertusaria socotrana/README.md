@@ -1,5 +1,4 @@
-Pertusaria socotrana Müll. Arg. SPECIES
-=======
+# Pertusaria socotrana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

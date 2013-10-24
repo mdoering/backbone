@@ -1,5 +1,4 @@
-Delicatula ignobilis (Joss.) Kühner & Romagn. SPECIES
-=======
+# Delicatula ignobilis (Joss.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

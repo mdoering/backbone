@@ -1,5 +1,4 @@
-Xanthoparmelia hybridella Elix SPECIES
-=======
+# Xanthoparmelia hybridella Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dietzia psychralcaliphila Yumoto et al., 2002 SPECIES
-=======
+# Dietzia psychralcaliphila Yumoto et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

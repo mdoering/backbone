@@ -1,5 +1,4 @@
-Blastomonas Sly & Cahill, 1997 GENUS
-=======
+# Blastomonas Sly & Cahill, 1997 GENUS
 
 #### Status
 ACCEPTED

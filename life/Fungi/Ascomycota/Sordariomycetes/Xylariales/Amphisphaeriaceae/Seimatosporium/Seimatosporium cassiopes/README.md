@@ -1,5 +1,4 @@
-Seimatosporium cassiopes (Rostr.) B. Sutton SPECIES
-=======
+# Seimatosporium cassiopes (Rostr.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

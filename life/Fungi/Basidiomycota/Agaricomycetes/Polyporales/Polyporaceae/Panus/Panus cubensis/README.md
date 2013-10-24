@@ -1,5 +1,4 @@
-Panus cubensis Berk. & M.A. Curtis SPECIES
-=======
+# Panus cubensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

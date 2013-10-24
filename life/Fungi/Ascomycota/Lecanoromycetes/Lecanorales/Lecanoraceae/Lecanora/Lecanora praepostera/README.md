@@ -1,17 +1,16 @@
-Lecanora schistina (Nyl.) Arnold SPECIES
-=======
+# Lecanora praepostera Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 67: 325 (1884)
+Flora, Jena 56: 19 (1873)
 
 #### Original name
-Lecanora gangaleoides f. schistina Nyl.
+Lecanora praepostera Nyl.
 
 ### Remarks
 null

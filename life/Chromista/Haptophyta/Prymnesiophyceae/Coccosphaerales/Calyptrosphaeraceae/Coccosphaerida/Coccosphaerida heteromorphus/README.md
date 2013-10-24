@@ -1,5 +1,4 @@
-Coccosphaerida heteromorphus SPECIES
-=======
+# Coccosphaerida heteromorphus SPECIES
 
 #### Status
 ACCEPTED

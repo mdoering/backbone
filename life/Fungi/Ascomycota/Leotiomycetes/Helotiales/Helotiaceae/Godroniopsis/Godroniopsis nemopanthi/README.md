@@ -1,17 +1,16 @@
-Godroniopsis nemopanthis J.W. Groves SPECIES
-=======
+# Godroniopsis nemopanthi J.W. Groves SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 29: 71 (1937)
 
 #### Original name
-Godroniopsis nemopanthis J.W. Groves
+Godroniopsis nemopanthi J.W. Groves
 
 ### Remarks
 null

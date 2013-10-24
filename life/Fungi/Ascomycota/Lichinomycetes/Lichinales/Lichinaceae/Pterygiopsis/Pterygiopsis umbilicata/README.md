@@ -1,5 +1,4 @@
-Pterygiopsis umbilicata (Vezda) Henssen SPECIES
-=======
+# Pterygiopsis umbilicata (Vezda) Henssen SPECIES
 
 #### Status
 ACCEPTED

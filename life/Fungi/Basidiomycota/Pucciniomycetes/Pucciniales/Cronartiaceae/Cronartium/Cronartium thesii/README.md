@@ -1,5 +1,4 @@
-Cronartium thesii Lagerh. SPECIES
-=======
+# Cronartium thesii Lagerh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metadinophysis sinensis Nie & Wang, 1941 SPECIES
-=======
+# Metadinophysis sinensis Nie & Wang, 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haematomma cinchonarum Kalb & Staiger SPECIES
-=======
+# Haematomma cinchonarum Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

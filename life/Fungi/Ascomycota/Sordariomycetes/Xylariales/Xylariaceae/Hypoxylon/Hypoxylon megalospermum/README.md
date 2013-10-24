@@ -1,5 +1,4 @@
-Hypoxylon megalospermum (Syd. & P. Syd.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon megalospermum (Syd. & P. Syd.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

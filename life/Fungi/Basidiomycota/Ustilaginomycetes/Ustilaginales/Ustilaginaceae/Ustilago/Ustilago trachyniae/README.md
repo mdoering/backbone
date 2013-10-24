@@ -1,5 +1,4 @@
-Ustilago trachyniae Uljan. SPECIES
-=======
+# Ustilago trachyniae Uljan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmastomyces glutinosus Corner, 1989 SPECIES
-=======
+# Parmastomyces glutinosus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

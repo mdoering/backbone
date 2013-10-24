@@ -1,5 +1,4 @@
-Stereocaulon sibiricum H. Magn. SPECIES
-=======
+# Stereocaulon sibiricum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

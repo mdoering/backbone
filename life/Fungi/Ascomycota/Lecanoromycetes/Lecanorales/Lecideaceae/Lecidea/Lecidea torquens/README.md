@@ -1,5 +1,4 @@
-Lecidea torquens Müll. Arg. SPECIES
-=======
+# Lecidea torquens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

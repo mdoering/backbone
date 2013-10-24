@@ -1,5 +1,4 @@
-Rhizophydium horizontale R.A. Peterson SPECIES
-=======
+# Rhizophydium horizontale R.A. Peterson SPECIES
 
 #### Status
 ACCEPTED

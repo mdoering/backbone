@@ -1,5 +1,4 @@
-Lagena sublagenoides SPECIES
-=======
+# Lagena sublagenoides SPECIES
 
 #### Status
 ACCEPTED

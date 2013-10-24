@@ -1,5 +1,4 @@
-Dimerosporium fumago (Niessl) Sacc. SPECIES
-=======
+# Dimerosporium fumago (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

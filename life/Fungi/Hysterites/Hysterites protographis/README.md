@@ -1,5 +1,4 @@
-Hysterites protographis Massee SPECIES
-=======
+# Hysterites protographis Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma nivescens Noordel. SPECIES
-=======
+# Entoloma nivescens Noordel. SPECIES
 
 #### Status
 ACCEPTED

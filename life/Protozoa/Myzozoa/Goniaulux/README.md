@@ -1,5 +1,4 @@
-Goniaulux GENUS
-=======
+# Goniaulux GENUS
 
 #### Status
 ACCEPTED

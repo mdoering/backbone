@@ -1,5 +1,4 @@
-Trichopeltella Höhn. GENUS
-=======
+# Trichopeltella Höhn. GENUS
 
 #### Status
 ACCEPTED

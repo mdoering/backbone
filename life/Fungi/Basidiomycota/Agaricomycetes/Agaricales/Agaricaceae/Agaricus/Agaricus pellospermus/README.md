@@ -1,5 +1,4 @@
-Agaricus pellospermus Secr. SPECIES
-=======
+# Agaricus pellospermus Secr. SPECIES
 
 #### Status
 ACCEPTED

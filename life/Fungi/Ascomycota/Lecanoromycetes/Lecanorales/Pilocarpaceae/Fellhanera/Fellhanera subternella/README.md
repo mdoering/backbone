@@ -1,14 +1,13 @@
-Bacidia subternella (Nyl.) R. Sant. SPECIES
-=======
+# Fellhanera subternella (Nyl.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 12(no. 1): 470 (1952)
+Folia geobot. phytotax. 21(2): 215 (1986)
 
 #### Original name
 Lecidea subternella Nyl.

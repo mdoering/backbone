@@ -1,5 +1,4 @@
-Lichenodiplis poeltii S.Y. Kondr. & D. Hawksw. SPECIES
-=======
+# Lichenodiplis poeltii S.Y. Kondr. & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

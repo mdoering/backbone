@@ -1,5 +1,4 @@
-Exosporium lauri Hazsl. SPECIES
-=======
+# Exosporium lauri Hazsl. SPECIES
 
 #### Status
 ACCEPTED

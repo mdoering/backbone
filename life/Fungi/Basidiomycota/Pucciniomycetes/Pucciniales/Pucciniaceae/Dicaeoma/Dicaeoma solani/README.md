@@ -1,5 +1,4 @@
-Dicaeoma solani (Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma solani (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

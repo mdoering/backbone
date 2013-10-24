@@ -1,5 +1,4 @@
-Passalora mucunicola Crous, U. Braun & Alfenas SPECIES
-=======
+# Passalora mucunicola Crous, U. Braun & Alfenas SPECIES
 
 #### Status
 ACCEPTED

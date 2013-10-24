@@ -1,5 +1,4 @@
-Mycosphaerella tungurahuana Petr., 1950 SPECIES
-=======
+# Mycosphaerella tungurahuana Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

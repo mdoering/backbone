@@ -1,17 +1,16 @@
-Sarcogyne dubia H. Magn. SPECIES
-=======
+# Polysporina lapponica (Ach. ex Schaer.) Degel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig) 9(5. 1): 57 (1935)
+Acta Regiae Societatis Scientiarum et Litterarum Gothoburgensis, Botanica 2: 103 (1983)
 
 #### Original name
-Sarcogyne dubia H. Magn.
+Lecidea lapponica Ach. ex Schaer.
 
 ### Remarks
 null

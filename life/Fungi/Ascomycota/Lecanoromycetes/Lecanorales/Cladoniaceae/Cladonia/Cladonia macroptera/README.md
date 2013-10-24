@@ -1,5 +1,4 @@
-Cladonia macroptera f. macroptera FORM
-=======
+# Cladonia macroptera Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Jap. Bot. 16: 149 (1940)
 
 #### Original name
-Cladonia macroptera f. macroptera
+Cladonia macroptera Räsänen
 
 ### Remarks
 null

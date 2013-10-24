@@ -1,5 +1,4 @@
-Mycena paranaensis Maas Geest. & de Meijer SPECIES
-=======
+# Mycena paranaensis Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nocardia yamanashiensis Kageyama et al., 2004 SPECIES
-=======
+# Nocardia yamanashiensis Kageyama et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

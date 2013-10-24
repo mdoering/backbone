@@ -1,5 +1,4 @@
-Lepiota carpatica (M.M. Moser) M.M. Moser SPECIES
-=======
+# Lepiota carpatica (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

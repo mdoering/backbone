@@ -1,5 +1,4 @@
-Polyporus vilis Ces. SPECIES
-=======
+# Polyporus vilis Ces. SPECIES
 
 #### Status
 ACCEPTED

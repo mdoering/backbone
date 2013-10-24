@@ -1,5 +1,4 @@
-Marasmius subalbidulus Antonín SPECIES
-=======
+# Marasmius subalbidulus Antonín SPECIES
 
 #### Status
 ACCEPTED

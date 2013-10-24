@@ -1,17 +1,16 @@
-Valsa circumscripta (Fr.) Mont., 1856 SPECIES
-=======
+# Diaporthe circumscripta Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi rhenani 23-24: no. 1991 (1870)
 
 #### Original name
-Sphaeria circumscissa Pers.
+Diaporthe circumscripta Fuckel, 1870
 
 ### Remarks
 null

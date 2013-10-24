@@ -1,5 +1,4 @@
-Psychrobacter proteolyticus Denner et al., 2001 SPECIES
-=======
+# Psychrobacter proteolyticus Denner et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

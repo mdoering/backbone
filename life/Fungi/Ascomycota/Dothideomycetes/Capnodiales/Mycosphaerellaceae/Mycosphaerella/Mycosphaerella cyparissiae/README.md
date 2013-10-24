@@ -1,5 +1,4 @@
-Mycosphaerella cyparissiae (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella cyparissiae (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

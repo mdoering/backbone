@@ -1,5 +1,4 @@
-Diplodia rhizophila Syd. & P. Syd., 1916 SPECIES
-=======
+# Diplodia rhizophila Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 ACCEPTED

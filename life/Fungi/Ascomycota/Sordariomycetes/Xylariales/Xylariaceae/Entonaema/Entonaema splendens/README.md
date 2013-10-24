@@ -1,5 +1,4 @@
-Entonaema splendens (Berk. & M.A. Curtis) Lloyd SPECIES
-=======
+# Entonaema splendens (Berk. & M.A. Curtis) Lloyd SPECIES
 
 #### Status
 ACCEPTED

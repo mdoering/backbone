@@ -1,5 +1,4 @@
-Metasphaeria clypeotecta Petr. SPECIES
-=======
+# Metasphaeria clypeotecta Petr. SPECIES
 
 #### Status
 ACCEPTED

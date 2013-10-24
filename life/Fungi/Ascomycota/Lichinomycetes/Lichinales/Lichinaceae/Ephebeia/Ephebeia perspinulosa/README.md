@@ -1,5 +1,4 @@
-Ephebeia perspinulosa (Nyl.) Räsänen SPECIES
-=======
+# Ephebeia perspinulosa (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

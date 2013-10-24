@@ -1,5 +1,4 @@
-Verrucaria subsuperficialis Fink ex J. Hedrick SPECIES
-=======
+# Verrucaria subsuperficialis Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

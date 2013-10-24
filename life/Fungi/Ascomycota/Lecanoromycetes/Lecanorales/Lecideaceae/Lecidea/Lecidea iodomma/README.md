@@ -1,5 +1,4 @@
-Lecidea iodomma Nyl. SPECIES
-=======
+# Lecidea iodomma Nyl. SPECIES
 
 #### Status
 ACCEPTED

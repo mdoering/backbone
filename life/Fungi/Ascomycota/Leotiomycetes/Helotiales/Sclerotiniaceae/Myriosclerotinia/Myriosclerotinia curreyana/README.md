@@ -1,14 +1,13 @@
-Phialea curreyana (Berk.) Gillet, 1887 SPECIES
-=======
+# Myriosclerotinia curreyana (Berk. ex Curr.) N.F. Buchw., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Friesia 3: 291 (1947)
 
 #### Original name
 null

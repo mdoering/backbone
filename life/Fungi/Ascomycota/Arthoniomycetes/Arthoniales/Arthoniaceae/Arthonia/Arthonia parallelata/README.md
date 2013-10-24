@@ -1,5 +1,4 @@
-Arthonia parallelata Norman SPECIES
-=======
+# Arthonia parallelata Norman SPECIES
 
 #### Status
 ACCEPTED

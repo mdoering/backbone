@@ -1,5 +1,4 @@
-Coronodiscophrya Jankowski, 1981 GENUS
-=======
+# Coronodiscophrya Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

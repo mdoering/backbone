@@ -1,5 +1,4 @@
-Septoria salviae-pratensis Pass. SPECIES
-=======
+# Septoria salviae-pratensis Pass. SPECIES
 
 #### Status
 ACCEPTED

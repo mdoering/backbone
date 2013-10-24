@@ -1,5 +1,4 @@
-Peronospora antirrhini J. Schröt., 1874 SPECIES
-=======
+# Peronospora antirrhini J. Schröt., 1874 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria vetusta Ellis SPECIES
-=======
+# Sphaeria vetusta Ellis SPECIES
 
 #### Status
 ACCEPTED

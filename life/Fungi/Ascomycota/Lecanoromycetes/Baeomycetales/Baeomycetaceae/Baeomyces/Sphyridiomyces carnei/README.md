@@ -1,5 +1,4 @@
-Sphyridiomyces carnei E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Sphyridiomyces carnei E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

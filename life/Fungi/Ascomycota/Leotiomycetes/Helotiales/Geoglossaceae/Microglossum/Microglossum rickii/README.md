@@ -1,5 +1,4 @@
-Microglossum rickii S. Imai SPECIES
-=======
+# Microglossum rickii S. Imai SPECIES
 
 #### Status
 ACCEPTED

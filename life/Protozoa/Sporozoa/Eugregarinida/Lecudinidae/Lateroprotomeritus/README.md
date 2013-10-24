@@ -1,5 +1,4 @@
-Lateroprotomeritus Théodoridès & Desportes, 1975 GENUS
-=======
+# Lateroprotomeritus Théodoridès & Desportes, 1975 GENUS
 
 #### Status
 ACCEPTED

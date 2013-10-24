@@ -1,5 +1,4 @@
-Clautriavia Massart, 1900 GENUS
-=======
+# Clautriavia Massart, 1900 GENUS
 
 #### Status
 ACCEPTED

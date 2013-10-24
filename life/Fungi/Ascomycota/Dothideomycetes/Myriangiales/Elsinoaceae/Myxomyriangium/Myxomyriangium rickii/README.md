@@ -1,5 +1,4 @@
-Myxomyriangium rickii (Rehm) Theiss. SPECIES
-=======
+# Myxomyriangium rickii (Rehm) Theiss. SPECIES
 
 #### Status
 ACCEPTED

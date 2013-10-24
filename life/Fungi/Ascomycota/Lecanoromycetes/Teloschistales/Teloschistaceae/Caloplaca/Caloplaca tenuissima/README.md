@@ -1,5 +1,4 @@
-Caloplaca tenuissima (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca tenuissima (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

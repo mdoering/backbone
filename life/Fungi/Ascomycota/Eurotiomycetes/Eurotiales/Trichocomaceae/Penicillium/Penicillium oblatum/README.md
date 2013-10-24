@@ -1,5 +1,4 @@
-Penicillium oblatum Pitt & A.D. Hocking, 1985 SPECIES
-=======
+# Penicillium oblatum Pitt & A.D. Hocking, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella tenerrima P. Karst. SPECIES
-=======
+# Cyphella tenerrima P. Karst. SPECIES
 
 #### Status
 ACCEPTED

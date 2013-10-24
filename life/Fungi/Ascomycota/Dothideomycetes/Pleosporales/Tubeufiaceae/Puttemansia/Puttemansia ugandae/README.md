@@ -1,5 +1,4 @@
-Puttemansia ugandae Piroz. SPECIES
-=======
+# Puttemansia ugandae Piroz. SPECIES
 
 #### Status
 ACCEPTED

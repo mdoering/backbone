@@ -1,5 +1,4 @@
-Llimonaea sorediata van den Boom, M. Brand & Elix SPECIES
-=======
+# Llimonaea sorediata van den Boom, M. Brand & Elix SPECIES
 
 #### Status
 ACCEPTED

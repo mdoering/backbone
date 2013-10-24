@@ -1,5 +1,4 @@
-Streptomyces pulveraceus Shibata et al., 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces pulveraceus Shibata et al., 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

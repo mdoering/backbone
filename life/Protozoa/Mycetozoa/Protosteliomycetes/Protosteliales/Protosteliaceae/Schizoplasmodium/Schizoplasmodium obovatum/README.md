@@ -1,5 +1,4 @@
-Schizoplasmodium obovatum L.S. Olive & Stoian., 1976 SPECIES
-=======
+# Schizoplasmodium obovatum L.S. Olive & Stoian., 1976 SPECIES
 
 #### Status
 ACCEPTED

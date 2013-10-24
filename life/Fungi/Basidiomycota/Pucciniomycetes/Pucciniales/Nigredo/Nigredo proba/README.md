@@ -1,5 +1,4 @@
-Nigredo proba (Arthur) Arthur SPECIES
-=======
+# Nigredo proba (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

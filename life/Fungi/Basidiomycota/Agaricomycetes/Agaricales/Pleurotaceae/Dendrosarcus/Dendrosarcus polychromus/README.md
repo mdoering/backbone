@@ -1,5 +1,4 @@
-Dendrosarcus polychromus (Berk. & Broome) Kuntze SPECIES
-=======
+# Dendrosarcus polychromus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

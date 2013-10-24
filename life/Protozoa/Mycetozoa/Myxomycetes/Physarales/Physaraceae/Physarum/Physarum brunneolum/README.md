@@ -1,14 +1,13 @@
-Diderma brunneolum W. Phillips, 1877 SPECIES
-=======
+# Physarum brunneolum (W. Phillips) Massee, 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 5(no. 35): 114 (1877)
+Monograph of the Myxogastres (London) 280 (1892)
 
 #### Original name
 Diderma brunneolum W. Phillips, 1877

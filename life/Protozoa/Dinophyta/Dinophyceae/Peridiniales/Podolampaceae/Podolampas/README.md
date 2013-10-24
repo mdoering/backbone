@@ -1,14 +1,13 @@
-Podolampus GENUS
-=======
+# Podolampas Stein, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Org. Infus. , 3 (2), 22.
 
 #### Original name
 null

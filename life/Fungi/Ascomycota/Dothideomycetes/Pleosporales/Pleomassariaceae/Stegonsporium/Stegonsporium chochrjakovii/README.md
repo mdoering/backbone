@@ -1,5 +1,4 @@
-Stegonsporium chochrjakovii Hüseyin SPECIES
-=======
+# Stegonsporium chochrjakovii Hüseyin SPECIES
 
 #### Status
 ACCEPTED

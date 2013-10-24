@@ -1,5 +1,4 @@
-Sclerotium rufum Rostr. SPECIES
-=======
+# Sclerotium rufum Rostr. SPECIES
 
 #### Status
 ACCEPTED

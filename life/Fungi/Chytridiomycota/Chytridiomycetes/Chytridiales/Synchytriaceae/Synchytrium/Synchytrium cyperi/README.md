@@ -1,5 +1,4 @@
-Synchytrium cyperi Mundk. & Mhatre SPECIES
-=======
+# Synchytrium cyperi Mundk. & Mhatre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Piricaudilium holubovaeanum Subram. SPECIES
-=======
+# Piricaudilium holubovanum Subram. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 22/23: 66 (1996)
 
 #### Original name
-Piricaudilium holubovaeanum Subram.
+Piricaudilium holubovanum Subram.
 
 ### Remarks
 null

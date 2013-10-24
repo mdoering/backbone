@@ -1,5 +1,4 @@
-Lecidea lithophiloides Nyl. SPECIES
-=======
+# Lecidea lithophiloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

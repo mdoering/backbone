@@ -1,5 +1,4 @@
-Septoria achyranthis Scalia SPECIES
-=======
+# Septoria achyranthis Scalia SPECIES
 
 #### Status
 ACCEPTED

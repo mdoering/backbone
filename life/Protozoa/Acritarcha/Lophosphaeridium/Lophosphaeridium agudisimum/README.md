@@ -1,5 +1,4 @@
-Lophosphaeridium agudisimum Cramer & Díez, 1972 SPECIES
-=======
+# Lophosphaeridium agudisimum Cramer & Díez, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catenata antillarum (Fée) Bat. SPECIES
-=======
+# Catenata antillarum (Fée) Bat. SPECIES
 
 #### Status
 ACCEPTED

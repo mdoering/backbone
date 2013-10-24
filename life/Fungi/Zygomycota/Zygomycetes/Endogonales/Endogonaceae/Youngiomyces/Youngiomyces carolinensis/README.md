@@ -1,5 +1,4 @@
-Youngiomyces carolinensis Y.J. Yao, 1995 SPECIES
-=======
+# Youngiomyces carolinensis Y.J. Yao, 1995 SPECIES
 
 #### Status
 ACCEPTED

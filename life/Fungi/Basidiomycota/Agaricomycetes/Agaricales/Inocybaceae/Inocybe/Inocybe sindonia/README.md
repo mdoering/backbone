@@ -1,17 +1,16 @@
-Agaricus muticus Fr., 1863 SPECIES
-=======
+# Inocybe sindonia (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Hymenomyc. Suec. (Upsaliae) 2(2): 346 (1863)
+Bidr. Känn. Finl. Nat. Folk 32: 465 (1879)
 
 #### Original name
-Agaricus muticus Fr., 1863
+Agaricus sindonius Fr., 1838
 
 ### Remarks
 null

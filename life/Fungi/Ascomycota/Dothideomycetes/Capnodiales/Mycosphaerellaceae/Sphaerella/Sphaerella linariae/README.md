@@ -1,5 +1,4 @@
-Sphaerella linariae (Vestergr.) Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella linariae (Vestergr.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

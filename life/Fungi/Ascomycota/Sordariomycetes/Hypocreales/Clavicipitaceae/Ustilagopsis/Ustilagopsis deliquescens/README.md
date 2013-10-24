@@ -1,5 +1,4 @@
-Ustilagopsis deliquescens Speg. SPECIES
-=======
+# Ustilagopsis deliquescens Speg. SPECIES
 
 #### Status
 ACCEPTED

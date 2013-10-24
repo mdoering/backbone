@@ -1,5 +1,4 @@
-Caeoma germinale Schwein. SPECIES
-=======
+# Caeoma germinale Schwein. SPECIES
 
 #### Status
 ACCEPTED

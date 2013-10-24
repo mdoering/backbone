@@ -1,5 +1,4 @@
-Cristulospora aedis L.F. Khodzhaeva & I.V. Issi SPECIES
-=======
+# Cristulospora aedis L.F. Khodzhaeva & I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

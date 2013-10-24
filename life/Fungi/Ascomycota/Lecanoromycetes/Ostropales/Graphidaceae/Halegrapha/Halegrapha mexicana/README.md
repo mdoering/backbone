@@ -1,5 +1,4 @@
-Halegrapha mexicana A. B. Peña & Lücking SPECIES
-=======
+# Halegrapha mexicana A. B. Peña & Lücking SPECIES
 
 #### Status
 ACCEPTED

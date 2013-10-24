@@ -1,5 +1,4 @@
-Agaricus luteotactus Raithelh. SPECIES
-=======
+# Agaricus luteotactus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

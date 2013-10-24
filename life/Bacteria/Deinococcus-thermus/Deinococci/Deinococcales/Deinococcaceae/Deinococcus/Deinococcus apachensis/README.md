@@ -1,5 +1,4 @@
-Deinococcus apachensis Rainey & da Costa, 2005 SPECIES
-=======
+# Deinococcus apachensis Rainey & da Costa, 2005 SPECIES
 
 #### Status
 ACCEPTED

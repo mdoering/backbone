@@ -1,5 +1,4 @@
-Cochliobolus oryzae-sativae Sivan. SPECIES
-=======
+# Cochliobolus oryzae-sativae Sivan. SPECIES
 
 #### Status
 ACCEPTED

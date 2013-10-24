@@ -1,14 +1,13 @@
-Phoma australis Cooke SPECIES
-=======
+# Idiocercus australis (Cooke) H.J. Swart, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 15(no. 73): 17 (1886)
+Trans. Br. mycol. Soc. 90(2): 283 (1988)
 
 #### Original name
 Phoma australis Cooke

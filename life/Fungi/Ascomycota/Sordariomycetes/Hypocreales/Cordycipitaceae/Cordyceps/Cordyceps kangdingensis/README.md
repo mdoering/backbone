@@ -1,5 +1,4 @@
-Cordyceps kangdingensis M. Zang & Kinjo SPECIES
-=======
+# Cordyceps kangdingensis M. Zang & Kinjo SPECIES
 
 #### Status
 ACCEPTED

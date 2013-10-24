@@ -1,5 +1,4 @@
-Buellia subisabellina Zahlbr. SPECIES
-=======
+# Buellia subisabellina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

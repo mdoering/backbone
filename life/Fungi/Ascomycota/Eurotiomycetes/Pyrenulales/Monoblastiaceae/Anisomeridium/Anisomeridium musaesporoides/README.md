@@ -1,5 +1,4 @@
-Anisomeridium musaesporoides Etayo & Lücking SPECIES
-=======
+# Anisomeridium musaesporoides Etayo & Lücking SPECIES
 
 #### Status
 ACCEPTED

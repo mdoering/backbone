@@ -1,5 +1,4 @@
-Briosia platoniae Bat. & J.L. Bezerra SPECIES
-=======
+# Briosia platoniae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

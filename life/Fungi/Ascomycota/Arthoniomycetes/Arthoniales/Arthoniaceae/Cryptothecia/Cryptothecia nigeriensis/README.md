@@ -1,5 +1,4 @@
-Cryptothecia nigeriensis C.W. Dodge SPECIES
-=======
+# Cryptothecia nigeriensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

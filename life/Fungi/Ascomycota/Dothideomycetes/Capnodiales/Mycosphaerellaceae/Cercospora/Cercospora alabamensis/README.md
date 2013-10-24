@@ -1,5 +1,4 @@
-Cercospora alabamensis G.F. Atk. SPECIES
-=======
+# Cercospora alabamensis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

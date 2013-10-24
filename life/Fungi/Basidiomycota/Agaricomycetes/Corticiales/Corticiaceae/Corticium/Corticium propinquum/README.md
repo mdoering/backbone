@@ -1,5 +1,4 @@
-Corticium propinquum H.S. Jacks. & Dearden SPECIES
-=======
+# Corticium propinquum H.S. Jacks. & Dearden SPECIES
 
 #### Status
 ACCEPTED

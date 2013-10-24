@@ -1,8 +1,7 @@
-Haemogregarina rovignensis Minchin & Woodcock, 1910 SPECIES
-=======
+# Desseria rovignensis (Minchin & Woodcock, 1910) Siddall, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Nodulosphaeria submodesta (E. Müll.) L. Holm SPECIES
-=======
+# Nodulosphaeria submodesta (E. Müll.) L. Holm SPECIES
 
 #### Status
 ACCEPTED

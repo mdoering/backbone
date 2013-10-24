@@ -1,5 +1,4 @@
-Galerula parvula Murrill SPECIES
-=======
+# Galerula parvula Murrill SPECIES
 
 #### Status
 ACCEPTED

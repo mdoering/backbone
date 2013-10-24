@@ -1,5 +1,4 @@
-Hypoxylon citrinum Shear SPECIES
-=======
+# Hypoxylon citrinum Shear SPECIES
 
 #### Status
 ACCEPTED

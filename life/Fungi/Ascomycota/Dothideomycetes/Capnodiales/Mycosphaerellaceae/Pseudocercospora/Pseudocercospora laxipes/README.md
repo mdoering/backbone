@@ -1,5 +1,4 @@
-Pseudocercospora laxipes U. Braun & Crous SPECIES
-=======
+# Pseudocercospora laxipes U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

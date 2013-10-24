@@ -1,5 +1,4 @@
-Phymatosphaeria curreyoidea Theiss. SPECIES
-=======
+# Phymatosphaeria curreyoidea Theiss. SPECIES
 
 #### Status
 ACCEPTED

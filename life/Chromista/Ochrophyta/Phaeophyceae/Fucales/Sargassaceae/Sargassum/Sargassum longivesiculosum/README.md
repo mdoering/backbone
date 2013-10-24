@@ -1,5 +1,4 @@
-Sargassum longivesiculosum Tseng & Lu SPECIES
-=======
+# Sargassum longivesiculosum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

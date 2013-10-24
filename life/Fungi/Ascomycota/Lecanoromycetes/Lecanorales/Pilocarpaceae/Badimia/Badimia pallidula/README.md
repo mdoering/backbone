@@ -1,14 +1,13 @@
-Lecidea pallidula Kremp. SPECIES
-=======
+# Badimia pallidula (Kremp.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Foliic. Leg. Beccari 9 (1874)
+Folia geobot. phytotax. 21(2): 215 (1986)
 
 #### Original name
 Lecidea pallidula Kremp.

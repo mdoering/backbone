@@ -1,5 +1,4 @@
-Doassansiopsis ticonis M. Piepenbr., 1995 SPECIES
-=======
+# Doassansiopsis ticonis M. Piepenbr., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium ziziphorae Schwarzman SPECIES
-=======
+# Camarosporium ziziphorae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

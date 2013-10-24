@@ -1,5 +1,4 @@
-Stagonospora cirrata Pat. SPECIES
-=======
+# Stagonospora cirrata Pat. SPECIES
 
 #### Status
 ACCEPTED

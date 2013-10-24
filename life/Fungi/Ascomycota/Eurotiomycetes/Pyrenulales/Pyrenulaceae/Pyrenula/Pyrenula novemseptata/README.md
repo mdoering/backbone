@@ -1,5 +1,4 @@
-Pyrenula novemseptata Vain. SPECIES
-=======
+# Pyrenula novemseptata Vain. SPECIES
 
 #### Status
 ACCEPTED

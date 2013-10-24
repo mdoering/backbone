@@ -1,5 +1,4 @@
-Corynesporopsis rionensis Hol.-Jech., 1986 SPECIES
-=======
+# Corynesporopsis rionensis Hol.-Jech., 1986 SPECIES
 
 #### Status
 ACCEPTED

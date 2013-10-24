@@ -1,5 +1,4 @@
-Scythimorphina Neagu, 2003 GENUS
-=======
+# Scythimorphina Neagu, 2003 GENUS
 
 #### Status
 ACCEPTED

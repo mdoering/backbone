@@ -1,5 +1,4 @@
-Phyllosticta glycinea Tehon & E.Y. Daniels SPECIES
-=======
+# Phyllosticta glycinea Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

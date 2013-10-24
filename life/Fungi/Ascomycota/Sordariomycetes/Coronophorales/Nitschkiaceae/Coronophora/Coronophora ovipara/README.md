@@ -1,5 +1,4 @@
-Coronophora ovipara Munk SPECIES
-=======
+# Coronophora ovipara Munk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorina subcarnea Riedl SPECIES
-=======
+# Dothiorina subcarnea Riedl SPECIES
 
 #### Status
 ACCEPTED

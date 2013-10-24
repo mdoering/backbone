@@ -1,5 +1,4 @@
-Thelotrema petractoides P.M. Jørg. & Brodo SPECIES
-=======
+# Thelotrema petractoides P.M. Jørg. & Brodo SPECIES
 
 #### Status
 ACCEPTED

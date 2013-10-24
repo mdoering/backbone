@@ -1,5 +1,4 @@
-Cucurbitaria ellisii Sacc. & P. Syd. SPECIES
-=======
+# Cucurbitaria ellisii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

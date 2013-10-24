@@ -1,5 +1,4 @@
-Sacculidium eisenackii Ribecai, Raevskaya & Tongiorgi, 2002 SPECIES
-=======
+# Sacculidium eisenackii Ribecai, Raevskaya & Tongiorgi, 2002 SPECIES
 
 #### Status
 ACCEPTED

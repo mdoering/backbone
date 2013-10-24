@@ -1,5 +1,4 @@
-Pseudocercospora ghanensis Deighton SPECIES
-=======
+# Pseudocercospora ghanensis Deighton SPECIES
 
 #### Status
 ACCEPTED

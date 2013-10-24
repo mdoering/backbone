@@ -1,5 +1,4 @@
-Leptoporellus Spirin, 2001 GENUS
-=======
+# Leptoporellus Spirin, 2001 GENUS
 
 #### Status
 ACCEPTED

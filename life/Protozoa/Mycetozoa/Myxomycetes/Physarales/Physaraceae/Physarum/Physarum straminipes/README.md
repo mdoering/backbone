@@ -1,5 +1,4 @@
-Physarum straminipes Lister, 1898 SPECIES
-=======
+# Physarum straminipes Lister, 1898 SPECIES
 
 #### Status
 ACCEPTED

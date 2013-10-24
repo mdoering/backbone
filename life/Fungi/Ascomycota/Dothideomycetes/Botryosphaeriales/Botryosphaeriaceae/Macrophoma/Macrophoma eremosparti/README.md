@@ -1,5 +1,4 @@
-Macrophoma eremosparti Golovin SPECIES
-=======
+# Macrophoma eremosparti Golovin SPECIES
 
 #### Status
 ACCEPTED

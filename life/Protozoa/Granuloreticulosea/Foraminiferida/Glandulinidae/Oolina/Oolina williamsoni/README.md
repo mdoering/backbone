@@ -1,5 +1,4 @@
-Oolina williamsoni SPECIES
-=======
+# Oolina williamsoni SPECIES
 
 #### Status
 ACCEPTED

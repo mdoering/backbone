@@ -1,5 +1,4 @@
-Dorcadospyris Haeckel, 1881 GENUS
-=======
+# Dorcadospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

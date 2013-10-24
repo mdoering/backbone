@@ -1,5 +1,4 @@
-Alectoria orientalis (Gyeln.) D.D. Awasthi SPECIES
-=======
+# Alectoria orientalis (Gyeln.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

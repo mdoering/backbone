@@ -1,5 +1,4 @@
-Linocarpon manihotis (Syd.) Petr. SPECIES
-=======
+# Linocarpon manihotis (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

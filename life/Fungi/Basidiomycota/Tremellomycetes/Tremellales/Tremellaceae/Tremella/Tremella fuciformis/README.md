@@ -1,17 +1,16 @@
-Tremella fuciformis f. fuciformis Berk. FORM
-=======
+# Tremella fuciformis Berk., 1856 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hooker's J. Bot. 8: 277 (1856)
 
 #### Original name
-Tremella fuciformis f. fuciformis Berk.
+Tremella fuciformis Berk., 1856
 
 ### Remarks
 null

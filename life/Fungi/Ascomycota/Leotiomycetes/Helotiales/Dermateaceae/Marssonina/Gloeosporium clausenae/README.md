@@ -1,5 +1,4 @@
-Gloeosporium clausenae F. Patt. SPECIES
-=======
+# Gloeosporium clausenae F. Patt. SPECIES
 
 #### Status
 ACCEPTED

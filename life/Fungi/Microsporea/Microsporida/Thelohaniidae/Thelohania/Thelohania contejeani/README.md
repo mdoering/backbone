@@ -1,5 +1,4 @@
-Thelohania contejeani Henneg., 1892 SPECIES
-=======
+# Thelohania contejeani Henneg., 1892 SPECIES
 
 #### Status
 ACCEPTED

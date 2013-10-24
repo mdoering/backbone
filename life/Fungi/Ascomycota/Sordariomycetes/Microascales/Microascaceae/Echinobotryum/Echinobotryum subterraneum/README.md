@@ -1,5 +1,4 @@
-Echinobotryum subterraneum Raillo SPECIES
-=======
+# Echinobotryum subterraneum Raillo SPECIES
 
 #### Status
 ACCEPTED

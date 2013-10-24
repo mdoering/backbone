@@ -1,5 +1,4 @@
-Naucoria dasypus Romagn. SPECIES
-=======
+# Naucoria dasypus Romagn. SPECIES
 
 #### Status
 ACCEPTED

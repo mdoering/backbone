@@ -1,5 +1,4 @@
-Vaginicola ingenita Sahrhage, ? SPECIES
-=======
+# Vaginicola ingenita Sahrhage, ? SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta guttulatae Halst. SPECIES
-=======
+# Phyllosticta guttulatae Halst. SPECIES
 
 #### Status
 ACCEPTED

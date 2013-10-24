@@ -1,14 +1,13 @@
-Bilimbia subturgidula (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia subturgidula (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 53: 473 (1870)
+Cat. Lich. Univers. 4: 154 (1926)
 
 #### Original name
 Lecidea subturgidula Nyl.

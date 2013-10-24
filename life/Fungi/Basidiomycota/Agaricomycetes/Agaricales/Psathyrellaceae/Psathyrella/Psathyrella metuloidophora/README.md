@@ -1,5 +1,4 @@
-Psathyrella metuloidophora Singer SPECIES
-=======
+# Psathyrella metuloidophora Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synaphia Nees & T. Nees ex Reichenbach, 1841 GENUS
-=======
+# Synaphia Nees & T. Nees ex Reichenbach, 1841 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporina adusta (Heald & F.A. Wolf) Sacc. SPECIES
-=======
+# Cercosporina adusta (Heald & F.A. Wolf) Sacc. SPECIES
 
 #### Status
 ACCEPTED

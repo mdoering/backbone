@@ -1,5 +1,4 @@
-Tylophoron gibsonii Tibell SPECIES
-=======
+# Tylophoron gibsonii Tibell SPECIES
 
 #### Status
 ACCEPTED

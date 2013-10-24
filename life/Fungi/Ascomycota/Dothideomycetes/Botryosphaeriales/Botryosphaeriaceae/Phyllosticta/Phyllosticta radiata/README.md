@@ -1,5 +1,4 @@
-Phyllosticta radiata (Preuss) Allesch. SPECIES
-=======
+# Phyllosticta radiata (Preuss) Allesch. SPECIES
 
 #### Status
 ACCEPTED

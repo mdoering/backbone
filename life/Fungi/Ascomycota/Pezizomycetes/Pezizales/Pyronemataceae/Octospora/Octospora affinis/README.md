@@ -1,5 +1,4 @@
-Octospora affinis Benkert & L.G. Krieglst. SPECIES
-=======
+# Octospora affinis Benkert & L.G. Krieglst. SPECIES
 
 #### Status
 ACCEPTED

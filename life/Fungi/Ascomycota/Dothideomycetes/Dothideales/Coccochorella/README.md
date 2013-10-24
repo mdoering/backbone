@@ -1,5 +1,4 @@
-Coccochorella GENUS
-=======
+# Coccochorella GENUS
 
 #### Status
 ACCEPTED

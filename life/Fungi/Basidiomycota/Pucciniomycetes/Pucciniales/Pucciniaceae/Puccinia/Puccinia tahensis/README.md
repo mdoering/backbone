@@ -1,5 +1,4 @@
-Puccinia tahensis Tranzschel SPECIES
-=======
+# Puccinia tahensis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

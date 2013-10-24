@@ -1,5 +1,4 @@
-Macmillanina lunulata (Bäumler) Kuntze SPECIES
-=======
+# Macmillanina lunulata (Bäumler) Kuntze SPECIES
 
 #### Status
 ACCEPTED

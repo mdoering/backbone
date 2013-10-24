@@ -1,5 +1,4 @@
-Amanita sinocitrina Zhu L. Yang, Zuo H. Chen & Z.G. Zhang SPECIES
-=======
+# Amanita sinocitrina Zhu L. Yang, Zuo H. Chen & Z.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

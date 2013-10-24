@@ -1,5 +1,4 @@
-Phaeocollybia tasmanica B.J. Rees & A.E. Wood SPECIES
-=======
+# Phaeocollybia tasmanica B.J. Rees & A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

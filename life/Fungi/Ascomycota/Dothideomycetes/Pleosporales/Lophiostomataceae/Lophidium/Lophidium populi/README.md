@@ -1,5 +1,4 @@
-Lophidium populi Fabre SPECIES
-=======
+# Lophidium populi Fabre SPECIES
 
 #### Status
 ACCEPTED

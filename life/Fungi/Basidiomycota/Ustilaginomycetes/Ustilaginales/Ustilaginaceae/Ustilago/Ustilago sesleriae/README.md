@@ -1,5 +1,4 @@
-Ustilago sesleriae (Juel) Vienn.-Bourg. SPECIES
-=======
+# Ustilago sesleriae (Juel) Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

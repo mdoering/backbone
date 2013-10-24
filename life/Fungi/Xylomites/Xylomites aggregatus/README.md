@@ -1,5 +1,4 @@
-Xylomites aggregatus Heer SPECIES
-=======
+# Xylomites aggregatus Heer SPECIES
 
 #### Status
 ACCEPTED

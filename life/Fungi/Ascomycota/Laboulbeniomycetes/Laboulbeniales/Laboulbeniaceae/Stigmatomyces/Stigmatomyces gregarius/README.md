@@ -1,5 +1,4 @@
-Stigmatomyces gregarius W. Rossi SPECIES
-=======
+# Stigmatomyces gregarius W. Rossi SPECIES
 
 #### Status
 ACCEPTED

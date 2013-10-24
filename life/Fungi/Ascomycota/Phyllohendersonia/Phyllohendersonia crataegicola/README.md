@@ -1,5 +1,4 @@
-Phyllohendersonia crataegicola (G.F. Atk.) Tassi SPECIES
-=======
+# Phyllohendersonia crataegicola (G.F. Atk.) Tassi SPECIES
 
 #### Status
 ACCEPTED

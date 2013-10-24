@@ -1,5 +1,4 @@
-Gurleyi Doflein, 1898 GENUS
-=======
+# Gurleyi Doflein, 1898 GENUS
 
 #### Status
 ACCEPTED

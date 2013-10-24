@@ -1,5 +1,4 @@
-Clasterosporium maculans (Corda) Sacc. SPECIES
-=======
+# Clasterosporium maculans (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

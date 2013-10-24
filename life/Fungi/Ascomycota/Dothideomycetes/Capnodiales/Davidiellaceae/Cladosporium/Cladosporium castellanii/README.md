@@ -1,5 +1,4 @@
-Cladosporium castellanii Borelli & Marcano SPECIES
-=======
+# Cladosporium castellanii Borelli & Marcano SPECIES
 
 #### Status
 ACCEPTED

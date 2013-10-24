@@ -1,17 +1,16 @@
-Geastrum umbilicatus var. smithii (Lloyd) W.G. Sm. VARIETY
-=======
+# Geastrum umbilicatus Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Brit. Basidiomyc. 469 (1908)
+Syst. mycol. (Lundae) 3(1): 14 (1829)
 
 #### Original name
-Geastrum smithii Lloyd
+Geastrum umbilicatus Fr., 1829
 
 ### Remarks
 null

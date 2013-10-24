@@ -1,5 +1,4 @@
-Hendersonia saponariae Staritz SPECIES
-=======
+# Hendersonia saponariae Staritz SPECIES
 
 #### Status
 ACCEPTED

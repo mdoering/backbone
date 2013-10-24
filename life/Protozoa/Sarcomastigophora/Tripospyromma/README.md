@@ -1,5 +1,4 @@
-Tripospyromma Haeckel, 1887 GENUS
-=======
+# Tripospyromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

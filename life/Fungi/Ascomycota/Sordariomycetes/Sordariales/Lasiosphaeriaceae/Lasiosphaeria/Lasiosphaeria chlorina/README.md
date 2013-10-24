@@ -1,5 +1,4 @@
-Lasiosphaeria chlorina Rehm SPECIES
-=======
+# Lasiosphaeria chlorina Rehm SPECIES
 
 #### Status
 ACCEPTED

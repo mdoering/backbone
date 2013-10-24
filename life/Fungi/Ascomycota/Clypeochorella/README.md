@@ -1,5 +1,4 @@
-Clypeochorella Petr. GENUS
-=======
+# Clypeochorella Petr. GENUS
 
 #### Status
 ACCEPTED

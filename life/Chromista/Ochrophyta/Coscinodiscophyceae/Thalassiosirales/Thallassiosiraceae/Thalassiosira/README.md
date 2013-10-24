@@ -1,5 +1,4 @@
-Thalassiosira P. T. Cleve GENUS
-=======
+# Thalassiosira P. T. Cleve GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agrocybe bokotensis (Beeli) Watling SPECIES
-=======
+# Agrocybe bokotensis (Beeli) Watling SPECIES
 
 #### Status
 ACCEPTED

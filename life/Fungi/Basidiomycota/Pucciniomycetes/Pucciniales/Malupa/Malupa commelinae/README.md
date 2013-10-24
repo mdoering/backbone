@@ -1,5 +1,4 @@
-Malupa commelinae (Kalchbr.) Buriticá & J.F. Hennen SPECIES
-=======
+# Malupa commelinae (Kalchbr.) Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

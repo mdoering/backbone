@@ -1,5 +1,4 @@
-Pezizella frigida Velen. SPECIES
-=======
+# Pezizella frigida Velen. SPECIES
 
 #### Status
 ACCEPTED

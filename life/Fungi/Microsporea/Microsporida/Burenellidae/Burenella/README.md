@@ -1,5 +1,4 @@
-Burenella Jouvenaz & E.I. Hazard GENUS
-=======
+# Burenella Jouvenaz & E.I. Hazard GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptorhaphis confertior Norman SPECIES
-=======
+# Leptorhaphis confertior Norman SPECIES
 
 #### Status
 ACCEPTED

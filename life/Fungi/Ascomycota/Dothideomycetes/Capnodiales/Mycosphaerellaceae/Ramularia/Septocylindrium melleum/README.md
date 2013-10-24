@@ -1,5 +1,4 @@
-Septocylindrium melleum Bayl. Ell. SPECIES
-=======
+# Septocylindrium melleum Bayl. Ell. SPECIES
 
 #### Status
 ACCEPTED

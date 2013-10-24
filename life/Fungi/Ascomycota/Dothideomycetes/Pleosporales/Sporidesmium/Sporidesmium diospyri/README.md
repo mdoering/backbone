@@ -1,5 +1,4 @@
-Sporidesmium diospyri Karan SPECIES
-=======
+# Sporidesmium diospyri Karan SPECIES
 
 #### Status
 ACCEPTED

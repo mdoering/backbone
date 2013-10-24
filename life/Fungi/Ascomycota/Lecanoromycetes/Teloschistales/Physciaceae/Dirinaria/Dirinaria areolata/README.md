@@ -1,5 +1,4 @@
-Dirinaria areolata (Vain.) C.W. Dodge SPECIES
-=======
+# Dirinaria areolata (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

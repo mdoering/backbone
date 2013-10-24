@@ -1,5 +1,4 @@
-Monostichella tetrastigmatis Keissl. SPECIES
-=======
+# Monostichella tetrastigmatis Keissl. SPECIES
 
 #### Status
 ACCEPTED

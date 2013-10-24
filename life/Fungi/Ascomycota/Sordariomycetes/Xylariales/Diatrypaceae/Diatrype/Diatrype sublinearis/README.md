@@ -1,5 +1,4 @@
-Diatrype sublinearis Rehm SPECIES
-=======
+# Diatrype sublinearis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius anauensis Soop, 2001 SPECIES
-=======
+# Cortinarius anauensis Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

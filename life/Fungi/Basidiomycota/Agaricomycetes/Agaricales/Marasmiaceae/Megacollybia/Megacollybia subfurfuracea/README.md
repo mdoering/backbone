@@ -1,5 +1,4 @@
-Megacollybia subfurfuracea R.H. Petersen SPECIES
-=======
+# Megacollybia subfurfuracea R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

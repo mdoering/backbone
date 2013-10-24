@@ -1,5 +1,4 @@
-Puccinia crucheti Hasler SPECIES
-=======
+# Puccinia crucheti Hasler SPECIES
 
 #### Status
 ACCEPTED

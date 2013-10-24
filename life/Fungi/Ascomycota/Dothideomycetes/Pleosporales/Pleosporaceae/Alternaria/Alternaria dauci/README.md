@@ -1,17 +1,16 @@
-Alternaria dauci f. sp FORM
-=======
+# Alternaria dauci (J.G. Kühn) J.W. Groves & Skolko, 1944 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Le Genre Alternaria (Encycl. Mycol. ) 189 (1964)
+Canadian Journal of Research, Section C 22: 222 (1944)
 
 #### Original name
-Alternaria dauci f. sp
+Polydesmus exitiosus var. dauci J.G. Kühn, 1855
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichomerium abhorrens Bat. SPECIES
-=======
+# Trichomerium abhorrens Bat. SPECIES
 
 #### Status
 ACCEPTED

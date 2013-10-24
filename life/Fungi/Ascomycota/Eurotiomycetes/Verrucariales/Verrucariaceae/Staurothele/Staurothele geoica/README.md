@@ -1,5 +1,4 @@
-Staurothele geoica Zschacke SPECIES
-=======
+# Staurothele geoica Zschacke SPECIES
 
 #### Status
 ACCEPTED

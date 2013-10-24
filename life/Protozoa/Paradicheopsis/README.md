@@ -1,5 +1,4 @@
-Paradicheopsis GENUS
-=======
+# Paradicheopsis GENUS
 
 #### Status
 ACCEPTED

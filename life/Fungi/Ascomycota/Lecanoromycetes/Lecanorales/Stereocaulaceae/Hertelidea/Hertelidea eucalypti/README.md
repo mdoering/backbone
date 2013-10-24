@@ -1,5 +1,4 @@
-Hertelidea eucalypti Kantvilas & Printzen SPECIES
-=======
+# Hertelidea eucalypti Kantvilas & Printzen SPECIES
 
 #### Status
 ACCEPTED

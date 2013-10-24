@@ -1,5 +1,4 @@
-Sorosporium chardonianum Zundel SPECIES
-=======
+# Sorosporium chardonianum Zundel SPECIES
 
 #### Status
 ACCEPTED

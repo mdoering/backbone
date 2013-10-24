@@ -1,17 +1,16 @@
-Hendersonia evonymea Fautrey & Rolland SPECIES
-=======
+# Hendersonia euonymea Fautrey & Rolland SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 14: 171 (1892)
 
 #### Original name
-Hendersonia evonymea Fautrey & Rolland
+Hendersonia euonymea Fautrey & Rolland
 
 ### Remarks
 null

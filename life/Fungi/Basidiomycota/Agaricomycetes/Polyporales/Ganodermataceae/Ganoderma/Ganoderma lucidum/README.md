@@ -1,17 +1,16 @@
-Ganoderma ostreatum var. ostreatum VARIETY
-=======
+# Ganoderma lucidum (Curtis) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 110 (1916)
+Revue mycol. , Toulouse 3(9): 17 (1881)
 
 #### Original name
-Ganoderma ostreatum var. ostreatum
+Boletus lucidus Curtis, 1781
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Endomycopsis hordei Saito SPECIES
-=======
+# Endomycopsis hordei Saito SPECIES
 
 #### Status
 ACCEPTED

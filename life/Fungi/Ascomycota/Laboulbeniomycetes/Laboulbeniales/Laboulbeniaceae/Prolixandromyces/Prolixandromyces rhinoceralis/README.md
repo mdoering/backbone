@@ -1,5 +1,4 @@
-Prolixandromyces rhinoceralis R.K. Benj., 1981 SPECIES
-=======
+# Prolixandromyces rhinoceralis R.K. Benj., 1981 SPECIES
 
 #### Status
 ACCEPTED

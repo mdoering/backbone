@@ -1,5 +1,4 @@
-Epidochium nigricans Fr. SPECIES
-=======
+# Epidochium nigricans Fr. SPECIES
 
 #### Status
 ACCEPTED

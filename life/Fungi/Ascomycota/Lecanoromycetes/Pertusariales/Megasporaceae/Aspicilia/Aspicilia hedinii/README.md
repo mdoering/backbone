@@ -1,5 +1,4 @@
-Aspicilia hedinii f. hedinii FORM
-=======
+# Aspicilia hedinii (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 9: 288 (1972)
 
 #### Original name
-Aspicilia hedinii f. hedinii
+Lecanora hedinii H. Magn.
 
 ### Remarks
 null

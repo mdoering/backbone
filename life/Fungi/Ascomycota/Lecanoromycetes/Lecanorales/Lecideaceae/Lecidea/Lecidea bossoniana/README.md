@@ -1,5 +1,4 @@
-Lecidea bossoniana Crozals SPECIES
-=======
+# Lecidea bossoniana Crozals SPECIES
 
 #### Status
 ACCEPTED

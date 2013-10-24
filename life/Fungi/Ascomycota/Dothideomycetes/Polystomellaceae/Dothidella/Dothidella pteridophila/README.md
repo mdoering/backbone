@@ -1,5 +1,4 @@
-Dothidella pteridophila Speg. SPECIES
-=======
+# Dothidella pteridophila Speg. SPECIES
 
 #### Status
 ACCEPTED

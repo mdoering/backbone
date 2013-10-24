@@ -1,5 +1,4 @@
-Verrucaria microsphaeroidalis Zschacke SPECIES
-=======
+# Verrucaria microsphaeroidalis Zschacke SPECIES
 
 #### Status
 ACCEPTED

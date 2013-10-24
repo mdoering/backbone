@@ -1,5 +1,4 @@
-Macrophoma pegani S. Ahmad SPECIES
-=======
+# Macrophoma pegani S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

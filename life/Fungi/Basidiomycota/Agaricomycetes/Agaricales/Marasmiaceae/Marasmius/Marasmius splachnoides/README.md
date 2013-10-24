@@ -1,17 +1,16 @@
-Agaricus perforans splachnoides (Hornem.) Pers., 1828 INFRASPECIFIC_NAME
-=======
+# Marasmius splachnoides (Hornem.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 384 (1838)
 
 #### Original name
-null
+Agaricus splachnoides Hornem., 1819
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus pogonatus Kalchbr. SPECIES
-=======
+# Agaricus pogonatus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

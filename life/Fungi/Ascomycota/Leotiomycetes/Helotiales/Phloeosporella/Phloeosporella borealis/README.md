@@ -1,5 +1,4 @@
-Phloeosporella borealis (Lind & Vleugel) Constant. SPECIES
-=======
+# Phloeosporella borealis (Lind & Vleugel) Constant. SPECIES
 
 #### Status
 ACCEPTED

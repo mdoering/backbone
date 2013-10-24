@@ -1,14 +1,13 @@
-Coleodesmiopsis Dutt, Datta & Gupta, 1982 GENUS
-=======
+# Coleodesmium Borzì ex Geitler, 1942 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Algol. 3: 180.
+In Engler & Prantl, Nat. Pflanzenfam. , 2. Ed. , 1b: 154.
 
 #### Original name
 null

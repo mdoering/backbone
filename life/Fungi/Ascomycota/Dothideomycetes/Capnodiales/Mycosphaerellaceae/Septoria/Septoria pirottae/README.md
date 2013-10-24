@@ -1,5 +1,4 @@
-Septoria pirottae Tassi SPECIES
-=======
+# Septoria pirottae Tassi SPECIES
 
 #### Status
 ACCEPTED

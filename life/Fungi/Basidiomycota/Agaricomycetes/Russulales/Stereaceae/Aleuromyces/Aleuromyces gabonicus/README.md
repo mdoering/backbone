@@ -1,5 +1,4 @@
-Aleuromyces gabonicus (Boidin, Lanq. & Gilles) Boidin & Gilles, 2002 SPECIES
-=======
+# Aleuromyces gabonicus (Boidin, Lanq. & Gilles) Boidin & Gilles, 2002 SPECIES
 
 #### Status
 ACCEPTED

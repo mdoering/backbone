@@ -1,5 +1,4 @@
-Inocybe atroumbonata Hongo SPECIES
-=======
+# Inocybe atroumbonata Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Didymium melanospermum var. minus (Lister) G. Lister VARIETY
-=======
+# Didymium minus (Lister) Morgan, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London) 97 (1894)
+J. Cincinnati Soc. Nat. Hist. 16: 145 (1894)
 
 #### Original name
-Didymium farinaceum var. minus (Lister)
+Didymium melanospermum var. minus (Lister) G. Lister
 
 ### Remarks
 null

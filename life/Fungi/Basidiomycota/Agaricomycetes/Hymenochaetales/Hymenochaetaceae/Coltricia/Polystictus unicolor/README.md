@@ -1,5 +1,4 @@
-Polystictus unicolor Rick SPECIES
-=======
+# Polystictus unicolor Rick SPECIES
 
 #### Status
 ACCEPTED

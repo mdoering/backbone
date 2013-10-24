@@ -1,5 +1,4 @@
-Lophiostoma auctum Sacc. SPECIES
-=======
+# Lophiostoma auctum Sacc. SPECIES
 
 #### Status
 ACCEPTED

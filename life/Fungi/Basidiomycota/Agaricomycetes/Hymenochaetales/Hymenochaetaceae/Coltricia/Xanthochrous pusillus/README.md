@@ -1,5 +1,4 @@
-Xanthochrous pusillus (Ellis & Galloway) Pat. SPECIES
-=======
+# Xanthochrous pusillus (Ellis & Galloway) Pat. SPECIES
 
 #### Status
 ACCEPTED

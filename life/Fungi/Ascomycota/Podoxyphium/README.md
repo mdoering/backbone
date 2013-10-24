@@ -1,5 +1,4 @@
-Podoxyphium GENUS
-=======
+# Podoxyphium GENUS
 
 #### Status
 ACCEPTED

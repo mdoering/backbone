@@ -1,5 +1,4 @@
-Aspicilia nashii Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia nashii Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

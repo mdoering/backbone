@@ -1,17 +1,16 @@
-Verticillium primarius Rudakov SPECIES
-=======
+# Verticillium primarium Rudakov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sborn. Rab. Mikol. Al'gol. [Collection of works on mycology and algology], Frunze 18 (1963)
 
 #### Original name
-Verticillium primarius Rudakov
+Verticillium primarium Rudakov
 
 ### Remarks
 null

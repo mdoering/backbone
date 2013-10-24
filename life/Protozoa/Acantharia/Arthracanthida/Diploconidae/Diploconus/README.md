@@ -1,5 +1,4 @@
-Diploconus Haeckel, 1860 GENUS
-=======
+# Diploconus Haeckel, 1860 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus ventricosolamellata Britzelm. SPECIES
-=======
+# Agaricus ventricosolamellata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

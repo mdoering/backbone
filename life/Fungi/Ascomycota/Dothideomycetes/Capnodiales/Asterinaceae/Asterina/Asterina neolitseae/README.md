@@ -1,5 +1,4 @@
-Asterina neolitseae H.S. Yates SPECIES
-=======
+# Asterina neolitseae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

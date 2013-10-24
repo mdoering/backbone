@@ -1,5 +1,4 @@
-Zythia coeruleoatra Höhn. SPECIES
-=======
+# Zythia coeruleoatra Höhn. SPECIES
 
 #### Status
 ACCEPTED

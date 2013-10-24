@@ -1,5 +1,4 @@
-Tephrosticta ficina Syd. & P. Syd. SPECIES
-=======
+# Tephrosticta ficina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

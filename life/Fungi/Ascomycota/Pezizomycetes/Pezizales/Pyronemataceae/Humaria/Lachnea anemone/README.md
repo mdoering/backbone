@@ -1,5 +1,4 @@
-Lachnea anemone (Quél.) Sacc. SPECIES
-=======
+# Lachnea anemone (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

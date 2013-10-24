@@ -1,5 +1,4 @@
-Tricholoma fucatum var. fucatum VARIETY
-=======
+# Tricholoma fucatum (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Führ. Pilzk. (Zwickau) 130 (1871)
 
 #### Original name
-Tricholoma fucatum var. fucatum
+Agaricus fucatus Fr.
 
 ### Remarks
 null

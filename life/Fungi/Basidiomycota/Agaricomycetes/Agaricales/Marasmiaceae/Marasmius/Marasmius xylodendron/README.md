@@ -1,5 +1,4 @@
-Marasmius xylodendron Singer SPECIES
-=======
+# Marasmius xylodendron Singer SPECIES
 
 #### Status
 ACCEPTED

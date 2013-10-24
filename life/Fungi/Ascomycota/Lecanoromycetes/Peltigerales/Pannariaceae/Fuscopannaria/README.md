@@ -1,5 +1,4 @@
-Fuscopannaria P.M. Jørg. GENUS
-=======
+# Fuscopannaria P.M. Jørg. GENUS
 
 #### Status
 ACCEPTED

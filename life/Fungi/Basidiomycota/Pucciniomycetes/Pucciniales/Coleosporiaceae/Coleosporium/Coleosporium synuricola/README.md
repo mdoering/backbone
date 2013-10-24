@@ -1,5 +1,4 @@
-Coleosporium synuricola Y. Xue & L.P. Shao SPECIES
-=======
+# Coleosporium synuricola Y. Xue & L.P. Shao SPECIES
 
 #### Status
 ACCEPTED

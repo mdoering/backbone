@@ -1,14 +1,13 @@
-Tricholoma shimeji Kawam., 1915 SPECIES
-=======
+# Lyophyllum shimeji (Kawam.) Hongo, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 12(2): 90 (1971)
 
 #### Original name
 Tricholoma shimeji Kawam., 1915

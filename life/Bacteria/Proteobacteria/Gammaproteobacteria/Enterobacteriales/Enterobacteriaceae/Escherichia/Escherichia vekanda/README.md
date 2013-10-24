@@ -1,5 +1,4 @@
-Escherichia vekanda SPECIES
-=======
+# Escherichia vekanda SPECIES
 
 #### Status
 ACCEPTED

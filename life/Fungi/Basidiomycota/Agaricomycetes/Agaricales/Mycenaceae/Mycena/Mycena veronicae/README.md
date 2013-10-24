@@ -1,5 +1,4 @@
-Mycena veronicae Raithelh. SPECIES
-=======
+# Mycena veronicae Raithelh. SPECIES
 
 #### Status
 ACCEPTED

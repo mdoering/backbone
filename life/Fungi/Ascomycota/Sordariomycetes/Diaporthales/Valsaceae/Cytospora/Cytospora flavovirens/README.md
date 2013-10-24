@@ -1,5 +1,4 @@
-Cytospora flavovirens Sacc. SPECIES
-=======
+# Cytospora flavovirens Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella gypsophilicola (Hollós) Petr. SPECIES
-=======
+# Mycosphaerella gypsophilicola (Hollós) Petr. SPECIES
 
 #### Status
 ACCEPTED

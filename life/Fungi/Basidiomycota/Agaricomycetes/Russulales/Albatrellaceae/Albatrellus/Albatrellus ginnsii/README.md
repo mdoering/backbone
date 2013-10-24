@@ -1,5 +1,4 @@
-Albatrellus ginnsii A.B. De SPECIES
-=======
+# Albatrellus ginnsii A.B. De SPECIES
 
 #### Status
 ACCEPTED

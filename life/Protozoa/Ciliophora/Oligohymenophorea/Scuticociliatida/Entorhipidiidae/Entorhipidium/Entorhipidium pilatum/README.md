@@ -1,5 +1,4 @@
-Entorhipidium pilatum Lynch, 1929 SPECIES
-=======
+# Entorhipidium pilatum Lynch, 1929 SPECIES
 
 #### Status
 ACCEPTED

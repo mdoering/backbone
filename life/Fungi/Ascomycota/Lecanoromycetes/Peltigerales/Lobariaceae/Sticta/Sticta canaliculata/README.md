@@ -1,5 +1,4 @@
-Sticta canaliculata C. Knight SPECIES
-=======
+# Sticta canaliculata C. Knight SPECIES
 
 #### Status
 ACCEPTED

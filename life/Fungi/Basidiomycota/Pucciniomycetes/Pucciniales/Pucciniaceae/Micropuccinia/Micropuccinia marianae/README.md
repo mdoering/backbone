@@ -1,5 +1,4 @@
-Micropuccinia marianae (Syd. & P. Syd.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia marianae (Syd. & P. Syd.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

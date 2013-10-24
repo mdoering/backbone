@@ -1,5 +1,4 @@
-Ascospora longi Fiori SPECIES
-=======
+# Ascospora longi Fiori SPECIES
 
 #### Status
 ACCEPTED

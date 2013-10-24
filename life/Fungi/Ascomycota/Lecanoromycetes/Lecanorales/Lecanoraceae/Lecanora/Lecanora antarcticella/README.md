@@ -1,5 +1,4 @@
-Lecanora antarcticella Zahlbr. SPECIES
-=======
+# Lecanora antarcticella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

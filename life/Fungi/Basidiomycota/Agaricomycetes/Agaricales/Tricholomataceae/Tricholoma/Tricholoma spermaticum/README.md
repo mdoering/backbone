@@ -1,5 +1,4 @@
-Tricholoma spermaticum (Fr.) Gillet SPECIES
-=======
+# Tricholoma spermaticum (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium inouyei Henn. SPECIES
-=======
+# Aecidium inouyei Henn. SPECIES
 
 #### Status
 ACCEPTED

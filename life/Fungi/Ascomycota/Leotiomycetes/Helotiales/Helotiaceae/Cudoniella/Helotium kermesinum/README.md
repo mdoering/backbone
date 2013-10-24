@@ -1,5 +1,4 @@
-Helotium kermesinum Fr. SPECIES
-=======
+# Helotium kermesinum Fr. SPECIES
 
 #### Status
 ACCEPTED

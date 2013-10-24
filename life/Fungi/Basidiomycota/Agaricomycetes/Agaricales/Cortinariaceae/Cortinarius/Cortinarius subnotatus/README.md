@@ -1,5 +1,4 @@
-Cortinarius subnotatus (Pers.) Fr. SPECIES
-=======
+# Cortinarius subnotatus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

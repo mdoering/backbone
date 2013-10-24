@@ -1,5 +1,4 @@
-Gonytrichum rubrum Pat. SPECIES
-=======
+# Gonytrichum rubrum Pat. SPECIES
 
 #### Status
 ACCEPTED

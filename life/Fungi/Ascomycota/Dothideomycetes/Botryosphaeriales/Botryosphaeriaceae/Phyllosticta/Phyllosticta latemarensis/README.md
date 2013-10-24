@@ -1,5 +1,4 @@
-Phyllosticta latemarensis Kabát & Bubák SPECIES
-=======
+# Phyllosticta latemarensis Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

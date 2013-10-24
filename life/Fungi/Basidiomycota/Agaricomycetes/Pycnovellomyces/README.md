@@ -1,5 +1,4 @@
-Pycnovellomyces R.F. Castañeda GENUS
-=======
+# Pycnovellomyces R.F. Castañeda GENUS
 
 #### Status
 ACCEPTED

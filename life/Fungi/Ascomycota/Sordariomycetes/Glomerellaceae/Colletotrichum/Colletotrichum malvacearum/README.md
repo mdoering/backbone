@@ -1,5 +1,4 @@
-Colletotrichum malvacearum Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum malvacearum Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

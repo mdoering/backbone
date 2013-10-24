@@ -1,5 +1,4 @@
-Barlaea hyalina Velen. SPECIES
-=======
+# Barlaea hyalina Velen. SPECIES
 
 #### Status
 ACCEPTED

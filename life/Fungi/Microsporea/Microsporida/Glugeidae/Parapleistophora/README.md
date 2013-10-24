@@ -1,5 +1,4 @@
-Parapleistophora I.V. Issi, Kadyrova, Pushkar, Khodzhaeva & S.V. Krylova GENUS
-=======
+# Parapleistophora I.V. Issi, Kadyrova, Pushkar, Khodzhaeva & S.V. Krylova GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypanosoma triglae Neumann, 1909 SPECIES
-=======
+# Trypanosoma triglae Neumann, 1909 SPECIES
 
 #### Status
 ACCEPTED

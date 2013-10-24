@@ -1,5 +1,4 @@
-Cyanisticta capensis C.W. Dodge SPECIES
-=======
+# Cyanisticta capensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

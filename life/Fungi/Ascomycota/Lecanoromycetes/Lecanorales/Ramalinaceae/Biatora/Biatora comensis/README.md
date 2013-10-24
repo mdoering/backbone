@@ -1,5 +1,4 @@
-Biatora comensis (Anzi) Jatta SPECIES
-=======
+# Biatora comensis (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

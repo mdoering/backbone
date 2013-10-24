@@ -1,5 +1,4 @@
-Jansia truncata McAlpine SPECIES
-=======
+# Jansia truncata McAlpine SPECIES
 
 #### Status
 ACCEPTED

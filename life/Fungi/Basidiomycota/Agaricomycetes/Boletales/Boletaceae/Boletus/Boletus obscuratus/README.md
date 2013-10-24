@@ -1,17 +1,16 @@
-Boletus cembrae var. obscuratus Singer VARIETY
-=======
+# Boletus obscuratus (Singer) J. Blum, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 85: 48 (1969)
 
 #### Original name
-Boletus cembrae var. obscuratus Singer
+Suillus obscurus Singer, 1970
 
 ### Remarks
 null

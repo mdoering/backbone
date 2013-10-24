@@ -1,5 +1,4 @@
-Pilula GENUS
-=======
+# Pilula GENUS
 
 #### Status
 ACCEPTED

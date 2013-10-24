@@ -1,5 +1,4 @@
-Amphidinium sphenoides WuIff SPECIES
-=======
+# Amphidinium sphenoides WuIff SPECIES
 
 #### Status
 ACCEPTED

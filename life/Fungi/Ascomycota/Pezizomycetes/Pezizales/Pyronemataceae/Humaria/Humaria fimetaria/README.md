@@ -1,5 +1,4 @@
-Humaria fimetaria (Schumach.) Sacc. SPECIES
-=======
+# Humaria fimetaria (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

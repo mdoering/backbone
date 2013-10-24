@@ -1,5 +1,4 @@
-Hypochnus niveus Britzelm. SPECIES
-=======
+# Hypochnus niveus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

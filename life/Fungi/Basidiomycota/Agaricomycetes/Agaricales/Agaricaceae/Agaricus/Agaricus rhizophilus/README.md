@@ -1,5 +1,4 @@
-Agaricus rhizophilus V. Brig. SPECIES
-=======
+# Agaricus rhizophilus V. Brig. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas janczewskii var. minor Drezepolski VARIETY
-=======
+# Trachelomonas janczewskii Drezepolski SPECIES
 
 #### Status
 ACCEPTED

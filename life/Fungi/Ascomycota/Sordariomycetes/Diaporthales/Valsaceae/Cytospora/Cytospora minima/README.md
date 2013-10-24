@@ -1,5 +1,4 @@
-Cytospora minima Sacc. SPECIES
-=======
+# Cytospora minima Sacc. SPECIES
 
 #### Status
 ACCEPTED

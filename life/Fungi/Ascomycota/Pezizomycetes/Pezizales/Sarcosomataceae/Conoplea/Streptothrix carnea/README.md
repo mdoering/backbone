@@ -1,5 +1,4 @@
-Streptothrix carnea Rossi-Doria SPECIES
-=======
+# Streptothrix carnea Rossi-Doria SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssiplaca GENUS
-=======
+# Byssiplaca GENUS
 
 #### Status
 ACCEPTED

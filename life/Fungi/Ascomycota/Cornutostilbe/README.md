@@ -1,5 +1,4 @@
-Cornutostilbe Seifert GENUS
-=======
+# Cornutostilbe Seifert GENUS
 
 #### Status
 ACCEPTED

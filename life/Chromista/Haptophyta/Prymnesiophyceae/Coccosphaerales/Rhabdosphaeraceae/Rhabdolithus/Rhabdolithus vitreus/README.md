@@ -1,5 +1,4 @@
-Rhabdolithus vitreus Deflandre in Deflandre & Fert, 1954 SPECIES
-=======
+# Rhabdolithus vitreus Deflandre in Deflandre & Fert, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calciarcus Manton, Sutherland & Oates, 1977 GENUS
-=======
+# Calciarcus Manton, Sutherland & Oates, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea pezizoidea Möller SPECIES
-=======
+# Hypocrea pezizoidea Möller SPECIES
 
 #### Status
 ACCEPTED

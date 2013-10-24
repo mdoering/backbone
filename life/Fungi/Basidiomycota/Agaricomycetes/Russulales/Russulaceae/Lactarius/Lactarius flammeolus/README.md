@@ -1,5 +1,4 @@
-Lactarius flammeolus (Pollini) Fr. SPECIES
-=======
+# Lactarius flammeolus (Pollini) Fr. SPECIES
 
 #### Status
 ACCEPTED

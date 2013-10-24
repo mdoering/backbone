@@ -1,5 +1,4 @@
-Hyponectria dicalycis Katum. SPECIES
-=======
+# Hyponectria dicalycis Katum. SPECIES
 
 #### Status
 ACCEPTED

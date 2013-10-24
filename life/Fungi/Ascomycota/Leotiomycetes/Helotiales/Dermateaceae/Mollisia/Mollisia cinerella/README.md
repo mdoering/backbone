@@ -1,5 +1,4 @@
-Mollisia cinerella var. cinerella VARIETY
-=======
+# Mollisia cinerella Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. ital. crypt. fig. 1379 (1883)
+null
 
 #### Original name
-Mollisia cinerella var. cinerella
+null
 
 ### Remarks
 null

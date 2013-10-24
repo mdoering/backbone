@@ -1,5 +1,4 @@
-Metacylis annulifera (Ostenfeld & Schmidt) Kofoid & Campbell, 1929 SPECIES
-=======
+# Metacylis annulifera (Ostenfeld & Schmidt) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lasionectria rousselliana (Mont.) Cooke, 1884 SPECIES
-=======
+# Pseudonectria rousseliana (Mont.) Wollenw., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. ParasitKde 3(3): 489 (1931)
 
 #### Original name
-null
+Nectria rousseliana Mont., 1851
 
 ### Remarks
 null

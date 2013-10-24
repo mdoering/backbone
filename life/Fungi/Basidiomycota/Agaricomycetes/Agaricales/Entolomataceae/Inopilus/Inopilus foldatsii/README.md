@@ -1,5 +1,4 @@
-Inopilus foldatsii (Dennis) Pegler SPECIES
-=======
+# Inopilus foldatsii (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED

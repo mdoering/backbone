@@ -1,5 +1,4 @@
-Calvitimela Hafellner GENUS
-=======
+# Calvitimela Hafellner GENUS
 
 #### Status
 ACCEPTED

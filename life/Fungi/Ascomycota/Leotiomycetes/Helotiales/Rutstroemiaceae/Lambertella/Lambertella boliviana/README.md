@@ -1,5 +1,4 @@
-Lambertella boliviana Dennis SPECIES
-=======
+# Lambertella boliviana Dennis SPECIES
 
 #### Status
 ACCEPTED

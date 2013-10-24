@@ -1,17 +1,16 @@
-Odontia vesiculosa G. Cunn., 1959 SPECIES
-=======
+# Hyphodontia lanata Burds. & Nakasone, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 86(1): 75 (1959)
+Mycologia 73(3): 461 (1981)
 
 #### Original name
-Odontia vesiculosa G. Cunn., 1959
+Hyphodontia lanata Burds. & Nakasone, 1981
 
 ### Remarks
 null

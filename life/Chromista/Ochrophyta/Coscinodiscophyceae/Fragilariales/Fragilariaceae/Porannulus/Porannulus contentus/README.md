@@ -1,5 +1,4 @@
-Porannulus contentus var. circulus P.B. Hamilton, M. Poulin & J.R. Yang VARIETY
-=======
+# Porannulus contentus P.B. Hamilton, H. Klöser & M. Poulin SPECIES
 
 #### Status
 ACCEPTED

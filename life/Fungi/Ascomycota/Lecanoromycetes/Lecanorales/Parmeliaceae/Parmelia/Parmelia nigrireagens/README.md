@@ -1,5 +1,4 @@
-Parmelia nigrireagens C.W. Dodge SPECIES
-=======
+# Parmelia nigrireagens C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

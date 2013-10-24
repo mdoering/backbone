@@ -1,5 +1,4 @@
-Tricholoma azalearum (Murrill) Murrill SPECIES
-=======
+# Tricholoma azalearum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon septimum Lloyd SPECIES
-=======
+# Lycoperdon septimum Lloyd SPECIES
 
 #### Status
 ACCEPTED

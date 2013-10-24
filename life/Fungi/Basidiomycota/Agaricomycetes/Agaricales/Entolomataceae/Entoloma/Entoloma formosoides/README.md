@@ -1,5 +1,4 @@
-Entoloma formosoides E. Horak SPECIES
-=======
+# Entoloma formosoides E. Horak SPECIES
 
 #### Status
 ACCEPTED

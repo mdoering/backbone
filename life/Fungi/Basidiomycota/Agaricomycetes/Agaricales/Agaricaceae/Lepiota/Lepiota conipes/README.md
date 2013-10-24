@@ -1,5 +1,4 @@
-Lepiota conipes Berk. SPECIES
-=======
+# Lepiota conipes Berk. SPECIES
 
 #### Status
 ACCEPTED

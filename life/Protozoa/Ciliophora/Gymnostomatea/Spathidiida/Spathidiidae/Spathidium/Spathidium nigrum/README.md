@@ -1,5 +1,4 @@
-Spathidium nigrum SPECIES
-=======
+# Spathidium nigrum SPECIES
 
 #### Status
 ACCEPTED

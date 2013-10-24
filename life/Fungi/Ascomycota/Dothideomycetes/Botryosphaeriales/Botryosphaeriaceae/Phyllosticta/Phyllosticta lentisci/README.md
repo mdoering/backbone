@@ -1,5 +1,4 @@
-Phyllosticta lentisci (Pass.) Allesch. SPECIES
-=======
+# Phyllosticta lentisci (Pass.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

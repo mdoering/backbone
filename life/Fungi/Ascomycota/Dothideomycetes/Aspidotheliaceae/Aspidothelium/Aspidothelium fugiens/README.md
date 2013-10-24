@@ -1,14 +1,13 @@
-Lecania fugiens Müll. Arg. SPECIES
-=======
+# Aspidothelium fugiens (Müll. Arg.) R. Sant., 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenes Epiphylli Novi 3 (1890)
+in Thorold, J. Ecol. 40: 129 (1952)
 
 #### Original name
 Lecania fugiens Müll. Arg.

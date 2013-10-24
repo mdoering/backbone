@@ -1,5 +1,4 @@
-Synalissa glomerulosa Nyl. SPECIES
-=======
+# Synalissa glomerulosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

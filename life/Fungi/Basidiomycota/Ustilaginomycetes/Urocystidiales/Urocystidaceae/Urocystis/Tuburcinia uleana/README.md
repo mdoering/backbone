@@ -1,5 +1,4 @@
-Tuburcinia uleana (Henn.) Liro SPECIES
-=======
+# Tuburcinia uleana (Henn.) Liro SPECIES
 
 #### Status
 ACCEPTED

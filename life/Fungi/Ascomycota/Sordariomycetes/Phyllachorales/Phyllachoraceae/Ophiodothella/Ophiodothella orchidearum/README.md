@@ -1,5 +1,4 @@
-Ophiodothella orchidearum E.K. Cash & A.M.J. Watson, 1955 SPECIES
-=======
+# Ophiodothella orchidearum E.K. Cash & A.M.J. Watson, 1955 SPECIES
 
 #### Status
 ACCEPTED

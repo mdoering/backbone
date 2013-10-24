@@ -1,17 +1,16 @@
-Glomus convolutus Gerd. & Trappe SPECIES
-=======
+# Glomus convolutum Gerd. & Trappe, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 5: 42 (1974)
 
 #### Original name
-Glomus convolutus Gerd. & Trappe
+Glomus convolutum Gerd. & Trappe, 1974
 
 ### Remarks
 null

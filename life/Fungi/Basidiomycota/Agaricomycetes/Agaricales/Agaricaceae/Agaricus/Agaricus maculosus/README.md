@@ -1,5 +1,4 @@
-Agaricus maculosus Peck SPECIES
-=======
+# Agaricus maculosus Peck SPECIES
 
 #### Status
 ACCEPTED

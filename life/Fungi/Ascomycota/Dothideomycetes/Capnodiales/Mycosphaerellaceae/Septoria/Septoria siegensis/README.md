@@ -1,5 +1,4 @@
-Septoria siegensis Kirschst. SPECIES
-=======
+# Septoria siegensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

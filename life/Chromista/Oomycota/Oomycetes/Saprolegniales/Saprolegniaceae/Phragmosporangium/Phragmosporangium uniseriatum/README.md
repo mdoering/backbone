@@ -1,5 +1,4 @@
-Phragmosporangium uniseriatum R.L. Seym., 2005 SPECIES
-=======
+# Phragmosporangium uniseriatum R.L. Seym., 2005 SPECIES
 
 #### Status
 ACCEPTED

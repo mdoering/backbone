@@ -1,17 +1,16 @@
-Zygospermum setosum Cain, 1934 SPECIES
-=======
+# Zygospermella insignis (Mouton) Cain, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Univ. Toronto Stud. , Biol. Ser. , ser. 3 8: (1934)
+Mycologia 27(2): 227 (1935)
 
 #### Original name
-Zygospermum setosum Cain, 1934
+Delitschia insignis Mouton, 1897
 
 ### Remarks
 null

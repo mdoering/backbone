@@ -1,17 +1,16 @@
-Fusarium stilboides var. stilboides Wollenw. VARIETY
-=======
+# Gibberella stilboides W.L. Gordon ex C. Booth, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fusaria autographica delineata, Edn 1 no. 615 (1924)
+The Genus Fusarium 119 (1971)
 
 #### Original name
-Fusarium stilboides var. stilboides Wollenw.
+Gibberella stilboides W.L. Gordon ex C. Booth, 1971
 
 ### Remarks
 null

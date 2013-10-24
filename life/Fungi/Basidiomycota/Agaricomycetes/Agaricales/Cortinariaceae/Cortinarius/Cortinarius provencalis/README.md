@@ -1,5 +1,4 @@
-Cortinarius provencalis M.M. Moser SPECIES
-=======
+# Cortinarius provencalis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

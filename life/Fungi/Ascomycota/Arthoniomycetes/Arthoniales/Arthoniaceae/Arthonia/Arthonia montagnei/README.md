@@ -1,17 +1,16 @@
-Arthonia montagnaei (Tuck.) R.C. Harris SPECIES
-=======
+# Arthonia montagnei (Tuck.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Some Florida Lichens (New York) 41 (1990)
 
 #### Original name
-Chiodecton montagnaei Tuck.
+Chiodecton montagnei Tuck.
 
 ### Remarks
 null

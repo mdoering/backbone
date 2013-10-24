@@ -1,5 +1,4 @@
-Petalomonas acuminata Hollande SPECIES
-=======
+# Petalomonas acuminata Hollande SPECIES
 
 #### Status
 ACCEPTED

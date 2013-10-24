@@ -1,5 +1,4 @@
-Porina haehndelii Henssen & Lücking SPECIES
-=======
+# Porina haehndelii Henssen & Lücking SPECIES
 
 #### Status
 ACCEPTED

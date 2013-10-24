@@ -1,5 +1,4 @@
-Stenophoridae FAMILY
-=======
+# Stenophoridae FAMILY
 
 #### Status
 ACCEPTED

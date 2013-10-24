@@ -1,5 +1,4 @@
-Pseudolingulina gordabankensis McCulloch, 1977 SPECIES
-=======
+# Pseudolingulina gordabankensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

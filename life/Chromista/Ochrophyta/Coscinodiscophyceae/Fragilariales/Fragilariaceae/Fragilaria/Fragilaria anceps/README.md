@@ -1,5 +1,4 @@
-Fragilaria anceps Ehrenberg SPECIES
-=======
+# Fragilaria anceps Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

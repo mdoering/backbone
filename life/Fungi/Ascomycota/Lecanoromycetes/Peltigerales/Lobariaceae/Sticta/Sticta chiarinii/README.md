@@ -1,5 +1,4 @@
-Sticta chiarinii Jatta SPECIES
-=======
+# Sticta chiarinii Jatta SPECIES
 
 #### Status
 ACCEPTED

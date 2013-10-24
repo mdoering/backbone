@@ -1,5 +1,4 @@
-Stichopsora mentzeliae Dietel & Holw. SPECIES
-=======
+# Stichopsora mentzeliae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

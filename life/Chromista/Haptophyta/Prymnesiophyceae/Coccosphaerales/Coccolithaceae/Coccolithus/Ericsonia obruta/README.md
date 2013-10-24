@@ -1,5 +1,4 @@
-Ericsonia obruta Perch-Nielsen, 1971 SPECIES
-=======
+# Ericsonia obruta Perch-Nielsen, 1971 SPECIES
 
 #### Status
 DOUBTFUL

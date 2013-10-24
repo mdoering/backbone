@@ -1,5 +1,4 @@
-Guignardia theae (Racib.) G.E. Bernard SPECIES
-=======
+# Guignardia theae (Racib.) G.E. Bernard SPECIES
 
 #### Status
 ACCEPTED

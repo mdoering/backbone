@@ -1,5 +1,4 @@
-Candida vadensis Middelhoven & Kurtzman, 2007 SPECIES
-=======
+# Candida vadensis Middelhoven & Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

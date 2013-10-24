@@ -1,5 +1,4 @@
-Lepiota anceps Rick SPECIES
-=======
+# Lepiota anceps Rick SPECIES
 
 #### Status
 ACCEPTED

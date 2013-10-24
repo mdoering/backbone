@@ -1,5 +1,4 @@
-Cortinarius shigaensis Hongo SPECIES
-=======
+# Cortinarius shigaensis Hongo SPECIES
 
 #### Status
 ACCEPTED

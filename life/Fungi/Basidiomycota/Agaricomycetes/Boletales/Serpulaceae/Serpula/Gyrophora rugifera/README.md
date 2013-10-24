@@ -1,5 +1,4 @@
-Gyrophora rugifera (Nyl.) Th. Fr. SPECIES
-=======
+# Gyrophora rugifera (Nyl.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

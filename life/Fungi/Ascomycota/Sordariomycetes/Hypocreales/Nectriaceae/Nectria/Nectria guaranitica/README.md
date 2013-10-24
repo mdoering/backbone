@@ -1,5 +1,4 @@
-Nectria guaranitica Speg. SPECIES
-=======
+# Nectria guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

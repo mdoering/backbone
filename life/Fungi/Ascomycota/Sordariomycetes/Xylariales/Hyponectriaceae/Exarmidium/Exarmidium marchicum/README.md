@@ -1,5 +1,4 @@
-Exarmidium marchicum Kirschst. SPECIES
-=======
+# Exarmidium marchicum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

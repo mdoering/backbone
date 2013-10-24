@@ -1,17 +1,16 @@
-Poroauricula McGinty GENUS
-=======
+# Favolaschia (Pat.) Pat. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Patouillard & Lagerheim, Bull. Soc. mycol. Fr. 8: 116 (1892)
 
 #### Original name
-Poroauricula McGinty
+null
 
 ### Remarks
 null

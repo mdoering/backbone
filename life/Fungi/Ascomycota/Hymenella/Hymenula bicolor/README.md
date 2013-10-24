@@ -1,5 +1,4 @@
-Hymenula bicolor Oudem. SPECIES
-=======
+# Hymenula bicolor Oudem. SPECIES
 
 #### Status
 ACCEPTED

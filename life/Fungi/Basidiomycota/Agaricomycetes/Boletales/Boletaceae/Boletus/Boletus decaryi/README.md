@@ -1,5 +1,4 @@
-Boletus decaryi Pat. SPECIES
-=======
+# Boletus decaryi Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia anisotomes G. Cunn., 1924 SPECIES
-=======
+# Puccinia anisotomes G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

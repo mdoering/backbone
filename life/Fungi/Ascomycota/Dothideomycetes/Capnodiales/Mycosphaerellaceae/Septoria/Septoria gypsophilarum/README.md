@@ -1,5 +1,4 @@
-Septoria gypsophilarum Bondartsev SPECIES
-=======
+# Septoria gypsophilarum Bondartsev SPECIES
 
 #### Status
 ACCEPTED

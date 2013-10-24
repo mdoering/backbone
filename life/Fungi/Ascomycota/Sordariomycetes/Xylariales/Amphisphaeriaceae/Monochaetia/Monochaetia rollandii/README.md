@@ -1,8 +1,7 @@
-Monochaetia rollandi (Fautrey) Sacc. SPECIES
-=======
+# Monochaetia rollandii (Fautrey) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

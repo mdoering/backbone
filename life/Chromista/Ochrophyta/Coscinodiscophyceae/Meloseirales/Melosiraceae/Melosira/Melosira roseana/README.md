@@ -1,5 +1,4 @@
-Melosira roseana Rabenhorst SPECIES
-=======
+# Melosira roseana Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

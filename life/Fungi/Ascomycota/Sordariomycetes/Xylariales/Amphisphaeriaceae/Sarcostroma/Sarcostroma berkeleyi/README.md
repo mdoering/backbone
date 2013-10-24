@@ -1,5 +1,4 @@
-Sarcostroma berkeleyi Cooke, 1871 SPECIES
-=======
+# Sarcostroma berkeleyi Cooke, 1871 SPECIES
 
 #### Status
 ACCEPTED

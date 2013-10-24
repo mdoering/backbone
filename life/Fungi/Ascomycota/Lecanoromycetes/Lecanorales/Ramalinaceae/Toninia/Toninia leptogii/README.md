@@ -1,5 +1,4 @@
-Toninia leptogii Timdal SPECIES
-=======
+# Toninia leptogii Timdal SPECIES
 
 #### Status
 ACCEPTED

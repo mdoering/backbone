@@ -1,5 +1,4 @@
-Edenia M.C. González, Anaya, Glenn, Saucedo & Hanlin GENUS
-=======
+# Edenia M.C. González, Anaya, Glenn, Saucedo & Hanlin GENUS
 
 #### Status
 ACCEPTED

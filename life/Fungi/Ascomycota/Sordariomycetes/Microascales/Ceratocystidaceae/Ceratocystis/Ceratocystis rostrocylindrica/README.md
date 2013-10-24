@@ -1,5 +1,4 @@
-Ceratocystis rostrocylindrica (R.W. Davidson) J. Hunt SPECIES
-=======
+# Ceratocystis rostrocylindrica (R.W. Davidson) J. Hunt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora gorakhanathii A.N. Rai & Kamal SPECIES
-=======
+# Cercospora gorakhanathii A.N. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

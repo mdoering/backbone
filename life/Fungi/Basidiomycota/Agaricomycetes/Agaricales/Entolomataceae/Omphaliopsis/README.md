@@ -1,5 +1,4 @@
-Omphaliopsis GENUS
-=======
+# Omphaliopsis GENUS
 
 #### Status
 ACCEPTED

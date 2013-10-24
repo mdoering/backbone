@@ -1,5 +1,4 @@
-Diplodina feurichii Henn. SPECIES
-=======
+# Diplodina feurichii Henn. SPECIES
 
 #### Status
 ACCEPTED

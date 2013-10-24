@@ -1,5 +1,4 @@
-Sphaerotheca euphorbiae-helioscopiae Tanda & Y. Nomura SPECIES
-=======
+# Sphaerotheca euphorbiae-helioscopiae Tanda & Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

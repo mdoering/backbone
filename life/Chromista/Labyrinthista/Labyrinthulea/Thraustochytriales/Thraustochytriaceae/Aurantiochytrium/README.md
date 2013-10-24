@@ -1,5 +1,4 @@
-Aurantiochytrium R. Yokoy. & D. Honda GENUS
-=======
+# Aurantiochytrium R. Yokoy. & D. Honda GENUS
 
 #### Status
 ACCEPTED

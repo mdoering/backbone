@@ -1,5 +1,4 @@
-Torula alicola Ferraris SPECIES
-=======
+# Torula alicola Ferraris SPECIES
 
 #### Status
 ACCEPTED

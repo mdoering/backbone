@@ -1,17 +1,16 @@
-Phragmocephala stemphylioides var. stemphylioides VARIETY
-=======
+# Phragmocephala stemphylioides (Corda) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Can. J. Bot. 36: 796 (1958)
 
 #### Original name
-Phragmocephala stemphylioides var. stemphylioides
+Helminthosporium stemphylioides Corda, 1839
 
 ### Remarks
 null

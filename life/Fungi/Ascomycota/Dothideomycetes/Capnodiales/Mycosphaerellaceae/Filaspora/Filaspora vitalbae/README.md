@@ -1,5 +1,4 @@
-Filaspora vitalbae (Sacc.) Kuntze SPECIES
-=======
+# Filaspora vitalbae (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloiotrichia J.Agardh, 1842 GENUS
-=======
+# Gloiotrichia J.Agardh, 1842 GENUS
 
 #### Status
 ACCEPTED

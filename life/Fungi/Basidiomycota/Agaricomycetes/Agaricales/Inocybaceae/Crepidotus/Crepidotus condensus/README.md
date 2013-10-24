@@ -1,5 +1,4 @@
-Crepidotus condensus Bres. SPECIES
-=======
+# Crepidotus condensus Bres. SPECIES
 
 #### Status
 ACCEPTED

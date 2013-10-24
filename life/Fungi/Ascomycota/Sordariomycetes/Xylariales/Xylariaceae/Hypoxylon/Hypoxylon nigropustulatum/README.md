@@ -1,5 +1,4 @@
-Hypoxylon nigropustulatum I. Hino & Katum. SPECIES
-=======
+# Hypoxylon nigropustulatum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

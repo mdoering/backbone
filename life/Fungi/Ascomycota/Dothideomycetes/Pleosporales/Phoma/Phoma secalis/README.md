@@ -1,5 +1,4 @@
-Phoma secalis Prill. & Delacr. SPECIES
-=======
+# Phoma secalis Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

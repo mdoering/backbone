@@ -1,5 +1,4 @@
-Gnomonia myricae Cooke & Ellis SPECIES
-=======
+# Gnomonia myricae Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora rhytidhysterii Petr. SPECIES
-=======
+# Pleospora rhytidhysterii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Brettanomyces bruxellensis var. bruxellensis VARIETY
-=======
+# Dekkera bruxellensis Van der Walt, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek Ned. Tijdschr. Hyg. 30: 278 (1964)
 
 #### Original name
-null
+Dekkera bruxellensis Van der Walt, 1964
 
 ### Remarks
 null

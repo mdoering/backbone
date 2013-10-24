@@ -1,5 +1,4 @@
-Puccinia urticae-acutiformis (Kleb.) Gäum. SPECIES
-=======
+# Puccinia urticae-acutiformis (Kleb.) Gäum. SPECIES
 
 #### Status
 ACCEPTED

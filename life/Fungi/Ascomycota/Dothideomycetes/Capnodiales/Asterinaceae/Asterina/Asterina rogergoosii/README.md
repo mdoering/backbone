@@ -1,5 +1,4 @@
-Asterina rogergoosii B. Song SPECIES
-=======
+# Asterina rogergoosii B. Song SPECIES
 
 #### Status
 ACCEPTED

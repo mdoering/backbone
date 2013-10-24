@@ -1,5 +1,4 @@
-Buellia inamoena Müll. Arg. SPECIES
-=======
+# Buellia inamoena Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

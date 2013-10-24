@@ -1,5 +1,4 @@
-Apophysomyces elegans P.C. Misra, K.J. Srivast. & Lata, 1979 SPECIES
-=======
+# Apophysomyces elegans P.C. Misra, K.J. Srivast. & Lata, 1979 SPECIES
 
 #### Status
 ACCEPTED

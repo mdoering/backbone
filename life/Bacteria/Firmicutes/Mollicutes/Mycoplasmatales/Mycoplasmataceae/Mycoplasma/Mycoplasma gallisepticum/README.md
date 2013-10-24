@@ -1,5 +1,4 @@
-Mycoplasma gallisepticum Edward and Kanarek, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma gallisepticum Edward and Kanarek, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

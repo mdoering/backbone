@@ -1,17 +1,16 @@
-Macabuna heterophragmae Buriticá & J.F. Hennen SPECIES
-=======
+# Macabuna heterophragmatis Buriticá & J.F. Hennen, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revta Acad. colomb. cienc. exact. fís. nat. 19(no. 72): 60 (1994)
 
 #### Original name
-Macabuna heterophragmae Buriticá & J.F. Hennen
+Macabuna heterophragmatis Buriticá & J.F. Hennen, 1994
 
 ### Remarks
 null

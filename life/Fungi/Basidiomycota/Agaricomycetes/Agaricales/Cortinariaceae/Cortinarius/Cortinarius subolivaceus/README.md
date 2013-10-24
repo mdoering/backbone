@@ -1,5 +1,4 @@
-Cortinarius subolivaceus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius subolivaceus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

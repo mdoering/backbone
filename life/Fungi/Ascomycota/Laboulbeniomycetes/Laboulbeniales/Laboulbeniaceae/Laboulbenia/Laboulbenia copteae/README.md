@@ -1,5 +1,4 @@
-Laboulbenia copteae Thaxt. SPECIES
-=======
+# Laboulbenia copteae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

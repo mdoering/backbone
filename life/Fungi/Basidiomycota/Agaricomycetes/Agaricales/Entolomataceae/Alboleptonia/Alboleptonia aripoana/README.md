@@ -1,5 +1,4 @@
-Alboleptonia aripoana (Dennis) Pegler SPECIES
-=======
+# Alboleptonia aripoana (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED

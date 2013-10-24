@@ -1,5 +1,4 @@
-Agaricus xanthodermulus Callac & Guinb. SPECIES
-=======
+# Agaricus xanthodermulus Callac & Guinb. SPECIES
 
 #### Status
 ACCEPTED

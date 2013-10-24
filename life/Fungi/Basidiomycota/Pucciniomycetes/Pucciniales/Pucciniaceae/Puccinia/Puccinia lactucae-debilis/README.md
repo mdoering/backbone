@@ -1,5 +1,4 @@
-Puccinia lactucae-debilis Dietel SPECIES
-=======
+# Puccinia lactucae-debilis Dietel SPECIES
 
 #### Status
 ACCEPTED

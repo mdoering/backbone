@@ -1,14 +1,13 @@
-Karschia torulispora (W. Phillips) Sacc., 1889 SPECIES
-=======
+# Colensoniella torulispora (W. Phillips) Hafellner, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 781 (1889)
+Beih. Nova Hedwigia 62: 160 (1979)
 
 #### Original name
 Patellaria torulispora W. Phillips, 1886

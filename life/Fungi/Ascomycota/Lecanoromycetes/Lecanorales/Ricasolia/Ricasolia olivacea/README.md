@@ -1,5 +1,4 @@
-Ricasolia olivacea Stizenb. SPECIES
-=======
+# Ricasolia olivacea Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulvinosphaeridium granosum Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
-=======
+# Pulvinosphaeridium granosum Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

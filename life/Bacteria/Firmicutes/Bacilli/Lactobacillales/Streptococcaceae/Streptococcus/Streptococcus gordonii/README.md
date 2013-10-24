@@ -1,5 +1,4 @@
-Streptococcus gordonii Kilian et al., 1989 SPECIES
-=======
+# Streptococcus gordonii Kilian et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

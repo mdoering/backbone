@@ -1,5 +1,4 @@
-Agaricus naucicola Secr. SPECIES
-=======
+# Agaricus naucicola Secr. SPECIES
 
 #### Status
 ACCEPTED

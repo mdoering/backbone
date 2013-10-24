@@ -1,5 +1,4 @@
-Khekia ambigua (Pass.) Petr. SPECIES
-=======
+# Khekia ambigua (Pass.) Petr. SPECIES
 
 #### Status
 ACCEPTED

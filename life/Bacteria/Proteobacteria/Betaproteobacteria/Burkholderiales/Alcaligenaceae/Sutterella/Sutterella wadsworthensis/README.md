@@ -1,5 +1,4 @@
-Sutterella wadsworthensis Wexler et al., 1996 SPECIES
-=======
+# Sutterella wadsworthensis Wexler et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

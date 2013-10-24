@@ -1,5 +1,4 @@
-Uromyces floralis Vestergr. SPECIES
-=======
+# Uromyces floralis Vestergr. SPECIES
 
 #### Status
 ACCEPTED

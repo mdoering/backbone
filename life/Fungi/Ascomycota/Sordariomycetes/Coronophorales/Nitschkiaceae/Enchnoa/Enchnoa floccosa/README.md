@@ -1,5 +1,4 @@
-Enchnoa floccosa (Fr.) P. Karst. SPECIES
-=======
+# Enchnoa floccosa (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

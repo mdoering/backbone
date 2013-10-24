@@ -1,5 +1,4 @@
-Diaporthe tenuirostris Nitschke SPECIES
-=======
+# Diaporthe tenuirostris Nitschke SPECIES
 
 #### Status
 ACCEPTED

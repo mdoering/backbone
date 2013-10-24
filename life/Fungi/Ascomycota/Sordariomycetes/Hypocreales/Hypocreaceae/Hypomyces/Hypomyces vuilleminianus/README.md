@@ -1,5 +1,4 @@
-Hypomyces vuilleminianus Maire SPECIES
-=======
+# Hypomyces vuilleminianus Maire SPECIES
 
 #### Status
 ACCEPTED

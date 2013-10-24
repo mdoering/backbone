@@ -1,5 +1,4 @@
-Clitocybe candens Murrill SPECIES
-=======
+# Clitocybe candens Murrill SPECIES
 
 #### Status
 ACCEPTED

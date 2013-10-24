@@ -1,5 +1,4 @@
-Dicaeoma carbonaceum (Cooke & Kalchbr.) Kuntze SPECIES
-=======
+# Dicaeoma carbonaceum (Cooke & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

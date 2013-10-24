@@ -1,5 +1,4 @@
-Puccinia apochitonis Gjaerum SPECIES
-=======
+# Puccinia apochitonis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

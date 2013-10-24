@@ -1,5 +1,4 @@
-Polyporellus dendriticus (Fr.) P. Karst. SPECIES
-=======
+# Polyporellus dendriticus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypodermium sparsum Link SPECIES
-=======
+# Hypodermium sparsum Link SPECIES
 
 #### Status
 ACCEPTED

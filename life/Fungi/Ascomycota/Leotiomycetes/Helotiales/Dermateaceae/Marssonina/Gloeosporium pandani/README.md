@@ -1,5 +1,4 @@
-Gloeosporium pandani Verona SPECIES
-=======
+# Gloeosporium pandani Verona SPECIES
 
 #### Status
 ACCEPTED

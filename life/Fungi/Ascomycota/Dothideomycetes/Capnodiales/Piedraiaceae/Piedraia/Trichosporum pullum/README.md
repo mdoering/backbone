@@ -1,5 +1,4 @@
-Trichosporum pullum (Fr.) Sacc. SPECIES
-=======
+# Trichosporum pullum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

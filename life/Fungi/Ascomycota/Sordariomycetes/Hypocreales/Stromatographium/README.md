@@ -1,17 +1,16 @@
-Stromatostilbella Samuels & E. Müll. GENUS
-=======
+# Stromatographium Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 33: 284 (1980)
+Denkschr. Kaiserl. Akad. Wiss. , Math. -Naturwiss. Kl. 83: 37 (1907)
 
 #### Original name
-Stromatostilbella Samuels & E. Müll.
+Stromatographium Höhn.
 
 ### Remarks
 null

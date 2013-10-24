@@ -1,5 +1,4 @@
-Bulgaria sydowii Henn. SPECIES
-=======
+# Bulgaria sydowii Henn. SPECIES
 
 #### Status
 ACCEPTED

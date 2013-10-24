@@ -1,5 +1,4 @@
-Anthostomella smilacis Fabre SPECIES
-=======
+# Anthostomella smilacis Fabre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza candida Clem. SPECIES
-=======
+# Trichopeziza candida Clem. SPECIES
 
 #### Status
 ACCEPTED

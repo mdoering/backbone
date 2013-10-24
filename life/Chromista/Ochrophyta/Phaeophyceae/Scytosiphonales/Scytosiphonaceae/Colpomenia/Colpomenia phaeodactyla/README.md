@@ -1,5 +1,4 @@
-Colpomenia phaeodactyla M.J. Wynne & J.N. Norris SPECIES
-=======
+# Colpomenia phaeodactyla M.J. Wynne & J.N. Norris SPECIES
 
 #### Status
 ACCEPTED

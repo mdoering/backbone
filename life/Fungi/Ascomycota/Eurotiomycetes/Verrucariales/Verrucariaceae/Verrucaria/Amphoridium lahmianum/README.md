@@ -1,5 +1,4 @@
-Amphoridium lahmianum (Servít) Servít SPECIES
-=======
+# Amphoridium lahmianum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

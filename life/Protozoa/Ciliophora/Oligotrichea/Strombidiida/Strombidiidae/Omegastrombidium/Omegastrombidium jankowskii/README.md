@@ -1,5 +1,4 @@
-Omegastrombidium jankowskii Xu et al., 2009 SPECIES
-=======
+# Omegastrombidium jankowskii Xu et al., 2009 SPECIES
 
 #### Status
 ACCEPTED

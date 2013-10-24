@@ -1,5 +1,4 @@
-Psalliota lepiotoides R. Schulz SPECIES
-=======
+# Psalliota lepiotoides R. Schulz SPECIES
 
 #### Status
 ACCEPTED

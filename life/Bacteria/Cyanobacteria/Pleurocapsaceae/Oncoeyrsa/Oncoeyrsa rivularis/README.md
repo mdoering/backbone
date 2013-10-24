@@ -1,5 +1,4 @@
-Oncoeyrsa rivularis Kützing SPECIES
-=======
+# Oncoeyrsa rivularis Kützing SPECIES
 
 #### Status
 ACCEPTED

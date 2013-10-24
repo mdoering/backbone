@@ -1,5 +1,4 @@
-Lecanactis stellaris Egea & Aptroot SPECIES
-=======
+# Lecanactis stellaris Egea & Aptroot SPECIES
 
 #### Status
 ACCEPTED

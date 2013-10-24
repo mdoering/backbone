@@ -1,5 +1,4 @@
-Anguillospora lanceolata Descals SPECIES
-=======
+# Anguillospora lanceolata Descals SPECIES
 
 #### Status
 ACCEPTED

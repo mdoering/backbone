@@ -1,5 +1,4 @@
-Didymopsora solani Dietel, 1899 SPECIES
-=======
+# Didymopsora solani Dietel, 1899 SPECIES
 
 #### Status
 ACCEPTED

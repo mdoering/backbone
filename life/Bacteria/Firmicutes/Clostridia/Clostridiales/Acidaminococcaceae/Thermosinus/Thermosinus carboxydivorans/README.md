@@ -1,5 +1,4 @@
-Thermosinus carboxydivorans Sokolova et al., 2004 SPECIES
-=======
+# Thermosinus carboxydivorans Sokolova et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

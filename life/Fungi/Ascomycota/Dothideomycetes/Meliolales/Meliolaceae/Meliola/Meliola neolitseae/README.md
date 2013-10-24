@@ -1,5 +1,4 @@
-Meliola neolitseae W. Yamam. SPECIES
-=======
+# Meliola neolitseae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

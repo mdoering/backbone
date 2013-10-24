@@ -1,5 +1,4 @@
-Hysterostomella rhytismoides (Schwein. ex Berk. & M.A. Curtis) Rehm, 1898 SPECIES
-=======
+# Hysterostomella rhytismoides (Schwein. ex Berk. & M.A. Curtis) Rehm, 1898 SPECIES
 
 #### Status
 ACCEPTED

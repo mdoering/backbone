@@ -1,5 +1,4 @@
-Prosopidicola mexicana Crous & C.L. Lennox, 2004 SPECIES
-=======
+# Prosopidicola mexicana Crous & C.L. Lennox, 2004 SPECIES
 
 #### Status
 ACCEPTED

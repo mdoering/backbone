@@ -1,5 +1,4 @@
-Glomerella major Tunstall, 1935 SPECIES
-=======
+# Glomerella major Tunstall, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma insulata Sacc. SPECIES
-=======
+# Phoma insulata Sacc. SPECIES
 
 #### Status
 ACCEPTED

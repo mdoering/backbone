@@ -1,5 +1,4 @@
-Rhexoampullifera subglobosa R.F. Castañeda, Gené & Guarro SPECIES
-=======
+# Rhexoampullifera subglobosa R.F. Castañeda, Gené & Guarro SPECIES
 
 #### Status
 ACCEPTED

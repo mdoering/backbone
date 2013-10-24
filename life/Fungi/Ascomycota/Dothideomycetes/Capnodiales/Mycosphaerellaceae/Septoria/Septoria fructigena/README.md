@@ -1,5 +1,4 @@
-Septoria fructigena Berk. & M.A. Curtis SPECIES
-=======
+# Septoria fructigena Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

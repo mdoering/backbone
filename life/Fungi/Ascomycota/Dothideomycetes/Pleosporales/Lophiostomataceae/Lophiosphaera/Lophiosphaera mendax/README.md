@@ -1,5 +1,4 @@
-Lophiosphaera mendax Rehm SPECIES
-=======
+# Lophiosphaera mendax Rehm SPECIES
 
 #### Status
 ACCEPTED

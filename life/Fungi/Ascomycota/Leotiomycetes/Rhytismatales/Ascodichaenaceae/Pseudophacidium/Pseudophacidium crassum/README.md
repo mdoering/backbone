@@ -1,5 +1,4 @@
-Pseudophacidium crassum K. Gerber SPECIES
-=======
+# Pseudophacidium crassum K. Gerber SPECIES
 
 #### Status
 ACCEPTED

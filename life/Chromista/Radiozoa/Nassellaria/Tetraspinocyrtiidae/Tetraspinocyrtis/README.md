@@ -1,5 +1,4 @@
-Tetraspinocyrtis Kozur & Mostler, 1994 GENUS
-=======
+# Tetraspinocyrtis Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora pallor (Berk.) Keissl. SPECIES
-=======
+# Rhabdospora pallor (Berk.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

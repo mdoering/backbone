@@ -1,5 +1,4 @@
-Leucoscypha borealis Eckblad SPECIES
-=======
+# Leucoscypha borealis Eckblad SPECIES
 
 #### Status
 ACCEPTED

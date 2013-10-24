@@ -1,5 +1,4 @@
-Aphanothece sacrum (Suringar) Okada SPECIES
-=======
+# Aphanothece sacrum (Suringar) Okada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria hiemalis Sacc. & Speg. SPECIES
-=======
+# Leptosphaeria hiemalis Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

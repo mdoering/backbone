@@ -1,5 +1,4 @@
-Sarcodon gracilis (Fr.) Quél. SPECIES
-=======
+# Sarcodon gracilis (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

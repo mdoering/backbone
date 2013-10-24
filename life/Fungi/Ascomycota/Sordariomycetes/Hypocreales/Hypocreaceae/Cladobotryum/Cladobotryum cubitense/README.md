@@ -1,5 +1,4 @@
-Cladobotryum cubitense R.F. Castañeda & G.R.W. Arnold, 1987 SPECIES
-=======
+# Cladobotryum cubitense R.F. Castañeda & G.R.W. Arnold, 1987 SPECIES
 
 #### Status
 ACCEPTED

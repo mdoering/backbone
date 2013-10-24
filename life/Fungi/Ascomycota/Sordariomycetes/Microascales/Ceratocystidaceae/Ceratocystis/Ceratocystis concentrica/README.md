@@ -1,5 +1,4 @@
-Ceratocystis concentrica Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis concentrica Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

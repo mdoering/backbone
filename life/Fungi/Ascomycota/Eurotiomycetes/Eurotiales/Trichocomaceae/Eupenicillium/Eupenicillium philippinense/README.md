@@ -1,5 +1,4 @@
-Eupenicillium philippinense Udagawa & Y. Horie SPECIES
-=======
+# Eupenicillium philippinense Udagawa & Y. Horie SPECIES
 
 #### Status
 ACCEPTED

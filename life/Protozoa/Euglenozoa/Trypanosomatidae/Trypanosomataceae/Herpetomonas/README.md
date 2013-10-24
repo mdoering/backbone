@@ -1,5 +1,4 @@
-Herpetomonas Donovan, 1909 GENUS
-=======
+# Herpetomonas Donovan, 1909 GENUS
 
 #### Status
 ACCEPTED

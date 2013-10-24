@@ -1,5 +1,4 @@
-Lamproderma disseminatum Kowalski, 1970 SPECIES
-=======
+# Lamproderma disseminatum Kowalski, 1970 SPECIES
 
 #### Status
 ACCEPTED

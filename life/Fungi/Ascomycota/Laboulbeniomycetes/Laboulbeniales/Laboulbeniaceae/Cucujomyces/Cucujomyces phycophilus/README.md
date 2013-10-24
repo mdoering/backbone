@@ -1,5 +1,4 @@
-Cucujomyces phycophilus A. Weir & W. Rossi, 1997 SPECIES
-=======
+# Cucujomyces phycophilus A. Weir & W. Rossi, 1997 SPECIES
 
 #### Status
 ACCEPTED

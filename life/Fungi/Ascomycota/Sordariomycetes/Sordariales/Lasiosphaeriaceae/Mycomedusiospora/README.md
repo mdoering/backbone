@@ -1,5 +1,4 @@
-Mycomedusiospora G.C. Carroll & Munk GENUS
-=======
+# Mycomedusiospora G.C. Carroll & Munk GENUS
 
 #### Status
 ACCEPTED

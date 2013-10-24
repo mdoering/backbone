@@ -1,14 +1,13 @@
-Genea bombycina Vittad., 1831 SPECIES
-=======
+# Stephensia bombycina (Vittad.) Tul., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Tuberac. (Milano) 29 (1831)
+null
 
 #### Original name
 Genea bombycina Vittad., 1831

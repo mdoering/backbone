@@ -1,5 +1,4 @@
-Agaricus dentatocrenatus Raddi SPECIES
-=======
+# Agaricus dentatocrenatus Raddi SPECIES
 
 #### Status
 ACCEPTED

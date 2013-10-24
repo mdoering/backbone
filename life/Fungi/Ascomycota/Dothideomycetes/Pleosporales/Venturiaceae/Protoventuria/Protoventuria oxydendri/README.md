@@ -1,5 +1,4 @@
-Protoventuria oxydendri (M.E. Barr) M.E. Barr SPECIES
-=======
+# Protoventuria oxydendri (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella pallida Schaeff. SPECIES
-=======
+# Helvella pallida Schaeff. SPECIES
 
 #### Status
 ACCEPTED

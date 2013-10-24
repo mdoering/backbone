@@ -1,5 +1,4 @@
-Galerina polytrichorum Singer SPECIES
-=======
+# Galerina polytrichorum Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe macrospora Kobayasi SPECIES
-=======
+# Inocybe macrospora Kobayasi SPECIES
 
 #### Status
 ACCEPTED

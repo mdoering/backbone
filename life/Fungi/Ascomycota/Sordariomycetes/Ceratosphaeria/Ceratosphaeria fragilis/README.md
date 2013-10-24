@@ -1,5 +1,4 @@
-Ceratosphaeria fragilis Wilberf., 1987 SPECIES
-=======
+# Ceratosphaeria fragilis Wilberf., 1987 SPECIES
 
 #### Status
 ACCEPTED

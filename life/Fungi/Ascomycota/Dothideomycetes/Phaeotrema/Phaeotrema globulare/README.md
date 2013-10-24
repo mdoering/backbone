@@ -1,5 +1,4 @@
-Phaeotrema globulare Tuck. SPECIES
-=======
+# Phaeotrema globulare Tuck. SPECIES
 
 #### Status
 ACCEPTED

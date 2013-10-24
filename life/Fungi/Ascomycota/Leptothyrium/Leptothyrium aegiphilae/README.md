@@ -1,5 +1,4 @@
-Leptothyrium aegiphilae Syd. {?} SPECIES
-=======
+# Leptothyrium aegiphilae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

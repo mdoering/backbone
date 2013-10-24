@@ -1,5 +1,4 @@
-Boletus dryophilus Thiers SPECIES
-=======
+# Boletus dryophilus Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boothiomyces Letcher GENUS
-=======
+# Boothiomyces Letcher GENUS
 
 #### Status
 ACCEPTED

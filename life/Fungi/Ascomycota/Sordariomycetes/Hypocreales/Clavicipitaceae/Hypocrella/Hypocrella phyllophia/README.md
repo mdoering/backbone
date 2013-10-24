@@ -1,5 +1,4 @@
-Hypocrella phyllophia Theiss. SPECIES
-=======
+# Hypocrella phyllophia Theiss. SPECIES
 
 #### Status
 ACCEPTED

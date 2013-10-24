@@ -1,5 +1,4 @@
-Tetraedriella jovetti (Bourelly) Bourelly SPECIES
-=======
+# Tetraedriella jovetti (Bourelly) Bourelly SPECIES
 
 #### Status
 ACCEPTED

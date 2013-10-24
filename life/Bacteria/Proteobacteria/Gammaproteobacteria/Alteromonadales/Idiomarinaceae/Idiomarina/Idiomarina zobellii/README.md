@@ -1,5 +1,4 @@
-Idiomarina zobellii Ivanova et al., 2000 SPECIES
-=======
+# Idiomarina zobellii Ivanova et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

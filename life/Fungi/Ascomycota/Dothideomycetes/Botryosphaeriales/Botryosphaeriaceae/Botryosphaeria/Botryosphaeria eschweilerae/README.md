@@ -1,5 +1,4 @@
-Botryosphaeria eschweilerae Bat. & H. Maia SPECIES
-=======
+# Botryosphaeria eschweilerae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus farreus Lasch SPECIES
-=======
+# Agaricus farreus Lasch SPECIES
 
 #### Status
 ACCEPTED

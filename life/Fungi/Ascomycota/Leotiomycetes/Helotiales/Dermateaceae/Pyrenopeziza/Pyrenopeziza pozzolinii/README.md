@@ -1,5 +1,4 @@
-Pyrenopeziza pozzolinii Bacc. SPECIES
-=======
+# Pyrenopeziza pozzolinii Bacc. SPECIES
 
 #### Status
 ACCEPTED

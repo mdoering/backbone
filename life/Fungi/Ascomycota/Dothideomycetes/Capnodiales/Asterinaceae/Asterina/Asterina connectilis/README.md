@@ -1,5 +1,4 @@
-Asterina connectilis Syd., 1939 SPECIES
-=======
+# Asterina connectilis Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

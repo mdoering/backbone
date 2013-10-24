@@ -1,14 +1,13 @@
-Helminthosporium allii Campan., 1924 SPECIES
-=======
+# Embellisia allii (Campan.) E.G. Simmons, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovi Annali dell' Agricoltura 4: 87 (1924)
+Mycologia 63(2): 382 (1971)
 
 #### Original name
 Helminthosporium allii Campan., 1924

@@ -1,5 +1,4 @@
-Synechoblastus redundans (Nyl.) Müll. Arg. SPECIES
-=======
+# Synechoblastus redundans (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

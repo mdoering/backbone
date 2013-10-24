@@ -1,5 +1,4 @@
-Nectria guarapiensis Speg. SPECIES
-=======
+# Nectria guarapiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea miseriae Lynge SPECIES
-=======
+# Lecidea miseriae Lynge SPECIES
 
 #### Status
 ACCEPTED

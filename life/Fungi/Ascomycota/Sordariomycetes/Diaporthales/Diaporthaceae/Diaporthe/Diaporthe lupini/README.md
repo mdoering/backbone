@@ -1,5 +1,4 @@
-Diaporthe lupini Harkn., 1884 SPECIES
-=======
+# Diaporthe lupini Harkn., 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca tegularis (Ehrh.) Sandst. SPECIES
-=======
+# Caloplaca tegularis (Ehrh.) Sandst. SPECIES
 
 #### Status
 ACCEPTED

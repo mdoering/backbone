@@ -1,5 +1,4 @@
-Staurosirella D.M.Williams & Round, 1988 GENUS
-=======
+# Staurosirella D.M.Williams & Round, 1988 GENUS
 
 #### Status
 ACCEPTED

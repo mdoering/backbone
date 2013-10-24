@@ -1,14 +1,13 @@
-Marginipora Agassiz, 1846 GENUS
-=======
+# Marginopora Blainville, 1830 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nomen. Zool. Index Univ.
+Dict. Sci. Nat. , 60, 377.
 
 #### Original name
 null

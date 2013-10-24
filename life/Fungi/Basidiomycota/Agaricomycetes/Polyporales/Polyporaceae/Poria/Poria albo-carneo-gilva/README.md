@@ -1,5 +1,4 @@
-Poria albo-carneo-gilva Romell SPECIES
-=======
+# Poria albo-carneo-gilva Romell SPECIES
 
 #### Status
 ACCEPTED

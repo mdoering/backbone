@@ -1,5 +1,4 @@
-Balansia trachypogonis Doidge SPECIES
-=======
+# Balansia trachypogonis Doidge SPECIES
 
 #### Status
 ACCEPTED

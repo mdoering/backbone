@@ -1,5 +1,4 @@
-Spermatodium chloromelaenum (A. Massal.) Trevis. SPECIES
-=======
+# Spermatodium chloromelaenum (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

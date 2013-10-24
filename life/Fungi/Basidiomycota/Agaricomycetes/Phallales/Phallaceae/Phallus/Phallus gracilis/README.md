@@ -1,5 +1,4 @@
-Phallus gracilis (E. Fisch.) Lloyd SPECIES
-=======
+# Phallus gracilis (E. Fisch.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

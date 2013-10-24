@@ -1,5 +1,4 @@
-Parapericoniella U. Braun, Heuchert & K. Schub. GENUS
-=======
+# Parapericoniella U. Braun, Heuchert & K. Schub. GENUS
 
 #### Status
 ACCEPTED

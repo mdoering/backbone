@@ -1,5 +1,4 @@
-Asteroma venulosum (Wallr.) Fuckel SPECIES
-=======
+# Asteroma venulosum (Wallr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

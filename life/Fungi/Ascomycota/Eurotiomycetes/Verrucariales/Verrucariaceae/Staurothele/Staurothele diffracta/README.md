@@ -1,5 +1,4 @@
-Staurothele diffracta Oxner SPECIES
-=======
+# Staurothele diffracta Oxner SPECIES
 
 #### Status
 ACCEPTED

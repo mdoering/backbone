@@ -1,5 +1,4 @@
-Ureaplasma parvum Robertson et al., 2002 SPECIES
-=======
+# Ureaplasma parvum Robertson et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

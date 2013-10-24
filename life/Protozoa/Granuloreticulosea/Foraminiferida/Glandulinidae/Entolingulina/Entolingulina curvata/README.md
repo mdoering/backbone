@@ -1,5 +1,4 @@
-Entolingulina curvata McCulloch, 1977 SPECIES
-=======
+# Entolingulina curvata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

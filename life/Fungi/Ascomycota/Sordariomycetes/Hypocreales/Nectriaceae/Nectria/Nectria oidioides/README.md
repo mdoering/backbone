@@ -1,5 +1,4 @@
-Nectria oidioides Speg. SPECIES
-=======
+# Nectria oidioides Speg. SPECIES
 
 #### Status
 ACCEPTED

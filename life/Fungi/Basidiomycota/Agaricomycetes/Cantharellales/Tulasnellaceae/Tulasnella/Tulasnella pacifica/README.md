@@ -1,5 +1,4 @@
-Tulasnella pacifica L.S. Olive, 1957 SPECIES
-=======
+# Tulasnella pacifica L.S. Olive, 1957 SPECIES
 
 #### Status
 ACCEPTED

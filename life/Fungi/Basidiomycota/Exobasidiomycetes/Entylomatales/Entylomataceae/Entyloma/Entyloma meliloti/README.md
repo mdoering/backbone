@@ -1,5 +1,4 @@
-Entyloma meliloti McAlpine SPECIES
-=======
+# Entyloma meliloti McAlpine SPECIES
 
 #### Status
 ACCEPTED

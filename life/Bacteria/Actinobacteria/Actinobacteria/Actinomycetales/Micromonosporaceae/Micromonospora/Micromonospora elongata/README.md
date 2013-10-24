@@ -1,5 +1,4 @@
-Micromonospora elongata Krassiln. SPECIES
-=======
+# Micromonospora elongata Krassiln. SPECIES
 
 #### Status
 ACCEPTED

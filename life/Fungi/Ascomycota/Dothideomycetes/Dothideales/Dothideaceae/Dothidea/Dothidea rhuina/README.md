@@ -1,5 +1,4 @@
-Dothidea rhuina Schwein., 1832 SPECIES
-=======
+# Dothidea rhuina Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

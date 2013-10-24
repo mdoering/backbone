@@ -1,5 +1,4 @@
-Ramalina microphylla V. Marcano & A. Morales SPECIES
-=======
+# Ramalina microphylla V. Marcano & A. Morales SPECIES
 
 #### Status
 ACCEPTED

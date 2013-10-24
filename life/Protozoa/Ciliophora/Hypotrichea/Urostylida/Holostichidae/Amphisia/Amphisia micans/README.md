@@ -1,5 +1,4 @@
-Amphisia micans SPECIES
-=======
+# Amphisia micans SPECIES
 
 #### Status
 ACCEPTED

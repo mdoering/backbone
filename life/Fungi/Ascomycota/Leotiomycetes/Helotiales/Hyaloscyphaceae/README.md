@@ -1,5 +1,4 @@
-Hyaloscyphaceae Nannf. FAMILY
-=======
+# Hyaloscyphaceae Nannf. FAMILY
 
 #### Status
 ACCEPTED

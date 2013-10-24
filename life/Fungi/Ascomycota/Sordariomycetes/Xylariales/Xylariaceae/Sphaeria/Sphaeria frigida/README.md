@@ -1,5 +1,4 @@
-Sphaeria frigida Fr. SPECIES
-=======
+# Sphaeria frigida Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea leptolepidea Stizenb. SPECIES
-=======
+# Lecidea leptolepidea Stizenb. SPECIES
 
 #### Status
 ACCEPTED

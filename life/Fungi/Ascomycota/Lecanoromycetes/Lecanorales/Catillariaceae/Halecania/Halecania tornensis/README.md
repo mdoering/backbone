@@ -1,14 +1,13 @@
-Lecania tornensis H. Magn. SPECIES
-=======
+# Halecania tornensis (H. Magn.) M. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Herzogia 7(3-4): 404 (1987)
 
 #### Original name
 Lecania tornensis H. Magn.

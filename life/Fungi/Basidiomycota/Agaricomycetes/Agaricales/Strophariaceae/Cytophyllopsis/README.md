@@ -1,5 +1,4 @@
-Cytophyllopsis GENUS
-=======
+# Cytophyllopsis GENUS
 
 #### Status
 ACCEPTED

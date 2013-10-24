@@ -1,17 +1,16 @@
-Calvatiella C.H. Chow GENUS
-=======
+# Bovistella Morgan, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Bull. Fan Mem. Inst. Biol. , Bot. 7: 91 (1936)
+J. Cincinnati Soc. Nat. Hist. 14: 141 (1892)
 
 #### Original name
-Calvatiella C.H. Chow
+Bovistella Morgan, 1892
 
 ### Remarks
 null

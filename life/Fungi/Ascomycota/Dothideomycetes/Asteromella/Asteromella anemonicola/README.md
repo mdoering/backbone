@@ -1,5 +1,4 @@
-Asteromella anemonicola (Sacc. & P. Syd.) Aa SPECIES
-=======
+# Asteromella anemonicola (Sacc. & P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

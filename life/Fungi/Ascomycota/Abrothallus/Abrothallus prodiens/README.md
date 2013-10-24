@@ -1,17 +1,16 @@
-Abrothallus parmeliarum f. prodiens Harm. FORM
-=======
+# Abrothallus prodiens (Harm.) Diederich & Hafellner, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Diederich, Mycotaxon 37: 300 (1990)
 
 #### Original name
-Abrothallus parmeliarum f. prodiens Harm.
+Lecidea prodiens Harm., 1899
 
 ### Remarks
 null

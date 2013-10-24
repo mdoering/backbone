@@ -1,5 +1,4 @@
-Challengeretta Haeckel, 1887 GENUS
-=======
+# Challengeretta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

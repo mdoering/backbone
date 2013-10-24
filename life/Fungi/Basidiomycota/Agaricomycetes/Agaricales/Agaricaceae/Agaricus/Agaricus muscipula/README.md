@@ -1,5 +1,4 @@
-Agaricus muscipula Cooke & Massee SPECIES
-=======
+# Agaricus muscipula Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

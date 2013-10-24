@@ -1,5 +1,4 @@
-Cortinarius leptocystis M.M. Moser SPECIES
-=======
+# Cortinarius leptocystis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

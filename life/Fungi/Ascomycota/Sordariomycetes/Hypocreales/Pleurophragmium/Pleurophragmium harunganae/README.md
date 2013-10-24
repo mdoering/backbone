@@ -1,5 +1,4 @@
-Pleurophragmium harunganae Hansf. SPECIES
-=======
+# Pleurophragmium harunganae Hansf. SPECIES
 
 #### Status
 ACCEPTED

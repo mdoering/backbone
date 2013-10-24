@@ -1,5 +1,4 @@
-Crepidotus cacaophyllus Berk. & M.A. Curtis SPECIES
-=======
+# Crepidotus cacaophyllus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

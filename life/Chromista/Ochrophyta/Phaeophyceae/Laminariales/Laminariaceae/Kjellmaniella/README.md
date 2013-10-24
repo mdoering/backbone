@@ -1,5 +1,4 @@
-Kjellmaniella Miyabe, 1902 GENUS
-=======
+# Kjellmaniella Miyabe, 1902 GENUS
 
 #### Status
 ACCEPTED

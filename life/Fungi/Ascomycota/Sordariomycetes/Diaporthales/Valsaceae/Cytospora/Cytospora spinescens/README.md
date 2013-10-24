@@ -1,5 +1,4 @@
-Cytospora spinescens Sacc. SPECIES
-=======
+# Cytospora spinescens Sacc. SPECIES
 
 #### Status
 ACCEPTED

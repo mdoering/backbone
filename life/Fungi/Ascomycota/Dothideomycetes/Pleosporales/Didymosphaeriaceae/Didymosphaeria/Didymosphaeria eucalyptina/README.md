@@ -1,5 +1,4 @@
-Didymosphaeria eucalyptina Sacc. SPECIES
-=======
+# Didymosphaeria eucalyptina Sacc. SPECIES
 
 #### Status
 ACCEPTED

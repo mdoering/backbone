@@ -1,5 +1,4 @@
-Rhizopus schipperae Weitzman, McGough, Rinaldi & Della-Latta, 1996 SPECIES
-=======
+# Rhizopus schipperae Weitzman, McGough, Rinaldi & Della-Latta, 1996 SPECIES
 
 #### Status
 ACCEPTED

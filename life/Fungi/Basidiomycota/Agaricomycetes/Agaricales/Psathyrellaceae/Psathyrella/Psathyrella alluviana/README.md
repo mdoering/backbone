@@ -1,5 +1,4 @@
-Psathyrella alluviana A.H. Sm. SPECIES
-=======
+# Psathyrella alluviana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

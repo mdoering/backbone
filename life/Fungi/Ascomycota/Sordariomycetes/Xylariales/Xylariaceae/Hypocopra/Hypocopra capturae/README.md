@@ -1,5 +1,4 @@
-Hypocopra capturae (Speg.) Sacc. SPECIES
-=======
+# Hypocopra capturae (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

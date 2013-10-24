@@ -1,5 +1,4 @@
-Inocybe micropyramis Berk. & Broome SPECIES
-=======
+# Inocybe micropyramis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

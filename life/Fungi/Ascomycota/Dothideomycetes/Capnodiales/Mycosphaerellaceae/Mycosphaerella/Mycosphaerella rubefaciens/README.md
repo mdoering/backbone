@@ -1,5 +1,4 @@
-Mycosphaerella rubefaciens B. Erikss. SPECIES
-=======
+# Mycosphaerella rubefaciens B. Erikss. SPECIES
 
 #### Status
 ACCEPTED

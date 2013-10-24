@@ -1,5 +1,4 @@
-Bolbitius radians Morgan SPECIES
-=======
+# Bolbitius radians Morgan SPECIES
 
 #### Status
 ACCEPTED

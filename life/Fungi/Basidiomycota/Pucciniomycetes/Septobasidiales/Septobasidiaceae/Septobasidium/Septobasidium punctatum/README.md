@@ -1,5 +1,4 @@
-Septobasidium punctatum Couch SPECIES
-=======
+# Septobasidium punctatum Couch SPECIES
 
 #### Status
 ACCEPTED

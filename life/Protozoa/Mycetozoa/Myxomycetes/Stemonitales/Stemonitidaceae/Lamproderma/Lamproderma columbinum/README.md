@@ -1,17 +1,16 @@
-Lamproderma columbinum var. sessile G. Lister VARIETY
-=======
+# Lamproderma columbinum (Pers.) Rostaf., 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa 165 (1911)
+Vers. Syst. Mycetozoen (Strassburg) 7 (1873)
 
 #### Original name
-Lamproderma columbinum var. sessile G. Lister
+Physarum columbinum Pers., 1795
 
 ### Remarks
 null

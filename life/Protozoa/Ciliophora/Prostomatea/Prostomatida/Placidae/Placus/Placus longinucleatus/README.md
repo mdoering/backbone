@@ -1,5 +1,4 @@
-Placus longinucleatus SPECIES
-=======
+# Placus longinucleatus SPECIES
 
 #### Status
 ACCEPTED

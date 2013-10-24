@@ -1,5 +1,4 @@
-Ophiobolus parmensis Pass. SPECIES
-=======
+# Ophiobolus parmensis Pass. SPECIES
 
 #### Status
 ACCEPTED

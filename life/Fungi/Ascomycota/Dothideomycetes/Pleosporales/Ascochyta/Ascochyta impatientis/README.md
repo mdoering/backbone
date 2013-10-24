@@ -1,5 +1,4 @@
-Ascochyta impatientis Bres., 1900 SPECIES
-=======
+# Ascochyta impatientis Bres., 1900 SPECIES
 
 #### Status
 ACCEPTED

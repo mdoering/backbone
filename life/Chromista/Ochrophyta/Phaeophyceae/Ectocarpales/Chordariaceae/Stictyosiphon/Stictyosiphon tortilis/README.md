@@ -1,5 +1,4 @@
-Stictyosiphon tortilis (Ruprecht) Reinke SPECIES
-=======
+# Stictyosiphon tortilis (Ruprecht) Reinke SPECIES
 
 #### Status
 ACCEPTED

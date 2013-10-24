@@ -1,5 +1,4 @@
-Platystomum confertum (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum confertum (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

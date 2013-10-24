@@ -1,5 +1,4 @@
-Pseudotrichia viridicoma (Cooke & Peck) Wehm. SPECIES
-=======
+# Pseudotrichia viridicoma (Cooke & Peck) Wehm. SPECIES
 
 #### Status
 ACCEPTED

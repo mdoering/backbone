@@ -1,5 +1,4 @@
-Rinodina papillata H. Magn. SPECIES
-=======
+# Rinodina papillata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simocybe quebecensis Redhead & Cauchon SPECIES
-=======
+# Simocybe quebecensis Redhead & Cauchon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amorphomyces rubescens Thaxt., 1912 SPECIES
-=======
+# Amorphomyces rubescens Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

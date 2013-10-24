@@ -1,5 +1,4 @@
-Phyllachora randiae Rehm, 1897 SPECIES
-=======
+# Phyllachora randiae Rehm, 1897 SPECIES
 
 #### Status
 DOUBTFUL

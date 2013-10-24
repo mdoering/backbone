@@ -1,5 +1,4 @@
-Dactylaria obscuriseptata Goh & K.D. Hyde SPECIES
-=======
+# Dactylaria obscuriseptata Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

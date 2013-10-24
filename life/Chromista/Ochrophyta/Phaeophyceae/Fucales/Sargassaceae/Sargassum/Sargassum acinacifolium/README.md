@@ -1,5 +1,4 @@
-Sargassum acinacifolium Setchell & Gardner SPECIES
-=======
+# Sargassum acinacifolium Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

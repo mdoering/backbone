@@ -1,5 +1,4 @@
-Erysiphe acaciae S. Blumer SPECIES
-=======
+# Erysiphe acaciae S. Blumer SPECIES
 
 #### Status
 ACCEPTED

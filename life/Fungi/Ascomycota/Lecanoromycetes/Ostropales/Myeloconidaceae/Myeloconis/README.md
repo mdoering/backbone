@@ -1,5 +1,4 @@
-Myeloconis P.M. McCarthy & Elix GENUS
-=======
+# Myeloconis P.M. McCarthy & Elix GENUS
 
 #### Status
 ACCEPTED

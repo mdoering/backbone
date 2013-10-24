@@ -1,5 +1,4 @@
-Alanwoodia Loeblich & Tappan, 1955 GENUS
-=======
+# Alanwoodia Loeblich & Tappan, 1955 GENUS
 
 #### Status
 ACCEPTED

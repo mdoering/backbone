@@ -1,5 +1,4 @@
-Neobulgaria parvata V.P. Tewari & Ram N. Singh SPECIES
-=======
+# Neobulgaria parvata V.P. Tewari & Ram N. Singh SPECIES
 
 #### Status
 ACCEPTED

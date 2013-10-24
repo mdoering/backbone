@@ -1,5 +1,4 @@
-Methanobacterium beijingense Ma et al., 2005 SPECIES
-=======
+# Methanobacterium beijingense Ma et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

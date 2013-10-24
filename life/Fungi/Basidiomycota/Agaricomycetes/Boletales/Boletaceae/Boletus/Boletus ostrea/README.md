@@ -1,5 +1,4 @@
-Boletus ostrea Hoffm. SPECIES
-=======
+# Boletus ostrea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

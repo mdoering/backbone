@@ -1,5 +1,4 @@
-Cordyceps ryogamimontana Kobayasi SPECIES
-=======
+# Cordyceps ryogamimontana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

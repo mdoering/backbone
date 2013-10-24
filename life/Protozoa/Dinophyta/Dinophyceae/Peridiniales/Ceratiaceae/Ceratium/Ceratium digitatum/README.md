@@ -1,5 +1,4 @@
-Ceratium digitatum Schatt SPECIES
-=======
+# Ceratium digitatum Schatt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyrea nummularia (Nyl.) Zahlbr. SPECIES
-=======
+# Thyrea nummularia (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

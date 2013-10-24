@@ -1,5 +1,4 @@
-Pseudoramibacter Willems & Collins, 1996 GENUS
-=======
+# Pseudoramibacter Willems & Collins, 1996 GENUS
 
 #### Status
 ACCEPTED

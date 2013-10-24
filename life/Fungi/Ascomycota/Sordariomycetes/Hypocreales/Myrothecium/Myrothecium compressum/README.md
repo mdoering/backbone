@@ -1,5 +1,4 @@
-Myrothecium compressum Udagawa & Cain SPECIES
-=======
+# Myrothecium compressum Udagawa & Cain SPECIES
 
 #### Status
 ACCEPTED

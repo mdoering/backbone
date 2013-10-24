@@ -1,5 +1,4 @@
-Leptosphaeria castrensis Shoemaker SPECIES
-=======
+# Leptosphaeria castrensis Shoemaker SPECIES
 
 #### Status
 ACCEPTED

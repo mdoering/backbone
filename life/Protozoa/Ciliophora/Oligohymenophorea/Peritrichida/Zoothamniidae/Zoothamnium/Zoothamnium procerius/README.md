@@ -1,5 +1,4 @@
-Zoothamnium procerius subsp. procerius SUBSPECIES
-=======
+# Zoothamnium procerius Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia lysimachiae Jaap SPECIES
-=======
+# Guignardia lysimachiae Jaap SPECIES
 
 #### Status
 ACCEPTED

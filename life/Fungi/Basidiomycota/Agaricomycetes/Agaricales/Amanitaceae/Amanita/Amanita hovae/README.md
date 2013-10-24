@@ -1,5 +1,4 @@
-Amanita hovae Bouriquet SPECIES
-=======
+# Amanita hovae Bouriquet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium tenuisporum M.B. Ellis SPECIES
-=======
+# Sporidesmium tenuisporum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

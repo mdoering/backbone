@@ -1,5 +1,4 @@
-Macrotrichum heterosporium Grev. SPECIES
-=======
+# Macrotrichum heterosporium Grev. SPECIES
 
 #### Status
 ACCEPTED

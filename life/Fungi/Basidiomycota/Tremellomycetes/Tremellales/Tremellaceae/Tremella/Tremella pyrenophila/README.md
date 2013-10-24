@@ -1,5 +1,4 @@
-Tremella pyrenophila Traverso & Migliardi SPECIES
-=======
+# Tremella pyrenophila Traverso & Migliardi SPECIES
 
 #### Status
 ACCEPTED

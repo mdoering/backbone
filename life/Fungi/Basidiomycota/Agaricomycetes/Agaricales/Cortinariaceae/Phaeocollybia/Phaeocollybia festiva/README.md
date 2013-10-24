@@ -1,14 +1,13 @@
-Agaricus festivus Fr., 1838 SPECIES
-=======
+# Phaeocollybia festiva (Fr.) R. Heim, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 192 (1838)
+Bull. trimest. Soc. mycol. Fr. 58: 127 (1942)
 
 #### Original name
 Agaricus festivus Fr., 1838

@@ -1,5 +1,4 @@
-Leveillula balsaminacearum f. balsaminacearum FORM
-=======
+# Leveillula balsaminacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula balsaminacearum f. balsaminacearum
+Leveillula balsaminacearum Golovin
 
 ### Remarks
 null

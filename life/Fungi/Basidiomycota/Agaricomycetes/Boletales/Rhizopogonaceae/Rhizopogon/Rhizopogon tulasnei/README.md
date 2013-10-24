@@ -1,5 +1,4 @@
-Rhizopogon tulasnei Corda SPECIES
-=======
+# Rhizopogon tulasnei Corda SPECIES
 
 #### Status
 ACCEPTED

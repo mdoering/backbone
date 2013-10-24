@@ -1,5 +1,4 @@
-Rosellinia decipiens Penz. & Sacc. SPECIES
-=======
+# Rosellinia decipiens Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

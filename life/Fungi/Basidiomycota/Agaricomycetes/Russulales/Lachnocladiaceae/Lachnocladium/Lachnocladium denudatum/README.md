@@ -1,5 +1,4 @@
-Lachnocladium denudatum Corner, 1970 SPECIES
-=======
+# Lachnocladium denudatum Corner, 1970 SPECIES
 
 #### Status
 ACCEPTED

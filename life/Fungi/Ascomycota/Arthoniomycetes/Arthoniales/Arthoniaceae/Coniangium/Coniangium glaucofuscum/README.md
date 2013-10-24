@@ -1,5 +1,4 @@
-Coniangium glaucofuscum Körb. SPECIES
-=======
+# Coniangium glaucofuscum Körb. SPECIES
 
 #### Status
 ACCEPTED

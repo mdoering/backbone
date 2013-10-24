@@ -1,5 +1,4 @@
-Myceliochytrium A.E. Johanson GENUS
-=======
+# Myceliochytrium A.E. Johanson GENUS
 
 #### Status
 ACCEPTED

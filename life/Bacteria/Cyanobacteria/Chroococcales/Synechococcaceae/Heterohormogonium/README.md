@@ -1,5 +1,4 @@
-Heterohormogonium Copeland, 1936 GENUS
-=======
+# Heterohormogonium Copeland, 1936 GENUS
 
 #### Status
 SYNONYM

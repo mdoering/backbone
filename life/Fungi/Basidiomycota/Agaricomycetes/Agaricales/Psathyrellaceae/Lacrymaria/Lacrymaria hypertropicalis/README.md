@@ -1,5 +1,4 @@
-Lacrymaria hypertropicalis (Guzmán, Bandala & Montoya) Cortez SPECIES
-=======
+# Lacrymaria hypertropicalis (Guzmán, Bandala & Montoya) Cortez SPECIES
 
 #### Status
 ACCEPTED

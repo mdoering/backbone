@@ -1,5 +1,4 @@
-Pragmopora piceae Velen. SPECIES
-=======
+# Pragmopora piceae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trichopeziza earoleuca (Berk. & Broome) Sacc., 1889 SPECIES
-=======
+# Proliferodiscus earoleucus (Berk. & Broome) J.H. Haines & Dumont, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 409 (1889)
+Mycologia 75(3): 539 (1983)
 
 #### Original name
 null

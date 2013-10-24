@@ -1,5 +1,4 @@
-Winteria profusa (Syd. & E.J. Butler) Sacc. SPECIES
-=======
+# Winteria profusa (Syd. & E.J. Butler) Sacc. SPECIES
 
 #### Status
 ACCEPTED

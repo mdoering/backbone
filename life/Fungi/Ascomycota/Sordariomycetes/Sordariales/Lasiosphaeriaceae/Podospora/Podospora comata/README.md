@@ -1,5 +1,4 @@
-Podospora comata Milovtz., 1937 SPECIES
-=======
+# Podospora comata Milovtz., 1937 SPECIES
 
 #### Status
 ACCEPTED

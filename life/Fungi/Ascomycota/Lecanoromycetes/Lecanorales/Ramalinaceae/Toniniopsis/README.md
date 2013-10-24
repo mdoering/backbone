@@ -1,5 +1,4 @@
-Toniniopsis Frey GENUS
-=======
+# Toniniopsis Frey GENUS
 
 #### Status
 ACCEPTED

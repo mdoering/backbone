@@ -1,5 +1,4 @@
-Xylosphaera telfairii (Berk.) Dennis SPECIES
-=======
+# Xylosphaera telfairii (Berk.) Dennis SPECIES
 
 #### Status
 ACCEPTED

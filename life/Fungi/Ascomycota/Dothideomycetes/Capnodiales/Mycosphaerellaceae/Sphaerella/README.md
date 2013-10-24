@@ -1,5 +1,4 @@
-Sphaerella (Fr.) Rabenh., 1856 GENUS
-=======
+# Sphaerella (Fr.) Rabenh., 1856 GENUS
 
 #### Status
 ACCEPTED

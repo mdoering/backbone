@@ -1,5 +1,4 @@
-Sphenospora smilacina Syd. SPECIES
-=======
+# Sphenospora smilacina Syd. SPECIES
 
 #### Status
 ACCEPTED

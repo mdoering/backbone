@@ -1,5 +1,4 @@
-Ascochyta dioscoreae Syd. & P. Syd. SPECIES
-=======
+# Ascochyta dioscoreae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

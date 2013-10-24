@@ -1,5 +1,4 @@
-Endotrichum xylogrammicum Corda SPECIES
-=======
+# Endotrichum xylogrammicum Corda SPECIES
 
 #### Status
 ACCEPTED

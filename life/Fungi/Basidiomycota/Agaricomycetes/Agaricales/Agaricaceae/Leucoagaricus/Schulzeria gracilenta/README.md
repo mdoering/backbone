@@ -1,5 +1,4 @@
-Schulzeria gracilenta Beeli SPECIES
-=======
+# Schulzeria gracilenta Beeli SPECIES
 
 #### Status
 ACCEPTED

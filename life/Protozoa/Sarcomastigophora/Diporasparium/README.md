@@ -1,5 +1,4 @@
-Diporasparium Haeckel, 1887 GENUS
-=======
+# Diporasparium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

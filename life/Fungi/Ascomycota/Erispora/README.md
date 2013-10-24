@@ -1,5 +1,4 @@
-Erispora Pat. GENUS
-=======
+# Erispora Pat. GENUS
 
 #### Status
 ACCEPTED

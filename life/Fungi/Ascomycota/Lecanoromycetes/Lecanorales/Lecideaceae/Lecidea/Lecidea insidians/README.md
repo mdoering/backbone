@@ -1,5 +1,4 @@
-Lecidea insidians Nyl. SPECIES
-=======
+# Lecidea insidians Nyl. SPECIES
 
 #### Status
 ACCEPTED

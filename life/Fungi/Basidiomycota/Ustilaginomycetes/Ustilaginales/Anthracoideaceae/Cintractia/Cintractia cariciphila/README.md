@@ -1,5 +1,4 @@
-Cintractia cariciphila (Speg.) Cif. SPECIES
-=======
+# Cintractia cariciphila (Speg.) Cif. SPECIES
 
 #### Status
 ACCEPTED

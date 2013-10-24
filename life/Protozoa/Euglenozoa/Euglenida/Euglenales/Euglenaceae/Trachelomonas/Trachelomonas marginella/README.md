@@ -1,5 +1,4 @@
-Trachelomonas marginella var. nannoplancton Conrad VARIETY
-=======
+# Trachelomonas marginella Skvortzov SPECIES
 
 #### Status
 ACCEPTED

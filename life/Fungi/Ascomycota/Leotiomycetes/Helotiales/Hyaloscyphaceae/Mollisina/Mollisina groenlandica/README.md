@@ -1,5 +1,4 @@
-Mollisina groenlandica Raitv. SPECIES
-=======
+# Mollisina groenlandica Raitv. SPECIES
 
 #### Status
 ACCEPTED

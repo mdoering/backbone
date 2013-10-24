@@ -1,5 +1,4 @@
-Aspicilia euphratica (Werner) S.Y. Kondr. SPECIES
-=======
+# Aspicilia euphratica (Werner) S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

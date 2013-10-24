@@ -1,5 +1,4 @@
-Lophodermium abietis Rostr., 1889 SPECIES
-=======
+# Lophodermium abietis Rostr., 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssostilbe GENUS
-=======
+# Byssostilbe GENUS
 
 #### Status
 ACCEPTED

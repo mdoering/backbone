@@ -1,5 +1,4 @@
-Phoma fuchsii Petr. SPECIES
-=======
+# Phoma fuchsii Petr. SPECIES
 
 #### Status
 ACCEPTED

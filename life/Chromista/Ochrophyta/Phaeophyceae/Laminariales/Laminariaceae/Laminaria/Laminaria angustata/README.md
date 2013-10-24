@@ -1,5 +1,4 @@
-Laminaria angustata Kjellman SPECIES
-=======
+# Laminaria angustata Kjellman SPECIES
 
 #### Status
 ACCEPTED

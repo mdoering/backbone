@@ -1,5 +1,4 @@
-Amphitrichum debaryanum (Auersw.) Kuntze SPECIES
-=======
+# Amphitrichum debaryanum (Auersw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

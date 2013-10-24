@@ -1,14 +1,13 @@
-Hyalolithus M.Yoshida, M.-H.Noël, T.Nakayamaa, T.Naganuma & I.Inouye, 2006 GENUS
-=======
+# Prymnesium Massart, 1920 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Acad. R. Belgique, 1920, 133.
 
 #### Original name
 null

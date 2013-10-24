@@ -1,5 +1,4 @@
-Boletus alneus Pers. SPECIES
-=======
+# Boletus alneus Pers. SPECIES
 
 #### Status
 ACCEPTED

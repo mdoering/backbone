@@ -1,5 +1,4 @@
-Chaetopeltiopsis Hara GENUS
-=======
+# Chaetopeltiopsis Hara GENUS
 
 #### Status
 ACCEPTED

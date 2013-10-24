@@ -1,5 +1,4 @@
-Amanita murinaster A.E. Wood SPECIES
-=======
+# Amanita murinaster A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

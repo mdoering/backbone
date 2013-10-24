@@ -1,5 +1,4 @@
-Cephalosporium luteum Verrall SPECIES
-=======
+# Cephalosporium luteum Verrall SPECIES
 
 #### Status
 ACCEPTED

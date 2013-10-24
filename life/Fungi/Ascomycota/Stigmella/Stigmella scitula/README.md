@@ -1,5 +1,4 @@
-Stigmella scitula Syd. {?} SPECIES
-=======
+# Stigmella scitula Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

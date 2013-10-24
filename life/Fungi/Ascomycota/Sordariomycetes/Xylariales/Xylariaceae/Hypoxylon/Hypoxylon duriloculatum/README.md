@@ -1,5 +1,4 @@
-Hypoxylon duriloculatum Van der Gucht, Y.M. Ju & J.D. Rogers, 1997 SPECIES
-=======
+# Hypoxylon duriloculatum Van der Gucht, Y.M. Ju & J.D. Rogers, 1997 SPECIES
 
 #### Status
 ACCEPTED

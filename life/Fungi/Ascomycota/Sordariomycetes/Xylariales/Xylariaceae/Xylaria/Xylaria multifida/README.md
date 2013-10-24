@@ -1,5 +1,4 @@
-Xylaria multifida Curr. SPECIES
-=======
+# Xylaria multifida Curr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amylocorticiellum sinuosum Spirin & Zmitr., 2002 SPECIES
-=======
+# Amylocorticiellum sinuosum Spirin & Zmitr., 2002 SPECIES
 
 #### Status
 ACCEPTED

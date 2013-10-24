@@ -1,5 +1,4 @@
-Bursariomorphida ORDER
-=======
+# Bursariomorphida ORDER
 
 #### Status
 ACCEPTED

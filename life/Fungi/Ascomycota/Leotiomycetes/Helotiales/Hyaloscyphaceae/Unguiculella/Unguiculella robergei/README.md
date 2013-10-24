@@ -1,17 +1,16 @@
-Unguiculariopsis robergei subsp. robergei SUBSPECIES
-=======
+# Unguiculella robergei (Desm.) Dennis, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Zhuang, Mycotaxon 32: 57 (1988)
+Kew Bull. 136 (1955)
 
 #### Original name
-Unguiculariopsis robergei subsp. robergei
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Perenniporia sinuosa Ryvarden SPECIES
-=======
+# Perenniporia sinuosa Ryvarden SPECIES
 
 #### Status
 ACCEPTED

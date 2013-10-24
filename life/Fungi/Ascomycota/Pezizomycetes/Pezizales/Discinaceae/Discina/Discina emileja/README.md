@@ -1,5 +1,4 @@
-Discina emileja Cooke SPECIES
-=======
+# Discina emileja Cooke SPECIES
 
 #### Status
 ACCEPTED

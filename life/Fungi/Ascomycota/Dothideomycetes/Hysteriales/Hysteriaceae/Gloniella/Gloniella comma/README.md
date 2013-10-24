@@ -1,5 +1,4 @@
-Gloniella comma (Ach.) Rehm SPECIES
-=======
+# Gloniella comma (Ach.) Rehm SPECIES
 
 #### Status
 ACCEPTED

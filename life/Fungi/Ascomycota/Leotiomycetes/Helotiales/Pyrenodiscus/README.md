@@ -1,5 +1,4 @@
-Pyrenodiscus GENUS
-=======
+# Pyrenodiscus GENUS
 
 #### Status
 ACCEPTED

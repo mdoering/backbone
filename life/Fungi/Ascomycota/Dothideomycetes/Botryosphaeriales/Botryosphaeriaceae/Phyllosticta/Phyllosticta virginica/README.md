@@ -1,5 +1,4 @@
-Phyllosticta virginica Ellis & Everh. SPECIES
-=======
+# Phyllosticta virginica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

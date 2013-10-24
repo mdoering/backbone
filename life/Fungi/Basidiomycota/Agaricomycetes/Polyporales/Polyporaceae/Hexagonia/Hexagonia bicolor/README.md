@@ -1,5 +1,4 @@
-Hexagonia bicolor McAlpine SPECIES
-=======
+# Hexagonia bicolor McAlpine SPECIES
 
 #### Status
 ACCEPTED

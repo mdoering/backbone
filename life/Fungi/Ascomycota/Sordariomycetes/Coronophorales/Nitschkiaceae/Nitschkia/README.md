@@ -1,17 +1,16 @@
-Scortechiniellopsis Sivan. GENUS
-=======
+# Nitschkia G.H. Otth ex P. Karsten, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Trans. Br. mycol. Soc. 62(1): 36 (1974)
+null
 
 #### Original name
-Scortechiniellopsis Sivan.
+null
 
 ### Remarks
 null

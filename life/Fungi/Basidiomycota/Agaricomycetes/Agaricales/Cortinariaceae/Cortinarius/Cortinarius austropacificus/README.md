@@ -1,5 +1,4 @@
-Cortinarius austropacificus E. Horak, Peintner, M.M. Moser & Vilgalys SPECIES
-=======
+# Cortinarius austropacificus E. Horak, Peintner, M.M. Moser & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

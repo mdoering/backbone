@@ -1,5 +1,4 @@
-Bacinella R.Radoicic GENUS
-=======
+# Bacinella R.Radoicic GENUS
 
 #### Status
 ACCEPTED

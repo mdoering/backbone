@@ -1,5 +1,4 @@
-Aulacoseira tenuior (Grunow) Krammer SPECIES
-=======
+# Aulacoseira tenuior (Grunow) Krammer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Miyoshia fusispora Kawam. SPECIES
-=======
+# Miyoshia fusispora Kawam. SPECIES
 
 #### Status
 ACCEPTED

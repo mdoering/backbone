@@ -1,5 +1,4 @@
-Leptosphaeria raphani D. Hawksw. & Sivan., 1975 SPECIES
-=======
+# Leptosphaeria raphani D. Hawksw. & Sivan., 1975 SPECIES
 
 #### Status
 ACCEPTED

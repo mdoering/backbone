@@ -1,5 +1,4 @@
-Pyricularia buloloensis Matsush. SPECIES
-=======
+# Pyricularia buloloensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

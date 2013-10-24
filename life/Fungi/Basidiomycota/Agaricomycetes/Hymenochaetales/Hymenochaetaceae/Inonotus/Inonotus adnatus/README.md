@@ -1,5 +1,4 @@
-Inonotus adnatus Ryvarden, 2002 SPECIES
-=======
+# Inonotus adnatus Ryvarden, 2002 SPECIES
 
 #### Status
 ACCEPTED

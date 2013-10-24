@@ -1,5 +1,4 @@
-Cercosporidium litseae Goh & W.H. Hsieh SPECIES
-=======
+# Cercosporidium litseae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

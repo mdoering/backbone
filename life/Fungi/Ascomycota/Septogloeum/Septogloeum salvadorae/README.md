@@ -1,5 +1,4 @@
-Septogloeum salvadorae Prasad, R.D. Singh & G.C. Bhatn. SPECIES
-=======
+# Septogloeum salvadorae Prasad, R.D. Singh & G.C. Bhatn. SPECIES
 
 #### Status
 ACCEPTED

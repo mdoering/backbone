@@ -1,17 +1,16 @@
-Canariomyces thermophila Guarro & Samson SPECIES
-=======
+# Canariomyces thermophilus Guarro & Samson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in von Arx, Figueras & Guarro, Beih. Nova Hedwigia 94: 34 (1988)
 
 #### Original name
-Canariomyces thermophila Guarro & Samson
+Canariomyces thermophilus Guarro & Samson
 
 ### Remarks
 null

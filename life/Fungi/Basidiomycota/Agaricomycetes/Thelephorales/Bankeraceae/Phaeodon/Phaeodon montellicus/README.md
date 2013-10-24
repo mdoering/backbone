@@ -1,5 +1,4 @@
-Phaeodon montellicus (Sacc.) Henn. SPECIES
-=======
+# Phaeodon montellicus (Sacc.) Henn. SPECIES
 
 #### Status
 ACCEPTED

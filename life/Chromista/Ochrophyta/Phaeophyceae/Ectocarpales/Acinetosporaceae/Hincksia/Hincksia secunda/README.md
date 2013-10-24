@@ -1,5 +1,4 @@
-Hincksia secunda (Kützing) P.C. Silva SPECIES
-=======
+# Hincksia secunda (Kützing) P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma rhacophorum Berk. & Broome SPECIES
-=======
+# Tricholoma rhacophorum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

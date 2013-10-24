@@ -1,5 +1,4 @@
-Curreyella bisbyi Dearn. SPECIES
-=======
+# Curreyella bisbyi Dearn. SPECIES
 
 #### Status
 ACCEPTED

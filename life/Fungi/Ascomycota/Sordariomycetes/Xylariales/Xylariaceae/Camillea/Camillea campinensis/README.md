@@ -1,5 +1,4 @@
-Camillea campinensis Viégas SPECIES
-=======
+# Camillea campinensis Viégas SPECIES
 
 #### Status
 ACCEPTED

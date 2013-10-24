@@ -1,5 +1,4 @@
-Protoblastenia laeta (Poelt) Kainz & Rambold SPECIES
-=======
+# Protoblastenia laeta (Poelt) Kainz & Rambold SPECIES
 
 #### Status
 ACCEPTED

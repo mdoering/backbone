@@ -1,5 +1,4 @@
-Paraurostyla gracilis SPECIES
-=======
+# Paraurostyla gracilis SPECIES
 
 #### Status
 ACCEPTED

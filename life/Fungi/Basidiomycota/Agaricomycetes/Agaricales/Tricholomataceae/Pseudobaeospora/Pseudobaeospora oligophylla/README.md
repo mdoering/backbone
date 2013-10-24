@@ -1,5 +1,4 @@
-Pseudobaeospora oligophylla (Singer) Singer SPECIES
-=======
+# Pseudobaeospora oligophylla (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

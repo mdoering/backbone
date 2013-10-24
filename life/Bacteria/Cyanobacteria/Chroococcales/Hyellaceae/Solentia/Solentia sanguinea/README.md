@@ -1,5 +1,4 @@
-Solentia sanguinea Al-Thukair SPECIES
-=======
+# Solentia sanguinea Al-Thukair SPECIES
 
 #### Status
 ACCEPTED

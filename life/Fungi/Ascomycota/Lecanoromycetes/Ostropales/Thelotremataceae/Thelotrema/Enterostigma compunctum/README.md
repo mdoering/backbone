@@ -1,5 +1,4 @@
-Enterostigma compunctum (Ach.) Müll. Arg. SPECIES
-=======
+# Enterostigma compunctum (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marinomonas foliarum Lucas-Elio, Marco-Noales, Espinosa, Ordax, Lopez, Garcias-Bonet, Marba, Duarte & Sanchez-Amat, 2010 SPECIES
-=======
+# Marinomonas foliarum Lucas-Elio, Marco-Noales, Espinosa, Ordax, Lopez, Garcias-Bonet, Marba, Duarte & Sanchez-Amat, 2010 SPECIES
 
 #### Status
 ACCEPTED

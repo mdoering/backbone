@@ -1,5 +1,4 @@
-Mycena rubrofarcta Maas Geest. & de Meijer SPECIES
-=======
+# Mycena rubrofarcta Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

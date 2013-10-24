@@ -1,14 +1,13 @@
-Cercosporina nelumbii (Tharp) Sacc. SPECIES
-=======
+# Cercosporina nelumbinis (Tharp) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 25: 912 (1931)
 
 #### Original name
 Cercospora nelumbinis Tharp

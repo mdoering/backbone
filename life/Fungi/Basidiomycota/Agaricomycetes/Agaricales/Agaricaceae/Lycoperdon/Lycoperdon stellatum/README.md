@@ -1,5 +1,4 @@
-Lycoperdon stellatum subsp. stellatum SUBSPECIES
-=======
+# Lycoperdon stellatum Relhan SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sp. pl. 2: 1184 (1753)
 
 #### Original name
-Lycoperdon stellatum subsp. stellatum
+Lycoperdon stellatum Relhan
 
 ### Remarks
 null

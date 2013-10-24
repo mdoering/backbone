@@ -1,5 +1,4 @@
-Neosphaeropsis iranica Esfand. SPECIES
-=======
+# Neosphaeropsis iranica Esfand. SPECIES
 
 #### Status
 ACCEPTED

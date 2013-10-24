@@ -1,14 +1,13 @@
-Polyblastia nitida (A. Massal.) Trevis. SPECIES
-=======
+# Blastodesmia nitida A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 180 (1852)
 
 #### Original name
 Blastodesmia nitida A. Massal.

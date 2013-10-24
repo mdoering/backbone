@@ -1,5 +1,4 @@
-Cucurbitaria depallens (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Cucurbitaria depallens (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

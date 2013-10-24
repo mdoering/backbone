@@ -1,5 +1,4 @@
-Acanthostigma filiforme Promputtha & A.N. Mill., 2010 SPECIES
-=======
+# Acanthostigma filiforme Promputtha & A.N. Mill., 2010 SPECIES
 
 #### Status
 ACCEPTED

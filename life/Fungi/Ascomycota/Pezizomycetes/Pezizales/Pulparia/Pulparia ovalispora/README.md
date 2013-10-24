@@ -1,5 +1,4 @@
-Pulparia ovalispora (Grelet) Donadini SPECIES
-=======
+# Pulparia ovalispora (Grelet) Donadini SPECIES
 
 #### Status
 ACCEPTED

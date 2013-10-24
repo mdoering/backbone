@@ -1,5 +1,4 @@
-Lenzites aurea Velen. SPECIES
-=======
+# Lenzites aurea Velen. SPECIES
 
 #### Status
 ACCEPTED

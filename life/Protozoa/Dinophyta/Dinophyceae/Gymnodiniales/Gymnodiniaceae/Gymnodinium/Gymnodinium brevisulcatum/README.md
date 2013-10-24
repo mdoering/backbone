@@ -1,5 +1,4 @@
-Gymnodinium brevisulcatum F. H. Chang SPECIES
-=======
+# Gymnodinium brevisulcatum F. H. Chang SPECIES
 
 #### Status
 ACCEPTED

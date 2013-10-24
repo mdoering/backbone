@@ -1,17 +1,16 @@
-Faurelina fimigenes Locq.-Lin. SPECIES
-=======
+# Faurelina fimigena Locq.-Lin., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 39(2): 127 (1975)
 
 #### Original name
-Faurelina fimigenes Locq.-Lin.
+Faurelina fimigena Locq.-Lin., 1975
 
 ### Remarks
 null

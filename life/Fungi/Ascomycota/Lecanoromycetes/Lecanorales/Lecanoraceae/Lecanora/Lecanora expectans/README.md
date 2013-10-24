@@ -1,5 +1,4 @@
-Lecanora expectans Darb. SPECIES
-=======
+# Lecanora expectans Darb. SPECIES
 
 #### Status
 ACCEPTED

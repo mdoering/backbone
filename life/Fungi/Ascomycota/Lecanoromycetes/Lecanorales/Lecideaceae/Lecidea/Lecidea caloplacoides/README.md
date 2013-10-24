@@ -1,5 +1,4 @@
-Lecidea caloplacoides SPECIES
-=======
+# Lecidea caloplacoides SPECIES
 
 #### Status
 ACCEPTED

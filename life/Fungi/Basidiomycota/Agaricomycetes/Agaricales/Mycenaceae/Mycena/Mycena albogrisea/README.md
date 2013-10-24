@@ -1,5 +1,4 @@
-Mycena albogrisea Peck SPECIES
-=======
+# Mycena albogrisea Peck SPECIES
 
 #### Status
 ACCEPTED

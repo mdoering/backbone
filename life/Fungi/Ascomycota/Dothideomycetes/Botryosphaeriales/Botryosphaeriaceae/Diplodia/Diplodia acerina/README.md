@@ -1,5 +1,4 @@
-Diplodia acerina Lév. SPECIES
-=======
+# Diplodia acerina Lév. SPECIES
 
 #### Status
 ACCEPTED

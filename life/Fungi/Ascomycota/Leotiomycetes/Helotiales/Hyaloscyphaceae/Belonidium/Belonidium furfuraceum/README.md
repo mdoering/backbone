@@ -1,5 +1,4 @@
-Belonidium furfuraceum Rodway SPECIES
-=======
+# Belonidium furfuraceum Rodway SPECIES
 
 #### Status
 ACCEPTED

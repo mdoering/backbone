@@ -1,5 +1,4 @@
-Kuehneromyces terrestris Natarajan & Raman SPECIES
-=======
+# Kuehneromyces terrestris Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clithris leucothoicola Tehon SPECIES
-=======
+# Clithris leucothoicola Tehon SPECIES
 
 #### Status
 ACCEPTED

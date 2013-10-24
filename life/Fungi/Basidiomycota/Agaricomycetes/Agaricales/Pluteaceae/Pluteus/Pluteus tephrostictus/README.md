@@ -1,5 +1,4 @@
-Pluteus tephrostictus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pluteus tephrostictus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

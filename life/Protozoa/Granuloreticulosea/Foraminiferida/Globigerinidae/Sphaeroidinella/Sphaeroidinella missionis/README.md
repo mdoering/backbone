@@ -1,5 +1,4 @@
-Sphaeroidinella missionis SPECIES
-=======
+# Sphaeroidinella missionis SPECIES
 
 #### Status
 ACCEPTED

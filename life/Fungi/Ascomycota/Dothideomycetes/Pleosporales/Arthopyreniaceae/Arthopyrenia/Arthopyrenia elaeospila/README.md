@@ -1,5 +1,4 @@
-Arthopyrenia elaeospila (Nyl.) H. Olivier SPECIES
-=======
+# Arthopyrenia elaeospila (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

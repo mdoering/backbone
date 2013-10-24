@@ -1,5 +1,4 @@
-Bottaria nudum SPECIES
-=======
+# Bottaria nudum SPECIES
 
 #### Status
 ACCEPTED

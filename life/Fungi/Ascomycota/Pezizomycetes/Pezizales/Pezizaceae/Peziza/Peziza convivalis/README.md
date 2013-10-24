@@ -1,5 +1,4 @@
-Peziza convivalis Batsch SPECIES
-=======
+# Peziza convivalis Batsch SPECIES
 
 #### Status
 ACCEPTED

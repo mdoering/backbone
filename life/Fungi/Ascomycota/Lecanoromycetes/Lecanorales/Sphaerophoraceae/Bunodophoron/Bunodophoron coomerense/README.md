@@ -1,14 +1,13 @@
-Sphaerophorus coomerensis Ohlsson ex Tibell SPECIES
-=======
+# Bunodophoron coomerense (Ohlsson) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Tibell, Symb. bot. upsal. 27(no. 1): 219 (1987)
+Pl. Syst. Evol. 187(1-4): 232 (1993)
 
 #### Original name
 Sphaerophorus coomerensis Ohlsson ex Tibell

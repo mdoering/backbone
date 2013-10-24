@@ -1,5 +1,4 @@
-Pithomyces gladioli X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Pithomyces gladioli X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

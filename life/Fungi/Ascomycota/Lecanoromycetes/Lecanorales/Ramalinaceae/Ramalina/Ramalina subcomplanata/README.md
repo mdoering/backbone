@@ -1,5 +1,4 @@
-Ramalina subcomplanata Nyl. SPECIES
-=======
+# Ramalina subcomplanata Nyl. SPECIES
 
 #### Status
 ACCEPTED

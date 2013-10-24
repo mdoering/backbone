@@ -1,5 +1,4 @@
-Eolichen compactus Zukal SPECIES
-=======
+# Eolichen compactus Zukal SPECIES
 
 #### Status
 ACCEPTED

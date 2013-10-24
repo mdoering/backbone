@@ -1,5 +1,4 @@
-Periconiella fabacearum A.N. Rai SPECIES
-=======
+# Periconiella fabacearum A.N. Rai SPECIES
 
 #### Status
 ACCEPTED

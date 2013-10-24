@@ -1,5 +1,4 @@
-Spathidium curvatum Kahl, 1928 SPECIES
-=======
+# Spathidium curvatum Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

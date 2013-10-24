@@ -1,5 +1,4 @@
-Phyllosticta liquidambaris C.C. Chen SPECIES
-=======
+# Phyllosticta liquidambaris C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

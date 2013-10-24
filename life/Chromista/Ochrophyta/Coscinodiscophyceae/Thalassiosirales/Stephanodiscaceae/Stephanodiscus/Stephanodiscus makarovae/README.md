@@ -1,5 +1,4 @@
-Stephanodiscus makarovae Genkal SPECIES
-=======
+# Stephanodiscus makarovae Genkal SPECIES
 
 #### Status
 ACCEPTED

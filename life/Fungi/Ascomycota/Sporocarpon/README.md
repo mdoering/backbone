@@ -1,5 +1,4 @@
-Sporocarpon Will. GENUS
-=======
+# Sporocarpon Will. GENUS
 
 #### Status
 ACCEPTED

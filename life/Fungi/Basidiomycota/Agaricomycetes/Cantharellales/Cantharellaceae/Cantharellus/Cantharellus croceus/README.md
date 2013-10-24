@@ -1,5 +1,4 @@
-Cantharellus croceus Speg. SPECIES
-=======
+# Cantharellus croceus Speg. SPECIES
 
 #### Status
 ACCEPTED

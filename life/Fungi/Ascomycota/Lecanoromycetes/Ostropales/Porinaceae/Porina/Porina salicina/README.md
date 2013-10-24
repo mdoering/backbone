@@ -1,5 +1,4 @@
-Porina salicina Müll. Arg. SPECIES
-=======
+# Porina salicina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

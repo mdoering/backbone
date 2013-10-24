@@ -1,8 +1,7 @@
-Tracheloraphis filum Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Trachelolophos filum (Dragesco & Dragesco-Kerneis, 1986) Foissner & Dragesco, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

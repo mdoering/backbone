@@ -1,5 +1,4 @@
-Lecidea melanthina Stizenb. SPECIES
-=======
+# Lecidea melanthina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

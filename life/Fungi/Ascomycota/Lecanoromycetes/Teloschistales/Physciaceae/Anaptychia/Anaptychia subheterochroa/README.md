@@ -1,5 +1,4 @@
-Anaptychia subheterochroa Kurok. SPECIES
-=======
+# Anaptychia subheterochroa Kurok. SPECIES
 
 #### Status
 ACCEPTED

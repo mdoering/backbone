@@ -1,5 +1,4 @@
-Laboulbenia lucifuga W. Rossi & Santam. SPECIES
-=======
+# Laboulbenia lucifuga W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

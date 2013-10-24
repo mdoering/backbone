@@ -1,5 +1,4 @@
-Colletotrichum effiguratum Syd. SPECIES
-=======
+# Colletotrichum effiguratum Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella dorycnii (Mont.) Ces. & De Not. SPECIES
-=======
+# Sphaerella dorycnii (Mont.) Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinoplanes brasiliensis Thiemann et al., 1969 (Approved Lists, 1980) SPECIES
-=======
+# Actinoplanes brasiliensis Thiemann et al., 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

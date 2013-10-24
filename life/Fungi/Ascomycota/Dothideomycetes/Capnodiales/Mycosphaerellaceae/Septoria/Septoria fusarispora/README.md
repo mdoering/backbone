@@ -1,5 +1,4 @@
-Septoria fusarispora Viégas SPECIES
-=======
+# Septoria fusarispora Viégas SPECIES
 
 #### Status
 ACCEPTED

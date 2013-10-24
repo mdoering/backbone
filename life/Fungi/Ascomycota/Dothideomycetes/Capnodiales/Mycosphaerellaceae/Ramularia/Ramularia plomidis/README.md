@@ -1,5 +1,4 @@
-Ramularia plomidis Bubák & Wróbl. SPECIES
-=======
+# Ramularia plomidis Bubák & Wróbl. SPECIES
 
 #### Status
 ACCEPTED

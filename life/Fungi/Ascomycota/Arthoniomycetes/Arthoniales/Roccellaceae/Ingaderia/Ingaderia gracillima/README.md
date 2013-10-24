@@ -1,5 +1,4 @@
-Ingaderia gracillima (Kremp.) Feige & Lumbsch SPECIES
-=======
+# Ingaderia gracillima (Kremp.) Feige & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

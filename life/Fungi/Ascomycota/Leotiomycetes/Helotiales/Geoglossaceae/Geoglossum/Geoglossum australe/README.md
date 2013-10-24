@@ -1,5 +1,4 @@
-Geoglossum australe Cooke SPECIES
-=======
+# Geoglossum australe Cooke SPECIES
 
 #### Status
 ACCEPTED

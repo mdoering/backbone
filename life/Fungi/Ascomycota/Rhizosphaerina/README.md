@@ -1,5 +1,4 @@
-Rhizosphaerina B. Sutton GENUS
-=======
+# Rhizosphaerina B. Sutton GENUS
 
 #### Status
 ACCEPTED

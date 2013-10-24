@@ -1,5 +1,4 @@
-Oospora ellipsospora (Corda) Sacc. & Voglino SPECIES
-=======
+# Oospora ellipsospora (Corda) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

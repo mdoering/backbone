@@ -1,5 +1,4 @@
-Leucoporus lepidus Pat. SPECIES
-=======
+# Leucoporus lepidus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Praeindicola Singh & Kalia, 1970 GENUS
-=======
+# Praeindicola Singh & Kalia, 1970 GENUS
 
 #### Status
 ACCEPTED

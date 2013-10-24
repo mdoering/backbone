@@ -1,5 +1,4 @@
-Promitotica Amaro, 1966 GENUS
-=======
+# Promitotica Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

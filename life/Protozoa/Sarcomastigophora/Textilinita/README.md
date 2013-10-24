@@ -1,5 +1,4 @@
-Textilinita Botvinnik, 1983 GENUS
-=======
+# Textilinita Botvinnik, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petriella proteophila Y. Horie & Udagawa SPECIES
-=======
+# Petriella proteophila Y. Horie & Udagawa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Borrelia hermsii (Davis, 1942) Steinhaus, 1946 (Approved Lists, 1980) SPECIES
-=======
+# Borrelia hermsii (Davis, 1942) Steinhaus, 1946 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

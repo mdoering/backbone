@@ -1,5 +1,4 @@
-Didymella clara Cooke SPECIES
-=======
+# Didymella clara Cooke SPECIES
 
 #### Status
 ACCEPTED

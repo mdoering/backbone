@@ -1,5 +1,4 @@
-Peronospora goldbachiae Jacz. SPECIES
-=======
+# Peronospora goldbachiae Jacz. SPECIES
 
 #### Status
 ACCEPTED

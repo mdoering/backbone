@@ -1,5 +1,4 @@
-Gloeosporium araliae Pavgi & Upadhyay {?} SPECIES
-=======
+# Gloeosporium araliae Pavgi & Upadhyay {?} SPECIES
 
 #### Status
 ACCEPTED

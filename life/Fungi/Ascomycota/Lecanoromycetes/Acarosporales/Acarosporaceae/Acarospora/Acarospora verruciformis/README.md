@@ -1,17 +1,16 @@
-Acarospora verruciformis f. verruciformis H. Magn. FORM
-=======
+# Acarospora verruciformis H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Goteborg. Vetensk. -och Vitter. -Handl. , Ser. 4 28(2): 58 (1852)
 
 #### Original name
-Acarospora verruciformis f. verruciformis H. Magn.
+Acarospora verruciformis H. Magn.
 
 ### Remarks
 null

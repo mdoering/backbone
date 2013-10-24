@@ -1,5 +1,4 @@
-Lichen duplicatus Sm. SPECIES
-=======
+# Lichen duplicatus Sm. SPECIES
 
 #### Status
 ACCEPTED

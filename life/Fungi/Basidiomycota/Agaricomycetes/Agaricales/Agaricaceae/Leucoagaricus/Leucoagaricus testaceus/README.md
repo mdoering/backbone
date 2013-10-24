@@ -1,5 +1,4 @@
-Leucoagaricus testaceus Heinem. SPECIES
-=======
+# Leucoagaricus testaceus Heinem. SPECIES
 
 #### Status
 ACCEPTED

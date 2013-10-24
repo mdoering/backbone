@@ -1,8 +1,7 @@
-Cercospora gaylussaci Speg. SPECIES
-=======
+# Cercospora gaylussaciae Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora gaylussaci Speg.
+Cercospora gaylussaciae Speg.
 
 ### Remarks
 null

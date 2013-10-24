@@ -1,5 +1,4 @@
-Didymosphaeria circinata (Fuckel) G. Winter SPECIES
-=======
+# Didymosphaeria circinata (Fuckel) G. Winter SPECIES
 
 #### Status
 ACCEPTED

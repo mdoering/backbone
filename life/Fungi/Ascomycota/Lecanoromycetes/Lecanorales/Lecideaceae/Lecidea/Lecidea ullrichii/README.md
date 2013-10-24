@@ -1,5 +1,4 @@
-Lecidea ullrichii Hertel SPECIES
-=======
+# Lecidea ullrichii Hertel SPECIES
 
 #### Status
 ACCEPTED

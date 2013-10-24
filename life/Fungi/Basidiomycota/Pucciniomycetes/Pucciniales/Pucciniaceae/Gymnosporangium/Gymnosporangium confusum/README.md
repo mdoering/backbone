@@ -1,17 +1,16 @@
-Gymnosporangium oxycedri Bres., 1903 SPECIES
-=======
+# Gymnosporangium confusum Plowr., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria, sér. bot. 2: 88 (1903)
+Monograph Brit. Ured. 232 (1889)
 
 #### Original name
-Gymnosporangium oxycedri Bres., 1903
+Gymnosporangium confusum Plowr., 1889
 
 ### Remarks
 null

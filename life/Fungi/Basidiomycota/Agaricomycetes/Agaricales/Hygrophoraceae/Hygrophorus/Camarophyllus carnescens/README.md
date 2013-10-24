@@ -1,5 +1,4 @@
-Camarophyllus carnescens (S. Imai) S. Ito SPECIES
-=======
+# Camarophyllus carnescens (S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

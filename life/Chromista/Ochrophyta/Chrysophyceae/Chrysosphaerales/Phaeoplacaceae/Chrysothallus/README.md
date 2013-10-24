@@ -1,5 +1,4 @@
-Chrysothallus K.I. Meyer, 1930 GENUS
-=======
+# Chrysothallus K.I. Meyer, 1930 GENUS
 
 #### Status
 ACCEPTED

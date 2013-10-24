@@ -1,5 +1,4 @@
-Massartia schelleri SPECIES
-=======
+# Massartia schelleri SPECIES
 
 #### Status
 ACCEPTED

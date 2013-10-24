@@ -1,5 +1,4 @@
-Cyathus discoideus M. Zang SPECIES
-=======
+# Cyathus discoideus M. Zang SPECIES
 
 #### Status
 ACCEPTED

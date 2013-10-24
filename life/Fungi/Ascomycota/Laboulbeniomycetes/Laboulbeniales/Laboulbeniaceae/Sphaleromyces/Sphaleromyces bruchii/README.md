@@ -1,5 +1,4 @@
-Sphaleromyces bruchii Speg. SPECIES
-=======
+# Sphaleromyces bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

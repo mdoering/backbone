@@ -1,5 +1,4 @@
-Collybia macra Berk. SPECIES
-=======
+# Collybia macra Berk. SPECIES
 
 #### Status
 ACCEPTED

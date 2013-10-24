@@ -1,5 +1,4 @@
-Dothiorella aceris Lebedeva SPECIES
-=======
+# Dothiorella aceris Lebedeva SPECIES
 
 #### Status
 ACCEPTED

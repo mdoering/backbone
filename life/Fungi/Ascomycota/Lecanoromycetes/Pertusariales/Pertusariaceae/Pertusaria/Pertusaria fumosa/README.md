@@ -1,5 +1,4 @@
-Pertusaria fumosa C. Knight SPECIES
-=======
+# Pertusaria fumosa C. Knight SPECIES
 
 #### Status
 ACCEPTED

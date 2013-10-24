@@ -1,5 +1,4 @@
-Lyophyllum tomentellum E. Ludw. & V. Kumm. SPECIES
-=======
+# Lyophyllum tomentellum E. Ludw. & V. Kumm. SPECIES
 
 #### Status
 ACCEPTED

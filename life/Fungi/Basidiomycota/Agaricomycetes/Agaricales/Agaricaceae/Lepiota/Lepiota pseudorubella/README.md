@@ -1,5 +1,4 @@
-Lepiota pseudorubella Gubitz SPECIES
-=======
+# Lepiota pseudorubella Gubitz SPECIES
 
 #### Status
 ACCEPTED

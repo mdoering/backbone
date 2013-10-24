@@ -1,5 +1,4 @@
-Ophiobolus morthieri var. morthieri VARIETY
-=======
+# Ophiobolus morthieri Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ophiobolus morthieri var. morthieri
+Ophiobolus morthieri Sacc. & Berl.
 
 ### Remarks
 null

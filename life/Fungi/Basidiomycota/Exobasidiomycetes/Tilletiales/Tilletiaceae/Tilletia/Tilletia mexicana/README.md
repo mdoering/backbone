@@ -1,5 +1,4 @@
-Tilletia mexicana Vánky, 2005 SPECIES
-=======
+# Tilletia mexicana Vánky, 2005 SPECIES
 
 #### Status
 ACCEPTED

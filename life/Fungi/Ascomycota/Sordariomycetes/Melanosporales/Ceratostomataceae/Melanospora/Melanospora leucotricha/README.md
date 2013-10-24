@@ -1,5 +1,4 @@
-Melanospora leucotricha Corda, 1837 SPECIES
-=======
+# Melanospora leucotricha Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

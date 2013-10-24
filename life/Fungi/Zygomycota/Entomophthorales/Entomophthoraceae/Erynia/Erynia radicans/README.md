@@ -1,14 +1,13 @@
-Entomophthora radicans Bref., 1877 SPECIES
-=======
+# Erynia radicans (Bref.) Humber, Ben Ze'ev & R.G. Kenneth, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 35: 345, 368 (1877)
+in Humber & Ben-Ze'ev, Mycotaxon 13(3): 509 (1981)
 
 #### Original name
 Entomophthora radicans Bref., 1877

@@ -1,5 +1,4 @@
-Chaetothyriopsis GENUS
-=======
+# Chaetothyriopsis GENUS
 
 #### Status
 ACCEPTED

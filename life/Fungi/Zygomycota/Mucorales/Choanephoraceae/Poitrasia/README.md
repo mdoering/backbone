@@ -1,5 +1,4 @@
-Poitrasia P.M. Kirk GENUS
-=======
+# Poitrasia P.M. Kirk GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Typhula graminum P. Karst., 1876 SPECIES
-=======
+# Typhula graminum P. Karst., 1876 SPECIES
 
 #### Status
 ACCEPTED

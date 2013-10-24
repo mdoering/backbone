@@ -1,5 +1,4 @@
-Pseudostaurosisopsis E.A.Morales, 2001 GENUS
-=======
+# Pseudostaurosisopsis E.A.Morales, 2001 GENUS
 
 #### Status
 ACCEPTED

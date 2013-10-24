@@ -1,5 +1,4 @@
-Vermilacinia cedrosensis (J.E. Marsh & T.H. Nash) Spjut SPECIES
-=======
+# Vermilacinia cedrosensis (J.E. Marsh & T.H. Nash) Spjut SPECIES
 
 #### Status
 ACCEPTED

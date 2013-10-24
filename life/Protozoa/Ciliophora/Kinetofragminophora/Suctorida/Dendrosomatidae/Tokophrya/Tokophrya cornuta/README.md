@@ -1,5 +1,4 @@
-Tokophrya cornuta SPECIES
-=======
+# Tokophrya cornuta SPECIES
 
 #### Status
 ACCEPTED

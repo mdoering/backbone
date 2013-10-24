@@ -1,5 +1,4 @@
-Thelenella aeruginosa Vain. SPECIES
-=======
+# Thelenella aeruginosa Vain. SPECIES
 
 #### Status
 ACCEPTED

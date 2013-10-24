@@ -1,14 +1,13 @@
-Ameris rosiola (Ellis & Everh.) Arthur SPECIES
-=======
+# Ameris rosicola (Ellis & Everh.) Arthur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Résult. Sci. Congr. Bot. Vienne 342 (1906)
 
 #### Original name
 Uromyces rosicola Ellis & Everh.

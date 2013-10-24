@@ -1,5 +1,4 @@
-Amphistegina trilobata d'Orbigny in Fornasini, 1903 SPECIES
-=======
+# Amphistegina trilobata d'Orbigny in Fornasini, 1903 SPECIES
 
 #### Status
 ACCEPTED

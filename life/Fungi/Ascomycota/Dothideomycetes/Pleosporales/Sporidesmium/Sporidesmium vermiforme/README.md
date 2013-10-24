@@ -1,5 +1,4 @@
-Sporidesmium vermiforme Riess SPECIES
-=======
+# Sporidesmium vermiforme Riess SPECIES
 
 #### Status
 ACCEPTED

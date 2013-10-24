@@ -1,5 +1,4 @@
-Megacollybia marginata R.H. Petersen, O.V. Morozova & J.L. Mata SPECIES
-=======
+# Megacollybia marginata R.H. Petersen, O.V. Morozova & J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida rosea (Zenoni) F.P. Almeida SPECIES
-=======
+# Candida rosea (Zenoni) F.P. Almeida SPECIES
 
 #### Status
 ACCEPTED

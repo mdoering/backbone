@@ -1,5 +1,4 @@
-Alternaria sauropodis E.G. Simmons SPECIES
-=======
+# Alternaria sauropodis E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

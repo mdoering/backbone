@@ -1,5 +1,4 @@
-Tapesia globulifera Velen. SPECIES
-=======
+# Tapesia globulifera Velen. SPECIES
 
 #### Status
 ACCEPTED

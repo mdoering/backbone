@@ -1,5 +1,4 @@
-Mycovellosiella malvastri (Linder) Deighton SPECIES
-=======
+# Mycovellosiella malvastri (Linder) Deighton SPECIES
 
 #### Status
 ACCEPTED

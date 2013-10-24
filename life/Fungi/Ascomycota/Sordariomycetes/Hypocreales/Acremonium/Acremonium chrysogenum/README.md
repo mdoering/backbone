@@ -1,14 +1,13 @@
-Cephalosporium chrysogenum Thirum. & Sukapure, 1963 SPECIES
-=======
+# Acremonium chrysogenum (Thirum. & Sukapure) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sukapure & Thirumalachar, Mycologia 55(5): 565 (1963)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 109 (1971)
 
 #### Original name
 Cephalosporium chrysogenum Thirum. & Sukapure, 1963

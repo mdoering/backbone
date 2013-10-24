@@ -1,5 +1,4 @@
-Cribraria media H.Z. Li & Yu Li, 1995 SPECIES
-=======
+# Cribraria media H.Z. Li & Yu Li, 1995 SPECIES
 
 #### Status
 ACCEPTED

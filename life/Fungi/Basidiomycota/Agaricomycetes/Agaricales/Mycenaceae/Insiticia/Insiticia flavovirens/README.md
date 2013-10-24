@@ -1,17 +1,16 @@
-Agaricus flavovirens Cooke & Massee, 1890 SPECIES
-=======
+# Insiticia flavovirens (Sacc.) E. Horak ex Segedin, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hoffmann, Naturgetr. Abbild. Beschr. Schwämme (Prague) 3: tab. 24 (1793)
+N. Z. Jl Bot. 25(2): 197 (1987)
 
 #### Original name
-Agaricus flavovirens Cooke & Massee, 1890
+Mycena flavovirens Sacc., 1891
 
 ### Remarks
 null

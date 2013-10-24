@@ -1,5 +1,4 @@
-Calicium eusporum Nyl. SPECIES
-=======
+# Calicium eusporum Nyl. SPECIES
 
 #### Status
 ACCEPTED

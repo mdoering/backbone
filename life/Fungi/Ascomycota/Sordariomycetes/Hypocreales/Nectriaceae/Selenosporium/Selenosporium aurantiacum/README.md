@@ -1,5 +1,4 @@
-Selenosporium aurantiacum Bonord. SPECIES
-=======
+# Selenosporium aurantiacum Bonord. SPECIES
 
 #### Status
 ACCEPTED

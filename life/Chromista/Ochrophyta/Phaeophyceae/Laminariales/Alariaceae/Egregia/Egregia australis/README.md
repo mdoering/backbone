@@ -1,5 +1,4 @@
-Egregia australis Hollenberg, 1957 SPECIES
-=======
+# Egregia australis Hollenberg, 1957 SPECIES
 
 #### Status
 ACCEPTED

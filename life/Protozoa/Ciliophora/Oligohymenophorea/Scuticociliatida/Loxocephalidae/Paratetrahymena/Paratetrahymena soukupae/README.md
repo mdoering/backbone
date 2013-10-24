@@ -1,5 +1,4 @@
-Paratetrahymena soukupae Small & Lynn, 1985 SPECIES
-=======
+# Paratetrahymena soukupae Small & Lynn, 1985 SPECIES
 
 #### Status
 ACCEPTED

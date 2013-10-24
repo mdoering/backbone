@@ -1,5 +1,4 @@
-Phloeospora mimosae-pigrae H.C. Evans & G. Carrión, 1993 SPECIES
-=======
+# Phloeospora mimosae-pigrae H.C. Evans & G. Carrión, 1993 SPECIES
 
 #### Status
 ACCEPTED

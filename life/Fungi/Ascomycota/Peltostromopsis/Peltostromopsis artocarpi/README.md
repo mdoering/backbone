@@ -1,5 +1,4 @@
-Peltostromopsis artocarpi Bat. & A.F. Vital, 1959 SPECIES
-=======
+# Peltostromopsis artocarpi Bat. & A.F. Vital, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota humicola (Quél.) Sacc. SPECIES
-=======
+# Pholiota humicola (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

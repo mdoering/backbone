@@ -1,5 +1,4 @@
-Asterina rhabdodendri var. rhabdodendri VARIETY
-=======
+# Asterina rhabdodendri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterina rhabdodendri var. rhabdodendri
+Asterina rhabdodendri Syd. & P. Syd.
 
 ### Remarks
 null

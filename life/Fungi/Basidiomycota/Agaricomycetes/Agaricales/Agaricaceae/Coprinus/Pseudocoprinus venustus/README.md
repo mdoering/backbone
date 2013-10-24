@@ -1,5 +1,4 @@
-Pseudocoprinus venustus McKnight & P. Allison SPECIES
-=======
+# Pseudocoprinus venustus McKnight & P. Allison SPECIES
 
 #### Status
 ACCEPTED

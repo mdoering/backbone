@@ -1,5 +1,4 @@
-Entoloma fasciculatum Hesler SPECIES
-=======
+# Entoloma fasciculatum Hesler SPECIES
 
 #### Status
 ACCEPTED

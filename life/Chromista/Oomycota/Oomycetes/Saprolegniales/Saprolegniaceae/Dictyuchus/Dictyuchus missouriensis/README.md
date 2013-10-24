@@ -1,5 +1,4 @@
-Dictyuchus missouriensis Couch SPECIES
-=======
+# Dictyuchus missouriensis Couch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria arsenii B. de Lesd. SPECIES
-=======
+# Pertusaria arsenii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

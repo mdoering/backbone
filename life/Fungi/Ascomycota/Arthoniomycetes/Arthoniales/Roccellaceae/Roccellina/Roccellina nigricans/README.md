@@ -1,5 +1,4 @@
-Roccellina nigricans Tehler SPECIES
-=======
+# Roccellina nigricans Tehler SPECIES
 
 #### Status
 ACCEPTED

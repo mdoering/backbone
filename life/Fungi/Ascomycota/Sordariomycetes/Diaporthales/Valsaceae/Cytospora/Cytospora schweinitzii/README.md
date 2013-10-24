@@ -1,5 +1,4 @@
-Cytospora schweinitzii Sacc. SPECIES
-=======
+# Cytospora schweinitzii Sacc. SPECIES
 
 #### Status
 ACCEPTED

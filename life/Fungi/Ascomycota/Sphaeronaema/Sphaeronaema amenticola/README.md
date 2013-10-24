@@ -1,5 +1,4 @@
-Sphaeronaema amenticola Ces. SPECIES
-=======
+# Sphaeronaema amenticola Ces. SPECIES
 
 #### Status
 ACCEPTED

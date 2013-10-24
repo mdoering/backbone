@@ -1,5 +1,4 @@
-Sphaeria viburni Schwein. SPECIES
-=======
+# Sphaeria viburni Schwein. SPECIES
 
 #### Status
 ACCEPTED

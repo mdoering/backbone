@@ -1,5 +1,4 @@
-Thelotrema scabrosum Hale SPECIES
-=======
+# Thelotrema scabrosum Hale SPECIES
 
 #### Status
 ACCEPTED

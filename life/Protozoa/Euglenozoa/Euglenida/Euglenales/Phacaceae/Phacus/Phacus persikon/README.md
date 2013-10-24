@@ -1,5 +1,4 @@
-Phacus persikon Pochmann SPECIES
-=======
+# Phacus persikon Pochmann SPECIES
 
 #### Status
 ACCEPTED

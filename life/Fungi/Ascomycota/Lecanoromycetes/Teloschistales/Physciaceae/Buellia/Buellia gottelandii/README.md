@@ -1,5 +1,4 @@
-Buellia gottelandii SPECIES
-=======
+# Buellia gottelandii SPECIES
 
 #### Status
 ACCEPTED

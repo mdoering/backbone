@@ -1,5 +1,4 @@
-Marasmius cinereoflavidus Henn. SPECIES
-=======
+# Marasmius cinereoflavidus Henn. SPECIES
 
 #### Status
 ACCEPTED

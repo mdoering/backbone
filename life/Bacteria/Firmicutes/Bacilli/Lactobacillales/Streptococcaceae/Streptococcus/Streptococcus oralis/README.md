@@ -1,5 +1,4 @@
-Streptococcus oralis Bridge & Sneath, 1982 SPECIES
-=======
+# Streptococcus oralis Bridge & Sneath, 1982 SPECIES
 
 #### Status
 ACCEPTED

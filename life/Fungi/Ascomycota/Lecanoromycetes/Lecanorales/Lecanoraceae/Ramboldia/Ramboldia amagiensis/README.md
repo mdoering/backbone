@@ -1,5 +1,4 @@
-Ramboldia amagiensis (Räsänen) Kalb, Lumbsch & Elix SPECIES
-=======
+# Ramboldia amagiensis (Räsänen) Kalb, Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

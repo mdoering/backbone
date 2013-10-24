@@ -1,17 +1,16 @@
-Pluteus spegazzinianus var. spegazzinianus VARIETY
-=======
+# Pluteus spegazzinianus Singer, 1952 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 6(1-4): 221 (1952)
 
 #### Original name
-Pluteus spegazzinianus var. spegazzinianus
+Pluteus spegazzinianus Singer, 1952
 
 ### Remarks
 null

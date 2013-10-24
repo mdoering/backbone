@@ -1,5 +1,4 @@
-Trichodinella capri Duncan, 1977 SPECIES
-=======
+# Trichodinella capri Duncan, 1977 SPECIES
 
 #### Status
 ACCEPTED

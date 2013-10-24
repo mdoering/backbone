@@ -1,5 +1,4 @@
-Cerotelium wagateae Thirum. & Gopalkr. SPECIES
-=======
+# Cerotelium wagateae Thirum. & Gopalkr. SPECIES
 
 #### Status
 ACCEPTED

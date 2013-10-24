@@ -1,5 +1,4 @@
-Hohenbuehelia incarnata Corner SPECIES
-=======
+# Hohenbuehelia incarnata Corner SPECIES
 
 #### Status
 ACCEPTED

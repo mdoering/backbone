@@ -1,5 +1,4 @@
-Cercospora kylingae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora kylingae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus subperforatus A.H. Sm. SPECIES
-=======
+# Cantharellus subperforatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

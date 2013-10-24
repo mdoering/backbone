@@ -1,5 +1,4 @@
-Leiosphaeridia tenera (Wang Fuxing & Zhai Yongyun, 1982) Fensome et al. SPECIES
-=======
+# Leiosphaeridia tenera (Wang Fuxing & Zhai Yongyun, 1982) Fensome et al. SPECIES
 
 #### Status
 ACCEPTED

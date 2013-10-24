@@ -1,17 +1,16 @@
-Coniocybopsis Vain. GENUS
-=======
+# Microcalicium Vainio, 1927 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 57(1): 75 (1927)
+null
 
 #### Original name
-Coniocybopsis Vain.
+null
 
 ### Remarks
 null

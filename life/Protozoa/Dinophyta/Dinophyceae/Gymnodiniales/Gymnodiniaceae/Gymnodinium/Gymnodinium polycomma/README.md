@@ -1,5 +1,4 @@
-Gymnodinium polycomma J. Larsen SPECIES
-=======
+# Gymnodinium polycomma J. Larsen SPECIES
 
 #### Status
 ACCEPTED

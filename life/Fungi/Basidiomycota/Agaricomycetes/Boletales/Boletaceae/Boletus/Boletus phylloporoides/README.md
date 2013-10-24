@@ -1,5 +1,4 @@
-Boletus phylloporoides Corner SPECIES
-=======
+# Boletus phylloporoides Corner SPECIES
 
 #### Status
 ACCEPTED

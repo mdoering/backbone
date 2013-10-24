@@ -1,5 +1,4 @@
-Sporidesmium cajani M.B. Ellis SPECIES
-=======
+# Sporidesmium cajani M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squinabolella Pessagno, 1969 GENUS
-=======
+# Squinabolella Pessagno, 1969 GENUS
 
 #### Status
 ACCEPTED

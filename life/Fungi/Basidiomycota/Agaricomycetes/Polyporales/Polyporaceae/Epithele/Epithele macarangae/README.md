@@ -1,5 +1,4 @@
-Epithele macarangae Boidin & Lanq., 1983 SPECIES
-=======
+# Epithele macarangae Boidin & Lanq., 1983 SPECIES
 
 #### Status
 ACCEPTED

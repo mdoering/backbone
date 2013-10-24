@@ -1,5 +1,4 @@
-Amanitopsis strangulata (Fr.) Roze SPECIES
-=======
+# Amanitopsis strangulata (Fr.) Roze SPECIES
 
 #### Status
 ACCEPTED

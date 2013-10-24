@@ -1,5 +1,4 @@
-Bathelium degenerans (Vain.) R. C. Harris SPECIES
-=======
+# Bathelium degenerans (Vain.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

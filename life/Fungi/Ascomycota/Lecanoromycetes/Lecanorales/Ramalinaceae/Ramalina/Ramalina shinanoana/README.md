@@ -1,5 +1,4 @@
-Ramalina shinanoana Kashiw. SPECIES
-=======
+# Ramalina shinanoana Kashiw. SPECIES
 
 #### Status
 ACCEPTED

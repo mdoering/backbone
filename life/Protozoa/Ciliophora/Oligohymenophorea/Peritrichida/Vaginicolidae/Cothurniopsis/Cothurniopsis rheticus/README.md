@@ -1,5 +1,4 @@
-Cothurniopsis rheticus SPECIES
-=======
+# Cothurniopsis rheticus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Farysia endotricha (Berk.) Syd. & P. Syd., 1919 SPECIES
-=======
+# Farysporium endotrichum (Berk.) Vánky, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 17(1): 41 (1919)
+Mycotaxon 71: 208 (1999)
 
 #### Original name
 Ustilago endotricha Berk., 1855

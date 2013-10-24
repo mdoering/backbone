@@ -1,5 +1,4 @@
-Cladosporium dianellicola Y. Cui & Z.Y. Zhang, 2001 SPECIES
-=======
+# Cladosporium dianellicola Y. Cui & Z.Y. Zhang, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria guazumae F.S.M. González & J.D. Rogers SPECIES
-=======
+# Xylaria guazumae F.S.M. González & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

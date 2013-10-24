@@ -1,5 +1,4 @@
-Dictyota friabilis Setchell SPECIES
-=======
+# Dictyota friabilis Setchell SPECIES
 
 #### Status
 ACCEPTED

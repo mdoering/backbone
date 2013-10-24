@@ -1,5 +1,4 @@
-Puccinia uniformis Pammel & H.H. Hume SPECIES
-=======
+# Puccinia uniformis Pammel & H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

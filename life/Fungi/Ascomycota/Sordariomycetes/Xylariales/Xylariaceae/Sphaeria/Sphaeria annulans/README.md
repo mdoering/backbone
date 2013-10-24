@@ -1,5 +1,4 @@
-Sphaeria annulans Schwein. SPECIES
-=======
+# Sphaeria annulans Schwein. SPECIES
 
 #### Status
 ACCEPTED

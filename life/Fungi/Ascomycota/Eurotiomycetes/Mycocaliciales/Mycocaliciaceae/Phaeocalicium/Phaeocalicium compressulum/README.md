@@ -1,14 +1,13 @@
-Calicium compressulum (Nyl. ex Vain.) Ozenda & Clauzade SPECIES
-=======
+# Phaeocalicium compressulum (Nyl. ex Vain.) A. F. W. Schmidt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Les Lichens 775 (1970)
+Mitt. Staatsinst. Allg. Bot. Hamburg 13: 130 (1970)
 
 #### Original name
 Mycocalicium praecedens var. compressulum Nyl. ex Vain.

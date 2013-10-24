@@ -1,5 +1,4 @@
-Azorhizophilus Thompson & Skerman, 1981 GENUS
-=======
+# Azorhizophilus Thompson & Skerman, 1981 GENUS
 
 #### Status
 ACCEPTED

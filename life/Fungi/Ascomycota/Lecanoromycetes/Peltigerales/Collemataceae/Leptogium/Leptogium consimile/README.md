@@ -1,5 +1,4 @@
-Leptogium consimile Vain. SPECIES
-=======
+# Leptogium consimile Vain. SPECIES
 
 #### Status
 ACCEPTED

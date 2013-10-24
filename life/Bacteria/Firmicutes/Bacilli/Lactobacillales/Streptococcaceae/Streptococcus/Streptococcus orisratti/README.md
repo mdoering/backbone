@@ -1,5 +1,4 @@
-Streptococcus orisratti Zhu et al., 2000 SPECIES
-=======
+# Streptococcus orisratti Zhu et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

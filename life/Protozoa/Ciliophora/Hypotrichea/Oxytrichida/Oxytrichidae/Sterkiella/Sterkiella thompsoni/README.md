@@ -1,5 +1,4 @@
-Sterkiella thompsoni Foissner, 1996 SPECIES
-=======
+# Sterkiella thompsoni Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

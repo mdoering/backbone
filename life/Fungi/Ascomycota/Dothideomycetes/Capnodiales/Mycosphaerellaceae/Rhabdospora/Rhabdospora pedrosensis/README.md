@@ -1,5 +1,4 @@
-Rhabdospora pedrosensis Bubák & Gonz. Frag. SPECIES
-=======
+# Rhabdospora pedrosensis Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

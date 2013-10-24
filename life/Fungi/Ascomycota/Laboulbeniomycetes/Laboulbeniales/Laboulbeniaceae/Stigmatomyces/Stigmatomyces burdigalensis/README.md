@@ -1,5 +1,4 @@
-Stigmatomyces burdigalensis (Balazuc) A. Weir & W. Rossi SPECIES
-=======
+# Stigmatomyces burdigalensis (Balazuc) A. Weir & W. Rossi SPECIES
 
 #### Status
 ACCEPTED

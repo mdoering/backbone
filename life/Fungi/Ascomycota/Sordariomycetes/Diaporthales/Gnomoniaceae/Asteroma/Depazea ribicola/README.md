@@ -1,5 +1,4 @@
-Depazea ribicola Fr. SPECIES
-=======
+# Depazea ribicola Fr. SPECIES
 
 #### Status
 ACCEPTED

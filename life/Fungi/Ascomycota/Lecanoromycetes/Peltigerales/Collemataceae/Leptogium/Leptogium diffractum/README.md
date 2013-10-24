@@ -1,14 +1,13 @@
-Pseudoleptogium diffractum (Kremp. ex Körb.) Müll. Arg. SPECIES
-=======
+# Leptogium diffractum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Arnold, Flora, Jena 44: 258 (1861)
 
 #### Original name
 Leptogium diffractum Nyl.

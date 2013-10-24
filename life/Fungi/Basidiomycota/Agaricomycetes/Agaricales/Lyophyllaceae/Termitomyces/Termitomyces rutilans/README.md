@@ -1,5 +1,4 @@
-Termitomyces rutilans (Fr.) Sing. SPECIES
-=======
+# Termitomyces rutilans (Fr.) Sing. SPECIES
 
 #### Status
 ACCEPTED

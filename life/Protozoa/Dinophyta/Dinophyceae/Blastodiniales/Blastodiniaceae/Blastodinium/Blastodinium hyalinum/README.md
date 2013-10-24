@@ -1,5 +1,4 @@
-Blastodinium hyalinum Chatton SPECIES
-=======
+# Blastodinium hyalinum Chatton SPECIES
 
 #### Status
 ACCEPTED

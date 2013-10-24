@@ -1,5 +1,4 @@
-Cyclochaeta domerguei SPECIES
-=======
+# Cyclochaeta domerguei SPECIES
 
 #### Status
 ACCEPTED

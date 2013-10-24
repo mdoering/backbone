@@ -1,14 +1,13 @@
-Benjaminella platensis (Speg.) I.I. Tav., 1981 SPECIES
-=======
+# Benjaminiomyces platensis (Speg.) I.I. Tav., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 12(2): 437 (1981)
+Mycotaxon 75: 207 (2000)
 
 #### Original name
 Rickia platensis Speg., 1917

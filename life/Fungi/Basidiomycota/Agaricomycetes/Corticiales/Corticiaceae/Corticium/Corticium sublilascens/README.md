@@ -1,5 +1,4 @@
-Corticium sublilascens Litsch. SPECIES
-=======
+# Corticium sublilascens Litsch. SPECIES
 
 #### Status
 ACCEPTED

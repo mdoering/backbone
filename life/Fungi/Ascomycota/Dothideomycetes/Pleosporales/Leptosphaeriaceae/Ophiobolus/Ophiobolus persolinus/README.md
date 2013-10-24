@@ -1,5 +1,4 @@
-Ophiobolus persolinus (Caldesi & De Not.) Sacc. SPECIES
-=======
+# Ophiobolus persolinus (Caldesi & De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

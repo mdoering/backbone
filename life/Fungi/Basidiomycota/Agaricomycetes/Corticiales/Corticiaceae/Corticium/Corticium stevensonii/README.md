@@ -1,5 +1,4 @@
-Corticium stevensonii Burt SPECIES
-=======
+# Corticium stevensonii Burt SPECIES
 
 #### Status
 ACCEPTED

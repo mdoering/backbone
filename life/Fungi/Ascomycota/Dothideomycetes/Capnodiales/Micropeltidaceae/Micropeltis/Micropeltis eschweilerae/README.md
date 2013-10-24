@@ -1,5 +1,4 @@
-Micropeltis eschweilerae Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis eschweilerae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe cookei Singer SPECIES
-=======
+# Psilocybe cookei Singer SPECIES
 
 #### Status
 ACCEPTED

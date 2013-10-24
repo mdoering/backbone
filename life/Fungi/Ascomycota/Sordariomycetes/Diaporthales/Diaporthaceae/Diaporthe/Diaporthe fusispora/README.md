@@ -1,5 +1,4 @@
-Diaporthe fusispora Z.Q. Yuan SPECIES
-=======
+# Diaporthe fusispora Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

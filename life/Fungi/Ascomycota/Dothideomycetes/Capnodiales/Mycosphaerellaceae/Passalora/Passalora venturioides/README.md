@@ -1,5 +1,4 @@
-Passalora venturioides (Peck) U. Braun & Crous SPECIES
-=======
+# Passalora venturioides (Peck) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleurotus septicus var. septicus VARIETY
-=======
+# Crepidotus epibryus (Fr.) Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) (1871)
+Fl. mycol. France (Paris) 107 (1888)
 
 #### Original name
-Pleurotus septicus var. septicus
+Agaricus epibryus Fr., 1821
 
 ### Remarks
 null

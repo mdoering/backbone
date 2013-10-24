@@ -1,5 +1,4 @@
-Gloeosporium chamaenerii Allesch. SPECIES
-=======
+# Gloeosporium chamaenerii Allesch. SPECIES
 
 #### Status
 ACCEPTED

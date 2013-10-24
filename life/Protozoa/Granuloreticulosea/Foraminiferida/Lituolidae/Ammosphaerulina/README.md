@@ -1,5 +1,4 @@
-Ammosphaerulina Cushman, 1912 GENUS
-=======
+# Ammosphaerulina Cushman, 1912 GENUS
 
 #### Status
 ACCEPTED

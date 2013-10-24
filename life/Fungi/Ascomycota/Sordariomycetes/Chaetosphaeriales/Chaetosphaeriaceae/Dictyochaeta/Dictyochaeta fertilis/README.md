@@ -1,14 +1,13 @@
-Codinaea fertilis S. Hughes & W.B. Kendr., 1968 SPECIES
-=======
+# Dictyochaeta fertilis (S. Hughes & W.B. Kendr.) Hol.-Jech., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 6: 347 (1968)
+Folia geobot. phytotax. 19(4): 426 (1984)
 
 #### Original name
 Codinaea fertilis S. Hughes & W.B. Kendr., 1968

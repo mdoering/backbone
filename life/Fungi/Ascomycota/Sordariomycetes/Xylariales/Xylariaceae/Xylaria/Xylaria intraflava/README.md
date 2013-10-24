@@ -1,5 +1,4 @@
-Xylaria intraflava Y.M. Ju & H.M. Hsieh, 2008 SPECIES
-=======
+# Xylaria intraflava Y.M. Ju & H.M. Hsieh, 2008 SPECIES
 
 #### Status
 ACCEPTED

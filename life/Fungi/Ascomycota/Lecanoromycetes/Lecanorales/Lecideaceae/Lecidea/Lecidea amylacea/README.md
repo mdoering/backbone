@@ -1,5 +1,4 @@
-Lecidea amylacea Ach. SPECIES
-=======
+# Lecidea amylacea Ach. SPECIES
 
 #### Status
 ACCEPTED

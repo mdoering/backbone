@@ -1,5 +1,4 @@
-Epistylis parasitica (Ehrenberg in Hemprich & Ehrenberg, 1831) Ehrenberg, 1831 SPECIES
-=======
+# Epistylis parasitica (Ehrenberg in Hemprich & Ehrenberg, 1831) Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

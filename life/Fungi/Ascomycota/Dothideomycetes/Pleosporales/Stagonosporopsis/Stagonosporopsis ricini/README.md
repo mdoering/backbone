@@ -1,5 +1,4 @@
-Stagonosporopsis ricini Rodigin SPECIES
-=======
+# Stagonosporopsis ricini Rodigin SPECIES
 
 #### Status
 ACCEPTED

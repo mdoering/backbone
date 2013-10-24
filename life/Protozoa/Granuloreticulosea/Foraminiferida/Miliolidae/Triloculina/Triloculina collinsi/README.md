@@ -1,5 +1,4 @@
-Triloculina collinsi Carter SPECIES
-=======
+# Triloculina collinsi Carter SPECIES
 
 #### Status
 ACCEPTED

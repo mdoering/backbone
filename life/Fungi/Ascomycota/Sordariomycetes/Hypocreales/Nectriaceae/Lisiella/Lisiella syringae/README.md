@@ -1,5 +1,4 @@
-Lisiella syringae (Hazsl.) Sacc. & P. Syd. SPECIES
-=======
+# Lisiella syringae (Hazsl.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

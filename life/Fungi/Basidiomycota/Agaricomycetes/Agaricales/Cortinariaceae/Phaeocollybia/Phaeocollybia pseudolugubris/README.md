@@ -1,5 +1,4 @@
-Phaeocollybia pseudolugubris Bandala & E. Horak SPECIES
-=======
+# Phaeocollybia pseudolugubris Bandala & E. Horak SPECIES
 
 #### Status
 ACCEPTED

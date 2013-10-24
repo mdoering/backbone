@@ -1,5 +1,4 @@
-Hysteropeziza petiolicola (Rehm) Petr. SPECIES
-=======
+# Hysteropeziza petiolicola (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

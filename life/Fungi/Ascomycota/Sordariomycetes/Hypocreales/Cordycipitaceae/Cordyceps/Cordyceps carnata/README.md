@@ -1,5 +1,4 @@
-Cordyceps carnata Moureau SPECIES
-=======
+# Cordyceps carnata Moureau SPECIES
 
 #### Status
 ACCEPTED

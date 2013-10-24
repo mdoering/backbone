@@ -1,5 +1,4 @@
-Peltigera lyngei Gyeln. SPECIES
-=======
+# Peltigera lyngei Gyeln. SPECIES
 
 #### Status
 ACCEPTED

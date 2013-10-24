@@ -1,5 +1,4 @@
-Gloeosporium agatinum Sacc. SPECIES
-=======
+# Gloeosporium agatinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

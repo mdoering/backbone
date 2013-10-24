@@ -1,5 +1,4 @@
-Pertusaria theochroa Kremp. SPECIES
-=======
+# Pertusaria theochroa Kremp. SPECIES
 
 #### Status
 ACCEPTED

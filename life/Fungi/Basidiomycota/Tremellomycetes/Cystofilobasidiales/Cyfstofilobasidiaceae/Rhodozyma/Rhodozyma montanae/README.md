@@ -1,5 +1,4 @@
-Rhodozyma montanae Phaff, M.W. Mill., Yoney. & Soneda, 1972 SPECIES
-=======
+# Rhodozyma montanae Phaff, M.W. Mill., Yoney. & Soneda, 1972 SPECIES
 
 #### Status
 ACCEPTED

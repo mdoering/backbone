@@ -1,5 +1,4 @@
-Graphis bifera Zahlbr. SPECIES
-=======
+# Graphis bifera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

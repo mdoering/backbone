@@ -1,5 +1,4 @@
-Salinibacter ruber Antón et al., 2002 SPECIES
-=======
+# Salinibacter ruber Antón et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

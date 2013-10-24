@@ -1,5 +1,4 @@
-Agrocybe parrumbala Grgur. SPECIES
-=======
+# Agrocybe parrumbala Grgur. SPECIES
 
 #### Status
 ACCEPTED

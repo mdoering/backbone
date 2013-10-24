@@ -1,5 +1,4 @@
-Aecidium guatemalense F. Kern & Kellerm. SPECIES
-=======
+# Aecidium guatemalense F. Kern & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

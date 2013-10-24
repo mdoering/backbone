@@ -1,5 +1,4 @@
-Echinocyclidium powersi SPECIES
-=======
+# Echinocyclidium powersi SPECIES
 
 #### Status
 ACCEPTED

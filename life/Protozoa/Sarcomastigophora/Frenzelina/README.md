@@ -1,5 +1,4 @@
-Frenzelina Penard, 1902 GENUS
-=======
+# Frenzelina Penard, 1902 GENUS
 
 #### Status
 ACCEPTED

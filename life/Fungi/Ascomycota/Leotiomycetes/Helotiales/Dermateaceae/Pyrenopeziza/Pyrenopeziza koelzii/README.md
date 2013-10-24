@@ -1,5 +1,4 @@
-Pyrenopeziza koelzii Petr. SPECIES
-=======
+# Pyrenopeziza koelzii Petr. SPECIES
 
 #### Status
 ACCEPTED

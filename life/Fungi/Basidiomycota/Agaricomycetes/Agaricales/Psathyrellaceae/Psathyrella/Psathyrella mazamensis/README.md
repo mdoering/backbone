@@ -1,5 +1,4 @@
-Psathyrella mazamensis A.H. Sm. SPECIES
-=======
+# Psathyrella mazamensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria indoyunnaniana R.H. Petersen & M. Zang, 1986 SPECIES
-=======
+# Ramaria indoyunnaniana R.H. Petersen & M. Zang, 1986 SPECIES
 
 #### Status
 ACCEPTED

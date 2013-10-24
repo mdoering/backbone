@@ -1,5 +1,4 @@
-Pleospora verecunda (Curr.) Sacc., 1883 SPECIES
-=======
+# Pleospora verecunda (Curr.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia effusa Corda SPECIES
-=======
+# Tubercularia effusa Corda SPECIES
 
 #### Status
 ACCEPTED

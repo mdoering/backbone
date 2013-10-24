@@ -1,5 +1,4 @@
-Naucoria arenicola Berk. SPECIES
-=======
+# Naucoria arenicola Berk. SPECIES
 
 #### Status
 ACCEPTED

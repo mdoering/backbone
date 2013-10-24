@@ -1,5 +1,4 @@
-Lecidea asiae-centralis H. Magn. SPECIES
-=======
+# Lecidea asiae-centralis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoporus GENUS
-=======
+# Leucoporus GENUS
 
 #### Status
 ACCEPTED

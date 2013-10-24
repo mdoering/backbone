@@ -1,17 +1,16 @@
-Myxobotrys variabilis Zukal, 1896 SPECIES
-=======
+# Chondromyces crocatus Berkeley and Curtis, 1874 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Berkeley, Grevillea 3(no. 26): 64 (1874)
 
 #### Original name
-null
+Chondromyces crocatus Berkeley and Curtis, 1874 (Approved Lists, 1980)
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Naucoria heliophila Fr. SPECIES
-=======
+# Naucoria heliophila Fr. SPECIES
 
 #### Status
 ACCEPTED

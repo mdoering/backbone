@@ -1,5 +1,4 @@
-Lepiota retinosa Velen. SPECIES
-=======
+# Lepiota retinosa Velen. SPECIES
 
 #### Status
 ACCEPTED

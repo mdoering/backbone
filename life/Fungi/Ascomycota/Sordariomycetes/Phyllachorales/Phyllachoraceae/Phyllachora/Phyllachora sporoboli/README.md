@@ -1,17 +1,16 @@
-Phyllachora morganae Doidge, 1942 SPECIES
-=======
+# Phyllachora sporoboli Pat., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 4: 438 (1942)
+Bull. Soc. mycol. Fr. 19: 258 (1903)
 
 #### Original name
-Phyllachora morganae Doidge, 1942
+Phyllachora sporoboli Pat., 1903
 
 ### Remarks
 null

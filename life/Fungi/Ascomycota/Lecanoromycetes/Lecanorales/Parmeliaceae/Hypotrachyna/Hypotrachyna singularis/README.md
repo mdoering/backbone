@@ -1,5 +1,4 @@
-Hypotrachyna singularis (Hale) Hale SPECIES
-=======
+# Hypotrachyna singularis (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

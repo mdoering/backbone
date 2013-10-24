@@ -1,5 +1,4 @@
-Coprinopsis villosa Keirle, Hemmes & Desjardin SPECIES
-=======
+# Coprinopsis villosa Keirle, Hemmes & Desjardin SPECIES
 
 #### Status
 ACCEPTED

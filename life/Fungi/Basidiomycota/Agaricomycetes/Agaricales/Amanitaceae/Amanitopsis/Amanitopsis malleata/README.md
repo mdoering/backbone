@@ -1,5 +1,4 @@
-Amanitopsis malleata Piane ex Bon SPECIES
-=======
+# Amanitopsis malleata Piane ex Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sterigmatocystis albolutea Bainier SPECIES
-=======
+# Sterigmatocystis albolutea Bainier SPECIES
 
 #### Status
 ACCEPTED

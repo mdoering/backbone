@@ -1,17 +1,16 @@
-Gonatopyricularia Z.D. Jiang & P.K. Chi GENUS
-=======
+# Pyriculariopsis M.B. Ellis GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of South China Agricultural University 10(1): 10 (1989)
+Dematiaceous Hyphomycetes (Kew) 206 (1971)
 
 #### Original name
-Gonatopyricularia Z.D. Jiang & P.K. Chi
+Pyriculariopsis M.B. Ellis
 
 ### Remarks
 null

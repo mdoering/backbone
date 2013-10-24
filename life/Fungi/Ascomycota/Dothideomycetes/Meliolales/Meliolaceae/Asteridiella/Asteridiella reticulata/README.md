@@ -1,5 +1,4 @@
-Asteridiella reticulata (P. Karst. & Roum.) Hansf. SPECIES
-=======
+# Asteridiella reticulata (P. Karst. & Roum.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

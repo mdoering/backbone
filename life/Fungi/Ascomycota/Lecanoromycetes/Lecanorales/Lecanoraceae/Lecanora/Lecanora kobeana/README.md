@@ -1,5 +1,4 @@
-Lecanora kobeana Nyl. SPECIES
-=======
+# Lecanora kobeana Nyl. SPECIES
 
 #### Status
 ACCEPTED

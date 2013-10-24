@@ -1,5 +1,4 @@
-Stropharia venenata S. Imai SPECIES
-=======
+# Stropharia venenata S. Imai SPECIES
 
 #### Status
 ACCEPTED

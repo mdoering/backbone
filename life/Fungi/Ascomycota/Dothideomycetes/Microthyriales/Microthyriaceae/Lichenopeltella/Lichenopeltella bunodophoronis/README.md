@@ -1,5 +1,4 @@
-Lichenopeltella bunodophoronis Diederich SPECIES
-=======
+# Lichenopeltella bunodophoronis Diederich SPECIES
 
 #### Status
 ACCEPTED

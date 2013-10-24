@@ -1,5 +1,4 @@
-Aleurina aquehongensis Seaver SPECIES
-=======
+# Aleurina aquehongensis Seaver SPECIES
 
 #### Status
 ACCEPTED

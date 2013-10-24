@@ -1,5 +1,4 @@
-Puccinia leveillei Mont. SPECIES
-=======
+# Puccinia leveillei Mont. SPECIES
 
 #### Status
 ACCEPTED

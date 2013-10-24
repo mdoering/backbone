@@ -1,5 +1,4 @@
-Dimelaena crispa SPECIES
-=======
+# Dimelaena crispa SPECIES
 
 #### Status
 ACCEPTED

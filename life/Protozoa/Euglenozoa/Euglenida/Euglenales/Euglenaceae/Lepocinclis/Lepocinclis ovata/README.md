@@ -1,8 +1,7 @@
-Phacus pyrum var. ovatus Playfair VARIETY
-=======
+# Lepocinclis ovata (Playfair) W. Conrad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Telimenella phacidioidea M.E. Barr, 1977 SPECIES
-=======
+# Telimenella phacidioidea M.E. Barr, 1977 SPECIES
 
 #### Status
 ACCEPTED

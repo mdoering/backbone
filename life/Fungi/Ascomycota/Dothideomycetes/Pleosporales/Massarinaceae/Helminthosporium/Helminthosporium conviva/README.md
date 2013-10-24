@@ -1,5 +1,4 @@
-Helminthosporium conviva Malençon & Bertault SPECIES
-=======
+# Helminthosporium conviva Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

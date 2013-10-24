@@ -1,5 +1,4 @@
-Sphacelotheca bothriochloae-intermediae (Padwick) Naras. SPECIES
-=======
+# Sphacelotheca bothriochloae-intermediae (Padwick) Naras. SPECIES
 
 #### Status
 ACCEPTED

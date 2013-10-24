@@ -1,5 +1,4 @@
-Crepidotus globiger (Berk.) Sacc. SPECIES
-=======
+# Crepidotus globiger (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

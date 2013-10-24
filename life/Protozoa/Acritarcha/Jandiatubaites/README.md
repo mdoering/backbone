@@ -1,5 +1,4 @@
-Jandiatubaites Padilha de Quadros, 1986 GENUS
-=======
+# Jandiatubaites Padilha de Quadros, 1986 GENUS
 
 #### Status
 ACCEPTED

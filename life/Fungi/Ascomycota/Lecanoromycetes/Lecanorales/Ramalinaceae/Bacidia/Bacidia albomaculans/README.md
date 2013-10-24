@@ -1,5 +1,4 @@
-Bacidia albomaculans (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia albomaculans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

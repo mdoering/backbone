@@ -1,5 +1,4 @@
-Jankowskia Alekperov, 1984 GENUS
-=======
+# Jankowskia Alekperov, 1984 GENUS
 
 #### Status
 ACCEPTED

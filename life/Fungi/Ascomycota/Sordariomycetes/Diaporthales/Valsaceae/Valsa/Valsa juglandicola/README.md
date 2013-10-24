@@ -1,5 +1,4 @@
-Valsa juglandicola Speg. SPECIES
-=======
+# Valsa juglandicola Speg. SPECIES
 
 #### Status
 ACCEPTED

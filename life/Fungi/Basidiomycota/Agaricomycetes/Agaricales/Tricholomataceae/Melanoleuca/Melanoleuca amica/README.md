@@ -1,5 +1,4 @@
-Melanoleuca amica (Fr.) Singer SPECIES
-=======
+# Melanoleuca amica (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

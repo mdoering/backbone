@@ -1,5 +1,4 @@
-Septobasidium caveniae Marchion. SPECIES
-=======
+# Septobasidium caveniae Marchion. SPECIES
 
 #### Status
 ACCEPTED

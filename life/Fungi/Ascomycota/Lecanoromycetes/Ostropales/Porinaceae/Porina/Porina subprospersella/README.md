@@ -1,5 +1,4 @@
-Porina subprospersella Vain. SPECIES
-=======
+# Porina subprospersella Vain. SPECIES
 
 #### Status
 ACCEPTED

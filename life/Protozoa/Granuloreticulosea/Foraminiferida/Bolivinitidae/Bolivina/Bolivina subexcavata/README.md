@@ -1,5 +1,4 @@
-Bolivina subexcavata SPECIES
-=======
+# Bolivina subexcavata SPECIES
 
 #### Status
 ACCEPTED

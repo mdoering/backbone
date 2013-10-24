@@ -1,5 +1,4 @@
-Gononema pectinatum (Skottsberg) Kuckuck & Skottsberg SPECIES
-=======
+# Gononema pectinatum (Skottsberg) Kuckuck & Skottsberg SPECIES
 
 #### Status
 ACCEPTED

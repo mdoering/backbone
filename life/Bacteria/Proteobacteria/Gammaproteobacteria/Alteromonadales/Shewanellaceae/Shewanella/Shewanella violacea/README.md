@@ -1,5 +1,4 @@
-Shewanella violacea Nogi et al., 1999 SPECIES
-=======
+# Shewanella violacea Nogi et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

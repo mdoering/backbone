@@ -1,5 +1,4 @@
-Phoma harknessii Sacc. SPECIES
-=======
+# Phoma harknessii Sacc. SPECIES
 
 #### Status
 ACCEPTED

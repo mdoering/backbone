@@ -1,14 +1,13 @@
-Cerotelium dicentrae Mains & H.W. Anderson, 1921 SPECIES
-=======
+# Aplopsora dicentrae (Mains & H.W. Anderson) Buriticá & J.F. Hennen, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Mains, Am. J. Bot. 8: 445 (1921)
+in Buriticá, Revta Acad. colomb. cienc. exact. fís. nat. 22(no. 84): 333 (1998)
 
 #### Original name
 Cerotelium dicentrae Mains & H.W. Anderson, 1921

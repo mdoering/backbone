@@ -1,5 +1,4 @@
-Septoria apetalae Magnus SPECIES
-=======
+# Septoria apetalae Magnus SPECIES
 
 #### Status
 ACCEPTED

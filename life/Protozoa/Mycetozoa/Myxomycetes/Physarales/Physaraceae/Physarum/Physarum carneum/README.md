@@ -1,5 +1,4 @@
-Physarum carneum G. Lister & Sturgis, 1910 SPECIES
-=======
+# Physarum carneum G. Lister & Sturgis, 1910 SPECIES
 
 #### Status
 ACCEPTED

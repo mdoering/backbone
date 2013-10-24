@@ -1,5 +1,4 @@
-Uredinopsis aspera Faull SPECIES
-=======
+# Uredinopsis aspera Faull SPECIES
 
 #### Status
 ACCEPTED

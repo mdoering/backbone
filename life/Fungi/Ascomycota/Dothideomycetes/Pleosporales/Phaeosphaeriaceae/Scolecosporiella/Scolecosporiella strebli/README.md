@@ -1,5 +1,4 @@
-Scolecosporiella strebli Kamal, R.P. Singh & D.N. Shukla SPECIES
-=======
+# Scolecosporiella strebli Kamal, R.P. Singh & D.N. Shukla SPECIES
 
 #### Status
 ACCEPTED

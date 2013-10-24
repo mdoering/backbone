@@ -1,5 +1,4 @@
-Chaetostroma pircuniicola Speg. SPECIES
-=======
+# Chaetostroma pircuniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

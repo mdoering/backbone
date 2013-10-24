@@ -1,5 +1,4 @@
-Thaxterogaster Singer GENUS
-=======
+# Thaxterogaster Singer GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Livinallongella Lahm, 1984 GENUS
-=======
+# Livinallongella Lahm, 1984 GENUS
 
 #### Status
 ACCEPTED

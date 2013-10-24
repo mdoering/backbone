@@ -1,5 +1,4 @@
-Tintinnus pacificus Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus pacificus Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

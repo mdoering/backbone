@@ -1,5 +1,4 @@
-Phoma heckeriae Henn. SPECIES
-=======
+# Phoma heckeriae Henn. SPECIES
 
 #### Status
 ACCEPTED

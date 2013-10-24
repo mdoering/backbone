@@ -1,5 +1,4 @@
-Sirococcus americanus Sacc. SPECIES
-=======
+# Sirococcus americanus Sacc. SPECIES
 
 #### Status
 ACCEPTED

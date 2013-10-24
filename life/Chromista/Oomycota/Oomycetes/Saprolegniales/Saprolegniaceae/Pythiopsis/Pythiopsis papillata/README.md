@@ -1,5 +1,4 @@
-Pythiopsis papillata M. Ôkubo & Kobayasi SPECIES
-=======
+# Pythiopsis papillata M. Ôkubo & Kobayasi SPECIES
 
 #### Status
 ACCEPTED

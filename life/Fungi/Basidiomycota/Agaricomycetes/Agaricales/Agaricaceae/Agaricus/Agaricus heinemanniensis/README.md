@@ -1,5 +1,4 @@
-Agaricus heinemanniensis K. Natarajan & Purush. SPECIES
-=======
+# Agaricus heinemanniensis K. Natarajan & Purush. SPECIES
 
 #### Status
 ACCEPTED

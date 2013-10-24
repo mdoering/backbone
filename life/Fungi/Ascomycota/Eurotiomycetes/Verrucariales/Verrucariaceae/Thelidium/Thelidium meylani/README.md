@@ -1,5 +1,4 @@
-Thelidium meylani B. de Lesd. SPECIES
-=======
+# Thelidium meylani B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

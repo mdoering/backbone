@@ -1,8 +1,7 @@
-Geaster cesatii Rabenh. SPECIES
-=======
+# Geastrum cesatii Rabenh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster cesatii Rabenh.
+Geastrum cesatii Rabenh.
 
 ### Remarks
 null

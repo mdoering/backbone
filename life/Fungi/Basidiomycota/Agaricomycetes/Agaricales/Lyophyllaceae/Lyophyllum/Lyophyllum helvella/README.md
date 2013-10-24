@@ -1,5 +1,4 @@
-Lyophyllum helvella (Boud.) Clémençon SPECIES
-=======
+# Lyophyllum helvella (Boud.) Clémençon SPECIES
 
 #### Status
 ACCEPTED

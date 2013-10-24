@@ -1,5 +1,4 @@
-Hemithecium endofusca (M. Nakan.) M. Nakan. & Kashiw. SPECIES
-=======
+# Hemithecium endofusca (M. Nakan.) M. Nakan. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

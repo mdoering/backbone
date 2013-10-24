@@ -1,5 +1,4 @@
-Cercospora biharica Thirum. & Govindu SPECIES
-=======
+# Cercospora biharica Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

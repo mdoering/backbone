@@ -1,5 +1,4 @@
-Puccinia irregularis Ellis & Tracy SPECIES
-=======
+# Puccinia irregularis Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

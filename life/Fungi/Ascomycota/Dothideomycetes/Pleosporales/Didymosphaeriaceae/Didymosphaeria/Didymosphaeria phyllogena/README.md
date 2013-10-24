@@ -1,5 +1,4 @@
-Didymosphaeria phyllogena G. Winter SPECIES
-=======
+# Didymosphaeria phyllogena G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora rubigo Cooke & Harkn. SPECIES
-=======
+# Cercospora rubigo Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

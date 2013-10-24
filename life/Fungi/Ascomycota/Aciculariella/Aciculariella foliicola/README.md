@@ -1,5 +1,4 @@
-Aciculariella foliicola G. Arnaud SPECIES
-=======
+# Aciculariella foliicola G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

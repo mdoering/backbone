@@ -1,5 +1,4 @@
-Phaeostroma bertholdii Kuckuck SPECIES
-=======
+# Phaeostroma bertholdii Kuckuck SPECIES
 
 #### Status
 ACCEPTED

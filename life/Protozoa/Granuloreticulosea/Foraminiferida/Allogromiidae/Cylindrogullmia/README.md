@@ -1,5 +1,4 @@
-Cylindrogullmia Nyholm, 1974 GENUS
-=======
+# Cylindrogullmia Nyholm, 1974 GENUS
 
 #### Status
 ACCEPTED

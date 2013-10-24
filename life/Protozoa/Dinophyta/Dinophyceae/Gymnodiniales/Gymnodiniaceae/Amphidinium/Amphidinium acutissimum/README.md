@@ -1,5 +1,4 @@
-Amphidinium acutissimum Schiller SPECIES
-=======
+# Amphidinium acutissimum Schiller SPECIES
 
 #### Status
 ACCEPTED

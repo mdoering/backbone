@@ -1,5 +1,4 @@
-Phaeodactylella Udaiyan GENUS
-=======
+# Phaeodactylella Udaiyan GENUS
 
 #### Status
 ACCEPTED

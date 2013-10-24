@@ -1,5 +1,4 @@
-Cenosphaera coronata Haeckel, 1887 SPECIES
-=======
+# Cenosphaera coronata Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

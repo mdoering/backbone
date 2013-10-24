@@ -1,5 +1,4 @@
-Laboulbenia curtipes Thaxt. SPECIES
-=======
+# Laboulbenia curtipes Thaxt. SPECIES
 
 #### Status
 ACCEPTED

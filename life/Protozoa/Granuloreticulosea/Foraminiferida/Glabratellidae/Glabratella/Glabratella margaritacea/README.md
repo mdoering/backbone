@@ -1,5 +1,4 @@
-Glabratella margaritacea SPECIES
-=======
+# Glabratella margaritacea SPECIES
 
 #### Status
 ACCEPTED

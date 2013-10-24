@@ -1,17 +1,16 @@
-Lecidea albellula var. albellula VARIETY
-=======
+# Lecanora albellula (Nyl.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 266 (1871)
 
 #### Original name
-Lecidea albellula var. albellula
+Lecidea albellula Nyl.
 
 ### Remarks
 null

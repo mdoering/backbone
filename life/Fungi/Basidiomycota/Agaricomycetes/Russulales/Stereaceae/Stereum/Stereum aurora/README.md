@@ -1,5 +1,4 @@
-Stereum aurora Killerm. SPECIES
-=======
+# Stereum aurora Killerm. SPECIES
 
 #### Status
 ACCEPTED

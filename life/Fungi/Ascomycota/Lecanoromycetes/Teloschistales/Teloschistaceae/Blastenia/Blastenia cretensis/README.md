@@ -1,5 +1,4 @@
-Blastenia cretensis Zahlbr. SPECIES
-=======
+# Blastenia cretensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

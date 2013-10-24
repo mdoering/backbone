@@ -1,5 +1,4 @@
-Cladotrichum atrum Corda SPECIES
-=======
+# Cladotrichum atrum Corda SPECIES
 
 #### Status
 ACCEPTED

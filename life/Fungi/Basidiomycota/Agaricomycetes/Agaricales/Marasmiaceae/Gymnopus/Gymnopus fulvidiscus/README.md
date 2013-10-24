@@ -1,5 +1,4 @@
-Gymnopus fulvidiscus Murrill SPECIES
-=======
+# Gymnopus fulvidiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

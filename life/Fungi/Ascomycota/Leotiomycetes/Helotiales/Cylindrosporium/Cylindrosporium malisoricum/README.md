@@ -1,5 +1,4 @@
-Cylindrosporium malisoricum Bubák SPECIES
-=======
+# Cylindrosporium malisoricum Bubák SPECIES
 
 #### Status
 ACCEPTED

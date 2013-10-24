@@ -1,5 +1,4 @@
-Grandigallia M.E. Barr, Hanlin, Cedeño, Parra & R. Hern. GENUS
-=======
+# Grandigallia M.E. Barr, Hanlin, Cedeño, Parra & R. Hern. GENUS
 
 #### Status
 ACCEPTED

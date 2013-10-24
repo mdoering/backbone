@@ -1,5 +1,4 @@
-Triceratium venustum Witt SPECIES
-=======
+# Triceratium venustum Witt SPECIES
 
 #### Status
 ACCEPTED

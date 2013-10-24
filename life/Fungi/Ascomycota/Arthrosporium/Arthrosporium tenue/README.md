@@ -1,5 +1,4 @@
-Arthrosporium tenue Penz. & Sacc. SPECIES
-=======
+# Arthrosporium tenue Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

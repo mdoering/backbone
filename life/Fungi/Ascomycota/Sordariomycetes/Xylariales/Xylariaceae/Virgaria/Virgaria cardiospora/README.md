@@ -1,5 +1,4 @@
-Virgaria cardiospora Bres. SPECIES
-=======
+# Virgaria cardiospora Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellaria Baumgarten, 1790 GENUS
-=======
+# Scutellaria Baumgarten, 1790 GENUS
 
 #### Status
 ACCEPTED

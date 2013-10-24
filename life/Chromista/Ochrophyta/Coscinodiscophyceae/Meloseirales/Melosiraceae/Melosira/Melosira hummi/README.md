@@ -1,5 +1,4 @@
-Melosira hummi SPECIES
-=======
+# Melosira hummi SPECIES
 
 #### Status
 ACCEPTED

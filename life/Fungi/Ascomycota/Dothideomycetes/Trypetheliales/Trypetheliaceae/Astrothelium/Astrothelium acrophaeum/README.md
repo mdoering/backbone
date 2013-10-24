@@ -1,5 +1,4 @@
-Astrothelium acrophaeum Müll. Arg. SPECIES
-=======
+# Astrothelium acrophaeum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

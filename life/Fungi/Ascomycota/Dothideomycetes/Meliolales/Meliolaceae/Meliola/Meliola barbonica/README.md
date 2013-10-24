@@ -1,5 +1,4 @@
-Meliola barbonica Mibey SPECIES
-=======
+# Meliola barbonica Mibey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auritella geoaustralis Matheny & Bougher ex Matheny & Bougher, 2006 SPECIES
-=======
+# Auritella geoaustralis Matheny & Bougher ex Matheny & Bougher, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia ascidioidea Hale SPECIES
-=======
+# Ocellularia ascidioidea Hale SPECIES
 
 #### Status
 ACCEPTED

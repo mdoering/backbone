@@ -1,5 +1,4 @@
-Mystrosporium pulchrum Berk. SPECIES
-=======
+# Mystrosporium pulchrum Berk. SPECIES
 
 #### Status
 ACCEPTED

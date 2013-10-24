@@ -1,5 +1,4 @@
-Clavulina mutabilis R.H. Petersen SPECIES
-=======
+# Clavulina mutabilis R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

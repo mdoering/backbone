@@ -1,5 +1,4 @@
-Pleuroflammula decolorata (Malençon ex R. Galán, G. Moreno & A. Ortega) Bon & G. Moreno SPECIES
-=======
+# Pleuroflammula decolorata (Malençon ex R. Galán, G. Moreno & A. Ortega) Bon & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

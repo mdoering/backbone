@@ -1,5 +1,4 @@
-Asterina mappiae Petr. & Cif. SPECIES
-=======
+# Asterina mappiae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora forsteriana Chupp & Viégas SPECIES
-=======
+# Cercospora forsteriana Chupp & Viégas SPECIES
 
 #### Status
 ACCEPTED

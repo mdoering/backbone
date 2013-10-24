@@ -1,5 +1,4 @@
-Folliculina boecki (Claparède & Lachmann, 1858) ?, ? SPECIES
-=======
+# Folliculina boecki (Claparède & Lachmann, 1858) ?, ? SPECIES
 
 #### Status
 ACCEPTED

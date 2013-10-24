@@ -1,5 +1,4 @@
-Oospora jollyi (Vuill.) Sartory SPECIES
-=======
+# Oospora jollyi (Vuill.) Sartory SPECIES
 
 #### Status
 ACCEPTED

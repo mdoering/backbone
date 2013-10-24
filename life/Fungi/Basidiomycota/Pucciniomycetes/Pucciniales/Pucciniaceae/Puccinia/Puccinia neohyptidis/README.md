@@ -1,5 +1,4 @@
-Puccinia neohyptidis G.F. Laundon SPECIES
-=======
+# Puccinia neohyptidis G.F. Laundon SPECIES
 
 #### Status
 ACCEPTED

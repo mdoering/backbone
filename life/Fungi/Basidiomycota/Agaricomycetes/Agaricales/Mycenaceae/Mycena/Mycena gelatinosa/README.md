@@ -1,5 +1,4 @@
-Mycena gelatinosa Métrod SPECIES
-=======
+# Mycena gelatinosa Métrod SPECIES
 
 #### Status
 ACCEPTED

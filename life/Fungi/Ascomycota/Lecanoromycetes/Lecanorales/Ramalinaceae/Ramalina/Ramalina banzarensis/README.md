@@ -1,5 +1,4 @@
-Ramalina banzarensis C.W. Dodge SPECIES
-=======
+# Ramalina banzarensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

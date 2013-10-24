@@ -1,5 +1,4 @@
-Platystomum pachysporum (Sacc.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum pachysporum (Sacc.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

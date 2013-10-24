@@ -1,5 +1,4 @@
-Haematomma pachycarpum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Haematomma pachycarpum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

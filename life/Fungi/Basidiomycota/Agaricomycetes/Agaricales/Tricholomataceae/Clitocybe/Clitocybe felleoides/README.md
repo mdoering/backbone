@@ -1,5 +1,4 @@
-Clitocybe felleoides Speg. SPECIES
-=======
+# Clitocybe felleoides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis chungii Zahlbr. SPECIES
-=======
+# Graphis chungii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

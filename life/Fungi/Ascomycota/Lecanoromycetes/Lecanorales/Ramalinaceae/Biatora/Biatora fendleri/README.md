@@ -1,5 +1,4 @@
-Biatora fendleri Tuck. & Mont. SPECIES
-=======
+# Biatora fendleri Tuck. & Mont. SPECIES
 
 #### Status
 ACCEPTED

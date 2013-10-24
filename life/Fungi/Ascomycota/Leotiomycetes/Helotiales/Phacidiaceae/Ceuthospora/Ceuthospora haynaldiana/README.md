@@ -1,5 +1,4 @@
-Ceuthospora haynaldiana (Sacc. & Roum.) Arx SPECIES
-=======
+# Ceuthospora haynaldiana (Sacc. & Roum.) Arx SPECIES
 
 #### Status
 ACCEPTED

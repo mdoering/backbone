@@ -1,5 +1,4 @@
-Acarospora variegata H. Magn. SPECIES
-=======
+# Acarospora variegata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

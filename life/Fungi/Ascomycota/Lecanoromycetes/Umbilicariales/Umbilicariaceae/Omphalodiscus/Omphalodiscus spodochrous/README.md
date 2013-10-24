@@ -1,5 +1,4 @@
-Omphalodiscus spodochrous (Ehrh. ex Hoffm.) Schol. SPECIES
-=======
+# Omphalodiscus spodochrous (Ehrh. ex Hoffm.) Schol. SPECIES
 
 #### Status
 ACCEPTED

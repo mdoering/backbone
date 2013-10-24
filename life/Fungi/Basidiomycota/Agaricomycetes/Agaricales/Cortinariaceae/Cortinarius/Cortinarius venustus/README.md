@@ -1,17 +1,16 @@
-Cortinarius traganulus P.D. Orton, 1983 SPECIES
-=======
+# Cortinarius venustus P. Karst., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 36: 222 (1983)
+Hedwigia 20: 178 (1881)
 
 #### Original name
-Cortinarius traganulus P.D. Orton, 1983
+Cortinarius venustus P. Karst., 1881
 
 ### Remarks
 null

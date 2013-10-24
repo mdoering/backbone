@@ -1,5 +1,4 @@
-Hemiaulus altar J. Brun SPECIES
-=======
+# Hemiaulus altar J. Brun SPECIES
 
 #### Status
 ACCEPTED

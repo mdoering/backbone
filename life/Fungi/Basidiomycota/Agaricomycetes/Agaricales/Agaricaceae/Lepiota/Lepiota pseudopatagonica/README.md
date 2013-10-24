@@ -1,5 +1,4 @@
-Lepiota pseudopatagonica Garrido SPECIES
-=======
+# Lepiota pseudopatagonica Garrido SPECIES
 
 #### Status
 ACCEPTED

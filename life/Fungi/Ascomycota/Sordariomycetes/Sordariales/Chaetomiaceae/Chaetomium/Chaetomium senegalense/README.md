@@ -1,5 +1,4 @@
-Chaetomium senegalense L.M. Ames, 1963 SPECIES
-=======
+# Chaetomium senegalense L.M. Ames, 1963 SPECIES
 
 #### Status
 ACCEPTED

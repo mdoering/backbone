@@ -1,5 +1,4 @@
-Nostoc humifusum Carmichael ex Bornet & Flahault SPECIES
-=======
+# Nostoc humifusum Carmichael ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

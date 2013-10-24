@@ -1,8 +1,7 @@
-Sphacelaria viridis Takamatsu SPECIES
-=======
+# Sphacelaria solitaria Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

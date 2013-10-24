@@ -1,5 +1,4 @@
-Cantharellus variabilis Schulzer SPECIES
-=======
+# Cantharellus variabilis Schulzer SPECIES
 
 #### Status
 ACCEPTED

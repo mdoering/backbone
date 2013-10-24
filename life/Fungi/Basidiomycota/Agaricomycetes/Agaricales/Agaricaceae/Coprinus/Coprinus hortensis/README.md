@@ -1,5 +1,4 @@
-Coprinus hortensis Mont. SPECIES
-=======
+# Coprinus hortensis Mont. SPECIES
 
 #### Status
 ACCEPTED

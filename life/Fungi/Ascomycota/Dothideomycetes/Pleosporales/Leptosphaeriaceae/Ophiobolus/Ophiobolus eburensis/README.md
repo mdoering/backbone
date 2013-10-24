@@ -1,5 +1,4 @@
-Ophiobolus eburensis (Sacc.) Sacc. SPECIES
-=======
+# Ophiobolus eburensis (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphodiscosioides Matsush. GENUS
-=======
+# Hyphodiscosioides Matsush. GENUS
 
 #### Status
 ACCEPTED

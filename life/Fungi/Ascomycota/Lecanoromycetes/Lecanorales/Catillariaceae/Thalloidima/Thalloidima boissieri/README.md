@@ -1,5 +1,4 @@
-Thalloidima boissieri Müll. Arg. SPECIES
-=======
+# Thalloidima boissieri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

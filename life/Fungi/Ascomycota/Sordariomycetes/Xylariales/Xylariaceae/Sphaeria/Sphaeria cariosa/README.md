@@ -1,5 +1,4 @@
-Sphaeria cariosa Cooke & Ellis SPECIES
-=======
+# Sphaeria cariosa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

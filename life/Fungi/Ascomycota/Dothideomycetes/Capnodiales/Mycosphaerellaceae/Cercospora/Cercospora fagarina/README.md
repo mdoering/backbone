@@ -1,5 +1,4 @@
-Cercospora fagarina Chupp SPECIES
-=======
+# Cercospora fagarina Chupp SPECIES
 
 #### Status
 ACCEPTED

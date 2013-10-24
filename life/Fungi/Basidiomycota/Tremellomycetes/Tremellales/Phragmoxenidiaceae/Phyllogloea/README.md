@@ -1,5 +1,4 @@
-Phyllogloea Lowy, 1961 GENUS
-=======
+# Phyllogloea Lowy, 1961 GENUS
 
 #### Status
 ACCEPTED

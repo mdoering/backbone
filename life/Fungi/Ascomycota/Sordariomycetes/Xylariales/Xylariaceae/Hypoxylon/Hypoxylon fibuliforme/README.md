@@ -1,5 +1,4 @@
-Hypoxylon fibuliforme Ellis & Everh. SPECIES
-=======
+# Hypoxylon fibuliforme Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces agaricola (Chaillet) Sacc. SPECIES
-=======
+# Hypomyces agaricola (Chaillet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

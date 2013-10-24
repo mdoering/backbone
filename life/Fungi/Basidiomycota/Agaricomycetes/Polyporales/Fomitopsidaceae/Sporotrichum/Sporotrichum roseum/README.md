@@ -1,5 +1,4 @@
-Sporotrichum roseum Link SPECIES
-=======
+# Sporotrichum roseum Link SPECIES
 
 #### Status
 ACCEPTED

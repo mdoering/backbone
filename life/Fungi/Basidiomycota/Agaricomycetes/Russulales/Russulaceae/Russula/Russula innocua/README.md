@@ -1,17 +1,16 @@
-Russula smaragdina f. smaragdina Quél. FORM
-=======
+# Russula innocua (Singer) Romagn. ex Bon, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compt. Rend. Assoc. Franç. Avancem. Sci. 7 (1885)
+Docums Mycol. 12(no. 46): 32 (1982)
 
 #### Original name
-Russula smaragdina f. smaragdina Quél.
+Russula smaragdina f. innocua Singer, 1935
 
 ### Remarks
 null

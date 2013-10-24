@@ -1,17 +1,16 @@
-Bombyliospora tuberculosa f. tuberculosa (Fée) A. Massal. FORM
-=======
+# Megalospora tuberculosa (Fée) Sipman SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ric. auton. lich. crost. (Verona) 116 (1852)
+Biblthca Lichenol. 18: 156 (1983)
 
 #### Original name
-Bombyliospora tuberculosa f. tuberculosa (Fée) A. Massal.
+Lecidea tuberculosa Fée
 
 ### Remarks
 null

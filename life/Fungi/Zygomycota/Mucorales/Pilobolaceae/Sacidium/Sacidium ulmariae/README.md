@@ -1,5 +1,4 @@
-Sacidium ulmariae Sacc. & Roum. SPECIES
-=======
+# Sacidium ulmariae Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

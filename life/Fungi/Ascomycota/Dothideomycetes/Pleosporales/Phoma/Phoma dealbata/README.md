@@ -1,5 +1,4 @@
-Phoma dealbata Pass. SPECIES
-=======
+# Phoma dealbata Pass. SPECIES
 
 #### Status
 ACCEPTED

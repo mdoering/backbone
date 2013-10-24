@@ -1,5 +1,4 @@
-Kyphomyces platensis (Speg.) I.I. Tav. SPECIES
-=======
+# Kyphomyces platensis (Speg.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia nerviphila Grognot SPECIES
-=======
+# Puccinia nerviphila Grognot SPECIES
 
 #### Status
 ACCEPTED

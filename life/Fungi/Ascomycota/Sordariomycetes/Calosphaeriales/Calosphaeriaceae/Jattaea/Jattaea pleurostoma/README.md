@@ -1,5 +1,4 @@
-Jattaea pleurostoma (Starbäck) Berl. SPECIES
-=======
+# Jattaea pleurostoma (Starbäck) Berl. SPECIES
 
 #### Status
 ACCEPTED

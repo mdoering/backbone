@@ -1,5 +1,4 @@
-Isaria spumarioides Cooke SPECIES
-=======
+# Isaria spumarioides Cooke SPECIES
 
 #### Status
 ACCEPTED

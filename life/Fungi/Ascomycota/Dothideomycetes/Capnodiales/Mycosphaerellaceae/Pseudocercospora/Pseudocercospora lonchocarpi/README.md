@@ -1,5 +1,4 @@
-Pseudocercospora lonchocarpi (J.A. Stev.) Crous & M.P.S. Câmara SPECIES
-=======
+# Pseudocercospora lonchocarpi (J.A. Stev.) Crous & M.P.S. Câmara SPECIES
 
 #### Status
 ACCEPTED

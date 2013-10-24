@@ -1,5 +1,4 @@
-Lactarius lividorubescens (Batsch) Burl. SPECIES
-=======
+# Lactarius lividorubescens (Batsch) Burl. SPECIES
 
 #### Status
 ACCEPTED

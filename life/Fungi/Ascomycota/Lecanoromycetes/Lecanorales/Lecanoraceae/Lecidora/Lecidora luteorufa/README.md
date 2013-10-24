@@ -1,5 +1,4 @@
-Lecidora luteorufa (J. Steiner) Motyka SPECIES
-=======
+# Lecidora luteorufa (J. Steiner) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Confiroma GENUS
-=======
+# Confiroma GENUS
 
 #### Status
 ACCEPTED

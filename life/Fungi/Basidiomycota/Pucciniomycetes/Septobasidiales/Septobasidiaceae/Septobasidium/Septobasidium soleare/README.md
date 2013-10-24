@@ -1,5 +1,4 @@
-Septobasidium soleare Couch SPECIES
-=======
+# Septobasidium soleare Couch SPECIES
 
 #### Status
 ACCEPTED

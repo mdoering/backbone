@@ -1,8 +1,7 @@
-Salpingoeca cardiforma Ellis, 1930 SPECIES
-=======
+# Salpingoeca urceolata Kent, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

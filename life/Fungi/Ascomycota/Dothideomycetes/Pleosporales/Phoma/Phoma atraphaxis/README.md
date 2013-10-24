@@ -1,5 +1,4 @@
-Phoma atraphaxis Kalymb. SPECIES
-=======
+# Phoma atraphaxis Kalymb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypotrichomonas Lee, 1960 GENUS
-=======
+# Hypotrichomonas Lee, 1960 GENUS
 
 #### Status
 ACCEPTED

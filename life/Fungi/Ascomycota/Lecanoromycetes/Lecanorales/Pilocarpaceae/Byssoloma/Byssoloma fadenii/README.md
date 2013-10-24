@@ -1,5 +1,4 @@
-Byssoloma fadenii Vezda SPECIES
-=======
+# Byssoloma fadenii Vezda SPECIES
 
 #### Status
 ACCEPTED

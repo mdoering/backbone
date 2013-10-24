@@ -1,5 +1,4 @@
-Sphaerella perparva Sacc. SPECIES
-=======
+# Sphaerella perparva Sacc. SPECIES
 
 #### Status
 ACCEPTED

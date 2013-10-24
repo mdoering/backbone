@@ -1,17 +1,16 @@
-Glomus constrictus Trappe SPECIES
-=======
+# Glomus constrictum Trappe, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 6(2): 361 (1977)
 
 #### Original name
-Glomus constrictus Trappe
+Glomus constrictum Trappe, 1977
 
 ### Remarks
 null

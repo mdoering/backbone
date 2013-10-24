@@ -1,5 +1,4 @@
-Oidium pulveraceum (Ellis) Linder SPECIES
-=======
+# Oidium pulveraceum (Ellis) Linder SPECIES
 
 #### Status
 ACCEPTED

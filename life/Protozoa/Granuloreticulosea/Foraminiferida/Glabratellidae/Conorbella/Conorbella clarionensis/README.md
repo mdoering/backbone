@@ -1,8 +1,7 @@
-Earltheeia clarionensis McCulloch, 1977 SPECIES
-=======
+# Conorbella clarionensis (McCulloch, 1977) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

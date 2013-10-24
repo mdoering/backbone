@@ -1,5 +1,4 @@
-Stereum micraspis Speg. SPECIES
-=======
+# Stereum micraspis Speg. SPECIES
 
 #### Status
 ACCEPTED

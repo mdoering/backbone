@@ -1,5 +1,4 @@
-Heptasphaera H. Keupp, 1979 GENUS
-=======
+# Heptasphaera H. Keupp, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora scitula (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora scitula (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

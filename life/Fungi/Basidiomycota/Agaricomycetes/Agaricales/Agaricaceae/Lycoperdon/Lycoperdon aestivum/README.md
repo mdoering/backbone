@@ -1,5 +1,4 @@
-Lycoperdon aestivum Wulfen SPECIES
-=======
+# Lycoperdon aestivum Wulfen SPECIES
 
 #### Status
 ACCEPTED

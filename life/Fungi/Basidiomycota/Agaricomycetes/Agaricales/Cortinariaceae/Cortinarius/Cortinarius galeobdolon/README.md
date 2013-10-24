@@ -1,17 +1,16 @@
-Cortinarius causticus var. causticus VARIETY
-=======
+# Cortinarius galeobdolon Melot, 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 270 (1838)
+Acta Botanica Islandica 12: 91 (1995)
 
 #### Original name
-Cortinarius causticus var. causticus
+Cortinarius galeobdolon Melot, 1995
 
 ### Remarks
 null

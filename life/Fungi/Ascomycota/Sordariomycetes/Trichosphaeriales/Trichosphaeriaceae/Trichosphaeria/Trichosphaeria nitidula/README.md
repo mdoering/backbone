@@ -1,5 +1,4 @@
-Trichosphaeria nitidula Sacc. SPECIES
-=======
+# Trichosphaeria nitidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

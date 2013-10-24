@@ -1,5 +1,4 @@
-Leptophoma doliolum Höhn. SPECIES
-=======
+# Leptophoma doliolum Höhn. SPECIES
 
 #### Status
 ACCEPTED

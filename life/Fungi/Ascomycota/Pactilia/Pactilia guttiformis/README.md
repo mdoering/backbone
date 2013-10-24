@@ -1,5 +1,4 @@
-Pactilia guttiformis Speg. SPECIES
-=======
+# Pactilia guttiformis Speg. SPECIES
 
 #### Status
 ACCEPTED

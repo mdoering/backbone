@@ -1,5 +1,4 @@
-Ustilago alismatis L. Ling SPECIES
-=======
+# Ustilago alismatis L. Ling SPECIES
 
 #### Status
 ACCEPTED

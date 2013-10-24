@@ -1,17 +1,16 @@
-Poria pulchella var. pulchella VARIETY
-=======
+# Perenniporia tenuis (Schwein.) Ryvarden, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 72): 113 (1886)
+null
 
 #### Original name
-Poria pulchella var. pulchella
+null
 
 ### Remarks
 null

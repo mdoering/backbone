@@ -1,8 +1,7 @@
-Septoria yuccogena Sacc. SPECIES
-=======
+# Septoria yuccigena Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria yuccogena Sacc.
+Septoria yuccigena Sacc.
 
 ### Remarks
 null

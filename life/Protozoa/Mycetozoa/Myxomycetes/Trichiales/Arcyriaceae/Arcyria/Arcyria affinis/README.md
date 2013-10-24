@@ -1,14 +1,13 @@
-Perichaena corticalis var. affinis (Rostaf.) G. Lister VARIETY
-=======
+# Arcyria affinis Rostaf., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London), Edn 2 251 (1911)
+Sluzowce monogr. (Paryz) 276 (1875)
 
 #### Original name
 Arcyria affinis Rostaf., 1875

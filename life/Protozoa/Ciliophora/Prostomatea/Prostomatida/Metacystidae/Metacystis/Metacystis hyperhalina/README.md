@@ -1,5 +1,4 @@
-Metacystis hyperhalina Dietz, 1964 SPECIES
-=======
+# Metacystis hyperhalina Dietz, 1964 SPECIES
 
 #### Status
 ACCEPTED

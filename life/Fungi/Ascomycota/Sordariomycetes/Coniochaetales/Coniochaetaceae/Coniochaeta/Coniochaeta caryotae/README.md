@@ -1,5 +1,4 @@
-Coniochaeta caryotae R. Rao SPECIES
-=======
+# Coniochaeta caryotae R. Rao SPECIES
 
 #### Status
 ACCEPTED

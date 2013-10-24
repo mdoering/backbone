@@ -1,5 +1,4 @@
-Lecidea epiochracea Vain. SPECIES
-=======
+# Lecidea epiochracea Vain. SPECIES
 
 #### Status
 ACCEPTED

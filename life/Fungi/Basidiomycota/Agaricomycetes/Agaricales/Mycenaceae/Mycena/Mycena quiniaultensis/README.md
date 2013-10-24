@@ -1,5 +1,4 @@
-Mycena quiniaultensis Kauffman SPECIES
-=======
+# Mycena quiniaultensis Kauffman SPECIES
 
 #### Status
 ACCEPTED

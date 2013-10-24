@@ -1,5 +1,4 @@
-Psilocybe paupera Singer SPECIES
-=======
+# Psilocybe paupera Singer SPECIES
 
 #### Status
 ACCEPTED

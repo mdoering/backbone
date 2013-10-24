@@ -1,5 +1,4 @@
-Puccinia duplex Jørst. SPECIES
-=======
+# Puccinia duplex Jørst. SPECIES
 
 #### Status
 ACCEPTED

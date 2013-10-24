@@ -1,5 +1,4 @@
-Lecanora nigromarginata H. Magn. SPECIES
-=======
+# Lecanora nigromarginata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

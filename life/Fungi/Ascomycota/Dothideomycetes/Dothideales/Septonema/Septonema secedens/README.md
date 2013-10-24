@@ -1,5 +1,4 @@
-Septonema secedens Corda, 1837 SPECIES
-=======
+# Septonema secedens Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

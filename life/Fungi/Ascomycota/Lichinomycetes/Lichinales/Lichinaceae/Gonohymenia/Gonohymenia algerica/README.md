@@ -1,5 +1,4 @@
-Gonohymenia algerica J. Steiner SPECIES
-=======
+# Gonohymenia algerica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium antarcticum Speg. SPECIES
-=======
+# Microthyrium antarcticum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola pterygotae Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
-=======
+# Meliola pterygotae Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterolampra praeacutiloba J. Fenner SPECIES
-=======
+# Asterolampra praeacutiloba J. Fenner SPECIES
 
 #### Status
 ACCEPTED

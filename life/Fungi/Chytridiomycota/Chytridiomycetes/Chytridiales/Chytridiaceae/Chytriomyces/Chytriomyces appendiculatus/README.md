@@ -1,5 +1,4 @@
-Chytriomyces appendiculatus Karling, 1947 SPECIES
-=======
+# Chytriomyces appendiculatus Karling, 1947 SPECIES
 
 #### Status
 ACCEPTED

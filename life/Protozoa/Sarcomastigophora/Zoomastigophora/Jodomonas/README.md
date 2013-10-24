@@ -1,5 +1,4 @@
-Jodomonas Penso, 1932 GENUS
-=======
+# Jodomonas Penso, 1932 GENUS
 
 #### Status
 ACCEPTED

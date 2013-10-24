@@ -1,5 +1,4 @@
-Lachnella dovrensis Rostr. SPECIES
-=======
+# Lachnella dovrensis Rostr. SPECIES
 
 #### Status
 ACCEPTED

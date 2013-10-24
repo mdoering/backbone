@@ -1,5 +1,4 @@
-Entosordaria spiralis E. Müll. SPECIES
-=======
+# Entosordaria spiralis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

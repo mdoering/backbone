@@ -1,5 +1,4 @@
-Lentinus thomensis Cout. SPECIES
-=======
+# Lentinus thomensis Cout. SPECIES
 
 #### Status
 ACCEPTED

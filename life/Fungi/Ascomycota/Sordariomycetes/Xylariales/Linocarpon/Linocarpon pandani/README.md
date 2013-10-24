@@ -1,5 +1,4 @@
-Linocarpon pandani Syd. & P. Syd., 1917 SPECIES
-=======
+# Linocarpon pandani Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

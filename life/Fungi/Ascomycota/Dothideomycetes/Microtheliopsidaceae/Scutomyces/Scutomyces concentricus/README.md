@@ -1,5 +1,4 @@
-Scutomyces concentricus J.L. Bezerra & Cavalc. SPECIES
-=======
+# Scutomyces concentricus J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

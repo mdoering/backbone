@@ -1,5 +1,4 @@
-Thuricola obliqua Sommer, 1951 SPECIES
-=======
+# Thuricola obliqua Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

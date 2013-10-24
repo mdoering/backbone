@@ -1,5 +1,4 @@
-Capnodium erythrinicola Viégas SPECIES
-=======
+# Capnodium erythrinicola Viégas SPECIES
 
 #### Status
 ACCEPTED

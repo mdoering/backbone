@@ -1,5 +1,4 @@
-Caloplaca xochitepea B. de Lesd. SPECIES
-=======
+# Caloplaca xochitepea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

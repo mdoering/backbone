@@ -1,5 +1,4 @@
-Lecidea insulatula Nyl. SPECIES
-=======
+# Lecidea insulatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

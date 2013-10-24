@@ -1,17 +1,16 @@
-Endocarpon psorodeum var. psorodeum VARIETY
-=======
+# Endocarpon psorodeum (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Endocarpon psorodeum var. psorodeum
+Verrucaria psorodea Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phlyctochytrium equale Atkinson SPECIES
-=======
+# Phlyctochytrium equale Atkinson SPECIES
 
 #### Status
 ACCEPTED

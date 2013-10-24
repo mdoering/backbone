@@ -1,5 +1,4 @@
-Lactella cercyonis Maessen SPECIES
-=======
+# Lactella cercyonis Maessen SPECIES
 
 #### Status
 ACCEPTED

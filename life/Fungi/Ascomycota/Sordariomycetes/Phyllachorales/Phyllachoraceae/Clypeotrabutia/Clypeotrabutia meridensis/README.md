@@ -1,5 +1,4 @@
-Clypeotrabutia meridensis Chardón, 1934 SPECIES
-=======
+# Clypeotrabutia meridensis Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

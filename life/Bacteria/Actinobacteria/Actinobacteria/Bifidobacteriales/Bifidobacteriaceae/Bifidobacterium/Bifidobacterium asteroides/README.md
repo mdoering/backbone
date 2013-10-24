@@ -1,5 +1,4 @@
-Bifidobacterium asteroides Scardovi and Trovatelli, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Bifidobacterium asteroides Scardovi and Trovatelli, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

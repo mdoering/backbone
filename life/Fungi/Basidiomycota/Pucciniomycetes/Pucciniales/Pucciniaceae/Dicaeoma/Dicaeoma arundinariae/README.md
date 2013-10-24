@@ -1,5 +1,4 @@
-Dicaeoma arundinariae (Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma arundinariae (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

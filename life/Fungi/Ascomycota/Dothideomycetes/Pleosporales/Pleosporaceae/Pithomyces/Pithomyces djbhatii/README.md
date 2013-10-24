@@ -1,5 +1,4 @@
-Pithomyces djbhatii Manohar., Kunwar & N.K. Rao SPECIES
-=======
+# Pithomyces djbhatii Manohar., Kunwar & N.K. Rao SPECIES
 
 #### Status
 ACCEPTED

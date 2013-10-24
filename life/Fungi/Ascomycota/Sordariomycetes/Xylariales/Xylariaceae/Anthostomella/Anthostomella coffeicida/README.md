@@ -1,17 +1,16 @@
-Anthostomella coffeaicida Saccas SPECIES
-=======
+# Anthostomella coffeicida Saccas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Étude de la Flore Cryptogamique des Caféirs en Afrique Centrale, (Bulletin IFCC <b>16</b>) 16: 15 (1981)
 
 #### Original name
-Anthostomella coffeaicida Saccas
+Anthostomella coffeicida Saccas
 
 ### Remarks
 null

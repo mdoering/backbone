@@ -1,5 +1,4 @@
-Hypogymnia hengduanensis subsp. hengduanensis SUBSPECIES
-=======
+# Hypogymnia hengduanensis J.C. Wei SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Mycol. Sin. 3(4): 214 (1984)
 
 #### Original name
-Hypogymnia hengduanensis subsp. hengduanensis
+Hypogymnia hengduanensis J.C. Wei
 
 ### Remarks
 null

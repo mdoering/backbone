@@ -1,5 +1,4 @@
-Virgibacillus Heyndrickx, Lebbe, Kersters, De Vos, Forsyth & Logan, 1998 GENUS
-=======
+# Virgibacillus Heyndrickx, Lebbe, Kersters, De Vos, Forsyth & Logan, 1998 GENUS
 
 #### Status
 ACCEPTED

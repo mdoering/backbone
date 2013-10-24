@@ -1,5 +1,4 @@
-Polygonium minimum Timofeev, 1959 ex Volkova, 1990 SPECIES
-=======
+# Polygonium minimum Timofeev, 1959 ex Volkova, 1990 SPECIES
 
 #### Status
 ACCEPTED

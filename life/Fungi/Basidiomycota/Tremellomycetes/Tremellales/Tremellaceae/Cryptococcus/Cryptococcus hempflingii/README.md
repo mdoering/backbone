@@ -1,5 +1,4 @@
-Cryptococcus hempflingii Vishniac & Baharaeen SPECIES
-=======
+# Cryptococcus hempflingii Vishniac & Baharaeen SPECIES
 
 #### Status
 ACCEPTED

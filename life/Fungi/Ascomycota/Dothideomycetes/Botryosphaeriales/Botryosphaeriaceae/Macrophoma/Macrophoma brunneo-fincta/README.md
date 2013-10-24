@@ -1,5 +1,4 @@
-Macrophoma brunneo-fincta (Berk. & M.A. Curtis) Tassi SPECIES
-=======
+# Macrophoma brunneo-fincta (Berk. & M.A. Curtis) Tassi SPECIES
 
 #### Status
 ACCEPTED

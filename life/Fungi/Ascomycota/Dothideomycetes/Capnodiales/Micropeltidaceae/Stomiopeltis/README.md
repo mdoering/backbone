@@ -1,17 +1,16 @@
-Akaropeltopsis Bat. & Peres GENUS
-=======
+# Stomiopeltis Theissen, 1914 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Atas Inst. Micol. Univ. Recife 3: 45 (1966)
+null
 
 #### Original name
-Akaropeltopsis Bat. & Peres
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Kernia hyalina Malloch & Cain, 1971 SPECIES
-=======
+# Kernia hyalina Malloch & Cain, 1971 SPECIES
 
 #### Status
 ACCEPTED

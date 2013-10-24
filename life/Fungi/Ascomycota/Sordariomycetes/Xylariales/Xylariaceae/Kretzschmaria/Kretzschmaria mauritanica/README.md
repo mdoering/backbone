@@ -1,5 +1,4 @@
-Kretzschmaria mauritanica (Durieu & Mont.) Pat. SPECIES
-=======
+# Kretzschmaria mauritanica (Durieu & Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

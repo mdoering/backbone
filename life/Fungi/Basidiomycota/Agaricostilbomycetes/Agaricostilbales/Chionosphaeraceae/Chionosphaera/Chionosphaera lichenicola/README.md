@@ -1,5 +1,4 @@
-Chionosphaera lichenicola Alstrup, B. Sutton & Tønsberg, 1993 SPECIES
-=======
+# Chionosphaera lichenicola Alstrup, B. Sutton & Tønsberg, 1993 SPECIES
 
 #### Status
 ACCEPTED

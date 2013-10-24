@@ -1,5 +1,4 @@
-Salpingoeca fusiformis SPECIES
-=======
+# Salpingoeca fusiformis SPECIES
 
 #### Status
 ACCEPTED

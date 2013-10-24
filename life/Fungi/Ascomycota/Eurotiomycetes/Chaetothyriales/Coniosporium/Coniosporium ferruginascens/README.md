@@ -1,5 +1,4 @@
-Coniosporium ferruginascens P. Karst. SPECIES
-=======
+# Coniosporium ferruginascens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

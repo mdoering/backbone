@@ -1,5 +1,4 @@
-Gloniella pseudocomma Rehm, 1903 SPECIES
-=======
+# Gloniella pseudocomma Rehm, 1903 SPECIES
 
 #### Status
 ACCEPTED

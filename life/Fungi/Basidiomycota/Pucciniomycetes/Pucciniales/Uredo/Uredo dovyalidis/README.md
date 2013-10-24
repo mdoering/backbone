@@ -1,5 +1,4 @@
-Uredo dovyalidis E. Castell. SPECIES
-=======
+# Uredo dovyalidis E. Castell. SPECIES
 
 #### Status
 ACCEPTED

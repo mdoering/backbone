@@ -1,5 +1,4 @@
-Haplotrichum caribense (Hol.-Jech.) Hol.-Jech. SPECIES
-=======
+# Haplotrichum caribense (Hol.-Jech.) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

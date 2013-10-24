@@ -1,17 +1,16 @@
-Omphalina alpina (Britzelm.) Bresinsky & Stangl, 1974 SPECIES
-=======
+# Lichenomphalia hudsoniana (H.S. Jenn.) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Pilzk. 40(1-2): 73 (1974)
+Mycotaxon 83: 38 (2002)
 
 #### Original name
-Omphalina alpina (Britzelm.) Bresinsky & Stangl, 1974
+Hygrophorus hudsonianus H.S. Jenn., 1936
 
 ### Remarks
 null

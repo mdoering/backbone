@@ -1,5 +1,4 @@
-Fusisporium chenopodinum Thüm. SPECIES
-=======
+# Fusisporium chenopodinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

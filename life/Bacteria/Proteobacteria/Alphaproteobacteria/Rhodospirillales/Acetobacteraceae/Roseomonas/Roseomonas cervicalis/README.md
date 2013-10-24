@@ -1,5 +1,4 @@
-Roseomonas cervicalis Rihs et al., 1998 SPECIES
-=======
+# Roseomonas cervicalis Rihs et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnocladium himalayense Massee SPECIES
-=======
+# Lachnocladium himalayense Massee SPECIES
 
 #### Status
 ACCEPTED

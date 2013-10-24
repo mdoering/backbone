@@ -1,17 +1,16 @@
-Leptosphaeria lectosphaeria Crous & M.E. Palm SPECIES
-=======
+# Leptosphaeria leucadendri Crous & M.E. Palm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 103(10): 1299 (1999)
 
 #### Original name
-Leptosphaeria lectosphaeria Crous & M.E. Palm
+Leptosphaeria leucadendri Crous & M.E. Palm
 
 ### Remarks
 null

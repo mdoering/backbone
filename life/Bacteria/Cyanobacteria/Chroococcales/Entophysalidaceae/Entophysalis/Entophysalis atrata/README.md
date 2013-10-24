@@ -1,5 +1,4 @@
-Entophysalis atrata R. Tavera & J. Komárek SPECIES
-=======
+# Entophysalis atrata R. Tavera & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

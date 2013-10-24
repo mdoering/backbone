@@ -1,5 +1,4 @@
-Leptothyrium rosae Av.-Saccá SPECIES
-=======
+# Leptothyrium rosae Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria amianthina (Scop.) Kauffman SPECIES
-=======
+# Armillaria amianthina (Scop.) Kauffman SPECIES
 
 #### Status
 ACCEPTED

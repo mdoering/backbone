@@ -1,5 +1,4 @@
-Gyromonas Seligo, 1886 GENUS
-=======
+# Gyromonas Seligo, 1886 GENUS
 
 #### Status
 ACCEPTED

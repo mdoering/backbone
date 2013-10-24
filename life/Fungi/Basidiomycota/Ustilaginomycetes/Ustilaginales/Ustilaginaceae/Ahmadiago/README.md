@@ -1,5 +1,4 @@
-Ahmadiago Vánky GENUS
-=======
+# Ahmadiago Vánky GENUS
 
 #### Status
 ACCEPTED

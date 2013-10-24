@@ -1,8 +1,7 @@
-Verrucaria versipellis Nyl. SPECIES
-=======
+# Trimmatothele versipellis (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

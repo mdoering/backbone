@@ -1,5 +1,4 @@
-Trabulsiella guamensis McWhorter et al., 1992 SPECIES
-=======
+# Trabulsiella guamensis McWhorter et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

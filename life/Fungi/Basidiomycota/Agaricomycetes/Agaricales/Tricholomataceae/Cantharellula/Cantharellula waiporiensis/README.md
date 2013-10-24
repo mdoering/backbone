@@ -1,14 +1,13 @@
-Leucopaxillus waiporiensis G. Stev., 1964 SPECIES
-=======
+# Cantharellula waiporiensis (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 19(1): 19 (1964)
+N. Z. Jl Bot. 9(3): 462 (1971)
 
 #### Original name
 Leucopaxillus waiporiensis G. Stev., 1964

@@ -1,5 +1,4 @@
-Timorhabdus Kristan-Tollmann, 1988 GENUS
-=======
+# Timorhabdus Kristan-Tollmann, 1988 GENUS
 
 #### Status
 ACCEPTED

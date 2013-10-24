@@ -1,5 +1,4 @@
-Pulveraria incana (L.) Flörke SPECIES
-=======
+# Pulveraria incana (L.) Flörke SPECIES
 
 #### Status
 ACCEPTED

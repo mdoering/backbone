@@ -1,17 +1,16 @@
-Cenococcum geophilum var. geophilum VARIETY
-=======
+# Cenococcum geophilum Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. mycol. (Lundae) 3(1): 66 (1829)
 
 #### Original name
-Cenococcum geophilum var. geophilum
+Cenococcum geophilum Fr., 1829
 
 ### Remarks
 null

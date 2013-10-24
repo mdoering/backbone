@@ -1,5 +1,4 @@
-Notohymena Blatterer & Foissner, 1988 GENUS
-=======
+# Notohymena Blatterer & Foissner, 1988 GENUS
 
 #### Status
 ACCEPTED

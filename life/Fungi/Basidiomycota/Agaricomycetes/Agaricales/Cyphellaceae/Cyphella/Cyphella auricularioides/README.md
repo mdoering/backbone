@@ -1,5 +1,4 @@
-Cyphella auricularioides Henn. & E. Nyman SPECIES
-=======
+# Cyphella auricularioides Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

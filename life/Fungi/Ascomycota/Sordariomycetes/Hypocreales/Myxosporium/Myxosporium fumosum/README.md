@@ -1,5 +1,4 @@
-Myxosporium fumosum Ellis & Everh. SPECIES
-=======
+# Myxosporium fumosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

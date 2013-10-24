@@ -1,5 +1,4 @@
-Lacrymaria sarmaticus SPECIES
-=======
+# Lacrymaria sarmaticus SPECIES
 
 #### Status
 ACCEPTED

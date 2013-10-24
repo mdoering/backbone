@@ -1,5 +1,4 @@
-Inocybe imbricata (Cleland) Garrido SPECIES
-=======
+# Inocybe imbricata (Cleland) Garrido SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe imazekii Hongo SPECIES
-=======
+# Hygrocybe imazekii Hongo SPECIES
 
 #### Status
 ACCEPTED

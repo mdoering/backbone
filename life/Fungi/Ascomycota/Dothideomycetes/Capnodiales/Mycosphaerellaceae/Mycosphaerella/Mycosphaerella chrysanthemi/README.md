@@ -1,17 +1,16 @@
-Didymella ligulicola var. ligulicola VARIETY
-=======
+# Mycosphaerella chrysanthemi (Tassi) Tomilin, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 11(no. 2): 364 (1962)
+Opredelitel' gribov roda Mycosphaerella Johans 60 (1979)
 
 #### Original name
-Didymella ligulicola var. ligulicola
+Sphaerella chrysanthemi Tassi, 1900
 
 ### Remarks
 null

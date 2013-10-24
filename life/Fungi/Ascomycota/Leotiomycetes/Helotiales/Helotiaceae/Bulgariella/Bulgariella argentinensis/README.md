@@ -1,5 +1,4 @@
-Bulgariella argentinensis Speg. SPECIES
-=======
+# Bulgariella argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

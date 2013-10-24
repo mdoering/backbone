@@ -1,5 +1,4 @@
-Gymnopus castaneus M. Villarreal, Heykoop & Esteve-Rav. SPECIES
-=======
+# Gymnopus castaneus M. Villarreal, Heykoop & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

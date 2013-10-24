@@ -1,5 +1,4 @@
-Sphaerellothecium gallowayi Diederich, 2007 SPECIES
-=======
+# Sphaerellothecium gallowayi Diederich, 2007 SPECIES
 
 #### Status
 ACCEPTED

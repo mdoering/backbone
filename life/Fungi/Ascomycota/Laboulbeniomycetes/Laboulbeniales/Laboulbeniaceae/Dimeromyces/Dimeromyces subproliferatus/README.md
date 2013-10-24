@@ -1,5 +1,4 @@
-Dimeromyces subproliferatus Thaxt. SPECIES
-=======
+# Dimeromyces subproliferatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

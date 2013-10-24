@@ -1,5 +1,4 @@
-Urocystis scilloides Denchev & Kakish., 2000 SPECIES
-=======
+# Urocystis scilloides Denchev & Kakish., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena fuliginella var. fuliginella VARIETY
-=======
+# Mycena fuliginella A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+North Amer. Species of Mycena 372 (1947)
 
 #### Original name
-Mycena fuliginella var. fuliginella
+Mycena fuliginella A.H. Sm.
 
 ### Remarks
 null

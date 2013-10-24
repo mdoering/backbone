@@ -1,5 +1,4 @@
-Apocytospora GENUS
-=======
+# Apocytospora GENUS
 
 #### Status
 ACCEPTED

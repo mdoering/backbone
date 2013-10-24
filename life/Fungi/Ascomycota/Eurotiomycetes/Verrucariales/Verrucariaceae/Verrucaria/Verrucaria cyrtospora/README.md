@@ -1,5 +1,4 @@
-Verrucaria cyrtospora Stirt. SPECIES
-=======
+# Verrucaria cyrtospora Stirt. SPECIES
 
 #### Status
 ACCEPTED

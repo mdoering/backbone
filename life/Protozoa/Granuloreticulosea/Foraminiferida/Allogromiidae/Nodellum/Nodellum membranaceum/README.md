@@ -1,8 +1,7 @@
-Reophax membranacea Brady, 1879 SPECIES
-=======
+# Nodellum membranaceum (Brady, 1879) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

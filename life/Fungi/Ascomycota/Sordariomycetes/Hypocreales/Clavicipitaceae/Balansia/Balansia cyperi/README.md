@@ -1,5 +1,4 @@
-Balansia cyperi Edgerton, 1919 SPECIES
-=======
+# Balansia cyperi Edgerton, 1919 SPECIES
 
 #### Status
 ACCEPTED

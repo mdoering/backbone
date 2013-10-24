@@ -1,5 +1,4 @@
-Arthonia pruinosella Nyl. SPECIES
-=======
+# Arthonia pruinosella Nyl. SPECIES
 
 #### Status
 ACCEPTED

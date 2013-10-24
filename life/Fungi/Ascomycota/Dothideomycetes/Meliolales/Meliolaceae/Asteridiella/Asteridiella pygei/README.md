@@ -1,5 +1,4 @@
-Asteridiella pygei var. pygei VARIETY
-=======
+# Asteridiella pygei Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia (1957)
+Beih. Sydowia 1: 97 (1957)
 
 #### Original name
-Asteridiella pygei var. pygei
+Asteridiella pygei Hansf.
 
 ### Remarks
 null

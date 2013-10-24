@@ -1,5 +1,4 @@
-Polystictus polygonius Sacc. SPECIES
-=======
+# Polystictus polygonius Sacc. SPECIES
 
 #### Status
 ACCEPTED

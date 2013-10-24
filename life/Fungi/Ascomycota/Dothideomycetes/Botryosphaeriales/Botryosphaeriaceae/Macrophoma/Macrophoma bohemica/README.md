@@ -1,5 +1,4 @@
-Macrophoma bohemica Bubák & Kabát SPECIES
-=======
+# Macrophoma bohemica Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

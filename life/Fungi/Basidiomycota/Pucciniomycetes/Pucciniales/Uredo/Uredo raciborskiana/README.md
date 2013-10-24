@@ -1,5 +1,4 @@
-Uredo raciborskiana Sacc. & Trotter SPECIES
-=======
+# Uredo raciborskiana Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

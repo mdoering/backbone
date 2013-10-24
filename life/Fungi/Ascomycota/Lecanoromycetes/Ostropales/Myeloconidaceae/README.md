@@ -1,5 +1,4 @@
-Myeloconidaceae FAMILY
-=======
+# Myeloconidaceae FAMILY
 
 #### Status
 ACCEPTED

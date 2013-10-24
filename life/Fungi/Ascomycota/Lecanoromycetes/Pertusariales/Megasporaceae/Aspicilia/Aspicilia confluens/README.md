@@ -1,5 +1,4 @@
-Aspicilia confluens (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia confluens (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

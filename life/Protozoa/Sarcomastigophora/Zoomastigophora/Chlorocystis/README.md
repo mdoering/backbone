@@ -1,5 +1,4 @@
-Chlorocystis J. Büttner, 1910 GENUS
-=======
+# Chlorocystis J. Büttner, 1910 GENUS
 
 #### Status
 ACCEPTED

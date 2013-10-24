@@ -1,5 +1,4 @@
-Thecaphora denticulata Durán SPECIES
-=======
+# Thecaphora denticulata Durán SPECIES
 
 #### Status
 ACCEPTED

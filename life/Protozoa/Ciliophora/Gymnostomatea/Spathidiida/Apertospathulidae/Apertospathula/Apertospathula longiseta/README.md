@@ -1,5 +1,4 @@
-Apertospathula longiseta Foissner & Xu, 2007 SPECIES
-=======
+# Apertospathula longiseta Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

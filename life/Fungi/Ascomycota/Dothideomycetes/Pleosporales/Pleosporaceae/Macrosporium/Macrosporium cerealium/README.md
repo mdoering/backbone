@@ -1,5 +1,4 @@
-Macrosporium cerealium McAlpine SPECIES
-=======
+# Macrosporium cerealium McAlpine SPECIES
 
 #### Status
 ACCEPTED

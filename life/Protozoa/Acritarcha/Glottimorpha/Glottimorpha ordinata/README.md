@@ -1,5 +1,4 @@
-Glottimorpha ordinata Xing Yusheng in Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Glottimorpha ordinata Xing Yusheng in Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

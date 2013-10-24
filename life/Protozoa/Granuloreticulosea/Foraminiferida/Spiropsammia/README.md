@@ -1,5 +1,4 @@
-Spiropsammia Seiglie & Baker, 1983 GENUS
-=======
+# Spiropsammia Seiglie & Baker, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbopercularia oschei SPECIES
-=======
+# Orbopercularia oschei SPECIES
 
 #### Status
 ACCEPTED

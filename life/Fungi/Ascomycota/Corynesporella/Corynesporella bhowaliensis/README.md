@@ -1,5 +1,4 @@
-Corynesporella bhowaliensis Subram. & V. Srivast. SPECIES
-=======
+# Corynesporella bhowaliensis Subram. & V. Srivast. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium javanicum var. javanicum VARIETY
-=======
+# Fusarium javanicum Koord. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Verh. K. Akad. Wet. , tweede sect. 13(4): 247 (1907)
 
 #### Original name
-Fusarium javanicum var. javanicum
+Fusarium javanicum Koord.
 
 ### Remarks
 null

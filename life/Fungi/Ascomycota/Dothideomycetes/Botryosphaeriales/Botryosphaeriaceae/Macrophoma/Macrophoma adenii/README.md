@@ -1,5 +1,4 @@
-Macrophoma adenii Henn. SPECIES
-=======
+# Macrophoma adenii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella psoroides (Hepp) Arnold SPECIES
-=======
+# Lecidella psoroides (Hepp) Arnold SPECIES
 
 #### Status
 ACCEPTED

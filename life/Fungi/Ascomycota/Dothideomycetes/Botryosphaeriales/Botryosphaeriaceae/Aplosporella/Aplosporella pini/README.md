@@ -1,17 +1,16 @@
-Haplosporella pini House SPECIES
-=======
+# Aplosporella pini House SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. N. Y. St. Mus. 58 (1920)
 
 #### Original name
-Haplosporella pini House
+Aplosporella pini House
 
 ### Remarks
 null

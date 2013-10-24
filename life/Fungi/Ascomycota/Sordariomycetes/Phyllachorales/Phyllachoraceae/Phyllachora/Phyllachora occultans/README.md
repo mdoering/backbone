@@ -1,5 +1,4 @@
-Phyllachora occultans P.F. Cannon & H.C. Evans, 1999 SPECIES
-=======
+# Phyllachora occultans P.F. Cannon & H.C. Evans, 1999 SPECIES
 
 #### Status
 ACCEPTED

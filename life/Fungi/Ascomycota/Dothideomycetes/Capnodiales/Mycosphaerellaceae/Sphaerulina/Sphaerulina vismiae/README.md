@@ -1,5 +1,4 @@
-Sphaerulina vismiae Bat. & J.L. Bezerra SPECIES
-=======
+# Sphaerulina vismiae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

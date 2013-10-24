@@ -1,5 +1,4 @@
-Cruciplacolithus tenuiforatus M. Clocchiatti & L. Jerkovic SPECIES
-=======
+# Cruciplacolithus tenuiforatus M. Clocchiatti & L. Jerkovic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hymenoscypha subtilis W. Phillips SPECIES
-=======
+# Hymenoscyphus subtilis W. Phillips SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenoscypha subtilis W. Phillips
+Hymenoscyphus subtilis W. Phillips
 
 ### Remarks
 null

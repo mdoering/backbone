@@ -1,5 +1,4 @@
-Lycoperdon dakotense Lloyd SPECIES
-=======
+# Lycoperdon dakotense Lloyd SPECIES
 
 #### Status
 ACCEPTED

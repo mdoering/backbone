@@ -1,5 +1,4 @@
-Gymnopus obscuroides Antonín & Legon SPECIES
-=======
+# Gymnopus obscuroides Antonín & Legon SPECIES
 
 #### Status
 ACCEPTED

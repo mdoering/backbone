@@ -1,5 +1,4 @@
-Usnea poliothrix Kremp. SPECIES
-=======
+# Usnea poliothrix Kremp. SPECIES
 
 #### Status
 ACCEPTED

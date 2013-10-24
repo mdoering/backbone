@@ -1,5 +1,4 @@
-Phytophthora siskiyouensis Reeser & E.M. Hansen SPECIES
-=======
+# Phytophthora siskiyouensis Reeser & E.M. Hansen SPECIES
 
 #### Status
 ACCEPTED

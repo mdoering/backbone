@@ -1,5 +1,4 @@
-Placodium tenuatulum (Nyl.) H. Olivier SPECIES
-=======
+# Placodium tenuatulum (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

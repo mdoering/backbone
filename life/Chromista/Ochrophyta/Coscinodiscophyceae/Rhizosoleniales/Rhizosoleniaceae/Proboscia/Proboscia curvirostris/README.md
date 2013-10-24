@@ -1,5 +1,4 @@
-Proboscia curvirostris (A. P. Jousé) R. W. Jordan & J. Priddle SPECIES
-=======
+# Proboscia curvirostris (A. P. Jousé) R. W. Jordan & J. Priddle SPECIES
 
 #### Status
 ACCEPTED

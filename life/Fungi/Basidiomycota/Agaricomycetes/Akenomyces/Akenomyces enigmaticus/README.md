@@ -1,5 +1,4 @@
-Akenomyces enigmaticus G. Arnaud SPECIES
-=======
+# Akenomyces enigmaticus G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

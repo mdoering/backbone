@@ -1,5 +1,4 @@
-Epistylis vegetans (Müller) Ehrenberg, 1833 SPECIES
-=======
+# Epistylis vegetans (Müller) Ehrenberg, 1833 SPECIES
 
 #### Status
 ACCEPTED

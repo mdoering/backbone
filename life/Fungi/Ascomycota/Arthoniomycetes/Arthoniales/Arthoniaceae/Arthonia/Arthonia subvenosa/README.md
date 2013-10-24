@@ -1,5 +1,4 @@
-Arthonia subvenosa Leight. SPECIES
-=======
+# Arthonia subvenosa Leight. SPECIES
 
 #### Status
 ACCEPTED

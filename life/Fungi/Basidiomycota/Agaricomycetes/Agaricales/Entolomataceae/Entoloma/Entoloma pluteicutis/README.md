@@ -1,5 +1,4 @@
-Entoloma pluteicutis (Romagn. & Gilles) Noordel. SPECIES
-=======
+# Entoloma pluteicutis (Romagn. & Gilles) Noordel. SPECIES
 
 #### Status
 ACCEPTED

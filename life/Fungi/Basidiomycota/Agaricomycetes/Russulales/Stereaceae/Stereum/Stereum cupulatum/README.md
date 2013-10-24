@@ -1,5 +1,4 @@
-Stereum cupulatum Pat. SPECIES
-=======
+# Stereum cupulatum Pat. SPECIES
 
 #### Status
 ACCEPTED

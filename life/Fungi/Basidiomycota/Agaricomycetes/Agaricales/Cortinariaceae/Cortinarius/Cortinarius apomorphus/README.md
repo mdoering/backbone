@@ -1,5 +1,4 @@
-Cortinarius apomorphus Rob. Henry SPECIES
-=======
+# Cortinarius apomorphus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

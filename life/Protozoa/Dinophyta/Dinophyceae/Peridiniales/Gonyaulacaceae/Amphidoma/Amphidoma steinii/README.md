@@ -1,5 +1,4 @@
-Amphidoma steinii Schiller, 1929 SPECIES
-=======
+# Amphidoma steinii Schiller, 1929 SPECIES
 
 #### Status
 ACCEPTED

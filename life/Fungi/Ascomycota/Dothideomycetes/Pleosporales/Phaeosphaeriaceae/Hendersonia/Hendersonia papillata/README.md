@@ -1,5 +1,4 @@
-Hendersonia papillata Pat. SPECIES
-=======
+# Hendersonia papillata Pat. SPECIES
 
 #### Status
 ACCEPTED

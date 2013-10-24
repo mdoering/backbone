@@ -1,5 +1,4 @@
-Blastenia lagostana Zahlbr. SPECIES
-=======
+# Blastenia lagostana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

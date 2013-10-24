@@ -1,5 +1,4 @@
-Lecanora admontensis Zahlbr. SPECIES
-=======
+# Lecanora admontensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca hexaspora (Hue) T. Okamoto SPECIES
-=======
+# Caloplaca hexaspora (Hue) T. Okamoto SPECIES
 
 #### Status
 ACCEPTED

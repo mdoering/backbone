@@ -1,5 +1,4 @@
-Coremium pulcherrimum Petch SPECIES
-=======
+# Coremium pulcherrimum Petch SPECIES
 
 #### Status
 ACCEPTED

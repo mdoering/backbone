@@ -1,5 +1,4 @@
-Hybogaster giganteus Singer, 1964 SPECIES
-=======
+# Hybogaster giganteus Singer, 1964 SPECIES
 
 #### Status
 ACCEPTED

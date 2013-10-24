@@ -1,5 +1,4 @@
-Pholiotina ealaensis (Beeli) Singer SPECIES
-=======
+# Pholiotina ealaensis (Beeli) Singer SPECIES
 
 #### Status
 ACCEPTED

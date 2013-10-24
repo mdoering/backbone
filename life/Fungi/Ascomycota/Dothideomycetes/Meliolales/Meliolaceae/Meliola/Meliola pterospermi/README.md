@@ -1,5 +1,4 @@
-Meliola pterospermi var. pterospermi VARIETY
-=======
+# Meliola pterospermi Hosag. & Raghu SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 26(3/4): 260 (1928)
 
 #### Original name
-Meliola pterospermi var. pterospermi
+Meliola pterospermi Hosag. & Raghu
 
 ### Remarks
 null

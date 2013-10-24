@@ -1,5 +1,4 @@
-Peziza picea Limm. SPECIES
-=======
+# Peziza picea Limm. SPECIES
 
 #### Status
 ACCEPTED

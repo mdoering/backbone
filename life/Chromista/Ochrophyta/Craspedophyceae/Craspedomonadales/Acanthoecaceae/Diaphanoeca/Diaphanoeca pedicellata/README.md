@@ -1,11 +1,10 @@
-Campanoeca pedicellata (Leadbeater, 1972) Throndsen, 1974 SPECIES
-=======
+# Diaphanoeca pedicellata Leadbeater SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

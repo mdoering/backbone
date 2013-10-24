@@ -1,5 +1,4 @@
-Epistylis geleii Stiller, 1931 SPECIES
-=======
+# Epistylis geleii Stiller, 1931 SPECIES
 
 #### Status
 ACCEPTED

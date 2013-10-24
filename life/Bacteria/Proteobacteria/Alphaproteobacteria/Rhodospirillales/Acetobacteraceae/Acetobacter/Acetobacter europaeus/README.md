@@ -1,5 +1,4 @@
-Acetobacter europaeus Sievers et al., 1992 SPECIES
-=======
+# Acetobacter europaeus Sievers et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

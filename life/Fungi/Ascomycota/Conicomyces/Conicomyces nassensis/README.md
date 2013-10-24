@@ -1,5 +1,4 @@
-Conicomyces nassensis Seifert SPECIES
-=======
+# Conicomyces nassensis Seifert SPECIES
 
 #### Status
 ACCEPTED

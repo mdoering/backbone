@@ -1,5 +1,4 @@
-Lecanora coracodes Nyl. SPECIES
-=======
+# Lecanora coracodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

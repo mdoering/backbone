@@ -1,5 +1,4 @@
-Macrosporium caulicola Sacc. SPECIES
-=======
+# Macrosporium caulicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Atrocybe Velen. GENUS
-=======
+# Atrocybe Velen. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus kassunensis Baghd. SPECIES
-=======
+# Aspergillus kassunensis Baghd. SPECIES
 
 #### Status
 ACCEPTED

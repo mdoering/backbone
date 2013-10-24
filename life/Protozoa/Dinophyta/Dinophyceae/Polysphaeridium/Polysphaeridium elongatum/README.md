@@ -1,5 +1,4 @@
-Polysphaeridium elongatum K. P. Jain & P. Millepied SPECIES
-=======
+# Polysphaeridium elongatum K. P. Jain & P. Millepied SPECIES
 
 #### Status
 ACCEPTED

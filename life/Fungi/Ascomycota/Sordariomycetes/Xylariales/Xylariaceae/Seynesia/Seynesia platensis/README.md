@@ -1,5 +1,4 @@
-Seynesia platensis Speg. SPECIES
-=======
+# Seynesia platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

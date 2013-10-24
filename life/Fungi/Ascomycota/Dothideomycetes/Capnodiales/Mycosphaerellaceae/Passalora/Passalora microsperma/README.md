@@ -1,5 +1,4 @@
-Passalora microsperma Fuckel SPECIES
-=======
+# Passalora microsperma Fuckel SPECIES
 
 #### Status
 ACCEPTED

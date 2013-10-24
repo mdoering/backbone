@@ -1,5 +1,4 @@
-Alternaria diversispora (Thüm.) E.G. Simmons SPECIES
-=======
+# Alternaria diversispora (Thüm.) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

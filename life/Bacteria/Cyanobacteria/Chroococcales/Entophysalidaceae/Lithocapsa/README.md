@@ -1,5 +1,4 @@
-Lithocapsa Ercegovic, 1925 GENUS
-=======
+# Lithocapsa Ercegovic, 1925 GENUS
 
 #### Status
 ACCEPTED

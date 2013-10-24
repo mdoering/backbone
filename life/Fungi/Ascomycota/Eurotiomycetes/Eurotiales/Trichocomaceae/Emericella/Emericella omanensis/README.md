@@ -1,5 +1,4 @@
-Emericella omanensis Y. Horie & Udagawa, 1995 SPECIES
-=======
+# Emericella omanensis Y. Horie & Udagawa, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synphragmidium effusum Peck SPECIES
-=======
+# Synphragmidium effusum Peck SPECIES
 
 #### Status
 ACCEPTED

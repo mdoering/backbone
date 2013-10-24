@@ -1,5 +1,4 @@
-Sarcomyces Massee, 1891 GENUS
-=======
+# Sarcomyces Massee, 1891 GENUS
 
 #### Status
 ACCEPTED

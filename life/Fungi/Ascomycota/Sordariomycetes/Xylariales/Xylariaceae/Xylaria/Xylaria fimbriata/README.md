@@ -1,5 +1,4 @@
-Xylaria fimbriata Lloyd SPECIES
-=======
+# Xylaria fimbriata Lloyd SPECIES
 
 #### Status
 ACCEPTED

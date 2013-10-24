@@ -1,5 +1,4 @@
-Phyllostictina subeffusa (Ellis & Everh.) Petr. & Syd. SPECIES
-=======
+# Phyllostictina subeffusa (Ellis & Everh.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

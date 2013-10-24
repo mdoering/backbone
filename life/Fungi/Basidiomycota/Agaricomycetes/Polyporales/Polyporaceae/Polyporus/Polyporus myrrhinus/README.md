@@ -1,5 +1,4 @@
-Polyporus myrrhinus J. Kickx f. SPECIES
-=======
+# Polyporus myrrhinus J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

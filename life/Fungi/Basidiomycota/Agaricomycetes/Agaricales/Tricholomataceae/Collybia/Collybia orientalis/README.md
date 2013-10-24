@@ -1,5 +1,4 @@
-Collybia orientalis Pat. SPECIES
-=======
+# Collybia orientalis Pat. SPECIES
 
 #### Status
 ACCEPTED

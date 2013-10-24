@@ -1,5 +1,4 @@
-Euglena magnifica E.G. Pringsheim SPECIES
-=======
+# Euglena magnifica E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

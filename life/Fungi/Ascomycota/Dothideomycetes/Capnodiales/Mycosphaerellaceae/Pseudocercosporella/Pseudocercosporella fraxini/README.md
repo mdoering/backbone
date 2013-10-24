@@ -1,5 +1,4 @@
-Pseudocercosporella fraxini (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Pseudocercosporella fraxini (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

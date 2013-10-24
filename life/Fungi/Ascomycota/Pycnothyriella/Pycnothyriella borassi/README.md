@@ -1,5 +1,4 @@
-Pycnothyriella borassi S. Hughes SPECIES
-=======
+# Pycnothyriella borassi S. Hughes SPECIES
 
 #### Status
 ACCEPTED

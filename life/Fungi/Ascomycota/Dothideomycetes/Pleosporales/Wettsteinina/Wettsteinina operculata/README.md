@@ -1,5 +1,4 @@
-Wettsteinina operculata M.E. Barr SPECIES
-=======
+# Wettsteinina operculata M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

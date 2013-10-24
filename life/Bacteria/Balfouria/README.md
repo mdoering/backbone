@@ -1,5 +1,4 @@
-Balfouria Dschunkowsky, 1937 GENUS
-=======
+# Balfouria Dschunkowsky, 1937 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithocia memnonia (Arnold) Stein SPECIES
-=======
+# Lithocia memnonia (Arnold) Stein SPECIES
 
 #### Status
 ACCEPTED

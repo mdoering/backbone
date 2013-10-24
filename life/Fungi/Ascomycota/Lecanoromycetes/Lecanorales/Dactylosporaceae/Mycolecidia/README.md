@@ -1,5 +1,4 @@
-Mycolecidia GENUS
-=======
+# Mycolecidia GENUS
 
 #### Status
 ACCEPTED

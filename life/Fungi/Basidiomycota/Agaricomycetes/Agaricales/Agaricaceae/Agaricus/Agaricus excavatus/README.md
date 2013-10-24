@@ -1,5 +1,4 @@
-Agaricus excavatus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus excavatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma siliquae Sacc. SPECIES
-=======
+# Phoma siliquae Sacc. SPECIES
 
 #### Status
 ACCEPTED

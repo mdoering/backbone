@@ -1,17 +1,16 @@
-Botrytis convoluta Whetzel & Drayton, 1932 SPECIES
-=======
+# Botryotinia convoluta (Drayton) Whetzel, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 24: 475 (1932)
+Mycologia 37(6): 679 (1945)
 
 #### Original name
-Botrytis convoluta Whetzel & Drayton, 1932
+Sclerotinia convoluta Drayton, 1937
 
 ### Remarks
 null

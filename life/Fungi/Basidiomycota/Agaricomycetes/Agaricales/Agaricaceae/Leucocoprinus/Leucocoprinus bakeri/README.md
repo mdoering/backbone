@@ -1,5 +1,4 @@
-Leucocoprinus bakeri (Dennis) Singer SPECIES
-=======
+# Leucocoprinus bakeri (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

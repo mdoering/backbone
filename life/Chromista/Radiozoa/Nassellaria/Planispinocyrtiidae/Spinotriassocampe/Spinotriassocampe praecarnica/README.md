@@ -1,5 +1,4 @@
-Spinotriassocampe praecarnica SPECIES
-=======
+# Spinotriassocampe praecarnica SPECIES
 
 #### Status
 ACCEPTED

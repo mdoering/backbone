@@ -1,5 +1,4 @@
-Hysterographium eupatorii Lasch SPECIES
-=======
+# Hysterographium eupatorii Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia thalictri (Ellis & Dearn.) Tassi SPECIES
-=======
+# Microdiplodia thalictri (Ellis & Dearn.) Tassi SPECIES
 
 #### Status
 ACCEPTED

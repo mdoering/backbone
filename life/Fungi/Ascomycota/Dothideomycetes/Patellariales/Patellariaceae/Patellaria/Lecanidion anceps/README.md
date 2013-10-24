@@ -1,5 +1,4 @@
-Lecanidion anceps Pass. SPECIES
-=======
+# Lecanidion anceps Pass. SPECIES
 
 #### Status
 ACCEPTED

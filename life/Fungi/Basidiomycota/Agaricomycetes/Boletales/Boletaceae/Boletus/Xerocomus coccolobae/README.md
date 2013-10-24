@@ -1,5 +1,4 @@
-Xerocomus coccolobae Pegler SPECIES
-=======
+# Xerocomus coccolobae Pegler SPECIES
 
 #### Status
 ACCEPTED

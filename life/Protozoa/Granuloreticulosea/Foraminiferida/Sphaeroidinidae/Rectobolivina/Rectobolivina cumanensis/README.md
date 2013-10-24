@@ -1,5 +1,4 @@
-Rectobolivina cumanensis SPECIES
-=======
+# Rectobolivina cumanensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina thujopsicola G. Thor, Lücking & Tat. Matsumoto SPECIES
-=======
+# Porina thujopsicola G. Thor, Lücking & Tat. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

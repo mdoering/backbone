@@ -1,5 +1,4 @@
-Sphaeria cyrillicola Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria cyrillicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

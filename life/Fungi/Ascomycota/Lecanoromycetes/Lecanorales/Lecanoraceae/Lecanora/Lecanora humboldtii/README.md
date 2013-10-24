@@ -1,5 +1,4 @@
-Lecanora humboldtii Lynge SPECIES
-=======
+# Lecanora humboldtii Lynge SPECIES
 
 #### Status
 ACCEPTED

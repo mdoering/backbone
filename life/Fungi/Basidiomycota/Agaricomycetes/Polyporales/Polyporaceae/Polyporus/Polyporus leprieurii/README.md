@@ -1,17 +1,16 @@
-Polyporus hemicapnodes var. hemicapnodes VARIETY
-=======
+# Polyporus leprieurii Mont., 1840 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 47 (1875)
+Annls Sci. Nat. , Bot. , sér. 2 13: 203 (1840)
 
 #### Original name
-Polyporus hemicapnodes var. hemicapnodes
+Polyporus leprieurii Mont., 1840
 
 ### Remarks
 null

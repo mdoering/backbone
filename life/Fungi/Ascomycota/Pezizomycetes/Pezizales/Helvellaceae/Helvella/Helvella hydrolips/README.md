@@ -1,5 +1,4 @@
-Helvella hydrolips var. hydrolips VARIETY
-=======
+# Helvella hydrolips Bull. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Champ. 10: tab. 465, fig. 2 (1790)
 
 #### Original name
-Helvella hydrolips var. hydrolips
+Helvella hydrolips Bull.
 
 ### Remarks
 null

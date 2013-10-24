@@ -1,5 +1,4 @@
-Ustilago coelachyrae A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Ustilago coelachyrae A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

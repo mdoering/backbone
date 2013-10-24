@@ -1,5 +1,4 @@
-Hypotrichidium deflectum SPECIES
-=======
+# Hypotrichidium deflectum SPECIES
 
 #### Status
 ACCEPTED

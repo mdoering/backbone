@@ -1,5 +1,4 @@
-Berwaldia J.I.R. Larsson GENUS
-=======
+# Berwaldia J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia retosta (Fr.) Gillet SPECIES
-=======
+# Omphalia retosta (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

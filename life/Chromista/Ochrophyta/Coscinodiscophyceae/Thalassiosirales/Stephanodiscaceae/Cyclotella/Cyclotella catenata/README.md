@@ -1,5 +1,4 @@
-Cyclotella catenata (J.Brun) Bachmann SPECIES
-=======
+# Cyclotella catenata (J.Brun) Bachmann SPECIES
 
 #### Status
 ACCEPTED

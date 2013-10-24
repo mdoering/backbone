@@ -1,5 +1,4 @@
-Stigmopeltis graminicola Wehm. SPECIES
-=======
+# Stigmopeltis graminicola Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus mariae Deflandre SPECIES
-=======
+# Phacus mariae Deflandre SPECIES
 
 #### Status
 ACCEPTED

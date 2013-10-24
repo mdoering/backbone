@@ -1,5 +1,4 @@
-Pluricellaesporites longicollus Sheffy & Dilcher SPECIES
-=======
+# Pluricellaesporites longicollus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

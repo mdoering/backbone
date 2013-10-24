@@ -1,8 +1,7 @@
-Actinomadura flava Gauze et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Lechevalieria flava (Gauze et al., 1974) Labeda et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Monacrosporium synnematum Matsush. SPECIES
-=======
+# Monacrosporium synnematum Matsush. SPECIES
 
 #### Status
 ACCEPTED

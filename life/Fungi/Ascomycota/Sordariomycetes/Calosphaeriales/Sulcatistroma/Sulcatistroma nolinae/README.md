@@ -1,5 +1,4 @@
-Sulcatistroma nolinae A.W. Ramaley, 2005 SPECIES
-=======
+# Sulcatistroma nolinae A.W. Ramaley, 2005 SPECIES
 
 #### Status
 ACCEPTED

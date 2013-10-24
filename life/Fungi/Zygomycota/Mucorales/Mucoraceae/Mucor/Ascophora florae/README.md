@@ -1,5 +1,4 @@
-Ascophora florae Corda SPECIES
-=======
+# Ascophora florae Corda SPECIES
 
 #### Status
 ACCEPTED

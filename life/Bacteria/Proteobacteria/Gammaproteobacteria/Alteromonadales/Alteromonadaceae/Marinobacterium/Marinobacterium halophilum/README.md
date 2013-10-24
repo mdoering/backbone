@@ -1,5 +1,4 @@
-Marinobacterium halophilum Chang, Nam, Kwon, Park, Lee, Yoon, An & Bae, 2007 SPECIES
-=======
+# Marinobacterium halophilum Chang, Nam, Kwon, Park, Lee, Yoon, An & Bae, 2007 SPECIES
 
 #### Status
 ACCEPTED

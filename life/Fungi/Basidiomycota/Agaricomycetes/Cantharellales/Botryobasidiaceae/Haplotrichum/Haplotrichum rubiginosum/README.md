@@ -1,14 +1,13 @@
-Oidium rubiginosum (Fr.) Linder, 1942 SPECIES
-=======
+# Haplotrichum rubiginosum (Fr.) Hol.-Jech., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 5(3): 191 (1942)
+Ceská Mykol. 30(1): 4 (1976)
 
 #### Original name
 Sporotrichum rubiginosum Fr., 1832

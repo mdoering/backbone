@@ -1,5 +1,4 @@
-Striglia pavonia (Berk.) Kuntze SPECIES
-=======
+# Striglia pavonia (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia nepalensis L. R. Sharma & Kurok. SPECIES
-=======
+# Xanthoparmelia nepalensis L. R. Sharma & Kurok. SPECIES
 
 #### Status
 ACCEPTED

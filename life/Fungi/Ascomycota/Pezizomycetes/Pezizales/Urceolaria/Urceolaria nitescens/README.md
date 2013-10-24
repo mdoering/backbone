@@ -1,5 +1,4 @@
-Urceolaria nitescens Motyka SPECIES
-=======
+# Urceolaria nitescens Motyka SPECIES
 
 #### Status
 ACCEPTED

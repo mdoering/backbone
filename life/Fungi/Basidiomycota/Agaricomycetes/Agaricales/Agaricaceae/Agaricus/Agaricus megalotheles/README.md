@@ -1,5 +1,4 @@
-Agaricus megalotheles Kalchbr. SPECIES
-=======
+# Agaricus megalotheles Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

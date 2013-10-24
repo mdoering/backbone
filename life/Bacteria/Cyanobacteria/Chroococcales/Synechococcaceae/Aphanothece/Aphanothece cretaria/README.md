@@ -1,5 +1,4 @@
-Aphanothece cretaria Frémy SPECIES
-=======
+# Aphanothece cretaria Frémy SPECIES
 
 #### Status
 ACCEPTED

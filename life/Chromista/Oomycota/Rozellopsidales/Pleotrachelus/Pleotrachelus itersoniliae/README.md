@@ -1,14 +1,13 @@
-Rozella itersoniliae D.J.S. Barr & Bandoni, 1980 SPECIES
-=======
+# Pleotrachelus itersoniliae (D.J.S. Barr & Bandoni) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 71(6): 1261 (1980)
+Straminipilous Fungi (Dordrecht) 381 (2001)
 
 #### Original name
 Rozella itersoniliae D.J.S. Barr & Bandoni, 1980

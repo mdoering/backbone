@@ -1,5 +1,4 @@
-Leotia affinis Velen. SPECIES
-=======
+# Leotia affinis Velen. SPECIES
 
 #### Status
 ACCEPTED

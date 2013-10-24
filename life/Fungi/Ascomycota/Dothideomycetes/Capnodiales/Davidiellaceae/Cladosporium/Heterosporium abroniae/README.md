@@ -1,5 +1,4 @@
-Heterosporium abroniae Harkn. SPECIES
-=======
+# Heterosporium abroniae Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus montanus Singer SPECIES
-=======
+# Tylopilus montanus Singer SPECIES
 
 #### Status
 ACCEPTED

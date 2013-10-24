@@ -1,5 +1,4 @@
-Beggiatoa alba (Vaucher) Trevisan SPECIES
-=======
+# Beggiatoa alba (Vaucher) Trevisan SPECIES
 
 #### Status
 ACCEPTED

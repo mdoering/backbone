@@ -1,5 +1,4 @@
-Wageria GENUS
-=======
+# Wageria GENUS
 
 #### Status
 ACCEPTED

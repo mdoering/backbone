@@ -1,5 +1,4 @@
-Sphaeria setosa Schwein. SPECIES
-=======
+# Sphaeria setosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pringsheimia acaciae Tilak & R. Rao SPECIES
-=======
+# Pringsheimia acaciae Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

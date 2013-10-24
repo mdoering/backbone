@@ -1,5 +1,4 @@
-Hendersonia fusispora Bubák SPECIES
-=======
+# Hendersonia fusispora Bubák SPECIES
 
 #### Status
 ACCEPTED

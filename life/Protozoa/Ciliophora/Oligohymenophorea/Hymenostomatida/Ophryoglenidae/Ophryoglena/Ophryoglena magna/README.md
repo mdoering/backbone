@@ -1,5 +1,4 @@
-Ophryoglena magna Maupas, 1883 SPECIES
-=======
+# Ophryoglena magna Maupas, 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sicuophorides GENUS
-=======
+# Sicuophorides GENUS
 
 #### Status
 ACCEPTED

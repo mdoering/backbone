@@ -1,5 +1,4 @@
-Mycena albicans Métrod SPECIES
-=======
+# Mycena albicans Métrod SPECIES
 
 #### Status
 ACCEPTED

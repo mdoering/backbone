@@ -1,5 +1,4 @@
-Pleospora secotii Hollós SPECIES
-=======
+# Pleospora secotii Hollós SPECIES
 
 #### Status
 ACCEPTED

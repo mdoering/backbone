@@ -1,5 +1,4 @@
-Peltula tenuis Büdel & Henssen SPECIES
-=======
+# Peltula tenuis Büdel & Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sarcopyreniomyces Cif. & Tomas. GENUS
-=======
+# Sarcopyrenia Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 32, 60 (1953)
+Mém. Soc. Acad. Maine Loire 4: 69 (1858)
 
 #### Original name
-Sarcopyreniomyces Cif. & Tomas.
+Sarcopyrenia Nyl.
 
 ### Remarks
 null

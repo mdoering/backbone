@@ -1,5 +1,4 @@
-Pleospora rebissia De Not. SPECIES
-=======
+# Pleospora rebissia De Not. SPECIES
 
 #### Status
 ACCEPTED

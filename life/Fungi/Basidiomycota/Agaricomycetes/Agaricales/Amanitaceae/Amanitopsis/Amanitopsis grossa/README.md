@@ -1,5 +1,4 @@
-Amanitopsis grossa (Sacc.) Brittleb. SPECIES
-=======
+# Amanitopsis grossa (Sacc.) Brittleb. SPECIES
 
 #### Status
 ACCEPTED

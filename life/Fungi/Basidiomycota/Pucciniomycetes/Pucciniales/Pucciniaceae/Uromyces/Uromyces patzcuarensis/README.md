@@ -1,5 +1,4 @@
-Uromyces patzcuarensis Holw. SPECIES
-=======
+# Uromyces patzcuarensis Holw. SPECIES
 
 #### Status
 ACCEPTED

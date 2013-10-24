@@ -1,5 +1,4 @@
-Merulius insignis Wakef. SPECIES
-=======
+# Merulius insignis Wakef. SPECIES
 
 #### Status
 ACCEPTED

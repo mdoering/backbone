@@ -1,5 +1,4 @@
-Pyrenula praelucida (Mont.) Trevis. SPECIES
-=======
+# Pyrenula praelucida (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

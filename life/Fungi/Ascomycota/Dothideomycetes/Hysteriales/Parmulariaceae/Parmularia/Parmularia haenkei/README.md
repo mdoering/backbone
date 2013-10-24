@@ -1,8 +1,7 @@
-Clypeum haenkei (T. Nees) Masse, 1896 SPECIES
-=======
+# Parmularia haenkei (T. Nees) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

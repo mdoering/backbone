@@ -1,5 +1,4 @@
-Rhytismites pythii (Ettingsh.) Mesch. SPECIES
-=======
+# Rhytismites pythii (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

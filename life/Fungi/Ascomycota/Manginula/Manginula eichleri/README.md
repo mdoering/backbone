@@ -1,5 +1,4 @@
-Manginula eichleri R.T. Lange SPECIES
-=======
+# Manginula eichleri R.T. Lange SPECIES
 
 #### Status
 ACCEPTED

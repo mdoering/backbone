@@ -1,17 +1,16 @@
-Uredo segetum f. zeae-maydis DC. FORM
-=======
+# Ustilago maydis (DC.) Corda, 1842 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Prague) 5: 3 (1842)
 
 #### Original name
-Uredo segetum f. zeae-maydis DC.
+Uredo maydis DC., 1815
 
 ### Remarks
 null

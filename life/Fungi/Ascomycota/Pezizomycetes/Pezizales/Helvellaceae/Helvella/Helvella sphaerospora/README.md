@@ -1,5 +1,4 @@
-Helvella sphaerospora var. sphaerospora VARIETY
-=======
+# Helvella sphaerospora Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helvella sphaerospora var. sphaerospora
+Helvella sphaerospora Peck
 
 ### Remarks
 null

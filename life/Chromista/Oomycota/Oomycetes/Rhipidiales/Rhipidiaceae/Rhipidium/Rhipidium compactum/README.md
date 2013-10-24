@@ -1,5 +1,4 @@
-Rhipidium compactum V.D. Matthews SPECIES
-=======
+# Rhipidium compactum V.D. Matthews SPECIES
 
 #### Status
 ACCEPTED

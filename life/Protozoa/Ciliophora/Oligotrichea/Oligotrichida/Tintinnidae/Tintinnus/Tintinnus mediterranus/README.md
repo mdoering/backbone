@@ -1,5 +1,4 @@
-Tintinnus mediterranus SPECIES
-=======
+# Tintinnus mediterranus SPECIES
 
 #### Status
 ACCEPTED

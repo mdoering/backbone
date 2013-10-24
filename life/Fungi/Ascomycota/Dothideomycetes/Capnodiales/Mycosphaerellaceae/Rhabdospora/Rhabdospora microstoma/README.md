@@ -1,5 +1,4 @@
-Rhabdospora microstoma Tassi SPECIES
-=======
+# Rhabdospora microstoma Tassi SPECIES
 
 #### Status
 ACCEPTED

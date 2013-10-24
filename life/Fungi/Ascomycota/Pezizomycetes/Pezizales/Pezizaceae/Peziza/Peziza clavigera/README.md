@@ -1,5 +1,4 @@
-Peziza clavigera Ellis & Everh. SPECIES
-=======
+# Peziza clavigera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

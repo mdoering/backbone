@@ -1,5 +1,4 @@
-Cribroperidinium granulatum (Klement, 1960) Stover & Evitt SPECIES
-=======
+# Cribroperidinium granulatum (Klement, 1960) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

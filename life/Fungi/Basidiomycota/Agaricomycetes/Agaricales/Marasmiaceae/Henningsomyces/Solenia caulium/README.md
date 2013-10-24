@@ -1,5 +1,4 @@
-Solenia caulium (Fuckel) Fuckel SPECIES
-=======
+# Solenia caulium (Fuckel) Fuckel SPECIES
 
 #### Status
 ACCEPTED

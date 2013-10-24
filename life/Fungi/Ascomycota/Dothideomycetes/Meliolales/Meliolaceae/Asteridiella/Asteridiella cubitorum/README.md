@@ -1,5 +1,4 @@
-Asteridiella cubitorum (F. Stevens & Tehon) Hansf. SPECIES
-=======
+# Asteridiella cubitorum (F. Stevens & Tehon) Hansf. SPECIES
 
 #### Status
 ACCEPTED

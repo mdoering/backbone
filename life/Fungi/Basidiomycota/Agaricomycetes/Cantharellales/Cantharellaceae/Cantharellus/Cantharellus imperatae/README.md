@@ -1,5 +1,4 @@
-Cantharellus imperatae Cleland & Cheel SPECIES
-=======
+# Cantharellus imperatae Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

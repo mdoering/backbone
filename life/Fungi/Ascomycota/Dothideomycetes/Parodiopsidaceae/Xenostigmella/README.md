@@ -1,5 +1,4 @@
-Xenostigmella GENUS
-=======
+# Xenostigmella GENUS
 
 #### Status
 ACCEPTED

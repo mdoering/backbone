@@ -1,5 +1,4 @@
-Gloeosporium saururi Ellis & Dearn. SPECIES
-=======
+# Gloeosporium saururi Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triporina S.N.Naumova GENUS
-=======
+# Triporina S.N.Naumova GENUS
 
 #### Status
 ACCEPTED

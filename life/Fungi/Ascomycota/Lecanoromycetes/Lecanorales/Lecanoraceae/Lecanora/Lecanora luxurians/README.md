@@ -1,5 +1,4 @@
-Lecanora luxurians Motyka SPECIES
-=======
+# Lecanora luxurians Motyka SPECIES
 
 #### Status
 ACCEPTED

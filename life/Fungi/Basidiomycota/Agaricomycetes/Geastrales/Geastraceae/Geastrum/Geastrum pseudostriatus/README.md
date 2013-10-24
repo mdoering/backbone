@@ -1,8 +1,7 @@
-Geaster pseudostriatus Hollós SPECIES
-=======
+# Geastrum pseudostriatus Hollós SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster pseudostriatus Hollós
+Geastrum pseudostriatus Hollós
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmentaria schiffneri Zahlbr. SPECIES
-=======
+# Parmentaria schiffneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

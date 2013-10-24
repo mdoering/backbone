@@ -1,5 +1,4 @@
-Cymatiogalea fimbriata Volkova, 1990 SPECIES
-=======
+# Cymatiogalea fimbriata Volkova, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorea canariensis (Ach.) Nyl. SPECIES
-=======
+# Chlorea canariensis (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

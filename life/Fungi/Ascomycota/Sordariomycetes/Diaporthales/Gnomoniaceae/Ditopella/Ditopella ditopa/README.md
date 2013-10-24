@@ -1,14 +1,13 @@
-Gnomonia ditopa (Fr.) M. Monod, 1983 SPECIES
-=======
+# Ditopella ditopa (Fr.) J. Schröt., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 9: 88 (1983)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(2532): 388 (1888)
 
 #### Original name
 Sphaeria ditopa Fr., 1823

@@ -1,5 +1,4 @@
-Meliola anacolosae Hansf. SPECIES
-=======
+# Meliola anacolosae Hansf. SPECIES
 
 #### Status
 ACCEPTED

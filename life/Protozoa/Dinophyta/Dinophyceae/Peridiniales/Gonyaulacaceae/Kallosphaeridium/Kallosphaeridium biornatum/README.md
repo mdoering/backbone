@@ -1,5 +1,4 @@
-Kallosphaeridium biornatum Stover, 1977 SPECIES
-=======
+# Kallosphaeridium biornatum Stover, 1977 SPECIES
 
 #### Status
 ACCEPTED

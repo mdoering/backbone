@@ -1,11 +1,10 @@
-Methanobacterium thermautotrophicum Zeikus & Wolfe, 1972 emend. Touzel et al., 1992 SPECIES
-=======
+# Methanothermobacter thermautotrophicus (Zeikus & Wolfe, 1972) Wasserfallen et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

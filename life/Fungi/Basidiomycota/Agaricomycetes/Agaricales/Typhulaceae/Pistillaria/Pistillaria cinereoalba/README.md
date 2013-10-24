@@ -1,5 +1,4 @@
-Pistillaria cinereoalba (Bonord.) Sacc. SPECIES
-=======
+# Pistillaria cinereoalba (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista colorata (Peck) Kreisel SPECIES
-=======
+# Bovista colorata (Peck) Kreisel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodosaria octolocularia Brown, 1844 SPECIES
-=======
+# Nodosaria octolocularia Brown, 1844 SPECIES
 
 #### Status
 ACCEPTED

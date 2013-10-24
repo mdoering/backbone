@@ -1,5 +1,4 @@
-Polyblastia intrusa (Nyl.) Trevis. SPECIES
-=======
+# Polyblastia intrusa (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

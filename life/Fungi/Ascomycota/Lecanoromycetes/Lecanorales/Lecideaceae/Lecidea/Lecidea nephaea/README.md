@@ -1,5 +1,4 @@
-Lecidea nephaea (Sommerf.) Erichsen SPECIES
-=======
+# Lecidea nephaea (Sommerf.) Erichsen SPECIES
 
 #### Status
 ACCEPTED

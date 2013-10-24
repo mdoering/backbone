@@ -1,5 +1,4 @@
-Tyromyces albovinaceus Corner SPECIES
-=======
+# Tyromyces albovinaceus Corner SPECIES
 
 #### Status
 ACCEPTED

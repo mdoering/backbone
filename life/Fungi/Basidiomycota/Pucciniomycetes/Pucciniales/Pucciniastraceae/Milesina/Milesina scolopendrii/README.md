@@ -1,17 +1,16 @@
-Milesia scolopendrii var. sublevis Faull VARIETY
-=======
+# Milesina scolopendrii (Faull) D.M. Hend., 1961 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Arnold Arbor. 2: 117 (1932)
+Notes R. bot. Gdn Edinb. 23: 504 (1961)
 
 #### Original name
-Milesia scolopendrii var. sublevis Faull
+Uredo scolopendrii (Fuckel) J. Schröt., 1887
 
 ### Remarks
 null

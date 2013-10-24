@@ -1,17 +1,16 @@
-Coryne atrovirens var. atrovirens (Pers.) Sacc. VARIETY
-=======
+# Coryne atrovirens (Pers.) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 8: 641 (1889)
 
 #### Original name
-Coryne atrovirens var. atrovirens (Pers.) Sacc.
+Leotia atrovirens Pers., 1822
 
 ### Remarks
 null

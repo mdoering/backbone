@@ -1,5 +1,4 @@
-Rhabdopsoromyces GENUS
-=======
+# Rhabdopsoromyces GENUS
 
 #### Status
 ACCEPTED

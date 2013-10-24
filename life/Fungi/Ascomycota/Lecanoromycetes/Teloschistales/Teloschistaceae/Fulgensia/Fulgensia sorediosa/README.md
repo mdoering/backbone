@@ -1,5 +1,4 @@
-Fulgensia sorediosa Klem. SPECIES
-=======
+# Fulgensia sorediosa Klem. SPECIES
 
 #### Status
 ACCEPTED

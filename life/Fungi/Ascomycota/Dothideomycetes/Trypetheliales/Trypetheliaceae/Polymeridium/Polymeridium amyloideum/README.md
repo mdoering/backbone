@@ -1,5 +1,4 @@
-Polymeridium amyloideum R.C. Harris SPECIES
-=======
+# Polymeridium amyloideum R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

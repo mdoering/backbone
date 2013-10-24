@@ -1,5 +1,4 @@
-Physcia tabacina Hue SPECIES
-=======
+# Physcia tabacina Hue SPECIES
 
 #### Status
 ACCEPTED

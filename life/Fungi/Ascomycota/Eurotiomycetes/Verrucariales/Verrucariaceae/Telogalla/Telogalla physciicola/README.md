@@ -1,5 +1,4 @@
-Telogalla physciicola Ihlen & R. Sant. SPECIES
-=======
+# Telogalla physciicola Ihlen & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida breve Berkhout SPECIES
-=======
+# Candida breve Berkhout SPECIES
 
 #### Status
 ACCEPTED

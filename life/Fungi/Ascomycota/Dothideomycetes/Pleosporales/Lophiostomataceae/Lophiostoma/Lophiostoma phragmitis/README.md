@@ -1,5 +1,4 @@
-Lophiostoma phragmitis Nitschke SPECIES
-=======
+# Lophiostoma phragmitis Nitschke SPECIES
 
 #### Status
 ACCEPTED

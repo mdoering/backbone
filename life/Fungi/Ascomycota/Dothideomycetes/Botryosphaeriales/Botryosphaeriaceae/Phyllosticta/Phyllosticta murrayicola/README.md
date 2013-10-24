@@ -1,5 +1,4 @@
-Phyllosticta murrayicola Aa SPECIES
-=======
+# Phyllosticta murrayicola Aa SPECIES
 
 #### Status
 ACCEPTED

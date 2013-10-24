@@ -1,5 +1,4 @@
-Puccinia medogensis J.Y. Zhuang SPECIES
-=======
+# Puccinia medogensis J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

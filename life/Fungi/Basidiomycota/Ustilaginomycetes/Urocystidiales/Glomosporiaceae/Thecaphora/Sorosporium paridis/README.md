@@ -1,5 +1,4 @@
-Sorosporium paridis G. Winter SPECIES
-=======
+# Sorosporium paridis G. Winter SPECIES
 
 #### Status
 ACCEPTED

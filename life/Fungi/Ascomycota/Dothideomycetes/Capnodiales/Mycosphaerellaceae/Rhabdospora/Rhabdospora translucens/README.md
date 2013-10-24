@@ -1,5 +1,4 @@
-Rhabdospora translucens Fairm. SPECIES
-=======
+# Rhabdospora translucens Fairm. SPECIES
 
 #### Status
 ACCEPTED

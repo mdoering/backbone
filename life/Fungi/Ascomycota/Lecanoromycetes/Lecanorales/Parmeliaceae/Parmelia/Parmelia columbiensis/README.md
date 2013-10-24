@@ -1,5 +1,4 @@
-Parmelia columbiensis Zahlbr. SPECIES
-=======
+# Parmelia columbiensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mattirolia rhodoleuca (Grove) SPECIES
-=======
+# Mattirolia rhodoleuca (Grove) SPECIES
 
 #### Status
 ACCEPTED

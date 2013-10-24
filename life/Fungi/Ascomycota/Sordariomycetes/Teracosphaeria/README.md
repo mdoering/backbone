@@ -1,5 +1,4 @@
-Teracosphaeria Réblová & Seifert GENUS
-=======
+# Teracosphaeria Réblová & Seifert GENUS
 
 #### Status
 ACCEPTED

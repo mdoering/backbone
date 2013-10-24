@@ -1,5 +1,4 @@
-Paullicorticium globosum Oberw. SPECIES
-=======
+# Paullicorticium globosum Oberw. SPECIES
 
 #### Status
 ACCEPTED

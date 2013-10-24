@@ -1,5 +1,4 @@
-Cycloclypeus W.B. Carpenter, 1856 GENUS
-=======
+# Cycloclypeus W.B. Carpenter, 1856 GENUS
 
 #### Status
 ACCEPTED

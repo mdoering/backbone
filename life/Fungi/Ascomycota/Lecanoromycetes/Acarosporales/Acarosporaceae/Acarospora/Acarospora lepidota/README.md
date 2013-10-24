@@ -1,5 +1,4 @@
-Acarospora lepidota Hue SPECIES
-=======
+# Acarospora lepidota Hue SPECIES
 
 #### Status
 ACCEPTED

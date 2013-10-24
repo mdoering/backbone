@@ -1,5 +1,4 @@
-Fomitopsis persoonii (Fr.) Imaz. SPECIES
-=======
+# Fomitopsis persoonii (Fr.) Imaz. SPECIES
 
 #### Status
 ACCEPTED

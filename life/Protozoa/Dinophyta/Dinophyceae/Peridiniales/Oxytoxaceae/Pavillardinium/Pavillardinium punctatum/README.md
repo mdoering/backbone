@@ -1,5 +1,4 @@
-Pavillardinium punctatum (Cleve) De Toni SPECIES
-=======
+# Pavillardinium punctatum (Cleve) De Toni SPECIES
 
 #### Status
 ACCEPTED

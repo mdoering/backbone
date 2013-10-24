@@ -1,5 +1,4 @@
-Macrocystis laevis C.H. Hay SPECIES
-=======
+# Macrocystis laevis C.H. Hay SPECIES
 
 #### Status
 ACCEPTED

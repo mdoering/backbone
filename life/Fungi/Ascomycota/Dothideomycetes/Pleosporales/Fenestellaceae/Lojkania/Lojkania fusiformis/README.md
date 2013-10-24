@@ -1,5 +1,4 @@
-Lojkania fusiformis Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Lojkania fusiformis Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

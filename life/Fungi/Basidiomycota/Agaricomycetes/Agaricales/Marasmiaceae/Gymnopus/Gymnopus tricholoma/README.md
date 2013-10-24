@@ -1,5 +1,4 @@
-Gymnopus tricholoma Murrill SPECIES
-=======
+# Gymnopus tricholoma Murrill SPECIES
 
 #### Status
 ACCEPTED

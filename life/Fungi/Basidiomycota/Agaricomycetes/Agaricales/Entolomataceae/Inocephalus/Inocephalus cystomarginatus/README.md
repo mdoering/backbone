@@ -1,5 +1,4 @@
-Inocephalus cystomarginatus (Largent) Largent SPECIES
-=======
+# Inocephalus cystomarginatus (Largent) Largent SPECIES
 
 #### Status
 ACCEPTED

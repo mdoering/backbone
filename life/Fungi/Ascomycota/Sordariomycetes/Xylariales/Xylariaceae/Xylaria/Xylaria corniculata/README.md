@@ -1,5 +1,4 @@
-Xylaria corniculata Sacc. SPECIES
-=======
+# Xylaria corniculata Sacc. SPECIES
 
 #### Status
 ACCEPTED

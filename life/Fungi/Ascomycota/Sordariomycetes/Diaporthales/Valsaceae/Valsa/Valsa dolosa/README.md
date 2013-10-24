@@ -1,5 +1,4 @@
-Valsa dolosa (Fr.) Nitschke SPECIES
-=======
+# Valsa dolosa (Fr.) Nitschke SPECIES
 
 #### Status
 ACCEPTED

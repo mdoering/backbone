@@ -1,5 +1,4 @@
-Meliola heyniae Hansf. & Thirum. SPECIES
-=======
+# Meliola heyniae Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

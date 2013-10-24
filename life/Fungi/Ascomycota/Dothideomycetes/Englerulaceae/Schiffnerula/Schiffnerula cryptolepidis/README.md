@@ -1,5 +1,4 @@
-Schiffnerula cryptolepidis (M.S. Patil & Thite) S. Hughes SPECIES
-=======
+# Schiffnerula cryptolepidis (M.S. Patil & Thite) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

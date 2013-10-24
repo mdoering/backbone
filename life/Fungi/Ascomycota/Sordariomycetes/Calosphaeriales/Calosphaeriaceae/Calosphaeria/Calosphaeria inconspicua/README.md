@@ -1,5 +1,4 @@
-Calosphaeria inconspicua Rehm SPECIES
-=======
+# Calosphaeria inconspicua Rehm SPECIES
 
 #### Status
 ACCEPTED

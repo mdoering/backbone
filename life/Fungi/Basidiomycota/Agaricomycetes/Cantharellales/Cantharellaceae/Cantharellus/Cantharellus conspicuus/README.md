@@ -1,5 +1,4 @@
-Cantharellus conspicuus Eyssart., Buyck & Verbeken, 2002 SPECIES
-=======
+# Cantharellus conspicuus Eyssart., Buyck & Verbeken, 2002 SPECIES
 
 #### Status
 ACCEPTED

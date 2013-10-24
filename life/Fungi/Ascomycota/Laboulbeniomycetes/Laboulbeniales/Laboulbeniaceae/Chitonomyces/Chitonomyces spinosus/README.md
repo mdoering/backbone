@@ -1,5 +1,4 @@
-Chitonomyces spinosus Thaxt. SPECIES
-=======
+# Chitonomyces spinosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

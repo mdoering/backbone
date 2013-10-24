@@ -1,5 +1,4 @@
-Prunulus subepipterygius Murrill SPECIES
-=======
+# Prunulus subepipterygius Murrill SPECIES
 
 #### Status
 ACCEPTED

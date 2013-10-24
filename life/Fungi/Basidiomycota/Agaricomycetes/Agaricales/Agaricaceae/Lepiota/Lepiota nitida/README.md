@@ -1,5 +1,4 @@
-Lepiota nitida Velen. SPECIES
-=======
+# Lepiota nitida Velen. SPECIES
 
 #### Status
 ACCEPTED

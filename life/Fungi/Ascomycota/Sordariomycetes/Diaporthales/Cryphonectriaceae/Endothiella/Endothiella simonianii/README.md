@@ -1,8 +1,7 @@
-Endothiella simoniani Negru & R. Sandor SPECIES
-=======
+# Endothiella simonianii Negru & R. Sandor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Endothiella simoniani Negru & R. Sandor
+Endothiella simonianii Negru & R. Sandor
 
 ### Remarks
 null

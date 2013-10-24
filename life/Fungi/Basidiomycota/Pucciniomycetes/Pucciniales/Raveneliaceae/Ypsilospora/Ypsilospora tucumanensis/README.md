@@ -1,17 +1,16 @@
-Ravenelia ingae (Henn.) Arthur, 1907 SPECIES
-=======
+# Ypsilospora tucumanensis J.R. Hern. & J.F. Hennen, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(2): 132 (1907)
+Mycologia 95(4): 751 (2003)
 
 #### Original name
-Uredo ingae Henn., 1899
+Ypsilospora tucumanensis J.R. Hern. & J.F. Hennen, 2003
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhizochloridaceae Pascher, 1925 FAMILY
-=======
+# Rhizochloridaceae Pascher, 1925 FAMILY
 
 #### Status
 ACCEPTED

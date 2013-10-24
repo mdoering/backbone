@@ -1,5 +1,4 @@
-Lopadium ferrugineum var. ferrugineum VARIETY
-=======
+# Lopadium ferrugineum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lopadium ferrugineum var. ferrugineum
+Lecidea ferruginea Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus caesariatus var. caesariatus VARIETY
-=======
+# Agaricus caesariatus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 176 (1838)
 
 #### Original name
-Agaricus caesariatus var. caesariatus
+Agaricus caesariatus Fr.
 
 ### Remarks
 null

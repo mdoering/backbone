@@ -1,5 +1,4 @@
-Parmeliella rederatula SPECIES
-=======
+# Parmeliella rederatula SPECIES
 
 #### Status
 ACCEPTED

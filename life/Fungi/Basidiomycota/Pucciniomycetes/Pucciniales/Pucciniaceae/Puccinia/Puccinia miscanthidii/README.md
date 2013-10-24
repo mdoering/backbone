@@ -1,5 +1,4 @@
-Puccinia miscanthidii Doidge SPECIES
-=======
+# Puccinia miscanthidii Doidge SPECIES
 
 #### Status
 ACCEPTED

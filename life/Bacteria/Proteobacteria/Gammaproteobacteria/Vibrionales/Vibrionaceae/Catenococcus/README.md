@@ -1,5 +1,4 @@
-Catenococcus Sorokin, 1994 GENUS
-=======
+# Catenococcus Sorokin, 1994 GENUS
 
 #### Status
 ACCEPTED

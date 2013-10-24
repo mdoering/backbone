@@ -1,14 +1,13 @@
-Phyllosticta visci Sacc., 1922 SPECIES
-=======
+# Plectophomella visci (Sacc.) Moesz, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magyar Bot. Lapok 21: 12 (1922)
 
 #### Original name
 Phyllosticta visci Sacc., 1922

@@ -1,5 +1,4 @@
-Uromyces ruiz-leali J.C. Lindq. SPECIES
-=======
+# Uromyces ruiz-leali J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

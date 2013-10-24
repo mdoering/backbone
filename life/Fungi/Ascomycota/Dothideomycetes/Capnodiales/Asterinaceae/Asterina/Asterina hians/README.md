@@ -1,5 +1,4 @@
-Asterina hians Syd. & P. Syd. SPECIES
-=======
+# Asterina hians Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

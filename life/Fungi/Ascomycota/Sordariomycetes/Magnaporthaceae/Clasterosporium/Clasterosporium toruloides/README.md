@@ -1,5 +1,4 @@
-Clasterosporium toruloides (Cooke) Sacc. SPECIES
-=======
+# Clasterosporium toruloides (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

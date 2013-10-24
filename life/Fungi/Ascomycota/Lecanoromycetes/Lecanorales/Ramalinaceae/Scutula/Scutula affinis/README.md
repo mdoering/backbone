@@ -1,5 +1,4 @@
-Scutula affinis (C. Massal.) Zopf SPECIES
-=======
+# Scutula affinis (C. Massal.) Zopf SPECIES
 
 #### Status
 ACCEPTED

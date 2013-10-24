@@ -1,5 +1,4 @@
-Rhabdospora drabae (Fuckel) Berl. & Voglino SPECIES
-=======
+# Rhabdospora drabae (Fuckel) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

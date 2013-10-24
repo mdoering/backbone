@@ -1,5 +1,4 @@
-Anguloplanina delineata Rudavskaya, 1973 SPECIES
-=======
+# Anguloplanina delineata Rudavskaya, 1973 SPECIES
 
 #### Status
 ACCEPTED

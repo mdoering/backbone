@@ -1,5 +1,4 @@
-Thelephora pulchra Schwein. SPECIES
-=======
+# Thelephora pulchra Schwein. SPECIES
 
 #### Status
 ACCEPTED

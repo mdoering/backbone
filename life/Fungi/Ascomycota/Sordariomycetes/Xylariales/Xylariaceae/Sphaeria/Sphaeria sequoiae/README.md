@@ -1,8 +1,7 @@
-Sphaeria sequojae Plowr. SPECIES
-=======
+# Sphaeria sequoiae Plowr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria sequojae Plowr.
+Sphaeria sequoiae Plowr.
 
 ### Remarks
 null

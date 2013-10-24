@@ -1,17 +1,16 @@
-Dicaeoma ribis (DC.) Gray, 1821 SPECIES
-=======
+# Puccinia ribis DC., 1805 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 221 (1805)
 
 #### Original name
-null
+Puccinia ribis DC., 1805
 
 ### Remarks
 null

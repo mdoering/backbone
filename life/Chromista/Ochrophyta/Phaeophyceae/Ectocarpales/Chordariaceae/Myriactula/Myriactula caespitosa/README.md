@@ -1,5 +1,4 @@
-Myriactula caespitosa Womersley & Skinner SPECIES
-=======
+# Myriactula caespitosa Womersley & Skinner SPECIES
 
 #### Status
 ACCEPTED

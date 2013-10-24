@@ -1,5 +1,4 @@
-Tuber pacificum Trappe, Castellano & Bushnell SPECIES
-=======
+# Tuber pacificum Trappe, Castellano & Bushnell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium trillii Burrill SPECIES
-=======
+# Aecidium trillii Burrill SPECIES
 
 #### Status
 ACCEPTED

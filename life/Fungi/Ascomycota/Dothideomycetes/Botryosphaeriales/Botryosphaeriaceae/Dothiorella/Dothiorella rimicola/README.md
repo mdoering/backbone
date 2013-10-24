@@ -1,14 +1,13 @@
-Phoma rimicola Sacc., 1881 SPECIES
-=======
+# Dothiorella rimicola (Sacc.) Petr. & Syd., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 380 (1881)
+Annls mycol. 22(3-6): 351 (1924)
 
 #### Original name
 Phoma rimicola Sacc., 1881

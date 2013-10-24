@@ -1,5 +1,4 @@
-Diplodia aegyptiaca Tassi SPECIES
-=======
+# Diplodia aegyptiaca Tassi SPECIES
 
 #### Status
 ACCEPTED

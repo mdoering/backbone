@@ -1,5 +1,4 @@
-Septoria betulina Pass. SPECIES
-=======
+# Septoria betulina Pass. SPECIES
 
 #### Status
 ACCEPTED

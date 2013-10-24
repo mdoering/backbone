@@ -1,5 +1,4 @@
-Archaeoacanthocircus angustiannulatus SPECIES
-=======
+# Archaeoacanthocircus angustiannulatus SPECIES
 
 #### Status
 ACCEPTED

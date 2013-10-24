@@ -1,5 +1,4 @@
-Ramularia euonymi Ellis & Kellerm. SPECIES
-=======
+# Ramularia euonymi Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

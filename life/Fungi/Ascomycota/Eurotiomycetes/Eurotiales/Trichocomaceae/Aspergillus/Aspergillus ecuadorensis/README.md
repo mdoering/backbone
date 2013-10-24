@@ -1,5 +1,4 @@
-Aspergillus ecuadorensis D. Mares SPECIES
-=======
+# Aspergillus ecuadorensis D. Mares SPECIES
 
 #### Status
 ACCEPTED

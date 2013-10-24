@@ -1,5 +1,4 @@
-Sphaceloma sesseae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma sesseae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

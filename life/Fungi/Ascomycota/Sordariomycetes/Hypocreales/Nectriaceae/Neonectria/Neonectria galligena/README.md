@@ -1,17 +1,16 @@
-Cylindrocarpon mali var. mali VARIETY
-=======
+# Neonectria galligena (Bres.) Rossman & Samuels, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 159 (1999)
 
 #### Original name
-Cylindrocarpon mali var. mali
+Nectria galligena Bres., 1901
 
 ### Remarks
 null

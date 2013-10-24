@@ -1,5 +1,4 @@
-Clepsydrina Agassiz, 1846 GENUS
-=======
+# Clepsydrina Agassiz, 1846 GENUS
 
 #### Status
 ACCEPTED

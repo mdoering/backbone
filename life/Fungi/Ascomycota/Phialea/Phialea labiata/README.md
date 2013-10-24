@@ -1,5 +1,4 @@
-Phialea labiata (Roberge ex Desm.) Dennis SPECIES
-=======
+# Phialea labiata (Roberge ex Desm.) Dennis SPECIES
 
 #### Status
 ACCEPTED

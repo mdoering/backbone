@@ -1,5 +1,4 @@
-Pestalotiopsis aletridis (Pat.) G.C. Zhao & N. Li SPECIES
-=======
+# Pestalotiopsis aletridis (Pat.) G.C. Zhao & N. Li SPECIES
 
 #### Status
 ACCEPTED

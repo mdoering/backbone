@@ -1,5 +1,4 @@
-Puccinia glabella Holw. SPECIES
-=======
+# Puccinia glabella Holw. SPECIES
 
 #### Status
 ACCEPTED

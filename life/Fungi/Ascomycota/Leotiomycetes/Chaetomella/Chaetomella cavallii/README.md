@@ -1,5 +1,4 @@
-Chaetomella cavallii Mattir. SPECIES
-=======
+# Chaetomella cavallii Mattir. SPECIES
 
 #### Status
 ACCEPTED

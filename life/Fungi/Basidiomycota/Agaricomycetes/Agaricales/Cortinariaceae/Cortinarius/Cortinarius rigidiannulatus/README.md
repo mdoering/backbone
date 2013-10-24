@@ -1,5 +1,4 @@
-Cortinarius rigidiannulatus A. de Haan, Lenaerts & Volders SPECIES
-=======
+# Cortinarius rigidiannulatus A. de Haan, Lenaerts & Volders SPECIES
 
 #### Status
 ACCEPTED

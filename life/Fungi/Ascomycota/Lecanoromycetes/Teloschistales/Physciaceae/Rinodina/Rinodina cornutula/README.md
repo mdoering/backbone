@@ -1,5 +1,4 @@
-Rinodina cornutula Zahlbr. SPECIES
-=======
+# Rinodina cornutula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

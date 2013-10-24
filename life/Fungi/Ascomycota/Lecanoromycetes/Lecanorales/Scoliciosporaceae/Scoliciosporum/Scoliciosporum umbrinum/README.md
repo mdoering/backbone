@@ -1,17 +1,16 @@
-Scoliciosporum compactum var. compactum VARIETY
-=======
+# Scoliciosporum umbrinum (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. lich. germ. (Breslau) 268 (1855)
+Flora, Jena 54: 50 (1871)
 
 #### Original name
-Scoliciosporum compactum var. compactum
+Lecidea umbrina Ach.
 
 ### Remarks
 null

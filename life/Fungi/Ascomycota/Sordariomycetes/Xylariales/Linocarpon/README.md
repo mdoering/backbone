@@ -1,5 +1,4 @@
-Linocarpon Syd. & P. Syd. GENUS
-=======
+# Linocarpon Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

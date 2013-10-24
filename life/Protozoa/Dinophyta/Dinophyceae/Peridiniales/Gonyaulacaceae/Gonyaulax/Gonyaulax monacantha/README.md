@@ -1,5 +1,4 @@
-Gonyaulax monacantha Pavillard SPECIES
-=======
+# Gonyaulax monacantha Pavillard SPECIES
 
 #### Status
 ACCEPTED

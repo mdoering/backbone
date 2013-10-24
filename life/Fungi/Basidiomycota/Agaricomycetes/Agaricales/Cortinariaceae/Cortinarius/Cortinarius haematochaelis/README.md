@@ -1,5 +1,4 @@
-Cortinarius haematochaelis (Bull. Fr.) Fr. SPECIES
-=======
+# Cortinarius haematochaelis (Bull. Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

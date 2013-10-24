@@ -1,5 +1,4 @@
-Antrodia mellita Niemelä & Pentillä, 1992 SPECIES
-=======
+# Antrodia mellita Niemelä & Pentillä, 1992 SPECIES
 
 #### Status
 ACCEPTED

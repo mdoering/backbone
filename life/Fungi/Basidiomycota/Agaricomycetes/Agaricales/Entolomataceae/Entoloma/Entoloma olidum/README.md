@@ -1,5 +1,4 @@
-Entoloma olidum Noordel. & T. Borgen SPECIES
-=======
+# Entoloma olidum Noordel. & T. Borgen SPECIES
 
 #### Status
 ACCEPTED

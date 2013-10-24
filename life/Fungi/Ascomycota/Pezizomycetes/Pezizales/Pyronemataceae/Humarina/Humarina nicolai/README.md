@@ -1,5 +1,4 @@
-Humarina nicolai (Maire) E.K. Cash SPECIES
-=======
+# Humarina nicolai (Maire) E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

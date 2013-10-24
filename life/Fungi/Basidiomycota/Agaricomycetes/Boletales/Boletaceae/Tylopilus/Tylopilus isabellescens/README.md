@@ -1,5 +1,4 @@
-Tylopilus isabellescens Murrill SPECIES
-=======
+# Tylopilus isabellescens Murrill SPECIES
 
 #### Status
 ACCEPTED

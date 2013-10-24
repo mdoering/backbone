@@ -1,8 +1,7 @@
-Amphiloma depauperatum Müll. Arg. SPECIES
-=======
+# Caloplaca depauperata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

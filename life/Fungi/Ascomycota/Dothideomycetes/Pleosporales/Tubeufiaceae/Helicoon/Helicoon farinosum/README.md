@@ -1,5 +1,4 @@
-Helicoon farinosum Linder, 1929 SPECIES
-=======
+# Helicoon farinosum Linder, 1929 SPECIES
 
 #### Status
 ACCEPTED

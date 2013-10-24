@@ -1,5 +1,4 @@
-Laestadia polygonati (Schwein.) Sacc. SPECIES
-=======
+# Laestadia polygonati (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

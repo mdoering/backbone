@@ -1,14 +1,13 @@
-Microglaena marginata Groenh. SPECIES
-=======
+# Thelenella marginata (Groenh.) H. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 26: 48 (1987)
 
 #### Original name
 Microglaena marginata Groenh.

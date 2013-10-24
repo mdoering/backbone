@@ -1,5 +1,4 @@
-Sphaeria tofieldiae Sowerby SPECIES
-=======
+# Sphaeria tofieldiae Sowerby SPECIES
 
 #### Status
 ACCEPTED

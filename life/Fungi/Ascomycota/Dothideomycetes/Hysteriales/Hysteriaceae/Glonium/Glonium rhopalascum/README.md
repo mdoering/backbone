@@ -1,5 +1,4 @@
-Glonium rhopalascum (Sacc.) Magnes SPECIES
-=======
+# Glonium rhopalascum (Sacc.) Magnes SPECIES
 
 #### Status
 ACCEPTED

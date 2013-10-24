@@ -1,5 +1,4 @@
-Stagonospora disseminata Racib. SPECIES
-=======
+# Stagonospora disseminata Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma obscuratum (Arthur & Holw.) Arthur SPECIES
-=======
+# Dicaeoma obscuratum (Arthur & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

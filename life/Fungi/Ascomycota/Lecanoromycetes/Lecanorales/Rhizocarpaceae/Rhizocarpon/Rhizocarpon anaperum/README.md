@@ -1,14 +1,13 @@
-Lecidea anapera Vain. SPECIES
-=======
+# Rhizocarpon anaperum (Vain.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 10: 141 (1883)
+Acta Soc. Fauna Flora fenn. 53(no. 1): 278 (1922)
 
 #### Original name
 Lecidea anapera Vain.

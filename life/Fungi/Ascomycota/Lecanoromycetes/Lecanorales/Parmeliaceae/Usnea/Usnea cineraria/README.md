@@ -1,5 +1,4 @@
-Usnea cineraria Motyka SPECIES
-=======
+# Usnea cineraria Motyka SPECIES
 
 #### Status
 ACCEPTED

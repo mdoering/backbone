@@ -1,5 +1,4 @@
-Amphileptus vorax Ehr. SPECIES
-=======
+# Amphileptus vorax Ehr. SPECIES
 
 #### Status
 ACCEPTED

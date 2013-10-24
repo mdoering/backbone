@@ -1,5 +1,4 @@
-Plagiothelium Stirt. GENUS
-=======
+# Plagiothelium Stirt. GENUS
 
 #### Status
 ACCEPTED

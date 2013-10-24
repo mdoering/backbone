@@ -1,5 +1,4 @@
-Mycosphaerella ellipsoidea Crous & M.J. Wingf., 1996 SPECIES
-=======
+# Mycosphaerella ellipsoidea Crous & M.J. Wingf., 1996 SPECIES
 
 #### Status
 ACCEPTED

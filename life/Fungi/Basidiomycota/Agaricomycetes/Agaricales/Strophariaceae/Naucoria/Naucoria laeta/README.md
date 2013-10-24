@@ -1,5 +1,4 @@
-Naucoria laeta Lambotte SPECIES
-=======
+# Naucoria laeta Lambotte SPECIES
 
 #### Status
 ACCEPTED

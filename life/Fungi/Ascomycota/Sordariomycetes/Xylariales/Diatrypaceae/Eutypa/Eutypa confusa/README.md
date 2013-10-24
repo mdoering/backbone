@@ -1,5 +1,4 @@
-Eutypa confusa (Schwein.) Cooke SPECIES
-=======
+# Eutypa confusa (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

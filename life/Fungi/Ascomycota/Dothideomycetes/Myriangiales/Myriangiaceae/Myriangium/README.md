@@ -1,17 +1,16 @@
-Phymatodiscus Speg. GENUS
-=======
+# Myriangium Mont. & Berk. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 23: 484 (1919)
+in Berkeley, London J. Bot. 4: 72 (1845)
 
 #### Original name
-Phymatodiscus Speg.
+Myriangium Mont. & Berk.
 
 ### Remarks
 null

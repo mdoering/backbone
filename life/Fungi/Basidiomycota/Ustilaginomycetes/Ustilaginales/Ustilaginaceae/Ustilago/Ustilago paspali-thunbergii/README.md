@@ -1,5 +1,4 @@
-Ustilago paspali-thunbergii Henn. SPECIES
-=======
+# Ustilago paspali-thunbergii Henn. SPECIES
 
 #### Status
 ACCEPTED

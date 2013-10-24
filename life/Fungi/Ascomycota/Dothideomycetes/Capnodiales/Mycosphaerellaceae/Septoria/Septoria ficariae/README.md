@@ -1,17 +1,16 @@
-Septoria ficariae var. ficariae Desm. VARIETY
-=======
+# Septoria ficariae Desm., 1841 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls Sci. Nat. , Bot. , sér. 2 15: 135 (1841)
 
 #### Original name
-Septoria ficariae var. ficariae Desm.
+Septoria ficariae Desm., 1841
 
 ### Remarks
 null

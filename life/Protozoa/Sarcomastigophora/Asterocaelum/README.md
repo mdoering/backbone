@@ -1,5 +1,4 @@
-Asterocaelum Canter, 1973 GENUS
-=======
+# Asterocaelum Canter, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella caryophylli (Pass.) Cruchet SPECIES
-=======
+# Mycosphaerella caryophylli (Pass.) Cruchet SPECIES
 
 #### Status
 ACCEPTED

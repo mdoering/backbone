@@ -1,5 +1,4 @@
-Micrhystridium longum M. Moczydowska SPECIES
-=======
+# Micrhystridium longum M. Moczydowska SPECIES
 
 #### Status
 ACCEPTED

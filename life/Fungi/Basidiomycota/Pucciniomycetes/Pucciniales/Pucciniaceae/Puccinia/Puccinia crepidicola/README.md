@@ -1,5 +1,4 @@
-Puccinia crepidicola Syd. & P. Syd., 1901 SPECIES
-=======
+# Puccinia crepidicola Syd. & P. Syd., 1901 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalotheca sulfurea Fuckel, 1871 SPECIES
-=======
+# Cephalotheca sulfurea Fuckel, 1871 SPECIES
 
 #### Status
 ACCEPTED

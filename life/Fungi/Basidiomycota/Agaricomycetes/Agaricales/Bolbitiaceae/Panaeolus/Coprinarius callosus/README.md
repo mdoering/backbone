@@ -1,5 +1,4 @@
-Coprinarius callosus (Fr.) P. Kumm. SPECIES
-=======
+# Coprinarius callosus (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

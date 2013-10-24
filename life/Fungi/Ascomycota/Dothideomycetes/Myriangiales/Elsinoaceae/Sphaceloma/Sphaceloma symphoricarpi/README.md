@@ -1,5 +1,4 @@
-Sphaceloma symphoricarpi Barrus & Horsfall, 1928 SPECIES
-=======
+# Sphaceloma symphoricarpi Barrus & Horsfall, 1928 SPECIES
 
 #### Status
 ACCEPTED

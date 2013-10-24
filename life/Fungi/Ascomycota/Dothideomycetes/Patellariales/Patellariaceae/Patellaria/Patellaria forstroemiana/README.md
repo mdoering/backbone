@@ -1,8 +1,7 @@
-Patellaria forströmiana (Ach.) Spreng. SPECIES
-=======
+# Patellaria forstroemiana (Ach.) Spreng. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

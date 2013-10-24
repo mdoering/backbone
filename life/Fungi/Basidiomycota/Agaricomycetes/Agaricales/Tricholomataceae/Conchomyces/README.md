@@ -1,5 +1,4 @@
-Conchomyces Overeem GENUS
-=======
+# Conchomyces Overeem GENUS
 
 #### Status
 ACCEPTED

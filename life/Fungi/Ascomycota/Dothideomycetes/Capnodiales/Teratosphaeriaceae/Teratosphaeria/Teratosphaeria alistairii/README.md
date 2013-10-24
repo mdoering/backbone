@@ -1,5 +1,4 @@
-Teratosphaeria alistairii (Crous) Crous & U. Braun, 2007 SPECIES
-=======
+# Teratosphaeria alistairii (Crous) Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septosporium curvatum Rabenh. & A. Braun SPECIES
-=======
+# Septosporium curvatum Rabenh. & A. Braun SPECIES
 
 #### Status
 ACCEPTED

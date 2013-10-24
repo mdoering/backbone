@@ -1,5 +1,4 @@
-Diversisporales C. Walker & A. Schüssler ORDER
-=======
+# Diversisporales C. Walker & A. Schüssler ORDER
 
 #### Status
 ACCEPTED

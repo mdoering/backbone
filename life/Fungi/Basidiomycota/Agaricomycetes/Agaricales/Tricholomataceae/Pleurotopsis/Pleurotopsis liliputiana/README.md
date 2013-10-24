@@ -1,5 +1,4 @@
-Pleurotopsis liliputiana (Mont.) Murrill SPECIES
-=======
+# Pleurotopsis liliputiana (Mont.) Murrill SPECIES
 
 #### Status
 ACCEPTED

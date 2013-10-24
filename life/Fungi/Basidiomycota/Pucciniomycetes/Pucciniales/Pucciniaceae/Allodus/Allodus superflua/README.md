@@ -1,5 +1,4 @@
-Allodus superflua (Holw.) Orton SPECIES
-=======
+# Allodus superflua (Holw.) Orton SPECIES
 
 #### Status
 ACCEPTED

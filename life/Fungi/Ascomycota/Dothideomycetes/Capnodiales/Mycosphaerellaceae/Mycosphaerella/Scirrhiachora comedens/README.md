@@ -1,5 +1,4 @@
-Scirrhiachora comedens (Schwein.) Theiss. & Syd. {?} SPECIES
-=======
+# Scirrhiachora comedens (Schwein.) Theiss. & Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

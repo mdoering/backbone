@@ -1,5 +1,4 @@
-Uredo mira Cummins SPECIES
-=======
+# Uredo mira Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinemasporium coffeanum Bat. & Peres SPECIES
-=======
+# Dinemasporium coffeanum Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

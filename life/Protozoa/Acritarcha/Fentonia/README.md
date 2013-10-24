@@ -1,5 +1,4 @@
-Fentonia Bailey & Hogg, 1995 GENUS
-=======
+# Fentonia Bailey & Hogg, 1995 GENUS
 
 #### Status
 ACCEPTED

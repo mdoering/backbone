@@ -1,5 +1,4 @@
-Phyllosticta tillandsiae Speg. SPECIES
-=======
+# Phyllosticta tillandsiae Speg. SPECIES
 
 #### Status
 ACCEPTED

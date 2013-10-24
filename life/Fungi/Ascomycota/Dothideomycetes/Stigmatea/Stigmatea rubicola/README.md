@@ -1,5 +1,4 @@
-Stigmatea rubicola (Ellis & Everh.) Theiss. SPECIES
-=======
+# Stigmatea rubicola (Ellis & Everh.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

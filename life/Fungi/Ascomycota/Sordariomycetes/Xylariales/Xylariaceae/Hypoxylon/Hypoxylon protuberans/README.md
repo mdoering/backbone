@@ -1,5 +1,4 @@
-Hypoxylon protuberans (P. Karst.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon protuberans (P. Karst.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

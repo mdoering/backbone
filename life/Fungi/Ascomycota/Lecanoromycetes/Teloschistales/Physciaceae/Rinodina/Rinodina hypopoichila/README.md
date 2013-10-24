@@ -1,5 +1,4 @@
-Rinodina hypopoichila Vain. SPECIES
-=======
+# Rinodina hypopoichila Vain. SPECIES
 
 #### Status
 ACCEPTED

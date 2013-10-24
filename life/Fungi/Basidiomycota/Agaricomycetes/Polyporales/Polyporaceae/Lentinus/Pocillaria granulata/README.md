@@ -1,5 +1,4 @@
-Pocillaria granulata (Berk. & Mont.) Kuntze SPECIES
-=======
+# Pocillaria granulata (Berk. & Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria arctalaskana Kobayasi {?} SPECIES
-=======
+# Leptosphaeria arctalaskana Kobayasi {?} SPECIES
 
 #### Status
 ACCEPTED

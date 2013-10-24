@@ -1,5 +1,4 @@
-Halosarpheia rhizophorae Borse SPECIES
-=======
+# Halosarpheia rhizophorae Borse SPECIES
 
 #### Status
 ACCEPTED

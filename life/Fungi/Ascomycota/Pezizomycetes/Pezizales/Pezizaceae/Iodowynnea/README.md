@@ -1,5 +1,4 @@
-Iodowynnea Medel, Guzmán & S. Chacón GENUS
-=======
+# Iodowynnea Medel, Guzmán & S. Chacón GENUS
 
 #### Status
 ACCEPTED

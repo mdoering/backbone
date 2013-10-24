@@ -1,5 +1,4 @@
-Pertusaria hirtella Kr.P. Singh & G.P. Sinha SPECIES
-=======
+# Pertusaria hirtella Kr.P. Singh & G.P. Sinha SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium symphoricarpi P. Karst. SPECIES
-=======
+# Camarosporium symphoricarpi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

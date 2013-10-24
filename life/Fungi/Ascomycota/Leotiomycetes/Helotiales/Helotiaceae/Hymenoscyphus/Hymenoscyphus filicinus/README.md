@@ -1,5 +1,4 @@
-Hymenoscyphus filicinus (K.S. Thind & H. Singh) K.S. Thind & M.P. Sharma SPECIES
-=======
+# Hymenoscyphus filicinus (K.S. Thind & H. Singh) K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

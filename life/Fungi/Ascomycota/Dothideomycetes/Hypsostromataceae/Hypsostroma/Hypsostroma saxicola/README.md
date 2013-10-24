@@ -1,5 +1,4 @@
-Hypsostroma saxicola Huhndorf, 1992 SPECIES
-=======
+# Hypsostroma saxicola Huhndorf, 1992 SPECIES
 
 #### Status
 ACCEPTED

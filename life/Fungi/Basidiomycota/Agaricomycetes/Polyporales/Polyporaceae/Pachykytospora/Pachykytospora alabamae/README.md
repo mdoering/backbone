@@ -1,14 +1,13 @@
-Poria alabamae (Berk. & Cooke) Cooke, 1886 SPECIES
-=======
+# Pachykytospora alabamae (Berk. & Cooke) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 72): 113 (1886)
+Norw. Jl Bot. 19: 233 (1972)
 
 #### Original name
 Polyporus alabamae Berk. & Cooke, 1878

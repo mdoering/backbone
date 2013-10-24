@@ -1,5 +1,4 @@
-Septoria cravensis Bernaux SPECIES
-=======
+# Septoria cravensis Bernaux SPECIES
 
 #### Status
 ACCEPTED

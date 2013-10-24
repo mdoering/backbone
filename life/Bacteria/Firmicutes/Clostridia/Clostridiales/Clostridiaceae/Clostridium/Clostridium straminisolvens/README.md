@@ -1,5 +1,4 @@
-Clostridium straminisolvens Kato et al., 2004 SPECIES
-=======
+# Clostridium straminisolvens Kato et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

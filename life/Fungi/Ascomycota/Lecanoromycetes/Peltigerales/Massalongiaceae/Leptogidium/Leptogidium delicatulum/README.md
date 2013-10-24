@@ -1,5 +1,4 @@
-Leptogidium delicatulum Vain. SPECIES
-=======
+# Leptogidium delicatulum Vain. SPECIES
 
 #### Status
 ACCEPTED

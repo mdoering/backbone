@@ -1,5 +1,4 @@
-Platygloea caroliniana Coker SPECIES
-=======
+# Platygloea caroliniana Coker SPECIES
 
 #### Status
 ACCEPTED

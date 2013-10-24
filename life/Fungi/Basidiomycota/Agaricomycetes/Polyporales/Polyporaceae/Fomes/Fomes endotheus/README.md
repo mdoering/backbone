@@ -1,5 +1,4 @@
-Fomes endotheus (Berk.) Cooke SPECIES
-=======
+# Fomes endotheus (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

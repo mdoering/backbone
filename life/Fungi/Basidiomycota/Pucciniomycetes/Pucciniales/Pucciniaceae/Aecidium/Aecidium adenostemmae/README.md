@@ -1,5 +1,4 @@
-Aecidium adenostemmae Henn. SPECIES
-=======
+# Aecidium adenostemmae Henn. SPECIES
 
 #### Status
 ACCEPTED

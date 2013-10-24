@@ -1,5 +1,4 @@
-Elachista Duby, 1830 GENUS
-=======
+# Elachista Duby, 1830 GENUS
 
 #### Status
 ACCEPTED

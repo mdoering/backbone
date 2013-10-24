@@ -1,5 +1,4 @@
-Lophodermium danthoniae Tehon, 1939 SPECIES
-=======
+# Lophodermium danthoniae Tehon, 1939 SPECIES
 
 #### Status
 ACCEPTED

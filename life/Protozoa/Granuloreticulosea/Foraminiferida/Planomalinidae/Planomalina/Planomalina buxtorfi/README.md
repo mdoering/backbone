@@ -1,5 +1,4 @@
-Planomalina buxtorfi SPECIES
-=======
+# Planomalina buxtorfi SPECIES
 
 #### Status
 ACCEPTED

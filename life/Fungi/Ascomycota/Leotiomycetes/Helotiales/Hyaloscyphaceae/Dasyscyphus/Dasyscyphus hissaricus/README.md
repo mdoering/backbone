@@ -1,5 +1,4 @@
-Dasyscyphus hissaricus Raitv. & Faizova SPECIES
-=======
+# Dasyscyphus hissaricus Raitv. & Faizova SPECIES
 
 #### Status
 ACCEPTED

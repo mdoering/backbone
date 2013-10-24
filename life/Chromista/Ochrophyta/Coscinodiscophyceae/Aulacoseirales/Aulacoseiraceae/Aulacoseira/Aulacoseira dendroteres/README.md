@@ -1,11 +1,10 @@
-Melosira roeseana f. spiralis FORM
-=======
+# Aulacoseira dendroteres (Ehrenberg) R.M. Crawford SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Ramularites oblongisporus (Casp.) Pia SPECIES
-=======
+# Ramularites oblongisporus (Casp.) Pia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus maydisiformis Bogart SPECIES
-=======
+# Coprinus maydisiformis Bogart SPECIES
 
 #### Status
 ACCEPTED

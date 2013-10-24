@@ -1,5 +1,4 @@
-Phyllosticta buxicola Keissl. SPECIES
-=======
+# Phyllosticta buxicola Keissl. SPECIES
 
 #### Status
 ACCEPTED

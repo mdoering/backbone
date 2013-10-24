@@ -1,5 +1,4 @@
-Aschersonia marginata Ellis & Everh. SPECIES
-=======
+# Aschersonia marginata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

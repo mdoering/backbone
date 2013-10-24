@@ -1,5 +1,4 @@
-Ophionectria tetraspora Miyabe & Sawada SPECIES
-=======
+# Ophionectria tetraspora Miyabe & Sawada SPECIES
 
 #### Status
 ACCEPTED

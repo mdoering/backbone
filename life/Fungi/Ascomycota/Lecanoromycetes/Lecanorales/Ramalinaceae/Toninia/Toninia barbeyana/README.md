@@ -1,5 +1,4 @@
-Toninia barbeyana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Toninia barbeyana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

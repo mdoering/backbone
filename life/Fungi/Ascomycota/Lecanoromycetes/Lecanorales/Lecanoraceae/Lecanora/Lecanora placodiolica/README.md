@@ -1,5 +1,4 @@
-Lecanora placodiolica Lumbsch & Elix SPECIES
-=======
+# Lecanora placodiolica Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

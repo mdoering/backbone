@@ -1,5 +1,4 @@
-Ammoflintina trihedra Earland, 1934 SPECIES
-=======
+# Ammoflintina trihedra Earland, 1934 SPECIES
 
 #### Status
 ACCEPTED

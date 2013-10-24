@@ -1,5 +1,4 @@
-Stigmina knoxdaviesii Crous & U. Braun SPECIES
-=======
+# Stigmina knoxdaviesii Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

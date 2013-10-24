@@ -1,5 +1,4 @@
-Pleospora hrubyana Petr. SPECIES
-=======
+# Pleospora hrubyana Petr. SPECIES
 
 #### Status
 ACCEPTED

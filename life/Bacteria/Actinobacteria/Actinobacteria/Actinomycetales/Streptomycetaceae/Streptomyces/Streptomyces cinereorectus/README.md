@@ -1,5 +1,4 @@
-Streptomyces cinereorectus Terekhova & Preobrazhenskaya, 1986 SPECIES
-=======
+# Streptomyces cinereorectus Terekhova & Preobrazhenskaya, 1986 SPECIES
 
 #### Status
 ACCEPTED

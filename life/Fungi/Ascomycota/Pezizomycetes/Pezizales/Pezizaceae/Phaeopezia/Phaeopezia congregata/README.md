@@ -1,5 +1,4 @@
-Phaeopezia congregata (Wakef.) Sacc. SPECIES
-=======
+# Phaeopezia congregata (Wakef.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

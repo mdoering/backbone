@@ -1,5 +1,4 @@
-Xanthochrous plorans Pat. SPECIES
-=======
+# Xanthochrous plorans Pat. SPECIES
 
 #### Status
 ACCEPTED

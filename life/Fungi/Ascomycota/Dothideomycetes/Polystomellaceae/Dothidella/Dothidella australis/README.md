@@ -1,14 +1,13 @@
-Phyllachora australis (Speg.) Cooke, 1885 SPECIES
-=======
+# Dothidella australis Speg., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 69 (1885)
+Anal. Soc. cient. argent. 10: 21 (1880)
 
 #### Original name
 Dothidella australis Speg., 1880

@@ -1,17 +1,16 @@
-Pyrenopolyporus Lloyd GENUS
-=======
+# Daldinia Ces. & De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5: 706 (1917)
+Comm. Soc. crittog. Ital. 1(4): 197 (1863)
 
 #### Original name
-Pyrenopolyporus Lloyd
+Daldinia Ces. & De Not.
 
 ### Remarks
 null

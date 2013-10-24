@@ -1,5 +1,4 @@
-Bulimina gutta Chapman, W D & Parr, W J SPECIES
-=======
+# Bulimina gutta Chapman, W D & Parr, W J SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum parasiticum Ditmar SPECIES
-=======
+# Stilbum parasiticum Ditmar SPECIES
 
 #### Status
 ACCEPTED

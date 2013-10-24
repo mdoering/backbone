@@ -1,14 +1,13 @@
-Leptotrema bahianum var. obturascens (Nyl.) Müll. Arg. VARIETY
-=======
+# Ocellularia obturascens (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Egan, Bryologist 90(2): 164 (1987)
 
 #### Original name
 Thelotrema bahianum var. obturascens Nyl.

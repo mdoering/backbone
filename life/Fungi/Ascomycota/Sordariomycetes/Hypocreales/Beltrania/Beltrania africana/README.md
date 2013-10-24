@@ -1,5 +1,4 @@
-Beltrania africana S. Hughes, 1951 SPECIES
-=======
+# Beltrania africana S. Hughes, 1951 SPECIES
 
 #### Status
 ACCEPTED

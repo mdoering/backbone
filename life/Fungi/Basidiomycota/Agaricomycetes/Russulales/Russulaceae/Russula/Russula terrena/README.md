@@ -1,5 +1,4 @@
-Russula terrena Buyck & Sharp SPECIES
-=======
+# Russula terrena Buyck & Sharp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phakopsora phyllanthi Dietel, 1910 SPECIES
-=======
+# Phakopsora phyllanthi Dietel, 1910 SPECIES
 
 #### Status
 ACCEPTED

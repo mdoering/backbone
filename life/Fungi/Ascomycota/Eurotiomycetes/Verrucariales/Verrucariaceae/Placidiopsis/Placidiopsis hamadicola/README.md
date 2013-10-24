@@ -1,5 +1,4 @@
-Placidiopsis hamadicola Bredkina SPECIES
-=======
+# Placidiopsis hamadicola Bredkina SPECIES
 
 #### Status
 ACCEPTED

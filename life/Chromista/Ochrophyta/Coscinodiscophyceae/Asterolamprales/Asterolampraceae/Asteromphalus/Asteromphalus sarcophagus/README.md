@@ -1,5 +1,4 @@
-Asteromphalus sarcophagus Wallich SPECIES
-=======
+# Asteromphalus sarcophagus Wallich SPECIES
 
 #### Status
 ACCEPTED

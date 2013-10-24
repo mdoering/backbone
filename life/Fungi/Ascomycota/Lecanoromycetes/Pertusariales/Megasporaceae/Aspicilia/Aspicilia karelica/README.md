@@ -1,5 +1,4 @@
-Aspicilia karelica (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia karelica (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecidea subfurva Nyl. SPECIES
-=======
+# Schaereria cinereorufa (Schaer.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 55: 360 (1872)
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 275 (1861)
 
 #### Original name
-Lecidea subfurva Nyl.
+Lecidea cinereorufa Schaer.
 
 ### Remarks
 null

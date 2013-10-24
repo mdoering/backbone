@@ -1,5 +1,4 @@
-Dendrophoma sarothamni Died. SPECIES
-=======
+# Dendrophoma sarothamni Died. SPECIES
 
 #### Status
 ACCEPTED

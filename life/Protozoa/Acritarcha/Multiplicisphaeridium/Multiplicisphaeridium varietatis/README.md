@@ -1,5 +1,4 @@
-Multiplicisphaeridium varietatis Moczydlowska, 1998 SPECIES
-=======
+# Multiplicisphaeridium varietatis Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

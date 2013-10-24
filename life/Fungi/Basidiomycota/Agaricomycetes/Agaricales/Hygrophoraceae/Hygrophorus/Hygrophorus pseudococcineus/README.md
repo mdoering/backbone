@@ -1,5 +1,4 @@
-Hygrophorus pseudococcineus Hongo, 1955 SPECIES
-=======
+# Hygrophorus pseudococcineus Hongo, 1955 SPECIES
 
 #### Status
 ACCEPTED

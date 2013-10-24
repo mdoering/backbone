@@ -1,5 +1,4 @@
-Pseudocercospora coffeigena Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora coffeigena Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

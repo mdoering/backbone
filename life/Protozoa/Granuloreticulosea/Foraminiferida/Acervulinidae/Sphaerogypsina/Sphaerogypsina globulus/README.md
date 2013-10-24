@@ -1,11 +1,10 @@
-Ceriopora globula Reuss, 1848 SPECIES
-=======
+# Sphaerogypsina globulus (Reuss, 1848) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

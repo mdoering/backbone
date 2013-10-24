@@ -1,5 +1,4 @@
-Meliola aristidae Bat. & J. Silva SPECIES
-=======
+# Meliola aristidae Bat. & J. Silva SPECIES
 
 #### Status
 ACCEPTED

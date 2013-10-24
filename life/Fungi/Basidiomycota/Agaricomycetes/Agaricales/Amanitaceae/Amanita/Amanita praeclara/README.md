@@ -1,5 +1,4 @@
-Amanita praeclara (A. Pearson) Bas SPECIES
-=======
+# Amanita praeclara (A. Pearson) Bas SPECIES
 
 #### Status
 ACCEPTED

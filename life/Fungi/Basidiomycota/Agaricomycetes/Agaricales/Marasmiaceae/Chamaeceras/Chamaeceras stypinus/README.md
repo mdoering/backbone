@@ -1,5 +1,4 @@
-Chamaeceras stypinus (Berk. & Broome) Kuntze SPECIES
-=======
+# Chamaeceras stypinus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

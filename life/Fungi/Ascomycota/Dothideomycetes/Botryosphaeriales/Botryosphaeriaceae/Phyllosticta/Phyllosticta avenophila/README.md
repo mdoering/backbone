@@ -1,5 +1,4 @@
-Phyllosticta avenophila Tehon & E.Y. Daniels SPECIES
-=======
+# Phyllosticta avenophila Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

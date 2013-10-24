@@ -1,5 +1,4 @@
-Helvella platycephala Benedix SPECIES
-=======
+# Helvella platycephala Benedix SPECIES
 
 #### Status
 ACCEPTED

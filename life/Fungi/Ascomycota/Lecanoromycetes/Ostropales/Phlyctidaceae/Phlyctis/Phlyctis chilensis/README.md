@@ -1,5 +1,4 @@
-Phlyctis chilensis D. J. Galloway & Guzmán SPECIES
-=======
+# Phlyctis chilensis D. J. Galloway & Guzmán SPECIES
 
 #### Status
 ACCEPTED

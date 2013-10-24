@@ -1,14 +1,13 @@
-Micromphale foetida (Sowerby) Singer SPECIES
-=======
+# Micromphale foetidum (Sowerby) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 305 (1951)
 
 #### Original name
 Merulius foetidus Sowerby, 1796

@@ -1,5 +1,4 @@
-Leucodiaporthe robiniae Lar.N. Vassiljeva, 2008 SPECIES
-=======
+# Leucodiaporthe robiniae Lar.N. Vassiljeva, 2008 SPECIES
 
 #### Status
 ACCEPTED

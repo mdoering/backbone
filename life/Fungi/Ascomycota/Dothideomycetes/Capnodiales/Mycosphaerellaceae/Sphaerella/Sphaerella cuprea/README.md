@@ -1,5 +1,4 @@
-Sphaerella cuprea Sacc. SPECIES
-=======
+# Sphaerella cuprea Sacc. SPECIES
 
 #### Status
 ACCEPTED

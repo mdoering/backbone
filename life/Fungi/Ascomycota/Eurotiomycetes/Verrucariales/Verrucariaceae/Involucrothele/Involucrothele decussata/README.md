@@ -1,5 +1,4 @@
-Involucrothele decussata (Kremp.) Servít SPECIES
-=======
+# Involucrothele decussata (Kremp.) Servít SPECIES
 
 #### Status
 ACCEPTED

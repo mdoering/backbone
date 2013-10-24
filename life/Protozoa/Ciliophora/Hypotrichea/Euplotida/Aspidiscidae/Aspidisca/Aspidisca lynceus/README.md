@@ -1,5 +1,4 @@
-Aspidisca lynceus (Müller, 1773) Ehrenberg, 1830 SPECIES
-=======
+# Aspidisca lynceus (Müller, 1773) Ehrenberg, 1830 SPECIES
 
 #### Status
 ACCEPTED

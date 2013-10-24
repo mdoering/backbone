@@ -1,5 +1,4 @@
-Dictyonema schenckianum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Dictyonema schenckianum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

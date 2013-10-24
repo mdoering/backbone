@@ -1,14 +1,13 @@
-Dicaeoma pusillum (Syd. & P. Syd.) Syd., 1922 SPECIES
-=======
+# Puccinia pusilla Syd. & P. Syd., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 118 (1922)
+Annls mycol. 4(5): 435 (1906)
 
 #### Original name
 Puccinia pusilla Syd. & P. Syd., 1906

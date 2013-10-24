@@ -1,5 +1,4 @@
-Entoloma davisii (Peck) Murrill SPECIES
-=======
+# Entoloma davisii (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

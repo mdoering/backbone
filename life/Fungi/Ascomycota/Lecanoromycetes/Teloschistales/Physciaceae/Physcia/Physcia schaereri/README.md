@@ -1,5 +1,4 @@
-Physcia schaereri SPECIES
-=======
+# Physcia schaereri SPECIES
 
 #### Status
 ACCEPTED

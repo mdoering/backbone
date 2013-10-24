@@ -1,5 +1,4 @@
-Hendersonia ilicis Dzhalag. SPECIES
-=======
+# Hendersonia ilicis Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

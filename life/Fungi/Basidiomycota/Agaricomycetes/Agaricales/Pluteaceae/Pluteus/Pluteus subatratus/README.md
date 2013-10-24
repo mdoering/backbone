@@ -1,5 +1,4 @@
-Pluteus subatratus J. Favre SPECIES
-=======
+# Pluteus subatratus J. Favre SPECIES
 
 #### Status
 ACCEPTED

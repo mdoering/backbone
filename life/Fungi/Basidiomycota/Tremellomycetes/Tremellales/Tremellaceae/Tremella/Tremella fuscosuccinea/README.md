@@ -1,5 +1,4 @@
-Tremella fuscosuccinea Chee J. Chen SPECIES
-=======
+# Tremella fuscosuccinea Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

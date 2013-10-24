@@ -1,5 +1,4 @@
-Microbacterium aoyamense Kageyama et al., 2006 SPECIES
-=======
+# Microbacterium aoyamense Kageyama et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

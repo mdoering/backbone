@@ -1,5 +1,4 @@
-Mycosphaerella daviesiae Petr. SPECIES
-=======
+# Mycosphaerella daviesiae Petr. SPECIES
 
 #### Status
 ACCEPTED

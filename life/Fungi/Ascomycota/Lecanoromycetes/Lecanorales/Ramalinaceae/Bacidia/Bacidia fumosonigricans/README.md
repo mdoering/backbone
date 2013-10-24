@@ -1,5 +1,4 @@
-Bacidia fumosonigricans (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia fumosonigricans (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

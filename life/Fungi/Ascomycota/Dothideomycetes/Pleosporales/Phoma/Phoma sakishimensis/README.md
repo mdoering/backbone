@@ -1,5 +1,4 @@
-Phoma sakishimensis Tak. Kobay. & Y. Kawabe SPECIES
-=======
+# Phoma sakishimensis Tak. Kobay. & Y. Kawabe SPECIES
 
 #### Status
 ACCEPTED

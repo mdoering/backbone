@@ -1,5 +1,4 @@
-Melanopsamma interlamellaris Racov. SPECIES
-=======
+# Melanopsamma interlamellaris Racov. SPECIES
 
 #### Status
 ACCEPTED

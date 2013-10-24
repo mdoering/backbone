@@ -1,5 +1,4 @@
-Tuburcinia luzulae var. luzulae VARIETY
-=======
+# Tuburcinia luzulae (J. Schröt.) Liro SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): (1922)
 
 #### Original name
-Tuburcinia luzulae var. luzulae
+Urocystis luzulae J. Schröt.
 
 ### Remarks
 null

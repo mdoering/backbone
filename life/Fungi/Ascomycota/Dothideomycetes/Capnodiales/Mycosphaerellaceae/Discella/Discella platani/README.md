@@ -1,5 +1,4 @@
-Discella platani Oudem., 1877 SPECIES
-=======
+# Discella platani Oudem., 1877 SPECIES
 
 #### Status
 ACCEPTED

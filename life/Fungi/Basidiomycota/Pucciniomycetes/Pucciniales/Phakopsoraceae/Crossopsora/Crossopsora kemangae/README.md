@@ -1,5 +1,4 @@
-Crossopsora kemangae (Racib.) Syd. & P. Syd. SPECIES
-=======
+# Crossopsora kemangae (Racib.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

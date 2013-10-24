@@ -1,5 +1,4 @@
-Puccinia rostkowiae Speg. SPECIES
-=======
+# Puccinia rostkowiae Speg. SPECIES
 
 #### Status
 ACCEPTED

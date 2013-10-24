@@ -1,5 +1,4 @@
-Paravorticella Kahl, 1933 GENUS
-=======
+# Paravorticella Kahl, 1933 GENUS
 
 #### Status
 ACCEPTED

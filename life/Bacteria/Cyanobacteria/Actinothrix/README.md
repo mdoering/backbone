@@ -1,5 +1,4 @@
-Actinothrix J.E.Gray GENUS
-=======
+# Actinothrix J.E.Gray GENUS
 
 #### Status
 ACCEPTED

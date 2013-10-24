@@ -1,5 +1,4 @@
-Glyphidium GENUS
-=======
+# Glyphidium GENUS
 
 #### Status
 ACCEPTED

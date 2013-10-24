@@ -1,5 +1,4 @@
-Arthopyrenia elachistotera (Nyl.) Riedl SPECIES
-=======
+# Arthopyrenia elachistotera (Nyl.) Riedl SPECIES
 
 #### Status
 ACCEPTED

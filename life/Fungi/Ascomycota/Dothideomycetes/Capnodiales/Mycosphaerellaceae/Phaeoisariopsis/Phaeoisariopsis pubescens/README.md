@@ -1,5 +1,4 @@
-Phaeoisariopsis pubescens (Cooke & Ellis) M.B. Ellis SPECIES
-=======
+# Phaeoisariopsis pubescens (Cooke & Ellis) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora suffusa Fr. SPECIES
-=======
+# Biatora suffusa Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entosordaria dryina (Mouton) Höhn. SPECIES
-=======
+# Entosordaria dryina (Mouton) Höhn. SPECIES
 
 #### Status
 ACCEPTED

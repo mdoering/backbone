@@ -1,5 +1,4 @@
-Australiaena streimannii Matzer, H. Mayrhofer & Elix SPECIES
-=======
+# Australiaena streimannii Matzer, H. Mayrhofer & Elix SPECIES
 
 #### Status
 ACCEPTED

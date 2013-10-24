@@ -1,5 +1,4 @@
-Penicillium barcinense Yaguchi & Udagawa SPECIES
-=======
+# Penicillium barcinense Yaguchi & Udagawa SPECIES
 
 #### Status
 ACCEPTED

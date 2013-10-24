@@ -1,5 +1,4 @@
-Graphis triticeella Vain. SPECIES
-=======
+# Graphis triticeella Vain. SPECIES
 
 #### Status
 ACCEPTED

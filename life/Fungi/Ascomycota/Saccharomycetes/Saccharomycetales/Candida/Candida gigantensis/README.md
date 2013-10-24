@@ -1,5 +1,4 @@
-Candida gigantensis S.O. Suh, N.H. Nguyen & M. Blackw., 2008 SPECIES
-=======
+# Candida gigantensis S.O. Suh, N.H. Nguyen & M. Blackw., 2008 SPECIES
 
 #### Status
 ACCEPTED

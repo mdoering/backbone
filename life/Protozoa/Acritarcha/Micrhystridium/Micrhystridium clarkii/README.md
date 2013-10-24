@@ -1,5 +1,4 @@
-Micrhystridium clarkii Cramer & Díez, 1972 SPECIES
-=======
+# Micrhystridium clarkii Cramer & Díez, 1972 SPECIES
 
 #### Status
 ACCEPTED

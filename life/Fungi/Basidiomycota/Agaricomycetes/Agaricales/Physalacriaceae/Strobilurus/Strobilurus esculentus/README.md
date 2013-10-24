@@ -1,17 +1,16 @@
-Agaricus esculentus var. esculentus VARIETY
-=======
+# Strobilurus esculentus (Wulfen) Singer, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 2(3): 414 (1962)
 
 #### Original name
-null
+Agaricus esculentus Wulfen, 1781
 
 ### Remarks
 null

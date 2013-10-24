@@ -1,5 +1,4 @@
-Chaetopsis probosciophora DiCosmo, S.M. Berch & W.B. Kendr., 1983 SPECIES
-=======
+# Chaetopsis probosciophora DiCosmo, S.M. Berch & W.B. Kendr., 1983 SPECIES
 
 #### Status
 ACCEPTED

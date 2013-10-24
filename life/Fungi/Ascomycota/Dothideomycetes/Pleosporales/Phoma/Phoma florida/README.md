@@ -1,5 +1,4 @@
-Phoma florida Dearn. & House SPECIES
-=======
+# Phoma florida Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

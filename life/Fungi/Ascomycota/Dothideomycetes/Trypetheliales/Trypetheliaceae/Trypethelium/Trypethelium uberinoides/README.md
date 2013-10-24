@@ -1,5 +1,4 @@
-Trypethelium uberinoides Nyl. SPECIES
-=======
+# Trypethelium uberinoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

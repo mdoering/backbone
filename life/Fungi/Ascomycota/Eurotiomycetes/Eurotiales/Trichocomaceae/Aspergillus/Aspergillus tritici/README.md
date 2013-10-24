@@ -1,17 +1,16 @@
-Aspergillus triticus B.S. Mehrotra & M. Basu SPECIES
-=======
+# Aspergillus tritici B.S. Mehrotra & M. Basu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 27(3-4): 599 (1976)
 
 #### Original name
-Aspergillus triticus B.S. Mehrotra & M. Basu
+Aspergillus tritici B.S. Mehrotra & M. Basu
 
 ### Remarks
 null

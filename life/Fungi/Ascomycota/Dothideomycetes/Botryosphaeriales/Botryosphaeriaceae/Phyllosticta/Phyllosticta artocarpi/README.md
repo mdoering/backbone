@@ -1,5 +1,4 @@
-Phyllosticta artocarpi Speg. SPECIES
-=======
+# Phyllosticta artocarpi Speg. SPECIES
 
 #### Status
 ACCEPTED

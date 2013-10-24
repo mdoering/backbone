@@ -1,14 +1,13 @@
-Graphina atronitens A.W. Archer SPECIES
-=======
+# Thalloloma atronitens (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 77: 162 (2001)
+Telopea 11(1): 77 (2005)
 
 #### Original name
 Graphina atronitens A.W. Archer

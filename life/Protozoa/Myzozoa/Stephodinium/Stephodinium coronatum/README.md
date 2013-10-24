@@ -1,5 +1,4 @@
-Stephodinium coronatum Deflandre, 1936 SPECIES
-=======
+# Stephodinium coronatum Deflandre, 1936 SPECIES
 
 #### Status
 ACCEPTED

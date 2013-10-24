@@ -1,5 +1,4 @@
-Asteroma capreae Desm. SPECIES
-=======
+# Asteroma capreae Desm. SPECIES
 
 #### Status
 ACCEPTED

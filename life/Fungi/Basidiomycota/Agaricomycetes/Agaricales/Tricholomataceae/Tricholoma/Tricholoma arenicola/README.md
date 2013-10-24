@@ -1,5 +1,4 @@
-Tricholoma arenicola Murrill SPECIES
-=======
+# Tricholoma arenicola Murrill SPECIES
 
 #### Status
 ACCEPTED

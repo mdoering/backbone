@@ -1,5 +1,4 @@
-Semilecanora bachmannii (Zahlbr.) Motyka SPECIES
-=======
+# Semilecanora bachmannii (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria cubana Müll. Arg. SPECIES
-=======
+# Pertusaria cubana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

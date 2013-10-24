@@ -1,5 +1,4 @@
-Florisphaeridium abruptum Uutela & Tynni, 1991 SPECIES
-=======
+# Florisphaeridium abruptum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium reflexum S.N. Dasgupta & R. John SPECIES
-=======
+# Rhizophydium reflexum S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

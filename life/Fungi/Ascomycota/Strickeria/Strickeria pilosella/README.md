@@ -1,5 +1,4 @@
-Strickeria pilosella (Sacc. & Roum.) G. Winter SPECIES
-=======
+# Strickeria pilosella (Sacc. & Roum.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus albirubens Corner SPECIES
-=======
+# Boletus albirubens Corner SPECIES
 
 #### Status
 ACCEPTED

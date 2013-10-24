@@ -1,5 +1,4 @@
-Lecidea taytayensis Vain. SPECIES
-=======
+# Lecidea taytayensis Vain. SPECIES
 
 #### Status
 ACCEPTED

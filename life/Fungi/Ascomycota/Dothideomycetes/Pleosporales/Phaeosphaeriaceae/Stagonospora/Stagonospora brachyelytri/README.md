@@ -1,5 +1,4 @@
-Stagonospora brachyelytri H.C. Greene SPECIES
-=======
+# Stagonospora brachyelytri H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrodochium sublunatum Matsush. SPECIES
-=======
+# Dendrodochium sublunatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina platyspora (Müll. Arg.) F. Schill. SPECIES
-=======
+# Porina platyspora (Müll. Arg.) F. Schill. SPECIES
 
 #### Status
 ACCEPTED

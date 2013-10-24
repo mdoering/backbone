@@ -1,5 +1,4 @@
-Pseudocercospora assamensis Arzanlou & Crous SPECIES
-=======
+# Pseudocercospora assamensis Arzanlou & Crous SPECIES
 
 #### Status
 ACCEPTED

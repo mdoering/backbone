@@ -1,5 +1,4 @@
-Uredo scabies Cooke SPECIES
-=======
+# Uredo scabies Cooke SPECIES
 
 #### Status
 ACCEPTED

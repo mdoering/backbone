@@ -1,5 +1,4 @@
-Rhytidospora Jeng & Cain GENUS
-=======
+# Rhytidospora Jeng & Cain GENUS
 
 #### Status
 ACCEPTED

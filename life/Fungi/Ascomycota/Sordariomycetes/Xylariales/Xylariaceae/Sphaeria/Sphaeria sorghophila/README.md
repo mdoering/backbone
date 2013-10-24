@@ -1,5 +1,4 @@
-Sphaeria sorghophila Peck SPECIES
-=======
+# Sphaeria sorghophila Peck SPECIES
 
 #### Status
 ACCEPTED

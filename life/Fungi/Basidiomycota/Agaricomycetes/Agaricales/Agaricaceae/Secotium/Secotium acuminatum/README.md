@@ -1,5 +1,4 @@
-Secotium acuminatum Mont. SPECIES
-=======
+# Secotium acuminatum Mont. SPECIES
 
 #### Status
 ACCEPTED

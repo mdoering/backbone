@@ -1,5 +1,4 @@
-Cintractia machili Hino {?} & Nagaoka {?} SPECIES
-=======
+# Cintractia machili Hino {?} & Nagaoka {?} SPECIES
 
 #### Status
 ACCEPTED

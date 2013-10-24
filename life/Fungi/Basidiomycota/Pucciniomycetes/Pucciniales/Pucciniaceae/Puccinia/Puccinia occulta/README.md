@@ -1,5 +1,4 @@
-Puccinia occulta Barclay SPECIES
-=======
+# Puccinia occulta Barclay SPECIES
 
 #### Status
 ACCEPTED

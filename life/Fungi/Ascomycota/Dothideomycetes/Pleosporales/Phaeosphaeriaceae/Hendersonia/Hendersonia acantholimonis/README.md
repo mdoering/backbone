@@ -1,5 +1,4 @@
-Hendersonia acantholimonis Petr. SPECIES
-=======
+# Hendersonia acantholimonis Petr. SPECIES
 
 #### Status
 ACCEPTED

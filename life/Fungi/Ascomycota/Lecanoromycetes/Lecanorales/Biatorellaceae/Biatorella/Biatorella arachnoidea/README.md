@@ -1,5 +1,4 @@
-Biatorella arachnoidea C.W. Dodge & G.E. Baker SPECIES
-=======
+# Biatorella arachnoidea C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia stenospora Berk. & M.A. Curtis SPECIES
-=======
+# Diplodia stenospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

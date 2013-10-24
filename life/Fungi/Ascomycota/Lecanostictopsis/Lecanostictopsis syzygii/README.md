@@ -1,17 +1,16 @@
-Scolicosporium syzigii Ciccar. SPECIES
-=======
+# Lecanostictopsis syzygii (Ciccar.) B. Sutton & Crous, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 101(2): 218 (1997)
 
 #### Original name
-Scolicosporium syzigii Ciccar.
+Scolicosporium syzygii Ciccar., 1951
 
 ### Remarks
 null

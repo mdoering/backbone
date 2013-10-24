@@ -1,5 +1,4 @@
-Gloeocystidium mixtum Bourdot & Galzin SPECIES
-=======
+# Gloeocystidium mixtum Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

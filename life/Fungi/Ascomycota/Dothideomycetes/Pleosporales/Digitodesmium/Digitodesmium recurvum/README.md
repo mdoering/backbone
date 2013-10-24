@@ -1,5 +1,4 @@
-Digitodesmium recurvum W.H. Ho, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Digitodesmium recurvum W.H. Ho, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

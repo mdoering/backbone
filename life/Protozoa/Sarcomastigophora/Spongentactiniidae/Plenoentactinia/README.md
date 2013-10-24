@@ -1,5 +1,4 @@
-Plenoentactinia Won, 1997 GENUS
-=======
+# Plenoentactinia Won, 1997 GENUS
 
 #### Status
 ACCEPTED

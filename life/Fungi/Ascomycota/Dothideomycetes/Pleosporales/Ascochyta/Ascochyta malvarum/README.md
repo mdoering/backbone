@@ -1,5 +1,4 @@
-Ascochyta malvarum Mig. SPECIES
-=======
+# Ascochyta malvarum Mig. SPECIES
 
 #### Status
 ACCEPTED

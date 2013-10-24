@@ -1,5 +1,4 @@
-Myxofusicoccum deplanatum (Speg. & Roum.) Died. SPECIES
-=======
+# Myxofusicoccum deplanatum (Speg. & Roum.) Died. SPECIES
 
 #### Status
 ACCEPTED

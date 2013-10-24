@@ -1,5 +1,4 @@
-Massartia GENUS
-=======
+# Massartia GENUS
 
 #### Status
 ACCEPTED

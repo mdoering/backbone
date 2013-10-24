@@ -1,8 +1,7 @@
-Bolivinella folium var. ornata Cushman, 1929 VARIETY
-=======
+# Bolivinella folium (Parker & Jones, 1865) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Grandinia lividocarnea Rick SPECIES
-=======
+# Grandinia lividocarnea Rick SPECIES
 
 #### Status
 ACCEPTED

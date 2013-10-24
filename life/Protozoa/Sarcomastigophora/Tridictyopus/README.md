@@ -1,5 +1,4 @@
-Tridictyopus Haeckel, 1881 GENUS
-=======
+# Tridictyopus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

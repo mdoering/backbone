@@ -1,5 +1,4 @@
-Alaria cordata Tilden SPECIES
-=======
+# Alaria cordata Tilden SPECIES
 
 #### Status
 ACCEPTED

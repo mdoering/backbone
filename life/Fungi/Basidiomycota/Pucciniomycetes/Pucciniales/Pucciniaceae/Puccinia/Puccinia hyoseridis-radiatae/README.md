@@ -1,5 +1,4 @@
-Puccinia hyoseridis-radiatae Maire SPECIES
-=======
+# Puccinia hyoseridis-radiatae Maire SPECIES
 
 #### Status
 ACCEPTED

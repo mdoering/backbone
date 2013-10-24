@@ -1,5 +1,4 @@
-Caloplaca aurantiella (Nyl.) Moreau {?} SPECIES
-=======
+# Caloplaca aurantiella (Nyl.) Moreau {?} SPECIES
 
 #### Status
 ACCEPTED

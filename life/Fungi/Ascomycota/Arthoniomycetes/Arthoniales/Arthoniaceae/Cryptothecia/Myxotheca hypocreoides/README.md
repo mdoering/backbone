@@ -1,5 +1,4 @@
-Myxotheca hypocreoides Ferd. & Winge SPECIES
-=======
+# Myxotheca hypocreoides Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalopus macrocephalus Sorokin SPECIES
-=======
+# Hyalopus macrocephalus Sorokin SPECIES
 
 #### Status
 ACCEPTED

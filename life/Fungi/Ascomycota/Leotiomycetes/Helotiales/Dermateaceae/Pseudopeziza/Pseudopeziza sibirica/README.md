@@ -1,5 +1,4 @@
-Pseudopeziza sibirica Sacc. SPECIES
-=======
+# Pseudopeziza sibirica Sacc. SPECIES
 
 #### Status
 ACCEPTED

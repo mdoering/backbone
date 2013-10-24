@@ -1,5 +1,4 @@
-Tolypothrix helicophila Lemmermann SPECIES
-=======
+# Tolypothrix helicophila Lemmermann SPECIES
 
 #### Status
 ACCEPTED

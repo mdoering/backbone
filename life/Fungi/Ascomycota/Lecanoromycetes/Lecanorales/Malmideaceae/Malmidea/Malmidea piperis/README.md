@@ -1,17 +1,16 @@
-Lecidea piperis var. piperis VARIETY
-=======
+# Malmidea piperis (Spreng.) Kalb, Rivas Plata & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 52: 121 (1869)
+null
 
 #### Original name
-Lecidea piperis var. piperis
+null
 
 ### Remarks
 null

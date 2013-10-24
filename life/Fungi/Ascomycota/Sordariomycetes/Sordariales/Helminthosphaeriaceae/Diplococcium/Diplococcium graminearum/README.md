@@ -1,5 +1,4 @@
-Diplococcium graminearum R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Diplococcium graminearum R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

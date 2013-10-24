@@ -1,5 +1,4 @@
-Aecidium dichrocephalae Henn. SPECIES
-=======
+# Aecidium dichrocephalae Henn. SPECIES
 
 #### Status
 ACCEPTED

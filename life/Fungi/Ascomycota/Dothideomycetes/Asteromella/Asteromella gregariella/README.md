@@ -1,5 +1,4 @@
-Asteromella gregariella Petr. SPECIES
-=======
+# Asteromella gregariella Petr. SPECIES
 
 #### Status
 ACCEPTED

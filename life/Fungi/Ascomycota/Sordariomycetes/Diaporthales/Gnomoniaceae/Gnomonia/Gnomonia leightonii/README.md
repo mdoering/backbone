@@ -1,5 +1,4 @@
-Gnomonia leightonii (Berk. & Broome) Aptroot, 2006 SPECIES
-=======
+# Gnomonia leightonii (Berk. & Broome) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

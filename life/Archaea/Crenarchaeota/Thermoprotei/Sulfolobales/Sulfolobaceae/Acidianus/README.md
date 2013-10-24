@@ -1,5 +1,4 @@
-Acidianus Segerer et al., 1986 GENUS
-=======
+# Acidianus Segerer et al., 1986 GENUS
 
 #### Status
 ACCEPTED

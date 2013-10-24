@@ -1,17 +1,16 @@
-Psecadia E.M. Fries, 1849 GENUS
-=======
+# Valsa E.M. Fries, 1825 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 414 (1849)
+Summa veg. Scand. (Stockholm), Section Post. 410 (1849)
 
 #### Original name
-Psecadia E.M. Fries, 1849
+Valsa E.M. Fries, 1825
 
 ### Remarks
 null

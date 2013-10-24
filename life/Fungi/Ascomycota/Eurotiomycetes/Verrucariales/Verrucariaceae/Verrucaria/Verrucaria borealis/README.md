@@ -1,5 +1,4 @@
-Verrucaria borealis Servít SPECIES
-=======
+# Verrucaria borealis Servít SPECIES
 
 #### Status
 ACCEPTED

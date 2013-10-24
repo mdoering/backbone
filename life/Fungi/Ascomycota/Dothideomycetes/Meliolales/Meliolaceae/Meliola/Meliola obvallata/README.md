@@ -1,5 +1,4 @@
-Meliola obvallata Syd. SPECIES
-=======
+# Meliola obvallata Syd. SPECIES
 
 #### Status
 ACCEPTED

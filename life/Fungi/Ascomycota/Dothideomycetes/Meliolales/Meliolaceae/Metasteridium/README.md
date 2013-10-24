@@ -1,5 +1,4 @@
-Metasteridium Speg. GENUS
-=======
+# Metasteridium Speg. GENUS
 
 #### Status
 ACCEPTED

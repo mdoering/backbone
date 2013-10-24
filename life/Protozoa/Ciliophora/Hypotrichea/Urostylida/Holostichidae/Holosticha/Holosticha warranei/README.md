@@ -1,5 +1,4 @@
-Holosticha warranei Song & Wilbert, 1997 SPECIES
-=======
+# Holosticha warranei Song & Wilbert, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema macgregorii Vain. SPECIES
-=======
+# Collema macgregorii Vain. SPECIES
 
 #### Status
 ACCEPTED

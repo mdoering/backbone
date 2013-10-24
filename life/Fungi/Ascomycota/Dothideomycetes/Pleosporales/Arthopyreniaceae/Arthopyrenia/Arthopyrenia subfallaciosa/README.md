@@ -1,5 +1,4 @@
-Arthopyrenia subfallaciosa M. Choisy SPECIES
-=======
+# Arthopyrenia subfallaciosa M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium subfoveolatum Vezda SPECIES
-=======
+# Leptogium subfoveolatum Vezda SPECIES
 
 #### Status
 ACCEPTED

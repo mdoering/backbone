@@ -1,5 +1,4 @@
-Stereum orthosporum E.H.L. Krause SPECIES
-=======
+# Stereum orthosporum E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

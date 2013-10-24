@@ -1,5 +1,4 @@
-Boletus eberwhitei A.H. Sm. & Thiers SPECIES
-=======
+# Boletus eberwhitei A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

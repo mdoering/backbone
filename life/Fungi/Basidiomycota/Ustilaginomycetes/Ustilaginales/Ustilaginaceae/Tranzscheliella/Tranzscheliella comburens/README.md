@@ -1,14 +1,13 @@
-Ustilago comburens F. Ludw., 1893 SPECIES
-=======
+# Tranzscheliella comburens (F. Ludw.) Vánky & McKenzie, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. PflKrankh. 139 (1893)
+Fungal Diversity Res. Ser. (Hong Kong) 8: 155 (2002)
 
 #### Original name
 Ustilago comburens F. Ludw., 1893

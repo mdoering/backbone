@@ -1,5 +1,4 @@
-Verrucaria javanica Hepp SPECIES
-=======
+# Verrucaria javanica Hepp SPECIES
 
 #### Status
 ACCEPTED

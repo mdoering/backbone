@@ -1,5 +1,4 @@
-Peziza parvula E. Bommer & M. Rousseau SPECIES
-=======
+# Peziza parvula E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

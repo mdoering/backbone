@@ -1,5 +1,4 @@
-Pandanicola K.D. Hyde, 1994 GENUS
-=======
+# Pandanicola K.D. Hyde, 1994 GENUS
 
 #### Status
 ACCEPTED

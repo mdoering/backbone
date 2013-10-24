@@ -1,5 +1,4 @@
-Hendersonulina punicae (Pass.) Tassi SPECIES
-=======
+# Hendersonulina punicae (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

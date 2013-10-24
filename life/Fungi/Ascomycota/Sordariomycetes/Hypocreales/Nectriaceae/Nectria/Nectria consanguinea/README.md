@@ -1,5 +1,4 @@
-Nectria consanguinea Rehm SPECIES
-=======
+# Nectria consanguinea Rehm SPECIES
 
 #### Status
 ACCEPTED

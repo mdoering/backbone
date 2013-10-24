@@ -1,5 +1,4 @@
-Pseudocercospora sphaerulinae Crous & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora sphaerulinae Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pleurotus albellus (Pat.) Pegler, 1983 SPECIES
-=======
+# Pleurotellus albellus (Pat.) Pegler, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

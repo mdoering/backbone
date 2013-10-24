@@ -1,5 +1,4 @@
-Biatora epiphaea (Nyl.) Arnold SPECIES
-=======
+# Biatora epiphaea (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

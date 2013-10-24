@@ -1,5 +1,4 @@
-Heteraulacacysta campanula Drugg & Loeblich Jr, 1967 SPECIES
-=======
+# Heteraulacacysta campanula Drugg & Loeblich Jr, 1967 SPECIES
 
 #### Status
 ACCEPTED

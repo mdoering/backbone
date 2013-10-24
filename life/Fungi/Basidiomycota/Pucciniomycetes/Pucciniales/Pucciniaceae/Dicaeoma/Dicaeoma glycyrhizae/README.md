@@ -1,5 +1,4 @@
-Dicaeoma glycyrhizae (Rabenh.) Kuntze SPECIES
-=======
+# Dicaeoma glycyrhizae (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

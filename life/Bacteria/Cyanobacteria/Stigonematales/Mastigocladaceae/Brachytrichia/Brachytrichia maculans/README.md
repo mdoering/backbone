@@ -1,5 +1,4 @@
-Brachytrichia maculans Gomont SPECIES
-=======
+# Brachytrichia maculans Gomont SPECIES
 
 #### Status
 ACCEPTED

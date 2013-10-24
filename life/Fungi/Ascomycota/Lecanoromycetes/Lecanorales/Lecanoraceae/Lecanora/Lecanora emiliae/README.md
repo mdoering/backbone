@@ -1,5 +1,4 @@
-Lecanora emiliae Tomin SPECIES
-=======
+# Lecanora emiliae Tomin SPECIES
 
 #### Status
 ACCEPTED

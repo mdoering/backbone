@@ -1,5 +1,4 @@
-Macrosporium medicaginis Cugini SPECIES
-=======
+# Macrosporium medicaginis Cugini SPECIES
 
 #### Status
 ACCEPTED

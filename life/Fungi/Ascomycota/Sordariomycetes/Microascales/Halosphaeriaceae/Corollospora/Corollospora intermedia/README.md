@@ -1,5 +1,4 @@
-Corollospora intermedia E.B.G. Jones, 1970 SPECIES
-=======
+# Corollospora intermedia E.B.G. Jones, 1970 SPECIES
 
 #### Status
 ACCEPTED

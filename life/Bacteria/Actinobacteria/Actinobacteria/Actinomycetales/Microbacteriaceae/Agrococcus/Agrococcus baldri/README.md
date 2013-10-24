@@ -1,5 +1,4 @@
-Agrococcus baldri Zlamala et al., 2002 SPECIES
-=======
+# Agrococcus baldri Zlamala et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

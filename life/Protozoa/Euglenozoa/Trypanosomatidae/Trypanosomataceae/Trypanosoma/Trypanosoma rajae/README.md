@@ -1,8 +1,7 @@
-Trypanosoma variabile Neumann, 1909 SPECIES
-=======
+# Trypanosoma rajae Laveran & Mesnil, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

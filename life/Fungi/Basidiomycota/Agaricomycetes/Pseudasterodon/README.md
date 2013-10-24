@@ -1,5 +1,4 @@
-Pseudasterodon Rick GENUS
-=======
+# Pseudasterodon Rick GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta daphniphylli Nicolas & Aggéry SPECIES
-=======
+# Phyllosticta daphniphylli Nicolas & Aggéry SPECIES
 
 #### Status
 ACCEPTED

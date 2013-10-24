@@ -1,5 +1,4 @@
-Chrysidiastrum Lauterborn, 1913 GENUS
-=======
+# Chrysidiastrum Lauterborn, 1913 GENUS
 
 #### Status
 ACCEPTED

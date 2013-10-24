@@ -1,5 +1,4 @@
-Hypocrea ovulispora Starbäck SPECIES
-=======
+# Hypocrea ovulispora Starbäck SPECIES
 
 #### Status
 ACCEPTED

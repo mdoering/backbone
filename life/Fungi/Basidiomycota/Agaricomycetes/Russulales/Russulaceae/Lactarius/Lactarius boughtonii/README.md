@@ -1,17 +1,16 @@
-Lactarius boughtoni Peck SPECIES
-=======
+# Lactarius boughtonii Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. N. Y. St. Mus. 150: 32 (1911)
 
 #### Original name
-Lactarius boughtoni Peck
+Lactarius boughtonii Peck
 
 ### Remarks
 null

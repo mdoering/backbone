@@ -1,5 +1,4 @@
-Vermicularia telephii P. Karst. SPECIES
-=======
+# Vermicularia telephii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia arnoldiana Servít & Cern. SPECIES
-=======
+# Blastenia arnoldiana Servít & Cern. SPECIES
 
 #### Status
 ACCEPTED

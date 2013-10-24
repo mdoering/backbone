@@ -1,5 +1,4 @@
-Cercospora panici-miliacei Sawada SPECIES
-=======
+# Cercospora panici-miliacei Sawada SPECIES
 
 #### Status
 ACCEPTED

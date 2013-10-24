@@ -1,5 +1,4 @@
-Pulvinodecton Henssen & G. Thor GENUS
-=======
+# Pulvinodecton Henssen & G. Thor GENUS
 
 #### Status
 ACCEPTED

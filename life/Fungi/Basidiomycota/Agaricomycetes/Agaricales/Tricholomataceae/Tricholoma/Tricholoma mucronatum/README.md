@@ -1,5 +1,4 @@
-Tricholoma mucronatum Pat. SPECIES
-=======
+# Tricholoma mucronatum Pat. SPECIES
 
 #### Status
 ACCEPTED

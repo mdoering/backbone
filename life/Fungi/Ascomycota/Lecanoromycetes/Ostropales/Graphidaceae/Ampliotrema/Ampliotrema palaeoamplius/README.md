@@ -1,5 +1,4 @@
-Ampliotrema palaeoamplius (Aptroot & Sipman) Kalb ex Kalb SPECIES
-=======
+# Ampliotrema palaeoamplius (Aptroot & Sipman) Kalb ex Kalb SPECIES
 
 #### Status
 ACCEPTED

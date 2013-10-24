@@ -1,5 +1,4 @@
-Mycena delvisoi Raithelh. SPECIES
-=======
+# Mycena delvisoi Raithelh. SPECIES
 
 #### Status
 ACCEPTED

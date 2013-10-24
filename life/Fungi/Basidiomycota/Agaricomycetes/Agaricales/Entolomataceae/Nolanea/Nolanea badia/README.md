@@ -1,5 +1,4 @@
-Nolanea badia Rick SPECIES
-=======
+# Nolanea badia Rick SPECIES
 
 #### Status
 ACCEPTED

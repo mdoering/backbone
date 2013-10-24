@@ -1,5 +1,4 @@
-Sclerophyton actinoboloides Zahlbr. SPECIES
-=======
+# Sclerophyton actinoboloides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

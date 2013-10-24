@@ -1,5 +1,4 @@
-Cryptococcus tonsillarum Nann. SPECIES
-=======
+# Cryptococcus tonsillarum Nann. SPECIES
 
 #### Status
 ACCEPTED

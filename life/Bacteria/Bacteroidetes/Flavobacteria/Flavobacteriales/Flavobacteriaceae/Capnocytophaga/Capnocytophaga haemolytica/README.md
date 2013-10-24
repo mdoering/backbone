@@ -1,5 +1,4 @@
-Capnocytophaga haemolytica Yamamoto et al., 1994 SPECIES
-=======
+# Capnocytophaga haemolytica Yamamoto et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

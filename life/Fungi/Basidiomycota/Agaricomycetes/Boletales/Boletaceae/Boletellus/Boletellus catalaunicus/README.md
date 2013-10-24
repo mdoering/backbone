@@ -1,5 +1,4 @@
-Boletellus catalaunicus Pöder, G. Moreno, Rocabruna & Tabarés SPECIES
-=======
+# Boletellus catalaunicus Pöder, G. Moreno, Rocabruna & Tabarés SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia aurata Syd. & P. Syd. SPECIES
-=======
+# Puccinia aurata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

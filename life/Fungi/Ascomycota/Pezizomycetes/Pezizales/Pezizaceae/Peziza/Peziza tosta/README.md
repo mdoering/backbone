@@ -1,5 +1,4 @@
-Peziza tosta (Boud.) V.P. Tewari & D.C. Pant SPECIES
-=======
+# Peziza tosta (Boud.) V.P. Tewari & D.C. Pant SPECIES
 
 #### Status
 ACCEPTED

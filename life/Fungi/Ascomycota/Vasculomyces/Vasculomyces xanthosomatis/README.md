@@ -1,5 +1,4 @@
-Vasculomyces xanthosomatis S.F. Ashby, 1913 SPECIES
-=======
+# Vasculomyces xanthosomatis S.F. Ashby, 1913 SPECIES
 
 #### Status
 ACCEPTED

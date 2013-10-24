@@ -1,5 +1,4 @@
-Barnettia GENUS
-=======
+# Barnettia GENUS
 
 #### Status
 ACCEPTED

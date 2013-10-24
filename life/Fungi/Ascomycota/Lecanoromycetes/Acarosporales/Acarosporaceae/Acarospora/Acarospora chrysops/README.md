@@ -1,5 +1,4 @@
-Acarospora chrysops (Tuck.) H. Magn. SPECIES
-=======
+# Acarospora chrysops (Tuck.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

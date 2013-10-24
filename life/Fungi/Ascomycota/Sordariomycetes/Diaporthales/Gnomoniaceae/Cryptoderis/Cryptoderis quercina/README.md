@@ -1,5 +1,4 @@
-Cryptoderis quercina Teng SPECIES
-=======
+# Cryptoderis quercina Teng SPECIES
 
 #### Status
 ACCEPTED

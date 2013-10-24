@@ -1,5 +1,4 @@
-Dasychira pudibunda Npv SPECIES
-=======
+# Dasychira pudibunda Npv SPECIES
 
 #### Status
 ACCEPTED

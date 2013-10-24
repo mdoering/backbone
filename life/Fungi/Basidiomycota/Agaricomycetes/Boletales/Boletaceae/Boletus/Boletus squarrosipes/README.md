@@ -1,5 +1,4 @@
-Boletus squarrosipes Corner SPECIES
-=======
+# Boletus squarrosipes Corner SPECIES
 
 #### Status
 ACCEPTED

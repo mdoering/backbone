@@ -1,5 +1,4 @@
-Leptostroma micropunctum Cooke SPECIES
-=======
+# Leptostroma micropunctum Cooke SPECIES
 
 #### Status
 ACCEPTED

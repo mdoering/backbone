@@ -1,17 +1,16 @@
-Diplodia rutaecola Thüm. SPECIES
-=======
+# Diplodia ruticola Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Contrib. Fung. Litor. no. 141 (1880)
 
 #### Original name
-Diplodia rutaecola Thüm.
+Diplodia ruticola Thüm.
 
 ### Remarks
 null

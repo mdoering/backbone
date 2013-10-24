@@ -1,5 +1,4 @@
-Fuligomyces macrosporus Morgan-Jones & Kamal, 1984 SPECIES
-=======
+# Fuligomyces macrosporus Morgan-Jones & Kamal, 1984 SPECIES
 
 #### Status
 ACCEPTED

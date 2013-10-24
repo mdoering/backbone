@@ -1,5 +1,4 @@
-Reussoolina stellula Loeblich & Tappan, 1994 SPECIES
-=======
+# Reussoolina stellula Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

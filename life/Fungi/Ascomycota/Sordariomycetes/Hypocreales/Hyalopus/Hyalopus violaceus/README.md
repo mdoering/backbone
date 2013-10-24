@@ -1,17 +1,16 @@
-Hyalopus violaceum Bat., H. Maia & A.F. Vital SPECIES
-=======
+# Hyalopus violaceus Bat., H. Maia & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 15(1): 130 (1957)
 
 #### Original name
-Hyalopus violaceum Bat., H. Maia & A.F. Vital
+Hyalopus violaceus Bat., H. Maia & A.F. Vital
 
 ### Remarks
 null

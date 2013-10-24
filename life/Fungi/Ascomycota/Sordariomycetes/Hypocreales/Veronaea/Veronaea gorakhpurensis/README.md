@@ -1,5 +1,4 @@
-Veronaea gorakhpurensis Kamal & P. Kumar SPECIES
-=======
+# Veronaea gorakhpurensis Kamal & P. Kumar SPECIES
 
 #### Status
 ACCEPTED

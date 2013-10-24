@@ -1,5 +1,4 @@
-Phoma iners Penz. SPECIES
-=======
+# Phoma iners Penz. SPECIES
 
 #### Status
 ACCEPTED

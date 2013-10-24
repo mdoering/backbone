@@ -1,5 +1,4 @@
-Rhodophyllus pallidocarneus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus pallidocarneus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

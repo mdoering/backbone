@@ -1,5 +1,4 @@
-Asteridiella olmediae Hansf. SPECIES
-=======
+# Asteridiella olmediae Hansf. SPECIES
 
 #### Status
 ACCEPTED

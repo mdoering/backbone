@@ -1,14 +1,13 @@
-Henningsomyces urceolatus (Wallr.) Kuntze SPECIES
-=======
+# Massaria urceolata (Wallr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 483 (1898)
+Syll. fung. (Abellini) 2: 4 (1883)
 
 #### Original name
 Sphaeria urceolata Wallr.

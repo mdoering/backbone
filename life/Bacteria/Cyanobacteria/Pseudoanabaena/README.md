@@ -1,5 +1,4 @@
-Pseudoanabaena GENUS
-=======
+# Pseudoanabaena GENUS
 
 #### Status
 ACCEPTED

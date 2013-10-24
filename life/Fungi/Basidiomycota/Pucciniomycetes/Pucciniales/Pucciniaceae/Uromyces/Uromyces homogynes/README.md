@@ -1,5 +1,4 @@
-Uromyces homogynes E. Fisch. SPECIES
-=======
+# Uromyces homogynes E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pharcidia guineti Müll. Arg. SPECIES
-=======
+# Pharcidia guineti Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

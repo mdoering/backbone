@@ -1,5 +1,4 @@
-Fuscoporia rufitincta (Berk. & M.A. Curtis ex Cooke) Murrill SPECIES
-=======
+# Fuscoporia rufitincta (Berk. & M.A. Curtis ex Cooke) Murrill SPECIES
 
 #### Status
 ACCEPTED

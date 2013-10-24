@@ -1,5 +1,4 @@
-Psalliota guidottii Mattir. SPECIES
-=======
+# Psalliota guidottii Mattir. SPECIES
 
 #### Status
 ACCEPTED

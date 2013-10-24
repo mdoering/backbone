@@ -1,5 +1,4 @@
-Aplosporella sacchari Sousa da Câmara SPECIES
-=======
+# Aplosporella sacchari Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

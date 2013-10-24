@@ -1,5 +1,4 @@
-Scolecopeltidium mayteni Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium mayteni Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

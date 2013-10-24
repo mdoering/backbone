@@ -1,5 +1,4 @@
-Omphalina violaceoviridis Courtec. SPECIES
-=======
+# Omphalina violaceoviridis Courtec. SPECIES
 
 #### Status
 ACCEPTED

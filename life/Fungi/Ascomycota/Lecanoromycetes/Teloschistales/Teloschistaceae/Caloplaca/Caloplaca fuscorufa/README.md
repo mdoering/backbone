@@ -1,5 +1,4 @@
-Caloplaca fuscorufa H. Magn. SPECIES
-=======
+# Caloplaca fuscorufa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

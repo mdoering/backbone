@@ -1,5 +1,4 @@
-Halogeometricum borinquense Montalvo-Rodríguez et al., 1998 SPECIES
-=======
+# Halogeometricum borinquense Montalvo-Rodríguez et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

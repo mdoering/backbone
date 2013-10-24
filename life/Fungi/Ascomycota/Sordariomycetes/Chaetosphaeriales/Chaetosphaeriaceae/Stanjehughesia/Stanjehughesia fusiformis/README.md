@@ -1,5 +1,4 @@
-Stanjehughesia fusiformis W.P. Wu SPECIES
-=======
+# Stanjehughesia fusiformis W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

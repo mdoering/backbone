@@ -1,8 +1,7 @@
-Trichocrea oodes Bayl. Ell., 1918 SPECIES
-=======
+# Fujimyces oodes (Bayl. Ell.) Minter & Caine, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

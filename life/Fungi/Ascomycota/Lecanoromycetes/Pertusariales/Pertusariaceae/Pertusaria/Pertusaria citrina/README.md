@@ -1,5 +1,4 @@
-Pertusaria citrina A.L. Sm. SPECIES
-=======
+# Pertusaria citrina A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

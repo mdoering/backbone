@@ -1,5 +1,4 @@
-Drechslera dactylidis Shoemaker SPECIES
-=======
+# Drechslera dactylidis Shoemaker SPECIES
 
 #### Status
 ACCEPTED

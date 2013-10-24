@@ -1,5 +1,4 @@
-Theleporus ajovalliensis Gilb. & M. Blackw., 1982 SPECIES
-=======
+# Theleporus ajovalliensis Gilb. & M. Blackw., 1982 SPECIES
 
 #### Status
 ACCEPTED

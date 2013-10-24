@@ -1,5 +1,4 @@
-Erysiphe densa Berk., 1855 SPECIES
-=======
+# Erysiphe densa Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

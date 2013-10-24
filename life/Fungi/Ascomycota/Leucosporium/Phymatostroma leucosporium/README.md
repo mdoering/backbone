@@ -1,5 +1,4 @@
-Phymatostroma leucosporium Corda SPECIES
-=======
+# Phymatostroma leucosporium Corda SPECIES
 
 #### Status
 ACCEPTED

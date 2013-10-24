@@ -1,5 +1,4 @@
-Carpolithes osseus SPECIES
-=======
+# Carpolithes osseus SPECIES
 
 #### Status
 ACCEPTED

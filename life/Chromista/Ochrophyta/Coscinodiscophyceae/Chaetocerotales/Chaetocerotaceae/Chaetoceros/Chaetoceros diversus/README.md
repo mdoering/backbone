@@ -1,11 +1,10 @@
-Chaetoceros laeve G. Leuduger-Fortmorel, 1892 SPECIES
-=======
+# Chaetoceros diversus Cleve SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

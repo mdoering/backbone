@@ -1,5 +1,4 @@
-Protozoa KINGDOM
-=======
+# Protozoa KINGDOM
 
 #### Status
 ACCEPTED

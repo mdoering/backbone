@@ -1,5 +1,4 @@
-Polyporus underwoodii Peck SPECIES
-=======
+# Polyporus underwoodii Peck SPECIES
 
 #### Status
 ACCEPTED

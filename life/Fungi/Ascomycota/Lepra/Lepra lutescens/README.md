@@ -1,5 +1,4 @@
-Lepra lutescens (Hoffm.) Hoffm. SPECIES
-=======
+# Lepra lutescens (Hoffm.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

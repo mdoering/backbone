@@ -1,5 +1,4 @@
-Zygorhizidium formosanum Canter SPECIES
-=======
+# Zygorhizidium formosanum Canter SPECIES
 
 #### Status
 ACCEPTED

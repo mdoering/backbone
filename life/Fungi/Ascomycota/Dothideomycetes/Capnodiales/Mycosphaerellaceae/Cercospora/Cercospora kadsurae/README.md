@@ -1,5 +1,4 @@
-Cercospora kadsurae Togashi & Katsuki SPECIES
-=======
+# Cercospora kadsurae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

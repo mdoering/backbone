@@ -1,5 +1,4 @@
-Physopella guettardae Buriticá & J.F. Hennen SPECIES
-=======
+# Physopella guettardae Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

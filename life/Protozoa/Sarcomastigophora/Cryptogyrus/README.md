@@ -1,5 +1,4 @@
-Cryptogyrus Sugiyama, 1993 GENUS
-=======
+# Cryptogyrus Sugiyama, 1993 GENUS
 
 #### Status
 ACCEPTED

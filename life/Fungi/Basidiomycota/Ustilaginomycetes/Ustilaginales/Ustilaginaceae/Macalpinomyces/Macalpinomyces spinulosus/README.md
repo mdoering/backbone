@@ -1,14 +1,13 @@
-Ustilago spinulosa L. Ling, 1953 SPECIES
-=======
+# Macalpinomyces spinulosus (L. Ling) Vánky, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 7(1-4): 153 (1953)
+Fungal Diversity 14: 212 (2003)
 
 #### Original name
 Ustilago spinulosa L. Ling, 1953

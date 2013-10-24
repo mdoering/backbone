@@ -1,5 +1,4 @@
-Galactopus succosus (Peck) Muir SPECIES
-=======
+# Galactopus succosus (Peck) Muir SPECIES
 
 #### Status
 ACCEPTED

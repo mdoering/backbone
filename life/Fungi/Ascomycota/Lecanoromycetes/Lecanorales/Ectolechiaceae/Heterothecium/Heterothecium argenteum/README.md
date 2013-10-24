@@ -1,5 +1,4 @@
-Heterothecium argenteum (Mont.) SPECIES
-=======
+# Heterothecium argenteum (Mont.) SPECIES
 
 #### Status
 ACCEPTED

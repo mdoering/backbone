@@ -1,5 +1,4 @@
-Mucor foenicola Naumov SPECIES
-=======
+# Mucor foenicola Naumov SPECIES
 
 #### Status
 ACCEPTED

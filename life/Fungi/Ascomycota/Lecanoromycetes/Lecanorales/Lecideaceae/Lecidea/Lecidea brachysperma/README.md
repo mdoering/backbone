@@ -1,5 +1,4 @@
-Lecidea brachysperma Vain. SPECIES
-=======
+# Lecidea brachysperma Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphorellina subacuta Colom, 1948 SPECIES
-=======
+# Amphorellina subacuta Colom, 1948 SPECIES
 
 #### Status
 ACCEPTED

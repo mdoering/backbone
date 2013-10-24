@@ -1,5 +1,4 @@
-Leprotolypa G.K. Colbath, 1979 GENUS
-=======
+# Leprotolypa G.K. Colbath, 1979 GENUS
 
 #### Status
 ACCEPTED

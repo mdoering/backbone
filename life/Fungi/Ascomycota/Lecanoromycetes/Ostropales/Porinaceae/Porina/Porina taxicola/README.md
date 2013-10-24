@@ -1,5 +1,4 @@
-Porina taxicola Ach. SPECIES
-=======
+# Porina taxicola Ach. SPECIES
 
 #### Status
 ACCEPTED

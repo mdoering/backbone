@@ -1,5 +1,4 @@
-Coniothyrium polygoni Hollós SPECIES
-=======
+# Coniothyrium polygoni Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boeremia foveata (Foister) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Boeremia foveata (Foister) Aveskamp, Gruyter & Verkley, 2010 SPECIES
 
 #### Status
 ACCEPTED

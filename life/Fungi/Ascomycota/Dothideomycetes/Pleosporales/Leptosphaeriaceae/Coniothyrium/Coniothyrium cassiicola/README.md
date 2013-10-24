@@ -1,17 +1,16 @@
-Coniothyrium cassiaecola Cooke SPECIES
-=======
+# Coniothyrium cassiicola Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 13(no. 68): 96 (1885)
 
 #### Original name
-Coniothyrium cassiaecola Cooke
+Coniothyrium cassiicola Cooke
 
 ### Remarks
 null

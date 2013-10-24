@@ -1,5 +1,4 @@
-Pertusaria ocellata var. ocellata VARIETY
-=======
+# Pertusaria ocellata (Wallr.) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria ocellata var. ocellata
+null
 
 ### Remarks
 null

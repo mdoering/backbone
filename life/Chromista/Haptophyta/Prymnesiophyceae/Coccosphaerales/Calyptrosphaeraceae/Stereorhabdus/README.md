@@ -1,5 +1,4 @@
-Stereorhabdus B. Lambert, 1987 GENUS
-=======
+# Stereorhabdus B. Lambert, 1987 GENUS
 
 #### Status
 ACCEPTED

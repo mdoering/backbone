@@ -1,14 +1,13 @@
-Phlyctidium phyllogenum Müll. Arg. SPECIES
-=======
+# Calenia phyllogena (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 12(no. 1): 349 (1952)
 
 #### Original name
 Phlyctidium phyllogenum Müll. Arg.

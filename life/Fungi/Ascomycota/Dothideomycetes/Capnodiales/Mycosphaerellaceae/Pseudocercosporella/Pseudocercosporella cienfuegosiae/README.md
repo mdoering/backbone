@@ -1,5 +1,4 @@
-Pseudocercosporella cienfuegosiae Deighton SPECIES
-=======
+# Pseudocercosporella cienfuegosiae Deighton SPECIES
 
 #### Status
 ACCEPTED

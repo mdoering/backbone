@@ -1,5 +1,4 @@
-Paraphaeoisaria de Hoog & Morgan-Jones GENUS
-=======
+# Paraphaeoisaria de Hoog & Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

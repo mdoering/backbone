@@ -1,5 +1,4 @@
-Aspicilia superposita (Zahlbr.) J.C. Wei SPECIES
-=======
+# Aspicilia superposita (Zahlbr.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

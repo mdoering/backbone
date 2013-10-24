@@ -1,5 +1,4 @@
-Clisosporium mediellum (P. Karst.) Kuntze SPECIES
-=======
+# Clisosporium mediellum (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

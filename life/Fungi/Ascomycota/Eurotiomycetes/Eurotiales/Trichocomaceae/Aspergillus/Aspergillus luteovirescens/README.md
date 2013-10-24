@@ -1,5 +1,4 @@
-Aspergillus luteovirescens Blochwitz SPECIES
-=======
+# Aspergillus luteovirescens Blochwitz SPECIES
 
 #### Status
 ACCEPTED

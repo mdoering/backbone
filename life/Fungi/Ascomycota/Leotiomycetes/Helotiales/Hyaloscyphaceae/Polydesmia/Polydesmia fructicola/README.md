@@ -1,5 +1,4 @@
-Polydesmia fructicola Korf, 1978 SPECIES
-=======
+# Polydesmia fructicola Korf, 1978 SPECIES
 
 #### Status
 ACCEPTED

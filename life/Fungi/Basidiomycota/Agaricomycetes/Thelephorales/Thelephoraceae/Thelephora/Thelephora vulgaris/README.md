@@ -1,5 +1,4 @@
-Thelephora vulgaris Pers. SPECIES
-=======
+# Thelephora vulgaris Pers. SPECIES
 
 #### Status
 ACCEPTED

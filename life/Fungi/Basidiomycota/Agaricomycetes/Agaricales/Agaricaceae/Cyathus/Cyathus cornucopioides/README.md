@@ -1,5 +1,4 @@
-Cyathus cornucopioides T.X. Zhou & W. Ren SPECIES
-=======
+# Cyathus cornucopioides T.X. Zhou & W. Ren SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola cyclantherae Syd. SPECIES
-=======
+# Meliola cyclantherae Syd. SPECIES
 
 #### Status
 ACCEPTED

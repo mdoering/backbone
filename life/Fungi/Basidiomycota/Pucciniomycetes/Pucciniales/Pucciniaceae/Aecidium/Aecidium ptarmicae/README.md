@@ -1,5 +1,4 @@
-Aecidium ptarmicae J. Schröt. SPECIES
-=======
+# Aecidium ptarmicae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

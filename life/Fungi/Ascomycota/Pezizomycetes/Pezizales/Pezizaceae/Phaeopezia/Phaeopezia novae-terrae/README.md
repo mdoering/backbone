@@ -1,5 +1,4 @@
-Phaeopezia novae-terrae Ellis & Everh. SPECIES
-=======
+# Phaeopezia novae-terrae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

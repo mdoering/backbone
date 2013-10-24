@@ -1,17 +1,16 @@
-Sphaeria pomiformis var. pomiformis VARIETY
-=======
+# Melanopsamma pomiformis (Pers.) Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 3): 347 (1878)
 
 #### Original name
-Sphaeria pomiformis var. pomiformis
+Sphaeria pomiformis Pers., 1801
 
 ### Remarks
 null

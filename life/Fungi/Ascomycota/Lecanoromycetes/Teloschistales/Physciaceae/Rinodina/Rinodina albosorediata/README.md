@@ -1,5 +1,4 @@
-Rinodina albosorediata Aptroot, Diederich & Sérus. SPECIES
-=======
+# Rinodina albosorediata Aptroot, Diederich & Sérus. SPECIES
 
 #### Status
 ACCEPTED

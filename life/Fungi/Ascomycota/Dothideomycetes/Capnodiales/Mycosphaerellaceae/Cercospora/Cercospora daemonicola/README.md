@@ -1,5 +1,4 @@
-Cercospora daemonicola R. Sprague SPECIES
-=======
+# Cercospora daemonicola R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphondylocephalum Stalpers GENUS
-=======
+# Sphondylocephalum Stalpers GENUS
 
 #### Status
 ACCEPTED

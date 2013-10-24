@@ -1,5 +1,4 @@
-Lepidorbitoides Silvestri, 1908 GENUS
-=======
+# Lepidorbitoides Silvestri, 1908 GENUS
 
 #### Status
 ACCEPTED

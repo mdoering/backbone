@@ -1,5 +1,4 @@
-Cortinarius citrino-olivaceus M.M. Moser SPECIES
-=======
+# Cortinarius citrino-olivaceus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

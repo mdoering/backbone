@@ -1,5 +1,4 @@
-Paleopyrenomycites devonicus Taylor, Hass, Kerp, M. Krings & Hanlin SPECIES
-=======
+# Paleopyrenomycites devonicus Taylor, Hass, Kerp, M. Krings & Hanlin SPECIES
 
 #### Status
 ACCEPTED

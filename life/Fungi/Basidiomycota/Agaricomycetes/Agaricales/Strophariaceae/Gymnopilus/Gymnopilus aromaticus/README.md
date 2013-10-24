@@ -1,5 +1,4 @@
-Gymnopilus aromaticus Murrill SPECIES
-=======
+# Gymnopilus aromaticus Murrill SPECIES
 
 #### Status
 ACCEPTED

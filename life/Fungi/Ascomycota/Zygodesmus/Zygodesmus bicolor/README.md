@@ -1,5 +1,4 @@
-Zygodesmus bicolor Cooke & Ellis SPECIES
-=======
+# Zygodesmus bicolor Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

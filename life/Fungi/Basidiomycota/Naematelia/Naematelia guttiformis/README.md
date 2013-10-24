@@ -1,8 +1,7 @@
-Naematelia guttaeformis Berk. & Broome SPECIES
-=======
+# Naematelia guttiformis Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Naematelia guttaeformis Berk. & Broome
+Naematelia guttiformis Berk. & Broome
 
 ### Remarks
 null

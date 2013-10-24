@@ -1,5 +1,4 @@
-Pythium orthogonon Ahrens, 1971 SPECIES
-=======
+# Pythium orthogonon Ahrens, 1971 SPECIES
 
 #### Status
 ACCEPTED

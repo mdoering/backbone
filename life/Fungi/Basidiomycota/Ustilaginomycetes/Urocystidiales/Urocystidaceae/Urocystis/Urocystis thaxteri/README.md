@@ -1,5 +1,4 @@
-Urocystis thaxteri Vánky, 2001 SPECIES
-=======
+# Urocystis thaxteri Vánky, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Segestria faginea (Trevis.) Zwackh SPECIES
-=======
+# Segestria faginea (Trevis.) Zwackh SPECIES
 
 #### Status
 ACCEPTED

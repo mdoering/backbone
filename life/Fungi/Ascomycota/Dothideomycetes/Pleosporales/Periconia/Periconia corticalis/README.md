@@ -1,5 +1,4 @@
-Periconia corticalis Cooke & Peck SPECIES
-=======
+# Periconia corticalis Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

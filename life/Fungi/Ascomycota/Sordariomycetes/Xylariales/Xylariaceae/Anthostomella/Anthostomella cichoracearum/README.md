@@ -1,5 +1,4 @@
-Anthostomella cichoracearum Jacz. SPECIES
-=======
+# Anthostomella cichoracearum Jacz. SPECIES
 
 #### Status
 ACCEPTED

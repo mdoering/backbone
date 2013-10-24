@@ -1,5 +1,4 @@
-Phyllachora araliarum Petr., 1968 SPECIES
-=======
+# Phyllachora araliarum Petr., 1968 SPECIES
 
 #### Status
 ACCEPTED

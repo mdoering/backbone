@@ -1,5 +1,4 @@
-Cercospora rhynchosiarum Petr. & Cif. SPECIES
-=======
+# Cercospora rhynchosiarum Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

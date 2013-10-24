@@ -1,17 +1,16 @@
-Irenina barbacenniae Hansf. SPECIES
-=======
+# Irenina barbaceniae Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London (1949)
 
 #### Original name
-Irenina barbacenniae Hansf.
+Irenina barbaceniae Hansf.
 
 ### Remarks
 null

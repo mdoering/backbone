@@ -1,5 +1,4 @@
-Distephanus xenus D. Bukry SPECIES
-=======
+# Distephanus xenus D. Bukry SPECIES
 
 #### Status
 ACCEPTED

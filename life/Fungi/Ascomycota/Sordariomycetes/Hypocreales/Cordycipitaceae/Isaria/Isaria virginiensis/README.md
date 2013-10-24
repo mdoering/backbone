@@ -1,5 +1,4 @@
-Isaria virginiensis Ellis & Everh. SPECIES
-=======
+# Isaria virginiensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

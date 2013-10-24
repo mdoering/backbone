@@ -1,5 +1,4 @@
-Lasallia pensylvanica (Hoffm.) Llano SPECIES
-=======
+# Lasallia pensylvanica (Hoffm.) Llano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus mutabilis Bainier & Sartory SPECIES
-=======
+# Aspergillus mutabilis Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

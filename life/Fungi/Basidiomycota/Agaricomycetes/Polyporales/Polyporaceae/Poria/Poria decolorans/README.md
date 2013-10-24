@@ -1,5 +1,4 @@
-Poria decolorans (Schwein.) Cooke SPECIES
-=======
+# Poria decolorans (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

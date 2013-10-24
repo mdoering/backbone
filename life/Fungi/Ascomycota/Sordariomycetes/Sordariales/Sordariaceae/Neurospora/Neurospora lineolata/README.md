@@ -1,5 +1,4 @@
-Neurospora lineolata Frederick & Uecker, 1970 SPECIES
-=======
+# Neurospora lineolata Frederick & Uecker, 1970 SPECIES
 
 #### Status
 ACCEPTED

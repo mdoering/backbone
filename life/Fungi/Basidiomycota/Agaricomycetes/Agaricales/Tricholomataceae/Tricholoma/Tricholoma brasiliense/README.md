@@ -1,5 +1,4 @@
-Tricholoma brasiliense Rick SPECIES
-=======
+# Tricholoma brasiliense Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polynema muirii Vujan., St-Arn., P. Neumann, Fortin & Brisson SPECIES
-=======
+# Polynema muirii Vujan., St-Arn., P. Neumann, Fortin & Brisson SPECIES
 
 #### Status
 ACCEPTED

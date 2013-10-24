@@ -1,5 +1,4 @@
-Zellerella Hutton, 1966 GENUS
-=======
+# Zellerella Hutton, 1966 GENUS
 
 #### Status
 ACCEPTED

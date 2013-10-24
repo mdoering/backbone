@@ -1,5 +1,4 @@
-Cyanobium roseum (J.J. Copeland) J. Komárek, J. Kopeck & V. Cepák SPECIES
-=======
+# Cyanobium roseum (J.J. Copeland) J. Komárek, J. Kopeck & V. Cepák SPECIES
 
 #### Status
 ACCEPTED

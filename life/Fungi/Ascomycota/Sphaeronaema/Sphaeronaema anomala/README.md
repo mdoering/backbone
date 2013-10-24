@@ -1,5 +1,4 @@
-Sphaeronaema anomala Marchal & É.J. Marchal SPECIES
-=======
+# Sphaeronaema anomala Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

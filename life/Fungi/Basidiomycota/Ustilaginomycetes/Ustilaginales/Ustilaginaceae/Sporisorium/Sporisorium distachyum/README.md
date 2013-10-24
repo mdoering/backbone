@@ -1,5 +1,4 @@
-Sporisorium distachyum Vánky SPECIES
-=======
+# Sporisorium distachyum Vánky SPECIES
 
 #### Status
 ACCEPTED

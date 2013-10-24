@@ -1,5 +1,4 @@
-Leveillula cucurbitacearum Golovin SPECIES
-=======
+# Leveillula cucurbitacearum Golovin SPECIES
 
 #### Status
 ACCEPTED

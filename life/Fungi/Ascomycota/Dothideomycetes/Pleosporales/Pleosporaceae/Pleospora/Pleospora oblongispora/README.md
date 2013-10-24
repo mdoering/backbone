@@ -1,5 +1,4 @@
-Pleospora oblongispora Rehm SPECIES
-=======
+# Pleospora oblongispora Rehm SPECIES
 
 #### Status
 ACCEPTED

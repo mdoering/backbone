@@ -1,5 +1,4 @@
-Caloplaca carolinae H. Magn. SPECIES
-=======
+# Caloplaca carolinae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis sphagnorum Cooke SPECIES
-=======
+# Botrytis sphagnorum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe multivaga (Britzelm.) M.M. Moser SPECIES
-=======
+# Hydrocybe multivaga (Britzelm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

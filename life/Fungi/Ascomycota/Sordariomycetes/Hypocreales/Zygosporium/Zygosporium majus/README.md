@@ -1,5 +1,4 @@
-Zygosporium majus Piroz., 1972 SPECIES
-=======
+# Zygosporium majus Piroz., 1972 SPECIES
 
 #### Status
 ACCEPTED

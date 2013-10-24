@@ -1,5 +1,4 @@
-Prunulus niveipes Murrill SPECIES
-=======
+# Prunulus niveipes Murrill SPECIES
 
 #### Status
 ACCEPTED

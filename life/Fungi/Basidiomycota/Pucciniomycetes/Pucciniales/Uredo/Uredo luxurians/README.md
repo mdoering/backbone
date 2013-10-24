@@ -1,5 +1,4 @@
-Uredo luxurians Ellis & Everh. SPECIES
-=======
+# Uredo luxurians Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria sporadina Lév. SPECIES
-=======
+# Sphaeria sporadina Lév. SPECIES
 
 #### Status
 ACCEPTED

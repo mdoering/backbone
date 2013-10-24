@@ -1,14 +1,13 @@
-Phacidium convexum Dearn., 1926 SPECIES
-=======
+# Sarcotrochila convexa (Dearn.) J.K. Stone & Gernandt, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 18(5): 238 (1926)
+Mycotaxon 91: 120 (2005)
 
 #### Original name
 Phacidium convexum Dearn., 1926

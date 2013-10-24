@@ -1,5 +1,4 @@
-Verrucaria discedens Nyl. SPECIES
-=======
+# Verrucaria discedens Nyl. SPECIES
 
 #### Status
 ACCEPTED

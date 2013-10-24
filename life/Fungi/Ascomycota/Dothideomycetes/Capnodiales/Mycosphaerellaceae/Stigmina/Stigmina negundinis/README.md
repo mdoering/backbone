@@ -1,5 +1,4 @@
-Stigmina negundinis (Berk. & M.A. Curtis) M.B. Ellis SPECIES
-=======
+# Stigmina negundinis (Berk. & M.A. Curtis) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

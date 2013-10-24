@@ -1,17 +1,16 @@
-Trametes brunneoleuca var. brunneoleuca VARIETY
-=======
+# Coriolopsis brunneoleuca (Berk.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 19: 230 (1972)
 
 #### Original name
-null
+Polyporus brunneoleucus Berk., 1846
 
 ### Remarks
 null

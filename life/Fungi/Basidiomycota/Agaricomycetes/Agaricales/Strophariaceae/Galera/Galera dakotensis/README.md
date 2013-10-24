@@ -1,5 +1,4 @@
-Galera dakotensis Brenckle SPECIES
-=======
+# Galera dakotensis Brenckle SPECIES
 
 #### Status
 ACCEPTED

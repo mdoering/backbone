@@ -1,5 +1,4 @@
-Usnea yelskii anon. SPECIES
-=======
+# Usnea yelskii anon. SPECIES
 
 #### Status
 ACCEPTED

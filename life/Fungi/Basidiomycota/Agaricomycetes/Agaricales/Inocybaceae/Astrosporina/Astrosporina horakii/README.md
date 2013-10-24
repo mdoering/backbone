@@ -1,5 +1,4 @@
-Astrosporina horakii var. horakii VARIETY
-=======
+# Astrosporina horakii (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Metrodiana, Sonderheft 2: 15 (1983)
 
 #### Original name
-Astrosporina horakii var. horakii
+Inocybe horakii Raithelh.
 
 ### Remarks
 null

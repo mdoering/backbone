@@ -1,5 +1,4 @@
-Cristinia Parmasto, 1968 GENUS
-=======
+# Cristinia Parmasto, 1968 GENUS
 
 #### Status
 ACCEPTED

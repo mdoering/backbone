@@ -1,8 +1,7 @@
-Pseudomonas testosteroni Marcus and Talalay, 1956 (Approved Lists, 1980) SPECIES
-=======
+# Comamonas testosteroni (Marcus & Talalay, 1956) Tamaoka et al., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Leptoporus alutaeformis Pat. SPECIES
-=======
+# Leptoporus alutaeformis Pat. SPECIES
 
 #### Status
 ACCEPTED

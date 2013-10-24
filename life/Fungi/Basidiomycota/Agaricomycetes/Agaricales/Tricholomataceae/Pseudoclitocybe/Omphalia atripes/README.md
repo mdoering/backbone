@@ -1,5 +1,4 @@
-Omphalia atripes Rabenh. SPECIES
-=======
+# Omphalia atripes Rabenh. SPECIES
 
 #### Status
 ACCEPTED

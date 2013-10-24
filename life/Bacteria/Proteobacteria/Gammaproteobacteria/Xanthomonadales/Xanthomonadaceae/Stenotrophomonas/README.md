@@ -1,5 +1,4 @@
-Stenotrophomonas Palleroni & Bradbury, 1993 GENUS
-=======
+# Stenotrophomonas Palleroni & Bradbury, 1993 GENUS
 
 #### Status
 ACCEPTED

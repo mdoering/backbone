@@ -1,5 +1,4 @@
-Lecidea psorina Nyl. SPECIES
-=======
+# Lecidea psorina Nyl. SPECIES
 
 #### Status
 ACCEPTED

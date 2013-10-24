@@ -1,5 +1,4 @@
-Phomopsis tritici Punith., 1980 SPECIES
-=======
+# Phomopsis tritici Punith., 1980 SPECIES
 
 #### Status
 ACCEPTED

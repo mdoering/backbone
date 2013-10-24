@@ -1,5 +1,4 @@
-Nolanea pseudohirtipes Largent SPECIES
-=======
+# Nolanea pseudohirtipes Largent SPECIES
 
 #### Status
 ACCEPTED

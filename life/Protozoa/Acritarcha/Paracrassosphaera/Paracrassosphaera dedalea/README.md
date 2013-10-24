@@ -1,5 +1,4 @@
-Paracrassosphaera dedalea Rudavskaya in Faizulina & Treshchetenkova, 1979 SPECIES
-=======
+# Paracrassosphaera dedalea Rudavskaya in Faizulina & Treshchetenkova, 1979 SPECIES
 
 #### Status
 ACCEPTED

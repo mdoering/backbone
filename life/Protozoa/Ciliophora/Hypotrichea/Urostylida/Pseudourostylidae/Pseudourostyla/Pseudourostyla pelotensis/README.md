@@ -1,5 +1,4 @@
-Pseudourostyla pelotensis Paiva & da Silva-Neto, 2006 SPECIES
-=======
+# Pseudourostyla pelotensis Paiva & da Silva-Neto, 2006 SPECIES
 
 #### Status
 ACCEPTED

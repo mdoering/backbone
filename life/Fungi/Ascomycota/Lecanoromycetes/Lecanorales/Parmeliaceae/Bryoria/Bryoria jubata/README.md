@@ -1,5 +1,4 @@
-Bryoria jubata (L.) Bystrek SPECIES
-=======
+# Bryoria jubata (L.) Bystrek SPECIES
 
 #### Status
 ACCEPTED

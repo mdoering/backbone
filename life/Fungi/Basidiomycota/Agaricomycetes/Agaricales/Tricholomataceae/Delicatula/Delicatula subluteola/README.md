@@ -1,5 +1,4 @@
-Delicatula subluteola Velen. SPECIES
-=======
+# Delicatula subluteola Velen. SPECIES
 
 #### Status
 ACCEPTED

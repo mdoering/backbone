@@ -1,5 +1,4 @@
-Tintinnopsis ventricosoides Meunier, 1910 SPECIES
-=======
+# Tintinnopsis ventricosoides Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

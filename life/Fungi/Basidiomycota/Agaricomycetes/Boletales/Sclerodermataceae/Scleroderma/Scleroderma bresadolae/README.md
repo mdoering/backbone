@@ -1,5 +1,4 @@
-Scleroderma bresadolae Schulzer SPECIES
-=======
+# Scleroderma bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

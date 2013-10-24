@@ -1,17 +1,16 @@
-Psalidosperma Syd. & P. Syd. GENUS
-=======
+# Ypsilonia Lév. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12(6): 571 (1914)
+Annls Sci. Nat. , Bot. , sér. 3 5: 284 (1846)
 
 #### Original name
-Psalidosperma Syd. & P. Syd.
+Ypsilonia Lév.
 
 ### Remarks
 null

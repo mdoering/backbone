@@ -1,8 +1,7 @@
-Sphaerella chondri H.L. Jones, 1898 SPECIES
-=======
+# Guignardia chondri (H.L. Jones) Estee, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

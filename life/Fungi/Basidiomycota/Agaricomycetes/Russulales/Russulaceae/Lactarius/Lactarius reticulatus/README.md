@@ -1,5 +1,4 @@
-Lactarius reticulatus (Berk.) Singer SPECIES
-=======
+# Lactarius reticulatus (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

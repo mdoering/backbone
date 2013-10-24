@@ -1,5 +1,4 @@
-Xanthoparmelia ballingalliana Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia ballingalliana Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

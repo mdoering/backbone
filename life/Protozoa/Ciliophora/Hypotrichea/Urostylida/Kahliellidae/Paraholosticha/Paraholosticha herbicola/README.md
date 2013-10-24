@@ -1,5 +1,4 @@
-Paraholosticha herbicola Kahl, 1932 SPECIES
-=======
+# Paraholosticha herbicola Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus geniculatus Ercegovic SPECIES
-=======
+# Ectocarpus geniculatus Ercegovic SPECIES
 
 #### Status
 ACCEPTED

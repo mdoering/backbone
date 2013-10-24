@@ -1,5 +1,4 @@
-Pyrenocollema minutulum (Bornm.) Puym. SPECIES
-=======
+# Pyrenocollema minutulum (Bornm.) Puym. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia clancularia (Nyl.) Boistel SPECIES
-=======
+# Aspicilia clancularia (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

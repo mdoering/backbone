@@ -1,5 +1,4 @@
-Polyporus micheneri Berk. SPECIES
-=======
+# Polyporus micheneri Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bullera taiwanensis Nakase, Tsuzuki & M. Takash. SPECIES
-=======
+# Bullera taiwanensis Nakase, Tsuzuki & M. Takash. SPECIES
 
 #### Status
 ACCEPTED

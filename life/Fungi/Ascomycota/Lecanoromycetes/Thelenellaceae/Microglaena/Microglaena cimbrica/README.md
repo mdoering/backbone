@@ -1,5 +1,4 @@
-Microglaena cimbrica Th. Fr. SPECIES
-=======
+# Microglaena cimbrica Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

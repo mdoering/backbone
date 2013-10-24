@@ -1,5 +1,4 @@
-Sabouraudites praecox Rivalier SPECIES
-=======
+# Sabouraudites praecox Rivalier SPECIES
 
 #### Status
 ACCEPTED

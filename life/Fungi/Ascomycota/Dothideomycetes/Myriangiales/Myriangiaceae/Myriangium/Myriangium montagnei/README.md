@@ -1,5 +1,4 @@
-Myriangium montagnei Berk., 1845 SPECIES
-=======
+# Myriangium montagnei Berk., 1845 SPECIES
 
 #### Status
 ACCEPTED

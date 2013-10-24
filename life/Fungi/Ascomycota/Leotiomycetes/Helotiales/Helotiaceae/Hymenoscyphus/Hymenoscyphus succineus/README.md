@@ -1,5 +1,4 @@
-Hymenoscyphus succineus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus succineus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

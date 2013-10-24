@@ -1,5 +1,4 @@
-Mycena cyanorhiza Quél., 1875 SPECIES
-=======
+# Mycena cyanorhiza Quél., 1875 SPECIES
 
 #### Status
 ACCEPTED

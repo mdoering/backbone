@@ -1,5 +1,4 @@
-Wallrothiella rhododendri (Ces.) Sacc. SPECIES
-=======
+# Wallrothiella rhododendri (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

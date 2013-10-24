@@ -1,5 +1,4 @@
-Ramularia hypochaeridis Magnus, 1895 SPECIES
-=======
+# Ramularia hypochaeridis Magnus, 1895 SPECIES
 
 #### Status
 ACCEPTED

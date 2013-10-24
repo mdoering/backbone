@@ -1,5 +1,4 @@
-Xenostele takakumensis Hirats. f., 1942 SPECIES
-=======
+# Xenostele takakumensis Hirats. f., 1942 SPECIES
 
 #### Status
 ACCEPTED

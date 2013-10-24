@@ -1,17 +1,16 @@
-Ceratosporium indica V.G. Rao & D. Rao SPECIES
-=======
+# Ceratosporium indicum V.G. Rao & D. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 39(6): 142 (1970)
 
 #### Original name
-Ceratosporium indica V.G. Rao & D. Rao
+Ceratosporium indicum V.G. Rao & D. Rao
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psora saviczii (Tomin) Follmann & A. Crespo SPECIES
-=======
+# Psora saviczii (Tomin) Follmann & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

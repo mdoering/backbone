@@ -1,14 +1,13 @@
-Polyporus leucospongia Cooke, 1883 SPECIES
-=======
+# Tyromyces leucospongia (Cooke & Harkn.) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 11(no. 59): 106 (1883)
+Annls mycol. 39(1): 52 (1941)
 
 #### Original name
 Polyporus leucospongia Cooke, 1883

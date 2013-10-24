@@ -1,5 +1,4 @@
-Ustilago holwayana Henn. SPECIES
-=======
+# Ustilago holwayana Henn. SPECIES
 
 #### Status
 ACCEPTED

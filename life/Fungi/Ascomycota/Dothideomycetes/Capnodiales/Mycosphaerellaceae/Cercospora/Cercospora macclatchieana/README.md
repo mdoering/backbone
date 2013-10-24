@@ -1,5 +1,4 @@
-Cercospora macclatchieana Sacc. & P. Syd. SPECIES
-=======
+# Cercospora macclatchieana Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

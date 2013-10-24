@@ -1,14 +1,13 @@
-Polyporus capensis Lloyd, 1916 SPECIES
-=======
+# Ganoderma capense (Lloyd) Teng, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5 (Letter 63) 10 (1916)
+Chung-kuo Ti Chen-chun, [Fungi of China] 760 (1963)
 
 #### Original name
 Polyporus capensis Lloyd, 1916

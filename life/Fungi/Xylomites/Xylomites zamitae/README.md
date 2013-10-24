@@ -1,5 +1,4 @@
-Xylomites zamitae Göpp. SPECIES
-=======
+# Xylomites zamitae Göpp. SPECIES
 
 #### Status
 ACCEPTED

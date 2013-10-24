@@ -1,5 +1,4 @@
-Conradidium plicatum Stockmans & Willière, 1969 SPECIES
-=======
+# Conradidium plicatum Stockmans & Willière, 1969 SPECIES
 
 #### Status
 ACCEPTED

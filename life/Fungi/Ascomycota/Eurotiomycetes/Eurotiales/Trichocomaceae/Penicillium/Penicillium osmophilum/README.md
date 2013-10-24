@@ -1,8 +1,7 @@
-Eupenicillium osmophilum Stolk & Veenb.-Rijks, 1974 SPECIES
-=======
+# Penicillium osmophilum Stolk & Veenb.-Rijks, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Antonie van Leeuwenhoek 40(1): 1 (1974)
 
 #### Original name
-Eupenicillium osmophilum Stolk & Veenb.-Rijks, 1974
+Penicillium osmophilum Stolk & Veenb.-Rijks, 1974
 
 ### Remarks
 null

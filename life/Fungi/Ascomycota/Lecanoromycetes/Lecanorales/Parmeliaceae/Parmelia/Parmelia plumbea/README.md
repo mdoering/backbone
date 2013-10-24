@@ -1,5 +1,4 @@
-Parmelia plumbea SPECIES
-=======
+# Parmelia plumbea SPECIES
 
 #### Status
 ACCEPTED

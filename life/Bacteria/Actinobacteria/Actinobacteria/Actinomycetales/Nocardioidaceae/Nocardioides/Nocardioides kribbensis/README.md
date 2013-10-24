@@ -1,5 +1,4 @@
-Nocardioides kribbensis Yoon et al., 2005 SPECIES
-=======
+# Nocardioides kribbensis Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wardomycopsis inopinata Udagawa & Furuya, 1978 SPECIES
-=======
+# Wardomycopsis inopinata Udagawa & Furuya, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ellipsolagena inversa Wiesner, 1931 SPECIES
-=======
+# Ellipsolagena inversa Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Usnea cavernosa var. cavernosa VARIETY
-=======
+# Usnea cavernosa Tuck. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lake Superior 171 (1850)
 
 #### Original name
-Usnea cavernosa var. cavernosa
+Usnea cavernosa Tuck.
 
 ### Remarks
 null

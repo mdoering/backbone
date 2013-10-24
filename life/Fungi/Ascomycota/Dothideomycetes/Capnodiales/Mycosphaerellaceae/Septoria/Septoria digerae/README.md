@@ -1,5 +1,4 @@
-Septoria digerae R.C. Rajak SPECIES
-=======
+# Septoria digerae R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

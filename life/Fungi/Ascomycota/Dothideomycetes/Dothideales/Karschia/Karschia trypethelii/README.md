@@ -1,5 +1,4 @@
-Karschia trypethelii (Tuck.) Keissl. SPECIES
-=======
+# Karschia trypethelii (Tuck.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

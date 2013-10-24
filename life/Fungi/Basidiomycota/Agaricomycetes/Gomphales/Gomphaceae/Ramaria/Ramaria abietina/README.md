@@ -1,17 +1,16 @@
-Ramaria ochraceovirens var. ochraceovirens VARIETY
-=======
+# Ramaria abietina (Pers.) Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Niederl. Homob. Aphyll. 2: 112 (1933)
+Fl. mycol. France (Paris) 467 (1888)
 
 #### Original name
-Ramaria ochraceovirens var. ochraceovirens
+Clavaria abietina Pers., 1794
 
 ### Remarks
 null

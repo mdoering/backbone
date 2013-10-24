@@ -1,5 +1,4 @@
-Dothiorella pseudodiblasta Ferd. & Winge SPECIES
-=======
+# Dothiorella pseudodiblasta Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

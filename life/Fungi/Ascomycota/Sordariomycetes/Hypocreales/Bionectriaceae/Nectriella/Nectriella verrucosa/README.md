@@ -1,5 +1,4 @@
-Nectriella verrucosa Urries SPECIES
-=======
+# Nectriella verrucosa Urries SPECIES
 
 #### Status
 ACCEPTED

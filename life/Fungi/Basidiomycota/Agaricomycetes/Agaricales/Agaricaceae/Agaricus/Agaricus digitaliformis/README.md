@@ -1,5 +1,4 @@
-Agaricus digitaliformis Bull. SPECIES
-=======
+# Agaricus digitaliformis Bull. SPECIES
 
 #### Status
 ACCEPTED

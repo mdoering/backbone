@@ -1,5 +1,4 @@
-Marasmius congolensis (Beeli) Singer SPECIES
-=======
+# Marasmius congolensis (Beeli) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pattonella Ray & Idnani, 1944 GENUS
-=======
+# Babesia Starcovivi, 1893 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Indian J. vet. Sci. , 13, 267.
+Zbl. Bakt. , (1) 14, 2, 8.
 
 #### Original name
 null

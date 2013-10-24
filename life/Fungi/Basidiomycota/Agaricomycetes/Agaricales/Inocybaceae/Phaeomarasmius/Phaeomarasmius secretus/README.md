@@ -1,5 +1,4 @@
-Phaeomarasmius secretus E. Horak SPECIES
-=======
+# Phaeomarasmius secretus E. Horak SPECIES
 
 #### Status
 ACCEPTED

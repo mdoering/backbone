@@ -1,5 +1,4 @@
-Erwinia papayae Gardan et al., 2004 SPECIES
-=======
+# Erwinia papayae Gardan et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

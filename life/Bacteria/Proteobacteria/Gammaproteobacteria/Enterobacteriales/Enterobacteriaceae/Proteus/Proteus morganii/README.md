@@ -1,11 +1,10 @@
-Salmonella morgani (Winslow et al., 1919) Castellani & Chalmers, 1919 SPECIES
-=======
+# Proteus morganii (Winslow et al., 1919) Yale, 1939 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

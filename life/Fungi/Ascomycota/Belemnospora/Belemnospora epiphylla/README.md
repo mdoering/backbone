@@ -1,5 +1,4 @@
-Belemnospora epiphylla P.M. Kirk, 1981 SPECIES
-=======
+# Belemnospora epiphylla P.M. Kirk, 1981 SPECIES
 
 #### Status
 ACCEPTED

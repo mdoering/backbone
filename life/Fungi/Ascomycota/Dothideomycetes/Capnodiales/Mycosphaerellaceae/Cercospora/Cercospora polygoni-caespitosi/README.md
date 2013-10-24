@@ -1,5 +1,4 @@
-Cercospora polygoni-caespitosi Sawada SPECIES
-=======
+# Cercospora polygoni-caespitosi Sawada SPECIES
 
 #### Status
 ACCEPTED

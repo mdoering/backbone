@@ -1,5 +1,4 @@
-Botrytis capsularum Bres. & Vestergr. SPECIES
-=======
+# Botrytis capsularum Bres. & Vestergr. SPECIES
 
 #### Status
 ACCEPTED

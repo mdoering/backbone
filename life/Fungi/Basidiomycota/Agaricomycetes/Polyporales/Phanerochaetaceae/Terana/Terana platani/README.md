@@ -1,5 +1,4 @@
-Terana platani (Ces.) Kuntze SPECIES
-=======
+# Terana platani (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutstroemia stellariae anon. SPECIES
-=======
+# Rutstroemia stellariae anon. SPECIES
 
 #### Status
 ACCEPTED

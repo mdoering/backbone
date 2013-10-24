@@ -1,5 +1,4 @@
-Sporidesmium spegazzinii Cabello, Cazau & Aramb. SPECIES
-=======
+# Sporidesmium spegazzinii Cabello, Cazau & Aramb. SPECIES
 
 #### Status
 ACCEPTED

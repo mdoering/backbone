@@ -1,5 +1,4 @@
-Parmelia testacea Stirt. SPECIES
-=======
+# Parmelia testacea Stirt. SPECIES
 
 #### Status
 ACCEPTED

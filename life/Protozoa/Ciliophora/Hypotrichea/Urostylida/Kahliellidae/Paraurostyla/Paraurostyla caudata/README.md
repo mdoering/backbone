@@ -1,5 +1,4 @@
-Paraurostyla caudata SPECIES
-=======
+# Paraurostyla caudata SPECIES
 
 #### Status
 ACCEPTED

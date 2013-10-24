@@ -1,5 +1,4 @@
-Agaricus noctilucus Berk. SPECIES
-=======
+# Agaricus noctilucus Berk. SPECIES
 
 #### Status
 ACCEPTED

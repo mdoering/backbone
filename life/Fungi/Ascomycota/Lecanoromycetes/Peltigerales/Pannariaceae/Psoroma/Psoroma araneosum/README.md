@@ -1,5 +1,4 @@
-Psoroma araneosum (C. Bab.) Nyl. SPECIES
-=======
+# Psoroma araneosum (C. Bab.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

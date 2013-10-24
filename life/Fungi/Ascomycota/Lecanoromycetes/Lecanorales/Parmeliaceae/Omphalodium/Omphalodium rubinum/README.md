@@ -1,5 +1,4 @@
-Omphalodium rubinum (Vill.) Minx SPECIES
-=======
+# Omphalodium rubinum (Vill.) Minx SPECIES
 
 #### Status
 ACCEPTED

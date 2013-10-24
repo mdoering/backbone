@@ -1,5 +1,4 @@
-Simocybe pallidissima (Singer) Singer SPECIES
-=======
+# Simocybe pallidissima (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

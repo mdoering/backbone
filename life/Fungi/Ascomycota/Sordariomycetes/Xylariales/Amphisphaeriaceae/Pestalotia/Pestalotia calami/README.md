@@ -1,17 +1,16 @@
-Pestalozzia calami Sawada SPECIES
-=======
+# Pestalotia calami Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Taihoku Soc. Agric. 7: 115 (1942)
 
 #### Original name
-Pestalozzia calami Sawada
+Pestalotia calami Sawada
 
 ### Remarks
 null

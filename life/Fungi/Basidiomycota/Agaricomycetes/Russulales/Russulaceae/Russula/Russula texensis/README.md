@@ -1,5 +1,4 @@
-Russula texensis Buyck, Adamcík & D.P. Lewis SPECIES
-=======
+# Russula texensis Buyck, Adamcík & D.P. Lewis SPECIES
 
 #### Status
 ACCEPTED

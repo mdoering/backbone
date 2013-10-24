@@ -1,5 +1,4 @@
-Heppia egentissima (Hue) Zahlbr. SPECIES
-=======
+# Heppia egentissima (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

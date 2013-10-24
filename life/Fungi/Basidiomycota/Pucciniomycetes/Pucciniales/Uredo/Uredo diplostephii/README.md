@@ -1,5 +1,4 @@
-Uredo diplostephii F. Kern & Thurst. SPECIES
-=======
+# Uredo diplostephii F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

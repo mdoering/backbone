@@ -1,5 +1,4 @@
-Halotthia Kohlm. GENUS
-=======
+# Halotthia Kohlm. GENUS
 
 #### Status
 ACCEPTED

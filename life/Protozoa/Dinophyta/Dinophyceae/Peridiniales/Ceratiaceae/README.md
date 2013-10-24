@@ -1,11 +1,10 @@
-Ceratiidae FAMILY
-=======
+# Ceratiaceae Lindemann, 1928 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

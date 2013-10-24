@@ -1,5 +1,4 @@
-Pyrenula rimicola Müll. Arg. SPECIES
-=======
+# Pyrenula rimicola Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

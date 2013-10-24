@@ -1,5 +1,4 @@
-Borgertella Dumitrica, 1973 GENUS
-=======
+# Borgertella Dumitrica, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gavelinopsis bartensteini Hofker, 1956 SPECIES
-=======
+# Gavelinopsis bartensteini Hofker, 1956 SPECIES
 
 #### Status
 ACCEPTED

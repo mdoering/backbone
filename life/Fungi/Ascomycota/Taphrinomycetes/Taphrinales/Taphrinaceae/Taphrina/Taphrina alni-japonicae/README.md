@@ -1,5 +1,4 @@
-Taphrina alni-japonicae Nishida SPECIES
-=======
+# Taphrina alni-japonicae Nishida SPECIES
 
 #### Status
 ACCEPTED

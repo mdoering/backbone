@@ -1,5 +1,4 @@
-Scutellinia hyalohirsuta W.Y. Zhuang SPECIES
-=======
+# Scutellinia hyalohirsuta W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena aleuriosma J. Favre SPECIES
-=======
+# Mycena aleuriosma J. Favre SPECIES
 
 #### Status
 ACCEPTED

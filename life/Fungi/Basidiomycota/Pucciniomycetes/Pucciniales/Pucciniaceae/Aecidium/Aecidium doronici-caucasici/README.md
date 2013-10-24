@@ -1,5 +1,4 @@
-Aecidium doronici-caucasici Magnus SPECIES
-=======
+# Aecidium doronici-caucasici Magnus SPECIES
 
 #### Status
 ACCEPTED

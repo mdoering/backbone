@@ -1,5 +1,4 @@
-Excipulina graminum P. Karst. SPECIES
-=======
+# Excipulina graminum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

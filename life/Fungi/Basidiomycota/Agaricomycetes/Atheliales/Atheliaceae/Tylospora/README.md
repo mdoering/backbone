@@ -1,5 +1,4 @@
-Tylospora Donk, 1960 GENUS
-=======
+# Tylospora Donk, 1960 GENUS
 
 #### Status
 ACCEPTED

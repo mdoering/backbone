@@ -1,5 +1,4 @@
-Diacheopsis nannengae G. Moreno, Illana & Heykoop, 1989 SPECIES
-=======
+# Diacheopsis nannengae G. Moreno, Illana & Heykoop, 1989 SPECIES
 
 #### Status
 ACCEPTED

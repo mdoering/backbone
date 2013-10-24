@@ -1,5 +1,4 @@
-Dictyosiphon hispidus SPECIES
-=======
+# Dictyosiphon hispidus SPECIES
 
 #### Status
 ACCEPTED

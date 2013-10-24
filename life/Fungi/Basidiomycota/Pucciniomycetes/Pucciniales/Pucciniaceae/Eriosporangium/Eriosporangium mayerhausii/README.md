@@ -1,5 +1,4 @@
-Eriosporangium mayerhausii (Mayor) Syd. SPECIES
-=======
+# Eriosporangium mayerhausii (Mayor) Syd. SPECIES
 
 #### Status
 ACCEPTED

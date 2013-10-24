@@ -1,5 +1,4 @@
-Clavaria misella Berk. & M.A. Curtis SPECIES
-=======
+# Clavaria misella Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

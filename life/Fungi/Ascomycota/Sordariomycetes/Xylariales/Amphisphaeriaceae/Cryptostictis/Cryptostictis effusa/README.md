@@ -1,5 +1,4 @@
-Cryptostictis effusa (Vestergr.) Guba SPECIES
-=======
+# Cryptostictis effusa (Vestergr.) Guba SPECIES
 
 #### Status
 ACCEPTED

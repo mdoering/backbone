@@ -1,5 +1,4 @@
-Clavulina brunneocinerea R.H. Petersen, 1988 SPECIES
-=======
+# Clavulina brunneocinerea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corethromyces sugiyamae A. Pathak & Mukerji SPECIES
-=======
+# Corethromyces sugiyamae A. Pathak & Mukerji SPECIES
 
 #### Status
 ACCEPTED

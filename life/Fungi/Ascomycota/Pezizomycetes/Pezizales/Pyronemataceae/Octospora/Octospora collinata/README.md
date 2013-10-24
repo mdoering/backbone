@@ -1,5 +1,4 @@
-Octospora collinata K.B. Khare SPECIES
-=======
+# Octospora collinata K.B. Khare SPECIES
 
 #### Status
 ACCEPTED

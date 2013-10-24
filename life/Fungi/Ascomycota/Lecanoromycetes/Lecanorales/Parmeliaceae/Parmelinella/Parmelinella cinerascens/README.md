@@ -1,5 +1,4 @@
-Parmelinella cinerascens (Lynge) Benatti & Marcelli SPECIES
-=======
+# Parmelinella cinerascens (Lynge) Benatti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

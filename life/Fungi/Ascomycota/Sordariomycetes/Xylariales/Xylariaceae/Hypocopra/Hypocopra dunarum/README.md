@@ -1,5 +1,4 @@
-Hypocopra dunarum Mouton SPECIES
-=======
+# Hypocopra dunarum Mouton SPECIES
 
 #### Status
 ACCEPTED

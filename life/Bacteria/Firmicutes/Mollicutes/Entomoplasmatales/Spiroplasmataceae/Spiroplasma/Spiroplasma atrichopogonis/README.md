@@ -1,5 +1,4 @@
-Spiroplasma atrichopogonis Koerber et al., 2005 SPECIES
-=======
+# Spiroplasma atrichopogonis Koerber et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia persicae Died. SPECIES
-=======
+# Botryodiplodia persicae Died. SPECIES
 
 #### Status
 ACCEPTED

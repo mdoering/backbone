@@ -1,5 +1,4 @@
-Zygosaccharomyces soja Takah. & Yukawa SPECIES
-=======
+# Zygosaccharomyces soja Takah. & Yukawa SPECIES
 
 #### Status
 ACCEPTED

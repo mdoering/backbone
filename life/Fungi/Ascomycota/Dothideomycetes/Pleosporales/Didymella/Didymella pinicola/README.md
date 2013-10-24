@@ -1,5 +1,4 @@
-Didymella pinicola (Hepp) Vain. SPECIES
-=======
+# Didymella pinicola (Hepp) Vain. SPECIES
 
 #### Status
 ACCEPTED

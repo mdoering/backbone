@@ -1,5 +1,4 @@
-Lecanora pertenuescens Nyl. SPECIES
-=======
+# Lecanora pertenuescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramulispora bromi (R. Sprague) R. Sprague SPECIES
-=======
+# Ramulispora bromi (R. Sprague) R. Sprague SPECIES
 
 #### Status
 ACCEPTED

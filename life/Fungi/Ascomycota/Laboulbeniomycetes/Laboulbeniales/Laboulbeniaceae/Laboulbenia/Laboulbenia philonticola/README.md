@@ -1,5 +1,4 @@
-Laboulbenia philonticola Speg. SPECIES
-=======
+# Laboulbenia philonticola Speg. SPECIES
 
 #### Status
 ACCEPTED

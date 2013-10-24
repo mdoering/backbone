@@ -1,5 +1,4 @@
-Verrucaria virescens (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria virescens (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

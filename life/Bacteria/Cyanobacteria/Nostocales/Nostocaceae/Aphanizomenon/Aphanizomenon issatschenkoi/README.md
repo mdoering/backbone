@@ -1,5 +1,4 @@
-Aphanizomenon issatschenkoi (Usacev) Proshkina-Lavrenko SPECIES
-=======
+# Aphanizomenon issatschenkoi (Usacev) Proshkina-Lavrenko SPECIES
 
 #### Status
 ACCEPTED

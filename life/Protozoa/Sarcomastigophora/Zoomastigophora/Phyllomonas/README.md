@@ -1,5 +1,4 @@
-Phyllomonas Klebs, 1892 GENUS
-=======
+# Phyllomonas Klebs, 1892 GENUS
 
 #### Status
 ACCEPTED

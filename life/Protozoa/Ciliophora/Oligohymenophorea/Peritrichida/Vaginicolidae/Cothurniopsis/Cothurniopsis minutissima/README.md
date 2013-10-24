@@ -1,5 +1,4 @@
-Cothurniopsis minutissima SPECIES
-=======
+# Cothurniopsis minutissima SPECIES
 
 #### Status
 ACCEPTED

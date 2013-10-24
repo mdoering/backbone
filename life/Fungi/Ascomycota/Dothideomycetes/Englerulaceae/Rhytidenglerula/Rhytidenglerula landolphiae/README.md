@@ -1,5 +1,4 @@
-Rhytidenglerula landolphiae (Hansf.) Arx SPECIES
-=======
+# Rhytidenglerula landolphiae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

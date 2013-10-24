@@ -1,5 +1,4 @@
-Domasia angusta N. Umnova, 1975 SPECIES
-=======
+# Domasia angusta N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

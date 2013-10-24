@@ -1,5 +1,4 @@
-Ovulariopsis persicina Speschnew SPECIES
-=======
+# Ovulariopsis persicina Speschnew SPECIES
 
 #### Status
 ACCEPTED

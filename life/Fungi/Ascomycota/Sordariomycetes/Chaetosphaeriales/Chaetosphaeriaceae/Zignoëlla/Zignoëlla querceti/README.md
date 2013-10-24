@@ -1,5 +1,4 @@
-Zignoëlla querceti Cooke & Massee SPECIES
-=======
+# Zignoëlla querceti Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

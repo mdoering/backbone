@@ -1,5 +1,4 @@
-Parmelia canaliculata Lynge SPECIES
-=======
+# Parmelia canaliculata Lynge SPECIES
 
 #### Status
 ACCEPTED

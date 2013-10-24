@@ -1,5 +1,4 @@
-Gymnopus herinkii Antonín & Noordel. SPECIES
-=======
+# Gymnopus herinkii Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

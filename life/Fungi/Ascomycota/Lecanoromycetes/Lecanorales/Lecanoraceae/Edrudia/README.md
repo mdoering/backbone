@@ -1,5 +1,4 @@
-Edrudia W.P. Jord. GENUS
-=======
+# Edrudia W.P. Jord. GENUS
 
 #### Status
 ACCEPTED

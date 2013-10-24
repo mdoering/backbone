@@ -1,5 +1,4 @@
-Sphaceliopsis GENUS
-=======
+# Sphaceliopsis GENUS
 
 #### Status
 ACCEPTED

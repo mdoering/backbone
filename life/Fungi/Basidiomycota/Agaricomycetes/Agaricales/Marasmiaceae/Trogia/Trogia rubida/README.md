@@ -1,5 +1,4 @@
-Trogia rubida (Berk. & Broome) Corner SPECIES
-=======
+# Trogia rubida (Berk. & Broome) Corner SPECIES
 
 #### Status
 ACCEPTED

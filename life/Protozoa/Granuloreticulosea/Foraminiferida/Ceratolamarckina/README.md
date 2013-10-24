@@ -1,5 +1,4 @@
-Ceratolamarckina Troelsen, 1954 GENUS
-=======
+# Ceratolamarckina Troelsen, 1954 GENUS
 
 #### Status
 ACCEPTED

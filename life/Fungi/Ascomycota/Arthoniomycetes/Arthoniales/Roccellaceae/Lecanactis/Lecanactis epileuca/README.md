@@ -1,5 +1,4 @@
-Lecanactis epileuca (Nyl.) Tehler SPECIES
-=======
+# Lecanactis epileuca (Nyl.) Tehler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohelotium dispersellum (P. Karst.) Sacc. SPECIES
-=======
+# Pseudohelotium dispersellum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caspiaza Afanasjeva, 1986 GENUS
-=======
+# Caspiaza Afanasjeva, 1986 GENUS
 
 #### Status
 ACCEPTED

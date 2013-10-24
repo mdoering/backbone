@@ -1,5 +1,4 @@
-Diaporthe ligustri Allesch. SPECIES
-=======
+# Diaporthe ligustri Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crithionina Goës, 1894 GENUS
-=======
+# Crithionina Goës, 1894 GENUS
 
 #### Status
 ACCEPTED

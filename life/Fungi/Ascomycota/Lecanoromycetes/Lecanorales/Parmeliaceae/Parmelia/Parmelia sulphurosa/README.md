@@ -1,5 +1,4 @@
-Parmelia sulphurosa (Tuck.) Fink SPECIES
-=======
+# Parmelia sulphurosa (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

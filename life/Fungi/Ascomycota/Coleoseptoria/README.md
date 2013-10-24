@@ -1,5 +1,4 @@
-Coleoseptoria Petr. GENUS
-=======
+# Coleoseptoria Petr. GENUS
 
 #### Status
 ACCEPTED

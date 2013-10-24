@@ -1,5 +1,4 @@
-Spirotrichosomidae FAMILY
-=======
+# Spirotrichosomidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthopsis catenata Oorschot, de Hoog & G. Schüler, 1982 SPECIES
-=======
+# Anthopsis catenata Oorschot, de Hoog & G. Schüler, 1982 SPECIES
 
 #### Status
 ACCEPTED

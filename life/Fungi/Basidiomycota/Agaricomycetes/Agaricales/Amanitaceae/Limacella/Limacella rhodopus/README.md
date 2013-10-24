@@ -1,5 +1,4 @@
-Limacella rhodopus (Bres.) Pegler SPECIES
-=======
+# Limacella rhodopus (Bres.) Pegler SPECIES
 
 #### Status
 ACCEPTED

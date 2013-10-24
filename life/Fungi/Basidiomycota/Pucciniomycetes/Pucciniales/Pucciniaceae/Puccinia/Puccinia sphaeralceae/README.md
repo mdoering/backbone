@@ -1,5 +1,4 @@
-Puccinia sphaeralceae Gäum. SPECIES
-=======
+# Puccinia sphaeralceae Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora polytropoides Zahlbr. SPECIES
-=======
+# Lecanora polytropoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

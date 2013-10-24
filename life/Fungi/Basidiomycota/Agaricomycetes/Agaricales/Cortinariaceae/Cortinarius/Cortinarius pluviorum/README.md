@@ -1,5 +1,4 @@
-Cortinarius pluviorum (Jul. Schäff.) M.M. Moser SPECIES
-=======
+# Cortinarius pluviorum (Jul. Schäff.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

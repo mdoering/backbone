@@ -1,5 +1,4 @@
-Balneola alkaliphila Urios, Intertaglia, Lesongeur & Lebaron, 2008 SPECIES
-=======
+# Balneola alkaliphila Urios, Intertaglia, Lesongeur & Lebaron, 2008 SPECIES
 
 #### Status
 ACCEPTED

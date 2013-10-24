@@ -1,5 +1,4 @@
-Sphaerosporium crassum B. Sutton SPECIES
-=======
+# Sphaerosporium crassum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

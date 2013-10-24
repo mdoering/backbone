@@ -1,5 +1,4 @@
-Dothidea guatteriae Berk. SPECIES
-=======
+# Dothidea guatteriae Berk. SPECIES
 
 #### Status
 ACCEPTED

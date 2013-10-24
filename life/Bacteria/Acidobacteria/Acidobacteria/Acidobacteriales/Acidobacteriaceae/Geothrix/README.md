@@ -1,5 +1,4 @@
-Geothrix Coates et al., 1999 GENUS
-=======
+# Geothrix Coates et al., 1999 GENUS
 
 #### Status
 ACCEPTED

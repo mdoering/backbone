@@ -1,5 +1,4 @@
-Leveillula picridis (Castagne) Durrieu & Rostam SPECIES
-=======
+# Leveillula picridis (Castagne) Durrieu & Rostam SPECIES
 
 #### Status
 ACCEPTED

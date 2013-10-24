@@ -1,5 +1,4 @@
-Trichotheliaceae Bitter & F. Schill. FAMILY
-=======
+# Trichotheliaceae Bitter & F. Schill. FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Completoria complens Lohde, 1874 SPECIES
-=======
+# Completoria complens Lohde, 1874 SPECIES
 
 #### Status
 ACCEPTED

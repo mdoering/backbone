@@ -1,5 +1,4 @@
-Octomyces parasiticus H.C. Evans & Minter SPECIES
-=======
+# Octomyces parasiticus H.C. Evans & Minter SPECIES
 
 #### Status
 ACCEPTED

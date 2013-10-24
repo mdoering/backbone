@@ -1,5 +1,4 @@
-Vararia parmastoi Boidin & Lanq., 1984 SPECIES
-=======
+# Vararia parmastoi Boidin & Lanq., 1984 SPECIES
 
 #### Status
 ACCEPTED

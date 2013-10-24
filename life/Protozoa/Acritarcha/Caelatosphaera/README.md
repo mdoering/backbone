@@ -1,5 +1,4 @@
-Caelatosphaera Wicander, Playford & Robertson, 1999 GENUS
-=======
+# Caelatosphaera Wicander, Playford & Robertson, 1999 GENUS
 
 #### Status
 ACCEPTED

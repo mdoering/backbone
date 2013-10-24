@@ -1,5 +1,4 @@
-Lecanora guadeloupensis B. de Lesd. SPECIES
-=======
+# Lecanora guadeloupensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

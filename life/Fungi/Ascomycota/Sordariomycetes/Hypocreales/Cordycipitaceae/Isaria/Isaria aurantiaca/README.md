@@ -1,5 +1,4 @@
-Isaria aurantiaca Berk. & Broome SPECIES
-=======
+# Isaria aurantiaca Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

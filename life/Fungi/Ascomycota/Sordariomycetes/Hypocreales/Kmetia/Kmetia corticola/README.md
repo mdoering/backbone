@@ -1,5 +1,4 @@
-Kmetia corticola W.B. Cooke SPECIES
-=======
+# Kmetia corticola W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

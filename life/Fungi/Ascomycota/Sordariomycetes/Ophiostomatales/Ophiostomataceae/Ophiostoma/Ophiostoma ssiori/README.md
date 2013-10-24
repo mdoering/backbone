@@ -1,5 +1,4 @@
-Ophiostoma ssiori Masuya, Kubono & Ichihara SPECIES
-=======
+# Ophiostoma ssiori Masuya, Kubono & Ichihara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarophorum GENUS
-=======
+# Sarophorum GENUS
 
 #### Status
 ACCEPTED

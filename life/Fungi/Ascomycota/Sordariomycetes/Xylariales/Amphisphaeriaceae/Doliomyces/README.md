@@ -1,5 +1,4 @@
-Doliomyces Steyaert GENUS
-=======
+# Doliomyces Steyaert GENUS
 
 #### Status
 ACCEPTED

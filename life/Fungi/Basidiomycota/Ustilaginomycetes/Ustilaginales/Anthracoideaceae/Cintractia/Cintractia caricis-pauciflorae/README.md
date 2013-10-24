@@ -1,5 +1,4 @@
-Cintractia caricis-pauciflorae Lehtola SPECIES
-=======
+# Cintractia caricis-pauciflorae Lehtola SPECIES
 
 #### Status
 ACCEPTED

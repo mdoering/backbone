@@ -1,5 +1,4 @@
-Lecidea malesiana Hertel SPECIES
-=======
+# Lecidea malesiana Hertel SPECIES
 
 #### Status
 ACCEPTED

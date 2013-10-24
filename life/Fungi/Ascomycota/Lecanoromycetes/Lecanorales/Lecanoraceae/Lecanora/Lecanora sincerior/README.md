@@ -1,5 +1,4 @@
-Lecanora sincerior (Nyl.) Nyl. SPECIES
-=======
+# Lecanora sincerior (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

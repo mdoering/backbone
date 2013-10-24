@@ -1,14 +1,13 @@
-Sphaerella aronici (Volkart) Sacc. & Trotter, 1913 SPECIES
-=======
+# Mycosphaerella aronici Volkart, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 22: 134 (1913)
+Ber. dt. bot. Ges. 21: 480 (1903)
 
 #### Original name
 Mycosphaerella aronici Volkart, 1903

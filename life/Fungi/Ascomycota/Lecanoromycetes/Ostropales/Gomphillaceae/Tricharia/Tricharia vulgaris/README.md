@@ -1,5 +1,4 @@
-Tricharia vulgaris (Müll. Arg.) R. Sant. SPECIES
-=======
+# Tricharia vulgaris (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

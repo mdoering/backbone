@@ -1,5 +1,4 @@
-Lecidea hassei Zahlbr. SPECIES
-=======
+# Lecidea hassei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

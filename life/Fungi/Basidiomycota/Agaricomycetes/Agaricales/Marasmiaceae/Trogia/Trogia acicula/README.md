@@ -1,5 +1,4 @@
-Trogia acicula (Fr.) Corner SPECIES
-=======
+# Trogia acicula (Fr.) Corner SPECIES
 
 #### Status
 ACCEPTED

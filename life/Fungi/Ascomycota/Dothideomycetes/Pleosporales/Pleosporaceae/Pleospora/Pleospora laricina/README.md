@@ -1,17 +1,16 @@
-Pleospora laricina var. nitida (Ellis & Everh.) Wehm. VARIETY
-=======
+# Pleospora laricina Rehm, 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 15: 95 (1952)
+Lloydia 15: 94 (1952)
 
 #### Original name
-Teichospora nitida Ellis & Everh.
+Pleospora laricina Rehm, 1882
 
 ### Remarks
 null

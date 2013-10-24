@@ -1,5 +1,4 @@
-Genistellospora tepidaria Lichtw., 1998 SPECIES
-=======
+# Genistellospora tepidaria Lichtw., 1998 SPECIES
 
 #### Status
 ACCEPTED

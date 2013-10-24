@@ -1,5 +1,4 @@
-Squamanita schreieri Imbach, 1946 SPECIES
-=======
+# Squamanita schreieri Imbach, 1946 SPECIES
 
 #### Status
 ACCEPTED

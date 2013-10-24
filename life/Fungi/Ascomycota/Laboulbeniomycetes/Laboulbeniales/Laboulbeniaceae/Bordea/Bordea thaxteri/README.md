@@ -1,5 +1,4 @@
-Bordea thaxteri R.K. Benj. SPECIES
-=======
+# Bordea thaxteri R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

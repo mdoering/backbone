@@ -1,5 +1,4 @@
-Parodiella tarapotensis Henn. SPECIES
-=======
+# Parodiella tarapotensis Henn. SPECIES
 
 #### Status
 ACCEPTED

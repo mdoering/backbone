@@ -1,5 +1,4 @@
-Stephodinium G.Deflandre GENUS
-=======
+# Stephodinium G.Deflandre GENUS
 
 #### Status
 ACCEPTED

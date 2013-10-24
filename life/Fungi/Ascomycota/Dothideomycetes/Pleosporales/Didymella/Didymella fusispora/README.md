@@ -1,5 +1,4 @@
-Didymella fusispora McAlpine SPECIES
-=======
+# Didymella fusispora McAlpine SPECIES
 
 #### Status
 ACCEPTED

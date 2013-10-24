@@ -1,5 +1,4 @@
-Tectitheca multispinula Yin Leiming in Chen Yunyuan et al., 1985 emend. Yin Leiming, 1986 SPECIES
-=======
+# Tectitheca multispinula Yin Leiming in Chen Yunyuan et al., 1985 emend. Yin Leiming, 1986 SPECIES
 
 #### Status
 ACCEPTED

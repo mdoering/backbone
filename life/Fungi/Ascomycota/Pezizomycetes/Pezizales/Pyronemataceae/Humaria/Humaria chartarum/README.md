@@ -1,5 +1,4 @@
-Humaria chartarum Quél. SPECIES
-=======
+# Humaria chartarum Quél. SPECIES
 
 #### Status
 ACCEPTED

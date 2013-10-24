@@ -1,5 +1,4 @@
-Endoxylina allantospora (Ellis & Everh.) Shoemaker & Egger SPECIES
-=======
+# Endoxylina allantospora (Ellis & Everh.) Shoemaker & Egger SPECIES
 
 #### Status
 ACCEPTED

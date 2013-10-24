@@ -1,5 +1,4 @@
-Tilletia intermedia Gassner SPECIES
-=======
+# Tilletia intermedia Gassner SPECIES
 
 #### Status
 ACCEPTED

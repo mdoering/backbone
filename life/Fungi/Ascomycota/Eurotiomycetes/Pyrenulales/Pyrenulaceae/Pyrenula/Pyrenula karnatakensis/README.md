@@ -1,5 +1,4 @@
-Pyrenula karnatakensis Upreti SPECIES
-=======
+# Pyrenula karnatakensis Upreti SPECIES
 
 #### Status
 ACCEPTED

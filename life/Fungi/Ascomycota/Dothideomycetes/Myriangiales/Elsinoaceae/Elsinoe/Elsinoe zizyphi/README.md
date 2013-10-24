@@ -1,5 +1,4 @@
-Elsinoe zizyphi Thirum. & Naras., 1970 SPECIES
-=======
+# Elsinoe zizyphi Thirum. & Naras., 1970 SPECIES
 
 #### Status
 ACCEPTED

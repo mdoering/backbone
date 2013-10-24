@@ -1,5 +1,4 @@
-Phakopsora Dietel GENUS
-=======
+# Phakopsora Dietel GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum ligustri Henn. SPECIES
-=======
+# Epicoccum ligustri Henn. SPECIES
 
 #### Status
 ACCEPTED

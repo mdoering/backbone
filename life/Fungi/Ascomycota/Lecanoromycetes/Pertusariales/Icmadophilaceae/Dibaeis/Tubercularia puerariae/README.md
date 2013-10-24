@@ -1,5 +1,4 @@
-Tubercularia puerariae Sawada SPECIES
-=======
+# Tubercularia puerariae Sawada SPECIES
 
 #### Status
 DOUBTFUL

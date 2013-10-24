@@ -1,5 +1,4 @@
-Globulina myristiformis (Williamson, 1858) SPECIES
-=======
+# Globulina myristiformis (Williamson, 1858) SPECIES
 
 #### Status
 ACCEPTED

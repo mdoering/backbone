@@ -1,5 +1,4 @@
-Phlyctaeniella polonica Petr., 1922 SPECIES
-=======
+# Phlyctaeniella polonica Petr., 1922 SPECIES
 
 #### Status
 ACCEPTED

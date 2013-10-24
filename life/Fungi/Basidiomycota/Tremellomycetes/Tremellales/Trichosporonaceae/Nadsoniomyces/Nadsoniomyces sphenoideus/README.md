@@ -1,17 +1,16 @@
-Nadsoniomyces sphenoides Kudryavtsev SPECIES
-=======
+# Nadsoniomyces sphenoideus Kudryavtsev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Dokl. Akad. Nauk SSSR, ser. A, 1932 (1932)
 
 #### Original name
-Nadsoniomyces sphenoides Kudryavtsev
+Nadsoniomyces sphenoideus Kudryavtsev
 
 ### Remarks
 null

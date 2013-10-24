@@ -1,5 +1,4 @@
-Sphaerosomatites Rothpletz, 1880 GENUS
-=======
+# Sphaerosomatites Rothpletz, 1880 GENUS
 
 #### Status
 ACCEPTED

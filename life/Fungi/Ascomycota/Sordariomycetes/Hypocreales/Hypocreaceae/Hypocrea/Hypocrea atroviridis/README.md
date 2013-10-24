@@ -1,5 +1,4 @@
-Hypocrea atroviridis Dodd, Lieckf. & Samuels, 2003 SPECIES
-=======
+# Hypocrea atroviridis Dodd, Lieckf. & Samuels, 2003 SPECIES
 
 #### Status
 ACCEPTED

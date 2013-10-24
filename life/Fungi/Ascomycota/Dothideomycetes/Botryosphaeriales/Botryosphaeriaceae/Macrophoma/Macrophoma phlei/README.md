@@ -1,5 +1,4 @@
-Macrophoma phlei Tehon & G.L. Stout, 1929 SPECIES
-=======
+# Macrophoma phlei Tehon & G.L. Stout, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium crataegi Pers. SPECIES
-=======
+# Aecidium crataegi Pers. SPECIES
 
 #### Status
 ACCEPTED

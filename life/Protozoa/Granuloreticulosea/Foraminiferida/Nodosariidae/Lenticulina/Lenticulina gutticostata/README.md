@@ -1,5 +1,4 @@
-Lenticulina gutticostata SPECIES
-=======
+# Lenticulina gutticostata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina malmeana Zahlbr. SPECIES
-=======
+# Rinodina malmeana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora penstemonis Ellis & Kellerm. SPECIES
-=======
+# Cercospora penstemonis Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

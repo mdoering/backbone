@@ -1,5 +1,4 @@
-Dematophora glomerata Viala SPECIES
-=======
+# Dematophora glomerata Viala SPECIES
 
 #### Status
 ACCEPTED

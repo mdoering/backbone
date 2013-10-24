@@ -1,5 +1,4 @@
-Armillaria hinnulea Kile & Watling, 1983 SPECIES
-=======
+# Armillaria hinnulea Kile & Watling, 1983 SPECIES
 
 #### Status
 ACCEPTED

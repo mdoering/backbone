@@ -1,5 +1,4 @@
-Fomes rugosus var. rugosus VARIETY
-=======
+# Fomes rugosus Nees SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fomes rugosus var. rugosus
+Fomes rugosus Nees
 
 ### Remarks
 null

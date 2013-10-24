@@ -1,5 +1,4 @@
-Mycosphaerella cuttsiae Sivan. & R.G. Shivas SPECIES
-=======
+# Mycosphaerella cuttsiae Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

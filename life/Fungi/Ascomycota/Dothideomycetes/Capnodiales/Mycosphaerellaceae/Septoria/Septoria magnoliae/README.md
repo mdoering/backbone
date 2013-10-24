@@ -1,5 +1,4 @@
-Septoria magnoliae Cooke, 1878 SPECIES
-=======
+# Septoria magnoliae Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella macropodii Petr., 1928 SPECIES
-=======
+# Didymella macropodii Petr., 1928 SPECIES
 
 #### Status
 ACCEPTED

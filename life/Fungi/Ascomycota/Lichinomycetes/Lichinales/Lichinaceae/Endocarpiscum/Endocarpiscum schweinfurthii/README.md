@@ -1,5 +1,4 @@
-Endocarpiscum schweinfurthii Müll. Arg. SPECIES
-=======
+# Endocarpiscum schweinfurthii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

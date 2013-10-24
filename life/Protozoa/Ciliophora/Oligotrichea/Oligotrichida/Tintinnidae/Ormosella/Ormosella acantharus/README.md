@@ -1,5 +1,4 @@
-Ormosella acantharus Kofoid & Campbell, 1929 SPECIES
-=======
+# Ormosella acantharus Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

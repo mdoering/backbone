@@ -1,5 +1,4 @@
-Cissococcomyces natalensis Brain, 1923 SPECIES
-=======
+# Cissococcomyces natalensis Brain, 1923 SPECIES
 
 #### Status
 ACCEPTED

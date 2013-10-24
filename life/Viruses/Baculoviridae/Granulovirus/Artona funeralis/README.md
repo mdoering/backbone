@@ -1,5 +1,4 @@
-Artona funeralis GV SPECIES
-=======
+# Artona funeralis GV SPECIES
 
 #### Status
 ACCEPTED

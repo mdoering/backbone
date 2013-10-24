@@ -1,5 +1,4 @@
-Psathyrella wilsonensis A.H. Sm. SPECIES
-=======
+# Psathyrella wilsonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

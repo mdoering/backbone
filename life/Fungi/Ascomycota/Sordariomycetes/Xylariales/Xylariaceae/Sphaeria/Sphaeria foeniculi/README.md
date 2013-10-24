@@ -1,5 +1,4 @@
-Sphaeria foeniculi Castagne SPECIES
-=======
+# Sphaeria foeniculi Castagne SPECIES
 
 #### Status
 ACCEPTED

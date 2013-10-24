@@ -1,17 +1,16 @@
-Laboulbenia indohi K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia indohii K. Sugiy. & T. Majewski SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 28(2): 130 (1987)
 
 #### Original name
-Laboulbenia indohi K. Sugiy. & T. Majewski
+Laboulbenia indohii K. Sugiy. & T. Majewski
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora chenopodii (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora chenopodii (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

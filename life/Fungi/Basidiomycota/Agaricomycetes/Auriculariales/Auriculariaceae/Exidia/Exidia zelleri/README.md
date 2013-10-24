@@ -1,5 +1,4 @@
-Exidia zelleri Lloyd SPECIES
-=======
+# Exidia zelleri Lloyd SPECIES
 
 #### Status
 ACCEPTED

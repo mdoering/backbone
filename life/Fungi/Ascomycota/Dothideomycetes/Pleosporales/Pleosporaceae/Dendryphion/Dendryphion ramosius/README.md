@@ -1,5 +1,4 @@
-Dendryphion ramosius Sacc. SPECIES
-=======
+# Dendryphion ramosius Sacc. SPECIES
 
 #### Status
 ACCEPTED

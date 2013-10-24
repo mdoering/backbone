@@ -1,5 +1,4 @@
-Adelosina polygonia Schlumberger, 1890 SPECIES
-=======
+# Adelosina polygonia Schlumberger, 1890 SPECIES
 
 #### Status
 ACCEPTED

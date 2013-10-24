@@ -1,5 +1,4 @@
-Clitocybe tournefortiae Singer SPECIES
-=======
+# Clitocybe tournefortiae Singer SPECIES
 
 #### Status
 ACCEPTED

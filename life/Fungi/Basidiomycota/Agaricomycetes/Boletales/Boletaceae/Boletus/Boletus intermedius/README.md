@@ -1,5 +1,4 @@
-Boletus intermedius (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Boletus intermedius (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

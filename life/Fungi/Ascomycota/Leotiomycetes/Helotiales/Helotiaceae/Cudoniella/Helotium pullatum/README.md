@@ -1,5 +1,4 @@
-Helotium pullatum W.R. Gerard SPECIES
-=======
+# Helotium pullatum W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

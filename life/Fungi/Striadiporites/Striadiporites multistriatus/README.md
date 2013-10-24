@@ -1,5 +1,4 @@
-Striadiporites multistriatus (P. Ke & Z.Y. Shi ex S.Z. Sung, L. Cao, Z.H. Zhou, X. Guan & K.D. Wang) G. Norris SPECIES
-=======
+# Striadiporites multistriatus (P. Ke & Z.Y. Shi ex S.Z. Sung, L. Cao, Z.H. Zhou, X. Guan & K.D. Wang) G. Norris SPECIES
 
 #### Status
 ACCEPTED

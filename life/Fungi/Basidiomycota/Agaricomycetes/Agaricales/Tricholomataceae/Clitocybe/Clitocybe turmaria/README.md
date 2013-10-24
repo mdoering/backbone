@@ -1,5 +1,4 @@
-Clitocybe turmaria (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe turmaria (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

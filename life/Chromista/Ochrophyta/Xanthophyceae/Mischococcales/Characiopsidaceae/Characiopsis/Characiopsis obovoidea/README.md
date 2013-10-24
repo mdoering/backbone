@@ -1,5 +1,4 @@
-Characiopsis obovoidea Pascher SPECIES
-=======
+# Characiopsis obovoidea Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius catervatus Massee SPECIES
-=======
+# Marasmius catervatus Massee SPECIES
 
 #### Status
 ACCEPTED

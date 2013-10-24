@@ -1,5 +1,4 @@
-Chaetosphaerella pheostroma (Dur. & Mont.) E. Müller & C. Booth SPECIES
-=======
+# Chaetosphaerella pheostroma (Dur. & Mont.) E. Müller & C. Booth SPECIES
 
 #### Status
 ACCEPTED

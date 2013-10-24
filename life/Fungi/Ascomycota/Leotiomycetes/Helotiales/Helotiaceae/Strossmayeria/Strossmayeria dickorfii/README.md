@@ -1,5 +1,4 @@
-Strossmayeria dickorfii Iturr., 1990 SPECIES
-=======
+# Strossmayeria dickorfii Iturr., 1990 SPECIES
 
 #### Status
 ACCEPTED

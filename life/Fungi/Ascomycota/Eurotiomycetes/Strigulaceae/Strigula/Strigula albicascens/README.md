@@ -1,14 +1,13 @@
-Porina albicascens (Nyl.) Müll. Arg. SPECIES
-=======
+# Strigula albicascens (Nyl.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 154 (1995)
 
 #### Original name
 Verrucaria albicascens Nyl.

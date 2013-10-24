@@ -1,5 +1,4 @@
-Grandinia ceracea Velen. SPECIES
-=======
+# Grandinia ceracea Velen. SPECIES
 
 #### Status
 ACCEPTED

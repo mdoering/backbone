@@ -1,5 +1,4 @@
-Cladosporium calotropidis F. Stevens SPECIES
-=======
+# Cladosporium calotropidis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

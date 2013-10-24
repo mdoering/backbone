@@ -1,5 +1,4 @@
-Sphaeropezia euphorbiae Maire & Werner SPECIES
-=======
+# Sphaeropezia euphorbiae Maire & Werner SPECIES
 
 #### Status
 ACCEPTED

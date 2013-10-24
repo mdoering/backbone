@@ -1,5 +1,4 @@
-Diphratora spadicea (Flot.) SPECIES
-=======
+# Diphratora spadicea (Flot.) SPECIES
 
 #### Status
 ACCEPTED

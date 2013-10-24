@@ -1,5 +1,4 @@
-Ramularia eriogoni U. Braun SPECIES
-=======
+# Ramularia eriogoni U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia valesiaca Arx & E. Müll. SPECIES
-=======
+# Guignardia valesiaca Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

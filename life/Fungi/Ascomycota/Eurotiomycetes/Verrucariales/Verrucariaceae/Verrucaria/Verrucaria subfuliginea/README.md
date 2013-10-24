@@ -1,5 +1,4 @@
-Verrucaria subfuliginea Vain. SPECIES
-=======
+# Verrucaria subfuliginea Vain. SPECIES
 
 #### Status
 ACCEPTED

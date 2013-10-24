@@ -1,5 +1,4 @@
-Cribroperidinium cornutum R. J. Davey SPECIES
-=======
+# Cribroperidinium cornutum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

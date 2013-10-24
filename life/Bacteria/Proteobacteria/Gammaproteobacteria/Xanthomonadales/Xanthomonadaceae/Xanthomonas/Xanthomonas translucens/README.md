@@ -1,5 +1,4 @@
-Xanthomonas translucens (ex Jones et al., 1917) Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas translucens (ex Jones et al., 1917) Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

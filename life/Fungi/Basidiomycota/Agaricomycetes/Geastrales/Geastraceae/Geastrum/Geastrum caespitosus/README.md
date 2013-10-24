@@ -1,8 +1,7 @@
-Geaster caespitosus (Lloyd) Lloyd SPECIES
-=======
+# Geastrum caespitosus (Lloyd) Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

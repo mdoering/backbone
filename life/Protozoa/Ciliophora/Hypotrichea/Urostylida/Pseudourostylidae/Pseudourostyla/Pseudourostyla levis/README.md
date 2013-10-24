@@ -1,5 +1,4 @@
-Pseudourostyla levis Takahashi, 1973 SPECIES
-=======
+# Pseudourostyla levis Takahashi, 1973 SPECIES
 
 #### Status
 ACCEPTED

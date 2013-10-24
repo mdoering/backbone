@@ -1,5 +1,4 @@
-Exosporium megaspermum (Boedijn) Rifai, 1975 SPECIES
-=======
+# Exosporium megaspermum (Boedijn) Rifai, 1975 SPECIES
 
 #### Status
 ACCEPTED

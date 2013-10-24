@@ -1,5 +1,4 @@
-Irpex johnstonii Fr. SPECIES
-=======
+# Irpex johnstonii Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas dubia f. acuminata Deflandre FORM
-=======
+# Trachelomonas dubia (Svirenko) Deflandre SPECIES
 
 #### Status
 ACCEPTED

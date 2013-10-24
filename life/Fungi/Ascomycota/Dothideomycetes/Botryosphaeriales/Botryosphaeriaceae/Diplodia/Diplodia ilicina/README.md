@@ -1,5 +1,4 @@
-Diplodia ilicina Parisi SPECIES
-=======
+# Diplodia ilicina Parisi SPECIES
 
 #### Status
 ACCEPTED

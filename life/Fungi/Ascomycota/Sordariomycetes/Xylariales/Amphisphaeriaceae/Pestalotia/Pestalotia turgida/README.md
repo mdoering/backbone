@@ -1,5 +1,4 @@
-Pestalotia turgida G.F. Atk. SPECIES
-=======
+# Pestalotia turgida G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

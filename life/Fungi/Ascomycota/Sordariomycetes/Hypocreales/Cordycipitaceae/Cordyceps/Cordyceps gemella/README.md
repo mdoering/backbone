@@ -1,5 +1,4 @@
-Cordyceps gemella Moureau SPECIES
-=======
+# Cordyceps gemella Moureau SPECIES
 
 #### Status
 ACCEPTED

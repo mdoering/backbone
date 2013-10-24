@@ -1,14 +1,13 @@
-Chamaeceras micropilus (Reichardt) Kuntze, 1898 SPECIES
-=======
+# Crinipellis micropilus (Reichardt) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 456 (1898)
+Sydowia 15: 60 (1962)
 
 #### Original name
 Marasmius micropilus Reichardt, 1866

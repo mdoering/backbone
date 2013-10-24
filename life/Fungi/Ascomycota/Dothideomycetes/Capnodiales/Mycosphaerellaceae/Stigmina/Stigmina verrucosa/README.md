@@ -1,5 +1,4 @@
-Stigmina verrucosa (Morgan-Jones) B. Sutton SPECIES
-=======
+# Stigmina verrucosa (Morgan-Jones) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

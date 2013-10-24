@@ -1,5 +1,4 @@
-Solosympodiella rigididentata Matsush., 1975 SPECIES
-=======
+# Solosympodiella rigididentata Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria massalongiana Beltram. SPECIES
-=======
+# Pertusaria massalongiana Beltram. SPECIES
 
 #### Status
 ACCEPTED

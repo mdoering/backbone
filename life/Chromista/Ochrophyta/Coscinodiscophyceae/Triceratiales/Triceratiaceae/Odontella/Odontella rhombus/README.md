@@ -1,5 +1,4 @@
-Odontella rhombus f. trigona (Cleve ex Van Heurck) R. Ross FORM
-=======
+# Odontella rhombus (Ehrenb.) Kütz. SPECIES
 
 #### Status
 ACCEPTED

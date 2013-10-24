@@ -1,17 +1,16 @@
-Lophodermium thuyae Sawada SPECIES
-=======
+# Lophodermium sawadae Darker, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 45: 1433 (1967)
 
 #### Original name
-Lophodermium thuyae Sawada
+Lophodermium sawadae Darker, 1967
 
 ### Remarks
 null

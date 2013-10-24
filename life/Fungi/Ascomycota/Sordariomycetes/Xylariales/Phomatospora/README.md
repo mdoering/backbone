@@ -1,17 +1,16 @@
-Flageoletia subgen. Saccardo von Höhnel, 1916 GENUS
-=======
+# Phomatospora Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 4(no. 29): 22 (1875)
 
 #### Original name
-null
+Phomatospora Sacc.
 
 ### Remarks
 null

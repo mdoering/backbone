@@ -1,5 +1,4 @@
-Angularia viridula Samoilovich in Somoilovich & Mtchedlishvili, 1961 SPECIES
-=======
+# Angularia viridula Samoilovich in Somoilovich & Mtchedlishvili, 1961 SPECIES
 
 #### Status
 ACCEPTED

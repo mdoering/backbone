@@ -1,5 +1,4 @@
-Puccinia farameae F. Kern, Cif. & Thurst. SPECIES
-=======
+# Puccinia farameae F. Kern, Cif. & Thurst. SPECIES
 
 #### Status
 ACCEPTED

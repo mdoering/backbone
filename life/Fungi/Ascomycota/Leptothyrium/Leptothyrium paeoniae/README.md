@@ -1,5 +1,4 @@
-Leptothyrium paeoniae Voglino SPECIES
-=======
+# Leptothyrium paeoniae Voglino SPECIES
 
 #### Status
 ACCEPTED

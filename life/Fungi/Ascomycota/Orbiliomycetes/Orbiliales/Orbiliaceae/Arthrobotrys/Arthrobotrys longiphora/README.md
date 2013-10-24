@@ -1,5 +1,4 @@
-Arthrobotrys longiphora (Xing Z. Liu & B.S. Lu) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Arthrobotrys longiphora (Xing Z. Liu & B.S. Lu) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

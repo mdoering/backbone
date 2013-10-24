@@ -1,5 +1,4 @@
-Hysterium cookeanum W.R. Gerard SPECIES
-=======
+# Hysterium cookeanum W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

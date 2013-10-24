@@ -1,5 +1,4 @@
-Podospora prolifica Cailleux, 1969 SPECIES
-=======
+# Podospora prolifica Cailleux, 1969 SPECIES
 
 #### Status
 ACCEPTED

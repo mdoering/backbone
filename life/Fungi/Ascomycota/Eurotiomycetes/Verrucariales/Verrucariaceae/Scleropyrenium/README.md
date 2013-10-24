@@ -1,5 +1,4 @@
-Scleropyrenium H. Harada GENUS
-=======
+# Scleropyrenium H. Harada GENUS
 
 #### Status
 ACCEPTED

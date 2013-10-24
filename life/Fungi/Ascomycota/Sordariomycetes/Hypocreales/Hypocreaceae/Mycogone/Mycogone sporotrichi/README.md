@@ -1,5 +1,4 @@
-Mycogone sporotrichi (Corda) Sacc. & Traverso SPECIES
-=======
+# Mycogone sporotrichi (Corda) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

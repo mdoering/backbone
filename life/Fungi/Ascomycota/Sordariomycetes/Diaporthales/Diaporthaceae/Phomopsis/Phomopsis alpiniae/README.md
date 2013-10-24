@@ -1,5 +1,4 @@
-Phomopsis alpiniae Sousa da Câmara SPECIES
-=======
+# Phomopsis alpiniae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

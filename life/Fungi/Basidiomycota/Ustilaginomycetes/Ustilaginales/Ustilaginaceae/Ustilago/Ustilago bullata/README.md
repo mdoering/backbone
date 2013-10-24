@@ -1,17 +1,16 @@
-Ustilago bromivora var. brachypodii Har. VARIETY
-=======
+# Ustilago bullata Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. nov. -zel. 2: 196 (1855)
 
 #### Original name
-Ustilago bromivora var. brachypodii Har.
+Ustilago bullata Berk., 1855
 
 ### Remarks
 null

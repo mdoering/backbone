@@ -1,5 +1,4 @@
-Cryptosporella aurantiicola Speg. SPECIES
-=======
+# Cryptosporella aurantiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

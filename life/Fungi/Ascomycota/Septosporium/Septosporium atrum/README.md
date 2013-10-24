@@ -1,5 +1,4 @@
-Septosporium atrum Corda, 1831 SPECIES
-=======
+# Septosporium atrum Corda, 1831 SPECIES
 
 #### Status
 ACCEPTED

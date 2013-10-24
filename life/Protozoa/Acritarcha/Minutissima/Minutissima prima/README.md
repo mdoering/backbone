@@ -1,5 +1,4 @@
-Minutissima prima Naumova in Naumova & Pavlovski, 1961 SPECIES
-=======
+# Minutissima prima Naumova in Naumova & Pavlovski, 1961 SPECIES
 
 #### Status
 ACCEPTED

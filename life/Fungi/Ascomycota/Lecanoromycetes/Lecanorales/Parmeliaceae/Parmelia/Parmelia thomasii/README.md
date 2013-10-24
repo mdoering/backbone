@@ -1,5 +1,4 @@
-Parmelia thomasii C.W. Dodge SPECIES
-=======
+# Parmelia thomasii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

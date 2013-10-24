@@ -1,5 +1,4 @@
-Nosema agrotidis SPECIES
-=======
+# Nosema agrotidis SPECIES
 
 #### Status
 ACCEPTED

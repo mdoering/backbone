@@ -1,5 +1,4 @@
-Catenularia angulospora (Linder) E.W. Mason SPECIES
-=======
+# Catenularia angulospora (Linder) E.W. Mason SPECIES
 
 #### Status
 ACCEPTED

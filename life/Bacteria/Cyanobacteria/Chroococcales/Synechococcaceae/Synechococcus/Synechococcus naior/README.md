@@ -1,5 +1,4 @@
-Synechococcus naior Schroeter SPECIES
-=======
+# Synechococcus naior Schroeter SPECIES
 
 #### Status
 ACCEPTED

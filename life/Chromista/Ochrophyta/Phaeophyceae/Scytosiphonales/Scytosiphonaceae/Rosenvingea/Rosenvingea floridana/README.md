@@ -1,8 +1,7 @@
-Cladosiphon floridanus W.R. Taylor SPECIES
-=======
+# Rosenvingea floridana (W.R. Taylor) W.R. Taylor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

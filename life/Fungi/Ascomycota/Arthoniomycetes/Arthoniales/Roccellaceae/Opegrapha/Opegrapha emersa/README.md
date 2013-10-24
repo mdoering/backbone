@@ -1,5 +1,4 @@
-Opegrapha emersa Müll. Arg. SPECIES
-=======
+# Opegrapha emersa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

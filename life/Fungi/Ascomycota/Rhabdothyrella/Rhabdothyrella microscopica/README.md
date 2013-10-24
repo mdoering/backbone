@@ -1,5 +1,4 @@
-Rhabdothyrella microscopica Höhn. SPECIES
-=======
+# Rhabdothyrella microscopica Höhn. SPECIES
 
 #### Status
 ACCEPTED

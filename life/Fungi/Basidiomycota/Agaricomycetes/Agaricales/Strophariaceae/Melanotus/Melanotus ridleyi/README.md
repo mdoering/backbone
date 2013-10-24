@@ -1,5 +1,4 @@
-Melanotus ridleyi (Massee) Singer SPECIES
-=======
+# Melanotus ridleyi (Massee) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bykovaeina GENUS
-=======
+# Bykovaeina GENUS
 
 #### Status
 ACCEPTED

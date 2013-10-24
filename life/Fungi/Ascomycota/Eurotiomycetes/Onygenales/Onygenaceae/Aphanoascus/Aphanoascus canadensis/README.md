@@ -1,5 +1,4 @@
-Aphanoascus canadensis Currah SPECIES
-=======
+# Aphanoascus canadensis Currah SPECIES
 
 #### Status
 ACCEPTED

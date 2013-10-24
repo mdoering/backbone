@@ -1,5 +1,4 @@
-Vermicularia protracta Fr. SPECIES
-=======
+# Vermicularia protracta Fr. SPECIES
 
 #### Status
 ACCEPTED

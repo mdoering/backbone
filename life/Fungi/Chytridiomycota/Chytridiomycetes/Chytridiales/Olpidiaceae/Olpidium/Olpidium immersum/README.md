@@ -1,5 +1,4 @@
-Olpidium immersum Sorokin SPECIES
-=======
+# Olpidium immersum Sorokin SPECIES
 
 #### Status
 ACCEPTED

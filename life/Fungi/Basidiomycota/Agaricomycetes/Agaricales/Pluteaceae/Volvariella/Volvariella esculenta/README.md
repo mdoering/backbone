@@ -1,5 +1,4 @@
-Volvariella esculenta (Massee) Singer, 1951 SPECIES
-=======
+# Volvariella esculenta (Massee) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED

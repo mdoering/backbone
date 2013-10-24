@@ -1,5 +1,4 @@
-Phomopsis mayteni (Speg.) Aa SPECIES
-=======
+# Phomopsis mayteni (Speg.) Aa SPECIES
 
 #### Status
 ACCEPTED

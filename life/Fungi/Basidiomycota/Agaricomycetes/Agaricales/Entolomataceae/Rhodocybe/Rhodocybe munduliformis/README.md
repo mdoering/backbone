@@ -1,5 +1,4 @@
-Rhodocybe munduliformis (Dennis) Dennis SPECIES
-=======
+# Rhodocybe munduliformis (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

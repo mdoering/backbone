@@ -1,8 +1,7 @@
-Holophrya mobilis Wang & Nie, 1933 SPECIES
-=======
+# Bursellopsis nigricans Lauterborn, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

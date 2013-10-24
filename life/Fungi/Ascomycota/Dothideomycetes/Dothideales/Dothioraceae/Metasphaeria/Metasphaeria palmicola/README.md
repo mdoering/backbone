@@ -1,5 +1,4 @@
-Metasphaeria palmicola Pat. SPECIES
-=======
+# Metasphaeria palmicola Pat. SPECIES
 
 #### Status
 ACCEPTED

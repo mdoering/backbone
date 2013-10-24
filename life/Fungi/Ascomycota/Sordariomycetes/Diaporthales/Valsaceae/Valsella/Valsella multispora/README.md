@@ -1,5 +1,4 @@
-Valsella multispora J.Y. Yuan SPECIES
-=======
+# Valsella multispora J.Y. Yuan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megalaria bengalensis Jagadeesh, Aptroot, G.P. Sinha & Kr.P. Singh SPECIES
-=======
+# Megalaria bengalensis Jagadeesh, Aptroot, G.P. Sinha & Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

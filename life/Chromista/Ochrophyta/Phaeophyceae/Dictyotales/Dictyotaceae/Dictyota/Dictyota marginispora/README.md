@@ -1,5 +1,4 @@
-Dictyota marginispora E. Coppejans SPECIES
-=======
+# Dictyota marginispora E. Coppejans SPECIES
 
 #### Status
 ACCEPTED

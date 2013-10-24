@@ -1,5 +1,4 @@
-Ospriosporium rothii Opiz SPECIES
-=======
+# Ospriosporium rothii Opiz SPECIES
 
 #### Status
 ACCEPTED

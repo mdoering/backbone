@@ -1,14 +1,13 @@
-Erysiphe trinae Harkn., 1884 SPECIES
-=======
+# Brasiliomyces trini (Harkn.) R.Y. Zheng, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Calif. Acad. Sci. 1: 41 (1886)
+Mycotaxon 19: 286 (1984)
 
 #### Original name
 Erysiphe trinae Harkn., 1884

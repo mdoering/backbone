@@ -1,5 +1,4 @@
-Heliosphaeridium notatum (Volkova, 1969) Moczydlowska, 1991 SPECIES
-=======
+# Heliosphaeridium notatum (Volkova, 1969) Moczydlowska, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synandromyces floriformis Thaxt., 1931 SPECIES
-=======
+# Synandromyces floriformis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

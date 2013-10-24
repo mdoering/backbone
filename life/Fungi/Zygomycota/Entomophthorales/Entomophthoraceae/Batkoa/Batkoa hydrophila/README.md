@@ -1,5 +1,4 @@
-Batkoa hydrophila S. Keller SPECIES
-=======
+# Batkoa hydrophila S. Keller SPECIES
 
 #### Status
 ACCEPTED

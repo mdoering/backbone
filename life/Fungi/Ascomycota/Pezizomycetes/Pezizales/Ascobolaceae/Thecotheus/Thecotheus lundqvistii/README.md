@@ -1,5 +1,4 @@
-Thecotheus lundqvistii Aas SPECIES
-=======
+# Thecotheus lundqvistii Aas SPECIES
 
 #### Status
 ACCEPTED

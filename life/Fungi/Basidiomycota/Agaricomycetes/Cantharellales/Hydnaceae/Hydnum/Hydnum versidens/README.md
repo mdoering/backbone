@@ -1,5 +1,4 @@
-Hydnum versidens Pers. SPECIES
-=======
+# Hydnum versidens Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nummularia dryophila Tul. & C. Tul., 1863 SPECIES
-=======
+# Obolarina dryophila (Tul. & C. Tul.) Pouzar, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Select. fung. carpol. (Paris) 2: 47 (1863)
+Ceská Mykol. 40(1): 7 (1986)
 
 #### Original name
 Nummularia dryophila Tul. & C. Tul., 1863

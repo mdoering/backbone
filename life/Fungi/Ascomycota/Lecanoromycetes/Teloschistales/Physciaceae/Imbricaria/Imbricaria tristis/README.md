@@ -1,5 +1,4 @@
-Imbricaria tristis (Weber ex F.H. Wigg.) Anzi SPECIES
-=======
+# Imbricaria tristis (Weber ex F.H. Wigg.) Anzi SPECIES
 
 #### Status
 ACCEPTED

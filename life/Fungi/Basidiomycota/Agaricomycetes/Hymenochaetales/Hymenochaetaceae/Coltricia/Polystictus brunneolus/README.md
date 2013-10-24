@@ -1,5 +1,4 @@
-Polystictus brunneolus Berk. SPECIES
-=======
+# Polystictus brunneolus Berk. SPECIES
 
 #### Status
 ACCEPTED

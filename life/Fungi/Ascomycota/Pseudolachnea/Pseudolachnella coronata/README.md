@@ -1,5 +1,4 @@
-Pseudolachnella coronata (I. Hino & Katum.) Nag Raj SPECIES
-=======
+# Pseudolachnella coronata (I. Hino & Katum.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

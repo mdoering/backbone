@@ -1,5 +1,4 @@
-Encephalographa elisae A. Massal. SPECIES
-=======
+# Encephalographa elisae A. Massal. SPECIES
 
 #### Status
 ACCEPTED

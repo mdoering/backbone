@@ -1,5 +1,4 @@
-Calocera hunanensis B. Liu & K. Tao SPECIES
-=======
+# Calocera hunanensis B. Liu & K. Tao SPECIES
 
 #### Status
 ACCEPTED

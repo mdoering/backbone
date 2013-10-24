@@ -1,5 +1,4 @@
-Mycena nodulosa A.H. Sm. SPECIES
-=======
+# Mycena nodulosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

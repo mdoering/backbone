@@ -1,5 +1,4 @@
-Leptostroma lineare Lév. SPECIES
-=======
+# Leptostroma lineare Lév. SPECIES
 
 #### Status
 ACCEPTED

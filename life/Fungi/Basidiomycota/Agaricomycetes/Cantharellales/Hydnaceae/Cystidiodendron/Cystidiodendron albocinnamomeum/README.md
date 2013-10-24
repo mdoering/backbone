@@ -1,5 +1,4 @@
-Cystidiodendron albocinnamomeum Rick SPECIES
-=======
+# Cystidiodendron albocinnamomeum Rick SPECIES
 
 #### Status
 ACCEPTED

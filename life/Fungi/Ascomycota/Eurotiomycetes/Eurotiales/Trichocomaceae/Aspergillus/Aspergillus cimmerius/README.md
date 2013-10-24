@@ -1,5 +1,4 @@
-Aspergillus cimmerius Berk. & M.A. Curtis SPECIES
-=======
+# Aspergillus cimmerius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

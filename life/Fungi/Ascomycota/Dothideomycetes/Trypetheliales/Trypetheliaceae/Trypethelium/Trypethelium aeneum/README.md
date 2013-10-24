@@ -1,14 +1,13 @@
-Pseudopyrenula aenea (Eschw.) Vain. SPECIES
-=======
+# Trypethelium aeneum (Eschw.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 70 (1903)
 
 #### Original name
 null

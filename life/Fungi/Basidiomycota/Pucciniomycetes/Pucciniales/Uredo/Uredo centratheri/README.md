@@ -1,5 +1,4 @@
-Uredo centratheri Syd. SPECIES
-=======
+# Uredo centratheri Syd. SPECIES
 
 #### Status
 ACCEPTED

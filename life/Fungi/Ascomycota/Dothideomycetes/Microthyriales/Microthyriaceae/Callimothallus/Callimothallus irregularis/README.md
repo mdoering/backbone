@@ -1,5 +1,4 @@
-Callimothallus irregularis (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
-=======
+# Callimothallus irregularis (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsaria latitans Sacc. SPECIES
-=======
+# Valsaria latitans Sacc. SPECIES
 
 #### Status
 ACCEPTED

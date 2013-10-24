@@ -1,5 +1,4 @@
-Stropharia rostrata Petch SPECIES
-=======
+# Stropharia rostrata Petch SPECIES
 
 #### Status
 ACCEPTED

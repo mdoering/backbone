@@ -1,5 +1,4 @@
-Lecanora fuscula Müll. Arg. SPECIES
-=======
+# Lecanora fuscula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrothelium grossum Müll. Arg. SPECIES
-=======
+# Astrothelium grossum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

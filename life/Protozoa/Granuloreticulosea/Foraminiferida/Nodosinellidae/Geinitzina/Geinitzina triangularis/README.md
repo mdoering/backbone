@@ -1,5 +1,4 @@
-Geinitzina triangularis Chapman, W D & Howchin, W SPECIES
-=======
+# Geinitzina triangularis Chapman, W D & Howchin, W SPECIES
 
 #### Status
 ACCEPTED

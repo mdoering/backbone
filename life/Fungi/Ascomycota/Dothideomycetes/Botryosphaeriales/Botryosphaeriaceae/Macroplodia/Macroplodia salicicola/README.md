@@ -1,5 +1,4 @@
-Macroplodia salicicola (Pass.) Kuntze SPECIES
-=======
+# Macroplodia salicicola (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis aucubicola (Brunaud) Grove SPECIES
-=======
+# Phomopsis aucubicola (Brunaud) Grove SPECIES
 
 #### Status
 ACCEPTED

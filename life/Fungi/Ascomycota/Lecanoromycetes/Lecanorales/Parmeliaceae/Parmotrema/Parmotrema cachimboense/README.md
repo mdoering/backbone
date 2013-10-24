@@ -1,5 +1,4 @@
-Parmotrema cachimboense Hale SPECIES
-=======
+# Parmotrema cachimboense Hale SPECIES
 
 #### Status
 ACCEPTED

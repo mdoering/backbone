@@ -1,5 +1,4 @@
-Inocybe ingae Pegler SPECIES
-=======
+# Inocybe ingae Pegler SPECIES
 
 #### Status
 ACCEPTED

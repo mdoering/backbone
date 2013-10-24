@@ -1,5 +1,4 @@
-Calosphaeria fumanae Tóth SPECIES
-=======
+# Calosphaeria fumanae Tóth SPECIES
 
 #### Status
 ACCEPTED

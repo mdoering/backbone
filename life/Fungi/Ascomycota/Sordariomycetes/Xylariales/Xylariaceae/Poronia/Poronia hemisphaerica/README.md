@@ -1,5 +1,4 @@
-Poronia hemisphaerica Starbäck SPECIES
-=======
+# Poronia hemisphaerica Starbäck SPECIES
 
 #### Status
 ACCEPTED

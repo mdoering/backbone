@@ -1,5 +1,4 @@
-Lettauia hypotrachynae Etayo SPECIES
-=======
+# Lettauia hypotrachynae Etayo SPECIES
 
 #### Status
 ACCEPTED

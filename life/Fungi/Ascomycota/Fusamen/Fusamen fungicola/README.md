@@ -1,17 +1,16 @@
-Fusamen fungicolum P. Karst. SPECIES
-=======
+# Fusamen fungicola P. Karst., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 12: (1890)
 
 #### Original name
-Fusamen fungicolum P. Karst.
+Fusamen fungicola P. Karst., 1890
 
 ### Remarks
 null

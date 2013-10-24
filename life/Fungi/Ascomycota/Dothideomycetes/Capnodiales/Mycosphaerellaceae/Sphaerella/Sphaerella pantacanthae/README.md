@@ -1,5 +1,4 @@
-Sphaerella pantacanthae Speg. SPECIES
-=======
+# Sphaerella pantacanthae Speg. SPECIES
 
 #### Status
 ACCEPTED

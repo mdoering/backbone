@@ -1,5 +1,4 @@
-Alternaria hederae (J.V. Almeida & Sousa da Câmara) P. Joly SPECIES
-=======
+# Alternaria hederae (J.V. Almeida & Sousa da Câmara) P. Joly SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius australis Z.S. Bi & T.H. Li SPECIES
-=======
+# Marasmius australis Z.S. Bi & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

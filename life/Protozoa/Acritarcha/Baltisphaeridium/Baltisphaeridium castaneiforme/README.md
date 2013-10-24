@@ -1,5 +1,4 @@
-Baltisphaeridium castaneiforme Uutela & Tynni, 1991 SPECIES
-=======
+# Baltisphaeridium castaneiforme Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

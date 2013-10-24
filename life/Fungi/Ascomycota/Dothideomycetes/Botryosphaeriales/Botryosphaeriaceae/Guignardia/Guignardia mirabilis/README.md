@@ -1,5 +1,4 @@
-Guignardia mirabilis E. Müll. SPECIES
-=======
+# Guignardia mirabilis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus rubrostriatus Raddi SPECIES
-=======
+# Agaricus rubrostriatus Raddi SPECIES
 
 #### Status
 ACCEPTED

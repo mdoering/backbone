@@ -1,5 +1,4 @@
-Auerswaldia oceanica (Ces.) Theiss. & Syd. SPECIES
-=======
+# Auerswaldia oceanica (Ces.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

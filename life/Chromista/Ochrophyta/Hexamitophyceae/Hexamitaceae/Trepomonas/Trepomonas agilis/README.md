@@ -1,5 +1,4 @@
-Trepomonas agilis Dujardin SPECIES
-=======
+# Trepomonas agilis Dujardin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia krogiae Moberg SPECIES
-=======
+# Physcia krogiae Moberg SPECIES
 
 #### Status
 ACCEPTED

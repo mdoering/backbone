@@ -1,5 +1,4 @@
-Megadinium GENUS
-=======
+# Megadinium GENUS
 
 #### Status
 ACCEPTED

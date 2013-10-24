@@ -1,5 +1,4 @@
-Hyalobelemnospora amazonica Matsush., 1993 SPECIES
-=======
+# Hyalobelemnospora amazonica Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

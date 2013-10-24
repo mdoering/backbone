@@ -1,5 +1,4 @@
-Dasyscyphus carmichaelii (Berk.) SPECIES
-=======
+# Dasyscyphus carmichaelii (Berk.) SPECIES
 
 #### Status
 ACCEPTED

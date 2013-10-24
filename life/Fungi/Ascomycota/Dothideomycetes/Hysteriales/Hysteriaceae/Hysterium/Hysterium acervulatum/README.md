@@ -1,5 +1,4 @@
-Hysterium acervulatum Schwein. SPECIES
-=======
+# Hysterium acervulatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

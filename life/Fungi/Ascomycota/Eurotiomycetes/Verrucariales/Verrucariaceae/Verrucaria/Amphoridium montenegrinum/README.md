@@ -1,5 +1,4 @@
-Amphoridium montenegrinum (Servít) Servít SPECIES
-=======
+# Amphoridium montenegrinum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

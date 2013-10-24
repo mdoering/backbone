@@ -1,5 +1,4 @@
-Melampsora euphorbiae-exiguae W. Muell. SPECIES
-=======
+# Melampsora euphorbiae-exiguae W. Muell. SPECIES
 
 #### Status
 ACCEPTED

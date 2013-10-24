@@ -1,14 +1,13 @@
-Clasterosporium bizzozerianum (Sacc.) Sacc., 1881 SPECIES
-=======
+# Fusariella bizzozeriana (Sacc.) S. Hughes, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 289 (1881)
+Mycol. Pap. 28: 6 (1949)
 
 #### Original name
 Sporidesmium bizzozerianum Sacc., 1876

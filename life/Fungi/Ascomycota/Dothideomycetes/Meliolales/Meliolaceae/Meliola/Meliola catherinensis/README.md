@@ -1,5 +1,4 @@
-Meliola catherinensis Hansf. SPECIES
-=======
+# Meliola catherinensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

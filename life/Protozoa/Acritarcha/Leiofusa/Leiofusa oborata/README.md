@@ -1,5 +1,4 @@
-Leiofusa oborata Yin Chongyu in Xing Yusheng et al., 1985 SPECIES
-=======
+# Leiofusa oborata Yin Chongyu in Xing Yusheng et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

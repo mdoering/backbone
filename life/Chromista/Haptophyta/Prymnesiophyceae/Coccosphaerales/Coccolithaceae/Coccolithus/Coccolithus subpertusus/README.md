@@ -1,5 +1,4 @@
-Coccolithus subpertusus (W.W. Hay & H.P. Mohler) W. Wei & J.J. Pospichal SPECIES
-=======
+# Coccolithus subpertusus (W.W. Hay & H.P. Mohler) W. Wei & J.J. Pospichal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium annulatum Sparrow SPECIES
-=======
+# Rhizophydium annulatum Sparrow SPECIES
 
 #### Status
 ACCEPTED

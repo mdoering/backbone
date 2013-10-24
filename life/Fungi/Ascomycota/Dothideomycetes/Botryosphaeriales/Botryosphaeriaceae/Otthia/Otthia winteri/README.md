@@ -1,5 +1,4 @@
-Otthia winteri Rehm SPECIES
-=======
+# Otthia winteri Rehm SPECIES
 
 #### Status
 ACCEPTED

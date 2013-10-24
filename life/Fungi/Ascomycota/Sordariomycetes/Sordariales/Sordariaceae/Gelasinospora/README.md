@@ -1,17 +1,16 @@
-Gelaninospora GENUS
-=======
+# Gelasinospora Dowding GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Canadian Journal of Research, Section C 9: 294 (1933)
 
 #### Original name
-null
+Gelasinospora Dowding
 
 ### Remarks
 null

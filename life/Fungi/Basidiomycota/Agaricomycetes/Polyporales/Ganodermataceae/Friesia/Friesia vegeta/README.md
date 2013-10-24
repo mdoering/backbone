@@ -1,5 +1,4 @@
-Friesia vegeta (Fr.) Lázaro Ibiza SPECIES
-=======
+# Friesia vegeta (Fr.) Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

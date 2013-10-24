@@ -1,5 +1,4 @@
-Sphaerella piri Auersw. SPECIES
-=======
+# Sphaerella piri Auersw. SPECIES
 
 #### Status
 ACCEPTED

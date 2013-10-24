@@ -1,5 +1,4 @@
-Karschia santessonii Hafellner SPECIES
-=======
+# Karschia santessonii Hafellner SPECIES
 
 #### Status
 ACCEPTED

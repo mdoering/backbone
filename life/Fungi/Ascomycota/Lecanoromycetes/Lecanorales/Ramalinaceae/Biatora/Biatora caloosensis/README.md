@@ -1,5 +1,4 @@
-Biatora caloosensis Tuck. SPECIES
-=======
+# Biatora caloosensis Tuck. SPECIES
 
 #### Status
 ACCEPTED

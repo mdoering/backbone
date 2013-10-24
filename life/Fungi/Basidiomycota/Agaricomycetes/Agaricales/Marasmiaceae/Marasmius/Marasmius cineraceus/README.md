@@ -1,5 +1,4 @@
-Marasmius cineraceus Petch SPECIES
-=======
+# Marasmius cineraceus Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza guaranitica Speg. SPECIES
-=======
+# Peziza guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

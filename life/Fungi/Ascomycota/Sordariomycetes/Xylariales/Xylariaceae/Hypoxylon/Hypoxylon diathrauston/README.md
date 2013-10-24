@@ -1,5 +1,4 @@
-Hypoxylon diathrauston Rehm SPECIES
-=======
+# Hypoxylon diathrauston Rehm SPECIES
 
 #### Status
 ACCEPTED

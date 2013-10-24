@@ -1,5 +1,4 @@
-Dictyochaeta curvispora L. Cai, McKenzie & K.D. Hyde, 2004 SPECIES
-=======
+# Dictyochaeta curvispora L. Cai, McKenzie & K.D. Hyde, 2004 SPECIES
 
 #### Status
 ACCEPTED

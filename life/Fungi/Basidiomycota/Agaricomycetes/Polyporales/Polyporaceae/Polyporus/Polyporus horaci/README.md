@@ -1,5 +1,4 @@
-Polyporus horaci Velen. SPECIES
-=======
+# Polyporus horaci Velen. SPECIES
 
 #### Status
 ACCEPTED

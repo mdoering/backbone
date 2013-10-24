@@ -1,5 +1,4 @@
-Protogonyaulax ostenfeldii (Paulsen) S. Fraga & F. J. Sánchez SPECIES
-=======
+# Protogonyaulax ostenfeldii (Paulsen) S. Fraga & F. J. Sánchez SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma margarita (Murrill) Murrill SPECIES
-=======
+# Tricholoma margarita (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia aculeata Schwein. SPECIES
-=======
+# Puccinia aculeata Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta ericicola Died. SPECIES
-=======
+# Phyllosticta ericicola Died. SPECIES
 
 #### Status
 ACCEPTED

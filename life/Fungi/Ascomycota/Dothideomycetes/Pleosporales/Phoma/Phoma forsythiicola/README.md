@@ -1,5 +1,4 @@
-Phoma forsythiicola Syd. SPECIES
-=======
+# Phoma forsythiicola Syd. SPECIES
 
 #### Status
 ACCEPTED

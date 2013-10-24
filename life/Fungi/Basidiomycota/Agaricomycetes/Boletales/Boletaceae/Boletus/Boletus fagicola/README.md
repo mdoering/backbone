@@ -1,5 +1,4 @@
-Boletus fagicola A.H. Sm. & Thiers SPECIES
-=======
+# Boletus fagicola A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

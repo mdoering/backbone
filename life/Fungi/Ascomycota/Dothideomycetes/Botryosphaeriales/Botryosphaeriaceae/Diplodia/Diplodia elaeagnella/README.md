@@ -1,5 +1,4 @@
-Diplodia elaeagnella Tassi SPECIES
-=======
+# Diplodia elaeagnella Tassi SPECIES
 
 #### Status
 ACCEPTED

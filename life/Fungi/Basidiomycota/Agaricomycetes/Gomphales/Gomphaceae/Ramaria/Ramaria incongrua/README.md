@@ -1,5 +1,4 @@
-Ramaria incongrua R.H. Petersen, 1981 SPECIES
-=======
+# Ramaria incongrua R.H. Petersen, 1981 SPECIES
 
 #### Status
 ACCEPTED

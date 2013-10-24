@@ -1,5 +1,4 @@
-Trombetta spathuliformis (Gillet) Kuntze SPECIES
-=======
+# Trombetta spathuliformis (Gillet) Kuntze SPECIES
 
 #### Status
 ACCEPTED

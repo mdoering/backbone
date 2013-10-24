@@ -1,5 +1,4 @@
-Lepiota parvispora Dennis SPECIES
-=======
+# Lepiota parvispora Dennis SPECIES
 
 #### Status
 ACCEPTED

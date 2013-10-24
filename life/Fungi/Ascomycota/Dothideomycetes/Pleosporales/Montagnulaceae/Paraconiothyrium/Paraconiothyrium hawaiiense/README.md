@@ -1,14 +1,13 @@
-Microdiplodia hawaiiensis Crous, 2006 SPECIES
-=======
+# Paraconiothyrium hawaiiense (Crous) Damm, Crous & Verkley, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Crous & Groenewald, Fungal Planet 7: [1] (2006)
+Persoonia 20: 16 (2008)
 
 #### Original name
 Microdiplodia hawaiiensis Crous, 2006

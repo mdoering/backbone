@@ -1,5 +1,4 @@
-Asteridiella crotonicola Hosag. & T.K. Abraham SPECIES
-=======
+# Asteridiella crotonicola Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

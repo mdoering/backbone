@@ -1,5 +1,4 @@
-Fibulorhizoctonia G.C. Adams & Kropp GENUS
-=======
+# Fibulorhizoctonia G.C. Adams & Kropp GENUS
 
 #### Status
 ACCEPTED

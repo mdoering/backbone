@@ -1,17 +1,16 @@
-Solorina bispora var. bispora VARIETY
-=======
+# Solorina bispora Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 1(2): 331 (1860)
+null
 
 #### Original name
-Solorina bispora var. bispora
+null
 
 ### Remarks
 null

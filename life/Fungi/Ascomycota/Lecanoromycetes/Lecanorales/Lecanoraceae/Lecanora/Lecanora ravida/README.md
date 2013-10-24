@@ -1,5 +1,4 @@
-Lecanora ravida (Hoffm.) Röhl. SPECIES
-=======
+# Lecanora ravida (Hoffm.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

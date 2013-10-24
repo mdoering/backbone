@@ -1,5 +1,4 @@
-Sclerochaeta setariae Sawada SPECIES
-=======
+# Sclerochaeta setariae Sawada SPECIES
 
 #### Status
 ACCEPTED

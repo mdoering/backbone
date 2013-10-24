@@ -1,5 +1,4 @@
-Lionotus grande Entz, 1879 SPECIES
-=======
+# Lionotus grande Entz, 1879 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellinia fimetaria (Seaver) Teng SPECIES
-=======
+# Scutellinia fimetaria (Seaver) Teng SPECIES
 
 #### Status
 ACCEPTED

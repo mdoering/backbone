@@ -1,5 +1,4 @@
-Acanthosphaera cambriensis Naumova, 1968 SPECIES
-=======
+# Acanthosphaera cambriensis Naumova, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllosticta cydoniae var. cydoniae VARIETY
-=======
+# Myriellina cydoniae (Desm.) Höhn., 1915 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 124: 100 (1915)
 
 #### Original name
-Phyllosticta cydoniae var. cydoniae
+Cheilaria cydoniae Desm., 1847
 
 ### Remarks
 null

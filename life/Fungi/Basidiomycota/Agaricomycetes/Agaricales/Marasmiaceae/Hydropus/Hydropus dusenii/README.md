@@ -1,5 +1,4 @@
-Hydropus dusenii subsp. dusenii (Bres.) Singer SUBSPECIES
-=======
+# Hydropus dusenii (Bres.) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 29: 143 (1969)
 
 #### Original name
-Hydropus dusenii subsp. dusenii (Bres.) Singer
+Panus dusenii Bres.
 
 ### Remarks
 null

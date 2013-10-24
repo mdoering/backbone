@@ -1,5 +1,4 @@
-Arthonia ravida Stirt. SPECIES
-=======
+# Arthonia ravida Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella sacchariferae Rehm SPECIES
-=======
+# Anthostomella sacchariferae Rehm SPECIES
 
 #### Status
 ACCEPTED

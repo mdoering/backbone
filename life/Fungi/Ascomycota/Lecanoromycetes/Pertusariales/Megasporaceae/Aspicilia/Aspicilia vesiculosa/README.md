@@ -1,5 +1,4 @@
-Aspicilia vesiculosa Motyka SPECIES
-=======
+# Aspicilia vesiculosa Motyka SPECIES
 
 #### Status
 ACCEPTED

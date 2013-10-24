@@ -1,5 +1,4 @@
-Camarosporulum buddlejae (Tassi) Tassi SPECIES
-=======
+# Camarosporulum buddlejae (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

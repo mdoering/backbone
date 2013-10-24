@@ -1,5 +1,4 @@
-Dothiora pinacea Velen. SPECIES
-=======
+# Dothiora pinacea Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrypella decorata var. decorata VARIETY
-=======
+# Diatrypella decorata Nitschke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Pyrenomycetes Germanici 1: 79 (1867)
 
 #### Original name
-Diatrypella decorata var. decorata
+Diatrypella decorata Nitschke
 
 ### Remarks
 null

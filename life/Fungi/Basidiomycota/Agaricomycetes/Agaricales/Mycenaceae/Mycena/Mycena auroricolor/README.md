@@ -1,5 +1,4 @@
-Mycena auroricolor (Berk. & Broome) Petch SPECIES
-=======
+# Mycena auroricolor (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

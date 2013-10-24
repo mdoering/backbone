@@ -1,5 +1,4 @@
-Peziza franzonianum (De Not.) Cooke SPECIES
-=======
+# Peziza franzonianum (De Not.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronophora sapindi-emarginati Bale SPECIES
-=======
+# Coronophora sapindi-emarginati Bale SPECIES
 
 #### Status
 ACCEPTED

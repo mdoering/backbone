@@ -1,5 +1,4 @@
-Valsaria toxici (Schwein.) Sacc. SPECIES
-=======
+# Valsaria toxici (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

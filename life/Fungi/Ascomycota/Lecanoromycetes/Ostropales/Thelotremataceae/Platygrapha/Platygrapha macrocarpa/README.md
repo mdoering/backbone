@@ -1,5 +1,4 @@
-Platygrapha macrocarpa C. Knight SPECIES
-=======
+# Platygrapha macrocarpa C. Knight SPECIES
 
 #### Status
 ACCEPTED

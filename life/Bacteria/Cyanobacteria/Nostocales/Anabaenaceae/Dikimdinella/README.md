@@ -1,5 +1,4 @@
-Dikimdinella P.N. Kolosov, 1966 GENUS
-=======
+# Dikimdinella P.N. Kolosov, 1966 GENUS
 
 #### Status
 ACCEPTED

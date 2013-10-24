@@ -1,14 +1,13 @@
-Linospora ferruginea Ellis & G. Martin, 1884 SPECIES
-=======
+# Ophiodothella ferruginea (Ellis & G. Martin) M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Nat. 18: 69 (1884)
+Mycol. Mem. 7: 131 (1978)
 
 #### Original name
 Linospora ferruginea Ellis & G. Martin, 1884

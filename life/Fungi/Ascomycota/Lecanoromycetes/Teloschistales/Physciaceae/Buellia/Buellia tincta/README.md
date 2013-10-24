@@ -1,5 +1,4 @@
-Buellia tincta H. Magn. SPECIES
-=======
+# Buellia tincta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

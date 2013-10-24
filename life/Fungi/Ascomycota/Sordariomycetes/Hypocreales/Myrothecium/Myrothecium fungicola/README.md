@@ -1,5 +1,4 @@
-Myrothecium fungicola Peck SPECIES
-=======
+# Myrothecium fungicola Peck SPECIES
 
 #### Status
 ACCEPTED

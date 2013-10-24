@@ -1,5 +1,4 @@
-Peronospora atlantica Gäum. SPECIES
-=======
+# Peronospora atlantica Gäum. SPECIES
 
 #### Status
 ACCEPTED

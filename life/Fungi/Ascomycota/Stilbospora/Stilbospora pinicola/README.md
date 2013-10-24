@@ -1,5 +1,4 @@
-Stilbospora pinicola Berk. & M.A. Curtis SPECIES
-=======
+# Stilbospora pinicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

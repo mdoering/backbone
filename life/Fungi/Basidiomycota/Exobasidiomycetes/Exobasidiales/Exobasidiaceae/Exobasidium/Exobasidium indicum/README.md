@@ -1,5 +1,4 @@
-Exobasidium indicum Syd. & P. Syd. SPECIES
-=======
+# Exobasidium indicum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

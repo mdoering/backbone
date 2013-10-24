@@ -1,5 +1,4 @@
-Boletus sarcoxanthus Lázaro Ibiza SPECIES
-=======
+# Boletus sarcoxanthus Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

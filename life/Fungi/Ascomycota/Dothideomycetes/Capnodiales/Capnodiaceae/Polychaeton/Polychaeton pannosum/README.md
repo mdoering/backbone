@@ -1,5 +1,4 @@
-Polychaeton pannosum (Rchb.) Speg. SPECIES
-=======
+# Polychaeton pannosum (Rchb.) Speg. SPECIES
 
 #### Status
 ACCEPTED

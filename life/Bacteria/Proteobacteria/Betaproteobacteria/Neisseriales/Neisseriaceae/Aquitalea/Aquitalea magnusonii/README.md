@@ -1,5 +1,4 @@
-Aquitalea magnusonii Lau et al., 2006 SPECIES
-=======
+# Aquitalea magnusonii Lau et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

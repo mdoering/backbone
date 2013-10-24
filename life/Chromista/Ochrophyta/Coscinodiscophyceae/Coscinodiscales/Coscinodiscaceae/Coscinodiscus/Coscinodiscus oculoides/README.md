@@ -1,5 +1,4 @@
-Coscinodiscus oculoides Karsten, 1905 SPECIES
-=======
+# Coscinodiscus oculoides Karsten, 1905 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurage multicaudata Griffiths SPECIES
-=======
+# Pleurage multicaudata Griffiths SPECIES
 
 #### Status
 ACCEPTED

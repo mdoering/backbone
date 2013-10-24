@@ -1,5 +1,4 @@
-Asteridiella macarangicola Hosag. SPECIES
-=======
+# Asteridiella macarangicola Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cocco-Bacillus GENUS
-=======
+# Cocco-Bacillus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptomonas baltica (Karsten) Butch SPECIES
-=======
+# Cryptomonas baltica (Karsten) Butch SPECIES
 
 #### Status
 ACCEPTED

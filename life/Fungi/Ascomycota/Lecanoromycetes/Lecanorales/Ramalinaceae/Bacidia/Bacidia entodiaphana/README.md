@@ -1,14 +1,13 @@
-Lecidea entodiaphana C. Knight SPECIES
-=======
+# Bacidia entodiaphana (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 43 (1882)
+Cat. Lich. Univers. 4: 194 (1926)
 
 #### Original name
 Lecidea entodiaphana C. Knight

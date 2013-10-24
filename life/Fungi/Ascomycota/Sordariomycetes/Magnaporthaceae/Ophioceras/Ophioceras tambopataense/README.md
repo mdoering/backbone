@@ -1,5 +1,4 @@
-Ophioceras tambopataense Matsush. SPECIES
-=======
+# Ophioceras tambopataense Matsush. SPECIES
 
 #### Status
 ACCEPTED

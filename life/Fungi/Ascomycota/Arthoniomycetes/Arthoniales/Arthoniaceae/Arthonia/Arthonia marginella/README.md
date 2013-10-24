@@ -1,5 +1,4 @@
-Arthonia marginella Dufour SPECIES
-=======
+# Arthonia marginella Dufour SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Decahedrella Manum, 1997 GENUS
-=======
+# Decahedrella Manum, 1997 GENUS
 
 #### Status
 ACCEPTED

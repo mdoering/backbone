@@ -1,5 +1,4 @@
-Polystictus sulcifer (Berk. & Cooke) Cooke SPECIES
-=======
+# Polystictus sulcifer (Berk. & Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia pheropsophi Thaxt. SPECIES
-=======
+# Laboulbenia pheropsophi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

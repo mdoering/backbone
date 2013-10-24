@@ -1,5 +1,4 @@
-Sycia Léger, 1892 GENUS
-=======
+# Sycia Léger, 1892 GENUS
 
 #### Status
 ACCEPTED

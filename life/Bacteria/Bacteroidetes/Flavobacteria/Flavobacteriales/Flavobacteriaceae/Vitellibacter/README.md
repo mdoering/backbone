@@ -1,5 +1,4 @@
-Vitellibacter Nedashkovskaya, Suzuki, Vysotskii & Mikhailov, 2003 GENUS
-=======
+# Vitellibacter Nedashkovskaya, Suzuki, Vysotskii & Mikhailov, 2003 GENUS
 
 #### Status
 ACCEPTED

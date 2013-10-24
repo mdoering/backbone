@@ -1,5 +1,4 @@
-Camarosporium samueli Hansf. SPECIES
-=======
+# Camarosporium samueli Hansf. SPECIES
 
 #### Status
 ACCEPTED

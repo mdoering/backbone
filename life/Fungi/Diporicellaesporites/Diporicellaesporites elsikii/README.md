@@ -1,5 +1,4 @@
-Diporicellaesporites elsikii Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Diporicellaesporites elsikii Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
 ACCEPTED

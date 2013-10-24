@@ -1,17 +1,16 @@
-Psora lurida var. lurida VARIETY
-=======
+# Psora lurida (Ach.) DC., 1805 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 370 (1805)
+null
 
 #### Original name
-Psora lurida var. lurida
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hymenomonas roscoffensis (Chadha & J. Feldmann) Lecal SPECIES
-=======
+# Hymenomonas roscoffensis (Chadha & J. Feldmann) Lecal SPECIES
 
 #### Status
 ACCEPTED

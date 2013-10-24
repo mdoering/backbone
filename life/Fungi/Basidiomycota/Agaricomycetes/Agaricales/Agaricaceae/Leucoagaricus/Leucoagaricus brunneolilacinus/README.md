@@ -1,5 +1,4 @@
-Leucoagaricus brunneolilacinus Babos SPECIES
-=======
+# Leucoagaricus brunneolilacinus Babos SPECIES
 
 #### Status
 ACCEPTED

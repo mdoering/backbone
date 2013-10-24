@@ -1,5 +1,4 @@
-Russula rubrifolia Murrill SPECIES
-=======
+# Russula rubrifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca lecideina (Müll. Arg.) Clauzade & Rondon SPECIES
-=======
+# Caloplaca lecideina (Müll. Arg.) Clauzade & Rondon SPECIES
 
 #### Status
 ACCEPTED

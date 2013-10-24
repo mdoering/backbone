@@ -1,5 +1,4 @@
-Otthia jacquemontiae Syd. SPECIES
-=======
+# Otthia jacquemontiae Syd. SPECIES
 
 #### Status
 ACCEPTED

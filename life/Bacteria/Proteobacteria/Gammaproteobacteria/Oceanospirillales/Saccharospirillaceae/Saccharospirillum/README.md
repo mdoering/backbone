@@ -1,5 +1,4 @@
-Saccharospirillum Labrenz et al., 2003 GENUS
-=======
+# Saccharospirillum Labrenz et al., 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Closterosporia fulva (Uriburu) Grigoraki, 1925 SPECIES
-=======
+# Microsporum fulvum Uriburu, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 10 7: 411 (1925)
+Argentina Med. 7: 565 (1909)
 
 #### Original name
 Microsporum fulvum Uriburu, 1909

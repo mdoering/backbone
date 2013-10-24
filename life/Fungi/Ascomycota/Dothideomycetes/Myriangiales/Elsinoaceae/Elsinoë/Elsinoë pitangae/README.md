@@ -1,5 +1,4 @@
-Elsinoë pitangae Bitanc. & Jenkins, 1940 SPECIES
-=======
+# Elsinoë pitangae Bitanc. & Jenkins, 1940 SPECIES
 
 #### Status
 ACCEPTED

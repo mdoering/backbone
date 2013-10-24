@@ -1,5 +1,4 @@
-Aecidium halophilum (Speg.) Speg. SPECIES
-=======
+# Aecidium halophilum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gillisia hiemivivida Bowman & Nichols, 2005 SPECIES
-=======
+# Gillisia hiemivivida Bowman & Nichols, 2005 SPECIES
 
 #### Status
 ACCEPTED

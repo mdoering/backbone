@@ -1,17 +1,16 @@
-Collema lacerum var. lacerum VARIETY
-=======
+# Leptogium lichenoides (L.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 3: 136 (1924)
 
 #### Original name
-Collema lacerum var. lacerum
+Lichen lichenoides (L.) Wulfen
 
 ### Remarks
 null

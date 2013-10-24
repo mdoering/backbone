@@ -1,5 +1,4 @@
-Sordaria pseudominuta Speg. SPECIES
-=======
+# Sordaria pseudominuta Speg. SPECIES
 
 #### Status
 ACCEPTED

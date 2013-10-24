@@ -1,5 +1,4 @@
-Endocarpon malmeanum Räsänen SPECIES
-=======
+# Endocarpon malmeanum Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulvinosphaeridium ansanellum Sheshegova, 1975 SPECIES
-=======
+# Pulvinosphaeridium ansanellum Sheshegova, 1975 SPECIES
 
 #### Status
 ACCEPTED

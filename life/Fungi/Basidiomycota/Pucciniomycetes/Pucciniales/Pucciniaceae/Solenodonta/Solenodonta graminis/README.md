@@ -1,5 +1,4 @@
-Solenodonta graminis Castagne SPECIES
-=======
+# Solenodonta graminis Castagne SPECIES
 
 #### Status
 ACCEPTED

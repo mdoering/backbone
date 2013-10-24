@@ -1,5 +1,4 @@
-Lichen badius Pers. SPECIES
-=======
+# Lichen badius Pers. SPECIES
 
 #### Status
 ACCEPTED

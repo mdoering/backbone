@@ -1,5 +1,4 @@
-Rhinotrichum sonchi Hansf. SPECIES
-=======
+# Rhinotrichum sonchi Hansf. SPECIES
 
 #### Status
 ACCEPTED

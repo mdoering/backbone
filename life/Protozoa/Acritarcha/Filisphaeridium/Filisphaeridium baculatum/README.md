@@ -1,5 +1,4 @@
-Filisphaeridium baculatum Jiabo, 1978 SPECIES
-=======
+# Filisphaeridium baculatum Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

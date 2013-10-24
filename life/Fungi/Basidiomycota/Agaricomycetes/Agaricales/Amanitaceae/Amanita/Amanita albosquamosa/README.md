@@ -1,5 +1,4 @@
-Amanita albosquamosa A.E. Wood SPECIES
-=======
+# Amanita albosquamosa A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monochaetia bicornis (Durieu & Mont.) Sacc. SPECIES
-=======
+# Monochaetia bicornis (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

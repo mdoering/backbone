@@ -1,5 +1,4 @@
-Trachelostyla bryoniculum SPECIES
-=======
+# Trachelostyla bryoniculum SPECIES
 
 #### Status
 ACCEPTED

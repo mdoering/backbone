@@ -1,5 +1,4 @@
-Agaricus coleatus Berk. & Broome SPECIES
-=======
+# Agaricus coleatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

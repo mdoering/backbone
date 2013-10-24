@@ -1,5 +1,4 @@
-Helotium magellanicum Dennis SPECIES
-=======
+# Helotium magellanicum Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria lantanae K. Ramakr. SPECIES
-=======
+# Amphisphaeria lantanae K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

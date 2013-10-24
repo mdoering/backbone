@@ -1,5 +1,4 @@
-Xanthoparmelia cedri-montana Brusse SPECIES
-=======
+# Xanthoparmelia cedri-montana Brusse SPECIES
 
 #### Status
 ACCEPTED

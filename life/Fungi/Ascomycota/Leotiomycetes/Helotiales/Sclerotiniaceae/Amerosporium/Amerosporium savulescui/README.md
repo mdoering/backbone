@@ -1,5 +1,4 @@
-Amerosporium savulescui Negru SPECIES
-=======
+# Amerosporium savulescui Negru SPECIES
 
 #### Status
 ACCEPTED

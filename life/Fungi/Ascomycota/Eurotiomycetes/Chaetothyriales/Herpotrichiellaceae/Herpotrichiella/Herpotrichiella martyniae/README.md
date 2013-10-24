@@ -1,5 +1,4 @@
-Herpotrichiella martyniae R. Rao SPECIES
-=======
+# Herpotrichiella martyniae R. Rao SPECIES
 
 #### Status
 ACCEPTED

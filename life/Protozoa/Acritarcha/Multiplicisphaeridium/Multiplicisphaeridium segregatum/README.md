@@ -1,5 +1,4 @@
-Multiplicisphaeridium segregatum Wicander & Wood, 1997 SPECIES
-=======
+# Multiplicisphaeridium segregatum Wicander & Wood, 1997 SPECIES
 
 #### Status
 ACCEPTED

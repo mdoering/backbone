@@ -1,5 +1,4 @@
-Psora endoreagens Tomin SPECIES
-=======
+# Psora endoreagens Tomin SPECIES
 
 #### Status
 ACCEPTED

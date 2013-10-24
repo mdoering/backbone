@@ -1,14 +1,13 @@
-Sterigmatomyces polyborus D.B. Scott & Van der Walt, 1970 SPECIES
-=======
+# Fellomyces polyborus (D.B. Scott & Van der Walt) Y. Yamada & I. Banno, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 36(3): 389 (1970)
+J. gen. appl. Microbiol. , Tokyo 30(6): 524 (1984)
 
 #### Original name
 Sterigmatomyces polyborus D.B. Scott & Van der Walt, 1970

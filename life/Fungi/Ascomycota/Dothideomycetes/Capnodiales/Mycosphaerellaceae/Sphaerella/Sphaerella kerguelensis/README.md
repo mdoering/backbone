@@ -1,5 +1,4 @@
-Sphaerella kerguelensis Henn. SPECIES
-=======
+# Sphaerella kerguelensis Henn. SPECIES
 
 #### Status
 ACCEPTED

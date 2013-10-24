@@ -1,5 +1,4 @@
-Placodium pruiniferum (Nyl.) Arnold SPECIES
-=======
+# Placodium pruiniferum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

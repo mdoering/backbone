@@ -1,5 +1,4 @@
-Diplosporium breve Peck SPECIES
-=======
+# Diplosporium breve Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus kerguelensis Wille SPECIES
-=======
+# Chroococcus kerguelensis Wille SPECIES
 
 #### Status
 ACCEPTED

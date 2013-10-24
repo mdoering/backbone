@@ -1,5 +1,4 @@
-Montagnella mayteni Henn. SPECIES
-=======
+# Montagnella mayteni Henn. SPECIES
 
 #### Status
 ACCEPTED

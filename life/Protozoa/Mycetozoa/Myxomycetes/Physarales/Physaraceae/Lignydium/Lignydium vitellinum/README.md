@@ -1,5 +1,4 @@
-Lignydium vitellinum (Schwein.) Kuntze SPECIES
-=======
+# Lignydium vitellinum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

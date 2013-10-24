@@ -1,5 +1,4 @@
-Botryosphaeria liriodendri (Cooke) Sacc. SPECIES
-=======
+# Botryosphaeria liriodendri (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

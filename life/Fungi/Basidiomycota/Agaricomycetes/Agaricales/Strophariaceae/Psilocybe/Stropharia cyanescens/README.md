@@ -1,5 +1,4 @@
-Stropharia cyanescens Murrill SPECIES
-=======
+# Stropharia cyanescens Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helminthosporium teres f. sp FORM
-=======
+# Pyrenophora teres Drechsler, 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Agric. Res. , Washington 24: 656 (1923)
 
 #### Original name
-Helminthosporium teres f. sp
+Pyrenophora teres Drechsler, 1923
 
 ### Remarks
 null

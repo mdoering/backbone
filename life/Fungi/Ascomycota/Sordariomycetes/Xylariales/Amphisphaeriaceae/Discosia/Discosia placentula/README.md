@@ -1,5 +1,4 @@
-Discosia placentula (Schwein.) Ellis SPECIES
-=======
+# Discosia placentula (Schwein.) Ellis SPECIES
 
 #### Status
 ACCEPTED

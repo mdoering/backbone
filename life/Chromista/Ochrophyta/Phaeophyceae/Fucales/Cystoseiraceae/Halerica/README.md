@@ -1,5 +1,4 @@
-Halerica Kützing, 1843 GENUS
-=======
+# Halerica Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

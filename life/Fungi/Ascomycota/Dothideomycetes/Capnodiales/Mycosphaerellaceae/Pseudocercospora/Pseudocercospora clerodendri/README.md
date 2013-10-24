@@ -1,5 +1,4 @@
-Pseudocercospora clerodendri (J. Miyake) Deighton SPECIES
-=======
+# Pseudocercospora clerodendri (J. Miyake) Deighton SPECIES
 
 #### Status
 ACCEPTED

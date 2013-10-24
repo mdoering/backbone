@@ -1,14 +1,13 @@
-Pseudoparmelia raunkiaeri (Vain.) Hale SPECIES
-=======
+# Canoparmelia raunkiaeri (Vain.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 29(3): 191 (1974)
+in Elix, Johnston & Verdon, Mycotaxon 27: 278 (1986)
 
 #### Original name
 Parmelia raunkiaeri Vain.

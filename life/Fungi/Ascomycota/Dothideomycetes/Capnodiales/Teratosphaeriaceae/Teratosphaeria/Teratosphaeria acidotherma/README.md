@@ -1,5 +1,4 @@
-Teratosphaeria acidotherma A. Yamazaki, K. Toyama & Nakagiri, 2010 SPECIES
-=======
+# Teratosphaeria acidotherma A. Yamazaki, K. Toyama & Nakagiri, 2010 SPECIES
 
 #### Status
 ACCEPTED

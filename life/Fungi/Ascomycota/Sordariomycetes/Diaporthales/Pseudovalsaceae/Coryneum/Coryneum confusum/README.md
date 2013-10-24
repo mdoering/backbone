@@ -1,5 +1,4 @@
-Coryneum confusum Bubák & Kabát SPECIES
-=======
+# Coryneum confusum Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

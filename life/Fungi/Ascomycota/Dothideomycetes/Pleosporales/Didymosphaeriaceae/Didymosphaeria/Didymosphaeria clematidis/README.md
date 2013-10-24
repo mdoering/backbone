@@ -1,5 +1,4 @@
-Didymosphaeria clematidis Fautrey SPECIES
-=======
+# Didymosphaeria clematidis Fautrey SPECIES
 
 #### Status
 ACCEPTED

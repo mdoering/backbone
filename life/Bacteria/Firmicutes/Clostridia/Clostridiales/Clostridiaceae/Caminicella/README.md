@@ -1,5 +1,4 @@
-Caminicella Alain et al., 2002 GENUS
-=======
+# Caminicella Alain et al., 2002 GENUS
 
 #### Status
 ACCEPTED

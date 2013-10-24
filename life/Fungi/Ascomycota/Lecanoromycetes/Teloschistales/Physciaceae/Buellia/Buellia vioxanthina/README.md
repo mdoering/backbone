@@ -1,5 +1,4 @@
-Buellia vioxanthina Elix SPECIES
-=======
+# Buellia vioxanthina Elix SPECIES
 
 #### Status
 ACCEPTED

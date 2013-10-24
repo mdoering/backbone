@@ -1,5 +1,4 @@
-Graphis heterocarpa Trevis. SPECIES
-=======
+# Graphis heterocarpa Trevis. SPECIES
 
 #### Status
 ACCEPTED

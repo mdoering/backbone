@@ -1,17 +1,16 @@
-Pleurotus crawfordiae SPECIES
-=======
+# Pleurotus purpureo-olivaceus (G. Stev.) Segedin, P.K. Buchanan & J.P. Wilkie, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 8(3): 471 (1995)
 
 #### Original name
-Pleurotus crawfordiae
+Resupinatus purpureo-olivaceus G. Stev., 1964
 
 ### Remarks
 null

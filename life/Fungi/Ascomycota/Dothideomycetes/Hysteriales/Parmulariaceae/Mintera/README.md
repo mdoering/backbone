@@ -1,5 +1,4 @@
-Mintera Inácio & P.F. Cannon GENUS
-=======
+# Mintera Inácio & P.F. Cannon GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamproderma kowalskii A. Ronikier, Lado & Mar. Mey., 2010 SPECIES
-=======
+# Lamproderma kowalskii A. Ronikier, Lado & Mar. Mey., 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ramaria zippelii var. campestris K. Yokoy. & Sagara, 1973 VARIETY
-=======
+# Ramaria campestris (K. Yokoy. & Sagara) R.H. Petersen, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 14: 302 (1973)
+Biblthca Mycol. 79: 57 (1981)
 
 #### Original name
 Ramaria zippelii var. campestris K. Yokoy. & Sagara, 1973

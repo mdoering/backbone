@@ -1,5 +1,4 @@
-Placodium fibrosum var. fibrosum VARIETY
-=======
+# Placodium fibrosum (Fr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium fibrosum var. fibrosum
+null
 
 ### Remarks
 null

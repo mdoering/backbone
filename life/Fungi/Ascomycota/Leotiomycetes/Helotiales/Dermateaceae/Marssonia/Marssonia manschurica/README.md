@@ -1,5 +1,4 @@
-Marssonia manschurica Naumov SPECIES
-=======
+# Marssonia manschurica Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora khatiensis Räsänen SPECIES
-=======
+# Lecanora khatiensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

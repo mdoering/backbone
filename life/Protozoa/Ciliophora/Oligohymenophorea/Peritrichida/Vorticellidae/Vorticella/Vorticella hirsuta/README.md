@@ -1,5 +1,4 @@
-Vorticella hirsuta Dumas, 1929 SPECIES
-=======
+# Vorticella hirsuta Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

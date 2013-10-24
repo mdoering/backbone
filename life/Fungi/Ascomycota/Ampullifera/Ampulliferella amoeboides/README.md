@@ -1,5 +1,4 @@
-Ampulliferella amoeboides Bat. & Cavalc. SPECIES
-=======
+# Ampulliferella amoeboides Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

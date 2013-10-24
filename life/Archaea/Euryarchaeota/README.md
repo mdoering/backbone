@@ -1,5 +1,4 @@
-Euryarchaeota PHYLUM
-=======
+# Euryarchaeota PHYLUM
 
 #### Status
 ACCEPTED

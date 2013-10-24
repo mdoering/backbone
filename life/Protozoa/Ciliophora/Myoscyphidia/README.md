@@ -1,5 +1,4 @@
-Myoscyphidia Jankowski, 1985 GENUS
-=======
+# Myoscyphidia Jankowski, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eidamia tuberculata Horne {?} & Jones {?} SPECIES
-=======
+# Eidamia tuberculata Horne {?} & Jones {?} SPECIES
 
 #### Status
 ACCEPTED

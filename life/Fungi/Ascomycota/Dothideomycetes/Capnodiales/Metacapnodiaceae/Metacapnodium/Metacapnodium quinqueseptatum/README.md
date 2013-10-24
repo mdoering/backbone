@@ -1,14 +1,13 @@
-Massarina quinqueseptata M.E. Barr, 1992 SPECIES
-=======
+# Metacapnodium quinqueseptatum (M.E. Barr) S. Hughes, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 45: 217 (1992)
+N. Z. Jl Bot. 10: 233 (1972)
 
 #### Original name
 Massarina quinqueseptata M.E. Barr, 1992

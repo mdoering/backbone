@@ -1,5 +1,4 @@
-Pseudoalteromonas phenolica Isnansetyo & Kamei, 2003 SPECIES
-=======
+# Pseudoalteromonas phenolica Isnansetyo & Kamei, 2003 SPECIES
 
 #### Status
 ACCEPTED

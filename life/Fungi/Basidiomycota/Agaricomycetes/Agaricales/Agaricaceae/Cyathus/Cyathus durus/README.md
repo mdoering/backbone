@@ -1,5 +1,4 @@
-Cyathus durus (V.S. White) Sacc. & D. Sacc. SPECIES
-=======
+# Cyathus durus (V.S. White) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

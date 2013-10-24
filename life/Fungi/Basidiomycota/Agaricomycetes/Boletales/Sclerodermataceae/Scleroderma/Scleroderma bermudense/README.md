@@ -1,5 +1,4 @@
-Scleroderma bermudense Coker SPECIES
-=======
+# Scleroderma bermudense Coker SPECIES
 
 #### Status
 ACCEPTED

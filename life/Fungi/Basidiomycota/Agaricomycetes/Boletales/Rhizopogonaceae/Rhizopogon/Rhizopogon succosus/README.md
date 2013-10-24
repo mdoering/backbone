@@ -1,5 +1,4 @@
-Rhizopogon succosus A.H. Sm. SPECIES
-=======
+# Rhizopogon succosus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

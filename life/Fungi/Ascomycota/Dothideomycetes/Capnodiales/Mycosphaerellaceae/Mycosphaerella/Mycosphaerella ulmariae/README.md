@@ -1,5 +1,4 @@
-Mycosphaerella ulmariae Kirschst. SPECIES
-=======
+# Mycosphaerella ulmariae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria multipunctata (Fuckel) Petr. SPECIES
-=======
+# Amphisphaeria multipunctata (Fuckel) Petr. SPECIES
 
 #### Status
 ACCEPTED

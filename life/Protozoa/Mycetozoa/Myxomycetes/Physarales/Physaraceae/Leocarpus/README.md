@@ -1,17 +1,16 @@
-Tripotrichia Corda GENUS
-=======
+# Leocarpus Link GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 22 (1837)
+Magazin Ges. naturf. Freunde, Berlin 3: 25 (1809)
 
 #### Original name
-Tripotrichia Corda
+Leocarpus Link
 
 ### Remarks
 null

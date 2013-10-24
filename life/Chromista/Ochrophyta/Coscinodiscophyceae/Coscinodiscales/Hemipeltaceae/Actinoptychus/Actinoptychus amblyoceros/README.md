@@ -1,5 +1,4 @@
-Actinoptychus amblyoceros (Ehrenberg) A. Schmidt SPECIES
-=======
+# Actinoptychus amblyoceros (Ehrenberg) A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

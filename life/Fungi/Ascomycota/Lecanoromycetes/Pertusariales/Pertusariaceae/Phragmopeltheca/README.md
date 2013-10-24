@@ -1,5 +1,4 @@
-Phragmopeltheca GENUS
-=======
+# Phragmopeltheca GENUS
 
 #### Status
 ACCEPTED

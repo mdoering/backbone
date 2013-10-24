@@ -1,14 +1,13 @@
-Pestalotia stictica Berk. & M.A. Curtis, 1874 SPECIES
-=======
+# Pestalotiopsis stictica (Berk. & M.A. Curtis) Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. bot. État Brux. 19: 3 (1949)
 
 #### Original name
 Pestalotia stictica Berk. & M.A. Curtis, 1874

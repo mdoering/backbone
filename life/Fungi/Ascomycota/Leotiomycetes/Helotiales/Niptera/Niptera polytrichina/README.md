@@ -1,5 +1,4 @@
-Niptera polytrichina Racov. SPECIES
-=======
+# Niptera polytrichina Racov. SPECIES
 
 #### Status
 ACCEPTED

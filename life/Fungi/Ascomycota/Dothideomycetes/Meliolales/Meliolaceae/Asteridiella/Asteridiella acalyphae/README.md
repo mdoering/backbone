@@ -1,5 +1,4 @@
-Asteridiella acalyphae (Rehm) Hansf. SPECIES
-=======
+# Asteridiella acalyphae (Rehm) Hansf. SPECIES
 
 #### Status
 ACCEPTED

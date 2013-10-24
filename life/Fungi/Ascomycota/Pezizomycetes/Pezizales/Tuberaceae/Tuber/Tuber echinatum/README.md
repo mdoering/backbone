@@ -1,5 +1,4 @@
-Tuber echinatum Sacc. & Paol. SPECIES
-=======
+# Tuber echinatum Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

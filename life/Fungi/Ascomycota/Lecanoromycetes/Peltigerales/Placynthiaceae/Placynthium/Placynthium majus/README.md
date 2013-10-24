@@ -1,14 +1,13 @@
-Placynthium nigrum f. majus (Harm.) Gyeln. FORM
-=======
+# Placynthium majus Harm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lich. Fr. 5: 20 (1913)
 
 #### Original name
 Placynthium majus Harm.

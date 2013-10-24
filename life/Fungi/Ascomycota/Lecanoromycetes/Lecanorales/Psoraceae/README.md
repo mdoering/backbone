@@ -1,5 +1,4 @@
-Psoraceae Zahlbr. FAMILY
-=======
+# Psoraceae Zahlbr. FAMILY
 
 #### Status
 ACCEPTED

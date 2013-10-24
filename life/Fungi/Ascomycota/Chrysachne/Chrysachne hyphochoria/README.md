@@ -1,5 +1,4 @@
-Chrysachne hyphochoria Cif., 1938 SPECIES
-=======
+# Chrysachne hyphochoria Cif., 1938 SPECIES
 
 #### Status
 ACCEPTED

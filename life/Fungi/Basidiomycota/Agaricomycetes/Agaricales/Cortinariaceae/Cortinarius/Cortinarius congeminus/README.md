@@ -1,5 +1,4 @@
-Cortinarius congeminus f. congeminus FORM
-=======
+# Cortinarius congeminus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Bidaud, Moënne-Loccoz, Reumaux & Henry, Atlas des Cortinaires (Meyzieu) 7: 228 (1995)
 
 #### Original name
-Cortinarius congeminus f. congeminus
+Cortinarius congeminus Moënne-Locc. & Reumaux
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Neorickettsia GENUS
-=======
+# Neorickettsia GENUS
 
 #### Status
 ACCEPTED

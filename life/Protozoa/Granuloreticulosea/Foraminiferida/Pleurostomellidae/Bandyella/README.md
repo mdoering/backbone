@@ -1,5 +1,4 @@
-Bandyella Loeblich & Tappan, 1962 GENUS
-=======
+# Bandyella Loeblich & Tappan, 1962 GENUS
 
 #### Status
 ACCEPTED

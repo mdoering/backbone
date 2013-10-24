@@ -1,5 +1,4 @@
-Cytospora vinosa Delacr. SPECIES
-=======
+# Cytospora vinosa Delacr. SPECIES
 
 #### Status
 ACCEPTED

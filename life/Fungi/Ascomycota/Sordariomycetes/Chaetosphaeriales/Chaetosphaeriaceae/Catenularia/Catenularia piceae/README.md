@@ -1,5 +1,4 @@
-Catenularia piceae M.B. Ellis, 1976 SPECIES
-=======
+# Catenularia piceae M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

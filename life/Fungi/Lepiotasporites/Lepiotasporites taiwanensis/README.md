@@ -1,5 +1,4 @@
-Lepiotasporites taiwanensis T.C. Huang SPECIES
-=======
+# Lepiotasporites taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium oryzicola Nakata & E. Kawam. SPECIES
-=======
+# Sclerotium oryzicola Nakata & E. Kawam. SPECIES
 
 #### Status
 ACCEPTED

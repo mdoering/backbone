@@ -1,5 +1,4 @@
-Amphisphaeria terricola G. Winter SPECIES
-=======
+# Amphisphaeria terricola G. Winter SPECIES
 
 #### Status
 ACCEPTED

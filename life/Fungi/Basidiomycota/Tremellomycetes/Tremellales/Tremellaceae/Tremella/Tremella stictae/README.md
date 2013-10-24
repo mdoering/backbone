@@ -1,5 +1,4 @@
-Tremella stictae Diederich SPECIES
-=======
+# Tremella stictae Diederich SPECIES
 
 #### Status
 ACCEPTED

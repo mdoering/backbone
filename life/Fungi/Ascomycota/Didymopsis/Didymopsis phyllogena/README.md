@@ -1,5 +1,4 @@
-Didymopsis phyllogena Sacc. SPECIES
-=======
+# Didymopsis phyllogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

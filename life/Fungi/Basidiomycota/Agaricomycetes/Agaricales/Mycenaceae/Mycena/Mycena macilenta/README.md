@@ -1,5 +1,4 @@
-Mycena macilenta H.E. Bigelow SPECIES
-=======
+# Mycena macilenta H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

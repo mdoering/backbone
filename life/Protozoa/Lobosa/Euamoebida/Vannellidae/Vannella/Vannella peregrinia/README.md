@@ -1,5 +1,4 @@
-Vannella peregrinia Smirnov & Fenchel, 1996 SPECIES
-=======
+# Vannella peregrinia Smirnov & Fenchel, 1996 SPECIES
 
 #### Status
 ACCEPTED

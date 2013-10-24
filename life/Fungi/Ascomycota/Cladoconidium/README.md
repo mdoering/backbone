@@ -1,5 +1,4 @@
-Cladoconidium Bandoni & Tubaki GENUS
-=======
+# Cladoconidium Bandoni & Tubaki GENUS
 
 #### Status
 ACCEPTED

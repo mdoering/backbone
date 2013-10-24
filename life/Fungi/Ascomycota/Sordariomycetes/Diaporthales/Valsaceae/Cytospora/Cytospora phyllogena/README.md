@@ -1,5 +1,4 @@
-Cytospora phyllogena Penz. & Sacc. SPECIES
-=======
+# Cytospora phyllogena Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

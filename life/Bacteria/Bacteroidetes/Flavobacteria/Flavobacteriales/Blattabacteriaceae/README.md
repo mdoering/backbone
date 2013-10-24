@@ -1,5 +1,4 @@
-Blattabacteriaceae FAMILY
-=======
+# Blattabacteriaceae FAMILY
 
 #### Status
 ACCEPTED

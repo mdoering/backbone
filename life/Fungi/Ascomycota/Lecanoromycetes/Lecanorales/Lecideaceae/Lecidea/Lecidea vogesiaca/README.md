@@ -1,5 +1,4 @@
-Lecidea vogesiaca Schaer. SPECIES
-=======
+# Lecidea vogesiaca Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spironucleus Lavier, 1936 GENUS
-=======
+# Spironucleus Lavier, 1936 GENUS
 
 #### Status
 ACCEPTED

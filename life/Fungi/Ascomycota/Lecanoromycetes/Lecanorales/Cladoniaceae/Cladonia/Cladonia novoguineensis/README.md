@@ -1,5 +1,4 @@
-Cladonia novoguineensis Zahlbr. SPECIES
-=======
+# Cladonia novoguineensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

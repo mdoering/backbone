@@ -1,5 +1,4 @@
-Lecidea polaris Lynge SPECIES
-=======
+# Lecidea polaris Lynge SPECIES
 
 #### Status
 ACCEPTED

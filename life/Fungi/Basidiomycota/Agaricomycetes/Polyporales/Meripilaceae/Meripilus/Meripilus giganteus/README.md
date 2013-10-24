@@ -1,17 +1,16 @@
-Caloporus acanthoides (Bull.) Quél., 1888 SPECIES
-=======
+# Meripilus giganteus (Pers.) P. Karst., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. mycol. (Paris) 406 (1888)
+Bidr. Känn. Finl. Nat. Folk 37: 33 (1882)
 
 #### Original name
-Boletus acanthoides Bull., 1791
+Boletus giganteus Schumach., 1803
 
 ### Remarks
 null

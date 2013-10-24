@@ -1,5 +1,4 @@
-Synchytrium innominatum Farl. SPECIES
-=======
+# Synchytrium innominatum Farl. SPECIES
 
 #### Status
 ACCEPTED

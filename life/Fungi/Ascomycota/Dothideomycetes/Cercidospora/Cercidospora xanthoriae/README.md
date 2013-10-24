@@ -1,5 +1,4 @@
-Cercidospora xanthoriae (Wedd.) R. Sant. SPECIES
-=======
+# Cercidospora xanthoriae (Wedd.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

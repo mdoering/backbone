@@ -1,5 +1,4 @@
-Humaria squamosa (Schumach.) Sacc. SPECIES
-=======
+# Humaria squamosa (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

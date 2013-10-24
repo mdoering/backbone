@@ -1,5 +1,4 @@
-Gloeosporium acericola Allesch. SPECIES
-=======
+# Gloeosporium acericola Allesch. SPECIES
 
 #### Status
 ACCEPTED

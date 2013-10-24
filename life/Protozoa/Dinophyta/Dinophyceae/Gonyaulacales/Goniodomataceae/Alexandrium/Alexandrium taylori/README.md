@@ -1,5 +1,4 @@
-Alexandrium taylori Balech, 1994 SPECIES
-=======
+# Alexandrium taylori Balech, 1994 SPECIES
 
 #### Status
 ACCEPTED

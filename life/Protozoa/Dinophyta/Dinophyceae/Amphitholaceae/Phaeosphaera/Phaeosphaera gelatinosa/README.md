@@ -1,5 +1,4 @@
-Phaeosphaera gelatinosa W. West & G.S. West SPECIES
-=======
+# Phaeosphaera gelatinosa W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

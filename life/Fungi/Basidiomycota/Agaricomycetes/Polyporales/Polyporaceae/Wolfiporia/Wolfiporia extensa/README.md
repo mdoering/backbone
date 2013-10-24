@@ -1,17 +1,16 @@
-Poria cocos F.A. Wolf, 1922 SPECIES
-=======
+# Wolfiporia extensa (Peck) Ginns, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 38: 134 (1922)
+Mycotaxon 21: 332 (1984)
 
 #### Original name
-Poria cocos F.A. Wolf, 1922
+Daedalea extensa Peck, 1891
 
 ### Remarks
 null

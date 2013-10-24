@@ -1,5 +1,4 @@
-Panellus glutinosus Corner, 1986 SPECIES
-=======
+# Panellus glutinosus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta tamicola Woron. SPECIES
-=======
+# Phyllosticta tamicola Woron. SPECIES
 
 #### Status
 ACCEPTED

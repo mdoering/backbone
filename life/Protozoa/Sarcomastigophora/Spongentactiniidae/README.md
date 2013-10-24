@@ -1,5 +1,4 @@
-Spongentactiniidae Nazarov, 1975 FAMILY
-=======
+# Spongentactiniidae Nazarov, 1975 FAMILY
 
 #### Status
 ACCEPTED

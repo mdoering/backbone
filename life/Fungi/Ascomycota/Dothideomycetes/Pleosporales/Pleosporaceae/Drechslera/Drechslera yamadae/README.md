@@ -1,14 +1,13 @@
-Drechslera yamadai (Y. Nisik.) Subram. & B.L. Jain SPECIES
-=======
+# Drechslera yamadae (Y. Nisik.) Subram. & B.L. Jain SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 35: 355 (1966)
 
 #### Original name
 Helminthosporium yamadae Y. Nisik.

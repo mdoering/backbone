@@ -1,5 +1,4 @@
-Peniophora costata (Rick) Rick SPECIES
-=======
+# Peniophora costata (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

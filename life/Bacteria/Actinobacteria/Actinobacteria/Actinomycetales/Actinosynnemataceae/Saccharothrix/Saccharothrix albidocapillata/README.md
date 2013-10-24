@@ -1,8 +1,7 @@
-Lentzea albidocapillata Yassin et al., 1995 SPECIES
-=======
+# Saccharothrix albidocapillata (Yassin et al., 1995) Lee et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

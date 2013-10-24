@@ -1,5 +1,4 @@
-Scelophoromyces osorianus Thaxt., 1912 SPECIES
-=======
+# Scelophoromyces osorianus Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

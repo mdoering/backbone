@@ -1,5 +1,4 @@
-Amanita basibulbosa A.E. Wood SPECIES
-=======
+# Amanita basibulbosa A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

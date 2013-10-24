@@ -1,5 +1,4 @@
-Zoophthora jaczewskii (Zaprom.) A. Batko SPECIES
-=======
+# Zoophthora jaczewskii (Zaprom.) A. Batko SPECIES
 
 #### Status
 ACCEPTED

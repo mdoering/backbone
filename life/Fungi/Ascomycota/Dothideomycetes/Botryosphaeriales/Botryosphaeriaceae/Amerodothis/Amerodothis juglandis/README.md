@@ -1,5 +1,4 @@
-Amerodothis juglandis (Mont.) Theiss. & Syd. SPECIES
-=======
+# Amerodothis juglandis (Mont.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

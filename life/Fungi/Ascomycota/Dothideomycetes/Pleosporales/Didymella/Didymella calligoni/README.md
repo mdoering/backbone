@@ -1,5 +1,4 @@
-Didymella calligoni Frolov SPECIES
-=======
+# Didymella calligoni Frolov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhynchostoma piriforme A.L. Sm. SPECIES
-=======
+# Rhynchostoma piriforme A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

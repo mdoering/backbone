@@ -1,5 +1,4 @@
-Lichen sympageus Ach. SPECIES
-=======
+# Lichen sympageus Ach. SPECIES
 
 #### Status
 ACCEPTED

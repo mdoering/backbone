@@ -1,5 +1,4 @@
-Thekopsora pseudocerasi Hirats. f. SPECIES
-=======
+# Thekopsora pseudocerasi Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

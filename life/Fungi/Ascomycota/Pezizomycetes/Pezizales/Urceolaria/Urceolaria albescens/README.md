@@ -1,5 +1,4 @@
-Urceolaria albescens (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria albescens (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

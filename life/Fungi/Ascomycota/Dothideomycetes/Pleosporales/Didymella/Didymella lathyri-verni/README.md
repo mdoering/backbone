@@ -1,5 +1,4 @@
-Didymella lathyri-verni Sandu SPECIES
-=======
+# Didymella lathyri-verni Sandu SPECIES
 
 #### Status
 ACCEPTED

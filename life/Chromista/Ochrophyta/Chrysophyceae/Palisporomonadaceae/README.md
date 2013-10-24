@@ -1,5 +1,4 @@
-Palisporomonadaceae FAMILY
-=======
+# Palisporomonadaceae FAMILY
 
 #### Status
 ACCEPTED

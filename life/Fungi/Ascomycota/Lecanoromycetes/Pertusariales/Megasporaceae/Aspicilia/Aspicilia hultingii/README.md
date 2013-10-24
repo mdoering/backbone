@@ -1,5 +1,4 @@
-Aspicilia hultingii (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia hultingii (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

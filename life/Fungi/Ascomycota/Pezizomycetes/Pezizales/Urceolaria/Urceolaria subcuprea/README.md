@@ -1,5 +1,4 @@
-Urceolaria subcuprea Nyl. SPECIES
-=======
+# Urceolaria subcuprea Nyl. SPECIES
 
 #### Status
 ACCEPTED

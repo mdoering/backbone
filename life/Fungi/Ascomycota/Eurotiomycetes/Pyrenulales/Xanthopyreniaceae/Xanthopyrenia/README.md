@@ -1,5 +1,4 @@
-Xanthopyrenia GENUS
-=======
+# Xanthopyrenia GENUS
 
 #### Status
 ACCEPTED

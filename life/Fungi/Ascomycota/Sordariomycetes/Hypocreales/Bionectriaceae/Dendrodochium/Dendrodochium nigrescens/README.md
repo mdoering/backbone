@@ -1,5 +1,4 @@
-Dendrodochium nigrescens Ellis & Everh. SPECIES
-=======
+# Dendrodochium nigrescens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

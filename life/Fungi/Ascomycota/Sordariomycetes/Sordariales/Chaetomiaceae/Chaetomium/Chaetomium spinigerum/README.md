@@ -1,5 +1,4 @@
-Chaetomium spinigerum Sörgel, 1972 SPECIES
-=======
+# Chaetomium spinigerum Sörgel, 1972 SPECIES
 
 #### Status
 ACCEPTED

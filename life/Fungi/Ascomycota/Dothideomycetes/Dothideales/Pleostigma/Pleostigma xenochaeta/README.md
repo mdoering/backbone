@@ -1,14 +1,13 @@
-Pleosphaeria xenochaeta Penz. & Sacc., 1902 SPECIES
-=======
+# Pleostigma xenochaeta (Penz. & Sacc.) Kirschst., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 37: 91 (1939)
 
 #### Original name
 Pleosphaeria xenochaeta Penz. & Sacc., 1902

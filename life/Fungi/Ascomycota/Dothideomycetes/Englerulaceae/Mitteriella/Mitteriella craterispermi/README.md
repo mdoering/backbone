@@ -1,5 +1,4 @@
-Mitteriella craterispermi Hansf. SPECIES
-=======
+# Mitteriella craterispermi Hansf. SPECIES
 
 #### Status
 ACCEPTED

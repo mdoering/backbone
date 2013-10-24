@@ -1,5 +1,4 @@
-Anthostoma acerinum Ellis & Fairm. SPECIES
-=======
+# Anthostoma acerinum Ellis & Fairm. SPECIES
 
 #### Status
 ACCEPTED

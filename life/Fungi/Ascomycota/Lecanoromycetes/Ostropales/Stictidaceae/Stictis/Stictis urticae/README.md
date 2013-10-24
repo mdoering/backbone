@@ -1,5 +1,4 @@
-Stictis urticae P. Crouan & H. Crouan SPECIES
-=======
+# Stictis urticae P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus montagnei Kalchbr. SPECIES
-=======
+# Agaricus montagnei Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia paradoxa (Henn.) Sacc. SPECIES
-=======
+# Stropharia paradoxa (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

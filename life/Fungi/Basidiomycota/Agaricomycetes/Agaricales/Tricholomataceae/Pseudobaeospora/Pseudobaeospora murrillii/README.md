@@ -1,5 +1,4 @@
-Pseudobaeospora murrillii E. Horak SPECIES
-=======
+# Pseudobaeospora murrillii E. Horak SPECIES
 
 #### Status
 ACCEPTED

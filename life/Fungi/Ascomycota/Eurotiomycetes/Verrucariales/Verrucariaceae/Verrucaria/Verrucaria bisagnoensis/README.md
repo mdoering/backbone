@@ -1,5 +1,4 @@
-Verrucaria bisagnoensis Servít SPECIES
-=======
+# Verrucaria bisagnoensis Servít SPECIES
 
 #### Status
 ACCEPTED

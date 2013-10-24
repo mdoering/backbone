@@ -1,5 +1,4 @@
-Phlegmacium hysginum M.M. Moser SPECIES
-=======
+# Phlegmacium hysginum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

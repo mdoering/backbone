@@ -1,5 +1,4 @@
-Coniosporium fuckelii Sacc. SPECIES
-=======
+# Coniosporium fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

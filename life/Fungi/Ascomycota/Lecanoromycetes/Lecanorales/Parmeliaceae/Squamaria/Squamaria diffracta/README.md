@@ -1,5 +1,4 @@
-Squamaria diffracta f. diffracta FORM
-=======
+# Squamaria diffracta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea convarians (Nyl.) Nyl. SPECIES
-=======
+# Lecidea convarians (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

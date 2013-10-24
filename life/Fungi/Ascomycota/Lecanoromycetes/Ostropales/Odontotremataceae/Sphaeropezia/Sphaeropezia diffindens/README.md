@@ -1,5 +1,4 @@
-Sphaeropezia diffindens (Rehm) Höhn. SPECIES
-=======
+# Sphaeropezia diffindens (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

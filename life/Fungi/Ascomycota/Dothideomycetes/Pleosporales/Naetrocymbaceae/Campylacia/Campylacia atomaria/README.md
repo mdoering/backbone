@@ -1,5 +1,4 @@
-Campylacia atomaria SPECIES
-=======
+# Campylacia atomaria SPECIES
 
 #### Status
 ACCEPTED

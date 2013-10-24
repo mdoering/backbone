@@ -1,5 +1,4 @@
-Menegazzia foraminulosa (Kremp.) Bitter SPECIES
-=======
+# Menegazzia foraminulosa (Kremp.) Bitter SPECIES
 
 #### Status
 ACCEPTED

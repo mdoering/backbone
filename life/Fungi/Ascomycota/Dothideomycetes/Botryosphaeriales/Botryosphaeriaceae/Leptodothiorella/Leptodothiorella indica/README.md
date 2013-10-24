@@ -1,5 +1,4 @@
-Leptodothiorella indica R.P. Singh & Abbasi SPECIES
-=======
+# Leptodothiorella indica R.P. Singh & Abbasi SPECIES
 
 #### Status
 ACCEPTED

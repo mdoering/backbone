@@ -1,5 +1,4 @@
-Nectria perforata (Ellis & Holw.) Sacc. SPECIES
-=======
+# Nectria perforata (Ellis & Holw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

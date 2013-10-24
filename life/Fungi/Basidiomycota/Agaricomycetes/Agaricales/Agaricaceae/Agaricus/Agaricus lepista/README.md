@@ -1,5 +1,4 @@
-Agaricus lepista Fr. SPECIES
-=======
+# Agaricus lepista Fr. SPECIES
 
 #### Status
 ACCEPTED

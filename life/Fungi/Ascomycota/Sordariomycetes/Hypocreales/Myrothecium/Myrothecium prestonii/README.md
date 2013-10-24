@@ -1,5 +1,4 @@
-Myrothecium prestonii M.C. Tulloch, 1972 SPECIES
-=======
+# Myrothecium prestonii M.C. Tulloch, 1972 SPECIES
 
 #### Status
 ACCEPTED

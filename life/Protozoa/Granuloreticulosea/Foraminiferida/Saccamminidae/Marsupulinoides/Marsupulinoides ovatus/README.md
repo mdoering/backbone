@@ -1,5 +1,4 @@
-Marsupulinoides ovatus Brönnimann, 1988 SPECIES
-=======
+# Marsupulinoides ovatus Brönnimann, 1988 SPECIES
 
 #### Status
 ACCEPTED

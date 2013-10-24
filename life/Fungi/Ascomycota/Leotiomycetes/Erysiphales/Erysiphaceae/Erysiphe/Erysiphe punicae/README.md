@@ -1,5 +1,4 @@
-Erysiphe punicae T.M. Achundov SPECIES
-=======
+# Erysiphe punicae T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

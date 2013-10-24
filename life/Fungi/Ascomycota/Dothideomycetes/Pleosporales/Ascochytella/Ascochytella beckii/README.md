@@ -1,5 +1,4 @@
-Ascochytella beckii (Bäumler) Petr. SPECIES
-=======
+# Ascochytella beckii (Bäumler) Petr. SPECIES
 
 #### Status
 ACCEPTED

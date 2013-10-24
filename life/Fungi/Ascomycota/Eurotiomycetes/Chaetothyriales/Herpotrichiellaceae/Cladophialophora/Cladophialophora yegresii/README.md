@@ -1,5 +1,4 @@
-Cladophialophora yegresii de Hoog SPECIES
-=======
+# Cladophialophora yegresii de Hoog SPECIES
 
 #### Status
 ACCEPTED

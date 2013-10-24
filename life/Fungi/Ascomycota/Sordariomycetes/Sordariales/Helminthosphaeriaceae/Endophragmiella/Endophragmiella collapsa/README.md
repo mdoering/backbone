@@ -1,5 +1,4 @@
-Endophragmiella collapsa (B. Sutton) S. Hughes SPECIES
-=======
+# Endophragmiella collapsa (B. Sutton) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

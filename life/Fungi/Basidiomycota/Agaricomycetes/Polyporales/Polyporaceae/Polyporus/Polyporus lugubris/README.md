@@ -1,5 +1,4 @@
-Polyporus lugubris Kalchbr. SPECIES
-=======
+# Polyporus lugubris Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

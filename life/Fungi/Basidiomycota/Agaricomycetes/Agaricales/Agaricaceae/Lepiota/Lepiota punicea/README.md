@@ -1,5 +1,4 @@
-Lepiota punicea Massee SPECIES
-=======
+# Lepiota punicea Massee SPECIES
 
 #### Status
 ACCEPTED

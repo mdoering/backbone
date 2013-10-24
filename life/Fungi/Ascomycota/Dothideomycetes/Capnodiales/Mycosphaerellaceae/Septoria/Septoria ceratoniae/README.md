@@ -1,5 +1,4 @@
-Septoria ceratoniae Pass. SPECIES
-=======
+# Septoria ceratoniae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria triptophylliza Nyl. SPECIES
-=======
+# Pannaria triptophylliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

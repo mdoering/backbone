@@ -1,5 +1,4 @@
-Enterococcus phoeniculicola Law-Brown & Meyers, 2003 SPECIES
-=======
+# Enterococcus phoeniculicola Law-Brown & Meyers, 2003 SPECIES
 
 #### Status
 ACCEPTED

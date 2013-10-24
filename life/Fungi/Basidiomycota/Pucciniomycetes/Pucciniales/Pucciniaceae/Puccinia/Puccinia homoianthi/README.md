@@ -1,5 +1,4 @@
-Puccinia homoianthi P. Syd. & Syd. SPECIES
-=======
+# Puccinia homoianthi P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

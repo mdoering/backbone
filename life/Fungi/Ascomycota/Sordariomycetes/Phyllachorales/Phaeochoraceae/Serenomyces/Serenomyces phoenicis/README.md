@@ -1,14 +1,13 @@
-Ceratostoma phoenicis Rolland, 1891 SPECIES
-=======
+# Serenomyces phoenicis (Rolland) E. Müll. & S. Ahmad, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 7: 96 (1891)
+Biologia, Lahore 8: 151 (1962)
 
 #### Original name
 Ceratostoma phoenicis Rolland, 1891

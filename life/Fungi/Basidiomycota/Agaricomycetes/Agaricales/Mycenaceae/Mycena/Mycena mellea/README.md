@@ -1,5 +1,4 @@
-Mycena mellea Lj.N. Vassiljeva SPECIES
-=======
+# Mycena mellea Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

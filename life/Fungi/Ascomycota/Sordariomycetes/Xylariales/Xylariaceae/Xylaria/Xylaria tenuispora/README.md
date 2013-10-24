@@ -1,5 +1,4 @@
-Xylaria tenuispora (Dennis) D. Hawksw. SPECIES
-=======
+# Xylaria tenuispora (Dennis) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

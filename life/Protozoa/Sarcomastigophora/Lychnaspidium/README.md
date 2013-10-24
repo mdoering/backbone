@@ -1,5 +1,4 @@
-Lychnaspidium Haeckel, 1887 GENUS
-=======
+# Lychnaspidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

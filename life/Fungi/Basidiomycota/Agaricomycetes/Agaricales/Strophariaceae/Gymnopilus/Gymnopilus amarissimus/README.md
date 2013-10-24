@@ -1,5 +1,4 @@
-Gymnopilus amarissimus Murrill SPECIES
-=======
+# Gymnopilus amarissimus Murrill SPECIES
 
 #### Status
 ACCEPTED

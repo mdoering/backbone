@@ -1,14 +1,13 @@
-Psilocybe inquilina var. crobula (Fr.) Høil., 1978 VARIETY
-=======
+# Psilocybe crobula (Fr.) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Norw. Jl Bot. 25: 120 (1978)
+Sydowia 15: 70 (1962)
 
 #### Original name
 Agaricus crobulus Fr., 1838

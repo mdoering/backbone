@@ -1,5 +1,4 @@
-Gibberidea comptoniae (Cooke & Ellis) Kuntze SPECIES
-=======
+# Gibberidea comptoniae (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

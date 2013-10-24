@@ -1,5 +1,4 @@
-Phlyctidium cladophorae Kobayasi & M. Ôkubo SPECIES
-=======
+# Phlyctidium cladophorae Kobayasi & M. Ôkubo SPECIES
 
 #### Status
 ACCEPTED

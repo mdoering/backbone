@@ -1,5 +1,4 @@
-Gyromitra fastigiata (Krombh.) Rehm SPECIES
-=======
+# Gyromitra fastigiata (Krombh.) Rehm SPECIES
 
 #### Status
 ACCEPTED

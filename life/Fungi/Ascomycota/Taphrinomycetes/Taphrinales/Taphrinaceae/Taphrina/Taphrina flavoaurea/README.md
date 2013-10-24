@@ -1,5 +1,4 @@
-Taphrina flavoaurea (Cocc.) Laubert SPECIES
-=======
+# Taphrina flavoaurea (Cocc.) Laubert SPECIES
 
 #### Status
 ACCEPTED

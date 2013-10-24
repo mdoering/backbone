@@ -1,5 +1,4 @@
-Coprinus sclerotiorum Horvers & de Cock SPECIES
-=======
+# Coprinus sclerotiorum Horvers & de Cock SPECIES
 
 #### Status
 ACCEPTED

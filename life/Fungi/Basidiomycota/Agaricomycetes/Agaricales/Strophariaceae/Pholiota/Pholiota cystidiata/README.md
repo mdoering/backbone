@@ -1,5 +1,4 @@
-Pholiota cystidiata Natarajan & C. Ravindran SPECIES
-=======
+# Pholiota cystidiata Natarajan & C. Ravindran SPECIES
 
 #### Status
 ACCEPTED

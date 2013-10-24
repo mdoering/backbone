@@ -1,5 +1,4 @@
-Spathidium holsatiae Kahl, 1930 SPECIES
-=======
+# Spathidium holsatiae Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

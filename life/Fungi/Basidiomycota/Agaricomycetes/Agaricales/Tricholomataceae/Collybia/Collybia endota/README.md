@@ -1,5 +1,4 @@
-Collybia endota Grgur. SPECIES
-=======
+# Collybia endota Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia xerochloae R.G. Shivas, McTaggart & Vánky SPECIES
-=======
+# Tilletia xerochloae R.G. Shivas, McTaggart & Vánky SPECIES
 
 #### Status
 ACCEPTED

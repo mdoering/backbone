@@ -1,14 +1,13 @@
-Erinella viridula (Schrad.) Quél., 1886 SPECIES
-=======
+# Dasyscyphus viridulus (Schrad.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 304 (1886)
+Syll. fung. (Abellini) 8: 437 (1889)
 
 #### Original name
 null

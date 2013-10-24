@@ -1,5 +1,4 @@
-Aposphaeria leptospermi Cooke SPECIES
-=======
+# Aposphaeria leptospermi Cooke SPECIES
 
 #### Status
 ACCEPTED

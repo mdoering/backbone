@@ -1,5 +1,4 @@
-Septoria circaeae Fautrey SPECIES
-=======
+# Septoria circaeae Fautrey SPECIES
 
 #### Status
 ACCEPTED

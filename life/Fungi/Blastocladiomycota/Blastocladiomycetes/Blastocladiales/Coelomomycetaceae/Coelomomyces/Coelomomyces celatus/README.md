@@ -1,5 +1,4 @@
-Coelomomyces celatus Couch & Hembree SPECIES
-=======
+# Coelomomyces celatus Couch & Hembree SPECIES
 
 #### Status
 ACCEPTED

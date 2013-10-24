@@ -1,5 +1,4 @@
-Olpidiaster gossypii Saccas SPECIES
-=======
+# Olpidiaster gossypii Saccas SPECIES
 
 #### Status
 ACCEPTED

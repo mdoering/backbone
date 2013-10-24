@@ -1,5 +1,4 @@
-Asterionella ralfsii var. hustedtiana Körner VARIETY
-=======
+# Asterionella ralfsii W. Smith SPECIES
 
 #### Status
 ACCEPTED

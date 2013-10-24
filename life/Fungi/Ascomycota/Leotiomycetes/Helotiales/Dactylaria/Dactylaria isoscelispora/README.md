@@ -1,5 +1,4 @@
-Dactylaria isoscelispora W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Dactylaria isoscelispora W.B. Kendr. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora lecanorina (A. Massal.) Harm. SPECIES
-=======
+# Lecanora lecanorina (A. Massal.) Harm. SPECIES
 
 #### Status
 ACCEPTED

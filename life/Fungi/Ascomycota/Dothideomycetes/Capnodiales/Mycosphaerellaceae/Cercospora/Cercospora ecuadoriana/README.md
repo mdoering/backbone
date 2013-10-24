@@ -1,5 +1,4 @@
-Cercospora ecuadoriana Constant. SPECIES
-=======
+# Cercospora ecuadoriana Constant. SPECIES
 
 #### Status
 ACCEPTED

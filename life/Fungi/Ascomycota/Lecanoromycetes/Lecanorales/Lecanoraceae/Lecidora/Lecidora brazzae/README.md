@@ -1,5 +1,4 @@
-Lecidora brazzae (Zahlbr.) Motyka SPECIES
-=======
+# Lecidora brazzae (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

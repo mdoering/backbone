@@ -1,5 +1,4 @@
-Lecidea pachynema I.M. Lamb SPECIES
-=======
+# Lecidea pachynema I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

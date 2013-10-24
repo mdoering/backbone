@@ -1,5 +1,4 @@
-Lachnea geneospora (Berk.) Sacc. SPECIES
-=======
+# Lachnea geneospora (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

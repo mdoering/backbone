@@ -1,5 +1,4 @@
-Oidium nyctaginacearum Hosag. SPECIES
-=======
+# Oidium nyctaginacearum Hosag. SPECIES
 
 #### Status
 ACCEPTED

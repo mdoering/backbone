@@ -1,5 +1,4 @@
-Sclerotium anthodiophilum Rabenh. SPECIES
-=======
+# Sclerotium anthodiophilum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

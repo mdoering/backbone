@@ -1,5 +1,4 @@
-Emblemospora monotrema Jeng & J.C. Krug, 1976 SPECIES
-=======
+# Emblemospora monotrema Jeng & J.C. Krug, 1976 SPECIES
 
 #### Status
 ACCEPTED

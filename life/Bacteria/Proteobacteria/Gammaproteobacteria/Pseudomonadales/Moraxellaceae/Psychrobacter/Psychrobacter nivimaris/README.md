@@ -1,5 +1,4 @@
-Psychrobacter nivimaris Heuchert et al., 2004 SPECIES
-=======
+# Psychrobacter nivimaris Heuchert et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

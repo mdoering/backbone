@@ -1,8 +1,7 @@
-Peziza rhenana (Fuckel) Boud., 1907 SPECIES
-=======
+# Sowerbyella rhenana Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Aleuria rhenana Fuckel, 1870
+null
 
 ### Remarks
 null

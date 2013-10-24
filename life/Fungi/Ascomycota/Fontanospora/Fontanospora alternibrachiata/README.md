@@ -1,5 +1,4 @@
-Fontanospora alternibrachiata Dyko SPECIES
-=======
+# Fontanospora alternibrachiata Dyko SPECIES
 
 #### Status
 ACCEPTED

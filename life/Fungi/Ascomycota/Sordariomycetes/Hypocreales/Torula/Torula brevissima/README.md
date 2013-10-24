@@ -1,5 +1,4 @@
-Torula brevissima Berk. & M.A. Curtis SPECIES
-=======
+# Torula brevissima Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

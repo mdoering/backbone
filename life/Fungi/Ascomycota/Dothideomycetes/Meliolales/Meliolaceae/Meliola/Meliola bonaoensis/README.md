@@ -1,5 +1,4 @@
-Meliola bonaoensis Cif. SPECIES
-=======
+# Meliola bonaoensis Cif. SPECIES
 
 #### Status
 ACCEPTED

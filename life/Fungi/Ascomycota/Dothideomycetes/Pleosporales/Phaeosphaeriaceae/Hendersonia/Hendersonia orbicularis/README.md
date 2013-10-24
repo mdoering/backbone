@@ -1,5 +1,4 @@
-Hendersonia orbicularis (Cooke) Kuntze SPECIES
-=======
+# Hendersonia orbicularis (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

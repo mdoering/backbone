@@ -1,5 +1,4 @@
-Marinosphaera mangrovei K.D. Hyde, 1989 SPECIES
-=======
+# Marinosphaera mangrovei K.D. Hyde, 1989 SPECIES
 
 #### Status
 ACCEPTED

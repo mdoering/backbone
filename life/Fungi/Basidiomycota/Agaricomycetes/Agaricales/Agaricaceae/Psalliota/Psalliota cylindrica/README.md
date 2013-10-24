@@ -1,5 +1,4 @@
-Psalliota cylindrica Velen. SPECIES
-=======
+# Psalliota cylindrica Velen. SPECIES
 
 #### Status
 ACCEPTED

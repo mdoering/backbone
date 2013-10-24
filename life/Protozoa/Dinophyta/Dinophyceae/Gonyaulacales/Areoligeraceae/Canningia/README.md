@@ -1,14 +1,13 @@
-Hashenia J.-X. Yu & W.-P. Zhang, 1980 GENUS
-=======
+# Canningia I.C. Cookson & A. Eisenack, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin chin. Acad. Geol. Sci. (Ser. 1) 2 (1): 107.
+null
 
 #### Original name
 null

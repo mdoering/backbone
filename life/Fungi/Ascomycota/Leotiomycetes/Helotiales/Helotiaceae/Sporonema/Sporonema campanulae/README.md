@@ -1,5 +1,4 @@
-Sporonema campanulae SPECIES
-=======
+# Sporonema campanulae SPECIES
 
 #### Status
 ACCEPTED

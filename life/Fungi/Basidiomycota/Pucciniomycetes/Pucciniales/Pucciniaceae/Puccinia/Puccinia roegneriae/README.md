@@ -1,5 +1,4 @@
-Puccinia roegneriae J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia roegneriae J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterothyrium rotuliforme (Müll. Arg.) Sérus. & J. R. De Sloover SPECIES
-=======
+# Asterothyrium rotuliforme (Müll. Arg.) Sérus. & J. R. De Sloover SPECIES
 
 #### Status
 ACCEPTED

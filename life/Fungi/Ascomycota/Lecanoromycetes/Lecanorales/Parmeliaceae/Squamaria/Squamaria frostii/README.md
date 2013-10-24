@@ -1,5 +1,4 @@
-Squamaria frostii SPECIES
-=======
+# Squamaria frostii SPECIES
 
 #### Status
 ACCEPTED

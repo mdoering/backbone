@@ -1,5 +1,4 @@
-Verrucaria huxarensis Zschacke SPECIES
-=======
+# Verrucaria huxarensis Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaenothecopsis pilosa Tibell & Kalb SPECIES
-=======
+# Chaenothecopsis pilosa Tibell & Kalb SPECIES
 
 #### Status
 ACCEPTED

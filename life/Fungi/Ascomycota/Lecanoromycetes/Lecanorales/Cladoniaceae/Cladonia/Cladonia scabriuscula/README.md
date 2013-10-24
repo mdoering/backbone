@@ -1,17 +1,16 @@
-Cladonia scabriuscula f. scabriuscula FORM
-=======
+# Cladonia scabriuscula (Delise) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 58: 447 (1875)
 
 #### Original name
-Cladonia scabriuscula f. scabriuscula
+Cenomyce scabriuscula Delise
 
 ### Remarks
 null

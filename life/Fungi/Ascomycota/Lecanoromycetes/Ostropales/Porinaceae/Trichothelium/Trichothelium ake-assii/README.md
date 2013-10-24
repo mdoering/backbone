@@ -1,5 +1,4 @@
-Trichothelium ake-assii U. Becker & Lücking SPECIES
-=======
+# Trichothelium ake-assii U. Becker & Lücking SPECIES
 
 #### Status
 ACCEPTED

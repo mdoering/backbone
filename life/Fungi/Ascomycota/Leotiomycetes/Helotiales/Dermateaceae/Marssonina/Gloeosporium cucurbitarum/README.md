@@ -1,5 +1,4 @@
-Gloeosporium cucurbitarum Berk. & Broome SPECIES
-=======
+# Gloeosporium cucurbitarum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

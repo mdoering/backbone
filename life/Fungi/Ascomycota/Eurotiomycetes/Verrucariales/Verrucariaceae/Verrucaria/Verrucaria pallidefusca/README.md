@@ -1,5 +1,4 @@
-Verrucaria pallidefusca Hoffm. SPECIES
-=======
+# Verrucaria pallidefusca Hoffm. SPECIES
 
 #### Status
 ACCEPTED

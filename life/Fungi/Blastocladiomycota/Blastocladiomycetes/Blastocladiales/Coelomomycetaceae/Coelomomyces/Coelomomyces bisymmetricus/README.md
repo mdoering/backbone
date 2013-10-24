@@ -1,5 +1,4 @@
-Coelomomyces bisymmetricus Couch & H.R. Dodge SPECIES
-=======
+# Coelomomyces bisymmetricus Couch & H.R. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria nanoides Lange-Bertalot SPECIES
-=======
+# Fragilaria nanoides Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

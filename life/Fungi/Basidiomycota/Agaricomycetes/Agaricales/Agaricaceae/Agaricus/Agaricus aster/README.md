@@ -1,5 +1,4 @@
-Agaricus aster G. Mey. SPECIES
-=======
+# Agaricus aster G. Mey. SPECIES
 
 #### Status
 ACCEPTED

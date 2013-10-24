@@ -1,5 +1,4 @@
-Volvaria gyalectoides (A. Massal.) Trevis. SPECIES
-=======
+# Volvaria gyalectoides (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

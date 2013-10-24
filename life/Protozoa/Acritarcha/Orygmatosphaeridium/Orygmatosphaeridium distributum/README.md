@@ -1,5 +1,4 @@
-Orygmatosphaeridium distributum Timofeev, 1973 SPECIES
-=======
+# Orygmatosphaeridium distributum Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

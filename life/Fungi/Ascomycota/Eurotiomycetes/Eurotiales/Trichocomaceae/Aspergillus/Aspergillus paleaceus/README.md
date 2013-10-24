@@ -1,5 +1,4 @@
-Aspergillus paleaceus Samson & W. Gams SPECIES
-=======
+# Aspergillus paleaceus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

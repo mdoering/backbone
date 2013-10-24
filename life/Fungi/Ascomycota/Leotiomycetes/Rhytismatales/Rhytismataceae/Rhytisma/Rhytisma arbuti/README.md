@@ -1,5 +1,4 @@
-Rhytisma arbuti W. Phillips SPECIES
-=======
+# Rhytisma arbuti W. Phillips SPECIES
 
 #### Status
 ACCEPTED

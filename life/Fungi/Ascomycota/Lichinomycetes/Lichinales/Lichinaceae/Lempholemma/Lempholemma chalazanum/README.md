@@ -1,14 +1,13 @@
-Collema chalazanum Ach. SPECIES
-=======
+# Lempholemma chalazanum (Ach.) B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. 630 (1810)
+Recherch. Lich. Dunkerque 261 (1910)
 
 #### Original name
 Collema chalazanum Ach.

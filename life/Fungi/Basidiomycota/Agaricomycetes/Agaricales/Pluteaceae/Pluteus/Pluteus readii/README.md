@@ -1,5 +1,4 @@
-Pluteus readii G. Stev., 1962 SPECIES
-=======
+# Pluteus readii G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

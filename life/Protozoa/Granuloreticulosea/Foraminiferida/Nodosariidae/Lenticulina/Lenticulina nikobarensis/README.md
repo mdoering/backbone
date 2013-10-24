@@ -1,5 +1,4 @@
-Lenticulina nikobarensis SPECIES
-=======
+# Lenticulina nikobarensis SPECIES
 
 #### Status
 ACCEPTED

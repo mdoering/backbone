@@ -1,5 +1,4 @@
-Agaricus cumulatus With. SPECIES
-=======
+# Agaricus cumulatus With. SPECIES
 
 #### Status
 ACCEPTED

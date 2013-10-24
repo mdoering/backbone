@@ -1,5 +1,4 @@
-Trichopeziza roseola (Fr.) Sacc. SPECIES
-=======
+# Trichopeziza roseola (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erwinia psidii Neto et al., 1988 SPECIES
-=======
+# Erwinia psidii Neto et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

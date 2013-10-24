@@ -1,5 +1,4 @@
-Uredinopsis glabra Faull SPECIES
-=======
+# Uredinopsis glabra Faull SPECIES
 
 #### Status
 ACCEPTED

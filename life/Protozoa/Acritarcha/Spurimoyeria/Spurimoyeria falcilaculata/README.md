@@ -1,5 +1,4 @@
-Spurimoyeria falcilaculata Wicander & Loeblich, 1977 SPECIES
-=======
+# Spurimoyeria falcilaculata Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

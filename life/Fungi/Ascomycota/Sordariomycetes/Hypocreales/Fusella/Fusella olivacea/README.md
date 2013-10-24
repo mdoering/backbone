@@ -1,5 +1,4 @@
-Fusella olivacea (Corda) Sacc. SPECIES
-=======
+# Fusella olivacea (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

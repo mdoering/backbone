@@ -1,5 +1,4 @@
-Leiophloea sphaeroides SPECIES
-=======
+# Leiophloea sphaeroides SPECIES
 
 #### Status
 ACCEPTED

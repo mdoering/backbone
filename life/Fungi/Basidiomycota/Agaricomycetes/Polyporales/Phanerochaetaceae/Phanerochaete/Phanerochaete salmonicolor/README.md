@@ -1,14 +1,13 @@
-Terana salmonicolor (Berk. & Broome) Kuntze, 1891 SPECIES
-=======
+# Phanerochaete salmonicolor (Berk. & Broome) Jülich, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Persoonia 8(3): 294 (1975)
 
 #### Original name
 Corticium salmonicolor Berk. & Broome, 1875

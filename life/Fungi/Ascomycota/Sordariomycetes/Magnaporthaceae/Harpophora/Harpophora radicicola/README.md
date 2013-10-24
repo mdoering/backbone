@@ -1,17 +1,16 @@
-Phialophora radicicola var. radicicola Cain, 1952 VARIETY
-=======
+# Harpophora radicicola (Cain) W. Gams, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 45: 192 (2000)
 
 #### Original name
-null
+Phialophora radicicola Cain, 1952
 
 ### Remarks
 null

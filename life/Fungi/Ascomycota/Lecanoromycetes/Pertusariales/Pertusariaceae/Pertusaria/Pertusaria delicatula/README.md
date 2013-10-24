@@ -1,5 +1,4 @@
-Pertusaria delicatula Müll. Arg. SPECIES
-=======
+# Pertusaria delicatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

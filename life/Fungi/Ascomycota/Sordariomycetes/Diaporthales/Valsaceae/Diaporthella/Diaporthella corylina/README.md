@@ -1,5 +1,4 @@
-Diaporthella corylina Lar.N. Vassiljeva SPECIES
-=======
+# Diaporthella corylina Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

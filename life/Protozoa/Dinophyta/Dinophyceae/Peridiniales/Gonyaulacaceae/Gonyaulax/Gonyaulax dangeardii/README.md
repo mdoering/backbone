@@ -1,8 +1,7 @@
-Gonyaulax pavillardii P. Dangeard, 1927 SPECIES
-=======
+# Gonyaulax dangeardii (P. Dangeard, 1927) Schiller, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Lophodermellina robergei (Desm.) Höhn. SPECIES
-=======
+# Lophodermellina robergei (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

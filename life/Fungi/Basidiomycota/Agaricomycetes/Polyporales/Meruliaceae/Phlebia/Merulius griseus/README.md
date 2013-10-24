@@ -1,5 +1,4 @@
-Merulius griseus (Alb. & Schwein.) Spreng. SPECIES
-=======
+# Merulius griseus (Alb. & Schwein.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

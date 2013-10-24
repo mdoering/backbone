@@ -1,5 +1,4 @@
-Oidium ambrosiae Thüm. SPECIES
-=======
+# Oidium ambrosiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora pentanematis U. Braun & Crous SPECIES
-=======
+# Pseudocercospora pentanematis U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

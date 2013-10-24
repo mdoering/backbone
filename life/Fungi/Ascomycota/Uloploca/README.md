@@ -1,5 +1,4 @@
-Uloploca Kleb. GENUS
-=======
+# Uloploca Kleb. GENUS
 
 #### Status
 ACCEPTED

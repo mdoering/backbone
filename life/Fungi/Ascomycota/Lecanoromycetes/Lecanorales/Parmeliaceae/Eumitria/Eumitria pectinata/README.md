@@ -1,17 +1,16 @@
-Usnea squarrosa var. misamisensis (Vain.) Herre VARIETY
-=======
+# Eumitria pectinata (Taylor) Articus SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Taxon 53(4): 932 (2004)
 
 #### Original name
-Usnea longissima var. misaminensis Vain.
+Usnea pectinata Taylor
 
 ### Remarks
 null

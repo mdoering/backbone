@@ -1,5 +1,4 @@
-Hypotrachyna everniastroides Sipman SPECIES
-=======
+# Hypotrachyna everniastroides Sipman SPECIES
 
 #### Status
 ACCEPTED

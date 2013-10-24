@@ -1,5 +1,4 @@
-Vulcanisphaera frequens Górka, 1967 SPECIES
-=======
+# Vulcanisphaera frequens Górka, 1967 SPECIES
 
 #### Status
 ACCEPTED

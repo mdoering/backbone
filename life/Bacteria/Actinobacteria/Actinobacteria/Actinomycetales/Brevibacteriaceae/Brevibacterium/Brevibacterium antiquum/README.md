@@ -1,5 +1,4 @@
-Brevibacterium antiquum Gavrish et al., 2005 SPECIES
-=======
+# Brevibacterium antiquum Gavrish et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

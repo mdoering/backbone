@@ -1,5 +1,4 @@
-Poria incerta (Pers.) Murrill SPECIES
-=======
+# Poria incerta (Pers.) Murrill SPECIES
 
 #### Status
 ACCEPTED

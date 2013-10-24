@@ -1,5 +1,4 @@
-Mycena oratiensis Segedin, 1991 SPECIES
-=======
+# Mycena oratiensis Segedin, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta germanica Speg. SPECIES
-=======
+# Phyllosticta germanica Speg. SPECIES
 
 #### Status
 ACCEPTED

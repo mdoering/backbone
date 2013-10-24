@@ -1,5 +1,4 @@
-Gymnopus contrarius (Peck) Halling SPECIES
-=======
+# Gymnopus contrarius (Peck) Halling SPECIES
 
 #### Status
 ACCEPTED

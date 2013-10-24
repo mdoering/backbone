@@ -1,5 +1,4 @@
-Chrysosporium tuberculatum Dominik SPECIES
-=======
+# Chrysosporium tuberculatum Dominik SPECIES
 
 #### Status
 ACCEPTED

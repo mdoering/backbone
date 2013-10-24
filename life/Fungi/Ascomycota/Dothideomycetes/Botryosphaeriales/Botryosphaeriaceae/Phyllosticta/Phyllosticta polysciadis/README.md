@@ -1,17 +1,16 @@
-Phyllosticta polysciae Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta polysciadis Bat. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bol. Secr. Agric. (Pernambuco) 19(1-2): 47 (1952)
 
 #### Original name
-Phyllosticta polysciae Bat. & A.F. Vital
+Phyllosticta polysciadis Bat. & A.F. Vital
 
 ### Remarks
 null

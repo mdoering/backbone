@@ -1,5 +1,4 @@
-Preussia kansensis (Griffiths) Guarro, 1997 SPECIES
-=======
+# Preussia kansensis (Griffiths) Guarro, 1997 SPECIES
 
 #### Status
 ACCEPTED

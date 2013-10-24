@@ -1,5 +1,4 @@
-Didymochaeta fraserae (Ellis & Everh.) B. Sutton SPECIES
-=======
+# Didymochaeta fraserae (Ellis & Everh.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

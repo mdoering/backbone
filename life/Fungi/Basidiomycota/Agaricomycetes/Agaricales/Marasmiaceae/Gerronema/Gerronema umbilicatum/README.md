@@ -1,5 +1,4 @@
-Gerronema umbilicatum (Bull.) Singer SPECIES
-=======
+# Gerronema umbilicatum (Bull.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fungus bresadolae (Schulzer) Kuntze, 1898 SPECIES
-=======
+# Leucoagaricus americanus (Peck) Vellinga, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 479 (1898)
+Mycotaxon 76: 433 (2000)
 
 #### Original name
-Agaricus bresadolae Schulzer, 1885
+Agaricus americanus Peck, 1872
 
 ### Remarks
 null

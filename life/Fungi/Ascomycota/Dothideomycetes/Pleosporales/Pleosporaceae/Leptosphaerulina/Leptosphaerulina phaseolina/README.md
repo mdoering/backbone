@@ -1,5 +1,4 @@
-Leptosphaerulina phaseolina Bondartsev SPECIES
-=======
+# Leptosphaerulina phaseolina Bondartsev SPECIES
 
 #### Status
 ACCEPTED

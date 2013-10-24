@@ -1,5 +1,4 @@
-Discoanomalina coronata (Parker & Jones, 1857) SPECIES
-=======
+# Discoanomalina coronata (Parker & Jones, 1857) SPECIES
 
 #### Status
 DOUBTFUL

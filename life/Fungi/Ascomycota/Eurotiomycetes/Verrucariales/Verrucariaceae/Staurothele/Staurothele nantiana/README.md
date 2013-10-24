@@ -1,5 +1,4 @@
-Staurothele nantiana (B. de Lesd.) Zschacke SPECIES
-=======
+# Staurothele nantiana (B. de Lesd.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

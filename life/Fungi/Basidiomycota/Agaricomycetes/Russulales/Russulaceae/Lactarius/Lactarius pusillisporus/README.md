@@ -1,5 +1,4 @@
-Lactarius pusillisporus Verbeken SPECIES
-=======
+# Lactarius pusillisporus Verbeken SPECIES
 
 #### Status
 ACCEPTED

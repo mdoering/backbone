@@ -1,5 +1,4 @@
-Phyllosticta uvulariae Galloway SPECIES
-=======
+# Phyllosticta uvulariae Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megalospora sulphureorufa (Nyl.) Riddle SPECIES
-=======
+# Megalospora sulphureorufa (Nyl.) Riddle SPECIES
 
 #### Status
 ACCEPTED

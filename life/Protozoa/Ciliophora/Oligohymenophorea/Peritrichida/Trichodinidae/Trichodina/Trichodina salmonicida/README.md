@@ -1,5 +1,4 @@
-Trichodina salmonicida SPECIES
-=======
+# Trichodina salmonicida SPECIES
 
 #### Status
 ACCEPTED

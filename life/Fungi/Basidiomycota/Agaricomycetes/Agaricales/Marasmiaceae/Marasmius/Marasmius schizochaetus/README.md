@@ -1,5 +1,4 @@
-Marasmius schizochaetus Desjardin, Retn. & E. Horak SPECIES
-=======
+# Marasmius schizochaetus Desjardin, Retn. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

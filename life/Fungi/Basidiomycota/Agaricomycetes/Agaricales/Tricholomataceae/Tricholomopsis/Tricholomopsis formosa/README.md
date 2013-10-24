@@ -1,5 +1,4 @@
-Tricholomopsis formosa (Murrill) Singer SPECIES
-=======
+# Tricholomopsis formosa (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

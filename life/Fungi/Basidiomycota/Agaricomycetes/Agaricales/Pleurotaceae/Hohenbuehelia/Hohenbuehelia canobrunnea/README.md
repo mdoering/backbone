@@ -1,5 +1,4 @@
-Hohenbuehelia canobrunnea Raithelh. SPECIES
-=======
+# Hohenbuehelia canobrunnea Raithelh. SPECIES
 
 #### Status
 ACCEPTED

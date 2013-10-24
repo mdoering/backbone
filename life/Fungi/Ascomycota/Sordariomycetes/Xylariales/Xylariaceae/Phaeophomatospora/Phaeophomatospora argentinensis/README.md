@@ -1,5 +1,4 @@
-Phaeophomatospora argentinensis Speg. SPECIES
-=======
+# Phaeophomatospora argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

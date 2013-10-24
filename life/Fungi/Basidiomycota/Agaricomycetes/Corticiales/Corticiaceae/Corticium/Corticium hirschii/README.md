@@ -1,5 +1,4 @@
-Corticium hirschii Donk SPECIES
-=======
+# Corticium hirschii Donk SPECIES
 
 #### Status
 ACCEPTED

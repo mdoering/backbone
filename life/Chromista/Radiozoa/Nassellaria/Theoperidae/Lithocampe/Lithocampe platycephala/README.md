@@ -1,5 +1,4 @@
-Lithocampe platycephala (Ehrenberg) Haeckel, 1887 SPECIES
-=======
+# Lithocampe platycephala (Ehrenberg) Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

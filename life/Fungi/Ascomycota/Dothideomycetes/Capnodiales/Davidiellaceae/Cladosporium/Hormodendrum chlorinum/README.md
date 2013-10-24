@@ -1,5 +1,4 @@
-Hormodendrum chlorinum (Fresen.) Sacc. SPECIES
-=======
+# Hormodendrum chlorinum (Fresen.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

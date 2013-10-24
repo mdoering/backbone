@@ -1,17 +1,16 @@
-Phaeographis praestans Müll. Arg. SPECIES
-=======
+# Platygramme praestans (Müll. Arg.) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 85: 365 (2002)
 
 #### Original name
-null
+Phaeographis praestans Müll. Arg.
 
 ### Remarks
 null

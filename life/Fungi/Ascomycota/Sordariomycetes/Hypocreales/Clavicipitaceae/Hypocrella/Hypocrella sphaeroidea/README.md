@@ -1,5 +1,4 @@
-Hypocrella sphaeroidea Syd. SPECIES
-=======
+# Hypocrella sphaeroidea Syd. SPECIES
 
 #### Status
 ACCEPTED

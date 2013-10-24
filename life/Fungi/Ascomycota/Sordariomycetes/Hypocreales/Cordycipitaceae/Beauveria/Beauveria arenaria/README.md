@@ -1,14 +1,13 @@
-Acremonium arenarium Petch, 1932 SPECIES
-=======
+# Beauveria arenaria (Petch) Arx, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 16(4): 242 (1932)
+Mycotaxon 25(1): 157 (1986)
 
 #### Original name
 Acremonium arenarium Petch, 1932

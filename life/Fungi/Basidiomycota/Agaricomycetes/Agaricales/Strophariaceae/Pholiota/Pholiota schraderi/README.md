@@ -1,5 +1,4 @@
-Pholiota schraderi (Peck) Overh. SPECIES
-=======
+# Pholiota schraderi (Peck) Overh. SPECIES
 
 #### Status
 ACCEPTED

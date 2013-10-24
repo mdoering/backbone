@@ -1,5 +1,4 @@
-Puccinia aenigmatica H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia aenigmatica H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

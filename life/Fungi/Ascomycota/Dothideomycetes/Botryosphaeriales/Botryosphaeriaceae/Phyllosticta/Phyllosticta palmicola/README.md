@@ -1,5 +1,4 @@
-Phyllosticta palmicola Cooke SPECIES
-=======
+# Phyllosticta palmicola Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opercularia protecta Penard, 1922 SPECIES
-=======
+# Opercularia protecta Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

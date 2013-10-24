@@ -1,5 +1,4 @@
-Parametopus GENUS
-=======
+# Parametopus GENUS
 
 #### Status
 ACCEPTED

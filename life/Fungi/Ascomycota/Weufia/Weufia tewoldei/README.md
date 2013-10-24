@@ -1,5 +1,4 @@
-Weufia tewoldei Bhat & B. Sutton, 1985 SPECIES
-=======
+# Weufia tewoldei Bhat & B. Sutton, 1985 SPECIES
 
 #### Status
 ACCEPTED

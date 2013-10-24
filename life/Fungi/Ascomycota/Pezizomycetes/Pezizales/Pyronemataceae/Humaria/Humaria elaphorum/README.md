@@ -1,5 +1,4 @@
-Humaria elaphorum Rehm SPECIES
-=======
+# Humaria elaphorum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea korkontica Kutak {?} SPECIES
-=======
+# Lecidea korkontica Kutak {?} SPECIES
 
 #### Status
 ACCEPTED

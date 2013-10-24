@@ -1,5 +1,4 @@
-Asteridiella crotonis Hosag. SPECIES
-=======
+# Asteridiella crotonis Hosag. SPECIES
 
 #### Status
 ACCEPTED

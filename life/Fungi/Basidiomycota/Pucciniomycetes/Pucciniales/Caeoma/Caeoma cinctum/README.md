@@ -1,5 +1,4 @@
-Caeoma cinctum Nees SPECIES
-=======
+# Caeoma cinctum Nees SPECIES
 
 #### Status
 ACCEPTED

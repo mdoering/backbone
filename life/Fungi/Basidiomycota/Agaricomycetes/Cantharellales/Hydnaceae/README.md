@@ -1,17 +1,16 @@
-Sistotremataceae FAMILY
-=======
+# Hydnaceae Chevall. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. gén. env. Paris (Paris) 1: 270 (1826)
 
 #### Original name
-null
+Hydnaceae Chevall.
 
 ### Remarks
 null

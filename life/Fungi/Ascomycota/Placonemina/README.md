@@ -1,5 +1,4 @@
-Placonemina Petr. GENUS
-=======
+# Placonemina Petr. GENUS
 
 #### Status
 ACCEPTED

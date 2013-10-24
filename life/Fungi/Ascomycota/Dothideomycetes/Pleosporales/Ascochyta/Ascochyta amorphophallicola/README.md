@@ -1,5 +1,4 @@
-Ascochyta amorphophallicola Punith. & Peregrine SPECIES
-=======
+# Ascochyta amorphophallicola Punith. & Peregrine SPECIES
 
 #### Status
 ACCEPTED

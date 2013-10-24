@@ -1,5 +1,4 @@
-Rhizinia Hammerschmidt, 1838 GENUS
-=======
+# Rhizinia Hammerschmidt, 1838 GENUS
 
 #### Status
 ACCEPTED

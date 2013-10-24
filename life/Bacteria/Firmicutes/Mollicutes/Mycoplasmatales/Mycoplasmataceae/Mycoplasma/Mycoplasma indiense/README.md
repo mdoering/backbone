@@ -1,5 +1,4 @@
-Mycoplasma indiense Hill, 1993 SPECIES
-=======
+# Mycoplasma indiense Hill, 1993 SPECIES
 
 #### Status
 ACCEPTED

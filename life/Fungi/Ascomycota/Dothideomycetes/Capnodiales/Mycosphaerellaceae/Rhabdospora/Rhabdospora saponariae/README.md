@@ -1,5 +1,4 @@
-Rhabdospora saponariae Bres. & Sacc. SPECIES
-=======
+# Rhabdospora saponariae Bres. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

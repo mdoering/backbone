@@ -1,5 +1,4 @@
-Lepista subirina (Contu) A. Riva SPECIES
-=======
+# Lepista subirina (Contu) A. Riva SPECIES
 
 #### Status
 ACCEPTED

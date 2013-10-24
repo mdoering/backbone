@@ -1,8 +1,7 @@
-Ascochyta codonopsis Schwarzman SPECIES
-=======
+# Ascochyta codonopsidis Schwarzman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta codonopsis Schwarzman
+Ascochyta codonopsidis Schwarzman
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Inocybe subasterospora Cleland & Cheel SPECIES
-=======
+# Inocybe subasterospora Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

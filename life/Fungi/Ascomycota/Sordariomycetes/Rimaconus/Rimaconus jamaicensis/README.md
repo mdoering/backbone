@@ -1,14 +1,13 @@
-Lasiosphaeria jamaicensis Seaver, 1912 SPECIES
-=======
+# Rimaconus jamaicensis (Seaver) Huhndorf, F.A. Fernández, Joanne E. Taylor & K.D. Hyde, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 4(3): 122 (1912)
+Mycologia 93(6): 1075 (2001)
 
 #### Original name
 Lasiosphaeria jamaicensis Seaver, 1912

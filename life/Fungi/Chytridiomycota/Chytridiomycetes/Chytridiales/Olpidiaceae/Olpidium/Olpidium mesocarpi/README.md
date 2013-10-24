@@ -1,5 +1,4 @@
-Olpidium mesocarpi De Wild. SPECIES
-=======
+# Olpidium mesocarpi De Wild. SPECIES
 
 #### Status
 ACCEPTED

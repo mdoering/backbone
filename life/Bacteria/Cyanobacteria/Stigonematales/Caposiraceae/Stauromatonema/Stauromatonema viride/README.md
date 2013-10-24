@@ -1,5 +1,4 @@
-Stauromatonema viride Frémy SPECIES
-=======
+# Stauromatonema viride Frémy SPECIES
 
 #### Status
 ACCEPTED

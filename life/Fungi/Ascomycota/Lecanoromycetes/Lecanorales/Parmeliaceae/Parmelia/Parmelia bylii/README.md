@@ -1,5 +1,4 @@
-Parmelia bylii Vain. ex Lynge SPECIES
-=======
+# Parmelia bylii Vain. ex Lynge SPECIES
 
 #### Status
 ACCEPTED

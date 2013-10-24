@@ -1,5 +1,4 @@
-Gonapodya terrestris S.N. Dasgupta, A.K. Sarbhoy & S.K. Shome SPECIES
-=======
+# Gonapodya terrestris S.N. Dasgupta, A.K. Sarbhoy & S.K. Shome SPECIES
 
 #### Status
 ACCEPTED

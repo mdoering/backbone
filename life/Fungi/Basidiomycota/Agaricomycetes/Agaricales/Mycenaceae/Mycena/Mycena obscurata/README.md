@@ -1,5 +1,4 @@
-Mycena obscurata Maas Geest. & de Meijer SPECIES
-=======
+# Mycena obscurata Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

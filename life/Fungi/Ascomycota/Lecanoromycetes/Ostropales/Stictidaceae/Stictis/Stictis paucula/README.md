@@ -1,5 +1,4 @@
-Stictis paucula P.R. Johnst. SPECIES
-=======
+# Stictis paucula P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

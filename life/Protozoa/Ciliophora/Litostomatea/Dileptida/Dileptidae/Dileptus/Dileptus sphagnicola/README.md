@@ -1,5 +1,4 @@
-Dileptus sphagnicola Vdacny & Foissner, 2011 SPECIES
-=======
+# Dileptus sphagnicola Vdacny & Foissner, 2011 SPECIES
 
 #### Status
 ACCEPTED

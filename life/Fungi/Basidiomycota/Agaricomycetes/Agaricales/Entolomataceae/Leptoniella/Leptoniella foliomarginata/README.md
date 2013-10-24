@@ -1,5 +1,4 @@
-Leptoniella foliomarginata (Peck) Murrill SPECIES
-=======
+# Leptoniella foliomarginata (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

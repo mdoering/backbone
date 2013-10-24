@@ -1,5 +1,4 @@
-Usnea hawaiiensis Motyka SPECIES
-=======
+# Usnea hawaiiensis Motyka SPECIES
 
 #### Status
 ACCEPTED

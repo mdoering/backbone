@@ -1,17 +1,16 @@
-Opegrapha macquariensis C.W. Dodge SPECIES
-=======
+# Opegrapha diaphoriza Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 19: 440 (1970)
+Lich. Nov. Zeland. 114 (1888)
 
 #### Original name
-Opegrapha macquariensis C.W. Dodge
+Opegrapha diaphoriza Nyl.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Podonectrioides Kobayasi & Shimizu GENUS
-=======
+# Podonectria Petch GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 7: 146 (1921)
 
 #### Original name
-Podonectrioides Kobayasi & Shimizu
+Podonectria Petch
 
 ### Remarks
 null

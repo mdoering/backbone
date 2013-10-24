@@ -1,5 +1,4 @@
-Uromyces porcensis Mayor SPECIES
-=======
+# Uromyces porcensis Mayor SPECIES
 
 #### Status
 ACCEPTED

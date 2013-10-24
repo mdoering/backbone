@@ -1,5 +1,4 @@
-Lecanora carneolutescens Nyl. SPECIES
-=======
+# Lecanora carneolutescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

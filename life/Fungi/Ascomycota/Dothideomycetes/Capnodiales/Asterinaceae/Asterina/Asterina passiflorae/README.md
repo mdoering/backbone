@@ -1,5 +1,4 @@
-Asterina passiflorae (Henn.) Sacc. SPECIES
-=======
+# Asterina passiflorae (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

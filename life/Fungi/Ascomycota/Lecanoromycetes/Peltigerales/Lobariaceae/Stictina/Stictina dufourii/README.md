@@ -1,5 +1,4 @@
-Stictina dufourii SPECIES
-=======
+# Stictina dufourii SPECIES
 
 #### Status
 ACCEPTED

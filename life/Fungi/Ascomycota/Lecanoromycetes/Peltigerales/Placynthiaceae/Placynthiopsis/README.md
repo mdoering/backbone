@@ -1,5 +1,4 @@
-Placynthiopsis Zahlbr. GENUS
-=======
+# Placynthiopsis Zahlbr. GENUS
 
 #### Status
 ACCEPTED

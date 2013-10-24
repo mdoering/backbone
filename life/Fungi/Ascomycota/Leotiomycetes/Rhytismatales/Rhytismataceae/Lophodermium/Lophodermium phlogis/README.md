@@ -1,5 +1,4 @@
-Lophodermium phlogis Bonar & W.B. Cooke, 1942 SPECIES
-=======
+# Lophodermium phlogis Bonar & W.B. Cooke, 1942 SPECIES
 
 #### Status
 ACCEPTED

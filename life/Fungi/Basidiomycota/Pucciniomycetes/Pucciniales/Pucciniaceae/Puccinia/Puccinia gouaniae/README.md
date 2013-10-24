@@ -1,5 +1,4 @@
-Puccinia gouaniae Holw. SPECIES
-=======
+# Puccinia gouaniae Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectostroma magnoliae Thüm. SPECIES
-=======
+# Ectostroma magnoliae Thüm. SPECIES
 
 #### Status
 ACCEPTED

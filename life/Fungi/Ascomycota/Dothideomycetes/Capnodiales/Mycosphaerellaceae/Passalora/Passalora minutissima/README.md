@@ -1,5 +1,4 @@
-Passalora minutissima (Desm.) U. Braun & Crous SPECIES
-=======
+# Passalora minutissima (Desm.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

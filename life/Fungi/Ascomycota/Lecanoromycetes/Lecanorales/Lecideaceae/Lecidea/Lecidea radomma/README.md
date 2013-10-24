@@ -1,5 +1,4 @@
-Lecidea radomma Nyl. ex C. Knight SPECIES
-=======
+# Lecidea radomma Nyl. ex C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Trabutia escalloniae Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora escalloniae Pat., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 351 (1915)
+Bull. Soc. mycol. Fr. 7: 177 (1891)
 
 #### Original name
-Trabutia escalloniae Theiss. & Syd., 1915
+Phyllachora escalloniae Pat., 1891
 
 ### Remarks
 null

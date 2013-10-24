@@ -1,5 +1,4 @@
-Aecidium brachycomes Petr. SPECIES
-=======
+# Aecidium brachycomes Petr. SPECIES
 
 #### Status
 ACCEPTED

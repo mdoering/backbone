@@ -1,5 +1,4 @@
-Episeptum invadens J.I.R. Larsson SPECIES
-=======
+# Episeptum invadens J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

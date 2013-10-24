@@ -1,8 +1,7 @@
-Bicosoeca pulchra Hilliard, 1971 SPECIES
-=======
+# Bicosoeca epiphytica Hilliard, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

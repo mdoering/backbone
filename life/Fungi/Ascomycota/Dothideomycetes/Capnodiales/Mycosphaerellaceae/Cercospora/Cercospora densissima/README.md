@@ -1,5 +1,4 @@
-Cercospora densissima Speg. SPECIES
-=======
+# Cercospora densissima Speg. SPECIES
 
 #### Status
 ACCEPTED

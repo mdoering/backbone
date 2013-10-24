@@ -1,5 +1,4 @@
-Thelidium rivale Arnold SPECIES
-=======
+# Thelidium rivale Arnold SPECIES
 
 #### Status
 ACCEPTED

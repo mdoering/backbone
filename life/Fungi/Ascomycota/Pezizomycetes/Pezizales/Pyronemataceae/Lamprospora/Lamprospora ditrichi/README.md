@@ -1,5 +1,4 @@
-Lamprospora ditrichi Benkert SPECIES
-=======
+# Lamprospora ditrichi Benkert SPECIES
 
 #### Status
 ACCEPTED

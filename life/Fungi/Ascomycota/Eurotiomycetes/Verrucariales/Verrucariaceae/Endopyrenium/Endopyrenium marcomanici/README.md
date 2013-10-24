@@ -1,5 +1,4 @@
-Endopyrenium marcomanici (A. Massal.) Jatta SPECIES
-=======
+# Endopyrenium marcomanici (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

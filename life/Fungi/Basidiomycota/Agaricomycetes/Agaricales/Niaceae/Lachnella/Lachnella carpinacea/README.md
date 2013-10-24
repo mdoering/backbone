@@ -1,5 +1,4 @@
-Lachnella carpinacea Velen. SPECIES
-=======
+# Lachnella carpinacea Velen. SPECIES
 
 #### Status
 ACCEPTED

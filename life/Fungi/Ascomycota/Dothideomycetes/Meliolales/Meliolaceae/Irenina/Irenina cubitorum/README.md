@@ -1,5 +1,4 @@
-Irenina cubitorum (F. Stevens & Tehon) F. Stevens SPECIES
-=======
+# Irenina cubitorum (F. Stevens & Tehon) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

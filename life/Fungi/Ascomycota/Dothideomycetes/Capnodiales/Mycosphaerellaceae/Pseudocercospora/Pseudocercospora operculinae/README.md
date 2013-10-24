@@ -1,5 +1,4 @@
-Pseudocercospora operculinae H.S.G. Rao, Arch. Singh & Kamal SPECIES
-=======
+# Pseudocercospora operculinae H.S.G. Rao, Arch. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

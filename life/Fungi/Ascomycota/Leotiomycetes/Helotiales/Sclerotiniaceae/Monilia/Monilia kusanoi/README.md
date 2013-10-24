@@ -1,5 +1,4 @@
-Monilia kusanoi Henn. SPECIES
-=======
+# Monilia kusanoi Henn. SPECIES
 
 #### Status
 ACCEPTED

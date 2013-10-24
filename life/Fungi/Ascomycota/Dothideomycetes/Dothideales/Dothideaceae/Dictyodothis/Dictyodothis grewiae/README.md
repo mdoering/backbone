@@ -1,5 +1,4 @@
-Dictyodothis grewiae Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Dictyodothis grewiae Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

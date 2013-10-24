@@ -1,5 +1,4 @@
-Clavaria sphagnicola Boud. SPECIES
-=======
+# Clavaria sphagnicola Boud. SPECIES
 
 #### Status
 ACCEPTED

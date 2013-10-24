@@ -1,5 +1,4 @@
-Lachnum aberrans Velen. SPECIES
-=======
+# Lachnum aberrans Velen. SPECIES
 
 #### Status
 ACCEPTED

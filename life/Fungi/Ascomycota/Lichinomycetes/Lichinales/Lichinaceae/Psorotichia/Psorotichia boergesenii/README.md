@@ -1,5 +1,4 @@
-Psorotichia boergesenii Vain. SPECIES
-=======
+# Psorotichia boergesenii Vain. SPECIES
 
 #### Status
 ACCEPTED

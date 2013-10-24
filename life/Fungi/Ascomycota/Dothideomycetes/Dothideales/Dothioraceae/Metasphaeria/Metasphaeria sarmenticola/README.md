@@ -1,5 +1,4 @@
-Metasphaeria sarmenticola Pass. SPECIES
-=======
+# Metasphaeria sarmenticola Pass. SPECIES
 
 #### Status
 ACCEPTED

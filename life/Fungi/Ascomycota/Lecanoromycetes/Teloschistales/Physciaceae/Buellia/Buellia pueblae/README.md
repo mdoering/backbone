@@ -1,5 +1,4 @@
-Buellia pueblae B. de Lesd. SPECIES
-=======
+# Buellia pueblae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

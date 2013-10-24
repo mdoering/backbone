@@ -1,5 +1,4 @@
-Uredo quincunx F. Strauss SPECIES
-=======
+# Uredo quincunx F. Strauss SPECIES
 
 #### Status
 ACCEPTED

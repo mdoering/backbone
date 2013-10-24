@@ -1,5 +1,4 @@
-Sporisorium perforatum Vánky SPECIES
-=======
+# Sporisorium perforatum Vánky SPECIES
 
 #### Status
 ACCEPTED

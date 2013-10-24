@@ -1,5 +1,4 @@
-Gordonia amicalis Kim et al., 2000 SPECIES
-=======
+# Gordonia amicalis Kim et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella bromeliae Starbäck SPECIES
-=======
+# Anthostomella bromeliae Starbäck SPECIES
 
 #### Status
 ACCEPTED

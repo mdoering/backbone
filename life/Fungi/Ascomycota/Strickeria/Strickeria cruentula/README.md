@@ -1,5 +1,4 @@
-Strickeria cruentula (Sacc.) Popuschoj SPECIES
-=======
+# Strickeria cruentula (Sacc.) Popuschoj SPECIES
 
 #### Status
 ACCEPTED

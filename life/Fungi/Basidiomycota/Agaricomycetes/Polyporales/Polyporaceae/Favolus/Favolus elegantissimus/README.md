@@ -1,5 +1,4 @@
-Favolus elegantissimus Speg. SPECIES
-=======
+# Favolus elegantissimus Speg. SPECIES
 
 #### Status
 ACCEPTED

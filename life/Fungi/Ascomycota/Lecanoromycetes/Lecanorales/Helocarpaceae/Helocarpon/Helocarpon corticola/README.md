@@ -1,5 +1,4 @@
-Helocarpon corticola Breuss SPECIES
-=======
+# Helocarpon corticola Breuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta arxii Aa SPECIES
-=======
+# Phyllosticta arxii Aa SPECIES
 
 #### Status
 ACCEPTED

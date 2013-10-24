@@ -1,8 +1,7 @@
-Lecidea leucoplacoides Kremp. SPECIES
-=======
+# Megalaria melanotropa (Nyl.) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

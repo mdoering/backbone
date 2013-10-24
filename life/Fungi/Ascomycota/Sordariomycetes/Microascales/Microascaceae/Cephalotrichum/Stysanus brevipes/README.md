@@ -1,5 +1,4 @@
-Stysanus brevipes (Wallr.) M.B. Ellis SPECIES
-=======
+# Stysanus brevipes (Wallr.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

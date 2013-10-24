@@ -1,5 +1,4 @@
-Leptogium sibiricum SPECIES
-=======
+# Leptogium sibiricum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia pandani f. pandani FORM
-=======
+# Physcia pandani H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia pandani f. pandani
+Physcia pandani H. Magn.
 
 ### Remarks
 null

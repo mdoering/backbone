@@ -1,5 +1,4 @@
-Polystictus daedaleoides Rick SPECIES
-=======
+# Polystictus daedaleoides Rick SPECIES
 
 #### Status
 ACCEPTED

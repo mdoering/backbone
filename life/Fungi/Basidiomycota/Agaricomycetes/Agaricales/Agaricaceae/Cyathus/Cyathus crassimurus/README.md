@@ -1,5 +1,4 @@
-Cyathus crassimurus H.J. Brodie SPECIES
-=======
+# Cyathus crassimurus H.J. Brodie SPECIES
 
 #### Status
 ACCEPTED

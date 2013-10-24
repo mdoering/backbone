@@ -1,5 +1,4 @@
-Phoma sterculiae S.M. Lin & P.K. Chi SPECIES
-=======
+# Phoma sterculiae S.M. Lin & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

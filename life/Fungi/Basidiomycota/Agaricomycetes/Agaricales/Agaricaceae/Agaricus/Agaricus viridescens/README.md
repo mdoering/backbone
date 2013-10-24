@@ -1,5 +1,4 @@
-Agaricus viridescens Schumach. SPECIES
-=======
+# Agaricus viridescens Schumach. SPECIES
 
 #### Status
 ACCEPTED

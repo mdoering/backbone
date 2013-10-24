@@ -1,5 +1,4 @@
-Phyllosticta monspessulani Pass. SPECIES
-=======
+# Phyllosticta monspessulani Pass. SPECIES
 
 #### Status
 ACCEPTED

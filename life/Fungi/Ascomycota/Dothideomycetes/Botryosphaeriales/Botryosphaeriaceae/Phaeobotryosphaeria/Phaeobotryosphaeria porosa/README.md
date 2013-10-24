@@ -1,17 +1,16 @@
-Diplodia porosa Van Niekerk & Crous, 2004 SPECIES
-=======
+# Phaeobotryosphaeria porosa (Van Niekerk & Crous) Crous & A.J.L. Phillips, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 21: 50 (2008)
 
 #### Original name
-null
+Diplodia porosum Van Niekerk & Crous
 
 ### Remarks
 null

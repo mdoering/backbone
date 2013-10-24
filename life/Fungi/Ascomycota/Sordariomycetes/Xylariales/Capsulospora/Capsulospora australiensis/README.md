@@ -1,5 +1,4 @@
-Capsulospora australiensis J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Capsulospora australiensis J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Uredo yurimaguasensis Henn., 1904 SPECIES
-=======
+# Sphenospora yurimaguasensis (Henn.) H.S. Jacks. & Holw., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 164 (1904)
+Mycologia 15(4): 153 (1923)
 
 #### Original name
 Uredo yurimaguasensis Henn., 1904

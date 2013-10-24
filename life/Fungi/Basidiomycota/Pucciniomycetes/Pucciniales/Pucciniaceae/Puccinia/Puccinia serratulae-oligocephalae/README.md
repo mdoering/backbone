@@ -1,5 +1,4 @@
-Puccinia serratulae-oligocephalae P. Syd. & Syd. SPECIES
-=======
+# Puccinia serratulae-oligocephalae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

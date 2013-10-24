@@ -1,5 +1,4 @@
-Merulius explicatus Hoffm. SPECIES
-=======
+# Merulius explicatus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

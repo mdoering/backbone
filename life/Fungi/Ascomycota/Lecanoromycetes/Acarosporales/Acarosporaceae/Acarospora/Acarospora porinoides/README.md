@@ -1,5 +1,4 @@
-Acarospora porinoides (Stizenb.) Zahlbr. SPECIES
-=======
+# Acarospora porinoides (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

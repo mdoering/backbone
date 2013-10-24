@@ -1,5 +1,4 @@
-Morchella rielana Boud. SPECIES
-=======
+# Morchella rielana Boud. SPECIES
 
 #### Status
 ACCEPTED

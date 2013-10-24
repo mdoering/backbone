@@ -1,5 +1,4 @@
-Pyricularia cannicola Hashioka SPECIES
-=======
+# Pyricularia cannicola Hashioka SPECIES
 
 #### Status
 ACCEPTED

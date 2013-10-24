@@ -1,5 +1,4 @@
-Cystoderma neoamianthinum Hongo SPECIES
-=======
+# Cystoderma neoamianthinum Hongo SPECIES
 
 #### Status
 ACCEPTED

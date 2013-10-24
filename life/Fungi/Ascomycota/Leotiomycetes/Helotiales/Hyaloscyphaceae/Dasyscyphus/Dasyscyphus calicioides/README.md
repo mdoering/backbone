@@ -1,8 +1,7 @@
-Dasyscypha calicioides (DC.) Sacc. SPECIES
-=======
+# Dasyscyphus calicioides (DC.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

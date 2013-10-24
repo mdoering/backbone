@@ -1,5 +1,4 @@
-Cercospora abeliae Plakidas SPECIES
-=======
+# Cercospora abeliae Plakidas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acantharia aterrima. (Cooke & G. Winter) Arx, 1954 SPECIES
-=======
+# Acantharia aterrima. (Cooke & G. Winter) Arx, 1954 SPECIES
 
 #### Status
 ACCEPTED

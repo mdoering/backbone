@@ -1,5 +1,4 @@
-Neoheppia Zahlbr. GENUS
-=======
+# Neoheppia Zahlbr. GENUS
 
 #### Status
 ACCEPTED

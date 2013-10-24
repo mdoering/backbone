@@ -1,5 +1,4 @@
-Rosellinia baccharidis Starbäck SPECIES
-=======
+# Rosellinia baccharidis Starbäck SPECIES
 
 #### Status
 ACCEPTED

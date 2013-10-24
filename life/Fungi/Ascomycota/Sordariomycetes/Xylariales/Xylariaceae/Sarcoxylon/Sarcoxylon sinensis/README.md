@@ -1,5 +1,4 @@
-Sarcoxylon sinensis J.D. Rogers SPECIES
-=======
+# Sarcoxylon sinensis J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

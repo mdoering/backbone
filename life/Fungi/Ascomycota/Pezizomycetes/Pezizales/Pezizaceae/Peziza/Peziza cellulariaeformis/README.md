@@ -1,5 +1,4 @@
-Peziza cellulariaeformis Gray SPECIES
-=======
+# Peziza cellulariaeformis Gray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta kielmeyerae Allesch. SPECIES
-=======
+# Phyllosticta kielmeyerae Allesch. SPECIES
 
 #### Status
 ACCEPTED

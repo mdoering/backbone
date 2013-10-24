@@ -1,5 +1,4 @@
-Ascospora lentisci (Mont.) Kuntze SPECIES
-=======
+# Ascospora lentisci (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

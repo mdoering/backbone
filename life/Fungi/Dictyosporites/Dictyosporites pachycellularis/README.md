@@ -1,5 +1,4 @@
-Dictyosporites pachycellularis Sal.-Cheb. & Locq. SPECIES
-=======
+# Dictyosporites pachycellularis Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

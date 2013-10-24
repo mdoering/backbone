@@ -1,5 +1,4 @@
-Lignydium piceum (Fr.) Kuntze SPECIES
-=======
+# Lignydium piceum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

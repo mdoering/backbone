@@ -1,17 +1,16 @@
-Cortinarius geophyllus var. subauroreus Bidaud, Moënne-Locc. & Reumaux VARIETY
-=======
+# Cortinarius geophilus Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 101(1): 6 (1985)
 
 #### Original name
-Cortinarius geophyllus var. subauroreus Bidaud, Moënne-Locc. & Reumaux
+Cortinarius geophilus Rob. Henry
 
 ### Remarks
 null

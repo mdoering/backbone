@@ -1,5 +1,4 @@
-Phoma aequivoca (Ces.) Sacc. SPECIES
-=======
+# Phoma aequivoca (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

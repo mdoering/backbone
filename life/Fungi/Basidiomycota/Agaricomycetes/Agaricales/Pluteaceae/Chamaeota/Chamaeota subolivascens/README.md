@@ -1,5 +1,4 @@
-Chamaeota subolivascens Courtec., 1991 SPECIES
-=======
+# Chamaeota subolivascens Courtec., 1991 SPECIES
 
 #### Status
 ACCEPTED

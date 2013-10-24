@@ -1,5 +1,4 @@
-Phaeographis neotriconica A. W. Archer & Elix SPECIES
-=======
+# Phaeographis neotriconica A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

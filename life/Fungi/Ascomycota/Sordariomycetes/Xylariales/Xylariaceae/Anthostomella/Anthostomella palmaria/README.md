@@ -1,5 +1,4 @@
-Anthostomella palmaria B.S. Lu & K.D. Hyde, 2000 SPECIES
-=======
+# Anthostomella palmaria B.S. Lu & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

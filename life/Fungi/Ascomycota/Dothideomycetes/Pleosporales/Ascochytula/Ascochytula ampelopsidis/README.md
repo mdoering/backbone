@@ -1,5 +1,4 @@
-Ascochytula ampelopsidis (Hollós) Sarej. & Démétr. SPECIES
-=======
+# Ascochytula ampelopsidis (Hollós) Sarej. & Démétr. SPECIES
 
 #### Status
 ACCEPTED

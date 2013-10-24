@@ -1,5 +1,4 @@
-Gaillardiella monninae (Pat.) Theiss. SPECIES
-=======
+# Gaillardiella monninae (Pat.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

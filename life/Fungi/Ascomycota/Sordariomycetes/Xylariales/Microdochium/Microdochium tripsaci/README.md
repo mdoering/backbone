@@ -1,5 +1,4 @@
-Microdochium tripsaci D. Mulder & Arx, 1981 SPECIES
-=======
+# Microdochium tripsaci D. Mulder & Arx, 1981 SPECIES
 
 #### Status
 ACCEPTED

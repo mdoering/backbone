@@ -1,5 +1,4 @@
-Prunulus pubescens Murrill SPECIES
-=======
+# Prunulus pubescens Murrill SPECIES
 
 #### Status
 ACCEPTED

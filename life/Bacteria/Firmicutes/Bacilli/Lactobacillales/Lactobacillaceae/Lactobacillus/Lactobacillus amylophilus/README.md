@@ -1,5 +1,4 @@
-Lactobacillus amylophilus Nakamura & Crowell, 1981 SPECIES
-=======
+# Lactobacillus amylophilus Nakamura & Crowell, 1981 SPECIES
 
 #### Status
 ACCEPTED

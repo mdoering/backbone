@@ -1,5 +1,4 @@
-Asterina caricarum Rehm SPECIES
-=======
+# Asterina caricarum Rehm SPECIES
 
 #### Status
 ACCEPTED

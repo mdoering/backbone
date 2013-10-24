@@ -1,5 +1,4 @@
-Helvella discinoides S. Imai SPECIES
-=======
+# Helvella discinoides S. Imai SPECIES
 
 #### Status
 ACCEPTED

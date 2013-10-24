@@ -1,14 +1,13 @@
-Peziza spurcata Pers., 1822 SPECIES
-=======
+# Tarzetta spurcata (Pers.) Harmaja, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 226 (1822)
+Karstenia 14: 119 (1974)
 
 #### Original name
 Peziza spurcata Pers., 1822

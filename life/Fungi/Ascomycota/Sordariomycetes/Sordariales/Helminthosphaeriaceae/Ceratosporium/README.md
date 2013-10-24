@@ -1,5 +1,4 @@
-Ceratosporium Schwein. GENUS
-=======
+# Ceratosporium Schwein. GENUS
 
 #### Status
 ACCEPTED

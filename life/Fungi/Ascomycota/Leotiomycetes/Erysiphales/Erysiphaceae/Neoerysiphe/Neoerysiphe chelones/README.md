@@ -1,14 +1,13 @@
-Erysiphe chelones Schwein., 1834 SPECIES
-=======
+# Neoerysiphe chelones (Schwein.) U. Braun, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Fung. Amer. bor. no. 2490 (1834)
+Schlechtendalia 3: 50 (1999)
 
 #### Original name
 Erysiphe chelones Schwein., 1834

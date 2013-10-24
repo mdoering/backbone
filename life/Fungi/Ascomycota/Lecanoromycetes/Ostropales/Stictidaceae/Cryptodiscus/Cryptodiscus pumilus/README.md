@@ -1,5 +1,4 @@
-Cryptodiscus pumilus Sherwood SPECIES
-=======
+# Cryptodiscus pumilus Sherwood SPECIES
 
 #### Status
 ACCEPTED

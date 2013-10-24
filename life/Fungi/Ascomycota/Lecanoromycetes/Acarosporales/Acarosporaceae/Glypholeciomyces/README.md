@@ -1,5 +1,4 @@
-Glypholeciomyces GENUS
-=======
+# Glypholeciomyces GENUS
 
 #### Status
 ACCEPTED

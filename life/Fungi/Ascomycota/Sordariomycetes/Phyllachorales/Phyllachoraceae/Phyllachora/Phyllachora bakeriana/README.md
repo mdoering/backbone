@@ -1,17 +1,16 @@
-Phyllachora chamaefistulae Chardón, 1932 SPECIES
-=======
+# Phyllachora bakeriana Henn., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Dept. Agric. Porto Rico 16: 181 (1932)
+Hedwigia 48(5): 106 (1908)
 
 #### Original name
-Phyllachora chamaefistulae Chardón, 1932
+Phyllachora bakeriana Henn., 1908
 
 ### Remarks
 null

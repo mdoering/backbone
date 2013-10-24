@@ -1,5 +1,4 @@
-Septomyxella (Höhn.) Höhn. GENUS
-=======
+# Septomyxella (Höhn.) Höhn. GENUS
 
 #### Status
 ACCEPTED

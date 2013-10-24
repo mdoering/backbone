@@ -1,5 +1,4 @@
-Macrococcus brunensis Mannerová et al., 2003 SPECIES
-=======
+# Macrococcus brunensis Mannerová et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

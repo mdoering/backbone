@@ -1,5 +1,4 @@
-Hysterographium ilicicola Feltgen SPECIES
-=======
+# Hysterographium ilicicola Feltgen SPECIES
 
 #### Status
 ACCEPTED

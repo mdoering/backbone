@@ -1,5 +1,4 @@
-Melanconium dimorphum House SPECIES
-=======
+# Melanconium dimorphum House SPECIES
 
 #### Status
 ACCEPTED

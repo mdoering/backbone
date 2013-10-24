@@ -1,5 +1,4 @@
-Aposphaeriopsis fuscoatra var. fuscoatra VARIETY
-=======
+# Aposphaeriopsis fuscoatra Died. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 11(1): 45 (1913)
 
 #### Original name
-Aposphaeriopsis fuscoatra var. fuscoatra
+Aposphaeriopsis fuscoatra Died.
 
 ### Remarks
 null

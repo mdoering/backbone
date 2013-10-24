@@ -1,5 +1,4 @@
-Poria carbonaria Bres. SPECIES
-=======
+# Poria carbonaria Bres. SPECIES
 
 #### Status
 ACCEPTED

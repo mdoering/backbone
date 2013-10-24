@@ -1,5 +1,4 @@
-Plicaria goetzei Henn. SPECIES
-=======
+# Plicaria goetzei Henn. SPECIES
 
 #### Status
 ACCEPTED

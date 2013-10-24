@@ -1,5 +1,4 @@
-Xylaria weinlandii Henn. SPECIES
-=======
+# Xylaria weinlandii Henn. SPECIES
 
 #### Status
 ACCEPTED

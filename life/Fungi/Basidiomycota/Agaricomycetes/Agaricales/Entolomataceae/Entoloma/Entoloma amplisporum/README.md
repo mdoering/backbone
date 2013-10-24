@@ -1,5 +1,4 @@
-Entoloma amplisporum Corner & E. Horak SPECIES
-=======
+# Entoloma amplisporum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

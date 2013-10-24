@@ -1,5 +1,4 @@
-Stentofolliculina tubicola Hadzi, 1938 SPECIES
-=======
+# Stentofolliculina tubicola Hadzi, 1938 SPECIES
 
 #### Status
 ACCEPTED

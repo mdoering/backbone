@@ -1,5 +1,4 @@
-Microthelia solorinaria Linds. SPECIES
-=======
+# Microthelia solorinaria Linds. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Basipilus moravica (Petr.) Subram. SPECIES
-=======
+# Basipilus moravicus (Petr.) Subram. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Meddr Plantepatol. Afd. Kgl. Veterin. Landb. , (Københaven) 27(4): 244 (1961)
 
 #### Original name
 Cryptostictis moravica Petr.

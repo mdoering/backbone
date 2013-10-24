@@ -1,5 +1,4 @@
-Leucoagaricus cuprobrunneus (Raithelh.) Raithelh. SPECIES
-=======
+# Leucoagaricus cuprobrunneus (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia triseptata (Nyl.) Szatala SPECIES
-=======
+# Arthopyrenia triseptata (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

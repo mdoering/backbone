@@ -1,5 +1,4 @@
-Pharcidia marina E. Bommer SPECIES
-=======
+# Pharcidia marina E. Bommer SPECIES
 
 #### Status
 ACCEPTED

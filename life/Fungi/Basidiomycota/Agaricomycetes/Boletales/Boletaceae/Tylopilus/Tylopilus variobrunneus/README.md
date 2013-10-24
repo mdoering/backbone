@@ -1,5 +1,4 @@
-Tylopilus variobrunneus Roody, A.R. Bessette & Bessette SPECIES
-=======
+# Tylopilus variobrunneus Roody, A.R. Bessette & Bessette SPECIES
 
 #### Status
 ACCEPTED

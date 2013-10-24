@@ -1,5 +1,4 @@
-Phaeangium patellatum (Cooke) Sacc. & P. Syd. SPECIES
-=======
+# Phaeangium patellatum (Cooke) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora migromarginata SPECIES
-=======
+# Lecanora migromarginata SPECIES
 
 #### Status
 ACCEPTED

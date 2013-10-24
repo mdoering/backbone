@@ -1,5 +1,4 @@
-Trichosporon smithiae Middelhoven, Scorzetti, Sugita & Fell SPECIES
-=======
+# Trichosporon smithiae Middelhoven, Scorzetti, Sugita & Fell SPECIES
 
 #### Status
 ACCEPTED

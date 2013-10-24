@@ -1,17 +1,16 @@
-Monoporisporites dilcherii Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Monoporisporites dilcheri Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revista, Universidad Autónomia Nacional de México, Instituto de Geología 8(2): 239 + fig. 3m (1989)
 
 #### Original name
-Monoporisporites dilcherii Mart.-Hern. & Tom.-Ort.
+Monoporisporites dilcheri Mart.-Hern. & Tom.-Ort.
 
 ### Remarks
 null

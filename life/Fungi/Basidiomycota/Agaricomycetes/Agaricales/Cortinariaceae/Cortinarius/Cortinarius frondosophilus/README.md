@@ -1,5 +1,4 @@
-Cortinarius frondosophilus Bidaud SPECIES
-=======
+# Cortinarius frondosophilus Bidaud SPECIES
 
 #### Status
 ACCEPTED

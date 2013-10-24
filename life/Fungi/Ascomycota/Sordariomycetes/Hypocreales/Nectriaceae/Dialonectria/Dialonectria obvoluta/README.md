@@ -1,5 +1,4 @@
-Dialonectria obvoluta (P. Karst.) Cooke SPECIES
-=======
+# Dialonectria obvoluta (P. Karst.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea saximontana R.A. Anderson SPECIES
-=======
+# Lecidea saximontana R.A. Anderson SPECIES
 
 #### Status
 ACCEPTED

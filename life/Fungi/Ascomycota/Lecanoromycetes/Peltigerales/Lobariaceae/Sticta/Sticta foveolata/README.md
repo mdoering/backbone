@@ -1,5 +1,4 @@
-Sticta foveolata Delise SPECIES
-=======
+# Sticta foveolata Delise SPECIES
 
 #### Status
 ACCEPTED

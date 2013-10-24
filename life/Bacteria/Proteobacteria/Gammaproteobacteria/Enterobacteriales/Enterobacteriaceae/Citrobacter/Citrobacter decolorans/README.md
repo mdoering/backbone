@@ -1,5 +1,4 @@
-Citrobacter decolorans SPECIES
-=======
+# Citrobacter decolorans SPECIES
 
 #### Status
 ACCEPTED

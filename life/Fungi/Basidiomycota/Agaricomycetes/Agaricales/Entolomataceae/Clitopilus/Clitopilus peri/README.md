@@ -1,5 +1,4 @@
-Clitopilus peri var. peri VARIETY
-=======
+# Clitopilus peri (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clitopilus peri var. peri
+Omphalia peri Berk. & Broome
 
 ### Remarks
 null

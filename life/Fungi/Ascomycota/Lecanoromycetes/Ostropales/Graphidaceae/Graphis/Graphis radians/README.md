@@ -1,5 +1,4 @@
-Graphis radians Fée SPECIES
-=======
+# Graphis radians Fée SPECIES
 
 #### Status
 ACCEPTED

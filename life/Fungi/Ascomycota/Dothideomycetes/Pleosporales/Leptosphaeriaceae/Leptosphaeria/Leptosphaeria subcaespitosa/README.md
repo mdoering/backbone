@@ -1,5 +1,4 @@
-Leptosphaeria subcaespitosa Cooke & Harkn. SPECIES
-=======
+# Leptosphaeria subcaespitosa Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

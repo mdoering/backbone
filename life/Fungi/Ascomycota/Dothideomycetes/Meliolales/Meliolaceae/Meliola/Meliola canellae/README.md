@@ -1,5 +1,4 @@
-Meliola canellae Cif. SPECIES
-=======
+# Meliola canellae Cif. SPECIES
 
 #### Status
 ACCEPTED

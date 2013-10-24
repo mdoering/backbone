@@ -1,14 +1,13 @@
-Stilocyclia Müller, 1856 GENUS
-=======
+# Stylocyclia Ehrenberg, 1847 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-MonatsBer. Akad. Wiss. Berlin, 1856, 482, 492.
+Ber. Verh. Preuss. Akad. Wiss. , 1847, Tab. p. 54.
 
 #### Original name
 null

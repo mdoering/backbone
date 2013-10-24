@@ -1,5 +1,4 @@
-Aspicilia stenholmii (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia stenholmii (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

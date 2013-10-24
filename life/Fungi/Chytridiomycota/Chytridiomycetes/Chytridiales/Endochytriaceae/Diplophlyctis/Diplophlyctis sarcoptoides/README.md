@@ -1,14 +1,13 @@
-Asterophlyctis sarcoptoides H.E. Petersen, 1903 SPECIES
-=======
+# Diplophlyctis sarcoptoides (H.E. Petersen) Dogma, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. Morot 17: 218 (1903)
+Nova Hedwigia 25(1-2): 122 (1974)
 
 #### Original name
 Asterophlyctis sarcoptoides H.E. Petersen, 1903

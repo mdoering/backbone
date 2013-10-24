@@ -1,5 +1,4 @@
-Entyloma collinsiae Harkn. SPECIES
-=======
+# Entyloma collinsiae Harkn. SPECIES
 
 #### Status
 ACCEPTED

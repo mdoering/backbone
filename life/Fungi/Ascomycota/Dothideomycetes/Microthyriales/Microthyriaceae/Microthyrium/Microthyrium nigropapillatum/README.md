@@ -1,5 +1,4 @@
-Microthyrium nigropapillatum Sawada SPECIES
-=======
+# Microthyrium nigropapillatum Sawada SPECIES
 
 #### Status
 ACCEPTED

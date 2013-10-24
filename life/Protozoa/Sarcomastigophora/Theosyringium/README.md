@@ -1,5 +1,4 @@
-Theosyringium Haeckel, 1881 GENUS
-=======
+# Theosyringium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

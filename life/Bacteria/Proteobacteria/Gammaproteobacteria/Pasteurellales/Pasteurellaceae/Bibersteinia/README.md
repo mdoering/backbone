@@ -1,5 +1,4 @@
-Bibersteinia Blackall et al., 2007 GENUS
-=======
+# Bibersteinia Blackall et al., 2007 GENUS
 
 #### Status
 ACCEPTED

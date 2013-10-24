@@ -1,5 +1,4 @@
-Thyridium personatum (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Thyridium personatum (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ristella furcosa (Veillon & Zuber, 1898) Prévot, 1938 SPECIES
-=======
+# Bacteroides furcosus (Veillon & Zuber, 1898) Hauduroy et al., 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

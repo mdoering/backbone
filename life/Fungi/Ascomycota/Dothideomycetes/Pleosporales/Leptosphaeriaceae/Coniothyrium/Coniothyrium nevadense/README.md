@@ -1,5 +1,4 @@
-Coniothyrium nevadense A.L. Guyot SPECIES
-=======
+# Coniothyrium nevadense A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

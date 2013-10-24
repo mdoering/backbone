@@ -1,5 +1,4 @@
-Meliola mysorensis (Hansf. & Thirum.) Cif. SPECIES
-=======
+# Meliola mysorensis (Hansf. & Thirum.) Cif. SPECIES
 
 #### Status
 ACCEPTED

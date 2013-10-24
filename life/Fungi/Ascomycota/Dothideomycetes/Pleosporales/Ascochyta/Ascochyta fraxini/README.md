@@ -1,5 +1,4 @@
-Ascochyta fraxini Lib. SPECIES
-=======
+# Ascochyta fraxini Lib. SPECIES
 
 #### Status
 ACCEPTED

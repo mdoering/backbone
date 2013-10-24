@@ -1,14 +1,13 @@
-Hygrotrama pedicellata Natarajan & Manjula, 1982 SPECIES
-=======
+# Camarophyllopsis pedicellata (Natarajan & Manjula) Boertm., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 74(1): 130 (1982)
+Biblthca Mycol. 192: 76 (2002)
 
 #### Original name
 Hygrotrama pedicellata Natarajan & Manjula, 1982

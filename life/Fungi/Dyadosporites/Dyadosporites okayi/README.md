@@ -1,5 +1,4 @@
-Dyadosporites okayi (V.S. Ediger & Alisan) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites okayi (V.S. Ediger & Alisan) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

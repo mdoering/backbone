@@ -1,5 +1,4 @@
-Chlorobotrys terrestris Pascher SPECIES
-=======
+# Chlorobotrys terrestris Pascher SPECIES
 
 #### Status
 ACCEPTED

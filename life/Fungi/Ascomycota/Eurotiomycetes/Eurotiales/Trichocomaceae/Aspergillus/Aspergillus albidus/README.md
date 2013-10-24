@@ -1,5 +1,4 @@
-Aspergillus albidus Eichelb. SPECIES
-=======
+# Aspergillus albidus Eichelb. SPECIES
 
 #### Status
 ACCEPTED

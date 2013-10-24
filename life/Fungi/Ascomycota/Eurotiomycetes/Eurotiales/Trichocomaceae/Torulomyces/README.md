@@ -1,5 +1,4 @@
-Torulomyces Delitsch GENUS
-=======
+# Torulomyces Delitsch GENUS
 
 #### Status
 ACCEPTED

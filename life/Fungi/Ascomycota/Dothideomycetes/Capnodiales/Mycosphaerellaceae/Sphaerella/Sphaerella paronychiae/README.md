@@ -1,5 +1,4 @@
-Sphaerella paronychiae Unamuno SPECIES
-=======
+# Sphaerella paronychiae Unamuno SPECIES
 
 #### Status
 ACCEPTED

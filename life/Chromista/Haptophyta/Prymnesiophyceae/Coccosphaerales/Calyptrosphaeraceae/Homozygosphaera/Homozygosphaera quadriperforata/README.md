@@ -1,5 +1,4 @@
-Homozygosphaera quadriperforata (Kamptner) Halldal & Markali SPECIES
-=======
+# Homozygosphaera quadriperforata (Kamptner) Halldal & Markali SPECIES
 
 #### Status
 ACCEPTED

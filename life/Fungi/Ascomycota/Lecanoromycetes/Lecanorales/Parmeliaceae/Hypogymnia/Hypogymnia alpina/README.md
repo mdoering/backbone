@@ -1,5 +1,4 @@
-Hypogymnia alpina D.D. Awasthi SPECIES
-=======
+# Hypogymnia alpina D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

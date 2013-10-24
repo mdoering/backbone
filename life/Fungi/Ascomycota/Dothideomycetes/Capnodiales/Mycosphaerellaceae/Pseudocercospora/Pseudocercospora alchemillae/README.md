@@ -1,5 +1,4 @@
-Pseudocercospora alchemillae (Syd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora alchemillae (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

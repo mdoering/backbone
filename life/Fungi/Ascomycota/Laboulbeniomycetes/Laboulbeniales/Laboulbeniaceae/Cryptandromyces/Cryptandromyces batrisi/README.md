@@ -1,5 +1,4 @@
-Cryptandromyces batrisi (Thaxt.) I.I. Tav. SPECIES
-=======
+# Cryptandromyces batrisi (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

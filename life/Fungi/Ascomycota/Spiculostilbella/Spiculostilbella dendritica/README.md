@@ -1,5 +1,4 @@
-Spiculostilbella dendritica E.F. Morris SPECIES
-=======
+# Spiculostilbella dendritica E.F. Morris SPECIES
 
 #### Status
 ACCEPTED

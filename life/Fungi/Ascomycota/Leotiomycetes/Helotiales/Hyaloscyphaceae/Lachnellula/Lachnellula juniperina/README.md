@@ -1,5 +1,4 @@
-Lachnellula juniperina (K. Holm & L. Holm) Vesterh. SPECIES
-=======
+# Lachnellula juniperina (K. Holm & L. Holm) Vesterh. SPECIES
 
 #### Status
 ACCEPTED

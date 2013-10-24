@@ -1,5 +1,4 @@
-Helvella badia Saut. SPECIES
-=======
+# Helvella badia Saut. SPECIES
 
 #### Status
 ACCEPTED

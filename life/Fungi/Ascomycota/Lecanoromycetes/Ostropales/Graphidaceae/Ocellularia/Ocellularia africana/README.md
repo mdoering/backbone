@@ -1,5 +1,4 @@
-Ocellularia africana Frisch SPECIES
-=======
+# Ocellularia africana Frisch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia rompelii Magnus SPECIES
-=======
+# Puccinia rompelii Magnus SPECIES
 
 #### Status
 ACCEPTED

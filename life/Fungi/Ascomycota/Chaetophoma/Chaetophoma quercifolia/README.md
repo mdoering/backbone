@@ -1,5 +1,4 @@
-Chaetophoma quercifolia Cooke, 1878 SPECIES
-=======
+# Chaetophoma quercifolia Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED

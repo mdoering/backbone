@@ -1,8 +1,7 @@
-Discoaster helianthus Bramlette & Sullivan, 1961 SPECIES
-=======
+# Discoaster splendidus Martini, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Tettigomyces chaetophilus Thaxt. SPECIES
-=======
+# Tettigomyces chaetophilus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

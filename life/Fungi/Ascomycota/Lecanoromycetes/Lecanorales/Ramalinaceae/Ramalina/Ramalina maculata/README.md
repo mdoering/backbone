@@ -1,5 +1,4 @@
-Ramalina maculata Müll. Arg. SPECIES
-=======
+# Ramalina maculata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

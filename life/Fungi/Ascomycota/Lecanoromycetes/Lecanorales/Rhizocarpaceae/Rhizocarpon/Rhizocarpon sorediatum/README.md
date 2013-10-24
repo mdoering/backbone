@@ -1,5 +1,4 @@
-Rhizocarpon sorediatum (Croz.) Räsänen SPECIES
-=======
+# Rhizocarpon sorediatum (Croz.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

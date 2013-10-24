@@ -1,5 +1,4 @@
-Pleospora cheiranthi Cocc. & Morini SPECIES
-=======
+# Pleospora cheiranthi Cocc. & Morini SPECIES
 
 #### Status
 ACCEPTED

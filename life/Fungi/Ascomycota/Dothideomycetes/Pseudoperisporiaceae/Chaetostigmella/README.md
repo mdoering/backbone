@@ -1,5 +1,4 @@
-Chaetostigmella GENUS
-=======
+# Chaetostigmella GENUS
 
 #### Status
 ACCEPTED

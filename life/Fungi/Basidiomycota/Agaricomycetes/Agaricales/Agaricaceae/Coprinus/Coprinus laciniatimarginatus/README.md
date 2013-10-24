@@ -1,5 +1,4 @@
-Coprinus laciniatimarginatus Bogart SPECIES
-=======
+# Coprinus laciniatimarginatus Bogart SPECIES
 
 #### Status
 ACCEPTED

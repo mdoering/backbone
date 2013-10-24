@@ -1,5 +1,4 @@
-Euglena elenkinii J. Poljanskij SPECIES
-=======
+# Euglena elenkinii J. Poljanskij SPECIES
 
 #### Status
 ACCEPTED

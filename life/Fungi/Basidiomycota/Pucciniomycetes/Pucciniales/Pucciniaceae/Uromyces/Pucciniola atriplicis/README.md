@@ -1,5 +1,4 @@
-Pucciniola atriplicis (Shear) Arthur SPECIES
-=======
+# Pucciniola atriplicis (Shear) Arthur SPECIES
 
 #### Status
 ACCEPTED

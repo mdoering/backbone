@@ -1,14 +1,13 @@
-Vararia rhodospora (Wakef.) G. Cunn., 1953 SPECIES
-=======
+# Dichostereum rhodosporum (Wakef.) Boidin & Lanq., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 77: 291 (1953)
+Mycotaxon 6(2): 284 (1977)
 
 #### Original name
 Asterostromella rhodospora Wakef., 1915

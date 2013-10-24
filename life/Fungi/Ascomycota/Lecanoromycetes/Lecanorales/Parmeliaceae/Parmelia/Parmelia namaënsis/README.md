@@ -1,5 +1,4 @@
-Parmelia namaënsis J. Steiner & Zahlbr. SPECIES
-=======
+# Parmelia namaënsis J. Steiner & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

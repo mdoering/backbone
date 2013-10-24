@@ -1,5 +1,4 @@
-Hysterium parschlugianum Ettingsh. SPECIES
-=======
+# Hysterium parschlugianum Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

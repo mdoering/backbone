@@ -1,5 +1,4 @@
-Florisphaera H.Okada & S.Honjo, 1973 GENUS
-=======
+# Florisphaera H.Okada & S.Honjo, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganapatiella Kalavati, 1977 GENUS
-=======
+# Ganapatiella Kalavati, 1977 GENUS
 
 #### Status
 ACCEPTED

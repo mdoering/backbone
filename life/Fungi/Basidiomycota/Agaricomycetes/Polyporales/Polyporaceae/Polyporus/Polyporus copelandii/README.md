@@ -1,8 +1,7 @@
-Polyporus copelandi Murrill SPECIES
-=======
+# Polyporus copelandii Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyporus copelandi Murrill
+Polyporus copelandii Murrill
 
 ### Remarks
 null

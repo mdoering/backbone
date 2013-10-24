@@ -1,14 +1,13 @@
-Polyporus amarus Hedgc., 1910 SPECIES
-=======
+# Tyromyces amarus (Hedgc.) J. Lowe, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 2(3): 155 (1910)
+Mycotaxon 2(1): 20 (1975)
 
 #### Original name
 Polyporus amarus Hedgc., 1910

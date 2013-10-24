@@ -1,5 +1,4 @@
-Strigula minor (Vezda) Cl. Roux & Sérus. SPECIES
-=======
+# Strigula minor (Vezda) Cl. Roux & Sérus. SPECIES
 
 #### Status
 ACCEPTED

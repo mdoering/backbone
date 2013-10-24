@@ -1,5 +1,4 @@
-Rutstroemia bertholletiae Dennis SPECIES
-=======
+# Rutstroemia bertholletiae Dennis SPECIES
 
 #### Status
 ACCEPTED

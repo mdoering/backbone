@@ -1,5 +1,4 @@
-Cortinarius melleifolius var. basiluteus (Chevassut & Rob. Henry) Bidaud & Reumaux VARIETY
-=======
+# Cortinarius melleifolius Britzelm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Bidaud, Moënne-Loccoz, Carteret, Reumaux & Eyssartier, Atlas des Cortinaires (Meyzieu) 15: 1031 (2005)
+null
 
 #### Original name
-Cortinarius leproleptopus var. basiluteus Chevassut & Rob. Henry
+Cortinarius melleifolius Britzelm.
 
 ### Remarks
 null

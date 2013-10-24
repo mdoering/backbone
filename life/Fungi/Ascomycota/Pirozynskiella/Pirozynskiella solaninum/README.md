@@ -1,14 +1,13 @@
-Helminthosporium solaninum Sacc. & P. Syd., 1902 SPECIES
-=======
+# Pirozynskiella solaninum (Sacc. & P. Syd.) S. Hughes, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Mem. Reale Ist. Veneto Sci. 13 (reprint) (1902)
+Mycologia 99(4): 632 (2007)
 
 #### Original name
 Helminthosporium solaninum Sacc. & P. Syd., 1902

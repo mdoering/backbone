@@ -1,5 +1,4 @@
-Hyphoderma densum Sheng H. Wu, 1997 SPECIES
-=======
+# Hyphoderma densum Sheng H. Wu, 1997 SPECIES
 
 #### Status
 ACCEPTED

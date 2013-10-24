@@ -1,5 +1,4 @@
-Arthothelium monosporum (Vain.) Zahlbr. SPECIES
-=======
+# Arthothelium monosporum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

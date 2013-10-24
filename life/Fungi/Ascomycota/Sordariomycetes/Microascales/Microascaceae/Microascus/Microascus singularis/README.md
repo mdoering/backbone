@@ -1,5 +1,4 @@
-Microascus singularis (Sacc.) Malloch & Cain, 1971 SPECIES
-=======
+# Microascus singularis (Sacc.) Malloch & Cain, 1971 SPECIES
 
 #### Status
 ACCEPTED

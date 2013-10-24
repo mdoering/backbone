@@ -1,5 +1,4 @@
-Engizostoma chlorodiscum (Cooke & Ellis) Kuntze SPECIES
-=======
+# Engizostoma chlorodiscum (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

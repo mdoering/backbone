@@ -1,5 +1,4 @@
-Penicillium nigrovirens Fresen. SPECIES
-=======
+# Penicillium nigrovirens Fresen. SPECIES
 
 #### Status
 ACCEPTED

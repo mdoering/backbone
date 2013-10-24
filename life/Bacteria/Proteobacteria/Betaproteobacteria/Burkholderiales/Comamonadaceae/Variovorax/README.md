@@ -1,5 +1,4 @@
-Variovorax Willems, De Ley, Gillis & Kersters, 1991 GENUS
-=======
+# Variovorax Willems, De Ley, Gillis & Kersters, 1991 GENUS
 
 #### Status
 ACCEPTED

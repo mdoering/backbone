@@ -1,5 +1,4 @@
-Xenosphaeria rimosicola Körb. SPECIES
-=======
+# Xenosphaeria rimosicola Körb. SPECIES
 
 #### Status
 ACCEPTED

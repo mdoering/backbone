@@ -1,5 +1,4 @@
-Mucor oogenes Spring SPECIES
-=======
+# Mucor oogenes Spring SPECIES
 
 #### Status
 ACCEPTED

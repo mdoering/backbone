@@ -1,5 +1,4 @@
-Micropeltis uleana Syd. SPECIES
-=======
+# Micropeltis uleana Syd. SPECIES
 
 #### Status
 ACCEPTED

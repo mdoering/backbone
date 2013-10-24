@@ -1,5 +1,4 @@
-Septoria delonicis T.S. Ramakr. & Sundaram SPECIES
-=======
+# Septoria delonicis T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

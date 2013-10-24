@@ -1,5 +1,4 @@
-Amanita raymondii Contu SPECIES
-=======
+# Amanita raymondii Contu SPECIES
 
 #### Status
 ACCEPTED

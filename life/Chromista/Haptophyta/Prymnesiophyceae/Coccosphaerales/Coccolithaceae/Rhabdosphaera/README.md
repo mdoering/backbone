@@ -1,5 +1,4 @@
-Rhabdosphaera Haeckel, 1894 GENUS
-=======
+# Rhabdosphaera Haeckel, 1894 GENUS
 
 #### Status
 ACCEPTED

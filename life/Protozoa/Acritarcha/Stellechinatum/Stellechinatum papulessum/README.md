@@ -1,5 +1,4 @@
-Stellechinatum papulessum Molyneux, 1987 SPECIES
-=======
+# Stellechinatum papulessum Molyneux, 1987 SPECIES
 
 #### Status
 ACCEPTED

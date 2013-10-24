@@ -1,5 +1,4 @@
-Asteromella melampyrina (Aksel) Aa & Vanev SPECIES
-=======
+# Asteromella melampyrina (Aksel) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

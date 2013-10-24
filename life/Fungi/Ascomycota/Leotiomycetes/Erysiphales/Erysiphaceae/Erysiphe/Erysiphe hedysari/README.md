@@ -1,5 +1,4 @@
-Erysiphe hedysari (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe hedysari (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

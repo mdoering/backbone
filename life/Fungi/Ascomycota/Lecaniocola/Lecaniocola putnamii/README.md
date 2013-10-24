@@ -1,5 +1,4 @@
-Lecaniocola putnamii Brain SPECIES
-=======
+# Lecaniocola putnamii Brain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza phlyctispora Lepr. & Mont., 1845 SPECIES
-=======
+# Sowerbyella phlyctispora (Lepr. & Mont.) Hohmeyer & J. Moravec, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Moravec, Czech Mycol. 47(4): 263 (1994)
 
 #### Original name
-null
+Peziza phlyctispora Lepr. & Mont.
 
 ### Remarks
 null

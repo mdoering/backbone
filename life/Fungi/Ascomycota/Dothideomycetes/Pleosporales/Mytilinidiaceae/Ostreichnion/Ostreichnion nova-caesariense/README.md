@@ -1,17 +1,16 @@
-Hysterium novae-caesariense Ellis SPECIES
-=======
+# Ostreichnion nova-caesariense (Ellis) M.E. Barr, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 3(1): 84 (1975)
 
 #### Original name
-Hysterium novae-caesariense Ellis
+Hysterium nova-caesariense Ellis
 
 ### Remarks
 null

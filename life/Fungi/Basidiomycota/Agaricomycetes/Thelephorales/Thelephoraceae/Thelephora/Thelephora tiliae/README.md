@@ -1,5 +1,4 @@
-Thelephora tiliae Pers. SPECIES
-=======
+# Thelephora tiliae Pers. SPECIES
 
 #### Status
 ACCEPTED

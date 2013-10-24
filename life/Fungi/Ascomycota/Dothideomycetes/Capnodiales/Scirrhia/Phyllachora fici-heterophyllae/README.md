@@ -1,5 +1,4 @@
-Phyllachora fici-heterophyllae Petr., 1929 SPECIES
-=======
+# Phyllachora fici-heterophyllae Petr., 1929 SPECIES
 
 #### Status
 DOUBTFUL

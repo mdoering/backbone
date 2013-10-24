@@ -1,17 +1,16 @@
-Mucor cespitosus L. SPECIES
-=======
+# Mucor caespitosus Scholler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sp. pl. 2: 1186 (1753)
 
 #### Original name
-Mucor cespitosus L.
+Mucor caespitosus Scholler
 
 ### Remarks
 null

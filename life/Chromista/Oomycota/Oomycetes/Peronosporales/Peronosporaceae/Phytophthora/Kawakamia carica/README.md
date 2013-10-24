@@ -1,5 +1,4 @@
-Kawakamia carica Hara SPECIES
-=======
+# Kawakamia carica Hara SPECIES
 
 #### Status
 ACCEPTED

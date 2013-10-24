@@ -1,5 +1,4 @@
-Ectocarpus laminariae Noda SPECIES
-=======
+# Ectocarpus laminariae Noda SPECIES
 
 #### Status
 ACCEPTED

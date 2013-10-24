@@ -1,5 +1,4 @@
-Chlorociboria campbellensis P.R. Johnst., 2005 SPECIES
-=======
+# Chlorociboria campbellensis P.R. Johnst., 2005 SPECIES
 
 #### Status
 ACCEPTED

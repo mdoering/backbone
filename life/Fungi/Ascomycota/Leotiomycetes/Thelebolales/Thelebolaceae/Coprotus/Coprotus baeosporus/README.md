@@ -1,5 +1,4 @@
-Coprotus baeosporus Jeng & J.C. Krug SPECIES
-=======
+# Coprotus baeosporus Jeng & J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

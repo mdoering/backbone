@@ -1,5 +1,4 @@
-Thyridaria magnata (Cooke & Peck) M.E. Barr SPECIES
-=======
+# Thyridaria magnata (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

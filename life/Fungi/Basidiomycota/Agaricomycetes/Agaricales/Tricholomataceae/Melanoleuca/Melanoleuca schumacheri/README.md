@@ -1,17 +1,16 @@
-Tricholoma schumacheri var. schumacheri (Fr.) Gillet VARIETY
-=======
+# Melanoleuca schumacheri (Fr.) Singer, 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 125 (1874)
+Annls mycol. 41(1/3): 55 (1943)
 
 #### Original name
-Tricholoma schumacheri var. schumacheri (Fr.) Gillet
+Agaricus schumacheri Fr., 1818
 
 ### Remarks
 null

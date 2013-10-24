@@ -1,5 +1,4 @@
-Leptosphaeria rajasthanensis Panwar & S.J. Kaur SPECIES
-=======
+# Leptosphaeria rajasthanensis Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus laceratus Berk. SPECIES
-=======
+# Polystictus laceratus Berk. SPECIES
 
 #### Status
 ACCEPTED

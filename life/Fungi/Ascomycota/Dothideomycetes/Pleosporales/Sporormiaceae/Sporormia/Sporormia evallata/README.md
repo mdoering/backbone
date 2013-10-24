@@ -1,5 +1,4 @@
-Sporormia evallata Pass. SPECIES
-=======
+# Sporormia evallata Pass. SPECIES
 
 #### Status
 ACCEPTED

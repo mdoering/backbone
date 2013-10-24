@@ -1,5 +1,4 @@
-Sclerophora minima Chevall. SPECIES
-=======
+# Sclerophora minima Chevall. SPECIES
 
 #### Status
 ACCEPTED

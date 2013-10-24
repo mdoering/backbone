@@ -1,5 +1,4 @@
-Verrucaria polita Servít SPECIES
-=======
+# Verrucaria polita Servít SPECIES
 
 #### Status
 ACCEPTED

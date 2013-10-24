@@ -1,5 +1,4 @@
-Phaeocalicium boreale Tibell SPECIES
-=======
+# Phaeocalicium boreale Tibell SPECIES
 
 #### Status
 ACCEPTED

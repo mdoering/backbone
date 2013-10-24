@@ -1,5 +1,4 @@
-Coryneum cesatii B. Sutton SPECIES
-=======
+# Coryneum cesatii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

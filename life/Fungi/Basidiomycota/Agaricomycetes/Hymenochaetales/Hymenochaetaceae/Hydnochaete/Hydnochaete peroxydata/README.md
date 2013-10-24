@@ -1,14 +1,13 @@
-Hydnochaete peroxydatum (Berk. ex Cooke) Dennis SPECIES
-=======
+# Hydnochaete peroxydata (Berk. ex Cooke) Dennis, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 3: 105 (1970)
 
 #### Original name
 Hydnum peroxydatum Berk. ex Cooke, 1891

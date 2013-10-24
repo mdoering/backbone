@@ -1,5 +1,4 @@
-Agaricus blakei Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus blakei Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

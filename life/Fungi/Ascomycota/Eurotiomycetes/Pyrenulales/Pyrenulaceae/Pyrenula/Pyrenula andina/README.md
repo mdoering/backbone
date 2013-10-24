@@ -1,5 +1,4 @@
-Pyrenula andina Aptroot SPECIES
-=======
+# Pyrenula andina Aptroot SPECIES
 
 #### Status
 ACCEPTED

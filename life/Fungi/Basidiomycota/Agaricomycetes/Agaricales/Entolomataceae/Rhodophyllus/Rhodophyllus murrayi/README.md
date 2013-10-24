@@ -1,5 +1,4 @@
-Rhodophyllus murrayi f. murrayi FORM
-=======
+# Rhodophyllus murrayi (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lloydia 5: 101 (1942)
 
 #### Original name
 Agaricus murrayi Berk. & M.A. Curtis

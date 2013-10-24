@@ -1,5 +1,4 @@
-Trichoglossum cheliense F.L. Tai SPECIES
-=======
+# Trichoglossum cheliense F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

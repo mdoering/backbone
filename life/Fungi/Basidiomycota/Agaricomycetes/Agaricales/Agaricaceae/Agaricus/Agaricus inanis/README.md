@@ -1,5 +1,4 @@
-Agaricus inanis Scop. SPECIES
-=======
+# Agaricus inanis Scop. SPECIES
 
 #### Status
 ACCEPTED

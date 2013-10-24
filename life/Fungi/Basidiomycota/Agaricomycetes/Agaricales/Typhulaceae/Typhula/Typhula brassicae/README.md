@@ -1,5 +1,4 @@
-Typhula brassicae (Bergius) Vang SPECIES
-=======
+# Typhula brassicae (Bergius) Vang SPECIES
 
 #### Status
 ACCEPTED

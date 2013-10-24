@@ -1,5 +1,4 @@
-Leiosphaeridia densa (Maithy, 1975) Nautiyal, 1983 SPECIES
-=======
+# Leiosphaeridia densa (Maithy, 1975) Nautiyal, 1983 SPECIES
 
 #### Status
 ACCEPTED

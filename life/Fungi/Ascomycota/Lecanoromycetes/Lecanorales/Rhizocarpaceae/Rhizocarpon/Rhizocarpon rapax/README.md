@@ -1,5 +1,4 @@
-Rhizocarpon rapax V. Wirth & Poelt SPECIES
-=======
+# Rhizocarpon rapax V. Wirth & Poelt SPECIES
 
 #### Status
 ACCEPTED

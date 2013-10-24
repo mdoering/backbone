@@ -1,5 +1,4 @@
-Trichophyton chibaense S. Ogata SPECIES
-=======
+# Trichophyton chibaense S. Ogata SPECIES
 
 #### Status
 ACCEPTED

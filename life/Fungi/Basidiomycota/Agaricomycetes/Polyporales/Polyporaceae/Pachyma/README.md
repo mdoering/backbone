@@ -1,5 +1,4 @@
-Pachyma Fr. GENUS
-=======
+# Pachyma Fr. GENUS
 
 #### Status
 ACCEPTED

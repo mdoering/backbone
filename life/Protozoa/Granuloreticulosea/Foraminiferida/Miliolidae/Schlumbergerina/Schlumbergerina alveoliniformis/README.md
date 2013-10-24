@@ -1,5 +1,4 @@
-Schlumbergerina alveoliniformis SPECIES
-=======
+# Schlumbergerina alveoliniformis SPECIES
 
 #### Status
 ACCEPTED

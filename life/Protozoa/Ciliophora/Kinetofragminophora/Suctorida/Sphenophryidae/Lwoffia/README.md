@@ -1,5 +1,4 @@
-Lwoffia Kozloff, 1955 GENUS
-=======
+# Lwoffia Kozloff, 1955 GENUS
 
 #### Status
 ACCEPTED

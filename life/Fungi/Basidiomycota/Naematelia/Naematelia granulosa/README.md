@@ -1,5 +1,4 @@
-Naematelia granulosa Mont. SPECIES
-=======
+# Naematelia granulosa Mont. SPECIES
 
 #### Status
 ACCEPTED

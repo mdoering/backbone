@@ -1,14 +1,13 @@
-Physalospora gynoxidis Pat., 1892 SPECIES
-=======
+# Phyllachora gynoxidis (Pat.) Petr., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 8(2): 131 (1892)
+Annls mycol. 25(3/4): 309 (1927)
 
 #### Original name
 Physalospora gynoxidis Pat., 1892

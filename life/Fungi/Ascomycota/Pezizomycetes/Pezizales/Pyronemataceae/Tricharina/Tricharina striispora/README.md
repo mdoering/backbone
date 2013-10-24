@@ -1,5 +1,4 @@
-Tricharina striispora Rifai, Chin S. Yang & Korf SPECIES
-=======
+# Tricharina striispora Rifai, Chin S. Yang & Korf SPECIES
 
 #### Status
 ACCEPTED

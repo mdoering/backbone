@@ -1,5 +1,4 @@
-Thelotrema excavatum var. excavatum VARIETY
-=======
+# Thelotrema excavatum Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Bot. 34: 208 (1896)
 
 #### Original name
-Thelotrema excavatum var. excavatum
+Thelotrema excavatum Vain.
 
 ### Remarks
 null

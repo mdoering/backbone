@@ -1,5 +1,4 @@
-Agaricus flammeolus Pollini SPECIES
-=======
+# Agaricus flammeolus Pollini SPECIES
 
 #### Status
 ACCEPTED

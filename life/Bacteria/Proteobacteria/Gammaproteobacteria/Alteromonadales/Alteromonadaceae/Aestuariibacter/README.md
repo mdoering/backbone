@@ -1,5 +1,4 @@
-Aestuariibacter Yi et al., 2004 GENUS
-=======
+# Aestuariibacter Yi et al., 2004 GENUS
 
 #### Status
 ACCEPTED

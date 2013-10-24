@@ -1,5 +1,4 @@
-Meliola malouetiae Hansf. & Deighton SPECIES
-=======
+# Meliola malouetiae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

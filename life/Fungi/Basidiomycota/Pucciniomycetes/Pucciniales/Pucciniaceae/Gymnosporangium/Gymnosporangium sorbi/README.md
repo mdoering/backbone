@@ -1,5 +1,4 @@
-Gymnosporangium sorbi (Arthur) F. Kern SPECIES
-=======
+# Gymnosporangium sorbi (Arthur) F. Kern SPECIES
 
 #### Status
 ACCEPTED

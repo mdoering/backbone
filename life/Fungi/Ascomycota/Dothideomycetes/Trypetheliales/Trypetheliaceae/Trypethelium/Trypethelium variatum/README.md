@@ -1,5 +1,4 @@
-Trypethelium variatum Nyl. SPECIES
-=======
+# Trypethelium variatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

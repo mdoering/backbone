@@ -1,5 +1,4 @@
-Subbaromyces Hesselt. GENUS
-=======
+# Subbaromyces Hesselt. GENUS
 
 #### Status
 ACCEPTED

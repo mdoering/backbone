@@ -1,5 +1,4 @@
-Rhodophyllus brunneolus (S. Ito & S. Imai) S. Ito SPECIES
-=======
+# Rhodophyllus brunneolus (S. Ito & S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

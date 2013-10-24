@@ -1,5 +1,4 @@
-Agaricus atropunctum Fr. SPECIES
-=======
+# Agaricus atropunctum Fr. SPECIES
 
 #### Status
 ACCEPTED

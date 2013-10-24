@@ -1,5 +1,4 @@
-Monosporium galanthi Oudem. SPECIES
-=======
+# Monosporium galanthi Oudem. SPECIES
 
 #### Status
 ACCEPTED

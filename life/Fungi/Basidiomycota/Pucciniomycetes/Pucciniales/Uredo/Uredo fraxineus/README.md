@@ -1,5 +1,4 @@
-Uredo fraxineus Bull. SPECIES
-=======
+# Uredo fraxineus Bull. SPECIES
 
 #### Status
 ACCEPTED

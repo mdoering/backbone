@@ -1,5 +1,4 @@
-Septoria farfaricola Dearn. SPECIES
-=======
+# Septoria farfaricola Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcostroma leucopogonis (H.J. Swart) Nag Raj SPECIES
-=======
+# Sarcostroma leucopogonis (H.J. Swart) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

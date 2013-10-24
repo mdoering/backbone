@@ -1,5 +1,4 @@
-Solenosphaera chierchiae Brandt, 1905 SPECIES
-=======
+# Solenosphaera chierchiae Brandt, 1905 SPECIES
 
 #### Status
 ACCEPTED

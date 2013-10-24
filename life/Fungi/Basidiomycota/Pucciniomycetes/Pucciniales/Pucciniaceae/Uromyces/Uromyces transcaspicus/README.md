@@ -1,5 +1,4 @@
-Uromyces transcaspicus Petr. SPECIES
-=======
+# Uromyces transcaspicus Petr. SPECIES
 
 #### Status
 ACCEPTED

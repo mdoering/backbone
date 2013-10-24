@@ -1,5 +1,4 @@
-Naucoria scrupea Berk. SPECIES
-=======
+# Naucoria scrupea Berk. SPECIES
 
 #### Status
 ACCEPTED

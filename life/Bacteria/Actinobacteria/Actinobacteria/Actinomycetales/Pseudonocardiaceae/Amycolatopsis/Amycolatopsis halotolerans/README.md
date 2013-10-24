@@ -1,5 +1,4 @@
-Amycolatopsis halotolerans Lee, 2006 SPECIES
-=======
+# Amycolatopsis halotolerans Lee, 2006 SPECIES
 
 #### Status
 ACCEPTED

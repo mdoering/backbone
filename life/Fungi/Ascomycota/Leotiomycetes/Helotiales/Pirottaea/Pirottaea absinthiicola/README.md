@@ -1,5 +1,4 @@
-Pirottaea absinthiicola Nannf. SPECIES
-=======
+# Pirottaea absinthiicola Nannf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora brideliae Thirum. & Naras. SPECIES
-=======
+# Stagonospora brideliae Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

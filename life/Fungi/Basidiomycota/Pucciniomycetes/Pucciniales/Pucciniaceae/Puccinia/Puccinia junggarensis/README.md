@@ -1,5 +1,4 @@
-Puccinia junggarensis S.X. Wei & J.Y. Zhuang SPECIES
-=======
+# Puccinia junggarensis S.X. Wei & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

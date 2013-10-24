@@ -1,5 +1,4 @@
-Fomes haeuslerianus Henn., 1896 SPECIES
-=======
+# Fomes haeuslerianus Henn., 1896 SPECIES
 
 #### Status
 ACCEPTED

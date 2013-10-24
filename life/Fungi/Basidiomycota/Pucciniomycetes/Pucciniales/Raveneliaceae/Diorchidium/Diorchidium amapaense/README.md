@@ -1,5 +1,4 @@
-Diorchidium amapaense J.F. Hennen & Sotão, 1998 SPECIES
-=======
+# Diorchidium amapaense J.F. Hennen & Sotão, 1998 SPECIES
 
 #### Status
 ACCEPTED

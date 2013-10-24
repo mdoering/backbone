@@ -1,17 +1,16 @@
-Ophionectria anonae R. Rao SPECIES
-=======
+# Ophionectria annonae R. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 25(1-6): 72 (1972)
 
 #### Original name
-Ophionectria anonae R. Rao
+Ophionectria annonae R. Rao
 
 ### Remarks
 null

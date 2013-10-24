@@ -1,5 +1,4 @@
-Setodochium GENUS
-=======
+# Setodochium GENUS
 
 #### Status
 ACCEPTED

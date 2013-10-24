@@ -1,5 +1,4 @@
-Hymenoconidium petasatum Zukal SPECIES
-=======
+# Hymenoconidium petasatum Zukal SPECIES
 
 #### Status
 ACCEPTED

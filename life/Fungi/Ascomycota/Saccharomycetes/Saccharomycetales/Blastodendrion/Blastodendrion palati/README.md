@@ -1,5 +1,4 @@
-Blastodendrion palati W. Fröhl., Zach & Piringer SPECIES
-=======
+# Blastodendrion palati W. Fröhl., Zach & Piringer SPECIES
 
 #### Status
 ACCEPTED

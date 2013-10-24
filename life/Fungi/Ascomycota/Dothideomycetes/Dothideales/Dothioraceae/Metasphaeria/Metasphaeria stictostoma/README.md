@@ -1,5 +1,4 @@
-Metasphaeria stictostoma (Berk. & M.A. Curtis) Berl. SPECIES
-=======
+# Metasphaeria stictostoma (Berk. & M.A. Curtis) Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subhumida Vain. SPECIES
-=======
+# Lecidea subhumida Vain. SPECIES
 
 #### Status
 ACCEPTED

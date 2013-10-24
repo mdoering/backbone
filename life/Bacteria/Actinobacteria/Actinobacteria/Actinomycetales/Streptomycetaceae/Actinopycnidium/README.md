@@ -1,5 +1,4 @@
-Actinopycnidium Krasil'nikov, 1962 (Approved Lists, 1980) GENUS
-=======
+# Actinopycnidium Krasil'nikov, 1962 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

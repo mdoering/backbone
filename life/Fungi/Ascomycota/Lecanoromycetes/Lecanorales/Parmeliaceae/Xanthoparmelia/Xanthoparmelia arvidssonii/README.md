@@ -1,5 +1,4 @@
-Xanthoparmelia arvidssonii T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia arvidssonii T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

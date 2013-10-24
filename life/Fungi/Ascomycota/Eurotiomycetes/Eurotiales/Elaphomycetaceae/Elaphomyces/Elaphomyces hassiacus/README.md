@@ -1,5 +1,4 @@
-Elaphomyces hassiacus R. Hesse SPECIES
-=======
+# Elaphomyces hassiacus R. Hesse SPECIES
 
 #### Status
 ACCEPTED

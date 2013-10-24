@@ -1,5 +1,4 @@
-Cenangium acicolum (Fuckel) Rehm SPECIES
-=======
+# Cenangium acicolum (Fuckel) Rehm SPECIES
 
 #### Status
 ACCEPTED

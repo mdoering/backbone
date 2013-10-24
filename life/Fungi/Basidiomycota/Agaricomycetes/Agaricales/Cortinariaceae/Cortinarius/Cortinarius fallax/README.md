@@ -1,5 +1,4 @@
-Cortinarius fallax Quél. SPECIES
-=======
+# Cortinarius fallax Quél. SPECIES
 
 #### Status
 ACCEPTED

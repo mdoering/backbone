@@ -1,5 +1,4 @@
-Ionomidotis frondosa (Kobayasi) Kobayasi & Korf SPECIES
-=======
+# Ionomidotis frondosa (Kobayasi) Kobayasi & Korf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulvinula salmonicolor (Seaver) Pfister SPECIES
-=======
+# Pulvinula salmonicolor (Seaver) Pfister SPECIES
 
 #### Status
 ACCEPTED

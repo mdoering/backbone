@@ -1,5 +1,4 @@
-Dendryphion macrosporum P. Karst. SPECIES
-=======
+# Dendryphion macrosporum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

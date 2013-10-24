@@ -1,5 +1,4 @@
-Lichenoides islandicum (L.) SPECIES
-=======
+# Lichenoides islandicum (L.) SPECIES
 
 #### Status
 ACCEPTED

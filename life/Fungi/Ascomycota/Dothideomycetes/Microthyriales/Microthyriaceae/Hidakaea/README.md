@@ -1,5 +1,4 @@
-Hidakaea I. Hino & Katum. GENUS
-=======
+# Hidakaea I. Hino & Katum. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arachnophora uberisporoides R.F. Castañeda, W. Gams & Saikawa SPECIES
-=======
+# Arachnophora uberisporoides R.F. Castañeda, W. Gams & Saikawa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia limbata f. limbata Laurer FORM
-=======
+# Relicina limbata (Laurer) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 2: 39 (1827)
+Phytologia 28: 484 (1974)
 
 #### Original name
-Parmelia limbata f. limbata Laurer
+Parmelia limbata Laurer
 
 ### Remarks
 null

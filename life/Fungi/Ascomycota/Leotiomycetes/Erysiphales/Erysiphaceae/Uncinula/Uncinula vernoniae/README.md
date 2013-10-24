@@ -1,5 +1,4 @@
-Uncinula vernoniae Viégas SPECIES
-=======
+# Uncinula vernoniae Viégas SPECIES
 
 #### Status
 ACCEPTED

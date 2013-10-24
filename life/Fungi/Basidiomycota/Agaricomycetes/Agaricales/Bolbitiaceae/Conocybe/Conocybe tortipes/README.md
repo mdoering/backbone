@@ -1,5 +1,4 @@
-Conocybe tortipes (Mont.) Watling SPECIES
-=======
+# Conocybe tortipes (Mont.) Watling SPECIES
 
 #### Status
 ACCEPTED

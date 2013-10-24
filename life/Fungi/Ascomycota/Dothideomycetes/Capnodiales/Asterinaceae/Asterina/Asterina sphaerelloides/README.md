@@ -1,5 +1,4 @@
-Asterina sphaerelloides Speg. SPECIES
-=======
+# Asterina sphaerelloides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trinacrium angamosense Matsush. SPECIES
-=======
+# Trinacrium angamosense Matsush. SPECIES
 
 #### Status
 ACCEPTED

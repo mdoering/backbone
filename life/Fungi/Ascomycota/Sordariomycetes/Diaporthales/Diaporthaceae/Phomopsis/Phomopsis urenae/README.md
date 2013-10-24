@@ -1,5 +1,4 @@
-Phomopsis urenae Punith., F.O. Freire & Poltr., 2002 SPECIES
-=======
+# Phomopsis urenae Punith., F.O. Freire & Poltr., 2002 SPECIES
 
 #### Status
 ACCEPTED

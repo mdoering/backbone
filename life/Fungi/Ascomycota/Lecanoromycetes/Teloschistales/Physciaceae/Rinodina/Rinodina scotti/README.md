@@ -1,5 +1,4 @@
-Rinodina scotti SPECIES
-=======
+# Rinodina scotti SPECIES
 
 #### Status
 ACCEPTED

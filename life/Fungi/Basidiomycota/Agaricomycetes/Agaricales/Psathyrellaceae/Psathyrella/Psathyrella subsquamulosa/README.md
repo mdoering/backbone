@@ -1,5 +1,4 @@
-Psathyrella subsquamulosa A.H. Sm. SPECIES
-=======
+# Psathyrella subsquamulosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

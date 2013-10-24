@@ -1,5 +1,4 @@
-Pholiota olivaceocoriacea Rick SPECIES
-=======
+# Pholiota olivaceocoriacea Rick SPECIES
 
 #### Status
 ACCEPTED

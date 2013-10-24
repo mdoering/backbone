@@ -1,5 +1,4 @@
-Squamarina chrysoleuca var. chrysoleuca VARIETY
-=======
+# Squamarina chrysoleuca anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamarina chrysoleuca var. chrysoleuca
+Squamarina chrysoleuca anon.
 
 ### Remarks
 null

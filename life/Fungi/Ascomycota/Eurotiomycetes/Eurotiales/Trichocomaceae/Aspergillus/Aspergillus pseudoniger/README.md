@@ -1,5 +1,4 @@
-Aspergillus pseudoniger (Costantin & Lucet) Saincl. SPECIES
-=======
+# Aspergillus pseudoniger (Costantin & Lucet) Saincl. SPECIES
 
 #### Status
 ACCEPTED

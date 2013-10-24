@@ -1,17 +1,16 @@
-Lecanora subfusca f. parisiensis (Nyl.) Hue FORM
-=======
+# Lecanora horiza (Ach.) Linds. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deutschl. Fl. (Frankfurt), Abth. 2 3: 82 (1813)
 
 #### Original name
-Lecanora parisiensis Nyl.
+Lecanora subfusca var. horiza Ach.
 
 ### Remarks
 null

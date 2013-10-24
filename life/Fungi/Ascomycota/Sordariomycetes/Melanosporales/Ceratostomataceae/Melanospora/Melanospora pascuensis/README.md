@@ -1,5 +1,4 @@
-Melanospora pascuensis Stchigel & Guarro SPECIES
-=======
+# Melanospora pascuensis Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

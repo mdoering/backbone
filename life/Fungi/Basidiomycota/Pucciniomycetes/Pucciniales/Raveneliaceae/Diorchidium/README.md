@@ -1,17 +1,16 @@
-Diphragmium Boedijn GENUS
-=======
+# Diorchidium Kalchbr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 1: 472 (1960)
+Grevillea 11(no. 57): 26 (1882)
 
 #### Original name
-Diphragmium Boedijn
+Diorchidium Kalchbr.
 
 ### Remarks
 null

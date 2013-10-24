@@ -1,5 +1,4 @@
-Rothia O. Varol & M.H. Girgis, 1994 GENUS
-=======
+# Rothia O. Varol & M.H. Girgis, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeothece abiscoensis (Skuja) Komárek & Anagnostidis SPECIES
-=======
+# Gloeothece abiscoensis (Skuja) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

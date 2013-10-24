@@ -1,5 +1,4 @@
-Dasyscyphus washingtonensis Dennis SPECIES
-=======
+# Dasyscyphus washingtonensis Dennis SPECIES
 
 #### Status
 ACCEPTED

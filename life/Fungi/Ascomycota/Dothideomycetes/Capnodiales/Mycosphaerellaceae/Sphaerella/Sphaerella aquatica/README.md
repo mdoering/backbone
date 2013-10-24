@@ -1,5 +1,4 @@
-Sphaerella aquatica Cooke SPECIES
-=======
+# Sphaerella aquatica Cooke SPECIES
 
 #### Status
 ACCEPTED

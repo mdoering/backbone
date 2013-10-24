@@ -1,5 +1,4 @@
-Diplopeltis spartii Pass. SPECIES
-=======
+# Diplopeltis spartii Pass. SPECIES
 
 #### Status
 ACCEPTED

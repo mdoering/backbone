@@ -1,5 +1,4 @@
-Cora pavonia f. pavonia FORM
-=======
+# Cora pavonia (Webber & D. Mohr) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 556 (1838)
 
 #### Original name
-Cora pavonia f. pavonia
+Thelephora pavonia Webber & D. Mohr
 
 ### Remarks
 null

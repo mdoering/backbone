@@ -1,5 +1,4 @@
-Karenia papilionacea Haywood & Steidinger in Haywood et al., 2004 SPECIES
-=======
+# Karenia papilionacea Haywood & Steidinger in Haywood et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

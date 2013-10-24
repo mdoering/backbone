@@ -1,5 +1,4 @@
-Fusiformisporites paucistriatus Rouse & Mustard SPECIES
-=======
+# Fusiformisporites paucistriatus Rouse & Mustard SPECIES
 
 #### Status
 ACCEPTED

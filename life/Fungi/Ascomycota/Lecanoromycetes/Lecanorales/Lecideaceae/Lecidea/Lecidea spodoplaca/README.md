@@ -1,5 +1,4 @@
-Lecidea spodoplaca Nyl. SPECIES
-=======
+# Lecidea spodoplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

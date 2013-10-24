@@ -1,5 +1,4 @@
-Uredo cosmeae J. Lowe SPECIES
-=======
+# Uredo cosmeae J. Lowe SPECIES
 
 #### Status
 ACCEPTED

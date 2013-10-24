@@ -1,14 +1,13 @@
-Puiggarina astronii (Speg.) Speg., 1919 SPECIES
-=======
+# Phyllachora astronii Speg., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 23: 486 (1919)
+Anal. Soc. cient. argent. 19: 93 (1885)
 
 #### Original name
 Phyllachora astronii Speg., 1885

@@ -1,5 +1,4 @@
-Elsinoe phaseoli Jenkins, 1933 SPECIES
-=======
+# Elsinoe phaseoli Jenkins, 1933 SPECIES
 
 #### Status
 ACCEPTED

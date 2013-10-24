@@ -1,5 +1,4 @@
-Corollospora anglusa Abdel-Wahab & Nagah., 2009 SPECIES
-=======
+# Corollospora anglusa Abdel-Wahab & Nagah., 2009 SPECIES
 
 #### Status
 ACCEPTED

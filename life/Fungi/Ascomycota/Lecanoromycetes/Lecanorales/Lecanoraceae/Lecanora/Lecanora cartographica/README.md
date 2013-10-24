@@ -1,5 +1,4 @@
-Lecanora cartographica Motyka SPECIES
-=======
+# Lecanora cartographica Motyka SPECIES
 
 #### Status
 ACCEPTED

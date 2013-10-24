@@ -1,5 +1,4 @@
-Phomopsis grabowskiae Alcalde SPECIES
-=======
+# Phomopsis grabowskiae Alcalde SPECIES
 
 #### Status
 ACCEPTED

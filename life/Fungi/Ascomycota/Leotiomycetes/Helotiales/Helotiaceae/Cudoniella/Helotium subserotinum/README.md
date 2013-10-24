@@ -1,5 +1,4 @@
-Helotium subserotinum Henn. & E. Nyman SPECIES
-=======
+# Helotium subserotinum Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

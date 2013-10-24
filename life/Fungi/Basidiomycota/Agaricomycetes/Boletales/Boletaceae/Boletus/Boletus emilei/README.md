@@ -1,5 +1,4 @@
-Boletus emilei Barbier SPECIES
-=======
+# Boletus emilei Barbier SPECIES
 
 #### Status
 ACCEPTED

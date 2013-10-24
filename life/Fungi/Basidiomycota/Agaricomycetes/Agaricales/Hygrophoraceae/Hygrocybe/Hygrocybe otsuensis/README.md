@@ -1,5 +1,4 @@
-Hygrocybe otsuensis (Hongo) Hongo SPECIES
-=======
+# Hygrocybe otsuensis (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia tarrii Cummins & S.M. Husain SPECIES
-=======
+# Puccinia tarrii Cummins & S.M. Husain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutispongus Kozur & Mostler, 1996 GENUS
-=======
+# Scutispongus Kozur & Mostler, 1996 GENUS
 
 #### Status
 ACCEPTED

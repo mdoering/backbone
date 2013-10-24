@@ -1,5 +1,4 @@
-Abaphospora suecica Kirschst. SPECIES
-=======
+# Abaphospora suecica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

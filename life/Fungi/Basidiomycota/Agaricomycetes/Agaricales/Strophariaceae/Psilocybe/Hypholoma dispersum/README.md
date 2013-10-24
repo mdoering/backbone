@@ -1,17 +1,16 @@
-Nematoloma dispersum var. idahoense (A.H. Sm.) A.H. Sm. VARIETY
-=======
+# Hypholoma dispersum (Fr.) Quél., 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 113 (1872)
 
 #### Original name
-Hypholoma dispersum var. idahoense A.H. Sm.
+Agaricus dispersus L., 1753
 
 ### Remarks
 null

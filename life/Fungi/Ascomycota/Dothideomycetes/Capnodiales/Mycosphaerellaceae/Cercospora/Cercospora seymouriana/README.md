@@ -1,5 +1,4 @@
-Cercospora seymouriana G. Winter SPECIES
-=======
+# Cercospora seymouriana G. Winter SPECIES
 
 #### Status
 ACCEPTED

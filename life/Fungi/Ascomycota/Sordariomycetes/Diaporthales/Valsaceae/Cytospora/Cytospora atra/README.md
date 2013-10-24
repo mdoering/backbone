@@ -1,5 +1,4 @@
-Cytospora atra (Bonord.) Sacc. SPECIES
-=======
+# Cytospora atra (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

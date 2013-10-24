@@ -1,5 +1,4 @@
-Humicola atra De Bert. SPECIES
-=======
+# Humicola atra De Bert. SPECIES
 
 #### Status
 ACCEPTED

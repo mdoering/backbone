@@ -1,5 +1,4 @@
-Mycobacterium brumae Luquin et al., 1993 SPECIES
-=======
+# Mycobacterium brumae Luquin et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

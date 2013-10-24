@@ -1,5 +1,4 @@
-Aspicilia lacunosula Mereschk. SPECIES
-=======
+# Aspicilia lacunosula Mereschk. SPECIES
 
 #### Status
 ACCEPTED

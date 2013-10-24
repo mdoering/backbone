@@ -1,5 +1,4 @@
-Delitschia araneosa Cain SPECIES
-=======
+# Delitschia araneosa Cain SPECIES
 
 #### Status
 ACCEPTED

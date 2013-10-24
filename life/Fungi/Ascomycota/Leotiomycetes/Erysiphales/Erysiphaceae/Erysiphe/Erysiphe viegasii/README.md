@@ -1,5 +1,4 @@
-Erysiphe viegasii (Dianese & A.C. Dianese) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe viegasii (Dianese & A.C. Dianese) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

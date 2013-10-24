@@ -1,5 +1,4 @@
-Graphis cooperta Zenker SPECIES
-=======
+# Graphis cooperta Zenker SPECIES
 
 #### Status
 ACCEPTED

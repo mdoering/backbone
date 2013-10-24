@@ -1,5 +1,4 @@
-Phomatospora argyrostigma (Berk.) Sacc. SPECIES
-=======
+# Phomatospora argyrostigma (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

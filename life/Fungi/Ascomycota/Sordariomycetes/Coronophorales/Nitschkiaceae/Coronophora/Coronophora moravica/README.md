@@ -1,5 +1,4 @@
-Coronophora moravica Petr. SPECIES
-=======
+# Coronophora moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

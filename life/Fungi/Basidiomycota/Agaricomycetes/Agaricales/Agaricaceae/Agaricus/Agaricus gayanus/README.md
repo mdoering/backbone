@@ -1,5 +1,4 @@
-Agaricus gayanus Mont. SPECIES
-=======
+# Agaricus gayanus Mont. SPECIES
 
 #### Status
 ACCEPTED

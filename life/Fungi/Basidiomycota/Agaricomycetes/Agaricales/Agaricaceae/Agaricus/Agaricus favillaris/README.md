@@ -1,5 +1,4 @@
-Agaricus favillaris Fr. SPECIES
-=======
+# Agaricus favillaris Fr. SPECIES
 
 #### Status
 ACCEPTED

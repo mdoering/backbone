@@ -1,5 +1,4 @@
-Leptostroma scandentium (Schwein.) Schwein. SPECIES
-=======
+# Leptostroma scandentium (Schwein.) Schwein. SPECIES
 
 #### Status
 ACCEPTED

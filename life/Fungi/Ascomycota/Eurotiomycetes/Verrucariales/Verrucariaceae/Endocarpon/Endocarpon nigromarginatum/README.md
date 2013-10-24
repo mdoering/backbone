@@ -1,5 +1,4 @@
-Endocarpon nigromarginatum H. Harada SPECIES
-=======
+# Endocarpon nigromarginatum H. Harada SPECIES
 
 #### Status
 ACCEPTED

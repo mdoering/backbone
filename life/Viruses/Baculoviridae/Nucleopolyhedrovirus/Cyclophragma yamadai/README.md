@@ -1,5 +1,4 @@
-Cyclophragma yamadai Npv SPECIES
-=======
+# Cyclophragma yamadai Npv SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium variegatum Wallr. SPECIES
-=======
+# Sclerotium variegatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

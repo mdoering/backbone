@@ -1,5 +1,4 @@
-Mecsekia incrassata Sütö-Szentai, 1986 SPECIES
-=======
+# Mecsekia incrassata Sütö-Szentai, 1986 SPECIES
 
 #### Status
 ACCEPTED

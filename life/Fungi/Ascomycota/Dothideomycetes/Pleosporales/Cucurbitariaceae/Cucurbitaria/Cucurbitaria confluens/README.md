@@ -1,5 +1,4 @@
-Cucurbitaria confluens Plowr. SPECIES
-=======
+# Cucurbitaria confluens Plowr. SPECIES
 
 #### Status
 ACCEPTED

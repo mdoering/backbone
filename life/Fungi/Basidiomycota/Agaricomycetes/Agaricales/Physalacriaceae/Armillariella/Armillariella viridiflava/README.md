@@ -1,5 +1,4 @@
-Armillariella viridiflava Singer SPECIES
-=======
+# Armillariella viridiflava Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratosporella ponapensis Matsush. SPECIES
-=======
+# Ceratosporella ponapensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

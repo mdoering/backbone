@@ -1,5 +1,4 @@
-Epistylis anastatica subsp. anastatica SUBSPECIES
-=======
+# Epistylis anastatica Linnaeus, 1767 SPECIES
 
 #### Status
 ACCEPTED

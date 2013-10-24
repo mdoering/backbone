@@ -1,5 +1,4 @@
-Pyriculariopsis breviphora Matsush. SPECIES
-=======
+# Pyriculariopsis breviphora Matsush. SPECIES
 
 #### Status
 ACCEPTED

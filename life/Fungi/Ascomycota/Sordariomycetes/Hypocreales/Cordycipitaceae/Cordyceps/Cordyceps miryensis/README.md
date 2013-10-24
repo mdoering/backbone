@@ -1,5 +1,4 @@
-Cordyceps miryensis Henn. SPECIES
-=======
+# Cordyceps miryensis Henn. SPECIES
 
 #### Status
 ACCEPTED

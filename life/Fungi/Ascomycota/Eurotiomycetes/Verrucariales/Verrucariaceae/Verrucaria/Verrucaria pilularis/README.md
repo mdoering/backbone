@@ -1,5 +1,4 @@
-Verrucaria pilularis Hoffm. SPECIES
-=======
+# Verrucaria pilularis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

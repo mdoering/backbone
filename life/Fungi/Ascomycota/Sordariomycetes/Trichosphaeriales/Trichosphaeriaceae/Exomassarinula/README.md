@@ -1,5 +1,4 @@
-Exomassarinula GENUS
-=======
+# Exomassarinula GENUS
 
 #### Status
 ACCEPTED

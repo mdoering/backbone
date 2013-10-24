@@ -1,5 +1,4 @@
-Tubercularia zythioides C. Massal. SPECIES
-=======
+# Tubercularia zythioides C. Massal. SPECIES
 
 #### Status
 ACCEPTED

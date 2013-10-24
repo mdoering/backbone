@@ -1,5 +1,4 @@
-Dicaeoma leonotidis (Henn.) Arthur SPECIES
-=======
+# Dicaeoma leonotidis (Henn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

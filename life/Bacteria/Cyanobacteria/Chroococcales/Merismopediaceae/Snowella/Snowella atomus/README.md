@@ -1,5 +1,4 @@
-Snowella atomus Komárek & Hindák SPECIES
-=======
+# Snowella atomus Komárek & Hindák SPECIES
 
 #### Status
 ACCEPTED

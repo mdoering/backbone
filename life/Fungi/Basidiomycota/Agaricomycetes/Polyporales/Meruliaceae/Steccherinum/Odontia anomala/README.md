@@ -1,5 +1,4 @@
-Odontia anomala (Berk. & Broome) Rea SPECIES
-=======
+# Odontia anomala (Berk. & Broome) Rea SPECIES
 
 #### Status
 ACCEPTED

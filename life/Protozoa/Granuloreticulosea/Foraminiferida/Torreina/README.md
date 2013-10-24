@@ -1,5 +1,4 @@
-Torreina Palmer, 1934 GENUS
-=======
+# Torreina Palmer, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dicaeoma asterum (Schwein.) Arthur, 1920 SPECIES
-=======
+# Puccinia asterum (Schwein.) F. Kern, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 9(4): 244 (1917)
 
 #### Original name
 Aecidium asterum Schwein., 1822

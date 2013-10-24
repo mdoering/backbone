@@ -1,5 +1,4 @@
-Calothyriopeltis scaevolae F. Stevens & R.W. Ryan SPECIES
-=======
+# Calothyriopeltis scaevolae F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

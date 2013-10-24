@@ -1,5 +1,4 @@
-Marasmius umbonatus Peck SPECIES
-=======
+# Marasmius umbonatus Peck SPECIES
 
 #### Status
 ACCEPTED

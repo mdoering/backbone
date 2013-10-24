@@ -1,5 +1,4 @@
-Moreaua fimbristylidis Vánky & R.G. Shivas, 2001 SPECIES
-=======
+# Moreaua fimbristylidis Vánky & R.G. Shivas, 2001 SPECIES
 
 #### Status
 ACCEPTED

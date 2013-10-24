@@ -1,5 +1,4 @@
-Coryne albidoaurantiaca Starbäck SPECIES
-=======
+# Coryne albidoaurantiaca Starbäck SPECIES
 
 #### Status
 ACCEPTED

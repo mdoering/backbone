@@ -1,5 +1,4 @@
-Diplodia crustacea P. Karst. SPECIES
-=======
+# Diplodia crustacea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

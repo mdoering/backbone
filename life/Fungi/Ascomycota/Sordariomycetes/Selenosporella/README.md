@@ -1,5 +1,4 @@
-Selenosporella G. Arnaud ex MacGarvie, 1969 GENUS
-=======
+# Selenosporella G. Arnaud ex MacGarvie, 1969 GENUS
 
 #### Status
 ACCEPTED

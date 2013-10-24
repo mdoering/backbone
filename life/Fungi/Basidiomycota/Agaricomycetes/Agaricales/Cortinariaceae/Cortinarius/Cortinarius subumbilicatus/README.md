@@ -1,5 +1,4 @@
-Cortinarius subumbilicatus Rob. Henry SPECIES
-=======
+# Cortinarius subumbilicatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

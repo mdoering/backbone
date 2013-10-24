@@ -1,5 +1,4 @@
-Mycosphaerella platytheca (P. Karst.) Tomilin SPECIES
-=======
+# Mycosphaerella platytheca (P. Karst.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

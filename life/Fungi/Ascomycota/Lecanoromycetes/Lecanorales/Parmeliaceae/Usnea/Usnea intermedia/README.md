@@ -1,8 +1,7 @@
-Usnea barbata var. intermedia A. Massal. VARIETY
-=======
+# Usnea intermedia (A. Massal.) Jatta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Usnea intermedia (A. Massal.) Jatta
 
 ### Remarks
 null

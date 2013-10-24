@@ -1,8 +1,7 @@
-Dasyscypha schroetrianus (Rehm) Dennis SPECIES
-=======
+# Dasyscyphus schroetrianus (Rehm) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscyphella schroeteriana Rehm
+Dasyscyphus schroetrianus (Rehm) Dennis
 
 ### Remarks
 null

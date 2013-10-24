@@ -1,5 +1,4 @@
-Anabaena kisselevii Proshkina-Lavrenko & Makarova, 1968 SPECIES
-=======
+# Anabaena kisselevii Proshkina-Lavrenko & Makarova, 1968 SPECIES
 
 #### Status
 ACCEPTED

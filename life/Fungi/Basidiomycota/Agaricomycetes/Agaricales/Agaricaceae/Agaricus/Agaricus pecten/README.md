@@ -1,5 +1,4 @@
-Agaricus pecten Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus pecten Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorodictyon foliosum J. Agardh SPECIES
-=======
+# Chlorodictyon foliosum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

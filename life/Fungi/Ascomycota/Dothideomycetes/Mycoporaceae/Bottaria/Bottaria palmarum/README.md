@@ -1,5 +1,4 @@
-Bottaria palmarum (Kremp.) Vain. SPECIES
-=======
+# Bottaria palmarum (Kremp.) Vain. SPECIES
 
 #### Status
 ACCEPTED

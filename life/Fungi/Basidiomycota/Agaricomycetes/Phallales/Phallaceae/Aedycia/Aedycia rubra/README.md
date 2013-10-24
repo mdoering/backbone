@@ -1,5 +1,4 @@
-Aedycia rubra Raf. SPECIES
-=======
+# Aedycia rubra Raf. SPECIES
 
 #### Status
 ACCEPTED

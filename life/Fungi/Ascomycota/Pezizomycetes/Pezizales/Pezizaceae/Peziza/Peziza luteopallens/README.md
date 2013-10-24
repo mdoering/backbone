@@ -1,5 +1,4 @@
-Peziza luteopallens Cooke SPECIES
-=======
+# Peziza luteopallens Cooke SPECIES
 
 #### Status
 ACCEPTED

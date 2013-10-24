@@ -1,5 +1,4 @@
-Agaricus frustulinus Schumach. SPECIES
-=======
+# Agaricus frustulinus Schumach. SPECIES
 
 #### Status
 ACCEPTED

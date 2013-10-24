@@ -1,5 +1,4 @@
-Auliscus reticulatus Greville, 1863 SPECIES
-=======
+# Auliscus reticulatus Greville, 1863 SPECIES
 
 #### Status
 ACCEPTED

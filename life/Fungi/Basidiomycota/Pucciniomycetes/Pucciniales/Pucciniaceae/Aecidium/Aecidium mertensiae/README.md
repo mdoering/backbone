@@ -1,5 +1,4 @@
-Aecidium mertensiae Arthur SPECIES
-=======
+# Aecidium mertensiae Arthur SPECIES
 
 #### Status
 ACCEPTED

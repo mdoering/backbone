@@ -1,5 +1,4 @@
-Colletotrichum trichiliae Novoss. SPECIES
-=======
+# Colletotrichum trichiliae Novoss. SPECIES
 
 #### Status
 ACCEPTED

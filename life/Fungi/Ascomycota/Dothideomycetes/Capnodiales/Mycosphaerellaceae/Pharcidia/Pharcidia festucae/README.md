@@ -1,5 +1,4 @@
-Pharcidia festucae (Arnold) Sacc. & Traverso SPECIES
-=======
+# Pharcidia festucae (Arnold) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

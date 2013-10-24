@@ -1,5 +1,4 @@
-Diplodina melicae Died. SPECIES
-=======
+# Diplodina melicae Died. SPECIES
 
 #### Status
 ACCEPTED

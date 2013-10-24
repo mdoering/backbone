@@ -1,5 +1,4 @@
-Entyloma phalaridis Speg. SPECIES
-=======
+# Entyloma phalaridis Speg. SPECIES
 
 #### Status
 ACCEPTED

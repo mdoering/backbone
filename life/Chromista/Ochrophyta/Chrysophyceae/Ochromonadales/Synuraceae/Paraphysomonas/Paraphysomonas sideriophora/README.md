@@ -1,5 +1,4 @@
-Paraphysomonas sideriophora Thomsen SPECIES
-=======
+# Paraphysomonas sideriophora Thomsen SPECIES
 
 #### Status
 ACCEPTED

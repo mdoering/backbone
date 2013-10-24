@@ -1,5 +1,4 @@
-Pertusaria flavicunda Tuck. SPECIES
-=======
+# Pertusaria flavicunda Tuck. SPECIES
 
 #### Status
 ACCEPTED

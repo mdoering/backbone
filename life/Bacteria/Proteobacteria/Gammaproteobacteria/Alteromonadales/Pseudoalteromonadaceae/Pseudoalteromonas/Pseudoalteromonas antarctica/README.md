@@ -1,5 +1,4 @@
-Pseudoalteromonas antarctica Bozal et al., 1997 SPECIES
-=======
+# Pseudoalteromonas antarctica Bozal et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

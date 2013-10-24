@@ -1,5 +1,4 @@
-Hirneola albida Romell SPECIES
-=======
+# Hirneola albida Romell SPECIES
 
 #### Status
 ACCEPTED

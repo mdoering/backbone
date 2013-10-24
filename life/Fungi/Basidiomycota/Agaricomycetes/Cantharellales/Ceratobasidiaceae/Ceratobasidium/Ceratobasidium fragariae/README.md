@@ -1,5 +1,4 @@
-Ceratobasidium fragariae Kohmoto, N. Maek., Ogihara & S. Nishim. SPECIES
-=======
+# Ceratobasidium fragariae Kohmoto, N. Maek., Ogihara & S. Nishim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora russa Hue SPECIES
-=======
+# Acarospora russa Hue SPECIES
 
 #### Status
 ACCEPTED

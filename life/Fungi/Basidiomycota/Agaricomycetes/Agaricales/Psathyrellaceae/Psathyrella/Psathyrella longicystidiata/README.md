@@ -1,5 +1,4 @@
-Psathyrella longicystidiata Heykoop & G. Moreno SPECIES
-=======
+# Psathyrella longicystidiata Heykoop & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

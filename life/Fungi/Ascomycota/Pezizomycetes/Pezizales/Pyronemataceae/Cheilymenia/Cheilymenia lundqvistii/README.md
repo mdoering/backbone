@@ -1,5 +1,4 @@
-Cheilymenia lundqvistii J. Moravec SPECIES
-=======
+# Cheilymenia lundqvistii J. Moravec SPECIES
 
 #### Status
 ACCEPTED

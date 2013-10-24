@@ -1,5 +1,4 @@
-Bullamitus Skvortzvov, 1967 GENUS
-=======
+# Bullamitus Skvortzvov, 1967 GENUS
 
 #### Status
 ACCEPTED

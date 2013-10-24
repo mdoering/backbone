@@ -1,5 +1,4 @@
-Polystictus katui Ehrenb. SPECIES
-=======
+# Polystictus katui Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

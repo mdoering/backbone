@@ -1,5 +1,4 @@
-Diatrypella prunicola Ellis & Everh. SPECIES
-=======
+# Diatrypella prunicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

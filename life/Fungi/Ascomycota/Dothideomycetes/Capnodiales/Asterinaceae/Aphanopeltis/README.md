@@ -1,17 +1,16 @@
-Thallochaete Theiss. GENUS
-=======
+# Aphanopeltis Sydow, 1927 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 11: 501 (1913)
+Annls mycol. 25(1/2): 82 (1927)
 
 #### Original name
-Thallochaete Theiss.
+Aphanopeltis Sydow, 1927
 
 ### Remarks
 null

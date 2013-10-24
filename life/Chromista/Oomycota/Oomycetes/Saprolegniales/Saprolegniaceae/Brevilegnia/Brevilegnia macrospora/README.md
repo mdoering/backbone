@@ -1,5 +1,4 @@
-Brevilegnia macrospora Eek, 1937 SPECIES
-=======
+# Brevilegnia macrospora Eek, 1937 SPECIES
 
 #### Status
 ACCEPTED

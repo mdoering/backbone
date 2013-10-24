@@ -1,5 +1,4 @@
-Camarosporium dissimile Vestergr. SPECIES
-=======
+# Camarosporium dissimile Vestergr. SPECIES
 
 #### Status
 ACCEPTED

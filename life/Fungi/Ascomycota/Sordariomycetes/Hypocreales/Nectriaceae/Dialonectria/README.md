@@ -1,5 +1,4 @@
-Dialonectria GENUS
-=======
+# Dialonectria GENUS
 
 #### Status
 ACCEPTED

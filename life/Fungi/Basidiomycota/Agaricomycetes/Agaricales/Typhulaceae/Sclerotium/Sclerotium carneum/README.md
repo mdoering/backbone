@@ -1,5 +1,4 @@
-Sclerotium carneum Fr. SPECIES
-=======
+# Sclerotium carneum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius communis Peck SPECIES
-=======
+# Cortinarius communis Peck SPECIES
 
 #### Status
 ACCEPTED

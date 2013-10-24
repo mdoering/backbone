@@ -1,5 +1,4 @@
-Septoria stachydis-arvensis Speg. SPECIES
-=======
+# Septoria stachydis-arvensis Speg. SPECIES
 
 #### Status
 ACCEPTED

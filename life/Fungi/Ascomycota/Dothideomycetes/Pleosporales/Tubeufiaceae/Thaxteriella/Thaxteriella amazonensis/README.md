@@ -1,17 +1,16 @@
-Tubeufia amazonensis Samuels, Rossman & E. Müll., 1979 SPECIES
-=======
+# Thaxteriella amazonensis (Samuels, Rossman & E. Müll.) J.L. Crane, Shearer & M.E. Barr, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 76(4): 610 (1998)
 
 #### Original name
-null
+Tubeufia amazonensis Samuels, Rossman & E. Müll., 1979
 
 ### Remarks
 null

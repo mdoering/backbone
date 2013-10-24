@@ -1,17 +1,16 @@
-Tricholoma aurantium var. aurantium (Schaeff.) Ricken VARIETY
-=======
+# Tricholoma aurantium (Schaeff.) Ricken, 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Die Blätterpilze 332 (1914)
 
 #### Original name
-Tricholoma aurantium var. aurantium (Schaeff.) Ricken
+Agaricus aurantia Schaeff.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rocella marina Cheng & Gao SPECIES
-=======
+# Rocella marina Cheng & Gao SPECIES
 
 #### Status
 ACCEPTED

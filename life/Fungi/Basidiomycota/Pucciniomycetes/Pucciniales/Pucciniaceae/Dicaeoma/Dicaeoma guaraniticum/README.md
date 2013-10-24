@@ -1,5 +1,4 @@
-Dicaeoma guaraniticum (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma guaraniticum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

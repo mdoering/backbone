@@ -1,5 +1,4 @@
-Irenopsis marcgraviae (Tehon) Hansf. SPECIES
-=======
+# Irenopsis marcgraviae (Tehon) Hansf. SPECIES
 
 #### Status
 ACCEPTED

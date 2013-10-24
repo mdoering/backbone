@@ -1,17 +1,16 @@
-Lecanora hagenii subsp. persilimis Th. Fr. SUBSPECIES
-=======
+# Lecanora persimilis (Th. Fr.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 59: 577 (1871)
 
 #### Original name
-Lecanora hagenii subsp. persilimis Th. Fr.
+Lecanora hagenii subsp. persimilis Th. Fr.
 
 ### Remarks
 null

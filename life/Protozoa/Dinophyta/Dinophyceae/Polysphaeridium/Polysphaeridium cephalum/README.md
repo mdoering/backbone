@@ -1,5 +1,4 @@
-Polysphaeridium cephalum R. K. Kar SPECIES
-=======
+# Polysphaeridium cephalum R. K. Kar SPECIES
 
 #### Status
 ACCEPTED

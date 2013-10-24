@@ -1,5 +1,4 @@
-Lecanora stramineocarnea Zahlbr. SPECIES
-=======
+# Lecanora stramineocarnea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

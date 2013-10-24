@@ -1,5 +1,4 @@
-Erysiphe vaccinii Schwein. SPECIES
-=======
+# Erysiphe vaccinii Schwein. SPECIES
 
 #### Status
 ACCEPTED

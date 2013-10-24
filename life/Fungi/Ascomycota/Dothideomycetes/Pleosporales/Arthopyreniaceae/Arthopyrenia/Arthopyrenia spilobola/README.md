@@ -1,5 +1,4 @@
-Arthopyrenia spilobola (Nyl.) Arnold SPECIES
-=======
+# Arthopyrenia spilobola (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

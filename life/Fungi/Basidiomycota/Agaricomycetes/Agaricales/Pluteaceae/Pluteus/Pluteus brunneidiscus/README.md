@@ -1,5 +1,4 @@
-Pluteus brunneidiscus Murrill SPECIES
-=======
+# Pluteus brunneidiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

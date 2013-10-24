@@ -1,5 +1,4 @@
-Leptotrichia hofstadii Eribe et al., 2004 SPECIES
-=======
+# Leptotrichia hofstadii Eribe et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

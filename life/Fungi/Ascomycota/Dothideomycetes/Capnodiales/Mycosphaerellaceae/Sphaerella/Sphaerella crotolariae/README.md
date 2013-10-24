@@ -1,5 +1,4 @@
-Sphaerella crotolariae Petch SPECIES
-=======
+# Sphaerella crotolariae Petch SPECIES
 
 #### Status
 ACCEPTED

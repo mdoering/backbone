@@ -1,5 +1,4 @@
-Aecidium reticulatum Thüm. SPECIES
-=======
+# Aecidium reticulatum Thüm. SPECIES
 
 #### Status
 ACCEPTED

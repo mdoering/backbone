@@ -1,5 +1,4 @@
-Porina aggregata Ach. SPECIES
-=======
+# Porina aggregata Ach. SPECIES
 
 #### Status
 ACCEPTED

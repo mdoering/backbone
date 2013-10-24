@@ -1,5 +1,4 @@
-Candelariella madagascarea (Vain.) Zahlbr. SPECIES
-=======
+# Candelariella madagascarea (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

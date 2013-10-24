@@ -1,14 +1,13 @@
-Lecanidium tropicum (Vain.) C.W. Dodge SPECIES
-=======
+# Pertusaria tropica Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Welwitsch Afric. Pl. 2: 404 (1901)
 
 #### Original name
 Pertusaria tropica Vain.

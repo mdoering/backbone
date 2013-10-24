@@ -1,5 +1,4 @@
-Cortinarius populorum Reumaux SPECIES
-=======
+# Cortinarius populorum Reumaux SPECIES
 
 #### Status
 ACCEPTED

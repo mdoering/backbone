@@ -1,5 +1,4 @@
-Porphyrellus rionegrensis Singer & I.J. Araujo SPECIES
-=======
+# Porphyrellus rionegrensis Singer & I.J. Araujo SPECIES
 
 #### Status
 ACCEPTED

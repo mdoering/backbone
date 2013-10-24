@@ -1,5 +1,4 @@
-Parmelia flavescens Kremp. SPECIES
-=======
+# Parmelia flavescens Kremp. SPECIES
 
 #### Status
 ACCEPTED

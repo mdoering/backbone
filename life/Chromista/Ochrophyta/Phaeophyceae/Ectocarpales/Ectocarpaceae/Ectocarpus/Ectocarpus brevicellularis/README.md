@@ -1,5 +1,4 @@
-Ectocarpus brevicellularis Noda SPECIES
-=======
+# Ectocarpus brevicellularis Noda SPECIES
 
 #### Status
 ACCEPTED

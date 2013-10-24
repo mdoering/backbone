@@ -1,5 +1,4 @@
-Comatricha longipila Nann.-Bremek., 1962 SPECIES
-=======
+# Comatricha longipila Nann.-Bremek., 1962 SPECIES
 
 #### Status
 ACCEPTED

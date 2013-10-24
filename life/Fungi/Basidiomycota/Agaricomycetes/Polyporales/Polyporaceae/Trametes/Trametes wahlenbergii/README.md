@@ -1,5 +1,4 @@
-Trametes wahlenbergii SPECIES
-=======
+# Trametes wahlenbergii SPECIES
 
 #### Status
 ACCEPTED

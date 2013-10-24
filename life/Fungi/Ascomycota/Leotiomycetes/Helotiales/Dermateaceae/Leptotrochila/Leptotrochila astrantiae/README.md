@@ -1,5 +1,4 @@
-Leptotrochila astrantiae (Ces.) Schüepp SPECIES
-=======
+# Leptotrochila astrantiae (Ces.) Schüepp SPECIES
 
 #### Status
 ACCEPTED

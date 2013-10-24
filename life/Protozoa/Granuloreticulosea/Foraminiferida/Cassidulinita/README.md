@@ -1,5 +1,4 @@
-Cassidulinita GENUS
-=======
+# Cassidulinita GENUS
 
 #### Status
 ACCEPTED

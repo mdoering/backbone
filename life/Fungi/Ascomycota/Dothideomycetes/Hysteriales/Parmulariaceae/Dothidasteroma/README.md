@@ -1,5 +1,4 @@
-Dothidasteroma Höhn. GENUS
-=======
+# Dothidasteroma Höhn. GENUS
 
 #### Status
 ACCEPTED

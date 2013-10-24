@@ -1,5 +1,4 @@
-Thelenella philippina Räsänen SPECIES
-=======
+# Thelenella philippina Räsänen SPECIES
 
 #### Status
 ACCEPTED

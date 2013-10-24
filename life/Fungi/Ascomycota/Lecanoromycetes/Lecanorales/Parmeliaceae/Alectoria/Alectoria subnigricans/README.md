@@ -1,5 +1,4 @@
-Alectoria subnigricans Vezda SPECIES
-=======
+# Alectoria subnigricans Vezda SPECIES
 
 #### Status
 ACCEPTED

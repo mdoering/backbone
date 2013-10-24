@@ -1,5 +1,4 @@
-Chaetomium glabrescens Ellis & Everh. SPECIES
-=======
+# Chaetomium glabrescens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma moravicum Petr. SPECIES
-=======
+# Anthostoma moravicum Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pistillaria elegans Berk. & M.A. Curtis, 1873 SPECIES
-=======
+# Dacryopinax elegans (Berk. & M.A. Curtis) G.W. Martin, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 11: 116 (1948)
 
 #### Original name
 null

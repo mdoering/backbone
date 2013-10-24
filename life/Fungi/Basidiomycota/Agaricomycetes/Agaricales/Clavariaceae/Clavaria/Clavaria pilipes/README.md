@@ -1,5 +1,4 @@
-Clavaria pilipes O.F. Müll. SPECIES
-=======
+# Clavaria pilipes O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

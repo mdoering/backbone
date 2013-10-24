@@ -1,5 +1,4 @@
-Hendersonia confluens Petch SPECIES
-=======
+# Hendersonia confluens Petch SPECIES
 
 #### Status
 ACCEPTED

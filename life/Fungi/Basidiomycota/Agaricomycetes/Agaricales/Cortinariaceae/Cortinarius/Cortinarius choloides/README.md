@@ -1,5 +1,4 @@
-Cortinarius choloides E. Horak SPECIES
-=======
+# Cortinarius choloides E. Horak SPECIES
 
 #### Status
 ACCEPTED

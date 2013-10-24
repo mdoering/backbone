@@ -1,5 +1,4 @@
-Uredo centhratheri Viégas SPECIES
-=======
+# Uredo centhratheri Viégas SPECIES
 
 #### Status
 ACCEPTED

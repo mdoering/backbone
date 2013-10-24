@@ -1,5 +1,4 @@
-Uredo horikawai Morim. SPECIES
-=======
+# Uredo horikawai Morim. SPECIES
 
 #### Status
 ACCEPTED

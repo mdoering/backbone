@@ -1,5 +1,4 @@
-Septoria calopogonii Bat. & A.F. Vital SPECIES
-=======
+# Septoria calopogonii Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella uncariicola Hansf. SPECIES
-=======
+# Asteridiella uncariicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus perpendicularis Bull. SPECIES
-=======
+# Agaricus perpendicularis Bull. SPECIES
 
 #### Status
 ACCEPTED

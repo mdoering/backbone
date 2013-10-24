@@ -1,5 +1,4 @@
-Rhynchomeliola pulchella Speg., 1884 SPECIES
-=======
+# Rhynchomeliola pulchella Speg., 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hygrophorus miniceps G. Stev., 1963 SPECIES
-=======
+# Hygrocybe miniceps (G. Stev.) E. Horak, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 16(3): 380 (1963)
+N. Z. Jl Bot. 28(3): 263 (1990)
 
 #### Original name
 Hygrophorus miniceps G. Stev., 1963

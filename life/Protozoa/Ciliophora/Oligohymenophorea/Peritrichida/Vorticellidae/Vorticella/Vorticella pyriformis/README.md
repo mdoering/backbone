@@ -1,5 +1,4 @@
-Vorticella pyriformis Müller SPECIES
-=======
+# Vorticella pyriformis Müller SPECIES
 
 #### Status
 ACCEPTED

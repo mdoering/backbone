@@ -1,5 +1,4 @@
-Phomopsis celottii (Sacc.) M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Phomopsis celottii (Sacc.) M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus cimneticus Ong SPECIES
-=======
+# Chroococcus cimneticus Ong SPECIES
 
 #### Status
 ACCEPTED

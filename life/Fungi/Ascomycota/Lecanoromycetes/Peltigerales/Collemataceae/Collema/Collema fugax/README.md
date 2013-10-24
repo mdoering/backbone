@@ -1,5 +1,4 @@
-Collema fugax (Wulfen) Ach. SPECIES
-=======
+# Collema fugax (Wulfen) Ach. SPECIES
 
 #### Status
 ACCEPTED

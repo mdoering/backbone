@@ -1,14 +1,13 @@
-Dictyothyriella microsperma (Syd. & P. Syd.) F. Stevens & Manter, 1925 SPECIES
-=======
+# Thyriodictyella microsperma (Syd. & P. Syd.) Cif., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 79(3): 273 (1925)
+Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 19: 129 (1962)
 
 #### Original name
 Micropeltella microsperma Syd. & P. Syd., 1916

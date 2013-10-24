@@ -1,5 +1,4 @@
-Triskelion Gombos, 1982 GENUS
-=======
+# Triskelion Gombos, 1982 GENUS
 
 #### Status
 ACCEPTED

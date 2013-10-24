@@ -1,5 +1,4 @@
-Trichurispora Clopton, Cook & Cook, 2008 GENUS
-=======
+# Trichurispora Clopton, Cook & Cook, 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polygoniomorpha sexangula Wang, Zhou & Chen, 1980 SPECIES
-=======
+# Polygoniomorpha sexangula Wang, Zhou & Chen, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filisphaeridium zhuravlevae (Grishina in Grishina & Klenina, 1983) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium zhuravlevae (Grishina in Grishina & Klenina, 1983) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

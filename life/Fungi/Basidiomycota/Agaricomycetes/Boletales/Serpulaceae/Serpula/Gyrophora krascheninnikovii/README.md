@@ -1,5 +1,4 @@
-Gyrophora krascheninnikovii var. krascheninnikovii VARIETY
-=======
+# Gyrophora krascheninnikovii Savicz SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyrophora krascheninnikovii var. krascheninnikovii
+Gyrophora krascheninnikovii Savicz
 
 ### Remarks
 null

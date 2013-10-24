@@ -1,5 +1,4 @@
-Fuscoboletinus serotinus (Frost) A.H. Sm. & Thiers SPECIES
-=======
+# Fuscoboletinus serotinus (Frost) A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

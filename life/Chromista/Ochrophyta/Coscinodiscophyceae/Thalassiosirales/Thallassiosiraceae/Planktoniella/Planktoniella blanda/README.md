@@ -1,8 +1,7 @@
-Thalassiosira blanda Desikachary & Gowthaman SPECIES
-=======
+# Planktoniella blanda (A. Schmidt) E.E. Syvertsen & G.R. Hasle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

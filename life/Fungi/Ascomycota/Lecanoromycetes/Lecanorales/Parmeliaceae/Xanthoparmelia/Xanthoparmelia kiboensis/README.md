@@ -1,17 +1,16 @@
-Hypogymnia kiboensis C. W. Dodge SPECIES
-=======
+# Xanthoparmelia kiboensis (C. W. Dodge) Krog & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 19(4): 428 (1987)
 
 #### Original name
-null
+Hypogymnia kiboensis C. W. Dodge
 
 ### Remarks
 null

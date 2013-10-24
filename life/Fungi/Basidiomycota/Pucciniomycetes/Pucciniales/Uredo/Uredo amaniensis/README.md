@@ -1,5 +1,4 @@
-Uredo amaniensis Henn. SPECIES
-=======
+# Uredo amaniensis Henn. SPECIES
 
 #### Status
 ACCEPTED

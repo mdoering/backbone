@@ -1,17 +1,16 @@
-Ceeveesubramaniomyces litseai Pratibha, K.D. Hyde & Bhat SPECIES
-=======
+# Ceeveesubramaniomyces litseae Pratibha, K.D. Hyde & Bhat, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kavaka 32: 22 (2005)
 
 #### Original name
-Ceeveesubramaniomyces litseai Pratibha, K.D. Hyde & Bhat
+Ceeveesubramaniomyces litseae Pratibha, K.D. Hyde & Bhat, 2005
 
 ### Remarks
 null

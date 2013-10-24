@@ -1,5 +1,4 @@
-Cladochytrium salsuginosum A. Batko & Hassan, 1988 SPECIES
-=======
+# Cladochytrium salsuginosum A. Batko & Hassan, 1988 SPECIES
 
 #### Status
 ACCEPTED

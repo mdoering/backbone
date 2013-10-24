@@ -1,5 +1,4 @@
-Bacillus infernus Boone et al., 1995 SPECIES
-=======
+# Bacillus infernus Boone et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

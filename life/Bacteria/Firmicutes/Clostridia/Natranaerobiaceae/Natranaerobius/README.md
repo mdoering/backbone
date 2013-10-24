@@ -1,5 +1,4 @@
-Natranaerobius Mesbah et al., 2007 GENUS
-=======
+# Natranaerobius Mesbah et al., 2007 GENUS
 
 #### Status
 ACCEPTED

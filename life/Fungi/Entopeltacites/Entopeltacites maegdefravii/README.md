@@ -1,5 +1,4 @@
-Entopeltacites maegdefravii (Lange) Selkirk SPECIES
-=======
+# Entopeltacites maegdefravii (Lange) Selkirk SPECIES
 
 #### Status
 ACCEPTED

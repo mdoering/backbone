@@ -1,5 +1,4 @@
-Diaporthe rijckholti (Westend.) Nitschke SPECIES
-=======
+# Diaporthe rijckholti (Westend.) Nitschke SPECIES
 
 #### Status
 ACCEPTED

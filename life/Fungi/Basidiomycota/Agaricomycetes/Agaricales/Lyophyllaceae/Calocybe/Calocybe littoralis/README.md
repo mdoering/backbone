@@ -1,5 +1,4 @@
-Calocybe littoralis Ballero & Contu SPECIES
-=======
+# Calocybe littoralis Ballero & Contu SPECIES
 
 #### Status
 ACCEPTED

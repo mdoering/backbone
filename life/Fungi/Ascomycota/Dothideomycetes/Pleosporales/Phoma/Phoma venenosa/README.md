@@ -1,5 +1,4 @@
-Phoma venenosa Sacc. SPECIES
-=======
+# Phoma venenosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

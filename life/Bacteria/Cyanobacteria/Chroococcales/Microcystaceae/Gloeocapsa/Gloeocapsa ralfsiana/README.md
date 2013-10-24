@@ -1,5 +1,4 @@
-Gloeocapsa ralfsiana (Harvey) Kützing SPECIES
-=======
+# Gloeocapsa ralfsiana (Harvey) Kützing SPECIES
 
 #### Status
 ACCEPTED

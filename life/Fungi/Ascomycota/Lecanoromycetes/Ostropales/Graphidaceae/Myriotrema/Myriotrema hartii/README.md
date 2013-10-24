@@ -1,5 +1,4 @@
-Myriotrema hartii (Müll. Arg.) Hale SPECIES
-=======
+# Myriotrema hartii (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudanabaena oblonga Kullberg SPECIES
-=======
+# Pseudanabaena oblonga Kullberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ithyphallus discolor (Lloyd) Sacc. & Traverso SPECIES
-=======
+# Ithyphallus discolor (Lloyd) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

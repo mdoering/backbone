@@ -1,5 +1,4 @@
-Peronospora hommae S. Ito & Tokun. SPECIES
-=======
+# Peronospora hommae S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

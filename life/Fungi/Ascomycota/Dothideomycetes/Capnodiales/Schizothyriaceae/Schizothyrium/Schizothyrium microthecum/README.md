@@ -1,5 +1,4 @@
-Schizothyrium microthecum (Duby) Sacc. SPECIES
-=======
+# Schizothyrium microthecum (Duby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

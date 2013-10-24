@@ -1,5 +1,4 @@
-Claussenomyces canariensis Ouell. & Korf, 1979 SPECIES
-=======
+# Claussenomyces canariensis Ouell. & Korf, 1979 SPECIES
 
 #### Status
 ACCEPTED

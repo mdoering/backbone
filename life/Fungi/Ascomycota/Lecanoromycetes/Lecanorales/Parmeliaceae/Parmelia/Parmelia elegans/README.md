@@ -1,5 +1,4 @@
-Parmelia elegans var. elegans VARIETY
-=======
+# Parmelia elegans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus squalidus J.F. Gmel. SPECIES
-=======
+# Agaricus squalidus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetophoma coniformis (Sommerf.) Starbäck SPECIES
-=======
+# Chaetophoma coniformis (Sommerf.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

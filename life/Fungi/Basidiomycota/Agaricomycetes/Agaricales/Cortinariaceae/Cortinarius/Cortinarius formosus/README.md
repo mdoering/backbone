@@ -1,5 +1,4 @@
-Cortinarius formosus M.M. Moser SPECIES
-=======
+# Cortinarius formosus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

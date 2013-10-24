@@ -1,5 +1,4 @@
-Coniothyriella theobromae Roger SPECIES
-=======
+# Coniothyriella theobromae Roger SPECIES
 
 #### Status
 ACCEPTED

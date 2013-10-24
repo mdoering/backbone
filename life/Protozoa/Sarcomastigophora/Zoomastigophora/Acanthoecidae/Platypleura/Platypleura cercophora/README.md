@@ -1,5 +1,4 @@
-Platypleura cercophora Thomsen & Boonruang SPECIES
-=======
+# Platypleura cercophora Thomsen & Boonruang SPECIES
 
 #### Status
 ACCEPTED

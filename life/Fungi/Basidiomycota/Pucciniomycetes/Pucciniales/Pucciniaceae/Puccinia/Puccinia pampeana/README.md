@@ -1,14 +1,13 @@
-Dicaeoma pampeana (Speg.) Kuntze, 1898 SPECIES
-=======
+# Puccinia pampeana Speg., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 467 (1898)
+Fungi argentini pugillus 2: 14 (1880)
 
 #### Original name
 Puccinia pampeana Speg., 1880

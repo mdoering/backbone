@@ -1,5 +1,4 @@
-Collema rhodopense Szatala SPECIES
-=======
+# Collema rhodopense Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptolyngbya cebennensis (Gomont) I. Umezaki & M. Watanabe SPECIES
-=======
+# Leptolyngbya cebennensis (Gomont) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

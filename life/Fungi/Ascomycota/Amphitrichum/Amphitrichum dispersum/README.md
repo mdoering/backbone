@@ -1,5 +1,4 @@
-Amphitrichum dispersum (P. Karst.) Kuntze SPECIES
-=======
+# Amphitrichum dispersum (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

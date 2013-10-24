@@ -1,5 +1,4 @@
-Marginulina advena SPECIES
-=======
+# Marginulina advena SPECIES
 
 #### Status
 ACCEPTED

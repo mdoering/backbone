@@ -1,5 +1,4 @@
-Gasparrinia beccarii (Bagl.) C.W. Dodge SPECIES
-=======
+# Gasparrinia beccarii (Bagl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

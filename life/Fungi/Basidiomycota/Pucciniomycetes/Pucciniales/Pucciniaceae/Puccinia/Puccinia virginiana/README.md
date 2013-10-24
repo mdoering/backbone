@@ -1,5 +1,4 @@
-Puccinia virginiana Unamuno SPECIES
-=======
+# Puccinia virginiana Unamuno SPECIES
 
 #### Status
 ACCEPTED

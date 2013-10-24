@@ -1,5 +1,4 @@
-Licea castanea G. Lister, 1911 SPECIES
-=======
+# Licea castanea G. Lister, 1911 SPECIES
 
 #### Status
 ACCEPTED

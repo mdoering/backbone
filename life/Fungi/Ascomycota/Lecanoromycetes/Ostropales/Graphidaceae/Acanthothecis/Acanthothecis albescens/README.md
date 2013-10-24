@@ -1,5 +1,4 @@
-Acanthothecis albescens (Vain.) Staiger & Kalb SPECIES
-=======
+# Acanthothecis albescens (Vain.) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

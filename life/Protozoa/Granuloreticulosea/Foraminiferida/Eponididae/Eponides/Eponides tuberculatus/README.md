@@ -1,5 +1,4 @@
-Eponides tuberculatus SPECIES
-=======
+# Eponides tuberculatus SPECIES
 
 #### Status
 ACCEPTED

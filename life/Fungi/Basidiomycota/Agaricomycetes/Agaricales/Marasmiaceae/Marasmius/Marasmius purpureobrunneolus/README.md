@@ -1,5 +1,4 @@
-Marasmius purpureobrunneolus Henn. SPECIES
-=======
+# Marasmius purpureobrunneolus Henn. SPECIES
 
 #### Status
 ACCEPTED

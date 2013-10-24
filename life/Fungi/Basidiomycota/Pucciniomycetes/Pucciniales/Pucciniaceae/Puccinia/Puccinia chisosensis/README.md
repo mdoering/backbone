@@ -1,5 +1,4 @@
-Puccinia chisosensis Cummins SPECIES
-=======
+# Puccinia chisosensis Cummins SPECIES
 
 #### Status
 ACCEPTED

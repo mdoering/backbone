@@ -1,5 +1,4 @@
-Acrogynomyces eumicricola Thaxt. SPECIES
-=======
+# Acrogynomyces eumicricola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

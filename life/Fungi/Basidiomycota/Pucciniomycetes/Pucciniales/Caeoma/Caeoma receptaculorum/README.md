@@ -1,5 +1,4 @@
-Caeoma receptaculorum Link SPECIES
-=======
+# Caeoma receptaculorum Link SPECIES
 
 #### Status
 ACCEPTED

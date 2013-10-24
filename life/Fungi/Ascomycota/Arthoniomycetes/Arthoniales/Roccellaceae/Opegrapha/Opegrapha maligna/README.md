@@ -1,5 +1,4 @@
-Opegrapha maligna Triebel SPECIES
-=======
+# Opegrapha maligna Triebel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita ovalispora Boedijn SPECIES
-=======
+# Amanita ovalispora Boedijn SPECIES
 
 #### Status
 ACCEPTED

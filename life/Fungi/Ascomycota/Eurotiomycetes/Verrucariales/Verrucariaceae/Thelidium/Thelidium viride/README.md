@@ -1,5 +1,4 @@
-Thelidium viride Eitner SPECIES
-=======
+# Thelidium viride Eitner SPECIES
 
 #### Status
 ACCEPTED

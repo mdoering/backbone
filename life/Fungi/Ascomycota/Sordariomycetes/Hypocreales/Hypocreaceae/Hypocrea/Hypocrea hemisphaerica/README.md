@@ -1,5 +1,4 @@
-Hypocrea hemisphaerica Yoshim. Doi SPECIES
-=======
+# Hypocrea hemisphaerica Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

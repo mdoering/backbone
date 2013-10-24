@@ -1,5 +1,4 @@
-Paxina nemoralis (Speg.) Raithelh. SPECIES
-=======
+# Paxina nemoralis (Speg.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria schweinitzii Ellis & Everh. SPECIES
-=======
+# Trematosphaeria schweinitzii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoria ucrainica S. Y. Kondr. SPECIES
-=======
+# Xanthoria ucrainica S. Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium alboochraceum SPECIES
-=======
+# Corticium alboochraceum SPECIES
 
 #### Status
 ACCEPTED

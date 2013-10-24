@@ -1,5 +1,4 @@
-Rinodina griseosoralifera Coppins SPECIES
-=======
+# Rinodina griseosoralifera Coppins SPECIES
 
 #### Status
 ACCEPTED

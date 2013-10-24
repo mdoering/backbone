@@ -1,5 +1,4 @@
-Caloplaca punctiformis (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca punctiformis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

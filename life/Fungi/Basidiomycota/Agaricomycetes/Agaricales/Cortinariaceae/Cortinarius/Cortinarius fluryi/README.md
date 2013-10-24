@@ -1,5 +1,4 @@
-Cortinarius fluryi (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius fluryi (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

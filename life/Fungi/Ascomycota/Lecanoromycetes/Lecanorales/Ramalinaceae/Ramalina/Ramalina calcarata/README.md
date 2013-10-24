@@ -1,5 +1,4 @@
-Ramalina calcarata Krog & Swinscow SPECIES
-=======
+# Ramalina calcarata Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

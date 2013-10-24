@@ -1,5 +1,4 @@
-Tieghemella turkestanica Naumov SPECIES
-=======
+# Tieghemella turkestanica Naumov SPECIES
 
 #### Status
 ACCEPTED

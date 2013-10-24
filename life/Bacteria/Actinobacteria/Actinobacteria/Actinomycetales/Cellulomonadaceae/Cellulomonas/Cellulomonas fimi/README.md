@@ -1,5 +1,4 @@
-Cellulomonas fimi (McBeth and Scales, 1913) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
-=======
+# Cellulomonas fimi (McBeth and Scales, 1913) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

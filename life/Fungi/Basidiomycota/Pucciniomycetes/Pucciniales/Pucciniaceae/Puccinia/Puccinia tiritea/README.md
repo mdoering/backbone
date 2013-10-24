@@ -1,5 +1,4 @@
-Puccinia tiritea G. Cunn., 1923 SPECIES
-=======
+# Puccinia tiritea G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

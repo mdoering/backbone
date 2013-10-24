@@ -1,5 +1,4 @@
-Stictis stellata var. stellata VARIETY
-=======
+# Stictis stellata Wallr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fl. crypt. Germ. (Nürnberg) 2: 444 (1833)
 
 #### Original name
-Stictis stellata var. stellata
+Stictis stellata Wallr.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Sphacelia typhina var. typhina VARIETY
-=======
+# Epichloë typhina (Pers.) Tul. & C. Tul., 1865 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 578 (1883)
+Select. fung. carpol. (Paris) 3: 24 (1865)
 
 #### Original name
-Sphacelia typhina var. typhina
+Sphaeria typhina Pers., 1798
 
 ### Remarks
 null

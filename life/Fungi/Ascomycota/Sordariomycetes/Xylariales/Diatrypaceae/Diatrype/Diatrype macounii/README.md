@@ -1,5 +1,4 @@
-Diatrype macounii Ellis & Everh. SPECIES
-=======
+# Diatrype macounii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

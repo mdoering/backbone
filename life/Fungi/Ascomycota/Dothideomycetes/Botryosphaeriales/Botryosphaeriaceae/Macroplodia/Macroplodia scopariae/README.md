@@ -1,5 +1,4 @@
-Macroplodia scopariae (Oudem.) Kuntze SPECIES
-=======
+# Macroplodia scopariae (Oudem.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

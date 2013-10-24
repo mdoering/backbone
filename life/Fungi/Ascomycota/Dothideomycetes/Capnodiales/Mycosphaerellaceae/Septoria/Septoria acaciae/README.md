@@ -1,5 +1,4 @@
-Septoria acaciae Neerg. SPECIES
-=======
+# Septoria acaciae Neerg. SPECIES
 
 #### Status
 ACCEPTED

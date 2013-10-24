@@ -1,5 +1,4 @@
-Pseudotorula verrucospora P.N. Mathur & G.P. Singh SPECIES
-=======
+# Pseudotorula verrucospora P.N. Mathur & G.P. Singh SPECIES
 
 #### Status
 ACCEPTED

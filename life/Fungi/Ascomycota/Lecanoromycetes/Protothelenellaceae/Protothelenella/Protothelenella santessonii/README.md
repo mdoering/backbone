@@ -1,5 +1,4 @@
-Protothelenella santessonii H. Mayrhofer SPECIES
-=======
+# Protothelenella santessonii H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

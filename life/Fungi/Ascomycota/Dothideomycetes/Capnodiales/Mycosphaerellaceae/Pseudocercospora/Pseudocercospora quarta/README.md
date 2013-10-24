@@ -1,5 +1,4 @@
-Pseudocercospora quarta (Chupp & H.C. Greene) Y.L. Guo & Y. Jiang SPECIES
-=======
+# Pseudocercospora quarta (Chupp & H.C. Greene) Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
 ACCEPTED

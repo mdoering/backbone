@@ -1,5 +1,4 @@
-Macrosporium gynerii Thüm. SPECIES
-=======
+# Macrosporium gynerii Thüm. SPECIES
 
 #### Status
 ACCEPTED

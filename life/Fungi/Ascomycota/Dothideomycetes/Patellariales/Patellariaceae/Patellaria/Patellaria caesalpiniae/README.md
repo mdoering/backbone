@@ -1,5 +1,4 @@
-Patellaria caesalpiniae Anahosur SPECIES
-=======
+# Patellaria caesalpiniae Anahosur SPECIES
 
 #### Status
 ACCEPTED

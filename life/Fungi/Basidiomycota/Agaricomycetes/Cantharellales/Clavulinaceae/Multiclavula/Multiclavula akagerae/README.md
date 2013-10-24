@@ -1,5 +1,4 @@
-Multiclavula akagerae Eb. Fischer, Ertz, Killmann & Sérus. SPECIES
-=======
+# Multiclavula akagerae Eb. Fischer, Ertz, Killmann & Sérus. SPECIES
 
 #### Status
 ACCEPTED

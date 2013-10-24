@@ -1,5 +1,4 @@
-Trypethelium oligosporum Mont. & Bosch SPECIES
-=======
+# Trypethelium oligosporum Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella starbackii Sacc. & Traverso SPECIES
-=======
+# Sphaerella starbackii Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

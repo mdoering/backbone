@@ -1,5 +1,4 @@
-Cyclococcolithina macintyrei SPECIES
-=======
+# Cyclococcolithina macintyrei SPECIES
 
 #### Status
 ACCEPTED

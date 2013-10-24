@@ -1,5 +1,4 @@
-Sparassis foliacea (St.-Amans) Fr. SPECIES
-=======
+# Sparassis foliacea (St.-Amans) Fr. SPECIES
 
 #### Status
 ACCEPTED

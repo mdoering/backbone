@@ -1,5 +1,4 @@
-Acytostelium aggregatum Cavender & Vadell, 2000 SPECIES
-=======
+# Acytostelium aggregatum Cavender & Vadell, 2000 SPECIES
 
 #### Status
 ACCEPTED

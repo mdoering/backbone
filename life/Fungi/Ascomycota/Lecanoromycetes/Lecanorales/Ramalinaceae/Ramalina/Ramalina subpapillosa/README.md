@@ -1,5 +1,4 @@
-Ramalina subpapillosa (Nyl.) H. Magn. SPECIES
-=======
+# Ramalina subpapillosa (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

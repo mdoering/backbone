@@ -1,5 +1,4 @@
-Pleurocapsa violacea Weber van Bosse SPECIES
-=======
+# Pleurocapsa violacea Weber van Bosse SPECIES
 
 #### Status
 ACCEPTED

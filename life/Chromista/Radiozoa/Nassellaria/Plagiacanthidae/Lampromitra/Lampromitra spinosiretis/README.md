@@ -1,5 +1,4 @@
-Lampromitra spinosiretis Takahashi, 1991 SPECIES
-=======
+# Lampromitra spinosiretis Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

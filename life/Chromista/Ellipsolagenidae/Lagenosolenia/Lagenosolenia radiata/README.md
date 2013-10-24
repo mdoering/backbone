@@ -1,11 +1,10 @@
-Lagenosolenia radiata subsp. radiata SUBSPECIES
-=======
+# Lagenosolenia radiata (Rhumbler, 1949) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

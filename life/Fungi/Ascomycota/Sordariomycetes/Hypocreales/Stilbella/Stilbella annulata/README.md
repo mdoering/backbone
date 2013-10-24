@@ -1,5 +1,4 @@
-Stilbella annulata (Berk. & M.A. Curtis) Seifert, 1985 SPECIES
-=======
+# Stilbella annulata (Berk. & M.A. Curtis) Seifert, 1985 SPECIES
 
 #### Status
 ACCEPTED

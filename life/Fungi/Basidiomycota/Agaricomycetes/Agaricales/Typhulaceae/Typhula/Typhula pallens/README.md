@@ -1,5 +1,4 @@
-Typhula pallens Maire, 1928 SPECIES
-=======
+# Typhula pallens Maire, 1928 SPECIES
 
 #### Status
 ACCEPTED

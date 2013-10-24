@@ -1,5 +1,4 @@
-Stylococcus aureus Chodat SPECIES
-=======
+# Stylococcus aureus Chodat SPECIES
 
 #### Status
 ACCEPTED

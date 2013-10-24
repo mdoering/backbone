@@ -1,5 +1,4 @@
-Anthracothecium nanosporum Ajay Singh SPECIES
-=======
+# Anthracothecium nanosporum Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

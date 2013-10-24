@@ -1,5 +1,4 @@
-Aspergillus janus var. janus Raper & Thom, 1944 VARIETY
-=======
+# Aspergillus janus Raper & Thom SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 36(6): 556 (1944)
 
 #### Original name
-Aspergillus janus var. janus Raper & Thom, 1944
+Aspergillus janus Raper & Thom
 
 ### Remarks
 null

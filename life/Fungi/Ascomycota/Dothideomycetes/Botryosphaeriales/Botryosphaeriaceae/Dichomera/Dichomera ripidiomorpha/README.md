@@ -1,5 +1,4 @@
-Dichomera ripidiomorpha M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Dichomera ripidiomorpha M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

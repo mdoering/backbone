@@ -1,5 +1,4 @@
-Cryptosphaerella shearii Petr. SPECIES
-=======
+# Cryptosphaerella shearii Petr. SPECIES
 
 #### Status
 ACCEPTED

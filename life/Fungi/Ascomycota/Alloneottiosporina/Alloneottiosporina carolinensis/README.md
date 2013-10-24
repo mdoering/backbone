@@ -1,5 +1,4 @@
-Alloneottiosporina carolinensis Nag Raj, 1993 SPECIES
-=======
+# Alloneottiosporina carolinensis Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

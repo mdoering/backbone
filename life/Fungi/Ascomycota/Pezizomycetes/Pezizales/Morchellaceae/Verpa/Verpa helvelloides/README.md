@@ -1,5 +1,4 @@
-Verpa helvelloides Krombh. SPECIES
-=======
+# Verpa helvelloides Krombh. SPECIES
 
 #### Status
 ACCEPTED

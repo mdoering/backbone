@@ -1,8 +1,7 @@
-Eutypella anonae Torrend SPECIES
-=======
+# Eutypella annonae Torrend SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eutypella anonae Torrend
+Eutypella annonae Torrend
 
 ### Remarks
 null

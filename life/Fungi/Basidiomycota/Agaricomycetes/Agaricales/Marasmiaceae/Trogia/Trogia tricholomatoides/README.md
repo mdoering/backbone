@@ -1,5 +1,4 @@
-Trogia tricholomatoides Corner SPECIES
-=======
+# Trogia tricholomatoides Corner SPECIES
 
 #### Status
 ACCEPTED

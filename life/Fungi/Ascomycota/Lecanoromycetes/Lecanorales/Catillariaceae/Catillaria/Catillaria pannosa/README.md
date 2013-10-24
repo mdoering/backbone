@@ -1,5 +1,4 @@
-Catillaria pannosa Zahlbr. SPECIES
-=======
+# Catillaria pannosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

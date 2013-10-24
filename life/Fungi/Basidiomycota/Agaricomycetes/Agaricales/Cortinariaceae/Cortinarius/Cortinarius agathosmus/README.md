@@ -1,5 +1,4 @@
-Cortinarius agathosmus Brandrud, H. Lindstr. & Melot, 1989 SPECIES
-=======
+# Cortinarius agathosmus Brandrud, H. Lindstr. & Melot, 1989 SPECIES
 
 #### Status
 ACCEPTED

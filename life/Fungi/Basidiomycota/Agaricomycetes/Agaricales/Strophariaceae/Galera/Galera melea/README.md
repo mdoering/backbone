@@ -1,5 +1,4 @@
-Galera melea Velen. SPECIES
-=======
+# Galera melea Velen. SPECIES
 
 #### Status
 ACCEPTED

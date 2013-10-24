@@ -1,5 +1,4 @@
-Blennorella canescens Kirschst. SPECIES
-=======
+# Blennorella canescens Kirschst. SPECIES
 
 #### Status
 ACCEPTED

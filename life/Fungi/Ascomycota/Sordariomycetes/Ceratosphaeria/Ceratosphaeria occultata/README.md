@@ -1,5 +1,4 @@
-Ceratosphaeria occultata Feltgen SPECIES
-=======
+# Ceratosphaeria occultata Feltgen SPECIES
 
 #### Status
 ACCEPTED

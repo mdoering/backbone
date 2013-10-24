@@ -1,5 +1,4 @@
-Hydrocybe leonina Velen. SPECIES
-=======
+# Hydrocybe leonina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proactinomyces aquosus Turfitt SPECIES
-=======
+# Proactinomyces aquosus Turfitt SPECIES
 
 #### Status
 ACCEPTED

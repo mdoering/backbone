@@ -1,5 +1,4 @@
-Dystictina tomentosa (Sw.) Clem. SPECIES
-=======
+# Dystictina tomentosa (Sw.) Clem. SPECIES
 
 #### Status
 ACCEPTED

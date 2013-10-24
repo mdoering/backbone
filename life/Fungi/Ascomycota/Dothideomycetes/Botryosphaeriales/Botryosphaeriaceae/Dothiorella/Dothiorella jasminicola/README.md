@@ -1,5 +1,4 @@
-Dothiorella jasminicola (Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Dothiorella jasminicola (Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

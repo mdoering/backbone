@@ -1,14 +1,13 @@
-Arthoniopsis lividula (Vain.) Zahlbr. SPECIES
-=======
+# Arthonia lividula Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 140 (1922)
+Ann. Acad. Sci. fenn. , Ser. A 15: 309 (1921)
 
 #### Original name
 Arthonia lividula Vain.

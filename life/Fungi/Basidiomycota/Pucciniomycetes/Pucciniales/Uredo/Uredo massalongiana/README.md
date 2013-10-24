@@ -1,5 +1,4 @@
-Uredo massalongiana Sacc. SPECIES
-=======
+# Uredo massalongiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

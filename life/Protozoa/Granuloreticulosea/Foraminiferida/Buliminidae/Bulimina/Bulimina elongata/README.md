@@ -1,5 +1,4 @@
-Bulimina elongata d'Orbigny, 1826 SPECIES
-=======
+# Bulimina elongata d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

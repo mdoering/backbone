@@ -1,5 +1,4 @@
-Facetocochlea pulchra (Cushman, 1933) SPECIES
-=======
+# Facetocochlea pulchra (Cushman, 1933) SPECIES
 
 #### Status
 ACCEPTED

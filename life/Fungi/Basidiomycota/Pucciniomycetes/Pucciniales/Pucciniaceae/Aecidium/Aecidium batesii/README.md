@@ -1,5 +1,4 @@
-Aecidium batesii Arthur SPECIES
-=======
+# Aecidium batesii Arthur SPECIES
 
 #### Status
 ACCEPTED

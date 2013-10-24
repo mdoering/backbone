@@ -1,5 +1,4 @@
-Heteropatella naumovii Negru SPECIES
-=======
+# Heteropatella naumovii Negru SPECIES
 
 #### Status
 ACCEPTED

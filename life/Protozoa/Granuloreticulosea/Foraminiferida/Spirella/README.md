@@ -1,5 +1,4 @@
-Spirella Vdovenko in Vdovenko, Gibshman, Lipina & Reitlinger, 1996 GENUS
-=======
+# Spirella Vdovenko in Vdovenko, Gibshman, Lipina & Reitlinger, 1996 GENUS
 
 #### Status
 ACCEPTED

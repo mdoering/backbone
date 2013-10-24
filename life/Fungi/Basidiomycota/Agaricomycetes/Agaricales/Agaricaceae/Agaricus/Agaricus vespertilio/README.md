@@ -1,5 +1,4 @@
-Agaricus vespertilio Berk. SPECIES
-=======
+# Agaricus vespertilio Berk. SPECIES
 
 #### Status
 ACCEPTED

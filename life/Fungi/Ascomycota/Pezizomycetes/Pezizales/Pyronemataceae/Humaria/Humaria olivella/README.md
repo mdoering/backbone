@@ -1,5 +1,4 @@
-Humaria olivella (Quél.) Sacc. SPECIES
-=======
+# Humaria olivella (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

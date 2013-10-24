@@ -1,5 +1,4 @@
-Phyllosticta fraserae Ellis & Everh. SPECIES
-=======
+# Phyllosticta fraserae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

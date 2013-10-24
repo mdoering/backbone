@@ -1,17 +1,16 @@
-Ramaria camelicolor var. rufa Corner, K.S. Thind & Anand VARIETY
-=======
+# Ramaria camelicolor Corner, K.S. Thind & Anand, 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 39: 481 (1956)
+Trans. Br. mycol. Soc. 39: 480 (1956)
 
 #### Original name
-Ramaria camelicolor var. rufa Corner, K.S. Thind & Anand
+Ramaria camelicolor Corner, K.S. Thind & Anand, 1956
 
 ### Remarks
 null

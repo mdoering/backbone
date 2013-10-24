@@ -1,5 +1,4 @@
-Amblyospora stictici SPECIES
-=======
+# Amblyospora stictici SPECIES
 
 #### Status
 ACCEPTED

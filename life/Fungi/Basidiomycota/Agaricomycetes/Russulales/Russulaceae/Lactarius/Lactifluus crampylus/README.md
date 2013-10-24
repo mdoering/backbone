@@ -1,5 +1,4 @@
-Lactifluus crampylus (J. Otto) Kuntze SPECIES
-=======
+# Lactifluus crampylus (J. Otto) Kuntze SPECIES
 
 #### Status
 ACCEPTED

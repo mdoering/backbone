@@ -1,5 +1,4 @@
-Herpodiscus G.R.South, 1974 GENUS
-=======
+# Herpodiscus G.R.South, 1974 GENUS
 
 #### Status
 ACCEPTED

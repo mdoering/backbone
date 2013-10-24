@@ -1,17 +1,16 @@
-Peziza alcidis Harmaja SPECIES
-=======
+# Peziza alcis Harmaja SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Karstenia 26(2): 44 (1986)
 
 #### Original name
-Peziza alcidis Harmaja
+Peziza alcis Harmaja
 
 ### Remarks
 null

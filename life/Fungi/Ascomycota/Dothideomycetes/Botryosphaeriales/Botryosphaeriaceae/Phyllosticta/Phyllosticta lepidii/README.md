@@ -1,5 +1,4 @@
-Phyllosticta lepidii Brunaud SPECIES
-=======
+# Phyllosticta lepidii Brunaud SPECIES
 
 #### Status
 ACCEPTED

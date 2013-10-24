@@ -1,8 +1,7 @@
-Cystamminella galeata (Brady, 1881) SPECIES
-=======
+# Buzasina galeata (Brady, 1881) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Passalora fagarina (Chupp) Crous & U. Braun SPECIES
-=======
+# Passalora fagarina (Chupp) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

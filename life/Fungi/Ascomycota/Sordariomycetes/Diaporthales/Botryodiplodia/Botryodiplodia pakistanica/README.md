@@ -1,5 +1,4 @@
-Botryodiplodia pakistanica S. Ahmad SPECIES
-=======
+# Botryodiplodia pakistanica S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

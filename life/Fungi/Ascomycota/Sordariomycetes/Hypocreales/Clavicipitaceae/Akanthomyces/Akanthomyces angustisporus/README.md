@@ -1,17 +1,16 @@
-Akanthomyces angustispora Mains SPECIES
-=======
+# Akanthomyces angustisporus Mains SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 42(4): 573 (1950)
 
 #### Original name
-Akanthomyces angustispora Mains
+Akanthomyces angustisporus Mains
 
 ### Remarks
 null

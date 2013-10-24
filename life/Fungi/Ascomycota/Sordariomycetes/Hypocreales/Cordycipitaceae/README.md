@@ -1,5 +1,4 @@
-Cordycipitaceae Kreisel ex G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora FAMILY
-=======
+# Cordycipitaceae Kreisel ex G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora FAMILY
 
 #### Status
 ACCEPTED

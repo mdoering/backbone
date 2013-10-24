@@ -1,5 +1,4 @@
-Belonopsis pallens (Sacc.) Keissl., 1921 SPECIES
-=======
+# Belonopsis pallens (Sacc.) Keissl., 1921 SPECIES
 
 #### Status
 ACCEPTED

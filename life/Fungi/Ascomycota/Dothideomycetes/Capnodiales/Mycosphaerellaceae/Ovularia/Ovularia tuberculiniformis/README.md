@@ -1,5 +1,4 @@
-Ovularia tuberculiniformis Höhn. SPECIES
-=======
+# Ovularia tuberculiniformis Höhn. SPECIES
 
 #### Status
 ACCEPTED

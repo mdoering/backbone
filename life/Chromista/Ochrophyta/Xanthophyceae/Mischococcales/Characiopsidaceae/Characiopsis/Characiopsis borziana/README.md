@@ -1,5 +1,4 @@
-Characiopsis borziana Lemmermann, 1914 SPECIES
-=======
+# Characiopsis borziana Lemmermann, 1914 SPECIES
 
 #### Status
 ACCEPTED

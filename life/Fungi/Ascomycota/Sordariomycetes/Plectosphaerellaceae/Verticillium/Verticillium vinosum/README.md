@@ -1,5 +1,4 @@
-Verticillium vinosum Samouts. SPECIES
-=======
+# Verticillium vinosum Samouts. SPECIES
 
 #### Status
 ACCEPTED

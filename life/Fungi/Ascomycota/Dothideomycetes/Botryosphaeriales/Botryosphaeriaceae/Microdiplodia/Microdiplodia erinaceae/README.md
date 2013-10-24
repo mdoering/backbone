@@ -1,5 +1,4 @@
-Microdiplodia erinaceae Unamuno SPECIES
-=======
+# Microdiplodia erinaceae Unamuno SPECIES
 
 #### Status
 ACCEPTED

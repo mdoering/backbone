@@ -1,5 +1,4 @@
-Stemphylium citri F. Patt. & Charles SPECIES
-=======
+# Stemphylium citri F. Patt. & Charles SPECIES
 
 #### Status
 ACCEPTED

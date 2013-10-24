@@ -1,5 +1,4 @@
-Dialonectria fibriseda (Schwein.) Cooke SPECIES
-=======
+# Dialonectria fibriseda (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

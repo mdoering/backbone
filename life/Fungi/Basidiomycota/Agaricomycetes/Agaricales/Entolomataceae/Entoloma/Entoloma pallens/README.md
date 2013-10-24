@@ -1,14 +1,13 @@
-Rhodophyllus pallens (Maire) J. Favre, 1941 SPECIES
-=======
+# Entoloma pallens (Maire) Arnolds, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flore mycol. Madagascar 2, Rhodophvlles (Paris) 43 (1941)
+Biblthca Mycol. 90: 341 (1982)
 
 #### Original name
 Eccilia pallens Maire, 1937

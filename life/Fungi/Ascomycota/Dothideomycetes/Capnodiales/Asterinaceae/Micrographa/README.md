@@ -1,5 +1,4 @@
-Micrographa GENUS
-=======
+# Micrographa GENUS
 
 #### Status
 ACCEPTED

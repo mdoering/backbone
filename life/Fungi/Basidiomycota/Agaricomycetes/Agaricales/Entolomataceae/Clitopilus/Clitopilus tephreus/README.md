@@ -1,5 +1,4 @@
-Clitopilus tephreus Berk. & Broome SPECIES
-=======
+# Clitopilus tephreus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Koerberiella humida Motyka SPECIES
-=======
+# Koerberiella humida Motyka SPECIES
 
 #### Status
 ACCEPTED

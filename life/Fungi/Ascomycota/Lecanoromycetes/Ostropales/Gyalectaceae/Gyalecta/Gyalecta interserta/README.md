@@ -1,5 +1,4 @@
-Gyalecta interserta (Nyl.) H. Olivier SPECIES
-=======
+# Gyalecta interserta (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

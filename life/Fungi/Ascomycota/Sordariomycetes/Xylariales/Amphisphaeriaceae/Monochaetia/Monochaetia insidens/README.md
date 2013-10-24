@@ -1,5 +1,4 @@
-Monochaetia insidens (Zabriskie) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia insidens (Zabriskie) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patinella monticola Ellis & Everh. SPECIES
-=======
+# Patinella monticola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

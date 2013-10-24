@@ -1,5 +1,4 @@
-Leiosphaeridia ochroleuca Timofeev, 1959 SPECIES
-=======
+# Leiosphaeridia ochroleuca Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

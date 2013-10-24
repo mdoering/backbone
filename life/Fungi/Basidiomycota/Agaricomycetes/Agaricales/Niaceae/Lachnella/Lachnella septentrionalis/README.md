@@ -1,5 +1,4 @@
-Lachnella septentrionalis W.B. Cooke SPECIES
-=======
+# Lachnella septentrionalis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

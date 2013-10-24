@@ -1,5 +1,4 @@
-Thiocapsa litoralis Puchkova et al., 2000 SPECIES
-=======
+# Thiocapsa litoralis Puchkova et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

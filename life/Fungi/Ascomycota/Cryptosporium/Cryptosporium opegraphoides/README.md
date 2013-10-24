@@ -1,5 +1,4 @@
-Cryptosporium opegraphoides Malbr. & Sacc. SPECIES
-=======
+# Cryptosporium opegraphoides Malbr. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

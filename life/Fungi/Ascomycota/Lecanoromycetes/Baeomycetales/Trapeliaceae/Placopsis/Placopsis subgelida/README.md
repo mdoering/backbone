@@ -1,5 +1,4 @@
-Placopsis subgelida (Nyl.) Nyl. SPECIES
-=======
+# Placopsis subgelida (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

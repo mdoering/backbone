@@ -1,5 +1,4 @@
-Diploschistes bryophilus var. bryophilus VARIETY
-=======
+# Diploschistes bryophilus SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Hedwigia 31: 34 (1892)
+null
 
 #### Original name
-Diploschistes bryophilus var. bryophilus
+null
 
 ### Remarks
 null

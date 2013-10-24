@@ -1,5 +1,4 @@
-Chitonomyces thaxteri Speg. SPECIES
-=======
+# Chitonomyces thaxteri Speg. SPECIES
 
 #### Status
 ACCEPTED

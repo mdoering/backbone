@@ -1,5 +1,4 @@
-Astrosphaeriella bambusella Höhn. SPECIES
-=======
+# Astrosphaeriella bambusella Höhn. SPECIES
 
 #### Status
 ACCEPTED

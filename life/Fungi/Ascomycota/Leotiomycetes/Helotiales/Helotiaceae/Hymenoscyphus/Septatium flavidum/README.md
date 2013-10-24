@@ -1,5 +1,4 @@
-Septatium flavidum Velen. SPECIES
-=======
+# Septatium flavidum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrolechia hypotartarea (Nyl.) Darb. SPECIES
-=======
+# Ochrolechia hypotartarea (Nyl.) Darb. SPECIES
 
 #### Status
 ACCEPTED

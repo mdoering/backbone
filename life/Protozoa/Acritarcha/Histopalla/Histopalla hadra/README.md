@@ -1,5 +1,4 @@
-Histopalla hadra Colbath, 1990 SPECIES
-=======
+# Histopalla hadra Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

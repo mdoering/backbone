@@ -1,14 +1,13 @@
-Helotium albopunctum Peck, 1878 SPECIES
-=======
+# Hymenoscyphus albopunctus (Peck) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 29: 47 (1878)
+Revis. gen. pl. (Leipzig) 3(2): (1898)
 
 #### Original name
 Helotium albopunctum Peck, 1878

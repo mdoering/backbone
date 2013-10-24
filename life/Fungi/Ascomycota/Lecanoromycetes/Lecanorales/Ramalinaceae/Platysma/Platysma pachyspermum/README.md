@@ -1,5 +1,4 @@
-Platysma pachyspermum Hue SPECIES
-=======
+# Platysma pachyspermum Hue SPECIES
 
 #### Status
 ACCEPTED

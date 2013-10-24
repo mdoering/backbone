@@ -1,5 +1,4 @@
-Verrucaria valpellinensis B. de Lesd. SPECIES
-=======
+# Verrucaria valpellinensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria pararupestris Servít SPECIES
-=======
+# Verrucaria pararupestris Servít SPECIES
 
 #### Status
 ACCEPTED

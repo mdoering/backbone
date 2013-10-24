@@ -1,5 +1,4 @@
-Dacrymyces gangliformis Brasf. SPECIES
-=======
+# Dacrymyces gangliformis Brasf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea setosae L. Guo SPECIES
-=======
+# Anthracoidea setosae L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea golugensis SPECIES
-=======
+# Lecidea golugensis SPECIES
 
 #### Status
 ACCEPTED

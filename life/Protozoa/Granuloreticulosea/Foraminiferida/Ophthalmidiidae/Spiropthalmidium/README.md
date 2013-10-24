@@ -1,5 +1,4 @@
-Spiropthalmidium Cushman, 1927 GENUS
-=======
+# Spiropthalmidium Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

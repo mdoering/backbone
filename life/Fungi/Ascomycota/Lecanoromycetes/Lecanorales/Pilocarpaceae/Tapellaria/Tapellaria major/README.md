@@ -1,8 +1,7 @@
-Tapellaria bilimbioides var. major Lücking VARIETY
-=======
+# Tapellaria major (Lücking) Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

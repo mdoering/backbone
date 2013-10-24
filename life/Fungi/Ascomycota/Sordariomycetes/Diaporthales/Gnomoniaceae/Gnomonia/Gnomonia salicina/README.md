@@ -1,5 +1,4 @@
-Gnomonia salicina Moesz SPECIES
-=======
+# Gnomonia salicina Moesz SPECIES
 
 #### Status
 ACCEPTED

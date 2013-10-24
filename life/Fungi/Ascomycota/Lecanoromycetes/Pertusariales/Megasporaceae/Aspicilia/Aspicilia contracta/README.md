@@ -1,5 +1,4 @@
-Aspicilia contracta (Th. Fr.) Hue SPECIES
-=======
+# Aspicilia contracta (Th. Fr.) Hue SPECIES
 
 #### Status
 ACCEPTED

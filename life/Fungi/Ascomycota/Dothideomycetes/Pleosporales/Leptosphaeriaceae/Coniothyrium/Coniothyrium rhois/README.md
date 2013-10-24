@@ -1,5 +1,4 @@
-Coniothyrium rhois Tharp SPECIES
-=======
+# Coniothyrium rhois Tharp SPECIES
 
 #### Status
 ACCEPTED

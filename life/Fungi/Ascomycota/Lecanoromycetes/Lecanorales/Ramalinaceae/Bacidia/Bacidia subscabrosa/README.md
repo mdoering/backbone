@@ -1,5 +1,4 @@
-Bacidia subscabrosa (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia subscabrosa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora scorzonerae Hollós SPECIES
-=======
+# Rhabdospora scorzonerae Hollós SPECIES
 
 #### Status
 ACCEPTED

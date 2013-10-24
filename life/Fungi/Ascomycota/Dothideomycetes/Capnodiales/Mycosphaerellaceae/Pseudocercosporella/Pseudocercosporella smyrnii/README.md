@@ -1,5 +1,4 @@
-Pseudocercosporella smyrnii (Maire) U. Braun SPECIES
-=======
+# Pseudocercosporella smyrnii (Maire) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma caricis-strictae (Dietel) Arthur SPECIES
-=======
+# Dicaeoma caricis-strictae (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

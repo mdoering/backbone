@@ -1,5 +1,4 @@
-Chaetomium medusarum J.A. Mey. & Lanneau, 1967 SPECIES
-=======
+# Chaetomium medusarum J.A. Mey. & Lanneau, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sympodiomycopsis Sugiy., Tokuoka & Komag. GENUS
-=======
+# Sympodiomycopsis Sugiy., Tokuoka & Komag. GENUS
 
 #### Status
 ACCEPTED

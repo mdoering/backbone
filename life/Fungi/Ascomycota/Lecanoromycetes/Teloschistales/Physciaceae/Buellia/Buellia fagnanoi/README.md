@@ -1,8 +1,7 @@
-Buellia fagnanoii Sambo SPECIES
-=======
+# Buellia fagnanoi Sambo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia fagnanoii Sambo
+Buellia fagnanoi Sambo
 
 ### Remarks
 null

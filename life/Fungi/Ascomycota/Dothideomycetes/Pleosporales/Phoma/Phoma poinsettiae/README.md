@@ -1,5 +1,4 @@
-Phoma poinsettiae Sacc. SPECIES
-=======
+# Phoma poinsettiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

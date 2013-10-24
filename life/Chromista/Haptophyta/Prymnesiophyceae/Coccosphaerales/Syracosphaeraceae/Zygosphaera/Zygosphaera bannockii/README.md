@@ -1,8 +1,7 @@
-Laminolithus bannockii (Borsetti & Cati) Heimdal SPECIES
-=======
+# Zygosphaera bannockii (Borsetti & Cati) Heimdal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

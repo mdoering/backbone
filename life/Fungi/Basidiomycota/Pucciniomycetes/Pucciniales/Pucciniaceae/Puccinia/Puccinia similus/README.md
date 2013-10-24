@@ -1,5 +1,4 @@
-Puccinia similus Long SPECIES
-=======
+# Puccinia similus Long SPECIES
 
 #### Status
 ACCEPTED

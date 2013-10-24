@@ -1,8 +1,7 @@
-Achroomyces pubescens Riess, 1853 SPECIES
-=======
+# Myxosporium pubescens (Riess) Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

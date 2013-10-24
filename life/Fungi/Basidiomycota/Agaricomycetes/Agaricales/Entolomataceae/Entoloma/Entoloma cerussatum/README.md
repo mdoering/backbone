@@ -1,5 +1,4 @@
-Entoloma cerussatum Pegler SPECIES
-=======
+# Entoloma cerussatum Pegler SPECIES
 
 #### Status
 ACCEPTED

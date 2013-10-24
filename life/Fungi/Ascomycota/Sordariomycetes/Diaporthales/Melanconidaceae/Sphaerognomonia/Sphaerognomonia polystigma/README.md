@@ -1,5 +1,4 @@
-Sphaerognomonia polystigma (Ellis & Everh.) J.H. Mill. & G.E. Thomps. SPECIES
-=======
+# Sphaerognomonia polystigma (Ellis & Everh.) J.H. Mill. & G.E. Thomps. SPECIES
 
 #### Status
 ACCEPTED

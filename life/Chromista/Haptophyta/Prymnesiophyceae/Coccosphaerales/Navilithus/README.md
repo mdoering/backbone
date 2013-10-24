@@ -1,5 +1,4 @@
-Navilithus J.R. Young & H. Andruleit, 2006 GENUS
-=======
+# Navilithus J.R. Young & H. Andruleit, 2006 GENUS
 
 #### Status
 ACCEPTED

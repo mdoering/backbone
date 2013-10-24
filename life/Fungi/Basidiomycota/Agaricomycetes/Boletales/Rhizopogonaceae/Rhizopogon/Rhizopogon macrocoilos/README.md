@@ -1,5 +1,4 @@
-Rhizopogon macrocoilos Corda SPECIES
-=======
+# Rhizopogon macrocoilos Corda SPECIES
 
 #### Status
 ACCEPTED

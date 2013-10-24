@@ -1,5 +1,4 @@
-Cortinarius berlesianus Sacc. & Cub. SPECIES
-=======
+# Cortinarius berlesianus Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

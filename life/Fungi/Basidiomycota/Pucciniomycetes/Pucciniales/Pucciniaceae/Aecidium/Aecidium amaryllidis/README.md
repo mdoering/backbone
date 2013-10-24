@@ -1,5 +1,4 @@
-Aecidium amaryllidis Syd., P. Syd. & E.J. Butler, 1912 SPECIES
-=======
+# Aecidium amaryllidis Syd., P. Syd. & E.J. Butler, 1912 SPECIES
 
 #### Status
 ACCEPTED

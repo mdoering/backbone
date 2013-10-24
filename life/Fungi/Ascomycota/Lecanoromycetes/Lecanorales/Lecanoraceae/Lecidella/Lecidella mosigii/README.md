@@ -1,5 +1,4 @@
-Lecidella mosigii (Hepp) Körb. SPECIES
-=======
+# Lecidella mosigii (Hepp) Körb. SPECIES
 
 #### Status
 ACCEPTED

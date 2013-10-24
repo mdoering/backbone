@@ -1,5 +1,4 @@
-Psathyrella byssina (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella byssina (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

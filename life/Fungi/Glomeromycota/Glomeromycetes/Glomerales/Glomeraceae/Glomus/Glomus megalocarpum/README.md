@@ -1,5 +1,4 @@
-Glomus megalocarpum D. Redecker SPECIES
-=======
+# Glomus megalocarpum D. Redecker SPECIES
 
 #### Status
 ACCEPTED

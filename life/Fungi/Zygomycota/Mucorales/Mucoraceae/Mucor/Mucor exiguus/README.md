@@ -1,5 +1,4 @@
-Mucor exiguus Gled. SPECIES
-=======
+# Mucor exiguus Gled. SPECIES
 
 #### Status
 ACCEPTED

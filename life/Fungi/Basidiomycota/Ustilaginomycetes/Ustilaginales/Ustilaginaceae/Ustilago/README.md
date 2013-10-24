@@ -1,17 +1,16 @@
-Pericoelium Bonord. GENUS
-=======
+# Ustilago (Pers.) Roussel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Allgem. mykol. (Stuttgart) 44 (1851)
+Fl. Calvados, Edn 2 47 (1806)
 
 #### Original name
-Pericoelium Bonord.
+null
 
 ### Remarks
 null

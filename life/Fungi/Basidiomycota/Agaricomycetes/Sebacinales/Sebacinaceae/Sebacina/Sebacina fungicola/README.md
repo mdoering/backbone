@@ -1,5 +1,4 @@
-Sebacina fungicola Hauerslev SPECIES
-=======
+# Sebacina fungicola Hauerslev SPECIES
 
 #### Status
 ACCEPTED

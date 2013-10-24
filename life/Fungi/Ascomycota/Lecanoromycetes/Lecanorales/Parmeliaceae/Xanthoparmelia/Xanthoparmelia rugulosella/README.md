@@ -1,17 +1,16 @@
-Paraparmelia rugulosa Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia rugulosella Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brunonia 9: 147 (1986)
+null
 
 #### Original name
-Paraparmelia rugulosa Elix & J. Johnst.
+null
 
 ### Remarks
 null

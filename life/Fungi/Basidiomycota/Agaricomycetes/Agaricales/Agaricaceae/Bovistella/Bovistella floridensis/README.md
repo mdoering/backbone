@@ -1,5 +1,4 @@
-Bovistella floridensis Peck SPECIES
-=======
+# Bovistella floridensis Peck SPECIES
 
 #### Status
 ACCEPTED

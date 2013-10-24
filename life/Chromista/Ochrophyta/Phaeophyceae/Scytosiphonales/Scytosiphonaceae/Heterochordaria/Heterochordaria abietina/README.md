@@ -1,5 +1,4 @@
-Heterochordaria abietina f. simplex Tokida FORM
-=======
+# Heterochordaria abietina (Ruprecht) Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaeropsis pseudaspera B. Sutton SPECIES
-=======
+# Microsphaeropsis pseudaspera B. Sutton SPECIES
 
 #### Status
 ACCEPTED

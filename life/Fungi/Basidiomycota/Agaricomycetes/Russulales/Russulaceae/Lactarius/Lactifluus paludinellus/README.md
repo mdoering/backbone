@@ -1,5 +1,4 @@
-Lactifluus paludinellus (Peck) Kuntze SPECIES
-=======
+# Lactifluus paludinellus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

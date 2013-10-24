@@ -1,5 +1,4 @@
-Desmotrichum punctarioides A.D. Zinova & Dimitrova-Konaklieva SPECIES
-=======
+# Desmotrichum punctarioides A.D. Zinova & Dimitrova-Konaklieva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria glauca var. glauca VARIETY
-=======
+# Umbilicaria glauca Stizenb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Umbilicaria glauca var. glauca
+Umbilicaria glauca Stizenb.
 
 ### Remarks
 null

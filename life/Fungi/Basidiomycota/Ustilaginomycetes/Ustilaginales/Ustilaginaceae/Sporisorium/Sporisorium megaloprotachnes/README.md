@@ -1,5 +1,4 @@
-Sporisorium megaloprotachnes Vánky & T. Vánky SPECIES
-=======
+# Sporisorium megaloprotachnes Vánky & T. Vánky SPECIES
 
 #### Status
 ACCEPTED

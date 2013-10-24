@@ -1,5 +1,4 @@
-Pyrenula alba A. Massal. SPECIES
-=======
+# Pyrenula alba A. Massal. SPECIES
 
 #### Status
 ACCEPTED

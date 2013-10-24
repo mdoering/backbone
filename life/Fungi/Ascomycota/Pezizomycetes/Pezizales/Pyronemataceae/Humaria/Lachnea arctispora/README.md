@@ -1,5 +1,4 @@
-Lachnea arctispora (Cooke & W. Phillips) Sacc. SPECIES
-=======
+# Lachnea arctispora (Cooke & W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

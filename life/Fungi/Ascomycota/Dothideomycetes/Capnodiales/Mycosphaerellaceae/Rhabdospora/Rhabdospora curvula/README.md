@@ -1,5 +1,4 @@
-Rhabdospora curvula Berl. SPECIES
-=======
+# Rhabdospora curvula Berl. SPECIES
 
 #### Status
 ACCEPTED

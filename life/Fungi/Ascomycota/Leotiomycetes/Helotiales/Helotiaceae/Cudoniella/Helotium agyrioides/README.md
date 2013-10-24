@@ -1,5 +1,4 @@
-Helotium agyrioides P. Crouan & H. Crouan SPECIES
-=======
+# Helotium agyrioides P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

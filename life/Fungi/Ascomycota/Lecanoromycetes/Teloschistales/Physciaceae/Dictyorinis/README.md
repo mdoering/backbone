@@ -1,5 +1,4 @@
-Dictyorinis GENUS
-=======
+# Dictyorinis GENUS
 
 #### Status
 ACCEPTED

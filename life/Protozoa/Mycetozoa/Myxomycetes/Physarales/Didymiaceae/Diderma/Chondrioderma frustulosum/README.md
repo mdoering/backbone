@@ -1,5 +1,4 @@
-Chondrioderma frustulosum Pat. SPECIES
-=======
+# Chondrioderma frustulosum Pat. SPECIES
 
 #### Status
 ACCEPTED

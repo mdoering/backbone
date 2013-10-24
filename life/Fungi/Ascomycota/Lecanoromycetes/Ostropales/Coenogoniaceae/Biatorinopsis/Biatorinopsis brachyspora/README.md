@@ -1,5 +1,4 @@
-Biatorinopsis brachyspora Müll. Arg. SPECIES
-=======
+# Biatorinopsis brachyspora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

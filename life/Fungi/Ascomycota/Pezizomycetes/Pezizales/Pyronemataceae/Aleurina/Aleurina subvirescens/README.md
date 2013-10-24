@@ -1,5 +1,4 @@
-Aleurina subvirescens (Velen.) W.Y. Zhuang & Korf SPECIES
-=======
+# Aleurina subvirescens (Velen.) W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

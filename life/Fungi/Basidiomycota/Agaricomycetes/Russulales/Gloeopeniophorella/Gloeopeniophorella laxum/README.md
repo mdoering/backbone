@@ -1,5 +1,4 @@
-Gloeopeniophorella laxum (Sheng H. Wu) Boidin et al., 1997 SPECIES
-=======
+# Gloeopeniophorella laxum (Sheng H. Wu) Boidin et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

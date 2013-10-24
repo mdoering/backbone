@@ -1,5 +1,4 @@
-Mycosphaerella arthraxonicola Naumov SPECIES
-=======
+# Mycosphaerella arthraxonicola Naumov SPECIES
 
 #### Status
 ACCEPTED

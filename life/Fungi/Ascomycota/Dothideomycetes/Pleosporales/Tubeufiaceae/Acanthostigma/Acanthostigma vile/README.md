@@ -1,5 +1,4 @@
-Acanthostigma vile Syd. SPECIES
-=======
+# Acanthostigma vile Syd. SPECIES
 
 #### Status
 ACCEPTED

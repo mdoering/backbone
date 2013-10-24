@@ -1,17 +1,16 @@
-Botryosporium sholayarensis V.G. Rao & Varghese SPECIES
-=======
+# Botryosporium sholayarense V.G. Rao & Varghese SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Int. J. Mycol. Lichenol. 3(2-3): 295 (1988)
 
 #### Original name
-Botryosporium sholayarensis V.G. Rao & Varghese
+Botryosporium sholayarense V.G. Rao & Varghese
 
 ### Remarks
 null

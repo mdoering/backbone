@@ -1,5 +1,4 @@
-Myxosporium corni Ellis & Everh. SPECIES
-=======
+# Myxosporium corni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

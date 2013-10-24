@@ -1,5 +1,4 @@
-Fusicoccum hapalocystis Sacc. SPECIES
-=======
+# Fusicoccum hapalocystis Sacc. SPECIES
 
 #### Status
 ACCEPTED

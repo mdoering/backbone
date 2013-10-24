@@ -1,5 +1,4 @@
-Graphium ambrosiigerum Hedgc. SPECIES
-=======
+# Graphium ambrosiigerum Hedgc. SPECIES
 
 #### Status
 ACCEPTED

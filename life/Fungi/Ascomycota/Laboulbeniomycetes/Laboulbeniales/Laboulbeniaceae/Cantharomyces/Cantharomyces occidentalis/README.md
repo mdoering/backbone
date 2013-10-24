@@ -1,5 +1,4 @@
-Cantharomyces occidentalis Thaxt. SPECIES
-=======
+# Cantharomyces occidentalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

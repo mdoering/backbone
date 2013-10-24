@@ -1,8 +1,7 @@
-Mallomonas fastigiata var. kriegeri Bourrelly VARIETY
-=======
+# Mallomonas caudata (Ivanov) Willi & Krieger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

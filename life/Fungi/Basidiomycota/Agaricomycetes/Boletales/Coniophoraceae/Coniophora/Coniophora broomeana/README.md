@@ -1,17 +1,16 @@
-Coniophora broomeiana Massee SPECIES
-=======
+# Coniophora broomeana Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 25: 140 (1889)
 
 #### Original name
-Coniophora broomeiana Massee
+Coniophora broomeana Massee
 
 ### Remarks
 null

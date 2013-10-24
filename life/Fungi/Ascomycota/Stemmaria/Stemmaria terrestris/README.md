@@ -1,5 +1,4 @@
-Stemmaria terrestris Chaudhuri & Suchar {?} SPECIES
-=======
+# Stemmaria terrestris Chaudhuri & Suchar {?} SPECIES
 
 #### Status
 ACCEPTED

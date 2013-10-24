@@ -1,5 +1,4 @@
-Streblonema porphyrae Setchell & N.L. Gardner SPECIES
-=======
+# Streblonema porphyrae Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

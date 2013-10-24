@@ -1,5 +1,4 @@
-Trichothyrium serratum Speg. SPECIES
-=======
+# Trichothyrium serratum Speg. SPECIES
 
 #### Status
 ACCEPTED

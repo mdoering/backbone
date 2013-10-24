@@ -1,5 +1,4 @@
-Pentatrichomastix Wenrich, 1924 GENUS
-=======
+# Pentatrichomastix Wenrich, 1924 GENUS
 
 #### Status
 ACCEPTED

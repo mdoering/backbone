@@ -1,5 +1,4 @@
-Cryptostictis physocarpi Vestergr. SPECIES
-=======
+# Cryptostictis physocarpi Vestergr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe pseudoumbrina Stangl SPECIES
-=======
+# Inocybe pseudoumbrina Stangl SPECIES
 
 #### Status
 ACCEPTED

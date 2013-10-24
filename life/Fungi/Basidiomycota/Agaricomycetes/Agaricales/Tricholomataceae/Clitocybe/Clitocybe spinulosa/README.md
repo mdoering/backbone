@@ -1,5 +1,4 @@
-Clitocybe spinulosa var. spinulosa VARIETY
-=======
+# Clitocybe spinulosa (Stev. & W.G. Sm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 5: 171 (1887)
 
 #### Original name
-Clitocybe spinulosa var. spinulosa
+Agaricus spinulosus Stev. & W.G. Sm.
 
 ### Remarks
 null

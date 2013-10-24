@@ -1,5 +1,4 @@
-Pyrenopsis melambola (Tuck.) Tuck. SPECIES
-=======
+# Pyrenopsis melambola (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

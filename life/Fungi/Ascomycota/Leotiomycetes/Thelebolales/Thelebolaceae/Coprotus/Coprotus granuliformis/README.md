@@ -1,14 +1,13 @@
-Ascophanus granuliformis (P. Crouan & H. Crouan) Boud., 1907 SPECIES
-=======
+# Coprotus granuliformis (P. Crouan & H. Crouan) Kimbr., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 10: 56 (1907)
+in Kimbrough & Korf, Am. J. Bot. 54: 22 (1967)
 
 #### Original name
 Ascobolus granuliformis P. Crouan & H. Crouan, 1858

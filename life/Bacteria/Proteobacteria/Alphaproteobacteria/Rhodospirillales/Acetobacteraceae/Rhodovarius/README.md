@@ -1,5 +1,4 @@
-Rhodovarius Kämpfer et al., 2004 GENUS
-=======
+# Rhodovarius Kämpfer et al., 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maireomyces Feldmann GENUS
-=======
+# Maireomyces Feldmann GENUS
 
 #### Status
 ACCEPTED

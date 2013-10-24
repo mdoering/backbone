@@ -1,17 +1,16 @@
-Pseudocercospora combretii A.K. Singh & Kamal SPECIES
-=======
+# Pseudocercospora combreti A.K. Singh & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 14(1-2): 25 (1987)
 
 #### Original name
-Pseudocercospora combretii A.K. Singh & Kamal
+Pseudocercospora combreti A.K. Singh & Kamal
 
 ### Remarks
 null

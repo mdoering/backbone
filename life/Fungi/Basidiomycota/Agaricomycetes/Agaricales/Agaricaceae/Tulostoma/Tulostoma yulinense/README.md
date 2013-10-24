@@ -1,5 +1,4 @@
-Tulostoma yulinense B. Liu, Z.Y. Li & Du SPECIES
-=======
+# Tulostoma yulinense B. Liu, Z.Y. Li & Du SPECIES
 
 #### Status
 ACCEPTED

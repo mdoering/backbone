@@ -1,5 +1,4 @@
-Pistillaria albobrunnea Quél. SPECIES
-=======
+# Pistillaria albobrunnea Quél. SPECIES
 
 #### Status
 ACCEPTED

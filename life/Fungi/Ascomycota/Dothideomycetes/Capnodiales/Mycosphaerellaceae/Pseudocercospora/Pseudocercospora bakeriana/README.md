@@ -1,5 +1,4 @@
-Pseudocercospora bakeriana Deighton SPECIES
-=======
+# Pseudocercospora bakeriana Deighton SPECIES
 
 #### Status
 ACCEPTED

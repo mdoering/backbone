@@ -1,5 +1,4 @@
-Phyllosticta fuchsiicola Speg. SPECIES
-=======
+# Phyllosticta fuchsiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphella uleanus Rehm SPECIES
-=======
+# Dasyscyphella uleanus Rehm SPECIES
 
 #### Status
 ACCEPTED

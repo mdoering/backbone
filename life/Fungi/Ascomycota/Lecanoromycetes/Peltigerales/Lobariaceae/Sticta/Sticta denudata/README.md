@@ -1,5 +1,4 @@
-Sticta denudata Taylor SPECIES
-=======
+# Sticta denudata Taylor SPECIES
 
 #### Status
 ACCEPTED

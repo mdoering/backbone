@@ -1,5 +1,4 @@
-Efibula GENUS
-=======
+# Efibula GENUS
 
 #### Status
 ACCEPTED

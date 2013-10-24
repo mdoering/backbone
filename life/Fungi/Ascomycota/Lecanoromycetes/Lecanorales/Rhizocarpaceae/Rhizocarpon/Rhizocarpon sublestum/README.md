@@ -1,5 +1,4 @@
-Rhizocarpon sublestum SPECIES
-=======
+# Rhizocarpon sublestum SPECIES
 
 #### Status
 ACCEPTED

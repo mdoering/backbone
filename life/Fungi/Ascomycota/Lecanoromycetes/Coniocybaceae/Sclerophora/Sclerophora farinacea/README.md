@@ -1,17 +1,16 @@
-Coniocybe farinacea f. farinacea FORM
-=======
+# Sclerophora farinacea (Chevall.) Chevall. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. gén. env. Paris (Paris) 1: 315 (1826)
 
 #### Original name
-Coniocybe farinacea f. farinacea
+Sclerophora farinacea (Chevall.) Chevall.
 
 ### Remarks
 null

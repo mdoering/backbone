@@ -1,5 +1,4 @@
-Cercospora lippiae Ellis & Everh., 1887 SPECIES
-=======
+# Cercospora lippiae Ellis & Everh., 1887 SPECIES
 
 #### Status
 ACCEPTED

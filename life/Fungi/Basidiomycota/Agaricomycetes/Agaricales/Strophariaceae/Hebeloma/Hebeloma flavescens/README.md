@@ -1,5 +1,4 @@
-Hebeloma flavescens Rick SPECIES
-=======
+# Hebeloma flavescens Rick SPECIES
 
 #### Status
 ACCEPTED

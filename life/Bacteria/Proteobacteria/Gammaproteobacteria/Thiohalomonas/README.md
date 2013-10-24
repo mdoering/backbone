@@ -1,5 +1,4 @@
-Thiohalomonas Sorokin et al., 2007 GENUS
-=======
+# Thiohalomonas Sorokin et al., 2007 GENUS
 
 #### Status
 ACCEPTED

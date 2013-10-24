@@ -1,5 +1,4 @@
-Parmotrema pardi (Krog & Swinscow) Krog & Swinscow SPECIES
-=======
+# Parmotrema pardi (Krog & Swinscow) Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

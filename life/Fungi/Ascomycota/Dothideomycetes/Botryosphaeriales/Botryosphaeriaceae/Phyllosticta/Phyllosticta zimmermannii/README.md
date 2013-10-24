@@ -1,5 +1,4 @@
-Phyllosticta zimmermannii Aa SPECIES
-=======
+# Phyllosticta zimmermannii Aa SPECIES
 
 #### Status
 ACCEPTED

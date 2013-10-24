@@ -1,5 +1,4 @@
-Malupa morobeana Y. Ono, Buriticá & J.F. Hennen SPECIES
-=======
+# Malupa morobeana Y. Ono, Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

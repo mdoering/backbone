@@ -1,5 +1,4 @@
-Antrodia subramentacea A. David & Dequatre, 1985 SPECIES
-=======
+# Antrodia subramentacea A. David & Dequatre, 1985 SPECIES
 
 #### Status
 ACCEPTED

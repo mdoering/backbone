@@ -1,5 +1,4 @@
-Lecidea endoleucitis Stirt. SPECIES
-=======
+# Lecidea endoleucitis Stirt. SPECIES
 
 #### Status
 ACCEPTED

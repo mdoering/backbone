@@ -1,5 +1,4 @@
-Cercospora solani-hirti R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Cercospora solani-hirti R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

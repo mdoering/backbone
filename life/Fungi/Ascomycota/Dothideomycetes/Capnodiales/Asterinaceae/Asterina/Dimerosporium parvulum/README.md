@@ -1,5 +1,4 @@
-Dimerosporium parvulum Cooke SPECIES
-=======
+# Dimerosporium parvulum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anoxybacillus contaminans De Clerck et al., 2004 SPECIES
-=======
+# Anoxybacillus contaminans De Clerck et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

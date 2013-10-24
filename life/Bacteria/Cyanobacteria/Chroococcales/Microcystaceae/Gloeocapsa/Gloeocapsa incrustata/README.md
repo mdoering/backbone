@@ -1,5 +1,4 @@
-Gloeocapsa incrustata Chu SPECIES
-=======
+# Gloeocapsa incrustata Chu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aliquandostipite crystallinus Raja, A. Ferrer & Shearer, 2005 SPECIES
-=======
+# Aliquandostipite crystallinus Raja, A. Ferrer & Shearer, 2005 SPECIES
 
 #### Status
 ACCEPTED

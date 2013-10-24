@@ -1,5 +1,4 @@
-Mycena baumeri Raithelh. SPECIES
-=======
+# Mycena baumeri Raithelh. SPECIES
 
 #### Status
 ACCEPTED

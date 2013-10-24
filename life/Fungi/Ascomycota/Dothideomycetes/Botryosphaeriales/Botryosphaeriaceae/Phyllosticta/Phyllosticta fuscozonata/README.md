@@ -1,5 +1,4 @@
-Phyllosticta fuscozonata Thüm. SPECIES
-=======
+# Phyllosticta fuscozonata Thüm. SPECIES
 
 #### Status
 ACCEPTED

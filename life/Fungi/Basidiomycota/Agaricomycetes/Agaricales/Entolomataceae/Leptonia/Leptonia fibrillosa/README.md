@@ -1,5 +1,4 @@
-Leptonia fibrillosa (Murrill) Largent SPECIES
-=======
+# Leptonia fibrillosa (Murrill) Largent SPECIES
 
 #### Status
 ACCEPTED

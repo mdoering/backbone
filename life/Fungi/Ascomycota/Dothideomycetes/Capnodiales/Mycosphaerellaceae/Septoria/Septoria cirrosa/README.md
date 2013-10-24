@@ -1,5 +1,4 @@
-Septoria cirrosa G. Winter SPECIES
-=======
+# Septoria cirrosa G. Winter SPECIES
 
 #### Status
 ACCEPTED

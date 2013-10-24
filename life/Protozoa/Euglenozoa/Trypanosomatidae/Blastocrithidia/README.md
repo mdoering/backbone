@@ -1,5 +1,4 @@
-Blastocrithidia Laird GENUS
-=======
+# Blastocrithidia Laird GENUS
 
 #### Status
 ACCEPTED

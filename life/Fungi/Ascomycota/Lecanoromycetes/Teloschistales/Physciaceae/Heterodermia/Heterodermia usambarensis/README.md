@@ -1,5 +1,4 @@
-Heterodermia usambarensis (Kurok.) Swinscow & Krog SPECIES
-=======
+# Heterodermia usambarensis (Kurok.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

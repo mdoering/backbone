@@ -1,5 +1,4 @@
-Aecidium paederiae Dietel SPECIES
-=======
+# Aecidium paederiae Dietel SPECIES
 
 #### Status
 ACCEPTED

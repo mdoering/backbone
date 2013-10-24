@@ -1,5 +1,4 @@
-Phyllosticta ungerniae Vasyag. SPECIES
-=======
+# Phyllosticta ungerniae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina aethiopica Müll. Arg. SPECIES
-=======
+# Graphina aethiopica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

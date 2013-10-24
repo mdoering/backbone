@@ -1,5 +1,4 @@
-Aspergillus keveiensis ined. SPECIES
-=======
+# Aspergillus keveiensis ined. SPECIES
 
 #### Status
 ACCEPTED

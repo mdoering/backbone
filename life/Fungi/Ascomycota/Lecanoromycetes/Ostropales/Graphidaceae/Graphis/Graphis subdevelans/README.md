@@ -1,5 +1,4 @@
-Graphis subdevelans Vain. SPECIES
-=======
+# Graphis subdevelans Vain. SPECIES
 
 #### Status
 ACCEPTED

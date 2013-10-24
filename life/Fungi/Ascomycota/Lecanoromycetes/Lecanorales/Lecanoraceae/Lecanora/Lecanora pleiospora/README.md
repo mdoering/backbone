@@ -1,5 +1,4 @@
-Lecanora pleiospora var. pleiospora VARIETY
-=======
+# Lecanora pleiospora J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora pleiospora var. pleiospora
+Lecanora pleiospora J. Steiner
 
 ### Remarks
 null

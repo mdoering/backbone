@@ -1,5 +1,4 @@
-Cladonia pachycladodes Vain. SPECIES
-=======
+# Cladonia pachycladodes Vain. SPECIES
 
 #### Status
 ACCEPTED

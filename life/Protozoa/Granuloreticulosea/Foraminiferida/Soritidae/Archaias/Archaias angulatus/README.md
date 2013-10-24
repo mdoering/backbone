@@ -1,5 +1,4 @@
-Archaias angulatus SPECIES
-=======
+# Archaias angulatus SPECIES
 
 #### Status
 ACCEPTED

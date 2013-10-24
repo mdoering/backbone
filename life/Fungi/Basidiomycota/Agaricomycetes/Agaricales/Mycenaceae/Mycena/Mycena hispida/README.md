@@ -1,5 +1,4 @@
-Mycena hispida Grgur. & A.A. Holland SPECIES
-=======
+# Mycena hispida Grgur. & A.A. Holland SPECIES
 
 #### Status
 ACCEPTED

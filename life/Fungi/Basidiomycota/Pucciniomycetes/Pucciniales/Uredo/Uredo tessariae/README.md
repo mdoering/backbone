@@ -1,5 +1,4 @@
-Uredo tessariae Speg. SPECIES
-=======
+# Uredo tessariae Speg. SPECIES
 
 #### Status
 ACCEPTED

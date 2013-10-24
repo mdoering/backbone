@@ -1,5 +1,4 @@
-Miliospirella Grigelis in Bykova et al., 1958 GENUS
-=======
+# Miliospirella Grigelis in Bykova et al., 1958 GENUS
 
 #### Status
 ACCEPTED

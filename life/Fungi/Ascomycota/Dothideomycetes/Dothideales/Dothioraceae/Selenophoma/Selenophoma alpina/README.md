@@ -1,5 +1,4 @@
-Selenophoma alpina Petr. SPECIES
-=======
+# Selenophoma alpina Petr. SPECIES
 
 #### Status
 ACCEPTED

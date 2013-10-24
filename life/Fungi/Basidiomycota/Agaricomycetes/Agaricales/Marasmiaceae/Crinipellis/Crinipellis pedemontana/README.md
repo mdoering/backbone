@@ -1,5 +1,4 @@
-Crinipellis pedemontana A. Vizzini SPECIES
-=======
+# Crinipellis pedemontana A. Vizzini SPECIES
 
 #### Status
 ACCEPTED

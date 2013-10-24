@@ -1,5 +1,4 @@
-Cercospora psylliostachydis Annal. SPECIES
-=======
+# Cercospora psylliostachydis Annal. SPECIES
 
 #### Status
 ACCEPTED

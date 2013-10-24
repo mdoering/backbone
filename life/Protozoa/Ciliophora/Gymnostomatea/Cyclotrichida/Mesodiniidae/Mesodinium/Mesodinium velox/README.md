@@ -1,5 +1,4 @@
-Mesodinium velox H. Tamar SPECIES
-=======
+# Mesodinium velox H. Tamar SPECIES
 
 #### Status
 ACCEPTED

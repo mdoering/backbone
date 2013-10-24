@@ -1,5 +1,4 @@
-Helotiella aurea Penz. & Sacc. SPECIES
-=======
+# Helotiella aurea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

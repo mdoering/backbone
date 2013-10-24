@@ -1,5 +1,4 @@
-Stilbum leucocephalum Berk. & M.A. Curtis SPECIES
-=======
+# Stilbum leucocephalum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

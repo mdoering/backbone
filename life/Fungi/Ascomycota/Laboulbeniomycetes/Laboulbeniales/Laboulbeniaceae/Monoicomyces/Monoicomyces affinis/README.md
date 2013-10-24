@@ -1,5 +1,4 @@
-Monoicomyces affinis Speg. SPECIES
-=======
+# Monoicomyces affinis Speg. SPECIES
 
 #### Status
 ACCEPTED

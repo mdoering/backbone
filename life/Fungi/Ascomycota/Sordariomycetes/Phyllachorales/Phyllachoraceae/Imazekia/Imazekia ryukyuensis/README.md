@@ -1,5 +1,4 @@
-Imazekia ryukyuensis Tak. Kobay. & Y. Kawabe, 1992 SPECIES
-=======
+# Imazekia ryukyuensis Tak. Kobay. & Y. Kawabe, 1992 SPECIES
 
 #### Status
 ACCEPTED

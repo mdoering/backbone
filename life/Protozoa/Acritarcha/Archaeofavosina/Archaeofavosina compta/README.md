@@ -1,5 +1,4 @@
-Archaeofavosina compta Salujha, Rehman & Arora, 1972 SPECIES
-=======
+# Archaeofavosina compta Salujha, Rehman & Arora, 1972 SPECIES
 
 #### Status
 ACCEPTED

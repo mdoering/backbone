@@ -1,5 +1,4 @@
-Hygrophorus macrosporus S. Ito & S. Imai SPECIES
-=======
+# Hygrophorus macrosporus S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma mortuosum (Fr.) Kuntze SPECIES
-=======
+# Scindalma mortuosum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia disciformis Liro SPECIES
-=======
+# Cintractia disciformis Liro SPECIES
 
 #### Status
 ACCEPTED

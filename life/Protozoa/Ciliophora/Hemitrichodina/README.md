@@ -1,5 +1,4 @@
-Hemitrichodina Basson & van As, 1989 GENUS
-=======
+# Hemitrichodina Basson & van As, 1989 GENUS
 
 #### Status
 ACCEPTED

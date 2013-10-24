@@ -1,5 +1,4 @@
-Helotium sphaerophoroides W. Phillips & Harkn. SPECIES
-=======
+# Helotium sphaerophoroides W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

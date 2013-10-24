@@ -1,5 +1,4 @@
-Leptothyrium rhodomelas Maire SPECIES
-=======
+# Leptothyrium rhodomelas Maire SPECIES
 
 #### Status
 ACCEPTED

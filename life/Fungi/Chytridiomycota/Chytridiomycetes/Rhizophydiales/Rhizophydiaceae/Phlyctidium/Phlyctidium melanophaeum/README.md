@@ -1,5 +1,4 @@
-Phlyctidium melanophaeum Wallr. SPECIES
-=======
+# Phlyctidium melanophaeum Wallr. SPECIES
 
 #### Status
 ACCEPTED

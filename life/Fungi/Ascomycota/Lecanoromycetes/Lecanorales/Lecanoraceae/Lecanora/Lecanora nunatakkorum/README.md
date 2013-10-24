@@ -1,5 +1,4 @@
-Lecanora nunatakkorum Poelt SPECIES
-=======
+# Lecanora nunatakkorum Poelt SPECIES
 
 #### Status
 ACCEPTED

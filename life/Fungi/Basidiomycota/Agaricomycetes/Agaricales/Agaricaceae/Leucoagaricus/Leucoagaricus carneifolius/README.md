@@ -1,17 +1,16 @@
-Leucoagaricus cinerascens var. riparius Bon VARIETY
-=======
+# Leucoagaricus carneifolius (Gillet) Wasser, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Agarica 6(12): 284 (1985)
+Ukr. bot. Zh. 34(3): 307 (1977)
 
 #### Original name
-Leucoagaricus cinerascens var. riparius Bon
+Lepiota carneifolia Gillet, 1874
 
 ### Remarks
 null

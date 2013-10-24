@@ -1,5 +1,4 @@
-Leciographa occulta Ade SPECIES
-=======
+# Leciographa occulta Ade SPECIES
 
 #### Status
 ACCEPTED

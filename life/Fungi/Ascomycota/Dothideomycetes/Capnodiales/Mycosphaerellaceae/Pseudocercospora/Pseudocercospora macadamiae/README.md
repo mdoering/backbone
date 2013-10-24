@@ -1,5 +1,4 @@
-Pseudocercospora macadamiae Beilharz, Mayers & Pascoe SPECIES
-=======
+# Pseudocercospora macadamiae Beilharz, Mayers & Pascoe SPECIES
 
 #### Status
 ACCEPTED

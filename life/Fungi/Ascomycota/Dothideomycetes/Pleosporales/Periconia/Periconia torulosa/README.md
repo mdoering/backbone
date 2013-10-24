@@ -1,5 +1,4 @@
-Periconia torulosa P.Rag. Rao & D. Rao SPECIES
-=======
+# Periconia torulosa P.Rag. Rao & D. Rao SPECIES
 
 #### Status
 ACCEPTED

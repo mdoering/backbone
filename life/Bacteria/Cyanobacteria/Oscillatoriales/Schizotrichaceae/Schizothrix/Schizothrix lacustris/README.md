@@ -1,5 +1,4 @@
-Schizothrix lacustris (A. Braun) Gomont SPECIES
-=======
+# Schizothrix lacustris (A. Braun) Gomont SPECIES
 
 #### Status
 ACCEPTED

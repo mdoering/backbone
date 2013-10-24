@@ -1,5 +1,4 @@
-Lachnum globulare (Höhn.) W.Y. Zhuang SPECIES
-=======
+# Lachnum globulare (Höhn.) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytonema azureum Tilden SPECIES
-=======
+# Scytonema azureum Tilden SPECIES
 
 #### Status
 ACCEPTED

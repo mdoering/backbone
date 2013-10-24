@@ -1,5 +1,4 @@
-Odontotrema alpinum var. alpinum VARIETY
-=======
+# Odontotrema alpinum (Sacc.) L. Holm SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bot. Notiser 132(1): 80 (1979)
 
 #### Original name
-Odontotrema alpinum var. alpinum
+Heterosphaeria alpina Sacc.
 
 ### Remarks
 null

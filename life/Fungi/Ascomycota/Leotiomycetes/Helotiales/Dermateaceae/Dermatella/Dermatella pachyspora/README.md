@@ -1,5 +1,4 @@
-Dermatella pachyspora Sacc. SPECIES
-=======
+# Dermatella pachyspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

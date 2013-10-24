@@ -1,14 +1,13 @@
-Acanthophysellum canadense (Skolko) Sheng H. Wu, Boidin & C.Y. Chien, 2000 SPECIES
-=======
+# Aleurodiscus canadensis Skolko, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 76: 160 (2000)
+Canadian Journal of Research, Section C 22: 258 (1944)
 
 #### Original name
 Aleurodiscus canadensis Skolko, 1944

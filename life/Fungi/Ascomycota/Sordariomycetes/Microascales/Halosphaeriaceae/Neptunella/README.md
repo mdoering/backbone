@@ -1,5 +1,4 @@
-Neptunella K.L. Pang & E.B.G. Jones, 2003 GENUS
-=======
+# Neptunella K.L. Pang & E.B.G. Jones, 2003 GENUS
 
 #### Status
 ACCEPTED

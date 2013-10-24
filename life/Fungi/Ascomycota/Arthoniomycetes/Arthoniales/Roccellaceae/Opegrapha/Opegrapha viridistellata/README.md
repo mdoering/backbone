@@ -1,5 +1,4 @@
-Opegrapha viridistellata Sérus., Lücking & Sparrius SPECIES
-=======
+# Opegrapha viridistellata Sérus., Lücking & Sparrius SPECIES
 
 #### Status
 ACCEPTED

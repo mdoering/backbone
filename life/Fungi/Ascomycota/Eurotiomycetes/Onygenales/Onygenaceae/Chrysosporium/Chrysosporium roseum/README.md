@@ -1,5 +1,4 @@
-Chrysosporium roseum Guarro, Ulfig & Vidal-Leir. SPECIES
-=======
+# Chrysosporium roseum Guarro, Ulfig & Vidal-Leir. SPECIES
 
 #### Status
 ACCEPTED

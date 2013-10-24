@@ -1,5 +1,4 @@
-Entyloma garhadioli Golovin SPECIES
-=======
+# Entyloma garhadioli Golovin SPECIES
 
 #### Status
 ACCEPTED

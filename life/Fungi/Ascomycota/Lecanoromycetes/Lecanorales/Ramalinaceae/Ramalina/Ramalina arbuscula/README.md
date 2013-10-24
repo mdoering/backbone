@@ -1,5 +1,4 @@
-Ramalina arbuscula Stizenb. SPECIES
-=======
+# Ramalina arbuscula Stizenb. SPECIES
 
 #### Status
 ACCEPTED

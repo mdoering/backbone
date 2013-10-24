@@ -1,5 +1,4 @@
-Ciferrioxyphium giganteum Bat. & H. Maia, 1963 SPECIES
-=======
+# Ciferrioxyphium giganteum Bat. & H. Maia, 1963 SPECIES
 
 #### Status
 ACCEPTED

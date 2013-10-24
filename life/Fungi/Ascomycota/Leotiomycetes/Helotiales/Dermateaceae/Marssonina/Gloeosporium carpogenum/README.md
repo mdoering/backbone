@@ -1,5 +1,4 @@
-Gloeosporium carpogenum Cooke SPECIES
-=======
+# Gloeosporium carpogenum Cooke SPECIES
 
 #### Status
 ACCEPTED

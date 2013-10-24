@@ -1,5 +1,4 @@
-Gyalidea vonkonratii Lumbsch & Papong SPECIES
-=======
+# Gyalidea vonkonratii Lumbsch & Papong SPECIES
 
 #### Status
 ACCEPTED

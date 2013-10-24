@@ -1,17 +1,16 @@
-Cicadomyces minnimus Buchner SPECIES
-=======
+# Cicadomyces minimus Buchner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Arch. Protistenk. 26: 102 (1912)
 
 #### Original name
-Cicadomyces minnimus Buchner
+Cicadomyces minimus Buchner
 
 ### Remarks
 null

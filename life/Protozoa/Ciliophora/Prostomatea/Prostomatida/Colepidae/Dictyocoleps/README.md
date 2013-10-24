@@ -1,5 +1,4 @@
-Dictyocoleps Diesing, 1866 GENUS
-=======
+# Dictyocoleps Diesing, 1866 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylographa hemisphaerica Fuckel SPECIES
-=======
+# Xylographa hemisphaerica Fuckel SPECIES
 
 #### Status
 ACCEPTED

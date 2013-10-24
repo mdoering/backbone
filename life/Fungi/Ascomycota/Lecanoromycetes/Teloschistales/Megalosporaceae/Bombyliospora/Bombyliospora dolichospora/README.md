@@ -1,5 +1,4 @@
-Bombyliospora dolichospora var. dolichospora (Nyl.) Zahlbr. VARIETY
-=======
+# Bombyliospora dolichospora (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

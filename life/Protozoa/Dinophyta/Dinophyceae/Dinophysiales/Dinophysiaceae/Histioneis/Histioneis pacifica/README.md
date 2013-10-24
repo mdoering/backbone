@@ -1,5 +1,4 @@
-Histioneis pacifica Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Histioneis pacifica Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
 ACCEPTED

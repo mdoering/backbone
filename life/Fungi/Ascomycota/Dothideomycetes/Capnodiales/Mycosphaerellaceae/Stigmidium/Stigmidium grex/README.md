@@ -1,5 +1,4 @@
-Stigmidium grex Alstrup & Olech SPECIES
-=======
+# Stigmidium grex Alstrup & Olech SPECIES
 
 #### Status
 ACCEPTED

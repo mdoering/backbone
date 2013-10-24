@@ -1,5 +1,4 @@
-Tricholoma bezdeki Velen. SPECIES
-=======
+# Tricholoma bezdeki Velen. SPECIES
 
 #### Status
 ACCEPTED

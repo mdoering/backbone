@@ -1,5 +1,4 @@
-Ascospora citharexyli Seaver & Waterston SPECIES
-=======
+# Ascospora citharexyli Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

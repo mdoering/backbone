@@ -1,5 +1,4 @@
-Valsa ceanothi (Schwein.) Cooke SPECIES
-=======
+# Valsa ceanothi (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Thamnidium semenis Orlova SPECIES
-=======
+# Thamnidium seminis Orlova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thamnidium semenis Orlova
+Thamnidium seminis Orlova
 
 ### Remarks
 null

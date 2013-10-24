@@ -1,5 +1,4 @@
-Naucoria fuscoviolacea Velen. SPECIES
-=======
+# Naucoria fuscoviolacea Velen. SPECIES
 
 #### Status
 ACCEPTED

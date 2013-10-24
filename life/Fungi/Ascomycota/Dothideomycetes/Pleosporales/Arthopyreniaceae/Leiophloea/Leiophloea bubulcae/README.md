@@ -1,5 +1,4 @@
-Leiophloea bubulcae (A. Massal.) Trevis. SPECIES
-=======
+# Leiophloea bubulcae (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

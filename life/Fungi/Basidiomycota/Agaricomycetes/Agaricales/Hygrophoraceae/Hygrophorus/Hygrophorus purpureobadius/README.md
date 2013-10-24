@@ -1,5 +1,4 @@
-Hygrophorus purpureobadius S. Imai SPECIES
-=======
+# Hygrophorus purpureobadius S. Imai SPECIES
 
 #### Status
 ACCEPTED

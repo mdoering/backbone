@@ -1,5 +1,4 @@
-Psychromonas hadalis Nogi, Hosoya, Kato & Horikoshi SPECIES
-=======
+# Psychromonas hadalis Nogi, Hosoya, Kato & Horikoshi SPECIES
 
 #### Status
 ACCEPTED

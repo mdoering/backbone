@@ -1,5 +1,4 @@
-Xanthoparmelia mobergii T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia mobergii T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa ribesia P. Karst. SPECIES
-=======
+# Valsa ribesia P. Karst. SPECIES
 
 #### Status
 ACCEPTED

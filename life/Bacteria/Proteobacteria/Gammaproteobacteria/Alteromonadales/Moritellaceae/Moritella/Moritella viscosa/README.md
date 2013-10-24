@@ -1,8 +1,7 @@
-Vibrio viscosus Lunder et al., 2000 SPECIES
-=======
+# Moritella viscosa (Lunder et al., 2000) Benediktsdóttir et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

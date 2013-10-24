@@ -1,5 +1,4 @@
-Institale radiatum (Sowerby) Fr. SPECIES
-=======
+# Institale radiatum (Sowerby) Fr. SPECIES
 
 #### Status
 ACCEPTED

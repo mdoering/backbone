@@ -1,5 +1,4 @@
-Ascoyunnania L. Cai & K.D. Hyde GENUS
-=======
+# Ascoyunnania L. Cai & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

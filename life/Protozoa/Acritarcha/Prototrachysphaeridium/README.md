@@ -1,5 +1,4 @@
-Prototrachysphaeridium B.V. Timofeev, 1963 GENUS
-=======
+# Prototrachysphaeridium B.V. Timofeev, 1963 GENUS
 
 #### Status
 ACCEPTED

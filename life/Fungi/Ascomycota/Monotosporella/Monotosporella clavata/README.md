@@ -1,5 +1,4 @@
-Monotosporella clavata Yanna & K.D. Hyde SPECIES
-=======
+# Monotosporella clavata Yanna & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

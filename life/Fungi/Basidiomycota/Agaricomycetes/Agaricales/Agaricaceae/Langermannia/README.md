@@ -1,5 +1,4 @@
-Langermannia Rostk. GENUS
-=======
+# Langermannia Rostk. GENUS
 
 #### Status
 ACCEPTED

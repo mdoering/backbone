@@ -1,5 +1,4 @@
-Coniothyrium lauricola Speg. SPECIES
-=======
+# Coniothyrium lauricola Speg. SPECIES
 
 #### Status
 ACCEPTED

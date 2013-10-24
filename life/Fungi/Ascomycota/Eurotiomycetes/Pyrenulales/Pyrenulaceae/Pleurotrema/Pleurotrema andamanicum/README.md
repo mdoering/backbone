@@ -1,5 +1,4 @@
-Pleurotrema andamanicum (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema andamanicum (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

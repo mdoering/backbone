@@ -1,5 +1,4 @@
-Conocybe nigrodisca Hauskn. & Krisai SPECIES
-=======
+# Conocybe nigrodisca Hauskn. & Krisai SPECIES
 
 #### Status
 ACCEPTED

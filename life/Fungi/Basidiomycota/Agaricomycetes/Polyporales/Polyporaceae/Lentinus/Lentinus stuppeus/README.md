@@ -1,14 +1,13 @@
-Pocillaria stuppea (Klotzsch) Kuntze, 1891 SPECIES
-=======
+# Lentinus stuppeus Klotzsch, 1833 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Linnaea 8: 480 (1833)
 
 #### Original name
 Lentinus stuppeus Klotzsch, 1833

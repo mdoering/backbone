@@ -1,5 +1,4 @@
-Gibberidea ailanthi (Rabenh.) Kuntze SPECIES
-=======
+# Gibberidea ailanthi (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia oxyspora Almq. SPECIES
-=======
+# Arthonia oxyspora Almq. SPECIES
 
 #### Status
 ACCEPTED

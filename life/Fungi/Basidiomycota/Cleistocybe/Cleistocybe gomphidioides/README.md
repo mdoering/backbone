@@ -1,5 +1,4 @@
-Cleistocybe gomphidioides (A.H. Sm.) Ammirati, A.D. Parker & Matheny SPECIES
-=======
+# Cleistocybe gomphidioides (A.H. Sm.) Ammirati, A.D. Parker & Matheny SPECIES
 
 #### Status
 ACCEPTED

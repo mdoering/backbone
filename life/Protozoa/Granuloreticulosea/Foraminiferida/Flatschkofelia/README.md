@@ -1,5 +1,4 @@
-Flatschkofelia Rettori, Senowbari-Daryan & Zuhlke, 1996 GENUS
-=======
+# Flatschkofelia Rettori, Senowbari-Daryan & Zuhlke, 1996 GENUS
 
 #### Status
 ACCEPTED

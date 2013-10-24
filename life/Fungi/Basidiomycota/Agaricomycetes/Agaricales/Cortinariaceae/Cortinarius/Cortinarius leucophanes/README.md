@@ -1,5 +1,4 @@
-Cortinarius leucophanes P. Karst. SPECIES
-=======
+# Cortinarius leucophanes P. Karst. SPECIES
 
 #### Status
 ACCEPTED

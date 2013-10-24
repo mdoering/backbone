@@ -1,5 +1,4 @@
-Helotium filicinum K.S. Thind & H. Singh SPECIES
-=======
+# Helotium filicinum K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

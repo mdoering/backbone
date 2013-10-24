@@ -1,5 +1,4 @@
-Azoarcus anaerobius Springer et al., 1998 SPECIES
-=======
+# Azoarcus anaerobius Springer et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Didymium effusum tenue Lister, 1897 INFRASPECIFIC_NAME
-=======
+# Didymium anellus Morgan, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Cincinnati Soc. Nat. Hist. 16: 148 (1894)
 
 #### Original name
-null
+Didymium anellus Morgan, 1894
 
 ### Remarks
 null

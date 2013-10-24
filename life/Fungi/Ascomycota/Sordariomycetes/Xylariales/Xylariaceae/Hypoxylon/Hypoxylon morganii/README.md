@@ -1,5 +1,4 @@
-Hypoxylon morganii Ellis & Everh. SPECIES
-=======
+# Hypoxylon morganii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

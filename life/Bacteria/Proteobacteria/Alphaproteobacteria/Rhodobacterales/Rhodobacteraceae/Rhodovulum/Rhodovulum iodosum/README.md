@@ -1,5 +1,4 @@
-Rhodovulum iodosum Straub et al., 1999 SPECIES
-=======
+# Rhodovulum iodosum Straub et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

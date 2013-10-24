@@ -1,5 +1,4 @@
-Leciographa triseptata (P. Karst.) Morgan SPECIES
-=======
+# Leciographa triseptata (P. Karst.) Morgan SPECIES
 
 #### Status
 ACCEPTED

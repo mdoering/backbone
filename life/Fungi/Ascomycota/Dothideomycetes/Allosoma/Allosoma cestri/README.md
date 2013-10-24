@@ -1,5 +1,4 @@
-Allosoma cestri Syd., 1926 SPECIES
-=======
+# Allosoma cestri Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

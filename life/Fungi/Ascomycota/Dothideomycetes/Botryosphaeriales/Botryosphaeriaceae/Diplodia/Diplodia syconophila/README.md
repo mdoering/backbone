@@ -1,5 +1,4 @@
-Diplodia syconophila Sacc. SPECIES
-=======
+# Diplodia syconophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

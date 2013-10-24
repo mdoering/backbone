@@ -1,5 +1,4 @@
-Hysterium rugosum var. rugosum VARIETY
-=======
+# Hysterium rugosum Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Elench. fung. (Greifswald) 2: 141 (1828)
 
 #### Original name
-Hysterium rugosum var. rugosum
+Hysterium rugosum Fr.
 
 ### Remarks
 null

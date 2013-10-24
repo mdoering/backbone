@@ -1,5 +1,4 @@
-Leiosphaeridia corpuscula (Ilchenko, 1971) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia corpuscula (Ilchenko, 1971) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

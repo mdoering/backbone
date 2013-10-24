@@ -1,5 +1,4 @@
-Cellvibrio Winogradsky, 1929 GENUS
-=======
+# Cellvibrio Winogradsky, 1929 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria straminipes Ellis & Everh. SPECIES
-=======
+# Isaria straminipes Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

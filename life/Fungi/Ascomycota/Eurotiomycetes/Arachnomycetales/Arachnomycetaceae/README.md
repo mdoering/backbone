@@ -1,5 +1,4 @@
-Arachnomycetaceae Gibas, Sigler & Currah FAMILY
-=======
+# Arachnomycetaceae Gibas, Sigler & Currah FAMILY
 
 #### Status
 ACCEPTED

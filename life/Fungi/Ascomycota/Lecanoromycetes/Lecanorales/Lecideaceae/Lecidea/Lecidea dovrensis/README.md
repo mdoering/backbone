@@ -1,5 +1,4 @@
-Lecidea dovrensis var. dovrensis VARIETY
-=======
+# Lecidea dovrensis Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea dovrensis var. dovrensis
+Lecidea dovrensis Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xanthoparmelia subtaractica T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia subtaractica T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

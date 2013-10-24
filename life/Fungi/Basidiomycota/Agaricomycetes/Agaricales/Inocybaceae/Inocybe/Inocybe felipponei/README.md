@@ -1,5 +1,4 @@
-Inocybe felipponei (Speg.) Singer SPECIES
-=======
+# Inocybe felipponei (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

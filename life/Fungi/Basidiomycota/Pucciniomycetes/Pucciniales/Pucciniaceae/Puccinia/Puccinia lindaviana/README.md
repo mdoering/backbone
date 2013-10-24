@@ -1,5 +1,4 @@
-Puccinia lindaviana Henn. SPECIES
-=======
+# Puccinia lindaviana Henn. SPECIES
 
 #### Status
 ACCEPTED

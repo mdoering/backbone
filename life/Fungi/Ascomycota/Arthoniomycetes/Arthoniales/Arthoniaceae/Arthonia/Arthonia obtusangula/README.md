@@ -1,5 +1,4 @@
-Arthonia obtusangula Dufour SPECIES
-=======
+# Arthonia obtusangula Dufour SPECIES
 
 #### Status
 ACCEPTED

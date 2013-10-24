@@ -1,5 +1,4 @@
-Coraemyces pavoniae Cif. & Tomas. SPECIES
-=======
+# Coraemyces pavoniae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

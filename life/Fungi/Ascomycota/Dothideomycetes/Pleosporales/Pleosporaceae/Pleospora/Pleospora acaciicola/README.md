@@ -1,5 +1,4 @@
-Pleospora acaciicola Henn. SPECIES
-=======
+# Pleospora acaciicola Henn. SPECIES
 
 #### Status
 ACCEPTED

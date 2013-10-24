@@ -1,5 +1,4 @@
-Septoria pauper Ellis SPECIES
-=======
+# Septoria pauper Ellis SPECIES
 
 #### Status
 ACCEPTED

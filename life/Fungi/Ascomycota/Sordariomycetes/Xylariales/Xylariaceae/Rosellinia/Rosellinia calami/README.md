@@ -1,5 +1,4 @@
-Rosellinia calami Henn. SPECIES
-=======
+# Rosellinia calami Henn. SPECIES
 
 #### Status
 ACCEPTED

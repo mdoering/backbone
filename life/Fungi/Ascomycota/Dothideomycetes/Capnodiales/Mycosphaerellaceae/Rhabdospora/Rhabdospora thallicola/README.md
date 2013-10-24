@@ -1,5 +1,4 @@
-Rhabdospora thallicola Tassi SPECIES
-=======
+# Rhabdospora thallicola Tassi SPECIES
 
 #### Status
 ACCEPTED

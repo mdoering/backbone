@@ -1,17 +1,16 @@
-Jacksonomyces Jülich GENUS
-=======
+# Phlebia E.M. Fries, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Persoonia 10(3): 329 (1979)
+null
 
 #### Original name
-Jacksonomyces Jülich
+null
 
 ### Remarks
 null

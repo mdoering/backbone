@@ -1,5 +1,4 @@
-Durella stictica (Fr.) Nannf. SPECIES
-=======
+# Durella stictica (Fr.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

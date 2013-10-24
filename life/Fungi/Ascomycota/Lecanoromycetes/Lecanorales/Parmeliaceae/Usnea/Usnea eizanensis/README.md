@@ -1,5 +1,4 @@
-Usnea eizanensis Asahina SPECIES
-=======
+# Usnea eizanensis Asahina SPECIES
 
 #### Status
 ACCEPTED

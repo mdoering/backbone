@@ -1,5 +1,4 @@
-Staurosira mercedes Lange-Bertalot & U.Rumrich SPECIES
-=======
+# Staurosira mercedes Lange-Bertalot & U.Rumrich SPECIES
 
 #### Status
 ACCEPTED

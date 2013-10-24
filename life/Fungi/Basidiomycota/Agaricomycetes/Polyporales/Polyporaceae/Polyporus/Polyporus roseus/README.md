@@ -1,5 +1,4 @@
-Polyporus roseus (Mont.) Speg. SPECIES
-=======
+# Polyporus roseus (Mont.) Speg. SPECIES
 
 #### Status
 ACCEPTED

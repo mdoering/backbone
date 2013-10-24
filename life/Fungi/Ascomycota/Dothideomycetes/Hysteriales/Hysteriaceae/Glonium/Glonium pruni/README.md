@@ -1,5 +1,4 @@
-Glonium pruni Dearn. & House SPECIES
-=======
+# Glonium pruni Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

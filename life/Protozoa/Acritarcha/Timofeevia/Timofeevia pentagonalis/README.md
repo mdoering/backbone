@@ -1,5 +1,4 @@
-Timofeevia pentagonalis (Vanguestaine, 1974) Vanguestaine, 1978 SPECIES
-=======
+# Timofeevia pentagonalis (Vanguestaine, 1974) Vanguestaine, 1978 SPECIES
 
 #### Status
 ACCEPTED

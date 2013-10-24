@@ -1,5 +1,4 @@
-Eimeria maggieae Lom & Dyková, 1981 SPECIES
-=======
+# Eimeria maggieae Lom & Dyková, 1981 SPECIES
 
 #### Status
 ACCEPTED

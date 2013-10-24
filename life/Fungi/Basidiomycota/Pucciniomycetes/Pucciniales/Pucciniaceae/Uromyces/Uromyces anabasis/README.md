@@ -1,5 +1,4 @@
-Uromyces anabasis Kazenas SPECIES
-=======
+# Uromyces anabasis Kazenas SPECIES
 
 #### Status
 ACCEPTED

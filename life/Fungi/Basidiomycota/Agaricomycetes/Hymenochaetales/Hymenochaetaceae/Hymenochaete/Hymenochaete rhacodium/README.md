@@ -1,5 +1,4 @@
-Hymenochaete rhacodium Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Hymenochaete rhacodium Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

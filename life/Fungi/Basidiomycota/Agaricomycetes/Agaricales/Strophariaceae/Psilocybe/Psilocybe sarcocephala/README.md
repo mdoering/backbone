@@ -1,17 +1,16 @@
-Psilocybe sarcocephala var. sarcocephala VARIETY
-=======
+# Psilocybe sarcocephala SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Hyménomycètes (Alençon) 586 (1878)
+null
 
 #### Original name
-Psilocybe sarcocephala var. sarcocephala
+null
 
 ### Remarks
 null

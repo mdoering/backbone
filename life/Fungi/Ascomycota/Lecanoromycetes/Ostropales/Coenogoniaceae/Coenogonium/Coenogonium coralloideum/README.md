@@ -1,5 +1,4 @@
-Coenogonium coralloideum Kalb SPECIES
-=======
+# Coenogonium coralloideum Kalb SPECIES
 
 #### Status
 ACCEPTED

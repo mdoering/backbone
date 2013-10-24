@@ -1,5 +1,4 @@
-Exophiala attenuata Vitale & de Hoog SPECIES
-=======
+# Exophiala attenuata Vitale & de Hoog SPECIES
 
 #### Status
 ACCEPTED

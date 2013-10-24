@@ -1,5 +1,4 @@
-Glabratella Dorreen, 1948 GENUS
-=======
+# Glabratella Dorreen, 1948 GENUS
 
 #### Status
 ACCEPTED

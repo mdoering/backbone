@@ -1,5 +1,4 @@
-Hoeflea Peix et al., 2005 GENUS
-=======
+# Hoeflea Peix et al., 2005 GENUS
 
 #### Status
 ACCEPTED

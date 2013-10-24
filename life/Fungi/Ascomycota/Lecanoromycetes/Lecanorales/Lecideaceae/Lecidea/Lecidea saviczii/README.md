@@ -1,5 +1,4 @@
-Lecidea saviczii Tomin SPECIES
-=======
+# Lecidea saviczii Tomin SPECIES
 
 #### Status
 ACCEPTED

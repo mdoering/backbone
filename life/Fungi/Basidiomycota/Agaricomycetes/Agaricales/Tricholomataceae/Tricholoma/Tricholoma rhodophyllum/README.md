@@ -1,5 +1,4 @@
-Tricholoma rhodophyllum (Métrod) Singer SPECIES
-=======
+# Tricholoma rhodophyllum (Métrod) Singer SPECIES
 
 #### Status
 ACCEPTED

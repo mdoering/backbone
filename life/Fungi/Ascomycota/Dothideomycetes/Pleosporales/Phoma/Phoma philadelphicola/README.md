@@ -1,5 +1,4 @@
-Phoma philadelphicola Hollós SPECIES
-=======
+# Phoma philadelphicola Hollós SPECIES
 
 #### Status
 ACCEPTED

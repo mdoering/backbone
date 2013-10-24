@@ -1,5 +1,4 @@
-Praeparvicingula proiecta SPECIES
-=======
+# Praeparvicingula proiecta SPECIES
 
 #### Status
 ACCEPTED

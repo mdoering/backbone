@@ -1,5 +1,4 @@
-Exosporium brachypodum Delacr. SPECIES
-=======
+# Exosporium brachypodum Delacr. SPECIES
 
 #### Status
 ACCEPTED

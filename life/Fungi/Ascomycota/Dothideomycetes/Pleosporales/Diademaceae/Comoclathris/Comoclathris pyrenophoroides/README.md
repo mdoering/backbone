@@ -1,5 +1,4 @@
-Comoclathris pyrenophoroides (Sacc.) Checa SPECIES
-=======
+# Comoclathris pyrenophoroides (Sacc.) Checa SPECIES
 
 #### Status
 ACCEPTED

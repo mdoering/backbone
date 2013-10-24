@@ -1,5 +1,4 @@
-Asterina goyazensis Henn. SPECIES
-=======
+# Asterina goyazensis Henn. SPECIES
 
 #### Status
 ACCEPTED

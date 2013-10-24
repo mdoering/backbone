@@ -1,5 +1,4 @@
-Ascochyta homogynes Ranoj. SPECIES
-=======
+# Ascochyta homogynes Ranoj. SPECIES
 
 #### Status
 ACCEPTED

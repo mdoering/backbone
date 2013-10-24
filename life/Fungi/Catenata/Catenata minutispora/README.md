@@ -1,5 +1,4 @@
-Catenata minutispora Bat. & Peres SPECIES
-=======
+# Catenata minutispora Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

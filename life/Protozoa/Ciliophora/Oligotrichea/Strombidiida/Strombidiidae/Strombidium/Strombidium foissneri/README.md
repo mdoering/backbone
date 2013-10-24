@@ -1,5 +1,4 @@
-Strombidium foissneri Xu, Sun, Song & Warren, 2008 SPECIES
-=======
+# Strombidium foissneri Xu, Sun, Song & Warren, 2008 SPECIES
 
 #### Status
 ACCEPTED

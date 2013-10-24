@@ -1,5 +1,4 @@
-Pirostoma velatum Tassi SPECIES
-=======
+# Pirostoma velatum Tassi SPECIES
 
 #### Status
 ACCEPTED

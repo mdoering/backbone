@@ -1,17 +1,16 @@
-Shanoriella Bat. & Cif. GENUS
-=======
+# Limacinula von Höhnel, 1907 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Beih. Sydowia 3: 101 (1962)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 116: 101 (1907)
 
 #### Original name
-Shanoriella Bat. & Cif.
+Limacinula von Höhnel, 1907
 
 ### Remarks
 null

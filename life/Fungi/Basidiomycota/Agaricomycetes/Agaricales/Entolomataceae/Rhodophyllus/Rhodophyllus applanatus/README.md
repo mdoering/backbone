@@ -1,5 +1,4 @@
-Rhodophyllus applanatus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus applanatus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

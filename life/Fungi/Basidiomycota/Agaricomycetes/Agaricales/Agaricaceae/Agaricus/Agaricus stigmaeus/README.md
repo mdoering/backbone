@@ -1,5 +1,4 @@
-Agaricus stigmaeus Pers. SPECIES
-=======
+# Agaricus stigmaeus Pers. SPECIES
 
 #### Status
 ACCEPTED

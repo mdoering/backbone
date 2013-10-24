@@ -1,17 +1,16 @@
-Hypoxylon cadigensis H.S. Yates SPECIES
-=======
+# Hypoxylon cadigense H.S. Yates SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Philipp. J. Sci. , C, Bot. 12: 378 (1917)
 
 #### Original name
-Hypoxylon cadigensis H.S. Yates
+Hypoxylon cadigense H.S. Yates
 
 ### Remarks
 null

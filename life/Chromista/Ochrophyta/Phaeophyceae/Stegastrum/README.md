@@ -1,5 +1,4 @@
-Stegastrum P.F. Reinsch in G. Neumayer, 1890 GENUS
-=======
+# Stegastrum P.F. Reinsch in G. Neumayer, 1890 GENUS
 
 #### Status
 ACCEPTED

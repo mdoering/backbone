@@ -1,5 +1,4 @@
-Blastenia jungermanniae (Vahl) Arnold SPECIES
-=======
+# Blastenia jungermanniae (Vahl) Arnold SPECIES
 
 #### Status
 ACCEPTED

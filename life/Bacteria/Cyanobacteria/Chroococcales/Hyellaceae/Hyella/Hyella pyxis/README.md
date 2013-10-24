@@ -1,5 +1,4 @@
-Hyella pyxis Lukas & Hoffman SPECIES
-=======
+# Hyella pyxis Lukas & Hoffman SPECIES
 
 #### Status
 ACCEPTED

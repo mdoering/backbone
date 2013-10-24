@@ -1,17 +1,16 @@
-Septoria guepini Oudem. SPECIES
-=======
+# Septoria guepinii Oudem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 24: 112 (1902)
 
 #### Original name
-Septoria guepini Oudem.
+Septoria euphorbiae (Lasch) Desm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hemisphaeria warburgii (Henn.) Kuntze SPECIES
-=======
+# Hemisphaeria warburgii (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

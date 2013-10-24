@@ -1,5 +1,4 @@
-Pemphidium Mont. GENUS
-=======
+# Pemphidium Mont. GENUS
 
 #### Status
 ACCEPTED

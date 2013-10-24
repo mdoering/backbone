@@ -1,5 +1,4 @@
-Fomes cremeotomentosus Henn. SPECIES
-=======
+# Fomes cremeotomentosus Henn. SPECIES
 
 #### Status
 ACCEPTED

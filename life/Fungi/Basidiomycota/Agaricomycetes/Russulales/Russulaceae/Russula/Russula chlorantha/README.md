@@ -1,5 +1,4 @@
-Russula chlorantha Zvára SPECIES
-=======
+# Russula chlorantha Zvára SPECIES
 
 #### Status
 ACCEPTED

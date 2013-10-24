@@ -1,5 +1,4 @@
-Heteronema diaphanum Skuja, 1939 SPECIES
-=======
+# Heteronema diaphanum Skuja, 1939 SPECIES
 
 #### Status
 ACCEPTED

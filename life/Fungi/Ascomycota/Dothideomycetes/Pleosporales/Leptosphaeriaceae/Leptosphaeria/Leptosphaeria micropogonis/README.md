@@ -1,5 +1,4 @@
-Leptosphaeria micropogonis Sacc. SPECIES
-=======
+# Leptosphaeria micropogonis Sacc. SPECIES
 
 #### Status
 ACCEPTED

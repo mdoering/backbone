@@ -1,5 +1,4 @@
-Gymnopilus josserandii Antonín SPECIES
-=======
+# Gymnopilus josserandii Antonín SPECIES
 
 #### Status
 ACCEPTED

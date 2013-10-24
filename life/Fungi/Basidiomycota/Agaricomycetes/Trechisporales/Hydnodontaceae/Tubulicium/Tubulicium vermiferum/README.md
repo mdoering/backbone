@@ -1,17 +1,16 @@
-Tubulicium vermiferum subsp. vermiferum (Bourdot) Oberw. SUBSPECIES
-=======
+# Tubulicium vermiferum (Bourdot) Oberw. ex Jülich, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 19: 54 (1965)
+Persoonia 10(3): 335 (1979)
 
 #### Original name
-Tubulicium vermiferum subsp. vermiferum (Bourdot) Oberw.
+Peniophora vermifera Bourdot, 1910
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tolypammina vagans SPECIES
-=======
+# Tolypammina vagans SPECIES
 
 #### Status
 ACCEPTED

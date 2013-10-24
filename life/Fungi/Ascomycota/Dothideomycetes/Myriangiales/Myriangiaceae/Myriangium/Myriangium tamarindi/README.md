@@ -1,5 +1,4 @@
-Myriangium tamarindi Tend. SPECIES
-=======
+# Myriangium tamarindi Tend. SPECIES
 
 #### Status
 ACCEPTED

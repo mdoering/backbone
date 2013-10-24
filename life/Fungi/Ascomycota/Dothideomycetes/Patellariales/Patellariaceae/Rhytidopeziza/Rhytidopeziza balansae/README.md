@@ -1,5 +1,4 @@
-Rhytidopeziza balansae Speg. SPECIES
-=======
+# Rhytidopeziza balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

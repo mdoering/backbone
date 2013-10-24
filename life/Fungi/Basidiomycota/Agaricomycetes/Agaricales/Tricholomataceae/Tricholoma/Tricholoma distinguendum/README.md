@@ -1,5 +1,4 @@
-Tricholoma distinguendum S. Lundell SPECIES
-=======
+# Tricholoma distinguendum S. Lundell SPECIES
 
 #### Status
 ACCEPTED

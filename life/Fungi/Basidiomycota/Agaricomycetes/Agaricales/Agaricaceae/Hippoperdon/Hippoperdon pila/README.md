@@ -1,5 +1,4 @@
-Hippoperdon pila Lév. SPECIES
-=======
+# Hippoperdon pila Lév. SPECIES
 
 #### Status
 ACCEPTED

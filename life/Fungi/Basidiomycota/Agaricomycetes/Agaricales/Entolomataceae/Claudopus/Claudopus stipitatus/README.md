@@ -1,5 +1,4 @@
-Claudopus stipitatus A.H. Sm. & Hesler SPECIES
-=======
+# Claudopus stipitatus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

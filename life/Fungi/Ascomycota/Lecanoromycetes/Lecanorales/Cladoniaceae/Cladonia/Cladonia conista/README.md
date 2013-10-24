@@ -1,5 +1,4 @@
-Cladonia conista f. centralis Dix FORM
-=======
+# Cladonia conista Robbins ex A. Evans SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia conista f. centralis Dix
+Cladonia conista Robbins ex A. Evans
 
 ### Remarks
 null

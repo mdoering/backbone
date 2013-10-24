@@ -1,17 +1,16 @@
-Bispora pusilla Sacc., 1877 SPECIES
-=======
+# Bispora betulina (Corda) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 1): 78 (1877)
+Can. J. Bot. 36: 740 (1958)
 
 #### Original name
-Bispora pusilla Sacc., 1877
+Dicoccum betulinum Corda, 1838
 
 ### Remarks
 null

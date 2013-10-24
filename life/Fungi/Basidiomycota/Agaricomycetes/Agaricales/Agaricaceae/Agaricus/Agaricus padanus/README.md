@@ -1,5 +1,4 @@
-Agaricus padanus Lancon. SPECIES
-=======
+# Agaricus padanus Lancon. SPECIES
 
 #### Status
 ACCEPTED

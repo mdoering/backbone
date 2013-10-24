@@ -1,5 +1,4 @@
-Pyrenopeziza gentianae (Pers.) Fuckel SPECIES
-=======
+# Pyrenopeziza gentianae (Pers.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

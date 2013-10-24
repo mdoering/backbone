@@ -1,5 +1,4 @@
-Charlesdowniea edwardsii (G. J. Wilson) J. K. Lentin & T. F. Vozzhennikova SPECIES
-=======
+# Charlesdowniea edwardsii (G. J. Wilson) J. K. Lentin & T. F. Vozzhennikova SPECIES
 
 #### Status
 ACCEPTED

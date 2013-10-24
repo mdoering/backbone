@@ -1,5 +1,4 @@
-Psorotichia cataractae Zahlbr. SPECIES
-=======
+# Psorotichia cataractae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

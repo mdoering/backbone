@@ -1,5 +1,4 @@
-Scutula nephromatis (Speg.) Etayo SPECIES
-=======
+# Scutula nephromatis (Speg.) Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protendomycopsis domschii Windisch SPECIES
-=======
+# Protendomycopsis domschii Windisch SPECIES
 
 #### Status
 ACCEPTED

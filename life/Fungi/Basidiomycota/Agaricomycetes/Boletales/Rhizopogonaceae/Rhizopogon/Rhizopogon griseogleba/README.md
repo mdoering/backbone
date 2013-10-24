@@ -1,5 +1,4 @@
-Rhizopogon griseogleba A.H. Sm. SPECIES
-=======
+# Rhizopogon griseogleba A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

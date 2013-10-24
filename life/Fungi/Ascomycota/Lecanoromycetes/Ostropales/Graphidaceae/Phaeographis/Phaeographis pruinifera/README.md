@@ -1,5 +1,4 @@
-Phaeographis pruinifera Zahlbr. SPECIES
-=======
+# Phaeographis pruinifera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

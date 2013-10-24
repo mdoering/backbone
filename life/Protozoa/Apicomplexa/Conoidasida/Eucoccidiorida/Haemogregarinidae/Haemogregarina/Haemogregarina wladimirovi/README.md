@@ -1,5 +1,4 @@
-Haemogregarina wladimirovi Yakimov & Kohl-Yakimov, 1912 SPECIES
-=======
+# Haemogregarina wladimirovi Yakimov & Kohl-Yakimov, 1912 SPECIES
 
 #### Status
 ACCEPTED

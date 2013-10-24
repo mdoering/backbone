@@ -1,5 +1,4 @@
-Schinzinia pustulosa Fayod, 1889 SPECIES
-=======
+# Schinzinia pustulosa Fayod, 1889 SPECIES
 
 #### Status
 ACCEPTED

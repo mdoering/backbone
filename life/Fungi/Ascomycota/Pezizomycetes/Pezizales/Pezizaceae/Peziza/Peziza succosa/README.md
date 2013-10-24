@@ -1,17 +1,16 @@
-Plicaria succosa var. succosa VARIETY
-=======
+# Peziza succosa Berk., 1841 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+British Fungi no. 156 (1841)
 
 #### Original name
-Plicaria succosa var. succosa
+Peziza succosa Berk., 1841
 
 ### Remarks
 null

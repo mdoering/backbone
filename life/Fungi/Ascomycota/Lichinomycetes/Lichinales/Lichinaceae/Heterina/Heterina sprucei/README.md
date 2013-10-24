@@ -1,5 +1,4 @@
-Heterina sprucei Hue SPECIES
-=======
+# Heterina sprucei Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodinium hindmarchii (Murray & Whitting, 1899) Kofoid, 1906 SPECIES
-=======
+# Heterodinium hindmarchii (Murray & Whitting, 1899) Kofoid, 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus crenatoporus Rostr. SPECIES
-=======
+# Polystictus crenatoporus Rostr. SPECIES
 
 #### Status
 ACCEPTED

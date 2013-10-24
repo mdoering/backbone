@@ -1,5 +1,4 @@
-Hydnum crinitum P. Karst. SPECIES
-=======
+# Hydnum crinitum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

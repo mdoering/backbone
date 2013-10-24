@@ -1,5 +1,4 @@
-Stigmina tamarindi (Syd.) Morgan-Jones & W.B. Kendr. SPECIES
-=======
+# Stigmina tamarindi (Syd.) Morgan-Jones & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

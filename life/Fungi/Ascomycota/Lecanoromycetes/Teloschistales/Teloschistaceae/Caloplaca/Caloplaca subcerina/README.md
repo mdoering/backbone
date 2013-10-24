@@ -1,5 +1,4 @@
-Caloplaca subcerina var. subcerina VARIETY
-=======
+# Caloplaca subcerina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora insularis Speg. SPECIES
-=======
+# Stagonospora insularis Speg. SPECIES
 
 #### Status
 ACCEPTED

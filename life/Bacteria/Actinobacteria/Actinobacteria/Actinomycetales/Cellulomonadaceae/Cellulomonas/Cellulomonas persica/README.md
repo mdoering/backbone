@@ -1,5 +1,4 @@
-Cellulomonas persica Elberson et al., 2000 SPECIES
-=======
+# Cellulomonas persica Elberson et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

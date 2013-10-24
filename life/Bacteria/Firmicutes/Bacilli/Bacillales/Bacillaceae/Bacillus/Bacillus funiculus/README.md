@@ -1,5 +1,4 @@
-Bacillus funiculus Ajithkumar et al., 2002 SPECIES
-=======
+# Bacillus funiculus Ajithkumar et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

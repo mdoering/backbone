@@ -1,5 +1,4 @@
-Usnea betulina Motyka SPECIES
-=======
+# Usnea betulina Motyka SPECIES
 
 #### Status
 ACCEPTED

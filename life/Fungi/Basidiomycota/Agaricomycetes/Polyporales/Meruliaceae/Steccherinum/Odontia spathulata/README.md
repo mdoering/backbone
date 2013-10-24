@@ -1,5 +1,4 @@
-Odontia spathulata (Schwein.) Rea SPECIES
-=======
+# Odontia spathulata (Schwein.) Rea SPECIES
 
 #### Status
 ACCEPTED

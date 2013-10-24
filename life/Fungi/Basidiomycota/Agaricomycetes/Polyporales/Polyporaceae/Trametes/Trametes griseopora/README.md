@@ -1,5 +1,4 @@
-Trametes griseopora Lázaro Ibiza SPECIES
-=======
+# Trametes griseopora Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

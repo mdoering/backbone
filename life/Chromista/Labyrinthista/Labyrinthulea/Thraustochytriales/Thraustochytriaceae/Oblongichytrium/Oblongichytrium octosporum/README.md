@@ -1,14 +1,13 @@
-Schizochytrium octosporum Raghuk., 1988 SPECIES
-=======
+# Oblongichytrium octosporum (Raghuk.) R. Yokoy. & D. Honda, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 90(2): 273 (1988)
+Mycoscience 48(4): 202 (2007)
 
 #### Original name
 Schizochytrium octosporum Raghuk., 1988

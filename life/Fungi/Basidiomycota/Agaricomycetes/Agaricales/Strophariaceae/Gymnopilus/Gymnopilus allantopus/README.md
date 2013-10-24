@@ -1,14 +1,13 @@
-Agaricus allantopus Berk., 1845 SPECIES
-=======
+# Gymnopilus allantopus (Berk.) Pegler, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-London J. Bot. 4: 45 (1845)
+Aust. J. Bot. 13: 324 (1965)
 
 #### Original name
 Agaricus allantopus Berk., 1845

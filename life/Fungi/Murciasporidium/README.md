@@ -1,5 +1,4 @@
-Murciasporidium Thor GENUS
-=======
+# Murciasporidium Thor GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena boninensis (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Mycena boninensis (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

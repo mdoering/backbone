@@ -1,5 +1,4 @@
-Pseudoharpella arcolamylica Ferrington, M.M. White & Lichtw., 2003 SPECIES
-=======
+# Pseudoharpella arcolamylica Ferrington, M.M. White & Lichtw., 2003 SPECIES
 
 #### Status
 ACCEPTED

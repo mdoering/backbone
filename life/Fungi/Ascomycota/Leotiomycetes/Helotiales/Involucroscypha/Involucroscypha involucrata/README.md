@@ -1,14 +1,13 @@
-Dasyscyphus involucratus B. Erikss., 1970 SPECIES
-=======
+# Involucroscypha involucrata (B. Erikss.) Raitv., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 19(4): 6 (1970)
+Mycotaxon 81: 47 (2002)
 
 #### Original name
 Dasyscyphus involucratus B. Erikss., 1970

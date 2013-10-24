@@ -1,5 +1,4 @@
-Anabaena thermalis V. Vouk SPECIES
-=======
+# Anabaena thermalis V. Vouk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora retorida Chaub. SPECIES
-=======
+# Lecanora retorida Chaub. SPECIES
 
 #### Status
 ACCEPTED

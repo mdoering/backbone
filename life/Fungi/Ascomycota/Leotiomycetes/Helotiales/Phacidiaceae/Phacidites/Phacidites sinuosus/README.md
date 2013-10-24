@@ -1,5 +1,4 @@
-Phacidites sinuosus (R. Ludw.) Schimp. SPECIES
-=======
+# Phacidites sinuosus (R. Ludw.) Schimp. SPECIES
 
 #### Status
 ACCEPTED

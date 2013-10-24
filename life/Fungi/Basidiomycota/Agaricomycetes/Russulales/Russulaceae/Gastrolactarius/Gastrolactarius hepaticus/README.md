@@ -1,5 +1,4 @@
-Gastrolactarius hepaticus (G.W. Beaton, Pegler & T.W.K. Young) J.M. Vidal SPECIES
-=======
+# Gastrolactarius hepaticus (G.W. Beaton, Pegler & T.W.K. Young) J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

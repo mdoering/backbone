@@ -1,5 +1,4 @@
-Silobia GENUS
-=======
+# Silobia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridinium diabolum SPECIES
-=======
+# Peridinium diabolum SPECIES
 
 #### Status
 ACCEPTED

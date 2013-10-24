@@ -1,17 +1,16 @@
-Conocybe leucopoda Kühner, 1935 SPECIES
-=======
+# Conocybe leucopus Kühner ex Kühner & Watling, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Le Genere Galera 7: 82 (1935)
+in Watling, Notes R. bot. Gdn Edinb. 40(3): 539 (1983)
 
 #### Original name
-Conocybe leucopoda Kühner, 1935
+Conocybe leucopus Kühner ex Kühner & Watling, 1983
 
 ### Remarks
 null

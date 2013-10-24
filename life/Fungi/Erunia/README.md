@@ -1,5 +1,4 @@
-Erunia GENUS
-=======
+# Erunia GENUS
 
 #### Status
 ACCEPTED

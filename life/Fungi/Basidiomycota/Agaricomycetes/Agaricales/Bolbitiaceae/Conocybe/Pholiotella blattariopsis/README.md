@@ -1,5 +1,4 @@
-Pholiotella blattariopsis Speg. SPECIES
-=======
+# Pholiotella blattariopsis Speg. SPECIES
 
 #### Status
 ACCEPTED

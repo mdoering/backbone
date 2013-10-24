@@ -1,17 +1,16 @@
-Aspidelia Stirt. GENUS
-=======
+# Parmelia Ach. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 32: 81 (1900)
+Method. Lich. xxxiii, 153 (1803)
 
 #### Original name
-Aspidelia Stirt.
+Parmelia Ach.
 
 ### Remarks
 null

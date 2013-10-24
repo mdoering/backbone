@@ -1,5 +1,4 @@
-Mycenella trachyspora (Rea) Bon SPECIES
-=======
+# Mycenella trachyspora (Rea) Bon SPECIES
 
 #### Status
 ACCEPTED

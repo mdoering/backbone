@@ -1,5 +1,4 @@
-Poria ochracea Murrill SPECIES
-=======
+# Poria ochracea Murrill SPECIES
 
 #### Status
 ACCEPTED

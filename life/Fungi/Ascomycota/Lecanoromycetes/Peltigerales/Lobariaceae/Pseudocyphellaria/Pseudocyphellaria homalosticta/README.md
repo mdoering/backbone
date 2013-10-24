@@ -1,5 +1,4 @@
-Pseudocyphellaria homalosticta Vain. SPECIES
-=======
+# Pseudocyphellaria homalosticta Vain. SPECIES
 
 #### Status
 ACCEPTED

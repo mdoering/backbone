@@ -1,5 +1,4 @@
-Vaucheriaceae Dumortier, 1822 FAMILY
-=======
+# Vaucheriaceae Dumortier, 1822 FAMILY
 
 #### Status
 ACCEPTED

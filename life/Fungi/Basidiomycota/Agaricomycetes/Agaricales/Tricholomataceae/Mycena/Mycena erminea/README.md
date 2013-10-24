@@ -1,5 +1,4 @@
-Mycena erminea Maas Geest. SPECIES
-=======
+# Mycena erminea Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

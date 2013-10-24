@@ -1,5 +1,4 @@
-Endoplura aurea Hollenberg, 1969 SPECIES
-=======
+# Endoplura aurea Hollenberg, 1969 SPECIES
 
 #### Status
 ACCEPTED

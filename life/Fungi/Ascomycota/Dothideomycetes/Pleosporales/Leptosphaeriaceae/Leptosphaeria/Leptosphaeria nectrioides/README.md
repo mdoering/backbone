@@ -1,17 +1,16 @@
-Heptameria nectrioides (Speg.) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria nectrioides Speg., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 5): 456 (1878)
 
 #### Original name
-null
+Leptosphaeria nectrioides Speg., 1878
 
 ### Remarks
 null

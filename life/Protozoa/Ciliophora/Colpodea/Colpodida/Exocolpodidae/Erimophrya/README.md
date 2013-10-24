@@ -1,5 +1,4 @@
-Erimophrya Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Erimophrya Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

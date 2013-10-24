@@ -1,17 +1,16 @@
-Lophium caulicolum Teng SPECIES
-=======
+# Lophium caulicola Teng SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sinensia, Shanghai 7: 492 (1936)
 
 #### Original name
-Lophium caulicolum Teng
+Lophium caulicola Teng
 
 ### Remarks
 null

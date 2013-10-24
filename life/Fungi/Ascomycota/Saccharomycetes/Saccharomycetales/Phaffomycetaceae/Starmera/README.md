@@ -1,5 +1,4 @@
-Starmera Y. Yamada, Higashi, S. Ando & Mikata GENUS
-=======
+# Starmera Y. Yamada, Higashi, S. Ando & Mikata GENUS
 
 #### Status
 ACCEPTED

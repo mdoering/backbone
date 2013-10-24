@@ -1,5 +1,4 @@
-Pertusaria cerussata var. cerussata VARIETY
-=======
+# Pertusaria cerussata Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria cerussata var. cerussata
+Pertusaria cerussata Malme
 
 ### Remarks
 null

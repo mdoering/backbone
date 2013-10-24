@@ -1,5 +1,4 @@
-Hypomyces sulphureus Syd. & P. Syd. SPECIES
-=======
+# Hypomyces sulphureus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

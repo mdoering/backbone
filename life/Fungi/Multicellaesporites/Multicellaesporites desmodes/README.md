@@ -1,5 +1,4 @@
-Multicellaesporites desmodes P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites desmodes P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

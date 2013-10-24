@@ -1,5 +1,4 @@
-Puccinia krigiae Syd. {?} SPECIES
-=======
+# Puccinia krigiae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

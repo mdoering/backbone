@@ -1,5 +1,4 @@
-Uredo novae-zelandiae G.F. Laundon SPECIES
-=======
+# Uredo novae-zelandiae G.F. Laundon SPECIES
 
 #### Status
 ACCEPTED

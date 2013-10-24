@@ -1,5 +1,4 @@
-Aureoboletus novoguineensis Hongo, 1973 SPECIES
-=======
+# Aureoboletus novoguineensis Hongo, 1973 SPECIES
 
 #### Status
 ACCEPTED

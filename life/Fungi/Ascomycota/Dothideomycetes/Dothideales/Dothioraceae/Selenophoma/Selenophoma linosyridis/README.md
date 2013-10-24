@@ -1,5 +1,4 @@
-Selenophoma linosyridis Petr. SPECIES
-=======
+# Selenophoma linosyridis Petr. SPECIES
 
 #### Status
 ACCEPTED

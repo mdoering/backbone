@@ -1,17 +1,16 @@
-Sphaeria phlyctanoides Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria phlyctaenoides Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 32): 151 (1876)
 
 #### Original name
-Sphaeria phlyctanoides Berk. & M.A. Curtis
+Sphaeria phlyctaenoides Berk. & M.A. Curtis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ellobiospidae FAMILY
-=======
+# Ellobiospidae FAMILY
 
 #### Status
 ACCEPTED

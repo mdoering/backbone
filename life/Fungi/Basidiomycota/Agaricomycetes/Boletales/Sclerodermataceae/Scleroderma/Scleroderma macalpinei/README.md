@@ -1,5 +1,4 @@
-Scleroderma macalpinei (Rodway) Castellano, 1993 SPECIES
-=======
+# Scleroderma macalpinei (Rodway) Castellano, 1993 SPECIES
 
 #### Status
 ACCEPTED

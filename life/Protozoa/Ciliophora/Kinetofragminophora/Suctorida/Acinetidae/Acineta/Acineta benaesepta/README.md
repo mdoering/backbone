@@ -1,5 +1,4 @@
-Acineta benaesepta SPECIES
-=======
+# Acineta benaesepta SPECIES
 
 #### Status
 ACCEPTED

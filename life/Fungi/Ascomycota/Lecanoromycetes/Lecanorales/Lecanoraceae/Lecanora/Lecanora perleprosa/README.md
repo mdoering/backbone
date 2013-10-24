@@ -1,5 +1,4 @@
-Lecanora perleprosa Räsänen SPECIES
-=======
+# Lecanora perleprosa Räsänen SPECIES
 
 #### Status
 ACCEPTED

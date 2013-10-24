@@ -1,14 +1,13 @@
-Micropuccinia rubefaciens (Johanson) Arthur & H.S. Jacks., 1921 SPECIES
-=======
+# Puccinia rubefaciens Johanson, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 48: 41 (1921)
+Bot. Notiser 174 (1886)
 
 #### Original name
 Puccinia rubefaciens Johanson, 1886

@@ -1,5 +1,4 @@
-Ptilopogon Reinke, 1890 GENUS
-=======
+# Ptilopogon Reinke, 1890 GENUS
 
 #### Status
 ACCEPTED

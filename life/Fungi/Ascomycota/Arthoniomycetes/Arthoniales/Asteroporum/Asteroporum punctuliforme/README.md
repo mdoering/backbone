@@ -1,14 +1,13 @@
-Asterotrema punctuliforme Müll. Arg. SPECIES
-=======
+# Asteroporum punctuliforme (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 3: 324 (1895)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Edn 2 8: 93 (1926)
 
 #### Original name
 Asterotrema punctuliforme Müll. Arg.

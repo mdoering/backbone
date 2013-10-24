@@ -1,5 +1,4 @@
-Gymnodinium incoloratum Conad & Kufferath SPECIES
-=======
+# Gymnodinium incoloratum Conad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

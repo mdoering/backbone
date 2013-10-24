@@ -1,5 +1,4 @@
-Graphis compulsa Kremp. SPECIES
-=======
+# Graphis compulsa Kremp. SPECIES
 
 #### Status
 ACCEPTED

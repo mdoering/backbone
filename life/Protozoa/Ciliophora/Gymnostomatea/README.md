@@ -1,5 +1,4 @@
-Gymnostomatea CLASS
-=======
+# Gymnostomatea CLASS
 
 #### Status
 ACCEPTED

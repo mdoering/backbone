@@ -1,5 +1,4 @@
-Porina vanuatuensis Lücking SPECIES
-=======
+# Porina vanuatuensis Lücking SPECIES
 
 #### Status
 ACCEPTED

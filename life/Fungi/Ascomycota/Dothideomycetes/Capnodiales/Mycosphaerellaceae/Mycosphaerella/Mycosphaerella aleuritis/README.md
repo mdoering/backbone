@@ -1,17 +1,16 @@
-Mycosphaerella aleuritidis (I. Miyake) S.H. Ou, 1940 SPECIES
-=======
+# Mycosphaerella aleuritis (I. Miyake) S.H. Ou, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sinensia, Shanghai 11: 183 (1940)
 
 #### Original name
-Mycosphaerella aleuritidis (I. Miyake) S.H. Ou, 1940
+Mycosphaerella aleuritis (I. Miyake) S.H. Ou, 1940
 
 ### Remarks
 null

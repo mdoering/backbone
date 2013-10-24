@@ -1,5 +1,4 @@
-Clavaria subflava Britzelm. SPECIES
-=======
+# Clavaria subflava Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema blanchetii (Hue) SPECIES
-=======
+# Parmotrema blanchetii (Hue) SPECIES
 
 #### Status
 ACCEPTED

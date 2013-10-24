@@ -1,5 +1,4 @@
-Testudomyces Cano, M. Solé & Guarro GENUS
-=======
+# Testudomyces Cano, M. Solé & Guarro GENUS
 
 #### Status
 ACCEPTED

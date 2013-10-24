@@ -1,5 +1,4 @@
-Armillaria multicolor (Berk.) Sacc. SPECIES
-=======
+# Armillaria multicolor (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acaulopage stenospora Drechsler, 1941 SPECIES
-=======
+# Acaulopage stenospora Drechsler, 1941 SPECIES
 
 #### Status
 ACCEPTED

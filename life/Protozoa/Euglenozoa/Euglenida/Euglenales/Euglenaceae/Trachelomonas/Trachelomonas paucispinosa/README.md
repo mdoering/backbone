@@ -1,5 +1,4 @@
-Trachelomonas paucispinosa Playfair SPECIES
-=======
+# Trachelomonas paucispinosa Playfair SPECIES
 
 #### Status
 ACCEPTED

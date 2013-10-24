@@ -1,5 +1,4 @@
-Phyllosticta piperis-betae Sawada SPECIES
-=======
+# Phyllosticta piperis-betae Sawada SPECIES
 
 #### Status
 ACCEPTED

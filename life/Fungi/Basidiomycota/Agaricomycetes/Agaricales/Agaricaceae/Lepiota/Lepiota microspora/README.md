@@ -1,5 +1,4 @@
-Lepiota microspora (Ellis) Singer SPECIES
-=======
+# Lepiota microspora (Ellis) Singer SPECIES
 
 #### Status
 ACCEPTED

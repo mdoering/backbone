@@ -1,5 +1,4 @@
-Virgulina squamosa d'Orbigny, 1826 SPECIES
-=======
+# Virgulina squamosa d'Orbigny, 1826 SPECIES
 
 #### Status
 DOUBTFUL

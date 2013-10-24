@@ -1,5 +1,4 @@
-Septoria pachysandrae Dearn. SPECIES
-=======
+# Septoria pachysandrae Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora duplicata Ellis & Everh. SPECIES
-=======
+# Cercospora duplicata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

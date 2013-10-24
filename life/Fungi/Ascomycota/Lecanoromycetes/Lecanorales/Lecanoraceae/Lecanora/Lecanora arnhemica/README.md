@@ -1,5 +1,4 @@
-Lecanora arnhemica Lumbsch SPECIES
-=======
+# Lecanora arnhemica Lumbsch SPECIES
 
 #### Status
 ACCEPTED

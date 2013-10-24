@@ -1,5 +1,4 @@
-Gymnosporangium sabinum Fr. SPECIES
-=======
+# Gymnosporangium sabinum Fr. SPECIES
 
 #### Status
 ACCEPTED

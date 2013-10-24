@@ -1,5 +1,4 @@
-Graphium bambusae (Höhn.) Sacc. SPECIES
-=======
+# Graphium bambusae (Höhn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenosolenia pacifica (Parr, 1950) SPECIES
-=======
+# Lagenosolenia pacifica (Parr, 1950) SPECIES
 
 #### Status
 ACCEPTED

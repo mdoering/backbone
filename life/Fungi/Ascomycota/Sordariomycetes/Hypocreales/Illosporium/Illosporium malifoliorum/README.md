@@ -1,5 +1,4 @@
-Illosporium malifoliorum J. Sheld. SPECIES
-=======
+# Illosporium malifoliorum J. Sheld. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neisseria perflava Bergey et al., 1923 (Approved Lists, 1980) SPECIES
-=======
+# Neisseria perflava Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

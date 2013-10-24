@@ -1,5 +1,4 @@
-Xanthoria coralloidea (Flot. ex Hillmann) Szatala SPECIES
-=======
+# Xanthoria coralloidea (Flot. ex Hillmann) Szatala SPECIES
 
 #### Status
 ACCEPTED

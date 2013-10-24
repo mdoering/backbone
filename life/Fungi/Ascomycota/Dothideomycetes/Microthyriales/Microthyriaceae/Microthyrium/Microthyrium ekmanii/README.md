@@ -1,5 +1,4 @@
-Microthyrium ekmanii Petr. & Cif. SPECIES
-=======
+# Microthyrium ekmanii Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

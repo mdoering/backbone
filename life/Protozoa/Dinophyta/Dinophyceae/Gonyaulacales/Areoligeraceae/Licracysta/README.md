@@ -1,5 +1,4 @@
-Licracysta R.A. Fensome, G.R. Guerstein & G.L. Williams, 2007 GENUS
-=======
+# Licracysta R.A. Fensome, G.R. Guerstein & G.L. Williams, 2007 GENUS
 
 #### Status
 ACCEPTED

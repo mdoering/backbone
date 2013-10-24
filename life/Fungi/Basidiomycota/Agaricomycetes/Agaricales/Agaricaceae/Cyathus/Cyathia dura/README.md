@@ -1,5 +1,4 @@
-Cyathia dura V.S. White SPECIES
-=======
+# Cyathia dura V.S. White SPECIES
 
 #### Status
 ACCEPTED

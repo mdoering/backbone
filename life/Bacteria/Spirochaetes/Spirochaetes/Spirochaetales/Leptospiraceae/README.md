@@ -1,5 +1,4 @@
-Leptospiraceae FAMILY
-=======
+# Leptospiraceae FAMILY
 
 #### Status
 ACCEPTED

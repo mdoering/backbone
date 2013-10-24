@@ -1,5 +1,4 @@
-Diploschistella urceolata Vain. SPECIES
-=======
+# Diploschistella urceolata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytosporina salsolae Urries SPECIES
-=======
+# Cytosporina salsolae Urries SPECIES
 
 #### Status
 ACCEPTED

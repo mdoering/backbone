@@ -1,5 +1,4 @@
-Globigerina dutertrei D'Orbigny SPECIES
-=======
+# Globigerina dutertrei D'Orbigny SPECIES
 
 #### Status
 ACCEPTED

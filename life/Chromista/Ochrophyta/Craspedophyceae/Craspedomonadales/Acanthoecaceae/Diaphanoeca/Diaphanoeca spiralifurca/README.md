@@ -1,5 +1,4 @@
-Diaphanoeca spiralifurca Hara in Hara et al. SPECIES
-=======
+# Diaphanoeca spiralifurca Hara in Hara et al. SPECIES
 
 #### Status
 ACCEPTED

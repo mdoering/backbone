@@ -1,5 +1,4 @@
-Loxostomum amygdalaeformis Cushman, 1929 SPECIES
-=======
+# Loxostomum amygdalaeformis Cushman, 1929 SPECIES
 
 #### Status
 ACCEPTED

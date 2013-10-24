@@ -1,5 +1,4 @@
-Collybia terpentina G.H. Otth SPECIES
-=======
+# Collybia terpentina G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

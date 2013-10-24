@@ -1,5 +1,4 @@
-Cordyceps platypoda Lév. SPECIES
-=======
+# Cordyceps platypoda Lév. SPECIES
 
 #### Status
 ACCEPTED

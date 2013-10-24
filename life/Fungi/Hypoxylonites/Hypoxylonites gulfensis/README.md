@@ -1,5 +1,4 @@
-Hypoxylonites gulfensis Elsik SPECIES
-=======
+# Hypoxylonites gulfensis Elsik SPECIES
 
 #### Status
 ACCEPTED

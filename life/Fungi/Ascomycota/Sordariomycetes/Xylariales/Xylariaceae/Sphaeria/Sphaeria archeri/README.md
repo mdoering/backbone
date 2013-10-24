@@ -1,5 +1,4 @@
-Sphaeria archeri Berk. SPECIES
-=======
+# Sphaeria archeri Berk. SPECIES
 
 #### Status
 ACCEPTED

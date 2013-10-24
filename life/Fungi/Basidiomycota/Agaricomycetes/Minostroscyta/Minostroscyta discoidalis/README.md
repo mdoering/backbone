@@ -1,5 +1,4 @@
-Minostroscyta discoidalis Hjortstam & Ryvarden, 2001 SPECIES
-=======
+# Minostroscyta discoidalis Hjortstam & Ryvarden, 2001 SPECIES
 
 #### Status
 ACCEPTED

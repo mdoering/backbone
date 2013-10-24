@@ -1,8 +1,7 @@
-Pleurotus harmandi Har. & Pat. SPECIES
-=======
+# Pleurotus harmandii Har. & Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleurotus harmandi Har. & Pat.
+Pleurotus harmandii Har. & Pat.
 
 ### Remarks
 null

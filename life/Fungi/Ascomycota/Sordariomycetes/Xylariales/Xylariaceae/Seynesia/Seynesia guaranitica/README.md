@@ -1,5 +1,4 @@
-Seynesia guaranitica Speg. SPECIES
-=======
+# Seynesia guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

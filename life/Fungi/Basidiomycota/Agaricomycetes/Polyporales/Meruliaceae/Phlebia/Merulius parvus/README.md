@@ -1,5 +1,4 @@
-Merulius parvus (G.H. Otth) Kuntze SPECIES
-=======
+# Merulius parvus (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrodochium lignorum Fautrey SPECIES
-=======
+# Dendrodochium lignorum Fautrey SPECIES
 
 #### Status
 ACCEPTED

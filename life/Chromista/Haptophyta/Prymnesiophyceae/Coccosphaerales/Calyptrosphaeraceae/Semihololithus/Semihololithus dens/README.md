@@ -1,5 +1,4 @@
-Semihololithus dens SPECIES
-=======
+# Semihololithus dens SPECIES
 
 #### Status
 ACCEPTED

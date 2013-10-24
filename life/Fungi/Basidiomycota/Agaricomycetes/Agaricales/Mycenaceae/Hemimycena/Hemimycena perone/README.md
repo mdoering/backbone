@@ -1,5 +1,4 @@
-Hemimycena perone (Berk. & Broome) Pegler SPECIES
-=======
+# Hemimycena perone (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

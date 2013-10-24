@@ -1,5 +1,4 @@
-Actinomyces micetomae Greco SPECIES
-=======
+# Actinomyces micetomae Greco SPECIES
 
 #### Status
 ACCEPTED

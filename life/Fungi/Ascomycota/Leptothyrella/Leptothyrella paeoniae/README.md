@@ -1,5 +1,4 @@
-Leptothyrella paeoniae Henn. SPECIES
-=======
+# Leptothyrella paeoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

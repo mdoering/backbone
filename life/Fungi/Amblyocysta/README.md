@@ -1,5 +1,4 @@
-Amblyocysta Kilochitsky, 1996 GENUS
-=======
+# Amblyocysta Kilochitsky, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multicellaesporites granulatus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites granulatus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

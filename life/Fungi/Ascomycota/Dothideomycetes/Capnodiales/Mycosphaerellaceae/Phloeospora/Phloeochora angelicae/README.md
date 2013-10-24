@@ -1,5 +1,4 @@
-Phloeochora angelicae Höhn. SPECIES
-=======
+# Phloeochora angelicae Höhn. SPECIES
 
 #### Status
 ACCEPTED

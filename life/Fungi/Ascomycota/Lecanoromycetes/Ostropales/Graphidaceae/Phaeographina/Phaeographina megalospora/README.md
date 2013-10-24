@@ -1,5 +1,4 @@
-Phaeographina megalospora A.W. Archer SPECIES
-=======
+# Phaeographina megalospora A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

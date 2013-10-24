@@ -1,5 +1,4 @@
-Lichinella hondoana (Zahlbr.) P.P. Moreno & Egea SPECIES
-=======
+# Lichinella hondoana (Zahlbr.) P.P. Moreno & Egea SPECIES
 
 #### Status
 ACCEPTED

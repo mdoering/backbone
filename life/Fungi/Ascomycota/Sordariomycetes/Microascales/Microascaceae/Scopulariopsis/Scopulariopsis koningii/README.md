@@ -1,5 +1,4 @@
-Scopulariopsis koningii (Oudem.) Vuill., 1911 SPECIES
-=======
+# Scopulariopsis koningii (Oudem.) Vuill., 1911 SPECIES
 
 #### Status
 ACCEPTED

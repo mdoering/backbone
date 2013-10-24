@@ -1,5 +1,4 @@
-Discorbis acervulinoides Parr SPECIES
-=======
+# Discorbis acervulinoides Parr SPECIES
 
 #### Status
 ACCEPTED

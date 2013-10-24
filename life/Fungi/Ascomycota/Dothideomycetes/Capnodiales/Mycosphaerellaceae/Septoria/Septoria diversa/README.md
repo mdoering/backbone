@@ -1,5 +1,4 @@
-Septoria diversa Sacc. & P. Syd. SPECIES
-=======
+# Septoria diversa Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

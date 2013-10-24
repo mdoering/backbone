@@ -1,5 +1,4 @@
-Usnea carpinea Bystrek SPECIES
-=======
+# Usnea carpinea Bystrek SPECIES
 
 #### Status
 ACCEPTED

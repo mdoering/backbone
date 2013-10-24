@@ -1,5 +1,4 @@
-Physcia subtilis Degel. SPECIES
-=======
+# Physcia subtilis Degel. SPECIES
 
 #### Status
 ACCEPTED

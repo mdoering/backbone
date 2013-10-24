@@ -1,5 +1,4 @@
-Lepiota crustata Velen. SPECIES
-=======
+# Lepiota crustata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zamenhofia rosei (Sérus.) P. James SPECIES
-=======
+# Zamenhofia rosei (Sérus.) P. James SPECIES
 
 #### Status
 ACCEPTED

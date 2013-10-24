@@ -1,8 +1,7 @@
-Acineta notonectae Claparède & Lachmann, 1859 SPECIES
-=======
+# Periacineta notonectae (Claparède & Lachmann, 1859) Dovgal, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

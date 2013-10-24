@@ -1,5 +1,4 @@
-Agaricus oenopus Berk. & Broome SPECIES
-=======
+# Agaricus oenopus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

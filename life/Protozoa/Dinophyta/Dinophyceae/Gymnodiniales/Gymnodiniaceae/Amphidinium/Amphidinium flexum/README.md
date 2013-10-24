@@ -1,5 +1,4 @@
-Amphidinium flexum Herdman SPECIES
-=======
+# Amphidinium flexum Herdman SPECIES
 
 #### Status
 ACCEPTED

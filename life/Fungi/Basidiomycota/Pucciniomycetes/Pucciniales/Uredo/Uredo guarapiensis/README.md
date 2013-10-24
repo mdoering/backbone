@@ -1,5 +1,4 @@
-Uredo guarapiensis Speg. SPECIES
-=======
+# Uredo guarapiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

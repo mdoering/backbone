@@ -1,5 +1,4 @@
-Amphiacantha longa Caullery & Mesnil SPECIES
-=======
+# Amphiacantha longa Caullery & Mesnil SPECIES
 
 #### Status
 ACCEPTED

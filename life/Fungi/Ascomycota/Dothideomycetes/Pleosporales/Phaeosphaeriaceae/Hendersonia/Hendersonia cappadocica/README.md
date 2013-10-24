@@ -1,5 +1,4 @@
-Hendersonia cappadocica Petr. SPECIES
-=======
+# Hendersonia cappadocica Petr. SPECIES
 
 #### Status
 ACCEPTED

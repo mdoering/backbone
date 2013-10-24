@@ -1,5 +1,4 @@
-Diplodia aceris Fuckel SPECIES
-=======
+# Diplodia aceris Fuckel SPECIES
 
 #### Status
 ACCEPTED

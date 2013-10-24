@@ -1,5 +1,4 @@
-Taphrina japonica Kusano SPECIES
-=======
+# Taphrina japonica Kusano SPECIES
 
 #### Status
 ACCEPTED

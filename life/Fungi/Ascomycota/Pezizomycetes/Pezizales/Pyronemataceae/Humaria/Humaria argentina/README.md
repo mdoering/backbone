@@ -1,5 +1,4 @@
-Humaria argentina (Speg.) Sacc. SPECIES
-=======
+# Humaria argentina (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

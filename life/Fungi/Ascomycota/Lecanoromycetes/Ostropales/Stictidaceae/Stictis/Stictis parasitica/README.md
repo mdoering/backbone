@@ -1,5 +1,4 @@
-Stictis parasitica Ellis & Everh. SPECIES
-=======
+# Stictis parasitica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

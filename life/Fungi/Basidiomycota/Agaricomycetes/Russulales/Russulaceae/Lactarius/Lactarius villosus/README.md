@@ -1,5 +1,4 @@
-Lactarius villosus Clem. SPECIES
-=======
+# Lactarius villosus Clem. SPECIES
 
 #### Status
 ACCEPTED

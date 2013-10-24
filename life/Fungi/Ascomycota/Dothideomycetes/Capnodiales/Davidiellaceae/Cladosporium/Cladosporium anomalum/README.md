@@ -1,5 +1,4 @@
-Cladosporium anomalum Berk. & M.A. Curtis SPECIES
-=======
+# Cladosporium anomalum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

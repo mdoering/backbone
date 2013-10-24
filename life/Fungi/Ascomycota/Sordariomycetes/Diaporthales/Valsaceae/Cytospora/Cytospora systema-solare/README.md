@@ -1,5 +1,4 @@
-Cytospora systema-solare Naumov SPECIES
-=======
+# Cytospora systema-solare Naumov SPECIES
 
 #### Status
 ACCEPTED

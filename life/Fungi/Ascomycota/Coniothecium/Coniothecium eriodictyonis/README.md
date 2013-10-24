@@ -1,5 +1,4 @@
-Coniothecium eriodictyonis Dearn. & Barthol. SPECIES
-=======
+# Coniothecium eriodictyonis Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

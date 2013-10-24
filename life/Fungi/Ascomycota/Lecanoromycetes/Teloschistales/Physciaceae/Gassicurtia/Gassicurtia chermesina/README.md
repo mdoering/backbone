@@ -1,5 +1,4 @@
-Gassicurtia chermesina (Kalb) Marbach SPECIES
-=======
+# Gassicurtia chermesina (Kalb) Marbach SPECIES
 
 #### Status
 ACCEPTED

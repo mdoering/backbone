@@ -1,5 +1,4 @@
-Sphaerotheca cassiae Pandotra & Ganguly SPECIES
-=======
+# Sphaerotheca cassiae Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

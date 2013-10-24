@@ -1,5 +1,4 @@
-Helotium ammoides (Sacc.) Seaver SPECIES
-=======
+# Helotium ammoides (Sacc.) Seaver SPECIES
 
 #### Status
 ACCEPTED

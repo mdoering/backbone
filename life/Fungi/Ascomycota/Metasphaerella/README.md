@@ -1,5 +1,4 @@
-Metasphaerella Speg. GENUS
-=======
+# Metasphaerella Speg. GENUS
 
 #### Status
 ACCEPTED

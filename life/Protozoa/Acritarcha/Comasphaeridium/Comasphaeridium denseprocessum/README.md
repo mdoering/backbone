@@ -1,5 +1,4 @@
-Comasphaeridium denseprocessum Cramer & Díez, 1977 SPECIES
-=======
+# Comasphaeridium denseprocessum Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

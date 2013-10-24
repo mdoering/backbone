@@ -1,5 +1,4 @@
-Sphaerographium squarrosum (Riess) Sacc. SPECIES
-=======
+# Sphaerographium squarrosum (Riess) Sacc. SPECIES
 
 #### Status
 ACCEPTED

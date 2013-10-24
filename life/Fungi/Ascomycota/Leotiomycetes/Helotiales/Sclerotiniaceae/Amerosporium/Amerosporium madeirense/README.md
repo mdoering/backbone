@@ -1,5 +1,4 @@
-Amerosporium madeirense Torrend SPECIES
-=======
+# Amerosporium madeirense Torrend SPECIES
 
 #### Status
 ACCEPTED

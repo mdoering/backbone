@@ -1,5 +1,4 @@
-Macropodia hypocrateriformis (Schaeff.) Sacc. SPECIES
-=======
+# Macropodia hypocrateriformis (Schaeff.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

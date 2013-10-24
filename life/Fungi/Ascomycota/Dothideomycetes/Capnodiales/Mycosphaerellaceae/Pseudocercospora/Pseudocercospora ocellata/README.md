@@ -1,5 +1,4 @@
-Pseudocercospora ocellata (Deighton) Deighton SPECIES
-=======
+# Pseudocercospora ocellata (Deighton) Deighton SPECIES
 
 #### Status
 ACCEPTED

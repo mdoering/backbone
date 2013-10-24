@@ -1,5 +1,4 @@
-Phyllachora plantaginis Ellis & Everh., 1895 SPECIES
-=======
+# Phyllachora plantaginis Ellis & Everh., 1895 SPECIES
 
 #### Status
 DOUBTFUL

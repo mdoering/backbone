@@ -1,5 +1,4 @@
-Smittium cellaspora M.C. Williams, 1982 SPECIES
-=======
+# Smittium cellaspora M.C. Williams, 1982 SPECIES
 
 #### Status
 ACCEPTED

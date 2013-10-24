@@ -1,5 +1,4 @@
-Leciographa malenconiana Llimona & Werner SPECIES
-=======
+# Leciographa malenconiana Llimona & Werner SPECIES
 
 #### Status
 ACCEPTED

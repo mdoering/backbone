@@ -1,17 +1,16 @@
-Hygrophorus camarophyllus f. camarophyllus FORM
-=======
+# Hygrophorus camarophyllus (Alb. & Schwein.) Dumée, Grandjean & Maire, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. mycol. Fr. 28: 292 (1912)
 
 #### Original name
-Hygrophorus camarophyllus f. camarophyllus
+Agaricus camarophyllus Alb. & Schwein., 1805
 
 ### Remarks
 null

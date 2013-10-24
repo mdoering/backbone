@@ -1,5 +1,4 @@
-Thelephora rufofulva Mont. SPECIES
-=======
+# Thelephora rufofulva Mont. SPECIES
 
 #### Status
 ACCEPTED

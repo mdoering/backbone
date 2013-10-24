@@ -1,5 +1,4 @@
-Marasmius splitgerberi (Mont.) Singer SPECIES
-=======
+# Marasmius splitgerberi (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

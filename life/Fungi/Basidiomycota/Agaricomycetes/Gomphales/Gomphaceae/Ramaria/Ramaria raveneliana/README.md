@@ -1,14 +1,13 @@
-Ramaria conjunctipes f. raveneliana (Coker) R.H. Petersen, 1984 FORM
-=======
+# Ramaria raveneliana (Coker) R.H. Petersen, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Taxonomy of Fungi (Madras), (<i>Proc. int. Symp. Madras, 1973</i>) Part 2 2: 569 (1984)
+Sydowia 35: 195 (1982)
 
 #### Original name
 Clavaria raveneliana Coker, 1947

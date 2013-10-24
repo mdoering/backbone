@@ -1,5 +1,4 @@
-Sargogyne Flot. GENUS
-=======
+# Sargogyne Flot. GENUS
 
 #### Status
 ACCEPTED

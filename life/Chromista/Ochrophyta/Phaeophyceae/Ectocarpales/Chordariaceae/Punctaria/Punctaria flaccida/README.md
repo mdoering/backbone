@@ -1,5 +1,4 @@
-Punctaria flaccida Nagai SPECIES
-=======
+# Punctaria flaccida Nagai SPECIES
 
 #### Status
 ACCEPTED

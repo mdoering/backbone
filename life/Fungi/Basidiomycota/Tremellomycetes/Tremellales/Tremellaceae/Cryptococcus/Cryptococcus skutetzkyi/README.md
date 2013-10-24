@@ -1,5 +1,4 @@
-Cryptococcus skutetzkyi M. Ota SPECIES
-=======
+# Cryptococcus skutetzkyi M. Ota SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza annularis Batsch SPECIES
-=======
+# Peziza annularis Batsch SPECIES
 
 #### Status
 ACCEPTED

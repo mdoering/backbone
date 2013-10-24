@@ -1,5 +1,4 @@
-Puccinia mauritanica Maire SPECIES
-=======
+# Puccinia mauritanica Maire SPECIES
 
 #### Status
 ACCEPTED

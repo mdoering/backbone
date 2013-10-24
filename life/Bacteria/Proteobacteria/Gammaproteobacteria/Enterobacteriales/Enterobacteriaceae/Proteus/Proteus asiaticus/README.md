@@ -1,5 +1,4 @@
-Proteus asiaticus SPECIES
-=======
+# Proteus asiaticus SPECIES
 
 #### Status
 ACCEPTED

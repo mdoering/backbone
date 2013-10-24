@@ -1,14 +1,13 @@
-Physalospora cryptomeriae Hara, 1918 SPECIES
-=======
+# Plectosphaera cryptomeriae (Hara) Tak. Kobay., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Plant Protection, Tokyo 5: 805 (1918)
+Trans. Mycol. Soc. Japan 11(2): 62 (1970)
 
 #### Original name
 Physalospora cryptomeriae Hara, 1918

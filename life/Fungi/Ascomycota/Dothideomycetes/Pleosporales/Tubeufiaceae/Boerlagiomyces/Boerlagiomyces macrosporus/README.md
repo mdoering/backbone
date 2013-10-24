@@ -1,5 +1,4 @@
-Boerlagiomyces macrosporus V.G. Rao & Varghese SPECIES
-=======
+# Boerlagiomyces macrosporus V.G. Rao & Varghese SPECIES
 
 #### Status
 ACCEPTED

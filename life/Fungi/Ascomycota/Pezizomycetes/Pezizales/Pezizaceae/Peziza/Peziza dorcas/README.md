@@ -1,5 +1,4 @@
-Peziza dorcas Berk. & Broome SPECIES
-=======
+# Peziza dorcas Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

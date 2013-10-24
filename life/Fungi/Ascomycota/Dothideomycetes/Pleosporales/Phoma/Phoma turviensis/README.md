@@ -1,5 +1,4 @@
-Phoma turviensis Truszk. SPECIES
-=======
+# Phoma turviensis Truszk. SPECIES
 
 #### Status
 ACCEPTED

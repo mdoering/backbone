@@ -1,17 +1,16 @@
-Pyropolyporus pusillus var. pusillus VARIETY
-=======
+# Phellinus pusillus (Lloyd) Ryvarden, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Chung-kuo Ti Chen-chun, [Fungi of China] 763 (1963)
+Mycotaxon 35(2): 234 (1989)
 
 #### Original name
-Pyropolyporus pusillus var. pusillus
+Fomes pusillus Lloyd, 1915
 
 ### Remarks
 null

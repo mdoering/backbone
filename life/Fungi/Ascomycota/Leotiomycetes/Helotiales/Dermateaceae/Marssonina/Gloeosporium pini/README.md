@@ -1,5 +1,4 @@
-Gloeosporium pini Oudem. SPECIES
-=======
+# Gloeosporium pini Oudem. SPECIES
 
 #### Status
 ACCEPTED

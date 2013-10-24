@@ -1,5 +1,4 @@
-Ostreola consociata Darker, 1963 SPECIES
-=======
+# Ostreola consociata Darker, 1963 SPECIES
 
 #### Status
 ACCEPTED

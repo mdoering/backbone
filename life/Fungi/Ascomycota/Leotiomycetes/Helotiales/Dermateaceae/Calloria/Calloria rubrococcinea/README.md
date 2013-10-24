@@ -1,5 +1,4 @@
-Calloria rubrococcinea Rehm SPECIES
-=======
+# Calloria rubrococcinea Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon weberi Ach. SPECIES
-=======
+# Endocarpon weberi Ach. SPECIES
 
 #### Status
 ACCEPTED

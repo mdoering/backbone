@@ -1,5 +1,4 @@
-Arthonia leptospora Müll. Arg. SPECIES
-=======
+# Arthonia leptospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

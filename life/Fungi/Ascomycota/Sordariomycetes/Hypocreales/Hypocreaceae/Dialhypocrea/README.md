@@ -1,5 +1,4 @@
-Dialhypocrea Speg. GENUS
-=======
+# Dialhypocrea Speg. GENUS
 
 #### Status
 ACCEPTED

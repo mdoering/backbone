@@ -1,5 +1,4 @@
-Oligoisotricha Imai, 1981 GENUS
-=======
+# Oligoisotricha Imai, 1981 GENUS
 
 #### Status
 ACCEPTED

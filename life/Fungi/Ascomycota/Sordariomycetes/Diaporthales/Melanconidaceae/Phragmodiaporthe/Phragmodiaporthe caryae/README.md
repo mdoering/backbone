@@ -1,14 +1,13 @@
-Ophiovalsa caryae (Peck) J.N. Kapoor & S.P. Lal, 1982 SPECIES
-=======
+# Phragmodiaporthe caryae (Peck) Wehm., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Phytopath. 35(1): 144 (1982)
+Mycologia 33: 55 (1941)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Galera pseudotenera Speg. SPECIES
-=======
+# Galera pseudotenera Speg. SPECIES
 
 #### Status
 ACCEPTED

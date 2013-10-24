@@ -1,5 +1,4 @@
-Lophodermium infectans Mayr SPECIES
-=======
+# Lophodermium infectans Mayr SPECIES
 
 #### Status
 ACCEPTED

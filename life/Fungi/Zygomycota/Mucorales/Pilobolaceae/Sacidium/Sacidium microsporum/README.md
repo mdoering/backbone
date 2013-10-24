@@ -1,5 +1,4 @@
-Sacidium microsporum F. Lamb. & Fautrey SPECIES
-=======
+# Sacidium microsporum F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

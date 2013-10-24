@@ -1,5 +1,4 @@
-Rosellinia freycinetiae L.E. Petrini, 2003 SPECIES
-=======
+# Rosellinia freycinetiae L.E. Petrini, 2003 SPECIES
 
 #### Status
 ACCEPTED

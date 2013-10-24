@@ -1,5 +1,4 @@
-Gymnosporangium phaeospermum Corda SPECIES
-=======
+# Gymnosporangium phaeospermum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macowanites galileensis M.M. Moser, Binyam. & Aviz.-Hersh. SPECIES
-=======
+# Macowanites galileensis M.M. Moser, Binyam. & Aviz.-Hersh. SPECIES
 
 #### Status
 ACCEPTED

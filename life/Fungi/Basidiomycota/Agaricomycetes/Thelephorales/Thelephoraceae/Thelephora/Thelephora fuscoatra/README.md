@@ -1,5 +1,4 @@
-Thelephora fuscoatra Fr. SPECIES
-=======
+# Thelephora fuscoatra Fr. SPECIES
 
 #### Status
 ACCEPTED

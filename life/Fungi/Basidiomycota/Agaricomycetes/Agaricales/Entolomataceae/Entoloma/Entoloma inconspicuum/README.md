@@ -1,5 +1,4 @@
-Entoloma inconspicuum G. Stev. SPECIES
-=======
+# Entoloma inconspicuum G. Stev. SPECIES
 
 #### Status
 ACCEPTED

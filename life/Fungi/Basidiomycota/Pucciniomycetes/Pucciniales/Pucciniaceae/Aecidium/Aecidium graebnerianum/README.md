@@ -1,5 +1,4 @@
-Aecidium graebnerianum Henn. SPECIES
-=======
+# Aecidium graebnerianum Henn. SPECIES
 
 #### Status
 ACCEPTED

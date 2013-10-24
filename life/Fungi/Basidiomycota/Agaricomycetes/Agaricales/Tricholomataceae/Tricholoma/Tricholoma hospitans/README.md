@@ -1,5 +1,4 @@
-Tricholoma hospitans Fr. SPECIES
-=======
+# Tricholoma hospitans Fr. SPECIES
 
 #### Status
 ACCEPTED

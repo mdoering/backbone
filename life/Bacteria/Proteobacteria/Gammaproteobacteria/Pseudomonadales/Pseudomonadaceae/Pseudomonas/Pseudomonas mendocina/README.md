@@ -1,5 +1,4 @@
-Pseudomonas mendocina Palleroni, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas mendocina Palleroni, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

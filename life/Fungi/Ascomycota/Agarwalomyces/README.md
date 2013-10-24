@@ -1,5 +1,4 @@
-Agarwalomyces R.K. Verma & Kamal GENUS
-=======
+# Agarwalomyces R.K. Verma & Kamal GENUS
 
 #### Status
 ACCEPTED

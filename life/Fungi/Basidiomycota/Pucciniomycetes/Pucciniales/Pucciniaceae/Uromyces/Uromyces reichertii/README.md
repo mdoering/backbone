@@ -1,5 +1,4 @@
-Uromyces reichertii J. Anikster & I. Wahl SPECIES
-=======
+# Uromyces reichertii J. Anikster & I. Wahl SPECIES
 
 #### Status
 ACCEPTED

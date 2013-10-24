@@ -1,5 +1,4 @@
-Graphina bipartita f. bipartita FORM
-=======
+# Graphina bipartita Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina bipartita f. bipartita
+Graphina bipartita Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mucor stipitatus L. SPECIES
-=======
+# Mucor stipitatus L. SPECIES
 
 #### Status
 ACCEPTED

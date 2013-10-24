@@ -1,5 +1,4 @@
-Pseudodiplodia atropae H. Ruppr. SPECIES
-=======
+# Pseudodiplodia atropae H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

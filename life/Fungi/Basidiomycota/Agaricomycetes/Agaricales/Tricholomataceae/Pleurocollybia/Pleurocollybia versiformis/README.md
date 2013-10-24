@@ -1,14 +1,13 @@
-Agaricus versiformis Berk., 1847 SPECIES
-=======
+# Pleurocollybia versiformis (Berk.) Pegler, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 6: 484 (1847)
+Kew Bull. , Addit. Ser. 6: 96 (1977)
 
 #### Original name
 Agaricus versiformis Berk., 1847

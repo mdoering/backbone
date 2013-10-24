@@ -1,5 +1,4 @@
-Lecanora glabratula Motyka SPECIES
-=======
+# Lecanora glabratula Motyka SPECIES
 
 #### Status
 ACCEPTED

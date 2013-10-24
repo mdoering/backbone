@@ -1,5 +1,4 @@
-Trichophaeopsis latispora J. Moravec SPECIES
-=======
+# Trichophaeopsis latispora J. Moravec SPECIES
 
 #### Status
 ACCEPTED

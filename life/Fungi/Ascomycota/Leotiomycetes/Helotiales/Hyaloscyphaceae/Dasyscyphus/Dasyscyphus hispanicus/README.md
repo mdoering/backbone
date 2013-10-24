@@ -1,8 +1,7 @@
-Dasyscypha hispanicus (Cooke & W. Phillips) Sacc. SPECIES
-=======
+# Dasyscyphus hispanicus (Cooke & W. Phillips) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

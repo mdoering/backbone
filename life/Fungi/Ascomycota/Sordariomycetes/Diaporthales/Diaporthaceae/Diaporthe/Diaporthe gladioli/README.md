@@ -1,5 +1,4 @@
-Diaporthe gladioli Ellis & Everh. SPECIES
-=======
+# Diaporthe gladioli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thrombium velutinum (Bernh.) Wallr. SPECIES
-=======
+# Thrombium velutinum (Bernh.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

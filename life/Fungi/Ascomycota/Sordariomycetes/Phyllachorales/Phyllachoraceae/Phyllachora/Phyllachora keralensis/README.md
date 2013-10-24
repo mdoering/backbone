@@ -1,17 +1,16 @@
-Phyllachora keralense Hosag., Manian & Vasuki SPECIES
-=======
+# Phyllachora keralensis Hosag., Manian & Vasuki, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 12(2): 422 (1989)
 
 #### Original name
-Phyllachora keralense Hosag., Manian & Vasuki
+Phyllachora keralensis Hosag., Manian & Vasuki, 1989
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leccinum leucopodium (Pers.) Dörfelt & G. Berg SPECIES
-=======
+# Leccinum leucopodium (Pers.) Dörfelt & G. Berg SPECIES
 
 #### Status
 ACCEPTED

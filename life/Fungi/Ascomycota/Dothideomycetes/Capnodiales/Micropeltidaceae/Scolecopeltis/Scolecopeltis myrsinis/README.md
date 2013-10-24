@@ -1,5 +1,4 @@
-Scolecopeltis myrsinis Doidge SPECIES
-=======
+# Scolecopeltis myrsinis Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellina tropicalis Speg. SPECIES
-=======
+# Patellina tropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

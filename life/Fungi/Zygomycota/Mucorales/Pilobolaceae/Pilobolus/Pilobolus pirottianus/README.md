@@ -1,5 +1,4 @@
-Pilobolus pirottianus Morini SPECIES
-=======
+# Pilobolus pirottianus Morini SPECIES
 
 #### Status
 ACCEPTED

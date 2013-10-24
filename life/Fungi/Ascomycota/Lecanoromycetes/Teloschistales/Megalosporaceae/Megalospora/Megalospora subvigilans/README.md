@@ -1,5 +1,4 @@
-Megalospora subvigilans (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Megalospora subvigilans (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

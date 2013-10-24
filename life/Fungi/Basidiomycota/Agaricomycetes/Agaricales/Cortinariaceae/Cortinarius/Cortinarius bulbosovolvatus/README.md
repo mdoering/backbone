@@ -1,5 +1,4 @@
-Cortinarius bulbosovolvatus Rob. Henry & Contu SPECIES
-=======
+# Cortinarius bulbosovolvatus Rob. Henry & Contu SPECIES
 
 #### Status
 ACCEPTED

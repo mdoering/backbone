@@ -1,5 +1,4 @@
-Caloplaca euelpis (Stizenb.) Zahlbr. SPECIES
-=======
+# Caloplaca euelpis (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

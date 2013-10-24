@@ -1,11 +1,10 @@
-Coccolithus tenuis Kamptner, 1937 SPECIES
-=======
+# Umbellosphaera tenuis (Kamptner) Paasche in Markali & Paasche, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

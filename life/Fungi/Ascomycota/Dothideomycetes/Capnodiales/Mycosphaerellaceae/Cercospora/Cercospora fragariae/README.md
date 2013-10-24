@@ -1,5 +1,4 @@
-Cercospora fragariae Lobik SPECIES
-=======
+# Cercospora fragariae Lobik SPECIES
 
 #### Status
 ACCEPTED

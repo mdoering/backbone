@@ -1,5 +1,4 @@
-Oerskovia paurometabola Stackebrandt et al., 2002 SPECIES
-=======
+# Oerskovia paurometabola Stackebrandt et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

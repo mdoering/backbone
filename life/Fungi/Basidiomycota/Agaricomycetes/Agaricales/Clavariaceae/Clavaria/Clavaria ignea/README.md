@@ -1,5 +1,4 @@
-Clavaria ignea Pers. SPECIES
-=======
+# Clavaria ignea Pers. SPECIES
 
 #### Status
 ACCEPTED

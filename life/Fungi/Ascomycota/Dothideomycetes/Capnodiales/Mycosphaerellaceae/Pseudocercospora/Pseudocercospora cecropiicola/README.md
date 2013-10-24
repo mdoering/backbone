@@ -1,5 +1,4 @@
-Pseudocercospora cecropiicola Deighton SPECIES
-=======
+# Pseudocercospora cecropiicola Deighton SPECIES
 
 #### Status
 ACCEPTED

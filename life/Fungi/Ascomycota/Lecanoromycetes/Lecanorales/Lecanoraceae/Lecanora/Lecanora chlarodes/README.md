@@ -1,5 +1,4 @@
-Lecanora chlarodes Nyl. SPECIES
-=======
+# Lecanora chlarodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

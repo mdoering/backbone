@@ -1,5 +1,4 @@
-Coryneum stromatoideum (Dearn.) B. Sutton SPECIES
-=======
+# Coryneum stromatoideum (Dearn.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

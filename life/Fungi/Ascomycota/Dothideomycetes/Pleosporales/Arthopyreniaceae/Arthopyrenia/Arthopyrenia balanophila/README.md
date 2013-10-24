@@ -1,5 +1,4 @@
-Arthopyrenia balanophila Zahlbr. SPECIES
-=======
+# Arthopyrenia balanophila Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophospyris cheni Goll, 1976 SPECIES
-=======
+# Lophospyris cheni Goll, 1976 SPECIES
 
 #### Status
 ACCEPTED

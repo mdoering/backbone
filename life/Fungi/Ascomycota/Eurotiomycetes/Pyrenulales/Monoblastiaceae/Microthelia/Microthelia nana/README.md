@@ -1,5 +1,4 @@
-Microthelia nana (Rostr.) Kuntze SPECIES
-=======
+# Microthelia nana (Rostr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

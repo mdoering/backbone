@@ -1,14 +1,13 @@
-Leptocladia neglecta Marvanová & Descals, 1985 SPECIES
-=======
+# Stenocladiella neglecta (Marvanová & Descals) Marvanová & Descals, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 91(1-2): 13 (1985)
+Trans. Br. mycol. Soc. 89(4): 507 (1987)
 
 #### Original name
 Leptocladia neglecta Marvanová & Descals, 1985

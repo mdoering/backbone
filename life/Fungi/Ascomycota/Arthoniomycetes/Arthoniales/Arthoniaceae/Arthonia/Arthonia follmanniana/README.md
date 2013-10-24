@@ -1,5 +1,4 @@
-Arthonia follmanniana Diederich SPECIES
-=======
+# Arthonia follmanniana Diederich SPECIES
 
 #### Status
 ACCEPTED

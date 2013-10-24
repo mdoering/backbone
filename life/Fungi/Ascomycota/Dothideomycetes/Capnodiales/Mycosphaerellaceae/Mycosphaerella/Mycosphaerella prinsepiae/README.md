@@ -1,5 +1,4 @@
-Mycosphaerella prinsepiae Padwick & Merh SPECIES
-=======
+# Mycosphaerella prinsepiae Padwick & Merh SPECIES
 
 #### Status
 ACCEPTED

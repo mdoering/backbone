@@ -1,5 +1,4 @@
-Entyloma nephrolepidis Racib. SPECIES
-=======
+# Entyloma nephrolepidis Racib. SPECIES
 
 #### Status
 ACCEPTED

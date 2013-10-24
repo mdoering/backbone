@@ -1,5 +1,4 @@
-Aplosporella robiniae (Ellis & Barthol.) Petr. & Syd. SPECIES
-=======
+# Aplosporella robiniae (Ellis & Barthol.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

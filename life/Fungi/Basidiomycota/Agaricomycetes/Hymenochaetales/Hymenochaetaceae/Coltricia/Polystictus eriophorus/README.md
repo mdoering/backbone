@@ -1,5 +1,4 @@
-Polystictus eriophorus (Berk. & Broome) Cooke SPECIES
-=======
+# Polystictus eriophorus (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

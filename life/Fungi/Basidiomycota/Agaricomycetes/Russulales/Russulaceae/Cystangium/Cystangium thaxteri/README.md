@@ -1,14 +1,13 @@
-Martellia thaxteri Singer, 1969 SPECIES
-=======
+# Cystangium thaxteri (Singer) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia, Beih. 29: 357 (1969)
+Mycotaxon 81: 198 (2002)
 
 #### Original name
 Martellia thaxteri Singer, 1969

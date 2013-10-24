@@ -1,5 +1,4 @@
-Lecanora picina (Ach.) Röhl. SPECIES
-=======
+# Lecanora picina (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tryannus GENUS
-=======
+# Tryannus GENUS
 
 #### Status
 ACCEPTED

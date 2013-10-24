@@ -1,5 +1,4 @@
-Leptomeliola Höhn. GENUS
-=======
+# Leptomeliola Höhn. GENUS
 
 #### Status
 ACCEPTED

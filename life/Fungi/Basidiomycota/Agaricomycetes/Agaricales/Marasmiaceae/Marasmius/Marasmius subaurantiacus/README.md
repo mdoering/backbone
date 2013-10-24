@@ -1,5 +1,4 @@
-Marasmius subaurantiacus Berk. & Broome SPECIES
-=======
+# Marasmius subaurantiacus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

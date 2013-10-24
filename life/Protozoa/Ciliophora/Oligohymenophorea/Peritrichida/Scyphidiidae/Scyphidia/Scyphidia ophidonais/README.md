@@ -1,5 +1,4 @@
-Scyphidia ophidonais Dumas, 1937 SPECIES
-=======
+# Scyphidia ophidonais Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

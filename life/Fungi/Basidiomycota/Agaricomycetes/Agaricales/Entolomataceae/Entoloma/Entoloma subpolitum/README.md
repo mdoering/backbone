@@ -1,5 +1,4 @@
-Entoloma subpolitum Largent SPECIES
-=======
+# Entoloma subpolitum Largent SPECIES
 
 #### Status
 ACCEPTED

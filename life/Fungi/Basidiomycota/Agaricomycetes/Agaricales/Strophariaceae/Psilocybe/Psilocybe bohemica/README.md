@@ -1,5 +1,4 @@
-Psilocybe bohemica Šebek, 1983 SPECIES
-=======
+# Psilocybe bohemica Šebek, 1983 SPECIES
 
 #### Status
 ACCEPTED

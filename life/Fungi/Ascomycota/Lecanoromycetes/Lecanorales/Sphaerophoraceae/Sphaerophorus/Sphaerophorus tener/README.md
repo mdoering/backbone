@@ -1,5 +1,4 @@
-Sphaerophorus tener f. tener FORM
-=======
+# Sphaerophorus tener Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerophorus tener f. tener
+Sphaerophorus tener Mont.
 
 ### Remarks
 null

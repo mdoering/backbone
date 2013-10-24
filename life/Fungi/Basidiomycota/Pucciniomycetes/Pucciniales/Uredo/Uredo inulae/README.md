@@ -1,5 +1,4 @@
-Uredo inulae Kunze SPECIES
-=======
+# Uredo inulae Kunze SPECIES
 
 #### Status
 ACCEPTED

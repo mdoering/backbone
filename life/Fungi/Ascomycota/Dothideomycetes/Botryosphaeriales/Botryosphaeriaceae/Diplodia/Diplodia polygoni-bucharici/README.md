@@ -1,5 +1,4 @@
-Diplodia polygoni-bucharici Schwarzman SPECIES
-=======
+# Diplodia polygoni-bucharici Schwarzman SPECIES
 
 #### Status
 ACCEPTED

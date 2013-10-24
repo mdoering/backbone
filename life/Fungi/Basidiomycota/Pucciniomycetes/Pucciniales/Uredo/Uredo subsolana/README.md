@@ -1,5 +1,4 @@
-Uredo subsolana Cummins SPECIES
-=======
+# Uredo subsolana Cummins SPECIES
 
 #### Status
 ACCEPTED

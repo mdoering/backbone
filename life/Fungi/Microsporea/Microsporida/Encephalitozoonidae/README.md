@@ -1,5 +1,4 @@
-Encephalitozoonidae FAMILY
-=======
+# Encephalitozoonidae FAMILY
 
 #### Status
 ACCEPTED

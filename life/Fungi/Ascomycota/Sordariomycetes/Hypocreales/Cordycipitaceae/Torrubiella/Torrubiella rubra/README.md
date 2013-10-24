@@ -1,5 +1,4 @@
-Torrubiella rubra Pat. & Lagerh., 1893 SPECIES
-=======
+# Torrubiella rubra Pat. & Lagerh., 1893 SPECIES
 
 #### Status
 ACCEPTED

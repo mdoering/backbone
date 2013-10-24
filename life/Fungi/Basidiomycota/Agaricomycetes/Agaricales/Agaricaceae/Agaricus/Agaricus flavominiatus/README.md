@@ -1,5 +1,4 @@
-Agaricus flavominiatus Berk. SPECIES
-=======
+# Agaricus flavominiatus Berk. SPECIES
 
 #### Status
 ACCEPTED

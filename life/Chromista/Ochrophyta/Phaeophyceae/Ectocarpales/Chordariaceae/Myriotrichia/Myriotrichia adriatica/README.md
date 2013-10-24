@@ -1,5 +1,4 @@
-Myriotrichia adriatica Hauck SPECIES
-=======
+# Myriotrichia adriatica Hauck SPECIES
 
 #### Status
 ACCEPTED

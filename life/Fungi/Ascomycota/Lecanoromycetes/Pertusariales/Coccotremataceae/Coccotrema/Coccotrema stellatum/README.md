@@ -1,17 +1,16 @@
-Coccotrema stellata Øvstedal SPECIES
-=======
+# Coccotrema stellatum Øvstedal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Øvstedal & Gremmen, S. Afr. J. Bot. 67(4): 558 (2001)
 
 #### Original name
-Coccotrema stellata Øvstedal
+Coccotrema stellatum Øvstedal
 
 ### Remarks
 null

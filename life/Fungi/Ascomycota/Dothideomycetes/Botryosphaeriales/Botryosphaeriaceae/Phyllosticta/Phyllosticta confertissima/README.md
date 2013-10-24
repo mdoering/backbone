@@ -1,5 +1,4 @@
-Phyllosticta confertissima Ellis & Everh. SPECIES
-=======
+# Phyllosticta confertissima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podocrea cordyceps Penz. & Sacc. SPECIES
-=======
+# Podocrea cordyceps Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

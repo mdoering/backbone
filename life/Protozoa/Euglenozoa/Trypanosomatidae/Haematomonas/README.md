@@ -1,5 +1,4 @@
-Haematomonas Osler, 1887 GENUS
-=======
+# Haematomonas Osler, 1887 GENUS
 
 #### Status
 ACCEPTED

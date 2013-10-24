@@ -1,5 +1,4 @@
-Boletus pernanus Pat. & C.F. Baker SPECIES
-=======
+# Boletus pernanus Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

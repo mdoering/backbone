@@ -1,5 +1,4 @@
-Eurotium taklimakanense Abliz & Y. Horie SPECIES
-=======
+# Eurotium taklimakanense Abliz & Y. Horie SPECIES
 
 #### Status
 ACCEPTED

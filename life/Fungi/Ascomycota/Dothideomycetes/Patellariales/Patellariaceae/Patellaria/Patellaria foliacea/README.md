@@ -1,5 +1,4 @@
-Patellaria foliacea Wallr. SPECIES
-=======
+# Patellaria foliacea Wallr. SPECIES
 
 #### Status
 ACCEPTED

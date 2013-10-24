@@ -1,5 +1,4 @@
-Coelomomyces arsenjevii Koval & E.S. Kuprian. SPECIES
-=======
+# Coelomomyces arsenjevii Koval & E.S. Kuprian. SPECIES
 
 #### Status
 ACCEPTED

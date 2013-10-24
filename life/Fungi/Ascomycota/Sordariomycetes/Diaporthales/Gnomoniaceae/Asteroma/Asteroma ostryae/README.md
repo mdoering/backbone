@@ -1,5 +1,4 @@
-Asteroma ostryae (C. Massal.) B. Sutton SPECIES
-=======
+# Asteroma ostryae (C. Massal.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

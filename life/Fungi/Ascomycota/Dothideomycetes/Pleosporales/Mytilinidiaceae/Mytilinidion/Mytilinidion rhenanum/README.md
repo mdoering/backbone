@@ -1,17 +1,16 @@
-Mytilinidion karstenii subsp. karstenii Sacc. SUBSPECIES
-=======
+# Mytilinidion rhenanum Fuckel, 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 763 (1883)
+Jb. nassau. Ver. Naturk. 25-26: 298 (1871)
 
 #### Original name
-Mytilinidion karstenii subsp. karstenii Sacc.
+Mytilinidion rhenanum Fuckel, 1871
 
 ### Remarks
 null

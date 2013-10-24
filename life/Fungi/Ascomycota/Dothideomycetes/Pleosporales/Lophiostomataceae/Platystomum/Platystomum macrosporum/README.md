@@ -1,5 +1,4 @@
-Platystomum macrosporum (Speg.) Chesters & A.E. Bell SPECIES
-=======
+# Platystomum macrosporum (Speg.) Chesters & A.E. Bell SPECIES
 
 #### Status
 ACCEPTED

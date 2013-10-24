@@ -1,5 +1,4 @@
-Stichotricha gracilis Möbius, 1888 SPECIES
-=======
+# Stichotricha gracilis Möbius, 1888 SPECIES
 
 #### Status
 ACCEPTED

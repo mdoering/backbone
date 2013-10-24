@@ -1,5 +1,4 @@
-Arthonia cinerascens Kremp. SPECIES
-=======
+# Arthonia cinerascens Kremp. SPECIES
 
 #### Status
 ACCEPTED

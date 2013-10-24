@@ -1,5 +1,4 @@
-Isaria cinnabarina Preuss SPECIES
-=======
+# Isaria cinnabarina Preuss SPECIES
 
 #### Status
 ACCEPTED

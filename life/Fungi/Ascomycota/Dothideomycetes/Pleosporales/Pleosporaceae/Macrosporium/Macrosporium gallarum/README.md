@@ -1,5 +1,4 @@
-Macrosporium gallarum Bres. SPECIES
-=======
+# Macrosporium gallarum Bres. SPECIES
 
 #### Status
 ACCEPTED

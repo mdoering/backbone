@@ -1,5 +1,4 @@
-Puccinia eluta Cummins SPECIES
-=======
+# Puccinia eluta Cummins SPECIES
 
 #### Status
 ACCEPTED

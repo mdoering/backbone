@@ -1,5 +1,4 @@
-Conidiobolus gustafssonii Balazy SPECIES
-=======
+# Conidiobolus gustafssonii Balazy SPECIES
 
 #### Status
 ACCEPTED

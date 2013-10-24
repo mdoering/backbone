@@ -1,5 +1,4 @@
-Nectria torminosa Mont. SPECIES
-=======
+# Nectria torminosa Mont. SPECIES
 
 #### Status
 ACCEPTED

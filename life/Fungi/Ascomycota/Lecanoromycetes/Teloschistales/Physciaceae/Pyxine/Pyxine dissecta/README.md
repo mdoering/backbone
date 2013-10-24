@@ -1,5 +1,4 @@
-Pyxine dissecta (Fée) Vain. SPECIES
-=======
+# Pyxine dissecta (Fée) Vain. SPECIES
 
 #### Status
 ACCEPTED

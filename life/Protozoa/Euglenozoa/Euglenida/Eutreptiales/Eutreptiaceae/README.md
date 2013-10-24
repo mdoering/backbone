@@ -1,5 +1,4 @@
-Eutreptiaceae Hollande, 1942 FAMILY
-=======
+# Eutreptiaceae Hollande, 1942 FAMILY
 
 #### Status
 ACCEPTED

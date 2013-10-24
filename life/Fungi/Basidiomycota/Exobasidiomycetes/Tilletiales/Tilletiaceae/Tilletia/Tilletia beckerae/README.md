@@ -1,5 +1,4 @@
-Tilletia beckerae (Henn.) Vánky SPECIES
-=======
+# Tilletia beckerae (Henn.) Vánky SPECIES
 
 #### Status
 ACCEPTED

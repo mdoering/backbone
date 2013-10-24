@@ -1,5 +1,4 @@
-Pleuroflammula puberula (Peck) Singer SPECIES
-=======
+# Pleuroflammula puberula (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

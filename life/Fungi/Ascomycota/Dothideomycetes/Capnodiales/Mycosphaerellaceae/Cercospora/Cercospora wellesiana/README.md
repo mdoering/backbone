@@ -1,5 +1,4 @@
-Cercospora wellesiana Chupp SPECIES
-=======
+# Cercospora wellesiana Chupp SPECIES
 
 #### Status
 ACCEPTED

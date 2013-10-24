@@ -1,5 +1,4 @@
-Bovista dealbata (Lloyd) Sacc. & D. Sacc. SPECIES
-=======
+# Bovista dealbata (Lloyd) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

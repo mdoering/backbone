@@ -1,17 +1,16 @@
-Phomopsis juniperovora G. Hahn SPECIES
-=======
+# Phomopsis juniperivora G. Hahn, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 10: 249 (1920)
 
 #### Original name
-Phomopsis juniperovora G. Hahn
+Phomopsis juniperivora G. Hahn, 1920
 
 ### Remarks
 null

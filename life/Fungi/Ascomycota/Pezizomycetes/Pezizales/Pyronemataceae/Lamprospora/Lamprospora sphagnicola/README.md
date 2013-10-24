@@ -1,5 +1,4 @@
-Lamprospora sphagnicola Seaver SPECIES
-=======
+# Lamprospora sphagnicola Seaver SPECIES
 
 #### Status
 ACCEPTED

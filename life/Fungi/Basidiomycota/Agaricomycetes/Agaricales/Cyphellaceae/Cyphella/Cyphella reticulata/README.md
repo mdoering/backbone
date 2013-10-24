@@ -1,5 +1,4 @@
-Cyphella reticulata Berk. & Broome SPECIES
-=======
+# Cyphella reticulata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius myrti (Pat.) Sacc. SPECIES
-=======
+# Marasmius myrti (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

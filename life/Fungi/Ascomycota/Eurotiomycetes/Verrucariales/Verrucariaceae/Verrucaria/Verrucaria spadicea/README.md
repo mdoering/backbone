@@ -1,5 +1,4 @@
-Verrucaria spadicea Wallr. SPECIES
-=======
+# Verrucaria spadicea Wallr. SPECIES
 
 #### Status
 ACCEPTED

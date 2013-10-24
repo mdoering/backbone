@@ -1,5 +1,4 @@
-Caloplaca ioanniculi Werner SPECIES
-=======
+# Caloplaca ioanniculi Werner SPECIES
 
 #### Status
 ACCEPTED

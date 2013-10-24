@@ -1,5 +1,4 @@
-Rhabdochromatium marinum Dilling et al., 1996 SPECIES
-=======
+# Rhabdochromatium marinum Dilling et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes mangiferae (Lév.) Sacc. SPECIES
-=======
+# Fomes mangiferae (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

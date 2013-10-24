@@ -1,5 +1,4 @@
-Uromyces leptochloae Wakef. SPECIES
-=======
+# Uromyces leptochloae Wakef. SPECIES
 
 #### Status
 ACCEPTED

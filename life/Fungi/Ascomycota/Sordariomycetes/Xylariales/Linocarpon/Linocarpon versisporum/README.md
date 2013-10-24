@@ -1,5 +1,4 @@
-Linocarpon versisporum (Ellis & G. Martin) Petr. SPECIES
-=======
+# Linocarpon versisporum (Ellis & G. Martin) Petr. SPECIES
 
 #### Status
 ACCEPTED

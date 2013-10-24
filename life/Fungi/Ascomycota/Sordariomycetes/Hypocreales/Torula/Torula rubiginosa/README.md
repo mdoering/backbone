@@ -1,5 +1,4 @@
-Torula rubiginosa Rivolta SPECIES
-=======
+# Torula rubiginosa Rivolta SPECIES
 
 #### Status
 ACCEPTED

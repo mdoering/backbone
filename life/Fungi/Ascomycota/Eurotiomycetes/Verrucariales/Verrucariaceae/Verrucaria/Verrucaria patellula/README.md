@@ -1,5 +1,4 @@
-Verrucaria patellula Stizenb. SPECIES
-=======
+# Verrucaria patellula Stizenb. SPECIES
 
 #### Status
 ACCEPTED

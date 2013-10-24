@@ -1,5 +1,4 @@
-Taphrina tonduziana Henn. SPECIES
-=======
+# Taphrina tonduziana Henn. SPECIES
 
 #### Status
 ACCEPTED

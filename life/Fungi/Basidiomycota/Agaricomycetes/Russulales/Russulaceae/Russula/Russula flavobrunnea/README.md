@@ -1,5 +1,4 @@
-Russula flavobrunnea Buyck SPECIES
-=======
+# Russula flavobrunnea Buyck SPECIES
 
 #### Status
 ACCEPTED

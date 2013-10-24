@@ -1,5 +1,4 @@
-Linhartia soroceae Rehm SPECIES
-=======
+# Linhartia soroceae Rehm SPECIES
 
 #### Status
 ACCEPTED

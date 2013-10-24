@@ -1,5 +1,4 @@
-Mycosphaerella dummeri Hansf. SPECIES
-=======
+# Mycosphaerella dummeri Hansf. SPECIES
 
 #### Status
 ACCEPTED

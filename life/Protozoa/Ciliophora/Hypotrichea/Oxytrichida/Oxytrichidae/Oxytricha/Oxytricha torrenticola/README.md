@@ -1,5 +1,4 @@
-Oxytricha torrenticola SPECIES
-=======
+# Oxytricha torrenticola SPECIES
 
 #### Status
 ACCEPTED

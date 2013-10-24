@@ -1,5 +1,4 @@
-Erythromicrobium ramosum Yurkov et al., 1994 SPECIES
-=======
+# Erythromicrobium ramosum Yurkov et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

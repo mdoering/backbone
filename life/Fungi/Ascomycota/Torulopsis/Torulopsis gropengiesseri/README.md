@@ -1,5 +1,4 @@
-Torulopsis gropengiesseri F.C. Harrison, 1934 SPECIES
-=======
+# Torulopsis gropengiesseri F.C. Harrison, 1934 SPECIES
 
 #### Status
 ACCEPTED

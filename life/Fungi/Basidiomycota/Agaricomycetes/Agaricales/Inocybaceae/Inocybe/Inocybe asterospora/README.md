@@ -1,17 +1,16 @@
-Agaricus asterosporus Quél. SPECIES
-=======
+# Inocybe asterospora Quél., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 26: 50 (1879)
 
 #### Original name
-null
+Inocybe asterospora Quél., 1879
 
 ### Remarks
 null

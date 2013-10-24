@@ -1,5 +1,4 @@
-Dictyocha varia f. extensa S. Locker FORM
-=======
+# Dictyocha varia SPECIES
 
 #### Status
 ACCEPTED

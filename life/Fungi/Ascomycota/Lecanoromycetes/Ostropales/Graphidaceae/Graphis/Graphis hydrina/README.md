@@ -1,5 +1,4 @@
-Graphis hydrina Vain. SPECIES
-=======
+# Graphis hydrina Vain. SPECIES
 
 #### Status
 ACCEPTED

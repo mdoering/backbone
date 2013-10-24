@@ -1,5 +1,4 @@
-Lobaria zahlbruckneri Asahina SPECIES
-=======
+# Lobaria zahlbruckneri Asahina SPECIES
 
 #### Status
 ACCEPTED

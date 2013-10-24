@@ -1,5 +1,4 @@
-Chrysosporium lobatum Scharapov, 1978 SPECIES
-=======
+# Chrysosporium lobatum Scharapov, 1978 SPECIES
 
 #### Status
 ACCEPTED

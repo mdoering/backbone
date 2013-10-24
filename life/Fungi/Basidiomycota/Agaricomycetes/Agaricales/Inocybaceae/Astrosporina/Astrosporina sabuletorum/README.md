@@ -1,5 +1,4 @@
-Astrosporina sabuletorum (Berk. & M.A. Curtis) Rea SPECIES
-=======
+# Astrosporina sabuletorum (Berk. & M.A. Curtis) Rea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedalea glaberrima Berk. & M.A. Curtis SPECIES
-=======
+# Daedalea glaberrima Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

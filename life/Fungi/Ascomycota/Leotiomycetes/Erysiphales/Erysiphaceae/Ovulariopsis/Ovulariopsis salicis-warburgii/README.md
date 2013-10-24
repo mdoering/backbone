@@ -1,5 +1,4 @@
-Ovulariopsis salicis-warburgii Sawada SPECIES
-=======
+# Ovulariopsis salicis-warburgii Sawada SPECIES
 
 #### Status
 ACCEPTED

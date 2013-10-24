@@ -1,5 +1,4 @@
-Didymosphaeria rhododendri Oudem., 1901 SPECIES
-=======
+# Didymosphaeria rhododendri Oudem., 1901 SPECIES
 
 #### Status
 ACCEPTED

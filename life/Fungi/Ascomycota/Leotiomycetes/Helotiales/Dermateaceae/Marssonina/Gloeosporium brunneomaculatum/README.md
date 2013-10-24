@@ -1,5 +1,4 @@
-Gloeosporium brunneomaculatum H.C. Greene SPECIES
-=======
+# Gloeosporium brunneomaculatum H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

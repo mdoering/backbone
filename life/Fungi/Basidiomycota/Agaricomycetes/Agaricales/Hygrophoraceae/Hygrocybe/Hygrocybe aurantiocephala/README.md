@@ -1,5 +1,4 @@
-Hygrocybe aurantiocephala Leelav., Manim. & Arnolds SPECIES
-=======
+# Hygrocybe aurantiocephala Leelav., Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

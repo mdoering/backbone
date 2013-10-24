@@ -1,5 +1,4 @@
-Uredo viegasii Jørst. SPECIES
-=======
+# Uredo viegasii Jørst. SPECIES
 
 #### Status
 ACCEPTED

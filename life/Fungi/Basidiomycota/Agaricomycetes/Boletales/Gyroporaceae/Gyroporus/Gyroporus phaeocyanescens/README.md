@@ -1,5 +1,4 @@
-Gyroporus phaeocyanescens Singer & M.H. Ivory SPECIES
-=======
+# Gyroporus phaeocyanescens Singer & M.H. Ivory SPECIES
 
 #### Status
 ACCEPTED

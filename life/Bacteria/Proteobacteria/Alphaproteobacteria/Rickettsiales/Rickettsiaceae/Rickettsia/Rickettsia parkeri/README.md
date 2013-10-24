@@ -1,5 +1,4 @@
-Rickettsia parkeri Lackman et al., 1965 (Approved Lists, 1980) SPECIES
-=======
+# Rickettsia parkeri Lackman et al., 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

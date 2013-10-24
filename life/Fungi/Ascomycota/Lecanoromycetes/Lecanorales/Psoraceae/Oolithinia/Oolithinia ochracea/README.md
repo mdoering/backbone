@@ -1,5 +1,4 @@
-Oolithinia ochracea (Körb.) M. Choisy & Werner SPECIES
-=======
+# Oolithinia ochracea (Körb.) M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED

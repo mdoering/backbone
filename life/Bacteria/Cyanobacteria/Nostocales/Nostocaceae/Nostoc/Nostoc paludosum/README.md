@@ -1,5 +1,4 @@
-Nostoc paludosum (Kützing) Bornet & Flahault SPECIES
-=======
+# Nostoc paludosum (Kützing) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

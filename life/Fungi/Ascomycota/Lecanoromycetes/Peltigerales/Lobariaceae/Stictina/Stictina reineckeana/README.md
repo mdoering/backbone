@@ -1,5 +1,4 @@
-Stictina reineckeana Müll. Arg. SPECIES
-=======
+# Stictina reineckeana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

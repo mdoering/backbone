@@ -1,5 +1,4 @@
-Coltricia oblectabilis (Lloyd) Ryvarden SPECIES
-=======
+# Coltricia oblectabilis (Lloyd) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

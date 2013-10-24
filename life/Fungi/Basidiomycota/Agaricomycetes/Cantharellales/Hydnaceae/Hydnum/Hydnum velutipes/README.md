@@ -1,5 +1,4 @@
-Hydnum velutipes Beck SPECIES
-=======
+# Hydnum velutipes Beck SPECIES
 
 #### Status
 ACCEPTED

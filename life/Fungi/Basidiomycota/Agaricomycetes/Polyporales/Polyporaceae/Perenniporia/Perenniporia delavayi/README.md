@@ -1,5 +1,4 @@
-Perenniporia delavayi (Pat.) Decock & Ryvarden SPECIES
-=======
+# Perenniporia delavayi (Pat.) Decock & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

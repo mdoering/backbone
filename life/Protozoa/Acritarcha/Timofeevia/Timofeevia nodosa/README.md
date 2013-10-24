@@ -1,5 +1,4 @@
-Timofeevia nodosa Uutela & Tynni, 1991 SPECIES
-=======
+# Timofeevia nodosa Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

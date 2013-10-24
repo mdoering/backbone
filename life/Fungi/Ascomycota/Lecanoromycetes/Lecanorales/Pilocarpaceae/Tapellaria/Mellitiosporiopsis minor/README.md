@@ -1,5 +1,4 @@
-Mellitiosporiopsis minor (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Mellitiosporiopsis minor (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

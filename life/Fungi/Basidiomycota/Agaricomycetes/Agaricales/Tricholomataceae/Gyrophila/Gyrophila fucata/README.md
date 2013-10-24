@@ -1,5 +1,4 @@
-Gyrophila fucata (Fr.) Quél. SPECIES
-=======
+# Gyrophila fucata (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

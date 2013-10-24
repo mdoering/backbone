@@ -1,5 +1,4 @@
-Kazachstania wufongensis C.F. Lee, 2009 SPECIES
-=======
+# Kazachstania wufongensis C.F. Lee, 2009 SPECIES
 
 #### Status
 ACCEPTED

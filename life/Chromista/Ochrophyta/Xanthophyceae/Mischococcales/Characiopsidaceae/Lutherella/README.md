@@ -1,5 +1,4 @@
-Lutherella Pascher, 1930 GENUS
-=======
+# Lutherella Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

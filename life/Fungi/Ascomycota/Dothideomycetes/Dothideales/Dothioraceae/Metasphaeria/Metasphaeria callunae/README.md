@@ -1,5 +1,4 @@
-Metasphaeria callunae Fautrey SPECIES
-=======
+# Metasphaeria callunae Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hygrotrama rugulosum var. rugulosum (A.H. Sm. & Hesler) Singer VARIETY
-=======
+# Camarophyllopsis rugulosa (A.H. Sm. & Hesler) Arnolds, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 7: 4 (1973)
+Mycotaxon 25(2): 643 (1986)
 
 #### Original name
-Hygrotrama rugulosum var. rugulosum (A.H. Sm. & Hesler) Singer
+Hygrophorus rugulosus A.H. Sm. & Hesler, 1954
 
 ### Remarks
 null

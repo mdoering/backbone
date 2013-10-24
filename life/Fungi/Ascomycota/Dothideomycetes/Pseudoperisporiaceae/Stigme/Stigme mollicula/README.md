@@ -1,5 +1,4 @@
-Stigme mollicula Syd. SPECIES
-=======
+# Stigme mollicula Syd. SPECIES
 
 #### Status
 ACCEPTED

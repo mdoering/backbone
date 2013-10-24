@@ -1,5 +1,4 @@
-Metasphaeria arundinicola Speg. SPECIES
-=======
+# Metasphaeria arundinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

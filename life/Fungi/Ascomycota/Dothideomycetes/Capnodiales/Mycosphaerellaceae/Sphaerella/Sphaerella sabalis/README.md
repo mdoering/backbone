@@ -1,17 +1,16 @@
-Sphaerella sabalidis Sousa da Câmara SPECIES
-=======
+# Sphaerella sabalis Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bol. Agric. Lisboa 2(1): 20 (1936)
 
 #### Original name
-Sphaerella sabalidis Sousa da Câmara
+Sphaerella sabalis Sousa da Câmara
 
 ### Remarks
 null

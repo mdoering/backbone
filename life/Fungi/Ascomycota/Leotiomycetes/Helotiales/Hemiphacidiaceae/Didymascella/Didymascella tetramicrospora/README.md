@@ -1,5 +1,4 @@
-Didymascella tetramicrospora Pantidou & Darker SPECIES
-=======
+# Didymascella tetramicrospora Pantidou & Darker SPECIES
 
 #### Status
 ACCEPTED

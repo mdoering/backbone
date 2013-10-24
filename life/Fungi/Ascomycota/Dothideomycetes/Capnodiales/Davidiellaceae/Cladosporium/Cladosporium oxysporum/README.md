@@ -1,5 +1,4 @@
-Cladosporium oxysporum Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Cladosporium oxysporum Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
 ACCEPTED

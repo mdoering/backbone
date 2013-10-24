@@ -1,5 +1,4 @@
-Micropeltidium crotonis var. crotonis VARIETY
-=======
+# Micropeltidium crotonis Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Publções Inst. Micol. Recife 56: 261 (1959)
 
 #### Original name
-Micropeltidium crotonis var. crotonis
+Micropeltidium crotonis Bat. & I.H. Lima
 
 ### Remarks
 null

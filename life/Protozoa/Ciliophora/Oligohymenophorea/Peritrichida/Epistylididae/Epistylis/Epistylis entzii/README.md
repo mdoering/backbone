@@ -1,5 +1,4 @@
-Epistylis entzii Stiller, 1935 SPECIES
-=======
+# Epistylis entzii Stiller, 1935 SPECIES
 
 #### Status
 ACCEPTED

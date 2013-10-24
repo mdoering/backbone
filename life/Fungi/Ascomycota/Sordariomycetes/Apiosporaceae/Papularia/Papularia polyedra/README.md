@@ -1,5 +1,4 @@
-Papularia polyedra Moesz SPECIES
-=======
+# Papularia polyedra Moesz SPECIES
 
 #### Status
 ACCEPTED

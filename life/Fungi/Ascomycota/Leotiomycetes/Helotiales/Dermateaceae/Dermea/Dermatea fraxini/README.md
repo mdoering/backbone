@@ -1,5 +1,4 @@
-Dermatea fraxini (Tul.) Höhn. SPECIES
-=======
+# Dermatea fraxini (Tul.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema andrei Negru SPECIES
-=======
+# Sphaeronaema andrei Negru SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hymenogaster albellus Massee & Rodway, 1898 SPECIES
-=======
+# Descomyces albellus (Massee & Rodway) Bougher & Castellano, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Massee, Bull. Misc. Inf. , Kew 126 (1898)
+Mycologia 85(2): 282 (1993)
 
 #### Original name
 Hymenogaster albellus Massee & Rodway, 1898

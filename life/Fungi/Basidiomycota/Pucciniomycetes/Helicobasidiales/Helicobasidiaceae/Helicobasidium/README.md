@@ -1,17 +1,16 @@
-Helicobasis Clem. & Shear GENUS
-=======
+# Helicobasidium Pat. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 341 (1931)
+Bull. Soc. bot. Fr. 32: 172 (1885)
 
 #### Original name
-Helicobasis Clem. & Shear
+Helicobasidium Pat.
 
 ### Remarks
 null

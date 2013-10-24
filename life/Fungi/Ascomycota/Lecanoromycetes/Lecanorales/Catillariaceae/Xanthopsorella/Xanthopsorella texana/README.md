@@ -1,14 +1,13 @@
-Xanthopsora texana (W.A. Weber) Gotth. Schneid. & W.A. Weber SPECIES
-=======
+# Xanthopsorella texana (W.A. Weber) Kalb & Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Schneider, Biblthca Lichenol. 13: 158 (1980)
+in Hafellner, Beih. Nova Hedwigia 79: 348 (1984)
 
 #### Original name
 Psora texana W.A. Weber

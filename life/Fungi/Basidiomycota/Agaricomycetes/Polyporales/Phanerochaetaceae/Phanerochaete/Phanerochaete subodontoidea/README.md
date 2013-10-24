@@ -1,17 +1,16 @@
-Phanerochaete subodontioidea Sheng H. Wu SPECIES
-=======
+# Phanerochaete subodontoidea Sheng H. Wu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Bull. Acad. sin. , Taipei 41(2): 172 (2000)
 
 #### Original name
-Phanerochaete subodontioidea Sheng H. Wu
+Phanerochaete subodontoidea Sheng H. Wu
 
 ### Remarks
 null

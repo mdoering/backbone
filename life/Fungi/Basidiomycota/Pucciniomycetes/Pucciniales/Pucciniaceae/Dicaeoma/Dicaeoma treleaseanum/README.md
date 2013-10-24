@@ -1,5 +1,4 @@
-Dicaeoma treleaseanum (Pazschke) Kuntze SPECIES
-=======
+# Dicaeoma treleaseanum (Pazschke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

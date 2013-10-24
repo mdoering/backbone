@@ -1,5 +1,4 @@
-Stictosepta cupularis Petr., 1964 SPECIES
-=======
+# Stictosepta cupularis Petr., 1964 SPECIES
 
 #### Status
 ACCEPTED

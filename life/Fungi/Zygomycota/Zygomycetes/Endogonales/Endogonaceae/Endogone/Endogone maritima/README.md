@@ -1,5 +1,4 @@
-Endogone maritima Blaszk., Tadych & Madej SPECIES
-=======
+# Endogone maritima Blaszk., Tadych & Madej SPECIES
 
 #### Status
 ACCEPTED

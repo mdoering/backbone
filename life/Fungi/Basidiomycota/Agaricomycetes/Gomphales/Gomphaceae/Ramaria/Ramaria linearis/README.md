@@ -1,5 +1,4 @@
-Ramaria linearis R.H. Petersen & M. Zang SPECIES
-=======
+# Ramaria linearis R.H. Petersen & M. Zang SPECIES
 
 #### Status
 ACCEPTED

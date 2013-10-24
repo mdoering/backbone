@@ -1,5 +1,4 @@
-Rhytismella GENUS
-=======
+# Rhytismella GENUS
 
 #### Status
 ACCEPTED

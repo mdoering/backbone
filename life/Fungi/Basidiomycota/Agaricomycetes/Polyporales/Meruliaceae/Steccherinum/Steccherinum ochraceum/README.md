@@ -1,17 +1,16 @@
-Hydnum ochraceum var. ochraceum VARIETY
-=======
+# Steccherinum ochraceum (Pers.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 651 (1821)
 
 #### Original name
-null
+Hydnum ochraceum Pers., 1792
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trametes supermodesta Ryvarden & Iturr., 2003 SPECIES
-=======
+# Trametes supermodesta Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

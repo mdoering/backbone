@@ -1,5 +1,4 @@
-Actinogyra rigida (Du Rietz) Llano SPECIES
-=======
+# Actinogyra rigida (Du Rietz) Llano SPECIES
 
 #### Status
 ACCEPTED

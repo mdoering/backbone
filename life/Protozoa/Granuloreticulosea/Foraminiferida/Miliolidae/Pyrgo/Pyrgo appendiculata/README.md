@@ -1,5 +1,4 @@
-Pyrgo appendiculata (Reuss) SPECIES
-=======
+# Pyrgo appendiculata (Reuss) SPECIES
 
 #### Status
 ACCEPTED

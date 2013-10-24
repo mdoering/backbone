@@ -1,5 +1,4 @@
-Cercosporella Saccardo, 1880 GENUS
-=======
+# Cercosporella Saccardo, 1880 GENUS
 
 #### Status
 ACCEPTED

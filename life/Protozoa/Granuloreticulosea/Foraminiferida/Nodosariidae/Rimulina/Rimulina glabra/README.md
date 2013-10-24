@@ -1,5 +1,4 @@
-Rimulina glabra d’Orbigny, 1826 SPECIES
-=======
+# Rimulina glabra d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

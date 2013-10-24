@@ -1,5 +1,4 @@
-Lepiota opshaemata Berk. & Broome SPECIES
-=======
+# Lepiota opshaemata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

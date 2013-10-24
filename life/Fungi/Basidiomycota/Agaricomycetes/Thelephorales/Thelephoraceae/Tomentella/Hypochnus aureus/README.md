@@ -1,5 +1,4 @@
-Hypochnus aureus Fr. SPECIES
-=======
+# Hypochnus aureus Fr. SPECIES
 
 #### Status
 ACCEPTED

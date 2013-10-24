@@ -1,5 +1,4 @@
-Ganoderma fasciculatum Pat. SPECIES
-=======
+# Ganoderma fasciculatum Pat. SPECIES
 
 #### Status
 ACCEPTED

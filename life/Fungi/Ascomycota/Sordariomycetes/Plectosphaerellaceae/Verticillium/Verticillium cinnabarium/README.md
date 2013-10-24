@@ -1,5 +1,4 @@
-Verticillium cinnabarium (Corda) Reinke & Berthold SPECIES
-=======
+# Verticillium cinnabarium (Corda) Reinke & Berthold SPECIES
 
 #### Status
 ACCEPTED

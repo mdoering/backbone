@@ -1,5 +1,4 @@
-Agaricus abbreviatus Kalchbr. SPECIES
-=======
+# Agaricus abbreviatus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

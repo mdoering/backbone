@@ -1,5 +1,4 @@
-Zignoella pachyspora Sacc., E. Bommer & M. Rousseau, 1891 SPECIES
-=======
+# Zignoella pachyspora Sacc., E. Bommer & M. Rousseau, 1891 SPECIES
 
 #### Status
 DOUBTFUL

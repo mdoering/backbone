@@ -1,5 +1,4 @@
-Stromatinia (Boudier) Boudier, 1907 GENUS
-=======
+# Stromatinia (Boudier) Boudier, 1907 GENUS
 
 #### Status
 ACCEPTED

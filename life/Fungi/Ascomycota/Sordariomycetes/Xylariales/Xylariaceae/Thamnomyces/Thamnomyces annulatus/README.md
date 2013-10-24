@@ -1,5 +1,4 @@
-Thamnomyces annulatus Ehrenb. SPECIES
-=======
+# Thamnomyces annulatus Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

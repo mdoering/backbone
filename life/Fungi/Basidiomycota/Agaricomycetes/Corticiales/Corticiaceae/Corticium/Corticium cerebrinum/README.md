@@ -1,5 +1,4 @@
-Corticium cerebrinum Pat. SPECIES
-=======
+# Corticium cerebrinum Pat. SPECIES
 
 #### Status
 ACCEPTED

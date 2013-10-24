@@ -1,17 +1,16 @@
-Pertusaria constricta var. bauschiana Erichsen VARIETY
-=======
+# Pertusaria constricta Erichsen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig) 9(5. 1): 343 (1935)
 
 #### Original name
-Pertusaria constricta var. bauschiana Erichsen
+Pertusaria constricta Erichsen
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Induratia Samuels, E. Müll. & Petrini GENUS
-=======
+# Induratia Samuels, E. Müll. & Petrini GENUS
 
 #### Status
 ACCEPTED

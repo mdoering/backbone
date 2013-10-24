@@ -1,14 +1,13 @@
-Gyalideopsis vivantii Sérus. SPECIES
-=======
+# Lithogyalideopsis vivantii (Sérus.) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nova Hedwigia 67(3-4): 393 (1998)
+Lichenologist 37(2): 165 (2005)
 
 #### Original name
 Gyalideopsis vivantii Sérus.

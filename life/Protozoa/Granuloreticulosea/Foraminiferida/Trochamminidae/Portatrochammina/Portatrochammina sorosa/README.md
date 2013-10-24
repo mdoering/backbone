@@ -1,5 +1,4 @@
-Portatrochammina sorosa (Parr, 1950) SPECIES
-=======
+# Portatrochammina sorosa (Parr, 1950) SPECIES
 
 #### Status
 ACCEPTED

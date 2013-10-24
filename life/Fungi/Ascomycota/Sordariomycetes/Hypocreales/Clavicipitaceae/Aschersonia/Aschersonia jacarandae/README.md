@@ -1,5 +1,4 @@
-Aschersonia jacarandae Speg. SPECIES
-=======
+# Aschersonia jacarandae Speg. SPECIES
 
 #### Status
 ACCEPTED

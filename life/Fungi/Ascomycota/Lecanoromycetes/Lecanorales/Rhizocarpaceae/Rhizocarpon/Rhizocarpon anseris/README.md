@@ -1,5 +1,4 @@
-Rhizocarpon anseris Lynge SPECIES
-=======
+# Rhizocarpon anseris Lynge SPECIES
 
 #### Status
 ACCEPTED

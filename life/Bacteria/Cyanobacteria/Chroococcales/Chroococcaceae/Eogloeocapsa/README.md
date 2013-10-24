@@ -1,5 +1,4 @@
-Eogloeocapsa V.K. Golovenoc & M.J. Belova, 1984 GENUS
-=======
+# Eogloeocapsa V.K. Golovenoc & M.J. Belova, 1984 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum corni-asperifoliae Gonz. Frag. SPECIES
-=======
+# Coryneum corni-asperifoliae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

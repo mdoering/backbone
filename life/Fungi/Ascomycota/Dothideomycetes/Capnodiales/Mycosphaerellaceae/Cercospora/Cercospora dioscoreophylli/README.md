@@ -1,5 +1,4 @@
-Cercospora dioscoreophylli Henn. SPECIES
-=======
+# Cercospora dioscoreophylli Henn. SPECIES
 
 #### Status
 ACCEPTED

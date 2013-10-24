@@ -1,5 +1,4 @@
-Strigula atrocarpa Vain. SPECIES
-=======
+# Strigula atrocarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

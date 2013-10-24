@@ -1,5 +1,4 @@
-Halbaniella javanica (Racib.) Theiss. SPECIES
-=======
+# Halbaniella javanica (Racib.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

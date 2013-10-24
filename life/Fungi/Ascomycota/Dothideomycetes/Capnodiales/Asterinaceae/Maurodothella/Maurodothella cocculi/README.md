@@ -1,5 +1,4 @@
-Maurodothella cocculi (F. Stevens & R.W. Ryan) G. Arnaud SPECIES
-=======
+# Maurodothella cocculi (F. Stevens & R.W. Ryan) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

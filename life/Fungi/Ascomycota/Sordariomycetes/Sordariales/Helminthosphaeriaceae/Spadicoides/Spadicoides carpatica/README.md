@@ -1,5 +1,4 @@
-Spadicoides carpatica Hol.-Jech. SPECIES
-=======
+# Spadicoides carpatica Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

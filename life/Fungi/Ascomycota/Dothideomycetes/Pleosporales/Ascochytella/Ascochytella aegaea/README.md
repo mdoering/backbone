@@ -1,5 +1,4 @@
-Ascochytella aegaea Petr. SPECIES
-=======
+# Ascochytella aegaea Petr. SPECIES
 
 #### Status
 ACCEPTED

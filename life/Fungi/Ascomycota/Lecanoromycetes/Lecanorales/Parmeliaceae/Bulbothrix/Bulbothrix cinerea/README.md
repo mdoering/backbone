@@ -1,5 +1,4 @@
-Bulbothrix cinerea Marcelli & Kalb SPECIES
-=======
+# Bulbothrix cinerea Marcelli & Kalb SPECIES
 
 #### Status
 ACCEPTED

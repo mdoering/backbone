@@ -1,5 +1,4 @@
-Caloplaca crenularia (With.) J.R. Laundon SPECIES
-=======
+# Caloplaca crenularia (With.) J.R. Laundon SPECIES
 
 #### Status
 ACCEPTED

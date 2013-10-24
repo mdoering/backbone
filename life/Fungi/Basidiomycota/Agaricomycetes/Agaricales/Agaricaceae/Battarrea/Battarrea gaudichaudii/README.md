@@ -1,5 +1,4 @@
-Battarrea gaudichaudii Mont. SPECIES
-=======
+# Battarrea gaudichaudii Mont. SPECIES
 
 #### Status
 ACCEPTED

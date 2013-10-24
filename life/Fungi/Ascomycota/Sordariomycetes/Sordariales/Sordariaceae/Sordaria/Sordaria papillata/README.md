@@ -1,5 +1,4 @@
-Sordaria papillata Urries SPECIES
-=======
+# Sordaria papillata Urries SPECIES
 
 #### Status
 ACCEPTED

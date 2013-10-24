@@ -1,5 +1,4 @@
-Myelochroa sinica Sheng L. Wang, J. B. Chen & Elix SPECIES
-=======
+# Myelochroa sinica Sheng L. Wang, J. B. Chen & Elix SPECIES
 
 #### Status
 ACCEPTED

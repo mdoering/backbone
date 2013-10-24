@@ -1,5 +1,4 @@
-Toninia lecanorina (Anzi) H. Olivier SPECIES
-=======
+# Toninia lecanorina (Anzi) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

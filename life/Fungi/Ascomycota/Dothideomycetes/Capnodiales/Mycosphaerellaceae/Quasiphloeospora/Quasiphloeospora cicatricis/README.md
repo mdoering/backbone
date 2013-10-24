@@ -1,5 +1,4 @@
-Quasiphloeospora cicatricis Shamoun, Crous & B. Sutton SPECIES
-=======
+# Quasiphloeospora cicatricis Shamoun, Crous & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaena botulus R. Margalef SPECIES
-=======
+# Anabaena botulus R. Margalef SPECIES
 
 #### Status
 ACCEPTED

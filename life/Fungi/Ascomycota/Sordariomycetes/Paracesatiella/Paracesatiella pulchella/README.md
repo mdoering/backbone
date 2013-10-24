@@ -1,5 +1,4 @@
-Paracesatiella pulchella Petr. SPECIES
-=======
+# Paracesatiella pulchella Petr. SPECIES
 
 #### Status
 ACCEPTED

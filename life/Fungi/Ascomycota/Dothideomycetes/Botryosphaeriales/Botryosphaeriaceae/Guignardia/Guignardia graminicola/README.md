@@ -1,5 +1,4 @@
-Guignardia graminicola (Rostr.) Vasyag. SPECIES
-=======
+# Guignardia graminicola (Rostr.) Vasyag. SPECIES
 
 #### Status
 ACCEPTED

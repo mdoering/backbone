@@ -1,5 +1,4 @@
-Usnea subgracilis Vain. SPECIES
-=======
+# Usnea subgracilis Vain. SPECIES
 
 #### Status
 ACCEPTED

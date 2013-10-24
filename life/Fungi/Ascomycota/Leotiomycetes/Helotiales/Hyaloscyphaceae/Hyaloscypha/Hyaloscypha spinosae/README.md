@@ -1,5 +1,4 @@
-Hyaloscypha spinosae Velen. SPECIES
-=======
+# Hyaloscypha spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

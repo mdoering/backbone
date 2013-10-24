@@ -1,5 +1,4 @@
-Leptogium fusisporum (Tuck.) C. W. Dodge SPECIES
-=======
+# Leptogium fusisporum (Tuck.) C. W. Dodge SPECIES
 
 #### Status
 ACCEPTED

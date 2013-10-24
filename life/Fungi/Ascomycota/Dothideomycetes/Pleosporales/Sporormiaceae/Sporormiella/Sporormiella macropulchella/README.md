@@ -1,5 +1,4 @@
-Sporormiella macropulchella R.S. Khan & Cain SPECIES
-=======
+# Sporormiella macropulchella R.S. Khan & Cain SPECIES
 
 #### Status
 ACCEPTED

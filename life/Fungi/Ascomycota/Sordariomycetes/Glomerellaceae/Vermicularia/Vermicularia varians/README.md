@@ -1,5 +1,4 @@
-Vermicularia varians Ducomet SPECIES
-=======
+# Vermicularia varians Ducomet SPECIES
 
 #### Status
 ACCEPTED

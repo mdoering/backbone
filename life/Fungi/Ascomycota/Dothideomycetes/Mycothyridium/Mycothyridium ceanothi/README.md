@@ -1,5 +1,4 @@
-Mycothyridium ceanothi (Dearn. & House) Petr. SPECIES
-=======
+# Mycothyridium ceanothi (Dearn. & House) Petr. SPECIES
 
 #### Status
 ACCEPTED

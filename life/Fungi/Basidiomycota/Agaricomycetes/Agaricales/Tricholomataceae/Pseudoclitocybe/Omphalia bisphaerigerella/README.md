@@ -1,5 +1,4 @@
-Omphalia bisphaerigerella M. Lange SPECIES
-=======
+# Omphalia bisphaerigerella M. Lange SPECIES
 
 #### Status
 ACCEPTED

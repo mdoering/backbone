@@ -1,5 +1,4 @@
-Septogloeum sulphureum Syd. & P. Syd. SPECIES
-=======
+# Septogloeum sulphureum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

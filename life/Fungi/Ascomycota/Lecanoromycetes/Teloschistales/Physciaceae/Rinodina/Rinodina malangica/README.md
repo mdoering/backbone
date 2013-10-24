@@ -1,8 +1,7 @@
-Rinodina horiza f. rhododendri Hepp FORM
-=======
+# Rinodina malangica (Norman) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

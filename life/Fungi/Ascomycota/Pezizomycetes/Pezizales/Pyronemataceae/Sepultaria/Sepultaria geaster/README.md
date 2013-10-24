@@ -1,14 +1,13 @@
-Lachnea geaster (Berk. & Broome) W. Phillips, 1887 SPECIES
-=======
+# Sepultaria geaster (Berk. & Broome) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 172 (1889)
+null
 
 #### Original name
 Peziza geaster Berk. & Broome, 1861

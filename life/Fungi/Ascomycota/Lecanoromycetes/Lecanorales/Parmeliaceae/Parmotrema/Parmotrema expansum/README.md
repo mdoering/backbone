@@ -1,5 +1,4 @@
-Parmotrema expansum Hale SPECIES
-=======
+# Parmotrema expansum Hale SPECIES
 
 #### Status
 ACCEPTED

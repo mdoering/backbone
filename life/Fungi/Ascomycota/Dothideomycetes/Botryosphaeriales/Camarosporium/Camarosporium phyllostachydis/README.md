@@ -1,5 +1,4 @@
-Camarosporium phyllostachydis Siemaszko SPECIES
-=======
+# Camarosporium phyllostachydis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

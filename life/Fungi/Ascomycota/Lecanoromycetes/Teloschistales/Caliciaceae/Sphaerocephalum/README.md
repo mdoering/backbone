@@ -1,5 +1,4 @@
-Sphaerocephalum GENUS
-=======
+# Sphaerocephalum GENUS
 
 #### Status
 ACCEPTED

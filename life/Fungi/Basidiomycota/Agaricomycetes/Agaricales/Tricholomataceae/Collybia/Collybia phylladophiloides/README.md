@@ -1,5 +1,4 @@
-Collybia phylladophiloides Singer SPECIES
-=======
+# Collybia phylladophiloides Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius atkinsonianus Kauffman SPECIES
-=======
+# Cortinarius atkinsonianus Kauffman SPECIES
 
 #### Status
 ACCEPTED

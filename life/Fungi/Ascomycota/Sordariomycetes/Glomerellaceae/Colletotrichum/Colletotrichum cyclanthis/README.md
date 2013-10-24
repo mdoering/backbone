@@ -1,5 +1,4 @@
-Colletotrichum cyclanthis Novoss. SPECIES
-=======
+# Colletotrichum cyclanthis Novoss. SPECIES
 
 #### Status
 ACCEPTED

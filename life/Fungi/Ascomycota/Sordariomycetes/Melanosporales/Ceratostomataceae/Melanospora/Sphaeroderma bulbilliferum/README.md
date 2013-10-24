@@ -1,5 +1,4 @@
-Sphaeroderma bulbilliferum Berl. SPECIES
-=======
+# Sphaeroderma bulbilliferum Berl. SPECIES
 
 #### Status
 ACCEPTED

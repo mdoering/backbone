@@ -1,5 +1,4 @@
-Pyrenodesmia diphyes (Arnold) Kernst SPECIES
-=======
+# Pyrenodesmia diphyes (Arnold) Kernst SPECIES
 
 #### Status
 ACCEPTED

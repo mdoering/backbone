@@ -1,5 +1,4 @@
-Arthonia dendritella Nyl. SPECIES
-=======
+# Arthonia dendritella Nyl. SPECIES
 
 #### Status
 ACCEPTED

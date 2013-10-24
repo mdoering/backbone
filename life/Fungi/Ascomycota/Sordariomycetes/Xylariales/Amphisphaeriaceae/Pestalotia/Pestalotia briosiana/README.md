@@ -1,5 +1,4 @@
-Pestalotia briosiana Montemart. SPECIES
-=======
+# Pestalotia briosiana Montemart. SPECIES
 
 #### Status
 ACCEPTED

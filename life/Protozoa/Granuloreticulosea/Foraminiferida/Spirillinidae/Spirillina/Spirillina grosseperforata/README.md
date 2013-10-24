@@ -1,5 +1,4 @@
-Spirillina grosseperforata Zheng, 1979 SPECIES
-=======
+# Spirillina grosseperforata Zheng, 1979 SPECIES
 
 #### Status
 ACCEPTED

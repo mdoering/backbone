@@ -1,5 +1,4 @@
-Stereum pusillum Berk. SPECIES
-=======
+# Stereum pusillum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria centrafricana Saccas SPECIES
-=======
+# Leptosphaeria centrafricana Saccas SPECIES
 
 #### Status
 ACCEPTED

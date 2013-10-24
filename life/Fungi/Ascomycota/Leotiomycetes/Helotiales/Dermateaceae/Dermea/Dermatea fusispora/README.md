@@ -1,5 +1,4 @@
-Dermatea fusispora var. fusispora VARIETY
-=======
+# Dermatea fusispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. 45: 148 (1893)
 
 #### Original name
-Dermatea fusispora var. fusispora
+Dermatea fusispora Ellis & Everh.
 
 ### Remarks
 null

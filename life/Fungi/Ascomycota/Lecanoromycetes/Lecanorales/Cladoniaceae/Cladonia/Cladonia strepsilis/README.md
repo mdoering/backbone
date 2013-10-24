@@ -1,5 +1,4 @@
-Cladonia strepsilis f. strepsilis FORM
-=======
+# Cladonia strepsilis (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia strepsilis f. strepsilis
+Baeomyces strepsilis Ach.
 
 ### Remarks
 null

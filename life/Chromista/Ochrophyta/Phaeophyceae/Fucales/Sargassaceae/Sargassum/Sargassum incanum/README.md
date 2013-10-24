@@ -1,5 +1,4 @@
-Sargassum incanum Grunow SPECIES
-=======
+# Sargassum incanum Grunow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dialonectria depauperata (Cooke) Cooke SPECIES
-=======
+# Dialonectria depauperata (Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma atrificans Speg. SPECIES
-=======
+# Phoma atrificans Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphelium physarellum A. Massal. SPECIES
-=======
+# Cyphelium physarellum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

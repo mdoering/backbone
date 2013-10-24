@@ -1,5 +1,4 @@
-Dothiorella stramonii Petr. SPECIES
-=======
+# Dothiorella stramonii Petr. SPECIES
 
 #### Status
 ACCEPTED

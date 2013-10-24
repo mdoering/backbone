@@ -1,5 +1,4 @@
-Meliola symphoremae F. Stevens & Roldan SPECIES
-=======
+# Meliola symphoremae F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED

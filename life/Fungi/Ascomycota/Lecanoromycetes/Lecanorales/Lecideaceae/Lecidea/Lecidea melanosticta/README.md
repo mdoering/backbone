@@ -1,5 +1,4 @@
-Lecidea melanosticta Hue SPECIES
-=======
+# Lecidea melanosticta Hue SPECIES
 
 #### Status
 ACCEPTED

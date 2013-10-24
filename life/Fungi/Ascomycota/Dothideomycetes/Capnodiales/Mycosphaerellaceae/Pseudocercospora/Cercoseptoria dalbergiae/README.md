@@ -1,5 +1,4 @@
-Cercoseptoria dalbergiae (S.H. Sun) J.M. Yen SPECIES
-=======
+# Cercoseptoria dalbergiae (S.H. Sun) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

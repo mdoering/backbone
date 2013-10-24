@@ -1,5 +1,4 @@
-Lecythea pallens Sacc. SPECIES
-=======
+# Lecythea pallens Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stelliferidium stelligerum (Górka, 1967 emend. Martin, 1972) emend. Deunff, Górka & Rauscher, 1974 SPECIES
-=======
+# Stelliferidium stelligerum (Górka, 1967 emend. Martin, 1972) emend. Deunff, Górka & Rauscher, 1974 SPECIES
 
 #### Status
 ACCEPTED

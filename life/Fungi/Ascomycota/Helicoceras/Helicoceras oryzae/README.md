@@ -1,5 +1,4 @@
-Helicoceras oryzae Linder & Tullis, 1931 SPECIES
-=======
+# Helicoceras oryzae Linder & Tullis, 1931 SPECIES
 
 #### Status
 ACCEPTED

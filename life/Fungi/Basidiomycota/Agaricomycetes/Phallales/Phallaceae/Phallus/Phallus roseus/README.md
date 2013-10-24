@@ -1,5 +1,4 @@
-Phallus roseus Delile SPECIES
-=======
+# Phallus roseus Delile SPECIES
 
 #### Status
 ACCEPTED

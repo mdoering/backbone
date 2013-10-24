@@ -1,5 +1,4 @@
-Sporisorium henningsii (Sacc. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium henningsii (Sacc. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

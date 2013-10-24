@@ -1,17 +1,16 @@
-Coniochaeta williamsi Hansf. SPECIES
-=======
+# Coniochaeta williamsii Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 79(3-4): 115 (1955)
 
 #### Original name
-Coniochaeta williamsi Hansf.
+Coniochaeta williamsii Hansf.
 
 ### Remarks
 null

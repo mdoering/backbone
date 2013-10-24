@@ -1,5 +1,4 @@
-Lecidea ambigua Fr. SPECIES
-=======
+# Lecidea ambigua Fr. SPECIES
 
 #### Status
 ACCEPTED

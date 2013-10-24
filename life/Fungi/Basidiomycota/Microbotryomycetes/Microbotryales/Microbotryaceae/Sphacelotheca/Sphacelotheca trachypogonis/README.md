@@ -1,5 +1,4 @@
-Sphacelotheca trachypogonis (Zundel) Zambett. SPECIES
-=======
+# Sphacelotheca trachypogonis (Zundel) Zambett. SPECIES
 
 #### Status
 ACCEPTED

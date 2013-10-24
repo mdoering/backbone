@@ -1,5 +1,4 @@
-Patellaria andina Speg. SPECIES
-=======
+# Patellaria andina Speg. SPECIES
 
 #### Status
 ACCEPTED

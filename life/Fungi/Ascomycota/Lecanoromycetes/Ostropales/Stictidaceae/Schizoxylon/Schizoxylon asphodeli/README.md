@@ -1,5 +1,4 @@
-Schizoxylon asphodeli Maire SPECIES
-=======
+# Schizoxylon asphodeli Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca sparsa var. sparsa VARIETY
-=======
+# Caloplaca sparsa (C.W. Dodge & G.E. Baker) Cretz. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca sparsa var. sparsa
+Polycauliona sparsa C.W. Dodge & G.E. Baker
 
 ### Remarks
 null

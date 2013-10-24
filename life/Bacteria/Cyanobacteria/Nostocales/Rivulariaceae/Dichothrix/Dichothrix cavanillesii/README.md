@@ -1,5 +1,4 @@
-Dichothrix cavanillesii P. González SPECIES
-=======
+# Dichothrix cavanillesii P. González SPECIES
 
 #### Status
 ACCEPTED

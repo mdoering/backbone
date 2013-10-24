@@ -1,5 +1,4 @@
-Thysanothecium nipponicum Asahina SPECIES
-=======
+# Thysanothecium nipponicum Asahina SPECIES
 
 #### Status
 ACCEPTED

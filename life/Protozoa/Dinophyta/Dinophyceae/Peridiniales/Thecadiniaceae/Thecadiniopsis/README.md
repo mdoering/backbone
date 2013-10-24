@@ -1,5 +1,4 @@
-Thecadiniopsis R.L.Croome, G.M.Hallegraeff & P.A.Tyler, 1988 GENUS
-=======
+# Thecadiniopsis R.L.Croome, G.M.Hallegraeff & P.A.Tyler, 1988 GENUS
 
 #### Status
 ACCEPTED

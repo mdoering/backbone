@@ -1,5 +1,4 @@
-Stigmatomyces excavatus Thaxt. SPECIES
-=======
+# Stigmatomyces excavatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

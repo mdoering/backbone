@@ -1,5 +1,4 @@
-Cercidospora buxicola (Fabre) Kuntze SPECIES
-=======
+# Cercidospora buxicola (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylospora crassa Sarrión & Hafellner SPECIES
-=======
+# Dactylospora crassa Sarrión & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lachnum moutoni Rehm SPECIES
-=======
+# Lachnum moutonii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lachnum moutoni Rehm
+Lachnum moutonii Rehm
 
 ### Remarks
 null

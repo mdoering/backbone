@@ -1,5 +1,4 @@
-Spermatodium maculare (Wallr.) Trevis. SPECIES
-=======
+# Spermatodium maculare (Wallr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

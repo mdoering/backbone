@@ -1,5 +1,4 @@
-Licmophora minuta Agardh SPECIES
-=======
+# Licmophora minuta Agardh SPECIES
 
 #### Status
 ACCEPTED

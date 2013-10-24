@@ -1,5 +1,4 @@
-Tricholoma mutabile Shanks SPECIES
-=======
+# Tricholoma mutabile Shanks SPECIES
 
 #### Status
 ACCEPTED

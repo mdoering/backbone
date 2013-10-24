@@ -1,5 +1,4 @@
-Polykrikos kofoidi SPECIES
-=======
+# Polykrikos kofoidi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius bambrus Grgur. SPECIES
-=======
+# Cortinarius bambrus Grgur. SPECIES
 
 #### Status
 ACCEPTED

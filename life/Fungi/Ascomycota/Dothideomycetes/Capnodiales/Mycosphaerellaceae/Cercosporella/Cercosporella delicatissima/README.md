@@ -1,5 +1,4 @@
-Cercosporella delicatissima (Kalchbr. & Cooke) Chupp SPECIES
-=======
+# Cercosporella delicatissima (Kalchbr. & Cooke) Chupp SPECIES
 
 #### Status
 ACCEPTED

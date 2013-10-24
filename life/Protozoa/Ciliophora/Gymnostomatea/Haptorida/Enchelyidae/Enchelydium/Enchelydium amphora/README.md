@@ -1,5 +1,4 @@
-Enchelydium amphora (Kahl, 1930) Kahl, 1930 SPECIES
-=======
+# Enchelydium amphora (Kahl, 1930) Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

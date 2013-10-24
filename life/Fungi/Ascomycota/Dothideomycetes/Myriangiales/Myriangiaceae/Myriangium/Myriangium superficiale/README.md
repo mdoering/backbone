@@ -1,14 +1,13 @@
-Myriangium superficialis (Peck & Clinton) M.E. Barr SPECIES
-=======
+# Myriangium superficiale (Peck & Clinton) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Barr, Rogerson, Smith & Haines, Bull. N. Y. St. Mus. 45 (1986)
 
 #### Original name
 Melogramma superficialis Cooke & Peck

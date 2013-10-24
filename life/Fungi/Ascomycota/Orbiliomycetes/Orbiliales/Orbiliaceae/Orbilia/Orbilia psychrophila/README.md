@@ -1,5 +1,4 @@
-Orbilia psychrophila Baral SPECIES
-=======
+# Orbilia psychrophila Baral SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia circumtegans Rostr. SPECIES
-=======
+# Laestadia circumtegans Rostr. SPECIES
 
 #### Status
 ACCEPTED

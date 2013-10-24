@@ -1,5 +1,4 @@
-Sphaeria cuboniana De Not. SPECIES
-=======
+# Sphaeria cuboniana De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hapsidospora Malloch & Cain GENUS
-=======
+# Hapsidospora Malloch & Cain GENUS
 
 #### Status
 ACCEPTED

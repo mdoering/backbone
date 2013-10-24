@@ -1,5 +1,4 @@
-Protomyces cyrenaicus Parisi SPECIES
-=======
+# Protomyces cyrenaicus Parisi SPECIES
 
 #### Status
 ACCEPTED

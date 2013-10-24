@@ -1,5 +1,4 @@
-Microthelia prunastria Linds. SPECIES
-=======
+# Microthelia prunastria Linds. SPECIES
 
 #### Status
 ACCEPTED

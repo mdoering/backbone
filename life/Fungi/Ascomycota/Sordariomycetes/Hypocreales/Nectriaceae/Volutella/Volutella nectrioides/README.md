@@ -1,5 +1,4 @@
-Volutella nectrioides Sacc. SPECIES
-=======
+# Volutella nectrioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

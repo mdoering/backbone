@@ -1,5 +1,4 @@
-Geotrichum hirtum Windisch, 1952 SPECIES
-=======
+# Geotrichum hirtum Windisch, 1952 SPECIES
 
 #### Status
 ACCEPTED

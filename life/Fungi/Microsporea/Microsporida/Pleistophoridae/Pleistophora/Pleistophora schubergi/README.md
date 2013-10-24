@@ -1,5 +1,4 @@
-Pleistophora schubergi Zwölfer SPECIES
-=======
+# Pleistophora schubergi Zwölfer SPECIES
 
 #### Status
 ACCEPTED

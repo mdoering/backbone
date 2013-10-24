@@ -1,5 +1,4 @@
-Trichoderma viridiopsis ined. SPECIES
-=======
+# Trichoderma viridiopsis ined. SPECIES
 
 #### Status
 ACCEPTED

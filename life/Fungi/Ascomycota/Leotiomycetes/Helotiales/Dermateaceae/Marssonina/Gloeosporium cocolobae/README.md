@@ -1,5 +1,4 @@
-Gloeosporium cocolobae C. C. Chen SPECIES
-=======
+# Gloeosporium cocolobae C. C. Chen SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Russula fuscovinacea J.E. Lange SPECIES
-=======
+# Russula fuscovinacea J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

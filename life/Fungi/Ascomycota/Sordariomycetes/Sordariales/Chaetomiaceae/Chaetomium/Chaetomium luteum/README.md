@@ -1,14 +1,13 @@
-Achaetomium luteum J.N. Rai & J.P. Tewari, 1964 SPECIES
-=======
+# Chaetomium luteum (J.N. Rai & J.P. Tewari) P.F. Cannon, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rai, Tewari & Mukerji, Can. J. Bot. 42(6): 694 (1964)
+Trans. Br. mycol. Soc. 87(1): 60 (1986)
 
 #### Original name
 Achaetomium luteum J.N. Rai & J.P. Tewari, 1964

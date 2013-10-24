@@ -1,5 +1,4 @@
-Didymella pseudosasae I. Hino & Katum. SPECIES
-=======
+# Didymella pseudosasae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

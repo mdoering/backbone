@@ -1,5 +1,4 @@
-Coniothyrium artemisiae Kalymb. SPECIES
-=======
+# Coniothyrium artemisiae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

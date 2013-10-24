@@ -1,5 +1,4 @@
-Oxytoxum mediterraneum Schiller SPECIES
-=======
+# Oxytoxum mediterraneum Schiller SPECIES
 
 #### Status
 ACCEPTED

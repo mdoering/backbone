@@ -1,5 +1,4 @@
-Lecanora disculifera var. disculifera VARIETY
-=======
+# Lecanora disculifera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora disculifera var. disculifera
+Lecanora disculifera Zahlbr.
 
 ### Remarks
 null

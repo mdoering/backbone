@@ -1,5 +1,4 @@
-Sphaeronaemella filicina Cooke & Massee, 1890 SPECIES
-=======
+# Sphaeronaemella filicina Cooke & Massee, 1890 SPECIES
 
 #### Status
 ACCEPTED

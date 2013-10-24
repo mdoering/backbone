@@ -1,5 +1,4 @@
-Detonula schroderi Wang & Chen SPECIES
-=======
+# Detonula schroderi Wang & Chen SPECIES
 
 #### Status
 ACCEPTED

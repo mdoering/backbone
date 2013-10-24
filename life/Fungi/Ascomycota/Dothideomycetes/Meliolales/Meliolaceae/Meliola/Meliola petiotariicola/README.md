@@ -1,5 +1,4 @@
-Meliola petiotariicola Mibey SPECIES
-=======
+# Meliola petiotariicola Mibey SPECIES
 
 #### Status
 ACCEPTED

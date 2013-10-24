@@ -1,5 +1,4 @@
-Coprinus pseudolagopus R.F.O. Kemp SPECIES
-=======
+# Coprinus pseudolagopus R.F.O. Kemp SPECIES
 
 #### Status
 ACCEPTED

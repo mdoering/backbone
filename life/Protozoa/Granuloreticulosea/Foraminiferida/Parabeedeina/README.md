@@ -1,5 +1,4 @@
-Parabeedeina Solovieva, 1996 GENUS
-=======
+# Parabeedeina Solovieva, 1996 GENUS
 
 #### Status
 ACCEPTED

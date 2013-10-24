@@ -1,5 +1,4 @@
-Hormiactella verruculosa V.N. Boriss. SPECIES
-=======
+# Hormiactella verruculosa V.N. Boriss. SPECIES
 
 #### Status
 ACCEPTED

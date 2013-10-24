@@ -1,5 +1,4 @@
-Russula monspeliensis Sarnari SPECIES
-=======
+# Russula monspeliensis Sarnari SPECIES
 
 #### Status
 ACCEPTED

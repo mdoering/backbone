@@ -1,5 +1,4 @@
-Dimerium bactridicola Henn. SPECIES
-=======
+# Dimerium bactridicola Henn. SPECIES
 
 #### Status
 ACCEPTED

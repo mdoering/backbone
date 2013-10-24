@@ -1,5 +1,4 @@
-Bacidia inamoena Zahlbr. SPECIES
-=======
+# Bacidia inamoena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

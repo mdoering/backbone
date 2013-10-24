@@ -1,5 +1,4 @@
-Polystomella abietis Höhn. SPECIES
-=======
+# Polystomella abietis Höhn. SPECIES
 
 #### Status
 ACCEPTED

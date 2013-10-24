@@ -1,5 +1,4 @@
-Tapesia eriophori var. eriophori VARIETY
-=======
+# Tapesia eriophori Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 140 (1934)
 
 #### Original name
-Tapesia eriophori var. eriophori
+Tapesia eriophori Velen.
 
 ### Remarks
 null

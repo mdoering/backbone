@@ -1,5 +1,4 @@
-Pleurotus squamuliformis Velen. SPECIES
-=======
+# Pleurotus squamuliformis Velen. SPECIES
 
 #### Status
 ACCEPTED

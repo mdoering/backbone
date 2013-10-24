@@ -1,5 +1,4 @@
-Microdiplodia minor (Syd.) Allesch. SPECIES
-=======
+# Microdiplodia minor (Syd.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

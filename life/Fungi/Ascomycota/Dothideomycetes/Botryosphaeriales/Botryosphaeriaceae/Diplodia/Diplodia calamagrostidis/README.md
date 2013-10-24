@@ -1,5 +1,4 @@
-Diplodia calamagrostidis Dearn. SPECIES
-=======
+# Diplodia calamagrostidis Dearn. SPECIES
 
 #### Status
 ACCEPTED

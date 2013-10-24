@@ -1,5 +1,4 @@
-Sclerogaster hysterangioides (Tul. & C. Tul.) Zeller & C.W. Dodge, 1935 SPECIES
-=======
+# Sclerogaster hysterangioides (Tul. & C. Tul.) Zeller & C.W. Dodge, 1935 SPECIES
 
 #### Status
 ACCEPTED

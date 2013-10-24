@@ -1,5 +1,4 @@
-Cercidospora combulliens (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cercidospora combulliens (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

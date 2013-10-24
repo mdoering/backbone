@@ -1,5 +1,4 @@
-Kitasatospora cheerisanensis Chung et al., 1999 SPECIES
-=======
+# Kitasatospora cheerisanensis Chung et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

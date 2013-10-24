@@ -1,5 +1,4 @@
-Sporhelminthium pseudoperithecigerum Speg. SPECIES
-=======
+# Sporhelminthium pseudoperithecigerum Speg. SPECIES
 
 #### Status
 ACCEPTED

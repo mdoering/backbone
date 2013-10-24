@@ -1,5 +1,4 @@
-Cylindrosporium brevispinum Dearn. SPECIES
-=======
+# Cylindrosporium brevispinum Dearn. SPECIES
 
 #### Status
 ACCEPTED

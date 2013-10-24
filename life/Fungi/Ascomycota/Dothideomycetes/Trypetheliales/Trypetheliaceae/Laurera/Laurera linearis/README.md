@@ -1,5 +1,4 @@
-Laurera linearis (C.W. Dodge) Letr.-Gal. SPECIES
-=======
+# Laurera linearis (C.W. Dodge) Letr.-Gal. SPECIES
 
 #### Status
 ACCEPTED

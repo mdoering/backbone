@@ -1,5 +1,4 @@
-Asteromites Poinar GENUS
-=======
+# Asteromites Poinar GENUS
 
 #### Status
 ACCEPTED

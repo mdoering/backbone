@@ -1,5 +1,4 @@
-Diplodia assumptionis Speg. SPECIES
-=======
+# Diplodia assumptionis Speg. SPECIES
 
 #### Status
 ACCEPTED

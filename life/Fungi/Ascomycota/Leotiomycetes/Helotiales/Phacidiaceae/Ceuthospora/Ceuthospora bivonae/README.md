@@ -1,5 +1,4 @@
-Ceuthospora bivonae (Fuckel) Höhn. SPECIES
-=======
+# Ceuthospora bivonae (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

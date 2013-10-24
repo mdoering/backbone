@@ -1,5 +1,4 @@
-Gloeosporium epidendri Henn. SPECIES
-=======
+# Gloeosporium epidendri Henn. SPECIES
 
 #### Status
 ACCEPTED

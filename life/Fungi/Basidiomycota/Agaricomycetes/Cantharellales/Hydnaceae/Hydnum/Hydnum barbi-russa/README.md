@@ -1,5 +1,4 @@
-Hydnum barbi-russa Kunze SPECIES
-=======
+# Hydnum barbi-russa Kunze SPECIES
 
 #### Status
 ACCEPTED

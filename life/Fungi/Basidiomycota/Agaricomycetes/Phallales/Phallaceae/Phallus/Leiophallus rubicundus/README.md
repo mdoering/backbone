@@ -1,5 +1,4 @@
-Leiophallus rubicundus (Bosc) Mussat SPECIES
-=======
+# Leiophallus rubicundus (Bosc) Mussat SPECIES
 
 #### Status
 ACCEPTED

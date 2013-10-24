@@ -1,5 +1,4 @@
-Jahnula apiospora A. Carter, Raja & Shearer, 2008 SPECIES
-=======
+# Jahnula apiospora A. Carter, Raja & Shearer, 2008 SPECIES
 
 #### Status
 ACCEPTED

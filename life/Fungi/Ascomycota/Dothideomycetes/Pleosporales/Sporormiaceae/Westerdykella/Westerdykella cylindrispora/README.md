@@ -1,5 +1,4 @@
-Westerdykella cylindrispora (Lodha) Arx SPECIES
-=======
+# Westerdykella cylindrispora (Lodha) Arx SPECIES
 
 #### Status
 ACCEPTED

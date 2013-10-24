@@ -1,5 +1,4 @@
-Blastocladiella anabaenae Canter & Willoughby, 1964 SPECIES
-=======
+# Blastocladiella anabaenae Canter & Willoughby, 1964 SPECIES
 
 #### Status
 ACCEPTED

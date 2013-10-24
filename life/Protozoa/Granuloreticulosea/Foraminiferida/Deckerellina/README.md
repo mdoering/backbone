@@ -1,5 +1,4 @@
-Deckerellina Reitlinger, 1950 GENUS
-=======
+# Deckerellina Reitlinger, 1950 GENUS
 
 #### Status
 ACCEPTED

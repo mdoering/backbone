@@ -1,5 +1,4 @@
-Corticium weisseanum (Henn.) Herter SPECIES
-=======
+# Corticium weisseanum (Henn.) Herter SPECIES
 
 #### Status
 ACCEPTED

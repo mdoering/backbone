@@ -1,5 +1,4 @@
-Stemphylium iranicum Esfand. SPECIES
-=======
+# Stemphylium iranicum Esfand. SPECIES
 
 #### Status
 ACCEPTED

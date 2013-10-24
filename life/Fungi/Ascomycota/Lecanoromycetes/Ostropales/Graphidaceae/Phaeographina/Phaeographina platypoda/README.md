@@ -1,5 +1,4 @@
-Phaeographina platypoda Zahlbr. SPECIES
-=======
+# Phaeographina platypoda Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

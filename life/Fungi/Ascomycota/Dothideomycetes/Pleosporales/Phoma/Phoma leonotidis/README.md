@@ -1,5 +1,4 @@
-Phoma leonotidis Seaver SPECIES
-=======
+# Phoma leonotidis Seaver SPECIES
 
 #### Status
 ACCEPTED

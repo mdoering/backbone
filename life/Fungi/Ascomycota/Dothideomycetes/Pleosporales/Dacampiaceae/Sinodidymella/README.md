@@ -1,5 +1,4 @@
-Sinodidymella J.Z. Yue & O.E. Erikss. GENUS
-=======
+# Sinodidymella J.Z. Yue & O.E. Erikss. GENUS
 
 #### Status
 ACCEPTED

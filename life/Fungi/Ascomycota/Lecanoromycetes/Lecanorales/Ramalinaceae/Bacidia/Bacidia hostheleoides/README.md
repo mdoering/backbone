@@ -1,5 +1,4 @@
-Bacidia hostheleoides (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia hostheleoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

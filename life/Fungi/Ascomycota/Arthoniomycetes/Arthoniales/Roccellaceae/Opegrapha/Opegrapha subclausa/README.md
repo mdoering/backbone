@@ -1,5 +1,4 @@
-Opegrapha subclausa SPECIES
-=======
+# Opegrapha subclausa SPECIES
 
 #### Status
 ACCEPTED

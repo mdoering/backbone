@@ -1,5 +1,4 @@
-Actinelarium Haeckel, 1887 GENUS
-=======
+# Actinelarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

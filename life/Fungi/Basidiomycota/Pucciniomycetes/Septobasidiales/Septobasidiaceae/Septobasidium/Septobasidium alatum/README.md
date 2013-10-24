@@ -1,5 +1,4 @@
-Septobasidium alatum Lloyd SPECIES
-=======
+# Septobasidium alatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

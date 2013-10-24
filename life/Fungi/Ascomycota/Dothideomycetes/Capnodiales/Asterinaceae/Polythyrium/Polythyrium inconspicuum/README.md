@@ -1,5 +1,4 @@
-Polythyrium inconspicuum (Doidge) Bat. SPECIES
-=======
+# Polythyrium inconspicuum (Doidge) Bat. SPECIES
 
 #### Status
 ACCEPTED

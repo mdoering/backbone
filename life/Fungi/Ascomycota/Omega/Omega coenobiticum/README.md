@@ -1,5 +1,4 @@
-Omega coenobiticum B. Sutton & Minter, 1988 SPECIES
-=======
+# Omega coenobiticum B. Sutton & Minter, 1988 SPECIES
 
 #### Status
 ACCEPTED

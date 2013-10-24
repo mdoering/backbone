@@ -1,5 +1,4 @@
-Argomyces parilis Arthur SPECIES
-=======
+# Argomyces parilis Arthur SPECIES
 
 #### Status
 ACCEPTED

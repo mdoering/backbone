@@ -1,5 +1,4 @@
-Lecanora molybdina var. molybdina VARIETY
-=======
+# Lecanora molybdina (Wahlenb.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora molybdina var. molybdina
+Lichen molybdinus Wahlenb.
 
 ### Remarks
 null

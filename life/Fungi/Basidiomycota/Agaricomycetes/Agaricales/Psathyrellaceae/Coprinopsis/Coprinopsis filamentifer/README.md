@@ -1,17 +1,16 @@
-Coprinus filamentifer var. filamentifer VARIETY
-=======
+# Coprinopsis filamentifer (Kühner) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. nat. Oyonnax 10-11: 3 (1957)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 228 (2001)
 
 #### Original name
-Coprinus filamentifer var. filamentifer
+Coprinus filamentifer Kühner, 1957
 
 ### Remarks
 null

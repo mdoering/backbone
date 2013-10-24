@@ -1,5 +1,4 @@
-Pertusaria subverrucosa Kremp. SPECIES
-=======
+# Pertusaria subverrucosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

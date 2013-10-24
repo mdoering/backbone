@@ -1,5 +1,4 @@
-Poria discolor Overh. SPECIES
-=======
+# Poria discolor Overh. SPECIES
 
 #### Status
 ACCEPTED

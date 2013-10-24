@@ -1,5 +1,4 @@
-Thelotrema pseudosubtile Mangold SPECIES
-=======
+# Thelotrema pseudosubtile Mangold SPECIES
 
 #### Status
 ACCEPTED

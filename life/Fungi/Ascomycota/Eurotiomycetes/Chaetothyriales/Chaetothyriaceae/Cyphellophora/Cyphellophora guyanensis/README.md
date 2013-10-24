@@ -1,5 +1,4 @@
-Cyphellophora guyanensis Decock & G. Delgado SPECIES
-=======
+# Cyphellophora guyanensis Decock & G. Delgado SPECIES
 
 #### Status
 ACCEPTED

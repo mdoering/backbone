@@ -1,5 +1,4 @@
-Geopetalum subhaedinum Murrill SPECIES
-=======
+# Geopetalum subhaedinum Murrill SPECIES
 
 #### Status
 ACCEPTED

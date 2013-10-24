@@ -1,5 +1,4 @@
-Lecidea sphinctotricha H. Magn. SPECIES
-=======
+# Lecidea sphinctotricha H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus griseotomentosus Secr. SPECIES
-=======
+# Agaricus griseotomentosus Secr. SPECIES
 
 #### Status
 ACCEPTED

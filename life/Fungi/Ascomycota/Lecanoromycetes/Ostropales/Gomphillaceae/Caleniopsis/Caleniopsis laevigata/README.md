@@ -1,14 +1,13 @@
-Caleniopsis laevigatum (Müll. Arg.) Vezda & Poelt SPECIES
-=======
+# Caleniopsis laevigata (Müll. Arg.) Vezda & Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. 22: 187 (1987)
 
 #### Original name
 Calenia laevigata Müll. Arg.

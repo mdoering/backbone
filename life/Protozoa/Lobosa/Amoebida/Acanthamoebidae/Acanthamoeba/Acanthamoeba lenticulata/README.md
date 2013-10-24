@@ -1,5 +1,4 @@
-Acanthamoeba lenticulata Molet and Ermolieff-braun, 1976 SPECIES
-=======
+# Acanthamoeba lenticulata Molet and Ermolieff-braun, 1976 SPECIES
 
 #### Status
 ACCEPTED

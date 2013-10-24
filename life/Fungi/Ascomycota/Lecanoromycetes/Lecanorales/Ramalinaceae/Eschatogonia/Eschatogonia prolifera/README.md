@@ -1,5 +1,4 @@
-Eschatogonia prolifera (Mont.) R. Sant. SPECIES
-=======
+# Eschatogonia prolifera (Mont.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

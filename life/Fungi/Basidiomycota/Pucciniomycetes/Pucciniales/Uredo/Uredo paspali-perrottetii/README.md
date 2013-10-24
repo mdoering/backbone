@@ -1,5 +1,4 @@
-Uredo paspali-perrottetii Petch SPECIES
-=======
+# Uredo paspali-perrottetii Petch SPECIES
 
 #### Status
 ACCEPTED

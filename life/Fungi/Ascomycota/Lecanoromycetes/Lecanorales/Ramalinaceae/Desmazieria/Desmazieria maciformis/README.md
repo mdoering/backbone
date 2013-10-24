@@ -1,5 +1,4 @@
-Desmazieria maciformis (Delise) Follmann SPECIES
-=======
+# Desmazieria maciformis (Delise) Follmann SPECIES
 
 #### Status
 ACCEPTED

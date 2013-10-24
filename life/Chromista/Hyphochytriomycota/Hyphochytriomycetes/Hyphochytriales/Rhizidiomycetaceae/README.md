@@ -1,5 +1,4 @@
-Rhizidiomycetaceae Karling ex P.M. Kirk, P.F. Cannon & J.C. David FAMILY
-=======
+# Rhizidiomycetaceae Karling ex P.M. Kirk, P.F. Cannon & J.C. David FAMILY
 
 #### Status
 ACCEPTED

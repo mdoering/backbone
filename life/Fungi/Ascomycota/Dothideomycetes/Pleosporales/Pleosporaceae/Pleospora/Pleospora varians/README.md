@@ -1,5 +1,4 @@
-Pleospora varians Ces. SPECIES
-=======
+# Pleospora varians Ces. SPECIES
 
 #### Status
 ACCEPTED

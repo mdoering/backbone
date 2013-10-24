@@ -1,5 +1,4 @@
-Claviceps flavella (Berk. & M.A. Curtis) Petch SPECIES
-=======
+# Claviceps flavella (Berk. & M.A. Curtis) Petch SPECIES
 
 #### Status
 ACCEPTED

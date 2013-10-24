@@ -1,5 +1,4 @@
-Actinocladium amazonicum Matsush. SPECIES
-=======
+# Actinocladium amazonicum Matsush. SPECIES
 
 #### Status
 ACCEPTED

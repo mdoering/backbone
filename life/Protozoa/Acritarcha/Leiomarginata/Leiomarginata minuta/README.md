@@ -1,5 +1,4 @@
-Leiomarginata minuta N. Umnova, 1975 SPECIES
-=======
+# Leiomarginata minuta N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

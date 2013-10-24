@@ -1,5 +1,4 @@
-Septogloeum athrix (Erikss.) R. Sprague SPECIES
-=======
+# Septogloeum athrix (Erikss.) R. Sprague SPECIES
 
 #### Status
 ACCEPTED

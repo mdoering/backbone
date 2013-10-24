@@ -1,5 +1,4 @@
-Hygrophorus helvella Boud. SPECIES
-=======
+# Hygrophorus helvella Boud. SPECIES
 
 #### Status
 ACCEPTED

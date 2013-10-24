@@ -1,5 +1,4 @@
-Puccinia tripustulata Peck SPECIES
-=======
+# Puccinia tripustulata Peck SPECIES
 
 #### Status
 ACCEPTED

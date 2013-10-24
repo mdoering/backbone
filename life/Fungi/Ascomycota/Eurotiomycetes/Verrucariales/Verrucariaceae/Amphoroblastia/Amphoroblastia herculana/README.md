@@ -1,5 +1,4 @@
-Amphoroblastia herculana (Servít) Servít SPECIES
-=======
+# Amphoroblastia herculana (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bacillus brevis Migula, 1900 (Approved Lists, 1980) SPECIES
-=======
+# Brevibacillus brevis (Migula, 1900) Shida et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

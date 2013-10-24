@@ -1,5 +1,4 @@
-Cuphophyllus pegleri Lodge SPECIES
-=======
+# Cuphophyllus pegleri Lodge SPECIES
 
 #### Status
 ACCEPTED

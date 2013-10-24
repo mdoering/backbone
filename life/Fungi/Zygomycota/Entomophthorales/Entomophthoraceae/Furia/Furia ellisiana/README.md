@@ -1,5 +1,4 @@
-Furia ellisiana (Ben Ze'ev) Humber, 1989 SPECIES
-=======
+# Furia ellisiana (Ben Ze'ev) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

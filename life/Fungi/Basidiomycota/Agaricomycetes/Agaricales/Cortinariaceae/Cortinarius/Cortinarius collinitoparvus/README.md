@@ -1,5 +1,4 @@
-Cortinarius collinitoparvus Rob. Henry SPECIES
-=======
+# Cortinarius collinitoparvus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

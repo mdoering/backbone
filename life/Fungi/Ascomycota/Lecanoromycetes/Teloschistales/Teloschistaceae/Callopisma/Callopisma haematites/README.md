@@ -1,5 +1,4 @@
-Callopisma haematites (Chaub. ex St.-Amans) A. Massal. SPECIES
-=======
+# Callopisma haematites (Chaub. ex St.-Amans) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

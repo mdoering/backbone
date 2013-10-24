@@ -1,5 +1,4 @@
-Sphaerialea steganostroma Sousa da Câmara SPECIES
-=======
+# Sphaerialea steganostroma Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

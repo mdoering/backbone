@@ -1,5 +1,4 @@
-Akanthomyces homoptera ined. SPECIES
-=======
+# Akanthomyces homoptera ined. SPECIES
 
 #### Status
 ACCEPTED

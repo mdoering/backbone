@@ -1,8 +1,7 @@
-Frommeëlla mexicana var. mexicana (Mains) J.W. McCain & J.F. Hennen, 1990 VARIETY
-=======
+# Frommeëlla mexicana (Mains) J.W. McCain & J.F. Hennen, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycotaxon 39: 250 (1990)
 
 #### Original name
-Frommeëlla mexicana var. mexicana (Mains) J.W. McCain & J.F. Hennen, 1990
+Frommea mexicana Mains, 1939
 
 ### Remarks
 null

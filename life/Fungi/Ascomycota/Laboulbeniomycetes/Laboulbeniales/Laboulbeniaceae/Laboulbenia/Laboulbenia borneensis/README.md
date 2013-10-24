@@ -1,5 +1,4 @@
-Laboulbenia borneensis Thaxt. SPECIES
-=======
+# Laboulbenia borneensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

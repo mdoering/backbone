@@ -1,5 +1,4 @@
-Sphaerulina phyllostachydis I. Hino & Katum. SPECIES
-=======
+# Sphaerulina phyllostachydis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glonium medium (Cooke) Sacc. SPECIES
-=======
+# Glonium medium (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodinium magnum K. P. Jain SPECIES
-=======
+# Trichodinium magnum K. P. Jain SPECIES
 
 #### Status
 ACCEPTED

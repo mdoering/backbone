@@ -1,14 +1,13 @@
-Sphaeronaema pyriforme (Pers.) Fr., 1823 SPECIES
-=======
+# Rhamphoria pyriformis (Pers.) Höhn., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 539 (1823)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 122: 33 (1913)
 
 #### Original name
 Sphaeria pyriformis Pers., 1801

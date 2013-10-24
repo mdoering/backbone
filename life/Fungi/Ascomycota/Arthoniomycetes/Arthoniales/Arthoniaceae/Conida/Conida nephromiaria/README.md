@@ -1,5 +1,4 @@
-Conida nephromiaria var. nephromiaria VARIETY
-=======
+# Conida nephromiaria (Nyl.) Arnaud SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Conida nephromiaria var. nephromiaria
+Arthonia nephromiaria Nyl.
 
 ### Remarks
 null

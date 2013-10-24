@@ -1,5 +1,4 @@
-Diaporthe castaneti Nitschke SPECIES
-=======
+# Diaporthe castaneti Nitschke SPECIES
 
 #### Status
 ACCEPTED

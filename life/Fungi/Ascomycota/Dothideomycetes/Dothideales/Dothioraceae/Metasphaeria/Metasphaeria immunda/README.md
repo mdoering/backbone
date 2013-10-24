@@ -1,5 +1,4 @@
-Metasphaeria immunda (P. Karst.) Sacc. SPECIES
-=======
+# Metasphaeria immunda (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

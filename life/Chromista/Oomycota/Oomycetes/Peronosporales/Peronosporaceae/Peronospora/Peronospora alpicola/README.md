@@ -1,5 +1,4 @@
-Peronospora alpicola Gäum., 1923 SPECIES
-=======
+# Peronospora alpicola Gäum., 1923 SPECIES
 
 #### Status
 ACCEPTED

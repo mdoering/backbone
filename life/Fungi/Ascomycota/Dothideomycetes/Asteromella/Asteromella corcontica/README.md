@@ -1,5 +1,4 @@
-Asteromella corcontica (Kabát & Bubák) Moesz ex Bat. & Peres SPECIES
-=======
+# Asteromella corcontica (Kabát & Bubák) Moesz ex Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

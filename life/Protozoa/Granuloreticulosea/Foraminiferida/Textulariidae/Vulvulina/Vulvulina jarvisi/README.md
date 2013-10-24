@@ -1,5 +1,4 @@
-Vulvulina jarvisi Cushman, 1932 SPECIES
-=======
+# Vulvulina jarvisi Cushman, 1932 SPECIES
 
 #### Status
 ACCEPTED

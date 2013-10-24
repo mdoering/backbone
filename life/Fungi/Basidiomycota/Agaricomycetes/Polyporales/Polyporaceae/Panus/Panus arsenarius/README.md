@@ -1,5 +1,4 @@
-Panus arsenarius Mont. SPECIES
-=======
+# Panus arsenarius Mont. SPECIES
 
 #### Status
 ACCEPTED

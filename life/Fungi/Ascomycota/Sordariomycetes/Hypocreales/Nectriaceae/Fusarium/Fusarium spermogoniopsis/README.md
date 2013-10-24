@@ -1,5 +1,4 @@
-Fusarium spermogoniopsis Jul. Müll. SPECIES
-=======
+# Fusarium spermogoniopsis Jul. Müll. SPECIES
 
 #### Status
 ACCEPTED

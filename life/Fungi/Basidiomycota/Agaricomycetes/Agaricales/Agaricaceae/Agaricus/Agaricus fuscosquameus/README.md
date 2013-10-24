@@ -1,5 +1,4 @@
-Agaricus fuscosquameus Morgan SPECIES
-=======
+# Agaricus fuscosquameus Morgan SPECIES
 
 #### Status
 ACCEPTED

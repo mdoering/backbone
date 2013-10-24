@@ -1,5 +1,4 @@
-Ascochyta woronowiana Siemaszko SPECIES
-=======
+# Ascochyta woronowiana Siemaszko SPECIES
 
 #### Status
 ACCEPTED

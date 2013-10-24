@@ -1,5 +1,4 @@
-Squamarina nivalis Frey & Poelt SPECIES
-=======
+# Squamarina nivalis Frey & Poelt SPECIES
 
 #### Status
 ACCEPTED

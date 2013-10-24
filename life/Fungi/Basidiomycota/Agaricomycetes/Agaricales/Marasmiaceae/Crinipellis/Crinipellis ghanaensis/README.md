@@ -1,5 +1,4 @@
-Crinipellis ghanaensis Singer SPECIES
-=======
+# Crinipellis ghanaensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heptameria chilensis Speg. SPECIES
-=======
+# Heptameria chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropuccinia exilis (P. Syd. & Syd.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia exilis (P. Syd. & Syd.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

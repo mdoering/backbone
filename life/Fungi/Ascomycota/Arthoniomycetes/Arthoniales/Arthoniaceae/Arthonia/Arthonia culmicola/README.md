@@ -1,5 +1,4 @@
-Arthonia culmicola Petr. SPECIES
-=======
+# Arthonia culmicola Petr. SPECIES
 
 #### Status
 ACCEPTED

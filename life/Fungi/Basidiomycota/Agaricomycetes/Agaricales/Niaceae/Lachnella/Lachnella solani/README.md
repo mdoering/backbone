@@ -1,5 +1,4 @@
-Lachnella solani Velen. SPECIES
-=======
+# Lachnella solani Velen. SPECIES
 
 #### Status
 ACCEPTED

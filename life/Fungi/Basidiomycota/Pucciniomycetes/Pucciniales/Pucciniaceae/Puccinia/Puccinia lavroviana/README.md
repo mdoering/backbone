@@ -1,5 +1,4 @@
-Puccinia lavroviana Cummins SPECIES
-=======
+# Puccinia lavroviana Cummins SPECIES
 
 #### Status
 ACCEPTED

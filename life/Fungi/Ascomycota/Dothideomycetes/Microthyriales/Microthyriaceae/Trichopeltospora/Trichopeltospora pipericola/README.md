@@ -1,17 +1,16 @@
-Trichopeltospora pipericola var. minospora Bat. & Peres VARIETY
-=======
+# Trichopeltospora pipericola Bat., Cif. & C.A.A. Costa, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atas Inst. Micol. Univ. Pernambuco 5: 260 (1967)
+in Batista, Costa & Ciferri, Publções Inst. Micol. Recife 90: 17 (1958)
 
 #### Original name
-Trichopeltospora pipericola var. minospora Bat. & Peres
+Trichopeltospora pipericola Bat., Cif. & C.A.A. Costa, 1958
 
 ### Remarks
 null

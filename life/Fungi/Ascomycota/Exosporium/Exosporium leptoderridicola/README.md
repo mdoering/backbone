@@ -1,5 +1,4 @@
-Exosporium leptoderridicola M.B. Ellis SPECIES
-=======
+# Exosporium leptoderridicola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

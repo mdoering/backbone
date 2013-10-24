@@ -1,5 +1,4 @@
-Pseudocercospora litseae-cubebae Y.L. Guo SPECIES
-=======
+# Pseudocercospora litseae-cubebae Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

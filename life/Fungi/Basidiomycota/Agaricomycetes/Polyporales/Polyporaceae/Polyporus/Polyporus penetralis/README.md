@@ -1,5 +1,4 @@
-Polyporus penetralis Wm. G. Sm. SPECIES
-=======
+# Polyporus penetralis Wm. G. Sm. SPECIES
 
 #### Status
 ACCEPTED

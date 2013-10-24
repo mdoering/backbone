@@ -1,5 +1,4 @@
-Steccherinum adustulum Banker SPECIES
-=======
+# Steccherinum adustulum Banker SPECIES
 
 #### Status
 ACCEPTED

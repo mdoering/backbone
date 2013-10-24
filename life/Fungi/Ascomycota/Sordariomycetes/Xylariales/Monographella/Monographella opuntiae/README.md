@@ -1,5 +1,4 @@
-Monographella opuntiae (Ellis & Everh.) Arx SPECIES
-=======
+# Monographella opuntiae (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

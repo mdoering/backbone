@@ -1,5 +1,4 @@
-Uredo apludae Barclay SPECIES
-=======
+# Uredo apludae Barclay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe mitracea Velen. SPECIES
-=======
+# Inocybe mitracea Velen. SPECIES
 
 #### Status
 ACCEPTED

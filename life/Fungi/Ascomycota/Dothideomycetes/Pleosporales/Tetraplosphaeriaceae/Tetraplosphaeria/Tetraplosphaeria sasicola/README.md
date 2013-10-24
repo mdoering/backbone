@@ -1,5 +1,4 @@
-Tetraplosphaeria sasicola Kaz. Tanaka & K. Hirayama, 2009 SPECIES
-=======
+# Tetraplosphaeria sasicola Kaz. Tanaka & K. Hirayama, 2009 SPECIES
 
 #### Status
 ACCEPTED

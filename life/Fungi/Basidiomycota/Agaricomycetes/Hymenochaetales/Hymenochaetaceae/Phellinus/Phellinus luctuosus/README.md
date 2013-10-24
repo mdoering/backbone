@@ -1,5 +1,4 @@
-Phellinus luctuosus (Ces.) Ryvarden SPECIES
-=======
+# Phellinus luctuosus (Ces.) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subulicium Hjortstam & Ryvarden, 1979 GENUS
-=======
+# Subulicium Hjortstam & Ryvarden, 1979 GENUS
 
 #### Status
 ACCEPTED

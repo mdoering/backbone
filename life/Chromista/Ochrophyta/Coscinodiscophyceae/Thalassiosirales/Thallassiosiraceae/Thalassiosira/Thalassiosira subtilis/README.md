@@ -1,5 +1,4 @@
-Thalassiosira subtilis (Ostenfeld) Gran SPECIES
-=======
+# Thalassiosira subtilis (Ostenfeld) Gran SPECIES
 
 #### Status
 ACCEPTED

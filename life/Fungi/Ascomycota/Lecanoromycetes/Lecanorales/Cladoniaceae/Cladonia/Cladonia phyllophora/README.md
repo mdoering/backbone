@@ -1,17 +1,16 @@
-Cladonia degenerans f. degenerans FORM
-=======
+# Cladonia phyllophora Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deutschl. Fl. (Erlangen), Zweiter Theil 126 (1796)
 
 #### Original name
-Cladonia degenerans f. degenerans
+Cladonia phyllophora Hoffm.
 
 ### Remarks
 null

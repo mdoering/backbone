@@ -1,5 +1,4 @@
-Clostridium carboxidivorans Liou et al., 2005 SPECIES
-=======
+# Clostridium carboxidivorans Liou et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

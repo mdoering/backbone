@@ -1,5 +1,4 @@
-Stictis chrysopsis Ellis & Everh. SPECIES
-=======
+# Stictis chrysopsis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

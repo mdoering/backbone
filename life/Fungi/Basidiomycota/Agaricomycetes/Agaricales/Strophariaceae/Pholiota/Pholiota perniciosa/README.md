@@ -1,5 +1,4 @@
-Pholiota perniciosa A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota perniciosa A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

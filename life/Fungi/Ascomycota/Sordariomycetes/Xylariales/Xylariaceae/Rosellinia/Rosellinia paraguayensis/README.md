@@ -1,5 +1,4 @@
-Rosellinia paraguayensis Starbäck SPECIES
-=======
+# Rosellinia paraguayensis Starbäck SPECIES
 
 #### Status
 ACCEPTED

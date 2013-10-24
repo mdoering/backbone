@@ -1,5 +1,4 @@
-Uredo rosae-centifoliae Pers. SPECIES
-=======
+# Uredo rosae-centifoliae Pers. SPECIES
 
 #### Status
 ACCEPTED

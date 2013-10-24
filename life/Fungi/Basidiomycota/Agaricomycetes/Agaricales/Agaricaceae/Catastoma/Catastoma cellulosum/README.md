@@ -1,5 +1,4 @@
-Catastoma cellulosum (Ellis & Everh.) Lloyd SPECIES
-=======
+# Catastoma cellulosum (Ellis & Everh.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria lignomaris Strongman & J.D. Mill., 1986 SPECIES
-=======
+# Didymosphaeria lignomaris Strongman & J.D. Mill., 1986 SPECIES
 
 #### Status
 ACCEPTED

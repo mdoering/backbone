@@ -1,5 +1,4 @@
-Cortinarius killermannii Bidaud SPECIES
-=======
+# Cortinarius killermannii Bidaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonium acutulisporum R. Heim SPECIES
-=======
+# Belonium acutulisporum R. Heim SPECIES
 
 #### Status
 ACCEPTED

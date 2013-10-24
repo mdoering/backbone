@@ -1,5 +1,4 @@
-Psathyrella excelsa (Malençon) Fouchier SPECIES
-=======
+# Psathyrella excelsa (Malençon) Fouchier SPECIES
 
 #### Status
 ACCEPTED

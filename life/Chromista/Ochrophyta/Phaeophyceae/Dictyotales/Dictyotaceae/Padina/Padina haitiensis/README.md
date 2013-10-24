@@ -1,5 +1,4 @@
-Padina haitiensis Thivy SPECIES
-=======
+# Padina haitiensis Thivy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Monilia richmondi F.W.A. Shaw SPECIES
-=======
+# Monilia richmondii F.W.A. Shaw SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monilia richmondi F.W.A. Shaw
+Monilia richmondii F.W.A. Shaw
 
 ### Remarks
 null

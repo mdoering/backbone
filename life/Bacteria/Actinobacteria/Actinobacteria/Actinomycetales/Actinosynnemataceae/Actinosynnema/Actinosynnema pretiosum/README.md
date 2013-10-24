@@ -1,5 +1,4 @@
-Actinosynnema pretiosum subsp. pretiosum SUBSPECIES
-=======
+# Actinosynnema pretiosum Hasegawa et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

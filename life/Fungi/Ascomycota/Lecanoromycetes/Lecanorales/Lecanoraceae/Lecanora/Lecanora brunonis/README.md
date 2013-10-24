@@ -1,5 +1,4 @@
-Lecanora brunonis Tuck. SPECIES
-=======
+# Lecanora brunonis Tuck. SPECIES
 
 #### Status
 ACCEPTED

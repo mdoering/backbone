@@ -1,5 +1,4 @@
-Gloeosporium aleuriticum Sacc. SPECIES
-=======
+# Gloeosporium aleuriticum Sacc. SPECIES
 
 #### Status
 ACCEPTED

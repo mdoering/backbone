@@ -1,5 +1,4 @@
-Chromosporium Corda, 1829 GENUS
-=======
+# Chromosporium Corda, 1829 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe perisporium Corda SPECIES
-=======
+# Erysiphe perisporium Corda SPECIES
 
 #### Status
 ACCEPTED

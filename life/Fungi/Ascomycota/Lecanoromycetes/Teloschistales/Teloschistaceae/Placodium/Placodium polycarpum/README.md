@@ -1,5 +1,4 @@
-Placodium polycarpum (Hoffm.) Frege SPECIES
-=======
+# Placodium polycarpum (Hoffm.) Frege SPECIES
 
 #### Status
 ACCEPTED

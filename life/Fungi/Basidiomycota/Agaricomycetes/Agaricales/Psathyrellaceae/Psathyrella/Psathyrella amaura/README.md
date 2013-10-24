@@ -1,5 +1,4 @@
-Psathyrella amaura (Berk. & Broome) Pegler SPECIES
-=======
+# Psathyrella amaura (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

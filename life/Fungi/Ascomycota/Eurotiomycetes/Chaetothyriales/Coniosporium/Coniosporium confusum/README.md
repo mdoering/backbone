@@ -1,5 +1,4 @@
-Coniosporium confusum (Berk. & Broome) Sacc. SPECIES
-=======
+# Coniosporium confusum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

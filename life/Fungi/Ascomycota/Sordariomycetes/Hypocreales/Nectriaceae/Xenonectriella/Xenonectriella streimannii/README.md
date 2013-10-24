@@ -1,14 +1,13 @@
-Pronectria streimannii S.Y. Kondr., 1996 SPECIES
-=======
+# Xenonectriella streimannii (S.Y. Kondr.) Rossman, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Muelleria 9: 93 (1996)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 170 (1999)
 
 #### Original name
 Pronectria streimannii S.Y. Kondr., 1996

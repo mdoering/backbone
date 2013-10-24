@@ -1,5 +1,4 @@
-Heppia collemacea (Wedd.) Boistel SPECIES
-=======
+# Heppia collemacea (Wedd.) Boistel SPECIES
 
 #### Status
 ACCEPTED

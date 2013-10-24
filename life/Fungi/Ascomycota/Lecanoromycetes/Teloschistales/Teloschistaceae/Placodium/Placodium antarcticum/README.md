@@ -1,5 +1,4 @@
-Placodium antarcticum Müll. Arg. SPECIES
-=======
+# Placodium antarcticum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

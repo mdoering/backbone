@@ -1,5 +1,4 @@
-Graphyllium hysterioides (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Graphyllium hysterioides (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

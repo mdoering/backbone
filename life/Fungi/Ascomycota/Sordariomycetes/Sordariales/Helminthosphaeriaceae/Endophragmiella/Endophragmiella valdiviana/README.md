@@ -1,14 +1,13 @@
-Helminthosporium valdivianum Speg., 1910 SPECIES
-=======
+# Endophragmiella valdiviana (Speg.) S. Hughes, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Fac. Agron. Univ. nac. La Plata 6(1): 192 (1910)
+N. Z. Jl Bot. 17(2): 157 (1979)
 
 #### Original name
 Helminthosporium valdivianum Speg., 1910

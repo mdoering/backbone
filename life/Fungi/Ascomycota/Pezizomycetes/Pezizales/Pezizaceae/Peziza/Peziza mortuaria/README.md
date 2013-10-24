@@ -1,5 +1,4 @@
-Peziza mortuaria Ces. SPECIES
-=======
+# Peziza mortuaria Ces. SPECIES
 
 #### Status
 ACCEPTED

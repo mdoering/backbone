@@ -1,5 +1,4 @@
-Microsphaera celastri Y.N. Yu & Y.Q. Lai SPECIES
-=======
+# Microsphaera celastri Y.N. Yu & Y.Q. Lai SPECIES
 
 #### Status
 ACCEPTED

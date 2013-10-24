@@ -1,17 +1,16 @@
-Biatora mosigiicola Eitner SPECIES
-=======
+# Lecanora mosigiicola (Eitner) Hertel & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 48: 168 (1992)
 
 #### Original name
-null
+Biatora mosigiicola Eitner
 
 ### Remarks
 null

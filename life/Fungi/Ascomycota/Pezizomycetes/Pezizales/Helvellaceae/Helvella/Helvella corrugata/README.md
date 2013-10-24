@@ -1,5 +1,4 @@
-Helvella corrugata With. SPECIES
-=======
+# Helvella corrugata With. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe kalmiae F.A. Wolf & A.R. Caval. SPECIES
-=======
+# Diaporthe kalmiae F.A. Wolf & A.R. Caval. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina abrupta Vezda SPECIES
-=======
+# Porina abrupta Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria pulvinata Eitner SPECIES
-=======
+# Verrucaria pulvinata Eitner SPECIES
 
 #### Status
 ACCEPTED

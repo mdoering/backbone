@@ -1,5 +1,4 @@
-Collarium nigrospermum Link SPECIES
-=======
+# Collarium nigrospermum Link SPECIES
 
 #### Status
 ACCEPTED

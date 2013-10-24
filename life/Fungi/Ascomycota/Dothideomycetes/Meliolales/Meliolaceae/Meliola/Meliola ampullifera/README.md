@@ -1,5 +1,4 @@
-Meliola ampullifera G. Winter SPECIES
-=======
+# Meliola ampullifera G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella ascoscypha Tassi SPECIES
-=======
+# Sphaerella ascoscypha Tassi SPECIES
 
 #### Status
 ACCEPTED

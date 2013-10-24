@@ -1,5 +1,4 @@
-Psorotichia mongolica H. Magn. SPECIES
-=======
+# Psorotichia mongolica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

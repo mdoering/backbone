@@ -1,5 +1,4 @@
-Hormomyces paridiphilus M. Zang & S.L. Wang SPECIES
-=======
+# Hormomyces paridiphilus M. Zang & S.L. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fundibacter Bruns & Berthe-Corti, 1999 GENUS
-=======
+# Fundibacter Bruns & Berthe-Corti, 1999 GENUS
 
 #### Status
 ACCEPTED

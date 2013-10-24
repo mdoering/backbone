@@ -1,5 +1,4 @@
-Uredo borreriae (Henn.) F. Kern & Whetzel SPECIES
-=======
+# Uredo borreriae (Henn.) F. Kern & Whetzel SPECIES
 
 #### Status
 ACCEPTED

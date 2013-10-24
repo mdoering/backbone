@@ -1,5 +1,4 @@
-Cytospora pteleae Hollós SPECIES
-=======
+# Cytospora pteleae Hollós SPECIES
 
 #### Status
 ACCEPTED

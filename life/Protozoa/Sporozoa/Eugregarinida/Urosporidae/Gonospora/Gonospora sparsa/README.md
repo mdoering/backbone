@@ -1,5 +1,4 @@
-Gonospora sparsa Léger, 1892 SPECIES
-=======
+# Gonospora sparsa Léger, 1892 SPECIES
 
 #### Status
 ACCEPTED

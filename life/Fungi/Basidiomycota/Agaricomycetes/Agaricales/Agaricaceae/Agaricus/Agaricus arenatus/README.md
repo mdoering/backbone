@@ -1,5 +1,4 @@
-Agaricus arenatus Pers. SPECIES
-=======
+# Agaricus arenatus Pers. SPECIES
 
 #### Status
 ACCEPTED

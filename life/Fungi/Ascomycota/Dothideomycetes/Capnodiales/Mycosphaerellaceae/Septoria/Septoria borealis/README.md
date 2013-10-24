@@ -1,5 +1,4 @@
-Septoria borealis Rostr. SPECIES
-=======
+# Septoria borealis Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora coriacea Th. Fr. SPECIES
-=======
+# Lecanora coriacea Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

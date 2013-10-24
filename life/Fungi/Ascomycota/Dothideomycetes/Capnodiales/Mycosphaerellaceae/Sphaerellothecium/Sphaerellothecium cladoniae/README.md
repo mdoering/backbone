@@ -1,14 +1,13 @@
-Sphaerellothecium araneosum var. cladoniae Alstrup & Zhurb., 2004 VARIETY
-=======
+# Sphaerellothecium cladoniae (Alstrup & Zhurb.) Hafellner, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 34(1): 477-499 (2004)
+Mitt. naturw. Ver. Steierm. 134: 57-103 (2005)
 
 #### Original name
 Sphaerellothecium araneosum var. cladoniae Alstrup & Zhurb., 2004

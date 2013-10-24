@@ -1,5 +1,4 @@
-Buedingiisphaeridium embergeri (Stockmans & Willière, 1974) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Buedingiisphaeridium embergeri (Stockmans & Willière, 1974) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

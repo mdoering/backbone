@@ -1,5 +1,4 @@
-Boletus squamatus Berk. SPECIES
-=======
+# Boletus squamatus Berk. SPECIES
 
 #### Status
 ACCEPTED

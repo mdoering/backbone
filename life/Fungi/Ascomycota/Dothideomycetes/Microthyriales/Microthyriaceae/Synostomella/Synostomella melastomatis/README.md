@@ -1,5 +1,4 @@
-Synostomella melastomatis anon. SPECIES
-=======
+# Synostomella melastomatis anon. SPECIES
 
 #### Status
 ACCEPTED

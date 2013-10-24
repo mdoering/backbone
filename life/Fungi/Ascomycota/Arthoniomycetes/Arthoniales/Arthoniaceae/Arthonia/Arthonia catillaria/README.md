@@ -1,5 +1,4 @@
-Arthonia catillaria Vain. SPECIES
-=======
+# Arthonia catillaria Vain. SPECIES
 
 #### Status
 ACCEPTED

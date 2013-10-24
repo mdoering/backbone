@@ -1,5 +1,4 @@
-Cercosporiopsis viticola Ces. SPECIES
-=======
+# Cercosporiopsis viticola Ces. SPECIES
 
 #### Status
 ACCEPTED

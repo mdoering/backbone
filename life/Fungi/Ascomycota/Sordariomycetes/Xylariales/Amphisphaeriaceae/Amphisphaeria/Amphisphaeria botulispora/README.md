@@ -1,5 +1,4 @@
-Amphisphaeria botulispora (Cooke) Sacc. SPECIES
-=======
+# Amphisphaeria botulispora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

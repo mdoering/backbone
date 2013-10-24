@@ -1,5 +1,4 @@
-Gonapodya A. Fisch. GENUS
-=======
+# Gonapodya A. Fisch. GENUS
 
 #### Status
 ACCEPTED

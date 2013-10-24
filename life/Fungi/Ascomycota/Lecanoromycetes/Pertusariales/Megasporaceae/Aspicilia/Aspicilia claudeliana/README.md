@@ -1,5 +1,4 @@
-Aspicilia claudeliana Hue SPECIES
-=======
+# Aspicilia claudeliana Hue SPECIES
 
 #### Status
 ACCEPTED

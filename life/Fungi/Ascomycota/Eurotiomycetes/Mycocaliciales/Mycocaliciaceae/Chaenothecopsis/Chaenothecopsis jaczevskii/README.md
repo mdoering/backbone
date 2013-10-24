@@ -1,5 +1,4 @@
-Chaenothecopsis jaczevskii (Woron.) Titov SPECIES
-=======
+# Chaenothecopsis jaczevskii (Woron.) Titov SPECIES
 
 #### Status
 ACCEPTED

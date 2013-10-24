@@ -1,5 +1,4 @@
-Cortinarius humilis M.M. Moser SPECIES
-=======
+# Cortinarius humilis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

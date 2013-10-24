@@ -1,5 +1,4 @@
-Ijuhya paraparilis (Samuels) Rossman & Samuels SPECIES
-=======
+# Ijuhya paraparilis (Samuels) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

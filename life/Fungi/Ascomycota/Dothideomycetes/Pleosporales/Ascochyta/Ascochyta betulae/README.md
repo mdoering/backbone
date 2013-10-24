@@ -1,5 +1,4 @@
-Ascochyta betulae Lib. SPECIES
-=======
+# Ascochyta betulae Lib. SPECIES
 
 #### Status
 ACCEPTED

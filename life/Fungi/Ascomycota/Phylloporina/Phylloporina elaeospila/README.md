@@ -1,5 +1,4 @@
-Phylloporina elaeospila (Nyl.) Zahlbr. SPECIES
-=======
+# Phylloporina elaeospila (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

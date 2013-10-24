@@ -1,5 +1,4 @@
-Pentatortis Kozur, 1988 GENUS
-=======
+# Pentatortis Kozur, 1988 GENUS
 
 #### Status
 ACCEPTED

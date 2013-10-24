@@ -1,5 +1,4 @@
-Lecidea canorubella Nyl. SPECIES
-=======
+# Lecidea canorubella Nyl. SPECIES
 
 #### Status
 ACCEPTED

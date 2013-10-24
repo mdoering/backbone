@@ -1,5 +1,4 @@
-Grosmorneus Wom & Iams, 2002 GENUS
-=======
+# Grosmorneus Wom & Iams, 2002 GENUS
 
 #### Status
 ACCEPTED

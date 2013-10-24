@@ -1,5 +1,4 @@
-Phlegmacium dentatum Velen. SPECIES
-=======
+# Phlegmacium dentatum Velen. SPECIES
 
 #### Status
 ACCEPTED

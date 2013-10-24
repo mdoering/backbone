@@ -1,5 +1,4 @@
-Pleospora santolinae Gucevic SPECIES
-=======
+# Pleospora santolinae Gucevic SPECIES
 
 #### Status
 ACCEPTED

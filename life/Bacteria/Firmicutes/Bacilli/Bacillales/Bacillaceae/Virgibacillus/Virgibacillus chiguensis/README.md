@@ -1,5 +1,4 @@
-Virgibacillus chiguensis C. Y. Wang, C. C. Chang, C. C. Ng, T. W. Chen & Y. T. Shyu, 2008 SPECIES
-=======
+# Virgibacillus chiguensis C. Y. Wang, C. C. Chang, C. C. Ng, T. W. Chen & Y. T. Shyu, 2008 SPECIES
 
 #### Status
 ACCEPTED

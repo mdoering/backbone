@@ -1,5 +1,4 @@
-Pleurotus carolinus Coker SPECIES
-=======
+# Pleurotus carolinus Coker SPECIES
 
 #### Status
 ACCEPTED

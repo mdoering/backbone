@@ -1,5 +1,4 @@
-Cryptomonas lobata SPECIES
-=======
+# Cryptomonas lobata SPECIES
 
 #### Status
 ACCEPTED

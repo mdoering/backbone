@@ -1,5 +1,4 @@
-Sticta peruviana Nyl. SPECIES
-=======
+# Sticta peruviana Nyl. SPECIES
 
 #### Status
 ACCEPTED

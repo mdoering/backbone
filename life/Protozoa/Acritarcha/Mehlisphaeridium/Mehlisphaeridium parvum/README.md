@@ -1,5 +1,4 @@
-Mehlisphaeridium parvum Anderson, 1977 SPECIES
-=======
+# Mehlisphaeridium parvum Anderson, 1977 SPECIES
 
 #### Status
 ACCEPTED

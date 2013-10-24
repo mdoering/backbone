@@ -1,5 +1,4 @@
-Bacillus hemicellulosilyticus Nogi et al., 2005 SPECIES
-=======
+# Bacillus hemicellulosilyticus Nogi et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella welwitschii (A.L. Sm.) Sivan. SPECIES
-=======
+# Mycosphaerella welwitschii (A.L. Sm.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

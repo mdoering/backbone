@@ -1,5 +1,4 @@
-Stigmatea arundinariae Cooke SPECIES
-=======
+# Stigmatea arundinariae Cooke SPECIES
 
 #### Status
 ACCEPTED

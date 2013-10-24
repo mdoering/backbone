@@ -1,5 +1,4 @@
-Microthorax elegans Kahl, 1931 SPECIES
-=======
+# Microthorax elegans Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

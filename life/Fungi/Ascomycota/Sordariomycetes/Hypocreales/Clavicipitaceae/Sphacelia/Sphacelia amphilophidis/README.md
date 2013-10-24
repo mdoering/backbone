@@ -1,5 +1,4 @@
-Sphacelia amphilophidis Thirum. SPECIES
-=======
+# Sphacelia amphilophidis Thirum. SPECIES
 
 #### Status
 ACCEPTED

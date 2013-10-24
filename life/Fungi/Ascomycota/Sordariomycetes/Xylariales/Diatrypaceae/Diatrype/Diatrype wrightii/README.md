@@ -1,5 +1,4 @@
-Diatrype wrightii Carmarán & L.N. Vassiljeva SPECIES
-=======
+# Diatrype wrightii Carmarán & L.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

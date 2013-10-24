@@ -1,5 +1,4 @@
-Raphiospora granulosa Müll. Arg. SPECIES
-=======
+# Raphiospora granulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

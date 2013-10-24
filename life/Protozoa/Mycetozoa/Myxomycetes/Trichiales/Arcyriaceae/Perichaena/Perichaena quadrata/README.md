@@ -1,17 +1,16 @@
-Perichaena depressa quadrata (T. Macbr.) Torrend, 1908 INFRASPECIFIC_NAME
-=======
+# Perichaena quadrata T. Macbr., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Slime-Moulds (New York) 184 (1899)
 
 #### Original name
-null
+Perichaena quadrata T. Macbr., 1899
 
 ### Remarks
 null

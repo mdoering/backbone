@@ -1,5 +1,4 @@
-Pseudolituonella GENUS
-=======
+# Pseudolituonella GENUS
 
 #### Status
 ACCEPTED

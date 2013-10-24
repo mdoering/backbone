@@ -1,8 +1,7 @@
-Serpulina pilosicoli Trott et al., 1996 SPECIES
-=======
+# Brachyspira pilosicoli (Trott et al., 1996) Ochiai et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

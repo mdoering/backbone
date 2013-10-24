@@ -1,5 +1,4 @@
-Exosporium scolecomorphum Fairm. SPECIES
-=======
+# Exosporium scolecomorphum Fairm. SPECIES
 
 #### Status
 ACCEPTED

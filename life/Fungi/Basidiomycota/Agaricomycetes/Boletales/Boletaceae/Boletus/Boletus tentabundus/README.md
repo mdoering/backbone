@@ -1,5 +1,4 @@
-Boletus tentabundus Corner SPECIES
-=======
+# Boletus tentabundus Corner SPECIES
 
 #### Status
 ACCEPTED

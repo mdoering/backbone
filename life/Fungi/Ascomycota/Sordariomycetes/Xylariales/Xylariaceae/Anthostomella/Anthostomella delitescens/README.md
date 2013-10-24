@@ -1,5 +1,4 @@
-Anthostomella delitescens (De Not.) Sacc. SPECIES
-=======
+# Anthostomella delitescens (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

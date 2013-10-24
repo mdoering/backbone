@@ -1,5 +1,4 @@
-Bispora catenulata Corda SPECIES
-=======
+# Bispora catenulata Corda SPECIES
 
 #### Status
 ACCEPTED

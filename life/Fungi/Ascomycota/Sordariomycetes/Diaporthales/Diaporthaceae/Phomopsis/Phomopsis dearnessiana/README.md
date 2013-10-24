@@ -1,5 +1,4 @@
-Phomopsis dearnessiana (Sacc.) Arx SPECIES
-=======
+# Phomopsis dearnessiana (Sacc.) Arx SPECIES
 
 #### Status
 ACCEPTED

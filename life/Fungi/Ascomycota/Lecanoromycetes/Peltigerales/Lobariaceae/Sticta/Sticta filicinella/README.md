@@ -1,5 +1,4 @@
-Sticta filicinella (Nyl.) Zahlbr. SPECIES
-=======
+# Sticta filicinella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

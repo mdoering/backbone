@@ -1,5 +1,4 @@
-Septoria menthicola Sacc. & Letell. SPECIES
-=======
+# Septoria menthicola Sacc. & Letell. SPECIES
 
 #### Status
 ACCEPTED

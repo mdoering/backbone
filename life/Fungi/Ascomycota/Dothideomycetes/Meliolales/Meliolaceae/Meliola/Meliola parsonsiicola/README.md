@@ -1,5 +1,4 @@
-Meliola parsonsiicola Hosag. SPECIES
-=======
+# Meliola parsonsiicola Hosag. SPECIES
 
 #### Status
 ACCEPTED

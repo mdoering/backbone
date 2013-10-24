@@ -1,5 +1,4 @@
-Phaeophyscia spinellosa Kashiw. SPECIES
-=======
+# Phaeophyscia spinellosa Kashiw. SPECIES
 
 #### Status
 ACCEPTED

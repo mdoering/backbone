@@ -1,5 +1,4 @@
-Phomopsis rubiae (Sacc.) Traverso SPECIES
-=======
+# Phomopsis rubiae (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED

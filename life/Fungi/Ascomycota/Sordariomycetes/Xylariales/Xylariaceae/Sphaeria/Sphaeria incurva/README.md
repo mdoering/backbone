@@ -1,5 +1,4 @@
-Sphaeria incurva Schumach. SPECIES
-=======
+# Sphaeria incurva Schumach. SPECIES
 
 #### Status
 ACCEPTED

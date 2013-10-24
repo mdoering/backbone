@@ -1,5 +1,4 @@
-Cercospora lygodiicola Lall, J.N. Kapoor & Munjal SPECIES
-=======
+# Cercospora lygodiicola Lall, J.N. Kapoor & Munjal SPECIES
 
 #### Status
 ACCEPTED

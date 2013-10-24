@@ -1,5 +1,4 @@
-Leptocorticium capitulatum Hjortstam & Ryvarden, 2005 SPECIES
-=======
+# Leptocorticium capitulatum Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

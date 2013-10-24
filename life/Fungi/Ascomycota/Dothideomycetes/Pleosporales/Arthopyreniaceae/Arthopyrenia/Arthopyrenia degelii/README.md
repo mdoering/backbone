@@ -1,5 +1,4 @@
-Arthopyrenia degelii R. C. Harris SPECIES
-=======
+# Arthopyrenia degelii R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Volutellospora cinnamomea Thirum. & P.N. Mathur, 1965 SPECIES
-=======
+# Chaetomella cinnamomea (Thirum. & P.N. Mathur) Petr., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Mathur & Thirumalachar, Sydowia 18: 39 (1965)
+Sydowia 18: 378 (1965)
 
 #### Original name
 Volutellospora cinnamomea Thirum. & P.N. Mathur, 1965

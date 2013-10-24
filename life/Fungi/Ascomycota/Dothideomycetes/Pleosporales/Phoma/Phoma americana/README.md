@@ -1,17 +1,16 @@
-Peyronellaea americana (Morgan-Jones & J.F. White) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma americana Morgan-Jones & J.F. White, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 16(2): 406 (1983)
 
 #### Original name
-null
+Phoma americana Morgan-Jones & J.F. White, 1983
 
 ### Remarks
 null

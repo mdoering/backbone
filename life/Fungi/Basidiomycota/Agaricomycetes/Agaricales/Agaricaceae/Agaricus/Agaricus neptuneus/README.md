@@ -1,5 +1,4 @@
-Agaricus neptuneus Batsch SPECIES
-=======
+# Agaricus neptuneus Batsch SPECIES
 
 #### Status
 ACCEPTED

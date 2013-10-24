@@ -1,5 +1,4 @@
-Coryneliella consimilis Har. & P. Karst., 1890 SPECIES
-=======
+# Coryneliella consimilis Har. & P. Karst., 1890 SPECIES
 
 #### Status
 ACCEPTED

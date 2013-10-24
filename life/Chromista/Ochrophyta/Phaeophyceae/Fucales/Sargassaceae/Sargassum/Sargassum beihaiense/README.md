@@ -1,5 +1,4 @@
-Sargassum beihaiense Tseng & Lu SPECIES
-=======
+# Sargassum beihaiense Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

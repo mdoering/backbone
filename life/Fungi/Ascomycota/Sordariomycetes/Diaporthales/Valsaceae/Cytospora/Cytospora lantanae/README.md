@@ -1,5 +1,4 @@
-Cytospora lantanae Bres., 1891 SPECIES
-=======
+# Cytospora lantanae Bres., 1891 SPECIES
 
 #### Status
 ACCEPTED

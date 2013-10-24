@@ -1,17 +1,16 @@
-Agaricus lentus var. lentus VARIETY
-=======
+# Pholiota lenta (Pers.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 516 (1951)
 
 #### Original name
-null
+Agaricus lentus Pers., 1801
 
 ### Remarks
 null

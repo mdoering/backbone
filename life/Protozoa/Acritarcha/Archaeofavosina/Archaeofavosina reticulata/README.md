@@ -1,5 +1,4 @@
-Archaeofavosina reticulata P. K. Maithy & M. Shukla SPECIES
-=======
+# Archaeofavosina reticulata P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

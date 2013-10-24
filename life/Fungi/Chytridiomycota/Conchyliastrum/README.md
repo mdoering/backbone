@@ -1,5 +1,4 @@
-Conchyliastrum Zebrowski GENUS
-=======
+# Conchyliastrum Zebrowski GENUS
 
 #### Status
 ACCEPTED

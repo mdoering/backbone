@@ -1,5 +1,4 @@
-Ammobaculites amarus Hada, 1957 SPECIES
-=======
+# Ammobaculites amarus Hada, 1957 SPECIES
 
 #### Status
 ACCEPTED

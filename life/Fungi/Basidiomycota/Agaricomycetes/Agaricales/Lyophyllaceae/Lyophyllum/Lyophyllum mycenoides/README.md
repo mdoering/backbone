@@ -1,5 +1,4 @@
-Lyophyllum mycenoides (Métrod ex Bon & Grilli) Consiglio & Contu SPECIES
-=======
+# Lyophyllum mycenoides (Métrod ex Bon & Grilli) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

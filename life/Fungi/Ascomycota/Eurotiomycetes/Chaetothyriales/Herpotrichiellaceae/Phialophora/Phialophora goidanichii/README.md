@@ -1,5 +1,4 @@
-Phialophora goidanichii Delitala SPECIES
-=======
+# Phialophora goidanichii Delitala SPECIES
 
 #### Status
 ACCEPTED

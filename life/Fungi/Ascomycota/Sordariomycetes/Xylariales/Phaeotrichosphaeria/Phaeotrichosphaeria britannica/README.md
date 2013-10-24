@@ -1,5 +1,4 @@
-Phaeotrichosphaeria britannica Sivan., 1983 SPECIES
-=======
+# Phaeotrichosphaeria britannica Sivan., 1983 SPECIES
 
 #### Status
 ACCEPTED

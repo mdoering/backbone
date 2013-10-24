@@ -1,5 +1,4 @@
-Tubercularia hamata Ellis & Everh. SPECIES
-=======
+# Tubercularia hamata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

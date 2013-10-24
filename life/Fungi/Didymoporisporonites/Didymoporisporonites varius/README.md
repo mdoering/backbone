@@ -1,5 +1,4 @@
-Didymoporisporonites varius P. Ke & Z.Y. Shi SPECIES
-=======
+# Didymoporisporonites varius P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

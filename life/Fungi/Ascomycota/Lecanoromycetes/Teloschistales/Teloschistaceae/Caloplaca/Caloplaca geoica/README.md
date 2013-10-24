@@ -1,5 +1,4 @@
-Caloplaca geoica H. Magn. SPECIES
-=======
+# Caloplaca geoica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

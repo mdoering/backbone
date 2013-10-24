@@ -1,17 +1,16 @@
-Boletus satanas var. americanus Coker & Beers VARIETY
-=======
+# Boletus satanas Lenz, 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Boletaceae of North Carolina 43 (1943)
+Schwämme Mitteldeutschl. 67 (1831)
 
 #### Original name
-Boletus satanas var. americanus Coker & Beers
+Boletus satanas Lenz, 1831
 
 ### Remarks
 null

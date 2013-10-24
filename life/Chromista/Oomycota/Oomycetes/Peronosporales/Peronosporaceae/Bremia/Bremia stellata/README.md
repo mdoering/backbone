@@ -1,5 +1,4 @@
-Bremia stellata (Desm.) Kochman & T. Majewski SPECIES
-=======
+# Bremia stellata (Desm.) Kochman & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

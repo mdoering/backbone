@@ -1,5 +1,4 @@
-Hyella palawaniae I. Umezaki SPECIES
-=======
+# Hyella palawaniae I. Umezaki SPECIES
 
 #### Status
 ACCEPTED

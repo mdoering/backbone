@@ -1,5 +1,4 @@
-Herringtonia aurata Kraft, 2009 SPECIES
-=======
+# Herringtonia aurata Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

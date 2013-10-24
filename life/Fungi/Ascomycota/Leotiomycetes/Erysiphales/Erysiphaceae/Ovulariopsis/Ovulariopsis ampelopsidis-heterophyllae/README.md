@@ -1,5 +1,4 @@
-Ovulariopsis ampelopsidis-heterophyllae Sawada SPECIES
-=======
+# Ovulariopsis ampelopsidis-heterophyllae Sawada SPECIES
 
 #### Status
 ACCEPTED

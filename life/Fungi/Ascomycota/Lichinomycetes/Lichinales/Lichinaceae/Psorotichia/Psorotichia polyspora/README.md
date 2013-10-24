@@ -1,5 +1,4 @@
-Psorotichia polyspora Schultz & Büdel SPECIES
-=======
+# Psorotichia polyspora Schultz & Büdel SPECIES
 
 #### Status
 ACCEPTED

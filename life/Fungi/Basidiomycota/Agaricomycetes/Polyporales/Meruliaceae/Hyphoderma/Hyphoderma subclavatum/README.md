@@ -1,5 +1,4 @@
-Hyphoderma subclavatum Sheng H. Wu SPECIES
-=======
+# Hyphoderma subclavatum Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

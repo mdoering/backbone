@@ -1,5 +1,4 @@
-Diplomitoporus costaricensis I. Lindblad & Ryvarden, 1999 SPECIES
-=======
+# Diplomitoporus costaricensis I. Lindblad & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

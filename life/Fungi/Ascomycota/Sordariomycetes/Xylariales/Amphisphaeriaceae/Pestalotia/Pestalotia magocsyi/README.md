@@ -1,5 +1,4 @@
-Pestalotia magocsyi Bubák SPECIES
-=======
+# Pestalotia magocsyi Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe hahashimensis (Hongo) Hongo SPECIES
-=======
+# Hygrocybe hahashimensis (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

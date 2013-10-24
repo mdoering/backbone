@@ -1,5 +1,4 @@
-Oospora otophila var. otophila VARIETY
-=======
+# Oospora otophila Harz SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Oospora otophila var. otophila
+Oospora otophila Harz
 
 ### Remarks
 null

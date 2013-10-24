@@ -1,5 +1,4 @@
-Coremium niveum Corda SPECIES
-=======
+# Coremium niveum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella appalachensis P. M. Jørg. SPECIES
-=======
+# Parmeliella appalachensis P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonas heterotricha Nygaard SPECIES
-=======
+# Mallomonas heterotricha Nygaard SPECIES
 
 #### Status
 ACCEPTED

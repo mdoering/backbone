@@ -1,5 +1,4 @@
-Astylospora lateritia Murrill SPECIES
-=======
+# Astylospora lateritia Murrill SPECIES
 
 #### Status
 ACCEPTED

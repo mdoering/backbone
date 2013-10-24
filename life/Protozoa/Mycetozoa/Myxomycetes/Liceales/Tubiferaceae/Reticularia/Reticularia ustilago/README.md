@@ -1,5 +1,4 @@
-Reticularia ustilago L. SPECIES
-=======
+# Reticularia ustilago L. SPECIES
 
 #### Status
 ACCEPTED

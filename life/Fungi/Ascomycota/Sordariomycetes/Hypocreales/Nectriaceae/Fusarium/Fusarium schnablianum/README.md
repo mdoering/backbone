@@ -1,5 +1,4 @@
-Fusarium schnablianum Allesch. SPECIES
-=======
+# Fusarium schnablianum Allesch. SPECIES
 
 #### Status
 ACCEPTED

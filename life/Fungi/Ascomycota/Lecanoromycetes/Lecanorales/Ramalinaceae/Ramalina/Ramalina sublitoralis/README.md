@@ -1,5 +1,4 @@
-Ramalina sublitoralis Asahina SPECIES
-=======
+# Ramalina sublitoralis Asahina SPECIES
 
 #### Status
 ACCEPTED

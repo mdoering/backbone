@@ -1,5 +1,4 @@
-Coniosporium tumulosum Sacc. SPECIES
-=======
+# Coniosporium tumulosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

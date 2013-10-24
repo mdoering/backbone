@@ -1,14 +1,13 @@
-Cetraria laeteflava Zahlbr. SPECIES
-=======
+# Cetreliopsis laeteflava (Zahlbr.) Randlane & Saag SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Feddes Repert. 33: 60 (1933)
+Cryptog. Bryol. -Lichénol. 16(1): 51 (1995)
 
 #### Original name
 Cetraria laeteflava Zahlbr.

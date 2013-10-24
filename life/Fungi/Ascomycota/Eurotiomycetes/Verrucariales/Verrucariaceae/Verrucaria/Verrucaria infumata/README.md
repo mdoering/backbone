@@ -1,5 +1,4 @@
-Verrucaria infumata Nyl. SPECIES
-=======
+# Verrucaria infumata Nyl. SPECIES
 
 #### Status
 ACCEPTED

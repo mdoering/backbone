@@ -1,8 +1,7 @@
-Doliocystis criodrilii Sciacchitano, 1931 SPECIES
-=======
+# Lecudina criodrilii Sciacchitano, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

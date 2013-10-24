@@ -1,5 +1,4 @@
-Cladonia bouillennei P.A. Duvign. SPECIES
-=======
+# Cladonia bouillennei P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

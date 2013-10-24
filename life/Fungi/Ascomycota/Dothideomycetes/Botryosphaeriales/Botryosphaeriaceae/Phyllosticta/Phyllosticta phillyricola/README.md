@@ -1,5 +1,4 @@
-Phyllosticta phillyricola Rabenh. SPECIES
-=======
+# Phyllosticta phillyricola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

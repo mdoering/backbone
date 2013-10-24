@@ -1,5 +1,4 @@
-Syncephalis leadbeateri Bawcutt, 1983 SPECIES
-=======
+# Syncephalis leadbeateri Bawcutt, 1983 SPECIES
 
 #### Status
 ACCEPTED

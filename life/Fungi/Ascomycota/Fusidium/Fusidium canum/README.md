@@ -1,5 +1,4 @@
-Fusidium canum Pass. SPECIES
-=======
+# Fusidium canum Pass. SPECIES
 
 #### Status
 ACCEPTED

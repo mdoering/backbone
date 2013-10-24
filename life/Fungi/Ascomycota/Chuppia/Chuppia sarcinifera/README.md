@@ -1,5 +1,4 @@
-Chuppia sarcinifera Deighton, 1965 SPECIES
-=======
+# Chuppia sarcinifera Deighton, 1965 SPECIES
 
 #### Status
 ACCEPTED

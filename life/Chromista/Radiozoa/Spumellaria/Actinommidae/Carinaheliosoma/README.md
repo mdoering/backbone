@@ -1,5 +1,4 @@
-Carinaheliosoma GENUS
-=======
+# Carinaheliosoma GENUS
 
 #### Status
 ACCEPTED

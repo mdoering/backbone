@@ -1,14 +1,13 @@
-Neuropogon ciliata var. subcapillaris (D.J. Galloway) W. Martin & J. Child VARIETY
-=======
+# Usnea subcapillaris (D. J. Galloway) F. J. Walker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichens of New Zealand (Wellington) 85 (1972)
+Bull. Br. Mus. nat. Hist. , Bot. 13(1): 104 (1985)
 
 #### Original name
 Usnea ciliata var. subcapillaris D.J. Galloway

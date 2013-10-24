@@ -1,5 +1,4 @@
-Cordyceps deflectens Penz. & Sacc. SPECIES
-=======
+# Cordyceps deflectens Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

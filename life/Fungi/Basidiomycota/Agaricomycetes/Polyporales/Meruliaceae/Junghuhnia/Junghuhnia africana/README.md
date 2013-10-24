@@ -1,5 +1,4 @@
-Junghuhnia africana Ipulet & Ryvarden, 2005 SPECIES
-=======
+# Junghuhnia africana Ipulet & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

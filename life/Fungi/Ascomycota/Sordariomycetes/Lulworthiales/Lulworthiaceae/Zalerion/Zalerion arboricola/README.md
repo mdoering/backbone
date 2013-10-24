@@ -1,5 +1,4 @@
-Zalerion arboricola Buczacki, 1972 SPECIES
-=======
+# Zalerion arboricola Buczacki, 1972 SPECIES
 
 #### Status
 ACCEPTED

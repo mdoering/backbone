@@ -1,14 +1,13 @@
-Hygrocybe multicolor (Berk. & Broome) E. Horak, 1980 SPECIES
-=======
+# Humidicutis multicolor (Berk. & Broome) E. Horak, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. criptog. Tierra del Fuego 11(6): 57 (1980)
+N. Z. Jl Bot. 28(3): 298 (1990)
 
 #### Original name
 Hygrophorus multicolor Berk. & Broome, 1871

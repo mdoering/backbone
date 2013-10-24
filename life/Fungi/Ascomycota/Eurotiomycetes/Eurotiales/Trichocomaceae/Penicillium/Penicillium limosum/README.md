@@ -1,5 +1,4 @@
-Penicillium limosum S. Ueda, 1995 SPECIES
-=======
+# Penicillium limosum S. Ueda, 1995 SPECIES
 
 #### Status
 ACCEPTED

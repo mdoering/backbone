@@ -1,5 +1,4 @@
-Phaeoramularia psidii-guajavae S.K. Singh, R.K. Chaudhary & Meenu SPECIES
-=======
+# Phaeoramularia psidii-guajavae S.K. Singh, R.K. Chaudhary & Meenu SPECIES
 
 #### Status
 ACCEPTED

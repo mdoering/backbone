@@ -1,5 +1,4 @@
-Pseudocercospora rogersoniana U. Braun & Crous SPECIES
-=======
+# Pseudocercospora rogersoniana U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

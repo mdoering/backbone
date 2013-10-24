@@ -1,5 +1,4 @@
-Caloplaca stenospora (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca stenospora (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

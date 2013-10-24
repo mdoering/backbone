@@ -1,5 +1,4 @@
-Pyrenula dissimulans (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Pyrenula dissimulans (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

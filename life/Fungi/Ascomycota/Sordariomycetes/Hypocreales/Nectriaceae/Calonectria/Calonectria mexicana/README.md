@@ -1,5 +1,4 @@
-Calonectria mexicana C.L. Schoch & Crous SPECIES
-=======
+# Calonectria mexicana C.L. Schoch & Crous SPECIES
 
 #### Status
 ACCEPTED

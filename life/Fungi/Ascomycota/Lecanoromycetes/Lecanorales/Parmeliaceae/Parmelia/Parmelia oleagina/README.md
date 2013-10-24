@@ -1,5 +1,4 @@
-Parmelia oleagina Stizenb. SPECIES
-=======
+# Parmelia oleagina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

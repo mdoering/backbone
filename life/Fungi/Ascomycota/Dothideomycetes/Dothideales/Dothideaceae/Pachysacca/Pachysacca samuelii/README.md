@@ -1,5 +1,4 @@
-Pachysacca samuelii (Hansf.) H.J. Swart SPECIES
-=======
+# Pachysacca samuelii (Hansf.) H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

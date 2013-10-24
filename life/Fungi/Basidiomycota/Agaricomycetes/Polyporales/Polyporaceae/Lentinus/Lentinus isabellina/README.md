@@ -1,5 +1,4 @@
-Lentinus isabellina Lloyd SPECIES
-=======
+# Lentinus isabellina Lloyd SPECIES
 
 #### Status
 ACCEPTED

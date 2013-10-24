@@ -1,5 +1,4 @@
-Eusphaerella turfosa Skuja SPECIES
-=======
+# Eusphaerella turfosa Skuja SPECIES
 
 #### Status
 ACCEPTED

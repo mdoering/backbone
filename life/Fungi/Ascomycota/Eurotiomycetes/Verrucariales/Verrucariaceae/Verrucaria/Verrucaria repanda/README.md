@@ -1,5 +1,4 @@
-Verrucaria repanda Stirt. SPECIES
-=======
+# Verrucaria repanda Stirt. SPECIES
 
 #### Status
 ACCEPTED

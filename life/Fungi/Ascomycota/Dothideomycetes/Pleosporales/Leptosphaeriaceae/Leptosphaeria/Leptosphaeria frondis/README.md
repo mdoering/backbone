@@ -1,5 +1,4 @@
-Leptosphaeria frondis Kirschst. SPECIES
-=======
+# Leptosphaeria frondis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

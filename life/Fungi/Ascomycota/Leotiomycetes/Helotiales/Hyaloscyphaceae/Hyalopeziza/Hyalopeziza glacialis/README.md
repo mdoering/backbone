@@ -1,5 +1,4 @@
-Hyalopeziza glacialis Raitv. SPECIES
-=======
+# Hyalopeziza glacialis Raitv. SPECIES
 
 #### Status
 ACCEPTED

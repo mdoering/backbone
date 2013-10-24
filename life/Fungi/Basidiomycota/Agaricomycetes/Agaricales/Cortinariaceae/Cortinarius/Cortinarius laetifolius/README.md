@@ -1,5 +1,4 @@
-Cortinarius laetifolius E. Horak SPECIES
-=======
+# Cortinarius laetifolius E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Typhula hyperborea H. Ekstr. SPECIES
-=======
+# Typhula hyperborea H. Ekstr. SPECIES
 
 #### Status
 ACCEPTED

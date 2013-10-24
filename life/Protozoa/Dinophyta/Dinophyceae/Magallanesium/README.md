@@ -1,5 +1,4 @@
-Magallanesium Quattrocchio & Sarjeant, 2003 GENUS
-=======
+# Magallanesium Quattrocchio & Sarjeant, 2003 GENUS
 
 #### Status
 ACCEPTED

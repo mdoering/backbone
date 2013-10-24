@@ -1,5 +1,4 @@
-Neocoleroa alpivaga (Nograsek) M.E. Barr SPECIES
-=======
+# Neocoleroa alpivaga (Nograsek) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

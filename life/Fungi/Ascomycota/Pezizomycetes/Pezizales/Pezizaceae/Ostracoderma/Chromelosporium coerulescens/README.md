@@ -1,5 +1,4 @@
-Chromelosporium coerulescens (Bonord.) Hennebert SPECIES
-=======
+# Chromelosporium coerulescens (Bonord.) Hennebert SPECIES
 
 #### Status
 ACCEPTED

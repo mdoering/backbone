@@ -1,5 +1,4 @@
-Leptosphaeria faullii Darker SPECIES
-=======
+# Leptosphaeria faullii Darker SPECIES
 
 #### Status
 ACCEPTED

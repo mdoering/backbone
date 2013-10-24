@@ -1,8 +1,7 @@
-Marssonia ipomaeae Cooke & Massee SPECIES
-=======
+# Marssonia ipomoeae Cooke & Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marssonia ipomaeae Cooke & Massee
+Marssonia ipomoeae Cooke & Massee
 
 ### Remarks
 null

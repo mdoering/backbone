@@ -1,5 +1,4 @@
-Puccinia populi-albae Rivolta SPECIES
-=======
+# Puccinia populi-albae Rivolta SPECIES
 
 #### Status
 ACCEPTED

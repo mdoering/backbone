@@ -1,5 +1,4 @@
-Coleosporium guaraniticum Speg. SPECIES
-=======
+# Coleosporium guaraniticum Speg. SPECIES
 
 #### Status
 ACCEPTED

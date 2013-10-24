@@ -1,5 +1,4 @@
-Sargassum brevipes Kützing, 1861 SPECIES
-=======
+# Sargassum brevipes Kützing, 1861 SPECIES
 
 #### Status
 ACCEPTED

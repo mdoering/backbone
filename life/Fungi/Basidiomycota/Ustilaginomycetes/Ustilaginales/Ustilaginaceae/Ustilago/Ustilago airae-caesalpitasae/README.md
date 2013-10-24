@@ -1,5 +1,4 @@
-Ustilago airae-caesalpitasae Liro SPECIES
-=======
+# Ustilago airae-caesalpitasae Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema lactuca (Weber) Weber ex F.H. Wigg. SPECIES
-=======
+# Collema lactuca (Weber) Weber ex F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

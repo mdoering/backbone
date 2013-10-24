@@ -1,5 +1,4 @@
-Verrucaria souliei B. de Lesd. SPECIES
-=======
+# Verrucaria souliei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

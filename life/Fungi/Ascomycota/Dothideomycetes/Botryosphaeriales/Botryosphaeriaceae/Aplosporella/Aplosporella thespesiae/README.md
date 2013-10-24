@@ -1,5 +1,4 @@
-Aplosporella thespesiae Cif. SPECIES
-=======
+# Aplosporella thespesiae Cif. SPECIES
 
 #### Status
 ACCEPTED

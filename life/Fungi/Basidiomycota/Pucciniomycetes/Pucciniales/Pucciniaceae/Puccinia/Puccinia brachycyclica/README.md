@@ -1,5 +1,4 @@
-Puccinia brachycyclica E. Fisch. SPECIES
-=======
+# Puccinia brachycyclica E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

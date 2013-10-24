@@ -1,5 +1,4 @@
-Kalosha Boltovskoy, 1978 GENUS
-=======
+# Kalosha Boltovskoy, 1978 GENUS
 
 #### Status
 ACCEPTED

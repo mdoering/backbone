@@ -1,5 +1,4 @@
-Exidia antiguae Lowy SPECIES
-=======
+# Exidia antiguae Lowy SPECIES
 
 #### Status
 ACCEPTED

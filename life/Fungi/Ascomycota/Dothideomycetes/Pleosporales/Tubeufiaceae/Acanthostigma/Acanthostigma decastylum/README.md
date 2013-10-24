@@ -1,5 +1,4 @@
-Acanthostigma decastylum (Cooke) Sacc. SPECIES
-=======
+# Acanthostigma decastylum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Friedmanniella capsulata Maszenan et al., 1999 SPECIES
-=======
+# Friedmanniella capsulata Maszenan et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Penicillium krugerii C. Ramírez SPECIES
-=======
+# Penicillium krugeri C. Ramírez SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 110(1): 23 (1990)
 
 #### Original name
-Penicillium krugerii C. Ramírez
+Penicillium krugeri C. Ramírez
 
 ### Remarks
 null

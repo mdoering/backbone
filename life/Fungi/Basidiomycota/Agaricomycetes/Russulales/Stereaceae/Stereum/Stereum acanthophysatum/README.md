@@ -1,5 +1,4 @@
-Stereum acanthophysatum Rehill & B.K. Bakshi SPECIES
-=======
+# Stereum acanthophysatum Rehill & B.K. Bakshi SPECIES
 
 #### Status
 ACCEPTED

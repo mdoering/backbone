@@ -1,5 +1,4 @@
-Cryptosporium cerasinum Peck SPECIES
-=======
+# Cryptosporium cerasinum Peck SPECIES
 
 #### Status
 ACCEPTED

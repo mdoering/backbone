@@ -1,5 +1,4 @@
-Neopeckia quercina Delacr. SPECIES
-=======
+# Neopeckia quercina Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius filopes Peck SPECIES
-=======
+# Marasmius filopes Peck SPECIES
 
 #### Status
 ACCEPTED

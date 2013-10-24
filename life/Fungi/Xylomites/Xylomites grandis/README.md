@@ -1,5 +1,4 @@
-Xylomites grandis Ettingsh. SPECIES
-=======
+# Xylomites grandis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

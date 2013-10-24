@@ -1,5 +1,4 @@
-Streptomyces sioyaensis Nishimura et al., 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces sioyaensis Nishimura et al., 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

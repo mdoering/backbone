@@ -1,5 +1,4 @@
-Arachnopila Haeckel, 1887 GENUS
-=======
+# Arachnopila Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antennularia inaequalis (Petr.) E. Müll. SPECIES
-=======
+# Antennularia inaequalis (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

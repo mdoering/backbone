@@ -1,5 +1,4 @@
-Leptomitus divergens (Roth) C. Agardh SPECIES
-=======
+# Leptomitus divergens (Roth) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

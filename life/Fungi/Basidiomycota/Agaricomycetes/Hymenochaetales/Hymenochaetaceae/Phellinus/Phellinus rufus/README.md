@@ -1,14 +1,13 @@
-Fomes rufus Bres., 1920 SPECIES
-=======
+# Phellinus rufus (Bres.) Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 18(1/3): 36 (1920)
+Mycotaxon 33: 321 (1988)
 
 #### Original name
 Fomes rufus Bres., 1920

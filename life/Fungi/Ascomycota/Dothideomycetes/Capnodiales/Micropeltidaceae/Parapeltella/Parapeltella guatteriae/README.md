@@ -1,5 +1,4 @@
-Parapeltella guatteriae Bat. & Maia SPECIES
-=======
+# Parapeltella guatteriae Bat. & Maia SPECIES
 
 #### Status
 ACCEPTED

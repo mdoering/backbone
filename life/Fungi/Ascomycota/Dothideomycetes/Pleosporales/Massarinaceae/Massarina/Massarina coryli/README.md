@@ -1,5 +1,4 @@
-Massarina coryli (P. Karst.) Sacc. SPECIES
-=======
+# Massarina coryli (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

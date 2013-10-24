@@ -1,17 +1,16 @@
-Parmelia kwalensis Krog & Swinscow SPECIES
-=======
+# Parmotrema kwalense (Krog & Swinscow) Krog & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 15(2): 130 (1983)
 
 #### Original name
-null
+Parmelia kwalensis Krog & Swinscow
 
 ### Remarks
 null

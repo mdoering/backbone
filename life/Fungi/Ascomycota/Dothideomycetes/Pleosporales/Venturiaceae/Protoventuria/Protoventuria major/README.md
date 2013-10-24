@@ -1,14 +1,13 @@
-Antennularia major (M.E. Barr) Remler, 1980 SPECIES
-=======
+# Protoventuria major (M.E. Barr) B. Erikss., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 68: 146 (1980)
+Svensk bot. Tidskr. 68(2): 222 (1974)
 
 #### Original name
 Antennularia alpina var. major M.E. Barr, 1968

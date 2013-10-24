@@ -1,5 +1,4 @@
-Xanthoria semigranularis (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Xanthoria semigranularis (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

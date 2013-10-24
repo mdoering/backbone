@@ -1,5 +1,4 @@
-Siphomarginulina McCulloch, 1981 GENUS
-=======
+# Siphomarginulina McCulloch, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Zahlbrucknera calcarea Herre SPECIES
-=======
+# Zahlbrucknerella calcarea (Herre) Herre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meth. J. Pl. Path. 12: 129 (1910)
+J. Wash. Acad. Sci. 2: 384 (1912)
 
 #### Original name
 Zahlbrucknera calcarea Herre

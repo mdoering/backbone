@@ -1,5 +1,4 @@
-Hymenoscyphus fibulaeformis Gray SPECIES
-=======
+# Hymenoscyphus fibulaeformis Gray SPECIES
 
 #### Status
 ACCEPTED

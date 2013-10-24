@@ -1,5 +1,4 @@
-Polyporus microcyclus Zipp. ex Lév. SPECIES
-=======
+# Polyporus microcyclus Zipp. ex Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Disciseda luteola (Lloyd) Zeller SPECIES
-=======
+# Disciseda luteola (Lloyd) Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniochaeta areolatirubra Checa, Barrasa & G. Moreno SPECIES
-=======
+# Coniochaeta areolatirubra Checa, Barrasa & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

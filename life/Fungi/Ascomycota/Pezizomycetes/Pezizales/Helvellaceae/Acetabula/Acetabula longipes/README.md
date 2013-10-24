@@ -1,5 +1,4 @@
-Acetabula longipes (Boud.) Sacc. & Trotter SPECIES
-=======
+# Acetabula longipes (Boud.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

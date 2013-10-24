@@ -1,5 +1,4 @@
-Phoma neriicola Pat. SPECIES
-=======
+# Phoma neriicola Pat. SPECIES
 
 #### Status
 ACCEPTED

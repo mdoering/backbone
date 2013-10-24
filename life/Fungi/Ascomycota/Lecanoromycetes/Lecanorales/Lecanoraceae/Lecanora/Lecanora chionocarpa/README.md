@@ -1,5 +1,4 @@
-Lecanora chionocarpa Hue SPECIES
-=======
+# Lecanora chionocarpa Hue SPECIES
 
 #### Status
 ACCEPTED

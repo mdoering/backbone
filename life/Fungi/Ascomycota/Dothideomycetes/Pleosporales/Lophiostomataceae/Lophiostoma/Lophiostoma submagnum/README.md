@@ -1,5 +1,4 @@
-Lophiostoma submagnum Kauffman SPECIES
-=======
+# Lophiostoma submagnum Kauffman SPECIES
 
 #### Status
 ACCEPTED

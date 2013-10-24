@@ -1,5 +1,4 @@
-Xanthoparmelia phaeophana (Stirt.) Hale SPECIES
-=======
+# Xanthoparmelia phaeophana (Stirt.) Hale SPECIES
 
 #### Status
 ACCEPTED

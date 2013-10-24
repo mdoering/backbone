@@ -1,5 +1,4 @@
-Pilosace pallescens (Schaeff.) Kuntze SPECIES
-=======
+# Pilosace pallescens (Schaeff.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

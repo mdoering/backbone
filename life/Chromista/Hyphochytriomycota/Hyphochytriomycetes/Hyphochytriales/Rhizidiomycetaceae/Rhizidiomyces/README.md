@@ -1,17 +1,16 @@
-Rhizidiomycopsis Sparrow GENUS
-=======
+# Rhizidiomyces Zopf GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-University of Michigan Studies, Science Series 15: 757 (1960)
+Nova Acta Acad. Caes. Leop. -Carol. German. Nat. Cur. 47: (1884)
 
 #### Original name
-Rhizidiomycopsis Sparrow
+Rhizidiomyces Zopf
 
 ### Remarks
 null

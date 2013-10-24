@@ -1,14 +1,13 @@
-Operculella Reichenbach, 1828 GENUS
-=======
+# Opercularia Goldfuss, 1820 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zoologie, 1, 95.
+Handb. Zool. , 1, 72.
 
 #### Original name
 null

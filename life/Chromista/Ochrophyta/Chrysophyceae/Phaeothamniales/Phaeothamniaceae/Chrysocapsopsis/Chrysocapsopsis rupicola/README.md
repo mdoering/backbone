@@ -1,5 +1,4 @@
-Chrysocapsopsis rupicola R. H. Thompson & D. E. Wujek SPECIES
-=======
+# Chrysocapsopsis rupicola R. H. Thompson & D. E. Wujek SPECIES
 
 #### Status
 ACCEPTED

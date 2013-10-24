@@ -1,5 +1,4 @@
-Odontia lividogrisea Rick SPECIES
-=======
+# Odontia lividogrisea Rick SPECIES
 
 #### Status
 ACCEPTED

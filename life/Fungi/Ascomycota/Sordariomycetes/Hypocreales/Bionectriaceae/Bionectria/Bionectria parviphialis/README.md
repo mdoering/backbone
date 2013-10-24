@@ -1,5 +1,4 @@
-Bionectria parviphialis (Samuels) Schroers SPECIES
-=======
+# Bionectria parviphialis (Samuels) Schroers SPECIES
 
 #### Status
 ACCEPTED

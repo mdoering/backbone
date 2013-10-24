@@ -1,5 +1,4 @@
-Octatormentum Nazarov & Ormiston, 1985 GENUS
-=======
+# Octatormentum Nazarov & Ormiston, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoptychostomum Raabe, 1949 GENUS
-=======
+# Protoptychostomum Raabe, 1949 GENUS
 
 #### Status
 ACCEPTED

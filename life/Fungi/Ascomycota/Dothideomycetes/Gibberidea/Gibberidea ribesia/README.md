@@ -1,5 +1,4 @@
-Gibberidea ribesia Feltgen SPECIES
-=======
+# Gibberidea ribesia Feltgen SPECIES
 
 #### Status
 ACCEPTED

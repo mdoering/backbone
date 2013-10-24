@@ -1,5 +1,4 @@
-Sphaerella insularis (Wallr.) Sacc. SPECIES
-=======
+# Sphaerella insularis (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

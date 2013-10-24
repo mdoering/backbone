@@ -1,5 +1,4 @@
-Lasiodiplodia venezuelensis T.I. Burgess, Barber & Mohali SPECIES
-=======
+# Lasiodiplodia venezuelensis T.I. Burgess, Barber & Mohali SPECIES
 
 #### Status
 ACCEPTED

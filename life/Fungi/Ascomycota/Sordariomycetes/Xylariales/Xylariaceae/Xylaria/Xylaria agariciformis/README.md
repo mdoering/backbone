@@ -1,5 +1,4 @@
-Xylaria agariciformis Cooke & Massee SPECIES
-=======
+# Xylaria agariciformis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

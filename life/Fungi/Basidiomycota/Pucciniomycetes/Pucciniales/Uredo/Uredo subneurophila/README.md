@@ -1,5 +1,4 @@
-Uredo subneurophila Speg. SPECIES
-=======
+# Uredo subneurophila Speg. SPECIES
 
 #### Status
 ACCEPTED

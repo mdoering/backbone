@@ -1,5 +1,4 @@
-Phaeosaccardinula dictyospora (Petr.) O.E. Erikss. & J.Z. Yue SPECIES
-=======
+# Phaeosaccardinula dictyospora (Petr.) O.E. Erikss. & J.Z. Yue SPECIES
 
 #### Status
 ACCEPTED

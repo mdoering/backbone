@@ -1,5 +1,4 @@
-Agrocybe amoena (Weinm.) Singer SPECIES
-=======
+# Agrocybe amoena (Weinm.) Singer SPECIES
 
 #### Status
 ACCEPTED

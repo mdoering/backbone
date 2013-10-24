@@ -1,5 +1,4 @@
-Wenxinia Ying, Wang, Dai, Yang, Liu & Liu, 2007 GENUS
-=======
+# Wenxinia Ying, Wang, Dai, Yang, Liu & Liu, 2007 GENUS
 
 #### Status
 ACCEPTED

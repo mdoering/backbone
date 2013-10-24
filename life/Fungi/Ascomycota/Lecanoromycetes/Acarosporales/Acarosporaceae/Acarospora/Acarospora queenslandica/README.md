@@ -1,5 +1,4 @@
-Acarospora queenslandica H. Magn. SPECIES
-=======
+# Acarospora queenslandica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

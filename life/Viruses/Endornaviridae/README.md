@@ -1,5 +1,4 @@
-Endornaviridae FAMILY
-=======
+# Endornaviridae FAMILY
 
 #### Status
 ACCEPTED

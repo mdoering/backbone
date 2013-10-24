@@ -1,14 +1,13 @@
-Placodium bassiae (Ach.) Vain. SPECIES
-=======
+# Caloplaca bassiae (Ach.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 78 (1930)
 
 #### Original name
 Isidium bassiae Ach.

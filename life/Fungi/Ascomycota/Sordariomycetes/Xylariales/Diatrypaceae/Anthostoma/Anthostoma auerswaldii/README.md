@@ -1,5 +1,4 @@
-Anthostoma auerswaldii Niessl SPECIES
-=======
+# Anthostoma auerswaldii Niessl SPECIES
 
 #### Status
 ACCEPTED

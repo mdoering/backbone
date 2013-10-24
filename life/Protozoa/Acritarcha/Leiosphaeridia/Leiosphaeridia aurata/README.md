@@ -1,5 +1,4 @@
-Leiosphaeridia aurata (Deflandre, 1945) Downie & Sarjeant, 1965 SPECIES
-=======
+# Leiosphaeridia aurata (Deflandre, 1945) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discella hysteriella Peck SPECIES
-=======
+# Discella hysteriella Peck SPECIES
 
 #### Status
 ACCEPTED

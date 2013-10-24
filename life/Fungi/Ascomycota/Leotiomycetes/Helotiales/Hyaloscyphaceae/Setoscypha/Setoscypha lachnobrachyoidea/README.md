@@ -1,5 +1,4 @@
-Setoscypha lachnobrachyoidea (Raitv.) Raitv. SPECIES
-=======
+# Setoscypha lachnobrachyoidea (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuburcinia americana (Speg.) Liro SPECIES
-=======
+# Tuburcinia americana (Speg.) Liro SPECIES
 
 #### Status
 ACCEPTED

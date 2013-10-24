@@ -1,5 +1,4 @@
-Daedalea boganidensis I.G. Borshch. & G.G. Borshch. SPECIES
-=======
+# Daedalea boganidensis I.G. Borshch. & G.G. Borshch. SPECIES
 
 #### Status
 ACCEPTED

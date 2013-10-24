@@ -1,5 +1,4 @@
-Polyporus vitellinus Velen. SPECIES
-=======
+# Polyporus vitellinus Velen. SPECIES
 
 #### Status
 ACCEPTED

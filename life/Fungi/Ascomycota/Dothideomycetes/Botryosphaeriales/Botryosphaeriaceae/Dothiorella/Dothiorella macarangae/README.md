@@ -1,5 +1,4 @@
-Dothiorella macarangae Höhn. SPECIES
-=======
+# Dothiorella macarangae Höhn. SPECIES
 
 #### Status
 ACCEPTED

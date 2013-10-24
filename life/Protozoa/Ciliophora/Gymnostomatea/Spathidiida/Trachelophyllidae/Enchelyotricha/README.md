@@ -1,5 +1,4 @@
-Enchelyotricha Foissner, 1986 GENUS
-=======
+# Enchelyotricha Foissner, 1986 GENUS
 
 #### Status
 ACCEPTED

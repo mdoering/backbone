@@ -1,5 +1,4 @@
-Scenidium fasciatum (Berk.) Kuntze SPECIES
-=======
+# Scenidium fasciatum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

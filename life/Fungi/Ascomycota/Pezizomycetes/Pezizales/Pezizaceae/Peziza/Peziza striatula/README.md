@@ -1,5 +1,4 @@
-Peziza striatula Wallr. SPECIES
-=======
+# Peziza striatula Wallr. SPECIES
 
 #### Status
 ACCEPTED

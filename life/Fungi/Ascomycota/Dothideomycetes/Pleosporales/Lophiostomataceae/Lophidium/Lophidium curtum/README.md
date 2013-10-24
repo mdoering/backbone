@@ -1,5 +1,4 @@
-Lophidium curtum (Fr.) Sacc. SPECIES
-=======
+# Lophidium curtum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

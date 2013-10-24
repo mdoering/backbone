@@ -1,5 +1,4 @@
-Asbolisiomyces Bat. & H. Maia GENUS
-=======
+# Asbolisiomyces Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

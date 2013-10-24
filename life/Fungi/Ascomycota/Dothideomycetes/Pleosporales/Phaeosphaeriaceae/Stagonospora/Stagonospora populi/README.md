@@ -1,5 +1,4 @@
-Stagonospora populi (Corda) Sacc. SPECIES
-=======
+# Stagonospora populi (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

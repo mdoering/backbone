@@ -1,5 +1,4 @@
-Mallomonas pugio Bradley SPECIES
-=======
+# Mallomonas pugio Bradley SPECIES
 
 #### Status
 ACCEPTED

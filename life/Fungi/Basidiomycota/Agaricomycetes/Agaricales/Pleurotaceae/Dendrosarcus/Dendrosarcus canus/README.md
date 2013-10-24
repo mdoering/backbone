@@ -1,5 +1,4 @@
-Dendrosarcus canus (Quél.) Kuntze SPECIES
-=======
+# Dendrosarcus canus (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

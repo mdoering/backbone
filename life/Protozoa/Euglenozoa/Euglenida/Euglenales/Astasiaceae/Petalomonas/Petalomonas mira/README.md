@@ -1,5 +1,4 @@
-Petalomonas mira var. appendiculata Skuja VARIETY
-=======
+# Petalomonas mira Awerinzew SPECIES
 
 #### Status
 ACCEPTED

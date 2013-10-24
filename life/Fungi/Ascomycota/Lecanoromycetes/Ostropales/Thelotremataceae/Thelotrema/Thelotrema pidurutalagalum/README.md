@@ -1,5 +1,4 @@
-Thelotrema pidurutalagalum Hale SPECIES
-=======
+# Thelotrema pidurutalagalum Hale SPECIES
 
 #### Status
 ACCEPTED

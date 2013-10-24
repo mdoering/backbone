@@ -1,5 +1,4 @@
-Coniothyrium isopyri (Thüm.) Tassi SPECIES
-=======
+# Coniothyrium isopyri (Thüm.) Tassi SPECIES
 
 #### Status
 ACCEPTED

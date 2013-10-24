@@ -1,5 +1,4 @@
-Patellaria gelatinoides (Hepp) Müll. Arg. SPECIES
-=======
+# Patellaria gelatinoides (Hepp) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

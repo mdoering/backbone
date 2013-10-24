@@ -1,5 +1,4 @@
-Peziza notarisiana R.G. Bagn. SPECIES
-=======
+# Peziza notarisiana R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

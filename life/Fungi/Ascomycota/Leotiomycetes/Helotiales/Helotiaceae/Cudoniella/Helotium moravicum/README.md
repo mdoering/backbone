@@ -1,5 +1,4 @@
-Helotium moravicum Picb. SPECIES
-=======
+# Helotium moravicum Picb. SPECIES
 
 #### Status
 ACCEPTED

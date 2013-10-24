@@ -1,14 +1,13 @@
-Ascospora dothideoides Mont. SPECIES
-=======
+# Scirrhophoma dothideoides (Mont.) Petr., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Arch. 42: 576 (1941)
 
 #### Original name
 Ascospora dothideoides Mont.

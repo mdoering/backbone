@@ -1,5 +1,4 @@
-Usnea caucasica var. caucasica VARIETY
-=======
+# Usnea caucasica Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea caucasica var. caucasica
+Usnea caucasica Vain.
 
 ### Remarks
 null

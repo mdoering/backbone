@@ -1,5 +1,4 @@
-Peziza oederi Pers. SPECIES
-=======
+# Peziza oederi Pers. SPECIES
 
 #### Status
 ACCEPTED

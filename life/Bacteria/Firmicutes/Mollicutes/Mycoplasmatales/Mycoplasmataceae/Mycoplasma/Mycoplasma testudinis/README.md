@@ -1,5 +1,4 @@
-Mycoplasma testudinis Hill, 1985 SPECIES
-=======
+# Mycoplasma testudinis Hill, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina banguinensis H.S. Yates SPECIES
-=======
+# Asterina banguinensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

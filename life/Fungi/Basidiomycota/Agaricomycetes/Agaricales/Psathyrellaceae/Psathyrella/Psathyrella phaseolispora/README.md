@@ -1,5 +1,4 @@
-Psathyrella phaseolispora Arnolds SPECIES
-=======
+# Psathyrella phaseolispora Arnolds SPECIES
 
 #### Status
 ACCEPTED

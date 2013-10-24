@@ -1,5 +1,4 @@
-Nanpanella Huang in Huang & Zeng, 1984 GENUS
-=======
+# Nanpanella Huang in Huang & Zeng, 1984 GENUS
 
 #### Status
 ACCEPTED

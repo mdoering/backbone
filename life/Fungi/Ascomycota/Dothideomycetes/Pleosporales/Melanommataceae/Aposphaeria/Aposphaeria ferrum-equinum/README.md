@@ -1,5 +1,4 @@
-Aposphaeria ferrum-equinum Tassi SPECIES
-=======
+# Aposphaeria ferrum-equinum Tassi SPECIES
 
 #### Status
 ACCEPTED

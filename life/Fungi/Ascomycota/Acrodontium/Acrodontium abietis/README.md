@@ -1,14 +1,13 @@
-Calcarisporium abietis B. Sutton, 1973 SPECIES
-=======
+# Acrodontium abietis (B. Sutton) de Hoog, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 132: 23 (1973)
+Stud. Mycol. 7: 72 (1974)
 
 #### Original name
 Calcarisporium abietis B. Sutton, 1973

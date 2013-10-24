@@ -1,5 +1,4 @@
-Enterographa verrucarioides (Fée) Müll. Arg. SPECIES
-=======
+# Enterographa verrucarioides (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

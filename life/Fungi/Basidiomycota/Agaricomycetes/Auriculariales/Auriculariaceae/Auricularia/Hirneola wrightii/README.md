@@ -1,5 +1,4 @@
-Hirneola wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Hirneola wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

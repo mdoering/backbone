@@ -1,5 +1,4 @@
-Hendersonia deplanata (Briard & Sacc.) Kuntze SPECIES
-=======
+# Hendersonia deplanata (Briard & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

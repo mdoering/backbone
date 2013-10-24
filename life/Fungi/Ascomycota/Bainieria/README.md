@@ -1,5 +1,4 @@
-Bainieria G. Arnaud GENUS
-=======
+# Bainieria G. Arnaud GENUS
 
 #### Status
 ACCEPTED

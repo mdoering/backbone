@@ -1,5 +1,4 @@
-Pseudocercospora fukuii (W. Yamam.) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora fukuii (W. Yamam.) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizothyrium malacodermum (Höhn.) Arx SPECIES
-=======
+# Schizothyrium malacodermum (Höhn.) Arx SPECIES
 
 #### Status
 ACCEPTED

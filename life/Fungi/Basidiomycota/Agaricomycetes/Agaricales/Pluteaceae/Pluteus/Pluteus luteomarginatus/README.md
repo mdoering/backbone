@@ -1,5 +1,4 @@
-Pluteus luteomarginatus Rolland SPECIES
-=======
+# Pluteus luteomarginatus Rolland SPECIES
 
 #### Status
 ACCEPTED

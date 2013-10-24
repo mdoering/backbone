@@ -1,5 +1,4 @@
-Mycosphaerella nawae Hiura & Ikata, 1929 SPECIES
-=======
+# Mycosphaerella nawae Hiura & Ikata, 1929 SPECIES
 
 #### Status
 ACCEPTED

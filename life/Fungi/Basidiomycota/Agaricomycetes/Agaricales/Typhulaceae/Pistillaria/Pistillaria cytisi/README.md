@@ -1,5 +1,4 @@
-Pistillaria cytisi Pat. SPECIES
-=======
+# Pistillaria cytisi Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus seymouri Peck SPECIES
-=======
+# Coprinus seymouri Peck SPECIES
 
 #### Status
 ACCEPTED

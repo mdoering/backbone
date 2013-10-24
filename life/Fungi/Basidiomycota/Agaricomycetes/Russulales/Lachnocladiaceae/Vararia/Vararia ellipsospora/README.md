@@ -1,5 +1,4 @@
-Vararia ellipsospora G. Cunn., 1955 SPECIES
-=======
+# Vararia ellipsospora G. Cunn., 1955 SPECIES
 
 #### Status
 ACCEPTED

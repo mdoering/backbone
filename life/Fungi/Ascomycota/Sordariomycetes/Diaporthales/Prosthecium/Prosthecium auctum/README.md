@@ -1,14 +1,13 @@
-Cryptospora aucta (Berk. & Broome) Tul. & C. Tul. SPECIES
-=======
+# Prosthecium auctum (Berk. & Broome) Petr., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Select. fung. carpol. (Paris) 2: 152 (1863)
+Annls mycol. 21(3/4): 325 (1923)
 
 #### Original name
 Sphaeria aucta Berk. & Broome, 1852

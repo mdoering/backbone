@@ -1,5 +1,4 @@
-Lagnea parviauriculata (McCulloch, 1977) SPECIES
-=======
+# Lagnea parviauriculata (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Striatodecospora bambusae D.Q. Zhou, K.D. Hyde & B.S. Lu, 2000 SPECIES
-=======
+# Striatodecospora bambusae D.Q. Zhou, K.D. Hyde & B.S. Lu, 2000 SPECIES
 
 #### Status
 ACCEPTED

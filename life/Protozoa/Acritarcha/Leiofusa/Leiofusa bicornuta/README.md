@@ -1,5 +1,4 @@
-Leiofusa bicornuta Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Leiofusa bicornuta Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

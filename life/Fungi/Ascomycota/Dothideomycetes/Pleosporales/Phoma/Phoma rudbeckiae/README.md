@@ -1,5 +1,4 @@
-Phoma rudbeckiae Fairm. SPECIES
-=======
+# Phoma rudbeckiae Fairm. SPECIES
 
 #### Status
 ACCEPTED

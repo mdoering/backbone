@@ -1,5 +1,4 @@
-Acanthostomella obtusa Kofoid & Campbell, 1929 SPECIES
-=======
+# Acanthostomella obtusa Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

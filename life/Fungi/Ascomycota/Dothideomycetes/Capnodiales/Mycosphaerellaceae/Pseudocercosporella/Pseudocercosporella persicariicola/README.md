@@ -1,5 +1,4 @@
-Pseudocercosporella persicariicola U. Braun & C.F. Hill, 2004 SPECIES
-=======
+# Pseudocercosporella persicariicola U. Braun & C.F. Hill, 2004 SPECIES
 
 #### Status
 ACCEPTED

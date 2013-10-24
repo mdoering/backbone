@@ -1,5 +1,4 @@
-Chiastospora parasitica Riess, 1852 SPECIES
-=======
+# Chiastospora parasitica Riess, 1852 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus hirsutus (Schaeff.) Sacc. SPECIES
-=======
+# Cyathus hirsutus (Schaeff.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

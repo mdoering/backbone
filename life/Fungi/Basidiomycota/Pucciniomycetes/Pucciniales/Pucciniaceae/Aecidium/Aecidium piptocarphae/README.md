@@ -1,5 +1,4 @@
-Aecidium piptocarphae Henn. & H.K.G. Paul SPECIES
-=======
+# Aecidium piptocarphae Henn. & H.K.G. Paul SPECIES
 
 #### Status
 ACCEPTED

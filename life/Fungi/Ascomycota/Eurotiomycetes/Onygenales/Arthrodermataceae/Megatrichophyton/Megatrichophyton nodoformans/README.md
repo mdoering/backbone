@@ -1,5 +1,4 @@
-Megatrichophyton nodoformans (Castell.) Neveu-Lem. SPECIES
-=======
+# Megatrichophyton nodoformans (Castell.) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

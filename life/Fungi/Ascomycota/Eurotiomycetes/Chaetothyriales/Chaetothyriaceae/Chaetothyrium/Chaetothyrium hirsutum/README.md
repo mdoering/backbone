@@ -1,5 +1,4 @@
-Chaetothyrium hirsutum (Speg.) Theiss. SPECIES
-=======
+# Chaetothyrium hirsutum (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

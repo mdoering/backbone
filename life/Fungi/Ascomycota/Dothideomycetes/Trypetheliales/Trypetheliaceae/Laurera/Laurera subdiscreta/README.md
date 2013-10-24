@@ -1,5 +1,4 @@
-Laurera subdiscreta (Nyl.) Zahlbr. SPECIES
-=======
+# Laurera subdiscreta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

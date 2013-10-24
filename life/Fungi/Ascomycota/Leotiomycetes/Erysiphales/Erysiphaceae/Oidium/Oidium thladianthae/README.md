@@ -1,5 +1,4 @@
-Oidium thladianthae Sandu SPECIES
-=======
+# Oidium thladianthae Sandu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium paricarpium Cooke SPECIES
-=======
+# Cladosporium paricarpium Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon cocoinum Cooke SPECIES
-=======
+# Hypoxylon cocoinum Cooke SPECIES
 
 #### Status
 ACCEPTED

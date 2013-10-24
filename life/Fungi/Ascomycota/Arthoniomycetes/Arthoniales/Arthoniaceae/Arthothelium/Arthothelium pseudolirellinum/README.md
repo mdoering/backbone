@@ -1,5 +1,4 @@
-Arthothelium pseudolirellinum Makhija & Patw. SPECIES
-=======
+# Arthothelium pseudolirellinum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

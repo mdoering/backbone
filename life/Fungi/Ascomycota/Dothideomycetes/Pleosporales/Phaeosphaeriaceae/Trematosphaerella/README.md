@@ -1,5 +1,4 @@
-Trematosphaerella GENUS
-=======
+# Trematosphaerella GENUS
 
 #### Status
 ACCEPTED

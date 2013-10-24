@@ -1,5 +1,4 @@
-Phakopsora vitis P. Syd., 1899 SPECIES
-=======
+# Phakopsora vitis P. Syd., 1899 SPECIES
 
 #### Status
 ACCEPTED

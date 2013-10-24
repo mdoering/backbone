@@ -1,5 +1,4 @@
-Physalospora erycibes Sawada SPECIES
-=======
+# Physalospora erycibes Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramecium pentaurelia SPECIES
-=======
+# Paramecium pentaurelia SPECIES
 
 #### Status
 ACCEPTED

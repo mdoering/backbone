@@ -1,5 +1,4 @@
-Coniosporium millbroedii J. Lindau SPECIES
-=======
+# Coniosporium millbroedii J. Lindau SPECIES
 
 #### Status
 ACCEPTED

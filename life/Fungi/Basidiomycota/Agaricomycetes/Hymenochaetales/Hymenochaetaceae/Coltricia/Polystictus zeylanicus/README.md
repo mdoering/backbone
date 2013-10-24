@@ -1,5 +1,4 @@
-Polystictus zeylanicus Berk. SPECIES
-=======
+# Polystictus zeylanicus Berk. SPECIES
 
 #### Status
 ACCEPTED

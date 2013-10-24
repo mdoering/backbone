@@ -1,5 +1,4 @@
-Myrothecium caricis Fuckel SPECIES
-=======
+# Myrothecium caricis Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora oxydendri (Tracy & Earle) U. Braun SPECIES
-=======
+# Pseudocercospora oxydendri (Tracy & Earle) U. Braun SPECIES
 
 #### Status
 ACCEPTED

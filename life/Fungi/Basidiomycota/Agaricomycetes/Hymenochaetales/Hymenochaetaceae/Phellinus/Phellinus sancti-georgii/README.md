@@ -1,14 +1,13 @@
-Polyporus sancti-georgii Pat., 1895 SPECIES
-=======
+# Phellinus sancti-georgii (Pat.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 11(4): 207 (1895)
+Norw. Jl Bot. 19: 235 (1972)
 
 #### Original name
 Polyporus sancti-georgii Pat., 1895

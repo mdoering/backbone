@@ -1,5 +1,4 @@
-Camarosporium andicola (Speg.) Sacc. & Trotter SPECIES
-=======
+# Camarosporium andicola (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta montenegrina Bubák SPECIES
-=======
+# Ascochyta montenegrina Bubák SPECIES
 
 #### Status
 ACCEPTED

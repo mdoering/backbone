@@ -1,5 +1,4 @@
-Succinivibrio dextrinosolvens Bryant and Small, 1956 (Approved Lists, 1980) SPECIES
-=======
+# Succinivibrio dextrinosolvens Bryant and Small, 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

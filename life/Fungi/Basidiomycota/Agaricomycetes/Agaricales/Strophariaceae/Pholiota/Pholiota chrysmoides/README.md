@@ -1,5 +1,4 @@
-Pholiota chrysmoides Soop, 2001 SPECIES
-=======
+# Pholiota chrysmoides Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

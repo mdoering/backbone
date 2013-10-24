@@ -1,5 +1,4 @@
-Sporisorium taianum (Syd.) L. Guo SPECIES
-=======
+# Sporisorium taianum (Syd.) L. Guo SPECIES
 
 #### Status
 ACCEPTED

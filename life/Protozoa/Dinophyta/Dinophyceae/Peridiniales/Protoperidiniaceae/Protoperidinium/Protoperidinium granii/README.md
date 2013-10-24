@@ -1,5 +1,4 @@
-Protoperidinium granii (Ostenfield) Balech SPECIES
-=======
+# Protoperidinium granii (Ostenfield) Balech SPECIES
 
 #### Status
 ACCEPTED

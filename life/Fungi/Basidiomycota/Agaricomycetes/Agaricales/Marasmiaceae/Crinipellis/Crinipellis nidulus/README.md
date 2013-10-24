@@ -1,5 +1,4 @@
-Crinipellis nidulus (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Crinipellis nidulus (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

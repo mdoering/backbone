@@ -1,5 +1,4 @@
-Rinodina sophodella Eitner SPECIES
-=======
+# Rinodina sophodella Eitner SPECIES
 
 #### Status
 ACCEPTED

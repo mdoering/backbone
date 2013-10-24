@@ -1,5 +1,4 @@
-Agaricus prominens Fr. SPECIES
-=======
+# Agaricus prominens Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Repetobasidium glaucocanum (G. Cunn.) Stalpers, 1985 SPECIES
-=======
+# Repetobasidium glaucocanum (G. Cunn.) Stalpers, 1985 SPECIES
 
 #### Status
 ACCEPTED

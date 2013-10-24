@@ -1,5 +1,4 @@
-Polyporus schumacheri anon. SPECIES
-=======
+# Polyporus schumacheri anon. SPECIES
 
 #### Status
 ACCEPTED

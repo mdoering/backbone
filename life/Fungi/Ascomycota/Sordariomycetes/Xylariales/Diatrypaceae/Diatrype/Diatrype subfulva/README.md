@@ -1,5 +1,4 @@
-Diatrype subfulva Berk. & M.A. Curtis SPECIES
-=======
+# Diatrype subfulva Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

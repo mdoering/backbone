@@ -1,5 +1,4 @@
-Ellipsagelosphaera communis (Reinhardt, 1964) Perch-Nielsen, 1968 SPECIES
-=======
+# Ellipsagelosphaera communis (Reinhardt, 1964) Perch-Nielsen, 1968 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Craterellus violaceus (Fr.) Fr. SPECIES
-=======
+# Craterellus violaceus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereogloeocystidium albogriseum Rick SPECIES
-=======
+# Stereogloeocystidium albogriseum Rick SPECIES
 
 #### Status
 ACCEPTED

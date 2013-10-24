@@ -1,17 +1,16 @@
-Amanita caesarea f. sp FORM
-=======
+# Amanita caesarea (Scop.) Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. Mycol. 27(Suppl. 1): 235 (1941)
+Syn. meth. fung. (Göttingen) 2: 252 (1801)
 
 #### Original name
-Amanita caesarea f. sp
+Agaricus caesareus Schaeff., 1774
 
 ### Remarks
 null

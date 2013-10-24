@@ -1,5 +1,4 @@
-Excipulina ramicola anon. SPECIES
-=======
+# Excipulina ramicola anon. SPECIES
 
 #### Status
 ACCEPTED

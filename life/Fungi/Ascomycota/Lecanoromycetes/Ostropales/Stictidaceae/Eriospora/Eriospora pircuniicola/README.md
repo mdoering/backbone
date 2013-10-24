@@ -1,5 +1,4 @@
-Eriospora pircuniicola Speg. SPECIES
-=======
+# Eriospora pircuniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

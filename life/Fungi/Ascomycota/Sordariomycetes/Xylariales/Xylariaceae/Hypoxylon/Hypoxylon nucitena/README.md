@@ -1,5 +1,4 @@
-Hypoxylon nucitena Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon nucitena Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

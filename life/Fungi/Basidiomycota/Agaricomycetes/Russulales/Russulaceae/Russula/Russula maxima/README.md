@@ -1,5 +1,4 @@
-Russula maxima Burl. SPECIES
-=======
+# Russula maxima Burl. SPECIES
 
 #### Status
 ACCEPTED

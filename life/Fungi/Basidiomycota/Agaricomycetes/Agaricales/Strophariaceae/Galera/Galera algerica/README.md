@@ -1,5 +1,4 @@
-Galera algerica (Durieu & Lév.) Sacc. SPECIES
-=======
+# Galera algerica (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum subcarneum SPECIES
-=======
+# Hydnum subcarneum SPECIES
 
 #### Status
 ACCEPTED

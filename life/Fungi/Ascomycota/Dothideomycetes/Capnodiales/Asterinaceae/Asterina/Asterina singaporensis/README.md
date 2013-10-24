@@ -1,5 +1,4 @@
-Asterina singaporensis Syd. & P. Syd. SPECIES
-=======
+# Asterina singaporensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caliciopsis pinea Peck, 1883 SPECIES
-=======
+# Caliciopsis pinea Peck, 1883 SPECIES
 
 #### Status
 ACCEPTED

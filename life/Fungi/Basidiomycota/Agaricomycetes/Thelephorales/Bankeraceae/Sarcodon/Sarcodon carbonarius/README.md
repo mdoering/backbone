@@ -1,5 +1,4 @@
-Sarcodon carbonarius G. Cunn. ex Maas Geest. SPECIES
-=======
+# Sarcodon carbonarius G. Cunn. ex Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

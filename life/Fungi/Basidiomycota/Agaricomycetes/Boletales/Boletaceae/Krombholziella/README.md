@@ -1,5 +1,4 @@
-Krombholziella GENUS
-=======
+# Krombholziella GENUS
 
 #### Status
 ACCEPTED

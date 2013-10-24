@@ -1,5 +1,4 @@
-Cryptococcus utilis (Henneberg) H.W. Anderson & C.E. Skinner SPECIES
-=======
+# Cryptococcus utilis (Henneberg) H.W. Anderson & C.E. Skinner SPECIES
 
 #### Status
 ACCEPTED

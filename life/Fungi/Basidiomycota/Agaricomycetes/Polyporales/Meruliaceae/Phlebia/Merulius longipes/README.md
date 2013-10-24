@@ -1,5 +1,4 @@
-Merulius longipes (Lambotte) Kuntze SPECIES
-=======
+# Merulius longipes (Lambotte) Kuntze SPECIES
 
 #### Status
 ACCEPTED

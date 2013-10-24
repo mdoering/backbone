@@ -1,5 +1,4 @@
-Pyrenastrum cryptothelium Müll. Arg. SPECIES
-=======
+# Pyrenastrum cryptothelium Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

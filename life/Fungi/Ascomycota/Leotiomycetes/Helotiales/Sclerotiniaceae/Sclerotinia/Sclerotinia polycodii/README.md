@@ -1,5 +1,4 @@
-Sclerotinia polycodii J.M. Reade SPECIES
-=======
+# Sclerotinia polycodii J.M. Reade SPECIES
 
 #### Status
 ACCEPTED

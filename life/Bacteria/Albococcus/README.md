@@ -1,5 +1,4 @@
-Albococcus GENUS
-=======
+# Albococcus GENUS
 
 #### Status
 ACCEPTED

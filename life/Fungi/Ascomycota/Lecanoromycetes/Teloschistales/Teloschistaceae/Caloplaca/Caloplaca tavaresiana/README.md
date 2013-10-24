@@ -1,5 +1,4 @@
-Caloplaca tavaresiana Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Caloplaca tavaresiana Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

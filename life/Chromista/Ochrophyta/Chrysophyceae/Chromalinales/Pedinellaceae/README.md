@@ -1,5 +1,4 @@
-Pedinellaceae Pascher, 1910 FAMILY
-=======
+# Pedinellaceae Pascher, 1910 FAMILY
 
 #### Status
 ACCEPTED

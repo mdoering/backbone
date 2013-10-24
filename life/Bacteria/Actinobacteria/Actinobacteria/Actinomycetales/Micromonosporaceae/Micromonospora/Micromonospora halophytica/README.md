@@ -1,5 +1,4 @@
-Micromonospora halophytica subsp. halophytica SUBSPECIES
-=======
+# Micromonospora halophytica Weinstein et al., 1968 SPECIES
 
 #### Status
 ACCEPTED

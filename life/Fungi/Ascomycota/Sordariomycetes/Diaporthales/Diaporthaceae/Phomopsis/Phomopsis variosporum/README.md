@@ -1,5 +1,4 @@
-Phomopsis variosporum J.K. Sharma, C.N. Mohanan & Florence SPECIES
-=======
+# Phomopsis variosporum J.K. Sharma, C.N. Mohanan & Florence SPECIES
 
 #### Status
 ACCEPTED

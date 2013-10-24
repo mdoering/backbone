@@ -1,5 +1,4 @@
-Hymenochaete griseocervina Henn. SPECIES
-=======
+# Hymenochaete griseocervina Henn. SPECIES
 
 #### Status
 ACCEPTED

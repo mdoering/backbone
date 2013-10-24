@@ -1,5 +1,4 @@
-Cercospora geranii-sanguinei Henn. SPECIES
-=======
+# Cercospora geranii-sanguinei Henn. SPECIES
 
 #### Status
 ACCEPTED

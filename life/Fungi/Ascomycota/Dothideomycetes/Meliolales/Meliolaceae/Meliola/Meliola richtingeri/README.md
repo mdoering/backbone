@@ -1,5 +1,4 @@
-Meliola richtingeri Hansf. SPECIES
-=======
+# Meliola richtingeri Hansf. SPECIES
 
 #### Status
 ACCEPTED

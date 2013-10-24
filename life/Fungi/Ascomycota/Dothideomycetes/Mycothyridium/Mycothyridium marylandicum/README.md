@@ -1,5 +1,4 @@
-Mycothyridium marylandicum (Petr.) Petr. SPECIES
-=======
+# Mycothyridium marylandicum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

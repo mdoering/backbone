@@ -1,5 +1,4 @@
-Tomasellia macrospora Riddle SPECIES
-=======
+# Tomasellia macrospora Riddle SPECIES
 
 #### Status
 ACCEPTED

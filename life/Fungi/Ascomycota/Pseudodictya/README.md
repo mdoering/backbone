@@ -1,5 +1,4 @@
-Pseudodictya Tehon & G.L. Stout, 1929 GENUS
-=======
+# Pseudodictya Tehon & G.L. Stout, 1929 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplocarponella GENUS
-=======
+# Diplocarponella GENUS
 
 #### Status
 ACCEPTED

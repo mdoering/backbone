@@ -1,5 +1,4 @@
-Sporidesmium fraxini-paxianae Jian Ma & X.G. Zhang SPECIES
-=======
+# Sporidesmium fraxini-paxianae Jian Ma & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspidisca Ehrenberg, 1830 GENUS
-=======
+# Aspidisca Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

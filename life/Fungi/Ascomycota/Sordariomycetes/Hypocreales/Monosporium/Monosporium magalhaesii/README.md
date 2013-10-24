@@ -1,5 +1,4 @@
-Monosporium magalhaesii (H.P. Fröes) C.W. Dodge SPECIES
-=======
+# Monosporium magalhaesii (H.P. Fröes) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

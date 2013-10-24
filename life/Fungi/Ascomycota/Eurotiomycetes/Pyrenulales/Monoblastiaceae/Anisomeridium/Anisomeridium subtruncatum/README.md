@@ -1,5 +1,4 @@
-Anisomeridium subtruncatum Aptroot SPECIES
-=======
+# Anisomeridium subtruncatum Aptroot SPECIES
 
 #### Status
 ACCEPTED

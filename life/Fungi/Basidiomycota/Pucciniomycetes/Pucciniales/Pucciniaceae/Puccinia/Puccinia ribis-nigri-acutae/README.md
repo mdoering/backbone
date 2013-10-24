@@ -1,5 +1,4 @@
-Puccinia ribis-nigri-acutae Kleb. SPECIES
-=======
+# Puccinia ribis-nigri-acutae Kleb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora fibriseda (Berk.) Sacc. SPECIES
-=======
+# Rhabdospora fibriseda (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

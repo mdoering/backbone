@@ -1,5 +1,4 @@
-Liulaobeisphaera minor Yang Qinghe et al., 1980 SPECIES
-=======
+# Liulaobeisphaera minor Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenagaricus fuscobrunneus D.A. Reid & Eicker SPECIES
-=======
+# Hymenagaricus fuscobrunneus D.A. Reid & Eicker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocapnodium quercifolium Hara SPECIES
-=======
+# Hypocapnodium quercifolium Hara SPECIES
 
 #### Status
 ACCEPTED

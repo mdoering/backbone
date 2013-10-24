@@ -1,5 +1,4 @@
-Cyanothece lineata Komárek & Komárková-Legnerová SPECIES
-=======
+# Cyanothece lineata Komárek & Komárková-Legnerová SPECIES
 
 #### Status
 ACCEPTED

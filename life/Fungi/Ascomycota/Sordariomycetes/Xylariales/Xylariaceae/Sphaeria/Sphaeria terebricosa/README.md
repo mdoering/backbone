@@ -1,5 +1,4 @@
-Sphaeria terebricosa Berk. & Broome SPECIES
-=======
+# Sphaeria terebricosa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

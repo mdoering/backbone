@@ -1,5 +1,4 @@
-Galerina ustorum (Berk.) D.A. Reid SPECIES
-=======
+# Galerina ustorum (Berk.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus geophilus Murrill SPECIES
-=======
+# Pleurotus geophilus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenelia fumida Motyka SPECIES
-=======
+# Hymenelia fumida Motyka SPECIES
 
 #### Status
 ACCEPTED

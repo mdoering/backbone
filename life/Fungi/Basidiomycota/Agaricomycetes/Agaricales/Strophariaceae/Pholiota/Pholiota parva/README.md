@@ -1,5 +1,4 @@
-Pholiota parva A. Pearson SPECIES
-=======
+# Pholiota parva A. Pearson SPECIES
 
 #### Status
 ACCEPTED

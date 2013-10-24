@@ -1,5 +1,4 @@
-Sclerotites antiquus Ettingsh. & Garden {?} SPECIES
-=======
+# Sclerotites antiquus Ettingsh. & Garden {?} SPECIES
 
 #### Status
 ACCEPTED

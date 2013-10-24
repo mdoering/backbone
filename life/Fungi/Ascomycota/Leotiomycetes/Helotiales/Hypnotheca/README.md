@@ -1,5 +1,4 @@
-Hypnotheca Tommerup GENUS
-=======
+# Hypnotheca Tommerup GENUS
 
 #### Status
 ACCEPTED

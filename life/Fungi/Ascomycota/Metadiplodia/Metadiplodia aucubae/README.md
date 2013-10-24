@@ -1,5 +1,4 @@
-Metadiplodia aucubae (Westend.) Zambett. SPECIES
-=======
+# Metadiplodia aucubae (Westend.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

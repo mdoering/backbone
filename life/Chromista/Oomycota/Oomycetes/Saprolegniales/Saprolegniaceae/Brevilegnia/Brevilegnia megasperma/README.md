@@ -1,5 +1,4 @@
-Brevilegnia megasperma var. megasperma J.V. Harv. VARIETY
-=======
+# Brevilegnia megasperma J.V. Harv. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Elisha Mitchell scient. Soc. 45: 322 (1929)
 
 #### Original name
-Brevilegnia megasperma var. megasperma J.V. Harv.
+Brevilegnia megasperma J.V. Harv.
 
 ### Remarks
 null

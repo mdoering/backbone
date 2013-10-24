@@ -1,5 +1,4 @@
-Pleospora buddleiicola Gucevic SPECIES
-=======
+# Pleospora buddleiicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

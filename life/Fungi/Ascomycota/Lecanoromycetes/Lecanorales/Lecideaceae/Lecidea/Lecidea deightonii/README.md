@@ -1,5 +1,4 @@
-Lecidea deightonii C.W. Dodge SPECIES
-=======
+# Lecidea deightonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Agaricus crocophyllus Berk., 1847 SPECIES
-=======
+# Crepidotus crocophyllus (Berk.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Crepidotus crocophyllus (Berk.) Sacc., 1884
 
 ### Remarks
 null

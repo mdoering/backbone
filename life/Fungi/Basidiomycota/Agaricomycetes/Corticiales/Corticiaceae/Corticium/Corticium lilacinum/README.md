@@ -1,5 +1,4 @@
-Corticium lilacinum Berk. & Broome SPECIES
-=======
+# Corticium lilacinum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

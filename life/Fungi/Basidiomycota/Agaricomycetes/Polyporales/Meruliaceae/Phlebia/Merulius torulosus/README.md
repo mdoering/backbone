@@ -1,5 +1,4 @@
-Merulius torulosus Pers. SPECIES
-=======
+# Merulius torulosus Pers. SPECIES
 
 #### Status
 ACCEPTED

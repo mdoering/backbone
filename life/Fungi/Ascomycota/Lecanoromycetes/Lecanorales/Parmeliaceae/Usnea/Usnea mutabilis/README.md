@@ -1,5 +1,4 @@
-Usnea mutabilis Stirt. SPECIES
-=======
+# Usnea mutabilis Stirt. SPECIES
 
 #### Status
 ACCEPTED

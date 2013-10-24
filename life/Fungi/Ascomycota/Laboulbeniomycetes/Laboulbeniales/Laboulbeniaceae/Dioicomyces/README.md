@@ -1,5 +1,4 @@
-Dioicomyces Thaxt. GENUS
-=======
+# Dioicomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

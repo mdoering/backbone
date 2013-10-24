@@ -1,5 +1,4 @@
-Lecidea austrocalifornica Zahlbr. SPECIES
-=======
+# Lecidea austrocalifornica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

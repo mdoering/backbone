@@ -1,5 +1,4 @@
-Geopyxis brachypus Ellis & Everh. SPECIES
-=======
+# Geopyxis brachypus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

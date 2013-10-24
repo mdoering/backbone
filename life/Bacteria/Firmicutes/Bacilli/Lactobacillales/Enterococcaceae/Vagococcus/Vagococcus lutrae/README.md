@@ -1,5 +1,4 @@
-Vagococcus lutrae Lawson et al., 1999 SPECIES
-=======
+# Vagococcus lutrae Lawson et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

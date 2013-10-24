@@ -1,5 +1,4 @@
-Dimelaena obscurascens SPECIES
-=======
+# Dimelaena obscurascens SPECIES
 
 #### Status
 ACCEPTED

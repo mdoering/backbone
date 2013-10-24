@@ -1,8 +1,7 @@
-Cibicidoides temperata (Vella, 1957) SPECIES
-=======
+# Cibicides temperata Vella, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,17 +1,16 @@
-Cyphella paraënsis Henn. SPECIES
-=======
+# Nochascypha paraensis (Henn.) Bodenst., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Bodensteiner & Agerer, Mycol. Progr. 2(4): 298 (2003)
 
 #### Original name
-Cyphella paraënsis Henn.
+Cyphella paraensis Henn., 1908
 
 ### Remarks
 null

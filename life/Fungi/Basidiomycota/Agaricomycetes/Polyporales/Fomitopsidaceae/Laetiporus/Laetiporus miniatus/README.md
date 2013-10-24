@@ -1,14 +1,13 @@
-Polyporellus miniatus (Jungh.) P. Karst., 1879 SPECIES
-=======
+# Laetiporus miniatus (Jungh.) Overeem, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 5: 38 (1879)
+Icon. Fung. Malay. 12: 1 (1925)
 
 #### Original name
 Polyporus miniatus Jungh., 1838

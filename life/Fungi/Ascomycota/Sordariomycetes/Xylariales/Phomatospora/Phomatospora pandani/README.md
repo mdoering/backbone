@@ -1,5 +1,4 @@
-Phomatospora pandani (Ellis & Everh.) Theiss. SPECIES
-=======
+# Phomatospora pandani (Ellis & Everh.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago kusanoana Henn. SPECIES
-=======
+# Ustilago kusanoana Henn. SPECIES
 
 #### Status
 ACCEPTED

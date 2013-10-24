@@ -1,14 +1,13 @@
-Plowrightia berberidis (Wahlenb.) Sacc., 1883 SPECIES
-=======
+# Dothidea berberidis (Wahlenb.) De Not., 1841 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 637 (1883)
+Mem. Accad. Scienze, Torino, ser. 2 3: 66 (1841)
 
 #### Original name
 Sphaeria berberidis Nitschke ex Fuckel, 1868

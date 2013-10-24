@@ -1,5 +1,4 @@
-Lyngbyella J.B.G. Bory de St.-Vincent, 1823 GENUS
-=======
+# Lyngbyella J.B.G. Bory de St.-Vincent, 1823 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria areolata Delise SPECIES
-=======
+# Pannaria areolata Delise SPECIES
 
 #### Status
 ACCEPTED

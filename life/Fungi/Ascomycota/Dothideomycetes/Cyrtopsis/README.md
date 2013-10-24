@@ -1,5 +1,4 @@
-Cyrtopsis Vainio, 1921 GENUS
-=======
+# Cyrtopsis Vainio, 1921 GENUS
 
 #### Status
 ACCEPTED

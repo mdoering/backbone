@@ -1,5 +1,4 @@
-Schiffnerula glochidii Hosag., 2006 SPECIES
-=======
+# Schiffnerula glochidii Hosag., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius mayawatianus K. Das & J.R. Sharma SPECIES
-=======
+# Lactarius mayawatianus K. Das & J.R. Sharma SPECIES
 
 #### Status
 ACCEPTED

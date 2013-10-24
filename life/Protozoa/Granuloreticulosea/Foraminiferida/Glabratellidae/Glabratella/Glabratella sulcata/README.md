@@ -1,5 +1,4 @@
-Glabratella sulcata Grell, 1956 SPECIES
-=======
+# Glabratella sulcata Grell, 1956 SPECIES
 
 #### Status
 ACCEPTED

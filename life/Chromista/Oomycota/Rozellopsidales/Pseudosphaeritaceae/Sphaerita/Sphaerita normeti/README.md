@@ -1,5 +1,4 @@
-Sphaerita normeti A. Lwoff, 1925 SPECIES
-=======
+# Sphaerita normeti A. Lwoff, 1925 SPECIES
 
 #### Status
 ACCEPTED

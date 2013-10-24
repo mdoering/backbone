@@ -1,5 +1,4 @@
-Lasiosphaeria gibberosa Munk SPECIES
-=======
+# Lasiosphaeria gibberosa Munk SPECIES
 
 #### Status
 ACCEPTED

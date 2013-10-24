@@ -1,5 +1,4 @@
-Plasmopara solidaginis Novot. SPECIES
-=======
+# Plasmopara solidaginis Novot. SPECIES
 
 #### Status
 ACCEPTED

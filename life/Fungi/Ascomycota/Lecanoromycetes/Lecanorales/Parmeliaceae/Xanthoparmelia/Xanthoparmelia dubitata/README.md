@@ -1,5 +1,4 @@
-Xanthoparmelia dubitata Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia dubitata Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

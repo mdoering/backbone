@@ -1,5 +1,4 @@
-Cortinarius luci Rob. Henry SPECIES
-=======
+# Cortinarius luci Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

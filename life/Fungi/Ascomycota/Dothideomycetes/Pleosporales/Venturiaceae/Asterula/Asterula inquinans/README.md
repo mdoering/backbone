@@ -1,5 +1,4 @@
-Asterula inquinans (Ellis & Everh.) Theiss. SPECIES
-=======
+# Asterula inquinans (Ellis & Everh.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

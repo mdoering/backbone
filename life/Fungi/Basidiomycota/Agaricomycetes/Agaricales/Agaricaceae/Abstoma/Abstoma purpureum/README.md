@@ -1,14 +1,13 @@
-Catastoma purpurea Lloyd, 1922 SPECIES
-=======
+# Abstoma purpureum (Lloyd) G. Cunn., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1120 (1922)
+Trans. & Proc. New Zealand Inst. 57: 206 (1926)
 
 #### Original name
 Catastoma purpurea Lloyd, 1922

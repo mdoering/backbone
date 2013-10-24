@@ -1,5 +1,4 @@
-Pseudocercosporella sesami-indici U. Braun SPECIES
-=======
+# Pseudocercosporella sesami-indici U. Braun SPECIES
 
 #### Status
 ACCEPTED

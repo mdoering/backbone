@@ -1,5 +1,4 @@
-Acanthostomella torulata SPECIES
-=======
+# Acanthostomella torulata SPECIES
 
 #### Status
 ACCEPTED

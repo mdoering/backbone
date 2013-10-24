@@ -1,5 +1,4 @@
-Diploschistes nepalensis G. Pant & Upreti SPECIES
-=======
+# Diploschistes nepalensis G. Pant & Upreti SPECIES
 
 #### Status
 ACCEPTED

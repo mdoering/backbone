@@ -1,5 +1,4 @@
-Ehrenbergina undulata SPECIES
-=======
+# Ehrenbergina undulata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acidimicrobiaceae FAMILY
-=======
+# Acidimicrobiaceae FAMILY
 
 #### Status
 ACCEPTED

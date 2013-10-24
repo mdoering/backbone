@@ -1,5 +1,4 @@
-Parundella lachmanni (von Daday, 1887) SPECIES
-=======
+# Parundella lachmanni (von Daday, 1887) SPECIES
 
 #### Status
 ACCEPTED

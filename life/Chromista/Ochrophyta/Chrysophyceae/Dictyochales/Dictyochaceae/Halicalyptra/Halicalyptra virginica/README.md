@@ -1,5 +1,4 @@
-Halicalyptra virginica Ehrenberg SPECIES
-=======
+# Halicalyptra virginica Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

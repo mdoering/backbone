@@ -1,5 +1,4 @@
-Poria fluctuosus Weinm. SPECIES
-=======
+# Poria fluctuosus Weinm. SPECIES
 
 #### Status
 ACCEPTED

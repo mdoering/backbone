@@ -1,5 +1,4 @@
-Tapellaria saxicola Vezda & Poelt SPECIES
-=======
+# Tapellaria saxicola Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

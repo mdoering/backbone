@@ -1,5 +1,4 @@
-Cladonia symphycarpodes Nyl. SPECIES
-=======
+# Cladonia symphycarpodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

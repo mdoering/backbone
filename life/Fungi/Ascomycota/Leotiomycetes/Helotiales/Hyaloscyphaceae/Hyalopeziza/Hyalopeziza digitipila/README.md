@@ -1,5 +1,4 @@
-Hyalopeziza digitipila Huhtinen SPECIES
-=======
+# Hyalopeziza digitipila Huhtinen SPECIES
 
 #### Status
 ACCEPTED

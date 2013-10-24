@@ -1,5 +1,4 @@
-Pestalotia lycopadina Ellis & Everh. SPECIES
-=======
+# Pestalotia lycopadina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

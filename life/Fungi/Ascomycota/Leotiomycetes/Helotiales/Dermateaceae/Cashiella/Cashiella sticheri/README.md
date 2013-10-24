@@ -1,5 +1,4 @@
-Cashiella sticheri Gadgil & M.A. Dick, 1999 SPECIES
-=======
+# Cashiella sticheri Gadgil & M.A. Dick, 1999 SPECIES
 
 #### Status
 ACCEPTED

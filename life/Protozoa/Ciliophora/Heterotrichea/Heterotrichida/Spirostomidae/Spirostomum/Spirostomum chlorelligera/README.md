@@ -1,5 +1,4 @@
-Spirostomum chlorelligera Foissner ß SPECIES
-=======
+# Spirostomum chlorelligera Foissner ß SPECIES
 
 #### Status
 ACCEPTED

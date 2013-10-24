@@ -1,5 +1,4 @@
-Calompterium Clark & Campbell, 1945 GENUS
-=======
+# Calompterium Clark & Campbell, 1945 GENUS
 
 #### Status
 ACCEPTED

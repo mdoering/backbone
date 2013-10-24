@@ -1,17 +1,16 @@
-Tomentella bourdotii f. bourdotii FORM
-=======
+# Tomentella lilacinogrisea Wakef., 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 12: 76 (1958)
+Trans. Br. mycol. Soc. 49(3): 360 (1966)
 
 #### Original name
-Tomentella bourdotii f. bourdotii
+Tomentella lilacinogrisea Wakef., 1966
 
 ### Remarks
 null

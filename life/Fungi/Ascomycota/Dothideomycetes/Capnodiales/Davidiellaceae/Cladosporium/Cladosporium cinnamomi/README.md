@@ -1,14 +1,13 @@
-Cladosporium cinnamomeum (Racib.) Höhn. SPECIES
-=======
+# Cladosporium cinnamomi (Racib.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Kabát & Bubák, Fungi Imperfecti exs. 13: no. 643 (1910)
 
 #### Original name
 Scolicotrichum cinnamomi Racib.

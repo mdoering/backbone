@@ -1,5 +1,4 @@
-Sphaerotheca lanestris Harkn. SPECIES
-=======
+# Sphaerotheca lanestris Harkn. SPECIES
 
 #### Status
 ACCEPTED

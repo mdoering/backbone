@@ -1,5 +1,4 @@
-Septobasidium mariani var. mariani VARIETY
-=======
+# Septobasidium mariani Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 3(2): 164 (1905)
 
 #### Original name
-Septobasidium mariani var. mariani
+Septobasidium mariani Bres.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hauraniidae FAMILY
-=======
+# Hauraniidae FAMILY
 
 #### Status
 ACCEPTED

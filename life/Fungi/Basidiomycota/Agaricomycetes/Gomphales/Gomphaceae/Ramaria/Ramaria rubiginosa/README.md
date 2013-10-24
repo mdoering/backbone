@@ -1,5 +1,4 @@
-Ramaria rubiginosa Marr & D.E. Stuntz, 1974 SPECIES
-=======
+# Ramaria rubiginosa Marr & D.E. Stuntz, 1974 SPECIES
 
 #### Status
 ACCEPTED

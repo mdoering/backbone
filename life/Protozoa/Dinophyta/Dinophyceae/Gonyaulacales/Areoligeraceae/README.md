@@ -1,5 +1,4 @@
-Areoligeraceae FAMILY
-=======
+# Areoligeraceae FAMILY
 
 #### Status
 ACCEPTED

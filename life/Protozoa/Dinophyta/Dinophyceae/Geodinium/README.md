@@ -1,14 +1,13 @@
-Chlorodinium R. Chodat, 1921 GENUS
-=======
+# Geodinium R. Chodat, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Bull. Soc. Bot. Genève, 13, 113.
 
 #### Original name
 null

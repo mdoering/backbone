@@ -1,5 +1,4 @@
-Rhabdospora altheae Peyronel SPECIES
-=======
+# Rhabdospora altheae Peyronel SPECIES
 
 #### Status
 ACCEPTED

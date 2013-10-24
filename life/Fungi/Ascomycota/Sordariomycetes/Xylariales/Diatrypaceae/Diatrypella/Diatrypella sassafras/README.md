@@ -1,5 +1,4 @@
-Diatrypella sassafras Ellis & Everh. SPECIES
-=======
+# Diatrypella sassafras Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

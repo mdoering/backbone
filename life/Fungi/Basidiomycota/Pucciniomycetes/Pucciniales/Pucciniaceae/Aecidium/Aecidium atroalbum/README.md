@@ -1,5 +1,4 @@
-Aecidium atroalbum Henn. SPECIES
-=======
+# Aecidium atroalbum Henn. SPECIES
 
 #### Status
 ACCEPTED

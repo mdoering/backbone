@@ -1,5 +1,4 @@
-Konderia A.F. Weiss, 1983 GENUS
-=======
+# Konderia A.F. Weiss, 1983 GENUS
 
 #### Status
 ACCEPTED

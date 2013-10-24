@@ -1,5 +1,4 @@
-Cornularia populi Dearn. SPECIES
-=======
+# Cornularia populi Dearn. SPECIES
 
 #### Status
 ACCEPTED

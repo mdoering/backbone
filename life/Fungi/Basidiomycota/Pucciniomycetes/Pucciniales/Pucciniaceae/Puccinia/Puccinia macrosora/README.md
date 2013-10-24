@@ -1,5 +1,4 @@
-Puccinia macrosora Golovin SPECIES
-=======
+# Puccinia macrosora Golovin SPECIES
 
 #### Status
 ACCEPTED

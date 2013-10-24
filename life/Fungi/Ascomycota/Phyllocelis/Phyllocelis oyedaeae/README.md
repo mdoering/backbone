@@ -1,14 +1,13 @@
-Hypospila oyedaeae (Syd.) J.H. Mill. & Burton, 1943 SPECIES
-=======
+# Phyllocelis oyedaeae Syd., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 35(1): 90 (1943)
+Annls mycol. 23(3/6): 353 (1925)
 
 #### Original name
 Phyllocelis oyedaeae Syd., 1925

@@ -1,5 +1,4 @@
-Septoria siparunae Viégas SPECIES
-=======
+# Septoria siparunae Viégas SPECIES
 
 #### Status
 ACCEPTED

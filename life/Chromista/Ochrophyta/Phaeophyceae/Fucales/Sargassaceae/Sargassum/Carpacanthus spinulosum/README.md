@@ -1,5 +1,4 @@
-Carpacanthus spinulosum Kützing, 1861 SPECIES
-=======
+# Carpacanthus spinulosum Kützing, 1861 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Coniangium GENUS
-=======
+# Coniangium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balantidiidae Reichenow in Doflein & Reichenow, 1929 FAMILY
-=======
+# Balantidiidae Reichenow in Doflein & Reichenow, 1929 FAMILY
 
 #### Status
 ACCEPTED

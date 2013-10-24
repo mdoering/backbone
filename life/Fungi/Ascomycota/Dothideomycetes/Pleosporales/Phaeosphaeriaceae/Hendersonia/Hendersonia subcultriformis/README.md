@@ -1,5 +1,4 @@
-Hendersonia subcultriformis Fairm. SPECIES
-=======
+# Hendersonia subcultriformis Fairm. SPECIES
 
 #### Status
 ACCEPTED

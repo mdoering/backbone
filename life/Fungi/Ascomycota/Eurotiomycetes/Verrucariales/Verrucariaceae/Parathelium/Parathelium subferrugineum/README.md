@@ -1,5 +1,4 @@
-Parathelium subferrugineum f. subferrugineum FORM
-=======
+# Parathelium subferrugineum Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ark. Bot. 19(8): 17 (1924)
 
 #### Original name
-Parathelium subferrugineum f. subferrugineum
+Parathelium subferrugineum Malme
 
 ### Remarks
 null

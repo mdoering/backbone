@@ -1,5 +1,4 @@
-Lachnum aeruginellum (P. Karst.) SPECIES
-=======
+# Lachnum aeruginellum (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

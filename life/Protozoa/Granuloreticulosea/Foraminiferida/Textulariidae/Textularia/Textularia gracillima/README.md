@@ -1,5 +1,4 @@
-Textularia gracillima Höglund, 1947 SPECIES
-=======
+# Textularia gracillima Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

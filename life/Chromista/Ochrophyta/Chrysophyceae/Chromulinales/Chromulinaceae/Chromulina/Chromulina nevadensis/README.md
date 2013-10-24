@@ -1,5 +1,4 @@
-Chromulina nevadensis P. M. Sánchez SPECIES
-=======
+# Chromulina nevadensis P. M. Sánchez SPECIES
 
 #### Status
 ACCEPTED

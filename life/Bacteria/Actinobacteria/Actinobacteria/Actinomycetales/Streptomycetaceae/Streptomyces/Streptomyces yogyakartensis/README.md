@@ -1,5 +1,4 @@
-Streptomyces yogyakartensis Sembiring et al., 2001 SPECIES
-=======
+# Streptomyces yogyakartensis Sembiring et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusariomyces pustulatae Werner SPECIES
-=======
+# Pertusariomyces pustulatae Werner SPECIES
 
 #### Status
 ACCEPTED

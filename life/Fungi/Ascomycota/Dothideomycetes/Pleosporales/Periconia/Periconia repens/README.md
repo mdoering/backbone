@@ -1,5 +1,4 @@
-Periconia repens Cooke SPECIES
-=======
+# Periconia repens Cooke SPECIES
 
 #### Status
 ACCEPTED

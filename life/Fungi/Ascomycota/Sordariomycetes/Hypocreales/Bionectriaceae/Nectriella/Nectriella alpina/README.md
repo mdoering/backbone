@@ -1,5 +1,4 @@
-Nectriella alpina (G. Winter) Weese SPECIES
-=======
+# Nectriella alpina (G. Winter) Weese SPECIES
 
 #### Status
 ACCEPTED

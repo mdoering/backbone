@@ -1,5 +1,4 @@
-Lepista vernicosa (Fr.) Bon SPECIES
-=======
+# Lepista vernicosa (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

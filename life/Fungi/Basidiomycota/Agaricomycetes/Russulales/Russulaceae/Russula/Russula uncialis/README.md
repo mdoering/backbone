@@ -1,5 +1,4 @@
-Russula uncialis Peck SPECIES
-=======
+# Russula uncialis Peck SPECIES
 
 #### Status
 ACCEPTED

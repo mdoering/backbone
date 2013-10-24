@@ -1,5 +1,4 @@
-Manglicola guatemalensis Kohlm. & E. Kohlm., 1971 SPECIES
-=======
+# Manglicola guatemalensis Kohlm. & E. Kohlm., 1971 SPECIES
 
 #### Status
 ACCEPTED

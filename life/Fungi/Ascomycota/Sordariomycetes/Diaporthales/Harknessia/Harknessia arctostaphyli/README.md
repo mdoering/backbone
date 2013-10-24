@@ -1,5 +1,4 @@
-Harknessia arctostaphyli Cooke & Harkn. SPECIES
-=======
+# Harknessia arctostaphyli Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

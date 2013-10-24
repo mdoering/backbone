@@ -1,5 +1,4 @@
-Jansia proxima (Berk. & Broome) Petch SPECIES
-=======
+# Jansia proxima (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

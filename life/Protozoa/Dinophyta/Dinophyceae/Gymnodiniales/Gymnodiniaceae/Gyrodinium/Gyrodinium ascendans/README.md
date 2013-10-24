@@ -1,5 +1,4 @@
-Gyrodinium ascendans Kofoid, 1931 SPECIES
-=======
+# Gyrodinium ascendans Kofoid, 1931 SPECIES
 
 #### Status
 ACCEPTED

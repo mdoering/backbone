@@ -1,5 +1,4 @@
-Diaporthe leucopis (Fr.) Sacc. SPECIES
-=======
+# Diaporthe leucopis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

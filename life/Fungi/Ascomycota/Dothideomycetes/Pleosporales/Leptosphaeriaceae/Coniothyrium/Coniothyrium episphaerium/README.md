@@ -1,5 +1,4 @@
-Coniothyrium episphaerium Höhn. SPECIES
-=======
+# Coniothyrium episphaerium Höhn. SPECIES
 
 #### Status
 ACCEPTED

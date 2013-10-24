@@ -1,5 +1,4 @@
-Cercospora tamoneae Chupp SPECIES
-=======
+# Cercospora tamoneae Chupp SPECIES
 
 #### Status
 ACCEPTED

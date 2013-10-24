@@ -1,5 +1,4 @@
-Chromulina pyriformis Playfair SPECIES
-=======
+# Chromulina pyriformis Playfair SPECIES
 
 #### Status
 ACCEPTED

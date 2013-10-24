@@ -1,5 +1,4 @@
-Pleurotus kerneri (Wettst.) Sacc. SPECIES
-=======
+# Pleurotus kerneri (Wettst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

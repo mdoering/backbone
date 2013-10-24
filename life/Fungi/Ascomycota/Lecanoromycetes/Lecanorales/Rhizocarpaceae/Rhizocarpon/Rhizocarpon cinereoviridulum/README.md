@@ -1,5 +1,4 @@
-Rhizocarpon cinereoviridulum Lindau SPECIES
-=======
+# Rhizocarpon cinereoviridulum Lindau SPECIES
 
 #### Status
 ACCEPTED

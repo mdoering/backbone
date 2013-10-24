@@ -1,5 +1,4 @@
-Intextomyces J. Erikss. & Ryvarden GENUS
-=======
+# Intextomyces J. Erikss. & Ryvarden GENUS
 
 #### Status
 ACCEPTED

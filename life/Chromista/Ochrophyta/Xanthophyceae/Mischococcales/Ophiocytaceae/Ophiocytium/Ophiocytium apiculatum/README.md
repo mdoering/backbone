@@ -1,5 +1,4 @@
-Ophiocytium apiculatum Nägeli SPECIES
-=======
+# Ophiocytium apiculatum Nägeli SPECIES
 
 #### Status
 ACCEPTED

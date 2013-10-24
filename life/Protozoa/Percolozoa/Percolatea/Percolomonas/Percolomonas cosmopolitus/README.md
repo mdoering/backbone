@@ -1,5 +1,4 @@
-Percolomonas cosmopolitus (Ruinen) Fenchel & Patterson, 1986 SPECIES
-=======
+# Percolomonas cosmopolitus (Ruinen) Fenchel & Patterson, 1986 SPECIES
 
 #### Status
 ACCEPTED

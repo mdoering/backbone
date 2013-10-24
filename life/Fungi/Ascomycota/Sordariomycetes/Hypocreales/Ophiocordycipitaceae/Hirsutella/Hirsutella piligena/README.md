@@ -1,5 +1,4 @@
-Hirsutella piligena Bourdot & Galzin SPECIES
-=======
+# Hirsutella piligena Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

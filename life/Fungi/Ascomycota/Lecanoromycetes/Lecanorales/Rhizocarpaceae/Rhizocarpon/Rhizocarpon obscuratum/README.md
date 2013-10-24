@@ -1,17 +1,16 @@
-Rhizocarpon obscuratum subsp. obscuratum SUBSPECIES
-=======
+# Rhizocarpon obscuratum (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ric. auton. lich. crost. (Verona) 103 (1852)
+null
 
 #### Original name
-Lichen petraeus var. obscuratus Ach.
+null
 
 ### Remarks
 null

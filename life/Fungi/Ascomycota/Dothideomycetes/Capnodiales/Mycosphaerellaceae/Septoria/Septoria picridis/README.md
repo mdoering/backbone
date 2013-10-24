@@ -1,5 +1,4 @@
-Septoria picridis Ishiy. SPECIES
-=======
+# Septoria picridis Ishiy. SPECIES
 
 #### Status
 ACCEPTED

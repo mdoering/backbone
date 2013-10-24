@@ -1,5 +1,4 @@
-Eccilia atrata Rick SPECIES
-=======
+# Eccilia atrata Rick SPECIES
 
 #### Status
 ACCEPTED

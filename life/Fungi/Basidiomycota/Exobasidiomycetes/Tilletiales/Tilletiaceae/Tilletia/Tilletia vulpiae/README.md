@@ -1,5 +1,4 @@
-Tilletia vulpiae Magnus SPECIES
-=======
+# Tilletia vulpiae Magnus SPECIES
 
 #### Status
 ACCEPTED

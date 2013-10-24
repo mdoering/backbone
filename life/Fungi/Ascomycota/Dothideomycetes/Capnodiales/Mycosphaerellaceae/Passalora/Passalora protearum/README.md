@@ -1,5 +1,4 @@
-Passalora protearum Kalchbr. & Cooke SPECIES
-=======
+# Passalora protearum Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

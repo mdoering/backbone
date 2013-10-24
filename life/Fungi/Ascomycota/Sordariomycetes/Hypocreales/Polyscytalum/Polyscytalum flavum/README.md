@@ -1,5 +1,4 @@
-Polyscytalum flavum Sumst. SPECIES
-=======
+# Polyscytalum flavum Sumst. SPECIES
 
 #### Status
 ACCEPTED

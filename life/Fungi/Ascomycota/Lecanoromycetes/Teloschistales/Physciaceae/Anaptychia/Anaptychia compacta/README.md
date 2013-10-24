@@ -1,5 +1,4 @@
-Anaptychia compacta SPECIES
-=======
+# Anaptychia compacta SPECIES
 
 #### Status
 ACCEPTED

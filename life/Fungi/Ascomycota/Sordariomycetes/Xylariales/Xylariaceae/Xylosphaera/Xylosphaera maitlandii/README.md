@@ -1,5 +1,4 @@
-Xylosphaera maitlandii var. maitlandii Dennis VARIETY
-=======
+# Xylosphaera maitlandii Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylosphaera maitlandii var. maitlandii Dennis
+Xylosphaera maitlandii Dennis
 
 ### Remarks
 null

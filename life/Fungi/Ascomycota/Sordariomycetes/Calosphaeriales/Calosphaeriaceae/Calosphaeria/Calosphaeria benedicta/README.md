@@ -1,5 +1,4 @@
-Calosphaeria benedicta Rehm SPECIES
-=======
+# Calosphaeria benedicta Rehm SPECIES
 
 #### Status
 ACCEPTED

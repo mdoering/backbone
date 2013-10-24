@@ -1,5 +1,4 @@
-Lichenobactridium Diederich & Etayo GENUS
-=======
+# Lichenobactridium Diederich & Etayo GENUS
 
 #### Status
 ACCEPTED

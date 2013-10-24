@@ -1,5 +1,4 @@
-Hypocopra alpina (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Hypocopra alpina (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

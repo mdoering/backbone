@@ -1,5 +1,4 @@
-Ciliophora cryptica Petr., 1929 SPECIES
-=======
+# Ciliophora cryptica Petr., 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurocapsa magna Weber-van Bosse SPECIES
-=======
+# Pleurocapsa magna Weber-van Bosse SPECIES
 
 #### Status
 ACCEPTED

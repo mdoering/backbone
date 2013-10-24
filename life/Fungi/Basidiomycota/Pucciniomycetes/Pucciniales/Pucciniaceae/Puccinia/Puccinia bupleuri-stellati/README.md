@@ -1,5 +1,4 @@
-Puccinia bupleuri-stellati Gäum. SPECIES
-=======
+# Puccinia bupleuri-stellati Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo flavidula G. Winter SPECIES
-=======
+# Uredo flavidula G. Winter SPECIES
 
 #### Status
 ACCEPTED

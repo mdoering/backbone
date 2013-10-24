@@ -1,17 +1,16 @@
-Mycocalicium cinerascens (Nyl.) Vain. SPECIES
-=======
+# Chaenothecopsis viridialba (Kremp.) A. F. W. Schmidt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. Staatsinst. Allg. Bot. Hamburg 13: 143 (1970)
 
 #### Original name
-null
+Calicium viridialbum Kremp.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amanita xanthocephala f. xanthocephala FORM
-=======
+# Amanita xanthocephala (Berk.) D.A. Reid & R.N. Hilton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Reid, Aust. J. Bot. , Suppl. Ser. 8: 66 (1980)
 
 #### Original name
-Amanita xanthocephala f. xanthocephala
+Agaricus xanthocephalus Berk.
 
 ### Remarks
 null

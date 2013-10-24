@@ -1,8 +1,7 @@
-Polycerea ramulosa J. Agardh SPECIES
-=======
+# Polycerea nigrescens (Harvey ex Kützing) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

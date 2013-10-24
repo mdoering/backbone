@@ -1,5 +1,4 @@
-Opegrapha poitiaei (Fée) Bél. SPECIES
-=======
+# Opegrapha poitiaei (Fée) Bél. SPECIES
 
 #### Status
 ACCEPTED

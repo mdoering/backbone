@@ -1,5 +1,4 @@
-Misgomyces obliquatus Thaxt. SPECIES
-=======
+# Misgomyces obliquatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

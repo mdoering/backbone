@@ -1,5 +1,4 @@
-Lycoperdon carpoboloides Scop. SPECIES
-=======
+# Lycoperdon carpoboloides Scop. SPECIES
 
 #### Status
 ACCEPTED

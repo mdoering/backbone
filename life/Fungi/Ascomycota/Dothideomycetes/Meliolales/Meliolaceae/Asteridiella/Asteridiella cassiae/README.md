@@ -1,5 +1,4 @@
-Asteridiella cassiae (Cif.) Hansf. SPECIES
-=======
+# Asteridiella cassiae (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

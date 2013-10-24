@@ -1,5 +1,4 @@
-Lobaria pseudolivacea Zahlbr. SPECIES
-=======
+# Lobaria pseudolivacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

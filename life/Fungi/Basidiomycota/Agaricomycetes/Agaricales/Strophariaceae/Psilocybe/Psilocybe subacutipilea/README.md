@@ -1,5 +1,4 @@
-Psilocybe subacutipilea Guzmán, Saldarr., Pineda, G. García & L.-F. Velázquez SPECIES
-=======
+# Psilocybe subacutipilea Guzmán, Saldarr., Pineda, G. García & L.-F. Velázquez SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia juniperina (L.) DC. SPECIES
-=======
+# Physcia juniperina (L.) DC. SPECIES
 
 #### Status
 ACCEPTED

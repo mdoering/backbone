@@ -1,5 +1,4 @@
-Omphalia fuliginosa Massee SPECIES
-=======
+# Omphalia fuliginosa Massee SPECIES
 
 #### Status
 ACCEPTED

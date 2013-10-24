@@ -1,5 +1,4 @@
-Cortinarius subcrassoides Moënne-Locc. & Remaux SPECIES
-=======
+# Cortinarius subcrassoides Moënne-Locc. & Remaux SPECIES
 
 #### Status
 ACCEPTED

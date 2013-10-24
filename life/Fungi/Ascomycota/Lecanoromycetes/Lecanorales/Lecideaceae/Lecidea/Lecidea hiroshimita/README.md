@@ -1,5 +1,4 @@
-Lecidea hiroshimita Nyl. SPECIES
-=======
+# Lecidea hiroshimita Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium populicola K. Schub. & U. Braun SPECIES
-=======
+# Cladosporium populicola K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

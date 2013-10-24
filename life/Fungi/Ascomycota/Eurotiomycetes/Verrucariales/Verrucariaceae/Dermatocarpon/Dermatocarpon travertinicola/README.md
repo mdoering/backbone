@@ -1,8 +1,7 @@
-Dermatocarpon travertinicolum Servít SPECIES
-=======
+# Dermatocarpon travertinicola Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dermatocarpon travertinicolum Servít
+Dermatocarpon travertinicola Servít
 
 ### Remarks
 null

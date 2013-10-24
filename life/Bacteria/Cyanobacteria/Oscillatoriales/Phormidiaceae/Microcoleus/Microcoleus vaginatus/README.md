@@ -1,5 +1,4 @@
-Microcoleus vaginatus (Vaucher) Gomont SPECIES
-=======
+# Microcoleus vaginatus (Vaucher) Gomont SPECIES
 
 #### Status
 ACCEPTED

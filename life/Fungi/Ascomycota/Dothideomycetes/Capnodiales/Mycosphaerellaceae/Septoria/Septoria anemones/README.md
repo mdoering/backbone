@@ -1,17 +1,16 @@
-Septoria anemones var. coronariae Grove VARIETY
-=======
+# Septoria anemones Desm., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 2 10: 310 (1838)
 
 #### Original name
-Septoria anemones var. coronariae Grove
+Septoria anemones Desm., 1838
 
 ### Remarks
 null

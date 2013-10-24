@@ -1,5 +1,4 @@
-Aspergillus vinosobubalinus Udagawa, Kamiya & Kaori Osada, 1993 SPECIES
-=======
+# Aspergillus vinosobubalinus Udagawa, Kamiya & Kaori Osada, 1993 SPECIES
 
 #### Status
 ACCEPTED

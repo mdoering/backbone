@@ -1,5 +1,4 @@
-Leptosphaeria corae Pat. SPECIES
-=======
+# Leptosphaeria corae Pat. SPECIES
 
 #### Status
 ACCEPTED

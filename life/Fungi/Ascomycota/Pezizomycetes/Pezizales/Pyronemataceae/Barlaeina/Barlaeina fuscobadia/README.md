@@ -1,5 +1,4 @@
-Barlaeina fuscobadia G.H. Otth SPECIES
-=======
+# Barlaeina fuscobadia G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

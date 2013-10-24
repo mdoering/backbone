@@ -1,5 +1,4 @@
-Discoaster blackstockae Bukry, 1973 SPECIES
-=======
+# Discoaster blackstockae Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

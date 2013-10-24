@@ -1,5 +1,4 @@
-Lecanora tschujovii Savicz SPECIES
-=======
+# Lecanora tschujovii Savicz SPECIES
 
 #### Status
 ACCEPTED

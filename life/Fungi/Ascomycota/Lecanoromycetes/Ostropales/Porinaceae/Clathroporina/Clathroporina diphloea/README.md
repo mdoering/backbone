@@ -1,5 +1,4 @@
-Clathroporina diphloea Zahlbr. SPECIES
-=======
+# Clathroporina diphloea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neurophora GENUS
-=======
+# Neurophora GENUS
 
 #### Status
 ACCEPTED

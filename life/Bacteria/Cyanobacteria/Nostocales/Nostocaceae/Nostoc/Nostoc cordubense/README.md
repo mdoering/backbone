@@ -1,5 +1,4 @@
-Nostoc cordubense C. H. Prosperi SPECIES
-=======
+# Nostoc cordubense C. H. Prosperi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalloidima conglomeratum (Ach.) A. Massal. SPECIES
-=======
+# Thalloidima conglomeratum (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

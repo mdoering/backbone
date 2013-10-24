@@ -1,5 +1,4 @@
-Riccoa aetnensis Cavara SPECIES
-=======
+# Riccoa aetnensis Cavara SPECIES
 
 #### Status
 ACCEPTED

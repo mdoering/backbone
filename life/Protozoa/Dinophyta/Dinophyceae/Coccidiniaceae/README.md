@@ -1,5 +1,4 @@
-Coccidiniaceae FAMILY
-=======
+# Coccidiniaceae FAMILY
 
 #### Status
 ACCEPTED

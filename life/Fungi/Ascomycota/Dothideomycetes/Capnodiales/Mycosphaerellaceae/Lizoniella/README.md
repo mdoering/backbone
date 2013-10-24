@@ -1,5 +1,4 @@
-Lizoniella GENUS
-=======
+# Lizoniella GENUS
 
 #### Status
 ACCEPTED

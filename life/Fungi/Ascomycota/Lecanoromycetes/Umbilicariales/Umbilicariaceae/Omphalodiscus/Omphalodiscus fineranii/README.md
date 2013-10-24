@@ -1,5 +1,4 @@
-Omphalodiscus fineranii C.W. Dodge SPECIES
-=======
+# Omphalodiscus fineranii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

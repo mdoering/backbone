@@ -1,5 +1,4 @@
-Flammulaster pulveraceus E. Horak, 1980 SPECIES
-=======
+# Flammulaster pulveraceus E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

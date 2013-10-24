@@ -1,5 +1,4 @@
-Micromonospora hermanusense Goodwin & Meyers, 2004 SPECIES
-=======
+# Micromonospora hermanusense Goodwin & Meyers, 2004 SPECIES
 
 #### Status
 ACCEPTED

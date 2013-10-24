@@ -1,5 +1,4 @@
-Puccinia cyperi Arthur SPECIES
-=======
+# Puccinia cyperi Arthur SPECIES
 
 #### Status
 ACCEPTED

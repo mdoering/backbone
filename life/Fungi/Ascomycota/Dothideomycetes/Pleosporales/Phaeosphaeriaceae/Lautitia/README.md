@@ -1,5 +1,4 @@
-Lautitia S. Schatz, 1984 GENUS
-=======
+# Lautitia S. Schatz, 1984 GENUS
 
 #### Status
 ACCEPTED

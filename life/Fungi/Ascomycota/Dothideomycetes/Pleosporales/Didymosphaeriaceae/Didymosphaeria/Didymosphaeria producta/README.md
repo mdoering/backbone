@@ -1,5 +1,4 @@
-Didymosphaeria producta Sacc. & Paol. SPECIES
-=======
+# Didymosphaeria producta Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

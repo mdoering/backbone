@@ -1,5 +1,4 @@
-Physarum abundans anon. SPECIES
-=======
+# Physarum abundans anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monozonaris Haeckel, 1887 GENUS
-=======
+# Monozonaris Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

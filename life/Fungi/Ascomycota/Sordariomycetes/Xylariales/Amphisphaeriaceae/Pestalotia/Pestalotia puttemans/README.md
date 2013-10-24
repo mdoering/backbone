@@ -1,5 +1,4 @@
-Pestalotia puttemans Henn. SPECIES
-=======
+# Pestalotia puttemans Henn. SPECIES
 
 #### Status
 ACCEPTED

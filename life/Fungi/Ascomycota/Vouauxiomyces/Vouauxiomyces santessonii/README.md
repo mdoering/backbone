@@ -1,5 +1,4 @@
-Vouauxiomyces santessonii D. Hawksw., 1981 SPECIES
-=======
+# Vouauxiomyces santessonii D. Hawksw., 1981 SPECIES
 
 #### Status
 ACCEPTED

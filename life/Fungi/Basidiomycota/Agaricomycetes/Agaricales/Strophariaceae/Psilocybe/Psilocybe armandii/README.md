@@ -1,5 +1,4 @@
-Psilocybe armandii Guzmán & S.H. Pollock SPECIES
-=======
+# Psilocybe armandii Guzmán & S.H. Pollock SPECIES
 
 #### Status
 ACCEPTED

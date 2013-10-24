@@ -1,5 +1,4 @@
-Helicoma bambusae Henn. SPECIES
-=======
+# Helicoma bambusae Henn. SPECIES
 
 #### Status
 ACCEPTED

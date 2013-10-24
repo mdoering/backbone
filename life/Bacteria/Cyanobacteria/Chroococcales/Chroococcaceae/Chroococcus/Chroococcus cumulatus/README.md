@@ -1,5 +1,4 @@
-Chroococcus cumulatus Bachmann SPECIES
-=======
+# Chroococcus cumulatus Bachmann SPECIES
 
 #### Status
 ACCEPTED

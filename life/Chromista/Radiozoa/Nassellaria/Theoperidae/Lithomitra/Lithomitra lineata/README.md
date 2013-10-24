@@ -1,5 +1,4 @@
-Lithomitra lineata Ehrenberg, 1839 SPECIES
-=======
+# Lithomitra lineata Ehrenberg, 1839 SPECIES
 
 #### Status
 ACCEPTED

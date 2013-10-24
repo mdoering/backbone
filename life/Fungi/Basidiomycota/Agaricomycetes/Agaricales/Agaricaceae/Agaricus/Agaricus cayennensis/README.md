@@ -1,5 +1,4 @@
-Agaricus cayennensis Mont. SPECIES
-=======
+# Agaricus cayennensis Mont. SPECIES
 
 #### Status
 ACCEPTED

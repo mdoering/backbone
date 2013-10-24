@@ -1,5 +1,4 @@
-Clavaria tomentosa var. tomentosa VARIETY
-=======
+# Clavaria tomentosa Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 2: 590 (1801)
 
 #### Original name
-Clavaria tomentosa var. tomentosa
+Clavaria tomentosa Pers.
 
 ### Remarks
 null

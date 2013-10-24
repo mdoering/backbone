@@ -1,5 +1,4 @@
-Cortinarius joachimii Rob. Henry SPECIES
-=======
+# Cortinarius joachimii Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

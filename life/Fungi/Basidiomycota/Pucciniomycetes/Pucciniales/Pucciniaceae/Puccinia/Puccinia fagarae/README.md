@@ -1,5 +1,4 @@
-Puccinia fagarae Doidge SPECIES
-=======
+# Puccinia fagarae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus hemilasius (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus hemilasius (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lanzia crassipes (Pat.) Sacc. SPECIES
-=======
+# Lanzia crassipes (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

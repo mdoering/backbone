@@ -1,5 +1,4 @@
-Galerina fibrillosa A.H. Sm. SPECIES
-=======
+# Galerina fibrillosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

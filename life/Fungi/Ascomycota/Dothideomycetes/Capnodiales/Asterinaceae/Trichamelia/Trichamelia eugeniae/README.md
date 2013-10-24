@@ -1,5 +1,4 @@
-Trichamelia eugeniae Bat. & R. Garnier, 1960 SPECIES
-=======
+# Trichamelia eugeniae Bat. & R. Garnier, 1960 SPECIES
 
 #### Status
 ACCEPTED

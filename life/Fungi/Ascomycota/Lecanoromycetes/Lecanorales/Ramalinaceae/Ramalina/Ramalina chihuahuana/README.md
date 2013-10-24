@@ -1,5 +1,4 @@
-Ramalina chihuahuana Kashiw. & T. H. Nash SPECIES
-=======
+# Ramalina chihuahuana Kashiw. & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

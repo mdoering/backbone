@@ -1,5 +1,4 @@
-Cothurnia rhabdota SPECIES
-=======
+# Cothurnia rhabdota SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Turbinaria indica Gopalakrishnan SPECIES
-=======
+# Turbinaria indica Gopalakrishnan SPECIES
 
 #### Status
 ACCEPTED

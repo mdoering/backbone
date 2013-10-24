@@ -1,5 +1,4 @@
-Sphaeria stictinae H. Olivier SPECIES
-=======
+# Sphaeria stictinae H. Olivier SPECIES
 
 #### Status
 ACCEPTED

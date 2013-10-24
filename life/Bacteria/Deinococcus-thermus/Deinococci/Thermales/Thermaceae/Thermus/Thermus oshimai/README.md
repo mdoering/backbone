@@ -1,5 +1,4 @@
-Thermus oshimai Williams et al., 1996 SPECIES
-=======
+# Thermus oshimai Williams et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

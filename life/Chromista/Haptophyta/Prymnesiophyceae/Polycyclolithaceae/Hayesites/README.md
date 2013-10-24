@@ -1,5 +1,4 @@
-Hayesites H.Manivit GENUS
-=======
+# Hayesites H.Manivit GENUS
 
 #### Status
 ACCEPTED

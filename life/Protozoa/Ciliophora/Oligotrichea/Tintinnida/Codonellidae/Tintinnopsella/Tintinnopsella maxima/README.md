@@ -1,5 +1,4 @@
-Tintinnopsella maxima SPECIES
-=======
+# Tintinnopsella maxima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thuricola innixa Stokes, 1885 SPECIES
-=======
+# Thuricola innixa Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

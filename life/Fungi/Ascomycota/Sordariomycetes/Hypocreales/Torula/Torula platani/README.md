@@ -1,5 +1,4 @@
-Torula platani Roum. & Pat. SPECIES
-=======
+# Torula platani Roum. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dilatisphaera tubula Le Hérissé, 1989 SPECIES
-=======
+# Dilatisphaera tubula Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

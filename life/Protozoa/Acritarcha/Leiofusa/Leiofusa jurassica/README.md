@@ -1,5 +1,4 @@
-Leiofusa jurassica Cookson & Eisenack SPECIES
-=======
+# Leiofusa jurassica Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

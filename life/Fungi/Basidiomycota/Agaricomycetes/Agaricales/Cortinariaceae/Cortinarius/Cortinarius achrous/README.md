@@ -1,5 +1,4 @@
-Cortinarius achrous E. Horak, Peintner, M.M. Moser & Vilgalys, 2002 SPECIES
-=======
+# Cortinarius achrous E. Horak, Peintner, M.M. Moser & Vilgalys, 2002 SPECIES
 
 #### Status
 ACCEPTED

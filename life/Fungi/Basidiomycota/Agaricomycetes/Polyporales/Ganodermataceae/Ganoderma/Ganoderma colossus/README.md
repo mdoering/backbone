@@ -1,14 +1,13 @@
-Polyporus colossus Fr., 1851 SPECIES
-=======
+# Ganoderma colossus (Fr.) C.F. Baker, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. Symb. Myc. 56 (1851)
+Brotéria 425 (1918)
 
 #### Original name
 Polyporus colossus Fr., 1851

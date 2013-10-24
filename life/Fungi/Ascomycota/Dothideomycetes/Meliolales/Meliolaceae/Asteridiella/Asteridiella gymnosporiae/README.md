@@ -1,5 +1,4 @@
-Asteridiella gymnosporiae (Syd.) Hansf. SPECIES
-=======
+# Asteridiella gymnosporiae (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

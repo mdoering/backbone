@@ -1,5 +1,4 @@
-Rivularia atra Roth ex Bornet & Flahault SPECIES
-=======
+# Rivularia atra Roth ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

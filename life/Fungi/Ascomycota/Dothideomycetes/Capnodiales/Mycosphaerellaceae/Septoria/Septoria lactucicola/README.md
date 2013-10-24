@@ -1,5 +1,4 @@
-Septoria lactucicola Ellis & G. Martin SPECIES
-=======
+# Septoria lactucicola Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon griseum (Schwein.) Ellis & Everh. SPECIES
-=======
+# Hypoxylon griseum (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

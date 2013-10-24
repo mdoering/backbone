@@ -1,5 +1,4 @@
-Acarospora marina Sandst. SPECIES
-=======
+# Acarospora marina Sandst. SPECIES
 
 #### Status
 ACCEPTED

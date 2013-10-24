@@ -1,5 +1,4 @@
-Sargassum sagamianum Yendo SPECIES
-=======
+# Sargassum sagamianum Yendo SPECIES
 
 #### Status
 ACCEPTED

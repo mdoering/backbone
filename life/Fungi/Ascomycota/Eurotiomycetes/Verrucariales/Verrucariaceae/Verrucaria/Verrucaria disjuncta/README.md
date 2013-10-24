@@ -1,5 +1,4 @@
-Verrucaria disjuncta Arnold SPECIES
-=======
+# Verrucaria disjuncta Arnold SPECIES
 
 #### Status
 ACCEPTED

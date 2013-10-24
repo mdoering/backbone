@@ -1,5 +1,4 @@
-Nassula depressa SPECIES
-=======
+# Nassula depressa SPECIES
 
 #### Status
 ACCEPTED

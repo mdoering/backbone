@@ -1,5 +1,4 @@
-Polyporus meridionalis (A. David) H. Jahn, 1980 SPECIES
-=======
+# Polyporus meridionalis (A. David) H. Jahn, 1980 SPECIES
 
 #### Status
 ACCEPTED

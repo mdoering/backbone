@@ -1,5 +1,4 @@
-Pseudocercospora marcelliana (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora marcelliana (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

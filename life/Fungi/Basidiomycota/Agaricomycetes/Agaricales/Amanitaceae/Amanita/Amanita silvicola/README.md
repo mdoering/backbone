@@ -1,5 +1,4 @@
-Amanita silvicola Kauffman SPECIES
-=======
+# Amanita silvicola Kauffman SPECIES
 
 #### Status
 ACCEPTED

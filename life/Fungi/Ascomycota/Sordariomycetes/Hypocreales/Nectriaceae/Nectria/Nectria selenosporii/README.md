@@ -1,5 +1,4 @@
-Nectria selenosporii Tul. SPECIES
-=======
+# Nectria selenosporii Tul. SPECIES
 
 #### Status
 ACCEPTED

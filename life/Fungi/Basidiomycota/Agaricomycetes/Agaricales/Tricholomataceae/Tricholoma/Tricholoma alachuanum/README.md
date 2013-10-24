@@ -1,5 +1,4 @@
-Tricholoma alachuanum (Murrill) Murrill SPECIES
-=======
+# Tricholoma alachuanum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

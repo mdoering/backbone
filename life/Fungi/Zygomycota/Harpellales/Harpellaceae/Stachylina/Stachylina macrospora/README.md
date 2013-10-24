@@ -1,17 +1,16 @@
-Stachylina intermedia R.A. Poiss., 1936 SPECIES
-=======
+# Stachylina macrospora L. Léger & M. Gauthier, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mélanges dédiés au Professeur Lucien Daniel (France) 14: 76 (1936)
+C. r. hebd. Séanc. Acad. Sci. , Paris 194: 2263 (1932)
 
 #### Original name
-Stachylina intermedia R.A. Poiss., 1936
+Stachylina macrospora L. Léger & M. Gauthier, 1932
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gloeocystidiellum Donk, 1931 GENUS
-=======
+# Gloeocystidiellum Donk, 1931 GENUS
 
 #### Status
 ACCEPTED

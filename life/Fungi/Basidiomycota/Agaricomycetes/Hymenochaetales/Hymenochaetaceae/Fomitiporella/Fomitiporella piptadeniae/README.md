@@ -1,5 +1,4 @@
-Fomitiporella piptadeniae (Teixeira) Teixeira SPECIES
-=======
+# Fomitiporella piptadeniae (Teixeira) Teixeira SPECIES
 
 #### Status
 ACCEPTED

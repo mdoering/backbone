@@ -1,5 +1,4 @@
-Sparassidaceae FAMILY
-=======
+# Sparassidaceae FAMILY
 
 #### Status
 ACCEPTED

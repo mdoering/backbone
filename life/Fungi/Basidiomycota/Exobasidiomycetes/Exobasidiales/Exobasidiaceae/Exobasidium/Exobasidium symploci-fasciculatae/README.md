@@ -1,5 +1,4 @@
-Exobasidium symploci-fasciculatae Racib. SPECIES
-=======
+# Exobasidium symploci-fasciculatae Racib. SPECIES
 
 #### Status
 ACCEPTED

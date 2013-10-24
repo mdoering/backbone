@@ -1,5 +1,4 @@
-Smittium minutisporum Lichtw., Siri & M.M. White, 2006 SPECIES
-=======
+# Smittium minutisporum Lichtw., Siri & M.M. White, 2006 SPECIES
 
 #### Status
 ACCEPTED

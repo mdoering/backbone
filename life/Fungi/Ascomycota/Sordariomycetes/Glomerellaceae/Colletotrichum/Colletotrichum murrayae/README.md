@@ -1,5 +1,4 @@
-Colletotrichum murrayae Gutner SPECIES
-=======
+# Colletotrichum murrayae Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora leguminosarum Rabenh. SPECIES
-=======
+# Melampsora leguminosarum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

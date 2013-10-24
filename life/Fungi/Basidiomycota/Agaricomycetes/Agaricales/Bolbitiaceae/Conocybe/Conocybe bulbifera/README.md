@@ -1,14 +1,13 @@
-Galera bulbifera Kauffman, 1918 SPECIES
-=======
+# Conocybe bulbifera (Kauffman) Romagn., 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publications Mich. geol. biol. Surv. , Biol. Ser. 5 26: 496 (1918)
+Bull. trimest. Soc. mycol. Fr. 58: 147 (1942)
 
 #### Original name
 Galera bulbifera Kauffman, 1918

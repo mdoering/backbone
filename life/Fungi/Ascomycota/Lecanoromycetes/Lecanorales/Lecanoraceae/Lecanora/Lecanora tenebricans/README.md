@@ -1,5 +1,4 @@
-Lecanora tenebricans Nyl. SPECIES
-=======
+# Lecanora tenebricans Nyl. SPECIES
 
 #### Status
 ACCEPTED

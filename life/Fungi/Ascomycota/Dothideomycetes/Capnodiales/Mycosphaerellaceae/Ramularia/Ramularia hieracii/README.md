@@ -1,5 +1,4 @@
-Ramularia hieracii Ranoj. SPECIES
-=======
+# Ramularia hieracii Ranoj. SPECIES
 
 #### Status
 ACCEPTED

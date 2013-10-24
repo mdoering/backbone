@@ -1,14 +1,13 @@
-Physarum apiculosporum Härk., 1978 SPECIES
-=======
+# Badhamia apiculospora (Härk.) Eliasson & N. Lundq., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 18(1): 24 (1978)
+Bot. Notiser 132: 560 (1979)
 
 #### Original name
 Physarum apiculosporum Härk., 1978

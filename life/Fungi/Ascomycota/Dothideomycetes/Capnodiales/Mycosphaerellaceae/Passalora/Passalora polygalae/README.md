@@ -1,5 +1,4 @@
-Passalora polygalae U. Braun & F.O. Freire SPECIES
-=======
+# Passalora polygalae U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

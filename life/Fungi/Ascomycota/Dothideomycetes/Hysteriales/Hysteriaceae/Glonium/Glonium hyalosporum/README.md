@@ -1,5 +1,4 @@
-Glonium hyalosporum W.R. Gerard SPECIES
-=======
+# Glonium hyalosporum W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

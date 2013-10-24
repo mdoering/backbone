@@ -1,5 +1,4 @@
-Filaspora scoparia (Brun. & Sacc.) Kuntze SPECIES
-=======
+# Filaspora scoparia (Brun. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

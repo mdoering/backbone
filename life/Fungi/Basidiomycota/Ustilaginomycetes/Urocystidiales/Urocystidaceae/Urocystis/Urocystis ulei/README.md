@@ -1,5 +1,4 @@
-Urocystis ulei Magnus, 1878 SPECIES
-=======
+# Urocystis ulei Magnus, 1878 SPECIES
 
 #### Status
 ACCEPTED

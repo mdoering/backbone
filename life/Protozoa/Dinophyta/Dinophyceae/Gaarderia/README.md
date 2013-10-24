@@ -1,5 +1,4 @@
-Gaarderia Carbonell-Moore, 1994 GENUS
-=======
+# Gaarderia Carbonell-Moore, 1994 GENUS
 
 #### Status
 ACCEPTED

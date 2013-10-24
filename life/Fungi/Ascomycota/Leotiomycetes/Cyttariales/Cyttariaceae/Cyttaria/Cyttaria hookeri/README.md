@@ -1,17 +1,16 @@
-Cyttaria hookeri f. canida Marchion. FORM
-=======
+# Cyttaria hookeri Berk., 1845 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Darwiniana 4(1): 27 (1940)
+Botany of the Antarctic Voyage of H. M. Discovery Ships Erebus and Terror, in the years 1839-1843, I. 452 (1845)
 
 #### Original name
-Cyttaria hookeri f. canida Marchion.
+Cyttaria hookeri Berk., 1845
 
 ### Remarks
 null

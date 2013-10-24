@@ -1,17 +1,16 @@
-Lenzites ambigua P. Karst., 1905 SPECIES
-=======
+# Trichaptum laricinum (P. Karst.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 27(no. 4): 5 (1905)
+Norw. Jl Bot. 19: 237 (1972)
 
 #### Original name
-Lenzites ambigua P. Karst., 1905
+Lenzites laricina P. Karst., 1905
 
 ### Remarks
 null

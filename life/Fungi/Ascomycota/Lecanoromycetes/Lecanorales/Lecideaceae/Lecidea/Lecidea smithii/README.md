@@ -1,5 +1,4 @@
-Lecidea smithii (Ach.) Ach. SPECIES
-=======
+# Lecidea smithii (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

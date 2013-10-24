@@ -1,5 +1,4 @@
-Aphanocladium tomentosum Aramb. SPECIES
-=======
+# Aphanocladium tomentosum Aramb. SPECIES
 
 #### Status
 ACCEPTED

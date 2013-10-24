@@ -1,5 +1,4 @@
-Galerina subglabripes A.H. Sm. & Singer SPECIES
-=======
+# Galerina subglabripes A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

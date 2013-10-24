@@ -1,5 +1,4 @@
-Sporotrichum araneae (Brunaud) Sartory SPECIES
-=======
+# Sporotrichum araneae (Brunaud) Sartory SPECIES
 
 #### Status
 ACCEPTED

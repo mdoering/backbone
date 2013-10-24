@@ -1,5 +1,4 @@
-Myoschiston balanorum (Mereschkowski, 1877) Precht, 1935 SPECIES
-=======
+# Myoschiston balanorum (Mereschkowski, 1877) Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolaschia frieseana Henn. SPECIES
-=======
+# Favolaschia frieseana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria passerinii Sacc. & Speg. SPECIES
-=======
+# Amphisphaeria passerinii Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

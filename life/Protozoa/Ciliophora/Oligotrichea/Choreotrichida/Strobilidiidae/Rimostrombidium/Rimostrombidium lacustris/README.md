@@ -1,5 +1,4 @@
-Rimostrombidium lacustris (Foissner, Skogstad & Pratt, 1988) Petz & Foissner, 1992 SPECIES
-=======
+# Rimostrombidium lacustris (Foissner, Skogstad & Pratt, 1988) Petz & Foissner, 1992 SPECIES
 
 #### Status
 ACCEPTED

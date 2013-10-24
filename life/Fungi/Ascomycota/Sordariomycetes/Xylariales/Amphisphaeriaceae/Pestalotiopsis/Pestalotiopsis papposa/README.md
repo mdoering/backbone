@@ -1,5 +1,4 @@
-Pestalotiopsis papposa Steyaert, 1949 SPECIES
-=======
+# Pestalotiopsis papposa Steyaert, 1949 SPECIES
 
 #### Status
 ACCEPTED

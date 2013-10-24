@@ -1,5 +1,4 @@
-Alternaria heveae E.G. Simmons SPECIES
-=======
+# Alternaria heveae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

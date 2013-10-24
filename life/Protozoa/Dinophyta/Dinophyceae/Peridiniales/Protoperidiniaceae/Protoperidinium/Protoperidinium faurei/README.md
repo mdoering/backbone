@@ -1,5 +1,4 @@
-Protoperidinium faurei Balech, 1994 SPECIES
-=======
+# Protoperidinium faurei Balech, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria tubulosa Fr. SPECIES
-=======
+# Clavaria tubulosa Fr. SPECIES
 
 #### Status
 ACCEPTED

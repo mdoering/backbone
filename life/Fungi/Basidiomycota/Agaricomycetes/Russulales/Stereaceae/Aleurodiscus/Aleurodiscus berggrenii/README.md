@@ -1,17 +1,16 @@
-Hypocrea berggreni Cooke SPECIES
-=======
+# Aleurodiscus berggrenii (Cooke) G. Cunn., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 77: 277 (1953)
 
 #### Original name
-Hypocrea berggreni Cooke
+Hypocrea berggrenii Cooke, 1879
 
 ### Remarks
 null

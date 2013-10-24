@@ -1,5 +1,4 @@
-Anthurus brownii J.M. Mend. SPECIES
-=======
+# Anthurus brownii J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

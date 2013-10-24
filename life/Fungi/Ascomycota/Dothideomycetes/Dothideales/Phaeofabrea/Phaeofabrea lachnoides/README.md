@@ -1,5 +1,4 @@
-Phaeofabrea lachnoides (Rehm) Pfister SPECIES
-=======
+# Phaeofabrea lachnoides (Rehm) Pfister SPECIES
 
 #### Status
 ACCEPTED

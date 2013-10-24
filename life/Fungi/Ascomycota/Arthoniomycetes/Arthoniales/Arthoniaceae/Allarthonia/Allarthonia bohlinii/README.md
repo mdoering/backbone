@@ -1,5 +1,4 @@
-Allarthonia bohlinii H. Magn. SPECIES
-=======
+# Allarthonia bohlinii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

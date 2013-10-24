@@ -1,5 +1,4 @@
-Stamnaria herjedalensis (Rehm) Bubák SPECIES
-=======
+# Stamnaria herjedalensis (Rehm) Bubák SPECIES
 
 #### Status
 ACCEPTED

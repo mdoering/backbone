@@ -1,5 +1,4 @@
-Parasterina maublancii (G. Arnaud) Toro SPECIES
-=======
+# Parasterina maublancii (G. Arnaud) Toro SPECIES
 
 #### Status
 ACCEPTED

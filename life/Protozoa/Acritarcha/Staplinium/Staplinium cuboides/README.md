@@ -1,5 +1,4 @@
-Staplinium cuboides (Deunff, 1955) Deunff, 1971 SPECIES
-=======
+# Staplinium cuboides (Deunff, 1955) Deunff, 1971 SPECIES
 
 #### Status
 ACCEPTED

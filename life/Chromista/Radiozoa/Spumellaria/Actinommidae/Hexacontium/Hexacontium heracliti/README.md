@@ -1,5 +1,4 @@
-Hexacontium heracliti (Haeckel) Nishimura & Yamauchi, 1984 SPECIES
-=======
+# Hexacontium heracliti (Haeckel) Nishimura & Yamauchi, 1984 SPECIES
 
 #### Status
 ACCEPTED

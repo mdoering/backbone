@@ -1,5 +1,4 @@
-Hebeloma victoriense A.A. Holland & Pegler, 1983 SPECIES
-=======
+# Hebeloma victoriense A.A. Holland & Pegler, 1983 SPECIES
 
 #### Status
 ACCEPTED

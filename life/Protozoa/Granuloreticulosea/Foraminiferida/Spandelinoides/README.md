@@ -1,5 +1,4 @@
-Spandelinoides Cushman & Waters, 1928 GENUS
-=======
+# Spandelinoides Cushman & Waters, 1928 GENUS
 
 #### Status
 ACCEPTED

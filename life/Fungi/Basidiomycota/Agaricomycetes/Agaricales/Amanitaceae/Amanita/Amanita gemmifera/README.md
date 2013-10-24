@@ -1,5 +1,4 @@
-Amanita gemmifera E.-J. Gilbert SPECIES
-=======
+# Amanita gemmifera E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puttemansia wildemaniana (Henn.) Piroz. SPECIES
-=======
+# Puttemansia wildemaniana (Henn.) Piroz. SPECIES
 
 #### Status
 ACCEPTED

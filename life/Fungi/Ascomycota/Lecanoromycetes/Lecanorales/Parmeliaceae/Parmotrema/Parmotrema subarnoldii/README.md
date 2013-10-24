@@ -1,17 +1,16 @@
-Parmelia subarnoldii Abbayes SPECIES
-=======
+# Parmotrema subarnoldii (Abbayes) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Inst. Sci. Madagascar, sér. B 10: 113 (1961)
+null
 
 #### Original name
-Parmelia subarnoldii Abbayes
+null
 
 ### Remarks
 null

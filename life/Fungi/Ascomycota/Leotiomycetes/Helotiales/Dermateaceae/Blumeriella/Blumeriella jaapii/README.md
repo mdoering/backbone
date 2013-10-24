@@ -1,17 +1,16 @@
-Cylindrosporium padi f. padi FORM
-=======
+# Blumeriella jaapii (Rehm) Arx, 1961 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 11: 159 (1884)
+Phytopath. Z. 42(2): 164 (1961)
 
 #### Original name
-Cylindrosporium padi f. padi
+Pseudopeziza jaapii Rehm, 1907
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Corticium corruge (Burt) Burt ex D.P. Rogers & H.S. Jacks., 1943 SPECIES
-=======
+# Cylindrobasidium corrugum (Burt) Ginns, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 1(2): 276 (1943)
+Op. bot. 61: 54 (1982)
 
 #### Original name
 Coniophora corrugis Burt, 1926

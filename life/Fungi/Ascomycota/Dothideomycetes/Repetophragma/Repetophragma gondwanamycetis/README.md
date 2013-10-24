@@ -1,5 +1,4 @@
-Repetophragma gondwanamycetis Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Repetophragma gondwanamycetis Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

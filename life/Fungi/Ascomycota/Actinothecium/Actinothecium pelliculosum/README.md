@@ -1,5 +1,4 @@
-Actinothecium pelliculosum (Berk. & Broome) Petch SPECIES
-=======
+# Actinothecium pelliculosum (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

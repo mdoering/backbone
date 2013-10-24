@@ -1,5 +1,4 @@
-Latecella Cheng & Zheng, 1978 GENUS
-=======
+# Latecella Cheng & Zheng, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halostylodinium arenarium T. Horiguchi & J. Yoshizawa-Ebata SPECIES
-=======
+# Halostylodinium arenarium T. Horiguchi & J. Yoshizawa-Ebata SPECIES
 
 #### Status
 ACCEPTED

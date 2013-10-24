@@ -1,5 +1,4 @@
-Ophiobolus kavinae Klika SPECIES
-=======
+# Ophiobolus kavinae Klika SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora scorpiuri Thüm. SPECIES
-=======
+# Cercospora scorpiuri Thüm. SPECIES
 
 #### Status
 ACCEPTED

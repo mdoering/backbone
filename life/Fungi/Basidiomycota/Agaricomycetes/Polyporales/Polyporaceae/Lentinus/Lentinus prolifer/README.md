@@ -1,5 +1,4 @@
-Lentinus prolifer (Pat. & Har.) D.A. Reid SPECIES
-=======
+# Lentinus prolifer (Pat. & Har.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

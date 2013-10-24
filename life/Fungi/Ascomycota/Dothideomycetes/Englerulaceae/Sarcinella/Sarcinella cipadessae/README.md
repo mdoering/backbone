@@ -1,5 +1,4 @@
-Sarcinella cipadessae Hosag. & J. Thomas SPECIES
-=======
+# Sarcinella cipadessae Hosag. & J. Thomas SPECIES
 
 #### Status
 ACCEPTED

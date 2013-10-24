@@ -1,5 +1,4 @@
-Coniosporium uncinatum De Leo, Urzì & de Hoog SPECIES
-=======
+# Coniosporium uncinatum De Leo, Urzì & de Hoog SPECIES
 
 #### Status
 ACCEPTED

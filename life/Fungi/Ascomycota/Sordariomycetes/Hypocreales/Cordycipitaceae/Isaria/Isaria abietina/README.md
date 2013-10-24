@@ -1,5 +1,4 @@
-Isaria abietina Höhn. SPECIES
-=======
+# Isaria abietina Höhn. SPECIES
 
 #### Status
 ACCEPTED

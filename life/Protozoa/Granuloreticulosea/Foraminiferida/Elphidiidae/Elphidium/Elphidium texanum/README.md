@@ -1,5 +1,4 @@
-Elphidium texanum (Cushman & Aplin) SPECIES
-=======
+# Elphidium texanum (Cushman & Aplin) SPECIES
 
 #### Status
 ACCEPTED

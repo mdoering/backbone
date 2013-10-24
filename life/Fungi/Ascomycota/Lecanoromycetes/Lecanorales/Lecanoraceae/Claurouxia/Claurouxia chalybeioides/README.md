@@ -1,14 +1,13 @@
-Pseudolecidea chalybeioides (Nyl.) Clauzade & Cl. Roux SPECIES
-=======
+# Claurouxia chalybeioides (Nyl.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Provence 35: 97 (1984)
+in Eriksson & Hawksworth, Syst. Ascom. 7(1): 65 (1988)
 
 #### Original name
 Lecidea chalybeioides Nyl.

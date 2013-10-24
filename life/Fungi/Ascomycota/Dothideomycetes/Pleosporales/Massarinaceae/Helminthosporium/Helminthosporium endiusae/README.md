@@ -1,5 +1,4 @@
-Helminthosporium endiusae Sacc. SPECIES
-=======
+# Helminthosporium endiusae Sacc. SPECIES
 
 #### Status
 ACCEPTED

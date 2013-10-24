@@ -1,5 +1,4 @@
-Milleria herbatica Peck SPECIES
-=======
+# Milleria herbatica Peck SPECIES
 
 #### Status
 ACCEPTED

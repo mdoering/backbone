@@ -1,5 +1,4 @@
-Paramoebidium simulii Tuzet & Manier SPECIES
-=======
+# Paramoebidium simulii Tuzet & Manier SPECIES
 
 #### Status
 ACCEPTED

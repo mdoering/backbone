@@ -1,5 +1,4 @@
-Verrucaria deminutula (Nyl.) Nyl. SPECIES
-=======
+# Verrucaria deminutula (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

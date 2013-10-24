@@ -1,5 +1,4 @@
-Heronallenita dorsocostata SPECIES
-=======
+# Heronallenita dorsocostata SPECIES
 
 #### Status
 ACCEPTED

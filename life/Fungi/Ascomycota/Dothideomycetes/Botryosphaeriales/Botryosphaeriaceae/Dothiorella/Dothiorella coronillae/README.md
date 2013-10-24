@@ -1,14 +1,13 @@
-Macrophomopsis coronillae (Desm.) Petr., 1924 SPECIES
-=======
+# Dothiorella coronillae (Desm.) Petr., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 22(1/2): 108 (1924)
+Sydowia 16: 188 (1963)
 
 #### Original name
 Sphaeria coronillae Desm., 1840

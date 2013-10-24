@@ -1,5 +1,4 @@
-Hypocopra planispora J.C. Krug & Cain, 1974 SPECIES
-=======
+# Hypocopra planispora J.C. Krug & Cain, 1974 SPECIES
 
 #### Status
 ACCEPTED

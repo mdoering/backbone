@@ -1,5 +1,4 @@
-Arthopyrenia subcerasi (Vain.) Zahlbr. SPECIES
-=======
+# Arthopyrenia subcerasi (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

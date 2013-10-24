@@ -1,5 +1,4 @@
-Meliola guaranitica Speg. SPECIES
-=======
+# Meliola guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus luteopunctatus (Beeli) Heinem., 1958 SPECIES
-=======
+# Cantharellus luteopunctatus (Beeli) Heinem., 1958 SPECIES
 
 #### Status
 ACCEPTED

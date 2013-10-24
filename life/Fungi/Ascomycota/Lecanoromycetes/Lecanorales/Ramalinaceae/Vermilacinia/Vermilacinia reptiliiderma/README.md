@@ -1,17 +1,16 @@
-Vermilacinia reptilioderma Spjut SPECIES
-=======
+# Vermilacinia reptiliiderma Spjut SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sida, Bot. Misc. 14: 171 (1996)
 
 #### Original name
-Vermilacinia reptilioderma Spjut
+Vermilacinia reptiliiderma Spjut
 
 ### Remarks
 null

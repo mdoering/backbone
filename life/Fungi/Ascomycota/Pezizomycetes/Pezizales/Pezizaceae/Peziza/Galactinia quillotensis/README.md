@@ -1,5 +1,4 @@
-Galactinia quillotensis (Mont.) Le Gal SPECIES
-=======
+# Galactinia quillotensis (Mont.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

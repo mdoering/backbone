@@ -1,5 +1,4 @@
-Planulina exorna SPECIES
-=======
+# Planulina exorna SPECIES
 
 #### Status
 ACCEPTED

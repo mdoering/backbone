@@ -1,5 +1,4 @@
-Heterosphaeria brunaudiana Roum. SPECIES
-=======
+# Heterosphaeria brunaudiana Roum. SPECIES
 
 #### Status
 ACCEPTED

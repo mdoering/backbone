@@ -1,5 +1,4 @@
-Peziza minuta (O.F. Müll.) Dicks. SPECIES
-=======
+# Peziza minuta (O.F. Müll.) Dicks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium marqueryanum Maire SPECIES
-=======
+# Aecidium marqueryanum Maire SPECIES
 
 #### Status
 ACCEPTED

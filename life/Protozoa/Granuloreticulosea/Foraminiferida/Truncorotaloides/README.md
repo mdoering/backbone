@@ -1,5 +1,4 @@
-Truncorotaloides Brönnimann & Bermudez, 1953 GENUS
-=======
+# Truncorotaloides Brönnimann & Bermudez, 1953 GENUS
 
 #### Status
 ACCEPTED

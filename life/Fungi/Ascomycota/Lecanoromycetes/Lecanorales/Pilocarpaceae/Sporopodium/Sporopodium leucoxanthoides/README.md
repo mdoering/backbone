@@ -1,5 +1,4 @@
-Sporopodium leucoxanthoides Vain. SPECIES
-=======
+# Sporopodium leucoxanthoides Vain. SPECIES
 
 #### Status
 ACCEPTED

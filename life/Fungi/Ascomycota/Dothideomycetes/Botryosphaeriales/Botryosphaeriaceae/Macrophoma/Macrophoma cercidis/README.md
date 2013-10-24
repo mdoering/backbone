@@ -1,5 +1,4 @@
-Macrophoma cercidis Sousa da Câmara SPECIES
-=======
+# Macrophoma cercidis Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella uvidula (P. Karst.) Sacc. SPECIES
-=======
+# Pezizella uvidula (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

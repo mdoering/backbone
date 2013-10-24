@@ -1,5 +1,4 @@
-Evernia degasperi Sambo SPECIES
-=======
+# Evernia degasperi Sambo SPECIES
 
 #### Status
 ACCEPTED

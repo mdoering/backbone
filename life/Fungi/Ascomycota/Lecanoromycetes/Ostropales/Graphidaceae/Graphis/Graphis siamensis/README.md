@@ -1,5 +1,4 @@
-Graphis siamensis Vain. SPECIES
-=======
+# Graphis siamensis Vain. SPECIES
 
 #### Status
 ACCEPTED

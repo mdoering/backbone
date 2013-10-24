@@ -1,5 +1,4 @@
-Coniosporium micans Gaja SPECIES
-=======
+# Coniosporium micans Gaja SPECIES
 
 #### Status
 ACCEPTED

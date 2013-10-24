@@ -1,17 +1,16 @@
-Boletus castanopsis Hongo SPECIES
-=======
+# Boletus castanopsidis Hongo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Kobayasi et al. , Bull. natn. Sci. Mus. , Tokyo 16(3): 548 (1973)
 
 #### Original name
-Boletus castanopsis Hongo
+Boletus castanopsidis Hongo
 
 ### Remarks
 null

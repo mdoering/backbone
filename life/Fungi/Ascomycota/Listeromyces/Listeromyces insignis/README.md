@@ -1,5 +1,4 @@
-Listeromyces insignis Penz. & Sacc., 1902 SPECIES
-=======
+# Listeromyces insignis Penz. & Sacc., 1902 SPECIES
 
 #### Status
 ACCEPTED

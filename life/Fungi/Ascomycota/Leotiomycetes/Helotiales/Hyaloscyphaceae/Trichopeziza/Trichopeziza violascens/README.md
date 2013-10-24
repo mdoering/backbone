@@ -1,5 +1,4 @@
-Trichopeziza violascens (Raitv.) Raitv. SPECIES
-=======
+# Trichopeziza violascens (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

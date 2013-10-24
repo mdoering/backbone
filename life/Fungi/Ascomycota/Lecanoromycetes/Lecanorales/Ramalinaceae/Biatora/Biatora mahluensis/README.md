@@ -1,5 +1,4 @@
-Biatora mahluensis Räsänen SPECIES
-=======
+# Biatora mahluensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parasterina microspora (Theiss.) J.M. Mend. SPECIES
-=======
+# Parasterina microspora (Theiss.) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

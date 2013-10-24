@@ -1,5 +1,4 @@
-Rhabdospora valerianae Gonz. Frag. SPECIES
-=======
+# Rhabdospora valerianae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

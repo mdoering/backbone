@@ -1,5 +1,4 @@
-Thyrea minnesotensis (Fink) Zahlbr. SPECIES
-=======
+# Thyrea minnesotensis (Fink) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

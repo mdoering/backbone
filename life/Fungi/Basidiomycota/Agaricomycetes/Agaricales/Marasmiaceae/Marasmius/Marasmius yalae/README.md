@@ -1,5 +1,4 @@
-Marasmius yalae Singer SPECIES
-=======
+# Marasmius yalae Singer SPECIES
 
 #### Status
 ACCEPTED

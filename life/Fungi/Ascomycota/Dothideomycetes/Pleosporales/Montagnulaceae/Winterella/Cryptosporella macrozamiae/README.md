@@ -1,5 +1,4 @@
-Cryptosporella macrozamiae Henn. SPECIES
-=======
+# Cryptosporella macrozamiae Henn. SPECIES
 
 #### Status
 ACCEPTED

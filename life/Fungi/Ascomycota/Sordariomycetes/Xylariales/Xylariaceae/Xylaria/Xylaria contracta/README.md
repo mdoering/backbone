@@ -1,5 +1,4 @@
-Xylaria contracta (Speg.) Sacc. SPECIES
-=======
+# Xylaria contracta (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

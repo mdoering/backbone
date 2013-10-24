@@ -1,5 +1,4 @@
-Pararhizomastix V.Yakimov & T.Kolpakova GENUS
-=======
+# Pararhizomastix V.Yakimov & T.Kolpakova GENUS
 
 #### Status
 ACCEPTED

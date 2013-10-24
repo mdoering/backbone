@@ -1,5 +1,4 @@
-Entoloma pallidogilvum Berk. & Broome SPECIES
-=======
+# Entoloma pallidogilvum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

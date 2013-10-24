@@ -1,5 +1,4 @@
-Anisomeridium palavanum (Vain.) R.C. Harris SPECIES
-=======
+# Anisomeridium palavanum (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

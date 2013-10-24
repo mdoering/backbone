@@ -1,5 +1,4 @@
-Lembadionella Kahl, 1933 GENUS
-=======
+# Lembadionella Kahl, 1933 GENUS
 
 #### Status
 ACCEPTED

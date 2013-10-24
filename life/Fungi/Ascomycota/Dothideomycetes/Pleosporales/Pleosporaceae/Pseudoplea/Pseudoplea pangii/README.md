@@ -1,5 +1,4 @@
-Pseudoplea pangii Syd. SPECIES
-=======
+# Pseudoplea pangii Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula pervirginea Murrill SPECIES
-=======
+# Russula pervirginea Murrill SPECIES
 
 #### Status
 ACCEPTED

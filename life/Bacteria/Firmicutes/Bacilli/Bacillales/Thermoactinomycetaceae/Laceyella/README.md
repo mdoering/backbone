@@ -1,5 +1,4 @@
-Laceyella Yoon, Kim, Shin & Park, 2005 GENUS
-=======
+# Laceyella Yoon, Kim, Shin & Park, 2005 GENUS
 
 #### Status
 ACCEPTED

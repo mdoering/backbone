@@ -1,5 +1,4 @@
-Trypethelium indutum Stirt. SPECIES
-=======
+# Trypethelium indutum Stirt. SPECIES
 
 #### Status
 ACCEPTED

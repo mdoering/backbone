@@ -1,8 +1,7 @@
-Kentrophoros grande Dragesco, 1954 SPECIES
-=======
+# Kentrophoros grandis (Dragesco, 1954) Foissner, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

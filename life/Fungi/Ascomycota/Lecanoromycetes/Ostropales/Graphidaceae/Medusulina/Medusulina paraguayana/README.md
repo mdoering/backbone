@@ -1,5 +1,4 @@
-Medusulina paraguayana Redinger SPECIES
-=======
+# Medusulina paraguayana Redinger SPECIES
 
 #### Status
 ACCEPTED

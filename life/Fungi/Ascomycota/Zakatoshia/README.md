@@ -1,5 +1,4 @@
-Zakatoshia B. Sutton GENUS
-=======
+# Zakatoshia B. Sutton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudolpidiella sphaeritae (P.A. Dang.) Cejp SPECIES
-=======
+# Pseudolpidiella sphaeritae (P.A. Dang.) Cejp SPECIES
 
 #### Status
 ACCEPTED

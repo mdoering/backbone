@@ -1,5 +1,4 @@
-Chrysosporium articulatum Scharapov SPECIES
-=======
+# Chrysosporium articulatum Scharapov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zythia nectriola Speg. SPECIES
-=======
+# Zythia nectriola Speg. SPECIES
 
 #### Status
 ACCEPTED

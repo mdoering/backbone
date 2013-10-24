@@ -1,5 +1,4 @@
-Hexagonia olivacea Lloyd SPECIES
-=======
+# Hexagonia olivacea Lloyd SPECIES
 
 #### Status
 ACCEPTED

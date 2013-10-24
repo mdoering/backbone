@@ -1,5 +1,4 @@
-Coniothyrium morianum Traverso SPECIES
-=======
+# Coniothyrium morianum Traverso SPECIES
 
 #### Status
 ACCEPTED

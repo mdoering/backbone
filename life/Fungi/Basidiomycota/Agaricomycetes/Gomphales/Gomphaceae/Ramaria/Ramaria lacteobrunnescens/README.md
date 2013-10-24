@@ -1,5 +1,4 @@
-Ramaria lacteobrunnescens Schild, 1980 SPECIES
-=======
+# Ramaria lacteobrunnescens Schild, 1980 SPECIES
 
 #### Status
 ACCEPTED

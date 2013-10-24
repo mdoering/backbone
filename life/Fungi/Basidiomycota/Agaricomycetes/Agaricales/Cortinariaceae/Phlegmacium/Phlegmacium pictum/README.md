@@ -1,5 +1,4 @@
-Phlegmacium pictum Ricek SPECIES
-=======
+# Phlegmacium pictum Ricek SPECIES
 
 #### Status
 ACCEPTED

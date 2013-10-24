@@ -1,5 +1,4 @@
-Conotrematomyces urceolati Cif. & Tomas. SPECIES
-=======
+# Conotrematomyces urceolati Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

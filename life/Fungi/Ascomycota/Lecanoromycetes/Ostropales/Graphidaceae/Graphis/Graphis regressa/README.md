@@ -1,5 +1,4 @@
-Graphis regressa Vain. SPECIES
-=======
+# Graphis regressa Vain. SPECIES
 
 #### Status
 ACCEPTED

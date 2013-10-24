@@ -1,5 +1,4 @@
-Sporastatia austrogeorgica C.W. Dodge SPECIES
-=======
+# Sporastatia austrogeorgica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

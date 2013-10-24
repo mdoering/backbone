@@ -1,5 +1,4 @@
-Pseudocercospora corchorica (Petr. & Cif.) Deighton SPECIES
-=======
+# Pseudocercospora corchorica (Petr. & Cif.) Deighton SPECIES
 
 #### Status
 ACCEPTED

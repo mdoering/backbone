@@ -1,5 +1,4 @@
-Phyllosticta juruana Henn. SPECIES
-=======
+# Phyllosticta juruana Henn. SPECIES
 
 #### Status
 ACCEPTED

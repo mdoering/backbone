@@ -1,5 +1,4 @@
-Menegazzia fumarprotocetrarica Elix SPECIES
-=======
+# Menegazzia fumarprotocetrarica Elix SPECIES
 
 #### Status
 ACCEPTED

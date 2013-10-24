@@ -1,5 +1,4 @@
-Stictis minima Sacc. & Speg. SPECIES
-=======
+# Stictis minima Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

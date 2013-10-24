@@ -1,5 +1,4 @@
-Alternaria saponariae (Peck) Neerg. SPECIES
-=======
+# Alternaria saponariae (Peck) Neerg. SPECIES
 
 #### Status
 ACCEPTED

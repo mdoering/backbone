@@ -1,5 +1,4 @@
-Lecanora calcivora (Schaer.) Hue SPECIES
-=======
+# Lecanora calcivora (Schaer.) Hue SPECIES
 
 #### Status
 ACCEPTED

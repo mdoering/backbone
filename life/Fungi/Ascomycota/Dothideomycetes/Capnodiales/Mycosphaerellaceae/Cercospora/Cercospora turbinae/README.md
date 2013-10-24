@@ -1,5 +1,4 @@
-Cercospora turbinae Chupp SPECIES
-=======
+# Cercospora turbinae Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina caffra (Wakef.) M.B. Ellis SPECIES
-=======
+# Stigmina caffra (Wakef.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

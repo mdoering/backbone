@@ -1,5 +1,4 @@
-Didymosphaeria tecomae (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Didymosphaeria tecomae (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

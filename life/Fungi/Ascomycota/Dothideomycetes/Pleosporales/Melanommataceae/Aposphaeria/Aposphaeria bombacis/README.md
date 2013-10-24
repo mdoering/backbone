@@ -1,5 +1,4 @@
-Aposphaeria bombacis Allesch. SPECIES
-=======
+# Aposphaeria bombacis Allesch. SPECIES
 
 #### Status
 ACCEPTED

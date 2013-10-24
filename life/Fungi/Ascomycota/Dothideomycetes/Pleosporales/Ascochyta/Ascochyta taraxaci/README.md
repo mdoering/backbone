@@ -1,5 +1,4 @@
-Ascochyta taraxaci (Hollós) Grove SPECIES
-=======
+# Ascochyta taraxaci (Hollós) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis aureobrunnea Henn. SPECIES
-=======
+# Micropeltis aureobrunnea Henn. SPECIES
 
 #### Status
 ACCEPTED

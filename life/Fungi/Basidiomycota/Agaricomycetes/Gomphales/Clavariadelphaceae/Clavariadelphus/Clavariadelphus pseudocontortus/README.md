@@ -1,5 +1,4 @@
-Clavariadelphus pseudocontortus Bon & Cheype SPECIES
-=======
+# Clavariadelphus pseudocontortus Bon & Cheype SPECIES
 
 #### Status
 ACCEPTED

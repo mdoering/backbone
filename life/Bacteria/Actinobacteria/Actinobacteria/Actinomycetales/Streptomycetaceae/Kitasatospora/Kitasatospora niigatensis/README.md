@@ -1,5 +1,4 @@
-Kitasatospora niigatensis Tajima et al., 2001 SPECIES
-=======
+# Kitasatospora niigatensis Tajima et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

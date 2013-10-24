@@ -1,5 +1,4 @@
-Psalliota comosa Henn. SPECIES
-=======
+# Psalliota comosa Henn. SPECIES
 
 #### Status
 ACCEPTED

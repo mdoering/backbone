@@ -1,5 +1,4 @@
-Celidium dubium Linds. SPECIES
-=======
+# Celidium dubium Linds. SPECIES
 
 #### Status
 ACCEPTED

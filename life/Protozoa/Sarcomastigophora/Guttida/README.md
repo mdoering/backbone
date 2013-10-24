@@ -1,5 +1,4 @@
-Guttida Tikhomirova, 1989 GENUS
-=======
+# Guttida Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vasudevella sporoboli Chona, Munjal & Bajaj, 1957 SPECIES
-=======
+# Vasudevella sporoboli Chona, Munjal & Bajaj, 1957 SPECIES
 
 #### Status
 ACCEPTED

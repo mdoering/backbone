@@ -1,5 +1,4 @@
-Rinodina ochrotis Tuck. SPECIES
-=======
+# Rinodina ochrotis Tuck. SPECIES
 
 #### Status
 ACCEPTED

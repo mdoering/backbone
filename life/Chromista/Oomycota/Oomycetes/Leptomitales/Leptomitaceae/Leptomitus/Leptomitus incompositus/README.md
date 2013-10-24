@@ -1,5 +1,4 @@
-Leptomitus incompositus C. Agardh SPECIES
-=======
+# Leptomitus incompositus C. Agardh SPECIES
 
 #### Status
 ACCEPTED

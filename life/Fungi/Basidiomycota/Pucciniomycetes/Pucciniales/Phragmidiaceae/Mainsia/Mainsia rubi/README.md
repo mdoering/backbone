@@ -1,17 +1,16 @@
-Spirechina rubi (Dietel & Holw.) Arthur, 1912 SPECIES
-=======
+# Mainsia rubi (Dietel & Holw.) H.S. Jacks., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 23: 110 (1931)
 
 #### Original name
-null
+Uromyces rubi Dietel & Holw., 1901
 
 ### Remarks
 null

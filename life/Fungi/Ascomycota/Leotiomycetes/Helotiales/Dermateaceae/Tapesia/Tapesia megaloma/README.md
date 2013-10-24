@@ -1,5 +1,4 @@
-Tapesia megaloma (Schwein.) Sacc. SPECIES
-=======
+# Tapesia megaloma (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

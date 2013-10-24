@@ -1,5 +1,4 @@
-Tremella ustulata Bull. SPECIES
-=======
+# Tremella ustulata Bull. SPECIES
 
 #### Status
 ACCEPTED

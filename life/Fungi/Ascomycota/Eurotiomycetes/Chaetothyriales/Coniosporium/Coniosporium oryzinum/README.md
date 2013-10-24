@@ -1,5 +1,4 @@
-Coniosporium oryzinum Sacc. SPECIES
-=======
+# Coniosporium oryzinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

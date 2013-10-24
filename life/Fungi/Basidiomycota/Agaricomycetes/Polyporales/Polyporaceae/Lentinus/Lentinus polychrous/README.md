@@ -1,14 +1,13 @@
-Pocillaria polychroa (Lév.) Kuntze, 1891 SPECIES
-=======
+# Lentinus polychrous Lév., 1844 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Annls Sci. Nat. , Bot. , sér. 3 2: 175 (1844)
 
 #### Original name
 Lentinus polychrous Lév., 1844

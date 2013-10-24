@@ -1,5 +1,4 @@
-Uncinula fraxini Miyabe SPECIES
-=======
+# Uncinula fraxini Miyabe SPECIES
 
 #### Status
 ACCEPTED

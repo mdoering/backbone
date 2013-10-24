@@ -1,8 +1,7 @@
-Tillina distincta Smith, 1899 SPECIES
-=======
+# Colpoda distincta Smith, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Gyrophila rufa (Quél.) Quél. SPECIES
-=======
+# Gyrophila rufa (Quél.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosphaeria squalidula (Cooke & Peck) Lar.N. Vassiljeva SPECIES
-=======
+# Trichosphaeria squalidula (Cooke & Peck) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

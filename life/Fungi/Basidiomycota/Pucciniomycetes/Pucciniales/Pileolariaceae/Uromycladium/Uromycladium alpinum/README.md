@@ -1,5 +1,4 @@
-Uromycladium alpinum McAlpine, 1906 SPECIES
-=======
+# Uromycladium alpinum McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

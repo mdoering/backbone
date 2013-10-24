@@ -1,5 +1,4 @@
-Phoeococcus planctonicus West & G.S. West SPECIES
-=======
+# Phoeococcus planctonicus West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

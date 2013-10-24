@@ -1,5 +1,4 @@
-Buliminoides williamsoniana (Brady, 1881) SPECIES
-=======
+# Buliminoides williamsoniana (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

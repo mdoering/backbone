@@ -1,5 +1,4 @@
-Chaetoceros tere Cleve SPECIES
-=======
+# Chaetoceros tere Cleve SPECIES
 
 #### Status
 ACCEPTED

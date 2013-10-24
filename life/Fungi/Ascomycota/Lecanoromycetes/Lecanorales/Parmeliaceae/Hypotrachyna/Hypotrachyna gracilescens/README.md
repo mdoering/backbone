@@ -1,17 +1,16 @@
-Parmelia gracilescens f. gracilescens FORM
-=======
+# Hypotrachyna gracilescens (Vain.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 40 (1975)
 
 #### Original name
-Parmelia gracilescens f. gracilescens
+Parmelia gracilescens Vain.
 
 ### Remarks
 null

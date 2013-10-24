@@ -1,5 +1,4 @@
-Methylocella palustris Dedysh et al., 2000 SPECIES
-=======
+# Methylocella palustris Dedysh et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

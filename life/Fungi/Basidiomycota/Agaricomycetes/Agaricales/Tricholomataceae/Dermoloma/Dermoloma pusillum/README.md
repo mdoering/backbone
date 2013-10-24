@@ -1,5 +1,4 @@
-Dermoloma pusillum Contu SPECIES
-=======
+# Dermoloma pusillum Contu SPECIES
 
 #### Status
 ACCEPTED

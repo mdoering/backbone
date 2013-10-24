@@ -1,5 +1,4 @@
-Discella dorematis Vienn.-Bourg. SPECIES
-=======
+# Discella dorematis Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

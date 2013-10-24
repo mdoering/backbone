@@ -1,5 +1,4 @@
-Uredo hieronymi Speg. SPECIES
-=======
+# Uredo hieronymi Speg. SPECIES
 
 #### Status
 ACCEPTED

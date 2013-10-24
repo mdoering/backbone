@@ -1,5 +1,4 @@
-Eimeria scorpaenae Zaika, 1966 SPECIES
-=======
+# Eimeria scorpaenae Zaika, 1966 SPECIES
 
 #### Status
 ACCEPTED

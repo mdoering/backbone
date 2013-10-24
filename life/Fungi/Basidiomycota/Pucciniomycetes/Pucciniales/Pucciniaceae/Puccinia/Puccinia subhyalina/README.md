@@ -1,5 +1,4 @@
-Puccinia subhyalina Tranzschel SPECIES
-=======
+# Puccinia subhyalina Tranzschel SPECIES
 
 #### Status
 ACCEPTED

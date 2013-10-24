@@ -1,5 +1,4 @@
-Hexagonia blumei Lév. SPECIES
-=======
+# Hexagonia blumei Lév. SPECIES
 
 #### Status
 ACCEPTED

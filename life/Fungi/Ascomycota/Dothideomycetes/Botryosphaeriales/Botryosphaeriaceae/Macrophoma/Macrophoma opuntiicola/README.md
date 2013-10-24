@@ -1,5 +1,4 @@
-Macrophoma opuntiicola (Speg.) Sacc. & P. Syd. SPECIES
-=======
+# Macrophoma opuntiicola (Speg.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

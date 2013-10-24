@@ -1,5 +1,4 @@
-Leucoconiella Bat., H. Maia & Peres GENUS
-=======
+# Leucoconiella Bat., H. Maia & Peres GENUS
 
 #### Status
 ACCEPTED

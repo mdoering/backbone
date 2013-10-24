@@ -1,5 +1,4 @@
-Peniophora purpurea (Cooke & Morgan) Höhn. & Litsch. SPECIES
-=======
+# Peniophora purpurea (Cooke & Morgan) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

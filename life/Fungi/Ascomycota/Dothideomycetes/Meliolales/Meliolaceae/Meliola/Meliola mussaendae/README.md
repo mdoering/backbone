@@ -1,5 +1,4 @@
-Meliola mussaendae Syd. SPECIES
-=======
+# Meliola mussaendae Syd. SPECIES
 
 #### Status
 ACCEPTED

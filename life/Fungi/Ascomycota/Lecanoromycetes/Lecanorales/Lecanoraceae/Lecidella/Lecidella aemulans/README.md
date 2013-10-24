@@ -1,5 +1,4 @@
-Lecidella aemulans f. aemulans FORM
-=======
+# Lecidella aemulans Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidella aemulans f. aemulans
+Lecidella aemulans Arnold
 
 ### Remarks
 null

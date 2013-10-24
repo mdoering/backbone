@@ -1,5 +1,4 @@
-Sporobolomyces koalae Satoh & Makiura SPECIES
-=======
+# Sporobolomyces koalae Satoh & Makiura SPECIES
 
 #### Status
 ACCEPTED

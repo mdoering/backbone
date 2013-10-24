@@ -1,5 +1,4 @@
-Pertusaria macra Müll. Arg. SPECIES
-=======
+# Pertusaria macra Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

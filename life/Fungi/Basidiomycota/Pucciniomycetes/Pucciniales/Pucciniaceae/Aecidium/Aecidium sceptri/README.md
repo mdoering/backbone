@@ -1,5 +1,4 @@
-Aecidium sceptri Lindr. SPECIES
-=======
+# Aecidium sceptri Lindr. SPECIES
 
 #### Status
 ACCEPTED

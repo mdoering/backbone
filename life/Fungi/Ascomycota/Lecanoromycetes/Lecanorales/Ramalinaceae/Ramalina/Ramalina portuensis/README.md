@@ -1,14 +1,13 @@
-Fistulariella portuensis (Samp.) Bowler & Rundel SPECIES
-=======
+# Ramalina portuensis Samp. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 6(1): 199 (1977)
+Bolm Soc. broteriana, sér. 2 2: 21 (1924)
 
 #### Original name
 Ramalina portuensis Samp.

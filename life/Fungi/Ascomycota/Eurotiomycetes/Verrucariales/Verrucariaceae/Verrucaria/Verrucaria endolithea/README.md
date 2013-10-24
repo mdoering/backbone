@@ -1,5 +1,4 @@
-Verrucaria endolithea Servít SPECIES
-=======
+# Verrucaria endolithea Servít SPECIES
 
 #### Status
 ACCEPTED

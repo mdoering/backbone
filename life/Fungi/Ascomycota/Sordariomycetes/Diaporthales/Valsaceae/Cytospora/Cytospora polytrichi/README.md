@@ -1,5 +1,4 @@
-Cytospora polytrichi Racov. SPECIES
-=======
+# Cytospora polytrichi Racov. SPECIES
 
 #### Status
 ACCEPTED

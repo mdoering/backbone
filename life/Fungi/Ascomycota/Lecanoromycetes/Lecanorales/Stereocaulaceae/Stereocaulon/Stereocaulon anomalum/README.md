@@ -1,5 +1,4 @@
-Stereocaulon anomalum I.M. Lamb SPECIES
-=======
+# Stereocaulon anomalum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

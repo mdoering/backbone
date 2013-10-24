@@ -1,17 +1,16 @@
-Lecaniomyces cyrtellinoids Werner SPECIES
-=======
+# Lecaniomyces cyrtellinoides Werner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 92(1): 37 (1976)
 
 #### Original name
-Lecaniomyces cyrtellinoids Werner
+Lecaniomyces cyrtellinoides Werner
 
 ### Remarks
 null

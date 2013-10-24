@@ -1,5 +1,4 @@
-Marasmius subomphalodes Henn. SPECIES
-=======
+# Marasmius subomphalodes Henn. SPECIES
 
 #### Status
 ACCEPTED

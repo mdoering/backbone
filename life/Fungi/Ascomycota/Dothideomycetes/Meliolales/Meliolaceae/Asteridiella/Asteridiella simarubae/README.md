@@ -1,5 +1,4 @@
-Asteridiella simarubae Hansf. SPECIES
-=======
+# Asteridiella simarubae Hansf. SPECIES
 
 #### Status
 ACCEPTED

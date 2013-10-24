@@ -1,17 +1,16 @@
-Oxydothis miscantheicola M.K.M. Wong & K.D. Hyde SPECIES
-=======
+# Oxydothis miscanthicola M.K.M. Wong & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 22(1): 25 (2001)
 
 #### Original name
-Oxydothis miscantheicola M.K.M. Wong & K.D. Hyde
+Oxydothis miscanthicola M.K.M. Wong & K.D. Hyde
 
 ### Remarks
 null

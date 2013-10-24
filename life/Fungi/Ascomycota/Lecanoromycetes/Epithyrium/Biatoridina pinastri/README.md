@@ -1,5 +1,4 @@
-Biatoridina pinastri Schczedr. SPECIES
-=======
+# Biatoridina pinastri Schczedr. SPECIES
 
 #### Status
 ACCEPTED

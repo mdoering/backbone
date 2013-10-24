@@ -1,5 +1,4 @@
-Everniopsis americana Meyen & Flot. SPECIES
-=======
+# Everniopsis americana Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

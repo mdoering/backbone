@@ -1,5 +1,4 @@
-Tintinnopsis tubulosoides Meunier, 1910 SPECIES
-=======
+# Tintinnopsis tubulosoides Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

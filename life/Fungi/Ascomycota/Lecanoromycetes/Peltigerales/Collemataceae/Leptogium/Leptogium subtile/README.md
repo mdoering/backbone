@@ -1,17 +1,16 @@
-Leptogium minutissimum f. minutissimum FORM
-=======
+# Leptogium subtile (Schrad.) Torss. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enum. Lich. Byssac. Scandin. 54 (1843)
 
 #### Original name
-Leptogium minutissimum f. minutissimum
+Lichen subtilis Schrad.
 
 ### Remarks
 null

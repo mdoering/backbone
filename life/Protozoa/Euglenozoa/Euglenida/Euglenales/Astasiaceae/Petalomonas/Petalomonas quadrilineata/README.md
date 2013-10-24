@@ -1,5 +1,4 @@
-Petalomonas quadrilineata Penard SPECIES
-=======
+# Petalomonas quadrilineata Penard SPECIES
 
 #### Status
 ACCEPTED

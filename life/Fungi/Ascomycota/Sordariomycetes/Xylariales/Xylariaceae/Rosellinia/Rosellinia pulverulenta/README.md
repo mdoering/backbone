@@ -1,5 +1,4 @@
-Rosellinia pulverulenta Bonord. SPECIES
-=======
+# Rosellinia pulverulenta Bonord. SPECIES
 
 #### Status
 ACCEPTED

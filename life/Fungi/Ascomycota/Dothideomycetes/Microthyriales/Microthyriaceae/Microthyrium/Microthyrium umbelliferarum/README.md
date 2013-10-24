@@ -1,5 +1,4 @@
-Microthyrium umbelliferarum Höhn. SPECIES
-=======
+# Microthyrium umbelliferarum Höhn. SPECIES
 
 #### Status
 ACCEPTED

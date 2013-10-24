@@ -1,5 +1,4 @@
-Ustilago jaczevskyana var. jaczevskyana VARIETY
-=======
+# Ustilago jaczevskyana Lavrov SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago jaczevskyana var. jaczevskyana
+Ustilago jaczevskyana Lavrov
 
 ### Remarks
 null

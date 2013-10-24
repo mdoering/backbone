@@ -1,5 +1,4 @@
-Vivantia J.D. Rogers, Y.M. Ju & Cand. GENUS
-=======
+# Vivantia J.D. Rogers, Y.M. Ju & Cand. GENUS
 
 #### Status
 ACCEPTED

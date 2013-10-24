@@ -1,5 +1,4 @@
-Hypoderma qinlingense Y.M. Liang & C.M. Tian, 2005 SPECIES
-=======
+# Hypoderma qinlingense Y.M. Liang & C.M. Tian, 2005 SPECIES
 
 #### Status
 ACCEPTED

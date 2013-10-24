@@ -1,5 +1,4 @@
-Arthopyrenia capensis Zahlbr. SPECIES
-=======
+# Arthopyrenia capensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

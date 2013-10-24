@@ -1,5 +1,4 @@
-Lycogala punctatum Pers. SPECIES
-=======
+# Lycogala punctatum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Borrera verrucosa SPECIES
-=======
+# Borrera verrucosa SPECIES
 
 #### Status
 ACCEPTED

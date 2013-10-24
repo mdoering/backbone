@@ -1,5 +1,4 @@
-Lichen squamatus Dicks. SPECIES
-=======
+# Lichen squamatus Dicks. SPECIES
 
 #### Status
 ACCEPTED

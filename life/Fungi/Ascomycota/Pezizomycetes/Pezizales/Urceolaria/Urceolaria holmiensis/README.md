@@ -1,5 +1,4 @@
-Urceolaria holmiensis (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria holmiensis (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

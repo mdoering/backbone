@@ -1,5 +1,4 @@
-Parmeliella subincisa Zahlbr. SPECIES
-=======
+# Parmeliella subincisa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

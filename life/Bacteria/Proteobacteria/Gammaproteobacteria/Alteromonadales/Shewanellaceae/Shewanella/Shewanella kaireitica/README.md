@@ -1,5 +1,4 @@
-Shewanella kaireitica Miyazaki et al., 2006 SPECIES
-=======
+# Shewanella kaireitica Miyazaki et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

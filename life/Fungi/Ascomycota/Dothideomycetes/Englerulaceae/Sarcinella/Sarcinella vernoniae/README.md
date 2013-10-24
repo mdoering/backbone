@@ -1,5 +1,4 @@
-Sarcinella vernoniae (Dearn. & Barthol.) S. Hughes SPECIES
-=======
+# Sarcinella vernoniae (Dearn. & Barthol.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

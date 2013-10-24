@@ -1,17 +1,16 @@
-Crumenula pinea (P. Karst.) Ferd. & C.A. Jørg., 1939 SPECIES
-=======
+# Gremmeniella abietina (Lagerb.) M. Morelet, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Skovtraeernes Sygdomme 1: 196 (1939)
+Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 183: 9 (1969)
 
 #### Original name
-Septoria pinea P. Karst.
+Crumenula abietina Lagerb., 1949
 
 ### Remarks
 null

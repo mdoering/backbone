@@ -1,5 +1,4 @@
-Candida kanchanaburiensis Nakase, Jindam., Ninomiya, Imanishi, H. Kawas. & Potach. SPECIES
-=======
+# Candida kanchanaburiensis Nakase, Jindam., Ninomiya, Imanishi, H. Kawas. & Potach. SPECIES
 
 #### Status
 ACCEPTED

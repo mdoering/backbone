@@ -1,5 +1,4 @@
-Lecidea dissipabilis Hertel SPECIES
-=======
+# Lecidea dissipabilis Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrodochium parasiticum Chevaug. SPECIES
-=======
+# Dendrodochium parasiticum Chevaug. SPECIES
 
 #### Status
 ACCEPTED

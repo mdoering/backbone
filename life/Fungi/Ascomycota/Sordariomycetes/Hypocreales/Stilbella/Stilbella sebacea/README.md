@@ -1,5 +1,4 @@
-Stilbella sebacea (Ellis & Everh.) Seifert SPECIES
-=======
+# Stilbella sebacea (Ellis & Everh.) Seifert SPECIES
 
 #### Status
 ACCEPTED

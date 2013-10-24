@@ -1,5 +1,4 @@
-Aleurodiscus zelleri Burt SPECIES
-=======
+# Aleurodiscus zelleri Burt SPECIES
 
 #### Status
 ACCEPTED

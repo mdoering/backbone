@@ -1,5 +1,4 @@
-Lecanora linearis Taylor SPECIES
-=======
+# Lecanora linearis Taylor SPECIES
 
 #### Status
 ACCEPTED

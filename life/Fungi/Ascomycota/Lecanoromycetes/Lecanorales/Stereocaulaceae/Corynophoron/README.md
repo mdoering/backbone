@@ -1,5 +1,4 @@
-Corynophoron GENUS
-=======
+# Corynophoron GENUS
 
 #### Status
 ACCEPTED

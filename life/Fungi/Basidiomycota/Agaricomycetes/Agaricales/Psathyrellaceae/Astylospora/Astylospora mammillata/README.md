@@ -1,17 +1,16 @@
-Atylospora mammillata Murrill SPECIES
-=======
+# Astylospora mammillata Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 10(1): 23 (1918)
 
 #### Original name
-Atylospora mammillata Murrill
+Astylospora mammillata Murrill
 
 ### Remarks
 null

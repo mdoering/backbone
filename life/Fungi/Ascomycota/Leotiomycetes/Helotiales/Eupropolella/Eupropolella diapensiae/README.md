@@ -1,5 +1,4 @@
-Eupropolella diapensiae (Petr.) B. Erikss. SPECIES
-=======
+# Eupropolella diapensiae (Petr.) B. Erikss. SPECIES
 
 #### Status
 ACCEPTED

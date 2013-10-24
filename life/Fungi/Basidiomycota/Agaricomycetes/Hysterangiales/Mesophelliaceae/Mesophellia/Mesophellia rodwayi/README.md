@@ -1,5 +1,4 @@
-Mesophellia rodwayi Trappe, 1993 SPECIES
-=======
+# Mesophellia rodwayi Trappe, 1993 SPECIES
 
 #### Status
 ACCEPTED

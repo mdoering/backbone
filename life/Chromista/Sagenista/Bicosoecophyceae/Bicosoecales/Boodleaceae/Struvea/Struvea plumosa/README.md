@@ -1,11 +1,10 @@
-Struvea macrophylla Harvey SPECIES
-=======
+# Struvea plumosa Sonder, 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

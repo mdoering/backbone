@@ -1,5 +1,4 @@
-Prosthecium corticale (Schwein.) Wehm. SPECIES
-=======
+# Prosthecium corticale (Schwein.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

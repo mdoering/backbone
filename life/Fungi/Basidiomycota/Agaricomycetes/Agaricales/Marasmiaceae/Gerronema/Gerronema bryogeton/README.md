@@ -1,5 +1,4 @@
-Gerronema bryogeton Singer SPECIES
-=======
+# Gerronema bryogeton Singer SPECIES
 
 #### Status
 ACCEPTED

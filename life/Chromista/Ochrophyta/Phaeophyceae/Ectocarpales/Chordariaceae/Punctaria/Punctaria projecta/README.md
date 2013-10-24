@@ -1,5 +1,4 @@
-Punctaria projecta Yamada SPECIES
-=======
+# Punctaria projecta Yamada SPECIES
 
 #### Status
 ACCEPTED

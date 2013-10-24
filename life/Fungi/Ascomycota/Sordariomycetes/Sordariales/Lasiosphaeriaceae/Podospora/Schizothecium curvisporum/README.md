@@ -1,14 +1,13 @@
-Podospora curvispora (Cain) Cain, 1962 SPECIES
-=======
+# Schizothecium curvisporum (Cain) N. Lundq., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 40: 459 (1962)
+Symb. bot. upsal. 20(no. 1): 334 (1972)
 
 #### Original name
 Sordaria curvispora Cain, 1948

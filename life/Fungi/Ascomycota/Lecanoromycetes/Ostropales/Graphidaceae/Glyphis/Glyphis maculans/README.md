@@ -1,5 +1,4 @@
-Glyphis maculans G. Mey. SPECIES
-=======
+# Glyphis maculans G. Mey. SPECIES
 
 #### Status
 ACCEPTED

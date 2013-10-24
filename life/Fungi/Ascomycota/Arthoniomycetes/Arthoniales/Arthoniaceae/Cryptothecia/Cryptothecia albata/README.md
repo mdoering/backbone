@@ -1,5 +1,4 @@
-Cryptothecia albata (Nyl.) Makhija & Padwardhan SPECIES
-=======
+# Cryptothecia albata (Nyl.) Makhija & Padwardhan SPECIES
 
 #### Status
 ACCEPTED

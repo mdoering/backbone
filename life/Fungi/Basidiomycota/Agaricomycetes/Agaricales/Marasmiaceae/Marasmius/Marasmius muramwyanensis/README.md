@@ -1,5 +1,4 @@
-Marasmius muramwyanensis Antonín SPECIES
-=======
+# Marasmius muramwyanensis Antonín SPECIES
 
 #### Status
 ACCEPTED

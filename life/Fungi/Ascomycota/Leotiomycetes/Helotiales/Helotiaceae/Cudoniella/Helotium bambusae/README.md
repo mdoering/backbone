@@ -1,5 +1,4 @@
-Helotium bambusae Höhn. SPECIES
-=======
+# Helotium bambusae Höhn. SPECIES
 
 #### Status
 ACCEPTED

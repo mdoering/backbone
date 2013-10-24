@@ -1,17 +1,16 @@
-Microthyrium mahabaleshwarensis Subhedar & V.G. Rao SPECIES
-=======
+# Microthyrium mahabaleshwarense Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 15(2): 183 (1986)
 
 #### Original name
-Microthyrium mahabaleshwarensis Subhedar & V.G. Rao
+Microthyrium mahabaleshwarense Subhedar & V.G. Rao
 
 ### Remarks
 null

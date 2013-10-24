@@ -1,5 +1,4 @@
-Guignardia puerariae Sawada SPECIES
-=======
+# Guignardia puerariae Sawada SPECIES
 
 #### Status
 ACCEPTED

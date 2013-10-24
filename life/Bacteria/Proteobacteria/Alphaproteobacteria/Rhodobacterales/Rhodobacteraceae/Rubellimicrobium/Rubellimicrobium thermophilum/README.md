@@ -1,5 +1,4 @@
-Rubellimicrobium thermophilum Denner et al., 2006 SPECIES
-=======
+# Rubellimicrobium thermophilum Denner et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

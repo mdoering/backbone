@@ -1,5 +1,4 @@
-Graphis subintricans Vain. SPECIES
-=======
+# Graphis subintricans Vain. SPECIES
 
 #### Status
 ACCEPTED

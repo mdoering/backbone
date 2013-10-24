@@ -1,5 +1,4 @@
-Hydrophilomyces hamatus T. Majewski SPECIES
-=======
+# Hydrophilomyces hamatus T. Majewski SPECIES
 
 #### Status
 ACCEPTED

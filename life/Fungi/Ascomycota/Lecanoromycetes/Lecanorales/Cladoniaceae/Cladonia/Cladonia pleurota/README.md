@@ -1,17 +1,16 @@
-Cladonia pleurota f. pleurota FORM
-=======
+# Cladonia pleurota (Flörke) Schaer. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Enum. critic. lich. europ. (Bern) 186 (1850)
 
 #### Original name
-Cladonia pleurota f. pleurota
+Capitularia pleurota Flörke
 
 ### Remarks
 null

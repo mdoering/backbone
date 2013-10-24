@@ -1,5 +1,4 @@
-Trochila staritziana Kirschst. SPECIES
-=======
+# Trochila staritziana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelius striatus SPECIES
-=======
+# Trachelius striatus SPECIES
 
 #### Status
 ACCEPTED

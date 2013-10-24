@@ -1,5 +1,4 @@
-Acrocylindrium copulatum Bonord. SPECIES
-=======
+# Acrocylindrium copulatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

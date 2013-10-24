@@ -1,5 +1,4 @@
-Staurolithites quadriarculla SPECIES
-=======
+# Staurolithites quadriarculla SPECIES
 
 #### Status
 ACCEPTED

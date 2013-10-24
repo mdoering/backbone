@@ -1,5 +1,4 @@
-Synchytrium stipae Golovin SPECIES
-=======
+# Synchytrium stipae Golovin SPECIES
 
 #### Status
 ACCEPTED

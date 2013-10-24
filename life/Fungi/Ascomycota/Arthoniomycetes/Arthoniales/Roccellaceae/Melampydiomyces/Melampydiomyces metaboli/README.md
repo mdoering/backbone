@@ -1,5 +1,4 @@
-Melampydiomyces metaboli Cif. & Tomas. SPECIES
-=======
+# Melampydiomyces metaboli Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

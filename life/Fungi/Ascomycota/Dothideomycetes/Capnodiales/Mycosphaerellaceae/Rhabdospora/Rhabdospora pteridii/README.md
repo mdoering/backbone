@@ -1,5 +1,4 @@
-Rhabdospora pteridii Sousa da Câmara SPECIES
-=======
+# Rhabdospora pteridii Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

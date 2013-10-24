@@ -1,5 +1,4 @@
-Scolecopeltis rheediana Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltis rheediana Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

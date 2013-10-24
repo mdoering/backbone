@@ -1,5 +1,4 @@
-Aplosporella viticola var. viticola VARIETY
-=======
+# Aplosporella viticola Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aplosporella viticola var. viticola
+Aplosporella viticola Cooke & Massee
 
 ### Remarks
 null

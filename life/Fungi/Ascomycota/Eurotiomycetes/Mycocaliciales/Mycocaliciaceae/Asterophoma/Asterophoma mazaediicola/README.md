@@ -1,5 +1,4 @@
-Asterophoma mazaediicola D. Hawksw. SPECIES
-=======
+# Asterophoma mazaediicola D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

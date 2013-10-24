@@ -1,5 +1,4 @@
-Thaxteriella silentvalliensis V.G. Rao & Varghese SPECIES
-=======
+# Thaxteriella silentvalliensis V.G. Rao & Varghese SPECIES
 
 #### Status
 ACCEPTED

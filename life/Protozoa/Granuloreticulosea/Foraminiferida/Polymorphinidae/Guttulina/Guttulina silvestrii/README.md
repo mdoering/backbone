@@ -1,5 +1,4 @@
-Guttulina silvestrii Cushman & Ozawa SPECIES
-=======
+# Guttulina silvestrii Cushman & Ozawa SPECIES
 
 #### Status
 ACCEPTED

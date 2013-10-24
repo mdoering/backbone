@@ -1,5 +1,4 @@
-Agaricus rugatus Vahl SPECIES
-=======
+# Agaricus rugatus Vahl SPECIES
 
 #### Status
 ACCEPTED

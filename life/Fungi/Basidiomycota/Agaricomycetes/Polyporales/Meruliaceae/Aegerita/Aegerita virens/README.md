@@ -1,5 +1,4 @@
-Aegerita virens Carmich. SPECIES
-=======
+# Aegerita virens Carmich. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pixolithus G. Deflandre in Deflandre & Fert, 1954 GENUS
-=======
+# Pyxolithus G.V.Deflandre GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-in Deflandre & Fert, Annls Paleont. 40: 170.
+Annls Paléont. 40: 170.
 
 #### Original name
 null

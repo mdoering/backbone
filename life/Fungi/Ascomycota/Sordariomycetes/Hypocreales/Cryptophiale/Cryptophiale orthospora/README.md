@@ -1,5 +1,4 @@
-Cryptophiale orthospora McKenzie, 1993 SPECIES
-=======
+# Cryptophiale orthospora McKenzie, 1993 SPECIES
 
 #### Status
 ACCEPTED

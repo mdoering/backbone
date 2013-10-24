@@ -1,5 +1,4 @@
-Agaricus semiliber Berk. & Broome SPECIES
-=======
+# Agaricus semiliber Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

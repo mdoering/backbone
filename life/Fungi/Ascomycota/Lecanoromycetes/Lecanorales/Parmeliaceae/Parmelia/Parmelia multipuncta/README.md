@@ -1,5 +1,4 @@
-Parmelia multipuncta Vain. SPECIES
-=======
+# Parmelia multipuncta Vain. SPECIES
 
 #### Status
 ACCEPTED

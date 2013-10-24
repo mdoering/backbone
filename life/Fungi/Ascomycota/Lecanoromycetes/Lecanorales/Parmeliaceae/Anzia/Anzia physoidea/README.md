@@ -1,5 +1,4 @@
-Anzia physoidea A.L. Sm. SPECIES
-=======
+# Anzia physoidea A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

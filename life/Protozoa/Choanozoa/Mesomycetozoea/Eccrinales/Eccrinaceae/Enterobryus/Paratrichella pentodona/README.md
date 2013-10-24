@@ -1,5 +1,4 @@
-Paratrichella pentodona Manier SPECIES
-=======
+# Paratrichella pentodona Manier SPECIES
 
 #### Status
 ACCEPTED

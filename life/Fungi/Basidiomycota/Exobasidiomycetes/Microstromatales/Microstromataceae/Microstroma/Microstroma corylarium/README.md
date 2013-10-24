@@ -1,5 +1,4 @@
-Microstroma corylarium Sacc. & Trotter SPECIES
-=======
+# Microstroma corylarium Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

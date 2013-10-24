@@ -1,5 +1,4 @@
-Sphaerella papaveris Fuckel SPECIES
-=======
+# Sphaerella papaveris Fuckel SPECIES
 
 #### Status
 ACCEPTED

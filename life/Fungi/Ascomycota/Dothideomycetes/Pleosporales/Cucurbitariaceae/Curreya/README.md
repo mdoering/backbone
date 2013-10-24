@@ -1,17 +1,16 @@
-Cucurbidothis Petr. GENUS
-=======
+# Curreya Saccardo, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 19(3/4): 201 (1921)
+null
 
 #### Original name
-Cucurbidothis Petr.
+null
 
 ### Remarks
 null

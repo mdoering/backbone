@@ -1,5 +1,4 @@
-Brachysporiellina Subram. & Bhat GENUS
-=======
+# Brachysporiellina Subram. & Bhat GENUS
 
 #### Status
 ACCEPTED

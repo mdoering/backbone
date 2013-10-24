@@ -1,5 +1,4 @@
-Asterostomopora jamaicensis Bat. & H. Maia, 1960 SPECIES
-=======
+# Asterostomopora jamaicensis Bat. & H. Maia, 1960 SPECIES
 
 #### Status
 ACCEPTED

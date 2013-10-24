@@ -1,5 +1,4 @@
-Hypocrea bogoriensis Henn. SPECIES
-=======
+# Hypocrea bogoriensis Henn. SPECIES
 
 #### Status
 ACCEPTED

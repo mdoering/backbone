@@ -1,5 +1,4 @@
-Meliola mycetiae F. Stevens SPECIES
-=======
+# Meliola mycetiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

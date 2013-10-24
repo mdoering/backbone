@@ -1,5 +1,4 @@
-Chiastozygus fessus (Stover, 1966) Shafik, 1979 SPECIES
-=======
+# Chiastozygus fessus (Stover, 1966) Shafik, 1979 SPECIES
 
 #### Status
 ACCEPTED

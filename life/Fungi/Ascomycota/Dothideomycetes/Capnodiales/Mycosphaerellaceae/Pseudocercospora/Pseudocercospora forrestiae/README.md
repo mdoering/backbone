@@ -1,5 +1,4 @@
-Pseudocercospora forrestiae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora forrestiae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gerronema majus Singer SPECIES
-=======
+# Gerronema majus Singer SPECIES
 
 #### Status
 ACCEPTED

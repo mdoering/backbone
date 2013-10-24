@@ -1,5 +1,4 @@
-Acarospora coeruleoalba J. Steiner SPECIES
-=======
+# Acarospora coeruleoalba J. Steiner SPECIES
 
 #### Status
 ACCEPTED

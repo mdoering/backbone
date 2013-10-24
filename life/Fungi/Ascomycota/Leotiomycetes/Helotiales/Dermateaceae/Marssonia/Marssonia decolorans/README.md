@@ -1,5 +1,4 @@
-Marssonia decolorans Kabát & Bubák SPECIES
-=======
+# Marssonia decolorans Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

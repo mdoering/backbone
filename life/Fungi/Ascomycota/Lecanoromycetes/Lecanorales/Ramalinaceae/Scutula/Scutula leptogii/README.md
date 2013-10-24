@@ -1,5 +1,4 @@
-Scutula leptogii Dughi SPECIES
-=======
+# Scutula leptogii Dughi SPECIES
 
 #### Status
 ACCEPTED

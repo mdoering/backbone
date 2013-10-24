@@ -1,5 +1,4 @@
-Synandromyces amarygmae Thaxt., 1931 SPECIES
-=======
+# Synandromyces amarygmae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

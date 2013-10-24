@@ -1,5 +1,4 @@
-Cortinarius carbonellus Soop, 2001 SPECIES
-=======
+# Cortinarius carbonellus Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

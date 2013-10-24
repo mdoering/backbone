@@ -1,5 +1,4 @@
-Phacopsis lethariellae Hafellner & Rambold SPECIES
-=======
+# Phacopsis lethariellae Hafellner & Rambold SPECIES
 
 #### Status
 ACCEPTED

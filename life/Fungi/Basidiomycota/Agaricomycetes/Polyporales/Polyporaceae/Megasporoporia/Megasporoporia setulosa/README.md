@@ -1,14 +1,13 @@
-Poria setulosa Henn., 1901 SPECIES
-=======
+# Megasporoporia setulosa (Henn.) Rajchenb., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 28: 321 (1901)
+in Ryvarden, Wright & Rajchenberg, Mycotaxon 16(1): 180 (1982)
 
 #### Original name
 Poria setulosa Henn., 1901

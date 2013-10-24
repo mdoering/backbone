@@ -1,17 +1,16 @@
-Cercospora eleochroma Sacc. SPECIES
-=======
+# Cercospora elaeochroma Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. , N. S. 23: 220 (1916)
 
 #### Original name
-Cercospora eleochroma Sacc.
+Cercospora elaeochroma Sacc.
 
 ### Remarks
 null

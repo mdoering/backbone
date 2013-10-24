@@ -1,5 +1,4 @@
-Anthostomella trachycarpi S.M. Francis, 1980 SPECIES
-=======
+# Anthostomella trachycarpi S.M. Francis, 1980 SPECIES
 
 #### Status
 ACCEPTED

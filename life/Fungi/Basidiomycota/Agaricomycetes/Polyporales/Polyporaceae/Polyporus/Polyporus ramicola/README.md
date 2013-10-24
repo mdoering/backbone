@@ -1,5 +1,4 @@
-Polyporus ramicola Velen. SPECIES
-=======
+# Polyporus ramicola Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota granosa (Morgan) Sacc. SPECIES
-=======
+# Lepiota granosa (Morgan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

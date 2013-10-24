@@ -1,5 +1,4 @@
-Kalmusia pulveracea P. Karst. SPECIES
-=======
+# Kalmusia pulveracea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

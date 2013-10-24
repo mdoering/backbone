@@ -1,5 +1,4 @@
-Sepetibaella Broennimann & Dias-Brito, 1982 GENUS
-=======
+# Sepetibaella Broennimann & Dias-Brito, 1982 GENUS
 
 #### Status
 ACCEPTED

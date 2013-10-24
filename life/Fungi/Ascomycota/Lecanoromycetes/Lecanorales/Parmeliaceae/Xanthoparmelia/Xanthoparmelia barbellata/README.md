@@ -1,14 +1,13 @@
-Parmelia barbellata Kurok. SPECIES
-=======
+# Xanthoparmelia barbellata (Kurok.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 8(2): 35 (1982)
+Mycotaxon 20(1): 79 (1984)
 
 #### Original name
 Parmelia barbellata Kurok.

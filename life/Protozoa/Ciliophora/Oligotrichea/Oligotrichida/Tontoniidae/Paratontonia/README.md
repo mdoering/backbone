@@ -1,5 +1,4 @@
-Paratontonia Jankowski, 1978 GENUS
-=======
+# Paratontonia Jankowski, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia bomani Vestergr. SPECIES
-=======
+# Puccinia bomani Vestergr. SPECIES
 
 #### Status
 ACCEPTED

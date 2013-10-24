@@ -1,5 +1,4 @@
-Placodium murale var. murale VARIETY
-=======
+# Placodium murale Frege SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium murale var. murale
+Placodium murale Frege
 
 ### Remarks
 null

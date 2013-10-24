@@ -1,5 +1,4 @@
-Glomerella manihotis (Sacc.) Petr. SPECIES
-=======
+# Glomerella manihotis (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

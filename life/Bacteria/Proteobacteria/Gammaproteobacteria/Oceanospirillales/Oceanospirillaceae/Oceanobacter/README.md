@@ -1,5 +1,4 @@
-Oceanobacter Satomi, Kimura, Hamada, Harayama & Fujii, 2002 GENUS
-=======
+# Oceanobacter Satomi, Kimura, Hamada, Harayama & Fujii, 2002 GENUS
 
 #### Status
 ACCEPTED

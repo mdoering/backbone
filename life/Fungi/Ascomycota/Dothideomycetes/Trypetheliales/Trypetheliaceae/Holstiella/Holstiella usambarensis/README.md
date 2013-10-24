@@ -1,5 +1,4 @@
-Holstiella usambarensis Henn. SPECIES
-=======
+# Holstiella usambarensis Henn. SPECIES
 
 #### Status
 ACCEPTED

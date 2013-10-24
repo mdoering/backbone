@@ -1,5 +1,4 @@
-Nitrobacter winogradskyi Winslow et al., 1917 (Approved Lists, 1980) SPECIES
-=======
+# Nitrobacter winogradskyi Winslow et al., 1917 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

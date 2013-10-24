@@ -1,5 +1,4 @@
-Stereocaulon foliiforme Hue SPECIES
-=======
+# Stereocaulon foliiforme Hue SPECIES
 
 #### Status
 ACCEPTED

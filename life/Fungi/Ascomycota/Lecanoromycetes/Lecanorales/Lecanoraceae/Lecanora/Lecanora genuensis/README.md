@@ -1,5 +1,4 @@
-Lecanora genuensis B. de Lesd. SPECIES
-=======
+# Lecanora genuensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

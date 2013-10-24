@@ -1,14 +1,13 @@
-Seimatosporium saksenaensis (S.M. Singh) Arx SPECIES
-=======
+# Seimatosporium saksenaense (S.M. Singh) Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 224 (1981)
 
 #### Original name
 Bartaliniopsis saksenaensis S.S. Singh

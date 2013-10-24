@@ -1,5 +1,4 @@
-Dictyoporthe appendiculata E. Müll. SPECIES
-=======
+# Dictyoporthe appendiculata E. Müll. SPECIES
 
 #### Status
 ACCEPTED

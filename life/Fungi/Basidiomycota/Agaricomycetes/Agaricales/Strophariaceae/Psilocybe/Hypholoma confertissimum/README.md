@@ -1,5 +1,4 @@
-Hypholoma confertissimum G.F. Atk. SPECIES
-=======
+# Hypholoma confertissimum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

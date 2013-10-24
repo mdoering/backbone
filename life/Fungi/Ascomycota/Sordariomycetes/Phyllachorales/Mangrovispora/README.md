@@ -1,5 +1,4 @@
-Mangrovispora K.D. Hyde & Nakagiri GENUS
-=======
+# Mangrovispora K.D. Hyde & Nakagiri GENUS
 
 #### Status
 ACCEPTED

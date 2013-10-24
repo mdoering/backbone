@@ -1,5 +1,4 @@
-Septonema spilomeum Berk., 1845 SPECIES
-=======
+# Septonema spilomeum Berk., 1845 SPECIES
 
 #### Status
 ACCEPTED

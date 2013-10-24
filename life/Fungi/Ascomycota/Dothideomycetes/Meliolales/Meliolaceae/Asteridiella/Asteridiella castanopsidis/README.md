@@ -1,5 +1,4 @@
-Asteridiella castanopsidis (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella castanopsidis (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria atlantica (H. Magn.) R. Sant. SPECIES
-=======
+# Verrucaria atlantica (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

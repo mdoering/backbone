@@ -1,5 +1,4 @@
-Leptogium granadillae (C. W. Dodge) Degel. SPECIES
-=======
+# Leptogium granadillae (C. W. Dodge) Degel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma conocybecystis Noordel. & Liiv SPECIES
-=======
+# Entoloma conocybecystis Noordel. & Liiv SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicogloea indica M.S. Patil, Kund. & Nanaware, 2003 SPECIES
-=======
+# Helicogloea indica M.S. Patil, Kund. & Nanaware, 2003 SPECIES
 
 #### Status
 ACCEPTED

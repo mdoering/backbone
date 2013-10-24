@@ -1,5 +1,4 @@
-Puccinia solanicola Mayor SPECIES
-=======
+# Puccinia solanicola Mayor SPECIES
 
 #### Status
 ACCEPTED

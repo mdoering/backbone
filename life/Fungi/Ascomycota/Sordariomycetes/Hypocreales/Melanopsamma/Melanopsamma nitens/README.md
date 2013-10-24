@@ -1,5 +1,4 @@
-Melanopsamma nitens var. nitens VARIETY
-=======
+# Melanopsamma nitens Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 44: 3 (1904)
 
 #### Original name
-Melanopsamma nitens var. nitens
+Melanopsamma nitens Rehm
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Endocarpon flexuosum (B. de Lesd.) Servít SPECIES
-=======
+# Endocarpon flexuosum (B. de Lesd.) Servít SPECIES
 
 #### Status
 ACCEPTED

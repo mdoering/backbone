@@ -1,5 +1,4 @@
-Entoloma candidulum Hesler SPECIES
-=======
+# Entoloma candidulum Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kabatiella emblicae Chuan F. Zhang & P.K. Chi SPECIES
-=======
+# Kabatiella emblicae Chuan F. Zhang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

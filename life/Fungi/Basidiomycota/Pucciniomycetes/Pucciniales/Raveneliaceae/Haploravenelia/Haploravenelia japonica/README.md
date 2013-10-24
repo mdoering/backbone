@@ -1,5 +1,4 @@
-Haploravenelia japonica (Dietel & P. Syd.) Syd. SPECIES
-=======
+# Haploravenelia japonica (Dietel & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

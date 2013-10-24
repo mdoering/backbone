@@ -1,5 +1,4 @@
-Peridoxylon GENUS
-=======
+# Peridoxylon GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cordyceps japonica f. japonica Lloyd FORM
-=======
+# Elaphocordyceps japonica (Lloyd) G.H. Sung, J.M. Sung & Spatafora, 2007 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 37 (2007)
 
 #### Original name
-Cordyceps japonica f. japonica Lloyd
+Cordyceps japonica Lloyd, 1920
 
 ### Remarks
 null

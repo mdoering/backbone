@@ -1,5 +1,4 @@
-Hygrocybe rhodophylla Kühner SPECIES
-=======
+# Hygrocybe rhodophylla Kühner SPECIES
 
 #### Status
 ACCEPTED

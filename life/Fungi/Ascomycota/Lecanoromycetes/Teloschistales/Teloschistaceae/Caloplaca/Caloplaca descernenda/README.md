@@ -1,5 +1,4 @@
-Caloplaca descernenda (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca descernenda (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

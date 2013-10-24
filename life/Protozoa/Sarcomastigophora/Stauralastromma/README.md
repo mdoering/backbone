@@ -1,5 +1,4 @@
-Stauralastromma Haeckel, 1887 GENUS
-=======
+# Stauralastromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

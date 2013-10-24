@@ -1,5 +1,4 @@
-Agaricus pholidotus Mont. SPECIES
-=======
+# Agaricus pholidotus Mont. SPECIES
 
 #### Status
 ACCEPTED

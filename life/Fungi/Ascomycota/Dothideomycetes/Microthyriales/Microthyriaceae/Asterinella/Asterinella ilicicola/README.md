@@ -1,5 +1,4 @@
-Asterinella ilicicola Hansf. SPECIES
-=======
+# Asterinella ilicicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiclypeolum GENUS
-=======
+# Dothiclypeolum GENUS
 
 #### Status
 ACCEPTED

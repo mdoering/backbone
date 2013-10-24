@@ -1,5 +1,4 @@
-Catastoma nigrescens Lloyd SPECIES
-=======
+# Catastoma nigrescens Lloyd SPECIES
 
 #### Status
 ACCEPTED

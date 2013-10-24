@@ -1,5 +1,4 @@
-Segetibacter An et al., 2007 GENUS
-=======
+# Segetibacter An et al., 2007 GENUS
 
 #### Status
 ACCEPTED

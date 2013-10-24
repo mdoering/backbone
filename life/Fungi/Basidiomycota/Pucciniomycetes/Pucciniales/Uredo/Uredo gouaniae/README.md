@@ -1,5 +1,4 @@
-Uredo gouaniae Ellis & Kelsey SPECIES
-=======
+# Uredo gouaniae Ellis & Kelsey SPECIES
 
 #### Status
 ACCEPTED

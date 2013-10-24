@@ -1,5 +1,4 @@
-Septoria smilacis Ellis & Everh. SPECIES
-=======
+# Septoria smilacis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

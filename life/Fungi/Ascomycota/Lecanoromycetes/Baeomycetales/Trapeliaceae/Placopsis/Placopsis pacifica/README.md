@@ -1,5 +1,4 @@
-Placopsis pacifica Vain. SPECIES
-=======
+# Placopsis pacifica Vain. SPECIES
 
 #### Status
 ACCEPTED

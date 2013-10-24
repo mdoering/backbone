@@ -1,5 +1,4 @@
-Pseudolyophyllum pruinosum (Lasch) Raithelh. SPECIES
-=======
+# Pseudolyophyllum pruinosum (Lasch) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

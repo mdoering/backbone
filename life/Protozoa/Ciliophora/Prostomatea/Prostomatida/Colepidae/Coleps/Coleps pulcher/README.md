@@ -1,5 +1,4 @@
-Coleps pulcher Spiegel, 1926 SPECIES
-=======
+# Coleps pulcher Spiegel, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glenosporopsis metaeuropea (Castell.) Fonseca SPECIES
-=======
+# Glenosporopsis metaeuropea (Castell.) Fonseca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina nicandrae Picb. SPECIES
-=======
+# Diplodina nicandrae Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nocardia vinacea Kinoshita et al., 2002 SPECIES
-=======
+# Nocardia vinacea Kinoshita et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

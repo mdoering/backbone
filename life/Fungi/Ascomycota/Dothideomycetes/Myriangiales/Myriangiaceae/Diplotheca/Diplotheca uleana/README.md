@@ -1,5 +1,4 @@
-Diplotheca uleana Henn. SPECIES
-=======
+# Diplotheca uleana Henn. SPECIES
 
 #### Status
 ACCEPTED

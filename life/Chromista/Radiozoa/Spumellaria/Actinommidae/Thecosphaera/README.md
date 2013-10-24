@@ -1,5 +1,4 @@
-Thecosphaera Haeckel, 1881 GENUS
-=======
+# Thecosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

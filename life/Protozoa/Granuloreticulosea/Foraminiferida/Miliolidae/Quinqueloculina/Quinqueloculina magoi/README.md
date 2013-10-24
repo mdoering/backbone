@@ -1,5 +1,4 @@
-Quinqueloculina magoi SPECIES
-=======
+# Quinqueloculina magoi SPECIES
 
 #### Status
 ACCEPTED

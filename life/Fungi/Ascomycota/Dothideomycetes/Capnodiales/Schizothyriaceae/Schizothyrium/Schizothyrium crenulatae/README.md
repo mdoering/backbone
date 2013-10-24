@@ -1,5 +1,4 @@
-Schizothyrium crenulatae S.K. Bose SPECIES
-=======
+# Schizothyrium crenulatae S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helminthosporium portoricensis (Speg.) Cif. SPECIES
-=======
+# Helminthosporium portoricense L.J. Liu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Agric. Univ. Puerto Rico 55(1): 20 (1971)
 
 #### Original name
-Napicladium portoricense Speg.
+Helminthosporium portoricense L.J. Liu
 
 ### Remarks
 null

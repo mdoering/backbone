@@ -1,5 +1,4 @@
-Pertusaria glaucomela (Tuck.) Nyl. SPECIES
-=======
+# Pertusaria glaucomela (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

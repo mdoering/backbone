@@ -1,5 +1,4 @@
-Antarctobacter Labrenz, Collins, Lawson, Tindall, Braker & Hirsch, 1998 GENUS
-=======
+# Antarctobacter Labrenz, Collins, Lawson, Tindall, Braker & Hirsch, 1998 GENUS
 
 #### Status
 ACCEPTED

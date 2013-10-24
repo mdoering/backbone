@@ -1,5 +1,4 @@
-Herpotrichia arizonica M.E. Barr SPECIES
-=======
+# Herpotrichia arizonica M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

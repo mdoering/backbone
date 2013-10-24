@@ -1,5 +1,4 @@
-Trachysphaeridium gibbosum Ouyang Shu et al., 1974 SPECIES
-=======
+# Trachysphaeridium gibbosum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

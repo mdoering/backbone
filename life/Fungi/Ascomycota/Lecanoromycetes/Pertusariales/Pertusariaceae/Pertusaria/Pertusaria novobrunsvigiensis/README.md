@@ -1,5 +1,4 @@
-Pertusaria novobrunsvigiensis Erichsen SPECIES
-=======
+# Pertusaria novobrunsvigiensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammulina elastica (Lasch) Redhead & R.H. Petersen SPECIES
-=======
+# Flammulina elastica (Lasch) Redhead & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

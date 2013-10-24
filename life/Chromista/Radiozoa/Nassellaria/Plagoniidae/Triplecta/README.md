@@ -1,5 +1,4 @@
-Triplecta Haeckel, 1881 GENUS
-=======
+# Triplecta Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

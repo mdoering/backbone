@@ -1,5 +1,4 @@
-Opegrapha hebraica Dufour SPECIES
-=======
+# Opegrapha hebraica Dufour SPECIES
 
 #### Status
 ACCEPTED

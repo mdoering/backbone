@@ -1,5 +1,4 @@
-Geoglossum muelleri Cooke SPECIES
-=======
+# Geoglossum muelleri Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus leucostigma V. Brig. SPECIES
-=======
+# Agaricus leucostigma V. Brig. SPECIES
 
 #### Status
 ACCEPTED

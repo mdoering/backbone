@@ -1,5 +1,4 @@
-Septoria gynoxidina Petr. SPECIES
-=======
+# Septoria gynoxidina Petr. SPECIES
 
 #### Status
 ACCEPTED

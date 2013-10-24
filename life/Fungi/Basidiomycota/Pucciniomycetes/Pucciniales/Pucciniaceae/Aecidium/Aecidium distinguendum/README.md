@@ -1,5 +1,4 @@
-Aecidium distinguendum P. Syd. & Syd. SPECIES
-=======
+# Aecidium distinguendum P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

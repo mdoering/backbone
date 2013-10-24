@@ -1,14 +1,13 @@
-Thelotrema lepadodes subsp. sitianum (Vain.) G. Salisb. SUBSPECIES
-=======
+# Thelotrema sitianum Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenologist 5: 271 (1972)
+Acta Soc. Fauna Flora fenn. 7: 81 (1890)
 
 #### Original name
 Thelotrema sitianum Vain.

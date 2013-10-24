@@ -1,5 +1,4 @@
-Truncorotaloididae Loeblich & Tappan, 1961 FAMILY
-=======
+# Truncorotaloididae Loeblich & Tappan, 1961 FAMILY
 
 #### Status
 ACCEPTED

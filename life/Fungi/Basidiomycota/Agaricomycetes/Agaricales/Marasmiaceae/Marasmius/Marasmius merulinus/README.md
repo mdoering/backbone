@@ -1,5 +1,4 @@
-Marasmius merulinus (Berk.) Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius merulinus (Berk.) Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

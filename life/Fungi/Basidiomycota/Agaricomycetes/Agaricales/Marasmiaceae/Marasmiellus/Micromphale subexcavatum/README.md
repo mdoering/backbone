@@ -1,5 +1,4 @@
-Micromphale subexcavatum Murrill SPECIES
-=======
+# Micromphale subexcavatum Murrill SPECIES
 
 #### Status
 ACCEPTED

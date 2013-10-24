@@ -1,5 +1,4 @@
-Bactrospora integrispora Seaver SPECIES
-=======
+# Bactrospora integrispora Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entyloma trailii Massee, 1891 SPECIES
-=======
+# Entyloma matricariae Rostr., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Fungi 192 (1891)
+in Thümen, Mycotheca universalis no. 2223 (1884)
 
 #### Original name
-Entyloma trailii Massee, 1891
+Entyloma matricariae Rostr., 1884
 
 ### Remarks
 null

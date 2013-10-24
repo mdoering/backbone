@@ -1,5 +1,4 @@
-Ustilago inaltilis Vánky & A.A. Mitch. SPECIES
-=======
+# Ustilago inaltilis Vánky & A.A. Mitch. SPECIES
 
 #### Status
 ACCEPTED

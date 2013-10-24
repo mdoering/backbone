@@ -1,5 +1,4 @@
-Colletotrichum durionis Koord. SPECIES
-=======
+# Colletotrichum durionis Koord. SPECIES
 
 #### Status
 ACCEPTED

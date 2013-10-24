@@ -1,5 +1,4 @@
-Asteromella calthae (Tranzschel) Vanev & Aa SPECIES
-=======
+# Asteromella calthae (Tranzschel) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

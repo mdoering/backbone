@@ -1,5 +1,4 @@
-Diaporthe euspina Cooke & Ellis SPECIES
-=======
+# Diaporthe euspina Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

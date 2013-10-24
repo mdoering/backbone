@@ -1,5 +1,4 @@
-Puccinia crepidis-aureae P. Syd. & Syd. SPECIES
-=======
+# Puccinia crepidis-aureae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

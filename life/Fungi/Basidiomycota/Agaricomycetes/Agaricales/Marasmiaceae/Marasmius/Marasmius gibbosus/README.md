@@ -1,5 +1,4 @@
-Marasmius gibbosus Corner SPECIES
-=======
+# Marasmius gibbosus Corner SPECIES
 
 #### Status
 ACCEPTED

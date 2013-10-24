@@ -1,5 +1,4 @@
-Pseudocercospora hymenaeae R. Kirschner & U. Braun SPECIES
-=======
+# Pseudocercospora hymenaeae R. Kirschner & U. Braun SPECIES
 
 #### Status
 ACCEPTED

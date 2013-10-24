@@ -1,5 +1,4 @@
-Entoloma mutabilipes Noordel. & Liiv, 1992 SPECIES
-=======
+# Entoloma mutabilipes Noordel. & Liiv, 1992 SPECIES
 
 #### Status
 ACCEPTED

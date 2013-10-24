@@ -1,5 +1,4 @@
-Phyllosticta richardsoniae Ellis & Everh. SPECIES
-=======
+# Phyllosticta richardsoniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

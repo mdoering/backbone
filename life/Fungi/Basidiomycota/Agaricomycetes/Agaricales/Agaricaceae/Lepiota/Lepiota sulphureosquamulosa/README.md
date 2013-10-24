@@ -1,5 +1,4 @@
-Lepiota sulphureosquamulosa Rick SPECIES
-=======
+# Lepiota sulphureosquamulosa Rick SPECIES
 
 #### Status
 ACCEPTED

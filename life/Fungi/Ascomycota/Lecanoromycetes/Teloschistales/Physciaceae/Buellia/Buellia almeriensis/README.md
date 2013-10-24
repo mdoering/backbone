@@ -1,5 +1,4 @@
-Buellia almeriensis Llimona SPECIES
-=======
+# Buellia almeriensis Llimona SPECIES
 
 #### Status
 ACCEPTED

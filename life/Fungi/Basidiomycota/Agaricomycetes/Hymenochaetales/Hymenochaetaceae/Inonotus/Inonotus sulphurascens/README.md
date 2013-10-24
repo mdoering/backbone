@@ -1,5 +1,4 @@
-Inonotus sulphurascens (Pilát) M.J. Larsen, Lombard & J.W. Clark SPECIES
-=======
+# Inonotus sulphurascens (Pilát) M.J. Larsen, Lombard & J.W. Clark SPECIES
 
 #### Status
 ACCEPTED

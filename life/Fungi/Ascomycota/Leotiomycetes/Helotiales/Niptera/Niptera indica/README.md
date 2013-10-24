@@ -1,5 +1,4 @@
-Niptera indica Subhedar & V.G. Rao SPECIES
-=======
+# Niptera indica Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

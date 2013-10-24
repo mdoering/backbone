@@ -1,5 +1,4 @@
-Sphaeromespilus Haeckel, 1887 GENUS
-=======
+# Sphaeromespilus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

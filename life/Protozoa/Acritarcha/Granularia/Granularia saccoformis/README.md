@@ -1,5 +1,4 @@
-Granularia saccoformis Kowalski, 1983 SPECIES
-=======
+# Granularia saccoformis Kowalski, 1983 SPECIES
 
 #### Status
 ACCEPTED

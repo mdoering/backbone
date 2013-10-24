@@ -1,5 +1,4 @@
-Cercospora zygophylli Szemb. SPECIES
-=======
+# Cercospora zygophylli Szemb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoothamnium elegans D'Udekem, 1864 SPECIES
-=======
+# Zoothamnium elegans D'Udekem, 1864 SPECIES
 
 #### Status
 ACCEPTED

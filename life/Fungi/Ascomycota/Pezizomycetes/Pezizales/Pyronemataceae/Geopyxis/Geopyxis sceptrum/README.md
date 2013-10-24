@@ -1,5 +1,4 @@
-Geopyxis sceptrum (Batsch) Fr. SPECIES
-=======
+# Geopyxis sceptrum (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

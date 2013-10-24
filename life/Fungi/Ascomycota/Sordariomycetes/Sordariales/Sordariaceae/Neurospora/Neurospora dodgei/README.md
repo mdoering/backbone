@@ -1,5 +1,4 @@
-Neurospora dodgei P.E. Nelson & R.O. Novak, 1964 SPECIES
-=======
+# Neurospora dodgei P.E. Nelson & R.O. Novak, 1964 SPECIES
 
 #### Status
 ACCEPTED

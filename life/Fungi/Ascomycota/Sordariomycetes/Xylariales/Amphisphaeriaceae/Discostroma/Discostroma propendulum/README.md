@@ -1,5 +1,4 @@
-Discostroma propendulum (P. Karst.) Brockmann SPECIES
-=======
+# Discostroma propendulum (P. Karst.) Brockmann SPECIES
 
 #### Status
 ACCEPTED

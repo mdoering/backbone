@@ -1,5 +1,4 @@
-Ophiobolus brachystomus (Sacc.) Sacc. SPECIES
-=======
+# Ophiobolus brachystomus (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

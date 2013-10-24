@@ -1,5 +1,4 @@
-Leptosphaeria nandinae Togashi & Tsukam. SPECIES
-=======
+# Leptosphaeria nandinae Togashi & Tsukam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella euphorbiae-spinosae De Not. SPECIES
-=======
+# Sphaerella euphorbiae-spinosae De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium perrarum Jankauskas, 1980 SPECIES
-=======
+# Baltisphaeridium perrarum Jankauskas, 1980 SPECIES
 
 #### Status
 ACCEPTED

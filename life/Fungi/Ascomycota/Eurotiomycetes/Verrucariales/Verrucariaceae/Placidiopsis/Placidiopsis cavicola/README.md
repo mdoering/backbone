@@ -1,5 +1,4 @@
-Placidiopsis cavicola Etayo & Breuss SPECIES
-=======
+# Placidiopsis cavicola Etayo & Breuss SPECIES
 
 #### Status
 ACCEPTED

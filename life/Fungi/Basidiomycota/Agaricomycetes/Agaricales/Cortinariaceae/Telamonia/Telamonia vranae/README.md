@@ -1,5 +1,4 @@
-Telamonia vranae Velen. SPECIES
-=======
+# Telamonia vranae Velen. SPECIES
 
 #### Status
 ACCEPTED

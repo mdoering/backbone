@@ -1,14 +1,13 @@
-Phyllosticta gharsii (S.B. Thakur) Aa & Vanev SPECIES
-=======
+# Phyllosticta gharsei (S.B. Thakur) Aa & Vanev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+A Revision of the Species Described in Phyllosticta (Utrecht) 31 (2002)
 
 #### Original name
 Phyllostictina gharsei S.B. Thakur

@@ -1,5 +1,4 @@
-Xylaria scotica var. scotica VARIETY
-=======
+# Xylaria scotica Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 31): 112 (1876)
 
 #### Original name
-Xylaria scotica var. scotica
+Xylaria scotica Cooke
 
 ### Remarks
 null

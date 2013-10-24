@@ -1,17 +1,16 @@
-Doratomyces eichhornius Conway & Kimbr. SPECIES
-=======
+# Doratomyces eichhorniae Conway & Kimbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 2(1): 128 (1975)
 
 #### Original name
-Doratomyces eichhornius Conway & Kimbr.
+Doratomyces eichhorniae Conway & Kimbr.
 
 ### Remarks
 null

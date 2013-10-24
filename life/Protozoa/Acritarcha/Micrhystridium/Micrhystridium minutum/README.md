@@ -1,5 +1,4 @@
-Micrhystridium minutum Downie, 1982 SPECIES
-=======
+# Micrhystridium minutum Downie, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota villosa Fr. SPECIES
-=======
+# Pholiota villosa Fr. SPECIES
 
 #### Status
 ACCEPTED

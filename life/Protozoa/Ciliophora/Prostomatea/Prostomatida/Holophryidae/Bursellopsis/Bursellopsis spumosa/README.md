@@ -1,8 +1,7 @@
-Bursella spumosa Schmidt, 1920 SPECIES
-=======
+# Bursellopsis spumosa (Schmidt, 1920) Corliss, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

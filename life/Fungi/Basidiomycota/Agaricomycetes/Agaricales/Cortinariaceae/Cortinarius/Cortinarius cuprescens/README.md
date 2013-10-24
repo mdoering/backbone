@@ -1,5 +1,4 @@
-Cortinarius cuprescens Eyssart. & Bidaud SPECIES
-=======
+# Cortinarius cuprescens Eyssart. & Bidaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gasterellopsis Routien GENUS
-=======
+# Gasterellopsis Routien GENUS
 
 #### Status
 ACCEPTED

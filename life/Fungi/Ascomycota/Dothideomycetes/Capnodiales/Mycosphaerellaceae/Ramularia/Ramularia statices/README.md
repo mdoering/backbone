@@ -1,5 +1,4 @@
-Ramularia statices Rostr. SPECIES
-=======
+# Ramularia statices Rostr. SPECIES
 
 #### Status
 ACCEPTED

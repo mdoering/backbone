@@ -1,5 +1,4 @@
-Irenopsis maricaensis (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis maricaensis (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

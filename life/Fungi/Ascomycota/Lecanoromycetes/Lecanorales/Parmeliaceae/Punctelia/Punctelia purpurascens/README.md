@@ -1,5 +1,4 @@
-Punctelia purpurascens Marcelli & Canêz SPECIES
-=======
+# Punctelia purpurascens Marcelli & Canêz SPECIES
 
 #### Status
 ACCEPTED

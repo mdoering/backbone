@@ -1,5 +1,4 @@
-Phoma spermoides Dearn. SPECIES
-=======
+# Phoma spermoides Dearn. SPECIES
 
 #### Status
 ACCEPTED

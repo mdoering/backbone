@@ -1,5 +1,4 @@
-Phoma chamaenerionis Brunaud SPECIES
-=======
+# Phoma chamaenerionis Brunaud SPECIES
 
 #### Status
 ACCEPTED

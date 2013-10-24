@@ -1,5 +1,4 @@
-Geniculisynnema termiticola Okane & Nakagiri, 2007 SPECIES
-=======
+# Geniculisynnema termiticola Okane & Nakagiri, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticoviridae FAMILY
-=======
+# Corticoviridae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halanaerobium praevalens Zeikus et al., 1984 SPECIES
-=======
+# Halanaerobium praevalens Zeikus et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

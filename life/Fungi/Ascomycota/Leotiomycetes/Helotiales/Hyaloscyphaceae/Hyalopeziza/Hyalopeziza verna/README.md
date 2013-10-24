@@ -1,5 +1,4 @@
-Hyalopeziza verna (Svrcek) Raitv. & R. Galán SPECIES
-=======
+# Hyalopeziza verna (Svrcek) Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

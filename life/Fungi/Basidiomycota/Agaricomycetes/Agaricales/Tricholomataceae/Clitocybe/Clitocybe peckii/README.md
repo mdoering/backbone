@@ -1,5 +1,4 @@
-Clitocybe peckii Murrill SPECIES
-=======
+# Clitocybe peckii Murrill SPECIES
 
 #### Status
 ACCEPTED

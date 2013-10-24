@@ -1,5 +1,4 @@
-Dacryopinax macrospora B. Liu, L. Fan & Y.M. Li, 1988 SPECIES
-=======
+# Dacryopinax macrospora B. Liu, L. Fan & Y.M. Li, 1988 SPECIES
 
 #### Status
 ACCEPTED

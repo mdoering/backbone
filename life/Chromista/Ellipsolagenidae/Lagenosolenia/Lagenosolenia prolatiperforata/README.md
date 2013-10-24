@@ -1,5 +1,4 @@
-Lagenosolenia prolatiperforata McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia prolatiperforata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

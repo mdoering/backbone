@@ -1,8 +1,7 @@
-Dasyscypha perforatus (Saut.) Sacc. SPECIES
-=======
+# Dasyscyphus perforatus (Saut.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

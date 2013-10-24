@@ -1,5 +1,4 @@
-Stereocaulon crustatum Alstrup SPECIES
-=======
+# Stereocaulon crustatum Alstrup SPECIES
 
 #### Status
 ACCEPTED

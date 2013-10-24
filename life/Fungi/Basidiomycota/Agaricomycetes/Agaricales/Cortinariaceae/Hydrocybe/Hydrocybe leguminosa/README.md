@@ -1,5 +1,4 @@
-Hydrocybe leguminosa Velen. SPECIES
-=======
+# Hydrocybe leguminosa Velen. SPECIES
 
 #### Status
 ACCEPTED

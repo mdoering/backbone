@@ -1,5 +1,4 @@
-Phellinus lonicerinus (Bondartsev) Bondartsev & Singer SPECIES
-=======
+# Phellinus lonicerinus (Bondartsev) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

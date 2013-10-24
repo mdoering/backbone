@@ -1,5 +1,4 @@
-Xyloma herbarum Alb. & Schwein. SPECIES
-=======
+# Xyloma herbarum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

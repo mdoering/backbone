@@ -1,5 +1,4 @@
-Hygrophorus kauffmanii A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus kauffmanii A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

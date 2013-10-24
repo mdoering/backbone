@@ -1,5 +1,4 @@
-Podosporium gigasporum Sacc., Syd. & P. Syd. SPECIES
-=======
+# Podosporium gigasporum Sacc., Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

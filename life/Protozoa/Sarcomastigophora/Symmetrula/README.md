@@ -1,5 +1,4 @@
-Symmetrula Rajulu & Radha, 1966 GENUS
-=======
+# Symmetrula Rajulu & Radha, 1966 GENUS
 
 #### Status
 ACCEPTED

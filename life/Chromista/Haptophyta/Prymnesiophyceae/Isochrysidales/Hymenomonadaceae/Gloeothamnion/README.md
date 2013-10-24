@@ -1,5 +1,4 @@
-Gloeothamnion L. Cienkowski, 1881 GENUS
-=======
+# Gloeothamnion L. Cienkowski, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochila perexigua Speg. SPECIES
-=======
+# Trochila perexigua Speg. SPECIES
 
 #### Status
 ACCEPTED

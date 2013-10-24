@@ -1,5 +1,4 @@
-Eutypa penes (Berk. & Broome) Sacc. SPECIES
-=======
+# Eutypa penes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta saniculae Davis SPECIES
-=======
+# Ascochyta saniculae Davis SPECIES
 
 #### Status
 ACCEPTED

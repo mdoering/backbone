@@ -1,5 +1,4 @@
-Gibberidea juglandis (Fuckel) Kuntze SPECIES
-=======
+# Gibberidea juglandis (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

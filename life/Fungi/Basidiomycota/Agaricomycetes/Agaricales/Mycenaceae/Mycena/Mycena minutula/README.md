@@ -1,5 +1,4 @@
-Mycena minutula Peck, 1872 SPECIES
-=======
+# Mycena minutula Peck, 1872 SPECIES
 
 #### Status
 ACCEPTED

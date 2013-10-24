@@ -1,5 +1,4 @@
-Sporisorium superfluum (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium superfluum (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

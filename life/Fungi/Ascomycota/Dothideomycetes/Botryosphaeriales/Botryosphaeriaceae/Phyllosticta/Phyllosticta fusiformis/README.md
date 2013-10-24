@@ -1,5 +1,4 @@
-Phyllosticta fusiformis SPECIES
-=======
+# Phyllosticta fusiformis SPECIES
 
 #### Status
 ACCEPTED

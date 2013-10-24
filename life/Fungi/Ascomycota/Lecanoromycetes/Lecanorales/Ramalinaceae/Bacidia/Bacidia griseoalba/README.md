@@ -1,5 +1,4 @@
-Bacidia griseoalba Lindau SPECIES
-=======
+# Bacidia griseoalba Lindau SPECIES
 
 #### Status
 ACCEPTED

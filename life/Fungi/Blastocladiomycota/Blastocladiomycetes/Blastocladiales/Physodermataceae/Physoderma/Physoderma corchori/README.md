@@ -1,5 +1,4 @@
-Physoderma corchori Lingappa SPECIES
-=======
+# Physoderma corchori Lingappa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymium fulvipes Fr. SPECIES
-=======
+# Didymium fulvipes Fr. SPECIES
 
 #### Status
 ACCEPTED

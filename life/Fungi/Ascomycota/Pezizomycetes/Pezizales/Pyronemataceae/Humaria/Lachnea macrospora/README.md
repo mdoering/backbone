@@ -1,5 +1,4 @@
-Lachnea macrospora Svrcek SPECIES
-=======
+# Lachnea macrospora Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizophyllum umbrinum Berk. SPECIES
-=======
+# Schizophyllum umbrinum Berk. SPECIES
 
 #### Status
 ACCEPTED

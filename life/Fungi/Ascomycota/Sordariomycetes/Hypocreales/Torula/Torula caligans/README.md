@@ -1,5 +1,4 @@
-Torula caligans (Bat. & H.P. Upadhyay) M.B. Ellis, 1971 SPECIES
-=======
+# Torula caligans (Bat. & H.P. Upadhyay) M.B. Ellis, 1971 SPECIES
 
 #### Status
 ACCEPTED

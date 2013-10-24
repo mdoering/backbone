@@ -1,5 +1,4 @@
-Mischococcales ORDER
-=======
+# Mischococcales ORDER
 
 #### Status
 ACCEPTED

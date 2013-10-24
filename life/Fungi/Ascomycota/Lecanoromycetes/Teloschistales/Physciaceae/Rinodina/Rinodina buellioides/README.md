@@ -1,5 +1,4 @@
-Rinodina buellioides Metzler SPECIES
-=======
+# Rinodina buellioides Metzler SPECIES
 
 #### Status
 ACCEPTED

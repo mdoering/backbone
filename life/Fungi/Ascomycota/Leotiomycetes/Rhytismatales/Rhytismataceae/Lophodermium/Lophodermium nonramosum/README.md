@@ -1,5 +1,4 @@
-Lophodermium nonramosum P.R. Johnst., 2001 SPECIES
-=======
+# Lophodermium nonramosum P.R. Johnst., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis medusuloides Fée SPECIES
-=======
+# Graphis medusuloides Fée SPECIES
 
 #### Status
 ACCEPTED

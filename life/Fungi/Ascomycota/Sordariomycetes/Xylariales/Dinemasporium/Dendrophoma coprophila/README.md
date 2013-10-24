@@ -1,5 +1,4 @@
-Dendrophoma coprophila Marchal & É.J. Marchal SPECIES
-=======
+# Dendrophoma coprophila Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

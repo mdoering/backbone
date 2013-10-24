@@ -1,17 +1,16 @@
-Tartufa (Gray) Kuntze GENUS
-=======
+# Choiromyces Vittad. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(3): 536 (1891)
+Monogr. Tuberac. (Milano) 50 (1831)
 
 #### Original name
-null
+Choiromyces Vittad.
 
 ### Remarks
 null

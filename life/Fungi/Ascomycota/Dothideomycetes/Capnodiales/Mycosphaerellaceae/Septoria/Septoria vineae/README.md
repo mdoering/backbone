@@ -1,5 +1,4 @@
-Septoria vineae Pass. SPECIES
-=======
+# Septoria vineae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe aureifolia var. aureifolia VARIETY
-=======
+# Dermocybe aureifolia (Peck) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Schweiz. Z. Pilzk. 52(7): 100 (1974)
 
 #### Original name
-Dermocybe aureifolia var. aureifolia
+Cortinarius aureifolius Peck
 
 ### Remarks
 null

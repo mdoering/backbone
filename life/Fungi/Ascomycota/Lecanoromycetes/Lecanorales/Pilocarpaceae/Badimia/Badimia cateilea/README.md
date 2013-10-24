@@ -1,5 +1,4 @@
-Badimia cateilea (Vain.) Lücking, Lumbsch & Elix SPECIES
-=======
+# Badimia cateilea (Vain.) Lücking, Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

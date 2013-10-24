@@ -1,5 +1,4 @@
-Stilbum connatum Kalchbr. & Cooke SPECIES
-=======
+# Stilbum connatum Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

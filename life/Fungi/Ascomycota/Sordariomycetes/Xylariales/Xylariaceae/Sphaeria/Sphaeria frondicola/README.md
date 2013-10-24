@@ -1,5 +1,4 @@
-Sphaeria frondicola Fr. SPECIES
-=======
+# Sphaeria frondicola Fr. SPECIES
 
 #### Status
 ACCEPTED

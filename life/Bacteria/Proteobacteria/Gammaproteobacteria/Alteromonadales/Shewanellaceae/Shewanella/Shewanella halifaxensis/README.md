@@ -1,5 +1,4 @@
-Shewanella halifaxensis Zhao et al., 2006 SPECIES
-=======
+# Shewanella halifaxensis Zhao et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

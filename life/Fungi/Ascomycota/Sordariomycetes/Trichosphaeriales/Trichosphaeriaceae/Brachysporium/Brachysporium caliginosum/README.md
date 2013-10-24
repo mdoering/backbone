@@ -1,5 +1,4 @@
-Brachysporium caliginosum C. Massal. SPECIES
-=======
+# Brachysporium caliginosum C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea myricicola Ettingsh. SPECIES
-=======
+# Dothidea myricicola Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

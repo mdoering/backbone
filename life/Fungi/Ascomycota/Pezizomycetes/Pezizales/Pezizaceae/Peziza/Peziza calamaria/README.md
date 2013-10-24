@@ -1,5 +1,4 @@
-Peziza calamaria Ces. SPECIES
-=======
+# Peziza calamaria Ces. SPECIES
 
 #### Status
 ACCEPTED

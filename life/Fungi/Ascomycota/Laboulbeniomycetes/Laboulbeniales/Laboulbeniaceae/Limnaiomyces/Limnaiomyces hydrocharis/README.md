@@ -1,5 +1,4 @@
-Limnaiomyces hydrocharis Thaxt., 1900 SPECIES
-=======
+# Limnaiomyces hydrocharis Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

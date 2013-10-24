@@ -1,5 +1,4 @@
-Descomyces fusisporus Trappe & Claridge SPECIES
-=======
+# Descomyces fusisporus Trappe & Claridge SPECIES
 
 #### Status
 ACCEPTED

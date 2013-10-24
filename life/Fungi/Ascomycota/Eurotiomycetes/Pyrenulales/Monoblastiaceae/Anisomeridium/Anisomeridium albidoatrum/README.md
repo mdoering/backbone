@@ -1,5 +1,4 @@
-Anisomeridium albidoatrum (Nyl.) R.C. Harris SPECIES
-=======
+# Anisomeridium albidoatrum (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

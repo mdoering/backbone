@@ -1,5 +1,4 @@
-Nosema cuniculi SPECIES
-=======
+# Nosema cuniculi SPECIES
 
 #### Status
 ACCEPTED

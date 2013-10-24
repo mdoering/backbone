@@ -1,5 +1,4 @@
-Dictyothyrium amazonense Bat. & Peres SPECIES
-=======
+# Dictyothyrium amazonense Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

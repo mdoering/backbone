@@ -1,5 +1,4 @@
-Phyllachora tricuspidis Speg., 1888 SPECIES
-=======
+# Phyllachora tricuspidis Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED

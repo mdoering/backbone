@@ -1,5 +1,4 @@
-Phyllosticta caryogena Sacc. SPECIES
-=======
+# Phyllosticta caryogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

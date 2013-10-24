@@ -1,17 +1,16 @@
-Phaeodaedalea M. Fidalgo GENUS
-=======
+# Daedalea Persoon, 1801 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 53(2): 203 (1962)
+null
 
 #### Original name
-Phaeodaedalea M. Fidalgo
+null
 
 ### Remarks
 null

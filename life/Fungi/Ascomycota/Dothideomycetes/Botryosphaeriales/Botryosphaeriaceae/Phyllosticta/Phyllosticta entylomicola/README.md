@@ -1,5 +1,4 @@
-Phyllosticta entylomicola H.C. Greene SPECIES
-=======
+# Phyllosticta entylomicola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

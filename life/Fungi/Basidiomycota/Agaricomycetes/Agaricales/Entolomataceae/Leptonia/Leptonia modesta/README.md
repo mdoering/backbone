@@ -1,5 +1,4 @@
-Leptonia modesta (Peck) Largent SPECIES
-=======
+# Leptonia modesta (Peck) Largent SPECIES
 
 #### Status
 ACCEPTED

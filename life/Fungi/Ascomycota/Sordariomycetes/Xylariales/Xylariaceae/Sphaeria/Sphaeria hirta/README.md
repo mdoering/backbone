@@ -1,5 +1,4 @@
-Sphaeria hirta Fr. SPECIES
-=======
+# Sphaeria hirta Fr. SPECIES
 
 #### Status
 ACCEPTED

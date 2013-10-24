@@ -1,5 +1,4 @@
-Aspicilia olivatula Motyka SPECIES
-=======
+# Aspicilia olivatula Motyka SPECIES
 
 #### Status
 ACCEPTED

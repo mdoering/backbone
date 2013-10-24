@@ -1,5 +1,4 @@
-Hypocrea microsulfurea Yoshim. Doi SPECIES
-=======
+# Hypocrea microsulfurea Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

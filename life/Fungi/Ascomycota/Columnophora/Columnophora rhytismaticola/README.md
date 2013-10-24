@@ -1,5 +1,4 @@
-Columnophora rhytismaticola Bubák & Vleugel SPECIES
-=======
+# Columnophora rhytismaticola Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

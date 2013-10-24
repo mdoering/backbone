@@ -1,5 +1,4 @@
-Cetraria arctica H. Magn. SPECIES
-=======
+# Cetraria arctica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

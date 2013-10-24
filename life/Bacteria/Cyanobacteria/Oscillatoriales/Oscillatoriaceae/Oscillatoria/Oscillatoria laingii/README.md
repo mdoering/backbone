@@ -1,5 +1,4 @@
-Oscillatoria laingii L. Hoffmann & V. Demoulin SPECIES
-=======
+# Oscillatoria laingii L. Hoffmann & V. Demoulin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyriella astoma (Speg.) Theiss. SPECIES
-=======
+# Microthyriella astoma (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

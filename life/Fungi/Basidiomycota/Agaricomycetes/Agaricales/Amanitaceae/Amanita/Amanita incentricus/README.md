@@ -1,5 +1,4 @@
-Amanita incentricus E.H.L. Krause SPECIES
-=======
+# Amanita incentricus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma lagoa-santensis Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma lagoa-santensis Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria olivacea (Ellis & Everh.) J.M. Hook SPECIES
-=======
+# Alternaria olivacea (Ellis & Everh.) J.M. Hook SPECIES
 
 #### Status
 ACCEPTED

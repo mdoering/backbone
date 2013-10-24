@@ -1,5 +1,4 @@
-Diaporthe dolosa Sacc. & Roum. SPECIES
-=======
+# Diaporthe dolosa Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

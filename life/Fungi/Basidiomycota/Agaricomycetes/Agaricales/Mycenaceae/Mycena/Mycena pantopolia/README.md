@@ -1,5 +1,4 @@
-Mycena pantopolia Singer SPECIES
-=======
+# Mycena pantopolia Singer SPECIES
 
 #### Status
 ACCEPTED

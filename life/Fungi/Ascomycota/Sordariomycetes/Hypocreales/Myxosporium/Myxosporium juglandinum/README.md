@@ -1,5 +1,4 @@
-Myxosporium juglandinum Oudem. SPECIES
-=======
+# Myxosporium juglandinum Oudem. SPECIES
 
 #### Status
 ACCEPTED

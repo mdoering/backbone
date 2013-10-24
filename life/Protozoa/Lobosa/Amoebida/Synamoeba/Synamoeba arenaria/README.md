@@ -1,5 +1,4 @@
-Synamoeba arenaria Grell, 1994 SPECIES
-=======
+# Synamoeba arenaria Grell, 1994 SPECIES
 
 #### Status
 ACCEPTED

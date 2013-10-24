@@ -1,5 +1,4 @@
-Dothiorella coggyriae Zerova SPECIES
-=======
+# Dothiorella coggyriae Zerova SPECIES
 
 #### Status
 ACCEPTED

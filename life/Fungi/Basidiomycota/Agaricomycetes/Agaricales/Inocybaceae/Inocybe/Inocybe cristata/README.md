@@ -1,5 +1,4 @@
-Inocybe cristata J. Schroeter SPECIES
-=======
+# Inocybe cristata J. Schroeter SPECIES
 
 #### Status
 ACCEPTED

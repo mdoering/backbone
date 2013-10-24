@@ -1,5 +1,4 @@
-Pseudocercospora toonae M.D. Mehrotra & R.K. Verma SPECIES
-=======
+# Pseudocercospora toonae M.D. Mehrotra & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

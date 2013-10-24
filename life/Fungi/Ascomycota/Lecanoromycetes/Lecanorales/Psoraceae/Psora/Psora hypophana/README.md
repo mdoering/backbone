@@ -1,5 +1,4 @@
-Psora hypophana (Nyl.) Boistel SPECIES
-=======
+# Psora hypophana (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vulcanisphaera flagellum Martin, 1975 SPECIES
-=======
+# Vulcanisphaera flagellum Martin, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria sinusmexicani Dibben SPECIES
-=======
+# Pertusaria sinusmexicani Dibben SPECIES
 
 #### Status
 ACCEPTED

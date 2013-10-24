@@ -1,5 +1,4 @@
-Endoreticulatus W.M. Brooks, J.J. Becnel & G.G. Kennedy GENUS
-=======
+# Endoreticulatus W.M. Brooks, J.J. Becnel & G.G. Kennedy GENUS
 
 #### Status
 ACCEPTED

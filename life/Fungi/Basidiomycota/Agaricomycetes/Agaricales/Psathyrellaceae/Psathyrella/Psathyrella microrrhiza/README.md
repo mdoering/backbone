@@ -1,5 +1,4 @@
-Psathyrella microrrhiza f. microrrhiza FORM
-=======
+# Psathyrella microrrhiza (Lasch) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

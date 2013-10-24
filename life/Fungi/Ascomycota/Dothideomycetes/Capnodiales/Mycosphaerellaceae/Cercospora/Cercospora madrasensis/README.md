@@ -1,5 +1,4 @@
-Cercospora madrasensis Rangaswami & Chandras. SPECIES
-=======
+# Cercospora madrasensis Rangaswami & Chandras. SPECIES
 
 #### Status
 ACCEPTED

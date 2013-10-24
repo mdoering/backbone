@@ -1,5 +1,4 @@
-Cordyceps oxycephala Penz. & Sacc. SPECIES
-=======
+# Cordyceps oxycephala Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

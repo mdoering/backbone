@@ -1,5 +1,4 @@
-Pseudomonas Migula, 1894 GENUS
-=======
+# Pseudomonas Migula, 1894 GENUS
 
 #### Status
 ACCEPTED

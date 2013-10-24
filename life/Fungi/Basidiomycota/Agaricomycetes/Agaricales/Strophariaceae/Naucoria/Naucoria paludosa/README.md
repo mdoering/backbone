@@ -1,5 +1,4 @@
-Naucoria paludosa Velen. SPECIES
-=======
+# Naucoria paludosa Velen. SPECIES
 
 #### Status
 ACCEPTED

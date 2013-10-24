@@ -1,5 +1,4 @@
-Pseudosagedia papillifera (Stirt.) Hafellner & Kalb SPECIES
-=======
+# Pseudosagedia papillifera (Stirt.) Hafellner & Kalb SPECIES
 
 #### Status
 ACCEPTED

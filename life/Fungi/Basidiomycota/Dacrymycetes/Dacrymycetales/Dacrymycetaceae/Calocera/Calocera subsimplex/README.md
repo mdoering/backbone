@@ -1,5 +1,4 @@
-Calocera subsimplex Britzelm. SPECIES
-=======
+# Calocera subsimplex Britzelm. SPECIES
 
 #### Status
 ACCEPTED

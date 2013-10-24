@@ -1,5 +1,4 @@
-Cercospora gaillardiae Chidd. SPECIES
-=======
+# Cercospora gaillardiae Chidd. SPECIES
 
 #### Status
 ACCEPTED

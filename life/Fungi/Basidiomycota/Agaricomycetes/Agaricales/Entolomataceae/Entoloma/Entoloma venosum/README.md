@@ -1,5 +1,4 @@
-Entoloma venosum Gillet SPECIES
-=======
+# Entoloma venosum Gillet SPECIES
 
 #### Status
 ACCEPTED

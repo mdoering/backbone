@@ -1,5 +1,4 @@
-Catenaria spinosa W. Martin, 1975 SPECIES
-=======
+# Catenaria spinosa W. Martin, 1975 SPECIES
 
 #### Status
 ACCEPTED

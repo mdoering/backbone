@@ -1,5 +1,4 @@
-Hansenula misumaiensis Y. Sasaki & T. Yoshida, 1958 SPECIES
-=======
+# Hansenula misumaiensis Y. Sasaki & T. Yoshida, 1958 SPECIES
 
 #### Status
 ACCEPTED

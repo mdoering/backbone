@@ -1,5 +1,4 @@
-Micropera rubida Berk. & M.A. Curtis SPECIES
-=======
+# Micropera rubida Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

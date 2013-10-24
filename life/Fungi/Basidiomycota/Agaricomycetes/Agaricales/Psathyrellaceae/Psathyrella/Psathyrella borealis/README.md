@@ -1,5 +1,4 @@
-Psathyrella borealis A.H. Sm. SPECIES
-=======
+# Psathyrella borealis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

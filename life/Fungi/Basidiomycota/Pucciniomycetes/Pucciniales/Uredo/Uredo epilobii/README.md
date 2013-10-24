@@ -1,17 +1,16 @@
-Uredo pustulata epilobii Pers. SUBSPECIES
-=======
+# Uredo epilobii DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
-null
+in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 6: 73 (1815)
 
 #### Original name
-null
+Uredo epilobii DC.
 
 ### Remarks
 null

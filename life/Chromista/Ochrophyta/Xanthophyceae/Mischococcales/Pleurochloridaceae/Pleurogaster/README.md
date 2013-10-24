@@ -1,5 +1,4 @@
-Pleurogaster Pascher, 1937 GENUS
-=======
+# Pleurogaster Pascher, 1937 GENUS
 
 #### Status
 ACCEPTED

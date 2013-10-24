@@ -1,5 +1,4 @@
-Chaetomastia (Sacc.) Berl. GENUS
-=======
+# Chaetomastia (Sacc.) Berl. GENUS
 
 #### Status
 ACCEPTED

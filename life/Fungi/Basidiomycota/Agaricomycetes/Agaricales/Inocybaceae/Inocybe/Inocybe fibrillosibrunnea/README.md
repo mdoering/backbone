@@ -1,5 +1,4 @@
-Inocybe fibrillosibrunnea O.K. Mill. & R.N. Hilton SPECIES
-=======
+# Inocybe fibrillosibrunnea O.K. Mill. & R.N. Hilton SPECIES
 
 #### Status
 ACCEPTED

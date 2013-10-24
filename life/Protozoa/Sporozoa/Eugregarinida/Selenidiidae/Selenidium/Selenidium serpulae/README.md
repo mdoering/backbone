@@ -1,5 +1,4 @@
-Selenidium serpulae Lankester, 1863 SPECIES
-=======
+# Selenidium serpulae Lankester, 1863 SPECIES
 
 #### Status
 ACCEPTED

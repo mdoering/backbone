@@ -1,5 +1,4 @@
-Cercosporina hydrangeana (Tharp) Sacc. SPECIES
-=======
+# Cercosporina hydrangeana (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diderma badhamiopsis Y. Yamam. & Nann.-Bremek., 1995 SPECIES
-=======
+# Diderma badhamiopsis Y. Yamam. & Nann.-Bremek., 1995 SPECIES
 
 #### Status
 ACCEPTED

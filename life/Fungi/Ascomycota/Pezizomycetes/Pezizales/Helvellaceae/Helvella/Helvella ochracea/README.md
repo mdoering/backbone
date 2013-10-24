@@ -1,5 +1,4 @@
-Helvella ochracea Schaeff. SPECIES
-=======
+# Helvella ochracea Schaeff. SPECIES
 
 #### Status
 ACCEPTED

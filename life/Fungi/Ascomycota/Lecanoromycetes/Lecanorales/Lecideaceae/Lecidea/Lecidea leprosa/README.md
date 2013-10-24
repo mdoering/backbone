@@ -1,5 +1,4 @@
-Lecidea leprosa Ach. SPECIES
-=======
+# Lecidea leprosa Ach. SPECIES
 
 #### Status
 ACCEPTED

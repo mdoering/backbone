@@ -1,5 +1,4 @@
-Gyromitra longipes Harmaja SPECIES
-=======
+# Gyromitra longipes Harmaja SPECIES
 
 #### Status
 ACCEPTED

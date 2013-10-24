@@ -1,5 +1,4 @@
-Puccinia opposita (Doidge) Sacc. & Trotter SPECIES
-=======
+# Puccinia opposita (Doidge) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

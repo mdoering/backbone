@@ -1,5 +1,4 @@
-Peronosporites palmae (E.W. Berry) Kalgutkar & Janson. SPECIES
-=======
+# Peronosporites palmae (E.W. Berry) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

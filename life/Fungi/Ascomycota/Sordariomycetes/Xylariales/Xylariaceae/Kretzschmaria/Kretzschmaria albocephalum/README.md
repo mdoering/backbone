@@ -1,5 +1,4 @@
-Kretzschmaria albocephalum Lloyd SPECIES
-=======
+# Kretzschmaria albocephalum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Serratia marinorubra ZoBell and Upham, 1944 (Approved Lists, 1980) SPECIES
-=======
+# Serratia marinorubra ZoBell and Upham, 1944 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

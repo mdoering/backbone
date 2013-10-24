@@ -1,5 +1,4 @@
-Fusidites Mesch. GENUS
-=======
+# Fusidites Mesch. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea nuttallii Calk. & Nyl. SPECIES
-=======
+# Lecidea nuttallii Calk. & Nyl. SPECIES
 
 #### Status
 ACCEPTED

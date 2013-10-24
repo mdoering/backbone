@@ -1,5 +1,4 @@
-Protubera canescens G.W. Beaton & Malajczuk, 1986 SPECIES
-=======
+# Protubera canescens G.W. Beaton & Malajczuk, 1986 SPECIES
 
 #### Status
 ACCEPTED

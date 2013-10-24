@@ -1,5 +1,4 @@
-Verrucaria geminella Nyl. SPECIES
-=======
+# Verrucaria geminella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epispathidium polynucleatum Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Epispathidium polynucleatum Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

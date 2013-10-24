@@ -1,5 +1,4 @@
-Alectoria himalayensis Motyka SPECIES
-=======
+# Alectoria himalayensis Motyka SPECIES
 
 #### Status
 ACCEPTED

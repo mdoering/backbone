@@ -1,5 +1,4 @@
-Pseudocercospora superficialis R.K. Verma, M.K. Khan & Kamal SPECIES
-=======
+# Pseudocercospora superficialis R.K. Verma, M.K. Khan & Kamal SPECIES
 
 #### Status
 ACCEPTED

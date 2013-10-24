@@ -1,5 +1,4 @@
-Penardia Cash, 1904 GENUS
-=======
+# Penardia Cash, 1904 GENUS
 
 #### Status
 ACCEPTED

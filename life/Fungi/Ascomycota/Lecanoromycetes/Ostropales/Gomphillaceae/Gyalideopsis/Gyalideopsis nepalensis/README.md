@@ -1,5 +1,4 @@
-Gyalideopsis nepalensis Vezda & Poelt SPECIES
-=======
+# Gyalideopsis nepalensis Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

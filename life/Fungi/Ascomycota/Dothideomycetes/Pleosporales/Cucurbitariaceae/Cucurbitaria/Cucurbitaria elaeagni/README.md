@@ -1,5 +1,4 @@
-Cucurbitaria elaeagni Mirza SPECIES
-=======
+# Cucurbitaria elaeagni Mirza SPECIES
 
 #### Status
 ACCEPTED

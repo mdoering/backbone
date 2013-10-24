@@ -1,5 +1,4 @@
-Phlebomorpha grisea Pers. SPECIES
-=======
+# Phlebomorpha grisea Pers. SPECIES
 
 #### Status
 ACCEPTED

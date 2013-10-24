@@ -1,5 +1,4 @@
-Opegrapha perturbata Chevall. SPECIES
-=======
+# Opegrapha perturbata Chevall. SPECIES
 
 #### Status
 ACCEPTED

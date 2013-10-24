@@ -1,14 +1,13 @@
-Fibroaesferae Colom, 1935 GENUS
-=======
+# Colomisphaera Nowak, 1968 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Roczn. Pol. Tow. Geol 38: 321.
 
 #### Original name
 null

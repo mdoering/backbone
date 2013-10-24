@@ -1,5 +1,4 @@
-Goodfellowia GENUS
-=======
+# Goodfellowia GENUS
 
 #### Status
 ACCEPTED

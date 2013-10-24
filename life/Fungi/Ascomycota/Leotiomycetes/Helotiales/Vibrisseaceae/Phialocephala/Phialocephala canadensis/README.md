@@ -1,5 +1,4 @@
-Phialocephala canadensis W.B. Kendr. SPECIES
-=======
+# Phialocephala canadensis W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia filicina Schwein. SPECIES
-=======
+# Vermicularia filicina Schwein. SPECIES
 
 #### Status
 ACCEPTED

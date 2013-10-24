@@ -1,5 +1,4 @@
-Pocosphaeria GENUS
-=======
+# Pocosphaeria GENUS
 
 #### Status
 ACCEPTED

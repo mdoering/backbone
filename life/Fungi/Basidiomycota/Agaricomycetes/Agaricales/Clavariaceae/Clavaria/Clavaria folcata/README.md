@@ -1,5 +1,4 @@
-Clavaria folcata var. folcata VARIETY
-=======
+# Clavaria folcata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clavaria folcata var. folcata
+Clavaria folcata
 
 ### Remarks
 null

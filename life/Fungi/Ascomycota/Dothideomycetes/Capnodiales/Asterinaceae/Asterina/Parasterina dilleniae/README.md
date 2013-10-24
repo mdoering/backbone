@@ -1,5 +1,4 @@
-Parasterina dilleniae (Syd. & P. Syd.) J.M. Mend. SPECIES
-=======
+# Parasterina dilleniae (Syd. & P. Syd.) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

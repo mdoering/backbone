@@ -1,14 +1,13 @@
-Scolecostigmina pilostigmatis (M.B. Ellis) U. Braun SPECIES
-=======
+# Scolecostigmina piliostigmatis (M.B. Ellis) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 3: 39 (1999)
 
 #### Original name
 Stigmina piliostigmatis M.B. Ellis

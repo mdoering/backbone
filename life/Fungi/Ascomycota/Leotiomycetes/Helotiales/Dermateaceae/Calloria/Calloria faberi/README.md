@@ -1,5 +1,4 @@
-Calloria faberi J. Kunze SPECIES
-=======
+# Calloria faberi J. Kunze SPECIES
 
 #### Status
 ACCEPTED

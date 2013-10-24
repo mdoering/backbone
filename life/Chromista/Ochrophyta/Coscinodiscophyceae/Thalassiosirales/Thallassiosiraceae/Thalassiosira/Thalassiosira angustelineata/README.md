@@ -1,5 +1,4 @@
-Thalassiosira angustelineata (A. Schmidt) G. Fryxell & Hasle, 1977 SPECIES
-=======
+# Thalassiosira angustelineata (A. Schmidt) G. Fryxell & Hasle, 1977 SPECIES
 
 #### Status
 ACCEPTED

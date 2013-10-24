@@ -1,5 +1,4 @@
-Streptomyces aculeolatus Shomura et al., 1988 SPECIES
-=======
+# Streptomyces aculeolatus Shomura et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

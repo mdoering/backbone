@@ -1,14 +1,13 @@
-Cercospora loranthincola Petr., 1954 SPECIES
-=======
+# Passalora loranthincola (Petr.) U. Braun, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 8: 220 (1954)
+Mycotaxon 55: 233 (1995)
 
 #### Original name
 Cercospora loranthincola Petr., 1954

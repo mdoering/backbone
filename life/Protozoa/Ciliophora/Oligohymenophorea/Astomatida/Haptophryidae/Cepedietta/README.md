@@ -1,5 +1,4 @@
-Cepedietta Kay, 1942 GENUS
-=======
+# Cepedietta Kay, 1942 GENUS
 
 #### Status
 ACCEPTED

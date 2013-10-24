@@ -1,5 +1,4 @@
-Cryptosporium pseudacaciae Schwein. SPECIES
-=======
+# Cryptosporium pseudacaciae Schwein. SPECIES
 
 #### Status
 ACCEPTED

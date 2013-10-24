@@ -1,5 +1,4 @@
-Galerula sphagnicola G.F. Atk. SPECIES
-=======
+# Galerula sphagnicola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

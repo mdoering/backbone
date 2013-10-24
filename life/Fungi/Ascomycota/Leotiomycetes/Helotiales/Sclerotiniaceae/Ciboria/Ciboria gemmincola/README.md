@@ -1,5 +1,4 @@
-Ciboria gemmincola Rehm SPECIES
-=======
+# Ciboria gemmincola Rehm SPECIES
 
 #### Status
 ACCEPTED

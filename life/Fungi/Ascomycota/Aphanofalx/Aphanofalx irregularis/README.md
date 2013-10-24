@@ -1,5 +1,4 @@
-Aphanofalx irregularis B. Sutton & Abbas, 1987 SPECIES
-=======
+# Aphanofalx irregularis B. Sutton & Abbas, 1987 SPECIES
 
 #### Status
 ACCEPTED

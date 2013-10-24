@@ -1,5 +1,4 @@
-Peronospora matthiolae Gäum., 1918 SPECIES
-=======
+# Peronospora matthiolae Gäum., 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus violaceocinereus var. violaceocinereus VARIETY
-=======
+# Agaricus violaceocinereus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Comm. Schaeff. Icon. Pict. 2 (1800)
 
 #### Original name
-Agaricus violaceocinereus var. violaceocinereus
+Agaricus violaceocinereus Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Epicoccum eucalypti Henn. SPECIES
-=======
+# Epicoccum eucalypti Henn. SPECIES
 
 #### Status
 ACCEPTED

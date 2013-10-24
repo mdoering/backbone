@@ -1,5 +1,4 @@
-Phellinus andinopatagonicus (J.E. Wright & J.R. Deschamps) Ryvarden SPECIES
-=======
+# Phellinus andinopatagonicus (J.E. Wright & J.R. Deschamps) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

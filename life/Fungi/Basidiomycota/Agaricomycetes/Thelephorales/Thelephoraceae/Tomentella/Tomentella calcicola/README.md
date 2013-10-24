@@ -1,5 +1,4 @@
-Tomentella calcicola (Bourdot & Galzin) M.J. Larsen, 1967 SPECIES
-=======
+# Tomentella calcicola (Bourdot & Galzin) M.J. Larsen, 1967 SPECIES
 
 #### Status
 ACCEPTED

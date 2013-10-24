@@ -1,5 +1,4 @@
-Multicellaesporites tricyclosus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites tricyclosus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

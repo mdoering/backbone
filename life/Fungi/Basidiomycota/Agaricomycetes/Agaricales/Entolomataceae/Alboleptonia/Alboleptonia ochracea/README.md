@@ -1,5 +1,4 @@
-Alboleptonia ochracea var. ochracea VARIETY
-=======
+# Alboleptonia ochracea Largent & R.G. Benedict SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 62(3): 443 (1970)
 
 #### Original name
-Alboleptonia ochracea var. ochracea
+Alboleptonia ochracea Largent & R.G. Benedict
 
 ### Remarks
 null

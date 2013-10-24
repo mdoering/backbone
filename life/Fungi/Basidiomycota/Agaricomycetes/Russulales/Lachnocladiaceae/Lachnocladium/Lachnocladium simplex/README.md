@@ -1,5 +1,4 @@
-Lachnocladium simplex Henn. SPECIES
-=======
+# Lachnocladium simplex Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomonas fuscovaginae (ex Tanii et al., 1976) Miyajima et al., 1983 SPECIES
-=======
+# Pseudomonas fuscovaginae (ex Tanii et al., 1976) Miyajima et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

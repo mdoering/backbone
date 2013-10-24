@@ -1,17 +1,16 @@
-Elmeria Bres. GENUS
-=======
+# Elmerina Bres. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 51(4): 318 (1912)
+Annls mycol. 10(5): 507 (1912)
 
 #### Original name
-Elmeria Bres.
+Elmerina Bres.
 
 ### Remarks
 null

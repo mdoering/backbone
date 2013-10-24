@@ -1,5 +1,4 @@
-Tyromyces nemorosus Corner, 1989 SPECIES
-=======
+# Tyromyces nemorosus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dryodon opalinum Quél. SPECIES
-=======
+# Dryodon opalinus Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Compt. Rend. Assoc. Franç. Avancem. Sci. 11: 400 (1883)
 
 #### Original name
-Dryodon opalinum Quél.
+Dryodon opalinus Quél.
 
 ### Remarks
 null

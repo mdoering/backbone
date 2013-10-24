@@ -1,5 +1,4 @@
-Pseudothyridaria moroides Syd. SPECIES
-=======
+# Pseudothyridaria moroides Syd. SPECIES
 
 #### Status
 ACCEPTED

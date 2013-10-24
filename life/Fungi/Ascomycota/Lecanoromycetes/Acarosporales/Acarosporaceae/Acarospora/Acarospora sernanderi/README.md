@@ -1,5 +1,4 @@
-Acarospora sernanderi H. Magn. SPECIES
-=======
+# Acarospora sernanderi H. Magn. SPECIES
 
 #### Status
 ACCEPTED

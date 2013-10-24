@@ -1,5 +1,4 @@
-Leptosphaerulina sidalceae Zeller SPECIES
-=======
+# Leptosphaerulina sidalceae Zeller SPECIES
 
 #### Status
 ACCEPTED

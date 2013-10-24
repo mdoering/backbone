@@ -1,5 +1,4 @@
-Cheiropolyschema Matsush. GENUS
-=======
+# Cheiropolyschema Matsush. GENUS
 
 #### Status
 ACCEPTED

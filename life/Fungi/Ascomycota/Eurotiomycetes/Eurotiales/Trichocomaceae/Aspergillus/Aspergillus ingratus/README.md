@@ -1,5 +1,4 @@
-Aspergillus ingratus Yaguchi, Someya & Udagawa, 1993 SPECIES
-=======
+# Aspergillus ingratus Yaguchi, Someya & Udagawa, 1993 SPECIES
 
 #### Status
 ACCEPTED

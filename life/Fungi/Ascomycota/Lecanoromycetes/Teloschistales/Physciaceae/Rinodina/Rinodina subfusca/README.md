@@ -1,5 +1,4 @@
-Rinodina subfusca H. Magn. SPECIES
-=======
+# Rinodina subfusca H. Magn. SPECIES
 
 #### Status
 ACCEPTED

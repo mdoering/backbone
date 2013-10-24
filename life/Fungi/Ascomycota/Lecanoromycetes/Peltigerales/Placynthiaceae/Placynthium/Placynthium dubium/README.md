@@ -1,5 +1,4 @@
-Placynthium dubium Herre SPECIES
-=======
+# Placynthium dubium Herre SPECIES
 
 #### Status
 ACCEPTED

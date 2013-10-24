@@ -1,17 +1,16 @@
-Gymnosporangium juvenescens F. Kern, 1911 SPECIES
-=======
+# Gymnosporangium nidus-avis Thaxt., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the New York Botanical Garden 7: 448 (1911)
+Bulletin of the Conn. Agricultural Experimantal Station 107: 3 (1891)
 
 #### Original name
-Gymnosporangium juvenescens F. Kern, 1911
+Gymnosporangium nidus-avis Thaxt., 1891
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Opegrapha amfractuosa Mont. SPECIES
-=======
+# Opegrapha amfractuosa Mont. SPECIES
 
 #### Status
 ACCEPTED

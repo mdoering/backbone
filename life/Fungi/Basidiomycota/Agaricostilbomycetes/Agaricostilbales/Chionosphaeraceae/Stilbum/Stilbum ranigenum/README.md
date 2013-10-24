@@ -1,5 +1,4 @@
-Stilbum ranigenum (Berk. & Broome) Sacc. SPECIES
-=======
+# Stilbum ranigenum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

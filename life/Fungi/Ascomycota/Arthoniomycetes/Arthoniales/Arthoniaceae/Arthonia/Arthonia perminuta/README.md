@@ -1,5 +1,4 @@
-Arthonia perminuta Willey SPECIES
-=======
+# Arthonia perminuta Willey SPECIES
 
 #### Status
 ACCEPTED

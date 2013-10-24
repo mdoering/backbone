@@ -1,5 +1,4 @@
-Lecidella frigida Hertel SPECIES
-=======
+# Lecidella frigida Hertel SPECIES
 
 #### Status
 ACCEPTED

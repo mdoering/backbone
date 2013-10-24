@@ -1,5 +1,4 @@
-Lentinus bogoriensis Henn. & E. Nyman SPECIES
-=======
+# Lentinus bogoriensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

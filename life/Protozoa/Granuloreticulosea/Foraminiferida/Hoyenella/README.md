@@ -1,5 +1,4 @@
-Hoyenella Rettori, 1994 GENUS
-=======
+# Hoyenella Rettori, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysothallus minimus Velen. SPECIES
-=======
+# Chrysothallus minimus Velen. SPECIES
 
 #### Status
 ACCEPTED

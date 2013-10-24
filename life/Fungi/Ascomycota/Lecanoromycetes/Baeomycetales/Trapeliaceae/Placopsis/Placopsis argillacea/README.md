@@ -1,5 +1,4 @@
-Placopsis argillacea (C. Knight) Malcolm & Vezda SPECIES
-=======
+# Placopsis argillacea (C. Knight) Malcolm & Vezda SPECIES
 
 #### Status
 ACCEPTED

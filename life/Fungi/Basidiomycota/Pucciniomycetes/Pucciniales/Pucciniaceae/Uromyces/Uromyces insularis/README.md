@@ -1,5 +1,4 @@
-Uromyces insularis Arthur SPECIES
-=======
+# Uromyces insularis Arthur SPECIES
 
 #### Status
 ACCEPTED

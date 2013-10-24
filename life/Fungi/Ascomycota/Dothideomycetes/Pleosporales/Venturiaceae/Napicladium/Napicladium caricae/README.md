@@ -1,5 +1,4 @@
-Napicladium caricae Chardón & Cif. SPECIES
-=======
+# Napicladium caricae Chardón & Cif. SPECIES
 
 #### Status
 ACCEPTED

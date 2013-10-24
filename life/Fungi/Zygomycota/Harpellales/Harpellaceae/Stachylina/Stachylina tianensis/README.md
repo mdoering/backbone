@@ -1,5 +1,4 @@
-Stachylina tianensis J. Wang, S. Xu & Strongman, 2010 SPECIES
-=======
+# Stachylina tianensis J. Wang, S. Xu & Strongman, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dirina lutosa Zahlbr. SPECIES
-=======
+# Dirina lutosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria dahliae Richon SPECIES
-=======
+# Nectria dahliae Richon SPECIES
 
 #### Status
 ACCEPTED

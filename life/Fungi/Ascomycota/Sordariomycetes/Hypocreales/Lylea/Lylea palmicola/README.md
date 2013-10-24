@@ -1,5 +1,4 @@
-Lylea palmicola Mercado, Figueras & Gené, 1997 SPECIES
-=======
+# Lylea palmicola Mercado, Figueras & Gené, 1997 SPECIES
 
 #### Status
 ACCEPTED

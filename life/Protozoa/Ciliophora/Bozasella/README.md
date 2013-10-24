@@ -1,5 +1,4 @@
-Bozasella Buisson, 1923 GENUS
-=======
+# Bozasella Buisson, 1923 GENUS
 
 #### Status
 ACCEPTED

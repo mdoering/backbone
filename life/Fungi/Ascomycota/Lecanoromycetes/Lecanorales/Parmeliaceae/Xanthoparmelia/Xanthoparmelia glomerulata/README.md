@@ -1,5 +1,4 @@
-Xanthoparmelia glomerulata Krog & Swinscow SPECIES
-=======
+# Xanthoparmelia glomerulata Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microthelia thelena (Ach.) Trevis. SPECIES
-=======
+# Mycomicrothelia thelena (Ach.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 112 (1985)
 
 #### Original name
 null

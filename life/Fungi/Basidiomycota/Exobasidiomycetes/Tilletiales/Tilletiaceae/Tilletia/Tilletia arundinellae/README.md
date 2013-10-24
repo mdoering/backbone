@@ -1,5 +1,4 @@
-Tilletia arundinellae L. Ling SPECIES
-=======
+# Tilletia arundinellae L. Ling SPECIES
 
 #### Status
 ACCEPTED

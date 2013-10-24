@@ -1,5 +1,4 @@
-Marasmius mediterraneus Corriol SPECIES
-=======
+# Marasmius mediterraneus Corriol SPECIES
 
 #### Status
 ACCEPTED

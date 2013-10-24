@@ -1,5 +1,4 @@
-Lecophagus antarcticus McInnes SPECIES
-=======
+# Lecophagus antarcticus McInnes SPECIES
 
 #### Status
 ACCEPTED

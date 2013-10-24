@@ -1,5 +1,4 @@
-Rinodina kentuckyensis Fink ex J. Hedrick SPECIES
-=======
+# Rinodina kentuckyensis Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dictyonia pouronmae Henn. SPECIES
-=======
+# Dictyonia pouroumae Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 2: 549 (1904)
 
 #### Original name
 Dictyonia pouroumae Henn., 1904

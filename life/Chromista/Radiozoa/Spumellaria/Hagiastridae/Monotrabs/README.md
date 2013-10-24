@@ -1,5 +1,4 @@
-Monotrabs Baumgartner, 1984 GENUS
-=======
+# Monotrabs Baumgartner, 1984 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo jucunda Syd. & P. Syd., 1925 SPECIES
-=======
+# Uredo jucunda Syd. & P. Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

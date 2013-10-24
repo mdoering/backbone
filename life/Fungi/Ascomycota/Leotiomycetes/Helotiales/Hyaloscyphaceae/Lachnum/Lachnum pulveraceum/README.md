@@ -1,5 +1,4 @@
-Lachnum pulveraceum anon. SPECIES
-=======
+# Lachnum pulveraceum anon. SPECIES
 
 #### Status
 ACCEPTED

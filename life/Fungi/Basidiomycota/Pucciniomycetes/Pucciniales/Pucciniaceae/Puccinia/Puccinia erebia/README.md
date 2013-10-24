@@ -1,5 +1,4 @@
-Puccinia erebia Syd. & P. Syd. SPECIES
-=======
+# Puccinia erebia Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linochora acaciae E. Castell. SPECIES
-=======
+# Linochora acaciae E. Castell. SPECIES
 
 #### Status
 ACCEPTED

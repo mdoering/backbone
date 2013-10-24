@@ -1,5 +1,4 @@
-Entoloma subtenuipes Murrill SPECIES
-=======
+# Entoloma subtenuipes Murrill SPECIES
 
 #### Status
 ACCEPTED

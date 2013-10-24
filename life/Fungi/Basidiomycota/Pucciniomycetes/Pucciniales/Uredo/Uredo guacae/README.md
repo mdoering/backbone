@@ -1,5 +1,4 @@
-Uredo guacae Mayor SPECIES
-=======
+# Uredo guacae Mayor SPECIES
 
 #### Status
 ACCEPTED

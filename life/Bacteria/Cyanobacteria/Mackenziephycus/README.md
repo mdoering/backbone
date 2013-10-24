@@ -1,5 +1,4 @@
-Mackenziephycus L.G. Voronova & N.A. Drosdova, 1987 GENUS
-=======
+# Mackenziephycus L.G. Voronova & N.A. Drosdova, 1987 GENUS
 
 #### Status
 ACCEPTED

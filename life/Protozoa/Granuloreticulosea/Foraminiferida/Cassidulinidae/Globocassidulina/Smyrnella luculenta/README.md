@@ -1,5 +1,4 @@
-Smyrnella luculenta Saidova, 1975 SPECIES
-=======
+# Smyrnella luculenta Saidova, 1975 SPECIES
 
 #### Status
 DOUBTFUL

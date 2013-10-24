@@ -1,5 +1,4 @@
-Pavillardinium spinosum (Kofoid) Taylor ex Sournia SPECIES
-=======
+# Pavillardinium spinosum (Kofoid) Taylor ex Sournia SPECIES
 
 #### Status
 ACCEPTED

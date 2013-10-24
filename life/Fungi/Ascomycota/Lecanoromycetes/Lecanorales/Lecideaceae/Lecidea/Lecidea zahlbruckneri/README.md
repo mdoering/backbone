@@ -1,5 +1,4 @@
-Lecidea zahlbruckneri Fink SPECIES
-=======
+# Lecidea zahlbruckneri Fink SPECIES
 
 #### Status
 ACCEPTED

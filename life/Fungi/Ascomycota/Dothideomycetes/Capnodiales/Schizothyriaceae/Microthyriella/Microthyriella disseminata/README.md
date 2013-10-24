@@ -1,5 +1,4 @@
-Microthyriella disseminata I. Hino & Katum. SPECIES
-=======
+# Microthyriella disseminata I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

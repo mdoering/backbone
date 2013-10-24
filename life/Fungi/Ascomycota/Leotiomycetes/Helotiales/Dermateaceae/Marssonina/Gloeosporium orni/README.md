@@ -1,5 +1,4 @@
-Gloeosporium orni Sacc. SPECIES
-=======
+# Gloeosporium orni Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena capillina Velen. SPECIES
-=======
+# Mycena capillina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora hellmichiana Poelt SPECIES
-=======
+# Lecanora hellmichiana Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria oxytropidis Rostr. SPECIES
-=======
+# Septoria oxytropidis Rostr. SPECIES
 
 #### Status
 ACCEPTED

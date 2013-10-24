@@ -1,5 +1,4 @@
-Grandinia pruinata Rick SPECIES
-=======
+# Grandinia pruinata Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella tetracerae var. tetracerae VARIETY
-=======
+# Asteridiella tetracerae (Hansf. & Deighton) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 50 (1957)
 
 #### Original name
-Asteridiella tetracerae var. tetracerae
+Irenina tetracerae Hansf. & Deighton
 
 ### Remarks
 null

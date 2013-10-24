@@ -1,14 +1,13 @@
-Parmelia dichotoma Müll. Arg. SPECIES
-=======
+# Xanthoparmelia dichotoma (Müll. Arg.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 69: 257 (1886)
+Phytologia 28: 487 (1974)
 
 #### Original name
 Parmelia dichotoma Müll. Arg.

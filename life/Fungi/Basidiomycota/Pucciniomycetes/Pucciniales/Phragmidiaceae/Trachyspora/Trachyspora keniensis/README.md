@@ -1,5 +1,4 @@
-Trachyspora keniensis Gjaerum & Cummins, 1982 SPECIES
-=======
+# Trachyspora keniensis Gjaerum & Cummins, 1982 SPECIES
 
 #### Status
 ACCEPTED

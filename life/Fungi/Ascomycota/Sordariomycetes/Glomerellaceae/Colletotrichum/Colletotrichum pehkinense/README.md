@@ -1,5 +1,4 @@
-Colletotrichum pehkinense Katsura SPECIES
-=======
+# Colletotrichum pehkinense Katsura SPECIES
 
 #### Status
 ACCEPTED

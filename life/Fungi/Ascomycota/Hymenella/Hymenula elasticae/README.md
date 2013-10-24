@@ -1,5 +1,4 @@
-Hymenula elasticae Koord. SPECIES
-=======
+# Hymenula elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quinqueloculina striata SPECIES
-=======
+# Quinqueloculina striata SPECIES
 
 #### Status
 ACCEPTED

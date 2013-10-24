@@ -1,5 +1,4 @@
-Chaenothecopsis arthoniae Tibell SPECIES
-=======
+# Chaenothecopsis arthoniae Tibell SPECIES
 
 #### Status
 ACCEPTED

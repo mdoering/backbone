@@ -1,5 +1,4 @@
-Alectoria ciliata (Hue) Gyeln. SPECIES
-=======
+# Alectoria ciliata (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

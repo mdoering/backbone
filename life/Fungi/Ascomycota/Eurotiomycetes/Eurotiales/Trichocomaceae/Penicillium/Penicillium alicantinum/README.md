@@ -1,17 +1,16 @@
-Penicillium alicanthinum C. Ramírez & A.T. Martínez SPECIES
-=======
+# Penicillium alicantinum C. Ramírez & A.T. Martínez, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 72(3): 185 (1980)
 
 #### Original name
-Penicillium alicanthinum C. Ramírez & A.T. Martínez
+Penicillium alicantinum C. Ramírez & A.T. Martínez, 1980
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Oospora nikitinskii Malevich SPECIES
-=======
+# Oospora nikitinskii Malevich SPECIES
 
 #### Status
 ACCEPTED

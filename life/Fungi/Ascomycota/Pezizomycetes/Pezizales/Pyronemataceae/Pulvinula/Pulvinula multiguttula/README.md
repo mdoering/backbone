@@ -1,5 +1,4 @@
-Pulvinula multiguttula (L.R. Batra) S.C. Kaushal SPECIES
-=======
+# Pulvinula multiguttula (L.R. Batra) S.C. Kaushal SPECIES
 
 #### Status
 ACCEPTED

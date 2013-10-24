@@ -1,5 +1,4 @@
-Pyrenula subtrahens (Nyl.) Müll. Arg. SPECIES
-=======
+# Pyrenula subtrahens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

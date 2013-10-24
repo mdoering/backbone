@@ -1,5 +1,4 @@
-Tulostoma balanoides Long & S. Ahmad SPECIES
-=======
+# Tulostoma balanoides Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

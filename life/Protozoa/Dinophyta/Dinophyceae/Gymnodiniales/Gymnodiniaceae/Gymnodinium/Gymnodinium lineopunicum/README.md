@@ -1,5 +1,4 @@
-Gymnodinium lineopunicum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium lineopunicum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

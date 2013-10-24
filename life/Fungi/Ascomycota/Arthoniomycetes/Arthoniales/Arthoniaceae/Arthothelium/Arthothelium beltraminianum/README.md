@@ -1,5 +1,4 @@
-Arthothelium beltraminianum A. Massal. SPECIES
-=======
+# Arthothelium beltraminianum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

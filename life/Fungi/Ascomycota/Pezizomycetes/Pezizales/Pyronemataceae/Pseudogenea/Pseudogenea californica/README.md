@@ -1,5 +1,4 @@
-Pseudogenea californica E. Fisch. SPECIES
-=======
+# Pseudogenea californica E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

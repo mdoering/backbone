@@ -1,5 +1,4 @@
-Puccinia caricis-rhizopodae Miura SPECIES
-=======
+# Puccinia caricis-rhizopodae Miura SPECIES
 
 #### Status
 ACCEPTED

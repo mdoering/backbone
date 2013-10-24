@@ -1,5 +1,4 @@
-Spirochaeta rossi SPECIES
-=======
+# Spirochaeta rossi SPECIES
 
 #### Status
 ACCEPTED

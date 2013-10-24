@@ -1,5 +1,4 @@
-Placodium polare Vain. SPECIES
-=======
+# Placodium polare Vain. SPECIES
 
 #### Status
 ACCEPTED

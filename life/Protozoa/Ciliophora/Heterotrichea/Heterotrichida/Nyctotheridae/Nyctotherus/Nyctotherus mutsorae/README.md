@@ -1,5 +1,4 @@
-Nyctotherus mutsorae Jeekel, Manier & Jolivet, 1958 SPECIES
-=======
+# Nyctotherus mutsorae Jeekel, Manier & Jolivet, 1958 SPECIES
 
 #### Status
 ACCEPTED

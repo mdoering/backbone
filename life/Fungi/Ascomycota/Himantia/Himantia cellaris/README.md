@@ -1,5 +1,4 @@
-Himantia cellaris Pers. SPECIES
-=======
+# Himantia cellaris Pers. SPECIES
 
 #### Status
 ACCEPTED

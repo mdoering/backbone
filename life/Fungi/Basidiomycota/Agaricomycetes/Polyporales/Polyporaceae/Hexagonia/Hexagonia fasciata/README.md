@@ -1,5 +1,4 @@
-Hexagonia fasciata Berk. SPECIES
-=======
+# Hexagonia fasciata Berk. SPECIES
 
 #### Status
 ACCEPTED

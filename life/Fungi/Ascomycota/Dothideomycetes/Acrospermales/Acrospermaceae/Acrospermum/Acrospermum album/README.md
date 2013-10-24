@@ -1,5 +1,4 @@
-Acrospermum album Peck SPECIES
-=======
+# Acrospermum album Peck SPECIES
 
 #### Status
 ACCEPTED

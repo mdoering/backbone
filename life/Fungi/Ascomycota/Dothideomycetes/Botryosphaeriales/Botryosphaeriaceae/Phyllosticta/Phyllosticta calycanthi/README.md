@@ -1,5 +1,4 @@
-Phyllosticta calycanthi Sacc. & Speg. SPECIES
-=======
+# Phyllosticta calycanthi Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

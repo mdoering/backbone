@@ -1,5 +1,4 @@
-Petractis E.M. Fries, 1845 GENUS
-=======
+# Petractis E.M. Fries, 1845 GENUS
 
 #### Status
 ACCEPTED

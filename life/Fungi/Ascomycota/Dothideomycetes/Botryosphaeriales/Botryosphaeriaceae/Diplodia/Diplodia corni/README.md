@@ -1,5 +1,4 @@
-Diplodia corni Bres. SPECIES
-=======
+# Diplodia corni Bres. SPECIES
 
 #### Status
 ACCEPTED

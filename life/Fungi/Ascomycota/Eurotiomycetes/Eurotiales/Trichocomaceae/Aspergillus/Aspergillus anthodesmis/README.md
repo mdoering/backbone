@@ -1,5 +1,4 @@
-Aspergillus anthodesmis Bartoli & Maggi, 1979 SPECIES
-=======
+# Aspergillus anthodesmis Bartoli & Maggi, 1979 SPECIES
 
 #### Status
 ACCEPTED

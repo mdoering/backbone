@@ -1,5 +1,4 @@
-Tosaia Takayanagi, 1953 GENUS
-=======
+# Tosaia Takayanagi, 1953 GENUS
 
 #### Status
 ACCEPTED

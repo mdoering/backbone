@@ -1,5 +1,4 @@
-Pseudocercospora atrovelutina Deighton SPECIES
-=======
+# Pseudocercospora atrovelutina Deighton SPECIES
 
 #### Status
 ACCEPTED

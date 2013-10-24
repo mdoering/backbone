@@ -1,5 +1,4 @@
-Hysterium steigeri Duby SPECIES
-=======
+# Hysterium steigeri Duby SPECIES
 
 #### Status
 ACCEPTED

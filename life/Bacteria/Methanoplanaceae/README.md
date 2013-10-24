@@ -1,5 +1,4 @@
-Methanoplanaceae FAMILY
-=======
+# Methanoplanaceae FAMILY
 
 #### Status
 ACCEPTED

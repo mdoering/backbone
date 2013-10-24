@@ -1,5 +1,4 @@
-Macrophoma ficina S. Ahmad SPECIES
-=======
+# Macrophoma ficina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

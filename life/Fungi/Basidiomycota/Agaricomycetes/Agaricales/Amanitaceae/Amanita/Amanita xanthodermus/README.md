@@ -1,5 +1,4 @@
-Amanita xanthodermus Zerova & Rozhenko SPECIES
-=======
+# Amanita xanthodermus Zerova & Rozhenko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megatrichophyton nodiformans (Castell.) Neveu-Lem. SPECIES
-=======
+# Megatrichophyton nodiformans (Castell.) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

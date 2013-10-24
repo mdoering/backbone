@@ -1,5 +1,4 @@
-Diaporthe taxi Oudem. & Destrée SPECIES
-=======
+# Diaporthe taxi Oudem. & Destrée SPECIES
 
 #### Status
 ACCEPTED

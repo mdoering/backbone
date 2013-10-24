@@ -1,5 +1,4 @@
-Lecanora livida Ach. SPECIES
-=======
+# Lecanora livida Ach. SPECIES
 
 #### Status
 ACCEPTED

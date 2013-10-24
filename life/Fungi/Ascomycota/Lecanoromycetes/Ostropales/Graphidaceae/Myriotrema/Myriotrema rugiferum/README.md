@@ -1,5 +1,4 @@
-Myriotrema rugiferum (Harm.) Hale SPECIES
-=======
+# Myriotrema rugiferum (Harm.) Hale SPECIES
 
 #### Status
 ACCEPTED

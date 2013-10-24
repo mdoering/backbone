@@ -1,5 +1,4 @@
-Umbilicaria lecanocarpa Kremp. SPECIES
-=======
+# Umbilicaria lecanocarpa Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliopsis marylandica Gyeln. SPECIES
-=======
+# Parmeliopsis marylandica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

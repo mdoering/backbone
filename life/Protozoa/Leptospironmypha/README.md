@@ -1,5 +1,4 @@
-Leptospironmypha GENUS
-=======
+# Leptospironmypha GENUS
 
 #### Status
 ACCEPTED

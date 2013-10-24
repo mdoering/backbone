@@ -1,5 +1,4 @@
-Sporisorium pennisetinum (S. Ahmad) Vánky SPECIES
-=======
+# Sporisorium pennisetinum (S. Ahmad) Vánky SPECIES
 
 #### Status
 ACCEPTED

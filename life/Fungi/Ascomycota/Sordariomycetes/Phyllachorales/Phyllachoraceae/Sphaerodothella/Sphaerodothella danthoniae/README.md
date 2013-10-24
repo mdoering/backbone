@@ -1,17 +1,16 @@
-Sphaerodothis magnifica Petr., 1947 SPECIES
-=======
+# Sphaerodothella danthoniae (McAlpine) C.A. Pearce & K.D. Hyde, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 1: 265 (1947)
+Fungal Diversity 6: 86 (2001)
 
 #### Original name
-Sphaerodothis magnifica Petr., 1947
+Anthostomella danthoniae McAlpine, 1902
 
 ### Remarks
 null

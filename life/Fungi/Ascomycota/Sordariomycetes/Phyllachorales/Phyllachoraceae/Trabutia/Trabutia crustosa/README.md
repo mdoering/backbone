@@ -1,5 +1,4 @@
-Trabutia crustosa Rick SPECIES
-=======
+# Trabutia crustosa Rick SPECIES
 
 #### Status
 ACCEPTED

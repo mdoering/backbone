@@ -1,5 +1,4 @@
-Sphaeronaema oreophilum Sacc. SPECIES
-=======
+# Sphaeronaema oreophilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

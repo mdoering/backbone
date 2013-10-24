@@ -1,5 +1,4 @@
-Lecidea sphaeralis Fr. SPECIES
-=======
+# Lecidea sphaeralis Fr. SPECIES
 
 #### Status
 ACCEPTED

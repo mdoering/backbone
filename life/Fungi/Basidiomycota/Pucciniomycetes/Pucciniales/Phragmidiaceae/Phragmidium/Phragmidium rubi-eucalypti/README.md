@@ -1,5 +1,4 @@
-Phragmidium rubi-eucalypti S.X. Wei SPECIES
-=======
+# Phragmidium rubi-eucalypti S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

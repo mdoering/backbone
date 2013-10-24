@@ -1,5 +1,4 @@
-Lactarius psammicola f. psammicola FORM
-=======
+# Lactarius psammicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Pap. Mich. Acad. Sci. 26: 62 (1941)
 
 #### Original name
-Lactarius psammicola f. psammicola
+Lactarius psammicola A.H. Sm.
 
 ### Remarks
 null

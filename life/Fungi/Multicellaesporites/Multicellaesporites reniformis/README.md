@@ -1,5 +1,4 @@
-Multicellaesporites reniformis P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites reniformis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

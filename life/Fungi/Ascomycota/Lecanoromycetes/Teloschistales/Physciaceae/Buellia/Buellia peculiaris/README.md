@@ -1,5 +1,4 @@
-Buellia peculiaris H. Magn. SPECIES
-=======
+# Buellia peculiaris H. Magn. SPECIES
 
 #### Status
 ACCEPTED

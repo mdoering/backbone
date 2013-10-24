@@ -1,5 +1,4 @@
-Biatorella terrena Hasse SPECIES
-=======
+# Biatorella terrena Hasse SPECIES
 
 #### Status
 ACCEPTED

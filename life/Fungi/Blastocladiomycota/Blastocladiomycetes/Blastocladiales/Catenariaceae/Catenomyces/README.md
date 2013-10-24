@@ -1,5 +1,4 @@
-Catenomyces A.M. Hanson GENUS
-=======
+# Catenomyces A.M. Hanson GENUS
 
 #### Status
 ACCEPTED

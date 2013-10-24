@@ -1,14 +1,13 @@
-Sphaerotheca dipsacearum (Tul. & C. Tul.) L. Junell SPECIES
-=======
+# Podosphaera dipsacacearum (Tul. & C. Tul.) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schlechtendalia 4: 28 (2000)
 
 #### Original name
 Erysiphe dipsacacearum Tul. & C. Tul.

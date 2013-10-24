@@ -1,5 +1,4 @@
-Marasmius variabilis Desjardin & Ovrebo SPECIES
-=======
+# Marasmius variabilis Desjardin & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

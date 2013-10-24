@@ -1,14 +1,13 @@
-Octolithites Caratini, 1963 GENUS
-=======
+# Braarudosphaera Deflandre, 1947 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+C. R. Acad. Sci. Paris, 225 (10), 439.
 
 #### Original name
 null

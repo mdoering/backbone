@@ -1,5 +1,4 @@
-Chattonella minima Y. Hara & M. Chihara SPECIES
-=======
+# Chattonella minima Y. Hara & M. Chihara SPECIES
 
 #### Status
 ACCEPTED

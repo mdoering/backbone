@@ -1,5 +1,4 @@
-Platygrapha carnea Müll. Arg. SPECIES
-=======
+# Platygrapha carnea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Abrothallus hypotrachynae Etayo & Diederich SPECIES
-=======
+# Abrothallus hypotrachynae Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

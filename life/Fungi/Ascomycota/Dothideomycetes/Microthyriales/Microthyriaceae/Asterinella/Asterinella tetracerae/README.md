@@ -1,5 +1,4 @@
-Asterinella tetracerae Hansf. SPECIES
-=======
+# Asterinella tetracerae Hansf. SPECIES
 
 #### Status
 ACCEPTED

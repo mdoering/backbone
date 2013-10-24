@@ -1,5 +1,4 @@
-Pezicula grovesii Wehm. SPECIES
-=======
+# Pezicula grovesii Wehm. SPECIES
 
 #### Status
 ACCEPTED

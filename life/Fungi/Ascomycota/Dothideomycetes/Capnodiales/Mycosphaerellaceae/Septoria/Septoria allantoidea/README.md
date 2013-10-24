@@ -1,5 +1,4 @@
-Septoria allantoidea Berk. & M.A. Curtis SPECIES
-=======
+# Septoria allantoidea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

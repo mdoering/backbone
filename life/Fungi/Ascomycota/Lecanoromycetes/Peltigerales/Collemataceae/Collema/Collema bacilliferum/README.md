@@ -1,5 +1,4 @@
-Collema bacilliferum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Collema bacilliferum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

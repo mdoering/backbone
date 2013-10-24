@@ -1,5 +1,4 @@
-Sphaerella erotalariae Petch SPECIES
-=======
+# Sphaerella erotalariae Petch SPECIES
 
 #### Status
 ACCEPTED

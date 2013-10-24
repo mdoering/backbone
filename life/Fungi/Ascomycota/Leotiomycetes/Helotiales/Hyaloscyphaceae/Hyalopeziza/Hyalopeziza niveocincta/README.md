@@ -1,14 +1,13 @@
-Hyalotricha niveocincta Graddon, 1974 SPECIES
-=======
+# Hyalopeziza niveocincta (Graddon) Raschle, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 63(3): 475 (1974)
+Sydowia 29(1-6): 202 (1977)
 
 #### Original name
 Hyalotricha niveocincta Graddon, 1974

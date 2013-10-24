@@ -1,5 +1,4 @@
-Technitella spiculosa Zheng & Fu, 2001 SPECIES
-=======
+# Technitella spiculosa Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

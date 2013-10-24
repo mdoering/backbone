@@ -1,5 +1,4 @@
-Gloeoasterostroma sordidum Rick, 1938 SPECIES
-=======
+# Gloeoasterostroma sordidum Rick, 1938 SPECIES
 
 #### Status
 ACCEPTED

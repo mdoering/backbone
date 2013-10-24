@@ -1,5 +1,4 @@
-Lembus elongatus Claparède & Lachmann, 1859 SPECIES
-=======
+# Lembus elongatus Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

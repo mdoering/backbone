@@ -1,17 +1,16 @@
-Agaricus roridus var. stillans Fr. VARIETY
-=======
+# Roridomyces roridus (Scop.) Rexer, 1994 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 156 (1821)
+Die Gattung Mycena s. l. (Tübingen), Studien zu Ihrer Anatomie, Morphologie und Systematik 132 (1994)
 
 #### Original name
-Agaricus roridus var. stillans Fr.
+Agaricus roridus Scop., 1772
 
 ### Remarks
 null

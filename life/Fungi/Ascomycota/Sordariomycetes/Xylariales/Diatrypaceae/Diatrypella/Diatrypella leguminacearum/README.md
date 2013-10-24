@@ -1,5 +1,4 @@
-Diatrypella leguminacearum M.S. Patil SPECIES
-=======
+# Diatrypella leguminacearum M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

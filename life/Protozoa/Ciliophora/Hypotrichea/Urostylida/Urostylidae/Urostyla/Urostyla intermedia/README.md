@@ -1,5 +1,4 @@
-Urostyla intermedia SPECIES
-=======
+# Urostyla intermedia SPECIES
 
 #### Status
 ACCEPTED

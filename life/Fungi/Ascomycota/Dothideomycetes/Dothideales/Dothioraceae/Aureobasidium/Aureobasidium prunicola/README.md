@@ -1,5 +1,4 @@
-Aureobasidium prunicola (Ellis & Everh.) Herm.-Nijh. SPECIES
-=======
+# Aureobasidium prunicola (Ellis & Everh.) Herm.-Nijh. SPECIES
 
 #### Status
 ACCEPTED

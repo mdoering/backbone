@@ -1,5 +1,4 @@
-Xylaria hercules Speg. SPECIES
-=======
+# Xylaria hercules Speg. SPECIES
 
 #### Status
 ACCEPTED

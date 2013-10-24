@@ -1,5 +1,4 @@
-Paenibacillus illinoisensis Shida et al., 1997 SPECIES
-=======
+# Paenibacillus illinoisensis Shida et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia nevodovskii Gamalizk. SPECIES
-=======
+# Puccinia nevodovskii Gamalizk. SPECIES
 
 #### Status
 ACCEPTED

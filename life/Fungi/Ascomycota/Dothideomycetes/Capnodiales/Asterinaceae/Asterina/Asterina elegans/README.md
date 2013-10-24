@@ -1,5 +1,4 @@
-Asterina elegans Doidge SPECIES
-=======
+# Asterina elegans Doidge SPECIES
 
 #### Status
 ACCEPTED

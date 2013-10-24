@@ -1,5 +1,4 @@
-Lamprospora brevispinosa Seaver SPECIES
-=======
+# Lamprospora brevispinosa Seaver SPECIES
 
 #### Status
 ACCEPTED

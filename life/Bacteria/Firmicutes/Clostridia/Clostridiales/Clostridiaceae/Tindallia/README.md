@@ -1,5 +1,4 @@
-Tindallia Kevbrin et al., 1999 GENUS
-=======
+# Tindallia Kevbrin et al., 1999 GENUS
 
 #### Status
 ACCEPTED

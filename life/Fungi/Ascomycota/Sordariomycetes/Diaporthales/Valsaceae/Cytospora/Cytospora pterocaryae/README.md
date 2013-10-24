@@ -1,5 +1,4 @@
-Cytospora pterocaryae Gonz. Frag. SPECIES
-=======
+# Cytospora pterocaryae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

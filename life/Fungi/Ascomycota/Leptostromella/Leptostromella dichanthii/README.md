@@ -1,17 +1,16 @@
-Leptostromella dicanthii S. Ahmad SPECIES
-=======
+# Leptostromella dichanthii S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 17(1): 18 (1971)
 
 #### Original name
-Leptostromella dicanthii S. Ahmad
+Leptostromella dichanthii S. Ahmad
 
 ### Remarks
 null

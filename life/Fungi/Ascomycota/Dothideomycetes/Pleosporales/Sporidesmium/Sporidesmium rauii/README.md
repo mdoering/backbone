@@ -1,5 +1,4 @@
-Sporidesmium rauii Ellis & Harkn. SPECIES
-=======
+# Sporidesmium rauii Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

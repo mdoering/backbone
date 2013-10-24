@@ -1,5 +1,4 @@
-Aggregata octopiana (Schneider, 1875) Frenzel, 1885 SPECIES
-=======
+# Aggregata octopiana (Schneider, 1875) Frenzel, 1885 SPECIES
 
 #### Status
 ACCEPTED

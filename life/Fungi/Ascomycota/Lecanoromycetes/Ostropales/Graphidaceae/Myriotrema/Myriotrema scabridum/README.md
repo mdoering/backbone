@@ -1,5 +1,4 @@
-Myriotrema scabridum (Hale) Hale SPECIES
-=======
+# Myriotrema scabridum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

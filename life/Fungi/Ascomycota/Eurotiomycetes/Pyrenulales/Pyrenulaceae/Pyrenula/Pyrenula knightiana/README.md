@@ -1,5 +1,4 @@
-Pyrenula knightiana Müll. Arg. SPECIES
-=======
+# Pyrenula knightiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

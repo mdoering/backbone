@@ -1,5 +1,4 @@
-Ceratolithoides quadriarcuatus SPECIES
-=======
+# Ceratolithoides quadriarcuatus SPECIES
 
 #### Status
 ACCEPTED

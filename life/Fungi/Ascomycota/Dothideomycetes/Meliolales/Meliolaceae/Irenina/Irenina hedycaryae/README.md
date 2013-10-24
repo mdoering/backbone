@@ -1,5 +1,4 @@
-Irenina hedycaryae Hansf. SPECIES
-=======
+# Irenina hedycaryae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma subcommune Murrill SPECIES
-=======
+# Entoloma subcommune Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Plagiostigme brenesii (Petr.) E. Müll., 1962 SPECIES
-=======
+# Bioporthe brenesii Petr., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 734 (1962)
+Annls mycol. 27(1/2): 24 (1929)
 
 #### Original name
 Bioporthe brenesii Petr., 1929

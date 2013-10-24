@@ -1,5 +1,4 @@
-Lagenula euchlora Ehrenberg SPECIES
-=======
+# Lagenula euchlora Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

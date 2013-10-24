@@ -1,5 +1,4 @@
-Xanthoparmelia yowaensis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia yowaensis Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

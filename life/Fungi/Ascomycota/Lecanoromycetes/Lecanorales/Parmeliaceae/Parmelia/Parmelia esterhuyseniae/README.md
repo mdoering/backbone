@@ -1,5 +1,4 @@
-Parmelia esterhuyseniae (Hale) Brusse SPECIES
-=======
+# Parmelia esterhuyseniae (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

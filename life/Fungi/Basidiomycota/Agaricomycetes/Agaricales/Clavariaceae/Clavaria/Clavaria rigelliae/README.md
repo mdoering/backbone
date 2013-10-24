@@ -1,5 +1,4 @@
-Clavaria rigelliae Velen. SPECIES
-=======
+# Clavaria rigelliae Velen. SPECIES
 
 #### Status
 ACCEPTED

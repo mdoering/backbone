@@ -1,5 +1,4 @@
-Epicyta ampliata Syd. SPECIES
-=======
+# Epicyta ampliata Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia palicoureae Mains SPECIES
-=======
+# Puccinia palicoureae Mains SPECIES
 
 #### Status
 ACCEPTED

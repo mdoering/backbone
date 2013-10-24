@@ -1,5 +1,4 @@
-Lecidea orphnaea Tuck. SPECIES
-=======
+# Lecidea orphnaea Tuck. SPECIES
 
 #### Status
 ACCEPTED

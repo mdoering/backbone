@@ -1,5 +1,4 @@
-Puccinia pagana Arthur SPECIES
-=======
+# Puccinia pagana Arthur SPECIES
 
 #### Status
 ACCEPTED

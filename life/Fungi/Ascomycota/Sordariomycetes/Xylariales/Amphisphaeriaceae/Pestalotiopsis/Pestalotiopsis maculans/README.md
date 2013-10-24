@@ -1,14 +1,13 @@
-Pestalotia maculans (Corda) S. Hughes, 1958 SPECIES
-=======
+# Pestalotiopsis maculans (Corda) Nag Raj, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 36: 795 (1958)
+Mycotaxon 22(1): 47 (1985)
 
 #### Original name
 Sporocadus maculans Corda, 1839

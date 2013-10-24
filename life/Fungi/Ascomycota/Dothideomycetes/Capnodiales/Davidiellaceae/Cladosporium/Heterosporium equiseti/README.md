@@ -1,5 +1,4 @@
-Heterosporium equiseti H.C. Greene SPECIES
-=======
+# Heterosporium equiseti H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

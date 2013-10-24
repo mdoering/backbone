@@ -1,5 +1,4 @@
-Phakopsora sterculiae Nag Raj, Govindu & Thirum. SPECIES
-=======
+# Phakopsora sterculiae Nag Raj, Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

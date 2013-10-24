@@ -1,5 +1,4 @@
-Anthosphaera quadricornu (J Schiller) Halldal & Markali SPECIES
-=======
+# Anthosphaera quadricornu (J Schiller) Halldal & Markali SPECIES
 
 #### Status
 ACCEPTED

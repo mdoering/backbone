@@ -1,5 +1,4 @@
-Microthyrium baccarum Rehm SPECIES
-=======
+# Microthyrium baccarum Rehm SPECIES
 
 #### Status
 ACCEPTED

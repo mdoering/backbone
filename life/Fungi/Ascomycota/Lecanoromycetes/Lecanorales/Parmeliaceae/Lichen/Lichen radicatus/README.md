@@ -1,5 +1,4 @@
-Lichen radicatus Vill. SPECIES
-=======
+# Lichen radicatus Vill. SPECIES
 
 #### Status
 ACCEPTED

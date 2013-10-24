@@ -1,14 +1,13 @@
-Trichosporum masseei Sacc. SPECIES
-=======
+# Acremonium masseei (Sacc.) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 22: 1356 (1913)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 83 (1971)
 
 #### Original name
 Trichosporum masseei Sacc.

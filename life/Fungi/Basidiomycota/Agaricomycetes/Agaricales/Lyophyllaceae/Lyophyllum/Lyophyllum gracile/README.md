@@ -1,5 +1,4 @@
-Lyophyllum gracile Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum gracile Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

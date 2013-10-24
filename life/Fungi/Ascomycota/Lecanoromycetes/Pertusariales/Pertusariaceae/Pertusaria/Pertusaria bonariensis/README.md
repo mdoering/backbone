@@ -1,5 +1,4 @@
-Pertusaria bonariensis Malme SPECIES
-=======
+# Pertusaria bonariensis Malme SPECIES
 
 #### Status
 ACCEPTED

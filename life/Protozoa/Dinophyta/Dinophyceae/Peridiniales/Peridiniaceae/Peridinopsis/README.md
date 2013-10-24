@@ -1,5 +1,4 @@
-Peridinopsis Clark, 1866 GENUS
-=======
+# Peridinopsis Clark, 1866 GENUS
 
 #### Status
 ACCEPTED

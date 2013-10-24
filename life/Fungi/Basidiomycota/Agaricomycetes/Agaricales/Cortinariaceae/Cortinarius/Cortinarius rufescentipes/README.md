@@ -1,5 +1,4 @@
-Cortinarius rufescentipes Bidaud SPECIES
-=======
+# Cortinarius rufescentipes Bidaud SPECIES
 
 #### Status
 ACCEPTED

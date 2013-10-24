@@ -1,5 +1,4 @@
-Caloplaca concreticola Vondrák & Khodos. SPECIES
-=======
+# Caloplaca concreticola Vondrák & Khodos. SPECIES
 
 #### Status
 ACCEPTED

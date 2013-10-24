@@ -1,5 +1,4 @@
-Physcia ticinensis (Mereschk.) Frey SPECIES
-=======
+# Physcia ticinensis (Mereschk.) Frey SPECIES
 
 #### Status
 ACCEPTED

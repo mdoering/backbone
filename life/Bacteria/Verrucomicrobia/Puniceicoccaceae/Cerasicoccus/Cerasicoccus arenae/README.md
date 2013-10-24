@@ -1,5 +1,4 @@
-Cerasicoccus arenae Yoon, Matsuo, Matsuda, Adachi, Kasai & Yokota, 2007 SPECIES
-=======
+# Cerasicoccus arenae Yoon, Matsuo, Matsuda, Adachi, Kasai & Yokota, 2007 SPECIES
 
 #### Status
 ACCEPTED

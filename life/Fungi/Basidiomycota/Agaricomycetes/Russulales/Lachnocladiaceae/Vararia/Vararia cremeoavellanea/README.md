@@ -1,5 +1,4 @@
-Vararia cremeoavellanea Pouzar, 1982 SPECIES
-=======
+# Vararia cremeoavellanea Pouzar, 1982 SPECIES
 
 #### Status
 ACCEPTED

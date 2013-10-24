@@ -1,5 +1,4 @@
-Cortinarius tremulinus (Velen.) Rob. Henry SPECIES
-=======
+# Cortinarius tremulinus (Velen.) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

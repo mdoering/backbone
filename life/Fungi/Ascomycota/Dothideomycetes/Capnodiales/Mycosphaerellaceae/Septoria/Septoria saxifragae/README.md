@@ -1,5 +1,4 @@
-Septoria saxifragae f. saxifragae FORM
-=======
+# Septoria saxifragae Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria saxifragae f. saxifragae
+Septoria saxifragae Pass.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Candida fimetaria var. diversa VARIETY
-=======
+# Candida diversa Y. Ohara, Nonom. & Yunome ex Uden & H.R. Buckley, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lodder, Yeasts, a taxonomic study (Amsterdam), 2nd Edn 958 (1970)
 
 #### Original name
-Candida fimetaria var. diversa
+Candida diversa Y. Ohara, Nonom. & Yunome ex Uden & H.R. Buckley, 1970
 
 ### Remarks
 null

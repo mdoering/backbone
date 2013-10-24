@@ -1,5 +1,4 @@
-Cyrtopsis fumosa Vain., 1921 SPECIES
-=======
+# Cyrtopsis fumosa Vain., 1921 SPECIES
 
 #### Status
 ACCEPTED

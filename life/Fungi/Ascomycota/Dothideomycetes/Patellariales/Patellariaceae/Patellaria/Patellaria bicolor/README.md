@@ -1,5 +1,4 @@
-Patellaria bicolor P. Karst. SPECIES
-=======
+# Patellaria bicolor P. Karst. SPECIES
 
 #### Status
 ACCEPTED

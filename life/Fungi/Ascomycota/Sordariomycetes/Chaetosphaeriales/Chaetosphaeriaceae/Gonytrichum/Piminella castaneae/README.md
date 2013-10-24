@@ -1,5 +1,4 @@
-Piminella castaneae G. Arnaud SPECIES
-=======
+# Piminella castaneae G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia diffractaica Hale SPECIES
-=======
+# Xanthoparmelia diffractaica Hale SPECIES
 
 #### Status
 ACCEPTED

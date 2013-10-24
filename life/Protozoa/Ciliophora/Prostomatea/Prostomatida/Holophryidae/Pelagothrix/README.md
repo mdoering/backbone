@@ -1,5 +1,4 @@
-Pelagothrix Foissner, Berger & Schaumburg, 1999 GENUS
-=======
+# Pelagothrix Foissner, Berger & Schaumburg, 1999 GENUS
 
 #### Status
 ACCEPTED

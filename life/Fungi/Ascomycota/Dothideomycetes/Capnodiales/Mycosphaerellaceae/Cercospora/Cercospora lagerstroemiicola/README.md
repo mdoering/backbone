@@ -1,5 +1,4 @@
-Cercospora lagerstroemiicola Sawada SPECIES
-=======
+# Cercospora lagerstroemiicola Sawada SPECIES
 
 #### Status
 ACCEPTED

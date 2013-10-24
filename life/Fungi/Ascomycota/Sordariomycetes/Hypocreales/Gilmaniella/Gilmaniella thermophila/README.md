@@ -1,5 +1,4 @@
-Gilmaniella thermophila M. Qureshi & J.H. Mirza, 1983 SPECIES
-=======
+# Gilmaniella thermophila M. Qureshi & J.H. Mirza, 1983 SPECIES
 
 #### Status
 ACCEPTED

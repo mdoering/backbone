@@ -1,5 +1,4 @@
-Hysterium verbasci Schwein. ex Duby SPECIES
-=======
+# Hysterium verbasci Schwein. ex Duby SPECIES
 
 #### Status
 ACCEPTED

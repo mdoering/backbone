@@ -1,14 +1,13 @@
-Naemacyclus gilvus Rodway, 1918 SPECIES
-=======
+# Marthamyces gilvus (Rodway) P.R. Johnst., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 107 (1918)
+Aust. Syst. Bot. 19(2): 140 (2006)
 
 #### Original name
 Naemacyclus gilvus Rodway, 1918

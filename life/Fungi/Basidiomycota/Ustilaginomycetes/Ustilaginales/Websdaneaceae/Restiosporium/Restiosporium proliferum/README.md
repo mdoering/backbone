@@ -1,5 +1,4 @@
-Restiosporium proliferum Vánky, 2006 SPECIES
-=======
+# Restiosporium proliferum Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

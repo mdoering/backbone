@@ -1,5 +1,4 @@
-Panellus globisporus Z.S. Bi SPECIES
-=======
+# Panellus globisporus Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia praetervisa var. praetervisa VARIETY
-=======
+# Parmelia praetervisa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia praetervisa var. praetervisa
+Parmelia praetervisa Müll. Arg.
 
 ### Remarks
 null

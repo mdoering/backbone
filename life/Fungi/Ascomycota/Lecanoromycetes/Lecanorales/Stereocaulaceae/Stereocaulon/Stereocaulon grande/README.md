@@ -1,5 +1,4 @@
-Stereocaulon grande (H. Magn.) H. Magn. SPECIES
-=======
+# Stereocaulon grande (H. Magn.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

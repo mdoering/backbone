@@ -1,5 +1,4 @@
-Sporopodium cupuliferum (Nyl.) Vain. SPECIES
-=======
+# Sporopodium cupuliferum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

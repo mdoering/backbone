@@ -1,5 +1,4 @@
-Parvobasidium Jülich GENUS
-=======
+# Parvobasidium Jülich GENUS
 
 #### Status
 ACCEPTED

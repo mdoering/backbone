@@ -1,5 +1,4 @@
-Diplodina polygalae Hollós SPECIES
-=======
+# Diplodina polygalae Hollós SPECIES
 
 #### Status
 ACCEPTED

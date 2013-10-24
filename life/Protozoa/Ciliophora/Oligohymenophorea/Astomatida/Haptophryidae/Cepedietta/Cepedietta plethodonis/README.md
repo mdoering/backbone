@@ -1,5 +1,4 @@
-Cepedietta plethodonis Lipscomb in Puytorac, 1963 SPECIES
-=======
+# Cepedietta plethodonis Lipscomb in Puytorac, 1963 SPECIES
 
 #### Status
 ACCEPTED

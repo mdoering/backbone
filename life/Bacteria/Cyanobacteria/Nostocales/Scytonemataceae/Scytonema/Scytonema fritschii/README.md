@@ -1,5 +1,4 @@
-Scytonema fritschii S.L. Ghose SPECIES
-=======
+# Scytonema fritschii S.L. Ghose SPECIES
 
 #### Status
 ACCEPTED

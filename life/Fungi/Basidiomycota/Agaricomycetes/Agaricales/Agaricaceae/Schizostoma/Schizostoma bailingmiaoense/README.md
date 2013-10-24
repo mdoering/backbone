@@ -1,5 +1,4 @@
-Schizostoma bailingmiaoense B. Liu, Z.Y. Li & Du SPECIES
-=======
+# Schizostoma bailingmiaoense B. Liu, Z.Y. Li & Du SPECIES
 
 #### Status
 ACCEPTED

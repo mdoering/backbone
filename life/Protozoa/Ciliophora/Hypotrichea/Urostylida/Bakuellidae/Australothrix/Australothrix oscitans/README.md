@@ -1,5 +1,4 @@
-Australothrix oscitans SPECIES
-=======
+# Australothrix oscitans SPECIES
 
 #### Status
 ACCEPTED

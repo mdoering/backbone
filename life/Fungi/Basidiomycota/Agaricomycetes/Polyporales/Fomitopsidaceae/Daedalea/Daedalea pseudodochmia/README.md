@@ -1,5 +1,4 @@
-Daedalea pseudodochmia (Corner) T. Hatt. SPECIES
-=======
+# Daedalea pseudodochmia (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

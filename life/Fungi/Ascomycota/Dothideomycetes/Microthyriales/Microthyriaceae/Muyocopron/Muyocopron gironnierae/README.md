@@ -1,5 +1,4 @@
-Muyocopron gironnierae Har. & P. Karst. SPECIES
-=======
+# Muyocopron gironnierae Har. & P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Georgenia muralis Altenburger et al., 2002 SPECIES
-=======
+# Georgenia muralis Altenburger et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

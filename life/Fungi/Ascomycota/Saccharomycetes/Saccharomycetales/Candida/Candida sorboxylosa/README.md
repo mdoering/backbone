@@ -1,5 +1,4 @@
-Candida sorboxylosa Nakase, 1971 SPECIES
-=======
+# Candida sorboxylosa Nakase, 1971 SPECIES
 
 #### Status
 ACCEPTED

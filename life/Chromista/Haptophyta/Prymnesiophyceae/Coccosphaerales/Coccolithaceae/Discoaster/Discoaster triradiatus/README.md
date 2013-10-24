@@ -1,5 +1,4 @@
-Discoaster triradiatus Tan, 1927 SPECIES
-=======
+# Discoaster triradiatus Tan, 1927 SPECIES
 
 #### Status
 ACCEPTED

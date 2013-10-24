@@ -1,5 +1,4 @@
-Lecanora demangei Hue SPECIES
-=======
+# Lecanora demangei Hue SPECIES
 
 #### Status
 ACCEPTED

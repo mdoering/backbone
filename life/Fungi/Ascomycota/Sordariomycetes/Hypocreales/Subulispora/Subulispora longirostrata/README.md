@@ -1,5 +1,4 @@
-Subulispora longirostrata Nawawi & Kuthub. SPECIES
-=======
+# Subulispora longirostrata Nawawi & Kuthub. SPECIES
 
 #### Status
 ACCEPTED

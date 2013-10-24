@@ -1,17 +1,16 @@
-Polyporus niaouli (Pat.) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Phellinus rimosus (Berk.) Pilát, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 109 (1905)
+Annls mycol. 38(1): 80 (1940)
 
 #### Original name
-Xanthochrous niaouli Pat., 1901
+Polyporus rimosus Berk., 1845
 
 ### Remarks
 null

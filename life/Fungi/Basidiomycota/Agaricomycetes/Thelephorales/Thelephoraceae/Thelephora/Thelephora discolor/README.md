@@ -1,5 +1,4 @@
-Thelephora discolor Zoll. SPECIES
-=======
+# Thelephora discolor Zoll. SPECIES
 
 #### Status
 ACCEPTED

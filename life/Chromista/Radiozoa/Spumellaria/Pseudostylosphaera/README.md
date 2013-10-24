@@ -1,5 +1,4 @@
-Pseudostylosphaera GENUS
-=======
+# Pseudostylosphaera GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella homalanthi Syd. & P. Syd. SPECIES
-=======
+# Mycosphaerella homalanthi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

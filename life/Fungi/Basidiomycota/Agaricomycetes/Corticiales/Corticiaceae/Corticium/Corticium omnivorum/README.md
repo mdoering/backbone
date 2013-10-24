@@ -1,5 +1,4 @@
-Corticium omnivorum Viégas SPECIES
-=======
+# Corticium omnivorum Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora digitalidis P.K. Chi & C.K. Pai SPECIES
-=======
+# Cercospora digitalis P.K. Chi & C.K. Pai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta phytotax. sin. 10: 113 (1966)
 
 #### Original name
-Cercospora digitalidis P.K. Chi & C.K. Pai
+Cercospora digitalis P.K. Chi & C.K. Pai
 
 ### Remarks
 null

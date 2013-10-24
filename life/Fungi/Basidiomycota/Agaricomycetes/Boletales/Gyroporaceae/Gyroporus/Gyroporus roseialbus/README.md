@@ -1,5 +1,4 @@
-Gyroporus roseialbus Murrill SPECIES
-=======
+# Gyroporus roseialbus Murrill SPECIES
 
 #### Status
 ACCEPTED

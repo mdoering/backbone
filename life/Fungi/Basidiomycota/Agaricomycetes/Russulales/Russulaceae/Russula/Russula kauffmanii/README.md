@@ -1,5 +1,4 @@
-Russula kauffmanii Jul. Schäff. SPECIES
-=======
+# Russula kauffmanii Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

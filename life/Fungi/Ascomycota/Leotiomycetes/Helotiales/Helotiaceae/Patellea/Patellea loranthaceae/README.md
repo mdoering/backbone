@@ -1,5 +1,4 @@
-Patellea loranthaceae Henn. SPECIES
-=======
+# Patellea loranthaceae Henn. SPECIES
 
 #### Status
 ACCEPTED

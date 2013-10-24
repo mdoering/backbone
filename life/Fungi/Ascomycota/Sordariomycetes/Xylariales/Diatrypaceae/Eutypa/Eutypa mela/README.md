@@ -1,5 +1,4 @@
-Eutypa mela (Schwein.) Cooke SPECIES
-=======
+# Eutypa mela (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

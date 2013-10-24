@@ -1,5 +1,4 @@
-Pertusaria cinereocarneola Harm. SPECIES
-=======
+# Pertusaria cinereocarneola Harm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia dilatata var. guayacana Fée VARIETY
-=======
+# Arthonia dilatata Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthonia dilatata var. guayacana Fée
+Arthonia dilatata Fée
 
 ### Remarks
 null

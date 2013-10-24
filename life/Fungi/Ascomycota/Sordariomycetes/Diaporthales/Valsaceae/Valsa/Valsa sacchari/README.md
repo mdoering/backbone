@@ -1,5 +1,4 @@
-Valsa sacchari Stevenson {?} SPECIES
-=======
+# Valsa sacchari Stevenson {?} SPECIES
 
 #### Status
 ACCEPTED

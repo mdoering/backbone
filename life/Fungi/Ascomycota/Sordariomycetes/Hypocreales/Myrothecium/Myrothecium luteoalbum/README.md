@@ -1,5 +1,4 @@
-Myrothecium luteoalbum Bonord. SPECIES
-=======
+# Myrothecium luteoalbum Bonord. SPECIES
 
 #### Status
 ACCEPTED

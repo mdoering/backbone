@@ -1,5 +1,4 @@
-Nannoconus Kamptner, 1931 GENUS
-=======
+# Nannoconus Kamptner, 1931 GENUS
 
 #### Status
 ACCEPTED

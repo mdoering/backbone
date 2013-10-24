@@ -1,5 +1,4 @@
-Cheiromyces digitatus G.W. Martin SPECIES
-=======
+# Cheiromyces digitatus G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

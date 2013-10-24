@@ -1,5 +1,4 @@
-Scyphosphaera martinii Jafar, 1975 SPECIES
-=======
+# Scyphosphaera martinii Jafar, 1975 SPECIES
 
 #### Status
 ACCEPTED

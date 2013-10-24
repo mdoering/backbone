@@ -1,5 +1,4 @@
-Lecidea superans Nyl. SPECIES
-=======
+# Lecidea superans Nyl. SPECIES
 
 #### Status
 ACCEPTED

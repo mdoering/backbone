@@ -1,5 +1,4 @@
-Micropsalliota albosericea Heinem. & Leelav. SPECIES
-=======
+# Micropsalliota albosericea Heinem. & Leelav. SPECIES
 
 #### Status
 ACCEPTED

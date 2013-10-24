@@ -1,5 +1,4 @@
-Lepiota exannulata G.H. Otth SPECIES
-=======
+# Lepiota exannulata G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

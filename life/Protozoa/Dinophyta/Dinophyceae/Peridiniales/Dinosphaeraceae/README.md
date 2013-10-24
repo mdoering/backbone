@@ -1,5 +1,4 @@
-Dinosphaeraceae Lindemann, 1928 FAMILY
-=======
+# Dinosphaeraceae Lindemann, 1928 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kurthia sibirica Belikova et al., 1988 SPECIES
-=======
+# Kurthia sibirica Belikova et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

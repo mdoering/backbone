@@ -1,5 +1,4 @@
-Asteridiella cordiae Hansf. & Deighton SPECIES
-=======
+# Asteridiella cordiae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

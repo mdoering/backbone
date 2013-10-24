@@ -1,5 +1,4 @@
-Agaricus striipes Cooke SPECIES
-=======
+# Agaricus striipes Cooke SPECIES
 
 #### Status
 ACCEPTED

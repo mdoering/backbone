@@ -1,14 +1,13 @@
-Aspicilia ochrolemma (Vain.) Hue SPECIES
-=======
+# Porpidia ochrolemma (Vain.) Brodo & R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Brodo, Mycotaxon 56: 161 (1995)
 
 #### Original name
 Pertusaria ochrolemma Vain.

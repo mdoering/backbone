@@ -1,5 +1,4 @@
-Schizothyrium commutatum Sacc. SPECIES
-=======
+# Schizothyrium commutatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

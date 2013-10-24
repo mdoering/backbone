@@ -1,5 +1,4 @@
-Laevigella C.A. Kofoid & O. Swezy, 1921 GENUS
-=======
+# Laevigella C.A. Kofoid & O. Swezy, 1921 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum trichophilum Syd. SPECIES
-=======
+# Lachnum trichophilum Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kelleromyxa Eliasson GENUS
-=======
+# Kelleromyxa Eliasson GENUS
 
 #### Status
 ACCEPTED

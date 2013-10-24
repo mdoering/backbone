@@ -1,5 +1,4 @@
-Tolypothrix cavernicola Weber-van Bosse SPECIES
-=======
+# Tolypothrix cavernicola Weber-van Bosse SPECIES
 
 #### Status
 ACCEPTED

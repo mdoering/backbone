@@ -1,5 +1,4 @@
-Panus foetens Fr. SPECIES
-=======
+# Panus foetens Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria vaccariae Bond.-Mont. SPECIES
-=======
+# Septoria vaccariae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

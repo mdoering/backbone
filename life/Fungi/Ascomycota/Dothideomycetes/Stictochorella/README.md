@@ -1,5 +1,4 @@
-Stictochorella GENUS
-=======
+# Stictochorella GENUS
 
 #### Status
 ACCEPTED

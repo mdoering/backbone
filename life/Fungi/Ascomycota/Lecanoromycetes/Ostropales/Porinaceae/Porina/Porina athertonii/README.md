@@ -1,5 +1,4 @@
-Porina athertonii Sipman SPECIES
-=======
+# Porina athertonii Sipman SPECIES
 
 #### Status
 ACCEPTED

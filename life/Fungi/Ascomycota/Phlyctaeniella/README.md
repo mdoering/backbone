@@ -1,5 +1,4 @@
-Phlyctaeniella Petr. GENUS
-=======
+# Phlyctaeniella Petr. GENUS
 
 #### Status
 ACCEPTED

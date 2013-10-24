@@ -1,5 +1,4 @@
-Diconodinium tenuistriatum Eisenack & Cookson, 1960 SPECIES
-=======
+# Diconodinium tenuistriatum Eisenack & Cookson, 1960 SPECIES
 
 #### Status
 ACCEPTED

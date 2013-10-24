@@ -1,5 +1,4 @@
-Favolaschia furfurella Singer, 1974 SPECIES
-=======
+# Favolaschia furfurella Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

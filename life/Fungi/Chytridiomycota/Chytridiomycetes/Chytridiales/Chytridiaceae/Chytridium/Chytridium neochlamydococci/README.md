@@ -1,5 +1,4 @@
-Chytridium neochlamydococci Kobayasi & M. Ôkubo SPECIES
-=======
+# Chytridium neochlamydococci Kobayasi & M. Ôkubo SPECIES
 
 #### Status
 ACCEPTED

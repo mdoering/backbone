@@ -1,5 +1,4 @@
-Hypotrachyna pseudolopezii Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna pseudolopezii Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

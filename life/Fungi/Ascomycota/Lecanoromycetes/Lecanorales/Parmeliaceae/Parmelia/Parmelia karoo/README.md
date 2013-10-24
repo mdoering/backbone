@@ -1,5 +1,4 @@
-Parmelia karoo (M.D.E. Knox & Brusse) Brusse SPECIES
-=======
+# Parmelia karoo (M.D.E. Knox & Brusse) Brusse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella undulata (Dons, 1916) Kahl, 1935 SPECIES
-=======
+# Vorticella undulata (Dons, 1916) Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora lardaria Cavara SPECIES
-=======
+# Oospora lardaria Cavara SPECIES
 
 #### Status
 ACCEPTED

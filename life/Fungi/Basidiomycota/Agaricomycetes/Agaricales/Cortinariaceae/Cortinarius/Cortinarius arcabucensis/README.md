@@ -1,5 +1,4 @@
-Cortinarius arcabucensis M.M. Moser SPECIES
-=======
+# Cortinarius arcabucensis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

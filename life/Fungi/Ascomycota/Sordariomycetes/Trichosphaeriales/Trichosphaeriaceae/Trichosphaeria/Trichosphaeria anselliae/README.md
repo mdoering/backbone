@@ -1,5 +1,4 @@
-Trichosphaeria anselliae É.J. Marchal SPECIES
-=======
+# Trichosphaeria anselliae É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

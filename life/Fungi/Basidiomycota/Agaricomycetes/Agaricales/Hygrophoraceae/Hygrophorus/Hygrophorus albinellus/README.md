@@ -1,5 +1,4 @@
-Hygrophorus albinellus Largent SPECIES
-=======
+# Hygrophorus albinellus Largent SPECIES
 
 #### Status
 ACCEPTED

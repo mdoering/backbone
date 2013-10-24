@@ -1,5 +1,4 @@
-Mycosphaerella alarum (Ellis & Halst.) Hara SPECIES
-=======
+# Mycosphaerella alarum (Ellis & Halst.) Hara SPECIES
 
 #### Status
 ACCEPTED

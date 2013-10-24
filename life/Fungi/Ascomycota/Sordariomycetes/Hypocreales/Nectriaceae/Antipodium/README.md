@@ -1,5 +1,4 @@
-Antipodium Piroz. GENUS
-=======
+# Antipodium Piroz. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guelichia Speg. GENUS
-=======
+# Guelichia Speg. GENUS
 
 #### Status
 ACCEPTED

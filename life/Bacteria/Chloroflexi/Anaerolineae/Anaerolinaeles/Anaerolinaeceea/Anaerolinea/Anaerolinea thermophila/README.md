@@ -1,5 +1,4 @@
-Anaerolinea thermophila Sekiguchi et al., 2003 SPECIES
-=======
+# Anaerolinea thermophila Sekiguchi et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

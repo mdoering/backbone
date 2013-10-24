@@ -1,5 +1,4 @@
-Phoma hedysarina Garb. SPECIES
-=======
+# Phoma hedysarina Garb. SPECIES
 
 #### Status
 ACCEPTED

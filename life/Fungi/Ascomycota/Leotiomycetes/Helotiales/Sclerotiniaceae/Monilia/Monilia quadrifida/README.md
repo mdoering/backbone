@@ -1,5 +1,4 @@
-Monilia quadrifida (Link) Pers. SPECIES
-=======
+# Monilia quadrifida (Link) Pers. SPECIES
 
 #### Status
 ACCEPTED

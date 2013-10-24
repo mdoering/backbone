@@ -1,5 +1,4 @@
-Didymosphaeria oregonensis Goodd. SPECIES
-=======
+# Didymosphaeria oregonensis Goodd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trigonosphaera Feng, 2004 GENUS
-=======
+# Trigonosphaera Feng, 2004 GENUS
 
 #### Status
 ACCEPTED

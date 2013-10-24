@@ -1,5 +1,4 @@
-Pythium haplomitri Lilienfeld SPECIES
-=======
+# Pythium haplomitri Lilienfeld SPECIES
 
 #### Status
 ACCEPTED

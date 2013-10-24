@@ -1,5 +1,4 @@
-Gremmeniella pinicola (H. Kondo & Tak. Kobay.) M. Morelet SPECIES
-=======
+# Gremmeniella pinicola (H. Kondo & Tak. Kobay.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

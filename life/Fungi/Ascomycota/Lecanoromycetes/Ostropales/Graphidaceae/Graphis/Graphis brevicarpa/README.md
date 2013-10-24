@@ -1,5 +1,4 @@
-Graphis brevicarpa M. Nakan., Kashiw. & K.H. Moon SPECIES
-=======
+# Graphis brevicarpa M. Nakan., Kashiw. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

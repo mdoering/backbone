@@ -1,5 +1,4 @@
-Lecidea camptocarpa Tuck. SPECIES
-=======
+# Lecidea camptocarpa Tuck. SPECIES
 
 #### Status
 ACCEPTED

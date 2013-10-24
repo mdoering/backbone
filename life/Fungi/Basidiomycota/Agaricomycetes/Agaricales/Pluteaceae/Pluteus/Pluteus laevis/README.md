@@ -1,5 +1,4 @@
-Pluteus laevis Velen. SPECIES
-=======
+# Pluteus laevis Velen. SPECIES
 
 #### Status
 ACCEPTED

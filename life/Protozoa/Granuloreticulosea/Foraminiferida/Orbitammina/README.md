@@ -1,5 +1,4 @@
-Orbitammina Berthelin, 1893 GENUS
-=======
+# Orbitammina Berthelin, 1893 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endothia Fr. GENUS
-=======
+# Endothia Fr. GENUS
 
 #### Status
 ACCEPTED

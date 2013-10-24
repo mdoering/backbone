@@ -1,5 +1,4 @@
-Asporomyces GENUS
-=======
+# Asporomyces GENUS
 
 #### Status
 ACCEPTED

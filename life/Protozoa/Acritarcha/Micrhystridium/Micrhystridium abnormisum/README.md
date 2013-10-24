@@ -1,5 +1,4 @@
-Micrhystridium abnormisum (Yin Leiming, 1986) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Micrhystridium abnormisum (Yin Leiming, 1986) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

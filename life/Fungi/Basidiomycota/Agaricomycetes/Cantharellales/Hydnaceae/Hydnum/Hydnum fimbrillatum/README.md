@@ -1,5 +1,4 @@
-Hydnum fimbrillatum Iwade SPECIES
-=======
+# Hydnum fimbrillatum Iwade SPECIES
 
 #### Status
 ACCEPTED

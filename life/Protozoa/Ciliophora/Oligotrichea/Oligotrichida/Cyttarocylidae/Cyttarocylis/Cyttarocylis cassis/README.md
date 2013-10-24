@@ -1,8 +1,7 @@
-Dictyocysta cassis Haeckel, 1873 SPECIES
-=======
+# Cyttarocylis cassis (Haeckel, 1873) Fol, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

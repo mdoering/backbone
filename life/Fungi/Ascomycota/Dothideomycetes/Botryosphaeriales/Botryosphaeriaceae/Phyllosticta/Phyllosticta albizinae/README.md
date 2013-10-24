@@ -1,5 +1,4 @@
-Phyllosticta albizinae V.G. Rao SPECIES
-=======
+# Phyllosticta albizinae V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

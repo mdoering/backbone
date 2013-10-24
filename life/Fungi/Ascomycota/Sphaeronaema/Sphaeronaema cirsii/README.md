@@ -1,5 +1,4 @@
-Sphaeronaema cirsii Lasch SPECIES
-=======
+# Sphaeronaema cirsii Lasch SPECIES
 
 #### Status
 ACCEPTED

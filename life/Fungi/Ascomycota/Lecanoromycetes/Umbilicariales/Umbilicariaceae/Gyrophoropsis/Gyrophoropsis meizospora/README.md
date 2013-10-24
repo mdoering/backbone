@@ -1,5 +1,4 @@
-Gyrophoropsis meizospora (Harm.) M. Choisy SPECIES
-=======
+# Gyrophoropsis meizospora (Harm.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

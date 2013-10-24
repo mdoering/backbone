@@ -1,5 +1,4 @@
-Cothurniopsis richtersi SPECIES
-=======
+# Cothurniopsis richtersi SPECIES
 
 #### Status
 ACCEPTED

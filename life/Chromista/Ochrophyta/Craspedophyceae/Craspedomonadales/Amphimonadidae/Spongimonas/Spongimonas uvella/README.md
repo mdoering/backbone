@@ -1,5 +1,4 @@
-Spongimonas uvella SPECIES
-=======
+# Spongimonas uvella SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastochloris Hiraishi, 1997 GENUS
-=======
+# Blastochloris Hiraishi, 1997 GENUS
 
 #### Status
 ACCEPTED

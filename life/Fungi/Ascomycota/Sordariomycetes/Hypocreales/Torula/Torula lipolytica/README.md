@@ -1,5 +1,4 @@
-Torula lipolytica B.J. Jacobsen SPECIES
-=======
+# Torula lipolytica B.J. Jacobsen SPECIES
 
 #### Status
 ACCEPTED

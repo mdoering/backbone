@@ -1,5 +1,4 @@
-Exserohilum paspali J.J. Muchovej & Nesio, 1987 SPECIES
-=======
+# Exserohilum paspali J.J. Muchovej & Nesio, 1987 SPECIES
 
 #### Status
 ACCEPTED

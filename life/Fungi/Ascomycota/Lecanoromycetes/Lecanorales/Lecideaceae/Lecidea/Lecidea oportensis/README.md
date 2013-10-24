@@ -1,5 +1,4 @@
-Lecidea oportensis Vain. SPECIES
-=======
+# Lecidea oportensis Vain. SPECIES
 
 #### Status
 ACCEPTED

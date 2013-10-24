@@ -1,5 +1,4 @@
-Usnea luridorufa subsp. luridorufa Stirt. SUBSPECIES
-=======
+# Usnea luridorufa Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Scott. Natural. 6: 104 (1881)
 
 #### Original name
-Usnea luridorufa subsp. luridorufa Stirt.
+Usnea luridorufa Stirt.
 
 ### Remarks
 null

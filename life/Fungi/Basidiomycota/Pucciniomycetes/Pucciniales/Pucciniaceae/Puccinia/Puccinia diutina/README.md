@@ -1,5 +1,4 @@
-Puccinia diutina Mains & Holw. SPECIES
-=======
+# Puccinia diutina Mains & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holosticha nagasakiensis Hu & Suzuki, 2004 SPECIES
-=======
+# Holosticha nagasakiensis Hu & Suzuki, 2004 SPECIES
 
 #### Status
 ACCEPTED

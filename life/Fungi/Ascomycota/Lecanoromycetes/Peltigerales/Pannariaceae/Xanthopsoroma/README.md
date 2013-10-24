@@ -1,5 +1,4 @@
-Xanthopsoroma GENUS
-=======
+# Xanthopsoroma GENUS
 
 #### Status
 ACCEPTED

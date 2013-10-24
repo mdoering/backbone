@@ -1,5 +1,4 @@
-Puccinia pitcairniae subsp. pitcairniae SUBSPECIES
-=======
+# Puccinia pitcairniae Lagerh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Dietel & Lagerheim, Bull. Soc. mycol. Fr. 11: 214 (1895)
 
 #### Original name
-Puccinia pitcairniae subsp. pitcairniae
+Puccinia pitcairniae Lagerh.
 
 ### Remarks
 null

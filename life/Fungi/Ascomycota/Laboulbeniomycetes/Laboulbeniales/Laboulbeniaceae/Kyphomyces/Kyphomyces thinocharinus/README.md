@@ -1,5 +1,4 @@
-Kyphomyces thinocharinus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Kyphomyces thinocharinus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

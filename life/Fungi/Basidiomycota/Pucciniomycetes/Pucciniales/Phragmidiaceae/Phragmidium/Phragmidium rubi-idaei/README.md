@@ -1,17 +1,16 @@
-Physonema gyrosa (Rebent.) Biv., 1847 SPECIES
-=======
+# Phragmidium rubi-idaei (DC.) P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 31: 52 (1879)
 
 #### Original name
-null
+Puccinia rubi-idaei DC., 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola floridensis var. floridensis VARIETY
-=======
+# Meliola floridensis Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia (1957)
+Sydowia 10(1-6): 72 (1957)
 
 #### Original name
-Meliola floridensis var. floridensis
+Meliola floridensis Hansf.
 
 ### Remarks
 null

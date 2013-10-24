@@ -1,14 +1,13 @@
-Lecanora brisbanensis Zahlbr. SPECIES
-=======
+# Tephromela brisbanensis (Zahlbr.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 5: 400 (1928)
+Biblthca Lichenol. 88: 319 (2004)
 
 #### Original name
 Lecanora brisbanensis Zahlbr.

@@ -1,5 +1,4 @@
-Phomopsis zelkovae Ratiani SPECIES
-=======
+# Phomopsis zelkovae Ratiani SPECIES
 
 #### Status
 ACCEPTED

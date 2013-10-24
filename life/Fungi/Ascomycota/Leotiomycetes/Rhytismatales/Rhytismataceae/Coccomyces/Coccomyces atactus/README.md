@@ -1,5 +1,4 @@
-Coccomyces atactus Rehm, 1888 SPECIES
-=======
+# Coccomyces atactus Rehm, 1888 SPECIES
 
 #### Status
 ACCEPTED

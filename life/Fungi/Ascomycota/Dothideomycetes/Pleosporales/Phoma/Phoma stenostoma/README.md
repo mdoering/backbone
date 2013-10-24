@@ -1,5 +1,4 @@
-Phoma stenostoma Penz. SPECIES
-=======
+# Phoma stenostoma Penz. SPECIES
 
 #### Status
 ACCEPTED

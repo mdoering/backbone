@@ -1,5 +1,4 @@
-Ganoderma daiqingshanense J.D. Zhao, 1989 SPECIES
-=======
+# Ganoderma daiqingshanense J.D. Zhao, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia alveolata Kalchbr. SPECIES
-=======
+# Collybia alveolata Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

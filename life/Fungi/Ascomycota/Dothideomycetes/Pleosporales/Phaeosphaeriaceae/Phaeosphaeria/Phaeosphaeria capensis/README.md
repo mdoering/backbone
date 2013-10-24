@@ -1,5 +1,4 @@
-Phaeosphaeria capensis Steinke & K.D. Hyde, 1997 SPECIES
-=======
+# Phaeosphaeria capensis Steinke & K.D. Hyde, 1997 SPECIES
 
 #### Status
 ACCEPTED

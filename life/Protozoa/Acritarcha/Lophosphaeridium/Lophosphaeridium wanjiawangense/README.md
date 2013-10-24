@@ -1,5 +1,4 @@
-Lophosphaeridium wanjiawangense Cao Renguan et al., 1980 SPECIES
-=======
+# Lophosphaeridium wanjiawangense Cao Renguan et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

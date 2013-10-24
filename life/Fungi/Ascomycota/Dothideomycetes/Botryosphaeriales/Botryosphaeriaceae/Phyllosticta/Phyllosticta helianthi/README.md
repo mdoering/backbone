@@ -1,5 +1,4 @@
-Phyllosticta helianthi Ellis & Everh. ex H.C. Greene SPECIES
-=======
+# Phyllosticta helianthi Ellis & Everh. ex H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

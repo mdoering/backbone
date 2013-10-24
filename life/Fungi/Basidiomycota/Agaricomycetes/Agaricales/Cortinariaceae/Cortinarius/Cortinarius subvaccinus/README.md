@@ -1,5 +1,4 @@
-Cortinarius subvaccinus Rob. Henry SPECIES
-=======
+# Cortinarius subvaccinus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

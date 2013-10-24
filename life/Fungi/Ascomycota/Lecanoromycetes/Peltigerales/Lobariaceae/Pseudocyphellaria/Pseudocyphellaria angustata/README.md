@@ -1,5 +1,4 @@
-Pseudocyphellaria angustata (Delise) C.W. Dodge SPECIES
-=======
+# Pseudocyphellaria angustata (Delise) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichohelotium rosae Killerm., 1935 SPECIES
-=======
+# Trichohelotium rosae Killerm., 1935 SPECIES
 
 #### Status
 ACCEPTED

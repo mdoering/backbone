@@ -1,8 +1,7 @@
-Pseudovalsa fairmani Ellis & Everh. SPECIES
-=======
+# Pseudovalsa fairmanii Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pseudovalsa fairmani Ellis & Everh.
+Pseudovalsa fairmanii Ellis & Everh.
 
 ### Remarks
 null

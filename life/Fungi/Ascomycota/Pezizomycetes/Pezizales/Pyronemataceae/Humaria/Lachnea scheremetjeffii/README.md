@@ -1,8 +1,7 @@
-Lachnea scheremetjeffi Henn. SPECIES
-=======
+# Lachnea scheremetjeffii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lachnea scheremetjeffi Henn.
+Lachnea scheremetjeffii Henn.
 
 ### Remarks
 null

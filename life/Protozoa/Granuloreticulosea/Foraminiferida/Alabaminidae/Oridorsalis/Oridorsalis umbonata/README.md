@@ -1,8 +1,7 @@
-Rotalina umbonatus Reuss, 1851 SPECIES
-=======
+# Oridorsalis umbonata (Reuss, 1851) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

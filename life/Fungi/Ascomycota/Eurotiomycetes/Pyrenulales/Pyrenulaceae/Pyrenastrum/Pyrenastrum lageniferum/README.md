@@ -1,5 +1,4 @@
-Pyrenastrum lageniferum (Fée) Müll. Arg. SPECIES
-=======
+# Pyrenastrum lageniferum (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

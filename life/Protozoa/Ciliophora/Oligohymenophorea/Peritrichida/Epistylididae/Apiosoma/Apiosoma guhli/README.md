@@ -1,5 +1,4 @@
-Apiosoma guhli SPECIES
-=======
+# Apiosoma guhli SPECIES
 
 #### Status
 ACCEPTED

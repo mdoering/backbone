@@ -1,5 +1,4 @@
-Kuehneola andicola (Dietel & Neger) Dietel SPECIES
-=======
+# Kuehneola andicola (Dietel & Neger) Dietel SPECIES
 
 #### Status
 ACCEPTED

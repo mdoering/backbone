@@ -1,5 +1,4 @@
-Letendraea epixylaria Rick SPECIES
-=======
+# Letendraea epixylaria Rick SPECIES
 
 #### Status
 ACCEPTED

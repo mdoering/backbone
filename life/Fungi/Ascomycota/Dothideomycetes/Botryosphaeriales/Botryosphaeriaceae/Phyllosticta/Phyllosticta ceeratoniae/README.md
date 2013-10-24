@@ -1,5 +1,4 @@
-Phyllosticta ceeratoniae Berk. SPECIES
-=======
+# Phyllosticta ceeratoniae Berk. SPECIES
 
 #### Status
 ACCEPTED

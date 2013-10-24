@@ -1,5 +1,4 @@
-Vermilacinia laevigata (Rundel & Bowler) Spjut SPECIES
-=======
+# Vermilacinia laevigata (Rundel & Bowler) Spjut SPECIES
 
 #### Status
 ACCEPTED

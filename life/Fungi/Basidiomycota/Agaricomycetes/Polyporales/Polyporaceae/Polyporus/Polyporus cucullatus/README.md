@@ -1,5 +1,4 @@
-Polyporus cucullatus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus cucullatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

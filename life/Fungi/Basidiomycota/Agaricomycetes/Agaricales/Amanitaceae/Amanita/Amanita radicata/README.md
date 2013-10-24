@@ -1,5 +1,4 @@
-Amanita radicata Peck SPECIES
-=======
+# Amanita radicata Peck SPECIES
 
 #### Status
 ACCEPTED

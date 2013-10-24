@@ -1,5 +1,4 @@
-Pharcidia verrucariarum (Arnold) Sacc. & D. Sacc. SPECIES
-=======
+# Pharcidia verrucariarum (Arnold) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

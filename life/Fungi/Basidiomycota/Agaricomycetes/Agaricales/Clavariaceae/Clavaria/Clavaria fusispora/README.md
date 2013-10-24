@@ -1,5 +1,4 @@
-Clavaria fusispora (Corner) R.H. Petersen SPECIES
-=======
+# Clavaria fusispora (Corner) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

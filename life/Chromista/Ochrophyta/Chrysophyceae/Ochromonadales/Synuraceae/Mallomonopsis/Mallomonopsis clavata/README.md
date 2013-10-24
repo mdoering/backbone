@@ -1,5 +1,4 @@
-Mallomonopsis clavata Matvienko, 1941 SPECIES
-=======
+# Mallomonopsis clavata Matvienko, 1941 SPECIES
 
 #### Status
 ACCEPTED

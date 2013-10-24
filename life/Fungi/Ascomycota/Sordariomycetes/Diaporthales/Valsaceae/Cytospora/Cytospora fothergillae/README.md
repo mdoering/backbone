@@ -1,5 +1,4 @@
-Cytospora fothergillae Henn. SPECIES
-=======
+# Cytospora fothergillae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pezizella gloeocapsae (Boud.) Sacc., 1889 SPECIES
-=======
+# Mniaecia gloeocapsae (Boud.) Van Vooren, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 74(spéc. ): 19 (2005)
 
 #### Original name
-null
+Epiglia gloeocapsae Boud., 1885
 
 ### Remarks
 null

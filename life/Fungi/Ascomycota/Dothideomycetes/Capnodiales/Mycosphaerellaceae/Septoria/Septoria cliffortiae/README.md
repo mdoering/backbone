@@ -1,5 +1,4 @@
-Septoria cliffortiae Tassi SPECIES
-=======
+# Septoria cliffortiae Tassi SPECIES
 
 #### Status
 ACCEPTED

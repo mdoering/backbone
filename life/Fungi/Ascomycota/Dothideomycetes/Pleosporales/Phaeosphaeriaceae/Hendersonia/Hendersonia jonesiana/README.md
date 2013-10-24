@@ -1,5 +1,4 @@
-Hendersonia jonesiana Petr. SPECIES
-=======
+# Hendersonia jonesiana Petr. SPECIES
 
 #### Status
 ACCEPTED

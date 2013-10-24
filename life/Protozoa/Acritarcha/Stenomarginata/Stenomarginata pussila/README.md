@@ -1,5 +1,4 @@
-Stenomarginata pussila Naumova SPECIES
-=======
+# Stenomarginata pussila Naumova SPECIES
 
 #### Status
 ACCEPTED

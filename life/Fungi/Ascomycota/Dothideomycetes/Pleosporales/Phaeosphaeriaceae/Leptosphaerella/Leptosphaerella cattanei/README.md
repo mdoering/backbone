@@ -1,5 +1,4 @@
-Leptosphaerella cattanei (Thüm.) Hara SPECIES
-=======
+# Leptosphaerella cattanei (Thüm.) Hara SPECIES
 
 #### Status
 ACCEPTED

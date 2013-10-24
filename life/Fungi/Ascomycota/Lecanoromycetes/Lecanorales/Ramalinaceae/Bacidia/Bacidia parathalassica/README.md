@@ -1,5 +1,4 @@
-Bacidia parathalassica Llop & Gómez-Bolea SPECIES
-=======
+# Bacidia parathalassica Llop & Gómez-Bolea SPECIES
 
 #### Status
 ACCEPTED

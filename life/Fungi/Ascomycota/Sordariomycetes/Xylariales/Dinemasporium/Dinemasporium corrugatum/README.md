@@ -1,5 +1,4 @@
-Dinemasporium corrugatum Dearn. & Picb. SPECIES
-=======
+# Dinemasporium corrugatum Dearn. & Picb. SPECIES
 
 #### Status
 ACCEPTED

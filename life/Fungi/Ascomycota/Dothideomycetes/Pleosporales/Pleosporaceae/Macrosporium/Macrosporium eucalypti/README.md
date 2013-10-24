@@ -1,5 +1,4 @@
-Macrosporium eucalypti Henn. SPECIES
-=======
+# Macrosporium eucalypti Henn. SPECIES
 
 #### Status
 ACCEPTED

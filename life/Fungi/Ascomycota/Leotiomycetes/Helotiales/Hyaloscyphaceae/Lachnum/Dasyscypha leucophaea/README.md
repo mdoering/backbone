@@ -1,5 +1,4 @@
-Dasyscypha leucophaea (Pers. ex Weinm.) Massee SPECIES
-=======
+# Dasyscypha leucophaea (Pers. ex Weinm.) Massee SPECIES
 
 #### Status
 DOUBTFUL

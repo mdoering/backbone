@@ -1,5 +1,4 @@
-Candelariella immarginata M. Westb. SPECIES
-=======
+# Candelariella immarginata M. Westb. SPECIES
 
 #### Status
 ACCEPTED

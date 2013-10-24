@@ -1,5 +1,4 @@
-Septoria deutziae (Syd.) U. Braun SPECIES
-=======
+# Septoria deutziae (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

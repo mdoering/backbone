@@ -1,5 +1,4 @@
-Dimeromyces longicollis Thaxt. SPECIES
-=======
+# Dimeromyces longicollis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

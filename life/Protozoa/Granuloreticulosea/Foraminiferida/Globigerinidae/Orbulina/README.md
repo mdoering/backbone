@@ -1,5 +1,4 @@
-Orbulina d'Orbigny, 1839 GENUS
-=======
+# Orbulina d'Orbigny, 1839 GENUS
 
 #### Status
 ACCEPTED

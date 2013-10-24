@@ -1,5 +1,4 @@
-Ramularia mitellae var. heucherae Dearn. VARIETY
-=======
+# Ramularia mitellae Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycologia 21(6): 327 (1929)
+Ann. Rep. N. Y. St. Mus. nat. Hist. 33: 30 (1883)
 
 #### Original name
-Ramularia mitellae var. heucherae Dearn.
+Ramularia mitellae Peck
 
 ### Remarks
 null

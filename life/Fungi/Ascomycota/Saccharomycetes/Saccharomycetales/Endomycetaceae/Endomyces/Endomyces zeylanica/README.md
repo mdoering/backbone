@@ -1,17 +1,16 @@
-Endomyces zelanicus Castell. SPECIES
-=======
+# Endomyces zeylanica Castell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Archs Parasit. 16(1): 186 (1913)
 
 #### Original name
-Endomyces zelanicus Castell.
+Endomyces zeylanica Castell.
 
 ### Remarks
 null

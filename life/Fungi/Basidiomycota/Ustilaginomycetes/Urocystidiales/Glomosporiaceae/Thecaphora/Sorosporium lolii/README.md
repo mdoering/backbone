@@ -1,5 +1,4 @@
-Sorosporium lolii Thüm. SPECIES
-=======
+# Sorosporium lolii Thüm. SPECIES
 
 #### Status
 ACCEPTED

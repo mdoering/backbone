@@ -1,17 +1,16 @@
-Melanospora vervecina f. vervecina FORM
-=======
+# Melanospora caprina (Fr.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 462 (1883)
 
 #### Original name
-Melanospora vervecina f. vervecina
+Ceratostoma caprinum Fr.
 
 ### Remarks
 null

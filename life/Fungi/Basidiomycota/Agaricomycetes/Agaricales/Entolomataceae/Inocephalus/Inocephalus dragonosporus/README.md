@@ -1,5 +1,4 @@
-Inocephalus dragonosporus (Singer) T.J. Baroni & Largent SPECIES
-=======
+# Inocephalus dragonosporus (Singer) T.J. Baroni & Largent SPECIES
 
 #### Status
 ACCEPTED

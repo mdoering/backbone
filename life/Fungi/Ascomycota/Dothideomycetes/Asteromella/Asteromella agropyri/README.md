@@ -1,5 +1,4 @@
-Asteromella agropyri Petr. SPECIES
-=======
+# Asteromella agropyri Petr. SPECIES
 
 #### Status
 ACCEPTED

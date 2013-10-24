@@ -1,5 +1,4 @@
-Peronospora galii-anglici Uljan. SPECIES
-=======
+# Peronospora galii-anglici Uljan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymopeltis carpini (Schulzer) Bat. SPECIES
-=======
+# Didymopeltis carpini (Schulzer) Bat. SPECIES
 
 #### Status
 ACCEPTED

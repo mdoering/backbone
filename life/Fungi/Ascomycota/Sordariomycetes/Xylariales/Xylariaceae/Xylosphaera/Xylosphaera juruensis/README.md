@@ -1,5 +1,4 @@
-Xylosphaera juruensis (Henn.) Dennis SPECIES
-=======
+# Xylosphaera juruensis (Henn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

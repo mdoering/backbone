@@ -1,17 +1,16 @@
-Helmisporium subapiculatum Peck SPECIES
-=======
+# Helminthosporium subapiculatum Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. N. Y. St. Mus. 150: 55 (1911)
 
 #### Original name
-Helmisporium subapiculatum Peck
+Helminthosporium subapiculatum Peck
 
 ### Remarks
 null

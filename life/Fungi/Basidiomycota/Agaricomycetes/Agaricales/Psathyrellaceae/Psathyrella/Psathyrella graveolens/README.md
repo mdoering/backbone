@@ -1,5 +1,4 @@
-Psathyrella graveolens Sacc. SPECIES
-=======
+# Psathyrella graveolens Sacc. SPECIES
 
 #### Status
 ACCEPTED

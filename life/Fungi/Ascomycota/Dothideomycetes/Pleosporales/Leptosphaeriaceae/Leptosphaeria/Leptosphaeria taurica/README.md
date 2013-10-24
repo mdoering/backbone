@@ -1,5 +1,4 @@
-Leptosphaeria taurica Naumov & Dobrozr. SPECIES
-=======
+# Leptosphaeria taurica Naumov & Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

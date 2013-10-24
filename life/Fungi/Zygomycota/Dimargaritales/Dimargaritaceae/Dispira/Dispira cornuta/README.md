@@ -1,17 +1,16 @@
-Dispira americana Thaxt., 1895 SPECIES
-=======
+# Dispira cornuta Tiegh., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 20: 517 (1895)
+Annls Sci. Nat. , Bot. , sér. 6 1: 160 (1875)
 
 #### Original name
-Dispira americana Thaxt., 1895
+Dispira cornuta Tiegh., 1875
 
 ### Remarks
 null

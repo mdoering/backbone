@@ -1,5 +1,4 @@
-Caeoma securinegae Buriticá & J.F. Hennen SPECIES
-=======
+# Caeoma securinegae Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

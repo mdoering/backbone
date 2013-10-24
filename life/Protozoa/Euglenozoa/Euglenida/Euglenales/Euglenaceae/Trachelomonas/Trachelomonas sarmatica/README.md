@@ -1,5 +1,4 @@
-Trachelomonas sarmatica Drezepolski SPECIES
-=======
+# Trachelomonas sarmatica Drezepolski SPECIES
 
 #### Status
 ACCEPTED

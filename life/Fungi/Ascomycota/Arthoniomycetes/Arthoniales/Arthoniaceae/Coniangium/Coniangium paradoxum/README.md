@@ -1,5 +1,4 @@
-Coniangium paradoxum Körb. SPECIES
-=======
+# Coniangium paradoxum Körb. SPECIES
 
 #### Status
 ACCEPTED

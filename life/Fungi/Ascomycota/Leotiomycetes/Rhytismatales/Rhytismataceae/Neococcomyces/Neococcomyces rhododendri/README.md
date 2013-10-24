@@ -1,5 +1,4 @@
-Neococcomyces rhododendri Y.R. Lin, C.T. Xiang & Z.Z. Li, 1999 SPECIES
-=======
+# Neococcomyces rhododendri Y.R. Lin, C.T. Xiang & Z.Z. Li, 1999 SPECIES
 
 #### Status
 ACCEPTED

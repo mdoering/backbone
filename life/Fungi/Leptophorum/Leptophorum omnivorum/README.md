@@ -1,5 +1,4 @@
-Leptophorum omnivorum B. Sutton SPECIES
-=======
+# Leptophorum omnivorum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

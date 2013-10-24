@@ -1,14 +1,13 @@
-Mollisia pulveracea (Fuckel) Rehm, 1891 SPECIES
-=======
+# Pyrenopeziza pulveracea (Fuckel) Gremmen, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungus 28: 42 (1958)
 
 #### Original name
 Trichopeziza pulveracea Fuckel, 1870

@@ -1,5 +1,4 @@
-Acaulospora terricola Swarupa, Kunwar & Manohar. SPECIES
-=======
+# Acaulospora terricola Swarupa, Kunwar & Manohar. SPECIES
 
 #### Status
 ACCEPTED

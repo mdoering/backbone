@@ -1,5 +1,4 @@
-Dendrographa minor Darb. SPECIES
-=======
+# Dendrographa minor Darb. SPECIES
 
 #### Status
 ACCEPTED

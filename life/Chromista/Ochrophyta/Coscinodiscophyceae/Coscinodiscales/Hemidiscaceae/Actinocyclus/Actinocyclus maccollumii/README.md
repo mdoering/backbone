@@ -1,5 +1,4 @@
-Actinocyclus maccollumii D.M. Harwood & T. Maruyama SPECIES
-=======
+# Actinocyclus maccollumii D.M. Harwood & T. Maruyama SPECIES
 
 #### Status
 ACCEPTED

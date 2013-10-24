@@ -1,5 +1,4 @@
-Sporotrichites hetrospermus Göpp. & Berendt SPECIES
-=======
+# Sporotrichites hetrospermus Göpp. & Berendt SPECIES
 
 #### Status
 ACCEPTED

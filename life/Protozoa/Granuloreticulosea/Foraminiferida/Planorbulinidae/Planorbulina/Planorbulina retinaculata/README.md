@@ -1,5 +1,4 @@
-Planorbulina retinaculata SPECIES
-=======
+# Planorbulina retinaculata SPECIES
 
 #### Status
 ACCEPTED

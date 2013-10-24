@@ -1,11 +1,10 @@
-Fragilaria leptostauron var. rhomboides (Grunow) Hustedt, 1931 VARIETY
-=======
+# Staurosirella leptostauron (Ehrenberg) D.M. Williams & Round SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

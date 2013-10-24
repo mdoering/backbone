@@ -1,5 +1,4 @@
-Trichopeltum kentaniense (Doidge) Marasas SPECIES
-=======
+# Trichopeltum kentaniense (Doidge) Marasas SPECIES
 
 #### Status
 ACCEPTED

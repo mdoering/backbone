@@ -1,5 +1,4 @@
-Dasyscyphus caerulescens var. caerulescens VARIETY
-=======
+# Dasyscyphus caerulescens Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscyphus caerulescens var. caerulescens
+Dasyscyphus caerulescens Rehm
 
 ### Remarks
 null

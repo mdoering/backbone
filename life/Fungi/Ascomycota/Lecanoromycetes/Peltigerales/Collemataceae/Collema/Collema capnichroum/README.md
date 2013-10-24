@@ -1,5 +1,4 @@
-Collema capnichroum A. Massal. SPECIES
-=======
+# Collema capnichroum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

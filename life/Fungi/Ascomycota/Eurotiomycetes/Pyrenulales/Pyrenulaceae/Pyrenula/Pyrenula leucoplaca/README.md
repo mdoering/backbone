@@ -1,17 +1,16 @@
-Pyrenula leucoplaca var. leucoplaca VARIETY
-=======
+# Pyrenula leucoplaca SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Integrated Taxonomic Information System
 
 #### Published in
-Syst. lich. germ. (Breslau) 361 (1855)
+null
 
 #### Original name
-Pyrenula leucoplaca var. leucoplaca
+null
 
 ### Remarks
 null

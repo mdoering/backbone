@@ -1,5 +1,4 @@
-Nectria parasitans Fr. SPECIES
-=======
+# Nectria parasitans Fr. SPECIES
 
 #### Status
 ACCEPTED

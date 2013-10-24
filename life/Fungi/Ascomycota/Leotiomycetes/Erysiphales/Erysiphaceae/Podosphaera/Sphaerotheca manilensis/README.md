@@ -1,5 +1,4 @@
-Sphaerotheca manilensis SPECIES
-=======
+# Sphaerotheca manilensis SPECIES
 
 #### Status
 ACCEPTED

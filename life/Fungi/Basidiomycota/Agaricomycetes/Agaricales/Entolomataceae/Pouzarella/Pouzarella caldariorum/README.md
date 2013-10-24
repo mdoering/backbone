@@ -1,14 +1,13 @@
-Pouzarella caldariora (Henn.) Mazzer SPECIES
-=======
+# Pouzarella caldariorum (Henn.) Mazzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 46: 86 (1976)
 
 #### Original name
 Hyporrhodius caldariorum Henn.

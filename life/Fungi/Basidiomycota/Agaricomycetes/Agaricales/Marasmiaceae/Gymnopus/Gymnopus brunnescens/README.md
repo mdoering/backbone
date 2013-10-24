@@ -1,5 +1,4 @@
-Gymnopus brunnescens (Murrill) M. Villarreal, Heykoop & Esteve-Rav. SPECIES
-=======
+# Gymnopus brunnescens (Murrill) M. Villarreal, Heykoop & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

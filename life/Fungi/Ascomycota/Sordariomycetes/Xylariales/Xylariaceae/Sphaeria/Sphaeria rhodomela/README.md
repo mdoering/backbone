@@ -1,17 +1,16 @@
-Sphaeria leucomelas Fr. SPECIES
-=======
+# Sphaeria rhodomela Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Observ. mycol. (Havniae) 1: 178 (1815)
 
 #### Original name
-Sphaeria leucomelas Fr.
+Sphaeria rhodomela Schwein.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleospora allescheri Sacc. & P. Syd. SPECIES
-=======
+# Pleospora allescheri Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

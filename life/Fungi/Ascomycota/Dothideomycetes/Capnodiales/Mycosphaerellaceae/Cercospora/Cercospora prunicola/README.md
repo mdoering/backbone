@@ -1,5 +1,4 @@
-Cercospora prunicola Ellis & Everh. SPECIES
-=======
+# Cercospora prunicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

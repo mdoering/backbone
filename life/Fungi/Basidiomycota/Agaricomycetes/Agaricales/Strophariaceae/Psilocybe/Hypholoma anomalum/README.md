@@ -1,5 +1,4 @@
-Hypholoma anomalum A.H. Sm. SPECIES
-=======
+# Hypholoma anomalum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

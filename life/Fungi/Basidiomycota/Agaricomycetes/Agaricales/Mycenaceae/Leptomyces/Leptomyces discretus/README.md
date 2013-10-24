@@ -1,5 +1,4 @@
-Leptomyces discretus (Fr.) Murrill SPECIES
-=======
+# Leptomyces discretus (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

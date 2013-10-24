@@ -1,17 +1,16 @@
-Septoria caraganae var. caraganae Henn. VARIETY
-=======
+# Mycosphaerella jaczewskii Potebnia, 1910 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. PflKrankh. 12: 15 (1902)
+Trans. New Zealand Inst. 56: 50 (1910)
 
 #### Original name
-Septoria caraganae var. caraganae Henn.
+Mycosphaerella jaczewskii Potebnia, 1910
 
 ### Remarks
 null

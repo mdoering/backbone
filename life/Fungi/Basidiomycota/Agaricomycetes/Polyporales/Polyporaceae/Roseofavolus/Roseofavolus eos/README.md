@@ -1,5 +1,4 @@
-Roseofavolus eos (Corner) T. Hatt., 2003 SPECIES
-=======
+# Roseofavolus eos (Corner) T. Hatt., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linocarpon clavatum K.D. Hyde SPECIES
-=======
+# Linocarpon clavatum K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

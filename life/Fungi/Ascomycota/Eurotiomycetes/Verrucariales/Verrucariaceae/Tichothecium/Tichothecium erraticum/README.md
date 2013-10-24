@@ -1,5 +1,4 @@
-Tichothecium erraticum SPECIES
-=======
+# Tichothecium erraticum SPECIES
 
 #### Status
 ACCEPTED

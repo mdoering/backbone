@@ -1,5 +1,4 @@
-Condylostoma longicaudata Dragesco, 1996 SPECIES
-=======
+# Condylostoma longicaudata Dragesco, 1996 SPECIES
 
 #### Status
 ACCEPTED

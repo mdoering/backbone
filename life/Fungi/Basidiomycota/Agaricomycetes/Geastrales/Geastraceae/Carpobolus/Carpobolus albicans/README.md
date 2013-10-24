@@ -1,5 +1,4 @@
-Carpobolus albicans Willd. SPECIES
-=======
+# Carpobolus albicans Willd. SPECIES
 
 #### Status
 ACCEPTED

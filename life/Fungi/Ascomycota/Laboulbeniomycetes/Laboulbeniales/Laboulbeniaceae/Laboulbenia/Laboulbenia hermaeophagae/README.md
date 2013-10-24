@@ -1,5 +1,4 @@
-Laboulbenia hermaeophagae Thaxt. SPECIES
-=======
+# Laboulbenia hermaeophagae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

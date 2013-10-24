@@ -1,5 +1,4 @@
-Mazzantia biennis (Dearn.) M.E. Barr SPECIES
-=======
+# Mazzantia biennis (Dearn.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

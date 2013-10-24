@@ -1,5 +1,4 @@
-Lecanora gilvolutea Nyl. SPECIES
-=======
+# Lecanora gilvolutea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia almorensis Räsänen SPECIES
-=======
+# Aspicilia almorensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

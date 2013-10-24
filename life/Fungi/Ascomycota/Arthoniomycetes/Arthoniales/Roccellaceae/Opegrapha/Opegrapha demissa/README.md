@@ -1,5 +1,4 @@
-Opegrapha demissa Tuck. SPECIES
-=======
+# Opegrapha demissa Tuck. SPECIES
 
 #### Status
 ACCEPTED

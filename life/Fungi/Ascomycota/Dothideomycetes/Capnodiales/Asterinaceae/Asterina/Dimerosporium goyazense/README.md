@@ -1,5 +1,4 @@
-Dimerosporium goyazense (Henn.) Arnaud SPECIES
-=======
+# Dimerosporium goyazense (Henn.) Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gigasperma cryptica E. Horak, 1971 SPECIES
-=======
+# Gigasperma cryptica E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

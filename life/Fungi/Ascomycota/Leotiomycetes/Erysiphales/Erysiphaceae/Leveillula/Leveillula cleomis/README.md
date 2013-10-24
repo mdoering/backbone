@@ -1,5 +1,4 @@
-Leveillula cleomis Simonyan & V.P. Heluta SPECIES
-=======
+# Leveillula cleomis Simonyan & V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

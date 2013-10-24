@@ -1,5 +1,4 @@
-Uredo tarchunii Babajan SPECIES
-=======
+# Uredo tarchunii Babajan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium smilacinum Gonz. Frag. SPECIES
-=======
+# Helminthosporium smilacinum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

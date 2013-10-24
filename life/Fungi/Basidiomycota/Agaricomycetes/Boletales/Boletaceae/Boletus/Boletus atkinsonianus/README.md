@@ -1,5 +1,4 @@
-Boletus atkinsonianus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Boletus atkinsonianus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

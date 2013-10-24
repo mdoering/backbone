@@ -1,5 +1,4 @@
-Palaeolyngbya elongata J. Mandal & P. K. Maithy SPECIES
-=======
+# Palaeolyngbya elongata J. Mandal & P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spilomyces atramentarius (J. Schröt.) Petr. & Syd. SPECIES
-=======
+# Spilomyces atramentarius (J. Schröt.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

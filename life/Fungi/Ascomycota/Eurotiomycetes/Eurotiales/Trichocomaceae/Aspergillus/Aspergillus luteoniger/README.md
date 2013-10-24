@@ -1,5 +1,4 @@
-Aspergillus luteoniger (M.L. Lutz) Thom & Church SPECIES
-=======
+# Aspergillus luteoniger (M.L. Lutz) Thom & Church SPECIES
 
 #### Status
 ACCEPTED

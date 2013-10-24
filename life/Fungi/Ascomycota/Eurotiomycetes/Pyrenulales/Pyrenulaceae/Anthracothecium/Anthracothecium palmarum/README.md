@@ -1,5 +1,4 @@
-Anthracothecium palmarum (Kremp.) Müll. Arg. SPECIES
-=======
+# Anthracothecium palmarum (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

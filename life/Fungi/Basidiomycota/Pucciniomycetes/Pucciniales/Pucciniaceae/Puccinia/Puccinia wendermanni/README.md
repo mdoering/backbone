@@ -1,5 +1,4 @@
-Puccinia wendermanni Syd. SPECIES
-=======
+# Puccinia wendermanni Syd. SPECIES
 
 #### Status
 ACCEPTED

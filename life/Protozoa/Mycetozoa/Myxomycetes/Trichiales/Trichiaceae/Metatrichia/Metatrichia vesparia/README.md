@@ -1,17 +1,16 @@
-Hemiarcyria rubiformis (Pers.) Rostaf., 1875 SPECIES
-=======
+# Metatrichia vesparia (Batsch) Nann.-Bremek. ex G.W. Martin & Alexop., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sluzowce monogr. (Paryz) 262 (1875)
+null
 
 #### Original name
-Trichia rubiformis Pers., 1794
+null
 
 ### Remarks
 null

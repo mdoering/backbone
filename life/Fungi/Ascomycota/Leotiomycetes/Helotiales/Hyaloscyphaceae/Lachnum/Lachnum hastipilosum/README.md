@@ -1,5 +1,4 @@
-Lachnum hastipilosum Raitv. SPECIES
-=======
+# Lachnum hastipilosum Raitv. SPECIES
 
 #### Status
 ACCEPTED

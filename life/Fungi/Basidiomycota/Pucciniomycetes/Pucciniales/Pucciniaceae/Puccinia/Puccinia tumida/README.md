@@ -1,17 +1,16 @@
-Puccinia umbelliferarum var. umbelliferarum VARIETY
-=======
+# Puccinia tumida Grev., 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 58 (1815)
+Fl. Edin. 430 (1824)
 
 #### Original name
-Puccinia umbelliferarum var. umbelliferarum
+Puccinia tumida Grev., 1824
 
 ### Remarks
 null

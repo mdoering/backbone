@@ -1,5 +1,4 @@
-Restiosporium chaetanthi Vánky, 2006 SPECIES
-=======
+# Restiosporium chaetanthi Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

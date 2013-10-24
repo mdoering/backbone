@@ -1,8 +1,7 @@
-Stictina meyeni Trevis. SPECIES
-=======
+# Stictina meyenii Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictina meyeni Trevis.
+Stictina meyenii Trevis.
 
 ### Remarks
 null

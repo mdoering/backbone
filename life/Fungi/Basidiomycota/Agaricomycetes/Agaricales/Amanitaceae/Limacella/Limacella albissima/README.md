@@ -1,5 +1,4 @@
-Limacella albissima Murrill SPECIES
-=======
+# Limacella albissima Murrill SPECIES
 
 #### Status
 ACCEPTED

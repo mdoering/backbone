@@ -1,5 +1,4 @@
-Spirochaeta buccalis SPECIES
-=======
+# Spirochaeta buccalis SPECIES
 
 #### Status
 ACCEPTED

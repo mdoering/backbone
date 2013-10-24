@@ -1,5 +1,4 @@
-Dimerium lepidagathis (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Dimerium lepidagathis (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erinella rhaphidophora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Erinella rhaphidophora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

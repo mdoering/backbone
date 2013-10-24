@@ -1,5 +1,4 @@
-Lactarius subplinthogalus var. subplinthogalus VARIETY
-=======
+# Lactarius subplinthogalus Coker SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Elisha Mitchell scient. Soc. 34(1): 50 (1918)
 
 #### Original name
-Lactarius subplinthogalus var. subplinthogalus
+Lactarius subplinthogalus Coker
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus larvalis Secr. SPECIES
-=======
+# Agaricus larvalis Secr. SPECIES
 
 #### Status
 ACCEPTED

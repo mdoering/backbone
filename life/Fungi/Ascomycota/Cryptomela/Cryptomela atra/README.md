@@ -1,5 +1,4 @@
-Cryptomela atra (Kunze) Sacc. SPECIES
-=======
+# Cryptomela atra (Kunze) Sacc. SPECIES
 
 #### Status
 ACCEPTED

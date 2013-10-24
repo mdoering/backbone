@@ -1,5 +1,4 @@
-Calomyxa synspora M.L. Farr & Kowalski, 1974 SPECIES
-=======
+# Calomyxa synspora M.L. Farr & Kowalski, 1974 SPECIES
 
 #### Status
 ACCEPTED

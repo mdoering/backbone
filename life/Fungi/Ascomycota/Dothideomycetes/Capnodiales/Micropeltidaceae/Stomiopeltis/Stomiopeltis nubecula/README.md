@@ -1,5 +1,4 @@
-Stomiopeltis nubecula (Berk. & M.A. Curtis) Arx SPECIES
-=======
+# Stomiopeltis nubecula (Berk. & M.A. Curtis) Arx SPECIES
 
 #### Status
 ACCEPTED

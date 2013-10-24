@@ -1,5 +1,4 @@
-Dothiora polyspora Shear & R.W. Davidson SPECIES
-=======
+# Dothiora polyspora Shear & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

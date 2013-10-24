@@ -1,5 +1,4 @@
-Phoma enargeae Speg. SPECIES
-=======
+# Phoma enargeae Speg. SPECIES
 
 #### Status
 ACCEPTED

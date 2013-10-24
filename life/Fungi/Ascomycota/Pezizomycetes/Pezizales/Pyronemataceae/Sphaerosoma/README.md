@@ -1,17 +1,16 @@
-Sphaerozosma Corda, 1842 GENUS
-=======
+# Sphaerosoma Klotzsch, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 5: 27 (1842)
+in Dietrich, Fl. Boruss. 7: ad tab. 467 (1839)
 
 #### Original name
-Sphaerozosma Corda, 1842
+Sphaerosoma Klotzsch, 1839
 
 ### Remarks
 null

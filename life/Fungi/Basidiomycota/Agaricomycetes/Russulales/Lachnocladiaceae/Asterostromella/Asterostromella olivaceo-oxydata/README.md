@@ -1,5 +1,4 @@
-Asterostromella olivaceo-oxydata var. olivaceo-oxydata VARIETY
-=======
+# Asterostromella olivaceo-oxydata Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterostromella olivaceo-oxydata var. olivaceo-oxydata
+Asterostromella olivaceo-oxydata Rick
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Propolis psychotriae (Mont.) Mont. SPECIES
-=======
+# Biostictis psychotriae (Mont.) Sherwood SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. gen. sp. crypt. (Paris) no. 665 (1856)
+Mycotaxon 5(1): 40 (1977)
 
 #### Original name
 Stictis psychotriae Mont.

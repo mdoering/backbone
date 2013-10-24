@@ -1,5 +1,4 @@
-Leccinum callitrichum Redeuilh SPECIES
-=======
+# Leccinum callitrichum Redeuilh SPECIES
 
 #### Status
 ACCEPTED

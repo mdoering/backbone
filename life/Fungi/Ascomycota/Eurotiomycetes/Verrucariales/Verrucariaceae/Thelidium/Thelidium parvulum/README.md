@@ -1,5 +1,4 @@
-Thelidium parvulum Arnold SPECIES
-=======
+# Thelidium parvulum Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora scabra Mouton SPECIES
-=======
+# Pleospora scabra Mouton SPECIES
 
 #### Status
 ACCEPTED

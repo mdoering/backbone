@@ -1,5 +1,4 @@
-Macroplodia ovalis Cooke & Harkn. SPECIES
-=======
+# Macroplodia ovalis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

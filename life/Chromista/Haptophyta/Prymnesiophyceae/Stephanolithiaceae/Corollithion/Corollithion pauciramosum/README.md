@@ -1,5 +1,4 @@
-Corollithion pauciramosum (M. Black) S.W. Wise SPECIES
-=======
+# Corollithion pauciramosum (M. Black) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

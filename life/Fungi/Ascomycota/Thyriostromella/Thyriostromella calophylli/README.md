@@ -1,14 +1,13 @@
-Leptothyrella calophylli Sacc., 1921 SPECIES
-=======
+# Thyriostromella calophylli (Sacc.) Bat. & C.A.A. Costa, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletino dell'orto Botanico della R. Universitá di Napoli 6: 58 (1921)
+in Batista & Ciferri, Mycopath. Mycol. appl. 11(1-2): 16 (1959)
 
 #### Original name
 Leptothyrella calophylli Sacc., 1921

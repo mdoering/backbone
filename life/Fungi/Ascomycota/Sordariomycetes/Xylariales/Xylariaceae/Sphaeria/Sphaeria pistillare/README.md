@@ -1,5 +1,4 @@
-Sphaeria pistillare Wallr. SPECIES
-=======
+# Sphaeria pistillare Wallr. SPECIES
 
 #### Status
 ACCEPTED

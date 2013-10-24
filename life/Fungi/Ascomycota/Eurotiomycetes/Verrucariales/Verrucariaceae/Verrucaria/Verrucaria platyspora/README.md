@@ -1,5 +1,4 @@
-Verrucaria platyspora Erichsen SPECIES
-=======
+# Verrucaria platyspora Erichsen SPECIES
 
 #### Status
 ACCEPTED

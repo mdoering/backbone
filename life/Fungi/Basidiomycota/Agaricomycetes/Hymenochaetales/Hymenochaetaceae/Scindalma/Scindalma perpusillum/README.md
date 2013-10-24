@@ -1,5 +1,4 @@
-Scindalma perpusillum (Pers. ex Lév.) Kuntze SPECIES
-=======
+# Scindalma perpusillum (Pers. ex Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

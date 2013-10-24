@@ -1,5 +1,4 @@
-Neottiella sericeovillosa Rehm SPECIES
-=======
+# Neottiella sericeovillosa Rehm SPECIES
 
 #### Status
 ACCEPTED

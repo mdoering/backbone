@@ -1,5 +1,4 @@
-Boletus calocystides Corner SPECIES
-=======
+# Boletus calocystides Corner SPECIES
 
 #### Status
 ACCEPTED

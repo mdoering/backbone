@@ -1,5 +1,4 @@
-Lecidea ameibospora Hedl. SPECIES
-=======
+# Lecidea ameibospora Hedl. SPECIES
 
 #### Status
 ACCEPTED

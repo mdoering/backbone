@@ -1,5 +1,4 @@
-Anthostomella spiralis K.D. Hyde & B.S. Lu, 2000 SPECIES
-=======
+# Anthostomella spiralis K.D. Hyde & B.S. Lu, 2000 SPECIES
 
 #### Status
 ACCEPTED

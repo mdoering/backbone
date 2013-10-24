@@ -1,5 +1,4 @@
-Oospora aequivoca (Corda) Sacc. & Voglino SPECIES
-=======
+# Oospora aequivoca (Corda) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

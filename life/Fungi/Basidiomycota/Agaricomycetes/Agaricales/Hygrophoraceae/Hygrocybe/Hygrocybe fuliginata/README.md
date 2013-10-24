@@ -1,5 +1,4 @@
-Hygrocybe fuliginata E. Horak, 1973 SPECIES
-=======
+# Hygrocybe fuliginata E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auerswaldia robertiana Chevaug. SPECIES
-=======
+# Auerswaldia robertiana Chevaug. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphibothrella enigmatica Grandori & Grandori, 1934 SPECIES
-=======
+# Amphibothrella enigmatica Grandori & Grandori, 1934 SPECIES
 
 #### Status
 ACCEPTED

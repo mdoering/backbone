@@ -1,5 +1,4 @@
-Sinorhizobium Chen et al., 1988 GENUS
-=======
+# Sinorhizobium Chen et al., 1988 GENUS
 
 #### Status
 ACCEPTED

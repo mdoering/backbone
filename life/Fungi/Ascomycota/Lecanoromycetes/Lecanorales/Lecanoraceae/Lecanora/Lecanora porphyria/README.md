@@ -1,5 +1,4 @@
-Lecanora porphyria (Pers.) Röhl. SPECIES
-=======
+# Lecanora porphyria (Pers.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia helotioides Rehm SPECIES
-=======
+# Sclerotinia helotioides Rehm SPECIES
 
 #### Status
 ACCEPTED

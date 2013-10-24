@@ -1,5 +1,4 @@
-Septoria jaculella R. Sprague SPECIES
-=======
+# Septoria jaculella R. Sprague SPECIES
 
 #### Status
 ACCEPTED

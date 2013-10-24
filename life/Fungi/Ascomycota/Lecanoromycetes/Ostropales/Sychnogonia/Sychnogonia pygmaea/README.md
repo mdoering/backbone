@@ -1,5 +1,4 @@
-Sychnogonia pygmaea (Körb.) Trevis. SPECIES
-=======
+# Sychnogonia pygmaea (Körb.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

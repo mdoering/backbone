@@ -1,5 +1,4 @@
-Terana hydnatina (Berk.) Kuntze SPECIES
-=======
+# Terana hydnatina (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

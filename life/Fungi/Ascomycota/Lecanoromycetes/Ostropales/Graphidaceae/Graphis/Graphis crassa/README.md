@@ -1,5 +1,4 @@
-Graphis crassa Fée SPECIES
-=======
+# Graphis crassa Fée SPECIES
 
 #### Status
 ACCEPTED

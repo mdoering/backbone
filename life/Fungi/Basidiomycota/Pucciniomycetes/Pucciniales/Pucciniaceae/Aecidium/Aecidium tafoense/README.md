@@ -1,5 +1,4 @@
-Aecidium tafoense Cummins SPECIES
-=======
+# Aecidium tafoense Cummins SPECIES
 
 #### Status
 ACCEPTED

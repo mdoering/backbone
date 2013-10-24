@@ -1,5 +1,4 @@
-Geinitzina ciscoensis Cushman & Waters SPECIES
-=======
+# Geinitzina ciscoensis Cushman & Waters SPECIES
 
 #### Status
 ACCEPTED

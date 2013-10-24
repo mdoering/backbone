@@ -1,5 +1,4 @@
-Arthothelium scriblitellum (Nyl.) Zahlbr. SPECIES
-=======
+# Arthothelium scriblitellum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

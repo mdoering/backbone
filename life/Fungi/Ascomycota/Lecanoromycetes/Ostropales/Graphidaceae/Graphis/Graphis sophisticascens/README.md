@@ -1,5 +1,4 @@
-Graphis sophisticascens Nyl. SPECIES
-=======
+# Graphis sophisticascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

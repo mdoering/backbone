@@ -1,5 +1,4 @@
-Lepidoderma crassipes Flatau, Massner & Schirmer, 1987 SPECIES
-=======
+# Lepidoderma crassipes Flatau, Massner & Schirmer, 1987 SPECIES
 
 #### Status
 ACCEPTED

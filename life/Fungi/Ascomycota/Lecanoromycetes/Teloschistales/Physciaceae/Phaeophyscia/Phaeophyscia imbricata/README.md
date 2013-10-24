@@ -1,5 +1,4 @@
-Phaeophyscia imbricata (Vain.) Essl. SPECIES
-=======
+# Phaeophyscia imbricata (Vain.) Essl. SPECIES
 
 #### Status
 ACCEPTED

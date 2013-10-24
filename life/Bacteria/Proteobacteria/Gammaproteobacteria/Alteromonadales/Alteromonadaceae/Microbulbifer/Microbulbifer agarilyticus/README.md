@@ -1,5 +1,4 @@
-Microbulbifer agarilyticus Miyazaki, Nogi, Ohta, Hatada, Fujiwara, Ito & Horikoshi, 2008 SPECIES
-=======
+# Microbulbifer agarilyticus Miyazaki, Nogi, Ohta, Hatada, Fujiwara, Ito & Horikoshi, 2008 SPECIES
 
 #### Status
 ACCEPTED

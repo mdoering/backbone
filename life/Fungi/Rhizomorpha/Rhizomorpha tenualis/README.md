@@ -1,5 +1,4 @@
-Rhizomorpha tenualis Kalchbr. SPECIES
-=======
+# Rhizomorpha tenualis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Prediscosphaera orbiculofenestra Gartner, 1968 SPECIES
-=======
+# Axopodorhabdus dietzmannii (P. Reinhardt) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

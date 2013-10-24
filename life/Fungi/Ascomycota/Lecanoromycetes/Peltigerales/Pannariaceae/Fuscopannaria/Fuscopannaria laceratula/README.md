@@ -1,5 +1,4 @@
-Fuscopannaria laceratula (Hue) P. M. Jørg. SPECIES
-=======
+# Fuscopannaria laceratula (Hue) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placidium verruculosum (Müll. Arg.) Szatala SPECIES
-=======
+# Placidium verruculosum (Müll. Arg.) Szatala SPECIES
 
 #### Status
 ACCEPTED

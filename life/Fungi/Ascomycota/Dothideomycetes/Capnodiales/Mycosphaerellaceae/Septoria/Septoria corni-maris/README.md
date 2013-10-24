@@ -1,5 +1,4 @@
-Septoria corni-maris Sacc. SPECIES
-=======
+# Septoria corni-maris Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis owenii var. owenii VARIETY
-=======
+# Pestalotiopsis owenii Steyaert SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. Br. mycol. Soc. 36(2): 88 (1953)
 
 #### Original name
-Pestalotiopsis owenii var. owenii
+Pestalotiopsis owenii Steyaert
 
 ### Remarks
 null

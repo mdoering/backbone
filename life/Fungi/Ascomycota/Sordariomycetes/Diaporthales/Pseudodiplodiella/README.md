@@ -1,5 +1,4 @@
-Pseudodiplodiella GENUS
-=======
+# Pseudodiplodiella GENUS
 
 #### Status
 ACCEPTED

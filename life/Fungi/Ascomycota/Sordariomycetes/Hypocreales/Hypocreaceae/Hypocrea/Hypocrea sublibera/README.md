@@ -1,5 +1,4 @@
-Hypocrea sublibera Starbäck, 1899 SPECIES
-=======
+# Hypocrea sublibera Starbäck, 1899 SPECIES
 
 #### Status
 ACCEPTED

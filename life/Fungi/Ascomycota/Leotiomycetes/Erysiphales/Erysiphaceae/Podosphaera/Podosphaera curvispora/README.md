@@ -1,5 +1,4 @@
-Podosphaera curvispora Y. Nomura SPECIES
-=======
+# Podosphaera curvispora Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

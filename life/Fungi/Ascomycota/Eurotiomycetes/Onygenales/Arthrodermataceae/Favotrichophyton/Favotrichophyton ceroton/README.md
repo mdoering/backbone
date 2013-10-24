@@ -1,5 +1,4 @@
-Favotrichophyton ceroton (Cazalbou) C.W. Dodge SPECIES
-=======
+# Favotrichophyton ceroton (Cazalbou) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

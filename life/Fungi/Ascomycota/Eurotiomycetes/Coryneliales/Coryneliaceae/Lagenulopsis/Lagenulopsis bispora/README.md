@@ -1,5 +1,4 @@
-Lagenulopsis bispora Fitzp., 1942 SPECIES
-=======
+# Lagenulopsis bispora Fitzp., 1942 SPECIES
 
 #### Status
 ACCEPTED

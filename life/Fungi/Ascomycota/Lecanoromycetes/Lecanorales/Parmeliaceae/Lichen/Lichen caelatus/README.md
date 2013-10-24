@@ -1,5 +1,4 @@
-Lichen caelatus (Hoffm.) Ach. SPECIES
-=======
+# Lichen caelatus (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

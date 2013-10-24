@@ -1,14 +1,13 @@
-Pleomassaria holoschista (Berk. & Broome) Sacc. SPECIES
-=======
+# Splanchnonema holoschistum (Berk. & Broome) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 2: 239 (1883)
+Mycotaxon 49: 139 (1993)
 
 #### Original name
 Sphaeria holoschista Berk. & Broome

@@ -1,5 +1,4 @@
-Arthonia willeyi Tuck. SPECIES
-=======
+# Arthonia willeyi Tuck. SPECIES
 
 #### Status
 ACCEPTED

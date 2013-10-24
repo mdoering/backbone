@@ -1,5 +1,4 @@
-Trachelomonas niklewskii var. bourrellyi VARIETY
-=======
+# Trachelomonas niklewskii Drezepolski SPECIES
 
 #### Status
 ACCEPTED

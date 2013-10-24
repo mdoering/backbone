@@ -1,5 +1,4 @@
-Hydnum murrayi Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum murrayi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

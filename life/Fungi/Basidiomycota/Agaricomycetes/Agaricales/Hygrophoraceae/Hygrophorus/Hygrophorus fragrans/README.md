@@ -1,5 +1,4 @@
-Hygrophorus fragrans Murrill SPECIES
-=======
+# Hygrophorus fragrans Murrill SPECIES
 
 #### Status
 ACCEPTED

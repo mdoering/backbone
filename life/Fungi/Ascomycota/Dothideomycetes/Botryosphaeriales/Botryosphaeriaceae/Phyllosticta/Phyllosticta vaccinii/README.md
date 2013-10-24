@@ -1,5 +1,4 @@
-Phyllosticta vaccinii Earle SPECIES
-=======
+# Phyllosticta vaccinii Earle SPECIES
 
 #### Status
 ACCEPTED

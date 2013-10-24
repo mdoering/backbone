@@ -1,5 +1,4 @@
-Pleurotus tremelliformis Murrill SPECIES
-=======
+# Pleurotus tremelliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius corsico-amethystinus (Chevassut, Rob. Henry & Tristani) Reumaux SPECIES
-=======
+# Cortinarius corsico-amethystinus (Chevassut, Rob. Henry & Tristani) Reumaux SPECIES
 
 #### Status
 ACCEPTED

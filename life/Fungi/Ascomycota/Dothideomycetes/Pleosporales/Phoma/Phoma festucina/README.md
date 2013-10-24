@@ -1,5 +1,4 @@
-Phoma festucina Thüm. SPECIES
-=======
+# Phoma festucina Thüm. SPECIES
 
 #### Status
 ACCEPTED

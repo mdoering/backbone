@@ -1,5 +1,4 @@
-Sphaeria telfairii Berk. SPECIES
-=======
+# Sphaeria telfairii Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia sapii Speg. SPECIES
-=======
+# Diplodia sapii Speg. SPECIES
 
 #### Status
 ACCEPTED

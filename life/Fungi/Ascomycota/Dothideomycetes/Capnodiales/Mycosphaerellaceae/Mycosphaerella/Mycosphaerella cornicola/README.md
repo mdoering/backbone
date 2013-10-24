@@ -1,5 +1,4 @@
-Mycosphaerella cornicola Tehon & E.Y. Daniels SPECIES
-=======
+# Mycosphaerella cornicola Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

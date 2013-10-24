@@ -1,5 +1,4 @@
-Cryptopeltis obtecta (Rehm) Rehm SPECIES
-=======
+# Cryptopeltis obtecta (Rehm) Rehm SPECIES
 
 #### Status
 ACCEPTED

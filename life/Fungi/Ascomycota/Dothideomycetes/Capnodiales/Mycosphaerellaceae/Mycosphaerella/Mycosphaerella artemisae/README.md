@@ -1,5 +1,4 @@
-Mycosphaerella artemisae Clem., 1906 SPECIES
-=======
+# Mycosphaerella artemisae Clem., 1906 SPECIES
 
 #### Status
 ACCEPTED

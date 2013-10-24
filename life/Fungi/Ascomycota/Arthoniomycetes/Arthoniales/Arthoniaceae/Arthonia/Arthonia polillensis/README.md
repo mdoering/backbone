@@ -1,5 +1,4 @@
-Arthonia polillensis Vain. SPECIES
-=======
+# Arthonia polillensis Vain. SPECIES
 
 #### Status
 ACCEPTED

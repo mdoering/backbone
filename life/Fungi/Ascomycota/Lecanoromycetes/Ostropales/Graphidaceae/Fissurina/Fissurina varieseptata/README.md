@@ -1,5 +1,4 @@
-Fissurina varieseptata Common & Lücking SPECIES
-=======
+# Fissurina varieseptata Common & Lücking SPECIES
 
 #### Status
 ACCEPTED

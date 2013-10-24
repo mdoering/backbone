@@ -1,8 +1,7 @@
-Geaster pillotii Roze SPECIES
-=======
+# Geastrum pillotii Roze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster pillotii Roze
+Geastrum pillotii Roze
 
 ### Remarks
 null

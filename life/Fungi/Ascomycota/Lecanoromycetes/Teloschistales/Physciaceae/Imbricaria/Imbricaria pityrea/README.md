@@ -1,5 +1,4 @@
-Imbricaria pityrea DC. SPECIES
-=======
+# Imbricaria pityrea DC. SPECIES
 
 #### Status
 ACCEPTED

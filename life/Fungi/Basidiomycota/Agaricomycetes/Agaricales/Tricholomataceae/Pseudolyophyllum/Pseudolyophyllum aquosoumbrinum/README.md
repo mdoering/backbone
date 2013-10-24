@@ -1,14 +1,13 @@
-Pseudolyophyllum aquoso-umbrinum (Raithelh.) Raithelh. SPECIES
-=======
+# Pseudolyophyllum aquosoumbrinum (Raithelh.) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 8(2A): 53 (1979)
 
 #### Original name
 Clitocybe dicolor var. aquosoumbrina Raithelh.

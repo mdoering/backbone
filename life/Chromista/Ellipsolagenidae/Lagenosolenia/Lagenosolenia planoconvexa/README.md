@@ -1,5 +1,4 @@
-Lagenosolenia planoconvexa Albani & Yassini, 1989 SPECIES
-=======
+# Lagenosolenia planoconvexa Albani & Yassini, 1989 SPECIES
 
 #### Status
 ACCEPTED

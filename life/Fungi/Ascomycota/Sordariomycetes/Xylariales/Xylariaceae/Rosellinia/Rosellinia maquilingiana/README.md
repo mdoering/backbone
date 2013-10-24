@@ -1,5 +1,4 @@
-Rosellinia maquilingiana Rehm SPECIES
-=======
+# Rosellinia maquilingiana Rehm SPECIES
 
 #### Status
 ACCEPTED

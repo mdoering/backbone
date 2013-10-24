@@ -1,5 +1,4 @@
-Uredo goebeliana Magnus SPECIES
-=======
+# Uredo goebeliana Magnus SPECIES
 
 #### Status
 ACCEPTED

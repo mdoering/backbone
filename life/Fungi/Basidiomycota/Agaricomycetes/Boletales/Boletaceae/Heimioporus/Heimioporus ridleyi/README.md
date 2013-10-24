@@ -1,5 +1,4 @@
-Heimioporus ridleyi E. Horak, 2004 SPECIES
-=======
+# Heimioporus ridleyi E. Horak, 2004 SPECIES
 
 #### Status
 ACCEPTED

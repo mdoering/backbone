@@ -1,5 +1,4 @@
-Varicosporium macrosporum Nawawi, 1974 SPECIES
-=======
+# Varicosporium macrosporum Nawawi, 1974 SPECIES
 
 #### Status
 ACCEPTED

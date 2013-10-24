@@ -1,5 +1,4 @@
-Agamomonas Grassé GENUS
-=======
+# Agamomonas Grassé GENUS
 
 #### Status
 ACCEPTED

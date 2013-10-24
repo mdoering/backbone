@@ -1,5 +1,4 @@
-Puccinia chlorocrepidis Jacky SPECIES
-=======
+# Puccinia chlorocrepidis Jacky SPECIES
 
 #### Status
 ACCEPTED

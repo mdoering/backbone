@@ -1,5 +1,4 @@
-Hendersonia kerguelensis Henn. SPECIES
-=======
+# Hendersonia kerguelensis Henn. SPECIES
 
 #### Status
 ACCEPTED

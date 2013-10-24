@@ -1,5 +1,4 @@
-Scolecopeltidium myrsines (Doidge) Bat. SPECIES
-=======
+# Scolecopeltidium myrsines (Doidge) Bat. SPECIES
 
 #### Status
 ACCEPTED

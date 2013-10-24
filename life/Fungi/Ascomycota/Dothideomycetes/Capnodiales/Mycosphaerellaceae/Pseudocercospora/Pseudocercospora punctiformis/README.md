@@ -1,5 +1,4 @@
-Pseudocercospora punctiformis Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora punctiformis Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

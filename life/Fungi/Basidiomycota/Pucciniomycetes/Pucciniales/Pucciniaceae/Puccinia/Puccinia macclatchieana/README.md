@@ -1,5 +1,4 @@
-Puccinia macclatchieana Dietel & Holw. SPECIES
-=======
+# Puccinia macclatchieana Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

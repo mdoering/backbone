@@ -1,5 +1,4 @@
-Prospodium garcesii F. Kern & Thurst. SPECIES
-=======
+# Prospodium garcesii F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

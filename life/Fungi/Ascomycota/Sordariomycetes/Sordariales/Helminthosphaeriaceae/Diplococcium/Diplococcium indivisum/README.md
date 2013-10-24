@@ -1,5 +1,4 @@
-Diplococcium indivisum (Sacc.) S. Hughes SPECIES
-=======
+# Diplococcium indivisum (Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

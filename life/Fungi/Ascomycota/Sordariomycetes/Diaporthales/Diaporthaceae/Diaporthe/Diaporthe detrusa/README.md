@@ -1,14 +1,13 @@
-Sphaeria detrusa Kunze, 1823 SPECIES
-=======
+# Diaporthe detrusa (Fr.) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykologische Hefte (Leipzig) 2: 43 (1823)
+Jb. nassau. Ver. Naturk. 23-24: 205 (1870)
 
 #### Original name
 Sphaeria detrusa Kunze, 1823

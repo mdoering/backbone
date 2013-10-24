@@ -1,14 +1,13 @@
-Arcangeliella africana (Lloyd) Zeller & C.W. Dodge, 1935 SPECIES
-=======
+# Neosecotium africanum (Lloyd) Singer & A.H. Sm., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 22: 365 (1935)
+Madroño 15(5): 156 (1960)
 
 #### Original name
 Octaviania africana Lloyd, 1922

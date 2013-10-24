@@ -1,5 +1,4 @@
-Pholiota usneae Vouaux SPECIES
-=======
+# Pholiota usneae Vouaux SPECIES
 
 #### Status
 ACCEPTED

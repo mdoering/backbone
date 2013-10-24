@@ -1,5 +1,4 @@
-Hymenochaete albida (Massee ex Cooke) Sacc. SPECIES
-=======
+# Hymenochaete albida (Massee ex Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

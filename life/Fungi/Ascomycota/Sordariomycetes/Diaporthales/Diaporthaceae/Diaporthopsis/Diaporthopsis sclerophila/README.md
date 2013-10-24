@@ -1,5 +1,4 @@
-Diaporthopsis sclerophila Bonar SPECIES
-=======
+# Diaporthopsis sclerophila Bonar SPECIES
 
 #### Status
 ACCEPTED

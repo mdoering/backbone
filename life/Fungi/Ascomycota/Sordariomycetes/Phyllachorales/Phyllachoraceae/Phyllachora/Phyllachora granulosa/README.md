@@ -1,17 +1,16 @@
-Dothidea granulosa Klotzsch & Berk., 1839 SPECIES
-=======
+# Phyllachora granulosa Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botany of Captain Beechey's Voyage . . . , [part 2] 398 (1832)
+Syll. fung. (Abellini) 2: 596 (1883)
 
 #### Original name
-Dothidea granulosa Klotzsch & Berk., 1839
+Phyllachora granulosa Sacc., 1883
 
 ### Remarks
 null

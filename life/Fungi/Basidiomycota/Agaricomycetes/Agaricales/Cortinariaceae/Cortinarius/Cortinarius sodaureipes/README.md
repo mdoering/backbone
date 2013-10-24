@@ -1,5 +1,4 @@
-Cortinarius sodaureipes Rob. Henry SPECIES
-=======
+# Cortinarius sodaureipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

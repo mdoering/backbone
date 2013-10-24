@@ -1,5 +1,4 @@
-Clitocybe puiggarii Speg. SPECIES
-=======
+# Clitocybe puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

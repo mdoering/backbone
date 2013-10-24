@@ -1,5 +1,4 @@
-Bleakeleya Round, 1990 GENUS
-=======
+# Bleakeleya Round, 1990 GENUS
 
 #### Status
 ACCEPTED

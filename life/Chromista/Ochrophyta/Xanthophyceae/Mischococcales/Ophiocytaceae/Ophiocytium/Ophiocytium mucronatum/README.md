@@ -1,5 +1,4 @@
-Ophiocytium mucronatum (A. Br.) Rab. SPECIES
-=======
+# Ophiocytium mucronatum (A. Br.) Rab. SPECIES
 
 #### Status
 ACCEPTED

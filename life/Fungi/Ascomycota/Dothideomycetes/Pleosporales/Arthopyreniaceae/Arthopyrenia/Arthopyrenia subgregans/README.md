@@ -1,14 +1,13 @@
-Microthelia subgregans Müll. Arg. SPECIES
-=======
+# Arthopyrenia subgregans (Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Rep. Meetings Australs. Assoc. Advancem. Sci. 455 (1895)
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 167 (1985)
 
 #### Original name
 Microthelia subgregans Müll. Arg.

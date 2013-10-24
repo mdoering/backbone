@@ -1,5 +1,4 @@
-Septogloeum pistaciae Garb. SPECIES
-=======
+# Septogloeum pistaciae Garb. SPECIES
 
 #### Status
 ACCEPTED

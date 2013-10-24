@@ -1,5 +1,4 @@
-Haplogloia Levring, 1939 GENUS
-=======
+# Haplogloia Levring, 1939 GENUS
 
 #### Status
 ACCEPTED

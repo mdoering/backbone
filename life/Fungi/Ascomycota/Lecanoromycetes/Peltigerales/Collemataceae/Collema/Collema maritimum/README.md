@@ -1,5 +1,4 @@
-Collema maritimum Taylor SPECIES
-=======
+# Collema maritimum Taylor SPECIES
 
 #### Status
 ACCEPTED

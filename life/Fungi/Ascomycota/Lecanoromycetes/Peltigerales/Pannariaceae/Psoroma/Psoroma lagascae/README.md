@@ -1,5 +1,4 @@
-Psoroma lagascae (Ach.) Körb. SPECIES
-=======
+# Psoroma lagascae (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

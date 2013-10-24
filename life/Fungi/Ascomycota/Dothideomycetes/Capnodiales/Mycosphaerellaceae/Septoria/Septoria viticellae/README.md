@@ -1,5 +1,4 @@
-Septoria viticellae Pass. SPECIES
-=======
+# Septoria viticellae Pass. SPECIES
 
 #### Status
 ACCEPTED

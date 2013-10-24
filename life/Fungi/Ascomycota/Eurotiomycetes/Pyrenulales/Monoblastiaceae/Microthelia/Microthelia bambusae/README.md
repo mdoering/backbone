@@ -1,5 +1,4 @@
-Microthelia bambusae (Rolland) Kuntze SPECIES
-=======
+# Microthelia bambusae (Rolland) Kuntze SPECIES
 
 #### Status
 ACCEPTED

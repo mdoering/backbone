@@ -1,5 +1,4 @@
-Aphanothece atro-crustacea Skuja SPECIES
-=======
+# Aphanothece atro-crustacea Skuja SPECIES
 
 #### Status
 ACCEPTED

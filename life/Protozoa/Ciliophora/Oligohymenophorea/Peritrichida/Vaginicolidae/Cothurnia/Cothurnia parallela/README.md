@@ -1,5 +1,4 @@
-Cothurnia parallela SPECIES
-=======
+# Cothurnia parallela SPECIES
 
 #### Status
 ACCEPTED

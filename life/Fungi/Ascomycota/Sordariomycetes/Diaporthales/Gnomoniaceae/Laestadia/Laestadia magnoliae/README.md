@@ -1,5 +1,4 @@
-Laestadia magnoliae (Schwein.) Sacc. SPECIES
-=======
+# Laestadia magnoliae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

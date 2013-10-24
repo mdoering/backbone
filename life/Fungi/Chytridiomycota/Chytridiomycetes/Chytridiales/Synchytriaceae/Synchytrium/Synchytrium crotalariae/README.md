@@ -1,5 +1,4 @@
-Synchytrium crotalariae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Synchytrium crotalariae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

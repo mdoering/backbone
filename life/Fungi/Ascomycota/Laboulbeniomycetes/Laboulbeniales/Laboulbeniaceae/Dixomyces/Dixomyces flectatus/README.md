@@ -1,5 +1,4 @@
-Dixomyces flectatus (Thaxt.) Balazuc SPECIES
-=======
+# Dixomyces flectatus (Thaxt.) Balazuc SPECIES
 
 #### Status
 ACCEPTED

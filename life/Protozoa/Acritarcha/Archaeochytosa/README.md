@@ -1,5 +1,4 @@
-Archaeochytosa Eisenack GENUS
-=======
+# Archaeochytosa Eisenack GENUS
 
 #### Status
 ACCEPTED

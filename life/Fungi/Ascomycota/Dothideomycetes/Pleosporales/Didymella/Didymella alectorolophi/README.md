@@ -1,17 +1,16 @@
-Peyronellaea alectorolophi (Rehm) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Didymella alectorolophi Rehm, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Ade, Hedwigia 64: 294 (1923)
 
 #### Original name
-null
+Didymella alectorolophi Rehm, 1923
 
 ### Remarks
 null

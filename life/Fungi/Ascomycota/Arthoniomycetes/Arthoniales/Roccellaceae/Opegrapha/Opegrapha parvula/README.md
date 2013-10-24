@@ -1,5 +1,4 @@
-Opegrapha parvula Nyl. SPECIES
-=======
+# Opegrapha parvula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis sonchicola Schltdl. SPECIES
-=======
+# Botrytis sonchicola Schltdl. SPECIES
 
 #### Status
 ACCEPTED

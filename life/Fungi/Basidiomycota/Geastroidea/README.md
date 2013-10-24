@@ -1,5 +1,4 @@
-Geastroidea V.A. Krassilov in V.A. Krassilov & N.M. Makulbekov, 2003 GENUS
-=======
+# Geastroidea V.A. Krassilov in V.A. Krassilov & N.M. Makulbekov, 2003 GENUS
 
 #### Status
 ACCEPTED

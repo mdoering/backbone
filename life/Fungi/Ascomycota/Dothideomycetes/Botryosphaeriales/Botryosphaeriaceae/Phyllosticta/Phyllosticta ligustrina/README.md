@@ -1,5 +1,4 @@
-Phyllosticta ligustrina Sacc. & Speg. SPECIES
-=======
+# Phyllosticta ligustrina Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

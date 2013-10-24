@@ -1,5 +1,4 @@
-Irpicomyces Deighton GENUS
-=======
+# Irpicomyces Deighton GENUS
 
 #### Status
 ACCEPTED

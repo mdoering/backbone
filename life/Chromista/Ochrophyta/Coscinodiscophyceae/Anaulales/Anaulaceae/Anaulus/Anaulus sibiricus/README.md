@@ -1,5 +1,4 @@
-Anaulus sibiricus N. I. Strelnikova SPECIES
-=======
+# Anaulus sibiricus N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

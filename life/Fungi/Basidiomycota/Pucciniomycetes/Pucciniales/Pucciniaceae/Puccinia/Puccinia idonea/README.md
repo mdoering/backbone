@@ -1,5 +1,4 @@
-Puccinia idonea H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia idonea H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

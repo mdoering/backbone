@@ -1,14 +1,13 @@
-Cercospora unamunoi E. Castell., 1948 SPECIES
-=======
+# Cercospora capsici Heald & F.A. Wolf, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rivista di Agricoltura Subtropicale e Tropicale 42: 20 (1948)
+Boln de la Real Soc. Españ. Hist. Nat. , Madrid 32: 161 (1932)
 
 #### Original name
 Cercospora capsici Heald & F.A. Wolf, 1911

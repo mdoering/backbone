@@ -1,5 +1,4 @@
-Phialea scyphiformis (Wallr.) Sacc. SPECIES
-=======
+# Phialea scyphiformis (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

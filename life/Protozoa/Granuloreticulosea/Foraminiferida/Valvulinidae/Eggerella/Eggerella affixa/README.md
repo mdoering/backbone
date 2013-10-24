@@ -1,5 +1,4 @@
-Eggerella affixa SPECIES
-=======
+# Eggerella affixa SPECIES
 
 #### Status
 ACCEPTED

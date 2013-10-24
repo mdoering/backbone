@@ -1,5 +1,4 @@
-Stropharia separata SPECIES
-=======
+# Stropharia separata SPECIES
 
 #### Status
 ACCEPTED

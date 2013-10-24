@@ -1,5 +1,4 @@
-Guignardia faginea anon. SPECIES
-=======
+# Guignardia faginea anon. SPECIES
 
 #### Status
 ACCEPTED

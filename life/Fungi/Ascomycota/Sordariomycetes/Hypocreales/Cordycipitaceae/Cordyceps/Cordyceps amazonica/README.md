@@ -1,5 +1,4 @@
-Cordyceps amazonica Henn. SPECIES
-=======
+# Cordyceps amazonica Henn. SPECIES
 
 #### Status
 ACCEPTED

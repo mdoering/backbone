@@ -1,5 +1,4 @@
-Corynebacterium tuberculostearicum Feurer et al., 2004 SPECIES
-=======
+# Corynebacterium tuberculostearicum Feurer et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

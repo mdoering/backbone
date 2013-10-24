@@ -1,5 +1,4 @@
-Sphaerella jenensis (J. Kunze) G. Winter SPECIES
-=======
+# Sphaerella jenensis (J. Kunze) G. Winter SPECIES
 
 #### Status
 ACCEPTED

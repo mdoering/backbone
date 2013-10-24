@@ -1,5 +1,4 @@
-Ascochyta impatiens Petr. SPECIES
-=======
+# Ascochyta impatiens Petr. SPECIES
 
 #### Status
 ACCEPTED

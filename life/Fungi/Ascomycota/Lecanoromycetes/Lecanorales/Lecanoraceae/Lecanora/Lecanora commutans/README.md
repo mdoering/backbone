@@ -1,5 +1,4 @@
-Lecanora commutans Nyl. SPECIES
-=======
+# Lecanora commutans Nyl. SPECIES
 
 #### Status
 ACCEPTED

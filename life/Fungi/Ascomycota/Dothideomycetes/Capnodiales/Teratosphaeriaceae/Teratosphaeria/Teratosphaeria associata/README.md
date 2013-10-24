@@ -1,5 +1,4 @@
-Teratosphaeria associata (Crous & Carnegie) Crous & U. Braun, 2007 SPECIES
-=======
+# Teratosphaeria associata (Crous & Carnegie) Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

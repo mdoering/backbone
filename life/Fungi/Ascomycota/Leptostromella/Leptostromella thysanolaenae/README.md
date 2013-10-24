@@ -1,5 +1,4 @@
-Leptostromella thysanolaenae Syd. SPECIES
-=======
+# Leptostromella thysanolaenae Syd. SPECIES
 
 #### Status
 ACCEPTED

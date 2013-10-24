@@ -1,5 +1,4 @@
-Graphis rigidula Müll. Arg. SPECIES
-=======
+# Graphis rigidula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

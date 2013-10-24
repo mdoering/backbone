@@ -1,5 +1,4 @@
-Guignardia mammeae Gonz. Frag. & Cif. SPECIES
-=======
+# Guignardia mammeae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

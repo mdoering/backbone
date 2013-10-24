@@ -1,5 +1,4 @@
-Urocystis beckmanniae I.E. Brezhnev SPECIES
-=======
+# Urocystis beckmanniae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

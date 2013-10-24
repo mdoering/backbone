@@ -1,14 +1,13 @@
-Auchenaria Gistl, 1848 GENUS
-=======
+# Trachelius Schrank, 1803 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Thierr. , xi.
+Fauna Boica, 3 (2), 20.
 
 #### Original name
 null

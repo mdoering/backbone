@@ -1,5 +1,4 @@
-Mucor pruinosus Berk. & Broome SPECIES
-=======
+# Mucor pruinosus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

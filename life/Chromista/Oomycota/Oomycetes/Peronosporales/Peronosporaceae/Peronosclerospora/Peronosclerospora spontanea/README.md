@@ -1,5 +1,4 @@
-Peronosclerospora spontanea (W. Weston) C.G. Shaw, 1978 SPECIES
-=======
+# Peronosclerospora spontanea (W. Weston) C.G. Shaw, 1978 SPECIES
 
 #### Status
 ACCEPTED

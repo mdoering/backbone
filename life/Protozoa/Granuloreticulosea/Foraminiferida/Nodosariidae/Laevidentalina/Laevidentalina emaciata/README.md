@@ -1,8 +1,7 @@
-Nodosaria consobrina emaciata (Reuss, 1851) SUBSPECIES
-=======
+# Laevidentalina emaciata (Reuss, 1851) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

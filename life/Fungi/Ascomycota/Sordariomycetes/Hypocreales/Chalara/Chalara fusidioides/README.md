@@ -1,17 +1,16 @@
-Chalara fusidioides subsp. longior Sacc. SUBSPECIES
-=======
+# Chalara fusidioides (Corda) Rabenh., 1844 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 19: 270 (1910)
+Krypt. -Fl. Deutschl. , Deutsch-Oesterreich und der Schweiz 1: 38 (1844)
 
 #### Original name
-Chalara fusidioides subsp. longior Sacc.
+Gymnosporium fusidioides Corda, 1838
 
 ### Remarks
 null

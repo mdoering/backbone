@@ -1,17 +1,16 @@
-Piromyces rhizinflata Breton, Dusser, B. Gaillard, Guillot, Millet & Prensier SPECIES
-=======
+# Piromyces rhizinflatus Breton, Dusser, B. Gaillard, Guillot, Millet & Prensier, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Microbiol. Lett. 82(1): 8 (1991)
 
 #### Original name
-Piromyces rhizinflata Breton, Dusser, B. Gaillard, Guillot, Millet & Prensier
+Piromyces rhizinflatus Breton, Dusser, B. Gaillard, Guillot, Millet & Prensier, 1991
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Ustilago elyonuri-candidi Sacc. & Trotter SPECIES
-=======
+# Ustilago elionuri-candidi Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago elyonuri-candidi Sacc. & Trotter
+Ustilago elionuri-candidi Speg.
 
 ### Remarks
 null

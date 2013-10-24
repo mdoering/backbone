@@ -1,5 +1,4 @@
-Dothiorella hypomutilospora (F.P. Almeida & Sousa da Câmara) Petr. & Syd. SPECIES
-=======
+# Dothiorella hypomutilospora (F.P. Almeida & Sousa da Câmara) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

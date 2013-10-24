@@ -1,5 +1,4 @@
-Dasyscyphus schroeterianus (Rehm) Dennis SPECIES
-=======
+# Dasyscyphus schroeterianus (Rehm) Dennis SPECIES
 
 #### Status
 ACCEPTED

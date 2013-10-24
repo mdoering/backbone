@@ -1,5 +1,4 @@
-Tremella inconspicua Pat. SPECIES
-=======
+# Tremella inconspicua Pat. SPECIES
 
 #### Status
 ACCEPTED

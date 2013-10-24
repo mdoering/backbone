@@ -1,5 +1,4 @@
-Pleospora halimi Maubl. SPECIES
-=======
+# Pleospora halimi Maubl. SPECIES
 
 #### Status
 ACCEPTED

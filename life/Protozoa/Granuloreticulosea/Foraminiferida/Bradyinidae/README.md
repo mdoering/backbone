@@ -1,5 +1,4 @@
-Bradyinidae Reytlinger, 1950 FAMILY
-=======
+# Bradyinidae Reytlinger, 1950 FAMILY
 
 #### Status
 ACCEPTED

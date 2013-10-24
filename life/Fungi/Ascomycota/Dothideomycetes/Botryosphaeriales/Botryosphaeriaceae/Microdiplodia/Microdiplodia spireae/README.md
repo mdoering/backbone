@@ -1,5 +1,4 @@
-Microdiplodia spireae Hollós SPECIES
-=======
+# Microdiplodia spireae Hollós SPECIES
 
 #### Status
 ACCEPTED

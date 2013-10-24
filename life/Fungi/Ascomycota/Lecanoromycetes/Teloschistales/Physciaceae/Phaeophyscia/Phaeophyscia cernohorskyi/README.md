@@ -1,5 +1,4 @@
-Phaeophyscia cernohorskyi (Nádv.) Essl. SPECIES
-=======
+# Phaeophyscia cernohorskyi (Nádv.) Essl. SPECIES
 
 #### Status
 ACCEPTED

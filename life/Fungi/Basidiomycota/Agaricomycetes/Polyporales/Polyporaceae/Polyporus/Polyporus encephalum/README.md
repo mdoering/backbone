@@ -1,5 +1,4 @@
-Polyporus encephalum (Hoffm.) Pers. SPECIES
-=======
+# Polyporus encephalum (Hoffm.) Pers. SPECIES
 
 #### Status
 ACCEPTED

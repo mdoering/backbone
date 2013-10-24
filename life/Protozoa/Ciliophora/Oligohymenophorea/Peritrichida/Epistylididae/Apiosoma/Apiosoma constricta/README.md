@@ -1,5 +1,4 @@
-Apiosoma constricta SPECIES
-=======
+# Apiosoma constricta SPECIES
 
 #### Status
 ACCEPTED

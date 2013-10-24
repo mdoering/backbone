@@ -1,5 +1,4 @@
-Chytridium caloneidis Kadlub., 2001 SPECIES
-=======
+# Chytridium caloneidis Kadlub., 2001 SPECIES
 
 #### Status
 ACCEPTED

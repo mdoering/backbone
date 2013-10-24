@@ -1,5 +1,4 @@
-Candelariella stenospora B. de Lesd. SPECIES
-=======
+# Candelariella stenospora B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

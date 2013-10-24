@@ -1,5 +1,4 @@
-Clitocybe glareosa Röllin & Monthoux SPECIES
-=======
+# Clitocybe glareosa Röllin & Monthoux SPECIES
 
 #### Status
 ACCEPTED

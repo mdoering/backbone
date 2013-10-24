@@ -1,14 +1,13 @@
-Myxosporium diplodioides Allesch., 1896 SPECIES
-=======
+# Cryptosporiopsis diplodioides (Allesch.) Petr., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. , Sonder. 4: 37 (1896)
+Annls mycol. 21(3/4): 272 (1923)
 
 #### Original name
 Myxosporium diplodioides Allesch., 1896

@@ -1,17 +1,16 @@
-Aspergillus vitis var. vitis Novobr. VARIETY
-=======
+# Eurotium amstelodami L. Mangin, 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 9: 175 (1972)
+Annls Sci. Nat. , Bot. , sér. 9 10: 360 (1908)
 
 #### Original name
-Aspergillus vitis var. vitis Novobr.
+Eurotium amstelodami L. Mangin, 1908
 
 ### Remarks
 null

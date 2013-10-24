@@ -1,5 +1,4 @@
-Xyloma pedicularis DC. SPECIES
-=======
+# Xyloma pedicularis DC. SPECIES
 
 #### Status
 ACCEPTED

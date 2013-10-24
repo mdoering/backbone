@@ -1,5 +1,4 @@
-Puccinia excursionis Savile SPECIES
-=======
+# Puccinia excursionis Savile SPECIES
 
 #### Status
 ACCEPTED

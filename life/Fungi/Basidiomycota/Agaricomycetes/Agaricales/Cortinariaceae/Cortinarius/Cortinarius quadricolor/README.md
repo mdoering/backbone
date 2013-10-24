@@ -1,5 +1,4 @@
-Cortinarius quadricolor var. quadricolor (Scop.) Fr. VARIETY
-=======
+# Cortinarius quadricolor (Scop.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 295 (1838)
 
 #### Original name
-Cortinarius quadricolor var. quadricolor (Scop.) Fr.
+Agaricus quadricolor Scop.
 
 ### Remarks
 null

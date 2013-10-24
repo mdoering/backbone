@@ -1,5 +1,4 @@
-Cetraria chrysantha var. chrysantha VARIETY
-=======
+# Cetraria chrysantha SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria chrysantha var. chrysantha
+null
 
 ### Remarks
 null

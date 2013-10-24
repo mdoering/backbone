@@ -1,5 +1,4 @@
-Hexaphormis Haeckel, 1881 GENUS
-=======
+# Hexaphormis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

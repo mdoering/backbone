@@ -1,5 +1,4 @@
-Renispora flavissima Sigler, P.K. Gaur, Lichtw. & J.W. Carmich., 1979 SPECIES
-=======
+# Renispora flavissima Sigler, P.K. Gaur, Lichtw. & J.W. Carmich., 1979 SPECIES
 
 #### Status
 ACCEPTED

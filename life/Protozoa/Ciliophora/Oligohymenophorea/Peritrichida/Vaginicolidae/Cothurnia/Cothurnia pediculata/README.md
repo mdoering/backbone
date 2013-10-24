@@ -1,5 +1,4 @@
-Cothurnia pediculata Dumas, 1930 SPECIES
-=======
+# Cothurnia pediculata Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

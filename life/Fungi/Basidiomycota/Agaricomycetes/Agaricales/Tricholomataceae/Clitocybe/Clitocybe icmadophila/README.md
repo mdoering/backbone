@@ -1,5 +1,4 @@
-Clitocybe icmadophila (Fr.) H.E. Bigelow SPECIES
-=======
+# Clitocybe icmadophila (Fr.) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

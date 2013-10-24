@@ -1,5 +1,4 @@
-Naxella minuta Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Naxella minuta Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
 ACCEPTED

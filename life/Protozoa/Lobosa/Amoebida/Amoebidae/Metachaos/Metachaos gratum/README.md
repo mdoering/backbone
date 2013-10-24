@@ -1,5 +1,4 @@
-Metachaos gratum Schaeffer, 1926 SPECIES
-=======
+# Metachaos gratum Schaeffer, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora celestinii Samp. SPECIES
-=======
+# Lecanora celestinii Samp. SPECIES
 
 #### Status
 ACCEPTED

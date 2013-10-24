@@ -1,5 +1,4 @@
-Marasmius cantharelloides Henn. SPECIES
-=======
+# Marasmius cantharelloides Henn. SPECIES
 
 #### Status
 ACCEPTED

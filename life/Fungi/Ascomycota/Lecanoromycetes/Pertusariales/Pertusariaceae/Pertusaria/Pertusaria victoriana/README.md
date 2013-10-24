@@ -1,5 +1,4 @@
-Pertusaria victoriana I.M. Lamb SPECIES
-=======
+# Pertusaria victoriana I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhizocarpon rubescens Th. Fr. SPECIES
-=======
+# Rhizocarpon plicatile (Leight.) A. L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Rhizocarpon rubescens Th. Fr.
+null
 
 ### Remarks
 null

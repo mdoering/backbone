@@ -1,5 +1,4 @@
-Boletus recedens Britzelm. SPECIES
-=======
+# Boletus recedens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

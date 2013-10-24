@@ -1,5 +1,4 @@
-Cladonia apolepta (Ach.) Mölholm {?}, Hansen {?} & M. Lund {?} SPECIES
-=======
+# Cladonia apolepta (Ach.) Mölholm {?}, Hansen {?} & M. Lund {?} SPECIES
 
 #### Status
 ACCEPTED

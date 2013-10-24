@@ -1,5 +1,4 @@
-Patellaria constipata Bloxam {?} SPECIES
-=======
+# Patellaria constipata Bloxam {?} SPECIES
 
 #### Status
 ACCEPTED

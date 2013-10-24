@@ -1,8 +1,7 @@
-Sathrophilus oviformis (Kahl, 1926) ? SPECIES
-=======
+# Tetrahymena pyriformis (Ehrenberg, 1830) Furgason, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

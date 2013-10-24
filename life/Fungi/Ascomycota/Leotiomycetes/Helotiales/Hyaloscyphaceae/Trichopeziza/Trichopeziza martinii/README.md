@@ -1,8 +1,7 @@
-Trichopeziza martini (Pers.) Sacc. SPECIES
-=======
+# Trichopeziza martinii (Pers.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

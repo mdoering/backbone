@@ -1,5 +1,4 @@
-Octospora canariensis Benkert SPECIES
-=======
+# Octospora canariensis Benkert SPECIES
 
 #### Status
 ACCEPTED

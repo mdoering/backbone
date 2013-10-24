@@ -1,5 +1,4 @@
-Distatodinium Eaton GENUS
-=======
+# Distatodinium Eaton GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Opegrapha constrictella Stirt. SPECIES
-=======
+# Melaspilea constrictella (Stirt.) A. L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Scott. Natural. 4: 29 (1878)
+Monogr. Brit. Lich. 2: 228 (1911)
 
 #### Original name
 Opegrapha constrictella Stirt.

@@ -1,5 +1,4 @@
-Aecidium thalictri-flavi (DC.) G. Winter SPECIES
-=======
+# Aecidium thalictri-flavi (DC.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

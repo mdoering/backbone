@@ -1,5 +1,4 @@
-Montagnites schuppii Rick SPECIES
-=======
+# Montagnites schuppii Rick SPECIES
 
 #### Status
 ACCEPTED

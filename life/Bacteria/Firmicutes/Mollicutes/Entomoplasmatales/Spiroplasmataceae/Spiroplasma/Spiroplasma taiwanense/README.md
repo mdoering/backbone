@@ -1,5 +1,4 @@
-Spiroplasma taiwanense Abalain-Colloc et al., 1988 SPECIES
-=======
+# Spiroplasma taiwanense Abalain-Colloc et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithographomyces GENUS
-=======
+# Lithographomyces GENUS
 
 #### Status
 ACCEPTED

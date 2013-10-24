@@ -1,5 +1,4 @@
-Alternaria hispidula Ellis SPECIES
-=======
+# Alternaria hispidula Ellis SPECIES
 
 #### Status
 ACCEPTED

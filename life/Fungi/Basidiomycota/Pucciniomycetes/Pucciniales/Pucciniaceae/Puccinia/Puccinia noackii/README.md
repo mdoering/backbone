@@ -1,8 +1,7 @@
-Puccinia noacki Syd. & P. Syd. SPECIES
-=======
+# Puccinia noackii Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia noacki Syd. & P. Syd.
+Puccinia noackii Syd. & P. Syd.
 
 ### Remarks
 null

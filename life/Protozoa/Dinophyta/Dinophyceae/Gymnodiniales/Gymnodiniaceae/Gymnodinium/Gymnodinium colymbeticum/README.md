@@ -1,5 +1,4 @@
-Gymnodinium colymbeticum T.M. Harris SPECIES
-=======
+# Gymnodinium colymbeticum T.M. Harris SPECIES
 
 #### Status
 ACCEPTED

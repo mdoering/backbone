@@ -1,5 +1,4 @@
-Cothurnia bavarica SPECIES
-=======
+# Cothurnia bavarica SPECIES
 
 #### Status
 ACCEPTED

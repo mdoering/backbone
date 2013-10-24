@@ -1,5 +1,4 @@
-Trypethelium plicatorimosum Makhija & Patw. SPECIES
-=======
+# Trypethelium plicatorimosum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

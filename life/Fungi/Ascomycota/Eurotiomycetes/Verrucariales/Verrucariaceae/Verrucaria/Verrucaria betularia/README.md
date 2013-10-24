@@ -1,5 +1,4 @@
-Verrucaria betularia Nyl. SPECIES
-=======
+# Verrucaria betularia Nyl. SPECIES
 
 #### Status
 ACCEPTED

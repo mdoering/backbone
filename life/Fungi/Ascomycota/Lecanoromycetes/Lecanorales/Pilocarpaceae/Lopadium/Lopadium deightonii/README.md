@@ -1,17 +1,16 @@
-Lopadium deightoni C.W. Dodge SPECIES
-=======
+# Lopadium deightonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 40: 362 (1953)
 
 #### Original name
-Lopadium deightoni C.W. Dodge
+Lopadium deightonii C.W. Dodge
 
 ### Remarks
 null

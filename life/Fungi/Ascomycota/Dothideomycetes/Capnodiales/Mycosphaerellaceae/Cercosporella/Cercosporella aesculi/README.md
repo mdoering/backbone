@@ -1,5 +1,4 @@
-Cercosporella aesculi Y. Harada & Katsuki SPECIES
-=======
+# Cercosporella aesculi Y. Harada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta iridum (Sacc.) Allesch. SPECIES
-=======
+# Phyllosticta iridum (Sacc.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

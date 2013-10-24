@@ -1,5 +1,4 @@
-Amphisphaeria belladonnae Naumov SPECIES
-=======
+# Amphisphaeria belladonnae Naumov SPECIES
 
 #### Status
 ACCEPTED

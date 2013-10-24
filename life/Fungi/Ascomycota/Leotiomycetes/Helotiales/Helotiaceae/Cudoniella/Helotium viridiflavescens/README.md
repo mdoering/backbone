@@ -1,5 +1,4 @@
-Helotium viridiflavescens P. Karst. SPECIES
-=======
+# Helotium viridiflavescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

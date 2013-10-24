@@ -1,5 +1,4 @@
-Phlogicylindrium eucalypti Crous, Summerb. & Summerell, 2006 SPECIES
-=======
+# Phlogicylindrium eucalypti Crous, Summerb. & Summerell, 2006 SPECIES
 
 #### Status
 ACCEPTED

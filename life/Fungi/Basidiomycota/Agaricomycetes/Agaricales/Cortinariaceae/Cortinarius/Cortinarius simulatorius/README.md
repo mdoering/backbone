@@ -1,5 +1,4 @@
-Cortinarius simulatorius Reumaux SPECIES
-=======
+# Cortinarius simulatorius Reumaux SPECIES
 
 #### Status
 ACCEPTED

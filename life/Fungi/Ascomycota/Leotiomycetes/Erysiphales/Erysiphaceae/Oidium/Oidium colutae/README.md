@@ -1,5 +1,4 @@
-Oidium colutae Thüm. SPECIES
-=======
+# Oidium colutae Thüm. SPECIES
 
 #### Status
 ACCEPTED

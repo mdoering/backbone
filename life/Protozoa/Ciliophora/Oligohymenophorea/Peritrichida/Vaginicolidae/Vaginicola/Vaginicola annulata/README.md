@@ -1,5 +1,4 @@
-Vaginicola annulata Stokes, 1887 SPECIES
-=======
+# Vaginicola annulata Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

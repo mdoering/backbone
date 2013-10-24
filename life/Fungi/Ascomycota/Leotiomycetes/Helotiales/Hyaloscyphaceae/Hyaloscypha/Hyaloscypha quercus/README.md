@@ -1,5 +1,4 @@
-Hyaloscypha quercus Nannf. SPECIES
-=======
+# Hyaloscypha quercus Nannf. SPECIES
 
 #### Status
 ACCEPTED

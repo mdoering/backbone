@@ -1,5 +1,4 @@
-Asteromella thlaspeos Murashk. SPECIES
-=======
+# Asteromella thlaspeos Murashk. SPECIES
 
 #### Status
 ACCEPTED

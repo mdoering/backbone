@@ -1,5 +1,4 @@
-Pleospora alsines Hollós SPECIES
-=======
+# Pleospora alsines Hollós SPECIES
 
 #### Status
 ACCEPTED

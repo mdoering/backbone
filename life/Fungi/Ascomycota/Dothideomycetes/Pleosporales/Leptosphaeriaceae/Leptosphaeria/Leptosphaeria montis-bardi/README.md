@@ -1,5 +1,4 @@
-Leptosphaeria montis-bardi Fautrey & Lambotte SPECIES
-=======
+# Leptosphaeria montis-bardi Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

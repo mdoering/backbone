@@ -1,5 +1,4 @@
-Pholiota bambusina K.A. Thomas & Manim. SPECIES
-=======
+# Pholiota bambusina K.A. Thomas & Manim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria trimera Sacc. SPECIES
-=======
+# Leptosphaeria trimera Sacc. SPECIES
 
 #### Status
 ACCEPTED

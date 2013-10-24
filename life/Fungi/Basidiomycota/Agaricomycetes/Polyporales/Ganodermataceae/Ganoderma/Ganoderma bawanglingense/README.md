@@ -1,5 +1,4 @@
-Ganoderma bawanglingense J.D. Zhao & X.Q. Zhang, 1987 SPECIES
-=======
+# Ganoderma bawanglingense J.D. Zhao & X.Q. Zhang, 1987 SPECIES
 
 #### Status
 ACCEPTED

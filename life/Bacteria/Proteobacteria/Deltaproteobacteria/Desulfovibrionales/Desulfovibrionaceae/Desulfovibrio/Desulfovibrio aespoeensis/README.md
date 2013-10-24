@@ -1,5 +1,4 @@
-Desulfovibrio aespoeensis Motamedi & Pedersen, 1998 SPECIES
-=======
+# Desulfovibrio aespoeensis Motamedi & Pedersen, 1998 SPECIES
 
 #### Status
 ACCEPTED

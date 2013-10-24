@@ -1,5 +1,4 @@
-Agaricus salebrosus Berk. SPECIES
-=======
+# Agaricus salebrosus Berk. SPECIES
 
 #### Status
 ACCEPTED

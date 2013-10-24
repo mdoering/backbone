@@ -1,5 +1,4 @@
-Rhytismites juglandis (Ettingsh.) Mesch. SPECIES
-=======
+# Rhytismites juglandis (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

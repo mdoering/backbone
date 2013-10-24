@@ -1,5 +1,4 @@
-Leptoglossum queletii (Pilát & Svrcek) Corner SPECIES
-=======
+# Leptoglossum queletii (Pilát & Svrcek) Corner SPECIES
 
 #### Status
 ACCEPTED

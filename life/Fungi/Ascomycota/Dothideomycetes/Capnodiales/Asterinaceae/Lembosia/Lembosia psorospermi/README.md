@@ -1,5 +1,4 @@
-Lembosia psorospermi Syd. SPECIES
-=======
+# Lembosia psorospermi Syd. SPECIES
 
 #### Status
 ACCEPTED

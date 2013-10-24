@@ -1,5 +1,4 @@
-Calosphaeria aurata Nitschke SPECIES
-=======
+# Calosphaeria aurata Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula inquinans (Schwein.) Sacc. SPECIES
-=======
+# Torula inquinans (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxysporium armatum Lév. SPECIES
-=======
+# Oxysporium armatum Lév. SPECIES
 
 #### Status
 ACCEPTED

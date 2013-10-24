@@ -1,5 +1,4 @@
-Mycoplasma adleri Del Giudice et al., 1995 SPECIES
-=======
+# Mycoplasma adleri Del Giudice et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

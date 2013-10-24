@@ -1,5 +1,4 @@
-Passalora foeniculi M. Kamal & S.A. Khan SPECIES
-=======
+# Passalora foeniculi M. Kamal & S.A. Khan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuckelia carteri Berk. & Cooke SPECIES
-=======
+# Fuckelia carteri Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

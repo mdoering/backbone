@@ -1,5 +1,4 @@
-Lecanora galactotera Zahlbr. SPECIES
-=======
+# Lecanora galactotera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

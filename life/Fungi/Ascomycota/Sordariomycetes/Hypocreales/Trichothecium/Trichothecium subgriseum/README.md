@@ -1,5 +1,4 @@
-Trichothecium subgriseum Peck SPECIES
-=======
+# Trichothecium subgriseum Peck SPECIES
 
 #### Status
 ACCEPTED

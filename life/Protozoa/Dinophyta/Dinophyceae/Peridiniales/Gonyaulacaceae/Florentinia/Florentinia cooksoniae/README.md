@@ -1,5 +1,4 @@
-Florentinia cooksoniae (Singh, 1971) Duxbury SPECIES
-=======
+# Florentinia cooksoniae (Singh, 1971) Duxbury SPECIES
 
 #### Status
 ACCEPTED

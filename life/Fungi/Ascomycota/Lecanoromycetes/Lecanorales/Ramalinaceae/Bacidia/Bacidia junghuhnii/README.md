@@ -1,5 +1,4 @@
-Bacidia junghuhnii (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Bacidia junghuhnii (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

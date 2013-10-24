@@ -1,5 +1,4 @@
-Ceratostoma arcuatirostre Speg. SPECIES
-=======
+# Ceratostoma arcuatirostre Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenogaster muticus Berk. & Broome, 1848 SPECIES
-=======
+# Hymenogaster muticus Berk. & Broome, 1848 SPECIES
 
 #### Status
 ACCEPTED

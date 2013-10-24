@@ -1,5 +1,4 @@
-Coleosporium saussureae Thüm., 1880 SPECIES
-=======
+# Coleosporium saussureae Thüm., 1880 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bernardinium R. Chodat, 1924 GENUS
-=======
+# Bernardinium R. Chodat, 1924 GENUS
 
 #### Status
 ACCEPTED

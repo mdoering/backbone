@@ -1,5 +1,4 @@
-Micareaceae Vezda ex Hafellner FAMILY
-=======
+# Micareaceae Vezda ex Hafellner FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium bizarrum Viégas SPECIES
-=======
+# Stemphylium bizarrum Viégas SPECIES
 
 #### Status
 ACCEPTED

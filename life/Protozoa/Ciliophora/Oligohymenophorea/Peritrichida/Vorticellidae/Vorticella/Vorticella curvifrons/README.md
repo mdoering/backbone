@@ -1,5 +1,4 @@
-Vorticella curvifrons Dumas, 1930 SPECIES
-=======
+# Vorticella curvifrons Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calonectria longisetosa Hansf. SPECIES
-=======
+# Calonectria longisetosa Hansf. SPECIES
 
 #### Status
 ACCEPTED

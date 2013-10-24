@@ -1,5 +1,4 @@
-Pseudophalacroma E. Jörgensen in J. Schmidt, 1923 GENUS
-=======
+# Pseudophalacroma E. Jörgensen in J. Schmidt, 1923 GENUS
 
 #### Status
 ACCEPTED

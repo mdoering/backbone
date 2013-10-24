@@ -1,5 +1,4 @@
-Biporipsilonites anceps (G. Norris) Kalgutkar & Janson. SPECIES
-=======
+# Biporipsilonites anceps (G. Norris) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

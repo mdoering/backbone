@@ -1,5 +1,4 @@
-Lophiostoma thalictri Kauffman SPECIES
-=======
+# Lophiostoma thalictri Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sandersoniomyces R.K. Benj. GENUS
-=======
+# Sandersoniomyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

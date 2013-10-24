@@ -1,14 +1,13 @@
-Auerswaldia densa E. Bommer & M. Rousseau, 1896 SPECIES
-=======
+# Sphaerodothis densa (E. Bommer & M. Rousseau) Shear, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 35: 162 (1896)
+Mycologia 1(4): 163 (1909)
 
 #### Original name
 Auerswaldia densa E. Bommer & M. Rousseau, 1896

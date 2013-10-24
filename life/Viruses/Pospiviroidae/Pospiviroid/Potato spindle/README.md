@@ -1,5 +1,4 @@
-Potato spindle SPECIES
-=======
+# Potato spindle SPECIES
 
 #### Status
 ACCEPTED

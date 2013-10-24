@@ -1,5 +1,4 @@
-Botrytis umbellata (Bull.) DC. SPECIES
-=======
+# Botrytis umbellata (Bull.) DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta uleana Syd. SPECIES
-=======
+# Phyllosticta uleana Syd. SPECIES
 
 #### Status
 ACCEPTED

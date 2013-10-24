@@ -1,5 +1,4 @@
-Helminthosporium rhodomyrti Syd. {?} SPECIES
-=======
+# Helminthosporium rhodomyrti Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

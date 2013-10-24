@@ -1,5 +1,4 @@
-Catillaria encephalarti Vezda SPECIES
-=======
+# Catillaria encephalarti Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Aspidisca fjeldi Dragesco, 1960 SPECIES
-=======
+# Aspidisca sedigita Quennerstedt, 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

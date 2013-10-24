@@ -1,5 +1,4 @@
-Clavaria vermiculata Pers. SPECIES
-=======
+# Clavaria vermiculata Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Berengeria albana SPECIES
-=======
+# Berengeria albana SPECIES
 
 #### Status
 ACCEPTED

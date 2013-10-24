@@ -1,5 +1,4 @@
-Pannaria ekistophylla Colmeiro SPECIES
-=======
+# Pannaria ekistophylla Colmeiro SPECIES
 
 #### Status
 ACCEPTED

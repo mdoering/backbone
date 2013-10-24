@@ -1,5 +1,4 @@
-Stereocaulon giltayi P.A. Duvign. SPECIES
-=======
+# Stereocaulon giltayi P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

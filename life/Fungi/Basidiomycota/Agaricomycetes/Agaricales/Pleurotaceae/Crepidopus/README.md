@@ -1,5 +1,4 @@
-Crepidopus GENUS
-=======
+# Crepidopus GENUS
 
 #### Status
 ACCEPTED

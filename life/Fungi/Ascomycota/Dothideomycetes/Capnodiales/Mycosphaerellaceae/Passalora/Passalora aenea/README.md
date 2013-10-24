@@ -1,5 +1,4 @@
-Passalora aenea (Cif.) U. Braun & Crous SPECIES
-=======
+# Passalora aenea (Cif.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

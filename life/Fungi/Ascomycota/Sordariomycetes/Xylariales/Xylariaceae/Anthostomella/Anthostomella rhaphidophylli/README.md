@@ -1,5 +1,4 @@
-Anthostomella rhaphidophylli B.S. Lu & K.D. Hyde, 2000 SPECIES
-=======
+# Anthostomella rhaphidophylli B.S. Lu & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

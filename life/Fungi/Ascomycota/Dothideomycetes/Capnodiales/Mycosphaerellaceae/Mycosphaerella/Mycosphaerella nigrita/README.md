@@ -1,5 +1,4 @@
-Mycosphaerella nigrita (Cooke) J.H. Mill. SPECIES
-=======
+# Mycosphaerella nigrita (Cooke) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

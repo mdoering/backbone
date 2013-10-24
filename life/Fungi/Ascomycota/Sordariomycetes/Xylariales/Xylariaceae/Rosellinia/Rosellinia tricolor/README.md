@@ -1,5 +1,4 @@
-Rosellinia tricolor Theiss. SPECIES
-=======
+# Rosellinia tricolor Theiss. SPECIES
 
 #### Status
 ACCEPTED

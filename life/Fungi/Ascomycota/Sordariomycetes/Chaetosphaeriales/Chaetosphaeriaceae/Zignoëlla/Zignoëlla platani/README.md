@@ -1,5 +1,4 @@
-Zignoëlla platani Rehm SPECIES
-=======
+# Zignoëlla platani Rehm SPECIES
 
 #### Status
 ACCEPTED

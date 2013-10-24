@@ -1,5 +1,4 @@
-Lecanora fallax var. fallax VARIETY
-=======
+# Lecanora fallax (Hepp) T.P. Brisson SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Porosty (Lichenes). <b>3</b> (Lublin), Rodzina <i>Lecanoraceae</i>. <i>Lecanora</i> 539 (1996)
 
 #### Original name
-Lecanora fallax var. fallax
+Lecanora hagenii var. fallax Hepp
 
 ### Remarks
 null

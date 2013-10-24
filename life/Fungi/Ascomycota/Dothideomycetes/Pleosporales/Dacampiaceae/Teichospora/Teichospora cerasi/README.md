@@ -1,5 +1,4 @@
-Teichospora cerasi (Feltgen) Sacc. & P. Syd. SPECIES
-=======
+# Teichospora cerasi (Feltgen) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

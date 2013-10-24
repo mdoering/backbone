@@ -1,5 +1,4 @@
-Morchella prunarii Schulzer SPECIES
-=======
+# Morchella prunarii Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota reflexa Fr. SPECIES
-=======
+# Pholiota reflexa Fr. SPECIES
 
 #### Status
 ACCEPTED

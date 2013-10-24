@@ -1,5 +1,4 @@
-Rhodophyllus prismosporus (Hesler) Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus prismosporus (Hesler) Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alectoria catharinae Räsänen SPECIES
-=======
+# Alectoria catharinae Räsänen SPECIES
 
 #### Status
 ACCEPTED

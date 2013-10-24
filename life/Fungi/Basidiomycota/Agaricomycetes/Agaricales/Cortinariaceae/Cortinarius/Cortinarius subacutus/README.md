@@ -1,5 +1,4 @@
-Cortinarius subacutus A.H. Sm. SPECIES
-=======
+# Cortinarius subacutus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania disceptans (Nyl.) Lynge SPECIES
-=======
+# Lecania disceptans (Nyl.) Lynge SPECIES
 
 #### Status
 ACCEPTED

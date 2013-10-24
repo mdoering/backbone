@@ -1,5 +1,4 @@
-Cortinarius keralensis K.A. Thomas, M.M. Moser, Peintner & Manim. SPECIES
-=======
+# Cortinarius keralensis K.A. Thomas, M.M. Moser, Peintner & Manim. SPECIES
 
 #### Status
 ACCEPTED

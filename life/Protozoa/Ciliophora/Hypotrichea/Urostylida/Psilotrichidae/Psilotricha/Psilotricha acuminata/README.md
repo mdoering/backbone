@@ -1,5 +1,4 @@
-Psilotricha acuminata Stein, 1859 SPECIES
-=======
+# Psilotricha acuminata Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

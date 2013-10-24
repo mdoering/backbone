@@ -1,5 +1,4 @@
-Ramularia trillii W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Ramularia trillii W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

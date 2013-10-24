@@ -1,17 +1,16 @@
-Catacauma ingae Chardón, 1929 SPECIES
-=======
+# Phyllachora amphibola Syd., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Dept. Agric. Porto Rico 13(1): 9 (1929)
+Annls mycol. 24(5/6): 383 (1926)
 
 #### Original name
-Catacauma ingae Chardón, 1929
+Phyllachora amphibola Syd., 1926
 
 ### Remarks
 null

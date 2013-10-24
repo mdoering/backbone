@@ -1,17 +1,16 @@
-Cercospora gynadropsiicola R.K. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Cercospora gynandropsicola R.K. Srivast., A.K. Srivast. & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 20/21(1-2): 40 (1995)
 
 #### Original name
-Cercospora gynadropsiicola R.K. Srivast., A.K. Srivast. & Kamal
+Cercospora gynandropsicola R.K. Srivast., A.K. Srivast. & Kamal
 
 ### Remarks
 null

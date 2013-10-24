@@ -1,5 +1,4 @@
-Dechloromonas denitrificans Horn et al., 2005 SPECIES
-=======
+# Dechloromonas denitrificans Horn et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

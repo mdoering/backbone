@@ -1,5 +1,4 @@
-Leucogramma serpentaria G. Mey. SPECIES
-=======
+# Leucogramma serpentaria G. Mey. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora obtegens (Syd. & P. Syd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora obtegens (Syd. & P. Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

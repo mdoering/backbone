@@ -1,5 +1,4 @@
-Pluteus cyanopus Quél. SPECIES
-=======
+# Pluteus cyanopus Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetocalathus porphyrinus Corner SPECIES
-=======
+# Chaetocalathus porphyrinus Corner SPECIES
 
 #### Status
 ACCEPTED

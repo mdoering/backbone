@@ -1,5 +1,4 @@
-Dichaena aequata Fr. SPECIES
-=======
+# Dichaena aequata Fr. SPECIES
 
 #### Status
 ACCEPTED

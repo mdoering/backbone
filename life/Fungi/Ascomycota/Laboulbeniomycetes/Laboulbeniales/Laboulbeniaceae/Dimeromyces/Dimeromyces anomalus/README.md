@@ -1,5 +1,4 @@
-Dimeromyces anomalus Thaxt. SPECIES
-=======
+# Dimeromyces anomalus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostroma pallidum Morgan SPECIES
-=======
+# Asterostroma pallidum Morgan SPECIES
 
 #### Status
 ACCEPTED

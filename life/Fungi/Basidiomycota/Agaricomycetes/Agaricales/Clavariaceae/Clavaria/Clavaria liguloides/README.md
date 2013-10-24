@@ -1,5 +1,4 @@
-Clavaria liguloides Henn. & E. Nyman SPECIES
-=======
+# Clavaria liguloides Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

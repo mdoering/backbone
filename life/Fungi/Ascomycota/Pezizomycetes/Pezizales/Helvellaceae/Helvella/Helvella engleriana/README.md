@@ -1,5 +1,4 @@
-Helvella engleriana Henn., 1894 SPECIES
-=======
+# Helvella engleriana Henn., 1894 SPECIES
 
 #### Status
 ACCEPTED

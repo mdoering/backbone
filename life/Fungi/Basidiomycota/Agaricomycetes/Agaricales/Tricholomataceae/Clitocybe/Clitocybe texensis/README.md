@@ -1,5 +1,4 @@
-Clitocybe texensis H.E. Bigelow SPECIES
-=======
+# Clitocybe texensis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

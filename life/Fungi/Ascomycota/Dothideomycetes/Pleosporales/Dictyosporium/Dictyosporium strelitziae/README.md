@@ -1,5 +1,4 @@
-Dictyosporium strelitziae Crous & A.R. Wood SPECIES
-=======
+# Dictyosporium strelitziae Crous & A.R. Wood SPECIES
 
 #### Status
 ACCEPTED

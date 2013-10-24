@@ -1,5 +1,4 @@
-Lecidea sangeana Vain. SPECIES
-=======
+# Lecidea sangeana Vain. SPECIES
 
 #### Status
 ACCEPTED

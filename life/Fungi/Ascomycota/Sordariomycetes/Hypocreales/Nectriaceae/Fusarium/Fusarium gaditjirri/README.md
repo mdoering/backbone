@@ -1,5 +1,4 @@
-Fusarium gaditjirri Phan, L.W. Burgess & Summerell SPECIES
-=======
+# Fusarium gaditjirri Phan, L.W. Burgess & Summerell SPECIES
 
 #### Status
 ACCEPTED

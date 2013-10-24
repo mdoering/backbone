@@ -1,5 +1,4 @@
-Coccomyces yerbae Speg. SPECIES
-=======
+# Coccomyces yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

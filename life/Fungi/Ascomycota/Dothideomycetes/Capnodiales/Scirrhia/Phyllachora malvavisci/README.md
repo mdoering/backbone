@@ -1,5 +1,4 @@
-Phyllachora malvavisci Syd., 1925 SPECIES
-=======
+# Phyllachora malvavisci Syd., 1925 SPECIES
 
 #### Status
 DOUBTFUL

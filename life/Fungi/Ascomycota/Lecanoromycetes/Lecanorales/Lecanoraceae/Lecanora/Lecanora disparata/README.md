@@ -1,5 +1,4 @@
-Lecanora disparata Nyl. SPECIES
-=======
+# Lecanora disparata Nyl. SPECIES
 
 #### Status
 ACCEPTED

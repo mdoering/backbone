@@ -1,5 +1,4 @@
-Caloplaca rivulicola H. Magn. SPECIES
-=======
+# Caloplaca rivulicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

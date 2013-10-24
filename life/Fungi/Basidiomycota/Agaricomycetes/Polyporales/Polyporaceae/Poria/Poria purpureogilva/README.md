@@ -1,5 +1,4 @@
-Poria purpureogilva Petch SPECIES
-=======
+# Poria purpureogilva Petch SPECIES
 
 #### Status
 ACCEPTED

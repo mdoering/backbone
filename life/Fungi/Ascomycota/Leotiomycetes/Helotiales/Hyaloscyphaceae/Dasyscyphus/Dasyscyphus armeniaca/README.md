@@ -1,8 +1,7 @@
-Dasyscypha armeniaca (Pers.) Sacc. SPECIES
-=======
+# Dasyscyphus armeniaca (Pers.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

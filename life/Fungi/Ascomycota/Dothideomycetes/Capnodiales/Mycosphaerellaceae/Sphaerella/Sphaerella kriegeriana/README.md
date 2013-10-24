@@ -1,5 +1,4 @@
-Sphaerella kriegeriana Kirschst. SPECIES
-=======
+# Sphaerella kriegeriana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

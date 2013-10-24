@@ -1,5 +1,4 @@
-Geasteroides Long GENUS
-=======
+# Geasteroides Long GENUS
 
 #### Status
 ACCEPTED

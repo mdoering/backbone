@@ -1,5 +1,4 @@
-Pyrenochaeta jaczewskii Negru SPECIES
-=======
+# Pyrenochaeta jaczewskii Negru SPECIES
 
 #### Status
 ACCEPTED

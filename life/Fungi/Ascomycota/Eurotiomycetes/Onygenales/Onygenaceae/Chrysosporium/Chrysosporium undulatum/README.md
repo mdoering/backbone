@@ -1,5 +1,4 @@
-Chrysosporium undulatum P. Vidal, Guarro & Ulfig, 1999 SPECIES
-=======
+# Chrysosporium undulatum P. Vidal, Guarro & Ulfig, 1999 SPECIES
 
 #### Status
 ACCEPTED

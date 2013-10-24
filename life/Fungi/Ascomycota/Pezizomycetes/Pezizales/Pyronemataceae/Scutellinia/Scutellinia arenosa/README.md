@@ -1,5 +1,4 @@
-Scutellinia arenosa (Velen.) Le Gal SPECIES
-=======
+# Scutellinia arenosa (Velen.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

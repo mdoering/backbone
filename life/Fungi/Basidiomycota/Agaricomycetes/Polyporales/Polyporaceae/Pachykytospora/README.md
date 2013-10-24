@@ -1,5 +1,4 @@
-Pachykytospora Kotl. & Pouzar GENUS
-=======
+# Pachykytospora Kotl. & Pouzar GENUS
 
 #### Status
 ACCEPTED

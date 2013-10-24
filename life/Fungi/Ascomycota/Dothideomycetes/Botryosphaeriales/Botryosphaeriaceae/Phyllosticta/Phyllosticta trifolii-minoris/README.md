@@ -1,5 +1,4 @@
-Phyllosticta trifolii-minoris Unamuno SPECIES
-=======
+# Phyllosticta trifolii-minoris Unamuno SPECIES
 
 #### Status
 ACCEPTED

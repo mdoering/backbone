@@ -1,5 +1,4 @@
-Stachylidium chartarum Schulzer & Sacc. SPECIES
-=======
+# Stachylidium chartarum Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

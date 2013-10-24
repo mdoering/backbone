@@ -1,5 +1,4 @@
-Tuberculina japonica Speg. SPECIES
-=======
+# Tuberculina japonica Speg. SPECIES
 
 #### Status
 ACCEPTED

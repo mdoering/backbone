@@ -1,5 +1,4 @@
-Septoria teucrii Sacc. SPECIES
-=======
+# Septoria teucrii Sacc. SPECIES
 
 #### Status
 ACCEPTED

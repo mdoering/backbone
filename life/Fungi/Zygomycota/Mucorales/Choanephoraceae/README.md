@@ -1,5 +1,4 @@
-Choanephoraceae J. Schröt. FAMILY
-=======
+# Choanephoraceae J. Schröt. FAMILY
 
 #### Status
 ACCEPTED

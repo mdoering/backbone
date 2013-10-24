@@ -1,14 +1,13 @@
-Ramularia carthusiana (Sacc.) Höhn. SPECIES
-=======
+# Septogloeum carthusianum (Sacc.) Sacc., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 1236 (1909)
+Michelia 2(no. 6): 111 (1880)
 
 #### Original name
 Gloeosporium carthusianum Sacc., 1878

@@ -1,5 +1,4 @@
-Heterostegina curva Moebius, 1880 SPECIES
-=======
+# Heterostegina curva Moebius, 1880 SPECIES
 
 #### Status
 ACCEPTED

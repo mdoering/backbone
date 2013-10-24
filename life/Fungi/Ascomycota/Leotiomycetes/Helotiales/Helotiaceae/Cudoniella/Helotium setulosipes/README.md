@@ -1,5 +1,4 @@
-Helotium setulosipes (Murrill) Redhead SPECIES
-=======
+# Helotium setulosipes (Murrill) Redhead SPECIES
 
 #### Status
 ACCEPTED

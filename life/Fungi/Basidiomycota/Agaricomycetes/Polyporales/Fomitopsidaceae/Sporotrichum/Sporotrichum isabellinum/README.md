@@ -1,5 +1,4 @@
-Sporotrichum isabellinum P. Karst. SPECIES
-=======
+# Sporotrichum isabellinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

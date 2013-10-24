@@ -1,5 +1,4 @@
-Diatoma costata var. curta Rehakova VARIETY
-=======
+# Diatoma costata Zeháková SPECIES
 
 #### Status
 ACCEPTED

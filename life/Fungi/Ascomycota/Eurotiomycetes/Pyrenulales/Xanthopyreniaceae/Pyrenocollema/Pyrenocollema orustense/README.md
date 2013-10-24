@@ -1,5 +1,4 @@
-Arthopyrenia halodytes var. tenuicula (Wedd.) H. Olivier VARIETY
-=======
+# Pyrenocollema orustense (Erichsen) A. Fletcher SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 24(4): 368 (1992)
 
 #### Original name
-null
+Arthopyrenia orustensis Erichsen
 
 ### Remarks
 null

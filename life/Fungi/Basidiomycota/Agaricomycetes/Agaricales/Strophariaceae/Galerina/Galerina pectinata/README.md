@@ -1,5 +1,4 @@
-Galerina pectinata (Sacc.) Courtec. SPECIES
-=======
+# Galerina pectinata (Sacc.) Courtec. SPECIES
 
 #### Status
 ACCEPTED

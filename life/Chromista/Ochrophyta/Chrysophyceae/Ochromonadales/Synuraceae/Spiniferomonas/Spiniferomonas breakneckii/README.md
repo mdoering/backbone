@@ -1,5 +1,4 @@
-Spiniferomonas breakneckii P. A. Siver SPECIES
-=======
+# Spiniferomonas breakneckii P. A. Siver SPECIES
 
 #### Status
 ACCEPTED

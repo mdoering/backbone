@@ -1,17 +1,16 @@
-Engizostoma polycoccum (Fr.) Kuntze, 1898 SPECIES
-=======
+# Eutypa polycocca (Fr.) P. Karst., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 475 (1898)
+Mycoth. fenn. (Helsinki) 2: 127 (1873)
 
 #### Original name
-Sphaeria lata Pers., 1796
+Eutypa polycocca (Fr.) P. Karst., 1873
 
 ### Remarks
 null

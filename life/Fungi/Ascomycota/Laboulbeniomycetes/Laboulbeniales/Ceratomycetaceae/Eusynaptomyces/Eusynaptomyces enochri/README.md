@@ -1,5 +1,4 @@
-Eusynaptomyces enochri Scheloske, 1969 SPECIES
-=======
+# Eusynaptomyces enochri Scheloske, 1969 SPECIES
 
 #### Status
 ACCEPTED

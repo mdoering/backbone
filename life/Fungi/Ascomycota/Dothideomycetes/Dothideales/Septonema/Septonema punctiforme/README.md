@@ -1,5 +1,4 @@
-Septonema punctiforme Berk. & M.A. Curtis SPECIES
-=======
+# Septonema punctiforme Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

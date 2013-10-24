@@ -1,5 +1,4 @@
-Parmelia panyrga (Ach.) Spreng. SPECIES
-=======
+# Parmelia panyrga (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

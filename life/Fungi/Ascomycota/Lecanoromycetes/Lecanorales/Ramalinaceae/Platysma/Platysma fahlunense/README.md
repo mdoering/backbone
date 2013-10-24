@@ -1,5 +1,4 @@
-Platysma fahlunense (L.) Nyl. SPECIES
-=======
+# Platysma fahlunense (L.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

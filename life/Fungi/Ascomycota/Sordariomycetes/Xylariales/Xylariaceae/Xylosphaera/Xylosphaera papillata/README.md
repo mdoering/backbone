@@ -1,5 +1,4 @@
-Xylosphaera papillata (Syd.) Dennis SPECIES
-=======
+# Xylosphaera papillata (Syd.) Dennis SPECIES
 
 #### Status
 ACCEPTED

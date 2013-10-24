@@ -1,5 +1,4 @@
-Tomentella guadalupensis E.C. Martini & Hentic, 2006 SPECIES
-=======
+# Tomentella guadalupensis E.C. Martini & Hentic, 2006 SPECIES
 
 #### Status
 ACCEPTED

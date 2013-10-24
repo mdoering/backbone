@@ -1,5 +1,4 @@
-Vorticella spuripicta SPECIES
-=======
+# Vorticella spuripicta SPECIES
 
 #### Status
 ACCEPTED

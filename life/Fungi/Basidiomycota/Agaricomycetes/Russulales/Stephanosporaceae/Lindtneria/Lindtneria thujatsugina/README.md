@@ -1,5 +1,4 @@
-Lindtneria thujatsugina M.J. Larsen, 1986 SPECIES
-=======
+# Lindtneria thujatsugina M.J. Larsen, 1986 SPECIES
 
 #### Status
 ACCEPTED

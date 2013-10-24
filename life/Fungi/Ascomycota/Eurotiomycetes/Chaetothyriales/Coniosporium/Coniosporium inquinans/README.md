@@ -1,5 +1,4 @@
-Coniosporium inquinans Durieu & Mont. SPECIES
-=======
+# Coniosporium inquinans Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

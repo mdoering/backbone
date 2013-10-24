@@ -1,5 +1,4 @@
-Dactylaria zapatensis R.F. Castañeda, 1988 SPECIES
-=======
+# Dactylaria zapatensis R.F. Castañeda, 1988 SPECIES
 
 #### Status
 ACCEPTED

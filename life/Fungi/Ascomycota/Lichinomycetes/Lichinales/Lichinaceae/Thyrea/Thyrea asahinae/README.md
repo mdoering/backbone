@@ -1,5 +1,4 @@
-Thyrea asahinae (Yoshim.) Yoshim. SPECIES
-=======
+# Thyrea asahinae (Yoshim.) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

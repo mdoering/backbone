@@ -1,5 +1,4 @@
-Dermatina rhypontoides (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatina rhypontoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

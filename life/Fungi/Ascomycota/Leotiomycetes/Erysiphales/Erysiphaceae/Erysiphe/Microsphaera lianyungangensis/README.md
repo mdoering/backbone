@@ -1,5 +1,4 @@
-Microsphaera lianyungangensis S.R. Yu SPECIES
-=======
+# Microsphaera lianyungangensis S.R. Yu SPECIES
 
 #### Status
 ACCEPTED

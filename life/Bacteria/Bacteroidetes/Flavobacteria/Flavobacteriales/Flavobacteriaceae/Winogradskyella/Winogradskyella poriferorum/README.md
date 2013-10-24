@@ -1,5 +1,4 @@
-Winogradskyella poriferorum Lau et al., 2005 SPECIES
-=======
+# Winogradskyella poriferorum Lau et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palmnickia Eisenack, 1954 GENUS
-=======
+# Palmnickia Eisenack, 1954 GENUS
 
 #### Status
 ACCEPTED

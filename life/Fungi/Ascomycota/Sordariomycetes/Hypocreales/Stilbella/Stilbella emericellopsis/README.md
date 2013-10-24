@@ -1,5 +1,4 @@
-Stilbella emericellopsis Seifert SPECIES
-=======
+# Stilbella emericellopsis Seifert SPECIES
 
 #### Status
 ACCEPTED

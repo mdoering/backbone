@@ -1,5 +1,4 @@
-Oyemonas Skvortzov & Noda, 1969 GENUS
-=======
+# Oyemonas Skvortzov & Noda, 1969 GENUS
 
 #### Status
 ACCEPTED

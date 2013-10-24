@@ -1,5 +1,4 @@
-Thecaphora ammophilae Oudem. SPECIES
-=======
+# Thecaphora ammophilae Oudem. SPECIES
 
 #### Status
 ACCEPTED

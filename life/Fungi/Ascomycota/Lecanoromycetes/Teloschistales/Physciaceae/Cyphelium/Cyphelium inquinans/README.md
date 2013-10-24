@@ -1,17 +1,16 @@
-Cyphelium inquinans f. inquinans FORM
-=======
+# Cyphelium inquinans (Sm.) Trevis. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 45: 3 (1862)
 
 #### Original name
-Cyphelium inquinans f. inquinans
+Lichen inquinans Sm.
 
 ### Remarks
 null

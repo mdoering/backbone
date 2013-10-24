@@ -1,14 +1,13 @@
-Ochroconis humicola (G.L. Barron & L.V. Busch) de Hoog & Arx, 1973 SPECIES
-=======
+# Scolecobasidium humicola G.L. Barron & L.V. Busch, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 1: 57 (1973)
+Can. J. Bot. 40: 83 (1962)
 
 #### Original name
 Scolecobasidium humicola G.L. Barron & L.V. Busch, 1962

@@ -1,5 +1,4 @@
-Boletus rugosiceps Peck SPECIES
-=======
+# Boletus rugosiceps Peck SPECIES
 
 #### Status
 ACCEPTED

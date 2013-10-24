@@ -1,5 +1,4 @@
-Myxotrichum emmonsii Kuehn SPECIES
-=======
+# Myxotrichum emmonsii Kuehn SPECIES
 
 #### Status
 ACCEPTED

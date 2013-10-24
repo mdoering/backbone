@@ -1,5 +1,4 @@
-Cladonia fliacea (Huds.) Willd. SPECIES
-=======
+# Cladonia fliacea (Huds.) Willd. SPECIES
 
 #### Status
 ACCEPTED

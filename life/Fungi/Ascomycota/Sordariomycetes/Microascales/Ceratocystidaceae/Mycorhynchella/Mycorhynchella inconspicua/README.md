@@ -1,5 +1,4 @@
-Mycorhynchella inconspicua Höhn. SPECIES
-=======
+# Mycorhynchella inconspicua Höhn. SPECIES
 
 #### Status
 ACCEPTED

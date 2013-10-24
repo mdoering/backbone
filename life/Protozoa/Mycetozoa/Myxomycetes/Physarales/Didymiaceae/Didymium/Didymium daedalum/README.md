@@ -1,5 +1,4 @@
-Didymium daedalum Schrad. SPECIES
-=======
+# Didymium daedalum Schrad. SPECIES
 
 #### Status
 ACCEPTED

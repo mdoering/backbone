@@ -1,5 +1,4 @@
-Pleosphaerellula Naumov & Czerepan. GENUS
-=======
+# Pleosphaerellula Naumov & Czerepan. GENUS
 
 #### Status
 ACCEPTED

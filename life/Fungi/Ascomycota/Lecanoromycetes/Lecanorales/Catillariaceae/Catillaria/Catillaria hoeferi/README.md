@@ -1,5 +1,4 @@
-Catillaria hoeferi Körb. SPECIES
-=======
+# Catillaria hoeferi Körb. SPECIES
 
 #### Status
 ACCEPTED

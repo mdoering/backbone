@@ -1,8 +1,7 @@
-Sphaerella maydis Pass. SPECIES
-=======
+# Sphaerella maydina Pass. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella maydis Pass.
+Sphaerella maydina Pass.
 
 ### Remarks
 null

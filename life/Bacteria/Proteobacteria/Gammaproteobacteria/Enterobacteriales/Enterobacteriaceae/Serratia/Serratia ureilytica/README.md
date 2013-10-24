@@ -1,5 +1,4 @@
-Serratia ureilytica Bhadra et al., 2005 SPECIES
-=======
+# Serratia ureilytica Bhadra et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

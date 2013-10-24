@@ -1,5 +1,4 @@
-Septoria virgaureae Desm., 1842 SPECIES
-=======
+# Septoria virgaureae Desm., 1842 SPECIES
 
 #### Status
 ACCEPTED

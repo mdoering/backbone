@@ -1,5 +1,4 @@
-Helminthosporium rigidum Schwein. ex Fr. SPECIES
-=======
+# Helminthosporium rigidum Schwein. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

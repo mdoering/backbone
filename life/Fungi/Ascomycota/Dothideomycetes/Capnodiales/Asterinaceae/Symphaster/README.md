@@ -1,17 +1,16 @@
-Isipinga Doidge GENUS
-=======
+# Symphaster Theiss. & Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 1: 15 (1921)
+Annls mycol. 13(3/4): 217 (1915)
 
 #### Original name
-Isipinga Doidge
+Symphaster Theiss. & Syd.
 
 ### Remarks
 null

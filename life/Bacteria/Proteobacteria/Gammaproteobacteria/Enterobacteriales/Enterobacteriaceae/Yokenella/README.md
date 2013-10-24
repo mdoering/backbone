@@ -1,5 +1,4 @@
-Yokenella Kosako et al., 1985 GENUS
-=======
+# Yokenella Kosako et al., 1985 GENUS
 
 #### Status
 ACCEPTED

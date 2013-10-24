@@ -1,14 +1,13 @@
-Agaricus nigrovinosus Pegler, 1977 SPECIES
-=======
+# Hymenagaricus nigrovinosus (Pegler) Heinem., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. , Addit. Ser. 6: 327 (1977)
+Bull. Jard. Bot. Nat. Belg. 51(3/4): 466 (1981)
 
 #### Original name
 Agaricus nigrovinosus Pegler, 1977

@@ -1,5 +1,4 @@
-Tetracrium piperis Hansf. SPECIES
-=======
+# Tetracrium piperis Hansf. SPECIES
 
 #### Status
 ACCEPTED

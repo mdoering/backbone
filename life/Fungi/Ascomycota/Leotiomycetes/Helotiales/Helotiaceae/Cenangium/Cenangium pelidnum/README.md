@@ -1,5 +1,4 @@
-Cenangium pelidnum (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Cenangium pelidnum (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

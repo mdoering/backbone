@@ -1,5 +1,4 @@
-Biatora plusiospora (Th. Fr.) Hellb. SPECIES
-=======
+# Biatora plusiospora (Th. Fr.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella friesiana Cooke SPECIES
-=======
+# Helvella friesiana Cooke SPECIES
 
 #### Status
 ACCEPTED

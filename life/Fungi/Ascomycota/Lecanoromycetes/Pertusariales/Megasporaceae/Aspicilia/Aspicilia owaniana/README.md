@@ -1,5 +1,4 @@
-Aspicilia owaniana Hue SPECIES
-=======
+# Aspicilia owaniana Hue SPECIES
 
 #### Status
 ACCEPTED

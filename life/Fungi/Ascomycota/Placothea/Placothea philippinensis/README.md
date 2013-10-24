@@ -1,5 +1,4 @@
-Placothea philippinensis Syd., 1931 SPECIES
-=======
+# Placothea philippinensis Syd., 1931 SPECIES
 
 #### Status
 ACCEPTED

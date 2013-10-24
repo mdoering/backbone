@@ -1,5 +1,4 @@
-Cortinarius britzelmayrii Reumaux SPECIES
-=======
+# Cortinarius britzelmayrii Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Evernia madreporiformis (With.) Fr. SPECIES
-=======
+# Evernia madreporiformis (With.) Fr. SPECIES
 
 #### Status
 ACCEPTED

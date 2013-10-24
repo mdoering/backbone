@@ -1,5 +1,4 @@
-Dicacheopsis GENUS
-=======
+# Dicacheopsis GENUS
 
 #### Status
 ACCEPTED

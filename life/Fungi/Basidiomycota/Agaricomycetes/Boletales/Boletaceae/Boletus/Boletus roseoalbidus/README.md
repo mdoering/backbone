@@ -1,5 +1,4 @@
-Boletus roseoalbidus (Alessio & Littini) G. Moreno & Heykoop, 1995 SPECIES
-=======
+# Boletus roseoalbidus (Alessio & Littini) G. Moreno & Heykoop, 1995 SPECIES
 
 #### Status
 ACCEPTED

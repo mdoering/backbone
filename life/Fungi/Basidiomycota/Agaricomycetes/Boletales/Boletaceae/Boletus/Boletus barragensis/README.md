@@ -1,5 +1,4 @@
-Boletus barragensis Grgur. SPECIES
-=======
+# Boletus barragensis Grgur. SPECIES
 
 #### Status
 ACCEPTED

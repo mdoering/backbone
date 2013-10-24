@@ -1,5 +1,4 @@
-Ceratocystis vesca R.W. Davidson SPECIES
-=======
+# Ceratocystis vesca R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

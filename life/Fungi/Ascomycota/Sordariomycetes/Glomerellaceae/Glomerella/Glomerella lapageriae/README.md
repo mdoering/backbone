@@ -1,5 +1,4 @@
-Glomerella lapageriae (Speg.) Petr. SPECIES
-=======
+# Glomerella lapageriae (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

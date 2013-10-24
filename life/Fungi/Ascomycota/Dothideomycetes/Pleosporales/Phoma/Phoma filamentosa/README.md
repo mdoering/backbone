@@ -1,5 +1,4 @@
-Phoma filamentosa (Cooke) Sacc. SPECIES
-=======
+# Phoma filamentosa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

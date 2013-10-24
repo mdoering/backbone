@@ -1,5 +1,4 @@
-Paracineta crassipes SPECIES
-=======
+# Paracineta crassipes SPECIES
 
 #### Status
 ACCEPTED

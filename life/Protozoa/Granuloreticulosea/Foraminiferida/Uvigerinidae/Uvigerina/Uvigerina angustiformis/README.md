@@ -1,5 +1,4 @@
-Uvigerina angustiformis Vella, 1957 SPECIES
-=======
+# Uvigerina angustiformis Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

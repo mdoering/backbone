@@ -1,5 +1,4 @@
-Ascochyta alpina Rostr. SPECIES
-=======
+# Ascochyta alpina Rostr. SPECIES
 
 #### Status
 ACCEPTED

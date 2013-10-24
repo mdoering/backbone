@@ -1,5 +1,4 @@
-Lecidella pungens (Körb.) Körb. SPECIES
-=======
+# Lecidella pungens (Körb.) Körb. SPECIES
 
 #### Status
 ACCEPTED

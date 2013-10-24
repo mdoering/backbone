@@ -1,5 +1,4 @@
-Nucleospora secunda Lom & Dykoá SPECIES
-=======
+# Nucleospora secunda Lom & Dykoá SPECIES
 
 #### Status
 ACCEPTED

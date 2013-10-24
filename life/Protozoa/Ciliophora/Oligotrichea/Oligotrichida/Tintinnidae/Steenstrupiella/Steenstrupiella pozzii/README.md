@@ -1,5 +1,4 @@
-Steenstrupiella pozzii Balech, 1942 SPECIES
-=======
+# Steenstrupiella pozzii Balech, 1942 SPECIES
 
 #### Status
 ACCEPTED

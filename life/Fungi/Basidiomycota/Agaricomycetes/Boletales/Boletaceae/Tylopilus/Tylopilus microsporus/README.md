@@ -1,5 +1,4 @@
-Tylopilus microsporus S.Z. Fu, Q.B. Wang & Y.J. Yao SPECIES
-=======
+# Tylopilus microsporus S.Z. Fu, Q.B. Wang & Y.J. Yao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia piptatheri Lagerh. SPECIES
-=======
+# Puccinia piptatheri Lagerh. SPECIES
 
 #### Status
 ACCEPTED

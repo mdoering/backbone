@@ -1,5 +1,4 @@
-Phatnasparium Haeckel, 1887 GENUS
-=======
+# Phatnasparium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

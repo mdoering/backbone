@@ -1,5 +1,4 @@
-Cortinarius inamoenus (J. Favre) Quadr. SPECIES
-=======
+# Cortinarius inamoenus (J. Favre) Quadr. SPECIES
 
 #### Status
 ACCEPTED

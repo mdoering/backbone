@@ -1,5 +1,4 @@
-Puccinia pentactina Doidge SPECIES
-=======
+# Puccinia pentactina Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Physcia pseudo-prunastri Biv. ex Figlio Andrea {?} SPECIES
-=======
+# Physcia pseudoprunastri Biv. ex Figlio Andrea {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia pseudo-prunastri Biv. ex Figlio Andrea {?}
+Physcia pseudoprunastri Biv. ex Figlio Andrea {?}
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sarcogyne clavulus (Stizenb.) H. Magn. SPECIES
-=======
+# Sarcogyne clavulus (Stizenb.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

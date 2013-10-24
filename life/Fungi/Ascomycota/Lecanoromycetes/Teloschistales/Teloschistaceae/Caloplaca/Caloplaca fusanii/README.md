@@ -1,5 +1,4 @@
-Caloplaca fusanii (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca fusanii (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

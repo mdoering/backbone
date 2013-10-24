@@ -1,5 +1,4 @@
-Imbricaria aspidota (Ach.) Rehm SPECIES
-=======
+# Imbricaria aspidota (Ach.) Rehm SPECIES
 
 #### Status
 ACCEPTED

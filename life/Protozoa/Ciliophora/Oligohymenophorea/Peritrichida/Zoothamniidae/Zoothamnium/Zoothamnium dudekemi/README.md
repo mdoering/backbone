@@ -1,5 +1,4 @@
-Zoothamnium dudekemi SPECIES
-=======
+# Zoothamnium dudekemi SPECIES
 
 #### Status
 ACCEPTED

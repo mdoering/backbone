@@ -1,5 +1,4 @@
-Cryptosphaeria fissicola (Cooke & Ellis) Sacc. SPECIES
-=======
+# Cryptosphaeria fissicola (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllactinia actinidiae (Jacz.) Bunkina SPECIES
-=======
+# Phyllactinia actinidiae (Jacz.) Bunkina SPECIES
 
 #### Status
 ACCEPTED

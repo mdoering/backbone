@@ -1,5 +1,4 @@
-Moristroma polysporum A.I. Romero & Samuels, 1991 SPECIES
-=======
+# Moristroma polysporum A.I. Romero & Samuels, 1991 SPECIES
 
 #### Status
 ACCEPTED

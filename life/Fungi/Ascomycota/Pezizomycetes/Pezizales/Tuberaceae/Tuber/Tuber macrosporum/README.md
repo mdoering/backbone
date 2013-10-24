@@ -1,5 +1,4 @@
-Tuber macrosporum Vittad., 1831 SPECIES
-=======
+# Tuber macrosporum Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED

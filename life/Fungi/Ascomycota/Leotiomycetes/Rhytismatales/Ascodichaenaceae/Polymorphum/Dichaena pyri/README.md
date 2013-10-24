@@ -1,5 +1,4 @@
-Dichaena pyri Dearn. & Barthol. SPECIES
-=======
+# Dichaena pyri Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

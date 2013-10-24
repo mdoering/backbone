@@ -1,11 +1,10 @@
-Amphiloma cirrochroum f. cirrochroum FORM
-=======
+# Amphiloma cirrochroum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null

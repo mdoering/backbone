@@ -1,5 +1,4 @@
-Pholiota contorta A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota contorta A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

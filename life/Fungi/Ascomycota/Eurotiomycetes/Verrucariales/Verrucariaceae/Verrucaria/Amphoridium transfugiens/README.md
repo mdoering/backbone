@@ -1,5 +1,4 @@
-Amphoridium transfugiens (Zschacke) Grummann SPECIES
-=======
+# Amphoridium transfugiens (Zschacke) Grummann SPECIES
 
 #### Status
 ACCEPTED

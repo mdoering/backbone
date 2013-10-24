@@ -1,5 +1,4 @@
-Gerronema glutinipes Pegler SPECIES
-=======
+# Gerronema glutinipes Pegler SPECIES
 
 #### Status
 ACCEPTED

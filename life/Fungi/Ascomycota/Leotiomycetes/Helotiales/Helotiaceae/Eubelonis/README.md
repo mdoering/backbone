@@ -1,5 +1,4 @@
-Eubelonis von Höhnel, 1926 GENUS
-=======
+# Eubelonis von Höhnel, 1926 GENUS
 
 #### Status
 ACCEPTED

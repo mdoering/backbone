@@ -1,5 +1,4 @@
-Buliminella stainforthi SPECIES
-=======
+# Buliminella stainforthi SPECIES
 
 #### Status
 ACCEPTED

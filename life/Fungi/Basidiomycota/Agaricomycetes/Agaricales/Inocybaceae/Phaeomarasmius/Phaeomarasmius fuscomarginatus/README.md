@@ -1,5 +1,4 @@
-Phaeomarasmius fuscomarginatus Singer SPECIES
-=======
+# Phaeomarasmius fuscomarginatus Singer SPECIES
 
 #### Status
 ACCEPTED

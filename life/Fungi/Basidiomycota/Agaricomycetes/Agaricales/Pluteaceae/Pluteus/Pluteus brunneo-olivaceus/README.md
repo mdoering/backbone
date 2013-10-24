@@ -1,5 +1,4 @@
-Pluteus brunneo-olivaceus E. Horak SPECIES
-=======
+# Pluteus brunneo-olivaceus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctochytrium variabile Rieth SPECIES
-=======
+# Phlyctochytrium variabile Rieth SPECIES
 
 #### Status
 ACCEPTED

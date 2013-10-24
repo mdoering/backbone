@@ -1,5 +1,4 @@
-Amphicampha Ehrenberg GENUS
-=======
+# Amphicampha Ehrenberg GENUS
 
 #### Status
 ACCEPTED

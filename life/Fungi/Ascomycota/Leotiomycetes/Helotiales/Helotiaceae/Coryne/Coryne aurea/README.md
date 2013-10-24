@@ -1,5 +1,4 @@
-Coryne aurea Fuckel SPECIES
-=======
+# Coryne aurea Fuckel SPECIES
 
 #### Status
 ACCEPTED

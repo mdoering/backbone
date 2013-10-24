@@ -1,5 +1,4 @@
-Cercospora cleomes Ellis & Halst. SPECIES
-=======
+# Cercospora cleomes Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

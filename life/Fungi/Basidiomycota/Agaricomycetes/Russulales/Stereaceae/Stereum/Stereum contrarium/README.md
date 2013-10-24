@@ -1,5 +1,4 @@
-Stereum contrarium Berk. SPECIES
-=======
+# Stereum contrarium Berk. SPECIES
 
 #### Status
 ACCEPTED

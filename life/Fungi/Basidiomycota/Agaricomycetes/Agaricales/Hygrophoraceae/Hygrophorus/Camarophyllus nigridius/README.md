@@ -1,5 +1,4 @@
-Camarophyllus nigridius (Peck) Murrill SPECIES
-=======
+# Camarophyllus nigridius (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea repanda Fuckel SPECIES
-=======
+# Hypocrea repanda Fuckel SPECIES
 
 #### Status
 ACCEPTED

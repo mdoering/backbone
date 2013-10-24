@@ -1,5 +1,4 @@
-Chaetomium cymbiforme Lodha, 1964 SPECIES
-=======
+# Chaetomium cymbiforme Lodha, 1964 SPECIES
 
 #### Status
 ACCEPTED

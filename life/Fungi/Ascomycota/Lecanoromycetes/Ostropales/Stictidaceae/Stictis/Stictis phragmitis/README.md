@@ -1,5 +1,4 @@
-Stictis phragmitis Lobik SPECIES
-=======
+# Stictis phragmitis Lobik SPECIES
 
 #### Status
 ACCEPTED

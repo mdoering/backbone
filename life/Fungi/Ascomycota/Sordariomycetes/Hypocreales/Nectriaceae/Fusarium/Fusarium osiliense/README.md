@@ -1,5 +1,4 @@
-Fusarium osiliense Bres. & Vestergr. SPECIES
-=======
+# Fusarium osiliense Bres. & Vestergr. SPECIES
 
 #### Status
 ACCEPTED

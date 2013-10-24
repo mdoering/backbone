@@ -1,5 +1,4 @@
-Lecanora friabilis (Vill.) Rabenh. SPECIES
-=======
+# Lecanora friabilis (Vill.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

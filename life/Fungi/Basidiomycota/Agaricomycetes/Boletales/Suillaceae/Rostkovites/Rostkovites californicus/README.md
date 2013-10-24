@@ -1,5 +1,4 @@
-Rostkovites californicus Murrill SPECIES
-=======
+# Rostkovites californicus Murrill SPECIES
 
 #### Status
 ACCEPTED

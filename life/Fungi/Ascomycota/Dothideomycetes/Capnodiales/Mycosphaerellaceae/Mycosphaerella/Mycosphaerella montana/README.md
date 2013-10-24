@@ -1,5 +1,4 @@
-Mycosphaerella montana Naumov SPECIES
-=======
+# Mycosphaerella montana Naumov SPECIES
 
 #### Status
 ACCEPTED

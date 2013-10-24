@@ -1,5 +1,4 @@
-Xyloma diospyri Schwein. SPECIES
-=======
+# Xyloma diospyri Schwein. SPECIES
 
 #### Status
 ACCEPTED

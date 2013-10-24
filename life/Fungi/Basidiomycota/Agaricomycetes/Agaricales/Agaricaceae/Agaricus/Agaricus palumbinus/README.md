@@ -1,5 +1,4 @@
-Agaricus palumbinus Berk. SPECIES
-=======
+# Agaricus palumbinus Berk. SPECIES
 
 #### Status
 ACCEPTED

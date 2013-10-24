@@ -1,5 +1,4 @@
-Arthrobacter ramosus Jensen, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Arthrobacter ramosus Jensen, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

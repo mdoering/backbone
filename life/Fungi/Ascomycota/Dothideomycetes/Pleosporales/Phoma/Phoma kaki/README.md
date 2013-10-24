@@ -1,5 +1,4 @@
-Phoma kaki Traverso & Spessa SPECIES
-=======
+# Phoma kaki Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

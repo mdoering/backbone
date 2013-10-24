@@ -1,5 +1,4 @@
-Cantharellus merrillii Bres. SPECIES
-=======
+# Cantharellus merrillii Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Chlorociboria versiformis var. versiformis (Pers.) Seaver VARIETY
-=======
+# Chlorencoelia versiformis (Pers.) J.R. Dixon, 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 1(3): 224 (1975)
 
 #### Original name
-Chlorociboria versiformis var. versiformis (Pers.) Seaver
+null
 
 ### Remarks
 null

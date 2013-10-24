@@ -1,5 +1,4 @@
-Antarctissa denticulata (Ehrenberg) Petrushevskaya, 1967 SPECIES
-=======
+# Antarctissa denticulata (Ehrenberg) Petrushevskaya, 1967 SPECIES
 
 #### Status
 ACCEPTED

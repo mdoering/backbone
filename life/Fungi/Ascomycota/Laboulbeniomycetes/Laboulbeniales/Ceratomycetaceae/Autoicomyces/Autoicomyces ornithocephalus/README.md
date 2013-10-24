@@ -1,5 +1,4 @@
-Autoicomyces ornithocephalus Thaxt. SPECIES
-=======
+# Autoicomyces ornithocephalus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

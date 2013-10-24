@@ -1,5 +1,4 @@
-Heliomyces caryotae Berk. SPECIES
-=======
+# Heliomyces caryotae Berk. SPECIES
 
 #### Status
 ACCEPTED

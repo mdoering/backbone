@@ -1,5 +1,4 @@
-Peridinium corniculum Kofoid & Michener SPECIES
-=======
+# Peridinium corniculum Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

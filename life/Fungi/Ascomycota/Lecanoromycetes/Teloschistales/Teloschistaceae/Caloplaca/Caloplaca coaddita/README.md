@@ -1,5 +1,4 @@
-Caloplaca coaddita (Nyl.) T. Okamoto SPECIES
-=======
+# Caloplaca coaddita (Nyl.) T. Okamoto SPECIES
 
 #### Status
 ACCEPTED

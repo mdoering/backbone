@@ -1,5 +1,4 @@
-Peyronellaea hominis (A. Agostini & Tredici) Goid. SPECIES
-=======
+# Peyronellaea hominis (A. Agostini & Tredici) Goid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplotomma zaboticum SPECIES
-=======
+# Diplotomma zaboticum SPECIES
 
 #### Status
 ACCEPTED

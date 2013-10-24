@@ -1,5 +1,4 @@
-Gymnopilus subearlei R. Valenz., Guzmán & J. Castillo SPECIES
-=======
+# Gymnopilus subearlei R. Valenz., Guzmán & J. Castillo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeospora megarrhizae Ellis & Everh. SPECIES
-=======
+# Phloeospora megarrhizae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

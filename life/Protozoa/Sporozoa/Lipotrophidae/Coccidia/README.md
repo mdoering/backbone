@@ -1,5 +1,4 @@
-Coccidia GENUS
-=======
+# Coccidia GENUS
 
 #### Status
 ACCEPTED

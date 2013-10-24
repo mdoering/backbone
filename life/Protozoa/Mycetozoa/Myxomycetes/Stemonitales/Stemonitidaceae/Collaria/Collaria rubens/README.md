@@ -1,14 +1,13 @@
-Paradiacheopsis rubens (Lister) Hertel SPECIES
-=======
+# Collaria rubens (Lister) Nann.-Bremek., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dusenia 7(6): 348 (1956)
+Nederlandse Myxomyceten (Amsterdam), 2 Suppl. 70: 236 (1975)
 
 #### Original name
 Comatricha rubens Lister, 1894

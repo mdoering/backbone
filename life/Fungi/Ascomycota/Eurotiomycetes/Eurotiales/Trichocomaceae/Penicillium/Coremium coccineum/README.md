@@ -1,5 +1,4 @@
-Coremium coccineum Schwein. SPECIES
-=======
+# Coremium coccineum Schwein. SPECIES
 
 #### Status
 ACCEPTED

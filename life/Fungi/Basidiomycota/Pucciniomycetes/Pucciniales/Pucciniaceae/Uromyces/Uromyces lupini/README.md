@@ -1,14 +1,13 @@
-Nigredo lupini (Berk. & M.A. Curtis) Arthur, 1920 SPECIES
-=======
+# Uromyces lupini Berk. & M.A. Curtis, 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4): 252 (1920)
+Proc. Amer. Acad. Arts & Sci. 4: 126 (1860)
 
 #### Original name
 Uromyces lupini Berk. & M.A. Curtis, 1860

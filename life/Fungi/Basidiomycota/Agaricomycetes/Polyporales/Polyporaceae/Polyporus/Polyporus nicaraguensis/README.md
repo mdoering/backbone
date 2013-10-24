@@ -1,5 +1,4 @@
-Polyporus nicaraguensis Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus nicaraguensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

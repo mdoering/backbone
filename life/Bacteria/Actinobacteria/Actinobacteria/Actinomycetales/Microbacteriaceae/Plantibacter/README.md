@@ -1,5 +1,4 @@
-Plantibacter Behrendt et al., 2002 GENUS
-=======
+# Plantibacter Behrendt et al., 2002 GENUS
 
 #### Status
 ACCEPTED

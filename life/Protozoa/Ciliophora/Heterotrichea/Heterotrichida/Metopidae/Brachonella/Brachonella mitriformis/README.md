@@ -1,5 +1,4 @@
-Brachonella mitriformis SPECIES
-=======
+# Brachonella mitriformis SPECIES
 
 #### Status
 ACCEPTED

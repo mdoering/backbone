@@ -1,5 +1,4 @@
-Lecidea rejecta (Th. Fr.) Hue SPECIES
-=======
+# Lecidea rejecta (Th. Fr.) Hue SPECIES
 
 #### Status
 ACCEPTED

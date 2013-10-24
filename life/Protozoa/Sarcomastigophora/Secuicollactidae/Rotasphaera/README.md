@@ -1,5 +1,4 @@
-Rotasphaera Noble, 1994 GENUS
-=======
+# Rotasphaera Noble, 1994 GENUS
 
 #### Status
 ACCEPTED

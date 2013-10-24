@@ -1,5 +1,4 @@
-Aecidium goyazense Henn. SPECIES
-=======
+# Aecidium goyazense Henn. SPECIES
 
 #### Status
 ACCEPTED

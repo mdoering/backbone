@@ -1,5 +1,4 @@
-Leptosphaeria macrosporoides M.E. Barr SPECIES
-=======
+# Leptosphaeria macrosporoides M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

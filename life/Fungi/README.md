@@ -1,5 +1,4 @@
-Fungi KINGDOM
-=======
+# Fungi KINGDOM
 
 #### Status
 ACCEPTED

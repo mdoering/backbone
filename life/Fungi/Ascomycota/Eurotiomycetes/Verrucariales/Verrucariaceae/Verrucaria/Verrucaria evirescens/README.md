@@ -1,5 +1,4 @@
-Verrucaria evirescens Nyl. SPECIES
-=======
+# Verrucaria evirescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

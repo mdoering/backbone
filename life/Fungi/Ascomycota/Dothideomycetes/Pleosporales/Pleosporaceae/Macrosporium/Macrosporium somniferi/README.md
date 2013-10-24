@@ -1,5 +1,4 @@
-Macrosporium somniferi Grabowski {?} SPECIES
-=======
+# Macrosporium somniferi Grabowski {?} SPECIES
 
 #### Status
 ACCEPTED

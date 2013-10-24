@@ -1,5 +1,4 @@
-Acrospermum pallidulum Kirschst., 1938 SPECIES
-=======
+# Acrospermum pallidulum Kirschst., 1938 SPECIES
 
 #### Status
 ACCEPTED

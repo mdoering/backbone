@@ -1,5 +1,4 @@
-Lachnea nivalis (Boud.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea nivalis (Boud.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

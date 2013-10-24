@@ -1,5 +1,4 @@
-Lecidea acuti Malme SPECIES
-=======
+# Lecidea acuti Malme SPECIES
 
 #### Status
 ACCEPTED

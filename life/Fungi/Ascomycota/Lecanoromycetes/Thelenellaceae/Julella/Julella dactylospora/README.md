@@ -1,5 +1,4 @@
-Julella dactylospora Rehm SPECIES
-=======
+# Julella dactylospora Rehm SPECIES
 
 #### Status
 ACCEPTED

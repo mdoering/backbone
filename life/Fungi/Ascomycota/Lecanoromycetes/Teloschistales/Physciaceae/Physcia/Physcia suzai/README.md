@@ -1,5 +1,4 @@
-Physcia suzai Nádv. SPECIES
-=======
+# Physcia suzai Nádv. SPECIES
 
 #### Status
 ACCEPTED

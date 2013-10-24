@@ -1,5 +1,4 @@
-Trinacrium parvisporum Matsush. SPECIES
-=======
+# Trinacrium parvisporum Matsush. SPECIES
 
 #### Status
 ACCEPTED

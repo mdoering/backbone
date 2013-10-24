@@ -1,5 +1,4 @@
-Ramaria ciliata Velen. SPECIES
-=======
+# Ramaria ciliata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma duriusculum R. Schulz SPECIES
-=======
+# Tricholoma duriusculum R. Schulz SPECIES
 
 #### Status
 ACCEPTED

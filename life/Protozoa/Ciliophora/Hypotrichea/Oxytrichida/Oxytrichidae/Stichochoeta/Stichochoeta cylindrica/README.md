@@ -1,5 +1,4 @@
-Stichochoeta cylindrica Dumas, 1937 SPECIES
-=======
+# Stichochoeta cylindrica Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

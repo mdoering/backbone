@@ -1,5 +1,4 @@
-Agaricus plicosus (Fr.) Fr. SPECIES
-=======
+# Agaricus plicosus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

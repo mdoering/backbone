@@ -1,5 +1,4 @@
-Perichaena poronema Yu Li & H.Z. Li, 1990 SPECIES
-=======
+# Perichaena poronema Yu Li & H.Z. Li, 1990 SPECIES
 
 #### Status
 ACCEPTED

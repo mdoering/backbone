@@ -1,5 +1,4 @@
-Pachysoeca Ellis, 1933 GENUS
-=======
+# Pachysoeca Ellis, 1933 GENUS
 
 #### Status
 ACCEPTED

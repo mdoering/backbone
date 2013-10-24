@@ -1,5 +1,4 @@
-Didymella megarrhizae Cooke & Harkn. SPECIES
-=======
+# Didymella megarrhizae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

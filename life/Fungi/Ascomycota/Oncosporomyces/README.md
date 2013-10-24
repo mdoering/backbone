@@ -1,5 +1,4 @@
-Oncosporomyces Bat. GENUS
-=======
+# Oncosporomyces Bat. GENUS
 
 #### Status
 ACCEPTED

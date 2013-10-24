@@ -1,5 +1,4 @@
-Macrosporium jurisicii Ranoj. SPECIES
-=======
+# Macrosporium jurisicii Ranoj. SPECIES
 
 #### Status
 ACCEPTED

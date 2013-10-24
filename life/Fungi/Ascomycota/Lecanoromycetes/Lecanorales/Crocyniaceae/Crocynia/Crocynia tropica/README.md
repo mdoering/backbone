@@ -1,5 +1,4 @@
-Crocynia tropica Hue SPECIES
-=======
+# Crocynia tropica Hue SPECIES
 
 #### Status
 ACCEPTED

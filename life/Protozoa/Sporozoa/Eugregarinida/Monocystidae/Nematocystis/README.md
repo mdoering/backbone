@@ -1,5 +1,4 @@
-Nematocystis Hesse, 1909 GENUS
-=======
+# Nematocystis Hesse, 1909 GENUS
 
 #### Status
 ACCEPTED

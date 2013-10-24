@@ -1,17 +1,16 @@
-Wangiella dermatitidis McGinnis, 1977 SPECIES
-=======
+# Exophiala dermatitidis (Kano) de Hoog, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 6(2): 367 (1977)
+Stud. Mycol. 15: 118 (1977)
 
 #### Original name
-Wangiella dermatitidis McGinnis, 1977
+Hormiscium dermatitidis Kano, 1934
 
 ### Remarks
 null

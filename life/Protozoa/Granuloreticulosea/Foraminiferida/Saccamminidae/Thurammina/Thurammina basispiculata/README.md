@@ -1,5 +1,4 @@
-Thurammina basispiculata Zheng, 1988 SPECIES
-=======
+# Thurammina basispiculata Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

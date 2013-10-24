@@ -1,5 +1,4 @@
-Graphis lecanorina Müll. Arg. SPECIES
-=======
+# Graphis lecanorina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

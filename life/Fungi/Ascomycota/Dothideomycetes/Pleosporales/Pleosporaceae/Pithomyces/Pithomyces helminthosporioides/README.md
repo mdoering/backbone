@@ -1,5 +1,4 @@
-Pithomyces helminthosporioides X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Pithomyces helminthosporioides X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

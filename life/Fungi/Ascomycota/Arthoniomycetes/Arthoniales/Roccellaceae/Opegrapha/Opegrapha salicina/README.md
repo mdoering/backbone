@@ -1,5 +1,4 @@
-Opegrapha salicina A. Massal. SPECIES
-=======
+# Opegrapha salicina A. Massal. SPECIES
 
 #### Status
 ACCEPTED

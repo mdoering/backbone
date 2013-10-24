@@ -1,14 +1,13 @@
-Proteomyces brocqii (Beintema) C.W. Dodge SPECIES
-=======
+# Proteomyces brocquii (Beintema) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Medical mycology. Fungous diseases of men and other mammals 210 (1935)
 
 #### Original name
 Parendomyces brocquii Beintema

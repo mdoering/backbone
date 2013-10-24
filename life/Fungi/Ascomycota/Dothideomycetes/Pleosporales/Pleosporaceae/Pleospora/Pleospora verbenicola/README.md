@@ -1,5 +1,4 @@
-Pleospora verbenicola Pass. SPECIES
-=======
+# Pleospora verbenicola Pass. SPECIES
 
 #### Status
 ACCEPTED

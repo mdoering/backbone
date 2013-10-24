@@ -1,5 +1,4 @@
-Ascochyta brunnea Cooke & Massee SPECIES
-=======
+# Ascochyta brunnea Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dionisia Landau, Chabaud, Miltgen & Baccam, 1980 GENUS
-=======
+# Dionisia Landau, Chabaud, Miltgen & Baccam, 1980 GENUS
 
 #### Status
 ACCEPTED

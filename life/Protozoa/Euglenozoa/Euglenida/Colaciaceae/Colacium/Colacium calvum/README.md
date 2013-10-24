@@ -1,5 +1,4 @@
-Colacium calvum Stein SPECIES
-=======
+# Colacium calvum Stein SPECIES
 
 #### Status
 ACCEPTED

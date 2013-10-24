@@ -1,5 +1,4 @@
-Tolypothrix amoena Gardner SPECIES
-=======
+# Tolypothrix amoena Gardner SPECIES
 
 #### Status
 ACCEPTED

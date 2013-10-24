@@ -1,5 +1,4 @@
-Phyllosticta ballotae Thüm. SPECIES
-=======
+# Phyllosticta ballotae Thüm. SPECIES
 
 #### Status
 ACCEPTED

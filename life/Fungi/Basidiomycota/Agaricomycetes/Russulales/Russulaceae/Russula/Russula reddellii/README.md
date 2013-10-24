@@ -1,5 +1,4 @@
-Russula reddellii T. Lebel SPECIES
-=======
+# Russula reddellii T. Lebel SPECIES
 
 #### Status
 ACCEPTED

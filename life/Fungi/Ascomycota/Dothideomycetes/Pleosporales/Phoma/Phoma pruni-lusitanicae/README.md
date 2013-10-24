@@ -1,5 +1,4 @@
-Phoma pruni-lusitanicae Cooke SPECIES
-=======
+# Phoma pruni-lusitanicae Cooke SPECIES
 
 #### Status
 ACCEPTED

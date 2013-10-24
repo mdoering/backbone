@@ -1,8 +1,7 @@
-Diplopsalis orbicularis Steidinger & Williams SPECIES
-=======
+# Diplopsalopsis orbicularis (Paulsen) Meunier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

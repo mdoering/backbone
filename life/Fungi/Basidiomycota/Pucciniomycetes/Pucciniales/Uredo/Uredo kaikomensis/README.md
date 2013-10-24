@@ -1,5 +1,4 @@
-Uredo kaikomensis Hirats. f. SPECIES
-=======
+# Uredo kaikomensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

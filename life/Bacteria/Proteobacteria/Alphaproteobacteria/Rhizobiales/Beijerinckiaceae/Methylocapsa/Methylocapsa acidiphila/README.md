@@ -1,5 +1,4 @@
-Methylocapsa acidiphila Dedysh et al., 2002 SPECIES
-=======
+# Methylocapsa acidiphila Dedysh et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

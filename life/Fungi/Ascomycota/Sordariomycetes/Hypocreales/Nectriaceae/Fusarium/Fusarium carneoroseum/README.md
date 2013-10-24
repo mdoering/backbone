@@ -1,5 +1,4 @@
-Fusarium carneoroseum Cooke SPECIES
-=======
+# Fusarium carneoroseum Cooke SPECIES
 
 #### Status
 ACCEPTED

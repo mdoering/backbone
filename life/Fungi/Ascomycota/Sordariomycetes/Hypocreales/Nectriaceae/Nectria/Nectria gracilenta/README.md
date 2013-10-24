@@ -1,5 +1,4 @@
-Nectria gracilenta Syd. SPECIES
-=======
+# Nectria gracilenta Syd. SPECIES
 
 #### Status
 ACCEPTED

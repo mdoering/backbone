@@ -1,5 +1,4 @@
-Dendrothele tetracornis Boidin & Duhem, 1996 SPECIES
-=======
+# Dendrothele tetracornis Boidin & Duhem, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drosophila hololanigera (G.F. Atk.) Murrill SPECIES
-=======
+# Drosophila hololanigera (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

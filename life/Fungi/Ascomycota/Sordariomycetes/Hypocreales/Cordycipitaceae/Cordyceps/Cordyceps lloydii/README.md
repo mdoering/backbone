@@ -1,5 +1,4 @@
-Cordyceps lloydii H.S. Fawc. SPECIES
-=======
+# Cordyceps lloydii H.S. Fawc. SPECIES
 
 #### Status
 ACCEPTED

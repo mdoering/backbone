@@ -1,5 +1,4 @@
-Volvaria floridana (Murrill) Murrill SPECIES
-=======
+# Volvaria floridana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe septentrionalis (Guzmán) Guzmán SPECIES
-=======
+# Psilocybe septentrionalis (Guzmán) Guzmán SPECIES
 
 #### Status
 ACCEPTED

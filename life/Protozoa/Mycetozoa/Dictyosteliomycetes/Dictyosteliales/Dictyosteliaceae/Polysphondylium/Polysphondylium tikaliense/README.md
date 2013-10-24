@@ -1,5 +1,4 @@
-Polysphondylium tikaliense Vadell & Cavender, 1998 SPECIES
-=======
+# Polysphondylium tikaliense Vadell & Cavender, 1998 SPECIES
 
 #### Status
 ACCEPTED

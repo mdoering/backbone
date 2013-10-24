@@ -1,5 +1,4 @@
-Crocynia leucomelaena Hue SPECIES
-=======
+# Crocynia leucomelaena Hue SPECIES
 
 #### Status
 ACCEPTED

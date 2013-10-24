@@ -1,5 +1,4 @@
-Stictis furfurella Ces. SPECIES
-=======
+# Stictis furfurella Ces. SPECIES
 
 #### Status
 ACCEPTED

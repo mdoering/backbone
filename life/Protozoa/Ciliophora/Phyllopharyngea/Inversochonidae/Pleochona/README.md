@@ -1,5 +1,4 @@
-Pleochona Jankowski, 1973 GENUS
-=======
+# Pleochona Jankowski, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus adianticeps Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus adianticeps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

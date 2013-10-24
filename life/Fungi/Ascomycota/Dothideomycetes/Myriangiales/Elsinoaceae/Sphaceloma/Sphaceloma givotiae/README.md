@@ -1,5 +1,4 @@
-Sphaceloma givotiae Wani & Thirum. SPECIES
-=======
+# Sphaceloma givotiae Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

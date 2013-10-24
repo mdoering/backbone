@@ -1,5 +1,4 @@
-Parmelia dispora var. dispora VARIETY
-=======
+# Parmelia dispora Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Crombie, J. Linn. Soc. , Bot. 15: 228 (1876)
 
 #### Original name
-Parmelia dispora var. dispora
+Parmelia dispora Nyl.
 
 ### Remarks
 null

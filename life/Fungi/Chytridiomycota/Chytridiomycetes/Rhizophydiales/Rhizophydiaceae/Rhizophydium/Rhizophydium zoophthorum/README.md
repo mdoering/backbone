@@ -1,5 +1,4 @@
-Rhizophydium zoophthorum (P.A. Dang.) A. Fisch. SPECIES
-=======
+# Rhizophydium zoophthorum (P.A. Dang.) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

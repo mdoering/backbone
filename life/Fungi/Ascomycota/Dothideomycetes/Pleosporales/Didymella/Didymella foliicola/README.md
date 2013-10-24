@@ -1,5 +1,4 @@
-Didymella foliicola Saccas SPECIES
-=======
+# Didymella foliicola Saccas SPECIES
 
 #### Status
 ACCEPTED

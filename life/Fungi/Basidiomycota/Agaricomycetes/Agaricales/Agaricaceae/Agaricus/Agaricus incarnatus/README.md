@@ -1,5 +1,4 @@
-Agaricus incarnatus Pers. SPECIES
-=======
+# Agaricus incarnatus Pers. SPECIES
 
 #### Status
 ACCEPTED

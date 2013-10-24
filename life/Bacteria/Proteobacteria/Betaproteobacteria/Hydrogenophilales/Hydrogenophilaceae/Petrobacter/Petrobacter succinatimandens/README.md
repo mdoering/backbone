@@ -1,5 +1,4 @@
-Petrobacter succinatimandens Bonilla Salinas et al., 2004 SPECIES
-=======
+# Petrobacter succinatimandens Bonilla Salinas et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

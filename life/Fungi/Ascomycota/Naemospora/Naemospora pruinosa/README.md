@@ -1,5 +1,4 @@
-Naemospora pruinosa Berk. & M.A. Curtis SPECIES
-=======
+# Naemospora pruinosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

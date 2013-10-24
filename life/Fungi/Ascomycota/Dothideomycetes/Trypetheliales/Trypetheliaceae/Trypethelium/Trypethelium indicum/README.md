@@ -1,5 +1,4 @@
-Trypethelium indicum Makhija & Patw. SPECIES
-=======
+# Trypethelium indicum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia tibellii T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia tibellii T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

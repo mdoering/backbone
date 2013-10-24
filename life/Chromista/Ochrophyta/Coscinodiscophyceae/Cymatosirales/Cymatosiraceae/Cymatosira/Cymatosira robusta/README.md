@@ -1,5 +1,4 @@
-Cymatosira robusta H. J. Schrader & J. Fenner SPECIES
-=======
+# Cymatosira robusta H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

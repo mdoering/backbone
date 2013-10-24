@@ -1,5 +1,4 @@
-Helvella glutinosa B. Liu & J.Z. Cao SPECIES
-=======
+# Helvella glutinosa B. Liu & J.Z. Cao SPECIES
 
 #### Status
 ACCEPTED

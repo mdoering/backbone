@@ -1,5 +1,4 @@
-Pharcidia porocyphi (Stein) G. Winter, 1885 SPECIES
-=======
+# Pharcidia porocyphi (Stein) G. Winter, 1885 SPECIES
 
 #### Status
 ACCEPTED

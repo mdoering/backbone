@@ -1,5 +1,4 @@
-Stagonospora eriobotryae S. Ahmad SPECIES
-=======
+# Stagonospora eriobotryae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

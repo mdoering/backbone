@@ -1,5 +1,4 @@
-Pseudocercospora bauhiniicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora bauhiniicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

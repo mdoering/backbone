@@ -1,5 +1,4 @@
-Doassansia disticha S. Ito SPECIES
-=======
+# Doassansia disticha S. Ito SPECIES
 
 #### Status
 ACCEPTED

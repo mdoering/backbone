@@ -1,5 +1,4 @@
-Tuber texense Heimsch {?} SPECIES
-=======
+# Tuber texense Heimsch {?} SPECIES
 
 #### Status
 ACCEPTED

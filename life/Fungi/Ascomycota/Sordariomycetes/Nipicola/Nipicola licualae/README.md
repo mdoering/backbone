@@ -1,5 +1,4 @@
-Nipicola licualae J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Nipicola licualae J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

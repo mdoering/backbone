@@ -1,5 +1,4 @@
-Leptolyngbya foveolara (Montagne ex Gomont) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Leptolyngbya foveolara (Montagne ex Gomont) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

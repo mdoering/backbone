@@ -1,5 +1,4 @@
-Thalloidima kelleri Elenkin SPECIES
-=======
+# Thalloidima kelleri Elenkin SPECIES
 
 #### Status
 ACCEPTED

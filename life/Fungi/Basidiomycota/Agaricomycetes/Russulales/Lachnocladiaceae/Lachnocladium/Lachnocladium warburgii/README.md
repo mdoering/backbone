@@ -1,5 +1,4 @@
-Lachnocladium warburgii Henn. SPECIES
-=======
+# Lachnocladium warburgii Henn. SPECIES
 
 #### Status
 ACCEPTED

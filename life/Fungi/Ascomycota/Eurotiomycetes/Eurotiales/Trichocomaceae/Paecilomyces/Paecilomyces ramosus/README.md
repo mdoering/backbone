@@ -1,5 +1,4 @@
-Paecilomyces ramosus Samson & H.C. Evans, 1974 SPECIES
-=======
+# Paecilomyces ramosus Samson & H.C. Evans, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Septoria ari var. orientalis Garb., 1923 VARIETY
-=======
+# Septoria orientalis (Garb.) Andrian., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 39: 251 (1923)
+Vivchennya Riznomanitnosti Mikobioti Ukraïni (Kiïv), (Likhenofil'ni, Septoriyevi ta Puktsiniyevi Gribi) 86 (1999)
 
 #### Original name
 Septoria ari var. orientalis Garb., 1923

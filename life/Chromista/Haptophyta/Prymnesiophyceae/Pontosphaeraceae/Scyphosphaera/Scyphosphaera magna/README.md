@@ -1,5 +1,4 @@
-Scyphosphaera magna Kamptner, 1967 SPECIES
-=======
+# Scyphosphaera magna Kamptner, 1967 SPECIES
 
 #### Status
 ACCEPTED

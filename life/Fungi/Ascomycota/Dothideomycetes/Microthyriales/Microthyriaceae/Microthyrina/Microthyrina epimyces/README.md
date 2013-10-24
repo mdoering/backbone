@@ -1,5 +1,4 @@
-Microthyrina epimyces (Sacc., E. Bommer & M. Rousseau) Bat. SPECIES
-=======
+# Microthyrina epimyces (Sacc., E. Bommer & M. Rousseau) Bat. SPECIES
 
 #### Status
 ACCEPTED

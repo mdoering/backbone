@@ -1,5 +1,4 @@
-Phakopsora uva Buriticá & J.F. Hennen SPECIES
-=======
+# Phakopsora uva Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

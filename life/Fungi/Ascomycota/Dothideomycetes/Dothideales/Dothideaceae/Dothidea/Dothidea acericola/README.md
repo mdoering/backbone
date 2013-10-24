@@ -1,5 +1,4 @@
-Dothidea acericola Heer SPECIES
-=======
+# Dothidea acericola Heer SPECIES
 
 #### Status
 ACCEPTED

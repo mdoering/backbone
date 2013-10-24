@@ -1,5 +1,4 @@
-Hyalocamposporium acutum Révay & J. Gönczöl, 2007 SPECIES
-=======
+# Hyalocamposporium acutum Révay & J. Gönczöl, 2007 SPECIES
 
 #### Status
 ACCEPTED

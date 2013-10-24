@@ -1,5 +1,4 @@
-Craterellus pogonati Peck SPECIES
-=======
+# Craterellus pogonati Peck SPECIES
 
 #### Status
 ACCEPTED

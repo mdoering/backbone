@@ -1,5 +1,4 @@
-Tubosaeta E. Horak GENUS
-=======
+# Tubosaeta E. Horak GENUS
 
 #### Status
 ACCEPTED

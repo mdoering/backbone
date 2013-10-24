@@ -1,5 +1,4 @@
-Ascochyta monardae Klaptzova {?} SPECIES
-=======
+# Ascochyta monardae Klaptzova {?} SPECIES
 
 #### Status
 ACCEPTED

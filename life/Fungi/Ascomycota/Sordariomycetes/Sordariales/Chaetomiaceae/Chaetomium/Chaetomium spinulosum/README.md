@@ -1,5 +1,4 @@
-Chaetomium spinulosum Sörgel SPECIES
-=======
+# Chaetomium spinulosum Sörgel SPECIES
 
 #### Status
 ACCEPTED

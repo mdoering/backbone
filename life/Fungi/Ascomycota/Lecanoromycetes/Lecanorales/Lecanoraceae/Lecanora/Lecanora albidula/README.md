@@ -1,5 +1,4 @@
-Lecanora albidula Fée SPECIES
-=======
+# Lecanora albidula Fée SPECIES
 
 #### Status
 ACCEPTED

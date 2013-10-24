@@ -1,5 +1,4 @@
-Syndiplodia coryli Peyronel SPECIES
-=======
+# Syndiplodia coryli Peyronel SPECIES
 
 #### Status
 ACCEPTED

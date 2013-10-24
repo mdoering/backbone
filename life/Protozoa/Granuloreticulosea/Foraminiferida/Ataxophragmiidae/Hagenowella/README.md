@@ -1,5 +1,4 @@
-Hagenowella Cushman, 1933 GENUS
-=======
+# Hagenowella Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

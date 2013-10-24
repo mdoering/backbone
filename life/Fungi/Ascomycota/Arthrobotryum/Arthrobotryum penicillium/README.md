@@ -1,5 +1,4 @@
-Arthrobotryum penicillium (Speg.) Höhn. SPECIES
-=======
+# Arthrobotryum penicillium (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

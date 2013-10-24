@@ -1,5 +1,4 @@
-Lecanora inamoena Th. Fr. SPECIES
-=======
+# Lecanora inamoena Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

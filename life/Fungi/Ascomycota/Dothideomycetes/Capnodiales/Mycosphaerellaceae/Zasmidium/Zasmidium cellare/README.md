@@ -1,14 +1,13 @@
-Cladosporium cellare (Pers.) Schanderl, 1936 SPECIES
-=======
+# Zasmidium cellare (Pers.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 94: 117 (1936)
+Summa veg. Scand. (Stockholm), Section Post. 407 (1849)
 
 #### Original name
 Racodium cellare Pers., 1794

@@ -1,5 +1,4 @@
-Echidnodes pittospori Hansf. SPECIES
-=======
+# Echidnodes pittospori Hansf. SPECIES
 
 #### Status
 ACCEPTED

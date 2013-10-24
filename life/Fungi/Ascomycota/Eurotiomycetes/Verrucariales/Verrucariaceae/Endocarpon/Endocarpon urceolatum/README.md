@@ -1,5 +1,4 @@
-Endocarpon urceolatum Schaer. SPECIES
-=======
+# Endocarpon urceolatum Schaer. SPECIES
 
 #### Status
 ACCEPTED

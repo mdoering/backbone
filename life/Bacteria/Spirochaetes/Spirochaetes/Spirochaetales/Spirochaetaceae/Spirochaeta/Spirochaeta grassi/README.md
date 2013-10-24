@@ -1,5 +1,4 @@
-Spirochaeta grassi SPECIES
-=======
+# Spirochaeta grassi SPECIES
 
 #### Status
 ACCEPTED

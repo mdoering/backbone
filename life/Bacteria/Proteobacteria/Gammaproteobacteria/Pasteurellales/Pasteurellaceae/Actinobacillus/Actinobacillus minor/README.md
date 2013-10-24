@@ -1,5 +1,4 @@
-Actinobacillus minor Møller et al., 1996 SPECIES
-=======
+# Actinobacillus minor Møller et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

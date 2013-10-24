@@ -1,5 +1,4 @@
-Hypocopra bombardoides (Auersw.) Sacc. SPECIES
-=======
+# Hypocopra bombardoides (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

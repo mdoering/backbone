@@ -1,5 +1,4 @@
-Trichothelium minus Vain. SPECIES
-=======
+# Trichothelium minus Vain. SPECIES
 
 #### Status
 ACCEPTED

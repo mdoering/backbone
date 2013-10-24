@@ -1,5 +1,4 @@
-Sporoblastia aurantiaca (Lightf.) Trevis. SPECIES
-=======
+# Sporoblastia aurantiaca (Lightf.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

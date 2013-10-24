@@ -1,5 +1,4 @@
-Newbya papillosa ined. SPECIES
-=======
+# Newbya papillosa ined. SPECIES
 
 #### Status
 ACCEPTED

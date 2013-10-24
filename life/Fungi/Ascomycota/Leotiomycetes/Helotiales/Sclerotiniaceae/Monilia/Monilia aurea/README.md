@@ -1,17 +1,16 @@
-Monilia aurea f. aurea FORM
-=======
+# Monilia aurea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Monilia aurea f. aurea
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Readeriella leucadendri Crous, Marincowitz & M.J. Wingf. SPECIES
-=======
+# Readeriella leucadendri Crous, Marincowitz & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

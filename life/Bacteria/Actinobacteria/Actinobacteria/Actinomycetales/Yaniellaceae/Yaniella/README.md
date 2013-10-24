@@ -1,5 +1,4 @@
-Yaniella Li et al., 2008 GENUS
-=======
+# Yaniella Li et al., 2008 GENUS
 
 #### Status
 ACCEPTED

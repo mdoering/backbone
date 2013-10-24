@@ -1,5 +1,4 @@
-Dothiorella tecomae S. Ahmad SPECIES
-=======
+# Dothiorella tecomae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

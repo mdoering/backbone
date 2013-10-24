@@ -1,5 +1,4 @@
-Eutypella mahoniae Brunaud SPECIES
-=======
+# Eutypella mahoniae Brunaud SPECIES
 
 #### Status
 ACCEPTED

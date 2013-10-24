@@ -1,5 +1,4 @@
-Limbicysta guttularis Marshall, 1989 SPECIES
-=======
+# Limbicysta guttularis Marshall, 1989 SPECIES
 
 #### Status
 ACCEPTED

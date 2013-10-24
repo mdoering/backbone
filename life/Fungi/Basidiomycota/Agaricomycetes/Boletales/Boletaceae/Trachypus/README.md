@@ -1,5 +1,4 @@
-Trachypus GENUS
-=======
+# Trachypus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoporus tabacinus Mont. SPECIES
-=======
+# Chaetoporus tabacinus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium emergens Fr. SPECIES
-=======
+# Hysterium emergens Fr. SPECIES
 
 #### Status
 ACCEPTED

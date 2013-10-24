@@ -1,5 +1,4 @@
-Scolecodochium K. Matsush. & Matsush. GENUS
-=======
+# Scolecodochium K. Matsush. & Matsush. GENUS
 
 #### Status
 ACCEPTED

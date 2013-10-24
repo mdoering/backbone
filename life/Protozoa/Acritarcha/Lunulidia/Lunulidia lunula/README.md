@@ -1,5 +1,4 @@
-Lunulidia lunula (Eisenack, 1951) Eisenack, 1958 SPECIES
-=======
+# Lunulidia lunula (Eisenack, 1951) Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

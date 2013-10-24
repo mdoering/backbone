@@ -1,5 +1,4 @@
-Fungus coccineus Ray SPECIES
-=======
+# Fungus coccineus Ray SPECIES
 
 #### Status
 ACCEPTED

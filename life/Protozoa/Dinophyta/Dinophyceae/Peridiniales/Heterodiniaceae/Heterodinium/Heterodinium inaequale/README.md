@@ -1,11 +1,10 @@
-Heterodinium kofoidii Pavillard, 1915 SPECIES
-=======
+# Heterodinium inaequale (Kofoid) Schiller SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

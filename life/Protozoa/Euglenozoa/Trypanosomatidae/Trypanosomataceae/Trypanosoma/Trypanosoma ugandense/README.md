@@ -1,5 +1,4 @@
-Trypanosoma ugandense A. Castellani SPECIES
-=======
+# Trypanosoma ugandense A. Castellani SPECIES
 
 #### Status
 ACCEPTED

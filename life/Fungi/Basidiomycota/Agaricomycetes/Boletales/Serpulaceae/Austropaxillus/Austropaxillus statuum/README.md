@@ -1,17 +1,16 @@
-Paxillus statuum var. statuum VARIETY
-=======
+# Austropaxillus statuum (Speg.) Bresinsky & Jarosch, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Darwiniana 14(2-3): 362 (1967)
+in Bresinsky, Jarosch, Fischer, Schönberger & Wittmann-Bresinsky, Pl. Biol. 1(3): 332 (1999)
 
 #### Original name
-Paxillus statuum var. statuum
+Agaricus statuum Speg., 1887
 
 ### Remarks
 null

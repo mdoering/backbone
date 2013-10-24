@@ -1,14 +1,13 @@
-Peniophora galochroa Bres., 1896 SPECIES
-=======
+# Phlebiopsis galochroa (Bres.) Hjortstam & Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 35: 290 (1896)
+Mycotaxon 10(2): 285 (1980)
 
 #### Original name
 Peniophora galochroa Bres., 1896

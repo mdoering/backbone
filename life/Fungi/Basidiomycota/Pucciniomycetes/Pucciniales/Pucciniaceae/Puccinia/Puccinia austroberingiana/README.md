@@ -1,5 +1,4 @@
-Puccinia austroberingiana subsp. austroberingiana SUBSPECIES
-=======
+# Puccinia austroberingiana (Savile) Savile SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Can. J. Bot. 51(12): 2355 (1974)
 
 #### Original name
-Puccinia austroberingiana subsp. austroberingiana
+Puccinia heucherae var. austroberingiana Savile
 
 ### Remarks
 null

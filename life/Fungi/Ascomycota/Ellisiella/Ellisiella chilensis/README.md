@@ -1,5 +1,4 @@
-Ellisiella chilensis Speg. SPECIES
-=======
+# Ellisiella chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

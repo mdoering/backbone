@@ -1,5 +1,4 @@
-Cordyceps caroliniensis Ravenel SPECIES
-=======
+# Cordyceps caroliniensis Ravenel SPECIES
 
 #### Status
 ACCEPTED

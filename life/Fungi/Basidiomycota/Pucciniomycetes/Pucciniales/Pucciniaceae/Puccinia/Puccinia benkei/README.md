@@ -1,5 +1,4 @@
-Puccinia benkei Kusano SPECIES
-=======
+# Puccinia benkei Kusano SPECIES
 
 #### Status
 ACCEPTED

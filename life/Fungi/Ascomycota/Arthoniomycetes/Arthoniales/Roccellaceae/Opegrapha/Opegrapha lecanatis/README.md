@@ -1,5 +1,4 @@
-Opegrapha lecanatis Massee SPECIES
-=======
+# Opegrapha lecanatis Massee SPECIES
 
 #### Status
 ACCEPTED

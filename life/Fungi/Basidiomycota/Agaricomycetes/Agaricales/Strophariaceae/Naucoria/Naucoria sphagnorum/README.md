@@ -1,5 +1,4 @@
-Naucoria sphagnorum Naveau SPECIES
-=======
+# Naucoria sphagnorum Naveau SPECIES
 
 #### Status
 ACCEPTED

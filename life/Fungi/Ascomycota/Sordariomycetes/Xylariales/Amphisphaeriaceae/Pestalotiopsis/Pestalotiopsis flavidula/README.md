@@ -1,5 +1,4 @@
-Pestalotiopsis flavidula (Tassi) G.C. Zhao & N. Li SPECIES
-=======
+# Pestalotiopsis flavidula (Tassi) G.C. Zhao & N. Li SPECIES
 
 #### Status
 ACCEPTED

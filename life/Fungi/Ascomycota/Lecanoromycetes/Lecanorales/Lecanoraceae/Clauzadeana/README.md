@@ -1,5 +1,4 @@
-Clauzadeana Cl. Roux GENUS
-=======
+# Clauzadeana Cl. Roux GENUS
 
 #### Status
 ACCEPTED

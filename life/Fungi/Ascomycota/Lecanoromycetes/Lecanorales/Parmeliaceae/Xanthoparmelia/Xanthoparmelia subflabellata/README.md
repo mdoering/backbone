@@ -1,17 +1,16 @@
-Parmelia subflabellata J. Steiner SPECIES
-=======
+# Xanthoparmelia subflabellata (J. Steiner) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 489 (1974)
 
 #### Original name
-null
+Parmelia subflabellata J. Steiner
 
 ### Remarks
 null

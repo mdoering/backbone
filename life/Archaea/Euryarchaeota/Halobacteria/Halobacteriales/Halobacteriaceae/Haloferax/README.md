@@ -1,5 +1,4 @@
-Haloferax Torreblanca et al., 1986 GENUS
-=======
+# Haloferax Torreblanca et al., 1986 GENUS
 
 #### Status
 ACCEPTED

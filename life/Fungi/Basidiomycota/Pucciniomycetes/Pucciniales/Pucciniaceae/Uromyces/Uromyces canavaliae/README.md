@@ -1,5 +1,4 @@
-Uromyces canavaliae J.M. Yen SPECIES
-=======
+# Uromyces canavaliae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

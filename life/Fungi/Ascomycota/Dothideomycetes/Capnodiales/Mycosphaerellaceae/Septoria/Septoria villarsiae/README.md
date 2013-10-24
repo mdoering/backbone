@@ -1,5 +1,4 @@
-Septoria villarsiae Desm., 1842 SPECIES
-=======
+# Septoria villarsiae Desm., 1842 SPECIES
 
 #### Status
 ACCEPTED

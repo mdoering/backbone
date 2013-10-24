@@ -1,5 +1,4 @@
-Marasmius platyspermus f. platyspermus FORM
-=======
+# Marasmius platyspermus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lilloa 25: 215 (1952)
 
 #### Original name
-Marasmius platyspermus f. platyspermus
+Marasmius platyspermus Singer
 
 ### Remarks
 null

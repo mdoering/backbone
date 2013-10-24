@@ -1,5 +1,4 @@
-Lachnea affinis (Sacc.) Sacc. SPECIES
-=======
+# Lachnea affinis (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

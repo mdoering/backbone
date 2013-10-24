@@ -1,5 +1,4 @@
-Gorgoniceps kuitoensis Henn. SPECIES
-=======
+# Gorgoniceps kuitoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

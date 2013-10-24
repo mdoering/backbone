@@ -1,5 +1,4 @@
-Trachysphaeridium yimenense Wang, Zhou & Chen, 1980 SPECIES
-=======
+# Trachysphaeridium yimenense Wang, Zhou & Chen, 1980 SPECIES
 
 #### Status
 ACCEPTED

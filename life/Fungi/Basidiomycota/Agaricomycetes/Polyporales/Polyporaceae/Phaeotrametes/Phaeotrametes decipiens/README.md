@@ -1,17 +1,16 @@
-Polyporus perparadoxus Speg., 1881 SPECIES
-=======
+# Phaeotrametes decipiens (Berk.) J.E. Wright, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 12: 25 (1881)
+Mycologia 58(4): 529 (1966)
 
 #### Original name
-Polyporus perparadoxus Speg., 1881
+Hexagonia decipiens Berk., 1845
 
 ### Remarks
 null

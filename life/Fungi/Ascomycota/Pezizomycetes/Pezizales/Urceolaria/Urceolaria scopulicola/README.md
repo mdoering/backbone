@@ -1,5 +1,4 @@
-Urceolaria scopulicola (B. de Lesd.) Motyka SPECIES
-=======
+# Urceolaria scopulicola (B. de Lesd.) Motyka SPECIES
 
 #### Status
 ACCEPTED

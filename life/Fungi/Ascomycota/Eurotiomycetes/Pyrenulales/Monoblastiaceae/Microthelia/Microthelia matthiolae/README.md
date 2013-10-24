@@ -1,5 +1,4 @@
-Microthelia matthiolae (Fuckel) Kuntze SPECIES
-=======
+# Microthelia matthiolae (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

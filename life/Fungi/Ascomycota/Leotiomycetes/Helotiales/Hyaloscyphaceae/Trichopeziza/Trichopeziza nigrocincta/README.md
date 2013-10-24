@@ -1,5 +1,4 @@
-Trichopeziza nigrocincta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Trichopeziza nigrocincta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bursaria ambigua SPECIES
-=======
+# Bursaria ambigua SPECIES
 
 #### Status
 ACCEPTED

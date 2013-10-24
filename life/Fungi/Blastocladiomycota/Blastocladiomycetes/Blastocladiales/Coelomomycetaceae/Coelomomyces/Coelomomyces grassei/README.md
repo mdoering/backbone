@@ -1,5 +1,4 @@
-Coelomomyces grassei Rioux & Pech SPECIES
-=======
+# Coelomomyces grassei Rioux & Pech SPECIES
 
 #### Status
 ACCEPTED

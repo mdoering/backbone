@@ -1,5 +1,4 @@
-Podosphaera cayratiae (Z.Q. Yuan & A.Q. Wang) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera cayratiae (Z.Q. Yuan & A.Q. Wang) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

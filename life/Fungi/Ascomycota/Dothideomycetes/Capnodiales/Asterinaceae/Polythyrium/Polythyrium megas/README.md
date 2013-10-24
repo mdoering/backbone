@@ -1,5 +1,4 @@
-Polythyrium megas (Rehm) Bat. & J.A. Lima SPECIES
-=======
+# Polythyrium megas (Rehm) Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

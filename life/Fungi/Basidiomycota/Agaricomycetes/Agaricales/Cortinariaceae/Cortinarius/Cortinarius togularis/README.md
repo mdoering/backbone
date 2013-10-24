@@ -1,5 +1,4 @@
-Cortinarius togularis E. Horak SPECIES
-=======
+# Cortinarius togularis E. Horak SPECIES
 
 #### Status
 ACCEPTED

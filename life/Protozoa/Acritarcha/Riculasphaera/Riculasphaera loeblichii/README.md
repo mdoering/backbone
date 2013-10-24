@@ -1,5 +1,4 @@
-Riculasphaera loeblichii Cramer & Díez, 1976 SPECIES
-=======
+# Riculasphaera loeblichii Cramer & Díez, 1976 SPECIES
 
 #### Status
 ACCEPTED

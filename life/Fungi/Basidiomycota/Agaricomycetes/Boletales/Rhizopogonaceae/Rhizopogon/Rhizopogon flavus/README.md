@@ -1,17 +1,16 @@
-Rhizopogon flavum Petch SPECIES
-=======
+# Rhizopogon flavus Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. R. bot. Gdns Peradeniya 207 (1917)
 
 #### Original name
-Rhizopogon flavum Petch
+Rhizopogon flavus Petch
 
 ### Remarks
 null

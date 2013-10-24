@@ -1,5 +1,4 @@
-Agaricus thrombophorus Berk. & Broome SPECIES
-=======
+# Agaricus thrombophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

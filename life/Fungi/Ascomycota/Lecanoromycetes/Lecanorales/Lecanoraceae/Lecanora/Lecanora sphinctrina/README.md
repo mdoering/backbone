@@ -1,5 +1,4 @@
-Lecanora sphinctrina SPECIES
-=======
+# Lecanora sphinctrina SPECIES
 
 #### Status
 ACCEPTED

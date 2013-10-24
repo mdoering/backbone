@@ -1,14 +1,13 @@
-Caloplaca citrina var. arcis Poelt & Vezda VARIETY
-=======
+# Caloplaca arcis (Poelt & Vezda) Arup SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Vezda, Lichenes Selecti Exsiccati (Pruhonice), Fascicle <b>99</b> (nos 2451-2475) no. 2475 (1990)
+Lichenologist 38(1): 8 (2006)
 
 #### Original name
 Caloplaca citrina var. arcis Poelt & Vezda

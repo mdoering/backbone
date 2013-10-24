@@ -1,5 +1,4 @@
-Botryosphaeria subconnata (Schwein.) Cooke SPECIES
-=======
+# Botryosphaeria subconnata (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

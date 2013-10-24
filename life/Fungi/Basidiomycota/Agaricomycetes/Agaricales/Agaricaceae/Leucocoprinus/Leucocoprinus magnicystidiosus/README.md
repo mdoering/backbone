@@ -1,5 +1,4 @@
-Leucocoprinus magnicystidiosus H.V. Sm. & N.S. Weber SPECIES
-=======
+# Leucocoprinus magnicystidiosus H.V. Sm. & N.S. Weber SPECIES
 
 #### Status
 ACCEPTED

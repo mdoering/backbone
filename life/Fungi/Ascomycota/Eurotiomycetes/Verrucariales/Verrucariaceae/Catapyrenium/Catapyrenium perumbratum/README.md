@@ -1,5 +1,4 @@
-Catapyrenium perumbratum (Nyl.) J.C. Wei SPECIES
-=======
+# Catapyrenium perumbratum (Nyl.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

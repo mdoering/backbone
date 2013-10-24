@@ -1,5 +1,4 @@
-Marasmius nolaneiformis Murrill SPECIES
-=======
+# Marasmius nolaneiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

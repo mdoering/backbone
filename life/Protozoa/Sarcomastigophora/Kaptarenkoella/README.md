@@ -1,5 +1,4 @@
-Kaptarenkoella Kassimova & Antonova, 1985 GENUS
-=======
+# Kaptarenkoella Kassimova & Antonova, 1985 GENUS
 
 #### Status
 ACCEPTED

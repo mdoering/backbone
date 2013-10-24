@@ -1,5 +1,4 @@
-Condylostoma lacustris SPECIES
-=======
+# Condylostoma lacustris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria sorbina Nyl. SPECIES
-=======
+# Verrucaria sorbina Nyl. SPECIES
 
 #### Status
 ACCEPTED

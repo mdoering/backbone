@@ -1,5 +1,4 @@
-Naegeliella flagellifera Correns SPECIES
-=======
+# Naegeliella flagellifera Correns SPECIES
 
 #### Status
 ACCEPTED

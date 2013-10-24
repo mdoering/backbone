@@ -1,5 +1,4 @@
-Leptosphaeria salebrosa Sacc. SPECIES
-=======
+# Leptosphaeria salebrosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

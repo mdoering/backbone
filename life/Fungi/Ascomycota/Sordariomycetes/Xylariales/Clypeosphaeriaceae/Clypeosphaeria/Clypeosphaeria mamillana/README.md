@@ -1,17 +1,16 @@
-Clypeosphaeria notarisii f. notarisii FORM
-=======
+# Clypeosphaeria mamillana (Fr.) Lambotte, 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 117 (1870)
+Fl. Mycol. Belg. (Verviers) 2: 247 (1880)
 
 #### Original name
-Clypeosphaeria notarisii f. notarisii
+Sphaeria mamillana Fr., 1818
 
 ### Remarks
 null

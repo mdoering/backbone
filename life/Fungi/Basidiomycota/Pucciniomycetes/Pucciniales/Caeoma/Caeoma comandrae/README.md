@@ -1,5 +1,4 @@
-Caeoma comandrae Peck SPECIES
-=======
+# Caeoma comandrae Peck SPECIES
 
 #### Status
 ACCEPTED

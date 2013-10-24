@@ -1,5 +1,4 @@
-Stictophacidium rehmianum Feltgen SPECIES
-=======
+# Stictophacidium rehmianum Feltgen SPECIES
 
 #### Status
 ACCEPTED

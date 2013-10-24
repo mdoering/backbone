@@ -1,5 +1,4 @@
-Papulaspora nigra Hotson SPECIES
-=======
+# Papulaspora nigra Hotson SPECIES
 
 #### Status
 ACCEPTED

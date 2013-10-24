@@ -1,5 +1,4 @@
-Dictyostelium mexicanum Cavender, Worley & Raper, 1981 SPECIES
-=======
+# Dictyostelium mexicanum Cavender, Worley & Raper, 1981 SPECIES
 
 #### Status
 ACCEPTED

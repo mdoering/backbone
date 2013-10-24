@@ -1,5 +1,4 @@
-Asteridiella triloba (G. Winter) Hansf. SPECIES
-=======
+# Asteridiella triloba (G. Winter) Hansf. SPECIES
 
 #### Status
 ACCEPTED

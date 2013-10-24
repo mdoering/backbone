@@ -1,5 +1,4 @@
-Rinodina congensis (Stein) C.W. Dodge SPECIES
-=======
+# Rinodina congensis (Stein) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

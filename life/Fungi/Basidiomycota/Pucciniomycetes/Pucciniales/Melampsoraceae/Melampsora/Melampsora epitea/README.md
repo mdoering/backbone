@@ -1,17 +1,16 @@
-Melampsora epitea f. sp FORM
-=======
+# Melampsora epitea Thüm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neth. Jl Pl. Path. 78(Suppl. 1): 24 (1972)
+null
 
 #### Original name
-Melampsora epitea f. sp
+null
 
 ### Remarks
 null

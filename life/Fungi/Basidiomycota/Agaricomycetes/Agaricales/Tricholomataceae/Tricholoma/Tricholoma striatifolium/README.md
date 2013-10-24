@@ -1,5 +1,4 @@
-Tricholoma striatifolium Peck SPECIES
-=======
+# Tricholoma striatifolium Peck SPECIES
 
 #### Status
 ACCEPTED

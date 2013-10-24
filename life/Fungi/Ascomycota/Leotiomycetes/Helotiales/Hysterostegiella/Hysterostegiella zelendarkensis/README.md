@@ -1,5 +1,4 @@
-Hysterostegiella zelendarkensis Svrcek SPECIES
-=======
+# Hysterostegiella zelendarkensis Svrcek SPECIES
 
 #### Status
 ACCEPTED

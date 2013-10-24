@@ -1,5 +1,4 @@
-Mitosia T.R. Worsley, 1971 GENUS
-=======
+# Mitosia T.R. Worsley, 1971 GENUS
 
 #### Status
 ACCEPTED

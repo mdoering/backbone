@@ -1,5 +1,4 @@
-Spiroplasma ixodetis Tully et al., 1995 SPECIES
-=======
+# Spiroplasma ixodetis Tully et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

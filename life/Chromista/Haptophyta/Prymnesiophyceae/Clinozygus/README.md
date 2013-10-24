@@ -1,5 +1,4 @@
-Clinozygus Shafik, 1990 GENUS
-=======
+# Clinozygus Shafik, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesnilella beani SPECIES
-=======
+# Mesnilella beani SPECIES
 
 #### Status
 ACCEPTED

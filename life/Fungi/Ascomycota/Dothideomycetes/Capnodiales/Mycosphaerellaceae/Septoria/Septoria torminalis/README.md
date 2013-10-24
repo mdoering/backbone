@@ -1,5 +1,4 @@
-Septoria torminalis Allesch. SPECIES
-=======
+# Septoria torminalis Allesch. SPECIES
 
 #### Status
 ACCEPTED

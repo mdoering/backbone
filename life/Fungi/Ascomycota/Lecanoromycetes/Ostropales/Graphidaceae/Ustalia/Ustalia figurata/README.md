@@ -1,5 +1,4 @@
-Ustalia figurata Fr. SPECIES
-=======
+# Ustalia figurata Fr. SPECIES
 
 #### Status
 ACCEPTED

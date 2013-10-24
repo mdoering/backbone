@@ -1,5 +1,4 @@
-Hemiastasia Griessmann, 1913 GENUS
-=======
+# Hemiastasia Griessmann, 1913 GENUS
 
 #### Status
 ACCEPTED

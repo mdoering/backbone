@@ -1,5 +1,4 @@
-Pyrenula luteopruinosa Etayo & Aptroot SPECIES
-=======
+# Pyrenula luteopruinosa Etayo & Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeosphaeria clypeata anon. SPECIES
-=======
+# Clypeosphaeria clypeata anon. SPECIES
 
 #### Status
 ACCEPTED

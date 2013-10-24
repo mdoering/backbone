@@ -1,5 +1,4 @@
-Laculatina quadrilatera (Earland, 1934) SPECIES
-=======
+# Laculatina quadrilatera (Earland, 1934) SPECIES
 
 #### Status
 ACCEPTED

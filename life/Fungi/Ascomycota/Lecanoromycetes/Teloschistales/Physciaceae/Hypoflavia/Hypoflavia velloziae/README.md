@@ -1,14 +1,13 @@
-Buellia velloziae Kalb SPECIES
-=======
+# Hypoflavia velloziae (Kalb) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenes Neotropici (Neumarkt), Fascicle <b>IX</b> (nos 351-400) 6, no. 363 (1986)
+Biblthca Lichenol. 74: 294 (2000)
 
 #### Original name
 Buellia velloziae Kalb

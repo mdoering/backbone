@@ -1,5 +1,4 @@
-Vaginulina plumoides Plummer SPECIES
-=======
+# Vaginulina plumoides Plummer SPECIES
 
 #### Status
 ACCEPTED

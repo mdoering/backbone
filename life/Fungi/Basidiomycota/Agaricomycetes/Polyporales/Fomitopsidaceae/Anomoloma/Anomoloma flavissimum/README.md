@@ -1,14 +1,13 @@
-Anomoporia flavissima Niemelä, 1994 SPECIES
-=======
+# Anomoloma flavissimum (Niemelä) Niemelä & K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. bot. fenn. 31(2): 102 (1994)
+in Niemelä, Larsson, Dai & Larsson, Mycotaxon 100: 313 (2007)
 
 #### Original name
 Anomoporia flavissima Niemelä, 1994

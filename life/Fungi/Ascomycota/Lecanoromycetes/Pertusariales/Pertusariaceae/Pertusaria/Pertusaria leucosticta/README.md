@@ -1,5 +1,4 @@
-Pertusaria leucosticta Mont. SPECIES
-=======
+# Pertusaria leucosticta Mont. SPECIES
 
 #### Status
 ACCEPTED

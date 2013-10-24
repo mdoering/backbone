@@ -1,5 +1,4 @@
-Lewia hordeicola Kwasna & Kosiak, 2006 SPECIES
-=======
+# Lewia hordeicola Kwasna & Kosiak, 2006 SPECIES
 
 #### Status
 ACCEPTED

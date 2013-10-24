@@ -1,5 +1,4 @@
-Tilletia verrucosa Cooke & Massee SPECIES
-=======
+# Tilletia verrucosa Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

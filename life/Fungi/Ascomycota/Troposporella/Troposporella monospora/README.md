@@ -1,14 +1,13 @@
-Slimacomyces monospora (W.B. Kendr.) Minter SPECIES
-=======
+# Troposporella monospora (W.B. Kendr.) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+More Dematiaceous Hyphomycetes (Kew) 47 (1976)
 
 #### Original name
 Helicoma monospora W.B. Kendr., 1958

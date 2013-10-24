@@ -1,5 +1,4 @@
-Thielavia pallidospora Pidopl., Kiril. & Zakharch., 1973 SPECIES
-=======
+# Thielavia pallidospora Pidopl., Kiril. & Zakharch., 1973 SPECIES
 
 #### Status
 ACCEPTED

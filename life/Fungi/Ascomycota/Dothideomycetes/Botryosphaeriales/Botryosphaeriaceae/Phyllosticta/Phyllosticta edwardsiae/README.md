@@ -1,5 +1,4 @@
-Phyllosticta edwardsiae Tassi SPECIES
-=======
+# Phyllosticta edwardsiae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia affricata (Berk. & Broome) Gillet SPECIES
-=======
+# Omphalia affricata (Berk. & Broome) Gillet SPECIES
 
 #### Status
 ACCEPTED

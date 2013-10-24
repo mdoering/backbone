@@ -1,5 +1,4 @@
-Microbacterium hydrocarbonoxydans Schippers et al., 2005 SPECIES
-=======
+# Microbacterium hydrocarbonoxydans Schippers et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

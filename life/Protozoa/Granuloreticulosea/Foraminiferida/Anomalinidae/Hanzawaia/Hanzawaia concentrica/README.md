@@ -1,8 +1,7 @@
-Cibicides concentricus Cushman, 1918 SPECIES
-=======
+# Hanzawaia concentrica (Cushman, 1918) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

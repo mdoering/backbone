@@ -1,5 +1,4 @@
-Trechispora dimitica Hallenb., 1980 SPECIES
-=======
+# Trechispora dimitica Hallenb., 1980 SPECIES
 
 #### Status
 ACCEPTED

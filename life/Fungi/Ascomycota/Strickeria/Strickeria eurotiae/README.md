@@ -1,5 +1,4 @@
-Strickeria eurotiae Kravtzev SPECIES
-=======
+# Strickeria eurotiae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

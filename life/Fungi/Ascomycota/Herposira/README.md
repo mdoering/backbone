@@ -1,5 +1,4 @@
-Herposira Syd. GENUS
-=======
+# Herposira Syd. GENUS
 
 #### Status
 ACCEPTED

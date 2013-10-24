@@ -1,14 +1,13 @@
-Helotium nitidulum (Berk. & Broome) Massee, 1895 SPECIES
-=======
+# Hymenoscyphus nitidulus (Berk. & Broome) W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Man. Brit. Discomyc. (London) 142 (1887)
 
 #### Original name
 null

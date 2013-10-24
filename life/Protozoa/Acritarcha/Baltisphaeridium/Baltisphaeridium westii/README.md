@@ -1,5 +1,4 @@
-Baltisphaeridium westii Deflandre in Churchill & Sarjeant, 1962 SPECIES
-=======
+# Baltisphaeridium westii Deflandre in Churchill & Sarjeant, 1962 SPECIES
 
 #### Status
 ACCEPTED

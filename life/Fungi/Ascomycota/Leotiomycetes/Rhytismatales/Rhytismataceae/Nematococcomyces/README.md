@@ -1,5 +1,4 @@
-Nematococcomyces C.L. Hou, M. Piepenbr. & Oberw. GENUS
-=======
+# Nematococcomyces C.L. Hou, M. Piepenbr. & Oberw. GENUS
 
 #### Status
 ACCEPTED

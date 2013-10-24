@@ -1,5 +1,4 @@
-Peziza sublicoides P. Karst. SPECIES
-=======
+# Peziza sublicoides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

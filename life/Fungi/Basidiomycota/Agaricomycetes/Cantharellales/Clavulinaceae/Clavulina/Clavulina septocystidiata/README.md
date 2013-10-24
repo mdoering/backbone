@@ -1,5 +1,4 @@
-Clavulina septocystidiata R.H. Petersen, 1988 SPECIES
-=======
+# Clavulina septocystidiata R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

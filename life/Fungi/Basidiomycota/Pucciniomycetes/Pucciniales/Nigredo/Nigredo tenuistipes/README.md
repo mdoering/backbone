@@ -1,5 +1,4 @@
-Nigredo tenuistipes (Dietel & Holw.) Arthur SPECIES
-=======
+# Nigredo tenuistipes (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

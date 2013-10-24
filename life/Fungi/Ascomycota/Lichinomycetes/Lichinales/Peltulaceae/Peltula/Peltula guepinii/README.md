@@ -1,5 +1,4 @@
-Peltula guepinii (Delise) Gyeln. SPECIES
-=======
+# Peltula guepinii (Delise) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

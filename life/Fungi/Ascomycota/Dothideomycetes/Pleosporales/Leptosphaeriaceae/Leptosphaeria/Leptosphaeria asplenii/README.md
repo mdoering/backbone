@@ -1,5 +1,4 @@
-Leptosphaeria asplenii (Rabenh.) Sacc. SPECIES
-=======
+# Leptosphaeria asplenii (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

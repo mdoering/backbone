@@ -1,5 +1,4 @@
-Peziza tautilla W. Phillips & Harkn. SPECIES
-=======
+# Peziza tautilla W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

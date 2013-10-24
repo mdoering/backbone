@@ -1,5 +1,4 @@
-Stomiopeltites cretacea Alvin & M.D. Muir SPECIES
-=======
+# Stomiopeltites cretacea Alvin & M.D. Muir SPECIES
 
 #### Status
 ACCEPTED

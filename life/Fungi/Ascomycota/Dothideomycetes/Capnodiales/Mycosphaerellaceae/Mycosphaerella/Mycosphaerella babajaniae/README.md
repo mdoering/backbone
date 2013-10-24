@@ -1,8 +1,7 @@
-Mycosphaerella babajani Negru & R. Sandor SPECIES
-=======
+# Mycosphaerella babajaniae Negru & R. Sandor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycosphaerella babajani Negru & R. Sandor
+Mycosphaerella babajaniae Negru & R. Sandor
 
 ### Remarks
 null

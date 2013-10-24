@@ -1,5 +1,4 @@
-Ramularia amorphae Ying X. Wang & Z.Y. Zhang SPECIES
-=======
+# Ramularia amorphae Ying X. Wang & Z.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

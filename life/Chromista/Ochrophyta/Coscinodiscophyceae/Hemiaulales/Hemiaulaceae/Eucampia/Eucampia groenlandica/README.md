@@ -1,5 +1,4 @@
-Eucampia groenlandica Cleve SPECIES
-=======
+# Eucampia groenlandica Cleve SPECIES
 
 #### Status
 ACCEPTED

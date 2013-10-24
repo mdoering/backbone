@@ -1,5 +1,4 @@
-Sphaeronaemella acicularis (Fr.) Sacc. SPECIES
-=======
+# Sphaeronaemella acicularis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola monanthotaxiae Mibey SPECIES
-=======
+# Meliola monanthotaxiae Mibey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jadammina polystoma Bartenstein & Brand, 1938 SPECIES
-=======
+# Jadammina polystoma Bartenstein & Brand, 1938 SPECIES
 
 #### Status
 ACCEPTED

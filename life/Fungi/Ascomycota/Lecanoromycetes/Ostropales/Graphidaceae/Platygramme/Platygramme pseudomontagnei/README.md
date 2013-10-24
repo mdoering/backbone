@@ -1,5 +1,4 @@
-Platygramme pseudomontagnei (M. Nakan.) M. Nakan. & Kashiw. SPECIES
-=======
+# Platygramme pseudomontagnei (M. Nakan.) M. Nakan. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synechoblastus labyrinthicus Anzi SPECIES
-=======
+# Synechoblastus labyrinthicus Anzi SPECIES
 
 #### Status
 ACCEPTED

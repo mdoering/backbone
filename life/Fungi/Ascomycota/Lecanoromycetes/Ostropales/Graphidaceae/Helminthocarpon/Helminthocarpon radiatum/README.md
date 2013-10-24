@@ -1,5 +1,4 @@
-Helminthocarpon radiatum D.D. Awasthi & S.R. Singh SPECIES
-=======
+# Helminthocarpon radiatum D.D. Awasthi & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

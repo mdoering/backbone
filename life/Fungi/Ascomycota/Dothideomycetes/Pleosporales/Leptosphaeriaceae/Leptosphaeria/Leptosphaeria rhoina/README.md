@@ -1,5 +1,4 @@
-Leptosphaeria rhoina Ellis & Everh. SPECIES
-=======
+# Leptosphaeria rhoina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

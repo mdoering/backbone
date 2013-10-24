@@ -1,5 +1,4 @@
-Platyamoeba murchelanoi Sawyer, 1975 SPECIES
-=======
+# Platyamoeba murchelanoi Sawyer, 1975 SPECIES
 
 #### Status
 ACCEPTED

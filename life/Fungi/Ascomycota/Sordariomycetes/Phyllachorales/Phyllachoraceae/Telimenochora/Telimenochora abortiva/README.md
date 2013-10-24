@@ -1,14 +1,13 @@
-Metasphaeria abortiva F. Stevens, 1917 SPECIES
-=======
+# Telimenochora abortiva (F. Stevens) Sivan., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Academy of Science 10: 186 (1917)
+Trans. Br. mycol. Soc. 88(4): 474 (1987)
 
 #### Original name
 Metasphaeria abortiva F. Stevens, 1917

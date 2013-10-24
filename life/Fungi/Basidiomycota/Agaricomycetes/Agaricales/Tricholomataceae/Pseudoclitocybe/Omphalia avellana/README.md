@@ -1,5 +1,4 @@
-Omphalia avellana Beeli SPECIES
-=======
+# Omphalia avellana Beeli SPECIES
 
 #### Status
 ACCEPTED

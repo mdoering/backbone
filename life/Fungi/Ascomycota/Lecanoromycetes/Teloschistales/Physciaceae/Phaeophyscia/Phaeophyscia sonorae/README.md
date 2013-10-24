@@ -1,5 +1,4 @@
-Phaeophyscia sonorae Essl. SPECIES
-=======
+# Phaeophyscia sonorae Essl. SPECIES
 
 #### Status
 ACCEPTED

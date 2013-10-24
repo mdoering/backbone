@@ -1,17 +1,16 @@
-Asterina capparidicola Doidge SPECIES
-=======
+# Asterina capparicola Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4(2): 333 (1942)
 
 #### Original name
-Asterina capparidicola Doidge
+Asterina capparicola Doidge
 
 ### Remarks
 null

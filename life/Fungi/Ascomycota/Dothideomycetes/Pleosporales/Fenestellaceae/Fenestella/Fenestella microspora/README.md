@@ -1,5 +1,4 @@
-Fenestella microspora Delacr. SPECIES
-=======
+# Fenestella microspora Delacr. SPECIES
 
 #### Status
 ACCEPTED

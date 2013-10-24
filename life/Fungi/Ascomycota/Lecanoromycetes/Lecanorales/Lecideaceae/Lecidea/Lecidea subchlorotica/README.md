@@ -1,5 +1,4 @@
-Lecidea subchlorotica Nyl. SPECIES
-=======
+# Lecidea subchlorotica Nyl. SPECIES
 
 #### Status
 ACCEPTED

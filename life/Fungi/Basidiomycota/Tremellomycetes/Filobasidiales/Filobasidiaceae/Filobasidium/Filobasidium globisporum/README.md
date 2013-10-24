@@ -1,5 +1,4 @@
-Filobasidium globisporum Bandoni & Oberw. SPECIES
-=======
+# Filobasidium globisporum Bandoni & Oberw. SPECIES
 
 #### Status
 ACCEPTED

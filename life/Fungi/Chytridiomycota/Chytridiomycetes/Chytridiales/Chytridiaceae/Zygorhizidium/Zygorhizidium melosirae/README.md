@@ -1,5 +1,4 @@
-Zygorhizidium melosirae Canter SPECIES
-=======
+# Zygorhizidium melosirae Canter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe psoraleae-bituminosae Petr. SPECIES
-=======
+# Diaporthe psoraleae-bituminosae Petr. SPECIES
 
 #### Status
 ACCEPTED

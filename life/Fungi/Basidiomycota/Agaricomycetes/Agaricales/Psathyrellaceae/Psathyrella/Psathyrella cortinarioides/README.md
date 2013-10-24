@@ -1,5 +1,4 @@
-Psathyrella cortinarioides P.D. Orton, 1960 SPECIES
-=======
+# Psathyrella cortinarioides P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED

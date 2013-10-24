@@ -1,5 +1,4 @@
-Ganoderma platense Speg., 1926 SPECIES
-=======
+# Ganoderma platense Speg., 1926 SPECIES
 
 #### Status
 ACCEPTED

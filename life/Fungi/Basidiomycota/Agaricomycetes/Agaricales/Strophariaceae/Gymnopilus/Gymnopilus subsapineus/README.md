@@ -1,5 +1,4 @@
-Gymnopilus subsapineus Hesler SPECIES
-=======
+# Gymnopilus subsapineus Hesler SPECIES
 
 #### Status
 ACCEPTED

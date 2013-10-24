@@ -1,14 +1,13 @@
-Tubercularia erythrella (Mont.) SPECIES
-=======
+# Phyllobaeis erythrella (Mont.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Herzogia 9(3-4): 610 (1993)
 
 #### Original name
 Biatora erythrella Mont.

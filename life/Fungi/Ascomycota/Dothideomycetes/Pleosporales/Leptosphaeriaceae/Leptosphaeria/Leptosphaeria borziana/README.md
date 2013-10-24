@@ -1,5 +1,4 @@
-Leptosphaeria borziana Sacc. & Cavara SPECIES
-=======
+# Leptosphaeria borziana Sacc. & Cavara SPECIES
 
 #### Status
 ACCEPTED

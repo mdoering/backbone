@@ -1,5 +1,4 @@
-Fusisporium incarcerans Berk. SPECIES
-=======
+# Fusisporium incarcerans Berk. SPECIES
 
 #### Status
 ACCEPTED

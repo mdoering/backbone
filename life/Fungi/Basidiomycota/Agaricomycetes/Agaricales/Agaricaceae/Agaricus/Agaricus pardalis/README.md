@@ -1,5 +1,4 @@
-Agaricus pardalis Schulzer SPECIES
-=======
+# Agaricus pardalis Schulzer SPECIES
 
 #### Status
 ACCEPTED

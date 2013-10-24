@@ -1,5 +1,4 @@
-Cercospora serjaniae (Syd.) Wollenw. SPECIES
-=======
+# Cercospora serjaniae (Syd.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium xylopiae Henn. SPECIES
-=======
+# Microthyrium xylopiae Henn. SPECIES
 
 #### Status
 ACCEPTED

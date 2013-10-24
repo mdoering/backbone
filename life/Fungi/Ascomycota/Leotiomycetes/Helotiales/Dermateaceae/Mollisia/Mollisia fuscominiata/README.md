@@ -1,5 +1,4 @@
-Mollisia fuscominiata Kirschst. SPECIES
-=======
+# Mollisia fuscominiata Kirschst. SPECIES
 
 #### Status
 ACCEPTED

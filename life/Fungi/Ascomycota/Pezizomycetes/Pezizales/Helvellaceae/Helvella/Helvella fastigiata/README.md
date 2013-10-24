@@ -1,5 +1,4 @@
-Helvella fastigiata Krombh. SPECIES
-=======
+# Helvella fastigiata Krombh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola janeirensis Hansf. SPECIES
-=======
+# Meliola janeirensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

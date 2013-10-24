@@ -1,5 +1,4 @@
-Sphaerella thalictri Ellis & Everh. SPECIES
-=======
+# Sphaerella thalictri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

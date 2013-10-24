@@ -1,5 +1,4 @@
-Lactarius flavofuscus Herp. SPECIES
-=======
+# Lactarius flavofuscus Herp. SPECIES
 
 #### Status
 ACCEPTED

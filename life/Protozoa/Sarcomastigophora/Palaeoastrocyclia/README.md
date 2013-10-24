@@ -1,5 +1,4 @@
-Palaeoastrocyclia Kozur & Mostler, 1972 GENUS
-=======
+# Palaeoastrocyclia Kozur & Mostler, 1972 GENUS
 
 #### Status
 ACCEPTED

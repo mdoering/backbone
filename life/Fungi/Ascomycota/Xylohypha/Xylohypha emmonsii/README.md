@@ -1,5 +1,4 @@
-Xylohypha emmonsii A.A. Padhye, McGinnis & Ajello SPECIES
-=======
+# Xylohypha emmonsii A.A. Padhye, McGinnis & Ajello SPECIES
 
 #### Status
 ACCEPTED

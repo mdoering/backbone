@@ -1,5 +1,4 @@
-Ammobaculites madefactus Saidova, 1975 SPECIES
-=======
+# Ammobaculites madefactus Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

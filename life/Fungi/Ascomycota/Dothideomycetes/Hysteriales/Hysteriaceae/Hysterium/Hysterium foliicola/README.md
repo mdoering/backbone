@@ -1,5 +1,4 @@
-Hysterium foliicola SPECIES
-=======
+# Hysterium foliicola SPECIES
 
 #### Status
 ACCEPTED

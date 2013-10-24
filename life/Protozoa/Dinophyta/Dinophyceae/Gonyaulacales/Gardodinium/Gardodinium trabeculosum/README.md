@@ -1,5 +1,4 @@
-Gardodinium trabeculosum (Gocht, 1959) Alberti SPECIES
-=======
+# Gardodinium trabeculosum (Gocht, 1959) Alberti SPECIES
 
 #### Status
 ACCEPTED

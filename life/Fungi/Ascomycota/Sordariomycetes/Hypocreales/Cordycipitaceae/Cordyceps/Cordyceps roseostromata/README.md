@@ -1,5 +1,4 @@
-Cordyceps roseostromata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps roseostromata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

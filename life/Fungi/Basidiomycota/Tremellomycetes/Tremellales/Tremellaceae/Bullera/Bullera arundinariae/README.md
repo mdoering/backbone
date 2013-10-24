@@ -1,5 +1,4 @@
-Bullera arundinariae Fungsin, M. Takash. & Nakase SPECIES
-=======
+# Bullera arundinariae Fungsin, M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

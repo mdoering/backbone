@@ -1,5 +1,4 @@
-Coleps tesselatus Kahl, 1930 SPECIES
-=======
+# Coleps tesselatus Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

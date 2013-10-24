@@ -1,5 +1,4 @@
-Tulostoma album Massee, 1891 SPECIES
-=======
+# Tulostoma album Massee, 1891 SPECIES
 
 #### Status
 ACCEPTED

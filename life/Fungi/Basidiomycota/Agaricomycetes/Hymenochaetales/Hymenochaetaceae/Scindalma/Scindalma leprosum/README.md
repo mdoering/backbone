@@ -1,5 +1,4 @@
-Scindalma leprosum (Fr.) Kuntze SPECIES
-=======
+# Scindalma leprosum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

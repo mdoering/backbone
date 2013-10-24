@@ -1,5 +1,4 @@
-Arachnomyces glareosus Gibas, Sigler & Currah SPECIES
-=======
+# Arachnomyces glareosus Gibas, Sigler & Currah SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea antoniensis H. Magn. SPECIES
-=======
+# Lecidea antoniensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

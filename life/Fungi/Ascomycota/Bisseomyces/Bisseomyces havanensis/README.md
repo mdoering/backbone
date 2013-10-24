@@ -1,5 +1,4 @@
-Bisseomyces havanensis R.F. Castañeda, 1985 SPECIES
-=======
+# Bisseomyces havanensis R.F. Castañeda, 1985 SPECIES
 
 #### Status
 ACCEPTED

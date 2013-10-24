@@ -1,5 +1,4 @@
-Cephalotelium subtortuosae (Long) Syd. SPECIES
-=======
+# Cephalotelium subtortuosae (Long) Syd. SPECIES
 
 #### Status
 ACCEPTED

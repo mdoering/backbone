@@ -1,17 +1,16 @@
-Helmisporium septemseptatum Peck SPECIES
-=======
+# Helminthosporium septemseptatum Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 6: 13 (1876)
 
 #### Original name
-Helmisporium septemseptatum Peck
+Helminthosporium septemseptatum Peck
 
 ### Remarks
 null

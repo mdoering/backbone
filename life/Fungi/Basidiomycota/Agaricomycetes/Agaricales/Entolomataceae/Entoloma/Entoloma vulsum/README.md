@@ -1,5 +1,4 @@
-Entoloma vulsum E. Horak, 1973 SPECIES
-=======
+# Entoloma vulsum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

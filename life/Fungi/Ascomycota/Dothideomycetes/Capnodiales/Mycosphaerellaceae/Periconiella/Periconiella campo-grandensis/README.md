@@ -1,5 +1,4 @@
-Periconiella campo-grandensis Dorn.-Silva & Dianese SPECIES
-=======
+# Periconiella campo-grandensis Dorn.-Silva & Dianese SPECIES
 
 #### Status
 ACCEPTED

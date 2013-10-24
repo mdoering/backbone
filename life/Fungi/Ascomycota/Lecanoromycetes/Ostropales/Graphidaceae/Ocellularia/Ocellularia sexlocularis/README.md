@@ -1,5 +1,4 @@
-Ocellularia sexlocularis Zahlbr. SPECIES
-=======
+# Ocellularia sexlocularis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

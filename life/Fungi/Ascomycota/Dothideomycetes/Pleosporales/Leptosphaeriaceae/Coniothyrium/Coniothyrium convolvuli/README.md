@@ -1,5 +1,4 @@
-Coniothyrium convolvuli W.T. Horne SPECIES
-=======
+# Coniothyrium convolvuli W.T. Horne SPECIES
 
 #### Status
 ACCEPTED

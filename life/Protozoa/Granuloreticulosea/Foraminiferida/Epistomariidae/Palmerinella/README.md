@@ -1,5 +1,4 @@
-Palmerinella Bermudez, 1934 GENUS
-=======
+# Palmerinella Bermudez, 1934 GENUS
 
 #### Status
 ACCEPTED

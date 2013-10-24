@@ -1,5 +1,4 @@
-Micropuccinia rydbergii (Garrett) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia rydbergii (Garrett) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia occidentalis Murrill SPECIES
-=======
+# Leptonia occidentalis Murrill SPECIES
 
 #### Status
 ACCEPTED

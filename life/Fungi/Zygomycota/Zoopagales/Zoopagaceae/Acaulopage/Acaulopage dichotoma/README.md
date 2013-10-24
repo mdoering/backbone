@@ -1,5 +1,4 @@
-Acaulopage dichotoma Drechsler, 1935 SPECIES
-=======
+# Acaulopage dichotoma Drechsler, 1935 SPECIES
 
 #### Status
 ACCEPTED

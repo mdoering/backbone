@@ -1,5 +1,4 @@
-Dimerella luteola Kalb SPECIES
-=======
+# Dimerella luteola Kalb SPECIES
 
 #### Status
 ACCEPTED

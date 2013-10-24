@@ -1,5 +1,4 @@
-Leptosphaeria chamaeropis Khokhr. SPECIES
-=======
+# Leptosphaeria chamaeropis Khokhr. SPECIES
 
 #### Status
 ACCEPTED

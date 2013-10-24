@@ -1,5 +1,4 @@
-Peyronellaea asteris (Bres.) Goid. SPECIES
-=======
+# Peyronellaea asteris (Bres.) Goid. SPECIES
 
 #### Status
 ACCEPTED

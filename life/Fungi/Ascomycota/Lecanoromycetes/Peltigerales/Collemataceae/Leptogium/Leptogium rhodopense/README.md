@@ -1,5 +1,4 @@
-Leptogium rhodopense SPECIES
-=======
+# Leptogium rhodopense SPECIES
 
 #### Status
 ACCEPTED

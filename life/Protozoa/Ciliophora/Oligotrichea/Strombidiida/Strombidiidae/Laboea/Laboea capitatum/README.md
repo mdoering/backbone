@@ -1,5 +1,4 @@
-Laboea capitatum SPECIES
-=======
+# Laboea capitatum SPECIES
 
 #### Status
 ACCEPTED

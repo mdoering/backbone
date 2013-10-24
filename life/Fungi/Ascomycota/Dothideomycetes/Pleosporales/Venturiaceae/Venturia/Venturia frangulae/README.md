@@ -1,5 +1,4 @@
-Venturia frangulae Krieg. SPECIES
-=======
+# Venturia frangulae Krieg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macroplodia GENUS
-=======
+# Macroplodia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella berberidis (Pers.) Fuckel SPECIES
-=======
+# Lachnella berberidis (Pers.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

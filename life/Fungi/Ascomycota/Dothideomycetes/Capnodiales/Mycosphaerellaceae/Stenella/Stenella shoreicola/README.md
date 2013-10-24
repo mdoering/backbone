@@ -1,5 +1,4 @@
-Stenella shoreicola U. Braun & Crous SPECIES
-=======
+# Stenella shoreicola U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus aurantiomucosus Secr. SPECIES
-=======
+# Agaricus aurantiomucosus Secr. SPECIES
 
 #### Status
 ACCEPTED

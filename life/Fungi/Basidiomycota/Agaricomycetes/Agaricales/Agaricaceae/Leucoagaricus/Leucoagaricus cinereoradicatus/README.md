@@ -1,5 +1,4 @@
-Leucoagaricus cinereoradicatus Boisselet & Migl. SPECIES
-=======
+# Leucoagaricus cinereoradicatus Boisselet & Migl. SPECIES
 
 #### Status
 ACCEPTED

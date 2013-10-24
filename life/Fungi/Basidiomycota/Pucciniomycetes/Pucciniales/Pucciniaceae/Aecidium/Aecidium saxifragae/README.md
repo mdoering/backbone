@@ -1,5 +1,4 @@
-Aecidium saxifragae Thüm. SPECIES
-=======
+# Aecidium saxifragae Thüm. SPECIES
 
 #### Status
 ACCEPTED

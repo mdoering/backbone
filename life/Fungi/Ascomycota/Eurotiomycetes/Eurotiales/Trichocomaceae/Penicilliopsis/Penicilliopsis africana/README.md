@@ -1,5 +1,4 @@
-Penicilliopsis africana Samson & Seifert SPECIES
-=======
+# Penicilliopsis africana Samson & Seifert SPECIES
 
 #### Status
 ACCEPTED

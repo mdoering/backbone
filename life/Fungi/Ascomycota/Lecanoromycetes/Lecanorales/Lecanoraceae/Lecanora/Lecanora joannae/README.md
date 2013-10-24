@@ -1,5 +1,4 @@
-Lecanora joannae Hue SPECIES
-=======
+# Lecanora joannae Hue SPECIES
 
 #### Status
 ACCEPTED

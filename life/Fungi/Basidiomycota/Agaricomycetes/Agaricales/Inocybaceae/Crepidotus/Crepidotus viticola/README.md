@@ -1,5 +1,4 @@
-Crepidotus viticola S. Imai SPECIES
-=======
+# Crepidotus viticola S. Imai SPECIES
 
 #### Status
 ACCEPTED

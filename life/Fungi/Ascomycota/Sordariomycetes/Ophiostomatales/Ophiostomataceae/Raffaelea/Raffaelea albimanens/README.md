@@ -1,5 +1,4 @@
-Raffaelea albimanens D.B. Scott & J.W. du Toit, 1970 SPECIES
-=======
+# Raffaelea albimanens D.B. Scott & J.W. du Toit, 1970 SPECIES
 
 #### Status
 ACCEPTED

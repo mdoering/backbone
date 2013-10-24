@@ -1,5 +1,4 @@
-Mycobacterium palustre Torkko et al., 2002 SPECIES
-=======
+# Mycobacterium palustre Torkko et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

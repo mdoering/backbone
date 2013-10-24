@@ -1,5 +1,4 @@
-Pestalotia teucrii Gonz. Frag. SPECIES
-=======
+# Pestalotia teucrii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus indetritus Britzelm. SPECIES
-=======
+# Agaricus indetritus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

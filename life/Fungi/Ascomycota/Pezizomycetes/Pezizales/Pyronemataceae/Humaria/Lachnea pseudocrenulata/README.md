@@ -1,5 +1,4 @@
-Lachnea pseudocrenulata (Clem.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea pseudocrenulata (Clem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

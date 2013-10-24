@@ -1,5 +1,4 @@
-Phakopsora erythraea Sacc. SPECIES
-=======
+# Phakopsora erythraea Sacc. SPECIES
 
 #### Status
 ACCEPTED

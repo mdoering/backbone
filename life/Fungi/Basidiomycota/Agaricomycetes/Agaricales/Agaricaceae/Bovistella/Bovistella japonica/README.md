@@ -1,5 +1,4 @@
-Bovistella japonica Lloyd SPECIES
-=======
+# Bovistella japonica Lloyd SPECIES
 
 #### Status
 ACCEPTED

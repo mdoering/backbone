@@ -1,5 +1,4 @@
-Buellia subconcinna SPECIES
-=======
+# Buellia subconcinna SPECIES
 
 #### Status
 ACCEPTED

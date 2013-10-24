@@ -1,5 +1,4 @@
-Oudemansiella brunneomarginata Lj.N. Vassiljeva SPECIES
-=======
+# Oudemansiella brunneomarginata Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

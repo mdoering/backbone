@@ -1,5 +1,4 @@
-Morania wagneri SPECIES
-=======
+# Morania wagneri SPECIES
 
 #### Status
 ACCEPTED

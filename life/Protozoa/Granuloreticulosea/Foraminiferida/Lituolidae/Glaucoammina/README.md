@@ -1,5 +1,4 @@
-Glaucoammina Seiglie & Bermudez, 1969 GENUS
-=======
+# Glaucoammina Seiglie & Bermudez, 1969 GENUS
 
 #### Status
 ACCEPTED

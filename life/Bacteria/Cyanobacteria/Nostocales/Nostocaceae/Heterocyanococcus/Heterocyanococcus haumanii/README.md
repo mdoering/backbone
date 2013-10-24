@@ -1,5 +1,4 @@
-Heterocyanococcus haumanii H. Kufferath SPECIES
-=======
+# Heterocyanococcus haumanii H. Kufferath SPECIES
 
 #### Status
 ACCEPTED

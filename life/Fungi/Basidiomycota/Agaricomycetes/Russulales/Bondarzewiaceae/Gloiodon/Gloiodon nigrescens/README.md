@@ -1,14 +1,13 @@
-Hydnum nigrescens Petch, 1922 SPECIES
-=======
+# Gloiodon nigrescens (Petch) Maas Geest., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 7: 288 (1922)
+Persoonia 3(2): 166 (1964)
 
 #### Original name
 Hydnum nigrescens Petch, 1922

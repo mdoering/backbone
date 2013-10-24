@@ -1,5 +1,4 @@
-Linochora conformis (Sacc.) Petr. SPECIES
-=======
+# Linochora conformis (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

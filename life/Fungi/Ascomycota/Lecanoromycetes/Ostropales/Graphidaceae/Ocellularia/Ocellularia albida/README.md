@@ -1,14 +1,13 @@
-Thelotrema albidum Nyl. SPECIES
-=======
+# Ocellularia albida (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Acta Soc. Sci. fenn. 7: 451 (1863)
+Cat. Lich. Univers. 2: 582 (1923)
 
 #### Original name
 Thelotrema albidum Nyl.

@@ -1,5 +1,4 @@
-Knufia endospora Tsuneda & Currah SPECIES
-=======
+# Knufia endospora Tsuneda & Currah SPECIES
 
 #### Status
 ACCEPTED

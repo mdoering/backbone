@@ -1,5 +1,4 @@
-Heterolepidae Gonzales-Donoso, 1969 FAMILY
-=======
+# Heterolepidae Gonzales-Donoso, 1969 FAMILY
 
 #### Status
 ACCEPTED

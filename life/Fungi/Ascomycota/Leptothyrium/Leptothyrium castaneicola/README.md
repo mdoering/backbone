@@ -1,8 +1,7 @@
-Leptothyrium castanicola Ellis & Everh. SPECIES
-=======
+# Leptothyrium castaneicola Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptothyrium castanicola Ellis & Everh.
+Leptothyrium castaneicola Ellis & Everh.
 
 ### Remarks
 null

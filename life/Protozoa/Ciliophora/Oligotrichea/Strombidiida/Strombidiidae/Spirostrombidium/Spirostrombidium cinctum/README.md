@@ -1,8 +1,7 @@
-Strombidium cinctum Kahl, 1932 SPECIES
-=======
+# Spirostrombidium cinctum (Kahl, 1932) Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

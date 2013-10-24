@@ -1,5 +1,4 @@
-Neotyphodium sinicum Z.W. Wang, Y.L. Ji & Y. Kang SPECIES
-=======
+# Neotyphodium sinicum Z.W. Wang, Y.L. Ji & Y. Kang SPECIES
 
 #### Status
 ACCEPTED

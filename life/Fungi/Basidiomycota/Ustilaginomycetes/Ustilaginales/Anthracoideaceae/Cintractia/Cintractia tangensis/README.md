@@ -1,5 +1,4 @@
-Cintractia tangensis Henn. SPECIES
-=======
+# Cintractia tangensis Henn. SPECIES
 
 #### Status
 ACCEPTED

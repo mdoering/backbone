@@ -1,8 +1,7 @@
-Sphaerognomonia sizygii Bat. SPECIES
-=======
+# Sphaerognomonia syzygii Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerognomonia sizygii Bat.
+Sphaerognomonia syzygii Bat.
 
 ### Remarks
 null

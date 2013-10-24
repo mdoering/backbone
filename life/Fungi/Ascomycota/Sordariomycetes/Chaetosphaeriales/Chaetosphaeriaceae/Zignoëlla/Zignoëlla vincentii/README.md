@@ -1,5 +1,4 @@
-Zignoëlla vincentii Cooke SPECIES
-=======
+# Zignoëlla vincentii Cooke SPECIES
 
 #### Status
 ACCEPTED

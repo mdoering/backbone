@@ -1,5 +1,4 @@
-Acremonium erectum Bonord. SPECIES
-=======
+# Acremonium erectum Bonord. SPECIES
 
 #### Status
 ACCEPTED

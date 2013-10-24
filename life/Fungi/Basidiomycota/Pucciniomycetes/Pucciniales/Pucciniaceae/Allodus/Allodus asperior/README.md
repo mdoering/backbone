@@ -1,5 +1,4 @@
-Allodus asperior (Ellis & Everh.) Orton SPECIES
-=======
+# Allodus asperior (Ellis & Everh.) Orton SPECIES
 
 #### Status
 ACCEPTED

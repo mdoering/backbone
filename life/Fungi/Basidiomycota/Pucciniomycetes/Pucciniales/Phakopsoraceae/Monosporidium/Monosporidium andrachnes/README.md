@@ -1,5 +1,4 @@
-Monosporidium andrachnes Barclay, 1888 SPECIES
-=======
+# Monosporidium andrachnes Barclay, 1888 SPECIES
 
 #### Status
 ACCEPTED

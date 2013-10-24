@@ -1,5 +1,4 @@
-Cercospora lathyri Dearn. & House SPECIES
-=======
+# Cercospora lathyri Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

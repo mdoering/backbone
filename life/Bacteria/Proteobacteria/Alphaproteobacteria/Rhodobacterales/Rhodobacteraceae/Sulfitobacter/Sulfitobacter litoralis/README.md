@@ -1,5 +1,4 @@
-Sulfitobacter litoralis Park, Bae, Nam, Chang, Kwon, Quan & Park, 2007 SPECIES
-=======
+# Sulfitobacter litoralis Park, Bae, Nam, Chang, Kwon, Quan & Park, 2007 SPECIES
 
 #### Status
 ACCEPTED

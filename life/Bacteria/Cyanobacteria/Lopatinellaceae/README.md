@@ -1,5 +1,4 @@
-Lopatinellaceae FAMILY
-=======
+# Lopatinellaceae FAMILY
 
 #### Status
 ACCEPTED

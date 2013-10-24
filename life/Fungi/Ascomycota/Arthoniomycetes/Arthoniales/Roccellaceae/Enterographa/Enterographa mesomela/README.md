@@ -1,5 +1,4 @@
-Enterographa mesomela Sparrius, Saipunkaew & Wolseley SPECIES
-=======
+# Enterographa mesomela Sparrius, Saipunkaew & Wolseley SPECIES
 
 #### Status
 ACCEPTED

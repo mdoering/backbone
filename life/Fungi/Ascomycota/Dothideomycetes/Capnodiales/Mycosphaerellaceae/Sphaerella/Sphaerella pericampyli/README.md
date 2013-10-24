@@ -1,5 +1,4 @@
-Sphaerella pericampyli Syd. {?} SPECIES
-=======
+# Sphaerella pericampyli Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

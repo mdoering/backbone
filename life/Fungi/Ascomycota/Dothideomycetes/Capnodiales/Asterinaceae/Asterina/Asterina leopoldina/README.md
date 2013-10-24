@@ -1,5 +1,4 @@
-Asterina leopoldina Rehm SPECIES
-=======
+# Asterina leopoldina Rehm SPECIES
 
 #### Status
 ACCEPTED

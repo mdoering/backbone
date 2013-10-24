@@ -1,5 +1,4 @@
-Zygorhizidium affluens Canter, 1969 SPECIES
-=======
+# Zygorhizidium affluens Canter, 1969 SPECIES
 
 #### Status
 ACCEPTED

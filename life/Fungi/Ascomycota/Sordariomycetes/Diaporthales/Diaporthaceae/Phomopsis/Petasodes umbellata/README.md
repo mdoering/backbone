@@ -1,14 +1,13 @@
-Petasodes umbellatum (Vestergr.) Clem. SPECIES
-=======
+# Petasodes umbellata (Vestergr.) Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Gen. fung. (Minneapolis) (1909)
 
 #### Original name
 Leptostromella umbellata Vestergr.

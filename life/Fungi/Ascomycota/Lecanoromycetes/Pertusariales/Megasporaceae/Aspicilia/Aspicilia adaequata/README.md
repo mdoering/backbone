@@ -1,5 +1,4 @@
-Aspicilia adaequata (Lettau) Poelt SPECIES
-=======
+# Aspicilia adaequata (Lettau) Poelt SPECIES
 
 #### Status
 ACCEPTED

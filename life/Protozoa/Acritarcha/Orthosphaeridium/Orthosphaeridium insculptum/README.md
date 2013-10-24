@@ -1,5 +1,4 @@
-Orthosphaeridium insculptum Loeblich, 1970 SPECIES
-=======
+# Orthosphaeridium insculptum Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

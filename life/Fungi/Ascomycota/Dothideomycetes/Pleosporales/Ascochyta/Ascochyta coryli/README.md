@@ -1,5 +1,4 @@
-Ascochyta coryli Sacc. & Speg. SPECIES
-=======
+# Ascochyta coryli Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

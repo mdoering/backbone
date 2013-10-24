@@ -1,5 +1,4 @@
-Tholurna Norman GENUS
-=======
+# Tholurna Norman GENUS
 
 #### Status
 ACCEPTED

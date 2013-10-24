@@ -1,5 +1,4 @@
-Alternaria rudbeckiae Nelen SPECIES
-=======
+# Alternaria rudbeckiae Nelen SPECIES
 
 #### Status
 ACCEPTED

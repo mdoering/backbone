@@ -1,5 +1,4 @@
-Pseudostegia Bubák GENUS
-=======
+# Pseudostegia Bubák GENUS
 
 #### Status
 ACCEPTED

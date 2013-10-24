@@ -1,5 +1,4 @@
-Sphacelotheca consueta Syd., 1939 SPECIES
-=======
+# Sphacelotheca consueta Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

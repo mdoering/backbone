@@ -1,5 +1,4 @@
-Oxytoxum semicollatum F.J.R. Taylor, 1976 SPECIES
-=======
+# Oxytoxum semicollatum F.J.R. Taylor, 1976 SPECIES
 
 #### Status
 ACCEPTED

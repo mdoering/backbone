@@ -1,5 +1,4 @@
-Lecidea imitatrix Zahlbr. SPECIES
-=======
+# Lecidea imitatrix Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

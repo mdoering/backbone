@@ -1,5 +1,4 @@
-Karstenula alnicola Petr. SPECIES
-=======
+# Karstenula alnicola Petr. SPECIES
 
 #### Status
 ACCEPTED

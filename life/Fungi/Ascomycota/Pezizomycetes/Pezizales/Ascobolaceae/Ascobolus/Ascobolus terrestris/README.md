@@ -1,5 +1,4 @@
-Ascobolus terrestris Brumm. SPECIES
-=======
+# Ascobolus terrestris Brumm. SPECIES
 
 #### Status
 ACCEPTED

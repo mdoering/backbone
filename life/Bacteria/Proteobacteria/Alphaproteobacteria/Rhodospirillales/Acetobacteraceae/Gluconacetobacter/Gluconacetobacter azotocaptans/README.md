@@ -1,5 +1,4 @@
-Gluconacetobacter azotocaptans Fuentes-Ramírez et al., 2001 SPECIES
-=======
+# Gluconacetobacter azotocaptans Fuentes-Ramírez et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

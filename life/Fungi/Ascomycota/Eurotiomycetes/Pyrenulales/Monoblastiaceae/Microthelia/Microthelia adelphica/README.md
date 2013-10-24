@@ -1,5 +1,4 @@
-Microthelia adelphica (Cooke) Kuntze SPECIES
-=======
+# Microthelia adelphica (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

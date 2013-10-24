@@ -1,5 +1,4 @@
-Calvatia maxima (Schaeff.) Morgan SPECIES
-=======
+# Calvatia maxima (Schaeff.) Morgan SPECIES
 
 #### Status
 ACCEPTED

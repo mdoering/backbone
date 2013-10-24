@@ -1,8 +1,7 @@
-Woodruffia sporophaga Beers & Sherwood, 1966 SPECIES
-=======
+# Bursostoma sporophaga Beers & Sherwood, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Asterina ciferriana Petr. SPECIES
-=======
+# Asterina ciferriana Petr. SPECIES
 
 #### Status
 ACCEPTED

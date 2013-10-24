@@ -1,17 +1,16 @@
-Nectria viridispora Brayford & Samuels SPECIES
-=======
+# Neonectria viridispora Samuels & Brayford, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Brayford, Honda, Mantiri & Samuels, Mycologia 96(3): 592 (2004)
 
 #### Original name
-Nectria viridispora Brayford & Samuels
+Neonectria viridispora Samuels & Brayford, 2004
 
 ### Remarks
 null

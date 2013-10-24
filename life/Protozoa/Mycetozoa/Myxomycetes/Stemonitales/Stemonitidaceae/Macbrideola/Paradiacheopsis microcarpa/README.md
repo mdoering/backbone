@@ -1,14 +1,13 @@
-Comatricha laxa var. microcarpa Meyl. VARIETY
-=======
+# Paradiacheopsis microcarpa (Meyl.) D.W. Mitch. ex Ing, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin de la Société Vaudoise des Sciences Naturelles 53: 456 (1921)
+in Ing, The Myxomycetes of Britain and Ireland (Slough), An Identification Handbook 194 (1999)
 
 #### Original name
 Comatricha laxa var. microcarpa Meyl.

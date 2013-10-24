@@ -1,5 +1,4 @@
-Flammula delimis (Britzelm.) Sacc. SPECIES
-=======
+# Flammula delimis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

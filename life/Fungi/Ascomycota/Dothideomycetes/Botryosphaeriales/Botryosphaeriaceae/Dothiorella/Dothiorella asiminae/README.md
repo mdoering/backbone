@@ -1,5 +1,4 @@
-Dothiorella asiminae Ellis & Everh. SPECIES
-=======
+# Dothiorella asiminae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

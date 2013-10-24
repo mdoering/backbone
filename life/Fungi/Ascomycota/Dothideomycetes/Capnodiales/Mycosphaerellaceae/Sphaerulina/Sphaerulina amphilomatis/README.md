@@ -1,5 +1,4 @@
-Sphaerulina amphilomatis (Jatta) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaerulina amphilomatis (Jatta) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

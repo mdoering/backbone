@@ -1,5 +1,4 @@
-Microdiplodia calami (Niessl) Tassi SPECIES
-=======
+# Microdiplodia calami (Niessl) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus triqueter var. triqueter VARIETY
-=======
+# Boletus triqueter Secr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Boletus triqueter Secr.
 
 ### Remarks
 null

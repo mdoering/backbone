@@ -1,5 +1,4 @@
-Graphina renschiana Müll. Arg. SPECIES
-=======
+# Graphina renschiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macroptycha biplicata Timofeev in Timofeev et al., 1976 SPECIES
-=======
+# Macroptycha biplicata Timofeev in Timofeev et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplosporium Mont. GENUS
-=======
+# Haplosporium Mont. GENUS
 
 #### Status
 ACCEPTED

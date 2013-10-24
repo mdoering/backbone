@@ -1,5 +1,4 @@
-Cercosporella hungarica Bäumler SPECIES
-=======
+# Cercosporella hungarica Bäumler SPECIES
 
 #### Status
 ACCEPTED

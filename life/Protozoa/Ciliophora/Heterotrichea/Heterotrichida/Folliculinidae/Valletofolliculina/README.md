@@ -1,5 +1,4 @@
-Valletofolliculina Andrews, 1953 GENUS
-=======
+# Valletofolliculina Andrews, 1953 GENUS
 
 #### Status
 ACCEPTED

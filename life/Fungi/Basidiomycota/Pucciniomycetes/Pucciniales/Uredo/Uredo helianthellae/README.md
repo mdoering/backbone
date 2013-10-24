@@ -1,5 +1,4 @@
-Uredo helianthellae (Peck) De Toni SPECIES
-=======
+# Uredo helianthellae (Peck) De Toni SPECIES
 
 #### Status
 ACCEPTED

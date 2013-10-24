@@ -1,5 +1,4 @@
-Catillaria effugiens (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria effugiens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

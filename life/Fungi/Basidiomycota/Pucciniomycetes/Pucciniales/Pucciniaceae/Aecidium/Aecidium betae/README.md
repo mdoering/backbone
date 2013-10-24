@@ -1,5 +1,4 @@
-Aecidium betae Kuhn SPECIES
-=======
+# Aecidium betae Kuhn SPECIES
 
 #### Status
 ACCEPTED

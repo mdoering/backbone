@@ -1,5 +1,4 @@
-Lachnella uvicola (Speg.) W.B. Cooke SPECIES
-=======
+# Lachnella uvicola (Speg.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

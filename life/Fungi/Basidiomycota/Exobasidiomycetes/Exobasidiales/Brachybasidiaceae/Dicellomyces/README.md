@@ -1,5 +1,4 @@
-Dicellomyces L.S. Olive GENUS
-=======
+# Dicellomyces L.S. Olive GENUS
 
 #### Status
 ACCEPTED

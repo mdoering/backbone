@@ -1,5 +1,4 @@
-Phomites myricae Fritel SPECIES
-=======
+# Phomites myricae Fritel SPECIES
 
 #### Status
 ACCEPTED

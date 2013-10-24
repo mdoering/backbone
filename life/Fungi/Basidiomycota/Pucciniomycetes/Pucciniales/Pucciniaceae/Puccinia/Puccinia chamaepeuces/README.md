@@ -1,5 +1,4 @@
-Puccinia chamaepeuces Maire SPECIES
-=======
+# Puccinia chamaepeuces Maire SPECIES
 
 #### Status
 ACCEPTED

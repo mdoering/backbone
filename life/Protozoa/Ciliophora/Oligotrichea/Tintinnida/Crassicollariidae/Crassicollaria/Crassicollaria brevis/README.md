@@ -1,5 +1,4 @@
-Crassicollaria brevis Remane, 1962 SPECIES
-=======
+# Crassicollaria brevis Remane, 1962 SPECIES
 
 #### Status
 ACCEPTED

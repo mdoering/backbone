@@ -1,5 +1,4 @@
-Blastenia autenboeri C.W. Dodge SPECIES
-=======
+# Blastenia autenboeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

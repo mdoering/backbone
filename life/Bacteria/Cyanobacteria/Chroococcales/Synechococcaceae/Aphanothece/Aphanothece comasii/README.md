@@ -1,5 +1,4 @@
-Aphanothece comasii J. Komárková-Legnerová & R. Tavera SPECIES
-=======
+# Aphanothece comasii J. Komárková-Legnerová & R. Tavera SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaulus C. G. Ehrenberg GENUS
-=======
+# Anaulus C. G. Ehrenberg GENUS
 
 #### Status
 ACCEPTED

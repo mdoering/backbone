@@ -1,5 +1,4 @@
-Phaeothamnion confervicola G. Lagerheim SPECIES
-=======
+# Phaeothamnion confervicola G. Lagerheim SPECIES
 
 #### Status
 ACCEPTED

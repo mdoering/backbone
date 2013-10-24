@@ -1,5 +1,4 @@
-Skeletocutis krawtzewii (Pilát) Kotl. & Pouzar SPECIES
-=======
+# Skeletocutis krawtzewii (Pilát) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

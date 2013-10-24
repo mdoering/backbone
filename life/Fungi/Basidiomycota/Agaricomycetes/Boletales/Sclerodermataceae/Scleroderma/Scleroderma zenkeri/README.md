@@ -1,5 +1,4 @@
-Scleroderma zenkeri Henn. SPECIES
-=======
+# Scleroderma zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

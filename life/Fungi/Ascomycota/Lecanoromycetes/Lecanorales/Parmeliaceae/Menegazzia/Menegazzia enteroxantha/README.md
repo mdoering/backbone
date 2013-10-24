@@ -1,14 +1,13 @@
-Parmelia enteroxantha Müll. Arg. SPECIES
-=======
+# Menegazzia enteroxantha (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 4: 90 (1896)
+Ark. Bot. 30A(11): 12 (1942)
 
 #### Original name
 Parmelia enteroxantha Müll. Arg.

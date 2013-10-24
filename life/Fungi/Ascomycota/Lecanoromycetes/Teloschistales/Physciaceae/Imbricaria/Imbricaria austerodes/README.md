@@ -1,5 +1,4 @@
-Imbricaria austerodes (Nyl.) Kernst. SPECIES
-=======
+# Imbricaria austerodes (Nyl.) Kernst. SPECIES
 
 #### Status
 ACCEPTED

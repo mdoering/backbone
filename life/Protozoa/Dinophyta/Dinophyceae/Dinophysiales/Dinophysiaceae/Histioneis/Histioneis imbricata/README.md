@@ -1,5 +1,4 @@
-Histioneis imbricata Halitn SPECIES
-=======
+# Histioneis imbricata Halitn SPECIES
 
 #### Status
 ACCEPTED

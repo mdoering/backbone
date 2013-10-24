@@ -1,17 +1,16 @@
-Physcia hispidula subsp. hispidula SUBSPECIES
-=======
+# Phaeophyscia hispidula (Ach.) Essl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. schweiz. bot. Ges. 73: 474 (1963)
+Mycotaxon 7(2): 305 (1978)
 
 #### Original name
-Physcia hispidula subsp. hispidula
+Parmelia hispidula Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora caesiopruinosa H. Magn. SPECIES
-=======
+# Lecanora caesiopruinosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

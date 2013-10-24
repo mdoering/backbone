@@ -1,5 +1,4 @@
-Hexagonia deschampsii Har. SPECIES
-=======
+# Hexagonia deschampsii Har. SPECIES
 
 #### Status
 ACCEPTED

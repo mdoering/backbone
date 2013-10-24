@@ -1,5 +1,4 @@
-Micromonospora lacunae Goodwin & Meyers, 2004 SPECIES
-=======
+# Micromonospora lacunae Goodwin & Meyers, 2004 SPECIES
 
 #### Status
 ACCEPTED

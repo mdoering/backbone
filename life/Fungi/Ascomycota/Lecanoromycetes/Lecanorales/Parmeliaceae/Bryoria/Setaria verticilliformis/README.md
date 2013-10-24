@@ -1,5 +1,4 @@
-Setaria verticilliformis Dumort. SPECIES
-=======
+# Setaria verticilliformis Dumort. SPECIES
 
 #### Status
 ACCEPTED

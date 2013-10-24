@@ -1,5 +1,4 @@
-Salpingthurammina GENUS
-=======
+# Salpingthurammina GENUS
 
 #### Status
 ACCEPTED

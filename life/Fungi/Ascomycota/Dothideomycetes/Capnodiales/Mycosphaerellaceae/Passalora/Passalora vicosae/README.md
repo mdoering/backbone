@@ -1,5 +1,4 @@
-Passalora vicosae A.S. Mull. & Chupp ex Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Passalora vicosae A.S. Mull. & Chupp ex Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

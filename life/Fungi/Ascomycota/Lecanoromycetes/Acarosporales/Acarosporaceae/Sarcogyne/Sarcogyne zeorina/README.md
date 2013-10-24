@@ -1,5 +1,4 @@
-Sarcogyne zeorina Vain. SPECIES
-=======
+# Sarcogyne zeorina Vain. SPECIES
 
 #### Status
 ACCEPTED

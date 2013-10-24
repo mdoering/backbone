@@ -1,5 +1,4 @@
-Anthostoma areolatum Nitschke SPECIES
-=======
+# Anthostoma areolatum Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricharia triseptata R. Sant. SPECIES
-=======
+# Tricharia triseptata R. Sant. SPECIES
 
 #### Status
 ACCEPTED

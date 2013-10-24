@@ -1,5 +1,4 @@
-Entamoeba gingivalis (Gros, 1849) Brumpt (1913) SPECIES
-=======
+# Entamoeba gingivalis (Gros, 1849) Brumpt (1913) SPECIES
 
 #### Status
 ACCEPTED

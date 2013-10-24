@@ -1,5 +1,4 @@
-Tintinnopsis rara Kofoïd & Campbell, 1939 SPECIES
-=======
+# Tintinnopsis rara Kofoïd & Campbell, 1939 SPECIES
 
 #### Status
 ACCEPTED

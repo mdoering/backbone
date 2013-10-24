@@ -1,5 +1,4 @@
-Holophrya nigricans Lauterborn, 1894 SPECIES
-=======
+# Holophrya nigricans Lauterborn, 1894 SPECIES
 
 #### Status
 ACCEPTED

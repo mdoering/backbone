@@ -1,5 +1,4 @@
-Ceratospora Léger, 1892 GENUS
-=======
+# Ceratospora Léger, 1892 GENUS
 
 #### Status
 ACCEPTED

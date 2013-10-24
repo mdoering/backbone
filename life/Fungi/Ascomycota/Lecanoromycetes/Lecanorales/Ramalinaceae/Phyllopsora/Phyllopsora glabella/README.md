@@ -1,5 +1,4 @@
-Phyllopsora glabella (Nyl.) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora glabella (Nyl.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

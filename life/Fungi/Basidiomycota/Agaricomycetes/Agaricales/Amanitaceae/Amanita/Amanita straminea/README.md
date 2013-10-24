@@ -1,5 +1,4 @@
-Amanita straminea Lam. SPECIES
-=======
+# Amanita straminea Lam. SPECIES
 
 #### Status
 ACCEPTED

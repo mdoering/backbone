@@ -1,5 +1,4 @@
-Sebacina sebacea (Pers.) SPECIES
-=======
+# Sebacina sebacea (Pers.) SPECIES
 
 #### Status
 ACCEPTED

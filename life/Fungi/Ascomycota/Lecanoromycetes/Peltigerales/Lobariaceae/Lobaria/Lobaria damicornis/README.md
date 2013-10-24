@@ -1,8 +1,7 @@
-Lobaria damaecornis (Sw.) Trevis. SPECIES
-=======
+# Lobaria damicornis (Sw.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

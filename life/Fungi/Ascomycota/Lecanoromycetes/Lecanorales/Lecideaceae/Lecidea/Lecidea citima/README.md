@@ -1,5 +1,4 @@
-Lecidea citima Nyl. SPECIES
-=======
+# Lecidea citima Nyl. SPECIES
 
 #### Status
 ACCEPTED

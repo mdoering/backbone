@@ -1,17 +1,16 @@
-Helmisporium guaraniticum Speg. SPECIES
-=======
+# Helminthosporium guaraniticum Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 22: 212 (1886)
 
 #### Original name
-Helmisporium guaraniticum Speg.
+Helminthosporium guaraniticum Speg.
 
 ### Remarks
 null

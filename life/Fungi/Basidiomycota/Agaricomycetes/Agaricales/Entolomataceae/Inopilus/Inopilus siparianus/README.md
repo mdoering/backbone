@@ -1,5 +1,4 @@
-Inopilus siparianus (Dennis) Pegler SPECIES
-=======
+# Inopilus siparianus (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED

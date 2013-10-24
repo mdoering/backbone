@@ -1,5 +1,4 @@
-Sicyoidochytrium minutum (Raghuk.) R. Yokoy., Salleh & D. Honda, 2007 SPECIES
-=======
+# Sicyoidochytrium minutum (Raghuk.) R. Yokoy., Salleh & D. Honda, 2007 SPECIES
 
 #### Status
 ACCEPTED

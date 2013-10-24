@@ -1,5 +1,4 @@
-Dasyscyphus juniperinus K. Holm & L. Holm SPECIES
-=======
+# Dasyscyphus juniperinus K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

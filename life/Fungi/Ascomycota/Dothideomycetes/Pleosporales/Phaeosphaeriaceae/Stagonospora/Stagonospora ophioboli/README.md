@@ -1,5 +1,4 @@
-Stagonospora ophioboli Moesz & Smarods SPECIES
-=======
+# Stagonospora ophioboli Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

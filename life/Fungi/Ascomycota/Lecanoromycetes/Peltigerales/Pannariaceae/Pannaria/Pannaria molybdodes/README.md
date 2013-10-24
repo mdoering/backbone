@@ -1,5 +1,4 @@
-Pannaria molybdodes F. Wilson SPECIES
-=======
+# Pannaria molybdodes F. Wilson SPECIES
 
 #### Status
 ACCEPTED

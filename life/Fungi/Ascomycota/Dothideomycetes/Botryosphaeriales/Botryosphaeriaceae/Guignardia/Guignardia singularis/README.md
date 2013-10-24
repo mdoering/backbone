@@ -1,5 +1,4 @@
-Guignardia singularis (Magnus) Arx & E. Müll. SPECIES
-=======
+# Guignardia singularis (Magnus) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanotheca cumingiana (Stirt.) Müll. Arg. SPECIES
-=======
+# Melanotheca cumingiana (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryocladium maculans Kunze SPECIES
-=======
+# Bryocladium maculans Kunze SPECIES
 
 #### Status
 ACCEPTED

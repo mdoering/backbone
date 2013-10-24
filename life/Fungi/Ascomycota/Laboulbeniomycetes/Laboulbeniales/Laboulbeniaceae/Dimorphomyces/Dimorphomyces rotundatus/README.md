@@ -1,5 +1,4 @@
-Dimorphomyces rotundatus K. Sugiy. & T. Majewski SPECIES
-=======
+# Dimorphomyces rotundatus K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

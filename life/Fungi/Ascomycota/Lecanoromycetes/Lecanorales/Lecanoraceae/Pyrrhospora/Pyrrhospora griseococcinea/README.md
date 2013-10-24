@@ -1,5 +1,4 @@
-Pyrrhospora griseococcinea (Nyl.) Hafellner SPECIES
-=======
+# Pyrrhospora griseococcinea (Nyl.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

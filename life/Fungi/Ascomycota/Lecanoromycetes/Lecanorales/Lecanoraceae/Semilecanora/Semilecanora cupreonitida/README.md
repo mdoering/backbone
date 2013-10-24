@@ -1,5 +1,4 @@
-Semilecanora cupreonitida Motyka SPECIES
-=======
+# Semilecanora cupreonitida Motyka SPECIES
 
 #### Status
 ACCEPTED

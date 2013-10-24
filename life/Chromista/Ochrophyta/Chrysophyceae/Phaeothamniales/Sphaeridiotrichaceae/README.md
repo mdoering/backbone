@@ -1,5 +1,4 @@
-Sphaeridiotrichaceae FAMILY
-=======
+# Sphaeridiotrichaceae FAMILY
 
 #### Status
 ACCEPTED

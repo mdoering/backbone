@@ -1,5 +1,4 @@
-Ichthyosporidium gasterophilum Caullery & Mesnil SPECIES
-=======
+# Ichthyosporidium gasterophilum Caullery & Mesnil SPECIES
 
 #### Status
 ACCEPTED

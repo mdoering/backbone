@@ -1,5 +1,4 @@
-Lophomonas F. Stein, 1860 GENUS
-=======
+# Lophomonas F. Stein, 1860 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora freeri (Musgrave & Clegg) Sartory SPECIES
-=======
+# Oospora freeri (Musgrave & Clegg) Sartory SPECIES
 
 #### Status
 ACCEPTED

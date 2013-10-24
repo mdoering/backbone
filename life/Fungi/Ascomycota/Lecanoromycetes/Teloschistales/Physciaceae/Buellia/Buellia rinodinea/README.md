@@ -1,5 +1,4 @@
-Buellia rinodinea SPECIES
-=======
+# Buellia rinodinea SPECIES
 
 #### Status
 ACCEPTED

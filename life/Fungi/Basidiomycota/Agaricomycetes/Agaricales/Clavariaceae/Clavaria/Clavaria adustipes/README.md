@@ -1,5 +1,4 @@
-Clavaria adustipes Speg. SPECIES
-=======
+# Clavaria adustipes Speg. SPECIES
 
 #### Status
 ACCEPTED

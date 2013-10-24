@@ -1,5 +1,4 @@
-Entoloma hiemale (Lazzari & P. Blanco) Cetto SPECIES
-=======
+# Entoloma hiemale (Lazzari & P. Blanco) Cetto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eustegia discolor Fr. SPECIES
-=======
+# Eustegia discolor Fr. SPECIES
 
 #### Status
 ACCEPTED

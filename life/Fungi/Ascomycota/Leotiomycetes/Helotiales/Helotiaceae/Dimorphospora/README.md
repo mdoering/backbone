@@ -1,5 +1,4 @@
-Dimorphospora Tubaki GENUS
-=======
+# Dimorphospora Tubaki GENUS
 
 #### Status
 ACCEPTED

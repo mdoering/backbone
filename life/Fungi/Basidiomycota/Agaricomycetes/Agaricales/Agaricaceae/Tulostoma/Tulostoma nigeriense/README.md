@@ -1,5 +1,4 @@
-Tulostoma nigeriense J.E. Wright SPECIES
-=======
+# Tulostoma nigeriense J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

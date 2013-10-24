@@ -1,5 +1,4 @@
-Sclerotium cornutum Fr. SPECIES
-=======
+# Sclerotium cornutum Fr. SPECIES
 
 #### Status
 ACCEPTED

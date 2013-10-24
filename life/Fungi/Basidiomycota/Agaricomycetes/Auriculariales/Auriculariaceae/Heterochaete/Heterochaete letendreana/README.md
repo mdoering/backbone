@@ -1,5 +1,4 @@
-Heterochaete letendreana (Pat.) Rick SPECIES
-=======
+# Heterochaete letendreana (Pat.) Rick SPECIES
 
 #### Status
 ACCEPTED

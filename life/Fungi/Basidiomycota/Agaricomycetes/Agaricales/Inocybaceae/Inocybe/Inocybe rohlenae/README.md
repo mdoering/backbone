@@ -1,5 +1,4 @@
-Inocybe rohlenae Velen. SPECIES
-=======
+# Inocybe rohlenae Velen. SPECIES
 
 #### Status
 ACCEPTED

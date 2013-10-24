@@ -1,5 +1,4 @@
-Sporobolomyces beijingensis F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Sporobolomyces beijingensis F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

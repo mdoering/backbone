@@ -1,5 +1,4 @@
-Puccinia evansii Henn. SPECIES
-=======
+# Puccinia evansii Henn. SPECIES
 
 #### Status
 ACCEPTED

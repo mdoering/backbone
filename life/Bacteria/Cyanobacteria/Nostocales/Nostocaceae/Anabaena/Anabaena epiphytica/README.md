@@ -1,5 +1,4 @@
-Anabaena epiphytica Huber-PeStalozzi, nom. illeg. SPECIES
-=======
+# Anabaena epiphytica Huber-PeStalozzi, nom. illeg. SPECIES
 
 #### Status
 ACCEPTED

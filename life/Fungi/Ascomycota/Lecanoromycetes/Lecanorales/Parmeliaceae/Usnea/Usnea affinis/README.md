@@ -1,5 +1,4 @@
-Usnea affinis Motyka SPECIES
-=======
+# Usnea affinis Motyka SPECIES
 
 #### Status
 ACCEPTED

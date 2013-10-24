@@ -1,5 +1,4 @@
-Leucocoprinus bulbiger Bohus SPECIES
-=======
+# Leucocoprinus bulbiger Bohus SPECIES
 
 #### Status
 ACCEPTED

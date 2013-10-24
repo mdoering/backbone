@@ -1,5 +1,4 @@
-Umbilicaria pertusa Rass. SPECIES
-=======
+# Umbilicaria pertusa Rass. SPECIES
 
 #### Status
 ACCEPTED

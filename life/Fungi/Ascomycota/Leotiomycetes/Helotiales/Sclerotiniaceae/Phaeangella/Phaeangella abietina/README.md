@@ -1,5 +1,4 @@
-Phaeangella abietina (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
-=======
+# Phaeangella abietina (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

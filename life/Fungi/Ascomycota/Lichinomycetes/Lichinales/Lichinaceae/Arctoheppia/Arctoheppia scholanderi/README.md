@@ -1,5 +1,4 @@
-Arctoheppia scholanderi (Lynge) Lynge SPECIES
-=======
+# Arctoheppia scholanderi (Lynge) Lynge SPECIES
 
 #### Status
 ACCEPTED

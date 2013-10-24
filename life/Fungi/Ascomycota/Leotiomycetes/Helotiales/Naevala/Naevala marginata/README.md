@@ -1,5 +1,4 @@
-Naevala marginata B. Hein, 1976 SPECIES
-=======
+# Naevala marginata B. Hein, 1976 SPECIES
 
 #### Status
 ACCEPTED

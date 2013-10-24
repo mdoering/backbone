@@ -1,5 +1,4 @@
-Estuaricola Yankovskij, 1979 GENUS
-=======
+# Estuaricola Yankovskij, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Puiggarina blanquillo (Speg.) Speg., 1919 SPECIES
-=======
+# Phyllachora blanquillo Speg., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 23: 486 (1919)
+Anal. Mus. nac. B. Aires, Ser. 3 19(3): 414 (1909)
 
 #### Original name
 Phyllachora blanquillo Speg., 1909

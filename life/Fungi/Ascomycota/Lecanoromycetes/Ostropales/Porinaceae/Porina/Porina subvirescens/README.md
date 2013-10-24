@@ -1,5 +1,4 @@
-Porina subvirescens (Leight.) Zahlbr. SPECIES
-=======
+# Porina subvirescens (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium asterinum (Cooke & Harkn.) Tassi SPECIES
-=======
+# Coniothyrium asterinum (Cooke & Harkn.) Tassi SPECIES
 
 #### Status
 ACCEPTED

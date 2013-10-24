@@ -1,5 +1,4 @@
-Cetraria albopunctata (Eschw.) Zahlbr. SPECIES
-=======
+# Cetraria albopunctata (Eschw.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

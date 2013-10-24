@@ -1,5 +1,4 @@
-Phyllosticta badhamii Cooke SPECIES
-=======
+# Phyllosticta badhamii Cooke SPECIES
 
 #### Status
 ACCEPTED

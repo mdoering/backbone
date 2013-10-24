@@ -1,5 +1,4 @@
-Fimaria dentata (Boud.) Pfister SPECIES
-=======
+# Fimaria dentata (Boud.) Pfister SPECIES
 
 #### Status
 ACCEPTED

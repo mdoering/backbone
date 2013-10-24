@@ -1,5 +1,4 @@
-Corticium pactolinum Cooke & Harkn. SPECIES
-=======
+# Corticium pactolinum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

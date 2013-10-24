@@ -1,5 +1,4 @@
-Cyanodictyon endophyticum Pascher SPECIES
-=======
+# Cyanodictyon endophyticum Pascher SPECIES
 
 #### Status
 ACCEPTED

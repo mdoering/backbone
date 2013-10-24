@@ -1,5 +1,4 @@
-Ascochyta trigonellae Hollós SPECIES
-=======
+# Ascochyta trigonellae Hollós SPECIES
 
 #### Status
 ACCEPTED

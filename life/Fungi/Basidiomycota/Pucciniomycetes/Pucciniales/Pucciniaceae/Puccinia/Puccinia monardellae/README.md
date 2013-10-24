@@ -1,5 +1,4 @@
-Puccinia monardellae Dudley & C.H. Thomps. SPECIES
-=======
+# Puccinia monardellae Dudley & C.H. Thomps. SPECIES
 
 #### Status
 ACCEPTED

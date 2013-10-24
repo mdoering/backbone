@@ -1,5 +1,4 @@
-Bactrodesmium traversianum (Peyronel) M.B. Ellis SPECIES
-=======
+# Bactrodesmium traversianum (Peyronel) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

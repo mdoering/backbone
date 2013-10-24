@@ -1,5 +1,4 @@
-Russula porphyrocephala Buyck SPECIES
-=======
+# Russula porphyrocephala Buyck SPECIES
 
 #### Status
 ACCEPTED

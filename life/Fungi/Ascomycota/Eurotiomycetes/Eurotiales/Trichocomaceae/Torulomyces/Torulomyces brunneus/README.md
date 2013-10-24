@@ -1,5 +1,4 @@
-Torulomyces brunneus (M. Chr. & Backus) K. Ando SPECIES
-=======
+# Torulomyces brunneus (M. Chr. & Backus) K. Ando SPECIES
 
 #### Status
 ACCEPTED

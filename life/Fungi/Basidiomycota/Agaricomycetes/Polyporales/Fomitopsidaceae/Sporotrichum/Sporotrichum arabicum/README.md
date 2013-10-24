@@ -1,5 +1,4 @@
-Sporotrichum arabicum Massee SPECIES
-=======
+# Sporotrichum arabicum Massee SPECIES
 
 #### Status
 ACCEPTED

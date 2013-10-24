@@ -1,8 +1,7 @@
-Hillhousia West & Griffiths, 1909 GENUS
-=======
+# Achromatiaceae FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List

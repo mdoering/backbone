@@ -1,5 +1,4 @@
-Melampsora hirculi Lindr. SPECIES
-=======
+# Melampsora hirculi Lindr. SPECIES
 
 #### Status
 ACCEPTED

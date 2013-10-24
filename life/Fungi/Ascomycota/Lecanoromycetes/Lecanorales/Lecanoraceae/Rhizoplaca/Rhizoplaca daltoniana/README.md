@@ -1,5 +1,4 @@
-Rhizoplaca daltoniana (Hook. f. & Taylor) Follmann SPECIES
-=======
+# Rhizoplaca daltoniana (Hook. f. & Taylor) Follmann SPECIES
 
 #### Status
 ACCEPTED

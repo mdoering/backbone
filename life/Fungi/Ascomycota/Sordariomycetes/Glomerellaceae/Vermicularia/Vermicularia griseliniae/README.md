@@ -1,5 +1,4 @@
-Vermicularia griseliniae Gutner SPECIES
-=======
+# Vermicularia griseliniae Gutner SPECIES
 
 #### Status
 ACCEPTED

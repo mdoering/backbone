@@ -1,5 +1,4 @@
-Tricholoma tenuisporum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma tenuisporum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

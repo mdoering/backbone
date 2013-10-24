@@ -1,5 +1,4 @@
-Lloydella farinacea Rick SPECIES
-=======
+# Lloydella farinacea Rick SPECIES
 
 #### Status
 ACCEPTED

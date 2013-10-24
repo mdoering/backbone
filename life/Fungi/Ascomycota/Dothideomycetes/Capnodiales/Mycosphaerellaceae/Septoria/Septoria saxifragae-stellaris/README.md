@@ -1,5 +1,4 @@
-Septoria saxifragae-stellaris Kruscheva {?} SPECIES
-=======
+# Septoria saxifragae-stellaris Kruscheva {?} SPECIES
 
 #### Status
 ACCEPTED

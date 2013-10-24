@@ -1,5 +1,4 @@
-Trametes suberosifusca Corner SPECIES
-=======
+# Trametes suberosifusca Corner SPECIES
 
 #### Status
 ACCEPTED

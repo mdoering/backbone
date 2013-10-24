@@ -1,5 +1,4 @@
-Urceolaria deuteria Nyl. SPECIES
-=======
+# Urceolaria deuteria Nyl. SPECIES
 
 #### Status
 ACCEPTED

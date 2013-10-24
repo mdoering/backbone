@@ -1,5 +1,4 @@
-Zebrospora bicolor McKenzie, 1991 SPECIES
-=======
+# Zebrospora bicolor McKenzie, 1991 SPECIES
 
 #### Status
 ACCEPTED

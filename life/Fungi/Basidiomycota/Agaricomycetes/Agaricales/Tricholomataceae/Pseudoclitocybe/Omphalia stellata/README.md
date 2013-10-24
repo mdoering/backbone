@@ -1,14 +1,13 @@
-Hemimycena stellata (Fr.) Raithelh., 1980 SPECIES
-=======
+# Omphalia stellata (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Metrodiana 9(2): 47 (1980)
+Führ. Pilzk. (Zwickau) 106 (1871)
 
 #### Original name
 Agaricus stellatus Fr., 1815

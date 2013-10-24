@@ -1,5 +1,4 @@
-Parmelia kamatii (Patw. & Prabhu) Ajay Singh SPECIES
-=======
+# Parmelia kamatii (Patw. & Prabhu) Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

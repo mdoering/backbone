@@ -1,5 +1,4 @@
-Phomopsis thalictrina (Sacc. & Malbr.) Died. SPECIES
-=======
+# Phomopsis thalictrina (Sacc. & Malbr.) Died. SPECIES
 
 #### Status
 ACCEPTED

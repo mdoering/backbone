@@ -1,5 +1,4 @@
-Depazea contecta Desm. SPECIES
-=======
+# Depazea contecta Desm. SPECIES
 
 #### Status
 ACCEPTED

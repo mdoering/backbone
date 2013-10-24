@@ -1,5 +1,4 @@
-Thielavia intermedia Stchigel & Guarro, 2002 SPECIES
-=======
+# Thielavia intermedia Stchigel & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

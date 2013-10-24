@@ -1,5 +1,4 @@
-Microglaenomyces muscicolae Cif. & Tomas. SPECIES
-=======
+# Microglaenomyces muscicolae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

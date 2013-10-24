@@ -1,5 +1,4 @@
-Pyronema armeniacum Feltgen SPECIES
-=======
+# Pyronema armeniacum Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neovossia corona (Scribn.) Massee SPECIES
-=======
+# Neovossia corona (Scribn.) Massee SPECIES
 
 #### Status
 ACCEPTED

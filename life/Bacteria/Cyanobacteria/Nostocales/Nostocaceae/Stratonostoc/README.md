@@ -1,5 +1,4 @@
-Stratonostoc Elenkin, 1936 GENUS
-=======
+# Stratonostoc Elenkin, 1936 GENUS
 
 #### Status
 SYNONYM

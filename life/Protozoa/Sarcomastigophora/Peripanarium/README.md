@@ -1,5 +1,4 @@
-Peripanarium Haeckel, 1887 GENUS
-=======
+# Peripanarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

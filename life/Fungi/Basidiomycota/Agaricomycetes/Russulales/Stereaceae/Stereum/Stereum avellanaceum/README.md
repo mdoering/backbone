@@ -1,5 +1,4 @@
-Stereum avellanaceum Lloyd SPECIES
-=======
+# Stereum avellanaceum Lloyd SPECIES
 
 #### Status
 ACCEPTED

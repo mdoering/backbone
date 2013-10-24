@@ -1,5 +1,4 @@
-Rhizocarpon conglomeratum (Fr.) Räsänen SPECIES
-=======
+# Rhizocarpon conglomeratum (Fr.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

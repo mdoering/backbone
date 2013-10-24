@@ -1,5 +1,4 @@
-Chrysosporium racemosum K.D. Sharma, S. Bhattacharjee & Bhadauria SPECIES
-=======
+# Chrysosporium racemosum K.D. Sharma, S. Bhattacharjee & Bhadauria SPECIES
 
 #### Status
 ACCEPTED

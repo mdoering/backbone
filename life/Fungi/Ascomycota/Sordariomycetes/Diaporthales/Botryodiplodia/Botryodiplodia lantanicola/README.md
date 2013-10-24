@@ -1,5 +1,4 @@
-Botryodiplodia lantanicola S. Ahmad SPECIES
-=======
+# Botryodiplodia lantanicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoacia Donk, 1931 GENUS
-=======
+# Mycoacia Donk, 1931 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum liukiuensis Sawada SPECIES
-=======
+# Colletotrichum liukiuensis Sawada SPECIES
 
 #### Status
 ACCEPTED

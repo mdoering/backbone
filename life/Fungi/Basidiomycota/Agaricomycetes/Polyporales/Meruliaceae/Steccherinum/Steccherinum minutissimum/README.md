@@ -1,5 +1,4 @@
-Steccherinum minutissimum Snell & E.A. Dick SPECIES
-=======
+# Steccherinum minutissimum Snell & E.A. Dick SPECIES
 
 #### Status
 ACCEPTED

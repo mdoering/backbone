@@ -1,17 +1,16 @@
-Bilimbia milliaria f. livida Körb. FORM
-=======
+# Micarea peliocarpa (Anzi) Coppins & R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 11: 169 (1983)
 
 #### Original name
-null
+Bilimbia peliocarpa Anzi
 
 ### Remarks
 null

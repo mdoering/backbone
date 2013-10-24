@@ -1,5 +1,4 @@
-Parasterina racemosae (R.W. Ryan) Toro SPECIES
-=======
+# Parasterina racemosae (R.W. Ryan) Toro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora arenaria Anzi SPECIES
-=======
+# Biatora arenaria Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia lateripes var. lateripes VARIETY
-=======
+# Puccinia lateripes Berk. & Ravenel, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Berkeley, Grevillea 3(no. 26): 52 (1874)
 
 #### Original name
-Puccinia lateripes var. lateripes
+Puccinia lateripes Berk. & Ravenel, 1874
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rabanitina Smout, 1956 GENUS
-=======
+# Rabanitina Smout, 1956 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula cylindrica Berk. SPECIES
-=======
+# Torula cylindrica Berk. SPECIES
 
 #### Status
 ACCEPTED

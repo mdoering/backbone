@@ -1,5 +1,4 @@
-Nodulisporium hyalosporum S.C. Agarwal & J.K. Misra SPECIES
-=======
+# Nodulisporium hyalosporum S.C. Agarwal & J.K. Misra SPECIES
 
 #### Status
 ACCEPTED

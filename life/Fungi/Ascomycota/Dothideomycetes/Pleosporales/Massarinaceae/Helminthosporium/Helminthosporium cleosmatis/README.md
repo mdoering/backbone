@@ -1,5 +1,4 @@
-Helminthosporium cleosmatis Petr. & Cif. SPECIES
-=======
+# Helminthosporium cleosmatis Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

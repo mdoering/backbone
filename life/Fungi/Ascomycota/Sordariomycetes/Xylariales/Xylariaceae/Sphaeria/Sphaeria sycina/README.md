@@ -1,5 +1,4 @@
-Sphaeria sycina Mont. SPECIES
-=======
+# Sphaeria sycina Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichocorys Haeckel, 1881 GENUS
-=======
+# Stichocorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

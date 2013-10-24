@@ -1,5 +1,4 @@
-Pteroconium Sacc. ex Grove GENUS
-=======
+# Pteroconium Sacc. ex Grove GENUS
 
 #### Status
 ACCEPTED

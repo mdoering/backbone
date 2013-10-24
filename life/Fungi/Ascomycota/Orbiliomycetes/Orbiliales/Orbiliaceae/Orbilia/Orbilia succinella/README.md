@@ -1,5 +1,4 @@
-Orbilia succinella (Sacc.) Sacc. SPECIES
-=======
+# Orbilia succinella (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

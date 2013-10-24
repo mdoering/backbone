@@ -1,14 +1,13 @@
-Verrucaria kerguelena Nyl. SPECIES
-=======
+# Thelenella kerguelena (Nyl.) H. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 26: 43 (1987)
 
 #### Original name
 Verrucaria kerguelena Nyl.

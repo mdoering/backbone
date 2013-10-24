@@ -1,5 +1,4 @@
-Dimerospora hellwigii Stein SPECIES
-=======
+# Dimerospora hellwigii Stein SPECIES
 
 #### Status
 ACCEPTED

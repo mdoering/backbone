@@ -1,5 +1,4 @@
-Thecaphora burkartii J.C. Lindq. SPECIES
-=======
+# Thecaphora burkartii J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

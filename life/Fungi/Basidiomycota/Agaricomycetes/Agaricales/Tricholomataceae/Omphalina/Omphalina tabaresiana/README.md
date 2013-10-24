@@ -1,5 +1,4 @@
-Omphalina tabaresiana Vila & Llimona SPECIES
-=======
+# Omphalina tabaresiana Vila & Llimona SPECIES
 
 #### Status
 ACCEPTED

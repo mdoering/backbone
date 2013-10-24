@@ -1,17 +1,16 @@
-Cryptostictis molleriana Sacc. SPECIES
-=======
+# Cryptostictis moelleriana Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bolm Soc. broteriana, Coimbra 11: 19 (1893)
 
 #### Original name
-Cryptostictis molleriana Sacc.
+Cryptostictis moelleriana Sacc.
 
 ### Remarks
 null

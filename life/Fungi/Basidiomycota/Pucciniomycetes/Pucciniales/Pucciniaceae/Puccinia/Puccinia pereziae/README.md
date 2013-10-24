@@ -1,5 +1,4 @@
-Puccinia pereziae Henn. SPECIES
-=======
+# Puccinia pereziae Henn. SPECIES
 
 #### Status
 ACCEPTED

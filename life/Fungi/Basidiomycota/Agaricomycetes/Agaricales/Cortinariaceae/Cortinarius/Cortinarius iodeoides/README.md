@@ -1,5 +1,4 @@
-Cortinarius iodeoides Kauffman SPECIES
-=======
+# Cortinarius iodeoides Kauffman SPECIES
 
 #### Status
 ACCEPTED

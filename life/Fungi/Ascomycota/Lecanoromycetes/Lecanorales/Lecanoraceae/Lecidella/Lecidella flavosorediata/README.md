@@ -1,14 +1,13 @@
-Lecidella elaeochroma var. flavosorediata (Vezda) Clauzade & Cl. Roux VARIETY
-=======
+# Lecidella flavosorediata (Vezda) Hertel & Leuckert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Centre-Ouest, Nouv. sér. , num. spec. 7: 826 (1985)
+Willdenowia 5: 374 (1969)
 
 #### Original name
 Lecidea flavosorediata Vezda

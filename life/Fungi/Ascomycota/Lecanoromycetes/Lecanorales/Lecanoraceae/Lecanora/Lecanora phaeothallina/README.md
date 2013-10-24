@@ -1,5 +1,4 @@
-Lecanora phaeothallina Motyka SPECIES
-=======
+# Lecanora phaeothallina Motyka SPECIES
 
 #### Status
 ACCEPTED

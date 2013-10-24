@@ -1,5 +1,4 @@
-Pseudocercosporella paridicola H.D. Shin & U. Braun SPECIES
-=======
+# Pseudocercosporella paridicola H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina monimiacearum Bat. & J.L. Bezerra SPECIES
-=======
+# Asterina monimiacearum Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

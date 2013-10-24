@@ -1,17 +1,16 @@
-Entoloma chilense (E. Horak) Noordel. & Co-David, 2009 SPECIES
-=======
+# Rhodogaster chilensis E. Horak, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 17: 190 (1964)
 
 #### Original name
-null
+Rhodogaster chilensis E. Horak, 1964
 
 ### Remarks
 null

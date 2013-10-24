@@ -1,5 +1,4 @@
-Leveillula allii Z.Y. Zhao & J.S. Jia SPECIES
-=======
+# Leveillula allii Z.Y. Zhao & J.S. Jia SPECIES
 
 #### Status
 ACCEPTED

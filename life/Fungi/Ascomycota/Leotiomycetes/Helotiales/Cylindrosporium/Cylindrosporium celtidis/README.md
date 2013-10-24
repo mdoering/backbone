@@ -1,5 +1,4 @@
-Cylindrosporium celtidis Earle SPECIES
-=======
+# Cylindrosporium celtidis Earle SPECIES
 
 #### Status
 ACCEPTED

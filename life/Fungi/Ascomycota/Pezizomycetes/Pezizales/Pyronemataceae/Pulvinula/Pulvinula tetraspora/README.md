@@ -1,5 +1,4 @@
-Pulvinula tetraspora (Hansf.) Rifai SPECIES
-=======
+# Pulvinula tetraspora (Hansf.) Rifai SPECIES
 
 #### Status
 ACCEPTED

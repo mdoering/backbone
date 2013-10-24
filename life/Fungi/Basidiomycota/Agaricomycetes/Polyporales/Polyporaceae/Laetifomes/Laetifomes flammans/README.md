@@ -1,14 +1,13 @@
-Rigidoporus flammans Corner, 1987 SPECIES
-=======
+# Laetifomes flammans (Corner) T. Hatt., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 86: 164 (1987)
+Mycoscience 42(1): 26 (2001)
 
 #### Original name
 Rigidoporus flammans Corner, 1987

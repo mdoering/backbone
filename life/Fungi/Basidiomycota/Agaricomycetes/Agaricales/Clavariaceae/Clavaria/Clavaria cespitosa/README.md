@@ -1,5 +1,4 @@
-Clavaria cespitosa Scop. SPECIES
-=======
+# Clavaria cespitosa Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma columbiae Sacc. & P. Syd. SPECIES
-=======
+# Phoma columbiae Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

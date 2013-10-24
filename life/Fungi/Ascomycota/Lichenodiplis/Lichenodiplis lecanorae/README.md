@@ -1,17 +1,16 @@
-Microdiplodia lecanorae f. lecanorae Vouaux FORM
-=======
+# Lichenodiplis lecanorae (Vouaux) Dyko & D. Hawksw., 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 30: 299 (1914)
+in Hawksworth & Dyko, Lichenologist 11(1): 52 (1979)
 
 #### Original name
-Microdiplodia lecanorae f. lecanorae Vouaux
+Diplodina lecanorae Vouaux
 
 ### Remarks
 null

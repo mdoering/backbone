@@ -1,5 +1,4 @@
-Bezedniella Stloukal & Matis, 1994 GENUS
-=======
+# Bezedniella Stloukal & Matis, 1994 GENUS
 
 #### Status
 ACCEPTED

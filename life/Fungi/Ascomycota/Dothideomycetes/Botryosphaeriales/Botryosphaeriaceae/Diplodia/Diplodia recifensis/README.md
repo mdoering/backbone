@@ -1,5 +1,4 @@
-Diplodia recifensis Bat. SPECIES
-=======
+# Diplodia recifensis Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe purpurea (Beeli) Heinem. SPECIES
-=======
+# Hygrocybe purpurea (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

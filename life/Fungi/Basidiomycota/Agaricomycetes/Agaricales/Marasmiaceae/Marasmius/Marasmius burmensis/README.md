@@ -1,5 +1,4 @@
-Marasmius burmensis Cooke SPECIES
-=======
+# Marasmius burmensis Cooke SPECIES
 
 #### Status
 ACCEPTED

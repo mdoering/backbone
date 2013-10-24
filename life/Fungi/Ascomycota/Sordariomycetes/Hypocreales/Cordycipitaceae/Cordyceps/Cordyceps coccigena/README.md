@@ -1,5 +1,4 @@
-Cordyceps coccigena (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Cordyceps coccigena (Tul. & C. Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

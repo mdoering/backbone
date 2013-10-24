@@ -1,5 +1,4 @@
-Enantioptera Descals GENUS
-=======
+# Enantioptera Descals GENUS
 
 #### Status
 ACCEPTED

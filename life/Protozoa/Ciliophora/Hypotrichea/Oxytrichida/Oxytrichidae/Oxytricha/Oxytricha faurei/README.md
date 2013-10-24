@@ -1,5 +1,4 @@
-Oxytricha faurei Tucolesco, 1962 SPECIES
-=======
+# Oxytricha faurei Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis dadayi Kofoid, 1905 SPECIES
-=======
+# Tintinnopsis dadayi Kofoid, 1905 SPECIES
 
 #### Status
 ACCEPTED

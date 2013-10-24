@@ -1,5 +1,4 @@
-Lockerbia calyciiforme K.D. Hyde SPECIES
-=======
+# Lockerbia calyciiforme K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lithastrinus tessellatus Stradner in Stradner, Adamiker & Papp, 1968 SPECIES
-=======
+# Eprolithus septentrionalis (Stradner, 1963) Perch-Nielsen, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

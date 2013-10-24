@@ -1,5 +1,4 @@
-Eocaligella Pronina in Petrova & Pronina, 1980 GENUS
-=======
+# Eocaligella Pronina in Petrova & Pronina, 1980 GENUS
 
 #### Status
 ACCEPTED

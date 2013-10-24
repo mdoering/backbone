@@ -1,5 +1,4 @@
-Biatorella bolleana (H. Magn.) Zahlbr. SPECIES
-=======
+# Biatorella bolleana (H. Magn.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

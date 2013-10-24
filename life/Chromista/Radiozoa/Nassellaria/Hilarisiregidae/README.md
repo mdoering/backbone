@@ -1,5 +1,4 @@
-Hilarisiregidae Takemura & Nakaseko, 1982 FAMILY
-=======
+# Hilarisiregidae Takemura & Nakaseko, 1982 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina gardoquiae (Syd.) Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina gardoquiae (Syd.) Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

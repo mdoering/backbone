@@ -1,5 +1,4 @@
-Sphaerophyra soliformis Laut. SPECIES
-=======
+# Sphaerophyra soliformis Laut. SPECIES
 
 #### Status
 ACCEPTED

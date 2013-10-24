@@ -1,5 +1,4 @@
-Stagonospora daemiae S. Ahmad SPECIES
-=======
+# Stagonospora daemiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

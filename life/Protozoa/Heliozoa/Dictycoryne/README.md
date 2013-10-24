@@ -1,5 +1,4 @@
-Dictycoryne GENUS
-=======
+# Dictycoryne GENUS
 
 #### Status
 ACCEPTED

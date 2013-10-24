@@ -1,17 +1,16 @@
-Pistillaria uliginosa var. uliginosa VARIETY
-=======
+# Typhula micans (Pers.) Berthier, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Florule Finistère (Paris) (1867)
+Bull. mens. Soc. linn. Lyon 45: 172 (1976)
 
 #### Original name
-Pistillaria uliginosa var. uliginosa
+Clavaria micans Pers., 1797
 
 ### Remarks
 null

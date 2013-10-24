@@ -1,5 +1,4 @@
-Wolskana tokarensis Ito, Imai, Ogimoto & Nakahara, 1996 SPECIES
-=======
+# Wolskana tokarensis Ito, Imai, Ogimoto & Nakahara, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teixeiramonas B.V. Skvortzov, 1969 GENUS
-=======
+# Teixeiramonas B.V. Skvortzov, 1969 GENUS
 
 #### Status
 ACCEPTED

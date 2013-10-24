@@ -1,5 +1,4 @@
-Stigmatomyces paeudopyrelliae Thaxt. SPECIES
-=======
+# Stigmatomyces paeudopyrelliae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

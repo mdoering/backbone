@@ -1,5 +1,4 @@
-Lachnum haematinum J.H. Haines SPECIES
-=======
+# Lachnum haematinum J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

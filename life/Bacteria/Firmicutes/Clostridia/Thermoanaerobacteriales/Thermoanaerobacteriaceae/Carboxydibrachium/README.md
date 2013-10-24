@@ -1,5 +1,4 @@
-Carboxydibrachium GENUS
-=======
+# Carboxydibrachium GENUS
 
 #### Status
 ACCEPTED

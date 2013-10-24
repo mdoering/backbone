@@ -1,5 +1,4 @@
-Nocardia convoluta Chalm. & Christopherson SPECIES
-=======
+# Nocardia convoluta Chalm. & Christopherson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella ehretiae Hosag. & Raghu SPECIES
-=======
+# Asteridiella ehretiae Hosag. & Raghu SPECIES
 
 #### Status
 ACCEPTED

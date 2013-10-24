@@ -1,5 +1,4 @@
-Bakuella muensterlandii SPECIES
-=======
+# Bakuella muensterlandii SPECIES
 
 #### Status
 ACCEPTED

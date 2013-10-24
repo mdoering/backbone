@@ -1,5 +1,4 @@
-Lycoperdon leucotrichum Durieu & Mont. SPECIES
-=======
+# Lycoperdon leucotrichum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

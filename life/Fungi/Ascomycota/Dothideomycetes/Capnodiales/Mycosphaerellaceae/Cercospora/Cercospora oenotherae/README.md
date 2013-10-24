@@ -1,5 +1,4 @@
-Cercospora oenotherae Ellis & Everh. SPECIES
-=======
+# Cercospora oenotherae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

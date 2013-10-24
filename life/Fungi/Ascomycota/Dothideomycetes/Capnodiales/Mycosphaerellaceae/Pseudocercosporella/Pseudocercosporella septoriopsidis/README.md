@@ -1,5 +1,4 @@
-Pseudocercosporella septoriopsidis (Dearn. & Overh.) U. Braun SPECIES
-=======
+# Pseudocercosporella septoriopsidis (Dearn. & Overh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

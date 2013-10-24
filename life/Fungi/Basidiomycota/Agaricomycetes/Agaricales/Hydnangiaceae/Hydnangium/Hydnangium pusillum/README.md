@@ -1,5 +1,4 @@
-Hydnangium pusillum Harkn. SPECIES
-=======
+# Hydnangium pusillum Harkn. SPECIES
 
 #### Status
 ACCEPTED

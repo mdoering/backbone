@@ -1,5 +1,4 @@
-Dermatea ficicola Pat. SPECIES
-=======
+# Dermatea ficicola Pat. SPECIES
 
 #### Status
 ACCEPTED

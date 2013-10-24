@@ -1,5 +1,4 @@
-Leptosphaeria larseniana Munk SPECIES
-=======
+# Leptosphaeria larseniana Munk SPECIES
 
 #### Status
 ACCEPTED

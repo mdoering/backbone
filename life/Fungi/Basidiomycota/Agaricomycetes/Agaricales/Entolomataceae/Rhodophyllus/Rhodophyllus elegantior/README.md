@@ -1,5 +1,4 @@
-Rhodophyllus elegantior Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus elegantior Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

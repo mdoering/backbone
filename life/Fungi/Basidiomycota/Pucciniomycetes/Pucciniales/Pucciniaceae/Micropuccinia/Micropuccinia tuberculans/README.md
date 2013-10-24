@@ -1,5 +1,4 @@
-Micropuccinia tuberculans (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia tuberculans (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

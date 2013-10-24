@@ -1,5 +1,4 @@
-Lecanora maxima Lynge SPECIES
-=======
+# Lecanora maxima Lynge SPECIES
 
 #### Status
 ACCEPTED

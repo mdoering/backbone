@@ -1,5 +1,4 @@
-Xylaria echinata (Lév.) Fr. SPECIES
-=======
+# Xylaria echinata (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

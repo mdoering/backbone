@@ -1,8 +1,7 @@
-Xylomites maculaeformis Göpp. SPECIES
-=======
+# Xylomites maculiformis Göpp. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylomites maculaeformis Göpp.
+Xylomites maculiformis Göpp.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Amerodiscosiella indica V.P. Sahni, 1968 SPECIES
-=======
+# Mycoleptodiscus indicus (V.P. Sahni) B. Sutton, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 36(304): 277 (1968)
+Trans. Br. mycol. Soc. 60(3): 528 (1973)
 
 #### Original name
 Amerodiscosiella indica V.P. Sahni, 1968

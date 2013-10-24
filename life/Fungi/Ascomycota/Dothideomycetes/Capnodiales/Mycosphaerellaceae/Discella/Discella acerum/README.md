@@ -1,5 +1,4 @@
-Discella acerum (Sacc. & Briard) M. Morelet SPECIES
-=======
+# Discella acerum (Sacc. & Briard) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

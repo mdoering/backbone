@@ -1,5 +1,4 @@
-Cerastum Turner, 1991 GENUS
-=======
+# Cerastum Turner, 1991 GENUS
 
 #### Status
 ACCEPTED

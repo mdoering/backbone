@@ -1,5 +1,4 @@
-Taiwanoporia roseotincta T. Hatt. SPECIES
-=======
+# Taiwanoporia roseotincta T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

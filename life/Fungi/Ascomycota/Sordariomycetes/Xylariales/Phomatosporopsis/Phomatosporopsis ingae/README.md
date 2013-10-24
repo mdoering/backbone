@@ -1,5 +1,4 @@
-Phomatosporopsis ingae Syd. SPECIES
-=======
+# Phomatosporopsis ingae Syd. SPECIES
 
 #### Status
 ACCEPTED

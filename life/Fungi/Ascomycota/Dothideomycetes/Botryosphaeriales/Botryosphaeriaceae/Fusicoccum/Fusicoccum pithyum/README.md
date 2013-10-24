@@ -1,5 +1,4 @@
-Fusicoccum pithyum Sacc. & Penz. SPECIES
-=======
+# Fusicoccum pithyum Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

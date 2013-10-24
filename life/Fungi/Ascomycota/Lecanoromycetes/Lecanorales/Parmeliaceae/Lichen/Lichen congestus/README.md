@@ -1,5 +1,4 @@
-Lichen congestus Ach. SPECIES
-=======
+# Lichen congestus Ach. SPECIES
 
 #### Status
 ACCEPTED

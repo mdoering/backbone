@@ -1,5 +1,4 @@
-Xerocomus housei (Murrill) Singer SPECIES
-=======
+# Xerocomus housei (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

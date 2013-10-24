@@ -1,5 +1,4 @@
-Gloeocystidiopsis GENUS
-=======
+# Gloeocystidiopsis GENUS
 
 #### Status
 ACCEPTED

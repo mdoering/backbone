@@ -1,5 +1,4 @@
-Clitocybe depressa P. Karst. SPECIES
-=======
+# Clitocybe depressa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

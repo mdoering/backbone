@@ -1,5 +1,4 @@
-Pseudophacidium photiniae T.S. Ramakr. & Sriniv. SPECIES
-=======
+# Pseudophacidium photiniae T.S. Ramakr. & Sriniv. SPECIES
 
 #### Status
 ACCEPTED

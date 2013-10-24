@@ -1,5 +1,4 @@
-Pseudoclathrus yunnanensis Wei Zhou & K.Q. Zhang SPECIES
-=======
+# Pseudoclathrus yunnanensis Wei Zhou & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza pyrostoma (Mont.) Sacc. SPECIES
-=======
+# Trichopeziza pyrostoma (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

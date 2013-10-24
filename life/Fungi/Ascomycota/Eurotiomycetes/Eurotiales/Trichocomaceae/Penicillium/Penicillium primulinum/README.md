@@ -1,5 +1,4 @@
-Penicillium primulinum Pitt, 1980 SPECIES
-=======
+# Penicillium primulinum Pitt, 1980 SPECIES
 
 #### Status
 ACCEPTED

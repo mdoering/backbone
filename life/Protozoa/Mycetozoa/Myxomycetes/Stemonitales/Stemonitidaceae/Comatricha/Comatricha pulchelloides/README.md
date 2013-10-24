@@ -1,5 +1,4 @@
-Comatricha pulchelloides Nann.-Bremek., 1985 SPECIES
-=======
+# Comatricha pulchelloides Nann.-Bremek., 1985 SPECIES
 
 #### Status
 ACCEPTED

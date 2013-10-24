@@ -1,5 +1,4 @@
-Isariopsis magnoliae Plakidas SPECIES
-=======
+# Isariopsis magnoliae Plakidas SPECIES
 
 #### Status
 ACCEPTED

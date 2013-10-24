@@ -1,5 +1,4 @@
-Clavaria caepicolorosa S.G.M. Fawc. SPECIES
-=======
+# Clavaria caepicolorosa S.G.M. Fawc. SPECIES
 
 #### Status
 ACCEPTED

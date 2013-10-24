@@ -1,17 +1,16 @@
-Pycnodactylus mararlhensis Bat., A.A. Silva & Cavalc. SPECIES
-=======
+# Pycnodactylus maranhensis Bat., A.A. Silva & Cavalc., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atas Inst. Micol. Univ. Recife 5: 141 (1967)
 
 #### Original name
-Pycnodactylus mararlhensis Bat., A.A. Silva & Cavalc.
+Pycnodactylus maranhensis Bat., A.A. Silva & Cavalc., 1967
 
 ### Remarks
 null

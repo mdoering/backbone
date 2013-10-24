@@ -1,5 +1,4 @@
-Rhabdospora glycyrrhizae Hollós SPECIES
-=======
+# Rhabdospora glycyrrhizae Hollós SPECIES
 
 #### Status
 ACCEPTED

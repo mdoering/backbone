@@ -1,5 +1,4 @@
-Orthofolliculina GENUS
-=======
+# Orthofolliculina GENUS
 
 #### Status
 ACCEPTED

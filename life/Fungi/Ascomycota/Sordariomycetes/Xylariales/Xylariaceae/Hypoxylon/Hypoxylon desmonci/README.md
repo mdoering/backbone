@@ -1,5 +1,4 @@
-Hypoxylon desmonci Rehm SPECIES
-=======
+# Hypoxylon desmonci Rehm SPECIES
 
 #### Status
 ACCEPTED

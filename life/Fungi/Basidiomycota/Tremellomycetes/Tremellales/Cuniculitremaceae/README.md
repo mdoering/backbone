@@ -1,5 +1,4 @@
-Cuniculitremaceae J.P. Samp., R. Kirschner & M. Weiss FAMILY
-=======
+# Cuniculitremaceae J.P. Samp., R. Kirschner & M. Weiss FAMILY
 
 #### Status
 ACCEPTED

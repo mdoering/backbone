@@ -1,5 +1,4 @@
-Leptosphaeria tini Ellis & Everh. SPECIES
-=======
+# Leptosphaeria tini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

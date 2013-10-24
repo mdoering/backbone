@@ -1,5 +1,4 @@
-Phyllosticta vossii Thüm. SPECIES
-=======
+# Phyllosticta vossii Thüm. SPECIES
 
 #### Status
 ACCEPTED

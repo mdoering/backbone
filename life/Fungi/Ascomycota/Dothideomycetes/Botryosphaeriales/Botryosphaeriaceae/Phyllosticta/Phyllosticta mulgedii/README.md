@@ -1,5 +1,4 @@
-Phyllosticta mulgedii Davis SPECIES
-=======
+# Phyllosticta mulgedii Davis SPECIES
 
 #### Status
 ACCEPTED

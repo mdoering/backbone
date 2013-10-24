@@ -1,5 +1,4 @@
-Ramularia maclurae (Ellis & Langl.) U. Braun SPECIES
-=======
+# Ramularia maclurae (Ellis & Langl.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

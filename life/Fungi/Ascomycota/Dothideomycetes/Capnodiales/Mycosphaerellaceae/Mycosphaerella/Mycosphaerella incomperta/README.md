@@ -1,5 +1,4 @@
-Mycosphaerella incomperta Podl.-Ruz. & Svrcek SPECIES
-=======
+# Mycosphaerella incomperta Podl.-Ruz. & Svrcek SPECIES
 
 #### Status
 ACCEPTED

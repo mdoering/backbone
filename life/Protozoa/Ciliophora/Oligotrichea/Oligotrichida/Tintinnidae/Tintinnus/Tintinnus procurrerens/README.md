@@ -1,5 +1,4 @@
-Tintinnus procurrerens Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus procurrerens Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

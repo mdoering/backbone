@@ -1,5 +1,4 @@
-Pithyella hispida Raitv. & R. Galán SPECIES
-=======
+# Pithyella hispida Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

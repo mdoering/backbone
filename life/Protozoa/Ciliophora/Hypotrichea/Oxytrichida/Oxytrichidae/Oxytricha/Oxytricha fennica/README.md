@@ -1,5 +1,4 @@
-Oxytricha fennica SPECIES
-=======
+# Oxytricha fennica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megasacculina contragosa Luo Qiling & Shu Shufen in Luo Qiling et al., 1981 SPECIES
-=======
+# Megasacculina contragosa Luo Qiling & Shu Shufen in Luo Qiling et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

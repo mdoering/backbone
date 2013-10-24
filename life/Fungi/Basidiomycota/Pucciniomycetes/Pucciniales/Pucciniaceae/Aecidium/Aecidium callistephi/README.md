@@ -1,5 +1,4 @@
-Aecidium callistephi T. Miyake SPECIES
-=======
+# Aecidium callistephi T. Miyake SPECIES
 
 #### Status
 ACCEPTED

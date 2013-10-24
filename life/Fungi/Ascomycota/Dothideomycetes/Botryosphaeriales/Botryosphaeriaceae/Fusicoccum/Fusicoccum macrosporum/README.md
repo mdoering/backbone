@@ -1,14 +1,13 @@
-Dothiorella macrospora (Sacc. & Briard) Petr. & Syd., 1926 SPECIES
-=======
+# Fusicoccum macrosporum Sacc. & Briard, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 109 (1926)
+null
 
 #### Original name
 Fusicoccum macrosporum Sacc. & Briard, 1886

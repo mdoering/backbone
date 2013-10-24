@@ -1,5 +1,4 @@
-Mallomonas hexagonis K. H. Nicholls SPECIES
-=======
+# Mallomonas hexagonis K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

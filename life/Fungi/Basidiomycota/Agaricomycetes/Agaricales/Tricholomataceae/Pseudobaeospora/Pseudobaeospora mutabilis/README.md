@@ -1,5 +1,4 @@
-Pseudobaeospora mutabilis Bas & Adamcík SPECIES
-=======
+# Pseudobaeospora mutabilis Bas & Adamcík SPECIES
 
 #### Status
 ACCEPTED

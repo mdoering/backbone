@@ -1,5 +1,4 @@
-Phragmidium boreale Tranzschel SPECIES
-=======
+# Phragmidium boreale Tranzschel SPECIES
 
 #### Status
 ACCEPTED

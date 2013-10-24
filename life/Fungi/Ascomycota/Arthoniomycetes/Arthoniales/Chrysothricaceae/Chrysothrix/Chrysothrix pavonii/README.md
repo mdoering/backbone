@@ -1,5 +1,4 @@
-Chrysothrix pavonii (Fr.) J.R. Laundon SPECIES
-=======
+# Chrysothrix pavonii (Fr.) J.R. Laundon SPECIES
 
 #### Status
 ACCEPTED

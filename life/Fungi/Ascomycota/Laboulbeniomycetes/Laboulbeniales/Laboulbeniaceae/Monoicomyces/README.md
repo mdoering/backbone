@@ -1,5 +1,4 @@
-Monoicomyces Thaxt. GENUS
-=======
+# Monoicomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

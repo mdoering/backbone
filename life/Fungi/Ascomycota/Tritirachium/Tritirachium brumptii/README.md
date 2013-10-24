@@ -1,5 +1,4 @@
-Tritirachium brumptii (Langeron) Langeron SPECIES
-=======
+# Tritirachium brumptii (Langeron) Langeron SPECIES
 
 #### Status
 ACCEPTED

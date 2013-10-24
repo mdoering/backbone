@@ -1,5 +1,4 @@
-Diplodia ulmi Dearn. SPECIES
-=======
+# Diplodia ulmi Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota subnigra Murrill SPECIES
-=======
+# Pholiota subnigra Murrill SPECIES
 
 #### Status
 ACCEPTED

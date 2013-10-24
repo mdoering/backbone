@@ -1,5 +1,4 @@
-Cyphella mellea Burt SPECIES
-=======
+# Cyphella mellea Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania hellwigii (Stein) Lettau SPECIES
-=======
+# Lecania hellwigii (Stein) Lettau SPECIES
 
 #### Status
 ACCEPTED

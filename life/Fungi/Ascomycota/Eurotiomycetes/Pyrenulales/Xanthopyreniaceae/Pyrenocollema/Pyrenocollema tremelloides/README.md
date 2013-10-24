@@ -1,5 +1,4 @@
-Pyrenocollema tremelloides Reinke SPECIES
-=======
+# Pyrenocollema tremelloides Reinke SPECIES
 
 #### Status
 ACCEPTED

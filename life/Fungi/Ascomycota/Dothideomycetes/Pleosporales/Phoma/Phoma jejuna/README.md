@@ -1,5 +1,4 @@
-Phoma jejuna Wehm. SPECIES
-=======
+# Phoma jejuna Wehm. SPECIES
 
 #### Status
 ACCEPTED

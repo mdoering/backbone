@@ -1,5 +1,4 @@
-Stomiopeltis deviata Syd. SPECIES
-=======
+# Stomiopeltis deviata Syd. SPECIES
 
 #### Status
 ACCEPTED

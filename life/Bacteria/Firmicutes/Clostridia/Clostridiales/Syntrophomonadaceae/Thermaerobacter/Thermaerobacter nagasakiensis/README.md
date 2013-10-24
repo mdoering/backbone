@@ -1,5 +1,4 @@
-Thermaerobacter nagasakiensis Nunoura et al., 2002 SPECIES
-=======
+# Thermaerobacter nagasakiensis Nunoura et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

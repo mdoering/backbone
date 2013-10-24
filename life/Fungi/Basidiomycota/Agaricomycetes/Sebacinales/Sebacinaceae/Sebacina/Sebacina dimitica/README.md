@@ -1,5 +1,4 @@
-Sebacina dimitica Oberw., 1963 SPECIES
-=======
+# Sebacina dimitica Oberw., 1963 SPECIES
 
 #### Status
 ACCEPTED

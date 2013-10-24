@@ -1,5 +1,4 @@
-Gibbera volkartiana E. Müll. SPECIES
-=======
+# Gibbera volkartiana E. Müll. SPECIES
 
 #### Status
 ACCEPTED

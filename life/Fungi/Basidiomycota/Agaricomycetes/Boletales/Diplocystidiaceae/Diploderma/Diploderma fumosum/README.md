@@ -1,5 +1,4 @@
-Diploderma fumosum Cooke & Massee SPECIES
-=======
+# Diploderma fumosum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

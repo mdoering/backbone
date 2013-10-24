@@ -1,5 +1,4 @@
-Coniothecium foliicola Corda SPECIES
-=======
+# Coniothecium foliicola Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula alboareolata Hongo SPECIES
-=======
+# Russula alboareolata Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Martinezia baezi SPECIES
-=======
+# Martinezia baezi SPECIES
 
 #### Status
 ACCEPTED

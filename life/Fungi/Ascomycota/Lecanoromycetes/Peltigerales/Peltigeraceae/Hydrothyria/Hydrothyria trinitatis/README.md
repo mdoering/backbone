@@ -1,5 +1,4 @@
-Hydrothyria trinitatis Henssen SPECIES
-=======
+# Hydrothyria trinitatis Henssen SPECIES
 
 #### Status
 ACCEPTED

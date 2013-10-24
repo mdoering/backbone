@@ -1,5 +1,4 @@
-Sporisorium rhynchelytri Durán SPECIES
-=======
+# Sporisorium rhynchelytri Durán SPECIES
 
 #### Status
 ACCEPTED

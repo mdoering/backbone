@@ -1,5 +1,4 @@
-Trematosphaeria picastra Fuckel SPECIES
-=======
+# Trematosphaeria picastra Fuckel SPECIES
 
 #### Status
 ACCEPTED

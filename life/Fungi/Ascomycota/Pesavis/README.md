@@ -1,5 +1,4 @@
-Pesavis Elsik & Janson. GENUS
-=======
+# Pesavis Elsik & Janson. GENUS
 
 #### Status
 ACCEPTED

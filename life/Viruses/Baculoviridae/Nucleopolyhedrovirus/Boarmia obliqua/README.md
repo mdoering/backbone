@@ -1,5 +1,4 @@
-Boarmia obliqua Npv SPECIES
-=======
+# Boarmia obliqua Npv SPECIES
 
 #### Status
 ACCEPTED

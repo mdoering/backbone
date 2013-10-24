@@ -1,5 +1,4 @@
-Ramaraomyces N.K. Rao, Manohar. & Goos GENUS
-=======
+# Ramaraomyces N.K. Rao, Manohar. & Goos GENUS
 
 #### Status
 ACCEPTED

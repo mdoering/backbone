@@ -1,5 +1,4 @@
-Leptonia mexicana Murrill SPECIES
-=======
+# Leptonia mexicana Murrill SPECIES
 
 #### Status
 ACCEPTED

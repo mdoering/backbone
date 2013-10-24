@@ -1,5 +1,4 @@
-Polyporus rutropus Rostk. SPECIES
-=======
+# Polyporus rutropus Rostk. SPECIES
 
 #### Status
 ACCEPTED

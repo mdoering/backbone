@@ -1,5 +1,4 @@
-Simkaniaceae FAMILY
-=======
+# Simkaniaceae FAMILY
 
 #### Status
 ACCEPTED

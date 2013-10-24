@@ -1,5 +1,4 @@
-Coprinus roseotinctus Rea SPECIES
-=======
+# Coprinus roseotinctus Rea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora alismaticola Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Cercospora alismaticola Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ancistrumina kofoidi (Busch, 1937) SPECIES
-=======
+# Ancistrumina kofoidi (Busch, 1937) SPECIES
 
 #### Status
 ACCEPTED

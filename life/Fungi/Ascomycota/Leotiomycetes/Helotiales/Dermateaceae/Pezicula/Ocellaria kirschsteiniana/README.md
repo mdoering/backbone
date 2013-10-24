@@ -1,5 +1,4 @@
-Ocellaria kirschsteiniana Jaap SPECIES
-=======
+# Ocellaria kirschsteiniana Jaap SPECIES
 
 #### Status
 ACCEPTED

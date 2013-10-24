@@ -1,5 +1,4 @@
-Marmoricola aequoreus Lee, 2007 SPECIES
-=======
+# Marmoricola aequoreus Lee, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella nubigena Speg. SPECIES
-=======
+# Sphaerella nubigena Speg. SPECIES
 
 #### Status
 ACCEPTED

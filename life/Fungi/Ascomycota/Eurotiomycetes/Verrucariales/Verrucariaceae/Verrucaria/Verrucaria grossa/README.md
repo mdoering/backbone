@@ -1,5 +1,4 @@
-Verrucaria grossa Nyl. SPECIES
-=======
+# Verrucaria grossa Nyl. SPECIES
 
 #### Status
 ACCEPTED

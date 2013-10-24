@@ -1,5 +1,4 @@
-Leptonia aquila (Fr.) Gillet SPECIES
-=======
+# Leptonia aquila (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

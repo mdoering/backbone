@@ -1,5 +1,4 @@
-Vikosphaera noeliae Goy in Goy et al., 1979 SPECIES
-=======
+# Vikosphaera noeliae Goy in Goy et al., 1979 SPECIES
 
 #### Status
 DOUBTFUL

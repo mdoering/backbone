@@ -1,5 +1,4 @@
-Pseudevernia kamerunensis (J. Steiner) C.W. Dodge SPECIES
-=======
+# Pseudevernia kamerunensis (J. Steiner) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

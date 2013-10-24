@@ -1,5 +1,4 @@
-Gloeomucro dependens (Berk. & M.A. Curtis) P. Roberts SPECIES
-=======
+# Gloeomucro dependens (Berk. & M.A. Curtis) P. Roberts SPECIES
 
 #### Status
 ACCEPTED

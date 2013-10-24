@@ -1,5 +1,4 @@
-Gasparrinia sanguinea (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Gasparrinia sanguinea (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

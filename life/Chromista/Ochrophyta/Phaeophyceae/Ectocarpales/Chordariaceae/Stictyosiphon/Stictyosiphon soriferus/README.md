@@ -1,8 +1,7 @@
-Kjellmania arasakii Yamada SPECIES
-=======
+# Stictyosiphon soriferus (Reinke) Rosenvinge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Anaerobaculum mobile Menes & Muxí, 2002 SPECIES
-=======
+# Anaerobaculum mobile Menes & Muxí, 2002 SPECIES
 
 #### Status
 ACCEPTED

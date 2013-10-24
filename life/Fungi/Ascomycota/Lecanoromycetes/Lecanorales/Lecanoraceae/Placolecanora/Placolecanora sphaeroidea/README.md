@@ -1,5 +1,4 @@
-Placolecanora sphaeroidea (Oxner) Kopach. SPECIES
-=======
+# Placolecanora sphaeroidea (Oxner) Kopach. SPECIES
 
 #### Status
 ACCEPTED

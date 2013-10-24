@@ -1,5 +1,4 @@
-Scolecoxyphium americanum Bat., 1963 SPECIES
-=======
+# Scolecoxyphium americanum Bat., 1963 SPECIES
 
 #### Status
 ACCEPTED

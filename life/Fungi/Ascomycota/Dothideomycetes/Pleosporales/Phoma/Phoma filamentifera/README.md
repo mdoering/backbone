@@ -1,5 +1,4 @@
-Phoma filamentifera P. Karst. SPECIES
-=======
+# Phoma filamentifera P. Karst. SPECIES
 
 #### Status
 ACCEPTED

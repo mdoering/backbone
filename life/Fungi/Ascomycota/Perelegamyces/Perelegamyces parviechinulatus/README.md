@@ -1,17 +1,16 @@
-Perelegamyces parviechinulata W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Perelegamyces parviechinulatus W.B. Kendr. & R.F. Castañeda, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Castañeda Ruiz & Kendrick, Univ. Waterloo Biol. Ser. 32: 36 (1990)
 
 #### Original name
-Perelegamyces parviechinulata W.B. Kendr. & R.F. Castañeda
+Perelegamyces parviechinulatus W.B. Kendr. & R.F. Castañeda, 1990
 
 ### Remarks
 null

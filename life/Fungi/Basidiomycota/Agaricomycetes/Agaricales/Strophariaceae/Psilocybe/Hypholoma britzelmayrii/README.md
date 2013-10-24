@@ -1,8 +1,7 @@
-Hypholoma britzelmayri Schulzer SPECIES
-=======
+# Hypholoma britzelmayrii Schulzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hypholoma britzelmayri Schulzer
+Hypholoma britzelmayrii Schulzer
 
 ### Remarks
 null

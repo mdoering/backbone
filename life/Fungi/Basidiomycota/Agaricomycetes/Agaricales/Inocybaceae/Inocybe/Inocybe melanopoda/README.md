@@ -1,5 +1,4 @@
-Inocybe melanopoda D.E. Stuntz, 1954 SPECIES
-=======
+# Inocybe melanopoda D.E. Stuntz, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca flammea (Anzi) Jatta SPECIES
-=======
+# Caloplaca flammea (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

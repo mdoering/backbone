@@ -1,5 +1,4 @@
-Tyromyces limitatus Ryvarden SPECIES
-=======
+# Tyromyces limitatus Ryvarden SPECIES
 
 #### Status
 ACCEPTED

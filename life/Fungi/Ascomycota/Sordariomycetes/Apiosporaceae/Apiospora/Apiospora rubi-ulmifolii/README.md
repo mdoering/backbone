@@ -1,5 +1,4 @@
-Apiospora rubi-ulmifolii Bertault SPECIES
-=======
+# Apiospora rubi-ulmifolii Bertault SPECIES
 
 #### Status
 ACCEPTED

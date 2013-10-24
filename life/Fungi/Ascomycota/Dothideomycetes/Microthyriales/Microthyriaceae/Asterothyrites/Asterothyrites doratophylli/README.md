@@ -1,5 +1,4 @@
-Asterothyrites doratophylli Krassilov SPECIES
-=======
+# Asterothyrites doratophylli Krassilov SPECIES
 
 #### Status
 ACCEPTED

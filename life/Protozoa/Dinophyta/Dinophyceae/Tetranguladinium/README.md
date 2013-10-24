@@ -1,5 +1,4 @@
-Tetranguladinium J. Yu, Z. Guo & S. Mao, 1983 GENUS
-=======
+# Tetranguladinium J. Yu, Z. Guo & S. Mao, 1983 GENUS
 
 #### Status
 ACCEPTED

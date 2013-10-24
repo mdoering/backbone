@@ -1,5 +1,4 @@
-Sclerotium medullosum Roberge ex Desm., 1853 SPECIES
-=======
+# Sclerotium medullosum Roberge ex Desm., 1853 SPECIES
 
 #### Status
 ACCEPTED

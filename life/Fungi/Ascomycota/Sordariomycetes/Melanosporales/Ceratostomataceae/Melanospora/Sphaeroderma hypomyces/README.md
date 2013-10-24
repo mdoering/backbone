@@ -1,5 +1,4 @@
-Sphaeroderma hypomyces Höhn. SPECIES
-=======
+# Sphaeroderma hypomyces Höhn. SPECIES
 
 #### Status
 ACCEPTED

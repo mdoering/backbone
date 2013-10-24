@@ -1,5 +1,4 @@
-Cellanthus (Elphidium) tikutoensis (Nakamura) SPECIES
-=======
+# Cellanthus (Elphidium) tikutoensis (Nakamura) SPECIES
 
 #### Status
 DOUBTFUL

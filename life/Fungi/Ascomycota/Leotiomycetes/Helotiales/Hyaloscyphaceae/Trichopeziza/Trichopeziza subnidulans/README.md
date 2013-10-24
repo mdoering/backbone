@@ -1,5 +1,4 @@
-Trichopeziza subnidulans Rehm SPECIES
-=======
+# Trichopeziza subnidulans Rehm SPECIES
 
 #### Status
 ACCEPTED

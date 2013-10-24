@@ -1,5 +1,4 @@
-Uredo morrisonensis (Hirats. f.) Hirats. f. SPECIES
-=======
+# Uredo morrisonensis (Hirats. f.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

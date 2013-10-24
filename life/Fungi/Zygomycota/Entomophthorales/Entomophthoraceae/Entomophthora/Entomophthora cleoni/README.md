@@ -1,5 +1,4 @@
-Entomophthora cleoni (Wize) Bubák SPECIES
-=======
+# Entomophthora cleoni (Wize) Bubák SPECIES
 
 #### Status
 ACCEPTED

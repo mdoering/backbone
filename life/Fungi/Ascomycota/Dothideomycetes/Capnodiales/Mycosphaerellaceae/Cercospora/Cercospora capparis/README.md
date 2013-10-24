@@ -1,5 +1,4 @@
-Cercospora capparis Sacc. SPECIES
-=======
+# Cercospora capparis Sacc. SPECIES
 
 #### Status
 ACCEPTED

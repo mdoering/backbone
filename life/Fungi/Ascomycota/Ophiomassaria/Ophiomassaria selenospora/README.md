@@ -1,14 +1,13 @@
-Cladosphaeria selenospora G.H. Otth SPECIES
-=======
+# Ophiomassaria selenospora (G.H. Otth) Jacz., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Herb. Boissier 2: 685 (1894)
 
 #### Original name
 Cladosphaeria selenospora G.H. Otth

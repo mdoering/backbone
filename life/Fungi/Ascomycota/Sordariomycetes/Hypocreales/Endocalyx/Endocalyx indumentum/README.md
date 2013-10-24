@@ -1,5 +1,4 @@
-Endocalyx indumentum G. Okada & Tubaki, 1984 SPECIES
-=======
+# Endocalyx indumentum G. Okada & Tubaki, 1984 SPECIES
 
 #### Status
 ACCEPTED

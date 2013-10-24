@@ -1,5 +1,4 @@
-Hainesia tremellina (Sacc.) Sacc. SPECIES
-=======
+# Hainesia tremellina (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

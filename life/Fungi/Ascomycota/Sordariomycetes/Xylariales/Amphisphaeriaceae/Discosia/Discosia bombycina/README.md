@@ -1,5 +1,4 @@
-Discosia bombycina T.S. Viswan. SPECIES
-=======
+# Discosia bombycina T.S. Viswan. SPECIES
 
 #### Status
 ACCEPTED

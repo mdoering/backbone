@@ -1,5 +1,4 @@
-Melanoleuca praemagna Murrill SPECIES
-=======
+# Melanoleuca praemagna Murrill SPECIES
 
 #### Status
 ACCEPTED

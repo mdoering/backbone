@@ -1,5 +1,4 @@
-Gauthieromyces indicus J.K. Misra & V.K. Tiwari, 2008 SPECIES
-=======
+# Gauthieromyces indicus J.K. Misra & V.K. Tiwari, 2008 SPECIES
 
 #### Status
 ACCEPTED

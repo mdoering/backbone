@@ -1,5 +1,4 @@
-Vermicularia macrochaeta Desm. SPECIES
-=======
+# Vermicularia macrochaeta Desm. SPECIES
 
 #### Status
 ACCEPTED

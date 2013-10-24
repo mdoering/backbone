@@ -1,5 +1,4 @@
-Synchaetophagus balticus Apstein SPECIES
-=======
+# Synchaetophagus balticus Apstein SPECIES
 
 #### Status
 ACCEPTED

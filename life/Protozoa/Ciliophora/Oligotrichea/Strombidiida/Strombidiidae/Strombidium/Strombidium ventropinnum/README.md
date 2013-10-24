@@ -1,5 +1,4 @@
-Strombidium ventropinnum Martin & Montagnes, 1993 SPECIES
-=======
+# Strombidium ventropinnum Martin & Montagnes, 1993 SPECIES
 
 #### Status
 ACCEPTED

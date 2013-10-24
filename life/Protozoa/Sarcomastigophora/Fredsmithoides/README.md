@@ -1,5 +1,4 @@
-Fredsmithoides McCulloch, 1977 GENUS
-=======
+# Fredsmithoides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

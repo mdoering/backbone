@@ -1,5 +1,4 @@
-Amorphomyces stenusae Thaxt., 1931 SPECIES
-=======
+# Amorphomyces stenusae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota venus Murrill SPECIES
-=======
+# Lepiota venus Murrill SPECIES
 
 #### Status
 ACCEPTED

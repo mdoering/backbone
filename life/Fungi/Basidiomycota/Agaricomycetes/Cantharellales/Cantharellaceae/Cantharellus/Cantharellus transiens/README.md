@@ -1,5 +1,4 @@
-Cantharellus transiens Velen. SPECIES
-=======
+# Cantharellus transiens Velen. SPECIES
 
 #### Status
 ACCEPTED

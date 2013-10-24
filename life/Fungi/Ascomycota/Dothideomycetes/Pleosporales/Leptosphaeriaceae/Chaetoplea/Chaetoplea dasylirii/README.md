@@ -1,17 +1,16 @@
-Chaetoplea dasylirionis A.W. Ramaley SPECIES
-=======
+# Chaetoplea dasylirii A.W. Ramaley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Aliso 14(2): 151 (1995)
 
 #### Original name
-Chaetoplea dasylirionis A.W. Ramaley
+Chaetoplea dasylirii A.W. Ramaley
 
 ### Remarks
 null

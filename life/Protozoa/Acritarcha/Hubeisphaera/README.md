@@ -1,5 +1,4 @@
-Hubeisphaera Sin & Liu, 1978 GENUS
-=======
+# Hubeisphaera Sin & Liu, 1978 GENUS
 
 #### Status
 ACCEPTED

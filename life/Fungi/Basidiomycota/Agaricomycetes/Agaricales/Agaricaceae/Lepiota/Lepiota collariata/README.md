@@ -1,5 +1,4 @@
-Lepiota collariata Wichanský SPECIES
-=======
+# Lepiota collariata Wichanský SPECIES
 
 #### Status
 ACCEPTED

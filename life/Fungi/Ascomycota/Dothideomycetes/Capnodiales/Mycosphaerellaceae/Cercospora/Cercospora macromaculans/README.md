@@ -1,5 +1,4 @@
-Cercospora macromaculans Heald & F.A. Wolf SPECIES
-=======
+# Cercospora macromaculans Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

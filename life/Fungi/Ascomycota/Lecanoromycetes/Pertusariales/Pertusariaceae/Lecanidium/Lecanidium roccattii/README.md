@@ -1,8 +1,7 @@
-Lecanidium rocattii (Jatta) C.W. Dodge SPECIES
-=======
+# Lecanidium roccattii (Jatta) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

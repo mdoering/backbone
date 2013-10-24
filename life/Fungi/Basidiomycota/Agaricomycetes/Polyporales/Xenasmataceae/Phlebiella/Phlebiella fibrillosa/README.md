@@ -1,17 +1,16 @@
-Cristella submutabilis (Höhn. & Litsch.) Donk, 1957 SPECIES
-=======
+# Phlebiella fibrillosa (Hallenb.) K.H. Larss. & Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hjortstam & Larsson, Mycotaxon 29: 316 (1987)
 
 #### Original name
-Cristella submutabilis (Höhn. & Litsch.) Donk, 1957
+Trechispora fibrillosa Hallenb., 1978
 
 ### Remarks
 null

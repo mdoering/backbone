@@ -1,5 +1,4 @@
-Polyancora Voglmayr & Yule GENUS
-=======
+# Polyancora Voglmayr & Yule GENUS
 
 #### Status
 ACCEPTED

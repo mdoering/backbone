@@ -1,5 +1,4 @@
-Monotrichum commelinae Gäum., 1922 SPECIES
-=======
+# Monotrichum commelinae Gäum., 1922 SPECIES
 
 #### Status
 ACCEPTED

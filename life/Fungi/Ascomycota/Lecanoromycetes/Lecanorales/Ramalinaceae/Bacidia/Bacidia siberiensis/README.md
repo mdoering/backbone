@@ -1,5 +1,4 @@
-Bacidia siberiensis SPECIES
-=======
+# Bacidia siberiensis SPECIES
 
 #### Status
 ACCEPTED

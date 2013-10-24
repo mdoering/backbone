@@ -1,5 +1,4 @@
-Venenarius subrecutitus Murrill SPECIES
-=======
+# Venenarius subrecutitus Murrill SPECIES
 
 #### Status
 ACCEPTED

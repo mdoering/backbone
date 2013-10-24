@@ -1,14 +1,13 @@
-Melanomma hispidulum Sacc. SPECIES
-=======
+# Chaetomastia hispidula (Sacc.) Berl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Michelia 1(no. 4): 450 (1878)
+null
 
 #### Original name
 Melanomma hispidulum Sacc.

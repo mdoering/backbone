@@ -1,8 +1,7 @@
-Carchesium pectinatum Zacharias, 1897 SPECIES
-=======
+# Epicarchesium pectinatum (Zacharias, 1897) Foissner, Berger & Schaumburg, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

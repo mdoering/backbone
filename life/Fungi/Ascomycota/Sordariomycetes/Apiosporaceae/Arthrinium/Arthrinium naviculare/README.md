@@ -1,5 +1,4 @@
-Arthrinium naviculare Rostr. SPECIES
-=======
+# Arthrinium naviculare Rostr. SPECIES
 
 #### Status
 ACCEPTED

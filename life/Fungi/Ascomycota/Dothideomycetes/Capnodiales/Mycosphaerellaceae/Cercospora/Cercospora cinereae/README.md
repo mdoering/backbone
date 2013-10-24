@@ -1,5 +1,4 @@
-Cercospora cinereae Pavgi & R.A. Singh SPECIES
-=======
+# Cercospora cinereae Pavgi & R.A. Singh SPECIES
 
 #### Status
 ACCEPTED

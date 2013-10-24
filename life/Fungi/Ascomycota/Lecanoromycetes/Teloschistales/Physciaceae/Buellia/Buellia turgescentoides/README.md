@@ -1,5 +1,4 @@
-Buellia turgescentoides Fink SPECIES
-=======
+# Buellia turgescentoides Fink SPECIES
 
 #### Status
 ACCEPTED

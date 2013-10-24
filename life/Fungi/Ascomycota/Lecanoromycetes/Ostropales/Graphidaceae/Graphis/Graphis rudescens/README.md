@@ -1,5 +1,4 @@
-Graphis rudescens Nyl. SPECIES
-=======
+# Graphis rudescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

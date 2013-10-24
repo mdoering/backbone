@@ -1,5 +1,4 @@
-Lecidea crystalligera Zahlbr. SPECIES
-=======
+# Lecidea crystalligera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

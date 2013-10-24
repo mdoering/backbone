@@ -1,5 +1,4 @@
-Laboulbenia astrantica Speg. SPECIES
-=======
+# Laboulbenia astrantica Speg. SPECIES
 
 #### Status
 ACCEPTED

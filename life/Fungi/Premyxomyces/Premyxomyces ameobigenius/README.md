@@ -1,5 +1,4 @@
-Premyxomyces ameobigenius Locq. SPECIES
-=======
+# Premyxomyces ameobigenius Locq. SPECIES
 
 #### Status
 ACCEPTED

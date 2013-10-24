@@ -1,5 +1,4 @@
-Parmelia sorocheila SPECIES
-=======
+# Parmelia sorocheila SPECIES
 
 #### Status
 ACCEPTED

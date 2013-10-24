@@ -1,5 +1,4 @@
-Patellaria laetior Nyl. SPECIES
-=======
+# Patellaria laetior Nyl. SPECIES
 
 #### Status
 ACCEPTED

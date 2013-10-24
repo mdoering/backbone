@@ -1,8 +1,7 @@
-Cytospora caryogena Ellis & Everh. SPECIES
-=======
+# Cytospora caryigena Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cytospora caryogena Ellis & Everh.
+Cytospora caryigena Ellis & Everh.
 
 ### Remarks
 null

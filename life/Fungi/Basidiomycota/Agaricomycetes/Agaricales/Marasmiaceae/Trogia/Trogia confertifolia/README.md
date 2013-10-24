@@ -1,5 +1,4 @@
-Trogia confertifolia Corner SPECIES
-=======
+# Trogia confertifolia Corner SPECIES
 
 #### Status
 ACCEPTED

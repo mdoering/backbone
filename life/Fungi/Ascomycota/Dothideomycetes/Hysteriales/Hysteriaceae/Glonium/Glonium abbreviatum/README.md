@@ -1,14 +1,13 @@
-Hysterium abbreviatum Schwein., 1832 SPECIES
-=======
+# Glonium abbreviatum (Schwein.) M.L. Lohman, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): no. 2094 (1832)
+Bull. Torrey bot. Club 64: 64 (1937)
 
 #### Original name
 Hysterium abbreviatum Schwein., 1832

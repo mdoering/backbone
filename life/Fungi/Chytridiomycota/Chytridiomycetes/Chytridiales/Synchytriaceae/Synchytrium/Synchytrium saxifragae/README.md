@@ -1,5 +1,4 @@
-Synchytrium saxifragae Rytz SPECIES
-=======
+# Synchytrium saxifragae Rytz SPECIES
 
 #### Status
 ACCEPTED

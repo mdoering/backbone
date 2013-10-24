@@ -1,5 +1,4 @@
-Botrytis brevior (Berk. & Broome) Sacc. SPECIES
-=======
+# Botrytis brevior (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

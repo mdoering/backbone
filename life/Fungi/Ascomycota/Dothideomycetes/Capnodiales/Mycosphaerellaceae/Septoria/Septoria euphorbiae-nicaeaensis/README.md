@@ -1,5 +1,4 @@
-Septoria euphorbiae-nicaeaensis Unamuno SPECIES
-=======
+# Septoria euphorbiae-nicaeaensis Unamuno SPECIES
 
 #### Status
 ACCEPTED

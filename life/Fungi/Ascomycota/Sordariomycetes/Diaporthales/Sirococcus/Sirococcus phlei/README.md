@@ -1,5 +1,4 @@
-Sirococcus phlei Tehon & E.Y. Daniels SPECIES
-=======
+# Sirococcus phlei Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

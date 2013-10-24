@@ -1,5 +1,4 @@
-Plectofusulina Stewart, 1958 GENUS
-=======
+# Plectofusulina Stewart, 1958 GENUS
 
 #### Status
 ACCEPTED

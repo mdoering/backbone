@@ -1,5 +1,4 @@
-Kazachstania pintolopesii Kurtzman, Robnett, J.M. Ward & T.J. Walsh, 2005 SPECIES
-=======
+# Kazachstania pintolopesii Kurtzman, Robnett, J.M. Ward & T.J. Walsh, 2005 SPECIES
 
 #### Status
 ACCEPTED

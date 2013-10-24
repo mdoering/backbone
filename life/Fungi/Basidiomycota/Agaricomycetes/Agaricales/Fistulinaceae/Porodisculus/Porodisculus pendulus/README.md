@@ -1,17 +1,16 @@
-Polyporus pendulus (Schwein. ex Fr.) Ellis, 1884 SPECIES
-=======
+# Porodisculus pendulus (Schwägrichen {?} ) Schwein., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 9(1): 47 (1907)
 
 #### Original name
-null
+Peziza pendula Schwägrichen {?}, 1822
 
 ### Remarks
 null

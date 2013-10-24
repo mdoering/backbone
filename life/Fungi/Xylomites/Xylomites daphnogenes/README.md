@@ -1,5 +1,4 @@
-Xylomites daphnogenes Heer SPECIES
-=======
+# Xylomites daphnogenes Heer SPECIES
 
 #### Status
 ACCEPTED

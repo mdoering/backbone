@@ -1,5 +1,4 @@
-Funiliomyces biseptatus Aptroot, 2004 SPECIES
-=======
+# Funiliomyces biseptatus Aptroot, 2004 SPECIES
 
 #### Status
 ACCEPTED

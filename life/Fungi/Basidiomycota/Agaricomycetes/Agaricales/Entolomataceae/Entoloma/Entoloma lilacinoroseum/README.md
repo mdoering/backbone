@@ -1,5 +1,4 @@
-Entoloma lilacinoroseum Bon & Guinb. SPECIES
-=======
+# Entoloma lilacinoroseum Bon & Guinb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sphaerella zizyphi Pat. SPECIES
-=======
+# Sphaerella ziziphi Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella zizyphi Pat.
+Sphaerella ziziphi Pat.
 
 ### Remarks
 null

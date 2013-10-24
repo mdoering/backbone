@@ -1,5 +1,4 @@
-Diplodia hortensis Sacc. SPECIES
-=======
+# Diplodia hortensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

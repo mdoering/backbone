@@ -1,5 +1,4 @@
-Spiculostilbella GENUS
-=======
+# Spiculostilbella GENUS
 
 #### Status
 ACCEPTED

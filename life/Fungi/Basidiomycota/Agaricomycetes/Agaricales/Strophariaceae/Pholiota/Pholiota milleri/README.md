@@ -1,5 +1,4 @@
-Pholiota milleri A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota milleri A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

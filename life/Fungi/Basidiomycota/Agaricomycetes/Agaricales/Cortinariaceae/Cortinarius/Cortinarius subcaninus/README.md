@@ -1,5 +1,4 @@
-Cortinarius subcaninus subsp. subcaninus SUBSPECIES
-=======
+# Cortinarius subcaninus Maire SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius subcaninus subsp. subcaninus
+Cortinarius subcaninus Maire
 
 ### Remarks
 null

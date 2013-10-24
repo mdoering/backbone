@@ -1,5 +1,4 @@
-Anungitopsis gomerensis R.F. Castañeda, Gené & Guarro SPECIES
-=======
+# Anungitopsis gomerensis R.F. Castañeda, Gené & Guarro SPECIES
 
 #### Status
 ACCEPTED

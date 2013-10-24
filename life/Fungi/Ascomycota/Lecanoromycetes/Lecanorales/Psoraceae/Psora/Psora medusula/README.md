@@ -1,5 +1,4 @@
-Psora medusula C.W. Dodge SPECIES
-=======
+# Psora medusula C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callimothallus pertasus Dilcher SPECIES
-=======
+# Callimothallus pertasus Dilcher SPECIES
 
 #### Status
 ACCEPTED

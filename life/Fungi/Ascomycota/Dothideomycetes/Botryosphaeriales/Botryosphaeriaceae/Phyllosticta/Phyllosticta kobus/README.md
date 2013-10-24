@@ -1,5 +1,4 @@
-Phyllosticta kobus Henn. SPECIES
-=======
+# Phyllosticta kobus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecamoeba sphaeronucleolus (Greeff) Schaeffer SPECIES
-=======
+# Thecamoeba sphaeronucleolus (Greeff) Schaeffer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaerella ricciae Stephens SPECIES
-=======
+# Phaeosphaerella ricciae Stephens SPECIES
 
 #### Status
 ACCEPTED

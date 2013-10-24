@@ -1,5 +1,4 @@
-Ustilago mirabilis Sorokin SPECIES
-=======
+# Ustilago mirabilis Sorokin SPECIES
 
 #### Status
 ACCEPTED

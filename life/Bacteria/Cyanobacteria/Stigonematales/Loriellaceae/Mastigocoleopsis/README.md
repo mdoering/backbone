@@ -1,5 +1,4 @@
-Mastigocoleopsis Geitler, 1925 GENUS
-=======
+# Mastigocoleopsis Geitler, 1925 GENUS
 
 #### Status
 ACCEPTED

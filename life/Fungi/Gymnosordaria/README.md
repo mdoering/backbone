@@ -1,5 +1,4 @@
-Gymnosordaria Bartoli & Maggi GENUS
-=======
+# Gymnosordaria Bartoli & Maggi GENUS
 
 #### Status
 ACCEPTED

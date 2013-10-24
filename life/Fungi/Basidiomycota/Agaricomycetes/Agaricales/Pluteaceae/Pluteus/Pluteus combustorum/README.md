@@ -1,5 +1,4 @@
-Pluteus combustorum Velen. SPECIES
-=======
+# Pluteus combustorum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trichoderma minima (Speg.) Gunth. Müll. SPECIES
-=======
+# Trichoderma minimum (Speg.) Gunth. Müll., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Wiss. Z. Humboldt-Univ. Berl. 14: 775 (1965)
 
 #### Original name
 Sporotrichum minimum Speg., 1882

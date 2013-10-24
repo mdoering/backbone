@@ -1,5 +1,4 @@
-Uredo stenochlaenae Cummins SPECIES
-=======
+# Uredo stenochlaenae Cummins SPECIES
 
 #### Status
 ACCEPTED

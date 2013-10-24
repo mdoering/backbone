@@ -1,5 +1,4 @@
-Ammodiscellites Resig & Glenn, 1997 GENUS
-=======
+# Ammodiscellites Resig & Glenn, 1997 GENUS
 
 #### Status
 ACCEPTED

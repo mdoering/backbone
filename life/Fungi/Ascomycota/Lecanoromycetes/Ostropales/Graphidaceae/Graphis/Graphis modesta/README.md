@@ -1,5 +1,4 @@
-Graphis modesta Zahlbr. SPECIES
-=======
+# Graphis modesta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

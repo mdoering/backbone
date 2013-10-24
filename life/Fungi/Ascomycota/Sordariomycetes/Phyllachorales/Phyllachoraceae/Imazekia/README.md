@@ -1,5 +1,4 @@
-Imazekia Tak. Kobay. & Y. Kawabe GENUS
-=======
+# Imazekia Tak. Kobay. & Y. Kawabe GENUS
 
 #### Status
 ACCEPTED

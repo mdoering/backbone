@@ -1,5 +1,4 @@
-Acremonium berkeleyanum (P. Karst.) W. Gams SPECIES
-=======
+# Acremonium berkeleyanum (P. Karst.) W. Gams SPECIES
 
 #### Status
 ACCEPTED

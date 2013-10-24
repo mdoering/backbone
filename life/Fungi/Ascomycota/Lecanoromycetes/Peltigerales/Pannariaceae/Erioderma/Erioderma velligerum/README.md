@@ -1,5 +1,4 @@
-Erioderma velligerum Tuck. SPECIES
-=======
+# Erioderma velligerum Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces amoenus Syd. & P. Syd. SPECIES
-=======
+# Uromyces amoenus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

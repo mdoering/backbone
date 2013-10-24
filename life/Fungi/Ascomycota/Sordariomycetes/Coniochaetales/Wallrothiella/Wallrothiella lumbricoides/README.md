@@ -1,5 +1,4 @@
-Wallrothiella lumbricoides (Sacc. & Cavara) Kirschst. SPECIES
-=======
+# Wallrothiella lumbricoides (Sacc. & Cavara) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

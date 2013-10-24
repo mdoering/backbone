@@ -1,5 +1,4 @@
-Smittium bisporum Manier & F. Coste, 1971 SPECIES
-=======
+# Smittium bisporum Manier & F. Coste, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena phylloclada Berk. & M.A. Curtis SPECIES
-=======
+# Mycena phylloclada Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

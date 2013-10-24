@@ -1,5 +1,4 @@
-Russula praeumbonata Burl. SPECIES
-=======
+# Russula praeumbonata Burl. SPECIES
 
 #### Status
 ACCEPTED

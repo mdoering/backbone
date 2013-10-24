@@ -1,5 +1,4 @@
-Pannaria delisei Bory SPECIES
-=======
+# Pannaria delisei Bory SPECIES
 
 #### Status
 ACCEPTED

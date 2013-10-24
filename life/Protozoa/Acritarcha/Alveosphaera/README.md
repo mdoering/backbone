@@ -1,5 +1,4 @@
-Alveosphaera V.V. Kirjanov, 1978 GENUS
-=======
+# Alveosphaera V.V. Kirjanov, 1978 GENUS
 
 #### Status
 ACCEPTED

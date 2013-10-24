@@ -1,5 +1,4 @@
-Thermutopsis Henssen GENUS
-=======
+# Thermutopsis Henssen GENUS
 
 #### Status
 ACCEPTED

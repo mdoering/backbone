@@ -1,5 +1,4 @@
-Cortinarius sordipes A. de Haan & Volders SPECIES
-=======
+# Cortinarius sordipes A. de Haan & Volders SPECIES
 
 #### Status
 ACCEPTED

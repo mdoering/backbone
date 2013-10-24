@@ -1,5 +1,4 @@
-Aspicilia subcretacea (Nyl.) Motyka SPECIES
-=======
+# Aspicilia subcretacea (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Myrmaecium megalosporum (Auersw.) Niessl, 1876 SPECIES
-=======
+# Massariovalsa megalospora (Auersw.) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 730 (1962)
 
 #### Original name
 Valsaria megalospora Auersw.

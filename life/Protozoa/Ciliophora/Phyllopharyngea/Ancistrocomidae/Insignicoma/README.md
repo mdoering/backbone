@@ -1,5 +1,4 @@
-Insignicoma Kozloff, 1946 GENUS
-=======
+# Insignicoma Kozloff, 1946 GENUS
 
 #### Status
 ACCEPTED

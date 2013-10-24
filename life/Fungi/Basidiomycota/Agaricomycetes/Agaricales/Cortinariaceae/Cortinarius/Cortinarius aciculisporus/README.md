@@ -1,5 +1,4 @@
-Cortinarius aciculisporus Moënne-Locc. SPECIES
-=======
+# Cortinarius aciculisporus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

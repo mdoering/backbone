@@ -1,5 +1,4 @@
-Apiospora striola var. striola VARIETY
-=======
+# Apiospora striola (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Apiospora striola var. striola
+Homostegia striola Pass.
 
 ### Remarks
 null

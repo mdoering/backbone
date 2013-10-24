@@ -1,5 +1,4 @@
-Euglena angusta Z. X. Shi SPECIES
-=======
+# Euglena angusta Z. X. Shi SPECIES
 
 #### Status
 ACCEPTED

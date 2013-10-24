@@ -1,5 +1,4 @@
-Uredo sonsensis Henn. SPECIES
-=======
+# Uredo sonsensis Henn. SPECIES
 
 #### Status
 ACCEPTED

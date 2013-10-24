@@ -1,5 +1,4 @@
-Coryneum triseptatum Peck SPECIES
-=======
+# Coryneum triseptatum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpomyces panchlorae Thaxt. SPECIES
-=======
+# Herpomyces panchlorae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

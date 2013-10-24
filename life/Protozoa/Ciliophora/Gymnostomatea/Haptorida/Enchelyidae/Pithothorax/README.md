@@ -1,5 +1,4 @@
-Pithothorax Kahl, 1926 GENUS
-=======
+# Pithothorax Kahl, 1926 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola circinans Earle SPECIES
-=======
+# Meliola circinans Earle SPECIES
 
 #### Status
 ACCEPTED

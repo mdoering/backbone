@@ -1,14 +1,13 @@
-Agaricus zephirus Fr., 1818 SPECIES
-=======
+# Mycena zephirus (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 161 (1818)
+Führ. Pilzk. (Zwickau) 110 (1871)
 
 #### Original name
 Agaricus zephirus Fr., 1818

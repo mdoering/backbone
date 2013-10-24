@@ -1,5 +1,4 @@
-Epistylis chrysemydis Bishop & Jahn, 1941 SPECIES
-=======
+# Epistylis chrysemydis Bishop & Jahn, 1941 SPECIES
 
 #### Status
 ACCEPTED

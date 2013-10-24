@@ -1,5 +1,4 @@
-Cercosporina lythracearum (Heald & F.A. Wolf) Sacc. SPECIES
-=======
+# Cercosporina lythracearum (Heald & F.A. Wolf) Sacc. SPECIES
 
 #### Status
 ACCEPTED

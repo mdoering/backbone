@@ -1,5 +1,4 @@
-Godfrinia nigrescens (Quél.) Herink SPECIES
-=======
+# Godfrinia nigrescens (Quél.) Herink SPECIES
 
 #### Status
 ACCEPTED

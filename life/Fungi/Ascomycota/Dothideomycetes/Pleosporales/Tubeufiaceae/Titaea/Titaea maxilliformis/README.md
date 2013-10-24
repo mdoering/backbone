@@ -1,5 +1,4 @@
-Titaea maxilliformis Rostr., 1894 SPECIES
-=======
+# Titaea maxilliformis Rostr., 1894 SPECIES
 
 #### Status
 ACCEPTED

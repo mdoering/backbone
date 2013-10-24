@@ -1,5 +1,4 @@
-Amidella angustispora (Cleland) E.-J. Gilbert SPECIES
-=======
+# Amidella angustispora (Cleland) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotites tuberosus Kirschst. SPECIES
-=======
+# Sclerotites tuberosus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

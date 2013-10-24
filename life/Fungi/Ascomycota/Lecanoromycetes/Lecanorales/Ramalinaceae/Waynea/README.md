@@ -1,5 +1,4 @@
-Waynea Moberg GENUS
-=======
+# Waynea Moberg GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza lichenoides Pers. SPECIES
-=======
+# Peziza lichenoides Pers. SPECIES
 
 #### Status
 ACCEPTED

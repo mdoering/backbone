@@ -1,5 +1,4 @@
-Hysterangium rubricatum R. Hesse SPECIES
-=======
+# Hysterangium rubricatum R. Hesse SPECIES
 
 #### Status
 ACCEPTED

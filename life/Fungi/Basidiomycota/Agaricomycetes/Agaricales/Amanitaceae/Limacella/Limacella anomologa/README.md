@@ -1,5 +1,4 @@
-Limacella anomologa (Berk. & Broome) Pegler SPECIES
-=======
+# Limacella anomologa (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

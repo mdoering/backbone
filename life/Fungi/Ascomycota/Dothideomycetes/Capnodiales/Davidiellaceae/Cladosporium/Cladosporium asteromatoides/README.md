@@ -1,5 +1,4 @@
-Cladosporium asteromatoides Sacc. SPECIES
-=======
+# Cladosporium asteromatoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

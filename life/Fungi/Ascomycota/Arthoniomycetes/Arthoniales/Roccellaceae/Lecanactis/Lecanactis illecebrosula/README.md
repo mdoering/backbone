@@ -1,5 +1,4 @@
-Lecanactis illecebrosula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanactis illecebrosula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum melastomae Pat. SPECIES
-=======
+# Hydnum melastomae Pat. SPECIES
 
 #### Status
 ACCEPTED

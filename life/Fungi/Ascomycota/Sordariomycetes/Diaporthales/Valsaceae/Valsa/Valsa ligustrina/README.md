@@ -1,5 +1,4 @@
-Valsa ligustrina Cooke SPECIES
-=======
+# Valsa ligustrina Cooke SPECIES
 
 #### Status
 ACCEPTED

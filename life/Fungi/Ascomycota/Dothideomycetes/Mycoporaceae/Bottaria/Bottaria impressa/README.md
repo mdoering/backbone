@@ -1,5 +1,4 @@
-Bottaria impressa Vain. SPECIES
-=======
+# Bottaria impressa Vain. SPECIES
 
 #### Status
 ACCEPTED

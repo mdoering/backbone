@@ -1,5 +1,4 @@
-Lembadion gabonensis Dragesco, 1965 SPECIES
-=======
+# Lembadion gabonensis Dragesco, 1965 SPECIES
 
 #### Status
 ACCEPTED

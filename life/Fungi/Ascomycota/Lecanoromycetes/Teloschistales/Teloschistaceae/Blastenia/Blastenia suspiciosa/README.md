@@ -1,5 +1,4 @@
-Blastenia suspiciosa (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia suspiciosa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

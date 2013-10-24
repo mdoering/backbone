@@ -1,5 +1,4 @@
-Eutypa cyclospora (Nitschke) Sacc. SPECIES
-=======
+# Eutypa cyclospora (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

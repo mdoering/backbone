@@ -1,5 +1,4 @@
-Amphisphaeria rhodella Pat. SPECIES
-=======
+# Amphisphaeria rhodella Pat. SPECIES
 
 #### Status
 ACCEPTED

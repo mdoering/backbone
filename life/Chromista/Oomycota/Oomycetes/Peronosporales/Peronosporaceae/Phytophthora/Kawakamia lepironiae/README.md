@@ -1,5 +1,4 @@
-Kawakamia lepironiae (Sawada) Sawada SPECIES
-=======
+# Kawakamia lepironiae (Sawada) Sawada SPECIES
 
 #### Status
 ACCEPTED

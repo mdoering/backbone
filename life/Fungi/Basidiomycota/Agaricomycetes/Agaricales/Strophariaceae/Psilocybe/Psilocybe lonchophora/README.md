@@ -1,14 +1,13 @@
-Psilocybe lonchoporus (Berk. & Broome) E. Horak SPECIES
-=======
+# Psilocybe lonchophora (Berk. & Broome) E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Guzmán, Beih. Nova Hedwigia 74: 134 (1983)
 
 #### Original name
 Agaricus lonchophorus Berk. & Broome

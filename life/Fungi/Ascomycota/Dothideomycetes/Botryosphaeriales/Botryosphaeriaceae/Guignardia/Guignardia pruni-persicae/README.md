@@ -1,5 +1,4 @@
-Guignardia pruni-persicae Sawada SPECIES
-=======
+# Guignardia pruni-persicae Sawada SPECIES
 
 #### Status
 ACCEPTED

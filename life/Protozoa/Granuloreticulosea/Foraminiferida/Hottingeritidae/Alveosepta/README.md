@@ -1,5 +1,4 @@
-Alveosepta Hottinger, 1967 GENUS
-=======
+# Alveosepta Hottinger, 1967 GENUS
 
 #### Status
 ACCEPTED

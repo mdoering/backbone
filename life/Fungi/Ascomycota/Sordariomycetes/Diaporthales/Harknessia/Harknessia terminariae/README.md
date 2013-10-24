@@ -1,5 +1,4 @@
-Harknessia terminariae Sawada SPECIES
-=======
+# Harknessia terminariae Sawada SPECIES
 
 #### Status
 ACCEPTED

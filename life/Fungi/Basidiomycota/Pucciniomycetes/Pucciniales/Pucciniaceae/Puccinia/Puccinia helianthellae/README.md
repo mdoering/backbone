@@ -1,5 +1,4 @@
-Puccinia helianthellae Arthur SPECIES
-=======
+# Puccinia helianthellae Arthur SPECIES
 
 #### Status
 ACCEPTED

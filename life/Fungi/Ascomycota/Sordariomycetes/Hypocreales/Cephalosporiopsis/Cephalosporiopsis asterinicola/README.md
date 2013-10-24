@@ -1,5 +1,4 @@
-Cephalosporiopsis asterinicola Bat. & Nascim. SPECIES
-=======
+# Cephalosporiopsis asterinicola Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

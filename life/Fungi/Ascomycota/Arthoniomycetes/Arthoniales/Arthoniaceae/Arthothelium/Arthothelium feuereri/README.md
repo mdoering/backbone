@@ -1,5 +1,4 @@
-Arthothelium feuereri Aptroot & Seaward SPECIES
-=======
+# Arthothelium feuereri Aptroot & Seaward SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta caucasica Woron. SPECIES
-=======
+# Pyrenochaeta caucasica Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor coccineus Leers SPECIES
-=======
+# Mucor coccineus Leers SPECIES
 
 #### Status
 ACCEPTED

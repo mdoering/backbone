@@ -1,17 +1,16 @@
-Agaricus pruinosus Lasch, 1874 SPECIES
-=======
+# Clitocybe pruinosa (Lasch) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 101 (1874)
+Führ. Pilzk. (Zwickau) 120 (1871)
 
 #### Original name
-Agaricus pruinosus Lasch, 1874
+Clitocybe pruinosa (Lasch) P. Kumm., 1871
 
 ### Remarks
 null

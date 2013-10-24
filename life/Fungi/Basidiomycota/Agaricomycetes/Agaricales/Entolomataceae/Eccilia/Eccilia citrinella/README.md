@@ -1,5 +1,4 @@
-Eccilia citrinella Rick SPECIES
-=======
+# Eccilia citrinella Rick SPECIES
 
 #### Status
 ACCEPTED

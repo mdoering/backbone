@@ -1,5 +1,4 @@
-Amanita novinupta Tulloss & J. Lindgr. SPECIES
-=======
+# Amanita novinupta Tulloss & J. Lindgr. SPECIES
 
 #### Status
 ACCEPTED

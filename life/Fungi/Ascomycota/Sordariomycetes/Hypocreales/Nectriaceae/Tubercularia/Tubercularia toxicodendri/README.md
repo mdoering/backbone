@@ -1,5 +1,4 @@
-Tubercularia toxicodendri Fautrey SPECIES
-=======
+# Tubercularia toxicodendri Fautrey SPECIES
 
 #### Status
 ACCEPTED

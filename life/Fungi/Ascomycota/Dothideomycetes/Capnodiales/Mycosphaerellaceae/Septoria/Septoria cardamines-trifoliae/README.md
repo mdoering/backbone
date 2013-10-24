@@ -1,17 +1,16 @@
-Septoria cardaminis-trifoliae Höhn. SPECIES
-=======
+# Septoria cardamines-trifoliae Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Zahlbruckner, Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 24: 277 (1910)
 
 #### Original name
-Septoria cardaminis-trifoliae Höhn.
+Septoria cardamines-trifoliae Höhn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena kerandi Speg. SPECIES
-=======
+# Mycena kerandi Speg. SPECIES
 
 #### Status
 ACCEPTED

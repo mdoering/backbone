@@ -1,5 +1,4 @@
-Chloridium carpaticum Hol.-Jech. & Révay SPECIES
-=======
+# Chloridium carpaticum Hol.-Jech. & Révay SPECIES
 
 #### Status
 ACCEPTED

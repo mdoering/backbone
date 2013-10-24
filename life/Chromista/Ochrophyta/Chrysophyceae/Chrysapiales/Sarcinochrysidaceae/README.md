@@ -1,5 +1,4 @@
-Sarcinochrysidaceae Gayral & Billard, 1977 FAMILY
-=======
+# Sarcinochrysidaceae Gayral & Billard, 1977 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicotrichum candidum Preuss SPECIES
-=======
+# Helicotrichum candidum Preuss SPECIES
 
 #### Status
 ACCEPTED

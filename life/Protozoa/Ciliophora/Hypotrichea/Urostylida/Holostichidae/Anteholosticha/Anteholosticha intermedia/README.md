@@ -1,5 +1,4 @@
-Anteholosticha intermedia Bergh, 1889 SPECIES
-=======
+# Anteholosticha intermedia Bergh, 1889 SPECIES
 
 #### Status
 ACCEPTED

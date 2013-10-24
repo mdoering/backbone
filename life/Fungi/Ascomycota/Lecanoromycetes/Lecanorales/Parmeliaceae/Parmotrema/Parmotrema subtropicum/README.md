@@ -1,5 +1,4 @@
-Parmotrema subtropicum (J.D. Zhao) J.C. Wei SPECIES
-=======
+# Parmotrema subtropicum (J.D. Zhao) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

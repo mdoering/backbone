@@ -1,5 +1,4 @@
-Hemimycena marbleae (Murrill) Dennis SPECIES
-=======
+# Hemimycena marbleae (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma xingyiense S.C. He, 1989 SPECIES
-=======
+# Ganoderma xingyiense S.C. He, 1989 SPECIES
 
 #### Status
 ACCEPTED

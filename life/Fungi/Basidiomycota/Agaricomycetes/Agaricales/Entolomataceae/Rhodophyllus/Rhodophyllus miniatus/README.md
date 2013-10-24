@@ -1,5 +1,4 @@
-Rhodophyllus miniatus (Pat.) Pat. SPECIES
-=======
+# Rhodophyllus miniatus (Pat.) Pat. SPECIES
 
 #### Status
 ACCEPTED

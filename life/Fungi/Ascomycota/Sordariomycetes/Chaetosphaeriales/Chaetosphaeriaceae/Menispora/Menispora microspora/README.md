@@ -1,5 +1,4 @@
-Menispora microspora Peyronel SPECIES
-=======
+# Menispora microspora Peyronel SPECIES
 
 #### Status
 ACCEPTED

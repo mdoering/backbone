@@ -1,5 +1,4 @@
-Clostridium limosum Andre, 1948 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium limosum Andre, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

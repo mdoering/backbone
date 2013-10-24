@@ -1,5 +1,4 @@
-Thelopsis selenospora C.W. Dodge SPECIES
-=======
+# Thelopsis selenospora C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

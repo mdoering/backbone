@@ -1,5 +1,4 @@
-Cortinarius pinguis (Zeller) Peintner & M.M. Moser, 2002 SPECIES
-=======
+# Cortinarius pinguis (Zeller) Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
 ACCEPTED

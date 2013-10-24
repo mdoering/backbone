@@ -1,5 +1,4 @@
-Leptospira biflexa (Wolbach and Binger, 1914) Noguchi, 1918 (Approved Lists, 1980) SPECIES
-=======
+# Leptospira biflexa (Wolbach and Binger, 1914) Noguchi, 1918 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia pectinatula (Zahlbr.) Elix SPECIES
-=======
+# Hypogymnia pectinatula (Zahlbr.) Elix SPECIES
 
 #### Status
 ACCEPTED

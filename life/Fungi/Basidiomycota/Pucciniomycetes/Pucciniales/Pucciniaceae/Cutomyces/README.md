@@ -1,5 +1,4 @@
-Cutomyces GENUS
-=======
+# Cutomyces GENUS
 
 #### Status
 ACCEPTED

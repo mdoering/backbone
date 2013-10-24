@@ -1,5 +1,4 @@
-Verrucaria taposirica Stizenb. SPECIES
-=======
+# Verrucaria taposirica Stizenb. SPECIES
 
 #### Status
 ACCEPTED

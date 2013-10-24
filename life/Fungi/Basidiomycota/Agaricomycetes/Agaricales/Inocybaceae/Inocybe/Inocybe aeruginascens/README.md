@@ -1,5 +1,4 @@
-Inocybe aeruginascens Babos SPECIES
-=======
+# Inocybe aeruginascens Babos SPECIES
 
 #### Status
 ACCEPTED

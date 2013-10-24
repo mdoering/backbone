@@ -1,17 +1,16 @@
-Mitrula gracilis var. gracilis P. Karst. VARIETY
-=======
+# Bryoglossum gracile (P. Karst.) Redhead, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22: 17 (1883)
+Can. J. Bot. 55(3): 323 (1977)
 
 #### Original name
-Mitrula gracilis var. gracilis P. Karst.
+Mitrula gracilis P. Karst., 1883
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma ribicola Sacc. & P. Syd. SPECIES
-=======
+# Phoma ribicola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

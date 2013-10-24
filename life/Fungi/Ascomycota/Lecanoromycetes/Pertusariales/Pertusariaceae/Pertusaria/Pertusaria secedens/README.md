@@ -1,5 +1,4 @@
-Pertusaria secedens SPECIES
-=======
+# Pertusaria secedens SPECIES
 
 #### Status
 ACCEPTED

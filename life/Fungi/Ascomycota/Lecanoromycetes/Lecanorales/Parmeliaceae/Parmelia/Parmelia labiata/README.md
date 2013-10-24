@@ -1,5 +1,4 @@
-Parmelia labiata Fingerh. SPECIES
-=======
+# Parmelia labiata Fingerh. SPECIES
 
 #### Status
 ACCEPTED

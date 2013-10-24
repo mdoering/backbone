@@ -1,5 +1,4 @@
-Cordyceps variegata Moureau SPECIES
-=======
+# Cordyceps variegata Moureau SPECIES
 
 #### Status
 ACCEPTED

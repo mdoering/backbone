@@ -1,5 +1,4 @@
-Agaricus subtomentosus var. subtomentosus VARIETY
-=======
+# Agaricus subtomentosus Krombh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus subtomentosus var. subtomentosus
+Agaricus subtomentosus Krombh.
 
 ### Remarks
 null

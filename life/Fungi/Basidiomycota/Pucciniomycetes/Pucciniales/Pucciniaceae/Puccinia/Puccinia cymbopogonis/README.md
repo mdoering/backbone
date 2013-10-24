@@ -1,5 +1,4 @@
-Puccinia cymbopogonis Massee SPECIES
-=======
+# Puccinia cymbopogonis Massee SPECIES
 
 #### Status
 ACCEPTED

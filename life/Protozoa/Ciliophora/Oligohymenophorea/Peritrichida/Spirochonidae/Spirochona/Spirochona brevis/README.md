@@ -1,5 +1,4 @@
-Spirochona brevis Jankowski, 1973 SPECIES
-=======
+# Spirochona brevis Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

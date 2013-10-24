@@ -1,5 +1,4 @@
-Phaeosphaeria alpestris Nograsek SPECIES
-=======
+# Phaeosphaeria alpestris Nograsek SPECIES
 
 #### Status
 ACCEPTED

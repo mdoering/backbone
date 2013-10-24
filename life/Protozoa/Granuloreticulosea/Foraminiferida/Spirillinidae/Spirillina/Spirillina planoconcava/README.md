@@ -1,5 +1,4 @@
-Spirillina planoconcava Zhegn SPECIES
-=======
+# Spirillina planoconcava Zhegn SPECIES
 
 #### Status
 ACCEPTED

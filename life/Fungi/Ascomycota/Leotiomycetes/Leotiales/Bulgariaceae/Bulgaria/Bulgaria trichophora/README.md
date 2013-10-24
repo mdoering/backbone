@@ -1,5 +1,4 @@
-Bulgaria trichophora Massee SPECIES
-=======
+# Bulgaria trichophora Massee SPECIES
 
 #### Status
 ACCEPTED

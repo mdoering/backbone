@@ -1,5 +1,4 @@
-Myxotrichum foliicola Niessl SPECIES
-=======
+# Myxotrichum foliicola Niessl SPECIES
 
 #### Status
 ACCEPTED

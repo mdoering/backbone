@@ -1,5 +1,4 @@
-Aplosporella melogrammata Cooke ex Grove SPECIES
-=======
+# Aplosporella melogrammata Cooke ex Grove SPECIES
 
 #### Status
 ACCEPTED

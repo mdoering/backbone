@@ -1,5 +1,4 @@
-Kephyrion boreale Skuja SPECIES
-=======
+# Kephyrion boreale Skuja SPECIES
 
 #### Status
 ACCEPTED

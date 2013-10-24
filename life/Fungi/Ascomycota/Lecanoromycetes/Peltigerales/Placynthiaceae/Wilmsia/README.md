@@ -1,5 +1,4 @@
-Wilmsia GENUS
-=======
+# Wilmsia GENUS
 
 #### Status
 ACCEPTED

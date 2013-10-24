@@ -1,5 +1,4 @@
-Blastenia ochraceoferruginea B. de Lesd. SPECIES
-=======
+# Blastenia ochraceoferruginea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

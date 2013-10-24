@@ -1,5 +1,4 @@
-Fusarium andinum Syd. SPECIES
-=======
+# Fusarium andinum Syd. SPECIES
 
 #### Status
 ACCEPTED

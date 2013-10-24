@@ -1,17 +1,16 @@
-Collema leptogioides var. leptogioides VARIETY
-=======
+# Collema leptogioides Anzi SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Collema leptogioides var. leptogioides
+Collema leptogioides Anzi
 
 ### Remarks
 null

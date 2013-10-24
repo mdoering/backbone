@@ -1,5 +1,4 @@
-Gyrophora polymorpha Schrad. SPECIES
-=======
+# Gyrophora polymorpha Schrad. SPECIES
 
 #### Status
 ACCEPTED

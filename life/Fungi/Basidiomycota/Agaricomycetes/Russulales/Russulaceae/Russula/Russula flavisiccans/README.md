@@ -1,5 +1,4 @@
-Russula flavisiccans Bills SPECIES
-=======
+# Russula flavisiccans Bills SPECIES
 
 #### Status
 ACCEPTED

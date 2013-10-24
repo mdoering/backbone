@@ -1,5 +1,4 @@
-Conocybe graminis Hauskn. SPECIES
-=======
+# Conocybe graminis Hauskn. SPECIES
 
 #### Status
 ACCEPTED

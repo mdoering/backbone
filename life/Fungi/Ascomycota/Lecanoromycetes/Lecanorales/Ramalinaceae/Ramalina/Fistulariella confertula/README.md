@@ -1,5 +1,4 @@
-Fistulariella confertula (Krog & Østh.) Bowler SPECIES
-=======
+# Fistulariella confertula (Krog & Østh.) Bowler SPECIES
 
 #### Status
 ACCEPTED

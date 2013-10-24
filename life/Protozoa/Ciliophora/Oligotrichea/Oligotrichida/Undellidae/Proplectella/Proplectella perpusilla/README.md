@@ -1,5 +1,4 @@
-Proplectella perpusilla Kofoid & Campbell, 1929 SPECIES
-=======
+# Proplectella perpusilla Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

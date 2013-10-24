@@ -1,5 +1,4 @@
-Pseudochrobactrum asaccharolyticum Kämpfer et al., 2006 SPECIES
-=======
+# Pseudochrobactrum asaccharolyticum Kämpfer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

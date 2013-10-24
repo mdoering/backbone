@@ -1,5 +1,4 @@
-Marssonina thomasiana (Sacc.) Magnus SPECIES
-=======
+# Marssonina thomasiana (Sacc.) Magnus SPECIES
 
 #### Status
 ACCEPTED

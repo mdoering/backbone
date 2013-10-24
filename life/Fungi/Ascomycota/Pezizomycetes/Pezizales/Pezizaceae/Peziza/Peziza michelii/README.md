@@ -1,17 +1,16 @@
-Peziza plebeia (Le Gal) Nannf., 1946 SPECIES
-=======
+# Peziza michelii (Boud.) Dennis, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Exsiccati Suecici no. 1373 (1946)
+British Cup Fungi & their Allies 15 (1960)
 
 #### Original name
-Galactinia plebeia Le Gal, 1937
+Galactinia michelii Boud., 1891
 
 ### Remarks
 null

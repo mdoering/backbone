@@ -1,5 +1,4 @@
-Anthonomus glandis PV SPECIES
-=======
+# Anthonomus glandis PV SPECIES
 
 #### Status
 ACCEPTED

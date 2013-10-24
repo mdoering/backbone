@@ -1,5 +1,4 @@
-Volucribacter Christensen et al., 2004 GENUS
-=======
+# Volucribacter Christensen et al., 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivina brevior SPECIES
-=======
+# Bolivina brevior SPECIES
 
 #### Status
 ACCEPTED

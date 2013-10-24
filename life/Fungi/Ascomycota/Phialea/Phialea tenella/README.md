@@ -1,5 +1,4 @@
-Phialea tenella Batsch SPECIES
-=======
+# Phialea tenella Batsch SPECIES
 
 #### Status
 ACCEPTED

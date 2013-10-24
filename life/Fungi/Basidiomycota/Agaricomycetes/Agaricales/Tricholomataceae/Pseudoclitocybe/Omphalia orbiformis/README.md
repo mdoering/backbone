@@ -1,5 +1,4 @@
-Omphalia orbiformis var. orbiformis VARIETY
-=======
+# Omphalia orbiformis (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

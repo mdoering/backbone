@@ -1,5 +1,4 @@
-Dendryphion macowanianum Thüm. SPECIES
-=======
+# Dendryphion macowanianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

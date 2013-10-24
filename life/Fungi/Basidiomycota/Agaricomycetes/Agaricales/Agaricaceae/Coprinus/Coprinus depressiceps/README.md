@@ -1,5 +1,4 @@
-Coprinus depressiceps Bogart SPECIES
-=======
+# Coprinus depressiceps Bogart SPECIES
 
 #### Status
 ACCEPTED

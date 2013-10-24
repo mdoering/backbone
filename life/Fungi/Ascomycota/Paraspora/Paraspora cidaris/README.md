@@ -1,5 +1,4 @@
-Paraspora cidaris Rostr. SPECIES
-=======
+# Paraspora cidaris Rostr. SPECIES
 
 #### Status
 ACCEPTED

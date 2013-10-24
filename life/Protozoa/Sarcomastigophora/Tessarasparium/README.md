@@ -1,5 +1,4 @@
-Tessarasparium Haeckel, 1887 GENUS
-=======
+# Tessarasparium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amallospora dacrydion Penz., 1897 SPECIES
-=======
+# Amallospora dacrydion Penz., 1897 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Absidia regneri (Lucet & Costantin) Lendn. SPECIES
-=======
+# Lichtheimia corymbifera (Cohn) Vuill., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 19: 126 (1903)
 
 #### Original name
-null
+Mucor corymbifer Cohn, 1884
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Hypochnus theobroma Faber SPECIES
-=======
+# Hypochnus theobromae Faber SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Arb. k. biol. Aust. (Aust. -Reichsanst. ) Berl. 7: 227 (1909)
 
 #### Original name
-Hypochnus theobroma Faber
+Hypochnus theobromae Faber
 
 ### Remarks
 null

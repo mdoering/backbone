@@ -1,17 +1,16 @@
-Sclerospora mischanthi T. Miyake SPECIES
-=======
+# Sclerospora miscanthi T. Miyake SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Saccardo, Syll. fung. (Abellini) 24(1): 65 (1926)
 
 #### Original name
-Sclerospora mischanthi T. Miyake
+Sclerospora miscanthi T. Miyake
 
 ### Remarks
 null

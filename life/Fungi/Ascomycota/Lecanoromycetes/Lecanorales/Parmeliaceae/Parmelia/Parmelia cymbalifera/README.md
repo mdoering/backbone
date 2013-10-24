@@ -1,5 +1,4 @@
-Parmelia cymbalifera G. Mey. SPECIES
-=======
+# Parmelia cymbalifera G. Mey. SPECIES
 
 #### Status
 ACCEPTED

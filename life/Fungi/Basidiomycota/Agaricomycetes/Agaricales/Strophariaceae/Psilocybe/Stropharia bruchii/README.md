@@ -1,5 +1,4 @@
-Stropharia bruchii Speg. SPECIES
-=======
+# Stropharia bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

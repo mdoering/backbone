@@ -1,17 +1,16 @@
-Queletia mundkuri S. Ahmad SPECIES
-=======
+# Queletia mundkurii S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 20: 136 (1941)
 
 #### Original name
-Queletia mundkuri S. Ahmad
+Queletia mundkurii S. Ahmad
 
 ### Remarks
 null

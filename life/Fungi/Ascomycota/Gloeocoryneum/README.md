@@ -1,5 +1,4 @@
-Gloeocoryneum Weindlm. GENUS
-=======
+# Gloeocoryneum Weindlm. GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Menoidium pellucidum var. inflatum Playfair VARIETY
-=======
+# Menoidium inflatum (Playfair) Playfair SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Mycena multicolorata G. Stev. SPECIES
-=======
+# Mycena multicolorata G. Stev. SPECIES
 
 #### Status
 ACCEPTED

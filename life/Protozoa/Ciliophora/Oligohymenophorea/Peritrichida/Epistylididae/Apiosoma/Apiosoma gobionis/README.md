@@ -1,5 +1,4 @@
-Apiosoma gobionis SPECIES
-=======
+# Apiosoma gobionis SPECIES
 
 #### Status
 ACCEPTED

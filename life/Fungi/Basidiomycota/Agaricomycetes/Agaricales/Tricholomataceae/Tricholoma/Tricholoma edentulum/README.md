@@ -1,5 +1,4 @@
-Tricholoma edentulum Velen. SPECIES
-=======
+# Tricholoma edentulum Velen. SPECIES
 
 #### Status
 ACCEPTED

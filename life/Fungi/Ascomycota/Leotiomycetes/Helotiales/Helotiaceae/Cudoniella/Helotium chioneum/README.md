@@ -1,5 +1,4 @@
-Helotium chioneum Fr. SPECIES
-=======
+# Helotium chioneum Fr. SPECIES
 
 #### Status
 ACCEPTED

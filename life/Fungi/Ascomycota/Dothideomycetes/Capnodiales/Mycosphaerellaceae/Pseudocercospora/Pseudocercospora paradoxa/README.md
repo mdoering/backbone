@@ -1,5 +1,4 @@
-Pseudocercospora paradoxa U. Braun & Bagyan. SPECIES
-=======
+# Pseudocercospora paradoxa U. Braun & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

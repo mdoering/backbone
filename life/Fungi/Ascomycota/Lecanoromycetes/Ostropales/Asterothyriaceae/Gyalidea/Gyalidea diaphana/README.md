@@ -1,17 +1,16 @@
-Biatora diaphana Körb. ex Nyl. SPECIES
-=======
+# Gyalidea diaphana (Körb. ex Nyl.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. bohemoslov. 13(4): 400 (1978)
 
 #### Original name
-null
+Biatorina diaphana (Nyl.) Körb.
 
 ### Remarks
 null

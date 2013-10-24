@@ -1,5 +1,4 @@
-Graphina nanodes (Vain.) Zahlbr. SPECIES
-=======
+# Graphina nanodes (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

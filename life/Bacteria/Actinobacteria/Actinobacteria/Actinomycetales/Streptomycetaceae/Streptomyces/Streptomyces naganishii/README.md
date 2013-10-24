@@ -1,5 +1,4 @@
-Streptomyces naganishii Yamaguchi and Saburi, 1955 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces naganishii Yamaguchi and Saburi, 1955 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

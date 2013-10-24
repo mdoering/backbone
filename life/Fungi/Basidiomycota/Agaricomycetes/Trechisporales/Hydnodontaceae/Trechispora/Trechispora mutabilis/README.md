@@ -1,17 +1,16 @@
-Grandinia mutabilis var. mutabilis VARIETY
-=======
+# Trechispora mutabilis (Pers.) Liberta, 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 30(1): 52 (1914)
+Taxon 15(8): 319 (1966)
 
 #### Original name
-Grandinia mutabilis var. mutabilis
+Hydnum granulosum var. mutabilis Pers.
 
 ### Remarks
 null

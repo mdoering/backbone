@@ -1,8 +1,7 @@
-Penicillium terlikowskii K.M. Zalessky, 1927 SPECIES
-=======
+# Penicillium glabrum (Wehmer) Westling, 1911 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,8 +1,7 @@
-Polykrikos beauchampii (Chatton) Dodge SPECIES
-=======
+# Pheopolykrikos beauchampii Chatton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

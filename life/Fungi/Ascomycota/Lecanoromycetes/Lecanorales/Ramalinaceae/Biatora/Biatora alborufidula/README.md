@@ -1,5 +1,4 @@
-Biatora alborufidula (Hedl.) S. Ekman & Printzen SPECIES
-=======
+# Biatora alborufidula (Hedl.) S. Ekman & Printzen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplozoon delicatulum Dogiel SPECIES
-=======
+# Haplozoon delicatulum Dogiel SPECIES
 
 #### Status
 ACCEPTED

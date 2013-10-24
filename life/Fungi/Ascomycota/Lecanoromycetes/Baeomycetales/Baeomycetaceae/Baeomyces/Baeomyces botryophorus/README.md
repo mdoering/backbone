@@ -1,5 +1,4 @@
-Baeomyces botryophorus Zahlbr. SPECIES
-=======
+# Baeomyces botryophorus Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

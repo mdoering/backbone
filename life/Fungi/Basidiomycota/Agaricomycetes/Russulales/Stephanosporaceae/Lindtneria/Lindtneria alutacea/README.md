@@ -1,14 +1,13 @@
-Botryobasidium alutaceum Boidin, 1970 SPECIES
-=======
+# Lindtneria alutacea (Boidin) Boidin & Gilles, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cahiers de La Maboké 8(1): 18 (1970)
+Bull. trimest. Soc. mycol. Fr. 102(3): 307 (1986)
 
 #### Original name
 Botryobasidium alutaceum Boidin, 1970

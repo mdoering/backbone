@@ -1,5 +1,4 @@
-Diaporthe nepetae Gonz. Frag. SPECIES
-=======
+# Diaporthe nepetae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

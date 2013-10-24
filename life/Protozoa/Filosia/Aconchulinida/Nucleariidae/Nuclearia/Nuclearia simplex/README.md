@@ -1,5 +1,4 @@
-Nuclearia simplex Cienkowski SPECIES
-=======
+# Nuclearia simplex Cienkowski SPECIES
 
 #### Status
 ACCEPTED

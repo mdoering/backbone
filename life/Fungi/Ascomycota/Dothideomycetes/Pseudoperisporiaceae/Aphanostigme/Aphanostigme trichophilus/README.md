@@ -1,5 +1,4 @@
-Aphanostigme trichophilus (Syd.) Hansf. SPECIES
-=======
+# Aphanostigme trichophilus (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta caballeroi Gonz. Frag. SPECIES
-=======
+# Phyllosticta caballeroi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

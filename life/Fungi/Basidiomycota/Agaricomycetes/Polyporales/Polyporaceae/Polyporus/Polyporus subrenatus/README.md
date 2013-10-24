@@ -1,5 +1,4 @@
-Polyporus subrenatus (Murrill) Lloyd SPECIES
-=======
+# Polyporus subrenatus (Murrill) Lloyd SPECIES
 
 #### Status
 ACCEPTED

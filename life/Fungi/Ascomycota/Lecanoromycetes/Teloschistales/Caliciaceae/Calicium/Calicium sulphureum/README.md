@@ -1,5 +1,4 @@
-Calicium sulphureum (Lilj.) DC. SPECIES
-=======
+# Calicium sulphureum (Lilj.) DC. SPECIES
 
 #### Status
 ACCEPTED

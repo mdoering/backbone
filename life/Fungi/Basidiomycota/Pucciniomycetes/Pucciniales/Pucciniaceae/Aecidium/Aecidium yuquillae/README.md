@@ -1,5 +1,4 @@
-Aecidium yuquillae Pat. SPECIES
-=======
+# Aecidium yuquillae Pat. SPECIES
 
 #### Status
 ACCEPTED

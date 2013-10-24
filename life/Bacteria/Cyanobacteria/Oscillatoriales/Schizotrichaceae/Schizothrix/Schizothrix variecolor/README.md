@@ -1,5 +1,4 @@
-Schizothrix variecolor Rabenhorst SPECIES
-=======
+# Schizothrix variecolor Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

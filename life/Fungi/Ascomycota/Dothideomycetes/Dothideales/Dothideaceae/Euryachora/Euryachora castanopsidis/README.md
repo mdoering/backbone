@@ -1,17 +1,16 @@
-Euryachora castanopsis Thaung SPECIES
-=======
+# Euryachora castanopsidis Thaung SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 64(3): 552 (1975)
 
 #### Original name
-Euryachora castanopsis Thaung
+Euryachora castanopsidis Thaung
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Daedalea subcongener Berk. ex Cooke SPECIES
-=======
+# Daedalea subcongener Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora kallarensis T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Cercospora kallarensis T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

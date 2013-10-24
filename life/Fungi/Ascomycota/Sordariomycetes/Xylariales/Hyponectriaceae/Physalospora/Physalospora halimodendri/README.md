@@ -1,5 +1,4 @@
-Physalospora halimodendri Vasyag. SPECIES
-=======
+# Physalospora halimodendri Vasyag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Collema burgessii (L.) Ach. SPECIES
-=======
+# Leptogium burgessii (L.) Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lich. univ. (1810)
+in Webb & Berthelot, Hist. nat. Iles Canar. (Paris) 3(2): 130 (1840)
 
 #### Original name
 Lichen burgessii L.

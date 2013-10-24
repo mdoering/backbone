@@ -1,5 +1,4 @@
-Idionympha Cleveland, Hall, Sanders & Collier, 1934 GENUS
-=======
+# Idionympha Cleveland, Hall, Sanders & Collier, 1934 GENUS
 
 #### Status
 ACCEPTED

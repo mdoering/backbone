@@ -1,5 +1,4 @@
-Hygrophorus ravenelii Berk. & M.A. Curtis SPECIES
-=======
+# Hygrophorus ravenelii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia floccosa Link SPECIES
-=======
+# Tubercularia floccosa Link SPECIES
 
 #### Status
 ACCEPTED

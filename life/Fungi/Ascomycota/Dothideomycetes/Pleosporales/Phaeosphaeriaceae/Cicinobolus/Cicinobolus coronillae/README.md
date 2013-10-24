@@ -1,5 +1,4 @@
-Cicinobolus coronillae f. coronillae FORM
-=======
+# Cicinobolus coronillae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinobolus coronillae f. coronillae
+Cicinobolus coronillae Gonz. Frag.
 
 ### Remarks
 null

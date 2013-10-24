@@ -1,5 +1,4 @@
-Diplodia phoenicicola Speg. SPECIES
-=======
+# Diplodia phoenicicola Speg. SPECIES
 
 #### Status
 ACCEPTED

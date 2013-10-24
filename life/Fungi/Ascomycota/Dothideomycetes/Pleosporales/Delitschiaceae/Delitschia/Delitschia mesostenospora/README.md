@@ -1,5 +1,4 @@
-Delitschia mesostenospora Jeng, Luck-Allen & Cain, 1977 SPECIES
-=======
+# Delitschia mesostenospora Jeng, Luck-Allen & Cain, 1977 SPECIES
 
 #### Status
 ACCEPTED

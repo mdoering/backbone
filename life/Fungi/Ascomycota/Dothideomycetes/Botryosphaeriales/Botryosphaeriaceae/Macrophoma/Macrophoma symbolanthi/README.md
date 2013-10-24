@@ -1,5 +1,4 @@
-Macrophoma symbolanthi Syd. SPECIES
-=======
+# Macrophoma symbolanthi Syd. SPECIES
 
 #### Status
 ACCEPTED

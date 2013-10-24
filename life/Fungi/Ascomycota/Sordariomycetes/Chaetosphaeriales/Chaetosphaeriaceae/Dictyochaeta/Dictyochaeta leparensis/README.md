@@ -1,5 +1,4 @@
-Dictyochaeta leparensis Kuthub. SPECIES
-=======
+# Dictyochaeta leparensis Kuthub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera wallrothii U. Braun & Tanada SPECIES
-=======
+# Microsphaera wallrothii U. Braun & Tanada SPECIES
 
 #### Status
 ACCEPTED

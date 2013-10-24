@@ -1,5 +1,4 @@
-Discodinium P.-A.Dangeard, 1938 GENUS
-=======
+# Discodinium P.-A.Dangeard, 1938 GENUS
 
 #### Status
 ACCEPTED

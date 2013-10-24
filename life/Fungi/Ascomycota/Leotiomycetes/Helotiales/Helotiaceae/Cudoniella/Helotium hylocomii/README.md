@@ -1,5 +1,4 @@
-Helotium hylocomii Velen. SPECIES
-=======
+# Helotium hylocomii Velen. SPECIES
 
 #### Status
 ACCEPTED

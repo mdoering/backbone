@@ -1,5 +1,4 @@
-Entoloma perconfusum E. Horak, 2008 SPECIES
-=======
+# Entoloma perconfusum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

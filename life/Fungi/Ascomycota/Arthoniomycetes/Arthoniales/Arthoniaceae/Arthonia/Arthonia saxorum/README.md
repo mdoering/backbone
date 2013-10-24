@@ -1,5 +1,4 @@
-Arthonia saxorum Spreng. SPECIES
-=======
+# Arthonia saxorum Spreng. SPECIES
 
 #### Status
 ACCEPTED

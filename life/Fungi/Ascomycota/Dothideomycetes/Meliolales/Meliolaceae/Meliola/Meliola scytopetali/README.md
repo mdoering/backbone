@@ -1,5 +1,4 @@
-Meliola scytopetali Hansf. & Deighton SPECIES
-=======
+# Meliola scytopetali Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

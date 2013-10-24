@@ -1,5 +1,4 @@
-Puccinia jorstadi Rytz SPECIES
-=======
+# Puccinia jorstadi Rytz SPECIES
 
 #### Status
 ACCEPTED

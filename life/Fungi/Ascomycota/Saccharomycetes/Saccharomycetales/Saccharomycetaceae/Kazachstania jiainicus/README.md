@@ -1,5 +1,4 @@
-Kazachstania jiainicus C-F. Lee et al. SPECIES
-=======
+# Kazachstania jiainicus C-F. Lee et al. SPECIES
 
 #### Status
 ACCEPTED

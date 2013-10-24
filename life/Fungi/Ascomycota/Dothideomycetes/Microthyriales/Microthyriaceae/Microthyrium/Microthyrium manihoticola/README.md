@@ -1,5 +1,4 @@
-Microthyrium manihoticola Viégas SPECIES
-=======
+# Microthyrium manihoticola Viégas SPECIES
 
 #### Status
 ACCEPTED

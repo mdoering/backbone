@@ -1,5 +1,4 @@
-Pleurotus microspermus Speg. SPECIES
-=======
+# Pleurotus microspermus Speg. SPECIES
 
 #### Status
 ACCEPTED

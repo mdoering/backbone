@@ -1,5 +1,4 @@
-Hormisciopsis Sumst. GENUS
-=======
+# Hormisciopsis Sumst. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium reflexum Skolko & J.W. Groves, 1948 SPECIES
-=======
+# Chaetomium reflexum Skolko & J.W. Groves, 1948 SPECIES
 
 #### Status
 ACCEPTED

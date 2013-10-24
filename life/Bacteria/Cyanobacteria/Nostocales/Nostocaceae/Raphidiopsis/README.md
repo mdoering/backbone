@@ -1,14 +1,13 @@
-Rhaphidiopsis GENUS
-=======
+# Raphidiopsis Fritsch & Rich, 1929 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Roy. Soc. South Africa 18: 91.
 
 #### Original name
 null

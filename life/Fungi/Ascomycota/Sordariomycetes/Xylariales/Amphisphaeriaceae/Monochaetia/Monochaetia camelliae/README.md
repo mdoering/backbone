@@ -1,5 +1,4 @@
-Monochaetia camelliae Miles, 1926 SPECIES
-=======
+# Monochaetia camelliae Miles, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pandora bullata (Thaxt. & D.M. MacLeod) Humber, 1989 SPECIES
-=======
+# Pandora bullata (Thaxt. & D.M. MacLeod) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

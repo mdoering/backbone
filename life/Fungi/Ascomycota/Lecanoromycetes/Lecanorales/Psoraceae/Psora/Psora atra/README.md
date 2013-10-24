@@ -1,5 +1,4 @@
-Psora atra (Huds) Hampe SPECIES
-=======
+# Psora atra (Huds) Hampe SPECIES
 
 #### Status
 ACCEPTED

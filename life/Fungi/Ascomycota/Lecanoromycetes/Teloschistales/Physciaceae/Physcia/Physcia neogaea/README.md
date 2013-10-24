@@ -1,5 +1,4 @@
-Physcia neogaea R. C. Harris SPECIES
-=======
+# Physcia neogaea R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

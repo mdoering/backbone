@@ -1,5 +1,4 @@
-Sporormia petasoniformis Moreau SPECIES
-=======
+# Sporormia petasoniformis Moreau SPECIES
 
 #### Status
 ACCEPTED

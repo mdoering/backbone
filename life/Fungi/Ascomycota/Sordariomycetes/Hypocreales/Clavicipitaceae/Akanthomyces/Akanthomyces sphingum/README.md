@@ -1,5 +1,4 @@
-Akanthomyces sphingum (Schwein.) Petch SPECIES
-=======
+# Akanthomyces sphingum (Schwein.) Petch SPECIES
 
 #### Status
 ACCEPTED

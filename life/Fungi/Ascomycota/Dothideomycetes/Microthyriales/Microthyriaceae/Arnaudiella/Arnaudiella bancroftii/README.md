@@ -1,5 +1,4 @@
-Arnaudiella bancroftii Hansf. SPECIES
-=======
+# Arnaudiella bancroftii Hansf. SPECIES
 
 #### Status
 ACCEPTED

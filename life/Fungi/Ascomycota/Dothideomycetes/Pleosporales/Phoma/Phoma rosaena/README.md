@@ -1,5 +1,4 @@
-Phoma rosaena Roldan SPECIES
-=======
+# Phoma rosaena Roldan SPECIES
 
 #### Status
 ACCEPTED

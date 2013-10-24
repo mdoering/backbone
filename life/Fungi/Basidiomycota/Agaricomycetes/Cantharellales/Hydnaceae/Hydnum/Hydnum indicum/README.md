@@ -1,5 +1,4 @@
-Hydnum indicum Sacc. & P. Syd. SPECIES
-=======
+# Hydnum indicum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

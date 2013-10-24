@@ -1,5 +1,4 @@
-Dothiorella sibiraeae Murashk. SPECIES
-=======
+# Dothiorella sibiraeae Murashk. SPECIES
 
 #### Status
 ACCEPTED

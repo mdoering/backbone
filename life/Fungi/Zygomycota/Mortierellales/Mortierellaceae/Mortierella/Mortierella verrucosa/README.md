@@ -1,5 +1,4 @@
-Mortierella verrucosa Linnem., 1953 SPECIES
-=======
+# Mortierella verrucosa Linnem., 1953 SPECIES
 
 #### Status
 ACCEPTED

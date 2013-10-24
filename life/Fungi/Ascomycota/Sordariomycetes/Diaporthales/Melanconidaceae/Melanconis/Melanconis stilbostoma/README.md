@@ -1,17 +1,16 @@
-Valsa bloxami Cooke SPECIES
-=======
+# Melanconis stilbostoma (Fr.) Tul. & C. Tul., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Select. fung. carpol. (Paris) 2: 115 (1863)
 
 #### Original name
-Valsa bloxami Cooke
+Sphaeria stilbostoma Fr., 1817
 
 ### Remarks
 null

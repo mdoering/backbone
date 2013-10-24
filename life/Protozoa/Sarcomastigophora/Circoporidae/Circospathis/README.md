@@ -1,5 +1,4 @@
-Circospathis Haeckel, 1887 GENUS
-=======
+# Circospathis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

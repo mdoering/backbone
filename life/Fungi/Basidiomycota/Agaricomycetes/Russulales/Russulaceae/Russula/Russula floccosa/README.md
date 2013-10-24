@@ -1,5 +1,4 @@
-Russula floccosa Lj.N. Vassiljeva SPECIES
-=======
+# Russula floccosa Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

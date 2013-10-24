@@ -1,5 +1,4 @@
-Tryblidaria capensis (Stizenb.) Vouaux SPECIES
-=======
+# Tryblidaria capensis (Stizenb.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

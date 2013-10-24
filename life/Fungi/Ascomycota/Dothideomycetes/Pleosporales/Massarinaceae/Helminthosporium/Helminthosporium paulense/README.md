@@ -1,5 +1,4 @@
-Helminthosporium paulense Henn. SPECIES
-=======
+# Helminthosporium paulense Henn. SPECIES
 
 #### Status
 ACCEPTED

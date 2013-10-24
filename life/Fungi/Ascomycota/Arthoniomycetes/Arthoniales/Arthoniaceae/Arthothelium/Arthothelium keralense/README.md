@@ -1,5 +1,4 @@
-Arthothelium keralense Makhija & Patw. SPECIES
-=======
+# Arthothelium keralense Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

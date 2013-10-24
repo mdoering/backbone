@@ -1,5 +1,4 @@
-Spinunuma Ichikawa & Yao, 1976 GENUS
-=======
+# Spinunuma Ichikawa & Yao, 1976 GENUS
 
 #### Status
 ACCEPTED

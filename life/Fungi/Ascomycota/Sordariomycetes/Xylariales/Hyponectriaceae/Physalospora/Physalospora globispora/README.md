@@ -1,5 +1,4 @@
-Physalospora globispora Speg. SPECIES
-=======
+# Physalospora globispora Speg. SPECIES
 
 #### Status
 ACCEPTED

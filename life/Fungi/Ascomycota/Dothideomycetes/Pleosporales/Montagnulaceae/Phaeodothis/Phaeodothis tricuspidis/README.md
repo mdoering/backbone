@@ -1,5 +1,4 @@
-Phaeodothis tricuspidis Syd. & P. Syd., 1904 SPECIES
-=======
+# Phaeodothis tricuspidis Syd. & P. Syd., 1904 SPECIES
 
 #### Status
 ACCEPTED

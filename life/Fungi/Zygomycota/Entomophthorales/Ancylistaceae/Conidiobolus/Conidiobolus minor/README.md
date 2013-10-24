@@ -1,5 +1,4 @@
-Conidiobolus minor Jacz. SPECIES
-=======
+# Conidiobolus minor Jacz. SPECIES
 
 #### Status
 ACCEPTED

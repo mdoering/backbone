@@ -1,5 +1,4 @@
-Jannaschia pohangensis Kim, Yoo, Weon, Jeon, Hong, Go, Stackebrandt & Kwon, 2008 SPECIES
-=======
+# Jannaschia pohangensis Kim, Yoo, Weon, Jeon, Hong, Go, Stackebrandt & Kwon, 2008 SPECIES
 
 #### Status
 ACCEPTED

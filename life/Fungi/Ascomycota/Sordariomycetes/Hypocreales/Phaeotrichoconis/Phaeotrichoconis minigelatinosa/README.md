@@ -1,17 +1,16 @@
-Phaeotrichoconis minigelatinosum A. Roldán, Descals & Honrubia SPECIES
-=======
+# Phaeotrichoconis minigelatinosa A. Roldán, Descals & Honrubia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Arambarri, Cabello & Mengascini, Mycotaxon 29: 34 (1987)
 
 #### Original name
-Phaeotrichoconis minigelatinosum A. Roldán, Descals & Honrubia
+Phaeotrichoconis minigelatinosa A. Roldán, Descals & Honrubia
 
 ### Remarks
 null

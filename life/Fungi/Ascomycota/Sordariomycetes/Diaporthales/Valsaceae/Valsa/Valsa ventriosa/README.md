@@ -1,5 +1,4 @@
-Valsa ventriosa Cooke & Ellis SPECIES
-=======
+# Valsa ventriosa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa tessariae Starbäck SPECIES
-=======
+# Eutypa tessariae Starbäck SPECIES
 
 #### Status
 ACCEPTED

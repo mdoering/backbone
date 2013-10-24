@@ -1,5 +1,4 @@
-Heterochaete sanctae-martae Bodman, 1953 SPECIES
-=======
+# Heterochaete sanctae-martae Bodman, 1953 SPECIES
 
 #### Status
 ACCEPTED

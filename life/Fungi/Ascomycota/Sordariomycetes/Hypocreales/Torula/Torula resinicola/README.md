@@ -1,5 +1,4 @@
-Torula resinicola Peyronel SPECIES
-=======
+# Torula resinicola Peyronel SPECIES
 
 #### Status
 ACCEPTED

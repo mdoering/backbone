@@ -1,5 +1,4 @@
-Colletotrichum orthosporum (Sacc. & Roum.) Dicks. SPECIES
-=======
+# Colletotrichum orthosporum (Sacc. & Roum.) Dicks. SPECIES
 
 #### Status
 ACCEPTED

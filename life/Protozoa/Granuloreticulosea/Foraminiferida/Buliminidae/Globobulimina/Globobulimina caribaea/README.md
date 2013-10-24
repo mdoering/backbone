@@ -1,5 +1,4 @@
-Globobulimina caribaea SPECIES
-=======
+# Globobulimina caribaea SPECIES
 
 #### Status
 ACCEPTED

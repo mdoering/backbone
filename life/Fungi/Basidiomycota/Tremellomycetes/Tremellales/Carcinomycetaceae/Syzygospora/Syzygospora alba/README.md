@@ -1,5 +1,4 @@
-Syzygospora alba G.W. Martin, 1937 SPECIES
-=======
+# Syzygospora alba G.W. Martin, 1937 SPECIES
 
 #### Status
 ACCEPTED

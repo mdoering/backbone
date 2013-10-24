@@ -1,5 +1,4 @@
-Laestadia verrucicola (Wedd.) D. Sacc. SPECIES
-=======
+# Laestadia verrucicola (Wedd.) D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

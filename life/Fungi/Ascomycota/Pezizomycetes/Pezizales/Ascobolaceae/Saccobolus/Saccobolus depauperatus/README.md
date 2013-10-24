@@ -1,17 +1,16 @@
-Saccobolus neglectus Boud., 1869 SPECIES
-=======
+# Saccobolus depauperatus (Berk. & Broome) Rehm, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Vidensk. Meddel. Copenhagen 293 (1876)
 
 #### Original name
-Saccobolus neglectus Boud., 1869
+Ascobolus depauperatus Berk. & Broome, 1865
 
 ### Remarks
 null

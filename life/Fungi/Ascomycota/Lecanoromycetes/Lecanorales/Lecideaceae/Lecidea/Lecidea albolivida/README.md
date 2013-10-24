@@ -1,5 +1,4 @@
-Lecidea albolivida Lettau SPECIES
-=======
+# Lecidea albolivida Lettau SPECIES
 
 #### Status
 ACCEPTED

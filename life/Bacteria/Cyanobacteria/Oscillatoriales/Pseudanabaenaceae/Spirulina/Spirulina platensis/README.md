@@ -1,5 +1,4 @@
-Spirulina platensis (Nordstedt) Geitler SPECIES
-=======
+# Spirulina platensis (Nordstedt) Geitler SPECIES
 
 #### Status
 ACCEPTED

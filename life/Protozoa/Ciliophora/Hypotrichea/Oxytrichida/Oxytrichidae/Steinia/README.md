@@ -1,5 +1,4 @@
-Steinia Diesing, 1866 GENUS
-=======
+# Steinia Diesing, 1866 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyochaceae Lemmermann, 1901 FAMILY
-=======
+# Dictyochaceae Lemmermann, 1901 FAMILY
 
 #### Status
 ACCEPTED

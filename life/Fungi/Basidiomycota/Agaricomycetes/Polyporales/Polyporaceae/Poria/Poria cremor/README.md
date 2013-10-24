@@ -1,5 +1,4 @@
-Poria cremor (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Poria cremor (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

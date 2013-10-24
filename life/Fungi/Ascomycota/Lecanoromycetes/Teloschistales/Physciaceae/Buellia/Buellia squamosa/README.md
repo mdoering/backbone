@@ -1,5 +1,4 @@
-Buellia squamosa B. de Lesd. SPECIES
-=======
+# Buellia squamosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

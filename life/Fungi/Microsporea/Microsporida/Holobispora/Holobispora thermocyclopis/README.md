@@ -1,5 +1,4 @@
-Holobispora thermocyclopis Voronin SPECIES
-=======
+# Holobispora thermocyclopis Voronin SPECIES
 
 #### Status
 ACCEPTED

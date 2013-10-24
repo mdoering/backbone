@@ -1,5 +1,4 @@
-Lentinus sericeosquamosus Henn. SPECIES
-=======
+# Lentinus sericeosquamosus Henn. SPECIES
 
 #### Status
 ACCEPTED

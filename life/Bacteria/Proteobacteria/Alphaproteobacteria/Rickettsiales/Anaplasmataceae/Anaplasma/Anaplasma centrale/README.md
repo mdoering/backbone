@@ -1,5 +1,4 @@
-Anaplasma centrale (ex Theiler, 1911) Ristic & Kreier, 1984 SPECIES
-=======
+# Anaplasma centrale (ex Theiler, 1911) Ristic & Kreier, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptovalsa pyrina Ellis & Everh. SPECIES
-=======
+# Cryptovalsa pyrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

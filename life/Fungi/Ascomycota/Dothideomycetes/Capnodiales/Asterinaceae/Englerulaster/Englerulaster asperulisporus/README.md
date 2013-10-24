@@ -1,5 +1,4 @@
-Englerulaster asperulisporus (Gaillard) Theiss. SPECIES
-=======
+# Englerulaster asperulisporus (Gaillard) Theiss. SPECIES
 
 #### Status
 ACCEPTED

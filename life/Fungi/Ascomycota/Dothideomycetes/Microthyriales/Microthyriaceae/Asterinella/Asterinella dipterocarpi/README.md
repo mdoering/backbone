@@ -1,5 +1,4 @@
-Asterinella dipterocarpi Syd. & P. Syd. SPECIES
-=======
+# Asterinella dipterocarpi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

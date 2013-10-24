@@ -1,5 +1,4 @@
-Phyllosticta gunnerae Speg. SPECIES
-=======
+# Phyllosticta gunnerae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia chimaphilae H.C. Greene SPECIES
-=======
+# Ramularia chimaphilae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

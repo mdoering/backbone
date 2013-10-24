@@ -1,5 +1,4 @@
-Glomerella phyllanthi H. Surendranath Pai, 1970 SPECIES
-=======
+# Glomerella phyllanthi H. Surendranath Pai, 1970 SPECIES
 
 #### Status
 ACCEPTED

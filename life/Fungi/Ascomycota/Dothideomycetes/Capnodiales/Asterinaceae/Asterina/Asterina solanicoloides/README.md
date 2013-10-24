@@ -1,5 +1,4 @@
-Asterina solanicoloides var. solanicoloides VARIETY
-=======
+# Asterina solanicoloides Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterina solanicoloides var. solanicoloides
+Asterina solanicoloides Rehm
 
 ### Remarks
 null

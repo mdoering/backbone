@@ -1,8 +1,7 @@
-Thecadinium hirsutum Balech SPECIES
-=======
+# Amphidiniopsis hirsutum (Balech) Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

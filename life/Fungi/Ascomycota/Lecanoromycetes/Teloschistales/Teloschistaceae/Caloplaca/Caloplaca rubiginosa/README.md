@@ -1,5 +1,4 @@
-Caloplaca rubiginosa (Kremp.) SPECIES
-=======
+# Caloplaca rubiginosa (Kremp.) SPECIES
 
 #### Status
 ACCEPTED

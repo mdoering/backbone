@@ -1,5 +1,4 @@
-Phoma inulae-viscosae Politis SPECIES
-=======
+# Phoma inulae-viscosae Politis SPECIES
 
 #### Status
 ACCEPTED

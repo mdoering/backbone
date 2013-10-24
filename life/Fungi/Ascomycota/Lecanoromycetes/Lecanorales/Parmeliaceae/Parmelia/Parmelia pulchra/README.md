@@ -1,5 +1,4 @@
-Parmelia pulchra Ach. SPECIES
-=======
+# Parmelia pulchra Ach. SPECIES
 
 #### Status
 ACCEPTED

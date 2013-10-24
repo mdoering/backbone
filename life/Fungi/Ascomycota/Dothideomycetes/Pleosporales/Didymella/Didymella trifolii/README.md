@@ -1,17 +1,16 @@
-Didymosphaeria trifolii G. Winter, 1885 SPECIES
-=======
+# Didymella trifolii (Fuckel) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 554 (1882)
 
 #### Original name
-null
+Sphaeria trifolii Pers., 1801
 
 ### Remarks
 null

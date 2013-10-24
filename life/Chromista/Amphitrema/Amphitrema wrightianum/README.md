@@ -1,5 +1,4 @@
-Amphitrema wrightianum Archer, 1869 SPECIES
-=======
+# Amphitrema wrightianum Archer, 1869 SPECIES
 
 #### Status
 ACCEPTED

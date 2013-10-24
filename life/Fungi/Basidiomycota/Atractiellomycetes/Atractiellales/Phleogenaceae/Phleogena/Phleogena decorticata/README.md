@@ -1,5 +1,4 @@
-Phleogena decorticata (Schwein.) G.W. Martin SPECIES
-=======
+# Phleogena decorticata (Schwein.) G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

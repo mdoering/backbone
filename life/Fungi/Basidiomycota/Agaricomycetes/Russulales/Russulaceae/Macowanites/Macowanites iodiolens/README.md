@@ -1,5 +1,4 @@
-Macowanites iodiolens A.H. Sm. & D.E. Wells SPECIES
-=======
+# Macowanites iodiolens A.H. Sm. & D.E. Wells SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neisseria weaveri Holmes et al., 1993 SPECIES
-=======
+# Neisseria weaveri Holmes et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus rufitinctus Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Polyporus rufitinctus Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

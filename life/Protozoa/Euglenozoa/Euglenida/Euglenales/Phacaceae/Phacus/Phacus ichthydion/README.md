@@ -1,5 +1,4 @@
-Phacus ichthydion Pochmann SPECIES
-=======
+# Phacus ichthydion Pochmann SPECIES
 
 #### Status
 ACCEPTED

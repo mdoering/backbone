@@ -1,5 +1,4 @@
-Calycomonas gracilis Lohmann SPECIES
-=======
+# Calycomonas gracilis Lohmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Douglasillus GENUS
-=======
+# Douglasillus GENUS
 
 #### Status
 ACCEPTED

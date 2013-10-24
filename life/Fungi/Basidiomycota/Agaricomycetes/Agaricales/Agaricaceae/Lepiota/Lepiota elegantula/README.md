@@ -1,5 +1,4 @@
-Lepiota elegantula Sacc. SPECIES
-=======
+# Lepiota elegantula Sacc. SPECIES
 
 #### Status
 ACCEPTED

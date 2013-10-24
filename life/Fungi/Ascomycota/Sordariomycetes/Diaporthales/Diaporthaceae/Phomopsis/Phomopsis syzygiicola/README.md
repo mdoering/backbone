@@ -1,5 +1,4 @@
-Phomopsis syzygiicola Li Ma, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis syzygiicola Li Ma, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

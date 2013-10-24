@@ -1,5 +1,4 @@
-Sphaeria convolvulicola Haller, 1768 SPECIES
-=======
+# Sphaeria convolvulicola Haller, 1768 SPECIES
 
 #### Status
 ACCEPTED

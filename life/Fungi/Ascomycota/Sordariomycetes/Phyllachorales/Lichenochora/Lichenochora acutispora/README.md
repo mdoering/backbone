@@ -1,5 +1,4 @@
-Lichenochora acutispora Etayo, 2008 SPECIES
-=======
+# Lichenochora acutispora Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

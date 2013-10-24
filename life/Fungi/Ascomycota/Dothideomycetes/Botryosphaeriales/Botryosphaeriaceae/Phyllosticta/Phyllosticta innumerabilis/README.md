@@ -1,5 +1,4 @@
-Phyllosticta innumerabilis Peck SPECIES
-=======
+# Phyllosticta innumerabilis Peck SPECIES
 
 #### Status
 ACCEPTED

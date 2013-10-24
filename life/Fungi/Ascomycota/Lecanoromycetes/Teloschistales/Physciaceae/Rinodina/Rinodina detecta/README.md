@@ -1,5 +1,4 @@
-Rinodina detecta (Stizenb.) Zahlbr. SPECIES
-=======
+# Rinodina detecta (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

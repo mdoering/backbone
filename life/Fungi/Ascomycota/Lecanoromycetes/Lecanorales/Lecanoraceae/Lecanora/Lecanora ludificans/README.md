@@ -1,5 +1,4 @@
-Lecanora ludificans H. Magn. SPECIES
-=======
+# Lecanora ludificans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

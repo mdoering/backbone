@@ -1,5 +1,4 @@
-Staurothele fuliginea Zschacke SPECIES
-=======
+# Staurothele fuliginea Zschacke SPECIES
 
 #### Status
 ACCEPTED

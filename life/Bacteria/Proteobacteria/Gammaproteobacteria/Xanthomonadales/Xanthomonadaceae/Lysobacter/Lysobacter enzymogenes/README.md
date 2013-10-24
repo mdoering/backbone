@@ -1,5 +1,4 @@
-Lysobacter enzymogenes subsp. enzymogenes SUBSPECIES
-=======
+# Lysobacter enzymogenes Christensen & Cook, 1978 SPECIES
 
 #### Status
 ACCEPTED

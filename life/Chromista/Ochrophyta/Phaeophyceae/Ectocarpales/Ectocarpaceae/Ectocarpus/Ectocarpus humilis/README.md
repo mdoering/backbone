@@ -1,5 +1,4 @@
-Ectocarpus humilis Reinsch SPECIES
-=======
+# Ectocarpus humilis Reinsch SPECIES
 
 #### Status
 ACCEPTED

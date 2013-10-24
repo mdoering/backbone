@@ -1,5 +1,4 @@
-Clavulina gigartinoides Corner, 1950 SPECIES
-=======
+# Clavulina gigartinoides Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

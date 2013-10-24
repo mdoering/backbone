@@ -1,17 +1,16 @@
-Agaricus hudsonii setosus (Sowerby) Pers., 1828 INFRASPECIFIC_NAME
-=======
+# Marasmius setosus (Sowerby) Noordel., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 13(3): 241 (1987)
 
 #### Original name
-null
+Agaricus setosus Sowerby, 1801
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uromyces claytoniae Cooke & Peck SPECIES
-=======
+# Uromyces claytoniae Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

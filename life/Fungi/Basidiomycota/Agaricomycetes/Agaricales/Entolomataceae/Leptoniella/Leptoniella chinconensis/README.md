@@ -1,5 +1,4 @@
-Leptoniella chinconensis Murrill SPECIES
-=======
+# Leptoniella chinconensis Murrill SPECIES
 
 #### Status
 ACCEPTED

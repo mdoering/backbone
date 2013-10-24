@@ -1,5 +1,4 @@
-Naevia canadica Rehm SPECIES
-=======
+# Naevia canadica Rehm SPECIES
 
 #### Status
 ACCEPTED

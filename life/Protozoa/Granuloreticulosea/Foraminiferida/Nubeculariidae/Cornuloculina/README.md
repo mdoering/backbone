@@ -1,5 +1,4 @@
-Cornuloculina Burbach, 1886 GENUS
-=======
+# Cornuloculina Burbach, 1886 GENUS
 
 #### Status
 ACCEPTED

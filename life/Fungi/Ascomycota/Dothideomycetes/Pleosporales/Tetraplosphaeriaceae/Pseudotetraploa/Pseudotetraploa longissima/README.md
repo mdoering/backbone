@@ -1,5 +1,4 @@
-Pseudotetraploa longissima (Sat. Hatak., Kaz. Tanaka & Y. Harada) Kaz. Tanaka & K. Hirayama, 2009 SPECIES
-=======
+# Pseudotetraploa longissima (Sat. Hatak., Kaz. Tanaka & Y. Harada) Kaz. Tanaka & K. Hirayama, 2009 SPECIES
 
 #### Status
 ACCEPTED

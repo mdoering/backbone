@@ -1,5 +1,4 @@
-Tilletia ischaemi Vánky & N.D. Sharma, 2001 SPECIES
-=======
+# Tilletia ischaemi Vánky & N.D. Sharma, 2001 SPECIES
 
 #### Status
 ACCEPTED

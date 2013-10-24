@@ -1,5 +1,4 @@
-Sphacelaria sessilis Takamatsu SPECIES
-=======
+# Sphacelaria sessilis Takamatsu SPECIES
 
 #### Status
 ACCEPTED

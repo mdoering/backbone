@@ -1,5 +1,4 @@
-Micropeltella leucoptera (Penz. & Sacc.) Syd. & P. Syd. SPECIES
-=======
+# Micropeltella leucoptera (Penz. & Sacc.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

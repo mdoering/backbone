@@ -1,5 +1,4 @@
-Marasmius tosensis Henn. SPECIES
-=======
+# Marasmius tosensis Henn. SPECIES
 
 #### Status
 ACCEPTED

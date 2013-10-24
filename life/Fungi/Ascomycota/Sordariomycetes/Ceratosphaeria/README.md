@@ -1,5 +1,4 @@
-Ceratosphaeria Niessl, 1876 GENUS
-=======
+# Ceratosphaeria Niessl, 1876 GENUS
 
 #### Status
 ACCEPTED

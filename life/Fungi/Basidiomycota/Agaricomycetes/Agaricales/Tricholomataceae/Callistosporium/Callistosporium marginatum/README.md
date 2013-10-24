@@ -1,17 +1,16 @@
-Monodelphus marginatus (Peck) Murrill, 1915 SPECIES
-=======
+# Callistosporium marginatum (Peck) H.E. Bigelow, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rhodora 78(no. 813): 123 (1976)
 
 #### Original name
-null
+Clitocybe marginata Peck, 1902
 
 ### Remarks
 null

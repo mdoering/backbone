@@ -1,5 +1,4 @@
-Dasystictella Höhn. GENUS
-=======
+# Dasystictella Höhn. GENUS
 
 #### Status
 ACCEPTED

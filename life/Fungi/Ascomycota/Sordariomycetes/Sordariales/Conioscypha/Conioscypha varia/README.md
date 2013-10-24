@@ -1,17 +1,16 @@
-Cylicogone regenerans Emden & Veenb.-Rijks, 1974 SPECIES
-=======
+# Conioscypha varia Shearer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. neerl. 22(6): 637 (1974)
+Mycologia 65(1): 133 (1973)
 
 #### Original name
-Cylicogone regenerans Emden & Veenb.-Rijks, 1974
+Conioscypha varia Shearer, 1973
 
 ### Remarks
 null

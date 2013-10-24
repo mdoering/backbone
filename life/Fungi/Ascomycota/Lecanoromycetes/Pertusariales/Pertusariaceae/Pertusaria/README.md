@@ -1,17 +1,16 @@
-Phylloporina (Müll. Arg.) Müll. Arg. GENUS
-=======
+# Pertusaria DC. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Epiph. Novi 20 (1890)
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 319 (1805)
 
 #### Original name
-null
+Pertusaria DC.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium botryospermi Henn. SPECIES
-=======
+# Aecidium botryospermi Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma cutifractum E. Horak & Singer SPECIES
-=======
+# Entoloma cutifractum E. Horak & Singer SPECIES
 
 #### Status
 ACCEPTED

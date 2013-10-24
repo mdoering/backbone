@@ -1,5 +1,4 @@
-Laschia citrinella (Henn.) Sacc. SPECIES
-=======
+# Laschia citrinella (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

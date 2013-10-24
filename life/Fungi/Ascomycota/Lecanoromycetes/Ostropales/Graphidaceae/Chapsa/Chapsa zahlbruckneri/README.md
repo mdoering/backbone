@@ -1,5 +1,4 @@
-Chapsa zahlbruckneri (Redinger) Frisch SPECIES
-=======
+# Chapsa zahlbruckneri (Redinger) Frisch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nocardia dori (Beurm. & Gougerot) Vuill. SPECIES
-=======
+# Nocardia dori (Beurm. & Gougerot) Vuill. SPECIES
 
 #### Status
 ACCEPTED

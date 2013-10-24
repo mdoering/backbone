@@ -1,5 +1,4 @@
-Hypochnus roseocinctus (Fr.) Sacc. SPECIES
-=======
+# Hypochnus roseocinctus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

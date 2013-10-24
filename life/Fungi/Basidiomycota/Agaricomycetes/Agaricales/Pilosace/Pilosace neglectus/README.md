@@ -1,5 +1,4 @@
-Pilosace neglectus (Massee) Kuntze SPECIES
-=======
+# Pilosace neglectus (Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

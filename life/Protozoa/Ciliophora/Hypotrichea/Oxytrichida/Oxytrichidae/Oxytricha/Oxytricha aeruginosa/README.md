@@ -1,5 +1,4 @@
-Oxytricha aeruginosa Wrzesniowski, 1870 SPECIES
-=======
+# Oxytricha aeruginosa Wrzesniowski, 1870 SPECIES
 
 #### Status
 ACCEPTED

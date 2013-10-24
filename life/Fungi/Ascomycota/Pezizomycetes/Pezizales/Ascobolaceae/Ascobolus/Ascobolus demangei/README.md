@@ -1,5 +1,4 @@
-Ascobolus demangei Pat. SPECIES
-=======
+# Ascobolus demangei Pat. SPECIES
 
 #### Status
 ACCEPTED

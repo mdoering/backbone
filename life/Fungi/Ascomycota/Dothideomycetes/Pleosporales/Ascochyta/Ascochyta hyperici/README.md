@@ -1,5 +1,4 @@
-Ascochyta hyperici Lasch SPECIES
-=======
+# Ascochyta hyperici Lasch SPECIES
 
 #### Status
 ACCEPTED

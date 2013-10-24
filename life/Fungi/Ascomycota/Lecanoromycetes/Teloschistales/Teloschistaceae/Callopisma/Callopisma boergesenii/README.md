@@ -1,5 +1,4 @@
-Callopisma boergesenii (Vain.) Malme SPECIES
-=======
+# Callopisma boergesenii (Vain.) Malme SPECIES
 
 #### Status
 ACCEPTED

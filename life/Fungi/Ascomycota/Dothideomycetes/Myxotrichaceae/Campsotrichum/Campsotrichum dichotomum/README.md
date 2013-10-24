@@ -1,5 +1,4 @@
-Campsotrichum dichotomum Bonord. SPECIES
-=======
+# Campsotrichum dichotomum Bonord. SPECIES
 
 #### Status
 ACCEPTED

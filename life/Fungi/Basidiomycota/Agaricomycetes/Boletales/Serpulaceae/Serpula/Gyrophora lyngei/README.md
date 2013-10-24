@@ -1,5 +1,4 @@
-Gyrophora lyngei (Schol.) Savicz SPECIES
-=======
+# Gyrophora lyngei (Schol.) Savicz SPECIES
 
 #### Status
 ACCEPTED

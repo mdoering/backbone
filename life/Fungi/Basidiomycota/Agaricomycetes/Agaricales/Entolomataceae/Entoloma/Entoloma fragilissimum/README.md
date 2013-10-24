@@ -1,5 +1,4 @@
-Entoloma fragilissimum E. Horak & Desjardin SPECIES
-=======
+# Entoloma fragilissimum E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

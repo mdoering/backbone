@@ -1,17 +1,16 @@
-Aecidium geniosporii Wakef. & Hansf. SPECIES
-=======
+# Aecidium geniospori Wakef. & Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London 161(2): 190 (1949)
 
 #### Original name
-Aecidium geniosporii Wakef. & Hansf.
+Aecidium geniospori Wakef. & Hansf.
 
 ### Remarks
 null

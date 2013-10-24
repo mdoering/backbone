@@ -1,5 +1,4 @@
-Pyrenodochium atrum Bonord. SPECIES
-=======
+# Pyrenodochium atrum Bonord. SPECIES
 
 #### Status
 ACCEPTED

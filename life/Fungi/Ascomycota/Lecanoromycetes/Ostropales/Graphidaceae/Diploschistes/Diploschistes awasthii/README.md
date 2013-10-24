@@ -1,5 +1,4 @@
-Diploschistes awasthii G. Pant & Upreti SPECIES
-=======
+# Diploschistes awasthii G. Pant & Upreti SPECIES
 
 #### Status
 ACCEPTED

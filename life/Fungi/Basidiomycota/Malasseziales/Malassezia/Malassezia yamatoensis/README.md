@@ -1,5 +1,4 @@
-Malassezia yamatoensis Sugita, M. Takash., Tajima, Tsuboi & A. Nishikawa SPECIES
-=======
+# Malassezia yamatoensis Sugita, M. Takash., Tajima, Tsuboi & A. Nishikawa SPECIES
 
 #### Status
 ACCEPTED

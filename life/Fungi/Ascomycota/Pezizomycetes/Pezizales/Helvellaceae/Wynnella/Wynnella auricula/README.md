@@ -1,14 +1,13 @@
-Peziza auricula Schaeff., 1774 SPECIES
-=======
+# Wynnella auricula (Schaeff.) Boud., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. Bavar. Palat. 4: tab. 156 (1774)
+Bull. Soc. mycol. Fr. 1: 102 (1885)
 
 #### Original name
 Peziza auricula Schaeff., 1774

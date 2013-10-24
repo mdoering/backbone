@@ -1,5 +1,4 @@
-Discorbis vesicularis agg. elegans INFRASPECIFIC_NAME
-=======
+# Discorbis vesicularis SPECIES
 
 #### Status
 ACCEPTED

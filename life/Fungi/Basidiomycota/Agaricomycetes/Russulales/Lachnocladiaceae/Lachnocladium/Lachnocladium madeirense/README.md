@@ -1,17 +1,16 @@
-Lachnocladium madeirensis Henn. SPECIES
-=======
+# Lachnocladium madeirense Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 174 (1904)
 
 #### Original name
-Lachnocladium madeirensis Henn.
+Lachnocladium madeirense Henn.
 
 ### Remarks
 null

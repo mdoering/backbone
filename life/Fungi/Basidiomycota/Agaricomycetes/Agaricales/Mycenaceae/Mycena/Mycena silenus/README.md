@@ -1,5 +1,4 @@
-Mycena silenus (Berk. & Broome) Sacc. SPECIES
-=======
+# Mycena silenus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

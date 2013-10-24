@@ -1,5 +1,4 @@
-Euplotes khazarica Alekperov, Buskey & Snegovaya, 2006 SPECIES
-=======
+# Euplotes khazarica Alekperov, Buskey & Snegovaya, 2006 SPECIES
 
 #### Status
 ACCEPTED

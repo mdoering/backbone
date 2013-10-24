@@ -1,17 +1,16 @@
-Phyllachora dalbergiae var. dalbergiae Niessl VARIETY
-=======
+# Phyllachora viventis (Cooke) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 20: 90 (1881)
+Syll. fung. (Abellini) 2: 601 (1883)
 
 #### Original name
-Phyllachora dalbergiae var. dalbergiae Niessl
+Dothidea viventis Cooke, 1876
 
 ### Remarks
 null

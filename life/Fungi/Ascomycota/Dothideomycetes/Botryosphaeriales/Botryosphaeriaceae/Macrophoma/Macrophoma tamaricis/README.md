@@ -1,5 +1,4 @@
-Macrophoma tamaricis Pass. SPECIES
-=======
+# Macrophoma tamaricis Pass. SPECIES
 
 #### Status
 ACCEPTED

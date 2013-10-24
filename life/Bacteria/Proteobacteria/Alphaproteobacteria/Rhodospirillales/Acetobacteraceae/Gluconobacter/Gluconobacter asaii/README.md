@@ -1,5 +1,4 @@
-Gluconobacter asaii Mason & Claus, 1989 SPECIES
-=======
+# Gluconobacter asaii Mason & Claus, 1989 SPECIES
 
 #### Status
 ACCEPTED

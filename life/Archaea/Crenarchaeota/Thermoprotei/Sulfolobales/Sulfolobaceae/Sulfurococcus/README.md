@@ -1,5 +1,4 @@
-Sulfurococcus Golovacheva et al., 1995 GENUS
-=======
+# Sulfurococcus Golovacheva et al., 1995 GENUS
 
 #### Status
 ACCEPTED

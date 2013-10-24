@@ -1,5 +1,4 @@
-Paracytospora salicis Petr., 1925 SPECIES
-=======
+# Paracytospora salicis Petr., 1925 SPECIES
 
 #### Status
 ACCEPTED

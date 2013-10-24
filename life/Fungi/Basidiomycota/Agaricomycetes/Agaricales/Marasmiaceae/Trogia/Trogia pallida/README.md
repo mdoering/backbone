@@ -1,5 +1,4 @@
-Trogia pallida Corner SPECIES
-=======
+# Trogia pallida Corner SPECIES
 
 #### Status
 ACCEPTED

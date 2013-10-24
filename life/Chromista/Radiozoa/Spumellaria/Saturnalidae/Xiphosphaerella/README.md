@@ -1,5 +1,4 @@
-Xiphosphaerella Haeckel, 1887 GENUS
-=======
+# Xiphosphaerella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius carneoisabellinus Britzelm. SPECIES
-=======
+# Lactarius carneoisabellinus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

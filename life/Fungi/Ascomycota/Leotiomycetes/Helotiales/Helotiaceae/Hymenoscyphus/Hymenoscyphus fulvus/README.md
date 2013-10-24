@@ -1,5 +1,4 @@
-Hymenoscyphus fulvus (Boud.) Hengstm. SPECIES
-=======
+# Hymenoscyphus fulvus (Boud.) Hengstm. SPECIES
 
 #### Status
 ACCEPTED

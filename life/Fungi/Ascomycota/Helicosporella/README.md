@@ -1,5 +1,4 @@
-Helicosporella G. Arnaud GENUS
-=======
+# Helicosporella G. Arnaud GENUS
 
 #### Status
 ACCEPTED

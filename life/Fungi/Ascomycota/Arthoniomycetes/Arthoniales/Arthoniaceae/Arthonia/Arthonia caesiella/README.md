@@ -1,5 +1,4 @@
-Arthonia caesiella Nyl. SPECIES
-=======
+# Arthonia caesiella Nyl. SPECIES
 
 #### Status
 ACCEPTED

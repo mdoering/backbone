@@ -1,5 +1,4 @@
-Umbilicaria eximia Hue SPECIES
-=======
+# Umbilicaria eximia Hue SPECIES
 
 #### Status
 ACCEPTED

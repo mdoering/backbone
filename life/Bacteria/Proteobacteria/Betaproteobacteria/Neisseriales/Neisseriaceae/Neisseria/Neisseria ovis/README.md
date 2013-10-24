@@ -1,5 +1,4 @@
-Neisseria ovis Lindqvist, 1960 SPECIES
-=======
+# Neisseria ovis Lindqvist, 1960 SPECIES
 
 #### Status
 ACCEPTED

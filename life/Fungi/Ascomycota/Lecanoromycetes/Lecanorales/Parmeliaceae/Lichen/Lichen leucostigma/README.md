@@ -1,5 +1,4 @@
-Lichen leucostigma Ach. SPECIES
-=======
+# Lichen leucostigma Ach. SPECIES
 
 #### Status
 ACCEPTED

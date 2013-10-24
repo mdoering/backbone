@@ -1,5 +1,4 @@
-Sticta hottentotta var. hottentotta VARIETY
-=======
+# Sticta hottentotta (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

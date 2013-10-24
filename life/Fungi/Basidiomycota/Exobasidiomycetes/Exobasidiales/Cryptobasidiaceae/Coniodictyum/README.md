@@ -1,17 +1,16 @@
-Hyalodema Magnus GENUS
-=======
+# Coniodictyum Har. & Pat. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 28: 379 (1910)
+Bull. Soc. mycol. Fr. 25: 13 (1909)
 
 #### Original name
-Hyalodema Magnus
+Coniodictyum Har. & Pat.
 
 ### Remarks
 null

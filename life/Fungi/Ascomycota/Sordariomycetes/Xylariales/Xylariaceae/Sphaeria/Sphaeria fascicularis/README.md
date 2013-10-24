@@ -1,5 +1,4 @@
-Sphaeria fascicularis Wallr. SPECIES
-=======
+# Sphaeria fascicularis Wallr. SPECIES
 
 #### Status
 ACCEPTED

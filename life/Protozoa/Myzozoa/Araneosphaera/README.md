@@ -1,5 +1,4 @@
-Araneosphaera Eaton GENUS
-=======
+# Araneosphaera Eaton GENUS
 
 #### Status
 ACCEPTED

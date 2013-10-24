@@ -1,5 +1,4 @@
-Ctenomyces trichophyticus Szathmáry SPECIES
-=======
+# Ctenomyces trichophyticus Szathmáry SPECIES
 
 #### Status
 ACCEPTED

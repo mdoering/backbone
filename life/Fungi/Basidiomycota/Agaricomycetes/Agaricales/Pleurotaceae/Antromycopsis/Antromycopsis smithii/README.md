@@ -1,5 +1,4 @@
-Antromycopsis smithii Guzmán & R. Valenz. SPECIES
-=======
+# Antromycopsis smithii Guzmán & R. Valenz. SPECIES
 
 #### Status
 ACCEPTED

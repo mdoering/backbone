@@ -1,5 +1,4 @@
-Trematosphaerites lignitum (Heer) Beck SPECIES
-=======
+# Trematosphaerites lignitum (Heer) Beck SPECIES
 
 #### Status
 ACCEPTED

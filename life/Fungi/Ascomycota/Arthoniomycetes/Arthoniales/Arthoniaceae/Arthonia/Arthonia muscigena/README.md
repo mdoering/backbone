@@ -1,17 +1,16 @@
-Allarthonia exilis (Flörke) Sandst. SPECIES
-=======
+# Arthonia muscigena Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Notiser 182 (1865)
 
 #### Original name
-Allarthonia exilis (Flörke) Sandst.
+Arthonia muscigena Th. Fr.
 
 ### Remarks
 null

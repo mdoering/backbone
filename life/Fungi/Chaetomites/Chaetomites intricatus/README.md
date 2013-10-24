@@ -1,5 +1,4 @@
-Chaetomites intricatus Pampal. SPECIES
-=======
+# Chaetomites intricatus Pampal. SPECIES
 
 #### Status
 ACCEPTED

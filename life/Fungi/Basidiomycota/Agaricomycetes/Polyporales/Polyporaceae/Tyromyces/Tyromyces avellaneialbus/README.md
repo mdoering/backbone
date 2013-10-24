@@ -1,17 +1,16 @@
-Tyromyces avellaneoalbus Murrill SPECIES
-=======
+# Tyromyces avellaneialbus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 65: 657 (1938)
 
 #### Original name
-Tyromyces avellaneoalbus Murrill
+Tyromyces avellaneialbus Murrill
 
 ### Remarks
 null

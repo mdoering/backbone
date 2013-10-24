@@ -1,5 +1,4 @@
-Aspicilia mashiginensis (Zahlbr.) Oxner SPECIES
-=======
+# Aspicilia mashiginensis (Zahlbr.) Oxner SPECIES
 
 #### Status
 ACCEPTED

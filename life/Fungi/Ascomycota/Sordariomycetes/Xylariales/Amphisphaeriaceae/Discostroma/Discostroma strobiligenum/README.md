@@ -1,5 +1,4 @@
-Discostroma strobiligenum (E. Müll. & Loeffler) Brockmann, 1976 SPECIES
-=======
+# Discostroma strobiligenum (E. Müll. & Loeffler) Brockmann, 1976 SPECIES
 
 #### Status
 ACCEPTED

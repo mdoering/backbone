@@ -1,5 +1,4 @@
-Entoloma subglobispora Kalamees SPECIES
-=======
+# Entoloma subglobispora Kalamees SPECIES
 
 #### Status
 ACCEPTED

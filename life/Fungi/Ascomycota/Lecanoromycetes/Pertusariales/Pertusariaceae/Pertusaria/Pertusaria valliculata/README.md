@@ -1,5 +1,4 @@
-Pertusaria valliculata Dibben SPECIES
-=======
+# Pertusaria valliculata Dibben SPECIES
 
 #### Status
 ACCEPTED

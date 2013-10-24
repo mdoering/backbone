@@ -1,14 +1,13 @@
-Muellerella dalbergiae (Sivan.) Arx & E. Müll. SPECIES
-=======
+# Plurisperma dalbergiae Sivan. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Stud. Mycol. 9: 134 (1975)
+Trans. Br. mycol. Soc. 54(3): 496 (1970)
 
 #### Original name
 Plurisperma dalbergiae Sivan.

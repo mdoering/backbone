@@ -1,5 +1,4 @@
-Phyllosticta trapezuntica Bubák SPECIES
-=======
+# Phyllosticta trapezuntica Bubák SPECIES
 
 #### Status
 ACCEPTED

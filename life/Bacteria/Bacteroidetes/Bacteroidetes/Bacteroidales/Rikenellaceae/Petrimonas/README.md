@@ -1,5 +1,4 @@
-Petrimonas Grabowski, Tindall, Bardin, Blanchet & Jeanthon, 2005 GENUS
-=======
+# Petrimonas Grabowski, Tindall, Bardin, Blanchet & Jeanthon, 2005 GENUS
 
 #### Status
 ACCEPTED

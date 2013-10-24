@@ -1,5 +1,4 @@
-Thecaphora androsacina Vánky SPECIES
-=======
+# Thecaphora androsacina Vánky SPECIES
 
 #### Status
 ACCEPTED

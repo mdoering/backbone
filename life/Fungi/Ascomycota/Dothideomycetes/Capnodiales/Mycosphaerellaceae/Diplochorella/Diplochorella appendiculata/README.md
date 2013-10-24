@@ -1,5 +1,4 @@
-Diplochorella appendiculata (Delacr.) Theiss. & Syd. SPECIES
-=======
+# Diplochorella appendiculata (Delacr.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

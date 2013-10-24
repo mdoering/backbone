@@ -1,5 +1,4 @@
-Micropeltis gustaviae Bat. & Nascim. SPECIES
-=======
+# Micropeltis gustaviae Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

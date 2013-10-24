@@ -1,5 +1,4 @@
-Tympanis juniperina Sacc. SPECIES
-=======
+# Tympanis juniperina Sacc. SPECIES
 
 #### Status
 ACCEPTED

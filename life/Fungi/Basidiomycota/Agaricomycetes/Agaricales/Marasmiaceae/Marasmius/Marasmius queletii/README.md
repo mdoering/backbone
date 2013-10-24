@@ -1,5 +1,4 @@
-Marasmius queletii Schulzer SPECIES
-=======
+# Marasmius queletii Schulzer SPECIES
 
 #### Status
 ACCEPTED

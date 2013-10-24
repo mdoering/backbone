@@ -1,5 +1,4 @@
-Coelocantha Hertwig, 1879 GENUS
-=======
+# Coelocantha Hertwig, 1879 GENUS
 
 #### Status
 ACCEPTED

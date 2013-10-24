@@ -1,5 +1,4 @@
-Dasyscyphus aeruginellus (P. Karst.) Korf & J.R. Dixon SPECIES
-=======
+# Dasyscyphus aeruginellus (P. Karst.) Korf & J.R. Dixon SPECIES
 
 #### Status
 ACCEPTED

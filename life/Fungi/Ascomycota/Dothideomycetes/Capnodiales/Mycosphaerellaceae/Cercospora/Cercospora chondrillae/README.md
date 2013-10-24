@@ -1,5 +1,4 @@
-Cercospora chondrillae Bond.-Mont. SPECIES
-=======
+# Cercospora chondrillae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

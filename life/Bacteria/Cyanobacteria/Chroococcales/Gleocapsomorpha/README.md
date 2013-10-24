@@ -1,5 +1,4 @@
-Gleocapsomorpha M.D. Zalessky, 1920 GENUS
-=======
+# Gleocapsomorpha M.D. Zalessky, 1920 GENUS
 
 #### Status
 ACCEPTED

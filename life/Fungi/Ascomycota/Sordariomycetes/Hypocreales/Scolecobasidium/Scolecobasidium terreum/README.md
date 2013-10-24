@@ -1,5 +1,4 @@
-Scolecobasidium terreum E.V. Abbott, 1927 SPECIES
-=======
+# Scolecobasidium terreum E.V. Abbott, 1927 SPECIES
 
 #### Status
 ACCEPTED

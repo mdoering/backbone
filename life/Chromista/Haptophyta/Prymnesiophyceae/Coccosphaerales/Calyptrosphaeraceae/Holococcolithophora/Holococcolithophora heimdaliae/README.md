@@ -1,5 +1,4 @@
-Holococcolithophora heimdaliae (Norris) Jordan, Cros & Young, 2004. SPECIES
-=======
+# Holococcolithophora heimdaliae (Norris) Jordan, Cros & Young, 2004. SPECIES
 
 #### Status
 ACCEPTED

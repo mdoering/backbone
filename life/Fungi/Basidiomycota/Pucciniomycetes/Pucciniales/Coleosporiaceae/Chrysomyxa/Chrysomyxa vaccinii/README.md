@@ -1,14 +1,13 @@
-Chrysomyxa ledi var. vaccinii Ziller, 1955 VARIETY
-=======
+# Chrysomyxa vaccinii (Ziller) P.E. Crane, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Savile, Can. J. Bot. 33: 492 (1955)
+Can. J. Bot. 79(8): 976 (2001)
 
 #### Original name
 Chrysomyxa ledi var. vaccinii Ziller, 1955

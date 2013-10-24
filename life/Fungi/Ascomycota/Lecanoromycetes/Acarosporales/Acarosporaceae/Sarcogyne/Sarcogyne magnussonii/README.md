@@ -1,5 +1,4 @@
-Sarcogyne magnussonii B. de Lesd. SPECIES
-=======
+# Sarcogyne magnussonii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

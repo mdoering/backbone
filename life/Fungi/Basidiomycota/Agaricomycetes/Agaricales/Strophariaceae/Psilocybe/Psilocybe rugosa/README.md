@@ -1,5 +1,4 @@
-Psilocybe rugosa Velen. SPECIES
-=======
+# Psilocybe rugosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pharcidia dispersa f. dispersa FORM
-=======
+# Zwackhiomyces dispersus (J. Lahm ex Körb.) Triebel & Grube SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Grube & Hafellner, Nova Hedwigia 51(3-4): 314 (1990)
 
 #### Original name
-Pharcidia dispersa f. dispersa
+Arthopyrenia dispersa J. Lahm ex Körb.
 
 ### Remarks
 null

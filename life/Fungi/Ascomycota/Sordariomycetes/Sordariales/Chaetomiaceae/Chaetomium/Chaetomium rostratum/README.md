@@ -1,5 +1,4 @@
-Chaetomium rostratum Speg. SPECIES
-=======
+# Chaetomium rostratum Speg. SPECIES
 
 #### Status
 ACCEPTED

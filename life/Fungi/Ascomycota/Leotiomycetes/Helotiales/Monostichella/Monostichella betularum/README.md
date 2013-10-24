@@ -1,5 +1,4 @@
-Monostichella betularum (Ellis & G. Martin) Redlin SPECIES
-=======
+# Monostichella betularum (Ellis & G. Martin) Redlin SPECIES
 
 #### Status
 ACCEPTED

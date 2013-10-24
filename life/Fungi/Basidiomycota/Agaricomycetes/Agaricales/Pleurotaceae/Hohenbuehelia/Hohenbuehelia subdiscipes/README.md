@@ -1,5 +1,4 @@
-Hohenbuehelia subdiscipes Corner SPECIES
-=======
+# Hohenbuehelia subdiscipes Corner SPECIES
 
 #### Status
 ACCEPTED

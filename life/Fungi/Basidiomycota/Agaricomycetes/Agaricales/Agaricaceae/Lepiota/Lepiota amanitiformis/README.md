@@ -1,5 +1,4 @@
-Lepiota amanitiformis Murrill SPECIES
-=======
+# Lepiota amanitiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

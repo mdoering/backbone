@@ -1,5 +1,4 @@
-Vindobona G.G.Claus GENUS
-=======
+# Vindobona G.G.Claus GENUS
 
 #### Status
 ACCEPTED

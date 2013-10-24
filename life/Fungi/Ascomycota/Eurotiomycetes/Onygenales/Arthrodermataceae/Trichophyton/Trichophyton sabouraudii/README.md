@@ -1,5 +1,4 @@
-Trichophyton sabouraudii R. Blanch. SPECIES
-=======
+# Trichophyton sabouraudii R. Blanch. SPECIES
 
 #### Status
 ACCEPTED

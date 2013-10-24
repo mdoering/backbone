@@ -1,5 +1,4 @@
-Gloeosporium kicksiae Delacr. SPECIES
-=======
+# Gloeosporium kicksiae Delacr. SPECIES
 
 #### Status
 ACCEPTED

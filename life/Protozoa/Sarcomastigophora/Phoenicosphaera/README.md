@@ -1,5 +1,4 @@
-Phoenicosphaera Haeckel, 1887 GENUS
-=======
+# Phoenicosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia lankaensis Hale SPECIES
-=======
+# Ocellularia lankaensis Hale SPECIES
 
 #### Status
 ACCEPTED

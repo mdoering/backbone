@@ -1,5 +1,4 @@
-Pseudomonas psychrophila Yumoto et al., 2002 SPECIES
-=======
+# Pseudomonas psychrophila Yumoto et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

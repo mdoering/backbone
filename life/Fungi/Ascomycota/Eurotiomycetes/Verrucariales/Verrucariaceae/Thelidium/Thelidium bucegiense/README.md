@@ -1,5 +1,4 @@
-Thelidium bucegiense Servít SPECIES
-=======
+# Thelidium bucegiense Servít SPECIES
 
 #### Status
 ACCEPTED

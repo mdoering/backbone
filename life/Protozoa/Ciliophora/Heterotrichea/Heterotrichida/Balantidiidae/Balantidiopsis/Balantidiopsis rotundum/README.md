@@ -1,5 +1,4 @@
-Balantidiopsis rotundum SPECIES
-=======
+# Balantidiopsis rotundum SPECIES
 
 #### Status
 ACCEPTED

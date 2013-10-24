@@ -1,5 +1,4 @@
-Indiella reynieri Brumpt SPECIES
-=======
+# Indiella reynieri Brumpt SPECIES
 
 #### Status
 ACCEPTED

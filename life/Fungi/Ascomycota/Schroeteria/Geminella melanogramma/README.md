@@ -1,5 +1,4 @@
-Geminella melanogramma Magnus SPECIES
-=======
+# Geminella melanogramma Magnus SPECIES
 
 #### Status
 ACCEPTED

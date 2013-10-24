@@ -1,14 +1,13 @@
-Agaricus arrhenii Fr., 1838 SPECIES
-=======
+# Conocybe arrhenii (Fr.) Kits van Wav., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 161 (1838)
+Persoonia 6(1): 147 (1970)
 
 #### Original name
 Agaricus arrhenii Fr., 1838

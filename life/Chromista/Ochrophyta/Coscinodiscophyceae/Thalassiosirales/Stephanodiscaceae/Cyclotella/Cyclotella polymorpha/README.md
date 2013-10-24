@@ -1,5 +1,4 @@
-Cyclotella polymorpha B. Meyer & H. Håkansson SPECIES
-=======
+# Cyclotella polymorpha B. Meyer & H. Håkansson SPECIES
 
 #### Status
 ACCEPTED

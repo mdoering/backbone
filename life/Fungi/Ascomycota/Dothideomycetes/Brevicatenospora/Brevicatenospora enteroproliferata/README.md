@@ -1,5 +1,4 @@
-Brevicatenospora enteroproliferata R.F. Castañeda, Minter & Saikawa, 2006 SPECIES
-=======
+# Brevicatenospora enteroproliferata R.F. Castañeda, Minter & Saikawa, 2006 SPECIES
 
 #### Status
 ACCEPTED

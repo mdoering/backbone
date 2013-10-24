@@ -1,5 +1,4 @@
-Paramastix conifera Skuja SPECIES
-=======
+# Paramastix conifera Skuja SPECIES
 
 #### Status
 ACCEPTED

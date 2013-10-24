@@ -1,5 +1,4 @@
-Lecidella pontifica Körb. SPECIES
-=======
+# Lecidella pontifica Körb. SPECIES
 
 #### Status
 ACCEPTED

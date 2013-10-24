@@ -1,5 +1,4 @@
-Rhizoplacopsidaceae J.C. Wei & Q.M. Zhou FAMILY
-=======
+# Rhizoplacopsidaceae J.C. Wei & Q.M. Zhou FAMILY
 
 #### Status
 ACCEPTED

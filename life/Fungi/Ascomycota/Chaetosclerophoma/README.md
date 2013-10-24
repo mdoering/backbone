@@ -1,5 +1,4 @@
-Chaetosclerophoma Petr. GENUS
-=======
+# Chaetosclerophoma Petr. GENUS
 
 #### Status
 ACCEPTED

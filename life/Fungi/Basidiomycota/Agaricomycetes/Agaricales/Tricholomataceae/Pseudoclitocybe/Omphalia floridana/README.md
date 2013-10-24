@@ -1,5 +1,4 @@
-Omphalia floridana (Murrill) Murrill SPECIES
-=======
+# Omphalia floridana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

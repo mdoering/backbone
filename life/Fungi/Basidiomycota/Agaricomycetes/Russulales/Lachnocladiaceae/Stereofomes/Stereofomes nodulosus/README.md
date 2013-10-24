@@ -1,5 +1,4 @@
-Stereofomes nodulosus Rick, 1928 SPECIES
-=======
+# Stereofomes nodulosus Rick, 1928 SPECIES
 
 #### Status
 ACCEPTED

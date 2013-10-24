@@ -1,5 +1,4 @@
-Cercospora adusta Heald & F.A. Wolf SPECIES
-=======
+# Cercospora adusta Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

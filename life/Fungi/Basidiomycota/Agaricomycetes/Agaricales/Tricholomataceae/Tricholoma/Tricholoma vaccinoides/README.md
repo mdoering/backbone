@@ -1,5 +1,4 @@
-Tricholoma vaccinoides Pilát SPECIES
-=======
+# Tricholoma vaccinoides Pilát SPECIES
 
 #### Status
 ACCEPTED

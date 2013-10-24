@@ -1,17 +1,16 @@
-Venturia pirina f. piri Bref. FORM
-=======
+# Venturia pirina Aderh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Landwirtschaftliche Jahrbucher 25: 875 (1896)
 
 #### Original name
-Venturia pirina f. piri Bref.
+Venturia pirina Aderh.
 
 ### Remarks
 null

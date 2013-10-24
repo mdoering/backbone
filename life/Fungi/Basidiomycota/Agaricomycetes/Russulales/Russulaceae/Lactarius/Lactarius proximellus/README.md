@@ -1,17 +1,16 @@
-Lactaria proximella Beardslee & Burl. SPECIES
-=======
+# Lactarius proximellus Beardslee & Burl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 32: 578 (1940)
 
 #### Original name
-Lactaria proximella Beardslee & Burl.
+Lactarius proximellus Beardslee & Burl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Corticium flammans Fr. SPECIES
-=======
+# Corticium flammans Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomidium biapiculatum Lodha SPECIES
-=======
+# Chaetomidium biapiculatum Lodha SPECIES
 
 #### Status
 ACCEPTED

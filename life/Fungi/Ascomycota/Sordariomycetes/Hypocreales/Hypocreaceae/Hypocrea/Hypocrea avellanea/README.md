@@ -1,5 +1,4 @@
-Hypocrea avellanea Rogerson & S.T. Carey SPECIES
-=======
+# Hypocrea avellanea Rogerson & S.T. Carey SPECIES
 
 #### Status
 ACCEPTED

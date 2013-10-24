@@ -1,5 +1,4 @@
-Acarospora negligens H. Magn. SPECIES
-=======
+# Acarospora negligens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

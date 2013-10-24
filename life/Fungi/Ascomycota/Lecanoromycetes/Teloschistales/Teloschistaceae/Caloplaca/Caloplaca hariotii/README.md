@@ -1,5 +1,4 @@
-Caloplaca hariotii (Müll. Arg.) Darb. SPECIES
-=======
+# Caloplaca hariotii (Müll. Arg.) Darb. SPECIES
 
 #### Status
 ACCEPTED

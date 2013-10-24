@@ -1,5 +1,4 @@
-Phloeoconis Fr. GENUS
-=======
+# Phloeoconis Fr. GENUS
 
 #### Status
 ACCEPTED

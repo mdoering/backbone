@@ -1,5 +1,4 @@
-Flammula paxiana Henn. SPECIES
-=======
+# Flammula paxiana Henn. SPECIES
 
 #### Status
 ACCEPTED

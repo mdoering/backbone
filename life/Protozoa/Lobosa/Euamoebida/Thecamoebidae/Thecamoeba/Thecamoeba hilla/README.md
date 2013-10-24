@@ -1,5 +1,4 @@
-Thecamoeba hilla Schaeffer, 1926 SPECIES
-=======
+# Thecamoeba hilla Schaeffer, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria norstictica A. W. Archer SPECIES
-=======
+# Pertusaria norstictica A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

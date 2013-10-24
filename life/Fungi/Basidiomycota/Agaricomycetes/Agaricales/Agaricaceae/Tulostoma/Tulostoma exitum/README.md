@@ -1,5 +1,4 @@
-Tulostoma exitum Long & S. Ahmad SPECIES
-=======
+# Tulostoma exitum Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delitschia microspora Oudem., 1882 SPECIES
-=======
+# Delitschia microspora Oudem., 1882 SPECIES
 
 #### Status
 ACCEPTED

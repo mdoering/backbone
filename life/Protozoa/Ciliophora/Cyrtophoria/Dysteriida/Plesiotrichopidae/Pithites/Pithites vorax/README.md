@@ -1,5 +1,4 @@
-Pithites vorax Deroux & Dragesco, 1968 SPECIES
-=======
+# Pithites vorax Deroux & Dragesco, 1968 SPECIES
 
 #### Status
 ACCEPTED

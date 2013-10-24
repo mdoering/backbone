@@ -1,5 +1,4 @@
-Pleospora megalotheca Tracy & Earle SPECIES
-=======
+# Pleospora megalotheca Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Appendiculella rimbachii (Pat.) Hansf. SPECIES
-=======
+# Appendiculella rimbachii (Pat.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

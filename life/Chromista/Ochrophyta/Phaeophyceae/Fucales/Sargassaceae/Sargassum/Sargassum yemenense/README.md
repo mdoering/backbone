@@ -1,5 +1,4 @@
-Sargassum yemenense SPECIES
-=======
+# Sargassum yemenense SPECIES
 
 #### Status
 ACCEPTED

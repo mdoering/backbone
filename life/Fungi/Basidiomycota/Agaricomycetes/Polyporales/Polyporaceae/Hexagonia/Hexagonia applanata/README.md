@@ -1,5 +1,4 @@
-Hexagonia applanata (Bres.) Lloyd SPECIES
-=======
+# Hexagonia applanata (Bres.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

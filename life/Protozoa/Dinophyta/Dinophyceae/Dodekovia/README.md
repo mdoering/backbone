@@ -1,5 +1,4 @@
-Dodekovia G. Dörhöfer & E.H. Davies, 1980 GENUS
-=======
+# Dodekovia G. Dörhöfer & E.H. Davies, 1980 GENUS
 
 #### Status
 ACCEPTED

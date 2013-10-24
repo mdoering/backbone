@@ -1,14 +1,13 @@
-Tilletia corcontica Bubák, 1912 SPECIES
-=======
+# Ustilago corcontica (Bubák) Liro, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Die Ustilageen Finlands 1: 383 & 385 (1924)
 
 #### Original name
 Tilletia corcontica Bubák, 1912

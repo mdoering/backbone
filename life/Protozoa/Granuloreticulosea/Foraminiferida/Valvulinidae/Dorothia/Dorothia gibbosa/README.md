@@ -1,5 +1,4 @@
-Dorothia gibbosa (d'Orbigny) SPECIES
-=======
+# Dorothia gibbosa (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

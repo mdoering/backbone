@@ -1,5 +1,4 @@
-Hypoxylon jecorinum Berk. & Ravenel, 1875 SPECIES
-=======
+# Hypoxylon jecorinum Berk. & Ravenel, 1875 SPECIES
 
 #### Status
 ACCEPTED

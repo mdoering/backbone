@@ -1,5 +1,4 @@
-Myxosarcina minuta Vogl SPECIES
-=======
+# Myxosarcina minuta Vogl SPECIES
 
 #### Status
 ACCEPTED

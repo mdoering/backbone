@@ -1,5 +1,4 @@
-Eriomycopsis trichiliae Hansf. SPECIES
-=======
+# Eriomycopsis trichiliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

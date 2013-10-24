@@ -1,5 +1,4 @@
-Lecidea perlutescens SPECIES
-=======
+# Lecidea perlutescens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Foninia K.B. Korde, 1973 GENUS
-=======
+# Foninia K.B. Korde, 1973 GENUS
 
 #### Status
 ACCEPTED

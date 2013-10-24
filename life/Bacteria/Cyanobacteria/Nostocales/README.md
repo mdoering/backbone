@@ -1,5 +1,4 @@
-Nostocales ORDER
-=======
+# Nostocales ORDER
 
 #### Status
 ACCEPTED

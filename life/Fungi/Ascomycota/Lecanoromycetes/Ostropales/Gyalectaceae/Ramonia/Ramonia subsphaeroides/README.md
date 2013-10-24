@@ -1,5 +1,4 @@
-Ramonia subsphaeroides (Tav.) Vezda SPECIES
-=======
+# Ramonia subsphaeroides (Tav.) Vezda SPECIES
 
 #### Status
 ACCEPTED

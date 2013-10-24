@@ -1,5 +1,4 @@
-Dileptus longitrichus SPECIES
-=======
+# Dileptus longitrichus SPECIES
 
 #### Status
 ACCEPTED

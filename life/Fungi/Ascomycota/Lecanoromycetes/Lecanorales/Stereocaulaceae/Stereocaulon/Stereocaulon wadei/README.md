@@ -1,5 +1,4 @@
-Stereocaulon wadei I.M. Lamb SPECIES
-=======
+# Stereocaulon wadei I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

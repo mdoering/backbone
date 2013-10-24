@@ -1,8 +1,7 @@
-Microthelia anonacea Müll. Arg. SPECIES
-=======
+# Microthelia annonacea Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microthelia anonacea Müll. Arg.
+Microthelia annonacea Müll. Arg.
 
 ### Remarks
 null

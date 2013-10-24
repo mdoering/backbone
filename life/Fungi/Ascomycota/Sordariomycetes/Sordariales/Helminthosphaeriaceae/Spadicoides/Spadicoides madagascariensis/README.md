@@ -1,5 +1,4 @@
-Spadicoides madagascariensis Melnik SPECIES
-=======
+# Spadicoides madagascariensis Melnik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia hemisphaerica Sacc. & Paol. SPECIES
-=======
+# Rosellinia hemisphaerica Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

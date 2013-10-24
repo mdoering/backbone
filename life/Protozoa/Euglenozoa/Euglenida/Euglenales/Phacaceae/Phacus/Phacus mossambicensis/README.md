@@ -1,5 +1,4 @@
-Phacus mossambicensis J.A. Rino SPECIES
-=======
+# Phacus mossambicensis J.A. Rino SPECIES
 
 #### Status
 ACCEPTED

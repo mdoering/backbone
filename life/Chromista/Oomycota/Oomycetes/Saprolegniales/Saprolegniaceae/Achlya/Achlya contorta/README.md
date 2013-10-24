@@ -1,5 +1,4 @@
-Achlya contorta Cornu SPECIES
-=======
+# Achlya contorta Cornu SPECIES
 
 #### Status
 ACCEPTED

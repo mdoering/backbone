@@ -1,5 +1,4 @@
-Phaeographina coorgiana Patw. & C.R. Kulk. SPECIES
-=======
+# Phaeographina coorgiana Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula subsimplex SPECIES
-=======
+# Pyrenula subsimplex SPECIES
 
 #### Status
 ACCEPTED

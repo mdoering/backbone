@@ -1,5 +1,4 @@
-Conocybe haglundii Hauskn. SPECIES
-=======
+# Conocybe haglundii Hauskn. SPECIES
 
 #### Status
 ACCEPTED

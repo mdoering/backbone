@@ -1,5 +1,4 @@
-Septoria bunchosiae Toro SPECIES
-=======
+# Septoria bunchosiae Toro SPECIES
 
 #### Status
 ACCEPTED

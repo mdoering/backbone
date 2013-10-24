@@ -1,17 +1,16 @@
-Leptonia viridimarginata Cleland SPECIES
-=======
+# Entoloma viridomarginatum (Cleland) E. Horak, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 65: 301 (1980)
 
 #### Original name
-Leptonia viridimarginata Cleland
+Leptonia viridomarginata Cleland, 1927
 
 ### Remarks
 null

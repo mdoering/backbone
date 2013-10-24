@@ -1,5 +1,4 @@
-Lentinus tenuissimus (Schwein.) Fr. SPECIES
-=======
+# Lentinus tenuissimus (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

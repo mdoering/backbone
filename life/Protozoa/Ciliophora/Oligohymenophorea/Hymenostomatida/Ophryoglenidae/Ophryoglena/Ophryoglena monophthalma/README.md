@@ -1,5 +1,4 @@
-Ophryoglena monophthalma SPECIES
-=======
+# Ophryoglena monophthalma SPECIES
 
 #### Status
 ACCEPTED

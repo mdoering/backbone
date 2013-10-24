@@ -1,5 +1,4 @@
-Submersisphaeria K.D. Hyde GENUS
-=======
+# Submersisphaeria K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

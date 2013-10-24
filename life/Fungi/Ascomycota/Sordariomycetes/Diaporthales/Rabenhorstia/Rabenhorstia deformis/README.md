@@ -1,5 +1,4 @@
-Rabenhorstia deformis (Fr.) P. Karst. SPECIES
-=======
+# Rabenhorstia deformis (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

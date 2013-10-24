@@ -1,5 +1,4 @@
-Laminaria turneri Bory de St.-Vincent SPECIES
-=======
+# Laminaria turneri Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

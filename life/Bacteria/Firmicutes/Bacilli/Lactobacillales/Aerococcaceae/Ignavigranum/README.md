@@ -1,5 +1,4 @@
-Ignavigranum Collins et al., 1999 GENUS
-=======
+# Ignavigranum Collins et al., 1999 GENUS
 
 #### Status
 ACCEPTED

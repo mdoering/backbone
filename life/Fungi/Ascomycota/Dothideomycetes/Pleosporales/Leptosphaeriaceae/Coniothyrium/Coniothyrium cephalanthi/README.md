@@ -1,5 +1,4 @@
-Coniothyrium cephalanthi Ellis & Everh. SPECIES
-=======
+# Coniothyrium cephalanthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

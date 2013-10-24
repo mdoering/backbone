@@ -1,5 +1,4 @@
-Dicaeoma apocryptum (Ellis & Tracy) Kuntze SPECIES
-=======
+# Dicaeoma apocryptum (Ellis & Tracy) Kuntze SPECIES
 
 #### Status
 ACCEPTED

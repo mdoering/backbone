@@ -1,5 +1,4 @@
-Laboulbenia brasiliensis Thaxt. SPECIES
-=======
+# Laboulbenia brasiliensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

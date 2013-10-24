@@ -1,5 +1,4 @@
-Globuliroseum Sullia & K.R. Khan GENUS
-=======
+# Globuliroseum Sullia & K.R. Khan GENUS
 
 #### Status
 ACCEPTED

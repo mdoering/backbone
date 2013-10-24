@@ -1,5 +1,4 @@
-Tricholoma pygmaeum Velen. SPECIES
-=======
+# Tricholoma pygmaeum Velen. SPECIES
 
 #### Status
 ACCEPTED

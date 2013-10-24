@@ -1,5 +1,4 @@
-Gorgoniceps rubicola (Pat.) Sacc. SPECIES
-=======
+# Gorgoniceps rubicola (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

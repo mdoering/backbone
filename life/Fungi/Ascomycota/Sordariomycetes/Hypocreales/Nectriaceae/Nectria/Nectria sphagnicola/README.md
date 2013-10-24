@@ -1,5 +1,4 @@
-Nectria sphagnicola Kirschst. SPECIES
-=======
+# Nectria sphagnicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Azospirillum amazonense Magalhães et al., 1984 SPECIES
-=======
+# Azospirillum amazonense Magalhães et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrella tenuispora P.G. Liu & Zu Q. Li SPECIES
-=======
+# Hypocrella tenuispora P.G. Liu & Zu Q. Li SPECIES
 
 #### Status
 ACCEPTED

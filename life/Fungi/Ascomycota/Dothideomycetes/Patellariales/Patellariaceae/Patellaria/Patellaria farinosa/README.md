@@ -1,5 +1,4 @@
-Patellaria farinosa ? speirematica Wallr. SPECIES
-=======
+# Patellaria farinosa ? speirematica Wallr. SPECIES
 
 #### Status
 ACCEPTED

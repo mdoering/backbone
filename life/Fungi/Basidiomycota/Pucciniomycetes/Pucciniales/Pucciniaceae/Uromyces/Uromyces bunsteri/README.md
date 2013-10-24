@@ -1,5 +1,4 @@
-Uromyces bunsteri (Neger) H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces bunsteri (Neger) H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

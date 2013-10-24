@@ -1,5 +1,4 @@
-Lanzia quercifolia (K.S. Thind, E.K. Cash & Pr. Singh) K.S. Thind & M.P. Sharma SPECIES
-=======
+# Lanzia quercifolia (K.S. Thind, E.K. Cash & Pr. Singh) K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

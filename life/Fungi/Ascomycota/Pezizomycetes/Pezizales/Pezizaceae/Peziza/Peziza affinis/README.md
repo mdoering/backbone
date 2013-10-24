@@ -1,5 +1,4 @@
-Peziza affinis I.G. Borshch. SPECIES
-=======
+# Peziza affinis I.G. Borshch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amandinea xylographella (Nyl.) Marbach SPECIES
-=======
+# Amandinea xylographella (Nyl.) Marbach SPECIES
 
 #### Status
 ACCEPTED

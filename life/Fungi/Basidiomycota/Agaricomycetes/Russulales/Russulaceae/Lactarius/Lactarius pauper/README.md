@@ -1,5 +1,4 @@
-Lactarius pauper (P. Karst.) P. Karst. SPECIES
-=======
+# Lactarius pauper (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zukalia loganiensis (Sacc. & Berl.) Sacc. SPECIES
-=======
+# Zukalia loganiensis (Sacc. & Berl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

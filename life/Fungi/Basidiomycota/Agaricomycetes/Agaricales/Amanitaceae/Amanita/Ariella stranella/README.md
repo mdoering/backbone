@@ -1,5 +1,4 @@
-Ariella stranella (E.-J. Gilbert & Snell) E.-J. Gilbert SPECIES
-=======
+# Ariella stranella (E.-J. Gilbert & Snell) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

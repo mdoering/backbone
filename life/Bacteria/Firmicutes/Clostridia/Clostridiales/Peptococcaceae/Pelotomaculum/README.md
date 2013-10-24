@@ -1,5 +1,4 @@
-Pelotomaculum Imachi et al., 2002 GENUS
-=======
+# Pelotomaculum Imachi et al., 2002 GENUS
 
 #### Status
 ACCEPTED

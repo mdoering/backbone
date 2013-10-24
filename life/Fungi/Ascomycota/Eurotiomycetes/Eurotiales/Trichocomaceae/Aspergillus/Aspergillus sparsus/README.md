@@ -1,5 +1,4 @@
-Aspergillus sparsus Raper & Thom, 1944 SPECIES
-=======
+# Aspergillus sparsus Raper & Thom, 1944 SPECIES
 
 #### Status
 ACCEPTED

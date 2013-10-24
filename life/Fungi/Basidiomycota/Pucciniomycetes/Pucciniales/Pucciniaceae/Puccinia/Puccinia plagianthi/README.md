@@ -1,5 +1,4 @@
-Puccinia plagianthi McAlpine, 1895 SPECIES
-=======
+# Puccinia plagianthi McAlpine, 1895 SPECIES
 
 #### Status
 ACCEPTED

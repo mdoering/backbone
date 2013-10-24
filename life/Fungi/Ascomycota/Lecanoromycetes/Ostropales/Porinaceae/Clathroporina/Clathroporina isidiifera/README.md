@@ -1,5 +1,4 @@
-Clathroporina isidiifera R. C. Harris SPECIES
-=======
+# Clathroporina isidiifera R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

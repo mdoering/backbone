@@ -1,5 +1,4 @@
-Agaricus herinkii Wasser SPECIES
-=======
+# Agaricus herinkii Wasser SPECIES
 
 #### Status
 ACCEPTED

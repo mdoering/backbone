@@ -1,5 +1,4 @@
-Physalospora transversalis Syd. & P. Syd. SPECIES
-=======
+# Physalospora transversalis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

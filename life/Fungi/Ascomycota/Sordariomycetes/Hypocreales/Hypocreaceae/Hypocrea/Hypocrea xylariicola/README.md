@@ -1,5 +1,4 @@
-Hypocrea xylariicola Henn. SPECIES
-=======
+# Hypocrea xylariicola Henn. SPECIES
 
 #### Status
 ACCEPTED

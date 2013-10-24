@@ -1,5 +1,4 @@
-Anabaena scheremetievii var. recta Elenkin VARIETY
-=======
+# Anabaena scheremetievii Elenkin SPECIES
 
 #### Status
 ACCEPTED

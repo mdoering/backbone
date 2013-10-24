@@ -1,5 +1,4 @@
-Lecanostictopsis eucalypti Crous, 1998 SPECIES
-=======
+# Lecanostictopsis eucalypti Crous, 1998 SPECIES
 
 #### Status
 ACCEPTED

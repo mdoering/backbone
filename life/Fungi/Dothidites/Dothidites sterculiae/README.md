@@ -1,5 +1,4 @@
-Dothidites sterculiae (Ettingsh.) Mesch. SPECIES
-=======
+# Dothidites sterculiae (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

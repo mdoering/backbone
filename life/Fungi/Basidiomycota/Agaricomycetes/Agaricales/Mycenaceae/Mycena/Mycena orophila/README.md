@@ -1,5 +1,4 @@
-Mycena orophila Romagn. SPECIES
-=======
+# Mycena orophila Romagn. SPECIES
 
 #### Status
 ACCEPTED

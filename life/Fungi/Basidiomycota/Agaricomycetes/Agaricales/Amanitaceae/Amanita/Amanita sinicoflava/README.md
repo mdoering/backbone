@@ -1,5 +1,4 @@
-Amanita sinicoflava Tulloss SPECIES
-=======
+# Amanita sinicoflava Tulloss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Stentor oligonucleatus Sokoloff, 1930 SPECIES
-=======
+# Stentor pyriformis Johnson, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

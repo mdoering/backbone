@@ -1,5 +1,4 @@
-Rinodina bicolor Zahlbr. SPECIES
-=======
+# Rinodina bicolor Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

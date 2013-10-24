@@ -1,5 +1,4 @@
-Chaetophoma halimodendri Murashk. SPECIES
-=======
+# Chaetophoma halimodendri Murashk. SPECIES
 
 #### Status
 ACCEPTED

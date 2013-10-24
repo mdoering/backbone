@@ -1,5 +1,4 @@
-Cercospora satina G.K. Sutherl. SPECIES
-=======
+# Cercospora satina G.K. Sutherl. SPECIES
 
 #### Status
 ACCEPTED

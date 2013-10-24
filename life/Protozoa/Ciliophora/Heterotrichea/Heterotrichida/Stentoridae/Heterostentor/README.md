@@ -1,5 +1,4 @@
-Heterostentor Song & Wilbert, 2002 GENUS
-=======
+# Heterostentor Song & Wilbert, 2002 GENUS
 
 #### Status
 ACCEPTED

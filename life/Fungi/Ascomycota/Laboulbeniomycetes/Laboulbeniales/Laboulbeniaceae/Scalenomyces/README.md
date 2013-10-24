@@ -1,5 +1,4 @@
-Scalenomyces I.I. Tav. GENUS
-=======
+# Scalenomyces I.I. Tav. GENUS
 
 #### Status
 ACCEPTED

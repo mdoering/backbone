@@ -1,5 +1,4 @@
-Torula rhombica V. Rao & de Hoog SPECIES
-=======
+# Torula rhombica V. Rao & de Hoog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium truncicola (Singer) Redhead SPECIES
-=======
+# Helotium truncicola (Singer) Redhead SPECIES
 
 #### Status
 ACCEPTED

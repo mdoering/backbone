@@ -1,5 +1,4 @@
-Diaporthe dickiae Speg. SPECIES
-=======
+# Diaporthe dickiae Speg. SPECIES
 
 #### Status
 ACCEPTED

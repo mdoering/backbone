@@ -1,5 +1,4 @@
-Entyloma khandalensis M.S. Patil & Gandhe, 1997 SPECIES
-=======
+# Entyloma khandalensis M.S. Patil & Gandhe, 1997 SPECIES
 
 #### Status
 ACCEPTED

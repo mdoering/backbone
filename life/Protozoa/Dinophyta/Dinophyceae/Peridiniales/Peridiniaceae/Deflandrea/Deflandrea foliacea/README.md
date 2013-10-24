@@ -1,5 +1,4 @@
-Deflandrea foliacea Eisenack & Cookson, 1960 SPECIES
-=======
+# Deflandrea foliacea Eisenack & Cookson, 1960 SPECIES
 
 #### Status
 ACCEPTED

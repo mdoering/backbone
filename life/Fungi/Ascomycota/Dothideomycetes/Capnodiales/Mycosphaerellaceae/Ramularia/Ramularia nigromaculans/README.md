@@ -1,5 +1,4 @@
-Ramularia nigromaculans Shear SPECIES
-=======
+# Ramularia nigromaculans Shear SPECIES
 
 #### Status
 ACCEPTED

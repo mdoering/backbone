@@ -1,5 +1,4 @@
-Xylaria schreuderiana Van der Byl, 1932 SPECIES
-=======
+# Xylaria schreuderiana Van der Byl, 1932 SPECIES
 
 #### Status
 ACCEPTED

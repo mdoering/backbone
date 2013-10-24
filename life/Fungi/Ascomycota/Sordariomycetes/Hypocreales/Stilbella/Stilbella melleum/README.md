@@ -1,5 +1,4 @@
-Stilbella melleum anon. SPECIES
-=======
+# Stilbella melleum anon. SPECIES
 
 #### Status
 ACCEPTED

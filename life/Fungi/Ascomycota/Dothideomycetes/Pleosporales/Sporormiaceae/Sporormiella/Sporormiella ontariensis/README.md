@@ -1,5 +1,4 @@
-Sporormiella ontariensis (Cain) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella ontariensis (Cain) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

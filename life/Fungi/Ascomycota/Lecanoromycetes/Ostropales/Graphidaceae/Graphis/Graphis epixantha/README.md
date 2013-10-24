@@ -1,5 +1,4 @@
-Graphis epixantha Mont. & Bosch SPECIES
-=======
+# Graphis epixantha Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

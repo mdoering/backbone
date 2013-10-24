@@ -1,5 +1,4 @@
-Inocybe hebelomoides Kühner SPECIES
-=======
+# Inocybe hebelomoides Kühner SPECIES
 
 #### Status
 ACCEPTED

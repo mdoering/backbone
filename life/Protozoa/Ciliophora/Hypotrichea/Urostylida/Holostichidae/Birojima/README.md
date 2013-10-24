@@ -1,5 +1,4 @@
-Birojima Berger & Foissner, 1989 GENUS
-=======
+# Birojima Berger & Foissner, 1989 GENUS
 
 #### Status
 ACCEPTED

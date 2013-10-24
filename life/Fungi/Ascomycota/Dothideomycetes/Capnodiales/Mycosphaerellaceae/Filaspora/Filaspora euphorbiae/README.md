@@ -1,5 +1,4 @@
-Filaspora euphorbiae (Brunaud) Kuntze SPECIES
-=======
+# Filaspora euphorbiae (Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

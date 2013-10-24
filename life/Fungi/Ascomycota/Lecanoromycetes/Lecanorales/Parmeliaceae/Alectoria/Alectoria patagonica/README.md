@@ -1,5 +1,4 @@
-Alectoria patagonica R. Sant. SPECIES
-=======
+# Alectoria patagonica R. Sant. SPECIES
 
 #### Status
 ACCEPTED

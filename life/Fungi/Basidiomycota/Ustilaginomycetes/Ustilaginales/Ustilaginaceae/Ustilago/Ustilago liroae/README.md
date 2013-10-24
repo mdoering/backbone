@@ -1,5 +1,4 @@
-Ustilago liroae Zundel SPECIES
-=======
+# Ustilago liroae Zundel SPECIES
 
 #### Status
 ACCEPTED

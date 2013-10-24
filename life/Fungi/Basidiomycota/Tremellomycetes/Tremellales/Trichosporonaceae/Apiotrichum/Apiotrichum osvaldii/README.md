@@ -1,5 +1,4 @@
-Apiotrichum osvaldii C. Ramírez & A.E. González SPECIES
-=======
+# Apiotrichum osvaldii C. Ramírez & A.E. González SPECIES
 
 #### Status
 ACCEPTED

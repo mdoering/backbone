@@ -1,14 +1,13 @@
-Phacidium piceae Fuckel, 1874 SPECIES
-=======
+# Lophodermium piceae (Fuckel) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 27-28: 51 (1874)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 126(1): 296 (1917)
 
 #### Original name
 Phacidium piceae Fuckel, 1874

@@ -1,8 +1,7 @@
-Parafissurina scaphaeformis Parr, 1950 SPECIES
-=======
+# Ventrostoma scaphaeformis (Parr, 1950)    SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

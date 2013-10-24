@@ -1,5 +1,4 @@
-Cytosporella cinnamomi Turconi SPECIES
-=======
+# Cytosporella cinnamomi Turconi SPECIES
 
 #### Status
 ACCEPTED

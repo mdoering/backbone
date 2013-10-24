@@ -1,17 +1,16 @@
-Lobarina isidiosa f. isidiosa FORM
-=======
+# Lobaria isidiosa (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lobarina isidiosa f. isidiosa
+Sticta retigera f. isidiosa Müll. Arg.
 
 ### Remarks
 null

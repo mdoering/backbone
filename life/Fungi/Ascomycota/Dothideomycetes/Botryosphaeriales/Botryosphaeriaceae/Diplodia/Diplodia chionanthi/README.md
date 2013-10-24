@@ -1,5 +1,4 @@
-Diplodia chionanthi Cooke & Ellis SPECIES
-=======
+# Diplodia chionanthi Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

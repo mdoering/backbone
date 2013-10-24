@@ -1,5 +1,4 @@
-Dicaeoma pulcherrimum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma pulcherrimum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

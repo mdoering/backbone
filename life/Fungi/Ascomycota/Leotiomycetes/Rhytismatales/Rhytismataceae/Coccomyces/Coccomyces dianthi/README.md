@@ -1,5 +1,4 @@
-Coccomyces dianthi (Fuckel) Rehm SPECIES
-=======
+# Coccomyces dianthi (Fuckel) Rehm SPECIES
 
 #### Status
 ACCEPTED

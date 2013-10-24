@@ -1,5 +1,4 @@
-Sebacina bresadolae Lloyd SPECIES
-=======
+# Sebacina bresadolae Lloyd SPECIES
 
 #### Status
 ACCEPTED

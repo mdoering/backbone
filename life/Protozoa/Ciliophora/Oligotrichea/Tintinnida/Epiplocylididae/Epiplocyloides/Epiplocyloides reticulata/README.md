@@ -1,8 +1,7 @@
-Epiplocylis reticulata Jörgensen, 1924 SPECIES
-=======
+# Epiplocyloides reticulata (Ostenfeld & Schmidt, 1901) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

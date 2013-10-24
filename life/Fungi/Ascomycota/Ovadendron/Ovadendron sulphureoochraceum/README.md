@@ -1,5 +1,4 @@
-Ovadendron sulphureoochraceum (J.F.H. Beyma) Sigler & J.W. Carmich., 1976 SPECIES
-=======
+# Ovadendron sulphureoochraceum (J.F.H. Beyma) Sigler & J.W. Carmich., 1976 SPECIES
 
 #### Status
 ACCEPTED

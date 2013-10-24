@@ -1,8 +1,7 @@
-Calloria helotoides (Rehm) Seaver SPECIES
-=======
+# Calloria helotioides (Rehm) Seaver SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

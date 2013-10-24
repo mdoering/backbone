@@ -1,5 +1,4 @@
-Lagenophrys platei Wallengren, 1900 SPECIES
-=======
+# Lagenophrys platei Wallengren, 1900 SPECIES
 
 #### Status
 ACCEPTED

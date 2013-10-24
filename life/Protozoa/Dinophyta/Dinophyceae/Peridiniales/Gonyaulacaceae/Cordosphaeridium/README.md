@@ -1,14 +1,13 @@
-Tityrosphaeridium W.A.S. Sarjeant, 1981 GENUS
-=======
+# Cordosphaeridium Eisenack, 1963 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meyniana 33: 120.
+null
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Parmelina johnstoniae Elix SPECIES
-=======
+# Parmelina johnstoniae Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoramularia hoehnelii Petzoldt SPECIES
-=======
+# Phaeoramularia hoehnelii Petzoldt SPECIES
 
 #### Status
 ACCEPTED

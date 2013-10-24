@@ -1,5 +1,4 @@
-Ramularia conferta (Syd.) U. Braun SPECIES
-=======
+# Ramularia conferta (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

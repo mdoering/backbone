@@ -1,5 +1,4 @@
-Distriactis Haeckel, 1887 GENUS
-=======
+# Distriactis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

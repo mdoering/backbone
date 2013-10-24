@@ -1,5 +1,4 @@
-Russula violaceotunicata Buyck & Courtec. SPECIES
-=======
+# Russula violaceotunicata Buyck & Courtec. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe murrayana Cleland SPECIES
-=======
+# Inocybe murrayana Cleland SPECIES
 
 #### Status
 ACCEPTED

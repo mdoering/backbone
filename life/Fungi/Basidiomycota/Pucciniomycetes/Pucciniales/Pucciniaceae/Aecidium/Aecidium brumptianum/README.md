@@ -1,5 +1,4 @@
-Aecidium brumptianum Pat. & Har. SPECIES
-=======
+# Aecidium brumptianum Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

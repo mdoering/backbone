@@ -1,5 +1,4 @@
-Rhodospirillaceae FAMILY
-=======
+# Rhodospirillaceae FAMILY
 
 #### Status
 ACCEPTED

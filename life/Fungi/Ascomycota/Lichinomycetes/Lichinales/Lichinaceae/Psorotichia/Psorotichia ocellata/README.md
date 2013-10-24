@@ -1,5 +1,4 @@
-Psorotichia ocellata (Th. Fr.) Forssell SPECIES
-=======
+# Psorotichia ocellata (Th. Fr.) Forssell SPECIES
 
 #### Status
 ACCEPTED

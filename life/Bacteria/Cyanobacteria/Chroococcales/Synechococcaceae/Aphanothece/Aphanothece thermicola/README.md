@@ -1,5 +1,4 @@
-Aphanothece thermicola Hindák SPECIES
-=======
+# Aphanothece thermicola Hindák SPECIES
 
 #### Status
 ACCEPTED

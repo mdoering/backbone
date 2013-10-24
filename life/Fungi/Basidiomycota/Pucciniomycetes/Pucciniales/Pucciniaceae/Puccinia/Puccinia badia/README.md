@@ -1,5 +1,4 @@
-Puccinia badia Holw. SPECIES
-=======
+# Puccinia badia Holw. SPECIES
 
 #### Status
 ACCEPTED

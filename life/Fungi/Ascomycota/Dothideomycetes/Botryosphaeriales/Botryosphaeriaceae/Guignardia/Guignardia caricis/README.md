@@ -1,5 +1,4 @@
-Guignardia caricis (Dearn. & House) Dearn. & House SPECIES
-=======
+# Guignardia caricis (Dearn. & House) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

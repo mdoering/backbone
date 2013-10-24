@@ -1,5 +1,4 @@
-Phlegmacium coruscens f. coruscens FORM
-=======
+# Phlegmacium coruscens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phlegmacium coruscens f. coruscens
+Phlegmacium coruscens
 
 ### Remarks
 null

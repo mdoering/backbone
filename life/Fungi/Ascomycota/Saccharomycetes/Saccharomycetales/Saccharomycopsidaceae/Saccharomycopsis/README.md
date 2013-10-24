@@ -1,17 +1,16 @@
-Prosaccharomyces E.K. Novák & Zsolt GENUS
-=======
+# Saccharomycopsis Schiønning, 1903 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. hung. 7: 97, 108 (1961)
+Comptes rendu Trav. Laboratoire d. Carlsberg 6: 124 (1903)
 
 #### Original name
-Prosaccharomyces E.K. Novák & Zsolt
+Saccharomycopsis Schiønning, 1903
 
 ### Remarks
 null

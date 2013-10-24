@@ -1,17 +1,16 @@
-Schaereria decipiens var. decipiens VARIETY
-=======
+# Psora decipiens (Hedw.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Descr. Adumb. Plant. Lich. 2: 681 (1794)
 
 #### Original name
-Schaereria decipiens var. decipiens
+Lecidea decipiens (Hedw.) Ach.
 
 ### Remarks
 null

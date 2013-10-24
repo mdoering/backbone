@@ -1,14 +1,13 @@
-Rhytisma austrocaledonicum Crié, 1874 SPECIES
-=======
+# Criella austrocaledonica (Crié) Sacc. & P. Syd., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. linn. Normandie 8: 446 (1874)
+Syll. fung. (Abellini) 16: 786 (1902)
 
 #### Original name
 Rhytisma austrocaledonicum Crié, 1874

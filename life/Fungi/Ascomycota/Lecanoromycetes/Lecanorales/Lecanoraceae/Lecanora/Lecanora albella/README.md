@@ -1,5 +1,4 @@
-Lecanora pallida subsp. pallida SUBSPECIES
-=======
+# Lecanora albella (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Deutschl. Krypt. -Fl. (Leipzig) 2: 34 (1845)
+Lich. univ. (1810)
 
 #### Original name
-Lecanora pallida subsp. pallida
+Lichen albellus Pers.
 
 ### Remarks
 null

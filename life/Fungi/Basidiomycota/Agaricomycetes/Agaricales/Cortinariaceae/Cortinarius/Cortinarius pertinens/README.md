@@ -1,5 +1,4 @@
-Cortinarius pertinens Britzelm. SPECIES
-=======
+# Cortinarius pertinens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota ascophora (Peck) Singer SPECIES
-=======
+# Pholiota ascophora (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

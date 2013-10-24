@@ -1,5 +1,4 @@
-Pestalotia conceptionis Speg. SPECIES
-=======
+# Pestalotia conceptionis Speg. SPECIES
 
 #### Status
 ACCEPTED

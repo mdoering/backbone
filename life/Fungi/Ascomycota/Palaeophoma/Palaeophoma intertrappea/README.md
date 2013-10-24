@@ -1,5 +1,4 @@
-Palaeophoma intertrappea Singhai SPECIES
-=======
+# Palaeophoma intertrappea Singhai SPECIES
 
 #### Status
 ACCEPTED

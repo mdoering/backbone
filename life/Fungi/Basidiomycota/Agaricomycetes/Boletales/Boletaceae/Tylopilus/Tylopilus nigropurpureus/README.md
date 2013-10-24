@@ -1,5 +1,4 @@
-Tylopilus nigropurpureus (Corner) Hongo SPECIES
-=======
+# Tylopilus nigropurpureus (Corner) Hongo SPECIES
 
 #### Status
 ACCEPTED

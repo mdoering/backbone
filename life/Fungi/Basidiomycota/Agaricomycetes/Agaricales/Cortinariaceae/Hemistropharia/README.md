@@ -1,5 +1,4 @@
-Hemistropharia Jacobsson & E. Larss. GENUS
-=======
+# Hemistropharia Jacobsson & E. Larss. GENUS
 
 #### Status
 ACCEPTED

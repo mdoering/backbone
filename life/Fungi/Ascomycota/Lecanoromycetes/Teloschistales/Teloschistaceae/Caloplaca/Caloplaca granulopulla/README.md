@@ -1,5 +1,4 @@
-Caloplaca granulopulla Mahue & A. Gillet SPECIES
-=======
+# Caloplaca granulopulla Mahue & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

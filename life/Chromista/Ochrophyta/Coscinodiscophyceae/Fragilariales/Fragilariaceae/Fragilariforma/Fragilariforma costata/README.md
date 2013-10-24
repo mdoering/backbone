@@ -1,5 +1,4 @@
-Fragilariforma costata (Z. eháková) D. M. Williams SPECIES
-=======
+# Fragilariforma costata (Z. eháková) D. M. Williams SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacteroides vulgatus Eggerth and Gagnon, 1933 (Approved Lists, 1980) SPECIES
-=======
+# Bacteroides vulgatus Eggerth and Gagnon, 1933 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia abutilonis S. Ahmad SPECIES
-=======
+# Diplodia abutilonis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella sonneratiae Haldar, Ray & A.K. Das SPECIES
-=======
+# Stenella sonneratiae Haldar, Ray & A.K. Das SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohansfordia lanyuensis Matsush. SPECIES
-=======
+# Pseudohansfordia lanyuensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

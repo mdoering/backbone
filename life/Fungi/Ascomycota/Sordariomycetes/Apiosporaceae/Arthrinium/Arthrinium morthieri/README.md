@@ -1,5 +1,4 @@
-Arthrinium morthieri Fuckel, 1870 SPECIES
-=======
+# Arthrinium morthieri Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

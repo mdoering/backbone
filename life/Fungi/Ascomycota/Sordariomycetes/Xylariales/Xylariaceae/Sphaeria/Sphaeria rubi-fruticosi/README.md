@@ -1,5 +1,4 @@
-Sphaeria rubi-fruticosi P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria rubi-fruticosi P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

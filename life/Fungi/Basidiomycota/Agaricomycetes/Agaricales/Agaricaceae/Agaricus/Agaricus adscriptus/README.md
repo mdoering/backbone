@@ -1,5 +1,4 @@
-Agaricus adscriptus Britzelm. SPECIES
-=======
+# Agaricus adscriptus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

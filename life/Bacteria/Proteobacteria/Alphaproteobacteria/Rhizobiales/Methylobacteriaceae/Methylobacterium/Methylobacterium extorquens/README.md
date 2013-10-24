@@ -1,8 +1,7 @@
-Protomonas extorquens (ex Bassalik, 1913) Urakami & Komagata, 1984 SPECIES
-=======
+# Methylobacterium extorquens (Urakami & Komagata, 1984) Bousfield & Green, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

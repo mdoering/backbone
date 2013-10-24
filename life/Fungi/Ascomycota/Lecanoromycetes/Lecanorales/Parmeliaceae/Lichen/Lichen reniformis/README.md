@@ -1,5 +1,4 @@
-Lichen reniformis (Pers.) Ach. SPECIES
-=======
+# Lichen reniformis (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype texensis Ellis & Everh. SPECIES
-=======
+# Diatrype texensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

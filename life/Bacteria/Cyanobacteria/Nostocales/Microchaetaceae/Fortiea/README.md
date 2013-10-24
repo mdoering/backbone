@@ -1,5 +1,4 @@
-Fortiea De Toni, 1936 GENUS
-=======
+# Fortiea De Toni, 1936 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria agrispestis E.G. Simmons & K. Mort. SPECIES
-=======
+# Alternaria agrispestis E.G. Simmons & K. Mort. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellaria pallida (Hoffm.) Baumg. SPECIES
-=======
+# Scutellaria pallida (Hoffm.) Baumg. SPECIES
 
 #### Status
 ACCEPTED

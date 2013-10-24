@@ -1,5 +1,4 @@
-Pleosphaerulina guaranitica (Speg.) Sacc. SPECIES
-=======
+# Pleosphaerulina guaranitica (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

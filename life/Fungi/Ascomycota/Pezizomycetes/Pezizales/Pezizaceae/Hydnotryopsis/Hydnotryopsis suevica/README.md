@@ -1,5 +1,4 @@
-Hydnotryopsis suevica Soehner SPECIES
-=======
+# Hydnotryopsis suevica Soehner SPECIES
 
 #### Status
 ACCEPTED

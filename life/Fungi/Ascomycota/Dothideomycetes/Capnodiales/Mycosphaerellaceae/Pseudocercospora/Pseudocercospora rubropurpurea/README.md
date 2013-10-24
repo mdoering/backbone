@@ -1,5 +1,4 @@
-Pseudocercospora rubropurpurea (S.H. Sun) J.M. Yen SPECIES
-=======
+# Pseudocercospora rubropurpurea (S.H. Sun) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

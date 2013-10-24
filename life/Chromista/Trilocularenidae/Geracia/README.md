@@ -1,5 +1,4 @@
-Geracia Lewis, 2009 GENUS
-=======
+# Geracia Lewis, 2009 GENUS
 
 #### Status
 ACCEPTED

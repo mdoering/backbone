@@ -1,5 +1,4 @@
-Phyllosticta landolphiae Henn. SPECIES
-=======
+# Phyllosticta landolphiae Henn. SPECIES
 
 #### Status
 ACCEPTED

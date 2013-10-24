@@ -1,5 +1,4 @@
-Lophium tillandsiae E.K. Cash SPECIES
-=======
+# Lophium tillandsiae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

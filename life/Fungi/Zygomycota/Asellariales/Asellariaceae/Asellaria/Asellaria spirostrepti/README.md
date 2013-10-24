@@ -1,5 +1,4 @@
-Asellaria spirostrepti Tuzet, Manier & Jolivet SPECIES
-=======
+# Asellaria spirostrepti Tuzet, Manier & Jolivet SPECIES
 
 #### Status
 ACCEPTED

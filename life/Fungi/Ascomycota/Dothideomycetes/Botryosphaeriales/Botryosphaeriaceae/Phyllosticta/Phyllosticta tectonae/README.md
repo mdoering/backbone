@@ -1,5 +1,4 @@
-Phyllosticta tectonae Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Phyllosticta tectonae Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

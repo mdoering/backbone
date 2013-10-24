@@ -1,5 +1,4 @@
-Cortinarius galeriniformis Singer & I.J. Araujo SPECIES
-=======
+# Cortinarius galeriniformis Singer & I.J. Araujo SPECIES
 
 #### Status
 ACCEPTED

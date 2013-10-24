@@ -1,5 +1,4 @@
-Curvicladium Decock & Crous, 1998 GENUS
-=======
+# Curvicladium Decock & Crous, 1998 GENUS
 
 #### Status
 ACCEPTED

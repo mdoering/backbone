@@ -1,5 +1,4 @@
-Otthia lignyodes (Berk. & Broome) Sacc. SPECIES
-=======
+# Otthia lignyodes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

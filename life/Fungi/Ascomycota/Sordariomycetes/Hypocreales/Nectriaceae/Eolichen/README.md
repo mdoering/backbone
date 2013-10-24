@@ -1,5 +1,4 @@
-Eolichen GENUS
-=======
+# Eolichen GENUS
 
 #### Status
 ACCEPTED

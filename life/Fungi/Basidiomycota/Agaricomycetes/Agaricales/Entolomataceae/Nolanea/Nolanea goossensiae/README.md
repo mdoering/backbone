@@ -1,5 +1,4 @@
-Nolanea goossensiae Beeli SPECIES
-=======
+# Nolanea goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia caricae Bagl. SPECIES
-=======
+# Buellia caricae Bagl. SPECIES
 
 #### Status
 ACCEPTED

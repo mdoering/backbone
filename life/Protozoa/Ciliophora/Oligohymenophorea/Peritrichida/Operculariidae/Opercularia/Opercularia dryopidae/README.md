@@ -1,5 +1,4 @@
-Opercularia dryopidae SPECIES
-=======
+# Opercularia dryopidae SPECIES
 
 #### Status
 ACCEPTED

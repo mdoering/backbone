@@ -1,17 +1,16 @@
-Sarcinulella B. Sutton & Alcorn GENUS
-=======
+# Anisomeridium (Müller Arg.) M. Choisy, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycotaxon 16(2): 557 (1983)
+null
 
 #### Original name
-Sarcinulella B. Sutton & Alcorn
+null
 
 ### Remarks
 null

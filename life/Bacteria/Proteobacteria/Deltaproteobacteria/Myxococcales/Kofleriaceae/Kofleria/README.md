@@ -1,5 +1,4 @@
-Kofleria Reichenbach, 2007 GENUS
-=======
+# Kofleria Reichenbach, 2007 GENUS
 
 #### Status
 ACCEPTED

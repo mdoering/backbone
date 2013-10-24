@@ -1,5 +1,4 @@
-Trichopeziza sulfurina (Dennis) Huhtinen SPECIES
-=======
+# Trichopeziza sulfurina (Dennis) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

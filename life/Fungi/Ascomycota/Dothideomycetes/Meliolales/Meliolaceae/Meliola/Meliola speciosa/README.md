@@ -1,5 +1,4 @@
-Meliola speciosa Doidge SPECIES
-=======
+# Meliola speciosa Doidge SPECIES
 
 #### Status
 ACCEPTED

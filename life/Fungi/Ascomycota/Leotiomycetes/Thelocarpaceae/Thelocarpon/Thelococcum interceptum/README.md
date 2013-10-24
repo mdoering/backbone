@@ -1,5 +1,4 @@
-Thelococcum interceptum SPECIES
-=======
+# Thelococcum interceptum SPECIES
 
 #### Status
 ACCEPTED

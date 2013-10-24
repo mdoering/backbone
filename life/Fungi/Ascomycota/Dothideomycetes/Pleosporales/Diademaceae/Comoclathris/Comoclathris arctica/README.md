@@ -1,5 +1,4 @@
-Comoclathris arctica Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris arctica Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

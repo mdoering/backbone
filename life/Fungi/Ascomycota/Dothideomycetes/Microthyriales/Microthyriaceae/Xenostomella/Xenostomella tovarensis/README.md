@@ -1,5 +1,4 @@
-Xenostomella tovarensis Syd., 1930 SPECIES
-=======
+# Xenostomella tovarensis Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

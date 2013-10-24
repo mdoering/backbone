@@ -1,5 +1,4 @@
-Omphalia mellina Velen. SPECIES
-=======
+# Omphalia mellina Velen. SPECIES
 
 #### Status
 ACCEPTED

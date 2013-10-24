@@ -1,5 +1,4 @@
-Uredo spartinae-strictae Pat. & Har. SPECIES
-=======
+# Uredo spartinae-strictae Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

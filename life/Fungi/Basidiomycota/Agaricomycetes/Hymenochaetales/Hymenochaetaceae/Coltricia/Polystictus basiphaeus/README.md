@@ -1,5 +1,4 @@
-Polystictus basiphaeus (Sacc. & Paol.) Sacc. SPECIES
-=======
+# Polystictus basiphaeus (Sacc. & Paol.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

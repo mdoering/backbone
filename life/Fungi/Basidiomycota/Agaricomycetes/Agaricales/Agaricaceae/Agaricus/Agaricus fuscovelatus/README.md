@@ -1,5 +1,4 @@
-Agaricus fuscovelatus Kerrigan SPECIES
-=======
+# Agaricus fuscovelatus Kerrigan SPECIES
 
 #### Status
 ACCEPTED

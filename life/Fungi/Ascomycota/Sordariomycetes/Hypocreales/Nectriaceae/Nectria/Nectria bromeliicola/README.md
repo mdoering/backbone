@@ -1,5 +1,4 @@
-Nectria bromeliicola (Bat., Nascim. & Cif.) Samuels SPECIES
-=======
+# Nectria bromeliicola (Bat., Nascim. & Cif.) Samuels SPECIES
 
 #### Status
 ACCEPTED

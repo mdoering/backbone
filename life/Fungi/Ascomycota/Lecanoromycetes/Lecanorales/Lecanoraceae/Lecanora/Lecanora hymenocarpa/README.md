@@ -1,5 +1,4 @@
-Lecanora hymenocarpa Vain. SPECIES
-=======
+# Lecanora hymenocarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

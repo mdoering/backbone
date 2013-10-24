@@ -1,5 +1,4 @@
-Hysterium grammodes (De Not.) SPECIES
-=======
+# Hysterium grammodes (De Not.) SPECIES
 
 #### Status
 ACCEPTED

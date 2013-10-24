@@ -1,5 +1,4 @@
-Stigmatella aurantiaca Berkeley & Curtis, 1875 SPECIES
-=======
+# Stigmatella aurantiaca Berkeley & Curtis, 1875 SPECIES
 
 #### Status
 DOUBTFUL

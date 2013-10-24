@@ -1,5 +1,4 @@
-Dimerosporium superbum Speg. SPECIES
-=======
+# Dimerosporium superbum Speg. SPECIES
 
 #### Status
 ACCEPTED

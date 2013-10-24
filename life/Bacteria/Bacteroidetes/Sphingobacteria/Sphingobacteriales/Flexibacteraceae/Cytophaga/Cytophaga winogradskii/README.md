@@ -1,5 +1,4 @@
-Cytophaga winogradskii SPECIES
-=======
+# Cytophaga winogradskii SPECIES
 
 #### Status
 ACCEPTED

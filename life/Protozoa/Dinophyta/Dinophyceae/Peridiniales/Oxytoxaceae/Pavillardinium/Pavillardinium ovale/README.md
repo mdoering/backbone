@@ -1,5 +1,4 @@
-Pavillardinium ovale (Pavillard) De Toni, 1936 SPECIES
-=======
+# Pavillardinium ovale (Pavillard) De Toni, 1936 SPECIES
 
 #### Status
 ACCEPTED

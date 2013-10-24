@@ -1,5 +1,4 @@
-Puccinia melasmioides var. melasmioides VARIETY
-=======
+# Puccinia melasmioides Tranzschel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia melasmioides var. melasmioides
+Puccinia melasmioides Tranzschel
 
 ### Remarks
 null

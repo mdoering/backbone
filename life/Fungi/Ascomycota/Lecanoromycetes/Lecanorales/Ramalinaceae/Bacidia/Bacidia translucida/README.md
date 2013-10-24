@@ -1,5 +1,4 @@
-Bacidia translucida (Boistel) Zahlbr. SPECIES
-=======
+# Bacidia translucida (Boistel) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

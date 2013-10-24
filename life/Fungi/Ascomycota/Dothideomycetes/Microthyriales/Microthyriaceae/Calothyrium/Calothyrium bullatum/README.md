@@ -1,5 +1,4 @@
-Calothyrium bullatum (Berk. & M.A. Curtis) Theiss. SPECIES
-=======
+# Calothyrium bullatum (Berk. & M.A. Curtis) Theiss. SPECIES
 
 #### Status
 ACCEPTED

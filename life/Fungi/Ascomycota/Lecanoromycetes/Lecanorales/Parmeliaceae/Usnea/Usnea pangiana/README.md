@@ -1,5 +1,4 @@
-Usnea pangiana subsp. pangiana SUBSPECIES
-=======
+# Usnea pangiana Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea pangiana subsp. pangiana
+Usnea pangiana Stirt.
 
 ### Remarks
 null

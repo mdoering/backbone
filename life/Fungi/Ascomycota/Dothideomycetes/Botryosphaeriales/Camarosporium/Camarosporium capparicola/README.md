@@ -1,17 +1,16 @@
-Camarosporium capparidicola Koshk. & Frolov SPECIES
-=======
+# Camarosporium capparicola Koshk. & Frolov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikoflora Podgornoi Raviniy Kopetdaga i Tsentral'nykh Karakumov [Mycoflora of the mountainous plains of Kopet Dagh and Central Kara Kum] (Ashkhabad) 133 (1973)
 
 #### Original name
-Camarosporium capparidicola Koshk. & Frolov
+Camarosporium capparicola Koshk. & Frolov
 
 ### Remarks
 null

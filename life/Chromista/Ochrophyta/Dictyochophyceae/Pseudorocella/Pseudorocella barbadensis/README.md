@@ -1,5 +1,4 @@
-Pseudorocella barbadensis Deflandre SPECIES
-=======
+# Pseudorocella barbadensis Deflandre SPECIES
 
 #### Status
 ACCEPTED

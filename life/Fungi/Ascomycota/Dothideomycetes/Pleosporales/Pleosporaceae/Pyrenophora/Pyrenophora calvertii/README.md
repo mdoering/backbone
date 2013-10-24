@@ -1,5 +1,4 @@
-Pyrenophora calvertii Gucevic SPECIES
-=======
+# Pyrenophora calvertii Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deuterammina mourai Broennimann & Zaninetti, 1984 SPECIES
-=======
+# Deuterammina mourai Broennimann & Zaninetti, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma claviforme Marzina & Marcich SPECIES
-=======
+# Lophiostoma claviforme Marzina & Marcich SPECIES
 
 #### Status
 ACCEPTED

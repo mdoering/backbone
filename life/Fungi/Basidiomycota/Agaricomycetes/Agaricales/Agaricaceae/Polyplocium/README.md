@@ -1,5 +1,4 @@
-Polyplocium GENUS
-=======
+# Polyplocium GENUS
 
 #### Status
 ACCEPTED

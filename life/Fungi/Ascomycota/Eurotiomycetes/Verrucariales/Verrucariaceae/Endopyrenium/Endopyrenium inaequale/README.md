@@ -1,5 +1,4 @@
-Endopyrenium inaequale (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Endopyrenium inaequale (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

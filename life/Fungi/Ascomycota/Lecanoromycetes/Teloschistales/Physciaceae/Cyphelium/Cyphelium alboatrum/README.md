@@ -1,5 +1,4 @@
-Cyphelium alboatrum (Flörke) A. Massal. SPECIES
-=======
+# Cyphelium alboatrum (Flörke) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

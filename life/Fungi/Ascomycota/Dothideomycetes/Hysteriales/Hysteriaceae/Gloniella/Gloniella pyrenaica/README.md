@@ -1,5 +1,4 @@
-Gloniella pyrenaica Rehm SPECIES
-=======
+# Gloniella pyrenaica Rehm SPECIES
 
 #### Status
 ACCEPTED

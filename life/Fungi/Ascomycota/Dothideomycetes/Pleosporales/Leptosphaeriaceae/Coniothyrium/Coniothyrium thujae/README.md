@@ -1,5 +1,4 @@
-Coniothyrium thujae Shreem. SPECIES
-=======
+# Coniothyrium thujae Shreem. SPECIES
 
 #### Status
 ACCEPTED

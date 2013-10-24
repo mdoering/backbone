@@ -1,5 +1,4 @@
-Chaetosphaeria talbotii S. Hughes, W.B. Kendr. & Shoemaker, 1968 SPECIES
-=======
+# Chaetosphaeria talbotii S. Hughes, W.B. Kendr. & Shoemaker, 1968 SPECIES
 
 #### Status
 ACCEPTED

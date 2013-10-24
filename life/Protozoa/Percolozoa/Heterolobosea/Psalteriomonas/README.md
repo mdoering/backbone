@@ -1,5 +1,4 @@
-Psalteriomonas Broers, Stumm, Vogels & Brugerolle, 1990 GENUS
-=======
+# Psalteriomonas Broers, Stumm, Vogels & Brugerolle, 1990 GENUS
 
 #### Status
 ACCEPTED

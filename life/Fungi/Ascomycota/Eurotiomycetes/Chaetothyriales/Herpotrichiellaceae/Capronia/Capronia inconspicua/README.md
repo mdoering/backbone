@@ -1,5 +1,4 @@
-Capronia inconspicua (Munk) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman, 1987 SPECIES
-=======
+# Capronia inconspicua (Munk) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman, 1987 SPECIES
 
 #### Status
 ACCEPTED

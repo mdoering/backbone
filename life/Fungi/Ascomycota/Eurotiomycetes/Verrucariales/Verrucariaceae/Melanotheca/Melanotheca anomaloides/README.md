@@ -1,5 +1,4 @@
-Melanotheca anomaloides SPECIES
-=======
+# Melanotheca anomaloides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coemansia corticii Vam Tieghem & Le Monnier, 1873 SPECIES
-=======
+# Coemansia corticii Vam Tieghem & Le Monnier, 1873 SPECIES
 
 #### Status
 ACCEPTED

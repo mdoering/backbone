@@ -1,5 +1,4 @@
-Meliola pinnatae Mibey SPECIES
-=======
+# Meliola pinnatae Mibey SPECIES
 
 #### Status
 ACCEPTED

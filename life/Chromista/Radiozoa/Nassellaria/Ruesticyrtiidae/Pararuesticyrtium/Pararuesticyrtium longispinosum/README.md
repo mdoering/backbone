@@ -1,5 +1,4 @@
-Pararuesticyrtium longispinosum SPECIES
-=======
+# Pararuesticyrtium longispinosum SPECIES
 
 #### Status
 ACCEPTED

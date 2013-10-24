@@ -1,5 +1,4 @@
-Arnium absimile (Cain) J.C. Krug & Cain SPECIES
-=======
+# Arnium absimile (Cain) J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella albidorosea Rehm SPECIES
-=======
+# Pezizella albidorosea Rehm SPECIES
 
 #### Status
 ACCEPTED

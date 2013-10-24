@@ -1,5 +1,4 @@
-Gyalideopsis montana Lücking SPECIES
-=======
+# Gyalideopsis montana Lücking SPECIES
 
 #### Status
 ACCEPTED

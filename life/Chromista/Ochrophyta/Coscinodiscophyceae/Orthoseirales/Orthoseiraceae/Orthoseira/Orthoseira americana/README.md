@@ -1,8 +1,7 @@
-Melosira americana Kützing SPECIES
-=======
+# Orthoseira americana (Kützing) F.E. Round, R.M. Crawford & D.G. Mann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

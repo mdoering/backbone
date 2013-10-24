@@ -1,5 +1,4 @@
-Cladosporium borassi Hasija, 1967 SPECIES
-=======
+# Cladosporium borassi Hasija, 1967 SPECIES
 
 #### Status
 ACCEPTED

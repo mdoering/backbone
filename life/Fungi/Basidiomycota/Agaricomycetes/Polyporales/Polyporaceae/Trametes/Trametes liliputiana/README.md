@@ -1,5 +1,4 @@
-Trametes liliputiana Speg. SPECIES
-=======
+# Trametes liliputiana Speg. SPECIES
 
 #### Status
 ACCEPTED

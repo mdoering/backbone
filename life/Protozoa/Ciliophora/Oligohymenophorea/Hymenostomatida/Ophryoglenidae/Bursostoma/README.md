@@ -1,5 +1,4 @@
-Bursostoma Vörösváry, 1950 GENUS
-=======
+# Bursostoma Vörösváry, 1950 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peroneutypa GENUS
-=======
+# Peroneutypa GENUS
 
 #### Status
 ACCEPTED

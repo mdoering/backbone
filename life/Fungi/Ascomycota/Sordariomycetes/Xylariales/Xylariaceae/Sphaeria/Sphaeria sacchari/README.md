@@ -1,5 +1,4 @@
-Sphaeria sacchari Berk. & Broome SPECIES
-=======
+# Sphaeria sacchari Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

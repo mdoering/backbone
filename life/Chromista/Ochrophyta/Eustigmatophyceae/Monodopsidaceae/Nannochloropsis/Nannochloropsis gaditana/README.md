@@ -1,5 +1,4 @@
-Nannochloropsis gaditana Lubián SPECIES
-=======
+# Nannochloropsis gaditana Lubián SPECIES
 
 #### Status
 ACCEPTED

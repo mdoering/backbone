@@ -1,5 +1,4 @@
-Exiguobacterium undae Frühling et al., 2002 SPECIES
-=======
+# Exiguobacterium undae Frühling et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Topeliopsis acutispora Kalb SPECIES
-=======
+# Topeliopsis acutispora Kalb SPECIES
 
 #### Status
 ACCEPTED

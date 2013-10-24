@@ -1,5 +1,4 @@
-Syncephalastrum J. Schröter, 1886 GENUS
-=======
+# Syncephalastrum J. Schröter, 1886 GENUS
 
 #### Status
 ACCEPTED

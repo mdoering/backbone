@@ -1,5 +1,4 @@
-Waihonghopes Yanna & K.D. Hyde GENUS
-=======
+# Waihonghopes Yanna & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

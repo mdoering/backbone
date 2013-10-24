@@ -1,5 +1,4 @@
-Urocystis alstroemeriae Vánky & C. Vánky, 2001 SPECIES
-=======
+# Urocystis alstroemeriae Vánky & C. Vánky, 2001 SPECIES
 
 #### Status
 ACCEPTED

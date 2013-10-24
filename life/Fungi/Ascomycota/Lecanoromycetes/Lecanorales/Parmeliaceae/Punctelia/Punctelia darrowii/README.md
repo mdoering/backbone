@@ -1,5 +1,4 @@
-Punctelia darrowii (J.W. Thomson) Krog SPECIES
-=======
+# Punctelia darrowii (J.W. Thomson) Krog SPECIES
 
 #### Status
 ACCEPTED

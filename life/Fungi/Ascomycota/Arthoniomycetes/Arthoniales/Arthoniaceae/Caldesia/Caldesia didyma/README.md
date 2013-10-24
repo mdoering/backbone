@@ -1,5 +1,4 @@
-Caldesia didyma Trevis. SPECIES
-=======
+# Caldesia didyma Trevis. SPECIES
 
 #### Status
 ACCEPTED

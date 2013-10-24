@@ -1,5 +1,4 @@
-Spirulinaceae FAMILY
-=======
+# Spirulinaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora chamaecristicola A. Hern. Gut. & Dianese SPECIES
-=======
+# Passalora chamaecristicola A. Hern. Gut. & Dianese SPECIES
 
 #### Status
 ACCEPTED

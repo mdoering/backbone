@@ -1,14 +1,13 @@
-Coniothyrium rhamni (Westend.) Keissl., 1921 SPECIES
-=======
+# Phyllosticta rhamni Westend., 1857 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. bot. Zbl. 38(2): 426 (1921)
+Mém. Acad. Sci. Brux 26 (1857)
 
 #### Original name
 Phyllosticta rhamni Westend., 1857

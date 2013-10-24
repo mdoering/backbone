@@ -1,5 +1,4 @@
-Metasphaeria hederaefolia (Cooke) Sacc. SPECIES
-=======
+# Metasphaeria hederaefolia (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

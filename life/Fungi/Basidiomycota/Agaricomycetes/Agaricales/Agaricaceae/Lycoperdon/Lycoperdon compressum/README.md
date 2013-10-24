@@ -1,5 +1,4 @@
-Lycoperdon compressum Lloyd SPECIES
-=======
+# Lycoperdon compressum Lloyd SPECIES
 
 #### Status
 ACCEPTED

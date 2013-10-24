@@ -1,5 +1,4 @@
-Marasmius rhyticeps Kalchbr. SPECIES
-=======
+# Marasmius rhyticeps Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

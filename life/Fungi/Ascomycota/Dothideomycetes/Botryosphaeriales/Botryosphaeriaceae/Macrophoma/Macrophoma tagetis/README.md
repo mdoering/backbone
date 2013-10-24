@@ -1,5 +1,4 @@
-Macrophoma tagetis Kavkas. SPECIES
-=======
+# Macrophoma tagetis Kavkas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ceriomyces Corda, 1837 GENUS
-=======
+# Ptychogaster Corda, 1838 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(14-15): 133 (1837)
+Icon. Fung. , 2, 23.
 
 #### Original name
-Ceriomyces Corda, 1837
+Ptychogaster Corda, 1838
 
 ### Remarks
 null

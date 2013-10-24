@@ -1,5 +1,4 @@
-Stigmina hippophaës ukov SPECIES
-=======
+# Stigmina hippophaës ukov SPECIES
 
 #### Status
 ACCEPTED

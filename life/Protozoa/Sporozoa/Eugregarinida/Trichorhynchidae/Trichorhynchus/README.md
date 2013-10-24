@@ -1,5 +1,4 @@
-Trichorhynchus Schneider, 1882 GENUS
-=======
+# Trichorhynchus Schneider, 1882 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius antarcticus Speg. SPECIES
-=======
+# Marasmius antarcticus Speg. SPECIES
 
 #### Status
 ACCEPTED

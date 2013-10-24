@@ -1,5 +1,4 @@
-Dominopolia V.V. Kirjanov, 1974 GENUS
-=======
+# Dominopolia V.V. Kirjanov, 1974 GENUS
 
 #### Status
 ACCEPTED

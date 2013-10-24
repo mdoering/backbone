@@ -1,5 +1,4 @@
-Trichia violacea Hoffm. SPECIES
-=======
+# Trichia violacea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

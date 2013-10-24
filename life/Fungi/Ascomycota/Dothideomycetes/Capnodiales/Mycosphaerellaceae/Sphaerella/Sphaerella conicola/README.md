@@ -1,5 +1,4 @@
-Sphaerella conicola Peck SPECIES
-=======
+# Sphaerella conicola Peck SPECIES
 
 #### Status
 ACCEPTED

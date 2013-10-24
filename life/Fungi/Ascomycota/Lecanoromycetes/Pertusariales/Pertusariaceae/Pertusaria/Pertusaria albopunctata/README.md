@@ -1,5 +1,4 @@
-Pertusaria albopunctata A. W. Archner & Elix SPECIES
-=======
+# Pertusaria albopunctata A. W. Archner & Elix SPECIES
 
 #### Status
 ACCEPTED

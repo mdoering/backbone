@@ -1,5 +1,4 @@
-Coemansia guatemalensis Thaxt. ex Linder, 1943 SPECIES
-=======
+# Coemansia guatemalensis Thaxt. ex Linder, 1943 SPECIES
 
 #### Status
 ACCEPTED

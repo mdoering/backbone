@@ -1,5 +1,4 @@
-Pedobacter aquatilis Gallego et al., 2006 SPECIES
-=======
+# Pedobacter aquatilis Gallego et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

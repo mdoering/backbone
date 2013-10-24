@@ -1,5 +1,4 @@
-Cortinarius masseei Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius masseei Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

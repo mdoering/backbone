@@ -1,5 +1,4 @@
-Compsomyces platensis Speg., 1917 SPECIES
-=======
+# Compsomyces platensis Speg., 1917 SPECIES
 
 #### Status
 ACCEPTED

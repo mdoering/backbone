@@ -1,5 +1,4 @@
-Melanospora gibelliana Matt. SPECIES
-=======
+# Melanospora gibelliana Matt. SPECIES
 
 #### Status
 ACCEPTED

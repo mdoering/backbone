@@ -1,5 +1,4 @@
-Chiastozygus acutus (Thierstein in Roth & Thierstein, 1972) Perch-Nielsen, 1984 SPECIES
-=======
+# Chiastozygus acutus (Thierstein in Roth & Thierstein, 1972) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

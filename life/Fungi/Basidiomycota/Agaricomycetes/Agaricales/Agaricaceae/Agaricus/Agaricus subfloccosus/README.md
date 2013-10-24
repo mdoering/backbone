@@ -1,11 +1,10 @@
-Agaricus subfloccosus var. subfloccosus (J.E. Lange) Hlavácek VARIETY
-=======
+# Agaricus subfloccosus (J.E. Lange) Hlavácek, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 C. C. H. 28(4-6): 67 (1951)

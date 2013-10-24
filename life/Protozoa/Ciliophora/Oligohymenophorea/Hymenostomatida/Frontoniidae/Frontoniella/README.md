@@ -1,5 +1,4 @@
-Frontoniella Wetzel, 1927 GENUS
-=======
+# Frontoniella Wetzel, 1927 GENUS
 
 #### Status
 ACCEPTED

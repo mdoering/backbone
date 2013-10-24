@@ -1,5 +1,4 @@
-Caenibacterium Manaia et al., 2003 GENUS
-=======
+# Caenibacterium Manaia et al., 2003 GENUS
 
 #### Status
 ACCEPTED

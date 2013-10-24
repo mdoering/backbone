@@ -1,5 +1,4 @@
-Agaricus russus Cooke & Massee SPECIES
-=======
+# Agaricus russus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

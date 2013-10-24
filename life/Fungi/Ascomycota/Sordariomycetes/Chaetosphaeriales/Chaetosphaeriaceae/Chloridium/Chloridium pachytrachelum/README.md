@@ -1,5 +1,4 @@
-Chloridium pachytrachelum W. Gams & Hol.-Jech., 1976 SPECIES
-=======
+# Chloridium pachytrachelum W. Gams & Hol.-Jech., 1976 SPECIES
 
 #### Status
 ACCEPTED

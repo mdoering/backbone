@@ -1,5 +1,4 @@
-Rizalia fasciculata Syd. & P. Syd., 1914 SPECIES
-=======
+# Rizalia fasciculata Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

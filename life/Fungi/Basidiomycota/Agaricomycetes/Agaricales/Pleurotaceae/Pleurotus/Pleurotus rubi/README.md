@@ -1,5 +1,4 @@
-Pleurotus rubi Velen. SPECIES
-=======
+# Pleurotus rubi Velen. SPECIES
 
 #### Status
 ACCEPTED

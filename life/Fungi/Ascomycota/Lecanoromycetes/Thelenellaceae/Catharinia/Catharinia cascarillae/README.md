@@ -1,5 +1,4 @@
-Catharinia cascarillae Rehm SPECIES
-=======
+# Catharinia cascarillae Rehm SPECIES
 
 #### Status
 ACCEPTED

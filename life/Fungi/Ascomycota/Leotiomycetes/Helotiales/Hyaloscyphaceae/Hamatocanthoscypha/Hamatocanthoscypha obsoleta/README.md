@@ -1,5 +1,4 @@
-Hamatocanthoscypha obsoleta Huhtinen SPECIES
-=======
+# Hamatocanthoscypha obsoleta Huhtinen SPECIES
 
 #### Status
 ACCEPTED

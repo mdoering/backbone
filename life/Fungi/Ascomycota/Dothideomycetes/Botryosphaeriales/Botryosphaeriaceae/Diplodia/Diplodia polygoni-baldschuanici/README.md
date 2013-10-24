@@ -1,5 +1,4 @@
-Diplodia polygoni-baldschuanici Sandu, A. Lazar & Hatmanu SPECIES
-=======
+# Diplodia polygoni-baldschuanici Sandu, A. Lazar & Hatmanu SPECIES
 
 #### Status
 ACCEPTED

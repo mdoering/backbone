@@ -1,5 +1,4 @@
-Apiosoma miniciliatum SPECIES
-=======
+# Apiosoma miniciliatum SPECIES
 
 #### Status
 ACCEPTED

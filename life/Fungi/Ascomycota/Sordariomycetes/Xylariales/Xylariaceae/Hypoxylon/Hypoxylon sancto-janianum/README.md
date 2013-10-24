@@ -1,5 +1,4 @@
-Hypoxylon sancto-janianum Ferd. & Winge SPECIES
-=======
+# Hypoxylon sancto-janianum Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

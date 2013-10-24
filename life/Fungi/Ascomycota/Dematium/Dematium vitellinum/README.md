@@ -1,5 +1,4 @@
-Dematium vitellinum Link SPECIES
-=======
+# Dematium vitellinum Link SPECIES
 
 #### Status
 ACCEPTED

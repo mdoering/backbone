@@ -1,17 +1,16 @@
-Asterostomella lepianthedis Hosag., M.P. Balakr. & Goos SPECIES
-=======
+# Asterostomella lepianthis Hosag., M.P. Balakr. & Goos SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 58: 492 (1996)
 
 #### Original name
-Asterostomella lepianthedis Hosag., M.P. Balakr. & Goos
+Asterostomella lepianthis Hosag., M.P. Balakr. & Goos
 
 ### Remarks
 null

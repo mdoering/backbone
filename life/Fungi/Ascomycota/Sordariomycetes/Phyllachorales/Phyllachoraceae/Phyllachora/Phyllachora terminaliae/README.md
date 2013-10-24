@@ -1,5 +1,4 @@
-Phyllachora terminaliae T.S. Ramakr., 1957 SPECIES
-=======
+# Phyllachora terminaliae T.S. Ramakr., 1957 SPECIES
 
 #### Status
 ACCEPTED

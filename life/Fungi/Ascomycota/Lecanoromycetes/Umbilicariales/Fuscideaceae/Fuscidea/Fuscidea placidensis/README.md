@@ -1,5 +1,4 @@
-Fuscidea placidensis (H. Magn.) R.C. Harris SPECIES
-=======
+# Fuscidea placidensis (H. Magn.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

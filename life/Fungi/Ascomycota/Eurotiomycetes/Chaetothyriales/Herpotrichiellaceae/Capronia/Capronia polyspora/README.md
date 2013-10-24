@@ -1,5 +1,4 @@
-Capronia polyspora (M.E. Barr) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
-=======
+# Capronia polyspora (M.E. Barr) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
 
 #### Status
 ACCEPTED

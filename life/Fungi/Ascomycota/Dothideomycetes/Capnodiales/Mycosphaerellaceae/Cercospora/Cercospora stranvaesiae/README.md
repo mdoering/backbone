@@ -1,17 +1,16 @@
-Cercospora stranvasiae Katsuki & Ts. Kobay. SPECIES
-=======
+# Cercospora stranvaesiae Katsuki & Ts. Kobay. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 17(3-4): 278 (1976)
 
 #### Original name
-Cercospora stranvasiae Katsuki & Ts. Kobay.
+Cercospora stranvaesiae Katsuki & Ts. Kobay.
 
 ### Remarks
 null

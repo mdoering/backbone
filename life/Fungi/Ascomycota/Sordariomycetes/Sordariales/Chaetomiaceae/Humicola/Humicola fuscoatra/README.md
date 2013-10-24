@@ -1,17 +1,16 @@
-Humicola fuscoatra var. fuscoatra VARIETY
-=======
+# Humicola fuscoatra Traaen, 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nytt Mag. Natur. 52: 33 (1914)
 
 #### Original name
-Humicola fuscoatra var. fuscoatra
+Humicola fuscoatra Traaen, 1914
 
 ### Remarks
 null

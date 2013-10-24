@@ -1,5 +1,4 @@
-Vindhyanella jonesii Sahni, 1936 SPECIES
-=======
+# Vindhyanella jonesii Sahni, 1936 SPECIES
 
 #### Status
 ACCEPTED

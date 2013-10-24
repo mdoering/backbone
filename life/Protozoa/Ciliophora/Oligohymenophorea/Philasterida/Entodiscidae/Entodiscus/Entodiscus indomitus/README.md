@@ -1,5 +1,4 @@
-Entodiscus indomitus Madsen, 1931 SPECIES
-=======
+# Entodiscus indomitus Madsen, 1931 SPECIES
 
 #### Status
 ACCEPTED

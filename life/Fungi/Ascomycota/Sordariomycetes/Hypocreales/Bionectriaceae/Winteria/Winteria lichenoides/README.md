@@ -1,5 +1,4 @@
-Winteria lichenoides f. lichenoides FORM
-=======
+# Winteria lichenoides Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 2: 225 (1883)
 
 #### Original name
-Winteria lichenoides f. lichenoides
+Winteria lichenoides Rehm
 
 ### Remarks
 null

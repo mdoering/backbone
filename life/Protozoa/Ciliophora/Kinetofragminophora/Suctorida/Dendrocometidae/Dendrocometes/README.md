@@ -1,5 +1,4 @@
-Dendrocometes Stein, 1852 GENUS
-=======
+# Dendrocometes Stein, 1852 GENUS
 
 #### Status
 ACCEPTED

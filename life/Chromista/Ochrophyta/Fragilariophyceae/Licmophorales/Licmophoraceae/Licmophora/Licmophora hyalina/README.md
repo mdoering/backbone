@@ -1,5 +1,4 @@
-Licmophora hyalina (Kützing) Grunow SPECIES
-=======
+# Licmophora hyalina (Kützing) Grunow SPECIES
 
 #### Status
 ACCEPTED

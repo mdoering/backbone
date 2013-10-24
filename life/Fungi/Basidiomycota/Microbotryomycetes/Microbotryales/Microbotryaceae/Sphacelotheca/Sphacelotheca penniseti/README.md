@@ -1,5 +1,4 @@
-Sphacelotheca penniseti (Rabenh.) Reichert SPECIES
-=======
+# Sphacelotheca penniseti (Rabenh.) Reichert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cinereoviolaceus Pers. SPECIES
-=======
+# Agaricus cinereoviolaceus Pers. SPECIES
 
 #### Status
 ACCEPTED

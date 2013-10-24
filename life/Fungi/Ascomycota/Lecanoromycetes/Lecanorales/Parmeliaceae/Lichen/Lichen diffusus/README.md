@@ -1,5 +1,4 @@
-Lichen diffusus Weber SPECIES
-=======
+# Lichen diffusus Weber SPECIES
 
 #### Status
 ACCEPTED

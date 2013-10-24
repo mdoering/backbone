@@ -1,5 +1,4 @@
-Cercosporidium diervillae (Ellis & Everh.) J.K. Bai & M.Y. Cheng SPECIES
-=======
+# Cercosporidium diervillae (Ellis & Everh.) J.K. Bai & M.Y. Cheng SPECIES
 
 #### Status
 ACCEPTED

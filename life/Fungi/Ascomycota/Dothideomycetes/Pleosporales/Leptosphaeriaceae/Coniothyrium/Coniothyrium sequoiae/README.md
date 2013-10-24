@@ -1,5 +1,4 @@
-Coniothyrium sequoiae Gucevic SPECIES
-=======
+# Coniothyrium sequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

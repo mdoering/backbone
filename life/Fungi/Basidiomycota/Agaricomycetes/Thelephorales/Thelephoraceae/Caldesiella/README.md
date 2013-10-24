@@ -1,5 +1,4 @@
-Caldesiella GENUS
-=======
+# Caldesiella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis jaapiana Sacc. SPECIES
-=======
+# Urocystis jaapiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

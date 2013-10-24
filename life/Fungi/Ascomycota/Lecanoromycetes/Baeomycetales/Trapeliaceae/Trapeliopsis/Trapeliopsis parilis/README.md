@@ -1,5 +1,4 @@
-Trapeliopsis parilis Brusse SPECIES
-=======
+# Trapeliopsis parilis Brusse SPECIES
 
 #### Status
 ACCEPTED

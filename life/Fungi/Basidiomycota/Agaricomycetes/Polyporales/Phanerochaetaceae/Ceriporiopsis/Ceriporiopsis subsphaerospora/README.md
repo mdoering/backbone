@@ -1,14 +1,13 @@
-Skeletocutis subsphaerospora A. David, 1982 SPECIES
-=======
+# Ceriporiopsis subsphaerospora (A. David) M. Pieri & B. Rivoire, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturaliste Can. 109(2): 265 (1982)
+Bull. trimest. Soc. mycol. Fr. 112(3): 171 (1996)
 
 #### Original name
 Skeletocutis subsphaerospora A. David, 1982

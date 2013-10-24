@@ -1,5 +1,4 @@
-Lepraria fuliginosa Ach. SPECIES
-=======
+# Lepraria fuliginosa Ach. SPECIES
 
 #### Status
 ACCEPTED

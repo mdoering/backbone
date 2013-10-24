@@ -1,5 +1,4 @@
-Diplodina muscorum Gonz. Frag. SPECIES
-=======
+# Diplodina muscorum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

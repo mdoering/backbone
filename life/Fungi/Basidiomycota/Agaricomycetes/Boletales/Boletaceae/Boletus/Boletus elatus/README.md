@@ -1,5 +1,4 @@
-Boletus elatus Pers. SPECIES
-=======
+# Boletus elatus Pers. SPECIES
 
 #### Status
 ACCEPTED

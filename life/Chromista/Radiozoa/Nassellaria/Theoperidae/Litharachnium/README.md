@@ -1,5 +1,4 @@
-Litharachnium Haeckel, 1860 GENUS
-=======
+# Litharachnium Haeckel, 1860 GENUS
 
 #### Status
 ACCEPTED

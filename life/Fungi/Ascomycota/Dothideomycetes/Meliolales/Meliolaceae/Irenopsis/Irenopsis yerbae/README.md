@@ -1,5 +1,4 @@
-Irenopsis yerbae (Speg.) Hansf. SPECIES
-=======
+# Irenopsis yerbae (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

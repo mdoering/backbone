@@ -1,17 +1,16 @@
-Phoma pulla Sacc., 1880 SPECIES
-=======
+# Diaporthe pulla Nitschke, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pyrenomycetes Germanici 2: 246 (1870)
 
 #### Original name
-Phoma pulla Sacc., 1880
+Diaporthe pulla Nitschke, 1870
 
 ### Remarks
 null

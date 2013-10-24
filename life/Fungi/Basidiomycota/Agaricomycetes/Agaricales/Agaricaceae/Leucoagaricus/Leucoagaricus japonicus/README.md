@@ -1,5 +1,4 @@
-Leucoagaricus japonicus (Kawam. ex Hongo) Hongo SPECIES
-=======
+# Leucoagaricus japonicus (Kawam. ex Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

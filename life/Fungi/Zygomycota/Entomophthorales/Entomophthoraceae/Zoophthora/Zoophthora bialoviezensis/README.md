@@ -1,5 +1,4 @@
-Zoophthora bialoviezensis Balazy, 1993 SPECIES
-=======
+# Zoophthora bialoviezensis Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

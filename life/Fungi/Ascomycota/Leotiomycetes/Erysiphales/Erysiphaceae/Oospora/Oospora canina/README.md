@@ -1,5 +1,4 @@
-Oospora canina (Matr. & Dassonv.) Sacc. & D. Sacc. SPECIES
-=======
+# Oospora canina (Matr. & Dassonv.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

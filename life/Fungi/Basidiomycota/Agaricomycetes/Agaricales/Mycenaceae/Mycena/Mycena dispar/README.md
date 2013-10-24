@@ -1,5 +1,4 @@
-Mycena dispar Maas Geest. & de Meijer SPECIES
-=======
+# Mycena dispar Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

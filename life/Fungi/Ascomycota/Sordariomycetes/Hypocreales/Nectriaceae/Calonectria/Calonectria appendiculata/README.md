@@ -1,5 +1,4 @@
-Calonectria appendiculata Rehm SPECIES
-=======
+# Calonectria appendiculata Rehm SPECIES
 
 #### Status
 ACCEPTED

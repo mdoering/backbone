@@ -1,5 +1,4 @@
-Cepekiella P.H. Roth, 1970 GENUS
-=======
+# Cepekiella P.H. Roth, 1970 GENUS
 
 #### Status
 ACCEPTED

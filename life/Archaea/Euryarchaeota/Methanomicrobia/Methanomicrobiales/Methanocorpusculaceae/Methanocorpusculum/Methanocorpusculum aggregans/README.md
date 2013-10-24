@@ -1,8 +1,7 @@
-Methanogenium aggregans Ollivier et al., 1985 SPECIES
-=======
+# Methanocorpusculum aggregans (Ollivier et al., 1985) Xun et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

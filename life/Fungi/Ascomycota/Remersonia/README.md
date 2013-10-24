@@ -1,5 +1,4 @@
-Remersonia Samson & Seifert GENUS
-=======
+# Remersonia Samson & Seifert GENUS
 
 #### Status
 ACCEPTED

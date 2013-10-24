@@ -1,5 +1,4 @@
-Septoria bractearum Mont. SPECIES
-=======
+# Septoria bractearum Mont. SPECIES
 
 #### Status
 ACCEPTED

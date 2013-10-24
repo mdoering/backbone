@@ -1,5 +1,4 @@
-Rhizopogon variabilisporus A.H. Sm. SPECIES
-=======
+# Rhizopogon variabilisporus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

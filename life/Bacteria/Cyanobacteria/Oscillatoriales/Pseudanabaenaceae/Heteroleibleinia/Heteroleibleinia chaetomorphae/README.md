@@ -1,8 +1,7 @@
-Lyngbya chaetomorphae Iyengar & Desikachary SPECIES
-=======
+# Heteroleibleinia chaetomorphae (Iyengar & Dseikachary) anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

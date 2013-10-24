@@ -1,5 +1,4 @@
-Bannoa Hamam. GENUS
-=======
+# Bannoa Hamam. GENUS
 
 #### Status
 ACCEPTED

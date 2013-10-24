@@ -1,5 +1,4 @@
-Scolecites GENUS
-=======
+# Scolecites GENUS
 
 #### Status
 ACCEPTED

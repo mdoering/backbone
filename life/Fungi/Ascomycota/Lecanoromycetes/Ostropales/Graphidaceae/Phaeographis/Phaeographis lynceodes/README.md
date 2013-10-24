@@ -1,5 +1,4 @@
-Phaeographis lynceodes (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographis lynceodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

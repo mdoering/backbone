@@ -1,5 +1,4 @@
-Asterina tenuis G. Winter SPECIES
-=======
+# Asterina tenuis G. Winter SPECIES
 
 #### Status
 ACCEPTED

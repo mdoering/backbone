@@ -1,5 +1,4 @@
-Meliolinopsis quercinopsis (Rehm) Beeli SPECIES
-=======
+# Meliolinopsis quercinopsis (Rehm) Beeli SPECIES
 
 #### Status
 ACCEPTED

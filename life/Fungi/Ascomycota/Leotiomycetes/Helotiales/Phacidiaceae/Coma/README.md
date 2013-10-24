@@ -1,5 +1,4 @@
-Coma Nag Raj & W.B. Kendr. GENUS
-=======
+# Coma Nag Raj & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

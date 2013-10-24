@@ -1,5 +1,4 @@
-Eoplectostaffella Postojalko in Postoyal, 1990 GENUS
-=======
+# Eoplectostaffella Postojalko in Postoyal, 1990 GENUS
 
 #### Status
 ACCEPTED

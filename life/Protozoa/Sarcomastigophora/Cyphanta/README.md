@@ -1,5 +1,4 @@
-Cyphanta Haeckel, 1887 GENUS
-=======
+# Cyphanta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

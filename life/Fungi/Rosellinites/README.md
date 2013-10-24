@@ -1,5 +1,4 @@
-Rosellinites Meschinelli, 1892 GENUS
-=======
+# Rosellinites Meschinelli, 1892 GENUS
 
 #### Status
 ACCEPTED

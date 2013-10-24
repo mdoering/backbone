@@ -1,5 +1,4 @@
-Sinococcus qinghaiensis Li et al., 2006 SPECIES
-=======
+# Sinococcus qinghaiensis Li et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

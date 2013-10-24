@@ -1,5 +1,4 @@
-Nigropuncta D. Hawksw. GENUS
-=======
+# Nigropuncta D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

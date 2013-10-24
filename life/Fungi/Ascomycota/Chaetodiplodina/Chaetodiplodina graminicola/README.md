@@ -1,17 +1,16 @@
-Chaetodiplodina graminocola Speg. SPECIES
-=======
+# Chaetodiplodina graminicola Speg., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 3 13: 368 (1910)
 
 #### Original name
-Chaetodiplodina graminocola Speg.
+Chaetodiplodina graminicola Speg., 1910
 
 ### Remarks
 null

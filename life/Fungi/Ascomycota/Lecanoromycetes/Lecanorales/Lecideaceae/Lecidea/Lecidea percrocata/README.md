@@ -1,5 +1,4 @@
-Lecidea percrocata (Arnold) Hue SPECIES
-=======
+# Lecidea percrocata (Arnold) Hue SPECIES
 
 #### Status
 ACCEPTED

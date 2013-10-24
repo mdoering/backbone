@@ -1,5 +1,4 @@
-Ustilago centrodomis E. Duval, Piton, A. Regnault & Sauvage SPECIES
-=======
+# Ustilago centrodomis E. Duval, Piton, A. Regnault & Sauvage SPECIES
 
 #### Status
 ACCEPTED

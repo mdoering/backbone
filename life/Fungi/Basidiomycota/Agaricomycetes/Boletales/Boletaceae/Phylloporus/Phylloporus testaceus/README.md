@@ -1,5 +1,4 @@
-Phylloporus testaceus var. testaceus VARIETY
-=======
+# Phylloporus testaceus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. État 21: 255 (1951)
 
 #### Original name
-Phylloporus testaceus var. testaceus
+Phylloporus testaceus Heinem. & Gooss.-Font.
 
 ### Remarks
 null

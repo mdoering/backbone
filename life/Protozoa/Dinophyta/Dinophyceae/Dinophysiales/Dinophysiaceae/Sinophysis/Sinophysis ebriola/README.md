@@ -1,5 +1,4 @@
-Sinophysis ebriola (Herdman, 1924) Balech, 1956 SPECIES
-=======
+# Sinophysis ebriola (Herdman, 1924) Balech, 1956 SPECIES
 
 #### Status
 ACCEPTED

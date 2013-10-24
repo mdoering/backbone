@@ -1,5 +1,4 @@
-Stagonospora rosae Brunaud SPECIES
-=======
+# Stagonospora rosae Brunaud SPECIES
 
 #### Status
 ACCEPTED

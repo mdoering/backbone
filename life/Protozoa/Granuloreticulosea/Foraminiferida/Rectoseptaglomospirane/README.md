@@ -1,5 +1,4 @@
-Rectoseptaglomospirane GENUS
-=======
+# Rectoseptaglomospirane GENUS
 
 #### Status
 ACCEPTED

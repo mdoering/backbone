@@ -1,5 +1,4 @@
-Hebeloma claviceps (Fr.) Quél. SPECIES
-=======
+# Hebeloma claviceps (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

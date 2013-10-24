@@ -1,5 +1,4 @@
-Hirschia Schlesner et al., 1990 GENUS
-=======
+# Hirschia Schlesner et al., 1990 GENUS
 
 #### Status
 ACCEPTED

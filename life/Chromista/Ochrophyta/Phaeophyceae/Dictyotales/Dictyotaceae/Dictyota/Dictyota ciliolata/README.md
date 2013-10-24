@@ -1,5 +1,4 @@
-Dictyota ciliolata var. bermudensis W.R.Taylor VARIETY
-=======
+# Dictyota ciliolata Sonder ex Kützing SPECIES
 
 #### Status
 ACCEPTED

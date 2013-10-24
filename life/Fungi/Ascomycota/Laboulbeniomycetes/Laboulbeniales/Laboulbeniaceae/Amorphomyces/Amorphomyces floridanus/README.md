@@ -1,5 +1,4 @@
-Amorphomyces floridanus Thaxt., 1893 SPECIES
-=======
+# Amorphomyces floridanus Thaxt., 1893 SPECIES
 
 #### Status
 ACCEPTED

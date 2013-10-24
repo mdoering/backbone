@@ -1,5 +1,4 @@
-Dirinaria ascensionis (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Dirinaria ascensionis (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

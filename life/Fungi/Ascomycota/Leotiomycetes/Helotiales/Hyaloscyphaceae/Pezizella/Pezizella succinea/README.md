@@ -1,5 +1,4 @@
-Pezizella succinea Velen. SPECIES
-=======
+# Pezizella succinea Velen. SPECIES
 
 #### Status
 ACCEPTED

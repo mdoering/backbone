@@ -1,5 +1,4 @@
-Micropuccinia praemorsa (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia praemorsa (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

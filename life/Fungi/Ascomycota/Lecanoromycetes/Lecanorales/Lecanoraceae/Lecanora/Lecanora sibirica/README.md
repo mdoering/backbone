@@ -1,5 +1,4 @@
-Lecanora sibirica Müll. Arg. SPECIES
-=======
+# Lecanora sibirica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

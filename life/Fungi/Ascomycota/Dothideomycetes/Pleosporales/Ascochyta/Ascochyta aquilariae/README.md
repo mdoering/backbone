@@ -1,5 +1,4 @@
-Ascochyta aquilariae P.K. Chi SPECIES
-=======
+# Ascochyta aquilariae P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

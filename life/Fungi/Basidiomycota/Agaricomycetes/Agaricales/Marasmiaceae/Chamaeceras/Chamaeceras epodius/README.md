@@ -1,5 +1,4 @@
-Chamaeceras epodius (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras epodius (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

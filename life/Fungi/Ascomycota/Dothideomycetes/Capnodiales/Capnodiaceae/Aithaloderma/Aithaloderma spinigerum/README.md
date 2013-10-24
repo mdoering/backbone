@@ -1,5 +1,4 @@
-Aithaloderma spinigerum (Höhn.) Höhn. SPECIES
-=======
+# Aithaloderma spinigerum (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

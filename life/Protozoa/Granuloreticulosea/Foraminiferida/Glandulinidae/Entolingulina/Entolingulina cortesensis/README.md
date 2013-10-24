@@ -1,5 +1,4 @@
-Entolingulina cortesensis McCulloch, 1977 SPECIES
-=======
+# Entolingulina cortesensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

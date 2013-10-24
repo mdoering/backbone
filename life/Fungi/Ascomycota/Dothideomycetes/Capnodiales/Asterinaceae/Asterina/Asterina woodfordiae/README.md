@@ -1,5 +1,4 @@
-Asterina woodfordiae V.P. Sahni SPECIES
-=======
+# Asterina woodfordiae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

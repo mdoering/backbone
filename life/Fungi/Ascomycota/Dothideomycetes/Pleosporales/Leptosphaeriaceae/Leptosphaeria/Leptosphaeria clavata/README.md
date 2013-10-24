@@ -1,14 +1,13 @@
-Massariosphaeria clavata (A.L. Guyot) Shoemaker & C.E. Babc., 1989 SPECIES
-=======
+# Leptosphaeria clavata A.L. Guyot, 1946 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 67(5): 1582 (1989)
+Revue Mycol. , Paris 11: 62 (1946)
 
 #### Original name
 Leptosphaeria clavata A.L. Guyot, 1946

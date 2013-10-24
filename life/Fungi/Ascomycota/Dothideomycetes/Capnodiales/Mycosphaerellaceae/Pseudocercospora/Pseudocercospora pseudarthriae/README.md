@@ -1,5 +1,4 @@
-Pseudocercospora pseudarthriae (Petch) Deighton SPECIES
-=======
+# Pseudocercospora pseudarthriae (Petch) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydraeomyces Thaxt. GENUS
-=======
+# Hydraeomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleurotus corticatus var. corticatus VARIETY
-=======
+# Pleurotus dryinus (Pers.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 1: 101 (1871)
+Führ. Pilzk. (Zwickau) 101 (1871)
 
 #### Original name
-Pleurotus corticatus var. corticatus
+Agaricus dryinus Pers., 1800
 
 ### Remarks
 null

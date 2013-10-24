@@ -1,5 +1,4 @@
-Folliculina Lamarck, 1816 GENUS
-=======
+# Folliculina Lamarck, 1816 GENUS
 
 #### Status
 ACCEPTED

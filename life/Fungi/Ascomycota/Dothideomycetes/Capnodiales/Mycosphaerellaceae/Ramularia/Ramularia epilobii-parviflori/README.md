@@ -1,5 +1,4 @@
-Ramularia epilobii-parviflori Lindr. SPECIES
-=======
+# Ramularia epilobii-parviflori Lindr. SPECIES
 
 #### Status
 ACCEPTED

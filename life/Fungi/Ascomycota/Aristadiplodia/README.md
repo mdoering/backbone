@@ -1,5 +1,4 @@
-Aristadiplodia Shirai GENUS
-=======
+# Aristadiplodia Shirai GENUS
 
 #### Status
 ACCEPTED

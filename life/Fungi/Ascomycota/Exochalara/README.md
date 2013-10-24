@@ -1,5 +1,4 @@
-Exochalara W. Gams & Holubová-Jechová, 1976 GENUS
-=======
+# Exochalara W. Gams & Holubová-Jechová, 1976 GENUS
 
 #### Status
 ACCEPTED

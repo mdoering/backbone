@@ -1,5 +1,4 @@
-Parmelia lacinulata Gyeln. SPECIES
-=======
+# Parmelia lacinulata Gyeln. SPECIES
 
 #### Status
 ACCEPTED

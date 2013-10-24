@@ -1,5 +1,4 @@
-Buellia antillarum B. de Lesd. SPECIES
-=======
+# Buellia antillarum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

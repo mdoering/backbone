@@ -1,5 +1,4 @@
-Chionomyces vacuocellularis Matsush. SPECIES
-=======
+# Chionomyces vacuocellularis Matsush. SPECIES
 
 #### Status
 ACCEPTED

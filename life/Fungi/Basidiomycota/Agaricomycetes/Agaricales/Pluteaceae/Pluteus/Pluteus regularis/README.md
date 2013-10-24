@@ -1,5 +1,4 @@
-Pluteus regularis Peck SPECIES
-=======
+# Pluteus regularis Peck SPECIES
 
 #### Status
 ACCEPTED

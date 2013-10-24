@@ -1,5 +1,4 @@
-Macrohyporia pileata Ryvarden & Núñez, 1999 SPECIES
-=======
+# Macrohyporia pileata Ryvarden & Núñez, 1999 SPECIES
 
 #### Status
 ACCEPTED

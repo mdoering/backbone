@@ -1,5 +1,4 @@
-Diplotomma reagens (J. Steiner) Szatala SPECIES
-=======
+# Diplotomma reagens (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

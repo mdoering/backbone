@@ -1,5 +1,4 @@
-Septobasidium boedijnii Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium boedijnii Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

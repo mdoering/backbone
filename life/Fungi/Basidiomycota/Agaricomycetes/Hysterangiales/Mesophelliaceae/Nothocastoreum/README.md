@@ -1,5 +1,4 @@
-Nothocastoreum G.W. Beaton GENUS
-=======
+# Nothocastoreum G.W. Beaton GENUS
 
 #### Status
 ACCEPTED

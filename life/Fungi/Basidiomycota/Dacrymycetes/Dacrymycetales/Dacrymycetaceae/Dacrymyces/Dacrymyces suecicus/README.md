@@ -1,5 +1,4 @@
-Dacrymyces suecicus McNabb SPECIES
-=======
+# Dacrymyces suecicus McNabb SPECIES
 
 #### Status
 ACCEPTED

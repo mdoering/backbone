@@ -1,5 +1,4 @@
-Chlamydosporium submersum Peyronel, 1913 SPECIES
-=======
+# Chlamydosporium submersum Peyronel, 1913 SPECIES
 
 #### Status
 ACCEPTED

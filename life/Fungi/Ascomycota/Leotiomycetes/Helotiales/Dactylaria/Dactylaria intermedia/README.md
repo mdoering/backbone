@@ -1,5 +1,4 @@
-Dactylaria intermedia Matsush. SPECIES
-=======
+# Dactylaria intermedia Matsush. SPECIES
 
 #### Status
 ACCEPTED

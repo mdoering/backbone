@@ -1,5 +1,4 @@
-Cochliobolus dactyloctenii Alcorn, 1982 SPECIES
-=======
+# Cochliobolus dactyloctenii Alcorn, 1982 SPECIES
 
 #### Status
 ACCEPTED

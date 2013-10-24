@@ -1,5 +1,4 @@
-Leptosphaeria kochiana E. Müll. SPECIES
-=======
+# Leptosphaeria kochiana E. Müll. SPECIES
 
 #### Status
 ACCEPTED

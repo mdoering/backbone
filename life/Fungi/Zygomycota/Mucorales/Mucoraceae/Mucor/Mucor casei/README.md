@@ -1,5 +1,4 @@
-Mucor casei Johan-Olsen SPECIES
-=======
+# Mucor casei Johan-Olsen SPECIES
 
 #### Status
 ACCEPTED

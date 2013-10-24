@@ -1,5 +1,4 @@
-Poria bombycinus Wirtg. SPECIES
-=======
+# Poria bombycinus Wirtg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhagodiscus infinitus SPECIES
-=======
+# Rhagodiscus infinitus SPECIES
 
 #### Status
 ACCEPTED

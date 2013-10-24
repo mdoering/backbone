@@ -1,5 +1,4 @@
-Hendersonia centrosematis Tassi SPECIES
-=======
+# Hendersonia centrosematis Tassi SPECIES
 
 #### Status
 ACCEPTED

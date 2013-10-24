@@ -1,5 +1,4 @@
-Cyclogyra lajollaensis SPECIES
-=======
+# Cyclogyra lajollaensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus guilfoylei (Berk.) Sacc. SPECIES
-=======
+# Pleurotus guilfoylei (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

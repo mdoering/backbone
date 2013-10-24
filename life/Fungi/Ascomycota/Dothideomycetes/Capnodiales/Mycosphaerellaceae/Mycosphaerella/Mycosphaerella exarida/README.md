@@ -1,5 +1,4 @@
-Mycosphaerella exarida (G. Winter) Starbäck SPECIES
-=======
+# Mycosphaerella exarida (G. Winter) Starbäck SPECIES
 
 #### Status
 ACCEPTED

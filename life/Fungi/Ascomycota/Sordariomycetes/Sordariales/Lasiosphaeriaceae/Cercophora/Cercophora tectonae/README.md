@@ -1,5 +1,4 @@
-Cercophora tectonae (C. Booth) Sivan. SPECIES
-=======
+# Cercophora tectonae (C. Booth) Sivan. SPECIES
 
 #### Status
 ACCEPTED

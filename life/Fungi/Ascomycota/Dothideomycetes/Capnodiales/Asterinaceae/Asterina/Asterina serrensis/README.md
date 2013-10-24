@@ -1,5 +1,4 @@
-Asterina serrensis Henn. SPECIES
-=======
+# Asterina serrensis Henn. SPECIES
 
 #### Status
 ACCEPTED

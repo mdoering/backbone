@@ -1,5 +1,4 @@
-Collema crispum var. crispum VARIETY
-=======
+# Collema crispum (Hudson) Weber ex F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Prim. fl. holsat. (Kiliae) 89 (1780)
+null
 
 #### Original name
-Lichen crispus Huds.
+null
 
 ### Remarks
 null

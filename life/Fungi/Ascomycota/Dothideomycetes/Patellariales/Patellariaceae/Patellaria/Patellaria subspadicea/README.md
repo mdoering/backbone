@@ -1,5 +1,4 @@
-Patellaria subspadicea Müll. Arg. SPECIES
-=======
+# Patellaria subspadicea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

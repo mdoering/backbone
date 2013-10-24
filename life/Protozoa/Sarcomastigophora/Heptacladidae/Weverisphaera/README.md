@@ -1,5 +1,4 @@
-Weverisphaera GENUS
-=======
+# Weverisphaera GENUS
 
 #### Status
 ACCEPTED

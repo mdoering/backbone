@@ -1,14 +1,13 @@
-Micromphale saccharophila (Speg.) Singer SPECIES
-=======
+# Micromphale saccharophilum (Speg.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lilloa 23: 305 (1951)
 
 #### Original name
 Omphalia saccharophila Speg.

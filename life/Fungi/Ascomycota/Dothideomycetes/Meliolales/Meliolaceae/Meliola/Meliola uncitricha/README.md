@@ -1,5 +1,4 @@
-Meliola uncitricha Syd. SPECIES
-=======
+# Meliola uncitricha Syd. SPECIES
 
 #### Status
 ACCEPTED

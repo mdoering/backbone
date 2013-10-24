@@ -1,5 +1,4 @@
-Leupoldina Bolli, 1957 GENUS
-=======
+# Leupoldina Bolli, 1957 GENUS
 
 #### Status
 ACCEPTED

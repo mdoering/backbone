@@ -1,5 +1,4 @@
-Trichopeziza adpressa (Wallr.) Sacc. SPECIES
-=======
+# Trichopeziza adpressa (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

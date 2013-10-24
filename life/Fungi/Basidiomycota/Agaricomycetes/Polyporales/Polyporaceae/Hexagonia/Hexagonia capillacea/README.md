@@ -1,5 +1,4 @@
-Hexagonia capillacea Pat. SPECIES
-=======
+# Hexagonia capillacea Pat. SPECIES
 
 #### Status
 ACCEPTED

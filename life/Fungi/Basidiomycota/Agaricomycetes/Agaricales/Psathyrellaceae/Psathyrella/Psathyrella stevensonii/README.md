@@ -1,5 +1,4 @@
-Psathyrella stevensonii Murrill SPECIES
-=======
+# Psathyrella stevensonii Murrill SPECIES
 
 #### Status
 ACCEPTED

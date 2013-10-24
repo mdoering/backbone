@@ -1,5 +1,4 @@
-Sporormia ontariensis Cain SPECIES
-=======
+# Sporormia ontariensis Cain SPECIES
 
 #### Status
 ACCEPTED

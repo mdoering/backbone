@@ -1,5 +1,4 @@
-Septoria lepyrodiclidis Petr. SPECIES
-=======
+# Septoria lepyrodiclidis Petr. SPECIES
 
 #### Status
 ACCEPTED

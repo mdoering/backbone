@@ -1,5 +1,4 @@
-Hygrophorus auratocephalus (Ellis) Murrill SPECIES
-=======
+# Hygrophorus auratocephalus (Ellis) Murrill SPECIES
 
 #### Status
 ACCEPTED

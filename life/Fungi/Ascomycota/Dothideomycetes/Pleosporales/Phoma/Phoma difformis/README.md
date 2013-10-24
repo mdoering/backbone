@@ -1,5 +1,4 @@
-Phoma difformis Sacc. SPECIES
-=======
+# Phoma difformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

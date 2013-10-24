@@ -1,5 +1,4 @@
-Cortinarius fraternus (Lasch) Reumaux SPECIES
-=======
+# Cortinarius fraternus (Lasch) Reumaux SPECIES
 
 #### Status
 ACCEPTED

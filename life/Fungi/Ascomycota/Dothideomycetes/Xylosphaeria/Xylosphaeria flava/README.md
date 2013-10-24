@@ -1,5 +1,4 @@
-Xylosphaeria flava (Petch) Petr. SPECIES
-=======
+# Xylosphaeria flava (Petch) Petr. SPECIES
 
 #### Status
 ACCEPTED

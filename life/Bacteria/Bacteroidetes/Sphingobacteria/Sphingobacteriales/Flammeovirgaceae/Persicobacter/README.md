@@ -1,5 +1,4 @@
-Persicobacter Nakagawa, Hamana, Sakane & Yamasato, 1997 GENUS
-=======
+# Persicobacter Nakagawa, Hamana, Sakane & Yamasato, 1997 GENUS
 
 #### Status
 ACCEPTED

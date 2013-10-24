@@ -1,5 +1,4 @@
-Scytonemaceae FAMILY
-=======
+# Scytonemaceae FAMILY
 
 #### Status
 ACCEPTED

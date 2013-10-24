@@ -1,5 +1,4 @@
-Neoskofitzia hypomycoides Rick SPECIES
-=======
+# Neoskofitzia hypomycoides Rick SPECIES
 
 #### Status
 ACCEPTED

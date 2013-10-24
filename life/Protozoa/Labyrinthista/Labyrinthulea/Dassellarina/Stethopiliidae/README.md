@@ -1,5 +1,4 @@
-Stethopiliidae FAMILY
-=======
+# Stethopiliidae FAMILY
 
 #### Status
 ACCEPTED

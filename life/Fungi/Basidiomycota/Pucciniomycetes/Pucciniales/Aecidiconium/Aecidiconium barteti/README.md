@@ -1,5 +1,4 @@
-Aecidiconium barteti Vuill., 1892 SPECIES
-=======
+# Aecidiconium barteti Vuill., 1892 SPECIES
 
 #### Status
 ACCEPTED

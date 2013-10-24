@@ -1,5 +1,4 @@
-Uredo hyperici-hookeriani Thaung SPECIES
-=======
+# Uredo hyperici-hookeriani Thaung SPECIES
 
 #### Status
 ACCEPTED

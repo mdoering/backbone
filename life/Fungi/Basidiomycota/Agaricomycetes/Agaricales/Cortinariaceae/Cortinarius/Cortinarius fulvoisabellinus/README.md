@@ -1,5 +1,4 @@
-Cortinarius fulvoisabellinus subsp. fulvoisabellinus SUBSPECIES
-=======
+# Cortinarius fulvoisabellinus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius fulvoisabellinus subsp. fulvoisabellinus
+Cortinarius fulvoisabellinus Rob. Henry
 
 ### Remarks
 null

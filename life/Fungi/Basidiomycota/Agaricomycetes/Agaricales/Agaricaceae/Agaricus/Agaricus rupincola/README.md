@@ -1,5 +1,4 @@
-Agaricus rupincola Mont. SPECIES
-=======
+# Agaricus rupincola Mont. SPECIES
 
 #### Status
 ACCEPTED

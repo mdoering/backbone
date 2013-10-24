@@ -1,5 +1,4 @@
-Jakoba libera (J. Ruinen) D. J. Patterson SPECIES
-=======
+# Jakoba libera (J. Ruinen) D. J. Patterson SPECIES
 
 #### Status
 ACCEPTED

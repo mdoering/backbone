@@ -1,5 +1,4 @@
-Stagonopsis Sacc. GENUS
-=======
+# Stagonopsis Sacc. GENUS
 
 #### Status
 ACCEPTED

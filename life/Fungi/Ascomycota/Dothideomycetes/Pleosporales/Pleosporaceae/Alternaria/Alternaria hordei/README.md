@@ -1,5 +1,4 @@
-Alternaria hordei Sawada SPECIES
-=======
+# Alternaria hordei Sawada SPECIES
 
 #### Status
 ACCEPTED

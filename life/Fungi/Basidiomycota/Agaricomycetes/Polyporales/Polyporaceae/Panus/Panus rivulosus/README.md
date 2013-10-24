@@ -1,5 +1,4 @@
-Panus rivulosus Berk. SPECIES
-=======
+# Panus rivulosus Berk. SPECIES
 
 #### Status
 ACCEPTED

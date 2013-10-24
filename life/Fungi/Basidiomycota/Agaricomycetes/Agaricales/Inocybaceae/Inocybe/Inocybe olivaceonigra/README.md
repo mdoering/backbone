@@ -1,5 +1,4 @@
-Inocybe olivaceonigra f. olivaceonigra FORM
-=======
+# Inocybe olivaceonigra (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Biblthca Mycol. 120: 177 (1988)
 
 #### Original name
-Inocybe olivaceonigra f. olivaceonigra
+Astrosporina olivaceonigra E. Horak
 
 ### Remarks
 null

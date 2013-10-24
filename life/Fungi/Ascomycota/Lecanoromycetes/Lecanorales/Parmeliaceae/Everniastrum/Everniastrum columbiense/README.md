@@ -1,5 +1,4 @@
-Everniastrum columbiense (Zahlbr.) Hale ex Sipman SPECIES
-=======
+# Everniastrum columbiense (Zahlbr.) Hale ex Sipman SPECIES
 
 #### Status
 ACCEPTED

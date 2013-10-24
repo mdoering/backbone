@@ -1,5 +1,4 @@
-Neonectria Wollenw. GENUS
-=======
+# Neonectria Wollenw. GENUS
 
 #### Status
 ACCEPTED

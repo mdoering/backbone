@@ -1,5 +1,4 @@
-Arthothelium subilicinum (Leight.) Zahlbr. SPECIES
-=======
+# Arthothelium subilicinum (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

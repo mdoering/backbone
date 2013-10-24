@@ -1,5 +1,4 @@
-Ramboldia sorediosa SPECIES
-=======
+# Ramboldia sorediosa SPECIES
 
 #### Status
 ACCEPTED

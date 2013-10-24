@@ -1,5 +1,4 @@
-Epispathidium rectitoratum subsp. rectitoratum SUBSPECIES
-=======
+# Epispathidium rectitoratum SPECIES
 
 #### Status
 ACCEPTED

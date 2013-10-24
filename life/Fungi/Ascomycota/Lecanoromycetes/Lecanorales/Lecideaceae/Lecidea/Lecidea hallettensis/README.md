@@ -1,5 +1,4 @@
-Lecidea hallettensis B.J. Murray SPECIES
-=======
+# Lecidea hallettensis B.J. Murray SPECIES
 
 #### Status
 ACCEPTED

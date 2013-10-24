@@ -1,5 +1,4 @@
-Protomyces muscorum P. Karst. SPECIES
-=======
+# Protomyces muscorum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella consanguinea (Ces.) Sacc. SPECIES
-=======
+# Anthostomella consanguinea (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

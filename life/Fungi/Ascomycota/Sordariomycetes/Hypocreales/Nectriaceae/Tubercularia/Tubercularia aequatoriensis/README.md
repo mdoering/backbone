@@ -1,5 +1,4 @@
-Tubercularia aequatoriensis Petr., 1948 SPECIES
-=======
+# Tubercularia aequatoriensis Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

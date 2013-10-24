@@ -1,5 +1,4 @@
-Chaetomium streptothrix Quél. SPECIES
-=======
+# Chaetomium streptothrix Quél. SPECIES
 
 #### Status
 ACCEPTED

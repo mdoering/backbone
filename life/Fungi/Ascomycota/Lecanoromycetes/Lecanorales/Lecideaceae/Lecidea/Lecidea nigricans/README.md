@@ -1,5 +1,4 @@
-Lecidea nigricans Vain. SPECIES
-=======
+# Lecidea nigricans Vain. SPECIES
 
 #### Status
 ACCEPTED

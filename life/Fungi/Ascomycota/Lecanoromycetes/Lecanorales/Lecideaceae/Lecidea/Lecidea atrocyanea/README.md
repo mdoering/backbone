@@ -1,5 +1,4 @@
-Lecidea atrocyanea (Th. Fr.) H. Magn. SPECIES
-=======
+# Lecidea atrocyanea (Th. Fr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

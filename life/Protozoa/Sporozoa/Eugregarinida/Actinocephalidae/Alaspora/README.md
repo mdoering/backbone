@@ -1,5 +1,4 @@
-Alaspora Obata, 1954 GENUS
-=======
+# Alaspora Obata, 1954 GENUS
 
 #### Status
 ACCEPTED

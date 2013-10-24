@@ -1,5 +1,4 @@
-Fantus Yeh, 1987 GENUS
-=======
+# Fantus Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

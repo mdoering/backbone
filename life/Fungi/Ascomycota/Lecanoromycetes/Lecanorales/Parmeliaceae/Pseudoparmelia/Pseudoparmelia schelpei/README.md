@@ -1,5 +1,4 @@
-Pseudoparmelia schelpei (Hale) Hale SPECIES
-=======
+# Pseudoparmelia schelpei (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

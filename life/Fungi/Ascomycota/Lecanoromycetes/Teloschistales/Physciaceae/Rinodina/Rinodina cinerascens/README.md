@@ -1,5 +1,4 @@
-Rinodina cinerascens SPECIES
-=======
+# Rinodina cinerascens SPECIES
 
 #### Status
 ACCEPTED

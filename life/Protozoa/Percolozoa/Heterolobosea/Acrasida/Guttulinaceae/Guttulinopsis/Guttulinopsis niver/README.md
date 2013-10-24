@@ -1,5 +1,4 @@
-Guttulinopsis niver Raper SPECIES
-=======
+# Guttulinopsis niver Raper SPECIES
 
 #### Status
 ACCEPTED

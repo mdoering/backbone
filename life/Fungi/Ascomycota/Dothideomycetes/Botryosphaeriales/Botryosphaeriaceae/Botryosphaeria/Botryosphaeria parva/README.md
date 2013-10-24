@@ -1,5 +1,4 @@
-Botryosphaeria parva Pennycook & Samuels, 1985 SPECIES
-=======
+# Botryosphaeria parva Pennycook & Samuels, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria subfuscoflavida var. subfuscoflavida VARIETY
-=======
+# Poria subfuscoflavida (Rostk.) Massee SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 14(no. 72): 113 (1886)
 
 #### Original name
-Poria subfuscoflavida var. subfuscoflavida
+Polyporus subfuscoflavidus Rostk.
 
 ### Remarks
 null

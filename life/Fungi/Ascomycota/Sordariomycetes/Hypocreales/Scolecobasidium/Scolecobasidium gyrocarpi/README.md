@@ -1,5 +1,4 @@
-Scolecobasidium gyrocarpi M.B. Ellis SPECIES
-=======
+# Scolecobasidium gyrocarpi M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

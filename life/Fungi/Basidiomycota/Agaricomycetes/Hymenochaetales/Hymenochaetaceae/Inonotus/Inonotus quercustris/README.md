@@ -1,5 +1,4 @@
-Inonotus quercustris M. Blackw. & Gilb., 1985 SPECIES
-=======
+# Inonotus quercustris M. Blackw. & Gilb., 1985 SPECIES
 
 #### Status
 ACCEPTED

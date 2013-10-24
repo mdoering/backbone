@@ -1,5 +1,4 @@
-Neobryophyllum lingua subsp. lingua SUBSPECIES
-=======
+# Neobryophyllum lingua Gelei SPECIES
 
 #### Status
 ACCEPTED

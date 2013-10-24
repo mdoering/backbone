@@ -1,5 +1,4 @@
-Agaricus drummondii Berk. SPECIES
-=======
+# Agaricus drummondii Berk. SPECIES
 
 #### Status
 ACCEPTED

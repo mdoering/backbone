@@ -1,5 +1,4 @@
-Thalpophila cossyrensis Borzì SPECIES
-=======
+# Thalpophila cossyrensis Borzì SPECIES
 
 #### Status
 ACCEPTED

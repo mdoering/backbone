@@ -1,5 +1,4 @@
-Meliola solteroi Hansf. SPECIES
-=======
+# Meliola solteroi Hansf. SPECIES
 
 #### Status
 ACCEPTED

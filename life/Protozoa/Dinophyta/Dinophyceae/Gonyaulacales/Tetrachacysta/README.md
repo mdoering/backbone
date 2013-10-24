@@ -1,5 +1,4 @@
-Tetrachacysta Backhouse, 1988 GENUS
-=======
+# Tetrachacysta Backhouse, 1988 GENUS
 
 #### Status
 ACCEPTED

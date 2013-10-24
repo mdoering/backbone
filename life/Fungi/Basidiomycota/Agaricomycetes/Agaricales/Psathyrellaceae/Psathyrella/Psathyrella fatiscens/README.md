@@ -1,5 +1,4 @@
-Psathyrella fatiscens A.H. Sm. SPECIES
-=======
+# Psathyrella fatiscens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

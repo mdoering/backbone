@@ -1,5 +1,4 @@
-Urceolaria scyphina (Müller, 1786) Bory SPECIES
-=======
+# Urceolaria scyphina (Müller, 1786) Bory SPECIES
 
 #### Status
 ACCEPTED

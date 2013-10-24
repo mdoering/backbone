@@ -1,5 +1,4 @@
-Fusulites D.O. Hemer & P.W. Nygreen, 1967 GENUS
-=======
+# Fusulites D.O. Hemer & P.W. Nygreen, 1967 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora xerampelina N. Lundq. SPECIES
-=======
+# Podospora xerampelina N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

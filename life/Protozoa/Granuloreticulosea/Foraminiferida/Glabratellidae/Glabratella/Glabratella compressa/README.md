@@ -1,5 +1,4 @@
-Glabratella compressa SPECIES
-=======
+# Glabratella compressa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oceanistipes Yang & Cho, 2006 GENUS
-=======
+# Oceanistipes Yang & Cho, 2006 GENUS
 
 #### Status
 ACCEPTED

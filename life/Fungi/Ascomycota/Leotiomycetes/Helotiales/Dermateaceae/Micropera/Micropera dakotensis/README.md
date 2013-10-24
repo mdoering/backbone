@@ -1,8 +1,7 @@
-Micropera dacotensis (Sacc. & P. Syd.) Petr. SPECIES
-=======
+# Micropera dakotensis (Sacc. & P. Syd.) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

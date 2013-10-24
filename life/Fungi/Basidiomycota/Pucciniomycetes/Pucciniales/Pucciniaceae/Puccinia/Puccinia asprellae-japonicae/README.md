@@ -1,5 +1,4 @@
-Puccinia asprellae-japonicae Hara SPECIES
-=======
+# Puccinia asprellae-japonicae Hara SPECIES
 
 #### Status
 ACCEPTED

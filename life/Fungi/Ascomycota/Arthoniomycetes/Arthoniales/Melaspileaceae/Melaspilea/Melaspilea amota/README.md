@@ -1,5 +1,4 @@
-Melaspilea amota Nyl. SPECIES
-=======
+# Melaspilea amota Nyl. SPECIES
 
 #### Status
 ACCEPTED

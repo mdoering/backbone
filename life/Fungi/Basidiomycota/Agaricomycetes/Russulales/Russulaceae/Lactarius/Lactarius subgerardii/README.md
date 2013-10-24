@@ -1,5 +1,4 @@
-Lactarius subgerardii Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius subgerardii Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

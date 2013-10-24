@@ -1,5 +1,4 @@
-Xanthoparmelia bicolorans Elix & Kantvilas SPECIES
-=======
+# Xanthoparmelia bicolorans Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

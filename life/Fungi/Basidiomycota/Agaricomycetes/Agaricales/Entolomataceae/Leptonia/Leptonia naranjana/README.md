@@ -1,5 +1,4 @@
-Leptonia naranjana (Dennis) Pegler SPECIES
-=======
+# Leptonia naranjana (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED

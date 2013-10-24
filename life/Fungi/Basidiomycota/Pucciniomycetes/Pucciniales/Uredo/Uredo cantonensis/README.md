@@ -1,5 +1,4 @@
-Uredo cantonensis H.S. Yates SPECIES
-=======
+# Uredo cantonensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Foveodiporites conspicuus (Ramanujam & K.P. Rao) Kalgutkar & Janson. SPECIES
-=======
+# Foveodiporites conspicuus (Ramanujam & K.P. Rao) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

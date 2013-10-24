@@ -1,5 +1,4 @@
-Heydeniopsis ingrica Naumov SPECIES
-=======
+# Heydeniopsis ingrica Naumov SPECIES
 
 #### Status
 ACCEPTED

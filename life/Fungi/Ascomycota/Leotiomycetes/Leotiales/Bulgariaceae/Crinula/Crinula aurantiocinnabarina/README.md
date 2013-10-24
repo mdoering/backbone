@@ -1,5 +1,4 @@
-Crinula aurantiocinnabarina Speg. SPECIES
-=======
+# Crinula aurantiocinnabarina Speg. SPECIES
 
 #### Status
 ACCEPTED

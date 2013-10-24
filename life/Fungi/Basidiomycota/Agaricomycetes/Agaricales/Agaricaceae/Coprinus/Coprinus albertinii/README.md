@@ -1,5 +1,4 @@
-Coprinus albertinii P. Karst. SPECIES
-=======
+# Coprinus albertinii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

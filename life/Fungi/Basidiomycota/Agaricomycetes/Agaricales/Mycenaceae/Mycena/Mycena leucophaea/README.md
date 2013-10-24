@@ -1,5 +1,4 @@
-Mycena leucophaea Murrill SPECIES
-=======
+# Mycena leucophaea Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polystictus zonatus var. zonatus VARIETY
-=======
+# Trametes ochracea (Pers.) Gilb. & Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 86 (1851)
+N. Amer. Polyp. (Oslo), Vol. <b>2</b> <i>Megasporoporia</i> - <i>Wrightoporia</i> 752 (1987)
 
 #### Original name
-Polystictus zonatus var. zonatus
+Boletus ochraceus Pers., 1794
 
 ### Remarks
 null

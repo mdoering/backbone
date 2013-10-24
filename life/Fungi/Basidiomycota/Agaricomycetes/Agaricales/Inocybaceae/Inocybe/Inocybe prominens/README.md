@@ -1,5 +1,4 @@
-Inocybe prominens Kauffman SPECIES
-=======
+# Inocybe prominens Kauffman SPECIES
 
 #### Status
 ACCEPTED

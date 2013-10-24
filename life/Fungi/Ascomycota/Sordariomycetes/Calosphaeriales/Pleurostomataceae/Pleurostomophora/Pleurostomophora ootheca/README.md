@@ -1,5 +1,4 @@
-Pleurostomophora ootheca Vijaykr., Jeewon & K.D. Hyde, 2004 SPECIES
-=======
+# Pleurostomophora ootheca Vijaykr., Jeewon & K.D. Hyde, 2004 SPECIES
 
 #### Status
 ACCEPTED

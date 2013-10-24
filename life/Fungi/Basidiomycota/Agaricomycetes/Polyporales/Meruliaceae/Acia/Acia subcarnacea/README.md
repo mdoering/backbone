@@ -1,5 +1,4 @@
-Acia subcarnacea (Fr.) P. Karst. SPECIES
-=======
+# Acia subcarnacea (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

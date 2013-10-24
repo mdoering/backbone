@@ -1,5 +1,4 @@
-Botryodiplodia sphaerospora Petr. SPECIES
-=======
+# Botryodiplodia sphaerospora Petr. SPECIES
 
 #### Status
 ACCEPTED

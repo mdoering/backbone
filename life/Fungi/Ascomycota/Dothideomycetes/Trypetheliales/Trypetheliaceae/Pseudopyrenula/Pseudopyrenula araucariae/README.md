@@ -1,5 +1,4 @@
-Pseudopyrenula araucariae Vain. SPECIES
-=======
+# Pseudopyrenula araucariae Vain. SPECIES
 
 #### Status
 ACCEPTED

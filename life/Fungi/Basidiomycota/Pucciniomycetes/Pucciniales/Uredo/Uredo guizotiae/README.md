@@ -1,5 +1,4 @@
-Uredo guizotiae Henn. SPECIES
-=======
+# Uredo guizotiae Henn. SPECIES
 
 #### Status
 ACCEPTED

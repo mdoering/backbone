@@ -1,5 +1,4 @@
-Lecanidion lambottianum Fautrey SPECIES
-=======
+# Lecanidion lambottianum Fautrey SPECIES
 
 #### Status
 ACCEPTED

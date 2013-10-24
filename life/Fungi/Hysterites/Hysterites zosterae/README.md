@@ -1,5 +1,4 @@
-Hysterites zosterae (Schmalh.) Mesch. SPECIES
-=======
+# Hysterites zosterae (Schmalh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria petrucciana Caldesi & De Not. SPECIES
-=======
+# Amphisphaeria petrucciana Caldesi & De Not. SPECIES
 
 #### Status
 ACCEPTED

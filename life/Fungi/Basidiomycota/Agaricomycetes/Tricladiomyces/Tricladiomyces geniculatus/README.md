@@ -1,5 +1,4 @@
-Tricladiomyces geniculatus Nawawi & Kuthub. SPECIES
-=======
+# Tricladiomyces geniculatus Nawawi & Kuthub. SPECIES
 
 #### Status
 ACCEPTED

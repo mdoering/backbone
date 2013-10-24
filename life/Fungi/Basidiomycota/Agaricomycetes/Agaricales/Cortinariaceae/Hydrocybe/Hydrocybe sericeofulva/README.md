@@ -1,5 +1,4 @@
-Hydrocybe sericeofulva M.M. Moser SPECIES
-=======
+# Hydrocybe sericeofulva M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arrhenia andina (Corner) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia andina (Corner) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

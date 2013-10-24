@@ -1,5 +1,4 @@
-Mycoporellum melaspilum (Leight.) Zahlbr. SPECIES
-=======
+# Mycoporellum melaspilum (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

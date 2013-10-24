@@ -1,5 +1,4 @@
-Hemimycena epibrya Singer SPECIES
-=======
+# Hemimycena epibrya Singer SPECIES
 
 #### Status
 ACCEPTED

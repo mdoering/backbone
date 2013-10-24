@@ -1,5 +1,4 @@
-Cladonia obtecta Ahti SPECIES
-=======
+# Cladonia obtecta Ahti SPECIES
 
 #### Status
 ACCEPTED

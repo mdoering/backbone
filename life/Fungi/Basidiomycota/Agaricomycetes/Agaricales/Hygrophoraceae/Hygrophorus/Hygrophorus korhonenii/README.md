@@ -1,5 +1,4 @@
-Hygrophorus korhonenii Harmaja SPECIES
-=======
+# Hygrophorus korhonenii Harmaja SPECIES
 
 #### Status
 ACCEPTED

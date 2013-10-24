@@ -1,5 +1,4 @@
-Haplovalsaria GENUS
-=======
+# Haplovalsaria GENUS
 
 #### Status
 ACCEPTED

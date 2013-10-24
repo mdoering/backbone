@@ -1,17 +1,16 @@
-Fusisporium cerealis Cooke SPECIES
-=======
+# Fusisporium cereale Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 6(no. 40): 139 (1878)
 
 #### Original name
-Fusisporium cerealis Cooke
+Fusisporium cereale Cooke
 
 ### Remarks
 null

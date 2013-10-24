@@ -1,8 +1,7 @@
-Synechocystis crassa var. major Geitler VARIETY
-=======
+# Synechocystis major (Geitler) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

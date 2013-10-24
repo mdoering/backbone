@@ -1,5 +1,4 @@
-Coniophora janthinospora (Pat.) Sacc. & Traverso SPECIES
-=======
+# Coniophora janthinospora (Pat.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

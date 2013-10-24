@@ -1,5 +1,4 @@
-Adelosina jullieni Schlumberger, 1890 SPECIES
-=======
+# Adelosina jullieni Schlumberger, 1890 SPECIES
 
 #### Status
 ACCEPTED

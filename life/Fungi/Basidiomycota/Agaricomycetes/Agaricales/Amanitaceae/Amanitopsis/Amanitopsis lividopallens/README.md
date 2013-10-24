@@ -1,5 +1,4 @@
-Amanitopsis lividopallens Secr. ex Boud. SPECIES
-=======
+# Amanitopsis lividopallens Secr. ex Boud. SPECIES
 
 #### Status
 ACCEPTED

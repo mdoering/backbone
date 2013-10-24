@@ -1,17 +1,16 @@
-Psilocybe subviscida var. subviscida VARIETY
-=======
+# Psilocybe subviscida (Peck) Kauffman, 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michigan Geol. Biol. Surv. Publ. , Ser. 526: 139 (1918)
 
 #### Original name
-Psilocybe subviscida var. subviscida
+Deconica subviscida Peck, 1888
 
 ### Remarks
 null

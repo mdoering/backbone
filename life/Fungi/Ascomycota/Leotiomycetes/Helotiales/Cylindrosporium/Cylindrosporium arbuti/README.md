@@ -1,5 +1,4 @@
-Cylindrosporium arbuti Vienn.-Bourg. SPECIES
-=======
+# Cylindrosporium arbuti Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

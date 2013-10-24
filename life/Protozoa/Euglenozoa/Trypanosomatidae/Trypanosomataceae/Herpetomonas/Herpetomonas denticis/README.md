@@ -1,5 +1,4 @@
-Herpetomonas denticis Fantham & Porter, 1921 SPECIES
-=======
+# Herpetomonas denticis Fantham & Porter, 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gallitellia Loeblich & Tappan, 1986 GENUS
-=======
+# Gallitellia Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

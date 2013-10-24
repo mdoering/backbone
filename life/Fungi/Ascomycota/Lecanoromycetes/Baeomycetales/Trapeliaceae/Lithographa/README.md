@@ -1,17 +1,16 @@
-Mycoplacographa Reinke GENUS
-=======
+# Lithographa Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Act. Soc. linn. Bordeaux, sér. A 21: 393 (1857)
 
 #### Original name
-Mycoplacographa Reinke
+Lithographa Nyl.
 
 ### Remarks
 null

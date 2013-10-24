@@ -1,5 +1,4 @@
-Macbrideola andina D. Wrigley, Lado & Estrada, 2011 SPECIES
-=======
+# Macbrideola andina D. Wrigley, Lado & Estrada, 2011 SPECIES
 
 #### Status
 ACCEPTED

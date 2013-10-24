@@ -1,5 +1,4 @@
-Oidium gonostegiae J.M. Yen & Chin C. Wang SPECIES
-=======
+# Oidium gonostegiae J.M. Yen & Chin C. Wang SPECIES
 
 #### Status
 ACCEPTED

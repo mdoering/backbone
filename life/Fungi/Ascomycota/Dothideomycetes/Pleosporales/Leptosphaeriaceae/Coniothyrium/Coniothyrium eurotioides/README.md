@@ -1,5 +1,4 @@
-Coniothyrium eurotioides Sacc. SPECIES
-=======
+# Coniothyrium eurotioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma jonidii Tassi SPECIES
-=======
+# Phoma jonidii Tassi SPECIES
 
 #### Status
 ACCEPTED

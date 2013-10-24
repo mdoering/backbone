@@ -1,5 +1,4 @@
-Puccinia steinmanniae Dietel & Neger SPECIES
-=======
+# Puccinia steinmanniae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

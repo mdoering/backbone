@@ -1,5 +1,4 @@
-Coronosphaera K.R. Gaarder in K.R. Gaarder & B.R. Heimdal, 1977 GENUS
-=======
+# Coronosphaera K.R. Gaarder in K.R. Gaarder & B.R. Heimdal, 1977 GENUS
 
 #### Status
 ACCEPTED

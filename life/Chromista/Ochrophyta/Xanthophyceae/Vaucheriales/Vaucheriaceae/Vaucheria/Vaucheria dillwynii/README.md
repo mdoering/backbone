@@ -1,5 +1,4 @@
-Vaucheria dillwynii (F. Weber & Mohr) C. Agardh SPECIES
-=======
+# Vaucheria dillwynii (F. Weber & Mohr) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

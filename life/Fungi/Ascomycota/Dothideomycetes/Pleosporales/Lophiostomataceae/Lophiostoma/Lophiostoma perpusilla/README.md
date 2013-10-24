@@ -1,5 +1,4 @@
-Lophiostoma perpusilla Sacc. SPECIES
-=======
+# Lophiostoma perpusilla Sacc. SPECIES
 
 #### Status
 ACCEPTED

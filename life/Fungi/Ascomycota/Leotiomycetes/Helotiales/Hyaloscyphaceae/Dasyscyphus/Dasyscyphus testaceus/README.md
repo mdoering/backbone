@@ -1,8 +1,7 @@
-Dasyscypha testaceus Sacc. SPECIES
-=======
+# Dasyscyphus testaceus Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha testaceus Sacc.
+Dasyscyphus testaceus Sacc.
 
 ### Remarks
 null

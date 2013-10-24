@@ -1,5 +1,4 @@
-Lophiostoma sambuci Nitschke SPECIES
-=======
+# Lophiostoma sambuci Nitschke SPECIES
 
 #### Status
 ACCEPTED

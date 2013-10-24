@@ -1,17 +1,16 @@
-Thelotrema subtile subsp. japonicum (Zahlbr.) G. Salisb. SUBSPECIES
-=======
+# Thelotrema subtile Tuck. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 5(3-4): 264 (1972)
+null
 
 #### Original name
-Ocellularia japonica Zahlbr.
+null
 
 ### Remarks
 null

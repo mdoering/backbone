@@ -1,5 +1,4 @@
-Sporisorium doidgeae (Zundel) Langdon & Full. SPECIES
-=======
+# Sporisorium doidgeae (Zundel) Langdon & Full. SPECIES
 
 #### Status
 ACCEPTED

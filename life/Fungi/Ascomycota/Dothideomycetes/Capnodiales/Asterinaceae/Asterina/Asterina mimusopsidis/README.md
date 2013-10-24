@@ -1,5 +1,4 @@
-Asterina mimusopsidis Hansf. SPECIES
-=======
+# Asterina mimusopsidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria discordans Nyl. SPECIES
-=======
+# Verrucaria discordans Nyl. SPECIES
 
 #### Status
 ACCEPTED

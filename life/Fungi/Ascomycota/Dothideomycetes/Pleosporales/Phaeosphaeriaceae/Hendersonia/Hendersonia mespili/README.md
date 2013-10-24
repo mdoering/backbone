@@ -1,5 +1,4 @@
-Hendersonia mespili Westend. SPECIES
-=======
+# Hendersonia mespili Westend. SPECIES
 
 #### Status
 ACCEPTED

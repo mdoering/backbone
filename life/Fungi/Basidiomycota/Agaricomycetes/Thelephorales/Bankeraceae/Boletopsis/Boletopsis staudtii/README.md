@@ -1,5 +1,4 @@
-Boletopsis staudtii Henn. SPECIES
-=======
+# Boletopsis staudtii Henn. SPECIES
 
 #### Status
 ACCEPTED

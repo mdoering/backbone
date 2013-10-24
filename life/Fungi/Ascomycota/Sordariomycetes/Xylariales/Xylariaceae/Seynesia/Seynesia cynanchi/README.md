@@ -1,5 +1,4 @@
-Seynesia cynanchi Sawada & W. Yamam. SPECIES
-=======
+# Seynesia cynanchi Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

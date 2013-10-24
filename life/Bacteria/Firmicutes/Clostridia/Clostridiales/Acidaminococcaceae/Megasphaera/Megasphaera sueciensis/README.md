@@ -1,5 +1,4 @@
-Megasphaera sueciensis Juvonen & Suihko, 2006 SPECIES
-=======
+# Megasphaera sueciensis Juvonen & Suihko, 2006 SPECIES
 
 #### Status
 ACCEPTED

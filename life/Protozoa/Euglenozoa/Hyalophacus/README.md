@@ -1,5 +1,4 @@
-Hyalophacus E.G. Pringsheim, 1936 GENUS
-=======
+# Hyalophacus E.G. Pringsheim, 1936 GENUS
 
 #### Status
 ACCEPTED

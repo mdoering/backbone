@@ -1,5 +1,4 @@
-Pannaria biatorina C. Knight SPECIES
-=======
+# Pannaria biatorina C. Knight SPECIES
 
 #### Status
 ACCEPTED

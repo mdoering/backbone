@@ -1,5 +1,4 @@
-Poria orbicularis (Berk.) Sacc. SPECIES
-=======
+# Poria orbicularis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

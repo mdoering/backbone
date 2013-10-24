@@ -1,14 +1,13 @@
-Catacauma caseariae (Henn.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora caseariae Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 393 (1915)
+Hedwigia 43: 251 (1904)
 
 #### Original name
 Phyllachora caseariae Henn., 1904

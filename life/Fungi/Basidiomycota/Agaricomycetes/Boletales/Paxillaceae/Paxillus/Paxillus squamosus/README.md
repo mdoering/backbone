@@ -1,5 +1,4 @@
-Paxillus squamosus (Velen.) Velen. SPECIES
-=======
+# Paxillus squamosus (Velen.) Velen. SPECIES
 
 #### Status
 ACCEPTED

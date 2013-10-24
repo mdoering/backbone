@@ -1,5 +1,4 @@
-Laestadia potentillae Rostr. SPECIES
-=======
+# Laestadia potentillae Rostr. SPECIES
 
 #### Status
 ACCEPTED

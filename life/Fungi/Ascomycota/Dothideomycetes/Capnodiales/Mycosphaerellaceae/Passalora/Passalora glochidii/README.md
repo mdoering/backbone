@@ -1,5 +1,4 @@
-Passalora glochidii (S. Singh) Poonam Srivast. SPECIES
-=======
+# Passalora glochidii (S. Singh) Poonam Srivast. SPECIES
 
 #### Status
 ACCEPTED

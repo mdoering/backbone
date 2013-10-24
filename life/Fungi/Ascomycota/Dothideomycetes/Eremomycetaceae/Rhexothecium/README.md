@@ -1,5 +1,4 @@
-Rhexothecium Samson & Mouch. GENUS
-=======
+# Rhexothecium Samson & Mouch. GENUS
 
 #### Status
 ACCEPTED

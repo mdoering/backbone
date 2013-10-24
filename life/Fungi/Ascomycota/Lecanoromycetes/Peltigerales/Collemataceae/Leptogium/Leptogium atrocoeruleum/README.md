@@ -1,5 +1,4 @@
-Leptogium atrocoeruleum (Rabenh.) A. Massal. SPECIES
-=======
+# Leptogium atrocoeruleum (Rabenh.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

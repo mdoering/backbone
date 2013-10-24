@@ -1,5 +1,4 @@
-Phomopsioides arachidis M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Phomopsioides arachidis M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

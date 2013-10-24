@@ -1,5 +1,4 @@
-Coniosporium subseriatum Ellis & Everh. SPECIES
-=======
+# Coniosporium subseriatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

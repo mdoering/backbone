@@ -1,5 +1,4 @@
-Russula abietina Peck SPECIES
-=======
+# Russula abietina Peck SPECIES
 
 #### Status
 ACCEPTED

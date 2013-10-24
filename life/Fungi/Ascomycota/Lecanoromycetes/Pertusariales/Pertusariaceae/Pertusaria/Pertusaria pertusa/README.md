@@ -1,5 +1,4 @@
-Pertusaria pertusa f. pertusa FORM
-=======
+# Pertusaria pertusa (L.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

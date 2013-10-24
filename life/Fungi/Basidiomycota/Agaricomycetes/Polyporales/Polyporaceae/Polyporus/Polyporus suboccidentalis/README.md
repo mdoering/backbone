@@ -1,5 +1,4 @@
-Polyporus suboccidentalis (Sacc. & P. Syd.) B.K. Bakshi SPECIES
-=======
+# Polyporus suboccidentalis (Sacc. & P. Syd.) B.K. Bakshi SPECIES
 
 #### Status
 ACCEPTED

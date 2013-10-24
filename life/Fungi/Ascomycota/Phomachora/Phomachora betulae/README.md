@@ -1,5 +1,4 @@
-Phomachora betulae Sawada SPECIES
-=======
+# Phomachora betulae Sawada SPECIES
 
 #### Status
 ACCEPTED

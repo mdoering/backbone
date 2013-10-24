@@ -1,5 +1,4 @@
-Eponides varvus Stschedrina SPECIES
-=======
+# Eponides varvus Stschedrina SPECIES
 
 #### Status
 ACCEPTED

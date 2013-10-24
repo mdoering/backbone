@@ -1,5 +1,4 @@
-Hysterium candidum Tode SPECIES
-=======
+# Hysterium candidum Tode SPECIES
 
 #### Status
 ACCEPTED

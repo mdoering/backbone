@@ -1,11 +1,10 @@
-Massartia tubulata Rampi SPECIES
-=======
+# Katodinium tubulatum (Rampi, 1969) Sournia, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

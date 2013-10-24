@@ -1,5 +1,4 @@
-Agaricus notatus Secr. SPECIES
-=======
+# Agaricus notatus Secr. SPECIES
 
 #### Status
 ACCEPTED

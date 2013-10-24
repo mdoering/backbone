@@ -1,5 +1,4 @@
-Niebla marinii Spjut SPECIES
-=======
+# Niebla marinii Spjut SPECIES
 
 #### Status
 ACCEPTED

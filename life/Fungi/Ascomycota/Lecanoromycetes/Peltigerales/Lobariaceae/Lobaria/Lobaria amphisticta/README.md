@@ -1,5 +1,4 @@
-Lobaria amphisticta (C. Knight) Hellb. SPECIES
-=======
+# Lobaria amphisticta (C. Knight) Hellb. SPECIES
 
 #### Status
 ACCEPTED

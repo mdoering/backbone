@@ -1,8 +1,7 @@
-Verrucaria elvelloides F.H. Wigg. SPECIES
-=======
+# Verrucaria helvelloides F.H. Wigg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria elvelloides F.H. Wigg.
+Verrucaria helvelloides F.H. Wigg.
 
 ### Remarks
 null

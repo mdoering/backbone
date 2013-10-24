@@ -1,5 +1,4 @@
-Phyllactinia actinidiae-latifoliae Sawada SPECIES
-=======
+# Phyllactinia actinidiae-latifoliae Sawada SPECIES
 
 #### Status
 ACCEPTED

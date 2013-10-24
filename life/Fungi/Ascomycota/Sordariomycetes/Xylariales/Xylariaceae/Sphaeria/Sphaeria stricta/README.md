@@ -1,5 +1,4 @@
-Sphaeria stricta var. stricta VARIETY
-=======
+# Sphaeria stricta Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 1: 59 (1801)
 
 #### Original name
-Sphaeria stricta var. stricta
+Sphaeria stricta Pers.
 
 ### Remarks
 null

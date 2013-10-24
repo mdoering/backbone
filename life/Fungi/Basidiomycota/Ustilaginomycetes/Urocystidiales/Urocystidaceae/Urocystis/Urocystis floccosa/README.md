@@ -1,17 +1,16 @@
-Tuburcinia anemones var. hellebori-viridis (DC.) Cif., 1963 VARIETY
-=======
+# Urocystis floccosa (Wallr.) D.M. Hend., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Quaderno Ist. Bot. Univ. Pavia 27: 279 (1963)
+Notes R. bot. Gdn Edinb. 21: 241 (1955)
 
 #### Original name
-Uredo ranunculacearum var. hellebori-viridis DC., 1815
+null
 
 ### Remarks
 null

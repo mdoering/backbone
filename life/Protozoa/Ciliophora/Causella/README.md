@@ -1,17 +1,16 @@
-Causia Koshevoj, 1987 GENUS
-=======
+# Causella Aescht, 2001 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Izvestiya vyssh. ucheb. Zaved. (Geol. Razv. ) 1987 (2): 21.
+Denisia 1: 38.
 
 #### Original name
-null
+Causia Koshevoj, 1987
 
 ### Remarks
 null

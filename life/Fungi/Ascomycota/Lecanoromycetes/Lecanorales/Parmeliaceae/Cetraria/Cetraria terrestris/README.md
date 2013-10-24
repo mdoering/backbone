@@ -1,5 +1,4 @@
-Cetraria terrestris Fink SPECIES
-=======
+# Cetraria terrestris Fink SPECIES
 
 #### Status
 ACCEPTED

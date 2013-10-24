@@ -1,5 +1,4 @@
-Crepidotus longicomatus Har. Takah., 2003 SPECIES
-=======
+# Crepidotus longicomatus Har. Takah., 2003 SPECIES
 
 #### Status
 ACCEPTED

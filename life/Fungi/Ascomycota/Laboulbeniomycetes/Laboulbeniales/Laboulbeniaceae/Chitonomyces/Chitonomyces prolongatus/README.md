@@ -1,5 +1,4 @@
-Chitonomyces prolongatus Thaxt. SPECIES
-=======
+# Chitonomyces prolongatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

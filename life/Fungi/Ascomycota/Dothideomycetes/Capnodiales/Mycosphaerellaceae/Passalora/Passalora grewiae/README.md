@@ -1,5 +1,4 @@
-Passalora grewiae (H.C. Srivast. & P.R. Mehta) U. Braun & Crous SPECIES
-=======
+# Passalora grewiae (H.C. Srivast. & P.R. Mehta) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora lysimachiae (Berl. & Roum.) Kuntze SPECIES
-=======
+# Filaspora lysimachiae (Berl. & Roum.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

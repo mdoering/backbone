@@ -1,5 +1,4 @@
-Calocera sinensis McNabb, 1965 SPECIES
-=======
+# Calocera sinensis McNabb, 1965 SPECIES
 
 #### Status
 ACCEPTED

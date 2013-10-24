@@ -1,5 +1,4 @@
-Asteromphalus kennettii R. Gersonde SPECIES
-=======
+# Asteromphalus kennettii R. Gersonde SPECIES
 
 #### Status
 ACCEPTED

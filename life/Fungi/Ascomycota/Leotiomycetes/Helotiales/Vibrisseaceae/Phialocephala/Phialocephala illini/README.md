@@ -1,5 +1,4 @@
-Phialocephala illini J.L. Crane SPECIES
-=======
+# Phialocephala illini J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

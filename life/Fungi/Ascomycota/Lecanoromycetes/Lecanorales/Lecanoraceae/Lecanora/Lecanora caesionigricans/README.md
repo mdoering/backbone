@@ -1,5 +1,4 @@
-Lecanora caesionigricans Hue SPECIES
-=======
+# Lecanora caesionigricans Hue SPECIES
 
 #### Status
 ACCEPTED

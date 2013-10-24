@@ -1,5 +1,4 @@
-Peziza replicata Tode SPECIES
-=======
+# Peziza replicata Tode SPECIES
 
 #### Status
 ACCEPTED

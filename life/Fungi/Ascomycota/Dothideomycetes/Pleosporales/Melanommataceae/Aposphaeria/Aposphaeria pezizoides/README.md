@@ -1,5 +1,4 @@
-Aposphaeria pezizoides Ellis & Everh. SPECIES
-=======
+# Aposphaeria pezizoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

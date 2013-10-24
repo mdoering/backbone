@@ -1,14 +1,13 @@
-Perisporium tragopogi (Alb. & Schwein.) Fr. SPECIES
-=======
+# Perisporium tragopogonis (Alb. & Schwein.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(1): 250 (1829)
 
 #### Original name
 Sclerotium tragopogonis Alb. & Schwein.

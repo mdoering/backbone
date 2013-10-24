@@ -1,5 +1,4 @@
-Lepiota manilensis Copel. SPECIES
-=======
+# Lepiota manilensis Copel. SPECIES
 
 #### Status
 ACCEPTED

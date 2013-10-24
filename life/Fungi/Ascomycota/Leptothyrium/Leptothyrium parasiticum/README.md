@@ -1,5 +1,4 @@
-Leptothyrium parasiticum Pollacci SPECIES
-=======
+# Leptothyrium parasiticum Pollacci SPECIES
 
 #### Status
 ACCEPTED
